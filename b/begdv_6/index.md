@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   § 1 V v. 24.11.1982 I 1571
 
-
 ## Eingangsformel
 
 Auf Grund des § 42 Abs. 2 des Bundesentschädigungsgesetzes in der
@@ -27,12 +26,10 @@ Fassung des Gesetzes vom 29. Juni 1956 (Bundesgesetzbl. I S. 559,
 (Bundesgesetzbl. I S. 1315), verordnet die Bundesregierung mit
 Zustimmung des Bundesrates:
 
-
 ## § 1
 
 Als Konzentrationslager im Sinne des § 31 Abs. 2 BEG sind die in der
 Anlage aufgeführten Haftstätten anzusehen.
-
 
 ## § 2
 
@@ -53,18 +50,15 @@ Zeiträume angegeben sind, wird vermutet, daß diese Haftstätten am 1.
 November 1943 bestanden haben und von diesem Zeitpunkt an
 Konzentrationslager im Sinne des § 31 Abs. 2 BEG gewesen sind.
 
-
 ## § 3
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit § 240 BEG
 auch im Land Berlin.
 
-
 ## § 4
 
 Diese Verordnung tritt mit Wirkung vom 18. September 1965 in Kraft.
-
 
 ## Anlage zu § 1 Verzeichnis der Konzentrationslager und ihrer Außenkommandos gemäß § 42 Abs. 2 BEG
 

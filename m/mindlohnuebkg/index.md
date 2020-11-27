@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   RGBl II: 1929, 375
 
-
-
 ## § 1
 
 (1) ... Für die Durchführung des Übereinkommens ist das
@@ -25,7 +23,6 @@ Hausarbeitsgesetz vom 27. Juni 1923 (Reichsgesetzbl. I S. 472 und 730)
 maßgebend.
 
 (2)
-
 
 ## § 2
 

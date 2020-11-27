@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1972, 1203
 
-
-
 ## (XXXX)
 
 (1) Auf Grund des § 4 Abs. 2 Nr. 3 des Warenzeichengesetzes in der
@@ -32,11 +30,9 @@ Mai 1967 (Bundesgesetzbl. I S. 574).              Sie ergeht im
 Anschluß an die Bekanntmachung vom 9. März 1972 (Bundesgesetzbl. I S.
 455).
 
-
 ## Schlussformel
 
 Der Bundesminister der Justiz
-
 
 ## Anlage
 

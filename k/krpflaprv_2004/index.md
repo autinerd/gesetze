@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 36 G v. 6.12.2011 I 2515
 
-
 ## Eingangsformel
 
 Auf Grund des § 8 des Krankenpflegegesetzes vom 16. Juli 2003 (BGBl. I
@@ -27,10 +26,7 @@ Sicherung im Einvernehmen mit dem Bundesministerium für Familie,
 Senioren, Frauen und Jugend sowie im Benehmen mit dem
 Bundesministerium für Bildung und Forschung:
 
-
 ## Abschnitt 1 - Ausbildung und allgemeine Prüfungsbestimmungen
-
-
 
 ### § 1 Gliederung der Ausbildung
 
@@ -56,7 +52,6 @@ des Nachtdienstes abzuleisten.
 (4) Die regelmäßige und erfolgreiche Teilnahme an den
 Ausbildungsveranstaltungen nach Absatz 1 ist durch eine Bescheinigung
 nach dem Muster der Anlage 2 nachzuweisen.
-
 
 ### § 2 Praktische Ausbildung
 
@@ -95,7 +90,6 @@ betreuen und die für die Praxisanleitung zuständigen Fachkräfte zu
 beraten. Dies ist auch durch regelmäßige persönliche Anwesenheit in
 den Einrichtungen zu gewährleisten.
 
-
 ### § 3 Staatliche Prüfung
 
 (1) Die staatliche Prüfung für die Ausbildungen nach § 1 Abs. 1
@@ -106,7 +100,6 @@ Ausbildung abschließt. Die zuständige Behörde, in deren Bereich die
 Prüfung oder ein Teil der Prüfung abgelegt werden soll, kann aus
 wichtigem Grund Ausnahmen zulassen. Die Vorsitzenden der beteiligten
 Prüfungsausschüsse sind vorher zu hören.
-
 
 ### § 4 Prüfungsausschuss
 
@@ -160,7 +153,6 @@ einzelnen Themenbereiche der Prüfung.
 (4) Die zuständige Behörde kann Sachverständige und Beobachter zur
 Teilnahme an allen Prüfungsvorgängen entsenden.
 
-
 ### § 5 Zulassung zur Prüfung
 
 (1) Die oder der Vorsitzende des Prüfungsausschusses entscheidet auf
@@ -189,13 +181,11 @@ werden.
 ihrer Chancengleichheit bei Durchführung der Prüfungen zu
 berücksichtigen.
 
-
 ### § 6 Niederschrift
 
 Über die Prüfung ist eine Niederschrift zu fertigen, aus der
 Gegenstand, Ablauf und Ergebnisse der Prüfung und etwa vorkommende
 Unregelmäßigkeiten hervorgehen.
-
 
 ### § 7 Benotung
 
@@ -227,10 +217,6 @@ mündlichen und der praktischen Prüfung werden wie folgt benotet:
     und selbst die Grundkenntnisse so lückenhaft sind, dass die Mängel in
     absehbarer Zeit nicht behoben werden können.
 
-
-
-
-
 ### § 8 Bestehen und Wiederholung der Prüfung
 
 (1) Die Prüfung ist bestanden, wenn jeder der nach § 3 Abs. 1
@@ -259,7 +245,6 @@ beizufügen. Die Wiederholungsprüfung muss spätestens zwölf Monate nach
 der letzten Prüfung abgeschlossen sein; Ausnahmen kann die zuständige
 Behörde in begründeten Fällen zulassen.
 
-
 ### § 9 Rücktritt von der Prüfung
 
 (1) Tritt ein Prüfling nach seiner Zulassung von der Prüfung oder
@@ -276,7 +261,6 @@ unterlässt es der Prüfling, den Grund für seinen Rücktritt
 unverzüglich mitzuteilen, so gilt die Prüfung oder der entsprechende
 Teil der Prüfung als nicht bestanden. § 8 Abs. 3 gilt entsprechend.
 
-
 ### § 10 Versäumnisfolgen
 
 (1) Versäumt ein Prüfling einen Prüfungstermin, gibt er eine
@@ -290,7 +274,6 @@ Prüfung als nicht unternommen.
 die oder der Vorsitzende des Prüfungsausschusses. § 9 Abs. 1 Satz 1
 und 4 gilt entsprechend.
 
-
 ### § 11 Ordnungsverstöße und Täuschungsversuche
 
 Die oder der Vorsitzende des Prüfungsausschusses kann bei Prüflingen,
@@ -302,7 +285,6 @@ der Prüfung nur bis zum Abschluss der gesamten Prüfung, im Falle eines
 Täuschungsversuchs nur innerhalb von drei Jahren nach Abschluss der
 Prüfung zulässig.
 
-
 ### § 12 Prüfungsunterlagen
 
 Auf Antrag ist dem Prüfungsteilnehmer nach Abschluss der Prüfung
@@ -310,10 +292,7 @@ Einsicht in seine Prüfungsunterlagen zu gewähren. Schriftliche
 Aufsichtsarbeiten sind drei, Anträge auf Zulassung zur Prüfung und
 Prüfungsniederschriften zehn Jahre aufzubewahren.
 
-
 ## Abschnitt 2 - Prüfungsbestimmungen für die Ausbildung in der Gesundheits- und Krankenpflege
-
-
 
 ### § 13 Schriftlicher Teil der Prüfung
 
@@ -352,7 +331,6 @@ bildet die oder der Vorsitzende des Prüfungsausschusses die
 Prüfungsnote für den schriftlichen Teil der Prüfung. Der schriftliche
 Teil der Prüfung ist bestanden, wenn jede der drei Aufsichtsarbeiten
 mindestens mit "ausreichend" benotet wird.
-
 
 ### § 14 Mündlicher Teil der Prüfung
 
@@ -403,7 +381,6 @@ Zustimmung des Prüflings die Anwesenheit von Zuhörerinnen und Zuhörern
 beim mündlichen Teil der Prüfung gestatten, wenn ein berechtigtes
 Interesse besteht.
 
-
 ### § 15 Praktischer Teil der Prüfung
 
 (1) Der praktische Teil der Prüfung erstreckt sich auf die Pflege
@@ -438,10 +415,7 @@ Benehmen mit den Fachprüferinnen oder Fachprüfern die Prüfungsnote für
 den praktischen Teil der Prüfung. Der praktische Teil der Prüfung ist
 bestanden, wenn die Prüfungsnote mindestens "ausreichend" beträgt.
 
-
 ## Abschnitt 3 - Prüfungsbestimmungen für die Ausbildung in der Gesundheits- und Kinderkrankenpflege
-
-
 
 ### § 16 Schriftlicher Teil der Prüfung
 
@@ -471,7 +445,6 @@ werden von der Schulleitung bestellt.
 die Differenzierungsphase in der Gesundheits- und Kinderkrankenpflege
 angemessen zu berücksichtigen.
 
-
 ### § 17 Mündlicher Teil der Prüfung
 
 (1) Der mündliche Teil der Prüfung erstreckt sich auf die folgenden
@@ -498,7 +471,6 @@ einzubeziehen.
 
 (2) § 14 Abs. 2 bis 4 gilt entsprechend.
 
-
 ### § 18 Praktischer Teil der Prüfung
 
 (1) Der praktische Tei der Prüfung erstreckt sich auf die Pflege bei
@@ -517,10 +489,7 @@ Krankenpflegegesetzes eigenverantwortlich auszuführen.
 
 (2) § 15 Abs. 2 und 3 gilt entsprechend.
 
-
 ## Abschnitt 4 - Erlaubniserteilung
-
-
 
 ### § 19 Erlaubnisurkunden
 
@@ -528,7 +497,6 @@ Liegen die Voraussetzungen nach § 2 des Krankenpflegegesetzes für die
 Erteilung der Erlaubnis zur Führung der Berufsbezeichnung nach § 1
 Abs. 1 Nr. 1 oder 2 dieses Gesetzes vor, so stellt die zuständige
 Behörde die Erlaubnisurkunde nach dem Muster der Anlage 4 aus.
-
 
 ### § 20 Sonderregelungen für Inhaberinnen oder Inhaber von Ausbildungsnachweisen aus einem anderen Vertragsstaat des Europäischen Wirtschaftsraums
 
@@ -608,7 +576,6 @@ Drittstaatsangehörige, soweit sich hinsichtlich der Diplomanerkennung
 nach dem Recht der Europäischen Gemeinschaften eine Gleichstellung
 ergibt.
 
-
 ### § 20a Frist
 
 Die zuständige Behörde bestätigt dem Antragsteller binnen eines Monats
@@ -623,10 +590,7 @@ Unterschiede ist dem Antragsteller ein rechtsmittelfähiger Bescheid zu
 erteilen. Satz 3 tritt für Anträge nach § 2 Absatz 3 des
 Krankenpflegegesetzes am 1. Dezember 2012 in Kraft.
 
-
 ## Abschnitt 5 - Übergangs- und Schlussvorschriften
-
-
 
 ### § 21 Übergangsvorschriften
 
@@ -635,16 +599,13 @@ Eine vor Inkrafttreten dieser Verordnung begonnene Ausbildung zur
 oder zum "Kinderkrankenpfleger" wird nach den bisher geltenden
 Vorschriften abgeschlossen.
 
-
 ### § 22 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2004 in Kraft.
 
-
 ### Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ### Anlage 1 (zu § 1 Abs. 1)
 
@@ -1084,10 +1045,6 @@ Gesundheits- und Kinderkrankenpflege.
 
     *   2.500
 
-
-
-
-
 ### Anlage 2 (zu § 1 Abs. 4)
 
 ......................................
@@ -1120,7 +1077,6 @@ Unterschrift(en) der Schulleitung
 -----
 \*) Nichtzutreffendes streichen.
 
-
 ### Anlage 3 (zu § 8 Abs. 2 Satz 1)
 
 Die/Der Vorsitzende
@@ -1148,7 +1104,6 @@ Ort, Datum
 ...........................................   (Siegel)
 ...........................................
 (Unterschrift der/des Vorsitzenden des Prüfungsausschusses
-
 
 ### Anlage 4 (zu § 19)
 

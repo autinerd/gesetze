@@ -18,11 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 G v. 27.7.1971 I 1157
 
-
 ## Art 1
 
 -
-
 
 ## Art 2
 
@@ -166,7 +164,6 @@ Durchführungsverordnung zum Bewertungsgesetz vom 2. Februar 1935
 (Reichsgesetzbl. I S. 81) in der zur Zeit geltenden Fassung gebildet
 worden sind.
 
-
 ## Art 3
 
 (1) Der Zeitpunkt, von dem an die Einheitswerte des Grundbesitzes der
@@ -194,7 +191,6 @@ wie die Steuermeßbeträge, die sich bei den nach bisherigem Recht
 festgestellten Einheitswerten und den bisherigen Steuermeßzahlen
 jeweils insgesamt ergeben.
 
-
 ## Art 4
 
 (1) Der Zeitpunkt, von dem an die nach den Vorschriften des
@@ -209,16 +205,13 @@ Einheitswerte maßgebend, die nach den bisherigen Vorschriften des
 Bewertungsgesetzes und den zu ihnen ergangenen
 Durchführungsvorschriften festgestellt sind.
 
-
 ## Art 5
 
 -
 
-
 ## Art 6
 
 -
-
 
 ## Art 7
 
@@ -228,7 +221,6 @@ als Bundesstatistik durchgeführt. Als Zählpapiere dienen die
 Durchschriften der Einheitswertbescheide. Die Zählpapiere dürfen die
 Namen und die Anschriften der Steuerpflichtigen nicht enthalten.
 
-
 ## Art 8
 
 Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 des Dritten
@@ -237,48 +229,39 @@ im Land Berlin. Rechtsverordnungen, die auf Grund des
 Bewertungsgesetzes oder auf Grund dieses Gesetzes erlassen werden,
 gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes.
 
-
 ## Art 9
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 
 (2)
 
-
 ## Anlage 1
 
 -
-
 
 ## Anlage 2
 
 -
 
-
 ## Anlage 3
 
 -
-
 
 ## Anlage 4
 
 -
 
-
 ## Anlage 5
 
 -
-
 
 ## Anlage 6
 
 -
 
-
 ## Anlage 7
 
 -
-
 
 ## Anlage 8
 

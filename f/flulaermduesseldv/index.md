@@ -16,15 +16,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1974, 657
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 4 Abs. 1 des Gesetzes zum Schutz gegen Fluglärm vom
 30\. März 1971 (Bundesgesetzbl. I S. 282) wird im Einvernehmen mit dem
 Bundesminister für Verkehr und mit Zustimmung des Bundesrates
 verordnet:
-
 
 ## § 1
 
@@ -33,14 +30,12 @@ erheblichen Belästigungen durch Fluglärm in der Umgebung des
 Verkehrsflughafens Düsseldorf wird der in § 2 bestimmte
 Lärmschutzbereich festgesetzt.
 
-
 ## § 2
 
 Der Lärmschutzbereich mit seinen zwei Schutzzonen wird bestimmt durch
 die interpolierten Verbindungslinien zwischen den in Anlage 1
 genannten Kurvenpunkten, soweit diese Linien außerhalb des
 Flugplatzgeländes verlaufen.
-
 
 ## § 3
 
@@ -52,7 +47,6 @@ dieser Schutzzone gelegen.
 (2) Auf die Errichtung einer baulichen Anlage finden die Vorschriften
 des Absatzes 1 entsprechende Anwendung.
 
-
 ## § 4
 
 Der nach § 2 bestimmte Lärmschutzbereich ist in einer topographischen
@@ -62,16 +56,13 @@ dieser Verordnung beigefügt. Die Blätter der Deutschen Grundkarte sind
 beim Regierungspräsidenten Düsseldorf, 4 Düsseldorf 30, Cecilienallee
 2, zu jedermanns Einsicht archivmäßig gesichert niedergelegt.
 
-
 ## § 5
 
 Diese Verordnung tritt am Tag nach ihrer Verkündung in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesminister des Innern
-
 
 ## Anlage 1 (zu § 2 der Verordnung über die Festsetzung des Lärmschutzbereichs für den Verkehrsflughafen Düsseldorf)
 

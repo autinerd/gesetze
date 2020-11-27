@@ -16,13 +16,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 3081
 
-
 ## Eingangsformel
 
 Auf Grund des § 9 Abs. 3 des Transfusionsgesetzes in der Fassung der
 Bekanntmachung vom 28. August 2007 (BGBl. I S. 2169) verordnet das
 Bundesministerium für Gesundheit:
-
 
 ## § 1 Art des Registers
 
@@ -30,7 +28,6 @@ Die für die medizinische Dokumentation und Information zuständige
 Bundesbehörde (Registerbehörde) errichtet und betreibt das Register
 nach § 9 Abs. 2 Satz 1 des Transfusionsgesetzes in Form einer
 Datenbank.
-
 
 ## § 2 Inhalt des Registers
 
@@ -62,10 +59,6 @@ In dem Register werden nur die folgenden Angaben gespeichert:
 
 7.  Name der meldenden Person der zuständigen Behörde.
 
-
-
-
-
 ## § 3 Übermittlung der Angaben an die Registerbehörde
 
 (1) Die zuständige Behörde hat die Angaben nach § 2 der
@@ -80,7 +73,6 @@ Vollständigkeit der übermittelten Daten verantwortlich und haben jede
 (3) Die Registerbehörde hat die Daten nach § 2 auf Richtigkeit und
 Vollständigkeit der Übertragung in das Register zu überprüfen und
 unrichtige Daten zu berichtigen.
-
 
 ## § 4 Übermittlung der Angaben durch die Registerbehörde
 
@@ -107,14 +99,12 @@ die Europäische Kommission ist die Nutzung des Registers entgeltfrei.
 Alle übrigen Nutzer des Registers zahlen ein Entgelt gemäß dem
 Entgeltkatalog der Registerbehörde.
 
-
 ## § 5 Datensicherheit
 
 Die Registerbehörde hat dem jeweiligen Stand der Technik entsprechende
 Maßnahmen zur Datensicherheit zu treffen, die insbesondere die
 Unversehrtheit der im Register gespeicherten Angaben sowie der von der
 Registerbehörde übermittelten Angaben gewährleisten.
-
 
 ## § 6 Löschung der Angaben
 
@@ -123,11 +113,9 @@ gespeicherten Angaben unverzüglich zu löschen, wenn die zuständige
 Behörde des Landes mitgeteilt hat, dass die Einrichtung die gemeldeten
 Tätigkeiten eingestellt hat.
 
-
 ## § 7 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Schlussformel
 

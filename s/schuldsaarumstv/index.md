@@ -16,15 +16,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1959, 403
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 17 Abs. 1 Nr. 3 des Gesetzes über die Eingliederung
 des Saarlandes vom 23. Dezember 1956 (Bundesgesetzbl. I S. 1011)
 verordnet die Bundesregierung nach Anhörung der Regierung des
 Saarlandes:
-
 
 ## § 1
 
@@ -41,7 +38,6 @@ nicht anzuwenden. Das gleiche gilt für Forderungen und
 Verbindlichkeiten, deren Umstellung auf Deutsche Mark am Ende der
 Übergangszeit durch andere gesetzliche Vorschriften bestimmt worden
 ist.
-
 
 ## § 2
 
@@ -74,10 +70,6 @@ der Weise auf Deutsche Mark umgestellt, daß an Stelle von 100 Franken
     Verwaltungsstelle im Geltungsbereich dieser Verordnung entstandenen
     Forderungen und Verbindlichkeiten.
 
-
-
-
-
 ## § 3
 
 In Franken bleiben bestehen
@@ -89,10 +81,6 @@ In Franken bleiben bestehen
 2.  Forderungen und Verbindlichkeiten, die ohne Rücksicht darauf, daß die
     französische Währung im Saarland gegolten hat, in Franken begründet
     worden sind.
-
-
-
-
 
 ## § 4
 
@@ -126,7 +114,6 @@ erhoben.
 Reallasten sowie für Schiffshypotheken und Pfandrechte an
 Bahneinheiten sinngemäß.
 
-
 ## § 5
 
 (1) Haben Gläubiger und Schuldner über die Umstellung von Forderungen,
@@ -142,7 +129,6 @@ Umstellung des dinglichen Rechts nicht zugestimmt, so ist sie
 unwirksam. Das Zustimmungserfordernis bestimmt sich nach den beim
 Inkrafttreten dieser Verordnung bestehenden Rechtsverhältnissen.
 
-
 ## § 6
 
 Vollstreckungstitel, die auf einen der Umstellung unterliegenden
@@ -152,7 +138,6 @@ des in Deutscher Mark beizutreibenden Betrages entscheidet das
 Vollstreckungsgericht in entsprechender Anwendung des § 766 der
 Zivilprozeßordnung.
 
-
 ## § 7
 
 Für die Anwendung dieser Verordnung gelten auf Reichsmark lautende,
@@ -161,13 +146,11 @@ Verbindlichkeiten von Personen im Saarland (Artikel 55 Abs. 8
 Buchstabe a des Saarvertrages) als auf Franken umgestellt; an Stelle
 von einer Reichsmark treten zwanzig Franken.
 
-
 ## § 8
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit § 19 des
 Gesetzes über die Eingliederung des Saarlandes auch im Land Berlin.
-
 
 ## § 9
 

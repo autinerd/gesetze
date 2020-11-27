@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 2862
 
-
 ## Eingangsformel
 
 Auf Grund des § 81c Absatz 3 Satz 1 bis 3 des
@@ -29,7 +28,6 @@ worden sind und von denen § 113 Absatz 2 Nummer 9 durch Artikel 1
 Nummer 50 Buchstabe a Doppelbuchstabe bb des Gesetzes vom 10. Dezember
 2003 (BGBl. I S. 2478) geändert worden ist, verordnet das
 Bundesministerium der Finanzen:
-
 
 ## § 1 Anzurechnende Kapitalerträge
 
@@ -86,7 +84,6 @@ sinngemäß.
 eine Nachweisung enthalten, beziehen sich diese auf die
 Pensionsfondsberichterstattungsverordnung vom 25. Oktober 2005 (BGBl.
 I S. 3048) in der jeweils geltenden Fassung.
-
 
 ## § 2 Mindestzuführung zur Rückstellung für Beitragsrückerstattung
 
@@ -164,7 +161,6 @@ abgezogen.
 
 (6) Für die Verweisung auf Formblätter in den Absätzen 1, 2 und 5 gilt
 § 1 Absatz 5 entsprechend.
-
 
 ## § 3 Reduzierung der Mindestzuführung
 
@@ -249,12 +245,10 @@ folgenden, als Formel dargestellten Saldo übersteigt:
 Zuführungsplans wird durch eine Reduzierung der Mindestzuführung gemäß
 Absatz 1 grundsätzlich nicht berührt.
 
-
 ## § 4 Übergangsvorschrift
 
 Die Vorschriften dieser Verordnung sind erstmals für das nach dem 31.
 Dezember 2007 beginnende Geschäftsjahr anzuwenden.
-
 
 ## § 5 Inkrafttreten
 

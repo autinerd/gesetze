@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1956, 740
 
-
-
 ## (XXXX)
 
 (1) Als Auszeichnung für Chorvereinigungen, die sich in langjährigem
@@ -31,7 +29,6 @@ Lebens erworben haben, stifte ich die
 
 (2) Die Einzelheiten der Verleihung werden durch besondere Richtlinien
 festgelegt.
-
 
 ## Schlußformel
 

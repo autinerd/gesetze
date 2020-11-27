@@ -18,13 +18,11 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 25.4.2002 I 1487
 
-
 ## Eingangsformel
 
 Auf Grund des § 22 Abs. 1 Satz 1 des Bundesjagdgesetzes in der Fassung
 der Bekanntmachung vom 29. September 1976 (BGBl. I S. 2849) wird mit
 Zustimmung des Bundesrates verordnet:
-
 
 ## § 1
 
@@ -274,11 +272,9 @@ Zeiträume einschließlich Tageszeiten, in denen nach den örtlich
 gegebenen äußeren Umständen für einen Jäger die Gefahr der
 Verwechslung von Tierarten nicht besteht.
 
-
 ## § 2
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Schlußformel
 

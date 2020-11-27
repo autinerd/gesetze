@@ -19,8 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 V v. 11.11.2010 I 1537
 
-
-
 ## § 1 Anwendungsbereich
 
 Diese Verordnung dient der Regelung der amtlichen Überwachung des
@@ -29,7 +27,6 @@ tierischen Ursprungs sowie der Umsetzung und Durchführung von
 Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union
 auf dem Gebiet der Überwachung des Verkehrs mit Lebensmitteln
 tierischen Ursprungs.
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -80,7 +77,6 @@ tierischen Ursprungs.
 
 
 entsprechend.
-
 
 ## § 3 Amtliche Fachassistenten
 
@@ -163,7 +159,6 @@ Vorschriften über
 
 zu erlassen.
 
-
 ## § 4 Schlachthofpersonal
 
 (1) Die zuständige Behörde kann auf Antrag genehmigen, dass Personal
@@ -200,7 +195,6 @@ und einer praktischen Prüfung von dem Erfolg der Schulung nach Anhang
 I Abschnitt III Kapitel III Buchstabe B der Verordnung (EG) Nr.
 854/2004 zu überzeugen.
 
-
 ## § 5 Fleischhygienerechtliche Maßnahmen im Rahmen von Zoonosen- und Seuchentilgungsprogrammen
 
 (1) Die zuständige Behörde kann eine Schlachtung im Rahmen von
@@ -233,7 +227,6 @@ Tierarzt eine geeignete Reinigung und Desinfektion aller
 Räumlichkeiten, Einrichtungs- und Ausrüstungsgegenstände anzuordnen,
 die im Rahmen der Schlachtungen nach Absatz 1 mit Erregern von
 Tierseuchen oder Zoonosen verunreinigt worden sein könnten.
-
 
 ## § 6 Fleischuntersuchung und Untersuchung auf Trichinen vor Abgabe kleiner Mengen erlegten Wildes
 
@@ -287,10 +280,6 @@ Eine Übertragung nach Satz 1 darf nur erfolgen, wenn
     Jäger die erforderliche Zuverlässigkeit für diese Tätigkeit nicht
     besitzt.
 
-
-
-
-
 ## § 7 Schlachttieruntersuchung bei der Abgabe kleiner Mengen Fleisch von Geflügel oder Hasentieren
 
 Die zuständige Behörde hat in landwirtschaftlichen Betrieben, in denen
@@ -301,7 +290,6 @@ Schlachttieruntersuchung in Form einer regelmäßigen
 Gesundheitsüberwachung des Bestandes durchzuführen. Satz 1 gilt nicht
 in Fällen des § 3 Abs. 1 Satz 2 der Tierische Lebensmittel-
 Hygieneverordnung.
-
 
 ## § 7a Amtliche Untersuchungen bei der Gewinnung von Fleisch für den eigenen häuslichen Verbrauch
 
@@ -340,7 +328,6 @@ Hygieneverordnung zur amtlichen Fleischuntersuchung oder zur amtlichen
 Untersuchung auf Trichinen angemeldet worden ist, gilt § 6 Absatz 1
 entsprechend.
 
-
 ## § 7b Amtliche Untersuchungen in Wildfarmen mit geringem Produktionsvolumen an Schalenwild
 
 (1) Im Rahmen der Genehmigung der Schlachtung oder Tötung von
@@ -377,7 +364,6 @@ Buchstabe e der Verordnung (EG) Nr. 853/2004 verfügt.
 Vorschrift sind Wildfarmen, die jährlich nicht mehr als 50 Stück
 Schalenwild schlachten oder zur Gewinnung von Fleisch für den
 menschlichen Verzehr töten oder zur Schlachtung abgeben.
-
 
 ## § 8 Kennzeichnung der Genusstauglichkeit
 
@@ -442,7 +428,6 @@ verwendet worden sind und den Anforderungen nach dem jeweiligen Inhalt
 der Muster der Anlage 1 nicht entsprechen, können bis zum 31. Dezember
 2010 weiterverwendet werden.
 
-
 ## § 9 Wiederaufnahme der Rohmilchanlieferung
 
 (1) Die Anordnung der Aussetzung der Milchanlieferung nach Anhang IV
@@ -484,10 +469,6 @@ Lieferung von Rohmilch aus dem Erzeugerbetrieb anzuordnen, wenn
 2.  im darauf folgenden Monat festgestellt wird, dass die Rohmilch den in
     Anhang III Abschnitt IX Kapitel I Teil III Nr. 3 Buchstabe a der
     Verordnung (EG) Nr. 853/2004 genannten Kriterien nicht entspricht.
-
-
-
-
 
 ## § 10 Rückstandsüberwachung
 
@@ -590,14 +571,12 @@ Verordnung (EG) Nr. 854/2004 zu nehmen.
 (9) Die Beschlagnahme ist aufzuheben, soweit die Labortests ergeben
 haben, dass festgesetzte Höchstmengen nicht überschritten werden.
 
-
 ## § 11 Übergangsvorschriften
 
 Abweichend von § 6 Absatz 2 ist bis zum 20. November 2010 § 22a Absatz
 1 Satz 2 und 3 des Fleischhygienegesetzes in der Fassung der
 Bekanntmachung vom 30. Juni 2003 (BGBl. I S. 1242, 1585) in der bis
 zum 6. September 2005 geltenden Fassung weiter anzuwenden.
-
 
 ## Anlage 1 (zu § 8) Stempel zur Kennzeichnung der Genusstauglichkeit
 
@@ -647,12 +626,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 6.  Stempel für genussuntaugliches Fleisch
 
     *        *            ![bgbl1_2007_j18162_0050.jpg](bgbl1_2007_j18162_0050.jpg)
-
-
-
-
-
-
 
 ## Anlage 2 (zu § 9) Grenzwerte für die Aufhebung der Anordnung nach Anhang IV Kapitel II Nr. 2 Satz 1 der Verordnung (EG) Nr. 854/2004
 

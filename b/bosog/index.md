@@ -19,10 +19,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 8 G v. 22.12.2010 I 2255
 
-
 ## Abschnitt 1 - Sonderung von Grundstücken und dinglichen Nutzungsrechten
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -60,10 +57,6 @@ Gebiet bestimmt werden,
     Nutzungsverhältnissen in Einklang gebracht werden (komplexe
     Bodenneuordnung).
 
-
-
-
-
 ### § 2 Unvermessenes Eigentum
 
 (1) Die Reichweite unvermessenen Eigentums bestimmt sich nach dem
@@ -99,7 +92,6 @@ Ermessen abgewichen werden, wenn die Zuteilung nach Satz 1 zu einem
 Ergebnis führt, das mit den feststehenden Umständen nicht in Einklang
 zu bringen ist.
 
-
 ### § 3 Unvermessene Nutzungsrechte
 
 (1) Bei unvermessenen dinglichen Nutzungsrechten bestimmt sich der
@@ -125,12 +117,10 @@ die Befugnis zur Ausübung des Nutzungsrechts nach Artikel 233 § 4 Abs.
 nicht eine hierüber hinausgehende Zuweisung oder Verleihung
 nachgewiesen wird. § 2 Abs. 3 gilt sinngemäß.
 
-
 ### § 4 Vollzug des Sachenrechtsbereinigungsgesetzes
 
 In den Fällen des § 1 Nr. 2 bestimmen sich die festzulegenden
 dinglichen Rechtsverhältnisse nach dem Sachenrechtsbereinigungsgesetz.
-
 
 ### § 5 Bodenneuordnung
 
@@ -189,10 +179,7 @@ Vermögenszuordnungsgesetz anhängig ist; jedoch darf der
 Sonderungsbescheid erst in Kraft gesetzt werden, wenn der
 Zuordnungsbescheid ergangen ist.
 
-
 ## Abschnitt 2 - Durchführung der Sonderung
-
-
 
 ### § 6 Ablauf des Sonderungsverfahrens
 
@@ -239,7 +226,6 @@ wenn im Grundbuch ein Zustimmungsvorbehalt unter Angabe dieser
 Vorschrift eingetragen ist. Das Grundbuchamt trägt den
 Zustimmungsvorbehalt nur auf Ersuchen der Sonderungsbehörde ein.
 
-
 ### § 7 Inhalt des Sonderungsbescheids und des Sonderungsplans
 
 (1) Der Sonderungsbescheid stellt den Sonderungsplan verbindlich fest.
@@ -252,7 +238,6 @@ Feststellung bis zur Übernahme in das Liegenschaftskataster als
 amtliches Verzeichnis der Grundstücke im Sinne von § 2 Abs. 2 der
 Grundbuchordnung. Er tritt in Ansehung der aufgeführten Grundstücke an
 die Stelle eines vorhandenen Ersatzes für das amtliche Verzeichnis.
-
 
 ### § 8 Aufstellung des Sonderungsplans
 
@@ -331,7 +316,6 @@ Sonderungsplans, auch durch Bestimmung von Mustern, unter
 Berücksichtigung der für die Führung des Liegenschaftskatasters
 bestehenden Vorschriften festzulegen.
 
-
 ### § 9 Erlaß des Sonderungsbescheids
 
 (1) Nach Ablauf der in § 8 Abs. 4 und 5 genannten Frist stellt die
@@ -367,7 +351,6 @@ haben.
 Teilung von Grundstücken bedarf es bei einer Entscheidung durch
 Sonderungsbescheid nicht.
 
-
 ### § 10 Sonderungsbehörde
 
 Sonderungsbehörde ist in den Fällen des § 1 Nr. 3 und 4 die Gemeinde,
@@ -379,7 +362,6 @@ geeignete Behörde übertragen. Die Einzelheiten der Übertragung
 einschließlich der Mitwirkungsrechte der Sonderungsbehörde können in
 einer Vereinbarung zwischen ihr und der anderen Behörde geregelt
 werden.
-
 
 ### § 11 Besonderheiten bei der ergänzenden Bodenneuordnung
 
@@ -394,7 +376,6 @@ Zuordnung von dem der Sonderung abzugrenzen. Der Sonderungsbescheid
 ist auf die grafisch als Sonderungsgebiet abgegrenzten Teile des
 Zuordnungsplans oder des einheitlichen Plans zu beschränken.
 
-
 ### § 12 Aussetzung von Verfahren
 
 Die Sonderungsbehörde kann ein Verfahren nach diesem Gesetz aussetzen,
@@ -406,10 +387,7 @@ Sonderungsbehörde erhält über die Einleitung eines solchen Verfahrens
 eine Nachricht; sie benachrichtigt ihrerseits die betreffenden
 Behörden über die Einleitung eines Sonderungsverfahrens.
 
-
 ## Abschnitt 3 - Wirkungen der Sonderung
-
-
 
 ### § 13 Umfang der Grundstücksrechte im Sonderungsgebiet
 
@@ -450,10 +428,6 @@ den neu gebildeten Grundstücken fort. Dies gilt nicht, wenn
 2.  das neu gebildete Grundstück für die Rückübertragung geteilt werden
     müßte.
 
-
-
-
-
 ### § 14 Bereicherungsausgleich
 
 In den Fällen des § 1 Nr. 1 kann, soweit der festgestellte Umfang des
@@ -469,7 +443,6 @@ solcher Rechte nach Maßgabe der Vorschriften über die
 ungerechtfertigte Bereicherung verlangen. Teilungsgenehmigungen auch
 nach Landesrecht sind zur Erfüllung dieser Ansprüche nicht
 erforderlich.
-
 
 ### § 15 Ausgleich für Rechtsverlust
 
@@ -514,14 +487,12 @@ Sonderungsbescheid festgesetzt werden.
 (6) Über Entschädigungsansprüche und Ausgleichspflichten nach dieser
 Vorschrift kann ganz oder teilweise gesondert entschieden werden.
 
-
 ### § 16 Einrede der Sonderung
 
 Soweit ein Sonderungsverfahren nach diesem Gesetz anhängig und nicht
 ausgesetzt ist, kann Ansprüchen aus § 919 oder § 920 des Bürgerlichen
 Gesetzbuchs oder auf Feststellung des Eigentums die Einrede der
 Sonderung entgegengehalten werden.
-
 
 ### § 17 Kosten
 
@@ -535,10 +506,7 @@ wenn die Rechtsverfolgung ganz oder teilweise mutwillig erscheint. Die
 Berichtigung des Grundbuchs ist kostenfrei. Im übrigen gilt § 108 Abs.
 1 und 2 des Flurbereinigungsgesetzes sinngemäß.
 
-
 ## Abschnitt 4 - Rechtsschutz, Verhältnis zu anderen Verfahren
-
-
 
 ### § 18 Antrag auf gerichtliche Entscheidung
 
@@ -596,7 +564,6 @@ anzuwendenden Vorschriften entsprechend. § 78 der Zivilprozeßordnung
 findet auf Gebietskörperschaften und die Sonderungsbehörden keine
 Anwendung.
 
-
 ### § 19 Rechtsmittel
 
 (1) Gegen die Entscheidung des Landgerichts ist das Rechtsmittel der
@@ -617,7 +584,6 @@ Oberlandesgerichts oder des Bundesgerichtshofs abweichen, so legt es
 die Sache unter Begründung seiner Rechtsauffassung dem
 Bundesgerichtshof vor. Dieser entscheidet in diesen Fällen an Stelle
 des Oberlandesgerichts.
-
 
 ### § 20 Unterrichtung anderer Stellen, Fortschreibung
 
@@ -645,13 +611,11 @@ erteilt es diese Nachweise bis zur Übernahme des Sonderungsplans in
 das amtliche Verzeichnis der nach Absatz 2 für die Fortschreibung
 zuständigen Stelle.
 
-
 ### § 21 Verhältnis zu anderen Verfahren
 
 Verfahren nach diesem Gesetz stehen Verfahren nach dem Baugesetzbuch,
 dem 8. Abschnitt des Landwirtschaftsanpassungsgesetzes, dem
 Flurbereinigungsgesetz oder den Zuordnungsvorschriften nicht entgegen.
-
 
 ### § 22 Überleitungsbestimmung
 
@@ -663,7 +627,6 @@ Abschlägen aufgeben.
 (2) In einem Sonderungsbescheid nach diesem Gesetz kann auch bestimmt
 werden, auf welchen Grundstücken sich Gebäudeeigentum nach Artikel 233
 § 2b des Einführungsgesetzes zum Bürgerlichen Gesetzbuche befindet.
-
 
 ### § 23 Verordnungsermächtigung
 

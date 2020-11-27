@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 6 V v. 23.7.2010 I 1010
 
-
 ## Eingangsformel
 
 Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 des
@@ -29,9 +28,7 @@ Bundesministerium für Bildung und Forschung nach Anhörung des
 Hauptausschusses des Bundesinstituts für Berufsbildung im Einvernehmen
 mit dem Bundesministerium für Wirtschaft und Technologie:
 
-
 ## Teil 1 - Fortbildungsabschlüsse in der Medienwirtschaft
-
 
 ### § 1 Fortbildungsabschlüsse
 
@@ -47,12 +44,7 @@ Fortbildungsabschlüssen
 
 3.  Geprüfter Medienfachwirt Digital/Geprüfte Medienfachwirtin Digital.
 
-
-
-
-
 ## Teil 2 - Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Industriemeister/Geprüfte Industriemeisterin – Fachrichtung Printmedien
-
 
 ### § 2 Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
 
@@ -109,7 +101,6 @@ Fachrichtung Printmedien wahrnehmen zu können:
 Fortbildungsabschluss Geprüfter Industriemeister/Geprüfte
 Industriemeisterin – Fachrichtung Printmedien.
 
-
 ### § 3 Umfang der Industriemeisterqualifikation und Gliederung der Prüfung
 
 (1) Die Qualifikation zum Geprüften Industriemeister/zur Geprüften
@@ -154,7 +145,6 @@ Situationsaufgaben sowie einer praxisorientierten Gesamtplanung, einer
 mündlichen Präsentation der Gesamtplanung einschließlich eines
 Fachgesprächs nach § 6 zu prüfen.
 
-
 ### § 4 Zulassungsvoraussetzungen
 
 (1) Zur Prüfung im Prüfungsteil „Grundlegende Qualifikationen“ ist
@@ -198,7 +188,6 @@ Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht,
 Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche
 Handlungsfähigkeit) erworben zu haben, die die Zulassung zur Prüfung
 rechtfertigen.
-
 
 ### § 5 Grundlegende Qualifikationen
 
@@ -387,7 +376,6 @@ Die Bewertung der schriftlichen Prüfungsleistung und die der
 mündlichen Ergänzungsprüfung werden zu einer Prüfungsleistung
 zusammengefasst. Dabei wird die Bewertung der schriftlichen
 Prüfungsleistung doppelt gewichtet.
-
 
 ### § 6 Handlungsspezifische Qualifikationen
 
@@ -817,7 +805,6 @@ schriftlichen Prüfungsleistung doppelt gewichtet. Im Prüfungsbereich
 „Projektarbeit“ nach Absatz 14 besteht keine Möglichkeit einer
 mündlichen Ergänzungsprüfung.
 
-
 ### § 7 Anrechnung anderer Prüfungsleistungen
 
 Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin ist auf Antrag
@@ -827,7 +814,6 @@ Stelle zu befreien, wenn eine andere vergleichbare Prüfung vor einer
 einem staatlichen Prüfungsausschuss erfolgreich abgelegt wurde und die
 Anmeldung zur Fortbildungsprüfung innerhalb von fünf Jahren nach der
 Bekanntgabe des Bestehens der anderen Prüfung erfolgt.
-
 
 ### § 8 Bewerten der Prüfungsteile und Bestehen der Prüfung
 
@@ -896,9 +882,7 @@ anzugeben. Der Nachweis über den Erwerb der berufs- und
 arbeitspädagogischen Kenntnisse nach § 3 Absatz 2 ist im Zeugnis
 einzutragen.
 
-
 ## Teil 3 - Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Medienfachwirt Print/ Geprüfte Medienfachwirtin Print
-
 
 ### § 9 Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
 
@@ -955,7 +939,6 @@ Print wahrnehmen zu können:
 Fortbildungsabschluss Geprüfter Medienfachwirt Print/Geprüfte
 Medienfachwirtin Print.
 
-
 ### § 10 Umfang der Medienfachwirtqualifikation und Gliederung der Prüfung
 
 (1) Die Qualifikation zum Geprüften Medienfachwirt Print/zur Geprüften
@@ -998,7 +981,6 @@ anwendungsbezogenen Aufgabenstellungen nach § 12 zu prüfen.
 Situationsaufgaben sowie einer praxisorientierten Gesamtplanung, einer
 mündlichen Präsentation der Gesamtplanung einschließlich eines
 Fachgesprächs nach § 13 zu prüfen.
-
 
 ### § 11 Zulassungsvoraussetzungen
 
@@ -1043,7 +1025,6 @@ Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht,
 Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche
 Handlungsfähigkeit) erworben zu haben, die die Zulassung zur Prüfung
 rechtfertigen.
-
 
 ### § 12 Grundlegende Qualifikationen
 
@@ -1232,7 +1213,6 @@ Die Bewertung der schriftlichen Prüfungsleistung und die der
 mündlichen Ergänzungsprüfung werden zu einer Prüfungsleistung
 zusammengefasst. Dabei wird die Bewertung der schriftlichen
 Prüfungsleistung doppelt gewichtet.
-
 
 ### § 13 Handlungsspezifische Qualifikationen
 
@@ -1664,7 +1644,6 @@ schriftlichen Prüfungsleistung doppelt gewichtet. Im Prüfungsbereich
 „Projektarbeit“ nach Absatz 14 besteht keine Möglichkeit einer
 mündlichen Ergänzungsprüfung.
 
-
 ### § 14 Anrechnung anderer Prüfungsleistungen
 
 Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin ist auf Antrag
@@ -1674,7 +1653,6 @@ Stelle zu befreien, wenn eine andere vergleichbare Prüfung vor einer
 einem staatlichen Prüfungsausschuss erfolgreich abgelegt wurde und die
 Anmeldung zur Fortbildungsprüfung innerhalb von fünf Jahren nach der
 Bekanntgabe des Bestehens der anderen Prüfung erfolgt.
-
 
 ### § 15 Bewerten der Prüfungsteile und Bestehen der Prüfung
 
@@ -1751,9 +1729,7 @@ anzugeben. Der Nachweis über den Erwerb der berufs- und
 arbeitspädagogischen Kenntnisse nach § 10 Absatz 2 ist im Zeugnis
 einzutragen.
 
-
 ## Teil 4 - Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Medienfachwirt Digital/ Geprüfte Medienfachwirtin Digital
-
 
 ### § 16 Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
 
@@ -1811,7 +1787,6 @@ Digital wahrnehmen zu können:
 Fortbildungsabschluss Geprüfter Medienfachwirt Digital/Geprüfte
 Medienfachwirtin Digital.
 
-
 ### § 17 Umfang der Medienfachwirtqualifikation und Gliederung der Prüfung
 
 (1) Die Qualifikation zum Geprüften Medienfachwirt Digital/zur
@@ -1854,7 +1829,6 @@ anwendungsbezogenen Aufgabenstellungen nach § 19 zu prüfen.
 Situationsaufgaben sowie einer praxisorientierten Gesamtplanung, einer
 mündlichen Präsentation der Gesamtplanung einschließlich eines
 Fachgesprächs nach § 20 zu prüfen.
-
 
 ### § 18 Zulassungsvoraussetzungen
 
@@ -1899,7 +1873,6 @@ Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht,
 Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche
 Handlungsfähigkeit) erworben zu haben, die die Zulassung zur Prüfung
 rechtfertigen.
-
 
 ### § 19 Grundlegende Qualifikationen
 
@@ -2088,7 +2061,6 @@ Die Bewertung der schriftlichen Prüfungsleistung und die der
 mündlichen Ergänzungsprüfung werden zu einer Prüfungsleistung
 zusammengefasst. Dabei wird die Bewertung der schriftlichen
 Prüfungsleistung doppelt gewichtet.
-
 
 ### § 20 Handlungsspezifische Qualifikationen
 
@@ -2505,7 +2477,6 @@ schriftlichen Prüfungsleistung doppelt gewichtet. Im Prüfungsbereich
 „Projektarbeit“ nach Absatz 14 besteht keine Möglichkeit einer
 mündlichen Ergänzungsprüfung.
 
-
 ### § 21 Anrechnung anderer Prüfungsleistungen
 
 Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin ist auf Antrag
@@ -2515,7 +2486,6 @@ Stelle zu befreien, wenn eine andere vergleichbare Prüfung vor einer
 einem staatlichen Prüfungsausschuss erfolgreich abgelegt wurde und die
 Anmeldung zur Fortbildungsprüfung innerhalb von fünf Jahren nach der
 Bekanntgabe des Bestehens der anderen Prüfung erfolgt.
-
 
 ### § 22 Bewerten der Prüfungsteile und Bestehen der Prüfung
 
@@ -2584,9 +2554,7 @@ anzugeben. Der Nachweis über den Erwerb der berufs- und
 arbeitspädagogischen Kenntnisse nach § 17 Absatz 2 ist im Zeugnis
 einzutragen.
 
-
 ## Teil 5 - Gemeinsame Schlussvorschriften
-
 
 ### § 23 Wiederholen der Prüfung
 
@@ -2605,7 +2573,6 @@ die Präsentation einschließlich des Fachgesprächs schlechter als
 ausreichend bewertet, ist in der Wiederholungsprüfung auch eine neue
 Gesamtplanung anzufertigen.
 
-
 ### § 24 Übergangsregelungen
 
 Begonnene Prüfungsverfahren können bis zum 30. Juni 2012 nach den
@@ -2616,11 +2583,9 @@ findet in diesem Fall keine Anwendung. Im Übrigen kann bei der
 Anmeldung zur Prüfung bis zum Ablauf des 30. Juni 2010 die Anwendung
 der bisherigen Vorschriften beantragt werden.
 
-
 ### § 25 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. September 2009 in Kraft.
-
 
 ### Anlage 1 (zu § 8 Absatz 5) Muster
 
@@ -2679,9 +2644,6 @@ bestanden.
 
 *    *   (Siegel der zuständigen Stelle)
 
-
-
-
 ### Anlage 2 (zu § 8 Absatz 5) Muster
 
 (Fundstelle: BGBl. 2009, 2912 - 2913,
@@ -2689,8 +2651,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   .................
         (Bezeichnung der zuständigen Stelle)
-
-
 
 ## Zeugnis
 
@@ -2919,8 +2879,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   die Prüfung zum anerkannten Fortbildungsabschluss
 
-
-
 ## Geprüfter Medienfachwirt Print/Geprüfte Medienfachwirtin Print
 
 nach der Medien-Fortbildungsverordnung vom 21. August 2009 (BGBl. I S.
@@ -2938,9 +2896,6 @@ bestanden.
 
 *    *   (Siegel der zuständigen Stelle)
 
-
-
-
 ### Anlage 4 (zu § 15 Absatz 5) Muster
 
 (Fundstelle: BGBl. 2009, 2915 - 2916,
@@ -2950,8 +2905,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   (Bezeichnung der zuständigen Stelle)
-
-
 
 ## Zeugnis
 
@@ -2970,8 +2923,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   hat am .................
 
     *   die Prüfung zum anerkannten Fortbildungsabschluss
-
-
 
 ## Geprüfter Medienfachwirt Print/Geprüfte Medienfachwirtin Print
 
@@ -3158,8 +3109,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   (Bezeichnung der zuständigen Stelle)
 
-
-
 ## Zeugnis
 
 über die Prüfung zum anerkannten Fortbildungsabschluss
@@ -3177,8 +3126,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   hat am .................
 
     *   die Prüfung zum anerkannten Fortbildungsabschluss
-
-
 
 ## Geprüfter Medienfachwirt Digital/Geprüfte Medienfachwirtin Digital
 
@@ -3197,9 +3144,6 @@ bestanden.
 
 *    *   (Siegel der zuständigen Stelle)
 
-
-
-
 ### Anlage 6 (zu § 22 Absatz 5) Muster
 
 (Fundstelle: BGBl. 2009, 2918 - 2919,
@@ -3209,8 +3153,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   (Bezeichnung der zuständigen Stelle)
-
-
 
 ## Zeugnis
 
@@ -3229,8 +3171,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   hat am .................
 
     *   die Prüfung zum anerkannten Fortbildungsabschluss
-
-
 
 ## Geprüfter Medienfachwirt Digital/Geprüfte Medienfachwirtin Digital
 

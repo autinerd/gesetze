@@ -16,14 +16,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 3117
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 10 des Münzgesetzes, der durch Artikel 6 Nr. 2 des
 Gesetzes vom 14. September 2005 (BGBl. I S. 2746) neu gefasst worden
 ist, verordnet das Bundesministerium der Finanzen:
-
 
 ## § 1 Begriffsbestimmungen
 
@@ -52,10 +49,6 @@ Im Sinne dieser Verordnung ist oder sind:
 
 
 6.  "Münzzeichen" der Kennbuchstabe für die Prägestätte.
-
-
-
-
 
 ## § 2 Verbote
 
@@ -88,10 +81,6 @@ kommerziellen Zwecken verbreitet werden, wenn sie
 
 
 7.  einen Durchmesser haben, der innerhalb der Referenzspanne liegt.
-
-
-
-
 
 ## § 3 Ausnahmen
 
@@ -131,7 +120,6 @@ Durchmesser innerhalb der Referenzspanne liegt, sind von dem Verbot
 des § 2 Nr. 5 und 7 ausgenommen, wenn sie für ein fremdes
 Währungsgebiet hergestellt und unmittelbar ausgeführt werden.
 
-
 ## § 4 Bereits hergestellte Medaillen und Münzstücke
 
 Medaillen und Münzstücke, die vor dem 5. November 2005 hergestellt
@@ -142,7 +130,6 @@ Medaillen und Marken vom 13. Dezember 1974 (BGBl. I S. 3520), zuletzt
 geändert durch die Verordnung vom 27. August 2001 (BGBl. I S. 2286),
 entsprechen.
 
-
 ## § 5 Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 12 Abs. 2 des Münzgesetzes handelt, wer
@@ -150,11 +137,9 @@ entgegen § 2 eine Medaille oder ein Münzstück herstellt, verkauft,
 einführt oder zum Verkauf oder zu anderen kommerziellen Zwecken
 verbreitet.
 
-
 ## § 6 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Anlage (zu § 1 Nr. 1) Erscheinungsbild des Euro-Zeichens
 

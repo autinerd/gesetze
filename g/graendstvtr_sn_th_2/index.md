@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1994, 2855
 
-
-
 ## Eingangsformel
 
 Der Freistaat Sachsen und der Freistaat Thüringen schließen auf der
@@ -32,7 +30,6 @@ in der Deutschen Demokratischen Republik vom 22. Juli 1990 (GBl. I Nr.
 II Kapitel II Sachgebiet A Abschnitt II des Einigungsvertrages
 fortgeltendes Recht ist, folgenden Staatsvertrag:
 
-
 ## Art 1
 
 (1) Die Gemeinde Cunsdorf im Landkreis Greiz (katastermäßig: Gemarkung
@@ -44,7 +41,6 @@ ihrer Gemarkungsgrenzen am 3. Oktober 1990.
 
 (3) Der bisherige und der neue Verlauf der gemeinsamen Landesgrenze
 sind aus der Anlage zu diesem Vertrag ersichtlich.
-
 
 ## Art 2
 
@@ -98,7 +94,6 @@ Umgliederungsgebiets zusammenhängenden Fragen möglichst innerhalb von
 sechs Monaten nach dem Wechsel der Landeszugehörigkeit geregelt
 werden.
 
-
 ## Art 3
 
 (1) Das im Umgliederungsgebiet belegene Verwaltungsvermögen von
@@ -141,7 +136,6 @@ Vertragsparteien sind sich einig, daß die genannten Verbindlichkeiten
 ermittelt und durch eine besondere Vereinbarung nachträglich geregelt
 werden.
 
-
 ## Art 4
 
 Die betroffenen Gemeinden und Landkreise sind verpflichtet, möglichst
@@ -153,7 +147,6 @@ Berichtigung des Grundbuchs erforderlichen Erklärungen abzugeben. Die
 Vereinbarungen bedürfen der Genehmigung der jeweils zuständigen
 Rechtsaufsichtsbehörde. Die Verpflichtung nach Satz 1 trifft auch
 sämtliche Landesbehörden einschließlich der Gerichte.
-
 
 ## Art 5
 
@@ -185,10 +178,6 @@ und des Thüringer Kultusministeriums sind sich die Vertragsparteien
     Recht der Eltern oder sonstiger Sorgeberechtigten auf Wahl eines
     Kindergartenplatzes in Thüringen zu beeinträchtigen.
 
-
-
-
-
 ## Art 6
 
 Für den Geschäftsbereich des Sächsischen Staatsministeriums für
@@ -206,10 +195,6 @@ folgendes einig:
 
 2.  Der Freistaat Thüringen verzichtet auf eine Rückforderung der
     Fördermittel.
-
-
-
-
 
 ## Art 7
 
@@ -237,17 +222,12 @@ Landesplanung sind sich die Vertragsparteien über folgendes einig:
 4.  Der Bundesminister für Umwelt, Naturschutz und Reaktorsicherheit ist
     über die Abgabe zu unterrichten.
 
-
-
-
-
 ## Art 8
 
 Die Anlage ist Bestandteil des Vertrages. Ausfertigungen der Anlage
 (Artikel 1 Abs. 3) werden bei dem Landesvermessungsamt Sachsen, bei
 dem Thüringer Landesverwaltungsamt und bei den Landratsämtern Greiz
 und Plauen aufbewahrt und können von jedermann eingesehen werden.
-
 
 ## Art 9
 
@@ -261,7 +241,6 @@ Weimar hinterlegt.
 
 (3) Der Staatsvertrag tritt am Tage nach dem Austausch der
 Ratifikationsurkunden in Kraft.
-
 
 ## Anlage
 

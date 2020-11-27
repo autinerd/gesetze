@@ -15,16 +15,13 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 639
 
-
 ## Eingangsformel
 
 Auf Grund des § 199 Absatz 1 des Baugesetzbuchs, der zuletzt durch
 Artikel 4 Nummer 4 Buchstabe a des Gesetzes vom 24. Dezember 2008
 (BGBl. I S. 3018) geändert worden ist, verordnet die Bundesregierung:
 
-
 ## Abschnitt 1 - Anwendungsbereich, Begriffsbestimmungen und allgemeine Verfahrensgrundsätze
-
 
 ### § 1 Anwendungsbereich
 
@@ -40,7 +37,6 @@ anzuwenden. In diesen Fällen kann der Wert auf der Grundlage
 marktkonformer Modelle unter besonderer Berücksichtigung der
 wirtschaftlichen Vor- und Nachteile ermittelt werden.
 
-
 ### § 2 Grundlagen der Wertermittlung
 
 Der Wertermittlung sind die allgemeinen Wertverhältnisse auf dem
@@ -54,7 +50,6 @@ Eintritt der rechtlichen und tatsächlichen Voraussetzungen für die
 Realisierbarkeit einer baulichen oder sonstigen Nutzung eines
 Grundstücks (Wartezeit) zu berücksichtigen.
 
-
 ### § 3 Wertermittlungsstichtag und allgemeine Wertverhältnisse
 
 (1) Der Wertermittlungsstichtag ist der Zeitpunkt, auf den sich die
@@ -66,7 +61,6 @@ die Preisbildung von Grundstücken im gewöhnlichen Geschäftsverkehr
 (marktüblich) maßgebenden Umstände wie nach der allgemeinen
 Wirtschaftslage, den Verhältnissen am Kapitalmarkt sowie den
 wirtschaftlichen und demographischen Entwicklungen des Gebiets.
-
 
 ### § 4 Qualitätsstichtag und Grundstückszustand
 
@@ -112,10 +106,6 @@ insbesondere zu berücksichtigen, ob am Qualitätsstichtag
     werden oder ob sich auf Flächen gesetzlich geschützte Biotope
     befinden.
 
-
-
-
-
 ### § 5 Entwicklungszustand
 
 (1) Flächen der Land- oder Forstwirtschaft sind Flächen, die, ohne
@@ -135,7 +125,6 @@ oder Größe für eine bauliche Nutzung unzureichend gestaltet sind.
 
 (4) Baureifes Land sind Flächen, die nach öffentlich-rechtlichen
 Vorschriften und den tatsächlichen Gegebenheiten baulich nutzbar sind.
-
 
 ### § 6 Weitere Grundstücksmerkmale
 
@@ -177,7 +166,6 @@ beispielsweise Maßnahmen, die eine wesentliche Verbesserung der Wohn-
 oder sonstigen Nutzungsverhältnisse oder wesentliche Einsparungen von
 Energie oder Wasser bewirken.
 
-
 ### § 7 Ungewöhnliche oder persönliche Verhältnisse
 
 Zur Wertermittlung und zur Ableitung erforderlicher Daten für die
@@ -188,7 +176,6 @@ beeinflusst worden sind. Eine Beeinflussung durch ungewöhnliche oder
 persönliche Verhältnisse kann angenommen werden, wenn Kaufpreise und
 andere Daten erheblich von den Kaufpreisen und anderen Daten in
 vergleichbaren Fällen abweichen.
-
 
 ### § 8 Ermittlung des Verkehrswerts
 
@@ -224,9 +211,7 @@ erzielbaren Erträgen erheblich abweichende Erträge können, soweit dies
 dem gewöhnlichen Geschäftsverkehr entspricht, durch marktgerechte Zu-
 oder Abschläge oder in anderer geeigneter Weise berücksichtigt werden.
 
-
 ## Abschnitt 2 - Bodenrichtwerte und sonstige erforderliche Daten
-
 
 ### § 9 Grundlagen der Ermittlung
 
@@ -251,10 +236,6 @@ geeignet, wenn die Abweichungen
 
 
 3.  durch andere geeignete Verfahren berücksichtigt werden können.
-
-
-
-
 
 ### § 10 Bodenrichtwerte
 
@@ -292,7 +273,6 @@ Nutzungsmaße ab, sollen diese ebenfalls dargestellt werden.
 (3) Die Bodenrichtwerte sind in automatisierter Form auf der Grundlage
 der amtlichen Geobasisdaten zu führen.
 
-
 ### § 11 Indexreihen
 
 (1) Änderungen der allgemeinen Wertverhältnisse auf dem
@@ -320,10 +300,6 @@ geändert werden.
 
 3.  Preise für Einfamilienhäuser.
 
-
-
-
-
 ### § 12 Umrechnungskoeffizienten
 
 Wertunterschiede von Grundstücken, die sich aus Abweichungen
@@ -333,7 +309,6 @@ Nutzung oder der Grundstücksgröße und -tiefe, sollen mit Hilfe von
 Umrechnungskoeffizienten (§ 193 Absatz 5 Satz 2 Nummer 3 des
 Baugesetzbuchs) erfasst werden.
 
-
 ### § 13 Vergleichsfaktoren für bebaute Grundstücke
 
 Vergleichsfaktoren (§ 193 Absatz 5 Satz 2 Nummer 4 des Baugesetzbuchs)
@@ -342,7 +317,6 @@ dienen. Sie sind auf den marktüblich erzielbaren jährlichen Ertrag
 (Ertragsfaktor) oder auf eine sonst geeignete Bezugseinheit,
 insbesondere auf eine Flächen- oder Raumeinheit der baulichen Anlage
 (Gebäudefaktor), zu beziehen.
-
 
 ### § 14 Marktanpassungsfaktoren, Liegenschaftszinssätze
 
@@ -375,12 +349,9 @@ gleichartig bebaute und genutzte Grundstücke unter Berücksichtigung
 der Restnutzungsdauer der Gebäude nach den Grundsätzen des
 Ertragswertverfahrens (§§ 17 bis 20) abzuleiten.
 
-
 ## Abschnitt 3 - Wertermittlungsverfahren
 
-
 ### Unterabschnitt 1 - Vergleichswertverfahren, Bodenwertermittlung
-
 
 #### § 15 Ermittlung des Vergleichswerts
 
@@ -405,7 +376,6 @@ Bezugseinheit des zu bewertenden Grundstücks mit dem Vergleichsfaktor.
 Vergleichsfaktoren sind geeignet, wenn die Grundstücksmerkmale der
 ihnen zugrunde gelegten Grundstücke hinreichend mit denen des zu
 bewertenden Grundstücks übereinstimmen.
-
 
 #### § 16 Ermittlung des Bodenwerts
 
@@ -450,9 +420,7 @@ Bodenwerterhöhung zur Bemessung von Ausgleichsbeträgen nach § 154
 Absatz 1 oder § 166 Absatz 3 Satz 4 des Baugesetzbuchs sind die
 Anfangs- und Endwerte auf denselben Zeitpunkt zu ermitteln.
 
-
 ### Unterabschnitt 2 - Ertragswertverfahren
-
 
 #### § 17 Ermittlung des Ertragswerts
 
@@ -495,7 +463,6 @@ des Grundstücks am Ende des Betrachtungszeitraums ermittelt. Die
 periodischen Reinerträge sowie der Restwert des Grundstücks sind
 jeweils auf den Wertermittlungsstichtag nach § 20 abzuzinsen.
 
-
 #### § 18 Reinertrag, Rohertrag
 
 (1) Der Reinertrag ergibt sich aus dem jährlichen Rohertrag abzüglich
@@ -506,7 +473,6 @@ Bewirtschaftung und zulässiger Nutzung marktüblich erzielbaren
 Erträgen. Bei Anwendung des Ertragswertverfahrens auf der Grundlage
 periodisch unterschiedlicher Erträge ergibt sich der Rohertrag
 insbesondere aus den vertraglichen Vereinbarungen.
-
 
 #### § 19 Bewirtschaftungskosten
 
@@ -545,7 +511,6 @@ oder sonstige Kostenübernahmen gedeckt sind.
 Soweit sich die Bewirtschaftungskosten nicht ermitteln lassen, ist von
 Erfahrungssätzen auszugehen.
 
-
 #### § 20 Kapitalisierung und Abzinsung
 
 Der Kapitalisierung und Abzinsung sind Barwertfaktoren zugrunde zu
@@ -555,9 +520,7 @@ Liegenschaftszinssatzes (§ 14 Absatz 3) der Anlage 1 oder der Anlage 2
 zu entnehmen oder nach der dort angegebenen Berechnungsvorschrift zu
 bestimmen.
 
-
 ### Unterabschnitt 3 - Sachwertverfahren
-
 
 #### § 21 Ermittlung des Sachwerts
 
@@ -575,7 +538,6 @@ Alterswertminderung (§ 23) zu ermitteln.
 wird, soweit sie nicht vom Bodenwert miterfasst werden, nach
 Erfahrungssätzen oder nach den gewöhnlichen Herstellungskosten
 ermittelt. Die §§ 22 und 23 sind entsprechend anzuwenden.
-
 
 #### § 22 Herstellungskosten
 
@@ -600,7 +562,6 @@ den gewöhnlichen Herstellungskosten einzelner Bauleistungen
 Baupreisindexreihen an die Preisverhältnisse am
 Wertermittlungsstichtag anzupassen.
 
-
 #### § 23 Alterswertminderung
 
 Die Alterswertminderung ist unter Berücksichtigung des Verhältnisses
@@ -610,9 +571,7 @@ gleichmäßige Wertminderung zugrunde zu legen. Gesamtnutzungsdauer ist
 die bei ordnungsgemäßer Bewirtschaftung übliche wirtschaftliche
 Nutzungsdauer der baulichen Anlagen.
 
-
 ## Abschnitt 4 - Schlussvorschrift
-
 
 ### § 24 Inkrafttreten und Außerkrafttreten
 
@@ -621,11 +580,9 @@ die Wertermittlungsverordnung vom 6. Dezember 1988 (BGBl. I S. 2209),
 die durch Artikel 3 des Gesetzes vom 18. August 1997 (BGBl. I S. 2081)
 geändert worden ist, außer Kraft.
 
-
 ### Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ### Anlage 1 (zu § 20) Barwertfaktoren für die Kapitalisierung
 
@@ -5124,9 +5081,6 @@ Der Bundesrat hat zugestimmt.
 
     *   Liegenschaftszinssatz
         Restnutzungsdauer
-
-
-
 
 ### Anlage 2 (zu § 20) Barwertfaktoren für die Abzinsung
 

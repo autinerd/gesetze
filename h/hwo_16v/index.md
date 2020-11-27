@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 24 G v. 6.12.2011 I 2481
 
-
 ## § 1 Beginn des Verfahrens
 
 (1) Haben sich die Handwerkskammer und die Industrie- und
@@ -44,7 +43,6 @@ angerufen werden.
 unter Darlegung der jeweiligen Auffassung und Beifügung der jeweils
 vorliegenden Akten einzureichen.
 
-
 ## § 2 Verfahren
 
 (1) Im Falle des § 16 Abs. 3 der Handwerksordnung hat die zuständige
@@ -66,7 +64,6 @@ Gelegenheit zur Stellungnahme zu geben.
 (3) Der betroffene Gewerbetreibende kann sich in jeder Lage des
 Verfahrens durch einen Bevollmächtigten vertreten lassen. § 67 Abs. 3
 der Verwaltungsgerichtsordnung gilt entsprechend.
-
 
 ## § 3 Verhandlung der Schlichtungskommission
 
@@ -106,7 +103,6 @@ Schriftführer zugezogen werden.
 (4) Die Sitzungsniederschrift oder die Verhandlungsniederschrift ist
 vom Vorsitzenden und den Beisitzern zu unterzeichnen.
 
-
 ## § 4 Beschlüsse der Schlichtungskommission
 
 (1) Die Beschlüsse der Schlichtungskommission werden mit
@@ -114,7 +110,6 @@ Stimmenmehrheit gefasst. Stimmenthaltung ist unzulässig.
 
 (2) Für die Mitglieder der Schlichtungskommission gilt die
 Schweigepflicht nach § 43 des Deutschen Richtergesetzes entsprechend.
-
 
 ## § 5 Entscheidung der Schlichtungskommission
 
@@ -138,7 +133,6 @@ Wochen zu verlängern.
 
 Soweit eine mündliche Verhandlung stattgefunden hat, ist die
 Verhandlungsniederschrift beizufügen.
-
 
 ## § 6 Geschäftsstelle
 

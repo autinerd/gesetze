@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 42
 
-
 ## Eingangsformel
 
 Auf Grund des § 3 Absatz 6, der §§ 17a und 23 Absatz 3 und 5 des
@@ -27,9 +26,7 @@ Absatz 3 durch Artikel 1 Nummer 24 Buchstabe b des Gesetzes vom 22.
 November 2011 (BGBl. I S. 2272) geändert worden ist, verordnet das
 Bundesministerium für Verkehr, Bau und Stadtentwicklung:
 
-
 ## 1. Abschnitt - Güterkraftverkehr mit Gemeinschaftslizenzen
-
 
 ### § 1 Erteilung und Entziehung der Gemeinschaftslizenz
 
@@ -65,7 +62,6 @@ dem Muster des Anhangs II der Verordnung (EG) Nr. 1072/2009
 ausgestellt. Sie enthalten eine Seriennummer und eine Ausgabenummer
 und sind mit einem Trockenprägestempel zu stempeln.
 
-
 ### § 2 Änderungsmitteilung und Urkundenänderung
 
 Ändert sich nach der Erteilung der Gemeinschaftslizenz eine der in
@@ -82,16 +78,13 @@ zuständigen Behörde eine Änderung der Lizenzurkunde erforderlich, so
 hat das Unternehmen die Lizenzurkunde und deren beglaubigten Kopien
 unverzüglich vorzulegen.
 
-
 ### § 3 Zuständigkeiten des Bundesamtes für Güterverkehr (Bundesamt)
 
 Das Bundesamt für Güterverkehr (Bundesamt) ist zuständig für die
 Unterrichtungen nach Artikel 17 Absatz 1 und 2 und die Maßnahmen nach
 Artikel 13 Absatz 2 der Verordnung (EG) Nr. 1072/2009.
 
-
 ## 2. Abschnitt - Grenzüberschreitender Güterkraftverkehr mit CEMT-Genehmigungen und CEMT-Umzugsgenehmigungen
-
 
 ### § 4 Geltungsbereich, Erteilung und Entziehung der CEMT-Genehmigung
 
@@ -171,7 +164,6 @@ Kontingentjahren, die auf das Jahr folgen, in dem die
 Widerrufsverfügung unanfechtbar geworden ist, eine CEMT-Genehmigung
 nicht erteilt werden.
 
-
 ### § 5 Fahrtenberichtheft
 
 (1) Der Unternehmer hat für jede CEMT-Genehmigung ein
@@ -202,7 +194,6 @@ Kalendermonat keine Beförderungen mit der CEMT-Genehmigung
 durchgeführt worden, so hat der Unternehmer innerhalb der in Satz 1
 genannten Frist Fehlanzeige zu erstatten.
 
-
 ### § 6 Urkundenänderung
 
 Ändert sich der Name des Unternehmers oder der Sitz des Unternehmens,
@@ -210,7 +201,6 @@ so hat der Unternehmer die CEMT-Genehmigung und das nach § 5 Absatz 1
 erforderliche Fahrtenberichtheft dem Bundesamt unverzüglich zur
 Änderung vorzulegen. Stellt er den Betrieb endgültig ein, so hat er
 beide Urkunden dem Bundesamt unverzüglich zurückzugeben.
-
 
 ### § 7 CEMT-Umzugsgenehmigung
 
@@ -250,7 +240,6 @@ Unternehmens, so hat der Unternehmer die CEMT-Umzugsgenehmigung dem
 Bundesamt unverzüglich zur Änderung vorzulegen. Stellt er den Betrieb
 endgültig ein, so hat er sie dem Bundesamt unverzüglich zurückzugeben.
 
-
 ### § 7a Verwendung der CEMT-Genehmigung
 
 Eine von einem Mitgliedstaat der CEMT nach der in § 4 Absatz 1
@@ -277,12 +266,7 @@ Voraussetzungen:
     mitführen und Kontrollberechtigten auf Verlangen zur Prüfung
     aushändigen.
 
-
-
-
-
 ## 3. Abschnitt - Grenzüberschreitender Güterkraftverkehr mit bilateralen Genehmigungen
-
 
 ### § 8 Geltung der bilateralen Genehmigung auf dem inländischen Streckenteil
 
@@ -303,9 +287,7 @@ ausstellenden inländischen Behörde unverzüglich zur Änderung
 vorzulegen. Stellt er den Betrieb endgültig ein, so hat er die Urkunde
 der ausstellenden Behörde unverzüglich zurückzugeben.
 
-
 ## 4. Abschnitt - Grenzüberschreitender Güterkraftverkehr mit Drittstaatengenehmigungen
-
 
 ### § 9 Geltungsbereich der Drittstaatengenehmigung
 
@@ -317,7 +299,6 @@ Union noch anderer Vertragsstaat des Abkommens über den Europäischen
 Wirtschaftsraum ist, auf dem inländischen Streckenteil keine dafür
 erforderliche Berechtigung nach § 6 Satz 2 Nummer 1 bis 3a des
 Güterkraftverkehrsgesetzes verwendet.
-
 
 ### § 10 Erteilung der Drittstaatengenehmigung
 
@@ -347,7 +328,6 @@ dies vorsehen. In allen anderen Fällen wird die
 Drittstaatengenehmigung von der Stelle ausgegeben, die das
 Bundesministerium für Verkehr, Bau und Stadtentwicklung bestimmt hat.
 
-
 ### § 11 Unternehmer- und fahrzeugbezogene Drittstaatengenehmigung
 
 (1) Ist die Drittstaatengenehmigung einem Unternehmer erteilt, dessen
@@ -364,7 +344,6 @@ erteilt.
 (3) Der Unternehmer darf die Drittstaatengenehmigung nicht
 gleichzeitig für mehr als ein Kraftfahrzeug verwenden.
 
-
 ### § 12 Ausnahmen
 
 Eine Drittstaatengenehmigung ist nicht erforderlich für Beförderungen,
@@ -372,9 +351,7 @@ die nach § 2 Absatz 1 oder auf Grund von § 23 Absatz 2 und 4 des
 Güterkraftverkehrsgesetzes von den Bestimmungen dieses Gesetzes
 ausgenommen sind.
 
-
 ## 5. Abschnitt - Grenzüberschreitender gewerblicher kombinierter Verkehr
-
 
 ### § 13 Definition
 
@@ -403,10 +380,6 @@ Güterbeförderungen, bei denen
 
 
     durchgeführt wird (An- oder Abfuhr).
-
-
-
-
 
 ### § 14 Nächstgelegener geeigneter Bahnhof
 
@@ -440,7 +413,6 @@ wird. Das Fahrpersonal hat die Bescheinigung nach Satz 1 im
 Kraftfahrzeug mitzuführen und Kontrollberechtigten auf Verlangen zur
 Prüfung auszuhändigen.
 
-
 ### § 15 An- und Abfuhren durch Unternehmer mit Sitz ihres Unternehmens innerhalb eines Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum
 
 (1) Ein Unternehmer, dessen Unternehmen seinen Sitz in einem
@@ -458,7 +430,6 @@ Markt für den Güterkraftverkehr zwischen Mitgliedstaaten mitgeführt
 wird. Das Fahrpersonal hat den Nachweis gemäß Satz 1 im Kraftfahrzeug
 mitzuführen und Kontrollberechtigten auf Verlangen zur Prüfung
 auszuhändigen.
-
 
 ### § 16 An- und Abfuhren durch Unternehmer mit Sitz ihres Unternehmens außerhalb der Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
 
@@ -507,7 +478,6 @@ den jeweils erforderlichen Nachweis gemäß Satz 1 im Kraftfahrzeug
 mitzuführen und Kontrollberechtigten auf Verlangen zur Prüfung
 auszuhändigen.
 
-
 ### § 17 Nachweis über die Durchführung von grenzüberschreitendem gewerblichem kombiniertem Verkehr
 
 (1) Der Unternehmer hat dafür zu sorgen, dass während einer Anfuhr im
@@ -529,9 +499,7 @@ Satz 1 auch das amtliche Kennzeichen des Kraftfahrzeugs enthalten. Das
 Fahrpersonal hat den Nachweis nach Satz 1 im Kraftfahrzeug mitzuführen
 und Kontrollberechtigten auf Verlangen zur Prüfung auszuhändigen.
 
-
 ## 5a. Abschnitt - Kabotage
-
 
 ### § 17a Befugnis zur Kabotage
 
@@ -588,9 +556,7 @@ Kabotagebeförderung mitführen und Kontrollberechtigten auf Verlangen
 zur Prüfung aushändigen oder in anderer geeigneter Weise zugänglich
 machen.
 
-
 ## 6. Abschnitt - Gemeinsame Vorschriften
-
 
 ### § 18 Bedingungen für den Fahrzeugeinsatz
 
@@ -604,7 +570,6 @@ in Satz 1 genannten Staaten, darf der Unternehmer im
 grenzüberschreitenden Güterkraftverkehr oder im Kabotageverkehr nur
 ein Kraftfahrzeug einsetzen, das im Staat des Unternehmenssitzes
 zugelassen ist.
-
 
 ### § 19 Ausschluss von Unternehmern mit Sitz ihres Unternehmens außerhalb der Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum vom Güterkraftverkehr
 
@@ -626,9 +591,7 @@ Bundesministerium für Verkehr, Bau und Stadtentwicklung oder die von
 ihm bestimmte Stelle den Unternehmer endgültig von den in Absatz 1
 genannten Verkehren ausschließen.
 
-
 ## 7. Abschnitt - Verfahren zur Erteilung einer Fahrerbescheinigung
-
 
 ### § 20 Antrag auf Ausstellung einer Fahrerbescheinigung
 
@@ -686,7 +649,6 @@ folgende Unterlagen vorgelegt werden:
 Die zuständige Behörde kann Nachweise auch für die übrigen nach Absatz
 1 zu machenden Angaben verlangen.
 
-
 ### § 21 Geltungsdauer und Unternehmensbindung der Fahrerbescheinigung
 
 Die Fahrerbescheinigung wird dem Unternehmen in der Regel für einen
@@ -699,14 +661,12 @@ Verordnung (EG) Nr. 1072/2009 ausgestellt. Sie enthält eine
 Seriennummer und eine Ausgabenummer und ist mit einem
 Trockenprägestempel zu stempeln.
 
-
 ### § 22 Rückgabe der Fahrerbescheinigung
 
 Die Fahrerbescheinigung und ihre beglaubigte Kopie sind unverzüglich
 an die Ausstellungsbehörde zurückzugeben, wenn die Fahrerbescheinigung
 nach Artikel 5 Absatz 7 Satz 3 der Verordnung (EG) Nr. 1072/2009
 ungültig geworden ist.
-
 
 ### § 23 Änderungsmitteilung und Urkundenänderung
 
@@ -718,7 +678,6 @@ unverzüglich mitzuteilen und auf Verlangen nachzuweisen. Ist eine
 die Fahrerbescheinigung und ihre beglaubigte Kopie unverzüglich
 vorzulegen.
 
-
 ### § 24 Überwachung
 
 Im Rahmen der Überwachung nach Artikel 6 Absatz 2 der Verordnung (EG)
@@ -727,9 +686,7 @@ Verlangen Nachweise nach § 20 Absatz 2 Satz 1 vorzulegen. Die Behörde
 teilt dem Unternehmen das Ergebnis der Überprüfung auf Verlangen
 schriftlich mit.
 
-
 ## 8. Abschnitt - Ordnungswidrigkeiten, In- und Außerkrafttreten
-
 
 ### § 25 Ordnungswidrigkeiten
 
@@ -802,10 +759,6 @@ Güterkraftverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig
 16. entgegen § 24 Satz 1 einen Nachweis nicht, nicht richtig, nicht
     vollständig oder nicht rechtzeitig vorlegt.
 
-
-
-
-
 ### § 26 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
@@ -813,7 +766,6 @@ Gleichzeitig tritt die Verordnung über den grenzüberschreitenden
 Güterkraftverkehr und den Kabotageverkehr vom 22. Dezember 1998 (BGBl.
 I S. 3976), die zuletzt durch Artikel 1 der Verordnung vom 5. Mai 2008
 (BGBl. I S. 794) geändert worden ist, außer Kraft.
-
 
 ### Schlussformel
 

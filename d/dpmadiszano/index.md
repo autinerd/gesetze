@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 35
 
-
 ## I.
 
 Auf Grund des § 84 Satz 2 des Bundesdisziplinargesetzes wird dem bzw.
@@ -25,18 +24,15 @@ widerruflich die Ausübung der Disziplinarbefugnisse bei
 Ruhestandsbeamtinnen und Ruhestandsbeamten im Deutschen Patent- und
 Markenamt übertragen.
 
-
 ## II.
 
 Für besondere Fälle behalte ich mir die Ausübung der
 Disziplinarbefugnisse bei den unter I. genannten Beamtinnen und
 Beamten vor.
 
-
 ## III.
 
 Diese Anordnung tritt am 1. Februar 2009 in Kraft.
-
 
 ## Schlussformel
 

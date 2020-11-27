@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 453
 
-
-
 ## I.
 
 Auf Grund des Artikels 1 Abs. 1 der Anordnung des Bundespräsidenten
@@ -42,17 +40,14 @@ Besoldungsgruppen A 2 bis A 15 der Bundesbesoldungsordnung
 
 jeweils für ihren oder seinen Geschäftsbereich.
 
-
 ## II.
 
 Für besondere Fälle behalte ich mir die Ernennung und Entlassung der
 unter Abschnitt I genannten Bundesbeamtinnen und Bundesbeamten vor.
 
-
 ## III.
 
 Diese Anordnung tritt am Tage nach der Veröffentlichung in Kraft.
-
 
 ## Schlussformel
 

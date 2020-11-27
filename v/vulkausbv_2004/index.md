@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 908
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 der
@@ -27,7 +25,6 @@ Handwerksordnung in der Fassung der Bekanntmachung vom 24. September
 Bundesministerium für Wirtschaft und Arbeit im Einvernehmen mit dem
 Bundesministerium für Bildung und Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Mechaniker für Reifen- und
@@ -35,7 +32,6 @@ Vulkanisationstechnik/Mechanikerin für Reifen- und
 Vulkanisationstechnik wird gemäß § 25 der Handwerksordnung zur
 Ausbildung für das Gewerbe Nummer 41 der Anlage A der Handwerksordnung
 staatlich anerkannt.
-
 
 ## § 2 Ausbildungsdauer
 
@@ -57,7 +53,6 @@ einer Rechtsverordnung gemäß § 27a Abs. 1 der Handwerksordnung als
 erstes Jahr der Berufsausbildung anzurechnen ist, beginnen die
 betriebliche Ausbildung im zweiten Ausbildungsjahr.
 
-
 ## § 3 Zielsetzung der Berufsausbildung
 
 Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen
@@ -70,7 +65,6 @@ betrieblichen Gesamtzusammenhang einschließt. Diese in Satz 2
 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 9, 10
 und 11 nachzuweisen.
 
-
 ## § 4 Berufsfeldbreite Grundbildung
 
 Die Ausbildung im ersten Ausbildungsjahr vermittelt eine
@@ -78,7 +72,6 @@ berufsfeldbreite Grundbildung, wenn die betriebliche Ausbildung nach
 dieser Ausbildungsverordnung und die Ausbildung in der Berufsschule
 nach den landesrechtlichen Vorschriften über das
 Berufsgrundbildungsjahr erfolgen.
-
 
 ## § 5 Ausbildungsberufsbild
 
@@ -177,13 +170,6 @@ mindestens die folgenden Fertigkeiten und Kenntnisse:
 
     d)  Herstellen und Instandsetzen von Gummiauskleidungen und -belägen.
 
-
-
-
-
-
-
-
 ## § 6 Ausbildungsrahmenplan
 
 Die Fertigkeiten und Kenntnisse nach § 5 sollen unter Berücksichtigung
@@ -194,13 +180,11 @@ zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
 zulässig, soweit betriebspraktische Besonderheiten die Abweichung
 erfordern.
 
-
 ## § 7 Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des
 Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan
 zu erstellen.
-
 
 ## § 8 Berichtsheft
 
@@ -208,7 +192,6 @@ Die Auszubildenden haben ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden
 haben das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 9 Zwischenprüfung
 
@@ -252,7 +235,6 @@ sollen die Prüflinge zeigen, dass sie fachbezogene Probleme und deren
 Lösungen darstellen, die für die Arbeitsaufgaben wesentlichen
 fachlichen Hintergründe aufzeigen sowie die Vorgehensweise bei der
 Durchführung der Arbeitsaufgaben begründen können.
-
 
 ## § 10 Gesellenprüfung in der Fachrichtung Reifen- und Fahrwerktechnik
 
@@ -412,7 +394,6 @@ der Prüfungsbereiche des Prüfungsteils B müssen mindestens
 ausreichende Leistungen, in dem weiteren Prüfungsbereich des
 Prüfungsteils B dürfen keine ungenügenden Leistungen erbracht worden
 sein.
-
 
 ## § 11 Gesellenprüfung in der Fachrichtung Vulkanisationstechnik
 
@@ -577,7 +558,6 @@ ausreichende Leistungen, in dem weiteren Prüfungsbereich des
 Prüfungsteils B dürfen keine ungenügenden Leistungen erbracht worden
 sein.
 
-
 ## § 12 Übergangsregelung
 
 (1) Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
@@ -600,11 +580,9 @@ bisherigen Vorschriften weiter anzuwenden, es sei denn, die
 Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser
 Verordnung.
 
-
 ## § 13 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2004 in Kraft.
-
 
 ## Anlage (zu § 6) Ausbildungsrahmenplan für die Berufsausbildung zum Mechaniker für Reifen- und Vulkanisationstechnik/zur Mechanikerin für Reifen- und Vulkanisationstechnik
 

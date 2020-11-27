@@ -15,27 +15,21 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1958, 899
 
-
-
 ## Art 1
 
 -
-
 
 ## Art 2
 
 -
 
-
 ## Art 3
 
 -
 
-
 ## Art 4
 
 -
-
 
 ## Art 5
 
@@ -54,7 +48,6 @@ Stelle.
 (3) Soweit Behörden angeführt sind, die im Land Berlin nicht bestehen,
 sind in Berlin die entsprechenden Berliner Behörden zuständig.
 
-
 ## Art 6
 
 (1) Soweit in diesem Gesetz auf Vorschriften verwiesen wird, die im
@@ -65,7 +58,6 @@ vorausgesetzt wird.
 
 (2) Soweit Behörden angeführt sind, die im Saarland nicht bestehen,
 sind im Saarland die entsprechenden saarländischen Behörden zuständig.
-
 
 ## Art 7
 

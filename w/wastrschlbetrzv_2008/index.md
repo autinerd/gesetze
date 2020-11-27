@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   VkBl: 2008, 312
 
-
 ## Eingangsformel
 
 Auf Grund von § 46 Nr. 1 des Bundeswasserstraßengesetz in der  Fassung
@@ -28,13 +27,11 @@ Bundeswasserstraßengesetz über die Regelung des  Betriebs von Anlagen
 vom 31. März 1970 (BGBl. I S. 315) verordnet die Wasser- und
 Schifffahrtsdirektion Süd:
 
-
 ## § 1
 
 Die Schiffsschleusen am Main, Main-Donau-Kanal und an der Donau werden
 während des ganzen Jahres ganztägig betrieben. Verkehrszeiten sind:
 Tagverkehr  6:00 bis 22:00 Uhr, Nachtverkehr 22:00 bis 6:00 Uhr.
-
 
 ## § 2
 
@@ -53,14 +50,12 @@ Verzögerungen im angemeldeten Schleusungsablauf ergeben.
 (3) Die Regelungen zum Schleusenrang nach § 6.29 BinSchStrO und § 6.28
 DonauSchPV bleiben unberührt.
 
-
 ## § 3
 
 Die Fahrzeuge müssen an nicht fernbedienten Schleusen im Tagverkehr
 bis spätestens 21:30 Uhr und im Nachtverkehr bis spätestens 5:30 Uhr
 in die letzte,  in der jeweiligen Verkehrszeit zu durchfahrende
 Schleusenkammer eingefahren sein.
-
 
 ## § 4
 
@@ -69,7 +64,6 @@ Durchführung von Unterhaltungsmaßnahmen an den Schiffsschleusenanlagen
 können die Wasser- und Schifffahrtsdirektion sowie die Wasser- und
 Schifffahrtsämter vorübergehend abweichende Schleusenbetriebszeiten
 mit Aussetzung des Betriebs anordnen.
-
 
 ## § 5
 

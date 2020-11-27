@@ -19,12 +19,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 11 Nr. 19 G v. 30. 7.2004 I 1950
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## § 1 Berechtigter
 
@@ -51,15 +49,10 @@ Staatsangehörigkeit er besitzt, wenn er
 
 4.  eine Rückkehrverpflichtung nach § 3 eingegangen ist.
 
-
-
-
-
 ## § 2 Höhe der Bausparsumme
 
 Die nach § 1 verwendete Bausparsumme darf für den Bausparer insgesamt
 60\.000 Deutsche Mark nicht übersteigen.
-
 
 ## § 3 Rückkehrverpflichtung
 
@@ -73,7 +66,6 @@ verwendet werden soll.
 2\. Ist mit der Auszahlung der Bausparsumme bis zum Ablauf der Frist
 nach § 6 Abs. 1 noch nicht begonnen worden, tritt an die Stelle des
 Beginns der Auszahlung der 31. Dezember 1993.
-
 
 ## § 4 Unverzügliche Rückzahlung des Bauspardarlehens
 
@@ -90,7 +82,6 @@ Hypothekarkredite auf Wohngrundstücke mit einer festen Verzinsung für
 zehn Jahre für die tatsächliche Laufzeit des Bauspardarlehens zu
 zahlen. Der Unterschiedsbetrag ist für die Zuteilungsmasse zu
 verwenden.
-
 
 ## § 5 Verfahren
 
@@ -110,7 +101,6 @@ Gesetzes der Bausparkasse nachzuweisen. Die Bausparkasse unterrichtet
 die Ausländerbehörde und die Agentur für Arbeit, in dessen Bezirk der
 Bausparer seinen Wohnsitz hatte, über die Ausreise.
 
-
 ## § 6 Befristung
 
 (1) Die Vorschriften der §§ 1 bis 5 gelten nur für Bausparverträge,
@@ -121,16 +111,12 @@ Auszahlung eines Darlehens zur Zwischenfinanzierung nach Einzahlung
 der vertraglichen Mindestsparsumme und Ablauf der Mindestwartezeit
 begonnen worden ist.
 
-
 ## (XXXX) §§ 7 und 8
-
-
 
 ## § 9 Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 und des § 13 Abs. 1
 des Dritten Überleitungsgesetzes auch im Land Berlin.
-
 
 ## § 10 Inkrafttreten
 

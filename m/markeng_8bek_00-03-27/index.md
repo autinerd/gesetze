@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2000, 445
 
-
-
 ## (XXXX)
 
 Auf Grund des § 8 Abs. 2 Nr. 7 des Markengesetzes vom 25. Oktober 1994
@@ -33,7 +31,6 @@ Diese Bekanntmachung ergeht im Anschluss an die Bekanntmachung vom 20.
 Juli 1999 (BGBl. I S. 1723).
 
 Bundesministerium der Justiz
-
 
 ## Anlage Amtliches Prüf- und Gewährzeichen der Bundesrepublik Deutschland für die Sicherheit von informationstechnischen Systemen und Komponenten
 

@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 206
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des
@@ -27,17 +25,14 @@ Verbindung mit § 1 des Zuständigkeitsanpassungsgesetzes vom 16. August
 und Technologie im Einvernehmen mit dem Bundesministerium für Bildung
 und Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Hafenschiffer/Hafenschifferin wird staatlich
 anerkannt.
 
-
 ## § 2 Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Zielsetzung der Berufsausbildung
 
@@ -49,7 +44,6 @@ selbstständiges Planen, Durchführen und Kontrollieren sowie das
 Handeln im betrieblichen Gesamtzusammenhang einschließt. Die in Satz 1
 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 8 und 9
 nachzuweisen.
-
 
 ## § 4 Ausbildungsberufsbild
 
@@ -92,10 +86,6 @@ Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 12. Verhalten bei besonderen Umständen, Havarien und Betriebsstörungen.
 
-
-
-
-
 ## § 5 Ausbildungsrahmenplan
 
 Die in § 4 genannten Fertigkeiten, Kenntnisse und Fähigkeiten
@@ -106,12 +96,10 @@ dem Ausbildungsrahmenplan abweichende sachliche und zeitliche
 Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit
 betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
 ## § 6 Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans
 für die Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 7 Schriftlicher Ausbildungsnachweis
 
@@ -120,7 +108,6 @@ führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
 Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
 Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
 durchzusehen.
-
 
 ## § 8 Zwischenprüfung
 
@@ -160,7 +147,6 @@ Prozessen mitwirken, Maßnahmen zur Sicherheit und zum
 Gesundheitsschutz bei der Arbeit, zum Umweltschutz, zur
 Qualitätssicherung und zur Kundenorientierung anwenden sowie seine
 Vorgehensweise begründen kann.
-
 
 ## § 9 Abschlussprüfung
 
@@ -324,14 +310,12 @@ schriftlichen Teils der Prüfung müssen mindestens ausreichende
 Leistungen, in dem weiteren Prüfungsbereich des schriftlichen Teils
 der Prüfung dürfen keine ungenügenden Leistungen erbracht worden sein.
 
-
 ## § 10 Nichtanwenden von Vorschriften
 
 Die bisher festgelegten Berufsbilder, Berufsausbildungspläne und
 Prüfungsanforderungen für die Ausbildungsberufe
 Ewerführer/Ewerführerin und Hafenschiffer/Hafenschifferin sind
 vorbehaltlich des § 11 nicht mehr anzuwenden.
-
 
 ## § 11 Bestehende Berufsausbildungsverhältnisse
 
@@ -340,11 +324,9 @@ bestehen, können unter Anrechung der bisher zurückgelegten
 Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt
 werden, wenn die Vertragsparteien dies vereinbaren.
 
-
 ## § 12 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2006 in Kraft.
-
 
 ## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Hafenschiffer/zur Hafenschifferin
 

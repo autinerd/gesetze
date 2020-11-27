@@ -20,8 +20,6 @@ Stand: Zuletzt geändert Art. 11 G v. 23.10.2012 I 2246
 
 ## Erster Abschnitt - Aufgaben des Sozialgesetzbuchs und soziale Rechte
 
-
-
 ### § 1 Aufgaben des Sozialgesetzbuchs
 
 (1) Das Recht des Sozialgesetzbuchs soll zur Verwirklichung sozialer
@@ -49,7 +47,6 @@ zur Erfüllung der in Absatz 1 genannten Aufgaben erforderlichen
 sozialen Dienste und Einrichtungen rechtzeitig und ausreichend zur
 Verfügung stehen.
 
-
 ### § 2 Soziale Rechte
 
 (1) Der Erfüllung der in § 1 genannten Aufgaben dienen die
@@ -62,7 +59,6 @@ im einzelnen bestimmt sind.
 Vorschriften dieses Gesetzbuchs und bei der Ausübung von Ermessen zu
 beachten; dabei ist sicherzustellen, daß die sozialen Rechte möglichst
 weitgehend verwirklicht werden.
-
 
 ### § 3 Bildungs- und Arbeitsförderung
 
@@ -87,10 +83,6 @@ auf
 4.  wirtschaftliche Sicherung bei Arbeitslosigkeit und bei
     Zahlungsunfähigkeit des Arbeitgebers.
 
-
-
-
-
 ### § 4 Sozialversicherung
 
 (1) Jeder hat im Rahmen dieses Gesetzbuchs ein Recht auf Zugang zur
@@ -112,7 +104,6 @@ einschließlich der Alterssicherung der Landwirte ein Recht auf
 Ein Recht auf wirtschaftliche Sicherung haben auch die Hinterbliebenen
 eines Versicherten.
 
-
 ### § 5 Soziale Entschädigung bei Gesundheitsschäden
 
 Wer einen Gesundheitsschaden erleidet, für dessen Folgen die
@@ -131,12 +122,10 @@ ein Recht auf
 Ein Recht auf angemessene wirtschaftliche Versorgung haben auch die
 Hinterbliebenen eines Beschädigten.
 
-
 ### § 6 Minderung des Familienaufwands
 
 Wer Kindern Unterhalt zu leisten hat oder leistet, hat ein Recht auf
 Minderung der dadurch entstehenden wirtschaftlichen Belastungen.
-
 
 ### § 7 Zuschuß für eine angemessene Wohnung
 
@@ -144,14 +133,12 @@ Wer für eine angemessene Wohnung Aufwendungen erbringen muß, die ihm
 nicht zugemutet werden können, hat ein Recht auf Zuschuß zur Miete
 oder zu vergleichbaren Aufwendungen.
 
-
 ### § 8 Kinder- und Jugendhilfe
 
 Junge Menschen und Personensorgeberechtigte haben im Rahmen dieses
 Gesetzbuchs ein Recht, Leistungen der öffentlichen Jugendhilfe in
 Anspruch zu nehmen. Sie sollen die Entwicklung junger Menschen fördern
 und die Erziehung in der Familie unterstützen und ergänzen.
-
 
 ### § 9 Sozialhilfe
 
@@ -163,7 +150,6 @@ Bedarf entspricht, ihn zur Selbsthilfe befähigt, die Teilnahme am
 Leben in der Gemeinschaft ermöglicht und die Führung eines
 menschenwürdigen Lebens sichert. Hierbei müssen Leistungsberechtigte
 nach ihren Kräften mitwirken.
-
 
 ### § 10 Teilhabe behinderter Menschen
 
@@ -193,24 +179,15 @@ gleichberechtigten Teilhabe ein Recht auf Hilfe, die notwendig ist, um
 
 5.  Benachteiligungen auf Grund der Behinderung entgegenzuwirken.
 
-
-
-
-
 ## Zweiter Abschnitt - Einweisungsvorschriften
 
-
-
 ### Erster Titel - Allgemeines über Sozialleistungen und Leistungsträger
-
-
 
 #### § 11 Leistungsarten
 
 Gegenstand der sozialen Rechte sind die in diesem Gesetzbuch
 vorgesehenen Dienst-, Sach- und Geldleistungen (Sozialleistungen). Die
 persönliche und erzieherische Hilfe gehört zu den Dienstleistungen.
-
 
 #### § 12 Leistungsträger
 
@@ -219,7 +196,6 @@ genannten Körperschaften, Anstalten und Behörden (Leistungsträger).
 Die Abgrenzung ihrer Zuständigkeit ergibt sich aus den besonderen
 Teilen dieses Gesetzbuchs.
 
-
 #### § 13 Aufklärung
 
 Die Leistungsträger, ihre Verbände und die sonstigen in diesem
@@ -227,14 +203,12 @@ Gesetzbuch genannten öffentlich-rechtlichen Vereinigungen sind
 verpflichtet, im Rahmen ihrer Zuständigkeit die Bevölkerung über die
 Rechte und Pflichten nach diesem Gesetzbuch aufzuklären.
 
-
 #### § 14 Beratung
 
 Jeder hat Anspruch auf Beratung über seine Rechte und Pflichten nach
 diesem Gesetzbuch. Zuständig für die Beratung sind die
 Leistungsträger, denen gegenüber die Rechte geltend zu machen oder die
 Pflichten zu erfüllen sind.
-
 
 #### § 15 Auskunft
 
@@ -258,7 +232,6 @@ Möglichkeiten zum Aufbau einer nach § 10a oder Abschnitt XI des
 Einkommensteuergesetzes geförderten zusätzlichen Altersvorsorge
 Auskünfte erteilen, soweit sie dazu im Stande sind.
 
-
 #### § 16 Antragstellung
 
 (1) Anträge auf Sozialleistungen sind beim zuständigen Leistungsträger
@@ -278,7 +251,6 @@ Satz 1 genannten Stellen eingegangen ist.
 (3) Die Leistungsträger sind verpflichtet, darauf hinzuwirken, daß
 unverzüglich klare und sachdienliche Anträge gestellt und
 unvollständige Angaben ergänzt werden.
-
 
 #### § 17 Ausführung der Sozialleistungen
 
@@ -324,10 +296,7 @@ ergibt sich ihr Verhältnis zueinander aus den besonderen Teilen dieses
 Gesetzbuchs; § 97 Abs. 1 Satz 1 bis 4 und Abs. 2 des Zehnten Buches
 findet keine Anwendung.
 
-
 ### Zweiter Titel - Einzelne Sozialleistungen und zuständige Leistungsträger
-
-
 
 #### § 18 Leistungen der Ausbildungsförderung
 
@@ -338,7 +307,6 @@ genommen werden.
 (2) Zuständig sind die Ämter und die Landesämter für
 Ausbildungsförderung nach Maßgabe der §§ 39, 40, 40a und 45 des
 Bundesausbildungsförderungsgesetzes.
-
 
 #### § 19 Leistungen der Arbeitsförderung
 
@@ -383,7 +351,6 @@ werden:
 (2) Zuständig sind die Agenturen für Arbeit und die sonstigen
 Dienststellen der Bundesagentur für Arbeit.
 
-
 #### § 19a Leistungen der Grundsicherung für Arbeitsuchende
 
 (1) Nach dem Recht der Grundsicherung für Arbeitsuchende können in
@@ -402,7 +369,6 @@ Dienststellen der Bundesagentur für Arbeit, sowie die kreisfreien
 Städte und Kreise, soweit durch Landesrecht nicht andere Träger
 bestimmt sind. In den Fällen des § 6a des Zweiten Buches ist
 abweichend von Satz 1 der zugelassene kommunale Träger zuständig.
-
 
 #### § 19b Leistungen bei gleitendem Übergang älterer Arbeitnehmer in den Ruhestand
 
@@ -424,11 +390,9 @@ Arbeitnehmer in den Ruhestand können in Anspruch genommen werden:
 (2) Zuständig sind die Agenturen für Arbeit und die sonstigen
 Dienststellen der Bundesagentur für Arbeit.
 
-
 #### § 20
 
 (weggefallen)
-
 
 #### § 21 Leistungen der gesetzlichen Krankenversicherung
 
@@ -485,7 +449,6 @@ Sozialversicherung für Landwirtschaft, Forsten und Gartenbau als
 landwirtschaftliche Krankenkasse, die Deutsche Rentenversicherung
 Knappschaft-Bahn-See und die Ersatzkassen.
 
-
 #### § 21a Leistungen der sozialen Pflegeversicherung
 
 (1) Nach dem Recht der sozialen Pflegeversicherung können in Anspruch
@@ -529,7 +492,6 @@ genommen werden:
 
 (2) Zuständig sind die bei den Krankenkassen errichteten Pflegekassen.
 
-
 #### § 21b Leistungen bei Schwangerschaftsabbrüchen
 
 (1) Nach dem Fünften Abschnitt des Schwangerschaftskonfliktgesetzes
@@ -541,7 +503,6 @@ Schwangerschaft Leistungen in Anspruch genommen werden.
 Sozialversicherung für Landwirtschaft, Forsten und Gartenbau als
 landwirtschaftliche Krankenkasse, die Deutsche Rentenversicherung
 Knappschaft-Bahn-See und die Ersatzkassen.
-
 
 #### § 22 Leistungen der gesetzlichen Unfallversicherung
 
@@ -584,7 +545,6 @@ Gemeindeunfallversicherungsverbände, die Feuerwehr-Unfallkassen, die
 Eisenbahn-Unfallkasse, die Unfallkasse Post und Telekom, die
 Unfallkassen der Länder und Gemeinden, die gemeinsamen Unfallkassen
 für den Landes- und kommunalen Bereich und die Unfallkasse des Bundes.
-
 
 #### § 23 Leistungen der gesetzlichen Rentenversicherung einschließlich der Alterssicherung der Landwirte
 
@@ -657,10 +617,6 @@ der Alterssicherung der Landwirte können in Anspruch genommen werden:
     Landwirtschaft, Forsten und Gartenbau als landwirtschaftliche
     Alterskasse.
 
-
-
-
-
 #### § 24 Versorgungsleistungen bei Gesundheitsschäden
 
 (1) Nach dem Recht der sozialen Entschädigung bei Gesundheitsschäden
@@ -693,7 +649,6 @@ Hauptfürsorgestellen. Bei der Durchführung der Heil- und
 Krankenbehandlung wirken die Träger der gesetzlichen
 Krankenversicherung mit.
 
-
 #### § 25 Kindergeld, Kinderzuschlag, Leistungen für Bildung und Teilhabe, Erziehungsgeld und Elterngeld
 
 (1) Nach dem Bundeskindergeldgesetz kann nur dann Kindergeld in
@@ -714,7 +669,6 @@ bestimmten Stellen und für die Ausführung des Absatzes 2 Satz 2 die
 nach § 12 des Bundeselterngeld- und Elternzeitgesetzes bestimmten
 Stellen zuständig.
 
-
 #### § 26 Wohngeld
 
 (1) Nach dem Wohngeldrecht kann als Zuschuß zur Miete oder als Zuschuß
@@ -722,7 +676,6 @@ zu den Aufwendungen für den eigengenutzten Wohnraum Wohngeld in
 Anspruch genommen werden.
 
 (2) Zuständig sind die durch Landesrecht bestimmten Behörden.
-
 
 #### § 27 Leistungen der Kinder- und Jugendhilfe
 
@@ -749,7 +702,6 @@ genommen werden:
 (2) Zuständig sind die Kreise und die kreisfreien Städte, nach Maßgabe
 des Landesrechts auch kreisangehörige Gemeinden; sie arbeiten mit der
 freien Jugendhilfe zusammen.
-
 
 #### § 28 Leistungen der Sozialhilfe
 
@@ -784,11 +736,9 @@ sowie die jeweils gebotene Beratung und Unterstützung.
 Gesundheitsämter; sie arbeiten mit den Trägern der freien
 Wohlfahrtspflege zusammen.
 
-
 #### § 28a
 
 (weggefallen)
-
 
 #### § 29 Leistungen zur Rehabilitation und Teilhabe behinderter Menschen
 
@@ -893,14 +843,9 @@ Menschen können in Anspruch genommen werden
 (2) Zuständig sind die in den §§ 19 bis 24, 27 und 28 genannten
 Leistungsträger und die Integrationsämter.
 
-
 ## Dritter Abschnitt - Gemeinsame Vorschriften für alle Sozialleistungsbereiche dieses Gesetzbuchs
 
-
-
 ### Erster Titel - Allgemeine Grundsätze
-
-
 
 #### § 30 Geltungsbereich
 
@@ -917,20 +862,17 @@ und benutzen wird. Den gewöhnlichen Aufenthalt hat jemand dort, wo er
 sich unter Umständen aufhält, die erkennen lassen, daß er an diesem
 Ort oder in diesem Gebiet nicht nur vorübergehend verweilt.
 
-
 #### § 31 Vorbehalt des Gesetzes
 
 Rechte und Pflichten in den Sozialleistungsbereichen dieses
 Gesetzbuchs dürfen nur begründet, festgestellt, geändert oder
 aufgehoben werden, soweit ein Gesetz es vorschreibt oder zuläßt.
 
-
 #### § 32 Verbot nachteiliger Vereinbarungen
 
 Privatrechtliche Vereinbarungen, die zum Nachteil des
 Sozialleistungsberechtigten von Vorschriften dieses Gesetzbuchs
 abweichen, sind nichtig.
-
 
 #### § 33 Ausgestaltung von Rechten und Pflichten
 
@@ -941,7 +883,6 @@ seine Leistungsfähigkeit sowie die örtlichen Verhältnisse zu
 berücksichtigen, soweit Rechtsvorschriften nicht entgegenstehen. Dabei
 soll den Wünschen des Berechtigten oder Verpflichteten entsprochen
 werden, soweit sie angemessen sind.
-
 
 #### § 33a Altersabhängige Rechte und Pflichten
 
@@ -969,12 +910,10 @@ abgewichen werden, wenn der zuständige Leistungsträger feststellt, daß
 Versicherungsnummer oder eines anderen in den Sozialleistungsbereichen
 dieses Gesetzbuchs verwendeten Kennzeichens sind, entsprechend.
 
-
 #### § 33b Lebenspartnerschaften
 
 Lebenspartnerschaften im Sinne dieses Gesetzbuches sind
 Lebenspartnerschaften nach dem Lebenspartnerschaftsgesetz.
-
 
 #### § 33c Benachteiligungsverbot
 
@@ -984,7 +923,6 @@ benachteiligt werden. Ansprüche können nur insoweit geltend gemacht
 oder hergeleitet werden, als deren Voraussetzungen und Inhalt durch
 die Vorschriften der besonderen Teile dieses Gesetzbuchs im Einzelnen
 bestimmt sind.
-
 
 #### § 34 Begrenzung von Rechten und Pflichten
 
@@ -997,7 +935,6 @@ Gesetzbuchs entspricht.
 
 (2) Ansprüche mehrerer Ehegatten auf Witwenrente oder Witwerrente
 werden anteilig und endgültig aufgeteilt.
-
 
 #### § 35 Sozialgeheimnis
 
@@ -1043,7 +980,6 @@ außerdem verarbeitet oder genutzt werden, wenn schutzwürdige
 Interessen des Verstorbenen oder seiner Angehörigen dadurch nicht
 beeinträchtigt werden können.
 
-
 #### § 36 Handlungsfähigkeit
 
 (1) Wer das fünfzehnte Lebensjahr vollendet hat, kann Anträge auf
@@ -1057,7 +993,6 @@ Vertreter durch schriftliche Erklärung gegenüber dem Leistungsträger
 eingeschränkt werden. Die Rücknahme von Anträgen, der Verzicht auf
 Sozialleistungen und die Entgegennahme von Darlehen bedürfen der
 Zustimmung des gesetzlichen Vertreters.
-
 
 #### § 36a Elektronische Kommunikation
 
@@ -1092,7 +1027,6 @@ Zertifizierungsdienste im Sinne des Satzes 1 verwenden. Die Sätze 1
 und 2 gelten entsprechend für die Leistungserbringer nach dem Fünften
 und dem Elften Buch und die von ihnen gebildeten Organisationen.
 
-
 #### § 37 Vorbehalt abweichender Regelungen
 
 Das Erste und Zehnte Buch gelten für alle Sozialleistungsbereiche
@@ -1102,10 +1036,7 @@ für die §§ 1 bis 17 und 31 bis 36. Das Zweite Kapitel des Zehnten
 Buches geht dessen Erstem Kapitel vor, soweit sich die Ermittlung des
 Sachverhaltes auf Sozialdaten erstreckt.
 
-
 ### Zweiter Titel - Grundsätze des Leistungsrechts
-
-
 
 #### § 38 Rechtsanspruch
 
@@ -1113,7 +1044,6 @@ Auf Sozialleistungen besteht ein Anspruch, soweit nicht nach den
 besonderen Teilen dieses Gesetzbuchs die Leistungsträger ermächtigt
 sind, bei der Entscheidung über die Leistung nach ihrem Ermessen zu
 handeln.
-
 
 #### § 39 Ermessensleistungen
 
@@ -1128,7 +1058,6 @@ Sozialleistungen, auf die ein Anspruch besteht, entsprechend, soweit
 sich aus den Vorschriften dieses Gesetzbuchs nichts Abweichendes
 ergibt.
 
-
 #### § 40 Entstehen der Ansprüche
 
 (1) Ansprüche auf Sozialleistungen entstehen, sobald ihre im Gesetz
@@ -1138,13 +1067,11 @@ oder auf Grund eines Gesetzes bestimmten Voraussetzungen vorliegen.
 Entscheidung über die Leistung bekanntgegeben wird, es sei denn, daß
 in der Entscheidung ein anderer Zeitpunkt bestimmt ist.
 
-
 #### § 41 Fälligkeit
 
 Soweit die besonderen Teile dieses Gesetzbuchs keine Regelung
 enthalten, werden Ansprüche auf Sozialleistungen mit ihrem Entstehen
 fällig.
-
 
 #### § 42 Vorschüsse
 
@@ -1163,7 +1090,6 @@ Soweit sie diese übersteigen, sind sie vom Empfänger zu erstatten. §
 (3) Für die Stundung, Niederschlagung und den Erlaß des
 Erstattungsanspruchs gilt § 76 Abs. 2 des Vierten Buches entsprechend.
 
-
 #### § 43 Vorläufige Leistungen
 
 (1) Besteht ein Anspruch auf Sozialleistungen und ist zwischen
@@ -1180,7 +1106,6 @@ dem zur Leistung verpflichteten Leistungsträger zu.
 
 (3)
 
-
 #### § 44 Verzinsung
 
 (1) Ansprüche auf Geldleistungen sind nach Ablauf eines Kalendermonats
@@ -1195,7 +1120,6 @@ Leistung.
 
 (3) Verzinst werden volle Euro-Beträge. Dabei ist der Kalendermonat
 mit dreißig Tagen zugrunde zu legen.
-
 
 #### § 45 Verjährung
 
@@ -1213,7 +1137,6 @@ Antrag oder den Widerspruch.
 
 (4)
 
-
 #### § 46 Verzicht
 
 (1) Auf Ansprüche auf Sozialleistungen kann durch schriftliche
@@ -1223,14 +1146,12 @@ Verzicht kann jederzeit mit Wirkung für die Zukunft widerrufen werden.
 (2) Der Verzicht ist unwirksam, soweit durch ihn andere Personen oder
 Leistungsträger belastet oder Rechtsvorschriften umgangen werden.
 
-
 #### § 47 Auszahlung von Geldleistungen
 
 Soweit die besonderen Teile dieses Gesetzbuchs keine Regelung
 enthalten, sollen Geldleistungen kostenfrei auf ein Konto des
 Empfängers bei einem Geldinstitut überwiesen oder, wenn der Empfänger
 es verlangt, kostenfrei an seinen Wohnsitz übermittelt werden.
-
 
 #### § 48 Auszahlung bei Verletzung der Unterhaltspflicht
 
@@ -1255,7 +1176,6 @@ Berücksichtigung von Kindern, denen gegenüber der Leistungsberechtigte
 nicht kraft Gesetzes unterhaltspflichtig ist, Geldleistungen erbracht
 werden und der Leistungsberechtigte diese Kinder nicht unterhält.
 
-
 #### § 49 Auszahlung bei Unterbringung
 
 (1) Ist ein Leistungsberechtigter auf Grund richterlicher Anordnung
@@ -1271,7 +1191,6 @@ Leistungsberechtigte nicht kraft Gesetzes unterhaltspflichtig ist,
 Geldleistungen erbracht werden.
 
 (3) § 48 Abs. 1 Satz 4 bleibt unberührt.
-
 
 #### § 50 Überleitung bei Unterbringung
 
@@ -1291,7 +1210,6 @@ Erstattung maßgebenden Zeitraum entfällt.
 Abs. 1 Satz 1 Nr. 2, Abs. 2), das untergebracht ist (§ 49 Abs. 1), ein
 Anspruch auf eine laufende Geldleistung besteht.
 
-
 #### § 51 Aufrechnung
 
 (1) Gegen Ansprüche auf Geldleistungen kann der zuständige
@@ -1308,14 +1226,12 @@ im Sinne der Vorschriften des Zwölften Buches über die Hilfe zum
 Lebensunterhalt oder der Grundsicherung für Arbeitsuchende nach dem
 Zweiten Buch wird.
 
-
 #### § 52 Verrechnung
 
 Der für eine Geldleistung zuständige Leistungsträger kann mit
 Ermächtigung eines anderen Leistungsträgers dessen Ansprüche gegen den
 Berechtigten mit der ihm obliegenden Geldleistung verrechnen, soweit
 nach § 51 die Aufrechnung zulässig ist.
-
 
 #### § 53 Übertragung und Verpfändung
 
@@ -1357,7 +1273,6 @@ auch der neue Gläubiger als Gesamtschuldner dem Leistungsträger zur
 Erstattung des entsprechenden Betrages verpflichtet. Der
 Leistungsträger hat den Erstattungsanspruch durch Verwaltungsakt
 geltend zu machen.
-
 
 #### § 54 Pfändung
 
@@ -1429,10 +1344,7 @@ pfändbaren Betrages bei Kindergeld gilt:
 (6) In den Fällen der Absätze 2, 4 und 5 gilt § 53 Abs. 6
 entsprechend.
 
-
 #### § 55 (weggefallen)
-
-
 
 #### § 56 Sonderrechtsnachfolge
 
@@ -1498,7 +1410,6 @@ Gründen dauernd gehinderten Ehegatten oder Lebenspartners den Haushalt
 des Berechtigten mindestens ein Jahr lang vor dessen Tod geführt hat
 und von diesem überwiegend unterhalten worden ist.
 
-
 #### § 57 Verzicht und Haftung des Sonderrechtsnachfolgers
 
 (1) Der nach § 56 Berechtigte kann auf die Sonderrechtsnachfolge
@@ -1515,14 +1426,12 @@ Leistungsträger. Insoweit entfällt eine Haftung des Erben. Eine
 Aufrechnung und Verrechnung nach den §§ 51 und 52 ist ohne die dort
 genannten Beschränkungen der Höhe zulässig.
 
-
 #### § 58 Vererbung
 
 Soweit fällige Ansprüche auf Geldleistungen nicht nach den §§ 56 und
 57 einem Sonderrechtsnachfolger zustehen, werden sie nach den
 Vorschriften des Bürgerlichen Gesetzbuchs vererbt. Der Fiskus als
 gesetzlicher Erbe kann die Ansprüche nicht geltend machen.
-
 
 #### § 59 Ausschluß der Rechtsnachfolge
 
@@ -1531,10 +1440,7 @@ Berechtigten. Ansprüche auf Geldleistungen erlöschen nur, wenn sie im
 Zeitpunkt des Todes des Berechtigten weder festgestellt sind noch ein
 Verwaltungsverfahren über sie anhängig ist.
 
-
 ### Dritter Titel - Mitwirkung des Leistungsberechtigten
-
-
 
 #### § 60 Angabe von Tatsachen
 
@@ -1562,14 +1468,12 @@ hat.
 (2) Soweit für die in Absatz 1 Satz 1 Nr. 1 und 2 genannten Angaben
 Vordrucke vorgesehen sind, sollen diese benutzt werden.
 
-
 #### § 61 Persönliches Erscheinen
 
 Wer Sozialleistungen beantragt oder erhält, soll auf Verlangen des
 zuständigen Leistungsträgers zur mündlichen Erörterung des Antrags
 oder zur Vornahme anderer für die Entscheidung über die Leistung
 notwendiger Maßnahmen persönlich erscheinen.
-
 
 #### § 62 Untersuchungen
 
@@ -1578,7 +1482,6 @@ des zuständigen Leistungsträgers ärztlichen und psychologischen
 Untersuchungsmaßnahmen unterziehen, soweit diese für die Entscheidung
 über die Leistung erforderlich sind.
 
-
 #### § 63 Heilbehandlung
 
 Wer wegen Krankheit oder Behinderung Sozialleistungen beantragt oder
@@ -1586,7 +1489,6 @@ erhält, soll sich auf Verlangen des zuständigen Leistungsträgers einer
 Heilbehandlung unterziehen, wenn zu erwarten ist, daß sie eine
 Besserung seines Gesundheitszustands herbeiführen oder eine
 Verschlechterung verhindern wird.
-
 
 #### § 64 Berufsfördernde Maßnahmen
 
@@ -1598,7 +1500,6 @@ teilnehmen, wenn bei angemessener Berücksichtigung seiner beruflichen
 Neigung und seiner Leistungsfähigkeit zu erwarten ist, daß sie seine
 Erwerbs- oder Vermittlungsfähigkeit auf Dauer fördern oder erhalten
 werden.
-
 
 #### § 65 Grenzen der Mitwirkung
 
@@ -1642,7 +1543,6 @@ Zivilprozeßordnung) die Gefahr zuziehen würde, wegen einer Straftat
 oder einer Ordnungswidrigkeit verfolgt zu werden, können verweigert
 werden.
 
-
 #### § 65a Aufwendungsersatz
 
 (1) Wer einem Verlangen des zuständigen Leistungsträgers nach den §§
@@ -1654,7 +1554,6 @@ Aufwendungen nur in Härtefällen ersetzt werden.
 (2) Absatz 1 gilt auch, wenn der zuständige Leistungsträger ein
 persönliches Erscheinen oder eine Untersuchung nachträglich als
 notwendig anerkennt.
-
 
 #### § 66 Folgen fehlender Mitwirkung
 
@@ -1684,17 +1583,13 @@ oder entzogen werden, nachdem der Leistungsberechtigte auf diese Folge
 schriftlich hingewiesen worden ist und seiner Mitwirkungspflicht nicht
 innerhalb einer ihm gesetzten angemessenen Frist nachgekommen ist.
 
-
 #### § 67 Nachholung der Mitwirkung
 
 Wird die Mitwirkung nachgeholt und liegen die Leistungsvoraussetzungen
 vor, kann der Leistungsträger Sozialleistungen, die er nach § 66
 versagt oder entzogen hat, nachträglich ganz oder teilweise erbringen.
 
-
 ## Vierter Abschnitt - Übergangs- und Schlussvorschriften
-
-
 
 ### § 68 Besondere Teile dieses Gesetzbuches
 
@@ -1787,23 +1682,17 @@ als dessen besondere Teile:
 
 18. (weggefallen)
 
-
-
-
-
 ### § 69 Stadtstaaten-Klausel
 
 Die Senate der Länder Berlin, Bremen und Hamburg werden ermächtigt,
 die Vorschriften dieses Buches über die Zuständigkeit von Behörden dem
 besonderen Verwaltungsaufbau ihrer Länder anzupassen.
 
-
 ### § 70 Überleitungsvorschrift zum Verjährungsrecht
 
 Artikel 229 § 6 Abs. 1 und 2 des Einführungsgesetzes zum Bürgerlichen
 Gesetzbuche gilt entsprechend bei der Anwendung des § 45 Abs. 2 und 3
 in der seit dem 1. Januar 2002 geltenden Fassung.
-
 
 ### § 71 Überleitungsvorschrift zur Übertragung, Verpfändung und Pfändung
 

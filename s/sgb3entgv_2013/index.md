@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 2607
 
-
 ## Eingangsformel
 
 Auf Grund des § 109 Absatz 1 Nummer 1 des Dritten Buches
@@ -24,13 +23,11 @@ Sozialgesetzbuch – Arbeitsförderung –, der durch Artikel 2 Nummer 18
 des Gesetzes vom 20. Dezember 2011 (BGBl. I S. 2854) neu gefasst
 worden ist, verordnet das Bundesministerium für Arbeit und Soziales:
 
-
 ## § 1 Pauschalierte Nettoentgelte
 
 Die pauschalierten Nettoentgelte für das Kurzarbeitergeld für das Jahr
 2013 ergeben sich aus der dieser Verordnung als Anlage 1 beigefügten
 Tabelle.
-
 
 ## § 2 Berücksichtigung des Faktorverfahrens
 
@@ -41,14 +38,12 @@ werden. Für diese maschinelle Berechnung ist der als Anlage 2
 beigefügte Programmablaufplan zur maschinellen Berechnung des
 Kurzarbeitergeldes zu verwenden.
 
-
 ## § 3 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2013 in Kraft. Gleichzeitig tritt
 die Verordnung über die pauschalierten Nettoentgelte für das
 Kurzarbeitergeld für das Jahr 2012 vom 13. Dezember 2011 (BGBl. I S.
 2696) außer Kraft.
-
 
 ## Anlage 1 (zu § 1) Pauschaliertes Nettoentgelt
 
@@ -4698,8 +4693,6 @@ Kurzarbeitergeld für das Jahr 2012 vom 13. Dezember 2011 (BGBl. I S.
     *
     *
     *
-
-
 
 ## Anlage 2 (zu § 2) Programmablaufplan zur maschinellen Berechnung von Kurzarbeitergeld nach dem SGB III (gültig ab dem 1. Januar 2013)
 

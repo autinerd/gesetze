@@ -18,8 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 G v. 26.6.2012 I 1375
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 28 Abs. 2 Satz 1 und 2 des Wertpapierprospektgesetzes
@@ -31,7 +29,6 @@ Finanzdienstleistungsaufsicht, § 1 Nr. 7 eingefügt durch Artikel 7 Nr.
 3 des Gesetzes vom 22. Juni 2005 (BGBl. I S. 1698), verordnet die
 Bundesanstalt für Finanzdienstleistungsaufsicht:
 
-
 ## § 1 Anwendungsbereich
 
 Die Bundesanstalt für Finanzdienstleistungsaufsicht erhebt für
@@ -40,13 +37,11 @@ der Europäischen Union Gebühren nach dieser Verordnung; Auslagen
 werden nicht gesondert erhoben. Im Übrigen gilt das
 Verwaltungskostengesetz.
 
-
 ## § 2 Gebühren
 
 Die gebührenpflichtigen Amtshandlungen und die Gebührensätze bestimmen
 sich vorbehaltlich der Regelungen in § 3 nach dem anliegenden
 Gebührenverzeichnis.
-
 
 ## § 3 Gebührenerhebung in besonderen Fällen
 
@@ -71,11 +66,9 @@ beträgt in den Fällen der Sätze 1 bis 3 mindestens 50 Euro.
 
 (3) (weggefallen)
 
-
 ## § 4 Inkrafttreten
 
 Diese Verordnung tritt am 1. Juli 2005 in Kraft.
-
 
 ## Anlage (zu § 2) Gebührenverzeichnis
 

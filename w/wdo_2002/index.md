@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 13 G v. 21.7.2012 I 1583
 
-
 ## Einleitende Bestimmungen
-
-
 
 ### § 1 Sachlicher und persönlicher Geltungsbereich
 
@@ -38,7 +35,6 @@ sonstigen Anspruch auf Dienstzeitversorgung oder auf Berufsförderung
 haben, gelten bis zur Beendigung der Gewährung dieser Leistungen im
 Sinne dieses Gesetzes als Soldaten im Ruhestand. Die Leistungen, die
 sie erhalten, gelten als Ruhegehalt.
-
 
 ### § 2 Früher begangene Dienstvergehen
 
@@ -59,7 +55,6 @@ als Dienstvergehen. Ein Wechsel des Dienstherrn steht der Anwendung
 dieses Gesetzes nicht entgegen. Als einfache Disziplinarmaßnahmen darf
 das Wehrdienstgericht nur Verweis oder Disziplinarbuße verhängen.
 
-
 ### § 3 Akteneinsicht durch den Soldaten
 
 (1) Dem Soldaten ist zu gestatten, die Akten einzusehen, soweit dies
@@ -73,7 +68,6 @@ anfertigen lassen.
 (2) Akten und Schriftstücke, die der Soldat nicht einsehen darf,
 dürfen weder beigezogen noch verwertet werden.
 
-
 ### § 4 Beteiligung der Vertrauensperson
 
 Für die Beteiligung der Vertrauensperson bei Entscheidungen nach
@@ -82,7 +76,6 @@ Soldatenbeteiligungsgesetzes. Das Ergebnis der Anhörung der
 Vertrauensperson ist dem Soldaten vor dessen Anhörung nach § 14 Abs. 1
 Satz 3, § 32 Abs. 5 Satz 1 oder nach § 93 Abs. 1 Satz 2 bekannt zu
 geben.
-
 
 ### § 5 Zustellungen
 
@@ -116,7 +109,6 @@ bewilligt.
 (3) Hat der Empfangsberechtigte ein Schriftstück nachweislich
 erhalten, gilt es spätestens zu diesem Zeitpunkt als zugestellt.
 
-
 ### § 6 Belehrung über Rechtsmittel und Rechtsbehelfe
 
 Bei allen nach diesem Gesetz anfechtbaren Entscheidungen ist der
@@ -125,12 +117,10 @@ Soldat oder der frühere Soldat über die Möglichkeit der Anfechtung,
 einzulegen ist, und über die Form und Frist der Anfechtung schriftlich
 zu belehren.
 
-
 ### § 7 Disziplinarbuch
 
 Förmliche Anerkennungen, unanfechtbare Disziplinarmaßnahmen und
 Strafen sind in das Disziplinarbuch einzutragen.
-
 
 ### § 8 Tilgung
 
@@ -186,7 +176,6 @@ er nicht gemaßregelt worden ist.
 zwei Jahren aus den Personalakten zu entfernen. Absatz 2 Satz 2 sowie
 die Absätze 7 und 8 gelten entsprechend.
 
-
 ### § 9 Auskünfte
 
 (1) Auskünfte über förmliche Anerkennungen, über Disziplinarmaßnahmen
@@ -219,17 +208,13 @@ Disziplinarmaßnahmen und über im Disziplinarbuch eingetragene
 gerichtliche Strafen, die getilgt oder tilgungsreif sind, werden nur
 mit Zustimmung des Soldaten oder des früheren Soldaten erteilt.
 
-
 ### § 10 Entschädigung von Zeugen und Sachverständigen
 
 Zeugen und Sachverständige, die nicht dienstlich gestellt werden,
 erhalten eine Entschädigung oder Vergütung in entsprechender Anwendung
 des Justizvergütungs- und -entschädigungsgesetzes.
 
-
 ## Erster Teil - Würdigung besonderer Leistungen durch förmliche Anerkennungen
-
-
 
 ### § 11 Voraussetzungen und Arten der förmlichen Anerkennungen
 
@@ -252,7 +237,6 @@ Arbeitstagen verbunden werden.
 
 (4) Gute Leistungen können auch durch Auszeichnungen anderer Art
 gewürdigt werden.
-
 
 ### § 12 Zuständigkeit zum Erteilen von förmlichen Anerkennungen
 
@@ -292,10 +276,6 @@ gewürdigt werden.
 
     Sonderurlaub bis zu 14 Arbeitstagen.
 
-
-
-
-
 ### § 13 Erteilen von förmlichen Anerkennungen
 
 (1) Bei der Entscheidung, ob eine förmliche Anerkennung erteilt werden
@@ -310,7 +290,6 @@ des Erholungsurlaubs zuständige Vorgesetzte.
 (3) Wird die förmliche Anerkennung von einem höheren
 Disziplinarvorgesetzten erteilt, ist der nächste
 Disziplinarvorgesetzte des Soldaten zu hören.
-
 
 ### § 14 Rücknahme förmlicher Anerkennungen
 
@@ -334,14 +313,9 @@ würde.
 
 (4) Die Entscheidung ist dem Soldaten zuzustellen.
 
-
 ## Zweiter Teil - Ahndung von Dienstvergehen durch Disziplinarmaßnahmen
 
-
-
 ### Erster Abschnitt - Allgemeine Bestimmungen
-
-
 
 #### § 15 Disziplinarmaßnahmen, Ermessensgrundsatz
 
@@ -355,7 +329,6 @@ vorbehalten.
 Ermessen, ob und wie wegen eines Dienstvergehens nach diesem Gesetz
 einzuschreiten ist; er hat dabei auch das gesamte dienstliche und
 außerdienstliche Verhalten zu berücksichtigen.
-
 
 #### § 16 Verhältnis der Disziplinarmaßnahmen zu Strafen und Ordnungsmaßnahmen
 
@@ -392,7 +365,6 @@ zu erfüllen. Vor Beginn oder Fortsetzung der Ermittlungen ist dem
 Soldaten mitzuteilen, welcher Sachverhalt ihm weiterhin als
 Pflichtverletzung vorgeworfen wird.
 
-
 #### § 17 Zeitablauf
 
 (1) Disziplinarsachen sind beschleunigt zu behandeln.
@@ -415,7 +387,6 @@ Flugunfall- oder Taucherunfalluntersuchung oder eines
 Havarieverfahrens, ist die Frist für die Dauer dieses Verfahrens
 gehemmt.
 
-
 #### § 18 Verbot mehrfacher, Gebot einheitlicher Ahndung
 
 (1) Ein Dienstvergehen darf nur einmal disziplinar geahndet werden. §
@@ -424,7 +395,6 @@ gehemmt.
 (2) Mehrere Pflichtverletzungen eines Soldaten oder eines früheren
 Soldaten, über die gleichzeitig entschieden werden kann, sind als ein
 Dienstvergehen zu ahnden.
-
 
 #### § 19 Gnadenrecht
 
@@ -435,7 +405,6 @@ oder überträgt die Ausübung anderen Stellen.
 (2) Wird die Entfernung aus dem Dienstverhältnis oder die Aberkennung
 des Ruhegehalts im Gnadenweg aufgehoben, gilt § 52 des
 Soldatengesetzes entsprechend.
-
 
 #### § 20 Durchsuchung und Beschlagnahme
 
@@ -484,7 +453,6 @@ Soldaten ist auf Verlangen eine Abschrift auszuhändigen.
 
 (5) Im Übrigen gelten § 94 Abs. 1 und 2, § 95 Abs. 1, §§ 97, 109 und
 111k der Strafprozessordnung entsprechend.
-
 
 #### § 21 Vorläufige Festnahme
 
@@ -544,14 +512,9 @@ Zeitpunkt der Freilassung sind schriftlich zu vermerken. In den Fällen
 der Absätze 2 und 3 ist die vorläufige Festnahme unverzüglich der
 Dienststelle des Festgenommenen zu melden.
 
-
 ### Zweiter Abschnitt - Die Disziplinarbefugnis der Disziplinarvorgesetzten und ihre Ausübung
 
-
-
 #### 1. - Einfache Disziplinarmaßnahmen
-
-
 
 ##### § 22 Arten der einfachen Disziplinarmaßnahmen
 
@@ -598,7 +561,6 @@ nach § 8 des Reservistinnen- und Reservistengesetzes oder einer
 Zuziehung nach § 9 des Reservistinnen- und Reservistengesetzes nur ein
 Verweis verhängt werden.
 
-
 ##### § 23 Verweis, strenger Verweis
 
 (1) Der Verweis ist der förmliche Tadel eines bestimmten
@@ -616,7 +578,6 @@ Disziplinarvorgesetzte oder die Einleitungsbehörde ein Dienstvergehen
 feststellt, von der Verhängung einer Disziplinarmaßnahme oder der
 Einleitung eines gerichtlichen Disziplinarverfahrens aber absieht.
 
-
 ##### § 24 Disziplinarbuße
 
 (1) Die Disziplinarbuße darf den einmonatigen Betrag der Dienstbezüge
@@ -627,7 +588,6 @@ des Wehrdienstverhältnisses zusteht.
 
 (2) Beim Bemessen der Disziplinarbuße sind auch die persönlichen und
 wirtschaftlichen Verhältnisse des Soldaten zu berücksichtigen.
-
 
 ##### § 25 Ausgangsbeschränkung
 
@@ -643,16 +603,12 @@ drei Wochen. Sie darf nur gegen Soldaten verhängt werden, die aufgrund
 dienstlicher Anordnung nach § 18 des Soldatengesetzes verpflichtet
 sind, in einer Gemeinschaftsunterkunft zu wohnen.
 
-
 ##### § 26 Disziplinararrest
 
 Der Disziplinararrest besteht in einfacher Freiheitsentziehung. Er
 dauert mindestens drei Tage und höchstens drei Wochen.
 
-
 #### 2. - Disziplinarbefugnis
-
-
 
 ##### § 27 Disziplinarvorgesetzte
 
@@ -675,7 +631,6 @@ nächsthöheren Disziplinarvorgesetzten über.
 werden durch vorgesetzte Sanitätsoffiziere geahndet. Dies gilt auch
 dann, wenn mit dem Verstoß gegen ärztliche Pflichten ein Verstoß gegen
 sonstige Pflichten zusammentrifft.
-
 
 ##### § 28 Stufen der Disziplinarbefugnis
 
@@ -737,7 +692,6 @@ nicht erreichbar ist und die militärische Disziplin ein sofortiges
 Einschreiten erfordert. Solche Fälle sind unverzüglich dem sonst
 zuständigen Disziplinarvorgesetzten zu melden.
 
-
 ##### § 29 Zuständigkeit des nächsten Disziplinarvorgesetzten
 
 (1) Soweit das Gesetz nichts anderes bestimmt, übt der nächste
@@ -757,7 +711,6 @@ bestimmt.
 (3) In den Fällen einer vorübergehenden Unterstellung kann die
 Disziplinarbefugnis gegen Dienstgradgleiche und Dienstgradhöhere nicht
 ausgeübt werden.
-
 
 ##### § 30 Zuständigkeit des nächsthöheren Disziplinarvorgesetzten
 
@@ -804,7 +757,6 @@ dass
 1 Nr. 1 bis 3 und des Absatzes 2 das Dienstvergehen dem nächsthöheren
 Disziplinarvorgesetzten zu melden.
 
-
 ##### § 31 Disziplinarbefugnis nach dem Dienstgrad
 
 (1) Die örtlichen Befehlshaber, die Führer von besonders
@@ -843,10 +795,7 @@ Disziplinarvorgesetzten mitzuteilen.
 Disziplinarbefugnis ausüben, wenn die militärische Disziplin ein
 sofortiges Einschreiten erfordert. Absatz 3 Satz 2 bleibt unberührt.
 
-
 #### 3. - Ausübung der Disziplinarbefugnis
-
-
 
 ##### § 32 Ermittlungen des Disziplinarvorgesetzten
 
@@ -881,7 +830,6 @@ zu seiner Entlastung vorbringen will. Hierüber ist eine
 Vernehmungsniederschrift aufzunehmen, die von dem Soldaten
 unterschrieben sein soll.
 
-
 ##### § 33 Prüfungspflicht des Disziplinarvorgesetzten
 
 (1) Hat der Soldat ein Dienstvergehen begangen, prüft der
@@ -908,7 +856,6 @@ Sachaufklärung gesichert ist oder wenn im Strafverfahren aus Gründen
 nicht verhandelt werden kann, die in der Person oder in dem Verhalten
 des Soldaten liegen.
 
-
 ##### § 34 Bindung an tatsächliche Feststellungen anderer Entscheidungen
 
 (1) Die tatsächlichen Feststellungen eines rechtskräftigen Urteils im
@@ -922,7 +869,6 @@ Feststellungen zu beschließen, deren Richtigkeit seine Mitglieder mit
 Stimmenmehrheit, bei Entscheidungen durch eine Truppendienstkammer mit
 der Stimme des Vorsitzenden, bezweifeln. Dies ist in den Gründen der
 Entscheidung zum Ausdruck zu bringen.
-
 
 ##### § 35 Selbständigkeit des Disziplinarvorgesetzten
 
@@ -940,7 +886,6 @@ erwiesen, eine Disziplinarmaßnahme aber nicht für angebracht, darf
 kein höherer Vorgesetzter diese Entscheidung ändern. § 92 Abs. 3 und §
 96 bleiben unberührt.
 
-
 ##### § 36 Absehen von einer Disziplinarmaßnahme
 
 (1) Wird durch die Ermittlungen ein Dienstvergehen nicht festgestellt
@@ -951,7 +896,6 @@ bekannt zu geben, wenn er ihn zuvor gehört hat.
 (2) Der Disziplinarvorgesetzte kann den Fall nur dann erneut
 verfolgen, wenn erhebliche neue Tatsachen oder Beweismittel bekannt
 werden.
-
 
 ##### § 37 Verhängen der Disziplinarmaßnahme
 
@@ -981,7 +925,6 @@ Abs. 2), dürfen sie nur gleichzeitig verhängt werden.
 Disziplinarmaßnahme nicht mehr aufheben, ändern oder unvollstreckt
 lassen. Die §§ 39, 49 Abs. 3 und § 56 Abs. 3 bleiben unberührt.
 
-
 ##### § 38 Richtlinien für das Bemessen der Disziplinarmaßnahme
 
 (1) Bei Art und Maß der Disziplinarmaßnahme sind Eigenart und Schwere
@@ -998,7 +941,6 @@ vorausgegangene erzieherische Maßnahmen und Disziplinarmaßnahmen ihren
 Zweck nicht erreicht haben oder die Aufrechterhaltung der
 militärischen Ordnung eine disziplinare Freiheitsentziehung gebietet.
 
-
 ##### § 39 Anrechnung von Freiheitsentziehung auf die Disziplinarmaßnahme
 
 Auf die Disziplinarmaßnahme kann eine Freiheitsentziehung, die der
@@ -1006,7 +948,6 @@ Soldat aus Anlass seiner Tat durch vorläufige Festnahme oder
 Untersuchungshaft erlitten hat, nach pflichtmäßigem Ermessen in der
 Weise angerechnet werden, dass die Disziplinarmaßnahme ganz oder
 teilweise für vollstreckt erklärt wird.
-
 
 ##### § 40 Mitwirkung des Richters bei der Verhängung von Disziplinararrest
 
@@ -1072,17 +1013,13 @@ vorlegen. § 18 Abs. 4 der Wehrbeschwerdeordnung gilt entsprechend. Von
 der Vorlage bis zur Entscheidung des Bundesverwaltungsgerichts läuft
 die Frist nach § 17 Abs. 2 nicht.
 
-
 ##### § 41 Disziplinarvorgesetzter und gerichtliches Disziplinarverfahren
 
 Ist die Einleitung eines gerichtlichen Disziplinarverfahrens geboten,
 führt der zuständige Disziplinarvorgesetzte die Entscheidung der
 Einleitungsbehörde herbei.
 
-
 #### 4. - Beschwerde gegen Maßnahmen und Entscheidungen des Disziplinarvorgesetzten
-
-
 
 ##### § 42 Anwendung der Wehrbeschwerdeordnung
 
@@ -1175,13 +1112,7 @@ Maßgabe anzuwenden:
     Dienstvergehens verbunden werden (§ 23 Abs. 3 Satz 2), können nur
     zusammen mit dieser Feststellung angefochten werden.
 
-
-
-
-
 #### 5. - Nochmalige Prüfung
-
-
 
 ##### § 43 Aufhebung einer Disziplinarmaßnahme bei nachträglichem Straf- oder Bußgeldverfahren
 
@@ -1204,7 +1135,6 @@ Freiheitsentziehung drei Wochen übersteigt.
 
 (3) Die Aufhebung ist ausgeschlossen, wenn die Disziplinarmaßnahme im
 Strafverfahren oder Bußgeldverfahren erkennbar angerechnet worden ist.
-
 
 ##### § 44 Aufhebung oder Änderung einer Disziplinarmaßnahme aus anderen Gründen
 
@@ -1235,7 +1165,6 @@ ergangenen rechtskräftigen Urteils im Strafverfahren oder
 Bußgeldverfahren, soweit sie von denen der Disziplinarverfügung
 abweichen.
 
-
 ##### § 45 Verfahren bei Aufhebung oder Änderung einer Disziplinarmaßnahme
 
 (1) Über den Antrag auf Aufhebung oder Änderung einer
@@ -1250,7 +1179,6 @@ oder 2 handelt.
 ausgeschlossen, die bei der Verhängung der Disziplinarmaßnahme nach §
 40 Abs. 4 oder in einem Beschwerdeverfahren gegen die
 Disziplinarmaßnahme mitgewirkt haben.
-
 
 ##### § 46 Dienstaufsicht
 
@@ -1310,10 +1238,7 @@ zulässig und angebracht ist. § 42 Nr. 7 gilt entsprechend.
 (5) Die Disziplinarvorgesetzten haben Aufhebungsgründe, die ihnen
 bekannt werden, der für das Aufheben zuständigen Stelle zu melden.
 
-
 #### 6. - Vollstreckung
-
-
 
 ##### § 47 Vollstreckbarkeit der Disziplinarmaßnahmen
 
@@ -1326,7 +1251,6 @@ der Soldat auf Beschwerde nicht verzichten.
 (2) Disziplinarmaßnahmen, die durch Entscheidung eines
 Wehrdienstgerichts verhängt sind, werden mit der Rechtskraft der
 Entscheidung (§ 125) wirksam und vollstreckbar.
-
 
 ##### § 48 Vollstreckender Vorgesetzter
 
@@ -1342,7 +1266,6 @@ Vollstreckung keinen Aufschub duldet.
 (Absatz 1) haben auch einfache Disziplinarmaßnahmen, die im
 gerichtlichen Disziplinarverfahren verhängt sind, auf Ersuchen des
 Wehrdisziplinaranwalts zu vollstrecken.
-
 
 ##### § 49 Aussetzung, Aufschub und Unterbrechung der Vollstreckung
 
@@ -1365,7 +1288,6 @@ Disziplinarmaßnahme zu vollstrecken.
 (3) Im Übrigen darf die Vollstreckung nur aus dringenden Gründen
 aufgeschoben oder unterbrochen werden.
 
-
 ##### § 50 Vollstreckung von Verweis und strengem Verweis
 
 (1) Der Verweis ist mit dem Verhängen vollstreckt.
@@ -1374,7 +1296,6 @@ aufgeschoben oder unterbrochen werden.
 Soldaten der Einheit oder des Truppenteils vom Dienstgrad des Soldaten
 an aufwärts. Die Bekanntmachung ist darauf zu beschränken, dass gegen
 den Soldaten ein strenger Verweis verhängt worden ist.
-
 
 ##### § 51 Vollstreckung von Disziplinarbußen
 
@@ -1396,7 +1317,6 @@ Dem Soldaten oder dem früheren Soldaten sind jedoch die Mittel zu
 belassen, die zum Unterhalt für ihn und seine Familie sowie zur
 Erfüllung sonstiger gesetzlicher Unterhaltspflichten notwendig sind.
 
-
 ##### § 52 Vollstreckung der Ausgangsbeschränkung
 
 (1) Die Ausgangsbeschränkung ist an aufeinander folgenden Tagen zu
@@ -1414,7 +1334,6 @@ angemessenen Zeitabständen bei Vorgesetzten zu melden.
 mehreren Tagen für bestimmte Zeit von den befohlenen Beschränkungen
 befreit werden. Die Zeit der Befreiung ist auf die Vollstreckung
 anzurechnen.
-
 
 ##### § 53 Vollstreckung und Vollzug von Disziplinararrest
 
@@ -1442,7 +1361,6 @@ Freiheitsentziehung, die Art der Unterbringung, die Behandlung, die
 Beschäftigung, die Gewährung und den Entzug von Vergünstigungen, den
 Verkehr mit der Außenwelt und die Ordnung und Sicherheit im Vollzug
 beziehen.
-
 
 ##### § 54 Ausgleich bei nachträglicher Aufhebung einer vollstreckten Disziplinarmaßnahme
 
@@ -1484,7 +1402,6 @@ durch Beschluss. Im Übrigen entscheidet über den Ausgleich der
 Disziplinarvorgesetzte, der die Disziplinarmaßnahme ganz oder
 teilweise aufgehoben hat; § 42 gilt entsprechend.
 
-
 ##### § 55 Behelfsvollzug bei Disziplinararrest
 
 (1) Bei Disziplinararrest ist der Behelfsvollzug zulässig, wenn
@@ -1499,7 +1416,6 @@ wenn die besonderen Gründe hierfür fortfallen.
 Zeit der Aufenthalt auf der Wache oder an Bord in einem geeigneten
 Raum angewiesen. Der vollstreckende Vorgesetzte bestimmt, inwieweit
 der Soldat auch in dieser Zeit zu Dienstleistungen heranzuziehen ist.
-
 
 ##### § 56 Vollstreckung von Disziplinarbußen und Disziplinararrest im Zusammenhang mit dem Entlassungstag
 
@@ -1516,7 +1432,6 @@ Disziplinararrests.
 (3) Der vollstreckende Vorgesetzte soll von der Vollstreckung absehen,
 wenn hieraus kein Nachteil für die Disziplin zu besorgen ist.
 
-
 ##### § 57 Verjährung der Vollstreckung
 
 Einfache Disziplinarmaßnahmen dürfen nach Ablauf von sechs Monaten
@@ -1524,14 +1439,9 @@ nicht mehr vollstreckt werden. Die Frist beginnt mit dem Tag, an dem
 die Disziplinarmaßnahme unanfechtbar geworden ist. Die Frist ist
 gewahrt, wenn vor ihrem Ablauf die Vollstreckung beginnt.
 
-
 ### Dritter Abschnitt - Das gerichtliche Disziplinarverfahren
 
-
-
 #### 1. - Gerichtliche Disziplinarmaßnahmen
-
-
 
 ##### § 58 Arten der gerichtlichen Disziplinarmaßnahmen
 
@@ -1618,7 +1528,6 @@ verhängen.
 (7) Die §§ 38 und 39 gelten auch im gerichtlichen
 Disziplinarverfahren.
 
-
 ##### § 59 Kürzung der Dienstbezüge
 
 Die Kürzung der Dienstbezüge besteht in der bruchteilmäßigen
@@ -1627,7 +1536,6 @@ und höchstens ein Fünftel für die Dauer von sechs Monaten bis zu fünf
 Jahren. Hat der Soldat aus einem früheren öffentlich-rechtlichen
 Dienstverhältnis einen Versorgungsanspruch erworben, bleibt bei dessen
 Regelung die Kürzung der Dienstbezüge unberücksichtigt.
-
 
 ##### § 60 Beförderungsverbot
 
@@ -1638,7 +1546,6 @@ Besoldungsgruppe eingewiesen werden.
 
 (2) Die Dauer des Beförderungsverbots beträgt mindestens ein Jahr und
 höchstens vier Jahre. Sie ist nach vollen Monaten zu bemessen.
-
 
 ##### § 61 Herabsetzung in der Besoldungsgruppe
 
@@ -1651,7 +1558,6 @@ Soldat alle Rechte aus seiner bisherigen Besoldungsgruppe. Der
 Anspruch auf Dienstbezüge und Dienstzeitversorgung richtet sich nach
 der Besoldungsgruppe, in die er zurücktritt. § 62 Abs. 3 gilt
 entsprechend.
-
 
 ##### § 62 Dienstgradherabsetzung
 
@@ -1677,7 +1583,6 @@ besonderen Gründen kann das Gericht die Frist im Urteil auf zwei Jahre
 herabsetzen.
 
 (4) (weggefallen)
-
 
 ##### § 63 Entfernung aus dem Dienstverhältnis
 
@@ -1711,7 +1616,6 @@ Dienstgrades ausschließen, jedoch den Dienstgrad herabsetzen, ohne an
 die in § 62 Abs. 1 Satz 1 bis 3 bezeichneten Beschränkungen gebunden
 zu sein.
 
-
 ##### § 64 Kürzung des Ruhegehalts
 
 Die Kürzung des Ruhegehalts besteht in der bruchteilmäßigen
@@ -1720,7 +1624,6 @@ Ruhegehalts gilt § 59 entsprechend. Diese Kürzung bleibt bei der
 Anwendung von Ruhens- und Kürzungsvorschriften nach dem
 Soldatenversorgungsgesetz unberücksichtigt. Der Ausgleich kann bis zur
 Hälfte gekürzt werden.
-
 
 ##### § 65 Aberkennung des Ruhegehalts
 
@@ -1741,7 +1644,6 @@ bei Eintritt der Unanfechtbarkeit der Entscheidung zusteht; eine
 Einbehaltung des Ruhegehalts nach § 126 Abs. 3 bleibt
 unberücksichtigt. § 63 Abs. 3 gilt entsprechend.
 
-
 ##### § 66 Aberkennung des Dienstgrades
 
 Die Aberkennung des Dienstgrades bewirkt den Verlust des Dienstgrades
@@ -1750,7 +1652,6 @@ Entfernung aus dem Dienstverhältnis gerechtfertigt wäre, falls sich
 der Angehörige der Reserve oder der nicht wehrpflichtige frühere
 Soldat, der noch zu Dienstleistungen herangezogen werden kann, noch im
 Dienst befände. § 63 Abs. 1 Satz 3 gilt entsprechend.
-
 
 ##### § 67 Disziplinarmaßnahmen gegen frühere Soldaten, die als Soldaten im Ruhestand gelten
 
@@ -1777,10 +1678,7 @@ Unterhaltsbeitrag und Berufsförderung. Er verliert ferner seinen
 Dienstgrad und die sich daraus ergebenden Befugnisse. § 63 Abs. 4 gilt
 entsprechend.
 
-
 #### 2. - Wehrdienstgerichte
-
-
 
 ##### § 68 Bestimmung der Wehrdienstgerichte
 
@@ -1789,10 +1687,7 @@ und für Verfahren über Beschwerden von Soldaten (Wehrdienstgerichte)
 sind die Truppendienstgerichte (§§ 69 bis 79) und das
 Bundesverwaltungsgericht (§ 80).
 
-
 ##### a) - Truppendienstgerichte
-
-
 
 ###### § 69 Errichtung
 
@@ -1827,7 +1722,6 @@ Hauptgeschäftsstelle des Truppendienstgerichts nimmt zugleich die
 Aufgaben der Geschäftsstelle einer Truppendienstkammer am Sitz des
 Gerichts wahr.
 
-
 ###### § 70 Zuständigkeit
 
 (1) Zuständig ist das Truppendienstgericht, das für den Befehlsbereich
@@ -1850,7 +1744,6 @@ Truppendienstgerichts oder einer anderen am Verfahren beteiligten
 Behörde oder Dienststelle das Bundesverwaltungsgericht durch Beschluss
 das zuständige Truppendienstgericht.
 
-
 ###### § 71 Zusammensetzung
 
 (1) Das Truppendienstgericht besteht aus dem Präsidenten und weiteren
@@ -1864,7 +1757,6 @@ Vorsitz führen.
 
 (4) Dem Richter eines Truppendienstgerichts kann ein weiteres
 Richteramt bei einem anderen Truppendienstgericht übertragen werden.
-
 
 ###### § 72 Präsidialverfassung
 
@@ -1884,12 +1776,10 @@ in der Gliederung der Bundeswehr erforderlich wird.
 Gerichtsverfassungsgesetzes gelten entsprechend, soweit sich aus
 diesem Gesetz nichts anderes ergibt.
 
-
 ###### § 73 Dienstaufsicht
 
 Der Präsident übt die Dienstaufsicht über die Richter, Beamten und
 Arbeitnehmer aus.
-
 
 ###### § 74 Ehrenamtliche Richter
 
@@ -1958,7 +1848,6 @@ werden, die Truppenteilen oder Dienststellen angehören, die ihren
 Standort am Sitz der Truppendienstkammer oder in ihrer Nähe haben. Die
 Absätze 1 bis 7 gelten entsprechend.
 
-
 ###### § 75 Besetzung
 
 (1) Die Truppendienstkammer entscheidet in der Hauptverhandlung mit
@@ -1994,13 +1883,11 @@ Insoweit findet eine besondere Auslosung statt; § 74 Abs. 3, 5 und 6
 gilt entsprechend. Das Amt als ehrenamtlicher Richter bei einer
 anderen Truppendienstkammer bleibt unberührt.
 
-
 ###### § 76 Große Besetzung
 
 Vor Anberaumung der Hauptverhandlung kann der Vorsitzende der
 Truppendienstkammer durch Beschluss zwei weitere Richter heranziehen,
 wenn dies nach Umfang oder Bedeutung der Sache geboten ist.
-
 
 ###### § 77 Ausschluss von der Ausübung des Richteramtes
 
@@ -2045,10 +1932,6 @@ des Richteramtes kraft Gesetzes ausgeschlossen,
 3.  dem Bataillon oder entsprechenden Truppenteil oder der Dienststelle
     des Soldaten angehört.
 
-
-
-
-
 ###### § 78 Säumige ehrenamtliche Richter
 
 (1) Gegen ehrenamtliche Richter, die sich ohne genügende
@@ -2062,7 +1945,6 @@ die Kostenauferlegung kann der ehrenamtliche Richter die Entscheidung
 des Truppendienstgerichts beantragen. Der Antrag ist innerhalb von
 zwei Wochen nach Zustellung der Entscheidung zu stellen. Das
 Truppendienstgericht entscheidet endgültig.
-
 
 ###### § 79 Ruhen und Erlöschen des Amtes als ehrenamtlicher Richter
 
@@ -2106,10 +1988,7 @@ Versetzung ausgeschieden, erlischt sein Amt mit Ende des Monats nach
 Mitteilung der Versetzung an ihn, es sei denn, dass er dem Erlöschen
 des Amtes als ehrenamtlicher Richter widersprochen hat.
 
-
 ##### b) - Bundesverwaltungsgericht
-
-
 
 ###### § 80 Wehrdienstsenate, Errichtung, Zusammensetzung, Zuständigkeit
 
@@ -2144,10 +2023,7 @@ ehrenamtlichen Richter berufen, andere Soldaten oder frühere Soldaten
 für zwei Jahre. § 74 Abs. 3 Satz 2 und 3, Abs. 4 bis 8 sowie die §§ 77
 bis 79 gelten sinngemäß.
 
-
 #### 3. - Wehrdisziplinaranwälte
-
-
 
 ##### § 81 Organisation und Aufgaben
 
@@ -2186,10 +2062,7 @@ Beurteilung eines Dienstvergehens von Bedeutung sein können, sowie die
 Personalakten vorzulegen. Absatz 3 Satz 2 und § 98 Abs. 1 und 2
 bleiben unberührt.
 
-
 #### 4. - Allgemeine Vorschriften für das gerichtliche Disziplinarverfahren
-
-
 
 ##### § 82 Verfahren gegen frühere Soldaten
 
@@ -2218,7 +2091,6 @@ Dienstverhältnisses begangenen Dienstvergehens oder wegen einer
 Handlung eingeleitet werden, die nach § 23 Abs. 2 des Soldatengesetzes
 als Dienstvergehen gilt.
 
-
 ##### § 83 Aussetzung des gerichtlichen Disziplinarverfahrens
 
 (1) Ist gegen den Soldaten wegen des Sachverhalts, der dem
@@ -2243,7 +2115,6 @@ Absatz 1 Satz 2 und Absatz 2 gelten entsprechend.
 die Entscheidung des Truppendienstgerichts beantragen. Dieses
 entscheidet endgültig.
 
-
 ##### § 84 Bindung an tatsächliche Feststellungen anderer Entscheidungen
 
 (1) Die tatsächlichen Feststellungen eines rechtskräftigen Urteils im
@@ -2261,7 +2132,6 @@ Urteilsgründen zum Ausdruck zu bringen.
 tatsächlichen Feststellungen sind nicht bindend, können aber der
 Entscheidung im gerichtlichen Disziplinarverfahren ohne nochmalige
 Prüfung zu Grunde gelegt werden.
-
 
 ##### § 85 Verhandlungsunfähigkeit des Soldaten
 
@@ -2285,7 +2155,6 @@ als gesetzlichen Vertreter zur Wahrnehmung der Rechte des Soldaten in
 dem Verfahren. Der Betreuer oder Pfleger muss Soldat sein. § 16 Abs. 2
 des Verwaltungsverfahrensgesetzes gilt entsprechend.
 
-
 ##### § 86 Zeugen und Sachverständige
 
 (1) Die Vereidigung von Zeugen und Sachverständigen ist nur zulässig,
@@ -2298,12 +2167,10 @@ Inland nur die Amtsgerichte um die eidliche Vernehmung von Zeugen und
 Sachverständigen ersucht werden. Ein an das Truppendienstgericht
 gerichtetes Ersuchen wird durch einen Richter ausgeführt.
 
-
 ##### § 87 Unzulässigkeit der Verhaftung
 
 Der Soldat kann im gerichtlichen Disziplinarverfahren nicht verhaftet
 werden.
-
 
 ##### § 88 Gutachten über den psychischen Zustand
 
@@ -2316,7 +2183,6 @@ ein Verteidiger zu bestellen. Der Aufenthalt in dem öffentlichen
 psychiatrischen Krankenhaus oder dem Bundeswehrkrankenhaus darf die
 Dauer von sechs Wochen nicht überschreiten.
 
-
 ##### § 89 Ladungen
 
 Soldaten werden zur Hauptverhandlung sowie zu sonstigen Vernehmungen
@@ -2324,7 +2190,6 @@ dienstlich gestellt, auch wenn sie Zeugen oder Sachverständige sind.
 Bei der Bekanntgabe des Termins ist dem Soldaten die Ladung
 auszuhändigen. Frühere Soldaten und andere Personen werden unmittelbar
 geladen.
-
 
 ##### § 90 Verteidigung
 
@@ -2349,7 +2214,6 @@ Deutschen Richtergesetzes erfüllen.
 (3) Dem Verteidiger steht das Recht, Einsicht in die Akten zu nehmen,
 in gleichem Umfang zu wie dem Soldaten.
 
-
 ##### § 91 Ergänzende Vorschriften
 
 (1) Zur Ergänzung der Vorschriften dieses Gesetzes über das
@@ -2371,10 +2235,7 @@ anzuwenden.
 
 (2) Die Wehrdienstgerichte entscheiden mit einfacher Stimmenmehrheit.
 
-
 #### 5. - Einleitung des Verfahrens
-
-
 
 ##### § 92 Vorermittlungen
 
@@ -2413,7 +2274,6 @@ zutrifft, ob missbilligende Äußerungen angebracht waren. Die
 Entscheidung ist dem Soldaten zuzustellen und der Einleitungsbehörde
 bekannt zu geben.
 
-
 ##### § 93 Einleitungsverfügung
 
 (1) Das gerichtliche Disziplinarverfahren wird durch schriftliche
@@ -2431,7 +2291,6 @@ Einleitungsbehörde zuständig, die im Havarieverfahren die Entscheidung
 trifft. Sie kann auch ein gerichtliches Disziplinarverfahren
 einleiten, sofern nicht ein höherer Vorgesetzter Einleitungsbehörde
 ist.
-
 
 ##### § 94 Einleitungsbehörden
 
@@ -2475,7 +2334,6 @@ verschiedenen Einleitungsbehörden unterstehen, ein Zusammenhang, so
 kann die gemeinsame höhere Einleitungsbehörde die zuständige
 Einleitungsbehörde bestimmen.
 
-
 ##### § 95 Antrag des Soldaten auf Einleitung des Verfahrens
 
 (1) Jeder, gegen den eine gerichtliche Disziplinarmaßnahme verhängt
@@ -2496,7 +2354,6 @@ entsprechend.
 (3) Diese Vorschriften gelten nicht für Verfahren nach § 144 dieses
 Gesetzes in Verbindung mit § 88 des Soldatengesetzes.
 
-
 ##### § 96 Nachträgliches gerichtliches Disziplinarverfahren
 
 (1) Hält die Einleitungsbehörde eine gerichtliche Disziplinarmaßnahme
@@ -2515,10 +2372,7 @@ es sei denn, ein vollstreckter Disziplinararrest, der aufgehoben wird,
 ist in einem sachgleichen Strafverfahren oder Bußgeldverfahren
 erkennbar angerechnet worden.
 
-
 #### 6. - Ermittlungen des Wehrdisziplinaranwalts
-
-
 
 ##### § 97 Ermittlungsgrundsätze
 
@@ -2545,10 +2399,7 @@ entscheidet, ob dem Antrag stattzugeben ist. Bei der abschließenden
 Vernehmung und etwa erforderlichen weiteren Vernehmungen des Soldaten
 ist dem Verteidiger die Anwesenheit zu gestatten.
 
-
 #### 7. - Verfahren bis zur Hauptverhandlung
-
-
 
 ##### § 98 Einstellung
 
@@ -2583,7 +2434,6 @@ Dienstvergehen fest und sieht von der Verhängung einer
 Disziplinarmaßnahme ab, so hat sie diese Entscheidung gleichzeitig mit
 der Einstellungsverfügung zuzustellen; § 92 Abs. 4 gilt entsprechend.
 
-
 ##### § 99 Anschuldigung
 
 (1) Stellt die Einleitungsbehörde das gerichtliche
@@ -2609,7 +2459,6 @@ Weise eingeleitete Verfahren an anderen Verfahrensmängeln, kann der
 Vorsitzende der Truppendienstkammer den Wehrdisziplinaranwalt zur
 Beseitigung der Mängel auffordern. Absatz 2 gilt sinngemäß.
 
-
 ##### § 100 Zustellung der Anschuldigungsschrift
 
 Der Vorsitzende der Truppendienstkammer stellt dem Soldaten eine
@@ -2617,7 +2466,6 @@ Ausfertigung der Anschuldigungsschrift und der Nachträge (§ 99 Abs. 2)
 zu und bestimmt eine Frist, innerhalb der der Soldat sich schriftlich
 äußern kann. Hierbei ist der Soldat auf sein Recht, gemäß § 90 Abs. 1
 Satz 2 die Bestellung eines Verteidigers zu beantragen, hinzuweisen.
-
 
 ##### § 101 Anrufung des Truppendienstgerichts
 
@@ -2637,7 +2485,6 @@ zuzustellen. Die Entscheidung ist endgültig.
 
 (3) Der Lauf der in Absatz 1 Satz 1 bezeichneten Frist ist gehemmt,
 solange das Verfahren nach § 83 ausgesetzt ist.
-
 
 ##### § 102 Disziplinargerichtsbescheid
 
@@ -2669,7 +2516,6 @@ widersprechen.
 begründen. Er steht mit seiner Zustellung an den Soldaten einem
 rechtskräftigen Urteil gleich.
 
-
 ##### § 103 Ladung zur Hauptverhandlung, Ladungsfrist
 
 (1) Nach Ablauf der Frist des § 100 setzt der Vorsitzende den Termin
@@ -2686,10 +2532,7 @@ wenn der Soldat nicht auf die Einhaltung der Frist verzichtet; es gilt
 als Verzicht, wenn der Soldat sich auf die Hauptverhandlung
 eingelassen hat, ohne zu rügen, dass die Frist nicht eingehalten sei.
 
-
 #### 8. - Hauptverhandlung
-
-
 
 ##### § 104 Teilnahme des Soldaten an der Hauptverhandlung
 
@@ -2725,7 +2568,6 @@ verhandlungsunfähig oder aus zwingenden Gründen am Erscheinen
 verhindert, findet keine Hauptverhandlung statt, solange diese
 Hinderungsgründe bestehen.
 
-
 ##### § 105 Grundsatz der Nichtöffentlichkeit
 
 (1) Die Hauptverhandlung ist nicht öffentlich. Disziplinarvorgesetzten
@@ -2740,7 +2582,6 @@ gelten entsprechend. Das Gericht kann für die Hauptverhandlung oder
 einen Teil davon die Öffentlichkeit auch dann ausschließen, wenn dies
 zum Schutz der Bundeswehr oder ihrer Einrichtungen zwingend geboten
 ist.
-
 
 ##### § 106 Beweisaufnahme
 
@@ -2774,7 +2615,6 @@ oder das Truppendienstgericht sie für unerheblich erklärt. Der
 wesentliche Inhalt der Aussagen von Zeugen und Sachverständigen ist in
 die Niederschrift über die Hauptverhandlung aufzunehmen.
 
-
 ##### § 107 Gegenstand der Urteilsfindung
 
 (1) Zum Gegenstand der Urteilsfindung können nur die
@@ -2796,7 +2636,6 @@ mehr zulässig.
 (3) Der Urteilsfindung können auch die Beweise zu Grunde gelegt
 werden, die nach § 106 Abs. 2 Gegenstand der Hauptverhandlung waren.
 
-
 ##### § 108 Entscheidung des Truppendienstgerichts
 
 (1) Das Urteil kann nur auf eine Disziplinarmaßnahme, auf Freispruch
@@ -2815,7 +2654,6 @@ für angebracht hält.
 (4) Besteht ein Verfahrenshindernis, kann der Vorsitzende der
 Truppendienstkammer das Verfahren außerhalb der Hauptverhandlung durch
 Beschluss einstellen.
-
 
 ##### § 109 Zahlung des Unterhaltsbeitrags
 
@@ -2852,7 +2690,6 @@ Geschäftsbereichs übertragen.
 (6) Der Anspruch auf Unterhaltsbeitrag erlischt, wenn der Verurteilte
 wieder zum Soldaten ernannt oder sonst in ein öffentlich-rechtliches
 Amts- oder Dienstverhältnis berufen wird.
-
 
 ##### § 110 Unterhaltsleistung bei Mithilfe zur Aufdeckung von Straftaten
 
@@ -2897,7 +2734,6 @@ oder Lebenspartner erhält 55 vom Hundert der Unterhaltsleistung, wenn
 zum Zeitpunkt der Entfernung aus dem Dienst die Ehe oder
 Lebenspartnerschaft bereits bestanden hatte.
 
-
 ##### § 111 Unterzeichnung des Urteils, Zustellung
 
 (1) Das mit Gründen versehene Urteil der Truppendienstkammer ist vom
@@ -2907,10 +2743,7 @@ weiteren Richtern zu unterzeichnen.
 (2) Dem Soldaten und dem Wehrdisziplinaranwalt ist eine Ausfertigung
 des Urteils mit Gründen zuzustellen.
 
-
 #### 9. - Gerichtliches Antragsverfahren
-
-
 
 ##### § 112 Antragstellung
 
@@ -2926,21 +2759,15 @@ der Soldat unterschreiben soll. Von dem Protokoll oder der
 Niederschrift ist dem Soldaten auf Verlangen eine Abschrift
 auszuhändigen.
 
-
 ##### § 113 Verfahren
 
 In gerichtlichen Antragsverfahren kann das Wehrdienstgericht Beweise
 erheben und mündliche Verhandlung anordnen. Es entscheidet durch
 Beschluss.
 
-
 #### 10. - Rechtsmittel
 
-
-
 ##### a) - Beschwerde gegen gerichtliche Entscheidungen
-
-
 
 ###### § 114 Bestimmungen für das Beschwerdeverfahren
 
@@ -2969,10 +2796,7 @@ Anderenfalls entscheidet das Bundesverwaltungsgericht durch Beschluss.
 Vorsitzende der Truppendienstkammer durch Beschluss als unzulässig.
 Die Entscheidung ist zuzustellen.
 
-
 ##### b) - Berufung
-
-
 
 ###### § 115 Zulässigkeit und Frist der Berufung
 
@@ -2988,7 +2812,6 @@ Unterhaltsbeitrag bewilligt worden, kann die Entscheidung zu seinem
 Nachteil nur geändert werden, wenn der Bundeswehrdisziplinaranwalt
 dies bis zum Schluss der Hauptverhandlung beantragt.
 
-
 ###### § 116 Einlegung und Begründung der Berufung
 
 (1) Die Berufung ist bei dem Truppendienstgericht einzulegen. Die
@@ -3000,7 +2823,6 @@ entsprechend.
 und anzugeben, inwieweit es angefochten wird und welche Änderungen
 beantragt werden. Die Anträge sind zu begründen.
 
-
 ###### § 117 Unzulässige Berufung
 
 Der Vorsitzende der Truppendienstkammer verwirft die Berufung durch
@@ -3008,13 +2830,11 @@ Beschluss als unzulässig, wenn sie nicht statthaft oder nicht in der
 gesetzlichen Form oder Frist eingelegt ist. Die Entscheidung ist
 zuzustellen.
 
-
 ###### § 118 Zustellung der Berufung
 
 Wird die Berufung nicht als unzulässig verworfen, ist eine Abschrift
 der Berufungsschrift dem Wehrdisziplinaranwalt oder, wenn dieser die
 Berufung eingelegt hat, dem Soldaten zuzustellen.
-
 
 ###### § 119 Aktenübersendung an das Bundesverwaltungsgericht
 
@@ -3023,7 +2843,6 @@ nach Ablauf der Frist des § 115 Abs. 1 dem Wehrdisziplinaranwalt zu
 übersenden. Dieser legt die Akten unverzüglich dem
 Bundeswehrdisziplinaranwalt vor, der sie an das
 Bundesverwaltungsgericht weiterleitet.
-
 
 ###### § 120 Beschluss des Berufungsgerichts
 
@@ -3049,7 +2868,6 @@ zu geben.
 (3) Der Beschluss ist zu begründen und dem Soldaten sowie dem
 Wehrdisziplinaranwalt zuzustellen.
 
-
 ###### § 121 Urteil des Berufungsgerichts
 
 (1) Soweit das Bundesverwaltungsgericht die Berufung für zulässig und
@@ -3062,7 +2880,6 @@ das Urteil des Truppendienstgerichts aufheben und die Sache an eine
 andere Kammer desselben oder eines anderen Truppendienstgerichts zur
 nochmaligen Verhandlung und Entscheidung zurückverweisen.
 
-
 ###### § 121a Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör
 
 Hat das Bundesverwaltungsgericht bei einer Berufungsentscheidung den
@@ -3074,13 +2891,11 @@ der Entscheidung bestand. Der Antrag ist innerhalb von zwei Wochen
 nach Zustellung der Entscheidung schriftlich oder zu Protokoll der
 Geschäftsstelle beim Berufungsgericht zu stellen und zu begründen.
 
-
 ###### § 122 Bindung des Truppendienstgerichts
 
 Wird die Sache an ein Truppendienstgericht zurückverwiesen, ist es an
 die rechtliche Beurteilung gebunden, die der Entscheidung des
 Bundesverwaltungsgerichts zu Grunde liegt.
-
 
 ###### § 123 Verfahrensgrundsätze
 
@@ -3093,7 +2908,6 @@ wenn sie zur Erforschung der Wahrheit nicht erforderlich sind. Im
 Übrigen gelten die Vorschriften über das Verfahren vor dem
 Truppendienstgericht sinngemäß.
 
-
 ###### § 124 Ausbleiben des Soldaten
 
 Außer in den Fällen des § 104 Abs. 1 findet die
@@ -3101,10 +2915,7 @@ Berufungshauptverhandlung auch dann ohne den Soldaten statt, wenn er
 ordnungsgemäß geladen und in der Ladung darauf hingewiesen worden ist,
 dass in seiner Abwesenheit verhandelt werden kann.
 
-
 ##### c) - Rechtskraft
-
-
 
 ###### § 125 Rechtskraft gerichtlicher Entscheidungen
 
@@ -3121,10 +2932,7 @@ rechtskräftig.
 (3) Die Beschlüsse des Bundesverwaltungsgerichts werden mit der
 Zustellung, seine Urteile mit der Verkündung rechtskräftig.
 
-
 #### 11. - Vorläufige Dienstenthebung, Einbehaltung von Dienstbezügen
-
-
 
 ##### § 126 Zulässigkeit, Wirksamkeit, Rechtsmittel
 
@@ -3166,7 +2974,6 @@ des Truppendienstgerichts.
 
 (6) Mit dem rechtskräftigen Abschluss des Verfahrens enden die
 Anordnungen kraft Gesetzes.
-
 
 ##### § 127 Verfall und Nachzahlung der einbehaltenen Beträge
 
@@ -3225,10 +3032,7 @@ Soldaten zuzustellen. Er kann innerhalb eines Monats nach Zustellung
 die Entscheidung des Truppendienstgerichts beantragen. Dieses
 entscheidet endgültig.
 
-
 #### 12. - Antragsverfahren vor dem Wehrdienstgericht bei nachträglicher strafgerichtlicher Ahndung
-
-
 
 ##### § 128 Voraussetzungen und Zuständigkeit
 
@@ -3259,10 +3063,7 @@ Strafverfahren oder Bußgeldverfahren erkennbar angerechnet worden ist.
 Disziplinarmaßnahme verhängt hat. Im Fall des Absatzes 1 gilt § 45
 Abs. 3 entsprechend.
 
-
 #### 13. - Wiederaufnahme des gerichtlichen Disziplinarverfahrens
-
-
 
 ##### § 129 Wiederaufnahmegründe
 
@@ -3328,7 +3129,6 @@ wenn ein strafgerichtliches Verfahren aus anderen Gründen als wegen
 Mangels an Beweisen nicht eingeleitet oder nicht durchgeführt werden
 kann.
 
-
 ##### § 130 Unzulässigkeit der Wiederaufnahme
 
 (1) Die Wiederaufnahme des durch rechtskräftiges Urteil
@@ -3351,7 +3151,6 @@ wenn nach Eintritt der Rechtskraft
 (2) Die Wiederaufnahme des gerichtlichen Disziplinarverfahrens zu
 Ungunsten des Verurteilten ist außerdem unzulässig, wenn seit dem
 Eintritt der Rechtskraft des Urteils drei Jahre vergangen sind.
-
 
 ##### § 131 Antrag, Frist, Verfahren
 
@@ -3389,7 +3188,6 @@ sind unter Bezeichnung der Beweismittel zu begründen.
 gerichtliche Disziplinarverfahren vor dem Truppendienstgericht und dem
 Bundesverwaltungsgericht entsprechend.
 
-
 ##### § 132 Entscheidung durch Beschluss
 
 (1) Das Wehrdienstgericht kann den Antrag, auch nach Eröffnung der
@@ -3406,7 +3204,6 @@ Beschluss ist unanfechtbar.
 (3) Der rechtskräftige Beschluss nach Absatz 1 sowie der Beschluss
 nach Absatz 2 stehen einem rechtskräftigen Urteil gleich.
 
-
 ##### § 133 Mündliche Verhandlung, Entscheidung durch Urteil
 
 (1) Das Wehrdienstgericht entscheidet, wenn das
@@ -3414,7 +3211,6 @@ Wiederaufnahmeverfahren nicht auf andere Weise abgeschlossen wird,
 aufgrund mündlicher Verhandlung durch Urteil.
 
 (2) Gegen das Urteil des Truppendienstgerichts ist Berufung zulässig.
-
 
 ##### § 134 Rechtswirkungen, Entschädigung
 
@@ -3441,10 +3237,7 @@ Einleitungsbehörde den Anspruch ab, gelten für seine Weiterverfolgung
 die Vorschriften über den Rechtsweg für Klagen aus dem
 Wehrdienstverhältnis entsprechend.
 
-
 #### 14. - Vollstreckung von Disziplinarmaßnahmen
-
-
 
 ##### § 135 Durchführung der Vollstreckung
 
@@ -3493,15 +3286,11 @@ auf Aberkennung des Ruhegehalts.
 die Aberkennung des Ruhegehalts Absatz 5 Satz 1 und 2 und für die
 Aberkennung des Dienstgrades Absatz 5 Satz 1 entsprechend.
 
-
 #### 15. - Kosten des Verfahrens
-
-
 
 ##### § 136 Allgemeines
 
 Kosten werden nur im gerichtlichen Disziplinarverfahren erhoben.
-
 
 ##### § 137 Umfang der Kostenpflicht
 
@@ -3534,10 +3323,6 @@ Kosten werden nur im gerichtlichen Disziplinarverfahren erhoben.
 
 6.  die Auslagen des nach § 85 Abs. 2 bestellten Betreuers oder Pflegers.
 
-
-
-
-
 ##### § 138 Kostenpflicht des Soldaten und des Bundes
 
 (1) Die Kosten des Verfahrens sind dem Soldaten aufzuerlegen, wenn er
@@ -3564,7 +3349,6 @@ er durch schuldhafte Säumnis verursacht hat.
 oder 3 dem Soldaten zur Last fallen, sind dem Bund aufzuerlegen, es
 sei denn, dass sie ganz oder teilweise von einem Dritten zu tragen
 sind.
-
 
 ##### § 139 Kosten bei Rechtsmitteln und Rechtsbehelfen
 
@@ -3596,7 +3380,6 @@ Verfahrens, die durch einen Antrag auf gerichtliche Entscheidung in
 den Fällen des § 92 Abs. 4, § 95 Abs. 2, § 98 Abs. 3 Satz 2, § 121a, §
 127 Abs. 4 und § 128 oder durch einen Antrag auf Wiederaufnahme des
 Verfahrens entstanden sind.
-
 
 ##### § 140 Notwendige Auslagen
 
@@ -3685,7 +3468,6 @@ Abs. 4, § 95 Abs. 2, § 98 Abs. 3 Satz 2, § 121a, § 127 Abs. 4 und §
 128 sowie im Wiederaufnahmeverfahren gelten die Absätze 1 bis 8
 sinngemäß.
 
-
 ##### § 141 Entscheidung über die Kosten
 
 (1) Jede Entscheidung in der Hauptsache muss bestimmen, wer die Kosten
@@ -3719,7 +3501,6 @@ ist die Beschwerde zulässig. Die Beschwerde ist bis zum Ablauf eines
 Monats nach Zustellung der Entscheidung bei dem Truppendienstgericht
 einzulegen. Über die Beschwerde entscheidet das Truppendienstgericht.
 
-
 ##### § 142 Kostenfestsetzung
 
 Die Höhe der Kosten, die nach der Kostenentscheidung zu erstatten
@@ -3728,10 +3509,7 @@ Truppendienstgerichts festgesetzt. Auf Erinnerung gegen die
 Festsetzung entscheidet der Vorsitzende der Truppendienstkammer
 endgültig. § 112 gilt entsprechend.
 
-
 ## Schlussvorschriften
-
-
 
 ### § 143 Sonderbestimmung für Soldaten auf Zeit
 
@@ -3749,7 +3527,6 @@ entsprechend.
 Disziplinarverfahren anhängig, kann er wegen derselben Tat nicht mehr
 nach § 55 Abs. 5 des Soldatengesetzes entlassen werden.
 
-
 ### § 144 Besondere Entlassung eines Soldaten
 
 Auf das Verfahren der Wehrdienstgerichte in den Fällen des § 88 des
@@ -3758,7 +3535,6 @@ Disziplinarverfahren entsprechende Anwendung. Das Urteil stellt fest,
 dass der Soldat aufgrund seines Verhaltens vor der Ernennung der
 Berufung in sein Dienstverhältnis unwürdig ist, oder es weist den
 Antrag auf eine solche Feststellung ab.
-
 
 ### § 145 Bindung der Gerichte an Disziplinarentscheidungen
 
@@ -3773,7 +3549,6 @@ Disziplinarvorgesetzten und der Wehrdienstgerichte sind für die
 Beurteilung der vor einem Gericht geltend gemachten Rechte aus dem
 Dienstverhältnis bindend.
 
-
 ### § 146 Ermächtigung zum Erlass einer Rechtsverordnung
 
 Das Bundesministerium der Verteidigung wird ermächtigt, durch
@@ -3781,7 +3556,6 @@ Rechtsverordnung im Einvernehmen mit dem Bundesministerium des Innern
 zu bestimmen, welche Bezüge einschließlich der Sachbezüge als
 Dienstbezüge und Wehrsold im Sinne der §§ 24, 126 und des 1.
 Unterabschnittes des Dritten Abschnitts anzusehen sind.
-
 
 ### § 147 Überleitungsvorschriften
 
@@ -3794,7 +3568,6 @@ verhängt wurde, ist nach den Vorschriften dieses Gesetzes zu tilgen.
 Disziplinarmaßnahmen sowie gegen sonstige Maßnahmen und Entscheidungen
 des Disziplinarvorgesetzten vor dem 1. Januar 2002 gelten die
 bisherigen Vorschriften.
-
 
 ### § 148 Einschränkung von Grundrechten
 

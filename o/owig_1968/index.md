@@ -21,14 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 G v. 29.7.2009 I 2353
 
-
 ## Erster Teil - Allgemeine Vorschriften
 
-
-
 ### Erster Abschnitt - Geltungsbereich
-
-
 
 #### § 1 Begriffsbestimmung
 
@@ -40,19 +35,16 @@ Ahndung mit einer Geldbuße zuläßt.
 Handlung, die den Tatbestand eines Gesetzes im Sinne des Absatzes 1
 verwirklicht, auch wenn sie nicht vorwerfbar begangen ist.
 
-
 #### § 2 Sachliche Geltung
 
 Dieses Gesetz gilt für Ordnungswidrigkeiten nach Bundesrecht und nach
 Landesrecht.
-
 
 #### § 3 Keine Ahndung ohne Gesetz
 
 Eine Handlung kann als Ordnungswidrigkeit nur geahndet werden, wenn
 die Möglichkeit der Ahndung gesetzlich bestimmt war, bevor die
 Handlung begangen wurde.
-
 
 #### § 4 Zeitliche Geltung
 
@@ -74,7 +66,6 @@ ein Gesetz etwas anderes bestimmt.
 (5) Für Nebenfolgen einer Ordnungswidrigkeit gelten die Absätze 1 bis
 4 entsprechend.
 
-
 #### § 5 Räumliche Geltung
 
 Wenn das Gesetz nichts anderes bestimmt, können nur
@@ -84,13 +75,11 @@ auf einem Schiff oder in einem Luftfahrzeug begangen werden, das
 berechtigt ist, die Bundesflagge oder das Staatszugehörigkeitszeichen
 der Bundesrepublik Deutschland zu führen.
 
-
 #### § 6 Zeit der Handlung
 
 Eine Handlung ist zu der Zeit begangen, zu welcher der Täter tätig
 geworden ist oder im Falle des Unterlassens hätte tätig werden müssen.
 Wann der Erfolg eintritt, ist nicht maßgebend.
-
 
 #### § 7 Ort der Handlung
 
@@ -104,10 +93,7 @@ dem der Tatbestand des Gesetzes, das die Ahndung mit einer Geldbuße
 zuläßt, verwirklicht worden ist oder nach der Vorstellung des
 Beteiligten verwirklicht werden sollte.
 
-
 ### Zweiter Abschnitt - Grundlagen der Ahndung
-
-
 
 #### § 8 Begehen durch Unterlassen
 
@@ -116,7 +102,6 @@ Bußgeldvorschrift gehört, handelt nach dieser Vorschrift nur dann
 ordnungswidrig, wenn er rechtlich dafür einzustehen hat, daß der
 Erfolg nicht eintritt, und wenn das Unterlassen der Verwirklichung des
 gesetzlichen Tatbestandes durch ein Tun entspricht.
-
 
 #### § 9 Handeln für einen anderen
 
@@ -163,13 +148,11 @@ Grund eines entsprechenden Auftrages für eine Stelle, die Aufgaben der
 Rechtshandlung, welche die Vertretungsbefugnis oder das
 Auftragsverhältnis begründen sollte, unwirksam ist.
 
-
 #### § 10 Vorsatz und Fahrlässigkeit
 
 Als Ordnungswidrigkeit kann nur vorsätzliches Handeln geahndet werden,
 außer wenn das Gesetz fahrlässiges Handeln ausdrücklich mit Geldbuße
 bedroht.
-
 
 #### § 11 Irrtum
 
@@ -182,7 +165,6 @@ Unerlaubtes zu tun, namentlich weil er das Bestehen oder die
 Anwendbarkeit einer Rechtsvorschrift nicht kennt, so handelt er nicht
 vorwerfbar, wenn er diesen Irrtum nicht vermeiden konnte.
 
-
 #### § 12 Verantwortlichkeit
 
 (1) Nicht vorwerfbar handelt, wer bei Begehung einer Handlung noch
@@ -194,7 +176,6 @@ einer krankhaften seelischen Störung, wegen einer tiefgreifenden
 Bewußtseinsstörung oder wegen Schwachsinns oder einer schweren anderen
 seelischen Abartigkeit unfähig ist, das Unerlaubte der Handlung
 einzusehen oder nach dieser Einsicht zu handeln.
-
 
 #### § 13 Versuch
 
@@ -216,7 +197,6 @@ Jedoch genügt sein freiwilliges und ernsthaftes Bemühen, die
 Vollendung der Handlung zu verhindern, wenn sie ohne sein Zutun nicht
 vollendet oder unabhängig von seiner früheren Beteiligung begangen
 wird.
-
 
 #### § 14 Beteiligung
 
@@ -241,7 +221,6 @@ Ordnungswidrigkeit wäre, bei besonderen persönlichen Merkmalen des
 Täters eine Straftat ist, so gilt dies nur für den Beteiligten, bei
 dem sie vorliegen.
 
-
 #### § 15 Notwehr
 
 (1) Wer eine Handlung begeht, die durch Notwehr geboten ist, handelt
@@ -254,7 +233,6 @@ abzuwenden.
 (3) Überschreitet der Täter die Grenzen der Notwehr aus Verwirrung,
 Furcht oder Schrecken, so wird die Handlung nicht geahndet.
 
-
 #### § 16 Rechtfertigender Notstand
 
 Wer in einer gegenwärtigen, nicht anders abwendbaren Gefahr für Leben,
@@ -266,10 +244,7 @@ ihnen drohenden Gefahren, das geschützte Interesse das beeinträchtigte
 wesentlich überwiegt. Dies gilt jedoch nur, soweit die Handlung ein
 angemessenes Mittel ist, die Gefahr abzuwenden.
 
-
 ### Dritter Abschnitt - Geldbuße
-
-
 
 #### § 17 Höhe der Geldbuße
 
@@ -292,7 +267,6 @@ der Ordnungswidrigkeit gezogen hat, übersteigen. Reicht das
 gesetzliche Höchstmaß hierzu nicht aus, so kann es überschritten
 werden.
 
-
 #### § 18 Zahlungserleichterungen
 
 Ist dem Betroffenen nach seinen wirtschaftlichen Verhältnissen nicht
@@ -303,10 +277,7 @@ Vergünstigung, die Geldbuße in bestimmten Teilbeträgen zu zahlen,
 entfällt, wenn der Betroffene einen Teilbetrag nicht rechtzeitig
 zahlt.
 
-
 ### Vierter Abschnitt - Zusammentreffen mehrerer Gesetzesverletzungen
-
-
 
 #### § 19 Tateinheit
 
@@ -318,11 +289,9 @@ mehrmals, so wird nur eine einzige Geldbuße festgesetzt.
 Gesetz bestimmt, das die höchste Geldbuße androht. Auf die in dem
 anderen Gesetz angedrohten Nebenfolgen kann erkannt werden.
 
-
 #### § 20 Tatmehrheit
 
 Sind mehrere Geldbußen verwirkt, so wird jede gesondert festgesetzt.
-
 
 #### § 21 Zusammentreffen von Straftat und Ordnungswidrigkeit
 
@@ -334,10 +303,7 @@ angedrohten Nebenfolgen kann erkannt werden.
 Ordnungswidrigkeit geahndet werden, wenn eine Strafe nicht verhängt
 wird.
 
-
 ### Fünfter Abschnitt - Einziehung
-
-
 
 #### § 22 Voraussetzungen der Einziehung
 
@@ -361,7 +327,6 @@ eingezogen werden, soweit das Gesetz es ausdrücklich zuläßt.
 der Gegenstände auch zulässig, wenn der Täter nicht vorwerfbar
 gehandelt hat.
 
-
 #### § 23 Erweiterte Voraussetzungen der Einziehung
 
 Verweist das Gesetz auf diese Vorschrift, so dürfen die Gegenstände
@@ -375,10 +340,6 @@ derjenige, dem sie zur Zeit der Entscheidung gehören oder zustehen,
 
 2.  die Gegenstände in Kenntnis der Umstände, welche die Einziehung
     zugelassen hätten, in verwerflicher Weise erworben hat.
-
-
-
-
 
 #### § 24 Grundsatz der Verhältnismäßigkeit
 
@@ -410,7 +371,6 @@ aufgehoben; andernfalls wird die Einziehung nachträglich angeordnet.
 (3) Die Einziehung kann auf einen Teil der Gegenstände beschränkt
 werden.
 
-
 #### § 25 Einziehung des Wertersatzes
 
 (1) Hat der Täter den Gegenstand, der ihm zur Zeit der Handlung
@@ -440,7 +400,6 @@ nachträglich angeordnet werden.
 
 (5) Für die Bewilligung von Zahlungserleichterungen gilt § 18.
 
-
 #### § 26 Wirkung der Einziehung
 
 (1) Wird ein Gegenstand eingezogen, so geht das Eigentum an der Sache
@@ -461,7 +420,6 @@ Veräußerungsverbot im Sinne des § 136 des Bürgerlichen Gesetzbuches;
 das Verbot umfaßt auch andere Verfügungen als Veräußerungen. Die
 gleiche Wirkung hat die Anordnung des Vorbehalts der Einziehung, auch
 wenn sie noch nicht rechtskräftig ist.
-
 
 #### § 27 Selbständige Anordnung
 
@@ -489,7 +447,6 @@ Ermächtigung fehlen.
 (3) Absatz 1 ist auch anzuwenden, wenn nach § 47 die
 Verfolgungsbehörde von der Verfolgung der Ordnungswidrigkeit absieht
 oder das Gericht das Verfahren einstellt.
-
 
 #### § 28 Entschädigung
 
@@ -525,7 +482,6 @@ ist.
 
 (3) In den Fällen des Absatzes 2 kann eine Entschädigung gewährt
 werden, soweit es eine unbillige Härte wäre, sie zu versagen.
-
 
 #### § 29 Sondervorschrift für Organe und Vertreter
 
@@ -564,10 +520,7 @@ dieser Vorschriften dem Vertretenen zugerechnet.
 
 (2) § 9 Abs. 3 gilt entsprechend.
 
-
 ### Sechster Abschnitt - Verfall, Geldbuße gegen juristische Personen und Personenvereinigungen
-
-
 
 #### § 29a Verfall
 
@@ -588,7 +541,6 @@ Höhe angeordnet werden.
 (4) Wird gegen den Täger ein Bußgeldverfahren nicht eingeleitet oder
 wird es eingestellt, so kann der Verfall selbständig angeordnet
 werden.
-
 
 #### § 30 Geldbuße gegen juristische Personen und Personenvereinigungen
 
@@ -658,10 +610,7 @@ Personenvereinigung schließt es aus, gegen sie wegen derselben Tat den
 Verfall nach den §§ 73 oder 73a des Strafgesetzbuches oder nach § 29a
 anzuordnen.
 
-
 ### Siebenter Abschnitt - Verjährung
-
-
 
 #### § 31 Verfolgungsverjährung
 
@@ -695,7 +644,6 @@ nichts anderes bestimmt,
 zum Tatbestand gehörender Erfolg erst später ein, so beginnt die
 Verjährung mit diesem Zeitpunkt.
 
-
 #### § 32 Ruhen der Verfolgungsverjährung
 
 (1) Die Verjährung ruht, solange nach dem Gesetz die Verfolgung nicht
@@ -707,7 +655,6 @@ Ermächtigung fehlen.
 Rechtszuges oder ein Beschluß nach § 72 ergangen, so läuft die
 Verjährungsfrist nicht vor dem Zeitpunkt ab, in dem das Verfahren
 rechtskräftig abgeschlossen ist.
-
 
 #### § 33 Unterbrechung der Verfolgungsverjährung
 
@@ -805,7 +752,6 @@ Handlung bezieht. Die Unterbrechung tritt in den Fällen des Absatzes 1
 Satz 1 Nr. 1 bis 7, 11 und 13 bis 15 auch dann ein, wenn die Handlung
 auf die Verfolgung der Tat als Straftat gerichtet ist.
 
-
 #### § 34 Vollstreckungsverjährung
 
 (1) Eine rechtskräftig festgesetzte Geldbuße darf nach Ablauf der
@@ -842,14 +788,9 @@ einer Geldzahlung verpflichten. Ist eine solche Nebenfolge neben einer
 Geldbuße angeordnet, so verjährt die Vollstreckung der einen
 Rechtsfolge nicht früher als die der anderen.
 
-
 ## Zweiter Teil - Bußgeldverfahren
 
-
-
 ### Erster Abschnitt - Zuständigkeit zur Verfolgung und Ahndung von Ordnungswidrigkeiten
-
-
 
 #### § 35 Verfolgung und Ahndung durch die Verwaltungsbehörde
 
@@ -861,7 +802,6 @@ Verfolgungshandlungen der Richter berufen ist.
 (2) Die Verwaltungsbehörde ist auch für die Ahndung von
 Ordnungswidrigkeiten zuständig, soweit nicht hierzu nach diesem Gesetz
 das Gericht berufen ist.
-
 
 #### § 36 Sachliche Zuständigkeit der Verwaltungsbehörde
 
@@ -894,7 +834,6 @@ kann seine Zuständigkeit durch Rechtsverordnung, die nicht der
 Zustimmung des Bundesrates bedarf, auf eine andere Behörde oder
 sonstige Stelle übertragen.
 
-
 #### § 37 Örtliche Zuständigkeit der Verwaltungsbehörde
 
 (1) Örtlich zuständig ist die Verwaltungsbehörde, in deren Bezirk
@@ -925,7 +864,6 @@ der Tat zuerst erreicht. Satz 1 gilt entsprechend für Luftfahrzeuge,
 die berechtigt sind, das Staatszugehörigkeitszeichen der
 Bundesrepublik Deutschland zu führen.
 
-
 #### § 38 Zusammenhängende Ordnungswidrigkeiten
 
 Bei zusammenhängenden Ordnungswidrigkeiten, die einzeln nach § 37 zur
@@ -934,7 +872,6 @@ jede dieser Verwaltungsbehörden zuständig. Zwischen mehreren
 Ordnungswidrigkeiten besteht ein Zusammenhang, wenn jemand mehrerer
 Ordnungswidrigkeiten beschuldigt wird oder wenn hinsichtlich derselben
 Tat mehrere Personen einer Ordnungswidrigkeit beschuldigt werden.
-
 
 #### § 39 Mehrfache Zuständigkeit
 
@@ -975,13 +912,11 @@ entscheidet auf Antrag einer der beteiligten Verwaltungsbehörden
 (4) In den Fällen der Absätze 2 und 3 kann die Übertragung in gleicher
 Weise wieder aufgehoben werden.
 
-
 #### § 40 Verfolgung durch die Staatsanwaltschaft
 
 Im Strafverfahren ist die Staatsanwaltschaft für die Verfolgung der
 Tat auch unter dem rechtlichen Gesichtspunkt einer Ordnungswidrigkeit
 zuständig, soweit ein Gesetz nichts anderes bestimmt.
-
 
 #### § 41 Abgabe an die Staatsanwaltschaft
 
@@ -991,7 +926,6 @@ ist.
 
 (2) Sieht die Staatsanwaltschaft davon ab, ein Strafverfahren
 einzuleiten, so gibt sie die Sache an die Verwaltungsbehörde zurück.
-
 
 #### § 42 Übernahme durch die Staatsanwaltschaft
 
@@ -1009,7 +943,6 @@ dies zur Beschleunigung des Verfahrens oder wegen des
 Sachzusammenhangs oder aus anderen Gründen für die Ermittlungen oder
 die Entscheidung sachdienlich erscheint.
 
-
 #### § 43 Abgabe an die Verwaltungsbehörde
 
 (1) Stellt die Staatsanwaltschaft in den Fällen des § 40 das Verfahren
@@ -1023,12 +956,10 @@ die Sache an die Verwaltungsbehörde abgeben, solange das Verfahren
 noch nicht bei Gericht anhängig ist; sie hat die Sache abzugeben, wenn
 sie das Verfahren nur wegen der zusammenhängenden Straftat einstellt.
 
-
 #### § 44 Bindung der Verwaltungsbehörde
 
 Die Verwaltungsbehörde ist an die Entschließung der Staatsanwaltschaft
 gebunden, ob eine Tat als Straftat verfolgt wird oder nicht.
-
 
 #### § 45 Zuständigkeit des Gerichts
 
@@ -1037,10 +968,7 @@ zusammenhängenden Straftat, so ist für die Ahndung der
 Ordnungswidrigkeit das Gericht zuständig, das für die Strafsache
 zuständig ist.
 
-
 ### Zweiter Abschnitt - Allgemeine Verfahrensvorschriften
-
-
 
 #### § 46 Anwendung der Vorschriften über das Strafverfahren
 
@@ -1092,7 +1020,6 @@ Gerichtsverfassungsgesetzes im Bußgeldverfahren sind in der
 Rechtsverordnung nach § 191a Abs. 2 des Gerichtsverfassungsgesetzes zu
 bestimmen.
 
-
 #### § 47 Verfolgung von Ordnungswidrigkeiten
 
 (1) Die Verfolgung von Ordnungswidrigkeiten liegt im pflichtgemäßen
@@ -1111,11 +1038,9 @@ nicht anfechtbar.
 Geldbetrages an eine gemeinnützige Einrichtung oder sonstige Stelle
 abhängig gemacht oder damit in Zusammenhang gebracht werden.
 
-
 #### § 48
 
 (weggefallen)
-
 
 #### § 49 Akteneinsicht des Betroffenen und der Verwaltungsbehörde
 
@@ -1129,7 +1054,6 @@ vorliegen oder im gerichtlichen Verfahren vorzulegen wären, einzusehen
 sowie sichergestellte und beschlagnahmte Gegenstände zu besichtigen.
 Die Akten werden der Verwaltungsbehörde auf Antrag zur Einsichtnahme
 übersandt.
-
 
 #### § 49a Verfahrensübergreifende Mitteilungen von Amts wegen
 
@@ -1208,7 +1132,6 @@ sinngemäß anzuwenden, wobei die Mitteilung des Aktenzeichens auch an
 eine andere Verwaltungsbehörde, die das Bußgeldverfahren veranlasst
 oder sonst an dem Verfahren mitgewirkt hat, erfolgt.
 
-
 #### § 49b Verfahrensübergreifende Mitteilungen auf Ersuchen; sonstige Verwendung von Daten für verfahrensübergreifende Zwecke
 
 Für die Erteilung von Auskünften und Gewährung von Akteneinsicht auf
@@ -1239,10 +1162,6 @@ für verfahrensübergreifende Zwecke gelten die §§ 474 bis 478, 480 und
     ist, dass für die Übermittlung durch Verwaltungsbehörden über den
     Antrag auf gerichtliche Entscheidung das in § 68 bezeichnete Gericht
     im Verfahren nach § 62 Abs. 1 Satz 1, Abs. 2 entscheidet.
-
-
-
-
 
 #### § 49c Dateiregelungen
 
@@ -1288,7 +1207,6 @@ Geldbuße von mehr als 250 Euro fünf Jahre, in allen übrigen Fällen des
 § 489 Abs. 4 Satz 2 Nr. 1 bis 3 der Strafprozessordnung zwei Jahre
 nicht übersteigen.
 
-
 #### § 49d Mitteilungen bei Archivierung mittels Bild- und anderen Datenträgern
 
 Sind die Akten nach Abschluss des Verfahrens nach ordnungsgemäßen
@@ -1300,7 +1218,6 @@ eines Ausdrucks von dem Bild- oder anderen Datenträger erteilt werden;
 Gleiches gilt für die Erteilung von Auskünften oder anderen
 Mitteilungen aus den Akten. Auf der Urschrift anzubringende Vermerke
 werden in diesem Fall bei dem Nachweis angebracht.
-
 
 #### § 50 Bekanntmachung von Maßnahmen der Verwaltungsbehörde
 
@@ -1314,7 +1231,6 @@ Zustellung bekanntgemacht.
 der durch einen befristeten Rechtsbehelf angefochten werden kann, ist
 die Person, an die sich die Maßnahme richtet, über die Möglichkeit der
 Anfechtung und die dafür vorgeschriebene Frist und Form zu belehren.
-
 
 #### § 51 Verfahren bei Zustellungen der Verwaltungsbehörde
 
@@ -1352,7 +1268,6 @@ Hat der Betroffene einen Verteidiger, so sind auch § 7 Abs. 1 Satz 1
 und 2 und Abs. 2 des Verwaltungszustellungsgesetzes und die
 entsprechenden landesrechtlichen Vorschriften nicht anzuwenden.
 
-
 #### § 52 Wiedereinsetzung in den vorigen Stand
 
 (1) Für den befristeten Rechtsbehelf gegen den Bescheid der
@@ -1371,14 +1286,9 @@ Stand, so ist gegen den Bescheid innerhalb von zwei Wochen nach
 Zustellung der Antrag auf gerichtliche Entscheidung nach § 62
 zulässig.
 
-
 ### Dritter Abschnitt - Vorverfahren
 
-
-
 #### I. - Allgemeine Vorschriften
-
-
 
 ##### § 53 Aufgaben der Polizei
 
@@ -1397,11 +1307,9 @@ Gerichtsverfassungsgesetzes), können nach den für sie geltenden
 Vorschriften der Strafprozeßordnung Beschlagnahmen, Durchsuchungen,
 Untersuchungen und sonstige Maßnahmen anordnen.
 
-
 ##### § 54
 
 (weggefallen)
-
 
 ##### § 55 Anhörung des Betroffenen
 
@@ -1414,10 +1322,7 @@ auch schon vor seiner Vernehmung einen von ihm zu wählenden
 Verteidiger befragen kann. § 136 Abs. 1 Satz 3 der Strafprozeßordnung
 ist nicht anzuwenden.
 
-
 #### II. - Verwarnungsverfahren
-
-
 
 ##### § 56 Verwarnung durch die Verwaltungsbehörde
 
@@ -1445,7 +1350,6 @@ Auslagen) werden nicht erhoben.
 nicht mehr unter den tatsächlichen und rechtlichen Gesichtspunkten
 verfolgt werden, unter denen die Verwarnung erteilt worden ist.
 
-
 ##### § 57 Verwarnung durch Beamte des Außen- und Polizeidienstes
 
 (1) Personen, die ermächtigt sind, die Befugnis nach § 56 für die
@@ -1456,7 +1360,6 @@ entsprechend auszuweisen.
 des Polizeidienstes zu, die eine Ordnungswidrigkeit entdecken oder im
 ersten Zugriff verfolgen und sich durch ihre Dienstkleidung oder in
 anderer Weise ausweisen.
-
 
 ##### § 58 Ermächtigung zur Erteilung der Verwarnung
 
@@ -1478,10 +1381,7 @@ einer Verwarnung nähere Bestimmungen darüber enthalten, in welchen
 Fällen und unter welchen Voraussetzungen die Verwarnung erteilt und in
 welcher Höhe das Verwarnungsgeld erhoben werden soll.
 
-
 #### III. - Verfahren der Verwaltungsbehörde
-
-
 
 ##### § 59 Vergütung von Sachverständigen, Dolmetschern und Übersetzern, Entschädigung von Zeugen und Dritten
 
@@ -1489,7 +1389,6 @@ Für die Vergütung von Sachverständigen, Dolmetschern und Übersetzern
 sowie die Entschädigung von Zeugen und Dritten (§ 23 des
 Justizvergütungs- und -entschädigungsgesetzes) ist das
 Justizvergütungs- und -entschädigungsgesetz anzuwenden.
-
 
 ##### § 60 Verteidigung
 
@@ -1501,13 +1400,11 @@ anderer Personen als Verteidiger und die Zurückweisung eines
 Verteidigers (§ 138 Abs. 2, § 146a Abs. 1 Satz 1, 2 der
 Strafprozeßordnung).
 
-
 ##### § 61 Abschluß der Ermittlungen
 
 Sobald die Verwaltungsbehörde die Ermittlungen abgeschlossen hat,
 vermerkt sie dies in den Akten, wenn sie die weitere Verfolgung der
 Ordnungswidrigkeit erwägt.
-
 
 ##### § 62 Rechtsbehelf gegen Maßnahmen der Verwaltungsbehörde
 
@@ -1526,10 +1423,7 @@ Kosten des Beschwerdeverfahrens gelten sinngemäß. Die Entscheidung des
 Gerichts ist nicht anfechtbar, soweit das Gesetz nichts anderes
 bestimmt.
 
-
 #### IV. - Verfahren der Staatsanwaltschaft
-
-
 
 ##### § 63 Beteiligung der Verwaltungsbehörde
 
@@ -1553,7 +1447,6 @@ die sonst zuständige Verwaltungsbehörde zu hören. Sie kann davon
 absehen, wenn für die Entschließung die besondere Sachkunde der
 Verwaltungsbehörde entbehrt werden kann.
 
-
 ##### § 64 Erstreckung der öffentlichen Klage auf die Ordnungswidrigkeit
 
 Erhebt die Staatsanwaltschaft in den Fällen des § 42 wegen der
@@ -1561,16 +1454,12 @@ Straftat die öffentliche Klage, so erstreckt sie diese auf die
 Ordnungswidrigkeit, sofern die Ermittlungen hierfür genügenden Anlaß
 bieten.
 
-
 ### Vierter Abschnitt - Bußgeldbescheid
-
-
 
 #### § 65 Allgemeines
 
 Die Ordnungswidrigkeit wird, soweit dieses Gesetz nichts anderes
 bestimmt, durch Bußgeldbescheid geahndet.
-
 
 #### § 66 Inhalt des Bußgeldbescheides
 
@@ -1635,14 +1524,9 @@ bestimmt, durch Bußgeldbescheid geahndet.
 (3) Über die Angaben nach Absatz 1 Nr. 3 und 4 hinaus braucht der
 Bußgeldbescheid nicht begründet zu werden.
 
-
 ### Fünfter Abschnitt - Einspruch und gerichtliches Verfahren
 
-
-
 #### I. - Einspruch
-
-
 
 ##### § 67 Form und Frist
 
@@ -1654,7 +1538,6 @@ Rechtsmittel gelten entsprechend.
 
 (2) Der Einspruch kann auf bestimmte Beschwerdepunkte beschränkt
 werden.
-
 
 ##### § 68 Zuständiges Gericht
 
@@ -1687,7 +1570,6 @@ entsprechend. Der Bezirk, von dem die Zuständigkeit des Amtsgerichts
 nach Satz 1 abhängt, kann die Bezirke mehrerer Amtsgerichte umfassen.
 Die Landesregierung kann die Ermächtigung auf die
 Landesjustizverwaltung übertragen.
-
 
 ##### § 69 Zwischenverfahren
 
@@ -1740,7 +1622,6 @@ einer Ordnungswidrigkeit, so kann er die Sache durch Beschluß
 endgültig an die Verwaltungsbehörde zurückgeben. Der Beschluß ist
 unanfechtbar.
 
-
 ##### § 70 Entscheidung des Gerichts über die Zulässigkeit des Einspruchs
 
 (1) Sind die Vorschriften über die Einlegung des Einspruchs nicht
@@ -1748,10 +1629,7 @@ beachtet, so verwirft das Gericht den Einspruch als unzulässig.
 
 (2) Gegen den Beschluß ist die sofortige Beschwerde zulässig.
 
-
 #### II. - Hauptverfahren
-
-
 
 ##### § 71 Hauptverhandlung
 
@@ -1776,7 +1654,6 @@ Betroffenen Gelegenheit geben, sich innerhalb einer zu bestimmenden
 Frist dazu zu äußern, ob und welche Tatsachen und Beweismittel er zu
 seiner Entlastung vorbringen will; § 69 Abs. 2 Satz 3 Halbsatz 2 ist
 anzuwenden.
-
 
 ##### § 72 Entscheidung durch Beschluß
 
@@ -1830,7 +1707,6 @@ zusätzliche Ausführungen machen. Die vollständigen Gründe sind
 innerhalb von fünf Wochen zu den Akten zu bringen, wenn gegen den
 Beschluß Rechtsbeschwerde eingelegt wird.
 
-
 ##### § 73 Anwesenheit des Betroffenen in der Hauptverhandlung
 
 (1) Der Betroffene ist zum Erscheinen in der Hauptverhandlung
@@ -1845,7 +1721,6 @@ Sachverhalts nicht erforderlich ist.
 (3) Hat das Gericht den Betroffenen von der Verpflichtung zum
 persönlichen Erscheinen entbunden, so kann er sich durch einen
 schriftlich bevollmächtigten Verteidiger vertreten lassen.
-
 
 ##### § 74 Verfahren bei Abwesenheit
 
@@ -1873,7 +1748,6 @@ den gleichen Voraussetzungen wie gegen die Versäumung einer Frist
 nachsuchen. Hierüber ist er bei der Zustellung des Urteils zu
 belehren.
 
-
 ##### § 75 Teilnahme der Staatsanwaltschaft an der Hauptverhandlung
 
 (1) Die Staatsanwaltschaft ist zur Teilnahme an der Hauptverhandlung
@@ -1884,7 +1758,6 @@ Mitteilung, wenn es ihre Mitwirkung für angemessen hält.
 so bedarf es ihrer Zustimmung zur Einstellung des Verfahrens (§ 47
 Abs. 2) und zur Rücknahme des Einspruchs in der Hauptverhandlung
 nicht.
-
 
 ##### § 76 Beteiligung der Verwaltungsbehörde
 
@@ -1904,7 +1777,6 @@ entbehrt werden kann.
 
 (4) Das Urteil und andere das Verfahren abschließende Entscheidungen
 sind der Verwaltungsbehörde mitzuteilen.
-
 
 ##### § 77 Umfang der Beweisaufnahme
 
@@ -1933,7 +1805,6 @@ wenn
 Strafprozeßordnung) in der Regel darauf beschränkt werden, daß die
 Beweiserhebung zur Erforschung der Wahrheit nicht erforderlich ist.
 
-
 ##### § 77a Vereinfachte Art der Beweisaufnahme
 
 (1) Die Vernehmung eines Zeugen, Sachverständigen oder Mitbetroffenen
@@ -1956,7 +1827,6 @@ Betroffenen, des Verteidigers und der Staatsanwaltschaft, soweit sie
 in der Hauptverhandlung anwesend sind. § 251 Abs. 1 Nr. 2 und 3, Abs.
 2 Nr. 1 und 2, Abs. 3 und 4 sowie die §§ 252 und 253 der
 Strafprozeßordnung bleiben unberührt.
-
 
 ##### § 77b Absehen von Urteilsgründen
 
@@ -1981,7 +1851,6 @@ Wiedereinsetzung in den vorigen Stand gewährt, in den Fällen des
 Absatzes 1 Satz 2 erster Halbsatz von der Staatsanwaltschaft oder in
 den Fällen des Absatzes 1 Satz 3 von dem Betroffenen Rechtsbeschwerde
 eingelegt wird.
-
 
 ##### § 78 Weitere Verfahrensvereinfachungen
 
@@ -2008,10 +1877,7 @@ Vollstreckungsanordnung nach § 98 Abs. 1 treffen.
 
 (5) (weggefallen)
 
-
 #### III. - Rechtsmittel
-
-
 
 ##### § 79 Rechtsbeschwerde
 
@@ -2076,7 +1942,6 @@ selbst entscheiden oder sie an das Amtsgericht, dessen Entscheidung
 aufgehoben wird, oder an ein anderes Amtsgericht desselben Landes
 zurückverweisen.
 
-
 ##### § 80 Zulassung der Rechtsbeschwerde
 
 (1) Das Beschwerdegericht läßt die Rechtsbeschwerde nach § 79 Abs. 1
@@ -2131,7 +1996,6 @@ daß ein Verfahrenshindernis besteht, so stellt das Beschwerdegericht
 das Verfahren nur dann ein, wenn das Verfahrenshindernis nach Erlaß
 des Urteils eingetreten ist.
 
-
 ##### § 80a Besetzung der Bußgeldsenate der Oberlandesgerichte
 
 (1) Die Bußgeldsenate der Oberlandesgerichte sind mit einem Richter
@@ -2153,10 +2017,7 @@ des Rechts oder zur Sicherung einer einheitlichen Rechtsprechung
 nachzuprüfen. Dies gilt auch in Verfahren über eine zugelassene
 Rechtsbeschwerde, nicht aber in Verfahren über deren Zulassung.
 
-
 ### Sechster Abschnitt - Bußgeld- und Strafverfahren
-
-
 
 #### § 81 Übergang vom Bußgeld- zum Strafverfahren
 
@@ -2180,7 +2041,6 @@ auch dann verwertet werden, wenn sie nach diesen Vorschriften
 durchgeführt worden ist; dies gilt aber nicht für eine Beweisaufnahme
 nach den §§ 77a und 78 Abs. 1.
 
-
 #### § 82 Bußgelderkenntnis im Strafverfahren
 
 (1) Im Strafverfahren beurteilt das Gericht die in der Anklage
@@ -2191,7 +2051,6 @@ Ordnungswidrigkeit.
 rechtlichen Gesichtspunkt einer Ordnungswidrigkeit zu, so sind in dem
 weiteren Verfahren die besonderen Vorschriften dieses Gesetzes
 anzuwenden.
-
 
 #### § 83 Verfahren bei Ordnungswidrigkeiten und Straftaten
 
@@ -2217,10 +2076,7 @@ Berufungsurteil ist die Rechtsbeschwerde nach § 79 Abs. 1 und 2 sowie
 Ordnungswidrigkeiten betrifft, so kann es in der Sache selbst
 entscheiden.
 
-
 ### Siebenter Abschnitt - Rechtskraft und Wiederaufnahme des Verfahrens
-
-
 
 #### § 84 Wirkung der Rechtskraft
 
@@ -2233,7 +2089,6 @@ Ordnungswidrigkeit verfolgt werden.
 steht auch ihrer Verfolgung als Straftat entgegen. Dem rechtskräftigen
 Urteil stehen der Beschluß nach § 72 und der Beschluß des
 Beschwerdegerichts über die Tat als Ordnungswidrigkeit gleich.
-
 
 #### § 85 Wiederaufnahme des Verfahrens
 
@@ -2273,7 +2128,6 @@ Verwaltungsbehörde Umstände bekannt, die eine Wiederaufnahme des
 Verfahrens zulassen, so übersendet sie die Akten der
 Staatsanwaltschaft. § 69 Abs. 4 Satz 1 gilt entsprechend.
 
-
 #### § 86 Aufhebung des Bußgeldbescheides im Strafverfahren
 
 (1) Ist gegen den Betroffenen ein Bußgeldbescheid ergangen und wird er
@@ -2292,10 +2146,7 @@ Strafverfahrens angerechnet.
 (3) Die Entscheidungen nach den Absätzen 1 und 2 werden in dem Urteil
 oder in der sonstigen abschließenden Entscheidung getroffen.
 
-
 ### Achter Abschnitt - Verfahren bei Anordnung von Nebenfolgen oder der Festsetzung einer Geldbuße gegen eine juristische Person oder Personenvereinigung Nebenfolgen
-
-
 
 #### § 87 Anordnung von Einziehung und Verfall
 
@@ -2337,7 +2188,6 @@ ist nicht anfechtbar.
 und Absatz 5 gelten im Verfahren bei Anordnung des Verfalls
 entsprechend.
 
-
 #### § 88 Festsetzung der Geldbuße gegen juristische Personen und Personenvereinigungen
 
 (1) Hat die Verwaltungsbehörde im Bußgeldverfahren über die
@@ -2357,16 +2207,12 @@ Personenvereinigung ihren Sitz oder eine Zweigniederlassung hat.
 
 (3) § 87 Abs. 2 Satz 1 und 2 sowie Abs. 5 gilt entsprechend.
 
-
 ### Neunter Abschnitt - Vollstreckung der Bußgeldentscheidungen
-
-
 
 #### § 89 Vollstreckbarkeit der Bußgeldentscheidungen
 
 Bußgeldentscheidungen sind vollstreckbar, wenn sie rechtskräftig
 geworden sind.
-
 
 #### § 90 Vollstreckung des Bußgeldbescheides
 
@@ -2394,7 +2240,6 @@ und 913 der Zivilprozeßordnung gelten entsprechend.
 (4) Absatz 1 gilt für die Vollstreckung eines von der
 Verwaltungsbehörde festgesetzten Ordnungsgeldes entsprechend.
 
-
 #### § 91 Vollstreckung der gerichtlichen Bußgeldentscheidung
 
 Für die Vollstreckung der gerichtlichen Bußgeldentscheidung gelten §
@@ -2403,14 +2248,12 @@ Verbindung mit § 459 der Strafprozeßordnung, im Verfahren gegen
 Jugendliche und Heranwachsende auch § 82 Abs. 1, § 83 Abs. 2 sowie die
 §§ 84 und 85 Abs. 5 des Jugendgerichtsgesetzes sinngemäß.
 
-
 #### § 92 Vollstreckungsbehörde
 
 Vollstreckungsbehörde im Sinne der nachfolgenden Vorschriften dieses
 Abschnitts ist in den Fällen des § 90 die Verwaltungsbehörde, die den
 Bußgeldbescheid erlassen hat, sonst die Stelle, der nach § 91 die
 Vollstreckung obliegt.
-
 
 #### § 93 Zahlungserleichterungen
 
@@ -2434,14 +2277,12 @@ bestimmten Teilbeträgen zu zahlen, so wird dies in den Akten vermerkt.
 Die Vollstreckungsbehörde kann dem Betroffenen erneut eine
 Zahlungserleichterung bewilligen.
 
-
 #### § 94 Verrechnung von Teilbeträgen
 
 Teilbeträge werden, wenn der Betroffene bei der Zahlung keine
 Bestimmung trifft, zunächst auf die Geldbuße, dann auf die etwa
 angeordneten Nebenfolgen, die zu einer Geldzahlung verpflichten, und
 zuletzt auf die Kosten des Verfahrens angerechnet.
-
 
 #### § 95 Beitreibung der Geldbuße
 
@@ -2454,7 +2295,6 @@ der Zahlung entziehen will.
 Verhältnissen die Zahlung in absehbarer Zeit nicht möglich ist, so
 kann die Vollstreckungsbehörde anordnen, daß die Vollstreckung
 unterbleibt.
-
 
 #### § 96 Anordnung von Erzwingungshaft
 
@@ -2493,7 +2333,6 @@ bemessen und kann nachträglich nicht verlängert, jedoch abgekürzt
 werden. Wegen desselben Betrages darf die Erzwingungshaft nicht
 wiederholt werden.
 
-
 #### § 97 Vollstreckung der Erzwingungshaft
 
 (1) Für die Vollstreckung der Erzwingungshaft gilt § 451 Abs. 1 und 2
@@ -2510,7 +2349,6 @@ daß ihm nach seinen wirtschaftlichen Verhältnissen nicht zuzumuten
 ist, den zu zahlenden Betrag der Geldbuße sofort zu entrichten, so
 wird dadurch die Vollziehung der Anordnung nicht gehemmt. Das Gericht
 kann jedoch die Vollziehung aussetzen.
-
 
 #### § 98 Vollstreckung gegen Jugendliche und Heranwachsende
 
@@ -2558,7 +2396,6 @@ oder zum Teil für erledigt erklären.
 (4) Die Absätze 1 bis 3 gelten auch für die Vollstreckung der gegen
 einen Heranwachsenden festgesetzten Geldbuße.
 
-
 #### § 99 Vollstreckung von Nebenfolgen, die zu einer Geldzahlung verpflichten
 
 (1) Für die Vollstreckung von Nebenfolgen, die zu einer Geldzahlung
@@ -2577,7 +2414,6 @@ worden und wird die Zahlung auf Grund der rechtskräftigen Entscheidung
 an den Verletzten nachgewiesen, so ordnet die Vollstreckungsbehörde
 insoweit die Rückerstattung an den Betroffenen oder den
 Verfallsbeteiligten an.
-
 
 #### § 100 Nachträgliche Entscheidungen über die Einziehung
 
@@ -2600,12 +2436,10 @@ zulässig. Gegen die Entscheidung des Gerichts ist sofortige Beschwerde
 zulässig, wenn der Wert des Beschwerdegegenstandes zweihundertfünfzig
 Euro übersteigt.
 
-
 #### § 101 Vollstreckung in den Nachlaß
 
 In den Nachlaß des Betroffenen darf eine Geldbuße nicht vollstreckt
 werden.
-
 
 #### § 102 Nachträgliches Strafverfahren
 
@@ -2616,7 +2450,6 @@ aussetzen.
 
 (2) Sind die Entscheidungen nach § 86 Abs. 1 und 2 im Strafverfahren
 unterblieben, so sind sie von dem Gericht nachträglich zu treffen.
-
 
 #### § 103 Gerichtliche Entscheidung
 
@@ -2638,7 +2471,6 @@ entscheidet das Gericht.
 
 (2) Durch Einwendungen nach Absatz 1 wird die Vollstreckung nicht
 gehemmt. Das Gericht kann jedoch die Vollstreckung aussetzen.
-
 
 #### § 104 Verfahren bei gerichtlicher Entscheidung
 
@@ -2685,14 +2517,9 @@ dies gilt in den Fällen der Nummern 2 und 3 jedoch nur dann, wenn der
 Wert des Beschwerdegegenstandes zweihundertfünfzig Euro übersteigt. In
 den übrigen Fällen ist die Entscheidung nicht anfechtbar.
 
-
 ### Zehnter Abschnitt - Kosten
 
-
-
 #### I. - Verfahren der Verwaltungsbehörde
-
-
 
 ##### § 105 Kostenentscheidung
 
@@ -2709,7 +2536,6 @@ Strafprozeßordnung die Staatskasse zu tragen hat, werden, soweit das
 Gesetz nichts anderes bestimmt, der Bundeskasse auferlegt, wenn eine
 Verwaltungsbehörde des Bundes das Verfahren durchführt, sonst der
 Landeskasse.
-
 
 ##### § 106 Kostenfestsetzung
 
@@ -2734,7 +2560,6 @@ Zwangsvollstreckung ist erst zulässig, wenn der
 Kostenfestsetzungsbescheid unanfechtbar geworden ist. Die
 vollstreckbare Ausfertigung wird vom Urkundsbeamten der
 Geschäftsstelle des nach § 68 zuständigen Gerichts erteilt.
-
 
 ##### § 107 Gebühren und Auslagen
 
@@ -2880,7 +2705,6 @@ pauschal 12 Euro als Auslagen erhoben. Wird die Akte elektronisch
 geführt und erfolgt ihre Übermittlung elektronisch, beträgt die
 Pauschale 5 Euro.
 
-
 ##### § 108 Rechtsbehelf und Vollstreckung
 
 (1) Im Verfahren der Verwaltungsbehörde ist gegen den
@@ -2904,10 +2728,7 @@ wenn der Wert des Beschwerdegegenstandes zweihundert Euro übersteigt.
 (2) Für die Vollstreckung der Kosten des Bußgeldverfahrens gelten die
 §§ 89 und 90 Abs. 1 entsprechend.
 
-
 #### II. - Verfahren der Staatsanwaltschaft
-
-
 
 ##### § 108a
 
@@ -2926,10 +2747,7 @@ Staatsanwaltschaft. Über die Erinnerung gegen den Festsetzungsbeschluß
 des Urkundsbeamten der Geschäftsstelle entscheidet das nach § 68
 zuständige Gericht.
 
-
 #### III. - Verfahren über die Zulässigkeit des Einspruchs
-
-
 
 ##### § 109
 
@@ -2951,10 +2769,7 @@ Abs. 1 und 2 der Strafprozeßordnung.
 verworfen (§§ 70, 74 Abs. 2), so trägt er auch die Kosten des
 gerichtlichen Verfahrens.
 
-
 #### IV. - Auslagen des Betroffenen
-
-
 
 ##### § 109a
 
@@ -2970,10 +2785,7 @@ geboten war.
 rechtzeitiges Vorbringen entlastender Umstände hätte vermeiden können,
 kann davon abgesehen werden, diese der Staatskasse aufzuerlegen.
 
-
 ### Elfter Abschnitt - Entschädigung für Verfolgungsmaßnahmen
-
-
 
 #### § 110
 
@@ -2997,10 +2809,7 @@ Strafverfolgungsmaßnahmen) in den Fällen des Absatzes 1, soweit das
 Gesetz nichts anderes bestimmt, der Bund, wenn eine Verwaltungsbehörde
 des Bundes das Verfahren durchführt, sonst das Land.
 
-
 ### Zwölfter Abschnitt - Elektronische Dokumente und elektronische Aktenführung
-
-
 
 #### § 110a Erstellung und Einreichung formgebundener und anderer elektronischer Dokumente bei Behörden und Gerichten
 
@@ -3035,7 +2844,6 @@ kann auf einzelne Behörden, Gerichte oder Verfahren beschränkt werden.
 und Verwaltungsbehörden einschließlich der Vollstreckungsbehörden
 sowie die Behörden des Polizeidienstes, soweit diese Aufgaben im
 Bußgeldverfahren wahrnehmen.
-
 
 #### § 110b Elektronische Aktenführung
 
@@ -3090,7 +2898,6 @@ den Voraussetzungen von Satz 1 vernichtet werden. In der
 Rechtsverordnung nach Absatz 1 kann abweichend von den Sätzen 1 und 3
 bestimmt werden, dass die Urschriften weiter aufzubewahren sind.
 
-
 #### § 110c Erstellung elektronischer Dokumente durch Behörden und Gerichte und Zustellung an die Staatsanwaltschaft
 
 (1) Behördliche oder gerichtliche Dokumente, die nach diesem Gesetz
@@ -3108,7 +2915,6 @@ gespeichert ist.
 (2) Die Zustellung an die Staatsanwaltschaft entsprechend § 41 der
 Strafprozessordnung kann auch durch Übermittlung der elektronisch
 geführten Akte erfolgen.
-
 
 #### § 110d Aktenausdruck, Akteneinsicht und Aktenübersendung
 
@@ -3142,7 +2948,6 @@ Aktenausdrucken. Werden Aktenausdrucke übermittelt, gelten für diese §
 110b Abs. 3 und für die Speicherung der elektronischen Dokumente §
 110b Abs. 2 Satz 3 entsprechend.
 
-
 #### § 110e Durchführung der Beweisaufnahme
 
 (1) Soweit ein elektronisches Dokument eine Urkunde oder ein anderes
@@ -3158,14 +2963,9 @@ Dokument aufbewahrte Urschrift hinzuzieht. Ist die Übersendung der
 Akte nach § 110d Abs. 3 Satz 1 durch Übermittlung von Aktenausdrucken
 erfolgt, gilt Satz 1 entsprechend.
 
-
 ## Dritter Teil - Einzelne Ordnungswidrigkeiten
 
-
-
 ### Erster Abschnitt - Verstöße gegen staatliche Anordnungen
-
-
 
 #### § 111 Falsche Namensangabe
 
@@ -3184,7 +2984,6 @@ ist.
 Vorschriften geahndet werden kann, in den Fällen des Absatzes 1 mit
 einer Geldbuße bis zu eintausend Euro, in den Fällen des Absatzes 2
 mit einer Geldbuße bis zu fünfhundert Euro geahndet werden.
-
 
 #### § 112 Verletzung der Hausordnung eines Gesetzgebungsorgans
 
@@ -3206,7 +3005,6 @@ Gesetzgebungsorgans eines Landes oder seines Präsidenten weder für die
 Mitglieder der Gesetzgebungsorgane dieses Landes noch für die
 Mitglieder der Landesregierung und deren Beauftragte.
 
-
 #### § 113 Unerlaubte Ansammlung
 
 (1) Ordnungswidrig handelt, wer sich einer öffentlichen Ansammlung
@@ -3221,7 +3019,6 @@ erkennt, daß die Aufforderung rechtmäßig ist.
 Geldbuße bis zu eintausend Euro, in den Fällen des Absatzes 2 mit
 einer Geldbuße bis zu fünfhundert Euro geahndet werden.
 
-
 #### § 114 Betreten militärischer Anlagen
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig entgegen
@@ -3231,7 +3028,6 @@ Sicherheitsgründen zur Erfüllung dienstlicher Aufgaben der Bundeswehr
 gesperrt ist.
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße geahndet werden.
-
 
 #### § 115 Verkehr mit Gefangenen
 
@@ -3253,10 +3049,7 @@ oder als vorläufig Festgenommener in behördlichem Gewahrsam befindet.
 (3) Die Ordnungswidrigkeit und der Versuch einer Ordnungswidrigkeit
 können mit einer Geldbuße geahndet werden.
 
-
 ### Zweiter Abschnitt - Verstöße gegen die öffentliche Ordnung
-
-
 
 #### § 116 Öffentliche Aufforderung zu Ordnungswidrigkeiten
 
@@ -3269,7 +3062,6 @@ Handlung auffordert.
 Das Höchstmaß der Geldbuße bestimmt sich nach dem Höchstmaß der
 Geldbuße für die Handlung, zu der aufgefordert wird.
 
-
 #### § 117 Unzulässiger Lärm
 
 (1) Ordnungswidrig handelt, wer ohne berechtigten Anlaß oder in einem
@@ -3281,7 +3073,6 @@ zu belästigen oder die Gesundheit eines anderen zu schädigen.
 Euro geahndet werden, wenn die Handlung nicht nach anderen
 Vorschriften geahndet werden kann.
 
-
 #### § 118 Belästigung der Allgemeinheit
 
 (1) Ordnungswidrig handelt, wer eine grob ungehörige Handlung
@@ -3291,7 +3082,6 @@ gefährden und die öffentliche Ordnung zu beeinträchtigen.
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße geahndet werden,
 wenn die Handlung nicht nach anderen Vorschriften geahndet werden
 kann.
-
 
 #### § 119 Grob anstößige und belästigende Handlungen
 
@@ -3324,7 +3114,6 @@ macht, an denen dies grob anstößig wirkt.
 einer Geldbuße bis zu eintausend Euro, in den übrigen Fällen mit einer
 Geldbuße bis zu zehntausend Euro geahndet werden.
 
-
 #### § 120 Verbotene Ausübung der Prostitution, Werbung für Prostitution
 
 (1) Ordnungswidrig handelt, wer
@@ -3346,7 +3135,6 @@ Geldbuße bis zu zehntausend Euro geahndet werden.
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße geahndet werden.
 
-
 #### § 121 Halten gefährlicher Tiere
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
@@ -3364,7 +3152,6 @@ Geldbuße bis zu zehntausend Euro geahndet werden.
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße geahndet werden.
 
-
 #### § 122 Vollrausch
 
 (1) Wer sich vorsätzlich oder fahrlässig durch alkoholische Getränke
@@ -3377,7 +3164,6 @@ hat oder weil dies nicht auszuschließen ist.
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße geahndet werden.
 Die Geldbuße darf nicht höher sein als die Geldbuße, die für die im
 Rausch begangene Handlung angedroht ist.
-
 
 #### § 123 Einziehung, Unbrauchbarmachung
 
@@ -3410,10 +3196,7 @@ Einziehung gilt § 27 Abs. 2, für die Unbrauchbarmachung gelten die §§
 das Werbematerial und die zu seiner Herstellung gebrauchten oder
 bestimmten Vorrichtungen.
 
-
 ### Dritter Abschnitt - Mißbrauch staatlicher oder staatlich geschützter Zeichen
-
-
 
 #### § 124 Benutzen von Wappen oder Dienstflaggen
 
@@ -3433,7 +3216,6 @@ benutzt.
 solche gleich, die ihnen zum Verwechseln ähnlich sind.
 
 (3) Die Ordnungswidrigkeit kann mit einer Geldbuße geahndet werden.
-
 
 #### § 125 Benutzen des Roten Kreuzes oder des Schweizer Wappens
 
@@ -3455,7 +3237,6 @@ gleichstehen.
 
 (5) Die Ordnungswidrigkeit kann mit einer Geldbuße geahndet werden.
 
-
 #### § 126 Mißbrauch von Berufstrachten oder Berufsabzeichen
 
 (1) Ordnungswidrig handelt, wer unbefugt
@@ -3476,7 +3257,6 @@ gleichstehen.
 gleich, die ihnen zum Verwechseln ähnlich sind.
 
 (3) Die Ordnungswidrigkeit kann mit einer Geldbuße geahndet werden.
-
 
 #### § 127 Herstellen oder Verwenden von Sachen, die zur Geld- oder Urkundenfälschung benutzt werden können
 
@@ -3531,7 +3311,6 @@ Vordrucke für Euroschecks eines fremden Währungsgebietes.
 Geldbuße bis zu zehntausend Euro, in den Fällen des Absatzes 2 mit
 einer Geldbuße bis zu fünftausend Euro geahndet werden.
 
-
 #### § 128 Herstellen oder Verbreiten von papiergeldähnlichen Drucksachen oder Abbildungen
 
 (1) Ordnungswidrig handelt, wer
@@ -3571,16 +3350,12 @@ Währungsgebietes.
 Geldbuße bis zu zehntausend Euro, in den Fällen des Absatzes 2 mit
 einer Geldbuße bis zu fünftausend Euro geahndet werden.
 
-
 #### § 129 Einziehung
 
 Gegenstände, auf die sich eine Ordnungswidrigkeit nach den §§ 124, 126
 bis 128 bezieht, können eingezogen werden.
 
-
 ### Vierter Abschnitt - Verletzung der Aufsichtspflicht in Betrieben und Unternehmen
-
-
 
 #### § 130
 
@@ -3607,10 +3382,7 @@ mit Strafe und Geldbuße bedroht ist, wenn das für die
 Pflichtverletzung angedrohte Höchstmaß der Geldbuße das Höchstmaß nach
 Satz 1 übersteigt.
 
-
 ### Fünfter Abschnitt - Gemeinsame Vorschriften
-
-
 
 #### § 131
 
@@ -3673,10 +3445,7 @@ Rausch begangenen Handlung oder der Pflichtverletzung anzuwenden sind
 oder im Falle des § 130 dann anzuwenden wären, wenn die mit Strafe
 bedrohte Pflichtverletzung nur mit Geldbuße bedroht wäre.
 
-
 ## Vierter Teil - Schlußvorschriften
-
-
 
 ### § 132 Einschränkung von Grundrechten
 
@@ -3684,7 +3453,6 @@ Die Grundrechte der körperlichen Unversehrtheit (Artikel 2 Abs. 2 Satz
 1 des Grundgesetzes), der Freiheit der Person (Artikel 2 Abs. 2 Satz 2
 des Grundgesetzes) und der Unverletzlichkeit der Wohnung (Artikel 13
 des Grundgesetzes) werden nach Maßgabe dieses Gesetzes eingeschränkt.
-
 
 ### § 133 Übergangsvorschriften
 
@@ -3707,11 +3475,9 @@ Bußgeldbescheid erlassen ist.
 (5) Für Dateien, die am 1. Oktober 2002 bestehen, ist § 49c erst ab
 dem 1. Oktober 2003 anzuwenden.
 
-
 ### § 134
 
 (weggefallen)
-
 
 ### § 135
 

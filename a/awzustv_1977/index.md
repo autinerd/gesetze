@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 G v. 27.7.2011 I 1595
 
-
 ## Eingangsformel
 
 Auf Grund des § 28 Abs. 3 des Außenwirtschaftsgesetzes in der im
@@ -26,7 +25,6 @@ Bundesgesetzblatt Teil III, Gliederungsnummer 7400-1, veröffentlichten
 bereinigten Fassung, der zuletzt durch § 24 des Gesetzes vom 23. Juni
 1976 (BGBl. I S. 1608, 2902) geändert worden ist, verordnet die
 Bundesregierung mit Zustimmung des Bundesrates:
-
 
 ## § 1
 
@@ -76,11 +74,9 @@ dienen.
 
 (3) (weggefallen)
 
-
 ## § 2
 
 (weggefallen)
-
 
 ## § 3
 

@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 2 Abs. 7 G v. 22.12.2011 I 3044
 
-
 ## Eingangsformel
 
 Auf Grund des § 34 des Personalausweisgesetzes vom 18. Juni 2009
@@ -26,9 +25,7 @@ Auf Grund des § 34 des Personalausweisgesetzes vom 18. Juni 2009
 Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821) verordnet
 das Bundesministerium des Innern im Benehmen mit dem Auswärtigen Amt:
 
-
 ## Kapitel 1 - Allgemeine Vorschriften
-
 
 ### § 1 Begriffsbestimmungen
 
@@ -75,7 +72,6 @@ OSCI-Transport ist in der vom Bundesamt für Sicherheit in der
 Informationstechnik festgelegten Fassung, die im Bundesanzeiger
 bekannt gemacht ist, zu verwenden.
 
-
 ### § 2 Technische Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik
 
 Nach dem Stand der Technik sind zu erfüllen
@@ -120,7 +116,6 @@ Technischen Richtlinien des Bundesamtes für Sicherheit in der
 Informationstechnik. Diese sind in Anhang 4 aufgeführt und gelten in
 der jeweils im Bundesanzeiger veröffentlichten Fassung.
 
-
 ### § 3 Zertifizierung
 
 (1) Die Systemkomponenten der Personalausweisbehörden, des
@@ -137,7 +132,6 @@ Juli 1992 (BGBl. I S. 1230) in der jeweils geltenden Fassung.
 (3) Die Kosten der Zertifizierung trägt der Antragsteller. Die BSI-
 Kostenverordnung vom 3. März 2005 (BGBl. I S. 519) in der jeweils
 geltenden Fassung findet Anwendung.
-
 
 ### § 4 Dokumentationspflichten
 
@@ -225,13 +219,6 @@ Datum und die Uhrzeit von Antrag und Übermittlung.
     d)  den tatsächlichen Abruf sowie das Datum und die Uhrzeit des
         tatsächlichen Abrufs.
 
-
-
-
-
-
-
-
 ### § 5 Speicherung und Löschung
 
 (1) Für die Speicherung personenbezogener Daten nach dieser Verordnung
@@ -274,9 +261,7 @@ Sperrsummen in dieser Liste sind zehn Jahre nach ihrer Eintragung zu
 löschen. § 26 Absatz 3 Satz 1 des Personalausweisgesetzes bleibt
 unberührt.
 
-
 ## Kapitel 2 - Übermittlung der Ausweisantragsdaten
-
 
 ### § 6 Erfassung der Anschrift
 
@@ -287,7 +272,6 @@ Gemeindeschlüssel zu erfassen. Zusätze zum Namen des Wohnortes sind
 einheitlich aufzunehmen, wenn dies für die Eindeutigkeit des Wohnortes
 oder des Straßennamens erforderlich ist. Darüber hinaus wird auch die
 Postleitzahl erfasst.
-
 
 ### § 7 Qualitätssicherung des Lichtbildes und der Fingerabdrücke
 
@@ -323,7 +307,6 @@ Personalausweisbehörde kann von diesen Vorgaben aus medizinischen
 Gründen, die nicht nur vorübergehender Art sind, Ausnahmen zulassen.
 Vom Verbot der Kopfbedeckung kann sie auch aus religiösen Gründen
 Ausnahmen zulassen.
-
 
 ### § 8 Übermittlung
 
@@ -401,7 +384,6 @@ Verwaltungsdiensteverzeichnis (DVDV) lösen. Die Lösung muss
 hinsichtlich Datensicherheit und Datenschutz ein den Anforderungen
 dieser Verordnung entsprechendes Niveau aufweisen.
 
-
 ### § 9 Qualitätsstatistik
 
 (1) Der Ausweishersteller erstellt eine Qualitätsstatistik. Sie
@@ -415,9 +397,7 @@ Verlangen die in der Statistik erfassten anonymisierten Einzeldaten
 dem Bundesministerium des Innern, dem Bundesamt für Sicherheit in der
 Informationstechnik und dem Bundeskriminalamt zur Verfügung.
 
-
 ## Kapitel 3 - Produktion
-
 
 ### § 10 Eingang der Antragsdaten
 
@@ -429,13 +409,11 @@ oder falsch signierte oder anderweitig fehlerhafte Antragsdaten
 weiterverarbeitet werden. Der Ausweishersteller prüft die Identität
 der übermittelnden Personalausweisbehörde.
 
-
 ### § 11 Muster für den Personalausweis
 
 Der Personalausweis ist nach dem in Anhang 1 abgedruckten Muster
 herzustellen. Für die einzutragenden Daten gelten die formalen
 Anforderungen des Anhangs 3 Abschnitt 1.
-
 
 ### § 12 Muster für den vorläufigen Personalausweis
 
@@ -443,14 +421,12 @@ Der vorläufige Personalausweis ist nach dem in Anhang 2 abgedruckten
 Muster herzustellen. Für die einzutragenden Daten gelten die formalen
 Anforderungen des Anhangs 3 Abschnitt 1.
 
-
 ### § 13 Schnittstelle des elektronischen Speicher- und Verarbeitungsmediums
 
 Das elektronische Speicher- und Verarbeitungsmedium des
 Personalausweises ist mit einer kontaktlosen Schnittstelle
 ausgestattet und benötigt für die Datenübertragung die
 Energieversorgung durch Lesegeräte.
-
 
 ### § 14 Speicherung von personenbezogenen Daten; Zugriffsschutz
 
@@ -485,10 +461,6 @@ Daten ausschließlich ausgelesen werden können durch
 2.  berechtigte Diensteanbieter, die ein Berechtigungszertifikat nutzen,
     nach Eingabe der Geheimnummer durch den Ausweisinhaber.
 
-
-
-
-
 ### § 15 Übermittlung und Übersendung des Sperrkennworts an die Personalausweisbehörde
 
 (1) Der Ausweishersteller übermittelt der Personalausweisbehörde im
@@ -501,7 +473,6 @@ Eingang des Sperrkennworts unverzüglich. Hat der Ausweishersteller
 drei Werktage, nachdem er das Sperrkennwort übermittelt hatte, keine
 Bestätigung erhalten, fragt er bei der Personalausweisbehörde nach.
 
-
 ### § 16 Übermittlung der Sperrsumme und des Sperrschlüssels an den Sperrlistenbetreiber
 
 Der Ausweishersteller übermittelt dem Sperrlistenbetreiber auf
@@ -513,7 +484,6 @@ unverzüglich den Eingang dieser Daten. Hat der Ausweishersteller zwei
 Werktage, nachdem er die Sperrsumme und den Sperrschlüssel übermittelt
 hat, keine Bestätigung erhalten, fragt er bei dem Sperrlistenbetreiber
 nach.
-
 
 ### § 17 Übersendung der Geheimnummer, der Entsperrnummer und des Sperrkennworts
 
@@ -558,9 +528,7 @@ für antragstellende Personen, die keine alleinige Wohnung in
 Deutschland haben, wenn diesen der Personalausweis nicht persönlich
 durch die Personalausweisbehörde übergeben wird.
 
-
 ## Kapitel 4 - Aushändigung
-
 
 ### § 18 Aushändigung des Personalausweises
 
@@ -585,9 +553,7 @@ Ausland auf dem Postweg an die antragstellende Person versenden,
 sofern die Abholung des Personalausweises für die antragstellende
 Person nur unter unzumutbaren Zuständen möglich wäre.
 
-
 ## Kapitel 5 - Änderung von Daten
-
 
 ### § 19 Änderung der Anschrift
 
@@ -600,7 +566,6 @@ Speicher- und Verarbeitungsmedium gespeicherte Anschrift.
 
 (3) Für die Änderung der Daten nach Absatz 2 sind zertifizierte Geräte
 mit hoheitlichem Berechtigungszertifikat zu verwenden.
-
 
 ### § 20 Neusetzung und Änderung der Geheimnummer
 
@@ -619,7 +584,6 @@ bisherigen Geheimnummer und zweimalige Eingabe der neuen Geheimnummer
 (3) Für die Änderung der Daten nach Absatz 1 Satz 1 sind zertifizierte
 Geräte mit hoheitlichem Berechtigungszertifikat zu verwenden.
 
-
 ### § 21 Mehrfache Fehleingabe der Geheimnummer
 
 (1) Wurde die Geheimnummer zwei Mal falsch eingegeben, kann durch
@@ -634,9 +598,7 @@ Nutzung nicht mehr möglich. Sofern die Geheimnummer nach dreimaliger
 Falscheingabe gesperrt wurde, kann die Neusetzung der Geheimnummer
 ausschließlich in der Personalausweisbehörde erfolgen.
 
-
 ## Kapitel 6 - Nutzung des elektronischen Identitätsnachweises
-
 
 ### § 22 Nachträgliches Aus- und Einschalten
 
@@ -665,7 +627,6 @@ aus dem Personalausweisregister mit.
 Identitätsnachweises nach den Absätzen 1 und 2 sind zertifizierte
 Geräte mit hoheitlichem Berechtigungszertifikat zu verwenden.
 
-
 ### § 23 Voraussetzungen für die Nutzung bei dem Ausweisinhaber
 
 (1) Vor erstmaliger Nutzung des elektronischen Identitätsnachweises
@@ -688,12 +649,7 @@ eingesetzt werden:
     durch das Bundesamt für Sicherheit in der Informationstechnik
     zertifiziert worden ist.
 
-
-
-
-
 ## Kapitel 7 - Sperrung und Entsperrung des elektronischen Identitätsnachweises
-
 
 ### § 24 Referenzliste; allgemeine Sperrliste
 
@@ -709,7 +665,6 @@ enthält allgemeine Sperrmerkmale gesperrter elektronischer
 Identitätsnachweise und wird Berechtigungszertifikateanbietern auf
 Anfrage zur Umrechnung in dienstespezifische Sperrlisten
 bereitgestellt.
-
 
 ### § 25 Sperrung des elektronischen Identitätsnachweises
 
@@ -742,7 +697,6 @@ der Ausweisinhaber den elektronischen Identitätsnachweis über den
 Sperrnotruf sperren, hat die Bestätigung gegenüber dem Sperrnotruf zu
 erfolgen.
 
-
 ### § 26 Entsperrung des elektronischen Identitätsnachweises
 
 (1) Der Ausweisinhaber kann die Entsperrung eines gesperrten
@@ -762,7 +716,6 @@ der ausstellenden Personalausweisbehörde vom Sperrlistenbetreiber zu
 bestätigen. Die ausstellende Personalausweisbehörde leitet die
 Bestätigung an den Ausweisinhaber weiter.
 
-
 ### § 27 Auskunft über Sperrung
 
 Der Sperrlistenbetreiber hat die technischen und organisatorischen
@@ -772,9 +725,7 @@ allgemeinen Sperrliste eingetragen ist. Die gleiche Auskunft ist der
 Personalausweisbehörde über elektronische Identitätsnachweise von
 Personalausweisen zu erteilen, die von ihr ausgestellt worden sind.
 
-
 ## Kapitel 8 - Beantragung von Berechtigungen
-
 
 ### § 28 Antrag
 
@@ -860,7 +811,6 @@ antragstellende Person ist zu identifizieren durch:
 Die Vergabestelle für Berechtigungszertifikate bestimmt, welche der
 genannten Arten des Identitätsnachweises genutzt werden können.
 
-
 ### § 29 Anforderungen an Datenschutz und -sicherheit
 
 (1) Anforderungen im Sinne des § 21 Absatz 2 Satz 1 Nummer 4 des
@@ -912,7 +862,6 @@ eine Stellungnahme der zuständigen Datenschutzaufsichtsbehörde
 einholen, ob dort Umstände bekannt sind, aus denen sich Anhaltspunkte
 für eine missbräuchliche Verwendung der Berechtigung ergeben.
 
-
 ### § 30 Öffentliche Liste der Berechtigungen
 
 Die Vergabestelle für Berechtigungszertifikate veröffentlicht eine
@@ -922,9 +871,7 @@ und die Gültigkeitsdauer der Berechtigung zu veröffentlichen. Die
 Daten dürfen ausschließlich für Zwecke des elektronischen
 Identitätsnachweises verwendet werden.
 
-
 ## Kapitel 9 - Ausgabe von Berechtigungszertifikaten
-
 
 ### § 31 Anzeige der Ausgabe von Berechtigungszertifikaten
 
@@ -942,10 +889,6 @@ Aufnahme dieser Tätigkeit
     1 vorgelegt und ihr gegenüber die in § 28 Absatz 1 Nummer 1 bis 3, 8
     und 9 sowie Absatz 2 aufgeführten Angaben gemacht haben.
 
-
-
-
-
 ### § 32 Beachtung der Anforderungen des Inhabers der Wurzelzertifikate
 
 Das Bundesamt für Sicherheit in der Informationstechnik ist Inhaber
@@ -956,7 +899,6 @@ organisatorischen Voraussetzungen für die Ausstellung von
 Berechtigungszertifikaten sind vom Berechtigungszertifikateanbieter
 einzuhalten. Die Richtlinien gelten in der jeweils im Bundesanzeiger
 veröffentlichten Fassung.
-
 
 ### § 33 Beachtung der Berechtigung durch den Berechtigungszertifikateanbieter
 
@@ -972,7 +914,6 @@ Berechtigungszertifikat widerrufen oder zurückgenommen, informiert die
 Vergabestelle für Berechtigungszertifikate den vom Diensteanbieter
 beauftragten Berechtigungszertifikateanbieter.
 
-
 ### § 34 Gültigkeitsdauer von Berechtigungszertifikaten
 
 Die Vergabestelle für Berechtigungszertifikate legt mit Erteilung der
@@ -981,7 +922,6 @@ Das Bundesamt für Sicherheit in der Informationstechnik legt
 angemessene Höchstgrenzen für die Gültigkeitsdauer von
 Berechtigungszertifikaten fest. Es hat sich dabei am Risiko des
 Einsatzumfeldes und an den beantragten Datenkategorien zu orientieren.
-
 
 ### § 35 Speicherung, Abruf und Verwendung von Daten durch Berechtigungszertifikateanbieter
 
@@ -1000,7 +940,6 @@ nur bis zum Abruf einer neueren Sperrliste speichern und verwenden.
 (3) Die Daten aus der allgemeinen Sperrliste dürfen nur dazu verwendet
 werden, dienstespezifische Sperrlisten mit Sperrmerkmalen zu
 erstellen.
-
 
 ### § 36 Ausgabe von hoheitlichen Berechtigungszertifikaten
 
@@ -1021,9 +960,7 @@ Informationstechnik festgelegt.
 liegende Berechtigung sowie das Datum und die Uhrzeit der Ausgabe von
 Berechtigungszertifikaten.
 
-
 ## Kapitel 10 - Schlussvorschriften
-
 
 ### § 37 Übergangsregelungen
 
@@ -1037,16 +974,13 @@ elektronischen Antragsprozesses der Ausweisbehörde vor dem 1. November
 2010 ausgestellt hat, behalten bis zum Ablauf der Gültigkeitsdauer
 ihre Geltung.
 
-
 ### § 38 Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 1. November 2010 in Kraft.
 
-
 ### Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ### Anhang 1 Muster des Personalausweises
 
@@ -1500,10 +1434,6 @@ Abschnitt 2
 18. BSI: Common Criteria Protection Profile for Inspection Systems (IS),
     BSI-CC-PP-0064 [Gemeinsame Kriterien – Schutzprofil für
     Inspektionssysteme]
-
-
-
-
 
 ### Anhang 5 Übersicht über die zu zertifizierenden Systemkomponenten
 

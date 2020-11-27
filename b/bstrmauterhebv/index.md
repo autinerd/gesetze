@@ -15,13 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BAnz: 2012, AT 04.07.2012 V1
 
-
 ## Eingangsformel
 
 Auf Grund des § 13 des Bundesfernstraßenmautgesetzes vom 12. Juli 2011
 (BGBl. I S. 1378) verordnet das Bundesministerium für Verkehr, Bau und
 Stadtentwicklung:
-
 
 ## § 1 Beginn der Mauterhebung auf den in § 1 Absatz 1 Satz 1 Nummer 2 des Bundesfernstraßenmautgesetzes bezeichneten Bundesstraßen
 
@@ -32,7 +30,6 @@ S. 3044) geändert worden ist, auf den in § 1 Absatz 1 Satz 1 Nummer 2
 des Bundesfernstraßenmautgesetzes bezeichneten Bundesstraßen für die
 Benutzung durch Kraftfahrzeuge im Sinne des § 1 Absatz 1 Satz 2 des
 Bundesfernstraßenmautgesetzes beginnt am 1. August 2012, 0.00 Uhr.
-
 
 ## § 2 Inkrafttreten
 

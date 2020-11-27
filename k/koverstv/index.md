@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 371 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Auf Grund des § 1 Abs. 1 Nr. 8 letzter Halbsatz des Ersten
@@ -29,13 +28,11 @@ geändert durch das Zweite Neuordnungsgesetz vom 21. Februar 1964
 (Bundesgesetzbl. I S. 85),              verordnet die Bundesregierung
 mit Zustimmung des Bundesrates:
 
-
 ## § 1
 
 Der Bund trägt die Aufwendungen für die Heil- und Krankenbehandlung
 Versorgungsberechtigter in den Versorgungskrankenanstalten der Länder
 im Wege der Erstattung nach Maßgabe der folgenden Bestimmungen.
-
 
 ## § 2
 
@@ -52,7 +49,6 @@ Vierte Überleitungsgesetz vom 27. April 1955 (Bundesgesetzbl. I S.
 übernommenen Versorgungskuranstalten, Versorgungsheilstätten für
 Tuberkulöse und Versorgungskrankenhäuser, solange sie als landeseigene
 Einrichtung der Kriegsopferversorgung betrieben werden.
-
 
 ## § 3
 
@@ -79,7 +75,6 @@ b)  alle Einnahmen, die nicht für die Gewährung stationärer Heil- und
 (3) Zu den Gesamtaufwendungen zählt auch ein Zuschlag von 30 vom
 Hundert zu den Dienstbezügen der Beamten der
 Versorgungskrankenanstalten zur Abgeltung der Versorgungsbelastung.
-
 
 ## § 4
 
@@ -136,7 +131,6 @@ Sind die tatsächlichen Herstellungskosten nicht mehr feststellbar,
 wird der Herstellungswert am Tage der Fertigstellung nach den
 Wertermittlungsrichtlinien ermittelt.
 
-
 ## § 5
 
 (1) Nicht erstattungsfähig sind die Aufwendungen der Länder für
@@ -184,7 +178,6 @@ zeitweilig erheblich vermindert werden, kann der Belegungsgrad im
 Einvernehmen mit dem Bundesministerium für Arbeit und Soziales an Hand
 der tatsächlich verfügbaren Betten ermittelt werden.
 
-
 ## § 6
 
 (1) Zur Ermittlung des auf die Heil- und Krankenbehandlung
@@ -211,7 +204,6 @@ eingewiesenen Versorgungsberechtigten geleistete oder zu leistende
 Zahlungen sind von den nach den Sätzen 1 und 2 errechneten Beträgen
 abzusetzen.
 
-
 ## § 7
 
 Für die Zeit vom 1. Januar 1966 an fordern die Länder die Erstattung
@@ -221,7 +213,6 @@ Anforderungen sind Abrechnungsbogen nach einem dieser Verordnung als
 Anlage beigefügten Muster mit den für die Prüfung notwendigen
 Unterlagen beizufügen.
 
-
 ## § 8
 
 Der Bund erstattet den Ländern die von ihm zu tragenden Aufwendungen
@@ -230,7 +221,6 @@ Bestehen zwischen dem Bund und einem Land über einen Teil der
 Anforderung unterschiedliche Auffassungen und kann innerhalb eines
 angemessenen Zeitraums keine Übereinstimmung erzielt werden, erstattet
 der Bund vorab insoweit, als er keine Beanstandung erhebt.
-
 
 ## § 9
 
@@ -242,7 +232,6 @@ eingewiesenen Versorgungsberechtigten geleistet worden sind,
 vervielfacht mit neun Zehnteln des zuletzt festgestellten Aufwands für
 einen Vergleichstag.
 
-
 ## § 10
 
 Für die Zeit vom 1. April 1955 bis zum 31. Dezember 1965 fordern die
@@ -253,7 +242,6 @@ nach Möglichkeit in drei gleichen Jahresraten jeweils innerhalb der
 drei Rechnungsjahre, die dem Jahr folgen, in dem die Forderungen nach
 Satz 1 geltend gemacht worden sind. § 8 Satz 2 ist entsprechend
 anzuwenden.
-
 
 ## § 11
 
@@ -275,22 +263,17 @@ prüfen.
 Höhe der vom Bund zu tragenden Aufwendungen zu berichtigen und der
 Unterschiedsbetrag bei Zahlungen nach den §§ 8 bis 10 zu verrechnen.
 
-
 ## § 12
 
 Der Bund kann mit den Ländern oder mit einzelnen von ihnen
 vereinbaren, daß die von ihm zu erstattenden Aufwendungen ganz oder
 teilweise pauschal abgegolten werden.
 
-
 ## § 13 (weggefallen)
-
-
 
 ## § 14
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
-
 
 ## Anlage (zu §§ 7 und 10)
 

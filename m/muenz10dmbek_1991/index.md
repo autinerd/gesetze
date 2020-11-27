@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1991, 1511
 
-
-
 ## (XXXX)
 
 Auf Grund des § 6 des Gesetzes über die Ausprägung von Scheidemünzen
@@ -67,7 +65,6 @@ Zwischen Ende und Anfang der Randschrift befindet sich ein zweifaches
 Eichenblatt nebst zwei Eicheln.
 Der Entwurf der Münze stammt von Hubert Klinkel, Zell am Main.
 Der Bundesminister der Finanzen
-
 
 ## (XXXX) Abbildung der Münze
 

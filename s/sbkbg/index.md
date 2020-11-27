@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 6 G v. 22.12.1997 I 3251
 
-
 ## § 1
 
 (1) Die Staatsbank Berlin (nachfolgend Bank genannt) ist Körperschaft
@@ -43,7 +42,6 @@ Deutschlands gilt für die Zuordnung des Grundkapitals Artikel 23 Abs.
 Demokratischen Republik. Die Bank tritt in die per 30.6.1990
 bestehenden Verträge der Staatsbank der Deutschen Demokratischen
 Republik gegenüber Dritten ein.
-
 
 ## § 1a
 
@@ -85,7 +83,6 @@ ungerechtfertigten Bereicherung verlangen.
 den Übergang der Forderung vor dem 1. Januar 1998 ein rechtskräftiges
 Urteil ergangen oder eine wirksame Vereinbarung mit dem Schuldner
 geschlossen worden ist.
-
 
 ## § 2
 
@@ -141,12 +138,10 @@ ausgeben und Darlehen aufnehmen. Die Bank kann sich an anderen Geld-
 und Kreditinstituten und wirtschaftlichen Unternehmen beteiligen. Sie
 ist zur Anlage von Mündelgeld geeignet.
 
-
 ## § 3
 
 Die Geschäfte der Bank sind nach kaufmännischen Grundsätzen zu führen.
 Die Erzielung von Gewinn ist nicht Hauptzweck des Geschäftsbetriebes.
-
 
 ## § 4
 
@@ -154,7 +149,6 @@ Die Erzielung von Gewinn ist nicht Hauptzweck des Geschäftsbetriebes.
 
 (2) Aufgaben und Befugnisse der Organe regelt, soweit das Gesetz
 nichts anderes bestimmt, die Satzung.
-
 
 ## § 5
 
@@ -169,7 +163,6 @@ Vorsitzenden und weiteren ordentlichen und stellvertretenden
 Mitgliedern. Die Vorstandsmitglieder werden vom Verwaltungsrat für
 höchstens 5 Jahre bestellt. Eine wiederholte Bestellung bzw.
 vorzeitige Abberufung ist zulässig.
-
 
 ## § 6
 
@@ -207,11 +200,9 @@ mindestens der Hälfte der Mitglieder erforderlich. Die Satzung kann
 eine Beschlußfassung im Wege der schriftlichen Abstimmung oder auf
 eine andere geeignete Art und Weise zulassen.
 
-
 ## § 7
 
 -
-
 
 ## § 8
 
@@ -223,7 +214,6 @@ Ministerrat.
 Mehrheit von zwei Dritteln der abgegebenen Stimmen, mindestens jedoch
 der Hälfte aller Mitglieder beschlossen werden. Sie bedürfen der
 Bestätigung durch den Ministerrat.
-
 
 ## § 9
 
@@ -239,7 +229,6 @@ lassen und bekanntzumachen.
 Jahresabschlusses innerhalb der ersten 6 Monate nach Abschluß eines
 Geschäftsjahres.
 
-
 ## § 10
 
 (1) Über die Bildung von Rückstellungen entscheidet der Verwaltungsrat
@@ -249,12 +238,10 @@ auf Vorschlag des Vorstandes.
 weitere Gewinnverwendung entscheidet der Minister der Finanzen auf
 Vorschlag des Verwaltungsrates.
 
-
 ## § 11
 
 Die Vorschriften über die Eintragung in das Handelsregister gelten
 nicht für die Bank.
-
 
 ## § 12
 
@@ -264,7 +251,6 @@ der Durchführung der ihr mit diesem Gesetz übertragenen Aufgaben in
 Schaffung einer Währungs-, Wirtschafts- und Sozialunion zwischen der
 Deutschen Demokratischen Republik und der Bundesrepublik Deutschland
 wahr.
-
 
 ## § 13
 
@@ -295,18 +281,15 @@ Gesetzbuches gilt nicht. Bei einer Übertragung des gesamten Vermögens
 erlischt die Bank. Auf Grund der Übertragung werden keine Steuern
 erhoben.
 
-
 ## § 13a
 
 Nach Herstellung der Einheit Deutschlands tritt § 13 außer Kraft; die
 Zuständigkeiten gemäß § 6 Abs. 2 Nr. 1, 2 und 3, §§ 8, 10 Abs. 2 und §
 12 gehen auf den Bundesminister der Finanzen über.
 
-
 ## § 14
 
 Dieses Gesetz tritt am 1. Juli 1990 in Kraft.
-
 
 ## Schlußformel
 

@@ -15,12 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl: 1950, 26
 
-
-
 ## Eingangsformel
 
 Auf Vorschlag der Bundesregierung bestimme ich folgendes:
-
 
 ## § 1
 
@@ -30,7 +27,6 @@ festgesetzt.
 (2) Das große Bundessiegel zeigt den Bundesadler ohne Umschrift, von
 einem Kranz umgeben; das kleine Bundessiegel den Bundesadler mit einer
 die siegelführende Behörde bezeichnenden Umschrift.
-
 
 ## § 2
 
@@ -48,7 +44,6 @@ Bundestages und der Präsident des Bundesrates bedienen.
 oberen Bundesgerichte verwenden das große Bundessiegel zur
 Ausfertigung von Urteilen und Beschlüssen.
 
-
 ## § 3
 
 (1) Im übrigen führen alle Bundesbehörden das kleine Bundessiegel; das
@@ -59,19 +54,16 @@ Rechts, die der Aufsicht von Bundesbehörden unterstehen, die Anwendung
 des Bundesadlers in ihren Dienstsiegeln gestatten, wenn ein besonderer
 Anlaß vorliegt.
 
-
 ## § 4
 
 Die Bundesbehörden dürfen Dienstsiegel von abweichender Größe oder
 Form nur zu besonderen Zwecken und nur mit Genehmigung des
 vorgesetzten Bundesministers gebrauchen.
 
-
 ## § 5
 
 Der Bundesminister des Innern wird allgemeinverbindliche Richtlinien
 zur Ausführung des Erlasses aufstellen.
-
 
 ## Schlußformel
 

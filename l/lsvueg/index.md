@@ -19,9 +19,7 @@ Fundstelle
 G aufgeh. durch
 :   Art. 13 Abs. 13 G v. 12.4.2012 I 579 mWv 1.1.2013
 
-
 ## Abschnitt 1 - Personalrechtliche Übergangsregelungen
-
 
 ### § 1 Übertritt des Personals
 
@@ -70,7 +68,6 @@ Sozialversicherung vom 1. Dezember 1999 findet Anwendung. Auf
 Dienstordnungsangestellte ist § 13 Abs. 1 Nr. 1 des
 Bundesbesoldungsgesetzes entsprechend anzuwenden.
 
-
 ### § 2 Geschäftsführung des Spitzenverbandes der landwirtschaftlichen Sozialversicherung
 
 (1) Die Geschäftsführerin oder der Geschäftsführer und die
@@ -94,7 +91,6 @@ nach Ablauf der am 1. Januar 2008 beginnenden Wahlperiode der
 Selbstverwaltungsorgane des Spitzenverbandes der landwirtschaftlichen
 Sozialversicherung vor Eintritt in den Ruhestand aus ihrem Amt aus,
 ist § 130 des Beamtenrechtsrahmengesetzes entsprechend anzuwenden.
-
 
 ### § 3 Sonstige personalrechtliche Übergangsregelungen
 
@@ -177,7 +173,6 @@ Wahl einer Gleichstellungsbeauftragten und ihrer Stellvertreterin beim
 Spitzenverband der landwirtschaftlichen Sozialversicherung für ihren
 Zuständigkeitsbereich im Amt.
 
-
 ### § 4 Angebote zur Anstellung
 
 Der Spitzenverband der landwirtschaftlichen Sozialversicherung soll
@@ -187,16 +182,13 @@ Erfüllung der Aufgaben des Spitzenverbandes der landwirtschaftlichen
 Sozialversicherung erforderlich ist. Einer vorherigen Ausschreibung
 bedarf es nicht.
 
-
 ## Abschnitt 2 - Übergangsregelungen zum Selbstverwaltungsrecht
-
 
 ### § 5 Übergangsregelungen zu den Selbstverwaltungsorganen des Spitzenverbandes der landwirtschaftlichen Sozialversicherung
 
 Bis zum Ablauf der am 1. Januar 2008 laufenden Wahlperiode richtet
 sich die Bildung der Selbstverwaltungsorgane des Spitzenverbandes der
 landwirtschaftlichen Sozialversicherung nach den §§ 6 und 7.
-
 
 ### § 6 Vertreterversammlung des Spitzenverbandes der landwirtschaftlichen Sozialversicherung
 
@@ -215,7 +207,6 @@ und 2 genannten Vertreterversammlung.
 landwirtschaftlichen Sozialversicherung tritt spätestens am 31. Januar
 2009 zusammen.
 
-
 ### § 7 Vorstand des Spitzenverbandes der landwirtschaftlichen Sozialversicherung
 
 (1) Der am 31. Dezember 2008 bestehende Vorstand des Bundesverbandes
@@ -230,9 +221,7 @@ landwirtschaftlichen Sozialversicherung vertreten sein. Die Satzung
 des Spitzenverbandes der landwirtschaftlichen Sozialversicherung
 regelt das Nähere zu einer erforderlichen Nachwahl.
 
-
 ## Abschnitt 3 - Übergangsregelung zur Umsetzung der Maßnahmen
-
 
 ### § 8 Verbindliches Rahmenkonzept
 
@@ -253,9 +242,7 @@ landwirtschaftlichen Sozialversicherung anzuhören. § 143i Abs. 4 des
 Siebten Buches Sozialgesetzbuch gilt entsprechend. Das Rahmenkonzept
 bedarf der Genehmigung der Aufsichtsbehörde.
 
-
 ## Abschnitt 4 - Aufbau des Spitzenverbandes der landwirtschaftlichen Sozialversicherung
-
 
 ### § 9 Errichtungsausschuss
 

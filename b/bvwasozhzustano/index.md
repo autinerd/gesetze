@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BAnz: 1962, Nr 124
 
-
-
 ## I.
 
 Auf Grund des § 1 Abs. 3 des Gesetzes über die Errichtung des
@@ -56,10 +54,6 @@ folgender Verwaltungsaufgaben des Bundes:
     Europäischen Fürsorgeabkommens vom 11. Dezember 1953 (Bundesgesetzbl.
     1956 II S. 564).
 
-
-
-
-
 ## II.
 
 Soweit sich diese Anordnung auf die Wahrnehmung der Befugnisse auf
@@ -68,7 +62,6 @@ Grund des § 147 des Bundessozialhilfegesetzes bezieht (Abschnitt I Nr.
 mit ihrer Verkündung im Bundesanzeiger in Kraft. Gleichzeitig tritt
 die Anordnung vom 29. Januar 1960 (Bundesanzeiger Nr. 23 vom 4.
 Februar 1960) außer Kraft.
-
 
 ## Schlußformel
 

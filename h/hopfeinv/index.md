@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 6 Abs. 7 G v. 21.7.2004 I 1763
 
-
 ## Eingangsformel
 
 Es verordnet
@@ -38,17 +37,12 @@ Es verordnet
     Bundesministerium der Finanzen und dem Bundesministerium für
     Wirtschaft:
 
-
-
-
-
 ## § 1 Zuständigkeiten
 
 Zuständig für die Durchführung der Rechtsakte der Europäischen
 Gemeinschaft über die Einfuhr von Hopfen aus Drittländern ist, soweit
 nach den vorgenannten Rechtsakten nicht die Zollbehörden zuständig
 sind, die Bundesanstalt für Landwirtschaft und Ernährung.
-
 
 ## § 2 Einfuhr
 
@@ -59,7 +53,6 @@ zuletzt geändert durch die Verordnung (EWG) Nr. 2918/93 der Kommission
 vom 22. Oktober 1993 (ABl. EG Nr. L 264 S. 37), nur mit dem in Artikel
 1 Abs. 1 und 2 der Verordnung (EWG) Nr. 3076/78 genannten Nachweis in
 den Geltungsbereich dieser Verordnung verbracht werden.
-
 
 ## § 3 Ordnungswidrigkeiten
 
@@ -84,13 +77,11 @@ Durchführung der Gemeinsamen Marktorganisationen und der
 Direktzahlungen handelt, wer vorsätzlich oder leichtfertig entgegen §
 2 ein Erzeugnis in den Geltungsbereich dieser Verordnung verbringt.
 
-
 ## § 4 Inkrafttreten, Außerkrafttreten
 
 (1) Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 (2)
-
 
 ## Schlußformel
 

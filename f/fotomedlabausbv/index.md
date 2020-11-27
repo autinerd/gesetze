@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1997, 3177
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 25 Abs. 1 des Berufsbildungsgesetzes vom 14. August
@@ -26,19 +24,16 @@ Zuständigkeitsanpassungs-Verordnung vom 21. September 1997 (BGBl. I S.
 Wirtschaft im Einvernehmen mit dem Bundesministerium für Bildung,
 Wissenschaft, Forschung und Technologie:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Fotomedienlaborant/Fotomedienlaborantin wird
 staatlich anerkannt.
-
 
 ## § 2 Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre. Für Auszubildende mit einer
 abgeschlossenen Berufsausbildung im Beruf Fotolaborant/Fotolaborantin
 beträgt die Ausbildungsdauer zwei Jahre.
-
 
 ## § 3 Ausbildungsberufsbild
 
@@ -78,10 +73,6 @@ Fertigkeiten und Kenntnisse:
 
 11. Qualitätsmanagement.
 
-
-
-
-
 ## § 4 Ausbildungsrahmenplan
 
 (1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach der in der
@@ -99,12 +90,10 @@ Planen, Durchführen und Kontrollieren einschließt. Die in Satz 1
 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 7 und 8
 nachzuweisen.
 
-
 ## § 5 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 6 Berichtsheft
 
@@ -112,7 +101,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 7 Zwischenprüfung
 
@@ -169,10 +157,6 @@ beziehen sollen, aus folgenden Gebieten lösen:
 
 
 8.  Gerätetechnik.
-
-
-
-
 
 ## § 8 Abschlußprüfung
 
@@ -343,11 +327,9 @@ schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils
 der Prüfung im Prüfungsbereich Labortechnische Arbeiten mindestens
 ausreichende Leistungen erbracht sind.
 
-
 ## § 9 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 1998 in Kraft.
-
 
 ## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Fotomedienlaboranten/zur Fotomedienlaborantin
 

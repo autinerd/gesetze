@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 G v. 8.12.2007 I 2812
 
-
 ## § 1
 
 Das Vermögen, das zur Errichtung von Bergmannswohnungen auf Grund des
@@ -45,7 +44,6 @@ Reichsministerialblatt 1923 S. 923 und Reichsanzeiger 1927 Nr. 156)
 verwaltet. Das Bergmannssiedlungsvermögen ist Eigentum des
 Reichs.
 
-
 ## § 2
 
 (1) Treuhandstellen sind
@@ -69,7 +67,6 @@ h)
 Treuhänder des
 Reichs.              Sie können die zu diesem Vermögen gehörenden
 Rechte im eigenen Namen geltend machen.
-
 
 ## § 3
 
@@ -116,12 +113,10 @@ ein zum Hausstand gehöriges Familienglied als Arbeiter oder
 versicherungspflichtiger Angestellter im Kohlenbergbau beschäftigt
 ist.
 
-
 ## § 4
 
 Die Bergmannswohnungen unterliegen nicht der Hauszinssteuer oder
 anderen an deren Stelle tretenden Belastungen.
-
 
 ## § 5
 
@@ -133,7 +128,6 @@ Reichswirtschaftsminister              ausgeübt.
 (2)
 
 (3)
-
 
 ## § 6
 
@@ -153,14 +147,12 @@ mehr verlangt werden.
 (3) Entschädigungsansprüche werden durch diese Vorschriften nicht
 begründet.
 
-
 ## § 7
 
 Der
 Reichsarbeitsminister              kann zur Durchführung ... dieses
 Gesetzes Rechtsverordnungen und allgemeine Verwaltungsvorschriften
 erlassen.
-
 
 ## § 8
 

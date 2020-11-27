@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 17 G v. 24.11.2011 I 2302
 
-
 ## Erster Abschnitt - Der Schutz der Topographien
-
-
 
 ### § 1 Schutzgegenstand, Eigenart
 
@@ -44,7 +41,6 @@ Topographie zugrundeliegenden Entwürfe, Verfahren, Systeme, Techniken
 oder auf die in einem mikroelektronischen Halbleitererzeugnis
 gespeicherten Informationen, sondern nur auf die Topographie als
 solche.
-
 
 ### § 2 Recht auf den Schutz
 
@@ -91,10 +87,6 @@ nur zu, wenn
     der Justiz im Bundesgesetzblatt Deutschen im Sinne des Grundgesetzes
     und Personen mit Sitz oder Niederlassung im Geltungsbereich dieses
     Gesetzes einen entsprechenden Schutz gewährt.
-
-
-
-
 
 ### § 3 Anmeldung
 
@@ -152,7 +144,6 @@ ihn dem Anmelder mit.
 (5) Werden die in Absatz 4 genannten Mängel innerhalb der Frist nach
 Absatz 4 nicht behoben, so gilt die Anmeldung als zurückgenommen.
 
-
 ### § 4 Eintragung, Bekanntmachung, Änderungen
 
 (1) Entspricht die Anmeldung den Anforderungen des § 3, so verfügt das
@@ -195,7 +186,6 @@ Gebrauchsmusterstelle und die Gebrauchsmusterabteilungen (§ 10), über
 die Rechtsmittel und Rechtsmittelverfahren (§ 18) und über die
 Geheimgebrauchsmuster (§ 9) entsprechend anzuwenden.
 
-
 ### § 5 Entstehung des Schutzes, Schutzdauer
 
 (1) Der Schutz der Topographie entsteht
@@ -222,7 +212,6 @@ die Topographie beim Patentamt angemeldet worden ist.
 werden, wenn die Topographie nicht innerhalb von fünfzehn Jahren nach
 dem Tag der ersten Aufzeichnung nicht nur vertraulich geschäftlich
 verwertet oder beim Patentamt angemeldet wird.
-
 
 ### § 6 Wirkung des Schutzes
 
@@ -265,7 +254,6 @@ Inhaber des Schutzes für die weitere geschäftliche Verwertung des
 Halbleitererzeugnisses eine nach den Umständen angemessene
 Entschädigung verlangen.
 
-
 ### § 7 Beschränkung der Wirkung des Schutzes
 
 (1) Der Schutz der Topographie wird nicht begründet, soweit gegen den
@@ -277,7 +265,6 @@ anderen ohne dessen Einwilligung entnommen ist, tritt dem Verletzten
 gegenüber der Schutz des Gesetzes nicht ein. Die Vorschriften des
 Patentgesetzes über den Anspruch auf Übertragung (§ 8) sind
 entsprechend anzuwenden.
-
 
 ### § 8 Löschungsanspruch, Löschungsverfahren
 
@@ -312,7 +299,6 @@ Abs. 6 und des § 125 des Patentgesetzes sind entsprechend anzuwenden.
 Löschungsverfahren (§ 17) und über die Wirkung des Löschungsverfahrens
 auf eine Streitsache (§ 19) sind entsprechend anzuwenden.
 
-
 ### § 9 Schutzverletzung
 
 (1) Wer den Vorschriften des § 6 Abs. 1 zuwider den Schutz der
@@ -332,7 +318,6 @@ Verletzung auf Kosten des Berechtigten etwas erlangt, findet § 852 des
 Bürgerlichen Gesetzbuchs entsprechende Anwendung.
 
 (4) § 24g des Gebrauchsmustergesetzes gilt entsprechend.
-
 
 ### § 10 Strafvorschriften
 
@@ -367,7 +352,6 @@ und ein berechtigtes Interesse daran dartut, anzuordnen, daß die
 Verurteilung auf Verlangen öffentlich bekanntgemacht wird. Die Art der
 Bekanntmachung ist im Urteil zu bestimmen.
 
-
 ### § 11 Anwendung von Vorschriften des Patentgesetzes und des Gebrauchsmustergesetzes
 
 (1) Die Vorschriften des Patentgesetzes über die Erstattung von
@@ -386,26 +370,15 @@ Gebrauchsmusterstreitsachen (§ 27), über die Inlandsvertretung (§ 28),
 über die Ermächtigungen zum Erlaß von Rechtsverordnungen (§ 29) und
 über die Schutzberühmung (§ 30) sind entsprechend anzuwenden.
 
-
 ## Zweiter Abschnitt
-
-
 
 ### (XXXX) §§ 12 bis 16
 
-
-
 ## Dritter Abschnitt
-
-
 
 ### (XXXX) §§ 17 bis 25
 
-
-
 ## Vierter Abschnitt - Übergangs- und Schlußvorschriften
-
-
 
 ### § 26 Übergangsvorschriften
 
@@ -421,7 +394,6 @@ Abs. 1 Satz 4 in der bis zum 1. Januar 2002 geltenden Fassung den
 Vorschriften des Bürgerlichen Gesetzbuchs über die Verjährung in der
 bis zum 1. Januar 2002 geltenden Fassung gleichgestellt ist.
 
-
 ### § 27 Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
@@ -429,7 +401,6 @@ Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Grund dieses Gesetzes, des Gebrauchsmustergesetzes und des
 Patentgesetzes erlassen werden, gelten im Land Berlin nach § 14 des
 Dritten Überleitungsgesetzes.
-
 
 ### § 28 Inkrafttreten
 

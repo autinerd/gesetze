@@ -18,14 +18,9 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 11.1.2005 I 90
 
-
 ## Abschnitt 1 - Grundlagen der Anstalt
 
-
-
 ### Unterabschnitt 1 - Allgemeine Vorschriften
-
-
 
 #### § 1 Rechtsform
 
@@ -39,7 +34,6 @@ Selbstverwaltung im Rahmen der folgenden Bestimmungen.
 (3) Die Deutsche Welle gibt sich eine Satzung zur Regelung der
 betrieblichen Ordnung.
 
-
 #### § 2 Sitz und Studios
 
 (1) Die Deutsche Welle hat einen Sitz in Bonn und einen Sitz in
@@ -52,7 +46,6 @@ Zusammenarbeit mit in- und ausländischen Rundfunkanstalten und
 Veranstaltern im In- und Ausland unterhalten werden. Das Nähere regelt
 die Satzung der Deutschen Welle.
 
-
 #### § 3 Aufgabe
 
 (1) Die Deutsche Welle bietet für das Ausland Rundfunk (Hörfunk,
@@ -61,10 +54,7 @@ Fernsehen) und Telemedien an.
 (2) Die Angebote der Deutschen Welle werden in deutscher Sprache sowie
 auch in anderen Sprachen verbreitet.
 
-
 ### Unterabschnitt 2 - Gestaltung der Sendungen
-
-
 
 #### § 4 Ziele
 
@@ -76,7 +66,6 @@ Wirtschaft sowohl in Europa wie in anderen Kontinenten ein Forum geben
 mit dem Ziel, das Verständnis und den Austausch der Kulturen und
 Völker zu fördern. Die Deutsche Welle fördert dabei insbesondere die
 deutsche Sprache.
-
 
 #### § 4a Aufgabenplanung
 
@@ -103,7 +92,6 @@ Angebote maßgebenden Kriterien und erläutert, aus welchen Gründen die
 vorgeschlagenen Verbreitungswege und Angebotsformen für die jeweiligen
 Zielgebiete und Zielgruppen vorgesehen werden und wie sich die
 Zusammenarbeit mit Dritten gemäß § 8 Abs. 1 und 4 vollziehen soll.
-
 
 #### § 4b Beteiligungsverfahren
 
@@ -143,7 +131,6 @@ das jährliche Bundeshaushaltsgesetz festgelegt.
 (7) Die Deutsche Welle veröffentlicht die dem Bundeszuschuss
 entsprechende Schlussfassung der Aufgabenplanung.
 
-
 #### § 4c Bewertung
 
 (1) Die Deutsche Welle führt eine fortlaufende Bewertung ihrer
@@ -157,7 +144,6 @@ bezieht sie den Sachverstand Dritter aus dem In- und Ausland ein.
 (3) Die Deutsche Welle leitet ihren Bericht nach Absatz 2 dem
 Deutschen Bundestag, der Bundesregierung sowie dem Bundesrechnungshof
 zu und veröffentlicht ihn.
-
 
 #### § 5 Programmgrundsätze
 
@@ -180,7 +166,6 @@ ausländischen Staaten berühren. Herkunft und Inhalt der zur
 Veröffentlichung bestimmten Nachrichten sind mit der gebotenen
 Sorgfalt zu prüfen. Kommentare sind deutlich von Nachrichten zu
 trennen und unter Nennung des Verfassers als solche zu kennzeichnen.
-
 
 #### § 6 Unzulässige Angebote, Jugendschutz
 
@@ -238,7 +223,6 @@ Strafgesetzbuches entsprechend.
 Jugendschutzgesetzes wirken die Verbote nach Absatz 1 auch nach
 wesentlichen inhaltlichen Veränderungen bis zu einer Entscheidung
 durch die Bundesprüfstelle für jugendgefährdende Medien.
-
 
 #### § 6a Entwicklungsbeeinträchtigende Angebote
 
@@ -304,7 +288,6 @@ politischen Zeitgeschehen im Rundfunk und vergleichbare Angebote bei
 Telemedien, soweit ein berechtigtes Interesse gerade an dieser Form
 der Darstellung oder Berichterstattung vorliegt.
 
-
 #### § 7 Jugendschutzbeauftragte/Jugendschutzbeauftragter
 
 (1) Der Intendant beruft eine Jugendschutzbeauftragte/einen
@@ -334,10 +317,7 @@ Landesrundfunkanstalten, des ZDF und der privaten Veranstalter
 bundesweit veranstalteter Fernsehprogramme in einen regelmäßigen
 Erfahrungsaustausch eintreten.
 
-
 ### Unterabschnitt 3 - Erfüllung der Aufgaben
-
-
 
 #### § 8 Zusammenarbeit mit Dritten
 
@@ -364,7 +344,6 @@ Unabhängigkeit der Deutschen Welle unberührt bleibt.
 Aufgaben insbesondere mit den Institutionen zusammen, die sich mit
 internationalen Beziehungen, Kultur, Wirtschaft und Wissenschaft
 befassen.
-
 
 #### § 9 Produktionen
 
@@ -409,7 +388,6 @@ der Deutschen Welle durch Dritte ist nicht zulässig. Verwendet die
 Deutsche Welle Auftrags-, Gemeinschafts- oder Fremdproduktionen,
 stellt sie eigenverantwortlich sicher, dass diese den Vorschriften
 dieses Gesetzes, insbesondere der §§ 4 bis 6, entsprechen.
-
 
 #### § 10 Werbung
 
@@ -523,7 +501,6 @@ Dienstleistungen (Fernseheinkauf) sind unzulässig.
 (14) Zur Durchführung der Absätze 1 bis 13 erlässt der Rundfunkrat
 Richtlinien.
 
-
 #### § 11 Sponsern
 
 (1) Sponsern ist der Beitrag einer natürlichen oder juristischen
@@ -561,7 +538,6 @@ dürfen nicht gesponsert werden.
 (7) Zur Durchführung der Absätze 1 bis 6 erlässt der Rundfunkrat
 Richtlinien.
 
-
 #### § 12 Programmabgabe an Dritte
 
 Die Deutsche Welle kann ausländischen Rundfunkveranstaltern oder
@@ -572,7 +548,6 @@ Erfüllung ihres Programmauftrags dient und ein kommerzieller Vertrieb
 der abgegebenen Sendungen durch Dritte ausgeschlossen ist.
 Ausländische Rundfunkveranstalter oder Dritte haben keinen Anspruch
 auf Überlassung von Sendungen der Deutschen Welle.
-
 
 #### § 13 Transkription
 
@@ -588,13 +563,11 @@ innerhalb einer bestimmten Frist freigegeben, so ist vertraglich
 sicherzustellen, dass diese nach der Ausstrahlung von dem Dritten
 gelöscht werden.
 
-
 #### § 14 Druckwerke
 
 Die Deutsche Welle kann Druckwerke mit programmbezogenem Inhalt
 veröffentlichen, soweit dies zur Erfüllung ihrer Aufgaben erforderlich
 ist.
-
 
 #### § 15 Sendetechnik
 
@@ -617,10 +590,7 @@ für ihre Hörfunkprogramme auch die ihr zugewiesenen
 strahlt die Deutsche Welle ihre Hörfunkprogramme von angemieteten
 Sendern oder eigenen Relaisstationen im Ausland ab.
 
-
 ### Unterabschnitt 4 - Rechte Dritter
-
-
 
 #### § 16 Verlautbarungsrecht
 
@@ -628,7 +598,6 @@ Die Deutsche Welle räumt der Bundesregierung in Krisen- oder
 Katastrophenfällen oder in anderen erheblichen Gefahrenlagen für
 amtliche Verlautbarungen unverzüglich und unentgeltlich angemessene
 Sendezeit ein.
-
 
 #### § 17 Sendezeit für Dritte
 
@@ -639,7 +608,6 @@ religiöser Sendungen, auch solcher über Fragen ihrer öffentlichen
 Verantwortung, einzuräumen. Andere über das gesamte Bundesgebiet
 verbreitete Religionsgemeinschaften des öffentlichen Rechts müssen
 angemessen berücksichtigt werden.
-
 
 #### § 18 Gegendarstellung
 
@@ -701,7 +669,6 @@ den §§ 16 und 17.
 (8) Zu einer Gegendarstellung kann eine Gegendarstellung nicht
 verlangt werden.
 
-
 #### § 19 Eingaben und Beschwerden
 
 (1) Jedermann hat das Recht, sich mit Anregungen zum Programm und
@@ -724,7 +691,6 @@ Bescheid ausdrücklich hinzuweisen.
 (4) Das Nähere regelt die Satzung. Sie kann vorsehen, dass der
 Rundfunkrat einem Beschwerdeausschuss die Entscheidung nach Absatz 3
 Satz 2 überträgt.
-
 
 #### § 20 Anrufungsrecht
 
@@ -750,7 +716,6 @@ verbunden, so leitet der Intendant diese Eingabe zur Stellungnahme dem
 Beauftragten für den Datenschutz zu; Absatz 2 Satz 2 bis 4 gilt
 entsprechend.
 
-
 #### § 21 Beweissicherung
 
 (1) Von allen Sendungen, die die Deutsche Welle verbreitet, sind
@@ -770,10 +735,7 @@ Welle Einsicht in die Aufzeichnung dieser Sendung verlangen und auf
 eigene Kosten durch die Deutsche Welle Mehrausfertigungen herstellen
 lassen.
 
-
 ### Unterabschnitt 5 - Verantwortung für Sendungen
-
-
 
 #### § 22 Allgemeine Verantwortung
 
@@ -796,7 +758,6 @@ verantwortlich, dem die Sendezeit überlassen worden ist.
 Verfassers, Herstellers oder Gestalters eines Beitrages, bleibt
 unberührt.
 
-
 #### § 23 Auskunftspflicht
 
 (1) Die Deutsche Welle gibt auf Verlangen Namen und Dienstanschrift
@@ -811,14 +772,9 @@ nach Artikel 6 Abs. 2 in Verbindung mit Artikel 19 des Europäischen
 Übereinkommens über das grenzüberschreitende Fernsehen vom 5. Mai
 1989, benötigt.
 
-
 ## Abschnitt 2 - Struktur der Anstalt
 
-
-
 ### Unterabschnitt 1 - Allgemeine Vorschriften
-
-
 
 #### § 24 Organe
 
@@ -839,7 +795,6 @@ nach Artikel 6 Abs. 2 in Verbindung mit Artikel 19 des Europäischen
 Verwaltungsrat.
 
 (3) Die Mitglieder der Gremien sind ehrenamtlich tätig.
-
 
 #### § 25 Unvereinbarkeit von Ämtern und Tätigkeiten
 
@@ -888,7 +843,6 @@ Verwaltungsrates dürfen nicht Mitglied des Europäischen Parlaments,
 einer gesetzgebenden Körperschaft des Bundes oder eines Landes oder
 Mitglied der Bundesregierung oder einer Landesregierung sein.
 
-
 #### § 26 Unabhängigkeit
 
 (1) Die Mitglieder der Gremien vertreten bei Wahrnehmung ihrer
@@ -902,7 +856,6 @@ aus Gründen der Gremienmitgliedschaft zu entlassen oder ihnen zu
 kündigen. Stehen sie in einem Dienst- oder Arbeitsverhältnis, so ist
 ihnen die für ihre Tätigkeit erforderliche Zeit zu gewähren.
 
-
 #### § 27 Amtszeit
 
 (1) Die Amtszeit der Gremien beträgt fünf Jahre und beginnt jeweils
@@ -911,7 +864,6 @@ mit ihrem ersten Zusammentritt.
 (2) Nach Ablauf der Amtszeit führen die Gremien die Geschäfte weiter,
 bis die entsprechenden neugebildeten Gremien zu ihrer konstituierenden
 Sitzung zusammentreten.
-
 
 #### § 28 Abberufung und vorzeitiges Ausscheiden
 
@@ -927,7 +879,6 @@ Gremium dies durch Beschluss feststellt.
 (3) Scheidet ein Mitglied vorzeitig aus, so ist nach den für die Wahl
 oder Benennung des ausgeschiedenen Mitglieds geltenden Vorschriften
 ein Nachfolger für den Rest der Amtszeit zu wählen oder zu benennen.
-
 
 #### § 29 Neuberufung der Gremienmitglieder
 
@@ -949,17 +900,13 @@ Gremiums entsprechend.
 gleichberechtigte Teilhabe von Frauen und Männern geschaffen oder
 erhalten wird.
 
-
 #### § 30 Kostenerstattung
 
 Die Mitglieder der Gremien haben Anspruch auf Aufwandsentschädigung
 sowie Reisekostenvergütung, Tagegelder und Übernachtungsgelder. Das
 Nähere regelt die Satzung.
 
-
 ### Unterabschnitt 2 - Rundfunkrat
-
-
 
 #### § 31 Zusammensetzung
 
@@ -1009,7 +956,6 @@ jeweils ein Mitglied des Rundfunkrates:
 Mitglied zu wählen oder zu benennen. Das stellvertretende Mitglied
 nimmt bei Verhinderung des ordentlichen Mitglieds vollberechtigt an
 den Sitzungen des Rundfunkrates und seiner Ausschüsse teil.
-
 
 #### § 32 Aufgaben
 
@@ -1071,7 +1017,6 @@ personalwirtschaftlicher Art anzuhören. Dies gilt insbesondere im
 Falle der Feststellung des Wirtschaftsplans und der Entlastung des
 Intendanten durch den Verwaltungsrat.
 
-
 #### § 33 Sitzungen
 
 (1) Der Rundfunkrat tritt mindestens alle drei Monate zu einer
@@ -1089,7 +1034,6 @@ Rundfunkrates teil. Sie sind auf Wunsch zu hören.
 (4) Ein Mitglied der Personalvertretung nimmt an den Sitzungen des
 Rundfunkrates teil und kann zu Fragen, die nicht den Programmbereich
 betreffen, gehört werden.
-
 
 #### § 34 Beschlüsse und Wahlen
 
@@ -1131,7 +1075,6 @@ entscheidet die Mehrheit der Mitglieder.
 
 (6) Für sonstige Wahlen gilt Absatz 2 Satz 1 entsprechend.
 
-
 #### § 35 Ausschüsse
 
 (1) Der Rundfunkrat bildet aus der Mitte seiner Mitglieder je einen
@@ -1144,10 +1087,7 @@ einen schriftlichen Bericht über ihre Tätigkeit.
 
 (3) Näheres regelt die Geschäftsordnung.
 
-
 ### Unterabschnitt 3 - Verwaltungsrat
-
-
 
 #### § 36 Zusammensetzung
 
@@ -1172,7 +1112,6 @@ werden.
 Mitglied zu wählen oder zu benennen. Das stellvertretende Mitglied
 nimmt bei Verhinderung des ordentlichen Mitglieds vollberechtigt an
 den Sitzungen des Verwaltungsrates teil.
-
 
 #### § 37 Aufgaben
 
@@ -1258,7 +1197,6 @@ Programmteilen zu unterrichten, soweit der Geschäftswert den in Absatz
 (5) Der Verwaltungsrat ist vor Abberufung des Intendanten durch den
 Rundfunkrat anzuhören.
 
-
 #### § 38 Sitzungen
 
 (1) Der Verwaltungsrat tritt mindestens alle zwei Monate zu einer
@@ -1270,7 +1208,6 @@ Rundfunkrates und der Intendant können an den Sitzungen des
 Verwaltungsrates teilnehmen. Sie sind auf Wunsch zu hören.
 
 (3) Die Sitzungen sind nicht öffentlich.
-
 
 #### § 39 Beschlüsse und Wahlen
 
@@ -1289,10 +1226,7 @@ Mehrheit der Stimmen der Mitglieder.
 Mehrheit seiner Mitglieder einen Vorsitzenden und dessen
 Stellvertreter.
 
-
 ### Unterabschnitt 4 - Intendant
-
-
 
 #### § 40 Wahl und Amtszeit
 
@@ -1318,16 +1252,11 @@ Nachfolgers beginnt.
 
 5.  Grundrechte nicht verwirkt hat.
 
-
-
-
-
 #### § 41 Vertretung des Intendanten
 
 Wird der Intendant abberufen oder scheidet er aus, nimmt sein
 Vertreter die Geschäfte wahr, bis die Amtszeit eines gewählten
 Nachfolgers beginnt.
-
 
 #### § 42 Aufgaben
 
@@ -1344,7 +1273,6 @@ außergerichtlich.
 in der die Zuständigkeiten der Direktionsbereiche sowie der
 Geschäftsablauf innerhalb der Direktionsbereiche geregelt werden.
 
-
 #### § 43 Ausscheiden und Abberufung
 
 (1) Der Dienstvertrag des Intendanten endet mit Ablauf der Amtszeit.
@@ -1358,21 +1286,15 @@ Verwaltungsrat den Dienstvertrag des Intendanten.
 entsprechender Anwendung des Dienstvertrages die Bezüge für die Dauer
 seiner Amtszeit weitergewährt.
 
-
 ## Abschnitt 3 - Finanzierung der Anstalt
 
-
-
 ### Unterabschnitt 1 - Finanzwesen
-
-
 
 #### § 44 Finanzierungsgarantie
 
 Der Deutschen Welle wird die Finanzierung derjenigen Angebote
 ermöglicht, die nach diesem Gesetz unter Berücksichtigung der
 rundfunktechnischen Entwicklung erforderlich ist.
-
 
 #### § 45 Einnahmen
 
@@ -1386,7 +1308,6 @@ Haushaltsgesetz des Bundes.
 vierjährigen Planungszeitraum, die mittelfristige Finanzplanung der
 Bundesregierung und die Entscheidungen des Haushaltsgesetzgebers
 sichergestellt.
-
 
 #### § 46 Grundsätze der Wirtschaftsführung
 
@@ -1412,7 +1333,6 @@ Bundesregierung herbeizuführen.
 (5) Die Vorschriften über steuerbegünstigte Zwecke - §§ 51 bis 68 der
 Abgabenordnung - sind entsprechend anzuwenden.
 
-
 #### § 47 Bedeutung und Wirkung des Wirtschaftsplans
 
 (1) Der Wirtschaftsplan der Deutschen Welle (Wirtschaftsplan) dient
@@ -1423,7 +1343,6 @@ verbindliche Grundlage für die Haushalts- und Wirtschaftsführung.
 
 (2) Durch den Wirtschaftsplan werden Ansprüche oder Verbindlichkeiten
 weder begründet noch aufgehoben.
-
 
 #### § 48 Aufstellung des Wirtschaftsplans
 
@@ -1469,11 +1388,9 @@ Stellenplan und die Bewirtschaftungsgrundsätze gemäß Absatz 2 Nr. 4
 bis 6 rechtzeitig vor Beginn der Haushaltsverhandlungen der
 Bundesregierung und dem Bundesrechnungshof zu.
 
-
 #### § 49 (weggefallen)
 
 -
-
 
 #### § 50 Deckungsfähigkeit von Ausgaben
 
@@ -1497,11 +1414,9 @@ handelt. Das Gleiche gilt für die Personalausgaben, die sächlichen
 Verwaltungsausgaben und die Investitionen der Überleitungsrechnung (§
 48 Abs. 2 Nr. 3).
 
-
 #### § 51 (weggefallen)
 
 -
-
 
 #### § 52 Vorläufige Wirtschaftsführung
 
@@ -1522,16 +1437,11 @@ leisten, die nötig sind, um
     durch den Wirtschaftsplan eines Vorjahres bereits Beträge bewilligt
     worden sind.
 
-
-
-
-
 #### § 53 Ausführung des Wirtschaftsplans
 
 Die Ausführung des Wirtschaftsplans erfolgt nach den Grundsätzen der
 Wirtschaftlichkeit und Sparsamkeit. Die §§ 55, 56 Abs. 1, §§ 58, 59
 der Bundeshaushaltsordnung finden entsprechende Anwendung.
-
 
 #### § 54 Über- und außerplanmäßige Aufwendungen, Nachtrag zum Wirtschaftsplan
 
@@ -1566,7 +1476,6 @@ wenn
 
 (4) Die Vorschriften der §§ 47, 48 und 50 gelten entsprechend.
 
-
 #### § 55 Jahresabschluss
 
 Die Deutsche Welle erstellt für jedes Wirtschaftsjahr einen
@@ -1599,7 +1508,6 @@ des Bundesrechts anderes ergibt. Die Deutsche Welle leitet den
 festgestellten Jahresabschluss und den Geschäftsbericht unverzüglich
 der Bundesregierung und dem Bundesrechnungshof zu.
 
-
 #### § 56 Prüfungen
 
 (1) Der Bundesrechnungshof prüft die Haushalts- und Wirtschaftsführung
@@ -1629,17 +1537,13 @@ anzuwenden. Weichen die Ergebnisse des Wirtschaftsprüfers von denen
 des Bundesrechnungshofes ab, gelten die Feststellungen des
 Bundesrechnungshofes.
 
-
 #### § 57 Bekanntmachungen
 
 Der festgestellte Wirtschaftsplan und der festgestellte
 Jahresabschluss der Deutschen Welle werden von ihr unverzüglich im
 Bundesanzeiger veröffentlicht.
 
-
 ### Unterabschnitt 2 - Vermögen, Beteiligungen, Baumaßnahmen
-
-
 
 #### § 58 Vermögen
 
@@ -1655,7 +1559,6 @@ unentgeltlich überlassen sind.
 Vermögen dem Bund mit der Maßgabe zu, dass es von diesem
 ausschließlich und unmittelbar für gemeinnützige Zwecke zu verwenden
 ist.
-
 
 #### § 59 Beteiligungen
 
@@ -1701,7 +1604,6 @@ Verfügt die Deutsche Welle nicht über die Mehrheit der Anteile, so
 sind im Gesellschaftervertrag oder in der Satzung die Rechte nach den
 §§ 53 und 54 des Haushaltsgrundsätzegesetzes zu vereinbaren.
 
-
 #### § 60 Baumaßnahmen
 
 (1) Bauunterhaltungsmaßnahmen einschließlich der Schönheitsreparaturen
@@ -1727,15 +1629,11 @@ Erweiterungsbauten gelten die Richtlinien für die Durchführung von
 Bauaufgaben des Bundes im Zuständigkeitsbereich der
 Finanzbauverwaltung - RBBau - sinngemäß.
 
-
 ## Abschnitt 4 - Aufsicht
-
-
 
 ### § 61 Ausschluss der Fachaufsicht
 
 Die Deutsche Welle unterliegt keiner staatlichen Fachaufsicht.
-
 
 ### § 62 Rechtsaufsicht
 

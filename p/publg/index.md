@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 Abs. 47 G v. 22.12.2011 I 3044
 
-
 ## Erster Abschnitt - Rechnungslegung von Unternehmen
-
-
 
 ### § 1 Zur Rechnungslegung verpflichtete Unternehmen
 
@@ -69,7 +66,6 @@ Beschäftigten sowie der im Ausland beschäftigten Arbeitnehmer.
 (5) Mehrere Handelsgeschäfte eines Einzelkaufmanns sind, auch wenn sie
 nicht unter der gleichen Firma betrieben werden, nur ein Unternehmen
 im Sinne dieses Gesetzes.
-
 
 ### § 2 Beginn und Dauer der Pflicht zur Rechnungslegung
 
@@ -122,7 +118,6 @@ diesem Abschnitt verpflichtet ist, ist der Bericht auch beim Betreiber
 des Bundesanzeigers elektronisch einzureichen; Absatz 2 Satz 3 gilt
 entsprechend. Auf Verlangen haben die gesetzlichen Vertreter jedem
 Gesellschafter eine Abschrift des Berichts zu erteilen.
-
 
 ### § 3 Geltungsbereich
 
@@ -177,7 +172,6 @@ nicht anzuwenden.
 
 (3) Dieser Abschnitt gilt nicht für Unternehmen in Abwicklung.
 
-
 ### § 4 Gesetzliche Vertreter, Aufsichtsrat, Feststellung, Gericht
 
 (1) Im Sinne dieses Gesetzes sind gesetzliche Vertreter eines
@@ -206,7 +200,6 @@ Jahresabschlusses durch den Inhaber anzusehen.
 
 (4) Gericht im Sinne dieses Gesetzes ist das Gericht des Sitzes (der
 Hauptniederlassung) des Unternehmens.
-
 
 ### § 5 Aufstellung von Jahresabschluß und Lagebericht
 
@@ -280,7 +273,6 @@ des Handelsgesetzbuchs einbezogen sind und sie im Übrigen die
 entsprechend geltenden Voraussetzungen des § 264 Abs. 3 des
 Handelsgesetzbuchs erfüllen.
 
-
 ### § 6 Prüfung durch die Abschlußprüfer
 
 (1) Der Jahresabschluß und der Lagebericht sind durch einen
@@ -304,7 +296,6 @@ sofern über seine Bestellung nichts anderes bestimmt ist, vom
 Aufsichtsrat gewählt; hat das Unternehmen keinen Aufsichtsrat, so
 bestellen die gesetzlichen Vertreter den Abschlußprüfer.
 
-
 ### § 7 Prüfung durch den Aufsichtsrat
 
 Hat das Unternehmen einen Aufsichtsrat, so haben die gesetzlichen
@@ -319,7 +310,6 @@ einen Einzelabschluss nach § 9 Abs. 1 Satz 1 dieses Gesetzes in
 Verbindung mit § 325 Abs. 2a des Handelsgesetzbuchs; für einen solchen
 Abschluss gilt ferner § 171 Abs. 4 Satz 1 des Aktiengesetzes
 sinngemäß.
-
 
 ### § 8 Feststellung des Jahresabschlusses
 
@@ -355,7 +345,6 @@ erteilt wird.
 (4) Der festgestellte Jahresabschluß ist der Jahresabschluß im Sinne
 der für die Rechtsform des Unternehmens geltenden Vorschriften.
 
-
 ### § 9 Offenlegung des Jahresabschlusses und des Lageberichts Prüfung durch den Betreiber des Bundesanzeigers
 
 (1) Die gesetzlichen Vertreter des Unternehmens haben für dieses den
@@ -377,7 +366,6 @@ Vermögenseinlagen gedeckten Verlustanteile von Gesellschaftern, eines
 Verlustvortrags und eines Verlusts in einem Posten "Eigenkapital"
 ausgewiesen werden.
 
-
 ### § 10 Nichtigkeit des Jahresabschlusses
 
 Der Jahresabschluß ist nichtig, wenn er
@@ -397,10 +385,7 @@ wenn seit der Bekanntmachung des Jahresabschlusses im Bundesanzeiger
 sechs Monate verstrichen sind. § 256 Abs. 6 Satz 2 des Aktiengesetzes
 gilt sinngemäß.
 
-
 ## Zweiter Abschnitt - Rechnungslegung von Konzernen
-
-
 
 ### § 11 Zur Rechnungslegung verpflichtete Mutterunternehmen
 
@@ -480,7 +465,6 @@ Sind die Voraussetzungen des § 315a des Handelsgesetzbuchs erfüllt, so
 gilt § 13 Abs. 2 Satz 1 und 2, Abs. 3 Satz 1 und 2 in Verbindung mit §
 5 Abs. 5 dieses Gesetzes nicht.
 
-
 ### § 12 Beginn und Dauer der Pflicht zur Konzernrechnungslegung
 
 (1) Für den Beginn und die Dauer der Pflicht, nach diesem Abschnitt
@@ -505,7 +489,6 @@ Rechnungslegung nach diesem Abschnitt verpflichtet ist. Hat das
 Mutterunternehmen einen Aufsichtsrat, so ist vor der Bestellung außer
 den gesetzlichen Vertretern des Mutterunternehmens auch dieser zu
 hören. § 2 Abs. 3 Satz 3 bis 8 gilt sinngemäß.
-
 
 ### § 13 Aufstellung von Konzernabschluß und Konzernlagebericht
 
@@ -552,7 +535,6 @@ Rechtsverordnungen gelten auch für Konzernabschlüsse,
 Teilkonzernabschlüsse, Konzernlageberichte und Teilkonzernlageberichte
 nach diesem Abschnitt.
 
-
 ### § 14 Prüfung des Konzernabschlusses
 
 (1) Der Konzernabschluß oder Teilkonzernabschluß ist unter
@@ -581,7 +563,6 @@ hat das Recht, von den Vorlagen Kenntnis zu nehmen. Die Vorlagen sind
 auch jedem Aufsichtsratsmitglied auf Verlangen auszuhändigen, soweit
 der Aufsichtsrat nichts anderes beschlossen hat.
 
-
 ### § 15 Offenlegung des Konzernabschlusses
 
 (1) Die gesetzlichen Vertreter des Mutterunternehmens haben für dieses
@@ -596,15 +577,11 @@ des Teilkonzernlageberichts gilt § 328, für die Prüfungspflicht des
 Betreibers des Bundesanzeigers § 329 Abs. 1 und 4 des
 Handelsgesetzbuchs sinngemäß.
 
-
 ### § 16
 
 -
 
-
 ## Dritter Abschnitt - Straf-, Bußgeld- und Schlußvorschriften
-
-
 
 ### § 17 Unrichtige Darstellung
 
@@ -651,10 +628,6 @@ Inhaber oder dessen gesetzlicher Vertreter,
     Unternehmens, eines Tochterunternehmens, des Konzerns oder des
     Teilkonzerns unrichtig wiedergibt oder verschleiert.
 
-
-
-
-
 ### § 18 Verletzung der Berichtspflicht
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
@@ -665,7 +638,6 @@ erhebliche Umstände im Bericht verschweigt.
 (2) Handelt der Täter gegen Entgelt oder in der Absicht, sich oder
 einen anderen zu bereichern oder einen anderen zu schädigen, so ist
 die Strafe Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe.
-
 
 ### § 19 Verletzung der Geheimhaltungspflicht
 
@@ -685,7 +657,6 @@ verwertet.
 
 (3) Die Tat wird nur auf Antrag des Unternehmens (Konzernleitung,
 Teilkonzernleitung) verfolgt.
-
 
 ### § 20 Bußgeldvorschriften
 
@@ -793,7 +764,6 @@ fünfzigtausend Euro geahndet werden.
 Ordnungswidrigkeiten ist in den Fällen der Absätze 1 und 2 das
 Bundesamt für Justiz.
 
-
 ### § 21 Festsetzung von Ordnungsgeld
 
 Gegen die gesetzlichen Vertreter (§ 4 Abs. 1 Satz 1) eines
@@ -806,7 +776,6 @@ Bundesanzeiger nicht befolgen, ist wegen des pflichtwidrigen
 Unterlassens der Offenlegung vom Bundesamt für Justiz ein Ordnungsgeld
 nach § 335 des Handelsgesetzbuchs festzusetzen. § 335 Abs. 1 Satz 2
 des Handelsgesetzbuchs ist entsprechend anzuwenden.
-
 
 ### § 22 Erstmalige Anwendung geänderter Vorschriften
 
@@ -859,7 +828,6 @@ Handelsgesetzbuchs bezogenen Übergangsregelungen des Artikels 66 Abs.
 3 und 5 des Einführungsgesetzes zum Handelsgesetzbuch entsprechend
 anzuwenden. Das Gleiche gilt für Artikel 66 Abs. 3 Satz 6 des
 Einführungsgesetzes zum Handelsgesetzbuch.
-
 
 ### § 23 Inkrafttreten
 

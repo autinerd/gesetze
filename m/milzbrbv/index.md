@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1991, 1172
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 79 Abs. 1 Nr. 1 in Verbindung mit § 17 Abs. 1 Nr. 4
@@ -29,10 +27,7 @@ Bekanntmachung vom 28. März 1980 (BGBl. I S. 386), von denen § 17 Abs.
 worden sind, verordnet der Bundesminister für Ernährung,
 Landwirtschaft und Forsten:
 
-
 ## Abschnitt 1 - Begriffsbestimmungen
-
-
 
 ### § 1
 
@@ -55,13 +50,7 @@ Im Sinne dieser Verordnung liegen vor:
     klinischen, der pathologisch-anatomischen oder der serologischen
     Untersuchung den Ausbruch des Rauschbrandes befürchten läßt.
 
-
-
-
-
 ## Abschnitt 2 - Schutzmaßregeln gegen Milzbrand
-
-
 
 ### § 2 Impfungen
 
@@ -91,7 +80,6 @@ wenn dies aus Gründen der Seuchenbekämpfung erforderlich ist.
 unverzüglich und deutlich sichtbar als geimpft kennzeichnen. Die
 zuständige Behörde kann Ausnahmen zulassen, wenn Belange der
 Seuchenbekämpfung nicht entgegenstehen.
-
 
 ### § 3 Schutzmaßregeln vor amtlicher Feststellung
 
@@ -123,10 +111,6 @@ Feststellung folgendes:
     Berührung gekommen sind, dürfen nur mit Genehmigung der zuständigen
     Behörde aus dem Betrieb oder von dem sonstigen Standort verbracht
     werden.
-
-
-
-
 
 ### § 4 Schutzmaßregeln nach amtlicher Feststellung
 
@@ -190,10 +174,6 @@ folgender Vorschriften der Sperre:
     näherer Anweisung des beamteten Tierarztes zu reinigen und zu
     desinfizieren.
 
-
-
-
-
 ### § 5 Tötung und Heilversuch
 
 (1) Ist in einem Bestand der Ausbruch oder der Verdacht des Ausbruchs
@@ -207,12 +187,10 @@ seuchenverdächtige Tiere dürfen nicht unter Blutentzug getötet werden.
 (3) Heilversuche an seuchenkranken oder seuchenverdächtigen Tieren
 dürfen nur von einem Tierarzt vorgenommen werden.
 
-
 ### § 6 Milzbrand bei Wildtieren
 
 § 4 Nr. 6 und § 5 Abs. 2 gelten für seuchenkrankes und
 seuchenverdächtiges Wild entsprechend.
-
 
 ### § 7 Reinigung und Desinfektion
 
@@ -231,10 +209,7 @@ beamteten Tierarztes desinfizieren. Futter und Einstreu, die Träger
 des Seuchenerregers sein können, muß er verbrennen oder zusammen mit
 dem Dung behandeln.
 
-
 ## Abschnitt 3 - Aufhebung der Schutzmaßregeln
-
-
 
 ### § 8
 
@@ -271,10 +246,7 @@ sonstigen Standortes innerhalb von 14 Tagen nach Beseitigung der
 seuchenverdächtigen Tiere keine Anzeichen festgestellt werden, die auf
 Milzbrand hinweisen.
 
-
 ## Abschnitt 4 - Schutzmaßregeln gegen Rauschbrand
-
-
 
 ### § 9
 
@@ -283,10 +255,7 @@ Verdacht auf Rauschbrand vor, so kann die zuständige Behörde die
 sinngemäße Anwendung der Schutzmaßregeln des Abschnitts 2 anordnen.
 Abschnitt 3 gilt entsprechend.
 
-
 ## Abschnitt 5 - Ordnungswidrigkeiten
-
-
 
 ### § 10
 
@@ -349,13 +318,7 @@ Tierseuchengesetzes handelt, wer vorsätzlich oder fahrlässig
 11. entgegen § 5 Abs. 3, ohne Tierarzt zu sein, einen Heilversuch
     vornimmt.
 
-
-
-
-
 ## Abschnitt 6 - Schlußvorschriften
-
-
 
 ### § 11 Inkrafttreten
 
@@ -399,10 +362,6 @@ Gleichzeitig treten außer Kraft:
     Milz- und Rauschbrandes sowie der Räude der Einhufer und Schafe vom
     29\. Juni 1987 (Gesetz- und Verordnungsblatt für das Land Rheinland-
     Pfalz S. 185).
-
-
-
-
 
 ### Schlußformel
 

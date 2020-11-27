@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 37 G v. 20.12.2011 I 2854
 
-
 ## Eingangsformel
 
 Auf Grund des § 76 Abs. 2 des Arbeitsförderungsgesetzes vom 25. Juni
@@ -29,7 +28,6 @@ der Bundesanstalt für Arbeit gemäß § 234 Abs. 2 des
 Arbeitsförderungsgesetzes und der Tarifvertragsparteien des
 Baugewerbes gemäß § 76 Abs. 2 Satz 4 des Arbeitsförderungsgesetzes -
 verordnet:
-
 
 ## § 1 Zugelassene Betriebe
 
@@ -287,7 +285,6 @@ wirtschaftlichen Tätigkeit oder zu einer Stabilisierung der
 Beschäftigungsverhältnisse der von saisonbedingten Arbeitsausfällen
 betroffenen Arbeitnehmer führt.
 
-
 ## § 2 Ausgeschlossene Betriebe
 
 Nicht als förderfähige Betriebe im Sinne des § 1 Abs. 1 anzusehen sind
@@ -344,19 +341,13 @@ Betriebe
 
 14. und Betriebe, die Betonentladegeräte gewerblich zur Verfügung stellen.
 
-
-
-
-
 ## § 3
 
 (weggefallen)
 
-
 ## § 4 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. November 1980 in Kraft.
-
 
 ## Schlußformel
 

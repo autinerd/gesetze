@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 29 V v. 31.10.2006 I 2407
 
-
 ## § 1
 
 Für die Abnahme der Großen Staatsprüfung für den höheren technischen
@@ -27,7 +26,6 @@ Verwaltungsdienst des Bundes durch das Oberprüfungsamt für die höheren
 technischen Verwaltungsbeamten in Frankfurt a.M. können
 Prüfungsgebühren erhoben werden. Die Gebühr für die einzelne Prüfung
 darf 200 Deutsche Mark nicht übersteigen.
-
 
 ## § 2
 
@@ -37,7 +35,6 @@ Oberprüfungsamtes durch Rechtsverordnung zu bestimmen. In der
 Rechtsverordnung können die Stundung, der Erlaß und die Erstattung der
 Gebühren abweichend von den Vorschriften des Verwaltungskostengesetzes
 vom 23. Juni 1970 (Bundesgesetzbl. I S. 821) geregelt werden.
-
 
 ## § 3
 

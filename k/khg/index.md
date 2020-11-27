@@ -22,10 +22,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 G v. 21.7.2012 I 1613
 
-
 ## 1. Abschnitt - Allgemeine Vorschriften
-
-
 
 ### § 1 Grundsatz
 
@@ -42,7 +39,6 @@ Fördermitteln nach diesem Gesetz darf nicht mit Auflagen verbunden
 werden, durch die die Selbständigkeit und Unabhängigkeit von
 Krankenhäusern über die Erfordernisse der Krankenhausplanung und der
 wirtschaftlichen Betriebsführung hinaus beeinträchtigt werden.
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -167,10 +163,6 @@ Im Sinne dieses Gesetzes sind
     die Kosten des Krankenhauses, deren Berücksichtigung im Pflegesatz
     nicht nach diesem Gesetz ausgeschlossen ist.
 
-
-
-
-
 ### § 3 Anwendungsbereich
 
 Dieses Gesetz findet keine Anwendung auf
@@ -195,7 +187,6 @@ Dieses Gesetz findet keine Anwendung auf
 
 § 28 bleibt unberührt.
 
-
 ### § 4
 
 Die Krankenhäuser werden dadurch wirtschaftlich gesichert, daß
@@ -208,10 +199,6 @@ Die Krankenhäuser werden dadurch wirtschaftlich gesichert, daß
     Gesetzes auch Investitionskosten enthalten können, sowie Vergütungen
     für vor- und nachstationäre Behandlung und für ambulantes Operieren
     erhalten.
-
-
-
-
 
 ### § 5 Nicht förderungsfähige Einrichtungen
 
@@ -290,7 +277,6 @@ Die Krankenhäuser werden dadurch wirtschaftlich gesichert, daß
 diesem Gesetz auch den in Absatz 1 Nr. 2 bis 8 bezeichneten
 Krankenhäusern und Einrichtungen gewährt wird.
 
-
 ### § 6 Krankenhausplanung und Investitionsprogramme
 
 (1) Die Länder stellen zur Verwirklichung der in § 1 genannten Ziele
@@ -311,11 +297,9 @@ Pflegeeinrichtungen umzuwidmen.
 
 (4) Das Nähere wird durch Landesrecht bestimmt.
 
-
 ### § 6a
 
 (weggefallen)
-
 
 ### § 7 Mitwirkung der Beteiligten
 
@@ -328,10 +312,7 @@ anzustreben.
 
 (2) Das Nähere wird durch Landesrecht bestimmt.
 
-
 ## 2. Abschnitt - Grundsätze der Investitionsförderung
-
-
 
 ### § 8 Voraussetzungen der Förderung
 
@@ -357,7 +338,6 @@ besten gerecht wird.
 
 (3) Für die in § 2 Nr. 1a genannten Ausbildungsstätten gelten die
 Vorschriften dieses Abschnitts entsprechend.
-
 
 ### § 9 Fördertatbestände
 
@@ -436,7 +416,6 @@ Landesrechts so zu bemessen, daß sie die förderungsfähigen und unter
 Beachtung betriebswirtschaftlicher Grundsätze notwendigen
 Investitionskosten decken.
 
-
 ### § 10 Entwicklungsauftrag zur Reform der Investitionsfinanzierung
 
 (1) Für Krankenhäuser, die in den Krankenhausplan eines Landes
@@ -473,7 +452,6 @@ Befugnisse des Bundesministeriums für Gesundheit gilt § 17b Abs. 7 und
 7a entsprechend. Für die Veröffentlichung der Ergebnisse gilt § 17b
 Absatz 2 Satz 8 entsprechend.
 
-
 ### § 11 Landesrechtliche Vorschriften über die Förderung
 
 Das Nähere zur Förderung wird durch Landesrecht bestimmt. Dabei kann
@@ -482,15 +460,11 @@ und sonstigen Fachkräften des Gesundheitswesens besondere Aufgaben zu
 übernehmen haben; soweit hierdurch zusätzliche Sach- und
 Personalkosten entstehen, ist ihre Finanzierung zu gewährleisten.
 
-
 ### (XXXX) §§ 12 bis 15 (weggefallen)
 
 -
 
-
 ## 3. Abschnitt - Vorschriften über Krankenhauspflegesätze
-
-
 
 ### § 16 Verordnung zur Regelung der Pflegesätze
 
@@ -542,7 +516,6 @@ Die Ermächtigung kann durch Rechtsverordnung auf die Landesregierungen
 übertragen werden; dabei kann bestimmt werden, daß die
 Landesregierungen die Ermächtigung durch Rechtsverordnung auf oberste
 Landesbehörden weiter übertragen können.
-
 
 ### § 17 Grundsätze für die Pflegesatzregelung
 
@@ -651,7 +624,6 @@ Die Vertragsparteien nach § 18 Abs. 2 vereinbaren die nach den Sätzen
 1 und 2 maßgebenden Pflegesätze. Werden die Krankenhausleistungen mit
 pauschalierten Pflegesätzen nach Absatz 1a vergütet, gelten diese als
 Leistungen vergleichbarer Krankenhäuser im Sinne des Satzes 1.
-
 
 ### § 17a Finanzierung von Ausbildungskosten
 
@@ -891,7 +863,6 @@ Krankenhaus.
 unterliegen, gilt § 21 des Krankenhausentgeltgesetzes mit der Maßgabe,
 dass die Daten nach Absatz 2 Nr. 1 Buchstabe a und c zu übermitteln
 sind.
-
 
 ### § 17b Einführung eines pauschalierenden Entgeltsystems für DRG-Krankenhäuser
 
@@ -1174,7 +1145,6 @@ für die Aufgaben nach den Sätzen 1 bis 3 werden mit dem DRG-
 Systemzuschlag nach Absatz 5 finanziert. Die Ergebnisse sind bis zum
 30\. Juni 2013 zu veröffentlichen.
 
-
 ### § 17c Prüfung der Abrechnung von Pflegesätzen
 
 (1) Der Krankenhausträger wirkt durch geeignete Maßnahmen darauf hin,
@@ -1278,7 +1248,6 @@ des elektronischen Datenaustausches an das private
 Krankenversicherungsunternehmen zu übermitteln, wenn der Versicherte
 hierzu schriftlich seine Einwilligung, die jederzeit widerrufen werden
 kann, erklärt hat.
-
 
 ### § 17d Einführung eines pauschalierenden Entgeltsystems für psychiatrische und psychosomatische Einrichtungen
 
@@ -1436,7 +1405,6 @@ Psychiatrie-Personalverordnung zu übermitteln; für die zugrunde
 liegende Dokumentation reicht eine Einstufung zu Beginn der Behandlung
 und bei jedem Wechsel des Behandlungsbereichs aus.
 
-
 ### § 18 Pflegesatzverfahren
 
 (1) Die nach Maßgabe dieses Gesetzes für das einzelne Krankenhaus zu
@@ -1491,7 +1459,6 @@ Gesetzes und sonstigem Recht entsprechen; die Genehmigung ist
 unverzüglich zu erteilen. Gegen die Genehmigung ist der
 Verwaltungsrechtsweg gegeben. Ein Vorverfahren findet nicht statt; die
 Klage hat keine aufschiebende Wirkung.
-
 
 ### § 18a Schiedsstelle
 
@@ -1572,16 +1539,13 @@ für Gesundheit. Gegen die Entscheidung der Schiedsstelle ist der
 Verwaltungsrechtsweg gegeben. Ein Vorverfahren findet nicht statt; die
 Klage hat keine aufschiebende Wirkung.
 
-
 ### § 18b
 
 (aufgehoben)
 
-
 ### § 19
 
 (weggefallen)
-
 
 ### § 20 Nichtanwendung von Pflegesatzvorschriften
 
@@ -1593,19 +1557,13 @@ anzuwenden, daß an die Stelle der Pflegesätze vergleichbarer nach
 diesem Gesetz voll geförderter Krankenhäuser die Pflegesätze
 vergleichbarer öffentlicher Krankenhäuser treten.
 
-
 ## 4. Abschnitt - (weggefallen)
-
-
 
 ### (XXXX) §§ 21 bis 26 (weggefallen)
 
 -
 
-
 ## 5. Abschnitt - Sonstige Vorschriften
-
-
 
 ### § 27 Zuständigkeitsregelung
 
@@ -1616,7 +1574,6 @@ die knappschaftliche Krankenversicherung die Deutsche
 Rentenversicherung Knappschaft-Bahn-See und für die
 Krankenversicherung der Landwirte die Sozialversicherung für
 Landwirtschaft, Forsten und Gartenbau wahr.
-
 
 ### § 28 Auskunftspflicht und Statistik
 
@@ -1715,14 +1672,9 @@ Auswertung als Bundesstatistik zu folgenden Sachverhalten durch:
     nach Berufsbezeichnungen zusätzlich gegliedert nach jeweiligem
     Ausbildungsjahr.
 
-
-
-
-
 ### § 29
 
 (aufgehoben)
-
 
 ### § 30 Darlehen aus Bundesmitteln
 
@@ -1735,11 +1687,9 @@ ist und solange das Krankenhaus in den Krankenhausplan aufgenommen
 ist. Für die in § 2 Nr. 1a genannten Ausbildungsstätten gilt Satz 1
 entsprechend.
 
-
 ### § 31 Berlin-Klausel
 
 (gegenstandslos)
-
 
 ### § 32
 

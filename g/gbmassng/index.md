@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 17 G v. 5.12.2012 I 2418
 
-
 ## Erster Abschnitt - Eintragung der Umstellung
-
-
 
 ### § 1
 
@@ -41,10 +38,6 @@ b)  die Voraussetzungen, unter denen die Umstellung der Hypothek sich nach
     § 2 Nr. 4 der Vierzigsten Durchführungsverordnung zum
     Umstellungsgesetz richtet, vorliegen und seit dem Ende des Jahres, in
     dem sie eingetreten sind, nicht mehr als drei Jahre verstrichen sind.
-
-
-
-
 
 ### § 2
 
@@ -79,7 +72,6 @@ eine vor diesem Zeitpunkt erhobene Beschwerde der in Absatz 4
 bezeichneten Art zurück, so findet die Rechtsbeschwerde statt; Absatz
 1 Satz 2 ist entsprechend anzuwenden.
 
-
 ### § 3
 
 Nach dem Ende des Jahres 1965 darf bei einer Hypothek ein
@@ -92,10 +84,6 @@ a)  zur Zeit der Eintragung bei der Hypothek ein Umstellungsschutzvermerk
 
 b)  ein nach § 1 Buchstabe b zulässiger Eintragungsantrag gestellt worden
     ist.
-
-
-
-
 
 ### § 4
 
@@ -173,7 +161,6 @@ Oktober 1965 gestellt werden.
 nur noch auf Grund des Absatzes 2 Satz 1 Buchstabe c eingetragen
 werden.
 
-
 ### § 5
 
 (1) Der Umstellungsschutzvermerk wird von Amts wegen im Grundbuch
@@ -206,14 +193,12 @@ eingetreten, so hat das Amtsgericht dies dem Grundbuchamt mitzuteilen.
 wird er auch auf Antrag dessen gelöscht, der seine Eintragung
 beantragt hat.
 
-
 ### § 6
 
 Zur Eintragung oder Löschung des Umstellungsschutzvermerkes bei einer
 Hypothek, über die ein Brief erteilt ist, bedarf es nicht der
 Vorlegung des Briefs. Die Eintragung und die Löschung werden auf dem
 Brief nicht vermerkt.
-
 
 ### § 7
 
@@ -224,7 +209,6 @@ Reichsmark beläuft.
 
 (2) Die durch die Hypothek gesicherte persönliche Forderung wird durch
 die Vorschrift des Absatzes 1 nicht berührt.
-
 
 ### § 8
 
@@ -279,7 +263,6 @@ Umstellungsbetrags oder die Eintragung eines
 Umstellungsschutzvermerkes auf Grund des § 4 Abs. 2 Satz 1 Buchstabe c
 zu erwirken.
 
-
 ### § 9
 
 (1) Die Zulässigkeit eines Umstellungsverfahrens wird durch die
@@ -290,7 +273,6 @@ Deutsche Mark für je zehn Reichsmark beläuft.
 
 (2) § 7 Abs. 1 gilt nicht als eine Umstellungsvorschrift im Sinne des
 Lastenausgleichsgesetzes.
-
 
 ### § 10
 
@@ -316,7 +298,6 @@ b)  im Falle des Erwerbes durch Einzelrechtsnachfolge mittels
 (2) Der Gläubiger hat dem Eigentümer die Auslagen zu erstatten, die
 mit der Bestellung der weiteren Hypothek verbunden sind.
 
-
 ### § 11
 
 Die Vorschriften dieses Abschnitts sind auf Grundschulden und
@@ -324,13 +305,11 @@ Rentenschulden sowie auf Pfandrechte an Bahneinheiten und auf
 Schiffshypotheken entsprechend anzuwenden, jedoch gilt § 8 Abs. 3 für
 Schiffshypotheken nicht.
 
-
 ### § 12
 
 Die Vorschriften dieses Abschnitts sind auf Reallasten entsprechend
 anzuwenden. Im übrigen gelten auch für Reallasten die §§ 5 und 6 der
 Vierzigsten Durchführungsverordnung zum Umstellungsgesetz.
-
 
 ### § 13
 
@@ -343,10 +322,7 @@ können, so ist nur der Eigentümer Kostenschuldner.
 (2) Die Eintragung und die Löschung des Umstellungsschutzvermerkes
 sind kostenfrei.
 
-
 ## Zweiter Abschnitt - Umstellungsgrundschulden
-
-
 
 ### § 14
 
@@ -360,7 +336,6 @@ den Eigentümer in das Grundbuch einzutragen.
 (2) In den Fällen des Absatzes 1 gelten die Vorschriften in § 2
 sinngemäß.
 
-
 ### § 15
 
 Ist der Übergang einer eingetragenen Umstellungsgrundschuld auf den
@@ -372,7 +347,6 @@ vorher erloschen ist. Die Umstellungsgrundschuld kann von Amts wegen
 im Grundbuch gelöscht werden. Die Löschung der Umstellungsgrundschuld
 ist kostenfrei.
 
-
 ### § 16
 
 Eine im Grundbuch nicht eingetragene Umstellungsgrundschuld, die auf
@@ -381,17 +355,13 @@ Satz 2 bezeichnete Antrag nicht bis zum Ende des Jahres 1964 gestellt
 worden ist oder eine Verfügung, durch die der Antrag zurückgewiesen
 ist, rechtskräftig geworden ist.
 
-
 ### § 17
 
 Ein durch Rangrücktritt der Umstellungsgrundschuld dem vortretenden
 Recht eingeräumter Rang geht nicht dadurch verloren, daß die
 Umstellungsgrundschuld erlischt.
 
-
 ## Dritter Abschnitt - Löschung umgestellter Grundpfandrechte und Schiffshypotheken
-
-
 
 ### § 18
 
@@ -418,13 +388,11 @@ auszugehen; liegen diese Voraussetzungen nicht vor, so ist von einem
 Umstellungsbetrag auszugehen, der sich auf eine Deutsche Mark für je
 eine Reichsmark beläuft.
 
-
 ### § 19
 
 Die Vorschriften des § 18 gelten sinngemäß für eine umgestellte
 Rentenschuld oder Reallast, deren Jahresleistung 15 Euro nicht
 übersteigt.
-
 
 ### § 20
 
@@ -434,19 +402,13 @@ Maßgabe, daß statt auf den § 29 und den § 35 Abs. 1 und 2 der
 Grundbuchordnung auf die §§ 37 und 41 der Schiffsregisterordnung vom
 26\. Mai 1951 (Bundesgesetzbl. I S. 360) verwiesen wird.
 
-
 ## Vierter Abschnitt
-
-
 
 ### § 21
 
 -
 
-
 ## Fünfter Abschnitt - Abgeltungshypotheken und Abgeltungslasten
-
-
 
 ### § 22
 
@@ -455,14 +417,12 @@ Verordnung zur Durchführung der Verordnung über die Aufhebung der
 Gebäudeentschuldungssteuer vom 31. Juli 1942 - Reichsgesetzbl. I S.
 503) nicht mehr in das Grundbuch eingetragen werden.
 
-
 ### § 23
 
 Abgeltungslasten (§ 2 Abs. 2 der Verordnung über die Aufhebung der
 Gebäudeentschuldungssteuer vom 31. Juli 1942 - Reichsgesetzbl. I S.
 501) erlöschen mit dem Ende des Jahres 1964, soweit sie nicht vorher
 erloschen sind.
-
 
 ### § 24
 
@@ -500,17 +460,13 @@ Die Löschung ist kostenfrei.
 (6) Die Vorschriften der Grundbuchordnung über die Löschung
 gegenstandsloser Eintragungen bleiben unberührt.
 
-
 ### § 25
 
 Die Forderung aus dem Abgeltungsdarlehen wird nicht dadurch berührt,
 daß die Abgeltungslast oder die Abgeltungshypothek nach den
 Vorschriften dieses Abschnitts erlischt.
 
-
 ## Sechster Abschnitt - Zusätzliche Vorschriften des Grundbuchrechts
-
-
 
 ### § 26
 
@@ -539,7 +495,6 @@ bekanntmachen.
 
 (4) Die Vorschriften der Absätze 1 bis 3 gelten für Grundschuld- und
 Rentenschuldbriefe sinngemäß.
-
 
 ### § 26a Eintragungen im Zusammenhang mit der Einführung des Euro
 
@@ -575,11 +530,9 @@ Eintragung nach Absatz 1 Satz 2 und 4 werden keine Gebühren erhoben; §
 Eintragungen in das Schiffsregister, das Schiffsbauregister und das
 Register für Pfandrechte an Luftfahrzeugen sinngemäß.
 
-
 ### § 27
 
 -
-
 
 ### § 28
 
@@ -588,20 +541,15 @@ Landesbehörden können durch Rechtsverordnung die vor dem Inkrafttreten
 dieses Gesetzes auf Grund des § 148 der Grundbuchordnung getroffenen
 Vorschriften ändern, ergänzen oder aufheben.
 
-
 ### § 29
 
 -
-
 
 ### § 30
 
 -
 
-
 ### § 31 (weggefallen)
-
-
 
 ### § 32
 
@@ -611,19 +559,13 @@ zuständig sind, bleiben die Bestimmungen, wonach die Abänderung einer
 Entscheidung des Grundbuchamts zunächst bei dem Amtsgericht
 nachzusuchen ist, unberührt.
 
-
 ## Siebenter Abschnitt -
-
-
 
 ### § 33
 
 -
 
-
 ## Achter Abschnitt
-
-
 
 ### § 34
 
@@ -631,21 +573,16 @@ nachzusuchen ist, unberührt.
 
 (2) (weggefallen)
 
-
 ## Neunter Abschnitt - Schlußbestimmungen
-
-
 
 ### § 35
 
 Die Vorschriften des Ersten, des Zweiten, des Dritten und des Vierten
 Abschnitts gelten nicht im Saarland.
 
-
 ### § 36
 
 (weggefallen)
-
 
 ### § 36a
 
@@ -660,7 +597,6 @@ daß das Jahr 1964 durch das Jahr 1995 ersetzt wird. Die Verjährung am
 (§ 25) ist gehemmt. Das Bundesministerium der Justiz wird ermächtigt,
 durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium der
 Finanzen das Datum festzulegen, zu dem die Hemmung nach Satz 2 endet.
-
 
 ### § 37
 

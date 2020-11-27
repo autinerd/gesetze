@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2003, 2804
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 152a des Gesetzes über die Zwangsversteigerung und die
@@ -26,7 +24,6 @@ durch Artikel 7 Abs. 23 des Gesetzes vom 17. Dezember 1990 (BGBl. I S.
 2847) eingefügt worden ist, in Verbindung mit Artikel 35 des Gesetzes
 vom 13. Dezember 2001 (BGBl. I S. 3574), verordnet das
 Bundesministerium der Justiz:
-
 
 ## § 1 Stellung
 
@@ -55,13 +52,11 @@ Versicherungssumme bestimmt werden. Auf Verlangen der
 Verfahrensbeteiligten oder des Gerichts hat der Verwalter das Bestehen
 der erforderlichen Haftpflichtversicherung nachzuweisen.
 
-
 ## § 2 Ausweis
 
 Der Verwalter erhält als Ausweis eine Bestallungsurkunde, aus der sich
 das Objekt der Zwangsverwaltung, der Name des Schuldners, das Datum
 der Anordnung sowie die Person des Verwalters ergeben.
-
 
 ## § 3 Besitzerlangung über das Zwangsverwaltungsobjekt, Bericht
 
@@ -110,7 +105,6 @@ einzureichen. Soweit die in Absatz 1 bezeichneten Verhältnisse nicht
 schon bei Besitzübergang festgestellt werden können, hat der Verwalter
 dies unverzüglich nachzuholen und dem Gericht anzuzeigen.
 
-
 ## § 4 Mitteilungspflicht
 
 Der Verwalter hat alle betroffenen Mieter und Pächter sowie alle von
@@ -118,7 +112,6 @@ der Verwaltung betroffenen Dritten unverzüglich über die
 Zwangsverwaltung zu informieren. Außerdem kann der Verwalter den
 Erlass von Zahlungsverboten an die Drittschuldner bei dem Gericht
 beantragen.
-
 
 ## § 5 Nutzungen des Zwangsverwaltungsobjektes
 
@@ -142,7 +135,6 @@ Verpachtung. Hiervon ausgenommen sind:
 
 (3) Der Verwalter ist berechtigt, begonnene Bauvorhaben fertig zu
 stellen.
-
 
 ## § 6 Miet- und Pachtverträge
 
@@ -170,15 +162,10 @@ vom Verwalter schriftlich abzuschließen.
     die Zwangsverwaltung, § 111 der Insolvenzordnung) möglicherweise
     ergebenden Schadensersatzanspruch freigestellt sein soll.
 
-
-
-
-
 ## § 7 Rechtsverfolgung
 
 Der Verwalter hat die Rechtsverfolgung seiner Ansprüche im Rahmen des
 pflichtgemäßen Ermessens zeitnah einzuleiten.
-
 
 ## § 8 Rückstände, Vorausverfügungen
 
@@ -187,7 +174,6 @@ Rückstände nach § 1123 Abs. 1 und 2 des Bürgerlichen Gesetzbuchs und
 unterbrochene Vorausverfügungen nach § 1123 Abs. 1, §§ 1124 und 1126
 des Bürgerlichen Gesetzbuchs, sofern nicht der Gläubiger auf die
 Rechtsverfolgung verzichtet.
-
 
 ## § 9 Ausgaben der Zwangsverwaltung
 
@@ -212,10 +198,6 @@ sofern
 
 
 2.  der Gläubiger die unbedingte Kostendeckung schriftlich mitteilt.
-
-
-
-
 
 ## § 10 Zustimmungsvorbehalte
 
@@ -253,7 +235,6 @@ des Gerichts einzuholen:
 (2) Das Gericht hat den Gläubiger und den Schuldner vor seiner
 Entscheidung anzuhören.
 
-
 ## § 11 Auszahlungen
 
 (1) Aus den nach Bestreiten der Ausgaben der Verwaltung sowie der
@@ -274,7 +255,6 @@ ihres Einganges anzuzeigen.
 Grundschuld oder auf die Ablösesumme einer Rentenschuld geleistet
 werden, so hat der Verwalter zu diesem Zweck die Anberaumung eines
 Termins bei dem Gericht zu beantragen.
-
 
 ## § 12 Beendigung der Zwangsverwaltung
 
@@ -303,7 +283,6 @@ Kosten der Zwangsvollstreckung bezahlt, so hat er dies dem Gericht
 unverzüglich anzuzeigen. Dasselbe gilt, wenn der Gläubiger ihm
 mitteilt, dass er befriedigt ist.
 
-
 ## § 13 Masseverwaltung
 
 (1) Der Massebestand ist von eigenen Beständen des Verwalters getrennt
@@ -322,7 +301,6 @@ Kontoauszüge und Belege bei Gericht einzureichen.
 (4) Auf Antrag von Gläubiger oder Schuldner hat der Verwalter Auskunft
 über den Sachstand zu erteilen.
 
-
 ## § 14 Buchführung der Zwangsverwaltung
 
 (1) Die Buchführung der Zwangsverwaltung ist eine um die Solleinnahmen
@@ -338,7 +316,6 @@ Schlussrechnung in Form einer abgebrochenen Jahresrechnung.
 (4) Nach vollständiger Beendigung seiner Amtstätigkeit reicht der
 Verwalter eine Endabrechnung ein, nachdem alle Zahlungsvorgänge
 beendet sind und das Konto auf Null gebracht worden ist.
-
 
 ## § 15 Gliederung der Einnahmen und Ausgaben
 
@@ -380,14 +357,12 @@ vorzutragen.
 (4) Ist zur Umsatzsteuer optiert worden, so sind Umsatzsteueranteile
 und Vorsteuerbeträge gesondert darzustellen.
 
-
 ## § 16 Auskunftspflicht
 
 Der Verwalter hat jederzeit dem Gericht oder einem mit der Prüfung
 beauftragten Sachverständigen Buchführungsunterlagen, die Akten und
 sonstige Schriftstücke vorzulegen und alle weiteren Auskünfte im
 Zusammenhang mit seiner Verwaltung zu erteilen.
-
 
 ## § 17 Vergütung und Auslagenersatz
 
@@ -405,7 +380,6 @@ Tätigkeiten, die ein nicht als Rechtsanwalt zugelassener Verwalter
 einem Rechtsanwalt übertragen hätte, die gesetzliche Vergütung eines
 Rechtsanwalts abrechnen. Ist der Verwalter Steuerberater oder besitzt
 er eine andere besondere Qualifikation, gilt Satz 1 sinngemäß.
-
 
 ## § 18 Regelvergütung
 
@@ -429,7 +403,6 @@ Prozent der von ihm verwalteten Bausumme. Planungs-, Ausführungs- und
 Abnahmekosten sind Bestandteil der Bausumme und finden keine
 Anrechnung auf die Vergütung des Verwalters.
 
-
 ## § 19 Abweichende Berechnung der Vergütung
 
 (1) Wenn dem Verwalter eine Vergütung nach § 18 nicht zusteht, bemisst
@@ -443,7 +416,6 @@ Abrechnungszeitraum einheitlich zu bemessen.
 Absatz 1 abrechnen, wenn die Vergütung nach § 18 Abs. 1 und 2
 offensichtlich unangemessen ist.
 
-
 ## § 20 Mindestvergütung
 
 (1) Ist das Zwangsverwaltungsobjekt von dem Verwalter in Besitz
@@ -452,7 +424,6 @@ genommen, so beträgt die Vergütung des Verwalters mindestens 600 Euro.
 (2) Ist das Verfahren der Zwangsverwaltung aufgehoben worden, bevor
 der Verwalter das Grundstück in Besitz genommen hat, so erhält er eine
 Vergütung von 200 Euro, sofern er bereits tätig geworden ist.
-
 
 ## § 21 Auslagen
 
@@ -475,7 +446,6 @@ einem besonderen Haftungsrisiko verbunden, so sind die durch eine
 Höherversicherung nach § 1 Abs. 4 begründeten zusätzlichen Kosten als
 Auslagen zu erstatten.
 
-
 ## § 22 Festsetzung
 
 Die Vergütung und die dem Verwalter zu erstattenden Auslagen werden im
@@ -485,13 +455,11 @@ seinen Antrag vom Gericht festgesetzt. Vor der Festsetzung kann der
 Verwalter mit Einwilligung des Gerichts aus den Einnahmen einen
 Vorschuss auf die Vergütung und die Auslagen entnehmen.
 
-
 ## § 23 Grundstücksgleiche Rechte
 
 Die vorstehenden Bestimmungen sind auf die Zwangsverwaltung von
 Berechtigungen, für welche die Vorschriften über die Zwangsverwaltung
 von Grundstücken gelten, entsprechend anzuwenden.
-
 
 ## § 24 Nichtanwendbarkeit der Verordnung
 
@@ -505,7 +473,6 @@ und die Zwangsverwaltung dem Gericht zugewiesene Tätigkeit nach
 landesgesetzlichen Vorschriften von einer landschaftlichen oder
 ritterschaftlichen Kreditanstalt übernommen worden ist.
 
-
 ## § 25 Übergangsvorschrift
 
 In Zwangsverwaltungen, die bis einschließlich zum 31. Dezember 2003
@@ -517,11 +484,9 @@ jedoch richten sich die Vergütung des Verwalters und der
 Auslagenersatz ab dem ersten auf den 31. Dezember 2003 folgenden
 Abrechnungszeitraum nach den §§ 17 bis 22 dieser Verordnung.
 
-
 ## § 26 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2004 in Kraft.
-
 
 ## Schlussformel
 

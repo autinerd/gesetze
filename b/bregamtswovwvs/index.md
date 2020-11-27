@@ -21,10 +21,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 9.2.1995 I 192
 
-
 ## I. - Verwaltung
-
-
 
 ### § 1
 
@@ -49,10 +46,7 @@ nebst Zubehör durch Unterschrift auf dem Wohnungsblatt anzuerkennen.
 die Vorschriften in Absatz 1 bis 3 nur insoweit, als die Amtswohnung
 mit bundeseigenen Einrichtungsgegenständen versehen ist.
 
-
 ## II. - Instandhaltung, Unterhaltung usw.
-
-
 
 ### § 2
 
@@ -72,17 +66,12 @@ c)  das Reinigen, Abnehmen und Wiederanbringen aus Bundesmitteln
     beschaffter Fenstermarkisen, Fensterjalousien, Schutzzelte über
     Balkons und dergleichen.
 
-
-
-
-
 ### § 3
 
 Gehören zu einer Amtswohnung Garagen, so werden sie vom Bund innerhalb
 der verfügbaren Haushaltsmittel instand gehalten. Die in den Garagen
 benutzten Geräte hat der Wohnungsinhaber zu beschaffen und instand zu
 halten.
-
 
 ### § 4
 
@@ -97,10 +86,7 @@ soweit diese Gegenstände zu Repräsentationszwecken zur Verfügung
 gestellt und benutzt werden und soweit diese Arbeiten nicht durch
 Hausangestellte des Wohnungsinhabers ausgeführt werden.
 
-
 ## III. - Reinigung, Heizung, Wasserversorgung und Beleuchtung
-
-
 
 ### § 5
 
@@ -115,7 +101,6 @@ Wohnungsinhabers ausgeführt werden.
 (2) Zu den Kosten der Reinigung gehören auch die Aufwendungen für
 Reinigungsmittel und Geräte.
 
-
 ### § 6
 
 (1) Das Reinigen der nicht in § 5 genannten Räume der Amtswohnung
@@ -128,7 +113,6 @@ das Reinigen nicht durch Hausangestellte des Wohnungsinhabers
 ausgeführt wird. Das gleiche gilt für die beim Wechsel des
 Wohnungsinhabers erforderliche Reinigung sämtlicher Räume.
 
-
 ### § 7
 
 Für das Heizen der nicht in § 5 genannten Räume einer Amtswohnung im
@@ -139,7 +123,6 @@ Heizkosten auf den Wohnungsinhaber umzulegen. Liegen diese
 Voraussetzungen nicht vor, ist das Heizungsentgelt in sinngemäßer
 Anwendung des § 26 Abs. 3 und 4 der Dienstwohnungsvorschriften zu
 berechnen.
-
 
 ### § 8
 
@@ -160,7 +143,6 @@ entrichten.
 Wohnungsinhaber die Kosten für die verbrauchte Wassermenge und ihre
 Erwärmung.
 
-
 ### § 9
 
 Die Kosten der Beleuchtung der nicht in § 5 genannten Räume und die
@@ -170,10 +152,7 @@ Verbrauchs an elektrischem Strom und Gas in diesen Räumen sind
 besondere Elektrizitäts- und Gasmesser aufzustellen, deren Miete
 ebenfalls der Wohnungsinhaber trägt.
 
-
 ## IV. - Gärten
-
-
 
 ### § 10
 
@@ -184,10 +163,7 @@ unterhalten, bepflanzt und beleuchtet.
 (2) Das gleiche gilt hinsichtlich der Beschaffung und Unterhaltung von
 Gartenmöbeln und Geräten.
 
-
 ## V. - Fernsprechanschlüsse
-
-
 
 ### § 11
 
@@ -197,10 +173,7 @@ Amtswohnungen gelten die Dienstanschlußvorschriften vom 1. Juni 1976
 am 1. Juni 1978 (Ministerialblatt des Bundesministers der Finanzen S.
 262).
 
-
 ## VI. - Allgemeines
-
-
 
 ### § 12
 

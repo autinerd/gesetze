@@ -15,22 +15,15 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 594
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 126 des Betriebsverfassungsgesetzes in der Fassung der
 Bekanntmachung vom 25. September 2001 (BGBl. I S. 2518) verordnet das
 Bundesministerium für Arbeit und Sozialordnung:
 
-
 ## Erster Teil - Wahl der Bordvertretung
 
-
-
 ### Erster Abschnitt - Allgemeine Vorschriften
-
-
 
 #### § 1 Wahlvorstand
 
@@ -52,7 +45,6 @@ Sitzung des Wahlvorstands ist eine Niederschrift aufzunehmen, die
 mindestens den Wortlaut der gefassten Beschlüsse enthält. Die
 Niederschrift ist von der oder dem Vorsitzenden und einem weiteren
 stimmberechtigten Mitglied des Wahlvorstands zu unterzeichnen.
-
 
 #### § 2 Wählerliste
 
@@ -86,7 +78,6 @@ rechtzeitig über die Wahl der Bordvertretung, insbesondere über die
 Bedeutung der Wählerliste, über die Aufstellung von Wahlvorschlägen
 und über die Stimmabgabe in geeigneter Weise unterrichtet werden.
 
-
 #### § 3 Einsprüche gegen die Wählerliste
 
 (1) Einsprüche gegen die Richtigkeit der Wählerliste können mit
@@ -105,7 +96,6 @@ mitzuteilen.
 Schreibfehlern, offenbaren Unrichtigkeiten und in Erledigung
 rechtzeitig eingelegter Einsprüche bis zum Beginn der Stimmabgabe
 berichtigt werden; § 2 Abs. 1 Satz 3 bleibt unberührt.
-
 
 #### § 4 Bestimmung der Mindestsitze für das Geschlecht in der Minderheit
 
@@ -129,7 +119,6 @@ so viele Mitgliedersitze zugeteilt, wie Höchstzahlen auf es entfallen.
 Wenn die niedrigste in Betracht kommende Höchstzahl auf beide
 Geschlechter zugleich entfällt, so entscheidet das Los darüber,
 welchem Geschlecht dieser Sitz zufällt.
-
 
 #### § 5 Wahlausschreiben
 
@@ -217,7 +206,6 @@ das Wahlausschreiben mittels der an Bord vorhandenen Informations- und
 Kommunikationstechnik bekannt gemacht werden. § 2 Abs. 3 Satz 4 gilt
 entsprechend.
 
-
 #### § 6 Wahlvorschläge
 
 (1) Zur Wahl der Bordvertretung können die Wahlberechtigten vor Ablauf
@@ -240,7 +228,6 @@ oder der an erster Stelle steht.
 
 (5) Der Wahlvorschlag kann mit einem Kennwort versehen werden.
 
-
 #### § 7 Wahlvorschläge der Gewerkschaften
 
 (1) Für den Wahlvorschlag einer an Bord vertretenen Gewerkschaft (§ 14
@@ -254,7 +241,6 @@ des Gesetzes).
 Listenvertreterin oder Listenvertreter. Die Gewerkschaft kann ein
 Besatzungsmitglied, das ihr angehört, als Listenvertreterin oder
 Listenvertreter benennen.
-
 
 #### § 8 Behandlung der Wahlvorschläge durch den Wahlvorstand
 
@@ -289,7 +275,6 @@ spätestens jedoch vor Ablauf von sechs Stunden, zu erklären, welche
 Bewerbung sie aufrechterhält. Unterbleibt die fristgerechte Erklärung,
 so ist die Bewerberin oder der Bewerber auf sämtlichen
 Vorschlagslisten zu streichen.
-
 
 #### § 9 Ungültige Wahlvorschläge
 
@@ -328,7 +313,6 @@ Vorschlagslisten zu streichen.
 falls diese Mängel trotz Beanstandung nicht vor Ablauf einer Frist von
 sechs Stunden beseitigt werden.
 
-
 #### § 10 Nachfrist für die Einreichung von Wahlvorschlägen
 
 (1) Ist vor Ablauf der in § 6 Abs. 1 und § 9 Abs. 2 genannten Fristen
@@ -344,7 +328,6 @@ eingereicht wird.
 eingereicht, so findet die Wahl nicht statt. Der Wahlvorstand hat dies
 unverzüglich in gleicher Weise wie das Wahlausschreiben bekannt zu
 machen.
-
 
 #### § 11 Bekanntmachungen zur Stimmabgabe
 
@@ -376,7 +359,6 @@ Verhältniswahl (§§ 21 bis 23) eine Vorschlagsliste; 2.bei
 Mehrheitswahl nach den §§ 24 bis 30 so viele Namen, wie Mitglieder der
 Bordvertretung zu wählen sind.
 
-
 #### § 12 Stimmabgabe
 
 (1) Das Wahlrecht wird durch Abgabe eines Stimmzettels in einem
@@ -389,7 +371,6 @@ wählen (§§ 21 bis 23), so kann der Wahlberechtigte seine Stimme nur
 für die gesamte Vorschlagsliste abgeben. Ist nach den Grundsätzen der
 Mehrheitswahl zu wählen (§§ 24 bis 30), so ist die Stimme für die
 einzelnen Bewerberinnen oder Bewerber abzugeben.
-
 
 #### § 13 Wahlvorgang
 
@@ -429,13 +410,11 @@ unkundige Wählerinnen und Wähler.
 Stimmabgabe ausgezählt, so hat der Wahlvorstand die Wahlurnen zu
 versiegeln. Dasselbe gilt im Fall der Unterbrechung der Stimmabgabe.
 
-
 #### § 14 Öffentliche Stimmauszählung
 
 Unverzüglich nach Abschluss der Stimmabgabe nimmt der Wahlvorstand
 öffentlich die Auszählung der Stimmen vor und gibt das Wahlergebnis
 bekannt.
-
 
 #### § 15 Feststellung des Wahlergebnisses
 
@@ -476,7 +455,6 @@ sie nicht vollständig überein, so sind sie ungültig.
 
 entfallenen gültigen Stimmen zusammen.
 
-
 #### § 16 Wahlniederschrift
 
 (1) Nachdem ermittelt ist, wer gewählt ist, hat der Wahlvorstand in
@@ -515,7 +493,6 @@ zu unterzeichnen.
 Kapitän, dem Seebetriebsrat und den an Bord vertretenen Gewerkschaften
 unverzüglich zu übermitteln.
 
-
 #### § 17 Benachrichtigung der Bekanntmachung der Gewählten
 
 (1) Der Wahlvorstand hat die Gewählten unverzüglich schriftlich von
@@ -528,20 +505,14 @@ angenommen.
 durch einwöchigen Aushang in gleicher Weise bekannt zu machen wie das
 Wahlausschreiben.
 
-
 #### § 18 Aufbewahrung der Wahlakten
 
 Die Bordvertretung hat die Wahlakten mindestens bis zur Beendigung
 ihrer Amtszeit aufzubewahren.
 
-
 ### Zweiter Abschnitt - Besondere Vorschriften für die Wahl mehrerer Mitglieder der Bordvertretung
 
-
-
 #### Erster Unterabschnitt - Wahlvorschläge
-
-
 
 ##### § 19 Zusätzliche Erfordernisse
 
@@ -560,7 +531,6 @@ Vorschlagsliste vorgeschlagen werden.
 
 (4) Eine Verbindung von Vorschlagslisten ist unzulässig.
 
-
 ##### § 20 Ordnung der Vorschlagslisten
 
 Unverzüglich nach Ablauf der in § 6 Abs. 1, § 9 Abs. 2 und § 10 Abs. 1
@@ -569,10 +539,7 @@ der Ordnungsnummern, die den als gültig anerkannten Vorschlagslisten
 zugeteilt werden (Liste 1 usw.). Die Listenvertreterinnen oder
 Listenvertreter sind zu der Losentscheidung rechtzeitig einzuladen.
 
-
 #### Zweiter Unterabschnitt - Wahlverfahren bei mehreren Vorschlagslisten (Verhältniswahl)
-
-
 
 ##### § 21 Stimmzettel, Stimmabgabe
 
@@ -588,7 +555,6 @@ Kennwort anzugeben.
 (3) Die Wählerin oder der Wähler kreuzt auf dem Stimmzettel die
 Vorschlagsliste an, für die sie oder er ihre oder seine Stimme abgeben
 will. Die Stimme kann nur für eine Vorschlagsliste abgegeben werden.
-
 
 ##### § 22 Verteilung der Sitze auf die Vorschlagslisten
 
@@ -652,10 +618,6 @@ Folgendes:
     zuletzt ihren Sitz zu Gunsten des Geschlechts in der Minderheit nach
     Nummer 1 hätte abgeben müssen.
 
-
-
-
-
 ##### § 23 Ablehnung der Wahl
 
 Lehnt eine gewählte Person die Wahl ab, so tritt an ihre Stelle die in
@@ -667,10 +629,7 @@ Person desselben Geschlechts, wenn ansonsten das Geschlecht in der
 Minderheit nicht die ihm nach § 15 Abs. 2 des Gesetzes zustehenden
 Mindestsitze erhält. § 22 Abs. 5 Nr. 2 bis 5 gilt entsprechend.
 
-
 #### Dritter Unterabschnitt - Wahlverfahren bei nur einer Vorschlagsliste (Mehrheitswahl)
-
-
 
 ##### § 24 Stimmzettel, Stimmabgabe
 
@@ -688,7 +647,6 @@ abgeben will. Die Stimme kann nur für solche Bewerberinnen oder
 Bewerber abgegeben werden, die auf dem Stimmzettel aufgeführt sind. Es
 dürfen nicht mehr Namen angekreuzt werden, als Mitglieder der
 Bordvertretung zu wählen sind.
-
 
 ##### § 25 Ermittlung der Gewählten
 
@@ -715,7 +673,6 @@ zustehen, so sind die insoweit überschüssigen Mitgliedersitze des
 Geschlechts in der Minderheit bei der Sitzverteilung nach Absatz 2
 Satz 2 zu berücksichtigen.
 
-
 ##### § 26 Ablehnung der Wahl
 
 Lehnt eine gewählte Person die Wahl ab, so tritt an ihre Stelle die
@@ -729,16 +686,12 @@ Geschlechts, auf die Stimmen entfallen sind, geht dieser Sitz auf die
 nicht gewählte Person des anderen Geschlechts mit der nächsthöchsten
 Stimmenzahl über.
 
-
 ### Dritter Abschnitt - Besondere Vorschriften für die Wahl nur eines Mitglieds der Bordvertretung (Mehrheitswahl)
-
-
 
 #### § 27 Grundsatz für die Wahl des Mitglieds der Bordvertretung
 
 Ist nur ein Mitglied der Bordvertretung zu wählen, erfolgt die Wahl
 nach den Grundsätzen der Mehrheitswahl (§ 14 Abs. 2 des Gesetzes).
-
 
 #### § 28 Wahlvorschläge
 
@@ -748,7 +701,6 @@ Bordvertretung rechtswirksam nur einen Wahlvorschlag unterzeichnen.
 (2) Unverzüglich nach Ablauf der in § 6 Abs. 1, § 9 Abs. 2 und § 10
 Abs. 1 genannten Fristen ordnet der Wahlvorstand die als gültig
 anerkannten Wahlvorschläge in alphabetischer Reihenfolge.
-
 
 #### § 29 Stimmzettel, Stimmabgabe
 
@@ -762,7 +714,6 @@ abgeben will. Die Stimme kann nur für eine Bewerberin oder einen
 Bewerber abgegeben werden, die oder der auf dem Stimmzettel aufgeführt
 ist.
 
-
 #### § 30 Wahlergebnis
 
 (1) Als Mitglied der Bordvertretung ist gewählt, wer die meisten
@@ -771,10 +722,7 @@ Stimmen erhalten hat. Bei gleicher Stimmenzahl entscheidet das Los.
 (2) Lehnt die gewählte Person die Wahl ab, so tritt an ihre Stelle die
 nicht gewählte Person mit der nächsthöchsten Stimmenzahl.
 
-
 ### Vierter Abschnitt - Verkürztes Wahlverfahren gemäß § 115 Abs. 2 Nr. 6 des Gesetzes
-
-
 
 #### § 31 Verfahren
 
@@ -814,17 +762,9 @@ gelten die Vorschriften der §§ 1 bis 30 mit folgender Maßgabe:
     genannten Fristen für einen zügigen Fortgang der Wahl zu sorgen. Das
     Wahlausschreiben ist entsprechend zu berichtigen.
 
-
-
-
-
 ## Zweiter Teil - Wahl des Seebetriebsrats
 
-
-
 ### Erster Abschnitt - Allgemeine Vorschriften
-
-
 
 #### § 32 Wahlvorstand
 
@@ -850,7 +790,6 @@ mindestens den Wortlaut der gefassten Beschlüsse enthält. Die
 Niederschrift ist von der oder dem Vorsitzenden und einem weiteren
 stimmberechtigten Mitglied des Wahlvorstands zu unterzeichnen.
 
-
 #### § 33 Wählerliste
 
 (1) Der Wahlvorstand hat für jede Wahl des Seebetriebsrats eine Liste
@@ -869,7 +808,6 @@ Heuerverhältnis zum Seeschifffahrtsunternehmen eingeht oder beendet.
 (3) Wahlberechtigt sind nur Besatzungsmitglieder, die in die
 Wählerliste eingetragen sind.
 
-
 #### § 34 Wählbarkeitsliste
 
 (1) Sind zum Seebetriebsrat lediglich im Landbetrieb des
@@ -883,7 +821,6 @@ aufzustellen. § 33 Abs. 1 Satz 4 gilt entsprechend.
 des § 116 Abs. 2 Nr. 2 Buchstabe a des Gesetzes in die Wählerliste und
 im Fall des § 116 Abs. 2 Nr. 2 Buchstabe b des Gesetzes in die
 Wählbarkeitsliste eingetragen sind.
-
 
 #### § 35 Bekanntmachung
 
@@ -915,7 +852,6 @@ insbesondere über die Bedeutung der Wählerliste und der
 Wählbarkeitsliste, über die Aufstellung von Wahlvorschlägen und über
 die Stimmabgabe in geeigneter Weise unterrichtet werden.
 
-
 #### § 36 Einsprüche gegen die Wählerliste oder die Wählbarkeitsliste
 
 (1) Einsprüche gegen die Richtigkeit der Wählerliste oder der
@@ -934,7 +870,6 @@ eingelegt hat, unverzüglich schriftlich mitzuteilen.
 Einspruchsfrist nur bei Schreibfehlern, offenbaren Unrichtigkeiten und
 in Erledigung rechtzeitig eingelegter Einsprüche bis zum Abschluss der
 Stimmabgabe berichtigt werden; § 33 Abs. 2 bleibt unberührt.
-
 
 #### § 37 Bestimmung der Mindestsitze für das Geschlecht in der Minderheit
 
@@ -958,7 +893,6 @@ erhält so viele Mitgliedersitze zugeteilt, wie Höchstzahlen auf es
 entfallen. Wenn die niedrigste in Betracht kommende Höchstzahl auf
 beide Geschlechter zugleich entfällt, so entscheidet das Los darüber,
 welchem Geschlecht dieser Sitz zufällt.
-
 
 #### § 38 Wahlausschreiben
 
@@ -1104,7 +1038,6 @@ Abdruck des Wahlausschreibens sowie auf Verlangen einen Abdruck der
 Wählerliste und der Wählbarkeitsliste zu übersenden. Die Übersendung
 ist in der Wählerliste zu vermerken.
 
-
 #### § 39 Wahlvorschläge
 
 (1) Zur Wahl des Seebetriebsrats können die Wahlberechtigten
@@ -1121,7 +1054,6 @@ gilt die Unterzeichnerin oder der Unterzeichner als berechtigt, die
 oder der an erster Stelle steht.
 
 (4) Der Wahlvorschlag kann mit einem Kennwort versehen werden.
-
 
 #### § 40 Einreichungsfrist für Wahlvorschläge
 
@@ -1142,7 +1074,6 @@ Beratung mit dem Arbeitgeber die Frist zu verlängern. Sie darf jedoch
 insgesamt zwölf Wochen nicht überschreiten. Die Verlängerung der Frist
 ist unverzüglich in gleicher Weise wie das Wahlausschreiben bekannt zu
 machen.
-
 
 #### § 41 Zustimmungserklärung der Bewerberinnen und Bewerber
 
@@ -1167,7 +1098,6 @@ in der diese oder dieser
 nach Absatz 1 eingereicht, so gilt nur die Erklärung mit dem jüngsten
 Datum.
 
-
 #### § 42 Wahlvorschläge der Gewerkschaften
 
 (1) Für den Wahlvorschlag einer unter den Besatzungsmitgliedern des
@@ -1183,7 +1113,6 @@ Listenvertreterin oder Listenvertreter. Die Gewerkschaft kann hierfür
 eine Arbeitnehmerin oder einen Arbeitnehmer des
 Seeschifffahrtsunternehmens, die oder der ihr angehört, benennen.
 
-
 #### § 43 Behandlung der Wahlvorschläge durch den Wahlvorstand
 
 (1) Der Wahlvorstand hat den Zeitpunkt des Eingangs eines
@@ -1197,7 +1126,6 @@ Stelle Benannten zu bezeichnen. Er hat die Wahlvorschläge unverzüglich
 zu prüfen und bei Ungültigkeit oder Beanstandungen die
 Listenvertreterin oder den Listenvertreter unverzüglich schriftlich
 unter Angabe der Gründe zu unterrichten.
-
 
 #### § 44 Ungültige Wahlvorschläge
 
@@ -1229,10 +1157,6 @@ unter Angabe der Gründe zu unterrichten.
     Ablauf der für die Einreichung von Wahlvorschlägen festgesetzten Frist
     beseitigt werden.
 
-
-
-
-
 #### § 45 Nichteinreichung von Wahlvorschlägen
 
 Wird vor Ablauf der für die Einreichung von Wahlvorschlägen
@@ -1240,11 +1164,9 @@ festgesetzten Frist kein gültiger Wahlvorschlag eingereicht, so findet
 die Wahl nicht statt. Der Wahlvorstand hat dies unverzüglich in
 gleicher Weise wie das Wahlausschreiben bekannt zu machen.
 
-
 #### § 46 Briefwahl
 
 Die Mitglieder des Seebetriebsrats werden durch Briefwahl gewählt.
-
 
 #### § 47 Vorbereitung der Stimmabgabe
 
@@ -1267,7 +1189,6 @@ Unterlagen herzustellen:
 
 Die Stimmzettel müssen alle dieselbe Größe, Farbe, Beschaffenheit und
 Beschriftung haben; dasselbe gilt für die Wahlumschläge.
-
 
 #### § 48 Bekanntmachungen zur Stimmabgabe
 
@@ -1335,7 +1256,6 @@ oder, wenn eine solche nicht besteht, der Kapitän hat jedem
 Besatzungsmitglied die zur Stimmabgabe erforderlichen Unterlagen
 auszuhändigen.
 
-
 #### § 49 Frist für die Stimmabgabe
 
 (1) Die Wahlbriefe müssen vor Ablauf von fünf Wochen nach ihrer
@@ -1353,7 +1273,6 @@ Beratung mit dem Arbeitgeber die Frist zu verlängern. Sie darf jedoch
 insgesamt zwölf Wochen nicht überschreiten. Die Verlängerung der Frist
 ist unverzüglich in gleicher Weise wie das Wahlausschreiben bekannt zu
 machen.
-
 
 #### § 50 Stimmabgabe
 
@@ -1381,7 +1300,6 @@ für die einzelnen Bewerber abzugeben.
 
 Die Wahlbriefe der Besatzungsmitglieder eines Schiffes sollen
 möglichst gleichzeitig abgesandt werden.
-
 
 #### § 51 Behandlung der Wahlbriefe durch den Wahlvorstand
 
@@ -1440,13 +1358,11 @@ worden.
 Wahlumschläge in die Wahlurnen ausgezählt, so hat der Wahlvorstand die
 Wahlurnen zu versiegeln.
 
-
 #### § 52 Öffentliche Stimmauszählung
 
 Unverzüglich nach Einwurf der Wahlumschläge in die Wahlurnen (§ 51
 Abs. 2) nimmt der Wahlvorstand öffentlich die Auszählung der Stimmen
 vor und gibt das Wahlergebnis bekannt.
-
 
 #### § 53 Feststellung des Wahlergebnisses
 
@@ -1483,7 +1399,6 @@ sie nicht vollständig überein, so sind sie ungültig.
 
 
 entfallenen gültigen Stimmen zusammen.
-
 
 #### § 54 Wahlniederschrift
 
@@ -1526,7 +1441,6 @@ zu unterzeichnen.
 Arbeitgeber und den unter den Besatzungsmitgliedern vertretenen
 Gewerkschaften unverzüglich zu übersenden.
 
-
 #### § 55 Benachrichtigung und Bekanntmachung der Gewählten
 
 (1) Der Wahlvorstand hat die Gewählten unverzüglich schriftlich von
@@ -1536,16 +1450,12 @@ ihrer Wahl zu benachrichtigen.
 durch einwöchigen Aushang in gleicher Weise bekannt zu machen wie das
 Wahlausschreiben.
 
-
 #### § 56 Aufbewahrung der Wahlakten
 
 Der Seebetriebsrat hat die Wahlakten mindestens bis zur Beendigung
 seiner Amtszeit aufzubewahren.
 
-
 ### Zweiter Abschnitt - Besondere Vorschriften
-
-
 
 #### § 57 Wahl mehrerer Mitglieder des Seebetriebsrats
 
@@ -1563,10 +1473,6 @@ des Seebetriebsrats mit folgender Maßgabe entsprechend:
 3.  Das Ergebnis der Auslosung (§ 20 Satz 1) ist in die
     Sitzungsniederschrift des Wahlvorstands aufzunehmen.
 
-
-
-
-
 #### § 58 Wahl nur eines Mitglieds des Seebetriebsrats
 
 Die Vorschriften der §§ 27 bis 30 gelten für die Wahl nur eines
@@ -1575,10 +1481,7 @@ die Stelle der in § 28 Abs. 2 genannten Fristen die für die
 Einreichung von Wahlvorschlägen für die Wahl des Seebetriebsrats
 festgesetzte Frist (§ 40) tritt.
 
-
 ## Dritter Teil - Übergangs- und Schlussvorschriften
-
-
 
 ### § 59 Berechnung der Fristen
 
@@ -1588,11 +1491,9 @@ Ereignis folgt. Im Übrigen gelten für die Berechnung der in dieser
 Verordnung festgelegten Fristen die §§ 186 bis 193 des Bürgerlichen
 Gesetzbuchs.
 
-
 ### § 60 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ### Schlussformel
 

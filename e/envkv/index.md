@@ -25,14 +25,12 @@ und anderen Ressourcen durch Haushaltsgeräte mittels einheitlicher
 Etiketten und Produktinformationen (ABl. EG Nr. L 297 S. 16) sowie der
 in Anlage 1 aufgeführten Richtlinien.
 
-
 ## Eingangsformel
 
 Auf Grund des § 1 Abs. 1 Nr. 1 des
 Energieverbrauchskennzeichnungsgesetzes vom 1. Juli 1997 (BGBl. I S.
 1632) verordnet das Bundesministerium für Wirtschaft im Einvernehmen
 mit dem Bundesministerium für Arbeit und Sozialordnung:
-
 
 ## § 1 Anwendungsbereich
 
@@ -61,10 +59,6 @@ Ressourcen haben.
 
 5.  Produkte, die ausschließlich zur Verwendung für militärische Zwecke
     bestimmt sind.
-
-
-
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -127,10 +121,6 @@ Im Sinne dieser Verordnung
     Auswirkungen von Produkten, die selbst keine Energie verbrauchen,
     jedoch während des Gebrauchs zur Einsparung von Energie beitragen.
 
-
-
-
-
 ## § 3 Kennzeichnungspflicht
 
 (1) Energieverbrauchsrelevante Produkte, die für den Endverbraucher am
@@ -158,7 +148,6 @@ Angaben, so sind sie für deren Richtigkeit verantwortlich.
 eingebaute oder installierte Produkte nur dann, wenn dies in Anlage 1
 oder einer Verordnung der Europäischen Union nach Anlage 2 bestimmt
 ist.
-
 
 ## § 4 Etiketten, Datenblätter
 
@@ -243,7 +232,6 @@ Datenblätter mit anderen Unterlagen zur Verfügung zu stellen, die sie
 zu den energieverbrauchsrelevanten Produkten mitliefern. Satz 2 gilt
 nicht für Lampen im Sinne der Zeile 6 der Tabelle 1 zu Anlage 1.
 
-
 ## § 5 Nicht ausgestellte Geräte
 
 Werden energieverbrauchsrelevante Produkte über den Versandhandel, in
@@ -254,7 +242,6 @@ Lieferanten und Händler sicherzustellen, dass die Interessenten vor
 Vertragsschluss Kenntnis von den erforderlichen Angaben nach den
 Nummern 3, 6 und 7 der Anlage 1 oder den Verordnungen der Europäischen
 Union nach Anlage 2 erlangen.
-
 
 ## § 6 Technische Dokumentation
 
@@ -280,7 +267,6 @@ Abkommens über den Europäischen Wirtschaftsraum und der Europäischen
 Kommission auf Verlangen nach Eingang eines Antrags innerhalb von zehn
 Arbeitstagen in elektronischer Form zur Verfügung.
 
-
 ## § 6a Anforderungen an die Werbung
 
 Lieferanten und Händler haben sicherzustellen, dass bei der Werbung
@@ -288,7 +274,6 @@ für ein bestimmtes Produktmodell im Sinne der Anlagen 1 und 2 auf die
 Energieeffizienzklasse des Produkts hingewiesen wird, sofern in der
 Werbung Informationen über den Energieverbrauch oder den Preis
 angegeben werden.
-
 
 ## § 6b Anforderungen an technische Werbeschriften
 
@@ -301,7 +286,6 @@ eines Produkts beschrieben werden und sich aus den in Anlage 2
 genannten Verordnungen der Europäischen Union nichts Abweichendes
 ergibt.
 
-
 ## § 7 Missbräuchliche Verwendung von Bezeichnungen
 
 Es ist verboten, Marken, Symbole, Beschriftungen oder andere Etiketten
@@ -313,7 +297,6 @@ Unklarheit hinsichtlich des Verbrauchs an Energie oder an anderen
 wichtigen Ressourcen während des Gebrauchs führen. Dieses Verbot gilt
 nicht für von der Europäischen Union vorgegebene oder einzelstaatliche
 Umweltkennzeichnungsregelungen.
-
 
 ## § 8 Ordnungswidrigkeiten
 
@@ -364,19 +347,13 @@ fahrlässig
 
 10. entgegen § 7 Satz 1 eine dort genannte Bezeichnung verwendet.
 
-
-
-
-
 ## § 10
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage 1 Kennzeichnungspflicht für Haushaltsgeräte
 
@@ -599,7 +576,6 @@ durchgeführten Messungen enthalten.
 Sofern die nachfolgenden Richtlinien durch Verordnungen der
 Europäischen Union nach Anlage 2 ersetzt wurden, bestimmen sich die
 Inhalte der Kennzeichnungspflicht nach Anlage 2.
-
 
 ## Tabelle 1
 
@@ -834,10 +810,6 @@ Inhalte der Kennzeichnungspflicht nach Anlage 2.
 
 4)  Der Energieverbrauch von Dampfgarfunktionen, ausgenommen Heißdampf-
     Funktionen, fällt nicht in den Anwendungsbereich dieser Verordnung.
-
-
-
-
 
 ## Anlage 2
 

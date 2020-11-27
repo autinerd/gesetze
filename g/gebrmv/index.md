@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 V v. 10.12.2012 I 2630
 
-
 ## Eingangsformel
 
 Auf Grund des § 4 Abs. 4 des Gebrauchsmustergesetzes in der Fassung
@@ -29,10 +28,7 @@ des Gesetzes vom 13. Dezember 2001 (BGBl. I S. 3656) sowie in
 Verbindung mit § 1 Abs. 2 der DPMA-Verordnung vom 1. April 2004 (BGBl.
 I S. 514) verordnet das Deutsche Patent- und Markenamt:
 
-
 ## Abschnitt 1 - Allgemeines
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -45,10 +41,7 @@ der DPMA-Verordnung die Bestimmungen dieser Verordnung.
 Beuth-Verlag GmbH, Berlin und Köln, erschienen und beim Deutschen
 Patent- und Markenamt archivmäßig gesichert niedergelegt.
 
-
 ## Abschnitt 2 - Gebrauchsmusteranmeldungen
-
-
 
 ### § 2 Form der Einreichung
 
@@ -56,7 +49,6 @@ Erfindungen, für die der Schutz als Gebrauchsmuster verlangt wird (§ 1
 Abs. 1 des Gebrauchsmustergesetzes), sind beim Deutschen Patent- und
 Markenamt schriftlich anzumelden. Für die elektronische Einreichung
 ist § 12 der DPMA-Verordnung maßgebend.
-
 
 ### § 3 Eintragungsantrag
 
@@ -147,7 +139,6 @@ Auf beim Deutschen Patent- und Markenamt für die Unterzeichner
 hinterlegte Angestelltenvollmachten ist unter Angabe der hierfür
 mitgeteilten Kennnummer hinzuweisen.
 
-
 ### § 4 Anmeldungsunterlagen
 
 (1) Die Schutzansprüche, die Beschreibung und die Zeichnungen sind auf
@@ -219,10 +210,6 @@ andere Anmeldungen betreffen.
     Kontrast zu verwenden. Die Buchstaben der verwendeten Schrift müssen
     deutlich voneinander getrennt sein und dürfen sich nicht berühren.
 
-
-
-
-
 ### § 5 Schutzansprüche
 
 (1) In den Schutzansprüchen kann das, was als gebrauchsmusterfähig
@@ -273,7 +260,6 @@ Bezugnahmen auf die Beschreibung oder die Zeichnungen enthalten, z. B.
 Schutzansprüchen angegebenen Merkmale mit ihren Bezugszeichen versehen
 sein.
 
-
 ### § 6 Beschreibung
 
 (1) Am Anfang der Beschreibung (§ 4 Abs. 3 Nr. 4 des
@@ -323,7 +309,6 @@ oder solche Angaben aufzunehmen, die zum Erläutern der Erfindung
 offensichtlich nicht notwendig sind. Wiederholungen von
 Schutzansprüchen oder Anspruchsteilen können durch Bezugnahme auf
 diese ersetzt werden.
-
 
 ### § 7 Zeichnungen
 
@@ -386,7 +371,6 @@ sind kurze unentbehrliche Angaben wie "Wasser", "Dampf", "offen",
 Blockschaltbildern kurze Stichworte, die für das Verständnis notwendig
 sind.
 
-
 ### § 8 Abzweigung
 
 (1) Hat der Anmelder mit Wirkung für die Bundesrepublik Deutschland
@@ -405,7 +389,6 @@ des Gebrauchsmustergesetzes).
 Gebrauchsmustergesetzes) ist eine deutsche Übersetzung beizufügen, es
 sei denn, die Anmeldungsunterlagen stellen bereits die Übersetzung der
 fremdsprachigen Patentanmeldung dar.
-
 
 ### § 9 Deutsche Übersetzungen
 
@@ -456,10 +439,7 @@ bestellten Übersetzer angefertigt sein. Wird die Übersetzung nicht
 fristgerecht eingereicht, so gilt das fremdsprachige Schriftstück als
 zum Zeitpunkt des Eingangs der Übersetzung zugegangen.
 
-
 ## Abschnitt 3 - Schlussvorschriften
-
-
 
 ### § 10 Übergangsregelung aus Anlass des Inkrafttretens dieser Verordnung
 
@@ -469,13 +449,11 @@ Gebrauchsmusteranmeldeverordnung vom 12. November 1986 (BGBl. I S.
 1739), zuletzt geändert durch Artikel 22 des Gesetzes vom 13. Dezember
 2001 (BGBl. I S. 3656).
 
-
 ### § 11 Übergangsregelung für künftige Änderungen
 
 Für Gebrauchsmusteranmeldungen, die vor Inkrafttreten von Änderungen
 dieser Verordnung eingereicht worden sind, gelten die Vorschriften
 dieser Verordnung in ihrer bis dahin geltenden Fassung.
-
 
 ### § 12 Inkrafttreten, Außerkrafttreten
 

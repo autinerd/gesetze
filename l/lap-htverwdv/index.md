@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 Abs. 37 V v. 12.2.2009 I 320
 
-
 ## Eingangsformel
 
 Auf Grund des § 15 Abs. 1 Nr. 2 des Bundesbeamtengesetzes in der
@@ -29,14 +28,9 @@ der Bekanntmachung vom 2. Juli 2002 (BGBl. I S. 2459, 2671) verordnet
 das Bundesministerium für Verkehr, Bau- und Wohnungswesen im
 Einvernehmen mit dem Bundesministerium des Innern:
 
-
 ## Teil 1 - Allgemeiner Teil
 
-
-
 ### Kapitel 1 - Anwendungsbereich, Laufbahn, Ausbildung
-
-
 
 #### § 1 Anwendungsbereich
 
@@ -47,7 +41,6 @@ Luftfahrttechnik.
 
 (2) Soweit Teil 2 nichts Abweichendes regelt, gelten die Bestimmungen
 des Teils 1 für alle Fachrichtungen der Laufbahn.
-
 
 #### § 2 Laufbahnämter
 
@@ -116,7 +109,6 @@ der Anlage I des Bundesbesoldungsgesetzes.
 (3) Die Ämter nach Absatz 1 Satz 1 Nr. 1 bis 4 sind regelmäßig zu
 durchlaufen.
 
-
 #### § 3 Ziel und Inhalt der Ausbildung
 
 (1) Die Ausbildung führt zur Berufsbefähigung. Sie vermittelt den
@@ -147,7 +139,6 @@ Arbeiten, die den Beamtinnen und Beamten während der Ausbildung zu
 (3) Die Beamtinnen und Beamten sind zum Selbststudium verpflichtet;
 das Selbststudium ist zu fördern.
 
-
 #### § 4 Einstellungsbehörde
 
 Einstellungsbehörde ist das Bundesministerium für Verkehr, Bau- und
@@ -160,7 +151,6 @@ Baureferendarinnen und Baureferendare; sie trifft die Entscheidungen
 Einstellungsbehörde ist die für die beamtenrechtlichen Entscheidungen
 zuständige Dienstbehörde, soweit diese Befugnisse nicht auf die
 Ausbildungsbehörde delegiert sind.
-
 
 #### § 5 Einstellungsvoraussetzungen
 
@@ -190,10 +180,6 @@ In den Vorbereitungsdienst kann eingestellt werden, wer
     erfolgreich abgeschlossen oder an einer Fachhochschule einen
     Masterabschluss mit Akkreditierung für die Laufbahn des höheren
     Dienstes erworben hat.
-
-
-
-
 
 #### § 6 Ausschreibung, Bewerbung
 
@@ -243,13 +229,6 @@ Bewerbung sind beizufügen:
 
     c)  eine Ablichtung des Zulassungs- oder Eingliederungsscheins oder der
         Bestätigung nach § 10 Abs. 4 des Soldatenversorgungsgesetzes.
-
-
-
-
-
-
-
 
 #### § 7 Auswahlverfahren
 
@@ -304,7 +283,6 @@ Rangfolge aller Bewerberinnen und Bewerber festgelegt.
 (7) Die Mitglieder und Ersatzmitglieder der Auswahlkommission werden
 von der Einstellungsbehörde für die Dauer von drei Jahren bestellt.
 
-
 #### § 8 Einstellung in den Vorbereitungsdienst
 
 (1) Die Einstellungsbehörde entscheidet nach dem Ergebnis des
@@ -355,7 +333,6 @@ weitere Unterlagen beizubringen:
 
 Die Kosten des Gesundheitszeugnisses trägt die Einstellungsbehörde.
 
-
 #### § 9 Rechtsstellung während des Vorbereitungsdienstes
 
 (1) Mit ihrer Einstellung werden - unter Berufung in das
@@ -366,7 +343,6 @@ und Bewerber zu Baureferendaren ernannt.
 Dienstaufsicht der Ausbildungsbehörde. Während der Ausbildung
 außerhalb der Ausbildungsbehörde in einer Bundes-, Landes- oder
 Kommunalbehörde unterstehen sie auch deren Dienstaufsicht.
-
 
 #### § 10 Dauer, Verkürzung und Verlängerung des Vorbereitungsdienstes
 
@@ -418,18 +394,15 @@ zweimal um nicht mehr als insgesamt zwölf Monate verlängert werden.
 (7) Bei Nichtbestehen der Laufbahnprüfung richtet sich die
 Verlängerung des Vorbereitungsdienstes nach § 35 Abs. 2 und 3.
 
-
 #### § 11 Urlaub während des Vorbereitungsdienstes
 
 Urlaub wird auf den Vorbereitungsdienst angerechnet.
-
 
 #### § 12 Ausbildungsakte
 
 Für die Baureferendarinnen und Baureferendare sind Personalteilakten
 "Ausbildung" zu führen, in die der Ausbildungsplan sowie alle
 Beurteilungen und Prüfungsergebnisse aufzunehmen sind.
-
 
 #### § 13 Schwerbehinderte Menschen
 
@@ -457,14 +430,12 @@ Oberprüfungsamt.
 (4) Bezüglich der Beurteilungen während der Ausbildung nach § 17 wird
 auf die Rahmenintegrationsvereinbarung hingewiesen.
 
-
 #### § 14 Gliederung des Vorbereitungsdienstes
 
 Die Gliederung des Vorbereitungsdienstes richtet sich nach den
 Bedürfnissen der einzelnen Fachrichtungen. Anzahl, Dauer und Inhalt
 der Ausbildungsabschnitte sind für jede Fachrichtung in Teil 2
 geregelt.
-
 
 #### § 15 Grundsätze der Ausbildung
 
@@ -484,7 +455,6 @@ Ausbildungsabschnitten und die Große Staatsprüfung.
 
 (3) Die Ausbildung wird insbesondere durch Lehrgänge, Seminare,
 Planspiele, Arbeitsgemeinschaften oder Exkursionen vertieft.
-
 
 #### § 16 Ausbildungsbehörde, Ausbildungsleitung, Ausbilderinnen und Ausbilder
 
@@ -538,7 +508,6 @@ vorzulegen.
 (7) Die Ausbildungsbehörde führt für die Baureferendarinnen und
 Baureferendare eine Übersicht über den Vorbereitungsdienst.
 
-
 #### § 17 Beurteilungen während der Ausbildung
 
 (1) Über die Leistungen und den Befähigungsstand der
@@ -563,10 +532,7 @@ abschließende Beurteilung. In ihr werden die Beurteilungen nach Absatz
 Charaktereigenschaften und die Fähigkeit zum freien Vortrag der
 Baureferendarinnen und Baureferendare Aufschluss geben.
 
-
 ### Kapitel 2 - Aufstieg
-
-
 
 #### § 18 Ausbildungsaufstieg
 
@@ -628,7 +594,6 @@ des Gesetzes vom 5. Februar 2009 (BGBl. I S. 160) geändert worden ist,
 können auch Arbeitnehmerinnen und Arbeitnehmer des Bundes an der
 Aufstiegsausbildung teilnehmen.
 
-
 #### § 19 Praxisaufstieg
 
 (1) Die Einstellungsbehörde benennt die Beamtinnen und Beamten, die am
@@ -674,10 +639,7 @@ Laufbahnbefähigung bleiben die Beamtinnen und Beamten bis zur
 Verleihung des Eingangsamtes der neuen Laufbahn in ihrer bisherigen
 Rechtsstellung.
 
-
 ### Kapitel 3 - Prüfungen
-
-
 
 #### § 20 Oberprüfungsamt
 
@@ -713,7 +675,6 @@ angelegt werden. Zur Wahrnehmung dieser Aufgaben kann sie oder er sich
 an den Prüfungen beteiligen und gilt in diesem Falle von Amts wegen
 als weiteres Mitglied des Prüfungsausschusses oder der
 Prüfungskommission. Dies gilt entsprechend für die Vertretungen.
-
 
 #### § 21 Prüfungskommissionen
 
@@ -759,7 +720,6 @@ oder der Vorsitzende, anwesend sind. Sie entscheidet mit
 Stimmenmehrheit. Bei Stimmengleichheit gibt die Stimme der oder des
 Vorsitzenden den Ausschlag. Stimmenthaltung ist nicht zulässig.
 
-
 #### § 22 Große Staatsprüfung
 
 (1) In der Großen Staatsprüfung ist festzustellen, ob die
@@ -798,7 +758,6 @@ Schwerbehindertenvertretung anwesend sein. Bei den Beratungen der
 Prüfungskommission über die Bewertung der Prüfungsleistungen dürfen
 nur deren Mitglieder anwesend sein.
 
-
 #### § 23 Prüfungsort, Prüfungstermin
 
 (1) Der Termin der häuslichen Prüfungsarbeit wird vom Oberprüfungsamt
@@ -811,7 +770,6 @@ unter Aufsicht und der mündlichen Prüfung fest und teilt dies den
 Baureferendarinnen und Baureferendaren rechtzeitig mit. Dieser Teil
 der Großen Staatsprüfung findet am Sitz des Oberprüfungsamtes oder an
 einem anderen von ihm zu bestimmenden Prüfungsort statt.
-
 
 #### § 24 Zulassung zur Großen Staatsprüfung
 
@@ -846,7 +804,6 @@ Zulassungsantrag beigefügten Unterlagen werden gleichzeitig
 zurückgegeben. Sie sind zu vervollständigen und dem Oberprüfungsamt
 mit der abschließenden Beurteilung nach § 17 Abs. 3 rechtzeitig vor
 den schriftlichen Arbeiten unter Aufsicht wieder zuzuleiten.
-
 
 #### § 25 Häusliche Prüfungsarbeit
 
@@ -908,7 +865,6 @@ Vorbereitungsdienst und damit das Beamtenverhältnis auf Widerruf.
 (8) Die Verfasserin oder der Verfasser der häuslichen Prüfungsarbeit
 kann die Arbeit frühestens fünf Jahre nach Abschluss der Prüfung
 zurückverlangen.
-
 
 #### § 26 Schriftliche Arbeiten unter Aufsicht
 
@@ -981,7 +937,6 @@ darf. Ansonsten ist die Große Staatsprüfung nicht bestanden. Hierüber
 erhält die Baureferendarin oder der Baureferendar vom Oberprüfungsamt
 einen Bescheid mit Rechtsbehelfsbelehrung.
 
-
 #### § 27 Mündliche Prüfung
 
 (1) Die mündliche Prüfung soll neben dem Wissen und Können der
@@ -1044,7 +999,6 @@ befriedigende Noten oder eine mindestens gute Note gegeben.
 (9) Über den Ablauf der Prüfung wird eine Niederschrift gefertigt, die
 die Mitglieder der jeweiligen Prüfungskommission unterschreiben.
 
-
 #### § 28 Verhinderung, Rücktritt, Säumnis
 
 (1) Wer durch eine Erkrankung oder sonstige nicht zu vertretende
@@ -1069,7 +1023,6 @@ erbrachte Prüfungsleistung nachgeholt werden kann, mit "ungenügend"
 (Punktzahl 6,0) bewertet oder die gesamte Prüfung für nicht bestanden
 erklärt wird. Die Entscheidung ist mit einer Rechtsbehelfsbelehrung zu
 versehen.
-
 
 #### § 29 Täuschung, Ordnungsverstoß
 
@@ -1106,7 +1059,6 @@ einer Rechtsbehelfsbelehrung zu versehen.
 
 (4) Betroffene sind vor der Entscheidung nach den Absätzen 2 und 3 zu
 hören.
-
 
 #### § 30 Bewertung von Prüfungsleistungen
 
@@ -1155,7 +1107,6 @@ Die Leistungen werden mit folgenden Noten und Punktzahlen bewertet:
 
 
 Andere Punktzahlen oder Zwischennoten dürfen nicht verwendet werden.
-
 
 #### § 31 Gesamtergebnis
 
@@ -1223,7 +1174,6 @@ Prüfungsteilnehmerinnen und Prüfungsteilnehmer hierüber eine
 Bescheinigung des Oberprüfungsamtes, die auch Angaben über die
 Berufsbezeichnung enthält.
 
-
 #### § 32 Zeugnis
 
 (1) Das Oberprüfungsamt erteilt den Baureferendarinnen und
@@ -1250,7 +1200,6 @@ Mitteilung der Prüfungsergebnisse werden durch das Oberprüfungsamt
 berichtigt. Unrichtige Prüfungszeugnisse sind zurückzugeben. In den
 Fällen des § 29 Abs. 3 Satz 1 ist das Prüfungszeugnis zurückzugeben.
 
-
 #### § 33 Erwerb der Laufbahnbefähigung
 
 Mit dem Bestehen der Großen Staatsprüfung erwerben die
@@ -1258,7 +1207,6 @@ Baureferendarinnen und Baureferendare die Befähigung zum höheren
 bautechnischen Verwaltungsdienst des Bundes. Sie sind berechtigt, die
 Berufsbezeichnung "Bauassessorin" oder "Bauassessor" mit einem die
 Fachrichtung bezeichnenden Zusatz zu führen.
-
 
 #### § 34 Prüfungsakten, Einsichtnahme
 
@@ -1272,7 +1220,6 @@ bestimmten Stelle mindestens fünf Jahre aufbewahrt.
 (2) Die Baureferendarinnen und Baureferendare können nach Abschluss
 der Großen Staatsprüfung Einsicht in die sie betreffenden Teile der
 Prüfungsakten nehmen.
-
 
 #### § 35 Wiederholung
 
@@ -1325,14 +1272,9 @@ Präsidentin oder den Präsidenten des Oberprüfungsamtes zuzuleiten. Die
 Beendigung des Beamtenverhältnisses nach § 32 Abs. 1 Satz 5 bleibt
 hiervon unberührt.
 
-
 ## Teil 2 - Sondervorschriften für die einzelnen Fachrichtungen
 
-
-
 ### Kapitel 1 - Fachrichtung Hochbau
-
-
 
 #### § 36 Einstellungsvoraussetzungen
 
@@ -1342,7 +1284,6 @@ Architektur mit einer Regelstudienzeit von mindestens acht
 Fachsemestern - ohne Praxis- und Prüfungssemester - an einer
 wissenschaftlichen Hochschule oder einen entsprechenden Master-
 Abschluss nachweisen.
-
 
 #### § 37 Gliederung der Ausbildung
 
@@ -1470,9 +1411,6 @@ Ausbildungsplan
 
     *
 
-
-
-
 #### § 38 Prüfungsfächer, Prüfungszeiten
 
    Für die schriftliche und mündliche Prüfung sind folgende
@@ -1535,10 +1473,6 @@ Prüfung:
 
     *   6 1/2
 
-
-
-
-
 #### § 39 Aufstieg
 
 Unter den Voraussetzungen der §§ 18 und 19 können Beamtinnen und
@@ -1547,10 +1481,7 @@ Fachrichtung Hochbau - für den Aufstieg in die Laufbahn des höheren
 technischen Verwaltungsdienstes des Bundes - Fachrichtung Hochbau -
 zugelassen werden.
 
-
 ### Kapitel 2 - Fachrichtung Bauingenieurwesen
-
-
 
 #### § 40 Einstellungsvoraussetzungen, Fachgebiet
 
@@ -1561,7 +1492,6 @@ Fachsemestern - ohne Praxis- und Prüfungssemester - an einer
 wissenschaftlichen Hochschule oder einen entsprechenden Master-
 Abschluss nachweisen. Sie werden im Fachgebiet Wasserwesen,
 Fachbereich "Wasserstraßen", ausgebildet.
-
 
 #### § 41 Gliederung der Ausbildung
 
@@ -1927,10 +1857,6 @@ bis III geändert werden.
 \*) Gemeinsam mit den Referendarinnen und Referendaren der
     Wasserwirtschaftsverwaltungen der Länder.
 
-
-
-
-
 #### § 42 Prüfungsfächer, Prüfungszeiten
 
 Für die schriftliche und mündliche Prüfung sind folgende
@@ -2001,10 +1927,6 @@ Prüfung:
 
     *   6 1/2
 
-
-
-
-
 #### § 43 Aufstieg
 
 Unter den Voraussetzungen der §§ 18 und 19 können Beamtinnen und
@@ -2013,10 +1935,7 @@ und Schifffahrtsverwaltung des Bundes für den Aufstieg in die Laufbahn
 des höheren technischen Verwaltungsdienstes des Bundes - Fachrichtung
 Wasserwesen, Fachbereich Wasserstraßen - zugelassen werden.
 
-
 ### Kapitel 3 - Fachrichtung Bahnwesen
-
-
 
 #### § 44 Schwerpunktgebiete, Einstellungsvoraussetzungen
 
@@ -2041,7 +1960,6 @@ eines vergleichbaren Studienganges mit einer Regelstudienzeit von
 mindestens acht Fachsemestern - ohne Praxis- und Prüfungssemester - an
 einer wissenschaftlichen Hochschule oder einen entsprechenden Master-
 Abschluss nachweisen.
-
 
 #### § 45 Gliederung der Ausbildung
 
@@ -2426,10 +2344,6 @@ Ausbildung und Lehrgänge, die aufeinander abgestimmt werden.
 
 3)  Nur Umweltamt.
 
-
-
-
-
 #### § 46 Prüfungsfächer, Prüfungszeiten
 
 Für die schriftliche und mündliche Prüfung sind folgende
@@ -2595,10 +2509,6 @@ Prüfung:
 
     *   2 1/4
 
-
-
-
-
 #### § 47 Aufstieg
 
 Unter den Voraussetzungen der §§ 18 und 19 können Beamtinnen und
@@ -2607,10 +2517,7 @@ für den Aufstieg in die Laufbahn des höheren technischen
 Verwaltungsdienstes des Bundes - Fachrichtung Bahnwesen - zugelassen
 werden.
 
-
 ### Kapitel 4 - Fachrichtung Maschinen- und Elektrotechnik
-
-
 
 #### § 48 Fachgebiete, Einstellungsvoraussetzungen
 
@@ -2628,7 +2535,6 @@ Fachrichtungen gegenseitig anzuerkennen sind, mit einer
 Regelstudienzeit von mindestens acht Fachsemestern - ohne Praxis- und
 Prüfungssemester - an einer wissenschaftlichen Hochschule oder einen
 entsprechenden Master-Abschluss nachweisen.
-
 
 #### § 49 Gliederung der Ausbildung
 
@@ -3045,9 +2951,6 @@ Fachrichtung: Maschinen- und Elektrotechnik
 
     *
 
-
-
-
 #### § 50 Prüfungsfächer, Prüfungszeiten
 
    Für die schriftliche und mündliche Prüfung sind folgende
@@ -3188,10 +3091,6 @@ Prüfung:
 
     *   6 1/2
 
-
-
-
-
 #### § 51 Aufstieg
 
 Unter den Voraussetzungen der §§ 18 und 19 können Beamtinnen und
@@ -3201,10 +3100,7 @@ Verwaltungsdienstes des Bundes für den Aufstieg in die Laufbahn des
 höheren technischen Verwaltungsdienstes des Bundes - Fachrichtung
 Maschinen- und Elektrotechnik - zugelassen werden.
 
-
 ### Kapitel 5 - Fachrichtung Luftfahrttechnik
-
-
 
 #### § 52 Einstellungsvoraussetzungen
 
@@ -3219,7 +3115,6 @@ Abschluss nachweisen.
 
 (2) Bewerberinnen und Bewerber müssen englische Sprachkenntnisse
 besitzen.
-
 
 #### § 53 Gliederung der Ausbildung
 
@@ -3429,9 +3324,6 @@ Ausbildung und Lehrgänge, die aufeinander abgestimmt werden:
 
     *
 
-
-
-
 #### § 54 Prüfungsfächer, Prüfungszeiten
 
    Für die schriftliche und mündliche Prüfung sind folgende
@@ -3502,10 +3394,6 @@ Prüfung:
 
     *   6 1/2
 
-
-
-
-
 #### § 55 Aufstieg
 
 Unter den Voraussetzungen der §§ 18 und 19 können Beamtinnen und
@@ -3514,10 +3402,7 @@ technischen Dienstes mit Bezug zur Luftfahrt für den Aufstieg in die
 Laufbahn des höheren technischen Verwaltungsdienstes des Bundes -
 Fachrichtung Luftfahrttechnik - zugelassen werden.
 
-
 ## Teil 3 - Sonstige Vorschriften
-
-
 
 ### § 56 Übergangsregelung
 
@@ -3527,7 +3412,6 @@ befinden, gelten die Bestimmungen der Ausbildungs- und Prüfungsordnung
 für den höheren bautechnischen Verwaltungsdienst des Bundes vom 19.
 Dezember 1990 (VkBl. 1991 S. 82), geändert durch Verwaltungsvorschrift
 vom 23. November 1998 (VkBl. S. 1338), weiter.
-
 
 ### § 57 Inkrafttreten
 

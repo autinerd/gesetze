@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 Nr. 17 u. Art. 2 § 1 Nr. 1, § 2 Nr. 1, § 3 Nr. 1 und § 4 Nr. 1 u. 8 V v. 15.4.1999 I 711
 
-
 ## Eingangsformel
 
 Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August
@@ -31,7 +30,6 @@ ist, und unter Berücksichtigung des § 28 des
 Ausbildungsplatzförderungsgesetzes vom 7. September 1976 (BGBl. I S.
 2658) wird im Einvernehmen mit dem Bundesminister für Wirtschaft
 verordnet:
-
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
 
@@ -81,7 +79,6 @@ Aufgabenbereich wahrzunehmen:
 (3) Die erfolgreich abgelegte Prüfung führt zum anerkannten Abschluß
 Geprüfter Polier.
 
-
 ## § 2 Zulassungsvorausssetzungen
 
 (1) Zur Polierprüfung ist zuzulassen, wer
@@ -110,7 +107,6 @@ werden, wer durch Vorlage von Zeugnissen oder auf andere Weise
 glaubhaft macht, daß er Kenntnisse, Fertigkeiten und Erfahrungen
 erworben hat, die die Zulassung zur Prüfung rechtfertigen.
 
-
 ## § 3 Gliederung und Inhalt der Prüfung
 
 (1) Die Polierprüfung gliedert sich in
@@ -130,7 +126,6 @@ erworben hat, die die Zulassung zur Prüfung rechtfertigen.
 verschiedenen Prüfungsterminen geprüft werden; dabei ist mit dem
 letzten Prüfungsteil spätestens zwei Jahre nach dem ersten Prüfungstag
 des ersten Prüfungsteils zu beginnen.
-
 
 ## § 4 Wirtschafts-, rechts- und sozialkundlicher Teil
 
@@ -323,7 +318,6 @@ für die eindeutige Beurteilung der Prüfungsleistung von wesentlicher
 Bedeutung ist. Die Ergänzungsprüfung soll je Prüfungsfach und
 Prüfungsteilnehmer nicht länger als 10 Minuten dauern. Absatz 7 Satz 1
 und 2 gilt entsprechend.
-
 
 ## § 5 Bautechnischer Teil
 
@@ -594,7 +588,6 @@ Prüfungsdauer von 10 Minuten je Prüfungsfach und Prüfungsteilnehmer
 sowie eine Gesamtdauer von 30 Minuten nicht überschreiten. § 4 Abs. 7
 Satz 1 und 2 gilt entsprechend.
 
-
 ## § 6 Berufs- und arbeitspädagogischer Teil
 
 (1) Im berufs- und arbeitspädagogischen Teil ist die berufs- und
@@ -774,7 +767,6 @@ Prüfungsteilnehmer Kriterien für die Auswahl und Gestaltung der
 Ausbildungseinheit zu begründen hat. Die Prüfung im praktischen Teil
 soll höchstens 30 Minuten dauern.
 
-
 ## § 7 Anrechnung anderer Prüfungsleistungen
 
 (1) Von der Ablegung der Prüfung in einzelnen Prüfungsteilen und
@@ -802,7 +794,6 @@ im berufs- und arbeitspädagogischen Prüfungsteil freigestellt werden.
 
 (3)
 
-
 ## § 8 Bestehen der Prüfung
 
 (1) Die Prüfungsteile gemäß § 3 Abs. 1 Nr. 1 und 2 sind gesondert zu
@@ -827,7 +818,6 @@ Freistellung gemäß § 7 sind - anstelle der Noten - Ort, Datum sowie
 Bezeichnung des Prüfungsgremiums der anderweitig abgelegten Prüfung
 anzugeben.
 
-
 ## § 9 Wiederholung der Prüfung
 
 (1) Eine Prüfung, die nicht bestanden ist, kann zweimal wiederholt
@@ -843,7 +833,6 @@ Prüfungsteilnehmer kann beantragen, auch bestandene Prüfungsleistungen
 zu wiederholen. In diesem Fall wird das letzte Ergebnis
 berücksichtigt.
 
-
 ## § 10
 
 (1) Die bis zum 30. April 1999 begonnenen Prüfungsverfahren können
@@ -857,16 +846,13 @@ von zwei Jahren ab dem 1. Mai 1999 zu einer Wiederholungsprüfung
 anmelden, können die Wiederholungsprüfung nach den am 30. April 1999
 geltenden Vorschriften ablegen.
 
-
 ## § 11 Inkrafttreten
 
 Diese Verordnung tritt am 2. Januar 1980 in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesminister für Bildung und Wissenschaft
-
 
 ## Anlage 1
 
@@ -900,7 +886,6 @@ Unterschrift
 .................................................................
 (Siegel der zuständigen Stelle)
 ------ 1) Angabe des Bereichs: Hochbau oder Ausbau oder Tiefbau
-
 
 ## Anlage 2
 

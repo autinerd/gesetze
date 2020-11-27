@@ -15,17 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   GBl DDR I: 1984, 341
 
-
-
 ## Eingangsformel
 
 Auf der Grundlage des § 14 des Atomenergiegesetzes vom 8. Dezember
 1983 (GBl. I Nr. 34 S. 325) wird folgendes verordnet:
 
-
 ## - - Geltungsbereich und Ziele
-
-
 
 ### § 1 Geltungsbereich
 
@@ -97,7 +92,6 @@ unterschieden als
 (8) Für diese Verordnung gelten die in der Anlage definierten
 Begriffe.
 
-
 ### § 2 Ziele
 
 Durch Atomsicherheit und Strahlenschutz sind folgende Ziele zu
@@ -128,13 +122,7 @@ erreichen:
     abgeschlossenen Sicherheitskontrollabkommens durch Nachweis des
     Einsatzes von Kernmaterial für ausschließlich friedliche Zwecke.
 
-
-
-
-
 ## - - Verantwortung
-
-
 
 ### § 3
 
@@ -180,10 +168,7 @@ Bereichen unmittelbar Atomenergie angewendet wird.
 radioaktiven Stoffen nicht durch Betriebe, sondern durch Bürger, so
 tragen sie die Verantwortung für den Strahlenschutz.
 
-
 ## - - Staatliche und betriebliche Kontrolle
-
-
 
 ### § 4 Erlaubniserteilung
 
@@ -236,7 +221,6 @@ Strahlenquellen festgelegt werden.
 Atomenergie, bei deren Nutzung Atomsicherheit und Strahlenschutz
 beachtet werden müssen, bedürfen der Registrierung.
 
-
 ### § 5 Zulassung
 
 (1) Strahleneinrichtungen, umschlossene Strahlenquellen sowie Mittel
@@ -273,7 +257,6 @@ Rechtsvorschriften werden hiervon nicht berührt.
 Arzneimitteln werden vom Minister für Gesundheitswesen im Einvernehmen
 mit dem Minister für Chemische Industrie und dem Präsidenten des
 Staatlichen Amtes für Atomsicherheit und Strahlenschutz festgelegt.
-
 
 ### § 6 Staatliche Überwachung
 
@@ -336,7 +319,6 @@ als solche einzusetzen, Räume und Anlagen zu sperren und medizinische
 Maßnahmen durchzuführen oder zu veranlassen. Die Auflagen haben
 schriftlich zu ergehen und eine Rechtsmittelbelehrung zu enthalten.
 
-
 ### § 7 Betriebliche Kontrolle
 
 (1) Bei der Anwendung der Atomenergie sind die betriebliche Kontrolle
@@ -389,7 +371,6 @@ oder auf Veranlassung des Staatlichen Amtes für Atomsicherheit und
 Strahlenschutz Hauptkontrollbeauftragte zu deren Anleitung und
 Kontrolle eingesetzt werden.
 
-
 ### § 8 Strahlenschutzmedizinische Kontrolle der Werktätigen
 
 (1) Strahlenwerktätige und Bedienungspersonal sind durch
@@ -417,10 +398,7 @@ Strahlenbelastungen sowie der Gesamtheit der Schad- und
 Belastungsfaktoren am Arbeitsplatz. Sie werden in Rechtsvorschriften
 geregelt.
 
-
 ## - - Gewährleistung des Strahlenschutzes
-
-
 
 ### § 9 Grundsätze
 
@@ -430,14 +408,12 @@ ausgeschlossen und die Wahrscheinlichkeit für das Auftreten von
 stochastischen Strahlenschäden auf ein wissenschaftlich vertretbares
 und für die Gesellschaft annehmbares Maß begrenzt werden.
 
-
 ### § 10 Rechtfertigung
 
 Jede Art der Anwendung der Atomenergie bedarf des Nachweises, daß sie
 bei zuverlässiger Gewährleistung des Schutzes von Leben und Gesundheit
 des Menschen sowie des Schutzes der Umwelt zum Nutzen der
 sozialistischen Gesellschaft erfolgt.
-
 
 ### § 11 Strahlenschutzgrenzwerte
 
@@ -459,7 +435,6 @@ infolge medizinischer Maßnahmen nicht zu berücksichtigen.
 (4) Die Grenzwerte gemäß den Absätzen 1 und 2 gelten nicht für
 Strahlenbelastungen von Patienten infolge von medizinischen Maßnahmen.
 
-
 ### § 12 Optimierung
 
 Strahlenschutzmaßnahmen sind so zu planen und durchzuführen, daß bei
@@ -468,7 +443,6 @@ Strahlenbelastungen der Strahlenwerktätigen und der Bevölkerung sowie
 die Kontamination der Umwelt so niedrig gehalten werden, wie mit einem
 gesellschaftlich annehmbaren Aufwand erreichbar ist. Festlegungen dazu
 trifft das Staatliche Amt für Atomsicherheit und Strahlenschutz.
-
 
 ### § 13 Strahlenbelastungen unter besonderen Bedingungen
 
@@ -480,7 +454,6 @@ notwendig sind, können Strahlenwerktätige unter Beachtung der dafür
 getroffenen Festlegungen erhöhten Strahlenbelastungen ausgesetzt
 werden. Die dazu erforderlichen Festlegungen trifft der Präsident des
 Staatlichen Amtes für Atomsicherheit und Strahlenschutz.
-
 
 ### § 14 Kategorieneinteilung
 
@@ -499,7 +472,6 @@ solchen Bedingungen als Strahlenwerktätige tätig sein, die eine
 Kontamination mit oder Inkorporation von radioaktiven Stoffen
 ausschließen.
 
-
 ### § 15 Strahlenschutzbereiche
 
 Bei der Anwendung der Atomenergie sind zur Anpassung der
@@ -507,7 +479,6 @@ Strahlenschutzmaßnahmen an die Gefährdung in Betrieben
 Strahlenschutzbereiche einzurichten. Festlegungen zu
 Strahlenschutzbereichen sind in Rechtsvorschriften, bei der Erteilung
 der Erlaubnis oder in der Bauartzulassung zu treffen.
-
 
 ### § 16 Organisatorische und technische Strahlenschutzmaßnahmen
 
@@ -544,7 +515,6 @@ Präsident des Staatlichen Amtes für Atomsicherheit und Strahlenschutz.
 radioaktiven Stoffen ist nur gestattet, wenn der Übernehmende oder der
 Käufer im Besitz einer entsprechenden Erlaubnis ist.
 
-
 ### § 17 Radioaktive Abfälle und Auswürfe
 
 (1) Radioaktive Stoffe, die bei der jeweiligen Anwendung nicht mehr
@@ -565,7 +535,6 @@ für radioaktive Abfälle erreicht wird oder bei der Erlaubnis andere
 Festlegungen getroffen werden. Ihre anderweitige Beseitigung ist
 unzulässig. Die zentrale Erfassung und Endlagerung radioaktiver
 Abfälle sind gesondert zu regeln.
-
 
 ### § 18 Strahlenschutzgrundsätze für medizinische Maßnahmen
 
@@ -597,10 +566,7 @@ Strahlung sind vom Minister für Gesundheitswesen im Einvernehmen mit
 dem Präsidenten des Staatlichen Amtes für Atomsicherheit und
 Strahlenschutz weitere Festlegungen zu treffen.
 
-
 ## - - Gewährleistung der nuklearen Sicherheit
-
-
 
 ### § 19 Grundsätze
 
@@ -623,10 +589,6 @@ daß
 4.  Folgen von nuklearen Havarien durch technische Mittel und
     organisatorische Maßnahmen begrenzt werden.
 
-
-
-
-
 ### § 20 Forderungen zur Gewährleistung der nuklearen Sicherheit
 
 Für die Standortwahl, Projektierung, Herstellung, Errichtung,
@@ -636,14 +598,12 @@ Staatlichen Amtes für Atomsicherheit und Strahlenschutz festzulegen.
 Ihre Einhaltung ist durch Maßnahmen der Qualitätssicherung zu
 überwachen.
 
-
 ### § 21 Standortwahl
 
 Bei der Standortwahl für Kernanlagen sind die Forderungen zum Schutz
 der Kernanlagen vor äußeren Einwirkungen, zum Havarieschutz für die
 Umgebung sowie andere Forderungen zur Gewährleistung der nuklearen
 Sicherheit zu erfüllen.
-
 
 ### § 22 Projektierung, Herstellung und Errichtung
 
@@ -652,7 +612,6 @@ die Ausrüstung der Kernanlagen mit Sicherheitssystemen, eine hohe
 Qualität der Projekte der sicherheitstechnisch bedeutsamen Systeme und
 der gesamten Kernanlage sowie eine hohe Qualität bei der Herstellung
 und Errichtung der Anlage zu erfüllen.
-
 
 ### § 23 Betrieb von Kernanlagen
 
@@ -664,17 +623,13 @@ Normalbetrieb der Kernanlagen aufzudecken und erkannte Ursachen zu
 beseitigen. Kernanlagen dürfen nur von dafür qualifizierten und
 geeigneten Werktätigen bedient werden.
 
-
 ## - - Gewährleistung des Schutzes vor mißbräuchlicher Anwendung der Atomenergie
-
-
 
 ### § 24 Grundsätze
 
 Kernmaterial unterliegt einer speziellen Nachweisführung und
 Kontrolle. Kernmaterial und Kernanlagen sind vor unbefugten
 Einwirkungen und kriminellen Angriffen zu schützen.
-
 
 ### § 25 Maßnahmen und Forderungen
 
@@ -700,10 +655,7 @@ der physische Schutz von Kernmaterial und Kernanlagen werden in
 Rechtsvorschriften geregelt und erforderlichenfalls bei der Erteilung
 der Genehmigung konkret bestimmt.
 
-
 ## - - Außergewöhnliche Ereignisse
-
-
 
 ### § 26
 
@@ -737,10 +689,7 @@ Ereignissen sowie zur Beseitigung ihrer Folgen trifft der Präsident
 des Staatlichen Amtes für Atomsicherheit und Strahlenschutz weitere
 Festlegungen.
 
-
 ## - - Aus- und Weiterbildung
-
-
 
 ### § 27 Qualifikation und Weiterbildungsmaßnahmen
 
@@ -783,7 +732,6 @@ zuständigen zentralen Staatsorgane für bestimmte Berufsgruppen im
 gesellschaftlichen Interesse spezielle Weiterbildungsveranstaltungen
 durchzuführen.
 
-
 ### § 28 Lehrpläne und Lehrmaterialien
 
 (1) Lehrpläne und Lehrmaterialien für die Aus- und Weiterbildung in
@@ -796,10 +744,7 @@ Strahlenschutz beinhalten, bedürfen vor ihrer Bestätigung durch die
 zuständigen Staatsorgane der Zustimmung des Staatlichen Amtes für
 Atomsicherheit und Strahlenschutz.
 
-
 ## - - Forschung und Entwicklung
-
-
 
 ### § 29
 
@@ -823,10 +768,7 @@ Einvernehmen mit den zuständigen zentralen Staatsorganen die Aufnahme
 von Forschungs- und Entwicklungsarbeiten zu Atomsicherheit und
 Strahlenschutz durch die Betriebe veranlassen.
 
-
 ## - - Ordnungsstrafbestimmungen
-
-
 
 ### § 30
 
@@ -900,10 +842,7 @@ mit Ordnungsgeld bis 20 M auszusprechen.
 von Ordnungsstrafmaßnahmen gilt das Gesetz vom 12. Januar 1968 zur
 Bekämpfung von Ordnungswidrigkeiten - OWG - (GBl. I Nr. 3 S. 101).
 
-
 ## - - Schlußbestimmungen
-
-
 
 ### § 31 Gebühren
 
@@ -914,7 +853,6 @@ durchführt, werden Gebühren nach den Bestimmungen der Verordnung vom
 96 S. 787) in der Fassung der Zweiten Verordnung vom 28. November 1967
 über die staatlichen Verwaltungsgebühren (GBl. II Nr. 119 S. 837) und
 den zu dieser Verordnung bekanntgegebenen Gebührentarifen erhoben.
-
 
 ### § 32 Beschwerdeverfahren
 
@@ -936,19 +874,16 @@ Beschwerde hat aufschiebende Wirkung, sofern dies nicht bei der
 Erteilung der Auflage wegen unmittelbarer Gefahr für die Gesundheit
 der Werktätigen ausgeschlossen wurde.
 
-
 ### § 33 Durchführungsbestimmungen
 
 Durchführungsbestimmungen zu dieser Verordnung erläßt der Präsident
 des Staatlichen Amtes für Atomsicherheit und Strahlenschutz.
-
 
 ### § 34 Übergangsbestimmungen
 
 Die vor dem Inkrafttreten dieser Verordnung erteilten Erlaubnisse,
 Zulassungen sowie staatlichen Befähigungs- und Qualifikationsnachweise
 behalten ihre Gültigkeit.
-
 
 ### § 35 Inkrafttreten
 
@@ -970,14 +905,9 @@ Gleichzeitig treten außer Kraft:
     beruflich strahlenexponierter Personen und einzelner Personen oder
     Personengruppen aus der Bevölkerung (GBl. II Nr. 29 S. 346).
 
-
-
-
-
 ### Schlußformel
 
 **Der Ministerrat der Deutschen Demokratischen Republik**
-
 
 ### Anlage Begriffsbestimmungen
 
@@ -1284,7 +1214,6 @@ Augenlinse, Haut, Hände, Unterarme, Füße und Knöchel) ermittelt, wobei
 für jedes dieser anderen Organe ein Wichtungsfaktor von 0,06 zu
 verwenden ist. Der Beitrag der dabei nicht berücksichtigten übrigen
 Organe zur effektiven Äquivalentdosis entfällt.
-
 
 ### Anhang EV Auszug aus EinigVtr Anlage II Kapitel XII Abschnitt III (BGBl. II 1990, 889, 1226)
 

@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 29 G v. 20.12.2011 I 2854
 
-
 ## Abschnitt 1 - Erlaubnis
-
-
 
 ### § 1
 
@@ -34,7 +31,6 @@ Personen mit einer Erlaubnis nach Satz 1, die über eine Ausbildung
 nach § 4 Abs. 7 verfügen, sind im Rahmen der ihnen in dieser
 Ausbildung vermittelten erweiterten Kompetenzen zur Ausübung
 heilkundlicher Tätigkeiten berechtigt.
-
 
 ### § 1a
 
@@ -48,7 +44,6 @@ Meldepflicht und Nachprüfung nach diesem Gesetz. Gleiches gilt für
 Drittstaaten und Drittstaatsangehörige, soweit sich hinsichtlich der
 Anerkennung von Ausbildungsnachweisen nach dem Recht der Europäischen
 Gemeinschaften eine Gleichstellung ergibt.
-
 
 ### § 2
 
@@ -229,7 +224,6 @@ des § 17 keine Anwendung.
 3 bis 5 von einem anderen Land oder einer gemeinsamen Einrichtung
 wahrgenommen werden.
 
-
 ### § 2a
 
 (1) Die zuständigen Behörden des Landes, in dem der Beruf der
@@ -266,10 +260,7 @@ Frauen und Jugend die Unterlagen, die erforderlich sind, um gemäß
 Artikel 60 Abs. 1 der Richtlinie 2005/36/EG der Europäischen
 Kommission über die Anwendung dieser Richtlinie zu berichten.
 
-
 ## Abschnitt 2 - Ausbildung in der Altenpflege
-
-
 
 ### § 3
 
@@ -331,7 +322,6 @@ Ausbildung auch auf die Befähigung zur Ausübung der Tätigkeiten zu
 erstrecken, für die das Modellvorhaben qualifizieren soll. Das Nähere
 regeln die Lehrpläne der Altenpflegeschulen und die Ausbildungspläne
 der Träger der praktischen Ausbildung.
-
 
 ### § 4
 
@@ -426,7 +416,6 @@ nach Satz 1 an Hochschulen erfolgen. In diesem Fall finden die §§ 13
 bis 23 dieses Gesetzes und § 9 der Altenpflege-Ausbildungs- und
 Prüfungsverordnung keine Anwendung.
 
-
 ### § 4a
 
 (1) § 5 Abs. 2 der Altenpflege-Ausbildungs- und Prüfungsverordnung
@@ -503,7 +492,6 @@ nicht überschreiten. An dem Verfahren gemäß § 12 Abs. 3 der
 Altenpflege-Ausbildungs- und Prüfungsverordnung ist die ärztliche
 Fachprüferin oder der ärztliche Fachprüfer zu beteiligen.
 
-
 ### § 5
 
 (1) Die Altenpflegeschulen nach § 4 Abs. 2 bedürfen der staatlichen
@@ -542,7 +530,6 @@ Anforderungen nach Satz 1 Nr. 1 erfüllen. Die Landesregierungen werden
 ermächtigt, durch Rechtsverordnung über Satz 1 hinausgehende
 Mindestanforderungen festzulegen.
 
-
 ### § 6
 
 Voraussetzung für den Zugang zur Ausbildung ist, dass die Bewerberin
@@ -564,10 +551,6 @@ Berufes ungeeignet ist sowie
 
 
 3.  eine andere abgeschlossene zehnjährige allgemeine Schulbildung.
-
-
-
-
 
 ### § 7
 
@@ -599,7 +582,6 @@ Erreichung des Ausbildungszieles nicht gefährden.
 (4) Die Absätze 1 bis 3 gelten für die Ausbildung nach § 4 Abs. 5
 entsprechend.
 
-
 ### § 8
 
 (1) Auf die Dauer einer Ausbildung nach § 4 Abs. 1 werden angerechnet:
@@ -626,7 +608,6 @@ erwarten ist, dass das Ausbildungsziel dennoch erreicht wird. In
 anderen Fällen kann die Ausbildungsdauer auf Antrag entsprechend
 verlängert werden. Sie soll jedoch in der Regel einschließlich der
 Unterbrechungen den Zeitraum von fünf Jahren nicht überschreiten.
-
 
 ### § 9
 
@@ -671,18 +652,13 @@ regeln:
 Grundlage erlassenen Rechtsverordnung enthaltenen Regelungen des
 Verwaltungsverfahrens durch Landesrecht sind ausgeschlossen.
 
-
 ## Abschnitt 3 - -
 
-
-
 ## Abschnitt 3 - Erbringen von Dienstleistungen
-
 
 ### (XXXX) §§ 10 bis 12 (weggefallen)
 
 -
-
 
 ### § 10
 
@@ -781,7 +757,6 @@ Gleiches gilt für Drittstaaten und Drittstaatsangehörige, soweit sich
 hinsichtlich der Anerkennung von Ausbildungsnachweisen nach dem Recht
 der Europäischen Gemeinschaften eine Gleichstellung ergibt.
 
-
 ### § 11
 
 Die zuständigen Behörden sind berechtigt, für jede
@@ -797,7 +772,6 @@ und die gute Führung des Dienstleisters sowie Informationen darüber,
 dass keine berufsbezogenen disziplinarischen oder strafrechtlichen
 Sanktionen vorliegen, zu übermitteln.
 
-
 ### § 12
 
 Altenpflegerinnen und Altenpfleger im Sinne des § 10 haben beim
@@ -807,10 +781,7 @@ gegen diese Pflichten verstoßen, so hat die zuständige Behörde
 unverzüglich die zuständige Behörde des Niederlassungsmitgliedstaats
 dieses Dienstleistungserbringers hierüber zu unterrichten.
 
-
 ## Abschnitt 4 - Ausbildungsverhältnis
-
-
 
 ### § 13
 
@@ -891,7 +862,6 @@ entsprechend.
 (6) Der Ausbildungsvertrag bedarf zu seiner Wirksamkeit im Falle des
 Absatzes 1 Satz 2 Nr. 2 der Zustimmung der Altenpflegeschule.
 
-
 ### § 14
 
 (1) Eine Vereinbarung, durch die die Ausübung der beruflichen
@@ -914,10 +884,6 @@ Arbeitsverhältnis auf unbestimmte Zeit eingeht.
 
 
 4.  die Festsetzung der Höhe des Schadenersatzes in Pauschbeträgen.
-
-
-
-
 
 ### § 15
 
@@ -945,7 +911,6 @@ Arbeitsverhältnis auf unbestimmte Zeit eingeht.
 werden, die dem Ausbildungszweck dienen; sie müssen ihrem
 Ausbildungsstand und ihren Kräften angemessen sein.
 
-
 ### § 16
 
 Die Schülerin und der Schüler haben sich zu bemühen, die Kenntnisse,
@@ -962,10 +927,6 @@ das Ausbildungsziel zu erreichen. Sie sind insbesondere verpflichtet,
 3.  die für Beschäftigte in den jeweiligen Einrichtungen geltenden
     Bestimmungen über die Schweigepflicht einzuhalten und über
     Betriebsgeheimnisse Stillschweigen zu wahren.
-
-
-
-
 
 ### § 17
 
@@ -996,12 +957,10 @@ abzugelten.
 Ausbildungszeit hinausgehende Beschäftigung ist nur ausnahmsweise
 zulässig und besonders zu vergüten.
 
-
 ### § 18
 
 Das Ausbildungsverhältnis beginnt mit der Probezeit. Sie beträgt sechs
 Monate.
-
 
 ### § 19
 
@@ -1014,7 +973,6 @@ Ablauf der nach § 4 Abs. 1 Satz 4 verlängerten Ausbildungszeit.
 verlängert sich das Ausbildungsverhältnis auf schriftliches Verlangen
 bis zur nächstmöglichen Wiederholungsprüfung, höchstens jedoch um ein
 Jahr.
-
 
 ### § 20
 
@@ -1042,7 +1000,6 @@ als zwei Wochen bekannt sind. Ist ein vorgesehenes Güteverfahren vor
 einer außergerichtlichen Stelle eingeleitet, so wird bis zu dessen
 Beendigung der Lauf dieser Frist gehemmt.
 
-
 ### § 21
 
 Wird die Schülerin oder der Schüler im Anschluss an das
@@ -1050,13 +1007,11 @@ Ausbildungsverhältnis beschäftigt, ohne dass hierüber ausdrücklich
 etwas vereinbart worden ist, so gilt ein Arbeitsverhältnis auf
 unbestimmte Zeit als begründet.
 
-
 ### § 22
 
 Eine Vereinbarung, die zu Ungunsten der Schülerin oder des Schülers
 von den Vorschriften des Abschnitts 4 dieses Gesetzes abweicht, ist
 nichtig.
-
 
 ### § 23
 
@@ -1064,10 +1019,7 @@ Die §§ 13 bis 22 finden keine Anwendung auf Schüler und Schülerinnen,
 die Diakonissen, Diakonieschwestern oder Mitglieder geistlicher
 Gemeinschaften sind.
 
-
 ## Abschnitt 5 - Kostenregelung
-
-
 
 ### § 24
 
@@ -1097,7 +1049,6 @@ Ausbildungsvergütung und der nach § 17 Abs. 1a zu erstattenden
 Weiterbildungskosten einschließlich einer Ausbildungsumlage (§ 25) in
 den Vergütungen ausschließlich nach diesen Gesetzen.
 
-
 ### § 25
 
 (1) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung zu
@@ -1122,10 +1073,7 @@ bestimmen die zur Durchführung des Kostenausgleichs zuständige Stelle.
 eingeführt, so ist sie verpflichtet, in angemessenen Zeitabständen die
 Notwendigkeit der Fortführung zu überprüfen.
 
-
 ## Abschnitt 6 - Zuständigkeiten
-
-
 
 ### § 26
 
@@ -1155,10 +1103,7 @@ Altenpflegers ausübt.
 (3) Die Länder bestimmen die zur Durchführung dieses Gesetzes
 zuständigen Behörden.
 
-
 ## Abschnitt 7 - Bußgeldvorschriften
-
-
 
 ### § 27
 
@@ -1168,20 +1113,14 @@ Berufsbezeichnung "Altenpflegerin" oder "Altenpfleger" führt.
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu dreitausend
 Euro geahndet werden.
 
-
 ## Abschnitt 8 - Keine Anwendung des Berufsbildungsgesetzes
-
-
 
 ### § 28
 
 Für die Ausbildung zu den in diesem Gesetz geregelten Berufen findet
 das Berufsbildungsgesetz keine Anwendung.
 
-
 ## Abschnitt 9 - Übergangsvorschriften
-
-
 
 ### § 29
 
@@ -1201,7 +1140,6 @@ abgeschlossen. Nach Abschluss der Ausbildung erhält die
 antragstellende Person, wenn die Voraussetzungen des § 2 Abs. 1 Nr. 2
 und 3 vorliegen, eine Erlaubnis nach § 1.
 
-
 ### § 30
 
 Altenpflegeschulen, die vor Inkrafttreten dieses Gesetzes nach
@@ -1211,18 +1149,15 @@ anerkannt oder schulrechtlich genehmigt nach § 5 Abs. 1, sofern die
 Anerkennung oder die schulrechtliche Genehmigung nicht zurückgezogen
 wird.
 
-
 ### § 31
 
 In der Freien und Hansestadt Hamburg wird die Ausbildung zu den in
 diesem Gesetz geregelten Berufen bis zum 31. Juli 2006 weiterhin nach
 dem Berufsbildungsgesetz durchgeführt.
 
-
 ### § 32
 
 § 6 Nummer 3 tritt am 31. Dezember 2017 außer Kraft.
-
 
 ### § 33
 

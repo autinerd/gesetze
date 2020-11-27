@@ -18,14 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 1.3.2011 I 345
 
-
 ## Eingangsformel
 
 Auf Grund der durch Artikel 1 Nr. 27 und 33 des Gesetzes vom 21. Juli
 1994 (BGBl. I S. 1630) geänderten § 65 Abs. 1 und § 79 des
 Versicherungsaufsichtsgesetzes verordnet das Bundesministerium der
 Finanzen im Einvernehmen mit dem Bundesministerium der Justiz:
-
 
 ## § 1 Geltungsbereich
 
@@ -48,7 +46,6 @@ Finanzen im Einvernehmen mit dem Bundesministerium der Justiz:
 
 (2) Diese Verordnung gilt für Verträge, denen keine
 aufsichtsbehördlich genehmigten Tarife zugrunde liegen.
-
 
 ## § 2 Höchstzinssatz (Euro)
 
@@ -78,7 +75,6 @@ Vertrages geltenden einheitlichen Rechnungszins verwenden, der den
 jeweils gültigen Höchstzinssatz nicht überschreitet. Eine dadurch
 erforderliche Herabsetzung des Rechnungszinses kann mit Zustimmung der
 Aufsichtsbehörde stufenweise erfolgen.
-
 
 ## § 2a Höchstzinssatz (andere Währungen)
 
@@ -160,7 +156,6 @@ Bei den übrigen Währungen beträgt der Höchstzinssatz 2,0 vom Hundert.
 Vertragsabschlusses verwendete Rechnungszins für die Berechnung der
 Deckungsrückstellung gilt für die gesamte Laufzeit des Vertrages.
 
-
 ## § 3 Ausnahmen
 
 (1) Für Versicherungsverträge gegen Einmalprämie mit einer Laufzeit
@@ -187,7 +182,6 @@ in ihren Monatsberichten veröffentlichten Kapitalmarktstatistik mit
 einer Restlaufzeit von einem Jahr bis zu acht Jahren beträgt. Der für
 die Bestimmung des Rechnungszinses des einzelnen Vertrages maßgebliche
 Zeitpunkt ist der Zeitpunkt des Rentenbeginns.
-
 
 ## § 4 Höchstzillmersätze und versicherungsmathematische Berechnungsmethode
 
@@ -237,7 +231,6 @@ Rechnungszins in gleicher Weise ermittelt werden wie bei den
 aufsichtsbehördlich genehmigten vergleichbaren Tarifen. Die Sätze 1
 und 2 gelten nur für die bis zum 31. Dezember 1997 abgeschlossenen
 Versicherungsverträge.
-
 
 ## § 5 Versicherungsmathematische Rechnungsgrundlagen
 
@@ -295,11 +288,9 @@ Deckungsrückstellung Folgendes zugrunde zu legen:
 andernfalls ist für die gesamte Restlaufzeit der jeweils maßgebliche
 Rechnungszins zu verwenden.
 
-
 ## § 6 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlußformel
 

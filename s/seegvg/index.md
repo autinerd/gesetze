@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 Abs. 2 G v. 30.1.2002 I 564
 
-
 ## § 1 Vollstreckbarkeit
 
 Entscheidungen der Kammer für Meeresbodenstreitigkeiten des
@@ -31,7 +30,6 @@ Behörde und des Vertragsnehmers (Artikel 21 Abs. 2 der Anlage III zum
 Seerechtsübereinkommen) sind vollstreckbare Titel. Die
 Zwangsvollstreckung erfolgt nach den Vorschriften des
 Zivilverfahrensrechts mit den nachfolgenden Maßgaben.
-
 
 ## § 2 Vollstreckungsklausel
 
@@ -78,7 +76,6 @@ Die zu vollstreckende Verpflichtung lautet:
 Beschluß
 des Senats zu übernehmen ist)."
 
-
 ## § 3 Zuständigkeit des Oberlandesgerichts als Vollstreckungsorgan
 
 Soweit das Prozeßgericht des ersten Rechtszuges als
@@ -86,7 +83,6 @@ Vollstreckungsorgan bestimmt ist, nimmt diese Aufgabe das
 Oberlandesgericht am Sitz des Seegerichtshofs wahr. Es entscheidet
 durch unanfechtbaren Beschluß. Vor der Entscheidung ist der Schuldner
 zu hören.
-
 
 ## § 4 Rechtsbehelfe in der Zwangsvollstreckung
 

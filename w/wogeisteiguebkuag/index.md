@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 16 G v. 25.10.1994 I 3082
 
-
 ## Art 1
 
 Den folgenden von der Bundesrepublik Deutschland am 14. Juli 1967 in
@@ -64,7 +63,6 @@ Stockholm unterzeichneten Übereinkünften wird zugestimmt:
 
 Die Übereinkünfte werden nachstehend veröffentlicht.
 
-
 ## Art 2
 
 Änderungen der Ausführungsordnung und Festsetzungen der Höhe von
@@ -73,7 +71,6 @@ Registrierung von Marken gemäß Artikel 10 Abs. 2 Buchstabe a Ziffer
 iii der Stockholmer Fassung des Madrider Abkommens vom 14. April 1891
 über die internationale Registrierung von Marken beschließt, sind im
 Bundesgesetzblatt bekanntzumachen.
-
 
 ## Art 3
 

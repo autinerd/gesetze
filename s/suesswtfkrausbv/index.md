@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 § 34 G v. 20. 7.2000 I 1045
 
-
 ## Eingangsformel
 
 Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
@@ -27,12 +26,10 @@ August 1976 (BGBl. I S. 2525) geändert worden ist, wird im
 Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft
 verordnet:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufs
 
 Der Ausbildungsberuf Fachkraft für Süßwarentechnik wird staatlich
 anerkannt.
-
 
 ## § 2 Ausbildungsdauer
 
@@ -53,7 +50,6 @@ zwischen den Fachrichtungen
 
 
 gewählt werden.
-
 
 ## § 3 Ausbildungsberufsbild
 
@@ -115,10 +111,6 @@ mindestens die folgenden Fertigkeiten und Kenntnisse:
 
     Herstellen von Dauerbackwaren und Knabberartikeln.
 
-
-
-
-
 ## § 4 Ausbildungsrahmenplan
 
 Die Fertigkeiten und Kenntnisse nach § 3 sollen nach der in der Anlage
@@ -129,12 +121,10 @@ des Ausbildungsinhalts ist insbesondere zulässig, soweit eine
 berufsfeldbezogene Grundbildung vorausgegangen ist oder
 betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
 ## § 5 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 6 Berichtsheft
 
@@ -142,7 +132,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 7 Zwischenprüfung
 
@@ -205,7 +194,6 @@ beziehen.
 (5) Soweit die schriftliche Prüfung in programmierter Form
 durchgeführt wird, kann die in Absatz 4 genannte Prüfungsdauer
 unterschritten werden.
-
 
 ## § 8 Abschlußprüfung
 
@@ -360,7 +348,6 @@ der Kenntnisprüfung sowie innerhalb der Kenntnisprüfung im
 Prüfungsfach Technologie mindestens ausreichende Leistungen erbracht
 sind.
 
-
 ## § 9 Aufhebung von Vorschriften
 
 Die bisher festgelegten Berufsbilder, Berufsbildungspläne und
@@ -369,27 +356,22 @@ vergleichbar geregelten Ausbildungsberufe, insbesondere für die
 Ausbildungsberufe Bonbonmacher und Konfektmacher, die in dieser
 Rechtsverordnung geregelt sind, sind nicht mehr anzuwenden.
 
-
 ## § 10
 
 -
-
 
 ## § 11 Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 112 des Berufsbildungsgesetzes auch im Land Berlin.
 
-
 ## § 12 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesminister für Wirtschaft
-
 
 ## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Süßwarentechnik
 
@@ -1718,9 +1700,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)             ^
     *   x
 
     *
-
-
-
 
 ## Anhang EV Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III (BGBl. II 1990, 889, 1135)
 

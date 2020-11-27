@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 3416
 
-
-
 ## § 1
 
 (1) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung zu
@@ -38,7 +36,6 @@ Zahlungspflichtigen eine unbare Zahlung nicht möglich oder wenn Eile
 geboten ist. Für die nach Absatz 1 zu erlassende Rechtsverordnung
 gelten die Sätze 1 und 2 nur, wenn die Zahlungen aufgrund
 bundesrechtlicher Vorschriften erfolgen.
-
 
 ## § 2
 

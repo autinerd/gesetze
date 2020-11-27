@@ -18,13 +18,10 @@ Fundstelle
 Geändert durch
 :   Art. 46 G v. 8.12.2010 I 1864
 
-
-
 ## Eingangsformel
 
 Die Reichsregierung hat das folgende Gesetz beschlossen, das hiermit
 verkündet wird:
-
 
 ## § 1
 
@@ -33,7 +30,6 @@ Anleihe auf eine ausländische Währung - unbeschadet ob mit oder ohne
 Goldklausel -, so ist im Falle einer Abwertung dieser Währung für den
 Umfang der Zahlungsverpflichtung des Schuldners die abgewertete
 Währung maßgebend.
-
 
 ## § 2
 
@@ -50,7 +46,6 @@ Deutsche Mark-Schuldverschreibungen vereinbart haben.
 (3) Bereits geleistete Zahlungen können auf Grund des Gesetzes nicht
 zurückgefordert werden.
 
-
 ## § 3
 
 Die Vorschriften dieses Gesetzes finden sinngemäß auch auf nicht in
@@ -58,7 +53,6 @@ Wertpapieren verbriefte Schuldverpflichtungen des zwischenstaatlichen
 Geld- und Kapitalverkehrs Anwendung, die aus Auslandskrediten oder
 Ausländerguthaben herrühren und auf ausländische Währung mit oder ohne
 Goldklausel lauten.
-
 
 ## § 4 (weggefallen)
 

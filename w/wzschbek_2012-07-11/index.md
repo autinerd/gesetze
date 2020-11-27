@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1488
 
-
 ## (XXXX)
 
 Auf Grund des § 6a Absatz 2 des Gebrauchsmustergesetzes, der durch
@@ -84,10 +83,6 @@ Ausstellungen gewährt:
 13. „CMS Berlin 2013 – Cleaning. Management. Services. – Internationale
     Fachmesse und Kongress“
     vom 24. bis 27. September 2013 in Berlin
-
-
-
-
 
 ## Schlussformel
 

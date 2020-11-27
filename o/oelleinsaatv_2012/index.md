@@ -28,7 +28,6 @@ Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407)
 geändert worden sind, verordnet das Bundesministerium für Ernährung,
 Landwirtschaft und Verbraucherschutz:
 
-
 ## § 1
 
 (1) Abweichend von § 6 Satz 2 in Verbindung mit Anlage 3 Nummer 5.1.8
@@ -43,7 +42,6 @@ reinen Körner.
 worden ist, darf bis zum Ablauf des 29. September 2012 in den Verkehr
 gebracht werden.
 
-
 ## § 2
 
 Jede Packung oder jedes Behältnis mit Zertifiziertem Saatgut, dessen
@@ -55,7 +53,6 @@ verminderte Keimfähigkeit hingewiesen wird. Das Zusatzetikett oder das
 Begleitpapier ist nicht erforderlich, soweit die Keimfähigkeit in
 einer dem § 31 Satz 2 der Saatgutverordnung genügenden Weise angegeben
 wird.
-
 
 ## § 3
 

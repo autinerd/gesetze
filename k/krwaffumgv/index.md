@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 1448
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 13a des Gesetzes über die Kontrolle von Kriegswaffen
@@ -26,7 +24,6 @@ I S. 2304) geändert worden ist, und auf Grund des § 36 Abs. 3 des
 Gesetzes über Ordnungswidrigkeiten in der Fassung der Bekanntmachung
 vom 19. Februar 1987 (BGBl. I S. 602) verordnet das Bundesministerium
 für Wirtschaft und Arbeit:
-
 
 ## § 1 Gegenstand der Verordnung, Begriffsbestimmungen
 
@@ -46,7 +43,6 @@ erkennbar führt.
 Anlage 1 zum Waffengesetz in der jeweils geltenden Fassung
 entsprechend.
 
-
 ## § 2 Verbote
 
 (1) Kindern und Jugendlichen ist der Umgang mit unbrauchbar gemachten
@@ -63,7 +59,6 @@ den Einzelfall Ausnahmen von den Verboten nach den Absätzen 1 und 2
 genehmigen, wenn besondere Gründe vorliegen und öffentliche Interessen
 nicht entgegenstehen.
 
-
 ## § 3 Bußgeldvorschrift
 
 (1) Ordnungswidrig im Sinne des § 22b Abs. 1 Nr. 3a des Gesetzes über
@@ -74,7 +69,6 @@ Kriegswaffen umgeht.
 (2) Die Zuständigkeit für die Verfolgung und Ahndung von
 Ordnungswidrigkeiten nach § 3 wird auf das Bundesamt für Wirtschaft
 und Ausfuhrkontrolle (BAFA) übertragen.
-
 
 ## § 4 Inkrafttreten
 

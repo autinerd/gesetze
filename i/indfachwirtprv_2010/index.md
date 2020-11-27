@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 833
 
-
 ## Eingangsformel
 
 Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 und des § 30
@@ -26,7 +25,6 @@ Artikel 232 Nummer 3 Buchstabe a der Verordnung vom 31. Oktober 2006
 für Bildung und Forschung nach Anhörung des Hauptausschusses des
 Bundesinstituts für Berufsbildung im Einvernehmen mit dem
 Bundesministerium für Wirtschaft und Technologie:
-
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
 
@@ -69,7 +67,6 @@ Befähigung:
 (3) Die erfolgreich abgelegte Prüfung führt zum anerkannten
 Fortbildungsabschluss „Geprüfter Industriefachwirt“ oder „Geprüfte
 Industriefachwirtin“.
-
 
 ## § 2 Zulassungsvoraussetzungen
 
@@ -119,7 +116,6 @@ zuzulassen, wer durch Vorlage von Zeugnissen oder auf andere Weise
 glaubhaft macht, Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche
 Handlungsfähigkeit) erworben zu haben, die die Zulassung zur Prüfung
 rechtfertigen.
-
 
 ## § 3 Gliederung und Durchführung der Prüfung
 
@@ -211,7 +207,6 @@ soll in der Regel 20 Minuten nicht überschreiten.
 (10) Die mündliche Prüfung ist nur durchzuführen, wenn in den
 schriftlichen Prüfungsleistungen nach den Absätzen 4 und 5 mindestens
 ausreichende Leistungen erbracht wurden.
-
 
 ## § 4 Wirtschaftsbezogene Qualifikationen
 
@@ -343,7 +338,6 @@ der Regel nicht länger als 15 Minuten dauern. Die Bewertungen der
 schriftlichen Prüfungsleistung und der mündlichen Ergänzungsprüfung
 werden zu einer Note zusammengefasst. Dabei wird die Bewertung der
 schriftlichen Prüfungsleistung doppelt gewichtet.
-
 
 ## § 5 Handlungsspezifische Qualifikationen
 
@@ -513,7 +507,6 @@ Punktebewertung für das Ergebnis der schriftlichen Prüfungsleistung
 ist aus den beiden gleichgewichtigen schriftlichen Teilergebnissen zu
 bilden.
 
-
 ## § 6 Anrechnung anderer Prüfungsleistungen
 
 Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin ist auf Antrag
@@ -523,7 +516,6 @@ Stelle zu befreien, wenn eine andere vergleichbare Prüfung vor einer
 einem staatlichen Prüfungsausschuss erfolgreich abgelegt wurde und die
 Anmeldung zur Fortbildungsprüfung innerhalb von fünf Jahren nach der
 Bekanntgabe des Bestehens der anderen Prüfung erfolgt.
-
 
 ## § 7 Bewerten und Bestehen der Prüfung
 
@@ -551,7 +543,6 @@ Anlage 1 und 2 auszustellen. Im Fall der Freistellung nach § 6 sind
 Ort, Datum, Abschlussbezeichnung der Prüfung sowie die Bezeichnung des
 Prüfungsgremiums der anderweitig abgelegten Prüfung anzugeben.
 
-
 ## § 8 Wiederholung der Prüfung
 
 (1) Eine Teilprüfung, die nicht bestanden ist, kann zweimal wiederholt
@@ -567,7 +558,6 @@ zwei Jahren, gerechnet vom Tage der Beendigung der nicht bestandenen
 Prüfung an, zur Wiederholungsprüfung angemeldet hat. Bestandene
 Prüfungsleistungen können auf Antrag einmal wiederholt werden. In
 diesem Fall gilt das Ergebnis der letzten Prüfung.
-
 
 ## § 9 Ausbildereignung
 
@@ -596,7 +586,6 @@ auszustellen aus dem hervorgeht, dass die berufs- und
 arbeitspädagogische Qualifikation nach § 30 des Berufsbildungsgesetzes
 nachgewiesen wurde.
 
-
 ## § 10 Übergangsvorschriften
 
 (1) Begonnene Prüfungsverfahren können bis zum 31. Dezember 2013 nach
@@ -608,7 +597,6 @@ Anwendung der bisherigen Vorschriften beantragt werden.
 auch nach dieser Verordnung durchführen; § 8 Absatz 2 findet in diesem
 Fall keine Anwendung.
 
-
 ## § 11 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Juli 2010 in Kraft. Gleichzeitig tritt
@@ -616,7 +604,6 @@ die Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter
 Industriefachwirt/Geprüfte Industriefachwirtin vom 8. März 1988 (BGBl.
 I S. 222), die zuletzt durch Artikel 30 der Verordnung vom 25. August
 2009 (BGBl. I S. 2960) geändert worden ist, außer Kraft.
-
 
 ## Anlage 1 (zu § 7 Absatz 6) Muster
 
@@ -628,8 +615,6 @@ I S. 222), die zuletzt durch Artikel 30 der Verordnung vom 25. August
 
 
 *    *   (Bezeichnung der zuständigen Stelle)
-
-
 
 ## Zeugnis
 
@@ -684,9 +669,6 @@ Industriefachwirtin vom 25. Juni 2010 (BGBl. I S. 833)
 
 *    *   (Siegel der zuständigen Stelle)
 
-
-
-
 ## Anlage 2 (zu § 7 Absatz 6) Muster
 
 (Fundstelle: BGBl. I 2010, 839 - 840)
@@ -697,8 +679,6 @@ Industriefachwirtin vom 25. Juni 2010 (BGBl. I S. 833)
 
 
 *    *   (Bezeichnung der zuständigen Stelle)
-
-
 
 ## Zeugnis
 

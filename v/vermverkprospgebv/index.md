@@ -19,8 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 25.5.2012 I 1216
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 16 Satz 2 des Verkaufsprospektgesetzes in der Fassung
@@ -34,7 +32,6 @@ Finanzdienstleistungsaufsicht, § 1 Nr. 6 eingefügt durch Artikel 7 Nr.
 2 des Gesetzes vom 22. Juni 2005 (BGBl. I S. 1698), verordnet die
 Bundesanstalt für Finanzdienstleistungsaufsicht:
 
-
 ## § 1 Anwendungsbereich
 
 Die Bundesanstalt für Finanzdienstleistungsaufsicht erhebt für
@@ -44,13 +41,11 @@ Verkaufsprospekte für Vermögensanlagen betreffen, Gebühren nach dieser
 Verordnung; Auslagen werden nicht gesondert erhoben. Im Übrigen gilt
 das Verwaltungskostengesetz.
 
-
 ## § 2 Gebühren
 
 Die gebührenpflichtigen Amtshandlungen und die Gebührensätze bestimmen
 sich vorbehaltlich der Regelungen in § 3 nach dem anliegenden
 Gebührenverzeichnis.
-
 
 ## § 3 Gebührenerhebung in besonderen Fällen
 
@@ -75,7 +70,6 @@ den Fällen der Sätze 1 bis 3 mindestens 50 Euro.
 
 (3) (weggefallen)
 
-
 ## § 3a Übergangsvorschrift
 
 Auf Amtshandlungen betreffend Verkaufsprospekte, die vor dem 1. Juni
@@ -85,11 +79,9 @@ Verkaufsprospektgesetzes in der bis zum 31. Mai 2012 geltenden Fassung
 eingereicht wurden, ist diese Verordnung in ihrer bis zum 31. Mai 2012
 geltenden Fassung weiter anzuwenden.
 
-
 ## § 4 Inkrafttreten
 
 Diese Verordnung tritt am 1. Juli 2005 in Kraft.
-
 
 ## Anlage (zu § 2) Gebührenverzeichnis
 

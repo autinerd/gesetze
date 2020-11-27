@@ -37,13 +37,11 @@ S. 1), jeweils zuletzt geändert durch die Richtlinie 2004/50/EG des
 Europäischen Parlaments und des Rates vom 29. April 2004 (ABl. EU Nr.
 L 164 S. 114, Nr. L 220 S. 40).
 
-
 ## § 1 Anwendungsbereich
 
 Diese Verordnung gilt für regelspurige öffentliche Eisenbahnen, soweit
 diese nicht Netze des Regionalverkehrs oder Serviceeinrichtungen
 betreiben oder Regionalbahnen sind.
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -66,10 +64,6 @@ Im Sinne dieser Verordnung bedeuten:
     Juni 2007 (ABl. EU Nr. L 141 S. 63), die für jedes Teilsystem oder
     Teile davon im Hinblick auf die Erfüllung der grundlegenden
     Anforderungen gelten und die Interoperabilität gewährleisten.
-
-
-
-
 
 ## § 3 Sicherheitsvorschriften
 
@@ -124,7 +118,6 @@ Bundesministerium für Verkehr, Bau und Stadtentwicklung an die
 Kommission und unterrichtet die Eisenbahn über das Ergebnis des EG-
 Beteiligungsverfahrens.
 
-
 ## § 4 Beantragung von Sicherheitsbescheinigungen und Sicherheitsgenehmigungen
 
 (1) Anträge auf Erteilung von Sicherheitsbescheinigungen und
@@ -135,7 +128,6 @@ Antragstellung kostenlos einen Leitfaden zur Verfügung, in dem die
 Anforderungen für Sicherheitsbescheinigungen und
 Sicherheitsgenehmigungen erläutert sowie die vorzulegenden Dokumente
 aufgelistet sind.
-
 
 ## § 5 Unterrichtungspflichten
 
@@ -154,7 +146,6 @@ Mitteilung enthält Name und Anschrift des
 Eisenbahnverkehrsunternehmens, das Ausgabedatum, den Geltungsbereich
 und die Gültigkeitsdauer der Sicherheitsbescheinigung oder
 Sicherheitsgenehmigung, sowie im Fall des Widerrufs die Gründe dafür.
-
 
 ## § 6 Sicherheitsbericht
 
@@ -185,10 +176,6 @@ muss enthalten:
     Untersuchungsbehörde untersucht wurden, und die infolgedessen
     ergriffenen Maßnahmen.
 
-
-
-
-
 ## § 7 Jahresbericht
 
 (1) Die Sicherheitsbehörde veröffentlicht jedes Jahr einen Bericht
@@ -211,10 +198,6 @@ spätestens bis zum 30. September jeden Jahres.
 
 
 4.  die Durchführung der Eisenbahnaufsicht in allgemeiner Form.
-
-
-
-
 
 ## § 8 Ordnungswidrigkeiten
 

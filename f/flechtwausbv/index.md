@@ -22,7 +22,6 @@ Konferenz der Kultusminister der Länder in der Bundesrepublik
 Deutschland beschlossene Rahmenlehrplan für die Berufsschule werden
 demnächst als Beilage im Bundesanzeiger veröffentlicht.
 
-
 ## Eingangsformel
 
 Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des
@@ -35,7 +34,6 @@ des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S.
 3165) sowie dem Organisationserlass vom 22. November 2005 (BGBl. I S.
 3197) verordnet das Bundesministerium für Wirtschaft und Technologie
 im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
-
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
@@ -52,11 +50,9 @@ Der Ausbildungsberuf Flechtwerkgestalter/Flechtwerkgestalterin wird
 
 staatlich anerkannt.
 
-
 ## § 2 Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Zielsetzung der Berufsausbildung
 
@@ -70,7 +66,6 @@ Handeln im betrieblichen Gesamtzusammenhang einschließt. Diese
 Befähigung ist auch in den Prüfungen nach den §§ 9 und 10
 nachzuweisen.
 
-
 ## § 4 Struktur der Berufsausbildung
 
 Die Berufsausbildung gliedert sich in gemeinsame Ausbildungsinhalte
@@ -83,10 +78,6 @@ B.  Flechtmöbel oder
 
 
 C.  Flechtobjekte.
-
-
-
-
 
 ## § 5 Ausbildungsberufsbild
 
@@ -138,10 +129,6 @@ Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 15. Kundenorientierung.
 
-
-
-
-
 ## § 6 Ausbildungsrahmenplan
 
 Die in § 5 genannten Fertigkeiten, Kenntnisse und Fähigkeiten
@@ -152,13 +139,11 @@ dem Ausbildungsrahmenplan abweichende sachliche und zeitliche
 Gliederung der Ausbildungsinhalte ist insbesondere zulässig, soweit
 betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
 ## § 7 Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des
 Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan
 zu erstellen.
-
 
 ## § 8 Schriftlicher Ausbildungsnachweis
 
@@ -167,7 +152,6 @@ führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
 Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
 Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
 durchzusehen.
-
 
 ## § 9 Zwischenprüfung
 
@@ -196,7 +180,6 @@ dass er Arbeitsabläufe planen, Werkstoffe und Arbeitsmittel festlegen,
 technische Unterlagen nutzen, Maßnahmen zur Sicherheit und zum
 Gesundheitsschutz bei der Arbeit, zum Umweltschutz und zur
 Qualitätssicherung anwenden und seine Vorgehensweise begründen kann.
-
 
 ## § 10 Abschlussprüfung/Gesellenprüfung
 
@@ -365,7 +348,6 @@ sein. Weiterhin darf weder in den Arbeitsaufgaben des praktischen
 Teils noch in dem weiteren Prüfungsbereich des schriftlichen Teils
 eine ungenügende Leistung erbracht worden sein.
 
-
 ## § 11 Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
@@ -373,11 +355,9 @@ bestehen, können unter Anrechnung der bisher zurückgelegten
 Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt
 werden, wenn die Vertragsparteien dies vereinbaren.
 
-
 ## § 12 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2006 in Kraft.
-
 
 ## Anlage (zu § 6) Ausbildungsrahmenplan für die Berufsausbildung zum Flechtwerkgestalter/zur Flechtwerkgestalterin
 

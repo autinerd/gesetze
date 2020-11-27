@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1996, 791
 
-
-
 ## (XXXX)
 
 Nach Artikel 6 Abs. 3 des Einführungsgesetzes zum Handelsgesetzbuche,

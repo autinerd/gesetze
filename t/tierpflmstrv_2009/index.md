@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 513
 
-
 ## Eingangsformel
 
 Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 des
@@ -26,7 +25,6 @@ Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnet das
 Bundesministerium für Bildung und Forschung nach Anhörung des
 Hauptausschusses des Bundesinstituts für Berufsbildung im Einvernehmen
 mit dem Bundesministerium für Wirtschaft und Technologie:
-
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
 
@@ -84,7 +82,6 @@ tragen und folgende Aufgaben wahrzunehmen:
 (3) Die erfolgreich abgelegte Prüfung führt zum anerkannten Abschluss
 „Geprüfter Tierpflegemeister/Geprüfte Tierpflegemeisterin“.
 
-
 ## § 2 Zulassungsvoraussetzungen
 
 (1) Zur Prüfung im Prüfungsteil „Grundlegende Qualifikationen“ ist
@@ -132,7 +129,6 @@ zugelassen werden, wer durch Vorlage von Zeugnissen oder auf andere
 Weise glaubhaft macht, dass Fertigkeiten, Kenntnisse und Fähigkeiten
 erworben wurden, die die Zulassung zur Prüfung rechtfertigen.
 
-
 ## § 3 Inhalt und Gliederung der Prüfung
 
 (1) Die Qualifikation zum Geprüften Tierpflegemeister/zur Geprüften
@@ -173,7 +169,6 @@ Ausbilder-Eignungsverordnung in der jeweils geltenden Fassung oder
 einer anderen gleichwertigen öffentlich-rechtlichen Regelung ist
 nachzuweisen. Der Nachweis ist vor Beginn der letzten Prüfungsleistung
 zu erbringen.
-
 
 ## § 4 Grundlegende Qualifikationen
 
@@ -319,7 +314,6 @@ dauern. Die Bewertung der schriftlichen Prüfungsleistung und die der
 mündlichen Ergänzungsprüfung werden zu einer Note zusammengefasst.
 Dabei wird die Bewertung der schriftlichen Prüfungsleistung doppelt
 gewichtet.
-
 
 ## § 5 Handlungsspezifische Qualifikationen
 
@@ -749,7 +743,6 @@ Minuten und höchstens 75 Minuten. Davon entfallen 30 Minuten auf die
 Gesprächsvorbereitung durch den Prüfungsteilnehmer oder die
 Prüfungsteilnehmerin.
 
-
 ## § 6 Anrechnung anderer Prüfungsleistungen
 
 Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin kann auf Antrag
@@ -762,7 +755,6 @@ oder staatlich anerkannten Bildungseinrichtung oder vor einem
 staatlichen Prüfungsausschuss eine Prüfung mit Erfolg abgelegt wurde,
 die den Anforderungen der entsprechenden Prüfungsinhalte nach dieser
 Verordnung entspricht.
-
 
 ## § 7 Bewerten der Prüfungsleistungen und Bestehen der Prüfung
 
@@ -794,7 +786,6 @@ Bezeichnung des Prüfungsgremiums anzugeben. Der Nachweis über den
 Erwerb der berufs- und arbeitspädagogischen Kenntnisse nach § 3 Absatz
 5 ist im Zeugnis einzutragen.
 
-
 ## § 8 Wiederholen der Prüfung
 
 (1) Ein Prüfungsteil, der nicht bestanden ist, kann zweimal wiederholt
@@ -810,7 +801,6 @@ angemeldet hat. Bestandene Prüfungsleistungen können auf Antrag einmal
 wiederholt werden. In diesem Fall gilt das Ergebnis der letzten
 Prüfung.
 
-
 ## § 9 Übergangsvorschriften
 
 Begonnene Prüfungsverfahren können bis zum Ablauf des 31. Juli 2011
@@ -821,11 +811,9 @@ Anwendung. Im Übrigen kann bei der Anmeldung zur Prüfung bis zum
 Ablauf des 31. Juli 2011 die Anwendung der bisherigen Vorschriften
 beantragt werden.
 
-
 ## § 10 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. April 2009 in Kraft.
-
 
 ## Anlage 1 (zu § 7 Absatz 5) Muster
 
@@ -834,8 +822,6 @@ Diese Verordnung tritt am 1. April 2009 in Kraft.
 *    *
 
 *    *   (Bezeichnung der zuständigen Stelle)
-
-
 
 ## Zeugnis
 
@@ -854,8 +840,6 @@ Diese Verordnung tritt am 1. April 2009 in Kraft.
 *    *   hat am
 
     *   die Prüfung zum anerkannten Abschluss
-
-
 
 ## Geprüfter Tierpflegemeister/Geprüfte Tierpflegemeisterin
 
@@ -874,9 +858,6 @@ bestanden.
 
 *    *   (Siegel der zuständigen Stelle)
 
-
-
-
 ## Anlage 2 (zu § 7 Absatz 5) Muster
 
 (Fundstelle: BGBl. I 2009, 520)
@@ -884,8 +865,6 @@ bestanden.
 *    *
 
 *    *   (Bezeichnung der zuständigen Stelle)
-
-
 
 ## Zeugnis
 
@@ -904,8 +883,6 @@ bestanden.
 *    *   hat am
 
     *   die Prüfung zum anerkannten Abschluss
-
-
 
 ## Geprüfter Tierpflegemeister/Geprüfte Tierpflegemeisterin
 

@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1985, 647
 
-
-
 ## (XXXX)
 
 (1) Auf Grund des § 6 des Gesetzes über die Ausprägung von

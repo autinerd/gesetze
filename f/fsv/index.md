@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1994, 3524
 
-
-
 ## Eingangsformel
 
 Auf Grund
@@ -36,7 +34,6 @@ Auf Grund
 verordnet das Bundesministerium für Arbeit und Sozialordnung im
 Einvernehmen mit dem Bundesministerium für Ernährung, Landwirtschaft
 und Forsten:
-
 
 ## § 1 Stillegung bei Bezug einer Rente aus der Alterssicherung der Landwirte
 
@@ -93,10 +90,6 @@ wenn
 
 2.  die Flächen in extensiv zu nutzendes Grünland umgewandelt werden.
 
-
-
-
-
 ## § 2 Stillegung bei Bezug einer Produktionsaufgaberente
 
 Ein Leistungsempfänger nach dem Gesetz zur Förderung der Einstellung
@@ -112,7 +105,6 @@ der landwirtschaftlichen Erwerbstätigkeit kann eine Fläche nur
 
 
 stillegen.
-
 
 ## § 3 Pflichten bei Flächenstillegung
 
@@ -166,16 +158,13 @@ Landschaftspflege, ist Absatz 1 entsprechend anzuwenden.
 Leistungsempfänger verpflichtet, die erstmals aufgeforstete Fläche
 fachgerecht zu pflegen.
 
-
 ## § 4
 
 -
 
-
 ## § 5 Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 1995 in Kraft.
-
 
 ## Schlußformel
 

@@ -21,7 +21,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 43 G v. 6.12.2011 I 2515
 
-
 ## § 1
 
 (1) Wer eine Tätigkeit unter der Berufsbezeichnung "pharmazeutisch-
@@ -42,7 +41,6 @@ Nachprüfung nach diesem Gesetz. Gleiches gilt für Drittstaaten und
 Drittstaatsangehörige, soweit sich hinsichtlich der Anerkennung von
 Ausbildungsnachweisen nach dem Recht der Europäischen Gemeinschaften
 eine Gleichstellung ergibt.
-
 
 ## § 2
 
@@ -182,7 +180,6 @@ wahrgenommen werden.
 Anerkennungsverfahren nach diesem Gesetz und berichtet nach Ablauf von
 drei Jahren dem Deutschen Bundestag.
 
-
 ## § 2a
 
 (1) Die zuständigen Behörden des Landes, in dem der Beruf des
@@ -219,7 +216,6 @@ die Europäische Kommission für den nach Artikel 60 Abs. 1 der
 Richtlinie 2005/36/EG erforderlichen Bericht benötigt, zur
 Weiterleitung an die Kommission.
 
-
 ## § 3
 
 (1) Die Erlaubnis ist zurückzunehmen, wenn bei ihrer Erteilung eine
@@ -233,11 +229,9 @@ Voraussetzung nach § 2 Abs. 1 Nr. 2 weggefallen ist.
 (3) Die Erlaubnis kann widerrufen werden, wenn nachträglich eine der
 Voraussetzungen nach § 2 Abs. 1 Nr. 3 weggefallen ist.
 
-
 ## § 4
 
 (weggefallen)
-
 
 ## § 5
 
@@ -249,7 +243,6 @@ Realschulbildung oder eine andere gleichwertige Ausbildung nachweist.
 
 (3) Der Lehrgang umfaßt eine theoretische und praktische Ausbildung.
 
-
 ## § 6
 
 Die praktische Ausbildung wird in Apotheken, ausgenommen
@@ -258,7 +251,6 @@ ordnungsgemäße praktische Ausbildung des Anwärters zu sorgen. Die Zahl
 der in der Apotheke auszubildenden Anwärter soll in einem angemessenen
 Verhältnis zum Umfang des Apothekenbetriebs, insbesondere zur Zahl der
 in der Apotheke tätigen Apotheker stehen.
-
 
 ## § 7
 
@@ -309,7 +301,6 @@ eine Erlaubnis nach § 2 Abs. 1 in Verbindung mit § 2 Abs. 2 Satz 2 und
 (3) Abweichungen von den in den Absätzen 1 und 2 sowie der auf dieser
 Grundlage erlassenen Rechtsverordnung enthaltenen Regelungen des
 Verwaltungsverfahrens durch Landesrecht sind ausgeschlossen.
-
 
 ## § 7a
 
@@ -412,7 +403,6 @@ Dienstleisters sowie Informationen darüber, dass keine berufsbezogenen
 disziplinarischen oder strafrechtlichen Sanktionen vorliegen, zu
 übermitteln.
 
-
 ## § 8
 
 Der pharmazeutisch-technische Assistent ist befugt, in der Apotheke
@@ -420,7 +410,6 @@ unter der Aufsicht eines Apothekers pharmazeutische Tätigkeiten
 auszuüben. Das Nähere bestimmt die Apothekenbetriebsordnung. Zur
 Vertretung in der Leitung einer Apotheke ist der pharmazeutisch-
 technische Assistent nicht befugt.
-
 
 ## § 9
 
@@ -441,7 +430,6 @@ Dienstleistung erbracht wird oder erbracht worden ist.
 (2) Die Landesregierungen bestimmen die zur Durchführung dieses
 Gesetzes zuständigen Behörden.
 
-
 ## § 10
 
 (1) Ordnungswidrig handelt, wer die Berufsbezeichnung "pharmazeutisch-
@@ -451,11 +439,9 @@ führt, ohne die Erlaubnis nach § 1 zu besitzen.
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
 zweitausendfünfhundert Euro geahndet werden.
 
-
 ## (XXXX) §§ 11 und 12 (weggefallen)
 
 -
-
 
 ## § 13
 

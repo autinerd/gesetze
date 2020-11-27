@@ -16,14 +16,11 @@ Ausfertigungsdatum
 Fundstelle
 :   GBl DDR: 1990, SDr 1472
 
-
-
 ## Eingangsformel
 
 Auf Grund des Art. 6 § 6 Nr. 1 des Umweltrahmengesetzes vom 29. Juni
 1990 (BGBl. I Nr. 42 S. 649) in Verbindung mit §§ 12, 13 und 15 des
 Bundesnaturschutzgesetzes wird verordnet:
-
 
 ## § 1 Festsetzung
 
@@ -33,7 +30,6 @@ Landschaftsschutzgebiet von zentraler Bedeutung festgesetzt.
 
 (2) Das Gesamtgebiet erhält die Bezeichnung "Biosphärenreservat
 Schorfheide - Chorin".
-
 
 ## § 2 Flächenbeschreibung und Abgrenzung
 
@@ -207,10 +203,6 @@ Das Biosphärenreservat wird im einzelnen wie folgt begrenzt:
     Alte Oder, diese entlang nach O und NO bis zur Einmündung in die
     Stromoder.
 
-
-
-
-
 ## § 3 Schutzzonen
 
 (1) Das Biosphärenreservat wird in die Schutzzonen I bis IV
@@ -243,7 +235,6 @@ verwahrt werden und auf die Bezug genommen wird. Weitere
 Ausfertigungen befinden sich bei der Reservatsverwaltung und den
 Kreisverwaltungen. Bei den genannten Behörden sind die Karten während
 der Sprechzeiten allgemein zugänglich.
-
 
 ## § 4 Schutzzweck
 
@@ -711,13 +702,6 @@ Totalreservate geschützt:
     -   zur Erhaltung von Lebensräumen bedrohter Tier- und Pflanzenarten,
         insbesondere der Lebensgemeinschaften der ehemaligen Tongruben.
 
-
-
-
-
-
-
-
 ## § 5 Gebote
 
 (1) Zur Erhaltung und Wiederherstellung der Leistungsfähigkeit des
@@ -791,7 +775,6 @@ Leistungsfähigkeit des Naturhaushalts wiederherzustellen.
 
 (3) Für die Benutzung der Wasserstraßen über die Berufsschiffahrt
 hinaus ist ein Benutzungskonzept zu erstellen.
-
 
 ## § 6 Verbote
 
@@ -974,10 +957,6 @@ ergänzende Verbote:
 
     Die Fischerei ist untersagt.
 
-
-
-
-
 ## § 7 Bestandsschutz und nicht betroffene Tätigkeiten
 
 (1) Unberührt von den Verboten des § 6 Abs. 1 bleiben die bei
@@ -1027,10 +1006,6 @@ hinaus:
 3.  die bei Inkrafttreten dieser Verordnung rechtmäßig zugelassenen Ver-
     und Entsorgungsanlagen einschließlich ihrer Wartung und Unterhaltung.
 
-
-
-
-
 ## § 8 Befreiungen
 
 (1) Von den Verboten und Geboten dieser Verordnung kann auf Antrag im
@@ -1059,7 +1034,6 @@ Einzelfall Befreiung gewährt werden, wenn
 der Reservatsverwaltung; die Aufsichtsbehörde kann diese Aufgabe ganz
 oder teilweise delegieren.
 
-
 ## § 9 Einvernehmen
 
 Das Einvernehmen mit der Verwaltung des Biosphärenreservates ist
@@ -1070,10 +1044,6 @@ herzustellen bei
 
 2.  Maßnahmen zur Unterhaltung der Straßen, Wege, Deiche und Gewässer.
 
-
-
-
-
 ## § 10 Entschädigung für Nutzungsbeschränkungen
 
 Werden Eigentümern oder Nutzungsberechtigten durch diese Verordnung
@@ -1083,29 +1053,24 @@ Sozialbindung des Eigentums hinausgeht, so haben sie Anspruch auf
 Entschädigung. Diese muß die Vermögensnachteile die durch die Maßnahme
 verursacht wurden, angemessen ausgleichen.
 
-
 ## § 11 Vorrang dieser Verordnung
 
 Die Bestimmungen dieser Verordnung gehen den Bestimmungen der
 bestehenden naturschutzrechtlichen Beschlüsse, Verordnungen oder
 Anordnungen für dieses Gebiet vor.
 
-
 ## § 12 Schlußbestimmung
 
 Die Verordnung tritt mit Wirkung vom 1. Oktober 1990 in Kraft.
-
 
 ## Schlußformel
 
 **Der Ministerrat der Deutschen Demokratischen Republik**
 
-
 ## Anlage
 
 (Inhalt: nicht darstellbare Karte,
 Fundstelle: GBl. 1990, Sonderdruck Nr. 1472)
-
 
 ## Anhang EV Auszug aus Artikel 3 der Vereinbarung zur Durchführung und Auslegung des Einigungsvertrages vom 18.9.1990 (EinigVtrVbg) (BGBl. II 1990, 885, 1239)
 

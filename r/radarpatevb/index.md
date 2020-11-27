@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 14 V v. 16.12.2011 II 1300
 
-
 ## Eingangsformel
 
 Das Bundesministerium für Verkehr, Bau- und Wohnungswesen verordnet
@@ -37,10 +36,6 @@ auf Grund
     Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821), im
     Einvernehmen mit dem Bundesministerium der Finanzen:
 
-
-
-
-
 ## Art 1 Anwendungsbereich
 
 (1) Artikel 3 Absatz 15 bis 17, Artikel 5 Absatz 1 Nummer 3, Artikel 6
@@ -55,11 +50,9 @@ der Elbe im Bereich des Hamburger Hafens.
 (2) Diese Verordnung gilt nicht für Seeschiffe auf
 Seeschifffahrtsstraßen.
 
-
 ## Art 2
 
 -
-
 
 ## Art 3 Inkrafttreten
 

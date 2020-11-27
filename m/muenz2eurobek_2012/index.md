@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 36
 
-
 ## (XXXX)
 
 Auf Initiative der Europäischen Kommission soll im Januar 2012
@@ -49,11 +48,9 @@ Münze soll 30 Millionen Stück betragen. Daneben werden ca. 0,75
 Millionen Stück in der höherwertigen Prägequalität Spiegelglanz für
 Sammlerzwecke produziert.
 
-
 ## Schlussformel
 
 Der Bundesminister der Finanzen
-
 
 ## (XXXX)
 

@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 2335
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
@@ -28,10 +26,7 @@ Naturschutz und Reaktorsicherheit im Einvernehmen mit dem
 Bundesministerium für Bildung und Forschung und dem Bundesministerium
 des Innern:
 
-
 ## Teil 1 - Gemeinsame Vorschriften
-
-
 
 ### § 1 Staatliche Anerkennung der Ausbildungsberufe
 
@@ -56,11 +51,9 @@ werden staatlich anerkannt. Soweit die Ausbildung im Bereich des
 Wirtschaft stattfindet, sind sie Ausbildungsberufe der gewerblichen
 Wirtschaft.
 
-
 ### § 2 Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
-
 
 ### § 3 Struktur und Zielsetzung der Berufsausbildung
 
@@ -101,10 +94,7 @@ Planen, Durchführen und Kontrollieren einschließt. Die in Satz 1
 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 8, 9,
 14, 15, 20, 21, 26 und 27 nachzuweisen.
 
-
 ## Teil 2 - Vorschriften für den Ausbildungsberuf Fachkraft für Wasserversorgungstechnik
-
-
 
 ### § 4 Ausbildungsberufsbild
 
@@ -184,10 +174,6 @@ Fertigkeiten und Kenntnisse:
 
 24. Rechtsvorschriften und technische Regelwerke.
 
-
-
-
-
 ### § 5 Ausbildungsrahmenplan
 
 Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der Anlage
@@ -197,12 +183,10 @@ dem Ausbildungsrahmenplan abweichende sachliche und zeitliche
 Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit
 betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
 ### § 6 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ### § 7 Berichtsheft
 
@@ -210,7 +194,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 ### § 8 Zwischenprüfung
 
@@ -255,10 +238,6 @@ Betracht:
 
 
 4.  Werk-, Hilfs- und Gefahrstoffe, gefährliche Arbeitsstoffe.
-
-
-
-
 
 ### § 9 Abschlussprüfung
 
@@ -402,10 +381,7 @@ des schriftlichen Teils der Prüfung im Prüfungsbereich
 Wasserversorgung ebenfalls mindestens ausreichende Leistungen erbracht
 sein.
 
-
 ## Teil 3 - Vorschriften für den Ausbildungsberuf Fachkraft für Abwassertechnik
-
-
 
 ### § 10 Ausbildungsberufsbild
 
@@ -479,10 +455,6 @@ Fertigkeiten und Kenntnisse:
 
 22. Vertiefungsphase Kanalbetrieb oder Kläranlagenbetrieb.
 
-
-
-
-
 ### § 11 Ausbildungsrahmenplan
 
 Die Fertigkeiten und Kenntnisse nach § 10 sollen nach der in der
@@ -493,12 +465,10 @@ zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
 zulässig, soweit betriebspraktische Besonderheiten die Abweichung
 erfordern.
 
-
 ### § 12 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ### § 13 Berichtsheft
 
@@ -506,7 +476,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 ### § 14 Zwischenprüfung
 
@@ -551,10 +520,6 @@ Betracht:
 
 
 4.  Werk-, Hilfs- und Gefahrstoffe, gefährliche Arbeitsstoffe.
-
-
-
-
 
 ### § 15 Abschlussprüfung
 
@@ -691,10 +656,7 @@ Prüfung im Prüfungsbereich Elektrotechnische Arbeiten sowie innerhalb
 des schriftlichen Teils der Prüfung im Prüfungsbereich Abwassertechnik
 ebenfalls mindestens ausreichende Leistungen erbracht sein.
 
-
 ## Teil 4 - Vorschriften für den Ausbildungsberuf Fachkraft für Kreislauf- und Abfallwirtschaft
-
-
 
 ### § 16 Ausbildungsberufsbild
 
@@ -768,10 +730,6 @@ Fertigkeiten und Kenntnisse:
 
 22. Rechtsvorschriften und technische Regelwerke.
 
-
-
-
-
 ### § 17 Ausbildungsrahmenplan
 
 Die Fertigkeiten und Kenntnisse nach § 16 sollen unter
@@ -784,12 +742,10 @@ Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung
 des Ausbildungsinhaltes ist insbesondere zulässig, soweit
 betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
 ### § 18 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ### § 19 Berichtsheft
 
@@ -797,7 +753,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 ### § 20 Zwischenprüfung
 
@@ -842,10 +797,6 @@ Betracht:
 
 
 4.  Werk-, Hilfs- und Gefahrstoffe, gefährliche Arbeitsstoffe.
-
-
-
-
 
 ### § 21 Abschlussprüfung
 
@@ -1008,10 +959,7 @@ schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils
 der Prüfung im Prüfungsbereich Abfallwirtschaftliche Prozesse
 mindestens ausreichende Leistungen erbracht sind.
 
-
 ## Teil 5 - Vorschriften für den Ausbildungsberuf Fachkraft für Rohr-, Kanal- und Industrieservice
-
-
 
 ### § 22 Ausbildungsberufsbild
 
@@ -1079,10 +1027,6 @@ Fertigkeiten und Kenntnisse:
 
 20. Wartung und Unterhalt.
 
-
-
-
-
 ### § 23 Ausbildungsrahmenplan
 
 Die Fertigkeiten und Kenntnisse nach § 22 sollen unter
@@ -1094,12 +1038,10 @@ Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung
 des Ausbildungsinhaltes ist insbesondere zulässig, soweit
 betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
 ### § 24 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ### § 25 Berichtsheft
 
@@ -1107,7 +1049,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 ### § 26 Zwischenprüfung
 
@@ -1152,10 +1093,6 @@ Betracht:
 
 
 4.  Werk-, Hilfs- und Gefahrstoffe, gefährliche Arbeitsstoffe.
-
-
-
-
 
 ### § 27 Abschlussprüfung
 
@@ -1304,10 +1241,7 @@ schriftlichen Teil der Prüfung mindestens ausreichende Leistungen
 erbracht sind. Die Prüfung ist nicht bestanden, wenn in einem der
 Prüfungsbereiche ungenügende Leistungen erbracht werden.
 
-
 ## Teil 6 - Übergangs- und Schlussvorschriften
-
-
 
 ### § 28 Übergangsregelung
 
@@ -1316,11 +1250,9 @@ Verordnung bestehen, sind die bisherigen Vorschriften weiter
 anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
 Anwendung der Vorschriften dieser Verordnung.
 
-
 ### § 29 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2002 in Kraft.
-
 
 ### Anlage 1 (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Wasserversorgungstechnik
 
@@ -2044,10 +1976,6 @@ Diese Verordnung tritt am 1. August 2002 in Kraft.
 
 \*) Im Zusammenhang mit anderen Ausbildungsinhalten zu vermitteln.
 
-
-
-
-
 ### Anlage 2 (zu § 11) Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Abwassertechnik
 
 (Fundstelle: BGBl. I 2002, 2349 - 2354)
@@ -2758,10 +2686,6 @@ Diese Verordnung tritt am 1. August 2002 in Kraft.
 
 
 \*) Im Zusammenhang mit anderen Ausbildungsinhalten zu vermitteln.
-
-
-
-
 
 ### Anlage 3 (zu § 17) Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Kreislauf- und Abfallwirtschaft
 
@@ -3850,10 +3774,6 @@ Diese Verordnung tritt am 1. August 2002 in Kraft.
 
     *
     *   2
-
-
-
-
 
 ### Anlage 4 (zu § 23) Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Rohr-, Kanal- und Industrieservice
 

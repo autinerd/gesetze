@@ -35,10 +35,6 @@ Zuletzt geändert durch
     Oktober 2004 (BGBl. 2005 II S. 1122), in der jeweils geltenden
     Fassung.
 
-
-
-
-
 ## § 1 Geltungsbereich
 
 Dieses Gesetz gilt für:
@@ -59,10 +55,6 @@ Dieses Gesetz gilt für:
 
 4.  die mit der Verbringung verbundene Verwertung oder Beseitigung.
 
-
-
-
-
 ## § 2 Grundsatz der Autarkie
 
 (1) Bei Abfällen, die aus dem Bundesgebiet verbracht werden sollen und
@@ -78,7 +70,6 @@ einem anderen Staat.
 (Abfallschlüssel 20 03 01), die in privaten Haushaltungen eingesammelt
 worden sind, auch wenn dabei solche Abfälle anderer Erzeuger mit
 eingesammelt worden sind.
-
 
 ## § 3 Bestimmungen im Verfahren der vorherigen schriftlichen Notifizierung und Zustimmung, die die Behörden betreffen
 
@@ -127,10 +118,6 @@ Entscheidung
 
 2.  in sonstigen Fällen seit Rechtskraft des Urteils mehr als fünf Jahre
     verstrichen sind.
-
-
-
-
 
 ## § 4 Pflichten der übrigen Beteiligten im Verfahren der vorherigen schriftlichen Notifizierung und Zustimmung
 
@@ -215,7 +202,6 @@ Abs. 2 Nr. 2 und 3 der Verordnung (EG) Nr. 1013/2006 abhängig gemacht
 hat, zu Zeitpunkten, die von der Behörde festgelegt sind, solche
 Informationen und Unterlagen zu übermitteln.
 
-
 ## § 5 Pflichten im Rahmen der allgemeinen Informationspflichten
 
 (1) Bei Verbringungen, die von Artikel 18, auch in Verbindung mit
@@ -276,7 +262,6 @@ hat der Betreiber unverzüglich die zuständige Behörde gemäß § 14 Abs.
 gilt Artikel 26 Abs. 3 der Verordnung (EG) Nr. 1013/2006 bezüglich
 Absatz 1 Nr. 1, 2 und 3 entsprechend.
 
-
 ## § 6 Verordnungsermächtigungen
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung
@@ -296,10 +281,6 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung
     gemäß Artikel 36 Abs. 3 der Verordnung (EG) Nr. 1013/2006 Vorschriften
     zu erlassen über die Ausnahmen von dem Ausfuhrverbot in Bezug auf
     bestimmte in Anhang V aufgeführte Abfälle.
-
-
-
-
 
 ## § 7 Gebühren und Auslagen
 
@@ -347,7 +328,6 @@ abhängt. Die Gebühr beträgt mindestens 50 Euro; sie darf im Einzelfall
 (4) Die Befugnis der Länder zum Erlass von Regelungen über
 gebührenpflichtige Tatbestände, Gebührensätze und die
 Auslagenerstattung bleibt im Übrigen unberührt.
-
 
 ## § 8 Ergänzende Bestimmungen zu den Rücknahmeverpflichtungen
 
@@ -412,7 +392,6 @@ Kostenverteilung vereinbaren.
 (5) Widerspruch und Anfechtungsklage gegen Entscheidungen betreffend
 die Rückführung der Abfälle oder die Festsetzung von Kosten nach
 Absatz 3 haben keine aufschiebende Wirkung.
-
 
 ## § 9 Datenerhebung und -verwendung
 
@@ -513,7 +492,6 @@ für das Gemeinwohl oder einer sonst drohenden Gefahr für die
 Ordnungswidrigkeiten erforderlich ist. Die übermittelnde Stelle hat
 die dritte Person in den Fällen des Absatzes 4 darauf hinzuweisen.
 
-
 ## § 10 Kennzeichnung der Fahrzeuge
 
 (1) Beförderer und den Transport unmittelbar durchführende Personen
@@ -535,7 +513,6 @@ auf die Beförderung von Abfällen gerichtet ist, befördert werden.
 (3) Die Bundesregierung wird ermächtigt, in einer Rechtsverordnung
 nach § 53 Absatz 6 oder § 54 Absatz 7 des Kreislaufwirtschaftsgesetzes
 Ausnahmen von der Kennzeichnungspflicht nach Absatz 1 zuzulassen.
-
 
 ## § 11 Kontrollen
 
@@ -621,7 +598,6 @@ Artikel 38 Abs. 7, Artikel 42 Abs. 5, auch in Verbindung mit Artikel
 Verbindung mit Artikel 48 Abs. 2, der Verordnung (EG) Nr. 1013/2006
 unberührt.
 
-
 ## § 12 Maßnahmen zur Überwachung
 
 (1) Insbesondere die zuständigen Behörden gemäß § 14 Abs. 1, 2 und 4
@@ -679,7 +655,6 @@ der zuständigen Behörde auf Anforderung zu Zeitpunkten, die von der
 Behörde festgelegt sind, die in Satz 1 genannten Informationen zu
 übermitteln.
 
-
 ## § 13 Anordnungen im Einzelfall
 
 Die zuständige Behörde kann im Einzelfall die erforderlichen
@@ -699,7 +674,6 @@ Artikel 38 Abs. 7, Artikel 42 Abs. 5, auch in Verbindung mit Artikel
 45, Artikel 47 und 48 Abs. 1, sowie Artikel 44 Abs. 5, auch in
 Verbindung mit Artikel 48 Abs. 2, der Verordnung (EG) Nr. 1013/2006
 sowie gemäß § 11 Abs. 5 treffen.
-
 
 ## § 14 Zuständige Behörden
 
@@ -743,7 +717,6 @@ Pflichten zuständig, die für die Behörden gelten, welche gemäß
 Verordnung (EG) Nr. 1013/2006 die für die Durchfuhr zuständigen
 Behörden sind.
 
-
 ## § 15 Anlaufstelle
 
 (1) Das Umweltbundesamt ist Anlaufstelle im Sinne des Artikels 5 Nr. 1
@@ -770,7 +743,6 @@ und die diesbezüglichen Informationen gemäß Artikel 50 Abs. 6 und
 Artikel 56 Abs. 1 Buchstabe a und b in Verbindung mit Abs. 2 bis 4 der
 Verordnung (EG) Nr. 1013/2006.
 
-
 ## § 16 Berichte und Übermittlung von Informationen
 
 (1) Für die Übermittlung von Informationen nach Artikel 13 des Basler
@@ -792,7 +764,6 @@ dem Umweltbundesamt rechtzeitig auf elektronischem Weg die
 Informationen, die zur Fertigung dieses Berichts gemäß Anhang IX der
 Verordnung (EG) Nr. 1013/2006 erforderlich sind.
 
-
 ## § 17 Zollstellen
 
 Das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit
@@ -800,7 +771,6 @@ gibt im Einvernehmen mit dem Bundesministerium der Finanzen gemäß
 Artikel 55 der Verordnung (EG) Nr. 1013/2006 die Zollstellen für die
 Bundesrepublik Deutschland bekannt, über die Abfälle beim Eingang oder
 beim Verlassen der Europäischen Gemeinschaft verbracht werden dürfen.
-
 
 ## § 18 Bußgeldvorschriften
 
@@ -927,7 +897,6 @@ Naturschutz und Reaktorsicherheit ermächtigt, durch Rechtsverordnung
 ohne Zustimmung des Bundesrates die Tatbestände zu bezeichnen, die als
 Ordnungswidrigkeit nach Absatz 1 Nr. 18 geahndet werden können.
 
-
 ## § 19 Einziehung
 
 Ist eine Ordnungswidrigkeit nach § 18 Abs. 1 begangen worden, so
@@ -943,7 +912,6 @@ können
 
 eingezogen werden. § 23 des Gesetzes über Ordnungswidrigkeiten ist
 anzuwenden.
-
 
 ## § 20 Bestimmungen zum Verwaltungsverfahren
 

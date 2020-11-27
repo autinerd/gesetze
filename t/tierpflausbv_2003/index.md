@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2003, 1093
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
@@ -28,12 +26,10 @@ und dem Organisationserlass vom 22. Oktober 2002 (BGBl. I S. 4206)
 verordnet das Bundesministerium für Wirtschaft und Arbeit im
 Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Tierpfleger/Tierpflegerin wird staatlich
 anerkannt.
-
 
 ## § 2 Ausbildungsdauer
 
@@ -50,7 +46,6 @@ Die Ausbildung dauert drei Jahre. Es kann zwischen den Fachrichtungen
 
 
 gewählt werden.
-
 
 ## § 3 Ausbildungsberufsbild
 
@@ -162,10 +157,6 @@ Tierpension sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 4.  Verwaltung und kaufmännische Grundlagen.
 
-
-
-
-
 ## § 4 Ausbildungsrahmenplan
 
 (1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach der in der
@@ -182,12 +173,10 @@ Berufsbildungsgesetzes befähigt werden, die insbesondere selbständiges
 Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung
 ist auch in den Prüfungen nach den §§ 7 bis 10 nachzuweisen.
 
-
 ## § 5 Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans
 für die Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 6 Berichtsheft
 
@@ -195,7 +184,6 @@ Die Auszubildenden haben ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden
 haben das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 7 Zwischenprüfung
 
@@ -259,10 +247,6 @@ folgende Bereiche in Betracht:
 
 
 4.  Mitwirken bei Behandlungen.
-
-
-
-
 
 ## § 8 Abschlussprüfung in der Fachrichtung Forschung und Klinik
 
@@ -477,7 +461,6 @@ von Tieren in Forschung und Klinik mindestens ausreichende Leistungen
 erbracht sind. Werden die Prüfungsleistungen in einem Prüfungsbereich
 mit ungenügend bewertet, so ist die Prüfung nicht bestanden.
 
-
 ## § 9 Abschlussprüfung in der Fachrichtung Zoo
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage
@@ -690,7 +673,6 @@ der Prüfung im Prüfungsbereich Pflegen, Halten und Versorgen von
 Tieren in Zoos mindestens ausreichende Leistungen erbracht sind.
 Werden die Prüfungsleistungen in einem Prüfungsbereich mit ungenügend
 bewertet, so ist die Prüfung nicht bestanden.
-
 
 ## § 10 Abschlussprüfung in der Fachrichtung Tierheim und Tierpension
 
@@ -949,7 +931,6 @@ Leistungen erbracht sind. Werden die Prüfungsleistungen in einem
 Prüfungsbereich mit ungenügend bewertet, so ist die Prüfung nicht
 bestanden.
 
-
 ## § 11 Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
@@ -959,11 +940,9 @@ Mai 1984 (BGBl. I S. 673), geändert durch die Verordnung vom 17. Juni
 Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser
 Verordnung.
 
-
 ## § 12 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2003 in Kraft.
-
 
 ## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Tierpfleger/zur Tierpflegerin
 

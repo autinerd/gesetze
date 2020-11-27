@@ -15,16 +15,13 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 2515
 
-
 ## Teil 1 - Allgemeiner Teil
-
 
 ### § 1 Zweck des Gesetzes
 
 Dieses Gesetz dient der besseren Nutzung von im Ausland erworbenen
 Berufsqualifikationen für den deutschen Arbeitsmarkt, um eine
 qualifikationsnahe Beschäftigung zu ermöglichen.
-
 
 ### § 2 Anwendungsbereich
 
@@ -39,7 +36,6 @@ bestimmen. § 10 des Bundesvertriebenengesetzes bleibt unberührt.
 einen Ausbildungsnachweis erworben haben und darlegen, im Inland eine
 ihren Berufsqualifikationen entsprechende Erwerbstätigkeit ausüben zu
 wollen.
-
 
 ### § 3 Begriffsbestimmungen
 
@@ -71,12 +67,9 @@ ist insbesondere die Führung einer Berufsbezeichnung, die durch
 Rechts- oder Verwaltungsvorschriften auf Personen beschränkt ist, die
 über bestimmte Berufsqualifikationen verfügen.
 
-
 ## Teil 2 - Feststellung der Gleichwertigkeit
 
-
 ### Kapitel 1 - Nicht reglementierte Berufe
-
 
 #### § 4 Feststellung der Gleichwertigkeit
 
@@ -113,10 +106,6 @@ Berufsbildung liegen vor, sofern
 3.  die Antragstellerin oder der Antragsteller diese Unterschiede nicht
     durch sonstige Befähigungsnachweise oder nachgewiesene einschlägige
     Berufserfahrung ausgeglichen hat.
-
-
-
-
 
 #### § 5 Vorzulegende Unterlagen
 
@@ -179,7 +168,6 @@ in der Schweiz sowie für Staatsangehörige dieser Staaten ist diese
 Darlegung entbehrlich, sofern keine besonderen Gründe gegen eine
 entsprechende Absicht sprechen.
 
-
 #### § 6 Verfahren
 
 (1) Antragsberechtigt ist jede Person, die im Ausland einen
@@ -214,7 +202,6 @@ Beendigung des sonstigen geeigneten Verfahrens gehemmt.
 Rahmen anderer Verfahren oder durch Rechtsvorschrift bereits
 festgestellt ist.
 
-
 #### § 7 Form der Entscheidung
 
 (1) Die Entscheidung über den Antrag nach § 4 Absatz 1 ergeht durch
@@ -229,7 +216,6 @@ vorhandenen Berufsqualifikationen und der entsprechenden inländischen
 Berufsbildung darzulegen.
 
 (3) Dem Bescheid ist eine Rechtsbehelfsbelehrung beizufügen.
-
 
 #### § 8 Zuständige Stelle
 
@@ -282,9 +268,7 @@ Aufgaben von einer anderen zuständigen Stelle nach den Absätzen 1 und
 2 wahrgenommen werden. Die Vereinbarung bedarf der Genehmigung der
 jeweils zuständigen Aufsichtsbehörden.
 
-
 ### Kapitel 2 - Reglementierte Berufe
-
 
 #### § 9 Voraussetzungen der Gleichwertigkeit
 
@@ -333,10 +317,6 @@ Berufsbildung liegen vor, sofern
     durch sonstige Befähigungsnachweise oder nachgewiesene einschlägige
     Berufserfahrung ausgeglichen hat.
 
-
-
-
-
 #### § 10 Feststellung der vorhandenen Berufsqualifikationen
 
 (1) Sofern die Feststellung der Gleichwertigkeit wegen wesentlicher
@@ -349,7 +329,6 @@ inländischen Berufsbildung durch Bescheid festgestellt.
 (2) In dem Bescheid wird zudem festgestellt, durch welche Maßnahmen
 nach § 11 die wesentlichen Unterschiede gegenüber dem erforderlichen
 inländischen Ausbildungsnachweis ausgeglichen werden können.
-
 
 #### § 11 Ausgleichsmaßnahmen
 
@@ -368,7 +347,6 @@ Unterschiede im Sinne des § 9 Absatz 2 zu beschränken.
 der Absolvierung eines Anpassungslehrgangs und dem Ablegen einer
 Eignungsprüfung, sofern die entsprechenden berufsrechtlichen
 Regelungen nichts anderes bestimmen.
-
 
 #### § 12 Vorzulegende Unterlagen
 
@@ -446,7 +424,6 @@ in der Schweiz sowie für Staatsangehörige dieser Staaten ist diese
 Darlegung entbehrlich, sofern keine besonderen Gründe gegen eine
 entsprechende Absicht sprechen.
 
-
 #### § 13 Verfahren
 
 (1) Die Bewertung der Gleichwertigkeit nach § 9 erfolgt im Rahmen der
@@ -484,9 +461,7 @@ Beendigung des sonstigen geeigneten Verfahrens gehemmt.
 
 (5) Die zuständige Stelle richtet sich nach dem jeweiligen Fachrecht.
 
-
 ### Kapitel 3 - Gemeinsame Vorschriften
-
 
 #### § 14 Sonstige Verfahren zur Feststellung der Gleichwertigkeit bei fehlenden Nachweisen
 
@@ -514,7 +489,6 @@ Prüfungen sowie Gutachten von Sachverständigen.
 oder 9 erfolgt auf der Grundlage der Ergebnisse der in Absätzen 1 und
 2 vorgesehenen sonstigen Verfahren.
 
-
 #### § 15 Mitwirkungspflichten
 
 (1) Die Antragstellerin oder der Antragsteller ist verpflichtet, alle
@@ -533,15 +507,12 @@ nachdem die Antragstellerin oder der Antragsteller auf die Folge
 schriftlich hingewiesen worden ist und der Mitwirkungspflicht nicht
 innerhalb einer angemessenen Frist nachgekommen ist.
 
-
 #### § 16 Rechtsweg
 
 Für Streitigkeiten nach diesem Gesetz ist der Verwaltungsrechtsweg
 gegeben.
 
-
 ## Teil 3 - Schlussvorschriften
-
 
 ### § 17 Statistik
 
@@ -618,10 +589,6 @@ Zustimmung des Bundesrates
     Durchführung von Rechtsakten der Europäischen Gemeinschaft
     erforderlich ist.
 
-
-
-
-
 ### § 18 Evaluation und Bericht
 
 (1) Auf der Grundlage der Statistik nach § 17 überprüft die
@@ -630,7 +597,6 @@ Gesetzes seine Anwendung und Auswirkungen.
 
 (2) Über das Ergebnis ist dem Deutschen Bundestag und dem Bundesrat zu
 berichten.
-
 
 ### § 19 Ausschluss abweichenden Landesrechts
 

@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1994, 3900
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 3 Abs. 1 Satz 2, des § 8 Abs. 1 Satz 2 und des § 9
@@ -33,14 +31,9 @@ Zweiten Vermögensrechtsänderungsgesetzes vom 14. Juli 1992 (BGBl. I S.
 Abs. 9 und Abs. 11 Satz 2 des Grundbuchbereinigungsgesetzes verordnet
 die Bundesregierung:
 
-
 ## Abschnitt 1 - Leitungsrechte
 
-
-
 ### Unterabschnitt 1 - Leitungsrechtserstreckung
-
-
 
 #### § 1 Erstreckung auf wasserwirtschaftliche Anlagen
 
@@ -59,14 +52,12 @@ Anlage an Dritte der Inhaber der in § 9 Abs. 9 Satz 1 des
 Grundbuchbereinigungsgesetzes bezeichneten Anlagen unabhängig von
 seiner Rechtsform.
 
-
 #### § 2 Geltung des Bescheinigungsverfahrens
 
 Die verwaltungstechnischen Voraussetzungen für das
 Bescheinigungsverfahren nach § 9 Abs. 4 bis 7 des
 Grundbuchbereinigungsgesetzes liegen bei den in Absatz 9 Satz 1 dieses
 Gesetzes bezeichneten Anlagen vor.
-
 
 #### § 3 Behördenzuständigkeit
 
@@ -75,10 +66,7 @@ Anlagen nach § 1 Satz 1, vorbehaltlich einer abweichenden
 landesrechtlichen Regelung auf Grund des § 9 Abs. 10 des
 Grundbuchbereinigungsgesetzes, die unteren Wasserbehörden.
 
-
 ### Unterabschnitt 2 - Inhalt der Rechte und Bescheinigungsverfahren
-
-
 
 #### § 4 Inhalt der Leitungs- und Anlagenrechte
 
@@ -242,7 +230,6 @@ Verhältnissen und kann einem Dritten überlassen werden.
 Nr. 2 Satz 2 in Verbindung mit § 1092 Abs. 2 des Bürgerlichen
 Gesetzbuchs.
 
-
 #### § 5 Bestandsschutz
 
 Wenn nach dem 24. Dezember 1993 die Voraussetzungen für eine
@@ -253,7 +240,6 @@ Allgemeinen Versorgungsbedingungen dem Versorgungsunternehmen
 weitergehende Rechte einräumen, sind diese maßgeblich. Die Sätze 1 und
 2 gelten für die in § 9 Abs. 9 Satz 1 des genannten Gesetzes
 bezeichneten Anlagen entsprechend.
-
 
 #### § 6 Antrag auf Erteilung der Leitungs- und Anlagenrechtsbescheinigung
 
@@ -276,7 +262,6 @@ Verordnung genannten Unterlagen vorzulegen.
 
 (3) Ein Antrag kann sich auf mehrere Grundstücke und Rechte beziehen,
 wenn es sich um eine zusammenhängende Leitungstrasse handelt.
-
 
 #### § 7 Erteilung der Leitungs- und Anlagenrechtsbescheinigung
 
@@ -371,7 +356,6 @@ Eigentümers. Ist der Widerspruch verspätet, so entfällt dieser Vermerk
 und der Grundstückseigentümer ist auf den ordentlichen Rechtsweg zu
 verweisen.
 
-
 #### § 8 Grundbuchberichtigung
 
 (1) Auf Antrag des Versorgungsunternehmens, dem eine der Zahl der
@@ -392,7 +376,6 @@ gemäß § 9 Abs. 5 Satz 2 GBBerG zu Gunsten von ..." unter Angabe des
 Namens und des Sitzes des Versorgungsunternehmens sowie des
 Eintragungsdatums.
 
-
 #### § 9 Berichtigungsbewilligung, Verzichtsbescheinigung
 
 (1) Eine Bewilligung, die nach ihrem Inhalt der Berichtigung des
@@ -412,7 +395,6 @@ und die Erklärung enthalten, daß auf das Recht verzichtet werde. Die
 Behörde bescheinigt, daß das Recht infolge des Verzichts erloschen
 ist.
 
-
 #### § 10 Erlöschensbescheinigung
 
 Auf Antrag des Versorgungsunternehmens, des Grundstückseigentümers,
@@ -427,10 +409,7 @@ nicht mehr ausgeübt wird und das Unternehmen der Erteilung der
 Erlöschensbescheinigung zustimmt. Die zuständige Stelle bescheinigt,
 daß die betreffende Dienstbarkeit erloschen ist.
 
-
 ### Unterabschnitt 3 - Schlußvorschriften
-
-
 
 #### § 11 Anwendungsregelung für Energieanlagen
 
@@ -438,10 +417,7 @@ Die §§ 6 bis 10 sind von dem Tage an auf Energieanlagen anzuwenden, an
 dem in dem jeweiligen Land die Rechtsverordnung nach § 9 Abs. 11 Satz
 2 des Grundbuchbereinigungsgesetzes in Kraft tritt.
 
-
 ## Abschnitt 2 - Wertbeständige Hypotheken, nicht eingetragene Rechte
-
-
 
 ### § 12 Mittelwerte und Marktpreise bei sonstigen wertbeständigen Grundpfandrechten
 
@@ -473,10 +449,6 @@ bestimmten Waren oder Leistungen folgende Werte zugrundezulegen:
 7.  für einen Doppelzentner zu 100 kg Kalidüngesalz 40 vom Hundert 23,00
     Deutsche Mark.
 
-
-
-
-
 ### § 13 Verlängerung von Fristen
 
 (1) Die Frist des § 8 Abs. 1 Satz 1 und nach § 8 Abs. 3 Satz 3 in
@@ -491,15 +463,11 @@ beschränkten dinglichen Rechte wieder in vollem Umfang gilt.
 (2) In den übrigen Ländern wird die in Absatz 1 bezeichnete Frist bis
 zum Ablauf des 31. Dezember 1997 verlängert.
 
-
 ## Abschnitt 3 - Inkrafttreten
-
-
 
 ### § 14 Inkrafttreten
 
 Diese Verordnung tritt am 11. Januar 1995 in Kraft.
-
 
 ### Schlußformel
 

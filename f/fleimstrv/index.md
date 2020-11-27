@@ -19,7 +19,6 @@ Fundstelle
 V aufgeh. durch
 :   § 11 Satz 2 V 7110-3-187 v. 4.10.2012 I 2109 mWv 1.1.2013
 
-
 ## Eingangsformel
 
 Auf Grund des § 45 der Handwerksordnung in der Fassung der
@@ -32,10 +31,7 @@ verordnet das Bundesministerium für Wirtschaft im Einvernehmen mit dem
 Bundesministerium für Bildung, Wissenschaft, Forschung und
 Technologie:
 
-
 ## 1. Abschnitt - Berufsbild
-
-
 
 ### § 1 Berufsbild
 
@@ -201,13 +197,7 @@ zuzurechnen:
 35. Herrichten, Verkaufen und Präsentieren von Fleisch und
     Fleischerzeugnissen sowie von Buffets und Gerichten.
 
-
-
-
-
 ## 2. Abschnitt - Prüfungsanforderungen in den Teilen I und II der Meisterprüfung
-
-
 
 ### § 2 Gliederung, Dauer und Bestehen der praktischen Prüfung (Teil I)
 
@@ -221,7 +211,6 @@ acht Stunden dauern.
 (3) Mindestvoraussetzung für das Bestehen des Teils I sind jeweils
 ausreichende Leistungen in der Meisterprüfungsarbeit und in der
 Arbeitsprobe.
-
 
 ### § 3 Meisterprüfungsarbeit
 
@@ -251,7 +240,6 @@ und Zusatzstoffe sowie die lebensmittelrechtlichen Kennzeichnungen zu
 der Arbeit nach Absatz 1 Nr. 1 sind bei der Bewertung der
 Meisterprüfungsarbeit zu berücksichtigen.
 
-
 ### § 4 Arbeitsprobe
 
 (1) Als Arbeitsprobe sind drei der nachstehend genannten Arbeiten,
@@ -276,7 +264,6 @@ davon in jedem Fall die nach den Nummern 1 und 2, auszuführen:
 (2) In der Arbeitsprobe sind die wichtigsten Fertigkeiten und
 Kenntnisse zu prüfen, die in der Meisterprüfungsarbeit nicht oder nur
 unzureichend nachgewiesen werden konnten.
-
 
 ### § 5 Prüfung der fachtheoretischen Kenntnisse (Teil II)
 
@@ -404,16 +391,12 @@ Leistungen erbracht hat.
 (5) Mindestvoraussetzung für das Bestehen des Teils II sind
 ausreichende Leistungen in dem Prüfungsfach nach Absatz 1 Nr. 2.
 
-
 ## 3. Abschnitt - Übergangs- und Schlußvorschriften
-
-
 
 ### § 6 Übergangsvorschrift
 
 Die bei Inkrafttreten dieser Verordnung laufenden Prüfungsverfahren
 werden nach den bisherigen Vorschriften zu Ende geführt.
-
 
 ### § 7 Weitere Anforderungen
 
@@ -421,7 +404,6 @@ Die weiteren Anforderungen in der Meisterprüfung bestimmen sich nach
 der Verordnung über gemeinsame Anforderungen in der Meisterprüfung im
 Handwerk vom 12. Dezember 1972 (BGBl. I S. 2381) in der jeweils
 geltenden Fassung.
-
 
 ### § 8 Inkrafttreten
 

@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 8.4.2010 BAnz. Nr. 58, 1351
 
-
 ## Eingangsformel
 
 Auf Grund des § 32 Absatz 1 Satz 1 Nummer 1, Absatz 3 Satz 2 und 3 und
@@ -30,9 +29,7 @@ Bekanntmachung vom 10. Mai 2007 (BGBl. I S. 698) in Verbindung mit §
 Juli 1998 (BGBl. I S. 1989) geändert worden ist, verordnet das
 Luftfahrt-Bundesamt:
 
-
 ## Abschnitt 1 - Allgemeine Vorschriften
-
 
 ### § 1 Geltungsbereich
 
@@ -42,12 +39,9 @@ zugelassenen Luftfahrtgerätes. Diese Verordnung gilt nicht für
 Luftfahrtgeräte zur gewerbsmäßigen Beförderung von Personen und
 Sachen.
 
-
 ## Abschnitt 2 - Ausrüstung von Luftfahrzeugen
 
-
 ### Unterabschnitt 1 - Alle Luftfahrzeuge
-
 
 #### § 2 Ausrüstung für Flüge nach Instrumentenflugregeln (zu § 20 Absatz 1 LuftBO)
 
@@ -116,7 +110,6 @@ geflogen werden, sind wie folgt auszurüsten:
 (2) Hubschrauber sind abweichend von den Buchstaben f und g mit einem
 künstlichen Horizont je vorgeschriebenem Piloten und einem
 zusätzlichen künstlichen Horizont auszurüsten.
-
 
 #### § 3 Ausrüstung für Flüge nach Instrumentenflugregeln über den Nordatlantik (zu § 20 Absatz 1 LuftBO)
 
@@ -206,7 +199,6 @@ festgelegten Flugstrecken.
 geforderten Navigationsanlagen als Ausrüstung genehmigen, wenn diese
 Ausrüstung die Navigationsgenauigkeit nach Absatz 3 aufweist.
 
-
 #### § 4 Ausrüstung für Flüge in Lufträumen mit verringerter Höhenstaffelung (Reduced Vertical Separation Minimum, RVSM) (zu § 20 Absatz 1 LuftBO)
 
 (1) Flugzeuge müssen für Flüge nach Instrumentenflugregeln in
@@ -259,7 +251,6 @@ Betriebsbedingungen 200 Fuß nicht überschreiten.
 Flugregler mit Höhenhaltung sicherstellen, dass die Abweichung von der
 gewählten Flughöhe nach oben und nach unten nicht mehr als 65 Fuß
 beträgt.
-
 
 #### § 5 Ausrüstung für Flüge nach Sichtflugregeln (zu § 20 Absatz 1 LuftBO)
 
@@ -317,10 +308,6 @@ auszurüsten:
 10. für Flugzeuge mit einem Anzeigegerät für die ordnungsgemäße Funktion
     der Energieversorgung der Kreiselgeräte.
 
-
-
-
-
 #### § 6 Ausrüstung für kontrollierte Flüge nach Sichtflugregeln (zu § 20 Absatz 1 LuftBO)
 
 Für kontrollierte Flüge nach Sichtflugregeln in dafür von der
@@ -339,10 +326,6 @@ Absatz 1 wie folgt auszurüsten:
 
 4.  einer Scheinlotanzeige.
 
-
-
-
-
 #### § 7 Ausrüstung von Segelflugzeugen für Wolkenflüge (zu § 20 Absatz 1 LuftBO)
 
 Für Wolkenflüge sind Segelflugzeuge wie folgt auszurüsten:
@@ -360,10 +343,6 @@ Für Wolkenflüge sind Segelflugzeuge wie folgt auszurüsten:
 
 
 5.  einem Variometer.
-
-
-
-
 
 #### § 8 Sonstige Ausrüstung (zu §§ 19 bis 22 LuftBO)
 
@@ -390,10 +369,6 @@ auszurüsten:
 5.  einer ausreichenden Anzahl von Ersatzsicherungen, sofern
     Schmelzsicherungen im Cockpit Verwendung finden.
 
-
-
-
-
 #### § 9 Durchbruchstellen (zu § 19 Absatz 1 Nummer 2 LuftBO)
 
 (1) Wenn an einem Luftfahrzeug von außen aufbrechbare
@@ -418,7 +393,6 @@ ausgestattet sein, die es ermöglicht, den Flug in Übereinstimmung mit
 den von der zuständigen Flugsicherungsorganisation festgelegten Regeln
 und Bedingungen und nach den Anweisungen des
 Flugverkehrskontrolldienstes durchzuführen.
-
 
 #### § 11 Sauerstoffversorgung (zu § 21 Absatz 2 LuftBO)
 
@@ -452,7 +426,6 @@ jederzeit fortlaufend mit Sauerstoff versorgt werden können.
 (5) Die Kabinendruckhöhe ist bei Luftfahrzeugen ohne Druckkabine die
 Flughöhe über Normal Null.
 
-
 #### § 12 Ausrüstung für Flüge über Land - Notausrüstung (zu § 21 Absatz 1 LuftBO)
 
 Weist ein Staat, in dessen Luftraum der Flug durchgeführt werden soll,
@@ -465,9 +438,7 @@ Personen unter den zu erwartenden Verhältnissen am Leben zu erhalten.
 Art und Umfang müssen den von den Behörden des überflogenen Staates
 erlassenen Vorschriften entsprechen.
 
-
 ### Unterabschnitt 2 - Flugzeuge
-
 
 #### § 13 Ausrüstung für Flüge über Wasser - Wasserflugzeuge (zu § 21 Absatz 1 LuftBO)
 
@@ -489,7 +460,6 @@ zugänglich ist.
 (4) Wasserflugzeuge im Sinne dieser Vorschrift sind auch
 Amphibienflugzeuge, sofern sie als Wasserflugzeug betrieben werden.
 
-
 #### § 14 Ausrüstung für Flüge über Wasser - Landflugzeuge (zu § 21 Absatz 1 LuftBO)
 
 (1) Wenn bei Flügen mit einmotorigen Landflugzeugen über Wasser die
@@ -501,7 +471,6 @@ ist, leicht zugänglich ist.
 
 (2) Landflugzeuge im Sinne dieser Vorschrift sind auch
 Amphibienflugzeuge, sofern sie als Landflugzeuge betrieben werden.
-
 
 #### § 15 Ausrüstung für Flüge über Wasser - Alle Flugzeuge (zu § 21 Absatz 1 LuftBO)
 
@@ -530,7 +499,6 @@ Luftfahrzeuginsassen mitzuführen. Die Rettungsflöße sind mit
 Strecke zu versehen und so unterzubringen, dass sie im Notfall leicht
 zugänglich sind.
 
-
 #### § 16 Notsender (zu § 22 LuftBO)
 
 (1) Für Flüge ins Ausland müssen ab dem 1. Oktober 2009 alle Flugzeuge
@@ -544,7 +512,6 @@ Notsender (ELT) nach Absatz 1 ausgerüstet sein.
 zugelassen werden, müssen mit einem automatischen Notsender
 ausgerüstet sein, der auf 121,5 Megahertz und 406 Megahertz senden
 kann.
-
 
 #### § 17 Tonaufzeichnungsanlage für das Cockpit (zu § 22 LuftBO)
 
@@ -564,7 +531,6 @@ Anlage aufgezeichnet wurden.
 mit einer höchstzulässigen Startmasse von mehr als 5 700 Kilogramm,
 die nach dem 1. Oktober 2009 erstmals zum Verkehr zugelassen werden,
 muss mindestens zwei Stunden betragen.
-
 
 #### § 18 Flugdatenschreiberanlage (zu § 22 LuftBO)
 
@@ -598,7 +564,6 @@ Flugzeuge, für die eine Tonaufzeichnungsanlage für das Cockpit nach §
 17 vorgeschrieben ist, mit einem Flugdatenschreiber ausgerüstet sein,
 der die per Datenverbindung ausgetauschten Daten aufzeichnet.
 
-
 #### § 19 Bodenannäherungswarnanlage (zu § 22 LuftBO)
 
 Ab dem 1. Oktober 2009 sind turbinengetriebene Flugzeuge mit einer
@@ -608,13 +573,11 @@ Bodenannäherungswarnanlage der Klasse B (TAWS Class B) auszurüsten,
 sofern sie nicht bereits mit einer Bodenannäherungswarnanlage (GPWS)
 ausgerüstet sind.
 
-
 #### § 20 Machzahlanzeige (zu § 22 LuftBO)
 
 Flugzeuge, deren Kompressibilitätsgrenzwerte auf den vorgeschriebenen
 Fahrtmessern nicht angezeigt werden, müssen mit einer Machzahlanzeige
 ausgerüstet sein.
-
 
 #### § 21 Bordseitige Kollisionsschutzanlage (zu § 22 LuftBO)
 
@@ -624,9 +587,7 @@ neunzehn sind mit einer bordseitigen Kollisionsschutzanlage, die
 hinsichtlich der Leistungsanforderungen mindestens denen der Klasse II
 (ACAS II) entspricht, auszurüsten.
 
-
 ### Unterabschnitt 3 - Hubschrauber
-
 
 #### § 22 Ausrüstung für Flüge über Wasser - Notschwimmeranlage (zu § 21 Absatz 1 LuftBO)
 
@@ -642,10 +603,6 @@ Notschwimmeranlage ausgerüstet sein:
 2.  einmotorige Hubschrauber bei Flügen über Wasser außerhalb einer
     Entfernung zum Land, die im Autorotationsflug zurückgelegt werden kann
     oder eine sichere Notlandung erlaubt.
-
-
-
-
 
 #### § 23 Ausrüstung für Flüge über Wasser - Notausrüstung (zu § 21 Absatz 1 LuftBO)
 
@@ -667,10 +624,6 @@ zusätzlich mit folgender Notausrüstung auszustatten:
 
 2.  pyrotechnische Notsignalmittel.
 
-
-
-
-
 #### § 24 Ausrüstung für Flüge über Wasser - Notsender (zu § 21 Absatz 1 LuftBO)
 
 Ab dem 1. Oktober 2009 müssen alle Hubschrauber für Flüge über Wasser
@@ -678,7 +631,6 @@ nach § 22 mit mindestens einem automatischen Notsender und einem
 Notsender in der Rettungsinsel oder der Schwimmweste ausgerüstet sein.
 Der Notsender muss auf den Frequenzen 121,5 Megahertz und 406
 Megahertz senden können.
-
 
 #### § 25 Ausrüstung für Flüge über Land - Notsender (zu § 21 Absatz 1 LuftBO)
 
@@ -689,7 +641,6 @@ sein, der auf 121,5 Megahertz und 406 Megahertz senden kann.
 (2) Ab dem 1. Januar 2010 müssen alle Hubschrauber mit mindestens
 einem automatischen Notsender ausgerüstet sein, der auf 121,5
 Megahertz und 406 Megahertz senden kann.
-
 
 #### § 26 Tonaufzeichnungsanlage für das Cockpit (zu § 22 LuftBO)
 
@@ -708,7 +659,6 @@ Anlage aufgezeichnet wurden.
 (4) Die Aufzeichnungszeit für Tonaufzeichnungsanlagen in
 Hubschraubern, die nach dem 1. Oktober 2009 erstmals zum Verkehr
 zugelassen worden sind, muss mindestens zwei Stunden betragen.
-
 
 #### § 27 Flugdatenschreiberanlage (zu § 22 LuftBO)
 
@@ -742,9 +692,7 @@ Hubschrauber, für die eine Tonaufzeichnungsanlage für das Cockpit nach
 § 26 vorgeschrieben ist, mit einem Flugdatenschreiber ausgerüstet
 sein, der die per Datenverbindung ausgetauschten Daten aufzeichnet.
 
-
 ### Unterabschnitt 4 - Verfahrensvorschriften
-
 
 #### § 28 Ausnahmegenehmigungen
 
@@ -773,9 +721,7 @@ b)  Luftfahrzeuge, die in besonderen Betriebsarten (Kunstflug,
 wenn sichergestellt ist, dass der Flug auch ohne die vorgeschriebenen
 Ausrüstungsgegenstände sicher durchgeführt werden kann.
 
-
 ## Abschnitt 3 - Flugbetrieb
-
 
 ### § 29 Herbeiführen simulierter Gefahrenzustände (zu § 3 Absatz 1 LuftBO)
 
@@ -784,14 +730,12 @@ Normalbetrieb eines Luftfahrzeuges dürfen nur dann herbeigeführt
 werden, wenn sich außer den Besatzungsmitgliedern weder Fluggaste noch
 gefährliche Guter an Bord befinden.
 
-
 ### § 30 Schleppstarts (zu § 2 LuftBO)
 
 Luftfahrzeugführer dürfen Segelflugzeuge oder Motorsegler, die nicht
 mit einer Bugkupplung ausgerüstet sind, nur dann durch andere
 Luftfahrzeuge beim Start schleppen lassen, wenn sie mindestens fünf
 Schleppstarts innerhalb der letzten sechs Monate durchgeführt haben.
-
 
 ### § 31 Betriebsmindestbedingungen (zu § 34 LuftBO)
 
@@ -802,7 +746,6 @@ Ankunftszeit nicht den Mindestbetriebsbedingungen entsprechen.
 
 (2) Die geltenden Mindestbetriebsbedingungen für die Landung dürfen
 nicht unterschritten werden.
-
 
 ### § 32 Ausweichflugplatz (zu § 29 LuftBO)
 
@@ -846,7 +789,6 @@ Wetterbedingungen herrschen:
 Nummer 2 Buchstabe a ein pauschaler Wert von 5,5 Kilometern verwendet
 werden.
 
-
 ### § 33 Betriebsstoffvorräte - Flugzeuge (zu § 29 LuftBO)
 
 (1) Für einen Flug nach Instrumentenflugregeln ohne Planung eines
@@ -881,10 +823,6 @@ folgende Umstände zu berücksichtigen:
 
 5.  weitere Umstände, die eine Verzögerung der Landung oder einen erhöhten
     Kraftstoffverbrauch zur Folge haben.
-
-
-
-
 
 ### § 34 Betriebsstoffvorräte - Hubschrauber (zu § 29 LuftBO)
 
@@ -956,12 +894,7 @@ folgende Umstände zu berücksichtigen:
 4.  weitere Umstände, die eine Verzögerung der Landung oder einen erhöhten
     Kraftstoffverbrauch zur Folge haben.
 
-
-
-
-
 ## Abschnitt 4 - Schlussvorschriften
-
 
 ### § 35 Inkrafttreten, Außerkrafttreten
 

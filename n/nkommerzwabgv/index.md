@@ -19,14 +19,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 V v. 22.12.2003, 2004 I 21
 
-
 ## Eingangsformel
 
 Auf Grund des § 24 Abs. 1 und des § 79 Abs. 1 des Zollgesetzes in der
 Fassung der Bekanntmachung vom 18. Mai 1970 (BGBl. I S. 529) und des
 Artikels 3 des Vierzehnten Gesetzes zur Änderung des Zollgesetzes vom
 3\. August 1973 (BGBl. I S. 933) wird verordnet:
-
 
 ## § 1 Kleinsendungen nichtkommerzieller Art
 
@@ -103,37 +101,30 @@ Einfuhrabgabenfreiheit auf die folgenden Höchstmengen beschränkt:
 Die Mengenbeschränkungen nach Nummer 4 gelten nicht für die
 Zollfreiheit.
 
-
 ## § 2 Steuergebiet
 
 Für die Abgabenfreiheit von Verbrauchsteuern ist das Steuergebiet nach
 den Verbrauchsteuergesetzen maßgeblich.
 
-
 ## § 3
 
 -
-
 
 ## § 4
 
 -
 
-
 ## § 5
 
 -
-
 
 ## § 6
 
 -
 
-
 ## § 7 Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 1979 in Kraft.
-
 
 ## Schlußformel
 

@@ -27,7 +27,6 @@ vom 13. Mai 2011 (BGBl. I S. 850) verordnet das Bundesministerium für
 Arbeit und Soziales im Einvernehmen mit dem Bundesministerium der
 Finanzen:
 
-
 ## § 1 Verteilungsmaßstäbe für die Mittel für Leistungen zur Eingliederung in Arbeit
 
 (1) Für die Verteilung der im Bundeshaushalt 2012 in Kapitel 1112
@@ -96,7 +95,6 @@ diejenigen für die Bundesprogramme „Perspektive 50plus –
 Beschäftigungspakte in den Regionen“, „Kommunal-Kombi“ und für die
 Modellprojekte „Bürgerarbeit“ abzusetzen.
 
-
 ## § 2 Verteilungsmaßstäbe für die Mittel für Verwaltungskosten
 
 (1) Für die Verteilung der im Bundeshaushalt 2012 in Kapitel 1112
@@ -155,7 +153,6 @@ August 2012 absehbar ist, dass Mittel nach Satz 2 nicht verausgabt
 werden, können diese unter Berücksichtigung regionaler
 Sonderbelastungen auf die Jobcenter nach Satz 1 verteilt werden.
 
-
 ## § 3 Neuberechnung der Anteile nach Veränderung der Zuständigkeit von Jobcentern
 
 Verändert sich die Zuständigkeit von Jobcentern für die Durchführung
@@ -165,30 +162,22 @@ Anteile für die betreffenden Jobcenter vornehmen. Dabei werden die
 Maßstäbe nach § 1 Absatz 2 bis 4 und nach § 2 Absatz 4 bis 5
 berücksichtigt.
 
-
 ## § 4 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2012 in Kraft und am 31. Dezember
 2012 außer Kraft.
 
-
 ## Anlage 1 (zu § 1 Absatz 3 Satz 5) Verteilung der Eingliederungsmittel (ohne Mittel für Leistungen zur Beschäftigungsförderung nach § 16e SGB II*)
 
 (Fundstelle: BAnz. 2011, 4446 - 4449)
-
-
 
 ## Anlage 2 (zu § 1 Absatz 4 Satz 4) Verteilung der Eingliederungsmittel für Leistungen zur Beschäftigungsförderung nach § 16e SGB II*)
 
 (Fundstelle: BAnz. 2011, 4449 - 4452)
 
-
-
 ## Anlage 3 (zu § 2 Absatz 4 Satz 4) Verteilung der Verwaltungsmittel auf die zugelassenen kommunalen Träger bzw. die Bundesagentur für Arbeit
 
 (Fundstelle: BAnz. 2011, 4452 - 4455)
-
-
 
 ## Anlage 4 (zu § 2 Absatz 5 Satz 4) Verteilung der auf die Bundesagentur für Arbeit entfallenden Verwaltungsmittel (nach Abzug der Mittel für überörtlich wahrzunehmende Verwaltungsaufgaben der Zentrale der Bundesagentur für Arbeit)
 

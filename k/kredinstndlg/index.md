@@ -15,11 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1952, 217
 
-
-
 ## (XXXX) §§ 1 bis 4 (weggefallen)
-
-
 
 ## § 5
 
@@ -58,7 +54,6 @@ Anwendung. Mit einer Forderung des ausgründenden Kreditinstituts, die
 nicht gemäß Absatz 1 auf ein Nachfolgeinstitut übergegangen ist,
 können die Nachfolgeinstitute jedoch nicht aufrechnen.
 
-
 ## § 6
 
 Die Nachfolgeinstitute sind verpflichtet, auf Verlangen des
@@ -69,7 +64,6 @@ zu übernehmenden Verbindlichkeiten bestimmt sich nach dem Verhältnis,
 in dem die in den Eröffnungsbilanzen der Nachfolgeinstitute
 ausgewiesenen, nach Abzug der Schulden sich ergebenden Vermögen
 zueinander stehen.
-
 
 ## § 7
 
@@ -119,11 +113,9 @@ Schuldner mitzuteilen. § 5 Abs. 2 Satz 3 gilt entsprechend.
 Schuld übergeht, kann von dem bisherigen Schuldner die Übertragung
 entsprechender Vermögenswerte verlangen.
 
-
 ## § 8
 
 -
-
 
 ## § 9
 
@@ -155,13 +147,11 @@ entfallenden Gesellschaftsanteile der Nachfolgeinstitute die
 Mitgliedschaftsrechte in entsprechender Anwendung des angeführten
 Gesetzes auszuüben.
 
-
 ## § 10
 
 Nach Eintragung der Nachfolgeinstitute in das Handelsregister darf das
 ausgründende Kreditinstitut Bankgeschäfte nur noch vornehmen, soweit
 sie zur Abwicklung erforderlich sind.
-
 
 ## § 11
 
@@ -200,7 +190,6 @@ Umfang zu den Steuern vom Einkommen und Gewerbeertrag herangezogen.
 Nachfolgeinstitute dürfen die nach Absatz 2 in der Ausgründungsbilanz
 des ausgründenden Kreditinstituts angesetzten Werte nicht übersteigen.
 
-
 ## § 12
 
 (1) Gerichtsgebühren und notarielle Beurkundungsgebühren, die
@@ -229,16 +218,13 @@ für das Geschäft selbst zu erhebenden ermäßigten Gebühr nicht
 (4) Die Bestimmungen über die Mindestgebühr
 (§ 26 Abs. 3, § 72 der Kostenordnung)              bleiben unberührt.
 
-
 ## § 13
 
 -
 
-
 ## § 14
 
 -
-
 
 ## § 15
 

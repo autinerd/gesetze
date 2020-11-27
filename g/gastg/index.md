@@ -21,7 +21,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 10 G v. 7.9.2007 I 2246
 
-
 ## § 1 Gaststättengewerbe
 
 (1) Ein Gaststättengewerbe im Sinne dieses Gesetzes betreibt, wer im
@@ -48,7 +47,6 @@ die Dauer der Veranstaltung ortsfesten Betriebsstätte aus Getränke
 oder zubereitete Speisen zum Verzehr an Ort und Stelle verabreicht,
 wenn der Betrieb jedermann oder bestimmten Personenkreisen zugänglich
 ist.
-
 
 ## § 2 Erlaubnis
 
@@ -77,7 +75,6 @@ verabreicht.
 
 (4) (weggefallen)
 
-
 ## § 3 Inhalt der Erlaubnis
 
 (1) Die Erlaubnis ist für eine bestimmte Betriebsart und für bestimmte
@@ -91,7 +88,6 @@ Darbietungen.
 es zuläßt oder der Antragsteller es beantragt.
 
 (3) (weggefallen)
-
 
 ## § 4 Versagungsgründe
 
@@ -171,7 +167,6 @@ b)  zur Durchführung des Absatzes 1 Satz 2 die Voraussetzungen für das
 Die Landesregierungen können durch Rechtsverordnung die Ermächtigung
 auf oberste Landesbehörden übertragen.
 
-
 ## § 5 Auflagen
 
 (1) Gewerbetreibenden, die einer Erlaubnis bedürfen, können jederzeit
@@ -198,7 +193,6 @@ erteilt werden.
 Gaststättengewerbe betreiben, können Anordnungen nach Maßgabe des
 Absatzes 1 erlassen werden.
 
-
 ## § 6 Ausschank alkoholfreier Getränke
 
 Ist der Ausschank alkoholischer Getränke gestattet, so sind auf
@@ -209,7 +203,6 @@ Preisvergleich erfolgt hierbei auch auf der Grundlage des
 hochgerechneten Preises für einen Liter der betreffenden Getränke. Die
 Erlaubnisbehörde kann für den Ausschank aus Automaten Ausnahmen
 zulassen.
-
 
 ## § 7 Nebenleistungen
 
@@ -230,14 +223,12 @@ alsbaldigen Verzehr oder Verbrauch
 
 an jedermann über die Straße abgeben.
 
-
 ## § 8 Erlöschen der Erlaubnis
 
 Die Erlaubnis erlischt, wenn der Inhaber den Betrieb nicht innerhalb
 eines Jahres nach Erteilung der Erlaubnis begonnen oder seit einem
 Jahr nicht mehr ausgeübt hat. Die Fristen können verlängert werden,
 wenn ein wichtiger Grund vorliegt.
-
 
 ## § 9 Stellvertretungserlaubnis
 
@@ -249,7 +240,6 @@ erteilt und kann befristet werden. Die Vorschriften des § 4 Abs. 1 Nr.
 durch den Stellvertreter betrieben, so ist dies unverzüglich der
 Erlaubnisbehörde anzuzeigen.
 
-
 ## § 10 Weiterführung des Gewerbes
 
 Nach dem Tode des Erlaubnisinhabers darf das Gaststättengewerbe auf
@@ -260,7 +250,6 @@ Testamentsvollstrecker bis zur Dauer von zehn Jahren nach dem Erbfall.
 Die in den Sätzen 1 und 2 bezeichneten Personen haben der
 Erlaubnisbehörde unverzüglich Anzeige zu erstatten, wenn sie den
 Betrieb weiterführen wollen.
-
 
 ## § 11 Vorläufige Erlaubnis und vorläufige Stellvertretungserlaubnis
 
@@ -274,7 +263,6 @@ wenn ein wichtiger Grund vorliegt.
 (2) Absatz 1 gilt entsprechend für die Erteilung einer vorläufigen
 Stellvertretungserlaubnis.
 
-
 ## § 12 Gestattung
 
 (1) Aus besonderem Anlaß kann der Betrieb eines erlaubnisbedürftigen
@@ -285,11 +273,9 @@ auf Widerruf gestattet werden.
 
 (3) Dem Gewerbetreibenden können jederzeit Auflagen erteilt werden.
 
-
 ## § 13 (weggefallen)
 
 -
-
 
 ## § 14 Straußwirtschaften
 
@@ -317,7 +303,6 @@ Erlaubnis bedarf. Sie können hierbei Vorschriften über
 erlassen. Die Landesregierungen können durch Rechtsverordnung die
 Ermächtigung auf oberste Landesbehörden oder andere Behörden
 übertragen.
-
 
 ## § 15 Rücknahme und Widerruf der Erlaubnis
 
@@ -369,10 +354,7 @@ rechtfertigen würden.
 (4) Die Absätze 1, 2 und 3 Nr. 1, 2 und 4 gelten entsprechend für die
 Rücknahme und den Widerruf der Stellvertretungserlaubnis.
 
-
 ## (XXXX) §§ 16 und 17 (weggefallen)
-
-
 
 ## § 18 Sperrzeit
 
@@ -387,7 +369,6 @@ auf oberste Landesbehörden oder andere Behörden übertragen.
 
 (2) (weggefallen)
 
-
 ## § 19 Verbot des Ausschanks alkoholischer Getränke
 
 Aus besonderem Anlaß kann der gewerbsmäßige Ausschank alkoholischer
@@ -395,7 +376,6 @@ Getränke vorübergehend für bestimmte Zeit und für einen bestimmten
 örtlichen Bereich ganz oder teilweise verboten werden, wenn dies zur
 Aufrechterhaltung der öffentlichen Sicherheit oder Ordnung
 erforderlich ist.
-
 
 ## § 20 Allgemeine Verbote
 
@@ -418,10 +398,6 @@ Verboten ist,
     Bestellung alkoholischer Getränke abhängig zu machen oder bei der
     Nichtbestellung alkoholischer Getränke die Preise zu erhöhen.
 
-
-
-
-
 ## § 21 Beschäftigte Personen
 
 (1) Die Beschäftigung einer Person in einem Gaststättenbetrieb kann
@@ -439,7 +415,6 @@ Ermächtigung auf oberste Landesbehörden übertragen.
 
 (3) Die Vorschriften des § 26 des Jugendarbeitsschutzgesetzes bleiben
 unberührt.
-
 
 ## § 22 Auskunft und Nachschau
 
@@ -464,7 +439,6 @@ der in § 383 Abs. 1 Nr. 1 bis 3 der Zivilprozeßordnung bezeichneten
 Angehörigen der Gefahr strafgerichtlicher Verfolgung oder eines
 Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
-
 ## § 23 Vereine und Gesellschaften
 
 (1) Die Vorschriften dieses Gesetzes über den Ausschank alkoholischer
@@ -485,7 +459,6 @@ finden, wenn durch den Ausschank alkoholischer Getränke Gefahren für
 die Sittlichkeit oder für Leben oder Gesundheit der Gäste oder der
 Beschäftigten entstehen.
 
-
 ## § 24 Realgewerbeberechtigung
 
 (1) Die Vorschriften dieses Gesetzes finden auch auf
@@ -501,7 +474,6 @@ ausgenommenen Vorschriften Anwendung finden, wenn um die Erlaubnis auf
 Grund einer Realgewerbeberechtigung für ein Grundstück nachgesucht
 wird, auf welchem die Erlaubnis auf Grund dieser
 Realgewerbeberechtigung bisher nicht ausgeübt wurde.
-
 
 ## § 25 Anwendungsbereich
 
@@ -523,7 +495,6 @@ bestimmten Räume gelten als erfüllt. § 34 Abs. 3 findet mit der
 Maßgabe Anwendung, daß die Anzeige nach Satz 4 innerhalb von zwölf
 Monaten zu erstatten ist.
 
-
 ## § 26 Sonderregelung
 
 (1) Soweit in Bayern und Rheinland-Pfalz der Ausschank selbsterzeugter
@@ -541,11 +512,9 @@ Rheinland-Pfalz bestehende Berechtigung zum Ausschank selbsterzeugten
 Branntweins erlöschen, wenn sie seit zehn Jahren nicht mehr ausgeübt
 worden sind.
 
-
 ## § 27
 
 (weggefallen)
-
 
 ## § 28 Ordnungswidrigkeiten
 
@@ -637,11 +606,9 @@ worden sind.
 (3) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünftausend
 Euro geahndet werden.
 
-
 ## § 29 (weggefallen)
 
 -
-
 
 ## § 30 Zuständigkeit und Verfahren
 
@@ -653,7 +620,6 @@ obersten Landesbehörden können ferner durch Rechtsverordnung das
 Verfahren, insbesondere bei Erteilung sowie bei Rücknahme und Widerruf
 von Erlaubnissen und bei Untersagungen, regeln.
 
-
 ## § 31 Anwendbarkeit der Gewerbeordnung
 
 Auf die den Vorschriften dieses Gesetzes unterliegenden
@@ -662,11 +628,9 @@ Anwendung, als nicht in diesem Gesetz besondere Bestimmungen getroffen
 worden sind; die Vorschriften über den Arbeitsschutz werden durch
 dieses Gesetz nicht berührt.
 
-
 ## § 32
 
 (weggefallen)
-
 
 ## § 32 Erprobungsklausel
 
@@ -679,11 +643,9 @@ diese Berufsausübungsregelungen nicht auf bindenden Vorgaben des
 Europäischen Gemeinschaftsrechts beruhen und sich die Auswirkungen der
 Ausnahmen auf das Gebiet des jeweiligen Landes beschränken.
 
-
 ## § 33
 
 (Änderung anderer Vorschriften)
-
 
 ## § 34 Übergangsvorschriften
 
@@ -712,21 +674,17 @@ Betriebsräume bezeichnen. Wird die Anzeige nicht innerhalb von sechs
 Monaten nach Inkrafttreten dieses Gesetzes erstattet, so erlischt die
 Erlaubnis.
 
-
 ## § 35 (weggefallen)
 
 -
-
 
 ## § 36
 
 (Änderung anderer Vorschriften)
 
-
 ## § 37
 
 (weggefallen)
-
 
 ## § 38
 

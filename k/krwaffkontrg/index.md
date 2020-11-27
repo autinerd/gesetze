@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 4 G v. 27.7.2011 I 1595
 
-
 ## Erster Abschnitt - Genehmigungsvorschriften
-
-
 
 ### § 1 Begriffsbestimmung
 
@@ -48,14 +45,12 @@ Antipersonenminen und Streumunition im Sinne von § 18a Abs. 2 gelten
 die besonderen Vorschriften des Dritten und Vierten Abschnitts sowie
 die Strafvorschriften der §§ 19 bis 21.
 
-
 ### § 2 Herstellung und Inverkehrbringen
 
 (1) Wer Kriegswaffen herstellen will, bedarf der Genehmigung.
 
 (2) Wer die tatsächliche Gewalt über Kriegswaffen von einem anderen
 erwerben oder einem anderen überlassen will, bedarf der Genehmigung.
-
 
 ### § 3 Beförderung innerhalb des Bundesgebietes
 
@@ -109,10 +104,6 @@ erteilt werden
     innergemeinschaftliche Verbringung von Verteidigungsgütern (ABl. L 146
     vom 10.6.2009, S. 1) zertifiziert sind.
 
-
-
-
-
 ### § 4 Beförderung außerhalb des Bundesgebietes
 
 (1) Wer Kriegswaffen, die außerhalb des Bundesgebietes ein- und
@@ -124,7 +115,6 @@ befördern will, bedarf der Genehmigung.
 (2) Für die Beförderung von Kriegswaffen im Sinne des Absatzes 1 in
 und nach bestimmten Gebieten kann auch eine Allgemeine Genehmigung
 erteilt werden.
-
 
 ### § 4a Auslandsgeschäfte
 
@@ -145,7 +135,6 @@ durchgeführt werden sollen.
 und 2 von Unternehmen, die selbst Kriegswaffen innerhalb der
 Europäischen Union herstellen, kann eine Allgemeine Genehmigung
 erteilt werden.
-
 
 ### § 5 Befreiungen
 
@@ -180,10 +169,6 @@ tatsächliche Gewalt über Kriegswaffen
     Beschussamt oder einer Behörde des Strafvollzugs überlassen oder von
     diesen zur Instandsetzung, zur Erprobung oder zur Beförderung erwerben
     will.
-
-
-
-
 
 ### § 6 Versagung der Genehmigung
 
@@ -247,7 +232,6 @@ tatsächliche Gewalt über Kriegswaffen
 genannten Handlungen eine Genehmigung erforderlich ist, bleiben
 unberührt.
 
-
 ### § 7 Widerruf der Genehmigung
 
 (1) Die Genehmigung kann jederzeit widerrufen werden.
@@ -265,7 +249,6 @@ Berechtigten zu überlassen und dies der Überwachungsbehörde
 nachzuweisen. Nach fruchtlosem Ablauf der Frist können die
 Kriegswaffen sichergestellt und eingezogen werden. § 13 Abs. 3 gilt
 entsprechend.
-
 
 ### § 8 Erteilung und Widerruf der Allgemeinen Genehmigung
 
@@ -297,7 +280,6 @@ teilweise zu widerrufen, wenn
 Bundesregierung erlassen; sie bedürfen nicht der Zustimmung des
 Bundesrates.
 
-
 ### § 9 Entschädigung im Falle des Widerrufs
 
 (1) Wird eine Genehmigung nach den §§ 2, 3 Abs. 1 oder 2, § 4 Abs. 1
@@ -323,10 +305,6 @@ Genehmigung gegeben haben, insbesondere wenn
 2.  die Genehmigung auf Grund des § 7 Abs. 2 in Verbindung mit § 6 Abs. 3
     Nr. 3 widerrufen worden ist.
 
-
-
-
-
 ### § 10 Inhalt und Form der Genehmigung
 
 (1) Die Genehmigung kann inhaltlich beschränkt, befristet und mit
@@ -341,7 +319,6 @@ der in Teil B der Kriegswaffenliste genannten Kriegswaffen kann ohne
 Beschränkung auf eine bestimmte Menge, die Genehmigung zur Beförderung
 von Kriegswaffen kann ohne Beschränkung auf eine bestimmte Art und
 Menge erteilt werden.
-
 
 ### § 11 Genehmigungsbehörden
 
@@ -386,10 +363,7 @@ näheren Regelung des Genehmigungsverfahrens zu erlassen.
 (5) Das Bundesamt für Verfassungsschutz kann bei der Prüfung der
 Zuverlässigkeit gemäß § 6 Abs. 3 Nr. 3 herangezogen werden.
 
-
 ## Zweiter Abschnitt - Überwachungs- und Ausnahmevorschriften
-
-
 
 ### § 12 Pflichten im Verkehr mit Kriegswaffen
 
@@ -477,10 +451,6 @@ Zustimmung des Bundesrates
 3.  eine Kennzeichnung für Kriegswaffen vorzuschreiben, die den Hersteller
     oder Einführer ersichtlich macht.
 
-
-
-
-
 ### § 12a Besondere Meldepflichten
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung, mit
@@ -505,7 +475,6 @@ erheblich überwiegt.
 
 (3) Art und Umfang der Meldepflicht sind auf das Maß zu begrenzen, das
 notwendig ist, um den in Absatz 1 angegebenen Zweck zu erreichen.
-
 
 ### § 13 Sicherstellung und Einziehung
 
@@ -543,7 +512,6 @@ wäre, sie zu versagen.
 (4) Bei Gefahr im Verzuge kann auch die Bundeswehr unter den in Absatz
 1 genannten Voraussetzungen Kriegswaffen sicherstellen.
 
-
 ### § 13a Umgang mit unbrauchbar gemachten Kriegswaffen
 
 Der Umgang mit unbrauchbar gemachten Kriegswaffen kann durch
@@ -558,7 +526,6 @@ funktionsfähig gemacht werden können. Durch Rechtsverordnung, die der
 Zustimmung des Bundesrates nicht bedarf, kann bestimmt werden, auf
 welche Weise Kriegswaffen unbrauchbar zu machen sind und in welcher
 Form ihre Unbrauchbarmachung nachzuweisen ist.
-
 
 ### § 14 Überwachungsbehörden
 
@@ -625,7 +592,6 @@ nicht bedarf, die ihm nach Absatz 1 zustehenden Überwachungsbefugnisse
 auf das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) zu
 übertragen.
 
-
 ### § 15 Bundeswehr und andere Organe
 
 (1) Die §§ 2 bis 4a und 12 gelten nicht für die Bundeswehr, die
@@ -653,10 +619,7 @@ des Strafvollzugs bedürfen keiner Genehmigung
 (3) § 4a gilt nicht für Behörden oder Dienststellen im Rahmen ihrer
 amtlichen Tätigkeit.
 
-
 ## Dritter Abschnitt - Besondere Vorschriften für Atomwaffen
-
-
 
 ### § 16 Nukleare Aufgaben im Nordatlantischen Bündnis
 
@@ -667,7 +630,6 @@ für einen Mitgliedstaat zu gewährleisten, nur für Atomwaffen, die
 nicht der Verfügungsgewalt von Mitgliedstaaten dieses Vertrages
 unterstehen oder die nicht im Auftrag solcher Staaten entwickelt oder
 hergestellt werden.
-
 
 ### § 17 Verbot von Atomwaffen
 
@@ -706,10 +668,7 @@ Für die Begriffsbestimmung der Atomwaffen gelten außerdem Satz 2 der
 Einleitung und Abschnitt I Buchstabe c der Anlage II zum Protokoll Nr.
 III des revidierten Brüsseler Vertrages vom 23. Oktober 1954.
 
-
 ## Vierter Abschnitt - Besondere Vorschriften für biologische und chemische Waffen sowie für Antipersonenminen und Streumunition
-
-
 
 ### § 18 Verbot von biologischen und chemischen Waffen
 
@@ -728,10 +687,6 @@ Es ist verboten,
 
 
 2.  eine in Nummer 1 bezeichnete Handlung zu fördern.
-
-
-
-
 
 ### § 18a Verbot von Antipersonenminen und Streumunition
 
@@ -765,10 +720,7 @@ Streumunition vom 3. Dezember 2008.
 (3) Absatz 1 gilt nicht für Handlungen, die nach den Bestimmungen der
 in Absatz 2 genannten Übereinkommen zulässig sind.
 
-
 ## Fünfter Abschnitt - Straf- und Bußgeldvorschriften
-
-
 
 ### § 19 Strafvorschriften gegen Atomwaffen
 
@@ -859,7 +811,6 @@ bestraft.
 
 geeignet und bestimmt ist.
 
-
 ### § 20 Strafvorschriften gegen biologische und chemische Waffen
 
 (1) Mit Freiheitsstrafe nicht unter zwei Jahren wird bestraft, wer
@@ -899,7 +850,6 @@ die Strafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.
 
 
 geeignet und bestimmt ist.
-
 
 ### § 20a Strafvorschriften gegen Antipersonenminen und Streumunition
 
@@ -943,14 +893,12 @@ Freiheitsstrafe von drei Monaten bis zu drei Jahren.
 oder in den Fällen des Absatzes 1 Nr. 2 oder 3 leichtfertig, so ist
 die Strafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.
 
-
 ### § 21 Taten außerhalb des Geltungsbereichs dieses Gesetzes
 
 § 19 Abs. 2 Nr. 2, Abs. 3 Nr. 2, Abs. 5 und 6, § 20 sowie § 20a gelten
 unabhängig vom Recht des Tatorts auch für Taten, die außerhalb des
 Geltungsbereichs dieser Vorschriften begangen werden, wenn der Täter
 Deutscher ist.
-
 
 ### § 22 Ausnahmen
 
@@ -965,10 +913,6 @@ bezogene dienstliche Handlung
 
 2.  eines Deutschen in Stäben oder Einrichtungen, die auf Grund des
     Nordatlantikvertrages vom 4. April 1949 gebildet worden sind.
-
-
-
-
 
 ### § 22a Sonstige Strafvorschriften
 
@@ -1048,7 +992,6 @@ eingeführt oder sonst verbracht hat, in die tatsächliche Gewalt einer
 der in Satz 1 genannten Behörden oder Dienststellen, so genügt sein
 freiwilliges und ernsthaftes Bemühen, die Kriegswaffen abzuliefern.
 
-
 ### § 22b Verletzung von Ordnungsvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
@@ -1107,7 +1050,6 @@ eine Ausfertigung der Genehmigungsurkunde nicht übergibt oder entgegen
 Genehmigungsurkunde nicht mitführt. Die Ordnungswidrigkeit kann mit
 einer Geldbuße bis zu fünfhundert Euro geahndet werden.
 
-
 ### § 23 Verwaltungsbehörden
 
 Das Bundesministerium für Wirtschaft und Technologie, das
@@ -1116,7 +1058,6 @@ Bundesministerium der Finanzen sind, soweit sie nach § 14 Abs. 1 und 2
 für die Überwachung zuständig sind, zugleich Verwaltungsbehörde im
 Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten. §
 36 Abs. 3 des Gesetzes über Ordnungswidrigkeiten gilt entsprechend.
-
 
 ### § 24 Einziehung und Erweiterter Verfall
 
@@ -1136,22 +1077,17 @@ des § 22a Abs. 1 ist § 73d des Strafgesetzbuches anzuwenden, wenn der
 Täter gewerbsmäßig oder als Mitglied einer Bande handelt, die sich zur
 fortgesetzten Begehung solcher Straftaten verbunden hat.
 
-
 ### § 25
 
 (weggefallen)
 
-
 ## Sechster Abschnitt - Übergangs- und Schlußvorschriften
-
-
 
 ### § 26 Vor Inkrafttreten des Gesetzes erteilte Genehmigungen
 
 Genehmigungen, die im vorläufigen Genehmigungsverfahren auf Grund des
 Artikels 26 Abs. 2 des Grundgesetzes erteilt worden sind, gelten als
 nach diesem Gesetz erteilt.
-
 
 ### § 26a Anzeige der Ausübung der tatsächlichen Gewalt
 
@@ -1165,7 +1101,6 @@ nicht von dem Genehmigungserfordernis für den Erwerb der tatsächlichen
 Gewalt freigestellt oder nach § 26b angewiesen ist. Nach Ablauf dieser
 Frist darf die tatsächliche Gewalt über anmeldepflichtige, jedoch
 nicht angemeldete Kriegswaffen nicht mehr ausgeübt werden.
-
 
 ### § 26b Übergangsregelungen für das in Artikel 3 des Einigungsvertrages genannte Gebiet
 
@@ -1206,7 +1141,6 @@ Zustimmung des Bundesrates die Maßgaben der Absätze 1 und 2 und des §
 26a so zu ändern, daß deren Ziele unter Berücksichtigung der neuen
 Rechtslage erreicht werden.
 
-
 ### § 27 Zwischenstaatliche Verträge
 
 Verpflichtungen der Bundesrepublik auf Grund zwischenstaatlicher
@@ -1214,16 +1148,13 @@ Verträge bleiben unberührt. Insoweit gelten die nach Artikel 26 Abs. 2
 des Grundgesetzes und die nach diesem Gesetz erforderlichen
 Genehmigungen als erteilt.
 
-
 ### § 28 Berlin-Klausel
 
 (gegenstandslos)
 
-
 ### § 29 Inkrafttreten
 
 (Inkrafttreten)
-
 
 ### Anlage (zu § 1 Abs. 1) Kriegswaffenliste
 

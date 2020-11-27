@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1975, 2984, 2985
 
-
-
 ## § 1 Höhengleiche Kreuzungen
 
 (1) Zur Kreuzungsanlage im Sinne des § 13 Abs. 1 FStrG, die der
@@ -55,7 +53,6 @@ kreuzenden Straße abzurunden beginnt.
 
 (3) Sichtfelder gehören zur kreuzenden Straße.
 
-
 ## § 2 Über- und Unterführungen
 
 (1) Zum Kreuzungsbauwerk im Sinne des § 13 Abs. 2 des
@@ -89,13 +86,11 @@ ersten Aufweitung der einmündenden Straße. Lichtzeichenanlagen und
 Verkehrsinseln an der Einmündung des Verbindungsarms gehören zur
 Bundesfernstraße.
 
-
 ## § 3 Sonstige Teile der Kreuzungsanlage
 
 Die in den §§ 1 und 2 nicht erfaßten Teile der Bundesfernstraße und
 der kreuzenden Straße gehören zu der Straße, der sie unmittelbar
 dienen.
-
 
 ## § 4 Kreuzungen zwischen Bundesfernstraßen
 
@@ -104,12 +99,10 @@ Bund, die andere von einem Dritten unterhalten wird, ist diese
 Verordnung mit der Maßgabe anzuwenden, daß die vom Dritten
 unterhaltene Bundesfernstraße als kreuzende Straße gilt.
 
-
 ## § 5 Einmündungen
 
 Die vorstehenden Vorschriften gelten auch für Einmündungen
 öffentlicher Straßen in Bundesfernstraßen.
-
 
 ## § 6 Berlin-Klausel
 

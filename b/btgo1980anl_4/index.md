@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Nr. 8 Bek. v. 30.9.1995 I 1246
 
-
 ## I. Fragerecht
 
 
@@ -67,10 +66,6 @@ Zuletzt geändert durch
 5.  Zusatzfragen, die nicht in einem unmittelbaren Zusammenhang mit der
     Hauptfrage stehen, weist der Präsident zurück.
 
-
-
-
-
 ## II. Die Einreichung der Fragen
 
 
@@ -91,10 +86,6 @@ Zuletzt geändert durch
     Interesse (dringliche Fragen) für die Fragestunde zulassen, wenn sie
     spätestens am vorhergehenden Tage bis 12.00 Uhr mittags eingereicht
     werden. Nummer 1 Abs. 2 und 3 findet Anwendung.
-
-
-
-
 
 ## III. Durchführung der Fragestunde
 
@@ -125,10 +116,6 @@ Zuletzt geändert durch
     Woche gegenüber dem Sitzungsvorstand seine Fragen zurückzieht. Die
     schriftlichen Antworten werden in den Anhang zum Plenarprotokoll
     aufgenommen.
-
-
-
-
 
 ## IV. Schriftliche Fragen
 

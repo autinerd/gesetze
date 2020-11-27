@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 G v. 28.7.2011 I 1622
 
-
 ## Inhaltsverzeichnis
 
 
@@ -534,13 +533,7 @@ Zuletzt geändert durch
 
     *   Übergangsvorschriften
 
-
-
-
-
 ## 1. Abschnitt - Allgemeine Vorschriften
-
-
 
 ### § 1 Zweck des Gesetzes
 
@@ -557,7 +550,6 @@ unterstützt werden. Die Eigenverantwortung der Träger und Leiter von
 Gemeinschaftseinrichtungen, Lebensmittelbetrieben,
 Gesundheitseinrichtungen sowie des Einzelnen bei der Prävention
 übertragbarer Krankheiten soll verdeutlicht und gefördert werden.
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -658,10 +650,6 @@ Im Sinne dieses Gesetzes ist
     die nach Landesrecht für die Durchführung dieses Gesetzes bestimmte
     und mit einem Amtsarzt besetzte Behörde.
 
-
-
-
-
 ### § 3 Prävention durch Aufklärung
 
 Die Information und Aufklärung der Allgemeinheit über die Gefahren
@@ -671,10 +659,7 @@ zuständigen Stellen über Möglichkeiten des allgemeinen und
 individuellen Infektionsschutzes sowie über Beratungs-, Betreuungs-
 und Versorgungsangebote zu informieren.
 
-
 ## 2. Abschnitt - Koordinierung und Früherkennung
-
-
 
 ### § 4 Aufgaben des Robert Koch-Institutes
 
@@ -747,10 +732,6 @@ Krankheiten wahr.
 5.  kann zur Erfüllung der Aufgaben nach diesem Gesetz Sentinel-Erhebungen
     nach den §§ 13 und 14 durchführen.
 
-
-
-
-
 ### § 5 Bund-Länder-Informationsverfahren
 
 Die Bundesregierung erstellt durch allgemeine Verwaltungsvorschrift
@@ -774,10 +755,7 @@ In der Verwaltungsvorschrift kann auch eine Zusammenarbeit der
 beteiligten Behörden von Bund und Ländern und anderen beteiligten
 Stellen geregelt werden.
 
-
 ## 3. Abschnitt - Meldewesen
-
-
 
 ### § 6 Meldepflichtige Krankheiten
 
@@ -890,7 +868,6 @@ nosokomialer Infektionen, bei denen ein epidemischer Zusammenhang
 wahrscheinlich ist oder vermutet wird, als Ausbruch nichtnamentlich zu
 melden. Die Meldung nach Satz 1 hat gemäß § 8 Abs. 1 Nr. 1, 3 und 5, §
 10 Absatz 6 zu erfolgen.
-
 
 ### § 7 Meldepflichtige Nachweise von Krankheitserregern
 
@@ -1092,7 +1069,6 @@ oder indirekte Nachweis zu melden:
 Die Meldung nach Satz 1 hat gemäß § 8 Abs. 1  Nr. 2, 3 und Abs. 4, §
 10 Abs. 1 Satz 1, Abs. 3, 4 Satz 1 zu erfolgen.
 
-
 ### § 8 Zur Meldung verpflichtete Personen
 
 (1) Zur Meldung oder Mitteilung sind verpflichtet:
@@ -1158,7 +1134,6 @@ Geltungsbereichs dieses Gesetzes durchführen lassen.
 
 (5) Der Meldepflichtige hat dem Gesundheitsamt unverzüglich
 mitzuteilen, wenn sich eine Verdachtsmeldung nicht bestätigt hat.
-
 
 ### § 9 Namentliche Meldung
 
@@ -1288,7 +1263,6 @@ Gesundheitsamt zur Erfüllung der in seiner Zuständigkeit liegenden
 Aufgaben nicht mehr erforderlich ist, Daten zu § 7 Abs. 1 Nr. 21
 spätestens jedoch nach drei Jahren.
 
-
 ### § 10 Nichtnamentliche Meldung
 
 (1) Die nichtnamentliche Meldung nach § 7 Abs. 3 muss folgende Angaben
@@ -1365,7 +1339,6 @@ nach Absatz 1 Nummer 5, 9 und 11, Monat und Jahr der einzelnen
 Diagnosen sowie Name und Anschrift der betroffenen Einrichtung
 enthalten. Absatz 3 ist anzuwenden. § 9 Absatz 3 Satz 1 bis 3 gilt
 entsprechend.
-
 
 ### § 11 Übermittlungen durch das Gesundheitsamt und die zuständige Landesbehörde
 
@@ -1463,7 +1436,6 @@ Krankheiten in der Gemeinschaft (ABl. EG Nr. L 268 S. 1)
 vorgeschriebenen Angaben. Absatz 1 Satz 2 und § 12 Abs. 1 Satz 3
 gelten entsprechend.
 
-
 ### § 12 Meldungen an die Weltgesundheitsorganisation und das Europäische Netzwerk
 
 (1) Das Gesundheitsamt hat der zuständigen Landesbehörde und diese dem
@@ -1521,7 +1493,6 @@ September 1998 über die Schaffung eines Netzes für die
 epidemiologische Überwachung und die Kontrolle übertragbarer
 Krankheiten in der Gemeinschaft (ABl. EG Nr. L 268 S. 1).
 
-
 ### § 13 Sentinel-Erhebungen
 
 (1) Das Robert Koch-Institut kann in Zusammenarbeit mit ausgewählten
@@ -1561,7 +1532,6 @@ gleichen Zeitraum betreuten Personen.
 (3) Bei Sentinel-Erhebungen sind die jeweils zuständigen
 Landesbehörden zu beteiligen.
 
-
 ### § 14 Auswahl der über Sentinel-Erhebungen zu überwachenden Krankheiten
 
 Das Bundesministerium für Gesundheit legt im Benehmen mit den jeweils
@@ -1569,7 +1539,6 @@ zuständigen obersten Landesgesundheitsbehörden fest, welche
 Krankheiten und Krankheitserreger durch Erhebungen nach § 13 überwacht
 werden. Die obersten Landesgesundheitsbehörden können zusätzliche
 Sentinel-Erhebungen durchführen.
-
 
 ### § 15 Anpassung der Meldepflicht an die epidemische Lage
 
@@ -1594,10 +1563,7 @@ Meldepflicht nach diesem Gesetz hierdurch nicht eingeschränkt oder
 aufgehoben wird. Sie können die Ermächtigung durch Rechtsverordnung
 auf andere Stellen übertragen.
 
-
 ## 4. Abschnitt - Verhütung übertragbarer Krankheiten
-
-
 
 ### § 16 Allgemeine Maßnahmen der zuständigen Behörde
 
@@ -1664,7 +1630,6 @@ Behörde getroffen.
 
 (8) Widerspruch und Anfechtungsklage gegen Maßnahmen nach den Absätzen
 1 bis 3 haben keine aufschiebende Wirkung.
-
 
 ### § 17 Besondere Maßnahmen der zuständigen Behörde, Rechtsverordnungen durch die Länder
 
@@ -1774,7 +1739,6 @@ Versammlungsfreiheit (Artikel 8 Grundgesetz) und der Unverletzlichkeit
 der Wohnung (Artikel 13 Abs. 1 Grundgesetz) werden im Rahmen der
 Absätze 1 bis 5 eingeschränkt.
 
-
 ### § 18 Behördlich angeordnete Entseuchungen, Entwesungen, Bekämpfung von Krankheitserreger übertragenden Wirbeltieren, Kosten
 
 (1) Zum Schutz des Menschen vor übertragbaren Krankheiten dürfen bei
@@ -1872,7 +1836,6 @@ Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit durch
 Rechtsverordnung mit Zustimmung des Bundesrates Einzelheiten des
 Listungsverfahrens nach Absatz 2 Satz 1 Nr. 2 festzulegen.
 
-
 ### § 19 Aufgaben des Gesundheitsamtes in besonderen Fällen
 
 (1) Das Gesundheitsamt bietet bezüglich sexuell übertragbarer
@@ -1909,7 +1872,6 @@ Wenn bei der Untersuchung oder der Feststellung der
 Behandlungsbedürftigkeit der Kostenträger noch nicht feststeht, werden
 die Kosten vorläufig aus öffentlichen Mitteln übernommen. Der
 Kostenträger ist zur Erstattung verpflichtet.
-
 
 ### § 20 Schutzimpfungen und andere Maßnahmen der spezifischen Prophylaxe
 
@@ -1980,7 +1942,6 @@ die obersten Landesgesundheitsbehörden übertragen. Das Grundrecht der
 körperlichen Unversehrtheit (Artikel 2 Abs. 2 Satz 1 Grundgesetz) kann
 insoweit eingeschränkt werden.
 
-
 ### § 21 Impfstoffe
 
 Bei einer auf Grund dieses Gesetzes angeordneten oder einer von der
@@ -1990,7 +1951,6 @@ Impfstoffe verwendet werden, die Mikroorganismen enthalten, welche von
 den Geimpften ausgeschieden und von anderen Personen aufgenommen
 werden können. Das Grundrecht der körperlichen Unversehrtheit (Artikel
 2 Abs. 2 Satz 1 Grundgesetz) wird insoweit eingeschränkt.
-
 
 ### § 22 Impfausweis
 
@@ -2027,7 +1987,6 @@ Verhalten bei ungewöhnlichen Impfreaktionen und auf die sich
 gegebenenfalls aus den §§ 60 bis 64 ergebenden Ansprüche bei Eintritt
 eines Impfschadens sowie auf Stellen, bei denen diese geltend gemacht
 werden können, hinzuweisen.
-
 
 ### § 23 Nosokomiale Infektionen; Resistenzen; Rechtsverordnungen durch die Länder
 
@@ -2239,10 +2198,7 @@ Resistenzen zu regeln. Dabei sind insbesondere Regelungen zu treffen
 Die Landesregierungen können die Ermächtigung durch Rechtsverordnung
 auf andere Stellen übertragen.
 
-
 ## 5. Abschnitt - Bekämpfung übertragbarer Krankheiten
-
-
 
 ### § 24 Behandlung übertragbarer Krankheiten
 
@@ -2257,7 +2213,6 @@ oder Krankheitserreger, die durch eine Rechtsverordnung auf Grund des
 Sinne der Sätze 1 und 2 gilt auch der direkte und indirekte Nachweis
 eines Krankheitserregers für die Feststellung einer Infektion oder
 übertragbaren Krankheit; § 46 gilt entsprechend.
-
 
 ### § 25 Ermittlungen, Unterrichtungspflichten des Gesundheitsamtes bei Blut-, Organ-, Gewebe- oder Zellspendern
 
@@ -2287,7 +2242,6 @@ oder Zellspendern nach den Vorschriften des Transplantationsgesetzes
 die Einrichtung der medizinischen Versorgung, in der das Organ, das
 Gewebe oder die Zelle übertragen wurde oder übertragen werden soll und
 die Gewebeeinrichtung, die das Gewebe oder die Zelle entnommen hat.
-
 
 ### § 26 Durchführung
 
@@ -2320,13 +2274,11 @@ Satz 1 Grundgesetz), der Freiheit der Person (Artikel 2 Abs. 2 Satz 2
 Grundgesetz) und der Unverletzlichkeit der Wohnung (Artikel 13 Abs. 1
 Grundgesetz) werden insoweit eingeschränkt.
 
-
 ### § 27 Teilnahme des behandelnden Arztes
 
 Der behandelnde Arzt ist berechtigt, mit Zustimmung des Patienten an
 den Untersuchungen nach § 26 sowie an der inneren Leichenschau
 teilzunehmen.
-
 
 ### § 28 Schutzmaßnahmen
 
@@ -2352,7 +2304,6 @@ eingeschränkt.
 (2) Für Maßnahmen nach Absatz 1 gilt § 16 Abs. 5 bis 8, für ihre
 Überwachung außerdem § 16 Abs. 2 entsprechend.
 
-
 ### § 29 Beobachtung
 
 (1) Kranke, Krankheitsverdächtige, Ansteckungsverdächtige und
@@ -2377,7 +2328,6 @@ Unversehrtheit (Artikel 2 Abs. 2 Satz 1 Grundgesetz), der Freiheit der
 Person (Artikel 2 Abs. 2 Satz 2 Grundgesetz) und der Unverletzlichkeit
 der Wohnung (Artikel 13 Abs. 1 Grundgesetz) werden insoweit
 eingeschränkt.
-
 
 ### § 30 Quarantäne
 
@@ -2448,7 +2398,6 @@ von Absonderungsmaßnahmen außerhalb der Wohnung zur Verfügung stehen.
 Die Räume und Einrichtungen zur Absonderung nach Absatz 2 sind
 nötigenfalls von den Ländern zu schaffen und zu unterhalten.
 
-
 ### § 31 Berufliches Tätigkeitsverbot
 
 Die zuständige Behörde kann Kranken, Krankheitsverdächtigen,
@@ -2456,7 +2405,6 @@ Ansteckungsverdächtigen und Ausscheidern die Ausübung bestimmter
 beruflicher Tätigkeiten ganz oder teilweise untersagen. Satz 1 gilt
 auch für sonstige Personen, die Krankheitserreger so in oder an sich
 tragen, dass im Einzelfall die Gefahr einer Weiterverbreitung besteht.
-
 
 ### § 32 Erlass von Rechtsverordnungen
 
@@ -2472,10 +2420,7 @@ der Wohnung (Artikel 13 Abs. 1 Grundgesetz) und des Brief- und
 Postgeheimnisses (Artikel 10 Grundgesetz) können insoweit
 eingeschränkt werden.
 
-
 ## 6. Abschnitt - Zusätzliche Vorschriften für Schulen und sonstige Gemeinschaftseinrichtungen
-
-
 
 ### § 33 Gemeinschaftseinrichtungen
 
@@ -2485,7 +2430,6 @@ betreut werden, insbesondere Kinderkrippen, Kindergärten,
 Kindertagesstätten, Kinderhorte, Schulen oder sonstige
 Ausbildungseinrichtungen, Heime, Ferienlager und ähnliche
 Einrichtungen.
-
 
 ### § 34 Gesundheitliche Anforderungen, Mitwirkungspflichten, Aufgaben des Gesundheitsamtes
 
@@ -2701,7 +2645,6 @@ Impfstatus zu erheben und die hierbei gewonnenen aggregierten und
 anonymisierten Daten über die oberste Landesgesundheitsbehörde dem
 Robert Koch-Institut zu übermitteln.
 
-
 ### § 35 Belehrung für Personen in der Betreuung von Kindern und Jugendlichen
 
 Personen, die in den in § 33 genannten Gemeinschaftseinrichtungen
@@ -2713,7 +2656,6 @@ gesundheitlichen Anforderungen und Mitwirkungsverpflichtungen nach §
 34 zu belehren. Über die Belehrung ist ein Protokoll zu erstellen, das
 beim Arbeitgeber für die Dauer von drei Jahren aufzubewahren ist. Die
 Sätze 1 und 2 finden für Dienstherren entsprechende Anwendung.
-
 
 ### § 36 Einhaltung der Infektionshygiene
 
@@ -2792,10 +2734,7 @@ Lunge zu dulden.
 (5) Das Grundrecht der körperlichen Unversehrtheit (Artikel 2 Abs. 2
 Satz 1 Grundgesetz) wird insoweit eingeschränkt.
 
-
 ## 7. Abschnitt - Wasser
-
-
 
 ### § 37 Beschaffenheit von Wasser für den menschlichen Gebrauch sowie von Schwimm- und Badebeckenwasser, Überwachung
 
@@ -2817,7 +2756,6 @@ hinsichtlich der in den Absätzen 1 und 2 genannten Anforderungen der
 Überwachung gilt § 16 Abs. 2 entsprechend. Das Grundrecht der
 Unverletzlichkeit der Wohnung (Artikel 13 Abs. 1 Grundgesetz) wird
 insoweit eingeschränkt.
-
 
 ### § 38 Erlass von Rechtsverordnungen
 
@@ -2940,7 +2878,6 @@ gebührenpflichtigen Tatbestände, die Gebührensätze und die
 Auslagenerstattung näher zu bestimmen und dabei feste Sätze oder
 Rahmensätze vorzusehen.
 
-
 ### § 39 Untersuchungen, Maßnahmen der zuständigen Behörde
 
 (1) Der Unternehmer oder sonstige Inhaber einer Wassergewinnungs- oder
@@ -2969,7 +2906,6 @@ um
 
 § 16 Abs. 6 bis 8 gilt entsprechend.
 
-
 ### § 40 Aufgaben des Umweltbundesamtes
 
 Das Umweltbundesamt hat im Rahmen dieses Gesetzes die Aufgabe,
@@ -2988,7 +2924,6 @@ Gesundheit, des Bundesministeriums für Umwelt, Naturschutz und
 Reaktorsicherheit und des Umweltbundesamtes nehmen mit beratender
 Stimme an den Sitzungen teil. Weitere Vertreter von Bundes- und
 Landesbehörden können daran teilnehmen.
-
 
 ### § 41 Abwasser
 
@@ -3011,10 +2946,7 @@ die Ermächtigung durch Rechtsverordnung auf andere Stellen übertragen.
 Das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 Abs. 1
 Grundgesetz) kann insoweit eingeschränkt werden.
 
-
 ## 8. Abschnitt - Gesundheitliche Anforderungen an das Personal beim Umgang mit Lebensmitteln
-
-
 
 ### § 42 Tätigkeits- und Beschäftigungsverbote
 
@@ -3110,7 +3042,6 @@ Grundlage des Satzes 2 erlassene Verordnung tritt ein Jahr nach ihrem
 Inkrafttreten außer Kraft; ihre Geltungsdauer kann mit Zustimmung des
 Bundesrates verlängert werden.
 
-
 ### § 43 Belehrung, Bescheinigung des Gesundheitsamtes
 
 (1) Personen dürfen gewerbsmäßig die in § 42 Abs. 1 bezeichneten
@@ -3178,17 +3109,13 @@ weitergehende Anforderungen vorzuschreiben oder Anforderungen
 einzuschränken, wenn Rechtsakte der Europäischen Gemeinschaft dies
 erfordern.
 
-
 ## 9. Abschnitt - Tätigkeiten mit Krankheitserregern
-
-
 
 ### § 44 Erlaubnispflicht für Tätigkeiten mit Krankheitserregern
 
 Wer Krankheitserreger in den Geltungsbereich dieses Gesetzes
 verbringen, sie ausführen, aufbewahren, abgeben oder mit ihnen
 arbeiten will, bedarf einer Erlaubnis der zuständigen Behörde.
-
 
 ### § 45 Ausnahmen
 
@@ -3241,13 +3168,11 @@ und 3 zu untersagen, wenn eine Person, die die Arbeiten ausführt, sich
 bezüglich der erlaubnisfreien Tätigkeiten nach den Absätzen 1, 2 oder
 3 als unzuverlässig erwiesen hat.
 
-
 ### § 46 Tätigkeit unter Aufsicht
 
 Der Erlaubnis nach § 44 bedarf nicht, wer unter Aufsicht desjenigen,
 der eine Erlaubnis besitzt oder nach § 45 keiner Erlaubnis bedarf,
 tätig ist.
-
 
 ### § 47 Versagungsgründe, Voraussetzungen für die Erlaubnis
 
@@ -3303,13 +3228,11 @@ Auftrag eines Arztes, Zahnarztes oder Tierarztes, die im Besitz der
 Erlaubnis sind, oder Untersuchungen in Krankenhäusern für die
 unmittelbare Behandlung der Patienten des Krankenhauses durchführen.
 
-
 ### § 48 Rücknahme und Widerruf
 
 Die Erlaubnis nach § 44 kann außer nach den Vorschriften des
 Verwaltungsverfahrensgesetzes zurückgenommen oder widerrufen werden,
 wenn ein Versagungsgrund nach § 47 Abs. 1 vorliegt.
-
 
 ### § 49 Anzeigepflichten
 
@@ -3347,10 +3270,6 @@ der Gesundheit der Bevölkerung zu besorgen ist, insbesondere weil
 
 2.  die Voraussetzungen für eine gefahrlose Entsorgung nicht gegeben sind.
 
-
-
-
-
 ### § 50 Veränderungsanzeige
 
 Wer eine in § 44 genannte Tätigkeit ausübt, hat jede wesentliche
@@ -3360,7 +3279,6 @@ unverzüglich der zuständigen Behörde anzuzeigen. Anzuzeigen ist auch
 die Beendigung oder Wiederaufnahme der Tätigkeit. § 49 Abs. 1 Satz 3
 gilt entsprechend. Die Anzeigepflicht gilt nicht für Personen, die auf
 der Grundlage des § 46 tätig sind.
-
 
 ### § 51 Aufsicht
 
@@ -3373,7 +3291,6 @@ in diese zu gewähren und die notwendigen Prüfungen zu dulden. Das
 Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 Abs. 1
 Grundgesetz) wird insoweit eingeschränkt.
 
-
 ### § 52 Abgabe
 
 Krankheitserreger sowie Material, das Krankheitserreger enthält,
@@ -3381,7 +3298,6 @@ dürfen nur an denjenigen abgegeben werden, der eine Erlaubnis besitzt,
 unter Aufsicht eines Erlaubnisinhabers tätig ist oder einer Erlaubnis
 nach § 45 Abs. 2 Nr. 1 nicht bedarf. Satz 1 gilt nicht für staatliche
 human- oder veterinärmedizinische Untersuchungseinrichtungen.
-
 
 ### § 53 Anforderungen an Räume und Einrichtungen, Gefahrenvorsorge
 
@@ -3409,7 +3325,6 @@ bestimmte Wahrnehmungen dem Gesundheitsamt zu melden sind, soweit dies
 zur Verhütung oder Bekämpfung übertragbarer Krankheiten erforderlich
 ist.
 
-
 ### § 53a Verfahren über eine einheitliche Stelle, Entscheidungsfrist
 
 (1) Verwaltungsverfahren nach diesem Abschnitt können über eine
@@ -3420,10 +3335,7 @@ die zuständige Behörde innerhalb einer Frist von drei Monaten. § 42a
 Absatz 2 Satz 2 bis 4 des Verwaltungsverfahrensgesetzes gilt
 entsprechend.
 
-
 ## 10. Abschnitt - Zuständige Behörde
-
-
 
 ### § 54 Benennung der Behörde
 
@@ -3437,10 +3349,7 @@ nachgeordneten Landesbehörde wahrgenommen werden und dass auf die
 Wahrnehmung von Zustimmungsvorbehalten der obersten Landesbehörden
 nach diesem Gesetz verzichtet wird.
 
-
 ## 11. Abschnitt - Angleichung an Gemeinschaftsrecht
-
-
 
 ### § 55 Angleichung an Gemeinschaftsrecht
 
@@ -3452,10 +3361,7 @@ des Rates der Europäischen Union oder der Kommission der Europäischen
 Gemeinschaften, die Sachbereiche dieses Gesetzes betreffen,
 erforderlich ist.
 
-
 ## 12. Abschnitt - Entschädigung in besonderen Fällen
-
-
 
 ### § 56 Entschädigung
 
@@ -3593,7 +3499,6 @@ Vorschuss in der voraussichtlichen Höhe des Erstattungsbetrages, den
 in Heimarbeit Beschäftigten und Selbständigen in der voraussichtlichen
 Höhe der Entschädigung zu gewähren.
 
-
 ### § 57 Verhältnis zur Sozialversicherung und zur Arbeitsförderung
 
 (1) Für Personen, denen eine Entschädigung nach § 56 Abs. 1 zu
@@ -3645,7 +3550,6 @@ Feststellung des Bemessungszeitraums für einen Anspruch auf
 Arbeitslosengeld nach dem Dritten Buch Sozialgesetzbuch außer
 Betracht.
 
-
 ### § 58 Aufwendungserstattung
 
 Entschädigungsberechtigte im Sinne des § 56 Abs. 1, die der
@@ -3658,13 +3562,11 @@ beziehen, die als Ersatz der verbotenen Tätigkeit ausgeübt wird,
 mindert sich der Anspruch nach Satz 1 in dem Verhältnis dieses
 Einkommens zur ungekürzten Entschädigung.
 
-
 ### § 59 Sondervorschrift für Ausscheider
 
 Ausscheider, die Anspruch auf eine Entschädigung nach § 56 haben,
 gelten als körperlich Behinderte im Sinne des Dritten Buches
 Sozialgesetzbuch.
-
 
 ### § 60 Versorgung bei Impfschaden und bei Gesundheitsschäden durch andere Maßnahmen der spezifischen Prophylaxe
 
@@ -3780,7 +3682,6 @@ eines Unfalls im Sinne des Satzes 1 gleich.
 Vorschriften des zweiten Kapitels des Zehnten Buches Sozialgesetzbuch
 über den Schutz der Sozialdaten Anwendung.
 
-
 ### § 61 Gesundheitsschadensanerkennung
 
 Zur Anerkennung eines Gesundheitsschadens als Folge einer Schädigung
@@ -3793,14 +3694,12 @@ Landesbehörde der Gesundheitsschaden als Folge einer Schädigung im
 Sinne des § 60 Abs. 1 Satz 1 anerkannt werden. Die Zustimmung kann
 allgemein erteilt werden.
 
-
 ### § 62 Heilbehandlung
 
 Dem Geschädigten im Sinne von § 60 Abs. 1 bis 3 sind im Rahmen der
 Heilbehandlung auch heilpädagogische Behandlung, heilgymnastische und
 bewegungstherapeutische Übungen zu gewähren, wenn diese bei der
 Heilbehandlung notwendig sind.
-
 
 ### § 63 Konkurrenz von Ansprüchen, Anwendung der Vorschriften nach dem Bundesversorgungsgesetz, Übergangsregelungen zum Erstattungsverfahren an die Krankenkassen
 
@@ -3860,7 +3759,6 @@ Fassung und abzüglich der Erstattungen nach § 19 Abs. 4 des
 Bundesversorgungsgesetzes in der bis zum 31. Dezember 1993 geltenden
 Fassung, wird der Jahresdurchschnitt ermittelt.
 
-
 ### § 64 Zuständige Behörde für die Versorgung
 
 (1) Die Versorgung nach den §§ 60 bis 63 Abs. 1 wird von den für die
@@ -3882,7 +3780,6 @@ anzuwenden.
 (3) Absatz 2 gilt nicht, soweit die Versorgung in der Gewährung von
 Leistungen besteht, die den Leistungen der Kriegsopferfürsorge nach
 den §§ 25 bis 27j des Bundesversorgungsgesetzes entsprechen.
-
 
 ### § 65 Entschädigung bei behördlichen Maßnahmen
 
@@ -3908,7 +3805,6 @@ maßgeblich, in dem die Maßnahme getroffen wurde. Die Entschädigung für
 andere nicht nur unwesentliche Vermögensnachteile darf den Betroffenen
 nicht besser stellen, als er ohne die Maßnahme gestellt sein würde.
 Auf Grund der Maßnahme notwendige Aufwendungen sind zu erstatten.
-
 
 ### § 66 Zahlungsverpflichteter
 
@@ -3963,7 +3859,6 @@ Hinzutreten der weiteren Schädigung verursacht werden, von dem
 Leistungsträger zu übernehmen, der für die Versorgung wegen der
 weiteren Schädigung zuständig ist.
 
-
 ### § 67 Pfändung
 
 (1) Die nach § 56 Abs. 2 Satz 2 und 3 zu zahlenden Entschädigungen
@@ -3973,7 +3868,6 @@ Zivilprozessordnung gepfändet werden.
 (2) Übertragung, Verpfändung und Pfändung der Ansprüche nach den §§
 60, 62 und 63 Abs. 1 richten sich nach den Vorschriften des
 Bundesversorgungsgesetzes.
-
 
 ### § 68 Rechtsweg
 
@@ -3993,10 +3887,7 @@ Vorschriften der Kriegsopferfürsorge nach den §§ 25 bis 27j des
 Bundesversorgungsgesetzes gewährt wird. Insoweit ist der Rechtsweg vor
 den Verwaltungsgerichten gegeben.
 
-
 ## 13. Abschnitt - Kosten
-
-
 
 ### § 69 Kosten
 
@@ -4038,10 +3929,7 @@ und 38 nach Landesrecht.
 (2) Wer die öffentlichen Mittel aufzubringen hat, bleibt, soweit nicht
 bundesgesetzlich geregelt, der Regelung durch die Länder vorbehalten.
 
-
 ## 14. Abschnitt - Sondervorschriften
-
-
 
 ### § 70 Aufgaben der Bundeswehr und des Gesundheitsamtes
 
@@ -4095,7 +3983,6 @@ Auftreten oder dem Verdacht des Auftretens einer übertragbaren
 Krankheit gegenseitig zu benachrichtigen und inwieweit sie sich bei
 den Ermittlungen gegenseitig zu unterstützen haben.
 
-
 ### § 71 Aufgaben nach dem Seemannsgesetz
 
 Bei Besatzungsmitgliedern im Sinne des § 3 des Seemannsgesetzes, die
@@ -4103,7 +3990,6 @@ an Bord von Kauffahrteischiffen eine der in § 42 Abs. 1 Satz 1 oder 2
 bezeichneten Tätigkeiten ausüben, obliegen die Belehrungen nach § 43
 Abs. 1 den nach § 81 Abs. 1 des Seemannsgesetzes zur Untersuchung auf
 Seediensttauglichkeit ermächtigten Ärzten.
-
 
 ### § 72 Aufgaben des Eisenbahn-Bundesamtes
 
@@ -4114,10 +4000,7 @@ Schienenfahrzeugen dem Eisenbahn-Bundesamt, soweit die Aufgaben des
 Gesundheitsamtes und der zuständigen Behörde nach den §§ 37 bis 39 und
 41 betroffen sind.
 
-
 ## 15. Abschnitt - Straf- und Bußgeldvorschriften
-
-
 
 ### § 73 Bußgeldvorschriften
 
@@ -4265,7 +4148,6 @@ und 21 mit einer Geldbuße bis zu zweitausendfünfhundert Euro, in den
 übrigen Fällen mit einer Geldbuße bis zu fünfundzwanzigtausend Euro
 geahndet werden.
 
-
 ### § 74 Strafvorschriften
 
 Wer vorsätzlich eine der in § 73 Abs. 1 Nr. 1 bis 7, 11 bis 20, 22, 23
@@ -4273,7 +4155,6 @@ oder 24 bezeichnete Handlung begeht und dadurch eine in § 6 Abs. 1 Nr.
 1 genannte Krankheit oder einen in § 7 genannten Krankheitserreger
 verbreitet, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit
 Geldstrafe bestraft.
-
 
 ### § 75 Weitere Strafvorschriften
 
@@ -4319,16 +4200,12 @@ bestraft, wer entgegen § 24 Satz 1, auch in Verbindung mit Satz 2,
 dieser auch in Verbindung mit einer Rechtsverordnung nach § 15 Abs. 1,
 eine Person behandelt.
 
-
 ### § 76 Einziehung
 
 Gegenstände, auf die sich eine Straftat nach § 75 Abs. 1 oder 3
 bezieht, können eingezogen werden.
 
-
 ## 16. Abschnitt - Übergangsvorschriften
-
-
 
 ### § 77 Übergangsvorschriften
 

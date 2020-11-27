@@ -21,7 +21,6 @@ Neugefasst durch
 Geändert durch
 :   Art. 16 G v. 13.12.2007 I 2904
 
-
 ## § 1
 
 Schwerstbeschädigtenzulage erhalten Beschädigte, deren
@@ -31,7 +30,6 @@ des Bundesversorgungsgesetzes mit einem Grad der Schädigungsfolgen von
 den nachstehenden Vorschriften mit wenigstens 130 Punkten zu bewerten
 sind oder wenn sie Anspruch auf Pflegezulage mindestens nach Stufe III
 haben.
-
 
 ## § 2
 
@@ -72,7 +70,6 @@ ganzen Punkten bei Schädigungsfolgen mit einem Grad der
 Schädigungsfolgen von weniger als 45, mindestens aber 25. Die
 einzelnen Ergebnisse sind zusammenzuzählen; dabei ist § 30 Abs. 1 Satz
 2 des Bundesversorgungsgesetzes entsprechend anzuwenden.
-
 
 ## § 3
 
@@ -144,7 +141,6 @@ einschließlich blutbildendem Gewebe und Immunsystem, die innere
 Sekretion sowie das Gehirn in seiner gesamten Funktion (ohne
 Aufteilung in Funktionsbereiche).
 
-
 ## § 4
 
 Ist für die Zuerkennung der Schwerstbeschädigtenzulage der Anspruch
@@ -152,7 +148,6 @@ auf Pflegezulage von Bedeutung, bleibt eine Höherstufung der
 Pflegezulage außer Betracht, wenn sie wegen besonderer
 wirtschaftlicher Mehraufwendungen und Zusammentreffens mit einer nicht
 schädigungsbedingten Gesundheitsstörung vorgenommen worden ist.
-
 
 ## § 5
 
@@ -221,11 +216,9 @@ Pflegezulage wird
 
 erbracht.
 
-
 ## § 6
 
 (weggefallen)
-
 
 ## § 7
 

@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 5 G v. 22.5.1980 I 581
 
-
 ## Art 1
 
 (1)
@@ -30,7 +29,6 @@ sich damit unwiderruflich einverstanden erklärt haben. Das
 Einverständnis ist bis 31. Dezember 1981 oder bis zur Vollendung des
 siebenunddreißigsten Lebensjahrs, falls dieser Zeitpunkt später liegt,
 schriftlich zu erklären.
-
 
 ## Art 2
 

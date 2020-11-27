@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 2722
 
-
-
 ## § 1 Grundsatz
 
 (1) Jeder hat nach Maßgabe dieses Gesetzes gegenüber den Behörden des
@@ -40,7 +38,6 @@ amtlichen Informationen gehen mit Ausnahme des § 29 des
 Verwaltungsverfahrensgesetzes und des § 25 des Zehnten Buches
 Sozialgesetzbuch vor.
 
-
 ## § 2 Begriffsbestimmungen
 
 Im Sinne dieses Gesetzes ist
@@ -52,10 +49,6 @@ Im Sinne dieses Gesetzes ist
 
 2.  Dritter: jeder, über den personenbezogene Daten oder sonstige
     Informationen vorliegen.
-
-
-
-
 
 ## § 3 Schutz von besonderen öffentlichen Belangen
 
@@ -134,10 +127,6 @@ Der Anspruch auf Informationszugang besteht nicht,
     öffentlichen Stellen des Bundes, soweit sie Aufgaben im Sinne des § 10
     Nr. 3 des Sicherheitsüberprüfungsgesetzes wahrnehmen.
 
-
-
-
-
 ## § 4 Schutz des behördlichen Entscheidungsprozesses
 
 (1) Der Antrag auf Informationszugang soll abgelehnt werden für
@@ -151,7 +140,6 @@ Dritter.
 
 (2) Der Antragsteller soll über den Abschluss des jeweiligen
 Verfahrens informiert werden.
-
 
 ## § 5 Schutz personenbezogener Daten
 
@@ -181,14 +169,12 @@ Büroanschrift und -telekommunikationsnummer von Bearbeitern sind vom
 Informationszugang nicht ausgeschlossen, soweit sie Ausdruck und Folge
 der amtlichen Tätigkeit sind und kein Ausnahmetatbestand erfüllt ist.
 
-
 ## § 6 Schutz des geistigen Eigentums und von Betriebs- oder Geschäftsgeheimnissen
 
 Der Anspruch auf Informationszugang besteht nicht, soweit der Schutz
 geistigen Eigentums entgegensteht. Zugang zu Betriebs- oder
 Geschäftsgeheimnissen darf nur gewährt werden, soweit der Betroffene
 eingewilligt hat.
-
 
 ## § 7 Antrag und Verfahren
 
@@ -223,7 +209,6 @@ seiner Belange unverzüglich zugänglich zu machen. Der
 Informationszugang soll innerhalb eines Monats erfolgen. § 8 bleibt
 unberührt.
 
-
 ## § 8 Verfahren bei Beteiligung Dritter
 
 (1) Die Behörde gibt einem Dritten, dessen Belange durch den Antrag
@@ -238,7 +223,6 @@ erfolgen, wenn die Entscheidung dem Dritten gegenüber bestandskräftig
 ist oder die sofortige Vollziehung angeordnet worden ist und seit der
 Bekanntgabe der Anordnung an den Dritten zwei Wochen verstrichen sind.
 § 9 Abs. 4 gilt entsprechend.
-
 
 ## § 9 Ablehnung des Antrags; Rechtsweg
 
@@ -260,7 +244,6 @@ Vorschriften des 8. Abschnitts der Verwaltungsgerichtsordnung ist auch
 dann durchzuführen, wenn die Entscheidung von einer obersten
 Bundesbehörde getroffen wurde.
 
-
 ## § 10 Gebühren und Auslagen
 
 (1) Für Amtshandlungen nach diesem Gesetz werden Gebühren und Auslagen
@@ -276,7 +259,6 @@ Gebührensätze durch Rechtsverordnung ohne Zustimmung des Bundesrates
 zu bestimmen. § 15 Abs. 2 des Verwaltungskostengesetzes findet keine
 Anwendung.
 
-
 ## § 11 Veröffentlichungspflichten
 
 (1) Die Behörden sollen Verzeichnisse führen, aus denen sich die
@@ -288,7 +270,6 @@ sind nach Maßgabe dieses Gesetzes allgemein zugänglich zu machen.
 (3) Die Behörden sollen die in den Absätzen 1 und 2 genannten Pläne
 und Verzeichnisse sowie weitere geeignete Informationen in
 elektronischer Form allgemein zugänglich machen.
-
 
 ## § 12 Bundesbeauftragter für die Informationsfreiheit
 
@@ -305,11 +286,9 @@ Kontrollaufgaben des Bundesbeauftragten für den Datenschutz (§ 24 Abs.
 Satz 2 und Abs. 2 und 3) sowie über weitere Aufgaben gemäß § 26 Abs. 1
 bis 3 gelten entsprechend.
 
-
 ## § 13
 
 -
-
 
 ## § 14 Bericht und Evaluierung
 
@@ -317,7 +296,6 @@ Die Bundesregierung unterrichtet den Deutschen Bundestag zwei Jahre
 vor Außerkrafttreten über die Anwendung dieses Gesetzes. Der Deutsche
 Bundestag wird das Gesetz ein Jahr vor Außerkrafttreten auf
 wissenschaftlicher Grundlage evaluieren.
-
 
 ## § 15 Inkrafttreten
 

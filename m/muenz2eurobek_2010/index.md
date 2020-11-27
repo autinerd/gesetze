@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 1976
 
-
 ## (XXXX)
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
@@ -48,11 +47,9 @@ Kernbereich.
 Der Entwurf der nationalen Seite der Gedenkmünze stammt von Herrn
 Heinz Hoyer, Berlin.
 
-
 ## Schlussformel
 
 Der Bundesminister der Finanzen
-
 
 ## (XXXX)
 

@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   GBl DDR I: 1990, 248
 
-
-
 ## § 1
 
 Als gesetzliche Feiertage werden wieder eingeführt:
@@ -39,16 +37,11 @@ Als gesetzliche Feiertage werden wieder eingeführt:
 
     (für Territorien mit überwiegend evangelischer Bevölkerung).
 
-
-
-
-
 ## § 2
 
 Durch den Minister für Arbeit und Soziales sind bis zur Bildung von
 Ländern unter Beachtung der territorialen und konfessionellen Spezifik
 die erforderlichen Durchführungsbestimmungen zu erlassen.
-
 
 ## § 3
 
@@ -59,11 +52,9 @@ Feiertagen vom 3. Mai 1967 (GBl. II Nr. 38 S. 237) in der Fassung der
 Bekanntmachung vom 31. Mai 1979 (GBl. I Nr. 19 S. 164) wird
 aufgehoben.
 
-
 ## § 4
 
 Diese Verordnung tritt mit ihrer Veröffentlichung in Kraft.
-
 
 ## Schlußformel
 

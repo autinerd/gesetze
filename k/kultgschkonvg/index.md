@@ -19,14 +19,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 G v. 27.4.2004 I 630
 
-
 ## Art 1
 
 Der in Den Haag am 14. Mai 1954 von der Bundesrepublik Deutschland
 unterzeichneten Konvention zum Schutz von Kulturgut bei bewaffneten
 Konflikten nebst Protokoll wird zugestimmt. Die Konvention und das
 Protokoll werden nachstehend veröffentlicht.
-
 
 ## Art 2
 
@@ -80,7 +78,6 @@ nicht nach Absatz 4 Buchstabe b erfolgt.
 (6) Die Ausführung des Artikels 5 der Konvention und des Protokolls
 wird besonders geregelt.
 
-
 ## Art 3
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
@@ -89,7 +86,6 @@ Verantwortlichkeiten der alliierten Behörden, vor allem die ihnen
 zustehenden Befugnisse hinsichtlich der Aufrechterhaltung der
 Sicherheit von Berlin und insbesondere auf militärischem Gebiet,
 unberührt bleiben.
-
 
 ## Art 4
 

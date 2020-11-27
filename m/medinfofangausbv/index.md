@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 15.3.2000 I 222
 
-
 ## Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
@@ -28,7 +27,6 @@ zuletzt gemäß Artikel 35 der Verordnung vom 21. September 1997 (BGBl.
 I S. 2390) geändert worden ist, verordnen das Bundesministerium des
 Innern, das Bundesministerium für Wirtschaft und das Bundesministerium
 für Bildung, Wissenschaft, Forschung und Technologie:
-
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
@@ -57,11 +55,9 @@ des öffentlichen Dienstes und der gewerblichen Wirtschaft.
 
 gewählt werden.
 
-
 ## § 2 Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Ausbildungsberufsbild
 
@@ -183,10 +179,6 @@ mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 5.4 Statistik und Informationsdienstleistungen.
 
-
-
-
-
 ## § 4 Ausbildungsrahmenplan
 
 (1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach den in den
@@ -204,12 +196,10 @@ Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges
 Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung
 ist auch in den Prüfungen nach den §§ 7 bis 12 nachzuweisen.
 
-
 ## § 5 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 6 Berichtsheft
 
@@ -217,7 +207,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 7 Zwischenprüfung
 
@@ -242,10 +231,6 @@ Prüfungsgebieten durchzuführen:
 
 
 3.  Wirtschafts- und Sozialkunde.
-
-
-
-
 
 ## § 8 Abschlußprüfung in der Fachrichtung Archiv
 
@@ -357,7 +342,6 @@ erbracht werden. Werden die Prüfungsleistungen in einem
 Prüfungsbereich mit "ungenügend" bewertet, so ist die Prüfung nicht
 bestanden.
 
-
 ## § 9 Abschlußprüfung in der Fachrichtung Bibliothek
 
 (1) Die Abschlußprüfung in der Fachrichtung Bibliothek erstreckt sich
@@ -468,7 +452,6 @@ erbracht werden. Werden die Prüfungsleistungen in einem
 Prüfungsbereich mit "ungenügend" bewertet, so ist die Prüfung nicht
 bestanden.
 
-
 ## § 10 Abschlußprüfung in der Fachrichtung Information und Dokumentation
 
 (1) Die Abschlußprüfung in der Fachrichtung Information und
@@ -576,7 +559,6 @@ drei der vier Prüfungsbereiche mindestens ausreichende Leistungen
 erbracht werden. Werden die Prüfungsleistungen in einem
 Prüfungsbereich mit "ungenügend" bewertet, so ist die Prüfung nicht
 bestanden.
-
 
 ## § 11 Abschlußprüfung in der Fachrichtung Bildagentur
 
@@ -686,7 +668,6 @@ erbracht werden. Werden die Prüfungsleistungen in einem
 Prüfungsbereich mit "ungenügend" bewertet, so ist die Prüfung nicht
 bestanden.
 
-
 ## § 12 Abschlussprüfung in der Fachrichtung Medizinische Dokumentation
 
 (1) Die Abschlussprüfung in der Fachrichtung Medizinische
@@ -795,7 +776,6 @@ erbracht werden. Werden die Prüfungsleistungen in einem
 Prüfungsbereich mit "ungenügend" bewertet, so ist die Prüfung nicht
 bestanden.
 
-
 ## § 13 Übergangsregelung
 
 (1) Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
@@ -807,11 +787,9 @@ Anwendung der Vorschriften dieser Verordnung.
 beginnen, können die Vertragsparteien die Anwendung der bisherigen
 Vorschriften vereinbaren.
 
-
 ## § 14 Inkrafttreten/Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 1998 in Kraft.
-
 
 ## Anlage 1 (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum/zur Fachangestellten für Medien- und Informationsdienste
 
@@ -1790,10 +1768,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   c)
 
     *   Ergebnisse darstellen und präsentieren
-
-
-
-
 
 ## Anlage 2 (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum/zur Fachangestellten für Medien- und Informationsdienste - Zeitliche Gliederung -
 

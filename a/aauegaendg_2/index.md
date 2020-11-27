@@ -15,24 +15,18 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 1939
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## (XXXX) Art 1 bis 9
-
-
 
 ## Art 10 Auflösung des Sondervermögens der Bundesrepublik Deutschland
 
 Das als Sondervermögen der Bundesrepublik Deutschland geführte
 Guthaben des Rentenfonds der Partei des Demokratischen Sozialismus
 wird aufgelöst und in den Haushalt des Bundes überführt.
-
 
 ## Art 11 Übergangsregelung
 
@@ -48,13 +42,11 @@ nichtig erklärt worden ist, nur mit Wirkung für die Zeit nach dem 30.
 April 1999 nach § 44 des Zehnten Buches Sozialgesetzbuch
 zurückgenommen werden.
 
-
 ## Art 12 Rückkehr zum einheitlichen Verordnungsrang
 
 Die auf Artikel 8 und 9 beruhenden Teile der dort geänderten
 Rechtsverordnungen können auf Grund der jeweils einschlägigen
 Ermächtigung durch Rechtsverordnung geändert werden.
-
 
 ## Art 13 Inkrafttreten
 

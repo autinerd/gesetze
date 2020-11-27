@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 5 Abs. 3 G v. 10.11.2006 I 2553
 
-
 ## Eingangsformel
 
 Auf Grund des § 160b Abs. 1 Satz 2 in Verbindung mit § 125 Abs. 3 und
@@ -32,7 +31,6 @@ Juli 1994 (BGBl. I S. 1744), geändert durch Artikel 5 Abs. 3 des
 Gesetzes vom 6. Juni 1995 (BGBl. I S. 778), verordnet das
 Bundesministerium der Justiz:
 
-
 ## § 1 Anwendbares Recht
 
 (1) Die Einrichtung und Führung des Partnerschaftsregisters bestimmen
@@ -44,7 +42,6 @@ gleich; an die Stelle der persönlich haftenden Gesellschafter treten
 die Partner, an die Stelle der Firma der offenen Handelsgesellschaft
 tritt der Name der Partnerschaft.
 
-
 ## § 2 Einteilung und Gestaltung des Registers
 
 (1) Jede Partnerschaft ist unter einer fortlaufenden Nummer
@@ -53,7 +50,6 @@ dem beigegebenen Muster in Anlage 1 geführt.
 
 (2) Bei der Führung des Registers sind die beigegebenen Muster
 (Anlagen 1 bis 3) zu verwenden.
-
 
 ## § 3 Anmeldung
 
@@ -89,7 +85,6 @@ eine solche Zulassung erfolgen kann.
 Partners in eine bestehende Partnerschaft oder der Umwandlung in oder
 auf eine Partnerschaft entsprechend.
 
-
 ## § 4 Stellungnahme der Berufskammer
 
 Bestehen für in der Partnerschaft ausgeübte Berufe Berufskammern, so
@@ -101,7 +96,6 @@ auch die Anschriften der Berufskammern mitgeteilt werden. Weicht das
 Gericht von einer Stellungnahme ab, so hat es seine Entscheidung der
 Berufskammer, die die Stellungnahme abgegeben hat, unter Angabe der
 Gründe mitzuteilen.
-
 
 ## § 5 Inhalt der Eintragungen
 
@@ -169,18 +163,15 @@ Unternehmensregister eingetragenen Rechtsträgers, so sind Art und Ort
 des Registers und die Registernummer dieses Rechtsträgers mit zu
 vermerken.
 
-
 ## § 6 Mitteilungen an Berufskammern
 
 Besteht für einen in der Partnerschaft ausgeübten Beruf eine
 Berufskammer, so sind dieser sämtliche Eintragungen mitzuteilen.
 
-
 ## § 7 Bekanntmachungen
 
 Die Bekanntmachungen erfolgen in dem für das Handelsregister
 bestimmten Veröffentlichungssystem (§ 10 des Handelsgesetzbuchs).
-
 
 ## § 8 Namenslöschung wegen Nichtausübung freiberuflicher Tätigkeit
 
@@ -189,21 +180,17 @@ freiberufliche Tätigkeit ausgeübt wird, so kann auf Antrag der
 Gesellschafter in der Bekanntmachung der Grund der Löschung erwähnt
 werden.
 
-
 ## § 9 (weggefallen)
 
 -
-
 
 ## § 10 Inkrafttreten
 
 Diese Verordnung tritt am 1. Juli 1995 in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage 1 (zu § 2 Abs. 1 und 2)
 
@@ -442,10 +429,6 @@ Abruf der Registerdaten auf dem Bildschirm stets sichtbar sein.
     Kenntlichmachung des Registerblattes als gegenstandslos ist hier
     weggelassen.
 
-
-
-
-
 ## Anlage 2 (zu § 2 Abs. 2)
 
 (Fundstelle des Originaltextes: BGBl. I 2001, 3697)
@@ -469,12 +452,10 @@ Anmerkung: Die beiden Kopfzeilen müssen beim Abruf der Registerdaten
 auf
 dem Bildschirm stets sichtbar sein.
 
-
 ## Anlage 3 (zu § 2 Abs. 2)
 
 (Inhalt: Nicht darstellbares Muster des Namensverzeichnisses,
 Fundstelle: BGBl. I 1995, 812)
-
 
 ## Anlage 4 (zu § 7) Muster für Bekanntmachungen
 

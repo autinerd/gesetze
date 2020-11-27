@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 14.4.2011 I 648
 
-
 ## Eingangsformel
 
 Auf Grund des § 27 Abs. 5 des Patentgesetzes in der Fassung der
@@ -41,7 +40,6 @@ des § 65 Abs. 1 Nr. 11 und 12 des Markengesetzes vom 25. Oktober 1994
 das Deutsche Patentamt vom 5. September 1968 (BGBl. I S. 997), der
 zuletzt durch Verordnung vom 15. November 1994 (BGBl. I S. 3462)
 geändert worden ist, verordnet der Präsident des Deutschen Patentamts:
-
 
 ## § 1 Prüfungsstellen für Patente und Patentabteilungen
 
@@ -238,7 +236,6 @@ vergleichbare Tarifbeschäftigte betraut:
 Verfahren über ergänzende Schutzzertifikate und Anmeldungen von
 ergänzenden Schutzzertifikaten entsprechend anzuwenden.
 
-
 ## § 2 Gebrauchsmusterstelle und Gebrauchsmusterabteilungen
 
 (1) Mit der Wahrnehmung folgender Geschäfte der Gebrauchsmusterstelle
@@ -376,16 +373,11 @@ Dienstes und vergleichbare Tarifbeschäftigte betraut:
     eines Gebrauchsmusters oder die Änderung von Vertreterangaben
     betrifft.
 
-
-
-
-
 ## § 3 Topographiestelle und Topographieabteilung
 
 Auf die Wahrnehmung der Geschäfte der Topographiestelle und der
 Topographieabteilung durch Beamte des gehobenen und mittleren Dienstes
 sowie vergleichbare Tarifbeschäftigte ist § 2 entsprechend anzuwenden.
-
 
 ## § 4 Geschmacksmusterstelle
 
@@ -403,7 +395,6 @@ Registereintragung, die den Wohnort oder die Zustellanschrift des
 Anmelders oder Inhabers eines Geschmacksmusters oder die Änderung von
 Vertreterangaben betrifft, werden auch Beamte des mittleren Dienstes
 oder vergleichbare Tarifbeschäftigte betraut.
-
 
 ## § 5 Markenstellen und Markenabteilungen
 
@@ -541,13 +532,7 @@ vergleichbare Tarifbeschäftigte betraut:
 8.  Sachbearbeitung bei Übertragungen von international registrierten
     Marken.
 
-
-
-
-
 ## § 6 (weggefallen)
-
-
 
 ## § 7 Gemeinsame Vorschriften
 
@@ -606,14 +591,9 @@ der Wahrnehmung folgender Geschäfte betraut:
     Zeugen und Sachverständige sowie Bewilligung von
     Reisekostenentschädigung für mittellose Beteiligte.
 
-
-
-
-
 ## § 8
 
 -
-
 
 ## § 9 Inkrafttreten
 

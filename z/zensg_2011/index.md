@@ -15,9 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 1781
 
-
 ## Abschnitt 1 - Allgemeine Regelungen
-
 
 ### § 1 Art, Zwecke und Berichtszeitpunkt des Zensus
 
@@ -78,10 +76,6 @@ Mai 2011 (Berichtszeitpunkt) als Bundesstatistik durch.
 3.  der Erfüllung der Berichtspflichten nach der Verordnung (EG) Nr.
     763/2008 des Europäischen Parlaments und des Rates vom 9. Juli 2008
     über Volks- und Wohnungszählungen (ABl. L 218 vom 13.8.2008, S. 14).
-
-
-
-
 
 ### § 2 Erhebungseinheiten und Begriffsbestimmungen
 
@@ -153,9 +147,7 @@ zugrunde gelegt. Davon kann abgewichen werden, wenn und soweit es
 innerhalb der Länder bis zur Stichprobenziehung zu Gebietsreformen
 kommt.
 
-
 ## Abschnitt 2 - Erhebung und Zusammenführung der Daten; Haushaltegenerierung
-
 
 ### § 3 Übermittlung von Daten durch die Meldebehörden und durch oberste Bundesbehörden
 
@@ -330,7 +322,6 @@ Bundesamt die Daten nach Absatz 1 nach Abschluss der Vollzähligkeits-
 und Vollständigkeitsüberprüfung jeweils spätestens acht Wochen nach
 den in Absatz 2 genannten Zeitpunkten.
 
-
 ### § 4 Übermittlung von Daten durch die Bundesagentur für Arbeit
 
 Zur Durchführung des Zensus übermittelt die Bundesagentur für Arbeit
@@ -415,13 +406,6 @@ elektronisch die folgenden Daten:
 
     e)  Tag der Geburt.
 
-
-
-
-
-
-
-
 ### § 5 Übermittlung von Daten durch die nach dem Finanz- und Personalstatistikgesetz auskunftspflichtigen Stellen
 
 Die nach § 11 Absatz 2 Nummer 3 des Finanz- und
@@ -488,7 +472,6 @@ der übrigen in § 2 Absatz 1 des Finanz- und Personalstatistikgesetzes
 genannten Erhebungseinheiten jeweils zu den in Satz 1 genannten
 Fristen die dort genannten Daten elektronisch an das Statistische
 Bundesamt.
-
 
 ### § 6 Gebäude- und Wohnungszählung
 
@@ -569,10 +552,6 @@ schriftliche Befragung durch.
 
 
 5.  Straße, Hausnummer und Anschriftenzusätze der Wohnung.
-
-
-
-
 
 ### § 7 Haushaltebefragung auf Stichprobenbasis
 
@@ -734,7 +713,6 @@ Pfalz.
 Wochen nach dem Berichtszeitpunkt abzuschließen. Hiervon kann nur in
 begründeten Ausnahmefällen abgewichen werden.
 
-
 ### § 8 Erhebungen an Anschriften mit Sonderbereichen
 
 (1) Die statistischen Ämter der Länder stellen für alle Anschriften
@@ -806,7 +784,6 @@ Telekommunikationsnummern der Auskunftspflichtigen erhoben.
 7 durchgeführt werden. In den übrigen nach § 7 ausgewählten
 Sonderbereichen werden die dort wohnenden Personen zu den Merkmalen
 nach § 7 Absatz 4 und 5 befragt.
-
 
 ### § 9 Zusammenführung der Datensätze und Haushaltegenerierung
 
@@ -914,15 +891,7 @@ Datensätze zu Haushalten zusammen:
 
     r)  Information über freiwillige Anmeldung im Melderegister.
 
-
-
-
-
-
-
-
 ## Abschnitt 3 - Organisation
-
 
 ### § 10 Erhebungsstellen
 
@@ -939,7 +908,6 @@ schriftlich zu verpflichten, das Statistikgeheimnis zu wahren und auch
 solche Erkenntnisse über Auskunftspflichtige geheim zu halten, die bei
 ihrer Tätigkeit gewonnen werden. Die Verpflichtung gilt auch nach
 Beendigung der Tätigkeit in den Erhebungsstellen.
-
 
 ### § 11 Erhebungsbeauftragte
 
@@ -1032,7 +1000,6 @@ die Angaben zu Familienname, frühere Namen, Vornamen, Namenszusatz,
 Geschlecht, Tag der Geburt, Staatsangehörigkeiten sowie die Angaben
 zur Anschrift.
 
-
 ### § 12 Zentrale Datenverarbeitung und -aufbereitung
 
 (1) Die erhobenen Daten werden nach Maßgabe der folgenden Vorschriften
@@ -1098,7 +1065,6 @@ Aufgaben nach diesem Gesetz abgerufen werden können. Die Verantwortung
 für die Zulässigkeit des Abrufs im automatisierten Verfahren trägt der
 Empfänger.
 
-
 ### § 13 Ordnungsnummern
 
 (1) Für jede Anschrift, jedes Gebäude, jede Wohnung, jeden Haushalt
@@ -1114,9 +1080,7 @@ gespeichert werden. Sie sind nach Abschluss der Aufbereitung des
 Zensus, spätestens jedoch vier Jahre nach dem Berichtszeitpunkt zu
 löschen.
 
-
 ## Abschnitt 4 - Maßnahmen zur Sicherung der Qualität der Zensusergebnisse
-
 
 ### § 14 Ergänzende Ermittlung von Anschriften von Gebäuden mit Wohnraum und von bewohnten Unterkünften
 
@@ -1152,7 +1116,6 @@ durch. Führt diese zu keinem Ergebnis, sind Begehungen durchzuführen.
 Eine Begehung im Sinne des Satzes 2 ist die Inaugenscheinnahme der
 Liegenschaft vom öffentlichen Straßenraum oder vom öffentlich
 zugänglichen Grundstücksteil.
-
 
 ### § 15 Mehrfachfalluntersuchung
 
@@ -1213,13 +1176,6 @@ Angaben:
 
     d)  Anschriften aller Haupt- und Nebenwohnungen der betroffenen Person.
 
-
-
-
-
-
-
-
 ### § 16 Befragung zur Klärung von Unstimmigkeiten
 
 Die statistischen Ämter der Länder bereinigen Unstimmigkeiten, die in
@@ -1260,13 +1216,6 @@ Angaben:
 
 
     c)  Anschrift.
-
-
-
-
-
-
-
 
 ### § 17 Bewertung der Qualität der Zensusergebnisse
 
@@ -1360,9 +1309,7 @@ einen Bericht über die Schulung und Aufgabenerledigung der
 Erhebungsbeauftragten sowie die Ergebnisse der Überprüfungen nach den
 Absätzen 2 und 3.
 
-
 ## Abschnitt 5 - Auskunftspflicht und Datenschutz
-
 
 ### § 18 Auskunftspflicht und Form der Auskunftserteilung
 
@@ -1461,7 +1408,6 @@ sind von den angetroffenen Auskunftspflichtigen auch für andere in
 derselben Wohnung wohnende Personen auf Aufforderung mündlich
 gegenüber den Erhebungsbeauftragten mitzuteilen.
 
-
 ### § 19 Löschung
 
 (1) Die Hilfsmerkmale sind von den Erhebungsmerkmalen zum
@@ -1475,7 +1421,6 @@ nach dem Berichtszeitpunkt zu löschen.
 (2) Die Erhebungsunterlagen sind nach Abschluss der Aufbereitung des
 Zensus, spätestens vier Jahre nach dem Berichtszeitpunkt zu
 vernichten.
-
 
 ### § 20 Datenübermittlungen
 
@@ -1492,7 +1437,6 @@ Daten gewährleisten; im Falle der Nutzung allgemein zugänglicher Netze
 sind dem jeweiligen Stand der Technik entsprechende
 Verschlüsselungsverfahren anzuwenden.
 
-
 ### § 21 Information der Öffentlichkeit
 
 (1) Die statistischen Ämter des Bundes und der Länder richten im
@@ -1502,7 +1446,6 @@ die Bevölkerung über den Zensus zu informieren.
 (2) Die Bundesregierung gibt die Merkmalsausprägungen der
 Erhebungsmerkmale im elektronischen Bundesanzeiger sowie auf der
 Internetseite nach Absatz 1 bekannt.
-
 
 ### § 22 Übermittlung von Tabellen und Einzelangaben an oberste Bundes- und Landesbehörden sowie an Statistikstellen der Gemeinden und Gemeindeverbände
 
@@ -1527,9 +1470,7 @@ zuständigen Stellen der Gemeinden und Gemeindeverbände, gewährleistet
 ist. Die Hilfsmerkmale sind zum frühestmöglichen Zeitpunkt, spätestens
 jedoch zwei Jahre nach Übermittlung zu löschen.
 
-
 ## Abschnitt 6 - Schlussvorschriften
-
 
 ### § 23 Bereitstellung von Auswahlgrundlagen für Gebäude-, Wohnungs- und Bevölkerungsstichproben
 
@@ -1549,12 +1490,10 @@ Auswahlbezirke sind unverzüglich nach Festlegung der Auswahlbezirke
 nach Satz 3, spätestens vier Jahre nach dem Berichtszeitpunkt zu
 löschen.
 
-
 ### § 24 Kosten der Übermittlungen an das Statistische Bundesamt
 
 Die Kosten der Datenübermittlungen an das Statistische Bundesamt
 werden nicht erstattet.
-
 
 ### § 25 Finanzzuweisung
 

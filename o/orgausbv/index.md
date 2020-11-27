@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1984, 1566
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
@@ -29,7 +27,6 @@ Gesetzes vom 24. August 1976 (BGBl. I S. 2525) geändert worden ist,
 wird im Einvernehmen mit dem Bundesminister für Bildung und
 Wissenschaft verordnet:
 
-
 ## § 1 Anwendungsbereich
 
 Diese Verordnung gilt für die Berufsausbildung in dem Ausbildungsberuf
@@ -37,12 +34,10 @@ Orgel- und Harmoniumbauer/Orgel- und Harmoniumbauerin nach der
 Handwerksordnung und für die Berufsausbildung in dem nach § 2
 anerkannten Ausbildungsberuf.
 
-
 ## § 2 Staatliche Anerkennung des Ausbildungsberufs
 
 Der Ausbildungsberuf Orgel- und Harmoniumbauer/Orgel- und
 Harmoniumbauerin wird staatlich anerkannt.
-
 
 ## § 3 Ausbildungsdauer, Fachrichtungen
 
@@ -57,7 +52,6 @@ kann zwischen den Fachrichtungen
 
 
 gewählt werden.
-
 
 ## § 4 Ausbildungsberufsbild
 
@@ -161,13 +155,6 @@ mindestens die folgenden Fertigkeiten und Kenntnisse:
 
     d)  Herstellen von lingualen Pfeifen.
 
-
-
-
-
-
-
-
 ## § 5 Ausbildungsrahmenplan
 
 Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der Anlage
@@ -177,12 +164,10 @@ Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung
 des Ausbildungsinhalts ist insbesondere zulässig, soweit
 betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
 ## § 6 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 7 Berichtsheft
 
@@ -190,7 +175,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 8 Zwischenprüfung
 
@@ -265,7 +249,6 @@ berücksichtigen.
 (5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere
 unterschritten werden, soweit die schriftliche Prüfung in
 programmierter Form durchgeführt wird.
-
 
 ## § 9 Abschlußprüfung und Gesellenprüfung
 
@@ -494,7 +477,6 @@ der Kenntnisprüfung sowie innerhalb der Kenntnisprüfung im
 Prüfungsfach Technologie mindestens ausreichende Leistungen erbracht
 sind.
 
-
 ## § 10 Aufhebung von Vorschriften
 
 Die bisher festgelegten Berufsbilder, Berufsbildungspläne und
@@ -503,7 +485,6 @@ vergleichbar geregelten Ausbildungsberufe, die in dieser Verordnung
 geregelt sind, insbesondere für den Ausbildungsberuf Orgelbauer, sind
 vorbehaltlich des § 11 nicht mehr anzuwenden.
 
-
 ## § 11 Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
@@ -511,23 +492,19 @@ Verordnung bestehen, sind die bisherigen Vorschriften weiter
 anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
 Anwendung der Vorschriften dieser Verordnung.
 
-
 ## § 12 Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 112 des Berufsbildungsgesetzes und § 128 der
 Handwerksordnung auch im Land Berlin.
 
-
 ## § 13 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 1985 in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesminister für Wirtschaft
-
 
 ## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Orgel- und Harmoniumbauer/zur Orgel- und Harmoniumbauerin
 
@@ -1515,10 +1492,6 @@ Der Bundesminister für Wirtschaft
 *    *   d)
 
     *   Pfeifen zusammensetzen
-
-
-
-
 
 ## Anhang EV Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet B Abschnitt III und Kapitel XVI Sachgebiet C Abschnitt III (BGBl. II 1990, 889, 998, 1135)
 

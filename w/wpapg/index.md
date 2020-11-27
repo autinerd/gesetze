@@ -21,7 +21,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 5 G v. 31.7.2009 I 2512
 
-
 ## § 1 Allgemeine Vorschriften
 
 (1) Wertpapiere im Sinne dieses Gesetzes sind Aktien, Kuxe,
@@ -44,10 +43,7 @@ nachträglich, im Interesse des Anlegerschutzes von der Erfüllung von
 Auflagen abhängig gemacht werden. Die Anerkennung und deren Aufhebung
 sowie Auflagen sind öffentlich bekanntzugeben.
 
-
 ## 1. Abschnitt - Verwahrung
-
-
 
 ### § 2 Sonderverwahrung
 
@@ -59,7 +55,6 @@ Wertpapiersammelbank zugelassen sind, oder wenn der Hinterleger die
 gesonderte Aufbewahrung verlangt. Etwaige Rechte und Pflichten des
 Verwahrers, für den Hinterleger Verfügungen oder Verwaltungshandlungen
 vorzunehmen, werden dadurch nicht berührt.
-
 
 ### § 3 Drittverwahrung
 
@@ -77,7 +72,6 @@ auch dann verantwortlich, wenn ihm die Haftung für ein Verschulden des
 Drittverwahrers durch Vertrag erlassen worden ist, es sei denn, daß
 die Papiere auf ausdrückliche Weisung des Hinterlegers bei einem
 bestimmten Drittverwahrer verwahrt werden.
-
 
 ### § 4 Beschränkte Geltendmachung von Pfand- und Zurückbehaltungsrechten
 
@@ -97,7 +91,6 @@ Eigentümer der Wertpapiere sei.
 Wertpapiere einem Dritten an, so gilt Absatz 1 nicht. Ist er nicht
 Eigentümer der Wertpapiere, so hat er dies dem Dritten mitzuteilen; in
 diesem Falle gilt Absatz 1 Satz 2.
-
 
 ### § 5 Sammelverwahrung
 
@@ -151,7 +144,6 @@ Die Haftung der Wertpapiersammelbanken nach § 3 Abs. 2 Satz 1 für ein
 Verschulden des ausländischen Verwahrers kann durch Vereinbarung nicht
 beschränkt werden.
 
-
 ### § 6 Miteigentum am Sammelbestand, Verwaltungsbefugnis des Verwahrers bei der Sammelverwahrung
 
 (1) Werden Wertpapiere in Sammelverwahrung genommen, so entsteht mit
@@ -168,7 +160,6 @@ gebührende Menge entnehmen, ohne daß er hierzu der Zustimmung der
 den Sammelbestand nicht verringern. Diese Vorschriften sind im Falle
 der Drittverwahrung auf Zwischenverwahrer sinngemäß anzuwenden.
 
-
 ### § 7 Auslieferungsansprüche des Hinterlegers bei der Sammelverwahrung
 
 (1) Der Hinterleger kann im Falle der Sammelverwahrung verlangen, daß
@@ -183,19 +174,16 @@ sich infolge eines Verlustes am Sammelbestand die dem Hinterleger nach
 Ausfall, es sei denn, daß der Verlust am Sammelbestand auf Umständen
 beruht, die er nicht zu vertreten hat.
 
-
 ### § 8 Ansprüche der Miteigentümer und sonstiger dinglich Berechtigter bei der Sammelverwahrung
 
 Die für Ansprüche des Hinterlegers geltenden Vorschriften der § 6 Abs.
 2 Satz 1, § 7 sind sinngemäß auf Ansprüche eines jeden Miteigentümers
 oder sonst dinglich Berechtigten anzuwenden.
 
-
 ### § 9 Beschränkte Geltendmachung von Pfand- und Zurückbehaltungsrechten bei der Sammelverwahrung
 
 § 4 gilt sinngemäß auch für die Geltendmachung von Pfandrechten und
 Zurückbehaltungsrechten an Sammelbestandanteilen.
-
 
 ### § 9a Sammelurkunde
 
@@ -236,7 +224,6 @@ die Inhaber der in der Sammelurkunde verbrieften Rechte einzelne
 Wertpapiere auszugeben, kann auch von der Wertpapiersammelbank die
 Auslieferung von einzelnen Wertpapieren nicht verlangt werden.
 
-
 ### § 10 Tauschverwahrung
 
 (1) Eine Erklärung, durch die der Hinterleger den Verwahrer
@@ -252,7 +239,6 @@ derselben Art zu ersetzen.
 
 (3) (gegenstandslos)
 
-
 ### § 11 Umfang der Ermächtigung zur Tauschverwahrung
 
 Eine Erklärung, durch die der Hinterleger den Verwahrer ermächtigt, an
@@ -263,7 +249,6 @@ Wertpapiere schon vor der Rückgewähr durch Wertpapiere derselben Art
 zu ersetzen. Sie umfaßt nicht die Ermächtigung zu Maßnahmen anderer
 Art und bedeutet nicht, daß schon durch ihre Entgegennahme das
 Eigentum an den Wertpapieren auf den Verwahrer übergehen soll.
-
 
 ### § 12 Ermächtigungen zur Verpfändung
 
@@ -304,7 +289,6 @@ Innehaltung einzelner Beschränkungen des Absatzes 2 befreit.
 Sammelbestandanteilen ermächtigt ist, darf die Ermächtigung so, wie
 sie ihm gegeben ist, weitergeben.
 
-
 ### § 12a Verpfändung als Sicherheit für Verbindlichkeiten aus Börsengeschäften
 
 (1) Abweichend von § 12 darf der Verwahrer die Wertpapiere oder
@@ -330,7 +314,6 @@ Verwahrer nach Absatz 1 bestehen. Der Verwahrer haftet für ein
 Verschulden des Pfandgläubigers wie für eigenes Verschulden; diese
 Haftung kann durch Vereinbarung nicht beschränkt werden.
 
-
 ### § 13 Ermächtigung zur Verfügung über das Eigentum
 
 (1) Eine Erklärung, durch die der Verwahrer ermächtigt wird, sich die
@@ -350,7 +333,6 @@ sein.
 Eigentum an ihnen auf einen Dritten, so sind von diesem Zeitpunkt an
 die Vorschriften dieses Abschnitts auf ein solches Verwahrungsgeschäft
 nicht mehr anzuwenden.
-
 
 ### § 14 Verwahrungsbuch
 
@@ -384,7 +366,6 @@ Eigentümer der von ihm dem Drittverwahrer anvertrauten Wertpapiere ist
 (§ 4 Abs. 3), so hat der Drittverwahrer dies bei der Eintragung im
 Verwahrungsbuch kenntlich zu machen.
 
-
 ### § 15 Unregelmäßige Verwahrung, Wertpapierdarlehen
 
 (1) Wird die Verwahrung von Wertpapieren in der Art vereinbart, daß
@@ -406,7 +387,6 @@ sein.
 (3) Diese Vorschriften gelten sinngemäß, wenn Wertpapiere jemandem im
 Betrieb seines Gewerbes als Darlehen gewährt werden.
 
-
 ### § 16 Befreiung von Formvorschriften
 
 Die Formvorschriften des § 4 Abs. 2, des § 5 Abs. 1 Satz 2 und 3 und
@@ -426,16 +406,11 @@ ein Kaufmann ist, der
 3.  nicht eingetragen wird, weil er seinen Sitz oder seine
     Hauptniederlassung im Ausland hat.
 
-
-
-
-
 ### § 17 Pfandverwahrung
 
 Werden jemandem im Betrieb seines Gewerbes Wertpapiere unverschlossen
 als Pfand anvertraut, so hat der Pfandgläubiger die Pflichten und
 Befugnisse eines Verwahrers.
-
 
 ### § 17a Verfügungen über Wertpapiere
 
@@ -448,10 +423,7 @@ wird, oder in dem sich die kontoführende Haupt- oder Zweigstelle des
 Verwahrers befindet, die dem Verfügungsempfänger die rechtsbegründende
 Gutschrift erteilt.
 
-
 ## 2. Abschnitt - Einkaufskommission
-
-
 
 ### § 18 Stückeverzeichnis
 
@@ -476,7 +448,6 @@ den darin bezeichneten Wertpapieren, soweit der Kommissionär über sie
 zu verfügen berechtigt ist, auf den Kommittenten über, wenn es nicht
 nach den Bestimmungen des bürgerlichen Rechts schon früher auf ihn
 übergegangen ist.
-
 
 ### § 19 Aussetzung der Übersendung des Stückeverzeichnisses
 
@@ -515,7 +486,6 @@ Aussetzung nach den Umständen, insbesondere wegen verhältnismäßiger
 Geringfügigkeit des rückständigen Teils, gegen Treu und Glauben
 verstoßen würde.
 
-
 ### § 20 Übersendung des Stückeverzeichnisses auf Verlangen
 
 (1) Wenn der Kommissionär einem Kommittenten, mit dem er im
@@ -539,7 +509,6 @@ Erklärung dem Kommissionär zugeht. Die Aufforderung muß schriftlich
 erfolgen und die Wertpapiere, die in das Stückeverzeichnis aufgenommen
 werden sollen, genau bezeichnen.
 
-
 ### § 21 Befugnis zur Aussetzung und Befugnis zur Übersendung auf Verlangen
 
 Will der Kommissionär die Übersendung des Stückeverzeichnisses sowohl
@@ -552,7 +521,6 @@ Erstattung der Ausführungsanzeige schriftlich mitzuteilen, daß er die
 Eigentums an den Papieren erst auf Verlangen des Kommittenten,
 frühestens jedoch nach Befriedigung wegen seiner Forderungen aus der
 Ausführung des Auftrags ausführen werde.
-
 
 ### § 22 Stückeverzeichnis beim Auslandsgeschäft
 
@@ -571,14 +539,12 @@ Erklärung dem Kommissionär zugeht. Die Aufforderung muß schriftlich
 erfolgen und die Wertpapiere, die in das Stückeverzeichnis aufgenommen
 werden sollen, genau bezeichnen.
 
-
 ### § 23 Befreiung von der Übersendung des Stückeverzeichnisses
 
 Die Übersendung des Stückeverzeichnisses kann unterbleiben, soweit
 innerhalb der dafür bestimmten Frist (§§ 18 bis 22) die Wertpapiere
 dem Kommittenten ausgeliefert sind oder ein Auftrag des Kommittenten
 zur Wiederveräußerung ausgeführt ist.
-
 
 ### § 24 Erfüllung durch Übertragung von Miteigentum am Sammelbestand
 
@@ -609,7 +575,6 @@ jährlich das Dreifache des höchsten Betrags nicht übersteigen, bis zu
 dem nach dem Vierten Vermögensbildungsgesetz in der jeweils geltenden
 Fassung vermögenswirksame Leistungen gefördert werden können.
 
-
 ### § 25 Rechte des Kommittenten bei Nichtübersendung des Stückeverzeichnisses
 
 (1) Unterläßt der Kommissionär, ohne hierzu nach den §§ 19 bis 24
@@ -627,7 +592,6 @@ dem Kommissionär nicht binnen drei Tagen nach dem Ablauf der
 Nachholungsfrist erklärt, daß er von dem in Absatz 1 bezeichneten
 Recht Gebrauch machen wolle.
 
-
 ### § 26 Stückeverzeichnis beim Auftrag zum Umtausch und zur Geltendmachung eines Bezugsrechts
 
 Der Kommissionär, der einen Auftrag zum Umtausch von Wertpapieren oder
@@ -641,13 +605,11 @@ Bezeichnungsmerkmalen zu bezeichnen. Im übrigen finden die §§ 18 bis
 24 Anwendung; § 25 ist insoweit anzuwenden, als der Kommittent nur
 Schadensersatz wegen Nichterfüllung verlangen kann.
 
-
 ### § 27 Verlust des Provisionsanspruchs
 
 Der Kommissionär, der den in § 26 ihm auferlegten Pflichten nicht
 genügt, verliert das Recht, für die Ausführung des Auftrags Provision
 zu fordern (§ 396 Abs. 1 des Handelsgesetzbuchs).
-
 
 ### § 28 Unabdingbarkeit der Verpflichtungen des Kommissionärs
 
@@ -656,13 +618,11 @@ Kommissionärs können durch Rechtsgeschäft weder ausgeschlossen noch
 beschränkt werden, es sei denn, daß der Kommittent gewerbsmäßig
 Bankgeschäfte betreibt.
 
-
 ### § 29 Verwahrung durch den Kommissionär
 
 Der Kommissionär hat bezüglich der in seinem Besitz befindlichen, in
 das Eigentum oder das Miteigentum des Kommittenten übergegangenen
 Wertpapiere die Pflichten und Befugnisse eines Verwahrers.
-
 
 ### § 30 Beschränkte Geltendmachung von Pfand- und Zurückbehaltungsrechten bei dem Kommissionsgeschäft
 
@@ -672,7 +632,6 @@ bekannt, daß die Anschaffung für fremde Rechnung geschieht.
 
 (2) § 4 gilt sinngemäß.
 
-
 ### § 31 Eigenhändler, Selbsteintritt
 
 Die §§ 18 bis 30 gelten sinngemäß, wenn jemand im Betrieb seines
@@ -680,10 +639,7 @@ Gewerbes Wertpapiere als Eigenhändler verkauft oder umtauscht oder
 einen Auftrag zum Einkauf oder zum Umtausch von Wertpapieren im Wege
 des Selbsteintritts ausführt.
 
-
 ## 3. Abschnitt - Vorrang im Insolvenzverfahren
-
-
 
 ### § 32 Vorrangige Gläubiger
 
@@ -749,7 +705,6 @@ tritt an die Stelle des Betreuungsgerichts das Insolvenzgericht. § 78
 Abs. 2 bis 5 des Versicherungsaufsichtsgesetzes ist sinngemäß
 anzuwenden.
 
-
 ### § 33 Ausgleichsverfahren bei Verpfändung
 
 (1) Im Insolvenzverfahren über das Vermögen eines Verwahrers, dessen
@@ -805,10 +760,7 @@ Insolvenzmasse geltend machen.
 
 (6) § 32 Abs. 4 und 5 ist sinngemäß anzuwenden.
 
-
 ## 4. Abschnitt - Strafbestimmungen
-
-
 
 ### § 34 Depotunterschlagung
 
@@ -832,7 +784,6 @@ bestraft.
 
 (2) (weggefallen)
 
-
 ### § 35 Unwahre Angaben über das Eigentum
 
 Wer eigenen oder fremden Vorteils wegen eine Erklärung nach § 4 Abs. 2
@@ -841,13 +792,11 @@ Mitteilung unterläßt, wird, wenn die Tat nicht nach anderen
 Vorschriften mit schwererer Strafe bedroht ist, mit Freiheitsstrafe
 bis zu einem Jahr oder mit Geldstrafe bestraft.
 
-
 ### § 36 Strafantrag
 
 Ist in den Fällen der §§ 34 und 35 durch die Tat ein Angehöriger (§ 11
 Abs. 1 Nr. 1 des Strafgesetzbuchs) verletzt, so wird sie nur auf
 Antrag verfolgt.
-
 
 ### § 37 Strafbarkeit im Falle der Zahlungseinstellung oder des Insolvenzverfahrens
 
@@ -859,19 +808,13 @@ eröffnet worden ist und wenn durch die Zuwiderhandlung ein Anspruch
 des Berechtigten auf Aussonderung der Wertpapiere vereitelt oder die
 Durchführung eines solchen Anspruchs erschwert wird.
 
-
 ### (XXXX) §§ 38 bis 40 (weggefallen)
 
-
-
 ## 5. Abschnitt - Schlußbestimmungen
-
-
 
 ### § 41
 
 (weggefallen)
-
 
 ### § 42 Anwendung auf Treuhänder, Erlass weiterer Bestimmungen
 
@@ -883,7 +826,6 @@ dieses Gesetzes für Fälle vorschreiben, in denen Kaufleute als
 Treuhänder für Dritte Wertpapiere besitzen oder erwerben oder
 Beteiligungen oder Gläubigerrechte ausüben oder erwerben oder in
 öffentliche Schuldbücher oder sonstige Register eingetragen sind.
-
 
 ### § 43
 

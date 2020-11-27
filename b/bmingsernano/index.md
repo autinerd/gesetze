@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 2975
 
-
-
 ## I.
 
 Nach § 143 Abs. 7 des Sechsten Buches Sozialgesetzbuch in der Fassung
@@ -67,11 +65,9 @@ Künstlersozialversicherungsgesetzes vom 27. Juli 1981 (BGBl. I S.
 
 übertragen.
 
-
 ## II.
 
 Diese Anordnung ist ab dem Tag nach der Verkündung anzuwenden.
-
 
 ## Schlussformel
 

@@ -15,19 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1976, 881
 
-
-
 ## Art 1 - Änderung der Höfeordnung
-
-
 
 ## Art 2 - Verfahrensrecht
 
-
-
 ## Art 3 - Übergangs- und Schlußvorschriften
-
-
 
 ## § 1 Überleitung altrechtlicher Höfe
 
@@ -45,7 +37,6 @@ Zeitpunkt des Inkrafttretens dieses Gesetzes im Grundbuch als Hof
 eingetragen, so gilt sie bis zur Löschung des Hofvermerks, längstens
 jedoch bis zum Ablauf des zweiten auf den Zeitpunkt des Inkrafttretens
 dieses Gesetzes folgenden Jahres, als Hof.
-
 
 ## § 2 Überleitung altrechtlicher Ehegattenhöfe
 
@@ -70,7 +61,6 @@ Vorschriften der Zivilprozeßordnung bekanntzumachen. Auf den Lauf der
 Erklärungsfrist sind die für die Verjährung geltenden Vorschriften der
 §§ 203, 206 des Bürgerlichen Gesetzbuchs entsprechend anzuwenden.
 
-
 ## § 3 Erbrechtliche Verhältnisse
 
 Für die erbrechtlichen Verhältnisse bleiben, wenn der Erblasser vor
@@ -78,14 +68,12 @@ dem Inkrafttreten dieses Gesetzes gestorben ist, die bisher geltenden
 Vorschriften maßgebend, soweit nachfolgend nichts anderes bestimmt
 ist.
 
-
 ## § 4 Bestimmung des Hoferben
 
 An die Gültigkeit einer vor dem Inkrafttreten dieses Gesetzes
 getroffenen Verfügung von Todes wegen sind, wenn der Erblasser nach
 diesem Zeitpunkt gestorben ist, keine höheren als die nach diesem
 Gesetz vorgesehenen Anforderungen zu stellen.
-
 
 ## § 5 Überleitungsvorschrift zu § 13 HöfeO
 
@@ -101,7 +89,6 @@ geltenden Fassung entstandenen Anspruchs richtet sich nach diesem
 Gesetz, sofern er im Zeitpunkt des Inkrafttretens dieses Gesetzes noch
 nicht verjährt war.
 
-
 ## § 6 Feststellung des Erbbrauchs
 
 Die Landesregierungen oder die von ihnen durch Rechtsverordnung
@@ -114,17 +101,14 @@ Verordnung nach Satz 1 nicht erlassen ist, bleiben für die
 Feststellung des Erbbrauchs die bisher geltenden Vorschriften
 maßgebend.
 
-
 ## § 7
 
 -
-
 
 ## § 8 Geltungsbereich
 
 Dieses Gesetz gilt in den Ländern Hamburg, Niedersachsen, Nordrhein-
 Westfalen und Schleswig-Holstein.
-
 
 ## § 9 Inkrafttreten
 

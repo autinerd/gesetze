@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 2 V v. 27.8.1968 II 813
 
-
 ## § 1
 
 1\. Unbeschadet des Rechts eines jeden Inhabers eines
@@ -28,7 +27,6 @@ Schiffsführer bei der Führung des Schiffes zu unterstützen, darf sich
 zwischen Basel und Mannheim/Ludwigshafen nur der Inhaber eines
 Lotsenpatents als Lotse (pilote patente) bezeichnen.
 2\. Die Annahme eines Lotsen ist in jedem Falle freiwillig.
-
 
 ## § 2
 
@@ -44,7 +42,6 @@ b)  für die Strecke zwischen Straßburg/Kehl und Mannheim/Ludwigshafen.
 
 2\. Das Lotsenpatent kann für beide Strecken erworben werden.
 
-
 ## § 3
 
 Ein Lotsenpatent erhält, wer nach Erwerb des Rheinschifferpatents für
@@ -53,7 +50,6 @@ Lotsen (Lehrlotsen) als Lotsengehilfe ausgebildet worden ist und sich
 mit Erfolg einer Lotsenprüfung unterzogen hat, falls nicht Tatsachen
 vorliegen, die die Entziehung des Patents nach § 15 rechtfertigen
 würden.
-
 
 ## § 4
 
@@ -85,7 +81,6 @@ d)  einen Nachweis über seine körperliche Eignung zur Führung eines
 2\. Der Bewerber soll bei Beginn seiner Ausbildung das fünfzigste
 Lebensjahr nicht überschritten haben.
 
-
 ## § 5
 
 1\. Die Dauer der Ausbildung als Lotsengehilfe beträgt mindestens ein
@@ -101,7 +96,6 @@ unter 2,00 m am Pegel Straßburg ausgeführt werden.
 Großen Elsässischen Kanals und des kanalisierten Rheins genügen zwei
 Fahrten zu Berg und zwei Fahrten zu Tal.
 
-
 ## § 6
 
 1\. Die Tätigkeit als Lotsengehilfe muß auf derjenigen Strecke des
@@ -113,7 +107,6 @@ begleiten.
 Fahrten auf Schleppern mit mindestens einem Anhang kann der
 Lotsengehilfe die restlichen Fahrten auf einem Anhang des Schleppzuges
 zurücklegen, in dem der Lehrlotse lotst.
-
 
 ## § 7
 
@@ -134,10 +127,6 @@ zurücklegen, in dem der Lehrlotse lotst.
 3.  Der Lotsengehilfe hat das Fahrtenheft während der Ausbildung
     vierteljährlich der zuständigen Behörde zur Überprüfung vorzulegen.
 
-
-
-
-
 ## § 8
 
 1\. Innerhalb eines Monats nach Beendigung der Ausbildung kann der
@@ -151,10 +140,6 @@ a)  das Fahrtenheft,
 
 b)  zwei Photographien.
 
-
-
-
-
 ## § 9
 
 1\. In den beteiligten Staaten werden Prüfungsausschüsse gebildet.
@@ -163,7 +148,6 @@ Prüfungsausschüsse bestehen an den in Anhang B aufgeführten Orten.
 Schiffahrtsbehörden als Vorsitzendem und zwei Lotsen, die Inhaber des
 Lotsenpatents für diese Rheinstrecke sind, aber nicht Lehrlotsen der
 Bewerber sein dürfen.
-
 
 ## § 10
 
@@ -189,7 +173,6 @@ auszuführen.
 3\. Das Nähere bestimmt eine Prüfungsordnung, die die zuständige
 Behörde erläßt.
 
-
 ## § 11
 
 1\. Besteht der Bewerber die Prüfung nicht, so kann er sie nach
@@ -199,7 +182,6 @@ Art der auszuführenden Fahrten im Rahmen des § 5.
 2\. Besteht der Bewerber die Prüfung auch zum zweiten Male nicht, so
 kann er ein Lotsenpatent erst erwerben, nachdem die Voraussetzungen
 der §§ 3 bis 8 erneut erfüllt sind.
-
 
 ## § 12
 
@@ -213,12 +195,10 @@ ist.
 3\. § 7 Nr. 2 gilt für den Lotsen hinsichtlich des Lotsenpatents
 entsprechend.
 
-
 ## § 13
 
 Der Lotse darf eine ihm angetragene Lotsung nur aus wichtigen Gründen
 ablehnen.
-
 
 ## § 14
 
@@ -240,7 +220,6 @@ ohne eigene Triebkraft, so hat er die Übernahme der Führung eines
 solchen Fahrzeugs abzulehnen.
 4\.
 
-
 ## § 15
 
 1\. Die Behörde, die das Lotsenpatent ausgestellt hat, muß dieses
@@ -256,7 +235,6 @@ seiner körperlichen Eignung (§ 4 Nr. 1 Buchstabe d) zu erneuern. Bei
 Zweifeln an der körperlichen Eignung des Lotsen kann die zuständige
 Behörde die Erneuerung des Nachweises jederzeit verlangen.
 
-
 ## § 16
 
 Das Lotsenpatent kann entzogen werden,
@@ -268,10 +246,6 @@ a)  wenn der Lotse seine Tätigkeit länger als sechs Monate nicht ausgeübt
 b)  wenn der Lotse wiederholt Lotsungen ohne wichtigen Grund abgelehnt
     hat.
 
-
-
-
-
 ## § 17
 
 Das Lotsenpatent kann für dauernd oder auf Zeit entzogen werden. Im
@@ -280,7 +254,6 @@ der Lotse vor Rückgabe des Patents durch Fahrten in Begleitung eines
 anderen Lotsen die erforderliche Kenntnis der Rheinstrecke wieder
 erwirbt. Die Rückgabe des Patents an den Lotsen ist unzulässig,
 solange ihm das Rheinschifferpatent entzogen ist.
-
 
 ## § 18
 
@@ -292,7 +265,6 @@ Lotsenpatente zu erteilen.
 Lotsengehilfen (§ 4), die Zulassung zur Lotsenprüfung (§ 8) oder die
 Erteilung eines Lotsenpatents (§ 11) ab, so hat sie dies allen in
 Nummer 1 genannten Behörden mitzuteilen.
-
 
 ## § 19
 
@@ -312,7 +284,6 @@ werden nach Maßgabe einer besonderen, von den beteiligten Staaten zu
 erlassenden Gebührenordnung erhoben.
 2\. Es soll hinsichtlich der Staatsangehörigkeit des Bewerbers kein
 Unterschied gemacht werden.
-
 
 ## § 20
 
@@ -334,7 +305,6 @@ zuständige Behörde verlangen, daß der Lotse vor dem Umtausch des
 Patents auf der restlichen Strecke sechs Fahrten als Begleiter eines
 anderen Lotsen ausführt. § 5 Nr. 2 ist anzuwenden.
 
-
 ## § 21
 
 1\. Innerhalb von zwei Jahren nach Inkrafttreten dieser Verordnung
@@ -348,7 +318,6 @@ und einwandfrei ausgeübt haben.
 2\. Die zuständige Behörde kann verlangen, daß die in § 20 Nr. 2 bis 4
 vorgesehenen zusätzlichen Fahrten ausgeführt werden.
 
-
 ## § 22
 
 Diese Verordnung tritt an die Stelle aller zur Ausführung der
@@ -356,11 +325,9 @@ revidierten Rheinschiffahrtsakte vom 17. Oktober 1868 erlassenen, das
 Lotsen- und Steuermannswesen auf dem Rhein von Basel bis
 Mannheim/Ludwigshafen betreffenden Gesetze und Verordnungen.
 
-
 ## § 23
 
 Diese Verordnung tritt am 1. Juli 1956 in Kraft.
-
 
 ## Anhang A (zu § 7)
 
@@ -502,7 +469,6 @@ I
 --
 (Inhalt: nicht darstellbare Tabelle, Seiten 4 u. 5)
 
-
 ## Anhang B (zu § 9 Nr. 1) Prüfungsausschüsse
 
 Prüfungsausschüsse bestehen in:
@@ -515,13 +481,6 @@ Prüfungsausschüsse bestehen in:
         Straßburg
 
         Mannheim
-
-
-
-
-
-
-
 
 ## Anhang C (zu § 12 Nr. 1)
 

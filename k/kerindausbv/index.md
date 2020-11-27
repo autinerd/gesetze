@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 1541
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des
@@ -24,10 +22,7 @@ Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931) verordnet
 das Bundesministerium für Wirtschaft und Arbeit im Einvernehmen mit
 dem Bundesministerium für Bildung und Forschung:
 
-
 ## Teil 1 - Gemeinsame Vorschriften
-
-
 
 ### § 1 Staatliche Anerkennung der Ausbildungsberufe
 
@@ -51,11 +46,9 @@ Die Ausbildungsberufe
 
 werden staatlich anerkannt.
 
-
 ### § 2 Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
-
 
 ### § 3 Struktur und Zielsetzung der Berufsausbildung
 
@@ -79,10 +72,7 @@ selbstständiges Planen, Durchführen und Kontrollieren einschließt.
 Diese Befähigung ist auch in den Prüfungen nach den §§ 8, 9, 14, 15,
 20, 21, 26 und 27 nachzuweisen.
 
-
 ## Teil 2 - Vorschriften für den Ausbildungsberuf Industriekeramiker Anlagentechnik/Industriekeramikerin Anlagentechnik
-
-
 
 ### § 4 Ausbildungsberufsbild
 
@@ -148,10 +138,6 @@ Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 19. Instandhalten von Produktionseinrichtungen.
 
-
-
-
-
 ### § 5 Ausbildungsrahmenplan
 
 Die in § 4 genannten Fertigkeiten, Kenntnisse und Fähigkeiten
@@ -162,12 +148,10 @@ dem Ausbildungsrahmenplan abweichende sachliche und zeitliche
 Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit
 betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
 ### § 6 Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans
 für die Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ### § 7 Schriftlicher Ausbildungsnachweis
 
@@ -176,7 +160,6 @@ führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
 Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
 Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
 durchzusehen.
-
 
 ### § 8 Zwischenprüfung
 
@@ -207,7 +190,6 @@ Qualitätssicherung berücksichtigen kann. Durch das Fachgespräch soll
 der Prüfling zeigen, dass er fachbezogene Sachverhalte darstellen und
 die für die Arbeitsaufgabe relevanten fachlichen Hintergründe
 aufzeigen kann.
-
 
 ### § 9 Abschlussprüfung
 
@@ -371,10 +353,7 @@ Prüfung im Prüfungsbereich Anlagentechnik mindestens ausreichende
 Leistungen, in den weiteren Prüfungsbereichen dürfen keine
 ungenügenden Leistungen erbracht worden sein.
 
-
 ## Teil 3 - Vorschriften für den Ausbildungsberuf Industriekeramiker Dekorationstechnik/Industriekeramikerin Dekorationstechnik
-
-
 
 ### § 10 Ausbildungsberufsbild
 
@@ -433,10 +412,6 @@ Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 17. Ausführen von Buntdruckdekorationen.
 
-
-
-
-
 ### § 11 Ausbildungsrahmenplan
 
 Die in § 10 genannten Fertigkeiten, Kenntnisse und Fähigkeiten
@@ -447,12 +422,10 @@ dem Ausbildungsrahmenplan abweichende sachliche und zeitliche
 Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit
 betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
 ### § 12 Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans
 für die Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ### § 13 Schriftlicher Ausbildungsnachweis
 
@@ -461,7 +434,6 @@ führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
 Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
 Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
 durchzusehen.
-
 
 ### § 14 Zwischenprüfung
 
@@ -492,7 +464,6 @@ Qualitätssicherung berücksichtigen kann. Durch das Fachgespräch soll
 der Prüfling zeigen, dass er fachbezogene Sachverhalte darstellen und
 die für die Arbeitsaufgabe relevanten fachlichen Hintergründe
 aufzeigen kann.
-
 
 ### § 15 Abschlussprüfung
 
@@ -653,10 +624,7 @@ Prüfung im Prüfungsbereich Dekorationstechnik mindestens ausreichende
 Leistungen, in den weiteren Prüfungsbereichen dürfen keine
 ungenügenden Leistungen erbracht worden sein.
 
-
 ## Teil 4 - Vorschriften für den Ausbildungsberuf Industriekeramiker Modelltechnik/Industriekeramikerin Modelltechnik
-
-
 
 ### § 16 Ausbildungsberufsbild
 
@@ -719,10 +687,6 @@ Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 18. Trocknen und Lagern.
 
-
-
-
-
 ### § 17 Ausbildungsrahmenplan
 
 Die in § 16 genannten Fertigkeiten, Kenntnisse und Fähigkeiten
@@ -733,12 +697,10 @@ dem Ausbildungsrahmenplan abweichende sachliche und zeitliche
 Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit
 betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
 ### § 18 Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans
 für die Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ### § 19 Schriftlicher Ausbildungsnachweis
 
@@ -747,7 +709,6 @@ führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
 Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
 Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
 durchzusehen.
-
 
 ### § 20 Zwischenprüfung
 
@@ -777,7 +738,6 @@ Wirtschaftlichkeit und der Qualitätssicherung berücksichtigen kann.
 Durch das Fachgespräch soll der Prüfling zeigen, dass er fachbezogene
 Sachverhalte darstellen und die für die Arbeitsaufgabe relevanten
 fachlichen Hintergründe aufzeigen kann.
-
 
 ### § 21 Abschlussprüfung
 
@@ -942,10 +902,7 @@ Prüfung im Prüfungsbereich Fertigungstechnik mindestens ausreichende
 Leistungen, in den weiteren Prüfungsbereichen dürfen keine
 ungenügenden Leistungen erbracht worden sein.
 
-
 ## Teil 5 - Vorschriften für den Ausbildungsberuf Industriekeramiker Verfahrenstechnik/Industriekeramikerin Verfahrenstechnik
-
-
 
 ### § 22 Ausbildungsberufsbild
 
@@ -1007,10 +964,6 @@ Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 18. Sortieren und Nachbearbeiten.
 
-
-
-
-
 ### § 23 Ausbildungsrahmenplan
 
 Die in § 22 genannten Fertigkeiten, Kenntnisse und Fähigkeiten
@@ -1021,12 +974,10 @@ dem Ausbildungsrahmenplan abweichende sachliche und zeitliche
 Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit
 betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
 ### § 24 Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans
 für die Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ### § 25 Schriftlicher Ausbildungsnachweis
 
@@ -1035,7 +986,6 @@ führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
 Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
 Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
 durchzusehen.
-
 
 ### § 26 Zwischenprüfung
 
@@ -1065,7 +1015,6 @@ Wirtschaftlichkeit und der Qualitätssicherung berücksichtigen kann.
 Durch das Fachgespräch soll der Prüfling zeigen, dass er fachbezogene
 Sachverhalte darstellen und die für die Arbeitsaufgabe relevanten
 fachlichen Hintergründe aufzeigen kann.
-
 
 ### § 27 Abschlussprüfung
 
@@ -1233,10 +1182,7 @@ Prüfung im Prüfungsbereich Fertigungstechnik mindestens ausreichende
 Leistungen, in den weiteren Prüfungsbereichen dürfen keine
 ungenügenden Leistungen erbracht worden sein.
 
-
 ## Teil 6 - Fortsetzungs- und Schlussvorschriften
-
-
 
 ### § 28 Fortsetzung der Berufsausbildung
 
@@ -1245,11 +1191,9 @@ bestehen, können unter Anrechnung der bisher zurückgelegten
 Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt
 werden, wenn die Vertragsparteien dies vereinbaren.
 
-
 ### § 29 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2005 in Kraft.
-
 
 ### Anlage 1 (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Industriekeramiker Anlagentechnik/zur Industriekeramikerin Anlagentechnik
 
@@ -1919,10 +1863,6 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
     *   Wartungsarbeiten dokumentieren, Mängelliste erstellen
 
-
-
-
-
 ### Anlage 2 (zu § 11) Ausbildungsrahmenplan für die Berufsausbildung zum Industriekeramiker Dekorationstechnik/zur Industriekeramikerin Dekorationstechnik
 
 (Fundstelle: BGBl. I 2005, 1554 - 1557)
@@ -2545,10 +2485,6 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 *    *   d)
 
     *   Maßnahmen zur Fehlerbeseitigung ergreifen
-
-
-
-
 
 ### Anlage 3 (zu § 17) Ausbildungsrahmenplan für die Berufsausbildung zum Industriekeramiker Modelltechnik/zur Industriekeramikerin Modelltechnik
 
@@ -3232,10 +3168,6 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 *    *   d)
 
     *   Modelle, Einrichtungen und Verfahren optimieren
-
-
-
-
 
 ### Anlage 4 (zu § 23) Ausbildungsrahmenplan für die Berufsausbildung zum Industriekeramiker Verfahrenstechnik/zur Industriekeramikerin Verfahrenstechnik
 

@@ -19,8 +19,6 @@ Stand: Zuletzt geändert Art. 1 G v. 22.12.2011 I 3044
 
 ## Abschnitt 1 - Verkündungen und Bekanntmachungen des Bundes
 
-
-
 ### § 1 Amtliche Verkündungs- und Bekanntmachungsorgane des Bundes
 
 (1) Neben dem Bundesgesetzblatt dienen der Bundesanzeiger und das
@@ -32,7 +30,6 @@ Bundesgebiet dient der Verkündung von Eisenbahntarifen.
 (2) Die Herausgabe eigener Bekanntmachungsorgane durch die Behörden
 des Bundes für Bekanntmachungen innerhalb ihres Zuständigkeitsbereichs
 bleibt unberührt.
-
 
 ### § 2 Verkündung von Rechtsverordnungen
 
@@ -51,7 +48,6 @@ Verkehrsblatt verkündet werden, ist unter Angabe der Stelle ihrer
 Veröffentlichung und des Tages ihres Inkrafttretens nachrichtlich im
 Bundesgesetzblatt hinzuweisen.
 
-
 ### § 3 Verkündung von Verkehrstarifen
 
 (1) Eisenbahntarife können im Tarif- und Verkehrsanzeiger der
@@ -68,7 +64,6 @@ sofern die genaue Bezeichnung des Tarifes, seine letzte Änderung, die
 Bezugsquelle und das Datum des Inkrafttretens sowie bei einem
 befristeten Tarif das Datum des Außerkrafttretens verkündet werden.
 
-
 ### § 4 Inkrafttreten der Rechtsverordnungen und Verkehrstarife
 
 (1) Rechtsverordnungen treten, falls sie nichts anderes bestimmen, mit
@@ -78,10 +73,7 @@ Verkündungsorgan veröffentlicht worden sind.
 (2) Zu dem gleichen Zeitpunkt treten auch Verkehrstarife in Kraft,
 falls nichts anderes bestimmt ist.
 
-
 ## Abschnitt 2 - Verkündungen und Bekanntmachungen im Bundesanzeiger
-
-
 
 ### § 5 Bundesanzeiger
 
@@ -107,7 +99,6 @@ ist bestimmt für
 Der Bundesanzeiger kann weitere Teile für andere Bekanntmachungen
 enthalten.
 
-
 ### § 6 Zugang zum Bundesanzeiger
 
 (1) Der amtliche Teil des Bundesanzeigers ist für jedermann jederzeit
@@ -127,7 +118,6 @@ Bundesanzeigers und deren Inhalt sowie über das Erscheinen gedruckter
 Anlagenbände und deren Bezugsmöglichkeit gemäß Absatz 3 selbsttätig
 elektronisch informiert; Nutzer haben hierfür lediglich die Adresse
 ihres elektronischen Postfachs anzugeben.
-
 
 ### § 7 Sicherheitsanforderungen
 
@@ -151,7 +141,6 @@ zugänglichen informationstechnischen System archiviert werden. Die
 Archivierung muss den Verkündungs- oder Bekanntmachungszeitpunkt
 dokumentieren. § 17 der Signaturverordnung gilt für die archivierten
 Dokumente entsprechend.
-
 
 ### § 8 Ersatzverkündung, Ersatzbekanntmachung
 
@@ -188,7 +177,6 @@ Bundesanzeigers in geeigneter Weise hinzuweisen.
 in gedruckter Form gilt § 6 Absatz 3 entsprechend. Der Dienst nach § 6
 Absatz 4 ist möglichst aufrechtzuerhalten.
 
-
 ### § 9 Verordnungsermächtigung
 
 Das Bundesministerium der Justiz wird ermächtigt, durch
@@ -199,10 +187,7 @@ Archivierung zu regeln sowie Sicherheitsanforderungen für die
 Verkündung und Bekanntmachung festzulegen. Gleiches gilt für die
 Ersatzverkündung und Ersatzbekanntmachung.
 
-
 ## Abschnitt 3 - Sonstige Bestimmungen
-
-
 
 ### § 10 Ergänzende Verkündungen und Bekanntmachungen
 
@@ -230,7 +215,6 @@ Bekanntmachungsorgan hinzuweisen.
 (3) Die Absätze 1 und 2 gelten für amtliche Bekanntmachungen
 entsprechend.
 
-
 ### § 11 Berichtigungen
 
 (1) Werden Druckfehler oder offensichtliche Unrichtigkeiten in
@@ -243,7 +227,6 @@ Teil des Bundesanzeigers durch Überschreiben oder sonstige Veränderung
 des ursprünglich veröffentlichten Dokuments ist ausgeschlossen. Dem
 Dokument, das berichtigt wird, soll ein Hinweis hinzugefügt werden,
 der über die Fundstelle der Berichtigung informiert.
-
 
 ### § 12 Übergangsvorschrift
 

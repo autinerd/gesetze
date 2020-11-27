@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 V v. 17.12.2010 I 2132
 
-
 ## Eingangsformel
 
 Mit Zustimmung des Bundesrates verordnen
@@ -43,7 +42,6 @@ Bundesminister für Wirtschaft im Einvernehmen mit den Bundesministern
 für Ernährung, Landwirtschaft und Forsten und für Jugend, Familie und
 Gesundheit:
 
-
 ## § 1 Anwendungsbereich
 
 (1) Die Vorschriften dieser Verordnung finden Anwendung auf
@@ -60,7 +58,6 @@ gewerbsmäßig in den Verkehr gebracht wird.
 Konsummilch an Mitglieder von Genossenschaften oder ähnlichen
 Einrichtungen oder in Einrichtungen zur Gemeinschaftsverpflegung in
 den Verkehr gebracht wird.
-
 
 ## § 2 Allgemeine Kennzeichnungsvorschriften
 
@@ -152,10 +149,6 @@ Sprache, deutlich sichtbar und in leicht lesbarer Schrift anzugeben
 
 2.  die Angaben nach § 3.
 
-
-
-
-
 ## § 3 Besondere Kennzeichnungsvorschriften
 
 Die Kennzeichnung muß ferner enthalten den Fettgehalt der Konsummilch
@@ -169,10 +162,6 @@ b)  „. . . % Fett“ bei im Fettgehalt eingestellter Vollmilch,
 
 
 c)  "höchstens ...% Fett" bei entrahmter Milch;.
-
-
-
-
 
 ## § 4 Ordnungswidrigkeiten
 
@@ -188,7 +177,6 @@ Margarinegesetzes handelt, wer vorsätzlich oder fahrlässig entgegen §
 2 Abs. 1 in Verbindung mit Abs. 2 Nr. 5, Abs. 3 Satz 1 oder Abs. 4 Nr.
 2 Konsummilch, die nicht oder nicht in der vorgeschriebenen Weise
 gekennzeichnet ist, gewerbsmäßig in den Verkehr bringt.
-
 
 ## § 5 Inkrafttreten, Übergangsvorschriften
 

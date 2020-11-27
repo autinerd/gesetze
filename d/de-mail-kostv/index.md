@@ -15,14 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 267
 
-
 ## Eingangsformel
 
 Auf Grund des § 24 Absatz 2 des De-Mail-Gesetzes vom 28. April 2011
 (BGBl. I S. 666) in Verbindung mit dem Zweiten Abschnitt des
 Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821) verordnet
 das Bundesministerium des Innern:
-
 
 ## § 1 Gebühren und Auslagen
 
@@ -103,7 +101,6 @@ dem Zeitaufwand nach Absatz 3 hinzuzurechnen:
 
 (5) Auslagen werden, soweit sie nicht in die Gebühr einbezogen sind,
 nach Maßgabe des § 10 des Verwaltungskostengesetzes gesondert erhoben.
-
 
 ## § 2 Inkrafttreten
 

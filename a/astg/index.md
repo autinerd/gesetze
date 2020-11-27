@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 7 G v. 8.12.2010 I 1768
 
-
 ## Erster Teil - Internationale Verflechtungen
-
-
 
 ### § 1 Berichtigung von Einkünften
 
@@ -159,10 +156,7 @@ Einkommensteuergesetzes anzuwenden sind oder im Fall eines
 ausländischen Nahestehenden anzuwenden wären, wenn die Tätigkeit im
 Inland vorgenommen würde.
 
-
 ## Zweiter Teil - Wohnsitzwechsel in niedrigbesteuernde Gebiete
-
-
 
 ### § 2 Einkommensteuer
 
@@ -272,11 +266,9 @@ Gesetzes zu entrichten hätte, so wird der übersteigende Betrag
 insoweit nicht erhoben, als er die Steuer überschreitet, die sich ohne
 Anwendung der Absätze 1 und 5 ergäbe.
 
-
 ### § 3
 
 (weggefallen)
-
 
 ### § 4 Erbschaftsteuer
 
@@ -295,7 +287,6 @@ eine der deutschen Erbschaftsteuer entsprechende Steuer zu entrichten
 ist, die mindestens 30 Prozent der deutschen Erbschaftsteuer beträgt,
 die bei Anwendung des Absatzes 1 auf diese Teile des Erwerbs entfallen
 würde.
-
 
 ### § 5 Zwischengeschaltete Gesellschaften
 
@@ -322,10 +313,7 @@ Einkünfte geschuldeten Steuern.
 
 (3) § 18 findet entsprechende Anwendung.
 
-
 ## Dritter Teil - Behandlung einer Beteiligung im Sinne des § 17 des Einkommensteuergesetzes bei Wohnsitzwechsel ins Ausland
-
-
 
 ### § 6 Besteuerung des Vermögenszuwachses
 
@@ -550,10 +538,7 @@ Rechtsnachfolger weiterhin zuzurechnen sind. Die Stundung nach Absatz
 5 Satz 1 kann widerrufen werden, wenn der Steuerpflichtige seine
 Mitwirkungspflicht nach Satz 4 nicht erfüllt.
 
-
 ## Vierter Teil - Beteiligung an ausländischen Zwischengesellschaften
-
-
 
 ### § 7 Steuerpflicht inländischer Gesellschafter
 
@@ -654,7 +639,6 @@ Umfangs der jeweiligen Beteiligung an der ausländischen Gesellschaft,
 es sei denn, dass mit der Hauptgattung der Aktien der ausländischen
 Gesellschaft ein wesentlicher und regelmäßiger Handel an einer
 anerkannten Börse stattfindet.
-
 
 ### § 8 Einkünfte von Zwischengesellschaften
 
@@ -843,7 +827,6 @@ niedrige Besteuerung im Sinne des Absatzes 1 liegt auch dann vor, wenn
 Ertragsteuern von mindestens 25 Prozent zwar rechtlich geschuldet,
 jedoch nicht tatsächlich erhoben werden.
 
-
 ### § 9 Freigrenze bei gemischten Einkünften
 
 Für die Anwendung des § 7 Abs. 1 sind Einkünfte, für die eine
@@ -853,7 +836,6 @@ lassen, wenn die ihnen zugrunde liegenden Bruttoerträge nicht mehr als
 vorausgesetzt, dass die bei einer Gesellschaft oder bei einem
 Steuerpflichtigen hiernach außer Ansatz zu lassenden Beträge insgesamt
 80\.000 Euro nicht übersteigen.
-
 
 ### § 10 Hinzurechnungsbetrag
 
@@ -918,7 +900,6 @@ wirtschaftlichem Zusammenhang stehen.
 
 (5) bis (7) (weggefallen)
 
-
 ### § 11 Veräußerungsgewinne
 
 (1) Gewinne, die die ausländische Gesellschaft aus der Veräußerung der
@@ -938,7 +919,6 @@ dies nachweist.
 (2) (weggefallen)
 
 (3) (weggefallen)
-
 
 ### § 12 Steueranrechnung
 
@@ -960,11 +940,9 @@ und 6 des Körperschaftsteuergesetzes angerechnet oder abgezogen. Dies
 gilt auch dann, wenn der Steuerbescheid für diesen
 Veranlagungszeitraum bereits bestandskräftig ist.
 
-
 ### § 13
 
 (weggefallen)
-
 
 ### § 14 Nachgeschaltete Zwischengesellschaften
 
@@ -995,10 +973,7 @@ weitere ausländische Gesellschaften nachgeschaltet sind.
 
 (4) (weggefallen)
 
-
 ## Fünfter Teil - Familienstiftungen
-
-
 
 ### § 15 Steuerpflicht von Stiftern, Bezugsberechtigten und Anfallsberechtigten
 
@@ -1053,10 +1028,7 @@ Anwendung der Vorschriften des deutschen Steuerrechts zu ermitteln.
 Ergibt sich ein negativer Betrag, entfällt die Zurechnung. § 10d des
 Einkommensteuergesetzes ist entsprechend anzuwenden.
 
-
 ## Sechster Teil - Ermittlung und Verfahren
-
-
 
 ### § 16 Mitwirkungspflicht des Steuerpflichtigen
 
@@ -1076,7 +1048,6 @@ oder Personengesellschaft bestehen und bestanden haben.
 seiner Angaben und über die Behauptung, daß ihm Tatsachen nicht
 bekannt sind, auf Verlangen des Finanzamts gemäß § 95 der
 Abgabenordnung eine Versicherung an Eides Statt abzugeben.
-
 
 ### § 17 Sachverhaltsaufklärung
 
@@ -1108,7 +1079,6 @@ Prozent des gemeinen Werts der von den unbeschränkt Steuerpflichtigen
 gehaltenen Anteile auszugehen; Zinsen und Nutzungsentgelte, die die
 Gesellschaft für überlassene Wirtschaftsgüter an die unbeschränkt
 Steuerpflichtigen zahlt, sind abzuziehen.
-
 
 ### § 18 Gesonderte Feststellung von Besteuerungsgrundlagen
 
@@ -1145,15 +1115,11 @@ bezeichneten Personen eigenhändig zu unterschreiben.
 zuzurechnen, werden die Besteuerungsgrundlagen in entsprechender
 Anwendung der Absätze 1 bis 3 einheitlich und gesondert festgestellt.
 
-
 ## Siebenter Teil - Schlußvorschriften
-
-
 
 ### § 19 (weggefallen)
 
 -
-
 
 ### § 20 Bestimmungen über die Anwendung von Abkommen zur Vermeidung der Doppelbesteuerung
 
@@ -1171,7 +1137,6 @@ anfallen, die nach § 8 Absatz 1 Nummer 5 Buchstabe a als
 Zwischeneinkünfte steuerpflichtig wären.
 
 (3) (weggefallen)
-
 
 ### § 21 Anwendungsvorschriften
 
@@ -1539,7 +1504,6 @@ entstanden sind, das nach dem 31. Dezember 2010 beginnt. § 20 Absatz 2
 in der Fassung des Artikels 7 des Gesetzes vom 8. Dezember 2010 (BGBl.
 I S. 1768) ist in allen Fällen anzuwenden, in denen die
 Einkommensteuer noch nicht bestandskräftig festgesetzt ist.
-
 
 ### § 22 Neufassung des Gesetzes
 

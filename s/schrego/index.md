@@ -24,10 +24,7 @@ Zuletzt geändert durch
 Mittelbare änderung durch
 :   Art. 8 Nr. 5 G v. 30.7.2009 I 2449 ist berücksichtigt
 
-
 ## Erster Abschnitt - Allgemeine Vorschriften
-
-
 
 ### § 1
 
@@ -42,7 +39,6 @@ Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
 
 (3) Die Länder können vereinbaren, daß Schiffsregistersachen eines
 Landes Gerichten eines anderen Landes zugewiesen werden.
-
 
 ### § 2
 
@@ -103,7 +99,6 @@ Geschäftsstelle verlangt, so entscheidet, wenn dieser dem Verlangen
 nicht entspricht, der Richter. Die Beschwerde findet erst gegen seine
 Entscheidung statt.
 
-
 ### § 3
 
 (1) Seeschiffsregister und Binnenschiffsregister werden getrennt
@@ -130,10 +125,6 @@ Eingetragen werden können
 
 3.  Schlepper, Tankschiffe und Schubboote.
 
-
-
-
-
 ### § 4
 
 (1) Das Schiff ist in das Schiffsregister seines Heimathafens oder
@@ -152,13 +143,11 @@ Rechte und Pflichten gegenüber dem Registergericht wahrzunehmen hat.
 Dies gilt nicht in den Fällen des § 2 Abs. 2 Buchstabe b des
 Flaggenrechtsgesetzes.
 
-
 ### § 5
 
 Ist ein Seeschiff in das Binnenschiffsregister oder ein Binnenschiff
 in das Seeschiffsregister eingetragen, so ist die Eintragung des
 Schiffs nicht aus diesem Grund unwirksam.
-
 
 ### § 6
 
@@ -168,13 +157,11 @@ Eigentümer nicht darauf berufen, daß es ein Binnenschiff sei.
 (2) Ist ein Schiff im Binnenschiffsregister eingetragen, so kann sich
 der Eigentümer nicht darauf berufen, daß es ein Seeschiff sei.
 
-
 ### § 7
 
 Jedes Schiff erhält bei der Eintragung eine besondere Stelle im
 Schiffsregister (Registerblatt). Das Registerblatt ist für das Schiff
 als das Schiffsregister anzusehen.
-
 
 ### § 8
 
@@ -188,10 +175,7 @@ sinngemäß. Das gleiche gilt für die Einsicht in Urkunden, auf die im
 Schiffsregister zur Ergänzung einer Eintragung Bezug genommen ist,
 sowie in die noch nicht erledigten Eintragungsanträge.
 
-
 ## Zweiter Abschnitt - Die Eintragung des Schiffs
-
-
 
 ### § 9
 
@@ -199,7 +183,6 @@ Ein Schiff, das nach § 3 Abs. 2, 3 in das Schiffsregister eingetragen
 werden kann, wird eingetragen, wenn der Eigentümer es ordnungsmäßig
 (§§ 11 bis 15) zur Eintragung anmeldet. Bei Binnenschiffen genügt die
 Anmeldung durch einen von mehreren Miteigentümern.
-
 
 ### § 10
 
@@ -231,7 +214,6 @@ Verwaltungsanordnung allgemein oder im Einzelfall Ausnahmen zulassen.
 Bund gehörenden Landes oder einer öffentlich-rechtlichen Körperschaft
 oder Anstalt mit Sitz im Geltungsbereich des Grundgesetzes brauchen
 nicht zur Eintragung angemeldet zu werden.
-
 
 ### § 11
 
@@ -283,7 +265,6 @@ nicht zur Eintragung angemeldet zu werden.
 zu Absatz 1 Nr. 5 die Angabe der Ergebnisse einer im Ausland
 vorgenommenen Vermessung.
 
-
 ### § 12
 
 Bei der Anmeldung eines Binnenschiffs sind anzugeben:
@@ -314,10 +295,6 @@ Bei der Anmeldung eines Binnenschiffs sind anzugeben:
 
 7.  der Rechtsgrund für den Erwerb des Eigentums.
 
-
-
-
-
 ### § 13
 
 (1) Die in § 11 Abs. 1 Nr. 3, 4, 6, 7, Abs. 2, § 12 Nr. 3, 4, 6, 7
@@ -333,7 +310,6 @@ Glaubhaftmachung der Angaben geeigneten Urkunde.
 
 (2) Bei der Anmeldung eines Seeschiffs sind die das Recht zur Führung
 der Bundesflagge begründenden Tatsachen nachzuweisen.
-
 
 ### § 14
 
@@ -352,7 +328,6 @@ gewesen, so ist eine Bescheinigung der ausländischen Registerbehörde
 über die Löschung der Eintragung des Schiffs einzureichen; die
 Einreichung kann unterbleiben, wenn sie untunlich ist.
 
-
 ### § 15
 
 Ist das Schiff ganz oder zum Teil im Inland erbaut, so ist bei der
@@ -361,7 +336,6 @@ einzureichen, ob das Schiff im Schiffsbauregister eingetragen ist;
 gegebenenfalls ist eine beglaubigte Abschrift des Registerblatts
 beizufügen. In der Bescheinigung ist anzugeben, daß sie zum Zwecke der
 Eintragung des Schiffs in das Schiffsregister erteilt ist.
-
 
 ### § 16
 
@@ -389,7 +363,6 @@ das Registergericht bei der Eintragung des Schiffs zugunsten des
 anderen einen Widerspruch gegen die Richtigkeit der
 Eigentumseintragung eintragen.
 
-
 ### § 17
 
 (1) Veränderungen der im § 11 Abs. 1 Nr. 1 bis 3, 5, 8, 9, Abs. 2, §
@@ -414,7 +387,6 @@ Schiffsregister anzumelden.
 (5) Die angemeldeten Tatsachen sind glaubhaft zu machen. § 13 Abs. 1
 Satz 2 gilt sinngemäß.
 
-
 ### § 18
 
 (1) Zur Anmeldung nach § 17 ist der Eigentümer, bei einer Reederei
@@ -424,7 +396,6 @@ auch der Korrespondentreeder verpflichtet.
 durch einen von ihnen; entsprechendes gilt, wenn der Eigentümer eine
 juristische Person oder eine Handelsgesellschaft ist, die durch
 mehrere Personen vertreten wird.
-
 
 ### § 19
 
@@ -436,7 +407,6 @@ den Betrag von eintausend Deutsche Mark nicht übersteigen.
 (2) Für das Verfahren gelten die §§ 388 bis 391 des Gesetzes über das
 Verfahren in Familiensachen und in den Angelegenheiten der
 freiwilligen Gerichtsbarkeit sinngemäß.
-
 
 ### § 20
 
@@ -476,7 +446,6 @@ eingetragenen Seeschiffes, für das der Eigentümer nachweist, daß die
 Rumpflänge, gemessen zwischen den äußersten Punkten des Vorstevens und
 des Hinterstevens, 15 Meter nicht übersteigt, ist unerheblich, ob der
 Bruttoraumgehalt 50 Kubikmeter übersteigt.
-
 
 ### § 21
 
@@ -520,7 +489,6 @@ Begründung, so ist in das Schiffsregister nur einzutragen, daß das
 Schiff seinen Heimatort im Ausland hat. § 20 Abs. 4 Satz 2 gilt
 entsprechend.
 
-
 ### § 22
 
 Ist seit 30 Jahren keine Eintragung im Schiffsregister erfolgt und ist
@@ -532,10 +500,7 @@ Nießbrauch an dem Schiff eingetragen ist, die Eintragung des Schiffs
 von Amts wegen zu löschen, ohne daß es des Verfahrens nach § 21
 bedarf.
 
-
 ## Dritter Abschnitt - Die Eintragung von Rechtsverhältnissen
-
-
 
 ### § 23
 
@@ -550,7 +515,6 @@ Abschluß der Niederschrift eingegangen.
 (2) Antragsberechtigt ist jeder, dessen Recht von der Eintragung
 betroffen wird oder zu dessen Gunsten die Eintragung erfolgen soll.
 
-
 ### § 24
 
 Die Berichtigung des Schiffsregisters durch Eintragung eines
@@ -560,13 +524,11 @@ Schiffsregister verlangen kann, sofern die Zulässigkeit dieser
 Eintragung davon abhängt, daß das Schiffsregister zuvor berichtigt
 wird.
 
-
 ### § 25
 
 Ist die zu einer Eintragung erforderliche Erklärung von einem Notar
 beurkundet oder beglaubigt, so gilt dieser als ermächtigt, im Namen
 eines Antragsberechtigten die Eintragung zu beantragen.
-
 
 ### § 26
 
@@ -577,13 +539,11 @@ geknüpft wird, soll nicht stattgegeben werden.
 Antragsteller bestimmt werden, daß die eine Eintragung nicht ohne die
 andere erfolgen soll.
 
-
 ### § 27
 
 Werden mehrere Eintragungen beantragt, durch die dasselbe Recht
 betroffen wird, so darf die später beantragte Eintragung nicht vor der
 Erledigung des früher gestellten Antrags erfolgen.
-
 
 ### § 28
 
@@ -602,19 +562,16 @@ als Erledigung dieses Antrags. Der Schutzvermerk wird von Amts wegen
 gelöscht, wenn der früher gestellte Antrag zurückgenommen oder
 zurückgewiesen wird.
 
-
 ### § 29
 
 Eine Eintragung erfolgt, wenn der sie bewilligt, dessen Recht von ihr
 betroffen wird.
-
 
 ### § 30
 
 Im Falle der rechtsgeschäftlichen Übertragung des Eigentums an einem
 Binnenschiff darf die Eintragung nur erfolgen, wenn die Einigung des
 Veräußerers und des Erwerbers erklärt ist.
-
 
 ### § 31
 
@@ -628,13 +585,11 @@ Schiffsregisters auf Grund einer Bewilligung nach § 29 nur mit seiner
 Zustimmung eingetragen werden, sofern nicht der Fall des § 24
 vorliegt.
 
-
 ### § 32
 
 Wird bei einem Seeschiff die Eintragung eines neuen Eigentümers oder
 des Erwerbers einer Schiffspart beantragt, so ist nachzuweisen, daß
 das Schiff weiterhin zur Führung der Bundesflagge berechtigt ist.
-
 
 ### § 33
 
@@ -646,7 +601,6 @@ Registergericht die Beteiligten anzuhalten, den Antrag auf
 Berichtigung des Schiffsregisters zu stellen und die zur Berichtigung
 erforderlichen Unterlagen zu beschaffen; § 19 gilt sinngemäß.
 
-
 ### § 34
 
 Soll die Übertragung oder die Belastung einer Forderung, für die ein
@@ -654,13 +608,11 @@ Pfandrecht an einer Schiffshypothek besteht, eingetragen werden, so
 genügt es, wenn an Stelle der Eintragungsbewilligung die Abtretungs-
 oder die Belastungserklärung des bisherigen Gläubigers vorgelegt wird.
 
-
 ### § 35
 
 Eine Schiffshypothek darf im Wege der Berichtigung nur mit Zustimmung
 des Eigentümers gelöscht werden. Dies gilt nicht, wenn nachgewiesen
 wird, daß die Schiffshypothek nicht zur Entstehung gelangt ist.
-
 
 ### § 36
 
@@ -668,7 +620,6 @@ In Eintragungsbewilligungen und Eintragungsanträgen sind einzutragende
 Geldbeträge in der im Geltungsbereich des Grundgesetzes geltenden
 Währung anzugeben, soweit nicht die Eintragung in anderer Währung
 gesetzlich zugelassen ist.
-
 
 ### § 37
 
@@ -689,20 +640,17 @@ für das Gericht außer Zweifel gestellt ist.
 Eintragung vorgenommen werden soll, sind zu unterschreiben und mit
 Siegel oder Stempel zu versehen.
 
-
 ### § 38
 
 Für den Eintragungsantrag sowie für die Vollmacht zur Stellung eines
 solchen gilt § 37 nur, wenn durch den Antrag zugleich eine zu der
 Eintragung erforderliche Erklärung ersetzt werden soll.
 
-
 ### § 39
 
 Erklärungen, durch die ein Eintragsantrag zurückgenommen oder eine zur
 Stellung des Eintragungsantrags erteilte Vollmacht widerrufen wird,
 bedürfen der in § 37 Abs. 1 Satz 1 vorgeschriebenen Form.
-
 
 ### § 40
 
@@ -711,7 +659,6 @@ vertragsmäßiges Güterrecht besteht oder daß ein Gegenstand zum
 Vorbehaltsgut eines Ehegatten gehört, wird durch ein Zeugnis des
 Gerichts über die Eintragung der güterrechtlichen Verhältnisse im
 Güterrechtsregister geführt.
-
 
 ### § 41
 
@@ -729,7 +676,6 @@ Nachlaßgegenstand können nur durch die in §§ 1507, 2368 des
 Bürgerlichen Gesetzbuchs vorgesehenen Zeugnisse nachgewiesen werden;
 auf den Nachweis der Befugnis des Testamentsvollstreckers sind jedoch
 die Vorschriften des Absatzes 1 Satz 2 entsprechend anzuwenden.
-
 
 ### § 42
 
@@ -750,7 +696,6 @@ Schiff oder bei einer Schiffshypothek, die zum Gesamtgut einer
 ehelichen oder einer fortgesetzten Gütergemeinschaft gehören, einer
 der Beteiligten als Eigentümer oder Gläubiger eingetragen werden soll.
 
-
 ### § 43
 
 Soll ein Nießbrauch an einem Schiff zum Zweck der Erfüllung einer
@@ -759,7 +704,6 @@ eingetragen werden, so genügt zum Nachweis des Bestehens der
 Verpflichtung die Vorlegung der Verfügung von Todes wegen und der
 Niederschrift über die Eröffnung der Verfügung, auch wenn die
 Verfügung nicht in einer öffentlichen Urkunde enthalten ist.
-
 
 ### § 44
 
@@ -772,7 +716,6 @@ Akten. Für den Nachweis rechtserheblicher Umstände, die sich aus
 Eintragungen im Handels-, Genossenschafts-, Partnerschafts- oder
 Vereinsregister ergeben, gilt § 32 der Grundbuchordnung.
 
-
 ### § 45
 
 In den Fällen, in denen nach gesetzlicher Vorschrift eine Behörde
@@ -780,13 +723,11 @@ befugt ist, das Registergericht um eine Eintragung zu ersuchen,
 erfolgt die Eintragung auf Grund des Ersuchens der Behörde; § 23 Abs.
 1 Satz 2, 3 gilt sinngemäß.
 
-
 ### § 46
 
 Eine Eintragung soll nur erfolgen, wenn der, dessen Recht durch sie
 betroffen wird, als der Berechtigte eingetragen ist; dies gilt nicht,
 wenn der Betroffene Erbe des eingetragenen Betroffen ist.
-
 
 ### § 47
 
@@ -801,12 +742,10 @@ eines nach § 74 des Gesetzes über Rechte an Schiffen und
 Schiffsbauwerken bestellten Vertreters oder auf Grund einer gegen
 diesen erlassenen gerichtlichen Entscheidung bewirkt werden soll.
 
-
 ### § 48
 
 Jede Eintragung soll den Tag angeben, an dem sie erfolgt ist. Sie ist
 von den zuständigen Beamten zu unterschreiben.
-
 
 ### § 49
 
@@ -826,7 +765,6 @@ früher beantragten im Rang nachsteht.
 (3) Absätze 1, 2 gelten nicht, soweit das Rangverhältnis von den
 Antragstellern abweichend bestimmt ist.
 
-
 ### § 50
 
 (1) Ein Recht, eine Vormerkung, ein Widerspruch oder eine
@@ -836,14 +774,12 @@ gelöscht.
 (2) Wird bei der Übertragung eines Schiffs auf ein anderes Blatt ein
 eingetragenes Recht nicht mitübertragen, so gilt es als gelöscht.
 
-
 ### § 51
 
 Wird ein Recht für mehrere gemeinschaftlich eingetragen, so sollen in
 der Eintragung entweder die Anteile der Berechtigten in Bruchteilen
 angegeben oder es soll das für die Gemeinschaft maßgebende
 Rechtsverhältnis bezeichnet werden.
-
 
 ### § 52
 
@@ -855,7 +791,6 @@ derartigen an einem Schiff bestehenden Recht belastet wird.
 
 (2) Das Erlöschen einer Mitbelastung ist von Amts wegen zu vermerken.
 
-
 ### § 53
 
 Bei der Eintragung einer Schiffshypothek für
@@ -865,13 +800,11 @@ der Forderungen unter Angabe der Anzahl, des Betrages und der
 Kennzeichnung der einzelnen Teilschuldverschreibungen eingetragen
 wird.
 
-
 ### § 54
 
 Bei der Eintragung eines Vorerben ist zugleich das Recht des Nacherben
 und, soweit der Vorerbe von den Beschränkungen seines Verfügungsrechts
 befreit ist, auch die Befreiung von Amts wegen einzutragen.
-
 
 ### § 55
 
@@ -880,7 +813,6 @@ des Erben von Amts wegen miteinzutragen, es sei denn, daß der
 Nachlaßgegenstand der Verwaltung des Testamentsvollstreckers nicht
 unterliegt.
 
-
 ### § 56
 
 Ergibt sich, daß das Registergericht unter Verletzung gesetzlicher
@@ -888,7 +820,6 @@ Vorschriften eine Eintragung vorgenommen hat, durch die das
 Schiffsregister unrichtig geworden ist, so ist von Amts wegen ein
 Widerspruch einzutragen. Erweist sich eine Eintragung nach ihrem
 Inhalt als unzulässig, so ist sie von Amts wegen zu löschen.
-
 
 ### § 57
 
@@ -908,12 +839,10 @@ Binnenschiffahrtsaufgabengesetz sowie der örtlich zuständigen
 Arbeitsschutzbehörde zur Erfüllung ihrer Aufgaben nach dem
 Seemannsgesetz bekanntzumachen.
 
-
 ### § 58
 
 Für die Eintragung der Rechtsverhältnisse an einer Schiffspart gelten
 die §§ 23 bis 57 sinngemäß.
-
 
 ### § 59
 
@@ -932,10 +861,7 @@ Rechtsgeschäft eine Urkunde errichtet, so können die Beteiligten die
 Urkunde oder eine beglaubigte Abschrift dem Registergericht zur
 Aufbewahrung übergeben.
 
-
 ## Vierter Abschnitt - Die Schiffsurkunden
-
-
 
 ### § 60
 
@@ -953,13 +879,11 @@ Auszug aus dem Schiffszertifikat zu erteilen, in den nur die im § 11
 Abs. 1 Nr. 1 bis 5 bezeichneten Tatsachen, das Unterscheidungssignal
 und das im Absatz 2 bezeichnete Zeugnis aufzunehmen sind.
 
-
 ### § 61
 
 Jede Eintragung in das Schiffsregister ist so bald als tunlich auf dem
 Schiffszertifikat oder dem Schiffsbrief zu vermerken. Dies gilt nicht
 für Eintragungen, welche die Belastung einer Schiffspart betreffen.
-
 
 ### § 62
 
@@ -980,7 +904,6 @@ Gerichtsbarkeit zur Einreichung anhalten.
 (3) In den Fällen des § 20 Abs. 1, 2, 4 ist das Schiffszertifikat oder
 der Schiffsbrief unbrauchbar zu machen.
 
-
 ### § 63
 
 (1) Ein neues Schiffszertifikat oder ein neuer Schiffsbrief darf nur
@@ -994,15 +917,11 @@ auf Antrag dem Schiffer die neue Urkunde gegen Rückgabe der bisherigen
 Urkunde durch Vermittlung einer deutschen Behörde aushändigen zu
 lassen.
 
-
 ### § 64
 
 (weggefallen)
 
-
 ## Fünfter Abschnitt - Register für Schiffsbauwerke (Schiffsbauregister)
-
-
 
 ### § 65
 
@@ -1015,14 +934,12 @@ ein berechtigtes Interesse dargelegt wird. Unter der gleichen
 Voraussetzung kann eine Abschrift gefordert werden; die Abschrift ist
 auf Verlangen zu beglaubigen. Im übrigen gilt § 8 Abs. 2 sinngemäß.
 
-
 ### § 66
 
 Ein Schiffsbauwerk wird in das Schiffsbauregister nur eingetragen,
 wenn zugleich eine Schiffshypothek an dem Schiffsbauwerk eingetragen
 wird oder wenn die Zwangsversteigerung des Schiffsbauwerks beantragt
 ist.
-
 
 ### § 67
 
@@ -1032,7 +949,6 @@ ist.
 zuständig, auch wenn das Schiffsbauwerk an einen anderen Ort außerhalb
 des Registerbezirks gebracht wird; es hat dem Registergericht des
 neuen Bauorts die Eintragung des Schiffsbauwerks anzuzeigen.
-
 
 ### § 68
 
@@ -1046,7 +962,6 @@ Eigentümer es zur Eintragung anmelden.
 werden, der auf Grund eines vollstreckbaren Titels eine Eintragung in
 das Schiffsbauregister verlangen oder die Zwangsversteigerung des
 Schiffsbauwerks betreiben kann.
-
 
 ### § 69
 
@@ -1075,14 +990,12 @@ erworben hat.
 wird durch eine Bescheinigung der zuständigen
 Schiffsvermessungsbehörde oder Eichbehörde erbracht.
 
-
 ### § 70
 
 Die Eintragung des Schiffsbauwerks hat die im § 69 Abs. 1 bezeichneten
 Angaben, die Bezeichnung der im § 69 Abs. 2, 3 genannten Urkunden und
 den Tag der Eintragung zu enthalten. Sie ist von den zuständigen
 Beamten zu unterschreiben.
-
 
 ### § 71
 
@@ -1092,13 +1005,11 @@ eingetragenen Tatsachen und die Fertigstellung des Schiffs
 unverzüglich dem Registergericht anzumelden. Die angemeldeten
 Veränderungen sind glaubhaft zu machen. § 19 gilt sinngemäß.
 
-
 ### § 72
 
 Nach der Anmeldung der Fertigstellung des Schiffs kann eine
 Schiffshypothek im Schiffsbauregister nicht mehr eingetragen werden.
 Das gleiche gilt, wenn die Bescheinigung nach § 15 erteilt ist.
-
 
 ### § 73
 
@@ -1121,7 +1032,6 @@ einer Schiffshypothek belastet ist, der Löschungsbewilligung des
 Schiffshypothekengläubigers und der sonst aus dem Schiffsbauregister
 ersichtlichen Berechtigten.
 
-
 ### § 73a
 
 Auf im Bau befindliche Schwimmdocks sind die Vorschriften der §§ 66
@@ -1129,7 +1039,6 @@ bis 71, 73 entsprechend anzuwenden. Nach Fertigstellung des
 eingetragenen Bauwerks ist diese Tatsache sowie der Ort, an dem das
 Schwimmdock gewöhnlich liegt (Lageort), in das Schiffsbauregister
 einzutragen.
-
 
 ### § 73b
 
@@ -1178,19 +1087,12 @@ entsprechend anzuwenden. Im übrigen gilt folgendes:
     machen; im Falle der Nichterfüllung dieser Verpflichtung ist § 19
     entsprechend anzuwenden. Für die Eintragung gilt Nummer 3 sinngemäß.
 
-
-
-
-
 ### § 74
 
 Die Vorschriften des Dritten Abschnitts dieses Gesetzes gelten für das
 Schiffsbauregister sinngemäß.
 
-
 ## Sechster Abschnitt - Die Beschwerde
-
-
 
 ### § 75
 
@@ -1201,12 +1103,10 @@ der Beschwerde angefochten werden.
 daß das Registergericht angewiesen wird, nach § 56 einen Widerspruch
 einzutragen oder eine Eintragung zu löschen.
 
-
 ### § 76
 
 Über die Beschwerde entscheidet das Oberlandesgericht, in dessen
 Bezirk das Registergericht seinen Sitz hat.
-
 
 ### § 77
 
@@ -1222,24 +1122,20 @@ elektronische Dokument gilt § 14 Absatz 1 bis 3 und 5 des Gesetzes
 über das Verfahren in Familiensachen und in den Angelegenheiten der
 freiwilligen Gerichtsbarkeit.
 
-
 ### § 78
 
 Die Einlegung der Beschwerde hat nur dann aufschiebende Wirkung, wenn
 die Beschwerde gegen eine Verfügung gerichtet ist, durch die ein
 Zwangsgeld festgesetzt wird.
 
-
 ### § 79
 
 Die Beschwerde kann auf neue Tatsachen und Beweise gestützt werden.
-
 
 ### § 80
 
 Erachtet das Registergericht die Beschwerde für begründet, so hat es
 ihr abzuhelfen.
-
 
 ### § 81
 
@@ -1251,12 +1147,10 @@ Vollziehung der angefochtenen Entscheidung auszusetzen ist.
 (2) Der Schutzvermerk wird von Amts wegen gelöscht, wenn die
 Beschwerde zurückgenommen oder zurückgewiesen wird.
 
-
 ### § 82
 
 Die Entscheidung des Beschwerdegerichts ist mit Gründen zu versehen
 und dem Beschwerdeführer mitzuteilen.
-
 
 ### § 83
 
@@ -1282,31 +1176,25 @@ Gesetzes sowie die §§ 71 bis 74a des Gesetzes über das Verfahren in
 Familiensachen und in den Angelegenheiten der freiwilligen
 Gerichtsbarkeit entsprechende Anwendung.
 
-
 ### § 84
 
 (weggefallen)
-
 
 ### § 85
 
 (weggefallen)
 
-
 ### § 86
 
 (weggefallen)
-
 
 ### § 87
 
 (weggefallen)
 
-
 ### § 88
 
 (weggefallen)
-
 
 ### § 89
 
@@ -1335,17 +1223,13 @@ Landesjustizverwaltungen übertragen. Die Zulassung der elektronischen
 Akte und der elektronischen Form kann auf einzelne Gerichte oder
 Verfahren beschränkt werden.
 
-
 ### § 90
 
 Für die Fälle der sofortigen Beschwerde sind die Vorschriften über die
 Beschwerde nach dem Gesetz über das Verfahren in Familiensachen und in
 den Angelegenheiten der freiwilligen Gerichtsbarkeit anzuwenden.
 
-
 ## Siebter Abschnitt - Übergangs- und Schlussvorschriften
-
-
 
 ### § 91
 
@@ -1354,7 +1238,6 @@ Rechtsverordnung mit Zustimmung des Bundesrates die näheren
 Vorschriften über die Einrichtung und Führung des Schiffsregisters und
 des Schiffsbauregisters, das Verfahren in Schiffsregister- und
 Schiffsbauregistersachen und über die Schiffsurkunden zu erlassen.
-
 
 ### § 92
 
@@ -1370,7 +1253,6 @@ erforderliche Eintragung ersetzt wird. Die Landesregierungen können
 die Ermächtigung durch Rechtsverordnung auf die
 Landesjustizverwaltungen übertragen.
 
-
 ### § 93
 
 Die Vorschriften des Siebenten Abschnitts der Grundbuchordnung gelten
@@ -1381,7 +1263,6 @@ und anderen durch Rechtsverordnung des Bundesministeriums der Justiz
 mit Zustimmung des Bundesrats zugelassenen Personen oder Stellen unter
 den Voraussetzungen des § 133 Abs. 2 Satz 3 Grundbuchordnung erteilt
 werden.
-
 
 ### § 94
 

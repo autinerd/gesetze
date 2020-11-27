@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   VkBl: 2008, 673
 
-
 ## Eingangsformel
 
 Auf Grund des § 46 Nr. 1 des Bundeswasserstraßengesetzes in der
@@ -27,13 +26,11 @@ Erlass von Rechtsverordnungen nach dem Bundeswasserstraßengesetz über
 die Regelung des Betriebs von Anlagen vom 31. März 1970 (BGBl. I S.
 315) verordnet die Wasser- und Schifffahrtsdirektion West:
 
-
 ## § 1 Festsetzung der Schleusenbetriebszeiten
 
 Die Betriebszeiten der Schleusen an den Bundeswasserstraßen im
 Zuständigkeitsbereich der Wasser- und Schifffahrtsdirektion West
 werden gemäß dem Anhang festgesetzt.
-
 
 ## § 2 Schleusungen außerhalb der Betriebszeiten
 
@@ -64,23 +61,19 @@ benachrichtigen. Wird eine nach § 2 Abs. 1 erlaubte Fahrt abgebrochen,
 ist die nächste noch nicht durchfahrende Schleuse unverzüglich zu
 benachrichtigen.
 
-
 ## § 3 Abweichungen von Schleusenbetriebszeiten
 
 Von den im Anhang festgesetzten Schleusenbetriebszeiten kann aus
 verkehrlichen und betrieblichen Gründen vorübergehend abgewichen
 werden. Diese Änderungen werden bekannt gegeben.
 
-
 ## § 4 Außerkrafttreten
 
 -
 
-
 ## § 5 Inkrafttreten
 
 Die Verordnung tritt am 1. Januar 2009 in Kraft.
-
 
 ## Anhang Anhang zur Schleusenbetriebzeitenverordnung mit den ab 1. Januar 2009 geltenden Schleusenbetriebszeiten
 

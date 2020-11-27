@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 1595
 
-
-
 ## § 1 Rauchverbot
 
 (1) Das Rauchen ist nach Maßgabe der Absätze 2 und 3 verboten
@@ -50,7 +48,6 @@ Zustimmung des Bundesrates nähere Bestimmungen zur Einrichtung und
 Kennzeichnung von Raucherräumen nach Absatz 3, insbesondere zu den
 baulichen Anforderungen an die Größe, Lage, Gestaltung sowie zur Art
 und Weise ihrer Belüftung, zu erlassen.
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -103,24 +100,15 @@ und Weise ihrer Belüftung, zu erlassen.
 
     b)  räumlich abgetrennte Einheiten eines Verkehrsmittels.
 
-
-
-
-
-
-
-
 ## § 3 Hinweispflicht
 
 Auf das Rauchverbot nach § 1 ist in geeigneter Weise hinzuweisen.
-
 
 ## § 4 Verantwortlichkeit
 
 Die Einrichtung der Raucherbereiche und die Erfüllung der
 Hinweispflicht nach § 3 obliegen dem Inhaber des Hausrechts oder dem
 Betreiber des Verkehrsmittels.
-
 
 ## § 5 Bußgeldvorschrift
 

@@ -19,24 +19,17 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 15 G v. 29. 4.1997 I 968
 
-
 ## Erster Abschnitt - Einführung der Selbstverwaltung
-
-
 
 ### § 1
 
 -
 
-
 ### § 2
 
 (weggefallen)
 
-
 ## Zweiter Abschnitt - Rechtsangleichung
-
-
 
 ### § 3
 
@@ -46,11 +39,9 @@ Vereinfachung des Leistungs- und Beitragsrechts in der
 Sozialversicherung vom 17. März 1945 (Reichsgesetzbl. I S. 41) gelten
 im Land Berlin, soweit dieses Gesetz nichts anderes bestimmt.
 
-
 ### § 4
 
 -
-
 
 ### § 5
 
@@ -60,17 +51,13 @@ soweit eine solche Bestimmung noch nicht getroffen ist, auf die für
 die Sozialversicherung zuständige oberste Verwaltungsbehörde des
 Landes Berlin über.
 
-
 ## Dritter Abschnitt - Übergangsvorschriften
-
-
 
 ### § 6
 
 Die Krankenversicherungsanstalt Berlin ist eine Ortskrankenkasse im
 Sinne des § 225 der Reichsversicherungsordnung. Sie erhält die
 Bezeichnung "Allgemeine Ortskrankenkasse Berlin".
-
 
 ### § 7
 
@@ -106,7 +93,6 @@ Krankenkassenart zuständigen Bundesverbands im Einzelfall die
 erforderliche vorläufige Regelung für die Bildung der Organe der
 Krankenkassen, die ihre Tätigkeit wieder aufnehmen.
 
-
 ### § 8
 
 Die Bundespostbetriebskrankenkasse kann ihren Bereich auf das Land
@@ -116,11 +102,9 @@ Land Berlin und die Landespostdirektion Berlin zustimmen. Als
 Arbeitgeber im Sinne der §§ 245 und 246 der Reichsversicherungsordnung
 gilt insoweit die Bundesrepublik Deutschland.
 
-
 ### § 9
 
 -
-
 
 ### § 10
 
@@ -146,7 +130,6 @@ bleiben bestehen.
 Ortskrankenkasse Berlin und den wieder zugelassenen Kassen findet
 nicht statt.
 
-
 ### § 11
 
 (1) Die Verbindlichkeiten der nach den Vorschriften dieses Gesetzes
@@ -160,7 +143,6 @@ Ansprüche gegen einen Bürgen, sowie seine Rechte aus einem Pfandrecht,
 einer Hypothek oder einer sonstigen Sicherheit nicht berührt; § 418
 des Bürgerlichen Gesetzbuchs findet keine Anwendung.
 
-
 ### § 12
 
 Das im Land Berlin belegene Vermögen (§ 10 Abs. 1) und die
@@ -169,7 +151,6 @@ Inkrafttretens dieses Gesetzes im Land Berlin auf die Deutsche
 Angestellten-Krankenkasse über. § 10 Abs. 2 bis 4 und § 11 Abs. 2
 gelten entsprechend.
 
-
 ### § 13
 
 Soweit das Eigentum an einem Grundstück nach den §§ 10 und 12
@@ -177,13 +158,11 @@ Soweit das Eigentum an einem Grundstück nach den §§ 10 und 12
 dem Grundbuchamt eine Bescheinigung der Aufsichtsbehörde. Dies gilt
 für sonstige im Grundbuch eingetragene Rechte entsprechend.
 
-
 ### § 14
 
 Gerichtsgebühren und andere Abgaben, die aus Anlaß und in Durchführung
 der Vorschriften der §§ 10 bis 12 entstehen, werden nicht erhoben;
 bare Auslagen bleiben außer Ansatz.
-
 
 ### § 15
 
@@ -202,7 +181,6 @@ Tätigkeit.
 (3) Die Treuhandschaft des Bundes und des Landes Berlin an dem im Land
 Berlin belegenen Vermögen der Lichterfelder Ersatzkasse erlischt mit
 dem Tag des Inkrafttretens dieses Gesetzes im Land Berlin.
-
 
 ### § 16
 
@@ -232,28 +210,19 @@ deren Betrieb eine Betriebskrankenkasse besteht oder errichtet wird,
 deren Bereich sich auf das Land Berlin erstreckt oder auf das Land
 Berlin erstreckt wird.
 
-
 ### § 17
 
 -
-
 
 ### § 18
 
 -
 
-
 ## Vierter Abschnitt
-
-
 
 ### (XXXX) §§ 19 u. 20
 
-
-
 ## Fünfter Abschnitt - Schlußvorschriften
-
-
 
 ### § 21
 
@@ -262,7 +231,6 @@ Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes
 erlassen wurden oder werden, gelten im Land Berlin nach § 14 des
 Dritten Überleitungsgesetzes.
-
 
 ### § 22
 

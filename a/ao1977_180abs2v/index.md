@@ -19,14 +19,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 G v. 20.12.2008 I 2850
 
-
 ## Eingangsformel
 
 Auf Grund des § 180 Abs. 2 der Abgabenordnung vom 16. März 1976 (BGBl.
 I S. 613), der durch Artikel 1 Nr. 31 des Steuerbereinigungsgesetzes
 1986 vom 19. Dezember 1985 (BGBl. I S. 2436) neu gefaßt worden ist,
 wird mit Zustimmung des Bundesrates verordnet:
-
 
 ## § 1 Gegenstand, Umfang und Voraussetzungen der Feststellung
 
@@ -68,7 +66,6 @@ im Rahmen eines Gesamtobjekts Umsätze ausführen oder empfangen.
 einheitlich vorzunehmen. Sie kann auf bestimmte Personen beschränkt
 werden.
 
-
 ## § 2 Örtliche Zuständigkeit
 
 (1) Für Feststellungen in den Fällen des § 1 Abs. 1 Satz 1 Nr. 1
@@ -85,7 +82,6 @@ zuständig ist.
 § 1 Abs. 1 Satz 1 Nr. 2 zuständige Finanzamt zu treffen.
 
 (4) § 18 Abs. 2 der Abgabenordnung gilt entsprechend.
-
 
 ## § 3 Erklärungspflicht
 
@@ -126,7 +122,6 @@ Unterlagen bestimmen.
 Feststellung der Besteuerungsgrundlagen abgegeben, sind andere
 Erklärungspflichtige insoweit von der Erklärungspflicht befreit.
 
-
 ## § 4 Einleitung des Feststellungsverfahrens
 
 Die Finanzbehörde entscheidet nach pflichtgemäßem Ermessen, ob und in
@@ -137,13 +132,11 @@ auch nicht der Erleichterung des Besteuerungsverfahrens dient, kann
 sie dies durch Bescheid feststellen. Der Bescheid gilt als
 Steuerbescheid.
 
-
 ## § 5 Verfahrensbeteiligte
 
 Als an dem Feststellungsverfahren Beteiligte gelten neben den
 Beteiligten nach § 78 der Abgabenordnung auch die in § 3 Abs. 1 Nr. 2
 genannten Personen.
-
 
 ## § 6 Bekanntgabe
 
@@ -176,7 +169,6 @@ bestehen.
 (4) Ist Einzelbekanntgabe erforderlich, sind dem Beteiligten nur die
 ihn betreffenden Besteuerungsgrundlagen bekanntzugeben.
 
-
 ## § 7 Außenprüfung
 
 (1) Eine Außenprüfung zur Ermittlung der Besteuerungsgrundlagen ist
@@ -184,7 +176,6 @@ bei jedem Verfahrensbeteiligten zulässig.
 
 (2) Die Prüfungsanordnung ist dem Verfahrensbeteiligten
 bekanntzugeben, bei dem die Außenprüfung durchgeführt werden soll.
-
 
 ## § 8 Feststellungsgegenstand beim Übergang zur Liebhaberei
 
@@ -197,7 +188,6 @@ Unterschiedsbetrag zwischen dem gemeinen Wert und dem Wert, der nach §
 4 Abs. 1 oder nach § 5 des Einkommensteuergesetzes anzusetzen wäre,
 gesondert und bei mehreren Beteiligten einheitlich festzustellen.
 
-
 ## § 9 Feststellungsgegenstand bei Einsatz von Versicherungen auf den Erlebens- oder Todesfall zu Finanzierungszwecken
 
 Sind für Beiträge zu Versicherungen auf den Erlebens- oder Todesfall
@@ -209,16 +199,13 @@ rechnungsmäßigen Zinsen aus den in den Beiträgen enthaltenen
 Sparanteilen (§ 52 Abs. 36 letzter Satz des Einkommensteuergesetzes)
 gesondert fest.
 
-
 ## § 10 (weggefallen)
 
 -
 
-
 ## Schlußformel
 
 Der Bundesminister der Finanzen
-
 
 ## § 11 Inkrafttreten, Anwendungsvorschriften
 

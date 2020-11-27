@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1983, 952
 
-
-
 ## (XXXX)
 
 Zwischen dem Land Baden-Württemberg und dem Land Hessen wurde am 18.

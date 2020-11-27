@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 12 Nr. 11 V v. 16.12.2011 II 1300
 
-
 ## Inhaltsverzeichnis
 
 Kapitel 1
@@ -198,11 +197,7 @@ Kapitel 3
     *   Anforderungen an den Fahrtenschreiber und Vorschriften betreffend den
         Einbau von Fahrtenschreibern an Bord
 
-
-
-
 ## Kapitel 1 - Allgemeines
-
 
 ### § 1.01 Allgemeines
 
@@ -215,9 +210,7 @@ Besatzung nach Anhang V eingetragen. Die Eintragungen in mehrere
 dieser Urkunden sind zulässig. Sie müssen für die jeweils befahrenen
 Wasserstraßen gelten und an Bord mitgeführt werden.
 
-
 ## Kapitel 2 - Ausrüstung der Schiffe im Hinblick auf die Besatzung für die Fahrt auf dem Rhein
-
 
 ### § 2.01 Ausrüstung der Schiffe im Hinblick auf die Besatzung
 
@@ -362,12 +355,7 @@ Wasserstraßen gelten und an Bord mitgeführt werden.
     oder 1.2 wird von der Untersuchungskommission in dem Schiffsattest
     unter Nummer 47 vermerkt.
 
-
-
-
-
 ## Kapitel 3 - Besatzungsvorschriften für Wasserstraßen der Zonen 1 bis 4
-
 
 ### § 3.01 Allgemeines
 
@@ -453,10 +441,6 @@ Wasserstraßen gelten und an Bord mitgeführt werden.
     mindestens sechs Wochen vor und mindestens acht Wochen nach der
     Niederkunft liegen.
 
-
-
-
-
 ### § 3.02 Begriffsbetimmungen
 
 
@@ -530,10 +514,6 @@ Wasserstraßen gelten und an Bord mitgeführt werden.
     Schiffsjunge ohne Fahrzeiterfordernis, der als Besatzungsmitglied
     vorgeschrieben ist, kann durch einen Angehörigen der Decksmannschaft
     ersetzt werden, der mindestens 17 Jahre alt ist.
-
-
-
-
 
 ### § 3.03 Betriebsformen
 
@@ -636,10 +616,6 @@ Wasserstraßen gelten und an Bord mitgeführt werden.
     Fahrtenbuchs zu führen, die mindestens sechs Monate nach der letzten
     Eintragung aufzubewahren ist.
 
-
-
-
-
 ### § 3.04 Dienst- und Ruhezeiten
 
 
@@ -716,10 +692,6 @@ Wasserstraßen gelten und an Bord mitgeführt werden.
     20 und 6 Uhr liegen. In der Betriebsform B soll die Ruhezeit die Zeit
     zwischen 22 und 5 Uhr einschließen. In der Betriebsform C soll die
     Ruhezeit die Zeit zwischen 23 und 3 Uhr einschließen.
-
-
-
-
 
 ### § 3.05 Besatzung der Fahrzeuge ohne Antriebsmaschine
 
@@ -1014,10 +986,6 @@ Wasserstraßen gelten und an Bord mitgeführt werden.
     bis 330 t auf Strecken bis 20 km in der Betriebsform A im
     Pendelverkehr nur mit dem Schiffsführer besetzt sind. Diese Zulassung
     ist an Bord mitzuführen.
-
-
-
-
 
 ### § 3.06 Besatzung der Gütermotorschiffe und Tankmotorschiffe
 
@@ -1391,16 +1359,6 @@ Wasserstraßen gelten und an Bord mitgeführt werden.
         cc) Verkehr vom Hamburger Hafen abwärts bis zur Linie Freiburg-
             Störmündung.
 
-
-
-
-
-
-
-
-
-
-
 ### § 3.07 Besatzung der Schleppboote
 
 
@@ -1760,10 +1718,6 @@ Wasserstraßen gelten und an Bord mitgeführt werden.
 *   Sind eine oder mehrere Voraussetzungen des Satzes 1 nicht erfüllt, so
     erhöht sich die Besatzung um einen Matrosen; anstelle des Matrosen-
     Motorwarts muss in diesem Fall ein Maschinist an Bord sein.
-
-
-
-
 
 ### § 3.08 Besatzung der Fahrgastschiffe
 
@@ -2352,10 +2306,6 @@ Wasserstraßen gelten und an Bord mitgeführt werden.
     vermerkt die für die-sen Fall zulässige Besatzungsverminderung im
     Schiffsattest.
 
-
-
-
-
 ### § 3.09 Sonstige Wasserfahrzeuge
 
 Für Wasserfahrzeuge, die nicht unter die §§ 3.05 bis 3.08 fallen (z.
@@ -2364,7 +2314,6 @@ Schiffsuntersuchungskommission oder die Zentralstelle
 Schiffsuntersuchungskommission/Schiffseichamt Art und Umfang der
 Besatzung jeweils entsprechend der Größe, Bauart und Ausrüstung des
 Fahrzeugs fest.
-
 
 ### § 3.10 Abweichungen
 
@@ -2397,10 +2346,6 @@ Fahrzeugs fest.
     von Seeschiffen auf den Wasserstraßen der Zonen 1, 2 oder 3 zugelassen
     und verwendet werden.
 
-
-
-
-
 ### § 3.11 Ausnahmebewilligung
 
 
@@ -2420,10 +2365,6 @@ Fahrzeugs fest.
     dies durch eine an Bord befindliche Bescheinigung bestätigt wird.
     Diese Herabsetzung wird für eine ununterbrochene Dauer von höchstens
     drei Monaten im Kalenderjahr gewährt.
-
-
-
-
 
 ### § 3.12 Zusätzliche Bestimmungen
 
@@ -2450,10 +2391,6 @@ Fahrzeugs fest.
     Tagesendstation - fortsetzen, wenn auf dem Wasserfahrzeug neben einem
     Inhaber des Schifferpatents für die betreffende Strecke noch ein
     weiteres Mitglied der Besatzung vorhanden ist.
-
-
-
-
 
 ### Anlage 1 - gilt nur für Fahrzeuge mit Schiffsattest - Anforderungen an den Fahrtenschreiber und Vorschriften betreffend den Einbau von Fahrtenschreibern an Bord
 
@@ -2564,12 +2501,6 @@ Fahrzeugs fest.
         *   zulässige Fehlergrenzen der Zeiterfassung:
 
         *   ± 2 Minuten pro 24 Stunden
-
-
-
-
-
-
 
 ## **B. Einbau von Fahrtenschreibern an Bord**
 

@@ -19,10 +19,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 15 Abs. 100 G v. 5.2.2009 I 160
 
-
 ## Erster Abschnitt - Errichtung
-
-
 
 ### § 1 Errichtung, Rechtsform, Sitz
 
@@ -35,7 +32,6 @@ und Telekommunikation Deutsche Bundespost (Bundesanstalt).
 (2) Die Bundesanstalt ist eine rechtsfähige Anstalt des öffentlichen
 Rechts. Sie hat ihren Sitz in Bonn.
 
-
 ### § 2 Aufsicht
 
 Die Bundesanstalt untersteht der Rechts- und Fachaufsicht des
@@ -44,10 +40,7 @@ verlangen und Anordnungen zu treffen, damit die Bundesanstalt ihre
 Aufgaben in Einklang mit den Gesetzen, der Satzung, sonstigen
 Bestimmungen und den Interessen des Bundes wahrnimmt.
 
-
 ## Zweiter Abschnitt - Aufgaben
-
-
 
 ### § 3 Gegenstand
 
@@ -88,10 +81,7 @@ Sondervermögens Deutsche Bundespost übertragen.
 Bundesanstalt weder Rechte noch Einfluß in bezug auf die Unternehmen
 ausüben.
 
-
 ## Dritter Abschnitt - Organisation
-
-
 
 ### § 4 Leitung
 
@@ -147,7 +137,6 @@ ruhegehaltfähig.
 Staatsanwälte und für Berufssoldatinnen und Berufssoldaten
 entsprechend.
 
-
 ### § 5 Verwaltungsrat
 
 (1) Bei der Bundesanstalt wird ein Verwaltungsrat gebildet. Er besteht
@@ -200,7 +189,6 @@ dienstvertraglichen Haftung.
 4 hat der Verwaltungsrat binnen zwei Monaten zu beschließen. Ergeht
 innerhalb dieser Frist kein Beschluß, gilt die Vorlage als genehmigt.
 
-
 ### § 6 Einspruch gegen Beschlüsse des Verwaltungsrats
 
 (1) Die Präsidentin oder der Präsident kann gegen einen nach § 5 Abs.
@@ -221,7 +209,6 @@ entscheidet das Bundesministerium der Finanzen auf Vorlage der
 Präsidentin oder des Präsidenten. Andernfalls gilt die Vorlage der
 Präsidentin oder des Präsidenten als beschlossen.
 
-
 ### § 7 Genehmigungen
 
 (1) Die Präsidentin oder der Präsident legt die Beschlüsse des
@@ -232,7 +219,6 @@ zur Genehmigung vor.
 der Finanzen und dem Verwaltungsrat regelmäßig über die
 Geschäftsführung der Bundesanstalt.
 
-
 ### § 8 Satzung
 
 Die Satzung der Bundesanstalt wird in der Anlage zu diesem Gesetz
@@ -240,28 +226,19 @@ festgestellt. Sie kann nach Maßgabe des § 5 Abs. 4 Nr. 4 in Verbindung
 mit § 7 Abs. 1 geändert werden. Die Satzung ist entsprechend den
 gesetzlichen Änderungen des Bundesanstalt Post-Gesetzes anzupassen.
 
-
 ## Vierter Abschnitt - (weggefallen)
-
-
 
 ### § 9
 
 (weggefallen)
 
-
 ### § 10
 
 (weggefallen)
 
-
 ### (XXXX) §§ 11 bis 14 (weggefallen)
 
-
-
 ## Fünfter Abschnitt - Aufgabenwahrnehmung in Bezug auf die Unternehmen
-
-
 
 ### § 15 Disziplinarverfahren
 
@@ -274,7 +251,6 @@ Dienstvergehen zur Last legt, prüft die Bundesanstalt die
 beabsichtigte Verfügung nach Vorlage der Akten auf Rechtmäßigkeit und
 sachgerechte Ausübung des Ermessens. Entsprechendes gilt vor Erhebung
 der Disziplinarklage.
-
 
 ### § 16 Entlassungen, Zurruhesetzungen
 
@@ -289,11 +265,9 @@ gemäß § 45 des Bundesbeamtengesetzes herabsetzt, prüft die
 Bundesanstalt die beabsichtigte Entscheidung nach Vorlage der Akten
 auf Rechtmäßigkeit.
 
-
 ### § 17
 
 (weggefallen)
-
 
 ### § 18 Stellenplan
 
@@ -303,10 +277,7 @@ Stellung dazu, ob die geplante Regelung den berechtigten Interessen
 der Beamtinnen und Beamten an ihrem beruflichen Fortkommen angemessen
 Rechnung trägt.
 
-
 ## Sechster Abschnitt - Wirtschaftsführung
-
-
 
 ### § 19 Finanzierung
 
@@ -327,7 +298,6 @@ Personalüberhang wird für die Zeit ab dem 1. Dezember 2005 kein
 Gewinnzuschlag erhoben.
 
 (2) § 26 Abs. 4 und § 26k bleiben unberührt.
-
 
 ### § 20 Wirtschaftsplan
 
@@ -378,7 +348,6 @@ Bundesanstalt aufrecht zu erhalten, rechtlich begründete
 Verpflichtungen der Bundesanstalt zu erfüllen und begonnene
 Investitionen fortzuführen.
 
-
 ### § 21 Jahresabschluß, Lagebericht und Geschäftsbericht
 
 (1) Die Präsidentin oder der Präsident stellt für jedes Geschäftsjahr
@@ -390,7 +359,6 @@ bedarf der Genehmigung gemäß § 7 Abs. 1.
 (2) Der jährliche Geschäftsbericht enthält den Jahresabschluß und den
 Lagebericht der Bundesanstalt. Der Geschäftsbericht ist dem
 Verwaltungsrat und dem Bundesministerium der Finanzen vorzulegen.
-
 
 ### § 22 Prüfung und Entlastung der Präsidentin oder des Präsidenten
 
@@ -414,10 +382,7 @@ oder des Präsidenten. Der Beschluss über die Entlastung bedarf der
 Genehmigung gemäß § 7 Abs. 1. Die Entlastung enthält keinen Verzicht
 auf Ersatzansprüche.
 
-
 ## Siebter Abschnitt - Personal
-
-
 
 ### § 23 Beamtinnen und Beamte, Angestellte, Arbeiterinnen und Arbeiter
 
@@ -463,7 +428,6 @@ Verwendung weitergewährt. Anrechnungsvorschriften finden Anwendung.
 (7) Oberste Dienstbehörde für die Präsidentin oder den Präsidenten der
 Bundesanstalt ist das Bundesministerium der Finanzen.
 
-
 ### § 24 Überleitungsmaßnahmen für das Personal
 
 (1) Die bis zum Zeitpunkt des Inkrafttretens dieses Gesetzes gültigen
@@ -481,7 +445,6 @@ einer Einzelentscheidung zu einer Aktiengesellschaft versetzt und dort
 beschäftigt werden, wenn die Beamtin oder der Beamte und die
 Aktiengesellschaft zustimmen.
 
-
 ### § 25 Vorübergehende geringerwertige Verwendung
 
 Einer Beamtin oder einem Beamten, deren oder dessen Aufgabengebiet von
@@ -493,10 +456,7 @@ eine amtsgemäße Verwendung nicht möglich ist und der Beamtin oder dem
 Beamten die Wahrnehmung der neuen Aufgabe unter Berücksichtigung ihrer
 oder seiner bisherigen Tätigkeit zuzumuten ist.
 
-
 ## Achter Abschnitt - Soziale Aufgaben
-
-
 
 ### § 26 Betriebliche Sozialeinrichtungen
 
@@ -555,10 +515,7 @@ auf die betrieblichen Sozialeinrichtungen keine Anwendung. Die Rechte
 des zuständigen Ministeriums werden von der Bundesanstalt
 wahrgenommen.
 
-
 ### Unterabschnitt 1 - Verwaltung der Postbeamtenkrankenkasse
-
-
 
 #### § 26a Organe
 
@@ -567,7 +524,6 @@ Verwaltungsrat.
 
 (2) Aufgaben und Befugnisse der Organe werden durch dieses Gesetz und
 die Satzung der Postbeamtenkrankenkasse geregelt.
-
 
 #### § 26b Vorstand, Verwaltungsrat
 
@@ -636,7 +592,6 @@ Finanzdienstleistungsaufsicht um Stellungnahme bitten.
 Satzungsändernde Beschlüsse bedürfen einer Zweidrittelmehrheit der
 Mitglieder des Verwaltungsrats.
 
-
 #### § 26c Satzung
 
 (1) Die Satzung der Postbeamtenkrankenkasse regelt ihre Organisation
@@ -650,7 +605,6 @@ Postbeamtenkrankenkasse und der Reduzierung der Finanzierungslasten zu
 dienen. Personalwirtschaftlich darf dies nicht zu Lasten der
 Beschäftigung des bei der Postbeamtenkrankenkasse eingesetzten
 Personals gehen.
-
 
 #### § 26d Aufgaben
 
@@ -667,10 +621,7 @@ aufgeteilt.
 zugewiesen wird, die Beihilfebearbeitung für Nichtmitglieder
 übernehmen.
 
-
 ### Unterabschnitt 2 - Wirtschaftsführung der Postbeamtenkrankenkasse
-
-
 
 #### § 26e Wirtschaftsplan
 
@@ -687,7 +638,6 @@ Versicherungszweigen einen dauerhaft ausgeglichenen Haushalt. Die
 erforderlichen Beiträge werden jährlich nach Maßgabe der §§ 26f und
 26g durch die Satzung bestimmt.
 
-
 #### § 26f Grundsätze der Beitragsgestaltung
 
 Grundlage der jährlichen Beitragsberechnung in den einzelnen
@@ -698,7 +648,6 @@ Schadentrend und voraussichtlicher Entwicklung des Anlagevermögens
 erstellt wird und die im Haushaltsjahr und langfristig erwarteten
 Ausgaben und Einnahmen mit dem Ziel der Abwicklung der
 Postbeamtenkrankenkasse berücksichtigt.
-
 
 #### § 26g Beiträge in der Grundversicherung
 
@@ -775,7 +724,6 @@ Aktiengesellschaften zustimmen müssen.
 Fall zu erhebenden Beiträgen in der gesetzlichen Krankenversicherung
 festzusetzen.
 
-
 #### § 26h Ausgleichsfonds
 
 (1) Die Postbeamtenkrankenkasse bildet zur dauerhaften
@@ -810,7 +758,6 @@ Ziel eines dauerhaft ausgeglichenen Haushalts nicht gefährdet wird.
 Der Verwaltungsrat hat Erträge aus dem Fondsvermögen und das
 Fondsvermögen selbst bis zum Abwicklungsende aufzubrauchen.
 
-
 #### § 26i Sonstige Einnahmen
 
 (1) Die Beihilfepauschale für die Mitglieder der Gruppe A der
@@ -830,7 +777,6 @@ ihre Verpflichtungen dadurch ablösen, dass sie einen dem ihnen
 zuzurechnenden Mitgliederbestand in der Grundversicherung
 entsprechenden Betrag in den nach § 26h Abs. 1 Satz 1 zu bildenden
 Ausgleichsfonds zahlen. § 26h Abs. 1 Satz 2 gilt entsprechend.
-
 
 #### § 26j Freistellung der Bundesrepublik Deutschland
 
@@ -883,7 +829,6 @@ mitversicherten Angehörigen.
 (6) Die Bundesrepublik Deutschland und die Aktiengesellschaften
 schließen eine vertragliche Vereinbarung zur Durchführung der
 Regelungen nach den Absätzen 1 bis 5.
-
 
 #### § 26k Verteilung des Verwaltungsaufwands
 
@@ -972,16 +917,12 @@ Verwaltungsaufwand nach Absatz 1 und die Finanzierungsbeiträge nach
 Absatz 2, auch soweit sie nicht von der Postbeamtenkrankenkasse
 getragen werden.
 
-
 ### Unterabschnitt 3 - Sonstige Regelungen im Sozialwesen
-
-
 
 #### § 27 Wohnungsfürsorge
 
 Die Bundesanstalt legt die Grundsätze der Wohnungsfürsorge für die
 Aktiengesellschaften fest.
-
 
 #### § 28 Übergangsregelung im Sozialwesen
 
@@ -1009,10 +950,7 @@ Telekommunikation Deutsche Bundespost und zur Änderung anderer Gesetze
 ergebenden Rechtsfolgen unter Betreuung des bislang erfaßten
 Personenkreises nach den bislang geltenden Regelungen weiterzuführen.
 
-
 ## Neunter Abschnitt - Übergangs- und Schlußbestimmungen
-
-
 
 ### § 29 Vermögensübergang
 
@@ -1023,7 +961,6 @@ dinglicher Rechte, die der Deutschen Bundespost persönlich eingeräumt
 sind, zu übertragen, die sie zur Wahrnehmung ihrer Aufgaben benötigt.
 Dabei gehen mit den Vermögensrechten gleichzeitig die mit ihnen im
 Zusammenhang stehenden Verbindlichkeiten und Forderungen über.
-
 
 ### § 30 Übergangsregelungen
 
@@ -1048,7 +985,6 @@ das jeweilige Rumpfgeschäftsjahr aufgestellt. Nach Inkrafttreten des
 Gesetzes zur Reorganisation der Bundesanstalt für Post und
 Telekommunikation Deutsche Bundespost und zur Änderung anderer Gesetze
 ist der Wirtschaftsplan entsprechend den Neuregelungen anzupassen.
-
 
 ### Anlage (zu § 8 Satz 1)
 

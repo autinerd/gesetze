@@ -34,12 +34,10 @@ S. 1), jeweils zuletzt geändert durch die Richtlinie 2004/50/EG des
 Europäischen Parlaments und des Rates vom 29. April 2004 (ABl. EU Nr.
 L 164 S. 114, Nr. L 220 S. 40).
 
-
 ## § 1 Anwendungsbereich
 
 Diese Verordnung gilt für die Untersuchung gefährlicher Ereignisse im
 Eisenbahnbetrieb, soweit diese dem Bund obliegt.
-
 
 ## § 2 Untersuchungs- und Meldepflicht
 
@@ -58,7 +56,6 @@ vorschreiben.
 
 (4) Die Eisenbahnen haben den Untersuchungsbehörden sämtliche für die
 Untersuchung erforderlichen Informationen zur Verfügung zu stellen.
-
 
 ## § 3 Zusammenarbeit mit anderen Mitgliedstaaten, der Agentur und den Ländern
 
@@ -84,7 +81,6 @@ Eisenbahninfrastruktur ereignet, ist die zuständige
 Genehmigungsbehörde des Landes unverzüglich hierüber zu unterrichten.
 Die Untersuchung ist im Benehmen mit ihr zu führen.
 
-
 ## § 4 Maßnahmen an der Unfallstelle
 
 (1) Eisenbahninfrastrukturunternehmen sind verpflichtet, die
@@ -108,10 +104,6 @@ Untersuchungsbeauftragten nicht berührt oder verändert werden.
 
 
 3.  Löschmaßnahmen.
-
-
-
-
 
 ## § 5 Untersuchungsbericht
 
@@ -165,7 +157,6 @@ ferner ohne den gesonderten Berichtsteil auf der Internetseite der für
 die Untersuchung schwerer Unfälle zuständigen Untersuchungsbehörde
 veröffentlicht.
 
-
 ## § 6 Sicherheitsempfehlungen
 
 (1) Die für die Untersuchung schwerer Unfälle zuständige
@@ -189,7 +180,6 @@ geplanten Maßnahmen. Im Fall einer Sicherheitsempfehlung, die durch
 einen anderen Mitgliedstaat ausgesprochen wurde, gilt Satz 3 mit der
 Maßgabe, dass die Sicherheitsbehörde diesen unterrichtet.
 
-
 ## § 7 Jahresbericht
 
 (1) Die für die Untersuchung schwerer Unfälle zuständige
@@ -202,7 +192,6 @@ auf Grund früherer Sicherheitsempfehlungen getroffenen Maßnahmen.
 Untersuchungsbehörde übermittelt der Agentur jährlich ein Exemplar des
 Jahresberichts.
 
-
 ## § 8 Aufbewahrungsfristen
 
 Sachakten über die Untersuchung von gefährlichen Ereignissen mit
@@ -210,7 +199,6 @@ Todesopfern müssen von der Untersuchungsbehörde mindestens 30 Jahre,
 Sachakten über die Untersuchung anderer gefährlicher Ereignisse müssen
 mindestens 20 Jahre aufbewahrt werden. Die Frist nach Satz 1 beginnt
 mit dem Abschluss des Verfahrens.
-
 
 ## § 9 Ordnungswidrigkeiten
 

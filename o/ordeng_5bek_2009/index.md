@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 1045
 
-
 ## (XXXX)
 
 
@@ -49,10 +48,6 @@ Fundstelle
 
 
 3.  Diese Bekanntmachung tritt am 7. Mai 2009 in Kraft.
-
-
-
-
 
 ## Schlussformel
 

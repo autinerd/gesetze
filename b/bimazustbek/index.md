@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 1454
 
-
-
 ## (XXXX)
 
 Nach § 11 Abs. 4 des Gesetzes über die Bundesanstalt für
@@ -29,7 +27,6 @@ den Gebieten der Besoldung, der Beihilfe, der Reise- und Umzugskosten
 sowie des Trennungsgeldes und die automatisierte Verarbeitung
 personenbezogener Daten auf die Oberfinanzdirektion Chemnitz, Service-
 Center Süd-Ost, übertragen hat.
-
 
 ## Schlussformel
 

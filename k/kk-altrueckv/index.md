@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 13 Abs. 22 G v. 12.4.2012 I 579
 
-
 ## Eingangsformel
 
 Auf Grund des § 171e Absatz 3 Satz 1 und 2 in Verbindung mit § 171f
@@ -32,13 +31,11 @@ Fünften Buches Sozialgesetzbuch durch Artikel 1 Nummer 8 des Gesetzes
 vom 15. Dezember 2008 (BGBl. I S. 2426) eingefügt worden sind,
 verordnet das Bundesversicherungsamt:
 
-
 ## § 1 Anwendungsbereich
 
 Die Vorschriften dieser Verordnung sind auf die Krankenkassen und die
 Verbände der Krankenkassen mit Ausnahme der landwirtschaftlichen
 Krankenkasse anzuwenden.
-
 
 ## § 2 Abgrenzung der Altersversorgungsverpflichtungen
 
@@ -48,7 +45,6 @@ Fünften Buches Sozialgesetzbuch sind für unmittelbare Zusagen auf eine
 betriebliche Altersversorgung (Direktzusagen), für Zusagen auf eine
 betriebliche Altersversorgung, die von einer Unterstützungskasse
 durchgeführt wird, sowie für Beihilfeverpflichtungen zu bilden.
-
 
 ## § 3 Versicherungsmathematische Vorgaben
 
@@ -78,7 +74,6 @@ durchschnittliche Lebenserwartung nach dem 31. Dezember 2049 endet.
 Die Regelaltersgrenze wird nach dem Geburtsjahrgang festgesetzt. Der
 Barwert der Beihilfeverpflichtungen ist unter Berücksichtigung der
 altersabhängigen Kostenentwicklung gesondert zu berechnen.
-
 
 ## § 4 Höhe, Überprüfung und Anpassung der Zuweisungsbeträge
 
@@ -140,23 +135,19 @@ zu überprüfen. Der Zuweisungsbetrag ist anzupassen, sobald sich auf
 Grund einer Überprüfung der Berechnungsgrundlagen nach Satz 1 die Höhe
 des zum 31. Dezember 2049 aufzubauenden Deckungskapitals verändert.
 
-
 ## § 5 Zahlverfahren
 
 Die jährlichen Zuweisungsbeträge sind dem Deckungskapital bis zum 31.
 Dezember des für die Zuführung maßgeblichen Kalenderjahres zuzuführen.
-
 
 ## § 6 Anlage der Mittel
 
 Das Deckungskapital zur Finanzierung der Altersrückstellungen ist nach
 § 80 des Vierten Buches Sozialgesetzbuch anzulegen.
 
-
 ## § 7 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Schlussformel
 

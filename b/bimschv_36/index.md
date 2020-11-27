@@ -19,8 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 26.11.2012 I 2363
 
-
-
 ## § 1 Einlagerer
 
 Dient das Steuerlager der Einlagerung von Energieerzeugnissen durch
@@ -31,7 +29,6 @@ nach Art und zugehöriger Menge zu benennen. Andernfalls ist davon
 auszugehen, dass die Voraussetzungen des § 37a Abs. 2 Satz 2 des
 Bundes-Immissionsschutzgesetzes in Verbindung mit § 7 Abs. 4 Satz 1
 des Energiesteuergesetzes nicht erfüllt sind.
-
 
 ## § 2 Ermittlung der für die Erfüllung der Quotenverpflichtung notwendigen Biokraftstoffmenge
 
@@ -69,7 +66,6 @@ auch hierüber Aufzeichnungen nach Absatz 1 Satz 1 zu führen. Die
 Abgabe zu dem in Satz 1 genannten Zweck ist in geeigneter Form
 nachzuweisen.
 
-
 ## § 3 Erfüllung der Quotenverpflichtung
 
 (1) Der Verpflichtete hat durch die in § 2 genannten Aufzeichnungen
@@ -89,7 +85,6 @@ Durchführungsverordnung durchgeführt wurde, gilt die Steuerentlastung
 als nicht beantragt im Sinne des § 37a Abs. 4 Satz 4 des Bundes-
 Immissionsschutzgesetzes.
 
-
 ## § 4 Nachweis der Biokraftstoffeigenschaft
 
 Der Verpflichtete hat die Biokraftstoffeigenschaft nachzuweisen. Der
@@ -103,7 +98,6 @@ Nummer 1 zuständigen Stelle die entsprechenden Analysezertifikate oder
 Untersuchungsergebnisse vorzulegen. Soweit Analysezertifikate oder
 Untersuchungsergebnisse vorliegen, die auf Grund anderer rechtlicher
 Bestimmungen gefordert sind, können diese anerkannt werden.
-
 
 ## § 5 Klimatisch abhängige Anforderungen und Prüfverfahren für beigemischte Fettsäuremethylester (FAME)
 
@@ -125,7 +119,6 @@ eine entsprechende Bescheinigung des Herstellers oder mit Zustimmung
 der nach § 14 Absatz 1 Nummer 1 zuständigen Stelle in anderer
 geeigneter Form nachzuweisen.
 
-
 ## § 6 Mitteilungspflichten des Dritten
 
 Der Dritte hat die nach § 37c Abs. 1 Satz 4 des Bundes-
@@ -136,7 +129,6 @@ ist auf Verlangen der nach § 14 Absatz 1 Nummer 1 zuständigen Stelle
 durch die Vorlage der in § 3 Abs. 2 genannten Aufzeichnungen zu
 belegen.
 
-
 ## § 6a Bagatellgrenze
 
 Die Verpflichtung nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit §
@@ -146,7 +138,6 @@ Dieselkraftstoffe, die nach § 2 Absatz 1 Nummer 1 und 4 des
 Energiesteuergesetzes zu versteuern sind, in Verkehr gebracht werden.
 Satz 1 gilt entsprechend, wenn ausschließlich Ottokraftstoff oder
 ausschließlich Dieselkraftstoff in Verkehr gebracht wird.
-
 
 ## § 7 Doppelte Gewichtung bestimmter Biokraftstoffe
 
@@ -244,7 +235,6 @@ Fassung, sind. Soweit diese Stoffe lediglich zum Zweck der doppelten
 Gewichtung dahingehend verändert worden sind, dass sie keine
 Lebensmittel mehr sind, ist Absatz 1 Satz 1 nicht anzuwenden.
 
-
 ## § 8 Doppelgewichtungsnachweis
 
 (1) Der Verpflichtete hat gegenüber der nach § 14 Absatz 1 Nummer 1
@@ -258,7 +248,6 @@ gebrachten Biokraftstoffmengen gegenüber der nach § 14 Absatz 1 Nummer
 1 zuständigen Stelle nach Maßgabe der §§ 9 bis 12 nachzuweisen, dass
 die Anrechnungsvoraussetzungen des § 7 Absatz 1 Satz 1 bis 4, Absatz 2
 und 3 eingehalten wurden.
-
 
 ## § 9 Ausstellung und Wirksamkeit von Doppelgewichtungsnachweisen
 
@@ -415,7 +404,6 @@ dass Angaben im Sinne von § 20 Absatz 1 Nummer 1 der Biokraftstoff-
 Nachhaltigkeitsverordnung die Angaben im Sinne von Absatz 1 Satz 1 und
 2 sind.
 
-
 ## § 10 Zertifikate für Schnittstellen
 
 (1) Schnittstellen, die den Doppelgewichtungsnachweis ausstellen,
@@ -455,7 +443,6 @@ von Biomasse nach § 7 Absatz 1 Satz 1. Die Schnittstellen haben
 Änderungen der Liste nach den Sätzen 1 und 2 unverzüglich der
 Zertifizierungsstelle mitzuteilen.
 
-
 ## § 11 Zertifizierungssysteme für die Ausstellung von Doppelgewichtungsnachweisen
 
 (1) Die Ausstellung des Doppelgewichtungsnachweises muss im Rahmen
@@ -469,7 +456,6 @@ Zertifizierungssysteme im Bundesanzeiger bekannt.
 sicherzustellen, dass die Anforderungen nach § 7 erfüllt werden, so
 hat die nach § 14 Absatz 1 Nummer 2 zuständige Behörde dies im
 Bundesanzeiger bekannt zu geben.
-
 
 ## § 12 Zertifizierungsstellen
 
@@ -575,13 +561,6 @@ erfüllen haben, sind verpflichtet,
 
     d)  die erforderlichen Auskünfte zu erteilen.
 
-
-
-
-
-
-
-
 ## § 13 Datenerhebung und -verarbeitung, Berichtspflichten, behördliches Verfahren
 
 Die Regelungen zur Datenerhebung und -verarbeitung, zu
@@ -592,7 +571,6 @@ die Anforderungen nach dieser Verordnung mit der Maßgabe, dass sich
 die nach § 63 durchzuführende Evaluation abweichend auf die §§ 7 bis
 13 dieser Verordnung bezieht und § 68 Absatz 1 Nummer 4 abweichend auf
 Nachweise nach § 9 Absatz 1 anzuwenden ist.
-
 
 ## § 14 Vollzugsbehörden und deren Zuständigkeit
 
@@ -652,19 +630,16 @@ nachdem Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz
 und Reaktorsicherheit hergestellt wurde, mit dem Bundesministerium der
 Finanzen abgestimmt.
 
-
 ## § 15 Zugänglichkeit der DIN-Normen
 
 DIN-Normen, auf die in dieser Verordnung verwiesen wird, sind im Beuth
 Verlag GmbH, Berlin, erschienen und in der Deutschen
 Nationalbibliothek archivmäßig gesichert hinterlegt.
 
-
 ## § 16 Übergangsvorschrift
 
 Die §§ 8 bis 14 sind nicht auf Biokraftstoffe anzuwenden, die vor dem
 1\. Januar 2013 in Verkehr gebracht werden.
-
 
 ## Anlage (zu § 4) Nachweis der Einhaltung der Normen
 

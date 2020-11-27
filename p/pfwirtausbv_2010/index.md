@@ -25,7 +25,6 @@ Geändert durch
     Berufsschule werden demnächst als Beilage im Bundesanzeiger
     veröffentlicht.
 
-
 ## Eingangsformel
 
 Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des
@@ -35,17 +34,14 @@ geändert worden ist, verordnet das Bundesministerium für Ernährung,
 Landwirtschaft und Verbraucherschutz im Einvernehmen mit dem
 Bundesministerium für Bildung und Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Pferdewirt/Pferdewirtin wird nach § 4 Absatz 1
 des Berufsbildungsgesetzes staatlich anerkannt.
 
-
 ## § 2 Dauer der Berufsausbildung
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Struktur der Ausbildung
 
@@ -65,10 +61,6 @@ und in die Ausbildung in einer der Fachrichtungen
 
 
 5.  Spezialreitweisen.
-
-
-
-
 
 ## § 4 Ausbildungsrahmenplan, Ausbildungsberufsbild
 
@@ -245,10 +237,6 @@ Gemeinsame integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 6.  Qualitätssichernde Maßnahmen.
 
-
-
-
-
 ## § 5 Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
@@ -268,7 +256,6 @@ Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den
 schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu
 führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis
 regelmäßig durchzusehen.
-
 
 ## § 6 Zwischenprüfung
 
@@ -364,10 +351,6 @@ folgende Vorgaben:
 
 3.  die Prüfungszeit beträgt 60 Minuten; innerhalb dieser Zeit soll das
     Fachgespräch in höchstens 15 Minuten durchgeführt werden.
-
-
-
-
 
 ## § 7 Abschlussprüfung in der Fachrichtung Pferdehaltung und Service
 
@@ -684,7 +667,6 @@ kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich
 sind das bisherige Ergebnis und das Ergebnis der mündlichen
 Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
-
 ## § 8 Abschlussprüfung in der Fachrichtung Pferdezucht
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die
@@ -973,7 +955,6 @@ kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich
 sind das bisherige Ergebnis und das Ergebnis der mündlichen
 Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
-
 ## § 9 Abschlussprüfung in der Fachrichtung Klassische Reitausbildung
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die
@@ -1260,7 +1241,6 @@ kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich
 sind das bisherige Ergebnis und das Ergebnis der mündlichen
 Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
-
 ## § 10 Abschlussprüfung in der Fachrichtung Pferderennen
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die
@@ -1540,7 +1520,6 @@ ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben
 kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich
 sind das bisherige Ergebnis und das Ergebnis der mündlichen
 Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
-
 
 ## § 11 Abschlussprüfung in der Fachrichtung Spezialreitweisen
 
@@ -1844,14 +1823,12 @@ kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich
 sind das bisherige Ergebnis und das Ergebnis der mündlichen
 Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
-
 ## § 12 Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
 bestehen, können unter Anrechnung der bisher zurückgelegten
 Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt
 werden, wenn die Vertragsparteien dies vereinbaren.
-
 
 ## § 13 Inkrafttreten, Außerkrafttreten
 
@@ -1860,7 +1837,6 @@ die Verordnung über die Berufsausbildung zum Pferdewirt vom 1.
 November 1975 (BGBl. I S. 2719), die durch Artikel 1 Nummer 7 der
 Verordnung vom 20. Juli 1979 (BGBl. I S. 1145) geändert worden ist,
 außer Kraft.
-
 
 ## Anlage (zu § 4 Absatz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Pferdewirt/zur Pferdewirtin
 

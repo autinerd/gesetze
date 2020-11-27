@@ -18,20 +18,17 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 16 G v. 27.7.2001 I 1887
 
-
 ## Eingangsformel
 
 Auf Grund des § 2 des Gesetzes wegen des deutsch-britischen Abkommens
 über den Rechtsverkehr vom 3. Dezember 1928 (Reichsgesetzbl. II S.
 623) verordnet die Reichsregierung:
 
-
 ## Art 1
 
 Für die Erledigung der in den Artikeln 3 und 9 des Abkommens
 vorgesehenen Angelegenheiten ist das Amtsgericht zuständig, in dessen
 Bezirk die Amtshandlung vorgenommen werden soll.
-
 
 ## Art 2
 
@@ -58,7 +55,6 @@ Person und auf Verlangen auch der Staatsanwalt zu hören.
 (4) Der Beschluss unterliegt der Beschwerde nach den §§ 567 bis 577
 der Zivilprozessordnung. Die Beschwerde steht auch dem Staatsanwalt
 zu.
-
 
 ## Art 3
 

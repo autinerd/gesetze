@@ -18,13 +18,11 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 13 Abs. 15 G v. 25.5.2009 I 1102
 
-
 ## Eingangsformel
 
 Auf Grund des § 114 Abs. 2 des Versicherungsaufsichtsgesetzes,
 eingefügt durch Artikel 10 Nr. 4 des Gesetzes vom 26. Juni 2001 (BGBl.
 I S. 1310), verordnet das Bundesministerium der Finanzen:
-
 
 ## § 1 Berechnung und Höhe der geforderten Solvabilitätsspanne
 
@@ -81,14 +79,12 @@ Prozent der ohne Berücksichtigung des Zukaufs von Versicherungsschutz
 geforderten Solvabilitätsspanne, bezogen auf das gesamte übernommene
 Risiko, begrenzt.
 
-
 ## § 2 Garantiefonds und Mindestgarantiefonds
 
 Ein Drittel der geforderten Solvabilitätsspanne gemäß § 1 bildet den
 Garantiefonds. Der Mindestbetrag des Garantiefonds beträgt 3 Millionen
 Euro. Für Pensionsfondsvereine auf Gegenseitigkeit ermäßigt sich der
 Mindestbetrag des Garantiefonds um ein Viertel.
-
 
 ## § 3 Eigenmittel
 
@@ -268,7 +264,6 @@ soweit er 50 Prozent der Eigenmittel und 50 Prozent der geforderten
 Solvabilitätsspanne nicht übersteigt; davon können höchstens 25
 Prozent auf nachrangige Darlehen mit fester Laufzeit entfallen.
 
-
 ## § 4 Berichtspflicht gegenüber der Aufsichtsbehörde
 
 (1) Der Aufsichtsbehörde sind jährlich zusammen mit dem gemäß § 341a
@@ -279,11 +274,9 @@ vorzulegen und die Eigenmittel nachzuweisen.
 (2) Die Aufsichtsbehörde kann Näheres über die Form der Einreichung
 bestimmen.
 
-
 ## § 5 Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2002 in Kraft.
-
 
 ## Schlussformel
 

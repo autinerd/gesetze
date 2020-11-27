@@ -21,7 +21,6 @@ Fundstelle
 Geändert durch
 :   AnO v. 25.10.2001 I 3227
 
-
 ## Eingangsformel
 
 Im Namen und im Einvernehmen mit
@@ -105,7 +104,6 @@ Bundesbeamtengesetzes in der Fassung der Bekanntmachung vom 31. März
 Beamtenrechtsrahmengesetzes in der Fassung der Bekanntmachung vom 31.
 März 1999 (BGBl. I S. 654), Folgendes an:
 
-
 ## I.
 
 
@@ -128,16 +126,11 @@ März 1999 (BGBl. I S. 654), Folgendes an:
 2.  Die Festsetzungsstellen sind nicht zu Entscheidungen befugt, die nach
     den Vorschriften den obersten Dienstbehörden vorbehalten sind.
 
-
-
-
-
 ## II.
 
 Abschnitt I gilt entsprechend für Beihilfeanträge ehemaliger
 Bundespräsidenten, Bundeskanzler, Bundesminister und Parlamentarischer
 Staatssekretäre.
-
 
 ## III.
 
@@ -160,10 +153,6 @@ Staatssekretäre.
     oder in Gruppen von Fällen die Vertretung abweichend zu regeln oder
     die Vertretung selbst zu übernehmen.
 
-
-
-
-
 ## IV.
 
 Die nach dieser Anordnung zuständigen Stellen führen den im Rahmen der
@@ -172,16 +161,13 @@ obersten Dienstbehörden (§ 49 des Beamtenversorgungsgesetzes und Tz.
 49\.1.2 der Allgemeinen Verwaltungsvorschrift vom 3. November 1980 -
 GBMl. S. 742) unmittelbar.
 
-
 ## V.
 
 Die Anordnung tritt am 1. Februar 2000 in Kraft.
 
-
 ## Schlussformel
 
 Der Bundesminister der Finanzen
-
 
 ## Übersicht
 

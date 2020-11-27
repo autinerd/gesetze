@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 10 V v. 10.10.2012 I 2113
 
-
 ## Eingangsformel
 
 Auf Grund des § 3 Abs. 1 Nr. 1, 3, 8 bis 11, 14 und 15 des
@@ -29,7 +28,6 @@ Nr. 5 und 6 des Pflanzenschutzgesetzes vom Bundesminister für
 Ernährung, Landwirtschaft und Forsten im Einvernehmen mit dem
 Bundesminister für Jugend, Familie und Gesundheit mit Zustimmung des
 Bundesrates verordnet:
-
 
 ## § 1
 
@@ -99,10 +97,6 @@ Im Sinne dieser Verordnung sind
     Bundesforschungsinstitut für Kulturpflanzen, gibt Wirtspflanzen im
     Bundesanzeiger bekannt, die sie als hochanfällig ansieht.
 
-
-
-
-
 ## § 2
 
 (1) Verfügungsberechtigte und Besitzer von Wirtspflanzen sind
@@ -118,7 +112,6 @@ ist verpflichtet, diese Wirtspflanzen unter Angabe der Art, der Sorte,
 der Herkunft und des Standorts oder Lagerorts der zuständigen Behörde
 auf deren Anordnung zu melden.
 
-
 ## § 3
 
 (1) Wird das Auftreten des Feuerbrandes festgestellt, so kann die
@@ -130,7 +123,6 @@ Anbauflächen abgrenzen (abgegrenztes Gebiet).
 sie bei erneuter Untersuchung keinen Befall feststellt und seit dem
 letzten Auftreten des Feuerbrandes zwei Jahre vergangen sind.
 
-
 ## § 4
 
 (1) Wirtspflanzen oder Teile von diesen, die befallen oder
@@ -140,7 +132,6 @@ werden.
 (2) Die in einem abgegrenzten Gebiet wachsenden Wirtspflanzen oder
 Teile von diesen dürfen nur mit Genehmigung der zuständigen Behörde
 aus dem Gebiet verbracht werden.
-
 
 ## § 5
 
@@ -156,7 +147,6 @@ erforderlich ist, für die Dauer von höchstens fünf Jahren verbieten,
 
 
 Das Verbot kann wiederholt werden.
-
 
 ## § 6
 
@@ -189,7 +179,6 @@ genehmigen, daß die Wirtspflanzen an anderer Stelle vernichtet werden,
 soweit hierdurch keine Gefahr einer Ausbreitung des Feuerbrandes
 entsteht.
 
-
 ## § 7
 
 Die zuständige Behörde kann, soweit es zur Bekämpfung des Feuerbrandes
@@ -205,7 +194,6 @@ erforderlich ist, anordnen, daß
 
 werden dürfen.
 
-
 ## § 8
 
 (1) Das Züchten und das Halten des Erregers des Feuerbrandes sowie das
@@ -216,14 +204,12 @@ Versuche und Züchtungsvorhaben Ausnahmen von diesem Verbot genehmigen,
 soweit hierdurch die Bekämpfung des Feuerbrandes nicht beeinträchtigt
 wird und keine Gefahr einer Ausbreitung der Krankheit entsteht.
 
-
 ## § 9
 
 Unberührt bleibt die Befugnis der Landesregierungen, durch
 Rechtsverordnung auf Grund des § 3 Abs. 3 in Verbindung mit Abs. 1 Nr.
 5 des Pflanzenschutzgesetzes anzuordnen, daß die zuständige Behörde
 den Feuerbrand bekämpft.
-
 
 ## § 10
 
@@ -253,14 +239,9 @@ Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 4.  entgegen § 8 Abs. 1 den Erreger des Feuerbrandes züchtet oder hält
     oder mit ihm arbeitet.
 
-
-
-
-
 ## § 11
 
 Diese Verordnung tritt am 1. Januar 1986 in Kraft.
-
 
 ## Schlußformel
 

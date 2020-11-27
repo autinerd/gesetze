@@ -18,11 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 V v. 19.7.2010 I 960
 
-
-
 ## Abschnitt 1 - Anwendungsbereich und Begriffsbestimmungen
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -42,7 +38,6 @@ Verpflichtungen der Bundesrepublik Deutschland. In diesem Fall ist
 gleichzeitig festzulegen, wie die Sicherheit und der Gesundheitsschutz
 der Beschäftigten nach dieser Verordnung auf andere Weise
 gewährleistet werden kann.
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -102,10 +97,7 @@ Arbeitsmedizin und die Arbeitshygiene.
 sonstige in Ausbildungseinrichtungen tätige Personen, die bei ihren
 Tätigkeiten Lärm und Vibrationen ausgesetzt sind, gleich.
 
-
 ## Abschnitt 2 - Ermittlung und Bewertung der Gefährdung; Messungen
-
-
 
 ### § 3 Gefährdungsbeurteilung
 
@@ -221,7 +213,6 @@ Arbeitsbedingungen dies erforderlich machen oder wenn sich eine
 Aktualisierung auf Grund der Ergebnisse der arbeitsmedizinischen
 Vorsorge als notwendig erweist.
 
-
 ### § 4 Messungen
 
 (1) Der Arbeitgeber hat sicherzustellen, dass Messungen nach dem Stand
@@ -250,7 +241,6 @@ aufzubewahren, die eine spätere Einsichtnahme ermöglicht.
 zusätzlich zu den Anforderungen nach Absatz 1 entsprechend den Nummern
 1\.2 und 2.2 des Anhangs durchzuführen.
 
-
 ### § 5 Fachkunde
 
 Der Arbeitgeber hat sicherzustellen, dass die Gefährdungsbeurteilung
@@ -262,10 +252,7 @@ sein. Der Arbeitgeber darf mit der Durchführung von Messungen nur
 Personen beauftragen, die über die dafür notwendige Fachkunde und die
 erforderlichen Einrichtungen verfügen.
 
-
 ## Abschnitt 3 - Auslösewerte und Schutzmaßnahmen bei Lärm
-
-
 
 ### § 6 Auslösewerte bei Lärm
 
@@ -285,7 +272,6 @@ Spitzenschalldruckpegel betragen:
 
 Bei der Anwendung der Auslösewerte wird die dämmende Wirkung eines
 persönlichen Gehörschutzes der Beschäftigten nicht berücksichtigt.
-
 
 ### § 7 Maßnahmen zur Vermeidung und Verringerung der Lärmexposition
 
@@ -354,7 +340,6 @@ Maßnahmen zur Verringerung der Lärmexposition auszuarbeiten und
 durchzuführen. Dabei sind insbesondere die Absätze 1 und 2 zu
 berücksichtigen.
 
-
 ### § 8 Gehörschutz
 
 (1) Werden die unteren Auslösewerte nach § 6 Satz 1 Nr. 2 trotz
@@ -384,10 +369,7 @@ werden, hat er unverzüglich die Gründe für diese Nichteinhaltung zu
 ermitteln und Maßnahmen zu ergreifen, die für eine dauerhafte
 Einhaltung der Anforderungen erforderlich sind.
 
-
 ## Abschnitt 4 - Expositionsgrenzwerte und Auslösewerte sowie Schutzmaßnahmen bei Vibrationen
-
-
 
 ### § 9 Expositionsgrenzwerte und Auslösewerte für Vibrationen
 
@@ -419,7 +401,6 @@ nach Nummer 1 des Anhangs ermittelt und bewertet.
 
 Die Exposition der Beschäftigten gegenüber Ganzkörper-Vibrationen wird
 nach Nummer 2 des Anhangs ermittelt und bewertet.
-
 
 ### § 10 Maßnahmen zur Vermeidung und Verringerung der Exposition durch Vibrationen
 
@@ -491,10 +472,7 @@ Exposition durch Vibrationen auszuarbeiten und durchzuführen. Dabei
 sind insbesondere die in Absatz 2 genannten Maßnahmen zu
 berücksichtigen.
 
-
 ## Abschnitt 5 - Unterweisung der Beschäftigten; Beratung durch den Ausschuss für Betriebssicherheit
-
-
 
 ### § 11 Unterweisung der Beschäftigten
 
@@ -555,7 +533,6 @@ dies aus arbeitsmedizinischen Gründen erforderlich sein sollte. Die
 arbeitsmedizinische Beratung kann im Rahmen der Unterweisung nach
 Absatz 1 erfolgen.
 
-
 ### § 12 Beratung durch den Ausschuss für Betriebssicherheit
 
 Der Ausschuss nach § 24 der Betriebssicherheitsverordnung berät das
@@ -564,19 +541,13 @@ Sicherheit und des Gesundheitsschutzes bei lärm- oder
 vibrationsbezogenen Gefährdungen. § 24 Abs. 4 und 5 der
 Betriebssicherheitsverordnung gilt entsprechend.
 
-
 ### § 13 (weggefallen)
-
-
 
 ### § 14 (weggefallen)
 
 -
 
-
 ## Abschnitt 6 - Ausnahmen, Straftaten und Ordnungswidrigkeiten, Übergangsvorschriften
-
-
 
 ### § 15 Ausnahmen
 
@@ -633,10 +604,6 @@ sofern
 
 2.  geeignete Maßnahmen getroffen werden, um die mit diesen Tätigkeiten
     verbundenen Gefährdungen auf ein Minimum zu verringern.
-
-
-
-
 
 ### § 16 Straftaten und Ordnungswidrigkeiten
 
@@ -709,7 +676,6 @@ Arbeitsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 Leben oder die Gesundheit eines Beschäftigten gefährdet, ist nach § 26
 Nr. 2 des Arbeitsschutzgesetzes strafbar.
 
-
 ### § 17 Übergangsvorschriften
 
 (1) Für den Bereich des Musik- und Unterhaltungssektors ist diese
@@ -731,7 +697,6 @@ Expositionsgrenzwert für Ganzkörper-Vibrationen in Z-Richtung von A(8)
 = 0,8
 m/s (hoch) 2 bis höchstens 1,15
 m/s (hoch) 2 überschritten werden.
-
 
 ### Anhang Vibrationen
 

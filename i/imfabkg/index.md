@@ -19,12 +19,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 155 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -35,14 +33,12 @@ Ergänzungen von 1968: BGBl. 1968 II S. 1227), wird zugestimmt. Die im
 folgenden als Übereinkommen bezeichnete Neufassung wird nachstehend
 veröffentlicht.
 
-
 ## Art 2
 
 Das Recht aus Artikel V des Übereinkommens, Mittel des Internationalen
 Währungsfonds innerhalb der Reservetranche im Sinne des Artikels XXX
 Buchstabe c des Übereinkommens zu beantragen, übt die Deutsche
 Bundesbank aus.
-
 
 ## Art 3
 
@@ -60,14 +56,12 @@ Bundesrepublik Deutschland im Zusammenhang mit Krediten der Deutschen
 Bundesbank an den Fonds überträgt, gehen auf die Deutsche Bundesbank
 über.
 
-
 ## Art 4
 
 Die Deutsche Bundesbank wickelt den Geschäftsverkehr der
 Bundesrepublik Deutschland mit dem Internationalen Währungsfonds nach
 Artikel V Abschnitt 1 des Übereinkommens ab. Sie ist
 Hinterlegungsstelle nach Artikel XIII Abschnitt 2 des Übereinkommens.
-
 
 ## Art 5
 
@@ -92,7 +86,6 @@ Stellvertretenden Exekutivdirektor nach Weisung des Bundesministeriums
 der Finanzen. Satz 2 gilt entsprechend für die Bestellung eines
 zeitweiligen Stellvertretenden Exekutivdirektors.
 
-
 ## Art 6
 
 (1) Der Gouverneur sowie das Mitglied im Rat auf Ministerebene üben
@@ -105,13 +98,11 @@ auf Ministerebene sowie die Erklärungsberechtigten im
 Exekutivdirektorium handeln auf Weisungen des Bundesministeriums der
 Finanzen.
 
-
 ## Art 7
 
 Die Zusammenarbeit zwischen der Bundesregierung und der Deutschen
 Bundesbank bei der Anwendung des Übereinkommens wird in einer
 Verwaltungsvereinbarung geregelt.
-
 
 ## Art 8
 
@@ -119,17 +110,14 @@ Die Bundesregierung unterrichtet den Deutschen Bundestag und den
 Bundesrat über Vorgänge von besonderer Bedeutung, die sich bei der
 Anwendung des Übereinkommens ergeben.
 
-
 ## Art 9
 
 -
-
 
 ## Art 10
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
-
 
 ## Art 11
 

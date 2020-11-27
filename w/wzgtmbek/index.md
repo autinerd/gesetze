@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   RGBl: 1899, 543
 
-
-
 ## (XXXX)
 
 Auf Grund einer Vereinbarung mit der Regierung der Republik Guatemala

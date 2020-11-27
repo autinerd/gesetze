@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1996, 210
 
-
-
 ## Art 1
 
 Dem in Montreal am 10. Mai 1984 von der Bundesrepublik Deutschland
@@ -27,7 +25,6 @@ unterzeichneten Protokoll zur Änderung des Abkommens vom 7. Dezember
 zuletzt geändert durch das Protokoll vom 16. Oktober 1974 (BGBl. 1983
 II S. 763), wird zugestimmt. Das Protokoll wird nachstehend mit einer
 amtlichen deutschen Übersetzung veröffentlicht.
-
 
 ## Art 2
 
@@ -41,7 +38,6 @@ nicht, nicht richtig oder nicht rechtzeitig befolgt. Die
 Ordnungswidrigkeit kann mit einer Geldbuße bis zu zehntausend Deutsche
 Mark geahndet werden. Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr.
 1 des Gesetzes über Ordnungswidrigkeiten ist das Luftfahrt-Bundesamt.
-
 
 ## Art 3
 

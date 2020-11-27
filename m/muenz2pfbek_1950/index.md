@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Bek. v. 11.12.1968 I 1316
 
-
 ## (XXXX)
 
 (1) Auf Grund des Gesetzes über die Ausprägung von Scheidemünzen vom
@@ -43,7 +42,6 @@ unteren Rand, durch je einen Punkt vom Beginn und Ende der Umschrift
 getrennt, die Jahreszahl. Die Mitte zeigt einen aufrecht stehenden
 fünfblättrigen Eichenzweig, der mit seinem unteren Ende auf einem
 waagerecht angebrachten Stäbchen ruht.
-
 
 ## Schlußformel
 

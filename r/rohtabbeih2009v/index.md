@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 365
 
-
 ## Eingangsformel
 
 Auf Grund des § 6 Absatz 1 Nummer 1 Buchstabe g und Nummer 2 des
@@ -26,7 +25,6 @@ Nummer 3 des Gesetzes vom 29. Juli 2009 (BGBl. I S. 2314), verordnet
 das Bundesministerium für Ernährung, Landwirtschaft und
 Verbraucherschutz im Einvernehmen mit den Bundesministerien der
 Finanzen und für Wirtschaft und Technologie:
-
 
 ## § 1
 
@@ -65,7 +63,6 @@ landwirtschaftlicher Betriebe nach den Titeln IV und V der Verordnung
 (2) Der in Absatz 1 festgesetzte Beihilfebetrag bezieht sich auf das
 nach Artikel 171cj Absatz 2 der Verordnung (EG) Nr. 1973/2004
 feuchtigkeitskorrigierte Gewicht.
-
 
 ## § 2
 

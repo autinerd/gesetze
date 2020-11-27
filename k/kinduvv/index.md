@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 17.7.2009 I 2134 (3557)
 
-
 ## § 1 Formulare
 
 (1) Für das vereinfachte Verfahren zur Festsetzung des Unterhalts für
@@ -60,7 +59,6 @@ ein minderjähriges Kind werden verwendet
 
 verlangt wird.
 
-
 ## § 2 Ausführung der Formulare
 
 (1) Das in Anlage 1 bestimmte Formular für den Antrag auf Festsetzung
@@ -85,7 +83,6 @@ ausgedruckt werden. Auf den Ausdrucken soll der Hersteller der Datei
 erkennbar und in einer Kurzbezeichnung die Fundstelle des Formulars im
 Bundesgesetzblatt angegeben sein.
 
-
 ## § 3 Zulässige Abweichungen
 
 Folgende Abweichungen von den in den Anlagen 1 und 2 bestimmten
@@ -106,10 +103,6 @@ Formularen sind zulässig:
     oder aus anderen Gründen Ausfüllfelder für weitere Angaben notwendig
     sind.
 
-
-
-
-
 ## § 4 Übergangsvorschrift
 
 (1) Soweit nach den in Anlage 1 und 2 bestimmten Formularen zur
@@ -128,18 +121,9 @@ Verfahren Unterhaltsbeträge, die vor dem Inkrafttreten einer Änderung
 dieser Verordnung fällig geworden sind, können für diese Verfahren
 auch die bis dahin gültigen Formulare verwendet werden.
 
-
 ## Anlage 1
 
 (Fundstelle: BGBl. I 2009, 3558 - 3565)
-
-
-
-
-
-
-
-
 
 ## Anlage 2
 

@@ -19,14 +19,12 @@ Fundstelle
 Geändert durch
 :   Art. 24 G v. 18.2.1986 I 265
 
-
 ## Eingangsformel
 
 Auf Grund des § 10 Abs. 3 und des § 11 Abs. 3 in Verbindung mit § 10
 Abs. 3 des Energiesicherungsgesetzes vom 9. November 1973
 (Bundesgesetzbl. I S. 1585) verordnet die Bundesregierung mit
 Zustimmung des Bundesrates:
-
 
 ## § 1 Antrag, zuständige Behörde
 
@@ -37,7 +35,6 @@ auf Antrag durch die zuständige Behörde festgesetzt.
 
 (2) Zuständige Behörde ist die Behörde, die eine Maßnahme auf Grund
 einer nach dem Gesetz erlassenen Rechtsverordnung angeordnet hat.
-
 
 ## § 2 Erklärung über Mitberechtigte
 
@@ -54,10 +51,6 @@ oder geltend machen können. Die Erklärung ist zuzustellen
 
 2.  den nach Satz 1 als Berechtigte benannten Personen.
 
-
-
-
-
 ## § 3 Gütliche Einigung
 
 (1) Vor der Festsetzung der Entschädigung oder des Härteausgleichs hat
@@ -69,7 +62,6 @@ zuständigen Behörde bekannten Berechtigten.
 (2) Einigen sich die Beteiligten, so hat die zuständige Behörde eine
 Niederschrift über die Einigung aufzunehmen und den Beteiligten eine
 beglaubigte Abschrift zuzustellen.
-
 
 ## § 4 Festsetzung der Entschädigung und des Härteausgleichs
 
@@ -91,7 +83,6 @@ des Zahlungsempfängers, so hat sie anzuordnen, daß der als
 Entschädigung oder Härteausgleich zu zahlende Geldbetrag unter
 Verzicht auf das Recht der Rücknahme zu hinterlegen ist.
 
-
 ## § 5 Vollstreckung
 
 (1) Die Niederschrift über die Einigung nach § 3 Abs. 2 ist nach
@@ -111,7 +102,6 @@ Geschäftsstelle dieses Gerichts. In den Fällen der §§ 731, 767 bis
 dessen Bezirk die zuständige Behörde ihren Sitz hat, an die Stelle des
 Prozeßgerichts.
 
-
 ## § 6 Hinterlegung
 
 (1) Hat der Entschädigungsberechtigte im Falle der Anordnung einer
@@ -129,7 +119,6 @@ Betrag an die Stelle des Gutes. Im übrigen bestimmen sich die Rechte
 auf den hinterlegten Betrag nach dem zwischen den Beteiligten
 bestehenden Rechtsverhältnis.
 
-
 ## § 7 Folgen der Hinterlegung
 
 (1) Durch Hinterlegung in den Fällen des § 4 Abs. 3 und des § 6 wird
@@ -141,7 +130,6 @@ ist.
 
 (3) Andere Vorschriften, nach denen die Hinterlegung geboten oder
 statthaft ist, bleiben unberührt.
-
 
 ## § 8 Klagen wegen der hinterlegten Summe
 
@@ -159,7 +147,6 @@ das sich ein Grundpfandrecht, eine Schiffshypothek oder ein
 Registerpfandrecht eines Beteiligten erstreckt, so sind auf das
 Verteilungsverfahren die Vorschriften über die Verteilung des Erlöses
 im Falle der Zwangsversteigerung sinngemäß anzuwenden.
-
 
 ## § 9 Widerspruch gegen den Festsetzungsbescheid
 
@@ -187,7 +174,6 @@ Widerspruchsbescheid. Diesen erläßt
 
 (4) Der Widerspruchsbescheid ist zu begründen, mit einer
 Rechtsmittelbelehrung zu versehen und zuzustellen.
-
 
 ## § 10 Klage auf Entschädigung oder Härteausgleich
 
@@ -226,7 +212,6 @@ eines Beteiligten, der zur Hauptsache keinen Antrag gestellt hat,
 entscheidet das Gericht auf Antrag des Beteiligten nach billigem
 Ermessen.
 
-
 ## § 11 Klage in Sonderfällen
 
 Hat eine oberste Bundes- oder oberste Landesbehörde die Entschädigung
@@ -234,11 +219,9 @@ oder den Härteausgleich festgesetzt, so kann die Klage nach § 10 ohne
 vorherige Einlegung eines Widerspruchs binnen zwei Monaten nach
 Zustellung des Festsetzungsbescheides erhoben werden.
 
-
 ## § 12
 
 -
-
 
 ## § 13 Rückzahlungsbescheid
 
@@ -263,11 +246,9 @@ der Widerruf ausgesprochen wird, zu verbinden.
 Vorschriften der §§ 3 bis
 12              sinngemäß anzuwenden.
 
-
 ## § 14
 
 -
-
 
 ## § 15 Verjährung
 
@@ -278,13 +259,11 @@ gelten sinngemäß; der Klageerhebung (§ 209 des Bürgerlichen
 Gesetzbuchs) steht die Stellung des Antrages bei der zuständigen
 Behörde gleich.
 
-
 ## § 16 Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit § 19 des
 Energiesicherungsgesetzes auch im Land Berlin.
-
 
 ## § 17 Inkrafttreten
 

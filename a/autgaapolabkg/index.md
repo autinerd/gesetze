@@ -17,13 +17,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1994, 67
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -33,7 +30,6 @@ Autobahnzusammenschluß und den Bau von Grenzabfertigungsanlagen für
 den neuen Grenzübergang im Raum Görlitz und Zgorzelec sowie dem
 dazugehörigen Protokoll vom selben Tage wird zugestimmt. Das Abkommen
 und das Protokoll werden nachstehend veröffentlicht.
-
 
 ## Art 2
 
@@ -46,7 +42,6 @@ der Einfuhr für die öffentlichen Bauverwaltungen.
 
 (3) Die in Artikel 9 des Abkommens vorgesehenen steuerlichen
 Bestimmungen sind mit Wirkung vom 1. August 1992 anzuwenden.
-
 
 ## Art 3
 

@@ -21,12 +21,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 5 G v. 9.12.2004 I 3235
 
-
 ## -
 
 Der Bundestag hat mit Zustimmung des Bundesrats das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -36,7 +34,6 @@ Sowjetrepubliken über die Bedingungen des befristeten Aufenthalts und
 die Modalitäten des planmäßigen Abzugs der sowjetischen Truppen aus
 dem Gebiet der Bundesrepublik Deutschland wird zugestimmt. Der Vertrag
 wird nachstehend veröffentlicht.
-
 
 ## Art 2
 
@@ -63,7 +60,6 @@ Durchführung der Zuordnung ist das Vermögenszuordnungsgesetz mit der
 Maßgabe anzuwenden, daß in jedem Fall der Oberfinanzpräsident
 zuständig ist. Ansprüche nach dem Vermögensgesetz bleiben unberührt.
 
-
 ## Art 3
 
 (1) Das Ersuchen um Übergabe und die Zustimmung zur Abgabe einer
@@ -79,12 +75,10 @@ Ersuchen um Rechtshilfe in Strafsachen nach Artikel 19 des Vertrags.
 Vorschriften des Gerichtsverfassungsgesetzes und der
 Strafprozeßordnung entsprechend.
 
-
 ## Art 4
 
 Artikel 24 des Vertrags ist nach den folgenden besonderen Bestimmungen
 auszuführen:
-
 
 ## § 1
 
@@ -112,14 +106,12 @@ Lauf der Frist mit dem Zeitpunkt, in dem der Geschädigte von dem
 Schaden hätte Kenntnis erlangen müssen; § 852 Abs. 1 Halbsatz 2 des
 Bürgerlichen Gesetzbuches bleibt unberührt.
 
-
 ## § 2
 
 (1) Zuständige deutsche Behörde ist die Bundesanstalt für
 Immobilienaufgaben.
 
 (2) (weggefallen)
-
 
 ## § 3
 
@@ -139,7 +131,6 @@ Antrag anzugeben.
 (4) Die Behörde hat den Eingang des Antrags unter Angabe des
 Eingangstags schriftlich zu bestätigen.
 
-
 ## § 4
 
 (1) Die Behörde hat dem Antragsteller ihre Entschließung darüber
@@ -155,7 +146,6 @@ zuzustellen.
 (3) Einer Mitteilung nach Absatz 1 bedarf es nicht, wenn und soweit
 zwischen der Behörde und dem Antragsteller eine Vereinbarung über die
 zu gewährende Entschädigung abgeschlossen wird.
-
 
 ## § 5
 
@@ -178,7 +168,6 @@ ihre Entschließung mitgeteilt hat. Der Klage hat in diesem Fall die
 Aufforderung an die Behörde vorauszugehen, dem Antragsteller innerhalb
 eines Monats ihre Entschließung mitzuteilen.
 
-
 ## § 6
 
 (1) Hat die Behörde einen geltend gemachten Anspruch in vollem Umfang
@@ -194,7 +183,6 @@ der Vereinbarung unverzüglich nach deren Wirksamwerden auszuzahlen.
 Umfang gewährt werden, wenn der Anspruch dem Grunde nach
 gerechtfertigt ist.
 
-
 ## § 7
 
 Bei Schäden an Liegenschaften oder bei Verlust oder Beschädigung von
@@ -206,7 +194,6 @@ Geschädigte von der Freigabe Kenntnis erlangt hat. Der Lauf der in § 1
 Abs. 4 Satz 1 genannten Frist beginnt mit der Freigabe der Sache; § 1
 Abs. 4 Satz 2 gilt entsprechend.
 
-
 ## Art 5
 
 Die Beeinträchtigung des Eigentums oder eines sonstigen Rechts an
@@ -214,7 +201,6 @@ einem Grundstück durch das Vorhandensein, die Nutzung oder die
 Instandhaltung von Fernmeldelinien nach Nummer VI der Anlage 2 zu dem
 Vertrag ist von dem Berechtigten im bisherigen Umfang
 entschädigungslos zu dulden.
-
 
 ## Art 6
 

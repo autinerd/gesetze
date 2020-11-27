@@ -15,13 +15,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1974, 1037
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## § 1
 
@@ -58,10 +55,6 @@ Satzung sicherstellt, daß
     Mehrheit der Stimmen der Vertreter der in Nummer 3 genannten
     Körperschaften nicht erfolgen kann.
 
-
-
-
-
 ## § 2
 
 Mit der Eintragung der Verschmelzung in das Handelsregister des Sitzes
@@ -69,11 +62,9 @@ der übertragenden Gesellschaft wird die gemäß § 1 Abs. 2 errichtete
 Stiftung an Stelle der bisherigen Aktionäre der übertragenden
 Aktiengesellschaft Aktionär der übernehmenden Gesellschaft.
 
-
 ## § 3
 
 -
-
 
 ## § 4
 
@@ -87,18 +78,15 @@ Die §§ 23, 25 der Dritten Durchführungsverordnung zum Aktiengesetz
 sind noch bis zur Eintragung der Verschmelzung in das Handelsregister
 am Sitz der Deutschen Industriebank anzuwenden.
 
-
 ## § 5
 
 -
-
 
 ## § 6
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
 im Land Berlin.
-
 
 ## § 7
 

@@ -18,8 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 4 G v. 3.5.2012 I 958
 
-
-
 ## § 1 Betriebskosten
 
 (1) Betriebskosten sind die Kosten, die dem Eigentümer oder
@@ -46,10 +44,6 @@ darf nicht angesetzt werden.
     Abnutzung, Alterung und Witterungseinwirkung entstehenden baulichen
     oder sonstigen Mängel ordnungsgemäß zu beseitigen (Instandhaltungs-
     und Instandsetzungskosten).
-
-
-
-
 
 ## § 2 Aufstellung der Betriebskosten
 

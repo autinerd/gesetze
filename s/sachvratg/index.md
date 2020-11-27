@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 128 V v. 31.10.2006 I 2407
 
-
 ## § 1
 
 (1) Zur periodischen Begutachtung der gesamtwirtschaftlichen
@@ -45,7 +44,6 @@ dürfen auch nicht während des letzten Jahres vor der Berufung zum
 Mitglied des Sachverständigenrates eine derartige Stellung innegehabt
 haben.
 
-
 ## § 2
 
 Der Sachverständigenrat soll in seinen Gutachten die jeweilige
@@ -66,7 +64,6 @@ soll Fehlentwicklungen und Möglichkeiten zu deren Vermeidung oder
 deren Beseitigung aufzeigen, jedoch keine Empfehlungen für bestimmte
 wirtschafts- und sozialpolitische Maßnahmen aussprechen.
 
-
 ## § 3
 
 (1) Der Sachverständigenrat ist nur an den durch dieses Gesetz
@@ -76,7 +73,6 @@ begründeten Auftrag gebunden und in seiner Tätigkeit unabhängig.
 einzelnen Fragen eine abweichende Auffassung, so hat sie die
 Möglichkeit, diese in den Gutachten zum Ausdruck zu bringen.
 
-
 ## § 4
 
 Der Sachverständigenrat kann vor Abfassung seiner Gutachten ihm
@@ -84,7 +80,6 @@ geeignet erscheinenden Personen, insbesondere Vertretern von
 Organisationen des wirtschaftlichen und sozialen Lebens, Gelegenheit
 geben, zu wesentlichen sich aus seinem Auftrag ergebenden Fragen
 Stellung zu nehmen.
-
 
 ## § 5
 
@@ -97,7 +92,6 @@ Deutschen Bundesbank sind auf ihr Verlangen zu hören.
 
 (3) Die Behörden des Bundes und der Länder leisten dem
 Sachverständigenrat Amtshilfe.
-
 
 ## § 6
 
@@ -122,7 +116,6 @@ sie; hinsichtlich des Zeitpunktes der Veröffentlichung führt er das
 Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie
 herbei.
 
-
 ## § 7
 
 (1) Die Mitglieder des Sachverständigenrates werden auf Vorschlag der
@@ -145,7 +138,6 @@ dem Bundespräsidenten niederzulegen.
 für die Dauer der Amtszeit des ausgeschiedenen Mitglieds berufen;
 Absatz 2 gilt entsprechend.
 
-
 ## § 8
 
 (1) Die Beschlüsse des Sachverständigenrates bedürfen der Zustimmung
@@ -156,7 +148,6 @@ für die Dauer von drei Jahren.
 
 (3) Der Sachverständigenrat gibt sich eine Geschäftsordnung.
 
-
 ## § 9
 
 Das Statistische Bundesamt nimmt die Aufgaben einer Geschäftsstelle
@@ -165,7 +156,6 @@ besteht in der Vermittlung und Zusammenstellung von Quellenmaterial,
 der technischen Vorbereitung der Sitzungen des Sachverständigenrates,
 dem Druck und der Veröffentlichung der Gutachten sowie der Erledigung
 der sonst anfallenden Verwaltungsaufgaben.
-
 
 ## § 10
 
@@ -176,7 +166,6 @@ Beratungsunterlagen verpflichtet. Die Pflicht zur Verschwiegenheit
 bezieht sich auch auf Informationen, die dem Sachverständigenrat
 gegeben und als vertraulich bezeichnet werden.
 
-
 ## § 11
 
 (1) Die Mitglieder des Sachverständigenrates erhalten eine pauschale
@@ -186,13 +175,11 @@ dem Bundesministerium des Innern festgesetzt.
 
 (2) Die Kosten des Sachverständigenrates trägt der Bund.
 
-
 ## § 12
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
 im Land Berlin.
-
 
 ## § 13
 

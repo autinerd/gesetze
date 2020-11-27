@@ -15,13 +15,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2000, 1846
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## § 1 Zweck des Gesetzes
 
@@ -29,7 +26,6 @@ Zur Milderung von Härten, die durch den Anstieg der Energiepreise
 entstanden sind oder entstehen werden, wird für die Heizperiode
 2000/2001 ein einmaliger Heizkostenzuschuss (Zuschuss) nach Maßgabe
 dieses Gesetzes gewährt.
-
 
 ## § 2 Anspruchsberechtigte, Einkommen
 
@@ -77,7 +73,6 @@ Gesetz, das dieses für anwendbar erklärt, mit Ausnahme des
 Übergangsgeldes nach § 26a des Bundesversorgungsgesetzes, sind kein
 Einkommen im Sinne des Absatzes 1 Satz 1 Nr. 2.
 
-
 ## § 3 Höhe des Zuschusses
 
 Der Zuschuss beträgt 5 Deutsche Mark je Quadratmeter Wohnfläche. Bei
@@ -86,7 +81,6 @@ Bundesausbildungsförderungsgesetz oder Berufsausbildungsbeihilfe oder
 Ausbildungsgeld nach dem Dritten Buch Sozialgesetzbuch und bei
 Bewohnern eines Heimes im Sinne des Heimgesetzes ist eine Wohnfläche
 von 20 Quadratmetern zu Grunde zu legen.
-
 
 ## § 4 Amtsgrundsatz, Antrag
 
@@ -102,7 +96,6 @@ von der Landesregierung bestimmte Stelle zu richten. Die Antragsfrist
 gilt auch als gewahrt, wenn der Antrag bis zu dem genannten Zeitpunkt
 bei einer nicht zuständigen Stelle eingeht; in diesem Falle ist der
 Antrag unverzüglich an die zuständige Stelle weiterzuleiten.
-
 
 ## § 5 Kostenerstattung des Bundes
 
@@ -197,13 +190,11 @@ Die Zahlungen können von den Ländern nach Inkrafttreten dieses
 Gesetzes nach Maßgabe der haushaltsrechtlichen Vorschriften aus dem
 Bundeshaushalt abgerufen werden.
 
-
 ## § 6 Entsprechend anzuwendende Vorschriften
 
 Die Vorschriften des Ersten und des Zehnten Buches Sozialgesetzbuch
 gelten entsprechend, soweit dieses Gesetz keine abweichende Regelung
 trifft.
-
 
 ## § 7 Inkrafttreten
 

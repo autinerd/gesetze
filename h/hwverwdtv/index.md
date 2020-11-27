@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 G v. 22. 6.2004 I 1314
 
-
 ## Eingangsformel
 
 Auf Grund des § 7 Abs. 1 Satz 2 des Gesetzes zur Ordnung des Handwerks
@@ -28,7 +27,6 @@ Einführungsgesetz zum Gesetz über Ordnungswidrigkeiten vom 24. Mai
 1968 (Bundesgesetzblatt I S. 503), wird mit Zustimmung des Bundesrates
 verordnet:
 
-
 ## § 1
 
 Die in der Anlage zu dieser Verordnung in Spalte I aufgeführten
@@ -36,21 +34,17 @@ zulassungspflichtige Handwerke sind mit den unter der gleichen Nummer
 in Spalte II aufgeführten zulassungspflichtigen Handwerken im Sinne
 des § 7 Abs. 1 Satz 2 der Handwerksordnung verwandt.
 
-
 ## § 2
 
 (weggefallen)
-
 
 ## § 3
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesminister für Wirtschaft
-
 
 ## Anlage (zu § 1) Verzeichnis der verwandten Handwerke
 
@@ -175,10 +169,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
     *   Orthopädieschuhmacher
 
     *   Orthopädietechniker (diabetes-adaptierte Fußbettungen)
-
-
-
-
 
 ## Anhang EV Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet B Abschnitt III (BGBl. II 1990, 889, 998) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 

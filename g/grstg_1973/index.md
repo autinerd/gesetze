@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 38 G v. 19.12.2008 I 2794
 
-
 ## Abschnitt I - Steuerpflicht
-
-
 
 ### § 1 Heberecht
 
@@ -36,7 +33,6 @@ Land zu.
 die Landesregierung durch Rechtsverordnung, wer die nach diesem Gesetz
 den Gemeinden zustehenden Befugnisse ausübt.
 
-
 ### § 2 Steuergegenstand
 
 Steuergegenstand ist der Grundbesitz im Sinne des Bewertungsgesetzes:
@@ -49,10 +45,6 @@ Steuergegenstand ist der Grundbesitz im Sinne des Bewertungsgesetzes:
 2.  die Grundstücke (§§ 68, 70 des Bewertungsgesetzes). Diesen stehen die
     in § 99 Abs. 1 Nr. 1 des Bewertungsgesetzes bezeichneten
     Betriebsgrundstücke gleich.
-
-
-
-
 
 ### § 3 Steuerbefreiung für Grundbesitz bestimmter Rechtsträger
 
@@ -138,7 +130,6 @@ nicht anzunehmen bei Betrieben gewerblicher Art von juristische
 Personen des öffentlichen Rechts im Sinne des
 Körperschaftsteuergesetzes.
 
-
 ### § 4 Sonstige Steuerbefreiungen
 
 Soweit sich nicht bereits eine Befreiung nach § 3 ergibt, sind von der
@@ -198,10 +189,6 @@ Grundsteuer befreit
     demjenigen, der ihn benutzt, oder einer juristischen Person des
     öffentlichen Rechts zuzurechnen sein.
 
-
-
-
-
 ### § 5 Zu Wohnzwecken benutzter Grundbesitz
 
 (1) Dient Grundbesitz, der für steuerbegünstigte Zwecke (§§ 3 und 4)
@@ -237,7 +224,6 @@ benutzt wird, zugleich Wohnzwecken, gilt die Befreiung nur für
 (2) Wohnungen sind stets steuerpflichtig, auch wenn die
 Voraussetzungen des Absatzes 1 vorliegen.
 
-
 ### § 6 Land- und forstwirtschaftlich genutzter Grundbesitz
 
 Wird Grundbesitz, der für steuerbegünstigte Zwecke (§§ 3 und 4)
@@ -255,17 +241,12 @@ die Befreiung nur für
 
 3.  Grundbesitz, der unter § 4 Nr. 1 bis 4 fällt.
 
-
-
-
-
 ### § 7 Unmittelbare Benutzung für einen steuerbegünstigten Zweck
 
 Die Befreiung nach den §§ 3 und 4 tritt nur ein, wenn der
 Steuergegenstand für den steuerbegünstigten Zweck unmittelbar benutzt
 wird. Unmittelbare Benutzung liegt vor, sobald der Steuergegenstand
 für den steuerbegünstigten Zweck hergerichtet wird.
-
 
 ### § 8 Teilweise Benutzung für einen steuerbegünstigten Zweck
 
@@ -280,7 +261,6 @@ verschiedenen Zwecke möglich ist, so ist der Steuergegenstand oder der
 Teil des Steuergegenstandes nur befreit, wenn die steuerbegünstigten
 Zwecke überwiegen.
 
-
 ### § 9 Stichtag für die Festsetzung der Grundsteuer, Entstehung der Steuer
 
 (1) Die Grundsteuer wird nach den Verhältnissen zu Beginn des
@@ -288,7 +268,6 @@ Kalenderjahres festgesetzt.
 
 (2) Die Steuer entsteht mit dem Beginn des Kalenderjahres, für das die
 Steuer festzusetzen ist.
-
 
 ### § 10 Steuerschuldner
 
@@ -301,7 +280,6 @@ für die wirtschaftliche Einheit des belasteten Grundstücks.
 
 (3) Ist der Steuergegenstand mehreren Personen zugerechnet, so sind
 sie Gesamtschuldner.
-
 
 ### § 11 Persönliche Haftung
 
@@ -317,15 +295,11 @@ Beginn des letzten vor der Übereignung liegenden Kalenderjahres zu
 entrichten ist. Das gilt nicht für Erwerbe aus einer Insolvenzmasse
 und für Erwerbe im Vollstreckungsverfahren.
 
-
 ### § 12 Dingliche Haftung
 
 Die Grundsteuer ruht auf dem Steuergegenstand als öffentliche Last.
 
-
 ## Abschnitt II - Bemessung der Grundsteuer
-
-
 
 ### § 13 Steuermeßzahl und Steuermeßbetrag
 
@@ -342,12 +316,10 @@ Steuergegenstand maßgebend ist.
 Steuermeßbetrags die Summe der beiden Einheitswerte zugrunde zu legen,
 die nach § 92 des Bewertungsgesetzes festgestellt werden.
 
-
 ### § 14 Steuermeßzahl für Betriebe der Land- und Forstwirtschaft
 
 Für Betriebe der Land- und Forstwirtschaft beträgt die Steuermeßzahl 6
 vom Tausend.
-
 
 ### § 15 Steuermeßzahl für Grundstücke
 
@@ -365,10 +337,6 @@ vom Tausend.
 
 2.  für Zweifamilienhäuser im Sinne des § 75 Abs. 6 des Bewertungsgesetzes
     3,1 vom Tausend.
-
-
-
-
 
 ### § 16 Hauptveranlagung
 
@@ -390,7 +358,6 @@ abgelaufen, so kann die Hauptveranlagung unter Zugrundelegung der
 Verhältnisse vom Hauptveranlagungszeitpunkt mit Wirkung für einen
 späteren Veranlagungszeitpunkt vorgenommen werden, für den diese Frist
 noch nicht abgelaufen ist.
-
 
 ### § 17 Neuveranlagung
 
@@ -441,7 +408,6 @@ des Wirksamwerdens der Steuermeßbeträge (§ 16 Abs. 2) ein, so wird die
 Neuveranlagung auf den Zeitpunkt des Wirksamwerdens der
 Steuermeßbeträge vorgenommen.
 
-
 ### § 18 Nachveranlagung
 
 (1) Wird eine Nachfeststellung (§ 23 Abs. 1 des Bewertungsgesetzes)
@@ -474,7 +440,6 @@ des Wirksamwerdens der Steuermeßbeträge (§ 16 Abs. 2) ein, so wird die
 Nachveranlagung auf den Zeitpunkt des Wirksamwerdens der
 Steuermeßbeträge vorgenommen.
 
-
 ### § 19 Anzeigepflicht
 
 Jede Änderung in der Nutzung oder in den Eigentumsverhältnissen eines
@@ -483,7 +448,6 @@ hat derjenige anzuzeigen, der nach § 10 als Steuerschuldner in
 Betracht kommt. Die Anzeige ist innerhalb von drei Monaten nach
 Eintritt der Änderung bei dem Finanzamt zu erstatten, das für die
 Festsetzung des Steuermeßbetrags zuständig ist.
-
 
 ### § 20 Aufhebung des Steuermeßbetrags
 
@@ -529,7 +493,6 @@ des Wirksamwerdens der Steuermeßbeträge (§ 16 Abs. 2) ein, so wird die
 Aufhebung auf den Zeitpunkt des Wirksamwerdens der Steuermeßbeträge
 vorgenommen.
 
-
 ### § 21 Änderung von Steuermeßbescheiden
 
 Bescheide über die Neuveranlagung oder die Nachveranlagung von
@@ -537,7 +500,6 @@ Steuermeßbeträgen können schon vor dem maßgebenden
 Veranlagungszeitpunkt erteilt werden. Sie sind zu ändern oder
 aufzuheben, wenn sich bis zu diesem Zeitpunkt Änderungen ergeben, die
 zu einer abweichenden Festsetzung führen.
-
 
 ### § 22 Zerlegung des Steuermeßbetrags
 
@@ -574,7 +536,6 @@ Zerlegungsanteile, so sind diese maßgebend.
 fünfundzwanzig Euro, so ist dieser Anteil der Gemeinde zuzuweisen, der
 nach Absatz 1 der größte Zerlegungsanteil zusteht.
 
-
 ### § 23 Zerlegungsstichtag
 
 (1) Der Zerlegung des Steuermeßbetrags werden die Verhältnisse in dem
@@ -589,7 +550,6 @@ Jahres neu zu ermitteln, wenn wenigstens bei einer Gemeinde der neue
 Anteil um mehr als ein Zehntel, mindestens aber um zehn Euro von ihrem
 bisherigen Anteil abweicht.
 
-
 ### § 24 Ersatz der Zerlegung durch Steuerausgleich
 
 Die Landesregierung kann durch Rechtsverordnung bestimmen, daß bei
@@ -602,10 +562,7 @@ Steueraufkommen der Sitzgemeinde werden die übrigen Gemeinden
 beteiligt. Die Beteiligung soll annähernd zu dem Ergebnis führen, das
 bei einer Zerlegung einträte.
 
-
 ## Abschnitt III - Festsetzung und Entrichtung der Grundsteuer
-
-
 
 ### § 25 Festsetzung des Hebesatzes
 
@@ -637,7 +594,6 @@ Wird das Gebiet von Gemeinden geändert, so kann die Landesregierung
 oder die von ihr bestimmte Stelle für die von der Änderung betroffenen
 Gebietsteile auf eine bestimmte Zeit verschiedene Hebesätze zulassen.
 
-
 ### § 26 Koppelungsvorschriften und Höchsthebesätze
 
 In welchem Verhältnis die Hebesätze für die Grundsteuer der Betriebe
@@ -646,7 +602,6 @@ für die Gewerbesteuer zueinander stehen müssen, welche Höchstsätze
 nicht überschritten werden dürfen und inwieweit mit Genehmigung der
 Gemeindeaufsichtsbehörde Ausnahmen zugelassen werden können, bleibt
 einer landesrechtlichen Regelung vorbehalten.
-
 
 ### § 27 Festsetzung der Grundsteuer
 
@@ -664,7 +619,6 @@ Grundsteuer durch öffentliche Bekanntmachung festgesetzt werden. Für
 die Steuerschuldner treten mit dem Tage der öffentlichen
 Bekanntmachung die gleichen Rechtswirkungen ein, wie wenn ihnen an
 diesem Tage ein schriftlicher Steuerbescheid zugegangen wäre.
-
 
 ### § 28 Fälligkeit
 
@@ -692,14 +646,12 @@ Zahlungsweise bleibt so lange maßgebend, bis ihre Änderung beantragt
 wird; die Änderung muß spätestens bis zum 30. September des
 vorangehenden Jahres beantragt werden.
 
-
 ### § 29 Vorauszahlungen
 
 Der Steuerschuldner hat bis zur Bekanntgabe eines neuen
 Steuerbescheids zu den bisherigen Fälligkeitstagen Vorauszahlungen
 unter Zugrundelegung der zuletzt festgesetzten Jahressteuer zu
 entrichten.
-
 
 ### § 30 Abrechnung über die Vorauszahlungen
 
@@ -721,7 +673,6 @@ Zurückzahlung ausgeglichen.
 (3) Die Absätze 1 und 2 gelten entsprechend, wenn der Steuerbescheid
 aufgehoben oder geändert wird.
 
-
 ### § 31 Nachentrichtung der Steuer
 
 Hatte der Steuerschuldner bis zur Bekanntgabe der Jahressteuer keine
@@ -730,10 +681,7 @@ sich nach dem bekanntgegebenen Steuerbescheid für die vorangegangenen
 Fälligkeitstage ergibt (§ 28), innerhalb eines Monats nach Bekanntgabe
 des Steuerbescheids zu entrichten.
 
-
 ## Abschnitt IV - Erlaß der Grundsteuer
-
-
 
 ### § 32 Erlaß für Kulturgut und Grünanlagen
 
@@ -764,7 +712,6 @@ Hundertsatz zu erlassen, um den der Rohertrag gemindert ist. Das gilt
 nur, wenn die wissenschaftliche, künstlerische oder geschichtliche
 Bedeutung der untergebrachten Gegenstände durch die Landesregierung
 oder die von ihr beauftragte Stelle anerkannt ist.
-
 
 ### § 33 Erlaß wegen wesentlicher Ertragsminderung
 
@@ -817,7 +764,6 @@ Erlaßzeitraum durch Fortschreibung des Einheitswerts berücksichtigt
 werden kann oder bei rechtzeitiger Stellung des Antrags auf
 Fortschreibung hätte berücksichtigt werden können.
 
-
 ### § 34 Verfahren
 
 (1) Der Erlaß wird jeweils nach Ablauf eines Kalenderjahres für die
@@ -833,15 +779,11 @@ des Antrags. Der Steuerschuldner ist verpflichtet, eine Änderung der
 maßgeblichen Verhältnisse der Gemeinde binnen drei Monaten nach
 Eintritt der Änderung anzuzeigen.
 
-
 ## Abschnitt V - Übergangs- und Schlußvorschriften
-
-
 
 ### § 35
 
 (weggefallen)
-
 
 ### § 36 Steuervergünstigung für abgefundene Kriegsbeschädigte
 
@@ -885,7 +827,6 @@ der Witwe die Steuervergünstigung zu gewähren, wenn sie in dem
 Grundstück wohnt. Verheiratet sich die Witwe wieder, so fällt die
 Steuervergünstigung weg.
 
-
 ### § 37 Sondervorschriften für die Hauptveranlagung 1974
 
 (1) Auf den 1. Januar 1974 findet eine Hauptveranlagung der
@@ -901,21 +842,16 @@ S. 1157).
 
 (4) (weggefallen)
 
-
 ### § 38 Anwendung des Gesetzes
 
 Diese Fassung des Gesetzes gilt erstmals für die Grundsteuer des
 Kalenderjahres 2008.
 
-
 ### § 39
 
 (weggefallen)
 
-
 ## Abschnitt VI - Grundsteuer für Steuergegenstände in dem in Art 3 des Einigungsvertrages genannten Gebiet ab dem Kalenderjahr 1991
-
-
 
 ### § 40 Land- und forstwirtschaftliches Vermögen
 
@@ -925,7 +861,6 @@ des § 125 Abs. 3 des Bewertungsgesetzes. Schuldner der Grundsteuer ist
 abweichend von § 10 der Nutzer des land- und forstwirtschaftlichen
 Vermögens (§ 125 Abs. 2 des Bewertungsgesetzes). Mehrere Nutzer des
 Vermögens sind Gesamtschuldner.
-
 
 ### § 41 Bemessung der Grundsteuer für Grundstücke nach dem Einheitswert
 
@@ -937,7 +872,6 @@ bis 33 der Grundsteuerdurchführungsverordnung vom 1. Juli 1937 (RGBl.
 I S. 733). Die ermäßigten Steuermeßzahlen für Einfamilienhäuser gelten
 nicht für das Wohnungseigentum und das Wohnungserbbaurecht
 einschließlich des damit belasteten Grundstücks.
-
 
 ### § 42 Bemessung der Grundsteuer für Mietwohngrundstücke und Einfamilienhäuser nach der Ersatzbemessungsgrundlage
 
@@ -984,7 +918,6 @@ qm Wohn- oder Nutzfläche wird auf volle Cent nach unten abgerundet.
 (4) Steuerschuldner ist derjenige, dem das Gebäude bei einer
 Feststellung des Einheitswerts gemäß § 10 zuzurechnen wäre. Das gilt
 auch dann, wenn der Grund und Boden einem anderen gehört.
-
 
 ### § 43 Steuerfreiheit für neugeschaffene Wohnungen
 
@@ -1036,7 +969,6 @@ Vergrößerung oder Verbesserung von Wohnungen dienen. Voraussetzung
 ist, daß die Baumaßnahmen zu einer Wertfortschreibung geführt haben
 oder führen.
 
-
 ### § 44 Steueranmeldung
 
 (1) Soweit die Grundsteuer nach der Wohn- oder Nutzfläche zu bemessen
@@ -1056,13 +988,11 @@ Verhältnissen zu seinem Beginn bis zu dem Fälligkeitstag abzugeben, zu
 dem Grundsteuer für das Kalenderjahr nach § 28 erstmals fällig ist.
 Für die Entrichtung der Grundsteuer gilt § 28 entsprechend.
 
-
 ### § 45 Fälligkeit von Kleinbeträgen
 
 Hat der Rat der Stadt oder Gemeinde vor dem 1. Januar 1991 für
 kleinere Beträge eine Zahlungsweise zugelassen, die von § 28 Abs. 2
 und 3 abweicht, bleibt die Regelung bestehen, bis sie aufgehoben wird.
-
 
 ### § 46 Zuständigkeit der Gemeinden
 

@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 123
 
-
 ## (XXXX)
 
 Auf Grund des § 6a Absatz 2 des Gebrauchsmustergesetzes, der durch
@@ -145,10 +144,6 @@ Ausstellungen gewährt:
 26. „45. ESSEN MOTOR SHOW 2012“
     vom 1. bis 9. Dezember 2012 in Essen
     (mit Pressetag am 30. November 2012)
-
-
-
-
 
 ## Schlussformel
 

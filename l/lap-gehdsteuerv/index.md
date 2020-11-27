@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   § 56 Abs. 34 V v. 12.2.2009 I 284
 
-
 ## Eingangsformel
 
 Auf Grund des § 15 Abs. 1 Nr. 2 des Bundesbeamtengesetzes in der
@@ -30,7 +29,6 @@ der Fassung der Bekanntmachung vom 2. Juli 2002 (BGBl. I S. 2459,
 September 2002 (BGBl. I S. 3664) neu gefasst worden ist, verordnet das
 Bundesministerium der Finanzen im Einvernehmen mit dem
 Bundesministerium des Innern:
-
 
 ## § 1 Laufbahnämter
 
@@ -104,7 +102,6 @@ und Amtsbezeichnungen:
 
 (3) Die Ämter der Laufbahn sind regelmäßig zu durchlaufen.
 
-
 ## § 2 Ziel der Ausbildung
 
 (1) Die Ausbildung führt zur Berufsbefähigung. Sie vermittelt den
@@ -126,7 +123,6 @@ wirtschaftlichen Handeln sowie soziale Kompetenz sind zu fördern.
 weiterzubilden. Sie sind zum Selbststudium verpflichtet; das
 Selbststudium ist zu fördern.
 
-
 ## § 3 Einstellungsbehörde
 
 Einstellungsbehörde ist das Bundeszentralamt für Steuern. Ihr obliegt
@@ -136,7 +132,6 @@ trifft die Entscheidungen über Verkürzung und Verlängerung des
 Vorbereitungsdienstes und der Aufstiegsausbildung. Die
 Einstellungsbehörde ist die für die beamtenrechtlichen Entscheidungen
 zuständige Dienstbehörde.
-
 
 ## § 4 Einstellungsvoraussetzungen
 
@@ -149,10 +144,6 @@ In den Vorbereitungsdienst kann eingestellt werden, wer
 2.  die Fachhochschulreife oder eine andere zu einem Hochschulstudium
     berechtigende Schulbildung oder einen hochschulrechtlich als
     gleichwertig anerkannten Bildungsstand besitzt.
-
-
-
-
 
 ## § 5 Ausschreibung, Bewerbung
 
@@ -184,13 +175,6 @@ Der Bewerbung sind beizufügen:
 
     c)  eine Ablichtung des Zulassungs- oder Eingliederungsscheins oder der
         Bestätigung nach § 10 Abs. 4 des Soldatenversorgungsgesetzes.
-
-
-
-
-
-
-
 
 ## § 6 Auswahlverfahren
 
@@ -241,7 +225,6 @@ legt eine Rangfolge der geeigneten Bewerberinnen und Bewerber fest.
 Sind mehrere Kommissionen eingerichtet, wird eine Rangfolge aller
 Bewerberinnen und Bewerber festgelegt. Absatz 3 gilt entsprechend.
 
-
 ## § 7 Einstellung in den Vorbereitungsdienst
 
 (1) Das Bundeszentralamt für Steuern entscheidet nach dem Ergebnis des
@@ -288,7 +271,6 @@ Die Kosten des Gesundheitszeugnisses trägt die Einstellungsbehörde.
 Anstelle der Kostenübernahme kann das Bundeszentralamt für Steuern die
 Einstellungsuntersuchungen selbst vornehmen.
 
-
 ## § 8 Rechtsstellung während des Vorbereitungsdienstes
 
 (1) Mit ihrer Einstellung werden - unter Berufung in das
@@ -298,7 +280,6 @@ und Bewerber zu Finanzanwärtern ernannt.
 (2) Die Anwärterinnen und Anwärter unterstehen der Dienstaufsicht des
 Bundeszentralamtes für Steuern. Während der Ausbildung bei
 Landesdienststellen unterstehen sie auch deren Dienstaufsicht.
-
 
 ## § 9 Dauer, Verkürzung und Verlängerung des Vorbereitungsdienstes
 
@@ -313,11 +294,9 @@ Steuerbeamten entsprechend.
 Vorbereitungsdienstes trifft das Bundeszentralamt für Steuern im
 Benehmen mit der hierfür zuständigen Dienststelle des Landes.
 
-
 ## § 10 Urlaub während des Vorbereitungsdienstes
 
 Urlaub wird auf den Vorbereitungsdienst angerechnet.
-
 
 ## § 11 Schwerbehinderte Menschen
 
@@ -335,7 +314,6 @@ des Neunten Buches Sozialgesetzbuch fallen, angewandt.
 (2) Im Auswahlverfahren wird die Schwerbehindertenvertretung nicht
 beteiligt, wenn der schwerbehinderte Mensch eine Beteiligung ablehnt.
 
-
 ## § 12 Berufspraktische und fachtheoretische Ausbildung
 
 (1) Für die Fachstudien, die berufspraktischen Studienzeiten und die
@@ -347,7 +325,6 @@ entsprechend.
 (2) Das Bundeszentralamt für Steuern ordnet die Anwärterinnen und
 Anwärter im Benehmen mit der zuständigen Landesdienststelle an die
 Ausbildungsdienststellen ab.
-
 
 ## § 13 Prüfungen
 
@@ -363,7 +340,6 @@ obersten Landesbehörde.
 das Bestehen der Laufbahnprüfung in der Steuerverwaltung eines
 Bundeslandes die Befähigung für die Laufbahn des gehobenen
 Steuerdienstes des Bundes.
-
 
 ## § 14 Inkrafttreten
 

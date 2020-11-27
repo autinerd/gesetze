@@ -18,8 +18,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1990, 1239
 
-
-
 ## Eingangsformel
 
 
@@ -54,7 +52,6 @@ sicherzustellen,
 in Ausfüllung des Artikels 9 Abs. 3 des Einigungsvertrags -
 sind übereingekommen, eine Vereinbarung mit den nachfolgenden
 Bestimmungen zu schließen:
-
 
 ## Art 1
 
@@ -139,10 +136,6 @@ Regierungen der beiden Vertragsparteien übereinstimmend fest:
     Volkskammergesetz in Verbindung mit dem Einigungsvertrag als Grundlage
     dienen.
 
-
-
-
-
 ## Art 2
 
 Die vertragschließenden Seiten geben ihrer Absicht Ausdruck, gemäß
@@ -154,7 +147,6 @@ Claims Conference Vereinbarungen über eine zusätzliche Fondslösung zu
 treffen, um Härteleistungen an die Verfolgten vorzusehen, die nach den
 gesetzlichen Vorschriften der Bundesrepublik Deutschland bisher keine
 oder nur geringfügige Entschädigungen erhalten haben.
-
 
 ## Art 3
 
@@ -887,16 +879,6 @@ Abs. 4 des Vertrags gilt entsprechend.
         bb) Sie bleiben bis zum Erlaß anderweitiger landesrechtlicher Regelungen
             in Kraft, längstens jedoch bis zum 30. Juni 1991.
 
-
-
-
-
-
-
-
-
-
-
 ## Art 4
 
 Der am 31. August 1990 in Berlin unterzeichnete Vertrag über die
@@ -1194,10 +1176,6 @@ geändert:
     einleitenden Satz nach der Klammer die Worte ", geändert durch die
     Anordnung Nr. 2 vom 31. August 1990 (GBl. I Nr. 60 S. 1478)" angefügt.
 
-
-
-
-
 ## Art 5
 
 Der am 31. August 1990 in Berlin unterzeichnete Vertrag über die
@@ -1340,24 +1318,15 @@ berichtigt:
         über die Erhöhung der Hör-, Rundfunk- und Fernseh-Rundfunkgebühren
         (GBl. I Nr. 59 S. 1449)."
 
-
-
-
-
-
-
-
 ## Art 6
 
 Bei Zweifeln oder Unstimmigkeiten über den Inhalt des Vertrags oder
 seiner Anlagen ist diese Vereinbarung maßgebend.
 
-
 ## Art 7
 
 Diese Vereinbarung tritt gleichzeitig mit dem am 31. August 1990
 unterzeichneten Vertrag in Kraft.
-
 
 ## Schlußformel
 

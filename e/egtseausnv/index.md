@@ -20,7 +20,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 21.11.2008 I 2229
 
-
 ## Eingangsformel
 
 Auf Grund des § 5 Nr. 1 und 4 des Fleischhygienegesetzes in der
@@ -28,7 +27,6 @@ Fassung der Bekanntmachung vom 8. Juli 1993 (BGBl. I S. 1189), der
 zuletzt durch Artikel 1 Nr. 1 des Gesetzes vom 7. März 2002 (BGBl. I
 S. 1046) geändert worden ist, verordnet das Bundesministerium für
 Verbraucherschutz, Ernährung und Landwirtschaft:
-
 
 ## § 1
 
@@ -58,7 +56,6 @@ Köpfe
 (2) Die zuständige Behörde kann einem Schlachtbetrieb die Beförderung
 der in Absatz 1 genannten Köpfe untersagen, wenn die Anforderungen
 nach Absatz 1 nicht eingehalten werden.
-
 
 ## § 2
 
@@ -129,11 +126,9 @@ des Satzes 1 sicherzustellen.
 Vorschriften, nach Absatz 1 zu widerrufen, wenn die Anforderungen des
 Absatzes 2 Satz 1 nicht mehr erfüllt sind.
 
-
 ## § 3
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlussformel
 

@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1999, 2534
 
-
-
 ## (XXXX)
 
 Das Bundesamt für Zivilschutz wird aufgelöst.

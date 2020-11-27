@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   GBl DDR I: 1988, 345
 
-
-
 ## Eingangsformel
 
 Das in der Deutschen Demokratischen Republik bestehende umfassende
@@ -30,13 +28,11 @@ dem Geschädigten zur Vermeidung schwerwiegender Auswirkungen und zur
 weiteren Sicherung seiner Rechte finanzielle Hilfe gewährt. Dazu
 beschließt die Volkskammer folgendes Gesetz:
 
-
 ## § 1 Geltungsbereich
 
 Dieses Gesetz regelt die Voraussetzungen und das Verfahren für die
 Gewährung einer staatlichen Vorauszahlung an Bürger, denen durch eine
 Straftat ein Schaden zugefügt wurde.
-
 
 ## § 2 Grundsätze
 
@@ -53,10 +49,7 @@ Antrag des geschädigten Bürgers das Gericht.
 (3) Die staatliche Vorauszahlung erfolgt durch die Staatliche
 Versicherung der DDR.
 
-
 ## - - Voraussetzungen und Umfang der staatlichen Vorauszahlung
-
-
 
 ### § 3
 
@@ -74,14 +67,12 @@ durch die Straftat beschädigten oder verlorengegangenen Kleidung und
 anderer Sachen, die der geschädigte Bürger bei sich hatte, sowie die
 Kosten der Rechtsverfolgung.
 
-
 ### § 4
 
 Hat die Straftat zum Tod eines Bürgers geführt, wird eine staatliche
 Vorauszahlung für die Kosten der Bestattung und für die
 Unterhaltsansprüche Dritter im Umfang des § 339 ZGB sowie für die
 Kosten der Rechtsverfolgung gewährt.
-
 
 ### § 5
 
@@ -91,7 +82,6 @@ zu einer erheblichen Verschlechterung der wirtschaftlichen Lage des
 geschädigten Bürgers geführt hat und dadurch sein Lebensunterhalt
 gefährdet ist.
 
-
 ### § 6
 
 Ist einem Bürger durch eine Straftat ein Schaden bei Ausübung oder
@@ -100,7 +90,6 @@ worden, wird eine staatliche Vorauszahlung für den gesamten Schaden
 einschließlich der Kosten der Rechtsverfolgung gewährt. Das gleiche
 gilt, wenn einem Bürger beim Handeln im Interesse der öffentlichen
 Ordnung und Sicherheit durch eine Straftat ein Schaden zugefügt wurde.
-
 
 ### § 7
 
@@ -119,10 +108,6 @@ Die Gewährung einer staatlichen Vorauszahlung erfordert, daß
     Vollstreckung gegen den Schädiger in der Deutschen Demokratischen
     Republik nicht möglich ist.
 
-
-
-
-
 ### § 8
 
 (1) Eine staatliche Vorauszahlung wird nicht gewährt, soweit ein
@@ -133,7 +118,6 @@ Leistungen aus einer Personenversicherung.
 (2) Eine staatliche Vorauszahlung kann ganz oder teilweise abgelehnt
 werden, wenn der Bürger durch sein Verhalten Anlaß zur Straftat, durch
 die er geschädigt wurde, gegeben hat.
-
 
 ### § 9 Höhe der staatlichen Vorauszahlung
 
@@ -151,7 +135,6 @@ gemäß § 4 gemildert wird, die dadurch entstanden ist, daß die
 rechtskräftig zuerkannte Schadenersatzforderung nicht durchgesetzt
 werden kann.
 
-
 ### § 10 Antragsberechtigung
 
 Die Gewährung einer staatlichen Vorauszahlung erfolgt auf Antrag.
@@ -167,7 +150,6 @@ Antragsberechtigt sind
 
 die auf dem Staatsgebiet der Deutschen Demokratischen Republik durch
 eine Straftat geschädigt wurden.
-
 
 ### § 11 Zuständigkeit des Gerichts
 
@@ -186,7 +168,6 @@ sowie Unterlagen zum Nachweis erfolglos verlaufener Bemühungen zur
 Durchsetzung der Schadenersatzforderung beizufügen. Auf Verlangen des
 geschädigten Bürgers ist der Antrag von der Rechtsantragstelle
 aufzunehmen.
-
 
 ### § 12 Entscheidung durch das Gericht
 
@@ -220,7 +201,6 @@ werden nicht erstattet.
 (7) Im übrigen finden die Bestimmungen der Zivilprozeßordnung
 entsprechende Anwendung.
 
-
 ### § 13 Gewährung einer staatlichen Vorauszahlung in besonderen Fällen
 
 (1) Liegen die in den §§ 3 bis 6 genannten, nicht jedoch die nach
@@ -229,7 +209,6 @@ geschädigten Bürger zur Vermeidung von Härten ausnahmsweise eine
 staatliche Vorauszahlung gewährt werden.
 
 (2) Die Entscheidung darüber trifft der Minister der Justiz.
-
 
 ### § 14 Leistungen durch die Staatliche Versicherung der DDR
 
@@ -255,7 +234,6 @@ einen Aufschlag in Höhe von 15% der staatlichen Vorauszahlung zu
 erheben. Von der Erhebung eines Aufschlags kann abgesehen werden,
 insbesondere wenn die Forderung nicht durchsetzbar ist.
 
-
 ### § 15 Ausgleichszahlung ohne Vollstreckungstitel
 
 (1) Liegen die Voraussetzungen zur Gewährung einer staatlichen
@@ -280,27 +258,21 @@ geleistet. Im übrigen gilt § 14 Abs. 1 entsprechend.
 (5) Die Staatliche Versicherung der DDR wird vom Staatsanwalt des
 Bezirkes informiert, wenn der Straftäter ermittelt wurde.
 
-
 ## - - Schlußbestimmungen
-
-
 
 ### § 16
 
 Dieses Gesetz gilt für Schadenersatzansprüche aus Straftaten, die nach
 dem 1. Januar 1985 begangen wurden.
 
-
 ### § 17
 
 Durchführungsbestimmungen zu diesem Gesetz erläßt der Minister der
 Justiz.
 
-
 ### § 18
 
 Dieses Gesetz tritt am 1. März 1989 in Kraft.
-
 
 ### Schlußformel
 

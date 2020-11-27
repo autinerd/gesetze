@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1991, 1179
 
-
-
 ## (XXXX)
 
 Gemäß § 47 Abs. 3 Satz 2 und Abs. 4 des Postverfassungsgesetzes vom 8.

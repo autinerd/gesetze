@@ -17,17 +17,13 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1968, 1295
 
-
-
 ## Art 1
 
 -
 
-
 ## Art 2
 
 -
-
 
 ## Art 3
 
@@ -41,18 +37,15 @@ eingetragene Schiffe betreffen, entsprechend anzuwenden. Dies gilt
 auch für Schwimmdocks, die nicht im Schiffsbauregister eingetragen
 sind.
 
-
 ## Art 4
 
 -
-
 
 ## Art 5
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
 im Land Berlin.
-
 
 ## Art 6
 

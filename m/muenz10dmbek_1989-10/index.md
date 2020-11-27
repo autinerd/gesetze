@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1989, 1841
 
-
-
 ## (XXXX)
 
 (1) Auf Grund des § 6 des Gesetzes über die Ausprägung von
@@ -87,7 +85,6 @@ Anfang der Randschrift ist dieses Bild zweifach eingeprägt.
 
 (10) Der Entwurf der Münze stammt von Klaus Luckey, Hamburg.
 Der Bundesminister der Finanzen
-
 
 ## (XXXX) Abbildung der Münze
 

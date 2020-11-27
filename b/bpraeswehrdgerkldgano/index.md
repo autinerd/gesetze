@@ -15,13 +15,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1957, 641
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 76 in Verbindung mit § 189 des Bundesbeamtengesetzes
 ordne ich an:
-
 
 ## I.
 
@@ -34,7 +31,6 @@ Bundeswehrdisziplinaranwalt und die für ihn auftretenden Beamten sowie
 die richterlichen Mitglieder der Truppendienstkammern eine breite
 weiße Halsbinde mit herabhängenden Enden, die Wehrdisziplinaranwälte
 und die Urkundsbeamten eine einfache weiße Halsbinde.
-
 
 ## II.
 
@@ -49,7 +45,6 @@ richterlichen Mitglieder der Truppendienstkammern aus Samt, für den
 Bundeswehrdisziplinaranwalt, die für ihn auftretenden Beamten und die
 Wehrdisziplinaranwälte aus Seide, für die Urkundsbeamten aus
 Wollstoff.
-
 
 ## III.
 
@@ -76,10 +71,6 @@ c)  die Wehrdisziplinaranwälte und die für den Bundeswehrdisziplinaranwalt
 
 
     tätig werden.
-
-
-
-
 
 ## IV.
 

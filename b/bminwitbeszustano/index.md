@@ -17,7 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 2333
 
-
 ## I.
 
 Nach § 126 Absatz 3 des Bundesbeamtengesetzes vom 5. Februar 2009
@@ -28,7 +27,6 @@ und Technologie gegen Verwaltungsakte sowie die Ablehnung eines
 Anspruchs in Angelegenheiten von Besoldung und Amtsbezügen zu
 entscheiden, soweit sie zum Erlass des Verwaltungsaktes oder die
 Ablehnung des Anspruchs zuständig war.
-
 
 ## II.
 
@@ -41,7 +39,6 @@ Personalkostenbetreuung übertragen. Das Bundesministerium für
 Wirtschaft und Technologie behält sich vor, im Einzelfall die
 Prozessvertretung selbst wahrzunehmen.
 
-
 ## III.
 
 Diese Anordnung ist mit Wirkung vom 1. Januar 2011 anzuwenden.
@@ -51,7 +48,6 @@ Bundes bei Klagen von Beschäftigten des Bundesministeriums für
 Wirtschaft und Technologie in Angelegenheiten von Besoldung und
 Amtsbezügen sowie des Kindergeldes vom 29. September 2009 (BGBl. I S.
 3658) außer Kraft.
-
 
 ## Schlussformel
 

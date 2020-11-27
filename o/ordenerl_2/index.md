@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1959, 293
 
-
-
 ## Art 1
 
 Auf Grund des § 3 Abs. 1 des Gesetzes über Titel, Orden und
@@ -40,15 +38,10 @@ Jerusalem, genannt der Johanniterorden:
 
 5.  Ehrenritterkreuz.
 
-
-
-
-
 ## Art 2
 
 Ich genehmige die Stiftungsbestimmungen und die Verleihungsbedingungen
 der in Artikel 1 genannten Ehrenzeichen.
-
 
 ## Art 3
 
@@ -57,13 +50,11 @@ Abbildungen und die Beschreibungen der nach Artikel 1 genehmigten
 Ehrenzeichen werden vom Bundesminister des Innern im Bundesanzeiger
 veröffentlicht.
 
-
 ## Art 4
 
 Jede Änderung der Stiftungsbestimmungen und der Verleihungsbedingungen
 der nach Artikel 1 genehmigten Ehrenzeichen und jede Änderung ihrer
 Form und ihrer Benennung bedarf meiner Genehmigung.
-
 
 ## Schlußformel
 

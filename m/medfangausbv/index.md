@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 1097
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des
@@ -27,17 +25,14 @@ Verbindung mit § 1 des Zuständigkeitsanpassungsgesetzes vom 16. August
 2005 (BGBl. I S. 3197) verordnet das Bundesministerium für Gesundheit
 im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Medizinischer Fachangestellter/Medizinische
 Fachangestellte wird staatlich anerkannt.
 
-
 ## § 2 Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Zielsetzung der Berufsausbildung
 
@@ -49,7 +44,6 @@ Berufsbildungsgesetzes befähigt werden, die insbesondere
 selbstständiges Planen, Durchführen und Kontrollieren sowie das
 Handeln im betrieblichen Gesamtzusammenhang einschließt. Diese
 Befähigung ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
-
 
 ## § 4 Ausbildungsberufsbild
 
@@ -167,10 +161,6 @@ Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 10. Handeln bei Not- und Zwischenfällen.
 
-
-
-
-
 ## § 5 Ausbildungsrahmenplan
 
 Die in § 4 genannten Fertigkeiten, Kenntnisse und Fähigkeiten
@@ -181,12 +171,10 @@ abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes
 ist insbesondere zulässig, soweit betriebspraktische Besonderheiten
 die Abweichung erfordern.
 
-
 ## § 6 Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans
 für die Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 7 Schriftlicher Ausbildungsnachweis
 
@@ -195,7 +183,6 @@ führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
 Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
 Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
 durchzusehen.
-
 
 ## § 8 Zwischenprüfung
 
@@ -225,10 +212,6 @@ durchzuführen:
 
 
 5.  Untersuchungen und Behandlungen vorbereiten.
-
-
-
-
 
 ## § 9 Abschlussprüfung
 
@@ -457,7 +440,6 @@ ausreichende Prüfungsleistungen erbracht sind. Werden die
 Prüfungsleistungen in einem Prüfungsbereich mit ungenügend bewertet,
 ist die Prüfung nicht bestanden.
 
-
 ## § 10 Fortsetzung der Berufsausbildung
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
@@ -465,11 +447,9 @@ bestehen, können unter Anrechnung der bisher zurückgelegten
 Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt
 werden, wenn die Vertragsparteien dies vereinbaren.
 
-
 ## § 11 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2006 in Kraft.
-
 
 ## Anlage 1 (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Medizinischen Fachangestellten/zur Medizinischen Fachangestellten - Sachliche Gliederung -
 
@@ -1337,13 +1317,6 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
 
         f)  Notfallausstattung kontrollieren und auffüllen; Geräte handhaben,
             warten und pflegen
-
-
-
-
-
-
-
 
 ## Anlage 2 (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Medizinischen Fachangestellten/zur Medizinischen Fachangestellten - Zeitliche Gliederung -
 

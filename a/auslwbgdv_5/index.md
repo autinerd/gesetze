@@ -19,17 +19,13 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 Abs. 5 G v. 12.8.2005 I 2354
 
-
 ## Eingangsformel
 
 Auf Grund der §§ 58, 64, 65 des Bereinigungsgesetzes für deutsche
 Auslandsbonds vom 25. August 1952 (Bundesgesetzbl. I S. 553) verordnet
 die Bundesregierung mit Zustimmung des Bundesrates:
 
-
 ## Abschnitt I - Verwaltungsabgabe
-
-
 
 ### § 1 Verwaltungsabgabe für das allgemeine Bereinigungsverfahren
 
@@ -170,7 +166,6 @@ zurückfordern, soweit sie die nach der endgültigen Regelung zu
 zahlenden Beträge übersteigen oder Stücke nachträglich durch
 Sammelanerkennung anerkannt worden sind.
 
-
 ### § 2 Verwaltungsabgabe für das Verfahren der Sammelanerkennung
 
 (1) Für das Verfahren der Sammelanerkennung (§§ 13, 55 bis 58 des
@@ -183,7 +178,6 @@ Mark umzurechnen.
 zurückfordern, soweit sie den Antrag auf Sammelanerkennung vor der
 Entscheidung des Bundesministers der Finanzen (§ 57 Abs. 1 des
 Gesetzes) zurückgenommen haben.
-
 
 ### § 3 Erhebung der Verwaltungsabgabe
 
@@ -215,16 +209,12 @@ zu; über den Einspruch entscheidet das Amt für Wertpapierbereinigung.
 Die Zuständigkeit der Finanzgerichte bestimmt sich nach dem Sitz der
 Aussteller.
 
-
 ### § 4 Befreiungen
 
 Der Bund, die Länder sowie die Konversionskasse für deutsche
 Auslandsschulden sind von den Zahlungen nach §§ 1 und 2 befreit.
 
-
 ## Abschnitt II - Vorschußverpflichtung der Aussteller
-
-
 
 ### § 5 Vorschußverpflichtung
 
@@ -241,7 +231,6 @@ Rechnung geleisteten Zahlungen übersteigen und sobald feststeht, daß
 eine weitere Inanspruchnahme auf Erstattung von Aufwendungen nicht
 mehr zu erwarten ist.
 
-
 ### § 6 Erhebung der Vorschüsse
 
 (1) Für die Erhebung der Vorschüsse gilt § 3 Abs. 1, 3 und 4
@@ -252,16 +241,12 @@ Sammelanerkennung bezieht.
 Zahlungsbescheids an die zuständigen Auslandsbevollmächtigten zu
 zahlen.
 
-
 ## Abschnitt III - Gemeinsame Vorschriften
-
-
 
 ### § 7 Geltung der Abgabenordnung
 
 Die Allgemeinen Vorschriften des Zweiten Teils der Abgabenordnung
 gelten sinngemäß, soweit nichts anderes bestimmt ist.
-
 
 ### § 8 Land Berlin
 
@@ -269,7 +254,6 @@ Nach § 14 des Gesetzes über die Stellung des Landes Berlin im
 Finanzsystem des Bundes (Drittes Überleitungsgesetz) vom 4. Januar
 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit § 78 des Gesetzes gilt
 diese Rechtsverordnung auch im Land Berlin.
-
 
 ### § 9 Inkrafttreten
 

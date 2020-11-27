@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 21.10.1999 I 2066
 
-
 ## Eingangsformel
 
 Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
@@ -28,18 +27,15 @@ August 1976 (BGBl. I S. 2525) geändert worden ist, verordnet der
 Bundesminister des Innern im Einvernehmen mit dem Bundesminister für
 Bildung und Wissenschaft:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Fachangestellter für
 Bürokommunikation/Fachangestellte für Bürokommunikation wird staatlich
 anerkannt. Er ist Ausbildungsberuf des öffentlichen Dienstes.
 
-
 ## § 2 Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Ausbildungsberufsbild
 
@@ -172,7 +168,6 @@ Fertigkeiten und Kenntnisse:
 Nr. 9 sind unterschiedliche Fachaufgaben von zwei Fachbereichen der
 ausbildenden Stelle zugrunde zu legen.
 
-
 ## § 4 Ausbildungsrahmenplan
 
 (1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach den in den
@@ -189,7 +184,6 @@ Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1
 Abs. 2 des Berufsbildungsgesetzes befähigt wird, die insbesondere
 selbständiges Planen, Durchführen und Kontrollieren einschließt. Diese
 Befähigung ist auch in den Prüfungen nachzuweisen.
-
 
 ## § 5 Durchführung der Berufsausbildung
 
@@ -209,12 +203,10 @@ Unterweisung ist inhaltlich mit dem schulischen Rahmenlehrplan
 abzustimmen und zeitlich unter Beachtung der Pflicht des
 Auszubildenden zum Besuch der Berufsschule zu organisieren.
 
-
 ## § 6 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 7 Berichtsheft
 
@@ -222,7 +214,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 8 Zwischenprüfung
 
@@ -254,7 +245,6 @@ Prüfungsfächern durchzuführen:
 (4) Die in Absatz 3 genannte Prüfungsdauer kann insbesondere
 unterschritten werden, soweit die Prüfung in programmierter Form
 durchgeführt wird.
-
 
 ## § 9 Abschlußprüfung
 
@@ -376,7 +366,6 @@ Prüfungsfächer mindestens ausreichende Leistungen erbracht werden.
 Werden die Prüfungsleistungen in einem Prüfungsfach mit ungenügend
 bewertet, ist die Prüfung nicht bestanden.
 
-
 ## § 10 Aufhebung von Vorschriften
 
 Die bisher festgelegten Berufsbilder, Berufsbildungspläne und
@@ -385,7 +374,6 @@ vergleichbar geregelten Ausbildungsberufe, die in dieser Verordnung
 geregelt sind, insbesondere für die Ausbildungsberufe
 Stenosekretär/Stenosekretärin und Büroassistent/Büroassistentin, sind
 vorbehaltlich des § 11 nicht mehr anzuwenden.
-
 
 ## § 11 Übergangsregelungen
 
@@ -403,11 +391,9 @@ geltenden Vorschriften. Für Wiederholungs- oder Ergänzungsprüfungen
 nach diesem Termin sind diejenigen Vorschriften zugrunde zu legen, auf
 deren Basis die erste Prüfung vorgenommen worden ist.
 
-
 ## § 12 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 1992 in Kraft.
-
 
 ## Anlage I (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Fachangestellten für Bürokommunikation/zur Fachangestellten für Bürokommunikation - Sachliche Gliederung -
 
@@ -1112,13 +1098,6 @@ Diese Verordnung tritt am 1. August 1992 in Kraft.
 
         d)  anhand praktischer Fälle die für einen Sachverhalt spezifischen
             Vorschriften anwenden und Auskünfte erteilen
-
-
-
-
-
-
-
 
 ## Anlage II (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Fachangestellten für Bürokommunikation/zur Fachangestellten für Bürokommunikation - Zeitliche Gliederung -
 

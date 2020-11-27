@@ -16,14 +16,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 4637, 4641
 
-
-
 ## § 1 Beitragssätze in der Rentenversicherung
 
 Der Beitragssatz für das Jahr 2003 beträgt in der Rentenversicherung
 der Arbeiter und der Angestellten 19,5 Prozent und in der
 knappschaftlichen Rentenversicherung 25,9 Prozent.
-
 
 ## § 2 Zahlungen für Kindererziehungszeiten
 

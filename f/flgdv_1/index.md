@@ -18,9 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 Abs. 93 G v. 22.12.2011 I 3044
 
-
 ## Abschnitt 1 - Allgemeine Bestimmungen
-
 
 ### § 1 Schlachtnummer
 
@@ -34,7 +32,6 @@ festgestellt werden kann.
 (2) Die Kennzeichnung ist deutlich lesbar auf beiden Körperhälften
 anzubringen und bis zur Zerlegung zu belassen. Abweichend von Satz 1
 ist die Kennzeichnung bei Rindern auf jedem Viertel anzubringen.
-
 
 ### § 2 Verwiegung, Schnittführung
 
@@ -121,7 +118,6 @@ von als Klassifizierer zugelassenen Mitarbeitern eines nach § 3 des
 Fleischgesetzes zugelassenen Klassifizierungsunternehmens vorgenommen
 werden darf.
 
-
 ### § 3 Protokoll
 
 (1) Das Klassifizierungsunternehmen hat unverzüglich nach der
@@ -146,9 +142,7 @@ geschlachtet worden ist.
 4 Satz 2 ist das Protokoll vom Schlachtbetrieb zu erstellen und
 aufzubewahren.
 
-
 ## Abschnitt 2 - Preismeldungen
-
 
 ### § 4 Preismeldepflicht
 
@@ -168,7 +162,6 @@ spezifischen Hygienevorschriften für Lebensmittel tierischen Ursprungs
 150/2011 der Kommission vom 18. Februar 2011 (ABl. L 46 vom 19.2.2011,
 S. 14) geändert worden ist, notgeschlachteten Tieren.
 
-
 ### § 5 Ausnahmen
 
 (1) Von der Meldepflicht nach § 4 Abs. 1 sind Betriebe ausgenommen,
@@ -182,7 +175,6 @@ Meldegrenze nach Absatz 1 auf bis zu 1 000 Schweine oder 200 Rinder
 pro Woche erhöhen. Dabei muss sichergestellt sein, dass mindestens 60
 Prozent der in diesem Land gewerblich geschlachteten Tiere der
 betreffenden Tierart erfasst werden.
-
 
 ### § 6 Inhalt der Preismeldung
 
@@ -247,7 +239,6 @@ Schlachtstätte ohne Umsatzsteuer.
 beginnt mit Ablauf des Jahres, in dem das jeweilige Tier geschlachtet
 worden ist.
 
-
 ### § 7 Verfahren der Preismeldung
 
 (1) Die Meldungen sind nach vorgeschriebenem Muster schriftlich oder
@@ -273,7 +264,6 @@ erfolgen hat.
 erstatten, wenn der Eingang der schriftlichen oder elektronischen
 Meldungen nach vorgeschriebenem Muster zu dem nach Absatz 2 bestimmten
 Zeitpunkt nicht gewährleistet ist.
-
 
 ### § 8 Preisfeststellung
 
@@ -312,14 +302,12 @@ Tier- oder Fleischkategorien gezahlten Preise nach den Absätzen 1 und
 3 kann ganz oder teilweise unterbleiben, wenn sie in Anbetracht der
 Umsatzmenge ohne Aussagekraft sind.
 
-
 ### § 9 Festlegung der Meldegebiete
 
 Meldegebiet ist das jeweilige Land. Die Bekanntgabe der in den
 einzelnen Ländern ermittelten Preise durch die Bundesanstalt kann im
 Benehmen mit den nach Landesrecht zuständigen Behörden für mehrere
 Länder gemeinsam erfolgen.
-
 
 ### § 10 Muster
 
@@ -328,9 +316,7 @@ sonstige Mitteilungen nach vorgeschriebenem Muster zu erstatten oder
 zu erstellen sind, werden die Muster von der zuständigen Behörde im
 Bundesanzeiger bekannt gegeben.
 
-
 ## Abschnitt 3 - Auskunftspflichten
-
 
 ### § 11 Auskunftspflichten
 
@@ -357,9 +343,7 @@ Soweit das Verlangen schon vor Schlachtung der Tiere bekundet worden
 ist, ist die Auskunft innerhalb von 15 Tagen nach der Schlachtung zu
 erteilen.
 
-
 ## Abschnitt 4 - Ordnungswidrigkeiten
-
 
 ### § 12 Ordnungswidrigkeiten
 

@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 14 G v. 24.3.1997 I 594
 
-
 ## Eingangsformel
 
 Auf Grund des Artikels 3 des Gesetzes vom 22. Juni 1954 über den
@@ -33,7 +32,6 @@ des Artikels 3 des Gesetzes vom 16. August 1980 zu dem Übereinkommen
 vom 13. Februar 1946 über die Vorrechte und Immunitäten der Vereinten
 Nationen (BGBl. 1980 II S. 941)
 verordnet die Bundesregierung mit Zustimmung des Bundesrates:
-
 
 ## § 1
 
@@ -84,7 +82,6 @@ Absatz 1 Nr. 2 letzter Halbsatz bestimmten Zeitpunkt.
 Versicherungsfreiheit und die Befreiung von der Versicherungspflicht
 nach den Vorschriften der gesetzlichen Rentenversicherung vor.
 
-
 ## § 2
 
 (1) Sind Pflichtbeiträge zur gesetzlichen Rentenversicherung für einen
@@ -108,13 +105,11 @@ sowie Beiträge und Umlagen nach dem Recht der Arbeitsförderung die für
 die Zeit vor Inkrafttreten dieser Verordnung nach § 5 Abs. 1
 entrichtet worden sind, werden nicht erstattet.
 
-
 ## § 3
 
 Den §§ 1 und 2 gehen die für einzelne Organisationen geltenden
 besonderen innerstaatlichen sowie über- und zwischenstaatlichen
 Regelungen vor.
-
 
 ## § 4
 
@@ -123,7 +118,6 @@ Verbindung mit Artikel 4 des in der Eingangsformel genannten Gesetzes
 vom 22. Juni 1954, der durch das Gesetz vom 28. Februar 1964 (BGBl. II
 S. 187) neu gefaßt wurde, und Artikel 5 des in der Eingangsformel
 genannten Gesetzes vom 16. August 1980 auch im Land Berlin.
-
 
 ## § 5
 

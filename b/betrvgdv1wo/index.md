@@ -19,21 +19,15 @@ Fundstelle
 Geändert durch
 :   Art. 2 V v. 23. 6.2004 I 1393
 
-
 ## Eingangsformel
 
 Auf Grund des § 126 des Betriebsverfassungsgesetzes in der Fassung der
 Bekanntmachung vom 25. September 2001 (BGBl. I S. 2518) verordnet das
 Bundesministerium für Arbeit und Sozialordnung:
 
-
 ## Erster Teil - Wahl des Betriebsrats (§ 14 des Gesetzes)
 
-
-
 ### Erster Abschnitt - Allgemeine Vorschriften
-
-
 
 #### § 1 Wahlvorstand
 
@@ -50,7 +44,6 @@ Sitzung des Wahlvorstands ist eine Niederschrift aufzunehmen, die
 mindestens den Wortlaut der gefassten Beschlüsse enthält. Die
 Niederschrift ist von der oder dem Vorsitzenden und einem weiteren
 stimmberechtigten Mitglied des Wahlvorstands zu unterzeichnen.
-
 
 #### § 2 Wählerliste
 
@@ -91,7 +84,6 @@ Arbeitnehmerinnen und Arbeitnehmer, die der deutschen Sprache nicht
 mächtig sind, vor Einleitung der Betriebsratswahl über Wahlverfahren,
 Aufstellung der Wähler- und Vorschlagslisten, Wahlvorgang und
 Stimmabgabe in geeigneter Weise unterrichtet werden.
-
 
 #### § 3 Wahlausschreiben
 
@@ -184,7 +176,6 @@ Wahlausschreiben mittels der im Betrieb vorhandenen Informations- und
 Kommunikationstechnik bekannt gemacht werden. § 2 Abs. 4 Satz 4 gilt
 entsprechend.
 
-
 #### § 4 Einspruch gegen die Wählerliste
 
 (1) Einsprüche gegen die Richtigkeit der Wählerliste können mit
@@ -213,7 +204,6 @@ eingelegter Einsprüche oder bei Eintritt von Wahlberechtigten in den
 Betrieb oder bei Ausscheiden aus dem Betrieb bis zum Tage vor dem
 Beginn der Stimmabgabe berichtigt oder ergänzt werden.
 
-
 #### § 5 Bestimmung der Mindestsitze für das Geschlecht in der Minderheit
 
 (1) Der Wahlvorstand stellt fest, welches Geschlecht von seinem
@@ -236,14 +226,9 @@ niedrigste in Betracht kommende Höchstzahl auf beide Geschlechter
 zugleich entfällt, so entscheidet das Los darüber, welchem Geschlecht
 dieser Sitz zufällt.
 
-
 ### Zweiter Abschnitt - Wahl von mehr als drei Betriebsratsmitgliedern (aufgrund von Vorschlagslisten)
 
-
-
 #### Erster Unterabschnitt - Einreichung und Bekanntmachung von Vorschlagslisten
-
-
 
 ##### § 6 Vorschlagslisten
 
@@ -293,7 +278,6 @@ von drei Arbeitstagen zu erklären, welche Bewerbung sie
 aufrechterhält. Unterbleibt die fristgerechte Erklärung, so ist die
 Bewerberin oder der Bewerber auf sämtlichen Listen zu streichen.
 
-
 ##### § 7 Prüfung der Vorschlagslisten
 
 (1) Der Wahlvorstand hat bei Überbringen der Vorschlagsliste oder,
@@ -309,7 +293,6 @@ einer Frist von zwei Arbeitstagen nach ihrem Eingang, zu prüfen und
 bei Ungültigkeit oder Beanstandung einer Liste die Listenvertreterin
 oder den Listenvertreter unverzüglich schriftlich unter Angabe der
 Gründe zu unterrichten.
-
 
 ##### § 8 Ungültige Vorschlagslisten
 
@@ -348,7 +331,6 @@ Gründe zu unterrichten.
 falls diese Mängel trotz Beanstandung nicht binnen einer Frist von
 drei Arbeitstagen beseitigt werden.
 
-
 ##### § 9 Nachfrist für Vorschlagslisten
 
 (1) Ist nach Ablauf der in § 6 Abs. 1 genannten Frist keine gültige
@@ -363,7 +345,6 @@ gültige Vorschlagsliste eingereicht wird.
 Vorschlagsliste nicht eingereicht, so hat der Wahlvorstand sofort
 bekannt zu machen, dass die Wahl nicht stattfindet.
 
-
 ##### § 10 Bekanntmachung der Vorschlagslisten
 
 (1) Nach Ablauf der in § 6 Abs. 1, § 8 Abs. 2 und § 9 Abs. 1 genannten
@@ -377,10 +358,7 @@ Wahlvorstand die als gültig anerkannten Vorschlagslisten bis zum
 Abschluss der Stimmabgabe in gleicher Weise bekannt zu machen wie das
 Wahlausschreiben (§ 3 Abs. 4).
 
-
 #### Zweiter Unterabschnitt - Wahlverfahren bei mehreren Vorschlagslisten (§ 14 Abs. 2 Satz 1 des Gesetzes)
-
-
 
 ##### § 11 Stimmabgabe
 
@@ -407,7 +385,6 @@ aus denen sich der Wille der Wählerin oder des Wählers nicht
 unzweifelhaft ergibt oder die andere Angaben als die in Absatz 1
 genannten Vorschlagslisten, einen Zusatz oder sonstige Änderungen
 enthalten, sind ungültig.
-
 
 ##### § 12 Wahlvorgang
 
@@ -447,13 +424,11 @@ wenn die Stimmenzählung nicht unmittelbar nach Beendigung der Wahl
 durchgeführt wird. Gleiches gilt, wenn die Stimmabgabe unterbrochen
 wird, insbesondere wenn sie an mehreren Tagen erfolgt.
 
-
 ##### § 13 Öffentliche Stimmauszählung
 
 Unverzüglich nach Abschluss der Wahl nimmt der Wahlvorstand öffentlich
 die Auszählung der Stimmen vor und gibt das aufgrund der Auszählung
 sich ergebende Wahlergebnis bekannt.
-
 
 ##### § 14 Verfahren bei der Stimmauszählung
 
@@ -466,7 +441,6 @@ Stimmzettel zu prüfen.
 Stimmzettel (§ 11 Abs. 3), so werden sie, wenn sie vollständig
 übereinstimmen, nur einfach gezählt, andernfalls als ungültig
 angesehen.
-
 
 ##### § 15 Verteilung der Betriebsratssitze auf die Vorschlagslisten
 
@@ -530,10 +504,6 @@ Folgendes:
     zuletzt ihren Sitz zu Gunsten des Geschlechts in der Minderheit nach
     Nummer 1 hätte abgeben müssen.
 
-
-
-
-
 ##### § 16 Wahlniederschrift
 
 (1) Nachdem ermittelt ist, welche Arbeitnehmerinnen und Arbeitnehmer
@@ -569,7 +539,6 @@ Niederschrift festzustellen:
 mindestens einem weiteren stimmberechtigten Mitglied des Wahlvorstands
 zu unterschreiben.
 
-
 ##### § 17 Benachrichtigung der Gewählten
 
 (1) Der Wahlvorstand hat die als Betriebsratsmitglieder gewählten
@@ -587,7 +556,6 @@ Person desselben Geschlechts, wenn ansonsten das Geschlecht in der
 Minderheit nicht die ihm nach § 15 Abs. 2 des Gesetzes zustehenden
 Mindestsitze erhält. § 15 Abs. 5 Nr. 2 bis 5 gilt entsprechend.
 
-
 ##### § 18 Bekanntmachung der Gewählten
 
 Sobald die Namen der Betriebsratsmitglieder endgültig feststehen, hat
@@ -596,16 +564,12 @@ bekannt zu machen wie das Wahlausschreiben (§ 3 Abs. 4). Je eine
 Abschrift der Wahlniederschrift (§ 16) ist dem Arbeitgeber und den im
 Betrieb vertretenen Gewerkschaften unverzüglich zu übersenden.
 
-
 ##### § 19 Aufbewahrung der Wahlakten
 
 Der Betriebsrat hat die Wahlakten mindestens bis zur Beendigung seiner
 Amtszeit aufzubewahren.
 
-
 #### Dritter Unterabschnitt - Wahlverfahren bei nur einer Vorschlagsliste (§ 14 Abs. 2 Satz 2 erster Halbsatz des Gesetzes)
-
-
 
 ##### § 20 Stimmabgabe
 
@@ -626,14 +590,12 @@ oder Bewerber angekreuzt werden, als Betriebsratsmitglieder zu wählen
 sind. § 11 Abs. 1 Satz 2, Abs. 2 Satz 2 und 3, Abs. 4, §§ 12 und 13
 gelten entsprechend.
 
-
 ##### § 21 Stimmauszählung
 
 Nach Öffnung der Wahlurne entnimmt der Wahlvorstand die Stimmzettel
 den Wahlumschlägen und zählt die auf jede Bewerberin und jeden
 Bewerber entfallenden Stimmen zusammen; § 14 Abs. 1 Satz 2 und Abs. 2
 gilt entsprechend.
-
 
 ##### § 22 Ermittlung der Gewählten
 
@@ -661,7 +623,6 @@ zustehen, so sind die insoweit überschüssigen Mitgliedersitze des
 Geschlechts in der Minderheit bei der Sitzverteilung nach Absatz 2
 Satz 2 zu berücksichtigen.
 
-
 ##### § 23 Wahlniederschrift, Bekanntmachung
 
 (1) Nachdem ermittelt ist, welche Arbeitnehmerinnen und Arbeitnehmer
@@ -682,10 +643,7 @@ Geschlechts, auf die Stimmen entfallen sind, geht dieser Sitz auf die
 nicht gewählte Person des anderen Geschlechts mit der nächsthöchsten
 Stimmenzahl über.
 
-
 ### Dritter Abschnitt - Schriftliche Stimmabgabe
-
-
 
 #### § 24 Voraussetzungen
 
@@ -731,7 +689,6 @@ Wahlberechtigten bedarf.
 Hauptbetrieb entfernt sind, kann der Wahlvorstand die schriftliche
 Stimmabgabe beschließen. Absatz 2 gilt entsprechend.
 
-
 #### § 25 Stimmabgabe
 
 Die Stimmabgabe erfolgt in der Weise, dass die Wählerin oder der
@@ -756,7 +713,6 @@ Die Wählerin oder der Wähler kann unter den Voraussetzungen des § 12
 Abs. 4 die in den Nummern 1 bis 3 bezeichneten Tätigkeiten durch eine
 Person des Vertrauens verrichten lassen.
 
-
 #### § 26 Verfahren bei der Stimmabgabe
 
 (1) Unmittelbar vor Abschluss der Stimmabgabe öffnet der Wahlvorstand
@@ -773,10 +729,7 @@ Wahlunterlagen zu nehmen. Die Briefumschläge sind einen Monat nach
 Bekanntgabe des Wahlergebnisses ungeöffnet zu vernichten, wenn die
 Wahl nicht angefochten worden ist.
 
-
 ### Vierter Abschnitt - Wahlvorschläge der Gewerkschaften
-
-
 
 #### § 27 Voraussetzungen, Verfahren
 
@@ -792,18 +745,11 @@ Listenvertreterin oder Listenvertreter. Die Gewerkschaft kann hierfür
 eine Arbeitnehmerin oder einen Arbeitnehmer des Betriebs, die oder der
 Mitglied der Gewerkschaft ist, benennen.
 
-
 ## Zweiter Teil - Wahl des Betriebsrats im vereinfachten Wahlverfahren (§ 14a des Gesetzes)
-
-
 
 ### Erster Abschnitt - Wahl des Betriebsrats im zweistufigen Verfahren (§ 14a Abs. 1 des Gesetzes)
 
-
-
 #### Erster Unterabschnitt - Wahl des Wahlvorstands
-
-
 
 ##### § 28 Einladung zur Wahlversammlung
 
@@ -847,7 +793,6 @@ Wahlversammlung nach Absatz 1 der einladenden Stelle alle für die
 Anfertigung der Wählerliste erforderlichen Unterlagen (§ 2) in einem
 versiegelten Umschlag auszuhändigen.
 
-
 ##### § 29 Wahl des Wahlvorstands
 
 Der Wahlvorstand wird in der Wahlversammlung zur Wahl des
@@ -856,10 +801,7 @@ Arbeitnehmer gewählt (§ 17a Nr. 3 Satz 1 des Gesetzes). Er besteht aus
 drei Mitgliedern (§ 17a Nr. 2 des Gesetzes). Für die Wahl der oder des
 Vorsitzenden des Wahlvorstands gilt Satz 1 entsprechend.
 
-
 #### Zweiter Unterabschnitt - Wahl des Betriebsrats
-
-
 
 ##### § 30 Wahlvorstand, Wählerliste
 
@@ -878,7 +820,6 @@ alphabetischer Reihenfolge aufgeführt werden. § 2 Abs. 1 Satz 3, Abs.
 Wirksamkeit für die Betriebsratswahl nur vor Ablauf von drei Tagen
 seit Erlass des Wahlausschreibens beim Wahlvorstand schriftlich
 eingelegt werden. § 4 Abs. 2 und 3 gilt entsprechend.
-
 
 ##### § 31 Wahlausschreiben
 
@@ -977,14 +918,12 @@ Wahlausschreiben mittels der im Betrieb vorhandenen Informations- und
 Kommunikationstechnik bekannt gemacht werden. § 2 Abs. 4 Satz 4 gilt
 entsprechend.
 
-
 ##### § 32 Bestimmung der Mindestsitze für das Geschlecht in der Minderheit
 
 Besteht der zu wählende Betriebsrat aus mindestens drei Mitgliedern,
 so hat der Wahlvorstand den Mindestanteil der Betriebsratssitze für
 das Geschlecht in der Minderheit (§ 15 Abs. 2 des Gesetzes) gemäß § 5
 zu errechnen.
-
 
 ##### § 33 Wahlvorschläge
 
@@ -1015,7 +954,6 @@ Wahlausschreiben (§ 31 Abs. 2).
 Betriebsrats gemacht worden, hat der Wahlvorstand bekannt zu machen,
 dass die Wahl nicht stattfindet. Die Bekanntmachung hat in gleicher
 Weise wie das Wahlausschreiben (§ 31 Abs. 2) zu erfolgen.
-
 
 ##### § 34 Wahlverfahren
 
@@ -1049,7 +987,6 @@ Stimmenzahl.
 (5) Sind mehrere Betriebsratsmitglieder zu wählen, gelten für die
 Ermittlung der Gewählten die §§ 22 und 23 Abs. 2 entsprechend.
 
-
 ##### § 35 Nachträgliche schriftliche Stimmabgabe
 
 (1) Können Wahlberechtigte an der Wahlversammlung zur Wahl des
@@ -1079,10 +1016,7 @@ Stimmabgabe in der Wählerliste in die bis dahin versiegelte Wahlurne.
 in die Wahlurne gelegt worden sind, nimmt der Wahlvorstand die
 Auszählung der Stimmen vor. § 34 Abs. 3 bis 5 gilt entsprechend.
 
-
 ### Zweiter Abschnitt - Wahl des Betriebsrats im einstufigen Verfahren (§ 14a Abs. 3 des Gesetzes)
-
-
 
 #### § 36 Wahlvorstand, Wahlverfahren
 
@@ -1144,10 +1078,7 @@ hat der Wahlvorstand bekannt zu machen, dass die Wahl nicht
 stattfindet. Die Bekanntmachung hat in gleicher Weise wie das
 Wahlausschreiben (Absatz 3) zu erfolgen.
 
-
 ### Dritter Abschnitt - Wahl des Betriebsrats in Betrieben mit in der Regel 51 bis 100 Wahlberechtigten (§ 14a Abs. 5 des Gesetzes)
-
-
 
 #### § 37 Wahlverfahren
 
@@ -1156,10 +1087,7 @@ Haben Arbeitgeber und Wahlvorstand in einem Betrieb mit in der Regel
 Wahlverfahren vereinbart (§ 14a Abs. 5 des Gesetzes), richtet sich das
 Wahlverfahren nach § 36.
 
-
 ## Dritter Teil - Wahl der Jugend- und Auszubildendenvertretung
-
-
 
 ### § 38 Wahlvorstand, Wahlvorbereitung
 
@@ -1168,7 +1096,6 @@ Vorschriften der §§ 1 bis 5 über den Wahlvorstand, die Wählerliste,
 das Wahlausschreiben und die Bestimmung der Mindestsitze für das
 Geschlecht in der Minderheit entsprechend. Dem Wahlvorstand muss
 mindestens eine nach § 8 des Gesetzes wählbare Person angehören.
-
 
 ### § 39 Durchführung der Wahl
 
@@ -1196,7 +1123,6 @@ Bewerber aufzuführen ist.
 (4) Für die schriftliche Stimmabgabe gelten die §§ 24 bis 26
 entsprechend.
 
-
 ### § 40 Wahl der Jugend- und Auszubildendenvertretung im vereinfachten Wahlverfahren
 
 (1) In Betrieben mit in der Regel fünf bis fünfzig der in § 60 Abs. 1
@@ -1213,10 +1139,7 @@ Arbeitnehmerinnen und Arbeitnehmern Arbeitgeber und Wahlvorstand die
 Anwendung des vereinfachten Wahlverfahrens vereinbart haben (§ 63 Abs.
 5 des Gesetzes).
 
-
 ## Vierter Teil - Übergangs- und Schlussvorschriften
-
-
 
 ### § 41 Berechnung der Fristen
 
@@ -1224,20 +1147,17 @@ Für die Berechnung der in dieser Verordnung festgelegten Fristen
 finden die §§ 186 bis 193 des Bürgerlichen Gesetzbuchs entsprechende
 Anwendung.
 
-
 ### § 42 Bereich der Seeschifffahrt
 
 Die Regelung der Wahlen für die Bordvertretung und den Seebetriebsrat
 (§§ 115 und 116 des Gesetzes) bleibt einer besonderen Rechtsverordnung
 vorbehalten.
 
-
 ### § 43 Inkrafttreten
 
 (1) Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 (2) (weggefallen)
-
 
 ### Schlussformel
 

@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 3046
 
-
 ## Eingangsformel
 
 Auf Grund des § 51 Absatz 1 Nummer 1 Buchstabe f des
@@ -28,9 +27,7 @@ und Artikel 97 § 22 Absatz 2 des Einführungsgesetzes zur
 Abgabenordnung durch Artikel 4 des Gesetzes vom 29. Juli 2009 (BGBl. I
 S. 2302) eingefügt worden ist, verordnet die Bundesregierung:
 
-
 ## Abschnitt 1 - Vorschriften zu § 51 Absatz 1 Nummer 1 Buchstabe f des Einkommensteuergesetzes
-
 
 ### § 1 Versagung des Abzugs von Betriebsausgaben und Werbungskosten
 
@@ -115,7 +112,6 @@ bevollmächtigen, in seinem Namen mögliche Auskunftsansprüche gegenüber
 den von der Finanzbehörde benannten Kreditinstituten außergerichtlich
 und gerichtlich geltend zu machen.
 
-
 ### § 2 Versagung der Entlastung vom Steuerabzug
 
 Hat eine ausländische Gesellschaft Anspruch auf völlige oder teilweise
@@ -137,7 +133,6 @@ an ihr 10 Prozent übersteigt, wird diese Entlastung ungeachtet des §
 Die Finanzbehörde kann für diese Personen eine Bestätigung nach § 50d
 Absatz 4 des Einkommensteuergesetzes verlangen.
 
-
 ### § 3 Versagung des gesonderten Steuertarifs für Einkünfte aus Kapitalvermögen und Versagung des Teileinkünfteverfahrens
 
 Kommt der Steuerpflichtige der Aufforderung im Sinne des § 1 Absatz 5
@@ -151,9 +146,7 @@ Satz 1 ist nicht anzuwenden, soweit eine der Voraussetzungen des § 51
 Absatz 1 Nummer 1 Buchstabe f Satz 2 des Einkommensteuergesetzes
 erfüllt ist.
 
-
 ## Abschnitt 2 - Vorschriften zu § 33 Absatz 1 Nummer 2 Buchstabe e des Körperschaftsteuergesetzes
-
 
 ### § 4 Versagung der Steuerbefreiung nach § 8b Absatz 1 Satz 1 und Absatz 2 Satz 1 des Körperschaftsteuergesetzes
 
@@ -175,9 +168,7 @@ Das gilt nicht, soweit eine der Voraussetzungen des § 33 Absatz 1
 Nummer 2 Buchstabe e Satz 3 des Körperschaftsteuergesetzes erfüllt
 ist.
 
-
 ## Abschnitt 3 - Vorschriften zu Artikel 97 § 22 Absatz 2 des Einführungsgesetzes zur Abgabenordnung
-
 
 ### § 5 Erstmalige Anwendung des § 90 Absatz 2 Satz 3, des § 147a, des § 162 Absatz 2 Satz 3 und des § 193 Absatz 1 und 2 Nummer 3 der Abgabenordnung
 
@@ -189,9 +180,7 @@ anzuwenden, die nach dem 31. Dezember 2009 beginnen. Bei Anwendung des
 Juli 2009 (BGBl. I S. 2302) im Besteuerungszeitraum 2010 sind die
 Einkünfte des Besteuerungszeitraums 2009 maßgebend.
 
-
 ## Abschnitt 4 - Schlussvorschriften
-
 
 ### § 6 Anwendungsvorschrift
 
@@ -201,11 +190,9 @@ Wirtschaftsjahr, sind die §§ 1, 3 und 4 erstmals ab dem 1. Januar 2010
 anzuwenden. § 2 ist erstmals auf Gewinnausschüttungen anzuwenden, die
 nach dem 31. Dezember 2009 gezahlt oder gutgeschrieben werden.
 
-
 ### § 7 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ### Schlussformel
 

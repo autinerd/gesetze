@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 Abs. 25 V v. 12.2.2009 I 320
 
-
 ## Eingangsformel
 
 Auf Grund des § 15 Abs. 1 Nr. 2 des Bundesbeamtengesetzes in der
@@ -31,7 +30,6 @@ Verordnung vom 15. April 1999 (BGBl. I S. 706) neu gefasst und § 27
 Abs. 1 durch Artikel 1 Nr. 10 der Verordnung vom 15. April 1999 (BGBl.
 I S. 706) geändert worden ist, verordnet der Vorstand der Eisenbahn-
 Unfallkasse im Einvernehmen mit dem Bundesministerium des Innern:
-
 
 ## § 1 Laufbahnämter
 
@@ -106,7 +104,6 @@ der Eisenbahn-Unfallkasse sind in der Regel als Aufsichtspersonen in
 den Bereichen Prävention und Gesundheitsschutz sowie als Leiterinnen
 oder Leiter der Außenbüros tätig.
 
-
 ## § 2 Ziel des Vorbereitungsdienstes
 
 Der Vorbereitungsdienst vermittelt den Anwärterinnen und Anwärtern die
@@ -115,14 +112,12 @@ berufspraktischen Fähigkeiten, Kenntnisse und Fertigkeiten, die zur
 Erfüllung der Aufgaben in der Laufbahn des gehobenen technischen
 Dienstes bei der Eisenbahn-Unfallkasse erforderlich sind.
 
-
 ## § 3 Einstellungsbehörde
 
 Einstellungsbehörde ist die Eisenbahn-Unfallkasse. Ihr obliegen die
 Bedarfsermittlung, die Ausschreibung, die Durchführung des
 Auswahlverfahrens, die Einstellung, die Beaufsichtigung sowie die
 Betreuung der Anwärterinnen und Anwärter.
-
 
 ## § 4 Einstellungsvoraussetzungen
 
@@ -137,10 +132,6 @@ In den Vorbereitungsdienst kann eingestellt werden, wer
     Aufsichtspersonen nach § 18 des Siebten Buches Sozialgesetzbuch
     (Prüfungsordnung) vom 15. Mai 1997 (EUK-Dialog Nr. 1/98 vom 13. März
     1998, S. 109 ff.) geforderte Vorbildung nachweisen kann.
-
-
-
-
 
 ## § 5 Ausschreibung, Bewerbung
 
@@ -174,13 +165,6 @@ Bewerbung sind beizufügen:
     b)  des Zulassungs- oder Eingliederungsscheins oder der Bestätigung nach §
         10 Abs. 4 des Soldatenversorgungsgesetzes.
 
-
-
-
-
-
-
-
 ## § 6 Auswahlverfahren
 
 (1) Vor der Entscheidung über die Einstellung in den
@@ -213,7 +197,6 @@ eine Rangfolge der geeigneten Bewerberinnen und Bewerber festgelegt.
 Die Mitglieder der Auswahlkommission sind unabhängig und an Weisungen
 nicht gebunden.
 
-
 ## § 7 Einstellung in den Vorbereitungsdienst
 
 (1) Die Eisenbahn-Unfallkasse entscheidet nach dem Ergebnis des
@@ -229,7 +212,6 @@ unmittelbaren Vorlage bei der Einstellungsbehörde sowie eine Erklärung
 nachzureichen. Eine amtsärztliche Einstellungsuntersuchung wird durch
 die Eisenbahn-Unfallkasse veranlasst.
 
-
 ## § 8 Rechtsstellung während des Vorbereitungsdienstes
 
 (1) Mit ihrer Einstellung werden - unter Berufung in das
@@ -239,7 +221,6 @@ Verwaltungsinspektoranwärtern ernannt. Die Anwärterinnen und Anwärter
 unterstehen der Dienstaufsicht der Einstellungsbehörde.
 
 (2) Urlaub wird auf den Vorbereitungsdienst angerechnet.
-
 
 ## § 9 Verlängerung des Vorbereitungsdienstes
 
@@ -268,7 +249,6 @@ kann.
 Verlängerung des Vorbereitungsdienstes nach § 19 der Prüfungsordnung
 vom 15. Mai 1997.
 
-
 ## § 10 Schwerbehinderte Menschen
 
 (1) Schwerbehinderten Menschen werden im Auswahlverfahren sowie für
@@ -285,13 +265,11 @@ des Neunten Buches Sozialgesetzbuch fallen, angewandt.
 (2) Im Auswahlverfahren wird die Schwerbehindertenvertretung nicht
 beteiligt, wenn der schwerbehinderte Mensch eine Beteiligung ablehnt.
 
-
 ## § 11 Ausbildungsmaßnahmen
 
 Für die Durchführung der Ausbildungsmaßnahmen (fachbezogene
 Ausbildung, Praxisausbildung, Ausbildungsplan, Bewertungen) gelten die
 Regelungen der Prüfungsordnung vom 15. Mai 1997.
-
 
 ## § 12 Laufbahnprüfung
 
@@ -306,7 +284,6 @@ bestanden, erteilt die oder der Vorsitzende des Prüfungsausschusses
 hierüber einen schriftlichen Bescheid. Abschriften dieser Unterlagen
 sind zu den Personalakten zu nehmen.
 
-
 ## § 13 Prüfungsakten, Einsichtnahme
 
 (1) Die Niederschriften über den Ablauf der mündlichen und
@@ -317,14 +294,12 @@ Die Prüfungsakten sind mindestens zehn Jahre aufzubewahren.
 (2) Die Anwärterinnen und Anwärter können Einsicht in die von ihnen
 gefertigten Prüfungsarbeiten einschließlich ihrer Bewertung nehmen.
 
-
 ## § 14 Rechtsstellung nach bestandener Prüfung, Probezeit
 
 Nach bestandener Prüfung werden - unter Berufung in das
 Beamtenverhältnis auf Probe - Anwärterinnen zu Technischen
 Verwaltungsoberinspektorinnen zur Anstellung (z. A.) und Anwärter zu
 Technischen Verwaltungsoberinspektoren zur Anstellung (z. A.) ernannt.
-
 
 ## § 15 Gleichwertige Befähigung
 
@@ -337,7 +312,6 @@ unter Berufung in das Beamtenverhältnis auf Probe - zu Technischen
 Verwaltungsoberinspektorinnen zur Anstellung (z. A.) oder zu
 Technischen Verwaltungsoberinspektoren zur Anstellung (z. A.) ernannt.
 Sie gelten als Regellaufbahnbewerberinnen und Regellaufbahnbewerber.
-
 
 ## § 16 Inkrafttreten
 

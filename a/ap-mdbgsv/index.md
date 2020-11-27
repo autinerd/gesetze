@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 V v. 2.12.2012 I 2408
 
-
 ## Eingangsformel
 
 Auf Grund des § 3 Abs. 2 Satz 2 des Bundespolizeibeamtengesetzes vom
@@ -27,10 +26,7 @@ Auf Grund des § 3 Abs. 2 Satz 2 des Bundespolizeibeamtengesetzes vom
 vom 29. Juni 1998 (BGBl. I S. 1666) neu gefasst worden ist, verordnet
 das Bundesministerium des Innern:
 
-
 ## Kapitel 1 - Ausbildung
-
-
 
 ### § 1 Ziel des Vorbereitungsdienstes
 
@@ -45,7 +41,6 @@ Kompetenz fördern und Polizeivollzugsbeamtinnen und
 Polizeivollzugsbeamte heranbilden, die sich ihrer besonderen
 Verantwortung im freiheitlichen, demokratischen und sozialen
 Rechtsstaat bewusst sind.
-
 
 ### § 2 Ausbildungsbehörde, Ausbildungsstellen
 
@@ -62,11 +57,9 @@ Standorten der Bundespolizeiakademie, die Ausbildungsaufgaben
 wahrnehmen, jeweils eine Ausbildungsleiterin oder ein
 Ausbildungsleiter zu bestellen.
 
-
 ### § 3 Dauer des Vorbereitungsdienstes
 
 Der Vorbereitungsdienst dauert zwei Jahre und sechs Monate.
-
 
 ### § 4 Gestaltung der Ausbildung
 
@@ -91,7 +84,6 @@ Abweichungen von den darin angegebenen Stundenzahlen in den einzelnen
 Ausbildungsgebieten sind bis zu 10 vom Hundert zulässig.
 
 (3) (weggefallen)
-
 
 ### § 5 Grundausbildung
 
@@ -173,7 +165,6 @@ Fertigkeiten soll auf der Grundlage der in Absatz 2 Nr. 1 und 2
 genannten Fächer fächerübergreifend in Handlungsfeldern polizeilicher
 Tätigkeiten erfolgen.
 
-
 ### § 6 Leistungsanforderungen
 
 (1) Während der Grundausbildung sind in den Fächern
@@ -252,7 +243,6 @@ Fach Englisch beim Nachweis entsprechender Kenntnisse in einer anderen
 Interpol-Arbeitssprache entfallen lassen. Eine Fachnote wird dann
 nicht erteilt.
 
-
 ### § 7 Weitere fachtheoretische und fachpraktische Ausbildung
 
 (1) Ziel der weiteren fachtheoretischen und fachpraktischen Ausbildung
@@ -276,7 +266,6 @@ Hundert in die jeweils entsprechend § 17 Abs. 1 zu bildende Fachnote
 ein. Die weiteren 50 vom Hundert ergeben sich aus den Leistungstests.
 Aus den einzelnen Fachnoten ist entsprechend § 17 Abs. 1 Satz 2 eine
 Durchschnittsrangpunktzahl zu bilden.
-
 
 ### § 8 Laufbahnlehrgang
 
@@ -324,7 +313,6 @@ sich zu 50 vom Hundert aus den Aufsichtsarbeiten und zu 50 vom Hundert
 aus den schriftlichen und mündlichen Leistungstests in den
 Prüfungsfächern.
 
-
 ### § 9 Entlassung
 
 Wer die Anforderungen des Vorbereitungsdienstes in körperlicher,
@@ -334,13 +322,11 @@ nicht zu erreichen ist, kann durch Widerruf nach § 37 des
 Bundesbeamtengesetzes entlassen werden. Eine Entlassung aus einem
 sonstigen wichtigen Grund bleibt hiervon unberührt.
 
-
 ### § 10 Urlaubszeiten
 
 Auf die Ausbildungszeit werden Zeiten des Erholungsurlaubs voll,
 Zeiten eines Sonderurlaubs in der Regel bis zu einem Monat innerhalb
 des Ausbildungsjahres angerechnet.
-
 
 ### § 11 Verkürzung von Ausbildungsabschnitten und Verlängerung des Vorbereitungsdienstes
 
@@ -372,10 +358,7 @@ Vorbereitungsdienst verlängern.
 
 (7)(weggefallen)
 
-
 ## Kapitel 2 - Prüfungen
-
-
 
 ### § 12 Art der Prüfungen
 
@@ -386,10 +369,6 @@ Die Vorschriften der §§ 13 bis 32 gelten für
 
 2.  die Laufbahnprüfung für den mittleren Polizeivollzugsdienst in der
     Bundespolizei.
-
-
-
-
 
 ### § 13 Zweck der Prüfungen
 
@@ -403,7 +382,6 @@ der Bundespolizei geeignet sind.
 und Anwärter das Ziel der Ausbildung erreicht haben und nach den
 erworbenen Fertigkeiten und Kenntnissen für die Laufbahn des mittleren
 Polizeivollzugsdienstes in der Bundespolizei befähigt sind.
-
 
 ### § 14 Prüfungsamt, Prüfungsausschüsse
 
@@ -489,7 +467,6 @@ Prüfungsausschussvorsitzenden.
 (6) Die Mitglieder der Prüfungsausschüsse sind bei ihrer Tätigkeit als
 Prüferinnen und Prüfer unabhängig und an Weisungen nicht gebunden.
 
-
 ### § 15 Zeit, Ort und Ablauf der Prüfungen
 
 (1) Die Zwischenprüfung findet am Ende der Grundausbildung und die
@@ -508,7 +485,6 @@ mündlichen Teil. Der schriftliche Teil geht dem mündlichen voraus. Bei
 der Zwischenprüfung ist zusätzlich in den in § 5 Abs. 2 Nr. 1 und 2
 genannten Fächern eine fächerübergreifende praktische Prüfung
 abzulegen.
-
 
 ### § 16 Prüfungsfächer
 
@@ -531,7 +507,6 @@ sind
 
 (2) Die praktische Prüfung innerhalb der Zwischenprüfung erstreckt
 sich auf die in § 15 Abs. 4 Satz 3 genannten Fächer.
-
 
 ### § 17 Bewertung von Prüfungsleistungen
 
@@ -732,7 +707,6 @@ aus wird die Erteilung des der Leistung entsprechenden Rangpunktes
 begründet. Für die Bewertung mündlicher Leistungen gelten diese
 Grundsätze sinngemäß.
 
-
 ### § 18 Lehrgangsleistungen
 
 (1) Die Lehrgangsleistungen für die Zwischenprüfung und für die
@@ -744,7 +718,6 @@ erteilten Fachnoten. Aus diesen Fachnoten ist jeweils nach Maßgabe des
 Ausbildungsleiterin oder dem Ausbildungsleiter festzustellen und den
 Anwärterinnen und Anwärtern mindestens drei Arbeitstage vor der
 schriftlichen Prüfung bekannt zu geben.
-
 
 ### § 19 Schriftliche Prüfungsarbeiten
 
@@ -788,16 +761,6 @@ In den schriftlichen Prüfungen sind anzufertigen
 
         bb) Kriminalistik.
 
-
-
-
-
-
-
-
-
-
-
 ### § 20 Vorbereitung der schriftlichen Prüfung
 
 (1) Das Prüfungsamt lässt zu jedem Fach, das Gegenstand der
@@ -826,7 +789,6 @@ prüfungsfreier Tag vorzusehen.
 
 (4) Die Prüfungsvorschläge und die Prüfungsaufgaben sind geheim zu
 halten.
-
 
 ### § 21 Durchführung der schriftlichen Prüfung
 
@@ -875,7 +837,6 @@ weisen rechtzeitig auf den Ablauf der Bearbeitungszeit hin. Eine trotz
 Aufforderung nicht rechtzeitig abgegebene Prüfungsarbeit ist mit einem
 entsprechenden Hinweis zu versehen.
 
-
 ### § 22 Bewertung der schriftlichen Arbeiten
 
 (1) Jede Prüfungsarbeit wird von der Fachprüferin oder dem Fachprüfer
@@ -884,7 +845,6 @@ und einem weiteren Mitglied des Prüfungsausschusses bewertet.
 (2) Weichen die Bewertungen voneinander ab, entscheidet der
 Prüfungsausschuss im Rahmen der von den Korrektorinnen und Korrektoren
 festgelegten Rangpunktzahlen. Im Übrigen gilt § 14 Abs. 5.
-
 
 ### § 23 Bekanntgabe der schriftlichen Prüfungsleistungen und der Fächer der mündlichen Prüfung
 
@@ -896,14 +856,12 @@ mündliche Prüfung in anderen Prüfungsfächern nicht aus, falls der
 Prüfungsausschuss dies aufgrund des Verlaufs der mündlichen Prüfung
 für erforderlich hält.
 
-
 ### § 24 Zulassung zur mündlichen und praktischen Prüfung
 
 Anwärterinnen und Anwärter werden zur mündlichen und gegebenenfalls
 praktischen Prüfung zugelassen, wenn zwei oder mehr schriftliche
 Prüfungsarbeiten mindestens mit fünf Rangpunkten bewertet worden sind.
 Andernfalls ist die Prüfung nicht bestanden.
-
 
 ### § 25 Mündliche und praktische Prüfung
 
@@ -952,7 +910,6 @@ Prüfungsleistungen bekannt gegeben.
 Niederschrift zu fertigen, die von den Mitgliedern des
 Prüfungsausschusses zu unterschreiben ist.
 
-
 ### § 26 Verhinderung, Rücktritt, Säumnis
 
 (1) Wer durch eine Erkrankung oder sonstige nicht zu vertretende
@@ -978,7 +935,6 @@ Prüfungsleistung nachgeholt werden kann, mit "ungenügend" (Rangpunkt
 0) bewertet oder die gesamte Prüfung für nicht bestanden erklärt wird.
 Die Entscheidung ist mit einer Rechtsbehelfsbelehrung zu versehen.
 
-
 ### § 27 Täuschung, Ordnungsverstoß
 
 (1) Anwärterinnen oder Anwärtern, die in der Prüfung eine Täuschung
@@ -1003,7 +959,6 @@ von fünf Jahren nach dem Tag der mündlichen Prüfung.
 
 (4) Die Betroffenen sind vor der Entscheidung zu hören.
 
-
 ### § 28 Anwesenheit Dritter
 
 (1) Die Prüfung ist nicht öffentlich. Beauftragte des
@@ -1018,7 +973,6 @@ der mündlichen Prüfung gestatten.
 
 (3) An der Beratung über die Prüfungsleistung nimmt ausschließlich der
 Prüfungsausschuss teil.
-
 
 ### § 29 Prüfungsergebnis
 
@@ -1083,7 +1037,6 @@ die Bildung von Noten unberücksichtigt.
 oder der Vorsitzende den Anwärterinnen und Anwärtern die erreichten
 Rangpunkte mit und erläutert sie auf Wunsch kurz mündlich.
 
-
 ### § 30 Zeugnis
 
 (1) Die Vorsitzenden der Prüfungsausschüsse erteilen den Anwärterinnen
@@ -1104,7 +1057,6 @@ auch die Dauer der Ausbildung und die Ausbildungsinhalte umfasst.
 Mitteilung der Prüfungsergebnisse werden durch das Prüfungsamt
 berichtigt. Unrichtige Prüfungszeugnisse sind zurückzugeben.
 
-
 ### § 31 Prüfungsakten, Einsichtnahme
 
 (1) Die Niederschriften über den Ablauf der schriftlichen, mündlichen
@@ -1116,7 +1068,6 @@ mindestens fünf Jahre aufbewahrt.
 (2) Die Anwärterinnen und Anwärter können nach Abschluss der
 Laufbahnprüfung Einsicht in die sie betreffenden Teile der
 Prüfungsakten nehmen.
-
 
 ### § 32 Wiederholung einer Prüfung
 
@@ -1138,10 +1089,7 @@ Zwischenprüfung nicht ausgesetzt.
 die Laufbahnprüfung nicht bestanden haben, bis zum Abschluss der
 Wiederholungsprüfung verlängert.
 
-
 ## Kapitel 3 - Sonstige Vorschriften
-
-
 
 ### § 33 Experimentierklausel
 
@@ -1193,11 +1141,9 @@ insgesamt höchstens 50 Anwärterinnen und Anwärtern beziehen.
 begleitet werden. In einem Abschlussbericht sind die Ergebnisse
 darzustellen und wissenschaftlich zu bewerten.
 
-
 ### § 34 (weggefallen)
 
 -
-
 
 ### § 35 Inkrafttreten
 

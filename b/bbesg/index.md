@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 3 G v. 15.8.2012 I 1670
 
-
 ## 1. Abschnitt - Allgemeine Vorschriften
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -77,7 +74,6 @@ Zuletzt geändert durch
 (4) Dieses Gesetz gilt nicht für die öffentlich-rechtlichen
 Religionsgesellschaften und ihre Verbände.
 
-
 ### § 2 Regelung durch Gesetz
 
 (1) Die Besoldung der Beamten, Richter und Soldaten wird durch Gesetz
@@ -91,7 +87,6 @@ Versicherungsverträge, die zu diesem Zweck abgeschlossen werden.
 (3) Der Beamte, Richter oder Soldat kann auf die ihm gesetzlich
 zustehende Besoldung weder ganz noch teilweise verzichten; ausgenommen
 sind die vermögenswirksamen Leistungen.
-
 
 ### § 3 Anspruch auf Besoldung
 
@@ -125,7 +120,6 @@ mehr aufzurunden. Zwischenrechnungen werden jeweils auf zwei
 Dezimalstellen durchgeführt. Jeder Bezügebestandteil ist einzeln zu
 runden.
 
-
 ### § 3a Besoldungskürzung
 
 (1) Der Anspruch auf monatliche Dienst- und Anwärterbezüge wird um 0,5
@@ -139,7 +133,6 @@ fiel, vermindert worden ist.
 Handelt es sich um einen Feiertag, der im laufenden Kalenderjahr vor
 dem Zeitpunkt des Inkrafttretens der Regelung über die Streichung
 liegt, wirkt die Aufhebung erst im folgenden Kalenderjahr.
-
 
 ### § 4 Weitergewährung der Besoldung bei Versetzung in den einstweiligen Ruhestand
 
@@ -165,7 +158,6 @@ beteiligt ist. Die Entscheidung, ob die Voraussetzungen erfüllt sind,
 trifft das Bundesministerium des Innern oder die von ihm bestimmte
 Stelle.
 
-
 ### § 5 Besoldung bei mehreren Hauptämtern
 
 Hat der Beamte, Richter oder Soldat mit Genehmigung der obersten
@@ -175,7 +167,6 @@ soweit gesetzlich nichts anderes bestimmt ist. Sind für die Ämter
 Dienstbezüge in gleicher Höhe vorgesehen, so werden die Dienstbezüge
 aus dem ihm zuerst übertragenen Amt gezahlt, soweit gesetzlich nichts
 anderes bestimmt ist.
-
 
 ### § 6 Besoldung bei Teilzeitbeschäftigung
 
@@ -228,11 +219,9 @@ durch Rechtsverordnung einen weiteren Zuschlag zu bestimmen, für den
 eine Ruhegehaltfähigkeit in einem in der Rechtsverordnung näher
 bestimmten Umfang vorgesehen werden kann.
 
-
 ### § 7 (weggefallen)
 
 -
-
 
 ### § 8 Kürzung der Besoldung bei Gewährung einer Versorgung durch eine zwischenstaatliche oder überstaatliche Einrichtung
 
@@ -262,14 +251,12 @@ Familienzuschlag, Amtszulagen, ruhegehaltfähige Stellenzulagen und
 ruhegehaltfähige Leistungsbezüge für Professoren sowie hauptberufliche
 Leiter und Mitglieder von Leitungsgremien an Hochschulen.
 
-
 ### § 9 Verlust der Besoldung bei schuldhaftem Fernbleiben vom Dienst
 
 Bleibt der Beamte, Richter oder Soldat ohne Genehmigung schuldhaft dem
 Dienst fern, so verliert er für die Zeit des Fernbleibens seine
 Bezüge. Dies gilt auch bei einem Fernbleiben vom Dienst für Teile
 eines Tages. Der Verlust der Bezüge ist festzustellen.
-
 
 ### § 9a Anrechnung anderer Einkünfte auf die Besoldung
 
@@ -293,14 +280,12 @@ Einvernehmen mit dem Bundesministerium des Innern in besonderen Fällen
 von der Anrechnung ganz oder teilweise absehen. Die Sätze 1 bis 3
 gelten entsprechend für Soldaten.
 
-
 ### § 10 Anrechnung von Sachbezügen auf die Besoldung
 
 Erhält ein Beamter, Richter oder Soldat Sachbezüge, so werden diese
 unter Berücksichtigung ihres wirtschaftlichen Wertes mit einem
 angemessenen Betrag auf die Besoldung angerechnet, soweit nichts
 anderes bestimmt ist.
-
 
 ### § 11 Abtretung von Bezügen, Verpfändung, Aufrechnungs- und Zurückbehaltungsrecht
 
@@ -313,7 +298,6 @@ Aufrechnungs- oder Zurückbehaltungsrecht nur in Höhe des pfändbaren
 Teils der Bezüge geltend machen. Dies gilt nicht, soweit gegen den
 Beamten, Richter oder Soldaten ein Anspruch auf Schadenersatz wegen
 vorsätzlicher unerlaubter Handlung besteht.
-
 
 ### § 12 Rückforderung von Bezügen
 
@@ -356,7 +340,6 @@ entsprechenden Betrag bereits anderweitig verfügt wurde, hat der
 die über den Betrag verfügt haben, und etwaiger neuer Kontoinhaber zu
 benennen. Ein Anspruch gegen die Erben bleibt unberührt.
 
-
 ### § 13 Ausgleichszulage für den Wegfall von Stellenzulagen
 
 (1) Der Wegfall einer Stellenzulage aus dienstlichen Gründen, die
@@ -389,7 +372,6 @@ Soldatenverhältnis berufen wird oder wenn im unmittelbaren
 Zusammenhang mit einem Verwendungswechsel eine zuvor gewährte
 Stellenzulage nur noch mit einem geringeren Betrag zusteht und die
 jeweilige Zulagenvorschrift keinen anderweitigen Ausgleich vorsieht.
-
 
 ### § 14 Anpassung der Besoldung
 
@@ -431,7 +413,6 @@ die Monatsbeträge der Anlage VI.
 (4) Ab 1. März 2012 gelten unter Berücksichtigung einer Erhöhung der
 Anwärtergrundbeträge um 50 Euro die Monatsbeträge der Anlage VIII.
 
-
 ### § 14a Versorgungsrücklage
 
 (1) Um die Versorgungsleistungen angesichts der demographischen
@@ -470,7 +451,6 @@ Entwicklung der allgemeinen wirtschaftlichen und finanziellen
 Verhältnisse vor Ablauf des in Absatz 2a genannten Zeitraums zu
 prüfen.
 
-
 ### § 15 Dienstlicher Wohnsitz
 
 (1) Dienstlicher Wohnsitz des Beamten oder Richters ist der Ort, an
@@ -494,12 +474,10 @@ Dienstlicher Wohnsitz des Soldaten ist sein Standort.
 
 Sie kann diese Befugnis auf nachgeordnete Stellen übertragen.
 
-
 ### § 16 Amt, Dienstgrad
 
 Soweit in Vorschriften dieses Gesetzes auf das Amt verwiesen wird,
 steht dem Amt der Dienstgrad des Soldaten gleich.
-
 
 ### § 17 Aufwandsentschädigungen
 
@@ -512,7 +490,6 @@ Grund tatsächlicher Anhaltspunkte oder tatsächlicher Erhebungen
 nachvollziehbar ist, dass und in welcher Höhe dienstbezogene
 finanzielle Aufwendungen typischerweise entstehen; sie werden im
 Einvernehmen mit dem Bundesministerium des Innern festgesetzt.
-
 
 ### § 17a Zahlungsweise
 
@@ -527,7 +504,6 @@ kann nur zugestanden werden, wenn dem Empfänger die Einrichtung oder
 Benutzung eines Kontos aus wichtigem Grund nicht zugemutet werden
 kann.
 
-
 ### § 17b Lebenspartnerschaft
 
 Die Vorschriften dieses Gesetzes, die sich auf das Bestehen oder das
@@ -536,14 +512,9 @@ Bestehen oder das frühere Bestehen einer Lebenspartnerschaft. Die
 Vorschriften dieses Gesetzes, die sich auf den Ehegatten beziehen,
 gelten entsprechend für den Lebenspartner.
 
-
 ## 2. Abschnitt - Grundgehalt, Leistungsbezüge an Hochschulen
 
-
-
 ### 1. Unterabschnitt - Allgemeine Grundsätze
-
-
 
 #### § 18 Grundsatz der funktionsgerechten Besoldung
 
@@ -552,7 +523,6 @@ ihnen verbundenen Anforderungen sachgerecht zu bewerten und Ämtern
 zuzuordnen. Die Ämter sind nach ihrer Wertigkeit unter
 Berücksichtigung der gemeinsamen Belange aller Dienstherren den
 Besoldungsgruppen zuzuordnen.
-
 
 #### § 19 Bestimmung des Grundgehaltes nach dem Amt
 
@@ -580,7 +550,6 @@ festgelegten Bewertungsmaßstab, insbesondere nach der Zahl der
 Planstellen, so gibt die Erfüllung dieser Voraussetzungen allein
 keinen Anspruch auf die Besoldung aus diesem Amt.
 
-
 #### § 19a Besoldung bei Verleihung eines anderen Amtes
 
 Verringert sich während eines Dienstverhältnisses nach § 1 Absatz 1
@@ -598,7 +567,6 @@ entsprechend für Amtszulagen, auch bei Übertragung einer anderen
 Funktion. Die Sätze 1 bis 3 gelten nicht im Fall des § 24 Absatz 6
 Satz 3 des Bundesbeamtengesetzes sowie im Fall der Übertragung eines
 Amtes in einem Dienstverhältnis auf Zeit.
-
 
 #### § 19b Besoldung bei Wechsel in den Dienst des Bundes
 
@@ -625,10 +593,7 @@ Versorgungsbezüge verringert sie sich bei jeder auf das Grundgehalt
 bezogenen Erhöhung der Versorgungsbezüge um ein Drittel des
 Erhöhungsbetrages.
 
-
 ### 2. Unterabschnitt - Vorschriften für Beamte und Soldaten
-
-
 
 #### § 20 Besoldungsordnungen A und B
 
@@ -642,16 +607,13 @@ ausgewiesen. Die Bundesregierung wird ermächtigt, durch
 Rechtsverordnung Funktionen den Ämtern in den
 Bundesbesoldungsordnungen zuzuordnen.
 
-
 #### § 21 (weggefallen)
 
 -
 
-
 #### § 22 (weggefallen)
 
 -
-
 
 #### § 23 Eingangsämter für Beamte
 
@@ -691,7 +653,6 @@ Bereichen der Informatik oder der Informationstechnik überwiegen; bei
 einem Abschluss in einem ingenieurwissenschaftlichen Studiengang kann
 auch das Eingangsamt A 11 zugewiesen werden.
 
-
 #### § 24 Eingangsamt für Beamte in besonderen Laufbahnen
 
 (1) Das Eingangsamt in Sonderlaufbahnen, bei denen
@@ -717,14 +678,12 @@ die Voraussetzung des Absatzes 1 Satz 1 Nummer 2 erfüllt ist, der
 höheren Besoldungsgruppe zugewiesen werden, in die gleichwertige Ämter
 eingereiht sind.
 
-
 #### § 25 Beförderungsämter
 
 Beförderungsämter dürfen, soweit gesetzlich nichts anderes bestimmt
 ist, nur eingerichtet werden, wenn sie sich von den Ämtern der
 niedrigeren Besoldungsgruppe nach der Wertigkeit der zugeordneten
 Funktionen wesentlich abheben.
-
 
 #### § 26 Obergrenzen für Beförderungsämter
 
@@ -838,7 +797,6 @@ Dies gilt entsprechend für die Umwandlung von Planstellen, wenn die
 Obergrenzen nach einer Fußnote zur Bundesbesoldungsordnung A aus
 gleichen Gründen überschritten werden.
 
-
 #### § 27 Bemessung des Grundgehaltes
 
 (1) Das Grundgehalt wird, soweit nicht gesetzlich etwas Anderes
@@ -948,7 +906,6 @@ oder Soldaten oder infolge strafgerichtlicher Verurteilung, regelt
 sich das Aufsteigen im Zeitraum seiner vorläufigen Dienstenthebung
 nach Absatz 3 oder Absatz 4.
 
-
 #### § 28 Berücksichtigungsfähige Zeiten
 
 (1) Bei der ersten Stufenfestsetzung werden den Beamten als
@@ -1042,7 +999,6 @@ Bundesbesoldungsgesetzes in der bis zum 30. Juni 2009 geltenden
 Fassung berücksichtigt wurden, werden auf die Zeiten nach Absatz 2
 Nummer 1 angerechnet.
 
-
 #### § 29 Öffentlich-rechtliche Dienstherren
 
 (1) Öffentlich-rechtliche Dienstherren im Sinne dieses Gesetzes sind
@@ -1063,10 +1019,6 @@ stehen gleich:
 2.  die von volksdeutschen Vertriebenen und Spätaussiedlern ausgeübte
     gleichartige Tätigkeit im Dienst eines öffentlich-rechtlichen
     Dienstherrn ihres Herkunftslandes.
-
-
-
-
 
 #### § 30 Nicht zu berücksichtigende Dienstzeiten
 
@@ -1104,17 +1056,9 @@ oder Soldat
 4.  Absolvent der Akademie für Staat und Recht oder einer vergleichbaren
     Bildungseinrichtung war.
 
-
-
-
-
 #### § 31 (weggefallen)
 
-
-
 ### 3. Unterabschnitt - Vorschriften für Professoren sowie hauptberufliche Leiter und Mitglieder von Leitungsgremien an Hochschulen
-
-
 
 #### § 32 Bundesbesoldungsordnung W
 
@@ -1125,7 +1069,6 @@ hauptberufliche Leiter und Mitglieder von Leitungsgremien an
 Hochschulen, die nicht Professoren sind, soweit ihre Ämter nicht
 Besoldungsgruppen der Bundesbesoldungsordnungen A und B zugewiesen
 sind.
-
 
 #### § 33 Leistungsbezüge
 
@@ -1225,7 +1168,6 @@ Einmalzahlung gewährt werden.
     Dezember 2010 maßgeblichen“ eingefügt und die Angabe „2,5 vom Hundert“
     durch die Angabe „2,44 vom Hundert“ ersetzt.
 
-
 #### § 34 Vergaberahmen
 
 (1) Der Gesamtbetrag der Leistungsbezüge (Vergaberahmen) ist so zu
@@ -1284,7 +1226,6 @@ nicht.
     in § 34 Absatz 3 Satz 1 die Angabe „sowie für sonstige Bezüge nach § 1
     Absatz 3 Nummer 2“ gestrichen.
 
-
 #### § 35 Forschungs- und Lehrzulage
 
 Das Bundesministerium der Verteidigung für seinen Bereich, das
@@ -1308,14 +1249,9 @@ Rechtsverordnung übertragen; Rechtsverordnungen, die auf Grund der
 bedürfen des Einvernehmens mit dem Bundesministerium für Arbeit und
 Soziales und dem Bundesministerium des Innern.
 
-
 #### § 36 (weggefallen)
 
-
-
 ### 4. Unterabschnitt - Vorschriften für Richter und Staatsanwälte
-
-
 
 #### § 37 Besoldungsordnung R
 
@@ -1324,7 +1260,6 @@ Vertreter des öffentlichen Interesses bei den Gerichten der
 Verwaltungsgerichtsbarkeit, und ihre Besoldungsgruppen sind in der
 Bundesbesoldungsordnung R (Anlage III) geregelt. Die Grundgehaltssätze
 der Besoldungsgruppen sind in der Anlage IV ausgewiesen.
-
 
 #### § 38 Bemessung des Grundgehalts
 
@@ -1367,10 +1302,7 @@ Entlassung auf Antrag des Richters oder Staatsanwaltes oder infolge
 strafgerichtlicher Verurteilung, so erlischt der Anspruch auch für die
 Zeit des Ruhens.
 
-
 ## 3. Abschnitt - Familienzuschlag
-
-
 
 ### § 39 Grundlage des Familienzuschlages
 
@@ -1391,7 +1323,6 @@ des Bundeskindergeldgesetzes zustehen, so erhalten sie zusätzlich den
 Unterschiedsbetrag zwischen der Stufe 1 und der Stufe des
 Familienzuschlages, der der Anzahl der Kinder entspricht. § 40 Abs. 5
 gilt entsprechend.
-
 
 ### § 40 Stufen des Familienzuschlages
 
@@ -1529,7 +1460,6 @@ Innern oder die von ihm bestimmte Stelle.
 zur Durchführung dieser Vorschrift erforderlichen personenbezogenen
 Daten erheben und untereinander austauschen.
 
-
 ### § 41 Änderung des Familienzuschlages
 
 Der Familienzuschlag wird vom Ersten des Monats an gezahlt, in den das
@@ -1538,10 +1468,7 @@ Monat, in dem die Anspruchsvoraussetzungen an keinem Tage vorgelegen
 haben. Die Sätze 1 und 2 gelten entsprechend für die Zahlung von
 Teilbeträgen der Stufen des Familienzuschlages.
 
-
 ## 4. Abschnitt - Zulagen, Prämien, Zuschläge, Vergütungen
-
-
 
 ### § 42 Amtszulagen und Stellenzulagen
 
@@ -1572,7 +1499,6 @@ Dienstbehörde oder die von ihr bestimmte Stelle.
 
 (4) Die Stellenzulagen sind widerruflich und nur ruhegehaltfähig, wenn
 dies gesetzlich bestimmt ist.
-
 
 ### § 42a Prämien und Zulagen für besondere Leistungen
 
@@ -1627,7 +1553,6 @@ veranschlagte Mittel in Höhe von 31 Millionen Euro zur Verfügung
 gestellt. Für die Ermittlung der Besoldungsausgaben wird jeweils das
 vorangegangene Kalenderjahr zugrunde gelegt. Das Vergabebudget ist
 zweckentsprechend zu verwenden und jährlich vollständig auszuzahlen.
-
 
 ### § 43 Personalgewinnungszuschlag
 
@@ -1753,7 +1678,6 @@ Mittel, nicht überschreiten.
 (12) Das Bundesministerium des Innern prüft die Anwendung und die
 Wirkung des Zuschlags bis zum 31. Dezember 2016.
 
-
 ### § 43a Prämien für Angehörige der Spezialkräfte der Bundeswehr
 
 (1) Wer als Kommandosoldat oder als Kampfschwimmer für Einsatzaufgaben
@@ -1812,7 +1736,6 @@ Absatzes 6 oder des Absatzes 7 nicht nebeneinander gewährt.
 
 (9) Die Wirkung der Regelungen der Absätze 1 bis 4 ist vor Ablauf des
 31\. Dezember 2014 zu prüfen.
-
 
 ### § 43b Verpflichtungsprämie für Soldaten auf Zeit
 
@@ -1912,7 +1835,6 @@ Verteidigung unter Beteiligung des Bundesministeriums des Innern und
 des Bundesministeriums der Finanzen die Anwendung und die Wirkung der
 Verpflichtungsprämie.
 
-
 ### § 44 Stellenzulage für hauptamtliche Lehrkräfte
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung die
@@ -1924,7 +1846,6 @@ darf nur vorgesehen werden, soweit die Wahrnehmung dieser Funktion
 nicht bei der Einstufung berücksichtigt ist. Sie darf den Betrag nach
 Anlage IX nicht überschreiten. Mit der Stellenzulage sind die mit der
 Tätigkeit verbundenen Erschwernisse und ein Aufwand mit abgegolten.
-
 
 ### § 45 Zulage für die Wahrnehmung befristeter Funktionen
 
@@ -1946,7 +1867,6 @@ jeweiligen Erhöhungsbetrag. § 13 findet keine Anwendung.
 (3) Die Entscheidung über die Zahlung der Zulage trifft im Rahmen
 haushaltsrechtlicher Bestimmungen die oberste Dienstbehörde.
 
-
 ### § 46 Zulage für die Wahrnehmung eines höherwertigen Amtes
 
 (1) Werden einem Beamten oder Soldaten die Aufgaben eines
@@ -1960,7 +1880,6 @@ vorliegen.
 Grundgehalt seiner Besoldungsgruppe und dem Grundgehalt gewährt, der
 das höherwertige Amt zugeordnet ist.
 
-
 ### § 47 Zulagen für besondere Erschwernisse
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung die
@@ -1970,7 +1889,6 @@ Erschwernisse (Erschwerniszulagen) zu regeln. Die Zulagen sind
 widerruflich und nicht ruhegehaltfähig. Es kann bestimmt werden,
 inwieweit mit der Gewährung von Erschwerniszulagen ein besonderer
 Aufwand des Beamten, Richters oder Soldaten mit abgegolten ist.
-
 
 ### § 48 Mehrarbeitsvergütung
 
@@ -1994,7 +1912,6 @@ eine von der für sie jeweils geltenden regelmäßigen Arbeitszeit
 abweichende Arbeitszeit festgelegt wurde, nicht oder nur teilweise
 möglich ist.
 
-
 ### § 49 Vergütung für Beamte im Vollstreckungsdienst
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, durch
@@ -2010,10 +1927,7 @@ Vollstreckungsaufträge sowie für das Kalenderjahr festgesetzt werden.
 Es kann bestimmt werden, inwieweit mit der Vergütung ein besonderer
 Aufwand des Beamten mit abgegolten ist.
 
-
 ### § 50 (weggefallen)
-
-
 
 ### § 50a Vergütung für Soldaten mit besonderer zeitlicher Belastung
 
@@ -2036,7 +1950,6 @@ Vergütung und die Freistellung vom Dienst ist die tägliche
 Rahmendienstzeit als Bestandteil einer wöchentlichen Rahmendienstzeit.
 Die Vergütung wird frühestens für Dienste nach Ablauf von 3 Monaten
 seit dem Dienstantritt gewährt.
-
 
 ### § 50b Vergütung für Bereitschaftsdienst und Rufbereitschaft von Sanitätsoffizieren in Bundeswehrkrankenhäusern
 
@@ -2067,7 +1980,6 @@ Tätigkeit, für die Gebühren nach der Gebührenordnung für Ärzte oder
 der Gebührenordnung für Zahnärzte berechnet werden können, bleiben
 unberücksichtigt.
 
-
 ### § 51 Andere Zulagen und Vergütungen
 
 Andere als die in diesem Abschnitt geregelten Zulagen und Vergütungen
@@ -2075,10 +1987,7 @@ dürfen nur gewährt werden, soweit dies gesetzlich bestimmt ist.
 Vergütungen für Nebentätigkeiten im öffentlichen Dienst bleiben
 unberührt.
 
-
 ## 5. Abschnitt - Auslandsbesoldung
-
-
 
 ### § 52 Auslandsdienstbezüge
 
@@ -2111,7 +2020,6 @@ Ausland vorgesehenen zusteht, erhalten die Auslandsdienstbezüge nur
 nach der niedrigeren Besoldungsgruppe. Das Grundgehalt der niedrigeren
 Besoldungsgruppe und der entsprechende Familienzuschlag werden auch
 dem Kaufkraftausgleich zugrunde gelegt.
-
 
 ### § 53 Auslandszuschlag
 
@@ -2266,7 +2174,6 @@ Rechtsverordnung im Einvernehmen mit dem Bundesministerium des Innern,
 dem Bundesministerium der Finanzen und dem Bundesministerium der
 Verteidigung.
 
-
 ### § 54 Mietzuschuss
 
 (1) Der Mietzuschuss wird gewährt, wenn die Miete für den als
@@ -2314,7 +2221,6 @@ Mietzuschusses; § 6 ist nicht anzuwenden.
 (4) Inhaber von Dienstwohnungen im Ausland erhalten keinen
 Mietzuschuss.
 
-
 ### § 55 Kaufkraftausgleich
 
 (1) Entspricht bei einer allgemeinen Verwendung im Ausland die
@@ -2347,7 +2253,6 @@ Innern und dem Bundesministerium der Finanzen, hinsichtlich der
 Bundeswehrstandorte im Ausland auch im Einvernehmen mit dem
 Bundesministerium der Verteidigung, durch allgemeine
 Verwaltungsvorschrift.
-
 
 ### § 56 Auslandsverwendungszuschlag
 
@@ -2412,7 +2317,6 @@ Auslandsverwendungszuschlags im Einvernehmen mit dem Auswärtigen Amt,
 dem Bundesministerium der Finanzen und dem Bundesministerium der
 Verteidigung durch Rechtsverordnung.
 
-
 ### § 57 Auslandsverpflichtungsprämie
 
 (1) Werden bei besonderen Verwendungen im Rahmen der polizeilichen
@@ -2437,15 +2341,11 @@ auf Auslandsverwendungszuschlag der höchsten Stufe bestand. Wird
 dieser Zeitraum aus Gründen nicht erreicht, die vom Beamten nicht zu
 vertreten sind, gilt § 3 Absatz 3 entsprechend.
 
-
 ### § 58 (weggefallen)
 
 -
 
-
 ## 6. Abschnitt - Anwärterbezüge
-
-
 
 ### § 59 Anwärterbezüge
 
@@ -2470,7 +2370,6 @@ Maßgabe, dass mindestens die Bezüge nach Absatz 2 verbleiben.
 Studium ableisten, kann die Gewährung der Anwärterbezüge von der
 Erfüllung von Auflagen abhängig gemacht werden.
 
-
 ### § 60 Anwärterbezüge nach Ablegung der Laufbahnprüfung
 
 Endet das Beamtenverhältnis eines Anwärters kraft Rechtsvorschrift
@@ -2484,15 +2383,11 @@ Dienstherrn (§ 29 Absatz 1) oder bei einer Ersatzschule erworben, so
 werden die Anwärterbezüge und der Familienzuschlag nur bis zum Tage
 vor Beginn dieses Anspruchs belassen.
 
-
 ### § 61 Anwärtergrundbetrag
 
 Der Anwärtergrundbetrag bemisst sich nach der Anlage VIII.
 
-
 ### § 62 (weggefallen)
-
-
 
 ### § 63 Anwärtersonderzuschläge
 
@@ -2526,11 +2421,9 @@ Rückzahlungsbetrag vermindert sich für jedes nach Bestehen der
 Laufbahnprüfung abgeleistete Dienstjahr um jeweils ein Fünftel. § 12
 bleibt unberührt.
 
-
 ### § 64 (weggefallen)
 
 -
-
 
 ### § 65 Anrechnung anderer Einkünfte
 
@@ -2553,7 +2446,6 @@ Stufe zusteht.
 (3) Übt ein Anwärter gleichzeitig eine Tätigkeit im öffentlichen
 Dienst mit mindestens der Hälfte der dafür geltenden regelmäßigen
 Arbeitszeit aus, gilt § 5 entsprechend.
-
 
 ### § 66 Kürzung der Anwärterbezüge
 
@@ -2580,24 +2472,17 @@ Leistungsnachweis nicht erbracht, so ist die Kürzung auf den sich
 daraus ergebenden Zeitraum der Verlängerung des Vorbereitungsdienstes
 zu beschränken.
 
-
 ## 7. Abschnitt - (weggefallen)
-
-
 
 ### § 67 (weggefallen)
 
 -
 
-
 ### § 68 (weggefallen)
 
 -
 
-
 ## 8. Abschnitt - Dienstbekleidung, Heilfürsorge, Unterkunft für Soldaten und Polizeivollzugsbeamte in der Bundespolizei
-
-
 
 ### § 69 Dienstbekleidung, Heilfürsorge, Unterkunft für Soldaten
 
@@ -2638,7 +2523,6 @@ zu Absatz 1 soll geregelt werden, dass die Zahlungen nach Absatz 1
 Satz 3 und 4 an eine vom Bundesministerium der Verteidigung bestimmte
 Kleiderkasse geleistet werden.
 
-
 ### § 70 Dienstkleidung, Heilfürsorge, Unterkunft für Polizeivollzugsbeamte der Bundespolizei
 
 (1) Für Beamte des mittleren Polizeivollzugsdienstes der Bundespolizei
@@ -2665,10 +2549,7 @@ auf Familienhilfe nach § 10 des Fünften Buches Sozialgesetzbuch haben.
 dienstlicher Verpflichtung in Gemeinschaftsunterkunft wohnen, wird die
 Unterkunft unentgeltlich bereitgestellt.
 
-
 ## 9. Abschnitt - Übergangs- und Schlussvorschriften
-
-
 
 ### § 71 Rechtsverordnungen, Allgemeine Verwaltungsvorschriften
 
@@ -2683,7 +2564,6 @@ der Justiz. Soweit die Besoldung der Soldaten berührt ist, erlässt sie
 das Bundesministerium des Innern im Einvernehmen mit dem
 Bundesministerium der Verteidigung.
 
-
 ### § 72 Übergangsregelung für die nachträgliche Anerkennung von Kinderbetreuungs- und Pflegezeiten
 
 Bei einer ersten Ernennung mit Anspruch auf Dienstbezüge im
@@ -2692,7 +2572,6 @@ Anwendungsbereich dieses Gesetzes in der Zeit vom 1. Juli 2009 bis zum
 Pflegezeiten nach § 28 Absatz 1 Satz 2 auf Antrag die Stufe neu
 festzusetzen. Der Antrag kann bis zum Ablauf des 31. Dezember 2012
 gestellt werden. Die neue Stufenfestsetzung gilt ab dem 1. März 2012.
-
 
 ### § 72a Besoldung bei begrenzter Dienstfähigkeit
 
@@ -2704,7 +2583,6 @@ Versetzung in den Ruhestand erhalten würde.
 (2) Die Bundesregierung wird ermächtigt, zusätzlich zu den
 Dienstbezügen nach Absatz 1 durch Rechtsverordnung die Gewährung eines
 nicht ruhegehaltfähigen Zuschlags zu regeln.
-
 
 ### § 73 Überleitungsregelungen aus Anlass der Herstellung der Einheit Deutschlands
 
@@ -2722,7 +2600,6 @@ Leistungen des Dienstherrn sowie für Besonderheiten der
 Ämtereinstufung und für die Angleichung der Ämter- und
 Laufbahnstrukturen. Die Übergangsregelungen sind zu befristen.
 
-
 ### § 73a Übergangsregelung bei Gewährung einer Versorgung durch eine zwischenstaatliche oder überstaatliche Einrichtung
 
 Bei Zeiten im Sinne des § 8 Absatz 1 Satz 1, die bis zum 31. Dezember
@@ -2733,7 +2610,6 @@ vom Hundert. Für Zeiten ab dem 1. Januar 2003 ist der Vomhundertsatz
 des § 8 Absatz 1 Satz 2 vervielfältigt mit dem jeweiligen in § 69e
 Absatz 3 und 4 des Beamtenversorgungsgesetzes genannten Faktor
 anzuwenden.
-
 
 ### § 74 Übergangsregelung zum Familienzuschlag
 
@@ -2746,7 +2622,6 @@ erhalten haben, wird der Familienzuschlag der Stufe 1 weitergewährt,
 solange die Tatbestandsvoraussetzungen des § 40 Absatz 1 Nummer 4 in
 der bis zum 21. März 2012 geltenden Fassung vorliegen, längstens bis
 zum 31. Dezember 2015.
-
 
 ### § 74a Übergangsregelung aus Anlass der Übertragung ehebezogener Regelungen im öffentlichen Dienstrecht auf Lebenspartnerschaften
 
@@ -2784,7 +2659,6 @@ entsprechend: Der Mietzuschuss wird dem Lebenspartner gezahlt, den die
 Lebenspartner bestimmen. Treffen sie keine Bestimmung, erhält jeder
 Lebenspartner die Hälfte des Mietzuschusses; § 6 ist nicht anzuwenden.
 
-
 ### § 75 Übergangszahlung
 
 (1) Das Bundesministerium des Innern wird ermächtigt, durch
@@ -2811,7 +2685,6 @@ Vergleichsberechnung zu berücksichtigen sind. Die Übergangszahlung ist
 zurückzuzahlen, wenn der Beamte vor Ablauf eines Jahres aus dem
 Beamtenverhältnis ausscheidet und er dies zu vertreten hat.
 
-
 ### § 76 Konkurrenzregelung beim Grundgehalt für den vom Besoldungsüberleitungsgesetz erfassten Personenkreis
 
 Ansprüche auf Grundgehalt nach der Anlage IV sind neben Ansprüchen auf
@@ -2823,7 +2696,6 @@ Grundgehaltes nach den Vorschriften des
 Besoldungsüberleitungsgesetzes. Bis zu diesem Zeitpunkt besteht ein
 Anspruch auf Grundgehalt nach den Anlagen 1 oder 2 des
 Besoldungsüberleitungsgesetzes.
-
 
 ### § 77 Übergangsvorschrift aus Anlass des Professorenbesoldungsreformgesetzes
 
@@ -2877,7 +2749,6 @@ Hochschulart nicht mehr geschaffen werden durften.
 (4) Das Bundesministerium des Innern macht die nach den Absätzen 1 und
 2 durch Anpassungen erhöhten Bezüge im Bundesgesetzblatt bekannt.
 
-
 ### § 78 Übergangsregelung für Beamte bei den Postnachfolgeunternehmen
 
 [^f772096_15_BJNR011740975BJNE010421310]
@@ -2898,11 +2769,9 @@ in der jeweils geltenden Fassung im Bundesgesetzblatt bekannt.
     in § 78 Absatz 1 Satz 1 die Zahl „0,9756“ durch die Zahl „0,9524“
     ersetzt.
 
-
 ### § 79 (weggefallen)
 
 -
-
 
 ### § 80 Übergangsregelung für beihilfeberechtigte Polizeivollzugsbeamte der Bundespolizei
 
@@ -2911,10 +2780,7 @@ Beihilfe nach den Beihilfevorschriften des Bundes erhalten, wird diese
 weiterhin gewährt. Auf Antrag erhalten sie an Stelle der Beihilfe
 Heilfürsorge nach § 70 Absatz 2. Der Antrag ist unwiderruflich.
 
-
 ### § 80a (weggefallen)
-
-
 
 ### § 81 Übergangsregelungen bei Zulagenänderungen aus Anlass des Versorgungsreformgesetzes 1998
 
@@ -2928,7 +2794,6 @@ geltenden Fassung weiter anzuwenden, für Empfänger von Dienstbezügen
 der Besoldungsgruppen A 1 bis A 9 bei einer Zurruhesetzung bis zum 31.
 Dezember 2010. Dies gilt nicht, wenn die Zulage nach dem 1. Januar
 1999 erstmals gewährt wird.
-
 
 ### § 82 Übergangsregelung für ehemalige Soldaten
 
@@ -2953,7 +2818,6 @@ Aufstieg in die der Überleitungsstufe dazugehörige Stufe ist § 3
 Absatz 2 des Besoldungsüberleitungsgesetzes entsprechend anzuwenden. §
 76 Satz 2 und 3 findet keine Anwendung.
 
-
 ### § 83 Übergangsregelung für Ausgleichszulagen
 
 (1) § 19a gilt entsprechend, wenn ein Anspruch auf eine
@@ -2974,7 +2838,6 @@ eintreten, die auf der Umwandlung der jährlichen Sonderzahlung in
 monatlich zu zahlende Dienstbezüge beruhen, führen diese Erhöhungen
 nicht zu einer Verminderung von Ausgleichszulagen.
 
-
 ### § 83a Übergangsregelung für die Besoldung bei Verleihung eines anderen Amtes oder bei Wechsel in den Dienst des Bundes
 
 (1) Der Anspruch nach § 19a Satz 2 besteht ab dem 1. März 2012 auch
@@ -2987,7 +2850,6 @@ mit der Maßgabe anzuwenden, dass eine Ausgleichszulage ab dem 1. März
 2012 gewährt wird. Sie wird in der Höhe gewährt, die sich am 22. März
 2012 ergäbe, wenn die Zulage bereits seit dem Wechsel in den Dienst
 des Bundes zugestanden hätte.
-
 
 ### § 84 Anpassung von Bezügen nach fortgeltendem Recht
 
@@ -3014,10 +2876,6 @@ Die Anpassung nach § 14 Absatz 2 gilt entsprechend für
     S. 2608), geändert durch Artikel 9 des Gesetzes vom 24. März 1997
     (BGBl. I S. 590).
 
-
-
-
-
 ### § 85 Einmalige Zahlung im Jahr 2011
 
 (1) Beamte, Richter und Soldaten erhalten mit den Dienstbezügen für
@@ -3039,7 +2897,6 @@ einem anderen Rechtsverhältnis im öffentlichen Dienst des Bundes.
 
 (5) Für Anwärter (§ 59 Absatz 1) gelten die Absätze 1 bis 4 mit der
 Maßgabe, dass sie eine einmalige Zahlung in Höhe von 50 Euro erhalten.
-
 
 ### § 85a Verpflichtungsprämien für Soldaten auf Zeit
 
@@ -3087,7 +2944,6 @@ in Satz 1 genannten Tatbestandes bereits geleistet worden ist. Im Fall
 des Satzes 1 Nummer 2 ist nur der Betrag zurückzuzahlen, der jeweils
 auf einen vollen Kalendermonat der Beurlaubung entfällt.
 
-
 ### § 86 Anwendungsbereich in den Ländern
 
 Für die Beamten und Richter der Länder, der Gemeinden, der
@@ -3095,7 +2951,6 @@ Gemeindeverbände sowie der sonstigen der Aufsicht eines Landes
 unterstehenden Körperschaften, Anstalten und Stiftungen des
 öffentlichen Rechts gilt das Bundesbesoldungsgesetz in der bis zum 31.
 August 2006 geltenden Fassung, soweit nichts anderes bestimmt ist.
-
 
 ### Anlage I Bundesbesoldungsordnungen A und B
 
@@ -7441,10 +7296,6 @@ gehobenen Dienstes sowie für Offiziere um 8,38 Euro.
 
     *   12 262,22
 
-
-
-
-
 ### Anlage V
 
 (Fundstelle: BGBl. I 2012, 1675)
@@ -7503,9 +7354,6 @@ zusätzlich gewährt.
 *    *   – in den Besoldungsgruppen A 9 bis A 12:
 
     *   110,60 Euro
-
-
-
 
 ### Anlage VI
 
@@ -8425,10 +8273,6 @@ zusätzlich gewährt.
 
     *   392,44
 
-
-
-
-
 ### Anlage VIII
 
 (Fundstelle: BGBl. I 2012, 1677)
@@ -8468,9 +8312,6 @@ zusätzlich gewährt.
 
     *   1 269,68
 
-
-
-
 ### Anlage VIII
 
 (Fundstelle: BGBl. I 2012, 1692)
@@ -8509,9 +8350,6 @@ zusätzlich gewährt.
 *    *   A 13 oder R 1
 
     *   1 309,68
-
-
-
 
 ### Anlage IX
 

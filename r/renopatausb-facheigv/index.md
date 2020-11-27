@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 2196
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 30 Abs. 4 Nr. 3 des Berufsbildungsgesetzes vom 23.
@@ -25,7 +23,6 @@ März 2005 (BGBl. I S. 931) verordnet das Bundesministerium der Justiz
 nach Anhörung des Hauptausschusses des Bundesinstituts für
 Berufsbildung im Einvernehmen mit dem Bundesministerium für Bildung
 und Forschung:
-
 
 ## § 1
 
@@ -48,10 +45,6 @@ Kenntnisse und Fähigkeiten besitzt für den Ausbildungsberuf
 
 4.  Patentanwaltsfachangestellter/Patentanwaltsfachangestellte, wer zur
     Patentanwaltschaft zugelassen ist.
-
-
-
-
 
 ## § 2
 

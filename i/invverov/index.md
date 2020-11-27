@@ -24,7 +24,6 @@ Fundstelle
     zwischen Verwahrstelle und Verwaltungsgesellschaft (ABl. L 176 vom
     10\.7.2010, S. 42).
 
-
 ## Eingangsformel
 
 Auf Grund des § 9 Absatz 5 Satz 1, auch in Verbindung mit § 13 Absatz
@@ -41,9 +40,7 @@ Finanzdienstleistungsaufsicht vom 13. Dezember 2002 (BGBl. 2003 I S.
 (BGBl. I S. 1197) neu gefasst worden ist, verordnet die Bundesanstalt
 für Finanzdienstleistungsaufsicht:
 
-
 ## Abschnitt 1 - Allgemeine Vorschriften
-
 
 ### § 1 Anwendungsbereich
 
@@ -55,7 +52,6 @@ Verwaltung von Investmentvermögen (kollektive Vermögensverwaltung).
 inländische Zweigniederlassungen von EU-Verwaltungsgesellschaften
 anzuwenden, soweit diese die kollektive Vermögensverwaltung von
 richtlinienkonformen Investmentvermögen im Inland erbringen.
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -107,12 +103,7 @@ Bewertungsverfahren resultieren, einschließt.
     Dienstleistungen für die Kapitalanlagegesellschaft, die ihr die
     kollektive Vermögensverwaltung ermöglichen, beteiligt sind.
 
-
-
-
-
 ## Abschnitt 2 - Interne Verwaltung und Kontrollmechanismen
-
 
 ### § 3 Allgemeine Verfahrens- und Organisationsanforderungen
 
@@ -171,7 +162,6 @@ internen Kontrollmechanismen und Vorkehrungen zu überwachen und
 regelmäßig zu bewerten und die zur Beseitigung etwaiger Mängel
 erforderlichen Maßnahmen zu ergreifen.
 
-
 ### § 4 Personelle und technisch-organisatorische Ausstattung
 
 (1) Die Kapitalanlagegesellschaft darf Mitarbeiter nur dann mit der
@@ -195,7 +185,6 @@ festgelegten Zwecke die Art, den Umfang und die Komplexität ihrer
 Geschäfte sowie die Art und das Spektrum der im Zuge dieser Geschäfte
 erbrachten Dienstleistungen und Tätigkeiten Rechnung zu tragen.
 
-
 ### § 5 Bearbeitung von Beschwerden; Informationspflichten
 
 (1) Die Kapitalanlagegesellschaft hat wirksame und transparente
@@ -217,7 +206,6 @@ oder Abschlussvermittlung erbringt, die wesentlichen
 Anlegerinformationen und den Verkaufsprospekt für dieses
 Investmentvermögen auf Anfrage zur Verfügung zu stellen.
 
-
 ### § 6 Elektronische Datenverarbeitung
 
 (1) Die Kapitalanlagegesellschaft muss sicherstellen, dass angemessene
@@ -231,7 +219,6 @@ und damit die Verpflichtungen nach den §§ 12 und 13 zu erfüllen.
 Datenverarbeitung ein hohes Maß an Sicherheit zu gewährleisten und,
 soweit erforderlich, für die Integrität und vertrauliche Behandlung
 der aufgezeichneten Daten zu sorgen.
-
 
 ### § 7 Kontrolle durch Geschäftsleiter und Aufsichtsrat
 
@@ -310,7 +297,6 @@ der aufgezeichneten Daten zu sorgen.
 Berichte zu den in Absatz 3 Nummer 1 genannten Sachverhalten
 zuzuleiten.
 
-
 ### § 8 Compliance-Funktion
 
 (1) Die Kapitalanlagegesellschaft hat angemessene Grundsätze und
@@ -365,7 +351,6 @@ entfallen diese Anforderungen. Die Kapitalanlagegesellschaft hat die
 Gründe für die Unverhältnismäßigkeit sowie für die Nichtgefährdung
 schriftlich zu dokumentieren.
 
-
 ### § 9 Interne Revision
 
 (1) Die Kapitalanlagegesellschaft hat eine dauerhafte interne Revision
@@ -392,10 +377,6 @@ einzurichten, kann auf diese Anforderungen verzichtet werden.
 
 3.  Erstellung der nach § 7 Absatz 3 Nummer 1 erforderlichen Berichte über
     die interne Revision.
-
-
-
-
 
 ### § 10 Risikocontrolling-Funktion
 
@@ -469,7 +450,6 @@ Aufgaben haben:
 Befugnisse und über den Zugang zu allen relevanten Informationen, die
 zur Erfüllung der in Absatz 3 genannten Aufgaben erforderlich sind,
 verfügen.
-
 
 ### § 11 Persönliche Geschäfte
 
@@ -596,10 +576,6 @@ durch relevante Personen
 3.  außerhalb des ihnen zugewiesenen Aufgabenbereichs für eigene oder
     fremde Rechnung.
 
-
-
-
-
 ### § 12 Aufzeichnung von Portfoliogeschäften
 
 (1) Die Kapitalanlagegesellschaft hat jedes Portfoliogeschäft
@@ -680,10 +656,6 @@ Vermögensgegenstände folgende Angaben enthält:
 6.  den Vertragspartner und den Namen der Person, die für den
     Vertragspartner handelt.
 
-
-
-
-
 ### § 13 Aufzeichnung von Zeichnungs- und Rücknahmeaufträgen
 
 (1) Die Kapitalanlagegesellschaft hat sicherzustellen, dass
@@ -727,10 +699,6 @@ werden.
 11. den Bruttowert des Auftrags einschließlich Zeichnungsgebühren oder den
     Nettobetrag nach Abzug der Rücknahmegebühren.
 
-
-
-
-
 ### § 14 Sonstige Aufzeichnungspflichten
 
 (1) Die Kapitalanlagegesellschaft hat sicherzustellen, dass die in den
@@ -754,9 +722,7 @@ Aufzeichnung vor einer solchen Änderung leicht feststellbar und die
 Aufzeichnungen vor sachlich nicht gebotenen Änderungen geschützt
 bleiben.
 
-
 ## Abschnitt 3 - Interessenkonflikte
-
 
 ### § 15 Kriterien für die Feststellung von Interessenkonflikten
 
@@ -813,10 +779,6 @@ Interessenkonflikten zu berücksichtigen:
 
 3.  die Interessen von zwei oder mehreren verwalteten Investmentvermögen.
 
-
-
-
-
 ### § 16 Grundsätze für den Umgang mit Interessenkonflikten
 
 (1) Die Kapitalanlagegesellschaft hat ihrer Größe und Organisation
@@ -852,7 +814,6 @@ unterstehen oder deren Verwaltungs-, Leitungs- oder Aufsichtsorgane
 sich während des Geschäftsjahres und bis zur Aufstellung des
 konsolidierten Abschlusses mehrheitlich aus denselben Personen
 zusammensetzen.
-
 
 ### § 17 Unabhängigkeit beim Konfliktmanagement
 
@@ -908,7 +869,6 @@ Maßnahmen und Verfahren der erforderliche Grad an Unabhängigkeit nicht
 gewährleistet wird, hat die Kapitalanlagegesellschaft dafür notwendige
 alternative oder zusätzliche Maßnahmen und Verfahren zu treffen.
 
-
 ### § 18 Umgang mit Tätigkeiten, die einen nachteiligen Interessenkonflikt auslösen
 
 (1) Die Kapitalanlagegesellschaft hat die Arten der von ihr oder in
@@ -937,7 +897,6 @@ informieren und die hierzu ergangenen Entscheidungen mitzuteilen und
 zu begründen. § 42a des Investmentgesetzes gilt entsprechend. Bei
 Spezial-Sondervermögen kann die Kapitalanlagegesellschaft mit
 Zustimmung der Anleger von der Information nach Satz 1 absehen.
-
 
 ### § 19 Strategien für die Ausübung von Stimmrechten
 
@@ -973,9 +932,7 @@ Verlangen kostenfrei zur Verfügung zu stellen. Bei Spezial-
 Sondervermögen kann die Kapitalanlagegesellschaft mit Zustimmung der
 Anleger von der Information nach Satz 1 absehen.
 
-
 ## Abschnitt 4 - Wohlverhaltensregeln
-
 
 ### § 20 Sorgfaltspflichten
 
@@ -1007,7 +964,6 @@ Zusammensetzung des Investmentvermögens, zu dessen Liquidität und zu
 dessen Risiko- und Ertragsprofil leistet. Die Analysen dürfen sich
 quantitativ wie qualitativ nur auf verlässliche und aktuelle Daten
 stützen.
-
 
 ### § 21 Mitteilungspflichten in Bezug auf die Ausführung von Zeichnungs- und Rücknahmeaufträgen
 
@@ -1077,7 +1033,6 @@ seines Auftrags mitzuteilen.
 Zustimmung der Anleger von der Bestätigungsmitteilung nach Absatz 1
 Satz 1 absehen.
 
-
 ### § 22 Ausführung von Handelsentscheidungen
 
 (1) Die Kapitalanlagegesellschaft hat bei der Ausführung von
@@ -1123,7 +1078,6 @@ Auftragsausführung ausgeführt hat.
 denen aufgrund des Geschäftsmodells verschiedene Ausführungsplätze
 nicht zur Auswahl stehen, ist diese Vorschrift nicht anzuwenden.
 
-
 ### § 23 Weiterleitung von Handelsaufträgen an andere Ausführungseinrichtungen
 
 (1) Für Kapitalanlagegesellschaften, die Aufträge zum Erwerb oder zur
@@ -1155,7 +1109,6 @@ festgelegten Grundsätzen weitergeleitet hat.
 (3) Bei dem Erwerb und der Veräußerung von Vermögensgegenständen, bei
 denen aufgrund des Geschäftsmodells verschiedene Ausführungsplätze
 nicht zur Auswahl stehen, ist diese Vorschrift nicht anzuwenden.
-
 
 ### § 24 Allgemeine Grundsätze der Auftragsbearbeitung
 
@@ -1190,7 +1143,6 @@ mit noch nicht ausgeführten Aufträgen für das Investmentvermögen nicht
 missbräuchlich verwenden. Sie hat angemessene Maßnahmen zu treffen, um
 die missbräuchliche Verwendung derartiger Informationen durch ihre
 relevanten Personen zu verhindern.
-
 
 ### § 25 Zusammenlegung und Zuweisung von Handelsaufträgen
 
@@ -1242,7 +1194,6 @@ Anlage des eigenen Vermögens in Abweichung von Satz 1 Nummer 2 unter
 Berücksichtigung der Grundsätze der Auftragsausführung anteilig
 zugeteilt werden.
 
-
 ### § 26 Zuwendungen
 
 (1) Eine Kapitalanlagegesellschaft darf keine Zuwendungen, die im
@@ -1288,9 +1239,7 @@ ausgenommen.
 (5) Bei Spezial-Sondervermögen kann die Kapitalanlagegesellschaft mit
 Zustimmung der Anleger von den Absätzen 1 und 3 abweichen.
 
-
 ## Abschnitt 5 - Risikomanagement
-
 
 ### § 27 Risikomanagement-Grundsätze
 
@@ -1328,7 +1277,6 @@ Kapitalanlagegesellschaft der Art, dem Umfang und der Komplexität
 ihrer Geschäfte und der von ihr verwalteten Investmentvermögen
 Rechnung zu tragen.
 
-
 ### § 28 Bewertung, Überwachung und Überprüfung der Risikomanagement-Grundsätze
 
 (1) Die Kapitalanlagegesellschaft hat
@@ -1349,7 +1297,6 @@ zu bewerten, zu überwachen und regelmäßig zu überprüfen.
 (2) Die Kapitalanlagegesellschaft hat die Bundesanstalt unverzüglich
 über alle wesentlichen Änderungen ihres Risikomanagement-Prozesses zu
 unterrichten.
-
 
 ### § 29 Messung und Management von Risiken
 
@@ -1430,9 +1377,7 @@ Investmentvermögens den in den Vertragsbedingungen oder der Satzung
 oder dem Verkaufsprospekt niedergelegten Rücknahmegrundsätzen
 entspricht.
 
-
 ## Abschnitt 6 - Schlussvorschriften
-
 
 ### § 30 Übergangsvorschrift
 
@@ -1440,7 +1385,6 @@ entspricht.
 Beteiligungen an Immobilien-Gesellschaften, Beteiligungen an ÖPP-
 Projektgesellschaften oder Unternehmensbeteiligungen erst ab dem 1.
 Juli 2012 anzuwenden.
-
 
 ### § 31 Inkrafttreten
 

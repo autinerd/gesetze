@@ -17,13 +17,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1980, 752
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -32,7 +29,6 @@ Bundesrepublik Deutschland und dem Königreich Belgien über den Bau und
 die Unterhaltung einer Autobahnbrücke über die Our bei Steinebrück
 sowie dem dazugehörigen Briefwechsel vom selben Tage wird zugestimmt.
 Der Vertrag und der Briefwechsel werden nachstehend veröffentlicht.
-
 
 ## Art 2
 
@@ -50,12 +46,10 @@ Monopolgebietes befindlich anzusehen.
 (3) Die in Artikel 11 des Vertrages vorgesehenen steuerlichen
 Bestimmungen sind mit Wirkung vom 1. Januar 1978 anzuwenden.
 
-
 ## Art 3
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
-
 
 ## Art 4
 

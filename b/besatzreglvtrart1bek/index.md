@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1955, 628
 
-
-
 ## (XXXX)
 
 Gemäß § 1 des Anhangs zum Zehnten Teil des Vertrags zur Regelung aus

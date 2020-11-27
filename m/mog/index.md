@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 Abs. 95 G v. 22.12.2011 I 3044
 
-
 ## Erster Abschnitt - Begriffsbestimmungen
-
-
 
 ### § 1 Gemeinsame Marktorganisationen und Direktzahlungen
 
@@ -75,17 +72,12 @@ Raums.
     Bezug nehmen, sowie auf Grund solcher Gesetze erlassene
     Rechtsverordnungen.
 
-
-
-
-
 ### § 2 Marktordnungswaren
 
 Marktordnungswaren im Sinne dieses Gesetzes sind die Erzeugnisse, die
 den gemeinsamen Marktorganisationen unterliegen, sowie die
 Erzeugnisse, für die in Ergänzung oder zur Sicherung einer gemeinsamen
 Marktorganisation Regelungen im Sinne des § 1 Abs. 2 getroffen sind.
-
 
 ### § 3 Marktordnungsstelle
 
@@ -101,7 +93,6 @@ Zuständigkeit des Bundesamtes für Wirtschaft und Ausfuhrkontrolle
 für bestimmte Marktordnungswaren auf die Bundesanstalt zu übertragen,
 soweit dies zur Wahrung des Sachzusammenhangs oder im Interesse der
 Wirtschaftlichkeit der Verwaltung erforderlich ist.
-
 
 ### § 4 Ein- und Ausfuhr
 
@@ -134,13 +125,6 @@ Gesetzes
     c)  für die Lieferung von Marktordnungswaren, soweit sie in Regelungen im
         Sinne des § 1 Abs. 2 Nr. 1 bis 3 der Ausfuhr gleichgestellt ist.
 
-
-
-
-
-
-
-
 ### § 5 Sonstige Begriffsbestimmungen
 
 Im Sinne dieses Gesetzes sind:
@@ -162,14 +146,9 @@ Einfuhr- und Ausfuhrlizenzen einschließlich Teillizenzen sowie
 Vorausfestsetzungsbescheinigungen einschließlich
 Teilvorausfestsetzungsbescheinigungen für Marktordnungswaren.
 
-
 ## Zweiter Abschnitt - Besondere Vergünstigungen, Interventionen, Abgaben
 
-
-
 ### Titel 1 - Ermächtigungen
-
-
 
 #### § 6 Besondere Vergünstigungen
 
@@ -287,7 +266,6 @@ in ihren Rechtsverordnungen auch Vorschriften auf Grund der §§ 15 und
 16 erlassen. Die Landesregierungen können die Ermächtigung durch
 Rechtsverordnung auf oberste Landesbehörden übertragen.
 
-
 #### § 7 Interventionen
 
 (1) Interventionsstelle ist die Marktordnungsstelle. Das
@@ -333,7 +311,6 @@ Angaben benötigt werden, sind die mit der Durchführung des Gesetzes
 Bundesministerium und der Interventionsstelle für diesen Zweck die
 erforderlichen Auskünfte zu erteilen. Die Angaben sind zum
 frühestmöglichen Zeitpunkt, spätestens nach drei Jahren, zu löschen.
-
 
 #### § 8 Mengen
 
@@ -402,7 +379,6 @@ Bundesministerium dort genannte Mengen durch Verwaltungsakt festsetzt,
 soweit dies zur Durchführung der Regelungen im Sinne des § 1 Abs. 2
 erforderlich ist.
 
-
 #### § 9 Obligatorische Maßnahmen
 
 (1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem
@@ -421,7 +397,6 @@ entsprechend.
 (2) Für Vergünstigungen, die in Verbindung mit obligatorischen
 Maßnahmen gewährt werden, gilt § 6 entsprechend.
 
-
 #### § 9a Einhaltung anderweitiger Verpflichtungen
 
 Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem
@@ -439,7 +414,6 @@ anderweitigen Verpflichtungen sowie über die Kürzung oder den
 Ausschluss von Vergünstigungen nach § 6 bei Nichteinhaltung
 anderweitiger Verpflichtungen. § 6 Abs. 4 Satz 2 und Abs. 5 gilt
 entsprechend.
-
 
 #### § 9b Sondermaßnahmen zur Marktstützung mit finanzieller Beteiligung
 
@@ -558,7 +532,6 @@ Rechtsverordnungen auf Grund der §§ 6, 8, 9a, 9c, 13, 15 und 16 sowie
 des Absatzes 3 die Landesregierungen zuständig. § 6 Absatz 5 Satz 3
 gilt entsprechend.
 
-
 #### § 9c Vorbehalt der Nachprüfung
 
 Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit
@@ -595,7 +568,6 @@ Es bedürfen Rechtsverordnungen nach Satz 1
 
 § 6 Absatz 4 Satz 2 und Absatz 5 gilt entsprechend.
 
-
 #### § 10 Rücknahme, Widerruf, Erstattung
 
 (1) Rechtswidrige begünstigende Bescheide in den Fällen der §§ 6 und 8
@@ -622,7 +594,6 @@ Verwaltungsverfahrensgesetzes ist anzuwenden.
 
 (3) Zu erstattende Beträge werden durch Bescheid festgesetzt.
 
-
 #### § 11 Beweislast
 
 Der Begünstigte trägt, soweit nicht Regelungen im Sinne des § 1 Abs. 2
@@ -632,7 +603,6 @@ die Gewährung der Vergünstigung zuständigen Stelle gehört, die
 Beweislast für das Vorliegen der Voraussetzungen für die Gewährung der
 Vergünstigung bis zum Ablauf des vierten Jahres, das dem Kalenderjahr
 der Gewährung folgt.
-
 
 #### § 12 Abgaben
 
@@ -708,7 +678,6 @@ gegenüber dem Abführungspflichtigen bindend. Der dem
 Abführungspflichtigen bekannt gegebene Erstattungsbescheid gilt als
 Grundlagenbescheid im Sinne des § 171 Abs. 10 der Abgabenordnung.
 
-
 #### § 13 Sicherheiten
 
 (1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem
@@ -729,7 +698,6 @@ Sicherheit gestellt hat.
 zur geschäftsmäßigen Übernahme von Bürgschaften im Geltungsbereich
 dieses Gesetzes berechtigt sein.
 
-
 #### § 14 Zinsen
 
 (1) Ansprüche auf Erstattung von besonderen Vergünstigungen sowie auf
@@ -746,10 +714,7 @@ Interventionen sind ab Rechtshängigkeit nach Maßgabe der §§ 236, 238
 und 239 der Abgabenordnung zu verzinsen. Im Übrigen sind diese
 Ansprüche unverzinslich.
 
-
 ### Titel 2 - Überwachung
-
-
 
 #### § 15 Überwachung
 
@@ -762,7 +727,6 @@ hinsichtlich Marktordnungswaren oder Direktzahlungen sowie der auf
 Grund dieses Gesetzes erlassenen Rechtsverordnungen erforderlich sind.
 § 6 Abs. 4 gilt entsprechend.
 
-
 #### § 16 Duldungs- und Mitwirkungspflichten
 
 In Rechtsverordnungen nach § 15 können Meldepflichten,
@@ -772,7 +736,6 @@ der Geschäftsräume und Betriebsstätten, Unterstützungspflichten,
 Pflichten zur Verwendung von Begleit- und Schlussscheinen sowie eine
 amtliche Überwachung der zweck- und fristgerechten Verwendung
 vorgeschrieben werden.
-
 
 #### § 17 Entnahme von Proben; Erhebung von Kosten durch Behörden des Bundes
 
@@ -841,14 +804,9 @@ durch die Länder erfolgt, bestimmt sich die Erhebung von Kosten
 (Gebühren und Auslagen) nach Landesrecht, soweit nicht Regelungen im
 Sinne des § 1 Absatz 2 entgegenstehen.
 
-
 ## Dritter Abschnitt - Ein- und Ausfuhr
 
-
-
 ### Titel 1 - Verfahren
-
-
 
 #### § 18 Lizenzen, Erlaubnisse, Dokumente, Genehmigungen
 
@@ -866,14 +824,12 @@ der Marktordnungsstelle erteilt.
 Flachs und Hanf das Bundesamt für Wirtschaft und Ausfuhrkontrolle
 (BAFA).
 
-
 #### § 19 Vorausfestsetzungen
 
 Zuständig für die Vorausfestsetzung von Ausfuhrabgaben,
 Ausfuhrerstattungen und Beträgen, die zum Zwecke des
 Währungsausgleichs gewährt werden, in Bescheiden nach § 18 ist die
 Marktordnungsstelle.
-
 
 #### § 20 Sicherheit
 
@@ -890,7 +846,6 @@ Marktordnungsstelle. Die Sicherheit verfällt zugunsten der
 Bundesrepublik Deutschland.
 
 (3) § 18 Abs. 3 gilt entsprechend.
-
 
 #### § 21 Ermächtigungen
 
@@ -923,7 +878,6 @@ sie nach den Regelungen im Sinne des § 1 Abs. 2 Nr. 1 bis 3 bestimmt
 oder bestimmbar sind. Hinsichtlich des Satzes 1 Nr. 2 gilt § 13 Abs. 1
 Satz 3 entsprechend.
 
-
 #### § 22 Mengenkontingente
 
 (1) Soweit Regelungen im Sinne des § 1 Abs. 2 Nr. 1 bis 3 vorsehen,
@@ -955,10 +909,7 @@ Ausschreibung sind nach Maßgabe des Absatzes 1 festzulegen
 
 (3) § 18 Abs. 3 gilt entsprechend.
 
-
 ### Titel 2 - Ausfuhrabgaben
-
-
 
 #### § 23 Allgemeine Vorschriften
 
@@ -1019,7 +970,6 @@ Zeitpunkt ist maßgebend für die Menge, die Beschaffenheit und den Wert
 sowie für die Anwendung der für die Erhebung der Ausfuhrabgabe
 geltenden Vorschriften.
 
-
 #### § 24 Ermächtigungen
 
 (1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem
@@ -1065,14 +1015,12 @@ Bundesministerium der Finanzen im Einvernehmen mit dem
 Bundesministerium für Wirtschaft und Technologie und dem
 Bundesministerium erlassen werden.
 
-
 #### § 25 Befugnis zur Auskunftserteilung
 
 Die Behörden der Bundesfinanzverwaltung sind befugt, dem
 Bundesministerium und der Marktordnungsstelle Auskünfte über Umstände
 zu erteilen, die im Zusammenhang stehen mit der Erhebung von
 Ausfuhrabgaben.
-
 
 #### § 26 Abgaben im innergemeinschaftlichen Handel
 
@@ -1081,10 +1029,7 @@ auf Ausfuhrabgaben beziehen, gelten sinngemäß für Abgaben, die beim
 Verbringen von Waren aus dem Geltungsbereich dieses Gesetzes nach
 anderen Teilen des Zollgebiets der Gemeinschaft erhoben werden.
 
-
 ### Titel 3 - Schutzmaßnahmen
-
-
 
 #### § 27 Zuständigkeiten und Durchführung
 
@@ -1155,10 +1100,7 @@ Wirtschaft und Ausfuhrkontrolle (BAFA), an die Stelle des
 Bundesministeriums das Bundesministerium für Wirtschaft und
 Technologie und an dessen Stelle das Bundesministerium treten.
 
-
 ### Titel 4 - Überwachung
-
-
 
 #### § 28 Überwachung des Fracht-, Post- und Reiseverkehrs
 
@@ -1204,21 +1146,11 @@ mit der Maßgabe, dass
     hinsichtlich Marktordnungswaren bezieht, soweit es sich um
     Nichtgemeinschaftswaren handelt.
 
-
-
-
-
 ## Vierter Abschnitt - (weggefallen)
-
-
 
 ### (XXXX) §§ 29 und 30 (weggefallen)
 
-
-
 ## Fünfter Abschnitt - Allgemeine Vorschriften
-
-
 
 ### § 31 Zuständigkeit für die Durchführung
 
@@ -1258,7 +1190,6 @@ Stelle für die Durchführung von Regelungen im Sinne des § 1 Abs. 2 Nr.
 1 bis 3 hinsichtlich Marktordnungswaren zu bestimmen. § 6 Abs. 4 Satz
 2 gilt entsprechend.
 
-
 ### § 32 Meldepflichten
 
 (1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem
@@ -1284,7 +1215,6 @@ Durchführung von Regelungen im Sinne des § 1 Abs. 2 erforderlich ist,
 (2) In Rechtsverordnungen nach Absatz 1 können insbesondere die
 Häufigkeit sowie Inhalt und Form der Meldungen und die Art der
 Übermittlung geregelt werden.
-
 
 ### § 33 Allgemeine Prüfungsrechte und Auskunftspflichten
 
@@ -1329,7 +1259,6 @@ der in § 383 Abs. 1 Nr. 1 bis 3 der Zivilprozessordnung bezeichneten
 Angehörigen der Gefahr strafgerichtlicher Verfolgung oder eines
 Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
-
 ### § 34 Öffentlich-rechtliche Streitigkeiten
 
 (1) In öffentlich-rechtlichen Streitigkeiten über Maßnahmen zur
@@ -1370,10 +1299,7 @@ gegen die Festsetzung der Menge erhoben werden.
 die nach Absatz 1 Satz 1 der Finanzrechtsweg begründet ist, sind die
 §§ 2 bis 5 und 19 des Verwaltungs-Vollstreckungsgesetzes anzuwenden.
 
-
 ## Sechster Abschnitt - Straf- und Bußgeldvorschriften
-
-
 
 ### § 35 Geltungsbereich der Straf- und Bußgeldvorschriften der Abgabenordnung
 
@@ -1383,7 +1309,6 @@ Marktordnungswaren und Ausfuhrabgaben anzuwendenden Straf- und
 Bußgeldvorschriften der Abgabenordnung gelten, unabhängig von dem
 Recht des Tatortes, auch für Taten, die außerhalb des Geltungsbereichs
 dieses Gesetzes begangen werden.
-
 
 ### § 36 Bußgeldvorschriften
 
@@ -1498,7 +1423,6 @@ geahndet werden.
 (7) Gegenstände, auf die sich die Ordnungswidrigkeit bezieht, können
 eingezogen werden.
 
-
 ### § 37 Befugnisse der Zollbehörden
 
 (1) Die Staatsanwaltschaft kann bei
@@ -1551,7 +1475,6 @@ der Staatsanwaltschaft geltenden Vorschriften der Strafprozessordnung
 vornehmen; unter den Voraussetzungen des § 111l Abs. 2 Satz 2 der
 Strafprozessordnung können auch die Hauptzollämter die Notveräußerung
 anordnen.
-
 
 ### § 38 Straf- und Bußgeldverfahren
 
@@ -1622,10 +1545,7 @@ dieses Gesetzes durchführen, vor Abschluss eines auf diesem Gesetz
 beruhenden Verfahrens der zuständigen Landesbehörde Gelegenheit zur
 Stellungnahme.
 
-
 ## Siebenter Abschnitt - Erweiterung der Gemeinschaft
-
-
 
 ### § 39 Gewährung von Ausgleichsbeträgen
 
@@ -1637,7 +1557,6 @@ jeweiligen neuen Mitgliedstaat zu gewähren sind oder gewährt werden
 können, stehen bei der Anwendung dieses Gesetzes den
 Ausfuhrerstattungen gleich, soweit sich aus Regelungen im Sinne des §
 1 Abs. 2 Nr. 1 bis 3 nichts anderes ergibt.
-
 
 ### § 40 Besondere Maßnahmen bei wirtschaftlichen Schwierigkeiten
 
@@ -1670,10 +1589,7 @@ begrenzt sind. In Rechtsverordnungen nach Satz 1 kann die
 Marktordnungsstelle oder die Bundesfinanzverwaltung als für die
 Durchführung zuständige Stelle bestimmt werden.
 
-
 ## Achter Abschnitt - Schlussvorschriften
-
-
 
 ### § 41 Rechtsverordnungen
 
@@ -1694,7 +1610,6 @@ entsprechend.
 Vorschriften über Kosten der Überwachungsmaßnahmen, die auf Grund des
 § 17 dieses Gesetzes erlassen worden sind, können sie diese durch
 Landesrecht ersetzen.
-
 
 ### § 42 Bestimmungen zum Verwaltungsverfahren
 
@@ -1731,7 +1646,6 @@ nicht abgewichen werden kann. Die Vorschriften, von denen durch
 Landesrecht nicht abgewichen werden kann, sind dabei zu nennen. § 6
 Absatz 4 Satz 2 ist im Falle einer Rechtsverordnung nach Satz 1 nicht
 anzuwenden.
-
 
 ### § 43 Verkündung von Rechtsverordnungen
 

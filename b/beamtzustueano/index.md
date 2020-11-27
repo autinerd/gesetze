@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1987, 522
 
-
-
 ## I.
 
 Hiermit übertrage ich auf den Generaldirektor der Deutschen
@@ -36,20 +34,14 @@ Bibliothek, soweit er nicht selbst betroffen ist,
     Bundesbeamtengesetzes in der Fassung der Bekanntmachung vom 27.
     Februar 1985 - BGBl. I S. 479).
 
-
-
-
-
 ## II.
 
 Der Vorsitzende des Verwaltungsrats kann sich im Einzelfall die
 Ausübung seiner Befugnisse als oberste Dienstbehörde vorbehalten.
 
-
 ## III.
 
 Die Anordnung tritt am Tage nach der Veröffentlichung in Kraft.
-
 
 ## Schlußformel
 

@@ -22,10 +22,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 V v. 8.11.2011 I 2230
 
-
 ## Erster Abschnitt - Begriffsbestimmungen und Anmeldeverfahren
-
-
 
 ### § 1 Verkehrsarten
 
@@ -155,7 +152,6 @@ anzumelden.
 verstehen. Die Anmeldung hierzu erfolgt mit den Kurzbezeichnungen und
 Codes gemäß Anhang 38 der Verordnung (EWG) Nr. 2454/93.
 
-
 ### § 2 Freier Verkehr, ausländische Waren, Waren des freien Verkehrs
 
 (1) Freier Verkehr ist der Warenverkehr im Erhebungsgebiet,
@@ -256,7 +252,6 @@ Veredelung (§ 4 Abs. 7), die Ausfuhr von Waren nach wirtschaftlicher
 Lohnveredelung (§ 4 Abs. 11) sowie die Ausfuhr von Waren zur
 wirtschaftlichen Lohnveredelung (§ 4 Abs. 12).
 
-
 ### § 3 Lager
 
 (1) Lager sind:
@@ -300,7 +295,6 @@ Zeitpunkt der Entnahme eine entsprechende Menge in dem Gemisch oder
 Gemenge enthalten ist. Die Sätze 1 und 2 sind entsprechend anzuwenden
 bei Gemischen oder Gemengen ausländischer Waren aus verschiedenen
 Einfuhrarten.
-
 
 ### § 4 Aktive und passive Veredelung, wirtschaftliche Lohnveredelung
 
@@ -393,7 +387,6 @@ von Waren in das Erhebungsgebiet, die als Ausfuhr zur wirtschaftlichen
 Lohnveredelung angemeldet oder im Ausland ganz oder zum Teil aus
 solchen Waren hergestellt worden sind.
 
-
 ### § 5 Seeumschlag, Luftumschlag
 
 (1) Seeumschlag ist der Umschlag von Waren, die von See aus dem
@@ -405,7 +398,6 @@ worden sind, von dort nach See in das Ausland ausgehen.
 Luftverkehr auf einem Zollflugplatz des Erhebungsgebietes eingehen,
 dort umgeladen werden und, ohne daß sie zu einer Einfuhrart angemeldet
 worden sind, von dort im Luftverkehr in das Ausland ausgehen.
-
 
 ### § 6 Benennung der Ware
 
@@ -440,7 +432,6 @@ ergänzen.
 Lagerung sind die Benennungen vor und nach der Zerstörung oder
 Änderung anzugeben.
 
-
 ### § 7 Menge der Waren
 
 (1) Unter Menge der Waren ist die Eigenmasse, das Reingewicht und die
@@ -455,7 +446,6 @@ handelsüblich und die Eigenmasse nicht bekannt ist. Die Menge nach
 einer besonderen Maßeinheit ist nur dann anzugeben, wenn diese im
 Warenverzeichnis für die Außenhandelsstatistik bei der betreffenden
 Warennummer vermerkt ist.
-
 
 ### § 8 Wert der Ware
 
@@ -578,13 +568,11 @@ anzugeben. Der Statistische Wert ist für jede Warenposition in den
 Jahren 1999 bis 2001 in Deutscher Mark oder Euro, ab dem Jahr 2002 in
 Euro anzugeben.
 
-
 ### § 9 Wertstellung
 
 Unter Wertstellung sind die Lieferbedingungen (Angabe, aus der
 bestimmte Klauseln des Geschäftsvertrages ersichtlich werden) gemäß
 Anhang 38 der Verordnung (EWG) Nr. 2454/93 zu verstehen.
-
 
 ### § 10 Herstellungsland, Verbrauchsland, Herstellungsort, Zielort
 
@@ -653,7 +641,6 @@ Sendung nach Kenntnis im Zeitpunkt der Anmeldung verbleiben soll;
 anzugeben sind jedoch nur die Bezeichnung und die Schlüsselnummer des
 Landes der Bundesrepublik Deutschland, in dem dieser Ort liegt.
 
-
 ### § 11 Versendungsland
 
 (1) Versendungsland ist das Land, aus dem die Waren in das
@@ -673,11 +660,9 @@ anderen Fällen stimmt das Versendungsland mit dem Ursprungsland
 (3) Die Länder sind mit den Bezeichnungen und Schlüsselnummern des
 Länderverzeichnisses für die Außenhandelsstatistik zu benennen.
 
-
 ### § 12
 
 (weggefallen)
-
 
 ### § 13 Anlaß der Warenbewegung
 
@@ -691,7 +676,6 @@ Grund der Unentgeltlichkeit anzugeben.
 
 (2) Anzugeben ist die Schlüsselnummer gemäß Anhang 38 der Verordnung
 (EWG) Nr. 2454/93.
-
 
 ### § 14 Einführer, Ausführer
 
@@ -716,7 +700,6 @@ ansässigen Person zugrunde, so ist nur der im Erhebungsgebiet
 ansässige Vertragspartner Ausführer. Wer lediglich als Spediteur oder
 Frachtführer oder in einer ähnlichen Stellung bei dem Verbringen von
 Waren tätig wird, ist nicht Ausführer.
-
 
 ### § 15 Anmeldepapiere, Teilsendungen
 
@@ -779,7 +762,6 @@ Luftfahrzeugbedarf darf nur Waren umfassen, die von einem Lieferer
 entweder an Bord deutscher Fahrzeuge oder an Bord fremder Fahrzeuge
 geliefert werden; im übrigen gilt § 30 Abs. 1 Nr. 17.
 
-
 ### § 16 Allgemeine Pflichten und Vertretung der Auskunftspflichtigen
 
 (1) Der Ausstellungspflichtige hat den ausgefüllten Anmeldeschein dem
@@ -815,11 +797,9 @@ ordnungsmäßigen Ausstellung eines Anmeldescheines und zu seiner
 Übergabe. Der Anmeldeschein ist unverzüglich, spätestens 2 Wochen nach
 Abgabe der Erklärung nachzureichen.
 
-
 ### § 17
 
 (weggefallen)
-
 
 ### § 18 Erwerb und Veräußerung von Seeschiffen
 
@@ -838,7 +818,6 @@ Seeschiffsregister mit einem Anmeldeschein für die Ausfuhr bei der für
 den Ort der Registerbehörde (Amtsgericht) zuständigen Zollstelle, in
 Hamburg beim Hauptzollamt Hamburg-St. Annen, in Bremen beim
 Hauptzollamt Bremen-Ost, anzumelden.
-
 
 ### § 19 Lieferung von Schiffs- und Luftfahrzeugbedarf, Bestimmung der gelieferten Waren für deutsche oder fremde Fahrzeuge
 
@@ -871,7 +850,6 @@ Festlandsockels zur Aufsuchung und Gewinnung von Bodenschätzen
 errichtet sind, gelten die Absätze 1 und 2 sowie § 8 Abs. 2, § 15 Abs.
 7 und § 30 Abs. 1 Nr. 17 sinngemäß.
 
-
 ### § 20 Ausländische Streitkräfte
 
 (1) Ausländische Waren, die durch eine im Erhebungsgebiet ansässige
@@ -893,15 +871,11 @@ andere Personen veräußert und durch diese ausgeführt, so sind sie als
 Ausfuhr aus dem freien Verkehr mit dem Zusatz "ausländische
 Streitkräfte" anzumelden.
 
-
 ### § 21 Offshore-Lieferungen
 
 Für den Warenverkehr nach dem Offshore-Abkommen gilt § 20 sinngemäß.
 
-
 ## Zweiter Abschnitt - Anmeldepflichtiger, Ausstellungspflichtiger, Ergänzungspflichtiger
-
-
 
 ### § 22 Anmeldepflichtiger
 
@@ -936,7 +910,6 @@ Für den Warenverkehr nach dem Offshore-Abkommen gilt § 20 sinngemäß.
 
 
 (2) Die Vorschrift des § 30 bleibt unberührt.
-
 
 ### § 23 Ausstellungspflichtiger, Ergänzungspflichtiger
 
@@ -1010,10 +983,7 @@ verpflichtet
 
 (4) Die Vorschrift des § 30 bleibt unberührt.
 
-
 ## Dritter Abschnitt - Anmeldestellen
-
-
 
 ### § 24 Anmeldestellen
 
@@ -1115,10 +1085,7 @@ anzugeben.
 
 (3) Die Vorschrift des § 30 bleibt unberührt.
 
-
 ## Vierter Abschnitt - Zeitpunkt der Anmeldung
-
-
 
 ### § 25 Zeitpunkt der Anmeldung
 
@@ -1219,10 +1186,7 @@ des Bezugsmonats festgelegt.
 
 (3) Die Vorschriften der §§ 16 und 30 bleiben unberührt.
 
-
 ## Fünfter Abschnitt - Sicherung der Anmeldung
-
-
 
 ### § 26 Sicherung im Zollverfahren
 
@@ -1307,7 +1271,6 @@ unbeschadet seiner Verpflichtungen nach Absatz 1
 auf Anfordern der Zollstelle oder des Statistischen Bundesamtes
 Auskunft über Herkunft, Bestimmung und Verbleib der Waren zu geben.
 
-
 ### § 27 Sicherung im Freizonenverkehr
 
 (1) Werden Waren, die aus dem Ausland von See in eine Freizone
@@ -1349,7 +1312,6 @@ genannten Anmeldestelle zu übergeben.
 hat auf Anfordern der Anmeldestelle oder des Statistischen Bundesamtes
 Auskunft über Herkunft, Bestimmung und Verbleib der Waren zu geben.
 
-
 ### § 28 Ladungsverzeichnisse, örtliche Schiffsmeldestellen
 
 (1) Soweit die in § 7 Abs. 2 des Gesetzes bezeichneten
@@ -1369,10 +1331,7 @@ sichergestellt ist.
 eingehenden und ausgehenden Schiffe den Anmeldestellen auf Anfordern
 anzuzeigen.
 
-
 ## Sechster Abschnitt - Erleichterungen und Befreiungen von der Anmeldung
-
-
 
 ### § 29 Andere Papiere als Anmeldescheine
 
@@ -1421,7 +1380,6 @@ vor, so sind von dem Anmelder im Sinne der Verordnung (EWG) Nr.
 2913/92 an Stelle von Anmeldescheinen Nachweisungen auszufüllen und
 abzugeben; die Richtigkeit der Angaben ist durch Unterschrift zu
 bestätigen.
-
 
 ### § 30 Vereinfachte Anmeldungen, Sammelanmeldungen
 
@@ -1702,7 +1660,6 @@ die Schwellen im laufenden Kalenderjahr überschritten, müssen mit
 Beginn des Kalendermonats, in dem die Schwellen zum ersten Mal
 überschritten werden, entsprechende Meldungen abgegeben werden.
 
-
 ### § 31 Befreiungen von der Anmeldung
 
 (1) Befreit von der Anmeldung sind die in der Anlage (Befreiungsliste)
@@ -1714,20 +1671,15 @@ Umsatzsteuergesetzes in der jeweils gültigen Fassung. Wird im
 laufenden Kalenderjahr der in Satz 1 genannte Schwellenwert
 überschritten, so entfällt die damit verbundene Befreiung.
 
-
 ## Siebenter Abschnitt - Übergangs- und Schlußvorschriften
-
-
 
 ### § 32 (Übergangsvorschriften)
 
 -
 
-
 ### § 33 (Inkrafttreten)
 
 -
-
 
 ### Anlage (zu § 31) Befreiungsliste
 

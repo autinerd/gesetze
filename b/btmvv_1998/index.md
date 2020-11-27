@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 V v. 20.7.2012 I 1639
 
-
 ## § 1 Grundsätze
 
 (1) Die in Anlage III des Betäubungsmittelgesetzes bezeichneten
@@ -63,10 +62,6 @@ nachzuweisen:
 
 
 7.  auf Kauffahrteischiffen, die die Bundesflagge führen.
-
-
-
-
 
 ## § 2 Verschreiben durch einen Arzt
 
@@ -331,7 +326,6 @@ verschreiben. Dies gilt auch für einen Belegarzt, wenn die ihm
 zugeteilten Betten räumlich und organisatorisch von anderen
 Teileinheiten abgegrenzt sind.
 
-
 ## § 3 Verschreiben durch einen Zahnarzt
 
 (1) Für einen Patienten darf der Zahnarzt innerhalb von 30 Tagen
@@ -452,7 +446,6 @@ Beschränkungen über Bestimmungszweck, Gehalt und Darreichungsform
 verschreiben. Dies gilt auch für einen Belegzahnarzt, wenn die ihm
 zugeteilten Betten räumlich und organisatorisch von anderen
 Teileinheiten abgegrenzt sind.
-
 
 ## § 4 Verschreiben durch einen Tierarzt
 
@@ -605,7 +598,6 @@ Abwesenheit des Leiters beaufsichtigt. Er darf die in Absatz 3
 bezeichneten Betäubungsmittel, ausgenommen Etorphin, unter Beachtung
 der dort festgelegten Beschränkungen über Bestimmungszweck, Gehalt und
 Darreichungsform verschreiben.
-
 
 ## § 5 Verschreiben zur Substitution
 
@@ -972,7 +964,6 @@ Substitutionsmittel aus dem Bestand des Praxisbedarfs oder
 Stationsbedarfs zum unmittelbaren Verbrauch überlassen oder nach
 Absatz 6 Satz 3 ausgehändigt wird.
 
-
 ## § 5a Substitutionsregister
 
 (1) Das Bundesinstitut für Arzneimittel und Medizinprodukte
@@ -1164,7 +1155,6 @@ Auf Verlangen erhalten die obersten Landesgesundheitsbehörden die
 unter Nummer 1 bis 6 aufgeführten Angaben auch aufgeschlüsselt nach
 Überwachungsbereichen.
 
-
 ## § 5b Verschreiben für Patienten in Alten- und Pflegeheimen, Hospizen und in der spezialisierten ambulanten Palliativversorgung
 
 (1) Der Arzt, der ein Betäubungsmittel für einen Patienten in einem
@@ -1206,10 +1196,6 @@ benötigt werden, können von dem Arzt
 
 3.  in den Notfallvorrat nach § 5c Absatz 1 Satz 1 überführt werden.
 
-
-
-
-
 ## § 5c Verschreiben für den Notfallbedarf in Hospizen und in der spezialisierten ambulanten Palliativversorgung
 
 (1) Hospize und Einrichtungen der spezialisierten ambulanten
@@ -1245,7 +1231,6 @@ durchschnittlichen Zweiwochenbedarfs, mindestens jedoch die kleinste
 Packungseinheit, verschreiben. Die Vorratshaltung darf für jedes
 Betäubungsmittel den durchschnittlichen Monatsbedarf für Notfälle
 nicht überschreiten.
-
 
 ## § 6 Verschreiben für Einrichtungen des Rettungsdienstes
 
@@ -1283,7 +1268,6 @@ unverzüglich für den Großschadensfall zusammengefasst nachzuweisen und
 der zuständigen Landesbehörde unter Angabe der nicht verbrauchten
 Betäubungsmittel anzuzeigen. Die zuständige Landesbehörde trifft
 Festlegungen zum Verbleib der nicht verbrauchten Betäubungsmittel.
-
 
 ## § 7 Verschreiben für Kauffahrteischiffe
 
@@ -1381,7 +1365,6 @@ unterrichten.
 Ausrüstung von Schiffen, die keine Kauffahrteischiffe sind, sind die
 Absätze 1 bis 5 entsprechend anzuwenden.
 
-
 ## § 8 Betäubungsmittelrezept
 
 (1) Betäubungsmittel für Patienten, den Praxisbedarf und Tiere dürfen
@@ -1437,7 +1420,6 @@ nachzureichen, die die Notfall-Verschreibung beliefert hat. Die
 Verschreibung ist mit dem Buchstaben "N" zu kennzeichnen. Die Notfall-
 Verschreibung ist dauerhaft mit dem in der Apotheke verbleibenden Teil
 der nachgereichten Verschreibung zu verbinden.
-
 
 ## § 9 Angaben auf dem Betäubungsmittelrezept
 
@@ -1496,7 +1478,6 @@ Verschreibung hat der verschreibende Arzt die Änderung auf allen
 Teilen des Betäubungsmittelrezeptes zu vermerken und durch seine
 Unterschrift zu bestätigen.
 
-
 ## § 10 Betäubungsmittelanforderungsschein
 
 (1) Betäubungsmittel für den Stationsbedarf nach § 2 Abs. 4, § 3 Abs.
@@ -1545,7 +1526,6 @@ gerechnet, aufzubewahren und auf Verlangen der nach § 19 Abs. 1 Satz 3
 des Betäubungsmittelgesetzes zuständigen Landesbehörde einzusenden
 oder Beauftragten dieser Behörden vorzulegen.
 
-
 ## § 11 Angaben auf dem Betäubungsmittelanforderungsschein
 
 (1) Auf dem Betäubungsmittelanforderungsschein sind anzugeben:
@@ -1582,7 +1562,6 @@ Verschreibung für den Stationsbedarf, den Notfallbedarf und den
 Rettungsdienstbedarf hat der verschreibende Arzt die Änderung auf
 allen Teilen des Betäubungsmittelanforderungsscheines zu vermerken und
 durch seine Unterschrift zu bestätigen.
-
 
 ## § 12 Abgabe
 
@@ -1701,7 +1680,6 @@ Anwendung bei einem von ihm behandelten Tier und nur unter Einhaltung
 der für das Verschreiben geltenden Vorschriften der §§ 1 und 4 Abs. 1
 und 2 abgeben.
 
-
 ## § 13 Nachweisführung
 
 (1) Der Nachweis von Verbleib und Bestand der Betäubungsmittel in den
@@ -1770,7 +1748,6 @@ In der Zwischenzeit sind vorläufige Aufzeichnungen vorzunehmen, die
 nach Rückgabe der Karteikarten und Betäubungsmittelbücher nachzutragen
 sind.
 
-
 ## § 14 Angaben zur Nachweisführung
 
 (1) Beim Nachweis von Verbleib und Bestand der Betäubungsmittel sind
@@ -1825,7 +1802,6 @@ Gründen erforderlichen Überfüllung des Abgabebehältnisses enthalten
 ist, nur zu berücksichtigen, wenn dadurch der Abgang höher ist als der
 Zugang. Die Differenz ist als Zugang mit "Überfüllung" auszuweisen.
 
-
 ## § 15 Formblätter
 
 Das Bundesinstitut für Arzneimittel und Medizinprodukte gibt die
@@ -1833,7 +1809,6 @@ amtlichen Formblätter für das Verschreiben (Betäubungsmittelrezepte
 und Betäubungsmittelanforderungsscheine) und für den Nachweis von
 Verbleib und Bestand (Karteikarten und Betäubungsmittelbücher) heraus
 und macht sie im Bundesanzeiger bekannt.
-
 
 ## § 16 Straftaten
 
@@ -1885,10 +1860,6 @@ bestraft, wer
 
 5.  entgegen § 5 Absatz 9c Satz 1 Diamorphin verschreibt, verabreicht oder
     überlässt.
-
-
-
-
 
 ## § 17 Ordnungswidrigkeiten
 
@@ -1951,10 +1922,6 @@ Betäubungsmittelgesetzes handelt, wer vorsätzlich oder leichtfertig
     Mindestanforderungen an die Qualifikation nicht erfüllt, abzustimmen
     oder ohne die diamorphinspezifischen Anforderungen an die
     Qualifikation nach Absatz 9a Satz 2 Nummer 1 zu erfüllen.
-
-
-
-
 
 ## § 18 Übergangsvorschriften
 

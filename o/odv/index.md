@@ -21,7 +21,6 @@ Fundstelle
     76/767/EWG, 84/525/EWG, 84/526/EWG, 84/527/EWG und 1999/36/EG (ABl. L
     165 vom 30.6.2010, S. 1).
 
-
 ## Inhaltsverzeichnis
 
 Abschnitt 1
@@ -233,11 +232,7 @@ Anlagen
     *   Bestimmung der ortsbeweglichen Druckgeräte, die unter § 1 Absatz 2
         fallen
 
-
-
-
 ## Abschnitt 1 - Geltungsbereich und Begriffsbestimmungen
-
 
 ### § 1 Geltungsbereich
 
@@ -253,7 +248,6 @@ Verbindung mit § 10 Absatz 3 gilt diese Verordnung nicht für die in
 Anlage 2 Abschnitt A bestimmten ortsbeweglichen Druckgeräte. Diese
 Verordnung gilt nicht für die in Anlage 2 Abschnitt B bestimmten
 ortsbeweglichen Druckgeräte.
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -329,12 +323,7 @@ Im Sinne dieser Verordnung bezeichnet
 12. „Marktüberwachungsbehörde“ jede Behörde, die für Aufgaben der
     Marktüberwachung zuständig ist.
 
-
-
-
-
 ## Abschnitt 2 - Pflichten der Wirtschaftsakteure
-
 
 ### § 3 Hersteller
 
@@ -412,7 +401,6 @@ Gefahrenabwehrmaßnahmen zusammenzuarbeiten.
 Verfügung stellen, die den in Absatz 1 genannten Vorschriften
 entsprechen.
 
-
 ### § 4 Bevollmächtigte
 
 (1) Ein Hersteller kann einen Dritten schriftlich bevollmächtigen. Die
@@ -456,7 +444,6 @@ Erreichbarkeit einschließen.
 (5) Der Bevollmächtigte darf den Betreibern nur solche Informationen
 zur Verfügung stellen, die den in § 3 Absatz 1 genannten Vorschriften
 entsprechen.
-
 
 ### § 5 Einführer
 
@@ -548,7 +535,6 @@ Gefahrenabwehrmaßnahmen zusammenzuarbeiten.
 Verfügung stellen, die den in § 3 Absatz 1 genannten Vorschriften
 entsprechen.
 
-
 ### § 6 Vertreiber
 
 (1) Der Vertreiber darf nur ortsbewegliche Druckgeräte auf dem Markt
@@ -608,7 +594,6 @@ entsprechen.
 Absatz 3 sind, auf die Bestimmung in § 8 Absatz 3 bei Aushändigung
 eines ortsbeweglichen Druckgeräts schriftlich hinzuweisen.
 
-
 ### § 7 Eigentümer
 
 (1) Hat ein Eigentümer Grund zu der Annahme, dass die ortsbeweglichen
@@ -642,7 +627,6 @@ ortsbewegliche Druckgeräte für den persönlichen oder häuslichen
 Gebrauch oder für Freizeit- oder Sportzwecke zu gebrauchen
 beabsichtigen oder gebrauchen.
 
-
 ### § 8 Betreiber
 
 (1) Der Betreiber darf nur ortsbewegliche Druckgeräte verwenden, die
@@ -659,7 +643,6 @@ ortsbeweglichen Druckgeräts eine Gefahr verbunden ist, hat er
 abweichend von Absatz 2 den Vertreiber zu unterrichten, sobald ihm
 diese bekannt geworden ist.
 
-
 ### § 9 Geltung der Pflichten des Herstellers für Einführer und Vertreiber
 
 Ein Einführer oder Vertreiber gilt als Hersteller im Sinne dieser
@@ -671,7 +654,6 @@ Konformität mit den geltenden Anforderungen beeinträchtigt werden
 kann. Sie haben in den Fällen des Satzes 1 die in § 3 Absatz 1 bis 7
 aufgeführten Pflichten zu erfüllen und die aufgeführten Maßnahmen zu
 treffen.
-
 
 ### § 10 Sonstige Pflichten der Wirtschaftsakteure
 
@@ -703,9 +685,7 @@ ortsbewegliche Druckgeräte für den persönlichen oder häuslichen
 Gebrauch oder für Freizeit- oder Sportzwecke zu gebrauchen
 beabsichtigen oder gebrauchen.
 
-
 ## Abschnitt 3 - Konformität ortsbeweglicher Druckgeräte
-
 
 ### § 11 Konformität ortsbeweglicher Druckgeräte und Konformitätsbewertung
 
@@ -725,7 +705,6 @@ Kapitel 6.2 oder Kapitel 6.8 ADR/RID unterzogen.
 (3) Abnehmbare Teile nachfüllbarer ortsbeweglicher Druckgeräte können
 einer gesonderten Konformitätsbewertung unterzogen werden.
 
-
 ### § 12 Neubewertung der Konformität
 
 Der Eigentümer, der Vertreiber oder der Betreiber eines in Anlage 1
@@ -744,7 +723,6 @@ Vertreiber oder der Betreiber darf die Pi-Kennzeichnung gemäß § 13
 Absatz 1 in Verbindung mit Artikel 15 und Anhang III der Richtlinie
 2010/35/EU nicht anbringen, wenn im Verfahren zur Neubewertung nach
 Satz 1 die Konformität nicht bestätigt wurde.
-
 
 ### § 13 Allgemeine Grundsätze der Pi-Kennzeichnung
 
@@ -770,10 +748,6 @@ anbringt, darf diese nicht derart anbringen, dass sie
 
 2.  das Pi-Kennzeichen verdeckt.
 
-
-
-
-
 ### § 14 Freier Verkehr ortsbeweglicher Druckgeräte und gegenseitige Anerkennung
 
 (1) Von notifizierten Stellen anderer Mitgliedstaaten der Europäischen
@@ -788,9 +762,7 @@ des Europäischen Wirtschaftsraums benannte und notifizierte Stelle
 darf die ihr von der zuständigen Behörde des Mitgliedstaates
 gestatteten Tätigkeiten im Inland ausüben.
 
-
 ## Abschnitt 4 - Benennende Behörde und Benannte Stellen
-
 
 ### § 15 Benennende Behörde
 
@@ -808,7 +780,6 @@ Stellen sowie über alle Änderungen dieser Angaben zu unterrichten.
 (4) Die Benennende Behörde kann Überwachungsmaßnahmen zur Überprüfung
 der Benannten Stellen nach § 9 Absatz 3c des
 Gefahrgutbeförderungsgesetzes vornehmen.
-
 
 ### § 16 Benennungsverfahren
 
@@ -868,7 +839,6 @@ Kennnummern und den Tätigkeiten, für die sie benannt wurden, für die
 Veröffentlichung mit. Sie meldet zudem jede später eintretende
 Änderung der Benennung und Notifizierung.
 
-
 ### § 17 Weitere Aufgaben der Benennenden Behörde
 
 (1) Erfüllt die Benannte Stelle die Benennungsvoraussetzungen nach §
@@ -903,7 +873,6 @@ unterrichtet sie unverzüglich das Bundesministerium für Verkehr, Bau
 und Stadtentwicklung, die Europäische Kommission und die Benennende
 Behörde des Mitgliedstaates, der die Stelle notifiziert hat und
 überwacht.
-
 
 ### § 18 Rechte und Pflichten der Benannten Stellen
 
@@ -973,7 +942,6 @@ in Deutschland ansässige Unternehmen der Benennenden Behörde anzeigen.
 Diese unterrichtet sie über den nach § 19 eingerichteten
 Erfahrungsaustausch und fordert sie zur Teilnahme auf.
 
-
 ### § 19 Koordinierung der Benannten Stellen
 
 Das Bundesministerium für Verkehr, Bau und Stadtentwicklung richtet
@@ -982,9 +950,7 @@ ortsbewegliche Druckgeräte ein, an dem die Benennende Behörde und die
 Benannten Stellen nach § 16 teilnehmen müssen sowie die Benannten
 Stellen nach § 18 Absatz 9 teilnehmen dürfen.
 
-
 ## Abschnitt 5 - Marktüberwachung
-
 
 ### § 20 Zuständigkeiten und Zusammenarbeit
 
@@ -1015,7 +981,6 @@ Europäische Kommission.
 (3) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung
 richtet einen Erfahrungsaustausch für die Marktüberwachung
 ortsbeweglicher Druckgeräte ein.
-
 
 ### § 21 Aufgaben und Befugnisse der Marktüberwachungsbehörden
 
@@ -1050,7 +1015,6 @@ Umfang Amtshilfe, indem sie die hierfür erforderlichen Informationen
 oder Unterlagen bereitstellen, geeignete Untersuchungen oder andere
 angemessene Maßnahmen durchführen und sich an Untersuchungen
 beteiligen, die in anderen Mitgliedstaaten eingeleitet wurden.
-
 
 ### § 22 Marküberwachungsmaßnahmen
 
@@ -1168,7 +1132,6 @@ sind die für das Ausstellen und für Aussteller von Produkten geltenden
 Bestimmungen des Produktsicherheitsgesetzes vom 8. November 2011
 (BGBl. I S. 2178, 2179) entsprechend anzuwenden.
 
-
 ### § 23 Formale Nichtkonformität
 
 (1) Liegt bei einem ortsbeweglichen Druckgerät ein Fall formaler
@@ -1206,12 +1169,7 @@ Marktüberwachungsbehörde
 2.  anordnen, dass die ortsbeweglichen Druckgeräte zurückgerufen oder vom
     Markt genommen werden.
 
-
-
-
-
 ## Abschnitt 6 - Informations- und Meldepflichten
-
 
 ### § 24 Meldeverfahren
 
@@ -1253,7 +1211,6 @@ die Marktüberwachungsbehörden sowie die Bundesministerien für Verkehr,
 Bau und Stadtentwicklung sowie der Verteidigung über Meldungen der
 Kommission oder eines anderen Mitgliedstaates der Europäischen Union.
 
-
 ### § 25 Schnellinformationssystem
 
 (1) Trifft die Marktüberwachungsbehörde eine Maßnahme nach § 22 Absatz
@@ -1290,7 +1247,6 @@ und Informationsaustausch verwendet. Die Bundesanstalt für
 Materialforschung und -prüfung unterrichtet die
 Marktüberwachungsbehörden sowie die zuständigen Bundesministerien über
 Meldungen, die ihr über das System nach Satz 2 zugehen.
-
 
 ### § 26 Veröffentlichung von Informationen
 
@@ -1354,7 +1310,6 @@ sofern
 Die Marktüberwachungsbehörde informiert die Öffentlichkeit darüber in
 der gleichen Art und Weise, in der sie die betreffenden Informationen
 zuvor bekannt gegeben hat.
-
 
 ### § 27 Ordnungswidrigkeiten
 
@@ -1666,13 +1621,6 @@ Gefahrgutbeförderungsgesetzes handelt, wer vorsätzlich oder fahrlässig
     f)  Absatz 8 Satz 1, auch in Verbindung mit Satz 2, eine Kennnummer
         verwendet.
 
-
-
-
-
-
-
-
 ### § 28 Straftaten
 
 Wer eine in § 27 Absatz 1 bezeichnete vorsätzliche Handlung beharrlich
@@ -1680,7 +1628,6 @@ wiederholt oder durch eine solche vorsätzliche Handlung Leben oder
 Gesundheit eines Anderen, ihm nicht gehörende Tiere oder fremde Sachen
 von bedeutendem Wert gefährdet, macht sich nach § 11 des
 Gefahrgutbeförderungsgesetzes strafbar.
-
 
 ### § 29 Übergangsbestimmungen
 
@@ -1731,14 +1678,12 @@ vorgenannten Bescheinigungen ausstellen. Die betroffenen Prüfstellen
 dürfen die Überwachung des Herstellers (Audit) gemäß den dafür
 niedergelegten Verfahren durchführen.
 
-
 ### § 30 Aufhebung
 
 Die Verordnung über ortsbewegliche Druckgeräte vom 17. Dezember 2004
 (BGBl. I S. 3711), die zuletzt durch Artikel 3 der Verordnung vom 3.
 August 2010 (BGBl. I S. 1139) geändert worden ist, wird zum 3.
 Dezember 2011 aufgehoben.
-
 
 ### § 31 Anerkennung der Gleichwertigkeit
 
@@ -1758,7 +1703,6 @@ Parlaments und des Rates vom 29. Mai 1997 zur Angleichung der
 Rechtsvorschriften der Mitgliedstaaten über Druckgeräte (ABl. L 181
 vom 9.7.1997, S. 1) vorgesehenen Kennzeichen versehen sind, dürfen
 weiter verwendet werden.
-
 
 ### Anlage 1 (zu § 1 Absatz 1) Bestimmung der ortsbeweglichen Druckgeräte, die unter § 1 Absatz 1 fallen
 
@@ -1786,9 +1730,6 @@ Ortsbewegliche Druckgeräte im Sinne des § 1 Absatz 1 sind:
     Richtlinie 2010/35/EU, die nicht die Konformitätskennzeichnung gemäß
     der Richtlinie 1999/36/EG oder der Richtlinie 2010/35/EU tragen,
     hinsichtlich der Neubewertung der Konformität.
-
-
-
 
 ## Abschnitt B
 
@@ -1819,7 +1760,6 @@ ADR/RID ausgenommen sind, sowie ortsbewegliche Druckgeräte, die
 aufgrund der besonderen Vorschriften in Kapitel 3.3 ADR/RID von den
 Bau- und Prüfvorschriften für Verpackungen ausgenommen sind.
 
-
 ### Anlage 2 (zu § 1 Absatz 2) Bestimmung der ortsbeweglichen Druckgeräte, die unter § 1 Absatz 2 fallen
 
 (Fundstelle: BGBl. I 2011, 2362)
@@ -1841,9 +1781,6 @@ Ortsbewegliche Druckgeräte im Sinne des § 1 Absatz 2 Satz 1 sind:
     gefährlicher Güter zwischen Mitgliedstaaten der Europäischen Union
     oder des Europäischen Wirtschaftsraums und Drittländern gemäß Artikel
     4 der Richtlinie 2008/68/EG verwendet werden.
-
-
-
 
 ## Abschnitt B
 

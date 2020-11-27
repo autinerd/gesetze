@@ -16,13 +16,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 3042
 
-
 ## Eingangsformel
 
 Auf Grund des § 3 Absatz 2 Satz 1 des Bundespolizeibeamtengesetzes,
 der durch Artikel 3 Nummer 2 des Gesetzes vom 29. Juni 1998 (BGBl. I
 S. 1666) neu gefasst worden ist, verordnet die Bundesregierung:
-
 
 ## Inhaltsverzeichnis
 
@@ -99,9 +97,6 @@ S. 1666) neu gefasst worden ist, verordnet die Bundesregierung:
 
 *    *   Anlage (zu § 3 Absatz 2)
 
-
-
-
 ## § 1 Geltungsbereich
 
 Für die Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten im
@@ -109,13 +104,11 @@ kriminalpolizeilichen Vollzugsdienst des Bundes gelten die
 Vorschriften der Bundeslaufbahnverordnung, soweit in dieser Verordnung
 nichts anderes bestimmt ist.
 
-
 ## § 2 Schwerbehinderte Menschen
 
 § 5 der Bundeslaufbahnverordnung gilt mit der Maßgabe, dass die
 besonderen gesundheitlichen Anforderungen berücksichtigt werden, die
 an Beamtinnen und Beamte im Polizeivollzugsdienst gestellt werden.
-
 
 ## § 3 Gestaltung und Ämter der Laufbahnen
 
@@ -134,13 +127,11 @@ zugeordneten Amtsbezeichnungen ergeben sich aus der Anlage zu dieser
 Verordnung. § 9 Absatz 2 der Bundeslaufbahnverordnung bleibt
 unberührt.
 
-
 ## § 4 Einrichtung von Vorbereitungsdiensten
 
 Für die Laufbahnen nach § 3 Absatz 1 werden Vorbereitungsdienste
 eingerichtet. § 10 Absatz 2 der Bundeslaufbahnverordnung bleibt
 unberührt.
-
 
 ## § 5 Einstellung in den Vorbereitungsdienst
 
@@ -174,7 +165,6 @@ Inhaber eines Eingliederungs- oder Zulassungsscheins sowie
 Teilnehmerinnen und Teilnehmer an Eingliederungsmaßnahmen nach § 7
 Absatz 2 des Soldatenversorgungsgesetzes.
 
-
 ## § 6 Gehobener Kriminaldienst
 
 Der Vorbereitungsdienst für den gehobenen Kriminaldienst wird in einem
@@ -182,7 +172,6 @@ Bachelor-Studiengang „Kriminalvollzugsdienst im Bundeskriminalamt“ an
 der Fachhochschule des Bundes für öffentliche Verwaltung durchgeführt.
 § 13 Absatz 2 der Bundeslaufbahnverordnung bleibt im Übrigen
 unberührt.
-
 
 ## § 7 Höherer Kriminaldienst
 
@@ -192,14 +181,12 @@ einer fachpraktischen Ausbildungsphase und dem Masterstudiengang
 Police Management) an der Deutschen Hochschule der Polizei. § 14 der
 Bundeslaufbahnverordnung bleibt im Übrigen unberührt.
 
-
 ## § 8 Andere Bewerberinnen und Bewerber
 
 Andere Bewerberinnen und Bewerber sollen neun Monate ihrer Probezeit
 bei Polizeidienststellen außerhalb des Bundeskriminalamtes leisten.
 Die §§ 22 und 28 bis 31 der Bundeslaufbahnverordnung bleiben
 unberührt.
-
 
 ## § 9 Sonderregelungen
 
@@ -212,7 +199,6 @@ kriminalpolizeilichen Vollzugsdienst besitzen. Der Erwerb der
 Befähigung setzt eine Qualifizierung voraus, die den Anforderungen des
 Vorbereitungsdienstes nach § 6 entspricht. Der erfolgreiche Abschluss
 der Qualifizierung ist durch die Laufbahnprüfung nachzuweisen.
-
 
 ## § 10 Aufstieg
 
@@ -242,7 +228,6 @@ durchgeführt.
 am Vorbereitungsdienst nach § 7 teil.
 
 (4) Die §§ 40 und 41 der Bundeslaufbahnverordnung bleiben unberührt.
-
 
 ## § 11 Laufbahnwechsel
 
@@ -274,7 +259,6 @@ der Präsident des Bundeskriminalamtes oder ihre oder seine Vertretung.
 § 3 dieser Verordnung sowie die §§ 7, 8, 20 bis 25 und 27 der
 Bundeslaufbahnverordnung sind entsprechend anzuwenden.
 
-
 ## § 12 Übergangsregelung zu § 10
 
 Abweichend von § 10 ist für Beamtinnen und Beamte, die zum Zeitpunkt
@@ -284,16 +268,13 @@ das 53. Lebensjahr noch nicht vollendet haben, bis zum 31. Dezember
 S. 682), die zuletzt durch § 56 Absatz 4 der Verordnung vom 12.
 Februar 2009 (BGBl. I S. 284) geändert worden ist, anzuwenden.
 
-
 ## § 13 Folgeänderungen
 
 -
 
-
 ## § 14 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Anlage (zu § 3 Absatz 2)
 

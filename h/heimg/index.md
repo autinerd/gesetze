@@ -21,7 +21,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 3 Satz 2 G v. 29.7.2009 I 2319
 
-
 ## § 1 Anwendungsbereich
 
 (1) Dieses Gesetz gilt für Heime. Heime im Sinne dieses Gesetzes sind
@@ -66,7 +65,6 @@ Rehabilitation gilt dieses Gesetz für die Teile, die die
 Voraussetzungen des Absatzes 1 erfüllen. Dieses Gesetz gilt nicht für
 Internate der Berufsbildungs- und Berufsförderungswerke.
 
-
 ## § 2 Zweck des Gesetzes
 
 (1) Zweck des Gesetzes ist es,
@@ -104,7 +102,6 @@ Internate der Berufsbildungs- und Berufsförderungswerke.
 (2) Die Selbständigkeit der Träger in Zielsetzung und Durchführung
 ihrer Aufgaben bleibt unberührt.
 
-
 ## § 3 Leistungen des Heims, Rechtsverordnungen
 
 (1) Die Heime sind verpflichtet, ihre Leistungen nach dem jeweils
@@ -125,10 +122,6 @@ anerkannten Stand der fachlichen Erkenntnisse entsprechende Regelungen
 
 2.  für die Eignung der Leitung des Heims (Leitung) und der Beschäftigten.
 
-
-
-
-
 ## § 4 Beratung
 
 Die zuständigen Behörden informieren und beraten
@@ -146,14 +139,9 @@ Die zuständigen Behörden informieren und beraten
     des § 1 anstreben oder derartige Heime betreiben, bei der Planung und
     dem Betrieb der Heime.
 
-
-
-
-
 ## (XXXX) §§ 5 bis 9 (weggefallen)
 
 -
-
 
 ## § 10 Mitwirkung der Bewohnerinnen und Bewohner
 
@@ -202,7 +190,6 @@ vorgeschlagene Personen sowie Mitglieder der örtlichen
 Seniorenvertretungen und Mitglieder von örtlichen
 Behindertenorganisationen in angemessenem Umfang in den Heimbeirat
 gewählt werden können.
-
 
 ## § 11 Anforderungen an den Betrieb eines Heims
 
@@ -299,7 +286,6 @@ Leitung
 eines Heims erfüllt sind, ist die zuständige Behörde berechtigt und
 verpflichtet, die notwendigen Maßnahmen zur Aufklärung zu ergreifen.
 
-
 ## § 12 Anzeige
 
 (1) Wer den Betrieb eines Heims aufnehmen will, hat darzulegen, dass
@@ -376,7 +362,6 @@ der Anzeige sind Angaben über die nachgewiesene Unterkunft und
 Betreuung der Bewohnerinnen und Bewohner und die geplante
 ordnungsgemäße Abwicklung der Vertragsverhältnisse mit den
 Bewohnerinnen und Bewohnern zu verbinden.
-
 
 ## § 13 Aufzeichnungs- und Aufbewahrungspflicht
 
@@ -456,7 +441,6 @@ Vorschriften oder aufgrund von Pflegesatzvereinbarungen oder
 Vereinbarungen nach § 75 Abs. 3 des Zwölften Buches Sozialgesetzbuch
 bleiben unberührt.
 
-
 ## § 14 Leistungen an Träger und Beschäftigte
 
 (1) Dem Träger ist es untersagt, sich von oder zugunsten von
@@ -512,7 +496,6 @@ worden sind.
 (7) (weggefallen)
 
 (8) (weggefallen)
-
 
 ## § 15 Überwachung
 
@@ -605,7 +588,6 @@ verweigern, deren Beantwortung ihn selbst oder einen der in § 383 Abs.
 Gefahr strafgerichtlicher Verfolgung oder eines Verfahrens nach dem
 Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
-
 ## § 16 Beratung bei Mängeln
 
 (1) Sind in einem Heim Mängel festgestellt worden, so soll die
@@ -629,7 +611,6 @@ festgestellten Mängel eine Fortsetzung des Heimvertrags nicht
 zuzumuten, soll die zuständige Behörde sie dabei unterstützen, eine
 angemessene anderweitige Unterkunft und Betreuung zu zumutbaren
 Bedingungen zu finden.
-
 
 ## § 17 Anordnungen
 
@@ -660,7 +641,6 @@ den betroffenen Pflegesatzparteien anzustreben. Für Anordnungen nach
 Satz 1 gilt für die Pflegesatzparteien Absatz 2 Satz 3 und 4
 entsprechend.
 
-
 ## § 18 Beschäftigungsverbot, kommissarische Heimleitung
 
 (1) Dem Träger kann die weitere Beschäftigung der Leitung, eines
@@ -679,7 +659,6 @@ Heimbetriebs vorliegen. Ihre Tätigkeit endet, wenn der Träger mit
 Zustimmung der zuständigen Behörde eine geeignete Heimleitung
 bestimmt; spätestens jedoch nach einem Jahr. Die kommissarische
 Leitung übernimmt die Rechte und Pflichten der bisherigen Leitung.
-
 
 ## § 19 Untersagung
 
@@ -714,7 +693,6 @@ Anfechtungsklage gegen eine vorläufige Untersagung haben keine
 aufschiebende Wirkung. Die vorläufige Untersagung wird mit der
 schriftlichen Erklärung der zuständigen Behörde unwirksam, dass die
 Voraussetzungen für die Untersagung entfallen sind.
-
 
 ## § 20 Zusammenarbeit, Arbeitsgemeinschaften
 
@@ -772,7 +750,6 @@ Sozialgesetzbuch, so sind im Rahmen dieser Arbeitsgemeinschaft auch
 Fragen der bedarfsgerechten Planung zur Erhaltung und Schaffung der in
 § 1 genannten Heime in partnerschaftlicher Zusammenarbeit zu beraten.
 
-
 ## § 21 Ordnungswidrigkeiten
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
@@ -823,7 +800,6 @@ Fragen der bedarfsgerechten Planung zur Erhaltung und Schaffung der in
 Geldbuße bis zu fünfundzwanzigtausend Euro, in den Fällen des Absatzes
 2 mit einer Geldbuße bis zu zehntausend Euro geahndet werden.
 
-
 ## § 22 Berichte
 
 (1) Das Bundesministerium für Familie, Senioren, Frauen und Jugend
@@ -839,7 +815,6 @@ und Bewohner dürfen nur in anonymisierter Form übermittelt werden.
 (3) Die zuständigen Behörden sind verpflichtet, alle zwei Jahre einen
 Tätigkeitsbericht zu erstellen. Dieser Bericht ist zu veröffentlichen.
 
-
 ## § 23 Zuständigkeit und Durchführung des Gesetzes
 
 (1) Die Landesregierungen bestimmen die für die Durchführung dieses
@@ -854,14 +829,12 @@ haben oder besondere berufliche Erfahrung besitzen.
 Aufgabenwahrnehmung durch die zuständigen Behörden nicht durch
 Interessenkollisionen gefährdet oder beeinträchtigt wird.
 
-
 ## § 24 Anwendbarkeit der Gewerbeordnung
 
 Auf die den Vorschriften dieses Gesetzes unterliegenden Heime, die
 gewerblich betrieben werden, finden die Vorschriften der
 Gewerbeordnung Anwendung, soweit nicht dieses Gesetz besondere
 Bestimmungen enthält.
-
 
 ## § 25 Fortgeltung von Rechtsverordnungen
 
@@ -870,7 +843,6 @@ des § 38 Satz 1 Nr. 10 und Sätze 2 bis 4 der Gewerbeordnung erlassen
 worden sind, gelten bis zu ihrer Aufhebung durch die
 Rechtsverordnungen nach den §§ 3 und 13 fort, soweit sie nicht den
 Vorschriften dieses Gesetzes widersprechen.
-
 
 ## § 25a Erprobungsregelungen
 
@@ -887,7 +859,6 @@ wird.
 Bescheid und ist auf höchstens vier Jahre zu befristen. Die Rechte zur
 Überwachung nach den §§ 15, 17, 18 und 19 bleiben durch die
 Ausnahmegenehmigung unberührt.
-
 
 ## § 26 Übergangsvorschriften
 
@@ -907,7 +878,6 @@ Entgelterhöhungen nach § 4c des Heimgesetzes in der vor dem
 Inkrafttreten dieses Gesetzes geltenden Fassung können gegen den
 Träger nur innerhalb von drei Jahren nach Inkrafttreten dieses
 Gesetzes geltend gemacht werden.
-
 
 ## Anhang EV Auszug aus EinigVtr Anlage I Kap. X Sachgebiet H Abschnitt III (BGBl. II 1990, 889, 1096)
 

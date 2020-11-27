@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 309 V v. 31.10.2006 I 2407
 
-
 ## § 1 Ausbau des Schienenwegenetzes des Bundes
 
 (1) Das Schienenwegenetz der Eisenbahnen des Bundes wird nach dem
@@ -29,7 +28,6 @@ als Anlage beigefügt ist.
 Planfeststellung nach § 18 des Allgemeinen Eisenbahngesetzes
 verbindlich.
 
-
 ## § 2 Bedarfsplan, Einzelmaßnahmen
 
 (1) Der Ausbau erfolgt nach Stufen, die im Bedarfsplan vorgesehen
@@ -39,7 +37,6 @@ sind, und nach Maßgabe der §§ 8 bis 11.
 worden sind, bleiben unberührt; sie sind auf die Baumaßnahmen
 abzustimmen, die auf der Grundlage des Bedarfsplans ausgeführt werden
 sollen.
-
 
 ## § 3 Gegenstand des Bedarfsplans
 
@@ -59,7 +56,6 @@ Ausbaupläne für den europäischen Eisenbahnverkehr und kombinierten
 Verkehr, Belange des Umweltschutzes und Zielsetzungen der Raumplanung
 angemessen zu berücksichtigen.
 
-
 ## § 4 Überprüfung des Bedarfs
 
 (1) Spätestens nach Ablauf von jeweils fünf Jahren prüft das
@@ -70,7 +66,6 @@ erfolgen durch Gesetz.
 
 (2) Das Gesetz zur Förderung der Stabilität und des Wachstums der
 Wirtschaft vom 8. Juni 1967 (BGBl. I S. 582) bleibt unberührt.
-
 
 ## § 5 Planungszeitraum
 
@@ -86,7 +81,6 @@ Inkrafttreten des Eisenbahnneuordnungsgesetzes vom 27. Dezember 1993
 (BGBl. I S. 2378) legt das Bundesministerium für Verkehr, Bau und
 Stadtentwicklung einen neuen Bedarfsplan vor.
 
-
 ## § 6 Unvorhergesehener Bedarf
 
 Soweit ein unvorhergesehener Verkehrsbedarf insbesondere auf Grund
@@ -94,13 +88,11 @@ einer Änderung der Verkehrsstruktur es erfordert, können die
 Ausbaupläne im Einzelfall auch Maßnahmen enthalten, die nicht dem
 Bedarfsplan entsprechen.
 
-
 ## § 7 Berichtspflicht
 
 Das Bundesministerium für Verkehr, Bau und Stadtentwicklung berichtet
 dem Deutschen Bundestag jährlich über den Fortgang des Ausbaus des
 Schienenwegenetzes nach dem Stand vom 31. Dezember des Vorjahres.
-
 
 ## § 8 Investitionen
 
@@ -142,7 +134,6 @@ der Eisenbahn).
 Betriebsleitsysteme, die die Kapazität der Schienenwege steigern und
 andere aufwendigere Investitionen in diese ersetzen oder vermeiden.
 
-
 ## § 9 Finanzierung und Baudurchführung
 
 Die Durchführung der in den Bedarfsplan aufgenommenen Baumaßnahmen
@@ -161,7 +152,6 @@ wesentlich geändert, daß einer Vertragspartei das Festhalten an der
 ursprünglich vereinbarten Regelung nicht zuzumuten ist, so kann diese
 Vertragspartei eine Anpassung der Vereinbarung an die geänderten
 Verhältnisse verlangen.
-
 
 ## § 9a Rückzahlung von Investitionsmitteln des Bundes
 
@@ -216,7 +206,6 @@ des Bundes durch die Eisenbahnen des Bundes mit dem Ziel erfolgt ist,
 die Schienenwege an andere Eisenbahninfrastrukturbetreiber zu
 übertragen.
 
-
 ## § 10 Mitfinanzierung durch die Eisenbahn
 
 (1) Hat der Bund den Bau oder Ausbau von Schienenwegen einer Eisenbahn
@@ -233,7 +222,6 @@ Baukostenzuschuß in entsprechender Höhe gewährt.
 (2) Absatz 1 gilt entsprechend für Vereinbarungen zwischen anderen
 Gebietskörperschaften oder Dritten und den Eisenbahnen des Bundes.
 
-
 ## § 11 Ersatzinvestitionen
 
 (1) Ersatzinvestitionen werden nicht in den Bedarfsplan aufgenommen.
@@ -241,11 +229,9 @@ Gebietskörperschaften oder Dritten und den Eisenbahnen des Bundes.
 (2) Für die Finanzierung und Baudurchführung der Ersatzinvestitionen
 gelten die §§ 9, 9a und 10 entsprechend.
 
-
 ## § 12 Inkrafttreten
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Anlage (zu § 1) Bedarfsplan für die Bundesschienenwege
 

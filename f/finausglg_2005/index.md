@@ -19,10 +19,7 @@ Stand: Das G tritt gem. § 20 mit Ablauf des 31.12.2019 außer Kraft
 Zuletzt geändert durch
 :   Art. 3 G v. 29.6.2012 I 1424
 
-
 ## Erster Abschnitt - Steuerverteilung zwischen Bund und Ländern sowie unter den Ländern
-
-
 
 ### § 1 Anteile von Bund und Ländern an der Umsatzsteuer
 
@@ -170,7 +167,6 @@ Umfang verringert oder erhöht. Diese Aufteilung der Umsatzsteuer gilt
 jeweils für alle Beträge, die während der Geltungsdauer des
 Beteiligungsverhältnisses vereinnahmt oder erstattet werden.
 
-
 ### § 2 Verteilung der Umsatzsteuer unter den Ländern
 
 (1) Die Länder, deren Einnahmen aus der Einkommensteuer, der
@@ -208,16 +204,12 @@ Verhältnis der Einwohnerzahlen der Länder verteilt.
 Umsatzsteuer ist die Einwohnerzahl maßgebend, die das Statistische
 Bundesamt zum 30. Juni des Ausgleichsjahres festgestellt hat.
 
-
 ### § 3 Verteilung der Gewerbesteuerumlage unter den Ländern
 
 Die Gewerbesteuerumlage steht den Ländern insoweit zu, als die
 Gewerbesteuer in dem Gebiet des einzelnen Landes vereinnahmt wird.
 
-
 ## Zweiter Abschnitt - Finanzausgleich unter den Ländern
-
-
 
 ### § 4 Ausgleichsleistungen
 
@@ -225,7 +217,6 @@ Zur Durchführung des Finanzausgleichs unter den Ländern werden aus
 Beiträgen der ausgleichspflichtigen Länder (Ausgleichsbeiträge)
 Zuschüsse an die ausgleichsberechtigten Länder (Ausgleichszuweisungen)
 geleistet.
-
 
 ### § 5 Ausgleichspflichtige und ausgleichsberechtigte Länder
 
@@ -235,7 +226,6 @@ dem Kalenderjahr, für das der Ausgleich durchgeführt wird
 
 (2) Ausgleichsberechtigt sind die Länder, deren Finanzkraftmesszahl im
 Ausgleichsjahr ihre Ausgleichsmesszahl nicht erreicht.
-
 
 ### § 6 Finanzkraftmesszahl, Ausgleichsmesszahl
 
@@ -249,7 +239,6 @@ festgestellt werden. Die Messzahlen ergeben sich aus den
 auszugleichenden Einnahmen je Einwohner der Ländergesamtheit,
 vervielfacht mit der Einwohnerzahl des Landes; hierbei sind die nach §
 9 gewerteten Einwohnerzahlen zugrunde zu legen.
-
 
 ### § 7 Einnahmen der Länder aus Steuern und Förderabgabe
 
@@ -309,7 +298,6 @@ vervielfacht wird mit den Steuereinnahmen des Landes nach Absatz 1
 Satz 1 bis 4 je Einwohner des dem Ausgleichsjahr vorausgehenden
 Kalenderjahres sowie mit der Einwohnerzahl des Ausgleichsjahres.
 
-
 ### § 8 Steuereinnahmen der Gemeinden
 
 (1) Als Steuereinnahmen der Gemeinden eines Landes gelten nach Maßgabe
@@ -341,7 +329,6 @@ Ergebnis der Gemeindefinanzstatistik festgestellt hat.
 (3) Die Steuereinnahmen der Gemeinden eines Landes nach Absatz 1
 werden je für sich auf 64 vom Hundert herabgesetzt.
 
-
 ### § 9 Einwohnerzahl
 
 (1) Der Ausgleichsmesszahl eines Landes wird die Einwohnerzahl
@@ -360,7 +347,6 @@ Einwohnerzahl des Landes Mecklenburg-Vorpommern mit 105 vom Hundert,
 die Einwohnerzahl des Landes Brandenburg mit 103 vom Hundert, die
 Einwohnerzahl des Landes Sachsen-Anhalt mit 102 vom Hundert und die
 Einwohnerzahlen der übrigen Länder mit 100 vom Hundert gewertet.
-
 
 ### § 10 Bemessung der Ausgleichszuweisungen und der Ausgleichsbeiträge
 
@@ -423,10 +409,7 @@ ihrer Ausgleichsbeiträge nach Absatz 2, die ausgleichsberechtigten
 Länder erbringen ihren Anteil im Verhältnis ihrer
 Ausgleichszuweisungen nach Absatz 1.
 
-
 ## Dritter Abschnitt - Bundesergänzungszuweisungen
-
-
 
 ### § 11 Bundesergänzungszuweisungen
 
@@ -735,10 +718,7 @@ Abs. 3, § 12 Abs. 1 und 4 des Haushaltsgrundsätzegesetzes sowie von §
 13 Abs. 3, § 15 Abs. 1 und § 17 Abs. 1 der Bundeshaushaltsordnung bei
 den Einnahmen darzustellen.
 
-
 ## Vierter Abschnitt - Vollzug und Abrechnung der Umsatzsteuerverteilung, des Finanzausgleichs und der Bundesergänzungszuweisungen
-
-
 
 ### § 12 Feststellung der Ausgleichszahlungen
 
@@ -747,7 +727,6 @@ Ausgleichsjahres die endgültige Höhe der Länderanteile an der
 Umsatzsteuer nach § 2 und die endgültige Höhe der
 Ausgleichszuweisungen und der Ausgleichsbeiträge nach § 10 durch
 Rechtsverordnung fest, die der Zustimmung des Bundesrates bedarf.
-
 
 ### § 13 Vollzug des Finanzausgleichs während des Ausgleichsjahres
 
@@ -773,10 +752,6 @@ Ausgleichszuweisungen und Ausgleichsbeiträge werden nach den §§ 4 bis
     zum 30. Juni des Jahres festgestellt hat, das dem Ausgleichsjahr
     vorausgeht; sind diese nicht rechtzeitig verfügbar, die vom
     Statistischen Bundesamt zuletzt festgestellten Einwohnerzahlen.
-
-
-
-
 
 ### § 14 Zahlungsverkehr zum Vollzug des Finanzausgleichs
 
@@ -811,7 +786,6 @@ vorläufig abgerechnet.
 (4) Das Nähere bestimmt das Bundesministerium der Finanzen jährlich in
 einer Rechtsverordnung, die der Zustimmung des Bundesrates bedarf.
 
-
 ### § 15 Endgültige Abrechnung des Finanzausgleichs
 
 Unterschiede zwischen den vorläufig gezahlten und den endgültig
@@ -819,7 +793,6 @@ festgestellten Ausgleichszahlungen werden durch Überweisungen
 ausgeglichen, die mit dem Inkrafttreten der in § 12 vorgesehenen
 Rechtsverordnung fällig werden. Das Bundesministerium der Finanzen
 trifft die für den Überweisungsverkehr erforderlichen Anordnungen.
-
 
 ### § 16 Zahlungsverkehr zum Vollzug der Bundesergänzungszuweisungen
 
@@ -834,7 +807,6 @@ Bundesergänzungszuweisungen gilt § 15 entsprechend.
 (2) Die Bundesergänzungszuweisungen nach § 11 Abs. 3 und 4 sind mit je
 einem Viertel ihres Betrages am 15. März, 15. Juni, 15. September und
 15\. Dezember fällig.
-
 
 ### § 17 Vollzug der Verteilung des Gemeindeanteils an der Umsatzsteuer
 
@@ -858,7 +830,6 @@ dem Anteil des Landes an der Einfuhrumsatzsteuer verrechnet.
 (2) Näheres kann das Bundesministerium der Finanzen durch
 Rechtsverordnung bestimmen, die der Zustimmung des Bundesrates bedarf.
 
-
 ### § 18 Auskunftspflicht
 
 Die zuständigen Landesbehörden sind verpflichtet, dem
@@ -866,7 +837,6 @@ Bundesministerium der Finanzen die zur Durchführung dieses Gesetzes
 erforderlichen Auskünfte zu erteilen und ihre sachliche Richtigkeit
 von der obersten Rechnungsprüfungsbehörde des Landes bestätigen zu
 lassen.
-
 
 ### § 19 Vollzug und Abrechnung der Ausgleichsjahre vor dem 1. Januar 2005
 
@@ -876,7 +846,6 @@ Finanzausgleichs und der Bundesergänzungszuweisungen für die vor dem
 Finanzausgleich zwischen Bund und Ländern vom 23. Juni 1993 (BGBl. I
 S. 944, 977) in der am 31. Dezember des jeweiligen Ausgleichsjahres
 geltenden Fassung weiterhin Anwendung.
-
 
 ### § 20 Geltungsdauer
 

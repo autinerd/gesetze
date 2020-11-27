@@ -15,10 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 3445
 
-
-
 ## (XXXX) Art 1 bis 3 (weggefallen)
-
 
 ## Art 3a Sonderkündigungsrecht
 

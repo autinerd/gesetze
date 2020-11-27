@@ -18,13 +18,11 @@ Fundstelle
 Geändert durch
 :   Art. 6a G v. 10.2.2005 I 234
 
-
 ## Eingangsformel
 
 Auf Grund des § 23 des Transfusionsgesetzes vom 1. Juli 1998 (BGBl. I
 S. 1752) verordnet das Bundesministerium für Gesundheit nach Anhörung
 von Sachverständigen:
-
 
 ## § 1 Zweck und Anwendungsbereich der Verordnung
 
@@ -35,7 +33,6 @@ Voraussetzungen für eine optimale Auswertung der Daten für den Bericht
 der zuständigen Bundesoberbehörde nach § 21 Abs. 2 des
 Transfusionsgesetzes zu schaffen. Die Verordnung regelt die Erfassung
 der zu meldenden Angaben nach Art, Umfang und Darstellungsweise.
-
 
 ## § 2 Angaben im Rahmen des koordinierten Meldewesens
 
@@ -85,10 +82,6 @@ enthalten:
 -   Anzahl der Patienten mit angeborenen Hämostasestörungen, differenziert
     nach Schweregrad der Erkrankung und Altersgruppen, und Gesamtmenge der
     bei diesen Personengruppen angewendeten Produkte.
-
-
-
-
 
 ## § 3 Epidemiologische Daten
 
@@ -162,11 +155,9 @@ und im Bundesanzeiger bekannt gemacht wird, mitzuteilen, welche Teste
 mit welchen Ergebnissen bei den als bestätigt positiv gemeldeten
 spendewilligen und spendenden Personen angewendet worden sind.
 
-
 ## § 4 Inkrafttreten
 
 Die Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlussformel
 

@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 30.6.2008 I 1110
 
-
 ## Eingangsformel
 
 Auf Grund des § 12 der Bundes-Tierärzteordnung in der Fassung der
@@ -28,7 +27,6 @@ Einigungsvertrages vom 31. August 1990 in Verbindung mit Artikel 1 des
 Gesetzes vom 23. September 1990 (BGBl. 1990 II S. 885, 1093), jeweils
 auch in Verbindung mit Artikel 6 Abs. 1 des Gesetzes vom 23. September
 1990 (BGBl. 1990 II S. 885) verordnet die Bundesregierung:
-
 
 ## § 1 Grundsatz
 
@@ -45,7 +43,6 @@ unberührt.
 (2) In den Gebührensätzen des anliegenden Gebührenverzeichnisses ist
 die Umsatzsteuer nicht enthalten.
 
-
 ## § 2 Gebührenhöhe
 
 Die Höhe der einzelnen Gebühr bemißt sich, soweit nichts anderes
@@ -56,7 +53,6 @@ Schwierigkeit der Leistungen, des Zeitaufwandes, des Wertes des Tieres
 sowie der örtlichen Verhältnisse nach billigem Ermessen zu bestimmen.
 Bemessungskriterien, die bereits in der Leistungsbeschreibung
 berücksichtigt worden sind, haben hierbei außer Betracht zu bleiben.
-
 
 ## § 3 Gebührenhöhe in besonderen Fällen
 
@@ -91,7 +87,6 @@ für Leistungen, die auf Verlangen des Tierbesitzers bei Nacht
 (zwischen 19.00 und 7.00 Uhr), an Wochenenden (samstags 13.00 bis
 montags 7.00 Uhr) und an Feiertagen erbracht werden.
 
-
 ## § 4 Abweichende Gebührensätze
 
 (1) Überschreitungen des Dreifachen der Gebührensätze oder eine
@@ -112,13 +107,11 @@ treffen. Die für die betreffenden Leistungen vereinbarten
 Gebührensätze gelten in dem vereinbarten Umfang als einfache
 Gebührensätze im Sinne des § 3 Abs. 1 Satz 1.
 
-
 ## § 5 Verbot von Doppelbewertungen
 
 Eine Gebühr darf für eine Leistung nicht berechnet werden, die nach
 den Leistungsansätzen des Gebührenverzeichnisses Teil einer anderen
 Leistung ist, wenn für letztere eine Gebühr berechnet wird.
-
 
 ## § 6 Gebühren- und Rechnungsbestandteile
 
@@ -159,7 +152,6 @@ Gebührenverzeichnisses enthalten sind, gesondert auszuweisen. Im
 übrigen ist die Rechnung auf Verlangen des Zahlungspflichtigen
 aufzugliedern.
 
-
 ## § 7 Außerordentliche Leistungen
 
 Bei Leistungen, die in dem Gebührenverzeichnis nicht aufgeführt sind,
@@ -168,14 +160,12 @@ gleichwertige Leistungen gewährt werden, wobei insbesondere
 Schwierigkeit und erforderlicher zeitlicher und technischer Aufwand zu
 berücksichtigen sind.
 
-
 ## § 8 Arzneimittelpreise
 
 Die in der Arzneimittelpreisverordnung vom 14. November 1980 (BGBl. I
 S. 2147) in ihrer jeweils geltenden Fassung enthaltenen Vorschriften
 über die von Tierärzten abgegebenen Arzneimittel gelten entsprechend
 für die von Tierärzten angewandten Arzneimittel.
-
 
 ## § 9 Entschädigungen, Wegegeld
 
@@ -211,10 +201,6 @@ soweit nicht anders vereinbart, als Reiseentschädigung:
 2.  Tagegeld für die Dauer der Abwesenheit in Höhe der Gebühr nach
     laufender Nummer 40 des Gebührenverzeichnisses.
 
-
-
-
-
 ## § 10 Gebühren für im Beitrittsgebiet erbrachte Leistungen
 
 Anlage I Kapitel X Sachgebiet G Abschnitt III Nr. 1 Buchstabe a
@@ -222,17 +208,14 @@ Doppelbuchstabe aa des Einigungsvertrages vom 31. August 1990 in
 Verbindung mit Artikel 1 des Gesetzes vom 23. September 1990 (BGBl.
 1990 II S. 885, 1093) ist nicht mehr anzuwenden.
 
-
 ## § 11 Inkrafttreten
 
 Diese Verordnung tritt am ersten Tage des auf die Verkündung folgenden
 Monats in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage (zu §§ 1 und 2)
 

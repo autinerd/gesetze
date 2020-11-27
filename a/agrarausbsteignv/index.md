@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 2174
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 27 Abs. 3 des Berufsbildungsgesetzes vom 23. März 2005
@@ -25,7 +23,6 @@ Auf Grund des § 27 Abs. 3 des Berufsbildungsgesetzes vom 23. März 2005
 Verbraucherschutz, Ernährung und Landwirtschaft im Einvernehmen mit
 dem Bundesministerium für Bildung und Forschung nach Anhörung des
 Hauptausschusses des Bundesinstituts für Berufsbildung:
-
 
 ## § 1 Mindestanforderungen an die Einrichtung und den wirtschaftlichen Zustand
 
@@ -93,7 +90,6 @@ die zeitgemäß beschaffen und ausgestattet ist.
 Inhabers oder der Inhaberin ein Insolvenz- oder Vergleichsverfahren
 eröffnet worden ist.
 
-
 ## § 2 Ausnahmeregelungen
 
 Eine Ausbildungsstätte, in der die erforderlichen beruflichen
@@ -102,7 +98,6 @@ vermittelt werden können, gilt als geeignet, wenn sichergestellt ist,
 dass diese durch Ausbildungsmaßnahmen außerhalb der Ausbildungsstätte
 in einer anderen anerkannten Ausbildungsstätte oder in Form
 überbetrieblicher Ausbildung vermittelt werden können.
-
 
 ## § 3 Inkrafttreten
 

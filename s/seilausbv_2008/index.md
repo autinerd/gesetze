@@ -22,7 +22,6 @@ Fundstelle
     Berufsschule werden demnächst als Beilage im Bundesanzeiger
     veröffentlicht.
 
-
 ## Eingangsformel
 
 Auf Grund des § 25 Abs. 1 der Handwerksordnung in der Fassung der
@@ -34,25 +33,21 @@ Handwerksordnung, der zuletzt durch Artikel 2 Nr. 4 des Gesetzes vom
 Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit
 dem Bundesministerium für Bildung und Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Seiler/Seilerin wird nach § 25 der
 Handwerksordnung zur Ausbildung für das Gewerbe Nummer 29, Seiler, der
 Anlage A der Handwerksordnung staatlich anerkannt.
 
-
 ## § 2 Dauer der Berufsausbildung
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Struktur der Berufsausbildung
 
 Die Berufsausbildung gliedert sich in gemeinsame Ausbildungsinhalte
 und die Ausbildung in einen der Schwerpunkte Seilherstellung,
 Seilkonfektion oder Netzkonfektion.
-
 
 ## § 4 Ausbildungsrahmenplan, Ausbildungsberufsbild
 
@@ -131,10 +126,6 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 8.  Durchführen von qualitätssichernden Maßnahmen.
 
-
-
-
-
 ## § 5 Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
@@ -153,7 +144,6 @@ erstellen.
 zu führen. Dazu ist ihnen Gelegenheit während der Ausbildungszeit zu
 geben. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis
 regelmäßig durchzusehen.
-
 
 ## § 6 Zwischenprüfung
 
@@ -223,10 +213,6 @@ Vorgaben:
     soll das situative Fachgespräch in höchstens fünfzehn Minuten sowie
     die Bearbeitung der schriftlichen Aufgabenstellungen in einer Stunde
     durchgeführt werden.
-
-
-
-
 
 ## § 7 Gesellenprüfung
 
@@ -543,7 +529,6 @@ kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich
 sind das bisherige Ergebnis und das Ergebnis der mündlichen
 Ergänzungsprüfung im Verhältnis von 2 : 1 zu gewichten.
 
-
 ## § 8 Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
@@ -551,11 +536,9 @@ bestehen, können unter Anrechnung der bisher zurückgelegten
 Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt
 werden, wenn die Vertragsparteien dies vereinbaren.
 
-
 ## § 9 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2008 in Kraft.
-
 
 ## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Seiler/zur Seilerin
 
@@ -1080,9 +1063,6 @@ Abschnitt B: Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und
 
     *
     *   26
-
-
-
 
 ## Abschnitt C: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten
 

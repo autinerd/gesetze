@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 8 V v. 13.12.2011 I 2720
 
-
 ## § 1 Anwendungsbereich
 
 (1) Nahrungsergänzungsmittel im Sinne dieser Verordnung ist ein
@@ -44,13 +43,11 @@ Lebensmittel, das
 (2) Nährstoffe im Sinne dieser Verordnung sind Vitamine und
 Mineralstoffe, einschließlich Spurenelemente.
 
-
 ## § 2 Abgabe in Fertigpackungen
 
 Ein Nahrungsergänzungsmittel, das zur Abgabe an den Verbraucher
 bestimmt ist, darf gewerbsmäßig nur in einer Fertigpackung in den
 Verkehr gebracht werden.
-
 
 ## § 3 Zugelassene Stoffe
 
@@ -77,7 +74,6 @@ Reinheitsanforderungen entsprechen. Stoffe der Anlage 2, die nicht in
 der Zusatzstoff-Verkehrsverordnung aufgeführt sind, müssen den nach
 den allgemein anerkannten Regeln der Technik erreichbaren
 Reinheitsanforderungen entsprechen.
-
 
 ## § 4 Kennzeichnung
 
@@ -139,7 +135,6 @@ Nährstoffmengen nicht möglich sei.
 gilt § 3 Abs. 3 Satz 1, 2 und 3 erster Halbsatz der Lebensmittel-
 Kennzeichnungsverordnung entsprechend.
 
-
 ## § 5 Anzeige
 
 (1) Wer ein Nahrungsergänzungsmittel als Hersteller oder Einführer in
@@ -160,7 +155,6 @@ ist.
 Ernährung, Landwirtschaft und Verbraucherschutz und den für die
 Lebensmittelüberwachung zuständigen obersten Landesbehörden.
 
-
 ## § 6 Straftaten und Ordnungswidrigkeiten
 
 (1) Nach § 58 Abs. 1 Nr. 18, Abs. 4 bis 6 des Lebensmittel- und
@@ -179,7 +173,6 @@ Futtermittelgesetzbuches ordnungswidrig.
 Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich
 oder fahrlässig entgegen § 2 ein Nahrungsergänzungsmittel gewerbsmäßig
 in den Verkehr bringt.
-
 
 ## § 7 Übergangsregelungen
 
@@ -219,7 +212,6 @@ soweit
 Das Bundesministerium für Ernährung, Landwirtschaft und
 Verbraucherschutz macht die Stoffe gemäß Satz 1 Nr. 2 im
 Bundesanzeiger bekannt.
-
 
 ## Anlage 1 (zu § 1 Abs. 2, § 3 Abs. 1 und § 4 Abs. 3)
 
@@ -315,10 +307,6 @@ Bundesanzeiger bekannt.
 
 *    *
     *   - Phosphor (mg)
-
-
-
-
 
 ## Anlage 2 (zu § 3 Abs. 2 bis 4)
 

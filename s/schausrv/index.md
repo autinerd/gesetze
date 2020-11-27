@@ -24,9 +24,7 @@ Geändert durch
     Kommission vom 30. Juni 2008 (ABl. EU Nr. L 171 S. 16), in der jeweils
     geltenden Fassung.
 
-
 ## Abschnitt 1 - Allgemeine Vorschriften
-
 
 ### § 1 Anwendungsbereich
 
@@ -38,7 +36,6 @@ unberührt.
 
 (3) Diese Verordnung gilt nicht für Schiffe der Bundeswehr und
 ausländische Kriegsschiffe.
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -236,7 +233,6 @@ Im Sinne dieser Verordnung bedeuten
 Im Falle des Satzes 1 Nr. 10 steht die Einfuhr in den Europäischen
 Wirtschaftsraum dem Inverkehrbringen neuer Ausrüstung gleich.
 
-
 ### § 3 Benannte Stelle
 
 (1) Benannte Stelle zur Durchführung des
@@ -361,7 +357,6 @@ der Zugang zu Einrichtungen der benannten Stellen oder der Einblick in
 die erforderlichen Unterlagen verwehrt wird oder die Kriterien des § 3
 Abs. 3 Satz 1 nicht erfüllt sind.
 
-
 ### § 5 Konformitätsbewertungsverfahren und Kennzeichnung
 
 (1) Der Hersteller oder sein Bevollmächtigter haben vor dem
@@ -378,9 +373,7 @@ zusätzlich auch die Verwendung einer anderen Sprache gestatten.
 (3) Die nach Durchführung des Konformitätsbewertungsverfahrens
 zugelassene Ausrüstung muss mit der Kennzeichnung versehen sein.
 
-
 ## Abschnitt 2 - Marktüberwachung
-
 
 ### § 6 Anforderungen an Ausrüstung, Befugnisse
 
@@ -409,7 +402,6 @@ Sachverständige bedienen.
 
 (3) Die zuständige Behörde wirkt an der europäischen Gruppe benannter
 Stellen zur Umsetzung der Richtlinie 96/98/EG regelmäßig mit.
-
 
 ### § 7 Maßnahmen
 
@@ -479,16 +471,13 @@ behoben wird, teilt die zuständige Behörde dies der für die Erteilung
 des betroffenen Schiffssicherheitszeugnisses zuständigen Verwaltung
 des Flaggenstaats mit.
 
-
 ## Abschnitt 3 - Schlussvorschriften
-
 
 ### § 8 Zuständigkeiten
 
 Das Bundesamt für Seeschifffahrt und Hydrographie ist zuständige
 Behörde im Sinne dieser Verordnung und führt diese aus, soweit nichts
 Anderes bestimmt ist.
-
 
 ### § 9 Ordnungswidrigkeiten
 

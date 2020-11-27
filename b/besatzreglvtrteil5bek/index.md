@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1955, 700
 
-
-
 ## (XXXX)
 
 Gemäß § 1 des Anhangs zum Fünften Teil des Vertrags zur Regelung aus

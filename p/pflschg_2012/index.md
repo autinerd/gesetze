@@ -473,11 +473,7 @@ Abschnitt 14
 
     *   Übergangsvorschriften
 
-
-
-
 ## Abschnitt 1 - Allgemeine Bestimmungen
-
 
 ### § 1 Zweck
 
@@ -498,10 +494,6 @@ Zweck dieses Gesetzes ist,
 
 4.  Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union
     im Anwendungsbereich dieses Gesetzes durchzuführen.
-
-
-
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -661,12 +653,7 @@ Anwendungsbereich dieses Gesetzes folgende Begriffsbestimmungen:
     zollrechtlich freien Verkehr befinden, von einem anderen Mitgliedstaat
     in das Inland.
 
-
-
-
-
 ## Abschnitt 2 - Durchführung von Pflanzenschutzmaßnahmen
-
 
 ### § 3 Gute fachliche Praxis und integrierter Pflanzenschutz
 
@@ -740,7 +727,6 @@ Verbot des Absatzes 3 zu regeln, wenn dem insbesondere der Schutz
 natürlich vorkommender Ökosysteme, Biotope oder Arten nicht
 entgegensteht.
 
-
 ### § 4 Aktionsplan zur nachhaltigen Anwendung von Pflanzenschutzmitteln
 
 (1) Die Bundesregierung beschließt einen Aktionsplan zur nachhaltigen
@@ -769,7 +755,6 @@ elektronischen Bundesanzeiger bekannt.
 (4) Die Bundesregierung überprüft den Aktionsplan mindestens alle fünf
 Jahre. Die Absätze 1 bis 3 gelten entsprechend.
 
-
 ### § 5 Mitwirkung von Bundesbehörden am Aktionsplan zur nachhaltigen Anwendung von Pflanzenschutzmitteln
 
 An der Erarbeitung des Aktionsplans im Sinne des § 4 wirken das
@@ -780,7 +765,6 @@ Gesundheit von Mensch und Tier und das Umweltbundesamt zu Fragen im
 Hinblick auf den Naturhaushalt mit. Die in Satz 1 genannten
 Bundesbehörden wirken im Rahmen ihrer nach diesem Gesetz übertragenen
 Verwaltungsaufgaben an der Umsetzung des Aktionsplans mit.
-
 
 ### § 6 Pflanzenschutzmaßnahmen
 
@@ -961,7 +945,6 @@ gleichgestellt.
 
 zu gefährden.
 
-
 ### § 7 Maßnahmen gegen die Ein- und Verschleppung und Ansiedlung von Schadorganismen
 
 (1) Das Bundesministerium für Ernährung, Landwirtschaft und
@@ -1090,10 +1073,6 @@ Zustimmung des Bundesrates
     gemeinschaftlichen oder nationalen Referenzlabors mit den
     dazugehörigen Aufgaben zuzuweisen.
 
-
-
-
-
 ### § 8 Anordnungen der zuständigen Behörden
 
 Die zuständige Behörde kann zur Bekämpfung von Schadorganismen oder
@@ -1106,9 +1085,7 @@ nicht getroffen ist oder eine durch Rechtsverordnung nach § 6 Absatz 1
 oder 3 oder § 7 Absatz 1 Satz 1 getroffene Regelung nicht
 entgegensteht.
 
-
 ## Abschnitt 3 - Allgemeine Anforderungen für Anwender, Händler und Hersteller von Pflanzenschutzmitteln sowie Pflanzenschutzberater
-
 
 ### § 9 Persönliche Anforderungen
 
@@ -1234,7 +1211,6 @@ Absatz 6 zu erlassen, soweit die Bundesregierung von ihrer Befugnis
 keinen Gebrauch macht. Die Landesregierungen können diese Befugnis
 durch Rechtsverordnung auf oberste Landesbehörden übertragen.
 
-
 ### § 10 Anzeige bei Beratung und Anwendung
 
 Wer Pflanzenschutzmittel für andere – außer gelegentlicher
@@ -1246,7 +1222,6 @@ Tätigkeit anzuzeigen. Die Landesregierungen werden ermächtigt, durch
 Rechtsverordnung die näheren Vorschriften über die Anzeige und das
 Anzeigeverfahren zu erlassen. Die Landesregierungen können diese
 Befugnis durch Rechtsverordnung auf oberste Landesbehörden übertragen.
-
 
 ### § 11 Aufzeichnungs- und Informationspflichten
 
@@ -1267,9 +1242,7 @@ berechtigten Interesses und unter Wahrung der Betriebs- und
 Geschäftsgeheimnisse des Aufzeichnenden, im Einzelfall Auskunft über
 die Aufzeichnungen geben.
 
-
 ## Abschnitt 4 - Anwendung von Pflanzenschutzmitteln
-
 
 ### § 12 Vorschriften für die Anwendung von Pflanzenschutzmitteln
 
@@ -1365,7 +1338,6 @@ Pflanzenschutzmittel auch in einem anderen als mit der Zulassung
 festgesetzten Anwendungsgebiet angewandt werden, wenn die zuständige
 Behörde eine Genehmigung nach § 22 Absatz 2 erteilt hat.
 
-
 ### § 13 Vorschriften für die Einschränkung der Anwendung von Pflanzenschutzmitteln
 
 (1) Pflanzenschutzmittel dürfen nicht angewandt werden, soweit der
@@ -1457,7 +1429,6 @@ Erhaltungszustand der betroffenen Populationen der nach Absatz 2 Satz
 nicht Artikel 16 Absatz 1 der Richtlinie
 92/43/EWG              strengere Anforderungen enthält.
 
-
 ### § 14 Verbote
 
 (1) Das Bundesministerium für Ernährung, Landwirtschaft und
@@ -1538,7 +1509,6 @@ oder aus einem Stoff besteht, dessen Anwendung durch eine Verordnung
 nach Absatz 1 Nummer 1 Buchstabe a vollständig verboten ist,
 innergemeinschaftlich zu verbringen oder in Verkehr zu bringen.
 
-
 ### § 15 Beseitigungspflicht
 
 Pflanzenschutzmittel,
@@ -1562,7 +1532,6 @@ sind nach den Bestimmungen des Kreislaufwirtschafts- und
 Abfallgesetzes und der auf Grund des Kreislaufwirtschafts- und
 Abfallgesetzes erlassenen Rechtsverordnungen unverzüglich zu
 beseitigen.
-
 
 ### § 16 Gebrauch von Pflanzenschutzgeräten
 
@@ -1629,7 +1598,6 @@ regeln. Die Landesregierungen können durch Rechtsverordnung diese
 Befugnis auf oberste Landesbehörden übertragen und dabei bestimmen,
 dass diese ihre Befugnis durch Rechtsverordnung auf nachgeordnete oder
 ihrer Aufsicht unterstehende Behörden weiter übertragen können.
-
 
 ### § 17 Anwendung von Pflanzenschutzmitteln auf Flächen, die für die Allgemeinheit bestimmt sind
 
@@ -1725,7 +1693,6 @@ Absatz 1 Satz 1 genehmigen, wenn Maßnahmen getroffen werden, um eine
 Gefährdung der Allgemeinheit auszuschließen. Die zuständige Behörde
 unterrichtet das Bundesamt für Verbraucherschutz und
 Lebensmittelsicherheit über die erteilte Genehmigung nach Satz 1.
-
 
 ### § 18 Anwendung von Pflanzenschutzmitteln mit Luftfahrzeugen
 
@@ -1850,10 +1817,6 @@ Verbraucherschutz und Lebensmittelsicherheit
 2.  unverzüglich über Kenntnisse, die Anhaltspunkte auf Gefahren für die
     Gesundheit von Mensch und Tier oder den Naturhaushalt geben.
 
-
-
-
-
 ### § 19 Ausbringung oder Verwendung von mit Pflanzenschutzmitteln behandeltem Saatgut, Pflanzgut oder Kultursubstrat
 
 (1) Saatgut, Pflanzgut oder Kultursubstrat, die ein
@@ -1894,7 +1857,6 @@ Rechtsverordnung mit Zustimmung des Bundesrates nähere Vorschriften
 über die Verwendung oder Ausbringung von Saatgut, Pflanzgut oder
 Kultursubstrat, das mit einem Pflanzenschutzmittel behandelt wurde
 oder dem ein Pflanzenschutzmittel anhaftet, zu erlassen.
-
 
 ### § 20 Versuchszwecke
 
@@ -1977,7 +1939,6 @@ Rechtsverordnung mit Zustimmung des Bundesrates
 
 zu regeln.
 
-
 ### § 21 Erhebung von Daten über die Anwendung von Pflanzenschutzmitteln
 
 (1) Das Julius Kühn-Institut ist zuständig für die Erhebung von Daten
@@ -2002,7 +1963,6 @@ Bundesanzeiger oder im elektronischen Bundesanzeiger bekannt. Es
 übermittelt die Ergebnisse gemäß Artikel 3 Absatz 2 der Verordnung
 (EG) Nr. 1185/2009 an die zuständigen Dienststellen der Europäischen
 Kommission.
-
 
 ### § 22 Weitergehende Länderbefugnisse
 
@@ -2136,9 +2096,7 @@ Bundesamt für Verbraucherschutz und Lebensmittelsicherheit
 unverzüglich über Anhaltspunkte auf Gefahren für die Gesundheit von
 Mensch und Tier sowie für den Naturhaushalt.
 
-
 ## Abschnitt 5 - Abgabe, Rückgabe und Ausfuhr von Pflanzenschutzmitteln
-
 
 ### § 23 Abgabe von Pflanzenschutzmitteln
 
@@ -2182,7 +2140,6 @@ im Anwendungsbereich dieses Gesetzes erlassenen unmittelbar geltenden
 Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union
 verstoßen hat.
 
-
 ### § 24 Anzeigepflicht bei der Abgabe von Pflanzenschutzmitteln
 
 (1) Wer Pflanzenschutzmittel zu gewerblichen Zwecken oder im Rahmen
@@ -2213,7 +2170,6 @@ Vorschriften über die Anzeige und das Anzeigeverfahren zu erlassen.
 Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit stellt
 die Liste der eingegangenen Anzeigen den nach Landesrecht zuständigen
 Behörden zur Erfüllung ihrer Aufgaben nach § 59 zur Verfügung.
-
 
 ### § 25 Ausfuhr
 
@@ -2295,7 +2251,6 @@ Pflanzenschutzmitteln mit bestimmten Stoffen in Staaten außerhalb der
 Europäischen Union zu verbieten oder zu beschränken oder von einer
 Genehmigung oder Anzeige abhängig zu machen.
 
-
 ### § 26 Getrennte Lagerung
 
 Verfügungsberechtigte und Besitzer von Lebensmitteln, Futtermitteln,
@@ -2306,7 +2261,6 @@ ist, sind verpflichtet, diese von den für das Inverkehrbringen im
 Inland bestimmten Lebensmitteln, Futtermitteln, Saatgut, Pflanzgut
 oder Kultursubstrat getrennt zu halten und entsprechend kenntlich zu
 machen.
-
 
 ### § 27 Rückgabe von Pflanzenschutzmitteln
 
@@ -2354,9 +2308,7 @@ teilt den zuständigen Behörden die Gründe für die Rücknahme, den
 Widerruf oder die Feststellung mit, dass die Voraussetzungen für eine
 Rücknahme oder einen Widerruf vorgelegen hätten.
 
-
 ## Abschnitt 6 - Inverkehrbringen von Pflanzenschutzmitteln, Zulassungsverfahren
-
 
 ### § 28 Inverkehrbringen von Pflanzenschutzmitteln
 
@@ -2409,7 +2361,6 @@ für Pflanzenschutzmittel, die auf Grund einer Genehmigung nach Artikel
 52 der Verordnung (EG) Nr. 1107/2009 in Verkehr gebracht werden,
 entsprechend.
 
-
 ### § 29 Inverkehrbringen in besonderen Fällen
 
 (1) Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit
@@ -2451,7 +2402,6 @@ Rechtsverordnung auf oberste Landesbehörden übertragen.
 Benehmen mit dem Bundesinstitut für Risikobewertung, dem Julius Kühn-
 Institut und dem Umweltbundesamt erteilt.
 
-
 ### § 30 Inverkehrbringen von Pflanzenschutzmitteln unter abweichender Bezeichnung
 
 (1) Ein Pflanzenschutzmittel, das in Deutschland zugelassen ist, darf
@@ -2485,7 +2435,6 @@ Bundesanzeiger bekannt.
 in Verkehr gebracht wird, darf noch in Verkehr gebracht werden, soweit
 das entsprechende zugelassene Pflanzenschutzmittel nach § 28 Absatz 4
 noch in Verkehr gebracht werden darf.
-
 
 ### § 31 Kennzeichnung
 
@@ -2573,10 +2522,6 @@ erforderlich ist,
     Pflanzenschutzmittel enthalten oder denen Pflanzenschutzmittel
     anhaften, eine bestimmte Kennzeichnung vorzuschreiben.
 
-
-
-
-
 ### § 32 Inverkehrbringen von mit Pflanzenschutzmitteln behandeltem Saatgut, Pflanzgut oder Kultursubstrat
 
 (1) Saatgut, Pflanzgut und Kultursubstrate, die Pflanzenschutzmittel
@@ -2640,7 +2585,6 @@ Pflanzenschutzmittel anhaftet,
 
 sofern die Europäische Kommission nicht zuvor nach Artikel 49 Absatz 2
 der Verordnung (EG) Nr. 1107/2009 eine Regelung getroffen hat.
-
 
 ### § 33 Zuständigkeit für die Zulassung von Pflanzenschutzmitteln
 
@@ -2744,7 +2688,6 @@ Widerruf, die Rechtsgrundlage des jeweiligen Widerrufes oder das Ruhen
 der Zulassung sowie eine Anordnung nach § 27 Absatz 2 im
 Bundesanzeiger oder im elektronischen Bundesanzeiger bekannt.
 
-
 ### § 34 Beteiligungen
 
 (1) Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit
@@ -2832,7 +2775,6 @@ kann für die Abgabe der Bewertungen oder Stellungnahmen eine Frist
 setzen, wenn dies erforderlich ist, um eine durch die Verordnung (EG)
 Nr. 1107/2009 vorgegebene Frist einzuhalten.
 
-
 ### § 35 Grundlagen für die Verfahren zur Zulassung eines Pflanzenschutzmittels
 
 (1) Bei der Prüfung eines Antrages, auch im Verfahren der
@@ -2846,7 +2788,6 @@ die Eigenschaften des Wirkstoffes zu Grunde zu legen.
 Pflanzenschutzmittels nach den Artikeln 29 oder 30 der Verordnung (EG)
 Nr. 1107/2009 sind die von der Europäischen Kommission nach Artikel 77
 der Verordnung (EG) Nr. 1107/2009 entwickelten Leitlinien zu beachten.
-
 
 ### § 36 Ergänzende Bestimmungen für den Inhalt der Zulassung
 
@@ -2983,7 +2924,6 @@ für Verbraucherschutz und Lebensmittelsicherheit
 (8) Für die Entscheidungen nach den Absätzen 1, 2 und 4 ist § 34
 Absatz 1 entsprechend anzuwenden.
 
-
 ### § 37 Neue Erkenntnisse
 
 (1) Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit ist
@@ -2994,7 +2934,6 @@ zuständig für die Prüfung der Meldungen nach Artikel 56 der Verordnung
 Unterlagen und Proben beizufügen, aus denen sich die neuen
 Erkenntnisse ergeben.
 
-
 ### § 38 Verlängerung der Zulassung
 
 Ist über einen Antrag auf erneute Zulassung nach Artikel 43 der
@@ -3004,7 +2943,6 @@ endet, verlängert das Bundesamt für Verbraucherschutz und
 Lebensmittelsicherheit die Zulassung von Amts wegen bis zu dem
 Zeitpunkt, an dem die Entscheidung über die erneute Zulassung
 getroffen wird.
-
 
 ### § 39 Widerruf, Rücknahme, Ruhen der Zulassung
 
@@ -3062,7 +3000,6 @@ anordnen.
 (5) In den Fällen des Absatzes 1 Nummer 1 und des Absatzes 2 Nummer 1
 gilt § 49 Absatz 6 des Verwaltungsverfahrensgesetzes entsprechend.
 
-
 ### § 40 Ergänzende Regeln zu Zulassungs- und Genehmigungsverfahren
 
 (1) Das Bundesministerium für Ernährung, Landwirtschaft und
@@ -3104,9 +3041,7 @@ des Bundesrates vorzuschreiben, dass Pflanzenschutzmittel aus anderen
 Staaten nur über bestimmte Zollstellen in Verkehr gebracht oder
 ausgeführt werden dürfen.
 
-
 ## Abschnitt 7 - Inverkehrbringen von anderen Stoffen, Zulassungs- und Genehmigungsverfahren
-
 
 ### § 41 Zuständigkeit für die Prüfung von Wirkstoffen, Safenern und Synergisten
 
@@ -3208,7 +3143,6 @@ entscheidet im Rahmen seiner Zuständigkeiten nach Absatz 1 über die
 Gewährung von Datenschutz nach Artikel 59 der Verordnung (EG) Nr.
 1107/2009.
 
-
 ### § 42 Zusatzstoffe
 
 (1) Zusatzstoffe im Sinne des Artikels 2 Absatz 3 Buchstabe d der
@@ -3264,7 +3198,6 @@ des Verfahrens der Genehmigung der Zusatzstoffe, insbesondere Inhalt
 und Form des Antrages und die mit dem Antrag einzureichenden
 Unterlagen zu regeln.
 
-
 ### § 43 Kennzeichnung von Zusatzstoffen
 
 Ein Zusatzstoff darf nur in Verkehr gebracht werden, wenn er auf den
@@ -3285,10 +3218,6 @@ folgende Angaben gemacht werden:
 
 4.  das Verfallsdatum.
 
-
-
-
-
 ### § 44 Überprüfung genehmigter Zusatzstoffe
 
 (1) Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit
@@ -3301,7 +3230,6 @@ widerruft das Bundesamt für Verbraucherschutz und
 Lebensmittelsicherheit die Genehmigung. In diesem Fall ist die
 Rückgabe des Zusatzstoffes an den Hersteller oder einen von ihm
 beauftragten Dritten zulässig.
-
 
 ### § 45 Pflanzenstärkungsmittel
 
@@ -3366,9 +3294,7 @@ Zustimmung des Bundesrates die näheren Einzelheiten des Verfahrens
 nach Absatz 3, die Einzelheiten einer Untersagungsverfügung nach
 Absatz 4 sowie der erforderlichen Kontrollen zu regeln.
 
-
 ## Abschnitt 8 - Parallelhandel
-
 
 ### § 46 Genehmigung für den Parallelhandel
 
@@ -3413,10 +3339,6 @@ der Zustimmung des Bundesrates bedarf,
     innergemeinschaftliche Verbringen zum Eigenbedarf, insbesondere Art
     und Umfang der einzureichenden Unterlagen und Proben, zu regeln.
 
-
-
-
-
 ### § 47 Kennzeichnung parallelgehandelter Pflanzenschutzmittel
 
 (1) Ein parallelgehandeltes Pflanzenschutzmittel darf nur in Verkehr
@@ -3431,12 +3353,10 @@ das Referenzmittel die Zulassung nach Artikel 51 der Verordnung (EG)
 Nr. 1107/2009 erweitert, gilt diese auch für das parallelgehandelte
 Pflanzenschutzmittel.
 
-
 ### § 48 Ruhen der Genehmigung für den Parallelhandel
 
 Die Genehmigung für den Parallelhandel ruht, wenn das Ruhen der
 Zulassung des Referenzmittels angeordnet ist.
-
 
 ### § 49 Pflichten des Inhabers der Genehmigung für den Parallelhandel
 
@@ -3489,7 +3409,6 @@ auf Verlangen dem Bundesamt für Verbraucherschutz und
 Lebensmittelsicherheit zugänglich zu machen, wenn der Verdacht eines
 Missbrauchs im Sinne des § 50 Absatz 2 Satz 1 Nummer 2 besteht.
 
-
 ### § 50 Rücknahme oder Widerruf der Genehmigung für den Parallelhandel
 
 (1) Die Genehmigung für den Parallelhandel ist zurückzunehmen, wenn
@@ -3540,7 +3459,6 @@ kann an Stelle der Rücknahme oder des Widerrufes das Ruhen der
 Genehmigung für den Parallelhandel für einen bestimmten Zeitraum
 anordnen.
 
-
 ### § 51 Innergemeinschaftliches Verbringen von Pflanzenschutzmitteln für den Eigenbedarf
 
 (1) Soll das innergemeinschaftliche Verbringen eines
@@ -3562,9 +3480,7 @@ Absatz 2 bis 4 ist nicht anzuwenden. Das Pflanzenschutzmittel darf nur
 in dem Betrieb angewendet werden, für den die Genehmigung nach Absatz
 1 erteilt wurde.
 
-
 ## Abschnitt 9 - Pflanzenschutzgeräte
-
 
 ### § 52 Prüfung
 
@@ -3591,7 +3507,6 @@ Zustimmung des Bundesrates, das Verfahren der freiwilligen Prüfung von
 Pflanzenschutzgeräten nach Absatz 1 sowie die Anerkennung von
 Prüfstellen nach Absatz 3 zu regeln.
 
-
 ### § 53 Betriebsanleitung
 
 Erfüllt das Pflanzenschutzgerät besondere Anforderungen im Sinne des §
@@ -3602,9 +3517,7 @@ beruhenden Verordnung über das Inverkehrbringen von Maschinen
 geforderten Angaben, auf diese Anforderungen und die jeweils
 einzuhaltenden Betriebsbedingungen hinzuweisen.
 
-
 ## Abschnitt 10 - Entschädigung, Forderungsübergang, Kosten
-
 
 ### § 54 Entschädigung
 
@@ -3629,7 +3542,6 @@ erlassene Rechtsverordnung oder Anordnung Anlass gegeben hat.
 (4) Für Streitigkeiten über die Entschädigungsansprüche ist der
 ordentliche Rechtsweg gegeben.
 
-
 ### § 55 Forderungsübergang
 
 Wird eine Entschädigung nach § 54 Absatz 1 oder 2 geleistet oder ein
@@ -3647,7 +3559,6 @@ anteiligen Finanzierung der Entschädigung oder des Ausgleiches an
 diese übergehen. Nähere Einzelheiten des Forderungsüberganges und ein
 Forderungsübergang im Übrigen auf die Länder, insbesondere Umfang und
 Verfahren, können in der Rechtsverordnung nach Satz 1 geregelt werden.
-
 
 ### § 56 Kosten
 
@@ -3695,9 +3606,7 @@ Allgemeinheit ist angemessen zu berücksichtigen. Die zu erstattenden
 Auslagen können abweichend vom Verwaltungskostengesetz geregelt
 werden.
 
-
 ## Abschnitt 11 - Behörden, Überwachung
-
 
 ### § 57 Julius Kühn-Institut
 
@@ -3787,7 +3696,6 @@ elektronischen Bundesanzeiger bekannt machen.
 Internationalen Pflanzenschutzübereinkommens verabschiedeten Standards
 bekannt.
 
-
 ### § 58 Bundesamt für Verbraucherschutz und Lebensmittelsicherheit
 
 (1) Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit
@@ -3830,10 +3738,6 @@ kann prüfen
 
 2.  Stoffe, die zur Anwendung im Pflanzenbau bestimmt, aber keine
     Pflanzenschutzmittel, Pflanzenstärkungsmittel oder Zusatzstoffe sind.
-
-
-
-
 
 ### § 59 Durchführung in den Ländern
 
@@ -3900,7 +3804,6 @@ Untersuchungen auf Befall mit einem Schadorganismus auf Einrichtungen
 zu übertragen, wenn diese die Voraussetzungen einer nach § 7 Absatz 1
 Satz 2 Nummer 2 Buchstabe h erlassenen Rechtsverordnung erfüllen.
 
-
 ### § 60 Behördliche Anordnungen
 
 Die zuständige Behörde kann im Einzelfall die Anordnungen treffen, die
@@ -3920,10 +3823,6 @@ untersagen:
 3.  die Einfuhr oder das innergemeinschaftliche Verbringen sowie das
     Verbringen im Inland oder das Verbringen in einen anderen
     Mitgliedstaat von Schadorganismen oder Befallsgegenständen.
-
-
-
-
 
 ### § 61 Mitwirkung von Zolldienststellen
 
@@ -3970,10 +3869,6 @@ innergemeinschaftlichen Verbringens von Pflanzenschutzmitteln mit.
     vorgeführt werden. Das Brief- und Postgeheimnis nach Artikel 10 des
     Grundgesetzes wird nach Maßgabe von Satz 1 eingeschränkt.
 
-
-
-
-
 ### § 62 Befugte Zollstellen
 
 Das Bundesministerium für Ernährung, Landwirtschaft und
@@ -3989,12 +3884,7 @@ Finanzen im Bundesanzeiger die Zollstellen bekannt, bei denen
     Verkehr oder zur Ausfuhr abgefertigt werden, wenn dies durch
     Rechtsverordnung nach § 40 Absatz 2 geregelt ist.
 
-
-
-
-
 ## Abschnitt 12 - Auskunfts- und Meldepflichten, Übermittlung von Daten, Geheimhaltung
-
 
 ### § 63 Auskunftspflicht
 
@@ -4051,7 +3941,6 @@ Absatz 1 Nummer 1 bis 3 der Zivilprozessordnung bezeichneten
 Angehörigen der Gefahr strafgerichtlicher Verfolgung oder eines
 Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
-
 ### § 64 Meldepflicht
 
 (1) Jährlich bis zum 31. März haben dem Bundesamt für
@@ -4098,7 +3987,6 @@ und übermittelt die Ergebnisse gemäß Artikel 3 Absatz 2 der Verordnung
 (EG) Nr. 1185/2009 an die Dienststellen der Europäischen Kommission.
 Es veröffentlicht die Ergebnisse der Erhebung nach Absatz 1 im
 Bundesanzeiger oder im elektronischen Bundesanzeiger.
-
 
 ### § 65 Geheimhaltung
 
@@ -4169,7 +4057,6 @@ Satz 1 entsprechend für Angaben, die das Julius Kühn-Institut im
 Rahmen seiner Aufgaben nach § 21 oder einer Prüfung nach § 52 erhalten
 hat. Absatz 1 Satz 2 und 3 gilt entsprechend.
 
-
 ### § 66 Übermittlung von Daten
 
 (1) Das Julius Kühn-Institut und das Bundesamt für Verbraucherschutz
@@ -4194,7 +4081,6 @@ Durchführung dieses Gesetzes gewonnen haben, den zuständigen Behörden
 anderer Länder, des Bundes oder anderer Mitgliedstaaten sowie der
 Europäischen Kommission mitteilen.
 
-
 ### § 67 Außenverkehr
 
 Der Verkehr mit den zuständigen Behörden anderer Mitgliedstaaten und
@@ -4208,9 +4094,7 @@ obersten Landesbehörden übertragen. Die obersten Landesbehörden können
 diese Befugnis durch Rechtsverordnung nach Satz 3 auf andere Behörden
 übertragen.
 
-
 ## Abschnitt 13 - Straf- und Bußgeldvorschriften
-
 
 ### § 68 Bußgeldvorschriften
 
@@ -4448,7 +4332,6 @@ Gesetzes über Ordnungswidrigkeiten ist in den Fällen des Absatzes 1
 Nummer 31 bis 35 und 39 und des Absatzes 2 Nummer 2 das Bundesamt für
 Verbraucherschutz und Lebensmittelsicherheit.
 
-
 ### § 69 Strafvorschriften
 
 (1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird
@@ -4514,9 +4397,7 @@ strafbar.
 Nummer 2, Absatz 2 Nummer 2 oder Absatz 3 bezieht, können eingezogen
 werden.
 
-
 ## Abschnitt 14 - Schlussbestimmungen
-
 
 ### § 70 Unberührtheitsklausel
 
@@ -4540,7 +4421,6 @@ Unberührt bleiben
 
 sowie die auf diese Gesetze gestützten Rechtsverordnungen.
 
-
 ### § 71 Besondere Vorschriften zur Bekämpfung der Reblaus
 
 Durch Rechtsverordnung des Bundesministeriums für Ernährung,
@@ -4555,10 +4435,6 @@ Bekämpfung des Schadorganismus erforderlich ist, die Länder
 
 2.  die Entschädigung für Maßnahmen zur Bekämpfung der Reblaus abweichend
     von § 54 Absatz 1 bis 3 regeln.
-
-
-
-
 
 ### § 72 Eilverordnungen
 
@@ -4575,13 +4451,11 @@ Einvernehmen der jeweils zu beteiligenden Bundesministerien erlassen.
 nach ihrem Inkrafttreten außer Kraft. Ihre Geltungsdauer kann nur mit
 Zustimmung des Bundesrates verlängert werden.
 
-
 ### § 73 Verkündung von Rechtsverordnungen
 
 Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz
 1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger
 verkündet werden.
-
 
 ### § 74 Übergangsvorschriften
 

@@ -17,17 +17,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1969, 956, 969
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Erster Abschnitt - Anpassung der Renten aus den gesetzlichen Rentenversicherungen
-
-
 
 ### § 1
 
@@ -47,7 +42,6 @@ Sozialversicherungs-Angleichungsgesetzes Saar vom 15. Juni 1963
 (Bundesgesetzbl. I S. 402).
 
 (3) Absatz 1 findet auf den Knappschaftssold keine Anwendung.
-
 
 ### § 2
 
@@ -98,7 +92,6 @@ worden ist.
 Rentenversicherung, die nach
 Artikel 2 § 24 Abs. 5 des Knappschaftsrentenversicherungs-
 Neuregelungsgesetzes              gezahlt werden.
-
 
 ### § 3
 
@@ -220,7 +213,6 @@ an die Stelle des Betrags von 471,60 Deutsche Mark der Betrag von
 des Betrags von 4.281 Deutsche Mark der Betrag von 9.780 Deutsche Mark
 tritt.
 
-
 ### § 4
 
 (1) Die übrigen Renten sind so anzupassen, daß sich eine Rente ergibt,
@@ -253,7 +245,6 @@ b)  bei den übrigen Renten aus Versicherungsfällen vor dem 1. Januar 1957,
 
 angepaßt werden würden. Satz 1 gilt entsprechend für Renten nach
 Absatz 1, auf die § 5 Abs. 1 Satz 3 anzuwenden ist.
-
 
 ### § 5
 
@@ -289,7 +280,6 @@ ist oder sich der Zahlbetrag der Rente nach dem 31. Dezember 1969
 Absatzes 1 der Betrag, der für Januar 1970 zu zahlen gewesen wäre,
 wenn die Voraussetzungen für die Erfüllung des Anspruchs damals
 bestanden hätten.
-
 
 ### § 6
 
@@ -333,7 +323,6 @@ die in den §§ 55, 56 des Angestelltenversicherungsgesetzes genannten
 Grenzbeträge, die bei der Berechnung der Rente nach § 3 dieses
 Artikels zu berücksichtigen sind, nicht überschreiten.
 
-
 ### § 7
 
 (1) Leistungen nach den §§ 27 und 28 des Sozialversicherungs-
@@ -358,7 +347,6 @@ Drittel" und bei Anwendung des § 5 Abs. 1 Satz 3 dieses Artikels an
 die Stelle der Zahl 0,9796 die Zahl 0,96 und an die Stelle der Zahl
 0,9583 die Zahl 0,92.
 
-
 ### § 8
 
 Die Vorschriften dieses Abschnitts gelten im Saarland unter
@@ -374,10 +362,7 @@ Gesetzes Nr. 635 zur Einführung des Reichsknappschaftsgesetzes und des
 Knappschaftsrentenversicherungs-Neuregelungsgesetzes im Saarland vom
 18\. Juni 1958 (Amtsblatt des Saarlandes S. 1099) gewährt werden.
 
-
 ## Zweiter Abschnitt - Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung
-
-
 
 ### § 9
 
@@ -409,7 +394,6 @@ Unfallversicherung vom 30. April 1963 (Bundesgesetzbl. I S. 241) gilt
 als Unfalljahr das Jahr, für das der Jahresarbeitsverdienst zuletzt
 festgelegt worden ist.
 
-
 ### § 10
 
 (1) Die Geldleistungen werden in der Weise angepaßt, daß sie nach
@@ -427,7 +411,6 @@ Versicherungsträgers zahlenmäßig festgesetzt ist, werden sie in der
 Weise angepaßt, daß sie auf Grund des am 1. Januar 1968 maßgeblichen
 Betrags berechnet werden.
 
-
 ### § 11
 
 Der vervielfältigte Jahresarbeitsverdienst darf den Betrag von 36.000
@@ -436,10 +419,7 @@ Satz 2 und 3 der Reichsversicherungsordnung ein höherer Betrag
 bestimmt worden ist. In diesem Falle tritt an die Stelle des Betrags
 von 36.000 Deutsche Mark der höhere Betrag.
 
-
 ## Dritter Abschnitt - Gemeinsame Vorschriften und Schlußvorschriften
-
-
 
 ### § 12
 
@@ -470,7 +450,6 @@ Grund der bisherigen gesetzlichen Vorschriften festgestellt worden ist
 oder hätte festgestellt werden müssen, höher, als sie bei der
 Anpassung nach dem Zweiten Abschnitt sein würde, so ist dem
 Berechtigten die höhere Leistung zu gewähren.
-
 
 ### § 13
 
@@ -509,7 +488,6 @@ berücksichtigen.
 Bundesentschädigungsgesetz und das Lastenausgleichsgesetz unter
 Berücksichtigung ihrer im Saarland geltenden Fassung anzuwenden sind.
 
-
 ### § 14
 
 (1) Jedem Rentenempfänger ist eine schriftliche Mitteilung über die
@@ -525,7 +503,6 @@ statt. Die Berichtigung ist nur bis zum 31. Dezember 1970 zulässig.
 Die §§ 627 und 1300 der Reichsversicherungsordnung, § 79 des
 Angestelltenversicherungsgesetzes und § 93 Abs. 1 des
 Reichsknappschaftsgesetzes bleiben unberührt.
-
 
 ### § 15
 

@@ -20,7 +20,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 G v. 21.12.2006 I 3364
 
-
 ## § 1 Anwendungsbereich
 
 (1) Die Vorschriften dieses Gesetzes gelten für Unternehmen,
@@ -58,10 +57,6 @@ Geändert durch
     Bei Kreditinstituten tritt an die Stelle des Merkmals der Umsatzerlöse
     eine Bilanzsumme von 800 Millionen Euro.
 
-
-
-
-
 ## § 2 Begriffsbestimmungen
 
 Im Sinne dieses Gesetzes sind
@@ -89,13 +84,6 @@ Im Sinne dieses Gesetzes sind
         demselben Gebiet unter im Wesentlichen gleichen Bedingungen zu
         leisten, wesentlich beeinträchtigen.
 
-
-
-
-
-
-
-
 ## § 3 Rechnungsmäßige Trennung nach Geschäftsbereichen
 
 (1) Die Unternehmen sind verpflichtet, intern getrennte Konten zur
@@ -117,7 +105,6 @@ Geschäftsbereiche, für deren gesonderte rechnungsmäßige Erfassung das
 von den Organen der Europäischen Gemeinschaften erlassene
 Gemeinschaftsrecht besondere Regelungen vorsieht.
 
-
 ## § 4 Aufbewahrungspflichten
 
 Die Unternehmen haben die Konten und sonstigen Aufzeichnungen nach § 3
@@ -127,7 +114,6 @@ sich die Angaben beziehen. Soweit die nach Satz 1 aufzubewahrenden
 Aufzeichnungen nicht zu den in § 147 Abs. 1 der Abgabenordnung
 genannten Unterlagen gehören, findet § 147 Abs. 2 der Abgabenordnung
 entsprechende Anwendung.
-
 
 ## § 5 Vorlage- und Auskunftspflichten
 
@@ -150,7 +136,6 @@ Abgabenordnung gilt entsprechend.
 durch Rechtsverordnung zu bestimmen. Sie können die Ermächtigung durch
 Rechtsverordnung auf eine oberste Landesbehörde übertragen.
 
-
 ## § 6 Persönliche Verantwortlichkeit
 
 (1) Für die Erfüllung der Pflichten nach § 3 Abs. 1, §§ 4 und 5 haben
@@ -168,12 +153,10 @@ bis 3 der Zivilprozessordnung bezeichnet sind, die Gefahr zuziehen
 würde, wegen einer Straftat oder einer Ordnungswidrigkeit verfolgt zu
 werden.
 
-
 ## § 7 Verhältnis zu anderen Vorschriften
 
 Rechnungs-, Buchführungs-, Aufzeichnungs-, Aufbewahrungs-, Vorlage-
 und Auskunftspflichten nach anderen Vorschriften bleiben unberührt.
-
 
 ## § 8 Bußgeldvorschriften
 
@@ -199,7 +182,6 @@ und Auskunftspflichten nach anderen Vorschriften bleiben unberührt.
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
 zwanzigtausend Euro geahndet werden.
 
-
 ## § 9 Zeitlicher Anwendungsbereich
 
 Die Verpflichtungen nach § 3 Abs. 1, §§ 4 und 5 sind vom 1. Januar
@@ -208,13 +190,11 @@ Die Verpflichtungen nach § 3 Abs. 1, §§ 4 und 5 sind vom 1. Januar
 haben die Verpflichtungen vom Beginn des darauf folgenden
 Geschäftsjahres an zu erfüllen.
 
-
 ## § 10 Geschäftsweg
 
 Der Verkehr mit der Kommission der Europäischen Gemeinschaften obliegt
 der Bundesregierung. § 50 des Gesetzes gegen Wettbewerbsbeschränkungen
 bleibt unberührt.
-
 
 ## § 11 Inkrafttreten
 

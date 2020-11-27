@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 1170
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 127 Abs. 1 des Versicherungsaufsichtsgesetzes in der
@@ -29,7 +27,6 @@ und dem Organisationserlass vom 22. November 2005 (BGBl. I S. 3197)
 verordnet das Bundesministerium der Finanzen im Einvernehmen mit dem
 Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz:
 
-
 ## § 1
 
 Der Protektor Lebensversicherungs-AG werden die Aufgaben und
@@ -37,13 +34,11 @@ Befugnisse eines Sicherungsfonds für die in § 124 Abs. 1 des
 Versicherungsaufsichtsgesetzes genannten
 Lebensversicherungsunternehmen übertragen.
 
-
 ## § 2
 
 Die Protektor Lebensversicherungs-AG hat dem Bundesministerium der
 Finanzen Änderungen ihrer Satzung zur Genehmigung vorzulegen. § 13
 Abs. 1 des Versicherungsaufsichtsgesetzes bleibt unberührt.
-
 
 ## § 3
 

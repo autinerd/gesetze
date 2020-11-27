@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 Abs. 10 G v. 12.7.2006 I 1466
 
-
 ## Erster Abschnitt - Allgemeines
-
-
 
 ### § 1 Begriffsbestimmungen
 
@@ -63,19 +60,12 @@ Für dieses Gesetz gelten folgende Begriffsbestimmungen:
     des Regelungsangebots aufgedruckt worden sind (Artikel 15 Abs. 2
     Buchstabe a Nr. i und ii des Schuldenabkommens).
 
-
-
-
-
 ### § 2 Geltung des Bereinigungsgesetzes
 
 Für die Entschädigungsansprüche gelten §§ 53, 54 AuslWBG mit der sich
 aus den folgenden Vorschriften ergebenden näheren Regelung.
 
-
 ## Zweiter Abschnitt - Entschädigungsansprüche aus Feststellungsbescheiden
-
-
 
 ### § 3 Inhalt des Entschädigungsanspruchs
 
@@ -112,7 +102,6 @@ Art nicht berechtigt sind, ihre Ansprüche nach § 4 Abs. 2 des
 Ausführungsgesetzes zum Schuldenabkommen gerichtlich geltend zu
 machen, ist der Aussteller zu Leistungen auf den
 Entschädigungsanspruch nicht verpflichtet.
-
 
 ### § 4 Ansprüche aus Zinsscheinen
 
@@ -151,7 +140,6 @@ die für Auslandsbonds der im Feststellungsbescheid bezeichneten Art
 gelten, Zinsen gegen Vorlegung und Abstempelung der Stammurkunde zu
 zahlen waren.
 
-
 ### § 5 Beginn der Leistungspflicht
 
 (1) Die Leistungspflicht des Ausstellers beginnt zwei Monate nach dem
@@ -183,7 +171,6 @@ gilt sinngemäß.
 (5) Schwebt zu Beginn der Leistungspflicht eine Anmeldung nach § 51
 AuslWBG zur nachträglichen Anerkennung des Auslandsbonds, auf den sich
 der Feststellungsbescheid bezieht, so gilt Absatz 4 sinngemäß.
-
 
 ### § 6 Ausschluß nachträglicher Kürzungen
 
@@ -219,7 +206,6 @@ Feststellung, in welcher Höhe Ausgleichsansprüche bestehen, notwendig
 ist; sie kann zu diesem Zweck die Aussteller zur Erteilung von
 Auskunft über die ihnen zustehenden Ablösungsbeträge verpflichten.
 
-
 ### § 7 Nachträgliche Anerkennung von Auslandsbonds
 
 Nach Beginn der Leistungspflicht wird durch die Anerkennung eines nach
@@ -228,7 +214,6 @@ Feststellungsbescheid erteilt worden ist, die Geltendmachung des
 Entschädigungsanspruchs aus dem Feststellungsbescheid nicht
 ausgeschlossen. Dies gilt nicht, soweit der Aussteller seine
 Leistungen nach § 5 Abs. 5 zurückbehalten hat.
-
 
 ### § 8 Zahlungen an die Konversionskasse
 
@@ -256,7 +241,6 @@ unberücksichtigt bleiben, gehen mit dem Inkrafttreten dieses Gesetzes
 die Ansprüche aus den Zahlungen und den hierauf beruhenden
 Gutschriften bei der Konversionskasse auf den Bund über.
 
-
 ### § 9 Verbriefung von Entschädigungsansprüchen
 
 (1) Die Aussteller der im anliegenden Verzeichnis genannten Arten von
@@ -282,7 +266,6 @@ Rückkauf oder Auslosung zu tilgen; die Aufgaben der Treuhänder und
 Zahlungsagenten bei dem Tilgungsdienst nimmt der Aussteller selbst
 wahr. Auslosungen sind im Bundesanzeiger bekanntzumachen.
 
-
 ### § 10 Eintragung von Entschädigungsansprüchen in die Schuldbücher
 
 (1) Entschädigungsansprüche, die sich gegen den Bund richten, sind als
@@ -297,10 +280,7 @@ Entschädigungsansprüche, die sich gegen ein Land richten, unter den in
 Absatz 1 Satz 1 genannten Voraussetzungen als Schuldbuchforderungen in
 das Landesschuldbuch einzutragen sind.
 
-
 ## Dritter Abschnitt - Entschädigungsansprüche für Tilgungsstücke
-
-
 
 ### § 11 Inhalt des Entschädigungsanspruchs
 
@@ -332,7 +312,6 @@ Ausführungsgesetzes zum Schuldenabkommen gilt sinngemäß.
 haften, finden die für den Aussteller geltenden Vorschriften des
 Absatzes 2 sinngemäß Anwendung.
 
-
 ### § 12 Fälligkeit der Entschädigungsansprüche
 
 Hat sich der Aussteller in seinem Regelungsangebot zur Barablösung
@@ -349,7 +328,6 @@ Gebrauch, so ist er zu den Geldleistungen verpflichtet, die sich aus
 dem Schuldenabkommen und seinen Anlagen für Verpflichtungen aus der
 Art von Auslandsbonds ergeben, zu der die Tilgungsstücke gehören.
 
-
 ### § 13 Kürzungsrecht des Ausstellers nach Leistung
 
 Der Aussteller kann sein Kürzungsrecht (§ 54 Abs. 2 Satz 1 in
@@ -362,7 +340,6 @@ Entschädigung an den neuen Berechtigten geleistet worden, so haftet
 neben diesem auch der in § 54 AuslWBG bezeichnete
 Entschädigungsberechtigte für die Beträge, zu deren Rückzahlung der
 Empfänger der Leistung nach Satz 1 verpflichtet ist.
-
 
 ### § 14 Verbriefung von Entschädigungsansprüchen
 
@@ -384,7 +361,6 @@ Schuldverschreibungen gilt § 9 Abs. 3 sinngemäß.
 der Schuldverschreibungen entstehen, hat der Entschädigungsberechtigte
 zu tragen und vorzuschießen.
 
-
 ### § 15 Gerichtsstand
 
 (1) Für Klagen aus Entschädigungsansprüchen für Tilgungsstücke ist das
@@ -394,10 +370,7 @@ ausschließlich zuständig.
 (2) Absatz 1 gilt sinngemäß für Klagen auf Feststellung des Bestehens
 oder Nichtbestehens von Entschädigungsansprüchen für Tilgungsstücke.
 
-
 ## Vierter Abschnitt - Verschiedene Vorschriften
-
-
 
 ### § 16 Haftung Dritter
 
@@ -406,7 +379,6 @@ unmittelbar haften, und auf Personen, die sich in einem
 Regelungsangebot zu Leistungen auf Auslandsbonds verpflichtet haben,
 finden die für Aussteller geltenden Vorschriften dieses Gesetzes
 sinngemäß Anwendung.
-
 
 ### § 17 Ersatzurkunden und andere Ersatzleistungen
 
@@ -421,7 +393,6 @@ erhaltene Leistung dem Aussteller zurückgewährt.
 Entschädigungsberechtigte schriftlich verpflichtet, Ansprüche auf
 Ersatzurkunden oder andere Ersatzleistungen für seinen Auslandsbond
 nur gegen Rückgewähr der Entschädigungsleistungen geltend zu machen.
-
 
 ### § 18 Steuer- und Bilanzierungsvorschriften
 
@@ -447,7 +418,6 @@ Entschädigungsansprüchen so zu behandeln, wie die Verbindlichkeiten
 aus den Auslandsbonds zu behandeln wären, aus denen die
 Entschädigungsansprüche herrühren.
 
-
 ### § 19 Entschädigungsansprüche nach § 52 AuslWBG
 
 Auf die in § 52 AuslWBG genannten Entschädigungsansprüche für kraftlos
@@ -457,7 +427,6 @@ die Verkündung dieses Gesetzes folgenden Jahres der 30. Dezember des
 Jahres, in dem die Kammer für Wertpapierbereinigung die
 Voraussetzungen für den Entschädigungsanspruch nach § 52 Abs. 2
 AuslWBG rechtskräftig festgestellt hat.
-
 
 ### § 20 Vorschriften für die in den Niederlanden begebenen Auslandsbonds
 
@@ -489,10 +458,7 @@ genannten Frist wiederholt werden.
 Entschädigungsberechtigten beginnt frühestens zwei Monate nach Ablauf
 der Anmeldefrist.
 
-
 ## Fünfter Abschnitt - Schlußvorschriften
-
-
 
 ### § 21 Land Berlin
 
@@ -502,12 +468,10 @@ im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes
 erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 Überleitungsgesetzes.
 
-
 ### § 22 Inkrafttreten
 
 Dieses Gesetz tritt am ersten Tage des zweiten Monats nach seiner
 Verkündung in Kraft.
-
 
 ### Anlage (§ 9 Abs. 1) Verzeichnis nach § 9 Abs. 1
 

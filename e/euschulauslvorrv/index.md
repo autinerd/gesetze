@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1995, 676
 
-
-
 ## Eingangsformel
 
 Auf Grund des Artikels 3 des Gesetzes vom 22. Juni 1954 über den
@@ -29,7 +27,6 @@ und Befreiungen an andere zwischenstaatliche Organisationen (BGBl.
 August 1980 (BGBl. 1980 II S. 941) neu gefaßt wurde, verordnet die
 Bundesregierung:
 
-
 ## § 1
 
 Die Zulagen, die den Direktoren und Lehrern der in Anwendung des
@@ -39,11 +36,9 @@ Vorschriften des Statuts des Lehrpersonals der Europäischen Schulen in
 der jeweils geltenden Fassung gezahlt werden, sind von der
 Einkommensteuer befreit.
 
-
 ## § 2
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 1995 in Kraft.
-
 
 ## Schlußformel
 

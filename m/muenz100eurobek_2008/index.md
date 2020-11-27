@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 1786
 
-
 ## (XXXX)
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
@@ -46,11 +45,9 @@ Münzzeichen „A“, „D“, „F“, „G“ oder „J“.
 
 Der Entwurf der Münze stammt von Herrn Wolfgang Th. Doehm, Stuttgart.
 
-
 ## Schlussformel
 
 Der Bundesminister der Finanzen
-
 
 ## (XXXX)
 

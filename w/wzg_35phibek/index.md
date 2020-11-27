@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1954, 332
 
-
-
 ## (XXXX)
 
 Auf Grund des § 35 Abs. 1 des Warenzeichengesetzes in der Fassung vom
@@ -26,7 +24,6 @@ bekanntgemacht:
 
 Deutsche Warenbezeichnungen werden in der Republik der Philippinen in
 demselben Umfang wie inländische zum gesetzlichen Schutz zugelassen.
-
 
 ## Schlussformel
 

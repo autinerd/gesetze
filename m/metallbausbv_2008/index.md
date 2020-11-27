@@ -22,7 +22,6 @@ Fundstelle
     Berufsschule werden demnächst als Beilage im Bundesanzeiger
     veröffentlicht.
 
-
 ## Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit § 26 und auf Grund des §
@@ -35,18 +34,15 @@ geändert worden sind, verordnet das Bundesministerium für Wirtschaft
 und Technologie im Einvernehmen mit dem Bundesministerium für Bildung
 und Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Metallbauer und Metallbauerin wird nach § 25 der
 Handwerksordnung zur Ausbildung für das Gewerbe Nummer 13,
 Metallbauer, der Anlage A der Handwerksordnung staatlich anerkannt.
 
-
 ## § 2 Dauer der Berufsausbildung
 
 Die Ausbildung dauert dreieinhalb Jahre.
-
 
 ## § 3 Struktur der Berufsausbildung
 
@@ -60,10 +56,6 @@ und die Ausbildung in einer der Fachrichtungen
 
 
 3.  Nutzfahrzeugbau.
-
-
-
-
 
 ## § 4 Ausbildungsrahmenplan/Ausbildungsberufsbild
 
@@ -228,10 +220,6 @@ Nutzfahrzeugbau:
 10. Kontrollieren der durchgeführten Arbeiten unter Einbeziehung
     angrenzender Bereiche.
 
-
-
-
-
 ## § 5 Durchführung der Berufsausbildung
 
 (1) Die in § 4 genannten Fertigkeiten, Kenntnisse und Fähigkeiten
@@ -251,7 +239,6 @@ zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
 Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
 Ausbildenden haben den Ausbildungsnachweis regelmäßig durchzusehen.
 
-
 ## § 6 Gesellenprüfung
 
 (1) Die Gesellenprüfung besteht aus den beiden zeitlich
@@ -270,7 +257,6 @@ als es für die Feststellung der Berufsbefähigung erforderlich ist.
 (2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der
 Gesellenprüfung mit 30 Prozent und Teil 2 der Gesellenprüfung mit 70
 Prozent gewichtet.
-
 
 ## § 7 Teil 1 der Gesellenprüfung
 
@@ -330,10 +316,6 @@ Arbeitsauftrag.
 4.  die Prüfungszeit beträgt sieben Stunden; innerhalb dieser Zeit soll
     das Fachgespräch in insgesamt höchstens 15 Minuten durchgeführt
     werden.
-
-
-
-
 
 ## § 8 Teil 2 der Gesellenprüfung in der Fachrichtung Konstruktionstechnik
 
@@ -522,10 +504,6 @@ folgende Vorgaben:
 
 3.  die Prüfungszeit beträgt eine Stunde.
 
-
-
-
-
 ## § 9 Gewichtungs- und Bestehensregelung in der Fachrichtung Konstruktionstechnik
 
 (1) Die Prüfungsbereiche in der Fachrichtung Konstruktionstechnik sind
@@ -590,7 +568,6 @@ bestanden, wenn die Leistungen
 
 
 bewertet worden sind.
-
 
 ## § 10 Teil 2 der Gesellenprüfung in der Fachrichtung Metallgestaltung
 
@@ -779,10 +756,6 @@ folgende Vorgaben:
 
 3.  die Prüfungszeit beträgt eine Stunde.
 
-
-
-
-
 ## § 11 Gewichtungs- und Bestehensregelung in der Fachrichtung Metallgestaltung
 
 (1) Die Prüfungsbereiche in der Fachrichtung Metallgestaltung sind wie
@@ -847,7 +820,6 @@ bestanden, wenn die Leistungen
 
 
 bewertet worden sind.
-
 
 ## § 12 Teil 2 der Gesellenprüfung in der Fachrichtung Nutzfahrzeugbau
 
@@ -1035,10 +1007,6 @@ folgende Vorgaben:
 
 3.  die Prüfungszeit beträgt eine Stunde.
 
-
-
-
-
 ## § 13 Gewichtungs- und Bestehensregelung in der Fachrichtung Nutzfahrzeugbau
 
 (1) Die Prüfungsbereiche in der Fachrichtung Nutzfahrzeugbau sind wie
@@ -1104,7 +1072,6 @@ bestanden, wenn die Leistungen
 
 bewertet worden sind.
 
-
 ## § 14 Mündliche Ergänzungsprüfung
 
 Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der
@@ -1117,7 +1084,6 @@ Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und
 das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2 : 1
 zu gewichten.
 
-
 ## § 15 Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
@@ -1128,7 +1094,6 @@ Vereinbarung nicht zustande, sind auf Berufsausbildungsverhältnisse,
 die bis zum 31. Juli 2008 begonnen wurden, die Vorschriften der in §
 16 Satz 2 genannten Verordnungen weiter anzuwenden.
 
-
 ## § 16 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2008 in Kraft. Gleichzeitig treten
@@ -1138,7 +1103,6 @@ Metallbauerin vom 4. Juli 2002 (BGBl. I S. 2534) und die Verordnung
 Berufsausbildung zum Metallbauer/zur Metallbauerin vom 24. März 2003
 (BGBl. I S. 377), geändert durch Artikel 2 der Verordnung vom 17. Juli
 2007 (BGBl. I S. 1402), außer Kraft.
-
 
 ## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Metallbauer/zur Metallbauerin
 

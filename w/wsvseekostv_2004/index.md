@@ -19,8 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 2 V v. 6.5.2010 I 573
 
-
-
 ## Eingangsformel
 
 Das Bundesministerium für Verkehr, Bau- und Wohnungswesen verordnet
@@ -55,7 +53,6 @@ Einvernehmen mit dem Bundesministerium der Finanzen und auf Grund des
 2002 (BGBl. I S. 1815, 1817) in Verbindung mit dem 2. Abschnitt des
 Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821):
 
-
 ## § 1 Gebühren und Auslagen
 
 (1) Für Amtshandlungen der Wasser- und Schifffahrtsverwaltung des
@@ -75,7 +72,6 @@ Euro erhoben werden.
 (3) Erfordert eine Amtshandlung ein Tätigwerden der Behörde außerhalb
 der Dienstzeit, so kann ein dem entstehenden Aufwand entsprechender
 Betrag bis zur Höhe der doppelten Gebühr erhoben werden.
-
 
 ## § 2 Allgemeine Gebührengrundsätze
 
@@ -103,11 +99,9 @@ schifffahrtspolizeiliche Genehmigungen, für die
 amtlichen Schiffsmessbrief ausgewiesene Bruttoraumzahl (BRZ) zugrunde
 zu legen.
 
-
 ## § 3 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Oktober 2004 in Kraft.
-
 
 ## Anlage (zu § 1 Abs 1) Gebührenverzeichnis
 

@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 26 G v. 9.12.2010 I 193
 
-
 ## § 1
 
 (1) Flächen, die nach Maßgabe der Rechtsakte der Europäischen
@@ -55,7 +54,6 @@ Beschaffenheit der von Absatz 1 erfassten Flächen unberücksichtigt.
 Insbesondere bleibt das Recht, diese Flächen nach Beendigung der
 Stilllegungsperiode in derselben Art und demselben Umfang wie zum
 Zeitpunkt vor der Stilllegung nutzen zu können, unberührt.
-
 
 ## § 2
 

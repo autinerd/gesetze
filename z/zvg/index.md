@@ -18,14 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 6 G v. 7.12.2011 I 2582
 
-
 ## Erster Abschnitt - Zwangsversteigerung und Zwangsverwaltung von Grundstücken im Wege der Zwangsvollstreckung
 
-
-
 ### Erster Titel - Allgemeine Vorschriften
-
-
 
 #### § 1
 
@@ -39,7 +34,6 @@ Amtsgericht für die Bezirke mehrerer Amtsgerichte zuzuweisen, sofern
 die Zusammenfassung für eine sachdienliche Förderung und schnellere
 Erledigung der Verfahren erforderlich ist. Die Landesregierungen
 können die Ermächtigung auf die Landesjustizverwaltungen übertragen.
-
 
 #### § 2
 
@@ -57,13 +51,11 @@ verschiedener Amtsgerichte belegen sind. Von der Anordnung soll das
 zum Vollstreckungsgericht bestellte Gericht die übrigen Gerichte in
 Kenntnis setzen.
 
-
 #### § 3
 
 Die Zustellungen erfolgen von Amts wegen. Sie können durch
 Einschreiben mit Rückschein erfolgen. Zum Nachweis der Zustellung
 genügt der Rückschein.
-
 
 #### § 4
 
@@ -74,13 +66,11 @@ wohnhaften Prozeßbevollmächtigten oder Zustellungsbevollmächtigten dem
 Gericht angezeigt ist. Die Postsendung muß mit der Bezeichnung
 "Einschreiben" versehen werden.
 
-
 #### § 5
 
 Die Bestellung eines Zustellungsbevollmächtigten bei dem Grundbuchamt
 gilt auch für das Verfahren des Vollstreckungsgerichts, sofern sie
 diesem bekannt geworden ist.
-
 
 #### § 6
 
@@ -102,7 +92,6 @@ Vormundschaftsbehörde, für juristische Personen oder für Vereine, die
 als solche klagen und verklagt werden können, an die Aufsichtsbehörde
 angeordnet wird.
 
-
 #### § 7
 
 (1) An den Zustellungsvertreter erfolgen die Zustellungen, solange
@@ -119,14 +108,12 @@ vermag; die dem Gläubiger zur Last fallenden Auslagen gehören zu den
 Kosten der die Befriedigung aus dem Grundstück bezweckenden
 Rechtsverfolgung.
 
-
 #### § 8
 
 Die Vorschriften der §§ 4 bis 7 finden auf die an den Schuldner zu
 bewirkende Zustellung des Beschlusses, durch welchen die
 Zwangsvollstreckung angeordnet oder der Beitritt eines Gläubigers
 zugelassen wird, keine Anwendung.
-
 
 #### § 9
 
@@ -145,10 +132,6 @@ Schuldner:
     das Grundstück überlassen ist, bei dem Vollstreckungsgericht anmelden
     und auf Verlangen des Gerichts oder eines Beteiligten glaubhaft
     machen.
-
-
-
-
 
 #### § 10
 
@@ -242,7 +225,6 @@ Soweit die Art und der Bezugszeitraum des Anspruchs sowie seine
 Fälligkeit nicht aus dem Titel zu erkennen sind, sind sie in sonst
 geeigneter Weise glaubhaft zu machen.
 
-
 #### § 11
 
 (1) Sind Ansprüche aus verschiedenen Rechten nach § 10 Nr. 4, 6 oder 8
@@ -251,7 +233,6 @@ maßgebend, welches unter den Rechten besteht.
 
 (2) In der fünften Klasse geht unter mehreren Ansprüchen derjenige
 vor, für welchen die Beschlagnahme früher erfolgt ist.
-
 
 #### § 12
 
@@ -266,10 +247,6 @@ folgende Rangordnung:
 
 
 3.  der Hauptanspruch.
-
-
-
-
 
 #### § 13
 
@@ -293,26 +270,19 @@ der Zwangsversteigerung gilt, wenn bis zur Beschlagnahme eine
 Zwangsverwaltung fortgedauert hat, die für diese bewirkte
 Beschlagnahme als die erste.
 
-
 #### § 14
 
 Ansprüche von unbestimmtem Betrag gelten als aufschiebend bedingt
 durch die Feststellung des Betrags.
 
-
 ### Zweiter Titel - Zwangsversteigerung
 
-
-
 #### I. - Anordnung der Versteigerung
-
-
 
 ##### § 15
 
 Die Zwangsversteigerung eines Grundstücks wird von dem
 Vollstreckungsgericht auf Antrag angeordnet.
-
 
 ##### § 16
 
@@ -321,7 +291,6 @@ den vollstreckbaren Titel bezeichnen.
 
 (2) Die für den Beginn der Zwangsvollstreckung erforderlichen Urkunden
 sind dem Antrag beizufügen.
-
 
 ##### § 17
 
@@ -337,7 +306,6 @@ Grundbuch.
 (3) Die Erbfolge ist durch Urkunden glaubhaft zu machen, sofern sie
 nicht bei dem Gericht offenkundig ist.
 
-
 ##### § 18
 
 Die Zwangsversteigerung mehrerer Grundstücke kann in demselben
@@ -345,7 +313,6 @@ Verfahren erfolgen, wenn sie entweder wegen einer Forderung gegen
 denselben Schuldner oder wegen eines an jedem der Grundstücke
 bestehenden Rechts oder wegen einer Forderung, für welche die
 Eigentümer gesamtschuldnerisch haften, betrieben wird.
-
 
 ##### § 19
 
@@ -367,7 +334,6 @@ Urkunden.
 über die Anordnung der Zwangsversteigerung erfolgen, soll das
 Grundbuchamt dem Gericht mitteilen.
 
-
 ##### § 20
 
 (1) Der Beschluß, durch welchen die Zwangsversteigerung angeordnet
@@ -375,7 +341,6 @@ wird, gilt zugunsten des Gläubigers als Beschlagnahme des Grundstücks.
 
 (2) Die Beschlagnahme umfaßt auch diejenigen Gegenstände, auf welche
 sich bei einem Grundstück die Hypothek erstreckt.
-
 
 ##### § 21
 
@@ -390,7 +355,6 @@ verbundenen Recht auf wiederkehrende Leistungen.
 
 (3) Das Recht eines Pächters auf den Fruchtgenuß wird von der
 Beschlagnahme nicht berührt.
-
 
 ##### § 22
 
@@ -408,7 +372,6 @@ gegenüber erst mit dem Zeitpunkt wirksam, in welchem sie ihm bekannt
 oder das Zahlungsverbot ihm zugestellt wird. Die Vorschriften des §
 845 der Zivilprozeßordnung finden entsprechende Anwendung.
 
-
 ##### § 23
 
 (1) Die Beschlagnahme hat die Wirkung eines Veräußerungsverbots. Der
@@ -425,12 +388,10 @@ Beschlagnahme gleich. Die Beschlagnahme gilt auch in Ansehung der
 mithaftenden beweglichen Sachen als bekannt, sobald der
 Versteigerungsvermerk eingetragen ist.
 
-
 ##### § 24
 
 Die Verwaltung und Benutzung des Grundstücks verbleibt dem Schuldner
 nur innerhalb der Grenzen einer ordnungsmäßigen Wirtschaft.
-
 
 ##### § 25
 
@@ -441,14 +402,12 @@ Gefährdung erforderlichen Maßregeln anzuordnen. Das Gericht kann die
 Maßregeln aufheben, wenn der zu deren Fortsetzung erforderliche
 Geldbetrag nicht vorgeschossen wird.
 
-
 ##### § 26
 
 Ist die Zwangsversteigerung wegen des Anspruchs aus einem
 eingetragenen Recht angeordnet, so hat eine nach der Beschlagnahme
 bewirkte Veräußerung des Grundstücks auf den Fortgang des Verfahrens
 gegen den Schuldner keinen Einfluß.
-
 
 ##### § 27
 
@@ -461,10 +420,7 @@ dieser Anordnung in das Grundbuch findet nicht statt.
 (2) Der Gläubiger, dessen Beitritt zugelassen ist, hat dieselben
 Rechte, wie wenn auf seinen Antrag die Versteigerung angeordnet wäre.
 
-
 #### II. - Aufhebung und einstweilige Einstellung des Verfahrens
-
-
 
 ##### § 28
 
@@ -481,12 +437,10 @@ erbracht ist.
 ein Vollstreckungsmangel bekannt, ist Absatz 1 entsprechend
 anzuwenden.
 
-
 ##### § 29
 
 Das Verfahren ist aufzuheben, wenn der Versteigerungsantrag von dem
 Gläubiger zurückgenommen wird.
-
 
 ##### § 30
 
@@ -498,7 +452,6 @@ Einstellungsbewilligung als Rücknahme des Versteigerungsantrags.
 
 (2) Der Bewilligung der Einstellung steht es gleich, wenn der
 Gläubiger die Aufhebung des Versteigerungstermins bewilligt.
-
 
 ##### § 30a
 
@@ -539,7 +492,6 @@ sonstigen Auflagen mit der Maßgabe abhängig machen, daß die
 einstweilige Einstellung des Verfahrens bei Nichterfüllung dieser
 Auflagen außer Kraft tritt.
 
-
 ##### § 30b
 
 (1) Die einstweilige Einstellung ist binnen einer Notfrist von zwei
@@ -564,7 +516,6 @@ der Entscheidung ist der Gegner zu hören.
 einstweilige Einstellung ablehnenden Beschlusses bekanntgegeben
 werden.
 
-
 ##### § 30c
 
 War das Verfahren gemäß § 30a einstweilen eingestellt, so kann es auf
@@ -572,7 +523,6 @@ Grund des § 30a einmal erneut eingestellt werden, es sei denn, daß die
 Einstellung dem Gläubiger unter Berücksichtigung seiner gesamten
 wirtschaftlichen Verhältnisse nicht zuzumuten ist. § 30b gilt
 entsprechend.
-
 
 ##### § 30d
 
@@ -621,7 +571,6 @@ einstweilige Einstellung zur Verhütung nachteiliger Veränderungen in
 der Vermögenslage des Schuldners erforderlich ist. Ist ein vorläufiger
 Sachwalter bestellt, so steht dieses Antragsrecht dem Schuldner zu.\*%
 
-
 ##### § 30e
 
 (1) Die einstweilige Einstellung ist mit der Auflage anzuordnen, daß
@@ -645,7 +594,6 @@ Forderung sowie dem Wert und der sonstigen Belastung des Grundstücks
 nicht mit einer Befriedigung des Gläubigers aus dem
 Versteigerungserlös zu rechnen ist.
 
-
 ##### § 30f
 
 (1) Im Falle des § 30d Abs. 1 bis 3 ist die einstweilige Einstellung
@@ -664,7 +612,6 @@ gilt Absatz 1 Satz 1 entsprechend.
 (3) Vor der Entscheidung des Gerichts ist der Insolvenzverwalter, im
 Falle des § 30d Abs. 2 der Schuldner, zu hören. § 30b Abs. 3 gilt
 entsprechend.
-
 
 ##### § 31
 
@@ -700,13 +647,11 @@ hinweisen; die Frist beginnt erst zu laufen, nachdem der Hinweis auf
 die Rechtsfolgen eines fruchtlosen Fristablaufs dem Gläubiger
 zugestellt worden ist.
 
-
 ##### § 32
 
 Der Beschluß, durch welchen das Verfahren aufgehoben oder einstweilen
 eingestellt wird, ist dem Schuldner, dem Gläubiger und, wenn die
 Anordnung von einem Dritten beantragt war, auch diesem zuzustellen.
-
 
 ##### § 33
 
@@ -715,21 +660,16 @@ oder zur einstweiligen Einstellung des Verfahrens oder zur Aufhebung
 des Termins vorliegt, die Entscheidung nur durch Versagung des
 Zuschlags gegeben werden.
 
-
 ##### § 34
 
 Im Falle der Aufhebung des Verfahrens ist das Grundbuchamt um Löschung
 des Versteigerungsvermerks zu ersuchen.
 
-
 #### III. - Bestimmung des Versteigerungstermins
-
-
 
 ##### § 35
 
 Die Versteigerung wird durch das Vollstreckungsgericht ausgeführt.
-
 
 ##### § 36
 
@@ -746,7 +686,6 @@ Monat betragen.
 (3) Der Termin kann nach dem Ermessen des Gerichts an der
 Gerichtsstelle oder an einem anderen Ort im Gerichtsbezirk abgehalten
 werden.
-
 
 ##### § 37
 
@@ -778,10 +717,6 @@ Die Terminsbestimmung muß enthalten:
     widrigenfalls für das Recht der Versteigerungserlös an die Stelle des
     versteigerten Gegenstandes treten würde.
 
-
-
-
-
 ##### § 38
 
 (1) Die Terminsbestimmung soll die Angabe des Grundbuchblatts, der
@@ -793,7 +728,6 @@ Tatsache in der Terminsbestimmung angegeben werden.
 (2) Das Gericht kann Wertgutachten und Abschätzungen in einem für das
 Gericht bestimmten elektronischen Informations- und
 Kommunikationssystem öffentlich bekannt machen.
-
 
 ##### § 39
 
@@ -809,7 +743,6 @@ daß die Terminsbestimmung in der Gemeinde, in deren Bezirk das
 Grundstück belegen ist, an die für amtliche Bekanntmachungen bestimmte
 Stelle angeheftet wird.
 
-
 ##### § 40
 
 (1) Die Terminsbestimmung soll an die Gerichtstafel angeheftet werden.
@@ -824,7 +757,6 @@ an die Gerichtstafel unterbleiben.
 Veröffentlichungen zu veranlassen; bei der Ausübung dieser Befugnis
 ist insbesondere auf den Ortsgebrauch Rücksicht zu nehmen.
 
-
 ##### § 41
 
 (1) Die Terminsbestimmung ist den Beteiligten zuzustellen.
@@ -836,7 +768,6 @@ Versteigerung erfolgt.
 (3) Als Beteiligte gelten auch diejenigen, welche das angemeldete
 Recht noch glaubhaft zu machen haben.
 
-
 ##### § 42
 
 (1) Die Einsicht der Mitteilungen des Grundbuchamts sowie der
@@ -845,7 +776,6 @@ erfolgten Anmeldungen ist jedem gestattet.
 (2) Das gleiche gilt von anderen das Grundstück betreffenden
 Nachweisungen, welche ein Beteiligter einreicht, insbesondere von
 Abschätzungen.
-
 
 ##### § 43
 
@@ -862,10 +792,7 @@ Termins dem Gericht bekannt waren, die Terminsbestimmung zugestellt
 ist, es sei denn, daß derjenige, in Ansehung dessen die Frist nicht
 eingehalten ist, das Verfahren genehmigt.
 
-
 #### IV. - Geringstes Gebot Versteigerungsbedingungen
-
-
 
 ##### § 44
 
@@ -879,7 +806,6 @@ betrieben, so darf der vorgehende Anspruch der Feststellung des
 geringsten Gebots nur dann zugrunde gelegt werden, wenn der wegen
 dieses Anspruchs ergangene Beschluß dem Schuldner vier Wochen vor dem
 Versteigerungstermin zugestellt ist.
-
 
 ##### § 45
 
@@ -900,13 +826,11 @@ ihrer Anlagen oder in sonst geeigneter Weise glaubhaft zu machen. Aus
 dem Vorbringen müssen sich die Zahlungspflicht, die Art und der
 Bezugszeitraum des Anspruchs sowie seine Fälligkeit ergeben.
 
-
 ##### § 46
 
 Für wiederkehrende Leistungen, die nicht in Geld bestehen, hat das
 Gericht einen Geldbetrag festzusetzen, auch wenn ein solcher nicht
 angemeldet ist.
-
 
 ##### § 47
 
@@ -916,13 +840,11 @@ decken. Nicht regelmäßig wiederkehrende Leistungen werden mit den
 Beträgen berücksichtigt, welche vor dem Ablauf dieser Frist zu
 entrichten sind.
 
-
 ##### § 48
 
 Bedingte Rechte sind wie unbedingte, Rechte, die durch Eintragung
 eines Widerspruchs oder einer Vormerkung gesichert sind, wie
 eingetragene Rechte zu berücksichtigen.
-
 
 ##### § 49
 
@@ -942,7 +864,6 @@ Nachweis hierüber im Termin vorliegt.
 (4) Der Ersteher wird durch Hinterlegung von seiner Verbindlichkeit
 befreit, wenn die Hinterlegung und die Ausschließung der Rücknahme im
 Verteilungstermin nachgewiesen werden.
-
 
 ##### § 50
 
@@ -971,7 +892,6 @@ maßgebend.
 persönlich, so ist die Erhöhung des zu zahlenden Betrags
 ausgeschlossen, soweit der Ersteher nicht bereichert ist.
 
-
 ##### § 51
 
 (1) Ist das berücksichtigte Recht nicht eine Hypothek, Grundschuld
@@ -982,7 +902,6 @@ Kündigung zu zahlen und von dem Zuschlag an zu verzinsen.
 
 (2) Der Betrag soll von dem Gericht bei der Feststellung des
 geringsten Gebots bestimmt werden.
-
 
 ##### § 52
 
@@ -1006,10 +925,6 @@ b)  Grunddienstbarkeiten und beschränkte persönliche Dienstbarkeiten, die
     anderes Recht der Rangklasse 4 vorgeht, aus dem die Versteigerung
     betrieben werden kann.
 
-
-
-
-
 ##### § 53
 
 (1) Haftet bei einer Hypothek, die bestehenbleibt, der Schuldner
@@ -1025,7 +940,6 @@ von Geboten die gegen ihn bestehende Forderung unter Angabe ihres
 Betrags und Grundes angemeldet und auf Verlangen des Gerichts oder
 eines Beteiligten glaubhaft gemacht hat.
 
-
 ##### § 54
 
 (1) Die von dem Gläubiger dem Eigentümer oder von diesem dem Gläubiger
@@ -1038,7 +952,6 @@ von Geboten erfolgt und bei dem Gericht angemeldet worden ist.
 Tatsache, in Folge deren der Anspruch vor der Zeit geltend gemacht
 werden kann.
 
-
 ##### § 55
 
 (1) Die Versteigerung des Grundstücks erstreckt sich auf alle
@@ -1049,7 +962,6 @@ neu eingetretenen Eigentümers befinden, erstreckt sich die
 Versteigerung auch dann, wenn sie einem Dritten gehören, es sei denn,
 daß dieser sein Recht nach Maßgabe des § 37 Nr. 5 geltend gemacht hat.
 
-
 ##### § 56
 
 Die Gefahr des zufälligen Unterganges geht in Ansehung des Grundstücks
@@ -1058,7 +970,6 @@ der Versteigerung auf den Ersteher über. Von dem Zuschlag an gebühren
 dem Ersteher die Nutzungen und trägt er die Lasten. Ein Anspruch auf
 Gewährleistung findet nicht statt.
 
-
 ##### § 57
 
 Ist das Grundstück einem Mieter oder Pächter überlassen, so finden die
@@ -1066,14 +977,12 @@ Vorschriften der §§ 566, 566a, 566b Abs. 1, §§ 566c und 566d des
 Bürgerlichen Gesetzbuchs nach Maßgabe der §§ 57a und 57b entsprechende
 Anwendung.
 
-
 ##### § 57a
 
 Der Ersteher ist berechtigt, das Miet- oder Pachtverhältnis unter
 Einhaltung der gesetzlichen Frist zu kündigen. Die Kündigung ist
 ausgeschlossen, wenn sie nicht für den ersten Termin erfolgt, für den
 sie zulässig ist.
-
 
 ##### § 57b
 
@@ -1103,22 +1012,18 @@ Pächter bekannt.
 (3) Auf Verfügungen und Rechtsgeschäfte des Zwangsverwalters finden
 diese Vorschriften keine Anwendung.
 
-
 ##### § 57c
 
 (weggefallen)
-
 
 ##### § 57d
 
 (weggefallen)
 
-
 ##### § 58
 
 Die Kosten des Beschlusses, durch welchen der Zuschlag erteilt wird,
 fallen dem Ersteher zur Last.
-
 
 ##### § 59
 
@@ -1138,23 +1043,19 @@ und ohne sie auszubieten.
 erlöschen würde, so bedarf es nicht der Zustimmung eines nachstehenden
 Beteiligten.
 
-
 ##### § 60
 
 -
 
-
 ##### § 61
 
 -
-
 
 ##### § 62
 
 Das Gericht kann schon vor dem Versteigerungstermin Erörterungen der
 Beteiligten über das geringste Gebot und die Versteigerungsbedingungen
 veranlassen, zu diesem Zweck auch einen besonderen Termin bestimmen.
-
 
 ##### § 63
 
@@ -1184,7 +1085,6 @@ berücksichtigen sind, hierauf verzichtet haben. Dieser Verzicht ist
 bis spätestens vor der Aufforderung zur Abgabe von Geboten zu
 erklären.
 
-
 ##### § 64
 
 (1) Werden mehrere Grundstücke, die mit einer dem Anspruche des
@@ -1213,7 +1113,6 @@ auf Grund des Absatzes 1 erfolgten Feststellung des geringsten Gebots.
 Grundstücke mit einer und derselben Grundschuld oder Rentenschuld
 belastet sind.
 
-
 ##### § 65
 
 (1) Das Gericht kann auf Antrag anordnen, daß eine Forderung oder eine
@@ -1229,10 +1128,7 @@ Anwendung. Der Erlös ist zu hinterlegen.
 (2) Die besondere Versteigerung oder die anderweitige Verwertung ist
 nur zulässig, wenn das geringste Gebot erreicht ist.
 
-
 #### V. - Versteigerung
-
-
 
 ##### § 66
 
@@ -1249,7 +1145,6 @@ verlesen.
 (2) Nachdem dies geschehen, hat das Gericht auf die bevorstehende
 Ausschließung weiterer Anmeldungen hinzuweisen und sodann zur Abgabe
 von Geboten aufzufordern.
-
 
 ##### § 67
 
@@ -1268,7 +1163,6 @@ Anwendung.
 Genossenschaftsbank, der Deutschen Girozentrale (Deutsche
 Kommunalbank) oder eines Landes kann Sicherheitsleistung nicht
 verlangt werden.
-
 
 ##### § 68
 
@@ -1291,7 +1185,6 @@ Deckung seines Anspruchs durch Zahlung zu berichtigen ist.
 
 (4) Die erhöhte Sicherheitsleistung nach den Absätzen 2 und 3 ist
 spätestens bis zur Entscheidung über den Zuschlag zu erbringen.
-
 
 ##### § 69
 
@@ -1321,7 +1214,6 @@ Gerichtskasse bewirkt werden, wenn der Betrag der Gerichtskasse vor
 dem Versteigerungstermin gutgeschrieben ist und ein Nachweis hierüber
 im Termin vorliegt.
 
-
 ##### § 70
 
 (1) Das Gericht hat über die Sicherheitsleistung sofort zu
@@ -1336,7 +1228,6 @@ erfolgen. Unterbleibt die Leistung, so ist das Gebot zurückzuweisen.
 Beteiligten, welcher die Sicherheit verlangt hat, nicht sofort
 Widerspruch erhoben, so gilt das Verlangen als zurückgenommen.
 
-
 ##### § 71
 
 (1) Ein unwirksames Gebot ist zurückzuweisen.
@@ -1347,7 +1238,6 @@ der Zustimmung eines anderen oder einer Behörde abhängig, so erfolgt
 die Zurückweisung, sofern nicht die Vertretungsmacht oder die
 Zustimmung bei dem Gericht offenkundig ist oder durch eine öffentlich
 beglaubigte Urkunde sofort nachgewiesen wird.
-
 
 ##### § 72
 
@@ -1366,7 +1256,6 @@ der Termin aufgehoben wird.
 nach § 68 Abs. 2 und 3 zu erbringende Sicherheitsleistung nicht bis
 zur Entscheidung über den Zuschlag geleistet worden ist.
 
-
 ##### § 73
 
 (1) Zwischen der Aufforderung zur Abgabe von Geboten und dem
@@ -1380,12 +1269,10 @@ wird.
 zu verkünden. Die Verkündung des letzten Gebots soll mittels
 dreimaligen Aufrufs erfolgen.
 
-
 ##### § 74
 
 Nach dem Schlusse der Versteigerung sind die anwesenden Beteiligten
 über den Zuschlag zu hören.
-
 
 ##### § 74a
 
@@ -1421,7 +1308,6 @@ Beschwerde anfechtbar. Der Zuschlag oder die Versagung des Zuschlags
 können mit der Begründung, daß der Grundstückswert unrichtig
 festgesetzt sei, nicht angefochten werden.
 
-
 ##### § 74b
 
 Ist das Meistgebot von einem zur Befriedigung aus dem Grundstück
@@ -1433,7 +1319,6 @@ ausfallen würde, sieben Zehnteilen des Grundstückswertes erreicht und
 dieser Betrag im Range unmittelbar hinter dem letzten Betrage steht,
 der durch das Gebot noch gedeckt ist.
 
-
 ##### § 75
 
 Das Verfahren wird eingestellt, wenn der Schuldner im
@@ -1443,7 +1328,6 @@ der sich ergibt, dass der Schuldner oder ein Dritter, der berechtigt
 ist, den Gläubiger zu befriedigen, den zur Befriedigung und zur
 Deckung der Kosten erforderlichen Betrag an die Gerichtskasse gezahlt
 hat.
-
 
 ##### § 76
 
@@ -1460,7 +1344,6 @@ befriedigt worden ist. Beantragt der Gläubiger die Fortsetzung nicht
 vor dem Ablauf von drei Monaten nach dem Verteilungstermin, so gilt
 der Versteigerungsantrag als zurückgenommen.
 
-
 ##### § 77
 
 (1) Ist ein Gebot nicht abgegeben oder sind sämtliche Gebote
@@ -1475,7 +1358,6 @@ Wirkungen der für die Zwangsversteigerung erfolgten Beschlagnahme
 bestehen; die Vorschrift des § 155 Abs. 1 findet jedoch auf die Kosten
 der Zwangsversteigerung keine Anwendung.
 
-
 ##### § 78
 
 Vorgänge in dem Termin, die für die Entscheidung über den Zuschlag
@@ -1484,23 +1366,18 @@ das Protokoll festzustellen; bleibt streitig, ob oder für welches
 Gebot der Zuschlag zu erteilen ist, so ist das Sachverhältnis mit den
 gestellten Anträgen in das Protokoll aufzunehmen.
 
-
 #### VI. - Entscheidung über den Zuschlag
-
-
 
 ##### § 79
 
 Bei der Beschlußfassung über den Zuschlag ist das Gericht an eine
 Entscheidung, die es vorher getroffen hat, nicht gebunden.
 
-
 ##### § 80
 
 Vorgänge in dem Versteigerungstermin, die nicht aus dem Protokoll
 ersichtlich sind, werden bei der Entscheidung über den Zuschlag nicht
 berücksichtigt.
-
 
 ##### § 81
 
@@ -1523,7 +1400,6 @@ beglaubigte Urkunde nachgewiesen wird.
 (4) Wird der Zuschlag erteilt, so haften der Meistbietende und der
 Ersteher als Gesamtschuldner.
 
-
 ##### § 82
 
 In dem Beschluß, durch welchen der Zuschlag erteilt wird, sind das
@@ -1531,7 +1407,6 @@ Grundstück, der Ersteher, das Gebot und die Versteigerungsbedingungen
 zu bezeichnen; auch sind im Falle des § 69 Abs. 3 der Bürge unter
 Angabe der Höhe seiner Schuld und im Falle des § 81 Abs. 4 der
 Meistbietende für mithaftend zu erklären.
-
 
 ##### § 83
 
@@ -1573,10 +1448,6 @@ Der Zuschlag ist zu versagen:
 8.  wenn die nach § 68 Abs. 2 und 3 verlangte Sicherheitsleistung nicht
     bis zur Entscheidung über den Zuschlag geleistet worden ist.
 
-
-
-
-
 ##### § 84
 
 (1) Die im § 83 Nr. 1 bis 5 bezeichneten Versagungsgründe stehen der
@@ -1586,7 +1457,6 @@ das Verfahren genehmigt.
 
 (2) Die Genehmigung ist durch eine öffentlich beglaubigte Urkunde
 nachzuweisen.
-
 
 ##### § 85
 
@@ -1613,7 +1483,6 @@ abgegebenes Gebot.
 (4) In dem fortgesetzten Verfahren findet die Vorschrift des Absatzes
 1 keine Anwendung.
 
-
 ##### § 85a
 
 (1) Der Zuschlag ist ferner zu versagen, wenn das abgegebene
@@ -1632,13 +1501,11 @@ Versteigerungsbedingungen bestehenbleibenden Rechte zusammen mit dem
 Betrag, mit dem der Meistbietende bei der Verteilung des Erlöses
 ausfallen würde, die Hälfte des Grundstückswertes erreicht.
 
-
 ##### § 86
 
 Die rechtskräftige Versagung des Zuschlags wirkt, wenn die Fortsetzung
 des Verfahrens zulässig ist, wie eine einstweilige Einstellung,
 anderenfalls wie die Aufhebung des Verfahrens.
-
 
 ##### § 87
 
@@ -1654,7 +1521,6 @@ Anheftung an die Gerichtstafel bekanntzumachen.
 sollen in dem Verkündungstermin die anwesenden Beteiligten hierüber
 gehört werden.
 
-
 ##### § 88
 
 Der Beschluß, durch welchen der Zuschlag erteilt wird, ist den
@@ -1665,11 +1531,9 @@ Abs. 4 dem Meistbietenden zuzustellen. Als Beteiligte gelten auch
 diejenigen, welche das angemeldete Recht noch glaubhaft zu machen
 haben.
 
-
 ##### § 89
 
 Der Zuschlag wird mit der Verkündung wirksam.
-
 
 ##### § 90
 
@@ -1679,7 +1543,6 @@ wird.
 
 (2) Mit dem Grundstück erwirbt er zugleich die Gegenstände, auf welche
 sich die Versteigerung erstreckt hat.
-
 
 ##### § 91
 
@@ -1704,7 +1567,6 @@ bestehenbleibenden Hypothek, Grundschuld oder Rentenschuld verlangen
 kann, hat nicht das Erlöschen dieses Anspruchs zur Folge. Der Anspruch
 erlischt, wenn der Berechtigte aus dem Grundstück befriedigt wird.
 
-
 ##### § 92
 
 (1) Erlischt durch den Zuschlag ein Recht, das nicht auf Zahlung eines
@@ -1722,7 +1584,6 @@ erlischt.
 (3) Bei ablösbaren Rechten bestimmt sich der Betrag der Ersatzleistung
 durch die Ablösungssumme.
 
-
 ##### § 93
 
 (1) Aus dem Beschluß, durch welchen der Zuschlag erteilt wird, findet
@@ -1736,7 +1597,6 @@ Maßgabe des § 771 der Zivilprozeßordnung Widerspruch erheben.
 (2) Zum Ersatz von Verwendungen, die vor dem Zuschlag gemacht sind,
 ist der Ersteher nicht verpflichtet.
 
-
 ##### § 94
 
 (1) Auf Antrag eines Beteiligten, der Befriedigung aus dem Bargebot zu
@@ -1749,10 +1609,7 @@ Versteigerungstermin gestellt werden.
 Pflichten finden die Vorschriften über die Zwangsverwaltung
 entsprechende Anwendung.
 
-
 #### VII. - Beschwerde
-
-
 
 ##### § 95
 
@@ -1761,14 +1618,12 @@ erfolgt, kann die sofortige Beschwerde nur eingelegt werden, soweit
 die Entscheidung die Anordnung, Aufhebung, einstweilige Einstellung
 oder Fortsetzung des Verfahrens betrifft.
 
-
 ##### § 96
 
 Auf die Beschwerde gegen die Entscheidung über den Zuschlag finden die
 Vorschriften der Zivilprozeßordnung über die Beschwerde nur insoweit
 Anwendung, als nicht in den §§ 97 bis 104 ein anderes vorgeschrieben
 ist.
-
 
 ##### § 97
 
@@ -1781,7 +1636,6 @@ welcher nach § 81 an die Stelle des Bieters treten soll.
 (2) Im Falle des § 9 Nr. 2 genügt es, wenn die Anmeldung und
 Glaubhaftmachung des Rechts bei dem Beschwerdegericht erfolgt.
 
-
 ##### § 98
 
 Die Frist für die Beschwerde gegen einen Beschluß des
@@ -1790,7 +1644,6 @@ beginnt mit der Verkündung des Beschlusses. Das gleiche gilt im Falle
 der Erteilung des Zuschlags für die Beteiligten, welche im
 Versteigerungstermin oder im Verkündungstermin erschienen waren.
 
-
 ##### § 99
 
 (1) Erachtet das Beschwerdegericht eine Gegenerklärung für
@@ -1798,7 +1651,6 @@ erforderlich, so hat es zu bestimmen, wer als Gegner des
 Beschwerdeführers zuzuziehen ist.
 
 (2) Mehrere Beschwerden sind miteinander zu verbinden.
-
 
 ##### § 100
 
@@ -1814,7 +1666,6 @@ werden.
 (3) Die im § 83 Nr. 6, 7 bezeichneten Versagungsgründe hat das
 Beschwerdegericht von Amts wegen zu berücksichtigen.
 
-
 ##### § 101
 
 (1) Wird die Beschwerde für begründet erachtet, so hat das
@@ -1826,14 +1677,12 @@ aufgehoben, auf Rechtsbeschwerde aber für begründet erachtet, so ist
 unter Aufhebung des Beschlusses des Beschwerdegerichts die gegen die
 Erteilung des Zuschlags erhobene Beschwerde zurückzuweisen.
 
-
 ##### § 102
 
 Hat das Beschwerdegericht den Beschluß, durch welchen der Zuschlag
 erteilt war, nach der Verteilung des Versteigerungserlöses aufgehoben,
 so steht die Rechtsbeschwerde, wenn das Beschwerdegericht sie
 zugelassen hat, auch denjenigen zu, welchen der Erlös zugeteilt ist.
-
 
 ##### § 103
 
@@ -1845,16 +1694,12 @@ in den Fällen des § 81 Abs. 2, 3 dem Meistbietenden zuzustellen. Wird
 die Beschwerde zurückgewiesen, so erfolgt die Zustellung des
 Beschlusses nur an den Beschwerdeführer und den zugezogenen Gegner.
 
-
 ##### § 104
 
 Der Beschluß, durch welchen das Beschwerdegericht den Zuschlag
 erteilt, wird erst mit der Zustellung an den Ersteher wirksam.
 
-
 #### VIII. - Verteilung des Erlöses
-
-
 
 ##### § 105
 
@@ -1875,7 +1720,6 @@ glaubhaft zu machen haben.
 zugestellt, so ist der Termin aufzuheben und von neuem zu bestimmen,
 sofern nicht das Verfahren genehmigt wird.
 
-
 ##### § 106
 
 Zur Vorbereitung des Verteilungsverfahrens kann das Gericht in der
@@ -1884,7 +1728,6 @@ Berechnung ihrer Ansprüche einzureichen. In diesem Fall hat das
 Gericht nach dem Ablauf der Frist den Teilungsplan anzufertigen und
 ihn spätestens drei Tage vor dem Termin auf der Geschäftsstelle zur
 Einsicht der Beteiligten niederzulegen.
-
 
 ##### § 107
 
@@ -1900,11 +1743,9 @@ Gericht. § 49 Abs. 3 gilt entsprechend.
 der Gerichtskasse einbezahlt ist, wird auf die Zahlung nach Absatz 2
 Satz 1 angerechnet.
 
-
 ##### § 108
 
 (weggefallen)
-
 
 ##### § 109
 
@@ -1916,13 +1757,11 @@ nachträgliche Verteilungsverhandlungen entstehenden Kosten.
 (2) Der Überschuß wird auf die Rechte, welche durch Zahlung zu decken
 sind, verteilt.
 
-
 ##### § 110
 
 Rechte, die ungeachtet der im § 37 Nr. 4 bestimmten Aufforderung nicht
 rechtzeitig angemeldet oder glaubhaft gemacht worden sind, stehen bei
 der Verteilung den übrigen Rechten nach.
-
 
 ##### § 111
 
@@ -1931,7 +1770,6 @@ so gebührt dem Berechtigten nur die Summe, welche mit Hinzurechnung
 der gesetzlichen Zinsen für die Zeit von der Zahlung bis zur
 Fälligkeit dem Betrag des Anspruchs gleichkommt; solange die Zeit der
 Fälligkeit ungewiß ist, gilt der Anspruch als aufschiebend bedingt.
-
 
 ##### § 112
 
@@ -1959,7 +1797,6 @@ sind oder welche durch das bei dem Einzelausgebot für das Grundstück
 erzielte Meistgebot gedeckt werden, so erhöht sich der Anteil um den
 Fehlbetrag.
 
-
 ##### § 113
 
 (1) In dem Verteilungstermin wird nach Anhörung der anwesenden
@@ -1968,7 +1805,6 @@ Rechnungsverständigen, der Teilungsplan aufgestellt.
 
 (2) In dem Plan sind auch die nach § 91 nicht erlöschenden Rechte
 anzugeben.
-
 
 ##### § 114
 
@@ -1983,7 +1819,6 @@ sich aus dem Versteigerungsantrag ergeben.
 des Grundbuchs zu entrichten sind, brauchen nicht angemeldet zu
 werden.
 
-
 ##### § 114a
 
 Ist der Zuschlag einem zur Befriedigung aus dem Grundstück
@@ -1996,7 +1831,6 @@ Meistgebot nicht gedeckt ist, aber bei einem Gebot zum Betrage der
 Sieben-Zehnteile-Grenze gedeckt sein würde. Hierbei sind dem Anspruch
 des Erstehers vorgehende oder gleichstehende Rechte, die erlöschen,
 nicht zu berücksichtigen.
-
 
 ##### § 115
 
@@ -2018,14 +1852,12 @@ die Befriedigung eines solchen Anspruchs abwenden darf, unterbleibt
 die Ausführung des Planes, wenn die Sicherheit geleistet oder die
 Hinterlegung erfolgt ist.
 
-
 ##### § 116
 
 Die Ausführung des Teilungsplans soll bis zur Rechtskraft des
 Zuschlags ausgesetzt werden, wenn der Ersteher oder im Falle des § 69
 Abs. 3 der für mithaftend erklärte Bürge sowie in den Fällen des § 81
 Abs. 2, 3 der Meistbietende die Aussetzung beantragt.
-
 
 ##### § 117
 
@@ -2040,7 +1872,6 @@ der Betrag für den Berechtigten zu hinterlegen.
 
 (3) Im Falle der Hinterlegung des Erlöses kann statt der Zahlung eine
 Anweisung auf den hinterlegten Betrag erteilt werden.
-
 
 ##### § 118
 
@@ -2060,13 +1891,11 @@ er als nicht gestellt. Im Falle des Verzichts soll das Gericht die
 Erklärung dem Ersteher sowie demjenigen mitteilen, auf welchen die
 Forderung infolge des Verzichts übergeht.
 
-
 ##### § 119
 
 Wird auf einen bedingten Anspruch ein Betrag zugeteilt, so ist durch
 den Teilungsplan festzustellen, wie der Betrag anderweit verteilt
 werden soll, wenn der Anspruch wegfällt.
-
 
 ##### § 120
 
@@ -2083,7 +1912,6 @@ sowie für die Anlegung des eingezogenen Geldes die Vorschriften der §§
 bestimmt derjenige, welchem der Betrag gebührt, wenn die Bedingung
 ausfällt.
 
-
 ##### § 121
 
 (1) In den Fällen des § 92 Abs. 2 ist für den Ersatzanspruch in den
@@ -2095,7 +1923,6 @@ der Fälligkeit zu entnehmen sind.
 
 (2) Die Vorschriften der §§ 119, 120 finden entsprechende Anwendung;
 die Art der Anlegung des Geldes bestimmt der zunächst Berechtigte.
-
 
 ##### § 122
 
@@ -2111,7 +1938,6 @@ berechnet, welche dem Anspruch des Beteiligten vorgehen.
 zugeteilten Betrags, so ist der Anspruch bei jedem Grundstück in Höhe
 dieses Betrags in den Plan aufzunehmen.
 
-
 ##### § 123
 
 (1) Soweit auf einen Anspruch, für den auch ein anderes Grundstück
@@ -2122,7 +1948,6 @@ Maßgabe der besonderen Vorschriften über die Gesamthypothek erlischt.
 
 (2) Die Zuteilung ist dadurch auszuführen, daß die Forderung gegen den
 Ersteher unter der entsprechenden Bedingung übertragen wird.
-
 
 ##### § 124
 
@@ -2135,7 +1960,6 @@ der Anlegung bestimmt derjenige, welcher den Anspruch geltend macht.
 
 (3) Das gleiche gilt, soweit nach § 115 Abs. 4 die Ausführung des
 Planes unterbleibt.
-
 
 ##### § 125
 
@@ -2153,7 +1977,6 @@ Anwendung.
 (3) Die Übertragung hat nicht die Wirkung der Befriedigung aus dem
 Grundstück.
 
-
 ##### § 126
 
 (1) Ist für einen zugeteilten Betrag die Person des Berechtigten
@@ -2165,7 +1988,6 @@ Berechtigte nicht ermittelt wird.
 (2) Der Betrag ist für den unbekannten Berechtigten zu hinterlegen.
 Soweit der Betrag nicht gezahlt wird, ist die Forderung gegen den
 Ersteher auf den Berechtigten zu übertragen.
-
 
 ##### § 127
 
@@ -2181,7 +2003,6 @@ dem Titel zu vermerken, in welchem Umfang der Betrag durch Zahlung,
 Hinterlegung oder Übertragung gedeckt worden ist.
 
 (3) Der Wortlaut der Vermerke ist durch das Protokoll festzustellen.
-
 
 ##### § 128
 
@@ -2205,7 +2026,6 @@ Absätzen 1, 2 eingetragenen Sicherungshypothek geltend gemacht werden.
 Hypothek erforderliche Betrag als Teil des Bargebots zu
 berücksichtigen.
 
-
 ##### § 129
 
 Die Sicherungshypothek für die im § 10 Nr. 1 bis 3 bezeichneten
@@ -2218,7 +2038,6 @@ Ablauf von sechs Monaten nach der Eintragung derjenige, welchem die
 Hypothek zusteht, die Zwangsversteigerung des Grundstücks beantragt.
 Wird der Antrag auf Zwangsversteigerung zurückgenommen oder das
 Verfahren nach § 31 Abs. 2 aufgehoben, so gilt er als nicht gestellt.
-
 
 ##### § 130
 
@@ -2240,7 +2059,6 @@ Rechtes zu richten.
 die Eintragung eines Rechts an dem versteigerten Grundstück bewilligt,
 so darf die Eintragung nicht vor der Erledigung des im Absatz 1
 bezeichneten Ersuchens erfolgen.
-
 
 ##### § 130a
 
@@ -2269,7 +2087,6 @@ erlangen würde; die Kosten der Löschung der Vormerkung und der dazu
 erforderlichen Erklärungen hat derjenige zu tragen, für den die
 Vormerkung eingetragen war.
 
-
 ##### § 131
 
 In den Fällen des § 130 Abs. 1 ist zur Löschung einer Hypothek, einer
@@ -2277,7 +2094,6 @@ Grundschuld oder einer Rentenschuld, im Falle des § 128 zur Eintragung
 des Vorranges einer Sicherungshypothek die Vorlegung des über das
 Recht erteilten Briefes nicht erforderlich. Das gleiche gilt für die
 Eintragung der Vormerkung nach § 130a Abs. 2 Satz 1.
-
 
 ##### § 132
 
@@ -2295,7 +2111,6 @@ In der Vollstreckungsklausel ist der Berechtigte sowie der Betrag der
 Forderung anzugeben; der Zustellung einer Urkunde über die Übertragung
 der Forderung bedarf es nicht.
 
-
 ##### § 133
 
 Die Zwangsvollstreckung in das Grundstück ist gegen den Ersteher ohne
@@ -2305,11 +2120,9 @@ Ersteher noch nicht als Eigentümer eingetragen ist. Der Vorlegung des
 im § 17 Abs. 2 bezeichneten Zeugnisses bedarf es nicht, solange das
 Grundbuchamt noch nicht um die Eintragung ersucht ist.
 
-
 ##### § 134
 
 (aufgehoben)
-
 
 ##### § 135
 
@@ -2319,14 +2132,12 @@ Berechtigten einen Vertreter zu bestellen. Die Vorschriften des § 7
 Abs. 2 finden entsprechende Anwendung. Die Auslagen und Gebühren des
 Vertreters sind aus dem zugeteilten Betrag vorweg zu entnehmen.
 
-
 ##### § 136
 
 Ist der Nachweis des Berechtigten von der Beibringung des Briefes über
 eine Hypothek, Grundschuld oder Rentenschuld abhängig, so kann der
 Brief im Wege des Aufgebotsverfahrens auch dann für kraftlos erklärt
 werden, wenn das Recht bereits gelöscht ist.
-
 
 ##### § 137
 
@@ -2338,7 +2149,6 @@ welcher den Widerspruch erhoben hat, von der Ermittlung des
 Berechtigten zu benachrichtigen. Die im § 878 der Zivilprozeßordnung
 bestimmte Frist zur Erhebung der Klage beginnt mit der Zustellung der
 Benachrichtigung.
-
 
 ##### § 138
 
@@ -2353,7 +2163,6 @@ Betrag zu beantragen.
 ermittelt, so hat das Gericht den Ermächtigten hiervon zu
 benachrichtigen. Mit der Benachrichtigung erlischt die Ermächtigung.
 
-
 ##### § 139
 
 (1) Das Gericht kann im Falle der nachträglichen Ermittlung des
@@ -2367,7 +2176,6 @@ Eigentümer des Grundstücks war.
 Zustellung der Terminsbestimmung auch an denjenigen, welcher den
 Widerspruch erhoben hat. Die im § 878 der Zivilprozeßordnung bestimmte
 Frist zur Erhebung der Klage beginnt mit dem Termin.
-
 
 ##### § 140
 
@@ -2393,7 +2201,6 @@ das Aufgebotsverfahren.
 (6) Der Antragsteller kann die Erstattung der Kosten des Verfahrens
 aus dem zugeteilten Betrag verlangen.
 
-
 ##### § 141
 
 Nach der Erlassung des Ausschließungsbeschlusses hat das Gericht einen
@@ -2402,7 +2209,6 @@ Terminsbestimmung ist dem Antragsteller und den Personen, welchen
 Rechte in dem Urteil vorbehalten sind, dem Vertreter des unbekannten
 Berechtigten sowie demjenigen zuzustellen, welcher zur Zeit des
 Zuschlags Eigentümer des Grundstücks war.
-
 
 ##### § 142
 
@@ -2415,14 +2221,12 @@ dreißigjährige Frist beginnt mit der Hinterlegung, in den Fällen der
 §§ 120, 121 mit dem Eintritt der Bedingung, unter welcher die
 Hinterlegung erfolgt ist.
 
-
 ##### § 143
 
 Die Verteilung des Versteigerungserlöses durch das Gericht findet
 nicht statt, wenn dem Gericht durch öffentliche oder öffentlich
 beglaubigte Urkunden nachgewiesen wird, daß sich die Beteiligten über
 die Verteilung des Erlöses geeinigt haben.
-
 
 ##### § 144
 
@@ -2442,16 +2246,12 @@ erhoben, so beschränkt sich das Verteilungsverfahren auf die
 Verteilung des Erlöses aus denjenigen Gegenständen, welche im Falle
 des § 65 besonders versteigert oder anderweit verwertet worden sind.
 
-
 ##### § 145
 
 Die Vorschriften des § 105 Abs. 2 Satz 2 und der §§ 127, 130 bis 133
 finden in den Fällen der §§ 143, 144 entsprechende Anwendung.
 
-
 #### IX. - Grundpfandrechte in ausländischer Währung
-
-
 
 ##### § 145a
 
@@ -2489,13 +2289,7 @@ Sonderbestimmungen:
     Verbindlichkeit des persönlichen Schuldners und für die Geltendmachung
     des Ausfalls im Insolvenzverfahren maßgebend.
 
-
-
-
-
 ### Dritter Titel - Zwangsverwaltung
-
-
 
 #### § 146
 
@@ -2507,7 +2301,6 @@ soweit sich nicht aus den §§ 147 bis 151 ein anderes ergibt.
 bezeichneten Mitteilungen des Grundbuchamts die Beteiligten zu
 benachrichtigen.
 
-
 #### § 147
 
 (1) Wegen des Anspruchs aus einem eingetragenen Recht findet die
@@ -2518,7 +2311,6 @@ Eigenbesitz hat.
 (2) Der Besitz ist durch Urkunden glaubhaft zu machen, sofern er nicht
 bei dem Gericht offenkundig ist.
 
-
 #### § 148
 
 (1) Die Beschlagnahme des Grundstücks umfaßt auch die im § 21 Abs. 1,
@@ -2527,7 +2319,6 @@ findet keine Anwendung.
 
 (2) Durch die Beschlagnahme wird dem Schuldner die Verwaltung und
 Benutzung des Grundstücks entzogen.
-
 
 #### § 149
 
@@ -2548,7 +2339,6 @@ erforderlich sind. Im Streitfall entscheidet das Vollstreckungsgericht
 nach Anhörung des Gläubigers, des Schuldners und des Zwangsverwalters.
 Der Beschluß unterliegt der sofortigen Beschwerde.
 
-
 #### § 150
 
 (1) Der Verwalter wird von dem Gericht bestellt.
@@ -2556,7 +2346,6 @@ Der Beschluß unterliegt der sofortigen Beschwerde.
 (2) Das Gericht hat dem Verwalter durch einen Gerichtsvollzieher oder
 durch einen sonstigen Beamten das Grundstück zu übergeben oder ihm die
 Ermächtigung zu erteilen, sich selbst den Besitz zu verschaffen.
-
 
 #### § 150a
 
@@ -2574,7 +2363,6 @@ Haftung übernimmt und gegen den Vorgeschlagenen mit Rücksicht auf
 seine Person oder die Art der Verwaltung Bedenken nicht bestehen. Der
 vorgeschlagene Verwalter erhält für seine Tätigkeit keine Vergütung.
 
-
 #### § 150b
 
 (1) Bei der Zwangsverwaltung eines landwirtschaftlichen,
@@ -2590,7 +2378,6 @@ Verwaltungsbehörde gehört werden.
 
 (3) Ein gemäß § 150a gemachter Vorschlag ist nur für den Fall zu
 berücksichtigen, daß der Schuldner nicht zum Verwalter bestellt wird.
-
 
 #### § 150c
 
@@ -2617,7 +2404,6 @@ sich um Geschäfte handelt, die über den Rahmen der laufenden
 Wirtschaftsführung hinausgehen, rechtzeitig die Entschließung der
 Aufsichtsperson einzuholen.
 
-
 #### § 150d
 
 Der Schuldner darf als Verwalter über die Nutzungen des Grundstücks
@@ -2628,7 +2414,6 @@ diese Zustimmung befugt; er ist jedoch verpflichtet, die Beträge, die
 zu notwendigen Zahlungen zur Zeit nicht erforderlich sind, nach
 näherer Anordnung des Gerichts unverzüglich anzulegen.
 
-
 #### § 150e
 
 Der Schuldner erhält als Verwalter keine Vergütung.
@@ -2636,7 +2421,6 @@ Erforderlichenfalls bestimmt das Gericht nach Anhörung der
 Aufsichtsperson, in welchem Umfang der Schuldner Erträgnisse des
 Grundstücks oder deren Erlös zur Befriedigung seiner und seiner
 Familie notwendigen Bedürfnisse verwenden darf.
-
 
 #### § 151
 
@@ -2652,7 +2436,6 @@ befindet.
 (3) Das Zahlungsverbot an den Drittschuldner ist auch auf Antrag des
 Verwalters zu erlassen.
 
-
 #### § 152
 
 (1) Der Verwalter hat das Recht und die Pflicht, alle Handlungen
@@ -2666,7 +2449,6 @@ in Geld umzusetzen.
 überlassen, so ist der Miet- oder Pachtvertrag auch dem Verwalter
 gegenüber wirksam.
 
-
 #### § 152a
 
 Der Bundesminister der Justiz wird ermächtigt, Stellung, Aufgaben und
@@ -2675,7 +2457,6 @@ und Auslagen) durch Rechtsverordnung mit Zustimmung des Bundesrates
 näher zu regeln. Die Höhe der Vergütung ist an der Art und dem Umfang
 der Aufgabe sowie an der Leistung des Zwangsverwalters auszurichten.
 Es sind Mindest- und Höchstsätze vorzusehen.
-
 
 #### § 153
 
@@ -2689,7 +2470,6 @@ Sachverständiger zuzuziehen.
 auferlegen, gegen ihn Zwangsgeld festsetzen und ihn entlassen. Das
 Zwangsgeld ist vorher anzudrohen.
 
-
 #### § 153a
 
 Ist in einem Gebiet das zu dem landwirtschaftlichen Betrieb gehörende
@@ -2700,7 +2480,6 @@ welche Beträge der Schuldner als Entgelt dafür, daß das Vieh aus den
 Erträgnissen des Grundstücks ernährt wird, der Teilungsmasse
 zuzuführen hat und wie die Erfüllung dieser Verpflichtung
 sicherzustellen ist.
-
 
 #### § 153b
 
@@ -2718,7 +2497,6 @@ laufende Zahlungen aus der Insolvenzmasse ausgeglichen werden.
 (3) Vor der Entscheidung des Gerichts sind der Zwangsverwalter und der
 betreibende Gläubiger zu hören.
 
-
 #### § 153c
 
 (1) Auf Antrag des betreibenden Gläubigers hebt das Gericht die
@@ -2731,7 +2509,6 @@ Aufhebung zustimmt.
 hören. Wenn keine Aufhebung erfolgt, enden die Wirkungen der Anordnung
 mit der Beendigung des Insolvenzverfahrens.
 
-
 #### § 154
 
 Der Verwalter ist für die Erfüllung der ihm obliegenden
@@ -2740,7 +2517,6 @@ Gläubiger und dem Schuldner jährlich und nach der Beendigung der
 Verwaltung Rechnung zu legen. Die Rechnung ist dem Gericht
 einzureichen und von diesem dem Gläubiger und dem Schuldner
 vorzulegen.
-
 
 #### § 155
 
@@ -2776,7 +2552,6 @@ den in § 10 Abs. 1 Nr. 1 bezeichneten Rang. Das gleiche gilt von
 Krediten, die zur Bezahlung dieser Lieferungen in der für derartige
 Geschäfte üblichen Weise aufgenommen sind.
 
-
 #### § 156
 
 (1) Die laufenden Beträge der öffentlichen Lasten sind von dem
@@ -2798,7 +2573,6 @@ sowie dem Verwalter zuzustellen. Die Vorschriften des § 105 Abs. 2
 Satz 2, des § 113 Abs. 1 und der §§ 114, 115, 124, 126 finden
 entsprechende Anwendung.
 
-
 #### § 157
 
 (1) Nach der Feststellung des Teilungsplans hat das Gericht die
@@ -2810,7 +2584,6 @@ Fälligkeit durch den Verwalter, soweit die Bestände hinreichen.
 (2) Im Falle der Hinterlegung eines zugeteilten Betrags für den
 unbekannten Berechtigten ist nach den Vorschriften der §§ 135 bis 141
 zu verfahren. Die Vorschriften des § 142 finden Anwendung.
-
 
 #### § 158
 
@@ -2826,7 +2599,6 @@ Eine Ausfertigung des Protokolls ist beizufügen; die Vorlegung des
 
 (3) Im übrigen finden die Vorschriften der §§ 117, 127 entsprechende
 Anwendung.
-
 
 #### § 158a
 
@@ -2848,10 +2620,6 @@ Sonderbestimmungen:
     dem zur Leistung bestimmten Termin nach dem amtlich ermittelten
     letzten Kurswert fest.
 
-
-
-
-
 #### § 159
 
 (1) Jeder Beteiligte kann eine Änderung des Teilungsplans im Wege der
@@ -2861,12 +2629,10 @@ hat.
 (2) Eine planmäßig geleistete Zahlung kann auf Grund einer späteren
 Änderung des Planes nicht zurückgefordert werden.
 
-
 #### § 160
 
 Die Vorschriften der §§ 143 bis 145 über die außergerichtliche
 Verteilung finden entsprechende Anwendung.
-
 
 #### § 161
 
@@ -2881,14 +2647,9 @@ nötigen Geldbetrag nicht vorschießt.
 (4) Im übrigen finden auf die Aufhebung des Verfahrens die
 Vorschriften der §§ 28, 29, 32, 34 entsprechende Anwendung.
 
-
 ## Zweiter Abschnitt - Zwangsversteigerung von Schiffen, Schiffsbauwerken und Luftfahrzeugen im Wege der Zwangsvollstreckung
 
-
-
 ### Erster Titel - Zwangsversteigerung von Schiffen und Schiffsbauwerken
-
-
 
 #### § 162
 
@@ -2897,7 +2658,6 @@ Schiffs oder eines Schiffsbauwerks, das im Schiffsbauregister
 eingetragen ist oder in dieses Register eingetragen werden kann, sind
 die Vorschriften des Ersten Abschnitts entsprechend anzuwenden, soweit
 sich nicht aus den §§ 163 bis 170a etwas anderes ergibt.
-
 
 #### § 163
 
@@ -2916,7 +2676,6 @@ See, bei der Zwangsversteigerung eines Binnenschiffes die
 Binnenschiffahrts-Berufsgenossenschaft die übrigen Versicherungsträger
 gegenüber dem Vollstreckungsgericht.
 
-
 #### § 164
 
 Die Beschränkung des § 17 gilt für die Zwangsversteigerung eines
@@ -2928,7 +2687,6 @@ Tatsachen sind durch Urkunden glaubhaft zu machen, soweit sie nicht
 dem Gericht offenkundig sind; dem Antrag auf Zwangsversteigerung ist
 ein Zeugnis der Registerbehörde über die Eintragung des Schiffs im
 Schiffsregister beizufügen.
-
 
 #### § 165
 
@@ -2946,7 +2704,6 @@ ermächtigen, das Schiff für Rechnung und im Namen des Schuldners zu
 nutzen. Über die Verwendung des Reinertrages entscheidet das Gericht.
 In der Regel soll er nach den Grundsätzen des § 155 verteilt werden.
 
-
 #### § 166
 
 (1) Ist gegen den Schiffer auf Grund eines vollstreckbaren Titels, der
@@ -2958,7 +2715,6 @@ er das Schiff führt; ein neuer Schiffer gilt als Beteiligter, wenn er
 sich bei dem Gericht meldet und seine Angabe auf Verlangen des
 Gerichts oder eines Beteiligten glaubhaft macht.
 
-
 #### § 167
 
 (1) Die Bezeichnung des Schiffs in der Bestimmung des
@@ -2966,7 +2722,6 @@ Versteigerungstermins soll nach dem Schiffsregister erfolgen.
 
 (2) Die im § 37 Nr. 4 bestimmte Aufforderung muß ausdrücklich auch auf
 die Rechte der Schiffsgläubiger hinweisen.
-
 
 #### § 168
 
@@ -2984,11 +2739,9 @@ werden.
 
 (3) Die im § 39 Abs. 2 vorgesehene Anordnung ist unzulässig.
 
-
 #### § 168a
 
 (aufgehoben)
-
 
 #### § 168b
 
@@ -2999,7 +2752,6 @@ bewirkt. Das Registergericht hat bei der Übersendung der im § 19 Abs.
 2 bezeichneten Urkunden und Mitteilungen die innerhalb der letzten
 sechs Monate bei ihm eingegangenen Anmeldungen an das
 Versteigerungsgericht weiterzugeben.
-
 
 #### § 168c
 
@@ -3033,10 +2785,6 @@ Sonderbestimmungen:
     Verbindlichkeit des persönlichen Schuldners und für die Geltendmachung
     des Ausfalls im Insolvenzverfahren maßgebend.
 
-
-
-
-
 #### § 169
 
 (1) Ist das Schiff einem Mieter oder Pächter überlassen, so gelten die
@@ -3058,7 +2806,6 @@ Gesetzes über Rechte an eingetragenen Schiffen und Schiffsbauwerken
 vom 15. November 1940 (Reichsgesetzbl. I S. 1499) über die durch
 Rechtsgeschäft bestellte Schiffshypothek.
 
-
 #### § 169a
 
 (1) Auf die Zwangsversteigerung eines Seeschiffes sind die
@@ -3068,7 +2815,6 @@ findet hinsichtlich der Angabe des Verkehrswerts keine Anwendung.
 (2) § 68 findet mit der Maßgabe Anwendung, daß Sicherheit für ein
 Zehntel des Bargebots zu leisten ist.
 
-
 #### § 170
 
 (1) An die Stelle der nach § 94 Abs. 1 zulässigen Verwaltung tritt die
@@ -3076,7 +2822,6 @@ gerichtliche Bewachung und Verwahrung des versteigerten Schiffs.
 
 (2) Das Gericht hat die getroffenen Maßregeln aufzuheben, wenn der zu
 ihrer Fortsetzung erforderliche Geldbetrag nicht vorgeschossen wird.
-
 
 #### § 170a
 
@@ -3093,7 +2838,6 @@ Terminsbestimmung auch durch das für Bekanntmachungen dieses Gerichts
 bestimmte Blatt bekanntgemacht werden. An Stelle der im § 43 Abs. 1
 bestimmten Frist tritt eine Frist von zwei Wochen, an Stelle der im §
 43 Abs. 2 bestimmten Frist eine solche von einer Woche.
-
 
 #### § 171
 
@@ -3137,10 +2881,7 @@ Verwahrung des Schiffs darf erst aufgehoben und das Schiff dem
 Ersteher erst übergeben werden, wenn die Berichtigung des Meistgebots
 oder die Einwilligung der Beteiligten nachgewiesen wird.
 
-
 ### Zweiter Titel - Zwangsversteigerung von Luftfahrzeugen
-
-
 
 #### § 171a
 
@@ -3152,7 +2893,6 @@ Zwangsversteigerung eines in dem Register für Pfandrechte an
 Luftfahrzeugen eingetragenen Luftfahrzeugs, dessen Eintragung in der
 Luftfahrzeugrolle gelöscht ist.
 
-
 #### § 171b
 
 (1) Für die Zwangsversteigerung des Luftfahrzeugs ist als
@@ -3161,7 +2901,6 @@ Luftfahrt-Bundesamt seinen Sitz hat.
 
 (2) Für das Verfahren tritt an die Stelle des Grundbuchs das Register
 für Pfandrechte an Luftfahrzeugen.
-
 
 #### § 171c
 
@@ -3185,14 +2924,12 @@ zu nutzen. Über die Verwendung des Reinertrages entscheidet das
 Gericht. In der Regel soll er nach den Grundsätzen des § 155 verteilt
 werden.
 
-
 #### § 171d
 
 (1) In der Bestimmung des Versteigerungstermins soll das Luftfahrzeug
 nach dem Register für Pfandrechte an Luftfahrzeugen bezeichnet werden.
 
 (2) Die in § 39 Abs. 2 vorgesehene Anordnung ist unzulässig.
-
 
 #### § 171e
 
@@ -3226,14 +2963,9 @@ folgende Sonderbestimmungen:
     Gegenstände, für die Verbindlichkeit des persönlichen Schuldners und
     für die Geltendmachung des Ausfalls im Insolvenzverfahren maßgebend.
 
-
-
-
-
 #### § 171f
 
 § 169 gilt für das Luftfahrzeug entsprechend.
-
 
 #### § 171g
 
@@ -3243,13 +2975,11 @@ gerichtliche Bewachung und Verwahrung des versteigerten Luftfahrzeugs.
 (2) Das Gericht hat die getroffenen Maßregeln aufzuheben, wenn der zu
 ihrer Fortsetzung erforderliche Geldbetrag nicht vorgeschossen wird.
 
-
 #### § 171h
 
 Auf die Zwangsversteigerung eines ausländischen Luftfahrzeugs sind die
 Vorschriften in §§ 171a bis 171g entsprechend anzuwenden, soweit sich
 nicht aus den §§ 171i bis 171n anderes ergibt.
-
 
 #### § 171i
 
@@ -3263,7 +2993,6 @@ Luftfahrzeugen vom 26. Februar 1959 (Bundesgesetzbl. I S. 57) das
 Vorrecht dieser Klasse wegen der laufenden und der aus den letzten
 drei Geschäftsjahren rückständigen Beträge.
 
-
 #### § 171k
 
 Wird das Luftfahrzeug nach der Beschlagnahme veräußert oder mit einem
@@ -3273,7 +3002,6 @@ Abkommens vom 19. Juni 1948 (Bundesgesetzbl. 1959 II S. 129)
 anzuerkennen, so ist die Verfügung dem Gläubiger gegenüber wirksam, es
 sei denn, daß der Schuldner im Zeitpunkt der Verfügung Kenntnis von
 der Beschlagnahme hatte.
-
 
 #### § 171l
 
@@ -3292,14 +3020,12 @@ Versteigerung mindestens einen Monat vor dem Termin an dem Ort, an dem
 das Luftfahrzeug eingetragen ist, nach den dort geltenden Bestimmungen
 öffentlich bekanntzumachen.
 
-
 #### § 171m
 
 Die Beschwerde gegen die Erteilung des Zuschlags ist binnen sechs
 Monaten einzulegen. Sie kann auf die Gründe des § 100 nur binnen einer
 Notfrist von zwei Wochen, danach nur noch darauf gestützt werden, daß
 die Vorschriften des § 171l Abs. 2 verletzt sind.
-
 
 #### § 171n
 
@@ -3308,10 +3034,7 @@ auf Grund eines für einen Zeitraum von sechs oder mehr Monaten
 abgeschlossenen Mietvertrages, so gelten die Vorschriften über den
 Ersatz für einen Nießbrauch entsprechend.
 
-
 ## Dritter Abschnitt - Zwangsversteigerung und Zwangsverwaltung in besonderen Fällen
-
-
 
 ### § 172
 
@@ -3320,13 +3043,11 @@ Insolvenzverwalter beantragt, so finden die Vorschriften des ersten
 und zweiten Abschnitts entsprechende Anwendung, soweit sich nicht aus
 den §§ 173, 174 ein anderes ergibt.
 
-
 ### § 173
 
 Der Beschluß, durch welchen das Verfahren angeordnet wird, gilt nicht
 als Beschlagnahme. Im Sinne der §§ 13, 55 ist jedoch die Zustellung
 des Beschlusses an den Insolvenzverwalter als Beschlagnahme anzusehen.
-
 
 ### § 174
 
@@ -3338,7 +3059,6 @@ Feststellung des geringsten Gebots nur die seinem Anspruche
 vorgehenden Rechte berücksichtigt werden; in diesem Fall ist das
 Grundstück auch mit der verlangten Abweichung auszubieten.
 
-
 ### § 174a
 
 Der Insolvenzverwalter kann bis zum Schluß der Verhandlung im
@@ -3346,7 +3066,6 @@ Versteigerungstermin verlangen, daß bei der Feststellung des
 geringsten Gebots nur die den Ansprüchen aus § 10 Abs. 1 Nr. 1a
 vorgehenden Rechte berücksichtigt werden; in diesem Fall ist das
 Grundstück auch mit der verlangten Abweichung auszubieten.
-
 
 ### § 175
 
@@ -3362,7 +3081,6 @@ Nachlaßgläubiger im Aufgebotsverfahren ausgeschlossen ist oder nach
 den §§ 1974, 1989 des Bürgerlichen Gesetzbuchs einem ausgeschlossenen
 Gläubiger gleichsteht.
 
-
 ### § 176
 
 Wird die Zwangsversteigerung nach § 175 beantragt, so finden die
@@ -3370,13 +3088,11 @@ Vorschriften des ersten und zweiten Abschnitts sowie der §§ 173, 174
 entsprechende Anwendung, soweit sich nicht aus den §§ 177, 178 ein
 anderes ergibt.
 
-
 ### § 177
 
 Der Antragsteller hat die Tatsachen, welche sein Recht zur Stellung
 des Antrags begründen, durch Urkunden glaubhaft zu machen, soweit sie
 nicht bei dem Gericht offenkundig sind.
-
 
 ### § 178
 
@@ -3387,7 +3103,6 @@ Eröffnung des Nachlaßinsolvenzverfahrens beantragt ist.
 Zwangsversteigerung nicht beendigt; für das weitere Verfahren gilt der
 Insolvenzverwalter als Antragsteller.
 
-
 ### § 179
 
 Ist ein Nachlaßgläubiger, der verlangen konnte, daß das geringste
@@ -3395,7 +3110,6 @@ Gebot nach Maßgabe des § 174 ohne Berücksichtigung seines Anspruchs
 festgestellt werde, bei der Feststellung des geringsten Gebots
 berücksichtigt, so kann ihm die Befriedigung aus dem übrigen Nachlaß
 verweigert werden.
-
 
 ### § 180
 
@@ -3423,7 +3137,6 @@ Rücksicht auf eine Änderung der Sachlage geboten ist.
 (4) Durch Anordnungen nach Absatz 2, 3 darf das Verfahren nicht auf
 mehr als fünf Jahre insgesamt einstweilen eingestellt werden.
 
-
 ### § 181
 
 (1) Ein vollstreckbarer Titel ist nicht erforderlich.
@@ -3444,7 +3157,6 @@ gestellt werden.
 (4) Die Vorschrift des § 17 Abs. 3 findet auch auf die Erbfolge des
 Antragstellers Anwendung.
 
-
 ### § 182
 
 (1) Bei der Feststellung des geringsten Gebots sind die den Anteil des
@@ -3459,19 +3171,16 @@ erforderlichen Betrag.
 
 (3)
 
-
 ### § 183
 
 Im Falle der Vermietung oder Verpachtung des Grundstücks finden die in
 den §§ 57a und 57b vorgesehenen Maßgaben keine Anwendung.
-
 
 ### § 184
 
 Ein Miteigentümer braucht für sein Gebot keine Sicherheit zu leisten,
 wenn ihm eine durch das Gebot ganz oder teilweise gedeckte Hypothek,
 Grundschuld oder Rentenschuld zusteht.
-
 
 ### § 185
 
@@ -3496,7 +3205,6 @@ betrifft, aufzuheben und im übrigen fortzusetzen.
 
 (4) Die Voraussetzungen für die Einstellung und die Aufhebung des
 Zwangsversteigerungsverfahrens sind vom Antragsteller nachzuweisen.
-
 
 ### § 186
 

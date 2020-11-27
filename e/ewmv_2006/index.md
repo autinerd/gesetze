@@ -18,8 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 1.3.2012 I 413
 
-
-
 ## Eingangsformel
 
 Die Bundesregierung verordnet, jeweils in Verbindung mit § 1 Abs. 2
@@ -42,10 +40,6 @@ des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S.
     vom 27. August 1990 (BGBl. I S. 1802), von denen § 7 Abs. 1 Satz 2
     zuletzt durch Artikel 174 der Verordnung vom 29. Oktober 2001 (BGBl. I
     S. 2785) geändert worden ist:
-
-
-
-
 
 ## § 1 Meldepflichtige Betriebe
 
@@ -144,7 +138,6 @@ denen auch eine Be- oder Verarbeitung von Nahrungs- oder Futtermitteln
 erfolgt, sind nicht meldepflichtig, soweit die Be- oder Verarbeitung
 gegenüber dem Verkauf nur von einer untergeordneten Bedeutung ist.
 
-
 ## § 2 Erhebungsmerkmale
 
 (1) Zu melden sind von allen Betrieben
@@ -175,7 +168,6 @@ der Anlage 3 zu verwenden. Die Meldung nach Absatz 1 kann auch in
 elektronischer Form abgegeben werden. Hierzu macht die nach
 Landesrecht zuständige Stelle eine geeignete Adresse bekannt.
 
-
 ## § 3 Meldepflichtige Personen, Periodizität, Erhebungs- und Berichtszeitraum
 
 (1) Zur Abgabe der Meldung ist der Inhaber des Betriebes verpflichtet.
@@ -186,12 +178,10 @@ Stelle des Inhabers der verantwortliche Leiter.
 zum 31. März für das vorausgegangene Kalenderjahr abzugeben. Unberührt
 bleiben die in der Vergangenheit bestandenen Meldepflichten.
 
-
 ## § 4 Zuständige Stelle
 
 Die Meldungen sind an die nach Landesrecht zuständige Behörde zu
 richten.
-
 
 ## § 5 Zweck der Erhebung
 
@@ -204,10 +194,6 @@ Die Meldungen nach den §§ 2 und 3 sind abzugeben
 2.  für den in § 1 Abs. 1 des Ernährungssicherstellungsgesetzes genannten
     Zweck.
 
-
-
-
-
 ## § 6 Übertragung von Verordnungsermächtigungen
 
 Die in § 3 Abs. 1 Satz 1 in Verbindung mit § 2 Abs. 1 Nr. 7 des
@@ -216,7 +202,6 @@ Ernährungsvorsorgegesetzes und in § 7 Abs. 1 Satz 1 in Verbindung mit
 Ermächtigungen zum Erlass von Rechtsverordnungen werden auf das
 Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz
 übertragen.
-
 
 ## § 7 Straftaten und Ordnungswidrigkeiten
 
@@ -245,7 +230,6 @@ Nr. 3, Abs. 2 bis 4 des Wirtschaftsstrafgesetzes 1954 zu ahnden ist
 oder als Ordnungswidrigkeit nach § 2 des Wirtschaftsstrafgesetzes 1954
 geahndet werden kann.
 
-
 ## § 8 Verfolgung von Ordnungswidrigkeiten
 
 Zuständige Verwaltungsbehörde im Sinne des § 16 Nr. 2 Buchstabe b des
@@ -253,16 +237,13 @@ Ernährungsvorsorgegesetzes oder des § 25 Nr. 2 Buchstabe b des
 Ernährungssicherstellungsgesetzes ist die in § 4 genannte
 Landesbehörde.
 
-
 ## § 9 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage 1 (zu § 1 Absatz 1)
 
@@ -466,9 +447,6 @@ Der Bundesrat hat zugestimmt.
         Mast- und Nutzgeflügel oder
         Pferde oder
         sonstige Nutztiere oder Heimtiere
-
-
-
 
 ## Anlage 2 (zu § 2 Absatz 3)
 
@@ -982,9 +960,6 @@ jederzeit widerrufen kann.
 
 *    *
     *
-
-
-
 
 ## Anlage 3 (zu § 2 Absatz 3)
 

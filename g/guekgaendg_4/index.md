@@ -15,12 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1961, 1157
 
-
-
 ## Art 1
 
 -
-
 
 ## Art 2
 
@@ -31,13 +28,11 @@ dieses Gesetzes bestimmt. Sie sind neu zu bestimmen, wenn sie nicht
 mit § 2 Abs. 2 Satz 4 bis 6 des Güterkraftverkehrsgesetzes in der
 Fassung dieses Gesetzes vereinbar sind.
 
-
 ## Art 3
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
 im Land Berlin.
-
 
 ## Art 4
 

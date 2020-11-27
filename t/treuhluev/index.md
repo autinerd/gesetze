@@ -19,13 +19,11 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 539 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Auf Grund des § 23a Abs. 1 und 2 des Treuhandgesetzes, der durch
 Artikel 1 Nr. 9 des Gesetzes vom 9. August 1994 (BGBl. I S. 2062)
 eingefügt worden ist, verordnet die Bundesregierung:
-
 
 ## § 1 Übertragung von Aufgaben
 
@@ -56,10 +54,6 @@ zuständigen Bundesministerium wahrnimmt.
     Verbesserung der Umwelt im Rahmen des § 249h des
     Arbeitsförderungsgesetzes.
 
-
-
-
-
 ## § 2 Übertragung von Unternehmensbeteiligungen
 
 (1) Die Geschäftsanteile der Treuhandanstalt an der im Handelsregister
@@ -76,11 +70,9 @@ vereinigungsbedingte Sonderaufgaben an den in Anlage 2 bezeichneten
 Gesellschaften werden mit Wirkung vom 1. Juli 1996 auf die TLG
 Treuhand Liegenschaftsgesellschaft mbH übertragen.
 
-
 ## § 3 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Anlage 1 (zu § 2 Abs. 2)
 
@@ -184,10 +176,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
     *   HRB 37006
 
     *   Berlin-Charlottenburg
-
-
-
-
 
 ## Anlage 2 (zu § 2 Abs. 3)
 

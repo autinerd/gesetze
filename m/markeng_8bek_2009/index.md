@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 3671
 
-
 ## (XXXX)
 
 Auf Grund des § 8 Absatz 2 Nummer 8 des Markengesetzes vom 25. Oktober
@@ -30,11 +29,9 @@ von der Eintragung als Marke ausgeschlossen sind.
 Diese Bekanntmachung ergeht im Anschluss an die Bekanntmachung vom 12.
 September 2002 (BGBl. I S. 3754).
 
-
 ## Schlussformel
 
 Bundesministerium der Justiz
-
 
 ## Anlage
 

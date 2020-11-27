@@ -22,7 +22,6 @@ Maßnahmen zur Gewährleistung der Sicherheit der
 Elektrizitätsversorgung und von Infrastrukturinvestitionen (ABl. EU
 Nr. L 33 S. 22).
 
-
 ## Eingangsformel
 
 Auf Grund des § 17 Abs. 3 Satz 1 in Verbindung mit Satz 2, des § 24
@@ -30,10 +29,7 @@ Satz 1 Nr. 1 in Verbindung mit Satz 2 Nr. 2 und 3 sowie Satz 3 und des
 § 29 Abs. 3 des Energiewirtschaftsgesetzes vom 7. Juli 2005 (BGBl. I
 S. 1970) verordnet die Bundesregierung:
 
-
 ## Teil 1 - Allgemeine Vorschriften
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -46,7 +42,6 @@ mit einer Spannung von mindestens 110 Kilovolt.
 der Netzbetreiber abschließend im Sinne des § 111 Abs. 2 Nr. 2 des
 Energiewirtschaftsgesetzes. Die Vorschriften des Erneuerbare-Energien-
 Gesetzes sowie des Kraft-Wärme-Kopplungsgesetzes bleiben unberührt.
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -69,10 +64,6 @@ Im Sinne dieser Verordnung
 
 4.  ist Netzschemaplan ein schematischer Netzplan mit allen Stromkreisen,
     Schaltanlagen, Sammelschienen und Umspannwerken.
-
-
-
-
 
 ### § 3 Verfahren
 
@@ -127,7 +118,6 @@ sonstige außergewöhnliche, nicht vom Netzbetreiber zu vertretende
 Umstände einen erhöhten Zeitbedarf verursacht haben.
 
 (4) Der Anschlussnehmer trägt die Kosten der Prüfungen nach Absatz 3.
-
 
 ### § 4 Anschlusszusage und Netzanschlussvertrag
 
@@ -295,7 +285,6 @@ Schritte können insbesondere sein
 Der Anschlussnehmer hat den Verhandlungsfahrplan und den
 Realisierungsfahrplan der Regulierungsbehörde unverzüglich vorzulegen.
 
-
 ### § 5 Informationspflichten des Netzbetreibers
 
 (1) Der Netzbetreiber ist im Rahmen seiner Prüfung nach § 3 Abs. 3
@@ -380,7 +369,6 @@ seiner Aufgaben beauftragten Dritten sind auch nach Beendigung ihrer
 Tätigkeit verpflichtet, die Verschwiegenheit über die ihnen bekannt
 gewordenen Netzdaten nach Absatz 1 zu wahren.
 
-
 ### § 6 Netzanschluss
 
 (1) Die Gewährung des Netzanschlusses nach § 17 Abs. 2 des
@@ -415,7 +403,6 @@ verwirklicht.
 (4) Der Anschlussnehmer kann den Netzanschluss von einem fachkundigen
 Dritten oder dem Netzbetreiber vornehmen lassen.
 
-
 ### § 7 Netzzugang bei Engpässen
 
 (1) Anschlussnehmern steht nach Maßgabe der Absätze 2 und 3 ein
@@ -447,7 +434,6 @@ durch die Ausübung von Rechten nach Absatz 1 mehr als die Hälfte der
 verfügbaren Leitungskapazität in Anspruch genommen, so sind die
 bevorzugten Netzzugangsrechte anteilig zu kürzen.
 
-
 ### § 8 Kostentragung
 
 (1) Der Anschlussnehmer trägt die Kosten für die Verbindung zwischen
@@ -466,10 +452,7 @@ nicht zu tragen.
 (3) Kosten zur Verstärkung des Netzes sowie einen Baukostenzuschuss
 hat der Anschlussnehmer nicht zu tragen.
 
-
 ## Teil 2 - Sonstige Bestimmungen
-
-
 
 ### § 9 Kraftwerksanschluss-Register
 
@@ -485,7 +468,6 @@ Die Daten sind Anschlussnehmern sowie auf Anforderung den
 Energieaufsichtsbehörden und Regulierungsbehörden in geeigneter Form
 zur Verfügung zu stellen.
 
-
 ### § 10 Festlegungen der Regulierungsbehörde
 
 Zur Verwirklichung eines effizienten Anschlusses von Erzeugungsanlagen
@@ -499,15 +481,11 @@ und den Inhalt der gegenseitigen Informationspflichten,
 Vorleistungspflichten, Fristenregelungen sowie der standardisierten
 Bedingungen für einen Netzanschlussvertrag nach § 3 Abs. 1 Nr. 2.
 
-
 ## Teil 3 - Schlussvorschriften
-
-
 
 ### § 11 Inkrafttreten
 
 Die Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ### Schlussformel
 

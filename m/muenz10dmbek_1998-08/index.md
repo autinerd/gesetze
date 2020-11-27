@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1998, 2187
 
-
-
 ## (XXXX)
 
 Auf Grund des § 6 des Gesetzes über die Ausprägung von Scheidemünzen

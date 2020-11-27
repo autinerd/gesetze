@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 1221
 
-
-
 ## Eingangsformel
 
 Auf Grund der §§ 31c und 32 Abs. 1 Satz 1 Nr. 7, 9a und Satz 2 sowie
@@ -28,9 +26,7 @@ Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975
 (BGBl. I S. 3288), verordnet das Bundesministerium für Verkehr, Bau-
 und Wohnungswesen:
 
-
 ## (XXXX) Art 1 bis 3 (weggefallen)
-
 
 ## Art 4 Inkrafttreten, Übergangsbestimmung
 
@@ -49,7 +45,6 @@ Anweisungen des Herstellers dem Halter nicht zur Verfügung gestellt
 werden, dürfen diese Luftfahrtgeräte nur weiter betrieben werden, wenn
 sie nach den vor dem 1. Juli 2001 geltenden Regelungen nachgeprüft
 werden.
-
 
 ## Schlussformel
 

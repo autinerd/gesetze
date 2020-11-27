@@ -17,7 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 814
 
-
 ## I. Erlass von Widerspruchsbescheiden
 
 Nach § 126 Absatz 3 Satz 2 des Bundesbeamtengesetzes vom 5. Februar
@@ -28,7 +27,6 @@ für Landwirtschaft und Ernährung, soweit diese Dienststelle den mit
 dem Widerspruch angefochtenen Verwaltungsakt erlassen, den Erlass
 eines Verwaltungsaktes oder einen Anspruch abgelehnt hat.
 
-
 ## II. Vertretung bei Klagen aus dem Beamtenverhältnis
 
 Nach § 127 Absatz 3 Satz 1 des Bundesbeamtengesetzes vom 5. Februar
@@ -38,13 +36,11 @@ der Bundesanstalt für Landwirtschaft und Ernährung, soweit sie oder er
 nach Abschnitt I dieser Anordnung für die Entscheidung über
 Widersprüche zuständig ist.
 
-
 ## III. Vorbehaltsklausel
 
 In besonderen Fällen behalte ich mir vor, die Befugnisse und die
 Vertretung nach den Abschnitten I und II dieser Anordnung selbst
 auszuüben.
-
 
 ## IV. Schlussvorschriften
 
@@ -56,7 +52,6 @@ Anordnungen zur Übertragung von Zuständigkeiten für den Erlass von
 Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen
 aus dem Beamtenverhältnis auf die Präsidentin oder den Präsidenten der
 Bundesanstalt für Landwirtschaft und Ernährung.
-
 
 ## Schlussformel
 

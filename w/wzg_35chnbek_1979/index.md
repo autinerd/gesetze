@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1979, 119
 
-
-
 ## (XXXX)
 
 Auf Grund des § 35 Abs. 3 Satz 2 des Warenzeichengesetzes in der
@@ -27,7 +25,6 @@ Deutsche Staatsangehörige, die ein Warenzeichen in der Volksrepublik
 China anmelden, brauchen nicht den Nachweis zu erbringen, daß sie für
 das Zeichen in dem Staat, in dem sich ihre Niederlassung befindet, den
 Markenschutz beantragt und erhalten haben.
-
 
 ## Schlussformel
 

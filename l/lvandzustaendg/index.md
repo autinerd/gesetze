@@ -16,13 +16,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1979, 98
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## § 1
 
@@ -49,23 +46,14 @@ Im Land Niedersachsen sind örtlich zuständig:
 
     b)  die kreisfreien Städte Emden, Osnabrück und Wolfsburg.
 
-
-
-
-
-
-
-
 ## § 2
 
 -
-
 
 ## § 3
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin.
-
 
 ## § 4
 

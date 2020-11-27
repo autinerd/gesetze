@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   VkBl: 2010, 283
 
-
 ## Eingangsformel
 
 Auf Grund des § 27 Absatz 1 in Verbindung mit § 24 Absatz 1 des
@@ -26,7 +25,6 @@ Verordnung über die Übertragung der Ermächtigung zum Erlass von
 Strompolizeiverordnungen nach dem Bundeswasserstraßengesetz vom 15
 April 1969 (BGBI. II S. 853) verordnet die Wasser- und
 Schifffahrtsdirektion Ost für ihren Zuständigkeitsbereich:
-
 
 ## § 1 Geltungsbereich
 
@@ -181,10 +179,6 @@ Betriebsanlagen an und in den folgenden Bundeswasserstraßen
     Spreemündung, Spandau bis zur Einmündung des Havelberger
     Schleusenkanals in die Elbe.
 
-
-
-
-
 ## § 2 Benutzungsverbot
 
 (1) Es ist verboten,
@@ -219,7 +213,6 @@ Betriebswege bleiben unberührt.
 (5) Betretungs- und Befahrungsverbote durch andere als
 strompolizeiliche Regelungen bleiben unberührt.
 
-
 ## § 3 Besondere Betretens- und Befahrensverbote
 
 (1) Durch besondere Anordnung kann
@@ -238,7 +231,6 @@ gefährdet wird.
 
 (2) Die Anordnung nach Absatz 1 ergeht durch das Aufstellen des
 Schildes 3 der Anlage.
-
 
 ## § 4 Ausnahmen
 
@@ -271,7 +263,6 @@ werden.
 Schild 4 der Anlage erteilt. Das Schild ist mit der im Einzelfall
 erforderlichen Aufschrift unter dem Schild 1 oder 3 anzubringen.
 
-
 ## § 5 Befreiungen
 
 Von dem Benutzungsverbot nach § 2 Absatz 1 oder den besonderen
@@ -281,7 +272,6 @@ des Bundes, der Wasserschutzpolizeien der Länder und der Einrichtungen
 des Rettungs- und des Feuerwehrdienstes oder sonstiger
 Hilfsorganisationen befreit, soweit das Benutzen zur Erfüllung der
 dienstlichen Aufgaben erforderlich ist.
-
 
 ## § 6 Zerstörungs- und Beschädigungsverbot
 
@@ -301,13 +291,11 @@ Es ist verboten
 unbefugt zu zerstören, zu beschädigen, unbrauchbar zu machen, zu
 verändern oder zu entfernen.
 
-
 ## § 7 Zuständigkeit
 
 Die Wasser- und Schifffahrtsämter sind für die Durchführung dieser
 Verordnung zuständig. § 50 Absatz 3 des Wasserstraßengesetzes bleibt
 unberührt.
-
 
 ## § 8 Ordnungswidrigkeiten
 
@@ -331,17 +319,12 @@ Wasserstraßengesetzes handelt, wer vorsätzlich oder fahrlässig
 5.  entgegen § 6 eine Schifffahrts- oder Betriebsanlage zerstört,
     beschädigt, unbrauchbar macht, verändert oder entfernt.
 
-
-
-
-
 ## § 9 Inkrafttreten, Außenkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 Gleichzeitig tritt die Betriebsanlagenverordnung vom 12. Januar 1994
 (VkBl. 1994 S. 249), die zuletzt durch die Verordnung vom 31. März
 2004 {VkBl. 2004 S. 287) geändert worden ist, außer Kraft.
-
 
 ## Anlage (zu § 2 Absatz 3, § 3 Absatz 2 und § 4 Absatz 4) Schilder zur Kennzeichnung der Verbote
 

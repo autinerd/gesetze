@@ -20,17 +20,14 @@ Fundstelle
 Geändert durch
 :   Art. 49 G v. 9.12.2004 I 3242
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art 1
 
 -
-
 
 ## Art 2
 
@@ -65,7 +62,6 @@ Rentenversicherung Knappschaft-Bahn-See als Träger der
 knappschaftlichen Krankenversicherung entstehen, gelten als Kosten der
 Krankenversicherung der Rentner.
 
-
 ## Art 3
 
 Ergeben sich aus der Durchführung des Abkommens vom 20. April 1960,
@@ -80,7 +76,6 @@ erforderlichen Mittel werden durch Umlage auf sämtliche Träger der
 Krankenversicherung im Verhältnis der Durchschnittsmitgliederzahl des
 Vorjahres einschließlich der Rentner aufgebracht.
 
-
 ## Art 4
 
 Die nach Artikel 33 Nr. 6 der Vereinbarung von den deutschen Trägern
@@ -88,7 +83,6 @@ der Unfallversicherung aufzubringenden Beträge werden auf alle Träger
 der deutschen Unfallversicherung umgelegt. Die Erstattung und die
 Umlage werden von der deutschen Verbindungsstelle für die
 Unfallversicherung durchgeführt.
-
 
 ## Art 5
 
@@ -113,10 +107,6 @@ c)  ein Verzeichnis derjenigen Organisationen aufstellen, ändern oder
     Königreichs nach Artikel 7 Abs. 5 des Abkommens den Rechtsvorschriften
     der Bundesrepublik unterliegen.
 
-
-
-
-
 ## Art 6
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
@@ -124,7 +114,6 @@ Anwendung dieses Gesetzes feststellt. Rechtsverordnungen, die auf
 Grund dieses Gesetzes erlassen werden, gelten nach § 14 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) im
 Land Berlin.
-
 
 ## Art 7
 

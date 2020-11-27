@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1986, 387
 
-
-
 ## I.
 
 Auf Grund des § 84 Abs. 1 des Berufsbildungsgesetzes vom 14. August
@@ -41,11 +39,9 @@ Bundesminister des Innern
 
 zur zuständigen Stelle für meinen Geschäftsbereich.
 
-
 ## II.
 
 Diese Anordnung tritt am Tag nach der Bekanntmachung in Kraft.
-
 
 ## Schlußformel
 

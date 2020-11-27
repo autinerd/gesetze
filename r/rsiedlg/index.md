@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 8 Abs. 2 G v. 29.7.2009
 
-
 ## - - Siedlungsunternehmungen
-
-
 
 ### § 1
 
@@ -61,14 +58,9 @@ Bundesstaaten              zu beteiligen. Dieser Beteiligung an der
 Aufsicht bedarf es nicht, soweit solche Vertrauensleute in den
 Aufsichtsrat der einzelnen Siedlungsunternehmungen berufen werden.
 
-
 ## - - Bereitstellung
 
-
-
 ### a) - von Staatsdomänen
-
-
 
 #### § 2
 
@@ -81,10 +73,7 @@ sollen vorübergehende Wertsteigerungen, die auf außerordentliche
 Verhältnisse des Krieges zurückzuführen sind, nicht berücksichtigt
 werden.
 
-
 ### b) - von Moor- und Ödland
-
-
 
 #### § 3
 
@@ -101,10 +90,7 @@ bleibt die Regelung der Enteignung, einschließlich der Rechtsbehelfe
 gegen die Festsetzung der Entschädigung, den
 Bundesstaaten              vorbehalten.
 
-
 ## - - Vorkaufsrecht des Siedlungsunternehmens
-
-
 
 ### § 4
 
@@ -148,7 +134,6 @@ Verbesserung der Agrarstruktur notwendig ist.
 Siedlungsunternehmens eine nach § 1 Abs. 1 Satz 3 als
 Siedlungsunternehmen bezeichnete Stelle das Vorkaufsrecht hat.
 
-
 ### § 5
 
 Bei einem Eigentumserwerb durch Ausübung des Vorkaufsrechts erlöschen
@@ -160,7 +145,6 @@ Vorkaufsrecht nach diesem Gesetz bereits bestand. Der
 Entschädigungsanspruch erlischt, wenn der Entschädigungsberechtigte
 ihn nicht binnen drei Jahren nach dem Erwerb des Eigentums durch den
 Vorkaufsberechtigten mit gerichtlicher Klage geltend macht.
-
 
 ### § 6
 
@@ -184,7 +168,6 @@ Falle des § 7 Satz 2.
 eine nach anderen Gesetzen erforderliche Genehmigung des Kaufvertrags
 noch nicht entschieden ist.
 
-
 ### § 7
 
 Der Vorkaufsberechtigte ist befugt, innerhalb der Frist des § 6 Abs. 1
@@ -196,7 +179,6 @@ von dem Tage ab, an dem das Hindernis wegfällt, ausgeübt werden,
 sofern die Genehmigungsbehörde die Mitteilung über die
 Fristverlängerung binnen der Frist des § 6 Abs. 1 des
 Grundstückverkehrsgesetzes an den Veräußerer zugestellt hat.
-
 
 ### § 8
 
@@ -210,7 +192,6 @@ keinen Anspruch auf die Erfüllung dieser Nebenleistung und der
 Vertragsstrafen, die zu ihrer Erfüllung ausbedungen sind.
 
 (3)
-
 
 ### § 9
 
@@ -239,7 +220,6 @@ stellen.
 Siedlungsunternehmen zurückzuerstatten, soweit der Schaden durch die
 Übereignung des Grundstücks entfällt.
 
-
 ### § 10
 
 Einwendungen gegen das Vorkaufsrecht, die sich darauf gründen, daß die
@@ -254,11 +234,9 @@ geltend gemacht werden. Die Vorschriften über den Antrag auf
 gerichtliche Entscheidung in § 22 des Grundstückverkehrsgesetzes sind
 entsprechend anzuwenden.
 
-
 ### § 11
 
 -
-
 
 ### § 11a
 
@@ -269,10 +247,7 @@ gesetzliche Vorkaufsrecht des gemeinnützigen Siedlungsunternehmens
 insofern außer Kraft, als die neu erworbene Fläche die abgegebene an
 Ausdehnung nicht überschreitet.
 
-
 ## - - Landlieferungsverbände
-
-
 
 ### § 12
 
@@ -293,7 +268,6 @@ landwirtschaftliche Organisationen (Landschaften usw.), übertragen.
 Das hat namentlich dann, und zwar auf Kosten des
 Landlieferungsverbandes, zu geschehen, wenn dieser in der Erfüllung
 seiner Lieferungspflicht säumig ist.
-
 
 ### § 13
 
@@ -318,7 +292,6 @@ das ohne Mitwirkung des Siedlungsunternehmens an Ansiedler veräußert
 oder mit dem Rechte des Kaufes zu einem von der Aufsichtsbehörde
 genehmigten Preise verpachtet ist.
 
-
 ### § 14
 
 (1) Der Landlieferungsverband hat anstelle des gemeinnützigen
@@ -330,7 +303,6 @@ dessen Zustimmung allgemein oder für den einzelnen Fall übertragen.
 
 (2) Für das Vorkaufsrecht gelten die Vorschriften der §§ 5 bis 10
 entsprechend.
-
 
 ### § 15
 
@@ -359,7 +331,6 @@ Enteignung ist der Eigentümer und der Betriebsrat des Gutes zu hören.
 Rechtsbehelfe gegen die Festsetzung der Entschädigung den
 Bundesstaaten              vorbehalten.
 
-
 ### § 16
 
 (1) Von den besiedlungsfähigen großen Gütern sollen die
@@ -386,15 +357,11 @@ Hinsicht vorbildlich wirken oder für die Entwicklung der
 Landwirtschaft von hervorragender Bedeutung sind, soll möglichst
 abgesehen werden.
 
-
 ### § 17
 
 -
 
-
 ## - - Verhältnis zwischen Landlieferungsverband und Siedlungsunternehmen
-
-
 
 ### § 18
 
@@ -429,10 +396,7 @@ Aufgaben des Landlieferungsverbandes einer anderen Stelle übertragen
 (§ 12 Abs. 2), so bestimmt die Landeszentralbehörde über die Deckung
 dieser Aufwendungen.
 
-
 ## - - Außerordentliche Vermögensabgabe
-
-
 
 ### § 19
 
@@ -443,10 +407,7 @@ Lande entrichten, kommt das zur Verfügung gestellte und vom
 Siedlungsunternehmen übernommene Land auf das vom Verband und an ihn
 zu liefernde Drittel (§ 13 Abs. 2) in Anrechnung.
 
-
 ## - - Wiederkaufsrecht
-
-
 
 ### § 20
 
@@ -461,7 +422,6 @@ Bedingungen sind in dem Ansiedlungsvertrage festzusetzen. Das Recht
 ist als Belastung des Grundstücks im Grundbuch einzutragen. Im übrigen
 bleiben die Vorschriften der Landesgesetzgebung unberührt.
 
-
 ### § 21
 
 Dem früheren Eigentümer steht ein Wiederkaufsrecht gegen das
@@ -472,10 +432,7 @@ auszuüben. Das Recht ist als Belastung des Grundstücks im Grundbuch
 einzutragen. Die Bestimmungen der §§ 456 ff. des Bürgerlichen
 Gesetzbuchs finden entsprechende Anwendung.
 
-
 ## - - Beschaffung von Pachtland für landwirtschaftliche Arbeiter
-
-
 
 ### § 22
 
@@ -489,7 +446,6 @@ wenn Pacht- oder Nutzland im Umfang bis zu 5 vom Hundert der
 landwirtschaftlich genutzten Gemeinde- oder Gutsfeldmark zur Verfügung
 gestellt ist.
 
-
 ### § 23
 
 Die Pachtverträge, die auf Grund dieses Gesetzes zwischen Arbeitgebern
@@ -498,7 +454,6 @@ zeitweilig beschäftigten Arbeitern über ein Pachtverhältnis oder
 sonstige Nutzung von Land und dazu gehörenden Wirtschafts- und
 Wohngebäuden abgeschlossen werden, sind schriftlich und gesondert von
 Lohn- und Arbeitsverträgen zu verlautbaren.
-
 
 ### § 24
 
@@ -520,7 +475,6 @@ entsprechend.
 den
 Bundesstaaten              vorbehalten.
 
-
 ### § 25
 
 Ist in einzelnen Gegenden die Beschaffung von Land für die Hebung
@@ -530,7 +484,6 @@ landwirtschaftlichen Fläche benachbarter Staatsdomänen auch vor Ablauf
 der Pachtverträge zur Verfügung zu stellen, soweit nicht ihre
 Erhaltung im Staatsbesitz für Unterrichts-, Versuchs- oder andere
 Zwecke öffentlicher oder volkswirtschaftlicher Art notwendig ist.
-
 
 ### § 25a
 
@@ -565,7 +518,6 @@ Angestellten die Kosten des Umzugs zu ersetzen.
 (4) Über die Ansprüche nach Absatz 2 und 3 entscheidet eine von der
 obersten Landesbehörde zu bestimmende Stelle.
 
-
 ### § 25b
 
 Bei der Ansetzung soll nachbarlicher Zusammenhang mit einer
@@ -574,10 +526,7 @@ insbesondere hat auch bei Einzelsiedlungen und bei freiwilligen
 Siedlungen die Ansetzung tunlichst innerhalb einer Bevölkerung der
 gleichen Konfession zu erfolgen.
 
-
 ## - - Schlußbestimmungen
-
-
 
 ### § 26
 
@@ -588,7 +537,6 @@ dieses Gesetzes, zu erlassen. Soweit er von dieser Befugnis keinen
 Gebrauch macht, können die Landeszentralbehörden die erforderlichen
 Vorschriften erlassen.
 
-
 ### § 27
 
 Landesrechtliche Vorschriften zur weitergehenden Förderung des
@@ -598,7 +546,6 @@ genutzter Grundbesitz im Eigentume von Personen, deren gesamtes
 Eigentum dieser Art 100 Hektar nicht erreicht, darf zu
 Siedlungszwecken jedoch nicht enteignet werden.
 
-
 ### § 28
 
 Soweit durch landesrechtliche Regelung die Beschaffung von
@@ -606,7 +553,6 @@ landwirtschaftlichem Siedlungslande bereits in ausreichender Weise
 gesichert ist, kann der
 Reichsarbeitsminister              Ausnahmen von diesem Gesetze
 zulassen.
-
 
 ### § 29
 
@@ -631,21 +577,17 @@ Handlung zur Durchführung eines solchen Verfahrens erfolgt. Die
 Versicherung unterliegt nicht der Nachprüfung durch die
 Finanzbehörden.
 
-
 ### § 30
 
 -
-
 
 ### § 31
 
 -
 
-
 ### § 32
 
 Dieses Gesetz tritt mit dem Tage der Verkündung in Kraft.
-
 
 ### Anhang EV Auszug aus EinigVtr Anlage I Kap. VI Sachgebiet E Abschnitt III (BGBl. II 1990, 889, 1017)
 

@@ -22,7 +22,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 5 Abs. 18 G v. 24.2.2012 I 212
 
-
 ## § 1 Anwendungsbereich
 
 (1) Diese Verordnung gilt für Fahrzeuge und Altfahrzeuge
@@ -59,7 +58,6 @@ hergestellt wurden.
 (5) Den Vorschriften dieser Verordnung unterliegen die
 Wirtschaftsbeteiligten sowie die Besitzer, Eigentümer und Letzthalter
 von Altfahrzeugen.
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -251,10 +249,6 @@ Sinne dieser Verordnung anerkannt, wenn
     Anforderungen dieser Verordnung geprüft und dies im
     Überwachungszertifikat ausgewiesen ist.
 
-
-
-
-
 ## § 3 Rücknahmepflichten
 
 (1) Hersteller von Fahrzeugen sind verpflichtet, alle Altfahrzeuge
@@ -337,7 +331,6 @@ Verkehr bringen, müssen sich vor dem Inverkehrbringen im Rahmen ihrer
 Produktverantwortung mit den Herstellern von Basis- oder
 Chassisfahrzeugen in Verbindung setzen.
 
-
 ## § 4 Überlassungspflichten
 
 (1) Wer sich eines Fahrzeugs entledigt, entledigen will oder
@@ -372,7 +365,6 @@ Behandlung überlassen werden.
 (5) Die Überlassung von Altfahrzeugen nach den Absätzen 1 bis 3 ist
 von der nach § 2 Abs. 1 Nr. 1 der Nachweisverordnung bestimmten
 Nachweispflicht ausgenommen.
-
 
 ## § 5 Entsorgungspflichten
 
@@ -467,7 +459,6 @@ Reaktorsicherheit kann im Einvernehmen mit dem Bundesministerium für
 Wirtschaft und Technologie Empfehlungen zur einheitlichen Durchführung
 der Überprüfung bekanntgeben.
 
-
 ## § 6 Sachverständige
 
 Bescheinigungen nach § 5 Absatz 3 Satz 1 darf nur erteilen, wer
@@ -499,10 +490,6 @@ Bescheinigungen nach § 5 Absatz 3 Satz 1 darf nur erteilen, wer
     Berufsqualifikation vor Aufnahme der Tätigkeit entsprechend den §§ 13a
     und 13b der Gewerbeordnung hat nachprüfen lassen; Verfahren nach
     dieser Nummer können über eine einheitliche Stelle abgewickelt werden.
-
-
-
-
 
 ## § 7 Mitteilungspflichten
 
@@ -575,7 +562,6 @@ jeweiligen Betriebs zuständigen Behörde mindestens 14 Tage vor der
 Überprüfungstermin mit. Satz 1 gilt entsprechend bei Betrieben gemäß §
 2 Abs. 2 Nr. 2.
 
-
 ## § 8 Abfallvermeidung
 
 (1) Zur Förderung der Abfallvermeidung sind
@@ -608,7 +594,6 @@ der jeweils geltenden Fassung genannten Fällen unter den dort
 genannten Bedingungen, wobei die Entscheidung 2005/438/EG der
 Kommission in der jeweils geltenden Fassung zu beachten ist.
 
-
 ## § 9 Kennzeichnungsnormen und Demontageinformationen
 
 (1) Die Hersteller von Fahrzeugen sind verpflichtet, in Absprache mit
@@ -635,7 +620,6 @@ sind die Hersteller von Fahrzeugbauteilen verpflichtet, den
 anerkannten Demontagebetrieben auf Anforderung angemessene
 Informationen zur Demontage, Lagerung und Prüfung von
 wiederverwendbaren Teilen zur Verfügung zu stellen.
-
 
 ## § 10 Informationspflichten
 
@@ -669,7 +653,6 @@ zur Verfügung zu stellen.
 (2) Der Hersteller von Fahrzeugen hat diese Informationen den
 potenziellen Fahrzeugkäufern zugänglich zu machen. Die Informationen
 sind in die Werbeschriften für das neue Fahrzeug aufzunehmen.
-
 
 ## § 11 Ordnungswidrigkeiten
 
@@ -776,10 +759,6 @@ Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
     Überwachungszertifikat nicht, nicht richtig, nicht vollständig oder
     nicht rechtzeitig vorlegt.
 
-
-
-
-
 ## § 12 Übergangsvorschriften
 
 (1) Bescheinigungen nach § 5 Abs. 3 Satz 1, die bei Inkrafttreten der
@@ -792,7 +771,6 @@ vor Inkrafttreten dieser Verordnung rechtmäßig festgestellt war,
 dürfen noch bis zum Ablauf von zwei Monaten nach Inkrafttreten der
 Verordnung Bescheinigungen erteilen. Diese müssen mit einer
 Geltungsdauer von längstens sechs Monaten befristet werden.
-
 
 ## Anhang Anforderungen an die Annahme und Rücknahme von Altfahrzeugen, an die ordnungsgemäße und schadlose Verwertung von Altfahrzeugen und Restkarossen sowie an die ordnungsgemäße und schadlose Entsorgung der dabei anfallenden Abfälle
 

@@ -18,41 +18,26 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 Satz 2 G v. 15.12.1995 I 1775
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Erster Teil - Ergänzung und Änderung des Sozialgesetzbuchs
-
-
 
 ### Art 1 Sozialgesetzbuch (SGB) Achtes Buch (VIII) Kinder- und Jugendhilfe
 
 -
 
-
 ### (XXXX) Art 2 und 3
-
-
 
 ## Zweiter Teil - Änderung weiterer Gesetze
 
-
-
 ### (XXXX) Art 4 bis 9
-
-
 
 ## Dritter Teil - Überleitungs- und Schlußvorschriften
 
-
-
 ### Erster Abschnitt - Überleitungsvorschriften
-
-
 
 #### Art 10 Übergangsfassung einzelner Vorschriften
 
@@ -131,7 +116,6 @@ Jugendlichen geleistet werden, denen sonst Hilfe zur Erziehung nach §
 
 (3)
 
-
 #### Art 11 Übergangsvorschrift für Leistungen an seelisch behinderte junge Menschen
 
 (1) Abweichend von Artikel 1 § 10 Abs. 2 Satz 2 und § 35a gehen bis
@@ -141,7 +125,6 @@ Eingliederungshilfe nach dem Bundessozialhilfegesetz vor.
 
 (2) Landesrecht kann die Geltung von Absatz 1 ausschließen oder eine
 andere Übergangsfrist vorsehen.
-
 
 #### Art 12 Fortführung einer Einrichtung
 
@@ -168,7 +151,6 @@ geistige oder seelische Wohl der in der Einrichtung betreuten Kinder
 und Jugendlichen zu gefährden und eine unverzügliche Beseitigung der
 Gefährdung nicht zu erwarten ist.
 
-
 #### Art 13 Jugendhilfeausschuß, Landesjugendhilfeausschuß
 
 (1) Ein am Tage des Inkrafttretens dieses Gesetzes bestehender und
@@ -182,7 +164,6 @@ nach § 21 Abs. 3 des Gesetzes für Jugendwohlfahrt zusammengesetzter
 Landesjugendwohlfahrtsausschuß gilt als Landesjugendhilfeausschuß, bis
 aufgrund landesrechtlicher Regelung ein neuer
 Landesjugendhilfeausschuß gebildet wird.
-
 
 #### Art 14 Örtliche Zuständigkeit, Kostenerstattung
 
@@ -203,7 +184,6 @@ wurden, bis zum 1. April 1993 für die Kostenerstattung die §§ 103 bis
 111 des Bundessozialhilfegesetzes entsprechend anzuwenden, solange die
 Hilfe ohne Unterbrechung weitergewährt wird; eine Unterbrechung der
 Hilfe von bis zu drei Monaten bleibt außer Betracht.
-
 
 #### Art 15 Sachliche Zuständigkeit des Landesjugendamts
 
@@ -229,7 +209,6 @@ eine andere Übergangsfrist vorsehen.
 auskunftspflichtig für Erhebungen nach Artikel 1 § 99 Abs. 1 Nr. 3,
 sofern nicht Landesrecht nach Absatz 2 eine andere Regelung trifft.
 
-
 #### Art 16 Fortgeltung von Verwaltungsakten
 
 Nach dem Tag des Inkrafttretens dieses Gesetzes gelten fort:
@@ -251,10 +230,6 @@ Nach dem Tag des Inkrafttretens dieses Gesetzes gelten fort:
 4.  eine aufgrund des § 53 des Gesetzes für Jugendwohlfahrt erteilte
     Eignungserklärung als Erlaubnis nach Artikel 1 § 54 Abs. 2 dieses
     Gesetzes.
-
-
-
-
 
 #### Art 17 Öffentlich-rechtliche Streitigkeiten
 
@@ -302,7 +277,6 @@ wird.
 § 161 Abs. 2 der Verwaltungsgerichtsordnung ist entsprechend
 anzuwenden.
 
-
 #### Art 18 Verfahren vor dem Vormundschaftsgericht
 
 (1) Für Verfahren in Angelegenheiten nach dem Gesetz für
@@ -331,17 +305,13 @@ Fürsorgeerziehung hebt das Vormundschaftsgericht von Amts wegen auf
 und prüft gleichzeitig, ob Maßnahmen nach § 1666 des Bürgerlichen
 Gesetzbuchs erforderlich sind.
 
-
 #### Art 19 Eintragungen im Erziehungsregister
 
 Eintragungen über die Anordnung der Erziehungsbeistandschaft oder der
 Fürsorgeerziehung durch den Vormundschaftsrichter werden aus dem
 Erziehungsregister entfernt.
 
-
 ### Zweiter Abschnitt - Schlußvorschriften
-
-
 
 #### Art 20 Einschränkung von Grundrechten
 
@@ -349,7 +319,6 @@ Die Grundrechte der Freiheit der Person (Artikel 2 Abs. 2 Satz 2 des
 Grundgesetzes), der Freizügigkeit (Artikel 11 des Grundgesetzes) und
 der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes)
 werden nach Maßgabe dieses Gesetzes eingeschränkt.
-
 
 #### Art 21 Zuständigkeit für die Kostenerstattung aufgrund der deutsch-schweizerischen Fürsorgevereinbarung
 
@@ -362,7 +331,6 @@ Leistungen der Jugendhilfe das Landesjugendamt, in dessen Bereich das
 Kind oder der Jugendliche geboren ist. Liegt der Geburtsort nicht im
 Geltungsbereich dieses Gesetzes oder ist er nicht zu ermitteln, so ist
 das Landesjugendamt Berlin zuständig.
-
 
 #### Art 22 Stadtstaatenklausel
 
@@ -379,10 +347,6 @@ Gesetzes über
 3.  die Bildung, Zusammensetzung und die Befugnisse von Jugendhilfe- und
     Landesjugendhilfeausschüssen; dabei haben sie für eine angemessene
     Beteiligung der anerkannten Träger der freien Jugendhilfe zu sorgen.
-
-
-
-
 
 #### Art 23 Inkrafttreten
 

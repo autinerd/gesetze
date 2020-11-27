@@ -16,11 +16,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2000, 2045
 
-
-
 ## Erster Abschnitt - Ausgabe einer 1-DM Goldmünze
-
-
 
 ### § 1 Ausgabe durch die Deutsche Bundesbank
 
@@ -28,7 +24,6 @@ Die Deutsche Bundesbank wird ermächtigt, zum Gedenken an die Deutsche
 Mark im eigenen Namen im Jahre 2001 eine Münze in Gold über 1 Deutsche
 Mark (1-DM-Goldmünze) mit einer Auflage von bis zu einer Million Stück
 herauszugeben.
-
 
 ### § 2 Gestalt der 1-DM-Goldmünze
 
@@ -43,12 +38,10 @@ Goldmünze fest.
 (3) Die Gestaltung und die technischen Merkmale der 1-DM-Goldmünze
 sind im Bundesanzeiger bekannt zu machen.
 
-
 ### § 3 Gesetzliches Zahlungsmittel
 
 Die 1-DM-Goldmünzen sind nach Maßgabe des § 4 bis zum Ablauf des 31.
 Dezember 2001 gesetzliches Zahlungsmittel.
-
 
 ### § 4 Annahme- und Umtauschpflicht
 
@@ -58,7 +51,6 @@ Zahlungsmittel umzutauschen.
 
 (2) Für den Umtausch der 1-DM-Goldmünzen ab 1. Januar 2002 gilt die
 Bestimmung des § 1 Satz 2 des DM-Beendigungsgesetzes entsprechend.
-
 
 ### § 5 Prägung und Vergütung
 
@@ -75,7 +67,6 @@ gleichmäßige und angemessene Vergütung.
 (3) Die zur Ausprägung erforderlichen Münzmetalle werden den
 Münzstätten von der Deutschen Bundesbank zugewiesen.
 
-
 ### § 6 Inverkehrbringen
 
 Die 1-DM-Goldmünzen werden unbeschadet des Artikels 106 Abs. 2 Satz 1
@@ -83,14 +74,12 @@ des Vertrages zur Gründung der Europäischen Gemeinschaft durch die
 Deutsche Bundesbank und die Verkaufsstelle für Sammlermünzen bei der
 Bundesschuldenverwaltung in den Verkehr gebracht.
 
-
 ### § 7 Ausgabepreis
 
 Die Deutsche Bundesbank bestimmt den Ausgabepreis der 1-DM-Goldmünze
 nach dem Marktpreis für Gold am Tag vor der Erstausgabe zuzüglich
 eines marktüblichen Ausgabeaufschlags. Sie kann den Ausgabepreis wegen
 einer Änderung des Goldpreises im Absatzzeitraum verändern.
-
 
 ### § 8 Erlösverwendung
 
@@ -104,16 +93,12 @@ Sanierung der Berliner Museumsinsel einzusetzen.
 (3) Die Deutsche Bundesbank kehrt den Nettoerlös am 2. Januar 2002
 aus.
 
-
 ### § 9 Anwendung der Bußgeldvorschriften des Münzgesetzes
 
 § 13 des Münzgesetzes vom 16. Dezember 1999 (BGBl. I S. 2402) gilt
 nicht für die 1-DM-Goldmünzen.
 
-
 ## Zweiter Abschnitt - Stiftung "Geld und Währung"
-
-
 
 ### § 10 Errichtung der Stiftung
 
@@ -122,7 +107,6 @@ des öffentlichen Rechts errichtet. Die Stiftung entsteht am 1. Januar
 2002\.
 
 (2) Der Sitz der Stiftung ist Frankfurt am Main.
-
 
 ### § 11 Stiftungszweck
 
@@ -144,10 +128,6 @@ Währungswesens.
     Veranstaltungen und Diskussionsforen mit deutscher und internationaler
     Beteiligung.
 
-
-
-
-
 ### § 12 Stiftungsvermögen
 
 (1) Die Deutsche Bundesbank verwaltet das der Stiftung nach § 8 Abs. 1
@@ -163,7 +143,6 @@ anzunehmen.
 (4) Im Falle der Beendigung der Stiftung fällt ihr Vermögen der
 Deutschen Bundesbank zu.
 
-
 ### § 13 Satzung
 
 Die Stiftung gibt sich im Einvernehmen mit der Deutschen Bundesbank
@@ -172,11 +151,9 @@ die vom Stiftungsrat mit einer Mehrheit von sechs Siebteln seiner
 Mitglieder beschlossen wird. Das Gleiche gilt für Änderungen der
 Satzung.
 
-
 ### § 14 Stiftungsorgane
 
 Organe der Stiftung sind der Stiftungsrat und der Vorstand.
-
 
 ### § 15 Stiftungsrat
 
@@ -204,7 +181,6 @@ seiner Mitglieder anwesend ist. Beschlüsse werden mit einfacher
 Mehrheit gefasst; bei Stimmengleichheit entscheidet die Stimme des
 Vorsitzenden.
 
-
 ### § 16 Vorstand
 
 (1) Der Vorstand besteht aus drei Mitgliedern. Sie werden vom
@@ -218,12 +194,10 @@ die Überwachung ihrer zweckentsprechenden und wirtschaftlichen
 Verwendung verantwortlich. Er vertritt die Stiftung gerichtlich und
 außergerichtlich. Das Nähere regelt die Satzung.
 
-
 ### § 17 Neben- und ehrenamtliche Tätigkeit
 
 Die Mitglieder des Stiftungsrates und des Vorstandes sind, soweit sie
 nicht nebenamtlich tätig sind, ehrenamtlich tätig.
-
 
 ### § 18 Aufsicht
 
@@ -234,10 +208,7 @@ der Finanzen.
 Rechnungslegung der Stiftung finden die für die Bundesverwaltung
 geltenden Bestimmungen entsprechende Anwendung.
 
-
 ## Dritter Abschnitt
-
-
 
 ### § 19 Inkrafttreten
 

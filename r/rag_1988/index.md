@@ -15,17 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1988, 581
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Erster Abschnitt - Rentenversicherung
-
-
 
 ### § 1 Grundsatz
 
@@ -33,7 +28,6 @@ Aus Anlaß des Anstiegs der allgemeinen Bemessungsgrundlage vom Jahr
 1987 auf das Jahr 1988 werden die Renten der gesetzlichen
 Rentenversicherung einschließlich Knappschaftsausgleichsleistungen zum
 1\. Juli 1988 nach dem §§ 2 bis 5 dieses Gesetzes angepaßt.
-
 
 ### § 2 Formelrenten
 
@@ -60,13 +54,11 @@ nach § 3 angepaßt. Eine Rente, die nach Artikel 2 § 24 Abs. 5 des
 Knappschaftsrentenversicherungs-Neuregelungsgesetzes gezahlt wird,
 wird nach Absatz 1 angepaßt.
 
-
 ### § 3 Sonstige Renten
 
 Renten, die nicht nach § 2 Abs. 1 anzupassen sind, werden dadurch
 angepaßt, daß der sich für den Monat Juli 1988 ergebende
 anpassungsfähige Rentenbetrag um 3 vom Hundert erhöht wird.
-
 
 ### § 4 Allgemeines
 
@@ -85,7 +77,6 @@ Aufwendungen für die Krankenversicherung.
 (3) Bei Anwendung der Vorschriften dieses Gesetzes sind Abrundungen
 zulässig.
 
-
 ### § 5 Allgemeine Bemessungsgrundlage
 
 Die allgemeine Bemessungsgrundlage für das Jahr 1988 beträgt
@@ -103,29 +94,19 @@ Die allgemeine Bemessungsgrundlage für das Jahr 1988 beträgt
 
     *   30.129 Deutsche Mark.
 
-
-
-
-
 ## Zweiter Abschnitt - Unfallversicherung
-
-
 
 ### § 6 Anpassungsfaktor
 
 Der Anpassungsfaktor für die vom 1. Juli 1988 an anzupassenden
 Geldleistungen der gesetzlichen Unfallversicherung beträgt 1,03.
 
-
 ### § 7 Pflegegeld
 
 Das Pflegegeld beträgt vom 1. Juli 1988 an zwischen 426 Deutsche Mark
 und 1.706 Deutsche Mark monatlich.
 
-
 ## Dritter Abschnitt - Schlußvorschriften
-
-
 
 ### § 8 Berlin-Klausel
 

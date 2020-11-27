@@ -17,17 +17,13 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1964, 453
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat das folgende Gesetz beschlossen:
 
-
 ## Art 1
 
 -
-
 
 ## Art 2
 
@@ -37,12 +33,10 @@ Lastenausgleichsgesetzes) angewendet. Für die Anwendung der §§ 266,
 272, 273, 280 und 282 des Lastenausgleichsgesetzes gilt das Abkommen
 vom 1. Juni 1961 an.
 
-
 ## Art 3
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
-
 
 ## Art 4
 

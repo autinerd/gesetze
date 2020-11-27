@@ -19,12 +19,10 @@ Fundstelle
 
 Stand: vgl. nur noch Fundstellennachweis B
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -38,7 +36,6 @@ Schiffahrt auf dem Untersee und dem Rhein zwischen Konstanz und
 Schaffhausen wird zugestimmt. Das Übereinkommen nebst Zusatzprotokoll
 und der Vertrag werden nachstehend veröffentlicht.
 
-
 ## Art 2
 
 Das Grundrecht der Freiheit der Person (Artikel 2 Abs. 2 des
@@ -47,12 +44,10 @@ Grundgesetzes) sowie das Grundrecht auf Unverletzlichkeit der Wohnung
 10 Abs. 2 des Übereinkommens und Artikel 11 Abs. 2 des Vertrages
 eingeschränkt.
 
-
 ## Art 3
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
-
 
 ## Art 4
 

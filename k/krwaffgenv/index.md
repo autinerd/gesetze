@@ -19,13 +19,11 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 5 G v. 27.7.2011 I 1595
 
-
 ## Eingangsformel
 
 Auf Grund des § 3 Abs. 4, § 4 Abs. 2 und § 8 Abs. 1 und 4 des Gesetzes
 über die Kontrolle von Kriegswaffen vom 20. April 1961
 (Bundesgesetzbl. I S. 444) verordnet die Bundesregierung:
-
 
 ## § 1
 
@@ -36,14 +34,12 @@ Verbringungsgenehmigung dieses Mitgliedstaates versandt werden und die
 Kriegswaffen zum endgültigen Verbleib in einem anderen Mitgliedstaat
 der Europäischen Union bestimmt sind.
 
-
 ## § 1a
 
 Für die Beförderung von Kriegswaffen zum Zweck der Einfuhr in das
 Bundesgebiet wird eine Allgemeine Genehmigung erteilt, soweit die
 Kriegswaffen aus einem Mitgliedstaat der Europäischen Union versandt
 werden und Empfänger der Kriegswaffen die Bundeswehr ist.
-
 
 ## § 1b
 
@@ -56,7 +52,6 @@ dieser Kriegswaffen ein im Bundesgebiet ansässiges Unternehmen ist,
 das gemäß § 2a des Außenwirtschaftsgesetzes in Verbindung mit § 21a
 der Außenwirtschaftsverordnung zertifiziert ist.
 
-
 ## § 1c
 
 Für die Beförderung von Kriegswaffen innerhalb des Bundesgebietes wird
@@ -64,7 +59,6 @@ eine Allgemeine Genehmigung erteilt, soweit der Versender und der
 Empfänger im Bundesgebiet ansässige Unternehmen sind, die gemäß § 2a
 des Außenwirtschaftsgesetzes in Verbindung mit § 21a der
 Außenwirtschaftsverordnung zertifiziert sind.
-
 
 ## § 2
 
@@ -94,7 +88,6 @@ wird allgemein genehmigt, soweit die Voraussetzungen des Absatzes 1
 Buchstaben a und b vorliegen und die Kriegswaffen außerhalb des
 Bundesgebietes ausgeladen werden.
 
-
 ## § 3
 
 Die Beförderung von Kriegswaffen mit Seeschiffen, die die Bundesflagge
@@ -104,12 +97,10 @@ Kriegswaffen außerhalb des Bundesgebietes eingeladen, durch das
 Bundesgebiet nicht durchgeführt und in einem der in §§ 1 oder 2 Abs. 1
 Buchstabe c genannten Staaten ausgeladen werden.
 
-
 ## § 3a
 
 Die Allgemeinen Genehmigungen nach den §§ 1 bis 3 gelten nicht für die
 Beförderung von Antipersonenminen oder Streumunition.
-
 
 ## § 4
 

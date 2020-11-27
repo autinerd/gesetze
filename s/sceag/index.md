@@ -19,10 +19,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 7 G v. 30.7.2009 I 2479
 
-
 ## Abschnitt 1 - Allgemeine Vorschriften
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -30,7 +27,6 @@ Dieses Gesetz ist auf Europäische Genossenschaften mit Sitz im Inland
 anzuwenden; im Übrigen gilt die Verordnung (EG) Nr. 1435/2003 des
 Rates vom 22. Juli 2003 über das Statut der Europäischen
 Genossenschaft (SCE) (ABl. EU Nr. L 207 S. 1).
-
 
 ### § 2 Kontrolle der Gründung
 
@@ -42,7 +38,6 @@ den Prüfungsverband nach § 54 des Genossenschaftsgesetzes, dem die
 Europäische Genossenschaft nach Artikel 71 der Verordnung (EG) Nr.
 1435/2003 angehören muss (Prüfungsverband), durchzuführen.
 
-
 ### § 3 Eintragung
 
 Die Europäische Genossenschaft wird entsprechend den für
@@ -50,7 +45,6 @@ Aktiengesellschaften geltenden Vorschriften in das
 Genossenschaftsregister eingetragen. Der Anmeldung zur Eintragung ist
 zusätzlich die Bescheinigung des Prüfungsverbandes beizufügen, dass
 die Europäische Genossenschaft zum Beitritt zugelassen ist.
-
 
 ### § 4 Zulassung investierender Mitglieder
 
@@ -60,10 +54,7 @@ Nutzung oder Erbringung der Dienste der Europäischen Genossenschaft
 nicht in Frage kommen, als investierende Mitglieder zugelassen werden
 können.
 
-
 ## Abschnitt 2 - Gründung einer Europäischen Genossenschaft durch Verschmelzung
-
-
 
 ### § 5 Bekanntmachung
 
@@ -74,14 +65,12 @@ zusammen mit dem nach § 61 Satz 2 des Umwandlungsgesetzes
 vorgeschriebenen Hinweis bekannt zu machen, wobei sich dieser Hinweis
 auf die Einreichung zum Genossenschaftsregister zu beziehen hat.
 
-
 ### § 6 Verschmelzungsprüfer
 
 Die Prüfung des Verschmelzungsplans und die Erstellung des
 schriftlichen Berichts nach Artikel 26 der Verordnung (EG) Nr.
 1435/2003 erfolgt bei einer Genossenschaft mit Sitz im Inland durch
 den Prüfungsverband, dem die Genossenschaft angehört.
-
 
 ### § 7 Verbesserung des Umtauschverhältnisses
 
@@ -121,7 +110,6 @@ dieses Staates ein Verfahren zur Kontrolle und Änderung des
 Umtauschverhältnisses der Anteile vorgesehen ist und deutsche Gerichte
 für die Durchführung eines solchen Verfahrens international zuständig
 sind.
-
 
 ### § 8 Ausschlagung durch einzelne Mitglieder
 
@@ -174,7 +162,6 @@ zwei Monate seit dem Tag abgelaufen sind, an dem die Verschmelzung im
 Sitzstaat der Europäischen Genossenschaft nach den dort geltenden
 Vorschriften eingetragen und bekannt gemacht worden ist.
 
-
 ### § 9 Gläubigerschutz bei Verschmelzung
 
 Liegt der künftige Sitz der Europäischen Genossenschaft im Ausland,
@@ -185,10 +172,7 @@ versichern, dass allen Gläubigern, die nach Satz 1 einen Anspruch auf
 Sicherheitsleistung haben, eine angemessene Sicherheit geleistet
 wurde.
 
-
 ## Abschnitt 3 - Sitz und Sitzverlegung
-
-
 
 ### § 10 Auseinanderfallen von Sitzstaat und Hauptverwaltung
 
@@ -209,7 +193,6 @@ Genossenschaft nach den § 395 in Verbindung mit § 393 Abs. 3 und 4 des
 Gesetzes über das Verfahren in Familiensachen und in den
 Angelegenheiten der freiwilligen Gerichtsbarkeit als nichtig zu
 löschen.
-
 
 ### § 11 Gläubigerschutz bei Sitzverlegung; Negativerklärung
 
@@ -243,24 +226,15 @@ Abs. 8 der Verordnung (EG) Nr. 1435/2003 nur aus, wenn
     nicht fristgemäß erhoben oder eine solche Klage rechtskräftig
     abgewiesen oder zurückgenommen worden ist.
 
-
-
-
-
 ## Abschnitt 4 - Aufbau der Europäischen Genossenschaft
 
-
-
 ### Unterabschnitt 1 - Dualistisches System
-
-
 
 #### § 12 Bestellung der Mitglieder des Leitungsorgans
 
 Die Satzung der Europäischen Genossenschaft kann festlegen, dass die
 Mitglieder des Leitungsorgans von der Generalversammlung gewählt und
 abberufen werden.
-
 
 #### § 13 Wahrnehmung der Geschäftsleitung durch Mitglieder des Aufsichtsorgans
 
@@ -269,12 +243,10 @@ Aufgaben eines Mitglieds des Leitungsorgans nach Artikel 37 Abs. 3
 Satz 2 der Verordnung (EG) Nr. 1435/2003 ist nur für einen im Voraus
 begrenzten Zeitraum zulässig.
 
-
 #### § 14 Zahl der Mitglieder des Leitungsorgans
 
 Das Leitungsorgan muss aus mindestens zwei Personen bestehen. Die
 Satzung kann eine höhere Zahl vorsehen.
-
 
 #### § 15 Zahl der Mitglieder und Zusammensetzung des Aufsichtsorgans
 
@@ -294,17 +266,13 @@ zugewiesenen Sitze geltend gemacht werden kann. Für die
 Arbeitnehmervertreter aus dem Inland gilt § 37 Abs. 2 des SCE-
 Beteiligungsgesetzes.
 
-
 #### § 16 Informationsverlangen einzelner Mitglieder des Aufsichtsorgans
 
 Jedes Mitglied des Aufsichtsorgans kann vom Leitungsorgan jegliche
 Information nach Artikel 40 Abs. 3 Satz 1 der Verordnung (EG) Nr.
 1435/2003, jedoch nur an das Aufsichtsorgan, verlangen.
 
-
 ### Unterabschnitt 2 - Monistisches System
-
-
 
 #### § 17 Anmeldung und Eintragung
 
@@ -328,7 +296,6 @@ Verwaltungsrats und der geschäftsführenden Direktoren beizufügen.
 deren Vertretungsbefugnis anzugeben.
 
 (4) (weggefallen)
-
 
 #### § 18 Aufgaben und Rechte des Verwaltungsrats
 
@@ -360,7 +327,6 @@ oder dem Aufsichtsrat einer Genossenschaft Rechte oder Pflichten
 zuweisen, gelten für den Verwaltungsrat entsprechend, soweit nicht in
 diesem Gesetz für den Verwaltungsrat und für geschäftsführende
 Direktoren besondere Regelungen enthalten sind.
-
 
 #### § 19 Zahl der Mitglieder und Zusammensetzung des Verwaltungsrats
 
@@ -407,7 +373,6 @@ angehören, welches die Voraussetzungen nach § 19 Abs. 1 Satz 2
 erfüllt, und darf der Vorsitzende des Prüfungsausschusses kein
 geschäftsführender Direktor sein.
 
-
 #### § 20 Abberufung der Mitglieder des Verwaltungsrats
 
 Mitglieder des Verwaltungsrats, die von der Generalversammlung ohne
@@ -415,13 +380,11 @@ Bindung an einen Wahlvorschlag gewählt worden sind, können von ihr vor
 Ablauf der Amtszeit abberufen werden. Der Beschluss bedarf einer
 Mehrheit von mindestens drei Vierteln der abgegebenen Stimmen.
 
-
 #### § 21 Sorgfaltspflicht und Verantwortlichkeit der Verwaltungsratsmitglieder
 
 Für die Sorgfaltspflicht und Verantwortlichkeit der
 Verwaltungsratsmitglieder gilt § 34 des Genossenschaftsgesetzes
 entsprechend.
-
 
 #### § 22 Geschäftsführende Direktoren
 
@@ -471,7 +434,6 @@ entsprechend.
 (7) Die Vorschriften über die geschäftsführenden Direktoren gelten
 auch für ihre Stellvertreter.
 
-
 #### § 23 Vertretung
 
 (1) Die geschäftsführenden Direktoren vertreten die Europäische
@@ -503,11 +465,9 @@ Prokuristen zur Vertretung der Europäischen Genossenschaft befugt ist.
 Verwaltungsrat die Europäische Genossenschaft gerichtlich und
 außergerichtlich.
 
-
 #### § 24 (weggefallen)
 
 -
-
 
 #### § 25 Angaben auf Geschäftsbriefen
 
@@ -522,7 +482,6 @@ ausgeschriebenen Vornamen angegeben werden.
 
 (2) § 25a Abs. 2 und 3 des Genossenschaftsgesetzes gilt entsprechend.
 
-
 #### § 26 Anmeldung von Änderungen
 
 Die geschäftsführenden Direktoren haben jede sie betreffende Änderung
@@ -530,7 +489,6 @@ des Verwaltungsrats sowie die Bestellung, Abberufung und Änderung der
 Vertretungsbefugnis von geschäftsführenden Direktoren zur Eintragung
 in das Genossenschaftsregister anzumelden. § 17 Abs. 2 gilt
 entsprechend.
-
 
 #### § 27 Aufstellung, Prüfung und Feststellung des Jahresabschlusses
 
@@ -544,10 +502,7 @@ unverzüglich der Generalversammlung zum Zweck der Feststellung vor.
 Prüfungsberichten Kenntnis zu nehmen. Die Vorlagen und
 Prüfungsberichte sind jedem Verwaltungsratsmitglied auszuhändigen.
 
-
 ### Unterabschnitt 3 - Generalversammlung
-
-
 
 #### § 28 Einberufung durch Prüfungsverband
 
@@ -555,14 +510,12 @@ Unter den Voraussetzungen des § 60 des Genossenschaftsgesetzes ist
 auch der Prüfungsverband berechtigt, eine außerordentliche
 Generalversammlung der Europäischen Genossenschaft einzuberufen.
 
-
 #### § 29 Mehrstimmrechte
 
 Die Satzung der Europäischen Genossenschaft kann Mitgliedern im Rahmen
 des Artikels 59 Abs. 2 der Verordnung (EG) Nr. 1435/2003 nach Maßgabe
 des § 43 Abs. 3 Satz 3 des Genossenschaftsgesetzes Mehrstimmrechte
 einräumen.
-
 
 #### § 30 Stimmrechte investierender Mitglieder
 
@@ -576,7 +529,6 @@ Generalversammlung, für die nach Gesetz oder Satzung eine Mehrheit von
 mindestens drei Vierteln der abgegebenen Stimmen vorgeschrieben ist,
 durch investierende Mitglieder nicht verhindert werden können.
 
-
 #### § 31 Sektor- und Sektionsversammlungen
 
 Die Satzung der Europäischen Genossenschaft kann im Rahmen des
@@ -585,10 +537,7 @@ Sektionsversammlung vorsehen. § 43a Abs. 7 des Genossenschaftsgesetzes
 ist entsprechend anzuwenden, soweit sich aus Artikel 55 der Verordnung
 (EG) Nr. 1435/2003 nichts anderes ergibt.
 
-
 ## Abschnitt 5 - Jahresabschluss und Lagebericht
-
-
 
 ### § 32 Aufstellung des Jahresabschlusses und Lageberichts
 
@@ -599,7 +548,6 @@ gelten die §§ 336 bis 338 des Handelsgesetzbuchs entsprechend.
 Kreditinstitut, gelten die §§ 340 bis 340j des Handelsgesetzbuchs
 entsprechend.
 
-
 ### § 33 Offenlegung
 
 (1) Für die Offenlegung gilt § 339 des Handelsgesetzbuchs
@@ -608,7 +556,6 @@ entsprechend.
 (2) Handelt es sich bei der Europäischen Genossenschaft um ein
 Kreditinstitut, gelten die §§ 340l und 340o des Handelsgesetzbuchs
 entsprechend.
-
 
 ### § 34 Prüfung
 
@@ -619,10 +566,7 @@ bis 64c des Genossenschaftsgesetzes entsprechend.
 Kreditinstitut, gilt § 340k Abs. 1 und 2 des Handelsgesetzbuchs
 entsprechend.
 
-
 ## Abschnitt 6 - Zuständigkeits-, Straf- und Bußgeldvorschriften
-
-
 
 ### § 35 Zuständigkeiten
 
@@ -642,7 +586,6 @@ Antragsbehörde im Sinn des Artikels 73 Abs. 1 der Verordnung (EG) Nr.
 1435/2003 ist die zuständige oberste Landesbehörde nach § 63 des
 Genossenschaftsgesetzes, in deren Bezirk die Europäische
 Genossenschaft ihren Sitz hat.
-
 
 ### § 36 Straf- und Bußgeldvorschriften
 
@@ -693,10 +636,7 @@ bestraft, wer
 
 eine Versicherung nicht richtig abgibt.
 
-
 ## Abschnitt 7 - Schlussbestimmungen
-
-
 
 ### § 37 Übergangsvorschrift zum Bilanzrechtsmodernisierungsgesetz
 
@@ -704,7 +644,6 @@ eine Versicherung nicht richtig abgibt.
 Bilanzrechtsmodernisierungsgesetzes vom 25. Mai 2009 (BGBl. I S. 1102)
 finden keine Anwendung, solange alle Mitglieder des Verwaltungsrats
 und des Prüfungsausschusses vor dem 29. Mai 2009 bestellt worden sind.
-
 
 ### § 38 Übergangsvorschrift zum Gesetz zur Umsetzung der Aktionärsrechterichtlinie
 

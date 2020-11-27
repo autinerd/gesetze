@@ -15,12 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 1219, 1220
 
-
-
 ## § 1
 
 -
-
 
 ## § 2 Einführung neuer Zinssätze
 

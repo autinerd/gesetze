@@ -21,7 +21,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 58 V v. 25.11.2003 I 2304
 
-
 ## § 1 Zweck der Förderung
 
 (1) Zur Förderung des wissenschaftlichen, vornehmlich des
@@ -39,7 +38,6 @@ für bestimmte Fachgebiete oder Personengruppen bleiben unberührt.
 (4) Die vom Bund finanzierte Promotionsförderung der
 Hochbegabtenförderungswerke bleibt durch die Bestimmungen dieses
 Gesetzes unberührt.
-
 
 ## § 2 Förderung der Promotion
 
@@ -61,7 +59,6 @@ Studienordnung einen Abschluß nicht vorsieht. Die Förderung beginnt in
 diesen Fällen ein halbes Jahr vor Ablauf der in der Promotionsordnung
 vorgeschriebenen Studiendauer.
 
-
 ## § 3 Förderung eines weiteren Studiums
 
 Wer ein Hochschulstudium abgeschlossen hat, das die Zulassung zur
@@ -72,7 +69,6 @@ Stipendium erhalten, wenn seine Studien- und Prüfungsleistungen eine
 besondere Befähigung zu wissenschaftlicher Arbeit erkennen lassen. Das
 weitere Studium muß an einer im Geltungsbereich dieses Gesetzes
 gelegenen Hochschule eingerichtet worden sein.
-
 
 ## § 4 Auswahl der Bewerber
 
@@ -86,7 +82,6 @@ in Aussicht genommenen Vorhabens auszuwählen.
 (2) Bewerber, deren wissenschaftliche Vorhaben auf die
 Forschungsplanung der Hochschule oder der Fachbereiche abgestimmt
 sind, können vorrangig gefördert werden.
-
 
 ## § 5 Staatsangehörigkeit
 
@@ -109,16 +104,11 @@ Stipendien können erhalten
     des Arbeitnehmerüberlassungsgesetzes vom 25. Juni 1975
     (Bundesgesetzbl. I S. 1542),                    anerkannt sind.
 
-
-
-
-
 ## § 6 Stellung des Stipendiaten zur Hochschule
 
 Der Stipendiat muß Student an einer im Geltungsbereich dieses Gesetzes
 gelegenen Hochschule sein. Er kann seinen für die Promotion zu
 erbringenden wissenschaftlichen Beitrag auch im Ausland leisten.
-
 
 ## § 7 Art der Förderung
 
@@ -127,7 +117,6 @@ Reisekosten werden als Zuschüsse gewährt. Sie sind Zuwendungen im
 Sinne des Haushaltsrechts. Der Verwendungsnachweis beschränkt sich auf
 die in diesem Gesetz und auf Grund dieses Gesetzes vorgesehenen
 Leistungsnachweise.
-
 
 ## § 7a Darlehensbedingungen
 
@@ -190,7 +179,6 @@ Bundesausbildungsförderungsgesetz oder den in § 59 Abs. 2 Nr. 2 und
 Abs. 3 des Bundesausbildungsförderungsgesetzes bezeichneten
 Vorschriften zu tilgen hat, Absatz 4 Satz 3 bis 5 gilt entsprechend.
 
-
 ## § 7b Rückzahlungspflicht
 
 Haben die Voraussetzungen für die Leistung der Graduiertenförderung an
@@ -215,10 +203,6 @@ Förderungsbetrag zu erstatten, als
 4.  Tatsachen erkennen lassen, daß der Stipendiat sich nicht in
     erforderlichem und in zumutbarem Maße um die Verwirklichung des Zwecks
     der Gewährung bemüht.
-
-
-
-
 
 ## § 8 Dauer der Förderung
 
@@ -252,13 +236,6 @@ ist.
     b)  mit Ablauf des Monats, in dem der Stipendiat eine entgeltliche
         berufliche Tätigkeit aufnimmt.
 
-
-
-
-
-
-
-
 ## § 9 Nebentätigkeit
 
 (1) Übt der Stipendiat neben der Vorbereitung auf die Promotion oder
@@ -282,7 +259,6 @@ Förderung nach diesem Gesetz ausgeschlossen.
 Der Stipendiat ist zur Übernahme einer dieser Tätigkeiten nicht
 verpflichtet.
 
-
 ## § 10 Pfändungsschutz
 
 (1) Der Anspruch auf Auszahlung des Stipendienbetrages kann nicht
@@ -300,7 +276,6 @@ nachzuweisen, daß die in Satz 1 genannten Voraussetzungen vorliegen.
 (3) Für die Pfändung von Bargeld gilt § 811 Nr. 8 der
 Zivilprozeßordnung.
 
-
 ## § 11 Zuständigkeit
 
 Die Vergabe der Stipendien und die Verteilung der Förderungsmittel auf
@@ -315,7 +290,6 @@ daß eine nach den näheren Bestimmungen des Landesrechts von den
 Hochschulen gebildete zentrale Kommission für die Förderung des
 wissenschaftlichen Nachwuchses sowie die Fachbereiche bzw. Fakultäten
 am Vergabeverfahren angemessen beteiligt sind.
-
 
 ## § 12 Verordnungsermächtigung
 
@@ -370,7 +344,6 @@ Landesregierungen die Ermächtigung mit dem Vorbehalt der Genehmigung
 durch die zuständige oberste Landesbehörde auf die Hochschulen
 übertragen.
 
-
 ## § 13 Finanzierung und Verteilung
 
 (1) In den Jahren 1971 bis 1979 trägt der Bund 75 vom Hundert und
@@ -397,7 +370,6 @@ oder das Land der Hochschule bis zu 50 vom Hundert der auf das Land
 bzw. die Hochschule entfallenden Mittel mit der Maßgabe zuweisen, daß
 sie Bewerbern bestimmter Fachbereiche oder Fachrichtungen
 vorzubehalten sind.
-
 
 ## § 14 Auftragsverwaltung
 
@@ -437,22 +409,16 @@ jährliche Mitteilung
 4.  die bei der Beendigung der Förderung erreichte Förderungsdauer sowie
     Zahl und Ergebnisse der Doktorprüfungen.
 
-
-
-
-
 ## § 14a Darlehensverwaltung
 
 Die nach diesem Gesetz geleisteten Darlehen werden durch das
 Bundesverwaltungsamt verwaltet und eingezogen.
-
 
 ## § 15 Übergangsvorschrift
 
 Für Stipendien, die vor dem 1. Januar 1976 gewährt worden sind, gilt
 bis zum Ende des Bewilligungszeitraumes dieses Gesetz in der bis zum
 31\. Dezember 1975 geltenden Fassung fort.
-
 
 ## § 16 Berlin-Klausel
 
@@ -461,7 +427,6 @@ Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes
 erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 Überleitungsgesetzes.
-
 
 ## § 17 Inkrafttreten
 

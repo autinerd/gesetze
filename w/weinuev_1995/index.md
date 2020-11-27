@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 V v 19.7.2011 I 1514 berücksichtigt
 
-
 ## Abschnitt 1 - Überwachung
-
-
 
 ### § 1 Vorschriftswidrige Erzeugnisse (zu § 27 Abs. 2 und § 33 Nr. 5 des Weingesetzes)
 
@@ -115,7 +112,6 @@ auch von diesem zu erstatten. Aus der Meldung muss sich die Art und
 Menge der Erzeugnisse sowie die Art der Abweichungen von den geltenden
 Bezeichnungsvorschriften ergeben.
 
-
 ### § 2 Ausnahmegenehmigung (zu § 27 Abs. 2 des Weingesetzes)
 
 (1) Die zuständige Stelle kann bei gesundheitlicher Unbedenklichkeit
@@ -155,10 +151,6 @@ richtet sich bei
 3.  Erzeugnissen im Rahmen der Erteilung der Zulassung zur Einfuhr nach
     dem Ort der Einfuhr.
 
-
-
-
-
 ### § 3 Versuchsgenehmigung (zu § 27 Abs. 2 des Weingesetzes)
 
 (1) Soweit in Rechtsakten der Europäischen Gemeinschaft oder
@@ -178,7 +170,6 @@ Weinverordnung genannten Zweck verfolgen, kann als Qualitätswein oder
 Prädikatswein eingestuft werden, wenn ein Zeugnis der zuständigen
 Stelle über die Einhaltung der Versuchsbedingungen vorgelegt wird.
 
-
 ### § 4 Vergällung von Weintrub (zu § 28 Abs. 3 Nr. 1 und 2 des Weingesetzes)
 
 Die Vergällung von Weintrub darf nur mit
@@ -192,10 +183,7 @@ Die Vergällung von Weintrub darf nur mit
 
 in einem Liter vorgenommen werden.
 
-
 ## Abschnitt 2 - Buchführung
-
-
 
 ### § 5 Buchführungspflichtiger Personenkreis (zu § 29 Abs. 1 Satz 1 Nr. 1 des Weingesetzes)
 
@@ -234,7 +222,6 @@ Einzelfall
 
 nicht übersteigt.
 
-
 ### § 6 Eingangs- und Ausgangsbücher (zu § 29 Abs. 1 Satz 1 Nr. 1 des Weingesetzes)
 
 Ein- und Ausgangsbücher im Sinne des Titels III Kapitel III der
@@ -250,10 +237,6 @@ Verordnung (EG) Nr. 436/2009 sind:
 
 
 4.  das Stoffbuch.
-
-
-
-
 
 ### § 7 Kellerbuch und Weinbuch (zu § 29 Abs. 1 Satz 1 Nr. 1 und Abs. 2 des Weingesetzes)
 
@@ -424,7 +407,6 @@ werden für Mengenverluste folgende zulässige Höchstsätze festgesetzt:
 Mengenverluste, die die in Satz 1 festgesetzten Höchstsätze
 überschreiten, sind der zuständigen Stelle unverzüglich mitzuteilen.
 
-
 ### § 8 Buch des Geschäftsvermittlers (zu § 29 Abs. 1 Satz 1 Nr. 1 und 2 des Weingesetzes)
 
 Geschäftsvermittler haben für die von ihnen vermittelten Erzeugnisse
@@ -457,7 +439,6 @@ Die Eintragungen können auf die Angabe des Begleitpapiers beschränkt
 werden, wenn entsprechende Durchschriften oder Abdrucke gesammelt
 werden und in zeitlicher Reihenfolge geordnet vorliegen.
 
-
 ### § 9 Stoffbuch (zu § 29 Abs. 1 Satz 1 Nr. 1 und 2 des Weingesetzes)
 
 In das Stoffbuch sind von den in Artikel 43 Absatz 1 Satz 1 der
@@ -466,7 +447,6 @@ dort aufgeführten Erzeugnisse und Stoffe jeweils auf einem gesonderten
 Konto einzutragen. Jedes Erzeugnis und jeder Stoff ist mit seiner
 Verkehrsbezeichnung anzugeben und seine Verwendung für jedes
 betroffene Erzeugnis gesondert einzutragen.
-
 
 ### § 10 Zusätzliche Pflichten (zu § 29 Abs. 1 Satz 1 Nr. 1 und 2 des Weingesetzes)
 
@@ -522,7 +502,6 @@ Begleitpapiere müssen in den Geschäftsräumen aufbewahrt werden.
 zur Aufbewahrung von Büchern oder Unterlagen oder zur Meldung oder
 Eintragung in bestimmte Register bleiben unberührt.
 
-
 ### § 11 Ausnahmen und Erleichterungen (zu § 29 Abs. 1 Satz 1 Nr. 1 und Abs. 2 erster Halbsatz i.V.m. § 53 Abs. 1 und § 54 Abs. 1 des Weingesetzes)
 
 (1) Soweit Erzeuger selbst erzeugte Trauben abgeben, ohne dass eine
@@ -542,7 +521,6 @@ aller Begleitpapiere als Buchführung.
 Voraussetzungen des Artikels 45 Absatz 1 Unterabsatz 2 der Verordnung
 (EG) Nr. 436/2009 bis zu 30 Tage nach dem Zeitpunkt des Vorganges
 erfolgen.
-
 
 ### § 12 Buchführungsverfahren (zu § 29 Abs. 1 Satz 1 Nr. 1 und Abs. 2 erster Halbsatz i.V.m. § 53 Abs. 1 und § 54 Abs. 1 des Weingesetzes)
 
@@ -568,10 +546,6 @@ Stelle.
 
 2.  das Verfahren für die Genehmigung und die allgemeine Zulassung nach
     Absatz 1.
-
-
-
-
 
 ### § 13 Analysenbuchführung (zu § 29 Abs. 1 Satz 1 Nr. 3 und Abs. 2 erster Halbsatz i. V. m. § 54 Abs. 1 des Weingesetzes)
 
@@ -607,7 +581,6 @@ Rechtsverordnung die Einzelheiten der Analysenbuchführung nach Satz 1.
 werden. Die Aufbewahrungsfrist beginnt mit dem Schluss des
 Kalenderjahres, in dem die letzte Eintragung gemacht worden ist.
 
-
 ### § 14 Herbstbuch, tägliche Erntefeststellung (zu § 29 Abs. 1 Satz 1 Nr. 1 und Abs. 2 Nr. 1 und 2 i.V.m. § 54 Abs. 1 des Weingesetzes)
 
 (1) Wer Weintrauben erntet, hat täglich
@@ -637,7 +610,6 @@ Erzeugerzusammenschlusses treten, soweit diese die geforderten Angaben
 enthalten. In diesem Fall sind die Bestätigungen fortlaufend zu
 numerieren und gesammelt aufzubewahren.
 
-
 ### § 15 Vereinfachte Regelungen (zu § 29 Abs. 1 Satz 1 Nr. 1 des Weingesetzes)
 
 Die Eintragungen im Herbstbuch können die Eintragungen in das
@@ -646,7 +618,6 @@ die Ernte folgenden Jahres ersetzen, sofern die nach den §§ 7 und 9
 erforderlichen Angaben im Herbstbuch erfolgen. Abweichungen, die sich
 aus der Mengenschätzung am Tag der Ernte ergeben, sind durch
 Korrekturbuchungen zu bereinigen.
-
 
 ### § 16 Buchführung, Ermächtigungen (zu § 29 Abs. 1 Satz 1 Nr. 1 und Abs. 2 Nr. 1, 2, 3 Buchstabe a, Nr. 6 und 8 i.V.m. § 54 Abs. 1 des Weingesetzes)
 
@@ -659,7 +630,6 @@ von der Befugnis des Satzes 1 Gebrauch machen, haben sie die
 Einzelheiten der Buchführung, insbesondere die Gestaltung der Bücher
 sowie die Dauer ihrer Aufbewahrung, zu regeln.
 
-
 ### § 17 Art der Eintragungen (zu § 29 Abs. 2 erster Halbsatz des Weingesetzes)
 
 Die Angaben in den Ein- und Ausgangsbüchern einschließlich des
@@ -670,10 +640,7 @@ dürfen nicht unleserlich gemacht oder ohne Sichtbarmachung geändert
 werden. In die Buchführung dürfen nicht vorgeschriebene Eintragungen
 nur gemacht werden, soweit dadurch die Übersichtlichkeit nicht leidet.
 
-
 ## Abschnitt 3 - Begleitpapiere
-
-
 
 ### § 18 Ausnahmevorschrift (zu § 30 Satz 1 Nr. 2 des Weingesetzes)
 
@@ -691,10 +658,6 @@ Weinbereitungsanlage des Erzeugerzusammenschlusses. Satz 1 gilt bei
 2.  anderen Erzeugnissen nur für die Beförderung innerhalb der
     Weinbauzone, aus der die beförderten Erzeugnisse stammen.
 
-
-
-
-
 ### § 19 Vorgeschriebenes Begleitpapier für nicht abgefüllte Erzeugnisse (zu § 30 Satz 1 Nummer 2 des Weingesetzes)
 
 Für die Beförderung der in Artikel 24 Absatz 1 Buchstabe b der
@@ -703,7 +666,6 @@ einem Nennvolumen von mehr als 60 Litern, die im Inland beginnt, ist
 ein Begleitpapier nach dem in Anhang VII der genannten Verordnung
 aufgeführten Muster zu verwenden und unter Berücksichtigung des
 Anhangs VI der genannten Verordnung auszustellen.
-
 
 ### § 20 Begleitpapier, Hektarertrag (zu § 30 Satz 1 Nr. 2 des Weingesetzes)
 
@@ -722,7 +684,6 @@ andere abgibt, hat in das Begleitpapier deutlich sichtbar und gut
 lesbar die Wörter „Grundwein – mit eingeschränktem Verwendungszweck“
 einzutragen. Absatz 1 Satz 2 gilt entsprechend.
 
-
 ### § 21 Ergänzende Vorschriften für den Versand von Teilmengen (zu § 30 Satz 1 Nr. 2 des Weingesetzes)
 
 Die nach Anhang VI Abschnitt A Nummer 8 Satz 2 der Verordnung (EG) Nr.
@@ -736,7 +697,6 @@ Begleitpapiere kann dem Empfänger ein vom Verfügungsberechtigten der
 Gesamtmenge ausgestelltes Begleitpapier ausgehändigt werden. Der
 Aussteller hat davon eine Kopie zusammen mit den Begleitpapieren nach
 Satz 3 aufzubewahren. § 22 Abs. 1 bleibt unberührt.
-
 
 ### § 22 Kontrollvorschriften (zu § 30 Satz 1 Nr. 2 des Weingesetzes)
 
@@ -786,7 +746,6 @@ den Verladeort zuständigen Stelle zuzuleiten. Diese leitet eine Kopie
 unverzüglich der für den Entladeort zuständigen Stelle zu. Absatz 3
 ist entsprechend anzuwenden.
 
-
 ### § 23 Begleitpapier, Ermächtigungen (zu § 30 Satz 1 Nr. 2 i.V.m. § 53 Abs. 1 und § 54 Abs. 1 des Weingesetzes)
 
 Die Landesregierungen können, soweit bei der Beförderung von nicht
@@ -807,10 +766,6 @@ Begleitpapiers Verpflichtete
 2.  unverzüglich eine oder mehrere Kopien des Begleitpapiers der für den
     Verladeort zuständigen Stelle zuzuleiten hat.
 
-
-
-
-
 ### § 24 Begleitpapier, ergänzende Vorschrift (zu § 30 Satz 1 Nr. 2 des Weingesetzes)
 
 Bei unvergorenen Erzeugnissen, die ausschließlich im Inland befördert
@@ -818,17 +773,13 @@ werden, darf nach Maßgabe des Artikels 47 Absatz 1 Buchstabe d der
 Verordnung (EG) Nr. 436/2009 in den Begleitpapieren anstelle der
 Volumenmasse die Dichte in Grad Oechsle angegeben werden.
 
-
 ## Abschnitt 4 - Überwachung
-
-
 
 ### § 25 Durchführung der Überwachung (zu § 31 Abs. 4 Nr. 3 des Weingesetzes)
 
 Im Rahmen der Überwachung sind Rückstellproben der amtlichen
 Qualitätsweinprüfung zur Feststellung der Identität sowie bei der
 Herbstkontrolle Proben des geernteten Lesegutes zu entnehmen.
-
 
 ### § 26 Handhabung der Überprüfung (zu § 31 Abs. 4 Nr. 3 des Weingesetzes)
 
@@ -839,7 +790,6 @@ Maß hinaus eingegriffen wird.
 (2) Unmittelbar zu Beginn einer Überprüfung ist der Betriebsinhaber
 oder ein an seiner Stelle verantwortlicher Mitarbeiter über die
 Maßnahme in Kenntnis zu setzen.
-
 
 ### § 27 Entnahme von Proben (zu § 31 Abs. 4 Nr. 3 des Weingesetzes)
 
@@ -856,7 +806,6 @@ des in Satz 1 genannten Betriebes kann auf die Zurücklassung einer
 Probe verzichten.
 
 (3) (weggefallen)
-
 
 ### § 28 Zusammenarbeit der Überwachungsbehörden (zu § 31 Abs. 4 Nr. 3 des Weingesetzes)
 
@@ -881,10 +830,7 @@ diesen Betrieben koordiniert.
 Beurteilung zwischen den zuständigen Stellen verschiedener Länder ist
 zu gewährleisten.
 
-
 ## Abschnitt 5 - Meldungen
-
-
 
 ### § 29 Meldungen, Hektarerträge (zu § 33 Nr. 1 bis 3 i.V.m. § 53 Abs. 1 und § 54 Abs. 1 des Weingesetzes)
 
@@ -953,7 +899,6 @@ Verordnung (EG) Nr. 436/2009 entsprechen
 Verordnung (EG) Nr. 436/2009 gilt, wer im Einzelfall an einen
 Endverbraucher nicht mehr als 100 Liter Wein abgibt.
 
-
 ### § 30 Meldungen über önologische Verfahren (zu § 31 Abs. 4 Nr. 3 und § 33 Abs. 1 Nr. 6, jeweils i.V.m. § 53 Abs. 1 sowie § 54 Abs. 1 des Weingesetzes)
 
 (1) Zuständige Behörde für die Meldung über
@@ -1003,7 +948,6 @@ Rechtsverordnung nach Satz 1 sind die Bedingungen im Sinne des Artikel
 
 im Voraus erstattet wird.
 
-
 ### § 31 Ermächtigungen (zu § 33 Nr. 2 bis 4 i.V.m. § 54 Abs. 1 des Weingesetzes)
 
 Die Landesregierungen können durch Rechtsverordnung vorschreiben, dass
@@ -1028,10 +972,7 @@ insbesondere bestimmt werden, dass
 
 zu melden sind.
 
-
 ## Abschnitt 6 - Einfuhr
-
-
 
 ### § 32 Zulassung zur Einfuhr, amtliche Untersuchung und Prüfung (zu § 36 Abs. 1 Satz 1 und 2 Nr. 1 des Weingesetzes)
 
@@ -1065,7 +1006,6 @@ aromatisierte weinhaltige Getränke oder aromatisierte weinhaltige
 Cocktails in etikettierten Behältnissen mit einem Nennvolumen bis fünf
 Liter eingeführt, kann von einer amtlichen Untersuchung und Prüfung
 abgesehen werden.
-
 
 ### § 33 Befreiung von der Zulassung zur Einfuhr (zu § 36 Abs. 1 Satz 1 und 2 Nr. 6 des Weingesetzes)
 
@@ -1115,14 +1055,12 @@ abgesehen werden.
 
 (2) Absatz 1 gilt nicht für rektifiziertes Traubenmostkonzentrat.
 
-
 ### § 34 Amtliche Untersuchung und Prüfung durch Stichproben (zu § 36 Abs. 1 Satz 1 und 2 Nr. 7 des Weingesetzes)
 
 Die amtliche Untersuchung und Prüfung kann stichprobenweise
 vorgenommen werden, wenn das Dokument nach Artikel 43 Absatz 1
 Unterabsatz 2 Satz 1 oder Artikel 44 Absatz 2 Satz 1 der Verordnung
 (EG) Nr. 555/2008 vorliegt.
-
 
 ### § 35 Zuständigkeit für die Erteilung der Zulassung (zu § 36 Abs. 1 Satz 1 und 2 Nr. 2, 3 und 5 des Weingesetzes)
 
@@ -1205,7 +1143,6 @@ unter zollamtlicher Überwachung auf seine Kosten
 Kommt er dieser Verpflichtung innerhalb einer von der Zolldienststelle
 gesetzten Frist nicht nach, sind sie auf seine Kosten zu vernichten.
 
-
 ### § 36 Probenahme und Kosten (zu § 36 Abs. 1 Satz 2 Nr. 3 des Weingesetzes)
 
 (1) Die Zolldienststelle darf die für die Untersuchung erforderlichen
@@ -1220,7 +1157,6 @@ Kostenschuldner gegenüber der Untersuchungsstelle. Sind mehrere
 Gutachten erforderlich, so werden, soweit der Einfuhr nichts
 entgegensteht, Kosten nur für das Erstgutachten erhoben. Im Übrigen
 werden Kosten nicht erhoben.
-
 
 ### § 37 Zollanschlüsse, Freihäfen, vorübergehende Ausfuhr (zu § 36 Abs. 1 Satz 1 und 2 Nr. 6 i.V.m. § 54 Abs. 1 des Weingesetzes)
 
@@ -1249,7 +1185,6 @@ eingeführt werden dürfen, wenn nachgewiesen oder glaubhaft gemacht
 wird, dass die Erzeugnisse den in § 32 Abs. 2 Satz 1 genannten
 Voraussetzungen entsprechen.
 
-
 ### § 38 Einfuhr weinhaltiger Getränke (zu § 35 Abs. 2 des Weingesetzes)
 
 (1) In einem Drittland hergestellte weinhaltige Getränke dürfen nur
@@ -1267,10 +1202,7 @@ Erzeugnissen andere als die nach Artikel 120c der Verordnung (EG) Nr.
 1234/2007 zugelassenen önologischen Verfahren und Behandlungen
 angewendet worden sind.
 
-
 ## Abschnitt 7 - Straftaten und Ordnungswidrigkeiten
-
-
 
 ### § 39 Straftaten
 
@@ -1283,10 +1215,6 @@ vorsätzlich oder fahrlässig
 
 2.  entgegen § 38 Abs. 1 Satz 1 oder Abs. 2 ein weinhaltiges Getränk
     einführt.
-
-
-
-
 
 ### § 40 Ordnungswidrigkeiten
 
@@ -1358,13 +1286,7 @@ handelt, wer vorsätzlich oder fahrlässig
 15. entgegen § 22 Abs. 1, 2 oder 4 Satz 1 eine Kopie nicht oder nicht
     rechtzeitig übersendet oder zuleitet.
 
-
-
-
-
 ## Abschnitt 8 - Schlussbestimmungen
-
-
 
 ### § 41 Fortbestehen anderer Vorschriften
 
@@ -1381,7 +1303,6 @@ Weinbuchführung am 17. Mai 1995 nicht gemäß § 2 Abs. 1 der Wein-
 Überwachungs-Verordnung vom 14. Januar 1991 in der bis dahin geltenden
 Fassung durch Rechtsverordnung geregelt haben, bis zum 31. August 1997
 weiter anzuwenden.
-
 
 ### Anlage 1 (zu § 35 Abs. 4 Nr. 1) Untersuchungsstellen für das Erstgutachten bei Einfuhruntersuchungen
 
@@ -1446,10 +1367,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 17. Bayerisches Landesamt für Gesundheit und Lebensmittelsicherheit,
     Dienststelle Würzburg.
-
-
-
-
 
 ### Anlage 2 (zu § 35 Abs. 4 Nr. 2) Untersuchungsstellen für das Zweitgutachten bei Einfuhruntersuchungen
 

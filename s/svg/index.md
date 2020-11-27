@@ -22,14 +22,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 14 G v. 21.7.2012 I 1583
 
-
 ## Erster Teil - Einleitende Vorschriften
 
-
-
 ### 1. - Persönlicher Geltungsbereich
-
-
 
 #### § 1
 
@@ -70,13 +65,7 @@ Absatz 2 des Bundesbesoldungsgesetzes).
     hinterbliebenen oder überlebenden Ehegatten beziehen, für den
     hinterbliebenen Lebenspartner.
 
-
-
-
-
 ### 1a. - Regelung durch Gesetz
-
-
 
 #### § 1a
 
@@ -92,10 +81,7 @@ die zu diesem Zweck abgeschlossen werden.
 teilweise verzichtet werden, soweit in diesem Gesetz nichts anderes
 bestimmt ist.
 
-
 ### 2. - Wehrdienstzeit
-
-
 
 #### § 2
 
@@ -122,18 +108,11 @@ jeweilige Dauer des Grundwehrdienstes im früheren Bundesgebiet im
 Zeitpunkt der Begründung des Wehrdienstverhältnisses in der Nationalen
 Volksarmee.
 
-
 ## Zweiter Teil - Berufsförderung und Dienstzeitversorgung
-
-
 
 ### Abschnitt I - Berufsförderung und Dienstzeitversorgung der Soldaten auf Zeit, Berufsförderung der freiwilligen Wehrdienst nach Abschnitt 7 des Wehrpflichtgesetzes Leistenden
 
-
-
 #### 1. - Zweck und Arten
-
-
 
 ##### § 3
 
@@ -193,13 +172,7 @@ entsprechend.
 
 6.  die Einmalzahlungen nach § 89b.
 
-
-
-
-
 #### 2. - Berufsberatung der Soldaten auf Zeit
-
-
 
 ##### § 3a
 
@@ -213,10 +186,7 @@ Voraussetzung für die Bewilligung von Leistungen der Berufsförderung.
 Eingliederungsziel festgelegt, die anzustrebenden Bildungsziele
 bestimmt und ein einvernehmlicher Förderungsplan erstellt werden.
 
-
 #### 3. - Dienstzeitbegleitende Förderung der schulischen und beruflichen Bildung
-
-
 
 ##### § 4
 
@@ -240,10 +210,7 @@ Anbieter gefördert werden.
 besteht kein Anspruch. Sie steht unter dem Vorbehalt ausreichend
 verfügbarer Haushaltsmittel.
 
-
 #### 4. - Förderung der schulischen und beruflichen Bildung der Soldaten auf Zeit
-
-
 
 ##### § 5
 
@@ -507,7 +474,6 @@ bewilligten Bildungsmaßnahme über die nach Absatz 4 vorgesehenen
 Zeiträume hinaus verlängern. Die Verlängerung kommt grundsätzlich nur
 einmal in dem im Einzelfall notwendigen Umfang in Betracht.
 
-
 ##### § 6
 
 (1) Die notwendigen Kosten der Teilnahme an Bildungsmaßnahmen werden
@@ -525,14 +491,9 @@ Förderungsberechtigten sind das Bundesreisekostengesetz und die
 Trennungsgeldverordnung entsprechend anzuwenden, soweit in der
 Berufsförderungsverordnung nichts anderes bestimmt ist.
 
-
 #### 5. - Eingliederung in das spätere Berufsleben
 
-
-
 ##### a) - Durchführung der Eingliederungsmaßnahmen
-
-
 
 ###### § 7
 
@@ -592,10 +553,7 @@ der Regelzeit durchführt und sich bis zum Ablauf von sechs Monaten
 nach Beendigung der Ausbildung um Einstellung in den öffentlichen
 Dienst bewirbt.
 
-
 ##### b) - Anrechnung der Zeit der Förderung der beruflichen Bildung und der Wehrdienstzeit
-
-
 
 ###### § 8
 
@@ -644,7 +602,6 @@ Zeit, dessen Dienstzeit für einen Zeitraum bis zu zwei Jahren
 festgesetzt oder nach § 54 Absatz 3 des Soldatengesetzes über diesen
 Zeitraum hinaus verlängert worden ist.
 
-
 ###### § 8a
 
 (1) Bewirbt sich ein Soldat auf Zeit oder ehemaliger Soldat auf Zeit
@@ -685,10 +642,7 @@ ehemaligen Soldaten auf Zeit, dessen Dienstzeit für einen Zeitraum bis
 zu zwei Jahren festgesetzt oder nach § 54 Absatz 3 des
 Soldatengesetzes über diesen Zeitraum hinaus verlängert worden ist.
 
-
 ##### c) - Eingliederungsschein und Zulassungsschein
-
-
 
 ###### § 9
 
@@ -778,10 +732,7 @@ Ablauf der Probezeit entlassen wird. Es erlischt ferner, wenn das
 Beamtenverhältnis aus disziplinarischen Gründen endet oder das
 Arbeitsverhältnis aus verhaltensbedingten Gründen gekündigt wird.
 
-
 ##### d) - Stellenvorbehalt
-
-
 
 ###### § 10
 
@@ -860,10 +811,7 @@ Bundesministerium der Verteidigung oder die von ihm bestimmte Stelle
 im Einvernehmen mit der für die Einstellungsbehörde zuständigen
 Vormerkstelle.
 
-
 ##### e) - Ermächtigung zum Erlass von Rechtsverordnungen
-
-
 
 ###### § 10a
 
@@ -884,14 +832,9 @@ Stellen.
 hierbei abzulegenden Prüfungen bestimmt die Bundesregierung durch
 Rechtsverordnung mit Zustimmung des Bundesrates.
 
-
 #### 6. - Dienstzeitversorgung
 
-
-
 ##### a) - Übergangsgebührnisse und Ausgleichsbezüge
-
-
 
 ###### § 11
 
@@ -1047,7 +990,6 @@ nach Gesetzen, die das Bundesversorgungsgesetz für anwendbar erklären,
 gewährt wird. Dieser Zeitraum wird in die Zeiträume nach den Absätzen
 2 und 4 nicht eingerechnet.
 
-
 ###### § 11a
 
 (1) Inhaber eines Eingliederungsscheins erhalten nach Beendigung des
@@ -1085,10 +1027,7 @@ künftig noch zugestanden hätten. Sind Personen vorhanden, die Anspruch
 auf Witwen- oder Waisengeld oder Unterhaltsbeitrag nach § 42a haben,
 ist Satz 1 nicht anzuwenden.
 
-
 ##### b) - Übergangsbeihilfe
-
-
 
 ###### § 12
 
@@ -1321,14 +1260,9 @@ Versorgungsbezüge eingetreten ist.
 
 (9) § 49 Absatz 2 gilt entsprechend.
 
-
 #### 7. - Berufsförderung und Dienstzeitversorgung in besonderen Fällen
 
-
-
 ##### a) - Übergangsbeihilfe bei kurzen Wehrdienstzeiten
-
-
 
 ###### § 13
 
@@ -1343,10 +1277,7 @@ Wehrpflichtgesetzes leistet, wird zusätzlich Überbrückungsgeld nach §
 5a des Unterhaltssicherungsgesetzes gewährt. § 12 Absatz 8 gilt
 entsprechend.
 
-
 ##### b) - Berücksichtigung früherer Dienstverhältnisse
-
-
 
 ###### § 13a
 
@@ -1370,10 +1301,7 @@ abzuziehen. Der Bezugzeitraum der Übergangsgebührnisse verkürzt sich
 um die Zeit, für die früher Übergangsgebührnisse gezahlt wurden. Die
 Übergangsbeihilfe verringert sich um den früher gezahlten Betrag.
 
-
 ##### c) - Beurlaubung ohne Dienstbezüge, Teilzeitbeschäftigung
-
-
 
 ###### § 13b
 
@@ -1419,7 +1347,6 @@ erhöhen ist, wenn in der dritten Stelle eine der Ziffern fünf bis neun
 verbleiben würde. Die Kürzung nach Satz 1 entfällt für die Zeit einer
 Teilzeitbeschäftigung, die statt einer Elternzeit in Anspruch genommen
 wird.
-
 
 ###### § 13c
 
@@ -1487,10 +1414,7 @@ Ansprüche sind auf volle Monate aufzurunden. § 13b Absatz 3 Satz 2 bis
 4 gilt entsprechend. Satz 1 gilt nicht bei Teilzeitbeschäftigung statt
 einer Elternzeit.
 
-
 ##### d) - Versorgung beim Ruhen der Rechte und Pflichten
-
-
 
 ###### § 13d
 
@@ -1512,10 +1436,7 @@ Absatz 1 Satz 1 entsprechend anzuwenden hinsichtlich der Zeit, um die
 die Zeit des Dienstverhältnisses bis zum Ende der Amtszeit kürzer ist
 als die festgesetzte Dienstzeit.
 
-
 ##### e) - Unterhaltsbeitrag für Soldaten auf Zeit
-
-
 
 ###### § 13e
 
@@ -1533,14 +1454,9 @@ Unterhaltsbeitrag entfällt spätestens ab dem Zeitpunkt, ab dem ein
 Anspruch auf eine Rente aus der gesetzlichen Rentenversicherung auf
 Grund der durchgeführten Nachversicherung besteht.
 
-
 ### Abschnitt II - Dienstzeitversorgung der Berufssoldaten
 
-
-
 #### 1. - Arten
-
-
 
 ##### § 14
 
@@ -1575,17 +1491,9 @@ Die Dienstzeitversorgung der Berufssoldaten umfasst:
 
 10. Einmalzahlungen nach § 89b.
 
-
-
-
-
 #### 2. - Ruhegehalt
 
-
-
 ##### a) - Allgemeines
-
-
 
 ###### § 15
 
@@ -1604,16 +1512,12 @@ einzurechnen. Satz 2 gilt nicht für Zeiten, die der Berufssoldat bis
 zum 2. Oktober 1990 in dem in Artikel 3 des Einigungsvertrages
 genannten Gebiet zurückgelegt hat.
 
-
 ###### § 16
 
 Das Ruhegehalt wird auf der Grundlage der ruhegehaltfähigen
 Dienstbezüge und der ruhegehaltfähigen Dienstzeit berechnet.
 
-
 ##### b) - Ruhegehaltfähige Dienstbezüge
-
-
 
 ###### § 17
 
@@ -1658,7 +1562,6 @@ Offiziere, die in strahlgetriebenen Kampfflugzeugen als Flugzeugführer
 oder Waffensystemoffizier verwendet werden, gelten hierbei die
 dienstgradbezogenen Altersgrenzen.
 
-
 ###### § 18
 
 (1) Hat ein Berufssoldat die Dienstbezüge seines letzten Dienstgrades
@@ -1690,15 +1593,11 @@ berechnet. Absatz 1 Satz 3 und Absatz 2 gelten entsprechend. Das
 Ruhegehalt darf jedoch die ruhegehaltfähigen Dienstbezüge des letzten
 Dienstgrades nicht übersteigen.
 
-
 ###### § 19 (weggefallen)
 
 -
 
-
 ##### c) - Ruhegehaltfähige Dienstzeit
-
-
 
 ###### § 20
 
@@ -1763,7 +1662,6 @@ Zeit
 
 Die Absätze 1 und 2 gelten entsprechend.
 
-
 ###### § 21
 
 Die ruhegehaltfähige Dienstzeit nach § 20 erhöht sich um die Zeit, die
@@ -1791,7 +1689,6 @@ Die ruhegehaltfähige Dienstzeit nach § 20 erhöht sich um die Zeit, die
 § 20 Absatz 1 Satz 2 Nummer 2 und 3 sowie Absatz 2 gilt entsprechend.
 Für die Anwendung des Satzes 1 Nummer 1 Buchstabe a gilt außerdem § 64
 Absatz 2 Satz 2 entsprechend.
-
 
 ###### § 22
 
@@ -1821,7 +1718,6 @@ hoheitsrechtlicher Aufgaben geschaffen worden sind. Zeiten mit einer
 geringeren als der regelmäßigen Arbeitszeit dürfen nur zu dem Teil als
 ruhegehaltfähig berücksichtigt werden, der dem Verhältnis der
 tatsächlichen zur regelmäßigen Arbeitszeit entspricht.
-
 
 ###### § 23
 
@@ -1879,7 +1775,6 @@ ist.
 
 (4) (weggefallen)
 
-
 ###### § 24
 
 Die Zeit, während der ein Berufssoldat nach Vollendung des 17.
@@ -1898,12 +1793,10 @@ Lebensjahres vor seinem Eintritt in die Bundeswehr
 kann als ruhegehaltfähige Dienstzeit, jedoch höchstens bis zur Hälfte
 und in der Regel nicht über zehn Jahre hinaus, berücksichtigt werden.
 
-
 ###### § 24a
 
 Zeiten nach § 30 des Bundesbesoldungsgesetzes sind nicht
 ruhegehaltfähig.
-
 
 ###### § 24b
 
@@ -1923,7 +1816,6 @@ Zeiten sind auch solche im Sinne des Artikels 2 des Renten-
 Rentenversicherung nicht erfüllt ist, können die in Absatz 1 genannten
 Zeiten im Rahmen der dort genannten Vorschriften insgesamt höchstens
 bis zu fünf Jahren als ruhegehaltfähig berücksichtigt werden.
-
 
 ###### § 25
 
@@ -1958,10 +1850,7 @@ jeweils ununterbrochen mindestens 30 Tage gedauert haben.
 Voraussetzungen des Absatzes 2 erfüllt, findet nur die für den
 Soldaten günstigere Vorschrift Anwendung.
 
-
 ##### d) - Höhe des Ruhegehaltes
-
-
 
 ###### § 26
 
@@ -2056,10 +1945,7 @@ einer Wehrdienstbeschädigung beruht, in den Ruhestand versetzt wird.
 Die Minderung des Ruhegehaltes darf 10,8 vom Hundert nicht
 übersteigen. Absatz 1 Satz 2 und 4 gilt entsprechend.
 
-
 ##### e) - Vorübergehende Erhöhung des Ruhegehaltssatzes
-
-
 
 ###### § 26a
 
@@ -2153,15 +2039,11 @@ sie die jeweilige Mindestversorgung überstiegen wird, auf den
 einmaligen Ausgleich angerechnet, bis dessen Höhe durch die Summe
 dieser monatlichen Erhöhungen des Ruhegehaltes erreicht wird.
 
-
 ###### § 26b (weggefallen)
 
 -
 
-
 #### 3. - Unfallruhegehalt
-
-
 
 ##### § 27
 
@@ -2254,10 +2136,7 @@ worden ist und in Ausübung oder infolge dieser Tätigkeit einen
 Körperschaden erleidet, kann Versorgung nach dieser Vorschrift gewährt
 werden.
 
-
 #### 4. - Kapitalabfindung
-
-
 
 ##### § 28
 
@@ -2285,7 +2164,6 @@ nur bei dessen Eigennutzung bewilligt werden.
 (2) Eine Kapitalabfindung ist in der Regel zu versagen, wenn der
 Soldat im Ruhestand das 57. Lebensjahr überschritten hat.
 
-
 ##### § 29
 
 (1) Eine Kapitalabfindung soll nur bewilligt werden, wenn die
@@ -2294,7 +2172,6 @@ bestimmungsgemäße Verwendung des Geldes gewährleistet erscheint.
 (2) Eine Kapitalabfindung darf nicht gewährt werden, wenn der Soldat
 im Ruhestand wieder in die Bundeswehr eingestellt ist oder als Beamter
 oder Arbeitnehmer im öffentlichen Dienst verwendet wird.
-
 
 ##### § 30
 
@@ -2306,7 +2183,6 @@ Euro jährlich nicht übersteigen.
 Kapitalabfindung tritt, erlischt mit Ablauf des Monats der Auszahlung
 für zehn Jahre. Als Abfindungssumme wird das Neunfache des ihr
 zugrunde liegenden Jahresbetrages gezahlt.
-
 
 ##### § 31
 
@@ -2320,7 +2196,6 @@ einer Frist bis zu fünf Jahren nur mit Genehmigung des
 Bundesministeriums der Verteidigung zulässig ist. Diese Anordnung wird
 mit der Eintragung in das Grundbuch wirksam. Eingetragen wird auf
 Ersuchen des Bundesministeriums der Verteidigung.
-
 
 ##### § 32
 
@@ -2354,7 +2229,6 @@ Teil des Ruhegehaltes, der durch die Kapitalabfindung erloschen ist,
 gegen Rückzahlung der Abfindungssumme wieder bewilligt werden, wenn
 wichtige Gründe vorliegen.
 
-
 ##### § 33
 
 (1) Die Verpflichtung zur Rückzahlung (§ 32) beschränkt sich nach
@@ -2384,7 +2258,6 @@ auf die Rückzahlung folgenden Monats wieder auf.
 (4) Das Bundesministerium der Verteidigung kann in den Fällen des § 32
 Absatz 1 Nummer 2 Teilzahlungen zulassen.
 
-
 ##### § 34
 
 (1) Ruht das Ruhegehalt ganz oder zum Teil, weil der Empfänger im
@@ -2399,7 +2272,6 @@ der der Kapitalabfindung zugrunde liegende Teil des Ruhegehaltes
 insoweit zurückzuzahlen, als er den nicht ruhenden Teil übersteigt.
 Das Bundesministerium der Verteidigung kann Teilzahlungen zulassen.
 
-
 ##### § 35
 
 (1) Alle gerichtlichen und außergerichtlichen Beurkundungen, Urkunden,
@@ -2410,10 +2282,7 @@ kostenfrei.
 (2) Die Vorschriften über die Gebühren und Auslagen der Notare werden
 hierdurch nicht berührt.
 
-
 #### 5. - Unterhaltsbeitrag
-
-
 
 ##### § 36
 
@@ -2424,10 +2293,7 @@ Absatz 5 Satz 1 Nummer 1 des Soldatengesetzes) wegen Erreichens der
 für seinen Dienstgrad bestimmten Altersgrenze oder wegen
 Dienstunfähigkeit entlassen worden ist.
 
-
 #### 6. - Übergangsgeld
-
-
 
 ##### § 37
 
@@ -2480,10 +2346,7 @@ in einer Summe zu zahlen.
 Erwerbsersatzeinkommen im Sinne des § 53 Absatz 5, verringert sich das
 Übergangsgeld um den Betrag dieser Einkünfte.
 
-
 #### 7. - Ausgleich bei Altersgrenzen
-
-
 
 ##### § 38
 
@@ -2529,10 +2392,7 @@ insoweit unter dem Vorbehalt der Rückforderung. Einkünfte im Sinne des
 § 47 Absatz 4 Satz 1 bleiben hierbei unberücksichtigt. Die Absätze 2
 und 3 gelten entsprechend.
 
-
 #### 8. - Berufsförderung der Berufssoldaten
-
-
 
 ##### § 39
 
@@ -2588,7 +2448,6 @@ Ruhegehalt in Höhe von 15 vom Hundert der jeweils ruhegehaltfähigen
 Dienstbezüge gewährt; Einkommen aus der Bildungsmaßnahme ist
 anzurechnen.
 
-
 ##### § 40
 
 Jedem Berufssoldaten, dessen Dienstverhältnis wegen Dienstunfähigkeit
@@ -2597,14 +2456,9 @@ endet, wird die Eingliederung in das spätere Berufsleben nach den §§
 Teilnahme an einem notwendigen Berufsorientierungspraktikum kann im
 Umfang des § 7a Absatz 4 gewährt werden.
 
-
 ### Abschnitt III - Versorgung der Hinterbliebenen von Soldaten
 
-
-
 #### 1. - Hinterbliebene von Soldaten auf Zeit und von Soldaten, die Wehrdienst nach dem Wehrpflichtgesetz oder nach dem Vierten Abschnitt des Soldatengesetzes leisten
-
-
 
 ##### § 41
 
@@ -2628,7 +2482,6 @@ eine einmalige Entschädigung nach § 63a zusteht. Das Sterbegeld
 vermindert sich um Leistungen, die nach Absatz 1 Satz 1 Halbsatz 2 zu
 gewähren sind. § 85 Absatz 5 ist entsprechend anzuwenden.
 
-
 ##### § 42
 
 (1) Ist ein Soldat auf Zeit, der in der Bundeswehr mindestens sechs
@@ -2644,7 +2497,6 @@ abgeleisteten Wehrdienstzeit hätte erhalten können.
 (2) § 49 Absatz 2 sowie die §§ 50 und 60 gelten entsprechend. Für die
 Mindestdienstzeit im Sinne des Absatzes 1 Satz 1 gilt § 13c mit
 Ausnahme des Absatzes 1 Satz 2 entsprechend.
-
 
 ##### § 42a
 
@@ -2684,10 +2536,7 @@ Versorgung nach § 43 gewährt.
 IV als Witwe und Waisen eines Soldaten oder eines Soldaten im
 Ruhestand.
 
-
 #### 2. - Hinterbliebene von Berufssoldaten
-
-
 
 ##### § 43
 
@@ -2714,10 +2563,7 @@ Vaterschaft später angefochten worden ist.
 (4) Auf die Hinterbliebenen von Berufssoldaten und Soldaten im
 Ruhestand finden § 26 Absatz 9 und § 26a keine Anwendung.
 
-
 #### 3. - Bezüge bei Verschollenheit
-
-
 
 ##### § 44
 
@@ -2765,10 +2611,7 @@ Wehrdienst nach dem Wehrpflichtgesetz oder nach dem Vierten Abschnitt
 des Soldatengesetzes leistet, während einer besonderen
 Auslandsverwendung nach § 63c Absatz 1 verschollen gegangen ist.
 
-
 #### 4. - Hinterbliebene von Soldatinnen, hinterbliebene Lebenspartnerinnen und Lebenspartner
-
-
 
 ##### § 44a
 
@@ -2778,14 +2621,9 @@ der Witwe der Witwer. Dies gilt nicht für hinterbliebene
 Lebenspartnerinnen. Im Fall eines hinterbliebenen Lebenspartners tritt
 an die Stelle des Witwengeldes das Witwergeld.
 
-
 ### Abschnitt IV - Gemeinsame Vorschriften für Soldaten und ihre Hinterbliebenen
 
-
-
 #### 1. - Anwendungsbereich
-
-
 
 ##### § 45
 
@@ -2813,10 +2651,7 @@ des Beamtenversorgungsgesetzes entsprechend. Hierbei gilt ein nach §
 (3) Die Empfänger der Versorgungsbezüge nach den Absätzen 1 und 2
 gelten als Soldaten im Ruhestand, als Witwen oder Waisen.
 
-
 #### 2. - Bewilligung und Zahlung der Versorgungsbezüge, Versorgungsauskunft
-
-
 
 ##### § 46
 
@@ -2875,10 +2710,7 @@ erteilen. Die Auskunft steht unter dem Vorbehalt künftiger Sach- und
 Rechtsänderungen sowie der Richtigkeit und Vollständigkeit der
 zugrunde liegenden Daten.
 
-
 #### 3. - Familienzuschlag und Ausgleichsbetrag
-
-
 
 ##### § 47 Familienzuschlag und Ausgleichsbetrag
 
@@ -2918,10 +2750,7 @@ Versorgungsbezügen gezahlt.
 
 (4) (weggefallen)
 
-
 #### 4. - Pfändung, Abtretung und Verpfändung
-
-
 
 ##### § 48
 
@@ -2940,10 +2769,7 @@ Vorschuss- oder Darlehnsgewährungen sowie aus Überzahlungen von
 Dienst- oder Versorgungsbezügen können auf das Sterbegeld angerechnet
 werden.
 
-
 #### 5. - Rückforderung
-
-
 
 ##### § 49
 
@@ -2967,10 +2793,7 @@ Gesamtrückforderung.
 (4) § 118 Absatz 3 bis 5 des Sechsten Buches Sozialgesetzbuch gilt
 entsprechend.
 
-
 #### 6. - Aufrechnung und Zurückbehaltung
-
-
 
 ##### § 50
 
@@ -2983,28 +2806,19 @@ Diese Einschränkungen gelten nicht, soweit gegen den Empfänger ein
 Anspruch auf Schadenersatz wegen vorsätzlicher unerlaubter Handlung
 besteht.
 
-
 #### 7. -
-
-
 
 ##### § 51 (weggefallen)
 
 -
 
-
 #### 8. -
-
-
 
 ##### § 52 (weggefallen)
 
 -
 
-
 #### 9. - Zusammentreffen von Versorgungsbezügen mit Erwerbs- und Erwerbsersatzeinkommen
-
-
 
 ##### § 53
 
@@ -3138,22 +2952,13 @@ mit folgenden Maßgaben anzuwenden:
     der Dienstbezüge aus der Endstufe der Besoldungsgruppe A 4, zuzüglich
     des jeweils zustehenden Unterschiedsbetrages nach § 47 Absatz 1.
 
-
-
-
-
 #### 9a. -
-
-
 
 ##### § 54 (weggefallen)
 
 -
 
-
 #### 10. - Zusammentreffen mehrerer Versorgungsbezüge
-
-
 
 ##### § 55
 
@@ -3241,7 +3046,6 @@ sind die Absätze 1 bis 4 mit der Maßgabe anzuwenden, dass an die
 Stelle der Höchstgrenzen des Absatzes 2 die Dienstbezüge treten, aus
 denen die Übergangsgebührnisse berechnet sind, zuzüglich des
 Unterschiedsbetrages nach § 47 Absatz 1.
-
 
 ##### § 55a
 
@@ -3399,7 +3203,6 @@ Stelle der Höchstgrenzen des Absatzes 2 die Dienstbezüge treten, aus
 denen die Übergangsgebührnisse berechnet sind, zuzüglich des
 Unterschiedsbetrages nach § 47 Absatz 1.
 
-
 ##### § 55b
 
 (1) Erhält ein Soldat im Ruhestand aus der Verwendung im öffentlichen
@@ -3486,10 +3289,7 @@ wenn die Unterschreitung der Mindestbelassung darauf beruht, dass
 ist von den nach Anwendung der §§ 53 bis 55a verbleibenden
 Versorgungsbezügen abzuziehen.
 
-
 #### 10a. - Kürzung der Versorgungsbezüge nach der Ehescheidung
-
-
 
 ##### § 55c
 
@@ -3553,7 +3353,6 @@ Ruhegehaltes des verpflichteten Ehegatten für den Fall rückwirkender
 oder erst nachträglich bekannt werdender Rentengewährung an den
 berechtigten Ehegatten unter dem Vorbehalt der Rückforderung.
 
-
 ##### § 55d
 
 (1) Die Kürzung der Versorgungsbezüge nach § 55c kann von dem
@@ -3584,7 +3383,6 @@ Wertausgleichs und sind Zahlungen nach Absatz 1 erfolgt, sind im
 Umfang der Abänderung zu viel gezahlte Beiträge unter Anrechnung der
 nach § 55c anteilig errechneten Kürzungsbeträge zurückzuzahlen.
 
-
 ##### § 55e
 
 Für die Ansprüche von ausgleichsberechtigten Personen und deren
@@ -3593,10 +3391,7 @@ Soldatenversorgung als Versorgungsträger der ausgleichspflichtigen
 Person gelten die Bestimmungen des Bundesversorgungsteilungsgesetzes
 vom 3. April 2009 (BGBl. I S. 700, 716) entsprechend.
 
-
 #### 10b. - Abzug für Pflegeleistungen
-
-
 
 ##### § 55f
 
@@ -3622,10 +3417,7 @@ Sozialgesetzbuch des zwölften Teils der jährlichen
 Beitragsbemessungsgrenze in der Pflegeversicherung (§ 55 Absatz 2 des
 Elften Buches Sozialgesetzbuch) errechnet, nicht übersteigen.
 
-
 #### 11. - Verlust der Versorgung
-
-
 
 ##### § 56
 
@@ -3633,7 +3425,6 @@ Ein ehemaliger Soldat verliert das Recht auf Berufsförderung und
 Dienstzeitversorgung in den Fällen des § 53 Absatz 1 und des § 57
 Absatz 1 des Soldatengesetzes oder durch Entscheidung eines
 Wehrdienstgerichts. § 12 Absatz 8 und § 38 Absatz 2 bleiben unberührt.
-
 
 ##### § 57
 
@@ -3648,10 +3439,7 @@ Bundesministerium der Verteidigung stellt ihren Verlust fest. Eine
 wehrstrafrechtliche oder disziplinarrechtliche Verfolgung wird dadurch
 nicht ausgeschlossen.
 
-
 #### 12. - Entziehung der Versorgung
-
-
 
 ##### § 58
 
@@ -3668,10 +3456,7 @@ Vernehmung von Zeugen und Sachverständigen zulässig ist.
 (2) Absatz 1 gilt entsprechend für Empfänger von
 Hinterbliebenenversorgung.
 
-
 #### 13. - Erlöschen und Wiederaufleben der Versorgungsbezüge für Hinterbliebene
-
-
 
 ##### § 59
 
@@ -3754,10 +3539,7 @@ Ehe steht die Nichtigerklärung gleich.
 (4) Absatz 1 Satz 1 Nummer 1 und 2 und die Absätze 2 und 3 gelten
 nicht in den Fällen des § 11 Absatz 6 Satz 4 und des § 11a Absatz 2.
 
-
 #### 14. - Anzeigepflicht
-
-
 
 ##### § 60
 
@@ -3818,10 +3600,7 @@ dem Abschluss einer Maßnahme der schulischen oder beruflichen Bildung
 nach § 5 erfolgt, den Stand ihrer zivilberuflichen Eingliederung
 mitzuteilen.
 
-
 #### 15. - Nichtberücksichtigung der Versorgungsbezüge
-
-
 
 ##### § 61
 
@@ -3830,14 +3609,9 @@ verwendet, so sind ihre Bezüge aus dieser Beschäftigung ohne Rücksicht
 auf die Versorgungsbezüge zu bemessen. Das Gleiche gilt für eine
 Versorgung, die auf Grund der Beschäftigung zu gewähren ist.
 
-
 ### Abschnitt V - Sondervorschriften
 
-
-
 #### 1. - Umzugskostenvergütung
-
-
 
 ##### § 62
 
@@ -3928,10 +3702,7 @@ werden nach Beendigung des Umzugs auf schriftlichen Antrag gewährt,
 der innerhalb einer Ausschlussfrist von einem Jahr zu stellen ist. Die
 Frist beginnt mit dem Tag nach Beendigung des Umzugs.
 
-
 #### 2. - Einmalige Unfallentschädigung für besonders gefährdete Soldaten
-
-
 
 ##### § 63
 
@@ -4059,10 +3830,7 @@ Unfallentschädigung gewährt.
 
 (8) § 46 gilt entsprechend.
 
-
 #### 3. - Einmalige Entschädigung
-
-
 
 ##### § 63a
 
@@ -4116,10 +3884,7 @@ Folgen erleidet.
 
 (5) § 46 gilt entsprechend.
 
-
 #### 4. - Schadensausgleich in besonderen Fällen
-
-
 
 ##### § 63b
 
@@ -4183,14 +3948,9 @@ darauf beruhen, dass der Geschädigte aus sonstigen mit dem Dienst
 zusammenhängenden Gründen dem Einflussbereich des Dienstherrn entzogen
 ist.
 
-
 ### Abschnitt VI - Versorgung bei besonderen Auslandsverwendungen
 
-
-
 #### 1. - Besondere Auslandsverwendung, Einsatzunfall, Einsatzversorgung
-
-
 
 ##### § 63c
 
@@ -4272,10 +4032,7 @@ Verschleppung, Gefangenschaft oder sonstige Einflussbereichsentziehung
 herbeigeführt hat, es sei denn, dass der Ausschluss für ihn eine
 unbillige Härte wäre.
 
-
 #### 2. - Unfallruhegehalt
-
-
 
 ##### § 63d
 
@@ -4287,20 +4044,14 @@ den Ruhestand versetzt worden und im Zeitpunkt der Versetzung in den
 Ruhestand infolge des Einsatzunfalls in seiner Erwerbsfähigkeit um
 mindestens 50 vom Hundert beschränkt ist.
 
-
 #### 3. - Einmalige Entschädigung
-
-
 
 ##### § 63e
 
 Erleidet ein Soldat einen Einsatzunfall im Sinne von § 63c Absatz 2
 mit den in § 63a Absatz 1 genannten Folgen, gilt § 63a entsprechend.
 
-
 #### 4. - Ausgleichszahlung für bestimmte Statusgruppen
-
-
 
 ##### § 63f
 
@@ -4363,19 +4114,13 @@ den Fällen nicht zu, in denen wegen der besonderen Auslandsverwendung
 Anspruch auf eine erhöhte Leistung aus der gesetzlichen
 Unfallversicherung besteht.
 
-
 #### 5. - Anrechnung von Geldleistungen
-
-
 
 ##### § 63g
 
 § 90 gilt entsprechend.
 
-
 ### Abschnitt VII - Anrechnung sonstiger Zeiten als ruhegehaltfähige Dienstzeit
-
-
 
 #### § 64
 
@@ -4410,7 +4155,6 @@ nicht ruhegehaltfähig.
 Absatz 1 Satz 1 Nummer 1, 2, 4 und 5, für die eine Abfindung aus
 öffentlichen Mitteln gewährt worden ist.
 
-
 #### § 65
 
 Als ruhegehaltfähig gilt die Zeit, während der sich ein Berufssoldat
@@ -4430,7 +4174,6 @@ Bundeswehr
 
 
 befunden hat.
-
 
 #### § 66
 
@@ -4458,16 +4201,13 @@ Lebensjahres vor seinem Eintritt in die Bundeswehr
 
 kann als ruhegehaltfähige Dienstzeit berücksichtigt werden.
 
-
 #### § 67 (weggefallen)
 
 -
 
-
 #### § 67a (weggefallen)
 
 -
-
 
 #### § 68
 
@@ -4477,11 +4217,9 @@ in das Dienstverhältnis eines Soldaten auf Zeit oder Berufssoldaten in
 einem Beschäftigungsverhältnis bei einer deutschen zivilen
 Dienstgruppe bei den Stationierungsstreitkräften gestanden hat.
 
-
 #### § 68a (weggefallen)
 
 -
-
 
 #### § 69
 
@@ -4491,14 +4229,9 @@ Umsiedler der gleichartige Dienst bei einem öffentlich-rechtlichen
 Dienstherrn im Herkunftsland gleich. § 24b findet entsprechende
 Anwendung.
 
-
 ### Abschnitt VIII - Besondere Leistungen entsprechend den Regelungen des Sechsten Buches Sozialgesetzbuch
 
-
-
 #### 1. - Kindererziehungszuschlag
-
-
 
 ##### § 70
 
@@ -4556,10 +4289,7 @@ ein vor dem 1. Januar 1992 geborenes Kind erzogen, gelten die Absätze
 zwölf Kalendermonate nach Ablauf des Monats der Geburt endet. Die §§
 249 und 249a des Sechsten Buches Sozialgesetzbuch gelten entsprechend.
 
-
 #### 2. - Kindererziehungsergänzungszuschlag
-
-
 
 ##### § 71
 
@@ -4618,10 +4348,7 @@ des Sechsten Buches Sozialgesetzbuch bestimmte Bruchteil des aktuellen
 Rentenwerts für jeden Monat des Zusammentreffens der Leistungen tritt.
 § 70 Absatz 6 und 7 gilt entsprechend.
 
-
 #### 3. - Kinderzuschlag zum Witwen- und Witwergeld
-
-
 
 ##### § 72
 
@@ -4654,10 +4381,7 @@ Rentenwerts.
 
 (4) § 70 Absatz 7 Satz 1 gilt entsprechend.
 
-
 #### 4. - Pflege- und Kinderpflegeergänzungszuschlag
-
-
 
 ##### § 73
 
@@ -4695,10 +4419,7 @@ Rentenwerts für jeden Monat des Zusammentreffens der Leistungen tritt.
 in einem dem Berufssoldatenverhältnis unmittelbar vorhergegangenen
 Dienstverhältnis als Soldat auf Zeit.
 
-
 #### 5. - Vorübergehende Gewährung von Zuschlägen
-
-
 
 ##### § 74
 
@@ -4763,25 +4484,15 @@ gestellt werden, gelten als zum Zeitpunkt des Ruhestandseintritts
 gestellt. Wird der Antrag zu einem späteren Zeitpunkt gestellt, so
 wird die Leistung vom Beginn des Antragsmonats an gewährt.
 
-
 #### 6. -
-
-
 
 ##### (XXXX) §§ 75 bis 79a (weggefallen)
 
-
 ## Dritter Teil - Beschädigtenversorgung
-
-
 
 ### Abschnitt I - Versorgung beschädigter Soldaten nach Beendigung des Wehrdienstverhältnisses, gleichgestellter Zivilpersonen und ihrer Hinterbliebenen
 
-
-
 #### 1. - Versorgung bei Wehrdienstbeschädigung
-
-
 
 ##### § 80
 
@@ -4802,10 +4513,7 @@ beschränkt. Satz 4 gilt entsprechend, wenn ein Partner in der Zeit
 zwischen dem 1. November 1994 und dem 23. Juni 2006 an den
 Schädigungsfolgen verstorben ist.
 
-
 #### 2. - Wehrdienstbeschädigung
-
-
 
 ##### § 81
 
@@ -4931,10 +4639,7 @@ anerkannt werden; die Zustimmung kann allgemein erteilt werden.
 (7) Eine vom Beschädigten absichtlich herbeigeführte gesundheitliche
 Schädigung gilt nicht als Wehrdienstbeschädigung.
 
-
 #### 2a. - Versorgung in besonderen Fällen
-
-
 
 ##### § 81a
 
@@ -4946,7 +4651,6 @@ Schädigung, die der Soldat durch diese Tätigkeit oder durch einen
 Unfall während der Ausübung dieser Tätigkeit erlitten hat, Versorgung
 in gleicher Weise wie für die Folgen einer Wehrdienstbeschädigung
 gewährt werden. Die Zustimmung kann allgemein erteilt werden.
-
 
 ##### § 81b
 
@@ -4979,7 +4683,6 @@ Wehrdienstbeschädigung im Sinne des § 81 ist.
 
 (4) § 81 Absatz 5 gilt entsprechend.
 
-
 ##### § 81c
 
 Erleidet ein Soldat während einer besonderen Verwendung im Sinne des §
@@ -4991,7 +4694,6 @@ gewährt. Die Versorgung ist ausgeschlossen, wenn sich der Soldat
 vorsätzlich oder grob fahrlässig der Gefährdung ausgesetzt hat, es sei
 denn, dass der Ausschluss für ihn eine unbillige Härte wäre.
 
-
 ##### § 81d
 
 Einem Soldaten wird Versorgung in gleicher Weise wie für Folgen einer
@@ -5001,7 +4703,6 @@ oder eine Erkrankung im Zusammenhang mit einer Verschleppung oder
 einer Gefangenschaft zurückzuführen ist oder darauf beruht, dass er
 aus sonstigen mit dem Dienst zusammenhängenden Gründen, die er nicht
 zu vertreten hat, dem Einflussbereich des Dienstherrn entzogen ist.
-
 
 ##### § 81e
 
@@ -5094,7 +4795,6 @@ gestellt, so beginnt die Zahlung mit dem Zeitpunkt des Inkrafttretens,
 frühestens jedoch mit dem Monat, in dem die Voraussetzungen erfüllt
 sind.
 
-
 ##### § 81f
 
 Das Kind einer Soldatin, das durch eine Wehrdienstbeschädigung oder
@@ -5104,10 +4804,7 @@ erhält wegen der gesundheitlichen und wirtschaftlichen Folgen auf
 Antrag Versorgung in entsprechender Anwendung der Vorschriften des
 Bundesversorgungsgesetzes.
 
-
 #### 3. - Heilbehandlung in besonderen Fällen
-
-
 
 ##### § 82
 
@@ -5167,13 +4864,7 @@ c)  wenn der Berechtigte ein Einkommen hat, das die
 
 d)  wenn die Gesundheitsstörung auf eigenen Vorsatz zurückzuführen ist.
 
-
-
-
-
 #### 4. - Versorgungskrankengeld in besonderen Fällen, Beginn der Versorgung
-
-
 
 ##### § 83
 
@@ -5227,10 +4918,7 @@ Bundesversorgungsgesetzes frühestens mit dem Ersten des Monats, der
 auf den Monat folgt, in dem die Zahlung von Dienstbezügen oder
 Wehrsold endet.
 
-
 #### 5. - Zusammentreffen von Ansprüchen
-
-
 
 ##### § 84
 
@@ -5268,14 +4956,9 @@ Teil dieses Gesetzes gleichstehen; der Anspruch des Beschädigten auf
 seine Grundrente nach § 80 dieses Gesetzes in Verbindung mit § 31
 Absatz 1 bis 4 des Bundesversorgungsgesetzes ruht jedoch nicht.
 
-
 ### Abschnitt II - Versorgung beschädigter Soldaten während des Wehrdienstverhältnisses und Sondervorschriften
 
-
-
 #### 1. - Ausgleich für Wehrdienstbeschädigung
-
-
 
 ##### § 85
 
@@ -5321,10 +5004,7 @@ sowie § 50 mit der Maßgabe, dass mit einer Forderung auf
 Rückerstattung zuviel gezahlten Ausgleichs gegenüber einem Anspruch
 auf Ausgleich aufgerechnet werden kann.
 
-
 #### 2. - Geldleistungen der Wohnungshilfe
-
-
 
 ##### § 85a
 
@@ -5340,10 +5020,7 @@ der Minderung der Erwerbsfähigkeit noch nicht endgültig entschieden,
 mit einer Minderung der Erwerbsfähigkeit um mindestens 50 vom Hundert
 aber zu rechnen ist.
 
-
 #### 3. - Erstattung von Sachschäden und besonderen Aufwendungen
-
-
 
 ##### § 86
 
@@ -5362,10 +5039,7 @@ Bundesministerium für Arbeit und Soziales erteilt werden.
 
 (3) Absatz 1 gilt in den Fällen der §§ 81c und 81d entsprechend.
 
-
 ## Vierter Teil - Fürsorgeleistungen an ehemalige Soldaten auf Zeit bei Arbeitslosigkeit
-
-
 
 ### § 86a
 
@@ -5424,14 +5098,9 @@ Dienstverhältnis ausgeschieden oder wenn dieser Anspruch später aus
 einem anderen Grunde als dem des Ablaufs des Anspruchszeitraums
 weggefallen ist.
 
-
 ## Fünfter Teil - Organisation, Verfahren, Rechtsweg
 
-
-
 ### 1. - Dienstzeitversorgung
-
-
 
 #### § 87
 
@@ -5446,10 +5115,7 @@ Beendigung des Dienstverhältnisses sind jedoch die Vorschriften der
 Wehrbeschwerdeordnung über das verwaltungsgerichtliche Vorverfahren (§
 23 der Wehrbeschwerdeordnung) anzuwenden.
 
-
 ### 2. - Beschädigtenversorgung
-
-
 
 #### § 88
 
@@ -5619,10 +5285,7 @@ ihnen zusammenhängenden Einnahmen die landesrechtlichen Vorschriften
 über die Kassen- und Buchführung der zuständigen Landesbehörden
 angewendet werden.
 
-
 ### 3. - Arbeitslosenbeihilfe
-
-
 
 #### § 88a
 
@@ -5630,23 +5293,15 @@ Mehraufwendungen, die der Bundesagentur für Arbeit durch die Gewährung
 der Arbeitslosenbeihilfe (§ 86a Absatz 1) entstehen, erstattet der
 Bund. Verwaltungskosten werden nicht erstattet.
 
-
 ## Sechster Teil - Schluss- und Übergangsvorschriften
 
-
-
 ### 1. - (weggefallen)
-
-
 
 #### § 89 (weggefallen)
 
 -
 
-
 ### 1a. - Dienstbezüge
-
-
 
 #### § 89a
 
@@ -5658,10 +5313,7 @@ Amtszulagen. Für die Berechnung der Übergangsgebührnisse nach § 11 und
 der Ausgleichsbezüge nach § 11a sind die Dienstbezüge mit dem Faktor
 0,9901 zu multiplizieren.
 
-
 ### 1b. - Anpassung der Versorgungsbezüge
-
-
 
 #### § 89b
 
@@ -5669,10 +5321,7 @@ Auf die Versorgungsbezüge der Berufssoldaten, der Soldaten auf Zeit
 und ihrer Hinterbliebenen sind die §§ 70 und 71 des
 Beamtenversorgungsgesetzes entsprechend anzuwenden.
 
-
 ### 2. - Anrechnung von Geldleistungen
-
-
 
 #### § 90
 
@@ -5687,10 +5336,7 @@ Soldaten oder anderen Angehörigen des Geschäftsbereichs des
 Bundesministeriums der Verteidigung beruhen; dies gilt nicht in den
 Fällen des § 86.
 
-
 ### 3. - Übergangsvorschrift aus Anlass des Vierzehnten Gesetzes zur Änderung des Soldatengesetzes vom 6. Dezember 1990 (BGBl. I S. 2588)
-
-
 
 #### § 91
 
@@ -5700,10 +5346,7 @@ Fernbleibens vom Dienst unter Verlust der Dienstbezüge oder des
 Wehrsoldes vor dem Inkrafttreten dieses Gesetzes ist § 13c nicht
 anzuwenden.
 
-
 ### 3a. - Begrenzung der Ansprüche aus einer Wehrdienstbeschädigung
-
-
 
 #### § 91a
 
@@ -5724,10 +5367,7 @@ Beamtenversorgungsgesetzes gilt entsprechend.
 
 (3) Ersatzansprüche gegen andere Personen bleiben unberührt.
 
-
 ### 3b. - Bußgeldvorschrift
-
-
 
 #### § 91b
 
@@ -5741,10 +5381,7 @@ oder nicht rechtzeitig macht.
 Gesetzes über Ordnungswidrigkeiten ist das Karrierecenter der
 Bundeswehr.
 
-
 ### 4. - Erlass von Verwaltungsvorschriften
-
-
 
 #### § 92
 
@@ -5764,10 +5401,7 @@ Gesetzes erlassen.
 Landesbehörden wenden, werden sie von der Bundesregierung mit
 Zustimmung des Bundesrates erlassen.
 
-
 ### 4a. - Übergangsregelungen aus Anlass der Herstellung der Einheit Deutschlands
-
-
 
 #### § 92a
 
@@ -5779,10 +5413,7 @@ Verordnungsermächtigung erstreckt sich insbesondere auf Art,
 Berechnungsgrundlagen, Höhe von Versorgungsleistungen und
 Ruhensregelungen abweichend von diesem Gesetz.
 
-
 ### 4b. - Verteilung der Versorgungslasten bei Übernahme von Berufssoldaten in ein öffentlich-rechtliches Dienstverhältnis eines anderen Dienstherrn
-
-
 
 #### § 92b
 
@@ -5814,10 +5445,7 @@ Versorgungslastenteilungs-Staatsvertrags für den Bund eingetreten ist.
 In diesem Fall ist § 10 des Versorgungslastenteilungs-Staatsvertrags
 anzuwenden.
 
-
 ### 4c. - Verteilung der Versorgungslasten bei erneuter Berufung in ein öffentlich-rechtliches Dienstverhältnis eines anderen Dienstherrn in dem in Artikel 3 des Einigungsvertrages genannten Gebiet
-
-
 
 #### § 92c
 
@@ -5830,10 +5458,7 @@ Beamtenversorgungsgesetzes mit der Maßgabe entsprechend anzuwenden,
 dass die Ruhensvorschrift des § 55 dieses Gesetzes an die Stelle des §
 54 des Beamtenversorgungsgesetzes tritt.
 
-
 ### 5. - Benennung eines Kontos
-
-
 
 #### § 93
 
@@ -5850,10 +5475,7 @@ Empfänger. Eine Auszahlung auf andere Weise kann nur zugestanden
 werden, wenn dem Empfänger die Einrichtung oder Benutzung eines Kontos
 aus wichtigem Grunde nicht zugemutet werden kann.
 
-
 ### 6. - Anwendung bisherigen und neuen Rechts für am 1. Januar 1977 vorhandene Versorgungsempfänger
-
-
 
 #### § 94
 
@@ -5977,10 +5599,7 @@ Gesetzes anzuwenden; bei der Anwendung von § 55b Absatz 1 Satz 1 in
 der bis zum 31. Dezember 1991 geltenden Fassung gilt § 97 Absatz 4 für
 die Verminderung der Vomhundertsätze entsprechend.
 
-
 ### 6a. - Anwendung bisherigen und neuen Rechts für am 1. Januar 1992 vorhandene Versorgungsempfänger
-
-
 
 #### § 94a
 
@@ -6047,13 +5666,7 @@ geltenden Recht mit folgenden Maßgaben:
     1 in der bis zum 31. Dezember 1991 geltenden Fassung gilt § 97 Absatz
     4 für die Verminderung der Vomhundertsätze entsprechend.
 
-
-
-
-
 ### 6b. - Ruhegehaltssatz für am 31. Dezember 1991 vorhandene Berufssoldaten
-
-
 
 #### § 94b
 
@@ -6138,10 +5751,7 @@ entsprechend.
 
 (10) Die §§ 24a und 24b sind anzuwenden.
 
-
 ### 6c. - Erneute Berufung in das Dienstverhältnis eines Berufssoldaten
-
-
 
 #### § 94c
 
@@ -6158,10 +5768,7 @@ Anwendung des § 94b Absatz 1 und 2 gilt die Zeit des Ruhestandes nicht
 als Unterbrechung des Dienstverhältnisses; die Zeit im Ruhestand ist
 nicht ruhegehaltfähig. Das höhere Ruhegehalt wird gezahlt.
 
-
 ### 7. - Übergangsregelungen für vor dem 1. Juli 1997 eingetretene Versorgungsfälle
-
-
 
 #### § 95
 
@@ -6187,10 +5794,7 @@ zustehenden Betrages weiter. Künftige Hinterbliebene der in den Sätzen
 3 und 5 genannten Versorgungsempfänger erhalten die jeweiligen Beträge
 entsprechend anteilig.
 
-
 ### 8. - Übergangsregelungen für vor dem 1. Januar 1999 eingetretene Versorgungsfälle und für am 1. Januar 1999 vorhandene Soldaten
-
-
 
 #### § 96
 
@@ -6234,10 +5838,7 @@ Satz 2 mit der Maßgabe, dass in der jeweils anzuwendenden Fassung des
 an die Stelle der Zahl „2,5“ die Zahl „2,39167“ tritt. § 55a Absatz 1
 Satz 8 und 9 gilt entsprechend.
 
-
 ### 8a. - Übergangsregelungen für vor dem 1. Januar 2001 eingetretene Versorgungsfälle und für am 1. Januar 2001 vorhandene Berufssoldaten
-
-
 
 #### § 96a
 
@@ -6314,13 +5915,7 @@ werden, gilt Folgendes:
 
     *   7
 
-
-
-
-
 ### 9. - Übergangsregelungen aus Anlass des Versorgungsänderungsgesetzes 2001 sowie des Dienstrechtsneuordnungsgesetzes
-
-
 
 #### § 97
 
@@ -6554,10 +6149,7 @@ Entwicklung der Alterssicherungssysteme und der Situation in den
 öffentlich-rechtlichen Versorgungssystemen sowie der Entwicklung der
 allgemeinen wirtschaftlichen und finanziellen Verhältnisse zu prüfen.
 
-
 ### 10. - Übergangsregelungen aus Anlass des Berufsförderungsfortentwicklungsgesetzes
-
-
 
 #### § 98
 
@@ -6586,10 +6178,7 @@ dem 1. Januar 2006 ihren Eingliederungsschein zum Zweck des Erhalts
 von Ausgleichsbezügen zur Personalakte bei dem neuen Dienstherrn
 gegeben haben, weiter anzuwenden.
 
-
 ### 10a. - Übergangsregelung aus Anlass des Wegfalls des Instituts der Anstellung
-
-
 
 #### § 98a
 
@@ -6598,10 +6187,7 @@ auf Probe nicht gleichzeitig ein Amt verliehen wird, sind § 8a Absatz
 1, § 9 Absatz 4 und 5 sowie § 11a in der bis zum 11. Februar 2009
 geltenden Fassung anzuwenden.
 
-
 ### 11. - Übergangsregelungen zur Berücksichtigung von Hochschulausbildungszeiten
-
-
 
 #### § 99
 
@@ -6617,10 +6203,7 @@ für jeden nach diesem Tag beginnenden Kalendermonat bis einschließlich
 des Kalendermonats, in dem der Versorgungsfall eintritt, um jeweils
 fünf Tage vermindert.
 
-
 ### 12. - Versorgungsüberleitungsregelungen aus Anlass des Dienstrechtsneuordnungsgesetzes
-
-
 
 #### § 100
 
@@ -6709,10 +6292,7 @@ Ausnahme der Bezüge nach Absatz 1 Nummer 1 Buchstabe b und Nummer 2
 sowie nach Absatz 2 Nummer 2 in Verbindung mit Absatz 1 Nummer 2 um
 2,44 vom Hundert erhöht.
 
-
 ### 13. - Übergangsregelungen aus Anlass des Einsatzversorgungs-Verbesserungsgesetzes
-
-
 
 #### § 101
 
@@ -6769,10 +6349,7 @@ Aus gleichem Anlass bereits gewährte Leistungen nach § 63 oder § 63a
 sind anzurechnen. Die Sätze 1 und 2 gelten für die einmalige
 Entschädigung nach § 63e entsprechend.
 
-
 ### 14. - Übergangsregelungen aus Anlass des Bundeswehrreform-Begleitgesetzes
-
-
 
 #### § 102
 
@@ -6787,7 +6364,6 @@ bisherige Recht.
 (2) § 5 Absatz 8, § 6 Absatz 2, die §§ 7 und 11 Absatz 6, die §§ 11a
 und 12 Absatz 7 sowie die §§ 21, 44, 45, 59, 89a und 101 sind
 anzuwenden.
-
 
 #### Anhang EV Auszug aus EinigVtr Anlage I Kapitel XIX Sachgebiet B Abschnitt III (BGBl. II 1990, 889, 1146) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 

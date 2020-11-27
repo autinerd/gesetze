@@ -16,13 +16,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1971, 1945
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## § 1
 
@@ -33,12 +30,10 @@ Gemeindegebiet, über die Wohnungsversorgung, die Wohnparteien und
 deren Miet- und Einkommensverhältnisse sowie den Wohnungsbedarf nach
 den Verhältnissen im April 1972 durchgeführt.
 
-
 ## § 2
 
 Die Wohnungsstichprobe erstreckt sich im Bundesdurchschnitt auf
 höchstens 1 vom Hundert der Gebäude mit Wohnraum.
-
 
 ## § 3
 
@@ -95,13 +90,6 @@ In der Wohnungsstichprobe sind zu erfassen:
 
     e)  bei Untermietern Größe und Einrichtung der Räume und Höhe der Miete.
 
-
-
-
-
-
-
-
 ## § 4
 
 (1) Auskunftspflichtig sind alle Haushaltsvorstände und die im
@@ -118,7 +106,6 @@ Gemeinden.
 der Gebäudeeigentümer, sein Vertreter oder deren Beauftragter nicht im
 ausgewählten Gebäude oder wird die Gemeinde befragt, können die
 Auskünfte schriftlich eingeholt werden.
-
 
 ## § 5
 
@@ -142,16 +129,11 @@ Stichprobe erfaßt werden - haben auszufüllen
     Grundstücke zu gestatten; das Grundrecht aus Artikel 13 des
     Grundgesetzes wird insoweit eingeschränkt.
 
-
-
-
-
 ## § 6
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
 im Land Berlin.
-
 
 ## § 7
 

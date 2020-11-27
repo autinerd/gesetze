@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 2707
 
-
 ## § 1 Einrichtung eines Zentrums für Krebsregisterdaten
 
 (1) Beim Robert Koch-Institut wird ein Zentrum für Krebsregisterdaten
@@ -24,7 +23,6 @@ eingerichtet.
 (2) Zur fachlichen Beratung und Begleitung des Zentrums für
 Krebsregisterdaten wird ein Beirat eingerichtet. Die Mitglieder des
 Beirats werden vom Bundesministerium für Gesundheit berufen.
-
 
 ## § 2 Aufgaben
 
@@ -81,10 +79,6 @@ Das Zentrum für Krebsregisterdaten hat folgende Aufgaben:
 8.  die Mitarbeit in wissenschaftlichen Gremien, europäischen und
     internationalen Organisationen mit Bezug zu Krebsregistrierung und
     Krebsepidemiologie.
-
-
-
-
 
 ## § 3 Datenübermittlung
 
@@ -169,7 +163,6 @@ Mehrfachmeldungen bereinigt und vollständig in einem einheitlichen
 Format übermittelt werden. Die Daten klinischer Krebsregistrierung
 sind zu nutzen.
 
-
 ## § 4 Kontrollnummer, Datenabgleich
 
 (1) Für den Datenabgleich der Landeskrebsregister untereinander und
@@ -189,7 +182,6 @@ Rechtsverordnung mit Zustimmung des Bundesrates Vorgaben für die
 Bildung der Kontrollnummer nach Absatz 1 sowie für den Umgang mit den
 vom Zentrum für Krebsregisterdaten festgestellten
 Mehrfachübermittlungen der Landeskrebsregister festzulegen.
-
 
 ## § 5 Datennutzung
 
@@ -213,7 +205,6 @@ regeln.
 (4) Das Zentrum für Krebsregisterdaten veröffentlicht Auswertungen und
 stellt Auswertungswerkzeuge auf einer interaktiven Internetplattform
 zur Verfügung.
-
 
 ## § 6 Zusammenarbeit des Zentrums für Krebsregisterdaten mit den Landeskrebsregistern
 

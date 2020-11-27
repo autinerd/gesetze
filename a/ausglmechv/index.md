@@ -18,18 +18,15 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 G v. 17.8.2012 I 1754
 
-
 ## Eingangsformel
 
 Auf Grund des § 64 Absatz 3 des Erneuerbare-Energien-Gesetzes vom 25.
 Oktober 2008 (BGBl. I S. 2074) verordnet die Bundesregierung mit
 Zustimmung des Bundestages:
 
-
 ## § 1 (weggefallen)
 
 -
-
 
 ## § 2 Vermarktung
 
@@ -41,7 +38,6 @@ und gewissenhaften Händlers anzuwenden. Dabei sind die Vorgaben der
 Bundesnetzagentur insbesondere zu Vermarktung, Handelsplatz,
 Prognoseerstellung, Beschaffung der Ausgleichsenergie, Transparenz-
 und Übermittlungspflichten einzuhalten.
-
 
 ## § 3 EEG-Umlage
 
@@ -152,7 +148,6 @@ Absatz 1 Nummer 1 zusätzlich eine Liquiditätsreserve vorsehen. Sie
 darf 10 Prozent des Differenzbetrages nach Absatz 1 Nummer 1 nicht
 überschreiten.
 
-
 ## § 4 Prognose der Einnahmen und Ausgaben
 
 Die Prognosen nach § 3 sind nach dem Stand von Wissenschaft und
@@ -163,17 +158,14 @@ folgende Kalenderjahr zu Grunde zu legen. Maßgeblich ist dabei der
 Handelszeitraum zwischen dem 1. Oktober des vorangegangenen
 Kalenderjahres und dem 30. September des laufenden Kalenderjahres.
 
-
 ## § 5 Beweislast
 
 Ist die Erforderlichkeit oder die Höhe der Aufwendungen nach § 3
 streitig, trifft die Beweislast die Übertragungsnetzbetreiber.
 
-
 ## § 6 (weggefallen)
 
 -
-
 
 ## § 7 Übermittlungs- und Veröffentlichungspflichten der Übertragungsnetzbetreiber
 
@@ -204,11 +196,9 @@ die nach § 3 Absatz 3 Nummer 1 bis 5 und Absatz 4 Nummer 1 bis 7
 jeweils aufgeschlüsselten Einnahmen und Ausgaben des Vorjahres
 übermitteln.
 
-
 ## § 8 (weggefallen)
 
 -
-
 
 ## § 9 Evaluierung
 
@@ -219,13 +209,11 @@ einer Evaluierung und Vorschlägen zur weiteren Ausgestaltung des
 Ausgleichsmechanismus nach dieser Verordnung vor, insbesondere zur
 Übertragung der Aufgabe der Vermarktung auf Dritte.
 
-
 ## § 10 Bilanz der Wälzung durch die Bundesnetzagentur
 
 Die Bundesnetzagentur erstellt für die Angaben nach § 7 Absatz 2 eine
 zusammengefasste Bilanz und veröffentlicht diese in nicht
 personenbezogener Form auf ihren Internetseiten.
-
 
 ## § 11 Verordnungsermächtigung
 
@@ -256,14 +244,12 @@ Technologie
 
 zu regeln.
 
-
 ## § 12 Übergangsbestimmungen
 
 Diese Verordnung findet keine Anwendung auf Strommengen und
 Vergütungszahlungen, die sich aus den Abrechnungen nach § 37 Absatz 4
 des Erneuerbare-Energien-Gesetzes für die Kalenderjahre 2008 und 2009
 ergeben.
-
 
 ## § 13 Inkrafttreten
 

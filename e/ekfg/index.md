@@ -18,12 +18,10 @@ Fundstelle
 Geändert durch
 :   Art. 1 G v. 29.7.2011 I 1702
 
-
 ## § 1 Errichtung des Sondervermögens
 
 Es wird zum 1. Januar 2011 ein Sondervermögen des Bundes mit der
 Bezeichnung „Energie- und Klimafonds“ errichtet.
-
 
 ## § 2 Zweck des Sondervermögens
 
@@ -73,7 +71,6 @@ an auf einen Betrag von 300 Millionen Euro begrenzt.
 nicht bereits im Bundeshaushalt oder in der Finanzplanung des Bundes
 berücksichtigt sind.
 
-
 ## § 3 Stellung im Rechtsverkehr
 
 (1) Das Sondervermögen ist nicht rechtsfähig. Es kann unter seinem
@@ -85,7 +82,6 @@ eines Dritten bedienen.
 
 (2) Das Sondervermögen ist von dem übrigen Vermögen des Bundes, seinen
 Rechten und Verbindlichkeiten getrennt zu halten.
-
 
 ## § 4 Einnahmen des Sondervermögens und Ermächtigungen
 
@@ -135,12 +131,10 @@ des Wirtschaftsplans des laufenden Jahres erhalten. Die Summe aller
 Darlehensverbindlichkeiten darf zu keinem Zeitpunkt höher sein als 20
 Prozent des Gesamtvolumens des Wirtschaftsplans des laufenden Jahres.
 
-
 ## § 5 Rücklagen
 
 Das Sondervermögen kann zur Erfüllung des gesetzlichen Zwecks
 Rücklagen bilden.
-
 
 ## § 6 Wirtschaftsplan und Haushaltsrecht
 
@@ -151,7 +145,6 @@ der Anlage zu diesem Gesetz und wird in den Folgejahren mit dem
 Haushaltsgesetz festgestellt. Im Übrigen ist § 113 der
 Bundeshaushaltsordnung anzuwenden.
 
-
 ## § 7 Rechnungslegung
 
 Das Bundesministerium der Finanzen stellt für das Sondervermögen am
@@ -161,23 +154,19 @@ die Vermögensrechnung (Bilanz und Gewinn- und Verlustrechnung nach den
 Vorschriften des Handelsgesetzbuchs) auf. Die Rechnungen sind als
 Übersichten der Haushaltsrechnung des Bundes beizufügen.
 
-
 ## § 8 Berichtspflichten
 
 Die Bundesregierung berichtet dem Haushaltsausschuss des Deutschen
 Bundestages jährlich bis zum 31. März über die zweckentsprechende
 Verwendung der im Vorjahr verausgabten Mittel.
 
-
 ## § 9 Verwaltungskosten
 
 Die Kosten für die Verwaltung des Sondervermögens trägt der Bund.
 
-
 ## § 10 Inkrafttreten
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Anlage (zu § 6 Satz 3) Wirtschaftsplan des Energie- und Klimafonds
 

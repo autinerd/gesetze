@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 V v. 10.12.2012 I 2630
 
-
 ## Eingangsformel
 
 Auf Grund des § 34 Abs. 6 und des § 63 Abs. 4 des Patentgesetzes in
@@ -30,7 +29,6 @@ Verbindung mit § 20 der Verordnung über das Deutsche Patent- und
 Markenamt vom 5. September 1968 (BGBl. I S. 997), der durch Artikel 24
 Nr. 2 des Gesetzes vom 13. Dezember 2001 (BGBl. I S. 3656) neu gefasst
 worden ist, verordnet das Deutsche Patent- und Markenamt:
-
 
 ## Inhaltsverzeichnis
 
@@ -197,20 +195,13 @@ worden ist, verordnet das Deutsche Patent- und Markenamt:
 
     *   Standards für die Einreichung von Zeichnungen
 
-
-
-
-
 ## Abschnitt 1 - Allgemeines
-
-
 
 ### § 1 Anwendungsbereich
 
 Für die im Patentgesetz geregelten Verfahren vor dem Deutschen Patent-
 und Markenamt gelten ergänzend zu den Bestimmungen des Patentgesetzes
 und der DPMA-Verordnung die Bestimmungen dieser Verordnung.
-
 
 ### § 2 DIN-Normen, Einheiten im Messwesen, Symbole und Zeichen
 
@@ -224,10 +215,7 @@ erlassenen Ausführungsverordnung in den jeweils geltenden Fassungen
 anzugeben. Bei chemischen Formeln sind die auf dem Fachgebiet national
 oder international anerkannten Zeichen und Symbole zu verwenden.
 
-
 ## Abschnitt 2 - Patentanmeldungen; Patentverfahren
-
-
 
 ### § 3 Form der Einreichung
 
@@ -235,7 +223,6 @@ Die Anmeldung (§ 34 des Patentgesetzes) und die Zusammenfassung (§ 36
 des Patentgesetzes) sind beim Deutschen Patent- und Markenamt
 schriftlich einzureichen. Für die elektronische Einreichung ist § 12
 der DPMA-Verordnung maßgebend.
-
 
 ### § 4 Erteilungsantrag
 
@@ -322,7 +309,6 @@ mitgeteilten Kennnummer hinzuweisen.
 nach § 34a Satz 1 des Patentgesetzes sind dem Antrag auf einem
 gesonderten Blatt beizufügen.
 
-
 ### § 5 Anmeldungsunterlagen
 
 (1) Die Anmeldungsunterlagen und die Zusammenfassung dürfen im Text
@@ -339,7 +325,6 @@ der gesamten Anmeldung einheitlich zu verwenden, sofern nicht die
 Verwendung verschiedener Ausdrücke sachdienlich ist. Hinsichtlich der
 technischen Begriffe und Bezeichnungen gilt dies auch für
 Zusatzanmeldungen im Verhältnis zur Hauptanmeldung.
-
 
 ### § 6 Formerfordernisse der Anmeldung
 
@@ -426,7 +411,6 @@ Kursivschreibungen, Fettdruck oder Sperrungen beinhalten.
 (6) Die Anmeldungsunterlagen sollen deutlich erkennen lassen, zu
 welcher Anmeldung sie gehören.
 
-
 ### § 7 Benennung des Erfinders
 
 (1) Der Anmelder hat den Erfinder schriftlich auf dem vom Deutschen
@@ -458,10 +442,6 @@ Formatvorgaben zu benennen.
     von mehreren Personen beantragt, so hat jede von ihnen oder ihr
     Vertreter die Benennung zu unterzeichnen.
 
-
-
-
-
 ### § 8 Nichtnennung des Erfinders; Änderungen der Erfindernennung
 
 (1) Der Antrag des Erfinders, ihn nicht als Erfinder zu nennen, der
@@ -474,7 +454,6 @@ Erfindung sowie das amtliche Aktenzeichen enthalten.
 (2) Die Zustimmung des Anmelders oder Patentinhabers sowie des zu
 Unrecht Benannten zur Berichtigung oder Nachholung der Nennung (§ 63
 Abs. 2 des Patentgesetzes) hat schriftlich zu erfolgen.
-
 
 ### § 9 Patentansprüche
 
@@ -531,7 +510,6 @@ sein.
 entsprechend den vom Deutschen Patent- und Markenamt bekannt gemachten
 Formatvorgaben zu verwenden.
 
-
 ### § 10 Beschreibung
 
 (1) Am Anfang der Beschreibung nach § 34 Abs. 3 Nr. 4 des
@@ -584,7 +562,6 @@ Bezugnahme auf diese ersetzt werden.
 den vom Deutschen Patent- und Markenamt bekannt gemachten
 Formatvorgaben zu verwenden.
 
-
 ### § 11 Beschreibung von Nukleotid- und Aminosäuresequenzen
 
 (1) Sind in der Patentanmeldung Strukturformeln in Form von Nukleotid-
@@ -620,12 +597,10 @@ Standard für die Einreichung von Sequenzprotokollen regelt.
 
 (5) (weggefallen)
 
-
 ### § 12 Zeichnungen
 
 Eingereichte Zeichnungen müssen den in der Anlage 2 enthaltenen
 Standards entsprechen.
-
 
 ### § 13 Zusammenfassung
 
@@ -640,7 +615,6 @@ werden, die die Erfindung am deutlichsten kennzeichnet.
 (4) Bei Einreichung in elektronischer Form ist eine Datei entsprechend
 den vom Deutschen Patent- und Markenamt bekannt gemachten
 Formatvorgaben zu verwenden.
-
 
 ### § 14 Deutsche Übersetzungen
 
@@ -690,10 +664,7 @@ bestellten Übersetzer angefertigt sein. Wird die Übersetzung nicht
 fristgerecht eingereicht, so gilt das fremdsprachige Schriftstück als
 zum Zeitpunkt des Eingangs der Übersetzung zugegangen.
 
-
 ## Abschnitt 3 - Sonstige Formerfordernisse
-
-
 
 ### § 15 Nachgereichte Anmeldungsunterlagen; Änderung von Anmeldungsunterlagen
 
@@ -725,7 +696,6 @@ Erklärung beizufügen, dass die Reinschrift keine über die vom
 Deutschen Patent- und Markenamt vorgeschlagenen Änderungen
 hinausgehenden Änderungen enthält.
 
-
 ### § 16 Modelle und Proben
 
 (1) Modelle und Proben sind nur auf Anforderung des Deutschen Patent-
@@ -749,22 +719,17 @@ steifem Papier (Format A4 nach DIN 476) dauerhaft befestigt sein. Sie
 sind durch eine genaue Beschreibung des angewandten Herstellungs- oder
 Verwendungsverfahrens zu erläutern.
 
-
 ### § 17 Öffentliche Beglaubigung von Unterschriften
 
 Auf Anforderung des Deutschen Patent- und Markenamts sind die in § 7
 Abs. 2 Nr. 5 und in § 8 genannten Unterschriften öffentlich
 beglaubigen zu lassen (§ 129 des Bürgerlichen Gesetzbuchs).
 
-
 ### § 18
 
 (weggefallen)
 
-
 ## Abschnitt 4 - Ergänzende Schutzzertifikate
-
-
 
 ### § 19 Form der Einreichung
 
@@ -779,7 +744,6 @@ sind entsprechend anzuwenden.
 Angaben zur Erläuterung des durch das Grundpatent vermittelten
 Schutzes beizufügen.
 
-
 ### § 20 Ergänzende Schutzzertifikate für Arzneimittel
 
 Der Antrag auf Erteilung eines ergänzenden Schutzzertifikats für
@@ -790,7 +754,6 @@ Nr. 469/2009 des Europäischen Parlaments und des Rates vom 6. Mai 2009
 über das ergänzende Schutzzertifikat für Arzneimittel (ABl. L 152 vom
 16\.6.2009, S. 1) bezeichnet sind.
 
-
 ### § 21 Ergänzende Schutzzertifikate für Pflanzenschutzmittel
 
 Der Antrag auf Erteilung eines ergänzenden Schutzzertifikats für
@@ -800,10 +763,7 @@ und des Rates vom 23. Juli 1996 über die Schaffung eines ergänzenden
 Schutzzertifikats für Pflanzenschutzmittel (ABl. L 198 vom 8.8.1996,
 S. 30) bezeichnet sind.
 
-
 ## Abschnitt 5 - Übergangs- und Schlussbestimmungen
-
-
 
 ### § 22 Übergangsregelung
 
@@ -813,11 +773,9 @@ eines ergänzenden Schutzzertifikats, die vor Inkrafttreten von
 bisherigen Vorschriften in ihrer bis dahin geltenden Fassung
 anzuwenden.
 
-
 ### § 23 Inkrafttreten; Außerkrafttreten
 
 Diese Verordnung tritt am 15. Oktober 2003 in Kraft.
-
 
 ### Anlage 1 (zu § 11 Abs. 1 Satz 2) Standards für die Einreichung von Sequenzprotokollen
 
@@ -3725,9 +3683,6 @@ Zu verwendende Symbole
     *
     *
     *
-
-
-
 
 ### Anlage 2 (zu § 12) Standards für die Einreichung von Zeichnungen
 

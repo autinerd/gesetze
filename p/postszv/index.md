@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 2 V v. 9.5.2011 I 818
 
-
 ## Eingangsformel
 
 Auf Grund des § 10 Abs. 2 des Postpersonalrechtsgesetzes vom 14.
@@ -28,7 +27,6 @@ Nr. 4 des Gesetzes vom 14. September 2005 (BGBl. I S. 2746) geändert
 worden ist, verordnet das Bundesministerium der Finanzen nach Anhörung
 des Vorstands der Deutschen Post AG im Einvernehmen mit dem
 Bundesministerium des Innern:
-
 
 ## § 1 Monatliche Sonderzahlungen für die Jahre 2005 bis 2007
 
@@ -62,7 +60,6 @@ ausgezahlt. Für die Zeit von Januar 2005 bis zum Monat der Verkündung
 dieser Verordnung wird die monatliche Sonderzahlung am ersten Tag des
 übernächsten auf die Verkündung folgenden Monats fällig.
 
-
 ## § 1a Monatliche Sonderzahlungen für die Jahre 2008 bis 2011
 
 Die bei der Deutschen Post AG beschäftigten Beamtinnen und Beamten mit
@@ -79,7 +76,6 @@ eine monatliche Sonderzahlung in der Höhe, die ihnen im Monat Dezember
 
 
 § 6 Absatz 1 des Bundesbesoldungsgesetzes gilt entsprechend.
-
 
 ## § 2 Inkrafttreten
 

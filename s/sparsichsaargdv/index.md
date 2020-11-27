@@ -16,14 +16,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1959, 561
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 2 Abs. 3 des Gesetzes zur Sicherung von Ersparnissen
 im Saarland vom 30. Juni 1959 (Bundesgesetzbl. I S. 367) verordnet die
 Bundesregierung:
-
 
 ## § 1
 
@@ -62,7 +59,6 @@ minderbemittelte Personen.
 Gemeinnützigkeitsverordnung vom 24. Dezember 1953 (Bundesgesetzbl. I
 S. 1592)              maßgebend.
 
-
 ## § 2
 
 (1) Eine Sparanlage gilt als für die begünstigten Zwecke gebunden,
@@ -95,7 +91,6 @@ Entsprechendes gilt für das Vermögen von Stiftungen, Legaten und
 ähnlichen Vermögensmassen, sofern diese überwiegend dazu bestimmt
 waren, Hilfe in Fällen der Not zu ermöglichen.
 
-
 ## § 3
 
 Diente das Vermögen des Berechtigten am 19. Dezember 1958 nur
@@ -126,16 +121,11 @@ teilweise den begünstigten Zwecken, so gilt folgendes:
     aufgewendeten Beträge als für Zwecke der Unterstützung natürlicher
     Personen gebunden anzusehen.
 
-
-
-
-
 ## § 4
 
 Die Leistung nach § 5 des Gesetzes wird in den Fällen des § 1 Abs. 1
 nur auf Antrag gewährt. Über die Anträge entscheidet die
 Oberfinanzdirektion Saarbrücken.
-
 
 ## § 5
 
@@ -144,11 +134,9 @@ Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 Gesetzes zur Sicherung von Ersparnissen im Saarland auch im Land
 Berlin.
 
-
 ## § 6
 
 Diese Verordnung tritt mit Wirkung vom 6. Juli 1959 in Kraft.
-
 
 ## Anlage 1 (zu § 1 Abs. 1)
 
@@ -178,10 +166,6 @@ Fundstelle des Originaltextes: BGBl. I 1959, 563
 
 
 8.  Notarkammer des Saarlandes hinsichtlich ihrer Versorgungseinrichtung
-
-
-
-
 
 ## Anlage 2 (zu § 3 Nr. 2) Tabelle für die Ermittlung der Höhe der im Sinne des § 3 Nr. 2 für die begünstigten Zwecke gebundenen Rückstellungen
 

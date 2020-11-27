@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2003, 965
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
@@ -28,17 +26,14 @@ und dem Organisationserlass vom 22. Oktober 2002 (BGBl. I S. 4206)
 verordnet das Bundesministerium für Wirtschaft und Arbeit im
 Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Produktgestalter-Textil/Produktgestalterin-Textil
 wird staatlich anerkannt.
 
-
 ## § 2 Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Zielsetzung der Berufsausbildung
 
@@ -52,12 +47,10 @@ Kontrollieren sowie das Handeln im betrieblichen Gesamtzusammenhang
 einschließt. Die in Satz 2 beschriebene Befähigung ist auch in den
 Prüfungen nach den §§ 8 und 9 nachzuweisen.
 
-
 ## § 4 Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans
 für die Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 5 Berichtsheft
 
@@ -65,7 +58,6 @@ Die Auszubildenden haben ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden
 haben das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 6 Ausbildungsberufsbild
 
@@ -116,10 +108,6 @@ Qualifikationen:
 
 15. Produktionstechnisches Umsetzen.
 
-
-
-
-
 ## § 7 Ausbildungsrahmenplan
 
 Die in § 6 genannten Qualifikationen (Ausbildungsberufsbild) sollen
@@ -129,7 +117,6 @@ vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende
 sachliche und zeitliche Gliederung der Ausbildungsinhalte ist
 insbesondere zulässig, soweit betriebspraktische Besonderheiten die
 Abweichung erfordern.
-
 
 ## § 8 Zwischenprüfung
 
@@ -179,7 +166,6 @@ Abwandeln des Motivs nachgewiesen werden.
 Arbeitsaufgabe, die situative Gesprächsphasen beinhaltet. Die Prüfung
 soll in insgesamt höchstens sieben Stunden durchgeführt werden, wobei
 die Gesprächsphasen insgesamt höchstens zehn Minuten umfassen sollen.
-
 
 ## § 9 Abschlussprüfung
 
@@ -339,7 +325,6 @@ Ermittlung des Ergebnisses für die mündlich geprüften Prüfungsbereiche
 sind das bisherige Ergebnis und das Ergebnis der mündlichen
 Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-
 ## § 10 Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
@@ -347,11 +332,9 @@ Verordnung bestehen, sind die bisherigen Vorschriften weiter
 anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
 Anwendung der Vorschriften dieser Verordnung.
 
-
 ## § 11 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2003 in Kraft.
-
 
 ## Anlage (zu § 7) Ausbildungsrahmenplan für die Berufsausbildung zum Produktgestalter-Textil/zur Produktgestalterin-Textil
 

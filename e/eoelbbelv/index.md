@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1972, 254
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 4 Abs. 2 und des § 9 Abs. 4 des Gesetzes über
@@ -25,7 +23,6 @@ Mindestvorräte an Erdölerzeugnissen vom 9. September 1965
 (Bundesgesetzbl. I S. 1217), geändert durch das Einführungsgesetz zum
 Gesetz über Ordnungswidrigkeiten vom 24. Mai 1968 (Bundesgesetzbl. I
 S. 503), wird verordnet:
-
 
 ## § 1
 
@@ -38,7 +35,6 @@ Erdöl
 (§ 3 des Gesetzes),              die sich in Belgien befinden
 (anrechenbare Bestände), nach Maßgabe der nachfolgenden Bestimmungen
 erfüllt werden.
-
 
 ## § 2
 
@@ -79,13 +75,6 @@ Anrechenbare Bestände sind
         Unternehmer zur Verfügung gehalten werden, gestellten Antrag auf
         Anrechnung schriftlich zugestimmt hat.
 
-
-
-
-
-
-
-
 ## § 3
 
 (1) Den Meldungen nach
@@ -120,7 +109,6 @@ Ablichtung der Verpflichtungserklärung des belgischen Unternehmers (§
 für die Energie zuständigen Ministers des Königreichs Belgien (§ 2 Nr.
 3 Buchstabe c) beizufügen.
 
-
 ## § 4
 
 Mit Beständen, deren Anrechenbarkeit der für die Energie zuständigen
@@ -129,7 +117,6 @@ Abkommens über die gegenseitige Anrechnung von Beständen an Erdöl und
 Erdölerzeugnissen vom 23. Oktober 1971 (Bundesgesetzbl. 1972 II S. 89)
 - Abkommen - beanstandet hat, kann die Pflicht zur Vorratshaltung
 nicht erfüllt werden.
-
 
 ## § 5
 
@@ -141,18 +128,15 @@ die Menge nicht unterschreiten, die sich in entsprechender Anwendung
 des Artikels 6 Abs. 2 Satz 2 des Abkommens für den Vorratspflichtigen
 ergeben.
 
-
 ## § 6
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit § 22 des
 Gesetzes auch im Land Berlin.
 
-
 ## § 7
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
-
 
 ## Schlußformel
 

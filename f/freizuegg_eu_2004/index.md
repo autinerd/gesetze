@@ -18,13 +18,11 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 14 G v. 20.12.2011 I 2854
 
-
 ## § 1 Anwendungsbereich
 
 Dieses Gesetz regelt die Einreise und den Aufenthalt von
 Staatsangehörigen anderer Mitgliedstaaten der Europäischen Union
 (Unionsbürger) und ihrer Familienangehörigen.
-
 
 ## § 2 Recht auf Einreise und Aufenthalt
 
@@ -112,7 +110,6 @@ begleiten oder ihm nachziehen.
 (6) Für die Ausstellung der Bescheinigung über das Aufenthaltsrecht
 und des Visums werden keine Gebühren erhoben.
 
-
 ## § 3 Familienangehörige
 
 (1) Familienangehörige der in § 2 Abs. 2 Nr. 1 bis 5 genannten
@@ -186,7 +183,6 @@ bis 4 zur Einreise und zum Aufenthalt berechtigten Person sind die für
 den Lebenspartner eines Deutschen geltenden Vorschriften des
 Aufenthaltsgesetzes anzuwenden.
 
-
 ## § 4 Nicht erwerbstätige Freizügigkeitsberechtigte
 
 Nicht erwerbstätige Unionsbürger, ihre Familienangehörigen und ihre
@@ -196,7 +192,6 @@ Krankenversicherungsschutz und ausreichende Existenzmittel verfügen.
 Hält sich der Unionsbürger als Student im Bundesgebiet auf, haben
 dieses Recht nur sein Ehegatte, Lebenspartner und seine Kinder, denen
 Unterhalt gewährt wird.
-
 
 ## § 4a Daueraufenthaltsrecht
 
@@ -302,7 +297,6 @@ Bundesgebiet aufhalten.
 vorübergehenden Grund von mehr als zwei aufeinander folgenden Jahren
 führt zum Verlust des Daueraufenthaltsrechts.
 
-
 ## § 5 Bescheinigungen über gemeinschaftsrechtliche Aufenthaltsrechte, Aufenthaltskarten
 
 (1) Freizügigkeitsberechtigten Unionsbürgern und ihren
@@ -344,7 +338,6 @@ Antragstellung eine Daueraufenthaltskarte ausgestellt.
 
 (7) Für den Verlust des Daueraufenthaltsrechts nach § 4a Abs. 7 gilt
 Absatz 5 Satz 1 entsprechend.
-
 
 ## § 5a Vorlage von Dokumenten
 
@@ -390,7 +383,6 @@ gültigen Pass oder Passersatz und zusätzlich
 
 
 verlangen.
-
 
 ## § 6 Verlust des Rechts auf Einreise und Aufenthalt
 
@@ -448,7 +440,6 @@ so kann dies die Aufenthaltsbeendigung nicht begründen.
 (8) Vor der Feststellung nach Absatz 1 soll der Betroffene angehört
 werden. Die Feststellung bedarf der Schriftform.
 
-
 ## § 7 Ausreisepflicht
 
 (1) Unionsbürger sind ausreisepflichtig, wenn die Ausländerbehörde
@@ -469,7 +460,6 @@ Verbot nach Satz 1 wird auf Antrag befristet. Die Frist beginnt mit
 der Ausreise. Ein nach angemessener Frist oder nach drei Jahren
 gestellter Antrag auf Aufhebung ist innerhalb von sechs Monaten zu
 bescheiden.
-
 
 ## § 8 Ausweispflicht
 
@@ -516,13 +506,11 @@ sie die Echtheit des Dokumentes oder die Identität des Inhabers
 unverzüglich nach Beendigung der Prüfung der Echtheit des Dokumentes
 oder der Identität des Inhabers zu löschen.
 
-
 ## § 9 Strafvorschriften
 
 Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer entgegen § 7 Abs. 2 Satz 1 in das Bundesgebiet einreist
 oder sich darin aufhält.
-
 
 ## § 10 Bußgeldvorschriften
 
@@ -544,7 +532,6 @@ Fällen mit einer Geldbuße bis zu tausend Euro geahndet werden.
 über Ordnungswidrigkeiten ist in den Fällen der Absätze 1 und 3 die in
 der Rechtsverordnung nach § 58 Abs. 1 des Bundespolizeigesetzes
 bestimmte Bundespolizeibehörde.
-
 
 ## § 11 Anwendung des Aufenthaltsgesetzes
 
@@ -596,7 +583,6 @@ Anwendung, sofern dieses Gesetz keine besonderen Regelungen trifft.
 Jahren entsprechen den Zeiten des Besitzes einer Aufenthaltserlaubnis,
 Zeiten über fünf Jahren dem Besitz einer Niederlassungserlaubnis.
 
-
 ## § 11a Verordnungsermächtigung
 
 Das Bundesministerium des Innern wird ermächtigt, durch
@@ -609,12 +595,10 @@ Personalausweisgesetzes und Einzelheiten zum elektronischen
 Identitätsnachweis entsprechend § 34 Nummer 5 bis 7 des
 Personalausweisgesetzes festzulegen.
 
-
 ## § 12 Staatsangehörige der EWR-Staaten
 
 Dieses Gesetz gilt auch für Staatsangehörige der EWR-Staaten und ihre
 Familienangehörigen im Sinne dieses Gesetzes.
-
 
 ## § 13 Staatsangehörige der Beitrittsstaaten
 
@@ -625,14 +609,12 @@ Gesetz Anwendung, wenn die Beschäftigung durch die Bundesagentur für
 Arbeit gemäß § 284 Abs. 1 des Dritten Buches Sozialgesetzbuch
 genehmigt wurde.
 
-
 ## § 14 Bestimmungen zum Verwaltungsverfahren
 
 Von den in § 11 Abs. 1 in Verbindung mit § 87 Abs. 1, 2 Satz 1 und 2,
 Abs. 4 Satz 1, 2 und 4 und Abs. 6, §§ 90, 91 Abs. 1 und 2, § 99 Abs. 1
 und 2 des Aufenthaltsgesetzes getroffenen Regelungen des
 Verwaltungsverfahrens kann durch Landesrecht nicht abgewichen werden.
-
 
 ## § 15 Übergangsregelung
 

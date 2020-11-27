@@ -18,16 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 10 G v. 19.2.2006 I 334
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Erster Abschnitt - Grundsätze für die Verleihung von Titeln, Orden und Ehrenzeichen
-
-
 
 ### § 1 Grundsatz
 
@@ -38,7 +34,6 @@ verliehen werden.
 (2) Die Befugnisse der Länder, Titel, Orden und Ehrenzeichen zu
 verleihen, werden durch dieses Gesetz nicht berührt.
 
-
 ### § 2 Titel
 
 (1) Titel werden durch den Bundespräsidenten verliehen, soweit
@@ -47,7 +42,6 @@ die Voraussetzungen ihrer Verleihung werden durch Gesetz festgelegt.
 
 (2) Akademische Grade sowie Amts- und Berufsbezeichnungen werden durch
 dieses Gesetz nicht berührt.
-
 
 ### § 3 Orden und Ehrenzeichen
 
@@ -68,7 +62,6 @@ eine Leistung oder für eine Geldspende bestimmt sind, sofern sie nicht
 nach ihrer äußeren Form oder Trageweise den nach Absatz 1 gestifteten
 oder nach Absatz 2 und § 6 anerkannten Orden und Ehrenzeichen zum
 Verwechseln ähnlich sind.
-
 
 ### § 4 Entziehung
 
@@ -124,7 +117,6 @@ oder die verliehene Auszeichnung. Der Empfänger der Mitteilung kann
 auch die Mitteilung der Urteilsgründe verlangen, soweit die Mitteilung
 des Urteilstenors für seine Entscheidung nicht ausreicht.
 
-
 ### § 5 Genehmigung der Annahme
 
 (1) Ein Deutscher darf Titel, Orden und Ehrenzeichen von einem
@@ -140,10 +132,7 @@ entsprechend.
 Ehrenzeichen, die von anderen Stellen außerhalb des Geltungsbereichs
 dieses Gesetzes verliehen werden.
 
-
 ## Zweiter Abschnitt - Besondere Vorschriften für früher verliehene Orden und Ehrenzeichen
-
-
 
 ### § 6 Früher verliehene Auszeichnungen
 
@@ -196,7 +185,6 @@ verbündeter Länder für Verdienste im ersten und zweiten Weltkrieg zu
 tragen (Absatz 1 Nr. 4 Satz 2), entziehen. § 4 Satz 2 und 3 gilt
 entsprechend.
 
-
 ### § 7 Verwundetenabzeichen des zweiten Weltkrieges
 
 (1) Das Verwundetenabzeichen des zweiten Weltkrieges kann von jedem,
@@ -210,10 +198,7 @@ oder Schwere der Verwundungen oder Beschädigungen vorgesehen ist.
 Rechtsverordnung mit Zustimmung des Bundesrates zu bestimmen, wie der
 Nachweis der Verwundungen oder Beschädigungen zu führen ist.
 
-
 ## Dritter Abschnitt - Besitznachweis
-
-
 
 ### § 8 Verleihungsurkunde, Besitzzeugnis
 
@@ -223,7 +208,6 @@ befugten Stelle ordnungsgemäß verliehen worden sind und der Beliehene
 hierüber, soweit die Stiftungsurkunde nichts Gegenteiliges bestimmt,
 eine Verleihungsurkunde, ein Besitzzeugnis oder ein vorläufiges
 Besitzzeugnis innehat.
-
 
 ### § 9 Ersatzurkunde
 
@@ -248,7 +232,6 @@ Wirkung wie die Verleihungsurkunde oder das Besitzzeugnis.
 (4) Die Länder bestimmen die für die Ausstellung von Ersatzurkunden
 zuständigen Behörden.
 
-
 ### § 10 Sonderbestimmungen für vor dem 8. Mai 1945 verliehene Auszeichnungen
 
 (1) Als Besitznachweis für Orden und Ehrenzeichen, die vor dem 8. Mai
@@ -269,19 +252,13 @@ Mai 1945 verliehen worden sind, verlorengegangen, so dürfen diese
 Auszeichnungen auch ohne Besitzzeugnis getragen werden, wenn die
 Verleihung in anderer Weise nachgewiesen werden kann.
 
-
 ## Vierter Abschnitt - Ehrensold
-
-
 
 ### § 11
 
 (weggefallen)
 
-
 ## Fünfter Abschnitt - Gemeinsame Bestimmungen
-
-
 
 ### § 12 Trageweise
 
@@ -336,7 +313,6 @@ der Stiftungserlasse maßgebend.
 (3) Orden und Ehrenzeichen dürfen auch in verkleinerter Form getragen
 werden.
 
-
 ### § 13 Rückgabe von Orden und Ehrenzeichen
 
 (1) Orden und Ehrenzeichen verbleiben nach dem Tod des Inhabers im
@@ -345,7 +321,6 @@ bestimmt ist.
 
 (2) Ausländische Orden und Ehrenzeichen werden von dieser Vorschrift
 nicht berührt.
-
 
 ### § 14 Vertrieb
 
@@ -361,10 +336,7 @@ eine Genehmigung zum Erwerb auch der übrigen Orden und Ehrenzeichen
 ohne Vorlegung eines nach §§ 8 und 9 erforderlichen Besitznachweises
 erteilen.
 
-
 ## Sechster Abschnitt - Bußgeld- und Schlußbestimmungen
-
-
 
 ### § 15 Ordnungswidrigkeiten
 
@@ -406,7 +378,6 @@ Gegenstände, die zur Herstellung der in Absatz 2 Nr. 2 oder 3
 genannten Auszeichnungen, Bänder oder Abzeichen gebraucht worden oder
 bestimmt gewesen sind, können eingezogen werden.
 
-
 ### § 16
 
 Bis zum Zeitpunkt des Wirksamwerdens des Beitritts bestehende
@@ -414,7 +385,6 @@ Ansprüche aus verliehenen staatlichen Auszeichnungen der Deutschen
 Demokratischen Republik sind erloschen. Ansprüche aus solchen
 Auszeichnungen können vom Zeitpunkt des Wirksamwerdens des Beitritts
 an nicht mehr geltend gemacht werden.
-
 
 ### § 17 Aufhebung von Rechtsvorschriften
 
@@ -432,13 +402,6 @@ Folgende Vorschriften werden als Bundesrecht aufgehoben:
         der nationalsozialistischen Herrschaft verliehenen Titel vom 20. Mai
         1946 (Bayerisches Gesetz- und Verordnungsblatt S. 178).
 
-
-
-
-
-
-
-
 ### § 18 Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
@@ -446,7 +409,6 @@ Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes
 erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 Überleitungsgesetzes.
-
 
 ### § 19 Inkrafttreten
 

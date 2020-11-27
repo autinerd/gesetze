@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 Abs. 97 G v. 22.12.2011 I 3044
 
-
 ## Eingangsformel
 
 Auf Grund des § 6 Abs. 1 Nr. 1 Buchstabe l, der §§ 15, 16 und 17 Abs.
@@ -34,13 +33,11 @@ mit § 1 Abs. 2 des Zuständigkeitsanpassungsgesetzes vom 16. August
 Landwirtschaft und Verbraucherschutz im Einvernehmen mit den
 Bundesministerien der Finanzen und für Wirtschaft und Technologie:
 
-
 ## § 1 Anwendungsbereich
 
 Diese Verordnung gilt für die Durchführung der Rechtsakte der
 Europäischen Gemeinschaft oder der Europäischen Union hinsichtlich der
 Gewährung von Beihilfen für die private Lagerhaltung von Weißzucker.
-
 
 ## § 2 Zuständige Stelle
 
@@ -48,13 +45,11 @@ Zuständige Stelle für die Durchführung dieser Verordnung und der in §
 1 genannten Rechtsakte ist die Bundesanstalt für Landwirtschaft und
 Ernährung (Bundesanstalt).
 
-
 ## § 3 Form der Verträge
 
 Die nach den in § 1 genannten Rechtsakten abzuschließenden
 Lagerverträge haben dem von der Bundesanstalt im Bundesanzeiger
 bekannt gemachten Muster zu entsprechen.
-
 
 ## § 4 Gewährung der Beihilfe
 
@@ -63,7 +58,6 @@ Lagerhaltung von Weißzucker sind nach dem von der Bundesanstalt im
 Bundesanzeiger bekannt gemachten Muster einzureichen.
 
 (2) Die Bundesanstalt setzt die Beihilfe durch Bescheid fest.
-
 
 ## § 5 Aufzeichnungs- und Aufbewahrungspflichten
 
@@ -80,7 +74,6 @@ Kalenderjahr der Gewährung der jeweiligen Beihilfe, auf die sich die
 Unterlagen beziehen, folgt. Vorschriften, nach denen eine längere
 Aufbewahrungspflicht besteht, bleiben unberührt.
 
-
 ## § 6 Duldungs- und Mitwirkungspflichten
 
 Der Antragsteller hat während der Geschäfts- und Betriebszeit den
@@ -91,7 +84,6 @@ Beihilfe gewährt wird, zu gestatten und die erforderliche
 Unterstützung zu gewähren sowie bei automatischer Buchführung auf
 seine Kosten Listen mit den erforderlichen Angaben auszudrucken,
 soweit dies die Beauftragten der Bundesanstalt verlangen.
-
 
 ## § 7 Inkrafttreten
 

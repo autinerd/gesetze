@@ -15,12 +15,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 2002
 
-
 ## Eingangsformel
 
 Auf Grund des § 14 Abs. 3 des Kulturgüterrückgabegesetzes vom 18. Mai
 2007 (BGBl. I S. 757, 2547) verordnet die Bundesregierung:
-
 
 ## § 1 Anwendungsbereich
 
@@ -32,7 +30,6 @@ Kulturgüterrückgabegesetzes vom 18. Mai 2007 (BGBl. I S. 757, 2547).
 (2) Das Verzeichnis enthält die Gegenstände, die von den
 Vertragsstaaten als besonders bedeutsam bezeichnet worden sind (§ 6
 Abs. 2 Satz 2 des Kulturgüterrückgabegesetzes).
-
 
 ## § 2 Gliederung des Verzeichnisses
 
@@ -155,12 +152,10 @@ Verzeichnis aufzunehmen:
 Bei Einzelgegenständen soll ferner eine Fotografie oder sonstige
 Abbildung des Gegenstandes in das Verzeichnis aufgenommen werden.
 
-
 ## § 3 Zuständigkeit
 
 Die Erstellung, Führung und Aktualisierung des Verzeichnisses obliegt
 der Zentralstelle des Bundes (§ 2 des Kulturgüterrückgabegesetzes).
-
 
 ## § 4 Verfahren
 
@@ -176,13 +171,11 @@ Vertragsstaates vorgenommen werden.
 Abs. 2 Satz 4 des Kulturgüterrückgabegesetzes) gilt ein Gegenstand als
 im Vertragsstaatenverzeichnis geführt.
 
-
 ## § 5 Bekanntmachung
 
 Die Zentralstelle des Bundes macht bei Bedarf, mindestens aber einmal
 kalenderjährlich, eine vollständige und aktualisierte Fassung des
 Verzeichnisses im Bundesanzeiger bekannt.
-
 
 ## § 6 Inkrafttreten
 

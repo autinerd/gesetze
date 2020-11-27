@@ -15,14 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 1477
 
-
 ## Eingangsformel
 
 Auf Grund des § 34 Nummer 8 des Personalausweisgesetzes vom 18. Juni
 2009 (BGBl. I S. 1346) in Verbindung mit dem 2. Abschnitt des
 Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821) verordnet
 das Bundesministerium des Innern im Benehmen mit dem Auswärtigen Amt:
-
 
 ## § 1 Gebühren für Ausweise
 
@@ -64,7 +62,6 @@ Personalausweis nach § 19 Absatz 1 der Personalausweisverordnung.
 
 (6) Die Gebühr kann ermäßigt oder von ihrer Erhebung abgesehen werden,
 wenn die Person, die die Gebühr schuldet, bedürftig ist.
-
 
 ## § 2 Gebühren für den elektronischen Identitätsnachweis
 
@@ -108,10 +105,6 @@ Deutschland im Ausland vorgenommen wird.
 4.  die Änderung der Anschrift im elektronischen Speicher- und
     Verarbeitungsmedium nach § 19 Absatz 2 der Personalausweisverordnung.
 
-
-
-
-
 ## § 3 Gebühren für Berechtigungen
 
 Für Berechtigungen sind folgende Gebühren zu erheben:
@@ -125,10 +118,6 @@ Für Berechtigungen sind folgende Gebühren zu erheben:
 
 3.  115 Euro für die Rücknahme oder den Widerruf einer Berechtigung.
 
-
-
-
-
 ## § 3a Evaluierung
 
 § 1 Absatz 1 Nummer 2 ist zwei Jahre nach Inkrafttreten hinsichtlich
@@ -136,11 +125,9 @@ des Verwaltungskostenanteils der Personalausweisbehörden unter
 Einbeziehung des Deutschen Städte- und Gemeindebundes sowie des
 Deutschen Städtetages zu evaluieren.
 
-
 ## § 4 Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 1. November 2010 in Kraft.
-
 
 ## Schlussformel
 

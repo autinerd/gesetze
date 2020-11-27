@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 21.11.2007 I 2606
 
-
 ## Eingangsformel
 
 Auf Grund des § 17d Abs. 3 Satz 1 des
@@ -27,7 +26,6 @@ Finanzdienstleistungsaufsichtsgesetzes, der durch Artikel 4 Nr. 5 des
 Gesetzes vom 15. Dezember 2004 (BGBl. I S. 3408) eingefügt worden ist,
 verordnet das Bundesministerium der Finanzen im Einvernehmen mit dem
 Bundesministerium der Justiz:
-
 
 ## § 1 Anwendungsbereich
 
@@ -42,7 +40,6 @@ sowie den Differenzausgleich zwischen Umlagevorauszahlung und
 Umlagefestsetzung im Hinblick auf die von der Bundesanstalt an die
 Prüfstelle gemäß § 342d Satz 3 des Handelsgesetzbuchs zu leistende
 Vorschusszahlung.
-
 
 ## § 2 Umlagefähige Kosten
 
@@ -66,25 +63,21 @@ vorausgehenden Jahres sind den in Absatz 1 genannten Ausgaben
 hinzuzurechnen. Überschüsse des dem Haushaltsjahr vorausgehenden
 Jahres werden von den Ausgaben abgezogen.
 
-
 ## § 3 Umlagebetrag
 
 Der Umlagebetrag ist der Anteil der umlagefähigen Kosten, den ein
 Umlagepflichtiger zu entrichten hat.
-
 
 ## § 4 Umlagejahr
 
 Umlagejahr ist das Haushaltsjahr, für das die Kosten nach § 2
 umzulegen sind.
 
-
 ## § 5 Stichtag für die Umlagepflicht
 
 Der Stichtag für die Umlagepflicht im Sinn des § 17d Abs. 1 Satz 1 des
 Finanzdienstleistungsaufsichtsgesetzes ist der 1. Juli eines
 Haushaltsjahres.
-
 
 ## § 6 Bemessung des Umlagebetrags
 
@@ -97,12 +90,10 @@ nach dem Verhältnis der Höhe der Börsenumsätze des einzelnen
 Umlagepflichtigen zur Gesamthöhe der Börsenumsätze aller
 Umlagepflichtigen.
 
-
 ## § 7 Mindest- und Höchstumlagebetrag
 
 Unbeschadet des § 6 beträgt der Umlagebetrag mindestens 250 Euro und
 höchstens 40.000 Euro.
-
 
 ## § 8 Ermittlung und Festsetzung des Umlagebetrags
 
@@ -129,7 +120,6 @@ berücksichtigen, in dem die Erstattung erfolgt.
 elektronisch fest, sobald er nach Absatz 1 abschließend ermittelt
 worden ist. Der Umlagebetrag ist kaufmännisch auf volle Euro zu
 runden.
-
 
 ## § 9 Festsetzung der Umlagevorauszahlung
 
@@ -175,7 +165,6 @@ Vorauszahlungsbeträge eines Vorauszahlungspflichtigen nach Absatz 1
 anzuwenden. Der nach Satz 1 festgesetzte Vorauszahlungsbetrag wird zu
 einem Zeitpunkt fällig, der von der Bundesanstalt zu bestimmen ist.
 
-
 ## § 10 Differenzausgleich im Verhältnis zur Prüfstelle
 
 (1) Ergibt sich, dass die gemäß § 342d Satz 3 des Handelsgesetzbuchs
@@ -192,7 +181,6 @@ Handelsgesetzbuchs an sie geleisteten Vorschusszahlung an die
 Bundesanstalt zu erstatten, sobald die Entlastung gemäß § 342d Satz 5
 des Handelsgesetzbuchs vorliegt.
 
-
 ## § 11 Differenzausgleich im Verhältnis zu den Umlagepflichtigen
 
 (1) Ist die von einem Umlagepflichtigen geleistete Vorauszahlung
@@ -206,14 +194,12 @@ Umlagevorauszahlung den Umlagebetrag, so hat ihm die Bundesanstalt die
 Umlagevorauszahlung eines Vorauszahlungspflichtigen, der für das
 Umlagejahr nicht umlagepflichtig war.
 
-
 ## § 12 Fälligkeit der Umlageforderungen
 
 Die Umlageforderungen werden mit der Bekanntgabe ihrer Festsetzung an
 den Umlagepflichtigen fällig, wenn nicht die Bundesanstalt im
 Einzelfall einen späteren Zeitpunkt bestimmt; § 9 Abs. 4 und 5 Satz 6
 bleibt unberührt.
-
 
 ## § 13 Säumniszuschläge und Beitreibung
 
@@ -226,7 +212,6 @@ Vorschriften des Verwaltungs-Vollstreckungsgesetzes durch die
 Bundesanstalt beigetrieben. Vollstreckungsbehörde ist das für den Sitz
 oder die Niederlassung des Vollstreckungsschuldners zuständige
 Hauptzollamt.
-
 
 ## § 14 Übergangsbestimmungen
 
@@ -271,10 +256,6 @@ Maßgaben anzuwenden:
     Satz 2, die auf die einzelnen Vorauszahlungspflichtigen umzulegen
     sind, ist § 9 Abs. 3 auf der Grundlage der Börsenumsätze des Jahres
     2004 anzuwenden.
-
-
-
-
 
 ## § 15 Inkrafttreten
 

@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1967, 401
 
-
-
 ## § 1
 
 (1) Der Bundesminister der Finanzen wird ermächtigt, zur Leistung von
@@ -30,7 +28,6 @@ Deutsche Mark nicht überschreiten darf.
 (2) Im Rahmen der nach Absatz 1 vorgesehenen Kredite können zur
 Durchführung zusätzlicher Investitionsmaßnahmen Darlehen gewährt und
 Darlehensverpflichtungen eingegangen werden.
-
 
 ## § 2
 
@@ -92,13 +89,11 @@ für den Bau von Studentenwohnheimen bis zum Betrag von 20.000.000 Deutsche Mark
 (2) Bei der Vergabe von Aufträgen sind Gebiete mit
 überdurchschnittlicher Arbeitslosigkeit bevorzugt zu berücksichtigen.
 
-
 ## § 3
 
 Die Investitionsmaßnahmen nach § 2 sind in den außerordentlichen
 Haushalt des Entwurfs des Haushaltsplans für das Rechnungsjahr 1967 zu
 übernehmen.
-
 
 ## § 4
 
@@ -128,13 +123,11 @@ der Landwirtschaft, insbesondere für den Landeskulturbau
 
 mit dem Inkrafttreten dieses Gesetzes verfügt werden.
 
-
 ## § 5
 
 Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 und des § 13 Abs. 1
 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I
 S. 1) auch im Land Berlin.
-
 
 ## § 6
 

@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 G v. 22.3.2002 I 1155
 
-
 ## § 1
 
 Durch den Verlagsvertrag über ein Werk der Literatur oder der Tonkunst
@@ -26,7 +25,6 @@ wird der Verfasser verpflichtet, dem Verleger das Werk zur
 Vervielfältigung und Verbreitung für eigene Rechnung zu überlassen.
 Der Verleger ist verpflichtet, das Werk zu vervielfältigen und zu
 verbreiten.
-
 
 ## § 2
 
@@ -66,11 +64,9 @@ und Verbreitung:
 einer Gesamtausgabe befugt, wenn seit dem Ablaufe des Kalenderjahrs,
 in welchem das Werk erschienen ist, zwanzig Jahre verstrichen sind.
 
-
 ## § 3
 
 -
-
 
 ## § 4
 
@@ -79,7 +75,6 @@ Gesamtausgabe oder ein Sammelwerk sowie Teile einer Gesamtausgabe oder
 eines Sammelwerkes für eine Sonderausgabe zu verwerten. Soweit jedoch
 eine solche Verwertung auch während der Dauer des Urheberrechts einem
 jeden freisteht, bleibt sie dem Verleger gleichfalls gestattet.
-
 
 ## § 5
 
@@ -94,7 +89,6 @@ vor dem Beginne der Vervielfältigung dem Verfasser gegenüber
 abgegebene Erklärung die Zahl der Abzüge niedriger bestimmt, so ist er
 nur berechtigt, die Auflage in der angegebenen Höhe herzustellen.
 
-
 ## § 6
 
 (1) Die üblichen Zuschußexemplare werden in die Zahl der zulässigen
@@ -105,12 +99,10 @@ ihre Zahl den zwanzigsten Teil der zulässigen Abzüge nicht übersteigt.
 beschädigter Abzüge verwendet worden sind, dürfen von dem Verleger
 nicht verbreitet werden.
 
-
 ## § 7
 
 Gehen Abzüge unter, die der Verleger auf Lager hat, so darf er sie
 durch andere ersetzen; er hat vorher dem Verfasser Anzeige zu machen.
-
 
 ## § 8
 
@@ -120,7 +112,6 @@ enthalten und sie dem Verleger zu gestatten, hat er, soweit nicht aus
 dem Vertrage sich ein anderes ergibt, dem Verleger das ausschließliche
 Recht zur Vervielfältigung und Verbreitung (Verlagsrecht) zu
 verschaffen.
-
 
 ## § 9
 
@@ -132,12 +123,10 @@ Verleger gegen den Verfasser sowie gegen Dritte die Befugnisse
 ausüben, die zum Schutze des Urheberrechts durch das Gesetz vorgesehen
 sind.
 
-
 ## § 10
 
 Der Verfasser ist verpflichtet, dem Verleger das Werk in einem für die
 Vervielfältigung geeigneten Zustand abzuliefern.
-
 
 ## § 11
 
@@ -153,7 +142,6 @@ Arbeitsleistung herstellen kann; eine anderweitige Tätigkeit des
 Verfassers bleibt bei der Bemessung der Frist nur dann außer Betracht,
 wenn der Verleger die Tätigkeit bei dem Abschlusse des Vertrags weder
 kannte noch kennen mußte.
-
 
 ## § 12
 
@@ -172,11 +160,9 @@ verpflichtet, die hieraus entstehenden Kosten zu ersetzen; die
 Ersatzpflicht liegt ihm nicht ob, wenn Umstände, die inzwischen
 eingetreten sind, die Änderung rechtfertigen.
 
-
 ## § 13
 
 -
-
 
 ## § 14
 
@@ -186,7 +172,6 @@ Ausstattung der Abzüge wird unter Beobachtung der im Verlagshandel
 herrschenden Übung sowie mit Rücksicht auf Zweck und Inhalt des Werkes
 von dem Verleger bestimmt.
 
-
 ## § 15
 
 Der Verleger hat mit der Vervielfältigung zu beginnen, sobald ihm das
@@ -195,14 +180,12 @@ so ist mit der Vervielfältigung zu beginnen, sobald der Verfasser eine
 Abteilung abgeliefert hat, die nach ordnungsmäßiger Folge zur
 Herausgabe bestimmt ist.
 
-
 ## § 16
 
 Der Verleger ist verpflichtet, diejenige Zahl von Abzügen
 herzustellen, welche er nach dem Vertrag oder gemäß dem § 5
 herzustellen berechtigt ist. Er hat rechtzeitig dafür zu sorgen, daß
 der Bestand nicht vergriffen wird.
-
 
 ## § 17
 
@@ -213,7 +196,6 @@ bestimmen. Nach dem Ablaufe der Frist ist der Verfasser berechtigt,
 von dem Vertrage zurückzutreten, wenn nicht die Veranstaltung
 rechtzeitig erfolgt ist. Der Bestimmung einer Frist bedarf es nicht,
 wenn die Veranstaltung von dem Verleger verweigert wird.
-
 
 ## § 18
 
@@ -226,13 +208,11 @@ Vergütung bleibt unberührt.
 zu einem Sammelwerk ist und die Vervielfältigung des Sammelwerkes
 unterbleibt.
 
-
 ## § 19
 
 Werden von einem Sammelwerke neue Abzüge hergestellt, so ist der
 Verleger im Einverständnisse mit dem Herausgeber berechtigt, einzelne
 Beiträge wegzulassen.
-
 
 ## § 20
 
@@ -242,7 +222,6 @@ rechtzeitig dem Verfasser zur Durchsicht vorzulegen.
 (2) Der Abzug gilt als genehmigt, wenn der Verfasser ihn nicht binnen
 einer angemessenen Frist dem Verleger gegenüber beanstandet.
 
-
 ## § 21
 
 Die Bestimmung des Ladenpreises, zu welchem das Werk verbreitet wird,
@@ -250,7 +229,6 @@ steht für jede Auflage dem Verleger zu. Er darf den Ladenpreis
 ermäßigen, soweit nicht berechtigte Interessen des Verfassers verletzt
 werden. Zur Erhöhung dieses Preises bedarf es stets der Zustimmung des
 Verfassers.
-
 
 ## § 22
 
@@ -262,7 +240,6 @@ gegen eine Vergütung zu erwarten ist.
 (2) Ist die Höhe der Vergütung nicht bestimmt, so ist eine angemessene
 Vergütung in Geld als vereinbart anzusehen.
 
-
 ## § 23
 
 Die Vergütung ist bei der Ablieferung des Werkes zu entrichten. Ist
@@ -270,14 +247,12 @@ die Höhe der Vergütung unbestimmt oder hängt sie von dem Umfange der
 Vervielfältigung, insbesondere von der Zahl der Druckbogen, ab, so
 wird die Vergütung fällig, sobald das Werk vervielfältigt ist.
 
-
 ## § 24
 
 Bestimmt sich die Vergütung nach dem Absatze, so hat der Verleger
 jährlich dem Verfasser für das vorangegangene Geschäftsjahr Rechnung
 zu legen und ihm, soweit es für die Prüfung erforderlich ist, die
 Einsicht seiner Geschäftsbücher zu gestatten.
-
 
 ## § 25
 
@@ -293,7 +268,6 @@ Verfasser die übliche Zahl von Freiexemplaren zu liefern.
 (3) Von Beiträgen, die in Sammelwerken erscheinen, dürfen Sonderabzüge
 als Freiexemplare geliefert werden.
 
-
 ## § 26
 
 Der Verleger hat die zu seiner Verfügung stehenden Abzüge des Werkes
@@ -301,18 +275,15 @@ zu dem niedrigsten Preise, für welchen er das Werk im Betriebe seines
 Verlagsgeschäfts abgibt, dem Verfasser, soweit dieser es verlangt, zu
 überlassen.
 
-
 ## § 27
 
 Der Verleger ist verpflichtet, das Werk, nachdem es vervielfältigt
 worden ist, zurückzugeben, sofern der Verfasser sich vor dem Beginne
 der Vervielfältigung die Rückgabe vorbehalten hat.
 
-
 ## § 28
 
 (weggefallen)
-
 
 ## § 29
 
@@ -327,7 +298,6 @@ bestimmte Zahl von Abzügen vergriffen ist.
 (3) Wird der Verlagsvertrag für eine bestimmte Zeit geschlossen, so
 ist nach dem Ablaufe der Zeit der Verleger nicht mehr zur Verbreitung
 der noch vorhandenen Abzüge berechtigt.
-
 
 ## § 30
 
@@ -356,7 +326,6 @@ Nachteil mit sich bringt.
 (4) Durch diese Vorschriften werden die im Falle des Verzugs des
 Verfassers dem Verleger zustehenden Rechte nicht berührt.
 
-
 ## § 31
 
 (1) Die Vorschriften des § 30 finden entsprechende Anwendung, wenn das
@@ -367,13 +336,11 @@ vertreten hat, so kann der Verleger statt des in § 30 vorgesehenen
 Rücktrittsrechts den Anspruch auf Schadensersatz wegen Nichterfüllung
 geltend machen.
 
-
 ## § 32
 
 Wird das Werk nicht vertragsmäßig vervielfältigt oder verbreitet, so
 finden zugunsten des Verfassers die Vorschriften des § 30
 entsprechende Anwendung.
-
 
 ## § 33
 
@@ -395,7 +362,6 @@ andere Teil zu vertreten hat.
 (3) Der Ablieferung steht es gleich, wenn der Verleger in Verzug der
 Annahme kommt.
 
-
 ## § 34
 
 (1) Stirbt der Verfasser vor der Vollendung des Werkes, so ist, wenn
@@ -412,7 +378,6 @@ die Aufrechterhaltung des Vertrags erklärt.
 (3) Diese Vorschriften finden entsprechende Anwendung, wenn die
 Vollendung des Werkes infolge eines sonstigen nicht von dem Verfasser
 zu vertretenden Umstandes unmöglich wird.
-
 
 ## § 35
 
@@ -432,7 +397,6 @@ wegen Nichterfüllung verpflichtet; diese Ersatzpflicht tritt nicht
 ein, wenn der Verfasser dem Verleger den Antrag, den Vertrag
 nachträglich zur Ausführung zu bringen, gemacht und der Verleger den
 Antrag nicht angenommen hat.
-
 
 ## § 36
 
@@ -455,13 +419,11 @@ ergebenden Ansprüche des Verfassers gegen die Masse sicherzustellen.
 noch nicht begonnen, so kann der Verfasser von dem Vertrage
 zurücktreten.
 
-
 ## § 37
 
 Auf das in den §§ 17, 30, 35, 36 bestimmte Rücktrittsrecht finden die
 für das Rücktrittsrecht geltenden Vorschriften der §§ 346 bis 351 des
 Bürgerlichen Gesetzbuchs entsprechende Anwendung.
-
 
 ## § 38
 
@@ -481,7 +443,6 @@ einen entsprechenden Teil der Vergütung verlangen.
 (4) Diese Vorschriften finden auch Anwendung, wenn der Vertrag in
 anderer Weise rückgängig wird.
 
-
 ## § 39
 
 (1) Soll Gegenstand des Vertrags ein Werk sein, an dem ein
@@ -500,7 +461,6 @@ wie wenn an dem Werke ein Urheberrecht bestände. Diese Beschränkung
 fällt weg, wenn seit der Veröffentlichung des Werkes durch den
 Verleger sechs Monate abgelaufen sind.
 
-
 ## § 40
 
 Im Falle des § 39 verbleibt dem Verleger die Befugnis, das von ihm
@@ -510,7 +470,6 @@ Anwendung, wenn nach dem Vertrage die Herstellung neuer Auflagen oder
 weiterer Abzüge von der Zahlung einer besonderen Vergütung abhängig
 ist.
 
-
 ## § 41
 
 Werden für eine Zeitung, eine Zeitschrift oder ein sonstiges
@@ -518,11 +477,9 @@ periodisches Sammelwerk Beiträge zur Veröffentlichung angenommen, so
 finden die Vorschriften dieses Gesetzes Anwendung, soweit sich nicht
 aus den §§ 42 bis 46 ein anderes ergibt.
 
-
 ## § 42
 
 -
-
 
 ## § 43
 
@@ -530,13 +487,11 @@ Der Verleger ist in der Zahl der von dem Sammelwerke herzustellenden
 Abzüge, die den Beitrag enthalten, nicht beschränkt. Die Vorschrift
 des § 20 Abs. 1 Satz 2 findet keine Anwendung.
 
-
 ## § 44
 
 Soll der Beitrag ohne den Namen des Verfassers erscheinen, so ist der
 Verleger befugt, an der Fassung solche Änderungen vorzunehmen, welche
 bei Sammelwerken derselben Art üblich sind.
-
 
 ## § 45
 
@@ -550,7 +505,6 @@ oder auf Schadensersatz wegen Nichterfüllung steht dem Verfasser nur
 zu, wenn ihm der Zeitpunkt, in welchem der Beitrag erscheinen soll,
 von dem Verleger bezeichnet worden ist.
 
-
 ## § 46
 
 (1) Erscheint der Beitrag in einer Zeitung, so kann der Verfasser
@@ -558,7 +512,6 @@ Freiexemplare nicht verlangen.
 
 (2) Der Verleger ist nicht verpflichtet, dem Verfasser Abzüge zum
 Buchhändlerpreise zu überlassen.
-
 
 ## § 47
 
@@ -571,18 +524,15 @@ Zweifel zur Vervielfältigung und Verbreitung nicht verpflichtet.
 enzyklopädischen Unternehmungen oder auf Hilfs- oder Nebenarbeiten für
 das Werk eines anderen oder für ein Sammelwerk beschränkt.
 
-
 ## § 48
 
 Die Vorschriften dieses Gesetzes finden auch dann Anwendung, wenn
 derjenige, welcher mit dem Verleger den Vertrag abschließt, nicht der
 Verfasser ist.
 
-
 ## § 49
 
 -
-
 
 ## § 50
 

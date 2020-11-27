@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 6 V v. 19.10.2012 I 2232
 
-
 ## Eingangsformel
 
 Auf Grund des § 6a Absatz 2 in Verbindung mit Absatz 3 und 4 des
@@ -39,7 +38,6 @@ Verbindung mit dem 2. Abschnitt des Verwaltungskostengesetzes vom 23.
 Juni 1970 (BGBl. I S. 821), verordnet das Bundesministerium für
 Verkehr, Bau und Stadtentwicklung:
 
-
 ## § 1 Gebührentarif
 
 (1) Für Amtshandlungen, einschließlich der Prüfungen und
@@ -54,7 +52,6 @@ Straßenverkehr (Anlage).
 verbundene, im Gebührentarif genannte Amtshandlungen, Prüfungen oder
 Untersuchungen in einer Gesamtbezeichnung, die zugehörigen Beträge in
 einem Gesamtbetrag zusammengefasst werden.
-
 
 ## § 2 Auslagen
 
@@ -140,7 +137,6 @@ Gebührenfreiheit besteht, bei Auslagen nach Absatz 1 Nummer 1 bis 9
 jedoch nur, soweit ihr Gesamtbetrag 3 Euro übersteigt. Auslagen für
 die Versendung von Akten im Wege der Amtshilfe werden nicht erhoben.
 
-
 ## § 3 Kostengläubiger
 
 (1) Kostengläubiger ist der Rechtsträger, dessen Stelle eine
@@ -149,7 +145,6 @@ kostenpflichtige Amtshandlung, Prüfung oder Untersuchung vornimmt.
 (2) Bei den Gebühren der amtlich anerkannten Sachverständigen und
 Prüfer für den Kraftfahrzeugverkehr ist der Träger der Technischen
 Prüfstelle für den Kraftfahrzeugverkehr Kostengläubiger.
-
 
 ## § 4 Kostenschuldner
 
@@ -172,7 +167,6 @@ Prüfstelle für den Kraftfahrzeugverkehr Kostengläubiger.
 von Betrieben ist der Inhaber des Betriebs Kostenschuldner.
 
 (3) Mehrere Kostenschuldner haften als Gesamtschuldner.
-
 
 ## § 5 Persönliche Gebührenfreiheit
 
@@ -271,14 +265,12 @@ Körperbehinderten aus Billigkeitsgründen Gebührenermäßigung oder
 Gebührenbefreiung für Amtshandlungen, Prüfungen oder Untersuchungen
 gewähren, die wegen der Behinderung erforderlich werden.
 
-
 ## § 6 Anwendung des Verwaltungskostengesetzes
 
 Die Vorschriften des Verwaltungskostengesetzes sind anzuwenden, soweit
 nicht die §§ 1 bis 5 abweichende Regelungen über die Kostenerhebung,
 die Kostenbefreiung, den Umfang der zu erstattenden Auslagen, der
 Kostengläubiger- und Kostenschuldnerschaft enthalten.
-
 
 ## § 7 Inkrafttreten, Außerkrafttreten
 
@@ -288,11 +280,9 @@ vom 26. Juni 1970 (BGBl. I S. 865, 1298), die zuletzt durch Artikel 4
 der Verordnung vom 21. April 2009 (BGBl. I S. 872) geändert worden
 ist, außer Kraft.
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage (zu § 1)
 
@@ -1330,8 +1320,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         Personal- und Sachaufwand je Stunde und Person
 
     *   15,30 bis 61,40
-
-
 
 ## 2. Abschnitt
 
@@ -3059,8 +3047,6 @@ Gebühren der Behörden im Landesbereich
         Rücknahme des Widerspruchs das Verfahren besonders rasch und mit
         geringem Verwaltungsaufwand abgeschlossen werden kann, wenn dies der
         Billigkeit nicht widerspricht.
-
-
 
 ## 3. Abschnitt
 

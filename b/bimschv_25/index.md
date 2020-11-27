@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1996, 1722
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 48a Abs. 1 Satz 1 des Bundes-Immissionsschutzgesetzes
@@ -24,14 +22,12 @@ in der Fassung der Bekanntmachung vom 14. Mai 1990 (BGBl. I S. 880)
 verordnet die Bundesregierung unter Berücksichtigung der Rechte des
 Deutschen Bundestages:
 
-
 ## § 1 Anwendungsbereich
 
 Diese Verordnung gilt für die Errichtung, die Beschaffenheit und den
 Betrieb von Anlagen zur fabrikmäßigen Herstellung von Titandioxid,
 Anlagen zum fabrikmäßigen Aufkonzentrieren von Dünnsäure und Anlagen
 zum fabrikmäßigen Spalten sulfathaltiger Salze.
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -49,10 +45,6 @@ Im Sinne dieser Verordnung bedeuten:
     bezogen auf das unverdünnte Abgasvolumen im Normzustand (273 K, 1013
     hPa) nach Abzug des Feuchtegehaltes an Wasserdampf, oder als
     Massenverhältnis in der Einheit Kilogramm je Tonne Produkt.
-
-
-
-
 
 ## § 3 Anlagen nach dem Sulfatverfahren
 
@@ -78,7 +70,6 @@ Kubikmeter als Tagesmittelwert nicht überschreiten.
 Spalten von durch die Behandlung von Reststoffen entstehenden Salzen
 anfallen, sind nach dem Stand der Technik zu begrenzen.
 
-
 ## § 4 Anlagen nach dem Chloridverfahren
 
 (1) Die Emissionen an Staub dürfen bei Anlagen nach dem
@@ -92,7 +83,6 @@ Milligramm je Kubikmeter als Tagesmittelwert nicht überschreiten und
 einen Emissionsgrenzwert von 40 Milligramm je Kubikmeter zu keiner
 Zeit überschreiten.
 
-
 ## § 5 Verfahren zur Messung und Überwachung
 
 Zur Messung und Überwachung der Emissionen an Staub, Schwefeldioxid,
@@ -105,13 +95,11 @@ Modalitäten zur Vereinheitlichung der Programme zur Verringerung und
 späteren Unterbindung der Verschmutzung durch Abfälle der Titandioxid-
 Industrie (ABl. EG Nr. L 409 S. 11) anzuwenden.
 
-
 ## § 6 Andere oder weitergehende Anforderungen
 
 Andere oder weitergehende Anforderungen, die sich insbesondere aus
 Pflichten nach § 5 Abs. 1 Nr. 2 des Bundes-Immissionsschutzgesetzes
 ergeben, bleiben unberührt.
-
 
 ## § 7 Ordnungswidrigkeiten
 
@@ -126,15 +114,10 @@ Betreiber einer Anlage
 2.  entgegen § 3 Abs. 2 Satz 1 das dort genannte Massenverhältnis
     überschreitet.
 
-
-
-
-
 ## § 8 Inkrafttreten
 
 Diese Verordnung tritt am ersten Tage des auf die Verkündung folgenden
 Kalendermonats in Kraft.
-
 
 ## Schlußformel
 

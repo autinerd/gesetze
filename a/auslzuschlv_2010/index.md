@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 26.6.2012 I 1393
 
-
 ## Eingangsformel
 
 Auf Grund des § 53 Absatz 7 des Bundesbesoldungsgesetzes, der durch
@@ -26,7 +25,6 @@ Artikel 2 Nummer 38 des Gesetzes vom 5. Februar 2009 (BGBl. I S. 160)
 neu gefasst worden ist, verordnet das Auswärtige Amt im Einvernehmen
 mit dem Bundesministerium des Innern, dem Bundesministerium der
 Finanzen und dem Bundesministerium der Verteidigung:
-
 
 ## § 1 Bemessungsgrundlage für den Auslandszuschlag und Zuordnung der Dienstorte zu den Zonenstufen
 
@@ -43,12 +41,10 @@ Bundesrepublik Deutschland, in deren Amtsbezirk der Dienstort liegt.
 Abweichend von Satz 2 werden die Dienstorte, die in der Anlage 2
 aufgeführt sind, den dort ausgewiesenen Zonenstufen zugeordnet.
 
-
 ## § 1a Lebenspartnerschaft
 
 Die Vorschriften dieser Verordnung, die sich auf Ehegatten oder
 Verheiratete beziehen, gelten entsprechend für Lebenspartner.
-
 
 ## § 2 Zuschlag zum Auslandszuschlag nach § 53 Absatz 1 Satz 5 des Bundesbesoldungsgesetzes
 
@@ -133,7 +129,6 @@ können andere oberste Dienstbehörden den festgesetzten Zuschlag ohne
 erneute Einholung des Ressorteinvernehmens für ihren Geschäftsbereich
 übernehmen.
 
-
 ## § 3 Auslandszuschlag bei Arbeitsplatzteilung
 
 Teilen sich Ehegatten, die auf Grund unterschiedlicher
@@ -143,7 +138,6 @@ zuzuordnen sind, einen Arbeitsplatz, richtet sich die Höhe des
 Auslandszuschlags nach § 53 Absatz 3 Satz 3 des
 Bundesbesoldungsgesetzes nach der Grundgehaltsspanne der oder des
 höher besoldeten Berechtigten.
-
 
 ## § 4 Erhöhter Auslandszuschlag
 
@@ -173,7 +167,6 @@ Stelle, wenn die Frist des § 53 Absatz 6 Satz 2 des
 Bundesbesoldungsgesetzes erfüllt ist. Dienstzeiten, die vor
 Inkrafttreten dieser Verordnung geleistet worden sind, sind
 berücksichtigungsfähig.
-
 
 ## § 5 Erhöhter Auslandszuschlag für Verheiratete
 
@@ -222,7 +215,6 @@ Einkommensteuergesetzes) nach Abzug der entrichteten Steuern vom
 Einkommen und der Arbeitnehmeranteile zur gesetzlichen Sozial- und
 Arbeitslosenversicherung.
 
-
 ## § 6 Erhöhter Auslandszuschlag für weitere Berechtigte
 
 Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das
@@ -233,11 +225,9 @@ dienstlichen Interesse bei der Erfüllung von Aufgaben der
 Auslandsvertretung oder der Empfängerinnen oder Empfänger von
 Auslandsdienstbezügen mitwirken.
 
-
 ## § 7 Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
-
 
 ## Anlage 1 (zu § 1 Absatz 2 Satz 1)
 
@@ -2574,9 +2564,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   13
 
     *   (dreizehn)
-
-
-
 
 ## Anlage 2 (zu § 1 Absatz 2 Satz 3)
 

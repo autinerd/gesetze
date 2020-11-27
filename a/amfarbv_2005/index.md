@@ -32,10 +32,6 @@ und der
     November 2001 zur Schaffung eines Gemeinschaftskodexes für
     Humanarzneimittel (ABl. EG Nr. L 311 S. 67).
 
-
-
-
-
 ## Eingangsformel
 
 Es verordnen
@@ -56,10 +52,6 @@ Es verordnen
     30\. Juli 2004 (BGBl. I S. 2031) neu gefasst worden ist, im
     Einvernehmen mit dem Bundesministerium für Gesundheit und Soziale
     Sicherung:
-
-
-
-
 
 ## § 1
 
@@ -85,7 +77,6 @@ nicht nach den Vorschriften des Absatzes 1 hergestellt sind, dürfen im
 Geltungsbereich des Arzneimittelgesetzes nicht in den Verkehr gebracht
 werden.
 
-
 ## § 2
 
 (1) Nach § 95 Abs. 1 Nr. 2, Abs. 2 bis 4 des Arzneimittelgesetzes wird
@@ -99,7 +90,6 @@ Stoffen verwendet.
 
 (3) Wer eine in Absatz 2 bezeichnete Handlung fahrlässig begeht,
 handelt nach § 97 Abs. 1 des Arzneimittelgesetzes ordnungswidrig.
-
 
 ## § 3
 

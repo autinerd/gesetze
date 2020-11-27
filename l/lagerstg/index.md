@@ -18,12 +18,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 22 G v. 10.11.2001 I 2992
 
-
 ## Eingangsformel
 
 Die Reichsregierung hat das folgende Gesetz beschlossen, das hiermit
 verkündet wird:
-
 
 ## § 1
 
@@ -35,7 +33,6 @@ ihrer Ergebnisse ... die geologischen Anstalten der ... Länder zu
 beauftragen.
 
 (2) und (3)
-
 
 ## § 2
 
@@ -53,7 +50,6 @@ setzen.
 (2) Etwaige durch die Inanspruchnahme von Grundstücken entstehende
 Schäden werden nach den allgemeinen gesetzlichen Bestimmungen ersetzt.
 
-
 ## § 3
 
 (1) Wer für eigene oder fremde Rechnung geophysikalische
@@ -70,7 +66,6 @@ Rechnung solche Arbeiten bereits ausgeführt hat, verpflichtet, auf
 Verlangen der zuständigen Anstalt unverzüglich die in Absatz 1
 aufgeführten Angaben zu machen.
 
-
 ## § 4
 
 (1) Alle mit mechanischer Kraft angetriebenen Bohrungen müssen zwei
@@ -79,7 +74,6 @@ für eigene oder fremde Rechnung ausführt, der zuständigen Anstalt (§
 1) angezeigt werden.
 
 (2)
-
 
 ## § 5
 
@@ -93,7 +87,6 @@ ihnen erschöpfende Auskunft über die Aufschlußergebnisse zu erteilen.
 Bohr- und sonstige Gesteinproben dürfen nur mit Erlaubnis der
 zuständigen Anstalt (§ 1) oder ihrer Beauftragten vernichtet werden;
 auf Anfordern sind sie der Anstalt zur Verfügung zu stellen.
-
 
 ## § 6
 
@@ -118,23 +111,19 @@ läßt.
 (5) Jede Veränderung der in den Karten darzustellenden Verhältnisse
 hat der Verpflichtete unverzüglich anzuzeigen.
 
-
 ## § 7
 
 Die Anzeige oder Einreichung durch einen Mitverpflichteten befreit die
 übrigen nach den §§ 3, 4, 5 oder 6 Verpflichteten von der
 Meldepflicht.
 
-
 ## § 8
 
 Die bergrechtlichen Vorschriften bleiben unberührt.
 
-
 ## § 9
 
 -
-
 
 ## § 10
 
@@ -167,7 +156,6 @@ Die bergrechtlichen Vorschriften bleiben unberührt.
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünftausend
 Euro geahndet werden.
-
 
 ## § 11
 

@@ -17,13 +17,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1974, 1074
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -31,7 +28,6 @@ Dem in Bonn am 13. September 1971 unterzeichneten Abkommen zwischen
 der Bundesrepublik Deutschland und der Französischen Republik über die
 Befreiung öffentlicher Urkunden von der Legalisation wird zugestimmt.
 Das Abkommen wird nachstehend veröffentlicht.
-
 
 ## Art 2
 
@@ -41,7 +37,6 @@ Abkommens aus der Französischen Republik zugeleitet, so führt es eine
 errichtet haben soll, und übermittelt diese Äußerung der ersuchenden
 Stelle. Die Person, Stelle oder Behörde ist verpflichtet, eine
 Äußerung abzugeben.
-
 
 ## Art 3
 
@@ -57,7 +52,6 @@ ableitet oder deren Weisungen sie unterliegt. Artikel 2 Satz 2 findet
 Anwendung. Das Bundesverwaltungsamt übermittelt die Auskunft der
 ersuchenden Stelle.
 
-
 ## Art 4
 
 (1) Ersuchen, mit denen außerhalb eines gerichtlichen oder
@@ -72,12 +66,10 @@ Ersuchen durch den Präsidenten des Landgerichts Berlin zu übermitteln.
 (2) Der Präsident des Landgerichts prüft, ob die in dem Abkommen
 geregelten Voraussetzungen vorliegen.
 
-
 ## Art 5
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
-
 
 ## Art 6
 

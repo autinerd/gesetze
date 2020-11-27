@@ -18,13 +18,11 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 31.8.2012 I 1866
 
-
 ## Eingangsformel
 
 Auf Grund des § 2 des Auslandskostengesetzes vom 21. Februar 1978
 (BGBl. I S. 301) verordnet das Auswärtige Amt im Einvernehmen mit dem
 Bundesministerium des Inneren und dem Bundesministerium der Finanzen:
-
 
 ## § 1 Gebührenverzeichnis
 
@@ -32,7 +30,6 @@ Die gebührenpflichtigen Amtshandlungen der Auslandsvertretungen, der
 Honorarkonsularbeamten und des Auswärtigen Amts sowie die zu
 erhebenden Gebühren bestimmen sich nach dem Gebührenverzeichnis
 (Anlage 1).
-
 
 ## § 2 Wertgebühr
 
@@ -42,7 +39,6 @@ zu ermitteln.
 
 (2) Die Wertgebühr bestimmt sich nach der Wertgebührentabelle (Anlage
 3).
-
 
 ## § 3 Auslagen
 
@@ -57,18 +53,15 @@ als 10 Euro werden nicht erhoben.
 (3) Kosten für Ferngespräche und Fernschreiben in Visaangelegenheiten
 gelten nicht als Auslagen im Sinne des Absatzes 2.
 
-
 ## § 4 Sprachengruppen
 
 Ist die Höhe der Gebühren nach dem Gebührenverzeichnis von der
 Sprachengruppe abhängig, so gilt hierfür die Einteilung der
 Sprachenliste (Anlage 4).
 
-
 ## § 5 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Anlage 1 (zu § 1) Gebührenverzeichnis (GebV)
 
@@ -811,10 +804,6 @@ Fundstelle des Originaltextes: BGBl. I 2001, 4162 - 4167; 2002, 750
 
     *   10 EUR.
 
-
-
-
-
 ## Anlage 2 (zu § 2 Abs. 1) Wertermittlungsvorschriften
 
 Fundstelle des Originaltextes: BGBl. I 2001, 4168 - 4170;
@@ -1267,7 +1256,6 @@ In nichtvermögensrechtlichen Angelegenheiten ist der Wert nach Absatz
 2 zu bestimmen. In Angelegenheiten, die die Annahme eines
 Minderjährigen betreffen, beträgt der Wert stets 2.500 Euro.
 
-
 ## Anlage 3 (zu § 2 Abs. 2) Wertgebührentabelle
 
 Fundstelle des Originaltextes: BGBl. I 2001, 4171
@@ -1380,10 +1368,6 @@ Fundstelle des Originaltextes: BGBl. I 2001, 4171
 *    *   von dem Mehrbetrag über 250 Mio EUR für je angefangene 1 Mio EUR
 
     *   10,- EUR\*
-
-
-
-
 
 ## Anlage 4 (zu § 4) Sprachenliste
 

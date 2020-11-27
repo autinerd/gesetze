@@ -21,10 +21,7 @@ Neugefasst durch
 Geändert durch
 :   Art. 25 G v. 9.12.2010 I 1934
 
-
 ## (XXXX) §§ 1 bis 14 (weggefallen)
-
-
 
 ## § 15 Aufzeichnungs- und Meldepflichten
 
@@ -94,7 +91,6 @@ der einzelnen Abrufe § 10 Abs. 1 Satz 2, Abs. 2 und 4 des
 Bundesdatenschutzgesetzes auch insoweit, als es sich bei den
 Einzelangaben nicht um personenbezogene Daten handelt.
 
-
 ## § 15a Übermittlung von Einzelangaben für die wissenschaftliche Forschung
 
 (1) Die Bundesanstalt darf pseudonymisierte Einzelangaben an
@@ -150,7 +146,6 @@ automatisiert verarbeitet noch in oder aus nichtautomatisierten
 Dateien verwendet noch für eine automatisierte Verarbeitung oder für
 eine Verwendung in automatisierten Dateien erhebt.
 
-
 ## § 16 Allgemeine Prüfungsrechte und Auskunftspflichten
 
 (1) Die Bundesanstalt kann Auskünfte verlangen, soweit dies
@@ -178,7 +173,6 @@ verweigern, deren Beantwortung ihn selbst oder einen der in § 383 Abs.
 1 Nr. 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen der
 Gefahr strafrechtlicher Verfolgung oder eines Verfahrens nach dem
 Gesetz über Ordnungswidrigkeiten aussetzen würde.
-
 
 ## § 17 Ordnungswidrigkeiten
 
@@ -220,7 +214,6 @@ Euro geahndet werden.
 (3) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes
 über Ordnungswidrigkeiten ist die Bundesanstalt.
 
-
 ## § 18 Übergangsregelung
 
 (1) Auf Meldungen für die Erzeugnisse, die den Meldepflichten nach § 4
@@ -233,10 +226,7 @@ Meldezeiträume dieses Gesetz in der bis zum Ablauf des 28. November
 2009 endende Meldezeiträume dieses Gesetz in der bis zum Ablauf des
 28\. November 2008 geltenden Fassung anzuwenden.
 
-
 ## § 19 (Inkrafttreten)
-
-
 
 ## (XXXX) §§ 20 bis 31 (weggefallen)
 

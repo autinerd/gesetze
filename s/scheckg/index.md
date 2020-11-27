@@ -18,17 +18,13 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 154 G v. 19.4.2006 I 866
 
-
 ## Eingangsformel
 
 Die Reichsregierung hat zur Durchführung der Abkommen zur
 Vereinheitlichung des Scheckrechts (Reichsgesetzbl. 1933 II S. 537)
 das folgende Gesetz beschlossen, das hiermit verkündet wird:
 
-
 ## Erster Abschnitt - Ausstellung und Form des Schecks
-
-
 
 ### Art 1
 
@@ -52,10 +48,6 @@ Der Scheck enthält:
 
 6.  die Unterschrift des Ausstellers.
 
-
-
-
-
 ### Art 2
 
 (1) Eine Urkunde, in der einer der im vorstehenden Artikel
@@ -73,7 +65,6 @@ Ort zahlbar, an dem der Bezogene seine Hauptniederlassung hat.
 (4) Ein Scheck ohne Angabe des Ausstellungsorts gilt als ausgestellt
 an dem Ort, der bei dem Namen des Ausstellers angegeben ist.
 
-
 ### Art 3
 
 Der Scheck darf nur auf einen Bankier gezogen werden, bei dem der
@@ -83,12 +74,10 @@ stillschweigenden Vereinbarung, wonach der Aussteller das Recht hat,
 Urkunde als Scheck wird jedoch durch die Nichtbeachtung dieser
 Vorschriften nicht berührt.
 
-
 ### Art 4
 
 Der Scheck kann nicht angenommen werden. Ein auf den Scheck gesetzter
 Annahmevermerk gilt als nicht geschrieben.
-
 
 ### Art 5
 
@@ -113,7 +102,6 @@ gestellt.
 (3) Ein Scheck ohne Angabe des Nehmers gilt als zahlbar an den
 Inhaber.
 
-
 ### Art 6
 
 (1) Der Scheck kann an die eigene Order des Ausstellers lauten.
@@ -125,19 +113,16 @@ sei denn, daß es sich um einen Scheck handelt, der von einer
 Niederlassung auf eine andere Niederlassung des Ausstellers gezogen
 wird.
 
-
 ### Art 7
 
 Ein in den Scheck aufgenommener Zinsvermerk gilt als nicht
 geschrieben.
-
 
 ### Art 8
 
 Der Scheck kann bei einem Dritten, am Wohnort des Bezogenen oder an
 einem anderen Ort, zahlbar gestellt werden, sofern der Dritte Bankier
 ist.
-
 
 ### Art 9
 
@@ -146,7 +131,6 @@ gilt bei Abweichungen die in Buchstaben angegebene Summe.
 
 (2) Ist die Schecksumme mehrmals in Buchstaben oder mehrmals in
 Ziffern angegeben, so gilt bei Abweichungen die geringste Summe.
-
 
 ### Art 10
 
@@ -158,7 +142,6 @@ die unterschrieben haben oder mit deren Namen unterschrieben worden
 ist, keine Verbindlichkeit begründen, so hat dies auf die Gültigkeit
 der übrigen Unterschriften keinen Einfluß.
 
-
 ### Art 11
 
 Wer auf einen Scheck seine Unterschrift als Vertreter eines anderen
@@ -167,12 +150,10 @@ hat, wenn er den Scheck einlöst, dieselben Rechte, die der angeblich
 Vertretene haben würde. Das gleiche gilt von einem Vertreter, der
 seine Vertretungsbefugnis überschritten hat.
 
-
 ### Art 12
 
 Der Aussteller haftet für die Zahlung des Schecks. Jeder Vermerk,
 durch den er diese Haftung ausschließt, gilt als nicht geschrieben.
-
 
 ### Art 13
 
@@ -183,10 +164,7 @@ entgegengesetzt werden, es sei denn, daß er den Scheck in bösem
 Glauben erworben hat oder ihm beim Erwerb eine grobe Fahrlässigkeit
 zur Last fällt.
 
-
 ## Zweiter Abschnitt - Übertragung
-
-
 
 ### Art 14
 
@@ -202,7 +180,6 @@ nur in der Form und mit den Wirkungen einer gewöhnlichen Abtretung
 (3) Das Indossament kann auch auf den Aussteller oder jeden anderen
 Scheckverpflichteten lauten. Diese Personen können den Scheck weiter
 indossieren.
-
 
 ### Art 15
 
@@ -220,7 +197,6 @@ denn, daß der Bezogene mehrere Niederlassungen hat und das Indossament
 auf eine andere Niederlassung lautet als diejenige, auf die der Scheck
 gezogen worden ist.
 
-
 ### Art 16
 
 (1) Das Indossament muß auf den Scheck oder ein mit dem Scheck
@@ -232,7 +208,6 @@ kann selbst in der bloßen Unterschrift des Indossanten bestehen
 (Blankoindossament). In diesem letzteren Fall muß das Indossament, um
 gültig zu sein, auf die Rückseite des Schecks oder auf den Anhang
 gesetzt werden.
-
 
 ### Art 17
 
@@ -251,10 +226,6 @@ gesetzt werden.
 3.  den Scheck weitergegeben, ohne das Blankoindossament auszufüllen und
     ohne ihn zu indossieren.
 
-
-
-
-
 ### Art 18
 
 (1) Der Indossant haftet mangels eines entgegenstehenden Vermerks für
@@ -263,7 +234,6 @@ die Zahlung.
 (2) Er kann untersagen, daß der Scheck weiter indossiert wird; in
 diesem Fall haftet er denen nicht, an die der Scheck weiter indossiert
 wird.
-
 
 ### Art 19
 
@@ -276,13 +246,11 @@ ein weiteres Indossament, so wird angenommen, daß der Aussteller
 dieses Indossaments den Scheck durch das Blankoindossament erworben
 hat.
 
-
 ### Art 20
 
 Ein Indossament auf einem Inhaberscheck macht den Indossanten nach den
 Vorschriften über den Rückgriff haftbar, ohne aber die Urkunde in
 einen Orderscheck umzuwandeln.
-
 
 ### Art 21
 
@@ -294,7 +262,6 @@ Recht gemäß Artikel 19 nachweist -, zur Herausgabe des Schecks nur
 verpflichtet, wenn er ihn in bösem Glauben erworben hat oder ihm beim
 Erwerb eine grobe Fahrlässigkeit zur Last fällt.
 
-
 ### Art 22
 
 Wer aus dem Scheck in Anspruch genommen wird, kann dem Inhaber keine
@@ -302,7 +269,6 @@ Einwendungen entgegensetzen, die sich auf seine unmittelbaren
 Beziehungen zu dem Aussteller oder zu einem früheren Inhaber gründen,
 es sei denn, daß der Inhaber beim Erwerb des Schecks bewußt zum
 Nachteil des Schuldners gehandelt hat.
-
 
 ### Art 23
 
@@ -320,7 +286,6 @@ zustehen.
 weder mit dem Tod noch mit dem Eintritt der Handlungsunfähigkeit des
 Vollmachtgebers.
 
-
 ### Art 24
 
 (1) Ein Indossament, das nach Erhebung des Protests oder nach Vornahme
@@ -333,10 +298,7 @@ datiertes Indossament vor Erhebung des Protests oder vor der Vornahme
 einer gleichbedeutenden Feststellung oder vor Ablauf der
 Vorlegungsfrist auf den Scheck gesetzt worden ist.
 
-
 ## Dritter Abschnitt - Scheckbürgschaft
-
-
 
 ### Art 25
 
@@ -346,7 +308,6 @@ Scheckbürgschaft gesichert werden.
 (2) Diese Sicherheit kann von einem Dritten, mit Ausnahme des
 Bezogenen, oder auch von einer Person geleistet werden, deren
 Unterschrift sich schon auf dem Scheck befindet.
-
 
 ### Art 26
 
@@ -363,7 +324,6 @@ Ausstellers handelt.
 (4) In der Erklärung ist anzugeben, für wen die Bürgschaft geleistet
 wird; mangels einer solchen Angabe gilt sie für den Aussteller.
 
-
 ### Art 27
 
 (1) Der Scheckbürge haftet in der gleichen Weise wie derjenige, für
@@ -377,10 +337,7 @@ als wegen eines Formfehlers nichtig ist.
 dem Scheck gegen denjenigen, für den er sich verbürgt hat, und gegen
 alle, die diesem scheckmäßig haften.
 
-
 ## Vierter Abschnitt - Vorlegung und Zahlung
-
-
 
 ### Art 28
 
@@ -390,7 +347,6 @@ als nicht geschrieben.
 (2) Ein Scheck, der vor Eintritt des auf ihm angegebenen
 Ausstellungstags zur Zahlung vorgelegt wird, ist am Tag der Vorlegung
 zahlbar.
-
 
 ### Art 29
 
@@ -412,13 +368,11 @@ Erdteil ausgestellt und zahlbar sind.
 (4) Die vorstehend erwähnten Fristen beginnen an dem Tag zu laufen,
 der in dem Scheck als Ausstellungstag angegeben ist.
 
-
 ### Art 30
 
 Ist ein Scheck auf einen Ort gezogen, dessen Kalender von dem des
 Ausstellungsorts abweicht, so wird der Tag der Ausstellung in den nach
 dem Kalender des Zahlungsorts entsprechenden Tag umgerechnet.
-
 
 ### Art 31
 
@@ -429,7 +383,6 @@ Zahlung gleich.
 als Abrechnungsstellen anzusehen sind und unter welchen
 Voraussetzungen die Einlieferung erfolgen kann.
 
-
 ### Art 32
 
 (1) Ein Widerruf des Schecks ist erst nach Ablauf der Vorlegungsfrist
@@ -438,13 +391,11 @@ wirksam.
 (2) Wenn der Scheck nicht widerrufen ist, kann der Bezogene auch nach
 Ablauf der Vorlegungsfrist Zahlung leisten.
 
-
 ### Art 33
 
 Auf die Wirksamkeit des Schecks ist es ohne Einfluß, wenn der
 Aussteller nach der Begebung des Schecks stirbt oder handlungsunfähig
 wird.
-
 
 ### Art 34
 
@@ -456,13 +407,11 @@ quittierten Schecks verlangen.
 (3) Im Falle der Teilzahlung kann der Bezogene verlangen, daß sie auf
 dem Scheck vermerkt und ihm eine Quittung erteilt wird.
 
-
 ### Art 35
 
 Der Bezogene, der einen durch Indossament übertragbaren Scheck
 einlöst, ist verpflichtet, die Ordnungsmäßigkeit der Reihe der
 Indossamente, aber nicht die Unterschriften der Indossanten zu prüfen.
-
 
 ### Art 36
 
@@ -486,26 +435,20 @@ dieselbe Bezeichnung, aber einen anderen Wert hat als in dem der
 Zahlung, so wird vermutet, daß die Geldsorte des Zahlungsorts gemeint
 ist.
 
-
 ## Fünfter Abschnitt - Gekreuzter Scheck und Verrechnungsscheck
-
-
 
 ### Art 37
 
 -
 
-
 ### Art 38
 
 -
-
 
 ### Art 38a
 
 Im Ausland ausgestellte gekreuzte Schecks werden im Inland als
 Verrechnungsschecks behandelt.
-
 
 ### Art 39
 
@@ -525,10 +468,7 @@ erfolgt.
 haftet für den entstandenen Schaden, jedoch nur bis zur Höhe der
 Schecksumme.
 
-
 ## Sechster Abschnitt - Rückgriff mangels Zahlung
-
-
 
 ### Art 40
 
@@ -547,10 +487,6 @@ worden ist:
 3.  durch eine datierte Erklärung einer Abrechnungsstelle, daß der Scheck
     rechtzeitig eingeliefert und nicht bezahlt worden ist.
 
-
-
-
-
 ### Art 41
 
 (1) Der Protest oder die gleichbedeutende Feststellung muß vor Ablauf
@@ -559,7 +495,6 @@ der Vorlegungsfrist vorgenommen werden.
 (2) Ist die Vorlegung am letzten Tag der Frist erfolgt, so kann der
 Protest oder die gleichbedeutende Feststellung auch noch an dem
 folgenden Werktag vorgenommen werden.
-
 
 ### Art 42
 
@@ -596,7 +531,6 @@ innerhalb der Frist zur Post gegeben worden ist.
 Rückgriff; er haftet für den etwa durch seine Nachlässigkeit
 entstandenen Schaden, jedoch nur bis zur Höhe der Schecksumme.
 
-
 ### Art 43
 
 (1) Der Aussteller sowie jeder Indossant oder Scheckbürge kann durch
@@ -621,7 +555,6 @@ einem Scheckbürgen beigefügt, so sind alle Scheckverpflichteten zum
 Ersatz der Kosten eines dennoch erhobenen Protests oder einer
 gleichbedeutenden Feststellung verpflichtet.
 
-
 ### Art 44
 
 (1) Alle Scheckverpflichteten haften dem Inhaber als Gesamtschuldner.
@@ -637,7 +570,6 @@ Scheck eingelöst hat.
 Scheckverpflichteten verliert der Inhaber nicht seine Rechte gegen die
 anderen Scheckverpflichteten, auch nicht gegen die Nachmänner
 desjenigen, der zuerst in Anspruch genommen worden ist.
-
 
 ### Art 45
 
@@ -660,10 +592,6 @@ Der Inhaber kann im Wege des Rückgriffs verlangen:
     Hundert der Hauptsumme des Schecks beträgt und diesen Satz keinesfalls
     überschreiten darf.
 
-
-
-
-
 ### Art 46
 
 Wer den Scheck eingelöst hat, kann von seinen Vormännern verlangen:
@@ -684,10 +612,6 @@ Wer den Scheck eingelöst hat, kann von seinen Vormännern verlangen:
 4.  eine Vergütung, die nach den Vorschriften des Artikels 45 Nr. 4
     berechnet wird.
 
-
-
-
-
 ### Art 47
 
 (1) Jeder Scheckverpflichtete, gegen den Rückgriff genommen wird oder
@@ -698,7 +622,6 @@ ausgehändigt werden.
 
 (2) Jeder Indossant, der den Scheck eingelöst hat, kann sein
 Indossament und die Indossamente seiner Nachmänner ausstreichen.
-
 
 ### Art 48
 
@@ -730,10 +653,7 @@ betreffen, den er mit der Vorlegung des Schecks oder mit der Erhebung
 des Protests oder mit der Herbeiführung einer gleichbedeutenden
 Feststellung beauftragt hat, gelten nicht als Fälle höherer Gewalt.
 
-
 ## Siebenter Abschnitt - Ausfertigung mehrerer Stücke eines Schecks
-
-
 
 ### Art 49
 
@@ -747,7 +667,6 @@ gleichen Ausfertigungen ausgestellt werden. Diese Ausfertigungen
 müssen im Text der Urkunde mit fortlaufenden Nummern versehen sein;
 andernfalls gilt jede Ausfertigung als besonderer Scheck.
 
-
 ### Art 50
 
 (1) Wird eine Ausfertigung bezahlt, so erlöschen die Rechte aus allen
@@ -760,10 +679,7 @@ verlieren.
 Ausfertigungen, die ihre Unterschrift tragen und nicht herausgegeben
 worden sind.
 
-
 ## Achter Abschnitt - Änderungen
-
-
 
 ### Art 51
 
@@ -772,10 +688,7 @@ Unterschrift nach der Änderung auf den Scheck gesetzt haben,
 entsprechend dem geänderten Text; wer früher unterschrieben hat,
 haftet nach dem ursprünglichen Text.
 
-
 ## Neunter Abschnitt - Verjährung
-
-
 
 ### Art 52
 
@@ -788,7 +701,6 @@ Scheckverpflichteten verjähren in sechs Monaten von dem Tag, an dem
 der Scheck von dem Verpflichteten eingelöst oder ihm gegenüber
 gerichtlich geltend gemacht worden ist.
 
-
 ### Art 53
 
 Der Neubeginn der Verjährung und ihre Hemmung nach § 204 des
@@ -796,10 +708,7 @@ Bürgerlichen Gesetzbuchs wirken nur gegen den Scheckverpflichteten, in
 Ansehung dessen die Tatsache eingetreten ist, welche den Neubeginn
 oder die Hemmung bewirkt.
 
-
 ## Zehnter Abschnitt - Allgemeine Vorschriften
-
-
 
 ### Art 54
 
@@ -818,10 +727,6 @@ Als Bankiers im Sinne dieses Gesetzes sind anzusehen:
 2.  die in das Handelsregister eingetragenen Firmen, die gewerbsmäßig
     Bankiergeschäfte betreiben.
 
-
-
-
-
 ### Art 55
 
 (1) Die Vorlegung und der Protest eines Schecks können nur an einem
@@ -838,21 +743,16 @@ Frist fallen, werden bei der Berechnung der Frist mitgezählt.
 die Vorschriften der Artikel 79 bis 87 des Wechselgesetzes
 entsprechende Anwendung.
 
-
 ### Art 56
 
 Bei der Berechnung der in diesem Gesetz vorgesehenen Fristen wird der
 Tag, an dem sie zu laufen beginnen, nicht mitgezählt.
 
-
 ### Art 57
 
 Weder gesetzliche noch richterliche Respekttage werden anerkannt.
 
-
 ## Elfter Abschnitt - Ergänzende Vorschriften
-
-
 
 ### Art 58
 
@@ -863,7 +763,6 @@ dessen Schaden bereichern würde.
 
 (2) Der Anspruch verjährt in einem Jahr seit der Ausstellung des
 Schecks.
-
 
 ### Art 59
 
@@ -882,10 +781,7 @@ In dem Zeugnis muß der Inhalt des Protests und des gemäß Artikel 55
 Abs. 3 in Verbindung mit Artikel 85 Abs. 2 des Wechselgesetzes
 aufgenommenen Vermerks angegeben sein.
 
-
 ## Zwölfter Abschnitt - Geltungsbereich der Gesetze
-
-
 
 ### Art 60
 
@@ -901,7 +797,6 @@ abgegeben worden ist, nach dessen Recht er scheckfähig wäre. Diese
 Vorschrift findet keine Anwendung, wenn die Verbindlichkeit von einem
 Inländer im Ausland übernommen worden ist.
 
-
 ### Art 61
 
 (1) Das Recht des Landes, in dem der Scheck zahlbar ist, bestimmt die
@@ -912,7 +807,6 @@ Bezogenen nichtig, so sind gleichwohl die Verpflichtungen aus
 Unterschriften gültig, die in Ländern auf den Scheck gesetzt worden
 sind, deren Recht die Nichtigkeit aus einem solchen Grund nicht
 vorsieht.
-
 
 ### Art 62
 
@@ -931,19 +825,16 @@ Gültigkeit der späteren Scheckerklärung nicht berührt.
 ist im Inland gegenüber anderen Inländern gültig, wenn die Erklärung
 den Formerfordernissen des inländischen Rechts genügt.
 
-
 ### Art 63
 
 Die Wirkungen der Scheckerklärungen bestimmen sich nach dem Recht des
 Landes, in dessen Gebiet die Erklärungen unterschrieben worden sind.
-
 
 ### Art 64
 
 Die Fristen für die Ausübung der Rückgriffsrechte werden für alle
 Scheckverpflichteten durch das Recht des Ortes bestimmt, an dem der
 Scheck ausgestellt worden ist.
-
 
 ### Art 65
 
@@ -988,10 +879,6 @@ bestimmt:
 9.  ob ein Protest oder eine gleichbedeutende Feststellung zur Erhaltung
     des Rückgriffs gegen die Indossanten, den Aussteller und die anderen
     Scheckverpflichteten notwendig ist.
-
-
-
-
 
 ### Art 66
 

@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1992, 1024
 
-
-
 ## I.
 
 Auf Grund des § 4 Abs. 2 Nr. 3a des Warenzeichengesetzes in der
@@ -39,7 +37,6 @@ Das in Anlage 2 wiedergegebene Kennzeichen tritt an die Stelle des in
 der Anlage zu der Bekanntmachung vom 13. März 1986 (BGBl. I S. 370)
 wiedergegebenen Kennzeichens.
 
-
 ## II.
 
 Auf Grund des § 4 Abs. 2 Nr. 3 desselben Gesetzes werden nationale
@@ -51,35 +48,29 @@ Kennzeichen bekanntgemacht, die
 
 eingeführt sind (Anlage 4).
 
-
 ## III.
 
 Diese Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom 14.
 Januar 1992 (BGBl. I S. 224).
 
-
 ## Schlußformel
 
 Der Bundesminister der Justiz
-
 
 ## Anlage 1
 
 (Inhalt: Nicht darstellbare Abbildung;
 Fundstelle: BGBl. I 1992, 1025)
 
-
 ## Anlage 2
 
 (Inhalt: Nicht darstellbare Abbildung;
 Fundstelle: BGBl. I 1992, 1025)
 
-
 ## Anlage 3
 
 (Inhalt: Nicht darstellbare Abbildung;
 Fundstelle: BGBl. I 1992, 1026)
-
 
 ## Anlage 4
 

@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 43 G v. 8.5.2008 I 810
 
-
 ## Erster Abschnitt - Verlegung des Sitzes von Kreditinstituten
-
-
 
 ### § 1
 
@@ -41,7 +38,6 @@ ein öffentliches Register eingetragen worden ist, ist nach Verlegung
 des Sitzes des Geldinstituts in den Geltungsbereich dieses Gesetzes
 von Amts wegen zu löschen.
 
-
 ### § 2
 
 Ist die Anerkennung als verlagertes Geldinstitut nach § 3 der
@@ -50,7 +46,6 @@ einer Auflage verbunden worden, so bleibt eine aus der Auflage sich
 ergebende Beschränkung der dem Geldinstitut zuzuteilenden
 Ausgleichsforderung bestehen, auch wenn das Geldinstitut nach der
 Verlegung seines Sitzes Bankgeschäfte betreibt.
-
 
 ### § 3
 
@@ -84,23 +79,15 @@ Durchführungsverordnung zum Umstellungsgesetz, für die Wirkung von
 Berichtigungen der Altbankenrechnung gilt § 19 des Altbanken-Bilanz-
 Gesetzes.
 
-
 ## Zweiter Abschnitt - (weggefallen)
-
-
 
 ### (XXXX) §§ 4 bis 7 (weggefallen)
 
-
-
 ## Dritter Abschnitt - Änderung von Vorschriften des Umstellungsrechts
-
-
 
 ### § 8
 
 -
-
 
 ### § 9
 
@@ -109,10 +96,7 @@ Berliner Senator (Berliner Bankaufsichtsbehörde) oder die Berliner
 Bankaufsichtsbehörde genannt sind, tritt an ihre Stelle die zuständige
 oberste Landesbehörde des Landes Berlin.
 
-
 ### (XXXX) §§ 10 bis 12
-
-
 
 ### § 13
 
@@ -122,28 +106,19 @@ nach § 8 Nrn. 1, 2 oder 5, nach §§ 10, 11 oder nach § 12 Nr. 1 oder
 Nr. 2 geltend gemacht werden kann, steht der erneuten Geltendmachung
 dieses Anspruchs nicht entgegen.
 
-
 ### (XXXX) §§ 14 bis 16
 
-
-
 ## Vierter Abschnitt - Ergänzung des Rückstellungsgesetzes
-
-
 
 ### § 17
 
 -
 
-
 ## Fünfter Abschnitt - Schlußvorschriften
-
-
 
 ### § 18
 
 -
-
 
 ### § 19
 
@@ -158,7 +133,6 @@ Eröffnungsbilanz in Deutscher Mark und die Kapitalneufestsetzung
 (D-Markbilanzgesetz) vom 6. September 1949 (Gesetz- und
 Verordnungsblatt der Landesregierung Rheinland-Pfalz I S. 421) zu
 verstehen.
-
 
 ### § 20
 
@@ -180,11 +154,9 @@ Landes Berlin zur Änderung und Ergänzung des D-Markbilanzgesetzes
 (D-Markbilanzergänzungsgesetz) vom 24. Mai 1951 (Gesetz- und
 Verordnungsblatt für Berlin S. 382).
 
-
 ### § 21
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
-
 
 ### Schlußformel
 

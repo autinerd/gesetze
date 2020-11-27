@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 2907
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August
@@ -27,7 +25,6 @@ ist, verordnet das Bundesministerium für Bildung und Forschung nach
 Anhören des Ständigen Ausschusses des Bundesinstituts für
 Berufsbildung im Einvernehmen mit dem Bundesministerium für Wirtschaft
 und Arbeit:
-
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
 
@@ -67,7 +64,6 @@ Sozialkompetenz, genutzt werden.
 (3) Die erfolgreich abgelegte Prüfung führt zum anerkannten Abschluss
 Geprüfter Technischer Betriebswirt/Geprüfte Technische Betriebswirtin.
 
-
 ## § 2 Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer
@@ -91,7 +87,6 @@ nachweist.
 wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft
 macht, dass Kenntnisse, Fertigkeiten und Erfahrungen erworben worden
 sind, die eine Zulassung zur Prüfung rechtfertigen.
-
 
 ## § 3 Gliederung und Durchführung der Prüfung
 
@@ -127,7 +122,6 @@ werden.
 (5) Mit dem letzten Prüfungsteil nach Absatz 1 Nr. 3 soll spätestens
 ein Jahr nach dem erfolgreichen Abschluss der Prüfungsteile nach
 Absatz 1 Nr. 1 und 2 begonnen werden.
-
 
 ## § 4 Wirtschaftliches Handeln und betrieblicher Leistungsprozess
 
@@ -338,7 +332,6 @@ dauern. Die Bewertung der schriftlichen Prüfungsleistung und die der
 mündlichen Ergänzungsprüfung werden zu einer Note zusammengefasst.
 Dabei wird die Bewertung der schriftlichen Prüfungsleistung doppelt
 gewichtet.
-
 
 ## § 5 Management und Führung
 
@@ -781,7 +774,6 @@ Prüfungsteilnehmerin mindestens 30 Minuten, höchstens 45 Minuten
 dauern. Ihnen ist eine Vorbereitungszeit von mindestens 30 Minuten,
 höchstens 45 Minuten zu gewähren.
 
-
 ## § 6 Fachübergreifender technikbezogener Prüfungsteil
 
 (1) Im Prüfungsteil "Fachübergreifender technikbezogener Prüfungsteil"
@@ -813,7 +805,6 @@ dauern.
 (4) Das Fachgespräch ist nur zu führen, wenn in der Projektarbeit
 mindestens ausreichende Leistungen erbracht wurden.
 
-
 ## § 7 Anrechnung anderer Prüfungsleistungen
 
 Auf Antrag kann die zuständige Stelle von der Ablegung einzelner
@@ -826,7 +817,6 @@ Verordnung entspricht. Eine Freistellung von der Prüfung im
 situationsbezogenen Fachgespräch gemäß § 5 Abs. 6, von der
 Projektarbeit sowie dem projektarbeitsbezogenen Fachgespräch gemäß § 6
 Abs. 3 ist nicht zulässig.
-
 
 ## § 8 Bewerten der Prüfungsteile und Bestehen der Prüfung
 
@@ -859,7 +849,6 @@ erzielten Punkte hervorgehen müssen. Im Fall der Freistellung gemäß §
 7 sind Ort und Datum sowie die Bezeichnung des Prüfungsgremiums der
 anderweitig abgelegten Prüfung anzugeben.
 
-
 ## § 9 Wiederholung der Prüfung
 
 (1) Ein Prüfungsteil, der nicht bestanden ist, kann zweimal wiederholt
@@ -878,7 +867,6 @@ das letzte Ergebnis für das Bestehen zu berücksichtigen.
 für die Wiederholungsprüfung die technikbezogene Projektarbeit
 ebenfalls als neue Aufgabe gestellt werden.
 
-
 ## § 10 Übergangsvorschriften
 
 Begonnene Prüfungsverfahren zum Technischen Betriebswirt (IHK)/zur
@@ -890,11 +878,9 @@ Abs. 2 findet in diesem Fall keine Anwendung. Im Übrigen kann bei der
 Anmeldung zur Prüfung bis zum Ablauf des 30. April 2005 die Anwendung
 der bisherigen Vorschriften beantragt werden.
 
-
 ## § 11 Inkrafttreten
 
 Diese Verordnung tritt am 1. Dezember 2004 in Kraft.
-
 
 ## Anlage 1 (zu § 8 Abs. 6)
 
@@ -921,7 +907,6 @@ Datum.................................................................
 Unterschrift(en)......................................................
 ........
 (Siegel der zuständigen Stelle)
-
 
 ## Anlage 2 (zu § 8 Abs. 6)
 

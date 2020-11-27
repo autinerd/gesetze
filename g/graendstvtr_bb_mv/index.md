@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1993, 205, 206
 
-
-
 ## Eingangsformel
 
 Um dem Willen von Bürgerinnen und Bürgern Rechnung zu tragen, die auf
@@ -45,7 +43,6 @@ Einigungsvertragsgesetz - und der Vereinbarung vom 18. September 1990
 vom 23. September 1990 (BGBl. II S. 885) fortgeltendes Recht ist,
 folgenden Staatsvertrag:
 
-
 ## Art 1
 
 (1) Die Gemeinden Besandten, Eldenburg, Lanz, Lenzen, Mellen und Wootz
@@ -71,7 +68,6 @@ der Anlage 1 graphisch dargestellt. Die Anlage ist Bestandteil dieses
 Vertrages. Die Festlegung der endgültigen Grenze erfolgt durch eine
 gemeinsame Grenzkommission der vertragschließenden Länder.
 
-
 ## Art 2
 
 (1) Mit Inkrafttreten des Staatsvertrages tritt in den aufgenommenen
@@ -94,7 +90,6 @@ Verfahren nach Zurückweisung, Wiederaufnahme des Verfahrens,
 Vollstreckungsgegenklage, Entscheidungen über die Strafvollstreckung
 u. dgl.).
 
-
 ## Art 3
 
 Das in den übergehenden Gebieten belegene Verwaltungsvermögen von
@@ -108,7 +103,6 @@ mit allen Rechten, Lasten und Verpflichtungen gegen Entschädigung auf
 die in dem aufnehmenden Land zuständige entsprechende Körperschaft des
 öffentlichen Rechts über. Die Entschädigung kann durch Vereinbarung
 der beteiligten Gebietskörperschaften geregelt werden.
-
 
 ## Art 4
 
@@ -124,7 +118,6 @@ Verwaltungsaufgaben für das Umgliederungsgebiet befaßt sind.
 (2) Die von der Umgliederung unmittelbar betroffenen Landkreise sind
 verpflichtet, Vereinbarungen zu schließen, die den in Absatz 1
 niedergelegten Grundsätzen entsprechen.
-
 
 ## Art 5
 
@@ -142,7 +135,6 @@ durch die fortgeltende Zuständigkeit für das ausgegliederte Gebiet
 nach Absatz 1 entstehen. Einzelheiten werden in einer gesonderten
 Verwaltungsvereinbarung geregelt.
 
-
 ## Art 6
 
 (1) Mit Inkrafttreten des Staatsvertrages übernimmt das Land
@@ -157,7 +149,6 @@ Verantwortung für den länderübergreifenden Naturschutz. Soweit sich
 aus der Umgliederung eines Teils des Naturparkes "Elbaue" in das Land
 Brandenburg Regelungsbedarf ergibt, werden die vertragschließenden
 Länder unverzüglich das Erforderliche veranlassen.
-
 
 ## Art 7
 
@@ -190,7 +181,6 @@ verlängern.
 Unterlagen nicht möglich oder untunlich ist, werden beglaubigte
 Abschriften erteilt.
 
-
 ## Art 8
 
 (1) Dieser Vertrag bedarf der Zustimmung der verfassungsmäßig
@@ -199,7 +189,6 @@ Ratifikationsurkunden sollen sobald wie möglich ausgetauscht werden.
 
 (2) Dieser Vertrag tritt am ersten Tag des auf den Austausch der
 Ratifikationsurkunden folgenden Kalendermonats in Kraft.
-
 
 ## Schlußformel
 
@@ -218,33 +207,25 @@ Ratifikationsurkunden folgenden Kalendermonats in Kraft.
 
     *   des Landes Mecklenburg-Vorpommern
 
-
-
-
-
 ## Anlage 1a zum Staatsvertrag über die Umgliederung von Gemeinden aus dem Landkreis Ludwigslust
 
 (Inhalt: nicht darstellbare topographische Karte,
 Fundstelle: BGBl. I 1993, 208 - 209)
-
 
 ## Anlage 1b zum Staatsvertrag über die Umgliederung von Gemeinden und Ortsteilen aus dem Landkreis Perleberg
 
 (Inhalt: nicht darstellbare topographische Karte,
 Fundstelle: BGBl. I 1993, 210)
 
-
 ## Anlage 1c zum Staatsvertrag über die Umgliederung von Gemeinden aus den Landkreisen Strasburg und Pasewalk
 
 (Inhalt: nicht darstellbare topographische Karte,
 Fundstelle: BGBl. I 1993, 211)
 
-
 ## Anlage 1d zum Staatsvertrag über die Umgliederung von Gemeinden aus dem Landkreis Pasewalk
 
 (Inhalt: nicht darstellbare topographische Karte,
 Fundstelle: BGBl. I 1993, 212)
-
 
 ## (XXXX) Protokollnotiz zum Vertrag zwischen den Ländern Brandenburg und Mecklenburg-Vorpommern über die Änderung der gemeinsamen Landesgrenze vom 9. Mai 1992 Zu Artikel 2
 
@@ -275,10 +256,6 @@ Fundstelle: BGBl. I 1993, 212)
     das jeweils erst bewilligende Land berechtigt, den jeweiligen
     Bundesanteil einzufordern.
 
-
-
-
-
 ## (XXXX) Protokollnotiz zum Vertrag zwischen den Ländern Brandenburg und Mecklenburg-Vorpommern über die Änderung der gemeinsamen Landesgrenze vom 9. Mai 1992 Zu Artikel 3
 
 Die vertragschließenden Parteien sind sich einig darüber, daß die
@@ -286,7 +263,6 @@ Worte "gegen Entschädigung" ausschließlich die vom Lande Mecklenburg-
 Vorpommern vorgenommenen Investitionen im Bereich des Stützpunktes
 Lenzen des Staatlichen Amtes für Umwelt und Naturschutz betreffen.
 Weitere entschädigungspflichtige Tatbestände bestehen nicht.
-
 
 ## (XXXX) Protokollnotiz zum Vertrag zwischen den Ländern Brandenburg und Mecklenburg-Vorpommern über die Änderung der gemeinsamen Landesgrenze vom 9. Mai 1992 Zu Artikel 4
 
@@ -296,7 +272,6 @@ Eintrittspflicht in die bestehenden Arbeitsverhältnisse gemäß Artikel
 Fachressorts des Landes Mecklenburg-Vorpommern geregelt wird.
 Eine Übernahme von Bediensteten aus dem Polizeibereich findet
 grundsätzlich nicht statt.
-
 
 ## (XXXX) Protokollnotiz zum Vertrag zwischen den Ländern Brandenburg und Mecklenburg-Vorpommern über die Änderung der gemeinsamen Landesgrenze vom 9. Mai 1992 Zu Artikel 7 Abs. 1
 

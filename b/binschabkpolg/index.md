@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 14 V v. 31.10.2006 I 2407
 
-
 ## Art 1
 
 Dem in Warschau am 8. November 1991 unterzeichneten Abkommen zwischen
@@ -27,7 +26,6 @@ der Regierung der Bundesrepublik Deutschland und der Regierung der
 Republik Polen über die Binnenschiffahrt sowie dem dazugehörigen
 Protokoll vom selben Tage wird zugestimmt. Das Abkommen sowie das
 Protokoll werden nachstehend veröffentlicht.
-
 
 ## Art 2
 
@@ -38,14 +36,12 @@ Wechselverkehr, auf die sich der Gemischte Ausschuß gemäß Artikel 15
 Abs. 3 des Abkommens geeinigt hat, durch Rechtsverordnung in Kraft zu
 setzen.
 
-
 ## Art 3
 
 Abweichungen von den in einer Rechtsverordnung nach Artikel 2
 festgesetzten Mindest-/Höchstfrachten für Verkehrsleistungen sowie
 Zahlungen oder andere Zuwendungen, die einer Umgehung des
 festgesetzten Entgelts gleichkommen, sind verboten.
-
 
 ## Art 4
 
@@ -56,7 +52,6 @@ Abweichung von den durch Rechtsverordnung nach Artikel 2 in Kraft
 gesetzten Mindest-/Höchstfrachten anbietet oder vermittelt oder wer
 solche Verträge abschließt oder erfüllt.
 
-
 ## Art 5
 
 Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über
@@ -66,7 +61,6 @@ abweichend von § 37 des Gesetzes über Ordnungswidrigkeiten durch
 Rechtsverordnung eine Wasser- und Schiffahrtsdirektion als für den
 Bereich mehrerer Wasser- und Schiffahrtsdirektionen zuständig
 erklären.
-
 
 ## Art 6
 

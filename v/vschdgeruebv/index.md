@@ -17,15 +17,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 3469
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 11 Abs. 5 in Verbindung mit Abs. 4 des EG-
 Verbraucherschutzdurchsetzungsgesetzes vom 21. Dezember 2006 (BGBl. I
 S. 3367) verordnet das Bundesministerium für Ernährung, Landwirtschaft
 und Verbraucherschutz:
-
 
 ## § 1
 
@@ -34,7 +31,6 @@ vorgesehene Ermächtigung zum Erlass von Rechtsverordnungen wird dem
 Bundesamt für Verbraucherschutz und Lebensmittelsicherheit für seinen
 Zuständigkeitsbereich nach § 2 Abs. 1 Nr. 1 des EG-
 Verbraucherschutzdurchsetzungsgesetzes übertragen.
-
 
 ## § 2
 

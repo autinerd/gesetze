@@ -21,7 +21,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 3 G v. 29.7.2008 I 1509
 
-
 ## § 1 Begriffsbestimmungen
 
 (1) Bausparkassen sind Kreditinstitute, deren Geschäftsbetrieb darauf
@@ -85,7 +84,6 @@ dieser Gebiete beizutragen.
 besondere Aufgaben für den Wohnungsbau oder sonstige öffentliche
 Aufgaben zu übertragen, bleibt unberührt.
 
-
 ## § 2 Rechtsform
 
 (1) Private Bausparkassen dürfen nur in der Rechtsform der
@@ -93,7 +91,6 @@ Aktiengesellschaft betrieben werden.
 
 (2) Die Rechtsform der öffentlich-rechtlichen Bausparkassen wird von
 den Ländern bestimmt.
-
 
 ## § 3 Aufsicht
 
@@ -112,7 +109,6 @@ bestehen.
 (3) Die Bundesanstalt entscheidet in Zweifelsfällen, ob ein
 Unternehmen den Vorschriften dieses Gesetzes unterliegt. Ihre
 Entscheidungen binden die Verwaltungsbehörden.
-
 
 ## § 4 Zulässige Geschäfte
 
@@ -277,7 +273,6 @@ von Wohnräumen für ihre Betriebsangehörigen gestattet.
 nicht verpflichten, die Bausparsumme zu einem bestimmten Zeitpunkt
 auszuzahlen.
 
-
 ## § 5 Allgemeine Geschäftsgrundsätze, Allgemeine Bedingungen für Bausparverträge
 
 (1) Bausparkassen haben ihrem Geschäftsbetrieb Allgemeine
@@ -369,10 +364,6 @@ Bestimmungen enthalten über
     bestehender Lebensversicherungen, wenn der Bausparer zum Abschluß
     einer solchen Versicherung verpflichtet ist.
 
-
-
-
-
 ## § 6 Zweckbindung der Bausparmittel
 
 (1) Zuteilungsmittel, insbesondere Bauspareinlagen und
@@ -400,7 +391,6 @@ veräußert, beliehen oder verpfändet werden. Das gleiche gilt für
 Forderungen aus Darlehen im Sinne des § 4 Abs. 1 Nr. 1 und die ihrer
 Sicherung dienenden Grundpfandrechte und sonstigen Sicherheiten.
 
-
 ## § 6a Vermeidung von Währungsrisiken
 
 Die Bausparkasse hat mit der Sorgfalt eines ordentlichen Kaufmanns die
@@ -413,7 +403,6 @@ verfügbaren Gelder sorgen. Die Bundesanstalt kann im Einzelfall von
 der Pflicht zur Bildung getrennter Zuteilungsmassen befreien, wenn
 dadurch die Belange der Bausparer nicht erheblich beeinträchtigt
 werden.
-
 
 ## § 7 Sicherung der Forderungen aus Darlehen
 
@@ -513,7 +502,6 @@ des Pfandobjektes und der Ertrag zu berücksichtigen, den das
 Pfandobjekt bei ordnungsgemäßer Wirtschaft jedem Besitzer nachhaltig
 gewähren kann.
 
-
 ## § 8 Versagung und Rücknahme der Erlaubnis
 
 (1) Die Erlaubnis, Geschäfte einer Bausparkasse zu betreiben, darf
@@ -544,7 +532,6 @@ Erlaubnis nach Absatz 1 rechtfertigen würden und die Belange der
 Bausparer nicht durch andere Maßnahmen nach diesem Gesetz oder dem
 Gesetz über das Kreditwesen ausreichend gewahrt werden können.
 
-
 ## § 9 Änderung der Allgemeinen Geschäftsgrundsätze und der Allgemeinen Bedingungen für Bausparverträge
 
 (1) Änderungen und Ergänzungen der Allgemeinen Geschäftsgrundsätze und
@@ -569,7 +556,6 @@ Bedingungen für Bausparverträge ändert. Unter der gleichen
 Voraussetzung kann die Bundesanstalt, unbeschadet ihrer Befugnisse
 nach § 46 Abs. 1 des Gesetzes über das Kreditwesen, der Bausparkasse
 den Abschluß neuer Verträge verbieten.
-
 
 ## § 10 Erlaß von Rechtsverordnungen
 
@@ -653,7 +639,6 @@ Rechtsverordnung Vorschriften erlassen über
 Der Bundesminister der Finanzen kann diese Ermächtigung durch
 Rechtsverordnung auf die Bundesanstalt übertragen.
 
-
 ## § 11 Abberufung von Geschäftsleitern
 
 Die Bundesanstalt kann die Abberufung des Geschäftsleiters einer
@@ -665,7 +650,6 @@ Bundesanstalt oder gegen die in § 5 Abs. 2 und 3 bezeichneten
 Bestimmungen der Allgemeinen Geschäftsgrundsätze oder der Allgemeinen
 Bedingungen für Bausparverträge verstoßen hat und trotz Verwarnung
 durch die Bundesanstalt dieses Verhalten fortsetzt.
-
 
 ## § 12 Vertrauensmann
 
@@ -693,7 +677,6 @@ gebunden.
 Vergütung; diese ist von der Bausparkasse in sinngemäßer Anwendung des
 § 51 Abs. 3 des Gesetzes über das Kreditwesen gesondert zu erstatten.
 
-
 ## § 13 Besondere Pflichten des Prüfers
 
 Bei der Prüfung des Jahresabschlusses einer Bausparkasse hat der
@@ -716,7 +699,6 @@ Prüfer auch festzustellen, ob
 
 Das Ergebnis ist in den Prüfungsbericht aufzunehmen.
 
-
 ## § 14 Bestandsübertragung
 
 (1) Ein Vertrag, durch den der Bestand einer Bausparkasse an
@@ -735,7 +717,6 @@ anzuwenden. Die Genehmigung darf nur versagt werden, wenn durch die
 
 (2) Der Vertrag bedarf der Schriftform.
 
-
 ## § 15 Zahlungsverbot, Zustimmung zur vereinfachten Abwicklung
 
 Besteht Gefahr für die Erfüllung der Verpflichtungen einer
@@ -748,7 +729,6 @@ zustimmen. Die Vorschriften der Insolvenzordnung zum Schutz von
 Zahlungs- sowie Wertpapierliefer- und -abrechnungssystemen sowie von
 dinglichen Sicherheiten der Zentralbanken und von Finanzsicherheiten
 finden entsprechend Anwendung.
-
 
 ## § 16 Bezeichnung "Bausparkasse"
 
@@ -766,12 +746,10 @@ den Anschein ausschließt, daß sie Bauspargeschäfte betreiben.
 (3) Die Vorschriften der §§ 42 und 43 des Gesetzes über das
 Kreditwesen gelten entsprechend.
 
-
 ## § 17 Ausnahmen
 
 Auf Bausparkassen, die einer besonderen staatlichen Aufsicht
 unterliegen, werden die §§ 14 und 15 Satz 1 nicht angewandt.
-
 
 ## § 18 Bestimmungen für bestehende und für neue rechtlich unselbständige Bausparkassen
 
@@ -810,7 +788,6 @@ Frist für die Abwicklung dieser Geschäfte festsetzen.
 nach Inkrafttreten dieses Gesetzes das Bauspargeschäft durch rechtlich
 unselbständige Einrichtungen betreiben.
 
-
 ## § 19 Überleitungsbestimmungen
 
 (1) Die auf dem Gebiet des Bausparwesens bestehenden
@@ -843,11 +820,9 @@ Nennbetrages aller Anteile dieses Unternehmens hinaus halten, wenn sie
 diese Beteiligungen vor dem 31. Mai 1990 zulässigerweise übernommen
 oder erworben hat.
 
-
 ## § 20 (Änderung und Aufhebung von Rechtsvorschriften)
 
 -
-
 
 ## § 21 (Inkrafttreten)
 

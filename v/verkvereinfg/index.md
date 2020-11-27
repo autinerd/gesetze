@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 Abs. 1 G v. 22.12.2011 I 3044
 
-
 ## § 1
 
 (1) Eine vereinfachte Verkündung oder Bekanntgabe ist in den Fällen
@@ -29,7 +28,6 @@ Bekanntmachungsgesetz andere Verkündungsarten zuläßt.
 
 (2) Die Verkündung oder Bekanntgabe ist in der in Absatz 1 genannten
 Form nachzuholen, sobald die Umstände es zulassen.
-
 
 ## § 2
 
@@ -59,10 +57,6 @@ Voraussetzungen des § 1 Abs. 1 in folgenden Fällen statt:
 6.  Bekanntgabe von Beschlüssen internationaler Organe und Entscheidungen
     der Bundesregierung bei der Anwendung des Artikels 80a Abs. 3 Satz 1
     GG.
-
-
-
-
 
 ## § 3
 
@@ -110,7 +104,6 @@ Die nach Satz 1 verkündeten Vorschriften sind in den Fällen der Nummer
 2 bei den den Wasser- und Schiffahrtsdirektionen unmittelbar
 nachgeordneten Behörden, in den Fällen der Nummer 3 bei der
 Flugsicherungsorganisation unverzüglich durch Aushang bekanntzumachen.
-
 
 ## § 4
 
@@ -161,7 +154,6 @@ Satz 1 bis 3 und 6 gilt entsprechend.
 (6) Widerspruch und Anfechtungsklage gegen Anordnungen nach dieser
 Vorschrift haben keine aufschiebende Wirkung.
 
-
 ## § 5
 
 Die Bekanntgabe der in § 2 Nr. 5 und 6 genannten Beschlüsse erfolgt
@@ -173,7 +165,6 @@ erforderlich ist lediglich ein allgemeiner Hinweis auf einen
 derartigen Beschluß. Die anwendbaren Rechtsvorschriften müssen in
 jedem Fall genau bezeichnet werden.
 
-
 ## § 6
 
 Wenn feststeht, daß während des Verteidigungsfalles wegen besonderer
@@ -183,14 +174,12 @@ umfassen, nicht erreicht haben, so sind die verkündeten
 Rechtsvorschriften insoweit bis zu dem Zeitpunkt, zu dem eine
 Verkündungsmaßnahme diese Gebiete erreicht hat, nicht anzuwenden.
 
-
 ## § 7
 
 Die Rechtsträger der Presseorgane können von der Bundesrepublik
 Deutschland nach Maßgabe des § 670 des Bürgerlichen Gesetzbuchs Ersatz
 der Aufwendungen verlangen, die sie auf Grund von Anordnungen nach
 diesem Gesetz gemacht haben.
-
 
 ## § 8
 
@@ -203,7 +192,6 @@ Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
 fahrlässig eine ihm übertragene Aufgabe nicht, nicht richtig oder
 nicht rechtzeitig erfüllt und dadurch eine fristgemäße Verkündung oder
 Bekanntgabe oder deren Wiederholung verhindert.
-
 
 ## § 9
 

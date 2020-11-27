@@ -20,7 +20,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 Vertrag v. 30.11.2011 I 2012, 1223 iVm Art. 1 G v. 1.6.2012 I 1222
 
-
 ## Präambel
 
 Im Bewusstsein der besonderen geschichtlichen Verantwortung des
@@ -31,7 +30,6 @@ jüdischen Lebens in Deutschland zu fördern und das freundschaftliche
 Verhältnis zu der jüdischen Glaubensgemeinschaft zu verfestigen und zu
 vertiefen, schließt die Bundesrepublik Deutschland mit dem Zentralrat
 der Juden in Deutschland folgenden Vertrag:
-
 
 ## Art 1 Zusammenwirken
 
@@ -48,7 +46,6 @@ Deutschland beitragen. Dazu wird sie den Zentralrat der Juden in
 Deutschland bei der Erfüllung seiner überregionalen Aufgaben sowie den
 Kosten seiner Verwaltung finanziell unterstützen.
 
-
 ## Art 2 Staatsleistung
 
 (1) Zu den in Artikel 1 genannten Zwecken zahlt die Bundesrepublik
@@ -63,13 +60,11 @@ die Entwicklung der Zahl der vom Zentralrat repräsentierten
 Gemeindemitglieder ein wichtiges Kriterium bei der Berechnung der
 Leistungsanpassung darstellt.
 
-
 ## Art 3 Zahlungsmodalitäten
 
 Die Leistung wird 2003 in einer Summe, ab 2004 mit je einem Viertel
 des Jahresbetrages jeweils zum 15. Februar, 15. Mai, 15. August und
 15\. November gezahlt.
-
 
 ## Art 4 Prüfung der Verwendung der Mittel
 
@@ -77,7 +72,6 @@ Der Zentralrat der Juden in Deutschland weist die Verwendung der
 Zahlung jährlich durch eine von einem unabhängigen vereidigten
 Wirtschaftsprüfer geprüfte Rechnung nach. Die Rechnung und der Bericht
 des Wirtschaftsprüfers sind der Bundesregierung vorzulegen.
-
 
 ## Art 5 Weitere Einrichtungen des Zentralrats
 
@@ -97,7 +91,6 @@ Grundlage der vorgelegten Wirtschaftspläne.
 festzulegende Zuwendungen im Sinne des Bundeshaushaltsrechts nach den
 Vorgaben des Haushaltsgesetzgebers.
 
-
 ## Art 6 Ausschluss weiterer Leistungen
 
 (1) Der Zentralrat der Juden in Deutschland wird über die in Artikel 2
@@ -111,7 +104,6 @@ jüdischer Zuwanderer aus den GUS-Staaten und für die Pflege verwaister
 jüdischer Friedhöfe auf der Grundlage der Vereinbarung zwischen dem
 Bund und den Ländern vom 21. Juni 1957.
 
-
 ## Art 7 Vertragsanpassung
 
 Die Vertragsschließenden sind sich bewusst, dass die Festlegung der
@@ -120,13 +112,11 @@ derzeitigen Verhältnisse erfolgt. Bei einer wesentlichen Veränderung
 der Verhältnisse werden sich die Vertragsschließenden um eine
 angemessene Anpassung bemühen.
 
-
 ## Art 8 Freundschaftsklausel
 
 Die Vertragsschließenden werden etwa in Zukunft auftretende
 Meinungsverschiedenheiten über die Auslegung dieses Vertrages in
 freundschaftlicher Weise beseitigen.
-
 
 ## Art 9 Zustimmung des Deutschen Bundestages, Inkrafttreten
 
@@ -135,7 +125,6 @@ ein Bundesgesetz.
 
 (2) Er tritt am Tag des Inkrafttretens des Gesetzes, mit dem diesem
 Vertrag zugestimmt wird, in Kraft.
-
 
 ## Schlussformel
 

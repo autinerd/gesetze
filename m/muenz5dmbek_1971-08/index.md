@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1971, 1349
 
-
-
 ## (XXXX)
 
 (1) Auf Grund des Gesetzes über die Ausprägung von Scheidemünzen vom
@@ -64,11 +62,9 @@ Berlin.
 
 (10) Dies wird namens der Bundesregierung bekanntgemacht.
 
-
 ## Schlußformel
 
 Der Bundesminister für Wirtschaft und Finanzen
-
 
 ## (XXXX) Abbildung der Münze
 

@@ -22,7 +22,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Bek. v. 27.5.2008 I 919
 
-
 ## § 1 Zuständigkeiten
 
 (1) Zuständige Lebensmittelprüfstelle zur Durchführung der
@@ -42,7 +41,6 @@ Benehmen mit dem Bundesinstitut für Risikobewertung ist zuständig für
 das Erstellen der Stellungnahmen über die Frage der wesentlichen
 Gleichwertigkeit von Erzeugnissen im Sinne des Artikels 3 Abs. 4 der
 Verordnung (EG) Nr. 258/97.
-
 
 ## § 2 Verfahren
 
@@ -70,7 +68,6 @@ des in Artikel 6 Abs. 4 der Verordnung (EG) Nr. 258/97 festgelegten
 Verfahrens die für die Lebensmittelüberwachung zuständigen obersten
 Landesbehörden über das Ergebnis.
 
-
 ## § 3 Inverkehrbringen und Kennzeichnung
 
 (1) Lebensmittel und Lebensmittelzutaten im Sinne des Artikels 1 Abs.
@@ -97,21 +94,17 @@ werden, wenn diese gemäß Artikel 8 Abs. 1 der Verordnung (EG) Nr.
 (4) Die Vorschriften der Lebensmittel-Kennzeichnungsverordnung bleiben
 unberührt.
 
-
 ## § 3a
 
 (weggefallen)
-
 
 ## § 4
 
 (weggefallen)
 
-
 ## (XXXX) §§ 4 bis 6 (weggefallen)
 
 -
-
 
 ## § 7 Straftaten
 
@@ -130,7 +123,6 @@ ein Lebensmittel oder eine Lebensmittelzutat in den Verkehr bringt.
 (2) Nach § 59 Abs. 1 Nr. 21 Buchstabe a des Lebensmittel- und
 Futtermittelgesetzbuches wird bestraft, wer entgegen § 3 Abs. 3 ein
 Lebensmittel oder eine Lebensmittelzutat in den Verkehr bringt.
-
 
 ## § 8 Ordnungswidrigkeiten
 

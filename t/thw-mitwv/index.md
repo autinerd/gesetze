@@ -18,14 +18,11 @@ Fundstelle
 Geändert durch
 :   Art. 2 Nr. 4 G v. 29.7.2009 I 2350
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 2 Abs. 4 und des § 4 Abs. 3 Satz 1 des THW-
 Helferrechtsgesetzes vom 22. Januar 1990 (BGBl. I S. 118) verordnet
 das Bundesministerium des Innern:
-
 
 ## § 1 Helfer und Helferinnen
 
@@ -47,20 +44,17 @@ der Erfüllung seiner Aufgaben als
 
 mitwirken.
 
-
 ## § 2 Aktive Helfer und aktive Helferinnen
 
 Aktiver Helfer oder aktive Helferin kann werden, wer das 17.
 Lebensjahr vollendet hat und zum uneingeschränkten Dienst im
 Technischen Hilfswerk bereit ist.
 
-
 ## § 3 Reservehelfer und Reservehelferinnen
 
 Reservehelfer oder Reservehelferin kann werden, wer als aktiver Helfer
 oder als aktive Helferin mitgewirkt hat und sich weiterhin für
 Einsätze zur Verfügung stellt.
-
 
 ## § 4 Althelfer und Althelferinnen
 
@@ -70,13 +64,11 @@ verbunden bleiben möchte. Althelferin kann werden, wer als aktive
 Helferin oder Reservehelferin mitgewirkt hat und dem Technischen
 Hilfswerk kameradschaftlich verbunden bleiben möchte.
 
-
 ## § 5 Junghelfer und Junghelferinnen
 
 Junghelfer oder Junghelferin kann werden, wer das zehnte, aber noch
 nicht das 18. Lebensjahr vollendet hat und an einer späteren Übernahme
 als aktiver Helfer oder aktive Helferin interessiert ist.
-
 
 ## § 6 Begründung des Dienstverhältnisses
 
@@ -88,14 +80,12 @@ Dienstverhältnis. Die Nichtannahme bedarf keiner Begründung. Die
 Annahme erfolgt nicht, wenn Tatsachen vorliegen, die nach § 10 Abs. 1
 oder 4 zur Beendigung des Dienstverhältnisses führen würden.
 
-
 ## § 7 Probezeit
 
 Bei aktiven Helfern und aktiven Helferinnen gelten die ersten sechs
 Monate als Probezeit. Das Technische Hilfswerk kann die Probezeit aus
 wichtigem Grund verlängern oder verkürzen; dies ist den Betroffenen
 schriftlich mitzuteilen.
-
 
 ## § 8 Inhalt des Dienstverhältnisses
 
@@ -124,7 +114,6 @@ Verwendung als aktive Helfer oder aktive Helferinnen vorbereiten
 sollen. Sie werden nicht zur unmittelbaren Hilfeleistung bei Einsätzen
 herangezogen.
 
-
 ## § 9 Verstoß gegen Dienstpflichten
 
 Wer als Helfer oder Helferin schuldhaft gegen Dienstpflichten
@@ -134,7 +123,6 @@ besonderen Funktionen ist auch ohne Verschulden möglich, wenn das mit
 der besonderen Funktion verbundene Vertrauensverhältnis gestört ist
 oder wenn dem Helfer oder der Helferin in sonstiger Weise die
 notwendige Eignung fehlt.
-
 
 ## § 10 Beendigung des Dienstverhältnisses
 
@@ -191,7 +179,6 @@ Dienstverhältnis mit der Übernahme in das neue Dienstverhältnis.
 Beendigung des Dienstverhältnisses eingelegt, ruht es bis zum
 Abschluss des Rechtsbehelfsverfahrens, im Falle eines
 Verwaltungsrechtsstreits bis zu dessen rechtskräftigem Abschluss.
-
 
 ## § 11 Ausschüsse
 
@@ -278,15 +265,10 @@ Bundesausschuss besteht aus
 8.  den Leitern und Leiterinnen der Ausbildungsstätten der Bundesschule
     des Technischen Hilfswerks.
 
-
-
-
-
 ## § 12 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am ersten Tag des auf die Verkündung folgenden
 Kalendermonats in Kraft.
-
 
 ## Schlussformel
 

@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1999, 1597
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
@@ -29,18 +27,15 @@ und dem Organisationserlaß vom 27. Oktober 1998 (BGBl. I S. 3288)
 verordnet das Bundesministerium für Wirtschaft und Technologie im
 Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Verfahrensmechaniker für
 Beschichtungstechnik/Verfahrensmechanikerin für Beschichtungstechnik
 wird staatlich anerkannt.
 
-
 ## § 2 Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Ausbildungsberufsbild
 
@@ -116,10 +111,6 @@ Fertigkeiten und Kenntnisse:
 
 22. Verfahren der Umwelttechnik.
 
-
-
-
-
 ## § 4 Ausbildungsrahmenplan
 
 (1) Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der
@@ -137,12 +128,10 @@ Planen, Durchführen und Kontrollieren an seinem Arbeitsplatz
 einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 7
 und 8 nachzuweisen.
 
-
 ## § 5 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 6 Berichtsheft
 
@@ -150,7 +139,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 7 Zwischenprüfung
 
@@ -180,7 +168,6 @@ daß er fachbezogene Probleme und deren Lösungen darstellen, die für
 die Arbeitsaufgabe relevanten fachlichen Hintergründe aufzeigen sowie
 die Vorgehensweise bei der Ausführung der Arbeitsaufgabe begründen
 kann.
-
 
 ## § 8 Abschlußprüfung
 
@@ -312,13 +299,11 @@ Dokumentation insgesamt, in dem Fachgespräch oder in einem der drei
 Prüfungsbereiche mit ungenügend bewertet, so ist die Prüfung nicht
 bestanden.
 
-
 ## § 9 Nichtanwenden von Vorschriften
 
 Die bisher festgelegten Berufsbilder, Berufsbildungspläne und
 Prüfungsanforderungen für den Ausbildungsberuf Lackierer - Holz und
 Metall/Lackiererin - Holz und Metall sind nicht mehr anzuwenden.
-
 
 ## § 10 Übergangsregelung
 
@@ -330,11 +315,9 @@ Berufsausbildungsverhältnisse, die bis zum 31. Dezember 1999 beginnen,
 können die Vertragsparteien die Anwendung der bisherigen Vorschriften
 vereinbaren.
 
-
 ## § 11 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 1999 in Kraft.
-
 
 ## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Verfahrensmechaniker für Beschichtungstechnik/zur Verfahrensmechanikerin für Beschichtungstechnik
 

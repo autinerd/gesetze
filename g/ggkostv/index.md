@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 V v. 17.12.2004 I 3711
 
-
 ## Eingangsformel
 
 Auf Grund
@@ -49,7 +48,6 @@ Bekanntmachung vom 21. Januar 1987 (BGBl. I S. 541) verordnet der
 Bundesminister für Verkehr im Einvernehmen mit dem Bundesminister der
 Finanzen:
 
-
 ## Art 1 Gebührenpflichtige Tatbestände, Gebührensätze
 
 Für Amtshandlungen einschließlich der Prüfungen und Untersuchungen im
@@ -59,22 +57,18 @@ gebührenpflichtigen Tatbestände und die Gebührensätze ergeben sich aus
 dem anliegenden Gebührenverzeichnis, das Bestandteil dieser Verordnung
 ist.
 
-
 ## Art 2
 
 -
-
 
 ## Art 3 Inkrafttreten
 
 Diese Verordnung tritt am Ersten des auf die Verkündung folgenden
 übernächsten Monats in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage (zu Artikel 1) Gebührenverzeichnis
 

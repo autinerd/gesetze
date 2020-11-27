@@ -28,19 +28,16 @@ Fundstelle
     zuletzt durch die Richtlinie 2006/96/EG (ABl. L 363 vom 20.12.2006, S.
     81) geändert worden ist, sind beachtet worden.
 
-
 ## Eingangsformel
 
 Auf Grund des § 20 Nummer 1 und 2 des Batteriegesetzes vom 25. Juni
 2009 (BGBl. I S. 1582) verordnet das Bundesministerium für Umwelt,
 Naturschutz und Reaktorsicherheit:
 
-
 ## § 1 Begriffsbestimmungen
 
 Für diese Verordnung gelten die in § 2 des Batteriegesetzes geregelten
 Begriffsbestimmungen.
-
 
 ## § 2 Anzeige der Marktteilnahme
 
@@ -134,10 +131,6 @@ Batteriegesetzes sind bestimmt:
 
 6.  die Angaben nach Absatz 3.
 
-
-
-
-
 ## § 3 Behandlung und Verwertung
 
 (1) Die Behandlung nach § 14 Absatz 1 Satz 1 des Batteriegesetzes muss
@@ -167,10 +160,6 @@ erreicht werden:
 
 3.  stoffliche Verwertung von 50 Prozent der durchschnittlichen Masse
     sonstiger Altbatterien.
-
-
-
-
 
 ## § 4 Inkrafttreten
 

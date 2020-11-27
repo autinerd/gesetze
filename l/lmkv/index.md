@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 V v. 21.5.2012 I 1201
 
-
 ## Erster Abschnitt - Allgemeine Vorschriften
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -64,13 +61,11 @@ im Sinne der Konsummilch-Kennzeichnungsverordnung gilt diese
 Verordnung nur, soweit Vorschriften der genannten Verordnungen sie für
 anwendbar erklären.
 
-
 ### § 2 Unberührtheitsklausel
 
 Rechtsvorschriften, die für bestimmte Lebensmittel in Fertigpackungen
 eine von den Vorschriften dieser Verordnung abweichende oder
 zusätzliche Kennzeichnung vorschreiben, bleiben unberührt.
-
 
 ### § 3 Kennzeichnungselemente
 
@@ -228,7 +223,6 @@ Absatz 1 Nr. 1 und 4 nicht im gleichen Sichtfenster angebracht sein.
 (6) Abweichend von Absatz 3 können die Angaben nach Absatz 1 bei
 Brötchen auf einem Schild auf oder neben der Ware angebracht werden.
 
-
 ### § 4 Verkehrsbezeichnung
 
 (1) Die Verkehrsbezeichnung eines Lebensmittels ist die in
@@ -270,7 +264,6 @@ Verkehrsbezeichnung nicht ersetzen.
 wenn das Lebensmittel gefroren oder tiefgefroren war und die
 Unterlassung einer solchen Angabe geeignet wäre, beim Verbraucher
 einen Irrtum herbeizuführen.
-
 
 ### § 5 Begriffsbestimmung der Zutaten
 
@@ -329,7 +322,6 @@ Zutaten des Lebensmittels.
 hergestellt worden sind und unverändert oder verändert im Enderzeugnis
 vorhanden sind, es sei denn, die Verkehrsbezeichnung des Lebensmittels
 lässt auf das Vorhandensein des jeweiligen Stoffes schließen.
-
 
 ### § 6 Verzeichnis der Zutaten
 
@@ -521,7 +513,6 @@ Vorhandensein der jeweiligen Zutat schließen. Im Fall des Satzes 1 Nr.
 voranzustellen; dies gilt nicht, sofern die Zutaten der Anlage 3 in
 einem Verzeichnis der Zutaten angegeben sind.
 
-
 ### § 7 Mindesthaltbarkeitsdatum
 
 (1) Das Mindesthaltbarkeitsdatum eines Lebensmittels ist das Datum,
@@ -603,10 +594,6 @@ bei
 10. weinähnlichen und schaumweinähnlichen Getränken und hieraus
     weiterverarbeiteten alkoholhaltigen Getränken.
 
-
-
-
-
 ### § 7a Verbrauchsdatum
 
 (1) Bei in mikrobiologischer Hinsicht sehr leicht verderblichen
@@ -633,7 +620,6 @@ und gegebenenfalls Jahr in dieser Reihenfolge.
 (4) Lebensmittel nach Absatz 1 dürfen nach Ablauf des Verbrauchsdatums
 nicht mehr in den Verkehr gebracht werden.
 
-
 ### § 7b Vorhandener Alkoholgehalt
 
 (1) Der Angabe des vorhandenen Alkoholgehaltes ist der bei 20
@@ -648,7 +634,6 @@ Abkürzung "alc." vorangestellt werden.
 aufgeführten Abweichungen zulässig. Die Abweichungen gelten
 unbeschadet der Toleranzen, die sich aus der für die Bestimmung des
 Alkoholgehalts verwendeten Analysemethode ergeben.
-
 
 ### § 8 Mengenkennzeichnung von Zutaten
 
@@ -774,10 +759,7 @@ erforderlich bei Getränken auf der Basis von Kaffee, Tee oder Kaffee-
 oder Tee-Extrakt, deren Verkehrsbezeichnung die Wortbestandteile
 "Kaffee" oder "Tee" enthält.
 
-
 ## Zweiter Abschnitt - Spezielle Vorschriften für bestimmte Lebensmittel
-
-
 
 ### § 9 Bestimmte Lebensmittel mit bestimmten geographischen Angaben
 
@@ -815,17 +797,13 @@ Bundesministerium macht die ihm von den Bundesländern mitgeteilten
 Erzeugnisse, die diesen Anforderungen entsprechen, im Bundesanzeiger
 bekannt.
 
-
 ### § 9a Kennzeichnung bestimmter Lebensmittel, die Glycyrrhizinsäure oder deren Ammoniumsalz enthalten
 
 Süßwaren und Getränke, die Glycyrrhizinsäure oder ihr Ammoniumsalz
 durch Zusatz der Stoffe selbst oder der Süßholzpflanze Glycyrrhiza
 glabra enthalten, sind nach Maßgabe der Anlage 5 zu kennzeichnen.
 
-
 ## Dritter Abschnitt - Straftaten und Ordnungswidrigkeiten
-
-
 
 ### § 10
 
@@ -846,10 +824,7 @@ Lebensmittel in Fertigpackungen gewerbsmäßig in den Verkehr bringt,
 die nicht oder nicht in der vorgeschriebenen Weise mit den dort
 vorgeschriebenen Angaben gekennzeichnet sind.
 
-
 ## Vierter Abschnitt
-
-
 
 ### § 10a Übergangsregelungen
 
@@ -915,7 +890,6 @@ zum Aufbrauchen der Bestände in den Verkehr gebracht werden.
 (13) Lebensmittel, die bis zum 11. Juni 2010 nach den bis dahin
 geltenden Vorschriften gekennzeichnet worden sind, dürfen weiter in
 den Verkehr gebracht werden.
-
 
 ### Anlage 1 (zu § 6 Abs. 4 Nr. 1) Zutaten, die mit dem Namen ihrer Klasse angegeben werden können, wenn sie Zutat eines anderen Lebensmittels sind
 
@@ -1116,10 +1090,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     zwischen Kollagengehalt und Fleischeiweißgehalt. Als Kollagengehalt
     gilt der mit dem Faktor 8 vervielfältigte Gehalt der Hydroxyprolin.
 
-
-
-
-
 ### Anlage 2 (zu § 6 Abs. 4 Nr. 2) Klassen von Zutaten, bei denen die aufgeführten Bezeichnungen verwendet werden müssen
 
 Fundstelle des Originaltextes: BGBl. I 1999, 2472
@@ -1189,10 +1159,6 @@ Fundstelle des Originaltextes: BGBl. I 1999, 2472
 
 
 *    *   Treibgas
-
-
-
-
 
 ### Anlage 3 (zu § 3 Abs. 1 Nr. 3, § 5 Abs. 3 und § 6 Abs. 2, 5a und 6) Zutaten, die allergische oder andere Unverträglichkeitsreaktionen auslösen können
 
@@ -1372,10 +1338,6 @@ Fundstelle des Originaltextes: BGBl. I 1999, 2473
 *    *   Sonstige Getränke
 
     *   0,3
-
-
-
-
 
 ### Anlage 5 (zu § 9a) Kennzeichnung bestimmter Lebensmittel, die Glycyrrhizinsäure oder deren Ammoniumsalz enthalten
 

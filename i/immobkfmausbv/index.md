@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 398
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des
@@ -26,17 +24,14 @@ des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S.
 3197) verordnet das Bundesministerium für Wirtschaft und Technologie
 im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Immobilienkaufmann/Immobilienkauffrau wird
 staatlich anerkannt.
 
-
 ## § 2 Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Zielsetzung und Struktur der Berufsausbildung
 
@@ -55,10 +50,6 @@ nachzuweisen.
 
 2.  zwei im Ausbildungsvertrag festzulegende Wahlqualifikationseinheiten
     gemäß § 4 Abs. 1 Nr. 8.
-
-
-
-
 
 ## § 4 Ausbildungsberufsbild
 
@@ -168,10 +159,6 @@ Wahlqualifikationseinheiten:
 
 5.  Wohnungseigentumsverwaltung.
 
-
-
-
-
 ## § 5 Ausbildungsrahmenplan
 
 Die Fertigkeiten, Kenntnisse und Fähigkeiten nach § 4 sollen nach den
@@ -182,12 +169,10 @@ sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist
 insbesondere zulässig, soweit betriebspraktische Besonderheiten die
 Abweichung erfordern.
 
-
 ## § 6 Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans
 für die Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 7 Schriftlicher Ausbildungsnachweis
 
@@ -196,7 +181,6 @@ führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
 Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
 Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
 durchzusehen.
-
 
 ## § 8 Zwischenprüfung
 
@@ -221,10 +205,6 @@ Prüfungsgebieten durchzuführen:
 
 
 3.  Wirtschafts- und Sozialkunde.
-
-
-
-
 
 ## § 9 Abschlussprüfung
 
@@ -356,7 +336,6 @@ ausreichende Prüfungsleistungen erbracht werden. Werden die
 Prüfungsleistungen in einem Prüfungsbereich mit "ungenügend" bewertet,
 so ist die Prüfung nicht bestanden.
 
-
 ## § 10 Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
@@ -364,11 +343,9 @@ bestehen, können unter Anrechnung der bisher zurückgelegten
 Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt
 werden, wenn die Vertragsparteien dies vereinbaren.
 
-
 ## § 11 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2006 in Kraft.
-
 
 ## Anlage 1 (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Immobilienkaufmann/ zur Immobilienkauffrau - Sachliche Gliederung -
 
@@ -1170,13 +1147,6 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
 
         f)  rechtliche Regelungen zum Wohnungseigentum anwenden, das gerichtliche
             Verfahren in Wohnungseigentumsangelegenheiten erläutern
-
-
-
-
-
-
-
 
 ## Anlage 2 (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Immobilienkaufmann/ zur Immobilienkauffrau - Zeitliche Gliederung -
 

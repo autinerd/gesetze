@@ -21,7 +21,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 3 Abs. 38 V v. 12.2.2009 I 320
 
-
 ## § 1 Anwendungsbereich
 
 (1) Berechtigte nach dieser Verordnung sind
@@ -119,7 +118,6 @@ Zuletzt geändert durch
 im Bereich ausländischer Lokalgrenzbehörden, zwischen solchen
 Bereichen und zwischen diesen und dem Inland.
 
-
 ## § 2 Trennungsgeld nach Zusage der Umzugskostenvergütung
 
 (1) Ist Umzugskostenvergütung zugesagt, steht Trennungsgeld zu,
@@ -210,7 +208,6 @@ Rechtsbehelfsverfahrens aufgehoben, wird dadurch ein
 Trennungsgeldanspruch nicht begründet; ein erloschener
 Trennungsgeldanspruch lebt nicht wieder auf.
 
-
 ## § 3 Trennungsgeld beim auswärtigen Verbleiben
 
 (1) Ein Berechtigter, der nicht täglich zum Wohnort zurückkehrt und
@@ -289,7 +286,6 @@ zwischen dieser außerhalb des Dienstortes bereitgestellten Unterkunft
 und der Dienststätte werden in entsprechender Anwendung des § 5 Abs. 4
 erstattet.
 
-
 ## § 4 Sonderbestimmungen beim auswärtigen Verbleiben
 
 (1) Das Tagegeld des Trennungsreisegeldes und das Trennungstagegeld
@@ -356,7 +352,6 @@ notwendigen Auslagen für diese Unterkunft längstens bis zu dem
 Zeitpunkt erstattet, zu dem das Mietverhältnis frühestens gelöst
 werden kann.
 
-
 ## § 5 Reisebeihilfe für Heimfahrten
 
 (1) Ein Berechtigter nach § 3 erhält eine Reisebeihilfe für jeden
@@ -390,16 +385,13 @@ die notwendigen Zuschläge wie bei Dienstreisen erstattet. Nach näherer
 Bestimmung des Bundesministeriums des Innern können in besonderen
 Fällen Flugkosten erstattet werden.
 
-
 ## § 5a
 
 (weggefallen)
 
-
 ## § 5b
 
 (weggefallen)
-
 
 ## § 6 Trennungsgeld bei täglicher Rückkehr zum Wohnort
 
@@ -434,7 +426,6 @@ höchstens der Betrag nach § 7 Abs. 1 Satz 1 des
 Bundesreisekostengesetzes und ab dem 15. Tag als
 Trennungsübernachtungsgeld ein Drittel dieses Betrages berücksichtigt.
 
-
 ## § 7 Sonderfälle
 
 (1) Anspruch auf Trennungsgeld besteht weiter, wenn sich aus Anlaß
@@ -453,7 +444,6 @@ Dienstort bleibt.
 (4) Trennungsgeld steht nur zu, solange Anspruch auf Besoldung
 besteht.
 
-
 ## § 8 Ende des Trennungsgeldanspruchs
 
 (1) Das Trennungsgeld wird bis zum Tag des Wegfalls der maßgebenden
@@ -469,7 +459,6 @@ Ausladens des Umzugsgutes.
 Trennungsgeld bis zu dem Tag gewährt, an dem der Dienstort verlassen
 wird, bei Gewährung von Reisekostenvergütung für diesen Tag bis zum
 vorausgehenden Tag.
-
 
 ## § 9 Verfahrensvorschriften
 
@@ -488,16 +477,13 @@ Bemühen um eine Wohnung (§ 2 Abs. 1) zu belegen.
 (3) Die oberste Dienstbehörde bestimmt die Behörde, die das
 Trennungsgeld gewährt.
 
-
 ## § 10
 
 (weggefallen)
 
-
 ## (XXXX) §§ 11 bis 14 (weggefallen)
 
 (Änderung anderer Vorschriften)
-
 
 ## § 15
 

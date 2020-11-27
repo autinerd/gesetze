@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 1405
 
-
 ## Eingangsformel
 
 Nach
@@ -74,7 +73,6 @@ in Verbindung mit
 
 
 ordnet der Vorstand der Bundesagentur für Arbeit an:
-
 
 ## I. Übertragung von Befugnissen für Beamtinnen und Beamte der Bundesagentur für Arbeit
 
@@ -344,17 +342,12 @@ ordnet der Vorstand der Bundesagentur für Arbeit an:
     Die Übertragung dieser Befugnisse gilt auch für die jeweilige
     Abwesenheitsvertretung.
 
-
-
-
-
 ## II. Vorbehalt
 
 Die Zentrale kann die übertragenen Befugnisse in begründeten
 Einzelfällen selbst wahrnehmen. Der Vorbehalt gilt entsprechend im
 Verhältnis der Regionaldirektionen zu den nachgeordneten
 Dienststellen.
-
 
 ## III. Schlussvorschriften
 

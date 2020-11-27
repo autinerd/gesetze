@@ -15,11 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1951, 774
 
-
-
 ## Art I - Finanzverwaltung
-
-
 
 ### § 1
 
@@ -50,15 +46,11 @@ Ländern getragen.
 Vermögens der ehemaligen Reichsfinanzverwaltung ergeben, bleibt einem
 besonderen Gesetz vorbehalten.
 
-
 ### § 2
 
 -
 
-
 ## Art II - Sonstige ehemalige Reichs- und Zonenverwaltungen
-
-
 
 ### § 3
 
@@ -66,7 +58,6 @@ Die Ausgaben (einschließlich der Versorgungsausgaben) der Verwaltungen
 und Einrichtungen, die nach Artikel 130 des Grundgesetzes in die
 Verwaltung des Bundes übergeführt worden sind oder noch übergeführt
 werden, gehen mit dem Inkrafttreten der Überführung auf den Bund über.
-
 
 ### § 4
 
@@ -84,7 +75,6 @@ unvollständig, so kann die Bundesregierung das Verzeichnis nach den
 Grundsätzen dieses Gesetzes durch eine mit Zustimmung des Bundesrates
 zu erlassende Rechtsverordnung ergänzen.
 
-
 ### § 5
 
 (1) Die Wartestandsbeamten der in der Anlage bezeichneten
@@ -99,10 +89,7 @@ oberste Dienstbehörde.
 Wartestandsbeamten zu sorgen
 (§ 36a Abs. 1 der Reichshaushaltsordnung).
 
-
 ## Art III - Gemeinsame Bestimmungen zu den Art I und II
-
-
 
 ### § 6
 
@@ -116,7 +103,6 @@ entsprechen. Ist eine solche Stelle nicht vorhanden, so regeln der
 Bundesminister des Innern und der Bundesminister der Finanzen die
 Zuständigkeit, ebenso, wenn keine Stelle sich für zuständig erachtet.
 
-
 ### § 7
 
 Soweit die Ausgaben der in den Artikeln I und II bezeichneten
@@ -125,11 +111,9 @@ Bund auch die Haftpflichtverbindlichkeiten, die durch Angehörige oder
 im Betrieb dieser Verwaltungen und Einrichtungen verursacht worden
 sind. Insoweit gehen auch die Ersatzansprüche auf den Bund über.
 
-
 ### § 8
 
 -
-
 
 ### § 9
 
@@ -144,13 +128,11 @@ und des § 2 Ziff. 7              des Ersten Gesetzes zur Überleitung
 von Lasten und Deckungsmitteln auf den Bund vom 28. November 1950
 (Bundesgesetzbl. S. 773) bleiben unberührt.
 
-
 ### § 10
 
 Die Bundesregierung wird ermächtigt, die Versorgungsausgaben im Sinne
 der Artikel I und II durch eine mit Zustimmung des Bundesrates zu
 erlassende Rechtsverordnung näher zu bestimmen.
-
 
 ### § 11
 
@@ -167,21 +149,16 @@ Soforthilfegesetzes vom 8. August 1949 (WiGBl. S. 205) und die
 entsprechende Vorschrift in den Soforthilfegesetzen der französischen
 Zone bleiben unberührt.
 
-
 ### § 12
 
 Die Bestimmungen der §§ 18, 20 und 22 des Ersten Überleitungsgesetzes
 sind entsprechend anzuwenden.
 
-
 ## Art IV - Änderungen und Ergänzungen des Ersten Überleitungsgesetzes
-
-
 
 ### § 13
 
 -
-
 
 ### § 14
 
@@ -189,10 +166,7 @@ Der Bundesminister der Finanzen wird ermächtigt, das Erste Gesetz zur
 Überleitung von Lasten und Deckungsmitteln auf den Bund in der ab 1.
 April 1951 geltenden Fassung bekanntzumachen.
 
-
 ## Art V - Übergangs- und Schlußbestimmungen
-
-
 
 ### § 15
 
@@ -200,12 +174,10 @@ Dieses Gesetz und die noch zu erlassenden Rechtsverordnungen gelten
 auch für das Land Berlin, sobald es gemäß Artikel 87 Abs. 2 seiner
 Verfassung die Anwendung dieses Gesetzes beschlossen hat.
 
-
 ### § 16
 
 Dieses Gesetz tritt mit Wirkung vom 1. April 1950 in Kraft, soweit
 sich nicht aus seinen Bestimmungen etwas anderes ergibt.
-
 
 ### Anlage
 

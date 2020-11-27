@@ -18,8 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 14.2.2011 I 263
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 der
@@ -32,7 +30,6 @@ zuletzt durch Artikel 184 Nr. 1 der Verordnung vom 25. November 2003
 (BGBl. I S. 2304) geändert worden ist, verordnet das Bundesministerium
 für Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium
 für Bildung und Forschung:
-
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
@@ -48,7 +45,6 @@ Der Ausbildungsberuf Sattler/Sattlerin wird
 
 
 staatlich anerkannt.
-
 
 ## § 2 Ausbildungsdauer
 
@@ -66,7 +62,6 @@ Die Ausbildung dauert drei Jahre. Es kann zwischen den Fachrichtungen
 
 gewählt werden.
 
-
 ## § 3 Zielsetzung der Berufsausbildung
 
 Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen
@@ -77,7 +72,6 @@ werden, die insbesondere selbstständiges Planen, Durchführen und
 Kontrollieren sowie das Handeln im betrieblichen Gesamtzusammenhang
 einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 8
 bis 11 nachzuweisen.
-
 
 ## § 4 Ausbildungsberufsbild
 
@@ -171,13 +165,6 @@ mindestens die folgenden Fertigkeiten und Kenntnisse:
 
     c)  Herstellen und Reparieren von Lederwaren.
 
-
-
-
-
-
-
-
 ## § 5 Ausbildungsrahmenplan
 
 Die in § 4 genannten Fertigkeiten und Kenntnisse sollen nach der in
@@ -188,13 +175,11 @@ zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
 zulässig, soweit betriebspraktische Besonderheiten die Abweichung
 erfordern.
 
-
 ## § 6 Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des
 Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan
 zu erstellen.
-
 
 ## § 7 Berichtsheft
 
@@ -202,7 +187,6 @@ Die Auszubildenden haben ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden
 haben das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 8 Zwischenprüfung
 
@@ -227,7 +211,6 @@ er die Arbeitsschritte planen, Arbeitsmittel festlegen, technische
 Unterlagen nutzen sowie Anforderungen der Sicherheit und des
 Gesundheitsschutzes bei der Arbeit, des Umweltschutzes und der
 Wirtschaftlichkeit berücksichtigen kann.
-
 
 ## § 9 Abschlussprüfung/Gesellenprüfung in der Fachrichtung Fahrzeugsattlerei
 
@@ -373,7 +356,6 @@ der Prüfungsbereiche nach Absatz 3 mindestens ausreichende Leistungen,
 in dem weiteren Prüfungsbereich dürfen keine ungenügenden Leistungen
 erbracht werden.
 
-
 ## § 10 Abschlussprüfung/Gesellenprüfung in der Fachrichtung Reitsportsattlerei
 
 (1) Die Abschlussprüfung/Gesellenprüfung erstreckt sich auf die in der
@@ -518,7 +500,6 @@ der Prüfungsbereiche nach Absatz 3 mindestens ausreichende Leistungen,
 in dem weiteren Prüfungsbereich dürfen keine ungenügenden Leistungen
 erbracht werden.
 
-
 ## § 11 Abschlussprüfung/Gesellenprüfung in der Fachrichtung Feintäschnerei
 
 (1) Die Abschlussprüfung/Gesellenprüfung erstreckt sich auf die in der
@@ -661,7 +642,6 @@ Prüfungsbereiche nach Absatz 3 mindestens ausreichende Leistungen, in
 dem weiteren Prüfungsbereich dürfen keine ungenügenden Leistungen
 erbracht werden.
 
-
 ## § 11a Fortsetzung der Berufsausbildung
 
 Nach erfolgreichem Abschluss der Berufsausbildung zur Fachkraft für
@@ -670,14 +650,12 @@ Fachkraft für Lederverarbeitung vom 14. Februar 2011 (BGBl. I S. 255)
 kann die Ausbildungsdauer einer Berufsausbildung zum Sattler oder zur
 Sattlerin um ein Jahr verkürzt werden.
 
-
 ## § 12 Nichtanwendung von Vorschriften
 
 Die bisher festgelegten Berufsbilder, Berufsbildungspläne und
 Prüfungsanforderungen für die Ausbildungsberufe
 Feinsattler/Feinsattlerin, Feintäschner/Feintäschnerin,
 Täschner/Täschnerin sind vorbehaltlich des § 13 nicht mehr anzuwenden.
-
 
 ## § 13 Übergangsregelung
 
@@ -686,7 +664,6 @@ Verordnung bestehen, sind die bisherigen Vorschriften weiter
 anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
 Anwendung der Vorschriften dieser Verordnung.
 
-
 ## § 13a Weitere Übergangsvorschrift
 
 Berufsausbildungsverhältnisse, die bis zum Ablauf des 31. Juli 2011
@@ -694,11 +671,9 @@ begründet wurden, können unter Anrechnung der bisher zurückgelegten
 Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt
 werden, wenn die Vertragsparteien dies vereinbaren.
 
-
 ## § 14 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2005 in Kraft.
-
 
 ## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Sattler/zur Sattlerin
 

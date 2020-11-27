@@ -17,12 +17,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 2012, 526
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -31,7 +29,6 @@ der Bundesrepublik Deutschland und der Republik Türkei zur Vermeidung
 der Doppelbesteuerung und der Steuerverkürzung auf dem Gebiet der
 Steuern vom Einkommen wird zugestimmt. Das Abkommen wird nachstehend
 veröffentlicht.
-
 
 ## Art 2
 
@@ -47,7 +44,6 @@ Besteuerung in der Bundesrepublik Deutschland und der Republik Türkei
 insgesamt eine höhere Belastung ergibt, als sie nach den
 Rechtsvorschriften vor dem Inkrafttreten des Abkommens bestand, wird
 der Steuermehrbetrag nicht festgesetzt.
-
 
 ## Art 3
 

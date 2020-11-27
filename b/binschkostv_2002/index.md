@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   § 38 Abs. 1 V v. 16.12.2011; 2012 I 2 (1717)
 
-
 ## Eingangsformel
 
 Auf Grund des § 4 Abs. 2 Satz 1 des Binnenschifffahrtsaufgabengesetzes
@@ -28,7 +27,6 @@ in Verbindung mit dem 2. Abschnitt des Verwaltungskostengesetzes vom
 23\. Juni 1970 (BGBl. I S. 821) verordnet das Bundesministerium für
 Verkehr, Bau- und Wohnungswesen im Einvernehmen mit dem
 Bundesministerium der Finanzen:
-
 
 ## § 1 Gebühren und Auslagen
 
@@ -64,7 +62,6 @@ bereits nach § 4 des in Absatz 3 Satz 1 genannten Gesetzes
 berücksichtigt werden kann. Er beträgt für die erste angefangene
 Stunde 25 Euro und für jede weitere angefangene halbe Stunde 13 Euro.
 
-
 ## § 2 Gebührenfreiheit, Gebührenermäßigung
 
 (1) Wird ein Antrag ausschließlich wegen Unzuständigkeit einer Behörde
@@ -80,7 +77,6 @@ vorgesehene Gebühr um ein Viertel; sie kann bis auf ein Viertel der
 vorgesehenen Gebühr ermäßigt oder es kann von ihrer Erhebung abgesehen
 werden, wenn dies der Billigkeit entspricht.
 
-
 ## § 3 Zurückbehaltungsrecht an Urkunden
 
 Urkunden, die im Zusammenhang mit kostenpflichtigen Amtshandlungen
@@ -88,12 +84,10 @@ erteilt werden, können bis zur Zahlung der Kosten zurückbehalten oder
 an den Kostenschuldner auf dessen Kosten unter Postnachnahme übersandt
 werden.
 
-
 ## § 4 Doppelte Gebühr
 
 Erfordert die Amtshandlung ein Tätigwerden der Behörde außerhalb der
 Dienstzeit, so kann die doppelte Gebühr erhoben werden.
-
 
 ## § 5 Kostenerhebung von Amts wegen angeordneten Untersuchungen
 
@@ -106,7 +100,6 @@ Bundesrepublik Deutschland ausgestellten Eichscheins werden Kosten nur
 erhoben, wenn sich die Annahme bestätigt, dass die Angaben nicht mehr
 zutreffen.
 
-
 ## § 6 Zuschlag bei Wartezeiten
 
 Entstehen der Schiffsuntersuchungskommission Wartezeiten, weil ein
@@ -116,11 +109,9 @@ Wartestunde und je beteiligtem Angehörigen der
 Schiffsuntersuchungskommission ein Zuschlag von 25 Euro auferlegt
 werden. Dies gilt für die Eichung von Binnenschiffen entsprechend.
 
-
 ## § 7 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2002 in Kraft.
-
 
 ## Anlage (zu § 1 Abs. 2) Gebührenverzeichnis
 

@@ -16,9 +16,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 960
 
-
 ## Abschnitt 1 - Anwendungsbereich und Begriffsbestimmungen
-
 
 ### § 1 Anwendungsbereich
 
@@ -42,7 +40,6 @@ der Bundesrepublik Deutschland. In diesem Fall ist gleichzeitig
 festzulegen, wie die Sicherheit und der Gesundheitsschutz der
 Beschäftigten nach dieser Verordnung auf andere Weise gewährleistet
 werden können.
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -113,9 +110,7 @@ und sonstige in Ausbildungseinrichtungen tätige Personen, die bei
 ihren Tätigkeiten künstlicher optischer Strahlung ausgesetzt sind,
 gleich.
 
-
 ## Abschnitt 2 - Ermittlung und Bewertung der Gefährdungen durch künstliche optische Strahlung; Messungen
-
 
 ### § 3 Gefährdungsbeurteilung
 
@@ -218,7 +213,6 @@ Einsichtnahme ermöglicht. Für Expositionen durch künstliche
 ultraviolette Strahlung sind entsprechende Unterlagen mindestens 30
 Jahre aufzubewahren.
 
-
 ### § 4 Messungen und Berechnungen
 
 (1) Der Arbeitgeber hat sicherzustellen, dass Messungen und
@@ -240,7 +234,6 @@ eventuell erforderliche Berechnungsverfahren
 (2) Die durchzuführenden Messungen können auch eine
 Stichprobenerhebung umfassen, die für die persönliche Exposition der
 Beschäftigten repräsentativ ist.
-
 
 ### § 5 Fachkundige Personen, Laserschutzbeauftragter
 
@@ -269,9 +262,7 @@ Bei der Wahrnehmung seiner Aufgaben arbeitet der
 Laserschutzbeauftragte mit der Fachkraft für Arbeitssicherheit und dem
 Betriebsarzt zusammen.
 
-
 ## Abschnitt 3 - Expositionsgrenzwerte für und Schutzmaßnahmen gegen künstliche optische Strahlung
-
 
 ### § 6 Expositionsgrenzwerte für künstliche optische Strahlung
 
@@ -292,7 +283,6 @@ Arbeitnehmer vor der Gefährdung durch physikalische Einwirkungen
 (künstliche optische Strahlung) (19. Einzelrichtlinie im Sinne des
 Artikels 16 Absatz 1 der Richtlinie 89/391/EWG) (ABl. L 114 vom
 27\.4.2006, S. 38) in der jeweils geltenden Fassung.
-
 
 ### § 7 Maßnahmen zur Vermeidung und Verringerung der Gefährdungen von Beschäftigten durch künstliche optische Strahlung
 
@@ -365,9 +355,7 @@ Grenzwertüberschreitung zu ermitteln. Die Schutzmaßnahmen sind so
 anzupassen, dass ein erneutes Überschreiten der Grenzwerte verhindert
 wird.
 
-
 ## Abschnitt 4 - Unterweisung der Beschäftigten bei Gefährdungen durch künstliche optische Strahlung; Beratung durch den Ausschuss für Betriebssicherheit
-
 
 ### § 8 Unterweisung der Beschäftigten
 
@@ -419,7 +407,6 @@ Absatz 1 erfolgen. Falls erforderlich, hat der Arbeitgeber den Arzt
 nach § 7 Absatz 1 der Verordnung zur arbeitsmedizinischen Vorsorge zu
 beteiligen.
 
-
 ### § 9 Beratung durch den Ausschuss für Betriebssicherheit
 
 Das Bundesministerium für Arbeit und Soziales wird in allen Fragen der
@@ -428,9 +415,7 @@ Strahlung durch den Ausschuss nach § 24 der
 Betriebssicherheitsverordnung beraten. § 24 Absatz 4 und 5 der
 Betriebssicherheitsverordnung gilt entsprechend.
 
-
 ## Abschnitt 5 - Ausnahmen; Straftaten und Ordnungswidrigkeiten
-
 
 ### § 10 Ausnahmen
 
@@ -470,7 +455,6 @@ Der Antrag des Arbeitgebers muss mindestens Angaben enthalten zu
 
 (2) Eine Ausnahme nach Absatz 1 Satz 1 kann auch im Zusammenhang mit
 Verwaltungsverfahren nach anderen Rechtsvorschriften beantragt werden.
-
 
 ### § 11 Straftaten und Ordnungswidrigkeiten
 

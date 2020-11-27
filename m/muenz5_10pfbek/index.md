@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   Öff Anz: 1949, 20
 
-
-
 ## (XXXX)
 
 (1) Auf Grund des § 1 Abs. 1 des Zweiten Gesetzes zur Neuordnung des

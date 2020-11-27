@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 4 Nr. 2 V v. 23.3.2000 I 310
 
-
 ## Eingangsformel
 
 Auf Grund des § 6 Abs. 1 Nr. 3 Buchstabe a in Verbindung mit Abs. 3
@@ -30,7 +29,6 @@ durch § 70 Abs. 1 Nr. 3 des Gesetzes vom 15. März 1974 (BGBl. I S.
 721) und geändert gemäß Artikel 22 Nr. 3 der Verordnung vom 26.
 November 1986 (BGBl. I S. 2089), verordnet das Bundesministerium für
 Verkehr nach Anhörung der zuständigen obersten Landesbehörden:
-
 
 ## § 1
 
@@ -57,10 +55,6 @@ zusätzliche zentrale Bremsleuchte angebaut sein, wenn
 
 4.  nicht bereits zusätzliche paarweise Bremsleuchten nach § 53 Abs. 2
     Satz 10 der Straßenverkehrs-Zulassungs-Ordnung angebracht sind.
-
-
-
-
 
 ## § 2
 

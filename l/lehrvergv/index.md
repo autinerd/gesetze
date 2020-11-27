@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 6 V v. 8.8.2002 I 3177
 
-
 ## Eingangsformel
 
 Auf Grund des § 64 des Bundesbesoldungsgesetzes in der Fassung des
@@ -29,12 +28,10 @@ Personalstruktur im Bundesgrenzschutz vom 3. Juni 1976
 (Bundesgesetzbl. I S. 1357), wird mit Zustimmung des Bundesrates
 verordnet:
 
-
 ## § 1
 
 Anwärtern für ein Lehramt an öffentlichen Schulen kann für selbständig
 erteilten Unterricht eine Unterrichtsvergütung gewährt werden.
-
 
 ## § 2
 
@@ -55,7 +52,6 @@ wird, zählen Hospitationen, Unterricht unter Anleitung und, soweit
 dies gefordert wird, Unterricht in eigener Verantwortung des
 Anwärters.
 
-
 ## § 3
 
 Die Unterrichtsvergütung darf die für das angestrebte Lehramt
@@ -64,11 +60,9 @@ Die oberste Dienstbehörde bestimmt im Einvernehmen mit der für das
 Besoldungsrecht zuständigen obersten Landesbehörde die Höhe der
 Unterrichtsvergütung.
 
-
 ## § 4
 
 (weggefallen)
-
 
 ## § 5
 
@@ -76,11 +70,9 @@ Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit § 82 des
 Bundesbesoldungsgesetzes auch im Land Berlin.
 
-
 ## § 6
 
 (weggefallen)
-
 
 ## Schlußformel
 

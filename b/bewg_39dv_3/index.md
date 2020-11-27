@@ -15,14 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1967, 1199
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 39 Abs. 1 und des § 123 Abs. 1 des Bewertungsgesetzes
 in der Fassung vom 10. Dezember 1965 (Bundesgesetzbl. I S. 1861)
 verordnet die Bundesregierung mit Zustimmung des Bundesrates:
-
 
 ## § 1
 
@@ -43,7 +40,6 @@ Vergleichszahlen festgesetzt. Sie sind für die gärtnerische Nutzung
 zu entnehmen. Die Anlage 1 enthält Vorbemerkungen zu den Anlagen 2, 3
 und 4.
 
-
 ## § 2
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
@@ -51,11 +47,9 @@ Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 des Gesetzes zur Änderung des Bewertungsgesetzes vom 13. August 1965
 (Bundesgesetzbl. I S. 851) auch im Land Berlin.
 
-
 ## § 3
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
-
 
 ## Anlage 1 (zu § 1) Hauptbewertungsstützpunkte der gärtnerischen Nutzung
 
@@ -93,12 +87,6 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
         Ziffern das Land und deren nächste Ziffer die Oberfinanzdirektion
         erkennen lassen. Die Ziffern nach dem Punkt kennzeichnen die laufende
         Nummer innerhalb der Oberfinanzdirektion.
-
-
-
-
-
-
 
 ## Die Ziffern entsprechen:
 
@@ -245,7 +233,6 @@ Beispiel:
 Bei dem Hauptbewertungsstützpunkt B 33.01 handelt es sich um den
 ersten Hauptbewertungsstützpunkt des gärtnerischen Nutzungsteils
 Baumschulen in Nordrhein-Westfalen, Oberfinanzdirektion Köln.
-
 
 ## Anlage 2 (zu § 1 Nr. 1) Nutzungsteil Gemüse-, Blumen- und Zierpflanzenbau
 
@@ -933,10 +920,6 @@ Baumschulen in Nordrhein-Westfalen, Oberfinanzdirektion Köln.
 
     *   Blumen- und Zierpflanzenbau
 
-
-
-
-
 ## Anlage 3 (zu § 1 Nr. 2) Nutzungsteil Obstbau
 
 (Fundstelle: BGBl. I 1967, 1202)
@@ -1156,10 +1139,6 @@ Baumschulen in Nordrhein-Westfalen, Oberfinanzdirektion Köln.
     *   Hamburg-Dammtor
 
     *   51
-
-
-
-
 
 ## Anlage 4 (zu § 1 Nr. 3) Nutzungsteil Baumschulen
 

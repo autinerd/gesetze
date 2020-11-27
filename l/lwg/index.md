@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 G v. 13.12.2007 I 2936
 
-
 ## § 1
 
 Um der Landwirtschaft die Teilnahme an der fortschreitenden
@@ -32,7 +31,6 @@ Wirtschaftsbereichen auszugleichen und ihre Produktivität zu steigern.
 Damit soll gleichzeitig die soziale Lage der in der Landwirtschaft
 tätigen Menschen an die vergleichbarer Berufsgruppen angeglichen
 werden.
-
 
 ## § 2
 
@@ -49,7 +47,6 @@ Gruppen sind außerdem laufend alle hierzu geeigneten Unterlagen der
 volkswirtschaftlichen Statistik - insbesondere Index-Vergleiche - und
 der landwirtschaftlichen Betriebswirtschaft heranzuziehen.
 
-
 ## § 3
 
 Zur Beratung bei der Anlage, Durchführung und Auswertung der
@@ -58,7 +55,6 @@ ihm zu berufenden Beirats, der sich im wesentlichen aus
 Sachverständigen der landwirtschaftlichen Betriebswirtschaft
 einschließlich einer angemessenen Anzahl praktischer Landwirte
 zusammensetzt.
-
 
 ## § 4
 
@@ -85,7 +81,6 @@ durchschnittlichen Produktionsbedingungen auszugehen, die bei
 ordnungsmäßiger Führung die wirtschaftliche Existenz einer bäuerlichen
 Familie nachhaltig gewährleisten.
 
-
 ## § 5
 
 Mit ihrem Bericht äußert sich die Bundesregierung, welche Maßnahmen
@@ -95,14 +90,12 @@ Aufwandsposten gemäß § 4 - getroffen hat oder zu treffen beabsichtigt;
 hierbei ist auf eine Betriebsführung abzustellen, die auf eine
 nachhaltige Ertragssteigerung gerichtet ist.
 
-
 ## § 6
 
 Soweit zur Durchführung der nach § 5 beabsichtigten Maßnahmen
 Bundesmittel erforderlich sind, stellt die Bundesregierung die hierzu
 notwendigen Beträge vorsorglich in den Entwurf des
 Bundeshaushaltsplans für das jeweilige Rechnungsjahr ein.
-
 
 ## § 7
 
@@ -131,11 +124,9 @@ zugrunde zu legen.
 erfolgen, dürfen keine Einzelangaben über bestimmte Betriebe
 enthalten.
 
-
 ## § 8 (weggefallen)
 
 -
-
 
 ## § 9
 

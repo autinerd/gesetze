@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Abschn. I AnO v. 11.12.1969 BAnz. 1969, Nr. 237
 
-
 ## I.
 
 Auf Grund des § 1 Abs. 3 des Gesetzes über die Errichtung des
@@ -40,22 +39,16 @@ Auswärtigen Amt die Bearbeitung folgender Verwaltungsaufgaben:
     Landesbehörden oder durch Industrie- und Handelskammern vorgenommen
     worden sind.
 
-
-
-
-
 ## II.
 
 Das Bundesverwaltungsamt untersteht in den übertragenen
 Angelegenheiten gemäß § 8 des Gesetzes über die Errichtung des
 Bundesverwaltungsamtes den fachlichen Weisungen des Auswärtigen Amtes.
 
-
 ## III.
 
 Diese Anordnung ergeht im Einvernehmen mit dem Bundesminister des
 Innern und tritt am 1. Juni 1969 in Kraft.
-
 
 ## Schlußformel
 

@@ -19,32 +19,20 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 124 V v. 29.10.2001 I 2785
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art 1
-
-
 
 ## Art 2
 
-
-
 ## Art 3 bis 6
-
-
 
 ## Art 7
 
-
-
 ## Art 8 - Handelrechtliche, steuerrechtliche und andere Vorschriften im Zusammenhang mit der Gründung einer Gesamtgesellschaft für das Steinkohlenbergbaugebiet Ruhr
-
-
 
 ## § 1 Vergütung für Sachübernahmen
 
@@ -76,7 +64,6 @@ Verwirklichung der Ziele des § 1 des Gesetzes zur Anpassung und
 Gesundung des deutschen Steinkohlenbergbaus und der deutschen
 Steinkohlenbergbaugebiete vom 15. Mai 1968 (Bundesgesetzbl. I S. 365)
 - Kohlegesetz - brauchen nicht berücksichtigt zu werden.
-
 
 ## § 2 Sonderposten zum Ausgleich von Stillegungsabschreibungen
 
@@ -119,7 +106,6 @@ Verpflichtungen aus Vergütungsverbindlichkeiten in der Höhe außer
 Betracht, in der ein Sonderposten nach den Absätzen 1 und 2
 eingestellt werden darf.
 
-
 ## § 3 Verlustausgleichsrücklage
 
 (1) Die Ruhrkohle Aktiengesellschaft hat auf die Dauer von zwanzig
@@ -132,7 +118,6 @@ gesondert auszuweisende Verlustausgleichsrücklage einzustellen.
 genannten Zeitraums nur zu den in § 150 Abs. 3 des Aktiengesetzes
 bezeichneten Zwecken und dazu verwandt werden, den Sonderposten zum
 Ausgleich von Stillegungsabschreibungen ganz oder teilweise zu tilgen.
-
 
 ## § 4 Steuerliche Vorschriften
 
@@ -190,7 +175,6 @@ Aktiengesellschaft unmittelbar oder mittelbar auf diese übertragen
 werden, im Sinne der §§ 11 und 12 des Kohlegesetzes umgewandelt oder
 verschmolzen, so tritt in § 11 Abs. 5 Nr. 1 des Kohlegesetzes an die
 Stelle des 1. Januar 1970 der 1. Januar 1972.
-
 
 ## § 5 Gebührenbefreiung
 
@@ -266,7 +250,6 @@ Deutsche Mark.
 die Dauer von zehn Jahres seit Eintragung der Ruhrkohle
 Aktiengesellschaft in das Handelsregister.
 
-
 ## § 6 Rationalisierungsverband des Steinkohlenbergbaus
 
 (1)
@@ -275,10 +258,7 @@ Aktiengesellschaft in das Handelsregister.
 Rücksicht auf Absatz 1 vorgenommen werden, bedürfen der Zustimmung des
 Bundesministeriums für Wirtschaft und Technologie.
 
-
 ## Art 9 bis 11
-
-
 
 ## Art 12 - Geltung im Land Berlin
 
@@ -288,13 +268,11 @@ S. 1) auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses
 Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 Überleitungsgesetzes.
 
-
 ## Art 13
 
 Die §§ 1 bis 4 des Artikels 8 treten mit Wirkung vom 1. Januar 1969 in
 Kraft. Im übrigen tritt das Gesetz am Tage nach seiner Verkündung in
 Kraft.
-
 
 ## Schlußformel
 

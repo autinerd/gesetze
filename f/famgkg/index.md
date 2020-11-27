@@ -18,9 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 10 G v. 5.12.2012 I 2418
 
-
 ## Abschnitt 1 - Allgemeine Vorschriften
-
 
 ### § 1 Geltungsbereich
 
@@ -33,7 +31,6 @@ anderes bestimmt ist. Dies gilt auch für Verfahren über eine
 Beschwerde, die mit einem Verfahren nach Satz 1 in Zusammenhang steht.
 Für das Mahnverfahren werden Kosten nach dem Gerichtskostengesetz
 erhoben.
-
 
 ### § 2 Kostenfreiheit
 
@@ -50,7 +47,6 @@ auferlegt werden, sind Kosten nicht zu erheben; bereits erhobene
 Kosten sind zurückzuzahlen. Das Gleiche gilt, soweit ein von Kosten
 Befreiter Kosten des Verfahrens übernimmt.
 
-
 ### § 3 Höhe der Kosten
 
 (1) Die Gebühren richten sich nach dem Wert des Verfahrensgegenstands
@@ -59,12 +55,10 @@ Befreiter Kosten des Verfahrens übernimmt.
 (2) Kosten werden nach dem Kostenverzeichnis der Anlage 1 zu diesem
 Gesetz erhoben.
 
-
 ### § 4 Umgangspflegschaft
 
 Die besonderen Vorschriften für die Dauerpflegschaft sind auf die
 Umgangspflegschaft nicht anzuwenden.
-
 
 ### § 5 Lebenspartnerschaftssachen
 
@@ -96,7 +90,6 @@ freiwilligen Gerichtsbarkeit sind für
 
 entsprechend anzuwenden.
 
-
 ### § 6 Verweisung, Abgabe, Fortführung einer Folgesache als selbständige Familiensache
 
 (1) Verweist ein erstinstanzliches Gericht oder ein
@@ -115,7 +108,6 @@ der Rechtsweg nicht gegeben oder das für das Verfahren nicht zuständig
 ist, werden nur dann erhoben, wenn die Anrufung auf verschuldeter
 Unkenntnis der tatsächlichen oder rechtlichen Verhältnisse beruht. Die
 Entscheidung trifft das Gericht, an das verwiesen worden ist.
-
 
 ### § 7 Verjährung, Verzinsung
 
@@ -144,7 +136,6 @@ gehemmt.
 (4) Ansprüche auf Zahlung und Rückerstattung von Kosten werden nicht
 verzinst.
 
-
 ### § 8 Elektronische Akte, elektronisches Dokument
 
 (1) Die Vorschriften über die elektronische Akte und das gerichtliche
@@ -163,9 +154,7 @@ technischen Rahmenbedingungen unverzüglich mitzuteilen.
 (3) Ein elektronisches Dokument ist eingereicht, sobald die für den
 Empfang bestimmte Einrichtung des Gerichts es aufgezeichnet hat.
 
-
 ## Abschnitt 2 - Fälligkeit
-
 
 ### § 9 Fälligkeit der Gebühren in Ehesachen und selbständigen Familienstreitsachen
 
@@ -177,14 +166,12 @@ Abgabe der entsprechenden Erklärung zu Protokoll fällig.
 (2) Soweit die Gebühr eine Entscheidung oder sonstige gerichtliche
 Handlung voraussetzt, wird sie mit dieser fällig.
 
-
 ### § 10 Fälligkeit bei Vormundschaften und Dauerpflegschaften
 
 Bei Vormundschaften und bei Dauerpflegschaften werden die Gebühren
 nach den Nummern 1311 und 1312 des Kostenverzeichnisses erstmals bei
 Anordnung und später jeweils zu Beginn eines Kalenderjahres, Auslagen
 sofort nach ihrer Entstehung fällig.
-
 
 ### § 11 Fälligkeit der Gebühren in sonstigen Fällen, Fälligkeit der Auslagen
 
@@ -214,9 +201,7 @@ sofort nach ihrer Entstehung fällig.
 die elektronische Übermittlung von Akten werden sofort nach ihrer
 Entstehung fällig.
 
-
 ## Abschnitt 3 - Vorschuss und Vorauszahlung
-
 
 ### § 12 Grundsatz
 
@@ -226,12 +211,10 @@ Zivilprozessordnung und dieses Gesetz es gestatten, darf die Tätigkeit
 des Familiengerichts von der Sicherstellung oder Zahlung der Kosten
 nicht abhängig gemacht werden.
 
-
 ### § 13 Verfahren nach dem Internationalen Familienrechtsverfahrensgesetz
 
 In Verfahren nach dem Internationalen Familienrechtsverfahrensgesetz
 sind die Vorschriften dieses Abschnitts nicht anzuwenden.
-
 
 ### § 14 Abhängigmachung
 
@@ -247,7 +230,6 @@ auch in der Rechtsmittelinstanz.
 (3) Im Übrigen soll in Verfahren, in denen der Antragsteller die
 Kosten schuldet (§ 21), vor Zahlung der Gebühr für das Verfahren im
 Allgemeinen keine gerichtliche Handlung vorgenommen werden.
-
 
 ### § 15 Ausnahmen von der Abhängigmachung
 
@@ -273,13 +255,6 @@ Allgemeinen keine gerichtliche Handlung vorgenommen werden.
         diesem Fall die Erklärung des zum Bevollmächtigten bestellten
         Rechtsanwalts.
 
-
-
-
-
-
-
-
 ### § 16 Auslagen
 
 (1) Wird die Vornahme einer Handlung, mit der Auslagen verbunden sind,
@@ -298,16 +273,13 @@ Vorschuss zur Deckung der Auslagen erhoben werden.
 
 (4) Absatz 1 gilt nicht für die Anordnung einer Haft.
 
-
 ### § 17 Fortdauer der Vorschusspflicht
 
 Die Verpflichtung zur Zahlung eines Vorschusses bleibt bestehen, auch
 wenn die Kosten des Verfahrens einem anderen auferlegt oder von einem
 anderen übernommen sind. § 26 Abs. 2 gilt entsprechend.
 
-
 ## Abschnitt 4 - Kostenansatz
-
 
 ### § 18 Kostenansatz
 
@@ -334,7 +306,6 @@ gerichtlichen Entscheidung über den Kostenansatz eine Entscheidung,
 durch die der Verfahrenswert anders festgesetzt wird, kann der
 Kostenansatz ebenfalls berichtigt werden.
 
-
 ### § 19 Nachforderung
 
 (1) Wegen eines unrichtigen Ansatzes dürfen Kosten nur nachgefordert
@@ -358,7 +329,6 @@ Verfahren möglich.
 berichtigte Ansatz dem Zahlungspflichtigen drei Monate nach der
 letzten Wertfestsetzung mitgeteilt worden ist.
 
-
 ### § 20 Nichterhebung von Kosten wegen unrichtiger Sachbehandlung
 
 (1) Kosten, die bei richtiger Behandlung der Sache nicht entstanden
@@ -374,9 +344,7 @@ entschieden hat, können Anordnungen nach Absatz 1 im Verwaltungsweg
 erlassen werden. Eine im Verwaltungsweg getroffene Anordnung kann nur
 im Verwaltungsweg geändert werden.
 
-
 ## Abschnitt 5 - Kostenhaftung
-
 
 ### § 21 Kostenschuldner in Antragsverfahren, Vergleich
 
@@ -406,13 +374,11 @@ Vollstreckungsbescheid beantragt hat.
 (2) Die Gebühr für den Abschluss eines gerichtlichen Vergleichs
 schuldet jeder, der an dem Abschluss beteiligt ist.
 
-
 ### § 22 Kosten bei Vormundschaft und Dauerpflegschaft
 
 Die Kosten bei einer Vormundschaft oder Dauerpflegschaft schuldet der
 von der Maßnahme betroffene Minderjährige. Dies gilt nicht für Kosten,
 die das Gericht einem anderen auferlegt hat.
-
 
 ### § 23 Bestimmte sonstige Auslagen
 
@@ -433,7 +399,6 @@ Antragsteller Schuldner der Auslagen, wenn der Antrag zurückgenommen
 oder von dem Gericht abgelehnt oder wenn die Übermittlung des Antrags
 von der Übermittlungsstelle oder das Ersuchen um Verfahrens- oder
 Prozesskostenhilfe von der Empfangsstelle abgelehnt wird.
-
 
 ### § 24 Weitere Fälle der Kostenhaftung
 
@@ -456,10 +421,6 @@ Die Kosten schuldet ferner,
 4.  der Verpflichtete für die Kosten der Vollstreckung; dies gilt nicht
     für einen Minderjährigen in Verfahren, die seine Person betreffen.
 
-
-
-
-
 ### § 25 Erlöschen der Zahlungspflicht
 
 Die durch gerichtliche Entscheidung begründete Verpflichtung zur
@@ -468,7 +429,6 @@ gerichtliche Entscheidung aufgehoben oder abgeändert wird. Soweit die
 Verpflichtung zur Zahlung von Kosten nur auf der aufgehobenen oder
 abgeänderten Entscheidung beruht hat, werden bereits gezahlte Kosten
 zurückerstattet.
-
 
 ### § 26 Mehrere Kostenschuldner
 
@@ -496,7 +456,6 @@ soweit dem Entscheidungsschuldner ein Betrag für die Reise zum Ort
 einer Verhandlung, Anhörung oder Untersuchung und für die Rückreise
 gewährt worden ist.
 
-
 ### § 27 Haftung von Streitgenossen
 
 Streitgenossen haften als Gesamtschuldner, wenn die Kosten nicht durch
@@ -505,9 +464,7 @@ Streitgenossen nur Teile des Streitgegenstands betreffen, beschränkt
 sich seine Haftung als Gesamtschuldner auf den Betrag, der entstanden
 wäre, wenn das Verfahren nur diese Teile betroffen hätte.
 
-
 ## Abschnitt 6 - Gebührenvorschriften
-
 
 ### § 28 Wertgebühren
 
@@ -589,13 +546,11 @@ Eine Gebührentabelle für Verfahrenswerte bis
 
 (2) Der Mindestbetrag einer Gebühr ist 10 Euro.
 
-
 ### § 29 Einmalige Erhebung der Gebühren
 
 Die Gebühr für das Verfahren im Allgemeinen und die Gebühr für eine
 Entscheidung werden in jedem Rechtszug hinsichtlich eines jeden Teils
 des Verfahrensgegenstands nur einmal erhoben.
-
 
 ### § 30 Teile des Verfahrensgegenstands
 
@@ -612,7 +567,6 @@ anzuwenden, sind die Gebühren für die Teile gesondert zu berechnen;
 die aus dem Gesamtbetrag der Wertteile nach dem höchsten Gebührensatz
 berechnete Gebühr darf jedoch nicht überschritten werden.
 
-
 ### § 31 Zurückverweisung, Abänderung oder Aufhebung einer Entscheidung
 
 (1) Wird eine Sache an ein Gericht eines unteren Rechtszugs
@@ -625,7 +579,6 @@ Kostenverzeichnis nichts anderes bestimmt ist. Dies gilt nicht für das
 Verfahren zur Überprüfung der Entscheidung nach § 166 Abs. 2 und 3 des
 Gesetzes über das Verfahren in Familiensachen und in den
 Angelegenheiten der freiwilligen Gerichtsbarkeit.
-
 
 ### § 32 Verzögerung des Verfahrens
 
@@ -642,12 +595,9 @@ auf einen Gebührensatz von 0,3 ermäßigt werden. Dem Antragsteller, dem
 Antragsgegner oder dem Vertreter stehen der Nebenintervenient und sein
 Vertreter gleich.
 
-
 ## Abschnitt 7 - Wertvorschriften
 
-
 ### Unterabschnitt 1 - Allgemeine Wertvorschriften
-
 
 #### § 33 Grundsatz
 
@@ -660,7 +610,6 @@ nur ein Anspruch, und zwar der höhere, maßgebend.
 (2) Der Verfahrenswert beträgt höchstens 30 Millionen Euro, soweit
 kein niedrigerer Höchstwert bestimmt ist.
 
-
 #### § 34 Zeitpunkt der Wertberechnung
 
 Für die Wertberechnung ist der Zeitpunkt der den jeweiligen
@@ -669,13 +618,11 @@ jeweiligen Rechtszug entscheidend. In Verfahren, die von Amts wegen
 eingeleitet werden, ist der Zeitpunkt der Fälligkeit der Gebühr
 maßgebend.
 
-
 #### § 35 Geldforderung
 
 Ist Gegenstand des Verfahrens eine bezifferte Geldforderung, bemisst
 sich der Verfahrenswert nach deren Höhe, soweit nichts anderes
 bestimmt ist.
-
 
 #### § 36 Genehmigung einer Erklärung oder deren Ersetzung
 
@@ -692,7 +639,6 @@ Verfahrensgegenstand zu bewerten.
 
 (3) Der Wert beträgt in jedem Fall höchstens 1 Million Euro.
 
-
 #### § 37 Früchte, Nutzungen, Zinsen und Kosten
 
 (1) Sind außer dem Hauptgegenstand des Verfahrens auch Früchte,
@@ -707,7 +653,6 @@ den Wert des Hauptgegenstands nicht übersteigt.
 ist der Betrag der Kosten maßgebend, soweit er den Wert des
 Hauptgegenstands nicht übersteigt.
 
-
 #### § 38 Stufenklageantrag
 
 Wird mit dem Klageantrag auf Rechnungslegung oder auf Vorlegung eines
@@ -716,7 +661,6 @@ Versicherung der Klageantrag auf Herausgabe desjenigen verbunden, was
 der Antragsgegner aus dem zugrunde liegenden Rechtsverhältnis
 schuldet, ist für die Wertberechnung nur einer der verbundenen
 Ansprüche, und zwar der höhere, maßgebend.
-
 
 #### § 39 Klage- und Widerklageantrag, Hilfsanspruch, wechselseitige Rechtsmittel, Aufrechnung
 
@@ -740,7 +684,6 @@ der Gegenforderung, soweit eine der Rechtskraft fähige Entscheidung
 (4) Bei einer Erledigung des Verfahrens durch Vergleich sind die
 Absätze 1 bis 3 entsprechend anzuwenden.
 
-
 #### § 40 Rechtsmittelverfahren
 
 (1) Im Rechtsmittelverfahren bestimmt sich der Verfahrenswert nach den
@@ -757,14 +700,12 @@ wird.
 Sprungrechtsbeschwerde ist Verfahrenswert der für das
 Rechtsmittelverfahren maßgebende Wert.
 
-
 #### § 41 Einstweilige Anordnung
 
 Im Verfahren der einstweiligen Anordnung ist der Wert in der Regel
 unter Berücksichtigung der geringeren Bedeutung gegenüber der
 Hauptsache zu ermäßigen. Dabei ist von der Hälfte des für die
 Hauptsache bestimmten Werts auszugehen.
-
 
 #### § 42 Auffangwert
 
@@ -783,9 +724,7 @@ Ermessen zu bestimmen, jedoch nicht über 500 000 Euro.
 (3) Bestehen in den Fällen der Absätze 1 und 2 keine genügenden
 Anhaltspunkte, ist von einem Wert von 3 000 Euro auszugehen.
 
-
 ### Unterabschnitt 2 - Besondere Wertvorschriften
-
 
 #### § 43 Ehesachen
 
@@ -797,7 +736,6 @@ nicht über 1 Million Euro angenommen werden.
 
 (2) Für die Einkommensverhältnisse ist das in drei Monaten erzielte
 Nettoeinkommen der Ehegatten einzusetzen.
-
 
 #### § 44 Verbund
 
@@ -816,7 +754,6 @@ Werte der übrigen Folgesachen werden hinzugerechnet. § 33 Abs. 1 Satz
 (Absatz 2), nach den besonderen Umständen des Einzelfalls unbillig,
 kann das Gericht einen höheren oder einen niedrigeren Betrag
 berücksichtigen.
-
 
 #### § 45 Bestimmte Kindschaftssachen
 
@@ -842,7 +779,6 @@ Gegenstand zu bewerten, wenn sie mehrere Kinder betrifft.
 des Einzelfalls unbillig, kann das Gericht einen höheren oder einen
 niedrigeren Wert festsetzen.
 
-
 #### § 46 Übrige Kindschaftssachen
 
 (1) Wenn Gegenstand einer Kindschaftssache eine vermögensrechtliche
@@ -859,7 +795,6 @@ bemessen.
 
 (3) Der Wert beträgt in jedem Fall höchstens 1 Million Euro.
 
-
 #### § 47 Abstammungssachen
 
 (1) In Abstammungssachen nach § 169 Nr. 1 und 4 des Gesetzes über das
@@ -870,7 +805,6 @@ den übrigen Abstammungssachen 1 000 Euro.
 (2) Ist der nach Absatz 1 bestimmte Wert nach den besonderen Umständen
 des Einzelfalls unbillig, kann das Gericht einen höheren oder einen
 niedrigeren Wert festsetzen.
-
 
 #### § 48 Ehewohnungs- und Haushaltssachen
 
@@ -892,7 +826,6 @@ freiwilligen Gerichtsbarkeit 3 000 Euro.
 besonderen Umständen des Einzelfalls unbillig, kann das Gericht einen
 höheren oder einen niedrigeren Wert festsetzen.
 
-
 #### § 49 Gewaltschutzsachen
 
 (1) In Gewaltschutzsachen nach § 1 des Gewaltschutzgesetzes beträgt
@@ -902,7 +835,6 @@ Gewaltschutzgesetzes 3 000 Euro.
 (2) Ist der nach Absatz 1 bestimmte Wert nach den besonderen Umständen
 des Einzelfalls unbillig, kann das Gericht einen höheren oder einen
 niedrigeren Wert festsetzen.
-
 
 #### § 50 Versorgungsausgleichssachen
 
@@ -918,7 +850,6 @@ von Versorgungsansprüchen beträgt der Verfahrenswert 500 Euro.
 (3) Ist der nach den Absätzen 1 und 2 bestimmte Wert nach den
 besonderen Umständen des Einzelfalls unbillig, kann das Gericht einen
 höheren oder einen niedrigeren Wert festsetzen.
-
 
 #### § 51 Unterhaltssachen
 
@@ -944,7 +875,6 @@ zur Festsetzung von Unterhalt Minderjähriger entsprechend anzuwenden.
 der Wert 300 Euro. Ist der Wert nach den besonderen Umständen des
 Einzelfalls unbillig, kann das Gericht einen höheren Wert festsetzen.
 
-
 #### § 52 Güterrechtssachen
 
 Wird in einer Güterrechtssache, die Familienstreitsache ist, auch über
@@ -952,9 +882,7 @@ einen Antrag nach § 1382 Abs. 5 oder nach § 1383 Abs. 3 des
 Bürgerlichen Gesetzbuchs entschieden, handelt es sich um ein
 Verfahren. Die Werte werden zusammengerechnet.
 
-
 ### Unterabschnitt 3 - Wertfestsetzung
-
 
 #### § 53 Angabe des Werts
 
@@ -965,14 +893,12 @@ Wert eines Teils des Verfahrensgegenstands schriftlich oder zu
 Protokoll der Geschäftsstelle anzugeben. Die Angabe kann jederzeit
 berichtigt werden.
 
-
 #### § 54 Wertfestsetzung für die Zulässigkeit der Beschwerde
 
 Ist der Wert für die Zulässigkeit der Beschwerde festgesetzt, ist die
 Festsetzung auch für die Berechnung der Gebühren maßgebend, soweit die
 Wertvorschriften dieses Gesetzes nicht von den Wertvorschriften des
 Verfahrensrechts abweichen.
-
 
 #### § 55 Wertfestsetzung für die Gerichtsgebühren
 
@@ -1002,7 +928,6 @@ Amts wegen geändert werden. Die Änderung ist nur innerhalb von sechs
 Monaten zulässig, nachdem die Entscheidung in der Hauptsache
 Rechtskraft erlangt oder das Verfahren sich anderweitig erledigt hat.
 
-
 #### § 56 Schätzung des Werts
 
 Wird eine Abschätzung durch Sachverständige erforderlich, ist in dem
@@ -1014,9 +939,7 @@ unrichtige Angabe des Werts, durch unbegründetes Bestreiten des
 angegebenen Werts oder durch eine unbegründete Beschwerde veranlasst
 hat.
 
-
 ### Abschnitt 8 - Erinnerung und Beschwerde
-
 
 #### § 57 Erinnerung gegen den Kostenansatz, Beschwerde
 
@@ -1065,7 +988,6 @@ des Gerichts.
 
 (8) Die Verfahren sind gebührenfrei. Kosten werden nicht erstattet.
 
-
 #### § 58 Beschwerde gegen die Anordnung einer Vorauszahlung
 
 (1) Gegen den Beschluss, durch den die Tätigkeit des Familiengerichts
@@ -1078,7 +1000,6 @@ durch einen Bevollmächtigten vertreten lassen muss, gilt dies auch im
 Beschwerdeverfahren.
 
 (2) Im Fall des § 16 Abs. 2 ist § 57 entsprechend anzuwenden.
-
 
 #### § 59 Beschwerde gegen die Festsetzung des Verfahrenswerts
 
@@ -1108,7 +1029,6 @@ werden.
 
 (3) Die Verfahren sind gebührenfrei. Kosten werden nicht erstattet.
 
-
 #### § 60 Beschwerde gegen die Auferlegung einer Verzögerungsgebühr
 
 Gegen den Beschluss des Familiengerichts nach § 32 findet die
@@ -1117,7 +1037,6 @@ Beschwerde statt, wenn der Wert des Beschwerdegegenstands 200 Euro
 grundsätzlichen Bedeutung in dem Beschluss der zur Entscheidung
 stehenden Frage zugelassen hat. § 57 Abs. 3, 4 Satz 1, 2 und 4, Abs.
 5, 7 und 8 ist entsprechend anzuwenden.
-
 
 #### § 61 Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör
 
@@ -1160,9 +1079,7 @@ Verfahren fortführt, soweit dies aufgrund der Rüge geboten ist.
 
 (6) Kosten werden nicht erstattet.
 
-
 ### Abschnitt 9 - Schluss- und Übergangsvorschriften
-
 
 #### § 61a Verordnungsermächtigung
 
@@ -1184,7 +1101,6 @@ entsprechend für die im Beschwerdeverfahren von den
 Oberlandesgerichten zu erhebenden Verfahrensgebühren; an die Stelle
 der Antragsschrift tritt der Schriftsatz, mit dem die Beschwerde
 eingelegt worden ist.
-
 
 #### § 62 Rechnungsgebühren
 
@@ -1212,7 +1128,6 @@ Beschwerdeberechtigt sind die Staatskasse und derjenige, der für die
 Rechnungsgebühren als Kostenschuldner in Anspruch genommen wird. § 61
 gilt entsprechend.
 
-
 #### § 62a Bekanntmachung von Neufassungen
 
 Das Bundesministerium der Justiz kann nach Änderungen den Wortlaut des
@@ -1229,10 +1144,6 @@ angeben
 
 3.  das Inkrafttreten der Änderungen.
 
-
-
-
-
 #### § 63 Übergangsvorschrift
 
 (1) In Verfahren, die vor dem Inkrafttreten einer Gesetzesänderung
@@ -1246,14 +1157,12 @@ dieses Gesetz verweist.
 die vor dem Inkrafttreten einer Gesetzesänderung fällig geworden sind,
 das bisherige Recht.
 
-
 #### § 64 Übergangsvorschrift für die Erhebung von Haftkosten
 
 Bis zum Erlass landesrechtlicher Vorschriften über die Höhe des
 Haftkostenbeitrags, der von einem Gefangenen zu erheben ist, sind die
 Nummern 2008 und 2009 des Kostenverzeichnisses in der bis zum 27.
 Dezember 2010 geltenden Fassung anzuwenden.
-
 
 #### Anlage 1 (zu § 3 Abs. 2) Kostenverzeichnis
 
@@ -2870,8 +2779,6 @@ Gehör**
 
     *   50,00 EUR
 
-
-
 ## Teil 2
 
 ## Auslagen
@@ -3177,9 +3084,6 @@ Gehör**
     *   An den Umgangspfleger zu zahlende Beträge ..........
 
     *   in voller Höhe
-
-
-
 
 #### Anlage 2 (zu § 28 Abs. 1)
 

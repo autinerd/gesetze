@@ -21,14 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 V v. 28.9.2005 I 2906
 
-
 ## Erster Teil - Wahl des Personalrates
 
-
-
 ### Erster Abschnitt - Gemeinsame Vorschriften über Vorbereitung und Durchführung der Wahl
-
-
 
 #### § 1 Wahlvorstand, Wahlhelfer
 
@@ -59,7 +54,6 @@ Wählerverzeichnisses und der Vorschlagslisten, den Wahlvorgang und die
 Stimmabgabe in geeigneter Weise, wenn nötig, in ihrer Muttersprache,
 unterrichtet werden.
 
-
 #### § 2 Feststellung der Beschäftigtenzahl, Wählerverzeichnis
 
 (1) Der Wahlvorstand stellt die Zahl der in der Regel Beschäftigten
@@ -74,7 +68,6 @@ der Gruppen sind die Anteile der Geschlechter festzustellen.
 (3) Das Wählerverzeichnis oder eine Abschrift ist unverzüglich nach
 Einleitung der Wahl bis zum Abschluß der Stimmabgabe an geeigneter
 Stelle zur Einsicht auszulegen.
-
 
 #### § 3 Einsprüche gegen das Wählerverzeichnis
 
@@ -95,7 +88,6 @@ Unrichtigkeiten, zur Erledigung rechtzeitig eingelegter Einsprüche,
 bei Eintritt oder Ausscheiden eines Beschäftigten und bei Änderung der
 Gruppenzugehörigkeit bis zum Abschluß der Stimmabgabe zu berichtigen
 oder zu ergänzen.
-
 
 #### § 4 Vorabstimmungen
 
@@ -125,7 +117,6 @@ des Teils der Dienststelle, vertretenen Gruppe angehören.
 
 (2) Der Wahlvorstand hat in der Bekanntgabe nach § 1 Abs. 3 auf die in
 Absatz 1 bezeichneten Fristen hinzuweisen.
-
 
 #### § 5 Ermittlung der Zahl der zu wählenden Personalratsmitglieder, Verteilung der Sitze auf die Gruppen
 
@@ -161,7 +152,6 @@ Gesetzes mindestens zustehen, können ihr nicht entzogen werden.
 Angehörigen, so erübrigt sich die Errechnung der Sitze nach dem
 Höchstzahlverfahren; in diesen Fällen entscheidet das Los, wem die
 höhere Zahl von Sitzen zufällt.
-
 
 #### § 6 Wahlausschreiben
 
@@ -260,7 +250,6 @@ Wahlvorstand jederzeit berichtigt werden.
 
 (5) Mit Erlaß des Wahlausschreibens ist die Wahl eingeleitet.
 
-
 #### § 7 Wahlvorschläge, Einreichungsfrist
 
 (1) Zur Wahl des Personalrates können die wahlberechtigten
@@ -271,7 +260,6 @@ Wahlvorschläge machen.
 Erlaß des Wahlausschreibens beim Wahlvorstand einzureichen. Bei
 Gruppenwahl sind für die einzelnen Gruppen getrennte Wahlvorschläge
 einzureichen.
-
 
 #### § 8 Inhalt der Wahlvorschläge
 
@@ -343,7 +331,6 @@ Listenvertreter benennen.
 
 (5) Der Wahlvorschlag soll mit einem Kennwort versehen werden.
 
-
 #### § 9 Sonstige Erfordernisse
 
 (1) Jeder Bewerber kann für die Wahl des Personalrates nur auf einem
@@ -360,7 +347,6 @@ durch ihre Beauftragten rechtswirksam nur einen Wahlvorschlag für jede
 Gruppe unterzeichnen lassen.
 
 (4) Eine Verbindung von Wahlvorschlägen ist unzulässig.
-
 
 #### § 10 Behandlung der Wahlvorschläge durch den Wahlvorstand, ungültige Wahlvorschläge
 
@@ -413,7 +399,6 @@ zurückzugeben, die Mängel binnen drei Arbeitstagen seit dem Zugang der
 Aufforderung zu beseitigen. Werden die Mängel nicht fristgerecht
 beseitigt, sind diese Wahlvorschläge ungültig.
 
-
 #### § 11 Nachfrist für die Einreichung von Wahlvorschlägen
 
 (1) Ist nach Ablauf der Fristen nach § 7 Abs. 2 und § 10 Abs. 5 Satz 1
@@ -441,10 +426,6 @@ ein, so gibt der Wahlvorstand sofort bekannt
 
 2.  bei gemeinsamer Wahl, daß diese Wahl nicht stattfinden kann.
 
-
-
-
-
 #### § 12 Bezeichnung der Wahlvorschläge
 
 (1) Nach Ablauf der Fristen nach § 7 Abs. 2, § 10 Abs. 5 und § 11 Abs.
@@ -465,7 +446,6 @@ Vornamen der für die Gruppen an erster Stelle benannten Bewerber. Bei
 Wahlvorschlägen, die mit einem Kennwort versehen sind, ist auch das
 Kennwort anzugeben.
 
-
 #### § 13 Bekanntmachung der Wahlvorschläge
 
 (1) Unverzüglich nach Ablauf der Fristen nach § 7 Abs. 2, § 10 Abs. 5
@@ -478,14 +458,12 @@ sollen in diesem Zeitpunkt vorliegen.
 (2) Die Namen der Unterzeichner der Wahlvorschläge werden nicht
 bekanntgemacht.
 
-
 #### § 14 Sitzungsniederschriften
 
 Der Wahlvorstand fertigt über jede Sitzung, in der er einen Beschluß
 gefaßt hat, eine Niederschrift, die mindestens den Wortlaut des
 Beschlusses enthält. Sie ist von sämtlichen Mitgliedern des
 Wahlvorstandes zu unterzeichnen.
-
 
 #### § 15 Ausübung des Wahlrechts, Stimmzettel, ungültige Stimmabgabe
 
@@ -531,7 +509,6 @@ Verlangen gegen Rückgabe der unbrauchbaren Wahlunterlagen ein neuer
 Stimmzettel und gegebenenfalls ein neuer Wahlumschlag auszuhändigen.
 Der Wahlvorstand hat die zurückgegebenen Unterlagen unverzüglich in
 Gegenwart des Wählers zu vernichten.
-
 
 #### § 16 Wahlhandlung
 
@@ -579,7 +556,6 @@ ohne Beschädigung des Verschlusses unmöglich ist. Bei Wiedereröffnung
 der Wahl oder bei Entnahme der Stimmzettel zur Stimmenzählung hat sich
 der Wahlvorstand davon zu überzeugen, daß der Verschluß unversehrt
 ist.
-
 
 #### § 17 Schriftliche Stimmabgabe
 
@@ -634,7 +610,6 @@ Der Wähler kann, soweit unter den Voraussetzungen des § 16 Abs. 2
 erforderlich, die in den Nummern 1 bis 3 bezeichneten Tätigkeiten
 durch eine Person seines Vertrauens verrichten lassen.
 
-
 #### § 18 Behandlung der schriftlich abgegebenen Stimmen
 
 (1) Unmittelbar vor Abschluß der Stimmabgabe öffnet der Wahlvorstand
@@ -650,7 +625,6 @@ Vermerk über den Zeitpunkt des Eingangs ungeöffnet zu den
 Wahlunterlagen zu nehmen. Die Briefumschläge sind einen Monat nach
 Bekanntgabe des Wahlergebnisses ungeöffnet zu vernichten, wenn die
 Wahl nicht angefochten worden ist.
-
 
 #### § 19 Stimmabgabe bei Nebenstellen und Teilen von Dienststellen
 
@@ -671,7 +645,6 @@ oder die schriftliche Stimmabgabe anordnen. Wird die schriftliche
 Stimmabgabe angeordnet, so hat der Wahlvorstand den wahlberechtigten
 Beschäftigten die in § 17 Abs. 1 bezeichneten Unterlagen zu
 übersenden.
-
 
 #### § 20 Feststellung des Wahlergebnisses
 
@@ -697,7 +670,6 @@ entfallenen gültigen Stimmzettel zusammen.
 Wahlvorstand beschließt, weil sie zu Zweifeln Anlaß geben, sind mit
 fortlaufender Nummer zu versehen und von den übrigen Stimmzetteln
 gesondert bei den Wahlunterlagen aufzubewahren.
-
 
 #### § 21 Wahlniederschrift
 
@@ -736,7 +708,6 @@ ist. Die Niederschrift muß enthalten
 (2) Besondere Vorkommnisse bei der Wahlhandlung oder der Feststellung
 des Wahlergebnisses sind in der Niederschrift zu vermerken.
 
-
 #### § 22 Benachrichtigung der gewählten Bewerber
 
 Der Wahlvorstand benachrichtigt die als Personalratsmitglieder
@@ -746,14 +717,12 @@ Erklärt ein Gewählter nicht binnen drei Arbeitstagen nach Zugang der
 Benachrichtigung dem Wahlvorstand, daß er die Wahl ablehne, so gilt
 die Wahl als angenommen.
 
-
 #### § 23 Bekanntmachung des Wahlergebnisses
 
 Der Wahlvorstand gibt das Wahlergebnis und die Namen der als
 Personalratsmitglieder gewählten Bewerber durch zweiwöchigen Aushang
 an den Stellen bekannt, an denen das Wahlausschreiben bekanntgemacht
 worden ist.
-
 
 #### § 24 Aufbewahrung der Wahlunterlagen
 
@@ -762,14 +731,9 @@ Freiumschläge für die schriftliche Stimmabgabe usw.) werden vom
 Personalrat mindestens bis zur Durchführung der nächsten
 Personalratswahl aufbewahrt.
 
-
 ### Zweiter Abschnitt - Besondere Vorschriften für die Wahl mehrerer Personalratsmitglieder oder Gruppenvertreter
 
-
-
 #### Erster Unterabschnitt - Wahlverfahren bei Vorliegen mehrerer Wahlvorschläge (Verhältniswahl)
-
-
 
 ##### § 25 Voraussetzungen für Verhältniswahl, Stimmzettel, Stimmabgabe
 
@@ -798,7 +762,6 @@ auch das Kennwort anzugeben.
 (3) Der Wähler hat auf dem Stimmzettel die Vorschlagsliste
 anzukreuzen, für die er seine Stimme abgeben will.
 
-
 ##### § 26 Ermittlung der gewählten Gruppenvertreter bei Gruppenwahl
 
 (1) Bei Gruppenwahl werden die Summen der auf die einzelnen
@@ -818,7 +781,6 @@ Höchstzahlen zu.
 (3) Innerhalb der Vorschlagslisten sind die Sitze auf die Bewerber in
 der Reihenfolge ihrer Benennung (§ 8 Abs. 2) zu verteilen.
 
-
 ##### § 27 Ermittlung der gewählten Gruppenvertreter bei gemeinsamer Wahl
 
 (1) Bei gemeinsamer Wahl werden die Summen der auf die einzelnen
@@ -837,10 +799,7 @@ Höchstzahlen zu.
 zustehenden Sitze auf die Angehörigen der entsprechenden Gruppe in der
 Reihenfolge ihrer Benennung verteilt.
 
-
 #### Zweiter Unterabschnitt - Wahlverfahren bei Vorliegen eines Wahlvorschlages (Personenwahl)
-
-
 
 ##### § 28 Voraussetzungen für Personenwahl, Stimmzettel, Stimmabgabe
 
@@ -870,10 +829,6 @@ für die er seine Stimme abgeben will. Der Wähler darf
 2.  bei gemeinsamer Wahl nicht mehr Namen ankreuzen, als
     Personalratsmitglieder zu wählen sind.
 
-
-
-
-
 ##### § 29 Ermittlung der gewählten Bewerber
 
 (1) Bei Gruppenwahl sind die Bewerber in der Reihenfolge der jeweils
@@ -885,10 +840,7 @@ höchsten auf sie entfallenen Stimmenzahlen besetzt.
 
 (3) Bei gleicher Stimmenzahl entscheidet das Los.
 
-
 ### Dritter Abschnitt - Besondere Vorschriften für die Wahl eines Personalratsmitgliedes oder eines Gruppenvertreters (Personenwahl)
-
-
 
 #### § 30 Voraussetzungen für Personenwahl, Stimmzettel, Stimmabgabe, Wahlergebnis
 
@@ -913,10 +865,7 @@ anzukreuzen, für den er seine Stimme abgeben will.
 (4) Gewählt ist der Bewerber, der die meisten Stimmen erhalten hat.
 Bei gleicher Stimmenzahl entscheidet das Los.
 
-
 ### Vierter Abschnitt - Wahl der Vertreter der nichtständig Beschäftigten
-
-
 
 #### § 31 Vorbereitung und Durchführung der Wahl
 
@@ -936,16 +885,12 @@ Vertreter, so kann sich jeder wahlberechtigte Angehörige dieser Gruppe
 durch Erklärung gegenüber dem Wahlvorstand einer anderen Gruppe
 anschließen.
 
-
 ## Zweiter Teil - Wahl des Bezirkspersonalrates
-
-
 
 ### § 32 Entsprechende Anwendung der Vorschriften über die Wahl des Personalrates
 
 Für die Wahl des Bezirkspersonalrates gelten die §§ 1 bis 30
 entsprechend, soweit sich aus den §§ 33 bis 41 nichts anderes ergibt.
-
 
 ### § 33 Leitung der Wahl
 
@@ -958,7 +903,6 @@ Bezirkswahlvorstandes.
 Bezirkswahlvorstandes und gegebenenfalls der Ersatzmitglieder und die
 dienstliche Anschrift seines Vorsitzenden in der Dienststelle durch
 Aushang bis zum Abschluß der Stimmabgabe bekannt.
-
 
 ### § 34 Feststellung der Beschäftigtenzahl, Wählerverzeichnis
 
@@ -973,7 +917,6 @@ Bezirkswahlvorstand die Zahl der wahlberechtigten Beschäftigten,
 getrennt nach Gruppenzugehörigkeit, unverzüglich schriftlich mit.
 Innerhalb der Gruppen sind die Anteile der Geschlechter festzustellen.
 
-
 ### § 35 Ermittlung der Zahl der zu wählenden Bezirkspersonalratsmitglieder, Verteilung der Sitze auf die Gruppen
 
 (1) Der Bezirkswahlvorstand ermittelt die Zahl der zu wählenden
@@ -987,12 +930,10 @@ weniger Sitze, als ihr nach § 53 Abs. 5 des Gesetzes mindestens
 zustehen, so erhält sie die in § 53 Abs. 5 des Gesetzes
 vorgeschriebene Zahl von Sitzen.
 
-
 ### § 36 Gleichzeitige Wahl
 
 Die Wahl des Bezirkspersonalrates soll möglichst gleichzeitig mit der
 Wahl der Personalräte in demselben Bezirk stattfinden.
-
 
 ### § 37 Wahlausschreiben
 
@@ -1096,12 +1037,10 @@ Bezirkswahlvorstand jederzeit berichtigt werden.
 
 (7) Mit Erlaß des Wahlausschreibens ist die Wahl eingeleitet.
 
-
 ### § 38 Bekanntmachungen des Bezirkswahlvorstandes
 
 Bekanntmachungen nach den §§ 11 und 13 sind in gleicher Weise wie das
 Wahlausschreiben in den Dienststellen auszuhängen.
-
 
 ### § 39 Sitzungsniederschriften
 
@@ -1113,7 +1052,6 @@ sämtlichen Mitgliedern des Bezirkswahlvorstandes zu unterzeichnen.
 gegen das Wählerverzeichnis entschieden ist, fertigt der örtliche
 Wahlvorstand.
 
-
 ### § 40 Stimmabgabe, Stimmzettel
 
 Findet die Wahl des Bezirkspersonalrates zugleich mit der Wahl der
@@ -1121,7 +1059,6 @@ Personalräte statt, so kann für die Stimmabgabe zu beiden Wahlen
 derselbe Umschlag verwendet werden. Für die Wahl des
 Bezirkspersonalrates sind Stimmzettel von anderer Farbe als für die
 Wahl des Personalrates zu verwenden.
-
 
 ### § 41 Feststellung und Bekanntmachung des Wahlergebnisses
 
@@ -1148,21 +1085,16 @@ gewählten Bewerber feststehen, teilt sie der Bezirkswahlvorstand den
 durch zweiwöchigen Aushang in der gleichen Weise wie das
 Wahlausschreiben bekannt.
 
-
 ## Dritter Teil - Wahl des Hauptpersonalrates
-
-
 
 ### § 42 Entsprechende Anwendung der Vorschriften über die Wahl des Bezirkspersonalrates
 
 Für die Wahl des Hauptpersonalrates gelten die §§ 32 bis 41
 entsprechend, soweit sich aus den §§ 43 und 44 nichts anderes ergibt.
 
-
 ### § 43 Leitung der Wahl
 
 Der Hauptwahlvorstand leitet die Wahl des Hauptpersonalrates.
-
 
 ### § 44 Durchführung der Wahl nach Bezirken
 
@@ -1203,20 +1135,14 @@ Hauptwahlvorstand unverzüglich eingeschrieben oder fernschriftlich die
 in Absatz 1 Satz 1 Nr. 1, 2 genannten Zusammenstellungen und die
 Niederschrift über die Zusammenstellung der Wahlergebnisse (Absatz 2).
 
-
 ## Vierter Teil - Wahl des Gesamtpersonalrates
-
-
 
 ### § 45 Entsprechende Anwendung der Vorschriften über die Wahl des Personalrates
 
 Für die Wahl des Gesamtpersonalrates gelten die §§ 32 bis 41
 entsprechend.
 
-
 ## Fünfter Teil - Wahl der Jugend- und Auszubildendenvertreter
-
-
 
 ### § 46 Vorbereitung und Durchführung der Wahl der Jugend- und Auszubildendenvertretung
 
@@ -1244,7 +1170,6 @@ die Bewerber in der Reihenfolge der jeweils höchsten auf sie
 entfallenen Stimmenzahlen gewählt; bei Stimmengleichheit entscheidet
 das Los.
 
-
 ### § 47 Wahl der Jugend- und Auszubildendenstufenvertretungen
 
 (1) Für die Wahl der Jugend- und Auszubildendenstufenvertretungen nach
@@ -1264,10 +1189,7 @@ wahlberechtigten in § 57 des Gesetzes genannten Beschäftigten die in §
 (2) Für die Wahl der Gesamt-Jugend- und Auszubildendenvertretung nach
 § 64 Abs. 2 des Gesetzes gelten Absatz 1 und § 46 entsprechend.
 
-
 ## Sechster Teil - Besondere Verwaltungszweige
-
-
 
 ### § 48 Vertrauensmann in der Bundespolizei
 
@@ -1289,7 +1211,6 @@ Stimmen erhalten hat. Der Kandidat mit der zweithöchsten Stimmenzahl
 ist zum ersten Stellvertreter, der mit der dritthöchsten Stimmenzahl
 zum zweiten Stellvertreter gewählt. Bei gleicher Stimmenzahl
 entscheidet das Los.
-
 
 ### § 49 Personalvertretungen im Bundesnachrichtendienst
 
@@ -1316,14 +1237,9 @@ Abweichungen:
 4.  Die Beschäftigten von Teilen einer Dienststelle, die räumlich von
     dieser entfernt liegen, geben ihre Stimme schriftlich ab.
 
-
-
-
-
 ### § 49a
 
 -
-
 
 ### § 50 Wahl einer Personalvertretung im Inland durch Beschäftigte in Dienststellen des Bundes im Ausland
 
@@ -1341,7 +1257,6 @@ Stimmabgabe anordnen.
 (3) Wird nach Absatz 1 oder 2 die schriftliche Stimmabgabe angeordnet,
 hat der Wahlvorstand den wahlberechtigten Beschäftigten die in § 17
 Abs. 1 bezeichneten Unterlagen zu übersenden.
-
 
 ### § 51 Vertrauensmann der Ortskräfte (§ 91 Abs. 2 des Gesetzes)
 
@@ -1377,10 +1292,7 @@ ist zum ersten Stellvertreter, der mit der dritthöchsten Stimmenzahl
 zum zweiten Stellvertreter gewählt. Bei gleicher Stimmenzahl
 entscheidet das Los.
 
-
 ## Siebter Teil - Schlußvorschriften
-
-
 
 ### § 52 Berechnung von Fristen
 
@@ -1389,14 +1301,12 @@ finden die §§ 186 bis 193 des Bürgerlichen Gesetzbuchs entsprechende
 Anwendung. Arbeitstage im Sinne dieser Wahlordnung sind die Wochentage
 Montag bis Freitag mit Ausnahme der gesetzlichen Feiertage.
 
-
 ### § 53 Übergangsregelung
 
 Für Wahlen, zu deren Durchführung der Wahlvorstand spätestens vor dem
 1\. Oktober 2005 bestellt worden ist, ist die Wahlordnung zum
 Bundespersonalvertretungsgesetz in der bis zum 30. September 2005
 geltenden Fassung anzuwenden.
-
 
 ### § 54 (Inkrafttreten)
 

@@ -22,7 +22,6 @@ Neugefasst durch
 Geändert durch
 :   Art. 3 V v. 5.11.1997 I 2642
 
-
 ## § 1
 
 (1) Zu einer Gruppe verwandter Erzeugnisse (§ 3 Abs. 1 Nr. 3 Buchstabe
@@ -119,10 +118,6 @@ kann, können mehrere der folgenden Erzeugnisse zusammengefaßt werden:
     von mindestens 95% erreichen; der Vollkornanteil muß mindestens 90%
     betragen.
 
-
-
-
-
 ## § 2
 
 (1) Die Mindesterzeugungsmenge (§ 3 Abs. 1 Nr. 6 des Gesetzes) wird
@@ -166,7 +161,6 @@ erste Jahr am
 - 15. März bei Sommerraps,
 - 15. August bei Winterraps.
 
-
 ## § 3
 
 (1) Die Mindestmenge eines Liefervertrages (§ 6 Abs. 1 Nr. 4 des
@@ -180,7 +174,6 @@ als ein Liefervertrag.
 (2) Die Mindestdauer eines Liefervertrages (§ 6 Abs. 1 Nr. 5 des
 Gesetzes) wird für Lieferverträge nach Absatz 1 auf drei Jahre
 festgesetzt.
-
 
 ## § 3a
 
@@ -226,18 +219,10 @@ Die Landesregierungen können durch Rechtsverordnung
 
         festsetzen.
 
-
-
-
-
-
-
-
 ## § 4
 
 (Inkrafttreten in dem in Artikel 3 des Einigungsvertrages genannten
 Gebiet)
-
 
 ## § 5
 

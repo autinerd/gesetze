@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 2423
 
-
 ## (XXXX)
 
 Nach § 10 Absatz 1a Satz 2 Nummer 3 Buchstabe c des
@@ -25,7 +24,6 @@ Absatz 1a Satz 2 Nummer 3 Buchstabe b des Stromsteuergesetzes
 erforderliche Feststellung am 30. November 2011 getroffen hat und dass
 der Erlass, die Erstattung und die Vergütung der Steuer nach § 10 des
 Stromsteuergesetzes damit bis zum 31. Dezember 2012 gewährt werden.
-
 
 ## Schlussformel
 

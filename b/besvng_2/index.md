@@ -19,24 +19,16 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 15 Abs. 46 G v. 5.2.2009 I 160
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art I - Neufassung des Bundesbesoldungsgesetzes
-
-
 
 ## Art II - Änderung des Ersten Gesetzes zur Vereinheitlichung und Neuregelung des Besoldungsrechts in Bund und Ländern
 
-
-
 ## Art III - Anwendung der Übergangsvorschriften des Art II des 1. BesVNG auf Versorgungsempfänger
-
-
 
 ## § 1 Geltendes Recht für vorhandene Versorgungsempfänger
 
@@ -46,7 +38,6 @@ Vereinheitlichung und Neuregelung des Besoldungsrechts in Bund und
 Ländern in der Fassung des Zweiten Bundesbesoldungserhöhungsgesetzes
 weiter.
 
-
 ## § 2 Mindestversorgung
 
 Für die Bemessung der Mindestversorgungsbezüge und der
@@ -55,7 +46,6 @@ Dienstbezügen aus der Endstufe der Besoldungsgruppe A 3 die
 ruhegehaltfähige Stellenzulage nach Artikel II § 6 Abs. 1 des Ersten
 Gesetzes zur Vereinheitlichung und Neuregelung des Besoldungsrechts in
 Bund und Ländern.
-
 
 ## § 3 Erhöhte Unfallfürsorge
 
@@ -92,32 +82,21 @@ A 9 die ruhegehaltfähige Stellenzulage nach Artikel II § 6 Abs. 2 des
 Ersten Gesetzes zur Vereinheitlichung und Neuregelung des
 Besoldungsrechts in Bund und Ländern.
 
-
 ## Art IV - Änderung des Bundesbeamtengesetzes und des Beamtenrechtsrahmengesetzes
-
-
 
 ## (XXXX) §§ 1 und 2 (weggefallen)
 
 -
 
-
 ## § 3 (weggefallen)
 
 -
 
-
 ## Art V - Änderung anderer Gesetze
-
-
 
 ## Art VI - Neufassung des Gesetzes über vermögenswirksame Leistungen für Beamte, Richter, Berufssoldaten und Soldaten auf Zeit sowie des Gesetzes über die Gewährung einer jährlichen Sonderzuwendung
 
-
-
 ## Art VII - Anpassung der Versorgungsbezüge in Bund und Ländern
-
-
 
 ## § 1 Allgemeine Anpassung
 
@@ -142,7 +121,6 @@ den einzelnen Besoldungsgruppen befindlichen Besoldungsberechtigten zu
 berücksichtigen. Entsprechendes gilt bei einer allgemeinen
 Verminderung der Dienstbezüge.
 
-
 ## § 2 Anpassungszuschlag
 
 (1) Erhöht sich der durchschnittliche Besoldungsaufwand des Bundes und
@@ -157,7 +135,6 @@ allgemein vermindert, ist durch Bundesgesetz zu regeln, ob den
 Versorgungsempfängern wegen innerhalb dieses Zeitraumes eingetretener
 Verbesserungen für Besoldungsberechtigte ein Anpassungszuschlag zu
 gewähren ist.
-
 
 ## § 3 Begriffsbestimmungen
 
@@ -180,7 +157,6 @@ Juli des Jahres, in dem der Anpassungszuschlag festgestellt wird
 
 (4) Feststellungszeitraum ist die Zeit vom 1. Juli des Vorjahres bis
 zum 1. Juli des Feststellungsjahres.
-
 
 ## § 4 Berechnung des Anpassungszuschlages
 
@@ -208,7 +184,6 @@ Anpassungszuschlag zu den ruhegehaltfähigen Dienstbezügen gewährt.
 wird der Anpassungszuschlag in Höhe des Hundertsatzes nach Absatz 1
 oder 2 zu diesem Versorgungsbezug gewährt.
 
-
 ## § 5 Feststellungsverfahren
 
 (1) Die obersten Bundesbehörden oder die von ihnen ermächtigten
@@ -224,14 +199,12 @@ festzustellen.
 und gibt diesen bis zum 1. November jeden Jahres im Bundesanzeiger
 bekannt.
 
-
 ## § 6 Zahlung des Anpassungszuschlages
 
 Der Anpassungszuschlag wird den am 30. Juni des Vorjahres vorhandenen
 Versorgungsempfängern vom 1. Januar des auf das Feststellungsjahr
 folgenden Jahres an gewährt. Entsprechendes gilt für ihre
 Hinterbliebenen.
-
 
 ## § 7 Zusammenfassung von Anpassungszuschlägen
 
@@ -240,10 +213,7 @@ Anpassungszuschlages werden die Anpassungszuschläge für
 Versorgungsempfänger mit gleichem Stichtag (§ 6) jeweils zu einem
 gemeinsamen Hundertsatz zusammengezählt.
 
-
 ## Art VIII - Besondere Vorschriften für den Bereich der Sozialversicherung
-
-
 
 ## § 1
 
@@ -300,7 +270,6 @@ Funktionen für die Zahl der Beförderungsämter Obergrenzen festzulegen.
 Die Dienstposten der Aufsichtspersonen dürfen entsprechend Absatz 2
 Satz 5 bewertet und eingestuft werden.
 
-
 ## § 2
 
 (1) Für landesunmittelbare Körperschaften des öffentlichen Rechts im
@@ -324,11 +293,9 @@ aufsichtsführenden Landes anzuwenden.
 
 (2) bis (5) (weggefallen)
 
-
 ## § 3
 
 (weggefallen)
-
 
 ## § 4
 
@@ -336,10 +303,7 @@ Auf die am Tage des Inkrafttretens dieses Gesetzes vorhandenen
 dienstordnungsmäßig Angestellten findet Artikel IX §§ 11 bis 13 dieses
 Gesetzes entsprechend Anwendung.
 
-
 ## Art IX - Übergangsvorschriften
-
-
 
 ## § 1 Begriff Dienstbezüge, Verweisungen
 
@@ -353,13 +317,11 @@ die durch dieses Gesetz geändert oder gestrichen worden sind, treten
 an ihre Stelle die Vorschriften und Bezeichnungen nach den geänderten
 oder neuen Vorschriften.
 
-
 ## § 2 Ersetzung des Begriffs Mehrarbeitsentschädigung durch Mehrarbeitsvergütung
 
 Soweit in Gesetzen und Verordnung der Begriff
 "Mehrarbeitsentschädigung" verwendet wird, tritt an seine Stelle der
 Begriff "Mehrarbeitsvergütung".
-
 
 ## § 3 Gleichstellung von Beamten
 
@@ -409,7 +371,6 @@ Beamten zur Anstellung mit Dienstbezügen der Besoldungsgruppe A 10
 befunden haben, verbleiben in dieser Rechtsstellung; ihre spätere
 Anstellung erfolgt im bisherigen Eingangsamt der Besoldungsgruppe A
 10\.
-
 
 ## § 4 Überleitung der Beamten
 
@@ -524,7 +485,6 @@ Regelbesoldungsgruppe überzuleiten. Die in Absatz 5 Satz 2 Nr. 3
 aufgeführten Ämter sind nach Besoldungsgruppe A 14 zuzüglich einer
 Amtszulage von 150 DM überzuleiten.
 
-
 ## § 5 Überleitung von Beamten bei Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts in den Ländern
 
 (1) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung
@@ -560,7 +520,6 @@ Bereich zu bestimmen:
 (2) Die Ermächtigung kann auf den oder die zuständigen Minister
 übertragen werden.
 
-
 ## § 6 Besoldungsdienstalter der vorhandenen Beamten
 
 Die Festsetzung des Besoldungsdienstalters der bei Inkrafttreten
@@ -568,7 +527,6 @@ dieses Gesetzes im Amt befindlichen Beamten bleibt unberührt. Das
 Besoldungsdienstalter wird auf Antrag des Beamten neu festgesetzt,
 wenn sich auf Grund des Bundesbesoldungsgesetzes in der Fassung dieses
 Gesetzes eine Verbesserung ergibt.
-
 
 ## § 7 Überschreitung der zulässigen Zahl von Planstellen für Konrektoren an Grundschulen, Hauptschulen, Grund- und Hauptschulen, Realschulen sowie für Studiendirektoren
 
@@ -582,7 +540,6 @@ Schülern, oder die zulässige Zahl von Planstellen für
 Studiendirektoren an Gymnasien, beruflichen Schulen oder
 Studienseminaren überschritten, so sind nach Inkrafttreten dieses
 Gesetzes freiwerdende Stellen entsprechend umzuwandeln.
-
 
 ## § 8 Überleitung der Richter und Staatsanwälte
 
@@ -648,7 +605,6 @@ Besoldungsgruppe R 1 zugeordnet ist, werden übergeleitet
 An die Stelle der bisherigen Funktionsbezeichnungen treten die
 vergleichbaren Funktionsbezeichnungen der Bundesbesoldungsordnung R.
 
-
 ## § 9 Anwendung des § 38 Abs. 2 BBesG auf vorhandene Richter und Staatsanwälte
 
 § 38 Abs. 2 des Bundesbesoldungsgesetzes findet auf die am Tage des
@@ -664,7 +620,6 @@ seinem bisherigen Besoldungsdienstalter erreicht hat. Dabei entspricht
 die Stufe 1 der Anlage IV Nr. 4 der Dienstaltersstufe 6 der Anlage IV
 Nr. 1 des Bundesbesoldungsgesetzes in der Fassung dieses Gesetzes.
 
-
 ## § 10 Überschreitung der zulässigen Zahl von Planstellen für weitere aufsichtführende Richter an Amtsgerichten, Staatsanwälte als Gruppenleiter und für Oberstaatsanwälte als Abteilungsleiter oder Hauptabteilungsleiter
 
 Wird bei Inkrafttreten dieses Gesetzes die nach der Fußnote 2 zur
@@ -678,7 +633,6 @@ einer Staatsanwaltschaft mit 10 und mehr Planstellen für Staatsanwälte
 und für die nach den Fußnoten 6 und 7 zur Besoldungsgruppe R 2
 zulässige Zahl der Planstellen für Oberstaatsanwälte als
 Abteilungsleiter oder Hauptabteilungsleiter.
-
 
 ## § 11 Überleitungszulage für Beamte, Richter oder Soldaten bei Änderung der Einstufung eines Amtes und bei Wegfall oder Änderung von ruhegehaltfähigen Zulagen
 
@@ -730,7 +684,6 @@ wegen Ende der Amtszeit beendigt war und es durch eine unmittelbar
 darauf erfolgte Wiederwahl neu begründet worden ist. Die Ermächtigung
 zum Erlaß der Rechtsverordnung kann auf den zuständigen Minister
 übertragen werden.
-
 
 ## § 12 Ausgleichszulage in anderen Fällen für Beamte, Richter und Soldaten
 
@@ -800,7 +753,6 @@ Absatz 3 genannten Betrag.
 (5) Die Regelungen über andere als unter Absatz 4 fallende frühere
 Ausgleichszulagen bleiben unberührt.
 
-
 ## § 13 Wegfall der Ruhegehaltfähigkeit bei Zulagen
 
 Soweit durch dieses Gesetz eine ruhegehaltfähige Zulage durch eine
@@ -810,7 +762,6 @@ Empfänger von ruhegehaltfähigen Zulagen die neue Zulage bis zur Höhe
 der bisherigen Zulage als ruhegehaltfähig. Galt die bisherige Zulage
 als Bestandteil des Grundgehalts, gilt dies für die bisherigen
 Empfänger auch für die neue Zulage.
-
 
 ## § 14 Aufhebung von besoldungsrechtlichen Vorschriften der Länder
 
@@ -875,7 +826,6 @@ Zwischenbesoldungsgruppen, soweit sie von den Ländern übergeleitet
 werden. § 80 des Bundesbesoldungsgesetzes in der Fassung dieses
 Gesetzes bleibt unberührt.
 
-
 ## § 15 Aufhebung von bundes- und landesrechtlichen Vorschriften über Unterhaltszuschüsse
 
 Die bundes- und landesrechtlichen Vorschriften über
@@ -883,14 +833,12 @@ Unterhaltszuschüsse und entsprechende Zuwendungen an Beamte auf
 Widerruf im Vorbereitungsdienst treten außer Kraft. § 14 Abs. 2 gilt
 entsprechend.
 
-
 ## § 16 Aufhebung von landesrechtlichen Vorschriften über Sonderzuwendungen und vermögenswirksamen Leistungen
 
 Die landesrechtlichen Vorschriften über Sonderzuwendungen und
 vermögenswirksame Leistungen treten außer Kraft, soweit sie den in
 Artikel VI Nr. 1 oder 2 dieses Gesetzes erfaßten Personenkreis
 betreffen.
-
 
 ## § 17 Aufhebung von bundesrechtlichen Vorschriften über Abgelegenheitszulagen und anderen Zulagen
 
@@ -910,7 +858,6 @@ völkerrechtlicher Vertrag für einen Dienstort im Ausland die Gewährung
 einer Zulage vor, so bleibt die Zulage für Beamte mit dienstlichem
 Wohnsitz an diesem Ort aufrechterhalten.
 
-
 ## § 18 Aufhebung von Vorschriften über Erschwerniszulagen
 
 Die bundesrechtlichen Vorschriften über die Gewährung von
@@ -918,20 +865,17 @@ Erschwerniszulagen treten außer Kraft, soweit sie die Gewährung der
 Zulagen für den Dienst bei Justizvollzugsanstalten und den
 Vollzugsdienst der Berufsfeuerwehr betreffen.
 
-
 ## § 19 Ortszuschlag für Kasernierte
 
 Soweit in Gemeinschaftsunterkünften wohnenden Beamten der Länder ein
 höherer Ortszuschlag gewährt wird als nach § 39 Abs. 2 des
 Bundesbesoldungsgesetzes, verbleibt es dabei.
 
-
 ## § 20 Fortgeltung der Regelungen über künftig wegfallende Ämter des Bundes
 
 Die bei Inkrafttreten dieses Gesetzes vorhandenen Regelungen über
 künftig wegfallende Ämter des Bundes bleiben bis zum Inkrafttreten der
 Rechtsverordnung der Bundesregierung nach § 4 Abs. 5 weiter in Kraft.
-
 
 ## § 21 Zulage für Beamte an Theatern
 
@@ -943,7 +887,6 @@ Stellenzulage werden die Besonderheiten des Dienstes an Theatern,
 insbesondere die mit dem Dienst zu ungünstigen Zeiten und mit dem
 Nachtdienst verbundenen Erschwernisse sowie ein etwaiger Aufwand
 abgegolten.
-
 
 ## § 22 Fortgeltung von landesrechtlichen Vorschriften über Zulagen an Beamte von öffentlich-rechtlichen Versicherungsanstalten
 
@@ -959,7 +902,6 @@ rechtlichen Versicherungsanstalten oder Kreditinstituten allgemein
 verbundenen Erschwernisse und die mit dem Dienst verbundene Mehrarbeit
 mit abgegolten.
 
-
 ## § 23 Fortgeltung von Regelungen außerhalb der Landesbesoldungsgesetze
 
 Soweit dieses Gesetz nicht etwas anderes bestimmt, bleiben nicht in
@@ -971,7 +913,6 @@ unterstehenden Körperschaften, Anstalten und Stiftungen des
 Landesbesoldungsordnungen weiterhin in Kraft. Sie treten spätestens
 nach Ablauf von zwei Jahren seit Inkrafttreten dieser Vorschrift außer
 Kraft und dürfen nicht zugunsten der Beamten geändert werden.
-
 
 ## § 24 Aufrechterhaltung von Vorschriften für Versorgungsempfänger
 
@@ -995,14 +936,12 @@ sechs Monaten nach Inkrafttreten dieser Vorschrift eingetreten ist
 oder eintritt, bleibt ein sich nach bisherigem Recht ergebender
 höherer Ruhegehaltssatz gewahrt.
 
-
 ## § 25 Änderung der Ausgangslage für Artikel VII
 
 Artikel V des Zweiten Bundesbesoldungserhöhungsgesetzes ist mit
 Wirkung vom Inkrafttreten dieses Gesetzes mit der Maßgabe anzuwenden,
 daß in § 1 Abs. 1 Nr. 4, Abs. 2 und Abs. 4 an die Stelle des 31. März
 1973 jeweils der 30. November 1973 tritt.
-
 
 ## § 26 Übergangsvorschriften für Artikel VII
 
@@ -1040,16 +979,11 @@ anzuwenden:
     Inkrafttreten dieses Gesetzes an gewährt; Entsprechendes gilt für ihre
     Hinterbliebenen.
 
-
-
-
-
 ## § 27 Übergangsregelung für Stufenlehrer
 
 Regelungen über die Besoldung von Lehrern in einem Amt mit
 stufenbezogenem Schwerpunkt dürfen bis zum 30. Juni 1977 nicht
 getroffen werden.
-
 
 ## § 28 Übergangsregelung für Sicherheitsdienste
 
@@ -1060,10 +994,7 @@ Bundes oder der Länder sind bis zum Inkrafttreten der Vorbemerkung Nr.
 Gesetzes unverändert weiter anzuwenden; das Land Hessen darf eine
 gestaffelte Aufwandsentschädigung bis zu 150 Deutsche Mark gewähren.
 
-
 ## Art X - Überleitung von Beamten an den Hochschulen
-
-
 
 ## § 1 Übergangsregelung für Hochschullehrer
 
@@ -1079,7 +1010,6 @@ werden und nicht in ein Amt der Bundesbesoldungsordnung C oder in ein
 Amt der Bundesbesoldungsordnung A übergeleitet oder übernommen werden,
 gelten die in Absatz 1 bezeichneten Regelungen ohne die zeitliche
 Begrenzung des Absatzes 1 weiter (künftig wegfallende Ämter).
-
 
 ## § 2 Überführung in die Bundesbesoldungsordnung C
 
@@ -1174,10 +1104,6 @@ c)  nach Maßgabe sachgerechter Bewertung in die Besoldungsgruppe C 2 oder
     soweit dadurch die in § 35 des Bundesbesoldungsgesetzes bezeichneten
     Obergrenzen nicht überschritten werden.
 
-
-
-
-
 ## § 3 Überführung der wissenschaftlichen und künstlerischen Mitarbeiter
 
 Werden Beamte auf Grund des § 75 Abs. 8 des Hochschulrahmengesetzes in
@@ -1186,7 +1112,6 @@ Werden Beamte auf Grund des § 75 Abs. 8 des Hochschulrahmengesetzes in
 entsprechend und unter Wahrung ihres Besitzstandes in das Amt eines
 Akademischen Rates, Akademischen Oberrates, Akademischen Direktors
 oder Leitenden Akademischen Direktors zu übernehmen.
-
 
 ## § 4 Übergangsvorschriften für die Überführung in die Bundesbesoldungsordnung C
 
@@ -1258,7 +1183,6 @@ April 1971 (Brem. Gbl. S. 117) in die Rechtsstellung von Professoren
 überführt worden sind, ist § 2 Abs. 2 Buchstabe a, dritte Fallgruppe,
 mit der Maßgabe anzuwenden, daß an die Stelle der Besoldungsgruppe A
 15 die Besoldungsgruppe A 16 tritt.
-
 
 ## § 5 Wahrung des Besitzstandes
 
@@ -1359,15 +1283,11 @@ Vorbemerkungen Nummer 1 und Nummer 2 zur Bundesbesoldungsordnung C
 gewährten Zuschüssen darf die Summe der in diesen beiden Bestimmungen
 genannten Höchstbeträge nicht überschreiten.
 
-
 ## Art XI - Schlußvorschriften
-
-
 
 ## § 1
 
 -
-
 
 ## § 2 Berlin-Klausel
 
@@ -1376,7 +1296,6 @@ Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes
 erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 Überleitungsgesetzes.
-
 
 ## § 3 Inkrafttreten
 

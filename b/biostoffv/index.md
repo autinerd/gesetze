@@ -30,7 +30,6 @@ Kommission 95/30/EG vom 30. Juni 1995 (ABl. EG Nr. L 155 S. 41),
 97/59/EG vom 7. Oktober 1997 (ABl. EG Nr. L 282 S. 33) und
 97/65/EG vom 26. November 1997 (ABl. EG Nr. L 335 S. 17).
 
-
 ## § 1 Anwendungsbereich und Zielsetzung
 
 Diese Verordnung gilt für Tätigkeiten mit biologischen Arbeitsstoffen
@@ -39,7 +38,6 @@ Verordnung ist der Schutz der Beschäftigten vor der Gefährdung ihrer
 Sicherheit und Gesundheit bei diesen Tätigkeiten. Diese Verordnung
 gilt nicht für Tätigkeiten, die dem Gentechnikrecht unterliegen,
 soweit dort gleichwertige oder strengere Regelungen bestehen.
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -117,7 +115,6 @@ biologischen Arbeitsstoffen durchführen, gleich. Für Schüler und
 Studenten gelten die Regelungen dieser Verordnung über die Beteiligung
 an Personalvertretungen nicht.
 
-
 ## § 3 Risikogruppen für biologische Arbeitsstoffe
 
 Biologische Arbeitsstoffe werden entsprechend dem von ihnen
@@ -148,10 +145,6 @@ ausgehenden Infektionsrisiko in vier Risikogruppen eingeteilt:
     Umständen groß; normalerweise ist eine wirksame Vorbeugung oder
     Behandlung nicht möglich.
 
-
-
-
-
 ## § 4 Einstufung biologischer Arbeitsstoffe in Risikogruppen
 
 (1) Für die Einstufung der biologischen Arbeitsstoffe in die
@@ -173,7 +166,6 @@ beachten.
 (3) Kommt bei gezielten Tätigkeiten eine Einstufung in mehrere
 Risikogruppen in Betracht, so ist die Einstufung in die Risikogruppe
 mit dem höchsten Gefährdungsgrad vorzunehmen.
-
 
 ## § 5 Informationen für die Gefährdungsbeurteilung
 
@@ -205,7 +197,6 @@ zu berücksichtigen:
 
 (2) Ausgehend von den Informationen nach Absatz 1 ist die Zuordnung zu
 gezielten oder nicht gezielten Tätigkeiten vorzunehmen.
-
 
 ## § 6 Gefährdungsbeurteilung bei gezielten Tätigkeiten
 
@@ -242,7 +233,6 @@ Gefährdungsbeurteilung sind sensibilisierende und toxische Wirkungen
 zusätzlich zu berücksichtigen und geeignete Schutzmaßnahmen
 festzulegen.
 
-
 ## § 7 Gefährdungsbeurteilung bei nicht gezielten Tätigkeiten
 
 (1) Der Arbeitgeber hat die Gefährdungsbeurteilung bei nicht gezielten
@@ -275,7 +265,6 @@ die Gefährdung zu beurteilen. Die erforderlichen Schutzmaßnahmen sind
 nach dem Stand der Technik festzulegen. Absatz 2 Satz 2 und 3 gelten
 entsprechend.
 
-
 ## § 8 Durchführung der Gefährdungsbeurteilung
 
 Die Gefährdungsbeurteilung ist vor Aufnahme der Tätigkeiten
@@ -298,7 +287,6 @@ gezielten Tätigkeiten ist dieses Verzeichnis zu führen, soweit die
 biologischen Arbeitsstoffe für die Gefährdungsbeurteilung nach § 7
 maßgeblich sind.
 
-
 ## § 9 Tätigkeiten mit biologischen Arbeitsstoffen der Risikogruppe 1
 
 Die §§ 10 bis 16, ausgenommen § 10 Abs. 1, 3 und 4 und § 14 Abs. 1,
@@ -306,7 +294,6 @@ gelten nicht, wenn nach dem Ergebnis der Gefährdungsbeurteilung
 gezielte Tätigkeiten mit biologischen Arbeitsstoffen der Risikogruppe
 1 ohne sensibilisierende oder toxische Wirkungen oder nicht gezielte
 Tätigkeiten mit vergleichbarer Gefährdung durchgeführt werden.
-
 
 ## § 10 Schutzmaßnahmen
 
@@ -410,7 +397,6 @@ kennzeichnen. Biologische Arbeitsstoffe dürfen nicht in solchen
 Behältern gelagert werden, durch deren Form oder Bezeichnung der
 Inhalt mit Lebensmitteln verwechselt werden kann.
 
-
 ## § 11 Hygienemaßnahmen, Schutzausrüstungen
 
 (1) Auf der Grundlage der Gefährdungsbeurteilung sind die
@@ -438,7 +424,6 @@ Arbeitsplatz zu berücksichtigen.
 Kontamination durch biologische Arbeitsstoffe besteht, keine Nahrungs-
 und Genußmittel zu sich nehmen. Hierfür sind vor Aufnahme der
 Tätigkeit geeignete Bereiche einzurichten.
-
 
 ## § 12 Unterrichtung der Beschäftigten
 
@@ -493,7 +478,6 @@ Personalrat sind über Betriebsstörungen, die die Sicherheit oder
 Gesundheit der Beschäftigten gefährden können, und über Unfälle
 unverzüglich zu unterrichten. Dem Betriebs- oder Personalrat sind die
 in § 13 Abs. 1 bis 3 genannten Angaben zur Verfügung zu stellen.
-
 
 ## § 13 Anzeige- und Aufzeichnungspflichten
 
@@ -565,7 +549,6 @@ gleichwertig aus Anzeigen nach anderen Rechtsvorschriften entnehmen,
 kann die Anzeigepflicht auch durch Übermittlung einer Durchschrift
 dieser Anzeigen an die zuständige Behörde erfüllt werden.
 
-
 ## § 14 Behördliche Ausnahmen
 
 (1) Die zuständige Behörde kann auf schriftlichen Antrag des
@@ -589,7 +572,6 @@ erteilen. Satz 1 gilt nicht für gezielte Tätigkeiten mit biologischen
 Arbeitsstoffen der Risikogruppen 3 oder 4 sowie für nicht gezielte
 Tätigkeiten mit vergleichbarer Gefährdung.
 
-
 ## § 15 Arbeitsmedizinische Vorsorge
 
 Für den Bereich der arbeitsmedizinischen Vorsorge gilt die Verordnung
@@ -598,7 +580,6 @@ zur arbeitsmedizinischen Vorsorge vom 18. Dezember 2008 (BGBl. I S.
 Angebotsuntersuchungen enthält, in der jeweils geltenden Fassung. Dies
 gilt auch für Tätigkeiten nach § 2 Abs. 4 sowie für den in § 2 Abs. 8
 genannten Personenkreis.
-
 
 ## § 16 Unterrichtung der Behörde
 
@@ -636,7 +617,6 @@ Gesundheitsgefahr der Beschäftigten führen können. Krankheits- und
 Todesfälle, die auf Tätigkeiten mit biologischen Arbeitsstoffen
 zurückzuführen sind, sind der zuständigen Behörde unverzüglich unter
 Angabe der Tätigkeit mitzuteilen.
-
 
 ## § 17 Ausschuß für biologische Arbeitsstoffe
 
@@ -691,7 +671,6 @@ erteilen.
 
 (6) Die Geschäfte des Ausschusses führt die Bundesanstalt für
 Arbeitsschutz und Arbeitsmedizin.
-
 
 ## § 18 Ordnungswidrigkeiten und Straftaten
 
@@ -770,7 +749,6 @@ Heimarbeit Beschäftigte in ihrer Arbeitskraft oder Gesundheit
 gefährdet, ist nach § 32 Abs. 3 oder 4 des Heimarbeitsgesetzes
 strafbar.
 
-
 ## § 19 Übergangsvorschrift
 
 Anzeigepflichtige Tätigkeiten, die bei Inkrafttreten der Verordnung
@@ -778,12 +756,10 @@ bereits aufgenommen sind, müssen der zuständigen Behörde innerhalb von
 sechs Monaten nach Inkrafttreten der Verordnung angezeigt werden. § 13
 Abs. 1 Satz 2 gilt entsprechend.
 
-
 ## Anhang I Symbol für Biogefährdung
 
 (Inhalt: nicht darstellbares Symbol;
 Fundstelle: BGBl. I 1999, 56)
-
 
 ## Anhang II Sicherheitsmaßnahmen bei Tätigkeiten mit biologischen Arbeitsstoffen in Laboratorien und laborähnlichen Einrichtungen
 
@@ -970,10 +946,6 @@ Sicherheitsmaßnahmen:
     *   verbindlich, zugänglich
 
     *   verbindlich vor Ort
-
-
-
-
 
 ## Anhang III Sicherheitsmaßnahmen bei gezielten und nicht gezielten Tätigkeiten, die nicht unter Anhang II fallen
 
@@ -1228,10 +1200,6 @@ Sicherheitsmaßnahmen:
     *   inaktiviert durch erprobte chemische oder physikalische Mittel
 
     *   inaktiviert durch erprobte chemische oder physikalische Mittel
-
-
-
-
 
 ## Anhang IV (weggefallen)
 

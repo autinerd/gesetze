@@ -15,13 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 630
 
-
 ## Eingangsformel
 
 Auf Grund des § 18c Satz 1 und 2 Nr. 1 bis 4 des Umsatzsteuergesetzes
 in der Fassung der Bekanntmachung vom 21. Februar 2005 (BGBl. I S.
 386) verordnet das Bundesministerium der Finanzen:
-
 
 ## § 1 Gegenstand, Form und Frist der Meldung
 
@@ -53,10 +51,6 @@ Anzeigepflichten im Rahmen dieser Verordnung.
 2.  Fahrzeuglieferer nach § 2a des Umsatzsteuergesetzes können die Meldung
     nach Absatz 1 auf elektronischem Weg nach Maßgabe der Steuerdaten-
     Übermittlungsverordnung übermitteln oder in Papierform abgeben.
-
-
-
-
 
 ## § 2 Inhalt der Meldung
 
@@ -105,16 +99,11 @@ Die abzugebende Meldung muss folgende Angaben enthalten:
     Landfahrzeugen), die Schiffs-Identifikations-Nummer (bei
     Wasserfahrzeugen) oder die Werknummer (bei Luftfahrzeugen).
 
-
-
-
-
 ## § 3 Meldepflichtiger
 
 Zur Meldung verpflichtet ist der Unternehmer (§ 2 des
 Umsatzsteuergesetzes) oder Fahrzeuglieferer (§ 2a des
 Umsatzsteuergesetzes), der die Lieferung des Fahrzeugs ausführt.
-
 
 ## § 4 Ordnungswidrigkeit
 
@@ -123,11 +112,9 @@ Umsatzsteuergesetzes handelt, wer vorsätzlich oder leichtfertig
 entgegen § 1 Abs. 1 Satz 1 eine Meldung nicht, nicht richtig, nicht
 vollständig oder nicht rechtzeitig macht.
 
-
 ## § 5 Inkrafttreten
 
 Diese Verordnung tritt am 1. Juli 2010 in Kraft.
-
 
 ## Schlussformel
 

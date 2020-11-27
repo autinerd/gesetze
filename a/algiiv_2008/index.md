@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 19.12.2011 I 2833
 
-
 ## Eingangsformel
 
 Auf Grund des § 13 des Zweiten Buches Sozialgesetzbuch –
@@ -28,7 +27,6 @@ Dezember 2003, BGBl. I S. 2954, 2955), der durch Artikel 1 Nr. 11 des
 Gesetzes vom 20. Juli 2006 (BGBl. I S. 1706) geändert worden ist,
 verordnet das Bundesministerium für Arbeit und Soziales im
 Einvernehmen mit dem Bundesministerium der Finanzen:
-
 
 ## § 1 Nicht als Einkommen zu berücksichtigende Einnahmen
 
@@ -171,7 +169,6 @@ erwerbsfähige Leistungsberechtigte, die erwerbstätig sind oder aus
 einer Tätigkeit Bezüge oder Einnahmen erhalten, die nach § 3 Nummer
 12, 26, 26a oder 26b des Einkommensteuergesetzes steuerfrei sind.
 
-
 ## § 2 Berechnung des Einkommens aus nichtselbständiger Arbeit
 
 (1) Bei der Berechnung des Einkommens aus nichtselbständiger Arbeit (§
@@ -222,10 +219,6 @@ enthalten ist.
 
 2.  die Entscheidung über die Erbringung von Leistungen der Grundsicherung
     für Arbeitsuchende im Einzelfall keinen Aufschub duldet.
-
-
-
-
 
 ## § 3 Berechnung des Einkommens aus selbständiger Arbeit, Gewerbebetrieb oder Land- und Forstwirtschaft
 
@@ -299,7 +292,6 @@ mit dem privaten Kraftfahrzeug gefahrenen Kilometer abgesetzt werden,
 soweit der oder die erwerbsfähige Leistungsberechtigte nicht höhere
 notwendige Ausgaben für Kraftstoff nachweist.
 
-
 ## § 4 Berechnung des Einkommens in sonstigen Fällen
 
 Für die Berechnung des Einkommens aus Einnahmen, die nicht unter die
@@ -317,16 +309,11 @@ insbesondere Einnahmen aus
 
 4.  Wehr-, Ersatz- und Freiwilligendienstverhältnissen.
 
-
-
-
-
 ## § 5 Begrenzung abzugsfähiger Ausgaben
 
 Ausgaben sind höchstens bis zur Höhe der Einnahmen aus derselben
 Einkunftsart abzuziehen. Einkommen darf nicht um Ausgaben einer
 anderen Einkommensart vermindert werden.
-
 
 ## § 5a Beträge für die Prüfung der Hilfebedürftigkeit
 
@@ -346,10 +333,6 @@ Bei der Prüfung der Hilfebedürftigkeit ist zugrunde zu legen
 3.  für die ersparten häuslichen Verbrauchsausgaben bei Inanspruchnahme
     gemeinschaftlicher Mittagsverpflegung der in § 9 des Regelbedarfs-
     Ermittlungsgesetzes genannte Betrag.
-
-
-
-
 
 ## § 6 Pauschbeträge für vom Einkommen abzusetzende Beträge
 
@@ -402,7 +385,6 @@ leistungsberechtigte Person wegen dieser vorübergehenden Tätigkeit von
 seiner Wohnung und dem Tätigkeitsmittelpunkt mindestens zwölf Stunden
 abwesend ist, ein Pauschbetrag in Höhe von 6 Euro abzusetzen.
 
-
 ## § 7 Nicht zu berücksichtigendes Vermögen
 
 (1) Außer dem in § 12 Abs. 3 des Zweiten Buches Sozialgesetzbuch
@@ -417,12 +399,10 @@ erbringen, ist Vermögen nicht zu berücksichtigen, das nach § 12 Abs. 2
 des Zweiten Buches Sozialgesetzbuch abzusetzen oder nach § 12 Abs. 3
 des Zweiten Buches Sozialgesetzbuch nicht zu berücksichtigen ist.
 
-
 ## § 8 Wert des Vermögens
 
 Das Vermögen ist ohne Rücksicht auf steuerrechtliche Vorschriften mit
 seinem Verkehrswert zu berücksichtigen.
-
 
 ## § 9 Übergangsvorschrift
 
@@ -439,7 +419,6 @@ der auf diesen Teil des Bewilligungszeitraums entfällt. Für den Teil
 des Bewilligungszeitraums, der nach dem 31. Dezember 2007 liegt, ist
 bei der abschließenden Entscheidung § 3 dieser Verordnung entsprechend
 anzuwenden.
-
 
 ## § 10 Inkrafttreten, Außerkrafttreten
 

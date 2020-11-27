@@ -15,18 +15,14 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1976, 417
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art 1
 
 -
-
 
 ## Art 2
 
@@ -59,13 +55,11 @@ zum 30. Juni 1976 nach Maßgabe des § 59 Abs. 1 des Waffengesetzes
 anzumelden. § 59 Abs. 2 bis 4 des Waffengesetzes ist entsprechend
 anzuwenden.
 
-
 ## Art 3
 
 Der Bundesminister des Innern wird ermächtigt, das Waffengesetz unter
 Berücksichtigung der Änderungen durch dieses Gesetz mit neuem Datum
 bekanntzumachen und dabei Unstimmigkeiten des Wortlauts zu beseitigen.
-
 
 ## Art 4
 

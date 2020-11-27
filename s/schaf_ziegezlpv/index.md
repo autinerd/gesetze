@@ -16,14 +16,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1991, 1126
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 6 Abs. 1 Nr. 1 bis 3 des Tierzuchtgesetzes vom 22.
 Dezember 1989 (BGBl. I S. 2493) verordnet der Bundesminister für
 Ernährung, Landwirtschaft und Forsten:
-
 
 ## § 1
 
@@ -112,16 +109,13 @@ Werden dabei die Leistungsmerkmale in einem Index zusammengefaßt, so
 werden sie nach ihrer sich aus dem Zuchtprogramm ergebenden Bedeutung
 gewichtet.
 
-
 ## § 2
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage 1 (zu § 1 Abs. 3) Grundsätze für die Durchführung der Leistungsprüfungen und die Beurteilung der Wollqualität und Fellqualität sowie der äußeren Erscheinung und der Eignung zur Landschaftspflege
 
@@ -334,13 +328,6 @@ Fundstelle des Originaltextes: BGBl. I 1991, 1127 - 1128
         Zur Beurteilung der Eignung zur Landschaftspflege werden die Merkmale
         Widerstandsfähigkeit, Genügsamkeit und Marschfähigkeit zusammengefaßt
         bewertet.
-
-
-
-
-
-
-
 
 ## Anlage 2 (zu § 1 Abs. 4) Grundsätze für die Zuchtwertfeststellung
 

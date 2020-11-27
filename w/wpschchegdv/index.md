@@ -19,20 +19,17 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 9 G v. 8.12.2010 I 1864
 
-
 ## Eingangsformel
 
 Auf Grund des § 3 des Gesetzes zum Schutze des Wappens der
 Schweizerischen Eidgenossenschaft vom 27. März 1935 (Reichsgesetzbl. I
 S. 501) wird folgendes verordnet:
 
-
 ## § 1
 
 Ein aufrechtes, gleicharmiges, geradliniges weißes Kreuz auf grünem
 Grund gilt nicht als Nachahmung des schweizerischen Wappens, die
 geeignet ist, Verwechslungen hervorzurufen (§ 1 Abs. 2 des Gesetzes).
-
 
 ## § 2
 
@@ -49,11 +46,9 @@ eingetragen werden.
 
 (4) (weggefallen)
 
-
 ## § 3
 
 -
-
 
 ## Schlußformel
 

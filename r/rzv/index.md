@@ -18,8 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 1.10.2010 I 1305
 
-
-
 ## § 1 Bundesinstitut für Risikobewertung als nationales Referenzlaboratorium
 
 Das Bundesinstitut für Risikobewertung nimmt die Funktion eines
@@ -32,7 +30,6 @@ Bestimmungen über Tiergesundheit und Tierschutz (ABl. EU Nr. L 165 S.
 Aufgaben für die in Anhang VII Teil I Nr. 2 bis 8, 9, Nr. 9 nur soweit
 dort Trichinen genannt sind, Nr. 10, 11, 14, 16, 19 und 21 der
 Verordnung (EG) Nr. 882/2004 beschriebenen Bereiche wahr.
-
 
 ## § 2 Bundesamt für Verbraucherschutz und Lebensmittelsicherheit als nationales Referenzlaboratorium
 
@@ -54,7 +51,6 @@ zur Aufhebung der Richtlinien 85/358/EWG und 86/468/EWG und der
 Entscheidungen 89/187/EWG und 91/664/EWG (ABl. EG Nr. L 125 S. 10)
 beschriebenen Aufgaben wahr.
 
-
 ## § 3 Max Rubner–Institut als nationales Referenzlaboratorium
 
 Das Max Rubner–Institut nimmt die Funktion eines nationalen
@@ -68,7 +64,6 @@ vom 28.5.2004, S. 1) in der jeweils geltenden Fassung beschriebenen
 Aufgaben für die beschriebenen Bereiche nach Anhang VII Teil I Nummer
 1 und – soweit es sich um Anisakis handelt – Nummer 9 der Verordnung
 (EG) Nr. 882/2004 wahr.
-
 
 ## § 4 Nichtanwendung von Vorschriften
 

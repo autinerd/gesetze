@@ -115,17 +115,12 @@ Diese Verordnung dient der Umsetzung folgender Rechtsakte:
     gemeinschaftlicher Analysemethoden für die Bestimmung von Lasalocid-
     Natrium in Futtermitteln (ABl. EG Nr. L 207 S. 13).
 
-
-
-
-
 ## § 1 Sachlicher Anwendungsbereich
 
 Für die Untersuchung von Futtermitteln, Zusatzstoffen und
 Vormischungen (Stoffe) im Rahmen der amtlichen Überwachung werden die
 Proben nach dieser Verordnung genommen und analysiert. § 12a bleibt
 unberührt.
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -157,10 +152,6 @@ Im Sinne dieser Verordnung ist
 
     eine für die Untersuchung bestimmte Teilmenge einer Sammelprobe oder
     einer reduzierten Sammelprobe.
-
-
-
-
 
 ## § 3 Probenahmegeräte
 
@@ -201,14 +192,12 @@ werden.
 (3) Zur Herstellung von reduzierten Sammelproben und Endproben können
 Probeteiler verwendet werden.
 
-
 ## § 4 Umfang einer Partie
 
 Ist eine Partie so groß oder so gelagert, dass ihr nicht an jeder
 Stelle Einzelproben entnommen werden können, so gilt für die
 Probenahme nur der Teil als Partie, dem die Einzelproben entnommen
 worden sind.
-
 
 ## § 5 Einzelproben
 
@@ -395,7 +384,6 @@ Liter Inhalt sowie bei Futterblöcken und Lecksteinen bis zu einem
 Kilogramm Gewicht bildet jeweils der Inhalt einer Packung oder eines
 Behältnisses, ein Futterblock oder ein Leckstein die Einzelprobe. Bei
 Weidepflanzen bildet eine Handvoll des Aufwuchses die Einzelprobe.
-
 
 ## § 6 Sammelproben
 
@@ -612,10 +600,6 @@ Sammelprobe vier Kilogramm oder vier Liter nicht unterschreiten.
 
     *   1 kg oder 1 l
 
-
-
-
-
 ## § 7 Endproben
 
 (1) Aus jeder Sammelprobe sind, falls erforderlich nach Bildung einer
@@ -678,10 +662,6 @@ Mindestmenge nicht unterschreiten:
     *   Vormischungen
 
     *   250 g.
-
-
-
-
 
 ## § 8 Entnahme und Bildung der Proben
 
@@ -753,7 +733,6 @@ zwei Kilogramm oder zwei Liter reduziert werden.
 Veränderung der Zusammensetzung sowie Verunreinigung oder Beschädigung
 der Probe während des Transportes oder der Lagerung vermieden wird.
 
-
 ## § 9 Behandlung der Endproben
 
 (1) Die Endproben sind in saubere, trockene,
@@ -778,7 +757,6 @@ kennzeichnen:
 Die Kennzeichnung der Probe muss von der Plombe oder dem Siegel mit
 erfasst werden.
 
-
 ## § 10 Probenahmeprotokoll
 
 (1) Über die Probenahme ist ein Probenahmeprotokoll zu fertigen, aus
@@ -787,14 +765,12 @@ dem die Identität der Partie eindeutig hervorgeht.
 (2) Jeder Endprobe ist eine Ausfertigung des Probenahmeprotokolls
 beizufügen.
 
-
 ## § 11 Verwendung der Endproben
 
 Die Überwachungsbehörde hat unverzüglich nach der Probenahme eine
 Endprobe der mit der amtlichen Untersuchung beauftragten Stelle zu
 übersenden. Je eine weitere Endprobe ist für eine etwaige private oder
 amtlich veranlasste Gegenuntersuchung bestimmt.
-
 
 ## § 12 Analysemethoden
 
@@ -905,7 +881,6 @@ werden.
 
 (3) (weggefallen)
 
-
 ## § 12a
 
 Die Untersuchung von Stoffen auf Rückstände an
@@ -944,7 +919,6 @@ der amtlichen Sammlung von Untersuchungsverfahren nach § 35 des
 Lebensmittel- und Bedarfsgegenständegesetzes für stoffgleiche
 Lebensmittel aufgeführten Probenahmeverfahren, zu erfolgen.
 
-
 ## § 12b
 
 Bei der amtlichen Untersuchung der Gehalte von Dioxin in Futtermitteln
@@ -975,11 +949,9 @@ Futtermittelverordnung genannten unerwünschten Stoffen als Dioxin, die
 nicht in der Anlage aufgeführt sind, ist Satz 1 Nr. 3 entsprechend
 anzuwenden.
 
-
 ## § 13
 
 (Inkrafttreten)
-
 
 ## Anlage (zu § 12)
 

@@ -16,12 +16,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 2008, 854
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -32,7 +30,6 @@ grausame, unmenschliche oder erniedrigende Behandlung oder Strafe
 (BGBl. 1990 II S. 246) wird zugestimmt. Das Protokoll wird nachstehend
 mit einer amtlichen deutschen Übersetzung veröffentlicht.
 
-
 ## Art 2
 
 Die Aufgaben des Nationalen Präventionsmechanismus nach Artikel 3 des
@@ -40,7 +37,6 @@ Protokolls werden im Zuständigkeitsbereich der Länder durch eine von
 diesen einzurichtende Kommission und im Zuständigkeitsbereich des
 Bundes durch eine vom Bundesministerium der Justiz einzurichtende
 Bundesstelle wahrgenommen.
-
 
 ## Art 3
 

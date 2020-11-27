@@ -31,7 +31,6 @@ Fundstelle
     durch die Richtlinie 2006/96/EG des Rates vom 20. November 2006 (ABl.
     EU Nr. L 363 S. 81), sind beachtet worden.
 
-
 ## Eingangsformel
 
 Es verordnen
@@ -62,9 +61,7 @@ Es verordnen
 jeweils in Verbindung mit § 16b Abs. 1 Satz 2 des Tierschutzgesetzes
 nach Anhörung der Tierschutzkommission:
 
-
 ## Abschnitt 1 - Allgemeine Vorschriften
-
 
 ### § 1 Anwendungsbereich
 
@@ -79,7 +76,6 @@ damit zusammenhängenden Vorgängen sowie zur Änderung der Richtlinien
 Transporte im Sinne des Artikels 1 Abs. 5 der Verordnung (EG) Nr.
 1/2005.
 
-
 ### § 2 Zulassungsnummer
 
 Die Zulassungsnummer im Sinne des Artikels 13 Abs. 2 der Verordnung
@@ -88,7 +84,6 @@ des Transportunternehmers vorgesehenen amtlichen Schlüsselnummer des
 vom Statistischen Bundesamt herausgegebenen
 Gemeindeschlüsselverzeichnisses sowie einer vierstelligen
 Betriebsnummer gebildet.
-
 
 ### § 3 Ausnahmen für Straßentransportmittel
 
@@ -111,7 +106,6 @@ verwendet werden, die abweichend von
 
 
 verfügen. § 10 bleibt unberührt.
-
 
 ### § 4 Befähigungsnachweis
 
@@ -149,7 +143,6 @@ wiederholt oder grob gegen Vorschriften der Verordnung (EG) Nr. 1/2005
 oder dieser Verordnung verstoßen hat und Tatsachen die Annahme
 rechtfertigen, dass dies auch weiterhin geschieht.
 
-
 ### § 5 Schienentransport
 
 Zusätzlich zu den gemeinschaftsrechtlichen Vorschriften zum
@@ -174,9 +167,7 @@ Satz 1 Nr. 2 gilt nicht, soweit die Tiere im Transportmittel in
 Einzelboxen untergebracht werden. Fohlen und Halfter ungewohnte Tiere
 müssen nicht angebunden werden.
 
-
 ## Abschnitt 2 - Transport in Behältnissen
-
 
 ### § 6 Besondere Anforderungen an Behältnisse
 
@@ -198,7 +189,6 @@ der Tiere in die Behältnisse, so hat er die Einhaltung der
 Anforderungen des Satzes 1 sicherzustellen. Satz 1 Nr. 1 gilt nicht im
 Falle des Lufttransports und der mit diesem im Zusammenhang stehenden
 Landtransporte.
-
 
 ### § 7 Pflichten des Absenders
 
@@ -239,7 +229,6 @@ sowie über die Versorgung im Notfall zu machen.
 Sendung der etwa notwendige Rücktransport spätestens mit Ablauf des
 Freitags oder vor Feiertagen abgeschlossen werden kann.
 
-
 ### § 8 Nachnahmeversand
 
 (1) Der Absender darf Tiere mit Nachnahme nur versenden, soweit sie
@@ -265,9 +254,7 @@ ausgeliefert werden können, sind bei nächster Gelegenheit, spätestens
 nach Ablauf von sechs Stunden, erneut zuzustellen oder mit der
 nächsten Möglichkeit zurückzubefördern.
 
-
 ## Abschnitt 3 - Besondere Vorschriften zum Schutz von Nutztieren beim innerstaatlichen Transport
-
 
 ### § 9 Raumbedarf und Pflege
 
@@ -292,7 +279,6 @@ nach Anlage 2 Nr. 4 Spalte 2 zur Verfügung stellen.
 (3) Geschlechtsreife männliche Rinder dürfen in Gruppen nur befördert
 werden, wenn die lichte Raumhöhe bei Straßentransporten auf höchstens
 50 Zentimeter über dem Widerrist des höchsten Tieres begrenzt ist.
-
 
 ### § 10 Begrenzung von Transporten
 
@@ -329,7 +315,6 @@ Schlachtbetrieb unverzüglich abzuladen.
 Artikels 1 Abs. 2 der Verordnung (EG) Nr. 1/2005 innerstaatlich nicht
 befördert werden.
 
-
 ### § 11 Eintagsküken
 
 Zusätzlich zu den gemeinschaftsrechtlichen Vorschriften hat der
@@ -343,12 +328,7 @@ sicherzustellen, dass
 2.  in dem Bereich, in dem sich die Tiere während des Transports
     aufhalten, eine Temperatur von 25 bis 30 Grad C herrscht.
 
-
-
-
-
 ## Abschnitt 4 - Besondere Vorschriften zum Schutz von anderen Tieren als Nutztieren
-
 
 ### § 12 Meeressäugetiere und Vögel
 
@@ -362,7 +342,6 @@ andere Vögel als Hausgeflügel und Stubenvögel bei innerstaatlichen
 Transporten nur in abgedunkelten Behältnissen befördert werden. Den
 Tieren muss jedoch so viel Licht zur Verfügung stehen, dass sie sich
 orientieren und Futter sowie Wasser aufnehmen können.
-
 
 ### § 13 Wechselwarme Wirbeltiere und wirbellose Tiere
 
@@ -391,9 +370,7 @@ sichergestellt sein.
 (2) Krustentiere dürfen innerstaatlich nur im Wasser oder
 vorübergehend auf feuchter Unterlage transportiert werden.
 
-
 ## Abschnitt 5 - Grenzüberschreitender Transport
-
 
 ### § 14 Ausfuhr über bestimmte Überwachungsstellen
 
@@ -411,7 +388,6 @@ unter Angabe von Art und Anzahl der Tiere mindestens einen Werktag
 vorher anzuzeigen. Die zuständige Behörde kann Ausnahmen zulassen,
 soweit Belange des Tierschutzes nicht entgegenstehen.
 
-
 ### § 15 Anzeige der Ankunft
 
 (1) Wer Tiere im Rahmen einer wirtschaftlichen Tätigkeit aus einem
@@ -428,7 +404,6 @@ zuständige Behörde kann Ausnahmen zulassen. Die Anzeigepflicht nach
 Satz 1 gilt nicht für Tiere, deren Ankunft nach der Binnenmarkt-
 Tierseuchenschutzverordnung anzuzeigen ist.
 
-
 ### § 16 Einfuhr über bestimmte Überwachungsstellen
 
 Die Einfuhr von Tieren im Rahmen einer wirtschaftlichen Tätigkeit ist
@@ -439,7 +414,6 @@ bekannt gemacht hat. Das Bundesministerium der Finanzen kann die
 Erteilung des Einvernehmens auf Mittelbehörden seines
 Geschäftsbereichs übertragen.
 
-
 ### § 17 Einfuhrdokument
 
 Bei der Einfuhr von Kälbern oder Schweinen muss der Transport von
@@ -448,7 +422,6 @@ begleitet sein, in der bestätigt wird, dass die Tiere jeweils
 mindestens entsprechend den tierschutzrechtlichen Bestimmungen der
 Europäischen Gemeinschaft gehalten worden sind.
 
-
 ### § 18 Anforderungen an die Einfuhr
 
 Die Einfuhr von Tieren ist nur zulässig, wenn die erforderlichen
@@ -456,7 +429,6 @@ Einfuhrdokumente nach § 17 mitgeführt werden und die zuständige
 Behörde in einer Untersuchung nach § 19 festgestellt hat, dass die
 Bestimmungen der Verordnung (EG) Nr. 1/2005 und dieser Verordnung
 eingehalten sind.
-
 
 ### § 19 Einfuhruntersuchung
 
@@ -474,9 +446,7 @@ stichprobenartigen Besichtigung und Nämlichkeitskontrolle.
 
 (3) Artikel 21 der Verordnung (EG) Nr. 1/2005 bleibt unberührt.
 
-
 ## Abschnitt 6 - Befugnisse der Behörde, Ordnungswidrigkeiten
-
 
 ### § 20 Befugnisse der Behörde
 
@@ -513,7 +483,6 @@ beauftragten Personen zu unterstützen.
 
 (5) Die Artikel 23, 24 Abs. 1 und Artikel 26 der Verordnung (EG) Nr.
 1/2005 bleiben unberührt.
-
 
 ### § 21 Ordnungswidrigkeiten
 
@@ -764,10 +733,6 @@ indem er vorsätzlich oder fahrlässig
 35. als Transportunternehmer entgegen Anhang I Kapitel V Nr. 1.5 ein Tier
     nicht oder nicht rechtzeitig entlädt.
 
-
-
-
-
 ### § 22 Unterrichtung
 
 Die Länder übermitteln dem Bundesamt für Verbraucherschutz und
@@ -778,21 +743,17 @@ einen Bericht über die nach Artikel 27 Abs. 1 der Verordnung (EG) Nr.
 zusammen mit einer Analyse der wichtigsten festgestellten Mängel und
 einem Plan für ihre Behebung.
 
-
 ### § 23
 
 -
-
 
 ### § 24 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
 ### Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ### Anlage 1 (zu § 6)
 
@@ -1242,13 +1203,6 @@ Die Behältnisse müssen folgende Mindestabmessungen aufweisen:
 
         *   1
 
-
-
-
-
-
-
-
 ### Anlage 2 (zu § 9 Abs. 1 und 2) Abtrennung und Raumbedarf
 
 (Fundstelle: BGBl. I 2009, 384 - 385)
@@ -1438,13 +1392,6 @@ Die Behältnisse müssen folgende Mindestabmessungen aufweisen:
     *        *   über 120
 
         *   0,70
-
-
-
-
-
-
-
 
 ### Anlage 3 (zu § 19 Abs. 1) Durchführung der Nämlichkeitskontrolle bei Tieren
 

@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 2892
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August
@@ -29,7 +27,6 @@ Oktober 1998 (BGBl. I S. 3288) verordnet das Bundesministerium für
 Bildung und Forschung nach Anhörung des Ständigen Ausschusses des
 Bundesinstituts für Berufsbildung im Einvernehmen mit dem
 Bundesministerium für Wirtschaft und Technologie:
-
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
 
@@ -68,7 +65,6 @@ folgende Aufgaben verantwortlich wahrzunehmen:
 "Geprüfter Fachkaufmann Einkauf und Logistik/Geprüfte Fachkauffrau
 Einkauf und Logistik".
 
-
 ## § 2 Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer
@@ -98,7 +94,6 @@ wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft
 macht, dass er/sie Kenntnisse, Fertigkeiten und Erfahrungen in Einkauf
 oder Logistik erworben hat, die die Zulassung zur Prüfung
 rechtfertigen.
-
 
 ## § 3 Gliederung und Durchführung der Prüfung
 
@@ -178,7 +173,6 @@ mündlichen Ergänzungsprüfung werden zu einer Note zusammengefasst.
 Dabei wird die Bewertung der schriftlichen Prüfungsleistung doppelt
 gewichtet.
 
-
 ## § 4 Weitere Prüfung
 
 Der Prüfungsteilnehmer/die Prüfungsteilnehmerin kann beantragen, in
@@ -186,7 +180,6 @@ diesem Prüfungsverfahren oder danach die Prüfung in dem weiteren
 Prüfungsbereich gemäß § 3 Abs.3 abzulegen. § 3 Abs. 6, § 8 Abs. 4 und
 § 9 Abs. 1 gelten entsprechend. Über das Ergebnis dieser weiteren
 Prüfung ist eine Bescheinigung auszustellen.
-
 
 ## § 5 Handlungsübergreifende Qualifikationen
 
@@ -283,10 +276,6 @@ Qualifikationsschwerpunkte geprüft werden:
 
 3.  Team- und Projektmanagement.
 
-
-
-
-
 ## § 6 Handlungsspezifische Qualifikationen
 
 (1) Im Prüfungsbereich "Einkauf" soll der Prüfungsteilnehmer/die
@@ -337,10 +326,6 @@ folgende Qualifikationsschwerpunkte geprüft werden:
 
 5.  Logistikcontrolling.
 
-
-
-
-
 ## § 7 Anrechnung anderer Prüfungsleistungen
 
 Der Prüfungsteilnehmer/die Prüfungsteilnehmerin kann auf Antrag von
@@ -351,7 +336,6 @@ Bildungseinrichtung oder vor einem staatlichen Prüfungsausschuss eine
 Prüfung mit Erfolg abgelegt hat, die den Anforderungen der
 entsprechenden Prüfungsinhalte nach dieser Verordnung entspricht. Eine
 Freistellung vom situationsbezogenen Fachgespräch ist nicht zulässig.
-
 
 ## § 8 Bestehen der Prüfung
 
@@ -382,7 +366,6 @@ und ein Zeugnis gemäß der Anlage 2 auszustellen. Im Falle der
 Freistellung gemäß § 7 sind Ort und Datum der anderweitig abgelegten
 Prüfung sowie die Bezeichnung des Prüfungsgremiums anzugeben.
 
-
 ## § 9 Wiederholung der Prüfung
 
 (1) Eine Prüfung, die nicht bestanden ist, kann zweimal wiederholt
@@ -399,7 +382,6 @@ Prüfungsteilnehmerin kann beantragen, auch bestandene
 Prüfungsleistungen zu wiederholen. In diesem Fall gilt das Ergebnis
 der letzten Prüfung.
 
-
 ## § 10 Übergangsvorschriften
 
 (1) Die bei Inkrafttreten dieser Verordnung laufenden
@@ -410,11 +392,9 @@ Dezember 2004 zu Ende geführt werden.
 Prüfungsteilnehmerin die Wiederholungsprüfung gemäß dieser Verordnung
 durchführen; § 9 Abs. 2 findet in diesem Fall keine Anwendung.
 
-
 ## § 11 Inkrafttreten
 
 Die Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Anlage 1 (zu § 8 Abs. 5)
 
@@ -443,7 +423,6 @@ bestanden.
 Datum ..........................................
 Unterschrift(en) ...............................
 (Siegel der zuständigen Stelle)
-
 
 ## Anlage 2 (zu § 8 Abs. 5)
 

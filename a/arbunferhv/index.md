@@ -16,13 +16,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 2265
 
-
 ## Eingangsformel
 
 Auf Grund des § 5 Absatz 2 des Bundesstatistikgesetzes, der durch
 Artikel 3 Absatz 18 Nummer 1 des Gesetzes vom 21. Dezember 2000 (BGBl.
 I S. 1857) geändert worden ist, verordnet die Bundesregierung:
-
 
 ## § 1 Zweck, Art und Umfang der Erhebung
 
@@ -58,7 +56,6 @@ Arbeitskräfte in der Gemeinschaft (ABl. L 77 vom 14.3.1998, S. 3), die
 zuletzt durch die Verordnung (EG) Nr. 596/2009 (ABl. L 188 vom
 18\.7.2009, S. 14) geändert worden ist, ausgewählt worden sind.
 
-
 ## § 2 Erhebungsmerkmale
 
 Erhebungsmerkmale sind
@@ -91,14 +88,9 @@ Erhebungsmerkmale sind
     körperliche Belastungsfaktoren bei der Arbeit; psychische
     Belastungsfaktoren bei der Arbeit.
 
-
-
-
-
 ## § 3 Auskunftserteilung
 
 Die Erteilung der Auskunft ist freiwillig.
-
 
 ## § 4 Anwendung von Vorschriften des Mikrozensusgesetzes 2005
 
@@ -107,12 +99,10 @@ Periodizität, die Hilfsmerkmale, den Einsatz von Erhebungsbeauftragten
 sowie für die Trennung und Löschung von Erhebungs- und Hilfsmerkmalen
 gelten die §§ 2, 3, 5, 6 und 8 des Mikrozensusgesetzes 2005.
 
-
 ## § 5 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2013 in Kraft und am 31. Dezember
 2014 außer Kraft.
-
 
 ## Schlussformel
 

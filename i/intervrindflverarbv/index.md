@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 68 G v. 2.8.1994 I 2018
 
-
 ## Eingangsformel
 
 Auf Grund des § 7 Abs. 1 Satz 3 und Abs. 3 und des § 9 des Gesetzes
@@ -30,7 +29,6 @@ des § 10 Abs. 1 des Gesetzes zur Durchführung der gemeinsamen
 Marktorganisationen wird im Einvernehmen mit den Bundesministern für
 Wirtschaft und der Finanzen verordnet:
 
-
 ## § 1 Anwendungsbereich
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung der
@@ -39,7 +37,6 @@ Gemeinschaften im Rahmen der gemeinsamen Marktorganisation für
 Rindfleisch hinsichtlich der Abgabe von Rindfleisch zum Zwecke der
 Verarbeitung in der Gemeinschaft.
 
-
 ## § 2 Zuständige Stellen
 
 Zuständig für die Durchführung dieser Verordnung und der in § 1
@@ -47,11 +44,9 @@ genannten Rechtsakte ist die Bundesanstalt für Landwirtschaft und
 Ernährung (Bundesanstalt); zuständig für die amtliche Überwachung der
 Verwendung des Rindfleisches ist die Bundesfinanzverwaltung.
 
-
 ## § 3
 
 -
-
 
 ## § 4 Verarbeitung des von der Bundesanstalt abgegebenen Rindfleisches
 
@@ -81,7 +76,6 @@ Rindfleisch nicht in diesem Bezirk verarbeitet wird, ist überwachende
 Zollstelle diejenige, in deren Bezirk der Verarbeitungsbetrieb gelegen
 ist.
 
-
 ## § 5 Meldepflichten
 
 (1) Der Käufer hat jede Weitergabe des Rindfleisches unter Angabe des
@@ -98,7 +92,6 @@ Verarbeitungserzeugnisses zu melden.
 (3) In den Meldungen nach Absatz 1 und 2 sind jeweils die Nummern der
 Verkaufsrechnung und des Abholscheines der Bundesanstalt und die
 weitergegebene oder verarbeitete Rindfleischmenge anzugeben.
-
 
 ## § 6 Aufzeichnungs- und Aufbewahrungspflichten
 
@@ -139,7 +132,6 @@ beziehenden geschäftlichen Belege sind sieben Jahre lang
 aufzubewahren, soweit nicht nach anderen Vorschriften längere
 Aufbewahrungsfristen bestehen.
 
-
 ## § 7 Duldungs- und Mitwirkungspflichten
 
 Zum Zwecke der Überwachung haben der Käufer und der
@@ -154,7 +146,6 @@ haben die in Satz 1 genannten Personen auf ihre Kosten Listen mit den
 erforderlichen Angaben auszudrucken, soweit es die Zollstellen
 verlangen.
 
-
 ## § 8 Verpflichtete Personen
 
 Die Verpflichtungen, die dem Käufer und dem Verarbeitungsbetrieb
@@ -164,12 +155,10 @@ Betriebsleiter bestellen. Die Bestellung ist der überwachenden
 Zollstelle schriftlich in doppelter Ausfertigung anzuzeigen. Die
 bestellten Personen haben die Anzeige ebenfalls zu unterzeichnen.
 
-
 ## § 9 Verarbeitungsbescheinigung
 
 Nach erfolgter Verarbeitung wird dem Verarbeitungsbetrieb von der
 überwachenden Zollstelle eine Verarbeitungsbescheinigung erteilt.
-
 
 ## § 10 Verarbeitung von Rindfleisch aus anderen Mitgliedstaaten
 
@@ -194,7 +183,6 @@ Verwendung.
 (3) Im übrigen sind § 4 Abs. 2 bis 5 und die §§ 5 bis 9 sinngemäß
 anzuwenden.
 
-
 ## § 11 Verarbeitung in anderen Mitgliedstaaten
 
 Soll das von der Bundesanstalt abgegebene Rindfleisch in einem anderen
@@ -207,7 +195,6 @@ gestellen und dabei ein Kontrollexemplar in zwei Stücken unter Angabe
 der übernommenen Mengen Rindfleisch, der Nummern der Verkaufsrechnung
 der Bundesanstalt und des Abholscheines sowie mit den nach den in § 1
 genannten Rechtsakten vorgeschriebenen Eintragungen vorzulegen.
-
 
 ## § 12 Ordnungswidrige Verarbeitung
 
@@ -222,11 +209,9 @@ Sicherheiten-Verordnung besteht.
 
 (2) Der zu zahlende Betrag wird durch Bescheid festgesetzt.
 
-
 ## § 13 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlußformel
 

@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1984, 1159
 
-
-
 ## (XXXX)
 
 (1) Auf Grund des § 4 Abs. 2 Nr. 3 des Warenzeichengesetzes in der
@@ -28,11 +26,9 @@ eingeführt sind.
 (2) Diese Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom
 24\. April 1984 (BGBl. I S. 652).
 
-
 ## Schlussformel
 
 Der Bundesminister der Justiz
-
 
 ## Anlage Prüf- und Gewährzeichen der Tunesischen Republik für landwirtschaftliche Produkte
 

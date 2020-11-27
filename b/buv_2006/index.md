@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 1114
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 115 Abs. 2 Satz 1 des Siebten Buches Sozialgesetzbuch
@@ -31,7 +29,6 @@ November 2005 (BGBl. I S. 3197) verordnet das Bundesministerium des
 Innern im Einvernehmen mit dem Bundesministerium für Arbeit und
 Soziales nach Anhörung der Vertreterversammlung der Unfallkasse des
 Bundes:
-
 
 ## § 1 Anzuwendende Regelungen
 
@@ -58,7 +55,6 @@ Sozialgesetzbuch Unfallversicherungsträger ist, sind die
 
 anzuwenden.
 
-
 ## § 2 Einhaltung von Unfallverhütungsvorschriften
 
 Im Übrigen sind bis zum Erlass weiterer Verordnungen über Maßnahmen im
@@ -71,11 +67,9 @@ anerkannten Regeln der Unfallverhütung entspricht, richtet sich nach
 den von den Unfallversicherungsträgern erlassenen
 Unfallverhütungsvorschriften.
 
-
 ## § 3 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Anhang 1 (zu § 1 Nr. 1) Regelungen für den betriebsärztlichen und sicherheitstechnischen Dienst
 
@@ -746,13 +740,6 @@ erreicht werden, dass
         Der Unternehmer regelt die Organisation des arbeitsmedizinischen und
         sicherheitstechnischen Arbeitsschutzes.
 
-
-
-
-
-
-
-
 ## Anlage (zu Anhang 1) Betriebsartenverzeichnis für die Zuordnung der Unternehmen der Tabelle des Abschnitts I Abs. 3
 
 (Fundstelle: BGBl. I 2006, 1120 - 1121)
@@ -1115,10 +1102,6 @@ erreicht werden, dass
     über die richtige Zuordnung ist bei der Unfallkasse des Bundes
     anzufragen.
 
-
-
-
-
 ## Anhang 2 (zu § 1 Nr. 2) Regelungen über die Zentralstelle für Arbeitsschutz beim Bundesministerium des Innern
 
 Fundstelle des Originaltextes: BGBl. I 2006, 1122
@@ -1173,13 +1156,6 @@ beim Bundesministerium des Innern eingerichtet.
 
         Dessen Leiter oder Leiterin ist zugleich Leiter oder Leiterin der
         Zentralstelle.
-
-
-
-
-
-
-
 
 ## Anhang 3 (zu § 1 Nr. 3) Regelungen über die Bestellung von Sicherheitsbeauftragten gemäß § 22 des Siebten Buches Sozialgesetzbuch
 
@@ -1251,13 +1227,6 @@ Fundstelle des Originaltextes: BGBl. I 2006, 1123
         mitzuteilen. Die Unfallkasse des Bundes ist über jeden Wechsel von
         Sicherheitsbeauftragten zu unterrichten.
 
-
-
-
-
-
-
-
 ## Anhang 4 (zu § 1 Nr. 4) Regelungen über die Erfassung und Auswertung des Unfallgeschehens der Beamtinnen und Beamten
 
 Fundstelle des Originaltextes: BGBl. I 2006, 1124
@@ -1301,18 +1270,10 @@ anonymisierter Form.
         Das Unfallmeldeverfahren für die bei der Unfallkasse des Bundes
         versicherten Arbeitnehmerinnen und Arbeitnehmer bleibt unberührt.
 
-
-
-
-
-
-
-
 ## Anlage 1 (zu Anhang 4) Unfallanzeige Beamte
 
 Fundstelle: BGBl. I 2006, 1125
 ... nicht darstellbare Abbildung einer Unfallanzeige für Beamte
-
 
 ## Anlage 2 (zu Anhang 4) Erläuterungen zur Unfallanzeige Beamte
 

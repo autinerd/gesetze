@@ -16,12 +16,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 2231
 
-
 ## Eingangsformel
 
 Auf Grund des § 12 des Finanzausgleichsgesetzes vom 20. Dezember 2001
 (BGBl. I S. 3955, 3956) verordnet das Bundesministerium der Finanzen:
-
 
 ## § 1 Feststellung der Länderanteile an der Umsatzsteuer im Ausgleichsjahr 2010
 
@@ -106,10 +104,6 @@ Umsatzsteuer festgestellt:
 *    *   für Thüringen
 
     *   3 348 436 161,93 Euro.
-
-
-
-
 
 ## § 2 Abrechnung des Finanzausgleichs unter den Ländern im Ausgleichsjahr 2010
 
@@ -201,13 +195,6 @@ wie folgt festgestellt:
     *        *   an Thüringen
 
         *   472 220 047,33 Euro.
-
-
-
-
-
-
-
 
 ## § 3 Abschlusszahlungen für 2010
 
@@ -304,13 +291,6 @@ Verordnung fällig:
 
         *   5 916 505,05 Euro.
 
-
-
-
-
-
-
-
 ## § 4 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am siebenten Tag nach der Verkündung in Kraft.
@@ -319,7 +299,6 @@ Finanzausgleichsgesetzes im Ausgleichsjahr 2010 vom 14. April 2010
 (BGBl. I S. 435) sowie die Zweite Verordnung zur Durchführung des
 Finanzausgleichsgesetzes im Ausgleichsjahr 2009 vom 19. Oktober 2010
 (BGBl. I S. 1399) außer Kraft.
-
 
 ## Schlussformel
 

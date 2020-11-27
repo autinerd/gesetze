@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 15 Abs. 87 G v. 5.2.2009 I 160
 
-
 ## Erster Abschnitt - Aufbau und Geschäftsführung
-
-
 
 ### § 1 Bezeichnung, Aufbau und Organisation der Bundesanstalt
 
@@ -38,7 +35,6 @@ hinaus können Einheiten für sektorübergreifende Aufgaben gebildet
 werden. Die sich daraus ergebende Aufbauorganisation wird vom
 Direktorium der Bundesanstalt mit Zustimmung des Bundesministeriums
 der Finanzen (Bundesministerium) festgelegt.
-
 
 ### § 2 Rechte und Pflichten der Organe der Bundesanstalt
 
@@ -63,10 +59,7 @@ Wertpapierhandel bei der Kostentragung führen.
 (4) Das Direktorium gibt regelmäßig Veröffentlichungen der
 Bundesanstalt heraus.
 
-
 ## Zweiter Abschnitt - Verwaltungsrat
-
-
 
 ### § 3 Bestellung und Abberufung der Mitglieder des Verwaltungsrats; Vorschlagsrecht
 
@@ -149,7 +142,6 @@ Vorschlagsrecht:
 Das Vorschlagsrecht gilt, solange sich die gesetzlich festgelegte
 Sitzverteilung des Verwaltungsrats nicht ändert.
 
-
 ### § 4 Befugnisse des Verwaltungsrats, Verschwiegenheitspflicht
 
 (1) Der Verwaltungsrat überwacht und unterstützt die Geschäftsführung
@@ -205,14 +197,12 @@ Exekutivdirektor bzw. die jeweilige Exekutivdirektorin in diesem Fall
 die Berichterstattung ab, kann der Bericht nur dann verlangt werden,
 wenn drei andere Verwaltungsratsmitglieder das Verlangen unterstützen.
 
-
 ### § 5 Vertretung des Verwaltungsrats
 
 Der Verwaltungsrat wird durch den Vorsitzenden und bei dessen
 Verhinderung durch dessen Stellvertreter vertreten. Im Übrigen ist nur
 Vertretung durch den jeweiligen nach § 3 Abs. 4 Satz 2 berufenen
 Vertreter möglich.
-
 
 ### § 6 Sitzungen des Verwaltungsrats
 
@@ -263,13 +253,11 @@ zwei Monaten nach Vorlage zu beschließen. Ergeht innerhalb der Frist
 kein Beschluss, gilt der vom Direktorium vorgelegte Haushaltsplan als
 festgestellt.
 
-
 ### § 7 Verfahren
 
 Eine Beschlussfassung des Verwaltungsrats im schriftlichen Verfahren
 oder in Verfahren der Telekommunikation ist zulässig. Das Nähere
 regelt die Geschäftsordnung.
-
 
 ### § 8 Fachbeirat
 
@@ -382,10 +370,7 @@ eine Niederschrift aufzunehmen, die vom Vorsitzenden oder dessen
 Stellvertreter zu unterzeichnen ist. Das Nähere regelt die
 Geschäftsordnung.
 
-
 ## Dritter Abschnitt - Haushaltsführung
-
-
 
 ### § 9 Haushaltsplan
 
@@ -415,7 +400,6 @@ Einwilligung des Verwaltungsrats.
 
 (4) (weggefallen)
 
-
 ### § 10 Haushalt
 
 (1) Das Haushaltsjahr der Bundesanstalt ist das Kalenderjahr.
@@ -443,10 +427,7 @@ Abschlussprüfers vor. Der Bundesrechnungshof informiert den
 Verwaltungsrat über Erkenntnisse, die für die Entscheidung über die
 Entlastung des Direktoriums relevant sind.
 
-
 ## Vierter Abschnitt - Übergang von Rechten und Pflichten, Veröffentlichung
-
-
 
 ### § 11 Übergang von Rechten und Pflichten
 
@@ -456,7 +437,6 @@ Liegenschaftsverwaltung, zum IT-Service-Center und Personaltausch
 getroffenen Verwaltungsvereinbarungen gehen auf die Bundesanstalt mit
 denselben Rechten und Pflichten über, soweit nichts anderes bestimmt
 wird. Sie sind dem Verwaltungsrat zur Kenntnis zu geben.
-
 
 ### § 12 Veröffentlichung
 

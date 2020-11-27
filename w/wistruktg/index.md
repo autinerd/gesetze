@@ -18,12 +18,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 8 G v. 7.9.2007 I 2246
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## § 1 Gemeinschaftsaufgabe
 
@@ -66,7 +64,6 @@ Rückwirkungen auf das Gebiet in erheblichem Umfang absehbar sind.
 Gebiete gefördert, wenn sie in einem unmittelbaren Zusammenhang mit
 geförderten Projekten innerhalb benachbarter Fördergebiete stehen.
 
-
 ## § 2 Allgemeine Grundsätze
 
 (1) Die Förderung der in § 1 Abs. 1 genannten Maßnahmen muß mit den
@@ -99,12 +96,10 @@ Empfängers gewährt.
 
 (4a)
 
-
 ## § 3 Förderungsarten
 
 Die finanzielle Förderung kann in der Gewährung von Zuschüssen,
 Darlehen und Bürgschaften bestehen.
-
 
 ## § 4 Gemeinsamer Koordinierungsrahmen für die regionale Wirtschaftsförderung
 
@@ -138,10 +133,6 @@ weiterzuentwickeln.
 
 6.  Berichtswesen, Evaluierung und statistische Auswertungen.
 
-
-
-
-
 ## § 5 Koordinierungsausschuss
 
 (1) Für die Beschlussfassung über den gemeinsamen Koordinierungsrahmen
@@ -158,7 +149,6 @@ und der Mehrheit der Stimmen der Länder.
 
 (3) Der Koordinierungsausschuss gibt sich eine Geschäftsordnung.
 
-
 ## § 6 Durchführung und Unterrichtung
 
 (1) Die Durchführung der Maßnahmen des gemeinsamen
@@ -174,7 +164,6 @@ Deutschen Bundestag über die Durchführung des gemeinsamen
 Koordinierungsrahmens und den allgemeinen Stand der
 Gemeinschaftsaufgabe.
 
-
 ## § 7 Finanzierung
 
 (1) Der Bund trägt vorbehaltlich der Bestimmung des Artikels 91a Abs.
@@ -189,7 +178,6 @@ Maßnahmen nach § 1 Abs. 1 ist möglich.
 
 (4) Die Länder können zusätzlich eigene Mittel nach Maßgabe des
 gemeinsamen Koordinierungsrahmens einsetzen.
-
 
 ## § 8 Rückzahlung und Verzinsung der Bundesmittel
 
@@ -214,15 +202,11 @@ Falle des Absatzes 2 vom Zeitpunkt der Auszahlung der Bundesmittel an,
 im Falle der Absätze 1 und 3 ab dem 31. Tag nach Eingang des Betrages
 beim Land.
 
-
 ## (XXXX) §§ 12 und 13 (weggefallen)
-
-
 
 ## § 14 Inkrafttreten
 
 Dieses Gesetz tritt am 1. Januar 1970 in Kraft.
-
 
 ## Anhang EV Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet A Abschnitt III (BGBl. II 1990, 889, 997) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 

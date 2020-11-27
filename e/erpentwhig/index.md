@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 125 V v. 31.10.2006 I 2407
 
-
 ## § 1
 
 (1) Zur Förderung der Zusammenarbeit mit dem Ausland, insbesondere mit
@@ -35,14 +34,12 @@ Verpflichtungen durch Erfüllung erlöschen, gilt dies nur in dem
 Umfang, als zur Erfüllung die in § 3 Abs. 1 Nr. 1 bezeichneten Mittel
 verwendet worden sind.
 
-
 ## § 2
 
 Die Förderungsmittel dienen in Ergänzung anderer Leistungen,
 insbesondere des Geld- und Kapitalmarktes, zur Gewährung von Darlehen
 und für die Finanzierung von Vorhaben, für die der Bund
 Gewährleistungen übernimmt.
-
 
 ## § 3
 
@@ -66,14 +63,12 @@ ausdrücklich für den Förderungszweck bestimmt sind.
 ermächtigt, die in Absatz 1 Nr. 2 bezeichneten Geldmittel zu Lasten
 des ERP-Sondervermögens zu beschaffen.
 
-
 ## § 4
 
 Das Bundesministerium für Wirtschaft und Technologie ist ermächtigt,
 Kassenmittel zur Vorfinanzierung der Darlehen nach § 1 zu verwenden.
 Die Verwendung ist in einem Anhang zum ERP-Wirtschaftsplan und zur
 Jahresrechnung gesondert nachzuweisen.
-
 
 ## § 5
 
@@ -83,13 +78,11 @@ Jahresrechnung gesondert nachzuweisen.
 Verwaltung des ERP-Sondervermögens vom 31. August 1953
 (Bundesgesetzbl. I S. 1312), mit Ausnahme des § 2, Anwendung.
 
-
 ## § 6
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
 im Land Berlin.
-
 
 ## § 7
 

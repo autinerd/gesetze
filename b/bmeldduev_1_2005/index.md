@@ -19,14 +19,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 Abs. 5 G v. 22.12.2011 I 3044
 
-
 ## Eingangsformel
 
 Auf Grund des § 20 Abs. 2 in Verbindung mit Abs. 3 des
 Melderechtsrahmengesetzes in der Fassung der Bekanntmachung vom 19.
 April 2002 (BGBl. I S. 1342) verordnet das Bundesministerium des
 Innern:
-
 
 ## § 1 Allgemeines
 
@@ -38,7 +36,6 @@ den Fällen des § 17 Abs. 1 und 2 des Melderechtsrahmengesetzes.
 Meldebehörden im Sinne dieser Verordnung sowohl die für die
 Hauptwohnung als auch die für die Nebenwohnung des Einwohners
 zuständigen Meldebehörden. § 4 Abs. 1 bleibt unberührt.
-
 
 ## § 2 Form und Verfahren der Datenübermittlungen
 
@@ -84,7 +81,6 @@ gesichert niedergelegt.
 DSMeld werden vom Bundesministerium des Innern im Bundesanzeiger
 bekannt gemacht; dabei sind das Herausgabedatum und der Beginn ihrer
 Anwendung anzugeben.
-
 
 ## § 3 Rückmeldung
 
@@ -327,7 +323,6 @@ oder des anderen Lebenspartners hat die nach Satz 1 übermittelten
 Daten bis spätestens zum 1. Mai 2012 mit den im Melderegister
 gespeicherten Daten abzugleichen.
 
-
 ## § 4 Auswertung der Rückmeldung
 
 (1) Ist die neue Wohnung die alleinige Wohnung oder die Hauptwohnung
@@ -413,7 +408,6 @@ abweichenden Daten der richtigen Person zugeordnet werden, sollen die
 nach § 3 Absatz 2 übermittelten Daten unverändert zusätzlich
 übermittelt werden.
 
-
 ## § 5 Fortschreibung der Daten
 
 (1) Werden in § 2 Abs. 1 und 2 Nr. 6 und 8 des
@@ -470,14 +464,9 @@ zuständige Meldebehörde darüber zu unterrichten und folgende Daten zu
 
 3.  den Sterbetag (Datenblatt 1901).
 
-
-
-
-
 ## § 6 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlussformel
 

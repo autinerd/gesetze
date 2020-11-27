@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 3788
 
-
-
 ## (XXXX)
 
 Gemäß den §§ 2, 4 und 5 des am 1. Januar 2002 in Kraft tretenden

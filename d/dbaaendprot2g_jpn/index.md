@@ -18,8 +18,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1984, 194
 
-
-
 ## Art 1
 
 Dem in Bonn am 17. Februar 1983 unterzeichneten Zweiten Protokoll zur
@@ -29,7 +27,6 @@ Doppelbesteuerung bei den Steuern vom Einkommen und bei einigen
 anderen Steuern (BGBl. 1967 II S. 871) in der Fassung des Protokolls
 vom 17. April 1979 (BGBl. 1980 II S. 1182) wird zugestimmt. Das
 Protokoll wird nachstehend veröffentlicht.
-
 
 ## Art 2
 
@@ -44,12 +41,10 @@ Belastung, als sie nach den Rechtsvorschriften vor Inkrafttreten des
 Protokolls bestand, so wird die Steuer insoweit erstattet oder nicht
 erhoben.
 
-
 ## Art 3
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
-
 
 ## Art 4
 

@@ -17,13 +17,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1996, 2662
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -32,7 +29,6 @@ Bundesrepublik Deutschland und der Tschechischen Republik über den Bau
 einer Grenzbrücke an der gemeinsamen Staatsgrenze im Zuge der
 Europastraße E 49 wird zugestimmt. Der Vertrag wird nachstehend
 veröffentlicht.
-
 
 ## Art 2
 
@@ -46,7 +42,6 @@ der Einfuhr für die öffentlichen Bauverwaltungen.
 
 (3) Die in Artikel 9 des Vertrags vorgesehenen steuerlichen
 Bestimmungen sind mit Wirkung vom 13. Juli 1995 anzuwenden.
-
 
 ## Art 3
 

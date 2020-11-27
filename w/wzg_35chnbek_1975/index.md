@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1975, 2561
 
-
-
 ## (XXXX)
 
 Auf Grund des § 35 Abs. 1 des Warenzeichengesetzes in der Fassung der
@@ -27,7 +25,6 @@ Bundesrepublik Deutschland und der Regierung der Volksrepublik China
 bekanntgemacht:
 Deutsche Warenbezeichnungen werden in der Volksrepublik China in
 demselben Umfang wie inländische zum gesetzlichen Schutz zugelassen.
-
 
 ## Schlussformel
 

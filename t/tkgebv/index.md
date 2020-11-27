@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 1477
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 142 Abs. 2 Satz 1, 2, 6 und 7 des
@@ -31,7 +29,6 @@ die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post
 und Eisenbahnen im Einvernehmen mit dem Bundesministerium der Finanzen
 und dem Bundesministerium für Wirtschaft und Technologie:
 
-
 ## § 1 Erhebung von Gebühren
 
 Die gebührenpflichtigen Tatbestände und die Höhe der Gebühren
@@ -40,7 +37,6 @@ werden für die gebührenpflichtigen Amtshandlungen Auslagen nach § 10
 des Verwaltungskostengesetzes erhoben. Die Frequenzgebührenverordnung
 und die Telekommunikations-Nummerngebührenverordnung bleiben
 unberührt.
-
 
 ## § 2 Gebührenbefreiungen
 
@@ -63,11 +59,9 @@ Genannten berechtigt sind, die Gebühren Dritten aufzuerlegen. Gleiches
 gilt für Amtshandlungen nach Absatz 2, sofern die Begünstigten die
 Gebühren Dritten auferlegen können.
 
-
 ## § 3 Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 26. Juni 2004 in Kraft.
-
 
 ## Anlage 1 Gebührentatbestände für die Bearbeitung von Anträgen auf Registrierung von Anwählprogrammen über Mehrwertdienste-Rufnummern nach § 66 in Verbindung mit § 142 Abs. 1 Nr. 3, 5 und 6 des Telekommunikationsgesetzes
 
@@ -157,7 +151,6 @@ Diese Verordnung tritt mit Wirkung vom 26. Juni 2004 in Kraft.
 
 Neben den ausgewiesenen Gebührensätzen werden Auslagen entsprechend
 dem Verwaltungskostengesetz (VwKostG) gesondert erhoben.
-
 
 ## Anlage 2 Gebührentatbestände für die einzelfallbezogene Koordinierung, Anmeldung, Übertragung und Notifizierung von Satellitensystemen nach § 56 in Verbindung mit § 142 Abs. 1 Nr. 4, 5 und 6 des Telekommunikationsgesetzes
 
@@ -301,7 +294,6 @@ dem Verwaltungskostengesetz (VwKostG) gesondert erhoben. Dies betrifft
 insbesondere die ITU-Gebühren (ITU-Cost recovery), die für das jeweils
 beantragte Satellitenfunknetz von der ITU zur Deckung des dortigen
 Verwaltungsaufwandes erhoben werden.
-
 
 ## Anlage 3 Gebührentatbestände für die Entscheidung über die Übertragung von Wegerechten nach § 69 in Verbindung mit § 142 Abs. 1 Nr. 7 des Telekommunikationsgesetzes
 

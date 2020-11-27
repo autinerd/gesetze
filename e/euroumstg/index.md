@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 126 V v. 31.10.2006 I 2407
 
-
 ## § 1 Umstellung von Bundesschulden
 
 Die auf Deutsche Mark lautenden und als Bundesanleihen,
@@ -26,7 +25,6 @@ Bundesobligationen und Bundesschatzanweisungen gehandelten
 Buchschulden des Bundes, die nach dem 20. Januar 1999 zur Rückzahlung
 fällig werden, werden mit Wirkung vom 1. Januar 1999 auf Euro
 umgestellt.
-
 
 ## § 2 Umstellung der Länderschulden, der Sondervermögensschulden des Bundes und sonstiger Staatsschulden
 
@@ -43,7 +41,6 @@ dieses Gesetzes auf Euro umstellen, wenn der Mitgliedstaat, auf dessen
 nationale Währungseinheit der Schuldtitel lautet, Staatsschulden auf
 Euro umgestellt hat.
 
-
 ## § 3 Umstellung sonstiger DM-Schuldverschreibungen
 
 Auf Deutsche Mark lautende Schuldverschreibungen, die an einem
@@ -52,7 +49,6 @@ Maßgabe dieses Gesetzes ab 1. Januar 1999 auf Euro umstellen. Auf
 Schuldverschreibungen, die den Staatsschulden im Sinne des
 Europäischen Systems der volkswirtschaftlichen Gesamtrechnung
 zuzurechnen sind, findet § 2 Anwendung.
-
 
 ## § 4 Umstellung von Fremdwährungsschuldverschreibungen
 
@@ -66,7 +62,6 @@ Staatsschulden auf Euro umgestellt hat. Ist die Schuldverschreibung
 den Staatsschulden im Sinne des Europäischen Systems
 volkswirtschaftlicher Gesamtrechnungen zuzurechnen, so findet § 2
 Anwendung.
-
 
 ## § 5 Ergänzung und Änderung von Emissionsbedingungen
 
@@ -88,7 +83,6 @@ Emissionsbedingungen
 
 Für Buchschulden des Bundes und der Länder gelten die Nummern 2 und 3
 des Satzes 1.
-
 
 ## § 6 Umstellungsverfahren
 
@@ -139,7 +133,6 @@ benachrichtigen.
 von Depotbeständen ist der jeweilige Gesamtbetrag der verbrieften oder
 verbuchten Teilverbindlichkeit einer Gesamtemission abzurechnen.
 
-
 ## § 7 Fortgeltung alter Urkunden
 
 (1) Die auf Deutsche Mark oder eine andere nationale Währungseinheit
@@ -152,7 +145,6 @@ festgelegten Umrechnungskurs in Euro zu lesen ist.
 (2) Sofern die Urkunde Emissionsbedingungen enthält, die nach § 5
 geändert oder ergänzt worden sind, gelten die auf der Urkunde
 ausgedruckten Bestimmungen als nicht geschrieben.
-
 
 ## § 8 Gerichtliche Entscheidung
 
@@ -203,7 +195,6 @@ Landesjustizverwaltungen übertragen.
 und von der Höhe der Gesamtemission beträgt der Streitwert 8.000
 Deutsche Mark.
 
-
 ## § 9 Ersatz der Umstellungskosten
 
 Das Bundesministerium der Justiz wird ermächtigt, im Einvernehmen mit
@@ -216,7 +207,6 @@ befugten Unternehmen die Aufwendungen zu ersetzen hat, die diesen bei
 der Abwicklung der Umstellung entstehen. Zur Abgeltung der
 Aufwendungen kann ein Pauschbetrag festgesetzt werden, der an die
 durch die Umstellung veranlaßten Depotbuchungen anknüpft.
-
 
 ## § 10 Ende der Umstellungsfrist
 

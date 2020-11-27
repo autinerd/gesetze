@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Bek. v. 20.7.1977 I 1345
 
-
 ## (XXXX)
 
 Auf Grund des § 4 Abs. 2 Nr. 3a des Warenzeichengesetzes in der
@@ -29,11 +28,9 @@ Sonderorganisationen sowie der Organisationen unter der
 Schirmherrschaft der Vereinten Nationen von der Eintragung als
 Warenzeichen ausgeschlossen sind.
 
-
 ## Schlussformel
 
 Der Bundesminister der Justiz
-
 
 ## Anlage
 

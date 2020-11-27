@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 14.12.2011 I 2802
 
-
 ## Eingangsformel
 
 Auf Grund des § 32 Abs. 1 Satz 1 Nr. 14 und Satz 4 des
@@ -27,7 +26,6 @@ Luftverkehrsgesetzes in der Fassung der Bekanntmachung vom 14. Januar
 1981 (BGBl. I S. 61), geändert durch Artikel 4 des Gesetzes vom 2.
 Februar 1984 (BGBl. II S. 69), wird im Einvernehmen mit dem
 Bundesminister für Wirtschaft verordnet:
-
 
 ## § 1
 
@@ -44,7 +42,6 @@ gesetzlich geschuldete Umsatzsteuer hinzuzurechnen.
 
 (3) An- und Abflug sowie wiederholte Durchstartanflüge gelten als eine
 einzige Inanspruchnahme. Zähleinheit ist der Abflug.
-
 
 ## § 2
 
@@ -102,13 +99,11 @@ der Über- oder Unterzahlung der Vorjahre.
 (4) Der Gebührensatz für eine Inanspruchnahme durch ein Luftfahrzeug
 beträgt ab 1. Januar 2012 171,29 Euro.
 
-
 ## § 3
 
 Kostenschuldner ist der Halter des Luftfahrzeuges zum Zeitpunkt der
 Inanspruchnahme. Ist der Halter nicht bekannt, haftet der Eigentümer
 des Luftfahrzeuges.
-
 
 ## § 4
 
@@ -122,25 +117,18 @@ Für folgende Inanspruchnahmen werden keine Kosten erhoben:
     Luftfahrzeuge der Bundesrepublik Deutschland eine entsprechende
     Kostenbefreiung gewährt wird.
 
-
-
-
-
 ## § 5
 
 -
-
 
 ## § 6
 
 Diese Verordnung tritt am 1. Juli 1990 in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesrat hat zugestimmt.
 Der Bundesminister für Verkehr
-
 
 ## Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet C Abschnitt III (BGBl. II 1990, 889, 1106)
 

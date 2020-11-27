@@ -18,14 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 G v. 4.11.2010 I 1480
 
-
 ## § 1 Zwecke der Verdienststatistik, Anordnung als Bundesstatistik
 
 Für Zwecke wirtschaftspolitischer Planungsentscheidungen sowie zur
 Erfüllung von Berichtspflichten nach dem Recht der Europäischen
 Gemeinschaften wird eine Bundesstatistik der Arbeitsverdienste und
 Arbeitskosten durchgeführt.
-
 
 ## § 2 Art der Erhebungen, Stichprobenauswahl, Erhebungseinheiten
 
@@ -59,10 +57,6 @@ Beschäftigungsverhältnis stehen,
 2.  räumlich getrennte Teile der unter Nummer 1 fallenden juristischen
     Personen, insbesondere die Haupt- und Zweigniederlassungen sowie die
     Betriebe von Unternehmen (Teileinheiten).
-
-
-
-
 
 ## § 3 Erhebung der Arbeitsverdienste
 
@@ -116,10 +110,6 @@ der jeweils geltenden Fassung mit Ausnahme von
 
 
 4.  Abschnitt U – Exterritoriale Organisationen und Körperschaften.
-
-
-
-
 
 ## § 4 Erhebung der Struktur der Arbeitsverdienste
 
@@ -207,7 +197,6 @@ gesamten Kalendermonat Oktober kennzeichnend sind. Die
 Erhebungsmerkmale nach Absatz 1 Nr. 6 Buchstabe k und l werden derart
 erfasst, dass sie für das gesamte Kalenderjahr kennzeichnend sind.
 
-
 ## § 5 Erhebung der Struktur der Arbeitskosten
 
 (1) Die Erhebung erfasst alle vier Jahre, beginnend mit der Erfassung
@@ -256,7 +245,6 @@ gesamte vorhergehende Jahr kennzeichnend sind. Die Erhebungsmerkmale
 nach Absatz 1 Nr. 3 bis 6 werden untergliedert nach der Art des
 Beschäftigungsverhältnisses erfasst.
 
-
 ## § 6 Erhebung der Arbeitsverdienste in der Landwirtschaft
 
 (1) Die Erhebung erfasst alle vier Jahre, beginnend mit der Erfassung
@@ -300,7 +288,6 @@ des in § 3 Abs. 3 genannten Anhangs I der Verordnung (EG) Nr.
 1893/2006. Sie wird in den Ländern Berlin, Bremen, Hamburg und
 Saarland nicht durchgeführt.
 
-
 ## § 7 Hilfsmerkmale
 
 Hilfsmerkmale der Erhebungen sind:
@@ -318,10 +305,6 @@ Hilfsmerkmale der Erhebungen sind:
     Beschäftigten an, hat er die Beschäftigten unverzüglich darüber zu
     unterrichten.
 
-
-
-
-
 ## § 8 Auskunftspflicht
 
 (1) Für die Erhebungen besteht Auskunftspflicht. Die Angaben zu § 7
@@ -338,7 +321,6 @@ Kalenderjahren besteht dann keine Auskunftspflicht, wenn das
 Unternehmen im letzten abgeschlossenen Geschäftsjahr Umsätze in Höhe
 von weniger als 500.000 Euro erwirtschaftet hat.
 
-
 ## § 9 Übermittlung von Einzelangaben
 
 Das Statistische Bundesamt und die statistischen Ämter der Länder
@@ -347,7 +329,6 @@ gegenüber den gesetzgebenden Körperschaften und für Zwecke der
 Planung, jedoch nicht für die Regelung von Einzelfällen, Tabellen mit
 statistischen Ergebnissen übermitteln, auch soweit Tabellenfelder nur
 einen einzigen Fall ausweisen.
-
 
 ## § 10 Verordnungsermächtigung
 
@@ -368,10 +349,6 @@ Zustimmung des Bundesrates
     erforderlich sind, so ist durch die gleichzeitige Aussetzung der
     Erhebung anderer Erhebungsmerkmale eine Erweiterung des
     Erhebungsumfangs zu vermeiden.
-
-
-
-
 
 ## § 11 Inkrafttreten, Außerkrafttreten
 

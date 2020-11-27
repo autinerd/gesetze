@@ -18,13 +18,11 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 V v. 25.4.2006 I 988
 
-
 ## Eingangsformel
 
 Auf Grund des § 6 Abs. 1 und des § 27 Abs. 3 des
 Straßenverkehrsgesetzes wird nach Anhören der zuständigen obersten
 Landesbehörden verordnet:
-
 
 ## § 1
 
@@ -46,11 +44,9 @@ Abweichend von Nummer 3.2.1 der Anlage VIII der Straßenverkehrs-
 Zulassungs-Ordnung dürfen Sicherheitsprüfungen an diesen Fahrzeugen
 auch von geeigneten Werkstätten der Bundeswehr durchgeführt werden.
 
-
 ## § 2
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
-
 
 ## Schlußformel
 

@@ -18,13 +18,11 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 9.5.2011 I 794
 
-
 ## Eingangsformel
 
 Auf Grund des § 115 Abs. 2 des Versicherungsaufsichtsgesetzes,
 eingefügt durch Artikel 10 Nr. 4 des Gesetzes vom 26. Juni 2001 (BGBl.
 I S. 1310), verordnet die Bundesregierung:
-
 
 ## § 1 Anlagegrundsätze und Anlagemanagement
 
@@ -71,7 +69,6 @@ sind.
 (6) Die Quoten der §§ 3 und 4 beziehen sich jeweils auf die
 handelsrechtlich gebotene Bewertung von Vermögensgegenständen (§ 341
 Absatz 4, §§ 341b, 341c und 341d des Handelsgesetzbuches).
-
 
 ## § 2 Anlageformen
 
@@ -450,7 +447,6 @@ S.1) geändert worden ist, zulassen können.
 die Staaten der Europäischen Gemeinschaften sowie die Staaten des
 Abkommens über den Europäischen Wirtschaftsraum.
 
-
 ## § 3 Mischung
 
 (1) Die angemessene Verteilung des gebundenen Vermögens auf
@@ -481,10 +477,6 @@ der Aufsichtsbehörde zu für direkt und indirekt gehaltene Anlagen
     eingegangen werden, sowie für andere direkte und indirekte Anlagen
     nach § 2 Absatz 1, deren Ertrag oder Rückzahlung an Rohstoffrisiken
     gebunden ist.
-
-
-
-
 
 ## § 4 Streuung
 
@@ -561,7 +553,6 @@ Sicherungsvermögens nicht überschreiten. Wird ein Pensionsfonds von
 mehreren Unternehmen getragen, sind Anlagen in diese Unternehmen mit
 der gebotenen Vorsicht zu tätigen und angemessen zu streuen.
 
-
 ## § 5 Kongruenz
 
 Das gebundene Vermögen ist nach Maßgabe der Anlage Teil C zum
@@ -579,7 +570,6 @@ nicht in einen organisierten Markt einbezogene Aktien und Anteile
 gelten als in der Währung des Landes angelegt, in dem der Aussteller
 der Wertpapiere oder Anteile seinen Sitz hat.
 
-
 ## § 6 Übergangsregelung
 
 Die Einhaltung der Quoten nach § 4 Absatz 1 Satz 2, Absatz 2 Satz 2,
@@ -591,11 +581,9 @@ Satz 2, Absatz 2 Satz 2, Absatz 3 und 4 überschreiten, können bis zu
 ihrer Fälligkeit im Sicherungsvermögen und sonstigen gebundenen
 Vermögen verbleiben.
 
-
 ## § 7 Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2002 in Kraft.
-
 
 ## Schlussformel
 

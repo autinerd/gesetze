@@ -19,12 +19,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 301 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## § 1 Versuchsanlage des Bundes
 
@@ -37,7 +35,6 @@ nicht Bestandteil des Sondervermögens "Deutsche Bundesbahn".
 grundsätzlich auch Dritten offen. Das Nähere regelt das
 Bundesministerium für Verkehr, Bau und Stadtentwicklung durch eine
 Benutzungsordnung.
-
 
 ## § 2 Planfeststellung
 
@@ -55,7 +52,6 @@ Umweltverträglichkeit zu prüfen.
 zu versagen, wenn die Abwägung ergibt, daß der Durchführung des
 Vorhabens überwiegende öffentliche Belange entgegenstehen.
 
-
 ## § 3 Planfeststellungsbeschluß
 
 (1) Der Planfeststellungsbeschluß stellt Art und Umfang der
@@ -70,7 +66,6 @@ Ansprüche auf Unterlassung des Vorhabens, auf Beseitigung oder
 Änderung der Anlage oder auf Unterlassung ihrer Benutzung
 ausgeschlossen.
 
-
 ## § 4 Planfeststellungsbehörde
 
 Die Planfeststellung wird von der örtlich zuständigen
@@ -78,7 +73,6 @@ Bundesbahndirektion durchgeführt. Bestehen zwischen der
 Anhörungsbehörde oder einer anderen beteiligten Behörde und der
 Bundesbahndirektion Meinungsverschiedenheiten, wird der Plan vom
 Bundesministerium für Verkehr, Bau und Stadtentwicklung festgestellt.
-
 
 ## § 5 Planfeststellungsverfahren
 
@@ -90,7 +84,6 @@ Bekanntmachung vom 1. Oktober 1974 (Bundesgesetzbl. I S. 2413),
 zuletzt geändert durch
 Artikel 26 des Zuständigkeitslockerungsgesetzes vom 10. März 1975
 (Bundesgesetzbl. I S. 685),              sinngemäß.
-
 
 ## § 6 Kreuzungen mit anderen Eisenbahnen und mit Straßen
 
@@ -133,7 +126,6 @@ sinngemäß.
 sowie die Kostentragung sollen die Beteiligten eine Vereinbarung
 treffen. Kommt eine Vereinbarung nicht zustande, so hat die
 Planfeststellungsbehörde zu entscheiden.
-
 
 ## § 7 Veränderungssperre
 
@@ -179,7 +171,6 @@ während der Geltungsdauer der Festlegung zur Einsicht auszulegen sind.
 Veränderungssperre zulassen, wenn überwiegende öffentliche Belange
 nicht entgegenstehen.
 
-
 ## § 8 Vorarbeiten
 
 (1) Eigentümer und sonstige Nutzungsberechtigte haben zur Vorbereitung
@@ -197,7 +188,6 @@ deren Bereich die Vorarbeiten durchzuführen sind, bekanntzugeben.
 sonstigen Nutzungsberechtigten unmittelbare Vermögensnachteile, hat
 der Bund eine angemessene Entschädigung in Geld zu leisten.
 
-
 ## § 9 Entschädigung
 
 Kommt in den Fällen des § 7 Abs. 2 Satz 1 oder des § 8 Abs. 3 eine
@@ -205,7 +195,6 @@ Einigung über die Geldentschädigung nicht zustande, setzt die nach
 Landesrecht zuständige Behörde auf Antrag des Bundes oder des
 Berechtigten die Entschädigung fest. Vor der Entscheidung sind die
 Beteiligten zu hören.
-
 
 ## § 10 Enteignung
 
@@ -223,7 +212,6 @@ Eigentums oder eines anderen Rechts schriftlich einverstanden erklärt,
 kann das Entschädigungsverfahren unmittelbar durchgeführt werden.
 
 (4) Im übrigen sind die Enteignungsgesetze der Länder anzuwenden.
-
 
 ## § 11 Verwaltung und Betrieb der Versuchsanlage
 
@@ -249,7 +237,6 @@ sowie die auf ihr verkehrenden Fahrzeuge während des Baues oder
 während des Betriebs allen Anforderungen der Sicherheit und Ordnung
 genügen. Baufreigaben, Abnahmen, Prüfungen und Zulassungen durch
 andere Behörden finden insoweit nicht statt.
-
 
 ## § 12 Andere Versuchsanlagen
 
@@ -281,7 +268,6 @@ enthalten. Die Versuchsanlage darf erst in Betrieb genommen werden,
 wenn die zuständige oberste Landesbehörde oder die von ihr bestimmte
 Stelle die Betriebsvorschriften genehmigt hat.
 
-
 ## § 13 Beseitigung der Versuchsanlage
 
 Stellt der Betreiber fest, daß der Erprobungszweck der Anlage
@@ -289,11 +275,9 @@ entfallen ist oder die Anlage nicht anderweitig für öffentliche Zwecke
 benutzt wird, so hat er sie auf seine Kosten zu beseitigen und den
 ursprünglichen Zustand wiederherzustellen.
 
-
 ## § 14
 
 -
-
 
 ## § 15 Fortgeltung anderer Gesetze
 
@@ -304,7 +288,6 @@ Bundesverfassungsgericht vom 21. Dezember 1970 (Bundesgesetzbl. I S.
 1765),              sowie die Eisenbahngesetze der Länder bleiben
 unberührt.
 
-
 ## § 16 Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
@@ -312,7 +295,6 @@ Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes
 erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 Überleitungsgesetzes.
-
 
 ## § 17 Inkrafttreten
 

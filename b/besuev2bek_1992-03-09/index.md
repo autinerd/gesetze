@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1992, 465
 
-
-
 ## Eingangsformel -
 
 Auf Grund des § 13 der Zweiten Besoldungs-Übergangsverordnung vom 21.
@@ -29,7 +27,6 @@ Bundesbesoldungsgesetzes in der Fassung der Bekanntmachung vom 9. März
 Dienstbezügen für die Zeit ab 1. Juli 1991, bei Anwärterbezügen für
 die Zeit ab 1. April 1991, bekanntgemacht.
 Der Bundesminister des Innern
-
 
 ## Anlage 1 (Anlage IV des BBesG)
 
@@ -780,9 +777,6 @@ Fundstelle des Originaltextes: BGBl. I 1992, 466 - 468
 
     *   4359,24
 
-
-
-
 ## 2. Bundesbesoldungsordnung B
 
 *    *   Grundgehaltssätze (Monatsbeträge in DM)
@@ -851,9 +845,6 @@ Fundstelle des Originaltextes: BGBl. I 1992, 466 - 468
 *    *   B 11
 
     *   9031,47
-
-
-
 
 ## 3. Bundesbesoldungsordnung C
 
@@ -1087,9 +1078,6 @@ Fundstelle des Originaltextes: BGBl. I 1992, 466 - 468
 
     *   4886,34
 
-
-
-
 ## 4. Bundesbesoldungsordnung R
 
 *    *   Grundgehaltssätze (Monatsbeträge in DM)
@@ -1250,10 +1238,6 @@ Fundstelle des Originaltextes: BGBl. I 1992, 466 - 468
 
     *   8656,05
 
-
-
-
-
 ## Anlage 2 (Anlage V des BBesG) Ortszuschlag (Monatsbeträge in DM)
 
 Fundstelle des Originaltextes: BGBl. I 1992, 468
@@ -1348,10 +1332,6 @@ Fundstelle des Originaltextes: BGBl. I 1992, 468
 
 *    *   Tarifklasse II 332,88 DM.
 
-
-
-
-
 ## Anlage 3 (Anlage VIII des BBesG) Anwärtergrundbetrag Anwärterverheiratetenzuschlag (Monatsbeträge in DM)
 
 Fundstelle des Originaltextes: BGBl. I 1992, 469
@@ -1438,10 +1418,6 @@ Fundstelle des Originaltextes: BGBl. I 1992, 469
     *   284
 
     *   63
-
-
-
-
 
 ## Anlage 4 (Anlage IX des BBesG) Amtszulagen, Stellenzulagen, Zulagen, Vergütungen (Monatsbeträge) - in der Reihenfolge der Gesetzesstellen -
 

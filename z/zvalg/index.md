@@ -19,16 +19,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 13 Abs. 11 G v. 12.4.2012 I 579
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Erster Abschnitt - Zusatzversorgungskasse für Arbeitnehmer in der Land- und Forstwirtschaft
-
-
 
 ### § 1
 
@@ -39,7 +35,6 @@ Forstwirtschaft (ZLA) ist eine bundesunmittelbare Anstalt des
 (2) Die Aufsicht über die Zusatzversorgungskasse für Arbeitnehmer in
 der Land- und Forstwirtschaft führt das Bundesversicherungsamt. Ihm
 obliegt auch die Genehmigung der Satzung.
-
 
 ### § 2
 
@@ -64,16 +59,11 @@ b)  selbständige Nebenbetriebe und selbständige Betriebsabteilungen
     gewerblicher Unternehmen mit landwirtschaftlichem,
     forstwirtschaftlichem, wein-, obst- oder gemüsebaulichem Charakter.
 
-
-
-
-
 ### § 3
 
 Organe der Zusatzversorgungskasse für Arbeitnehmer in der Land- und
 Forstwirtschaft sind die Vertreterversammlung, der Vorstand und der
 Geschäftsführer.
-
 
 ### § 4
 
@@ -93,23 +83,19 @@ Zusatzversorgungskasse durchgeführt werden.
 
 (3)
 
-
 ### § 5
 
 Der Vorstand besteht aus je drei Vertretern der Gruppen der
 Arbeitnehmer und der Arbeitgeber.
-
 
 ### § 6
 
 Geschäftsführer der Zusatzversorgungskasse ist der Geschäftsführer der
 Sozialversicherung für Landwirtschaft, Forsten und Gartenbau.
 
-
 ### § 7
 
 -
-
 
 ### § 8
 
@@ -117,7 +103,6 @@ Der Haushaltsplan bedarf der Genehmigung des Bundesministeriums für
 Ernährung, Landwirtschaft und Verbraucherschutz, die nur im
 Einvernehmen mit dem Bundesministerium der Finanzen und dem
 Bundesministerium für Arbeit und Soziales erteilt werden kann.
-
 
 ### § 9
 
@@ -133,7 +118,6 @@ Bundesministerium der Finanzen und dem Bundesministerium für Arbeit
 und Soziales erteilt werden kann. Die Verwaltungsvereinbarung ist in
 derselben Weise wie die Satzung der Zusatzversorgungskasse zu
 veröffentlichen.
-
 
 ### § 10
 
@@ -152,10 +136,7 @@ Landwirtschaft und Verbraucherschutz tritt.
 öffentlich-rechtliche Streitigkeiten in Angelegenheiten dieses
 Gesetzes.
 
-
 ## Zweiter Abschnitt - Ausgleichsleistungen an Arbeitnehmer der Land- und Forstwirtschaft
-
-
 
 ### § 11
 
@@ -170,7 +151,6 @@ nicht gewährleistet ist, weil eine Tarifgebundenheit nicht besteht;
 landwirtschaftliche Arbeitnehmer, deren Beschäftigungsverhältnis
 voraussichtlich nicht länger als sechs Monate dauert, können hiervon
 ausgenommen sein.
-
 
 ### § 12
 
@@ -315,12 +295,10 @@ Altersrente keine Pflichtbeiträge mehr zur gesetzlichen
 Rentenversicherung gezahlt hat oder eine selbständige Erwerbstätigkeit
 nicht ausgeübt hat.
 
-
 ### § 13
 
 Die Kosten der Ausgleichsleistung einschließlich ihrer
 Verwaltungskosten trägt der Bund.
-
 
 ### § 14
 
@@ -357,7 +335,6 @@ Berechtigten, die Anspruch auf die Ausgleichsleistung für den
 unverheirateten Berechtigten haben, mindestens drei Fünftel dieses
 Betrages.
 
-
 ### § 14a
 
 (1) Wird eine Ausgleichsleistung nur unter Berücksichtigung des § 12
@@ -378,7 +355,6 @@ mit dem Verhältnis des nach dem Gesetz über die Alterssicherung der
 Landwirte ermittelten allgemeinen Rentenwertes (Ost) zu dem nach dem
 Gesetz über die Alterssicherung der Landwirte ermittelten allgemeinen
 Rentenwert.
-
 
 ### § 15
 
@@ -410,10 +386,7 @@ Ausgleichsleistung auch für die Zeit vom 1. Januar 1995 bis 30. Juni
 
 (4)
 
-
 ## Dritter Abschnitt - Sonstige Aufgaben der Zusatzversorgungskasse
-
-
 
 ### § 16
 
@@ -430,20 +403,15 @@ die Zusatzversorgungskasse in Anspruch nehmen, haben sie der
 Zusatzversorgungskasse die hierdurch entstehenden Verwaltungskosten zu
 erstatten.
 
-
 ## Vierter Abschnitt - Übergangs- und Schlußvorschriften
-
-
 
 ### § 17
 
 -
 
-
 ### § 18
 
 -
-
 
 ### § 19
 

@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 5 Abs. 10 G v. 24.2.2012 I 212
 
-
 ## Eingangsformel
 
 Auf Grund des § 2 Abs. 1 Satz 2 des Erneuerbare-Energien-Gesetzes vom
@@ -31,7 +30,6 @@ Bundesministerien für Verbraucherschutz, Ernährung und Landwirtschaft
 und für Wirtschaft und Technologie unter Wahrung der Rechte des
 Bundestages:
 
-
 ## § 1 Aufgabenbereich
 
 Diese Verordnung regelt für den Anwendungsbereich des Erneuerbare-
@@ -43,7 +41,6 @@ einsatzstoffbezogene Vergütung zu berechnen ist, welche technischen
 Verfahren zur Stromerzeugung aus Biomasse in den Anwendungsbereich des
 Gesetzes fallen und welche Umweltanforderungen bei der Erzeugung von
 Strom aus Biomasse einzuhalten sind.
-
 
 ## § 2 Anerkannte Biomasse
 
@@ -99,7 +96,6 @@ der am 31. Juli 2004 geltenden Fassung Strom erzeugt und vor dem 1.
 April 2000 bereits als Strom aus Biomasse vergütet worden ist, gelten
 in diesen Anlagen weiterhin als Biomasse. Dies gilt nicht für Stoffe
 nach § 3 Nr. 4. § 5 Abs. 2 findet keine Anwendung.
-
 
 ## § 2a Energieerträge anerkannter Biomasse
 
@@ -241,10 +237,6 @@ Nicht als Biomasse im Sinne dieser Verordnung gelten:
 
 11. Klärgas.
 
-
-
-
-
 ## § 4 Technische Verfahren
 
 (1) Als technische Verfahren zur Erzeugung von Strom aus Biomasse im
@@ -283,7 +275,6 @@ unter Sauerstoffmangel erzeugtes Gas (Synthesegas) eingesetzt werden,
 wenn das Gas (Synthesegas) aus Klärschlamm im Sinne der
 Klärschlammverordnung erzeugt worden ist.
 
-
 ## § 5 Umweltanforderungen
 
 Zur Vermeidung und Verminderung von Umweltverschmutzungen, zum Schutz
@@ -293,16 +284,13 @@ umweltverträglichen Umgangs mit Abfällen sind die für die jeweiligen
 technischen Verfahren sowie den Einsatz der betreffenden Stoffe
 geltenden Vorschriften des öffentlichen Rechts einzuhalten.
 
-
 ## § 6 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung ist Kraft.
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage 1 (zu § 2a Absatz 2) Einsatzstoffe, die keinen Anspruch auf eine einsatzstoffbezogene Vergütung begründen, und ihr Energieertrag
 
@@ -755,9 +743,6 @@ Der Bundesrat hat zugestimmt.
 *    *   Die Anlagenbetreiberin oder der Anlagenbetreiber kann anstelle einer
         Verwendung der Werte nach den Nummern 56 bis 58 den Heizwert nach DIN
         EN 14918 bestimmen lassen.
-
-
-
 
 ## Anlage 2 (zu § 2a Absatz 1 und 2) Einsatzstoffe der Einsatzstoffvergütungsklasse I und ihr Energieertrag
 

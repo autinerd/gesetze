@@ -18,15 +18,12 @@ Fundstelle
 Geändert durch
 :   Art. 15 Abs. 39 G v. 5.2.2009 I 160
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 33 Abs. 4 und des § 35 Abs. 2 des
 Bundesbesoldungsgesetzes in der Fassung der Bekanntmachung vom 6.
 August 2002 (BGBl. I S. 3020) verordnet das Bundesministerium der
 Verteidigung:
-
 
 ## § 1 Geltungsbereich
 
@@ -38,7 +35,6 @@ Bundesbesoldungsordnung W übertragen sind. Die Verordnung regelt
 ferner die Ruhegehaltfähigkeit befristet gewährter Leistungsbezüge und
 die Teilnahme von Leistungsbezügen an den regelmäßigen
 Besoldungsanpassungen.
-
 
 ## § 2 Leistungsbezüge
 
@@ -55,10 +51,6 @@ Leistungsbezüge werden in den Besoldungsgruppen W 2 und W 3 vergeben
 3.  für die Wahrnehmung von Funktionen oder besonderen Aufgaben im Rahmen
     der Selbstverwaltung oder der Leitung der Universität (Funktions-
     Leistungsbezüge).
-
-
-
-
 
 ## § 3 Berufungs- und Bleibe-Leistungsbezüge
 
@@ -103,7 +95,6 @@ Arbeitgebers nachweist.
 Besoldungsanpassungen nach § 14 des Bundesbesoldungsgesetzes mit dem
 Prozentsatz teil, um den sich das Grundgehalt der Besoldungsgruppe
 verändert, der die Professorin oder der Professor angehört.
-
 
 ## § 4 Besondere Leistungsbezüge
 
@@ -215,7 +206,6 @@ aus gleichem Grund beabsichtigte befristete monatliche Zahlung.
 
 (7) § 3 Abs. 3 gilt entsprechend.
 
-
 ## § 5 Funktions-Leistungsbezüge
 
 (1) Funktions-Leistungsbezüge können an die hauptamtlichen Mitglieder
@@ -240,7 +230,6 @@ regelmäßigen Besoldungsanpassungen nach § 14 des
 Bundesbesoldungsgesetzes mit dem Prozentsatz teil, um den sich das
 Grundgehalt der Besoldungsgruppe verändert, der die Professorin oder
 der Professor oder das Mitglied der Universitätsleitung angehört.
-
 
 ## § 6 Forschungs- und Lehrzulage
 
@@ -279,7 +268,6 @@ Universität. Ein Überschreiten des in Absatz 2 Satz 1 festgelegten
 Höchstsatzes bedarf der Zustimmung des Bundesministeriums der
 Verteidigung.
 
-
 ## § 7 Ruhegehaltfähigkeit
 
 (1) Wiederholt befristet vergebene Leistungsbezüge nach den §§ 3 und 4
@@ -293,7 +281,6 @@ Leistungsbezügen nach den §§ 3 und 4 zusammen, gilt für die Höhe des
 ruhegehaltfähigen Betrages der unbefristet und befristet vergebenen
 Leistungsbezüge insgesamt die Begrenzung in § 33 Abs. 3 Satz 1
 Halbsatz 1 des Bundesbesoldungsgesetzes.
-
 
 ## § 8 Sonstige Bestimmungen
 
@@ -318,7 +305,6 @@ Bundesministeriums der Verteidigung erlässt. Abweichend von Satz 1
 entscheidet über die Vergabe von Funktions-Leistungsbezügen nach § 5
 für die hauptamtlichen Mitglieder der Universitätsleitung das
 Bundesministerium der Verteidigung.
-
 
 ## § 9 Inkrafttreten
 

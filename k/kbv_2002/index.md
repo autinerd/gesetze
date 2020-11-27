@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2000, 1790, 1805
 
-
-
 ## § 1 Änderung oder Berichtigung von Steuerfestsetzungen
 
 (1) Festsetzungen der
@@ -55,13 +53,11 @@ Steuerbescheid festgesetzt worden sind.
 durch Lohnsteuer-Anmeldung bewirkte Festsetzung unanfechtbar geworden,
 gilt Absatz 2 entsprechend.
 
-
 ## § 2 Änderung oder Berichtigung der Festsetzung eines Gewerbesteuermessbetrages
 
 Die Festsetzung eines Gewerbesteuermessbetrages wird nur geändert oder
 berichtigt, wenn die Abweichung zur bisherigen Festsetzung mindestens
 2 Euro beträgt.
-
 
 ## § 3 Änderung oder Berichtigung der gesonderten Feststellung von Einkünften
 
@@ -75,19 +71,16 @@ Nr. 2 Buchstabe b der Abgabenordnung die Feststellung zur Höhe der
 Einkünfte nur geändert oder berichtigt, wenn sich diese Einkünfte um
 mindestens 20 Euro ermäßigen oder erhöhen.
 
-
 ## § 4 Änderung oder Berichtigung der Festsetzung einer Investitions- oder Eigenheimzulage
 
 Investitions- oder Eigenheimzulagebescheide werden nur geändert oder
 berichtigt, wenn sich die Investitionszulage oder die Eigenheimzulage
 um mindestens 10 Euro ändert.
 
-
 ## § 5 Rückforderung von Wohnungsbauprämien
 
 Wohnungsbauprämien werden nur zurückgefordert, wenn die Rückforderung
 mindestens 10 Euro beträgt.
-
 
 ## § 6 Kraftfahrzeugsteuer bei Beendigung der Steuerpflicht
 

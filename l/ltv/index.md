@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 14.12.2012 I 2660
 
-
 ## § 1
 
 (1) Für Wasserfahrzeuge, die ein Seelotsrevier befahren, sind
@@ -153,7 +152,6 @@ oder flüssiger Ladung einschließlich Tanker in Ballast sowie für
 Schiffe mit feuergefährlicher oder explosiver Gesamtladung, die einen
 Seelotsen annehmen.
 
-
 ## § 2
 
 (1) Für die Leistungen der Seelotsen sind Lotsgelder (Beratungsgeld,
@@ -225,7 +223,6 @@ Wismar/Rostock/Stralsund um 15 vom Hundert für Schiffe mit gasförmiger
 oder flüssiger Ladung einschließlich Tanker in Ballast sowie für
 Schiffe mit feuergefährlicher oder explosiver Gesamtladung.
 
-
 ## § 3
 
 Zur Zahlung der Lotsabgaben und der Lotsgelder sind neben dem
@@ -233,7 +230,6 @@ Eigentümer des Wasserfahrzeuges diejenigen Personen verpflichtet, die
 das Befahren des Reviers und die Inanspruchnahme der Leistungen der
 Seelotsen im eigenen oder fremden Namen veranlasst haben. Mehrere
 Zahlungspflichtige haften als Gesamtschuldner.
-
 
 ## § 4
 
@@ -249,7 +245,6 @@ des Bürgerlichen Gesetzbuches findet entsprechend Anwendung.
 die Tätigkeit der Seelotsen von der Zahlung eines angemessenen
 Vorschusses oder von einer angemessenen Sicherheitsleistung abhängig
 gemacht werden.
-
 
 ## § 5
 
@@ -275,7 +270,6 @@ beginnt eine neue Verjährung.
 Lotsgelder angefochten, so erlöschen Ansprüche aus ihr nicht vor
 Ablauf von sechs Monaten, nachdem die Entscheidung unanfechtbar
 geworden ist oder das Verfahren sich auf andere Weise erledigt hat.
-
 
 ## § 6
 
@@ -351,7 +345,6 @@ Bruttoraumzahl zugrunde gelegt:
 unter 0,50 € nach unten abgerundet und ab 0,50 € nach oben
 aufgerundet.
 
-
 ## § 7
 
 (1) Die Lotsabgaben und Lotsgelder werden von den für das Seelotswesen
@@ -362,7 +355,6 @@ Zahlungen beauftragen.
 (2) Die zuständige Wasser- und Schifffahrtsdirektion kann von der
 Zahlung der Lotsabgaben aus Gründen des öffentlichen Interesses ganz
 oder teilweise befreien.
-
 
 ## Anlage 1 (zu § 1 Absatz 1) Verzeichnis und Tabelle der Lotsabgaben
 
@@ -2045,8 +2037,6 @@ Die Lotsabgabe beträgt
 
     *   2 954
 
-
-
 ## **Teil II**
 
 
@@ -3238,8 +3228,6 @@ Die Lotsabgabe beträgt
 
     *   2 506
 
-
-
 ## **Teil III**
 
 
@@ -4214,9 +4202,6 @@ Die Lotsabgabe beträgt
     *   2 506
 
     *   2 506.
-
-
-
 
 ## Anlage 1a (zu § 1 Absatz 1a)
 
@@ -5406,8 +5391,6 @@ Die Lotsabgabe beträgt
 
     *   2 538
 
-
-
 ### Teil II
 
 
@@ -6593,8 +6576,6 @@ Die Lotsabgabe beträgt
 
     *   2 153
 
-
-
 ### Teil III
 
 
@@ -7564,9 +7545,6 @@ Die Lotsabgabe beträgt
     *   2 153
 
     *   2 153
-
-
-
 
 ## Anlage 1b (zu § 1 Absatz 1a)
 
@@ -8756,8 +8734,6 @@ Die Lotsabgabe beträgt
 
     *   2 685
 
-
-
 ### Teil II
 
 
@@ -9943,8 +9919,6 @@ Die Lotsabgabe beträgt
 
     *   2 278
 
-
-
 ### Teil III
 
 
@@ -10914,9 +10888,6 @@ Die Lotsabgabe beträgt
     *   2 278
 
     *   2 278
-
-
-
 
 ## Anlage 2
 
@@ -13028,8 +12999,6 @@ bezgl. einzelner Änderungen vgl. Fußnote)
 
     *   3 700
 
-
-
 ## **Teil II**
 
 
@@ -14172,8 +14141,6 @@ bezgl. einzelner Änderungen vgl. Fußnote)
 
     *   2 660
 
-
-
 ## **Teil III**
 
 
@@ -15108,8 +15075,6 @@ bezgl. einzelner Änderungen vgl. Fußnote)
     *   3 575
 
     *   2 788
-
-
 
 ## **Teil IV**
 

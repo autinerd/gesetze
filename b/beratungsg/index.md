@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 Abs. 2 G v. 22.12.2011 I 2975
 
-
 ## Abschnitt 1 - Aufklärung, Verhütung, Familienplanung und Beratung
-
-
 
 ### § 1 Aufklärung
 
@@ -56,7 +53,6 @@ Frauenärztinnen und Frauenärzte, Ärztinnen und Ärzte sowie
 medizinische Einrichtungen, die pränataldiagnostische Maßnahmen
 durchführen, Humangenetikerinnen und Humangenetiker, Hebammen sowie an
 alle Institutionen der Jugend- und Bildungsarbeit abgegeben.
-
 
 ### § 2 Beratung
 
@@ -112,7 +108,6 @@ Beratung hinzuzuziehen.
 (3) Zum Anspruch auf Beratung gehört auch die Nachbetreuung nach einem
 Schwangerschaftsabbruch oder nach der Geburt des Kindes.
 
-
 ### § 2a Aufklärung und Beratung in besonderen Fällen
 
 (1) Sprechen nach den Ergebnissen von pränataldiagnostischen Maßnahmen
@@ -154,7 +149,6 @@ Beratung und Vermittlung nach den Absätzen 1 und 2 oder über den
 Verzicht darauf einzuholen, nicht aber vor Ablauf der Bedenkzeit nach
 Absatz 2 Satz 2.
 
-
 ### § 3 Beratungsstellen
 
 Die Länder stellen ein ausreichendes Angebot wohnortnaher
@@ -162,7 +156,6 @@ Beratungsstellen für die Beratung nach § 2 sicher. Dabei werden auch
 Beratungsstellen freier Träger gefördert. Die Ratsuchenden sollen
 zwischen Beratungsstellen unterschiedlicher weltanschaulicher
 Ausrichtung auswählen können.
-
 
 ### § 4 Öffentliche Förderung der Beratungsstellen
 
@@ -187,10 +180,7 @@ angemessene öffentliche Förderung der Personal- und Sachkosten.
 
 (4) Näheres regelt das Landesrecht.
 
-
 ## Abschnitt 2 - Schwangerschaftskonfliktberatung
-
-
 
 ### § 5 Inhalt der Schwangerschaftskonfliktberatung
 
@@ -226,7 +216,6 @@ Schutz des ungeborenen Lebens.
 Die Beratung unterrichtet auf Wunsch der Schwangeren auch über
 Möglichkeiten, ungewollte Schwangerschaften zu vermeiden.
 
-
 ### § 6 Durchführung der Schwangerschaftskonfliktberatung
 
 (1) Eine ratsuchende Schwangere ist unverzüglich zu beraten.
@@ -255,7 +244,6 @@ hinzuzuziehen.
 (4) Die Beratung ist für die Schwangere und die nach Absatz 3 Nr. 3
 hinzugezogenen Personen unentgeltlich.
 
-
 ### § 7 Beratungsbescheinigung
 
 (1) Die Beratungsstelle hat nach Abschluß der Beratung der Schwangeren
@@ -271,7 +259,6 @@ werden, wenn durch eine Fortsetzung des Beratungsgesprächs die
 Beachtung der in § 218a Abs. 1 des Strafgesetzbuches vorgesehenen
 Fristen unmöglich werden könnte.
 
-
 ### § 8 Schwangerschaftskonfliktberatungsstellen
 
 Für die Beratung nach den §§ 5 und 6 haben die Länder ein
@@ -280,7 +267,6 @@ sicherzustellen. Diese Beratungsstellen bedürfen besonderer
 staatlicher Anerkennung nach § 9. Als Beratungsstellen können auch
 Einrichtungen freier Träger sowie Ärztinnen und Ärzte anerkannt
 werden.
-
 
 ### § 9 Anerkennung von Schwangerschaftskonfliktberatungsstellen
 
@@ -309,10 +295,6 @@ der Lage ist, insbesondere
     Beratungseinrichtung an der Durchführung von Schwangerschaftsabbrüchen
     nicht auszuschließen ist.
 
-
-
-
-
 ### § 10 Berichtspflicht und Überprüfung der Schwangerschaftskonfliktberatungsstellen
 
 (1) Die Beratungsstellen sind verpflichtet, die ihrer
@@ -334,7 +316,6 @@ noch vorliegen. Sie kann sich zu diesem Zweck die Berichte nach Absatz
 Aufzeichnungen nehmen. Liegt eine der Voraussetzungen des § 9 nicht
 mehr vor, ist die Anerkennung zu widerrufen.
 
-
 ### § 11 Übergangsregelung
 
 Die Anerkennung einer Beratungsstelle auf Grund II.4 der
@@ -342,10 +323,7 @@ Entscheidungsformel des Urteils des Bundesverfassungsgerichts vom 28.
 Mai 1993 (BGBl. I S. 820) steht einer Anerkennung auf Grund der §§ 8
 und 9 dieses Gesetzes gleich.
 
-
 ## Abschnitt 3 - Vornahme von Schwangerschaftsabbrüchen
-
-
 
 ### § 12 Weigerung
 
@@ -356,7 +334,6 @@ mitzuwirken.
 Frau eine anders nicht abwendbare Gefahr des Todes oder einer schweren
 Gesundheitsschädigung abzuwenden.
 
-
 ### § 13 Einrichtungen zur Vornahme von Schwangerschaftsabbrüchen
 
 (1) Ein Schwangerschaftsabbruch darf nur in einer Einrichtung
@@ -366,7 +343,6 @@ gewährleistet ist.
 (2) Die Länder stellen ein ausreichendes Angebot ambulanter und
 stationärer Einrichtungen zur Vornahme von Schwangerschaftsabbrüchen
 sicher.
-
 
 ### § 14 Bußgeldvorschriften
 
@@ -390,10 +366,7 @@ sicher.
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünftausend
 Euro geahndet werden.
 
-
 ## Abschnitt 4 - Bundesstatistik über Schwangerschaftsabbrüche
-
-
 
 ### § 15 Anordnung als Bundesstatistik
 
@@ -401,7 +374,6 @@ Euro geahndet werden.
 Strafgesetzbuches vorgenommenen Schwangerschaftsabbrüche wird eine
 Bundesstatistik durchgeführt. Die Statistik wird vom Statistischen
 Bundesamt erhoben und aufbereitet.
-
 
 ### § 16 Erhebungsmerkmale, Berichtszeit und Periodizität
 
@@ -440,7 +412,6 @@ Der Name der Schwangeren darf dabei nicht angegeben werden.
 Statistischen Bundesamt vierteljährlich zum jeweiligen Quartalsende
 mitzuteilen.
 
-
 ### § 17 Hilfsmerkmale
 
 Hilfsmerkmale der Erhebung sind:
@@ -449,10 +420,6 @@ Hilfsmerkmale der Erhebung sind:
 
 
 2.  Telefonnummer der für Rückfragen zur Verfügung stehenden Person.
-
-
-
-
 
 ### § 18 Auskunftspflicht
 
@@ -475,13 +442,7 @@ Bundesamt auf dessen Anforderung
     in denen nach ihren Erkenntnissen Schwangerschaftsabbrüche vorgenommen
     worden sind oder vorgenommen werden sollen.
 
-
-
-
-
 ## Abschnitt 5 - Hilfe für Frauen bei Schwangerschaftsabbrüchen in besonderen Fällen
-
-
 
 ### § 19 Berechtigte
 
@@ -522,10 +483,6 @@ Mehrbetrag, höchstens jedoch um 294 Euro.
     Heim oder in einer gleichartigen Einrichtung von einem Träger der
     Sozialhilfe oder der Jugendhilfe getragen werden.
 
-
-
-
-
 ### § 20 Leistungen
 
 (1) Leistungen sind die in § 24b Absatz 4 des Fünften Buches
@@ -538,7 +495,6 @@ den Voraussetzungen des § 218a Absatz 1 des Strafgesetzbuches
 vorgenommenen Abbruch einer Schwangerschaft als Sachleistungen
 gewährt. Leistungen nach dem Fünften Buch Sozialgesetzbuch gehen
 Leistungen nach diesem Abschnitt vor.
-
 
 ### § 21 Durchführung, Zuständigkeit, Verfahren
 
@@ -572,7 +528,6 @@ Berücksichtigung der besonderen Situation der Schwangerschaft zu
 achten. Die beteiligten Stellen sollen zusammenarbeiten und darauf
 hinwirken, dass sich ihre Tätigkeiten wirksam ergänzen.
 
-
 ### § 22 Kostenerstattung
 
 Die Länder erstatten den gesetzlichen Krankenkassen die ihnen durch
@@ -580,12 +535,10 @@ diesen Abschnitt entstehenden Kosten. Das Nähere einschließlich des
 haushaltstechnischen Verfahrens und der Behördenzuständigkeit regeln
 die Länder.
 
-
 ### § 23 Rechtsweg
 
 Über öffentlich-rechtliche Streitigkeiten in den Angelegenheiten
 dieses Abschnitts entscheiden die Gerichte der Sozialgerichtsbarkeit.
-
 
 ### § 24 Anpassung
 
@@ -595,7 +548,6 @@ gesetzlichen Rentenversicherung verändert; ein nicht auf volle Euro
 errechneter Betrag ist auf- oder abzurunden. Das Bundesministerium für
 Familie, Senioren, Frauen und Jugend macht die veränderten Beträge im
 Bundesanzeiger bekannt.
-
 
 ### § 25 Übergangsvorschriften
 

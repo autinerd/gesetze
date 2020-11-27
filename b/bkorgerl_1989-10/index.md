@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1989, 2011
 
-
-
 ## (XXXX)
 
 Dem Bundesminister für Umwelt, Naturschutz und Reaktorsicherheit wird

@@ -18,19 +18,16 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 61 G v. 8.12.2010 I 1864
 
-
 ## Eingangsformel
 
 Auf Grund des § 12 der Reichsabgabenordnung wird im Einvernehmen mit
 dem Reichsminister des Innern und dem Generalinspektor für Wasser und
 Energie verordnet:
 
-
 ## § 1 Steuerbegünstigte Unternehmen
 
 Unternehmen, die elektrische Arbeit durch Wasserkräfte erzeugen,
 werden nach Maßgabe dieser Verordnung steuerlich begünstigt.
-
 
 ## § 2 Steuerbegünstigte Anlagen
 
@@ -44,13 +41,11 @@ Abspannketten der Fernleitungen.
 zur Fortleitung des Stroms aus steuerbegünstigten Wasserkraftwerken
 gewährt werden.
 
-
 ## § 3 Voraussetzungen der steuerlichen Begünstigung
 
 Die steuerliche Begünstigung tritt nur ein, wenn der Baubeginn der
 Anlagen in die Zeit vom 1. Januar 1938 bis zum 31. Dezember 1990
 fällt.
-
 
 ## § 4 Einkommensteuer und Körperschaftsteuer
 
@@ -65,7 +60,6 @@ des steuerbegünstigten Gewinns für den Fall zu erlassen, daß ein
 Unternehmen steuerbegünstigte und nicht steuerbegünstigte Anlagen
 unterhält.
 
-
 ## § 5 Vermögensteuer und Aufbringungsumlage
 
 Die Vermögensteuer
@@ -73,7 +67,6 @@ und die Aufbringungsumlage,              die auf die
 steuerbegünstigten Anlagen entfallen, sind während der Bauzeit nicht
 zu entrichten. Sie ermäßigen sich ab dem Betriebsbeginn für die Dauer
 von zwanzig Jahren auf die Hälfte der gesetzlichen Beträge.
-
 
 ## § 6 Gewerbesteuer
 
@@ -83,7 +76,6 @@ Betriebsbeginn für die Dauer von zwanzig Jahren auf die Hälfte der
 gesetzlichen Beträge.
 
 (2) (weggefallen)
-
 
 ## § 7 Absetzung für Abnutzung
 
@@ -100,16 +92,13 @@ Bleibt die Summe der Absetzungen für Abnutzung eines Jahres hinter dem
 danach maßgebenden Betrag zurück, so tritt die steuerliche
 Begünstigung für dieses Jahr nicht ein.
 
-
 ## § 8
 
 -
 
-
 ## § 9 Weitergewährung bisheriger steuerlicher Begünstigungen
 
 -
-
 
 ## § 10 Anwendungsvorschriften
 
@@ -134,7 +123,6 @@ c)  bei der Festsetzung der einheitlichen Gewerbesteuermeßbeträge für das
 (3) § 8 in der im Bundesgesetzblatt Teil III, Gliederungsnummer
 610-6-2, veröffentlichten bereinigten Fassung ist letztmals für
 Wirtschaftsjahre anzuwenden, die vor dem 1. Januar 1984 enden.
-
 
 ## Schlußformel
 

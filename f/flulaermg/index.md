@@ -18,12 +18,10 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 31.10.2007 I 2550
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## § 1 Zweck und Geltungsbereich
 
@@ -32,7 +30,6 @@ Nutzungsbeschränkungen und baulichen Schallschutz zum Schutz der
 Allgemeinheit und der Nachbarschaft vor Gefahren, erheblichen
 Nachteilen und erheblichen Belästigungen durch Fluglärm
 sicherzustellen.
-
 
 ## § 2 Einrichtung von Lärmschutzbereichen
 
@@ -318,7 +315,6 @@ Bundestag Bericht über die Überprüfung der in Absatz 2 genannten Werte
 unter Berücksichtigung des Standes der Lärmwirkungsforschung und der
 Luftfahrttechnik.
 
-
 ## § 3 Ermittlung der Lärmbelastung
 
 (1) Der äquivalente Dauerschallpegel
@@ -334,7 +330,6 @@ Kreise (§ 15) durch Rechtsverordnung mit Zustimmung des Bundesrates
 Art und Umfang der erforderlichen Auskünfte der nach § 11
 Verpflichteten und die Berechnungsmethode für die Ermittlung der
 Lärmbelastung zu regeln.
-
 
 ## § 4 Festsetzung von Lärmschutzbereichen
 
@@ -433,7 +428,6 @@ dauerhaft verliert; Absatz 8 bleibt unberührt.
 andere als in Absatz 1 genannte Flugplätze Lärmschutzbereiche
 festgesetzt werden. Die Absätze 2 bis 7 gelten entsprechend.
 
-
 ## § 5 Bauverbote
 
 (1) In einem Lärmschutzbereich dürfen Krankenhäuser, Altenheime,
@@ -492,14 +486,12 @@ nichtgenehmigungsbedürftige bauliche Anlagen, mit deren Errichtung
 nach Maßgabe des Bauordnungsrechts vor der Festsetzung des
 Lärmschutzbereichs hätte begonnen werden dürfen.
 
-
 ## § 6 Sonstige Beschränkungen der baulichen Nutzung
 
 Die nach § 5 Abs. 1 Satz 3, Abs. 2 Satz 2 und Abs. 3 zulässigen
 baulichen Anlagen sowie Wohnungen in der Tag-Schutzzone 2 dürfen nur
 errichtet werden, sofern sie den nach § 7 festgesetzten
 Schallschutzanforderungen genügen.
-
 
 ## § 7 Schallschutz
 
@@ -510,7 +502,6 @@ Belüftungseinrichtungen unter Beachtung des Standes der
 Schallschutztechnik im Hochbau festzusetzen, denen die baulichen
 Anlagen zum Schutz ihrer Bewohner vor Fluglärm in dem Fall des § 6
 genügen müssen.
-
 
 ## § 8 Entschädigung bei Bauverboten
 
@@ -530,7 +521,6 @@ Vorschriften der §§ 17, 18 Abs. 1, 2 Satz 1, Abs. 3 und der §§ 19 bis
 25 des Schutzbereichgesetzes vom 7. Dezember 1956 (Bundesgesetzbl. I
 S. 899), zuletzt geändert durch Artikel 1 Abs. 6 der Verordnung vom 5.
 April 2002 (BGBl. I S. 1250), sind sinngemäß anzuwenden.
-
 
 ## § 9 Erstattung von Aufwendungen für bauliche Schallschutzmaßnahmen, Entschädigung für Beeinträchtigungen des Außenwohnbereichs
 
@@ -641,7 +631,6 @@ Erbbauberechtigten oder eines Wohnungseigentümers stehen. Der Anspruch
 nach den Absätzen 1, 2 und 5 kann nur innerhalb einer Frist von fünf
 Jahren nach Entstehung des Anspruchs geltend gemacht werden.
 
-
 ## § 10 Verfahren bei der Erstattung von Aufwendungen
 
 Die nach Landesrecht zuständige Behörde setzt nach Anhörung der
@@ -649,7 +638,6 @@ Beteiligten (Zahlungsempfänger und Zahlungspflichtiger) durch
 schriftlichen Bescheid fest, in welcher Höhe die Aufwendungen
 erstattungsfähig sind. Der Bescheid muss eine Rechtsmittelbelehrung
 enthalten. Er ist den Beteiligten zuzustellen.
-
 
 ## § 11 Auskunft
 
@@ -675,7 +663,6 @@ Verfolgung ein zwingendes öffentliches Interesse besteht, oder soweit
 es sich um vorsätzlich falsche Angaben des Auskunftspflichtigen oder
 der für ihn tätigen Personen handelt.
 
-
 ## § 12 Zahlungspflichtiger
 
 (1) Zur Zahlung der Entschädigung nach § 8, zur Erstattung der
@@ -693,7 +680,6 @@ Entschädigung oder der Erstattung von Aufwendungen für bauliche
 Schallschutzmaßnahmen werden von der Bundesrepublik Deutschland im
 eigenen Namen für den Entsendestaat geführt, gegen den sich der
 Anspruch richtet.
-
 
 ## § 13 Sonstige Vorschriften
 
@@ -716,14 +702,12 @@ ausgesetzt.
 (2) Vorschriften, die weitergehende Planungsmaßnahmen zulassen,
 bleiben unberührt.
 
-
 ## § 14 Schutzziele für die Lärmaktionsplanung
 
 Bei der Lärmaktionsplanung nach § 47d des Bundes-
 Immissionsschutzgesetzes sind für Flugplätze die jeweils anwendbaren
 Werte des § 2 Abs. 2 des Gesetzes zum Schutz gegen Fluglärm zu
 beachten.
-
 
 ## § 15 Anhörung beteiligter Kreise
 
@@ -735,21 +719,17 @@ Spitzenverbände, der Lärmschutz- und Umweltverbände, der Kommissionen
 nach § 32b des Luftverkehrsgesetzes und der für die Luftfahrt und den
 Immissionsschutz zuständigen obersten Landesbehörden zu hören.
 
-
 ## § 16 (weggefallen)
 
 -
-
 
 ## § 17 (weggefallen)
 
 -
 
-
 ## § 18 (weggefallen)
 
 -
-
 
 ## Anlage (zu § 3)
 

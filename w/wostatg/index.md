@@ -15,13 +15,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1993, 337
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## § 1 Anordnung als Bundesstatistik, Erhebungsart
 
@@ -36,10 +33,6 @@ durchgeführt:
 2.  eine Gebäude- und Wohnungsstichprobe im gesamten Bundesgebiet auf
     repräsentativer Grundlage mit einem Auswahlsatz von 1 vom Hundert der
     Wohnungen.
-
-
-
-
 
 ## § 2 Erhebungseinheiten und Stichprobenauswahl
 
@@ -59,7 +52,6 @@ Wohnungen und Personen richtet. Aus diesen wird eine Zufallsauswahl
 getroffen. In den ausgewählten Bezirken werden alle Erhebungseinheiten
 erfaßt.
 
-
 ## § 3 Berichtszeitpunkt
 
 (1) Die Erhebung nach § 1 Nr. 1 wird nach dem Stand vom 30. September
@@ -68,7 +60,6 @@ Erhebungsstichtag begonnen werden.
 
 (2) Die Erhebung nach § 1 Nr. 2 wird nach dem Stand vom 30. September
 1993 durchgeführt.
-
 
 ## § 4 Erhebungsmerkmale
 
@@ -211,13 +202,6 @@ Erhebungsstichtag begonnen werden.
         Erwerbsabsichten von selbstgenutztem Wohneigentum im Geltungsbereich
         dieses Gesetzes mit Art des Objekts.
 
-
-
-
-
-
-
-
 ## § 5 Hilfsmerkmale
 
 Hilfsmerkmale sind:
@@ -233,10 +217,6 @@ Hilfsmerkmale sind:
 
 
 4.  Telefonnummer der für Rückfragen zur Verfügung stehenden Personen.
-
-
-
-
 
 ## § 6 Erhebungsstellen
 
@@ -268,7 +248,6 @@ Auswahlbezirken für die Erhebung nach § 1 Nr. 2 aus dem
 Bevölkerungsregister Statistik die Zahl der Haushalte und Personen,
 gegliedert nach Gemeinde, Straße und Hausnummer, verarbeiten und
 nutzen.
-
 
 ## § 7 Erhebungsbeauftragte
 
@@ -310,7 +289,6 @@ Maßnahmen gemäß § 6 Bundesstatistikgesetz durchgeführt werden, können
 ebenfalls Erhebungsbeauftragte eingesetzt werden. Absätze 1 und 4
 gelten entsprechend.
 
-
 ## § 8 Datenübermittlung an die Erhebungsstellen
 
 (1) Die für die Grundsteuer zuständigen Stellen der Gemeinden oder die
@@ -338,7 +316,6 @@ sowie Straße und Hausnummer zur Bildung von Zählbezirken mit.
 weiterzuleiten und dort zum frühestmöglichen Zeitpunkt, spätestens
 jedoch zwei Jahre nach dem in § 3 Abs. 1 genannten Zeitraum zu
 löschen.
-
 
 ## § 9 Auskunftspflicht
 
@@ -383,7 +360,6 @@ freiwillig durch einen Mieter erteilt werden.
 (4) Die Angaben zu § 4 Abs. 2 Nr. 1 Buchstabe d, Nr. 3 Buchstabe c und
 § 5 Nr. 4 sind freiwillig.
 
-
 ## § 10 Art der Auskunftserteilung
 
 (1) Die in den Erhebungsvordrucken enthaltenen Fragen können mündlich
@@ -406,7 +382,6 @@ Erhebungsvordrucke
 
 Bei Abgabe in verschlossenem Umschlag sind Name und Anschrift auf dem
 Umschlag anzugeben.
-
 
 ## § 11 Verwendung von Merkmalen
 
@@ -437,14 +412,12 @@ benötigten 80 vom Hundert der Auswahlbezirke sind unverzüglich nach
 Festlegung der Auswahlbezirke nach Satz 1, spätestens jedoch vier
 Jahre nach dem in § 3 Abs. 1 genannten Zeitpunkt, zu löschen.
 
-
 ## § 12 Zusatz- oder Sonderaufbereitungen
 
 Zusatz- oder Sonderaufbereitungen für Bundeszwecke werden in den
 Fällen vom Statistischen Bundesamt durchgeführt, in denen sie nicht
 von den statistischen Ämtern der Länder innerhalb einer angemessenen
 Frist selbst vorgenommen werden können.
-
 
 ## § 13 Inkrafttreten
 

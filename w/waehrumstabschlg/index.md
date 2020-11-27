@@ -15,11 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1975, 3123
 
-
-
 ## Abschnitt I - Alte Ansprüche gegen Geldinstitute
-
-
 
 ### § 1 Geldinstitute
 
@@ -45,10 +41,6 @@ Geldinstitute im Sinne dieses Gesetzes sind
 
 
 4.  Bausparkassen (§ 25 des Umstellungsgesetzes).
-
-
-
-
 
 ### § 2 Ansprüche aus Reichsmarkguthaben
 
@@ -83,7 +75,6 @@ zwanzig Reichsmark, zuzüglich drei vom Hundert jährliche Zinsen seit
 dem 1. Januar 1953, in Anspruch genommen werden, sofern die
 Uraltguthaben in der Zeit zwischen dem Inkrafttreten des Gesetzes und
 dem 30. Juni 1976 bei der Altbank angemeldet werden.
-
 
 ### § 3 Verjährung von Ansprüchen gegen Geldinstitute
 
@@ -139,7 +130,6 @@ verjähren die Ansprüche von Gläubigern, die ihren Wohnsitz bei
 Inkrafttreten dieses Gesetzes außerhalb des Geltungsbereichs dieses
 Gesetzes haben, aus diesen Guthaben mit Ablauf des Jahres 1978.
 
-
 ### § 4 Erlöschen von Ansprüchen
 
 Ansprüche gegen Geldinstitute, die vor dem 9. Mai 1945 im
@@ -148,7 +138,6 @@ außerhalb des Geltungsbereichs dieses Gesetzes befunden hat und nicht
 nach § 3 der Fünfunddreißigsten Durchführungsverordnung zum
 Umstellungsgesetz als verlagert anerkannt worden ist, erlöschen mit
 Ablauf des 30. Juni 1976.
-
 
 ### § 5 Auslandsschulden
 
@@ -170,7 +159,6 @@ genommen werden, soweit Gläubiger bis zum 30. Juni 1976 ihr gegenüber
 schriftlich erklären, daß sie die vor dem 9. Mai 1945 an die
 Konversionskasse für deutsche Auslandsschulden geleisteten Zahlungen
 als Erfüllung ihrer Forderungen annehmen.
-
 
 ### § 6 Leistungen aus öffentlichen Mitteln
 
@@ -201,10 +189,7 @@ Bundesrepublik Deutschland erstattet. § 8 Abs. 3 des Auslandsbonds-
 Entschädigungsgesetzes vom 10. März 1960 (Bundesgesetzbl. I S. 177)
 findet Anwendung.
 
-
 ## Abschnitt II - Alte Ansprüche gegen Versicherungsunternehmen
-
-
 
 ### § 7 Versicherungsunternehmen
 
@@ -218,10 +203,7 @@ Ansprüche, die auf Grund des Gesetzes zur Regelung von Ansprüchen aus
 Lebens- und Rentenversicherungen in der Fassung der Bekanntmachung vom
 3\. Juli 1964 (Bundesgesetzbl. I S. 433) geltend gemacht werden können.
 
-
 ## Abschnitt III - Sonstige Vorschriften
-
-
 
 ### § 8 Auflösung und Abwicklung öffentlich-rechtlicher Geldinstitute
 
@@ -279,10 +261,6 @@ dem Verhältnis der Nennbeträge der Stammanteile verteilt worden wäre.
     Auslandsschulden und ein Vermögensüberschuß der Deutschen
     Verrechnungskasse auf die Bundesrepublik Deutschland.
 
-
-
-
-
 ### § 9 Beendigung der Abwicklung von Geldinstituten
 
 (1) Die Abwicklung eines aufgelösten Geldinstituts ist beendet, wenn
@@ -294,7 +272,6 @@ sonstigen Verpflichtungen erfüllt, von einem anderen Schuldner
 (2) Zur Übernahme von Verbindlichkeiten und sonstigen Verpflichtungen
 bedarf es nicht der Zustimmung der Gläubiger. Der Übernehmer ist zu
 Leistungen nur in dem Umfang verpflichtet wie der bisherige Schuldner.
-
 
 ### § 10 Tote Depots
 
@@ -338,7 +315,6 @@ anzuwenden.
 Verpflichtung aus früheren Verwahrungsverträgen auch für die in Absatz
 2 Nr. 2 Buchstabe b aufgeführten Wertpapiere frei.
 
-
 ### § 11 Entschädigung nach dem Wertpapierbereinigungsschlußgesetz
 
 (1) Anträge auf Entschädigung nach dem Dritten Abschnitt des
@@ -351,7 +327,6 @@ von zwei Monaten nach Inkrafttreten dieses Gesetzes oder bei späterem
 Zugang der Mitteilung des Präsidenten des Bundesausgleichsamtes (§ 16
 Abs. 3 des Wertpapierbereinigungsschlußgesetzes) innerhalb von zwei
 Monaten nach Zugang der Mitteilung einzureichen.
-
 
 ### § 12 Aufhebung von Rechtsvorschriften
 
@@ -382,7 +357,6 @@ Aufgehoben werden
 6\.
 7\.
 8\.
-
 
 ### § 13 Sonderregelung für Berlin
 
@@ -428,16 +402,11 @@ Maßgabe:
     aufgeführten Bausparkassen sowie die Landesbausparkasse Berlin und die
     Bausparkasse Deutsche Bau-Gemeinschaft AG.
 
-
-
-
-
 ### § 14 Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
 im Land Berlin.
-
 
 ### § 15 Inkrafttreten
 

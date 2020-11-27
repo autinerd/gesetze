@@ -43,23 +43,15 @@ Dieses Gesetz dient zugleich der Umsetzung der folgenden Richtlinien:
     Ro-Ro-Fahrgastschiffen und Fahrgast-Hochgeschwindigkeitsfahrzeugen im
     Linienverkehr (ABl. EG Nr. L 138 S. 1).
 
-
-
-
-
 ## Art 1
 
 -
-
 
 ## Art 2
 
 -
 
-
 ## (XXXX) Art 3 bis 6
-
-
 
 ## Art 7 Rückkehr zum einheitlichen Verordnungsrang
 
@@ -67,13 +59,11 @@ Die auf den Artikeln 3 und 4 beruhenden Teile der dort geänderten
 Rechtsverordnungen können auf Grund der jeweils einschlägigen
 Ermächtigungen durch Rechtsverordnung geändert werden.
 
-
 ## Art 8 Neubekanntmachung des Seeaufgabengesetzes
 
 Das Bundesministerium für Verkehr, Bau- und Wohnungswesen kann den
 Wortlaut des Seeaufgabengesetzes in der vom Inkrafttreten dieses
 Gesetzes an geltenden Fassung im Bundesgesetzblatt bekannt machen.
-
 
 ## Art 9 Aufhebung von Rechtsvorschriften
 
@@ -89,7 +79,6 @@ nicht als Vorkommnisse im Sinne des Seesicherheits-Untersuchungs-
 Gesetzes.
 
 (2) bis (4)
-
 
 ## Art 10 Inkrafttreten
 

@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   RGBl: 1901, 375
 
-
-
 ## (XXXX)
 
 Auf Grund einer Vereinbarung mit der Regierung von Costa Rica wird

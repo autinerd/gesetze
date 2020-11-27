@@ -18,8 +18,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1990, 494
 
-
-
 ## Art 1
 
 Dem Beitritt der Bundesrepublik Deutschland zu dem Übereinkommen von
@@ -30,11 +28,9 @@ fester Plattformen, die sich auf dem Festlandsockel befinden, wird
 zugestimmt. Das Übereinkommen sowie das Protokoll werden nachstehend
 mit einer amtlichen deutschen Übersetzung veröffentlicht.
 
-
 ## Art 2
 
 -
-
 
 ## Art 3
 
@@ -51,7 +47,6 @@ Gegenstände, die sich auf eine solche Straftat beziehen und deren
 Verbleib an Bord eine unmittelbare Gefahr für die Sicherheit des
 Schiffes oder seiner Besatzung darstellen würde, den Behörden eines
 Empfangsstaates zur Verfügung stellen.
-
 
 ## Art 4
 

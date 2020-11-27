@@ -23,7 +23,6 @@ Konferenz der Kultusminister der Länder in der Bundesrepublik
 Deutschland beschlossene Rahmenlehrplan für die Berufsschule werden
 demnächst als Beilage im Bundesanzeiger veröffentlicht.
 
-
 ## Eingangsformel
 
 Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des
@@ -38,7 +37,6 @@ vom 31. Oktober 2006 (BGBl. I S. 2407) und § 26 zuletzt durch Artikel
 worden sind, verordnet das Bundesministerium für Wirtschaft und
 Technologie im Einvernehmen mit dem Bundesministerium für Bildung und
 Forschung:
-
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
@@ -56,11 +54,9 @@ Print/Mediengestalterin Digital und Print wird
 
 staatlich anerkannt.
 
-
 ## § 2 Dauer der Berufsausbildung
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Struktur der Berufsausbildung
 
@@ -85,10 +81,6 @@ Die Berufsausbildung gliedert sich in
 
 3.  vom Ausbildenden festzulegende Wahlqualifikationseinheiten aus den
     Auswahllisten I bis III nach § 4 Abs. 3 Nr. 1 bis 3.
-
-
-
-
 
 ## § 4 Ausbildungsrahmenplan, Ausbildungsberufsbild
 
@@ -687,7 +679,6 @@ Ordnungskennziffer muss bei Eintritt in die höherwertige
 Wahlqualifikationseinheit der Ausbildungsinhalt der vorangegangenen
 Wahlqualifikationseinheit vermittelt sein.
 
-
 ## § 5 Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
@@ -707,7 +698,6 @@ zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
 Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
 Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
 durchzusehen.
-
 
 ## § 6 Zwischenprüfung
 
@@ -741,7 +731,6 @@ In den Prüfungsbereichen Gestaltungsgrundlagen und Medienproduktion
 sowie Kommunikation, Arbeits- und Sozialrecht soll er schriftliche
 Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen,
 bearbeiten. Die Prüfungszeit soll sieben Stunden nicht überschreiten.
-
 
 ## § 7 Abschlussprüfung/Gesellenprüfung in der Fachrichtung Beratung und Planung
 
@@ -969,7 +958,6 @@ ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben
 kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich
 sind das bisherige Ergebnis und das Ergebnis der mündlichen
 Ergänzungsprüfung im Verhältnis von 2 : 1 zu gewichten.
-
 
 ## § 8 Abschlussprüfung/Gesellenprüfung in der Fachrichtung Konzeption und Visualisierung
 
@@ -1204,7 +1192,6 @@ kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich
 sind das bisherige Ergebnis und das Ergebnis der mündlichen
 Ergänzungsprüfung im Verhältnis von 2 : 1 zu gewichten.
 
-
 ## § 9 Abschlussprüfung/Gesellenprüfung in der Fachrichtung Gestaltung und Technik
 
 (1) Durch die Abschlussprüfung/Gesellenprüfung ist festzustellen, ob
@@ -1429,18 +1416,15 @@ kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich
 sind das bisherige Ergebnis und das Ergebnis der mündlichen
 Ergänzungsprüfung im Verhältnis von 2 : 1 zu gewichten.
 
-
 ## § 10 Bestehende Berufsausbildungsverhältnisse
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
 Verordnung bestehen, sind die bisherigen Vorschriften weiter
 anzuwenden.
 
-
 ## § 11 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2007 in Kraft.
-
 
 ## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Mediengestalter Digital und Print/zur Mediengestalterin Digital und Print
 

@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1985, 1621
 
-
-
 ## § 1
 
 (1) Zur Verbesserung der Personalstruktur in den Streitkräften können
@@ -63,7 +61,6 @@ dem Tage des Ausscheidens zugestellt werden.
 
 (4) § 44 Abs. 6 Satz 1 bis 3 und Abs. 7 sowie § 51 Abs. 1, 3 und 5 des
 Soldatengesetzes gelten entsprechend.
-
 
 ## § 2
 
@@ -114,7 +111,6 @@ Bundesbesoldungsgesetzes) des letzten Monats, höchstens jedoch das
 Achtfache der Dienstbezüge (§ 1 Abs. 2 Nr. 1 und 3 in Verbindung mit §
 40 Abs. 2 des Bundesbesoldungsgesetzes) aus der Endstufe der
 Besoldungsgruppe A 14.
-
 
 ## § 3
 

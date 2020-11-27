@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 2628
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 226 Abs. 1 des Sechsten Buches Sozialgesetzbuch -
@@ -25,7 +23,6 @@ Gesetzliche Rentenversicherung - (Artikel 1 des Gesetzes vom 18.
 Dezember 1989, BGBl. I S. 2261, 1990 I S. 1337), der zuletzt durch
 Artikel 1 Nr. 43 des Gesetzes vom 25. Juli 1991 (BGBl. I S. 1606) neu
 gefasst worden ist, verordnet die Bundesregierung:
-
 
 ## § 1 Berechnung der zu erstattenden Aufwendungen im Rahmen des Versorgungsausgleichs
 
@@ -93,7 +90,6 @@ Entgeltpunkten gleich.
 (6) Die §§ 121 und 123 Abs. 1 und 3 des Sechsten Buches
 Sozialgesetzbuch finden Anwendung.
 
-
 ## § 2 Durchführung der Erstattung
 
 (1) Der Träger der Rentenversicherung soll die zu erstattenden
@@ -116,17 +112,14 @@ fällig geworden ist. Für die Hemmung, die Unterbrechung und die
 Wirkung der Verjährung gelten die Vorschriften des Bürgerlichen
 Gesetzbuches sinngemäß.
 
-
 ## § 3 Zeitlicher Anwendungsbereich
 
 Diese Verordnung findet erstmals auf die Erstattung der im Jahre 2001
 entstehenden Aufwendungen der Träger der Rentenversicherung Anwendung.
 
-
 ## § 4 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2002 in Kraft.
-
 
 ## Schlussformel
 

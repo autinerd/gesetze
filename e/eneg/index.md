@@ -25,7 +25,6 @@ Dieses Gesetz dient der Umsetzung der Richtlinie 2002/91/EG des
 Europäischen Parlaments und des Rates vom 16. Dezember 2002 über die
 Gesamtenergieeffizienz von Gebäuden (ABl. EG 2003 Nr. L 1 S. 65).
 
-
 ## § 1 Energiesparender Wärmeschutz bei zu errichtenden Gebäuden
 
 (1) Wer ein Gebäude errichtet, das seiner Zweckbestimmung nach beheizt
@@ -50,7 +49,6 @@ berücksichtigen.
 
 (3) Soweit andere Rechtsvorschriften höhere Anforderungen an den
 baulichen Wärmeschutz stellen, bleiben sie unberührt.
-
 
 ## § 2 Energiesparende Anlagentechnik bei Gebäuden
 
@@ -116,7 +114,6 @@ werden.
 Absatz 1 genannten Anlagen und Einrichtungen stellen, bleiben sie
 unberührt.
 
-
 ## § 3 Energiesparender Betrieb von Anlagen
 
 (1) Wer Heizungs-, raumlufttechnische, Kühl-, Beleuchtungs- sowie
@@ -138,7 +135,6 @@ bestimmungsgemäße Nutzung der Anlagen und Einrichtungen beziehen.
 Betrieb der in Absatz 1 genannten Anlagen und Einrichtungen stellen,
 bleiben sie unberührt.
 
-
 ## § 3a Verteilung der Betriebskosten
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
@@ -152,10 +148,6 @@ Zustimmung des Bundesrates vorzuschreiben, dass
 2.  die Betriebskosten dieser Anlagen oder Einrichtungen so auf die
     Benutzer zu verteilen sind, dass dem Energieverbrauch der Benutzer
     Rechnung getragen wird.
-
-
-
-
 
 ## § 4 Sonderregelungen und Anforderungen an bestehende Gebäude
 
@@ -237,7 +229,6 @@ Einsparungen innerhalb angemessener Fristen erwirtschaftet werden
 können. Die Sätze 1 und 2 sind in Fällen des Absatzes 1 entsprechend
 anzuwenden.
 
-
 ## § 5 Gemeinsame Voraussetzungen für Rechtsverordnungen
 
 (1) Die in den Rechtsverordnungen nach den §§ 1 bis 4 aufgestellten
@@ -270,7 +261,6 @@ Anforderungen auch auf den Gesamtenergiebedarf oder -verbrauch der
 Gebäude und die Einsetzbarkeit alternativer Systeme beziehen sowie
 Umwandlungsverluste der Anlagensysteme berücksichtigen
 (Gesamtenergieeffizienz).
-
 
 ## § 5a Energieausweise
 
@@ -321,7 +311,6 @@ können sich insbesondere beziehen auf
 
 Die Energieausweise dienen lediglich der Information.
 
-
 ## § 6 Maßgebender Zeitpunkt
 
 Für die Unterscheidung zwischen zu errichtenden und bestehenden
@@ -329,7 +318,6 @@ Gebäuden im Sinne dieses Gesetzes ist der Zeitpunkt der Erteilung der
 Baugenehmigung oder der bauaufsichtlichen Zustimmung, im Übrigen der
 Zeitpunkt maßgeblich, zu dem nach Maßgabe des Bauordnungsrechts mit
 der Bauausführung begonnen werden durfte.
-
 
 ## § 7 Überwachung
 
@@ -384,7 +372,6 @@ eine längere Überwachungsfrist vorzusehen.
 (6) In Rechtsverordnungen nach § 4 Abs. 3 kann vorgesehen werden, dass
 die Überwachung ihrer Einhaltung entfällt.
 
-
 ## § 7a Bestätigung durch Private
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
@@ -411,7 +398,6 @@ Eigenleistung kann eine Erklärungspflicht des Bauherrn oder des
 Eigentümers vorgesehen werden. Absatz 1 Satz 2 ist entsprechend
 anzuwenden. Soweit sich § 4 Abs. 1 auf zu errichtende Gebäude bezieht,
 gelten die Sätze 1 und 2 entsprechend.
-
 
 ## § 8 Bußgeldvorschriften
 
@@ -440,10 +426,7 @@ einer Geldbuße bis zu fünfzigtausend Euro, in den Fällen des Absatzes
 übrigen Fällen mit einer Geldbuße bis zu fünftausend Euro geahndet
 werden.
 
-
 ## (XXXX) §§ 9 und 10 (gegenstandslos)
-
-
 
 ## § 11 (Inkrafttreten)
 

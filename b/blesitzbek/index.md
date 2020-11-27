@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 1060
 
-
-
 ## (XXXX)
 
 Das Bundesministerium für Verbraucherschutz, Ernährung und

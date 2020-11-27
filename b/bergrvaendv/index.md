@@ -30,10 +30,6 @@ mit dem Bundesberggesetz der Umsetzung folgender EG-Richtlinien: -
     bestimmten öffentlichen und privaten Projekten (ABl. EG Nr. L 73 S.
     5).
 
-
-
-
-
 ## Eingangsformel
 
 Auf Grund der § 57c und 66 Satz 1 Nr. 1 Buchstabe b, Nr. 2, 3, 5, 6,
@@ -49,10 +45,7 @@ Bundesministerium für Arbeit und Sozialordnung und für den Bereich des
 Festlandsockels und der Küstengewässer im Einvernehmen mit dem
 Bundesministerium für Verkehr:
 
-
 ## (XXXX) Art 1 bis 5
-
-
 
 ## Art 6 Übergangsvorschrift zu Artikel 5
 
@@ -60,7 +53,6 @@ Die bei Inkrafttreten dieser Verordnung bereits begonnenen Verfahren
 betreffend betriebsplanpflichtige Vorhaben im Sinne des § 1 der in
 Artikel 5 genannten Verordnung sind nach den bisher geltenden
 Vorschriften zu Ende zu führen.
-
 
 ## Art 7 Inkrafttreten
 

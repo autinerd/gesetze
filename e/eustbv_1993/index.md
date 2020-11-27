@@ -18,14 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 V v. 24.11.2008 I 2232
 
-
 ## Eingangsformel
 
 Auf Grund des Artikels 3 des Vierzehnten Gesetzes zur Änderung des
 Zollgesetzes vom 3. August 1973 (BGBl. I S. 933), der durch Artikel 2
 Abs. 2 des Gesetzes vom 12. September 1980 (BGBl. I S. 1695) neu
 gefaßt worden ist, verordnet der Bundesminister der Finanzen:
-
 
 ## § 1 Allgemeines
 
@@ -92,14 +90,12 @@ die nach den §§ 12, 14 bis 22 der Zollverordnung vom 23. Dezember 1993
 Einfuhrabgaben im Sinne des Artikels 4 Nr. 10 Zollkodex eingeführt
 werden können, in sinngemäßer Anwendung dieser Vorschriften.
 
-
 ## § 1a Sendungen von geringem Wert
 
 Die Einfuhrumsatzsteuerfreiheit für Sendungen von Waren mit geringem
 Wert im Sinne des Artikels 27 der Verordnung (EWG) Nr. 918/83 ist auf
 Waren beschränkt, deren Gesamtwert 22 Euro je Sendung nicht
 übersteigt.
-
 
 ## § 2 Investitionsgüter und andere Ausrüstungsgegenstände
 
@@ -118,10 +114,6 @@ Verordnung) ist ausgeschlossen für Gegenstände, die
 3.  von einem Unternehmer eingeführt werden, der die Vorsteuerbeträge nach
     Durchschnittssätzen (§§ 23 und 24 des Gesetzes) ermittelt.
 
-
-
-
-
 ## § 3 Landwirtschaftliche Erzeugnisse
 
 Die Einfuhrumsatzsteuerfreiheit für bestimmte landwirtschaftliche
@@ -130,7 +122,6 @@ gilt auch für reinrassige Pferde, die nicht älter als sechs Monate und
 im Drittlandsgebiet von einem Tier geboren sind, das im Inland oder in
 den österreichischen Gebieten Jungholz und Mittelberg befruchtet und
 danach vorübergehend ausgeführt worden war.
-
 
 ## § 4 Gegenstände erzieherischen, wissenschaftlichen oder kulturellen Charakters
 
@@ -148,16 +139,11 @@ Gegenstände
 2.  nicht von einem Unternehmer geliefert werden; als Lieferer gilt nicht,
     wer für die begünstigte Einrichtung tätig wird.
 
-
-
-
-
 ## § 5 Tiere für Laborzwecke
 
 Die Einfuhrumsatzsteuerfreiheit für Tiere für Laborzwecke (Artikel 60
 Abs. 1 Buchstabe a und Abs. 2 der in § 1 Abs. 1 genannten Verordnung)
 hängt davon ab, daß die Tiere unentgeltlich eingeführt werden.
-
 
 ## § 6 Gegenstände für Organisationen der Wohlfahrtspflege
 
@@ -172,7 +158,6 @@ nicht davon ab, daß gleichwertige Gegenstände gegenwärtig in der
 Gemeinschaft nicht hergestellt werden. Die Steuerfreiheit ist
 ausgeschlossen für Gegenstände, die von Behinderten selbst eingeführt
 werden.
-
 
 ## § 7 Werbedrucke
 
@@ -189,7 +174,6 @@ den Drucken enthaltenen Angebote von einer in einem anderen
 Mitgliedstaat der Europäischen Gemeinschaften ansässigen Person
 ausgehen.
 
-
 ## § 8 Werbemittel für den Fremdenverkehr
 
 Die Einfuhrumsatzsteuerfreiheit für Werbematerial für den
@@ -198,7 +182,6 @@ genannten Verordnung) gilt auch dann, wenn darin Werbung für in einem
 Mitgliedstaat der Europäischen Gemeinschaften ansässigen Unternehmen
 enthalten ist, sofern der Gesamtanteil der Werbung 25 vom Hundert
 nicht übersteigt.
-
 
 ## § 9 Amtliche Veröffentlichungen, Wahlmaterialien
 
@@ -212,7 +195,6 @@ anerkannten ausländischen politischen Organisationen anläßlich der
 Wahlen zum Europäischen Parlament oder anläßlich nationaler Wahlen,
 die vom Herkunftsland aus organisiert werden, verteilen.
 
-
 ## § 10 Behältnisse und Verpackungen
 
 (1) Die Einfuhrumsatzsteuerfreiheit von Verpackungsmitteln (Artikel
@@ -225,7 +207,6 @@ Behältnissen und befüllten Verpackungen, wenn sie für die mit ihnen
 gestellten oder in ihnen verpackten Waren üblich sind oder unabhängig
 von ihrer Verwendung als Behältnis oder Verpackung keinen dauernden
 selbständigen Gebrauchswert haben.
-
 
 ## § 11 Vorübergehende Verwendung
 
@@ -244,7 +225,6 @@ Mittelberg gezahlt oder zu zahlen hat.
 
 (4) Auf die Leistung einer Sicherheit für die Einfuhrumsatzsteuer kann
 verzichtet werden.
-
 
 ## § 12 Rückwaren
 
@@ -267,7 +247,6 @@ Satz 1 Nr. 2 gilt nicht, wenn derjenige, der die Lieferung bewirkt
 hat, den Gegenstand zurückerhält und hinsichtlich dieses Gegenstandes
 in vollem Umfang nach § 15 Abs. 1 Nr. 2 des Gesetzes zum
 Vorsteuerabzug berechtigt ist.
-
 
 ## § 12a Freihafenlagerung
 
@@ -303,7 +282,6 @@ Wiedereinfuhr der Gegenstände darf nur aus zwingendem Anlaß
 
 (6) Für die Überführung der Gegenstände in den freien Verkehr nach der
 Wiedereinfuhr ist der Zwischenschein als Steueranmeldung zu verwenden.
-
 
 ## § 12b Freihafen-Veredelung
 
@@ -348,7 +326,6 @@ Gegenstände vermerkt werden.
 freien Verkehr ist vom Veredeler bei der in der Bewilligung bestimmten
 Zollstelle zu stellen.
 
-
 ## § 13 Fänge deutscher Fischer
 
 (1) Einfuhrumsatzsteuerfrei ist die Einfuhr von Fängen von Fischern,
@@ -360,7 +337,6 @@ deutschen Schiffen hergestellten Erzeugnisse.
 deutschen Schiff und für ein Unternehmen der Seefischerei eingeführt
 werden. Sie ist ausgeschlossen, wenn die Gegenstände vor der Einfuhr
 geliefert worden sind.
-
 
 ## § 14 Erstattung oder Erlaß
 
@@ -374,14 +350,12 @@ Umfang nach § 15 Abs. 1 Nr. 2 des Gesetzes zum Vorsteuerabzug
 berechtigt ist. Satz 1 gilt nicht für die Fälle des Artikels 236
 Zollkodex.
 
-
 ## § 15 Absehen von der Festsetzung der Steuer
 
 Die Einfuhrumsatzsteuer wird nicht festgesetzt für Gegenstände, die
 nur der Einfuhrumsatzsteuer unterliegen, wenn sie weniger als 10 Euro
 beträgt und nach § 15 Abs. 1 Nr. 2 des Gesetzes als Vorsteuer
 abgezogen werden könnte.
-
 
 ## § 16 Inkrafttreten, abgelöste Vorschrift
 

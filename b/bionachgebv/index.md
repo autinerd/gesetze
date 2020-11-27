@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 265
 
-
 ## Eingangsformel
 
 Es verordnen
@@ -44,7 +43,6 @@ Es verordnen
 
 jeweils in Verbindung mit dem 2. Abschnitt des
 Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821):
-
 
 ## § 1 Erhebung von Gebühren
 
@@ -90,11 +88,9 @@ verantwortlich ist, erhoben.
 (4) Die gebührenpflichtigen Tatbestände und die Gebührensätze ergeben
 sich aus dem Gebührenverzeichnis der Anlage zu dieser Verordnung.
 
-
 ## § 2 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Anlage (zu § 1 Absatz 4) Gebührenverzeichnis
 

@@ -19,15 +19,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 5 V v. 30.4.2012 I 1002
 
-
 ## Teil 1 - Allgemeine Bestimmungen
-
 
 ### § 1 Anwendungsbereich
 
 Diese Verordnung regelt Voraussetzungen und Bedingungen des
 Messstellenbetriebs und der Messung von Energie.
-
 
 ### § 2 Vertragliche Grundlagen
 
@@ -42,7 +39,6 @@ Grundlage ergangenen vollziehbaren Entscheidungen der
 Regulierungsbehörde allgemeine Bedingungen für diese Verträge
 (Messstellenverträge und Messverträge) im Internet zu veröffentlichen
 und zu diesen Bedingungen mit Dritten Verträge abzuschließen.
-
 
 ### § 3 Messstellenvertrag und Messvertrag
 
@@ -62,7 +58,6 @@ Messrahmenvertrag). Der Rahmenvertrag regelt die Durchführung der
 Aufgabe in einem Netzgebiet für Anschlussnutzer, die nach dem
 Vertragsschluss im Rahmen der Durchführung des Vertrages benannt
 werden können.
-
 
 ### § 4 Inhalt der Verträge zwischen Netzbetreiber und Messstellenbetreiber oder Messdienstleister
 
@@ -191,7 +186,6 @@ solange der Netzbetreiber die Messdatenübertragung für einen eng
 befristeten Zeitraum ausschließlich zu technischen Testzwecken
 durchführt.
 
-
 ### § 5 Wechsel des Messstellenbetreibers und des Messdienstleisters
 
 (1) Ein Anschlussnutzer hat gegenüber dem Netzbetreiber in Textform zu
@@ -248,7 +242,6 @@ die Beziehungen zwischen Messstellenbetreibern und Messdienstleistern,
 wenn die Aufgabe des Messstellenbetreibers oder der Messung nicht an
 den Netzbetreiber zurückfällt.
 
-
 ### § 6 Durchführung des Übergangs
 
 Der Netzbetreiber ist verpflichtet, dem Netznutzer, bezogen auf die
@@ -263,7 +256,6 @@ betroffene Messstelle,
 
 
 unverzüglich mitzuteilen.
-
 
 ### § 7 Ausfall des Messstellenbetreibers oder des Messdienstleisters
 
@@ -281,9 +273,7 @@ Netzbetreiber berechtigt, den Verbrauch für diesen Zeitraum nach
 Maßgabe des § 21 der Stromnetzzugangsverordnung und des § 48 der
 Gasnetzzugangsverordnung zu bestimmen.
 
-
 ## Teil 2 - Messstellenbetrieb und Messung
-
 
 ### § 8 Messstellenbetrieb
 
@@ -322,7 +312,6 @@ elektronisch ausgelesene Messeinrichtung nur einbauen, sofern
 Anschlussnutzer und Netzbetreiber ihr Rechtsverhältnis mit dem
 Messdienstleister für diese Messstelle beendet haben.
 
-
 ### § 9 Messung
 
 (1) Der Messstellenbetreiber führt, soweit nichts anderes vereinbart
@@ -339,7 +328,6 @@ einwandfreie Messung der entnommenen Energie sowie die form- und
 fristgerechte Datenübertragung gewährleistet sind. Er kann unter
 diesen Voraussetzungen auch Messungen durchführen, die über die in den
 §§ 10 und 11 vorgeschriebenen hinausgehen.
-
 
 ### § 10 Art der Messung beim Stromnetzzugang
 
@@ -361,7 +349,6 @@ Netzbetreiber die Anwendung des Lastgangzählverfahrens vereinbart hat.
 Netzbetreiber und Messstellenbetreiber sind im Falle eines solchen
 Verlangens zur Aufnahme entsprechender Vereinbarungen in den Verträgen
 nach § 3 verpflichtet.
-
 
 ### § 11 Art der Messung beim Gasnetzzugang
 
@@ -392,7 +379,6 @@ Netzbetreiber und Messstellenbetreiber sind im Falle eines solchen
 Verlangens zur Aufnahme entsprechender Vereinbarungen in den Verträgen
 nach § 3 verpflichtet.
 
-
 ### § 12 Datenaustausch und Nachprüfung der Messeinrichtung
 
 (1) Der Netzbetreiber hat einen elektronischen Datenaustausch in einem
@@ -421,9 +407,7 @@ trägt der Messstellenbetreiber die Kosten der Nachprüfung, sonst der
 Netzbetreiber. Die sonstigen Möglichkeiten zur Durchführung einer
 Befundprüfung nach § 32 Abs. 2 der Eichordnung bleiben unberührt.
 
-
 ## Teil 3 - Festlegungen der Bundesnetzagentur, Übergangsregelungen
-
 
 ### § 13 Festlegungen der Bundesnetzagentur
 
@@ -461,10 +445,6 @@ Festlegungen nach § 29 Abs. 1 des Energiewirtschaftsgesetzes treffen
     Automatisierung einzuhalten sind, sowie zu bundeseinheitlichen
     Regelungen, um den Datenaustausch und die Datenkonsistenz nach § 12 zu
     ermöglichen.
-
-
-
-
 
 ### § 14 Übergangsregelungen
 

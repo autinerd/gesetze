@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 26
 
-
 ## Eingangsformel
 
 Auf Grund des § 335 Abs. 2a des Handelsgesetzbuchs, der durch Artikel
@@ -25,7 +24,6 @@ worden ist, in Verbindung mit § 110b Abs. 1 Satz 1, 2 und 4, Abs. 2
 bis 4 des Gesetzes über Ordnungswidrigkeiten, der durch Artikel 7 Nr.
 6 des Gesetzes vom 22. März 2005 (BGBl. I S. 837) eingefügt worden
 ist, verordnet das Bundesministerium der Justiz:
-
 
 ## § 1 Elektronische Aktenführung
 
@@ -36,12 +34,10 @@ anderen Bestimmungen, die wegen des Ordnungsgeldverfahrens auf § 335
 des Handelsgesetzbuchs verweisen, einschließlich der Verfahrensakten
 in der Zwangsvollstreckung elektronisch führen.
 
-
 ## § 2 Fachverfahren nach dem Stand der Technik
 
 Das eingesetzte Fachverfahren hat dem Stand der Technik für die
 elektronische Vorgangsbearbeitung in der Bundesverwaltung zu genügen.
-
 
 ## § 3 Übertragung von Dokumenten in elektronische Dokumente; elektronische Akte
 
@@ -55,7 +51,6 @@ Dokumente sowie Vermerke nicht nachträglich verändert werden können.
 
 (2) Für jeden Vorgang ist eine elektronische Akte anzulegen.
 
-
 ## § 4 Mit Datenverarbeitungsanlagen erstellte Dokumente
 
 Bei Dokumenten, die unter Einsatz von Datenverarbeitungsanlagen
@@ -65,14 +60,12 @@ enthalten, dass sie nicht zu unterzeichnen sind und dass das Dokument
 unter Einsatz von Datenverarbeitungsanlagen erstellt worden ist. Satz
 1 gilt nicht für behördeninterne Verfügungen.
 
-
 ## § 5 Speicherung
 
 Nach rechtskräftigem Abschluss des Verfahrens sind die elektronischen
 Akten bis zu ihrer Löschung oder Übergabe an das Bundesarchiv in
 Dateiformaten zu speichern, die eine nachträgliche Veränderung nicht
 zulassen.
-
 
 ## § 6 Inkrafttreten
 

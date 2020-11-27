@@ -51,30 +51,17 @@ folgender Richtlinien:
     Rates vom 27. Januar 1997 über grenzüberschreitende Überweisungen
     (ABl. EG Nr. L 43 S. 25).
 
-
-
-
-
 ## Abschnitt 1 - (weggefallen)
-
-
 
 ### (XXXX) §§ 1 und 2 (weggefallen)
 
-
-
 ## Abschnitt 2 - (weggefallen)
-
-
 
 ### § 3 (weggefallen)
 
 -
 
-
 ## Abschnitt 3 - Informations- und Nachweispflichten von Reiseveranstaltern
-
-
 
 ### § 4 Prospektangaben
 
@@ -140,7 +127,6 @@ Leistungen vereinbaren.
 veranstalteten Reisen in einem von dem Reiseveranstalter zur Verfügung
 gestellten Bild- und Tonträger enthalten sind.
 
-
 ### § 5 Unterrichtung vor Vertragsschluss
 
 Der Reiseveranstalter ist verpflichtet, den Reisenden, bevor dieser
@@ -160,7 +146,6 @@ abgibt, zu unterrichten über
 soweit diese Angaben nicht bereits in einem von dem Reiseveranstalter
 herausgegebenen und dem Reisenden zur Verfügung gestellten Prospekt
 enthalten und inzwischen keine Änderungen eingetreten sind.
-
 
 ### § 6 Reisebestätigung, Allgemeine Reisebedingungen
 
@@ -233,7 +218,6 @@ Der Reisende ist jedoch spätestens bei Antritt der Reise über die in
 Absatz 2 Nr. 7 bezeichnete Obliegenheit und die in Absatz 2 Nr. 8
 bezeichneten Angaben zu unterrichten.
 
-
 ### § 7 Verträge über Gastschulaufenthalte (§ 651l des Bürgerlichen Gesetzbuchs)
 
 Über die in § 6 bestimmten Angaben hinaus hat der Reiseveranstalter
@@ -250,10 +234,6 @@ dem Reisenden folgende Informationen zu erteilen:
 
 3.  Abhilfeverlangen des Schülers oder der Schülerin und die vom
     Reiseveranstalter ergriffenen Maßnahmen.
-
-
-
-
 
 ### § 8 Unterrichtung vor Beginn der Reise
 
@@ -287,7 +267,6 @@ soweit die jeweilige Angabe bereits in einem dem Reisenden zur
 Verfügung gestellten Prospekt oder der Reisebestätigung enthalten ist
 und inzwischen keine Änderungen eingetreten sind.
 
-
 ### § 9 Muster für den Sicherungsschein
 
 (1) Der Reiseveranstalter hat vorbehaltlich des § 10 für den
@@ -318,7 +297,6 @@ oder Texte, muss sich der Sicherungsschein hiervon deutlich abheben.
 (6) Der Sicherungsschein kann auch in Textform nachgewiesen werden und
 elektronisch mit der Reisebestätigung verbunden werden.
 
-
 ### § 10 Nachweis nach § 651k Abs. 5 des Bürgerlichen Gesetzbuchs
 
 Ein Reiseveranstalter, der seine Hauptniederlassung in einem anderen
@@ -331,40 +309,28 @@ Hauptniederlassung geltenden Vorschriften, jedoch in deutscher oder
 einer anderen für den Verbraucher leicht verständlichen Sprache zu
 führen.
 
-
 ### § 11 Gelegenheitsreiseveranstalter
 
 Die §§ 4 bis 8 gelten nicht für Reiseveranstalter, die nur
 gelegentlich und außerhalb ihrer gewerblichen Tätigkeit Pauschalreisen
 veranstalten.
 
-
 ## Abschnitt 4 - (weggefallen)
-
-
 
 ### (XXXX) §§ 12 und 13 (weggefallen)
 
-
-
 ## Abschnitt 5 - (weggefallen)
-
-
 
 ### § 14 (weggefallen)
 
 -
 
-
 ## Abschnitt 6 - Schlussvorschriften
-
-
 
 ### § 15 Überleitungsregelung für das Muster nach § 9
 
 Bisherige Sicherungsscheinformulare können bis zum Ablauf des 31.
 Dezember 2002 aufgebraucht werden.
-
 
 ### § 16 Überleitungsregelung für die Muster nach § 14
 
@@ -373,7 +339,6 @@ Informationen und Belehrungen über das Widerrufs- oder Rückgaberecht
 anzuwenden, die den bis zum 31. März 2008 geltenden Mustern
 entsprechen und dem Verbraucher vor dem 1. Oktober 2008 in Textform
 mitgeteilt worden sind.
-
 
 ### Anlage 1 (zu § 9) Muster für den Sicherungsschein
 
@@ -458,7 +423,6 @@ mitgeteilt worden sind.
 ### Anlage 2 (weggefallen)
 
 -
-
 
 ### Anlage 3 (weggefallen)
 

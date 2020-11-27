@@ -24,7 +24,6 @@ Geändert durch
     anschließenden Aufhebung der Richtlinie 2001/77/EG und 2003/30/EG
     (ABl. L 140 vom 5.6.2009, S. 16).
 
-
 ## Eingangsformel
 
 Es verordnet auf Grund
@@ -41,10 +40,6 @@ Es verordnet auf Grund
     eingefügt worden ist, in Verbindung mit dem 2. Abschnitt des
     Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821), das
     Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit:
-
-
-
-
 
 ## § 1 Herkunftsnachweisregister
 
@@ -74,7 +69,6 @@ Datensicherheit unter Beachtung von § 9 des Bundesdatenschutzgesetzes
 und der Anlage zu § 9 Satz 1 des Bundesdatenschutzgesetzes und unter
 Berücksichtigung der einschlägigen Standards und Empfehlungen des
 Bundesamtes für Sicherheit in der Informationstechnik zu treffen.
-
 
 ## § 2 Mindestinhalt von Herkunftsnachweisen
 
@@ -110,13 +104,6 @@ Ein Herkunftsnachweis muss mindestens die folgenden Angaben enthalten:
         von Energie aus erneuerbaren Quellen und zur Änderung und
         anschließenden Aufhebung der Richtlinien 2001/77/EG und 2003/30/EG
         (ABl. L 140 vom 5.6.2009, S. 16) gezahlt oder erbracht wurde.
-
-
-
-
-
-
-
 
 ## § 3 Grundsätze für die Ausstellung, Anerkennung, Übertragung und Entwertung von Herkunftsnachweisen
 
@@ -154,7 +141,6 @@ entsprechenden Strommenge. Entwertete Herkunftsnachweise dürfen nicht
 mehr verwendet werden. Sie sind unverzüglich automatisch zu löschen,
 sobald sie zur Führung des Herkunftsnachweisregisters nicht mehr
 erforderlich sind.
-
 
 ## § 4 Übertragung von Aufgaben; Beleihung
 
@@ -208,7 +194,6 @@ die hiermit verbundenen Rechte und Pflichten für die mit der Aufgabe
 beliehene juristische Person sind in der Rechtsverordnung nach Absatz
 1 zu regeln.
 
-
 ## § 5 Außenverkehr
 
 Zur Anerkennung ausländischer Herkunftsnachweise nach § 55 Absatz 2
@@ -219,7 +204,6 @@ Europäischen Union dem Bundesministerium für Umwelt, Naturschutz und
 Reaktorsicherheit; dabei sind die §§ 4b und 4c des
 Bundesdatenschutzgesetzes zu beachten. Es kann diese Aufgabe ganz oder
 teilweise auf das Umweltbundesamt übertragen.
-
 
 ## § 6 Übertragung der Verordnungsermächtigung
 
@@ -282,7 +266,6 @@ Herkunftsnachweisregisters gebührenpflichtigen Tatbestände und
 Gebührensätze sowie die erstattungsfähigen Auslagen gemäß § 63a des
 Erneuerbare-Energien-Gesetzes zu bestimmen.
 
-
 ## § 7 Übergangsbestimmungen
 
 Die §§ 1 bis 4 sind nicht anzuwenden auf Herkunftsnachweise, die bis
@@ -291,7 +274,6 @@ Absatz 1 Satz 2 ausgestellt worden sind. Herkunftsnachweise nach Satz
 1 gelten spätestens zwölf Monate nach dem Tag der Aufnahme des
 Betriebs des Herkunftsnachweisregisters als entwertet. § 3 Absatz 4
 Satz 3 gilt entsprechend.
-
 
 ## § 8 Inkrafttreten
 

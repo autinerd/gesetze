@@ -32,10 +32,7 @@ Auftraggeber im Bereich der Wasser-, Energie- und Verkehrsversorgung
 sowie im Telekommunikationssektor (ABl. EG Nr. L 101 S. 1) in
 deutsches Recht.
 
-
 ## Abschnitt 1 - Vergabebestimmungen
-
-
 
 ### § 1 Zweck der Verordnung
 
@@ -53,7 +50,6 @@ Sektorenverordnung vom 23. September 2009 (BGBl. I S. 3110).
 (3) Diese Verordnung gilt nicht für verteidigungs- und
 sicherheitsrelevante Aufträge im Sinne des § 99 Absatz 7 des Gesetzes
 gegen Wettbewerbsbeschränkungen.
-
 
 ### § 2 Schwellenwerte
 
@@ -111,10 +107,6 @@ Der Schwellenwert beträgt
 7.  für Lose von Dienstleistungsaufträgen nach Nummer 1 oder 2: 80 000
     Euro oder bei Losen unterhalb von 80 000 Euro deren addierter Wert ab
     20 vom Hundert des Gesamtwertes aller Lose.
-
-
-
-
 
 ### § 3 Schätzung des Auftragswertes
 
@@ -193,7 +185,6 @@ abgesendet oder das Vergabeverfahren auf andere Weise eingeleitet
 wird.
 
 (10) (weggefallen)
-
 
 ### § 4 Vergabe von Liefer- und Dienstleistungsaufträgen
 
@@ -359,7 +350,6 @@ der Technik zulässt und hierdurch die Einsatzfähigkeit der
 Einsatzfahrzeuge zur Erfüllung des in Satz 1 genannten hoheitlichen
 Auftrags nicht beeinträchtigt wird.
 
-
 ### § 5 Vergabe freiberuflicher Leistungen
 
 (1) Bei der Vergabe von Aufträgen für Dienstleistungen, die im Rahmen
@@ -393,7 +383,6 @@ Bekanntmachung vom 18. November 2009 (BAnz. Nr. 185a vom 8. Dezember
 (2) Absatz 1 gilt nicht für Dienstleistungen, deren Gegenstand eine
 Aufgabe ist, deren Lösung vorab eindeutig und erschöpfend beschrieben
 werden kann.
-
 
 ### § 6 Vergabe von Bauleistungen
 
@@ -457,28 +446,19 @@ anhand der Informationen nach Absatz 4 oder der Ergebnisse einer
 Überprüfung nach Absatz 5 zu ermittelnde Energieeffizienz als
 Zuschlagskriterium angemessen zu berücksichtigen.
 
-
 ### § 6a (weggefallen)
-
-
 
 ### § 7 (weggefallen)
 
-
-
 ### (XXXX) §§ 8 bis 11 (weggefallen)
-
-
 
 ### § 12 (weggefallen)
 
 -
 
-
 ### § 13 (weggefallen)
 
 -
-
 
 ### § 14 Bekanntmachungen
 
@@ -496,10 +476,7 @@ Auftragsgegenstandes zu verwenden.
 Bundesanzeiger einen Hinweis auf die Rechtsvorschrift zur Änderung der
 CPV bekannt.
 
-
 ### § 15 (weggefallen)
-
-
 
 ### § 16 Ausgeschlossene Personen
 
@@ -543,7 +520,6 @@ gerader Linie, Geschwister, Kinder der Geschwister, Ehegatten und
 Lebenspartner der Geschwister und Geschwister der Ehegatten und
 Lebenspartner, Geschwister der Eltern sowie Pflegeeltern und
 Pflegekinder.
-
 
 ### § 17 Melde- und Berichtspflichten
 
@@ -593,14 +569,9 @@ Referenznummer 64227000-3) lauten, sowie über Dienstleistungen des
 Anhangs I Teil B, sofern der geschätzte Wert ohne Umsatzsteuer unter
 200 000 Euro liegt.
 
-
 ### (XXXX) §§ 18 bis 22 (weggefallen)
 
-
-
 ## Abschnitt 2 - Übergangs- und Schlussbestimmungen
-
-
 
 ### § 23 Übergangsbestimmungen
 
@@ -612,10 +583,7 @@ zugelassen ist, können nach den Verfahrensvorschriften, welche vor
 Inkrafttreten dieser Verordnung galten, abgewickelt werden, wenn dies
 in der Bekanntmachung festgelegt ist.
 
-
 ### § 24 (Inkrafttreten, Außerkrafttreten)
-
-
 
 ### Anlage 1
 
@@ -817,8 +785,6 @@ in der Bekanntmachung festgelegt ist.
     *   Von 90400000-1 bis 90743200-9
         (außer 9071220-3), von 90910000-9
         bis 90920000-2 und 50190000-3, 50229000-6, 50243000-0
-
-
 
 ## **Teil B**
 
@@ -1035,8 +1001,6 @@ Fußnote)
     *   11 MJ/Nm
         3
 
-
-
 ## Tabelle 2
 
 Emissionskosten im Straßenverkehr
@@ -1063,8 +1027,6 @@ Emissionskosten im Straßenverkehr
     *   0,001 €/g
 
     *   0,087 €/g
-
-
 
 ## Tabelle 3
 
@@ -1101,9 +1063,6 @@ Emissionskosten im Straßenverkehr
         3                     )
 
     *   800 000 km
-
-
-
 
 ### Anlage 3 Methode zur Berechnung der über die Lebensdauer von Straßenfahrzeugen anfallenden Betriebskosten
 

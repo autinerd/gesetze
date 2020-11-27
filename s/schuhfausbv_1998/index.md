@@ -18,8 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 14.2.2011 I 262
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
@@ -30,17 +28,14 @@ ist, verordnet das Bundesministerium für Wirtschaft im Einvernehmen
 mit dem Bundesministerium für Bildung, Wissenschaft, Forschung und
 Technologie:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Schuhfertiger/Schuhfertigerin wird staatlich
 anerkannt.
 
-
 ## § 2 Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Ausbildungsberufsbild
 
@@ -85,10 +80,6 @@ Fertigkeiten und Kenntnisse:
 
 13. Sichern von Qualitätsstandards.
 
-
-
-
-
 ## § 4 Ausbildungsrahmenplan
 
 (1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach der in der
@@ -105,12 +96,10 @@ Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges
 Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung
 ist auch in den Prüfungen nach den §§ 7 und 8 nachzuweisen.
 
-
 ## § 5 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 6 Berichtsheft
 
@@ -118,7 +107,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 7 Zwischenprüfung
 
@@ -143,7 +131,6 @@ sowie Steppen von Halte- und Ziernähten.
 Dabei soll der Prüfling zeigen, daß er die Zusammenhänge von Technik,
 Betriebsorganisation, Sicherheit und Gesundheitsschutz bei der Arbeit,
 Umweltschutz sowie Wirtschaftlichkeit berücksichtigen kann.
-
 
 ## § 8 Abschlußprüfung
 
@@ -306,7 +293,6 @@ erbracht sind. Werden die Prüfungsleistungen in dem Prüfungsstück oder
 der Planungsaufgabe oder in einem der drei Prüfungsbereiche mit
 "ungenügend" bewertet, so ist die Prüfung nicht bestanden.
 
-
 ## § 8a Fortsetzung der Berufsausbildung
 
 Nach erfolgreichem Abschluss der Berufsausbildung zur Fachkraft für
@@ -315,7 +301,6 @@ Fachkraft für Lederverarbeitung vom 14. Februar 2011 (BGBl. I S. 255)
 kann die Ausbildungsdauer einer Berufsausbildung zum Schuhfertiger
 oder zur Schuhfertigerin um zwei Jahre verkürzt werden.
 
-
 ## § 9 Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
@@ -323,11 +308,9 @@ Verordnung bestehen, sind die bisherigen Vorschriften weiter
 anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
 Anwendung der Vorschriften dieser Verordnung.
 
-
 ## § 10 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 1998 in Kraft.
-
 
 ## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Schuhfertiger/zur Schuhfertigerin
 

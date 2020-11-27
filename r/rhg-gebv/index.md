@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 648
 
-
 ## § 1 Erhebung von Gebühren und Auslagen
 
 Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit (BVL)
@@ -30,7 +29,6 @@ Verbindung mit § 1 Nummer 4 der BVL-Aufgabenübertragungsverordnung vom
 Mitwirkungshandlung des Bundesinstitutes für Risikobewertung Gebühren
 und Auslagen nach dieser Verordnung.
 
-
 ## § 2 Gebührenpflichtige Tatbestände, Erhöhungen und Ermäßigungen der Gebühren
 
 (1) Die gebührenpflichtigen Tatbestände und die Höhe der Gebühren
@@ -42,7 +40,6 @@ oder teilweise abgesehen werden, wenn ein besonderes öffentliches
 Interesse an der Festsetzung oder Änderung des
 Rückstandshöchstgehaltes besteht.
 
-
 ## § 3 Rücknahme, Widerspruch
 
 Wird ein Antrag auf Vornahme einer gebührenpflichtigen Amtshandlung
@@ -52,7 +49,6 @@ Bewertungsberichtes nach Artikel 8 Absatz 1 der Verordnung (EG) Nr.
 ausgenommen wegen fehlender Zuständigkeit, abgelehnt, so werden
 Gebühren nach Maßgabe des § 15 Absatz 2 des Verwaltungskostengesetzes
 erhoben.
-
 
 ## Anlage (zu § 2 Absatz 1) Gebührenverzeichnis
 

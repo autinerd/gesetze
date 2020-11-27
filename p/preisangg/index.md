@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 11 G v. 7.9.2007 I 2246
 
-
 ## § 1
 
 Zum Zwecke der Unterrichtung und des Schutzes der Verbraucher und zur
@@ -34,11 +33,9 @@ beziehen, anzugeben sind. Bei Leistungen der elektronischen
 Informations- und Kommunikationsdienste können auch Bestimmungen über
 die Angabe des Preisstandes fortlaufender Leistungen getroffen werden.
 
-
 ## § 2
 
 (weggefallen)
-
 
 ## § 3
 

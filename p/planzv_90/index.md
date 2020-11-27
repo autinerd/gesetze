@@ -18,14 +18,11 @@ Fundstelle
 Geändert durch
 :   Art. 2 G v 22.7.2011 I 1509
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 2 Abs. 5 Nr. 4 des Baugesetzbuchs in der Fassung der
 Bekanntmachung vom 8. Dezember 1986 (BGBl. I S. 2253) verordnet der
 Bundesminister für Raumordnung, Bauwesen und Städtebau:
-
 
 ## § 1 Planunterlagen
 
@@ -42,7 +39,6 @@ Straßen, Wege und Plätze sowie die Geländehöhe ergeben. Von diesen
 Angaben kann insoweit abgesehen werden, als sie für die Festsetzungen
 nicht erforderlich sind. Der Stand der Planunterlagen (Monat, Jahr)
 soll angegeben werden.
-
 
 ## § 2 Planzeichen
 
@@ -71,7 +67,6 @@ unbeachtlich, wenn die Darstellung, Festsetzung, Kennzeichnung,
 nachrichtliche Übernahme oder der Vermerk hinreichend deutlich
 erkennbar ist.
 
-
 ## § 3 Überleitungsvorschrift
 
 Die bis zum 31. Oktober 1981 sowie die bis zum Inkrafttreten dieser
@@ -88,10 +83,6 @@ Verordnung geltenden Planzeichen können weiterhin verwendet werden
     begonnen worden ist sowie für Änderungen oder Ergänzungen dieser
     Bauleitpläne.
 
-
-
-
-
 ## § 4 Inkrafttreten
 
 (1) Diese Verordnung tritt am ersten Tage des auf die Verkündung
@@ -99,11 +90,9 @@ folgenden dritten Kalendermonats in Kraft.
 
 (2)
 
-
 ## Schlußformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage Anlage zur Verordnung über die Ausarbeitung der Bauleitpläne und die Darstellung des Planinhalts (Planzeichenverordnung 1990 - PlanzV 90) vom 18. Dezember 1990
 

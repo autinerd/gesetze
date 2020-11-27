@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1984, 486
 
-
-
 ## (XXXX)
 
 Als Auszeichnung für Turn- und Sportvereine sowie Sportverbände, die

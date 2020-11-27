@@ -20,22 +20,18 @@ Fundstelle
 Geändert durch
 :   Art. 9 G v. 19.12.1998 I 3853
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art 1
 
 -
 
-
 ## (XXXX) Art 2 bis Art 9 (weggefallen)
 
 -
-
 
 ## Art 10 Überleitungsvorschrift
 
@@ -46,23 +42,19 @@ bleibt bis zur Entscheidung des Zulassungsausschusses über deren
 Zulassung oder Ermächtigung unberührt, sofern sie einen Antrag auf
 Zulassung oder Ermächtigung bis zum 31. Dezember 1998 gestellt haben.
 
-
 ## Art 11
 
 -
 
-
 ## (XXXX) Art 12 und Art 13 (weggefallen)
 
 -
-
 
 ## Art 14 Rückkehr zum einheitlichen Verordnungsrang
 
 Der auf Artikel 7 beruhende Teil der geänderten Rechtsverordnung kann
 auf Grund der einschlägigen Ermächtigung durch Rechtsverordnung
 geändert werden.
-
 
 ## Art 15 Inkrafttreten
 

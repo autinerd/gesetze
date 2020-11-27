@@ -30,7 +30,6 @@ Verkehrsunternehmer (ABl. EG Nr. L 124 S. 1), zuletzt geändert durch
 Richtlinie 98/76/EG des Rates vom 1. Oktober 1998 (ABl. EG Nr. L 277
 S. 17).
 
-
 ## Eingangsformel
 
 Auf Grund
@@ -49,7 +48,6 @@ in Verbindung mit Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom
 18\. März 1975 (BGBl. I S. 705) und dem Organisationserlass vom 27.
 Oktober 1998 (BGBl. I S. 3288), verordnet das Bundesministerium für
 Verkehr, Bau- und Wohnungswesen:
-
 
 ## § 1 Persönliche Zuverlässigkeit
 
@@ -105,7 +103,6 @@ Zur Prüfung, ob solche Verstöße vorliegen, kann die
 Genehmigungsbehörde Unbedenklichkeitsbescheinigungen und Auszüge aus
 Registern, in denen derartige Verstöße registriert sind, von dem
 Antragsteller verlangen oder mit dessen Einverständnis anfordern.
-
 
 ## § 2 Finanzielle Leistungsfähigkeit
 
@@ -213,7 +210,6 @@ Vergrößerung des Fahrzeugparks muss er die Anforderungen unverzüglich
 erfüllen. Es gilt die Vermutung, dass die Anforderungen bei dem
 Unternehmen vorliegen.
 
-
 ## § 3 Fachliche Eignung
 
 Fachlich geeignet im Sinne von § 13 Abs. 1 Nr. 3 des
@@ -233,7 +229,6 @@ EG Nr. L 277 S. 17), in der jeweils geltenden Fassung aufgeführt sind.
 Dies gilt nicht für den Taxen- und Mietwagenverkehr. Die dafür
 erforderlichen Kenntnisse sind in der Anlage 3 dieser Verordnung
 aufgeführt.
-
 
 ## § 4 Fachkundeprüfung
 
@@ -286,7 +281,6 @@ II des Anhangs I dieser Richtlinie.
 
 (8) (weggefallen)
 
-
 ## § 5 Prüfungsausschuss
 
 (1) Die Prüfung wird vor der zuständigen Industrie- und Handelskammer
@@ -317,7 +311,6 @@ werden, wenn innerhalb eines Vierteljahres weniger als drei Bewerber
 zur Prüfung anstehen oder dem Bewerber andernfalls wirtschaftliche
 Nachteile entstehen.
 
-
 ## § 6 Gleichwertige Abschlussprüfungen
 
 (1) Als Prüfungen der fachlichen Eignung gelten auch die in der Anlage
@@ -336,7 +329,6 @@ obersten Landesverkehrsbehörde im Verkehrsblatt bekannt.
 Handelskammer stellt dem Inhaber eines nach Absatz 1 oder 2
 anerkannten Abschlusses auf Antrag eine Fachkundebescheinigung aus
 nach dem Muster der Anlage 4 oder 5.
-
 
 ## § 7 Anerkennung leitender Tätigkeit
 
@@ -359,7 +351,6 @@ Nachweis der fachlichen Eignung nicht aus, so kann die Kammer mit dem
 Bewerber ein ergänzendes Beurteilungsgespräch führen. Hält die Kammer
 den Bewerber für fachlich geeignet, so stellt sie eine
 Fachkundebescheinigung nach dem Muster der Anlage 4 oder 5 aus.
-
 
 ## § 8 Befreiung vom Nachweis der fachlichen Eignung
 
@@ -385,10 +376,6 @@ Die fachliche Eignung im Sinne des § 3 brauchen nicht nachzuweisen:
 5.  Unternehmen mit einer Genehmigung für den Verkehr mit Mietwagen, die
     eine Genehmigung für den Verkehr mit Taxen beantragen.
 
-
-
-
-
 ## § 9 Überwachung
 
 (1) Die zuständigen Behörden vergewissern sich regelmäßig und
@@ -411,7 +398,6 @@ auf der Grundlage eines Finanzplans erneut auf Dauer erfüllt werden
 kann, kann die zuständige Behörde eine Frist für den Nachweis der
 finanziellen Leistungsfähigkeit einräumen, die die Dauer eines Jahres
 nicht überschreiten darf.
-
 
 ## § 10 Anerkennung von ausländischen Berufsqualifikationen
 
@@ -443,7 +429,6 @@ Abs. 2 der Richtlinie 2005/36/EG über die ihm bekannt gewordenen
 strafrechtlichen Verurteilungen und andere Tatsachen, die geeignet
 sind, Zweifel an der Zuverlässigkeit des Unternehmens zu begründen.
 
-
 ## § 11 Inkrafttreten, Außerkrafttreten
 
 (1) Die §§ 3 bis 8 treten am 1. Januar 2001 in Kraft. Im Übrigen tritt
@@ -451,11 +436,9 @@ diese Verordnung am 1. Juli 2000 in Kraft.
 
 (2)
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage 1 (zu § 2 Abs. 2 Nr. 2)
 
@@ -494,7 +477,6 @@ für Steuerrecht, einer
 Wirtschaftsprüfungs-, Buchprüfungs-
 oder Steuerberatungsgesellschaft
 oder eines Kreditinstituts)
-
 
 ## Anlage 2 (zu § 2 Abs. 3)
 
@@ -597,7 +579,6 @@ für Steuerrecht, einer
 Wirtschaftsprüfungs-, Buchprüfungs-
 oder Steuerberatungsgesellschaft
 oder eines Kreditinstituts)
-
 
 ## Anlage 3 (zu § 3 und § 7)
 
@@ -748,13 +729,6 @@ oder eines Kreditinstituts)
 
     5.3 Beförderungsdokumente.
 
-
-
-
-
-
-
-
 ## Anlage 4 (zu § 4 Abs. 1, § 6 Abs. 1 und 2, § 7)
 
 (Fundstelle: BGBl. I 2000, 860)
@@ -824,7 +798,6 @@ Ausgestellt in ......................  am
 (Stempel und Unterschrift der
 zuständigen IHK)
 
-
 ## Anlage 5 (zu § 4 Abs. 1, § 6 Abs. 1 und 2, § 7)
 
 (Fundstelle: BGBl. I 2000, 861)
@@ -860,7 +833,6 @@ Ausgestellt in ......................  am
 .................................
 (Stempel und Unterschrift der
 zuständigen IHK)
-
 
 ## Anlage 6 (zu § 6 Abs. 1)
 

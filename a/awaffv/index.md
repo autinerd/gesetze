@@ -26,7 +26,6 @@ Informationsgesellschaft (ABl. EG Nr. L 204 S. 37), geändert durch die
 Richtlinie 98/48/EG des Europäischen Parlaments und des Rates vom 20.
 Juli 1998 (ABl. EG Nr. L 217 S. 18), sind beachtet worden.
 
-
 ## Eingangsformel
 
 Auf Grund des § 6 Abs. 4, § 7 Abs. 2, § 15 Abs. 7 Satz 2, § 22 Abs. 2,
@@ -36,10 +35,7 @@ Waffengesetzes vom 11. Oktober 2002 (BGBl. I S. 3970, 4592, 2003 I S.
 Oktober 2002 (BGBl. I S. 3970, 4013), verordnet das Bundesministerium
 des Innern:
 
-
 ## Abschnitt 1 - Nachweis der Sachkunde
-
-
 
 ### § 1 Umfang der Sachkunde
 
@@ -73,7 +69,6 @@ Zusammenhang stehenden Zweck nachgewiesen werden.
 umfasst die nachzuweisende Sachkunde außer waffentechnischen
 Kenntnissen auch Werkstoff-, Fertigungs- und Ballistikkenntnisse.
 
-
 ### § 2 Prüfung
 
 (1) Die zuständige Behörde bildet für die Abnahme der Prüfung
@@ -98,7 +93,6 @@ ist.
 (5) Eine Prüfung kann bei Nichtbestehen auch mehrmals wiederholt
 werden. Der Prüfungsausschuss kann bestimmen, dass die Prüfung erst
 nach Ablauf einer bestimmten Frist wiederholt werden darf.
-
 
 ### § 3 Anderweitiger Nachweis der Sachkunde
 
@@ -221,10 +215,7 @@ Halbsatz und die Absätze 3 und 4 finden hierfür entsprechende
 Anwendung. Zur Durchführung der Prüfung bilden die schießsportlichen
 Vereine eigene Prüfungsausschüsse.
 
-
 ## Abschnitt 2 - Nachweis der persönlichen Eignung
-
-
 
 ### § 4 Gutachten über die persönliche Eignung
 
@@ -338,10 +329,7 @@ Dienstbehörde vorlegen, dass eine Begutachtung ihrer geistigen Eignung
 durch einen sachkundigen Gutachter bereits stattgefunden hat und dass
 sie uneingeschränkt zum Umgang mit Dienstwaffen berechtigt sind.
 
-
 ## Abschnitt 3 - Schießsportordnungen; Ausschluss von Schusswaffen; Fachbeirat
-
-
 
 ### § 5 Schießsportordnungen
 
@@ -402,7 +390,6 @@ nach Satz 1 untersagen oder Anordnungen treffen.
 Schießsportveranstaltungen können Schießsportordnungen Abweichungen
 von den in ihr festgelegten Schießdisziplinen zulassen.
 
-
 ### § 6 Vom Schießsport ausgeschlossene Schusswaffen
 
 (1) Vom sportlichen Schießen sind ausgeschlossen:
@@ -446,7 +433,6 @@ bedeutenden Schießsportwettkämpfen verwendete Schusswaffen handelt.
 
 (4) Zuständige Behörde für die Beurteilung der Schusswaffen nach
 Absatz 1 ist das Bundeskriminalamt.
-
 
 ### § 7 Unzulässige Schießübungen im Schießsport
 
@@ -502,7 +488,6 @@ unberührt.
 einschließlich jagdlicher Schießwettkämpfe werden durch die
 vorstehenden Regelungen nicht beschränkt.
 
-
 ### § 8 Beirat für schießsportliche Fragen
 
 (1) Beim Bundesministerium des Innern wird ein Beirat für
@@ -554,10 +539,7 @@ Innern auch einen Vertreter dieses Verbandes ein.
 (6) Die Mitglieder des Fachbeirates üben ihre Tätigkeit ehrenamtlich
 aus, sofern sie keine Behörde vertreten.
 
-
 ## Abschnitt 4 - Benutzung von Schießstätten
-
-
 
 ### § 9 Zulässige Schießübungen auf Schießstätten
 
@@ -610,7 +592,6 @@ Bedienstete, die nach § 55 Abs. 1 des Waffengesetzes oder auf Grund
 einer nach § 55 Abs. 5 oder 6 des Waffengesetzes erlassenen
 Rechtsverordnung von der Anwendung des Waffengesetzes ausgenommen
 sind.
-
 
 ### § 10 Aufsichtspersonen; Obhut über das Schießen durch Kinder und Jugend
 
@@ -692,7 +673,6 @@ Anerkennungsverfahrens nach § 15 des Waffengesetzes.
 (7) Die Absätze 1 bis 6 gelten nicht für ortsveränderliche
 Schießstätten im Sinne von § 27 Abs. 6 des Waffengesetzes.
 
-
 ### § 11 Aufsicht
 
 (1) Die verantwortlichen Aufsichtspersonen haben das Schießen in der
@@ -710,7 +690,6 @@ verantwortlichen Aufsichtspersonen nach Absatz 1 zu befolgen.
 (3) Eine zur Aufsichtsführung befähigte Person darf schießen, ohne
 selbst beaufsichtigt zu werden, wenn sichergestellt ist, dass sie sich
 allein auf dem Schießstand befindet.
-
 
 ### § 12 Überprüfung der Schießstätten
 
@@ -783,8 +762,6 @@ nichtmilitärischen Schießständen“ erfolgt ist.
 [^F770975_03_BJNR212300003BJNE001403360]: 
 
 ## Abschnitt 5 - Aufbewahrung von Waffen und Munition
-
-
 
 ### § 13 Aufbewahrung von Waffen oder Munition
 
@@ -893,7 +870,6 @@ erforderliche Vorkehrungen gegen Abhandenkommen oder unbefugte
 Ansichnahme zu sichern, wenn die Aufbewahrung gemäß den Anforderungen
 der Absätze 1 bis 8 nicht möglich ist.
 
-
 ### § 14 Aufbewahrung von Waffen oder Munition in Schützenhäusern, auf Schießstätten oder im gewerblichen Bereich
 
 Die zuständige Behörde kann auf Antrag eines Betreibers eines
@@ -906,14 +882,9 @@ Grades der von ihnen ausgehenden Gefahr für die öffentliche Sicherheit
 und Ordnung die Belegenheit und Frequentiertheit der
 Aufbewahrungsstätte besonders zu berücksichtigen.
 
-
 ## Abschnitt 6 - Vorschriften für das Waffengewerbe
 
-
-
 ### Unterabschnitt 1 - Fachkunde
-
-
 
 #### § 15 Umfang der Fachkunde
 
@@ -946,10 +917,6 @@ nachzuweisen über
 2.  die in der Anlage aufgeführten Waffen- oder Munitionsarten, für die
     Erlaubnis zum Handel beantragt ist.
 
-
-
-
-
 #### § 16 Prüfung
 
 (1) Die zuständige Behörde bildet für die Abnahme der Prüfung
@@ -972,10 +939,7 @@ Waffenherstellung bestellt werden.
 Niederschrift und die Wiederholung der Prüfung gilt § 2 Abs. 3 Satz 2
 und Abs. 4 und 5 entsprechend.
 
-
 ### Unterabschnitt 2 - Waffenherstellungs- und Waffenhandelsbücher
-
-
 
 #### § 17 Grundsätze der Buchführungspflicht
 
@@ -1018,7 +982,6 @@ hat er es der zuständigen Behörde zur Aufbewahrung zu übergeben. Gibt
 der zur Buchführung Verpflichtete das Gewerbe auf, so hat er das Buch
 seinem Nachfolger zu übergeben oder der zuständigen Behörde zur
 Aufbewahrung auszuhändigen.
-
 
 #### § 18 Führung der Waffenbücher in gebundener Form
 
@@ -1170,10 +1133,6 @@ Modell vor dem 1. Januar 1871 entwickelt worden ist,
 
 3.  mit Lunten- oder Funkenzündung.
 
-
-
-
-
 #### § 19 Führung der Waffenbücher in Karteiform
 
 (1) Wird das Waffenherstellungsbuch oder das Waffenhandelsbuch in
@@ -1311,7 +1270,6 @@ ist,
 Karteiblättern sowie auf die Vorlage und Aufbewahrung der
 Karteiblätter und der Belege entsprechend anzuwenden.
 
-
 #### § 20 Führung der Waffenbücher in elektronischer Form
 
 (1) Wird das Waffenherstellungs- oder das Waffenhandelsbuch in
@@ -1345,10 +1303,7 @@ werden und sichergestellt ist, dass die während des Jahres
 gespeicherten Daten auf Verlangen der zuständigen Behörde jederzeit in
 Klarschrift ausgedruckt werden können.
 
-
 ### Unterabschnitt 3 - Kennzeichnung von Waffen
-
-
 
 #### § 21 Kennzeichnung von Schusswaffen
 
@@ -1414,10 +1369,7 @@ Kennzeichen nach § 24 Abs. 2 des Waffengesetzes zu entfernen. Neben
 der auf Grund der Änderung angebrachten Kennzeichnung ist dauerhaft
 der Buchstabe "U" anzubringen.
 
-
 ## Abschnitt 7 - Ausbildung in der Verteidigung mit Schusswaffen
-
-
 
 ### § 22 Lehrgänge und Schießübungen
 
@@ -1458,7 +1410,6 @@ unverzüglich anzuzeigen.
 verantwortlichen Aufsichtsperson und von Ausbildern ist § 10 Abs. 1
 entsprechend anzuwenden.
 
-
 ### § 23 Zulassung zum Lehrgang
 
 (1) Zur Teilnahme an den Lehrgängen oder Schießübungen im Sinne des §
@@ -1485,7 +1436,6 @@ ausgestellten Waffenbesitzkarte und Inhabern eines Jagdscheins, die im
 Sinne des § 19 des Waffengesetzes persönlich gefährdet sind, die
 Teilnahme an Lehrgängen oder Schießübungen der in § 22 genannten Art
 gestatten.
-
 
 ### § 24 Verzeichnisse
 
@@ -1522,7 +1472,6 @@ Verteidigungsschießens auf, so hat er das Verzeichnis seinem
 Nachfolger zu übergeben oder der zuständigen Behörde zur Aufbewahrung
 auszuhändigen.
 
-
 ### § 25 Untersagung von Lehrgängen oder Lehrgangsteilen; Abberufung von Aufsichtspersonen oder Ausbildern
 
 (1) Die zuständige Behörde kann Veranstaltungen im Sinne des § 22
@@ -1549,17 +1498,9 @@ solange der Veranstalter
     einen Ausbilder wegen fehlender Zuverlässigkeit, persönlicher Eignung
     oder Sachkunde von seiner Tätigkeit abzuberufen, nicht nachkommt.
 
-
-
-
-
 ## Abschnitt 8 - Vorschriften mit Bezug zur Europäischen Union und zu Drittstaaten
 
-
-
 ### Unterabschnitt 1 - Anwendung des Gesetzes auf Bürger der Europäischen Union
-
-
 
 #### § 26 Allgemeine Bestimmungen
 
@@ -1606,7 +1547,6 @@ Waffengesetzes ihren gewöhnlichen Aufenthalt haben und eine
 selbstständige oder unselbstständige Tätigkeit ausüben, die den
 Erwerb, den Besitz oder das Führen einer Waffe oder von Munition
 erfordert.
-
 
 #### § 27 Besondere Bestimmungen zur Fachkunde
 
@@ -1669,10 +1609,7 @@ entsprechenden Berufszweigs tätig war
 sind, ist vom Antragsteller durch eine Bescheinigung der zuständigen
 Stelle des Herkunftslandes zu erbringen.
 
-
 ### Unterabschnitt 2 - Erwerb von Waffen und Munition in anderen Mitgliedstaaten; Verbringen und Mitnahme
-
-
 
 #### § 28 Erlaubnisse für den Erwerb von Waffen und Munition in einem anderen Mitgliedstaat
 
@@ -1697,10 +1634,6 @@ Erteilung hat der Antragsteller folgende Angaben zu machen:
 3.  über die Munition:
 
     Anzahl, Art, Kaliber und gegebenenfalls CIP-Prüfzeichen.
-
-
-
-
 
 #### § 29 Erlaubnisse zum Verbringen von Waffen und Munition
 
@@ -1838,10 +1771,6 @@ enthalten:
     genaue Angabe des Ortes, an den die Waffen oder die Munition versandt
     oder transportiert werden.
 
-
-
-
-
 #### § 30 Erlaubnisse für die Mitnahme von Waffen und Munition nach oder durch Deutschland
 
 (1) Eine Erlaubnis nach § 32 Abs. 1 Satz 1 des Waffengesetzes wird
@@ -1907,7 +1836,6 @@ vorgesehenen amtlichen Vordruck erfolgen. Im Falle des Satzes 1 sind
 für die Antragsteller jeweils die Angaben nach Absatz 1 Satz 2 Nr. 1
 und 4 vollständig zu machen, die Angaben nach Absatz 1 Satz 2 Nr. 2
 und 3, soweit die Behörde hierauf nicht verzichtet hat.
-
 
 #### § 31 Anzeigen
 
@@ -1983,7 +1911,6 @@ Passes oder des Personalausweises eine amtliche Beglaubigung dieser
 Urkunden. Das Bundeskriminalamt bestätigt dem Anzeigenden den Eingang
 auf dem Doppel der Anzeige.
 
-
 #### § 32 Mitteilungen der Behörden
 
 (1) Die zuständige Behörde übermittelt dem Bundeskriminalamt die
@@ -2026,7 +1953,6 @@ Angaben nach § 29 Abs. 4 durch ein Doppel des Erlaubnisscheins.
 Überwachungsbehörden übermitteln den zuständigen Behörden die nach §
 29 Abs. 3 Satz 3 und nach § 30 Abs. 3 Satz 2 mitgeteilten Angaben.
 
-
 #### § 33 Europäischer Feuerwaffenpass
 
 (1) Die Geltungsdauer des Europäischen Feuerwaffenpasses nach § 32
@@ -2043,10 +1969,7 @@ abzugeben. Das Lichtbild muss das Gesicht im Ausmaß von mindestens 20
 Millimeter darstellen und den Antragsteller zweifelsfrei erkennen
 lassen. Der Hintergrund muss heller sein als die Gesichtspartie.
 
-
 ## Abschnitt 9 - Ordnungswidrigkeiten und Schlussvorschriften
-
-
 
 ### § 34 Ordnungswidrigkeiten
 
@@ -2141,24 +2064,17 @@ handelt, wer vorsätzlich oder fahrlässig
 22. entgegen § 25 Abs. 2 Satz 1 die Durchführung eines Lehrgangs oder
     einer Schießübung nicht oder nicht rechtzeitig einstellt.
 
-
-
-
-
 ### § 35 (weggefallen)
 
 -
-
 
 ### § 36 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Dezember 2003 in Kraft.
 
-
 ### Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ### Anlage (zu § 15 Abs. 2 Nr. 2) Waffen- und Munitionsarten
 

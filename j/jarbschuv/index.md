@@ -15,14 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1990, 2221
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 46 Abs. 1 und des § 72 Abs. 3 Satz 2 des
 Jugendarbeitsschutzgesetzes vom 12. April 1976 (BGBl. I S. 965)
 verordnet der Bundesminister für Arbeit und Sozialordnung:
-
 
 ## § 1 Durchführung der Untersuchungen
 
@@ -40,14 +37,12 @@ nötig sind (§ 37 Jugendarbeitsschutzgesetz).
 Jugendarbeitsschutzgesetz) gilt der Tag der abschließenden
 Beurteilung.
 
-
 ## § 2 Untersuchungsberechtigungsschein
 
 Die Kosten einer Untersuchung werden vom Land (§ 44
 Jugendarbeitsschutzgesetz) nur erstattet, wenn der Arzt der
 Kostenforderung einen von der nach Landesrecht zuständigen Stelle
 ausgegebenen Untersuchungsberechtigungsschein beifügt.
-
 
 ## § 3 Erhebungsbogen
 
@@ -62,7 +57,6 @@ vom Personensorgeberechtigten ausgefüllt und von diesem und dem
 Jugendlichen unterschrieben, dem Arzt bei der Untersuchung vorgelegt
 werden.
 
-
 ## § 4 Untersuchungsbogen
 
 (1) Für die Aufzeichnung der Ergebnisse einer Erstuntersuchung hat der
@@ -73,7 +67,6 @@ zu verwenden.
 
 (2) Der Arzt hat die Untersuchungsbogen 10 Jahre aufzubewahren.
 
-
 ## § 5 Ärztliche Mitteilung an den Personensorgeberechtigten
 
 Für die ärztliche Mitteilung an den Personensorgeberechtigten nach §
@@ -81,7 +74,6 @@ Für die ärztliche Mitteilung an den Personensorgeberechtigten nach §
 Erstuntersuchung einen Vordruck nach dem Muster der Anlage 3 in weißer
 Farbe, bei einer Nachuntersuchung einen Vordruck nach dem Muster der
 Anlage 3a in roter Farbe zu verwenden.
-
 
 ## § 6 Ärztliche Bescheinigung für den Arbeitgeber
 
@@ -91,24 +83,20 @@ Erstuntersuchung einen Vordruck nach dem Muster der Anlage 4 in weißer
 Farbe, bei einer Nachuntersuchung einen Vordruck nach dem Muster der
 Anlage 4a in roter Farbe zu verwenden.
 
-
 ## § 7 Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 71 des Jugendarbeitsschutzgesetzes auch im Land
 Berlin.
 
-
 ## § 8 Inkrafttreten, abgelöste Vorschrift
 
 Diese Verordnung tritt am ersten Tage des auf die Verkündung folgenden
 vierten Kalendermonats in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage 1 Erhebungsbogen für die Erstuntersuchung nach dem Jugendarbeitsschutzgesetz (JArbSchG)
 

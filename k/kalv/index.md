@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 22.10.2009 I 3670
 
-
 ## Eingangsformel
 
 Auf Grund des § 12c Abs. 1 Satz 1 Nr. 1 bis 4 und Abs. 2, auch in
@@ -31,7 +30,6 @@ Dezember 1992 (BGBl. 1993 I S. 2) eingefügt worden sind, verordnet das
 Bundesministerium der Finanzen im Einvernehmen mit dem
 Bundesministerium der Justiz:
 
-
 ## § 1 Versicherungsmathematische Methoden in der Krankenversicherung
 
 Versicherungsmathematische Methoden zur Berechnung der Prämien und
@@ -41,7 +39,6 @@ Versicherungsmathematik unter Verwendung der in den §§ 2 und 4 bis 8
 näher bezeichneten Rechnungsgrundlagen erfolgenden Berechnungen der
 Prämien und der Alterungsrückstellungen nach Maßgabe der §§ 3, 10, 11,
 13 und 16.
-
 
 ## § 2 Rechnungsgrundlagen
 
@@ -78,18 +75,15 @@ Ausscheidewahrscheinlichkeiten erforderlich sind.
 (3) Die Rechnungsgrundlagen sind mit ausreichenden Sicherheiten zu
 versehen.
 
-
 ## § 3 Gleiche Rechnungsgrundlagen
 
 Für die Berechnung der Prämie und der Alterungsrückstellung sind die
 gleichen Rechnungsgrundlagen zu verwenden.
 
-
 ## § 4 Rechnungszins
 
 Der Rechnungszins für die Prämienberechnung und die Berechnung der
 Alterungsrückstellung darf 3,5 vom Hundert nicht übersteigen.
-
 
 ## § 5 Ausscheideordnung
 
@@ -104,7 +98,6 @@ Versicherungsaufsichtsgesetzes dürfen außer den
 Sterbewahrscheinlichkeiten sowie dem Abgang zur sozialen
 Pflegeversicherung und gesetzlichen Krankenversicherung keine weiteren
 Abgangswahrscheinlichkeiten berücksichtigt werden.
-
 
 ## § 6 Kopfschäden
 
@@ -159,13 +152,11 @@ abgegrenzte Schaden darf nicht niedriger sein als der beobachtete
 abgegrenzte Schaden für Leistungen wegen Schwangerschaft und
 Mutterschaft.
 
-
 ## § 7 Sicherheitszuschlag
 
 In die Prämie ist ein Sicherheitszuschlag von mindestens fünf vom
 Hundert der Bruttoprämie einzurechnen, der nicht bereits in anderen
 Rechnungsgrundlagen enthalten sein darf.
-
 
 ## § 8 Grundsätze für die Bemessung der sonstigen Zuschläge
 
@@ -246,12 +237,10 @@ Beitragsgarantie im Standardtarif und des unternehmensübergreifenden
 Ausgleich eingerechnet werden. Dieser Zuschlag entfällt für die
 Versicherten, die das 65. Lebensjahr vollendet haben.
 
-
 ## § 9 Dokumentationspflichten
 
 Alle rechnungsmäßigen Ansätze hat das Versicherungsunternehmen in
 überprüfbarer Weise zu belegen.
-
 
 ## § 10 Prämienberechnung
 
@@ -284,7 +273,6 @@ Formeln des Abschnitts A des Anhangs I oder andere geeignete Formeln,
 die den anerkannten Regeln der Versicherungsmathematik entsprechen, zu
 verwenden.
 
-
 ## § 11 Berechnung der Prämien bei Prämienanpassung
 
 (1) Die Berechnung der Prämien bei Prämienanpassungen hat nach den für
@@ -303,7 +291,6 @@ anerkannten Regeln der Versicherungsmathematik entsprechen, zu
 verwenden. In die Prämien der Versicherten, die das 45. Lebensjahr
 vollendet haben, dürfen keine erneuten einmaligen Kosten eingerechnet
 werden.
-
 
 ## § 12 Tarife mit gleichartigem Versicherungsschutz
 
@@ -352,7 +339,6 @@ abdecken, die im bisherigen Versicherungsschutz, nicht jedoch im
 Basistarif enthalten sind, und für die der Versicherte
 versicherungsfähig ist, als Tarife mit gleichartigem
 Versicherungsschutz anzusehen.
-
 
 ## § 13 Anrechnung der erworbenen Rechte und der Alterungsrückstellung bei einem Tarifwechsel
 
@@ -413,7 +399,6 @@ nach Absatz 3 dürfen nicht erneut einmalige Abschlußkosten
 eingerechnet werden.
 
 (5) (weggefallen)
-
 
 ## § 13a Übertragungswert
 
@@ -507,7 +492,6 @@ einem anderen Unternehmen, gilt die Alterungsrückstellung als
 Übertragungswert im Sinne des § 12f Satz 2 des
 Versicherungsaufsichtsgesetzes.
 
-
 ## § 14 Verfahren zur Gegenüberstellung der erforderlichen und der kalkulierten Versicherungsleistungen
 
 (1) Die Gegenüberstellung nach § 12b Abs. 2 Satz 1 und 2 des
@@ -578,7 +562,6 @@ wenn im abgelaufenen Kalenderjahr nach der Statistik der
 Pflegepflichtversicherung die Pflegekosten pro Tag von dem
 rechnungsmäßigen Ansatz um mehr als zehn vom Hundert abweichen.
 
-
 ## § 14a Verfahren zur Gegenüberstellung der kalkulierten mit den zuletzt veröffentlichten Sterbewahrscheinlichkeiten
 
 (1) Die Gegenüberstellung nach § 12b Absatz 2a des
@@ -603,7 +586,6 @@ einzelnen Altersbereiche gemäß Satz 5 ermittelten Werte anzusehen.
 (2) Für Krankentagegeldtarife sind bei der Gegenüberstellung gemäß
 Absatz 1 die Altersbereiche von 21 bis 45 sowie von 46 bis 65 zu
 betrachten.
-
 
 ## § 15 Vorlagefristen
 
@@ -631,7 +613,6 @@ Prämien für die Versicherten einschließlich der statistischen
 Nachweise für die Rechnungsgrundlagen dem Treuhänder spätestens zwölf
 Monate nach Abschluß des Beobachtungszeitraumes vorzulegen.
 
-
 ## § 16 Alterungsrückstellung
 
 Bei der Berechnung der Alterungsrückstellung nach § 341f des
@@ -645,7 +626,6 @@ zulässig, bei dem das arithmetische Mittel der
 Einzelalterungsrückstellungen, die sich dadurch ergeben, daß die
 Versicherungsdauern auf ganze Jahre auf- und abgerundet werden,
 verwendet wird.
-
 
 ## § 17 Aufstellung von Wahrscheinlichkeitstafeln
 
@@ -750,7 +730,6 @@ mitzuteilen, die im vorangegangenen Kalenderjahr mitzuteilen waren.
 Versicherungsaufsichtsgesetzes sind von der Vorlagepflicht nach Absatz
 1 befreit.
 
-
 ## § 18 Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 144 Abs. 1a Nr. 1 des
@@ -760,7 +739,6 @@ als Liquidator eines Versicherungsunternehmens vorsätzlich oder
 fahrlässig entgegen § 15 die dort genannte Gegenüberstellung oder die
 Herleitung der neuen Prämie nicht, nicht vollständig oder nicht
 rechtzeitig vorlegt.
-
 
 ## § 19 Ausnahme- und Übergangsvorschriften
 
@@ -806,16 +784,13 @@ Mutterschaft geschlechtsunabhängig umgelegt werden, und die Prämien
 daran anzupassen. § 12b Abs. 1 des Versicherungsaufsichtsgesetzes
 findet Anwendung.
 
-
 ## § 20 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anhang I Prämienberechnung nach § 10 Abs. 3, § 11 Abs. 2 und § 13 Abs. 4
 
@@ -990,7 +965,6 @@ Abs. 3 Satz 3 verwendet, so ändert sich der Ausdruck für
 B(hoch)a/n(tief)u entsprechend.
 Interpolationen der Rechenwerte auf den Zeitpunkt der Prämienanpassung
 oder der Umstufung sind zulässig.
-
 
 ## Anhang II Berechnung des Grundkopfschadens und der erforderlichen Versicherungsleistungen nach § 14 Abs. 2 und 3
 

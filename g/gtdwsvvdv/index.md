@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 2974
 
-
 ## Eingangsformel
 
 Auf Grund des § 26 Absatz 1 Nummer 2 des Bundesbeamtengesetzes vom 5.
@@ -24,9 +23,7 @@ Februar 2009 (BGBl. I S. 160) in Verbindung mit § 10 Absatz 1 der
 Bundeslaufbahnverordnung vom 12. Februar 2009 (BGBl. I S. 284)
 verordnet das Bundesministerium für Verkehr, Bau und Stadtentwicklung:
 
-
 ## Abschnitt 1 - Allgemeines
-
 
 ### § 1 Vorbereitungsdienst
 
@@ -43,10 +40,6 @@ ist,
 2.  ansonsten ein für die Laufbahnaufgaben geeignetes Bachelorstudium an
     einer kooperierenden Hochschule mit zwei berufspraktischen
     Studienzeiten (Studium).
-
-
-
-
 
 ### § 2 Ziele und Schwerpunkte des Vorbereitungsdienstes
 
@@ -79,7 +72,6 @@ Fachrichtungen:
 
 (3) Die Anwärterinnen und Anwärter sind zum Selbststudium
 verpflichtet.
-
 
 ### § 3 Einstellungsbehörde, Auswahlverfahren
 
@@ -150,7 +142,6 @@ Auswahlkommissionen für eine Fachrichtung eingerichtet, wird eine
 Rangfolge aller Bewerberinnen und Bewerber dieser Fachrichtung
 festgelegt.
 
-
 ### § 4 Erholungsurlaub
 
 Erholungsurlaub wird gewährt
@@ -160,10 +151,6 @@ Erholungsurlaub wird gewährt
 
 2.  im Studium in der Regel nur während der berufspraktischen
     Studienzeiten.
-
-
-
-
 
 ### § 5 Nachteilsausgleich
 
@@ -183,7 +170,6 @@ Einstellungsbehörde.
 (3) Bei Prüfungen durch eine kooperierende Hochschule sind die Absätze
 1 und 2 insoweit entsprechend anzuwenden, als sie den Bestimmungen der
 Hochschule nicht widersprechen.
-
 
 ### § 6 Bewertung der Leistungen
 
@@ -318,9 +304,7 @@ Gliederung und Klarheit der Darstellung zu berücksichtigen.
 (3) Durchschnittsrangpunktzahlen werden auf zwei Nachkommastellen ohne
 Auf- oder Abrundung berechnet.
 
-
 ## Abschnitt 2 - Berufspraktische Ausbildung
-
 
 ### § 7 Allgemeines
 
@@ -342,7 +326,6 @@ anderen Behörden oder Unternehmen im In- oder Ausland oder bei über-
 oder zwischenstaatlichen Einrichtungen absolviert werden. Die
 berufspraktische Ausbildung kann durch Exkursionen ergänzt werden.
 
-
 ### § 8 Ausbildungsleitung, Ausbildende
 
 (1) Mit Ausbildungsaufgaben darf nur betraut werden, wer über die
@@ -363,7 +346,6 @@ erforderlich, werden sie von anderen Dienstgeschäften entlastet. Die
 Ausbildenden haben die Ausbildungsleiterin oder den Ausbildungsleiter
 regelmäßig über den erreichten Ausbildungsstand zu informieren.
 
-
 ### § 9 Ausbildungsrahmenplan, Ausbildungsplan
 
 (1) Die oberste Dienstbehörde oder eine von ihr bestimmte Stelle
@@ -377,7 +359,6 @@ jeden Anwärter einen individuellen Ausbildungsplan für die gesamte
 Ausbildung, in dem die Ausbildungsstellen sowie die Dauer und die
 Abfolge der einzelnen Ausbildungsabschnitte enthalten sind, und gibt
 ihn der Anwärterin oder dem Anwärter bekannt.
-
 
 ### § 10 Beurteilung
 
@@ -395,7 +376,6 @@ der Erläuterung vergeben.
 (3) Die Beurteilung ist mit der Anwärterin oder dem Anwärter zu
 besprechen.
 
-
 ### § 11 Praxisarbeiten während der berufspraktischen Ausbildung
 
 (1) Während der berufspraktischen Ausbildung sind mindestens zwei
@@ -409,7 +389,6 @@ gilt sie als mit null Rangpunkten bewertet.
 
 (3) Die §§ 23 und 24 sind entsprechend anzuwenden mit der Maßgabe,
 dass über die Folgen ausschließlich das Prüfungsamt entscheidet.
-
 
 ### § 12 Zeugnis, Ausbildungsrangpunktzahl
 
@@ -429,9 +408,7 @@ entscheidet das Prüfungsamt. Der Vorbereitungsdienst wird entsprechend
 verlängert. Ist auch die Wiederholung erfolglos, ist der
 Vorbereitungsdienst beendet.
 
-
 ## Abschnitt 3 - Studium
-
 
 ### § 13 Dauer und Aufbau des Studiums
 
@@ -488,10 +465,6 @@ absolviert werden. Das Studium gliedert sich wie folgt:
         während der vorlesungsfreien Zeiten des Bachelorstudiums und nach
         Abschluss des Bachelorstudiums
 
-
-
-
-
 ### § 14 Studium
 
 (1) Die im Studium zu vermittelnden Kenntnisse und Fähigkeiten
@@ -506,7 +479,6 @@ den Studienplänen und Bestimmungen der Hochschule.
 
 (3) Die Einstellungsbehörde weist die Anwärterinnen und Anwärter für
 das Bachelorstudium der Hochschule zu.
-
 
 ### § 15 Berufspraktische Studienzeiten
 
@@ -525,7 +497,6 @@ Ausbildungsrahmenplan geregelt.
 
 (3) Die §§ 7 und 8 gelten entsprechend.
 
-
 ### § 16 Praxisarbeit
 
 (1) Während der berufspraktischen Studienzeit II ist eine schriftliche
@@ -533,7 +504,6 @@ Praxisarbeit anzufertigen. Die Praxisarbeit ist mindestens eine Woche
 vorher anzukündigen.
 
 (2) § 11 Absatz 2 und 3 gilt entsprechend.
-
 
 ### § 17 Zeugnis, Praxisrangpunktzahl
 
@@ -547,9 +517,7 @@ der Abschlussprüfung eine Ausfertigung des Zeugnisses.
 
 (2) § 12 Absatz 2 gilt entsprechend.
 
-
 ## Abschnitt 4 - Prüfungen
-
 
 ### § 18 Laufbahnprüfung
 
@@ -574,14 +542,12 @@ Ausbildungsstand der Anwärterinnen und Anwärter, beantragt deren
 Zulassung zur Laufbahnprüfung und leitet dem Prüfungsamt die
 Personalakten und die Ausbildungsakten zu.
 
-
 ### § 19 Prüfungsamt
 
 Für die Organisation und Durchführung der schriftlichen und mündlichen
 Abschlussprüfungen richtet die oberste Dienstbehörde ein Prüfungsamt
 ein. Sie kann diese Aufgaben auch ganz oder teilweise auf andere
 Behörden übertragen.
-
 
 ### § 20 Prüfungskommission
 
@@ -634,7 +600,6 @@ des Vorsitzenden den Ausschlag. Stimmenthaltung ist nicht zulässig.
 
 (6) Die Mitglieder der Prüfungskommission sind bei ihrer
 Prüfungstätigkeit unabhängig und nicht weisungsgebunden.
-
 
 ### § 21 Schriftliche Abschlussprüfung
 
@@ -735,7 +700,6 @@ Das Prüfungsamt teilt den Anwärterinnen und Anwärtern auf
 schriftlichen Antrag mit, wie viele Rangpunkte sie in ihren Klausuren
 erreicht haben.
 
-
 ### § 22 Mündliche Abschlussprüfung
 
 (1) Zur mündlichen Abschlussprüfung wird vom Prüfungsamt zugelassen,
@@ -811,7 +775,6 @@ Berechnung ein.
 (8) Die mündliche Abschlussprüfung soll innerhalb der regulären Dauer
 des Vorbereitungsdienstes abgeschlossen werden.
 
-
 ### § 23 Fernbleiben, Rücktritt
 
 (1) Bei Fernbleiben oder Rücktritt von der schriftlichen oder
@@ -831,7 +794,6 @@ worden ist.
 (3) Das Prüfungsamt bestimmt, wann die Prüfung oder der Prüfungsteil
 nachgeholt wird; es entscheidet, ob und inwieweit die bereits
 abgegebenen Arbeiten gewertet werden.
-
 
 ### § 24 Täuschung, Ordnungsverstoß
 
@@ -867,7 +829,6 @@ der mündlichen Prüfung für nicht bestanden erklären.
 (5) Die Betroffenen sind vor den Entscheidungen nach den Absätzen 2
 bis 4 anzuhören.
 
-
 ### § 25 Wiederholung von Prüfungen
 
 (1) Wer die Bachelorprüfung oder Teile der Bachelorprüfung nicht
@@ -897,7 +858,6 @@ die zuvor erreichten.
 Vorbereitungsdienst beendet.
 
 (6) Eine bestandene Prüfung kann nicht wiederholt werden.
-
 
 ### § 26 Bestehen der Laufbahnprüfung, Rangpunktzahl der Laufbahnprüfung
 
@@ -1111,7 +1071,6 @@ Laufbahnprüfung zur Ermittlung der Abschlussnote bei einem
 Nachkommawert ab 50 aufgerundet und bei einem kleineren Nachkommawert
 abgerundet.
 
-
 ### § 27 Abschlusszeugnis
 
 (1) Wer die Laufbahnprüfung bestanden hat, erhält ein
@@ -1136,7 +1095,6 @@ Prüfungsamt einen Bescheid über die nicht bestandene Laufbahnprüfung
 und eine Bescheinigung über die erbrachten Leistungen. Aus der
 Bescheinigung geht hervor, wie lange die Ausbildung dauerte, welche
 Inhalte sie umfasste und wie viele Rangpunkte erzielt wurden.
-
 
 ### § 28 Prüfungsakten, Einsichtnahme
 
@@ -1166,9 +1124,7 @@ die nicht bestandene Laufbahnprüfung können die Betroffenen auf Antrag
 Einsicht in ihre Prüfungsakten nehmen. Die Einsichtnahme ist in der
 jeweiligen Akte zu vermerken.
 
-
 ## Abschnitt 5 - Schlussvorschriften
-
 
 ### § 29 Übergangsvorschrift
 
@@ -1179,7 +1135,6 @@ technischen Verwaltungsdienst in der Wasser- und
 Schifffahrtsverwaltung des Bundes vom 25. Mai 2003 (BGBl. I S. 750),
 die zuletzt durch Artikel 3 Absatz 35 der Verordnung vom 12. Februar
 2009 (BGBl. I S. 320) geändert worden ist, weiter anzuwenden.
-
 
 ### § 30 Inkrafttreten, Außerkrafttreten
 

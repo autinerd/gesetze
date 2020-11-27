@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1996, 50
 
-
-
 ## (XXXX)
 
 Auf Grund des Artikels 3 Abs. 3 des Bundesbesoldungs- und

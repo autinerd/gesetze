@@ -18,13 +18,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1997, 1054
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -33,7 +30,6 @@ Regierung der Bundesrepublik Deutschland, den vereinten Nationen und
 dem Sekretariat des Rahmenübereinkommens der Vereinten Nationen über
 Klimaänderungen über den Sitz des Sekretariats des Übereinkommens wird
 zugestimmt. Das Abkommen wird nachstehend veröffentlicht.
-
 
 ## Art 2
 
@@ -46,7 +42,6 @@ Vereinten Nationen und dem Ständigen Vertreter der Bundesrepublik
 Deutschland bei den Vereinten Nationen vereinbart werden, durch
 Rechtsverordnung mit Zustimmung des Bundesrates in Kraft zu setzen.
 
-
 ## Art 3
 
 Artikel 3 des Gesetzes vom 5. Juni 1996 zum Abkommen vom 10. November
@@ -58,11 +53,9 @@ Klimaänderungen beziehungsweise deren Familienangehörige gemäß Artikel
 24 Abs. 2 des entsprechend anzuwendenden Abkommens über den Sitz des
 Freiwilligenprogramms der Vereinten Nationen.
 
-
 ## Art 4
 
 -
-
 
 ## Art 5
 

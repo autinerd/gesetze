@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 7.5.2009 I 1044
 
-
 ## § 1
 
 Ordnungswidrig im Sinne des § 14 Abs. 1 Nr. 9 des Tierische
@@ -154,10 +153,6 @@ oder fahrlässig
 
 11. entgegen Artikel 22 Absatz 1 Buchstabe a oder Buchstabe b eine Art
     oder ein Nutztier füttert.
-
-
-
-
 
 ## § 2
 

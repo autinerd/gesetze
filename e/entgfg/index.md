@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1a G v. 21.7.2012 I 1601
 
-
 ## § 1 Anwendungsbereich
 
 (1) Dieses Gesetz regelt die Zahlung des Arbeitsentgelts an
@@ -29,7 +28,6 @@ Krankheitsfall.
 
 (2) Arbeitnehmer in Sinne dieses Gesetzes sind Arbeiter und
 Angestellte sowie die zu ihrer Berufsbildung Beschäftigten.
-
 
 ## § 2 Entgeltzahlung an Feiertagen
 
@@ -45,7 +43,6 @@ infolge eines gesetzlichen Feiertages nach Absatz 1 ausgefallen.
 (3) Arbeitnehmer, die am letzten Arbeitstag vor oder am ersten
 Arbeitstag nach Feiertagen unentschuldigt der Arbeit fernbleiben,
 haben keinen Anspruch auf Bezahlung für diese Feiertage.
-
 
 ## § 3 Anspruch auf Entgeltfortzahlung im Krankheitsfall
 
@@ -81,7 +78,6 @@ von einer anerkannten Beratungsstelle hat beraten lassen.
 (3) Der Anspruch nach Absatz 1 entsteht nach vierwöchiger
 ununterbrochener Dauer des Arbeitsverhältnisses.
 
-
 ## § 3a Anspruch auf Entgeltfortzahlung bei Spende von Organen oder Geweben
 
 (1) Ist ein Arbeitnehmer durch Arbeitsunfähigkeit infolge der Spende
@@ -113,7 +109,6 @@ Antrag die Kosten nach Satz 1. Mehrere Erstattungspflichtige haben die
 Kosten nach Satz 1 anteilig zu tragen. Der Arbeitnehmer hat dem
 Arbeitgeber unverzüglich die zur Geltendmachung des
 Erstattungsanspruches erforderlichen Angaben zu machen.
-
 
 ## § 4 Höhe des fortzuzahlenden Arbeitsentgelts
 
@@ -150,7 +145,6 @@ kann zwischen nichttarifgebundenen Arbeitgebern und Arbeitnehmern die
 Anwendung der tarifvertraglichen Regelung über die Fortzahlung des
 Arbeitsentgelts im Krankheitsfalle vereinbart werden.
 
-
 ## § 4a Kürzung von Sondervergütungen
 
 Eine Vereinbarung über die Kürzung von Leistungen, die der Arbeitgeber
@@ -159,7 +153,6 @@ ist auch für Zeiten der Arbeitsunfähigkeit infolge Krankheit zulässig.
 Die Kürzung darf für jeden Tag der Arbeitsunfähigkeit infolge
 Krankheit ein Viertel des Arbeitsentgelts, das im Jahresdurchschnitt
 auf einen Arbeitstag entfällt, nicht überschreiten.
-
 
 ## § 5 Anzeige- und Nachweispflichten
 
@@ -198,7 +191,6 @@ Arbeitnehmer in das Inland zurück, so ist er verpflichtet, dem
 Arbeitgeber und der Krankenkasse seine Rückkehr unverzüglich
 anzuzeigen.
 
-
 ## § 6 Forderungsübergang bei Dritthaftung
 
 (1) Kann der Arbeitnehmer auf Grund gesetzlicher Vorschriften von
@@ -217,7 +209,6 @@ machen.
 
 (3) Der Forderungsübergang nach Absatz 1 kann nicht zum Nachteil des
 Arbeitnehmers geltend gemacht werden.
-
 
 ## § 7 Leistungsverweigerungsrecht des Arbeitgebers
 
@@ -238,7 +229,6 @@ Arbeitsentgelts zu verweigern,
 (2) Absatz 1 gilt nicht, wenn der Arbeitnehmer die Verletzung dieser
 ihm obliegenden Verpflichtungen nicht zu vertreten hat.
 
-
 ## § 8 Beendigung des Arbeitsverhältnisses
 
 (1) Der Anspruch auf Fortzahlung des Arbeitsentgelts wird nicht
@@ -253,7 +243,6 @@ wichtigem Grund ohne Einhaltung einer Kündigungsfrist berechtigt.
 ohne daß es einer Kündigung bedarf, oder infolge einer Kündigung aus
 anderen als den in Absatz 1 bezeichneten Gründen, so endet der
 Anspruch mit dem Ende des Arbeitsverhältnisses.
-
 
 ## § 9 Maßnahmen der medizinischen Vorsorge und Rehabilitation
 
@@ -286,7 +275,6 @@ b)  eine ärztliche Bescheinigung über die Erforderlichkeit der Maßnahme im
 
 
 unverzüglich vorzulegen.
-
 
 ## § 10 Wirtschaftliche Sicherung für den Krankheitsfall im Bereich der Heimarbeit
 
@@ -337,7 +325,6 @@ des Heimarbeitsgesetzes entsprechend anzuwenden. Auf die Ansprüche der
 fremden Hilfskräfte der in Absatz 1 unter Nummer 2 genannten Personen
 auf Entgeltfortzahlung im Krankheitsfall ist § 26 des
 Heimarbeitsgesetzes entsprechend anzuwenden.
-
 
 ## § 11 Feiertagsbezahlung der in Heimarbeit Beschäftigten
 
@@ -400,13 +387,11 @@ Entgelte (§ 28); hierbei finden die §§ 24 bis 26 des
 Heimarbeitsgesetzes Anwendung, wenn ein Feiertagsgeld gezahlt ist, das
 niedriger ist als das in diesem Gesetz festgesetzte.
 
-
 ## § 12 Unabdingbarkeit
 
 Abgesehen von § 4 Abs. 4 kann von den Vorschriften dieses Gesetzes
 nicht zuungunsten des Arbeitnehmers oder der nach § 10 berechtigten
 Personen abgewichen werden.
-
 
 ## § 13 Übergangsvorschrift
 

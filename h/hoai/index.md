@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 2732
 
-
 ## Eingangsformel
 
 Auf Grund der §§ 1 und 2 des Gesetzes zur Regelung von Ingenieur- und
@@ -23,9 +22,7 @@ Architektenleistungen vom 4. November 1971, die durch Artikel 1 des
 Gesetzes vom 12. November 1984 (BGBl. I S. 1337) geändert worden sind,
 verordnet die Bundesregierung:
 
-
 ## Teil 1 - Allgemeine Vorschriften
-
 
 ### § 1 Anwendungsbereich
 
@@ -34,7 +31,6 @@ der Architekten und Architektinnen und der Ingenieure und
 Ingenieurinnen (Auftragnehmer oder Auftragnehmerinnen) mit Sitz im
 Inland, soweit die Leistungen durch diese Verordnung erfasst und vom
 Inland aus erbracht werden.
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -133,7 +129,6 @@ Für diese Verordnung gelten folgende Begriffsbestimmungen:
 [^f772278_01_BJNR273200009BJNE000400000]:     Zu beziehen über das Deutsche Institut für Normung e. V. unter
     www.din.de
 
-
 ### § 3 Leistungen und Leistungsbilder
 
 (1) Die Honorare für Leistungen sind in den Teilen 2 bis 4 dieser
@@ -197,7 +192,6 @@ in Prozentsätzen der Honorare bewertet.
 (8) Das Ergebnis jeder Leistungsphase ist mit dem Auftraggeber zu
 erörtern.
 
-
 ### § 4 Anrechenbare Kosten
 
 (1) Anrechenbare Kosten sind Teil der Kosten zur Herstellung, zum
@@ -225,10 +219,6 @@ Auftraggeber
 
 
 4.  vorhandene oder vorbeschaffte Baustoffe oder Bauteile einbauen lässt.
-
-
-
-
 
 ### § 5 Honorarzonen
 
@@ -304,7 +294,6 @@ Maßgabe der Bewertungsmerkmale, gegebenenfalls der Bewertungspunkte
 und anhand der Regelbeispiele in den Objektlisten der Anlage 3
 vorzunehmen.
 
-
 ### § 6 Grundlagen des Honorars
 
 (1) Das Honorar für Leistungen nach dieser Verordnung richtet sich
@@ -337,7 +326,6 @@ schriftlich vereinbaren, dass das Honorar auf der Grundlage der
 anrechenbaren Kosten einer Baukostenvereinbarung nach den Vorschriften
 dieser Verordnung berechnet wird. Dabei werden nachprüfbare Baukosten
 einvernehmlich festgelegt.
-
 
 ### § 7 Honorarvereinbarung
 
@@ -381,7 +369,6 @@ betragen kann. In Fällen des Überschreitens der einvernehmlich
 festgelegten anrechenbaren Kosten kann ein Malus-Honorar in Höhe von
 bis zu 5 Prozent des Honorars vereinbart werden.
 
-
 ### § 8 Berechnung des Honorars in besonderen Fällen
 
 (1) Werden nicht alle Leistungsphasen eines Leistungsbildes
@@ -395,7 +382,6 @@ gesamten Leistungsphase entspricht. Das Gleiche gilt, wenn wesentliche
 Teile von Leistungen dem Auftragnehmer nicht übertragen werden. Ein
 zusätzlicher Koordinierungs- und Einarbeitungsaufwand ist zu
 berücksichtigen.
-
 
 ### § 9 Berechnung des Honorars bei Beauftragung von Einzelleistungen
 
@@ -452,7 +438,6 @@ Grünordnungsplänen als Einzelleistung in Auftrag gegeben, können
 abweichend von den Leistungsbewertungen in Teil 2 Abschnitt 2 bis zu
 60 Prozent für die Vorplanung vereinbart werden.
 
-
 ### § 10 Mehrere Vorentwurfs- oder Entwurfsplanungen
 
 Werden auf Veranlassung des Auftraggebers mehrere Vorentwurfs- oder
@@ -463,7 +448,6 @@ nach § 3 Absatz 4 vertraglich zu vereinbaren. Bei der Berechnung des
 Honorars für jede weitere Vorentwurfs- oder Entwurfsplanung sind die
 anteiligen Prozentsätze der entsprechenden Leistungen vertraglich zu
 vereinbaren.
-
 
 ### § 11 Auftrag für mehrere Objekte
 
@@ -497,7 +481,6 @@ sonstigen Plänen herangezogen werden, ist das Honorar angemessen zu
 reduzieren; dies gilt auch, wenn mit der Aufstellung dieser Pläne
 andere Auftragnehmer betraut waren.
 
-
 ### § 12 Planausschnitte
 
 Werden Teilflächen bereits aufgestellter Bauleitpläne
@@ -505,13 +488,11 @@ Werden Teilflächen bereits aufgestellter Bauleitpläne
 Berechnung des Honorars nur die Ansätze des zu bearbeitenden
 Planausschnitts anzusetzen.
 
-
 ### § 13 Interpolation
 
 Die Mindest- und Höchstsätze für Zwischenstufen der in den
 Honorartafeln angegebenen anrechenbaren Kosten, Werte und
 Verrechnungseinheiten sind durch lineare Interpolation zu ermitteln.
-
 
 ### § 14 Nebenkosten
 
@@ -565,7 +546,6 @@ werden. Sie sind nach Einzelnachweis abzurechnen, sofern bei
 Auftragserteilung keine pauschale Abrechnung schriftlich vereinbart
 worden ist.
 
-
 ### § 15 Zahlungen
 
 (1) Das Honorar wird fällig, soweit nichts anderes vertraglich
@@ -580,7 +560,6 @@ gefordert werden.
 Auftragserteilung nicht etwas anderes vereinbart worden ist.
 
 (4) Andere Zahlungsweisen können schriftlich vereinbart werden.
-
 
 ### § 16 Umsatzsteuer
 
@@ -597,12 +576,9 @@ Auftragnehmers. Sie sind als durchlaufende Posten im
 umsatzsteuerrechtlichen Sinn einschließlich einer gegebenenfalls
 enthaltenen Umsatzsteuer weiter zu berechnen.
 
-
 ## Teil 2 - Flächenplanung
 
-
 ### Abschnitt 1 - Bauleitplanung
-
 
 #### § 17 Anwendungsbereich
 
@@ -612,7 +588,6 @@ Ausarbeitungen und Planfassungen sowie die Mitwirkung beim Verfahren.
 
 (2) Die Bestimmungen dieses Abschnitts gelten für Bauleitpläne nach §
 1 Absatz 2 des Baugesetzbuchs.
-
 
 #### § 18 Leistungsbild Flächennutzungsplan
 
@@ -648,7 +623,6 @@ die bei Leistungen nach Absatz 1 anfallen, ist mit dem Honorar nach §
 20 abgegolten. Bei Neuaufstellungen von Flächennutzungsplänen sind die
 Sitzungsteilnahmen abweichend von Satz 1 frei zu vereinbaren.
 
-
 #### § 19 Leistungsbild Bebauungsplan
 
 (1) Die Leistungen bei Bebauungsplänen sind in fünf Leistungsphasen
@@ -661,7 +635,6 @@ Auftraggebers oder Sitzungen im Rahmen der Öffentlichkeitsbeteiligung,
 die bei Leistungen nach Absatz 1 anfallen, ist mit dem Honorar nach §
 21 abgegolten. Bei Neuaufstellungen von Bebauungsplänen sind die
 Sitzungsteilnahmen abweichend von Satz 1 frei zu vereinbaren.
-
 
 #### § 20 Honorare für Leistungen bei Flächennutzungsplänen
 
@@ -1331,7 +1304,6 @@ Honorarzonen zuzuordnen:
 sind entsprechend dem Schwierigkeitsgrad der Planungsanforderungen die
 in Absatz 7 genannten Bewertungsmerkmale mit je bis zu 5 Punkten zu
 bewerten.
-
 
 #### § 21 Honorare für Leistungen bei Bebauungsplänen
 
@@ -2208,9 +2180,7 @@ insgesamt einer Honorarzone zuzuordnen ist.
 (4) Das Gesamthonorar für Grundleistungen nach den Leistungsphasen 1
 bis 5 beträgt mindestens 2 300 Euro.
 
-
 ### Abschnitt 2 - Landschaftsplanung
-
 
 #### § 22 Anwendungsbereich
 
@@ -2230,10 +2200,6 @@ Ausarbeitungen und das Mitwirken beim Verfahren.
     Naturhaushalt, das Landschaftsbild oder den Zugang zur freien Natur
     beeinträchtigen können, Pflege- und Entwicklungspläne sowie sonstige
     landschaftsplanerische Leistungen.
-
-
-
-
 
 #### § 23 Leistungsbild Landschaftsplan
 
@@ -2265,7 +2231,6 @@ des Auftraggebers oder Sitzungen im Rahmen der Bürgerbeteiligungen,
 die bei Leistungen nach Anlage 6 anfallen, ist mit dem Honorar nach §
 28 abgegolten.
 
-
 #### § 24 Leistungsbild Grünordnungsplan
 
 (1) Die Leistungen bei Grünordnungsplänen sind in vier Leistungsphasen
@@ -2274,7 +2239,6 @@ in Prozentsätzen der Honorare des § 29 bewertet. Die einzelnen
 Leistungen jeder Leistungsphase werden in Anlage 7 geregelt.
 
 (2) § 23 Absatz 2 gilt entsprechend.
-
 
 #### § 25 Leistungsbild Landschaftsrahmenplan
 
@@ -2301,7 +2265,6 @@ geregelt.
 (2) Bei einer Fortschreibung des Landschaftsrahmenplans ermäßigt sich
 die Bewertung der Leistungsphase 1 auf 5 Prozent der Honorare nach §
 30\.
-
 
 #### § 26 Leistungsbild Landschaftspflegerischer Begleitplan
 
@@ -2336,7 +2299,6 @@ Flächennutzungsplans entsprechend § 28, bei einer Planung im Maßstab
 des Bebauungsplans entsprechend § 29 zu berechnen. Anstelle eines
 Honorars nach Satz 1 kann das Honorar frei vereinbart werden.
 
-
 #### § 27 Leistungsbild Pflege- und Entwicklungsplan
 
 Die Leistungen bei Pflege- und Entwicklungsplänen sind in vier
@@ -2361,7 +2323,6 @@ der Honorare des § 31 bewertet:
 
 Die einzelnen Leistungen jeder Leistungsphase sind in Anlage 10
 geregelt.
-
 
 #### § 28 Honorare für Leistungen bei Landschaftsplänen
 
@@ -2828,7 +2789,6 @@ Bewertungsmerkmale gemäß Absatz 3 Nummer 1, 2, 3 und 6 mit je bis zu 6
 Punkten, die Bewertungsmerkmale gemäß Absatz 3 Nummer 4 und 5 und mit
 je bis zu 9 Punkten zu bewerten.
 
-
 #### § 29 Honorare für Leistungen bei Grünordnungsplänen
 
 (1) Die Mindest- und Höchstsätze der Honorare für die in § 24
@@ -3169,7 +3129,6 @@ nach Leistungsphase 4 von § 24 zu berechnen. Kommt es nicht zur
 endgültigen Planfassung, so sind die Honorare nach den Festsetzungen
 der mit dem Auftraggeber abgestimmten Planfassung zu berechnen.
 
-
 #### § 30 Honorare für Leistungen bei Landschaftsrahmenplänen
 
 (1) Die Mindest- und Höchstsätze der Honorare für die in § 25
@@ -3455,10 +3414,6 @@ Bewertungsmerkmale sind insbesondere:
 
 5.  erschwerte Planung durch besondere Maßnahmen der Umweltsicherung und
     des Umweltschutzes.
-
-
-
-
 
 #### § 31 Honorare für Leistungen bei Pflege- und Entwicklungsplänen
 
@@ -3806,12 +3761,9 @@ mit bis zu 4 Punkten, die Bewertungsmerkmale gemäß Absatz 3 Nummer 4
 und 5 mit je bis zu 6 Punkten und die Bewertungsmerkmale gemäß Absatz
 3 Nummer 2 und 3 mit je bis zu 9 Punkten zu bewerten.
 
-
 ## Teil 3 - Objektplanung
 
-
 ### Abschnitt 1 - Gebäude und raumbildende Ausbauten
-
 
 #### § 32 Besondere Grundlagen des Honorars
 
@@ -3841,7 +3793,6 @@ Beschaffung mitwirkt oder ihre Ausführung oder ihren Einbau fachlich
 (4) § 11 Absatz 1 gilt nicht, wenn die getrennte Berechnung weniger
 als 7 500 Euro anrechenbare Kosten der Freianlagen zum Gegenstand
 hätte. Absatz 3 ist insoweit nicht anzuwenden.
-
 
 #### § 33 Leistungsbild Gebäude und raumbildende Ausbauten
 
@@ -3892,7 +3843,6 @@ Prozentsätzen der Honorare des § 34 bewertet:
 
 Die einzelnen Leistungen jeder Leistungsphase sind in Anlage 11
 geregelt.
-
 
 #### § 34 Honorare für Leistungen bei Gebäuden und raumbildenden Ausbauten
 
@@ -4679,7 +4629,6 @@ Punkten, für raumbildende Ausbauten nach Absatz 3 Nummer 1 bis 4 mit
 je bis zu 6 Punkten, die Bewertungsmerkmale nach Absatz 3 Nummer 5 und
 6 mit je bis zu 9 Punkten zu bewerten.
 
-
 #### § 35 Leistungen im Bestand
 
 (1) Für Leistungen bei Umbauten und Modernisierungen kann für Objekte
@@ -4693,7 +4642,6 @@ Kosten, der Honorarzone, den Leistungsphasen und der Honorartafel, die
 dem Umbau oder der Modernisierung sinngemäß zuzuordnen ist, zu
 ermitteln.
 
-
 #### § 36 Instandhaltungen und Instandsetzungen
 
 (1) Für Leistungen bei Instandhaltungen und Instandsetzungen von
@@ -4705,9 +4653,7 @@ von Objekten sind nach den anrechenbaren Kosten, der Honorarzone, den
 Leistungsphasen und der Honorartafel, der die Instandhaltungs- und
 Instandsetzungsmaßnahme zuzuordnen ist, zu ermitteln.
 
-
 ### Abschnitt 2 - Freianlagen
-
 
 #### § 37 Besondere Grundlagen des Honorars
 
@@ -4767,7 +4713,6 @@ für:
 anrechenbare Kosten der Gebäude unterschreitet. Absatz 2 ist insoweit
 nicht anzuwenden.
 
-
 #### § 38 Leistungsbild Freianlagen
 
 (1) § 33 Absatz 1 Satz 1 gilt mit Ausnahme der Ausführungen zu den
@@ -4808,7 +4753,6 @@ Prozentsätzen der Honorare des § 39 bewertet:
 
 (2) Die einzelnen Leistungen jeder Leistungsphase sind in Anlage 11
 geregelt.
-
 
 #### § 39 Honorare für Leistungen bei Freianlagen
 
@@ -5332,9 +5276,7 @@ Bewertungsmerkmale nach Absatz 2 Nummer 1, 2 und 4 mit je bis zu 8
 Punkten, die Bewertungsmerkmale nach Absatz 2 Nummer 3 und 5 mit je
 bis zu 6 Punkten zu bewerten.
 
-
 ### Abschnitt 3 - Ingenieurbauwerke
-
 
 #### § 40 Anwendungsbereich
 
@@ -5362,10 +5304,6 @@ Ingenieurbauwerke umfassen:
 
 
 7.  sonstige Einzelbauwerke, ausgenommen Gebäude und Freileitungsmaste.
-
-
-
-
 
 #### § 41 Besondere Grundlagen des Honorars
 
@@ -5405,10 +5343,6 @@ plant noch ihre Ausführung überwacht, die Kosten für:
 
 5.  Anlagen der Maschinentechnik, die der Zweckbestimmung des
     Ingenieurbauwerks dienen.
-
-
-
-
 
 #### § 42 Leistungsbild Ingenieurbauwerke
 
@@ -5457,7 +5391,6 @@ Prozent bewertet.
 Erörterungsterminen mit Bürgern und Bürgerinnen oder politischen
 Gremien, die bei Leistungen nach Anlage 12 anfallen, sind als
 Leistungen mit den Honoraren nach § 43 abgegolten.
-
 
 #### § 43 Honorare für Leistungen bei Ingenieurbauwerken
 
@@ -6286,12 +6219,7 @@ Bewertungsmerkmale wie folgt zu bewerten:
 
 3.  nach Absatz 2 Nummer 5 mit bis zu 15 Punkten.
 
-
-
-
-
 ### Abschnitt 4 - Verkehrsanlagen
-
 
 #### § 44 Anwendungsbereich
 
@@ -6305,10 +6233,6 @@ Verkehrsanlagen umfassen:
 
 
 3.  Anlagen des Flugverkehrs.
-
-
-
-
 
 #### § 45 Besondere Grundlagen des Honorars
 
@@ -6345,10 +6269,6 @@ den Absätzen 1 und 2 ermittelten Kosten:
 
 
 4.  bei Gleis- und Bahnsteiganlagen mit zwei Gleisen 90 Prozent.
-
-
-
-
 
 #### § 46 Leistungsbild Verkehrsanlagen
 
@@ -6390,7 +6310,6 @@ Honorare des § 47 bewertet:
 geregelt.
 
 (3) Die §§ 35 und 36 Absatz 2 gelten entsprechend.
-
 
 #### § 47 Honorare für Leistungen bei Verkehrsanlagen
 
@@ -7165,12 +7084,9 @@ des § 44)**
 
 (2) § 43 Absatz 2 bis 4 gilt entsprechend.
 
-
 ## Teil 4 - Fachplanung
 
-
 ### Abschnitt 1 - Tragwerksplanung
-
 
 #### § 48 Besondere Grundlagen des Honorars
 
@@ -7291,7 +7207,6 @@ teilweise zu den anrechenbaren Kosten gehören, wenn der Auftragnehmer
 wegen dieser Arbeiten Mehrleistungen für das Tragwerk nach § 49
 erbringt.
 
-
 #### § 49 Leistungsbild Tragwerksplanung
 
 (1) Die Leistungen bei der Tragwerksplanung sind für Gebäude und
@@ -7342,7 +7257,6 @@ der Honorare des § 50 zu bewerten:
 
 
 (3) Die §§ 35 und 36 Absatz 2 gelten entsprechend.
-
 
 #### § 50 Honorare für Leistungen bei Tragwerksplanungen
 
@@ -8345,9 +8259,7 @@ Tragwerk zugeordnet werden kann, so ist für die Zuordnung die Mehrzahl
 der in den jeweiligen Honorarzonen nach Absatz 2 aufgeführten
 Bewertungsmerkmale und ihre Bedeutung im Einzelfall maßgebend.
 
-
 ### Abschnitt 2 - Technische Ausrüstung
-
 
 #### § 51 Anwendungsbereich
 
@@ -8380,10 +8292,6 @@ Fachplanungen für die Objektplanung.
 
 8.  Gebäudeautomation.
 
-
-
-
-
 #### § 52 Besondere Grundlagen des Honorars
 
 (1) Das Honorar für Leistungen bei der Technischen Ausrüstung richtet
@@ -8406,7 +8314,6 @@ Kosten hierfür ganz oder teilweise zu den anrechenbaren Kosten
 gehören. Satz 1 gilt entsprechend für Bauteile der Kostengruppe
 Baukonstruktionen, deren Abmessung oder Konstruktion durch die
 Leistung der Technischen Ausrüstung wesentlich beeinflusst wird.
-
 
 #### § 53 Leistungsbild Technische Ausrüstung
 
@@ -8455,7 +8362,6 @@ Anfertigen von Schlitz- und Durchbruchsplänen nicht in Auftrag gegeben
 wird, mit 14 Prozent der Honorare des § 54 zu bewerten.
 
 (3) Die §§ 35 und 36 gelten entsprechend.
-
 
 #### § 54 Honorare für Leistungen bei der Technischen Ausrüstung
 
@@ -8965,9 +8871,7 @@ ist dann nach dem Verhältnis der Summe der anrechenbaren Kosten der
 Anlagen einer Honorarzone zu den gesamten anrechenbaren Kosten der
 Anlagengruppe zu ermitteln.
 
-
 ## Teil 5 - Übergangs- und Schlussvorschriften
-
 
 ### § 55 Übergangsvorschrift
 
@@ -8975,16 +8879,13 @@ Die Verordnung gilt nicht für Leistungen, die vor ihrem Inkrafttreten
 vertraglich vereinbart wurden; insoweit bleiben die bisherigen
 Vorschriften anwendbar.
 
-
 ### § 56 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
 ### Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ### Anlage 1 (zu § 3 Absatz 1) Beratungsleistungen
 
@@ -13616,13 +13517,6 @@ Der Bundesrat hat zugestimmt.
 
         *   138 918
 
-
-
-
-
-
-
-
 ### Anlage 2 (zu § 3 Absatz 3) Besondere Leistungen
 
 (Fundstelle: BGBl. I 2009, 2775 - 2781)
@@ -15345,13 +15239,6 @@ Inhaltsübersicht
         physikalische Einrichtungen für Großbetriebe, Forschung und
         Entwicklung, Fertigung, Klinik und Lehre.
 
-
-
-
-
-
-
-
 ### Anlage 4 (zu § 18 Absatz 1) Leistungen im Leistungsbild Flächennutzungsplan
 
 (Fundstelle: BGBl. I 2009, 2790 - 2791)
@@ -15498,7 +15385,6 @@ aufgestellten Fassung für die Vorlage zur Genehmigung durch die höhere
 Verwaltungsbehörde in einer farbigen oder vervielfältigungsfähigen
 Schwarz-Weiß-Ausfertigung nach den Landesregelungen.
 
-
 ### Anlage 5 (zu § 19 Absatz 1) Leistungen im Leistungsbild Bebauungsplan
 
 (Fundstelle: BGBl. I 2009, 2792)
@@ -15636,7 +15522,6 @@ Erstellen des Bebauungsplans in der durch Beschluss der Gemeinde
 aufgestellten Fassung und seiner Begründung für die Anzeige oder
 Genehmigung in einer farbigen oder vervielfältigungsfähigen Schwarz-
 Weiß- Ausfertigung nach den Landesregelungen.
-
 
 ### Anlage 6 (zu § 23 Absatz 1) Leistungen im Leistungsbild Landschaftsplan
 
@@ -15808,7 +15693,6 @@ d)  Hinweise auf landschaftliche Folgeplanungen und -maßnahmen sowie
 
 Darstellen des Landschaftsplans in der vorgeschriebenen Fassung in
 Text und Karte mit Erläuterungsbericht.
-
 
 ### Anlage 7 (zu § 24 Absatz 1) Leistungen im Leistungsbild Grünordnungsplan
 
@@ -16032,7 +15916,6 @@ c)  Hinweise auf weitere Aufgaben von Naturschutz und Landschaftspflege
 Darstellen des Grünordnungsplans in der vorgeschriebenen Fassung in
 Text und Karte mit Begründung.
 
-
 ### Anlage 8 (zu § 25 Absatz 1) Leistungen im Leistungsbild Landschaftsrahmenplan
 
 (Fundstelle: BGBl. I 2009, 2797)
@@ -16179,7 +16062,6 @@ Darstellen des Landschaftsrahmenplans in der vorgeschriebenen Fassung
 in Text und Karte mit Erläuterungsbericht nach erfolgter Abstimmung
 des Entwurfs mit dem Auftraggeber gemäß Leistungsphase 3.
 
-
 ### Anlage 9 (zu § 26 Absatz 1) Leistungen im Leistungsbild Landschaftspflegerischer Begleitplan
 
 (Fundstelle: BGBl. I 2009, 2798 - 2799)
@@ -16322,7 +16204,6 @@ c)  Kostenschätzung
 Darstellen des landschaftspflegerischen Begleitplans in der
 vorgeschriebenen Fassung in Text und Karte.
 
-
 ### Anlage 10 (zu § 27) Leistungen im Leistungsbild Pflege- und Entwicklungsplan
 
 (Fundstelle: BGBl. I 2009, 2800)
@@ -16413,7 +16294,6 @@ e)  Abstimmen der Konzepte mit dem Auftraggeber;
 
 Darstellen des Pflege- und Entwicklungsplans in der vorgeschriebenen
 Fassung in Text und Karte.
-
 
 ### Anlage 11 (zu den §§ 33 und 38 Absatz 2) Leistungen im Leistungsbild Gebäude und raumbildende Ausbauten sowie im Leistungsbild Freianlagen
 
@@ -16730,10 +16610,6 @@ c)  Mitwirken bei der Freigabe von Sicherheitsleistungen,
 
 d)  systematische Zusammenstellung der zeichnerischen Darstellungen und
     rechnerischen Ergebnisse des Objekts.
-
-
-
-
 
 ### Anlage 12 (zu § 42 Absatz 1 und § 46 Absatz 2) Leistungen im Leistungsbild Ingenieurbauwerke und im Leistungsbild Verkehrsanlagen
 
@@ -17074,10 +16950,6 @@ c)  Mitwirken bei der Freigabe von Sicherheitsleistungen,
 d)  systematische Zusammenstellung der zeichnerischen Darstellungen und
     rechnerischen Ergebnisse des Objekts.
 
-
-
-
-
 ### Anlage 13 (zu § 49 Absatz 1) Leistungen im Leistungsbild Tragwerksplanung
 
 (Fundstelle: BGBl. I 2009, 2807)
@@ -17216,10 +17088,6 @@ b)  Überschlägiges Ermitteln der Mengen der konstruktiven Stahlteile und
 c)  Aufstellen von Leistungsbeschreibungen als Ergänzung zu den
     Mengenermittlungen als Grundlage für das Leistungsverzeichnis des
     Tragwerks;
-
-
-
-
 
 ### Anlage 14 (zu § 53 Absatz 1) Leistungen im Leistungsbild Technische Ausrüstung
 

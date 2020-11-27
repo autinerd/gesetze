@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 18 V v. 13.12.2011 I 2720
 
-
 ## Eingangsformel
 
 Auf Grund des § 6 Abs. 1 Nr. 11 und der §§ 9 und 11 Abs. 2 des
@@ -31,7 +30,6 @@ zur Durchführung der gemeinsamen Marktorganisationen wird im
 Einvernehmen mit den Bundesministern der Finanzen und für Wirtschaft
 verordnet:
 
-
 ## § 1 Anwendungsbereich
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung der
@@ -40,20 +38,17 @@ hinsichtlich der Gewährung von Beihilfen für die private Lagerhaltung
 von Fleisch und Fleischerzeugnissen von Schweinen, Rindern und
 Schafen.
 
-
 ## § 2 Zuständige Stelle
 
 Zuständig für die Durchführung dieser Verordnung und der in § 1
 genannten Rechtsakte ist die Bundesanstalt für Landwirtschaft und
 Ernährung (Bundesanstalt).
 
-
 ## § 3 Form der Verträge
 
 Die nach den in § 1 genannten Rechtsakten abzuschließenden
 Lagerverträge haben dem von der Bundesanstalt im Bundesanzeiger
 bekannt gemachten Muster zu entsprechen.
-
 
 ## § 4 Gewährung der Beihilfe
 
@@ -62,7 +57,6 @@ Bundesanstalt im Bundesanzeiger bekanntgemachten Muster bei der
 Bundesanstalt einzureichen.
 
 (2) Die Bundesanstalt setzt die Beihilfe durch Bescheid fest.
-
 
 ## § 5 Aufzeichnungs- und Aufbewahrungspflichten
 
@@ -78,7 +72,6 @@ vierten Jahres, das dem Kalenderjahr der Gewährung folgt.
 Vorschriften, nach denen eine längere Aufbewahrungspflicht besteht,
 bleiben unberührt.
 
-
 ## § 6 Duldungs- und Mitwirkungspflichten
 
 Der Antragsteller hat während der Geschäfts- und Betriebszeit den
@@ -90,21 +83,17 @@ Buchführung auf seine Kosten Listen mit den erforderlichen Angaben
 auszudrucken, soweit dies die Beauftragten der Bundesanstalt
 verlangen.
 
-
 ## § 7 (weggefallen)
 
 -
-
 
 ## § 8
 
 -
 
-
 ## § 9 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlußformel
 

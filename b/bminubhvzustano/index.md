@@ -20,8 +20,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 1877
 
-
-
 ## I.
 
 Auf Grund des § 17 Abs. 5 Satz 2 der Allgemeinen Verwaltungsvorschrift
@@ -33,7 +31,6 @@ und Reaktorsicherheit (BMU), des Bundesamtes für Naturschutz (BfN),
 des Bundesamtes für Strahlenschutz (BfS) sowie des Umweltbundesamtes
 (UBA) sowie das Geltendmachen von Schadenersatzansprüchen nach § 87a
 des Bundesbeamtengesetzes.
-
 
 ## II.
 
@@ -47,7 +44,6 @@ Angelegenheiten nach den Beihilfevorschriften zu entscheiden, soweit
 es zum Erlass des Verwaltungsaktes oder zur Ablehnung des Anspruchs
 zuständig war.
 
-
 ## III.
 
 Auf Grund des § 174 Abs. 3 des Bundesbeamtengesetzes in der Fassung
@@ -56,14 +52,12 @@ dem Bundesamt für Finanzen die Vertretung des Bundesministeriums für
 Umwelt, Naturschutz und Reaktorsicherheit bei Klagen, soweit es nach
 dieser Anordnung zur Entscheidung über Widersprüche zuständig ist.
 
-
 ## IV.
 
 Diese Anordnung tritt mit Wirkung vom 1. März 2001 in Kraft. Sie
 findet keine Anwendung auf Widersprüche, die vor ihrem Inkrafttreten
 eingelegt, oder auf Klagen, die vor ihrem Inkrafttreten erhoben worden
 sind.
-
 
 ## Schlussformel
 

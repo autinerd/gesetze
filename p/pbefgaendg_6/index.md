@@ -18,22 +18,18 @@ Fundstelle
 Geändert durch
 :   Art. 3 Abs. 1 G v. 16.6.1998 I 1291
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art 1
 
 -
 
-
 ## Art 2
 
 (weggefallen)
-
 
 ## Art 3
 
@@ -44,12 +40,10 @@ dieses Gesetzes erlassen. Soweit solche Regelungen erlassen werden,
 sind die Vorschriften des Personenbeförderungsgesetzes nicht mehr
 anzuwenden.
 
-
 ## Art 4
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin.
-
 
 ## Art 5
 

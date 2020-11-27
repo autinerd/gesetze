@@ -20,7 +20,6 @@ Fundstelle
 Geändert durch
 :   AnO v. 29.3.2007 I 534
 
-
 ## I. Widersprüche aus dem Beamtenverhältnis
 
 (1) Nach § 172 des Bundesbeamtengesetzes in Verbindung mit § 126 Abs.
@@ -93,7 +92,6 @@ Bundeswehrverwaltungsstellen im Ausland Entscheidungen in
 Schadensersatzangelegenheiten treffen, entscheide ich über die
 Widersprüche.
 
-
 ## II. Widersprüche in Angelegenheiten der Soldatenversorgung
 
 Nach § 87 Abs. 2 des Soldatenversorgungsgesetzes in Verbindung mit §
@@ -107,7 +105,6 @@ des § 80 Satz 2 des Soldatenversorgungsgesetzes zu entscheiden, auf
 die Wehrbereichsverwaltungen, soweit diese selbst oder die ihnen
 nachgeordneten Behörden die mit dem Widerspruch angefochtene Maßnahme
 getroffen haben.
-
 
 ## III. Vertretung bei Klagen aus dem Beamten- oder Wehrdienstverhältnis
 
@@ -194,23 +191,19 @@ Ausbildungsgeld für Sanitätsoffizier-Anwärterinnen und -Anwärter oder
 die Kosten eines Studiums oder einer Fachausbildung zurückgefordert
 werden, die Wehrbereichsverwaltung West in Düsseldorf.
 
-
 ## IV. Vorbehaltsklausel
 
 Ich behalte mir vor, im Einzelfall ein Widerspruchsverfahren oder
 einen Prozess an mich zu ziehen.
-
 
 ## V. Übergangsregelung
 
 Diese Anordnung findet keine Anwendung auf Widersprüche und Klagen,
 die vor dem Inkrafttreten dieser Anordnung erhoben worden sind.
 
-
 ## VI. Schlussvorschriften
 
 Diese Anordnung tritt am Tage nach ihrer Verkündung in Kraft.
-
 
 ## Schlussformel
 

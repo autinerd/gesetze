@@ -21,7 +21,6 @@ Fundstelle
     in der Bundesrepublik Deutschland beschlossene, Rahmenlehrplan für die
     Berufsschule werden als Beilage zum Bundesanzeiger veröffentlicht.
 
-
 ## Eingangsformel
 
 Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des
@@ -31,17 +30,14 @@ Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), von denen §
 Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz
 im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Fachkraft Agrarservice wird nach § 4 Absatz 1 des
 Berufsbildungsgesetzes staatlich anerkannt.
 
-
 ## § 2 Dauer der Berufsausbildung
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Ausbildungsrahmenplan, Ausbildungsberufsbild
 
@@ -143,7 +139,6 @@ an ihnen die Fertigkeiten, Kenntnisse und Fähigkeiten nach Absatz 2
 Abschnitt A Nummer 5 in gleicher Breite und Tiefe vermittelt werden
 können.
 
-
 ## § 4 Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
@@ -162,7 +157,6 @@ zu erstellen.
 zu führen. Ihnen ist Gelegenheit zu geben, diesen während der
 Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen
 Ausbildungsnachweis regelmäßig durchzusehen.
-
 
 ## § 5 Zwischenprüfung
 
@@ -275,10 +269,6 @@ Vorgaben:
 
 
 3.  die Prüfungszeit beträgt 120 Minuten.
-
-
-
-
 
 ## § 6 Abschlussprüfung
 
@@ -556,7 +546,6 @@ Teilbereichen von Prüfungsbereichen, in denen Prüfungsleistungen mit
 eigenen Anforderungen und Gewichtung schriftlich zu erbringen sind,
 gelten die Sätze 1 und 2 entsprechend.
 
-
 ## § 7 Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
@@ -564,11 +553,9 @@ bestehen, können unter Anrechnung der bisher zurückgelegten
 Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt
 werden, wenn die Vertragsparteien dies vereinbaren.
 
-
 ## § 8 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2009 in Kraft.
-
 
 ## Anlage (zu § 3) Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft Agrarservice
 

@@ -16,13 +16,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1994, 3474
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## § 1 Auflösung der Urkundenstellen
 
@@ -37,7 +34,6 @@ aufzulösen und das Verfahren der Auflösung zu regeln.
 Januar 2000 keinen Gebrauch, so sind die Urkundenstellen zu diesem
 Zeitpunkt aufgelöst.
 
-
 ## § 2 Übergang der Aufgaben
 
 (1) Mit der Auflösung der Urkundenstellen gehen ihre Aufgaben auf die
@@ -51,7 +47,6 @@ ermächtigt, durch Rechtsverordnung abweichend von Absatz 1 Satz 3 die
 Zuständigkeit für die Führung der Sammelakten dem Standesbeamten, der
 das entsprechende Personenstandsbuch führt, oder der für diesen
 Standesbeamten zuständigen Verwaltungsbehörde zu übertragen.
-
 
 ## § 3 Inkrafttreten
 

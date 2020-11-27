@@ -21,7 +21,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 Abs. 125 G v. 22.11.2011 I 3044
 
-
 ## § 1 Aufgaben des Bundes, Zuständigkeiten
 
 (1) Dem Bund obliegen auf dem Gebiet der Binnenschifffahrt
@@ -81,7 +80,6 @@ ausgestellt werden, deren Ausstellung schriftlich zu beantragen ist
 oder die auszuhändigen, vorzulegen oder mitzuführen sind, ist die
 elektronische Form ausgeschlossen, sofern nicht durch Rechtsverordnung
 etwas anderes ausdrücklich geregelt ist.
-
 
 ## § 2 Erlaubnis zur Fahrt
 
@@ -158,7 +156,6 @@ Bundes übertragen.
 (4) Die Erlaubnispflicht wird durch rechtsgeschäftliche
 firmenrechtliche oder andere Gestaltungen oder Scheintatbestände, die
 zur Umgehung geeignet sind, nicht berührt.
-
 
 ## § 3 Rechtsverordnungen
 
@@ -342,10 +339,6 @@ b)  überwachungsbedürftige Anlagen im Sinne des § 2 Nummer 30 des
     die Arten von Druckbehältern und Druckgasbehältern, für die eine
     Verordnung für solche Anlagen nicht erlassen ist.
 
-
-
-
-
 ## § 3a Beleihung von juristischen Personen
 
 Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
@@ -360,7 +353,6 @@ Erfüllung der Aufgaben bieten. Im Rahmen des Auftrags unterstehen die
 juristischen Personen der Rechts- und Fachaufsicht des
 Bundesministeriums für Verkehr, Bau und Stadtentwicklung.
 
-
 ## § 3b Binnenlotsen
 
 (1) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
@@ -374,7 +366,6 @@ festzusetzen.
 in Kraft ist, dürfen andere als die festgesetzten Entgelte weder
 versprochen, noch gefordert, noch angenommen werden.
 
-
 ## § 3c
 
 Mit dem Ziel bester Verkehrsbedienung hat die Bundesregierung darauf
@@ -382,7 +373,6 @@ hinzuwirken, dass die Wettbewerbsbedingungen der Verkehrsträger
 angeglichen werden und dass durch einen lauteren Wettbewerb der
 Verkehrsträger eine volkswirtschaftlich sinnvolle Aufgabenteilung
 ermöglicht wird.
-
 
 ## § 3d
 
@@ -397,7 +387,6 @@ Vorschriften erlassen. Hierbei kann es auch bestimmen, welche über den
 Bereich eines Landes hinausgehenden staatlichen Aufgaben der
 Binnenschifffahrt von den Wasser- und Schifffahrtsdirektionen
 wahrgenommen werden.
-
 
 ## § 3e Übertragungsermächtigung
 
@@ -430,7 +419,6 @@ in einer übertragbaren Ermächtigung vorgesehen sind, gehen mit deren
 Übertragung auf die Wasser- und Schifffahrtsdirektionen über, soweit
 die übertragende Rechtsverordnung nichts anderes bestimmt.
 
-
 ## § 4 Kosten
 
 (1) Für Amtshandlungen nach den §§ 1 und 2 und den auf Grund des § 3
@@ -450,7 +438,6 @@ gedeckt wird; bei begünstigenden Amtshandlungen kann daneben die
 Bedeutung, der wirtschaftliche Wert oder der sonstige Nutzen für den
 Gebührenschuldner angemessen berücksichtigt werden.
 
-
 ## § 5 Hamburger Hafen
 
 Auf den im Bereich des Hamburger Hafens liegenden Teilen der
@@ -460,7 +447,6 @@ betreffen. Seine Maßnahmen erstrecken sich im Übrigen nicht auf
 Wasserfahrzeuge, Schwimmkörper und schwimmende Anlagen, die
 ausschließlich zur Verwendung im Hamburger Hafen bestimmt sind, auf
 die Führung und Besetzung solcher Fahrzeuge sowie auf Hafenlotsen.
-
 
 ## § 6 Überwachungsbefugnis
 
@@ -498,7 +484,6 @@ verweigern, deren Beantwortung ihn selbst oder einen der in § 383 Abs.
 1 Nr. 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen der
 Gefahr strafgerichtlicher Verfolgung oder eines Verfahrens nach dem
 Gesetz über Ordnungswidrigkeiten aussetzen würde.
-
 
 ## § 6a Überwachungsbefugnis im Rahmen von Binnenschifffahrtsabkommen
 
@@ -558,14 +543,12 @@ zur Durchführung der den Wasser- und Schifffahrtsdirektionen nach
 Absatz 1 übertragenen Überwachungsaufgabe die erforderlichen
 allgemeinen Verwaltungsvorschriften erlassen.
 
-
 ## § 6b Verwaltungszwang
 
 Die Wasser- und Schifffahrtsdirektionen können die Durchführung der im
 Rahmen ihrer Überwachungsaufgaben nach § 6a erforderlichen
 Verwaltungsmaßnahmen nach den für die Durchsetzung von
 Verwaltungsmaßnahmen allgemein geltenden Bestimmungen erzwingen.
-
 
 ## § 7 Bußgeldvorschriften
 
@@ -625,7 +608,6 @@ Gewässer zwischen zwei deutschen Ufern begangen, die zum Bezirk
 verschiedener Verwaltungsbehörden gehören, so sind die
 Verwaltungsbehörden beider Ufer zuständig.
 
-
 ## § 8 Länderfachausschuss
 
 Zur Verständigung des Bundes mit den Ländern bei der Durchführung
@@ -633,7 +615,6 @@ dieses Gesetzes, insbesondere der Abstimmung der Interessen vor
 verkehrspolitischen Maßnahmen, wird beim Bundesministerium für
 Verkehr, Bau und Stadtentwicklung ein Ausschuss aus Vertretern der
 Länder gebildet.
-
 
 ## § 9 Binnenschiffsbestandsdatei
 
@@ -810,7 +791,6 @@ erforderlich sind, spätestens jedoch fünf Jahre, nachdem das Schiff
 entweder untergegangen und als endgültig verloren anzusehen oder
 nachdem es ausbesserungsunfähig geworden ist.
 
-
 ## § 10 Amtliche Mitteilung
 
 Die Amtsgerichte, bei denen ein Binnenschiffsregister geführt wird,
@@ -825,7 +805,6 @@ teilen Tatsachen, die
 
 
 der Datei führenden Stelle nach § 9 Abs. 1 mit.
-
 
 ## § 11 Ordnungswidrigkeitendatei
 
@@ -997,7 +976,6 @@ erforderlich sind, spätestens jedoch nach dem Ende der
 Vollstreckungsverjährung, soweit nicht bei Verfahren von besonderer
 Bedeutung eine längere Frist erforderlich ist.
 
-
 ## § 12 Verzeichnis über Kleinfahrzeuge
 
 (1) Jedes Wasser- und Schifffahrtsamt führt ein Verzeichnis über
@@ -1152,7 +1130,6 @@ nur zu dem Zweck verarbeitet und genutzt werden dürfen, zu dem sie
 löschen, soweit sie für die Aufgaben nach Absatz 1 nicht mehr
 erforderlich sind, spätestens jedoch zwei Jahre, nachdem das
 Kleinfahrzeug abgemeldet worden ist.
-
 
 ## § 13 Register über Befähigungszeugnisse
 
@@ -1315,7 +1292,6 @@ löschen, soweit sie für die Aufgaben nach Absatz 3 nicht mehr
 erforderlich sind, spätestens jedoch, wenn die zugrunde liegende
 Fahrerlaubnis nicht mehr besteht.
 
-
 ## § 14 Register über Schifferdienstbücher
 
 (1) Die vom Bundesministerium für Verkehr, Bau und Stadtentwicklung zu
@@ -1353,7 +1329,6 @@ löschen, soweit sie für die Aufgaben nach Absatz 1 nicht mehr
 erforderlich sind, spätestens aber zwei Jahre, nachdem die letzte
 Befristung abgelaufen ist.
 
-
 ## § 15 Allgemeine Verwaltungsvorschriften
 
 Das Bundesministerium für Verkehr, Bau und Stadtentwicklung kann durch
@@ -1361,7 +1336,6 @@ allgemeine Verwaltungsvorschriften das Nähere zur einheitlichen
 Anwendung der Vorschriften dieses Gesetzes oder der auf Grund dieses
 Gesetzes erlassenen Rechtsverordnungen durch seine nachgeordneten
 Behörden oder die von ihm beliehenen juristischen Personen regeln.
-
 
 ## § 16 Verkündung von Rechtsverordnungen
 

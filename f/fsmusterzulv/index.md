@@ -19,8 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 14 G v. 29.7.2009 I 2424
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 32 Abs. 4 Satz 1 Nr. 2 und Satz 2 des
@@ -31,14 +29,12 @@ Buchstabe c der Siebenten Zuständigkeitsanpassungs-Verordnung vom
 Verkehr, Bau- und Wohnungswesen im Benehmen mit dem Bundesministerium
 für Wirtschaft und Technologie:
 
-
 ## § 1 Anwendungsbereich
 
 Diese Verordnung bestimmt die Anforderungen für die Musterzulassung
 von Anlagen und Geräten für die Flugsicherung und legt das Verfahren
 der Musterzulassung sowie die Kennzeichnung und Überwachung der Geräte
 und Anlagen fest.
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -88,10 +84,6 @@ und Anlagen fest.
     eine Abnahme im Sinne des § 27c Abs. 2 Nr. 2 Buchstabe a des
     Luftverkehrsgesetzes dar.
 
-
-
-
-
 ## § 3 Voraussetzungen für den Betrieb
 
 Es ist verboten, Anlagen und Geräte für die Flugsicherung zu betreiben
@@ -104,13 +96,11 @@ S. 1120) und gemäß § 2 Abs. 1 und § 4 Abs. 1 der
 Frequenzzuteilungsverordnung vom 26. April 2001 (BGBl. I S. 829)
 verfügen.
 
-
 ## § 4 Anforderungen an Anlagen und Geräte für die Flugsicherung
 
 Die Anforderungen an Anlagen und Geräte für die Flugsicherung werden
 vom Bundesaufsichtsamt für Flugsicherung festgelegt und in den
 Nachrichten für Luftfahrer bekannt gemacht.
-
 
 ## § 5 Grundsätze des Zulassungsverfahrens
 
@@ -157,7 +147,6 @@ oder teilweise anerkannt werden.
 Flugsicherung grundsätzlich in der Reihenfolge des Vorliegens der
 vollständigen Antragsunterlagen.
 
-
 ## § 6 Musterzulassung
 
 (1) Das Bundesaufsichtsamt für Flugsicherung erteilt die Zulassung für
@@ -171,7 +160,6 @@ Nebenbestimmungen versehen werden.
 zugelassenen Anlagen und Geräte für die Flugsicherung in den
 Nachrichten für Luftfahrer bekannt.
 
-
 ## § 7 Widerruf der Zulassung
 
 Die Zulassung kann widerrufen werden, wenn ein zugelassenes Gerät oder
@@ -182,7 +170,6 @@ das Gerät oder die Anlage in Übereinstimmung mit den Anforderungen zu
 bringen. Ein Widerruf ist auch zulässig, wenn der Hersteller einer
 Nebenbestimmung der Zulassung nicht nachkommt.
 
-
 ## § 8 Produktkontrolle
 
 Zum Zwecke der Überprüfung der fortlaufenden Übereinstimmung einer
@@ -190,7 +177,6 @@ nach § 5 zugelassenen Anlage oder eines zugelassenen Gerätes mit den
 Anforderungen gemäß § 4 und zum Zwecke möglicher Entscheidungen nach §
 7 führt das Bundesaufsichtsamt für Flugsicherung in unregelmäßigen
 Abständen Produktkontrollen durch.
-
 
 ## § 9 Verpflichtungen des Herstellers
 
@@ -210,14 +196,12 @@ beeinflussen können.
 (4) Der Hersteller hat die technische Dokumentation mindestens zehn
 Jahre nach Herstellung des letzten Produkts aufzubewahren.
 
-
 ## § 10 Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne von § 58 Abs. 1 Nr. 10 des
 Luftverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen
 § 3 eine Anlage oder ein Gerät für die Flugsicherung betreibt oder
 betreiben lässt.
-
 
 ## § 11 Übergangsvorschriften
 
@@ -229,11 +213,9 @@ im Sinne dieser Verordnung. Anlagen, die bis zum 1. Juli 2009 durch
 die DFS Deutsche Flugsicherung GmbH zugelassen worden sind, gelten als
 zugelassen im Sinne dieser Verordnung.
 
-
 ## § 12 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Anlage (zu § 6 Abs. 1) (Muster)
 

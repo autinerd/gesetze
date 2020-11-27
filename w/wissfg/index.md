@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 2457
 
-
 ## § 1 Zweck des Gesetzes
 
 Dieses Gesetz dient der Stärkung der Leistungsfähigkeit und
@@ -24,7 +23,6 @@ internationalen Wettbewerbsfähigkeit von außeruniversitären
 Wissenschaftseinrichtungen durch mehr Autonomie, Eigenverantwortung
 und Effizienz in den Bereichen Haushalt, Personal, Beteiligungen und
 Durchführung von Baumaßnahmen.
-
 
 ## § 2 Geltungsbereich
 
@@ -65,10 +63,6 @@ Dieses Gesetz ist auf folgende Wissenschaftseinrichtungen anzuwenden:
 
 11. Deutscher Akademischer Austauschdienst e. V.
 
-
-
-
-
 ## § 3 Globalhaushalt
 
 (1) Die Wissenschaftseinrichtungen können ihren Wirtschaftsplan als
@@ -91,7 +85,6 @@ die Ausweisung von Stellenplänen kann verzichtet werden.
 dem Bundesministerium der Finanzen geeignete Informations- und
 Steuerungsinstrumente fest.
 
-
 ## § 4 Einschränkung des Besserstellungsverbots
 
 Zuwendungen können nach Maßgabe des jährlichen Haushaltsgesetzes auch
@@ -105,7 +98,6 @@ wissenschaftsrelevanten Bereich Beschäftigte anzuwenden, wenn sie im
 Rahmen der Planung, Vorbereitung, Durchführung, Auswertung oder
 Bewertung von Forschungsvorhaben einen wesentlichen Beitrag leisten.
 
-
 ## § 5 Beteiligung an Unternehmen
 
 Es wird unwiderleglich vermutet, dass das Bundesministerium der
@@ -117,7 +109,6 @@ Widerspruch nach Satz 1 eingelegt wird, ist über den Antrag innerhalb
 von drei Monaten nach Eingang der vollständigen Antragsunterlagen zu
 entscheiden, andernfalls wird unwiderleglich vermutet, dass das
 Bundesministerium der Finanzen die Einwilligung erteilt hat.
-
 
 ## § 6 Durchführung von Bauverfahren
 
@@ -143,7 +134,6 @@ Bundesministerium für Verkehr, Bau und Stadtentwicklung und dem
 Bundesministerium der Finanzen nach Anhörung des Bundesrechnungshofes
 erlassen wird.
 
-
 ## § 7 Verhältnis zur Bundeshaushaltsordnung
 
 Soweit nach diesem Gesetz keine Sonderregelungen anzuwenden sind,
@@ -151,7 +141,6 @@ richten sich die haushaltsrechtliche Behandlung der Zuwendungen sowie
 die Beteiligung der Wissenschaftseinrichtungen an privatrechtlichen
 Unternehmen nach den Vorschriften der Bundeshaushaltsordnung in der
 jeweils geltenden Fassung.
-
 
 ## § 8 Inkrafttreten
 

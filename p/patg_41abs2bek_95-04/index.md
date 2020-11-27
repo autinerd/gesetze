@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1995, 534
 
-
-
 ## (XXXX)
 
 Auf Grund des § 41 Abs. 2 des Patentgesetzes in der Fassung der

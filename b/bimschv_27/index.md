@@ -28,12 +28,10 @@ die Richtlinie 94/10/EG des Europäischen Parlaments
 und des Rates vom 23. März 1994 (ABl. EG Nr. L 100
 S. 30), sind beachtet worden.
 
-
 ## § 1 Anwendungsbereich
 
 Diese Verordnung gilt für die Errichtung, die Beschaffenheit und den
 Betrieb von Anlagen zur Feuerbestattung.
-
 
 ## § 2 Begriffsbestimmung
 
@@ -68,10 +66,6 @@ Im Sinne dieser Verordnung sind:
     elektrisch betriebenen Anlagen auf einen Volumengehalt an Sauerstoff
     im Abgas von 15 vom Hundert.
 
-
-
-
-
 ## § 3 Feuerung
 
 (1) Soweit die Anlagen mit Brennern ausgerüstet sind, dürfen diese nur
@@ -88,7 +82,6 @@ Abs. 2 unterschritten ist oder die kontinuierlich ermittelte
 Konzentration von Kohlenmonoxid oder die Anzeige für die
 Rauchgasdichte auf eine Störung des ordnungsgemäßen Betriebes
 hinweist. Eine bereits begonnene Einäscherung ist zu Ende zu führen.
-
 
 ## § 4 Emissionsgrenzwerte
 
@@ -123,7 +116,6 @@ Anlagen dürfen nur so errichtet und betrieben werden, daß
 
 nicht überschreiten. 11121
 
-
 ## § 5 Ableitbedingungen für Abgase
 
 Abgase sind über einen oder mehrere Schornsteine in die freie
@@ -142,12 +134,10 @@ Bei einer Dachneigung von weniger als 20 Grad ist die Höhe der
 Austrittsöffnung auf einen fiktiven Dachfirst zu beziehen, dessen Höhe
 unter Zugrundelegung einer Dachneigung von 20 Grad zu berechnen ist.
 
-
 ## § 6 Anzeige
 
 Der Betreiber einer Anlage hat diese der zuständigen Behörde
 spätestens einen Monat vor der Inbetriebnahme anzuzeigen.
-
 
 ## § 7 Kontinuierliche Messungen
 
@@ -187,7 +177,6 @@ Ergebnis der Kalibrierung und der Prüfung der Funktionsfähigkeit der
 zuständigen Behörde jeweils innerhalb von drei Monaten nach
 Durchführung vorzulegen.
 
-
 ## § 8 Beurteilung und Berichte von kontinuierlichen Messungen
 
 (1) Während des Betriebes der Anlage ist für den Kohlenmonoxidmeßwert
@@ -203,7 +192,6 @@ fünf Jahre aufbewahren.
 Stundenmittelwert nach § 7 Abs. 1 Nr. 2 in Verbindung mit Absatz 1 den
 Grenzwert nach § 4 Nr. 1 überschreitet.
 
-
 ## § 9 Einzelmessungen
 
 Der Betreiber einer nach Inkrafttreten dieser Verordnung errichteten
@@ -214,7 +202,6 @@ nach § 26 Abs. 1 des Bundes-Immissionsschutzgesetzes bekanntgegebenen
 Stelle nach Maßgabe von Anhang 1 und Anhang 2 prüfen zu lassen. Der
 Betreiber hat die Prüfung nach Satz 1 im Abstand von drei Jahren
 wiederholen zu lassen.
-
 
 ## § 10 Beurteilung und Berichte von Einzelmessungen
 
@@ -231,12 +218,10 @@ einer Einzelmessung des Stundenmittelwertes den jeweiligen
 Emissionsgrenzwert nach § 4 Nr. 2 oder den Mittelwert über die
 Probenahmezeit nach § 4 Nr. 3 überschreitet.
 
-
 ## § 11 Übergangsregelung
 
 Altanlagen müssen die Anforderungen dieser Verordnung spätestens nach
 Ablauf von drei Jahren nach Inkrafttreten dieser Verordnung einhalten.
-
 
 ## § 12 Zulassung von Ausnahmen
 
@@ -263,13 +248,11 @@ des Denkmalschutzes berührt sind.
 (3) Die zuständige Behörde kann die Ausnahme unter Bedingungen
 erteilen, mit Auflagen verbinden oder befristen.
 
-
 ## § 13 Weitergehende Anforderungen
 
 Die Befugnis der zuständigen Behörde, auf der Grundlage des Bundes-
 Immissionsschutzgesetzes andere oder weitergehende Anordnungen zu
 treffen, bleibt unberührt.
-
 
 ## § 14 Ordnungswidrigkeiten
 
@@ -300,10 +283,6 @@ Immissionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
     rechtzeitig prüfen läßt oder eine Prüfung nicht, nicht richtig, nicht
     in der vorgeschriebenen Weise oder nicht rechtzeitig wiederholen läßt.
 
-
-
-
-
 ## Anhang 1 Bestimmung der Massenkonzentration von Gesamtstaub und und Gesamtkohlenstoff nach § 4 Nr. 2
 
 Fundstelle des Originaltextes: BGBl. I 1997, 547
@@ -326,10 +305,6 @@ Fundstelle des Originaltextes: BGBl. I 1997, 547
     erfolgt nach der FID-Methode. Die Kalibrierung des Gerätes erfolgt mit
     Propan oder Butan. Es sind geeignete Meßgeräte zu verwenden, die eine
     Bekanntgabe für Meßaufgaben nach der 17. BImSchV besitzen.
-
-
-
-
 
 ## Anhang 2 Bestimmung der Massenkonzentration von Dioxinen und Furanen nach § 4 Nr. 3
 

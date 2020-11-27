@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 11 G v. 20.12.1991 II 1354
 
-
 ## Art 1 Anwendung und Änderung von Artikel II des Gesetzes über internationale Patentübereinkommen
 
 (1)
@@ -31,38 +30,27 @@ Zuletzt geändert durch
 
 (5)
 
-
 ## (XXXX) Art 2 bis 7
 
-
-
 ## Kapitel 2 - Änderung patentrechtlicher Vorschriften
-
-
 
 ### Art 8
 
 -
 
-
 ### Art 9
 
 -
-
 
 ### Art 10
 
 -
 
-
 ### Art 11
 
 -
 
-
 ## Kapitel 3 - Übergangs- und Schlußbestimmungen
-
-
 
 ### Art 12 Anmeldungen vor Inkrafttreten des Gesetzes
 
@@ -103,7 +91,6 @@ nicht beschlossen worden ist, ist anstelle der in §
 26c              des Patentgesetzes § 26 des Patentgesetzes in der
 bisherigen Fassung anzuwenden.
 
-
 ### Art 13 Anhängige gerichtliche Verfahren
 
 (1) § 110 Abs. 4 Satz 1 des Patentgesetzes ist in der Fassung dieses
@@ -115,7 +102,6 @@ insoweit verbleibt es bei der bisher geltenden Vorschrift.
 auf gerichtliche Verfahren anzuwenden, die bei Inkrafttreten dieses
 Gesetzes beim Bundesgerichtshof anhängig sind; insoweit verbleibt es
 bei der bisher geltenden Vorschrift.
-
 
 ### Art 14 Gebühr bei Prüfungsanträgen
 
@@ -134,10 +120,6 @@ geändert durch Artikel 2 des Gesetzes vom 29. Januar 1979 (BGBl. I S.
 2.  Im übrigen sind die vom 1. November 1976 an geltenden Gebührensätze
     anzuwenden.
 
-
-
-
-
 ### Art 15 Neufassung des Patentgesetzes
 
 Der Bundesminister der Justiz kann den Wortlaut des Patentgesetzes in
@@ -145,14 +127,12 @@ der vom Inkrafttreten dieses Gesetzes an geltenden Fassung mit der
 sich daraus ergebenden Bezeichnung der Paragraphen und Absätze im
 Bundesgesetzblatt bekanntmachen.
 
-
 ### Art 16 Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin. Rechtsverordnungen, die auf
 Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14
 des Dritten Überleitungsgesetzes.
-
 
 ### Art 17 Inkrafttreten
 

@@ -19,10 +19,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 6 G v. 30.7.2009 I 2479
 
-
 ## Abschnitt 1 - Allgemeine Vorschriften
-
-
 
 ### § 1 Anzuwendende Vorschriften
 
@@ -33,17 +30,14 @@ Gesellschaft (SE) mit Sitz im Inland und auf die an der Gründung einer
 Europäischen Gesellschaft beteiligten Gesellschaften mit Sitz im
 Inland die folgenden Vorschriften anzuwenden.
 
-
 ### § 2 (weggefallen)
 
 -
-
 
 ### § 3 Eintragung
 
 Die SE wird gemäß den für Aktiengesellschaften geltenden Vorschriften
 im Handelsregister eingetragen.
-
 
 ### § 4 Zuständigkeiten
 
@@ -57,14 +51,9 @@ Verordnung bestimmt sich nach § 375 Nr. 4, §§ 376 und 377 des Gesetzes
 über das Verfahren in Familiensachen und in den Angelegenheiten der
 freiwilligen Gerichtsbarkeit.
 
-
 ## Abschnitt 2 - Gründung einer SE
 
-
-
 ### Unterabschnitt 1 - Verschmelzung
-
-
 
 #### § 5 Bekanntmachung
 
@@ -72,7 +61,6 @@ Die nach Artikel 21 der Verordnung bekannt zu machenden Angaben sind
 dem Register bei Einreichung des Verschmelzungsplans mitzuteilen. Das
 Gericht hat diese Angaben zusammen mit dem nach § 61 Satz 2 des
 Umwandlungsgesetzes vorgeschriebenen Hinweis bekannt zu machen.
-
 
 #### § 6 Verbesserung des Umtauschverhältnisses
 
@@ -108,7 +96,6 @@ Staates ein Verfahren zur Kontrolle und Änderung des
 Umtauschverhältnisses der Aktien vorgesehen ist und deutsche Gerichte
 für die Durchführung eines solchen Verfahrens international zuständig
 sind.
-
 
 #### § 7 Abfindungsangebot im Verschmelzungsplan
 
@@ -176,7 +163,6 @@ Abfindung von Minderheitsaktionären vorgesehen ist und deutsche
 Gerichte für die Durchführung eines solchen Verfahrens international
 zuständig sind.
 
-
 #### § 8 Gläubigerschutz
 
 Liegt der künftige Sitz der SE im Ausland, ist § 13 Abs. 1 und 2
@@ -187,10 +173,7 @@ abgeben, dass allen Gläubigern, die nach Satz 1 einen Anspruch auf
 Sicherheitsleistung haben, eine angemessene Sicherheit geleistet
 wurde.
 
-
 ### Unterabschnitt 2 - Gründung einer Holding-SE
-
-
 
 #### § 9 Abfindungsangebot im Gründungsplan
 
@@ -213,7 +196,6 @@ Anwendung.
 Stelle der Eintragung und Bekanntmachung der Verschmelzung die
 Eintragung und Bekanntmachung der neu gegründeten Holding-SE tritt.
 
-
 #### § 10 Zustimmungsbeschluss; Negativerklärung
 
 (1) Der Zustimmungsbeschluss gemäß Artikel 32 Abs. 6 der Verordnung
@@ -228,7 +210,6 @@ Zustimmungsbeschlüsse gemäß Artikel 32 Abs. 6 der Verordnung nicht
 oder nicht fristgemäß erhoben oder eine solche Klage rechtskräftig
 abgewiesen oder zurückgenommen worden ist.
 
-
 #### § 11 Verbesserung des Umtauschverhältnisses
 
 (1) Ist bei der Gründung einer Holding-SE nach dem Verfahren der
@@ -240,10 +221,7 @@ von der Holding-SE einen Ausgleich durch bare Zuzahlung verlangen.
 Stelle der Eintragung und Bekanntmachung der Verschmelzung die
 Eintragung und Bekanntmachung der Gründung der Holding-SE tritt.
 
-
 ## Abschnitt 3 - Sitzverlegung
-
-
 
 ### § 12 Abfindungsangebot im Verlegungsplan
 
@@ -261,7 +239,6 @@ Gesellschaft hat die Kosten für eine Übertragung zu tragen. § 29 Abs.
 (2) § 7 Abs. 2 bis 7 findet entsprechende Anwendung, wobei an die
 Stelle der Eintragung und Bekanntmachung der Verschmelzung die
 Eintragung und Bekanntmachung der SE im neuen Sitzstaat tritt.
-
 
 ### § 13 Gläubigerschutz
 
@@ -287,7 +264,6 @@ abgeben, dass allen Gläubigern, die nach den Absätzen 1 und 2 einen
 Anspruch auf Sicherheitsleistung haben, eine angemessene Sicherheit
 geleistet wurde.
 
-
 ### § 14 Negativerklärung
 
 Das zuständige Gericht stellt die Bescheinigung nach Artikel 8 Abs. 8
@@ -297,14 +273,9 @@ dass eine Klage gegen die Wirksamkeit des Verlegungsbeschlusses nicht
 oder nicht fristgemäß erhoben oder eine solche Klage rechtskräftig
 abgewiesen oder zurückgenommen worden ist.
 
-
 ## Abschnitt 4 - Aufbau der SE
 
-
-
 ### Unterabschnitt 1 - Dualistisches System
-
-
 
 #### § 15 Wahrnehmung der Geschäftsleitung durch Mitglieder des Aufsichtsorgans
 
@@ -315,14 +286,12 @@ höchstens für ein Jahr, zulässig. Eine wiederholte Bestellung oder
 Verlängerung der Amtszeit ist zulässig, wenn dadurch die Amtszeit
 insgesamt ein Jahr nicht übersteigt.
 
-
 #### § 16 Zahl der Mitglieder des Leitungsorgans
 
 Bei Gesellschaften mit einem Grundkapital von mehr als 3 Millionen
 Euro hat das Leitungsorgan aus mindestens zwei Personen zu bestehen,
 es sei denn, die Satzung bestimmt, dass es aus einer Person bestehen
 soll. § 38 Abs. 2 des SE-Beteiligungsgesetzes bleibt unberührt.
-
 
 #### § 17 Zahl der Mitglieder und Zusammensetzung des Aufsichtsorgans
 
@@ -363,23 +332,18 @@ Mitgliedstaaten über die Besetzung der ihnen zugewiesenen Sitze
 geltend gemacht werden kann. Für die Arbeitnehmervertreter aus dem
 Inland gilt § 37 Abs. 2 des SE-Beteiligungsgesetzes.
 
-
 #### § 18 Informationsverlangen einzelner Mitglieder des Aufsichtsorgans
 
 Jedes einzelne Mitglied des Aufsichtsorgans kann vom Leitungsorgan
 jegliche Information nach Artikel 41 Abs. 3 Satz 1 der Verordnung,
 jedoch nur an das Aufsichtsorgan, verlangen.
 
-
 #### § 19 Festlegung zustimmungsbedürftiger Geschäfte durch das Aufsichtsorgan
 
 Das Aufsichtsorgan kann selbst bestimmte Arten von Geschäften von
 seiner Zustimmung abhängig machen.
 
-
 ### Unterabschnitt 2 - Monistisches System
-
-
 
 #### § 20 Anzuwendende Vorschriften
 
@@ -387,7 +351,6 @@ Wählt eine SE gemäß Artikel 38 Buchstabe b der Verordnung in ihrer
 Satzung das monistische System mit einem Verwaltungsorgan
 (Verwaltungsrat), so gelten anstelle der §§ 76 bis 116 des
 Aktiengesetzes die nachfolgenden Vorschriften.
-
 
 #### § 21 Anmeldung und Eintragung
 
@@ -413,7 +376,6 @@ des § 38 Abs. 2 des Aktiengesetzes gegeben sind.
 deren Vertretungsbefugnis anzugeben.
 
 (5) (weggefallen)
-
 
 #### § 22 Aufgaben und Rechte des Verwaltungsrats
 
@@ -456,7 +418,6 @@ zuweisen, gelten sinngemäß für den Verwaltungsrat, soweit nicht in
 diesem Gesetz für den Verwaltungsrat und für geschäftsführende
 Direktoren besondere Regelungen enthalten sind.
 
-
 #### § 23 Zahl der Mitglieder des Verwaltungsrats
 
 (1) Der Verwaltungsrat besteht aus drei Mitgliedern. Die Satzung kann
@@ -485,7 +446,6 @@ Verwaltungsrats beträgt bei Gesellschaften mit einem Grundkapital
 (2) Die Beteiligung der Arbeitnehmer nach dem SE-Beteiligungsgesetz
 bleibt unberührt.
 
-
 #### § 24 Zusammensetzung des Verwaltungsrats
 
 (1) Der Verwaltungsrat setzt sich zusammen aus
@@ -499,7 +459,6 @@ werden, wenn nach § 25 oder nach § 26 die in der Bekanntmachung des
 Vorsitzenden des Verwaltungsrats oder in der gerichtlichen
 Entscheidung angegebenen vertraglichen oder gesetzlichen Vorschriften
 anzuwenden sind.
-
 
 #### § 25 Bekanntmachung über die Zusammensetzung des Verwaltungsrats
 
@@ -537,7 +496,6 @@ Satzungsbestimmungen beschließen.
 eine Bekanntmachung über die Zusammensetzung des Verwaltungsrats nicht
 erfolgen.
 
-
 #### § 26 Gerichtliche Entscheidung über die Zusammensetzung des Verwaltungsrats
 
 (1) Ist streitig oder ungewiss, nach welchen Vorschriften der
@@ -572,7 +530,6 @@ mit dem Eintritt der Rechtskraft beginnt.
 der Maßgabe, dass die nach Absatz 5 der Vorschrift vorgesehene
 Einreichung der rechtskräftigen Entscheidung durch den Vorsitzenden
 des Verwaltungsrats erfolgt.
-
 
 #### § 27 Persönliche Voraussetzungen der Mitglieder des Verwaltungsrats
 
@@ -613,7 +570,6 @@ Mitglieder der Arbeitnehmer bleibt unberührt.
 (3) Eine juristische Person kann nicht Mitglied des Verwaltungsrats
 sein.
 
-
 #### § 28 Bestellung der Mitglieder des Verwaltungsrats
 
 (1) Die Bestellung der Mitglieder des Verwaltungsrats richtet sich
@@ -630,7 +586,6 @@ Bestellung sowie die Nichtigkeit und Anfechtung seiner Bestellung sind
 die für das Mitglied geltenden Vorschriften anzuwenden. Das Amt des
 Ersatzmitglieds erlischt spätestens mit Ablauf der Amtszeit des
 weggefallenen Mitglieds.
-
 
 #### § 29 Abberufung der Mitglieder des Verwaltungsrats
 
@@ -659,7 +614,6 @@ die Beschwerde zulässig.
 
 (4) Für die Abberufung eines Ersatzmitglieds gelten die Vorschriften
 über die Abberufung des Mitglieds, für das es bestellt ist.
-
 
 #### § 30 Bestellung durch das Gericht
 
@@ -700,7 +654,6 @@ Rechtsbeschwerde ist ausgeschlossen. Aus der rechtskräftigen
 Entscheidung findet die Zwangsvollstreckung nach der
 Zivilprozessordnung statt.
 
-
 #### § 31 Nichtigkeit der Wahl von Verwaltungsratsmitgliedern
 
 (1) Die Wahl eines Verwaltungsratsmitglieds durch die Hauptversammlung
@@ -733,7 +686,6 @@ Abs. 1 Satz 2, die §§ 248a und 249 Abs. 2 des Aktiengesetzes
 entsprechend. Es ist nicht ausgeschlossen, die Nichtigkeit auf andere
 Weise als durch Erhebung der Klage geltend zu machen.
 
-
 #### § 32 Anfechtung der Wahl von Verwaltungsratsmitgliedern
 
 Für die Anfechtung der Wahl von Verwaltungsratsmitgliedern findet §
@@ -744,11 +696,9 @@ Mitgliedstaaten über die Besetzung der ihnen zugewiesenen Sitze
 geltend gemacht werden kann. Für die Arbeitnehmervertreter aus dem
 Inland gilt § 37 Abs. 2 des SE-Beteiligungsgesetzes.
 
-
 #### § 33 Wirkung des Urteils
 
 Für die Urteilswirkung gilt § 252 des Aktiengesetzes entsprechend.
-
 
 #### § 34 Innere Ordnung des Verwaltungsrats
 
@@ -793,7 +743,6 @@ Prüfungsausschusses die Voraussetzungen des § 100 Abs. 5 des
 Aktiengesetzes erfüllen und darf der Vorsitzende des
 Prüfungsausschusses nicht geschäftsführender Direktor sein.
 
-
 #### § 35 Beschlussfassung
 
 (1) Abwesende Mitglieder können dadurch an der Beschlussfassung des
@@ -815,7 +764,6 @@ Verwaltungsrats ist, aus rechtlichen Gründen gehindert, an der
 Beschlussfassung im Verwaltungsrat teilzunehmen, hat insoweit der
 Vorsitzende des Verwaltungsrats eine zusätzliche Stimme.
 
-
 #### § 36 Teilnahme an Sitzungen des Verwaltungsrats und seiner Ausschüsse
 
 (1) An den Sitzungen des Verwaltungsrats und seiner Ausschüsse sollen
@@ -834,7 +782,6 @@ können, wenn diese sie in Textform ermächtigt haben.
 
 (4) Abweichende gesetzliche Bestimmungen bleiben unberührt.
 
-
 #### § 37 Einberufung des Verwaltungsrats
 
 (1) Jedes Verwaltungsratsmitglied kann unter Angabe des Zwecks und der
@@ -846,7 +793,6 @@ zwei Wochen nach der Einberufung stattfinden.
 Verwaltungsratsmitglied unter Mitteilung des Sachverhalts und der
 Angabe einer Tagesordnung selbst den Verwaltungsrat einberufen.
 
-
 #### § 38 Rechtsverhältnisse der Mitglieder des Verwaltungsrats
 
 (1) Für die Vergütung der Mitglieder des Verwaltungsrats gilt § 113
@@ -856,12 +802,10 @@ des Aktiengesetzes entsprechend.
 und für sonstige Verträge mit Mitgliedern des Verwaltungsrats gelten
 die §§ 114 und 115 des Aktiengesetzes entsprechend.
 
-
 #### § 39 Sorgfaltspflicht und Verantwortlichkeit der Verwaltungsratsmitglieder
 
 Für die Sorgfaltspflicht und Verantwortlichkeit der
 Verwaltungsratsmitglieder gilt § 93 des Aktiengesetzes entsprechend.
-
 
 #### § 40 Geschäftsführende Direktoren
 
@@ -920,7 +864,6 @@ Direktoren gilt § 93 des Aktiengesetzes entsprechend.
 (9) Die Vorschriften über die geschäftsführenden Direktoren gelten
 auch für ihre Stellvertreter.
 
-
 #### § 41 Vertretung
 
 (1) Die geschäftsführenden Direktoren vertreten die Gesellschaft
@@ -952,11 +895,9 @@ Prokuristen zur Vertretung der Gesellschaft befugt ist.
 (5) Den geschäftsführenden Direktoren gegenüber vertritt der
 Verwaltungsrat die Gesellschaft gerichtlich und außergerichtlich.
 
-
 #### § 42 (weggefallen)
 
 -
-
 
 #### § 43 Angaben auf Geschäftsbriefen
 
@@ -971,7 +912,6 @@ des Aktiengesetzes gilt entsprechend.
 
 (2) § 80 Abs. 2 bis 4 des Aktiengesetzes gilt entsprechend.
 
-
 #### § 44 Beschränkungen der Vertretungs- und Geschäftsführungsbefugnis
 
 (1) Die Vertretungsbefugnis der geschäftsführenden Direktoren kann
@@ -984,14 +924,12 @@ Satzung, der Verwaltungsrat, die Hauptversammlung und die
 Geschäftsordnungen des Verwaltungsrats und der geschäftsführenden
 Direktoren für die Geschäftsführungsbefugnis getroffen haben.
 
-
 #### § 45 Bestellung durch das Gericht
 
 Fehlt ein erforderlicher geschäftsführender Direktor, so hat in
 dringenden Fällen das Gericht auf Antrag eines Beteiligten das
 Mitglied zu bestellen. § 85 Abs. 1 Satz 2, Abs. 2 und 3 des
 Aktiengesetzes gilt entsprechend.
-
 
 #### § 46 Anmeldung von Änderungen
 
@@ -1014,7 +952,6 @@ Auskunftspflicht gegenüber dem Gericht belehrt worden sind. § 37 Abs.
 
 (3) § 81 Abs. 2 des Aktiengesetzes gilt für die geschäftsführenden
 Direktoren entsprechend.
-
 
 #### § 47 Prüfung und Feststellung des Jahresabschlusses
 
@@ -1057,7 +994,6 @@ Konzernabschluss nicht gebilligt, so entscheidet die Hauptversammlung
 die Billigung des Konzernabschlusses durch die Hauptversammlung gilt §
 173 Abs. 2 und 3 des Aktiengesetzes entsprechend.
 
-
 #### § 48 Ordentliche Hauptversammlung
 
 (1) Unverzüglich nach der Zuleitung des Berichts an die
@@ -1080,7 +1016,6 @@ zu einem Jahresfehlbetrag oder einem Verlust Stellung nehmen, der das
 Jahresergebnis wesentlich beeinträchtigt hat. Satz 4 ist auf
 Kreditinstitute nicht anzuwenden.
 
-
 #### § 49 Leitungsmacht und Verantwortlichkeit bei Abhängigkeit von Unternehmen
 
 (1) Für die Anwendung der Vorschriften der §§ 308 bis 318 des
@@ -1091,10 +1026,7 @@ geschäftsführenden Direktoren.
 Aktiengesetzes treten an die Stelle des Vorstands der eingegliederten
 Gesellschaft die geschäftsführenden Direktoren.
 
-
 ### Unterabschnitt 3 - Hauptversammlung
-
-
 
 #### § 50 Einberufung und Ergänzung der Tagesordnung auf Verlangen einer Minderheit
 
@@ -1108,7 +1040,6 @@ einen oder mehrere Punkte kann von einem oder mehreren Aktionären
 beantragt werden, sofern sein oder ihr Anteil 5 Prozent des
 Grundkapitals oder den anteiligen Betrag von 500.000 Euro erreicht.
 
-
 #### § 51 Satzungsänderungen
 
 Die Satzung kann bestimmen, dass für einen Beschluss der
@@ -1119,10 +1050,7 @@ Gegenstands des Unternehmens, für einen Beschluss gemäß Artikel 8 Abs.
 6 der Verordnung sowie für Fälle, für die eine höhere Kapitalmehrheit
 gesetzlich zwingend vorgeschrieben ist.
 
-
 ## Abschnitt 5 - Auflösung
-
-
 
 ### § 52 Auflösung der SE bei Auseinanderfallen von Sitz und Hauptverwaltung
 
@@ -1146,10 +1074,7 @@ nicht genügt, so hat das Gericht den Mangel der Satzung festzustellen.
 (3) Gegen Verfügungen, durch welche eine Feststellung nach Absatz 2
 getroffen wird, findet die Beschwerde statt.
 
-
 ## Abschnitt 6 - Straf- und Bußgeldvorschriften
-
-
 
 ### § 53 Straf- und Bußgeldvorschriften
 
@@ -1227,10 +1152,7 @@ beantragt.
 (5) Handelt der Täter in den Fällen des Absatzes 4 fahrlässig, so ist
 die Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
 
-
 ## Abschnitt 7 - Schlussbestimmungen
-
-
 
 ### § 54 Übergangsvorschrift zum Bilanzrechtsmodernisierungsgesetz
 
@@ -1238,7 +1160,6 @@ die Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
 Bilanzrechtsmodernisierungsgesetzes vom 25. Mai 2009 (BGBl. I S. 1102)
 finden keine Anwendung, solange alle Mitglieder des Verwaltungsrats
 und des Prüfungsausschusses vor dem 29. Mai 2009 bestellt worden sind.
-
 
 ### § 55 Übergangsvorschrift zum Gesetz zur Umsetzung der Aktionärsrechterichtlinie
 

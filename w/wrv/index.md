@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   RGBl: 1919, 1383
 
-
-
 ## Art 109
 
 (1) u. (2)
@@ -25,7 +23,6 @@ Fundstelle
 nicht mehr verliehen werden.
 
 (4) bis (6)
-
 
 ## Art 136
 
@@ -46,7 +43,6 @@ statistische Erhebung dies erfordert.
 (4) Niemand darf zu einer kirchlichen Handlung oder Feierlichkeit oder
 zur Teilnahme an religiösen Übungen oder zur Benutzung einer
 religiösen Eidesform gezwungen werden.
-
 
 ## Art 137
 
@@ -85,7 +81,6 @@ Weltanschauung zur Aufgabe machen.
 (8) Soweit die Durchführung dieser Bestimmungen eine weitere Regelung
 erfordert, liegt diese der Landesgesetzgebung ob.
 
-
 ## Art 138
 
 (1) Die auf Gesetz, Vertrag oder besonderen Rechtstiteln beruhenden
@@ -98,12 +93,10 @@ religiösen Vereine an ihren für Kultus-, Unterrichts- und
 Wohltätigkeitszwecke bestimmten Anstalten, Stiftungen und sonstigen
 Vermögen werden gewährleistet.
 
-
 ## Art 139
 
 Der Sonntag und die staatlich anerkannten Feiertage bleiben als Tage
 der Arbeitsruhe und der seelischen Erhebung gesetzlich geschützt.
-
 
 ## Art 141
 

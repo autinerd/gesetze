@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 V v. 29.9.2011 I 1954
 
-
 ## Eingangsformel
 
 Auf Grund des § 79 Abs. 1 Nr. 1 in Verbindung mit § 17 Abs. 1 Nr. 16
@@ -31,7 +30,6 @@ Bundesminister für Jugend, Familie und Gesundheit im Einvernehmen mit
 den Bundesministern für Ernährung, Landwirtschaft und Forsten und für
 Arbeit und Sozialordnung
 mit Zustimmung des Bundesrates:
-
 
 ## § 1 Begriffsbestimmung
 
@@ -46,7 +44,6 @@ Erregern
 
 
 (Tierseuchenerreger).
-
 
 ## § 2 Erlaubnis
 
@@ -77,7 +74,6 @@ bedarf einer Erlaubnis der zuständigen Behörde.
 
 (2) Eine nach den bisherigen Vorschriften erteilte Erlaubnis für eine
 Tätigkeit nach Absatz 1 gilt als Erlaubnis im Sinne dieser Verordnung.
-
 
 ## § 3 Erlaubnisfreies Arbeiten, Erwerben oder Abgeben
 
@@ -144,7 +140,6 @@ oder 2 einer solchen Erlaubnis nicht bedarf.
 (5) Der Erlaubnis bedarf nicht, wer eine Zulassung nach § 33a Absatz 2
 der MKS-Verordnung besitzt.
 
-
 ## § 4 Versagen der Erlaubnis
 
 (1) Die Erlaubnis ist zu versagen, wenn
@@ -191,7 +186,6 @@ Versagungsgrund nach Absatz 1 Nr. 1 Buchstabe b bei den nach Gesetz,
 Satzung oder Gesellschaftsvertrag zur Vertretung berufenen Personen
 nicht vorliegen.
 
-
 ## § 5 Anzeigepflichten des Erlaubnisinhabers
 
 Der Inhaber einer Erlaubnis hat jeden Wechsel der mit der Leitung der
@@ -200,7 +194,6 @@ Räume oder Einrichtungen und im Falle einer juristischen Person oder
 einer Handelsgesellschaft jeden Wechsel eines Vertretungsberechtigten
 unverzüglich der zuständigen Behörde anzuzeigen.
 
-
 ## § 6 Anzeigepflichtige Tätigkeiten
 
 Wer eine Tätigkeit nach § 3 Abs. 1 oder 2 aufnehmen will, hat dies der
@@ -208,7 +201,6 @@ zuständigen Behörde unter Angabe der Art und des Umfangs der Tätigkeit
 spätestens zwei Wochen vor deren Aufnahme anzuzeigen. Ändert sich Art
 oder Umfang der Tätigkeit, so ist dies der zuständigen Behörde
 innerhalb von zwei Wochen anzuzeigen.
-
 
 ## § 7 Verbot von Tätigkeiten, Beschränkung
 
@@ -230,14 +222,12 @@ oder 2 beschränken oder verbieten, wenn sie die Gefahr für gegeben
 hält, daß sich auf Grund dieser Tätigkeiten eine Tierseuche
 ausbreitet.
 
-
 ## § 8 Abgabe von Tierseuchenerregern
 
 Tierseuchenerreger sowie Material, das Tierseuchenerreger enthält,
 dürfen nur an eine Person oder Einrichtung abgegeben werden, die eine
 Erlaubnis nach § 2 hat oder nach § 3 einer solchen Erlaubnis nicht
 bedarf.
-
 
 ## § 9 Aufzeichnungen
 
@@ -254,7 +244,6 @@ systematische Aufzeichnungen. Die Bücher sind fünf Jahre lang
 aufzubewahren. Die Frist beginnt mit dem Schluß des Kalenderjahres, in
 dem die letzte Eintragung gemacht worden ist. Sie sind der zuständigen
 Behörde auf Verlangen vorzulegen.
-
 
 ## § 10 Ordnungswidrigkeiten
 
@@ -292,14 +281,9 @@ Tierseuchengesetzes handelt, wer vorsätzlich oder fahrlässig
 5.  einer Vorschrift des § 9 über die Führung oder Aufbewahrung von
     Büchern zuwiderhandelt.
 
-
-
-
-
 ## § 11 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlußformel
 

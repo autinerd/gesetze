@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 2732
 
-
 ## Eingangsformel
 
 Auf Grund des § 11 Absatz 2 des Luftverkehrsteuergesetzes vom 9.
@@ -25,7 +24,6 @@ Finanzen im Einvernehmen mit dem Bundesministerium für Umwelt,
 Naturschutz und Reaktorsicherheit, dem Bundesministerium für Verkehr,
 Bau und Stadtentwicklung und dem Bundesministerium für Wirtschaft und
 Technologie:
-
 
 ## § 1 Steuersätze 2012
 
@@ -56,13 +54,6 @@ Steuer beträgt je Fluggast für Flüge mit einem Zielort
     *        *   in anderen Ländern
 
         *   42,18 Euro.
-
-
-
-
-
-
-
 
 ## § 2 Inkrafttreten
 

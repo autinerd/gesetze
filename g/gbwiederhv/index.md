@@ -19,12 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 23 G v. 8.12.2010 I 1864
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 123 der Grundbuchordnung verordne ich folgendes:
-
 
 ## § 1
 
@@ -42,10 +39,7 @@ wenn es dies für angezeigt hält.
 Angelegenheiten der freiwilligen Gerichtsbarkeit gilt auch, soweit die
 Grundbuchführung den Amtsgerichten noch nicht übertragen ist.
 
-
 ## Abschnitt 1 - Wiederherstellung des Grundbuchs nach den Grundakten oder dem Handblatt
-
-
 
 ### § 2
 
@@ -54,16 +48,12 @@ gekommenen Grundbuchs vorhanden und ergibt sich aus ihnen der Inhalt
 des Grundbuchs zweifelsfrei, so ist das Grundbuch nach dem Inhalt der
 Grundakten oder des Handblatts wiederherzustellen.
 
-
 ## Abschnitt 2 - Wiederherstellung des Grundbuchs in anderen Fällen
-
-
 
 ### § 3
 
 Kann das Grundbuch nicht nach § 2 wiederhergestellt werden, so ist
 nach den §§ 4 bis 10 zu verfahren.
-
 
 ### § 4
 
@@ -74,7 +64,6 @@ Verzeichnis oder, wenn dieses Verzeichnis vom Grundbuchamt selbst
 geführt wird, um Übersendung der sonstigen, für die Kennzeichnung des
 Grundstücks erforderlichen Unterlagen zu ersuchen, soweit ihm der
 Auszug oder die Unterlagen nicht schon zur Verfügung stehen.
-
 
 ### § 5
 
@@ -116,12 +105,10 @@ die Eintragung von beschränkten dinglichen Rechten oder sonstigen
 Beschränkungen an, so ist der von der Eintragung Begünstigte davon in
 Kenntnis zu setzen.
 
-
 ### § 6
 
 Nach Abschluß der Ermittlungen kann das Grundbuchamt ein Aufgebot
 erlassen.
-
 
 ### § 7
 
@@ -147,10 +134,6 @@ d)  die Aufforderung an die Personen, die nicht gemäß § 5 Abs. 1 als
     glaubhaft zu machen, widrigenfalls sie Gefahr laufen würden, bei der
     Wiederherstellung des Grundbuchs nicht berücksichtigt zu werden.
 
-
-
-
-
 ### § 8
 
 (1) Das Aufgebot ist an die für den Aushang von Bekanntmachungen des
@@ -165,7 +148,6 @@ ganz unterbleibe.
 liegt, an der für amtliche Bekanntmachungen bestimmten Stelle
 anzuheften oder in sonstiger ortsüblicher Weise bekanntzumachen.
 
-
 ### § 9
 
 Das Grundbuch darf, wenn ein Aufgebotsverfahren nicht stattgefunden
@@ -174,7 +156,6 @@ Bezirk das Grundstück liegt, das Bevorstehen der Wiederherstellung und
 der Name der als Eigentümer oder sonstige Berechtigte Einzutragenden
 öffentlich bekanntgemacht und seit der Bekanntmachung ein Monat
 verstrichen ist; die Art der Bekanntmachung bestimmt das Grundbuchamt.
-
 
 ### § 10
 
@@ -209,10 +190,7 @@ und c sowie Absatzes 3 Satz 2 für Beteiligte, deren Rechte nicht oder
 nicht mit dem in Anspruch genommenen Inhalt oder Rang im Grundbuch
 eingetragen werden, einen Widerspruch eintragen.
 
-
 ## Abschnitt 3 - Wiederherstellung von Urkunden
-
-
 
 ### § 11
 
@@ -235,22 +213,17 @@ Urkunde wiedergegeben ist.
 Wiederherstellung des Grundbuchs von der Bezugnahme auf die Urkunde
 abgesehen wird.
 
-
 ### § 12
 
 Für die Wiederherstellung einer Urkunde, auf die eine Eintragung sich
 gründet, ohne auf die Urkunde Bezug zu nehmen, gilt § 11 Abs. 1, Abs.
 2 Halbsatz 1 und Abs. 3 entsprechend.
 
-
 ## Abschnitt 4 - Kosten, Beschwerde
-
-
 
 ### § 13
 
 Das Verfahren nach dieser Verordnung ist kostenfrei.
-
 
 ### § 14
 
@@ -260,10 +233,7 @@ das Grundbuchamt angewiesen wird, nach § 10 Abs. 4, § 11 Abs. 2 dieser
 Verordnung oder § 53 der Grundbuchordnung einen Widerspruch
 einzutragen oder eine Löschung vorzunehmen.
 
-
 ## Abschnitt 5 - Rechtsverkehr bis zur Wiederherstellung
-
-
 
 ### § 15
 
@@ -273,7 +243,6 @@ bei der Wiederherstellung eingetragen wird, die Wirksamkeit der
 Eintragung auf den Zeitpunkt zurück, den das Grundbuchamt im
 Einzelfall bestimmt. Dieser Zeitpunkt ist bei der Eintragung im
 Grundbuch zu vermerken.
-
 
 ### § 16
 
@@ -292,15 +261,11 @@ Grundbuchs erfolgt.
 (3) Der Versteigerungstermin darf erst nach der Wiederherstellung des
 Grundbuchblatts bestimmt werden.
 
-
 ## Abschnitt 6 - Inkrafttreten
-
-
 
 ### § 17
 
 Die Verordnung tritt am 15. August 1940 in Kraft.
-
 
 ### Schlußformel
 

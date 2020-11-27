@@ -18,12 +18,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## § 1 Zulassung des Baus
 
@@ -44,7 +42,6 @@ und Planfeststellungen sind nicht erforderlich. Mit diesem Gesetz
 werden alle öffentlich-rechtlichen Beziehungen zwischen der Deutschen
 Reichsbahn als Träger des Vorhabens und den durch den Plan Betroffenen
 rechtsgestaltend geregelt.
-
 
 ## § 2 Änderung und Ergänzung des Planes
 
@@ -84,7 +81,6 @@ entscheidet auf Antrag das Bundesverwaltungsgericht im Rahmen seiner
 Gerichtsbarkeit. Auf das Verfahren finden die Vorschriften des § 47
 der Verwaltungsgerichtsordnung entsprechende Anwendung.
 
-
 ## § 3 Enteignungsverfahren, Enteignungsentschädigung, gerichtliches Verfahren
 
 (1) Die Enteignung zugunsten der Bundesrepublik Deutschland -
@@ -101,7 +97,6 @@ Baugesetzbuchs.
 (4) Für das gerichtliche Verfahren zur Überprüfung der Entscheidungen
 der Enteignungsbehörde gelten die §§ 217 bis 232 des Baugesetzbuchs
 entsprechend.
-
 
 ## § 4 Vorzeitige Besitzeinweisung
 
@@ -149,7 +144,6 @@ oder eines anderen Rechtes ausgeglichen werden. Art und Höhe der
 Entschädigung sind von der Enteignungsbehörde in einem Beschluß
 festzusetzen.
 
-
 ## § 5 Vertreter des Eigentümers
 
 Sind die Eigentumsverhältnisse an einem Grundstück ungeklärt, so hat
@@ -159,11 +153,9 @@ Enteignungsbehörde innerhalb von zwei Wochen nach Antragstellung einen
 Vertreter des Eigentümers zu bestellen. § 16 Abs. 3 und 4 des
 Verwaltungsverfahrensgesetzes findet Anwendung.
 
-
 ## § 6 Inkrafttreten
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
-
 
 ## (XXXX) Anlage 1 bis 12
 

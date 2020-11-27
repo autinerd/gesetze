@@ -19,12 +19,10 @@ Fundstelle
 Geändert durch
 :   Art. 103 G v. 19.4.2006 I 866
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -33,7 +31,6 @@ unterzeichneten Übereinkommen vom 5. Oktober 1961 über die
 Zuständigkeit der Behörden und das anzuwendende Recht auf dem Gebiet
 des Schutzes von Minderjährigen wird zugestimmt. Das Übereinkommen
 wird nachstehend veröffentlicht.
-
 
 ## Art 2
 
@@ -60,18 +57,15 @@ hat, das Landesjugendamt Berlin zuständig.
 Übereinkommen zuständigen Behörden sind im Bundesanzeiger
 bekanntzugeben.
 
-
 ## Art 3
 
 Die Vorschriften der §§ 19, 25 Abs. 1 des Staatsangehörigkeitsgesetzes
 bleiben unberührt.
 
-
 ## Art 4
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
-
 
 ## Art 5
 

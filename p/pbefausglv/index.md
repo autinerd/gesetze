@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 5 Nr. 3 G v. 23.3.2005 I 931
 
-
 ## Eingangsformel
 
 Auf Grund des durch das Gesetz vom 24. August 1976 (BGBl. I S. 2439)
@@ -26,7 +25,6 @@ eingefügten § 58 Abs. 1 Nr. 5 des Personenbeförderungsgesetzes in der
 im Bundesgesetzblatt Teil III, Gliederungsnummer 9240-1,
 veröffentlichten bereinigten Fassung, wird mit Zustimmung des
 Bundesrates verordnet:
-
 
 ## § 1 Auszubildende
 
@@ -110,7 +108,6 @@ Trägers der jeweiligen sozialen Dienste. In der Bescheinigung ist zu
 bestätigen, daß die Voraussetzung des Absatzes 1 Nr. 2 gegeben ist.
 Die Bescheinigung gilt längstens ein Jahr.
 
-
 ## § 2 Kostenbestandteile für die Festlegung der Kostensätze
 
 Für die Festlegung der pauschalen Kostensätze durch Rechtsverordnung
@@ -122,7 +119,6 @@ Verordnung PR Nr. 30/53 über die Preise bei öffentlichen Aufträgen vom
 21\. November 1953 (BAnz. Nr. 244 vom 18. Dezember 1953) zu verfahren;
 hierbei bleiben kalkulatorische Kosten, soweit sie in der Anlage nicht
 ausdrücklich aufgeführt sind, außer Ansatz.
-
 
 ## § 3 Ermittlung der Personen-Kilometer für die Berechnung des Ausgleichs
 
@@ -203,14 +199,12 @@ ist nachzuweisen
 
 (6) (weggefallen)
 
-
 ## § 4 Ermittlung der Erträge
 
 Als Erträge im Sinne von § 45a Abs. 1 und 2 des Gesetzes sind die
 Fahrgeldeinnahmen aus dem Verkauf von Zeitfahrausweisen im
 Ausbildungsverkehr und die Einnahmen aus erhöhten
 Beförderungsentgelten anzusetzen.
-
 
 ## § 5 Sonderregelung bei Einnahmeaufteilungsverträgen
 
@@ -232,7 +226,6 @@ Ausbildungsverkehr ergibt.
 andere geeignete Schlüsselung vereinbaren. Die Vereinbarung bedarf der
 Zustimmung der Genehmigungsbehörde.
 
-
 ## § 6 Länderüberschreitender Verkehr
 
 (1) Erstreckt sich die Beförderung von Auszubildenden mit
@@ -247,7 +240,6 @@ geeigneten Schlüsselung aufteilen.
 
 (3) Für die Antragstellung nach § 7 und für die Entscheidung nach § 8
 gilt § 11 Abs. 1, 3 und 4 des Gesetzes entsprechend.
-
 
 ## § 7 Antrag
 
@@ -271,7 +263,6 @@ Ausgleichsberechnungen beizubringen. Bestehen Zweifel an der
 Richtigkeit der Angaben und Ausgleichsberechnungen, kann die
 Genehmigungsbehörde weitere Nachweise verlangen.
 
-
 ## § 8 Entscheidung
 
 Die Entscheidung ist schriftlich zu erlassen und dem Antragsteller
@@ -279,12 +270,10 @@ zuzustellen. Wird dem Antrag nicht oder nicht in vollem Umfang
 entsprochen, ist die Entscheidung schriftlich zu begründen und mit
 einer Rechtsbehelfsbelehrung zu versehen.
 
-
 ## § 9 Änderung der Voraussetzungen
 
 Jede Änderung der Tatsachen, die der Berechnung des Ausgleichs
 zugrunde liegen, ist unverzüglich der Genehmigungsbehörde anzuzeigen.
-
 
 ## § 10 Vorauszahlungen
 
@@ -296,16 +285,13 @@ geleistet.
 
 (2) und (3) (weggefallen)
 
-
 ## § 11 Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 1977 in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesminister für Verkehr
-
 
 ## Anlage zu § 2
 

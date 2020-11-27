@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 6 G v. 11.8.2009 I 2723
 
-
 ## Erster Teil - Allgemeine Vorschriften und Grundsätze über den freihändigen Erwerb
-
-
 
 ### § 1
 
@@ -78,7 +75,6 @@ Bundesminister von der Stellungnahme der Landesregierung abweichen, so
 unterrichtet er die betreffende Landesregierung vor seiner
 Entscheidung.
 
-
 ### § 2
 
 Die für Zwecke des § 1 Abs. 1 benötigten Grundstücke sollen nach
@@ -87,7 +83,6 @@ auch durch Begründung eines Nutzungsverhältnisses erreicht werden, so
 ist einem hierauf gerichteten Verlangen des Eigentümers zu
 entsprechen. Das Entgelt kann abweichend von den bisherigen
 Preisvorschriften bemessen werden.
-
 
 ### § 3
 
@@ -110,10 +105,6 @@ c)  ihm eine sonstige, seine Existenz sichernde Gegenleistung zu gewähren
     ist, wenn er infolge Alters oder sonstiger Umstände zur Sicherung
     seiner Existenz oder zur Erfüllung der ihm wesensgemäß obliegenden
     Aufgaben auf den Ertrag aus dem Grundstück angewiesen ist.
-
-
-
-
 
 ### § 4
 
@@ -146,7 +137,6 @@ der Einrichtungen zu tragen hat. Die zuständige Behörde überwacht,
 sofern nicht gesetzlich anderes bestimmt ist, die Durchführung der
 Vorkehrungen und die Unterhaltung der Einrichtungen.
 
-
 ### § 5
 
 (1) Stehen Verkehrs-, Telekommunikations- oder
@@ -164,7 +154,6 @@ oder kommunalen Satzungen kann sich der Bund an sonstigen
 Aufwendungen, die durch Vorkehrungen im öffentlichen Interesse
 entstehen, beteiligen.
 
-
 ### § 6
 
 (1) Werden infolge von Landbeschaffungen Änderungen oder Neuordnungen
@@ -178,7 +167,6 @@ Vorteile ausgeglichen werden. § 4 Abs. 3 gilt sinngemäß.
 dringenden Wohnraumbedarfs Neubauten erforderlich, so hat der Bund die
 Erstellung des angemessenen Wohnraums zu gewährleisten.
 
-
 ### § 7
 
 Kommt eine Abfindung in Land in Betracht, können die in den Ländern
@@ -186,31 +174,23 @@ tätigen gemeinnützigen Siedlungsunternehmen im Sinne des
 Reichssiedlungsgesetzes mit der Beschaffung des Ersatzlands und der
 Durchführung der Umsiedlung beauftragt werden.
 
-
 ### § 8
 
 Die nach §§ 4 bis 6 zuständige Behörde wird im Benehmen mit dem
 zuständigen Bundesminister von den Landesregierungen bestimmt.
-
 
 ### § 9
 
 Werden Grundstücke beschafft, um dem Eigentümer Ersatzland zu gewähren
 (§ 3), so gilt § 56 entsprechend.
 
-
 ## Zweiter Teil - Enteignung
 
-
-
 ### Erster Abschnitt - Allgemeine Bestimmungen
-
-
 
 #### § 10
 
 Für die in § 1 bezeichneten Zwecke ist die Enteignung zulässig.
-
 
 #### § 11
 
@@ -236,13 +216,7 @@ c)  die Verhandlung mit dem Betroffenen über den freihändigen Erwerb des
     in Anspruch genommenen Grundstücks auch unter Beachtung der
     Vorschriften des § 3 nicht zum Ziel geführt hat.
 
-
-
-
-
 ### Zweiter Abschnitt - Gegenstand der Enteignung
-
-
 
 #### § 12
 
@@ -270,7 +244,6 @@ wenn der erstrebte Zweck nicht schon durch Eingriffe nach Absatz 1
 Buchstabe b oder durch eine Belastung des Grundstücks oder durch
 Begründung eines Nutzungsverhältnisses erreicht werden kann.
 
-
 #### § 13
 
 (1) Wenn ein Recht an einem Grundstück begründet werden soll und die
@@ -284,14 +257,12 @@ Restbesitz nicht mehr entsprechend seiner bisherigen Bestimmung
 verwendet oder genutzt werden kann, so ist der Eigentümer berechtigt,
 die Ausdehnung der Enteignung auch auf den Restbesitz zu verlangen.
 
-
 #### § 14
 
 Zubehör, das nicht dem Grundstückseigentümer gehört, kann enteignet
 werden, wenn ein Grundstück zur Entschädigung in Land oder zur
 Verlegung von Betrieben enteignet wird und der Eigentümer das Zubehör
 entbehren kann. § 12 Abs. 1 Satz 3 gilt entsprechend.
-
 
 #### § 15
 
@@ -303,7 +274,6 @@ zurückgegriffen werden auf den Grundbesitz der Körperschaften des
 sowie der Stiftungen und sonstigen zweckgebundenen Vermögen mit und
 ohne Rechtspersönlichkeit, die der Aufsicht des Bundes oder der Länder
 unterliegen oder ihrer Verwaltung unterstehen.
-
 
 #### § 16
 
@@ -355,17 +325,9 @@ von Personen, Betrieben und öffentlichen Einrichtungen (§ 1 Abs. 1 Nr.
 4.  Grundstücke, auf die der Eigentümer mit seiner Berufs- oder
     Erwerbstätigkeit angewiesen ist.
 
-
-
-
-
 ### Dritter Abschnitt - Enteignungsentschädigung
 
-
-
 #### 1. - Entschädigung für die Enteignung
-
-
 
 ##### § 17
 
@@ -396,7 +358,6 @@ in Absatz 3 bezeichneten Zeitpunkt an mit dem für zuletzt ausgegebene
 Hypothekenpfandbriefe auf dem Kapitalmarkt üblichen Nominalzinsfuß zu
 verzinsen.
 
-
 ##### § 18
 
 (1) Die Entschädigung für den durch die Enteignung eintretenden
@@ -419,7 +380,6 @@ dem Grundstück zu berücksichtigen.
 (4) Die bisherigen Preisvorschriften finden für dieses Gesetz keine
 Anwendung.
 
-
 ##### § 19
 
 Wegen anderer durch die Enteignung eintretender Vermögensnachteile
@@ -439,10 +399,6 @@ Allgemeinheit und der Beteiligten festzusetzen, insbesondere für
     an einem Grundstück bei einem anderen Grundstück entsteht, soweit die
     Wertminderung nicht schon bei der Festsetzung der Entschädigung nach
     Nummer 1 berücksichtigt ist.
-
-
-
-
 
 ##### § 20
 
@@ -475,13 +431,11 @@ den durch die Enteignung eintretenden Rechtsverlust in anderen Fällen
 oder für Wertminderungen des Restbesitzes nach § 19 Nr. 2 festgesetzt
 werden.
 
-
 ##### § 21
 
 Die Entschädigung wird in Geld festgesetzt, soweit nicht nach den §§
 22 und 23 eine Entschädigung in Land oder nach § 25 als
 Naturalwertrente gewährt wird.
-
 
 ##### § 22
 
@@ -509,7 +463,6 @@ vertretbar sind. Die Herrichtung des Ersatzlands ist erforderlich,
 wenn und soweit ohne die Herrichtung der Zweck der Entschädigung in
 Land nicht erreicht werden würde.
 
-
 ##### § 23
 
 (1) Wird die Entschädigung in Land festgesetzt, so sollen die Inhaber
@@ -531,7 +484,6 @@ Nutzung berechtigende Rechte von Kriegsopfern, Vertriebenen,
 Sowjetzonenflüchtlingen, Kriegssachgeschädigten oder Evakuierten,
 sofern die Rechtsinhaber im Besitz des Grundstücks sind.
 
-
 ##### § 24
 
 Hat das Ersatzland einen geringeren Wert als das zu enteignende
@@ -542,7 +494,6 @@ Entschädigungsberechtigte eine dem Wertunterschied entsprechende
 Ausgleichszahlung zu leisten hat. Auch die zusätzlich festzusetzende
 Geldentschädigung und die Ausgleichszahlung sind unter sinngemäßer
 Anwendung der §§ 17 bis 19 zu bemessen.
-
 
 ##### § 25
 
@@ -557,10 +508,7 @@ bis 1951 vom 16. Januar 1952 (Bundesgesetzbl. I S. 22) von dem Betrag
 auszugehen, der sich ergeben würde, wenn die Entschädigung in einer
 Kapitalsumme zu leisten wäre.
 
-
 #### 2. - Entschädigung und Kosten für Folgen der Enteignung
-
-
 
 ##### § 26
 
@@ -568,7 +516,6 @@ Für die Entschädigung und die Kosten für Folgen der Enteignung gelten
 die §§ 4 bis 6 sinngemäß. An Stelle der nach § 8 zu bestimmenden
 Behörde ist die Enteignungsbehörde zuständig, soweit die
 Landesregierung nichts anderes bestimmt.
-
 
 ##### § 27
 
@@ -578,14 +525,9 @@ bestimmter Weise herzurichten. Die Verpflichtung kann durch besonderen
 Beschluß der Enteignungsbehörde oder im Teil A des
 Enteignungsbeschlusses (§ 47 Abs. 3 Nr. 4) ausgesprochen werden.
 
-
 ### Vierter Abschnitt - Enteignungs- und Entschädigungsverfahren
 
-
-
 #### 1. - Enteignungsbehörde und Beteiligte
-
-
 
 ##### § 28
 
@@ -600,7 +542,6 @@ Landesbehörde die örtlich zuständige Enteignungsbehörde.
 (3) Die Bundesregierung kann in dringenden Fällen Einzelweisungen
 erteilen, wenn und soweit diese notwendig sind, um die reibungslose
 Durchführung einzelner wichtiger Landbeschaffungen sicherzustellen.
-
 
 ##### § 29
 
@@ -642,7 +583,6 @@ Verlangen der Enteignungsbehörde eine Erklärung darüber abzugeben, ob
 diese Hypothek, Grundschuld oder Rentenschuld auf einen anderen
 übertragen worden ist.
 
-
 ##### § 29a
 
 (1) Auf Ersuchen der Enteignungsbehörde hat das Betreuungsgericht, für
@@ -669,7 +609,6 @@ dessen Bezirk das von der Enteignung betroffene Grundstück liegt.
 Vorschriften des Bürgerlichen Gesetzbuchs über die Pflegschaft
 entsprechend.
 
-
 ##### § 30
 
 (1) Die Beauftragten der für die Planung, den Landerwerb und die
@@ -693,10 +632,7 @@ der Entscheidung der Enteignungsbehörde an den Kläger zu erheben. § 48
 Abs. 1 Satz 3, § 59 Abs. 3, § 60, § 61 Abs. 3, §§ 62 und 63 Satz 3
 sind sinngemäß anzuwenden.
 
-
 #### 2. - Planprüfung
-
-
 
 ##### § 31
 
@@ -735,7 +671,6 @@ benachrichtigen, die nach diesem Zeitpunkt in den Grundbüchern der
 betroffenen Grundstücke vorgenommen worden sind oder vorgenommen
 werden.
 
-
 ##### § 32
 
 (1) Soweit der Kreis der Beteiligten bekannt ist und offensichtlich
@@ -751,7 +686,6 @@ Angaben beizufügen.
 (2) In der Benachrichtigung ist eine angemessene Frist zu bestimmen,
 innerhalb der die Beteiligten Einwendungen gegen das Vorhaben erheben
 können.
-
 
 ##### § 33
 
@@ -792,7 +726,6 @@ Orten verbreitet sind. Hierbei sind diejenigen, deren Rechte durch das
 Enteignungsverfahren beeinträchtigt werden, aufzufordern, ihre Rechte
 im Termin wahrzunehmen.
 
-
 ##### § 34
 
 (1) Einwendungen, die nicht während der Fristen des § 31 Abs. 4 und
@@ -805,7 +738,6 @@ Verwaltungsgerichten.
 
 (2) Mündliche Einwendungen sind in die Niederschrift aufzunehmen.
 
-
 ##### § 35
 
 (1) Im Planprüfungstermin soll auch die Art der Entschädigung sowie
@@ -815,7 +747,6 @@ welche Rechte erlöschen (§ 20 Abs. 1).
 (2) Dem Eigentümer kann eine angemessene Frist gestellt werden,
 innerhalb der er einen Antrag auf Entschädigung in Land (§ 22) stellen
 kann.
-
 
 ##### § 36
 
@@ -827,7 +758,6 @@ Enteignung seines Rechtes schriftlich mitzuteilen. § 32 Abs. 2 gilt
 sinngemäß.
 
 (2) Die Vorschriften über die Planprüfung gelten sinngemäß.
-
 
 ##### § 37
 
@@ -849,10 +779,7 @@ B je gesondert, so sind die Absätze 1 und 2 entsprechend anzuwenden;
 soweit eine Einigung nicht erzielt ist, wird das Verfahren
 fortgesetzt.
 
-
 #### 3. - Vorzeitige Besitzeinweisung
-
-
 
 ##### § 38
 
@@ -883,7 +810,6 @@ Verkehrs-, Telekommunikations- oder Versorgungseinrichtungen und
 (4) Der Bund hat für die durch die Besitzeinweisung entstehenden
 Vermögensnachteile eine einmalige oder wiederkehrende Entschädigung zu
 leisten (Besitzeinweisungsentschädigung).
-
 
 ##### § 39
 
@@ -932,7 +858,6 @@ Antragsteller und dem Eingewiesenen zuzustellen. Er ist mit einer
 Rechtsmittelbelehrung und einer Belehrung über das Antragsrecht nach §
 41 zu versehen.
 
-
 ##### § 40
 
 (1) Durch die Besitzeinweisung wird zu dem im
@@ -949,7 +874,6 @@ Besitzeinweisung wirksam wird (§ 39 Abs. 1 Nr. 5), fällig. Bei einer
 wiederkehrenden Entschädigung wird die erste Rate zu dem in Satz 1
 bezeichneten Zeitpunkt fällig.
 
-
 ##### § 41
 
 Auf Antrag des Eigentümers oder Besitzers ist der Zustand des
@@ -957,7 +881,6 @@ Grundstücks, soweit er für die Festsetzung der Besitzeinweisungs- oder
 Enteignungsentschädigung von Bedeutung ist, nötigenfalls unter
 Zuziehung von Sachverständigen zu ermitteln. Der Zustand des
 Grundstücks kann auch von Amts wegen ermittelt werden.
-
 
 ##### § 42
 
@@ -979,15 +902,11 @@ entstandenen besonderen Vermögensnachteile Entschädigung zu leisten
 oder auf Verlangen den früheren Zustand wiederherzustellen. § 30 Abs.
 1 Satz 4 und Abs. 2 gilt sinngemäß.
 
-
 #### 4. - Festsetzung der Entschädigung
-
-
 
 ##### § 43
 
 Zur Zahlung der Entschädigung ist der Bund verpflichtet.
-
 
 ##### § 44
 
@@ -1006,7 +925,6 @@ zwei Wochen. § 33 Abs. 4 ist anzuwenden; auf den Inhalt dieser
 Vorschrift ist in der Ladung hinzuweisen.
 
 (4) § 33 Abs. 6 ist sinngemäß anzuwenden.
-
 
 ##### § 45
 
@@ -1033,7 +951,6 @@ Geldentschädigung der Bund und welche Ausgleichszahlung der
 Entschädigungsberechtigte zu leisten bereit ist. Die Niederschrift ist
 von demjenigen zu unterschreiben, der eine solche Erklärung abgibt.
 
-
 ##### § 46
 
 Wird der Plan vor Erlaß des Enteignungsbeschlusses geändert, so ist,
@@ -1042,10 +959,7 @@ weiterer Entschädigungstermin anzuberaumen. Zu dem Termin sind die
 Beteiligten zu laden, die durch die Änderung betroffen werden. § 41
 gilt sinngemäß.
 
-
 #### 5. - Enteignungsbeschluß
-
-
 
 ##### § 47
 
@@ -1127,10 +1041,6 @@ Ausgleichszahlung (Teil B).
 
 2.  die Angabe der Anerkenntnisbeträge (§ 45 Abs. 2 Satz 1).
 
-
-
-
-
 ##### § 48
 
 (1) Der Beschluß ist den Beteiligten zuzustellen. Die Zustellung eines
@@ -1143,13 +1053,11 @@ Rechtsmittelbelehrung zu versehen.
 Zwangsverwaltung eingetragen, so gibt die Enteignungsbehörde dem
 Vollstreckungsgericht von dem Beschluß Kenntnis.
 
-
 ##### § 49
 
 Der Eintritt der Unanfechtbarkeit des Teils A des
 Enteignungsbeschlusses ist den Beteiligten schriftlich bekanntzugeben.
 Die Mitteilung ist zuzustellen.
-
 
 ##### § 50
 
@@ -1158,10 +1066,7 @@ Enteignungsbeschlusses oder vor Übertragung des Besitzes an dem
 Ersatzland die Übergabe an, so werden die Anerkenntnisbeträge (§ 45
 Abs. 2 Satz 1) sofort fällig.
 
-
 #### 6. - Ausführung der Enteignung
-
-
 
 ##### § 51
 
@@ -1212,14 +1117,12 @@ an den Enteigneten mitzuteilen. Im Fall der Enteignung eines
 Grundstücksteils sind dem Ersuchen ein Auszug aus dem
 Veränderungsnachweis und eine Abzeichnung der Flurkarte beizufügen.
 
-
 ##### § 52
 
 In den Fällen des § 51 Abs. 1 gilt der Enteignungsbeschluß als
 Besitzeinweisung in das enteignete Grundstück und in das Ersatzland zu
 dem nach § 51 bestimmten Tag, sofern der Begünstigte nicht schon nach
 § 38 in den Besitz eingewiesen ist.
-
 
 ##### § 53
 
@@ -1232,7 +1135,6 @@ Personen über die Auszahlung nicht nachgewiesen ist.
 
 (2) Andere Vorschriften, nach denen die Hinterlegung geboten oder
 statthaft ist, werden hierdurch nicht berührt.
-
 
 ##### § 54
 
@@ -1288,7 +1190,6 @@ verlangt, so ist die Entscheidung des Vollstreckungsgerichts
 nachzusuchen. Die Beschwerde findet gegen die Entscheidung des
 Vollstreckungsgerichts statt.
 
-
 ##### § 55
 
 Entstehen nach Erlaß des Enteignungsbeschlusses Vermögensnachteile der
@@ -1299,7 +1200,6 @@ Entschädigung hierfür nachträglich festzusetzen, sofern eine Einigung
 nicht zustande kommt. Der Antrag kann nur binnen zehn Jahren nach der
 Unanfechtbarkeit des Enteignungsbeschlusses gestellt werden. Für den
 Festsetzungsbescheid gilt § 48 Abs. 1 sinngemäß.
-
 
 ##### § 56
 
@@ -1321,7 +1221,6 @@ erst zum nächsten zulässigen Rückzahlungstermin wirksam.
 (3) Die Aufgaben der Siedlungsbehörden nach den §§ 1, 2 und 4 des
 Gesetzes zur Ergänzung des Reichssiedlungsgesetzes nimmt die
 Enteignungsbehörde wahr.
-
 
 ##### § 57
 
@@ -1359,16 +1258,12 @@ nur, wenn der frühere Eigentümer oder sein Rechtsnachfolger das
 Grundstück zurückerhält. Die Vorschriften über die Rückenteignung
 gelten sinngemäß.
 
-
 ## Dritter Teil - Rechtsbehelfe
-
-
 
 ### § 58
 
 Für die Anfechtung der nach diesem Gesetz erlassenen Verwaltungsakte
 gilt die Verwaltungsgerichtsordnung.
-
 
 ### § 59
 
@@ -1390,13 +1285,11 @@ des Streitgegenstands ausschließlich zuständig. Örtlich ist das
 Landgericht ausschließlich zuständig, in dessen Bezirk das in Anspruch
 genommene Grundstück liegt.
 
-
 ### § 60
 
 Der Rechtsstreit ist zwischen dem Entschädigungsberechtigten und dem
 Bund zu führen. Dies gilt sinngemäß, wenn der Rechtsstreit eine
 Ausgleichszahlung betrifft.
-
 
 ### § 61
 
@@ -1413,7 +1306,6 @@ des Enteignungsbeschlusses den Beteiligten zugestellt ist.
 
 (3) Die Frist ist eine Notfrist im Sinne der Zivilprozeßordnung.
 
-
 ### § 62
 
 In der Klage sollen die Bezeichnung des Enteignungsbeschlusses (Teil
@@ -1423,7 +1315,6 @@ der Frist des § 61 Abs. 1 ergeben. Mit der Klageschrift soll eine
 Ausfertigung oder eine beglaubigte Abschrift des
 Enteignungsbeschlusses (Teil B) oder des Besitzeinweisungsbeschlusses
 vorgelegt werden.
-
 
 ### § 63
 
@@ -1435,10 +1326,7 @@ kann auch erhoben werden, wenn die Enteignungsbehörde über einen
 Festsetzungsantrag innerhalb von sechs Monaten eine Entscheidung nicht
 getroffen hat. § 62 gilt sinngemäß.
 
-
 ## Vierter Teil - Übergangs- und Schlußvorschriften
-
-
 
 ### § 64
 
@@ -1494,7 +1382,6 @@ Grundstücks in dem Zeitpunkt der Inanspruchnahme maßgebend. Bereits
 gezahlte Entschädigungen für Veränderungen am Zustand des Grundstücks
 nach der Inanspruchnahme sind zu berücksichtigen.
 
-
 ### § 65
 
 (1) Hat der Bund vor Inkrafttreten dieses Gesetzes ein Grundstück der
@@ -1510,7 +1397,6 @@ Eigentümer bereits auf anderem Wege entschädigt worden ist.
 (2) Kommt eine Einigung über den nach Absatz 1 zu zahlenden Betrag
 nicht zustande, so wird dieser von der von der Landesregierung
 bestimmten Behörde festgesetzt. § 63 gilt entsprechend.
-
 
 ### § 66
 
@@ -1539,13 +1425,11 @@ des Eigentümers zum Ausgleich der Werterhöhung nach dem in § 6 Abs. 2
 des Gesetzes über die Abgeltung von Besatzungsschäden vom 1. Dezember
 1955 (Bundesgesetzbl. I S. 734) vorbehaltenen Gesetz.
 
-
 ### § 67
 
 Die den Kirchen oder anderen Religionsgesellschaften und religiösen
 Vereinen auf Grund des Artikels 140 des Grundgesetzes und auf Grund
 von Verträgen zustehenden Rechte bleiben unberührt.
-
 
 ### § 68
 
@@ -1554,7 +1438,6 @@ Kreditinstituten die Anlage ihres Vermögens in Grundpfandrechten oder
 Reallasten außerhalb eines bestimmten Bezirks untersagen, sind nicht
 anzuwenden, wenn die Grundpfandrechte oder Reallasten nach § 23 an
 einem außerhalb des Bezirks liegenden Grundstück neu begründet werden.
-
 
 ### § 69
 
@@ -1591,7 +1474,6 @@ Umsiedlerstellen nicht anzuwenden. Ob eine Stelle als Umsiedlerstelle
 anzusehen ist, entscheidet in Zweifelsfällen die nach § 8 zuständige
 Behörde.
 
-
 ### § 70
 
 Verlangt der Eigentümer nach § 10 Abs. 2 des Bundesleistungsgesetzes
@@ -1603,7 +1485,6 @@ gelten die Vorschriften dieses Gesetzes über die Enteignung und
 Entschädigung mit der Maßgabe entsprechend, daß an Stelle des Antrags
 nach § 11 dieses Gesetzes das Verlangen des Eigentümers oder des in §
 15 Abs. 2 des Schutzbereichgesetzes bezeichneten Berechtigten tritt.
-
 
 ### § 71
 
@@ -1623,7 +1504,6 @@ zuständigen Behörde ohne Nachprüfung anzuerkennen, wenn die
 Enteignungsbehörde bestätigt, daß ein Geschäft oder eine Verhandlung
 der Durchführung der Landbeschaffung dient.
 
-
 ### § 72
 
 In den Fällen, in denen der Landverlust auf einen großen Kreis von
@@ -1639,22 +1519,18 @@ zuständige obere Behörde im Sinne des § 88 Nr. 3 des
 Flurbereinigungsgesetzes. Die nach § 8 zuständige Behörde trifft die
 Entscheidung nach § 89 Abs. 1 des Flurbereinigungsgesetzes.
 
-
 ### § 73
 
 Zustellungen durch die Verwaltungsbehörden werden nach den
 Vorschriften des Verwaltungszustellungsgesetzes bewirkt.
 
-
 ### § 74
 
 -
 
-
 ### § 75
 
 -
-
 
 ### § 76
 

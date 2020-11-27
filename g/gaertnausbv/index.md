@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1996, 376
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
@@ -27,7 +25,6 @@ Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975
 (BGBl. I S. 3667) verordnet das Bundesministerium für Ernährung,
 Landwirtschaft und Forsten im Einvernehmen mit dem Bundesministerium
 für Bildung, Wissenschaft, Forschung und Technologie:
-
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
@@ -62,7 +59,6 @@ gewählt werden.
 (3) Die Bezeichnung der Fachrichtung tritt ergänzend zur Bezeichnung
 des Ausbildungsberufes hinzu.
 
-
 ## § 2 Ausbildungsdauer
 
 (1) Die Ausbildung dauert drei Jahre.
@@ -72,7 +68,6 @@ Vorschriften eingeführten schulischen Berufsgrundbildungsjahres nach
 einer Verordnung gemäß § 29 Abs. 1 des Berufsbildungsgesetzes als
 erstes Jahr der Berufsausbildung anzurechnen ist, beginnen die
 betriebliche Ausbildung im zweiten Ausbildungsjahr.
-
 
 ## § 3 Berufsfeldbreite Grundbildung und Zielsetzung der Berufsausbildung
 
@@ -88,7 +83,6 @@ qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des
 Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges
 Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung
 ist auch in den Prüfungen nach den §§ 8 bis 15 nachzuweisen.
-
 
 ## § 4 Ausbildungsberufsbild
 
@@ -288,13 +282,6 @@ mindestens die folgenden Fertigkeiten und Kenntnisse:
 
     e)  Verkaufen und Beraten.
 
-
-
-
-
-
-
-
 ## § 5 Ausbildungsrahmenplan
 
 Die Fertigkeiten und Kenntnisse nach § 4 sollen nach den in den
@@ -307,12 +294,10 @@ sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist
 insbesondere zulässig, soweit betriebspraktische Besonderheiten die
 Abweichung erfordern.
 
-
 ## § 6 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 7 Berichtsheft
 
@@ -320,7 +305,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 8 Zwischenprüfung
 
@@ -403,10 +387,6 @@ insbesondere aus folgenden Gebieten zu bearbeiten:
 
 
 12. anwendungsbezogene Berechnungen.
-
-
-
-
 
 ## § 9 Abschlußprüfung in der Fachrichtung Baumschule
 
@@ -663,7 +643,6 @@ der Prüfungsaufgaben nach Absatz 2 oder eines der Prüfungsfächer nach
 Absatz 3 mit ungenügend oder zwei der vorgenannten
 Prüfungsbestandteile mit mangelhaft bewertet worden sind.
 
-
 ## § 10 Abschlußprüfung in der Fachrichtung Friedhofsgärtnerei
 
 (1) Die Abschlußprüfung in der Fachrichtung Friedhofsgärtnerei
@@ -902,7 +881,6 @@ Leistungen erbracht worden sind. Sie ist nicht bestanden, wenn eine
 der Prüfungsaufgaben nach Absatz 2 oder eines der Prüfungsfächer nach
 Absatz 3 mit ungenügend oder zwei der vorgenannten
 Prüfungsbestandteile mit mangelhaft bewertet worden sind.
-
 
 ## § 11 Abschlußprüfung in der Fachrichtung Garten- und Landschaftsbau
 
@@ -1152,7 +1130,6 @@ Leistungen erbracht worden sind. Sie ist nicht bestanden, wenn eine
 der Prüfungsaufgaben nach Absatz 2 oder eines der Prüfungsfächer nach
 Absatz 3 mit ungenügend oder zwei der vorgenannten
 Prüfungsbestandteile mit mangelhaft bewertet worden sind.
-
 
 ## § 12 Abschlußprüfung in der Fachrichtung Gemüsebau
 
@@ -1414,7 +1391,6 @@ Leistungen erbracht worden sind. Sie ist nicht bestanden, wenn eine
 der Prüfungsaufgaben nach Absatz 2 oder eines der Prüfungsfächer nach
 Absatz 3 mit ungenügend oder zwei der vorgenannten
 Prüfungsbestandteile mit mangelhaft bewertet worden sind.
-
 
 ## § 13 Abschlußprüfung in der Fachrichtung Obstbau
 
@@ -1688,7 +1664,6 @@ der Prüfungsaufgaben nach Absatz 2 oder eines der Prüfungsfächer nach
 Absatz 3 mit ungenügend oder zwei der vorgenannten
 Prüfungsbestandteile mit mangelhaft bewertet worden sind.
 
-
 ## § 14 Abschlußprüfung in der Fachrichtung Staudengärtnerei
 
 (1) Die Abschlußprüfung in der Fachrichtung Staudengärtnerei erstreckt
@@ -1939,7 +1914,6 @@ Leistungen erbracht worden sind. Sie ist nicht bestanden, wenn eine
 der Prüfungsaufgaben nach Absatz 2 oder eines der Prüfungsfächer nach
 Absatz 3 mit ungenügend oder zwei der vorgenannten
 Prüfungsbestandteile mit mangelhaft bewertet worden sind.
-
 
 ## § 15 Abschlußprüfung in der Fachrichtung Zierpflanzenbau
 
@@ -2198,7 +2172,6 @@ der Prüfungsaufgaben nach Absatz 2 oder eines der Prüfungsfächer nach
 Absatz 3 mit ungenügend oder zwei der vorgenannten
 Prüfungsbestandteile mit mangelhaft bewertet worden sind.
 
-
 ## § 16 Übergangsregelungen
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
@@ -2207,16 +2180,13 @@ anzuwenden, es sei denn, die Vertragsparteien vereinbaren für
 Berufsausbildungsverhältnisse im ersten und im zweiten Ausbildungsjahr
 die Anwendung der Vorschriften dieser Verordnung.
 
-
 ## § 17 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 1996 in Kraft.
 
-
 ## Anlage 1a (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur Gärtnerin für die Fachrichtung Baumschule - sachliche Gliederung -
 
 (Fundstelle: BGBl. I 1996, S. 387 - 392)
-
 
 ## Abschnitt I: Berufliche Grundbildung im ersten Ausbildungsjahr
 
@@ -2641,9 +2611,6 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
     *   Schutzmaßnahmen und Sicherungen an elektrischen Anlagen und Maschinen
         erklären
 
-
-
-
 ## Abschnitt II: Gemeinsame berufliche Fachbildung
 
 *    *   Lfd. Nr.
@@ -2970,9 +2937,6 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
     *   Materialschutz durchführen
 
-
-
-
 ## Abschnitt III: Ausbildung in der Fachrichtung Baumschule
 
 *    *   Lfd. Nr.
@@ -3135,10 +3099,6 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 *    *   c)
 
     *   Kunden über Ansprüche, Verwendung und Pflege von Gehölzen beraten
-
-
-
-
 
 ## Anlage 1b (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur Gärtnerin für die Fachrichtung Baumschule - zeitliche Gliederung -
 
@@ -3908,14 +3868,9 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
     fortzuführen.
 
-
-
-
-
 ## Anlage 2a (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur Gärtnerin für die Fachrichtung Friedhofsgärtnerei - sachliche Gliederung -
 
 (Fundstelle: BGBl. I 1996, S. 396 - 401)
-
 
 ## Abschnitt I: Berufliche Grundbildung im ersten Ausbildungsjahr
 
@@ -4340,9 +4295,6 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
     *   Schutzmaßnahmen und Sicherungen an elektrischen Anlagen und Maschinen
         erklären
 
-
-
-
 ## Abschnitt II: Gemeinsame berufliche Fachbildung
 
 *    *   Lfd. Nr.
@@ -4669,9 +4621,6 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
     *   Materialschutz durchführen
 
-
-
-
 ## Abschnitt III: Ausbildung in der Fachrichtung Friedhofsgärtnerei
 
 *    *   Lfd. Nr.
@@ -4804,10 +4753,6 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
     *   Pflanzen und Bindereierzeugnisse verkaufsfördernd präsentieren,
         verkaufen und ausliefern
-
-
-
-
 
 ## Anlage 2b (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur Gärtnerin für die Fachrichtung Friedhofsgärtnerei - zeitliche Gliederung -
 
@@ -5586,10 +5531,6 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
     fortzuführen.
 
-
-
-
-
 ## Anlage 3a (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur Gärtnerin für die Fachrichtung Garten- und Landschaftsbau - sachliche Gliederung -
 
 (Fundstelle: BGBl. I 1996, S. 405 - 410)
@@ -6018,9 +5959,6 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
     *   Schutzmaßnahmen und Sicherungen an elektrischen Anlagen und Maschinen
         erklären
 
-
-
-
 ## Abschnitt II: Gemeinsame berufliche Fachbildung
 
 *    *   Lfd. Nr.
@@ -6347,9 +6285,6 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
     *   Materialschutz durchführen
 
-
-
-
 ## Abschnitt III: Ausbildung in der Fachrichtung Garten- und
 Landschaftsbau
 
@@ -6547,10 +6482,6 @@ Landschaftsbau
 *    *   i)
 
     *   Landschaftspflegemaßnahmen durchführen
-
-
-
-
 
 ## Anlage 3b (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur Gärtnerin für die Fachrichtung Garten- und Landschaftsbau - zeitliche Gliederung -
 
@@ -7277,14 +7208,9 @@ Landschaftsbau
 
     fortzuführen.
 
-
-
-
-
 ## Anlage 4a (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur Gärtnerin für die Fachrichtung Gemüsebau - sachliche Gliederung -
 
 (Fundstelle: BGBl. I 1996, S. 414 - 419)
-
 
 ## Abschnitt I: Berufliche Grundbildung im ersten Ausbildungsjahr
 
@@ -7709,9 +7635,6 @@ Landschaftsbau
     *   Schutzmaßnahmen und Sicherungen an elektrischen Anlagen und Maschinen
         erklären
 
-
-
-
 ## Abschnitt II: Gemeinsame berufliche Fachbildung
 
 *    *   Lfd. Nr.
@@ -8038,9 +7961,6 @@ Landschaftsbau
 
     *   Materialschutz durchführen
 
-
-
-
 ## Abschnitt III: Ausbildung in der Fachrichtung Gemüsebau
 
 *    *   Lfd. Nr.
@@ -8171,10 +8091,6 @@ Landschaftsbau
 *    *   c)
 
     *   Kunden über Herkunft, Qualität und Verwendung von Gemüse informieren
-
-
-
-
 
 ## Anlage 4b (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur Gärtnerin für die Fachrichtung Gemüsebau - zeitliche Gliederung -
 
@@ -8938,14 +8854,9 @@ Landschaftsbau
 
     fortzuführen.
 
-
-
-
-
 ## Anlage 5a (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur Gärtnerin für die Fachrichtung Obstbau - sachliche Gliederung -
 
 (Fundstelle: BGBl. I 1996, S. 423 - 428)
-
 
 ## Abschnitt I: Berufliche Grundbildung im ersten Ausbildungsjahr
 
@@ -9370,9 +9281,6 @@ Landschaftsbau
     *   Schutzmaßnahmen und Sicherungen an elektrischen Anlagen und Maschinen
         erklären
 
-
-
-
 ## Abschnitt II: Gemeinsame berufliche Fachbildung
 
 *    *   Lfd. Nr.
@@ -9699,9 +9607,6 @@ Landschaftsbau
 
     *   Materialschutz durchführen
 
-
-
-
 ## Abschnitt III: Ausbildung in der Fachrichtung Obstbau
 
 *    *   Lfd. Nr.
@@ -9819,10 +9724,6 @@ Landschaftsbau
 *    *   c)
 
     *   Kunden über Herkunft, Qualität und Verwendung von Obst informieren
-
-
-
-
 
 ## Anlage 5b (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur Gärtnerin für die Fachrichtung Obstbau - zeitliche Gliederung -
 
@@ -10583,14 +10484,9 @@ Landschaftsbau
 
     fortzuführen.
 
-
-
-
-
 ## Anlage 6a (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur Gärtnerin für die Fachrichtung Staudengärtnerei - sachliche Gliederung -
 
 (Fundstelle: BGBl. I 1996, S. 432 - 437)
-
 
 ## Abschnitt I: Berufliche Grundbildung im ersten Ausbildungsjahr
 
@@ -11015,9 +10911,6 @@ Landschaftsbau
     *   Schutzmaßnahmen und Sicherungen an elektrischen Anlagen und Maschinen
         erklären
 
-
-
-
 ## Abschnitt II: Gemeinsame berufliche Fachbildung
 
 *    *   Lfd. Nr.
@@ -11344,9 +11237,6 @@ Landschaftsbau
 
     *   Materialschutz durchführen
 
-
-
-
 ## Abschnitt III: Ausbildung in der Fachrichtung Staudengärtnerei
 
 *    *   Lfd. Nr.
@@ -11467,10 +11357,6 @@ Landschaftsbau
 *    *   c)
 
     *   Staudenpflanzungen anlegen und pflegen
-
-
-
-
 
 ## Anlage 6b (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur Gärtnerin für die Fachrichtung Staudengärtnerei - zeitliche Gliederung -
 
@@ -12234,14 +12120,9 @@ Landschaftsbau
 
     fortzuführen.
 
-
-
-
-
 ## Anlage 7a (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur Gärtnerin für die Fachrichtung Zierpflanzenbau - sachliche Gliederung -
 
 (Fundstelle: BGBl. I 1996, S. 441 - 446)
-
 
 ## Abschnitt I: Berufliche Grundbildung im ersten Ausbildungsjahr
 
@@ -12666,9 +12547,6 @@ Landschaftsbau
     *   Schutzmaßnahmen und Sicherungen an elektrischen Anlagen und Maschinen
         erklären
 
-
-
-
 ## Abschnitt II: Gemeinsame berufliche Fachbildung
 
 *    *   Lfd. Nr.
@@ -12995,9 +12873,6 @@ Landschaftsbau
 
     *   Materialschutz durchführen
 
-
-
-
 ## Abschnitt III: Ausbildung in der Fachrichtung Zierpflanzenbau
 
 *    *   Lfd. Nr.
@@ -13145,10 +13020,6 @@ Landschaftsbau
 *    *   e)
 
     *   Gebinde anfertigen
-
-
-
-
 
 ## Anlage 7b (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur Gärtnerin für die Fachrichtung Zierpflanzenbau - zeitliche Gliederung -
 

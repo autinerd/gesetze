@@ -27,9 +27,7 @@ Fundstelle
     nationale Emissionshöchstmengen für bestimmte Luftschadstoffe (ABl. L
     309 vom 27.11.2001, S. 22).
 
-
 ## Teil 1 - Allgemeine Vorschriften
-
 
 ### § 1 Begriffsbestimmungen
 
@@ -289,12 +287,7 @@ In dieser Verordnung gelten folgende Begriffsbestimmungen:
     Möglichkeit innerhalb eines bestimmten Zeitraums eingehalten werden
     muss.
 
-
-
-
-
 ## Teil 2 - Immissionswerte
-
 
 ### § 2 Immissionsgrenzwerte, Alarmschwelle und kritischer Wert für Schwefeldioxid
 
@@ -334,10 +327,6 @@ Schwefeldioxid für das Kalenderjahr sowie für das Winterhalbjahr (1.
 Oktober des laufenden Jahres bis 31. März des Folgejahres)
 
 *    *   20 Mikrogramm pro Kubikmeter.
-
-
-
-
 
 ### § 3 Immissionsgrenzwerte und Alarmschwelle für Stickstoffdioxid (NO2); kritischer Wert für Stickstoffoxide (NOx)
 
@@ -379,10 +368,6 @@ x             )
 
 *    *   30 Mikrogramm pro Kubikmeter.
 
-
-
-
-
 ### § 4 Immissionsgrenzwerte für Partikel (PM10)
 
 (1) Zum Schutz der menschlichen Gesundheit beträgt der über den Tag
@@ -400,10 +385,6 @@ Kalenderjahr gemittelte Immissionsgrenzwert für Partikel PM
 10
 
 *    *   40 Mikrogramm pro Kubikmeter.
-
-
-
-
 
 ### § 5 Zielwert, Immissionsgrenzwert, Verpflichtung in Bezug auf die Expositionskonzentration sowie nationales Ziel für die Reduzierung der Exposition für Partikel (PM2,5)
 
@@ -450,17 +431,12 @@ Wert des Indikators für die durchschnittliche PM
 Die Beurteilung wird gemäß Anlage 12 Abschnitt B vom Umweltbundesamt
 vorgenommen.
 
-
 ### § 6 Immissionsgrenzwert für Blei
 
 Zum Schutz der menschlichen Gesundheit beträgt der über ein
 Kalenderjahr gemittelte Immissionsgrenzwert für Blei
 
 *    *   0,5 Mikrogramm pro Kubikmeter.
-
-
-
-
 
 ### § 7 Immissionsgrenzwert für Benzol
 
@@ -469,17 +445,12 @@ Kalenderjahr gemittelte Immissionsgrenzwert für Benzol
 
 *    *   5 Mikrogramm pro Kubikmeter.
 
-
-
-
-
 ### § 8 Immissionsgrenzwert für Kohlenmonoxid
 
 Zum Schutz der menschlichen Gesundheit beträgt der als höchster
 Achtstundenmittelwert pro Tag zu ermittelnde Immissionsgrenzwert für
 Kohlenmonoxid
 10 Milligramm pro Kubikmeter.
-
 
 ### § 9 Zielwerte, langfristige Ziele, Informationsschwelle und Alarmschwelle für bodennahes Ozon
 
@@ -561,7 +532,6 @@ als Einstundenmittelwert.
 (7) Die Kriterien zur Prüfung der Werte sind in Anlage 7 Abschnitt A
 festgelegt.
 
-
 ### § 10 Zielwerte für Arsen, Kadmium, Nickel und Benzo[a]pyren
 
 Um schädliche Auswirkungen von Arsen, Kadmium, Nickel und Benzo[
@@ -599,18 +569,12 @@ Gesamtgehalt in der PM
 
     *   1
 
-
-
-
-
 ## Teil 3 - Beurteilung der Luftqualität
-
 
 ### § 11 Festlegung von Gebieten und Ballungsräumen
 
 Die zuständigen Behörden legen für die gesamte Fläche ihres Landes
 Gebiete und Ballungsräume fest.
-
 
 ### § 12 Einstufung der Gebiete und Ballungsräume für Schwefeldioxid, Stickstoffdioxid und Stickstoffoxide, Partikel (PM10 und PM2,5), Blei, Benzol und Kohlenmonoxid
 
@@ -631,7 +595,6 @@ Stickstoffoxiden, Partikeln (PM
 2,5             ), Blei, Benzol oder Kohlenmonoxid in der Luft von
 Bedeutung sind, sind die Einstufungen je nach Signifikanz in kürzeren
 Intervallen zu überprüfen.
-
 
 ### § 13 Vorschriften zur Ermittlung von Schwefeldioxid, Stickstoffdioxid und Stickstoffoxiden, Partikeln (PM10 und PM2,5), Blei, Benzol und Kohlenmonoxid
 
@@ -674,10 +637,6 @@ sind anhand der folgenden Kriterien durchzuführen:
 2.  Anlage 1 Abschnitt A und C gilt für die Datenqualitätsziele für
     Massenkonzentrationsmessungen von Partikeln; Anlage 4 ist
     uneingeschränkt anzuwenden.
-
-
-
-
 
 ### § 14 Probenahmestellen zur Messung von Schwefeldioxid, Stickstoffdioxid und Stickstoffoxiden, Partikeln (PM10 und PM2,5), Blei, Benzol und Kohlenmonoxid
 
@@ -725,7 +684,6 @@ Absatz 5.
 Probenahmestellen aus, die für den Schutz der Vegetation repräsentativ
 sind. Die Absätze 2 und 3 gelten sinngemäß.
 
-
 ### § 15 Indikator für die durchschnittliche PM2,5-Exposition
 
 Der Indikator für die durchschnittliche PM
@@ -735,7 +693,6 @@ Länder ermitteln die dafür notwendigen PM
 Mindestzahl der Probenahmestellen darf nicht unter der gemäß Anlage 5
 Abschnitt B vorgesehenen Anzahl liegen.
 
-
 ### § 16 Referenzmessmethoden für die Beurteilung von Schwefeldioxid, Stickstoffdioxid und Stickstoffoxiden, Partikeln (PM10 und PM2,5), Blei, Benzol und Kohlenmonoxid
 
 (1) Es gelten die in Anlage 6 Abschnitt A und C festgelegten
@@ -743,7 +700,6 @@ Referenzmessmethoden und Kriterien.
 
 (2) Andere Messmethoden können angewandt werden, sofern die in Anlage
 6 Abschnitt B festgelegten Bedingungen erfüllt sind.
-
 
 ### § 17 Vorschriften zur Ermittlung von Ozonwerten
 
@@ -760,7 +716,6 @@ werden und die Rückschlüsse auf den Gesamtzeitraum zulassen, mit
 Informationen aus Emissionskatastern und Modellen verbunden werden, um
 zu bestimmen, ob die Ozonwerte während dieser fünf Jahre oberhalb der
 in Absatz 1 genannten langfristigen Ziele lagen.
-
 
 ### § 18 Probenahmestellen zur Messung von Ozonwerten
 
@@ -831,7 +786,6 @@ Ozonvorläuferstoffe. Sofern die Länder Ozonvorläuferstoffe messen,
 stimmen sie sich mit dem Bundesministerium für Umwelt, Naturschutz und
 Reaktorsicherheit oder der von ihm beauftragten Stelle ab.
 
-
 ### § 19 Referenzmessmethoden für die Beurteilung von Ozonwerten
 
 (1) Es gilt die in Anlage 6 Abschnitt A Nummer 8 festgelegte
@@ -839,7 +793,6 @@ Referenzmethode für die Messung von Ozon.
 
 (2) Andere Messmethoden können angewandt werden, sofern die in Anlage
 6 Abschnitt B festgelegten Bedingungen erfüllt sind.
-
 
 ### § 20 Vorschriften zur Ermittlung von Arsen, Kadmium, Nickel und Benzo[a]pyren und Quecksilber
 
@@ -986,9 +939,7 @@ Kohlenwasserstoffen. Anlage 18 Abschnitt E betrifft Referenzmethoden
 zur Erstellung von Luftqualitätsmodellen, soweit solche Methoden
 verfügbar sind.
 
-
 ## Teil 4 - Kontrolle der Luftqualität
-
 
 ### § 21 Regelungen für die Einhaltung der Immissionsgrenzwerte für Schwefeldioxid, Stickstoffdioxid, Partikel (PM10 und PM2,5), Blei, Benzol und Kohlenmonoxid
 
@@ -1025,7 +976,6 @@ werden, dass der Wert für den jeweiligen Schadstoff den
 Immissionsgrenzwert um nicht mehr als die in Anlage 11 festgelegte
 Toleranzmarge überschreitet.
 
-
 ### § 22 Anforderungen an Gebiete und Ballungsräume, in denen die Zielwerte für Arsen, Kadmium, Nickel und Benzo[a]pyren überschritten sind
 
 Werden in Teilgebieten nach § 20 Absatz 1 Nummer 2 die Zielwerte für
@@ -1039,7 +989,6 @@ Rates vom 15. Januar 2008 über die integrierte Vermeidung und
 Verminderung der Umweltverschmutzung (ABl. L 24 vom 29.1.2008, S. 8)
 fallen, bedeutet dies, dass die besten verfügbaren Techniken im Sinne
 des Artikels 2 Nummer 12 jener Richtlinie angewandt wurden.
-
 
 ### § 23 Einhaltung von langfristigem Ziel, nationalem Ziel und Zielwerten
 
@@ -1062,7 +1011,6 @@ ist sicherzustellen, soweit dies mit verhältnismäßigen Maßnahmen,
 insbesondere solchen, die keine unverhältnismäßigen Kosten
 verursachen, möglich ist.
 
-
 ### § 24 Überschreitung von Immissionsgrenzwerten durch Emissionsbeiträge aus natürlichen Quellen
 
 (1) Die zuständigen Behörden übermitteln dem Bundesministerium für
@@ -1078,7 +1026,6 @@ natürliche Quellen zurückzuführen sind.
 (2) Emissionsbeiträge aus natürlichen Quellen bleiben bei der
 Ermittlung von Überschreitungen von Immissionsgrenzwerten außer
 Ansatz.
-
 
 ### § 25 Überschreitung von Immissionsgrenzwerten für Partikel PM10 auf Grund der Ausbringung von Streusand oder -salz auf Straßen im Winterdienst
 
@@ -1108,7 +1055,6 @@ auf Straßen im Winterdienst zurückzuführen sind.
 Ermittlung von Überschreitungen von Immissionsgrenzwerten außer
 Ansatz.
 
-
 ### § 26 Erhalten der bestmöglichen Luftqualität
 
 In Gebieten und Ballungsräumen, in denen
@@ -1132,9 +1078,7 @@ Luftqualität unterhalb dieser Werte, die mit einer nachhaltigen
 Entwicklung in Einklang zu bringen ist, aufrechtzuerhalten und
 berücksichtigen dies bei allen relevanten Planungen.
 
-
 ## Teil 5 - Pläne
-
 
 ### § 27 Luftreinhaltepläne
 
@@ -1171,7 +1115,6 @@ oder durchgeführt werden, so arbeiten die zuständigen Behörden
 gegebenenfalls für alle betreffenden Schadstoffe einen integrierten
 Luftreinhalteplan aus und führen ihn durch.
 
-
 ### § 28 Pläne für kurzfristige Maßnahmen
 
 (1) Besteht in einem bestimmten Gebiet oder Ballungsraum die Gefahr,
@@ -1197,7 +1140,6 @@ Landesverteidigung nach § 60 des Bundes-Immissionsschutzgesetzes
 bleiben unberührt. Außerdem können in diesen Plänen gezielte Maßnahmen
 zum Schutz empfindlicher Bevölkerungsgruppen, einschließlich Maßnahmen
 zum Schutz von Kindern, vorgesehen werden.
-
 
 ### § 29 Maßnahmen bei grenzüberschreitender Luftverschmutzung
 
@@ -1225,9 +1167,7 @@ sind die zuständigen Behörden der betroffenen benachbarten
 Mitgliedstaaten der Europäischen Union so schnell wie möglich zu
 informieren.
 
-
 ## Teil 6 - Unterrichtung der Öffentlichkeit und Berichtspflichten
-
 
 ### § 30 Unterrichtung der Öffentlichkeit
 
@@ -1322,7 +1262,6 @@ Beispiel über das Internet über ihre Zuständigkeiten bei der
 Beurteilung der Luftqualität, der Zulassung von Messsystemen und bei
 der Qualitätssicherung.
 
-
 ### § 31 Übermittlung von Informationen und Berichten für Schwefeldioxid, Stickstoffoxide, Partikel PM10, Partikel PM2,5, Blei, Benzol, Kohlenmonoxid, Staubinhaltsstoffe und Ozon
 
 Die zuständigen Behörden übermitteln dem Bundesministerium für Umwelt,
@@ -1330,7 +1269,6 @@ Naturschutz und Reaktorsicherheit oder der von ihm beauftragten Stelle
 über die nach Landesrecht zuständige Behörde zur Weiterleitung an die
 Kommission die gemäß der Richtlinie 2008/50/EG erforderlichen
 Informationen.
-
 
 ### § 32 Übermittlung von Informationen und Berichten für Arsen, Kadmium, Nickel und Benzo[a]pyren
 
@@ -1373,9 +1311,7 @@ Diese Informationen werden für jedes Kalenderjahr bis spätestens zum
 zuständigen Behörden zur Weiterleitung an die Kommission alle gemäß §
 22 ergriffenen Maßnahmen.
 
-
 ## Teil 7 - Emissionshöchstmengen, Programme der Bundesregierung
-
 
 ### § 33 Emissionshöchstmengen, Emissionsinventare und -prognosen
 
@@ -1416,7 +1352,6 @@ werden.
 (3) Das Umweltbundesamt erstellt für die in Absatz 1 genannten Stoffe
 jährlich Emissionsinventare und Emissionsprognosen für die Jahre 2015
 und 2020.
-
 
 ### § 34 Programm der Bundesregierung zur Verminderung der Ozonwerte und zur Einhaltung der Emissionshöchstmengen
 
@@ -1466,7 +1401,6 @@ machen.
 (5) Die Maßnahmen des Programms müssen unter Berücksichtigung von
 Aufwand und Nutzen verhältnismäßig sein.
 
-
 ### § 35 Programme der Bundesregierung zur Einhaltung der Verpflichtung in Bezug auf die PM2,5- Expositionskonzentration sowie des nationalen Ziels für die Reduzierung der PM2,5-Exposition
 
 (1) Besteht die Gefahr, dass die Verpflichtung nach Anlage 12
@@ -1485,9 +1419,7 @@ nach Anhörung der Länder und der beteiligten Kreise gemäß § 51 des
 Bundes-Immissionsschutzgesetzes ein Programm, um das nationale Ziel zu
 erreichen.
 
-
 ## Teil 8 - Gemeinsame Vorschriften
-
 
 ### § 36 Zugänglichkeit der Normen
 
@@ -1495,7 +1427,6 @@ DIN-, DIN EN- sowie DIN ISO-Normen, auf die in Anlage 1, 6, 17 und 18
 verwiesen wird, sind bei der Beuth Verlag GmbH Berlin erschienen. Die
 DIN-, DIN EN- sowie DIN ISO-Normen sind bei dem Deutschen Patent- und
 Markenamt in München archivmäßig gesichert niedergelegt.
-
 
 ### Anlage 1 (zu den §§ 13, 14 und 18) Datenqualitätsziele
 
@@ -2110,7 +2041,6 @@ Markenamt in München archivmäßig gesichert niedergelegt.
     Exposition gegenüber PM                            2,5
     eingehalten wird.
 
-
 ### Anlage 3 (zu den §§ 2, 3, 13, 14 und 21) Beurteilung der Luftqualität und Lage der Probenahmestellen für Messungen von Schwefeldioxid, Stickstoffdioxid und Stickstoffoxiden, Partikeln (PM10 und PM2,5), Blei, Benzol und Kohlenmonoxid in der Luft
 
 (Fundstelle: BGBl. I 2010, 1081 - 1082)
@@ -2312,10 +2242,6 @@ Markenamt in München archivmäßig gesichert niedergelegt.
     dokumentieren, damit sichergestellt ist, dass die Kriterien für die
     Wahl weiterhin Gültigkeit haben.
 
-
-
-
-
 ### Anlage 4 (zu § 13) Messungen an Messstationen für den ländlichen Hintergrund (konzentrationsunabhängig)
 
 (Fundstelle: BGBl. I 2010, 1083)
@@ -2393,10 +2319,6 @@ Markenamt in München archivmäßig gesichert niedergelegt.
 
     Die Messungen sollten – im Einklang mit Anlage 3 Abschnitt A, B und C
     – vor allem im ländlichen Hintergrund vorgenommen werden.
-
-
-
-
 
 ### Anlage 5 (zu den §§ 14 und 15) Kriterien für die Festlegung der Mindestzahl der Probenahmestellen für ortsfeste Messungen der Werte für Schwefeldioxid, Stickstoffdioxid und Stickstoffoxide, Partikel (PM10, PM2,5), Blei, Benzol und Kohlenmonoxid in der Luft
 
@@ -2745,7 +2667,6 @@ Markenamt in München archivmäßig gesichert niedergelegt.
     städtische Hintergrundquellen in Ballungsräumen und städtischen
     Gebieten muss die Anforderungen von Abschnitt B erfüllen.
 
-
 ### Anlage 6 (zu den §§ 1, 16 und 19) Referenzmethoden für die Beurteilung der Werte für Schwefeldioxid, Stickstoffdioxid und Stickstoffoxide, Partikel (PM10 und PM2,5), Blei, Benzol, Kohlenmonoxid und Ozon
 
 (Fundstelle: BGBl. I 2010, 1086 - 1087)
@@ -2878,10 +2799,6 @@ Markenamt in München archivmäßig gesichert niedergelegt.
     anderen Mitgliedstaaten der Europäischen Union von Laboratorien
     erstellt wurden, die nach der Norm DIN/EN/ISO/IEC 17025:2005 zur
     Durchführung der betreffenden Prüfungen zugelassen sind.
-
-
-
-
 
 ### Anlage 7 (zu § 9) Zielwerte und langfristige Ziele für Ozon
 
@@ -3091,10 +3008,6 @@ Schutz der menschlichen Gesundheit: gültige Daten für ein Jahr,
 
 –                                                   Zielwert zum
 Schutz der Vegetation: gültige Daten für drei Jahre.
-
-
-
-
 
 ### Anlage 8 (zu § 18) Kriterien zur Einstufung von Probenahmestellen für die Beurteilung der Ozonwerte und zur Bestimmung ihrer Standorte
 
@@ -3371,7 +3284,6 @@ Für ortsfeste Messstationen gelten folgende Kriterien:
 [^f774264_15_BJNR106510010BJNE004600000]: [^f774264_16_BJNR106510010BJNE004600000]:     Eine Station je 25 000 km                            2              in
     orographisch stark gegliedertem Gelände wird empfohlen.
 
-
 ### Anlage 10 (zu § 18) Messung von Ozonvorläuferstoffen
 
 (Fundstelle: BGBl. I 2010, 1093)
@@ -3477,10 +3389,6 @@ Für ortsfeste Messstationen gelten folgende Kriterien:
     Gebieten in allen gemäß dieser Verordnung errichteten Messstationen
     durchgeführt werden, die für die in Abschnitt A erwähnten
     Überwachungsziele als geeignet betrachtet werden.
-
-
-
-
 
 ### Anlage 11 (zu den §§ 21 und 28) Immissionsgrenzwerte zum Schutz der menschlichen Gesundheit
 
@@ -3821,13 +3729,6 @@ Für ortsfeste Messstationen gelten folgende Kriterien:
 
         *   1. Januar 2015
 
-
-
-
-
-
-
-
 ### Anlage 13 (zu den §§ 27 und 34) Erforderlicher Inhalt von Luftreinhalteplänen
 
 (Fundstelle: BGBl. I 2010, 1096)
@@ -3942,10 +3843,6 @@ Für ortsfeste Messstationen gelten folgende Kriterien:
 10. Liste der Veröffentlichungen, Dokumente, Arbeiten usw., die die in
     dieser Anlage vorgeschriebenen Informationen ergänzen
 
-
-
-
-
 ### Anlage 14 (zu § 30) Unterrichtung der Öffentlichkeit
 
 (Fundstelle: BGBl. I 2010, 1097)
@@ -4046,7 +3943,6 @@ zuständigen Behörden die erforderlichen Maßnahmen, um die
 Bereitstellung dieser Angaben sicherzustellen, soweit dies keinen
 unverhältnismäßigen Aufwand erfordert.
 
-
 ### Anlage 15 (zu § 20) Festlegung der Anforderungen an die Beurteilung der Werte für Arsen, Kadmium, Nickel und Benzo[a]pyren innerhalb eines Gebiets oder Ballungsraums
 
 (Fundstelle: BGBl. I 2010, 1098)
@@ -4125,10 +4021,6 @@ unverhältnismäßigen Aufwand erfordert.
     Verschmutzung auftritt, Messkampagnen kurzer Dauer durch Erkenntnisse
     ergänzen, die aus Daten von Emissionskatastern und aus Modellen
     abgeleitet werden.
-
-
-
-
 
 ### Anlage 16 (zu § 20) Standort und Mindestanzahl der Probenahmestellen für die Messung der Werte und der Ablagerungsraten von Arsen, Kadmium, Nickel und Benzo[a]pyren
 
@@ -4386,7 +4278,6 @@ unverhältnismäßigen Aufwand erfordert.
     ]pyren auch eine verkehrsnahe Messstation einzubeziehen, ohne dadurch
     die Zahl der Probenahmestellen zu erhöhen.
 
-
 ### Anlage 17 (zu § 20) Datenqualitätsziele und Anforderungen an Modelle zur Bestimmung der Werte für Arsen, Kadmium, Nickel und Benzo[a]pyren
 
 (Fundstelle: BGBl. I 2010, 1101 - 1102)
@@ -4606,7 +4497,6 @@ unverhältnismäßigen Aufwand erfordert.
     5725-6:*              Genauigkeit (Richtigkeit und Präzision) von
     Messverfahren und Messergebnissen — Teil 6: Anwendung von
     Genauigkeitswerten in der Praxis; Ausgabedatum: 08.2002
-
 
 ### Anlage 18 (zu § 20) Referenzmethoden für die Beurteilung der Werte und der Ablagerungsraten von Arsen, Kadmium, Nickel, Quecksilber und Benzo[a]pyren
 

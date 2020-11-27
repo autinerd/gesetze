@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 170 V v. 29.10.2001 I 2785
 
-
 ## § 1
 
 (1) Gibt die Industriekreditbank Aktiengesellschaft
@@ -43,7 +42,6 @@ anzuwenden.
 Bestimmungen über die Zusammensetzung und Verwaltung der Deckungsmasse
 zu treffen.
 
-
 ## § 2
 
 Das Bundesministerium der Finanzen bestellt einen Treuhänder und einen
@@ -51,7 +49,6 @@ Stellvertreter. Der Treuhänder hat darauf zu achten, daß die Ausgabe,
 Verwaltung und Deckung der Schuldverschreibungen den gesetzlichen,
 satzungsmäßigen oder sonst in verbindlicher Form ergangenen
 Bestimmungen sowie den Anleihebedingungen entspricht.
-
 
 ## § 3
 

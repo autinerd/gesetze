@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1973, 340
 
-
-
 ## Art 1
 
 Dem in Bonn am 5. November 1971 unterzeichneten Abkommen zwischen der
@@ -26,7 +24,6 @@ Regierung der Bundesrepublik Deutschland und der Regierung des
 Vereinigten Königreichs Großbritannien und Nordirland über die
 steuerliche Behandlung von Straßenfahrzeugen im internationalen
 Verkehr wird zugestimmt. Das Abkommen wird nachstehend veröffentlicht.
-
 
 ## Art 2
 
@@ -45,7 +42,6 @@ Frist Ausnahmen zulassen, wenn die Fahrzeuge betriebsunfähig werden
 oder für Messen, Ausstellungen oder ähnliche Zwecke verwendet werden
 oder auf Grund anderer besonderer Umstände aufgehalten werden.
 
-
 ## Art 3
 
 Der Bundesminister der Finanzen kann zur Herstellung der
@@ -55,7 +51,6 @@ Befreiung nach Artikel 2 Abs. 1 Buchstabe (a) in Verbindung mit Absatz
 2 des Abkommens nicht zu gewähren ist, wenn die Halter der Fahrzeuge
 im Geltungsbereich dieses Gesetzes ansässig sind.
 
-
 ## Art 4
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
@@ -63,7 +58,6 @@ Anwendung dieses Gesetzes feststellt. Rechtsverordnungen, die auf
 Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14
 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I
 S. 1).
-
 
 ## Art 5
 

@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1988, 2469
 
-
-
 ## Eingangsformel
 
 Der Freistaat Bayern und das Land Baden-Württemberg, beide vertreten
@@ -27,19 +25,6 @@ durch ihre Ministerpräsidenten, schließen folgenden
     *
         *
             *   **Staatsvertrag:**
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## Art 1
 
@@ -51,7 +36,6 @@ Straßen und Gewässern und durch Flurbereinigungen geänderten
 Verhältnisse die in Artikel 3 bis 24 bezeichneten Änderungen ihrer
 gemeinsamen Landesgrenze.
 
-
 ## Art 2
 
 Für den in Artikel 3 bis 24 festgelegten Verlauf der neuen
@@ -60,7 +44,6 @@ dort aufgeführten Katasterunterlagen über die Festlegung der
 Landesgrenzpunkte in den Liegenschaftskatastern von Bayern und Baden-
 Württemberg maßgebend.
 
-
 ## Art 3
 
 Zwischen der Gemeinde Nonnenhorn, Landkreis Lindau (Bodensee),
@@ -68,7 +51,6 @@ Freistaat Bayern, und der Gemeinde Kressbronn am Bodensee,
 Bodenseekreis, Land Baden-Württemberg, verläuft die neue Landesgrenze
 von Landesgrenzpunkt 3/16 bis zum Landesgrenzpunkt 5 nach Maßgabe der
 Anlage 3, Seiten 1 und 2.
-
 
 ## Art 4
 
@@ -84,10 +66,6 @@ verläuft die neue Landesgrenze
 2.  vom Landesgrenzpunkt 169/11 bis zum Landesgrenzpunkt 170 nach Maßgabe
     der Anlage 4, Seiten 3 und 4.
 
-
-
-
-
 ## Art 5
 
 Zwischen dem Markt Weitnau, Landkreis Oberallgäu, Freistaat Bayern,
@@ -96,7 +74,6 @@ Württemberg, verläuft die neue Landesgrenze vom Landesgrenzpunkt 316/9
 bis zum Landesgrenzpunkt 318/10 nach Maßgabe der Anlage 5, Seiten 1
 und 2.
 
-
 ## Art 6
 
 Zwischen der Gemeinde Elchingen, Landkreis Neu-Ulm, Freistaat Bayern,
@@ -104,14 +81,12 @@ und der Stadt Langenau, Alb-Donau-Kreis, Land Baden-Württemberg,
 verläuft die neue Landesgrenze vom Landesgrenzpunkt 43 bis zum
 Landesgrenzpunkt 44 nach Maßgabe der Anlage 6, Seiten 1 und 2.
 
-
 ## Art 7
 
 Zwischen der Gemeinde Elchingen, Landkreis Neu-Ulm, Freistaat Bayern,
 und der Stadt Langenau, Alb-Donau-Kreis, Land Baden-Württemberg,
 verläuft die neue Landesgrenze vom Landesgrenzpunkt 66 bis zum
 Landesgrenzpunkt 70 nach Maßgabe der Anlage 7, Seiten 1 und 2.
-
 
 ## Art 8
 
@@ -127,10 +102,6 @@ Landesgrenze
 2.  vom Landesgrenzpunkt 201 bis zum Landesgrenzpunkt 234 nach Maßgabe der
     Anlage 8, Seiten 4 und 5.
 
-
-
-
-
 ## Art 9
 
 Zwischen der Stadt Günzburg, Landkreis Günzburg, Freistaat Bayern, und
@@ -144,10 +115,6 @@ Württemberg, verläuft die neue Landesgrenze
 2.  vom Landesgrenzpunkt 305/2 (alt) bis zum Landesgrenzpunkt 306 nach
     Maßgabe der Anlage 9, Seiten 1 und 2.
 
-
-
-
-
 ## Art 10
 
 Zwischen der Gemeinde Medlingen, Landkreis Dillingen a. d. Donau,
@@ -155,7 +122,6 @@ Freistaat Bayern, und der Gemeinde Sontheim an der Brenz, Landkreis
 Heidenheim, Land Baden-Württemberg, verläuft die neue Landesgrenze vom
 Landesgrenzpunkt 412 bis zum Landesgrenzpunkt 414 nach Maßgabe der
 Anlage 10, Seiten 1 und 2.
-
 
 ## Art 11
 
@@ -170,10 +136,6 @@ Heidenheim, Land Baden-Württemberg, verläuft die neue Landesgrenze
 2.  vom Landesgrenzpunkt 477/2 bis zum Landesgrenzpunkt 478 (alt) nach
     Maßgabe der Anlage 11, Seiten 1 und 2.
 
-
-
-
-
 ## Art 12
 
 Zwischen der Gemeinde Bachhagel, Landkreis Dillingen a. d. Donau,
@@ -181,7 +143,6 @@ Freistaat Bayern, und der Stadt Giengen an der Brenz, Landkreis
 Heidenheim, Land Baden-Württemberg, verläuft die neue Landesgrenze vom
 Landesgrenzpunkt 497 bis zum Landesgrenzpunkt 500 nach Maßgabe der
 Anlage 12, Seiten 1 und 2.
-
 
 ## Art 13
 
@@ -195,10 +156,6 @@ Land Baden-Württemberg, verläuft die neue Landesgrenze
 
 2.  vom Landesgrenzpunkt 635/3 bis zum Landesgrenzpunkt 636 nach Maßgabe
     der Anlage 13, Seiten 2 und 3.
-
-
-
-
 
 ## Art 14
 
@@ -270,10 +227,6 @@ neue Landesgrenze
 16. vom Landesgrenzpunkt 798 bis zum Landesgrenzpunkt 799 nach Maßgabe der
     Anlage 14, Seiten 6 und 7.
 
-
-
-
-
 ## Art 15
 
 Zwischen der Gemeinde Ziertheim, Landkreis Dillingen a. d. Donau,
@@ -281,7 +234,6 @@ Freistaat Bayern, und der Gemeinde Dischingen, Landkreis Heidenheim,
 Land Baden-Württemberg, verläuft die neue Landesgrenze vom
 Landesgrenzpunkt 807 bis zum Landesgrenzpunkt 808/2 nach Maßgabe der
 Anlage 15, Seiten 1 und 2.
-
 
 ## Art 16
 
@@ -321,10 +273,6 @@ Baden-Württemberg, verläuft die neue Landesgrenze
 8.  vom Landesgrenzpunkt 964 bis zum Landesgrenzpunkt 978 nach Maßgabe der
     Anlage 16, Seiten 7 bis 9.
 
-
-
-
-
 ## Art 17
 
 Zwischen der Gemeinde Amerdingen, Landkreis Donau-Ries, Freistaat
@@ -337,10 +285,6 @@ Württemberg, verläuft die neue Landesgrenze
 
 2.  vom Landesgrenzpunkt 58 bis zum Landesgrenzpunkt 58/6 nach Maßgabe der
     Anlage 17, Seiten 2 und 3.
-
-
-
-
 
 ## Art 18
 
@@ -358,10 +302,6 @@ Baden-Württemberg, verläuft die neue Landesgrenze
 
 3.  vom Landesgrenzpunkt 290 bis zum Landesgrenzpunkt 312 nach Maßgabe der
     Anlage 18, Seiten 1 bis 3.
-
-
-
-
 
 ## Art 19
 
@@ -392,10 +332,6 @@ verläuft die neue Landesgrenze
 6.  vom Landesgrenzpunkt 346 bis zum Landesgrenzpunkt 347 nach Maßgabe der
     Anlage 19, Seiten 3 und 4.
 
-
-
-
-
 ## Art 20
 
 Zwischen der Stadt Nördlingen und dem Markt Wallerstein, Landkreis
@@ -418,10 +354,6 @@ neue Landesgrenze
 4.  vom Landesgrenzpunkt 372 bis zum Landesgrenzpunkt 402 nach Maßgabe der
     Anlage 20, Seiten 5 bis 7.
 
-
-
-
-
 ## Art 21
 
 Zwischen dem Markt Wallerstein, Landkreis Donau-Ries, Freistaat
@@ -429,7 +361,6 @@ Bayern, und der Gemeinde Unterschneidheim, Ostalbkreis, Land Baden-
 Württemberg, verläuft die neue Landesgrenze vom Landesgrenzpunkt 496
 bis zum Landesgrenzpunkt 499/2 nach Maßgabe der Anlage 21, Seiten 1
 und 2.
-
 
 ## Art 22
 
@@ -444,10 +375,6 @@ Baden-Württemberg, verläuft die neue Landesgrenze
 2.  vom Landesgrenzpunkt 404/1 bis zum Landesgrenzpunkt 409 nach Maßgabe
     der Anlage 22, Seiten 2 und 3.
 
-
-
-
-
 ## Art 23
 
 Zwischen der Gemeinde Simmershofen, Landkreis Neustadt a. d. Aisch-Bad
@@ -461,10 +388,6 @@ Kreis, Land Baden-Württemberg, verläuft die neue Landesgrenze
 2.  vom Landesgrenzpunkt 945/11 bis zum Landesgrenzpunkt 948/1 nach
     Maßgabe der Anlage 23, Seiten 2 und 3.
 
-
-
-
-
 ## Art 24
 
 Zwischen der Gemeinde Kirchheim, Landkreis Würzburg, Freistaat Bayern,
@@ -477,10 +400,6 @@ Württemberg, verläuft die neue Landesgrenze
 
 2.  vom Landesgrenzpunkt 396 bis zum Landesgrenzpunkt 400 nach Maßgabe der
     Anlage 24, Seiten 1 und 2.
-
-
-
-
 
 ## Art 25
 
@@ -504,7 +423,6 @@ aufgenommenen Gebiete die zuständige Regierung und das zuständige
 Regierungspräsidium im Benehmen mit den beteiligten
 Gebietskörperschaften.
 
-
 ## Art 26
 
 Hinsichtlich des Übergangs von Verwaltungsvermögen gilt § 4 des
@@ -512,7 +430,6 @@ Gesetzes über das Verfahren bei Änderungen des Gebietsbestandes der
 Länder nach Artikel 29 Abs. 7 des Grundgesetzes vom 30. Juli 1979
 (BGBl. I S. 1325) mit der Maßgabe, daß Entschädigungen nicht zu
 leisten sind.
-
 
 ## Art 27
 
@@ -527,7 +444,6 @@ Schwäbisch Hall, Tauberbischofsheim und Ulm des Landes Baden-
 Württemberg aufbewahrt und können dort von jedermann während der
 Sprechzeiten kostenlos eingesehen werden.
 
-
 ## Art 28
 
 (1) Dieser Staatsvertrag bedarf der Ratifikation. Die
@@ -536,12 +452,10 @@ Ratifikationsurkunden sollen so bald wie möglich ausgetauscht werden.
 (2) Dieser Staatsvertrag tritt am ersten Tag des dem Austausch der
 Ratifikationsurkunden folgenden Kalenderjahres in Kraft.
 
-
 ## Schlußformel
 
 Für den Freistaat Bayern
 Für das Land Baden-Württemberg
-
 
 ## Anlage 1 bis 24
 

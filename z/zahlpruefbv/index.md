@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 3648
 
-
 ## Eingangsformel
 
 Auf Grund des § 18 Absatz 3 Satz 1 des
@@ -24,9 +23,7 @@ Zahlungsdiensteaufsichtsgesetzes vom 25. Juni 2009 (BGBl. I S. 1506)
 verordnet das Bundesministerium der Finanzen im Einvernehmen mit dem
 Bundesministerium der Justiz nach Anhörung der Deutschen Bundesbank:
 
-
 ## Abschnitt 1 - Allgemeine Vorschriften
-
 
 ### § 1 Anwendungsbereich
 
@@ -41,14 +38,12 @@ anzuwenden, als sie Anforderungen enthält, die über die
 Prüfungsberichtsverordnung hinausgehen; über das Ergebnis der Prüfung
 ist ein einheitlicher Prüfungsbericht zu erstellen.
 
-
 ### § 2 Risikoorientierung und Wesentlichkeit
 
 Den Grundsätzen der risikoorientierten Prüfung und der Wesentlichkeit
 ist Rechnung zu tragen. Dabei sind insbesondere die Größe des
 Zahlungsinstituts, der Geschäftsumfang, die Komplexität der
 betriebenen Geschäfte sowie der Risikogehalt zu berücksichtigen.
-
 
 ### § 3 Art und Umfang der Berichterstattung
 
@@ -71,7 +66,6 @@ Zahlungsdiensteaufsichtsgesetzes waren, kann sich die
 aufsichtsrechtliche Berichterstattung auf Veränderungen bis zum
 Bilanzstichtag beschränken.
 
-
 ### § 4 Anlagen
 
 Soweit erläuternde Darstellungen zu den in dieser Verordnung
@@ -80,7 +74,6 @@ besseren Lesbarkeit als Anlagen zum Prüfungsbericht vorgelegt werden,
 wenn im Prüfungsbericht selbst eine hinreichende Beurteilung erfolgt
 und die Berichterstattung in Anlagen den Prüfungsbericht nicht
 unübersichtlich macht.
-
 
 ### § 5 Berichtszeitraum
 
@@ -91,7 +84,6 @@ Geschäftsjahr abweichenden Berichtszeiträumen muss der Prüfungsbericht
 mindestens das Geschäftsjahr umfassen, das am Bilanzstichtag endet.
 Wurde die Prüfung unterbrochen, ist in dem Bericht darauf hinzuweisen
 und die Dauer der Unterbrechung unter Darlegung der Gründe anzugeben.
-
 
 ### § 6 Zusammenfassende Schlussbemerkung
 
@@ -118,7 +110,6 @@ wesentlichen Beanstandungen sich bei der Prüfung ergeben haben.
 (2) Der Prüfungsbericht ist unter Angabe von Ort und Datum zu
 unterzeichnen.
 
-
 ### § 7 Berichtsturnus
 
 Soweit der Abschlussprüfer nach dieser Verordnung verpflichtet ist,
@@ -126,9 +117,7 @@ nur über Änderungen zu berichten, hat er in angemessenen Abständen
 über die Darstellung der Änderungen hinausgehend vollständig zu
 berichten.
 
-
 ## Abschnitt 2 - Angaben zum Zahlungsinstitut
-
 
 ### § 8 Darstellung der rechtlichen, wirtschaftlichen und organisatorischen Grundlagen
 
@@ -197,7 +186,6 @@ vorliegenden Informationen ist zu berichten. Darzustellen ist auch,
 wie das Zahlungsinstitut die fachliche Eignung und Zuverlässigkeit der
 Agenten sicherstellt.
 
-
 ### § 9 Zweigniederlassungen
 
 Der Abschlussprüfer hat über ausländische Zweigniederlassungen zu
@@ -206,12 +194,9 @@ Zweigniederlassungen, deren Einfluss auf die Risikolage und die
 Risikovorsorge des Gesamtinstituts sowie deren Einbindung in das
 Risikomanagement des Gesamtinstituts zu beurteilen.
 
-
 ## Abschnitt 3 - Aufsichtliche Vorgaben
 
-
 ### Unterabschnitt 1 - Risikomanagement und Geschäftsorganisation
-
 
 #### § 10 Angemessenheit des Risikomanagements und der Geschäftsorganisation
 
@@ -228,9 +213,7 @@ gesondert einzugehen.
 (2) Die Angemessenheit der Internen Revision des Zahlungsinstituts ist
 zu beurteilen.
 
-
 ### Unterabschnitt 2 - Eigenkapital und Solvenzanforderungen
-
 
 #### § 11 Ermittlung des Eigenkapitals
 
@@ -246,7 +229,6 @@ Kredite darzustellen.
 Kreditwesengesetzes sind auch danach zu beurteilen, ob sie zu
 marktüblichen Bedingungen gewährt werden und banküblich besichert
 sind.
-
 
 #### § 12 Eigenkapital
 
@@ -286,7 +268,6 @@ Reserven in Immobilien zugerechnet, so ist zu prüfen, ob bei der
 Ermittlung dieser Reserven § 10 Absatz 4b des Kreditwesengesetzes
 beachtet worden ist.
 
-
 #### § 13 Solvabilitätskennzahl
 
 Es ist zu beurteilen, ob die vom Zahlungsinstitut getroffenen
@@ -296,9 +277,7 @@ Dabei ist insbesondere auf Änderungen gegenüber dem letzten
 Berichtszeitraum einzugehen. Die Entwicklung der Eigenkapitalquote ist
 darzustellen.
 
-
 ### Unterabschnitt 3 - Anzeigewesen
-
 
 #### § 14 Anzeigewesen
 
@@ -306,9 +285,7 @@ Die Organisation des Anzeige- und Meldewesens ist zu beurteilen. Auf
 die Vollständigkeit und Richtigkeit der Anzeigen und Meldungen ist
 einzugehen, festgestellte wesentliche Verstöße sind aufzuführen.
 
-
 ### Unterabschnitt 4 - Vorkehrungen zur Verhinderung von Geldwäsche und Terrorismusfinanzierung
-
 
 #### § 15 Zeitpunkt der Prüfung und Berichtszeitraum
 
@@ -322,7 +299,6 @@ Prüfung.
 
 (3) Die Prüfung muss spätestens 15 Monate nach dem Anfang des für sie
 maßgeblichen Berichtszeitraums begonnen worden sein.
-
 
 #### § 16 Darstellung und Beurteilung der getroffenen Vorkehrungen zur Verhinderung von Geldwäsche und Terrorismusfinanzierung
 
@@ -397,9 +373,7 @@ Zurückweisung unvollständiger Auftraggeberdatensätze getroffen hat.
 des Zahlungsdiensteaufsichtsgesetzes genannten Pflichten nachgekommen
 ist.
 
-
 ## Abschnitt 4 - Besondere Angaben zu Zahlungsdiensten
-
 
 ### § 17 Berichterstattung über Zahlungsdienste
 
@@ -414,19 +388,15 @@ Wirksamkeit zu beurteilen.
 Die Laufzeit der Kredite ist anzugeben. Dabei ist auch darauf
 einzugehen, ob Prolongationen stattgefunden haben.
 
-
 ## Abschnitt 5 - Abschlussorientierte Berichterstattung
 
-
 ### Unterabschnitt 1 - Lage des Zahlungsinstituts (einschließlich geschäftliche Entwicklung sowie Ergebnisentwicklung)
-
 
 #### § 18 Geschäftliche Entwicklung im Berichtsjahr
 
 Die geschäftliche Entwicklung ist unter Gegenüberstellung der sie
 kennzeichnenden Zahlen des Berichtsjahres und des Vorjahres
 darzustellen und zu erläutern.
-
 
 #### § 19 Beurteilung der Vermögenslage
 
@@ -448,10 +418,6 @@ Ansprüche und Verpflichtungen, sind hervorzuheben.
 3.  alle abgegebenen Patronatserklärungen unter Darstellung des Inhalts
     und Beurteilung ihrer Rechtsverbindlichkeit.
 
-
-
-
-
 #### § 20 Beurteilung der Ertragslage
 
 (1) Die Entwicklung der Ertragslage ist zu beurteilen.
@@ -464,7 +430,6 @@ und Erfolgsfaktoren gesondert darzustellen.
 (3) Mögliche Auswirkungen von Risiken auf die Entwicklung der
 Ertragslage sind darzustellen.
 
-
 #### § 21 Risikolage und Risikovorsorge
 
 (1) Die Risikolage des Zahlungsinstituts ist zu beurteilen.
@@ -475,9 +440,7 @@ zu erläutern und die Angemessenheit der Risikovorsorge ist zu
 beurteilen. Ist für den Zeitraum nach dem Bilanzstichtag neuer
 Risikovorsorgebedarf bekannt geworden, so ist hierüber zu berichten.
 
-
 ### Unterabschnitt 2 - Feststellungen, Erläuterungen zur Rechnungslegung
-
 
 #### § 22 Erläuterungen
 
@@ -507,12 +470,7 @@ Werden Angaben gemacht, ist Folgendes zu berücksichtigen:
     der Art der in Pension gegebenen Gegenstände und nach Fristen zu
     gliedern.
 
-
-
-
-
 ## Abschnitt 6 - Datenübersichten
-
 
 ### § 23 Datenübersicht
 
@@ -521,9 +479,7 @@ Verordnung auf der Grundlage der Daten des Prüfungsberichts und unter
 Angabe der entsprechenden Vorjahresdaten auszufüllen und dem
 Prüfungsbericht beizufügen.
 
-
 ## Abschnitt 7 - Schlussvorschriften
-
 
 ### § 24 Erstmalige Anwendung
 
@@ -531,11 +487,9 @@ Die Bestimmungen dieser Verordnung sind erstmals auf die Prüfung
 anzuwenden, die das nach dem 31. Oktober 2008 beginnende Geschäftsjahr
 betrifft.
 
-
 ### § 25 Inkrafttreten
 
 Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
-
 
 ### Anlage (zu § 23) Datenübersicht für Zahlungsinstitute
 

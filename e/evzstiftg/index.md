@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 G v. 1.9.2008 I 1797
 
-
 ## Präambel
 
 In Anerkennung, dass
@@ -50,7 +49,6 @@ Deutschland insbesondere in den Vereinigten Staaten von Amerika
 bewirkt wird. Er hat mit Zustimmung des Bundesrates das folgende
 Gesetz beschlossen:
 
-
 ## § 1 Errichtung und Sitz
 
 (1) Unter dem Namen "Erinnerung, Verantwortung und Zukunft" wird eine
@@ -58,7 +56,6 @@ rechtsfähige Stiftung des öffentlichen Rechts errichtet. Die Stiftung
 entsteht mit dem Inkrafttreten dieses Gesetzes.
 
 (2) Der Sitz der Stiftung ist Berlin.
-
 
 ## § 2 Stiftungszweck
 
@@ -77,7 +74,6 @@ Systeme und Gewaltherrschaft und der internationalen Zusammenarbeit
 auf humanitärem Gebiet dienen. Im Gedenken an und zu Ehren derjenigen
 Opfer nationalsozialistischen Unrechts, die nicht überlebt haben, soll
 er auch Projekte im Interesse ihrer Erben fördern.
-
 
 ## § 3 Stifter und Stiftungsvermögen
 
@@ -111,7 +107,6 @@ sind von der Erbschaft- und Schenkungsteuer befreit.
 (5) Erträge des Stiftungsvermögens und sonstige Einnahmen sind nur im
 Sinne des Stiftungszwecks zu verwenden.
 
-
 ## § 4 Organe der Stiftung
 
 Organe der Stiftung sind
@@ -120,10 +115,6 @@ Organe der Stiftung sind
 
 
 2.  der Stiftungsvorstand.
-
-
-
-
 
 ## § 5 Kuratorium
 
@@ -235,7 +226,6 @@ Satz 1 Nr. 1 und 2 gleichmäßig ausschöpfen können.
 (8) Die Mitglieder des Kuratoriums sind ehrenamtlich tätig; notwendige
 Auslagen werden erstattet.
 
-
 ## § 6 Stiftungsvorstand
 
 (1) Der Stiftungsvorstand besteht aus dem Vorsitzenden und einem
@@ -257,7 +247,6 @@ entscheidet der Vorsitzende.
 
 (5) Das Nähere regelt die Satzung.
 
-
 ## § 7 Satzung
 
 Das Kuratorium beschließt mit einer Mehrheit von zwei Dritteln eine
@@ -266,7 +255,6 @@ Sitzung des Kuratoriums eine Satzung nicht zustande, schlägt der
 Vorsitzende eine Satzung vor, die mit einfacher Mehrheit angenommen
 wird. Das Kuratorium kann die Satzung mit einer Mehrheit von zwei
 Dritteln ändern.
-
 
 ## § 8 Aufsicht, Haushalt, Rechnungsprüfung
 
@@ -281,7 +269,6 @@ bedarf der Genehmigung des Bundesministeriums der Finanzen.
 Unbeschadet dessen sind die Rechnung und die Haushalts- und
 Wirtschaftsführung der Stiftung durch das Bundesamt für zentrale
 Dienste und offene Vermögensfragen zu prüfen.
-
 
 ## § 9 Verwendung der Stiftungsmittel
 
@@ -521,7 +508,6 @@ auf die Geltendmachung von Forderungen verzichtet hat.
 (13) Für anhängige Rechtsstreitigkeiten, die in diesem Gesetz
 geregelte Tatbestände betreffen, werden Gerichtskosten nicht erhoben.
 
-
 ## § 10 Mittelvergabe durch Partnerorganisationen
 
 (1) Die Gewährung und die Auszahlung der Einmalleistungen an die nach
@@ -538,7 +524,6 @@ Betracht kommenden Gruppen von Leistungsberechtigten in den jeweiligen
 Wohnsitzländern. Diese beinhaltet insbesondere Informationen über die
 Stiftung und ihre Partnerorganisationen, die Leistungsvoraussetzungen
 und Anmeldefristen.
-
 
 ## § 11 Leistungsberechtigte
 
@@ -620,7 +605,6 @@ Leistungsberechtigung auf andere Weise glaubhaft gemacht werden.
 (4) Leistungen der Stiftung sind von der Erbschaft- und
 Schenkungsteuer befreit.
 
-
 ## § 12 Begriffsbestimmungen
 
 (1) Kennzeichen für andere Haftstätten im Sinne von § 11 Abs. 1 Nr. 1
@@ -636,7 +620,6 @@ der Grenzen des Deutschen Reichs von 1937 gelegene Unternehmen, an
 denen in der Zeit zwischen dem 30. Januar 1933 und dem Inkrafttreten
 dieses Gesetzes deutsche Unternehmen nach Satz 1 unmittelbar oder
 mittelbar mit mindestens 25 vom Hundert beteiligt waren.
-
 
 ## § 13 Antragsrecht
 
@@ -661,7 +644,6 @@ Ist eine religiöse Gemeinde oder Organisation unter wesentlicher,
 direkter und schadensursächlicher Beteiligung deutscher Unternehmen in
 ihrem Vermögen geschädigt worden, gilt für sie oder ihren
 Rechtsnachfolger Satz 1 nicht.
-
 
 ## § 14 Antrags- und Ausschlussfristen
 
@@ -695,7 +677,6 @@ Leistungsberechtigung nach Satz 1 erstmalig spätestens zwölf Monate
 sowie wiederholt spätestens sechs Monate vor Fristablauf in geeigneter
 Weise bekannt zu machen.
 
-
 ## § 15 Berücksichtigung anderer Leistungen
 
 (1) Die Leistungen sollen den Leistungsberechtigten für erlittenes
@@ -708,7 +689,6 @@ und anderem nationalsozialistischen Unrecht, auch wenn sie über Dritte
 gewährt wurden, werden auf Leistungen nach § 9 Abs. 1 angerechnet.
 Sonderregelungen im Rahmen der International Comission on Holocaust
 Era Insurance Claims bleiben unberührt.
-
 
 ## § 16 Ausschluss von Ansprüchen
 
@@ -750,7 +730,6 @@ Verfahren wird im Einzelnen durch die Satzung geregelt.
 (3) Weitergehende Wiedergutmachungs- und Kriegsfolgenregelungen gegen
 die öffentliche Hand bleiben hiervon unberührt.
 
-
 ## § 17 Bereitstellung der Mittel
 
 (1) Die Stiftung stellt den Partnerorganisationen die Mittel nach
@@ -764,7 +743,6 @@ betreffend die Stiftung "Erinnerung, Verantwortung und Zukunft" sowie
 die Herstellung ausreichender Rechtssicherheit für deutsche
 Unternehmen voraus. Das Vorliegen dieser Voraussetzungen stellt der
 Deutsche Bundestag fest.
-
 
 ## § 18 Auskunftsersuchen
 
@@ -787,14 +765,12 @@ Deutschland, bei denen oder deren Rechtsvorgängern sie Zwangsarbeit
 geleistet haben, Auskunft verlangen, soweit dies zur Feststellung
 ihrer Leistungsberechtigung erforderlich ist.
 
-
 ## § 19 Beschwerdeverfahren
 
 Bei den Partnerorganisationen sind unabhängige und keinen Weisungen
 unterworfene Beschwerdestellen einzurichten. Das Verfahren vor den
 Beschwerdestellen ist kostenfrei. Kosten des Antragstellers werden
 nicht erstattet.
-
 
 ## § 20 Inkrafttreten
 

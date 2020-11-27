@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 45 G v. 20.12.2011 I 2854
 
-
 ## Eingangsformel
 
 Auf Grund des § 151 Abs. 2 Nr. 4 des Dritten Buches Sozialgesetzbuch -
@@ -26,7 +25,6 @@ Arbeitsförderung - (Artikel 1 des Gesetzes vom 24. März 1997, BGBl. I
 S. 594, 595), der durch Artikel 1 Nr. 47 des Gesetzes vom 10. Dezember
 2001 (BGBl. I S. 3443) eingefügt worden ist, verordnet das
 Bundesministerium für Arbeit und Sozialordnung:
-
 
 ## § 1 Ehrenamtliche Betätigung
 
@@ -56,7 +54,6 @@ Auslagenersatzes nur möglich, soweit die Auslagenpauschale zusammen
 mit der nicht steuerpflichtigen Aufwandsentschädigung 154 Euro im
 Monat nicht übersteigt.
 
-
 ## § 2 Berufliche Eingliederung
 
 Die berufliche Eingliederung des Arbeitslosen hat Vorrang vor der
@@ -72,10 +69,6 @@ anzuzeigen. Er hat darüber hinaus sicherzustellen, dass er
 
 2.  in der Lage ist, Vorschlägen der Agentur für Arbeit zur beruflichen
     Eingliederung unverzüglich Folge zu leisten.
-
-
-
-
 
 ## § 3 Inkrafttreten
 

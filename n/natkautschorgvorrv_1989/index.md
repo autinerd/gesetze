@@ -18,7 +18,6 @@ Fundstelle
 
 Stand: V in Kraft gem. Bek. v. 16.3.1993 II 742 mWv 30.10.1992
 
-
 ## Eingangsformel
 
 Auf Grund des Artikels 3 des Gesetzes vom 22. Juni 1954 über den
@@ -28,7 +27,6 @@ Nationen vom 21. November 1947 und über die Gewährung von Vorrechten
 und Befreiungen an andere zwischenstaatliche Organisationen (BGBl.
 1954 II S. 639), der durch das Gesetz vom 16. August 1980 (BGBl. II S.
 941) neu gefaßt wurde, verordnet die Bundesregierung:
-
 
 ## § 1
 
@@ -40,14 +38,12 @@ Abs. 1 des Internationalen Naturkautschuk-Übereinkommens vom 20. März
 1987 Anwendung. Das Übereinkommen wird nachstehend mit einer amtlichen
 deutschen Übersetzung veröffentlicht.
 
-
 ## § 2
 
 Die Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit Artikel 4 des in der Eingangsformel genannten Gesetzes
 vom 22. Juni 1954, der durch das Gesetz vom 28. Februar 1964 (BGBl. II
 S. 187) neu gefaßt wurde, auch im Land Berlin.
-
 
 ## § 3
 
@@ -60,7 +56,6 @@ Deutschland in Kraft tritt.
 
 (3) Der Tag des Inkrafttretens und der Tag des Außerkrafttretens sind
 im Bundesgesetzblatt bekanntzugeben.
-
 
 ## Schlußformel
 

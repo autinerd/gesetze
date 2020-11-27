@@ -20,7 +20,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 AnO v. 4.4.2007 I 497
 
-
 ## A. Übertragung von Zuständigkeiten
 
 Auf Grund des § 23 Abs. 4 Satz 1 der Wehrbeschwerdeordnung in der
@@ -32,7 +31,6 @@ militärische Dienststelle, die den mit der Beschwerde angefochtenen
 Verwaltungsakt erlassen hat. Richtet sich die Beschwerde gegen einen
 Verwaltungsakt einer Bundeswehrverwaltungsstelle im Ausland, übertrage
 ich die Entscheidungsbefugnis dem Bundesamt für Wehrverwaltung.
-
 
 ## B. Vorbehaltsklausel
 
@@ -51,18 +49,15 @@ b)  bei Entscheidungen einer anderen als der in Abschnitt A Satz 2
 2\. Meine Befugnis, in Einzelfällen die nach Abschnitt A übertragene
 Zuständigkeit wieder an mich zu ziehen, bleibt unberührt.
 
-
 ## C. Übergangsregelung
 
 Diese Anordnung findet keine Anwendung auf Beschwerden, die vor dem
 Inkrafttreten dieser Anordnung eingelegt worden sind.
 
-
 ## D. Inkrafttreten
 
 Diese Anordnung tritt am ersten Tage des auf die Veröffentlichung
 folgenden Kalendermonats in Kraft.
-
 
 ## Schlußformel
 

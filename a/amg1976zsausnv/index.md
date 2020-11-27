@@ -28,7 +28,6 @@ Informationsgesellschaft (ABl. EG Nr. L 204 S. 37), geändert durch die
 Richtlinie 98/48/EG des Europäischen Parlaments und des Rates vom 20.
 Juli 1998 (ABl. EG Nr. L 217 S. 18), sind beachtet worden.
 
-
 ## Eingangsformel
 
 Es verordnen, jeweils in Verbindung mit § 1 des
@@ -52,10 +51,6 @@ und dem Organisationserlass vom 22. Januar 2001 (BGBl. I S. 127),
     Bundesministerium des Innern und mit dem Bundesministerium der
     Verteidigung:
 
-
-
-
-
 ## § 1 Zweck und Anwendungsbereich der Verordnung
 
 (1) Zweck dieser Verordnung ist es, für die Herstellung, die
@@ -77,7 +72,6 @@ diesen Bereichen in den Verkehr gebracht werden.
 Endverbrauch erfolgt unter der Verantwortung einer Person, die Arzt
 oder Ärztin, Tierarzt oder Tierärztin oder Apotheker oder Apothekerin
 ist.
-
 
 ## § 2 Ausnahmen vom Vierten Abschnitt des Arzneimittelgesetzes
 
@@ -144,7 +138,6 @@ Verkehr gebracht werden, wenn dies ein angemessenes Mittel zur Abwehr
 einer gegenwärtigen, nicht anders abwendbaren Gefahr für Leben oder
 Gesundheit von Menschen ist.
 
-
 ## § 3 Ausnahmen vom Siebenten Abschnitt des Arzneimittelgesetzes
 
 (1) Abweichend von § 47 Abs. 1 des Arzneimittelgesetzes dürfen die in
@@ -156,7 +149,6 @@ beauftragten Stellen abgegeben werden.
 (2) § 43 Abs. 1 Satz 1, § 48 Abs. 1 und § 49 Abs. 1 des
 Arzneimittelgesetzes finden auf die in § 1 Abs. 2 genannten
 Arzneimittel keine Anwendung.
-
 
 ## § 4 Ausnahmen vom Dreizehnten Abschnitt des Arzneimittelgesetzes
 
@@ -174,7 +166,6 @@ Stelle im Sinne des § 1 Abs. 2 als Bescheinigung nach § 72a Abs. 1
 Satz 1 Nr. 3 des Arzneimittelgesetzes, dass die Einfuhr im
 öffentlichen Interesse liegt. § 72a Abs. 1 Satz 4 des
 Arzneimittelgesetzes bleibt unberührt.
-
 
 ## § 5 Ausnahmen vom Zweiten Abschnitt des Arzneimittelgesetzes
 
@@ -204,7 +195,6 @@ Arzneimittel zur Verfügung.
 (4) § 9 Abs. 2 des Arzneimittelgesetzes findet auf die in § 1 Abs. 2
 genannten Arzneimittel keine Anwendung.
 
-
 ## § 6 Ausnahmen vom Achten Abschnitt des Arzneimittelgesetzes
 
 § 55 Abs. 8 des Arzneimittelgesetzes findet keine Anwendung, wenn die
@@ -216,7 +206,6 @@ hinsichtlich der in ihnen enthaltenen Stoffe und hinsichtlich ihrer
 Darreichungsformen, Behältnisse und Umhüllungen, soweit sie mit den
 Arzneimitteln in Berührung kommen, zum Zeitpunkt ihrer Herstellung den
 anerkannten pharmazeutischen Regeln entsprachen.
-
 
 ## § 7 Ausnahmen vom Sechzehnten Abschnitt des Arzneimittelgesetzes
 
@@ -249,11 +238,9 @@ Arzneimittelgesetzes nur bei grober Fahrlässigkeit oder Vorsatz zu
 vertreten. Im Übrigen bleibt die Haftung für schuldhaftes Handeln
 unberührt.
 
-
 ## § 8 Inkrafttreten
 
 Die Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlussformel
 

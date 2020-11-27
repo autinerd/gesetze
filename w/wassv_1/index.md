@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1970, 357
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 3 Nr. 1 und 2 des Wassersicherstellungsgesetzes vom
@@ -25,14 +23,12 @@ Einführungsgesetz zum Gesetz über Ordnungswidrigkeiten vom 24. Mai
 1968 (Bundesgesetzbl. I S. 503), verordnet die Bundesregierung mit
 Zustimmung des Bundesrates:
 
-
 ## § 1 Sachlicher Geltungsbereich
 
 Die Bestimmungen dieser Verordnung gelten für Vorsorgemaßnahmen nach
 dem Wassersicherstellungsgesetz zur Deckung des lebensnotwendigen
 Bedarfs an Trinkwasser, zur Versorgung mit Betriebswasser im
 unentbehrlichen Umfang und zur Deckung des Bedarfs an Löschwasser.
-
 
 ## § 2 Bemessung des lebensnotwendigen Bedarfs an Trinkwasser
 
@@ -77,7 +73,6 @@ Sinne dieser Verordnung gelten:
 sowie die entsprechende Anzahl anderer Nutztiere mit einem
 Gesamtlebendgewicht von 500 kg.
 
-
 ## § 3 Beschaffenheit des Trinkwassers
 
 (1) Trinkwasser aus Anlagen, die nach der Zivilverteidigungsplanung im
@@ -97,7 +92,6 @@ von Stoffen in gesundheitsschädlicher Konzentration im Einzelfall
 entscheidet die zuständige Gesundheitsbehörde, ob das Wasser zur
 Deckung des lebensnotwendigen Bedarfs verwendet werden kann.
 
-
 ## § 4 Bemessung des Bedarfs an Betriebswasser im unentbehrlichen Umfang
 
 Der unentbehrliche Bedarf an Betriebswasser für Betriebe und
@@ -105,7 +99,6 @@ Anstalten, deren Weiterarbeit nach der Zivilverteidigungsplanung
 unerläßlich ist, wird nach Art und Umfang der Leistungen, die der
 Betrieb oder die Anstalt im Verteidigungsfall erbringen soll,
 errechnet.
-
 
 ## § 5 Beschaffenheit des Betriebswassers
 
@@ -116,7 +109,6 @@ Beschaffenheit von der Verwendungsart abhängig.
 
 (2) Betriebswasser muß so beschaffen sein, daß eine
 Gesundheitsschädigung der Betriebsangehörigen nicht zu befürchten ist.
-
 
 ## § 6 Bemessung des Bedarfs an Löschwasser
 
@@ -171,10 +163,6 @@ legen:
     *   in Industriegebieten (GI) bis zu einer Baumassenzahl (BMZ) von 9,0
 
     *   960 cbm/5 h.
-
-
-
-
 
 ## § 7 Inkrafttreten
 

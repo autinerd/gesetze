@@ -23,7 +23,6 @@ reinrassige Zuchtrinder (ABl. EG Nr. L 206 S. 8), zuletzt geändert
 durch Artikel 1 der Verordnung (EWG) Nr. 3768/85 des Rates vom 20.
 August 1985 (ABl. EG Nr. L 362 S. 8).
 
-
 ## § 1
 
 (1) Zur Zuchtwertfeststellung bei einem Rind werden mindestens
@@ -65,7 +64,6 @@ gewichtet.
 festgestellten Zuchtwertteile die Sicherheit mindestens für Bullen
 angegeben.
 
-
 ## § 1a
 
 Die für die Erteilung der Besamungserlaubnis zuständige Behörde
@@ -73,11 +71,9 @@ veröffentlicht bei Bullen, die zur künstlichen Besamung eingesetzt
 werden, das Ergebnis der nach § 1 Abs. 1 Satz 5 durchgeführten
 Untersuchungen.
 
-
 ## § 2
 
 (Inkrafttreten, Außerkrafttreten)
-
 
 ## Anlage 1 (zu § 1 Abs. 2) Grundsätze für die Durchführung der Leistungsprüfungen und die Beurteilung der äußeren Erscheinung
 
@@ -376,13 +372,6 @@ Untersuchungen.
     5   Äußere Erscheinung
 
         Die äußere Erscheinung wird nach einem Notensystem beurteilt.
-
-
-
-
-
-
-
 
 ## Anlage 2 (zu § 1 Abs. 3) Grundsätze für die Zuchtwertfeststellung
 

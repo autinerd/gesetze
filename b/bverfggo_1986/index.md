@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 Bek. v. 7.1.2002 I 1171
 
-
 ## Inhalt
 
 
@@ -124,13 +123,7 @@ Zuletzt geändert durch
 
     *   §§ 63 - 70
 
-
-
-
-
 ## Teil A - Vorschriften zur Organisation und Verwaltung des Bundesverfassungsgerichts
-
-
 
 ### § 1
 
@@ -147,7 +140,6 @@ Gerichts.
 Befugnisse wahr und führt die Beschlüsse des Plenums in dessen Auftrag
 aus. Er leitet die Verwaltung des Gerichts; Fragen von grundsätzlicher
 Bedeutung wird er mit dem Plenum beraten.
-
 
 ### § 2
 
@@ -177,7 +169,6 @@ zu Beginn seiner Sitzung über die Tagesordnung.
 
 (7) Der Präsident leitet die Sitzung. Über ihren Verlauf wird ein
 Protokoll geführt, das jedem Richter alsbald zugeht.
-
 
 ### § 3
 
@@ -229,13 +220,11 @@ und Beschlußfassung im Plenum zuweisen.
 (8) Die Vorsitzenden berichten mindestens einmal im Jahr dem Plenum
 über die Arbeit der Ausschüsse.
 
-
 ### § 4
 
 Innerhalb des Gerichts wird der Präsident vom Vizepräsident und bei
 dessen Verhinderung von dem dienstältesten, bei gleichem Dienstalter
 von dem lebensältesten anwesenden Richter vertreten.
-
 
 ### § 5
 
@@ -250,11 +239,9 @@ Bundesrat, der Bundesregierung sowie deren Ausschüssen obliegt dem
 Präsidenten im Benehmen mit dem Vizepräsidenten. Sie können von
 anderen Richtern vertreten oder unterstützt werden.
 
-
 ### § 6
 
 Der Präsident übt das Hausrecht aus.
-
 
 ### § 7
 
@@ -269,20 +256,17 @@ vertreten werden.
 
 (3) Für Besuche beim Gericht gilt Entsprechendes.
 
-
 ### § 8
 
 Das Dienstalter der Richter bestimmt sich vom Tage der ersten
 Vereidigung als Bundesverfassungsrichter an. Bei gleichem Dienstalter
 entscheidet das Lebensalter.
 
-
 ### § 9
 
 Soweit in Gesetzen, die auf die Richter entsprechend anzuwenden sind,
 dem Vorgesetzten, dem Dienstvorgesetzten oder dem Leiter der Behörde
 Verwaltungsentscheidungen zugewiesen sind, trifft sie der Präsident.
-
 
 ### § 10
 
@@ -295,7 +279,6 @@ Inland als Dienstreise.
 (2) Dienstreisen von wissenschaftlichen Mitarbeitern genehmigt der
 Präsident.
 
-
 ### § 11
 
 (1) Die Richter zeigen rechtzeitig vorher dem Präsidenten und dem
@@ -304,7 +287,6 @@ Sie hinterlassen ihre Anschrift beim Präsidialrat.
 
 (2) In derselben Weise zeigen sie Krankheit und Ortsabwesenheit von
 längerer Dauer als einer Woche an.
-
 
 ### § 12
 
@@ -316,7 +298,6 @@ Senats bei der Erledigung der Senatsgeschäfte.
 
 (3) Er ist in Senatsangelegenheiten ausschließlich an die Weisungen
 des Vorsitzenden gebunden.
-
 
 ### § 13
 
@@ -332,7 +313,6 @@ Mitarbeiter nicht zugewiesen werden.
 obliegt dem Richter. Der Präsident kann eine eigene Beurteilung
 beifügen.
 
-
 ### § 14
 
 (1) Die Verteilung der Verwaltungsgeschäfte regelt der Präsident. Er
@@ -343,7 +323,6 @@ beim Bundesverfassungsgericht) allgemein zur selbständigen Erledigung
 (2) Die die Richter betreffenden Verwaltungsentscheidungen, die nicht
 einfache Geschäfte der laufenden Verwaltung sind, trifft der Präsident
 selbst.
-
 
 ### § 15
 
@@ -356,12 +335,10 @@ Ministerien führen, haben sich im Rahmen der vorher im Plenum oder in
 einem seiner Ausschüsse festgelegten Richtlinien zu halten oder sind,
 soweit solche nicht bestehen, nach Weisung des Präsidenten zu führen.
 
-
 ### § 16
 
 Der Posteinlauf wird dem Präsidenten und dem Vizepräsidenten
 vorgelegt, soweit diese nichts anderes bestimmen.
-
 
 ### § 17
 
@@ -375,12 +352,10 @@ zuständig ist.
 (2) Informationen an die Presse aus dem Bereich eines Senates bedürfen
 grundsätzlich der Zustimmung des Vorsitzenden.
 
-
 ### § 18
 
 Bei der Bibliothek des Gerichts wird ein Archiv eingerichtet, in dem
 alle das Gericht berührenden Materialien gesammelt werden.
-
 
 ### § 19
 
@@ -392,14 +367,9 @@ Gericht erlassenen besonderen Verwaltungsvorschriften nichts anderes
 ergibt, gelten die allgemeinen Verwaltungsvorschriften für die
 obersten Bundesbehörden.
 
-
 ## Teil B - Verfahrensergänzende Vorschriften
 
-
-
 ### Titel 1 - Zum Verfahren im allgemeinen
-
-
 
 #### § 20
 
@@ -415,7 +385,6 @@ nötig wird.
 Er kann wegen der besonderen Bedeutung der Sache im Einvernehmen mit
 dem Senat einen Mitberichterstatter bestimmen.
 
-
 #### § 21
 
 (1) Die Senate bestimmen, an welchen Wochentagen sie regelmäßig zur
@@ -425,7 +394,6 @@ außerordentliche Sitzung einberufen.
 
 (2) Der Vorsitzende setzt im Benehmen mit dem Senat die Tagesordnung
 fest. Sie soll den Richtern mindestens zehn Tage vorher zugehen.
-
 
 #### § 22
 
@@ -455,7 +423,6 @@ erheblichen Frage gutachtlich zu äußern.
 (6) Alle das Verfahren betreffenden Maßnahmen werden aktenkundig
 gemacht.
 
-
 #### § 23
 
 (1) In jeder Sache, die vom Senat zu entscheiden ist, legt der
@@ -467,7 +434,6 @@ Entscheidungsentwurf vorgelegt werden.
 
 (2) Zwischen der Verteilung des Votums und der Beratung oder der
 mündlichen Verhandlung sollen mindestens zehn Tage liegen.
-
 
 #### § 24
 
@@ -510,11 +476,9 @@ einen unverhältnismäßigen Aufwand erfordern würde.
 (7) Auf die Absätze 4 bis 6 und auf § 25 a BVerfGG ist zu Beginn der
 mündlichen Verhandlung hinzuweisen.
 
-
 #### § 25
 
 Bei den Beratungen dürfen nur die mitwirkenden Richter anwesend sein.
-
 
 #### § 26
 
@@ -529,13 +493,11 @@ möchte oder wenn ihm ein Sondervotum dazu Anlaß gibt.
 ergangen sind, erhalten das Datum des Tages, an dem sie endgültig
 beschlossen worden sind.
 
-
 #### § 27
 
 Über den Gang der Beratung entscheidet der Senat. Wirft die Sache
 mehrere Rechtsfragen auf, so wird über sie in der Regel nacheinander
 abgestimmt, bevor über den Tenor entschieden wird.
-
 
 #### § 28
 
@@ -546,7 +508,6 @@ Vorsitzenden aufzuführen.
 (2) Ist ein Richter, der an der Entscheidung mitgewirkt hat, an der
 Unterschrift verhindert, so beurkundet dies der Vorsitzende.
 
-
 #### § 29
 
 Entscheidungen, die im Bundesgesetzblatt zu veröffentlichen sind,
@@ -555,13 +516,11 @@ Ist die Entscheidung drei Monate nach der Verkündung oder Zustellung
 noch nicht im Bundesgesetzblatt veröffentlicht, so unterrichtet er den
 Vorsitzenden und den Berichterstatter.
 
-
 #### § 30
 
 Soweit die Entscheidung dem Verfahrensbevollmächtigten eines
 Verfassungsorgans bekanntgegeben wird, ist sie gleichzeitig dem
 Verfassungsorgan unmittelbar zu übersenden.
-
 
 #### § 31
 
@@ -590,7 +549,6 @@ zur Verfügung stehen, sind diese für die Aufgaben eines richterlichen
 Berufsverbandes der Mitglieder des Bundesverfassungsgerichts oder für
 gemeinnützige Zwecke zu verwenden.
 
-
 #### § 32
 
 (1) Presseverlautbarungen über ergangene Entscheidungen bedürfen der
@@ -599,7 +557,6 @@ hinausgegeben werden, wenn anzunehmen ist, daß die Entscheidung den
 Prozeßbeteiligten zugegangen ist.
 
 (2) Entsprechendes gilt für Beschlüsse der Kammern.
-
 
 #### § 33
 
@@ -612,14 +569,12 @@ Die Dokumentationsstelle ist auch für die Archivierung sowie für das
 Bereitstellen von Entscheidungen des Bundesverfassungsgerichts im
 Internet zuständig.
 
-
 #### § 34
 
 Voten, Entscheidungsentwürfe, Änderungs- und Formulierungsvorschläge
 sowie Notizen des Berichterstatters sind nicht Bestandteil der
 Verfahrensakten. Sie sind in besonderem Umschlag zusammen mit den
 Akten aufzubewahren; sie unterliegen nicht der Akteneinsicht.
-
 
 #### § 35
 
@@ -633,13 +588,11 @@ werden.
 (3) Die Vorschriften des Bundesdatenschutzgesetzes über die
 Übermittlung personenbezogener Daten finden Anwendung.
 
-
 #### § 35a
 
 Entscheidungen des Bundesverfassungsgerichts sind vor der Übermittlung
 an Behörden, Gerichte oder private Dritte zu anonymisieren. Das Nähere
 regelt eine Anweisung der Präsidentin des Bundesverfassungsgerichts.
-
 
 #### § 36
 
@@ -656,15 +609,11 @@ sowie vollständige Verfahrensakten einschließlich der Voten, wenn der
 Senat ihre Vernichtung wegen ihrer rechtsgeschichtlichen Bedeutung
 ausgeschlossen hat.
 
-
 #### § 37
 
 (weggefallen)
 
-
 ### Titel 2 - Zum Verfahren im Vertretungsfalle gemäß §§ 15 Abs. 2 Satz 2, 19 Abs. 4 BVerfGG
-
-
 
 #### § 38
 
@@ -681,17 +630,13 @@ wird. Das Ergebnis des Losverfahrens ist allen Richtern mitzuteilen.
 (3) Für die Anordnung und Durchführung des Losverfahrens gilt § 15
 Abs. 1 Satz 2 BVerfGG entsprechend.
 
-
 ### Titel 3 - Zum Verfahren in den Kammern gemäß § 81a und den §§ 93b bis 93d BVerfGG
-
-
 
 #### § 39
 
 In den Kammern führen, soweit sie ihnen angehören, der Präsident und
 der Vizepräsident, im übrigen der jeweils dienstälteste, bei gleichem
 Dienstalter der lebensälteste anwesende Richter den Vorsitz.
-
 
 #### § 40
 
@@ -709,7 +654,6 @@ entscheidet auch in den Fällen des § 93d Abs. 2 BVerfGG der Senat.
 werden die in dieser Sache gestellten Anträge auf Erlaß einer
 einstweiligen Anordnung gegenstandslos.
 
-
 #### § 41
 
 Der Berichterstatter kann bereits vor der Entscheidung der Kammer, ob
@@ -718,7 +662,6 @@ Verfassungsbeschwerde nicht angenommen wird (§ 81a, § 93b BVerfGG),
 Stellungnahmen der Äußerungsberechtigten (§ 82 in Verbindung mit § 77
 BVerfGG, § 94 BVerfGG) oder Dritter einholen und sich mit Ersuchen an
 die in § 82 Abs. 4 BVerfGG genannten Gerichte wenden.
-
 
 #### § 42
 
@@ -732,10 +675,7 @@ Verfassungsbeschwerde ersucht worden war oder wenn sich die
 Verfassungsbeschwerde gegen eine Entscheidung eines obersten
 Bundesgerichts gerichtet hat.
 
-
 ### Titel 4 - Zum Verfahren im Ausschuß gemäß § 14 Abs. 5 BVerfGG
-
-
 
 #### § 43
 
@@ -744,7 +684,6 @@ Senat für die Dauer eines Geschäftsjahres zwei Richter und zwei
 Stellvertreter. Der Präsident wird im Vorsitz vom Vizepräsidenten
 vertreten, bei dessen Verhinderung vom dienstältesten, bei gleichem
 Dienstalter von dem lebensältesten Mitglied des Ausschusses.
-
 
 #### § 44
 
@@ -764,7 +703,6 @@ vierzehn Tagen - einberufen.
 (4) Das Verfahren nach Absatz 3 ist ausgeschlossen, wenn der Senat die
 Beratung in der Sache begonnen hat.
 
-
 #### § 45
 
 Der Präsident bestellt aus den Mitgliedern des Ausschusses je einen
@@ -772,13 +710,11 @@ Berichterstatter aus jedem Senat. Die Berichterstatter können
 gemeinsam oder getrennt vor der Sitzung ein schriftliches Votum zur
 Zuständigkeitsfrage abgeben.
 
-
 #### § 46
 
 Die Beschlüsse des Ausschusses werden vom Vorsitzenden in einem
 Aktenvermerk festgehalten. Sie werden nicht begründet. Sie werden
 allen Richtern mitgeteilt und zu den Akten des Verfahrens gebracht.
-
 
 #### § 47
 
@@ -786,10 +722,7 @@ Der Senat, dessen Zuständigkeit durch einen Beschluß des Ausschusses
 begründet worden ist, weist in seiner Entscheidung auf den Beschluß
 hin.
 
-
 ### Titel 5 - Zum Verfahren im Plenum gemäß § 16 BVerfGG
-
-
 
 #### § 48
 
@@ -801,7 +734,6 @@ abweichen will, ruft das Plenum durch Senatsbeschluß an.
 Entscheidung abgewichen werden will, auf Anfrage erklärt, daß er an
 seiner Rechtsauffassung nicht festhalte.
 
-
 #### § 49
 
 (1) Zur Vorbereitung der Entscheidung des Plenums benennt der
@@ -812,10 +744,7 @@ Votum vor.
 (2) Der Beschluß des Plenums ist zu begründen. Er ist ebenso wie
 Entscheidungen der Senate zu behandeln.
 
-
 ### Titel 6 - Zum Verfahren im Plenum gemäß § 105 BVerfGG
-
-
 
 #### § 50
 
@@ -827,13 +756,11 @@ und vom Vizepräsidenten gemeinsam.
 (2) Der Antrag samt Begründung wird allen Mitgliedern des Gerichts in
 vertraulicher Form gegen Empfangsbestätigung mitgeteilt.
 
-
 #### § 51
 
 Dem Richter, gegen den sich der Antrag richtet, ist Gelegenheit zu
 geben, sich zum Antrag schriftlich und mündlich vor dem Plenum zu
 äußern.
-
 
 #### § 52
 
@@ -842,7 +769,6 @@ mindestens acht Richtern. Das Plenum berät und beschließt in
 Abwesenheit des Betroffenen. Der Beschluß wird nicht begründet; er
 wird von den mitwirkenden Richtern unterschrieben und anschließend dem
 Betroffenen eröffnet.
-
 
 #### § 53
 
@@ -854,13 +780,11 @@ berichtet er dem Plenum schriftlich und in der mündlichen Verhandlung;
 sein Bericht schließt mit einem Vorschlag für die Entscheidung. An der
 Beratung und Beschlußfassung nimmt er nicht teil.
 
-
 #### § 54
 
 Die mündliche Verhandlung findet unter Ausschluß der Öffentlichkeit
 statt. Auf Antrag des Betroffenen kann die Öffentlichkeit zugelassen
 werden.
-
 
 #### § 55
 
@@ -874,10 +798,7 @@ BVerfGG) in den Ruhestand tritt.
 Beschluß nach § 105 Abs. 4 BVerfGG zurückgenommen wird, es sei denn,
 daß das Plenum beschließt, es einzuleiten oder fortzusetzen.
 
-
 ### Titel 7 - Zum Verfahren bei Abgabe eines Sondervotums gemäß § 30 Abs. 2 BVerfGG
-
-
 
 #### § 56
 
@@ -903,10 +824,7 @@ Namen des Richters zu veröffentlichen.
 (6) Für Sondervoten zu Entscheidungen des Plenums gelten die
 vorstehenden Bestimmungen entsprechend.
 
-
 ### Titel 8 - Zum Verfahren im Plenum gemäß § 7 a BVerfGG
-
-
 
 #### § 57
 
@@ -916,7 +834,6 @@ des Plenums einzureichen und zu begründen; dabei ist mitzuteilen, ob
 der Vorgeschlagene mit seiner Nominierung im Plenum einverstanden ist.
 Von der Einhaltung der Vorschlagsfrist kann im Einverständnis aller
 anwesenden Richter abgesehen werden.
-
 
 #### § 58
 
@@ -939,7 +856,6 @@ abgegebenen Stimmen erhalten hat; bei jeder Wiederholung scheidet der
 Kandidat aus, der im vorangegangenen Wahlgang die wenigsten Stimmen
 erhalten hat.
 
-
 #### § 59
 
 (1) Führt die Wahl nach § 58 nicht zu einer genügenden Zahl von
@@ -958,10 +874,7 @@ durchgeführt wird. Werden lediglich Kandidaten vorgeschlagen, die
 bereits früher benannt waren, so kann der Beschluß mit einer Mehrheit
 von zwei Dritteln der anwesenden Richter gefaßt werden.
 
-
 ### Titel 9 - Über das Allgemeine Register (AR) des Bundesverfassungsgerichts
-
-
 
 #### § 60
 
@@ -994,10 +907,6 @@ a)  bei denen eine Annahme zur Entscheidung (§ 93a BVerfGG) nicht in
 
 b)  bei denen sich die Senatszuständigkeit nicht alsbald klären läßt.
 
-
-
-
-
 #### § 61
 
 (1) Die Entscheidung darüber, ob ein Vorgang in das Allgemeine
@@ -1017,7 +926,6 @@ für zuständig erachteten Senats zuzuleiten. Hat im Falle des § 60 Abs.
 Senatszuständigkeit entschieden, veranlaßt der Präsidialrat des für
 zuständig erklärten Senats die Eintragung in das Verfahrensregister.
 
-
 #### § 62
 
 (1) Für das Allgemeine Register ist ein Präsidialrat verantwortlich.
@@ -1025,10 +933,7 @@ Er wird durch den anderen Präsidialrat vertreten.
 
 (2) (weggefallen)
 
-
 ### Titel 10 - Schlußvorschriften
-
-
 
 #### § 63
 
@@ -1036,16 +941,13 @@ Mitglieder des Gerichts im Sinne dieser Geschäftsordnung sind auch
 Richter, die nach Ablauf ihrer Amtszeit ihre Amtsgeschäfte fortführen
 (§ 4 Abs. 4 BVerfGG).
 
-
 #### § 64
 
 Die Richter tragen in der mündlichen Verhandlung eine Robe mit Barett.
 
-
 #### § 65
 
 Das Geschäftsjahr des Bundesverfassungsgerichts ist das Kalenderjahr.
-
 
 #### § 66
 
@@ -1054,13 +956,11 @@ Das Geschäftsjahr des Bundesverfassungsgerichts ist das Kalenderjahr.
 (2) Die Geschäftslast des Gerichts wird monatlich in einer Statistik
 und am Ende des Geschäftsjahres in einer Gesamtstatistik dargestellt.
 
-
 #### § 67
 
 Unbeschadet des § 19 ist das Gerichtsgebäude während einer mündlichen
 Verhandlung und einer Urteilsverkündung sowie auf besondere Anordnung
 des Präsidenten zu beflaggen.
-
 
 #### § 68
 
@@ -1076,16 +976,13 @@ Geschäftsordnung mit der Mehrheit der anwesenden Richter geändert
 werden, wenn dies zur Erhaltung der Arbeitsfähigkeit des Gerichts
 erforderlich ist.
 
-
 #### § 69
 
 Die Geschäftsordnung ist im Bundesgesetzblatt zu veröffentlichen.
 
-
 #### § 70
 
 Diese Geschäftsordnung tritt am 1. Januar 1987 in Kraft; ...
-
 
 #### Schlußformel
 

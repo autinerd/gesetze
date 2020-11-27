@@ -18,10 +18,7 @@ Fundstelle
 Geändert durch
 :   Art. 1 G v. 7.12.2007 I 2807
 
-
 ## Abschnitt 1 - Dienstrecht
-
-
 
 ### § 1
 
@@ -54,10 +51,7 @@ erfolgen. Für die Versetzung in den Ruhestand gilt § 44 Abs. 5, 6 Satz
 1 bis 3, Satz 4 zweiter Halbsatz und Abs. 7 des Soldatengesetzes
 entsprechend.
 
-
 ## Abschnitt 2 - Versorgung
-
-
 
 ### § 2
 
@@ -66,7 +60,6 @@ Berufssoldaten, deren Dienstverhältnis nach § 45a des Soldatengesetzes
 in das eines Soldaten auf Zeit umgewandelt worden ist, sowie ihrer
 Hinterbliebenen bestimmt sich nach dem Soldatenversorgungsgesetz nach
 Maßgabe der folgenden Vorschriften.
-
 
 ### § 3
 
@@ -119,7 +112,6 @@ wäre.
 anzuwenden, dass die Versetzung in den Ruhestand nach § 1 als
 Versetzung in den Ruhestand wegen Überschreitens einer festgesetzten
 besonderen Altersgrenze gilt.
-
 
 ### § 4
 

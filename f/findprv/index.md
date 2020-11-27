@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 274 (510)
 
-
 ## Eingangsformel
 
 Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 und des § 30
@@ -26,9 +25,7 @@ für Bildung und Forschung nach Anhörung des Hauptausschusses des
 Bundesinstituts für Berufsbildung im Einvernehmen mit dem
 Bundesministerium für Wirtschaft und Technologie:
 
-
 ## Teil 1 - Fortbildungsabschlüsse in der Finanzdienstleistungswirtschaft
-
 
 ### § 1 Fortbildungsabschlüsse
 
@@ -42,12 +39,7 @@ Fortbildungsabschlüssen
 2.  Geprüfter Fachwirt für Finanzberatung und Geprüfte Fachwirtin für
     Finanzberatung.
 
-
-
-
-
 ## Teil 2 - Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Fachberater für Finanzdienstleistungen und Geprüfte Fachberaterin für Finanzdienstleistungen
-
 
 ### § 2 Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
 
@@ -102,7 +94,6 @@ Fortbildungsabschluss „Geprüfter Fachberater für
 Finanzdienstleistungen“ oder „Geprüfte Fachberaterin für
 Finanzdienstleistungen“.
 
-
 ### § 3 Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer
@@ -137,7 +128,6 @@ Voraussetzungen ist zur Prüfung zuzulassen, wer durch Vorlage von
 Zeugnissen oder auf andere Weise glaubhaft macht, Fertigkeiten,
 Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit) erworben zu
 haben, die die Zulassung zur Prüfung rechtfertigen.
-
 
 ### § 4 Gliederung und Durchführung der Prüfung
 
@@ -188,7 +178,6 @@ der Regel nicht länger als 15 Minuten dauern. Die Bewertungen der
 schriftlichen Prüfungsleistung und der mündlichen Ergänzungsprüfung
 werden zusammengefasst. Dabei wird die Bewertung der schriftlichen
 Prüfungsleistung doppelt gewichtet.
-
 
 ### § 5 Inhalt der Prüfung
 
@@ -300,10 +289,6 @@ Qualifikationsinhalte geprüft werden:
 4.  Kunden bei der Umsetzung von Maßnahmen der Risikoabsicherung begleiten
     und die Kundensituation regelmäßig und anlassbezogen überprüfen.
 
-
-
-
-
 ### § 6 Anrechnung anderer Prüfungsleistungen
 
 Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin ist auf Antrag
@@ -313,7 +298,6 @@ Stelle zu befreien, wenn eine andere vergleichbare Prüfung vor einer
 einem staatlichen Prüfungsausschuss erfolgreich abgelegt wurde und die
 Anmeldung zur Fortbildungsprüfung innerhalb von fünf Jahren nach der
 Bekanntgabe des Bestehens der anderen Prüfung erfolgt.
-
 
 ### § 7 Bewerten der Prüfungsleistungen und Bestehen der Prüfung
 
@@ -334,9 +318,7 @@ Anlage 1 und 2 auszustellen. Im Fall der Freistellung nach § 6 sind
 Ort und Datum der anderweitig abgelegten Prüfung sowie die Bezeichnung
 des Prüfungsgremiums anzugeben.
 
-
 ## Teil 3 - Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Fachwirt für Finanzberatung und Geprüfte Fachwirtin für Finanzberatung
-
 
 ### § 8 Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
 
@@ -428,7 +410,6 @@ Kompetenzen vorhanden sind, um
 Fortbildungsabschluss „Geprüfter Fachwirt für Finanzberatung“ oder
 „Geprüfte Fachwirtin für Finanzberatung“.
 
-
 ### § 9 Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer
@@ -463,7 +444,6 @@ Voraussetzungen ist zur Prüfung zuzulassen, wer durch Vorlage von
 Zeugnissen oder auf andere Weise glaubhaft macht, Fertigkeiten,
 Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit) erworben zu
 haben, die die Zulassung zur Prüfung rechtfertigen.
-
 
 ### § 10 Gliederung und Durchführung der Prüfung
 
@@ -575,7 +555,6 @@ Prüfungsleistung und der mündlichen Ergänzungsprüfung werden
 zusammengefasst. Dabei wird die Bewertung der schriftlichen
 Prüfungsleistung doppelt gewichtet.
 
-
 ### § 11 Inhalte im Prüfungsteil A (Privatkunden)
 
 (1) Im Handlungsbereich „Organisation und Steuerung der eigenen
@@ -685,10 +664,6 @@ Qualifikationsinhalte geprüft werden:
 
 4.  Kunden bei der Umsetzung von Maßnahmen der Risikoabsicherung begleiten
     und die Kundensituation regelmäßig und anlassbezogen überprüfen.
-
-
-
-
 
 ### § 12 Inhalte im Prüfungsteil B (Geschäftskunden)
 
@@ -824,10 +799,6 @@ folgende Qualifikationsinhalte geprüft werden:
 4.  Unternehmen und Mitarbeiter und Mitarbeiterinnen in Bezug auf
     rechtliche, betriebliche und persönliche Veränderungen beraten.
 
-
-
-
-
 ### § 13 Anrechnung anderer Prüfungsleistungen
 
 Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin ist auf Antrag
@@ -837,7 +808,6 @@ Stelle zu befreien, wenn eine andere vergleichbare Prüfung vor einer
 einem staatlichen Prüfungsausschuss erfolgreich abgelegt wurde und die
 Anmeldung zur Fortbildungsprüfung innerhalb von fünf Jahren nach der
 Bekanntgabe des Bestehens der anderen Prüfung erfolgt.
-
 
 ### § 14 Bewerten der Prüfungsleistungen und Bestehen der Prüfung
 
@@ -865,16 +835,13 @@ Anlage 3 und 4 auszustellen. Im Fall der Freistellung nach § 13 sind
 Ort und Datum der anderweitig abgelegten Prüfung sowie die Bezeichnung
 des Prüfungsgremiums anzugeben.
 
-
 ### § 15 Ausbildereignung
 
 Wer die Prüfung nach § 14 bestanden hat, ist vom schriftlichen Teil
 der Prüfung der nach dem Berufsbildungsgesetz erlassenen Ausbilder-
 Eignungsverordnung befreit.
 
-
 ## Teil 4 - Gemeinsame Schlussvorschriften
-
 
 ### § 16 Wiederholung der Prüfung
 
@@ -890,7 +857,6 @@ zwei Jahren, gerechnet vom Tage der Beendigung der nicht bestandenen
 Prüfung an, zur Wiederholungsprüfung angemeldet hat. Bestandene
 Prüfungsleistungen können auf Antrag einmal wiederholt werden. In
 diesem Fall gilt das Ergebnis der letzten Prüfung.
-
 
 ### § 17 Übergangsvorschriften
 
@@ -912,11 +878,9 @@ der Prüfungsteilnehmerin die Wiederholungsprüfung nach dieser
 Verordnung durchführen; § 16 Absatz 2 findet in diesem Fall keine
 Anwendung.
 
-
 ### § 18 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2012 in Kraft.
-
 
 ### Anlage 1 (zu § 7 Absatz 4) Muster
 
@@ -927,8 +891,6 @@ Diese Verordnung tritt am 1. August 2012 in Kraft.
 
 
 *    *   (Bezeichnung der zuständigen Stelle)
-
-
 
 ## Zeugnis
 
@@ -969,9 +931,6 @@ Februar 2012 (BGBl. I S. 274) bestanden.
 
 *    *   (Siegel der zuständigen Stelle)
 
-
-
-
 ### Anlage 2 (zu § 7 Absatz 4) Muster
 
 (Fundstelle: BGBl. I 2012, 282)
@@ -982,8 +941,6 @@ Februar 2012 (BGBl. I S. 274) bestanden.
 
 
 *    *   (Bezeichnung der zuständigen Stelle)
-
-
 
 ## Zeugnis
 
@@ -1123,7 +1080,6 @@ Februar 2012 (BGBl. I S. 274) mit folgenden Ergebnissen bestanden:
 [^f1775540_01_BJNR027400012BJNE002100000]:     Den Bewertungen liegt folgender Punkteschlüssel zugrunde:
     .......................
 
-
 ### Anlage 3 (zu § 14 Absatz 3) Muster
 
 (Fundstelle: BGBl. I 2012, 283)
@@ -1133,8 +1089,6 @@ Februar 2012 (BGBl. I S. 274) mit folgenden Ergebnissen bestanden:
 
 
 *    *   (Bezeichnung der zuständigen Stelle)
-
-
 
 ## Zeugnis
 
@@ -1175,9 +1129,6 @@ Februar 2012 (BGBl. I S. 274) bestanden.
 
 *    *   (Siegel der zuständigen Stelle)
 
-
-
-
 ### Anlage 4 (zu § 14 Absatz 3) Muster
 
 (Fundstelle: BGBl. I 2012, 284 - 285)
@@ -1188,8 +1139,6 @@ Februar 2012 (BGBl. I S. 274) bestanden.
 
 
 *    *   (Bezeichnung der zuständigen Stelle)
-
-
 
 ## Zeugnis
 

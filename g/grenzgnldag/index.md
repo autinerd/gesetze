@@ -25,7 +25,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 13 v. 11.10.1995 I 1250
 
-
 ## § 1
 
 (1) Arbeitnehmer mit Wohnsitz im Königreich der Niederlande werden
@@ -72,7 +71,6 @@ Kalenderjahrs eine Lohnsteuerbescheinigung nach amtlich
 vorgeschriebenem Vordruck zu erteilen; dabei sind die Vorschriften des
 § 41b Abs. 1 Satz 2 bis 7 und Abs. 2 des Einkommensteuergesetzes
 sinngemäß anzuwenden.
-
 
 ## § 2
 
@@ -139,7 +137,6 @@ Einkommensteuergesetzes sind sinngemäß anzuwenden.
 Absatzes 1 oder 2 erfüllt, die Anwendung des § 50 Abs. 4 des
 Einkommensteuergesetzes, findet dieses Gesetz keine Anwendung.
 
-
 ## § 3
 
 Bei Arbeitnehmern, die die Voraussetzungen des § 2 erfüllen, sind auf
@@ -150,7 +147,6 @@ berücksichtigen sind; § 39d Abs. 2 Nr. 2 des Einkommensteuergesetzes
 ist insoweit sinngemäß anzuwenden. § 39a Abs. 2 Satz 4 und Abs. 3 des
 Einkommensteuergesetzes ist sinngemäß anzuwenden.
 
-
 ## § 4
 
 Arbeitnehmer, denen die Steuerklasse III bescheinigt worden ist oder
@@ -159,7 +155,6 @@ verpflichtet, die Änderung der Steuerklasse und des Freibetrags zu
 beantragen, wenn die Voraussetzungen des § 2 entfallen sind. Ist in
 diesen Fällen zu wenig Lohnsteuer erhoben worden, ist § 39a Abs. 5 des
 Einkommensteuergesetzes sinngemäß anzuwenden.
-
 
 ## § 5
 
@@ -176,7 +171,6 @@ Einkünfte als solche aus nichtselbständiger Arbeit und nicht der
 deutschen Einkommensteuer unterliegende Einkünfte des Arbeitnehmers,
 im Fall der Zusammenveranlagung auch solche des Ehegatten, in Absatz 1
 Nr. 2 der Vorschrift einzubeziehen sind.
-
 
 ## § 6
 
@@ -200,7 +194,6 @@ maßgebende Betriebsstättenfinanzamt zuständig.
 einkommensteuerpflichtigen Ehegatten eines Arbeitnehmers im Sinne des
 § 7 das Finanzamt zuständig, in dessen Bezirk der unbeschränkt
 einkommensteuerpflichtige Arbeitnehmer seinen Wohnsitz hat.
-
 
 ## § 7
 
@@ -227,7 +220,6 @@ Arbeit und die davon einbehaltene Lohnsteuer einzubeziehen sind.
 Abweichend von § 39 Abs. 3 des Einkommensteuergesetzes ist für die
 Eintragung der Steuerklassen III und IV das Finanzamt zuständig.
 
-
 ## § 8
 
 Dieses Gesetz ist erstmals für das Kalenderjahr 1994 anzuwenden. Beim
@@ -237,11 +229,9 @@ einen nach dem 31. Dezember 1993 endenden Lohnzahlungszeitraum gezahlt
 wird, und auf sonstige Bezüge, die nach dem 31. Dezember 1993
 zufließen.
 
-
 ## § 9
 
 (weggefallen)
-
 
 ## § 9
 
@@ -250,7 +240,6 @@ Steuerabzug vom Arbeitslohn gilt Satz 1 mit der Maßgabe, daß das
 Gesetz letztmals auf den laufenden Arbeitslohn anzuwenden ist, der für
 einen vor dem 1. Januar 1996 endenden Lohnzahlungszeitraum gezahlt
 wird, und auf sonstige Bezüge, die vor dem 1. Januar 1996 zufließen.
-
 
 ## § 10
 

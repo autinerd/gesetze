@@ -18,8 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 175 V v. 31.10.2006 I 2407
 
-
-
 ## § 1 Zweckvermögen
 
 (1) Die Mittel, die nach einmaligem Abzug eines dem Bundeshaushalt
@@ -37,7 +35,6 @@ bilden ein Zweckvermögen des Bundes. Die Landwirtschaftliche
 Rentenbank verwaltet dieses Zweckvermögen treuhänderisch für den Bund.
 
 (2) Das Zweckvermögen kann nur durch Gesetz aufgelöst werden.
-
 
 ## § 2 Verwendung des Zweckvermögens
 
@@ -57,14 +54,12 @@ Bundesrechnungshof.
 (3) Die Hälfte der dem Zweckvermögen zuwachsenden Zinseinkünfte ist an
 den Bundeshaushalt abzuführen.
 
-
 ## § 3 Wirtschaftsplan
 
 Alle Einnahmen und Ausgaben sowie Verpflichtungsermächtigungen des
 Zweckvermögens werden in einem Wirtschaftsplan veranschlagt. Der
 Wirtschaftsplan ist in einer Anlage zum Einzelplan 10 des
 Bundeshaushalts darzustellen.
-
 
 ## § 4 Verwaltungskosten
 

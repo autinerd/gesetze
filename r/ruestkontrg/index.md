@@ -25,7 +25,6 @@ Stand: Art. 2, 3, 4 u. 5 treten gem. Art. 6 Abs. 2 dieses G zu dem Zeitpunkt in 
 
 -
 
-
 ## Art 6
 
 (1) Der Artikel 1 dieses Gesetzes tritt am Tage nach seiner Verkündung

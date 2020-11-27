@@ -17,7 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 69
 
-
 ## I.
 
 Nach § 126 Absatz 3 des Bundesbeamtengesetzes wird der
@@ -31,7 +30,6 @@ Trennungsgeld bei Versetzungen und Abordnungen im Inland zu
 entscheiden, soweit sie zum Erlass des Verwaltungsaktes oder die
 Ablehnung des Anspruchs zuständig war.
 
-
 ## II.
 
 Nach § 127 Absatz 3 des Bundesbeamtengesetzes wird der
@@ -42,13 +40,11 @@ Bundesumzugskostengesetz und der Trennungsgeldverordnung übertragen.
 In besonderen Fällen bleibt die Vertretung des Dienstherrn dem
 Bundesministerium für Wirtschaft und Technologie vorbehalten.
 
-
 ## III.
 
 Diese Anordnung ist mit Wirkung vom 5. Februar 2009 anzuwenden. Die
 Nummern I und II sind auch anzuwenden auf bereits laufende Verfahren
 der Beschäftigten des Bundeskartellamtes.
-
 
 ## Schlussformel
 

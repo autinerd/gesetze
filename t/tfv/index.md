@@ -16,9 +16,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 705 (1010)
 
-
 ## Erster Abschnitt - Allgemeines
-
 
 ### § 1 Geltungsbereich
 
@@ -36,7 +34,6 @@ Eisenbahnpersonal.
 (2) Abweichend von Absatz 1 findet diese Verordnung keine Anwendung
 innerhalb des Bereichs von Serviceeinrichtungen nach § 2 Absatz 3c
 Nummer 7 des Allgemeinen Eisenbahngesetzes.
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -105,10 +102,6 @@ Im Sinne dieser Verordnung bedeutet:
     S. 467) geändert worden ist; Fahrten im Baugleis sind stets
     Rangierfahrten.
 
-
-
-
-
 ### § 3 Fahrberechtigung
 
 (1) Wer ein Triebfahrzeug eigenständig führt, bedarf der
@@ -167,7 +160,6 @@ Einzelfall ein Triebfahrzeug führen soll.
 beim Führen von Triebfahrzeugen mitzuführen und berechtigten Personen
 auf Verlangen zur Prüfung auszuhändigen.
 
-
 ### § 4 Geografischer Geltungsbereich, ausstellende Stelle und Eigentum
 
 (1) Der Triebfahrzeugführerschein wird von der zuständigen Behörde
@@ -183,9 +175,7 @@ Anspruch auf Ausstellung eines Nachweises einer Zusatzbescheinigung.
 Der Nachweis gilt nicht als Bescheinigung im Sinne des § 3 Absatz 1
 Satz 2 Nummer 2.
 
-
 ## Zweiter Abschnitt - Erteilung des Triebfahrzeugführerscheins und Ausstellung der Zusatzbescheinigung
-
 
 ### § 5 Voraussetzungen
 
@@ -263,7 +253,6 @@ nach Anlage 7 Nummer 6 umfassen, wobei der Nachweis der Sprachkenntnis
 für deutsche Infrastrukturen mit Vorlage eines Abschlusses nach Absatz
 1 Satz 1 Nummer 2 einer deutschen Schule als erbracht gilt.
 
-
 ### § 6 Ausbildung
 
 (1) Die Ausbildung von Triebfahrzeugführern umfasst die Fertigkeiten
@@ -303,7 +292,6 @@ beruflicher Befähigungsnachweise.
 entsprechend Anhang III Abschnitt 2 Buchstabe e der Richtlinie
 2004/49/EG ein, um sicherzustellen, dass die Befähigung des Personals
 aufrechterhalten wird.
-
 
 ### § 7 Prüfungen
 
@@ -372,7 +360,6 @@ niedergelegt hat, zur Verfügung zu stellen. Die Prüfungsinhalte und
 Prüfungsverfahren gibt der Prüfer unter Berücksichtigung der Anlagen 6
 und 7 vor.
 
-
 ### § 8 Erteilung des Triebfahrzeugführerscheins
 
 (1) Der Triebfahrzeugführerschein ist vom Bewerber oder von seinem
@@ -427,7 +414,6 @@ des Triebfahrzeugführerscheins einschließlich der Neuerteilung eines
 befristet ausgesetzten oder eines entzogenen
 Triebfahrzeugführerscheins auf ihrer Internetseite.
 
-
 ### § 9 Ausstellung der Zusatzbescheinigung
 
 (1) Der Unternehmer legt Verfahren für die Ausstellung oder Änderung
@@ -462,9 +448,7 @@ zu vermitteln. Er legt im Rahmen seines Sicherheitsmanagementsystems
 fest, wie die Streckenkenntnis erworben, dokumentiert und überwacht
 wird.
 
-
 ## Dritter Abschnitt - Einsatz als Triebfahrzeugführer
-
 
 ### § 10 Register der Triebfahrzeugführerscheine und Zusatzbescheinigungen
 
@@ -553,7 +537,6 @@ Datenformat sowie die Anforderungen zur Sicherung gegen unbefugten
 Zugriff auf die Register und bei der Datenfernübertragung fest und
 veröffentlicht sie auf ihrer Internetseite.
 
-
 ### § 11 Regelmäßige Überprüfungen
 
 (1) Jeder Unternehmer hat im Rahmen seines
@@ -578,7 +561,6 @@ Nummer 2 geregelten Mindesthäufigkeit fest, in welchen Abständen die
 Überprüfungen stattfinden. Jede Überprüfung bestätigt der Unternehmer
 durch einen Vermerk auf der Zusatzbescheinigung und trägt sie im
 Register nach § 10 Absatz 4 ein.
-
 
 ### § 12 Überwachung der Triebfahrzeugführer
 
@@ -610,7 +592,6 @@ Triebfahrzeugführer während seines Dienstes zu keinem Zeitpunkt unter
 dem Einfluss von Stoffen steht, die seine Konzentration, seine
 Aufmerksamkeit oder sein Verhalten beeinträchtigen können.
 
-
 ### § 13 Beendigung oder Wechsel des Beschäftigungsverhältnisses
 
 (1) Wenn das Beschäftigungsverhältnis eines Triebfahrzeugführers bei
@@ -629,9 +610,7 @@ Zusatzbescheinigung die nachgewiesenen Befähigungen und Kenntnisse
 berücksichtigen, soweit sie auf die neue Zusatzbescheinigung
 zutreffen.
 
-
 ## Vierter Abschnitt - Ausbildungs-, Prüfungs- und Überwachungsorganisation
-
 
 ### § 14 Anerkennung von Personen und Stellen für die Ausbildung – Ausbildungsorganisation
 
@@ -727,7 +706,6 @@ Stelle für die Ausbildung von sonstigem, mit sicherheitsrelevanten
 betrieblichen Aufgaben betrautem Eisenbahnpersonal an. Die Absätze 1
 bis 5 gelten entsprechend.
 
-
 ### § 15 Anerkennung von Personen und Stellen für die Prüfung – Prüfungsorganisation
 
 (1) Wer Triebfahrzeugführer prüfen will, bedarf der Anerkennung. Die
@@ -806,7 +784,6 @@ die Prüfung von Triebfahrzeugführern an, wenn der Antragsteller
 (2) Die Anerkennung gilt längstens für fünf Jahre. Sie kann verlängert
 werden.
 
-
 ### § 16 Anerkennung von Ärzten und Psychologen
 
 (1) Wer Tauglichkeitsuntersuchungen bei Triebfahrzeugführern
@@ -836,7 +813,6 @@ Qualifikationen nach den Absätzen 2 und 3 beschäftigt.
 Jahr an einer von der zuständigen Behörde organisierten Fortbildung
 teilzunehmen.
 
-
 ### § 17 Gemeinsame Bestimmungen für die Ausbildungs-, Prüfungs- und Überwachungsorganisation
 
 (1) Die zuständige Behörde veröffentlicht auf ihrer Internetseite ein
@@ -862,15 +838,12 @@ Personen und Stellen nach §§ 14, 15 und 16. Ausgenommen sind
 Tätigkeiten, die bereits von den Sicherheitsmanagementsystemen der
 Unternehmer nach der Richtlinie 2004/49/EG erfasst werden.
 
-
 ### § 18 Rechts- und Fachaufsicht
 
 Die zuständige Behörde führt die Rechts- und Fachaufsicht über die von
 ihr nach dieser Verordnung anerkannten Personen und Stellen.
 
-
 ## Fünfter Abschnitt - Kontrollen und Ordnungswidrigkeiten
-
 
 ### § 19 Kontrollen durch die zuständige Behörde
 
@@ -937,7 +910,6 @@ Untersagung des Führens eines Triebfahrzeuges nach Absatz 3, 4 oder 5
 bis zum Abschluss des Verfahrens nach Artikel 29 Absatz 5 der
 Richtlinie 2007/59/EG auf dem Gebiet der Bundesrepublik Deutschland
 aufrechterhalten.
-
 
 ### § 20 Ordnungswidrigkeiten
 
@@ -1008,12 +980,7 @@ Allgemeinen Eisenbahngesetzes handelt, wer vorsätzlich oder fahrlässig
 15. entgegen § 21 Absatz 7 die dort genannten Daten nicht, nicht richtig,
     nicht vollständig oder nicht rechtzeitig zur Verfügung stellt.
 
-
-
-
-
 ## Sechster Abschnitt - Schlussbestimmungen
-
 
 ### § 21 Übergangsvorschriften
 
@@ -1069,7 +1036,6 @@ Triebfahrzeugführer erworben hat.
 nach Artikel 37 Nummer 5 der Richtlinie 2007/59/EG beantragt werden
 kann, haben alle Unternehmer der zuständigen Behörde auf Verlangen die
 dafür erforderlichen Daten zur Verfügung zu stellen.
-
 
 ### Anlage 1 (zu § 3 Absatz 1 Satz 2 Nummer 1, § 5 Absatz 1 und § 8 Absatz 2 und 3) Gemeinschaftsmodell für den Triebfahrzeugführerschein
 
@@ -1220,9 +1186,6 @@ dafür erforderlichen Daten zur Verfügung zu stellen.
 
     ![bgbl1_2011_j0705-1_0010.jpg](bgbl1_2011_j0705-1_0010.jpg)
     ![bgbl1_2011_j0705-1_0020.jpg](bgbl1_2011_j0705-1_0020.jpg)
-
-
-
 
 ### Anlage 2 (zu § 3 Absatz 1 Satz 2 Nummer 2 und § 5 Absatz 2) Gemeinschaftsmodell für die Zusatzbescheinigung
 
@@ -1504,20 +1467,12 @@ D.  Gemeinschaftsmodell für die Zusatzbescheinigung
 
     *        *
 
-
-
-
-
-
-
 ### Anlage 3 (zu § 5 Absatz 1 und § 8 Absatz 2) Muster eines vorläufigen Führerscheins
 
    (Fundstelle: BGBl. I 2011, 720)
 
 Der vorläufige Führerschein ist auf DIN A4-Papier und nach folgendem
 Muster zu erstellen:
-
-
 
 ### Anlage 4 (zu § 5 Absatz 1 Satz 1 Nummer 3 und 4, § 12 Absatz 4 sowie § 16) Medizinische und psychologische Anforderungen
 
@@ -1719,10 +1674,6 @@ Muster zu erstellen:
     Ferner muss bei Triebfahrzeugführern, die älter als 40 Jahre sind, ein
     Ruhe-EKG durchgeführt werden.
 
-
-
-
-
 ### Anlage 5 (zu § 5 Absatz 1 Satz 1 Nummer 5 und § 6 Absatz 1) Allgemeine Fachkenntnisse für den Erwerb des Triebfahrzeugführerscheins
 
 (Fundstelle: BGBl. I 2011, 723)
@@ -1820,16 +1771,6 @@ Muster zu erstellen:
 
 
         ii) Abschlusstätigkeiten bei Schichtende.
-
-
-
-
-
-
-
-
-
-
 
 ### Anlage 6 (zu § 5 Absatz 2 Satz 1 Nummer 2, § 6 Absatz 1 und § 7 Absatz 7) Fahrzeugbezogene Fachkenntnisse für den Erwerb der Zusatzbescheinigung
 
@@ -2010,10 +1951,6 @@ Muster zu erstellen:
     Der Triebfahrzeugführer muss beim Abstellen von Zügen oder Zugteilen
     die erforderlichen Maßnahmen treffen können, damit diese sich nicht
     unbeabsichtigt in Bewegung setzen.
-
-
-
-
 
 ### Anlage 7 (zu § 5 Absatz 2 Satz 2, § 6 Absatz 1, § 7 Absatz 7, § 14 Absatz 3 Nummer 2 Buchstabe c und § 15 Absatz 1 Satz 2 Nummer 2 Buchstabe e) Infrastrukturbezogene Fachkenntnisse für den Erwerb der Zusatzbescheinigung
 
@@ -2242,16 +2179,6 @@ Muster zu erstellen:
         *
             –   kann mit Hilfe auswendig gelernter Sätze sprechen
 
-
-
-
-
-
-
-
-
-
-
 ### Anlage 8 (zu § 6 Absatz 3) Ausbildungsmethode
 
 (Fundstelle: BGBl. I 2011, 728)
@@ -2298,13 +2225,6 @@ Muster zu erstellen:
 
 
     b)  durch Einsichtnahme in die betrieblichen Unterlagen.
-
-
-
-
-
-
-
 
 ### Anlage 9 (zu § 10 Absatz 2 und 3) Register der Triebfahrzeugführerscheine
 
@@ -3154,13 +3074,6 @@ Muster zu erstellen:
 
     f)  den Eisenbahnaufsichtsbehörden der Länder.
 
-
-
-
-
-
-
-
 ### Anlage 10 (zu § 10 Absatz 4 und 6) Register der Zusatzbescheinigungen für Triebfahrzeugführer
 
 (Fundstelle: BGBl. I 2011, 733 - 736)
@@ -3889,13 +3802,6 @@ Muster zu erstellen:
 
     d)  den Eisenbahnaufsichtsbehörden der Länder.
 
-
-
-
-
-
-
-
 ### Anlage 11 (zu § 11) Häufigkeit der regelmäßigen Überprüfungen
 
 (Fundstelle: BGBl. I 2011, 737)
@@ -3932,13 +3838,6 @@ Muster zu erstellen:
 
 
     c)  Fahrzeugkenntnisse: alle drei Jahre.
-
-
-
-
-
-
-
 
 ### Anlage 12 (zu § 13 Absatz 2) Gemeinschaftsmodell für den Nachweis einer Zusatzbescheinigung
 

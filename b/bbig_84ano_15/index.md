@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1987, 2240
 
-
-
 ## I.
 
 Auf Grund des § 84 Abs. 1 des Berufsbildungsgesetzes vom 14. August
@@ -38,11 +36,9 @@ Bundesminister des Innern
 zur zuständigen Stelle für den Geschäftsbereich des Bundesministers
 für Umwelt, Naturschutz und Reaktorsicherheit.
 
-
 ## II.
 
 Die Anordnung tritt am Tage nach der Bekanntmachung in Kraft.
-
 
 ## Schlußformel
 

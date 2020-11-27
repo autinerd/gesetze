@@ -16,15 +16,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1951, 471
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 6 des Gesetzes zur vorläufigen Regelung der
 Rechtsverhältnisse des Reichsvermögens und der preußischen
 Beteiligungen vom 21. Juli 1951 (Bundesgesetzbl. I S. 467) wird mit
 Zustimmung des Bundesrates folgendes verordnet:
-
 
 ## § 1
 
@@ -83,7 +80,6 @@ Verwaltungsrichtlinien des Bundes übertragen werden, soweit und
 solange nicht die Verwaltung durch den Bund erforderlich oder
 zweckmäßig ist.
 
-
 ## § 2
 
 (1) Die Verwaltung der Beteiligungen des Deutschen Reichs und des
@@ -108,7 +104,6 @@ beteiligten Länder vorbehalten, sofern ein Land an einem Unternehmen
 bereits unabhängig von der Beteiligung des Deutschen Reichs oder des
 ehemaligen Landes Preußen beteiligt ist.
 
-
 ## § 3
 
 Die Verwaltung von Vermögenswerten des Deutschen Reichs, die am 8. Mai
@@ -125,7 +120,6 @@ Arbeitsvermittlung, Berufsberatung und Arbeitslosenversicherung
 gedient haben, obliegt die Verwaltung dieser Vermögenswerte bis zur
 Errichtung einer Bundesanstalt für Arbeitsvermittlung und
 Arbeitslosenversicherung den Ländern.
-
 
 ## § 4
 
@@ -152,10 +146,6 @@ vorgesehenen Verfahren anerkannt worden ist.
     gegebenen Mitteln des Deutschen Reichs (Bundes) wesentlich erhöht
     worden ist; die Bestimmungen der §§ 1 und 3 bleiben unberührt.
 
-
-
-
-
 ## § 5
 
 (1) Die Nutzungen der unter die Bestimmungen des § 1 Abs. 1 des
@@ -172,7 +162,6 @@ denjenigen, dem die Verwaltung zusteht.
 Artikel 134 Abs. 4 und Artikel 135 Abs. 6 des Grundgesetzes für die
 Bundesrepublik Deutschland zu erlassenden Bundesgesetzen vorbehalten.
 
-
 ## § 6
 
 Diente ein Gebäude, das nach § 6 Abs. 1 des Gesetzes von einer
@@ -188,7 +177,6 @@ in Betracht kommenden Verwaltungsangehörigen des Bundes und der Länder
 im Zeitpunkt des Erlasses dieser Verordnung entspricht. Die Zahl der
 Bundesbediensteten, die für Zollgrenzaufgaben eingesetzt sind, ist bei
 dieser Berechnung mit dem Eineinhalbfachen anzusetzen.
-
 
 ## § 7
 
@@ -210,7 +198,6 @@ beteiligten Länder vorbehalten, sofern ein Land an einem Unternehmen
 bereits unabhängig von der Beteiligung des Deutschen Reichs oder des
 ehemaligen Landes Preußen beteiligt ist.
 
-
 ## § 8
 
 Werden Vermögenswerte vom Bund verwaltet, so ist dasjenige Land, in
@@ -218,7 +205,6 @@ dem der Vermögenswert belegen ist, vor allen Maßnahmen, die erhebliche
 Interessen des Landes berühren oder von grundsätzlicher Bedeutung
 sind, zu hören, es sei denn, daß die Vermögenswerte zum
 Verwaltungsvermögen des Bundes gehören.
-
 
 ## § 9
 
@@ -233,7 +219,6 @@ der Wert des Grundstücks oder Grundstücksteiles nicht um mehr als
 sofern der Landesfinanzminister dem Verkauf oder der Belastung
 widerspricht.
 
-
 ## § 10
 
 Für die Rechnungsprüfung und die Prüfung im Sinne des
@@ -243,7 +228,6 @@ zuständig, der nach § 6 des Gesetzes und nach dieser Verordnung die
 Verwaltung zusteht. In den Fällen des § 1 Abs. 4 und 5 und des § 7
 Abs. 2 dieser Verordnung prüfen der Bundesrechnungshof und der
 zuständige Landesrechnungshof gemeinsam.
-
 
 ## § 11
 
@@ -259,18 +243,15 @@ entschieden; ist ein sonstiger Aufgabenträger oder eine Gemeinde
 Verwaltungsbehörde oder des obersten Verwaltungsbeamten des
 Aufgabenträgers oder der Gemeinde (Gemeindeverbandes) erforderlich.
 
-
 ## § 12
 
 Die Vorschriften dieser Verordnung treten mit Wirkung vom 1. August
 1951 in Kraft.
 
-
 ## Schlußformel
 
 Der Stellvertreter des Bundeskanzlers
 Der Bundesminister der Finanzen
-
 
 ## Anlage
 

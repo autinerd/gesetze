@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 5 Abs. 4 G v. 1.6.2012 I 1224
 
-
 ## Eingangsformel
 
 Auf Grund des § 42 Abs. 2 des Aufenthaltsgesetzes vom 30. Juli 2004
@@ -33,14 +32,9 @@ März 1997, BGBl. I S. 594, 595), von denen § 288 durch Artikel 1 Nr.
 2848) geändert worden ist, verordnet das Bundesministerium für
 Wirtschaft und Arbeit:
 
-
 ## Teil 1 - Zulassung von im Inland lebenden Ausländern zur Ausübung einer Beschäftigung
 
-
-
 ### Abschnitt 1 - Zustimmungsfreie Beschäftigungen
-
-
 
 #### § 1 Grundsatz
 
@@ -64,14 +58,12 @@ Die Erlaubnis zur Ausübung einer Beschäftigung für Ausländer,
 kann in den Fällen der §§ 2 bis 4 ohne Zustimmung der Bundesagentur
 für Arbeit erteilt werden.
 
-
 #### § 2 Zustimmungsfreie Beschäftigungen nach der Beschäftigungsverordnung
 
 Die Ausübung von Beschäftigungen nach § 2 Nr. 1 und 2, §§ 3, 3a, 3b, 4
 Nr. 1 bis 3, §§ 5, 7 Nr. 3 bis 5, §§ 9 und 12 der
 Beschäftigungsverordnung kann Ausländern ohne Zustimmung der
 Bundesagentur für Arbeit erlaubt werden.
-
 
 #### § 3 Familienangehörige
 
@@ -85,10 +77,6 @@ Keiner Zustimmung bedarf die Ausübung einer Beschäftigung
 2.  von Ehegatten, Lebenspartnern, Verwandten und Verschwägerten ersten
     Grades eines Arbeitgebers in dessen Betrieb, wenn der Arbeitgeber mit
     diesen in häuslicher Gemeinschaft lebt.
-
-
-
-
 
 #### § 3a Ausbildung und Beschäftigung von im Jugendalter eingereisten Ausländern
 
@@ -113,10 +101,6 @@ die Ausübung einer Beschäftigung
 
 2.  in einer betrieblichen Ausbildung in einem staatlich anerkannten oder
     vergleichbar geregelten Ausbildungsberuf.
-
-
-
-
 
 #### § 3b Beschäftigung bei Vorbeschäftigungszeiten oder längerem Voraufenthalt
 
@@ -163,24 +147,19 @@ begrenzt ist, werden auf die Aufenthaltszeit angerechnet, wenn dem
 Ausländer ein Aufenthaltstitel für einen anderen Zweck als den der
 Beschäftigung erteilt wird.
 
-
 #### § 4 Sonstige zustimmungsfreie Beschäftigungen
 
 Keiner Zustimmung bedarf die Ausübung einer Beschäftigung von
 Ausländern, die vorwiegend zu ihrer Heilung, Wiedereingewöhnung,
 sittlichen Besserung oder Erziehung beschäftigt werden.
 
-
 ### Abschnitt 2 - Zustimmungen zu Erlaubnissen zur Ausübung einer Beschäftigung ohne Vorrangprüfung
-
-
 
 #### § 5 Grundsatz
 
 Die Bundesagentur für Arbeit kann die Zustimmung zur Ausübung einer
 Beschäftigung abweichend von § 39 Abs. 2 Satz 1 Nr. 1 des
 Aufenthaltsgesetzes nach den Vorschriften dieses Abschnitts erteilen.
-
 
 #### § 6 Fortsetzung eines Arbeitsverhältnisses
 
@@ -193,7 +172,6 @@ Verordnung, der Beschäftigungsverordnung oder einer
 zwischenstaatlichen Vereinbarung eine zeitliche Begrenzung bestimmt
 ist.
 
-
 #### § 6a Beschäftigung von Opfern von Straftaten
 
 Die Zustimmung zur Ausübung einer Beschäftigung kann ohne Prüfung nach
@@ -202,14 +180,12 @@ dem Ausländer als Opfer einer Straftat eine Aufenthaltserlaubnis für
 seine vorübergehende Anwesenheit für ein Strafverfahren wegen dieser
 Straftat nach § 25 Abs. 4a des Aufenthaltsgesetzes erteilt worden ist.
 
-
 #### § 7 Härtefallregelung
 
 Die Zustimmung zur Ausübung einer Beschäftigung kann ohne Prüfung nach
 § 39 Abs. 2 Satz 1 Nr. 1 des Aufenthaltsgesetzes erteilt werden, wenn
 deren Versagung unter Berücksichtigung der besonderen Verhältnisse des
 einzelnen Falles eine besondere Härte bedeuten würde.
-
 
 #### § 8 Familienangehörige von Fachkräften
 
@@ -218,15 +194,11 @@ Die Zustimmung zur Ausübung einer Beschäftigung wird ohne Prüfung nach
 eines Ausländers, der nach § 31 Satz 1 Nummer 1 der
 Beschäftigungsverordnung eine Beschäftigung ausüben darf, erteilt.
 
-
 #### § 9 (weggefallen)
 
 -
 
-
 ### Abschnitt 3 - Zulassung von geduldeten Ausländern zur Ausübung einer Beschäftigung
-
-
 
 #### § 10 Grundsatz
 
@@ -252,7 +224,6 @@ haben. Die §§ 39 bis 41 des Aufenthaltsgesetzes gelten entsprechend.
 Die Zustimmung nach Satz 1 Nr. 2 wird ohne Beschränkungen nach § 13
 erteilt.
 
-
 #### § 11 Versagung der Erlaubnis
 
 Geduldeten Ausländern darf die Ausübung einer Beschäftigung nicht
@@ -264,10 +235,7 @@ vertreten hat ein Ausländer die Gründe insbesondere, wenn er das
 Abschiebungshindernis durch Täuschung über seine Identität oder seine
 Staatsangehörigkeit oder durch falsche Angaben herbeiführt.
 
-
 ## Teil 2 - Zuständigkeits- und Verfahrensregelungen
-
-
 
 ### § 12 Zuständigkeit
 
@@ -281,7 +249,6 @@ zuständigen Stelle des Arbeitgebers als Beschäftigungsort.
 
 (2) Die Bundesagentur für Arbeit kann die Zuständigkeit abweichend von
 Absatz 1 auf andere Dienststellen übertragen.
-
 
 ### § 13 Beschränkung der Zustimmung
 
@@ -305,7 +272,6 @@ beschränkt werden.
 (2) Die Zustimmung wird für die Dauer der Beschäftigung, längstens für
 drei Jahre erteilt.
 
-
 ### § 14 Reichweite der Zustimmung
 
 (1) Die Zustimmung zur Ausübung einer Beschäftigung wird jeweils zu
@@ -327,7 +293,6 @@ Aufenthaltsgestattung oder Duldung besitzen.
 erteilt worden, erlischt sie mit der Beendigung dieses
 Beschäftigungsverhältnisses.
 
-
 ### § 14a Zustimmungsfiktion, Vorabprüfung
 
 (1) Die Zustimmung zur Ausübung einer Beschäftigung gilt als erteilt,
@@ -344,10 +309,7 @@ Voraussetzungen für eine spätere Zustimmung vorliegen, wenn der
 Arbeitgeber die hierzu erforderlichen Auskünfte erteilt hat und das
 Verfahren dadurch beschleunigt wird.
 
-
 ## Teil 3 - Schlussvorschriften
-
-
 
 ### § 15 Assoziierungsabkommen EWG-Türkei
 
@@ -356,7 +318,6 @@ EWG-Türkei (Amtliche Nachrichten der Bundesanstalt für Arbeit Nr.
 1/1981 S. 2) über den Zugang türkischer Arbeitnehmerinnen und
 Arbeitnehmer und ihrer Familienangehörigen zum Arbeitsmarkt bleiben
 unberührt.
-
 
 ### § 16 Übergangsregelung
 
@@ -368,7 +329,6 @@ Beschäftigung.
 (2) Eine bis zum 31. Dezember 2004 arbeitsgenehmigungsfrei
 aufgenommene Beschäftigung gilt ab dem 1. Januar 2005 als
 zustimmungsfrei.
-
 
 ### § 17 Inkrafttreten
 

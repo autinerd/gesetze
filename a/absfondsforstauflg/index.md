@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 2 Abs. 82 G v. 22.12.2011 I 3044
 
-
 ## § 1 Auflösung und Abwicklung
 
 (1) Die Anstalt Absatzförderungsfonds der deutschen Forst- und
@@ -48,7 +47,6 @@ Zweck der Abwicklung dienen.
 Ernährung, Landwirtschaft und Verbraucherschutz im Bundesanzeiger
 bekannt zu geben.
 
-
 ## § 2 Kostentragung und Vermögensüberschussverteilung
 
 (1) Die Kosten der Abwicklung sind aus dem Vermögen der Anstalt zu
@@ -61,7 +59,6 @@ das Zweckvermögen des Bundes bei der Landwirtschaftlichen Rentenbank
 über. Die dem Zweckvermögen nach Satz 1 zugewachsenen Finanzmittel
 sind im Rahmen des § 2 des Gesetzes über das Zweckvermögen des Bundes
 bei der Landwirtschaftlichen Rentenbank zu verwenden.
-
 
 ## § 3 Aufhebung des Holzabsatzfondsgesetzes und der Holzabsatzfondsverordnung
 

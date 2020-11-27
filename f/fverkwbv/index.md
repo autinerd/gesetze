@@ -18,13 +18,11 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 14.4.2003 I 529
 
-
 ## Eingangsformel
 
 Auf Grund des § 1 Abs. 2 des
 Verkehrswegeplanungsbeschleunigungsgesetzes vom 16. Dezember 1991
 (BGBl. I S. 2174) verordnet der Bundesminister für Verkehr:
-
 
 ## § 1 Verkehrswege der Eisenbahnen des Bundes
 
@@ -78,10 +76,6 @@ Verkehrswege der Eisenbahnen des Bundes:
 
 12. Dresden-Chemnitz-Plauen-Hof-Nürnberg zwischen der Landesgrenze Sachsen
     und Nürnberg.
-
-
-
-
 
 ## § 2 Bundesfernstraßen
 
@@ -221,10 +215,6 @@ Bundesfernstraßen:
 
 37. B 173 zwischen der Landesgrenze Sachsen und der A 9 bei Hof.
 
-
-
-
-
 ## § 3 Bundeswasserstraßen
 
 Fernverkehrswege im Sinne des § 1 Abs. 1 Nr. 5 des
@@ -238,14 +228,9 @@ Bundeswasserstraßen:
 2.  Mittellandkanal zwischen der Landesgrenze Sachsen-Anhalt und dem
     Wasserstraßenkreuz Minden.
 
-
-
-
-
 ## § 4 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlußformel
 

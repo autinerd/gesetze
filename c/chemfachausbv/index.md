@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 906
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
@@ -26,12 +24,10 @@ zuletzt durch Artikel 184 Nr. 1 der Verordnung vom 25. November 2003
 für Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium
 für Bildung und Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Produktionsfachkraft Chemie wird staatlich
 anerkannt.
-
 
 ## § 2 Ausbildungsdauer
 
@@ -43,7 +39,6 @@ einer Verordnung gemäß § 29 Abs. 1 des Berufsbildungsgesetzes als
 erstes Jahr der Berufsausbildung anzurechnen ist, beginnen die
 betriebliche Ausbildung im zweiten Ausbildungsjahr.
 
-
 ## § 3 Zielsetzung der Berufsausbildung
 
 Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen
@@ -54,14 +49,12 @@ Planen, Durchführen und Kontrollieren einschließt. Die in Satz 1
 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 9 und 10
 nachzuweisen.
 
-
 ## § 4 Berufsfeldbreite Grundbildung
 
 Die Ausbildung im ersten Jahr vermittelt eine berufsfeldbreite
 Grundbildung, wenn die betriebliche Ausbildung nach dieser Verordnung
 und die Ausbildung in der Berufsschule nach den landesrechtlichen
 Vorschriften über das Berufsgrundbildungsjahr erfolgen.
-
 
 ## § 5 Ausbildungsberufsbild
 
@@ -134,10 +127,6 @@ Fertigkeiten und Kenntnisse:
 
 11. Herstellen und Verarbeiten von Produkten.
 
-
-
-
-
 ## § 6 Ausbildungsrahmenplan
 
 Die Fertigkeiten und Kenntnisse nach § 5 sollen nach der in der Anlage
@@ -147,13 +136,11 @@ dem Ausbildungsrahmenplan abweichende sachliche und zeitliche
 Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit
 betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
 ## § 7 Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des
 Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan
 zu erstellen.
-
 
 ## § 8 Berichtsheft
 
@@ -161,7 +148,6 @@ Die Auszubildenden haben ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden
 haben das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 9 Zwischenprüfung
 
@@ -196,10 +182,6 @@ insbesondere in Betracht:
 
 
 2.  Wartung und Installationstechnik.
-
-
-
-
 
 ## § 10 Abschlussprüfung
 
@@ -354,14 +336,12 @@ müssen mindestens ausreichende Leistungen, in dem weiteren
 Prüfungsbereich dürfen keine ungenügenden Leistungen erbracht worden
 sein.
 
-
 ## § 11 Nichtanwenden von Vorschriften
 
 Die bisher festgelegten Berufsbilder, Berufsbildungspläne und
 Prüfungsanforderungen für den Ausbildungsberuf
 Chemiebetriebsjungwerker sind vorbehaltlich des § 12 nicht mehr
 anzuwenden.
-
 
 ## § 12 Übergangsregelung
 
@@ -370,11 +350,9 @@ Verordnung bestehen, sind die bisherigen Vorschriften weiter
 anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
 Anwendung der Vorschriften dieser Verordnung.
 
-
 ## § 13 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2005 in Kraft.
-
 
 ## Anlage (zu § 6) Ausbildungsrahmenplan für die Berufsausbildung zur Produktionsfachkraft Chemie
 

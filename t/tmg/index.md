@@ -36,10 +36,7 @@ Informationsgesellschaft (ABl. EG Nr. L 204 S. 37), geändert durch die
 Richtlinie 98/48/EG des Europäischen Parlaments und des Rates vom 20.
 Juli 1998 (ABl. EG Nr. L 217 S. 18), sind beachtet worden.
 
-
 ## Abschnitt 1 - Allgemeine Bestimmungen
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -80,10 +77,6 @@ Mediendienste auf Abruf gelten nicht für Dienste, die
     vom 17.10.1989, S. 23), die zuletzt durch die Richtlinie 2007/65/EG
     (ABl. L 332 vom 18.12.2007, S. 27) geändert worden ist, empfangen
     werden.
-
-
-
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -146,7 +139,6 @@ Einer juristischen Person steht eine Personengesellschaft gleich, die
 mit der Fähigkeit ausgestattet ist, Rechte zu erwerben und
 Verbindlichkeiten einzugehen.
 
-
 ### § 2a Europäisches Sitzland
 
 (1) Innerhalb des Geltungsbereichs der Richtlinie 2000/31/EG des
@@ -198,10 +190,6 @@ a)  eine in Deutschland gelegene Satelliten-Bodenstation für die
 
 b)  eine Deutschland gehörende Übertragungskapazität eines Satelliten
     nutzen.
-
-
-
-
 
 ### § 3 Herkunftslandprinzip
 
@@ -326,15 +314,11 @@ sehen Artikel 3 Abs. 4 und 5 der Richtlinie 2000/31/EG sowie Artikel
 2a Absatz 4 und 5 der Richtlinie 89/552/EWG Konsultations- und
 Informationspflichten vor.
 
-
 ## Abschnitt 2 - Zulassungsfreiheit und Informationspflichten
-
-
 
 ### § 4 Zulassungsfreiheit
 
 Telemedien sind im Rahmen der Gesetze zulassungs- und anmeldefrei.
-
 
 ### § 5 Allgemeine Informationspflichten
 
@@ -407,7 +391,6 @@ unmittelbar erreichbar und ständig verfügbar zu halten:
 (2) Weitergehende Informationspflichten nach anderen
 Rechtsvorschriften bleiben unberührt.
 
-
 ### § 6 Besondere Informationspflichten bei kommerziellen Kommunikationen
 
 (1) Diensteanbieter haben bei kommerziellen Kommunikationen, die
@@ -446,10 +429,7 @@ des Absenders oder den kommerziellen Charakter der Nachricht erhält.
 (3) Die Vorschriften des Gesetzes gegen den unlauteren Wettbewerb
 bleiben unberührt.
 
-
 ## Abschnitt 3 - Verantwortlichkeit
-
-
 
 ### § 7 Allgemeine Grundsätze
 
@@ -464,7 +444,6 @@ Nutzung von Informationen nach den allgemeinen Gesetzen bleiben auch
 im Falle der Nichtverantwortlichkeit des Diensteanbieters nach den §§
 8 bis 10 unberührt. Das Fernmeldegeheimnis nach § 88 des
 Telekommunikationsgesetzes ist zu wahren.
-
 
 ### § 8 Durchleitung von Informationen
 
@@ -492,7 +471,6 @@ kurzzeitige Zwischenspeicherung dieser Informationen, soweit dies nur
 zur Durchführung der Übermittlung im Kommunikationsnetz geschieht und
 die Informationen nicht länger gespeichert werden, als für die
 Übermittlung üblicherweise erforderlich ist.
-
 
 ### § 9 Zwischenspeicherung zur beschleunigten Übermittlung von Informationen
 
@@ -529,7 +507,6 @@ zu gestalten, nicht verantwortlich, sofern sie
 
 § 8 Abs. 1 Satz 2 gilt entsprechend.
 
-
 ### § 10 Speicherung von Informationen
 
 Diensteanbieter sind für fremde Informationen, die sie für einen
@@ -550,10 +527,7 @@ Nutzer speichern, nicht verantwortlich, sofern
 Satz 1 findet keine Anwendung, wenn der Nutzer dem Diensteanbieter
 untersteht oder von ihm beaufsichtigt wird.
 
-
 ## Abschnitt 4 - Datenschutz
-
-
 
 ### § 11 Anbieter-Nutzer-Verhältnis
 
@@ -581,7 +555,6 @@ zugänglich zu machen.
 Verwendung personenbezogener Daten der Nutzer nur § 15 Absatz 8 und §
 16 Absatz 2 Nummer 4.
 
-
 ### § 12 Grundsätze
 
 (1) Der Diensteanbieter darf personenbezogene Daten zur Bereitstellung
@@ -598,7 +571,6 @@ eingewilligt hat.
 (3) Soweit nichts anderes bestimmt ist, sind die jeweils geltenden
 Vorschriften für den Schutz personenbezogener Daten anzuwenden, auch
 wenn die Daten nicht automatisiert verarbeitet werden.
-
 
 ### § 13 Pflichten des Diensteanbieters
 
@@ -684,7 +656,6 @@ Person oder zu seinem Pseudonym gespeicherten Daten zu erteilen. Die
 Auskunft kann auf Verlangen des Nutzers auch elektronisch erteilt
 werden.
 
-
 ### § 14 Bestandsdaten
 
 (1) Der Diensteanbieter darf personenbezogene Daten eines Nutzers nur
@@ -702,7 +673,6 @@ Bundesnachrichtendienstes oder des Militärischen Abschirmdienstes oder
 des Bundeskriminalamtes im Rahmen seiner Aufgabe zur Abwehr von
 Gefahren des internationalen Terrorismus oder zur Durchsetzung der
 Rechte am geistigen Eigentum erforderlich ist.
-
 
 ### § 15 Nutzungsdaten
 
@@ -778,7 +748,6 @@ mehr benötigt werden. Der betroffene Nutzer ist zu unterrichten,
 sobald dies ohne Gefährdung des mit der Maßnahme verfolgten Zweckes
 möglich ist.
 
-
 ### § 15a Informationspflicht bei unrechtmäßiger Kenntniserlangung von Daten
 
 Stellt der Diensteanbieter fest, dass bei ihm gespeicherte Bestands-
@@ -788,10 +757,7 @@ schwerwiegende Beeinträchtigungen für die Rechte oder schutzwürdigen
 Interessen des betroffenen Nutzers, gilt § 42a des
 Bundesdatenschutzgesetzes entsprechend.
 
-
 ## Abschnitt 5 - Bußgeldvorschriften
-
-
 
 ### § 16 Bußgeldvorschriften
 

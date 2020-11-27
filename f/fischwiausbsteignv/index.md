@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1978, 2072
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 82 Abs. 2 des Berufsbildungsgesetzes vom 14. August
@@ -26,7 +24,6 @@ Auf Grund des § 82 Abs. 2 des Berufsbildungsgesetzes vom 14. August
 Berücksichtigung des § 28 des Ausbildungsplatzförderungsgesetzes vom
 7\. September 1976 (BGBl. I S. 2658) wird im Einvernehmen mit dem
 Bundesminister für Bildung und Wissenschaft verordnet:
-
 
 ## § 1 Mindestanforderungen an die Einrichtung und den Bewirtschaftungszustand
 
@@ -62,7 +59,6 @@ Auszubildenden eingehalten werden können.
 (7) Über den Ausbildungsbetrieb darf ein Konkurs- oder
 Vergleichsverfahren nicht eröffnet sein.
 
-
 ## § 2 Ausnahmeregelung
 
 Eine Ausbildungsstätte, die den Anforderungen dieser Verordnung nicht
@@ -72,17 +68,14 @@ notwendig ist und sichergestellt ist, daß eine erforderliche
 Ausbildungsmaßnahme außerhalb der Ausbildungsstätte durchgeführt
 werden kann.
 
-
 ## § 3 Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 112 des Berufsbildungsgesetzes auch im Land Berlin.
 
-
 ## § 4 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Schlußformel
 

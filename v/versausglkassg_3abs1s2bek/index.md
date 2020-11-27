@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 340
 
-
 ## (XXXX)
 
 Auf Grund des § 3 Absatz 1 Satz 2 des Gesetzes über die
@@ -36,7 +35,6 @@ anderer Gesetze vom 15. Juli 2009 (BGBl. I S. 1939) tritt damit dessen
 Artikel 9d Nummer 2, durch den § 15 Absatz 5 des
 Versorgungsausgleichsgesetzes vom 3. April 2009 (BGBl. I S. 700)
 geändert wird, am 1. April 2010 in Kraft.
-
 
 ## Schlussformel
 

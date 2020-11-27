@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 121 G v. 21.6.2005 I 1818
 
-
 ## Eingangsformel
 
 Auf Grund des § 4 Abs. 3 des Seeaufgabengesetzes in der Fassung der
@@ -28,7 +27,6 @@ Bekanntmachung vom 21. Januar 1987 (BGBl. I S. 541), der durch Artikel
 ist, verordnet das Bundesministerium für Verkehr im Einvernehmen mit
 dem Bundesministerium des Innern, dem Bundesministerium der Justiz und
 dem Bundesministerium der Finanzen:
-
 
 ## § 1
 
@@ -77,10 +75,6 @@ Durchführung der Maßnahmen nach der Strafprozeßordnung zuständig bei
     die zuständigen Behörden des Flaggenstaates ersucht haben, auf Grund
     sonstiger völkerrechtlicher Vereinbarungen.
 
-
-
-
-
 ## § 2
 
 (1) Seewärts der Begrenzung des deutschen Küstenmeeres sind auch die
@@ -96,13 +90,11 @@ sowie bei den in § 1 Nr. 2 Buchstabe e genannten Verstößen.
 Gelegenheit der Wahrnehmung ihrer Zuständigkeiten nach Absatz 1 oder
 sonstiger Zuständigkeiten Hinweise auf solche Taten ergeben.
 
-
 ## § 3
 
 Zuständigkeiten während der Nacheile im Sinne des Artikels 111 des
 Seerechtsübereinkommens der Vereinten Nationen von 1982 bleiben
 unberührt.
-
 
 ## § 4
 

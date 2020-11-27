@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 746
 
-
-
 ## § 1 Empfängerinnen und Empfänger von Dienstbezügen
 
 (1) Empfängerinnen und Empfänger von Dienstbezügen des Bundes erhalten
@@ -35,18 +33,15 @@ regelmäßigen wöchentlichen Arbeitszeit. Maßgebend ist jeweils das
 Verhältnis am 1. Juli, 1. Oktober und 1. Dezember 2005 sowie am 1.
 April und 1. Juli der Jahre 2006 und 2007.
 
-
 ## § 2 Empfängerinnen und Empfänger von Amtsbezügen
 
 Für Empfängerinnen und Empfänger von Amtsbezügen aus einem öffentlich-
 rechtlichen Amtsverhältnis zum Bund gilt § 1 entsprechend.
 
-
 ## § 3 Sanitätsoffiziersanwärterinnen und Sanitätsoffiziersanwärter
 
 Für Sanitätsoffiziersanwärterinnen und Sanitätsoffiziersanwärter mit
 Anspruch auf Ausbildungsgeld gilt § 1 entsprechend.
-
 
 ## § 4 Empfängerinnen und Empfänger von Anwärterbezügen
 
@@ -57,7 +52,6 @@ in Höhe von 100 Euro.
 (2) Den jeweiligen Teilbetrag erhält, wer jeweils an mindestens einem
 Tag des Monats Juli der Jahre 2005, 2006 und 2007 Anspruch auf
 Anwärterbezüge gegen den Bund hat.
-
 
 ## § 5 Zahlung
 

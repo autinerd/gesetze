@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt angepasst durch
 :   § 84 KVLG 1989 idF d. Art. 5 Nr. 9 G v. 12.4.2011 I 2012
 
-
 ## Eingangsformel
 
 Die Bundesrepublik Deutschland und die Deutsche Demokratische Republik
@@ -47,10 +46,7 @@ ihren Grenzen eine grundlegende Bedingung für den Frieden ist -
 sind übereingekommen, einen Vertrag über die Herstellung der Einheit
 Deutschlands mit den nachfolgenden Bestimmungen zu schließen:
 
-
 ## Kapitel I - Wirkung des Beitritts
-
-
 
 ### Art 1 Länder
 
@@ -66,7 +62,6 @@ Anlage II maßgebend.
 
 (2) Die 23 Bezirke von Berlin bilden das Land Berlin.
 
-
 ### Art 2 Hauptstadt, Tag der Deutschen Einheit
 
 (1) Hauptstadt Deutschlands ist Berlin. Die Frage des Sitzes von
@@ -76,10 +71,7 @@ Deutschlands entschieden.
 (2) Der 3. Oktober ist als Tag der Deutschen Einheit gesetzlicher
 Feiertag.
 
-
 ## Kapitel II - Grundgesetz
-
-
 
 ### Art 3 Inkrafttreten des Grundgesetzes
 
@@ -91,7 +83,6 @@ Ländern Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt
 und Thüringen sowie in dem Teil des Landes Berlin, in dem es bisher
 nicht galt, mit den sich aus Artikel 4 ergebenden Änderungen in Kraft,
 soweit in diesem Vertrag nichts anderes bestimmt ist.
-
 
 ### Art 4 Beitrittsbedingte Änderungen des Grundgesetzes
 
@@ -200,10 +191,6 @@ geändert:
     Gültigkeit an dem Tage, an dem eine Verfassung in Kraft tritt, die von
     dem deutschen Volke in freier Entscheidung beschlossen worden ist."
 
-
-
-
-
 ### Art 5 Künftige Verfassungsänderungen
 
 Die Regierungen der beiden Vertragsparteien empfehlen den
@@ -228,15 +215,10 @@ Grundgesetzes zu befassen, insbesondere
 -   mit der Frage der Anwendung des Artikels 146 des Grundgesetzes und in
     deren Rahmen einer Volksabstimmung.
 
-
-
-
-
 ### Art 6 Ausnahmebestimmung
 
 Artikel 131 des Grundgesetzes wird in dem in Artikel 3 genannten
 Gebiet vorerst nicht in Kraft gesetzt.
-
 
 ### Art 7 Finanzverfassung
 
@@ -337,10 +319,7 @@ Möglichkeiten weiterer Hilfe zum angemessenen Ausgleich der
 Finanzkraft für die Länder in dem in Artikel 3 genannten Gebiet von
 Bund und Ländern gemeinsam geprüft.
 
-
 ## Kapitel III - Rechtsangleichung
-
-
 
 ### Art 8 Überleitung von Bundesrecht
 
@@ -349,7 +328,6 @@ genannten Gebiet Bundesrecht in Kraft, soweit es nicht in seinem
 Geltungsbereich auf bestimmte Länder oder Landesteile der
 Bundesrepublik Deutschland beschränkt ist und soweit durch diesen
 Vertrag, insbesondere dessen Anlage I, nichts anderes bestimmt wird.
-
 
 ### Art 9 Fortgeltendes Recht der Deutschen Demokratischen Republik
 
@@ -388,7 +366,6 @@ sind.
 erlassene Kirchensteuerrecht gilt in den in Artikel 1 Abs. 1 genannten
 Ländern als Landesrecht fort.
 
-
 ### Art 10 Recht der Europäischen Gemeinschaften
 
 (1) Mit dem Wirksamwerden des Beitritts gelten in dem in Artikel 3
@@ -409,10 +386,7 @@ Schwierigkeiten dienen.
 Ausführung in die Zuständigkeit der Länder fällt, sind von diesen
 durch landesrechtliche Vorschriften umzusetzen oder auszuführen.
 
-
 ## Kapitel IV - Völkerrechtliche Verträge und Vereinbarungen
-
-
 
 ### Art 11 Verträge der Bundesrepublik Deutschland
 
@@ -426,7 +400,6 @@ Verträge auch auf das in Artikel 3 genannte Gebiet beziehen. Soweit im
 Einzelfall Anpassungen erforderlich werden, wird sich die
 gesamtdeutsche Regierung mit den jeweiligen Vertragspartnern ins
 Benehmen setzen.
-
 
 ### Art 12 Verträge der Deutschen Demokratischen Republik
 
@@ -454,10 +427,7 @@ Bundesrepublik Deutschland angehört, so wird Einvernehmen mit den
 jeweiligen Vertragspartnern und mit den Europäischen Gemeinschaften,
 soweit deren Zuständigkeiten berührt sind, hergestellt.
 
-
 ## Kapitel V - Öffentliche Verwaltung und Rechtspflege
-
-
 
 ### Art 13 Übergang von Einrichtungen
 
@@ -491,7 +461,6 @@ Bundesbehörden. Diese regeln die Überführung oder Abwicklung.
 
 deren Rechtsträger die öffentliche Verwaltung ist.
 
-
 ### Art 14 Gemeinsame Einrichtungen der Länder
 
 (1) Einrichtungen oder Teile von Einrichtungen, die bis zum
@@ -506,7 +475,6 @@ für die Erfüllung der Aufgaben der Länder unerläßlich ist.
 der Ministerpräsidenten der Länder den Landesbevollmächtigten. Danach
 unterstehen sie den Ministerpräsidenten. Diese können die Aufsicht dem
 zuständigen Landesminister übertragen.
-
 
 ### Art 15 Übergangsregelungen für die Landesverwaltung
 
@@ -541,13 +509,11 @@ eingesetzten Haushaltsmittel werden mit dem Anteil des jeweiligen
 Landes an den Leistungen des Fonds "Deutsche Einheit" oder an der
 Einfuhr-Umsatzsteuer verrechnet.
 
-
 ### Art 16 Übergangsvorschrift bis zur Bildung einer gesamtberliner Landesregierung
 
 Bis zur Bildung einer gesamtberliner Landesregierung nimmt der Senat
 von Berlin gemeinsam mit dem Magistrat die Aufgaben der gesamtberliner
 Landesregierung wahr.
-
 
 ### Art 17 Rehabilitierung
 
@@ -558,7 +524,6 @@ Strafverfolgungsmaßnahme oder sonst einer rechtsstaats- und
 verfassungswidrigen gerichtlichen Entscheidung geworden sind. Die
 Rehabilitierung dieser Opfer des SED-Unrechts-Regimes ist mit einer
 angemessenen Entschädigungsregelung zu verbinden.
-
 
 ### Art 18 Fortgeltung gerichtlicher Entscheidungen
 
@@ -572,7 +537,6 @@ Grundsätzen. Artikel 17 bleibt unberührt.
 
 (2) (nicht mehr anzuwenden)
 
-
 ### Art 19 Fortgeltung von Entscheidungen der öffentlichen Verwaltung
 
 Vor dem Wirksamwerden des Beitritts ergangene Verwaltungsakte der
@@ -581,7 +545,6 @@ aufgehoben werden, wenn sie mit rechtsstaatlichen Grundsätzen oder mit
 den Regelungen dieses Vertrags unvereinbar sind. Im übrigen bleiben
 die Vorschriften über die Bestandskraft von Verwaltungsakten
 unberührt.
-
 
 ### Art 20 Rechtsverhältnisse im öffentlichen Dienst
 
@@ -598,10 +561,7 @@ des Grundgesetzes bleibt unberührt.
 (3) Das Soldatenrecht wird nach Maßgabe der in Anlage I vereinbarten
 Regelungen eingeführt.
 
-
 ## Kapitel VI - Öffentliches Vermögen und Schulden
-
-
 
 ### Art 21 Verwaltungsvermögen
 
@@ -635,7 +595,6 @@ Bundesgesetzes Verwaltungsvermögen Bundesvermögen wird, ist es für die
 Erfüllung öffentlicher Aufgaben in dem in Artikel 3 genannten Gebiet
 zu verwenden. Dies gilt auch für die Verwendung der Erlöse aus
 Veräußerungen von Vermögenswerten.
-
 
 ### Art 22 Finanzvermögen
 
@@ -690,7 +649,6 @@ individuellen Wohneigentums beschleunigt durchgeführt werden.
 Hinsichtlich des volkseigenen Wohnungsbestandes staatlicher
 Einrichtungen, soweit dieser nicht bereits unter Artikel 21 fällt,
 bleibt Absatz 1 unberührt.
-
 
 ### Art 23 Schuldenregelung
 
@@ -777,7 +735,6 @@ Gesamtverschuldung des Republikhaushalts einbezogen und mit
 Wirksamwerden des Beitritts in das nicht rechtsfähige Sondervermögen
 nach Absatz 1 übernommen.
 
-
 ### Art 24 Abwicklung der Forderungen und Verbindlichkeiten gegenüber dem Ausland und der Bundesrepublik Deutschland
 
 (1) Die Abwicklung der beim Wirksamwerden des Beitritts noch
@@ -810,7 +767,6 @@ Gegenseitige Wirtschaftshilfe zurückgehen, können Gegenstand
 gesonderter Regelungen der Bundesrepublik Deutschland sein. Diese
 Regelungen können auch Forderungen und Verbindlichkeiten betreffen,
 die nach dem 30. Juni 1990 entstehen oder entstanden sind.
-
 
 ### Art 25 Treuhandvermögen
 
@@ -876,7 +832,6 @@ wurden, auszusetzen. Die anfallenden Zinszahlungen sind der Deutschen
 Kreditbank AG und den anderen Banken durch die Treuhandanstalt zu
 erstatten.
 
-
 ### Art 26 Sondervermögen Deutsche Reichsbahn
 
 (1) Das Eigentum und alle sonstigen Vermögensrechte der Deutschen
@@ -906,7 +861,6 @@ Vorsitzer des Vorstands der Deutschen Reichsbahn sind für die
 Koordinierung der beiden Sondervermögen verantwortlich. Dabei haben
 sie auf das Ziel hinzuwirken, die beiden Bahnen technisch und
 organisatorisch zusammenzuführen.
-
 
 ### Art 27 Sondervermögen Deutsche Post
 
@@ -940,7 +894,6 @@ Telekommunikation legt nach Anhörung der drei Unternehmen der
 Deutschen Bundespost innerhalb einer Übergangszeit von drei Jahren
 fest, welche Vermögensgegenstände den hoheitlichen und politischen
 Zwecken dienen. Er übernimmt diese ohne Wertausgleich.
-
 
 ### Art 28 Wirtschaftsförderung
 
@@ -980,10 +933,6 @@ sich auf folgende Bereiche:
 
 -   Entschuldung von Unternehmen nach Einzelfallprüfung.
 
-
-
-
-
 ### Art 29 Außenwirtschaftsbeziehungen
 
 (1) Die gewachsenen außenwirtschaftlichen Beziehungen der Deutschen
@@ -1003,10 +952,7 @@ darüber abstimmen, welche Ausnahmeregelungen für eine Übergangszeit
 auf dem Gebiet des Außenhandels im Hinblick auf Absatz 1 erforderlich
 sind.
 
-
 ## Kapitel VII - Arbeit, Soziales, Familie, Frauen, Gesundheitswesen und Umweltschutz
-
-
 
 ### Art 30 Arbeit und Soziales
 
@@ -1089,7 +1035,6 @@ Renten zu verwirklichen.
 prüfen, inwieweit die bisher in dem in Artikel 3 des Vertrags
 genannten Gebiet geltenden Regelungen berücksichtigt werden können.
 
-
 ### Art 31 Familie und Frauen
 
 (1) Es ist Aufgabe des gesamtdeutschen Gesetzgebers, die Gesetzgebung
@@ -1122,7 +1067,6 @@ auch über den Zeitpunkt der Geburt hinaus - zu leisten. Kommt eine
 Regelung in der in Satz 1 genannten Frist nicht zustande, gilt das
 materielle Recht in dem in Artikel 3 genannten Gebiet weiter.
 
-
 ### Art 32 Freie gesellschaftliche Kräfte
 
 Die Verbände der Freien Wohlfahrtspflege und die Träger der Freien
@@ -1131,7 +1075,6 @@ unverzichtbaren Beitrag zur Sozialstaatlichkeit des Grundgesetzes. Der
 Auf- und Ausbau einer Freien Wohlfahrtspflege und einer Freien
 Jugendhilfe in dem in Artikel 3 genannten Gebiet wird im Rahmen der
 grundgesetzlichen Zuständigkeiten gefördert.
-
 
 ### Art 33 Gesundheitswesen
 
@@ -1147,7 +1090,6 @@ die der Herstellerabgabepreis im Sinne der Arzneimittelpreisverordnung
 um einen Abschlag verringert wird, der dem Abstand zwischen den
 beitragspflichtigen Einkommen in dem in Artikel 3 genannten Gebiet und
 im heutigen Bundesgebiet entspricht.
-
 
 ### Art 34 Umweltschutz
 
@@ -1167,10 +1109,7 @@ Entwicklungsprogramme für das in Artikel 3 genannte Gebiet
 aufzustellen. Vorrangig sind Maßnahmen zur Abwehr von Gefahren für die
 Gesundheit der Bevölkerung vorzusehen.
 
-
 ## Kapitel VIII - Kultur, Bildung und Wissenschaft, Sport
-
-
 
 ### Art 35 Kultur
 
@@ -1219,7 +1158,6 @@ genannten Länder zur Kulturstiftung der Länder zu verhandeln.
 Bund übergangsweise zur Förderung der kulturellen Infrastruktur
 einzelne kulturelle Maßnahmen und Einrichtungen in dem in Artikel 3
 genannten Gebiet mitfinanzieren.
-
 
 ### Art 36 Rundfunk
 
@@ -1291,7 +1229,6 @@ unberührt.
 (7) Mit Inkraftsetzung des Staatsvertrags nach Absatz 6, spätestens am
 31\. Dezember 1991, treten die Absätze 1 bis 6 außer Kraft.
 
-
 ### Art 37 Bildung
 
 (1) In der Deutschen Demokratischen Republik erworbene oder staatlich
@@ -1340,7 +1277,6 @@ Weitergehende Grundsätze und Verfahren für die Anerkennung von
 Fachschul- und Hochschulabschlüssen für darauf aufbauende Schul- und
 Hochschulausbildungen sind im Rahmen der Kultusministerkonferenz zu
 entwickeln.
-
 
 ### Art 38 Wissenschaft und Forschung
 
@@ -1407,7 +1343,6 @@ steuerliche Maßnahmen ausgenommen.
 Republik ist der Forschungsrat der Deutschen Demokratischen Republik
 aufgelöst.
 
-
 ### Art 39 Sport
 
 (1) Die in dem in Artikel 3 genannten Gebiet in Umwandlung
@@ -1431,10 +1366,7 @@ bestehenden Einrichtungen angegliedert.
 (3) Für eine Übergangszeit bis zum 31. Dezember 1992 unterstützt der
 Bund den Behindertensport.
 
-
 ## Kapitel IX - Übergangs- und Schlußbestimmungen
-
-
 
 ### Art 40 Verträge und Vereinbarungen
 
@@ -1451,7 +1383,6 @@ Bundesländern und der Deutschen Demokratischen Republik nicht im Zuge
 der Herstellung der Einheit Deutschlands gegenstandslos geworden sind,
 werden sie von den innerstaatlich zuständigen Rechtsträgern
 übernommen, angepaßt oder abgewickelt.
-
 
 ### Art 41 Regelung von Vermögensfragen
 
@@ -1475,7 +1406,6 @@ die Entschädigung des früheren Eigentümers zu regeln.
 (3) Im übrigen wird die Bundesrepublik Deutschland keine
 Rechtsvorschriften erlassen, die der in Absatz 1 genannten Gemeinsamen
 Erklärung widersprechen.
-
 
 ### Art 42 Entsendung von Abgeordneten
 
@@ -1503,13 +1433,11 @@ als Ersatzperson nachrückt, trifft vor Wirksamwerden des Beitritts der
 Präsident der Volkskammer, danach der Präsident des Deutschen
 Bundestages.
 
-
 ### Art 43 Übergangsvorschrift für den Bundesrat bis zur Bildung von Landesregierungen
 
 Von der Bildung der in Artikel 1 Abs. 1 genannten Länder bis zur Wahl
 des Ministerpräsidenten kann der Landesbevollmächtigte an den
 Sitzungen des Bundesrates mit beratender Stimme teilnehmen.
-
 
 ### Art 44 Rechtswahrung
 
@@ -1517,7 +1445,6 @@ Rechte aus diesem Vertrag zugunsten der Deutschen Demokratischen
 Republik oder der in Artikel 1 genannten Länder können nach
 Wirksamwerden des Beitritts von jedem dieser Länder geltend gemacht
 werden.
-
 
 ### Art 45 Inkrafttreten des Vertrags
 
@@ -1529,7 +1456,6 @@ innerstaatlichen Voraussetzungen für das Inkrafttreten erfüllt sind.
 
 (2) Der Vertrag bleibt nach Wirksamwerden des Beitritts als
 Bundesrecht geltendes Recht.
-
 
 ### Schlußformel
 
@@ -1549,10 +1475,6 @@ deutscher Sprache.
 *    *   Schäuble
 
     *   Günther Krause
-
-
-
-
 
 ### (XXXX) Protokoll
 
@@ -1789,7 +1711,6 @@ auf Berlin und Deutschland als Ganzes sowie der noch ausstehenden
 Ergebnisse der Gespräche über die äußeren Aspekte der Herstellung der
 deutschen Einheit getroffen werden.
 
-
 ### Anlage I Inhaltsverzeichnis
 
 
@@ -1904,10 +1825,6 @@ deutschen Einheit getroffen werden.
 
     *   Recht des öffentlichen Dienstes einschließlich des Rechts der Soldaten
 
-
-
-
-
 ### Anlage I BesBest Besondere Bestimmungen zur Überleitung von Bundesrecht gemäß Artikel 8 und Artikel 11 des Vertrages
 
 (Fundstelle in der Anlage I des Einigungsvertrages, BGBl. II 1990,
@@ -1932,13 +1849,11 @@ Rechtsvorschriften der Bundesrepublik Deutschland Rechtsvorschriften
 der Deutschen Demokratischen Republik treten, ist dies ausdrücklich
 bestimmt.
 
-
 ### Anlage I Kap I Anlage I Kapitel I Geschäftsbereich des Bundesministers des Auswärtigen
 
 (Fundstelle in der Anlage I des EinigVtr - BGBl. II 1990, 908 - 909)
 
 -
-
 
 ### Anlage I Kap I Anlage I Kapitel I Abschnitt I
 
@@ -2076,10 +1991,6 @@ sind gemäß Artikel 11 des Vertrages ausgenommen:
     Reichweite mit Verordnung vom 30. Mai 1988 (BGBl. 1988 II S. 534) -
     Verordnung über Inspektionen nach dem INF-Vertrag -
 
-
-
-
-
 ### Anlage I Kap II Anlage I Kapitel II Geschäftsbereich des Bundesministers des Innern
 
 (Fundstelle in der Anlage I des EinigVtr - BGBl. II 1990, 910 - 920)
@@ -2101,10 +2012,6 @@ b)  sachgebietsbezogen (z. B. EinigVtr Anlage I Kap II D) - Ausgegeben
 c)  abschnittsbezogen (z. B. EinigVtr Anlage I Kap II D III) - Ausgegeben
     wird das Dokument zum Abschnitt III des Sachgebiets D des Kapitels II
     der Anlage I-
-
-
-
-
 
 ### Anlage I Kap II A II Anlage I Kapitel II Sachgebiet A - Staats- und Verfassungsrecht Abschnitt II
 
@@ -2179,20 +2086,12 @@ Bundesrecht wird wie folgt aufgehoben und geändert:
     gleiche gilt für von der Deutschen Demokratischen Republik zur Annahme
     genehmigte ausländische Auszeichnungen.
 
-
-
-
-
 ### Anlage I Kap II A III Anlage I Kapitel II Sachgebiet A - Staats- und Verfassungsrecht Abschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:
 
 1.  (nicht mehr anzuwenden)
-
-
-
-
 
 ### Anlage I Kap II B I Anlage I Kapitel II Sachgebiet B - Verwaltung Abschnitt I
 
@@ -2287,10 +2186,6 @@ sind ausgenommen:
 13. Ausländergesetz vom 28. April 1965 (BGBl. I S. 353), zuletzt geändert
     durch Artikel 9 Abs. 5 des Gesetzes vom 26. Juni 1990 (BGBl. I S.
     1163)
-
-
-
-
 
 ### Anlage I Kap II B II Anlage I Kapitel II Sachgebiet B - Verwaltung Abschnitt II
 
@@ -2500,10 +2395,6 @@ Bundesrecht wird wie folgt geändert:
     national wertvoller Archive" entschieden worden ist. Absatz 4 Satz 2
     und 3 gilt entsprechend."
 
-
-
-
-
 ### Anlage I Kap II B III Anlage I Kapitel II Sachgebiet B - Verwaltung Abschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
@@ -2645,7 +2536,6 @@ mit folgenden Maßgaben in Kraft:
 
 3\. bis 9. (nicht mehr anzuwenden)
 
-
 ### Anlage I Kap II C II Anlage I Kapitel II Sachgebiet C - Öffentliche Sicherheit Abschnitt II
 
 Bundesrecht wird wie folgt geändert:
@@ -2735,19 +2625,11 @@ Bundesrecht wird wie folgt geändert:
         Erteilung einer Ausnahmegenehmigung beim Bundeskriminalamt stellt. §
         37 Abs. 5 ist entsprechend anzuwenden."
 
-
-
-
-
-
-
-
 ### Anlage I Kap II C III Anlage I Kapitel II Sachgebiet C - Öffentliche Sicherheit Abschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:
 1\. bis 5 (nicht mehr anzuwenden)
-
 
 ### Anlage I Kap II D I Anlage I Kapitel II Sachgebiet D - Kriegsfolgenrecht Abschnitt I
 
@@ -2772,10 +2654,6 @@ sind ausgenommen:
     Gesetzes vom 18. März 1975 (BGBl. I S. 705), mit den dazu auf Grund
     der Ermächtigungen in § 1a Abs. 2, § 3 Abs. 3, § 8 Abs. 2, § 9 Abs. 3,
     § 11 Abs. 4 und § 14a erlassenen Rechtsverordnungen.
-
-
-
-
 
 ### Anlage I Kap II D II Anlage I Kapitel II Sachgebiet D - Kriegsfolgenrecht Abschnitt II
 
@@ -2888,10 +2766,6 @@ Bundesrecht wird wie folgt geändert und aufgehoben:
     und folgender Halbsatz angefügt "das gilt auch beim Zusammentreffen
     von eigenen Ansprüchen mit Ansprüchen nach § 5."
 
-
-
-
-
 ### Anlage I Kap II D III Anlage I Kapitel II Sachgebiet D - Kriegsfolgenrecht Abschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
@@ -2954,10 +2828,6 @@ mit folgenden Maßgaben in Kraft:
 
 5.  (nicht mehr anzuwenden)
 
-
-
-
-
 ### Anlage I Kap III Anlage I Kapitel III Geschäftsbereich des Bundesministers der Justiz
 
 (Fundstelle in der Anlage I des EinigVtr - BGBl. II 1990, 921 - 963)
@@ -2976,10 +2846,6 @@ b)  sachgebietsbezogen (z. B. EinigVtr Anlage I Kap III F) - Ausgegeben
 c)  abschnittsbezogen (z. B. EinigVtr Anlage I Kap III F III) - Ausgegeben
     wird das Dokument zum Abschnitt III des Sachgebiets F des Kapitels III
     der Anlage I -
-
-
-
-
 
 ### Anlage I Kap III A I Anlage I Kapitel III Sachgebiet A - Rechtspflege Abschnitt I
 
@@ -3030,10 +2896,6 @@ Abschnitt IV, ausgenommen:
     Gliederungsnummer 303-1, veröffentlichten bereinigten Fassung, zuletzt
     geändert durch Artikel 1 des Gesetzes vom 7. August 1981 (BGBl. I S.
     803).
-
-
-
-
 
 ### Anlage I Kap III A II Anlage I Kapitel III Sachgebiet A - Rechtspflege Abschnitt II
 
@@ -3086,10 +2948,6 @@ Bundesrecht wird wie folgt geändert oder ergänzt:
     genannten Gebiet oder im Geltungsbereich der
     Bundesrechtsanwaltsordnung zugelassen ist, steht in dem jeweils
     anderen Gebiet einem dort zugelassenen Rechtsanwalt gleich.
-
-
-
-
 
 ### Anlage I Kap III A III Anlage I Kapitel III Sachgebiet A - Rechtspflege Abschnitt III
 
@@ -3255,10 +3113,6 @@ Sonderregelung für das Land Berlin in Abschnitt IV, in dem in Artikel
 
 18. bis 28. (nicht mehr anzuwenden)
 
-
-
-
-
 ### Anlage I Kap III A IV Anlage I Kapitel III Sachgebiet A - Rechtspflege Abschnitt IV
 
 Abweichend von den Regelungen der Abschnitte I und III wird der im
@@ -3269,7 +3123,6 @@ Verwaltungsgerichtsbarkeit, der Finanzgerichtsbarkeit, der
 Arbeitsgerichtsbarkeit und der Sozialgerichtsbarkeit auf den Teil des
 Landes Berlin erstreckt, in dem das Grundgesetz bisher nicht galt.
 1\. bis 4 (nicht mehr anzuwenden)
-
 
 ### Anlage I Kap III B I Anlage I Kapitel III Sachgebiet B - Bürgerliches Recht Abschnitt I
 
@@ -3283,10 +3136,6 @@ sind ausgenommen:
 
 2.  Regelunterhalt-Verordnung vom 27. Juni 1970 (BGBl. I S. 1010), zuletzt
     geändert durch Verordnung vom 21. Juli 1988 (BGBl. I S. 1082).
-
-
-
-
 
 ### Anlage I Kap III B II Anlage I Kapitel III Sachgebiet B - Bürgerliches Recht Abschnitt II
 
@@ -4307,10 +4156,6 @@ Bundesrecht wird wie folgt geändert oder ergänzt:
     gesetzlichen Rentenversicherung, jedoch ohne Berücksichtigung
     knappschaftlicher Besonderheiten, durch.
 
-
-
-
-
 ### Anlage I Kap III B III Anlage I Kapitel III Sachgebiet B - Bürgerliches Recht Abschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
@@ -4368,10 +4213,6 @@ mit folgenden Maßgaben in Kraft:
 
 11. bis 14. (nicht mehr anzuwenden)
 
-
-
-
-
 ### Anlage I Kap III C I Anlage I Kapitel III Sachgebiet C - Strafrecht und Ordnungswidrigkeitenrecht Abschnitt I
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages
@@ -4386,10 +4227,6 @@ sind ausgenommen:
     Rechts- und Amtshilfe in Strafsachen vom 23. Dezember 1953 in der im
     Bundesgesetzblatt III, Gliederungsnummer 312-3-1, veröffentlichten
     bereinigten Fassung.
-
-
-
-
 
 ### Anlage I Kap III C II Anlage I Kapitel III Sachgebiet C - Strafrecht und Ordnungswidrigkeitenrecht Abschnitt II
 
@@ -4683,10 +4520,6 @@ Bundesrecht wird wie folgt aufgehoben, geändert oder ergänzt:
 
 5.  (nicht mehr anzuwenden)
 
-
-
-
-
 ### Anlage I Kap III C III Anlage I Kapitel III Sachgebiet C - Strafrecht und Ordnungswidrigkeitenrecht Abschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
@@ -4777,10 +4610,6 @@ mit folgenden Maßgaben in Kraft:
 
 4.  bis 6. (nicht mehr anzuwenden)
 
-
-
-
-
 ### Anlage I Kap III D II Anlage I Kapitel III Sachgebiet D - Handels- und Gesellschaftsrecht, Versicherungsvertragsrecht Abschnitt II
 
 Bundesrecht wird wie folgt geändert und ergänzt:
@@ -4798,10 +4627,6 @@ Bundesrecht wird wie folgt geändert und ergänzt:
     besonderen oder allgemeinen Abschlußgesetzgebung über die Regelung von
     Kriegsfolgen und Umstellungsansprüchen nicht in Anspruch genommen
     werden.
-
-
-
-
 
 ### Anlage I Kap III D III Anlage I Kapitel III Sachgebiet D - Handels- und Gesellschaftsrecht, Versicherungsvertragsrecht Abschnitt III
 
@@ -4828,10 +4653,6 @@ mit folgenden Maßgaben in Kraft:
 
 
 7.  und 8. (nicht mehr anzuwenden)
-
-
-
-
 
 ### Anlage I Kap III E II Anlage I Kapitel III Sachgebiet E - Gewerblicher Rechtsschutz, Recht gegen den unlauteren Wettbewerb, Urheberrecht Abschnitt II
 
@@ -5003,10 +4824,6 @@ Bundesrecht wird wie folgt ergänzt:
     der Rechtsnachfolger des Urhebers die Urheberrechte an dem Nachlaß
     nicht selbst wahrnehmen will.
 
-
-
-
-
 ### Anlage I Kap III E III Anlage I Kapitel III Sachgebiet E - Gewerblicher Rechtsschutz, Recht gegen den unlauteren Wettbewerb, Urheberrecht Abschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
@@ -5014,16 +4831,11 @@ mit folgenden Maßgaben in Kraft:
 
 1.  (nicht mehr anzuwenden)
 
-
-
-
-
 ### Anlage I Kap III F III Anlage I Kapitel III Sachgebiet F - Verfassungsgerichtsbarkeit Abschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:
 (nicht mehr anzuwenden)
-
 
 ### Anlage I Kap IV Anlage I Kapitel IV Geschäftsbereich des Bundesministers der Finanzen
 
@@ -5043,10 +4855,6 @@ b)  sachgebietsbezogen (z. B. EinigVtr Anlage I Kap IV B) - Ausgegeben
 c)  abschnittsbezogen (z. B. EinigVtr Anlage I Kap IV B III) - Ausgegeben
     wird das Dokument zum Abschnitt III des Sachgebiets B des Kapitels IV
     der Anlage I -
-
-
-
-
 
 ### Anlage I Kap IV A I Anlage I Kapitel IV Sachgebiet A - Kriegsfolgenregelungen Abschnitt I
 
@@ -5196,10 +5004,6 @@ sind ausgenommen:
     durch Artikel 9 Nr. 11 des Gesetzes vom 3. Dezember 1976 (BGBl. I S.
     3281)
 
-
-
-
-
 ### Anlage I Kap IV A II Anlage I Kapitel IV Sachgebiet A - Kriegsfolgenregelungen Abschnitt II
 
 Bundesrecht wird wie folgt aufgehoben, geändert oder ergänzt:
@@ -5279,13 +5083,6 @@ Bundesrecht wird wie folgt aufgehoben, geändert oder ergänzt:
         1\. Januar 1992 seinen ständigen Aufenthalt in dem in Artikel 3 des
         Einigungsvertrages genannten Gebiet genommen hat."
 
-
-
-
-
-
-
-
 ### Anlage I Kap IV B I Anlage I Kapitel IV Sachgebiet B - Haushalts- und Finanzwesen Abschnitt I
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages
@@ -5304,10 +5101,6 @@ sind ausgenommen:
     1426),
 
     mit Ausnahme des § 16
-
-
-
-
 
 ### Anlage I Kap IV B II Anlage I Kapitel IV Sachgebiet B - Haushalts- und Finanzwesen Abschnitt II
 
@@ -8933,10 +8726,6 @@ Bundesrecht wird wie folgt aufgehoben, geändert oder ergänzt:
 
     Der Fonds wird mit Ablauf des Jahres 1993 aufgelöst.
 
-
-
-
-
 ### Anlage I Kap IV B III Anlage I Kapitel IV Sachgebiet B - Haushalts- und Finanzwesen Abschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
@@ -9007,10 +8796,6 @@ mit folgenden Maßgaben in Kraft:
     Die §§ 2 bis 6a werden in dem in Artikel 3 des Vertrages genannten
     Gebiet nicht angewendet.
 
-
-
-
-
 ### Anlage I Kap V Anlage I Kapitel V Geschäftsbereich des Bundesministers für Wirtschaft
 
 (Fundstelle in der Anlage I des EinigVtr - BGBl. II 1990, 996 - 1009)
@@ -9030,10 +8815,6 @@ c)  abschnittsbezogen (z. B. EinigVtr Anlage I Kap V F II) - Ausgegeben
     wird das Dokument zum Abschnitt II des Sachgebiets F des Kapitels V
     der Anlage I -
 
-
-
-
-
 ### Anlage I Kap V A I Anlage I Kapitel V Sachgebiet A - Allgemeines Wirtschaftsrecht, Wirtschaftspolitik, Wettbewerbs- und Preisrecht Abschnitt I
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages
@@ -9043,7 +8824,6 @@ Preisausgleich für die eisenverbrauchende Wirtschaft in West-Berlin
 (BAnz. Nr. 189 vom 30. September 1950), zuletzt geändert durch die
 Verordnung PR 13/67 vom 22. Dezember 1967 (BAnz. Nr. 244 vom 30.
 Dezember 1967)
-
 
 ### Anlage I Kap V A II Anlage I Kapitel V Sachgebiet A - Allgemeines Wirtschaftsrecht, Wirtschaftspolitik, Wettbewerbs- und Preisrecht Abschnitt II
 
@@ -9126,13 +8906,6 @@ Bundesrecht wird wie folgt geändert:
         Bundesrates die Maßgaben der Absätze 1 und 2 und des § 26a so zu
         ändern, daß deren Ziele unter Berücksichtigung der neuen Rechtslage
         erreicht werden."
-
-
-
-
-
-
-
 
 ### Anlage I Kap V A III Anlage I Kapitel V Sachgebiet A - Allgemeines Wirtschaftsrecht, Wirtschaftspolitik, Wettbewerbs- und Preisrecht Abschnitt III
 
@@ -9279,13 +9052,6 @@ mit folgenden Maßgaben in Kraft:
     g)  Bis zum 31. Dezember 1990 kann in dem in Artikel 3 des Vertrages
         genannten Gebiet nach den bisherigen Regeln verfahren werden.
 
-
-
-
-
-
-
-
 ### Anlage I Kap V B II Anlage I Kapitel V Sachgebiet B - Berufsrecht, Recht der beruflichen Bildung Abschnitt II
 
 Bundesrecht wird wie folgt geändert:
@@ -9342,10 +9108,6 @@ Bundesrecht wird wie folgt geändert:
     Angelegenheiten. Auf die Bestellung der Personen, die die Prüfung nach
     Satz 3 bestanden haben, findet der Dritte Abschnitt des Zweiten Teils
     Anwendung."
-
-
-
-
 
 ### Anlage I Kap V B III Anlage I Kapitel V Sachgebiet B - Berufsrecht, Recht der beruflichen Bildung Abschnitt III
 
@@ -9574,10 +9336,6 @@ mit folgenden Maßgaben in Kraft:
     4 festgesetzt werden; die Beitragsordnung und der Beitragsmaßstab
     bedürfen der Genehmigung der Aufsichtsbehörde.
 
-
-
-
-
 ### Anlage I Kap V C I Anlage I Kapitel V Sachgebiet C - Gewerberecht, Recht der Technik, Gewerbe- und Filmförderung Abschnitt I
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages
@@ -9587,7 +9345,6 @@ Filmvermögens in der im Bundesgesetzblatt Teil III, Gliederungsnummer
 703-3, veröffentlichten bereinigten Fassung, zuletzt geändert durch
 Artikel 4 des Gesetzes vom 27. Februar 1974 (BGBl. I S. 444), mit
 Ausnahme des § 15 Satz 2.
-
 
 ### Anlage I Kap V C II Anlage I Kapitel V Sachgebiet C - Gewerberecht, Recht der Technik, Gewerbe- und Filmförderung Abschnitt II
 
@@ -9599,10 +9356,6 @@ Bundesrecht wird wie folgt geändert:
     In die Anlage 1 der Verordnung wird nach "Internationales
     Kurzfilmfestival, Krakau" die "Internationale Dokumentar- und
     Kurzfilmwoche für Kino und Fernsehen, Leipzig" eingefügt.
-
-
-
-
 
 ### Anlage I Kap V C III Anlage I Kapitel V Sachgebiet C - Gewerberecht, Recht der Technik, Gewerbe- und Filmförderung Abschnitt III
 
@@ -9865,13 +9618,6 @@ mit folgenden Maßgaben in Kraft:
         Kommissionen der Filmförderungsanstalt (§§ 5 bis 8) werden durch einen
         Beschluß des Verwaltungsrates nach § 6 Abs. 5 geregelt.
 
-
-
-
-
-
-
-
 ### Anlage I Kap V D I Anlage I Kapitel V Sachgebiet D - Recht des Bergbaus und der Versorgungswirtschaft Abschnitt I
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages
@@ -9887,10 +9633,6 @@ sind ausgenommen:
 
 3.  Gesetz über das Zollkontingent über feste Brennstoffe in der Fassung
     der Bekanntmachung vom 15. Oktober 1980 (BGBl. I S. 1945)
-
-
-
-
 
 ### Anlage I Kap V D II Anlage I Kapitel V Sachgebiet D - Recht des Bergbaus und der Versorgungswirtschaft Abschnitt II
 
@@ -9954,13 +9696,6 @@ Bundesrecht wird wie folgt geändert oder aufgehoben:
         den Abbaugebieten B tätige Unternehmen ist verpflichtet, die in § 4
         Nr. 2 und 3 näher bezeichneten Bedingungen in gleicher Weise auf
         seiner Seite der Markscheide einzuhalten."
-
-
-
-
-
-
-
 
 ### Anlage I Kap V D III Anlage I Kapitel V Sachgebiet D - Recht des Bergbaus und der Versorgungswirtschaft Abschnitt III
 
@@ -10604,13 +10339,6 @@ Maßgaben in Kraft:
         erfüllen. Soweit erforderlich, können darüber hinaus
         Einzelfallausnahmen nach § 28 Abs. 2 eingeräumt werden.
 
-
-
-
-
-
-
-
 ### Anlage I Kap V E III Anlage I Kapitel V Sachgebiet E - Recht der gewerblichen Wirtschaft Abschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
@@ -10652,13 +10380,6 @@ mit folgenden Maßgaben in Kraft:
     b)  eingeführt (§ 4 Abs. 2 Nr. 4 des Außenwirtschaftsgesetzes) oder sonst
         in das in Artikel 3 des Vertrages genannte Gebiet verbracht werden.
 
-
-
-
-
-
-
-
 ### Anlage I Kap V F II Anlage I Kapitel V Sachgebiet F - Außenwirtschaftsrecht Abschnitt II
 
 Bundesrecht wird wie folgt geändert:
@@ -10697,13 +10418,6 @@ Bundesrecht wird wie folgt geändert:
 
     6.  § 72 wird aufgehoben
 
-
-
-
-
-
-
-
 ### Anlage I Kap VI Anlage I Kapitel VI Geschäftsbereich des Bundesministers für Ernährung, Landwirtschaft und Forsten
 
 (Fundstelle in der Anlage I des EinigVtr - BGBl. II 1990, 1010 - 1018)
@@ -10723,19 +10437,11 @@ c)  abschnittsbezogen (z. B. EinigVtr Anlage I Kap VI F III) - Ausgegeben
     wird das Dokument zum Abschnitt III des Sachgebiets F des Kapitels VI
     der Anlage I -
 
-
-
-
-
 ### Anlage I Kap VI A II Anlage I Kapitel VI Sachgebiet A - Bodennutzung und Tierhaltung, Veterinärwesen Abschnitt II
 
 Bundesrecht wird wie folgt aufgehoben:
 
 1.  DDR-Tierseuchenschutzverordnung vom 27. Juni 1990 (BGBl. I S. 1264)
-
-
-
-
 
 ### Anlage I Kap VI A III Anlage I Kapitel VI Sachgebiet A - Bodennutzung und Tierhaltung, Veterinärwesen Abschnitt III
 
@@ -11068,10 +10774,6 @@ mit folgenden Maßgaben in Kraft:
 
 17. (nicht mehr anzuwenden)
 
-
-
-
-
 ### Anlage I Kap VI B I Anlage I Kapitel VI Sachgebiet B - Agrarpolitik Abschnitt I
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages
@@ -11089,10 +10791,6 @@ sind ausgenommen:
 3.  Landwirtschaftsförderungsverordnung vom 19. Juli 1989 (BGBl. I S.
     1472), geändert durch die Verordnung vom 28. Mai 1990 (BGBl. I S. 990)
 
-
-
-
-
 ### Anlage I Kap VI B II Anlage I Kapitel VI Sachgebiet B - Agrarpolitik Abschnitt II
 
 Bundesrecht wird wie folgt geändert:
@@ -11106,10 +10804,6 @@ Bundesrecht wird wie folgt geändert:
     "Der Planungsausschuß beschließt mit den Stimmen des Bundes und der
     Mehrheit der Stimmen der Länder."
 
-
-
-
-
 ### Anlage I Kap VI C I Anlage I Kapitel VI Sachgebiet C - Marktordnung für Landwirtschaft und Ernährungswirtschaft Abschnitt I
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages
@@ -11118,10 +10812,6 @@ sind ausgenommen:
 1.  § 2a des Milchaufgabevergütungsgesetzes vom 17. Juli 1984 (BGBl. I S.
     942), zuletzt geändert durch Gesetz vom 24. Juli 1990 (BGBl. I S.
     1470)
-
-
-
-
 
 ### Anlage I Kap VI C III Anlage I Kapitel VI Sachgebiet C - Marktordnung für Landwirtschaft und Ernährungswirtschaft Abschnitt III
 
@@ -11142,10 +10832,6 @@ mit folgenden Maßgaben in Kraft:
 
 5.  (nicht mehr anzuwenden)
 
-
-
-
-
 ### Anlage I Kap VI D I Anlage I Kapitel VI Sachgebiet D - Agrarsozialrecht Abschnitt I
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages
@@ -11159,10 +10845,6 @@ sind ausgenommen:
     der Land- und Forstwirtschaft vom 31. Juli 1974 (BGBl. I S. 1660),
     zuletzt geändert durch Artikel 29 des Gesetzes vom 18. Dezember 1989
     (BGBl. I S. 2261)
-
-
-
-
 
 ### Anlage I Kap VI E III Anlage I Kapitel VI Sachgebiet E - Siedlungswesen Abschnitt III
 
@@ -11183,13 +10865,6 @@ mit folgenden Maßgaben in Kraft:
     b)  Die Ausübung des Vorkaufsrechts nach § 4 setzt voraus, daß eine
         Genehmigung nach § 2 der Grundstücksverkehrsverordnung vom 15.
         Dezember 1977 (GBl. I Nr. 5 S. 73) erteilt worden ist.
-
-
-
-
-
-
-
 
 ### Anlage I Kap VI F II Anlage I Kapitel VI Sachgebiet F - Forstwirtschaft, Jagdwesen und Fischerei Abschnitt II
 
@@ -11291,13 +10966,6 @@ Bundesrecht wird wie folgt geändert und ergänzt:
         Ummanz, Seedorf, Zudar, Gager, Karlshagen, Freest, Greifswald, Lassan,
         Wolgast, Ahlbeck, Zempin, Ückermünde".
 
-
-
-
-
-
-
-
 ### Anlage I Kap VI F III Anlage I Kapitel VI Sachgebiet F - Forstwirtschaft, Jagdwesen und Fischerei Abschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
@@ -11311,16 +10979,11 @@ mit folgenden Maßgaben in Kraft:
 
 3.  ( nicht mehr anzuwenden)
 
-
-
-
-
 ### Anlage I Kap VII Anlage I Kapitel VII Geschäftsbereich des Bundesministers für innerdeutsche Beziehungen
 
 (Fundstelle in der Anlage I des EinigVtr - BGBl. II 1990, 1019)
 
 (Kein Inhalt)
-
 
 ### Anlage I Kap VIII Anlage I Kapitel VIII Geschäftsbereich des Bundesministers für Arbeit und Sozialordnung
 
@@ -11342,10 +11005,6 @@ c)  abschnittsbezogen (z. B. EinigVtr Anlage I Kap VIII K III) -
     Ausgegeben wird das Dokument zum Abschnitt III des Sachgebiets K des
     Kapitels VIII der Anlage I -
 
-
-
-
-
 ### Anlage I Kap VIII A I Anlage I Kapitel VIII Sachgebiet A - Arbeitsrechtsordnung Abschnitt I
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages
@@ -11355,7 +11014,6 @@ Bundesgesetzblatt Teil III, Gliederungsnummer 800-1, veröffentlichten
 bereinigten Fassung, geändert durch Gesetz vom 26. April 1985 (BGBl. I
 S. 710)
 
-
 ### Anlage I Kap VIII A II Anlage I Kapitel VIII Sachgebiet A - Arbeitsrechtsordnung Abschnitt II
 
 Bundesrecht wird wie folgt aufgehoben:
@@ -11363,7 +11021,6 @@ Seemannsgesetz in der im Bundesgesetzblatt Teil III, Gliederungsnummer
 9513-1, veröffentlichten bereinigten Fassung, zuletzt geändert durch
 Artikel 53 des Gesetzes vom 20. Dezember 1988 (BGBl. I S. 2477),
 § 18 wird aufgehoben.
-
 
 ### Anlage I Kap VIII A III Anlage I Kapitel VIII Sachgebiet A - Arbeitsrechtsordnung Abschnitt III
 
@@ -11524,13 +11181,6 @@ mit folgenden Maßgaben in Kraft:
 
 
     c)  §§ 26 bis 30 sind nicht anzuwenden.
-
-
-
-
-
-
-
 
 ### Anlage I Kap VIII B II Anlage I Kapitel VIII Sachgebiet B - Technischer Arbeitsschutz Abschnitt II
 
@@ -11786,13 +11436,6 @@ Bundesrecht wird wie folgt geändert oder ergänzt:
     c)  In § 11 Abs. 1 Satz 3, § 13 Abs. 3, §§ 16, 19 Abs. 1 Satz 1 und § 20
         Abs. 2 Nr. 5 wird jeweils die Zahl "22" durch die Zahl "28" ersetzt.
 
-
-
-
-
-
-
-
 ### Anlage I Kap VIII B III Anlage I Kapitel VIII Sachgebiet B - Technischer Arbeitsschutz Abschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
@@ -11951,10 +11594,6 @@ mit folgenden Maßgaben in Kraft:
 
 14. (nicht mehr anzuwenden)
 
-
-
-
-
 ### Anlage I Kap VIII C III Anlage I Kapitel VIII Sachgebiet C - Sozialer Arbeitsschutz Abschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
@@ -12009,10 +11648,6 @@ mit folgenden Maßgaben in Kraft:
 
 13. (nicht mehr anzuwenden)
 
-
-
-
-
 ### Anlage I Kap VIII D II Anlage I Kapitel VIII Sachgebiet D - Übergreifende Vorschriften des Sozialrechts Abschnitt II
 
 Bundesrecht wird wie folgt aufgehoben oder ergänzt:
@@ -12038,13 +11673,6 @@ Bundesrecht wird wie folgt aufgehoben oder ergänzt:
         findet § 78 Abs. 2 weiter Anwendung, soweit die in dessen bisherigem
         Geltungsbereich errichteten Sozialgerichte zuständig sind.
 
-
-
-
-
-
-
-
 ### Anlage I Kap VIII D III Anlage I Kapitel VIII Sachgebiet D - Übergreifende Vorschriften des Sozialrechts Abschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
@@ -12061,10 +11689,6 @@ mit folgenden Maßgaben in Kraft:
 
 4.  (nicht mehr anzuwenden)
 
-
-
-
-
 ### Anlage I Kap VIII E I Anlage I Kapitel VIII Sachgebiet E - Arbeitsmarktpolitik, Arbeitsförderung, Arbeitslosenversicherung Abschnitt I
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages
@@ -12080,10 +11704,6 @@ sind ausgenommen:
     Heimkehrer in der im Bundesgesetzblatt Teil III, Gliederungsnummer
     84-1-1, veröffentlichten bereinigten Fassung, zuletzt geändert durch
     Artikel 1 der Verordnung vom 13. Februar 1975 (BGBl. I S. 498)
-
-
-
-
 
 ### Anlage I Kap VIII E II Anlage I Kapitel VIII Sachgebiet E - Arbeitsmarktpolitik, Arbeitsförderung, Arbeitslosenversicherung Abschnitt II
 
@@ -12931,13 +12551,6 @@ Bundesrecht wird wie folgt aufgehoben, geändert oder ergänzt:
     2.  eine unselbständige Tätigkeit von weniger als fünf Jahren ausgeübt
         hat."
 
-
-
-
-
-
-
-
 ### Anlage I Kap VIII E III Anlage I Kapitel VIII Sachgebiet E - Arbeitsmarktpolitik, Arbeitsförderung, Arbeitslosenversicherung Abschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
@@ -12963,10 +12576,6 @@ mit folgenden Maßgaben in Kraft:
 
 7.  (nicht mehr anzuwenden)
 
-
-
-
-
 ### Anlage I Kap VIII F I Anlage I Kapitel VIII Sachgebiet F - Sozialversicherung (Allgemeine Vorschriften) Abschnitt I
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages
@@ -12986,10 +12595,6 @@ sind ausgenommen:
 3.  Sachbezugsverordnung 1990 in der Fassung der Bekanntmachung vom 18.
     Dezember 1984 (BGBl. I S. 1642), zuletzt geändert durch Artikel 2 der
     Verordnung vom 12. Dezember 1989 (BGBl. I S. 2177).
-
-
-
-
 
 ### Anlage I Kap VIII F II Anlage I Kapitel VIII Sachgebiet F - Sozialversicherung (Allgemeine Vorschriften) Abschnitt II
 
@@ -13445,7 +13050,6 @@ Bis zum 31. Dezember 1990 kann in dem in Artikel 3 des
 Einigungsvertrages genannten Gebiet nach den beim Wirksamwerden des
 Beitritts geltenden Regeln verfahren werden.
 
-
 ### Anlage I Kap VIII F III Anlage I Kapitel VIII Sachgebiet F - Sozialversicherung (Allgemeine Vorschriften) Abschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
@@ -13667,10 +13271,6 @@ mit folgenden Maßgaben in Kraft:
     mit folgender Maßgabe:
 
     Es gilt die in Nummer 10 genannte Maßgabe.
-
-
-
-
 
 ### Anlage I Kap VIII G II Anlage I Kapitel VIII Sachgebiet G - Krankenversicherung, Gesundheitliche Versorgung Abschnitt II
 
@@ -14494,10 +14094,6 @@ Bundesrecht wird wie folgt geändert oder ergänzt:
     durch Artikel 6 des Gesetzes vom 20. Dezember 1988 (BGBl. I S. 2477,
     2555), tritt am 1. Januar 1991 in Kraft.
 
-
-
-
-
 ### Anlage I Kap VIII G III Anlage I Kapitel VIII Sachgebiet G - Krankenversicherung, Gesundheitliche Versorgung Abschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
@@ -14655,10 +14251,6 @@ mit folgenden Maßgaben in Kraft:
 
 
 11. Die Nummern 2, 3 und 4 treten am 1. Januar 1991 in Kraft.
-
-
-
-
 
 ### Anlage I Kap VIII H I Anlage I Kapitel VIII Sachgebiet H - Gesetzliche Rentenversicherung Abschnitt I
 
@@ -14909,10 +14501,6 @@ sind ausgenommen:
     die Schaffung einer Währungs-, Wirtschafts- und Sozialunion zwischen
     der Bundesrepublik Deutschland und der Deutschen Demokratischen
     Republik vom 25. Juni 1990 (BGBl. II S. 517)
-
-
-
-
 
 ### Anlage I Kap VIII H II Anlage I Kapitel VIII Sachgebiet H - Gesetzliche Rentenversicherung Abschnitt II
 
@@ -15363,10 +14951,6 @@ Bundesrecht wird wie folgt ergänzt:
     landwirtschaftliche Alterskasse beauftragt, die bei der Hannoverschen
     Landwirtschaftlichen Berufsgenossenschaft errichtet ist."
 
-
-
-
-
 ### Anlage I Kap VIII H III Anlage I Kapitel VIII Sachgebiet H - Gesetzliche Rentenversicherung Abschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
@@ -15635,13 +15219,6 @@ mit folgenden Maßgaben in Kraft:
         genannte Gebiet nach den beim Wirksamwerden des Beitritts geltenden
         Regeln verfahren werden.
 
-
-
-
-
-
-
-
 ### Anlage I Kap VIII I I Anlage I Kapitel VIII Sachgebiet I - Gesetzliche Unfallversicherung Abschnitt I
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrags
@@ -15667,10 +15244,6 @@ sind ausgenommen:
 
 5.  Unfallversicherungsanpassungsverordnung 1983 vom 3. Mai 1983 (BGBl. I
     S. 546).
-
-
-
-
 
 ### Anlage I Kap VIII I III Anlage I Kapitel VIII Sachgebiet I - Gesetzliche Unfallversicherung Abschnitt III
 
@@ -15920,10 +15493,6 @@ mit folgenden Maßgaben in Kraft:
 
 7.  (nicht mehr anzuwenden)
 
-
-
-
-
 ### Anlage I Kap VIII K I Anlage I Kapitel VIII Sachgebiet K - Soziales Entschädigungsrecht und Rehabilitation Abschnitt I
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages
@@ -15940,10 +15509,6 @@ sind ausgenommen:
 
 
 3.  Anrechnungs-Verordnung 1990/91 vom 30. Juni 1990 (BGBl. I S. 1316).
-
-
-
-
 
 ### Anlage I Kap VIII K II Anlage I Kapitel VIII Sachgebiet K - Soziales Entschädigungsrecht und Rehabilitation Abschnitt II
 
@@ -15997,7 +15562,6 @@ Deutsche und deutsche Volkszugehörige aus den in § 1 der
 Auslandsversorgungsverordnung genannten Staaten, die nach dem 18. Mai
 1990 ihren Wohnsitz oder gewöhnlichen Aufenthalt in dem in Artikel 3
 des Einigungsvertrages genannten Gebiet begründet haben."
-
 
 ### Anlage I Kap VIII K III Anlage I Kapitel VIII Sachgebiet K - Soziales Entschädigungsrecht und Rehabilitation Abschnitt III
 
@@ -16170,10 +15734,6 @@ mit folgenden Maßgaben in Kraft:
 
 21. (nicht mehr anzuwenden)
 
-
-
-
-
 ### Anlage I Kap VIII L III Anlage I Kapitel VIII Sachgebiet L - Förderung der Vermögensbildung Abschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
@@ -16195,17 +15755,12 @@ mit folgenden Maßgaben in Kraft:
 
     Die Verordnung ist ab 1. Januar 1991 anzuwenden.
 
-
-
-
-
 ### Anlage I Kap IX Anlage I Kapitel IX Geschäftsbereich des Bundesministers der Verteidigung
 
 (Fundstelle in der Anlage I des EinigVtr - BGBl. II 1990, 1071)
 
 (siehe Kapitel XIX - Recht des öffentlichen Dienstes einschließlich
 des Rechts der Soldaten)
-
 
 ### Anlage I Kap X Anlage I Kapitel X Geschäftsbereich des Bundesministers für Jugend, Familie, Frauen und Gesundheit
 
@@ -16226,10 +15781,6 @@ c)  abschnittsbezogen (z. B. EinigVtr Anlage I Kap X H III) - Ausgegeben
     wird das Dokument zum Abschnitt III des Sachgebiets H des Kapitels X
     der Anlage I -
 
-
-
-
-
 ### Anlage I Kap X A III Anlage I Kapitel X Sachgebiet A - Frauenpolitik Abschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
@@ -16242,7 +15793,6 @@ Das Gesetz ist ab 1. Januar 1991 anzuwenden. Es gilt nicht für
 Geburten vor dem 1. Januar 1991 (vgl. Anlage II Kapitel X Sachgebiet A
 Abschnitt III Nr. 1 bis 12, Kapitel VIII Sachgebiet A Abschnitt III
 Nr. 1b)).
-
 
 ### Anlage I Kap X B III Anlage I Kapitel X Sachgebiet B - Jugend Abschnitt III
 
@@ -16271,13 +15821,6 @@ mit den folgenden Maßgaben in Kraft:
         Durchführung Gewähr bieten, auch ohne Zustimmung der zuständigen
         Landesbehörden zugelassen.
 
-
-
-
-
-
-
-
 ### Anlage I Kap X C II Anlage I Kapitel X Sachgebiet C - Zivildienst Abschnitt II
 
 Bundesrecht wird wie folgt ergänzt:
@@ -16297,7 +15840,6 @@ insbesondere auf Art, Berechnungsgrundlagen, Höhe von
 Versorgungsleistungen und Ruhensregelungen abweichend von diesem
 Gesetz."
 
-
 ### Anlage I Kap X C III Anlage I Kapitel X Sachgebiet C - Zivildienst Abschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
@@ -16308,10 +15850,6 @@ mit folgenden Maßgaben in Kraft:
 
 2.  (nicht mehr anzuwenden)
 
-
-
-
-
 ### Anlage I Kap X D I Anlage I Kapitel X Sachgebiet D - Gesundheitspolitik Abschnitt I
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages
@@ -16319,10 +15857,6 @@ ist ausgenommen:
 
 1.  Reichsärztekammer-Abwicklungsgesetz vom 9. Oktober 1973 (BGBl. I S.
     1449)
-
-
-
-
 
 ### Anlage I Kap X D II Anlage I Kapitel X Sachgebiet D - Gesundheitspolitik Abschnitt II
 
@@ -17780,10 +17314,6 @@ Bundesrecht wird wie folgt aufgehoben, geändert oder ergänzt:
     einer Anzeige, sind sie bis zum 31. März 1991 bei der zuständigen
     Behörde anzumelden."
 
-
-
-
-
 ### Anlage I Kap X D III Anlage I Kapitel X Sachgebiet D - Gesundheitspolitik Abschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
@@ -17822,10 +17352,6 @@ mit folgenden Maßgaben in Kraft:
 
 5.  (nicht mehr anzuwenden)
 
-
-
-
-
 ### Anlage I Kap X E II Anlage I Kapitel X Sachgebiet E - Lebensmittel- und Bedarfsgegenständerecht Abschnitt II
 
 Bundesrecht wird wie folgt geändert oder ergänzt:
@@ -17854,17 +17380,9 @@ Bundesrecht wird wie folgt geändert oder ergänzt:
     b)  In Absatz 3 werden die Worte "Absatz 1 Nr. 1" durch die Worte "Absatz
         1 Nr. 1 und 3" ersetzt.
 
-
-
-
-
-
-
-
 ### Anlage I Kap X E III Anlage I Kapitel X Sachgebiet E - Lebensmittel- und Bedarfsgegenständerecht Abschnitt III
 
 (Abschnitt III nicht mehr anzuwenden)
-
 
 ### Anlage I Kap X F II Anlage I Kapitel X Sachgebiet F - Fleisch- und Geflügelfleischhygienerecht Abschnitt II
 
@@ -17915,23 +17433,12 @@ Bundesrecht wird wie folgt aufgehoben oder ergänzt:
         begonnen haben und sie danach nach dem dort bisher geltenden Recht
         abschließen."
 
-
-
-
-
-
-
-
 ### Anlage I Kap X F III Anlage I Kapitel X Sachgebiet F - Fleisch- und Geflügelfleischhygienerecht Abschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:
 
 1.  (nicht mehr anzuwenden)
-
-
-
-
 
 ### Anlage I Kap X G II Anlage I Kapitel X Sachgebiet G - Tierärzte Abschnitt II
 
@@ -18092,13 +17599,6 @@ Bundesrecht wird wie folgt aufgehoben, geändert oder ergänzt:
         mindestens 6 Monaten nach Bestehen der Tierärztlichen Hauptprüfung
         abgeleistet werden kann."
 
-
-
-
-
-
-
-
 ### Anlage I Kap X G III Anlage I Kapitel X Sachgebiet G - Tierärzte Abschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
@@ -18123,13 +17623,6 @@ mit folgenden Maßgaben in Kraft:
 
     b)  (nicht mehr anzuwenden)
 
-
-
-
-
-
-
-
 ### Anlage I Kap X H I Anlage I Kapitel X Sachgebiet H - Familie und Soziales Abschnitt I
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages
@@ -18149,10 +17642,6 @@ sind ausgenommen:
 3.  Verordnung über die Pauschsätze für Instandsetzung und Pflege der
     Gräber im Sinne des Gräbergesetzes für die Haushaltsjahre 1987 und
     1988 vom 7. November 1988 (BGBl. I S. 2115).
-
-
-
-
 
 ### Anlage I Kap X H II Anlage I Kapitel X Sachgebiet H - Familie und Soziales Abschnitt II
 
@@ -18341,13 +17830,6 @@ Bundesrecht wird wie folgt geändert oder ergänzt:
         Personen, deren wöchentliche Arbeitszeit unter der Grenze für
         geringfügige Beschäftigungen liegt."
 
-
-
-
-
-
-
-
 ### Anlage I Kap X H III Anlage I Kapitel X Sachgebiet H - Familie und Soziales Abschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
@@ -18454,10 +17936,6 @@ mit nachfolgenden Maßgaben in Kraft:
     Die in § 13 letzter Halbsatz genannte Jahreszahl "1983" wird durch die
     Zahl "1993" ersetzt.
 
-
-
-
-
 ### Anlage I Kap XI Anlage I Kapitel XI Geschäftsbereich des Bundesministers für Verkehr
 
 (Fundstelle in der Anlage I des EinigVtr - BGBl. II 1990, 1098 - 1113)
@@ -18476,10 +17954,6 @@ b)  sachgebietsbezogen (z. B. EinigVtr Anlage I Kap XI G) - Ausgegeben
 c)  abschnittsbezogen (z. B. EinigVtr Anlage I Kap XI G III) - Ausgegeben
     wird das Dokument zum Abschnitt III des Sachgebiets G des Kapitels XI
     der Anlage I -
-
-
-
-
 
 ### Anlage I Kap XI A III Anlage I Kapitel XI Sachgebiet A - Eisenbahnverkehr Abschnitt III
 
@@ -18650,17 +18124,12 @@ mit folgenden Maßgaben in Kraft:
     und Rechtsverordnungen des Bundes, die besondere Regelungen für die
     Deutsche Bundesbahn vorsehen.
 
-
-
-
-
 ### Anlage I Kap XI B I Anlage I Kapitel XI Sachgebiet B - Straßenverkehr Abschnitt I
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages
 sind ausgenommen:
 Höchstzahlenverordnung GüKG vom 9. Dezember 1986 (BGBl. I S. 2452),
 geändert durch Verordnung vom 5. Dezember 1989 (BGBl. I S. 2131).
-
 
 ### Anlage I Kap XI B III Anlage I Kapitel XI Sachgebiet B - Straßenverkehr Abschnitt III
 
@@ -19177,10 +18646,6 @@ mit folgenden Maßgaben in Kraft:
 
 18. (nicht mehr anzuwenden)
 
-
-
-
-
 ### Anlage I Kap XI C II Anlage I Kapitel XI Sachgebiet C - Luftfahrt Abschnitt II
 
 Bundesrecht wird wie folgt geändert:
@@ -19191,7 +18656,6 @@ In § 1 Abs. 1 werden nach dem Wort "Flughäfen" die Worte "Berlin-
 Schönefeld,", nach dem Wort "Bremen" das Wort "Dresden,", nach dem
 Wort "Düsseldorf" das Wort "Erfurt," und nach den Worten "Köln/Bonn"
 das Wort "Leipzig," eingefügt.
-
 
 ### Anlage I Kap XI C III Anlage I Kapitel XI Sachgebiet C - Luftfahrt Abschnitt III
 
@@ -19221,10 +18685,6 @@ mit folgenden Maßgaben in Kraft:
 
 
 4.  (nicht mehr anzuwenden)
-
-
-
-
 
 ### Anlage I Kap XI D II Anlage I Kapitel XI Sachgebiet D - Seeverkehr Abschnitt II
 
@@ -19292,10 +18752,6 @@ Bundesrecht wird wie folgt aufgehoben, geändert oder ergänzt:
 
     "Die völkerrechtlichen Regeln über die friedliche Durchfahrt durch das
     Küstenmeer bleiben unberührt."
-
-
-
-
 
 ### Anlage I Kap XI D III Anlage I Kapitel XI Sachgebiet D - Seeverkehr Abschnitt III
 
@@ -19511,10 +18967,6 @@ mit folgenden Maßgaben in Kraft:
     Unterlagen, die sich auf das Schiffahrtsgeschäft vor dem Wirksamwerden
     des Beitritts beziehen.
 
-
-
-
-
 ### Anlage I Kap XI E III Anlage I Kapitel XI Sachgebiet E - Binnenschiffahrt und Wasserstraßen Abschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
@@ -19623,13 +19075,6 @@ mit folgenden Maßgaben in Kraft:
         In der Rechtsverordnung ist die Anlage zum Gesetz zu ändern. § 2 des
         Bundeswasserstraßengesetzes findet keine Anwendung.
 
-
-
-
-
-
-
-
 ### Anlage I Kap XI F III Anlage I Kapitel XI Sachgebiet F - Straßenbau Abschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
@@ -19663,13 +19108,6 @@ mit folgenden Maßgaben in Kraft:
         Verwaltungsverfahrensgesetz zu Ende geführt, wenn eine abschließende
         Sachentscheidung vor Wirksamwerden des Beitritts noch nicht ergangen
         ist.
-
-
-
-
-
-
-
 
 ### Anlage I Kap XI G II Anlage I Kapitel XI Sachgebiet G - Allgemeine verkehrliche Bestimmungen Abschnitt II
 
@@ -19778,17 +19216,9 @@ Bundesrecht wird wie folgt geändert oder ergänzt:
         Sachsen, Sachsen-Anhalt und Thüringen finden die Absätze 1 bis 3 keine
         Anwendung."
 
-
-
-
-
-
-
-
 ### Anlage I Kap XI G III Anlage I Kapitel XI Sachgebiet G - Allgemeine verkehrliche Bestimmungen Abschnitt III
 
 (Abschnitt III nicht mehr anzuwenden)
-
 
 ### Anlage I Kap XII Anlage I Kapitel XII Geschäftsbereich des Bundesministers für Umwelt, Naturschutz und Reaktorsicherheit
 
@@ -19808,10 +19238,6 @@ b)  sachgebietsbezogen (z. B. EinigVtr Anlage I Kap XII A) - Ausgegeben
 c)  abschnittsbezogen (z. B. EinigVtr Anlage I Kap XII A III) - Ausgegeben
     wird das Dokument zum Abschnitt III des Sachgebiets A des Kapitels XII
     der Anlage I -
-
-
-
-
 
 ### Anlage I Kap XII A II Anlage I Kapitel XII Sachgebiet A - Immissionsschutzrecht Abschnitt II
 
@@ -19929,10 +19355,6 @@ d)  Dem § 74 wird folgender Satz angefügt:
 
     "§ 10a tritt am 30. Juni 1992 außer Kraft."
 
-
-
-
-
 ### Anlage I Kap XII A III Anlage I Kapitel XII Sachgebiet A - Immissionsschutzrecht Abschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
@@ -19954,10 +19376,6 @@ mit folgenden Maßgaben in Kraft:
 
 
 6.  (nicht mehr anzuwenden)
-
-
-
-
 
 ### Anlage I Kap XII B II Anlage I Kapitel XII Sachgebiet B - Kerntechnische Sicherheit und Strahlenschutz Abschnitt II
 
@@ -20050,10 +19468,6 @@ Bundesrecht wird wie folgt geändert:
     Bundes im Sinne von § 2. Zuständig ist das Bundesamt für
     Strahlenschutz."
 
-
-
-
-
 ### Anlage I Kap XII C III Anlage I Kapitel XII Sachgebiet C - Wasserwirtschaft Abschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
@@ -20069,10 +19483,6 @@ mit folgenden Maßgaben in Kraft:
 
 
 4.  (nicht mehr anzuwenden)
-
-
-
-
 
 ### Anlage I Kap XII D II Anlage I Kapitel XII Sachgebiet D - Abfallwirtschaft Abschnitt II
 
@@ -20169,10 +19579,6 @@ d)  Nach § 31 wird folgender § 32 eingefügt:
 
     § 8a Abs. 1 bis 4 treten am 30. Juni 1992 außer Kraft."
 
-
-
-
-
 ### Anlage I Kap XII E III Anlage I Kapitel XII Sachgebiet E - Chemikalienrecht Abschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
@@ -20203,14 +19609,9 @@ mit folgenden Maßgaben in Kraft:
 
 3.  (nicht mehr anzuwenden)
 
-
-
-
-
 ### Anlage I Kap XII F III Anlage I Kapitel XII Sachgebiet F - Naturschutz und Landschaftspflege Abschnitt III
 
 (Abschnitt III nicht mehr anzuwenden)
-
 
 ### Anlage I Kap XIII Anlage I Kapitel XIII Geschäftsbereich des Bundesministers für Post und Telekommunikation
 
@@ -20232,10 +19633,6 @@ c)  abschnittsbezogen (z. B. EinigVtr Anlage I Kap XIII A III) -
     Ausgegeben wird das Dokument zum Abschnitt III des Sachgebiets A des
     Kapitels XIII der Anlage I -
 
-
-
-
-
 ### Anlage I Kap XIII A II Anlage I Kapitel XIII Sachgebiet A - Postverfassungsrecht Abschnitt II
 
 Bundesrecht wird wie folgt geändert oder aufgehoben:
@@ -20252,13 +19649,6 @@ Bundesrecht wird wie folgt geändert oder aufgehoben:
     b)  Die Berlin betreffenden Sonderregelungen in § 1 Abs. 3, § 2 Abs. 3, §
         46 Abs. 2, § 47 Abs. 1 Satz 1 Nr. 2 und Satz 3 sowie § 61 Satz 2 Nr. 1
         werden aufgehoben.
-
-
-
-
-
-
-
 
 ### Anlage I Kap XIII A III Anlage I Kapitel XIII Sachgebiet A - Postverfassungsrecht Abschnitt III
 
@@ -20285,13 +19675,6 @@ mit folgenden Maßgaben in Kraft:
         Stelle der Worte "zwei Jahre nach dem Inkrafttreten dieses Gesetzes"
         und entfallen in Satz 2 die Worte "innerhalb eines Jahres nach
         Inkrafttreten dieses Gesetzes."
-
-
-
-
-
-
-
 
 ### Anlage I Kap XIII B I Anlage I Kapitel XIII Sachgebiet B - Postwesen Abschnitt I
 
@@ -20353,10 +19736,6 @@ sind ausgenommen:
     (BGBl. I S. 1400), zuletzt geändert durch Verordnung vom 26. Juni 1989
     (BGBl. I S. 1260).
 
-
-
-
-
 ### Anlage I Kap XIII B III Anlage I Kapitel XIII Sachgebiet B - Postwesen Abschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
@@ -20369,10 +19748,6 @@ mit folgenden Maßgaben in Kraft:
 
     In § 12 Abs. 3 werden nach dem Wort "Paketen" ein Komma und die Worte
     "Wirtschaftspaketen oder Poststücken" eingefügt.
-
-
-
-
 
 ### Anlage I Kap XIII C III Anlage I Kapitel XIII Sachgebiet C - Fernmeldewesen Abschnitt III
 
@@ -20450,13 +19825,6 @@ mit folgenden Maßgaben in Kraft:
 
     -   Übermittlungsdienst für Presseinformationen
 
-
-
-
-
-
-
-
 ### Anlage I Kap XIV Anlage I Kapitel XIV Geschäftsbereich des Bundesministers für Raumordnung, Bauwesen und Städtebau
 
 (Fundstelle in der Anlage I des EinigVtr - BGBl. II 1990, 1122 - 1128)
@@ -20471,10 +19839,6 @@ a)  kapitelbezogen (z. B. EinigVtr Anlage I Kap XIV) - Ausgegeben werden
 b)  abschnittsbezogen (z. B. EinigVtr Anlage I Kap XIV III) - Ausgegeben
     wird das Dokument zum Abschnitt III des Kapitels XIV der Anlage I -
 
-
-
-
-
 ### Anlage I Kap XIV I Anlage I Kapitel XIV Abschnitt I
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages
@@ -20487,10 +19851,6 @@ sind ausgenommen:
 
 2.  Gesetz zur dauerhaften sozialen Verbesserung der Wohnungssituation im
     Land Berlin vom 14. Juli 1987 (BGBl. I S. 1625).
-
-
-
-
 
 ### Anlage I Kap XIV II Anlage I Kapitel XIV Abschnitt II
 
@@ -21177,24 +20537,15 @@ Bundesrecht wird wie folgt ergänzt:
         aufzuheben, soweit darin bestimmt wird, daß § 36 Abs. 2 nicht
         anzuwenden ist."
 
-
-
-
-
-
-
-
 ### Anlage I Kap XIV III Anlage I Kapitel XIV Abschnitt III
 
 (Abschnitt III nicht mehr anzuwenden)
-
 
 ### Anlage I Kap XV Anlage I Kapitel XV Geschäftsbereich des Bundesministers für Forschung und Technologie
 
 (Fundstelle in der Anlage I des EinigVtr - BGBl. II 1990, 1129)
 
 -
-
 
 ### Anlage I Kap XVI Anlage I Kapitel XVI Geschäftsbereich des Bundesministers für Bildung und Wissenschaft
 
@@ -21214,10 +20565,6 @@ b)  sachgebietsbezogen (z. B. EinigVtr Anlage I Kap XVI C) - Ausgegeben
 c)  abschnittsbezogen (z. B. EinigVtr Anlage I Kap XVI C III) - Ausgegeben
     wird das Dokument zum Abschnitt III des Sachgebiets C des Kapitels XVI
     der Anlage I -
-
-
-
-
 
 ### Anlage I Kap XVI A II Anlage I Kapitel XVI Sachgebiet A - Hochschulen Abschnitt II
 
@@ -21464,13 +20811,6 @@ Bundesrecht wird wie folgt geändert oder ergänzt:
         mitgliedschaftsrechtliche Stellung derjenigen Beamten und
         Angestellten, die in ihrem bisherigen Rechtsverhältnis verbleiben,
         wird durch Landesrecht bestimmt."
-
-
-
-
-
-
-
 
 ### Anlage I Kap XVI B II Anlage I Kapitel XVI Sachgebiet B - Ausbildungsförderung Abschnitt II
 
@@ -22035,10 +21375,6 @@ treten in dem in Artikel 3 des Einigungsvertrages genannten Gebiet am
     Wohnsitz außerhalb des Geltungsbereichs des Gesetzes vom 1. Juni 1990
     (BGBl. I S. 998) tritt mit Ablauf des 31. Dezember 1990 außer Kraft.
 
-
-
-
-
 ### Anlage I Kap XVI C II Anlage I Kapitel XVI Sachgebiet C - Berufliche Bildung Abschnitt II
 
 Bundesrecht wird wie folgt geändert:
@@ -22054,10 +21390,6 @@ Bundesrecht wird wie folgt geändert:
     Prüfungszeugnisse nach der Systematik der Ausbildungsberufe und der
     Systematik der Facharbeiterberufe und Prüfungszeugnisse nach § 34 Abs.
     2 stehen einander gleich."
-
-
-
-
 
 ### Anlage I Kap XVI C III Anlage I Kapitel XVI Sachgebiet C - Berufliche Bildung
 
@@ -22155,13 +21487,6 @@ mit folgenden Maßgaben in Kraft:
         Prüfungsverfahren in der beruflichen Fortbildung und beruflichen
         Umschulung werden nach den bisherigen Vorschriften zu Ende geführt.
 
-
-
-
-
-
-
-
 ### Anlage I Kap XVI D III Anlage I Kapitel XVI Sachgebiet D - Fernunterricht Abschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
@@ -22179,16 +21504,11 @@ mit folgenden Maßgaben in Kraft:
     Abs. 1 des Vertrages genannten Ländern und in dem Teil des Landes
     Berlin, in dem das Grundgesetz bisher nicht galt, als zugelassen.
 
-
-
-
-
 ### Anlage I Kap XVII Anlage I Kapitel XVII Geschäftsbereich des Bundesministers für wirtschaftliche Zusammenarbeit
 
 (Fundstelle in der Anlage I des EinigVtr - BGBl. II 1990, 1137)
 
 -
-
 
 ### Anlage I Kap XVII III Anlage I Kapitel XVII Abschnitt III
 
@@ -22227,10 +21547,6 @@ a)  Soweit in § 8 Abs. 2 auf § 3 Abs. 2 und § 6 Abs. 1 des
 
 \*) siehe Anlage II Kapitel X Sachgebiet A Abschnitt III Nr. 1
 
-
-
-
-
 ### Anlage I Kap XVIII Anlage I Kapitel XVIII Statistik
 
 (Fundstelle in der Anlage I des EinigVtr - BGBl. II 1990, 1138)
@@ -22245,10 +21561,6 @@ a)  kapitelbezogen (z. B. EinigVtr Anlage I Kap XVIII) - Ausgegeben werden
 b)  abschnittsbezogen (z. B. EinigVtr Anlage I Kap XVIII II) - Ausgegeben
     wird das Dokument zum Abschnitt II des Kapitels XVIII der Anlage I -
 
-
-
-
-
 ### Anlage I Kap XVIII I Anlage I Kapitel XVIII Abschnitt I
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages
@@ -22259,15 +21571,10 @@ ist ausgenommen:
     751), geändert durch Artikel 30 des Gesetzes vom 25. Juni 1990 (BGBl.
     I S. 517).
 
-
-
-
-
 ### Anlage I Kap XVIII II Anlage I Kapitel XVIII Abschnitt II
 
 Bundesrecht wird wie folgt ergänzt:
 (nicht mehr anzuwenden)
-
 
 ### Anlage I Kap XIX Anlage I Kapitel XIX Recht der im öffentlichen Dienst stehenden Personen einschließlich des Rechts der Soldaten
 
@@ -22287,10 +21594,6 @@ b)  sachgebietsbezogen (z. B. EinigVtr Anlage I Kap XIX B) - Ausgegeben
 c)  abschnittsbezogen (z. B. EinigVtr Anlage I Kap XIX B III) - Ausgegeben
     wird das Dokument zum Abschnitt III des Sachgebiets B des Kapitels XIX
     der Anlage I -
-
-
-
-
 
 ### Anlage I Kap XIX A II Anlage I Kapitel XIX Sachgebiet A - Recht der im öffentlichen Dienst stehenden Personen Abschnitt II
 
@@ -22378,10 +21681,6 @@ Bundesrecht wird wie folgt geändert:
     Leistungen des Dienstherrn sowie für Besonderheiten der
     Ämtereinstufung und für die Angleichung der Ämter- und
     Laufbahnstrukturen. Die Übergangsregelungen sind zu befristen."
-
-
-
-
 
 ### Anlage I Kap XIX A III Anlage I Kapitel XIX Sachgebiet A - Recht der im öffentlichen Dienst stehenden Personen Abschnitt III
 
@@ -22522,10 +21821,6 @@ mit folgenden Maßgaben in Kraft:
     anzupassen. Die Übergangsregelungen sind zu befristen. Bis zum
     Inkrafttreten der Rechtsverordnung sind die am Tage vor dem
     Wirksamwerden des Beitritts geltenden Bestimmungen weiter anzuwenden.
-
-
-
-
 
 ### Anlage I Kap XIX B II Anlage I Kapitel XIX Sachgebiet B - Recht der Soldaten Abschnitt II
 
@@ -22780,10 +22075,6 @@ Bundesrecht wird wie folgt geändert und ergänzt:
     Die vorstehenden Regelungen dieses Abschnitts treten mit Ablauf des
     31\. Dezember 1996 außer Kraft.
 
-
-
-
-
 ### Anlage I Kap XIX B III Anlage I Kapitel XIX Sachgebiet B - Recht der Soldaten Abschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
@@ -22880,10 +22171,6 @@ mit folgenden Maßgaben in Kraft:
     festgeschriebenen Leistungen sowie die Leistungsgrenzen entsprechend
     den wirtschaftlichen und finanziellen Verhältnissen in dem in Artikel
     3 des Vertrages genannten Gebiet anzupassen.
-
-
-
-
 
 ### Anlage II Inhaltsverzeichnis
 
@@ -23016,10 +22303,6 @@ mit folgenden Maßgaben in Kraft:
 
     *   Recht des öffentlichen Dienstes einschließlich des Rechts der Soldaten
 
-
-
-
-
 ### Anlage II BesBest Besondere Bestimmungen für fortgeltendes Recht der Deutschen Demokratischen Republik
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1148)
@@ -23051,13 +22334,11 @@ und Anlage II auch ohne zusätzliche Vereinbarung zwischen der
 Bundesrepublik Deutschland und der Deutschen Demokratischen Republik
 mit den in dieser Anlage niedergelegten Maßgaben in Kraft.
 
-
 ### Anlage II Kap I Anlage II Kapitel I Geschäftsbereich des Bundesministers des Auswärtigen
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1149)
 
 -
-
 
 ### Anlage II Kap I I Anlage II Kapitel I Abschnitt I
 
@@ -23083,10 +22364,6 @@ Gebiet weiter:
 
     (Quelle für den Notenwechsel: Staatsarchiv)
 
-
-
-
-
 ### Anlage II Kap II Anlage II Kapitel II Geschäftsbereich des Bundesministers des Innern
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1150 -
@@ -23109,15 +22386,10 @@ c)  abschnittsbezogen (z. B. EinigVtr Anlage II Kap II B III) - Ausgegeben
     wird das Dokument zum Abschnitt III des Sachgebiets B des Kapitels II
     der Anlage II -
 
-
-
-
-
 ### Anlage II Kap II A I Anlage II Kapitel II Sachgebiet A - Staats- und Verfassungsrecht Abschnitt I
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt in Kraft:
 Länderwahlgesetz - LWG - vom 22. Juli 1990 (GBl. I Nr. 51 S. 960)
-
 
 ### Anlage II Kap II A II Anlage II Kapitel II Sachgebiet A - Staats- und Verfassungsrecht Abschnitt II
 
@@ -23128,7 +22400,6 @@ des Ländereinführungsgesetzes vom 22. Juli 1990 (GBl. I Nr. 51 S. 955)
 mit folgenden Änderungen: In § 1 Abs. 1 und § 25 Abs. 1 tritt an die
 Stelle des Datums 14. Oktober 1990 das Datum 3. Oktober 1990.
 
-
 ### Anlage II Kap II A III Anlage II Kapitel II Sachgebiet A - Staats- und Verfassungsrecht Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
@@ -23138,7 +22409,6 @@ Republik vom 21. Februar 1990 (GBl. I Nr. 9 S. 66), das zuletzt durch
 Gesetz vom 22. Juli 1990 (GBl. I Nr. 49 S. 904) geändert worden ist,
 mit folgenden Maßgaben:
 a) bis d) (nicht mehr anzuwenden)
-
 
 ### Anlage II Kap II B I Anlage II Kapitel II Sachgebiet B - Verwaltung Abschnitt I
 
@@ -23153,10 +22423,6 @@ DDR (Kommunalverfassung) vom 17. Mai 1990 (GBl. I Nr. 28 S. 255) \*)
     1990 zu erwartenden Entscheidung des Bundesverfassungsgerichts zum
     Ausländerwahlrecht der Länder Hamburg und Schleswig-Holstein mit dem
     Grundgesetz nicht zu vereinbaren ist."
-
-
-
-
 
 ### Anlage II Kap II B III Anlage II Kapitel II Sachgebiet B - Verwaltung Abschnitt III
 
@@ -23252,10 +22518,6 @@ folgenden Maßgaben in Kraft:
     Satz 1 genannten Zeitraums in entsprechende Einrichtungen der Länder
     zu überführen.
 
-
-
-
-
 ### Anlage II Kap II C III Anlage II Kapitel II Sachgebiet C - Öffentliche Sicherheit Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
@@ -23303,13 +22565,6 @@ folgenden Maßgaben in Kraft:
 
     b)  Mit Wirksamwerden des Beitritts tritt § 81 außer Kraft.
 
-
-
-
-
-
-
-
 ### Anlage II Kap III Anlage II Kapitel III Geschäftsbereich des Bundesministers der Justiz
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1153 -
@@ -23330,10 +22585,6 @@ b)  sachgebietsbezogen (z. B. EinigVtr Anlage II Kap III C) - Ausgegeben
 c)  abschnittsbezogen (z. B. EinigVtr Anlage II Kap III C III) -
     Ausgegeben wird das Dokument zum Abschnitt III des Sachgebiets C des
     Kapitels III der Anlage II -
-
-
-
-
 
 ### Anlage II Kap III A I Anlage II Kapitel III Sachgebiet A - Rechtspflege Abschnitt I
 
@@ -23383,10 +22634,6 @@ Folgendes Recht der Deutschen Demokratischen Republik bleibt in Kraft:
 10. Anordnung über die Bestellung von Dolmetschern und Übersetzern für die
     Gerichte und Staatlichen Notariate vom 5. Februar 1976 (GBl. I Nr. 6
     S. 101).
-
-
-
-
 
 ### Anlage II Kap III A II Anlage II Kapitel III Sachgebiet A - Rechtspflege Abschnitt II
 
@@ -23718,10 +22965,6 @@ folgenden Aufhebungen, Änderungen, Ergänzungen und Maßgaben in Kraft:
 3.  Die in Anlage I Kapitel III Sachgebiet A Abschnitt III unter Nummer 28
     aufgeführten allgemeinen Maßgaben gelten entsprechend.
 
-
-
-
-
 ### Anlage II Kap III A III Anlage II Kapitel III Sachgebiet A - Rechtspflege Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt -
@@ -23849,10 +23092,6 @@ Maßgaben in Kraft:
 3.  Die in Anlage I Kapitel III Sachgebiet A Abschnitt III unter Nummer 28
     aufgeführten allgemeinen Maßgaben gelten entsprechend.
 
-
-
-
-
 ### Anlage II Kap III A IV Anlage II Kapitel III Sachgebiet A - Rechtspflege Abschnitt IV
 
 In dem Teil des Landes Berlin, in dem das Grundgesetz bisher nicht
@@ -23897,13 +23136,6 @@ galt, gelten folgende Besonderheiten:
         Zuweisung von Streitigkeiten nach der Gesamtvollstreckungsordnung an
         ein Amtsgericht in dem Teil des Landes Berlin, in dem das Grundgesetz
         bisher schon galt.
-
-
-
-
-
-
-
 
 ### Anlage II Kap III B I Anlage II Kapitel III Sachgebiet B - Bürgerliches Recht Abschnitt I
 
@@ -24958,13 +24190,6 @@ Deutschen Demokratischen Republik in Kraft:
 
     11. sowie zu diesen Rechtsvorschriften erlassene Anweisungen."
 
-
-
-
-
-
-
-
 ### Anlage II Kap III B II Anlage II Kapitel III Sachgebiet B - Bürgerliches Recht Abschnitt II
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
@@ -24988,13 +24213,6 @@ folgenden Aufhebungen in Kraft:
 
 
     d)  §§ 8 bis 15 werden aufgehoben.
-
-
-
-
-
-
-
 
 ### Anlage II Kap III B III Anlage II Kapitel III Sachgebiet B - Bürgerliches Recht Abschnitt III
 
@@ -25069,10 +24287,6 @@ h)  § 10 erhält unter Verzicht auf eine Untergliederung in Absätze
     Staates zu, die im Geltungsbereich dieses Gesetzes keinen Wohnsitz
     oder ständigen Aufenthalt haben."
 
-
-
-
-
 ### Anlage II Kap III C I Anlage II Kapitel III Sachgebiet C - Strafrecht und Ordnungswidrigkeitenrecht Abschnitt I
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt in Kraft:
@@ -25105,10 +24319,6 @@ Folgendes Recht der Deutschen Demokratischen Republik bleibt in Kraft:
     Durchführungsbestimmung zum Gesetz über die Unterbrechung der
     Schwangerschaft vom 9. März 1972 (GBl. II Nr. 12 S. 149).
 
-
-
-
-
 ### Anlage II Kap III C II Anlage II Kapitel III Sachgebiet C - Strafrecht und Ordnungswidrigkeitenrecht Abschnitt II
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
@@ -25132,7 +24342,6 @@ wer gegen eine Rechtsvorschrift, eine vollziehbare Untersagung,
 Anordnung oder Auflage verstößt, die dem Schutz des Bodens vor
 Verunreinigungen dient."
 
-
 ### Anlage II Kap III C III Anlage II Kapitel III Sachgebiet C - Strafrecht und Ordnungswidrigkeitenrecht Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
@@ -25142,7 +24351,6 @@ Schadensersatzvorauszahlungsgesetz vom 14. Dezember 1988 (GBl. I Nr.
 mit folgender Maßgabe:
 Es findet auf die vor dem Wirksamwerden des Beitritts gestellten
 Anträge Anwendung.
-
 
 ### Anlage II Kap III D I Anlage II Kapitel III Sachgebiet D - Handels- und Gesellschaftsrecht, Versicherungsvertragsrecht Abschnitt I
 
@@ -27468,10 +26676,6 @@ Folgendes Recht der Deutschen Demokratischen Republik bleibt in Kraft:
     Demokratischen Republik zum 30. Juni 1990 vom 27. Juni 1990 (GBl. I
     Nr. 40 S. 593)
 
-
-
-
-
 ### Anlage II Kap III D III Anlage II Kapitel III Sachgebiet D - Handels- und Gesellschaftsrecht, Versicherungsvertragsrecht Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
@@ -27483,7 +26687,6 @@ Pflichtversicherungsordnung - vom 1. August 1990 (GBl. I Nr. 52 S.
 zum 31. Dezember 1991 fort. Der Bundesminister der Justiz wird
 ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die
 Geltungsdauer dieser Bestimmungen zu verlängern.
-
 
 ### Anlage II Kap IV Anlage II Kapitel IV Geschäftsbereich des Bundesministers der Finanzen
 
@@ -27499,10 +26702,6 @@ a)  kapitelbezogen (z. B. EinigVtr Anlage II Kap IV) - Ausgegeben werden
 
 b)  abschnittsbezogen (z. B. EinigVtr Anlage II Kap IV III) - Ausgegeben
     wird das Dokument zum Abschnitt III des Kapitels IV der Anlage II -
-
-
-
-
 
 ### Anlage II Kap IV I Anlage II Kapitel IV Abschnitt I
 
@@ -27899,10 +27098,6 @@ sind, ist das Gesetz vom Tage nach der Verkündung anzuwenden."
 
 9.  Satzung der Treuhandanstalt vom 18. Juli 1990 (GBl. I Nr. 46 S. 809)
 
-
-
-
-
 ### Anlage II Kap IV II Anlage II Kapitel IV Abschnitt II
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
@@ -27977,13 +27172,6 @@ folgenden Änderungen in Kraft:
         Nach Herstellung der Einheit Deutschlands tritt § 13 außer Kraft; die
         Zuständigkeiten gemäß § 6 Abs. 2 Nr 1, 2 und 3, §§ 8, 10 Abs. 2 und §
         12 gehen auf den Bundesminister der Finanzen über."
-
-
-
-
-
-
-
 
 ### Anlage II Kap IV III Anlage II Kapitel IV Abschnitt III
 
@@ -28137,10 +27325,6 @@ folgenden Maßgaben in Kraft:
 
     Sie bleiben bis zum 31. Dezember 1990 in Kraft.
 
-
-
-
-
 ### Anlage II Kap V Anlage II Kapitel V Geschäftsbereich des Bundesministers für Wirtschaft
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1201 -
@@ -28160,10 +27344,6 @@ b)  sachgebietsbezogen (z. B. EinigVtr Anlage II Kap V E) - Ausgegeben
 c)  abschnittsbezogen (z. B. EinigVtr Anlage II Kap V E II) - Ausgegeben
     wird das Dokument zum Abschnitt II des Sachgebiets E des Kapitels V
     der Anlage II -
-
-
-
-
 
 ### Anlage II Kap V A III Anlage II Kapitel V Sachgebiet A - Allgemeines Wirtschaftsrecht, Wirtschaftspolitik, Wettbewerbs- und Preisrecht Abschnitt III
 
@@ -28247,10 +27427,6 @@ folgenden Maßgaben in Kraft:
 
     Die Verordnung tritt zum 31. Dezember 1990 außer Kraft.
 
-
-
-
-
 ### Anlage II Kap V D III Anlage II Kapitel V Sachgebiet D - Recht des Bergbaus und der Versorgungswirtschaft Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
@@ -28330,13 +27506,6 @@ folgenden Maßgaben in Kraft:
         bedarf zur Erhaltung gegenüber dem öffentlichen Glauben des
         Grundbuches nicht der Eintragung in das Grundbuch.
 
-
-
-
-
-
-
-
 ### Anlage II Kap V E II Anlage II Kapitel V Sachgebiet E - Außenwirtschaftsrecht Abschnitt II
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
@@ -28385,10 +27554,6 @@ folgenden Änderungen oder Maßgaben in Kraft:
     von Exportverträgen mit den RGW-Ländern im 2. Halbjahr 1990" vom 27.
     Juni 1990 gilt bis zum zum 31. Dezember 1990 fort.
 
-
-
-
-
 ### Anlage II Kap VI Anlage II Kapitel VI Geschäftsbereich des Bundesministers für Ernährung, Landwirtschaft und Forsten
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1204 -
@@ -28409,10 +27574,6 @@ c)  abschnittsbezogen (z. B. EinigVtr Anlage II Kap VI A III) - Ausgegeben
     wird das Dokument zum Abschnitt III des Sachgebiets A des Kapitels VI
     der Anlage II -
 
-
-
-
-
 ### Anlage II Kap VI A II Anlage II Kapitel VI Sachgebiet A - Bodennutzung und Tierhaltung Abschnitt II
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
@@ -28432,13 +27593,6 @@ folgenden Änderungen in Kraft:
 
 
     c)  § 69 Abs. 1 Nr. 2 bis 4 wird gestrichen.
-
-
-
-
-
-
-
 
 ### Anlage II Kap VI A III Anlage II Kapitel VI Sachgebiet A - Bodennutzung und Tierhaltung Abschnitt III
 
@@ -28475,10 +27629,6 @@ folgenden Maßgaben in Kraft:
 
     Das Gesetz tritt mit Ablauf des 31. Dezember 1991 außer Kraft.
 
-
-
-
-
 ### Anlage II Kap VI B II Anlage II Kapitel VI Sachgebiet B - Treuhandvermögen Abschnitt II
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
@@ -28494,13 +27644,6 @@ folgenden Änderungen in Kraft:
 
 
     b)  § 8 wird gestrichen.
-
-
-
-
-
-
-
 
 ### Anlage II Kap VI C III Anlage II Kapitel VI Sachgebiet C - Forstwirtschaft Abschnitt III
 
@@ -28530,19 +27673,11 @@ folgenden Maßgaben in Kraft:
         Pflanzgut unterliegen und die Vorschriften des Gesetzes über
         forstliches Saat- und Pflanzgut angewendet werden.
 
-
-
-
-
-
-
-
 ### Anlage II Kap VII Anlage II Kapitel VII Geschäftsbereich des Bundesministers für innerdeutsche Beziehungen
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1206)
 
 (ohne Inhalt)
-
 
 ### Anlage II Kap VIII Anlage II Kapitel VIII Geschäftsbereich des Bundesministers für Arbeit und Sozialordnung
 
@@ -28564,10 +27699,6 @@ b)  sachgebietsbezogen (z. B. EinigVtr Anlage II Kap VIII E) - Ausgegeben
 c)  abschnittsbezogen (z. B. EinigVtr Anlage II Kap VIII E III) -
     Ausgegeben wird das Dokument zum Abschnitt III des Sachgebiets E des
     Kapitels VIII der Anlage II -
-
-
-
-
 
 ### Anlage II Kap VIII A II Anlage II Kapitel VIII Sachgebiet A - Arbeitsrechtsordnung Abschnitt II
 
@@ -28608,13 +27739,6 @@ folgenden Änderungen in Kraft:
 
 
     b)  § 115b Abs. 2 wird § 115b Abs. 4 und gilt bis zum 30. Juni 1991.
-
-
-
-
-
-
-
 
 ### Anlage II Kap VIII A III Anlage II Kapitel VIII Sachgebiet A - Arbeitsrechtsordnung Abschnitt III
 
@@ -28711,10 +27835,6 @@ folgenden Maßgaben in Kraft:
     Betriebsräte nach dem Betriebsverfassungsgesetz vom 11. Juli 1990
     (GBl. I Nr. 44 S. 715) gilt bis zum 30. Juni 1991.
 
-
-
-
-
 ### Anlage II Kap VIII C III Anlage II Kapitel VIII Sachgebiet C - Sozialer Arbeitsschutz Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
@@ -28761,14 +27881,9 @@ folgenden Maßgaben in Kraft:
     Inkrafttreten landesrechtlicher Regelungen zur Sonn- und
     Feiertagsruhe.
 
-
-
-
-
 ### Anlage II Kap VIII D Anlage II Kapitel VIII Sachgebiet D - Übergreifende Vorschriften des Sozialrechts
 
 (ohne Inhalt)
-
 
 ### Anlage II Kap VIII E I Anlage II Kapitel VIII Sachgebiet E - Arbeitsmarktpolitik, Arbeitsförderung, Arbeitslosenversicherung Abschnitt I
 
@@ -28837,10 +27952,6 @@ Folgendes Recht der Deutschen Demokratischen Republik gilt fort:
 
 3.  Anordnung über die Verlängerung der Frist für den Bezug des
     Kurzarbeitergeldes vom 20. August 1990 (GBl. I Nr. 57 S. 1396)
-
-
-
-
 
 ### Anlage II Kap VIII E III Anlage II Kapitel VIII Sachgebiet E - Arbeitsmarktpolitik, Arbeitsförderung, Arbeitslosenversicherung Abschnitt III
 
@@ -29055,13 +28166,6 @@ folgenden Maßgaben in Kraft:
         unterbleibt, bis der nach Buchstabe b) festzulegende Betrag das vor
         dem Tag des Wirksamwerdens des Beitritts zuletzt gezahlte
         Vorruhestandsgeld übersteigt.
-
-
-
-
-
-
-
 
 ### Anlage II Kap VIII F III Anlage II Kapitel VIII Sachgebiet F - Sozialversicherung (Allgemeine Vorschriften) Abschnitt III
 
@@ -29425,10 +28529,6 @@ folgenden Maßgaben in Kraft:
     gemäß Anlage I Bestimmungen, die vor dem 1. Januar 1991 in Kraft
     treten, übergeleitet worden sind.
 
-
-
-
-
 ### Anlage II Kap VIII G III Anlage II Kapitel VIII Sachgebiet G - Krankenversicherung, Gesundheitliche Versorgung Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
@@ -29450,10 +28550,6 @@ folgenden Maßgaben in Kraft:
     über Festbeträge für Arzneimittel gelten bis zum 31. Dezember 1993.
 
     § 15 gilt bis zum 31. Dezember 1991.
-
-
-
-
 
 ### Anlage II Kap VIII H III Anlage II Kapitel VIII Sachgebiet H - Gesetzliche Rentenversicherung Abschnitt III
 
@@ -29708,13 +28804,6 @@ folgenden Maßgaben in Kraft:
         Zustimmung des Bundesrates das Nähere zu den Maßgaben nach Buchstaben
         a) bis e) zu bestimmen.
 
-
-
-
-
-
-
-
 ### Anlage II Kap VIII I III Anlage II Kapitel VIII Sachgebiet I - Gesetzliche Unfallversicherung Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
@@ -29757,17 +28846,12 @@ folgenden Maßgaben in Kraft:
     Berufskrankheiten - vom 21. April 1981 (GBl. I Nr. 12 S. 139; Ber.
     GBl. I Nr. 25 S. 312) bleiben bis zum 31. Dezember 1991 in Kraft.
 
-
-
-
-
 ### Anlage II Kap IX Anlage II Kapitel IX Geschäftsbereich des Bundesministers der Verteidigung
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1217)
 
 siehe Kapitel XIX
 Recht des öffentlichen Dienstes einschließlich des Rechts der Soldaten
-
 
 ### Anlage II Kap X Anlage II Kapitel X Geschäftsbereich des Bundesministers für Jugend, Familie, Frauen und Gesundheit
 
@@ -29788,10 +28872,6 @@ b)  sachgebietsbezogen (z. B. EinigVtr Anlage II Kap X H) - Ausgegeben
 c)  abschnittsbezogen (z. B. EinigVtr Anlage II Kap X H III) - Ausgegeben
     wird das Dokument zum Abschnitt III des Sachgebiets H des Kapitels X
     der Anlage II -
-
-
-
-
 
 ### Anlage II Kap X A III Anlage II Kapitel X Sachgebiet A - Frauenpolitik Abschnitt III
 
@@ -29898,10 +28978,6 @@ folgenden Maßgaben in Kraft:
     Schwangere und Wöchnerinnen - vom 1. März 1954 (GBl. I Nr. 25 S. 233)
     mit der Maßgabe wie zu Nummer 10.
 
-
-
-
-
 ### Anlage II Kap X B I Anlage II Kapitel X Sachgebiet B - Jugend Abschnitt I
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt in Kraft:
@@ -29925,10 +29001,6 @@ Folgendes Recht der Deutschen Demokratischen Republik bleibt in Kraft:
 4.  Verordnung vom 16. Oktober 1975 über die Schüler- und Kinderspeisung
     und deren Durchführungsbestimmungen.
 
-
-
-
-
 ### Anlage II Kap X B III Anlage II Kapitel X Sachgebiet B - Jugend Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
@@ -29939,7 +29011,6 @@ der Achten Durchführungsbestimmung vom 17. Dezember 1984 der
 Jugendhilfeverordnung (GBl. I 1985 Nr. 1 S. 6)
 mit folgender Maßgabe:
 Die dort genannten Pflegegeldbeträge gelten als Mindestbeträge.
-
 
 ### Anlage II Kap X D III Anlage II Kapitel X Sachgebiet D - Gesundheitspolitik Abschnitt III
 
@@ -30033,17 +29104,12 @@ folgenden Maßgaben in Kraft:
 
     §§ 6 bis 8 gelten bis zum 31. Dezember 1990.
 
-
-
-
-
 ### Anlage II Kap X H I Anlage II Kapitel X Sachgebiet H - Familie und Soziales Abschnitt I
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt in Kraft:
 Unterhaltssicherungsverordnung vom 19. Mai 1988 (GBl. I Nr. 11 S. 129)
 , geändert durch die Zweite Unterhaltssicherungsverordnung vom 31.
 August 1990 (GBl. I Nr. 59 S. 1432).
-
 
 ### Anlage II Kap X H III Anlage II Kapitel X Sachgebiet H - Familie und Soziales Abschnitt III
 
@@ -30190,10 +29256,6 @@ folgenden Maßgaben in Kraft:
 
     Sie gilt bis zum 31. Dezember 1990.
 
-
-
-
-
 ### Anlage II Kap XI Anlage II Kapitel XI Geschäftsbereich des Bundesministers für Verkehr
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1222 -
@@ -30213,10 +29275,6 @@ b)  sachgebietsbezogen (z. B. EinigVtr Anlage II Kap XI E) - Ausgegeben
 c)  abschnittsbezogen (z. B. EinigVtr Anlage II Kap XI E III) - Ausgegeben
     wird das Dokument zum Abschnitt III des Sachgebiets E des Kapitels XI
     der Anlage II -
-
-
-
-
 
 ### Anlage II Kap XI A III Anlage II Kapitel XI Sachgebiet A - Eisenbahnverkehr Abschnitt III
 
@@ -30322,10 +29380,6 @@ folgenden Maßgaben in Kraft:
 
     Der Bundesminister für Verkehr ist ermächtigt, die Anordnung
     aufzuheben.
-
-
-
-
 
 ### Anlage II Kap XI B III Anlage II Kapitel XI Sachgebiet B - Straßenverkehr Abschnitt III
 
@@ -30464,10 +29518,6 @@ folgenden Maßgaben in Kraft:
 
     Die Anordnung gilt bis zum 31. März 1991 fort.
 
-
-
-
-
 ### Anlage II Kap XI C III Anlage II Kapitel XI Sachgebiet C - Binnenschiffahrt und Wasserstraßen Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
@@ -30493,10 +29543,6 @@ folgenden Maßgaben in Kraft:
 
     Die Fortgeltung bezieht sich ausschließlich auf die Grenzgewässer der
     Oder und Neiße.
-
-
-
-
 
 ### Anlage II Kap XI D III Anlage II Kapitel XI Sachgebiet D - Straßenbau Abschnitt III
 
@@ -30528,10 +29574,6 @@ folgenden Maßgaben in Kraft:
 
     Für eine Aufhebung oder Änderung sind die in Artikel 1 des Vertrages
     genannten Länder zuständig.
-
-
-
-
 
 ### Anlage II Kap XI E III Anlage II Kapitel XI Sachgebiet E - Allgemeine verkehrliche Bestimmungen Abschnitt III
 
@@ -30607,17 +29649,12 @@ folgenden Maßgaben in Kraft:
 
     Sie gilt bis zum 30. Juni 1991.
 
-
-
-
-
 ### Anlage II Kap XII Anlage II Kapitel XII Geschäftsbereich des Bundesministers für Umwelt, Naturschutz und Reaktorsicherheit
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1226 -
 1227)
 
 -
-
 
 ### Anlage II Kap XII III Anlage II Kapitel XII Fortgeltendes Recht der Deutschen Demokratischen Republik Abschnitt III
 
@@ -30812,10 +29849,6 @@ folgenden Maßgaben in Kraft:
 
     Die Anordnung tritt am 31. Dezember 1990 außer Kraft.
 
-
-
-
-
 ### Anlage II Kap XIII Anlage II Kapitel XIII Geschäftsbereich des Bundesministers für Post und Telekommunikation
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1228 -
@@ -30836,10 +29869,6 @@ b)  sachgebietsbezogen (z. B. EinigVtr Anlage II Kap XIII C) - Ausgegeben
 c)  abschnittsbezogen (z. B. EinigVtr Anlage II Kap XIII C III) -
     Ausgegeben wird das Dokument zum Abschnitt III des Sachgebiets C des
     Kapitels XIII der Anlage II -
-
-
-
-
 
 ### Anlage II Kap XIII B III Anlage II Kapitel XIII Sachgebiet B - Postwesen Abschnitt III
 
@@ -30903,10 +29932,6 @@ folgenden Maßgaben in Kraft:
 
     § 2 Abs. 3 und Abs. 5 und § 13 entfallen.
 
-
-
-
-
 ### Anlage II Kap XIII C I Anlage II Kapitel XIII Sachgebiet C - Fernmeldewesen Abschnitt I
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt in Kraft:
@@ -30915,10 +29940,6 @@ Folgendes Recht der Deutschen Demokratischen Republik bleibt in Kraft:
     Februar 1986 (GBl. I Nr. 12 S. 173), geändert durch die Anordnung Nr.
     2 über den Telegrammdienst - 2. Telegramm-Anordnung - vom 20. Juni
     1990 (GBl. I Nr. 46 S. 817)
-
-
-
-
 
 ### Anlage II Kap XIII C III Anlage II Kapitel XIII Sachgebiet C - Fernmeldewesen Abschnitt III
 
@@ -30980,19 +30001,11 @@ folgenden Maßgaben in Kraft:
     b)  Der der Deutschen Bundespost entstehende Aufwand wird vom
         Gebührengläubiger erstattet.
 
-
-
-
-
-
-
-
 ### Anlage II Kap XIV Anlage II Kapitel XIV Geschäftsbereich des Bundesministers für Raumordnung, Bauwesen und Städtebau
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1230)
 
 -
-
 
 ### Anlage II Kap XIV III Anlage II Kapitel XIV Abschnitt III
 
@@ -31014,16 +30027,11 @@ b)  Es tritt am 31. Dezember 1995 außer Kraft, soweit nichts anderes
 
 c)  In § 17 Abs. 1 entfällt die Mindestandrohung von 1.000 Deutsche Mark.
 
-
-
-
-
 ### Anlage II Kap XV Anlage II Kapitel XV Geschäftsbereich des Bundesministers für Forschung und Technologie
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1231)
 
 -
-
 
 ### Anlage II Kap XV II Anlage II Kapitel XV Abschnitt II
 
@@ -31111,10 +30119,6 @@ Folgendes Recht der Deutschen Demokratischen Republik wird aufgehoben:
     Wissenschaft und Technik für die Leitung und Planung der
     Volkswirtschaft" vom 5. April 1972 (GBl. II Nr. 19 S. 223)
 
-
-
-
-
 ### Anlage II Kap XVI Anlage II Kapitel XVI Geschäftsbereich des Bundesministers für Bildung und Wissenschaft
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1232)
@@ -31133,10 +30137,6 @@ b)  sachgebietsbezogen (z. B. EinigVtr Anlage II Kap XVI B) - Ausgegeben
 c)  abschnittsbezogen (z. B. EinigVtr Anlage II Kap XVI B III) -
     Ausgegeben wird das Dokument zum Abschnitt III des Sachgebiets B des
     Kapitels XVI der Anlage II -
-
-
-
-
 
 ### Anlage II Kap XVI A III Anlage II Kapitel XVI Sachgebiet A - Ausbildungsförderung Abschnitt III
 
@@ -31184,7 +30184,6 @@ jeweils mit folgender Maßgabe:
 Die aufgeführten Rechtsvorschriften sind bis zum 31. Dezember 1990
 anzuwenden.
 
-
 ### Anlage II Kap XVI B III Anlage II Kapitel XVI Sachgebiet B - Berufliche Bildung Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
@@ -31196,18 +30195,15 @@ Diese Verordnung gilt solange, als für die Berufsausbildung in den
 Ausbildungsberufen tarifvertragliche Regelungen noch nicht getroffen
 sind.
 
-
 ### Anlage II Kap XVII Anlage II Kapitel XVII Geschäftsbereich des Bundesministers für wirtschaftliche Zusammenarbeit
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1233)
 
 (ohne Inhalt)
 
-
 ### Anlage II Kap XVIII Anlage II Kapitel XVIII Statistik
 
 Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1234
-
 
 ### Anlage II Kap XVIII III Anlage II Kapitel XVIII Abschnitt III
 
@@ -31256,10 +30252,6 @@ müssen:
 
     - Finanzerhebung landwirtschaftlicher Betriebe.
 
-
-
-
-
 ### Anlage II Kap XIX Anlage II Kapitel XIX Recht des öffentlichen Dienstes einschließlich des Rechts der Soldaten
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1235 -
@@ -31281,10 +30273,6 @@ c)  abschnittsbezogen (z. B. EinigVtr Anlage II Kap XIX B III) -
     Ausgegeben wird das Dokument zum Abschnitt III des Sachgebiets B des
     Kapitels XIX der Anlage II -
 
-
-
-
-
 ### Anlage II Kap XIX A III Anlage II Kapitel XIX Sachgebiet A - Recht der im öffentlichen Dienst stehenden Personen Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
@@ -31304,10 +30292,6 @@ folgenden Maßgaben in Kraft:
 
     nach Maßgabe der Anlage I Kapitel XIX Sachgebiet A Abschnitt III Nr.
     16\.
-
-
-
-
 
 ### Anlage II Kap XIX B III Anlage II Kapitel XIX Sachgebiet B - Recht der Soldaten Abschnitt III
 
@@ -31376,10 +30360,6 @@ Folgendes Recht der Deutschen Demokratischen Republik bleibt in Kraft:
     Regelung findet nur auf den in Anlage I Kapitel XIX Sachgebiet B,
     Recht der Soldaten, Abschnitt II Nummer 2 §§ 3 bis 7 genannten
     Personenkreis Anwendung.
-
-
-
-
 
 ### Anlage III Gemeinsame Erklärung der Regierungen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik zur Regelung offener Vermögensfragen Vom 15. Juni 1990
 

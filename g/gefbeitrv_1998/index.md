@@ -19,13 +19,11 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 105 G v. 23.12.2003 I 2848
 
-
 ## Eingangsformel
 
 Auf Grund des § 352 Abs. 3 des Dritten Buches Sozialgesetzbuch -
 Arbeitsförderung - (Artikel 1 des Gesetzes vom 24. März 1997, BGBl. I
 S. 594) verordnet das Bundesministerium für Arbeit und Sozialordnung:
-
 
 ## § 1 Berechnungsgrundlagen
 
@@ -66,7 +64,6 @@ T     B
 BBGrdl x --- x ---.
 250   100
 
-
 ## § 2 Zahlungsweise und -verfahren
 
 Die Beiträge sind drei Monate nach Ablauf des Kalenderjahres fällig,
@@ -78,11 +75,9 @@ Stelle zu zahlen. Zum Fälligkeitstermin übermitteln die Länder der von
 der Bundesagentur für Arbeit bestimmten Stelle eine Abrechnung über
 die fälligen Beiträge und die geleisteten Zahlungen.
 
-
 ## § 3 Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 1998 in Kraft.
-
 
 ## Schlußformel
 

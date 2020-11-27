@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 21.2.2011 I 314
 
-
 ## Erster Abschnitt - Freigabe aus der Apothekenpflicht
-
-
 
 ### § 1
 
@@ -79,7 +76,6 @@ aus Stoffen ist zulässig. Die bei der Herstellung verlorengegangenen
 ätherischen Öle der Ausgangsdrogen dürfen nach Art und Menge ersetzt
 werden.
 
-
 ### § 2
 
 (1) Arzneimittel im Sinne des § 2 Abs. 1 oder Abs. 2 Nr. 1 des
@@ -109,7 +105,6 @@ bestimmt sind:
 (2) Die in Absatz 1 genannten Arzneimitteln dürfen auch arzneilich
 nicht wirksame Stoffe oder Zubereitungen aus Stoffen zugesetzt sein.
 
-
 ### § 3
 
 Die §§ 1 und 2 gelten nicht für Arzneimittel, die zur Injektion oder
@@ -119,7 +114,6 @@ sowie als Aerosole bis zu einer mittleren Teilchengröße von nicht mehr
 als 5
 mym zur unmittelbaren Anwendung am oder im Körper in den Verkehr
 gebracht werden.
-
 
 ### § 4
 
@@ -136,10 +130,6 @@ Arzneimittelgesetzes, die
     nicht der Verschreibungspflicht nach § 48 Absatz 1 des
     Arzneimittelgesetzes unterliegen.
 
-
-
-
-
 ### § 5
 
 Die Freigabe der in den §§ 1, 2 und 4 genannten Arzneimittel für den
@@ -147,7 +137,6 @@ Verkehr außerhalb der Apotheken wird nicht dadurch ausgeschlossen, daß
 sie dazu bestimmt sind, teilweise auch zu anderen Zwecken als zur
 Beseitigung oder Linderung von Krankheiten, Leiden, Körperschäden oder
 krankhaften Beschwerden zu dienen.
-
 
 ### § 6
 
@@ -158,10 +147,7 @@ ausschließlich zur Beseitigung oder Linderung oder wenn sie teilweise
 zur Verhütung der in der Anlage 3 genannten Krankheiten oder Leiden
 bestimmt sind.
 
-
 ## Zweiter Abschnitt - Einbeziehung in die Apothekenpflicht
-
-
 
 ### § 7
 
@@ -205,10 +191,6 @@ Verkehr außerhalb der Apotheken freigegeben:
 3.  die in § 44 Abs. 2 Nr. 5 des Arzneimittelgesetzes bezeichneten
     Arzneimittel.
 
-
-
-
-
 ### § 8
 
 (1) Die in § 44 Abs. 1 des Arzneimittelgesetzes genannten Arzneimittel
@@ -237,7 +219,6 @@ Krankheiten der Zierfische, Zier- oder Singvögel, Brieftauben,
 Terrarientiere, Kleinnager, Frettchen oder nicht der Gewinnung von
 Lebensmitteln dienenden Kaninchen bestimmt sind.
 
-
 ### § 9
 
 Die in § 44 des Arzneimittelgesetzes genannten Arzneimittel sind
@@ -255,7 +236,6 @@ Wirkung auf den menschlichen oder tierischen Körper zukommt. Das
 gleiche gilt, wenn ihnen solche chemischen Verbindungen zugesetzt
 sind.
 
-
 ### § 10
 
 Die in § 44 des Arzneimittelgesetzes genannten Arzneimittel sind
@@ -266,10 +246,7 @@ Implantate oder als Aerosole bis zu einer mittleren Teilchengröße von
 nicht mehr als 5
 mym in den Verkehr gebracht werden.
 
-
 ## Dritter Abschnitt - Übergangs- und Schlußvorschriften
-
-
 
 ### § 11
 
@@ -279,7 +256,6 @@ apothekenpflichtige und freiverkäufliche Arzneimittel
 apothekenpflichtig werden, dürfen noch bis zum 1. Mai 2007 von
 pharmazeutischen Unternehmern und danach von Groß- und Einzelhändlern
 weiter in Verkehr gebracht werden.
-
 
 ### Anlage 1a (zu § 1 Abs. 1 Nr. 1)
 
@@ -603,7 +579,6 @@ von Lebertran, als Fertigarzneimittel
 Zinksalbe,
 auch mit Zusatz von Lebertran, als Fertigarzneimittel
 Zitronellöl, ätherisches
-
 
 ### Anlage 1b (zu § 1 Abs. 1 Nr. 2, § 7 Abs. 1 Nr. 2 und § 8 Abs. 1 Nr. 2)
 
@@ -968,10 +943,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   Yohimbebaum
 
     *   Pausinystalia yohimba
-
-
-
-
 
 ### Anlage 1c (zu § 1 Abs. 1 Nr. 3)
 
@@ -1373,10 +1344,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
     *   Zedoariae rhizoma
 
-
-
-
-
 ### Anlage 1d (zu § 1 Abs. 2 Nr. 1 und 2)
 
 Fundstelle des Originaltextes: BGBl. I 1988, 2160;
@@ -1501,10 +1468,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 *    *   Weißdornfrüchte
 
     *   Crataegi fructus
-
-
-
-
 
 ### Anlage 1e (zu § 1 Abs. 2 Nr. 2)
 
@@ -1685,10 +1648,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
     *   Absinthii herba
 
-
-
-
-
 ### Anlage 2a (zu § 2 Abs. 1 Nr. 1)
 
 Fundstelle des Originaltextes: BGBl. I 1988, 2161;
@@ -1755,10 +1714,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 *    *   Weinsäure
 
-
-
-
-
 ### Anlage 2b (zu § 2 Abs. 1 Nr. 2)
 
 Fundstelle des Originaltextes: BGBl. I 1988, 2161
@@ -1802,10 +1757,6 @@ Fundstelle des Originaltextes: BGBl. I 1988, 2161
 
 *    *   Weizenkleie
 
-
-
-
-
 ### Anlage 2c (zu § 2 Abs. 1 Nr. 3)
 
 
@@ -1846,10 +1797,6 @@ Fundstelle des Originaltextes: BGBl. I 1988, 2161
 
 
 *    *   Salicylsäure bis 40%ig
-
-
-
-
 
 ### Anlage 3 (zu §§ 6, 7 Abs. 1 Nr. 4, Abs. 2 Nr. 1 und § 8 Abs. 1 Nr. 4)
 
@@ -1954,10 +1901,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 7.  Fruchtbarkeitsstörungen bei Pferden, Rindern, Schweinen, Schafen und
     Ziegen
-
-
-
-
 
 ### Anlage 4 (zu § 7 Abs. 1 Nr. 1 und § 8 Abs. 1 Nr. 1)
 

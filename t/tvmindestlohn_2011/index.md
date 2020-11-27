@@ -337,7 +337,6 @@ gemacht werden.
 worden ist, sondern dem Ausgleichskonto (§ 3 Nummer 1.43 BRTV)
 gutzuschreiben war, gilt die gesetzliche regelmäßige Verjährungsfrist.
 
-
 ## § 3 Lohn der Baustelle und Lohn bei auswärtiger Beschäftigung
 
 Es gilt der Mindestlohn der Arbeitsstelle. Auswärts beschäftigte
@@ -345,7 +344,6 @@ Arbeitnehmer behalten jedoch den Anspruch auf den Mindestlohn ihres
 Einstellungsortes. Ist der Mindestlohn der auswärtigen Arbeitsstelle
 höher, so haben sie Anspruch auf diesen Mindestlohn, solange sie auf
 dieser Arbeitsstelle tätig sind.
-
 
 ## Anhang 1 Betrieblicher Geltungsbereich des Bundesrahmentarifvertrages für das Baugewerbe (BRTV) in der nach § 1 Satz 1 der Verordnung maßgeblichen, am 1. Dezember 2011 geltenden Fassung:
 
@@ -661,10 +659,6 @@ Nicht erfasst werden Betriebe:
     Invalidenbeihilfe im Steinmetz- und Steinbildhauerhandwerk vom 1.
     Dezember 1986 in der Fassung vom 28. August 1992 aufgeführten
     Tätigkeiten überwiegend ausgeübt werden.
-
-
-
-
 
 ## Anhang 2 Definition der Lohngruppen 1 und 2 im Sinne von § 2 Absatz 1 bis 3
 

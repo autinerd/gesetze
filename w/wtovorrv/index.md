@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1976, 23
 
-
-
 ## Eingangsformel
 
 Auf Grund des Artikels 3 des Gesetzes vom 22. Juni 1954 über den
@@ -29,13 +27,11 @@ und Befreiungen an andere zwischenstaatliche Organisationen
 vom 28. Februar 1964 (Bundesgesetzbl. II S. 187), verordnet die
 Bundesregierung mit Zustimmung des Bundesrates:
 
-
 ## § 1
 
 Für die Gewährung von Vorrechten und Befreiungen an die
 Weltorganisation für Tourismus gilt deren Satzung vom 27. September
 1970\. Die Satzung wird nachstehend veröffentlicht.
-
 
 ## § 2
 
@@ -47,7 +43,6 @@ Sonderorganisationen der Vereinten Nationen vom 21. November 1947 und
 über die Gewährung von Vorrechten und Befreiungen an andere
 zwischenstaatliche Organisationen, zuletzt geändert durch das Gesetz
 vom 28. Februar 1964, auch im Land Berlin.
-
 
 ## § 3
 

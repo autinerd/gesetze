@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1953, 1325
 
-
-
 ## (XXXX)
 
 (1) Auf Grund des Gesetzes über die Ausprägung von Scheidemünzen vom
@@ -67,11 +65,9 @@ zweifaches Eichenblatt nebst zwei Eicheln.
 
 (7) Dies wird namens der Bundesregierung hiermit bekanntgemacht.
 
-
 ## Schlußformel
 
 Der Bundesminister der Finanzen
-
 
 ## (XXXX) Abbildung der Münze
 

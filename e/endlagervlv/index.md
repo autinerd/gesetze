@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 6.7.2004 I 1476
 
-
 ## Eingangsformel
 
 Auf Grund des § 21b Abs. 3 in Verbindung mit § 54 des Atomgesetzes in
@@ -29,14 +28,12 @@ von denen § 21b Abs. 3 durch Gesetz vom 20. August 1980 (BGBl. I S.
 worden ist, verordnet die Bundesregierung mit Zustimmung des
 Bundesrates:
 
-
 ## § 1 Erhebung von Vorausleistungen
 
 Zur Deckung des notwendigen Aufwandes für Anlagen zur Endlagerung
 radioaktiver Abfälle erhebt das Bundesamt für Strahlenschutz nach
 dieser Verordnung Vorausleistungen auf die nach § 21b des Atomgesetzes
 zu entrichtenden Beiträge.
-
 
 ## § 2 Vorausleistungspflichtige
 
@@ -66,7 +63,6 @@ sich auf Grund der genehmigungsbedürftigen Tätigkeit oder des Betriebs
 der Anlage nur kleine Mengen an radioaktiven Abfällen mit geringer
 spezifischer Aktivität ergeben.
 
-
 ## § 3 Art und Umfang des Aufwandes
 
 Die Vorausleistungen können erhoben werden, wenn notwendiger Aufwand
@@ -88,10 +84,6 @@ entstanden ist für
 
 
 6.  die Errichtung, die Erweiterung und die Erneuerung.
-
-
-
-
 
 ## § 4 Ermittlung des Aufwandes, Erhebungsverfahren
 
@@ -124,7 +116,6 @@ anzurechnen, eine zu viel entrichtete Zahlung wird mit dem nächsten
 Abschlag nach Satz 1 Nr. 1 verrechnet oder mit Zustimmung des
 Vorausleistungspflichtigen diesem unverzinst erstattet.
 
-
 ## § 5 Vorausleistungsbescheid
 
 (1) Die Vorausleistungen werden durch Bescheid erhoben.
@@ -138,7 +129,6 @@ aufzuschlüsseln. Es ist anzugeben, wie sich nach § 6 der Anteil des
 Vorausleistungspflichtigen errechnet.
 
 (3) (weggefallen)
-
 
 ## § 6 Verteilung des Aufwandes
 
@@ -218,13 +208,11 @@ Jahren zu überprüfen. Bei erheblichen Abweichungen ist eine Anpassung
 mit Wirkung auch für die Vergangenheit durch Novellierung dieser
 Verordnung vorzunehmen.
 
-
 ## § 7 Fälligkeit der Vorausleistungen
 
 Die Vorausleistung wird einen Monat nach Zustellung des
 Vorausleistungsbescheides fällig, sofern nicht Teilzahlungen
 vorgesehen sind.
-
 
 ## § 8 Erstattung der Vorausleistungen
 
@@ -249,7 +237,6 @@ Vorausleistungen mit Wirkung zum jeweiligen Zahlungszeitpunkt der
 Vorausleistungen übertragen worden sind; übertragene Vorausleistungen
 sind dabei wie eigene Vorausleistungen zu behandeln.
 
-
 ## § 9 Anrechnung der Vorausleistungen
 
 Die nach dieser Verordnung erhobenen Vorausleistungen werden auf
@@ -267,7 +254,6 @@ Bemessungszeitraum 2003 werden neben dem in § 3 aufgeführten
 notwendigen Aufwand als weiterer notwendiger Aufwand in die
 Beitragsberechnung einbezogen.
 
-
 ## § 10 Vorausleistungen für vor Inkrafttreten der Verordnung entstandenen Aufwand
 
 Vorausleistungen werden erhoben für den ab 1. Januar 1977 entstandenen
@@ -277,7 +263,6 @@ zwei Dritteln nach Inkrafttreten dieser Verordnung erhoben. Ein
 Drittel dieses Aufwandes wird bei der erstmaligen Erhebung von
 Vorausleistungen für den Aufwand, der nach Inkrafttreten dieser
 Verordnung entstanden ist, miterhoben.
-
 
 ## § 11 Bemessungszeiträume 1977 bis 2003
 
@@ -309,7 +294,6 @@ Gültigkeit.
 (3) Für den Bemessungszeitraum 2003 werden die Vorausleistungen im
 Kalenderjahr 2004 nach § 4 Abs. 1 und 2 Satz 3 und Absatz 3 Satz 1 Nr.
 2 erhoben und der notwendige Aufwand nach § 6 verteilt.
-
 
 ## § 12 Inkrafttreten
 

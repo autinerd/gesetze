@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 1302
 
-
 ## Eingangsformel
 
 Auf Grund des § 128 Absatz 6 Satz 1 des Investmentgesetzes, der durch
@@ -27,7 +26,6 @@ die Bundesanstalt für Finanzdienstleistungsaufsicht, der zuletzt durch
 Artikel 1 der Verordnung vom 26. Juni 2011 (BGBl. I S. 1197) neu
 gefasst worden ist, verordnet die Bundesanstalt für
 Finanzdienstleistungsaufsicht:
-
 
 ## § 1 Anwendungsbereich
 
@@ -59,7 +57,6 @@ Finanzdienstleistungsaufsicht (Bundesanstalt) durch
 
 oder durch eine entsprechend bevollmächtigte Person.
 
-
 ## § 2 Einzelanzeigen und Möglichkeit der Zusammenfassung; Vollmacht
 
 (1) Die Anzeige nach § 128 Absatz 1 des Investmentgesetzes ist für
@@ -71,7 +68,6 @@ eines einzigen Anzeigeschreibens erfolgen.
 
 (3) Im Falle einer Anzeige durch eine bevollmächtigte Person ist der
 Anzeige eine gültige Vollmacht beizufügen.
-
 
 ## § 3 Zulässiger Übertragungsweg
 
@@ -116,7 +112,6 @@ Passwort zu versehen.
 
 (3) Die Übermittlung mehrerer Anzeigen in einer
 ZIP-Datei              ist nicht zulässig.
-
 
 ## § 5 Bezeichnung der zu übermittelnden Dateien
 
@@ -173,7 +168,6 @@ Datei sind wie folgt zu bezeichnen:
 bezeichnen:
 BaFin-ID und Bezeichnung „Vollmacht”.
 
-
 ## § 6 Übermittlung von Ergänzungsanzeigen
 
 Hat die Bundesanstalt fehlende Angaben oder Unterlagen nach § 128
@@ -182,7 +176,6 @@ Ergänzungsanzeige ebenfalls über die MVP der Bundesanstalt zu
 erfolgen. Die §§ 2 bis 5 sind entsprechend anzuwenden. Der
 Ergänzungsanzeige ist ein Anschreiben beizufügen, aus dem sich ergibt,
 auf welche Anzeige sich die eingereichten Unterlagen beziehen.
-
 
 ## § 7 Inkrafttreten
 

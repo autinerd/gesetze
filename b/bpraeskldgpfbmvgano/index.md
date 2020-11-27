@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1967, 913
 
-
-
 ## (XXXX)
 
 Gemäß § 76 des Bundesbeamtengesetzes übertrage ich dem Bundesminister

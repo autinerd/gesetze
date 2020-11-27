@@ -15,13 +15,10 @@ Ausfertigungsdatum
 Fundstelle
 :   RGBl I: 1938, 973
 
-
-
 ## Eingangsformel
 
 Die Reichsregierung hat das folgende Gesetz beschlossen, das hiermit
 verkündet wird:
-
 
 ## § 51 Übergangsvorschriften
 

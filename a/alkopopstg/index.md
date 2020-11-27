@@ -19,8 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 6 G v. 21.12.2010 I 2221
 
-
-
 ## § 1 Steuergebiet, Steuergegenstand
 
 (1) Alkoholhaltige Süßgetränke (Alkopops) unterliegen im Steuergebiet
@@ -58,13 +56,11 @@ eine Verbrauchsteuer im Sinne der Abgabenordnung.
 Mischungskomponenten von Getränken nach Absatz 2, die in einer
 gemeinsamen Verpackung enthalten sind.
 
-
 ## § 2 Steuertarif
 
 Die Steuer bemisst sich nach der in dem Alkopop enthaltenen
 Alkoholmenge. Sie beträgt für einen Hektoliter reinen Alkohol,
 gemessen bei einer Temperatur von 20Grad C: 5 550 Euro.
-
 
 ## § 3 Besteuerung, Steuerverfahren
 
@@ -86,7 +82,6 @@ sinngemäß. Satz 1 gilt auch für Beförderungen unter Steueraussetzung
 im Steuergebiet, soweit sich der in den Alkopops befindliche
 Branntwein im steuerrechtlich freien Verkehr befindet.
 
-
 ## § 4 Aufkommensverwendung, Aufkommensverteilung
 
 Das Netto-Mehraufkommen aus der Alkopopsteuer ist zur Finanzierung von
@@ -97,7 +92,6 @@ und den Mindereinnahmen bei der Branntweinsteuer, die sich durch die
 Einführung der Alkopopsteuer ergeben. Die Bundesregierung wird
 ermächtigt, das Verfahren zur Berechnung des Netto-Mehraufkommens
 durch Rechtsverordnung zu regeln.
-
 
 ## § 5 Bericht der Bundesregierung über die Auswirkungen des Gesetzes
 

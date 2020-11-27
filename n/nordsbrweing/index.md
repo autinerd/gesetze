@@ -20,7 +20,6 @@ Fundstelle
 Geändert durch
 :   Art. 333 G v. 2.3.1974 I 469
 
-
 ## § 1
 
 (1) Ordnungswidrig handelt, wer entgegen Artikel 2 oder 3 des
@@ -66,7 +65,6 @@ Hektoliter enthaltenden trinkbaren Flüssigkeiten.
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu zehntausend
 Deutsche Mark geahndet werden.
 
-
 ## § 2
 
 Die Bestimmungen der Artikel 2 und 3 des internationalen Vertrages vom
@@ -74,7 +72,6 @@ Die Bestimmungen der Artikel 2 und 3 des internationalen Vertrages vom
 ohne Rücksicht auf die Nationalität des Schiffes oder Fahrzeugs, auch
 innerhalb der zur Nordsee gehörigen deutschen Küstengewässer
 Anwendung.
-
 
 ## § 3
 

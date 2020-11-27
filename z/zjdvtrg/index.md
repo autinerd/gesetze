@@ -20,7 +20,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 Vertrag v. 30.11.2011 I 2012, 1223 iVm Art. 1 G v. 1.6.2012 I 1222
 
-
 ## Art 1
 
 (1) Dem in Berlin am 27. Januar 2003 unterzeichneten Vertrag zwischen
@@ -29,13 +28,11 @@ Deutschland - Körperschaft des öffentlichen Rechts - wird zugestimmt.
 
 (2) Der Vertrag wird nachstehend veröffentlicht.
 
-
 ## Art 2
 
 Anpassungen der Staatsleistung im Sinne des Artikels 2 Abs. 2 und des
 Artikels 7 des Vertrages bedürfen der Zustimmung des Deutschen
 Bundestages in der Form eines Bundesgesetzes.
-
 
 ## Art 3
 

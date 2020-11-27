@@ -23,7 +23,6 @@ Stand: Diese V ersetzt V 806-21-1-194 v. 8.12.1995 I 1610 (BuchbAusbV 1996)
     Berufsschule werden demnächst als Beilage zum Bundesanzeiger
     veröffentlicht.
 
-
 ## Eingangsformel
 
 Auf Grund des § 25 Absatz 1 Satz 1 der Handwerksordnung, der zuletzt
@@ -32,7 +31,6 @@ durch Artikel 146 der Verordnung vom 31. Oktober 2006 (BGBl. I S.
 Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium
 für Bildung und Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf des Buchbinders und der Buchbinderin wird nach §
@@ -40,11 +38,9 @@ Der Ausbildungsberuf des Buchbinders und der Buchbinderin wird nach §
 der
 Anlage B 1              der Handwerksordnung staatlich anerkannt.
 
-
 ## § 2 Dauer der Berufsausbildung
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Struktur der Berufsausbildung
 
@@ -59,10 +55,6 @@ Die Berufsausbildung gliedert sich in
 
 3.  eine im Ausbildungsvertrag festzulegende Wahlqualifikation nach § 4
     Absatz 2 Abschnitt B Nummer 2.
-
-
-
-
 
 ## § 4 Ausbildungsrahmenplan, Ausbildungsberufsbild
 
@@ -161,10 +153,6 @@ Pflichtqualifikationen nach § 3 Nummer 1:
 
 5.  Betriebliche und kundenorientierte Kommunikation.
 
-
-
-
-
 ## § 5 Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
@@ -184,7 +172,6 @@ zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
 Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
 Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
 durchzusehen.
-
 
 ## § 6 Zwischenprüfung
 
@@ -254,10 +241,6 @@ bestehen folgende Vorgaben:
 
 
 3.  die Prüfungszeit beträgt fünf Stunden.
-
-
-
-
 
 ## § 7 Gesellenprüfung
 
@@ -436,10 +419,6 @@ folgende Vorgaben:
 
 3.  die Prüfungszeit beträgt 60 Minuten.
 
-
-
-
-
 ## § 8 Gewichtungs- und Bestehensregelung
 
 (1) Die einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
@@ -503,7 +482,6 @@ Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und
 das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu
 gewichten.
 
-
 ## § 9 Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
@@ -512,7 +490,6 @@ die Vertragsparteien dies vereinbaren, unter Anrechnung der bisher
 zurückgelegten Ausbildungszeit nach den Vorschriften dieser Verordnung
 fortgesetzt werden.
 
-
 ## § 10 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2011 in Kraft. Gleichzeitig tritt
@@ -520,7 +497,6 @@ die Verordnung über die Berufsausbildung zum Buchbinder/zur
 Buchbinderin vom 8. Dezember 1995 (BGBl. I S. 1610), die durch Artikel
 1 der Verordnung vom 11. Juli 2001 (BGBl. I S. 1577) geändert worden
 ist, außer Kraft.
-
 
 ## Anlage (zu § 4 Absatz 1 Satz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Buchbinder und zur Buchbinderin
 

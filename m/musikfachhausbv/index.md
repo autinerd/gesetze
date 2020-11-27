@@ -22,7 +22,6 @@ Fundstelle
     Berufsschule werden demnächst als Beilage zum Bundesanzeiger
     veröffentlicht.
 
-
 ## Eingangsformel
 
 Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des
@@ -32,17 +31,14 @@ Berufsbildungsgesetzes vom 23. März 2005 (BGBI. I S. 931), von denen §
 Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit
 dem Bundesministerium für Bildung und Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Musikfachhändler/Musikfachhändlerin wird nach § 4
 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
-
 ## § 2 Dauer der Berufsausbildung
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Struktur der Berufsausbildung
 
@@ -55,10 +51,6 @@ Die Berufsausbildung gliedert sich in
 
 2.  eine im Ausbildungsvertrag festzulegende Wahlqualifikationseinheit
     nach § 4 Absatz 2 Abschnitt B.
-
-
-
-
 
 ## § 4 Ausbildungsrahmenplan, Ausbildungsberufsbild
 
@@ -255,13 +247,6 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
     2.3 Interne Kommunikation und Kooperation.
 
-
-
-
-
-
-
-
 ## § 5 Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
@@ -281,7 +266,6 @@ zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
 Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
 Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
 durchzusehen.
-
 
 ## § 6 Zwischenprüfung
 
@@ -319,10 +303,6 @@ folgende Vorgaben:
 
 
 3.  die Prüfungszeit beträgt 90 Minuten.
-
-
-
-
 
 ## § 7 Abschlussprüfung
 
@@ -585,7 +565,6 @@ kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich
 sind das bisherige Ergebnis und das Ergebnis der mündlichen
 Ergänzungsprüfung im Verhältnis von 2 : 1 zu gewichten.
 
-
 ## § 8 Zusatzqualifikationen
 
 (1) Im Rahmen der Berufsausbildung nicht gewählte
@@ -594,7 +573,6 @@ Zusatzqualifikationen vermittelt werden.
 
 (2) Für die Vermittlung der Zusatzqualifikationen gilt die in der
 Anlage 1 Abschnitt B enthaltene sachliche Gliederung entsprechend.
-
 
 ## § 9 Prüfung der Zusatzqualifikationen
 
@@ -609,18 +587,15 @@ vermittelt worden sind.
 (3) Die Prüfung der jeweiligen Zusatzqualifikation ist bestanden, wenn
 der Prüfling mindestens ausreichende Leistungen erbracht hat.
 
-
 ## § 10 Nichtanwendung von Vorschriften
 
 Die bisher festgelegten Berufsbilder, Berufsbildungspläne und
 Prüfungsanforderungen für den Ausbildungsberuf
 Musikalienhändler/Musikalienhändlerin sind nicht mehr anzuwenden.
 
-
 ## § 11 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2009 in Kraft.
-
 
 ## Anlage 1 (zu § 4 Absatz 1 Satz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Musikfachhändler/zur Musikfachhändlerin
 
@@ -1864,12 +1839,6 @@ Abschnitt C: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten
 
 
         f)  Rückmeldungen geben und entgegennehmen
-
-
-
-
-
-
 
 ## Anlage 2 (zu § 4 Absatz 1 Satz 2) Ausbildungsrahmenplan für die Berufsausbildung zum Musikfachhändler/zur Musikfachhändlerin
 

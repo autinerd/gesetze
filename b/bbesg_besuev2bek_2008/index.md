@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 1612
 
-
 ## Eingangsformel
 
 Auf Grund des § 77 Abs. 5 des Bundesbesoldungsgesetzes in der Fassung
@@ -39,14 +38,9 @@ September 2003 (BGBl. I S. 1798), werden bekannt gemacht:
     Bundesbesoldungsgesetzes und Grundgehaltssätze der fortgeltenden
     Bundesbesoldungsordnung C.
 
-
-
-
-
 ## Schlussformel
 
 Der Bundesminister des Innern
-
 
 ## Anlage 1 Bundesbesoldungsordnung C
 
@@ -226,8 +220,6 @@ Gültig ab 1. Januar 2008
     *   6 239,97
 
     *   6 416,73
-
-
 
 ## Amtszulagen, Stellenzulagen, Zulagen, Vergütungen
 
@@ -534,8 +526,6 @@ Gültig ab 1. Januar 2008
     *   6 414,69
 
     *   6 596,40
-
-
 
 ## Amtszulagen, Stellenzulagen, Zulagen, Vergütungen
 
@@ -974,8 +964,6 @@ Gültig ab 1. Januar 2008 bis 31. März 2008
 
     *   5 274,19
 
-
-
 ### **2. Bundesbesoldungsordnung B**
 
 ## Grundgehaltssätze
@@ -1041,8 +1029,6 @@ Gültig ab 1. Januar 2008 bis 31. März 2008
 
     *   9 921,61
 
-
-
 ### **3. Bundesbesoldungsordnung W**
 
 ## Grundgehaltssätze
@@ -1067,8 +1053,6 @@ Gültig ab 1. Januar 2008 bis 31. März 2008
     *   3 757,51
 
     *   4 552,47
-
-
 
 ### **4. Bundesbesoldungsordnung R**
 
@@ -2682,8 +2666,6 @@ Gültig ab 1. Januar 2008 bis 31. März 2008
 
     *   334,58
 
-
-
 ### (Zweite Besoldungs-Übergangsverordnung)
 
 Gültig ab 1. Januar 2008 bis 31. März 2008
@@ -2861,8 +2843,6 @@ Gültig ab 1. Januar 2008 bis 31. März 2008
     *   5 771,97
 
     *   5 935,48
-
-
 
 ## Amtszulagen, Stellenzulagen, Zulagen, Vergütungen
 

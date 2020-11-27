@@ -23,7 +23,6 @@ Fundstelle
     Deutschland beschlossene Rahmenlehrplan für die Berufsschule werden
     demnächst als Beilage zum Bundesanzeiger veröffentlicht.
 
-
 ## Eingangsformel
 
 Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des
@@ -35,7 +34,6 @@ Oktober 2006 (BGBl. I S. 2407)vom 23. März 2005 (BGBl. I S. 931)
 geändert worden ist, verordnet das Bundesministerium für Wirtschaft
 und Technologie im Einvernehmen mit dem Bundesministerium für Bildung
 und Forschung:
-
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
@@ -53,11 +51,9 @@ Druck wird
 
 staatlich anerkannt.
 
-
 ## § 2 Dauer der Berufsausbildung
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Struktur der Berufsausbildung
 
@@ -72,10 +68,6 @@ Die Berufsausbildung gliedert sich in
 
 3.  eine im Ausbildungsvertrag festzulegende Wahlqualifikation nach § 4
     Absatz 2 Abschnitt B Nummer 2.
-
-
-
-
 
 ## § 4 Ausbildungsrahmenplan, Ausbildungsberufsbild
 
@@ -246,10 +238,6 @@ Pflichtqualifikationen nach § 3 Nummer 1:
 
 5.  Betriebliche Kommunikation.
 
-
-
-
-
 ## § 5 Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
@@ -269,7 +257,6 @@ zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
 Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
 Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
 durchzusehen.
-
 
 ## § 6 Zwischenprüfung
 
@@ -348,10 +335,6 @@ statt.
 
 
 3.  die Prüfungszeit beträgt vier Stunden.
-
-
-
-
 
 ## § 7 Abschlussprüfung, Gesellenprüfung
 
@@ -525,10 +508,6 @@ folgende Vorgaben:
 
 3.  die Prüfungszeit beträgt 60 Minuten.
 
-
-
-
-
 ## § 8 Gewichtungs- und Bestehensregelung
 
 (1) Die einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
@@ -597,7 +576,6 @@ kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich
 sind das bisherige Ergebnis und das Ergebnis der mündlichen
 Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
-
 ## § 9 Zusatzqualifikation
 
 (1) Eine im Rahmen der Berufsausbildung nicht gewählte
@@ -606,7 +584,6 @@ Zusatzqualifikation vermittelt werden.
 
 (2) Für die Vermittlung der Zusatzqualifikation gilt die in der Anlage
 Abschnitt B Nummer 2 enthaltene sachliche Gliederung entsprechend.
-
 
 ## § 10 Prüfung der Zusatzqualifikation
 
@@ -624,7 +601,6 @@ der Prüfling mindestens ausreichende Leistungen erbracht hat.
 (4) Über das Ergebnis der bestandenen Prüfung der Zusatzqualifikation
 ist eine gesonderte Bescheinigung zu erteilen.
 
-
 ## § 11 Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
@@ -633,19 +609,16 @@ die Vertragsparteien dies vereinbaren, unter Anrechnung der bisher
 zurückgelegten Ausbildungszeit nach den Vorschriften dieser Verordnung
 fortgesetzt werden.
 
-
 ## § 12 Aufhebung der Anerkennung von Ausbildungsberufen
 
 Die Anerkennung des Ausbildungsberufes des Steindruckers und der
 Steindruckerin für den Bereich Handwerk wird aufgehoben.
-
 
 ## § 13 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2011 in Kraft. Gleichzeitig tritt
 die Verordnung über die Berufsausbildung zum Drucker/zur Druckerin vom
 2\. Mai 2000 (BGBl. I S. 654) außer Kraft.
-
 
 ## Anlage (zu § 4 Absatz 1 Satz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Medientechnologen Druck und zur Medientechnologin Druck
 

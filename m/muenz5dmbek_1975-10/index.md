@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1975, 2626 (2684)
 
-
-
 ## (XXXX)
 
 (1) Auf Grund des Gesetzes über die Ausprägung von Scheidemünzen vom
@@ -71,11 +69,9 @@ Arabeske eingeprägt.
 
 (8) Dies wird namens der Bundesregierung bekanntgemacht.
 
-
 ## Schlußformel
 
 Der Bundesminister der Finanzen
-
 
 ## (XXXX) Abbildung der Münze
 

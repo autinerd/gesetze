@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 46 G v. 23.11.2007 I 2614
 
-
 ## § 1
 
 Die Angehörigen der Vereinigten Staaten von Amerika genießen für ihre
@@ -34,7 +33,6 @@ doch bleiben die Rechte unberührt, die ein anderer durch die
 Vervielfältigung oder Verbreitung eines solchen Werkes vor dem 18.
 Dezember 1919 erworben haben sollte.
 
-
 ## § 2
 
 Inwieweit im Falle einer Änderung des Schutzes der deutschen
@@ -43,7 +41,6 @@ in § 1 vorgesehenen Schutzes für die Angehörigen der Vereinigten
 Staaten in der Bundesrepublik Deutschland eintritt, bestimmt das
 Bundesministerium der Justiz durch Bekanntmachung im
 Bundesgesetzblatt.
-
 
 ## § 3
 

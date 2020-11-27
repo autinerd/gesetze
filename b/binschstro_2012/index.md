@@ -26,7 +26,6 @@ Informationsgesellschaft (ABl. L 204 vom 21.7.1998, S. 37), die
 zuletzt durch die Richtlinie 2006/96/EG (ABl. L 363 vom 20.12.2006, S.
 81) geändert worden ist, sind beachtet worden.
 
-
 ## Inhaltsverzeichnis
 
 
@@ -4126,9 +4125,7 @@ zuletzt durch die Richtlinie 2006/96/EG (ABl. L 363 vom 20.12.2006, S.
 
 ## Erster Teil - Gemeinsame Bestimmungen für alle Binnenschifffahrtsstraßen
 
-
 ### Kapitel 1 - Allgemeine Bestimmungen
-
 
 #### § 1.01 Begriffsbestimmungen
 
@@ -4609,10 +4606,6 @@ In dieser Verordnung gelten als
     geeigneten Person steht und der Führer eines Verbandes rechtzeitig
     bestimmt wird.
 
-
-
-
-
 #### § 1.03 Pflichten der Besatzung und sonstiger Personen an Bord
 
 
@@ -4658,10 +4651,6 @@ In dieser Verordnung gelten als
     Promille oder mehr Alkohol im Blut oder eine Alkoholmenge im Körper
     hat, die zu einer solchen Atem- oder Blutalkoholkonzentration führt.
 
-
-
-
-
 #### § 1.04 Allgemeine Sorgfaltspflicht
 
 Über die Anforderungen nach dieser Verordnung hinaus hat jeder
@@ -4682,16 +4671,11 @@ und die Übung der Schifffahrt gebieten, um insbesondere
 
 4.  jede vermeidbare Beeinträchtigung der Umwelt zu verhindern.
 
-
-
-
-
 #### § 1.05 Verhalten unter besonderen Umständen
 
 Bei unmittelbar drohender Gefahr muss der Schiffsführer alle Maßnahmen
 treffen, die die Umstände gebieten, auch wenn er dadurch gezwungen
 ist, von dieser Verordnung abzuweichen.
-
 
 #### § 1.06 Benutzung der Wasserstraße
 
@@ -4719,10 +4703,6 @@ ist, von dieser Verordnung abzuweichen.
     der Wasserstraßen sowie der übrige Schiffsverkehr nicht über Gebühr
     beeinträchtigt werden. Die Zulassung kann zeitlich und örtlich
     beschränkt werden.
-
-
-
-
 
 #### § 1.07 Anforderungen an die Beladung und Höchstzahl der Fahrgäste
 
@@ -4790,10 +4770,6 @@ ist, von dieser Verordnung abzuweichen.
     Beförderung von Containern vor Fahrtantritt die besondere Überprüfung
     der Stabilität nach Nummer 4 vorgenommen wird.
 
-
-
-
-
 #### § 1.08 Bau, Ausrüstung und Besatzung der Fahrzeuge
 
 
@@ -4826,10 +4802,6 @@ ist, von dieser Verordnung abzuweichen.
     Schiffsführer darf ein Fahrgastschiff nur führen, wenn die
     Einzelrettungsmittel nach Satz 1 in ausreichender Anzahl und in der
     vorgeschriebenen Art an Bord vorhanden sind.
-
-
-
-
 
 #### § 1.09 Besetzung des Ruders
 
@@ -5086,10 +5058,6 @@ ist, von dieser Verordnung abzuweichen.
     Spitzenverbände nach Satz 1 Buchstabe a Doppelbuchstabe aa im
     Verkehrsblatt bekannt. Insofern ist der Rudergänger Schiffsführer.
 
-
-
-
-
 #### § 1.10 Mitführen von Urkunden und sonstigen Unterlagen
 
 
@@ -5317,10 +5285,6 @@ ist, von dieser Verordnung abzuweichen.
     Buchstabe a, e, f bis h, j, l, m, n, s und t an Bord mitgeführt
     werden.
 
-
-
-
-
 #### § 1.11 Mitführen der Binnenschifffahrtsstraßen-Ordnung
 
 Der Schiffsführer hat dafür zu sorgen, dass sich an Bord jedes
@@ -5335,10 +5299,6 @@ lesbar gemacht werden kann. Die Sätze 1 und 2 gelten nicht für
 
 2.  Schubleichter und andere Fahrzeuge ohne Antriebsmaschine, die nicht
     über Wohnräume, Steuerhäuser oder Aufenthaltsräume verfügen.
-
-
-
-
 
 #### § 1.12 Gefährdung durch Gegenstände an Bord; Verlust von Gegenständen; Schifffahrtshindernisse
 
@@ -5377,10 +5337,6 @@ lesbar gemacht werden kann. Die Sätze 1 und 2 gelten nicht für
     Anlage hinausragt und ein aufgeholter Anker nicht unter den Boden oder
     den Kiel eines Fahrzeugs reicht.
 
-
-
-
-
 #### § 1.13 Schutz der Schifffahrtszeichen
 
 
@@ -5405,10 +5361,6 @@ lesbar gemacht werden kann. Die Sätze 1 und 2 gelten nicht für
     Schifffahrtszeichen, insbesondere Erlöschen eines Lichtes, falsche
     Lage einer Tonne oder Zerstörung eines Zeichens, feststellt.
 
-
-
-
-
 #### § 1.14 Beschädigung der Wasserstraße oder von Anlagen
 
 Hat ein Schiffsführer mit dem von ihm geführten Fahrzeug oder
@@ -5416,7 +5368,6 @@ Schwimmkörper die Wasserstraße oder eine Anlage beschädigt, muss er
 dies unverzüglich der nächsten Dienststelle der Wasser- und
 Schifffahrtsverwaltung des Bundes oder der nächsten Dienststelle der
 Wasserschutzpolizei mitteilen.
-
 
 #### § 1.15 Verbot des Einbringens von Gegenständen und anderen Stoffen in die Wasserstraße
 
@@ -5433,10 +5384,6 @@ Wasserschutzpolizei mitteilen.
     oder die nächste Dienststelle der Wasserschutzpolizei unterrichten; er
     hat dabei die Stelle des Vorfalls und die Art des Gegenstandes oder
     der Flüssigkeit so genau wie möglich anzugeben.
-
-
-
-
 
 #### § 1.16 Rettung und Hilfeleistung
 
@@ -5460,10 +5407,6 @@ Wasserschutzpolizei mitteilen.
     zugunsten der anderen Unfallbeteiligten und der Geschädigten zu
     ermöglichen. Beteiligt an einem Schiffsunfall ist jeder, dessen
     Verhalten nach den Umständen zum Unfall beigetragen haben kann.
-
-
-
-
 
 #### § 1.17 Festgefahrene oder gesunkene Fahrzeuge; Anzeige von Unfällen
 
@@ -5503,10 +5446,6 @@ Wasserschutzpolizei mitteilen.
 5.  Die Nummern 1 bis 4 gelten auch, wenn infolge eines Unfalls die
     Sicherheit und Leichtigkeit des Schiffsverkehrs beeinträchtigt wird.
 
-
-
-
-
 #### § 1.18 Freimachen des Fahrwassers
 
 
@@ -5521,10 +5460,6 @@ Wasserschutzpolizei mitteilen.
 2.  Nummer 1 gilt entsprechend, wenn ein Fahrzeug oder Schwimmkörper zu
     sinken droht oder manövrierunfähig wird.
 
-
-
-
-
 #### § 1.19 Besondere Anweisungen
 
 Der Schiffsführer hat eine Anweisung zu befolgen, die ihm von einem
@@ -5533,7 +5468,6 @@ Beschäftigten einer ihr nachgeordneten Dienststelle oder einem
 Beschäftigten der Wasserschutzpolizei für die Sicherheit und
 Leichtigkeit des Verkehrs oder zur Verhütung von der Schifffahrt
 ausgehender Gefahren erteilt wird.
-
 
 #### § 1.20 Überwachung
 
@@ -5544,7 +5478,6 @@ Wasserschutzpolizei die erforderliche Unterstützung zu geben,
 insbesondere sein sofortiges Anbordkommen zu erleichtern, damit er die
 Einhaltung der Bestimmungen dieser Verordnung und der übrigen auf den
 Binnenschifffahrtsstraßen geltenden Regelwerke überwachen kann.
-
 
 #### § 1.21 Sondertransporte
 
@@ -5583,10 +5516,6 @@ Binnenschifffahrtsstraßen geltenden Regelwerke überwachen kann.
     hat der Eigentümer und der Ausrüster jeweils unter Berücksichtigung
     des § 1.02 einen Schiffsführer zu bestimmen.
 
-
-
-
-
 #### § 1.22 Anordnungen vorübergehender Art
 
 
@@ -5610,10 +5539,6 @@ Binnenschifffahrtsstraßen geltenden Regelwerke überwachen kann.
     schifffahrtspolizeiliche Maßnahmen zu treffen. Die Rechtsverordnung
     gilt höchstens drei Jahre.
 
-
-
-
-
 #### § 1.23 Erlaubnis besonderer Veranstaltungen
 
 Eine sportliche Veranstaltung, Wasserfestlichkeit oder sonstige
@@ -5621,7 +5546,6 @@ Veranstaltung, die die Sicherheit und Leichtigkeit des Verkehrs
 beeinträchtigen kann, bedarf der Erlaubnis der zuständigen Behörde.
 Die Erlaubnis ist mit den zur Gewährleistung der Sicherheit und
 Leichtigkeit des Schiffsverkehrs erforderlichen Auflagen zu versehen.
-
 
 #### § 1.24 Sonderregelung für Fahrzeuge im öffentlichen Dienst und für Wasserrettungsfahrzeuge
 
@@ -5641,10 +5565,6 @@ Leichtigkeit des Schiffsverkehrs erforderlichen Auflagen zu versehen.
     rechtlichen Anstalt oder Körperschaft oder einer als gemeinnützig
     anerkannten Körperschaft im Rettungseinsatz.
 
-
-
-
-
 #### § 1.25 Laden, Löschen und Leichtern
 
 
@@ -5663,10 +5583,6 @@ Leichtigkeit des Schiffsverkehrs erforderlichen Auflagen zu versehen.
 3.  Der Eigentümer und der Ausrüster dürfen nicht anordnen oder zulassen,
     dass ein Fahrzeug entgegen Nummer 1 oder 2 geladen, gelöscht oder
     geleichtert wird.
-
-
-
-
 
 #### § 1.26 Fahrgeschwindigkeit
 
@@ -5689,19 +5605,13 @@ Nummer 3, 4, 5 Satz 1, § 25.04 Nummer 1 und 2, § 26.04 Nummer 1 und §
 
 3.  für ein Fahrzeug mit Sondererlaubnis von der zuständigen Behörde.
 
-
-
-
-
 #### § 1.27 Verbände
 
 Die in dieser Verordnung enthaltenen Vorschriften für ein Fahrzeug
 gelten für einen Verband entsprechend, soweit diese Verordnung für
 einen Verband nicht ausdrücklich etwas anderes bestimmt.
 
-
 ### Kapitel 2 - Kennzeichen und Tiefgangsanzeiger der Fahrzeuge; Schiffseichung
-
 
 #### § 2.01 Kennzeichen der Fahrzeuge, ausgenommen Kleinfahrzeuge und Seeschiffe
 
@@ -5794,10 +5704,6 @@ einen Verband nicht ausdrücklich etwas anderes bestimmt.
     von beiden Seiten gut sichtbar angegeben sein. Satz 1 gilt nicht für
     ein Kleinfahrzeug oder ein Seeschiff.
 
-
-
-
-
 #### § 2.02 Kennzeichen der Kleinfahrzeuge
 
 
@@ -5831,15 +5737,10 @@ einen Verband nicht ausdrücklich etwas anderes bestimmt.
     nur ein Kennzeichen tragen, das die Feststellung des Eigentümers
     gestattet.
 
-
-
-
-
 #### § 2.03 Schiffseichung
 
 Jedes Binnenschiff, das zur Güterbeförderung bestimmt ist, ausgenommen
 ein Kleinfahrzeug, muss geeicht sein.
-
 
 #### § 2.04 Einsenkungsmarken und Tiefgangsanzeiger
 
@@ -5857,10 +5758,6 @@ ein Kleinfahrzeug, muss geeicht sein.
     angebracht sein. Die Grundsätze für ihre Anbringung richten sich nach
     der Binnenschiffsuntersuchungsordnung.
 
-
-
-
-
 #### § 2.05 Kennzeichen der Anker
 
 
@@ -5875,10 +5772,6 @@ ein Kleinfahrzeug, muss geeicht sein.
 2.  Nummer 1 gilt nicht für Anker eines Seeschiffes oder eines
     Kleinfahrzeugs. Bei einem Seeschiff reicht es aus, wenn die Anker mit
     dem Unterscheidungssignal des Schiffes gekennzeichnet sind.
-
-
-
-
 
 #### § 2.06 Verhaltenspflichten
 
@@ -5922,18 +5815,9 @@ ein Kleinfahrzeug, muss geeicht sein.
     d)  die Schiffsanker nach § 2.05 Nummer 1, auch in Verbindung mit Nummer 2
         Satz 2, in der dort vorgeschriebenen Weise gekennzeichnet sind.
 
-
-
-
-
-
-
-
 ### Kapitel 3 - Bezeichnung der Fahrzeuge
 
-
 #### Abschnitt I. - Allgemeines
-
 
 ##### § 3.01 Begriffsbestimmungen und Anwendungen (Anlage 3: Bild 1)
 
@@ -5990,10 +5874,6 @@ ein Kleinfahrzeug, muss geeicht sein.
 5.  Die in diesem Kapitel vorgeschriebenen Bezeichnungen sind in Anlage 3
     abgebildet.
 
-
-
-
-
 ##### § 3.02 Lichter und Signalleuchten
 
 
@@ -6022,10 +5902,6 @@ ein Kleinfahrzeug, muss geeicht sein.
     sie muss jedoch bei klarer Sicht und dunklem Hintergrund eine
     Tragweite von mindestens 1 000,00 m haben.
 
-
-
-
-
 ##### § 3.03 Flaggen, Tafeln und Wimpel
 
 
@@ -6049,13 +5925,6 @@ ein Kleinfahrzeug, muss geeicht sein.
     b)  bei einem Wimpel, wenn seine Länge mindestens 1,00 m und seine Breite
         an der Seite, an der der Wimpel befestigt ist, mindestens 0,50 m
         beträgt.
-
-
-
-
-
-
-
 
 ##### § 3.04 Zylinder, Bälle und Kegel
 
@@ -6094,10 +5963,6 @@ ein Kleinfahrzeug, muss geeicht sein.
     angemessen sind, verwendet werden. Sie müssen jedoch so groß sein,
     dass sie gut gesehen werden können.
 
-
-
-
-
 ##### § 3.05 Verbotene oder ausnahmsweise zugelassene Lichter und Sichtzeichen
 
 
@@ -6112,14 +5977,9 @@ ein Kleinfahrzeug, muss geeicht sein.
     werden, sofern dies zu keiner Verwechslung mit den in dieser
     Verordnung vorgesehenen Lichtern oder Sichtzeichen führen kann.
 
-
-
-
-
 ##### § 3.06
 
 (ohne Inhalt)
-
 
 ##### § 3.07 Verbotener Gebrauch von Lichtern, Scheinwerfern, Sichtzeichen und anderen Gegenständen
 
@@ -6135,15 +5995,9 @@ ein Kleinfahrzeug, muss geeicht sein.
     gebrauchen, dass es oder er blendet und dadurch die Schifffahrt oder
     den Verkehr an Land gefährdet oder behindert.
 
-
-
-
-
 #### Abschnitt II. - Nacht- und Tagbezeichnung
 
-
 ##### Titel A. - Bezeichnung während der Fahrt
-
 
 ###### § 3.08 Bezeichnung einzeln fahrender Fahrzeuge mit Maschinenantrieb (Anlage 3: Bild 2, 3)
 
@@ -6196,10 +6050,6 @@ ein Kleinfahrzeug, muss geeicht sein.
 
 3.  Die Nummern 1 und 2 gelten nicht für ein Kleinfahrzeug oder für eine
     Fähre; für ein Kleinfahrzeug gilt § 3.13, für eine Fähre § 3.16.
-
-
-
-
 
 ###### § 3.09 Bezeichnung der Schleppverbände in Fahrt (Anlage 3: Bild 4, 5, 6, 7, 8, 9, 10)
 
@@ -6390,10 +6240,6 @@ ein Kleinfahrzeug, muss geeicht sein.
     Kleinfahrzeug. Für derartige Kleinfahrzeuge gilt § 3.13 Nummer 2 und
     3\.
 
-
-
-
-
 ###### § 3.10 Bezeichnung der Schubverbände in Fahrt (Anlage 3: Bild 11, 12, 13, 14)
 
 
@@ -6510,8 +6356,6 @@ ein Kleinfahrzeug, muss geeicht sein.
 
     *        ![bgbl1_2012_j0001_0019_ab1.jpg](bgbl1_2012_j0001_0019_ab1.jpg)
 
-
-
 ###### § 3.11 Bezeichnung gekuppelter Fahrzeuge in Fahrt (Anlage 3: Bild 15, 16)
 
 
@@ -6551,10 +6395,6 @@ ein Kleinfahrzeug, muss geeicht sein.
     Kleinfahrzeug. Für derartige Kleinfahrzeuge gilt § 3.13 Nummer 2 und
     3\.
 
-
-
-
-
 ###### § 3.12 Bezeichnung der Fahrzeuge unter Segel in Fahrt (Anlage 3: Bild 17)
 
 
@@ -6577,10 +6417,6 @@ ein Kleinfahrzeug, muss geeicht sein.
 
 2.  Nummer 1 gilt nicht für ein Kleinfahrzeug; für ein Kleinfahrzeug unter
     Segel in Fahrt gilt § 3.13 Nummer 4 und 6.
-
-
-
-
 
 ###### § 3.13 Bezeichnung der Kleinfahrzeuge in Fahrt (Anlage 3: Bild 18, 19, 20, 21, 22, 23, 24, 25, 26)
 
@@ -6751,9 +6587,6 @@ ein Kleinfahrzeug, muss geeicht sein.
 
 
     *        ![bgbl1_2012_j0001_0031_ab1.jpg](bgbl1_2012_j0001_0031_ab1.jpg)
-
-
-
 
 ###### § 3.14 Zusätzliche Bezeichnung der Fahrzeuge in Fahrt bei Beförderung bestimmter gefährlicher Güter (Anlage 3: Bild 27a, 27b, 28a, 28b, 29, 30, 31, 32)
 
@@ -6966,10 +6799,6 @@ ein Kleinfahrzeug, muss geeicht sein.
     Lichter muss mindestens derjenigen der gewöhnlichen blauen Lichter
     entsprechen.
 
-
-
-
-
 ###### § 3.15 Bezeichnung der Fahrzeuge in Fahrt, die zur Beförderung von mehr als zwölf Fahrgästen zugelassen sind und deren Schiffskörper eine größte Länge von weniger als 20,00 m aufweist (Anlage 3: Bild 33)
 
 Ein Fahrzeug, das zur Beförderung von mehr als zwölf Fahrgästen
@@ -6983,7 +6812,6 @@ als 20,00 m aufweist, muss in Fahrt bei Tag
 
 
    führen. Satz 1 gilt nicht für eine Fähre.
-
 
 ###### § 3.16 Bezeichnung der Fähren in Fahrt (Anlage 3: Bild 34, 35, 36)
 
@@ -7037,12 +6865,6 @@ als 20,00 m aufweist, muss in Fahrt bei Tag
 
         *            ![bgbl1_2012_j0001_0050_ab1.jpg](bgbl1_2012_j0001_0050_ab1.jpg)
 
-
-
-
-
-
-
 ###### § 3.17 Zusätzliche Bezeichnung der Fahrzeuge in Fahrt, die einen Vorrang besitzen (Anlage 3: Bild 37)
 
    Ein Fahrzeug, dem die zuständige Behörde zur Durchfahrt durch eine
@@ -7054,9 +6876,6 @@ vorgeschriebenen Bezeichnung bei Tag
         ist, führen.
 
     *        ![bgbl1_2012_j0001_0051_ab1.jpg](bgbl1_2012_j0001_0051_ab1.jpg)
-
-
-
 
 ###### § 3.18 Zusätzliche Bezeichnung manövrierunfähiger Fahrzeuge in Fahrt (Anlage 3: Bild 38)
 
@@ -7093,10 +6912,6 @@ vorgeschriebenen Bezeichnung bei Tag
 2.  Die Flagge nach Nummer 1 Buchstabe b kann durch eine Tafel gleicher
     Farbe ersetzt werden.
 
-
-
-
-
 ###### § 3.19 Bezeichnung der Schwimmkörper und schwimmenden Anlagen in Fahrt (Anlage 3: Bild 39)
 
 Unbeschadet der besonderen Auflagen, die nach § 1.21 festgelegt werden
@@ -7108,11 +6923,7 @@ bei Nacht
 
     *        ![bgbl1_2012_j0001_0054_ab1.jpg](bgbl1_2012_j0001_0054_ab1.jpg)
 
-
-
-
 ##### Titel B. - Bezeichnung beim Stillliegen
-
 
 ###### § 3.20 Bezeichnung der Fahrzeuge beim Stillliegen (Anlage 3: Bild 40, 41)
 
@@ -7169,10 +6980,6 @@ bei Nacht
     Teil von ihnen von der Lichterführung nach den Nummern 1 oder 2
     befreien.
 
-
-
-
-
 ###### § 3.21 Zusätzliche Bezeichnung stillliegender Fahrzeuge bei Beförderung bestimmter gefährlicher Güter (Anlage 3: Bild 42, 43, 44)
 
 Die nach § 3.14 jeweils vorgeschriebene Bezeichnung ist von den dort
@@ -7191,8 +6998,6 @@ beim Stillliegen zu führen.
 *    *
     *        ![bgbl1_2012_j0001_0061_ab1.jpg](bgbl1_2012_j0001_0061_ab1.jpg)
     *        ![bgbl1_2012_j0001_0062_ab1.jpg](bgbl1_2012_j0001_0062_ab1.jpg)
-
-
 
 ###### § 3.22 Bezeichnung der Fähren, die an ihrer Anlegestelle stillliegen (Anlage 3: Bild 45, 46)
 
@@ -7220,12 +7025,6 @@ beim Stillliegen zu führen.
 
         *            ![bgbl1_2012_j0001_0064_ab1.jpg](bgbl1_2012_j0001_0064_ab1.jpg)
 
-
-
-
-
-
-
 ###### § 3.23 Bezeichnung der Schwimmkörper und schwimmenden Anlagen beim Stillliegen (Anlage 3: Bild 47)
 
    Unbeschadet der besonderen Bedingungen, die nach § 1.21 festgelegt
@@ -7246,7 +7045,6 @@ Schiffsverkehrs ausgeschlossen und dieser oder diese nicht über Gebühr
 durch die Schifffahrt gefährdet ist, kann die zuständige Behörde für
 einzelne Schwimmkörper oder schwimmende Anlagen das Stillliegen ohne
 Beleuchtung zulassen.
-
 
 ###### § 3.24 Bezeichnung bestimmter stillliegender Fischereifahrzeuge und der Netze oder Ausleger (Anlage 3: Bild 48)
 
@@ -7285,10 +7083,6 @@ Beleuchtung zulassen.
 
 3.  Die zuständige Behörde kann eine von Nummer 2 Buchstabe b abweichende
     Bezeichnung vorschreiben oder zulassen.
-
-
-
-
 
 ###### § 3.25 Bezeichnung schwimmender Geräte bei der Arbeit sowie festgefahrener oder gesunkener Fahrzeuge (Anlage 3: Bild 49a, 49b, 50a, 50b, 51, 52)
 
@@ -7462,10 +7256,6 @@ Beleuchtung zulassen.
 3.  Die zuständige Behörde kann von der Führung der Bezeichnung nach
     Nummer 1 Satz 1 Buchstabe a und b befreien.
 
-
-
-
-
 ###### § 3.26 Zusätzliche Bezeichnung der Fahrzeuge, Schwimmkörper und schwimmenden Anlagen, deren Anker die Schifffahrt gefährden können, und ihrer Anker (Anlage 3: Bild 53, 54, 55)
 
 
@@ -7527,17 +7317,7 @@ Beleuchtung zulassen.
 
             *                ![bgbl1_2012_j0001_0083_ab1.jpg](bgbl1_2012_j0001_0083_ab1.jpg)
 
-
-
-
-
-
-
-
-
-
 #### Abschnitt III. - Sonstige Bezeichnung
-
 
 ##### § 3.27 Bezeichnung der Fahrzeuge der Überwachungsbehörden (Anlage 3: Bild 56)
 
@@ -7552,9 +7332,6 @@ Bundeskriminalamtes.
     *        ![bgbl1_2012_j0001_0084_ab1.jpg](bgbl1_2012_j0001_0084_ab1.jpg)
     *        ![bgbl1_2012_j0001_0085_ab1.jpg](bgbl1_2012_j0001_0085_ab1.jpg)
 
-
-
-
 ##### § 3.28 Zusätzliche Bezeichnung der Fahrzeuge in Fahrt, die Arbeiten in der Wasserstraße ausführen (Anlage 3: Bild 57)
 
    Ein in Fahrt befindliches Fahrzeug, das in der Wasserstraße Arbeiten,
@@ -7567,9 +7344,6 @@ ein von allen Seiten sichtbares gelbes helles Funkellicht.
 *    *
     *        ![bgbl1_2012_j0001_0086_ab1.jpg](bgbl1_2012_j0001_0086_ab1.jpg)
     *        ![bgbl1_2012_j0001_0087_ab1.jpg](bgbl1_2012_j0001_0087_ab1.jpg)
-
-
-
 
 ##### § 3.28a Bezeichnung und Fahrregeln für Mehrzweckfahrzeuge der Bundeswehr
 
@@ -7584,10 +7358,6 @@ ein von allen Seiten sichtbares gelbes helles Funkellicht.
 2.  Das Fahrzeug nach Nummer 1 verhält sich während der Fahrt
     grundsätzlich wie ein Kleinfahrzeug. Es gelten die §§ 6.02 und 6.02a
     Nummer 1 und 4.
-
-
-
-
 
 ##### § 3.29 Schutz gegen Sog und Wellenschlag (Anlage 3: Bild 58)
 
@@ -7643,10 +7413,6 @@ ein von allen Seiten sichtbares gelbes helles Funkellicht.
 
 *   § 3.25 bleibt unberührt.
 
-
-
-
-
 ##### § 3.30 Notzeichen (Anlage 3: Bild 59)
 
 
@@ -7677,10 +7443,6 @@ ein von allen Seiten sichtbares gelbes helles Funkellicht.
 
 2.  Die Sichtzeichen nach Nummer 1 ersetzen oder ergänzen die
     Schallzeichen nach § 4.04.
-
-
-
-
 
 ##### § 3.31 Hinweis auf das Verbot, das Fahrzeug zu betreten (Anlage 3: Bild 60)
 
@@ -7716,10 +7478,6 @@ ein von allen Seiten sichtbares gelbes helles Funkellicht.
 
 2.  Die Tafeln müssen erforderlichenfalls beleuchtet werden, damit sie bei
     Nacht deutlich sichtbar sind.
-
-
-
-
 
 ##### § 3.32 Hinweis auf das Verbot zu rauchen, ungeschütztes Licht oder Feuer zu verwenden (Anlage 3: Bild 61)
 
@@ -7765,10 +7523,6 @@ ein von allen Seiten sichtbares gelbes helles Funkellicht.
 2.  Die Tafeln müssen erforderlichenfalls beleuchtet werden, damit sie bei
     Nacht deutlich sichtbar sind.
 
-
-
-
-
 ##### § 3.33 Hinweis auf das Verbot des Stillliegens nebeneinander (Anlage 3: Bild 62)
 
 
@@ -7797,12 +7551,7 @@ ein von allen Seiten sichtbares gelbes helles Funkellicht.
 3.  Dieser Paragraf gilt nicht für die in § 3.21 genannten Fahrzeuge,
     Schubverbände oder gekuppelten Fahrzeuge.
 
-
-
-
-
 #### Abschnitt IV. - Pflichten
-
 
 ##### § 3.34 Verhaltenspflichten
 
@@ -7937,18 +7686,9 @@ ein von allen Seiten sichtbares gelbes helles Funkellicht.
     c)  dessen Nachtbezeichnung die nach § 3.02 Nummer 3 Halbsatz 2
         vorgeschriebene Tragweite hat.
 
-
-
-
-
-
-
-
 ### Kapitel 4 - Schallzeichen der Fahrzeuge, Sprechfunk, Navigationsgeräte
 
-
 #### Abschnitt I. - Schallzeichen (Anlage 6)
-
 
 ##### § 4.01 Allgemeines
 
@@ -7994,10 +7734,6 @@ ein von allen Seiten sichtbares gelbes helles Funkellicht.
     Satz 1 und Nummer 4, jeweils auch in Verbindung mit Nummer 3,
     vorgeschriebenen Art und Weise abgegeben wird.
 
-
-
-
-
 ##### § 4.02 Gebrauch der Schallzeichen
 
 
@@ -8014,10 +7750,6 @@ ein von allen Seiten sichtbares gelbes helles Funkellicht.
     Geschwindigkeit verantwortliche Person müssen jeweils sicherstellen,
     dass nach Nummer 1 vorgeschriebene Schallzeichen gegeben werden.
 
-
-
-
-
 ##### § 4.03 Verbotene Schallzeichen
 
 
@@ -8031,10 +7763,6 @@ ein von allen Seiten sichtbares gelbes helles Funkellicht.
     sofern dies zu keiner Verwechslung mit den in dieser Verordnung
     vorgesehenen Schallzeichen führen kann.
 
-
-
-
-
 ##### § 4.04 Notzeichen
 
 
@@ -8047,12 +7775,7 @@ ein von allen Seiten sichtbares gelbes helles Funkellicht.
 2.  Diese Schallzeichen ersetzen oder ergänzen die Sichtzeichen nach §
     3\.30.
 
-
-
-
-
 #### Abschnitt II. - Sprechfunk
-
 
 ##### § 4.05 Sprechfunk
 
@@ -8164,15 +7887,7 @@ ein von allen Seiten sichtbares gelbes helles Funkellicht.
         Vorschriften nach Nummer 1 Satz 1 Buchstabe a und b entsprechen und
         gemäß den Vorschriften nach Nummer 1 Satz 2 betrieben werden.
 
-
-
-
-
-
-
-
 #### Abschnitt III. - Navigationsgeräte
-
 
 ##### § 4.06 Radar
 
@@ -8239,10 +7954,6 @@ ein von allen Seiten sichtbares gelbes helles Funkellicht.
 
 *   ist.
 
-
-
-
-
 ##### § 4.07 Inland AIS Geräte
 
 
@@ -8267,12 +7978,7 @@ ein von allen Seiten sichtbares gelbes helles Funkellicht.
     dass auf dem Fahrzeug AIS nur nach den in Nummer 1 in Verbindung mit
     Nummer 2 genannten Anforderungen genutzt wird.
 
-
-
-
-
 ### Kapitel 5 - Schifffahrtszeichen und Bezeichnung der Wasserstraße
-
 
 #### § 5.01 Schifffahrtszeichen
 
@@ -8291,10 +7997,6 @@ ein von allen Seiten sichtbares gelbes helles Funkellicht.
     ein auf der Wasserstraße oder an ihren Ufern angebrachtes Zeichen nach
     Nummer 1 erteilt oder gegeben wird.
 
-
-
-
-
 #### § 5.02 Bezeichnung der Wasserstraße
 
 
@@ -8307,20 +8009,13 @@ ein von allen Seiten sichtbares gelbes helles Funkellicht.
 2.  Anlage 8 bestimmt zudem die Schifffahrtszeichen für die Bezeichnung
     von vorübergehend bestehenden gefährlichen Stellen und Hindernissen.
 
-
-
-
-
 ### Kapitel 6 - Fahrregeln
 
-
 #### Abschnitt I. - Allgemeines
-
 
 ##### § 6.01
 
 (ohne Inhalt)
-
 
 ##### § 6.02 Gegenseitiges Verhalten von Kleinfahrzeugen und anderen Fahrzeugen
 
@@ -8369,10 +8064,6 @@ ein von allen Seiten sichtbares gelbes helles Funkellicht.
     muss der Abstand so groß sein, dass sie durch Wellenschlag oder
     Sogwirkung nicht gefährdet oder mehr als nach den Umständen
     unvermeidbar belästigt wird.
-
-
-
-
 
 ##### § 6.02a Besondere Fahrregeln für Kleinfahrzeuge untereinander
 
@@ -8452,12 +8143,7 @@ ein von allen Seiten sichtbares gelbes helles Funkellicht.
 7.  Die Nummern 1 bis 6 gelten hinsichtlich eines Verbandes im Sinne des §
     6\.02 Nummer 1 Satz 1 entsprechend.
 
-
-
-
-
 #### Abschnitt II. - Begegnen, Kreuzen und Überholen
-
 
 ##### § 6.03 Allgemeine Grundsätze
 
@@ -8477,10 +8163,6 @@ ein von allen Seiten sichtbares gelbes helles Funkellicht.
     jede Gefahr eines Zusammenstoßes ausschließen, ihren Kurs oder ihre
     Geschwindigkeit nicht in einer Weise ändern, die die Gefahr eines
     Zusammenstoßes herbeiführen könnte.
-
-
-
-
 
 ##### § 6.03a Kreuzen
 
@@ -8643,7 +8325,6 @@ ein von allen Seiten sichtbares gelbes helles Funkellicht.
 
 (ohne Inhalt)
 
-
 ##### § 6.07 Begegnen im engen Fahrwasser
 
 
@@ -8778,10 +8459,6 @@ ein von allen Seiten sichtbares gelbes helles Funkellicht.
     vermindern, damit das Überholmanöver gefahrlos und so schnell
     ausgeführt werden kann, dass der übrige Verkehr nicht behindert wird.
 
-
-
-
-
 ##### § 6.10 Verhalten und Zeichengebung der Fahrzeuge beim Überholen
 
 
@@ -8887,7 +8564,6 @@ Unbeschadet des § 6.08 Nummer 1 besteht
 [^BJNR000210012BJNE009100000_01]: 
 
 #### Abschnitt III. - Weitere Regeln für die Fahrt
-
 
 ##### § 6.12 Fahrt auf Strecken mit vorgeschriebenem Kurs
 
@@ -9021,8 +8697,6 @@ Unbeschadet des § 6.08 Nummer 1 besteht
 
     *        ![bgbl1_2012_j0001_0114_ab1.jpg](bgbl1_2012_j0001_0114_ab1.jpg)
 
-
-
 ##### § 6.14 Verhalten vor der Abfahrt
 
 
@@ -9040,18 +8714,10 @@ Unbeschadet des § 6.08 Nummer 1 besteht
 
     b)  „zwei kurze Töne“, wenn es seinen Kurs nach Backbord richtet.
 
-
-
-
-
-
-
-
 ##### § 6.15 Verbot des Hineinfahrens in die Abstände zwischen Teilen eines Schleppverbandes
 
 Es ist verboten, in die Abstände zwischen den Teilen eines
 Schleppverbandes hineinzufahren.
-
 
 ##### § 6.16 Überqueren der Wasserstraße; Einfahrt in und Ausfahrt aus Häfen und Nebenwasserstraßen
 
@@ -9202,10 +8868,6 @@ Schleppverbandes hineinzufahren.
     eine gleichzeitige Einfahrt und Ausfahrt nicht ausreichend Platz
     bietet, erst eingefahren werden, wenn kein Fahrzeug ausfährt.
 
-
-
-
-
 ##### § 6.17 Fahrt auf gleicher Höhe; Verbot der Annäherung an Fahrzeuge
 
 
@@ -9230,10 +8892,6 @@ Schleppverbandes hineinzufahren.
     Schifffahrt oder die Arbeit des schwimmenden Gerätes nicht gestört
     oder gefährdet wird.
 
-
-
-
-
 ##### § 6.18 Verbot des Schleifenlassens von Ankern, Trossen oder Ketten
 
 
@@ -9257,8 +8915,6 @@ Schleppverbandes hineinzufahren.
 
     *        ![bgbl1_2012_j0001_0124_ab1.jpg](bgbl1_2012_j0001_0124_ab1.jpg)
 
-
-
 ##### § 6.19 Schifffahrt durch Treibenlassen
 
 
@@ -9274,10 +8930,6 @@ Schleppverbandes hineinzufahren.
 3.  Ein Fahrzeug, das sich Bug zu Berg mit im Vorwärtsgang laufender
     Antriebsmaschine zu Tal bewegt, gilt nicht als treibendes Fahrzeug,
     sondern als Bergfahrer.
-
-
-
-
 
 ##### § 6.20 Vermeidung von Wellenschlag
 
@@ -9340,10 +8992,6 @@ Schleppverbandes hineinzufahren.
     vorgeschrieben, vermindern. Es hat außerdem möglichst weiten Abstand
     zu halten.
 
-
-
-
-
 ##### § 6.21 Zusammenstellung der Verbände
 
 
@@ -9378,13 +9026,6 @@ Schleppverbandes hineinzufahren.
         Kleinfahrzeug ist, sofern der Schiffsführer ein sicheres Schleppen
         oder gekuppeltes Fortbewegen sicherstellt.
 
-
-
-
-
-
-
-
 ##### § 6.22 Sperrung der Schifffahrt und gesperrte Wasserflächen
 
 
@@ -9417,9 +9058,6 @@ Schleppverbandes hineinzufahren.
 
 
     *        ![bgbl1_2012_j0001_0127_ab1.jpg](bgbl1_2012_j0001_0127_ab1.jpg)
-
-
-
 
 ##### § 6.22a Vorbeifahrt an schwimmenden Geräten bei der Arbeit sowie an festgefahrenen oder gesunkenen Fahrzeugen (Anlage 3: Bild 50a, 50b, 52)
 
@@ -9475,9 +9113,7 @@ Seite vorbeizufahren, an dem es
 
    zeigt.
 
-
 #### Abschnitt IV. - Fähren
-
 
 ##### § 6.23 Verhalten der Fähren
 
@@ -9509,15 +9145,7 @@ Seite vorbeizufahren, an dem es
     c)  die Fähre darf sich nicht länger im Fahrwasser aufhalten, als der
         Betrieb es erfordert.
 
-
-
-
-
-
-
-
 #### Abschnitt V. - Durchfahren von Brücken, Wehren und Schleusen
-
 
 ##### § 6.24 Allgemeine Regelungen zum Durchfahren von Brücken und Wehren
 
@@ -9548,12 +9176,6 @@ Seite vorbeizufahren, an dem es
 
 
         *            ![bgbl1_2012_j0001_0134_ab1.jpg](bgbl1_2012_j0001_0134_ab1.jpg)
-
-
-
-
-
-
 
 ##### § 6.25 Durchfahrt unter festen Brücken
 
@@ -9606,10 +9228,6 @@ Seite vorbeizufahren, an dem es
 3.  Ist eine bestimmte Öffnung fester Brücken nach Nummer 2
     gekennzeichnet, kann die Schifffahrt die nicht gekennzeichneten
     Öffnungen auf eigene Gefahr benutzen.
-
-
-
-
 
 ##### § 6.26 Durchfahren beweglicher Brücken
 
@@ -9681,10 +9299,6 @@ Seite vorbeizufahren, an dem es
     Brücke durchfahren, wenn die Höhe der Durchfahrt oder der Gegenverkehr
     dies mit Sicherheit zulässt.
 
-
-
-
-
 ##### § 6.27 Durchfahren der Wehre
 
 
@@ -9735,10 +9349,6 @@ Seite vorbeizufahren, an dem es
 
 4.  An ein geschlossenes Sicherheitstor und Hochwassersperrtor darf nur
     bis zu einem Abstand von 100,00 m herangefahren werden.
-
-
-
-
 
 ##### § 6.28 Durchfahren der Schleusen
 
@@ -9960,10 +9570,6 @@ Seite vorbeizufahren, an dem es
     ergänzen oder von ihr abweichen. Der Schiffsführer hat diese
     Anordnungen im Schleusenbereich zu befolgen.
 
-
-
-
-
 ##### § 6.28a Schleuseneinfahrt und -ausfahrt
 
 
@@ -10093,10 +9699,6 @@ Seite vorbeizufahren, an dem es
     Einfahrt in die Schleuse oder die Ausfahrt aus der Schleuse ohne
     besondere Anordnung der Schleusenaufsicht verboten.
 
-
-
-
-
 ##### § 6.29 Reihenfolge der Schleusungen
 
 
@@ -10195,10 +9797,6 @@ Seite vorbeizufahren, an dem es
     aus Gründen des Verkehrsbedarfs oder wegen betrieblicher Erfordernisse
     vorübergehend abgewichen werden.
 
-
-
-
-
 ##### § 6.29a Durchfahren der Schiffshebewerke
 
 Die §§ 6.28, 6.28a und 6.29 sind auch auf ein Schiffshebewerk
@@ -10206,9 +9804,7 @@ anzuwenden. In diesem Fall tritt an die Stelle des Schleusenbereiches
 der Bereich des Schiffshebewerkes und an die Stelle der
 Schleusenaufsicht die Aufsicht des Schiffshebewerkes.
 
-
 #### Abschnitt VI. - Unsichtiges Wetter; Benutzung von Radar
-
 
 ##### § 6.30 Allgemeine Regeln für die Fahrt bei unsichtigem Wetter
 
@@ -10237,10 +9833,6 @@ Schleusenaufsicht die Aufsicht des Schiffshebewerkes.
 5.  Ein Fahrzeug oder ein Verband, das oder der kein Radar benutzen kann,
     muss bei unsichtigem Wetter unverzüglich einen Liegeplatz aufsuchen.
 
-
-
-
-
 ##### § 6.31 Stillliegende Fahrzeuge
 
 
@@ -10266,10 +9858,6 @@ Schleusenaufsicht die Aufsicht des Schiffshebewerkes.
 3.  Die Nummern 1 und 2 gelten nicht für geschobene Fahrzeuge in einem
     Schubverband. Bei gekuppelten Fahrzeugen gelten die Nummern 1 und 2
     nur für eines der Fahrzeuge der Zusammenstellung.
-
-
-
-
 
 ##### § 6.32 Mit Radar fahrende Fahrzeuge
 
@@ -10338,10 +9926,6 @@ Schleusenaufsicht die Aufsicht des Schiffshebewerkes.
     und 2 nur für das Fahrzeug, auf dem sich der Schiffsführer des
     Verbandes oder der gekuppelten Fahrzeuge befindet.
 
-
-
-
-
 ##### § 6.33 Nicht mit Radar fahrende Fahrzeuge
 
 Ein Fahrzeug oder ein Verband, das oder der kein Radar benutzen kann
@@ -10379,13 +9963,6 @@ Stelle folgendes beachten:
 
     b)  wenn es gerade von einem Ufer zum anderen wechselt, die Fahrrinne so
         weit und so schnell wie möglich freimachen.
-
-
-
-
-
-
-
 
 ##### § 6.34 Abweichende Regeln für die Fahrt bei unsichtigem Wetter
 
@@ -10467,12 +10044,7 @@ Fahrt bei unsichtigem Wetter folgende Regeln:
 9.  Nummer 8 Satz 2 und 3 gilt nicht für einen Schleppverband in der
     Talfahrt.
 
-
-
-
-
 #### Abschnitt VII. - Pflichten
-
 
 ##### § 6.35 Verhaltenspflichten
 
@@ -10537,12 +10109,7 @@ Fahrt bei unsichtigem Wetter folgende Regeln:
     Fahrzeugs oder Verbandes nur anordnen oder zulassen, wenn es oder er
     nach § 6.32 Nummer 1 Satz 1 vorschriftsmäßig besetzt ist.
 
-
-
-
-
 ### Kapitel 7 - Regeln für das Stillliegen, das Ankern und das Festmachen
-
 
 #### § 7.01 Allgemeine Grundsätze für das Stillliegen
 
@@ -10572,10 +10139,6 @@ Fahrt bei unsichtigem Wetter folgende Regeln:
 4.  Sofern auf Schifffahrtskanälen und in Schleusenkanälen das Stillliegen
     erlaubt ist, muss ein Fahrzeug oder ein Schwimmkörper festgemacht
     werden.
-
-
-
-
 
 #### § 7.02 Liegeverbot
 
@@ -10733,10 +10296,6 @@ Fahrt bei unsichtigem Wetter folgende Regeln:
     nicht die Tafelzeichen E.5.1, E.5.2 oder E.5.3 oder Zusatztafeln zu
     den Tafeln E.6 oder E.7 etwas anderes zulassen.
 
-
-
-
-
 #### § 7.03 Ankern und Verwendung von Pfählen
 
 
@@ -10781,9 +10340,6 @@ Fahrt bei unsichtigem Wetter folgende Regeln:
 
 
     *        ![bgbl1_2012_j0001_0172_ab1.jpg](bgbl1_2012_j0001_0172_ab1.jpg)
-
-
-
 
 #### § 7.04 Festmachen
 
@@ -10835,10 +10391,6 @@ Fahrt bei unsichtigem Wetter folgende Regeln:
     Eisenleiter, ein Handlauf oder ähnliche Gegenstände dürfen weder zum
     Festmachen noch zum Verholen benutzt werden.
 
-
-
-
-
 #### § 7.05 Liegestellen
 
 
@@ -10882,9 +10434,6 @@ Fahrt bei unsichtigem Wetter folgende Regeln:
         Zahlen angegeben ist.
 
     *        ![bgbl1_2012_j0001_0179_ab1.jpg](bgbl1_2012_j0001_0179_ab1.jpg)
-
-
-
 
 #### § 7.06 Besondere Liegestellen
 
@@ -10946,10 +10495,6 @@ Fahrt bei unsichtigem Wetter folgende Regeln:
     Seite der Wasserstraße, auf der das Tafelzeichen steht, vom Ufer aus
     und ein Fahrzeug neben dem anderen zu belegen.
 
-
-
-
-
 #### § 7.07 Mindestabstände bei der Beförderung bestimmter gefährlicher Güter beim Stillliegen
 
 
@@ -10993,10 +10538,6 @@ Fahrt bei unsichtigem Wetter folgende Regeln:
 
 3.  In besonderen Fällen kann die zuständige Behörde Ausnahmen zulassen.
 
-
-
-
-
 #### § 7.08 Wache und Aufsicht
 
 
@@ -11013,10 +10554,6 @@ Fahrt bei unsichtigem Wetter folgende Regeln:
     rasch einzugreifen, beaufsichtigt werden. Satz 1 gilt nicht, wenn die
     Aufsicht wegen der örtlichen Verhältnisse nicht erforderlich ist oder
     die zuständige Behörde eine Ausnahme zulässt.
-
-
-
-
 
 #### § 7.09 Verhaltenspflichten
 
@@ -11036,18 +10573,12 @@ Fahrt bei unsichtigem Wetter folgende Regeln:
     Stillliegen einzuhalten oder sicherzustellen, dass diese eingehalten
     werden.
 
-
-
-
-
 ### Kapitel 8 - Zusatzbestimmungen
-
 
 #### § 8.01 Höchstabmessungen der Fahrzeuge
 
 Die zugelassenen Höchstabmessungen eines Fahrzeugs auf der jeweiligen
 Wasserstraße bestimmen sich nach den Kapiteln 10 bis 27.
-
 
 #### § 8.02 Geschleppte und schleppende Schubverbände
 
@@ -11068,16 +10599,11 @@ Wasserstraße bestimmen sich nach den Kapiteln 10 bis 27.
     gilt hierbei als Fahrzeug mit Maschinenantrieb an der Spitze eines
     Schleppverbandes.
 
-
-
-
-
 #### § 8.03 Schubverbände, die andere Fahrzeuge als Schubleichter mitführen
 
 Ein Schubverband darf andere Fahrzeuge als Schubleichter nur
 mitführen, wenn dies in der Fahrtauglichkeitsbescheinigung des
 schiebenden und des geschobenen Fahrzeugs zugelassen ist.
-
 
 #### § 8.04 Schubverbände, die Trägerschiffsleichter mitführen
 
@@ -11111,10 +10637,6 @@ schiebenden und des geschobenen Fahrzeugs zugelassen ist.
     mit höchstens zwei Trägerschiffsleichtern mit einer Verbandslänge bis
     86,00 m Ausnahmen von Nummer 1 zulassen.
 
-
-
-
-
 #### § 8.05 Fortbewegung von Schubleichtern außerhalb eines Schubverbandes
 
 Außerhalb eines Schubverbandes darf ein Schubleichter nur fortbewegt
@@ -11128,10 +10650,6 @@ werden:
 2.  auf kurzen Strecken beim Zusammenstellen oder Auflösen eines
     Schubverbandes unter Beachtung der von der zuständigen Behörde
     erlassenen Vorschriften oder mit ihrer Erlaubnis.
-
-
-
-
 
 #### § 8.06 Kupplungen der Schubverbände
 
@@ -11156,10 +10674,6 @@ werden:
     Vermerk eingetragen ist. Das Herstellen von geknickten Verbindungen
     darf nur durch die in der Fahrtauglichkeitsbescheinigung genannten
     Einrichtungen und nicht durch Hilfsmittel erfolgen.
-
-
-
-
 
 #### § 8.07 Sprechverbindung auf Verbänden
 
@@ -11187,16 +10701,11 @@ werden:
 5.  Als Sprechverbindung darf nicht der Verkehrskreis Schiff-Schiff
     benutzt werden.
 
-
-
-
-
 #### § 8.08 Begehbarkeit der Schubverbände
 
 Ein Schubverband muss leicht und gefahrlos begehbar sein.
 Zwischenräume zwischen den Fahrzeugen müssen durch geeignete
 Schutzvorrichtungen gesichert sein.
-
 
 #### § 8.09 Bleib-weg-Signal
 
@@ -11302,10 +10811,6 @@ Schutzvorrichtungen gesichert sein.
     und Schifffahrtsverwaltung des Bundes oder die nächste Dienststelle
     der Wasserschutzpolizei sofort unterrichten.
 
-
-
-
-
 #### § 8.10 Bade- und Schwimmverbot
 
 
@@ -11360,9 +10865,6 @@ Schutzvorrichtungen gesichert sein.
 
     *        ![bgbl1_2012_j0001_0199_ab1.jpg](bgbl1_2012_j0001_0199_ab1.jpg)
 
-
-
-
 #### § 8.11 Bezeichnung von Fanggeräten der Fischerei
 
 
@@ -11386,10 +10888,6 @@ Schutzvorrichtungen gesichert sein.
 4.  Die zuständige Behörde kann abweichend von Nummer 2 Satz 1 eine andere
     Bezeichnung vorschreiben oder zulassen.
 
-
-
-
-
 #### § 8.12 Bezeichnung beim Einsatz von Tauchern (Anlage 3: Bild 64)
 
 Eine Stelle oder ein Fahrzeug, von der oder dem aus Taucherarbeiten
@@ -11408,7 +10906,6 @@ Verordnung vorgeschriebenen Bezeichnung führen:
 werden, dass sie von allen Seiten sichtbar ist. Bei Nacht ist sie
 anzustrahlen. Die Flagge kann durch eine Tafel oder einen Ball
 gleicher Farbe ersetzt werden.
-
 
 #### § 8.13 Verbot des Kitesurfens
 
@@ -11433,9 +10930,6 @@ gleicher Farbe ersetzt werden.
 
 
     *        ![bgbl1_2012_j0001_0202_ab1.jpg](bgbl1_2012_j0001_0202_ab1.jpg)
-
-
-
 
 #### § 8.14 Verhaltenspflichten
 
@@ -11509,12 +11003,7 @@ gleicher Farbe ersetzt werden.
     oder zulassen, wenn es entsprechend ausgerüstet ist, um das Bleib-weg-
     Signal nach § 8.09 Nummer 2 geben zu können.
 
-
-
-
-
 ### Kapitel 9 - Fahrgastschifffahrt
-
 
 #### § 9.01 Fahrpläne
 
@@ -11530,17 +11019,12 @@ gleicher Farbe ersetzt werden.
 2.  Der Unternehmer muss auf Verlangen der zuständigen Behörde den
     Fahrplan so ändern, dass Verkehrsstörungen vermieden werden.
 
-
-
-
-
 #### § 9.02 Anlegestellen
 
 Der Schiffsführer eines Fahrgastschiffes darf dieses zum Ein- und
 Aussteigen der Fahrgäste nur an einer Anlegestelle, die von der
 zuständigen Behörde hierfür zugelassen ist, festmachen oder festmachen
 lassen.
-
 
 #### § 9.03 Schiffsverkehr an den Anlegestellen
 
@@ -11549,7 +11033,6 @@ das Fahrzeug an einer Anlegestelle der Fahrgastschiffe nur mit
 Erlaubnis des Berechtigten festmachen oder festmachen lassen und es
 dort nur stillliegen lassen, solange der Verkehr der Fahrgastschiffe
 nicht behindert wird.
-
 
 #### § 9.04 Ein- und Aussteigen der Fahrgäste
 
@@ -11586,17 +11069,12 @@ nicht behindert wird.
     der Schiffsführer oder das von ihm beauftragte Mitglied der Besatzung
     die Erlaubnis hierzu ausdrücklich erteilt.
 
-
-
-
-
 #### § 9.05 Zurückweisung von Fahrgästen
 
 Der Schiffsführer oder die von ihm beauftragten Mitglieder der
 Besatzung haben jeweils Personen, von denen eine Gefährdung des
 Schiffsbetriebes oder eine erhebliche Belästigung der Fahrgäste zu
 befürchten ist, von der Beförderung auszuschließen.
-
 
 #### § 9.06 Sicherheit an Bord und an den Anlegestellen
 
@@ -11615,10 +11093,6 @@ befürchten ist, von der Beförderung auszuschließen.
 
 3.  Bei Dunkelheit müssen die für Fahrgäste bestimmten Räume ausreichend
     beleuchtet sein.
-
-
-
-
 
 #### § 9.07 Sicherheit an Bord von Fahrzeugen, die für die Beförderung und Übernachtung von mehr als zwölf Fahrgästen zugelassen sind
 
@@ -11666,28 +11140,20 @@ Anforderungen:
     und das Personal regelmäßig in ihren Aufgaben nach der
     Sicherheitsrolle nach Nummer 1 unterwiesen worden sind.
 
-
-
-
-
 #### § 9.08 Personenbarkassen
 
 Die §§ 9.01, 9.02, 9.04, 9.05 und 9.06 sind auf eine Personenbarkasse
 entsprechend anzuwenden.
 
-
 ## Zweiter Teil - Zusätzliche Bestimmungen für einzelne Binnenschifffahrtsstraßen
 
-
 ### Kapitel 10 - Neckar
-
 
 #### § 10.01 Anwendungsbereich
 
 Die Vorschriften dieses Kapitel gelten auf dem **Neckar**
 (Ne) von der Mündung in den Rhein (Rh) bei Rh-km 428,16 bis zur
 Gemeindegrenze Wernau-Plochingen (Ne-km 203,01).
-
 
 #### § 10.02 Abmessungen der Fahrzeuge und Verbände, Fahrrinnentiefe
 
@@ -11843,17 +11309,12 @@ Gemeindegrenze Wernau-Plochingen (Ne-km 203,01).
     geltenden Einschränkungen werden von der zuständigen Behörde
     bekanntgegeben.
 
-
-
-
-
 #### § 10.03 Zusammenstellung der Verbände
 
 In einen Schleppverband dürfen nur so viele Fahrzeuge eingestellt
 werden, dass er nicht mehr als eine Schleusung benötigt. In der
 Talfahrt muss ein leerer Leichter ohne aktive Bugsteuereinrichtung
 „Heck zu Tal“ gekuppelt sein.
-
 
 #### § 10.04 Fahrgeschwindigkeit
 
@@ -11910,14 +11371,9 @@ Talfahrt muss ein leerer Leichter ohne aktive Bugsteuereinrichtung
     wenn dadurch der Zustand und die Benutzung der Wasserstraße sowie der
     übrige Schiffsverkehr nicht über Gebühr beeinträchtigt werden.
 
-
-
-
-
 #### § 10.05 Bergfahrt
 
 (keine besonderen Vorschriften)
-
 
 #### § 10.06 Begegnen
 
@@ -12038,24 +11494,17 @@ Talfahrt muss ein leerer Leichter ohne aktive Bugsteuereinrichtung
     seiner Funkanlagen senkrecht zu stellen und so hoch wie möglich
     auszufahren.
 
-
-
-
-
 #### § 10.07 Überholen
 
 (keine besonderen Vorschriften) 91
-
 
 #### § 10.08 Wenden
 
 (keine besonderen Vorschriften)
 
-
 #### § 10.09 Ankern
 
 (keine besonderen Vorschriften)
-
 
 #### § 10.10 Stillliegen
 
@@ -12171,13 +11620,6 @@ Talfahrt muss ein leerer Leichter ohne aktive Bugsteuereinrichtung
         Wasserfläche oder Teile davon von Fahrzeugen, die an den
         Veranstaltungen nicht teilnehmen, für die Dauer der Veranstaltung
         geräumt werden.
-
-
-
-
-
-
-
 
 #### § 10.11 Schifffahrt bei Hochwasser
 
@@ -12405,22 +11847,13 @@ Talfahrt muss ein leerer Leichter ohne aktive Bugsteuereinrichtung
 
         *   180 cm.
 
-
-
-
-
-
-
-
 #### § 10.12 Schifffahrt bei Eis
 
 (keine besonderen Vorschriften)
 
-
 #### § 10.13 Nachtschifffahrt
 
 (keine besonderen Vorschriften)
-
 
 #### § 10.14 Einsatz von Trägerschiffsleichtern
 
@@ -12428,26 +11861,21 @@ Ein Trägerschiffsleichter darf nicht an die Spitze eines
 Schubverbandes gesetzt werden. Die zuständige Behörde kann Ausnahmen
 hiervon zulassen.
 
-
 #### § 10.15 Meldepflicht
 
 (keine besonderen Vorschriften)
-
 
 #### § 10.16 Höhe der Brücken, sonstigen festen Überbauten und Freileitungen
 
 (keine besonderen Vorschriften)
 
-
 #### § 10.17 Kennzeichnung der Brücken- und Wehrdurchfahrten
 
 (keine besonderen Vorschriften)
 
-
 #### § 10.18 Durchfahren der Brücken, Sperrwerke, Wehre, Schleusen und einzelner Stromstrecken
 
 (keine besonderen Vorschriften)
-
 
 #### § 10.19 Benutzung der Schleusen, Bootsschleusen und Bootsumsetzanlagen
 
@@ -12455,52 +11883,42 @@ Bei gemeinsamer Schleusung eines Fahrgastschiffs und eines Fahrzeugs,
 das für die Beförderung von Gütern bestimmt ist, darf das
 Fahrgastschiff erst nach diesem in die Schleuse einfahren.
 
-
 #### § 10.20 Segeln
 
 (keine besonderen Vorschriften)
-
 
 #### § 10.21 Bezeichnung der Fahrzeuge
 
 (keine besonderen Vorschriften)
 
-
 #### § 10.22 Regelungen über den Verkehr
 
 (keine besonderen Vorschriften)
-
 
 #### § 10.23 Regelungen zum Sprechfunk
 
 (keine besonderen Vorschriften)
 
-
 #### § 10.24 Sonderbestimmungen für Kleinfahrzeuge
 
 (keine besonderen Vorschriften)
-
 
 #### § 10.25 Befahren der Altwässer, Kanäle und einzelner Wasserstraßen
 
 (keine besonderen Vorschriften)
 
-
 #### § 10.26 Schutz der Kanäle und Anlagen
 
 (keine besonderen Vorschriften)
-
 
 #### § 10.27 Verkehrsbeschränkungen der Schifffahrt
 
 Das Befahren der Binnenschifffahrtsstraße oberhalb km 201,49 ist
 verboten. Satz 1 gilt nicht für ein Kleinfahrzeug.
 
-
 #### § 10.28 Benutzung der Wasserstraßen
 
 (keine besonderen Vorschriften)
-
 
 #### § 10.29 Verhaltenspflichten des Schiffsführers, der Besatzung an Bord, des Eigentümers und des Ausrüsters
 
@@ -12592,22 +12010,13 @@ verboten. Satz 1 gilt nicht für ein Kleinfahrzeug.
     b)  auf dem Fahrzeug oder Verband in dem in § 10.02 Nummer 1.4 genannten
         Fall die dort angegebene Ausrüstung vorhanden ist.
 
-
-
-
-
-
-
-
 ### Kapitel 11 - Main
-
 
 #### § 11.01 Anwendungsbereich
 
 Die Vorschriften dieses Kapitels gelten auf dem **Main**
 (Ma) von der Mündung in den Rhein (Rh-km 496,63) bis oberhalb der
 Eisenbahnbrücke bei Hallstadt (Ma-km 387,69).
-
 
 #### § 11.02 Abmessungen der Fahrzeuge und Verbände, Fahrrinnentiefe und -breite
 
@@ -12847,13 +12256,6 @@ Eisenbahnbrücke bei Hallstadt (Ma-km 387,69).
 
         *   36,00 m.
 
-
-
-
-
-
-
-
 #### § 11.03 Zusammenstellung der Verbände
 
 
@@ -12862,10 +12264,6 @@ Eisenbahnbrücke bei Hallstadt (Ma-km 387,69).
 
 
 2.  Die zuständige Behörde kann Ausnahmen von Nummer 1 Satz 1 zulassen.
-
-
-
-
 
 #### § 11.04 Fahrgeschwindigkeit
 
@@ -12892,14 +12290,9 @@ Die zulässige Höchstgeschwindigkeit gegenüber dem Ufer beträgt
 
     *   10 km/h.
 
-
-
-
-
 #### § 11.05 Bergfahrt
 
 (keine besonderen Vorschriften)
-
 
 #### § 11.06 Begegnen
 
@@ -12923,24 +12316,17 @@ Die zulässige Höchstgeschwindigkeit gegenüber dem Ufer beträgt
     Fahrwasserengen im Sinne des § 6.07 darstellen können, zu
     berücksichtigen.
 
-
-
-
-
 #### § 11.07 Überholen
 
 (keine besonderen Vorschriften)
-
 
 #### § 11.08 Wenden
 
 (keine besonderen Vorschriften)
 
-
 #### § 11.09 Ankern
 
 (keine besonderen Vorschriften)
-
 
 #### § 11.10 Stillliegen
 
@@ -12952,10 +12338,6 @@ Die zulässige Höchstgeschwindigkeit gegenüber dem Ufer beträgt
 
 2.  Die zuständige Behörde kann abweichend von § 7.02 Nummer 1 Buchstabe l
     Ausnahmen vom Liegeverbot zulassen.
-
-
-
-
 
 #### § 11.11 Schifffahrt bei Hochwasser
 
@@ -13085,13 +12467,6 @@ Die zulässige Höchstgeschwindigkeit gegenüber dem Ufer beträgt
 
         *   340 cm.
 
-
-
-
-
-
-
-
 #### § 11.12 Schifffahrt bei Eis
 
 Droht infolge zunehmender Eisbildung die Einstellung der Schifffahrt,
@@ -13099,16 +12474,13 @@ muss ein Fahrzeug oder ein Verband nach Weisung der zuständigen
 Behörde rechtzeitig einen Schutzhafen oder eine geeignete Liegestelle
 aufsuchen.
 
-
 #### § 11.13 Nachtschifffahrt
 
 (keine besonderen Vorschriften)
 
-
 #### § 11.14 Einsatz von Trägerschiffsleichtern
 
 (keine besonderen Vorschriften)
-
 
 #### § 11.15 Meldepflicht
 
@@ -13229,19 +12601,13 @@ aufsuchen.
     (Anlage 7) gekennzeichneten Meldepunkten nur noch die unter Nummer 1
     Satz 1 Buchstabe a bis d genannten Angaben mitteilen.
 
-
-
-
-
 #### § 11.16 Höhe der Brücken, sonstigen festen Überbauten und Freileitungen
 
 (keine besonderen Vorschriften)
 
-
 #### § 11.17 Kennzeichnung der Brücken- und Wehrdurchfahrten
 
 (keine besonderen Vorschriften)
-
 
 #### § 11.18 Durchfahren der Brücken, Sperrwerke, Wehre, Schleusen und einzelner Stromstrecken
 
@@ -13260,10 +12626,6 @@ aufsuchen.
 
 2.  Das Durchfahren der Eisenbahnbrücke bei Hallstadt (km 387,45) ist nur
     einem Kleinfahrzeug gestattet.
-
-
-
-
 
 #### § 11.19 Benutzung der Schleusen, Bootsschleusen und Bootsumsetzanlagen
 
@@ -13300,14 +12662,9 @@ aufsuchen.
     Wird die ganze Schleusenkammer für die Schleusung freigegeben, werden
     zwei grüne Lichter nebeneinander gezeigt.
 
-
-
-
-
 #### § 11.20 Segeln
 
 (keine besonderen Vorschriften)
-
 
 #### § 11.21 Bezeichnung der Fahrzeuge
 
@@ -13317,31 +12674,25 @@ Hecklicht nach § 3.16 Nummer 3 Buchstabe b nicht zu führen, wenn sie
 durch Tiefstrahler von Bord aus so angestrahlt wird, dass die übrige
 Schifffahrt die Umrisse der Fähre ausreichend erkennen kann.
 
-
 #### § 11.22 Regelungen über den Verkehr
 
 (keine besonderen Vorschriften)
-
 
 #### § 11.23 Regelungen zum Sprechfunk
 
 (keine besonderen Vorschriften)
 
-
 #### § 11.24 Sonderbestimmungen für Kleinfahrzeuge
 
 (keine besonderen Vorschriften)
-
 
 #### § 11.25 Befahren der Altwässer, Kanäle und einzelner Wasserstraßen
 
 (keine besonderen Vorschriften)
 
-
 #### § 11.26 Schutz der Kanäle und Anlagen
 
 (keine besonderen Vorschriften)
-
 
 #### § 11.27 Verkehrsbeschränkungen der Schifffahrt
 
@@ -13357,14 +12708,9 @@ Schifffahrt die Umrisse der Fähre ausreichend erkennen kann.
     oberhalb der Eisenbahnbrücke bei Hallstadt (km 387,69) ist verboten.
     Satz 1 gilt nicht für ein Kleinfahrzeug.
 
-
-
-
-
 #### § 11.28 Benutzung der Wasserstraßen
 
 (keine besonderen Vorschriften)
-
 
 #### § 11.29 Verhaltenspflichten des Schiffsführers, der Besatzung an Bord, des Eigentümers und des Ausrüsters
 
@@ -13469,15 +12815,7 @@ Schifffahrt die Umrisse der Fähre ausreichend erkennen kann.
         jeweils genannten Fall die dort jeweils angegebene Ausrüstung
         vorhanden ist.
 
-
-
-
-
-
-
-
 ### Kapitel 12 - Main-Donau-Kanal
-
 
 #### § 12.01 Anwendungsbereich
 
@@ -13515,10 +12853,6 @@ Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
     des Wehres Dietfurt (MDK-km 136,08) bis zur Einmündung in den Main-
     Donau-Kanal (MDK-km 136,67).
 
-
-
-
-
 #### § 12.02 Abmessungen der Fahrzeuge und Verbände, Fahrrinnentiefe und Abladetiefe
 
 
@@ -13539,10 +12873,6 @@ Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
 3.  Die zulässige Abladetiefe beträgt von der Schleuse Bamberg bis zur
     Einmündung in die Donau (km 170,78) 2,70 m.
 
-
-
-
-
 #### § 12.03 Zusammenstellung der Verbände
 
 
@@ -13551,10 +12881,6 @@ Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
 
 
 2.  Die zuständige Behörde kann Ausnahmen von Nummer 1 Satz 1 zulassen.
-
-
-
-
 
 #### § 12.04 Fahrgeschwindigkeit
 
@@ -13611,14 +12937,9 @@ Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
     der Wasserstraße sowie der übrige Schiffsverkehr nicht über Gebühr
     beeinträchtigt werden.
 
-
-
-
-
 #### § 12.05 Bergfahrt
 
 Als Bergfahrt gilt die Fahrt in Richtung Bachhausen.
-
 
 #### § 12.06 Begegnen
 
@@ -13640,10 +12961,6 @@ Als Bergfahrt gilt die Fahrt in Richtung Bachhausen.
     Fahrwasserengen im Sinne des § 6.07 darstellen können, zu
     berücksichtigen.
 
-
-
-
-
 #### § 12.07 Überholen
 
 Das Überholen eines Fahrzeugs oder Verbandes ist verboten
@@ -13659,7 +12976,6 @@ Das Überholen eines Fahrzeugs oder Verbandes ist verboten
 
 Ein Kleinfahrzeug darf abweichend von Satz 1 überholen und überholt
 werden.
-
 
 #### § 12.08 Wenden
 
@@ -13688,10 +13004,6 @@ werden.
 3.  Im Bereich der in § 12.04 Nummer 1 Buchstabe b genannten Kanalbrücken
     ist das Wenden verboten.
 
-
-
-
-
 #### § 12.09 Ankern
 
 
@@ -13719,13 +13031,6 @@ werden.
     e)  vom Unterwasser der Schleuse Kelheim (MDK-km 166,50) bis zur
         Einmündung in die Donau (MDK-km 170,78).
 
-
-
-
-
-
-
-
 #### § 12.10 Stillliegen
 
 
@@ -13749,10 +13054,6 @@ werden.
 
 3.  Die zuständige Behörde kann abweichend von § 7.02 Nummer 1 Buchstabe l
     Ausnahmen vom Liegeverbot zulassen.
-
-
-
-
 
 #### § 12.11 Schifffahrt bei Hochwasser
 
@@ -13860,10 +13161,6 @@ werden.
 
     *   480 cm
 
-
-
-
-
 #### § 12.12 Schifffahrt bei Eis
 
 Droht infolge zunehmender Eisbildung die Einstellung der Schifffahrt,
@@ -13871,36 +13168,29 @@ muss ein Fahrzeug oder ein Verband nach Weisung der zuständigen
 Behörde rechtzeitig einen Schutzhafen oder eine geeignete Liegestelle
 aufsuchen.
 
-
 #### § 12.13 Nachtschifffahrt
 
 (keine besonderen Vorschriften)
-
 
 #### § 12.14 Einsatz von Trägerschiffsleichtern
 
 (keine besonderen Vorschriften)
 
-
 #### § 12.15 Meldepflicht
 
 (keine besonderen Vorschriften)
-
 
 #### § 12.16 Höhe der Brücken, sonstigen festen Überbauten und Freileitungen
 
 (keine besonderen Vorschriften)
 
-
 #### § 12.17 Kennzeichnung der Brücken- und Wehrdurchfahrten
 
 (keine besonderen Vorschriften)
 
-
 #### § 12.18 Durchfahren der Brücken, Sperrwerke, Wehre, Schleusen und einzelner Stromstrecken
 
 (keine besonderen Vorschriften)
-
 
 #### § 12.19 Benutzung der Schleusen, Bootsschleusen und Bootsumsetzanlagen
 
@@ -13933,36 +13223,27 @@ aufsuchen.
     Schleusenaufsicht vor Einfahrt in die Schiffsschleuse rechtzeitig
     mitzuteilen.
 
-
-
-
-
 #### § 12.20 Segeln
 
 Das Segeln ist verboten. Die zuständige Behörde kann im Einzelfall
 Ausnahmen zulassen, wenn die Sicherheit und Leichtigkeit des Verkehrs
 dadurch nicht beeinträchtigt wird.
 
-
 #### § 12.21 Bezeichnung der Fahrzeuge
 
 (keine besonderen Vorschriften)
-
 
 #### § 12.22 Regelungen über den Verkehr
 
 (keine besonderen Vorschriften)
 
-
 #### § 12.23 Regelungen zum Sprechfunk
 
 (keine besonderen Vorschriften)
 
-
 #### § 12.24 Sonderbestimmungen für Kleinfahrzeuge
 
 (keine besonderen Vorschriften)
-
 
 #### § 12.25 Befahren der Altwässer, Kanäle und einzelner Wasserstraßen
 
@@ -14018,10 +13299,6 @@ dadurch nicht beeinträchtigt wird.
     ist verboten. Satz 1 gilt nicht für ein Kleinfahrzeug und ein Fahrzeug
     mit Erlaubnis der zuständigen Behörde.
 
-
-
-
-
 #### § 12.26 Schutz der Kanäle und Anlagen
 
 Ein Schubleichter darf an der Spitze eines Verbandes nur eingesetzt
@@ -14032,16 +13309,13 @@ Verjüngung muss mindestens das Dreifache der halben
 Breitenverminderung der Bugwand betragen. Das Gleiche gilt für den Bug
 eines einzeln fahrenden Fahrzeugs mit Pontonform.
 
-
 #### § 12.27 Verkehrsbeschränkungen der Schifffahrt
 
 (keine besonderen Vorschriften)
 
-
 #### § 12.28 Benutzung der Wasserstraßen
 
 (keine besonderen Vorschriften)
-
 
 #### § 12.29 Verhaltenspflichten des Schiffsführers, der Besatzung an Bord, des Eigentümers und des Ausrüsters
 
@@ -14163,15 +13437,7 @@ eines einzeln fahrenden Fahrzeugs mit Pontonform.
         zulassen, wenn auf dem Fahrzeug oder Verband in dem in § 12.02 Nummer
         1 Satz 2 genannten Fall die dort angegebene Ausrüstung vorhanden ist.
 
-
-
-
-
-
-
-
 ### Kapitel 13 - Lahn
-
 
 #### § 13.01 Anwendungsbereich
 
@@ -14179,7 +13445,6 @@ Die Vorschriften dieses Kapitels gelten auf der **Lahn**
 von der Mündung in den Rhein (Lahn-km 137,30/Rh-km 585,72) bis zum
 Unterwasser des ehemaligen Badenburger Wehres oberhalb Gießen (Lahn-
 km-11,08).
-
 
 #### § 13.02 Abmessungen der Fahrzeuge und Verbände, Fahrrinnentiefe
 
@@ -14291,13 +13556,6 @@ km-11,08).
 
     c)  beträgt von der Schleuse Lahnstein bis Steeden (km 70,00) 1,60.
 
-
-
-
-
-
-
-
 #### § 13.03 Zusammenstellung der Verbände
 
 
@@ -14307,10 +13565,6 @@ km-11,08).
 
 2.  Die zuständige Behörde kann abweichend von Nummer 1 Satz 1 Ausnahmen
     zulassen.
-
-
-
-
 
 #### § 13.04 Fahrgeschwindigkeit
 
@@ -14345,39 +13599,29 @@ km-11,08).
     Zustand und die Benutzung der Wasserstraße sowie der übrige
     Schiffsverkehr nicht über Gebühr beeinträchtigt werden.
 
-
-
-
-
 #### § 13.05 Bergfahrt
 
 (keine besonderen Vorschriften)
-
 
 #### § 13.06 Begegnen
 
 (keine besonderen Vorschriften)
 
-
 #### § 13.07 Überholen
 
 (keine besonderen Vorschriften)
-
 
 #### § 13.08 Wenden
 
 (keine besonderen Vorschriften)
 
-
 #### § 13.09 Ankern
 
 (keine besonderen Vorschriften)
 
-
 #### § 13.10 Stillliegen
 
 (keine besonderen Vorschriften)
-
 
 #### § 13.11 Schifffahrt bei Hochwasser
 
@@ -14421,17 +13665,9 @@ km-11,08).
 
         *   360 cm.
 
-
-
-
-
-
-
-
 #### § 13.12 Schifffahrt bei Eis
 
 (keine besonderen Vorschriften)
-
 
 #### § 13.13 Nachtschifffahrt
 
@@ -14446,85 +13682,66 @@ km-11,08).
 3.  Die zuständige Behörde kann abweichend von Nummer 2 Ausnahmen
     zulassen.
 
-
-
-
-
 #### § 13.14 Einsatz von Trägerschiffsleichtern
 
 (keine besonderen Vorschriften)
-
 
 #### § 13.15 Meldepflicht
 
 (keine besonderen Vorschriften)
 
-
 #### § 13.16 Höhe der Brücken, sonstigen festen Überbauten und Freileitungen
 
 (keine besonderen Vorschriften)
-
 
 #### § 13.17 Kennzeichnung der Brücken- und Wehrdurchfahrten
 
 (keine besonderen Vorschriften)
 
-
 #### § 13.18 Durchfahren der Brücken, Sperrwerke, Wehre, Schleusen und einzelner Stromstrecken
 
 (keine besonderen Vorschriften)
-
 
 #### § 13.19 Benutzung der Schleusen, Bootsschleusen und Bootsumsetzanlagen
 
 (keine besonderen Vorschriften)
 
-
 #### § 13.20 Segeln
 
 (keine besonderen Vorschriften)
-
 
 #### § 13.21 Bezeichnung der Fahrzeuge
 
 (keine besonderen Vorschriften)
 
-
 #### § 13.22 Regelungen über den Verkehr
 
 (keine besonderen Vorschriften)
-
 
 #### § 13.23 Regelungen zum Sprechfunk
 
 § 4.05 Nummer 2 ist von km -11,08 bis km 65,00 für ein Fahrzeug mit
 Maschinenantrieb nicht anzuwenden.
 
-
 #### § 13.24 Sonderbestimmungen für Kleinfahrzeuge
 
 (keine besonderen Vorschriften)
-
 
 #### § 13.25 Befahren der Altwässer, Kanäle und einzelner Wasserstraßen
 
 (keine besonderen Vorschriften)
 
-
 #### § 13.26 Schutz der Kanäle und Anlagen
 
 (keine besonderen Vorschriften)
-
 
 #### § 13.27 Verkehrsbeschränkungen der Schifffahrt
 
 (keine besonderen Vorschriften)
 
-
 #### § 13.28 Benutzung der Wasserstraßen
 
 (keine besonderen Vorschriften)
-
 
 #### § 13.29 Verhaltenspflichten des Schiffsführers, der Besatzung an Bord, des Eigentümers und des Ausrüsters
 
@@ -14576,12 +13793,7 @@ Maschinenantrieb nicht anzuwenden.
     Fahrzeug oder der Verband die zugelassenen Höchstabmessungen nach §
     13\.02 Nummer 1 Satz 1 nicht überschreitet.
 
-
-
-
-
 ### Kapitel 14 - Schifffahrtsweg Rhein-Kleve
-
 
 #### § 14.01 Anwendungsbereich
 
@@ -14595,10 +13807,6 @@ Rhein-Kleve**              (SRK), bestehend aus
 
 2.  dem **Spoykanal**                    (SyK) vom Unterwasser der
     Schleuse Brienen (SyK-km 4,57) bis zum Hafen Kleve (SRK-km 1,78).
-
-
-
-
 
 #### § 14.02 Abmessungen der Fahrzeuge und Verbände, Fahrrinnentiefe
 
@@ -14616,13 +13824,6 @@ Rhein-Kleve**              (SRK), bestehend aus
 
     b)  b) beträgt auf dem **Spoykanal**                          2,50 m.
 
-
-
-
-
-
-
-
 #### § 14.03 Zusammenstellung der Verbände
 
 
@@ -14637,10 +13838,6 @@ Rhein-Kleve**              (SRK), bestehend aus
     eines beschädigten Fahrzeugs, zu einem kurzen Verholen oder mit
     Erlaubnis der zuständigen Behörde gekuppelt fahren.
 
-
-
-
-
 #### § 14.04 Fahrgeschwindigkeit
 
 
@@ -14648,39 +13845,29 @@ Rhein-Kleve**              (SRK), bestehend aus
 
     *   8 km/h.
 
-
-
-
-
 #### § 14.05 Bergfahrt
 
 (keine besonderen Vorschriften)
-
 
 #### § 14.06 Begegnen
 
 (keine besonderen Vorschriften)
 
-
 #### § 14.07 Überholen
 
 (keine besonderen Vorschriften)
-
 
 #### § 14.08 Wenden
 
 (keine besonderen Vorschriften)
 
-
 #### § 14.09 Ankern
 
 (keine besonderen Vorschriften)
 
-
 #### § 14.10 Stillliegen
 
 (keine besonderen Vorschriften)
-
 
 #### § 14.11 Schifffahrt bei Hochwasser
 
@@ -14688,21 +13875,17 @@ Auf dem Griethauser Altrhein ist die Schifffahrt mit Ausnahme des
 Übersetzverkehrs verboten, wenn der Wasserstand des Rheins am Pegel
 Emmerich 810 cm erreicht oder überschritten hat.
 
-
 #### § 14.12 Schifffahrt bei Eis
 
 (keine besonderen Vorschriften)
-
 
 #### § 14.13 Nachtschifffahrt
 
 (keine besonderen Vorschriften)
 
-
 #### § 14.14 Einsatz von Trägerschiffsleichtern
 
 (keine besonderen Vorschriften)
-
 
 #### § 14.15 Meldepflicht
 
@@ -14821,34 +14004,25 @@ Emmerich 810 cm erreicht oder überschritten hat.
     (Anlage 7) gekennzeichneten Meldepunkten nur noch die unter Nummer 1
     Satz 1 Buchstabe a bis d genannten Angaben mitteilen.
 
-
-
-
-
 #### § 14.16 Höhe der Brücken, sonstigen festen Überbauten und Freileitungen
 
 (keine besonderen Vorschriften)
-
 
 #### § 14.17 Kennzeichnung der Brücken- und Wehrdurchfahrten
 
 (keine besonderen Vorschriften)
 
-
 #### § 14.18 Durchfahren der Brücken, Sperrwerke, Wehre, Schleusen und einzelner Stromstrecken
 
 (keine besonderen Vorschriften)
-
 
 #### § 14.19 Benutzung der Schleusen, Bootsschleusen und Bootsumsetzanlagen
 
 (keine besonderen Vorschriften)
 
-
 #### § 14.20 Segeln
 
 (keine besonderen Vorschriften)
-
 
 #### § 14.21 Bezeichnung der Fahrzeuge
 
@@ -14858,41 +14032,33 @@ Hecklicht nach § 3.16 Nummer 3 Buchstabe b nicht zu führen, wenn sie
 durch Tiefstrahler von Bord aus so angestrahlt wird, dass die übrige
 Schifffahrt die Umrisse der Fähre ausreichend erkennen kann.
 
-
 #### § 14.22 Regelungen über den Verkehr
 
 (keine besonderen Vorschriften)
-
 
 #### § 14.23 Regelungen zum Sprechfunk
 
 (keine besonderen Vorschriften)
 
-
 #### § 14.24 Sonderbestimmungen für Kleinfahrzeuge
 
 (keine besonderen Vorschriften)
-
 
 #### § 14.25 Befahren der Altwässer, Kanäle und einzelner Wasserstraßen
 
 (keine besonderen Vorschriften)
 
-
 #### § 14.26 Schutz der Kanäle und Anlagen
 
 (keine besonderen Vorschriften)
-
 
 #### § 14.27 Verkehrsbeschränkungen der Schifffahrt
 
 (keine besonderen Vorschriften)
 
-
 #### § 14.28 Benutzung der Wasserstraßen
 
 (keine besonderen Vorschriften)
-
 
 #### § 14.29 Verhaltenspflichten des Schiffsführers, der Besatzung an Bord, des Eigentümers und des Ausrüsters
 
@@ -14943,12 +14109,7 @@ Schifffahrt die Umrisse der Fähre ausreichend erkennen kann.
     Fahrzeug oder der Verband die zugelassenen Höchstabmessungen nach §
     14\.02 Nummer 1 nicht überschreitet.
 
-
-
-
-
 ### Kapitel 15 - Norddeutsche Kanäle
-
 
 #### § 15.01 Anwendungsbereich
 
@@ -15058,10 +14219,6 @@ Kanälen**             . Hierzu gehören im Sinne dieses Kapitels
     Wasserstraße Kleiner Wendsee-Wusterwitzer See (WWW) von der Einmündung
     in den Elbe-Havel-Kanal (WWW-km 0,50/EHKkm 378,99) bis Wusterwitz
     (WWW-km 3,93).
-
-
-
-
 
 #### § 15.02 Abmessungen der Fahrzeuge und Verbände, Abladetiefe
 
@@ -17319,10 +16476,6 @@ Kanälen**             . Hierzu gehören im Sinne dieses Kapitels
     **Elbe-Havel-Kanals**                   , soweit diese nicht gesondert
     aufgeführt sind.
 
-
-
-
-
 #### § 15.03 Zusammenstellung der Verbände
 
 
@@ -17373,13 +16526,6 @@ Kanälen**             . Hierzu gehören im Sinne dieses Kapitels
 
     d)  auf dem **Niegripper Verbindungskanal**                          von
         der Elbe (km 1,50) bis zur Schleuse Niegripp.
-
-
-
-
-
-
-
 
 #### § 15.04 Fahrgeschwindigkeit
 
@@ -17731,10 +16877,6 @@ Kanälen**             . Hierzu gehören im Sinne dieses Kapitels
         herabsetzen, wenn dadurch die Sicherheit und Leichtigkeit des Verkehrs
         nicht beeinträchtigt wird.
 
-
-
-
-
 #### § 15.05 Bergfahrt
 
 Als Bergfahrt gilt
@@ -17832,10 +16974,6 @@ Als Bergfahrt gilt
 *    *   Wasserstraße Kleiner Wendsee-Wusterwitzer See
 
     *   Wusterwitz.
-
-
-
-
 
 #### § 15.06 Begegnen
 
@@ -18287,10 +17425,6 @@ Als Bergfahrt gilt
     Funkselbstwahrschau über den ersten zugewiesenen Sprechfunkkanal
     Schiff-Schiff vor Antritt der Fahrt zu treffen.
 
-
-
-
-
 #### § 15.07 Überholen
 
 
@@ -18394,20 +17528,14 @@ Als Bergfahrt gilt
     werden, ausgenommen auf der **Kanalbrücke des Mittellandkanals**
     (km 321,25 bis km 322,40).
 
-
-
-
-
 #### § 15.08 Wenden
 
 Ein Fahrzeug darf nur wenden, wenn das Manöver ohne Berührung der Ufer
 und Bauwerke ausgeführt werden kann.
 
-
 #### § 15.09 Ankern
 
 (keine besonderen Vorschriften)
-
 
 #### § 15.10 Stillliegen
 
@@ -18435,29 +17563,21 @@ und Bauwerke ausgeführt werden kann.
     nur an einer von der zuständigen Behörde dafür freigegebenen Stelle
     stillliegen.
 
-
-
-
-
 #### § 15.11 Schifffahrt bei Hochwasser
 
 (keine besonderen Vorschriften)
-
 
 #### § 15.12 Schifffahrt bei Eis
 
 (keine besonderen Vorschriften)
 
-
 #### § 15.13 Nachtschifffahrt
 
 (keine besonderen Vorschriften)
 
-
 #### § 15.14 Einsatz von Trägerschiffsleichtern
 
 (keine besonderen Vorschriften)
-
 
 #### § 15.15 Meldepflicht
 
@@ -18579,10 +17699,6 @@ und Bauwerke ausgeführt werden kann.
     Revierzentrale“ beim Vorbeifahren an den mit den Tafelzeichen B.11
     (Anlage 7) gekennzeichneten Meldepunkten nur noch die unter Nummer 1
     Satz 1 Buchstabe a bis d genannten Angaben mitteilen.
-
-
-
-
 
 #### § 15.16 Höhe der Brücken, sonstigen festen Überbauten und Freileitungen
 
@@ -18798,13 +17914,9 @@ und Bauwerke ausgeführt werden kann.
         zwischen dem Kleinen Wendsee und dem Wusterwitzer See ist bei einem
         Wasserstand von 286 cm am Unterpegel Wusterwitz auf 3,75 m beschränkt.
 
-
-
-
 #### § 15.17 Kennzeichnung der Brücken- und Wehrdurchfahrten
 
 (keine besonderen Vorschriften)
-
 
 #### § 15.18 Durchfahren der Brücken, Sperrwerke, Wehre, Schleusen und einzelner Stromstrecken
 
@@ -18832,15 +17944,10 @@ und Bauwerke ausgeführt werden kann.
     Vorfahrt hat das mit dem Strom fahrende Fahrzeug, bei Tidehochwasser
     der Talfahrer, bei Tideniedrigwasser der Bergfahrer.
 
-
-
-
-
 #### § 15.19 Benutzung der Schleusen, Bootsschleusen und Bootsumsetzanlagen
 
 Bei Wasserständen von mehr als 500 cm am Elbpegel der Schleuse Parey
 wird der Schleusenbetrieb eingestellt.
-
 
 #### § 15.20 Segeln
 
@@ -18849,7 +17956,6 @@ und **Kleiner Wendsee-Wusterwitzer See**             , ist verboten.
 Die zuständige Behörde kann im Einzelfall Ausnahmen zulassen, wenn die
 Sicherheit und Leichtigkeit des Verkehrs dadurch nicht beeinträchtigt
 wird.
-
 
 #### § 15.21 Bezeichnung der Fahrzeuge
 
@@ -18862,10 +17968,6 @@ wird.
 2.  Alle Anhänge eines Schleppverbandes müssen das Hecklicht führen.
     Dieses ist, ausgenommen beim letzten Anhang, durch eine
     Mattglasscheibe abzublenden.
-
-
-
-
 
 #### § 15.22 Regelungen über den Verkehr
 
@@ -18887,10 +17989,6 @@ wird.
     von km 320,58 bis km 322,84 mit einem muskelkraftbetriebenen Fahrzeug
     ist verboten.
 
-
-
-
-
 #### § 15.23 Regelungen zum Sprechfunk
 
 Auf dem **Dortmund-Ems-Kanal**              vom Hafen Dortmund (km
@@ -18900,11 +17998,9 @@ Die zuständige Behörde kann für einzelne Seilfähren Ausnahmen von Satz
 1 zulassen, soweit auf Grund der Verhältnisse an der Fährstelle die
 Sicherheit und Leichtigkeit des Verkehrs nicht beeinträchtigt wird.
 
-
 #### § 15.24 Sonderbestimmungen für Kleinfahrzeuge
 
 (keine besonderen Vorschriften)
-
 
 #### § 15.25 Befahren der Altwässer, Kanäle und einzelner Wasserstraßen
 
@@ -18921,7 +18017,6 @@ Ein Fahrzeug, ausgenommen ein Kleinfahrzeug, darf
 
 
 nur nach Freigabe durch die Schleusenaufsicht befahren.
-
 
 #### § 15.26 Schutz der Kanäle und Anlagen
 
@@ -18942,10 +18037,6 @@ nur nach Freigabe durch die Schleusenaufsicht befahren.
     werden. Die Zulassung nach Satz 1 kann zeitlich und örtlich beschränkt
     werden.
 
-
-
-
-
 #### § 15.27 Verkehrsbeschränkungen der Schifffahrt
 
 Das Befahren der Altkanäle **Ems-Hase-Kanal, Hanekenfähr und Meppen,**
@@ -18955,11 +18046,9 @@ oberhalb der Einmündung in den Dortmund-Ems-Kanal, der Altkanäle des
 km 0,12 bis km 0,90, und der **Baggerelbe**              oberhalb km
 0,31 ist verboten. Satz 1 gilt nicht für ein Kleinfahrzeug.
 
-
 #### § 15.28 Benutzung der Wasserstraßen
 
 (keine besonderen Vorschriften)
-
 
 #### § 15.29 Verhaltenspflichten des Schiffsführers, der Besatzung an Bord, des Eigentümers und des Ausrüsters
 
@@ -19134,21 +18223,12 @@ km 0,12 bis km 0,90, und der **Baggerelbe**              oberhalb km
         1\.4, 1.5, 1.8.3 und 1.12.2.2 jeweils genannten Fall die dort jeweils
         angegebene Ausrüstung vorhanden ist.
 
-
-
-
-
-
-
-
 #### § 15.30 Schließung des Sperrtors bei Artlenburg (Elbe-Seitenkanal)
 
 Das Sperrtor bei Artlenburg wird geschlossen, wenn der Wasserstand der
 Elbe am Pegel Hohnstorf 840 cm erreicht oder überschritten hat.
 
-
 ### Kapitel 16 - Wesergebiet
-
 
 #### § 16.01 Anwendungsbereich
 
@@ -19184,10 +18264,6 @@ Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
 
 7.  dem **Schnellen Graben**                    (SGr) vom Unterwasser des
     Wehres (SGr-km 16,75) bis zur Einmündung in die Ihme (SGr-km 17,31).
-
-
-
-
 
 #### § 16.02 Abmessungen der Fahrzeuge und Verbände, Fahrrinnentiefe und Abladetiefe
 
@@ -19510,10 +18586,6 @@ Abladetiefen nicht überschreiten:
 
     *   Abladetiefe 2,00.
 
-
-
-
-
 #### § 16.03 Zusammenstellung der Verbände
 
 Fahrzeuge, ausgenommen Kleinfahrzeuge, dürfen nur zum Abschleppen
@@ -19522,7 +18594,6 @@ Erlaubnis der zuständigen Behörde gekuppelt fahren. Satz 1 gilt nicht
 auf der **Weser**              unterhalb Horstedt (km 347,00), wenn
 die Gesamtbreite der gekuppelten Fahrzeuge 20,00 m nicht
 überschreitet.
-
 
 #### § 16.04 Fahrgeschwindigkeit
 
@@ -19649,15 +18720,10 @@ die Gesamtbreite der gekuppelten Fahrzeuge 20,00 m nicht
         Zustand und die Benutzung der Wasserstraße sowie der übrige
         Schiffsverkehr nicht beeinträchtigt werden.
 
-
-
-
-
 #### § 16.05 Bergfahrt
 
 Als Bergfahrt gilt auf dem **Verbindungskanal zur Leine**
 die Fahrt in Richtung Stichkanal Hannover-Linden.
-
 
 #### § 16.06 Begegnen
 
@@ -19665,7 +18731,6 @@ Auf dem Verbindungskanal zur Leine müssen beim Begegnen Fahrzeuge oder
 Verbände abweichend von den §§ 6.04 und 6.05 Backbord an Backbord
 vorbeifahren. Die Vorschriften des § 6.07 über das Begegnen im engen
 Fahrwasser bleiben unberührt.
-
 
 #### § 16.07 Überholen
 
@@ -19693,26 +18758,19 @@ Fahrwasser bleiben unberührt.
 3.  Ein Kleinfahrzeug darf abweichend von Nummer 1 überholen und überholt
     werden.
 
-
-
-
-
 #### § 16.08 Wenden
 
 (keine besonderen Vorschriften)
 
-
 #### § 16.09 Ankern
 
 (keine besonderen Vorschriften)
-
 
 #### § 16.10 Stillliegen
 
 Die nach § 3.23 vorgeschriebene Bezeichnung braucht von einer
 Landungsbrücke der Fahrgastschifffahrt nicht geführt zu werden, wenn
 sich diese außerhalb der Fahrrinne befindet.
-
 
 #### § 16.11 Schifffahrt bei Hochwasser
 
@@ -19934,16 +18992,6 @@ sich diese außerhalb der Fahrrinne befindet.
 
             *   625 cm
 
-
-
-
-
-
-
-
-
-
-
 #### § 16.12 Schifffahrt bei Eis
 
 Bei anhaltendem Treibeis muss ein Fahrzeug einen Schutzhafen
@@ -19953,16 +19001,13 @@ der Schleuse Langwedel, aufgesucht werden. Die Überwinterung im oberen
 Schleusenbereich der Schleusen ist nur mit besonderer Erlaubnis der
 zuständigen Behörde gestattet.
 
-
 #### § 16.13 Nachtschifffahrt
 
 (keine besonderen Vorschriften)
 
-
 #### § 16.14 Einsatz von Trägerschiffsleichtern
 
 (keine besonderen Vorschriften)
-
 
 #### § 16.15 Meldepflicht
 
@@ -20075,10 +19120,6 @@ zuständigen Behörde gestattet.
     meldepflichtigen Strecke, muss der Schiffsführer dies der Funkstelle
     „Bremen Verkehrszentrale“ unverzüglich mitteilen.
 
-
-
-
-
 #### § 16.16 Höhe der Brücken, sonstigen festen Überbauten und Freileitungen
 
 Die Durchfahrtshöhe einer Brücke auf der **Mittelweser**
@@ -20089,26 +19130,21 @@ bis zum Oberwasser der Schleuse Bremen-Hemeligen beim Höchsten
 Schifffahrtswasserstand (HSW) an den Richtpegeln für die einzelnen
 Stauhaltungen 4,50 m.
 
-
 #### § 16.17 Kennzeichnung der Brücken- und Wehrdurchfahrten
 
 (keine besonderen Vorschriften)
-
 
 #### § 16.18 Durchfahren der Brücken, Sperrwerke, Wehre, Schleusen und einzelner Stromstrecken
 
 (keine besonderen Vorschriften)
 
-
 #### § 16.19 Benutzung der Schleusen, Bootsschleusen und Bootsumsetzanlagen
 
 (keine besonderen Vorschriften)
 
-
 #### § 16.20 Segeln
 
 (keine besonderen Vorschriften)
-
 
 #### § 16.21 Bezeichnung der Fahrzeuge
 
@@ -20135,10 +19171,6 @@ Stauhaltungen 4,50 m.
 2.  Auf einem Schubverband ist die Flagge oder der Wimpel nach Nummer 1
     Buchstabe a auf dem vorderen Fahrzeug zu führen.
 
-
-
-
-
 #### § 16.22 Regelungen über den Verkehr
 
 Abweichend von § 6.16 Nummer 1 Satz 2 hat ein von der Weser kommender
@@ -20147,7 +19179,6 @@ Weser sowie zur Einfahrt zum **Verbindungskanal Nord**
 zur Weser Vorfahrt vor einem anderen Fahrzeug. Satz 1 gilt nicht für
 ein Kleinfahrzeug.
 
-
 #### § 16.23 Regelungen zum Sprechfunk
 
 § 4.05 Nummer 3 gilt nicht für eine Fähre mit Maschinenantrieb auf der
@@ -20155,21 +19186,17 @@ ein Kleinfahrzeug.
 117,17) und auf der **Weser**              von Hann. Münden (km 0,00)
 bis zur Abzweigung Verbindungskanal Süd zur Weser (km 204,47).
 
-
 #### § 16.24 Sonderbestimmungen für Kleinfahrzeuge
 
 (keine besonderen Vorschriften)
-
 
 #### § 16.25 Befahren der Altwässer, Kanäle und einzelner Wasserstraßen
 
 (keine besonderen Vorschriften)
 
-
 #### § 16.26 Schutz der Kanäle und Anlagen
 
 (keine besonderen Vorschriften)
-
 
 #### § 16.27 Verkehrsbeschränkungen der Schifffahrt
 
@@ -20180,11 +19207,9 @@ Herrenhausen (km 22,78), der **Ihme**              oberhalb km 20,50
 und des **Schnellen Grabens**              bis km 16,75 ist verboten.
 Satz 1 gilt nicht für ein Kleinfahrzeug.
 
-
 #### § 16.28 Benutzung der Wasserstraßen
 
 (keine besonderen Vorschriften)
-
 
 #### § 16.29 Verhaltenspflichten des Schiffsführers, der Besatzung an Bord, des Eigentümers und des Ausrüsters
 
@@ -20294,12 +19319,7 @@ Satz 1 gilt nicht für ein Kleinfahrzeug.
 
     nicht überschreitet.
 
-
-
-
-
 ### Kapitel 17 - Elbe
-
 
 #### § 17.01 Anwendungsbereich
 
@@ -20307,7 +19327,6 @@ Die Vorschriften dieses Kapitels gelten auf der **Elbe**
 von der deutsch-tschechischen Grenze bei Schöna (km 0,00) bis zur
 oberen Grenze des Hamburger Hafens bei Oortkaten (km 607,50) mit
 Jeetzel bis zur Nordwestkante der Drahwehnertorbrücke in Hitzacker.
-
 
 #### § 17.02 Abmessungen der Fahrzeuge und Verbände, Fahrrinnentiefe und Abladetiefe
 
@@ -20836,10 +19855,6 @@ Jeetzel bis zur Nordwestkante der Drahwehnertorbrücke in Hitzacker.
     sonstigen Nebenwasserstraßen der Hauptwasserstraßen, soweit diese
     nicht gesondert aufgeführt sind.
 
-
-
-
-
 #### § 17.03 Zusammenstellung der Verbände
 
 
@@ -20879,46 +19894,35 @@ Jeetzel bis zur Nordwestkante der Drahwehnertorbrücke in Hitzacker.
     nicht besetzt zu sein. In diesem Falle muss das Ruder festgestellt
     sein.
 
-
-
-
-
 #### § 17.04 Fahrgeschwindigkeit
 
 Auf der **Elbe**              beträgt die Mindestgeschwindigkeit
 gegenüber dem Ufer für ein Fahrzeug oder einen Verband, ausgenommen
 Kleinfahrzeuge, in der Bergfahrt 4 km/h.
 
-
 #### § 17.05 Bergfahrt
 
 (keine besonderen Vorschriften)
-
 
 #### § 17.06 Begegnen
 
 (keine besonderen Vorschriften)
 
-
 #### § 17.07 Überholen
 
 (keine besonderen Vorschriften)
-
 
 #### § 17.08 Wenden
 
 (keine besonderen Vorschriften)
 
-
 #### § 17.09 Ankern
 
 (keine besonderen Vorschriften)
 
-
 #### § 17.10 Stillliegen
 
 (keine besonderen Vorschriften)
-
 
 #### § 17.11 Schifffahrt bei Hochwasser
 
@@ -21020,13 +20024,6 @@ Kleinfahrzeuge, in der Bergfahrt 4 km/h.
 
         *   820 cm.
 
-
-
-
-
-
-
-
 #### § 17.12 Schifffahrt bei Eis
 
 Droht infolge zunehmender Eisbildung die Einstellung der Schifffahrt,
@@ -21034,26 +20031,21 @@ muss ein Fahrzeug oder ein Verband nach Hinweis der zuständigen
 Behörde rechtzeitig einen Schutzhafen oder eine geeignete Liegestelle
 aufsuchen.
 
-
 #### § 17.13 Nachtschifffahrt
 
 (keine besonderen Vorschriften)
-
 
 #### § 17.14 Einsatz von Trägerschiffsleichtern
 
 (keine besonderen Vorschriften)
 
-
 #### § 17.15 Meldepflicht
 
 (keine besonderen Vorschriften)
 
-
 #### § 17.16 Höhe der Brücken, sonstigen festen Überbauten und Freileitungen
 
 (keine besonderen Vorschriften)
-
 
 #### § 17.17 Kennzeichnung der Brücken- und Wehrdurchfahrten
 
@@ -21077,13 +20069,6 @@ Brückendurchfahrt bei Nacht wie folgt gekennzeichnet sein:
     b)  bei Verkehr in nur eine Richtung:
 
         zwei gelbe Lichter übereinander.
-
-
-
-
-
-
-
 
 #### § 17.18 Durchfahren der Brücken, Sperrwerke, Wehre, Schleusen und einzelner Stromstrecken
 
@@ -21142,24 +20127,17 @@ Brückendurchfahrt bei Nacht wie folgt gekennzeichnet sein:
     weniger kürzen. Abweichend von den §§ 7.02 und 7.03 ist das Liegen und
     die Benutzung der Anker im oberen Schleusenkanal gestattet.
 
-
-
-
-
 #### § 17.19 Benutzung der Schleusen, Bootsschleusen und Bootsumsetzanlagen
 
 (keine besonderen Vorschriften)
-
 
 #### § 17.20 Segeln
 
 (keine besonderen Vorschriften)
 
-
 #### § 17.21 Bezeichnung der Fahrzeuge
 
 (keine besonderen Vorschriften)
-
 
 #### § 17.22 Regelungen über den Verkehr
 
@@ -21187,39 +20165,29 @@ Brückendurchfahrt bei Nacht wie folgt gekennzeichnet sein:
     darf nur über die gekennzeichnete Wendestelle bei km 333,25 erfolgen.
     Satz 1 gilt nicht für ein muskelbetriebenes Kleinfahrzeug.
 
-
-
-
-
 #### § 17.23 Regelungen zum Sprechfunk
 
 § 4.05 Nummer 3 gilt auch für eine Seilfähre.
-
 
 #### § 17.24 Sonderbestimmungen für Kleinfahrzeuge
 
 (keine besonderen Vorschriften)
 
-
 #### § 17.25 Befahren der Altwässer, Kanäle und einzelner Wasserstraßen
 
 (keine besonderen Vorschriften)
-
 
 #### § 17.26 Schutz der Kanäle und Anlagen
 
 (keine besonderen Vorschriften)
 
-
 #### § 17.27 Verkehrsbeschränkungen der Schifffahrt
 
 (keine besonderen Vorschriften)
 
-
 #### § 17.28 Benutzung der Wasserstraßen
 
 (keine besonderen Vorschriften)
-
 
 #### § 17.29 Verhaltenspflichten des Schiffsführers, der Besatzung an Bord, des Eigentümers und des Ausrüsters
 
@@ -21311,15 +20279,7 @@ Brückendurchfahrt bei Nacht wie folgt gekennzeichnet sein:
         genannten Fall die oder der dort jeweils angegebene Ausrüstung oder
         Vorspann vorhanden ist.
 
-
-
-
-
-
-
-
 ### Kapitel 18 - Ilmenau
-
 
 #### § 18.01 Anwendungsbereich
 
@@ -21327,7 +20287,6 @@ Die Vorschriften dieses Kapitels gelten auf der **Ilmenau**
 (Im) von der Nordwestkante der Brausebrücke an der Abtsmühle in
 Lüneburg (Im-km 0,00) bis zur Mündung in die Elbe (Im-km 28,84/El-km
 598,97).
-
 
 #### § 18.02 Abmessungen der Fahrzeuge und Verbände, Abladetiefe
 
@@ -21412,10 +20371,6 @@ Ein Fahrzeug oder ein Schubverband darf folgende Abmessungen nicht
 
     *   je nach Wasserstand.
 
-
-
-
-
 #### § 18.03 Zusammenstellung der Verbände
 
 
@@ -21427,126 +20382,99 @@ Ein Fahrzeug oder ein Schubverband darf folgende Abmessungen nicht
     eines beschädigten Fahrzeugs, zu einem kurzen Verholen oder mit
     Erlaubnis der zuständigen Behörde gekuppelt fahren.
 
-
-
-
-
 #### § 18.04 Fahrgeschwindigkeit
 
 Die zulässige Höchstgeschwindigkeit gegenüber dem Ufer beträgt für ein
 Fahrzeug oder einen Verband 7 km/h.
 
-
 #### § 18.05 Bergfahrt
 
 (keine besonderen Vorschriften)
-
 
 #### § 18.06 Begegnen
 
 (keine besonderen Vorschriften)
 
-
 #### § 18.07 Überholen
 
 (keine besonderen Vorschriften)
-
 
 #### § 18.08 Wenden
 
 Ein Fahrzeug von mehr als 15,00 m Länge darf nur an einer durch das
 Tafelzeichen E.8 (Anlage 7) bezeichneten Stelle wenden.
 
-
 #### § 18.09 Ankern
 
 (keine besonderen Vorschriften)
-
 
 #### § 18.10 Stillliegen
 
 (keine besonderen Vorschriften)
 
-
 #### § 18.11 Schifffahrt bei Hochwasser
 
 (keine besonderen Vorschriften)
-
 
 #### § 18.12 Schifffahrt bei Eis
 
 (keine besonderen Vorschriften)
 
-
 #### § 18.13 Nachtschifffahrt
 
 (keine besonderen Vorschriften)
-
 
 #### § 18.14 Einsatz von Trägerschiffsleichtern
 
 (keine besonderen Vorschriften)
 
-
 #### § 18.15 Meldepflicht
 
 (keine besonderen Vorschriften)
-
 
 #### § 18.16 Höhe der Brücken, sonstigen festen Überbauten und Freileitungen
 
 (keine besonderen Vorschriften)
 
-
 #### § 18.17 Kennzeichnung der Brücken- und Wehrdurchfahrten
 
 (keine besonderen Vorschriften)
-
 
 #### § 18.18 Durchfahren der Brücken, Sperrwerke, Wehre, Schleusen und einzelner Stromstrecken
 
 (keine besonderen Vorschriften)
 
-
 #### § 18.19 Benutzung der Schleusen, Bootsschleusen und Bootsumsetzanlagen
 
 (keine besonderen Vorschriften)
-
 
 #### § 18.20 Segeln
 
 (keine besonderen Vorschriften)
 
-
 #### § 18.21 Bezeichnung der Fahrzeuge
 
 (keine besonderen Vorschriften)
-
 
 #### § 18.22 Regelungen über den Verkehr
 
 (keine besonderen Vorschriften)
 
-
 #### § 18.23 Regelungen zum Sprechfunk
 
 (keine besonderen Vorschriften)
-
 
 #### § 18.24 Sonderbestimmungen für Kleinfahrzeuge
 
 (keine besonderen Vorschriften)
 
-
 #### § 18.25 Befahren der Altwässer, Kanäle und einzelner Wasserstraßen
 
 (keine besonderen Vorschriften)
 
-
 #### § 18.26 Schutz der Kanäle und Anlagen
 
 (keine besonderen Vorschriften)
-
 
 #### § 18.27 Verkehrsbeschränkungen der Schifffahrt
 
@@ -21555,11 +20483,9 @@ Brausebrücke an der Abtsmühle in Lüneburg (km 0,00) bis Warburg (km
 0,50) ist verboten. Satz 1 gilt nicht für ein Kleinfahrzeug ohne
 Antriebsmaschine.
 
-
 #### § 18.28 Benutzung der Wasserstraßen
 
 (keine besonderen Vorschriften)
-
 
 #### § 18.29 Verhaltenspflichten des Schiffsführers, der Besatzung an Bord, des Eigentümers und des Ausrüsters
 
@@ -21602,12 +20528,7 @@ Antriebsmaschine.
     Fahrzeug oder der Verband die zugelassenen Höchstabmessungen und
     Abladetiefen nach § 18.02 nicht überschreitet.
 
-
-
-
-
 ### Kapitel 19 - Elbe-Lübeck-Kanal und Kanaltrave
-
 
 #### § 19.01 Anwendungsbereich
 
@@ -21623,10 +20544,6 @@ Die Vorschriften dieses Kapitels gelten auf
     Lübeck-Kanals bis zur Nordwestkante der Eisenbahnhubbrücke in Lübeck
     mit Nebenarm Stadttrave von der Abzweigung aus der Kanaltrave bis zur
     Südkante der Wipperbrücke.
-
-
-
-
 
 #### § 19.02 Abmessungen der Fahrzeuge und Verbände, Abladetiefe
 
@@ -21775,10 +20692,6 @@ Abladetiefen nicht überschreiten:
         2,50 m erhöht werden, wenn der Wasserstand am Pegel Hubbrücken 500 cm
         (Mittelwasserstand) erreicht hat –.
 
-
-
-
-
 #### § 19.03 Zusammenstellung der Verbände
 
 
@@ -21796,10 +20709,6 @@ Abladetiefen nicht überschreiten:
     Lauenburg, nur zum Abschleppen eines beschädigten Fahrzeugs, zu einem
     kurzen Verholen oder mit Erlaubnis der zuständigen Behörde gekuppelt
     fahren.
-
-
-
-
 
 #### § 19.04 Fahrgeschwindigkeit
 
@@ -21845,19 +20754,13 @@ Abladetiefen nicht überschreiten:
 
     *   5 km/h.
 
-
-
-
-
 #### § 19.05 Bergfahrt
 
 (keine besonderen Vorschriften)
 
-
 #### § 19.06 Begegnen
 
 (keine besonderen Vorschriften)
-
 
 #### § 19.07 Überholen
 
@@ -21868,20 +20771,14 @@ Abladetiefen nicht überschreiten:
 2.  Abweichend von Nummer 1 darf ein Kleinfahrzeug überholen und überholt
     werden.
 
-
-
-
-
 #### § 19.08 Wenden
 
 Ein Fahrzeug darf nur wenden, wenn das Manöver ohne Berührung der Ufer
 und Bauwerke ausgeführt werden kann.
 
-
 #### § 19.09 Ankern
 
 (keine besonderen Vorschriften)
-
 
 #### § 19.10 Stillliegen
 
@@ -21889,31 +20786,25 @@ Die nach § 3.20 vorgeschriebene Bezeichnung braucht nicht geführt zu
 werden, wenn das Fahrzeug an einer Liege- oder Umschlagstelle
 außerhalb der durchgehenden Fahrrinne stillliegt.
 
-
 #### § 19.11 Schifffahrt bei Hochwasser
 
 (keine besonderen Vorschriften)
-
 
 #### § 19.12 Schifffahrt bei Eis
 
 (keine besonderen Vorschriften)
 
-
 #### § 19.13 Nachtschifffahrt
 
 (keine besonderen Vorschriften)
-
 
 #### § 19.14 Einsatz von Trägerschiffsleichtern
 
 (keine besonderen Vorschriften)
 
-
 #### § 19.15 Meldepflicht
 
 (keine besonderen Vorschriften)
-
 
 #### § 19.16 Höhe der Brücken, sonstigen festen Überbauten und Freileitungen
 
@@ -21956,24 +20847,17 @@ außerhalb der durchgehenden Fahrrinne stillliegt.
 5.  Die Durchfahrtshöhen können sich durch Wasserstandsschwankungen
     verringern.
 
-
-
-
-
 #### § 19.17 Kennzeichnung der Brücken- und Wehrdurchfahrten
 
 (keine besonderen Vorschriften)
-
 
 #### § 19.18 Durchfahren der Brücken, Sperrwerke, Wehre, Schleusen und einzelner Stromstrecken
 
 (keine besonderen Vorschriften)
 
-
 #### § 19.19 Benutzung der Schleusen, Bootsschleusen und Bootsumsetzanlagen
 
 (keine besonderen Vorschriften)
-
 
 #### § 19.20 Segeln
 
@@ -21982,46 +20866,37 @@ Das Segeln ist verboten. Die zuständige Behörde kann auf der
 die Sicherheit und Leichtigkeit des Verkehrs dadurch nicht
 beeinträchtigt wird.
 
-
 #### § 19.21 Bezeichnung der Fahrzeuge
 
 (keine besonderen Vorschriften)
-
 
 #### § 19.22 Regelungen über den Verkehr
 
 (keine besonderen Vorschriften)
 
-
 #### § 19.23 Regelungen zum Sprechfunk
 
 (keine besonderen Vorschriften)
-
 
 #### § 19.24 Sonderbestimmungen für Kleinfahrzeuge
 
 (keine besonderen Vorschriften)
 
-
 #### § 19.25 Befahren der Altwässer, Kanäle und einzelner Wasserstraßen
 
 (keine besonderen Vorschriften)
-
 
 #### § 19.26 Schutz der Kanäle und Anlagen
 
 (keine besonderen Vorschriften)
 
-
 #### § 19.27 Verkehrsbeschränkungen der Schifffahrt
 
 (keine besonderen Vorschriften)
 
-
 #### § 19.28 Benutzung der Wasserstraßen
 
 (keine besonderen Vorschriften)
-
 
 #### § 19.29 Verhaltenspflichten des Schiffsführers, der Besatzung an Bord, des Eigentümers und des Ausrüsters
 
@@ -22080,19 +20955,13 @@ beeinträchtigt wird.
     Fahrzeug oder der Verband die zugelassenen Höchstabmessungen und
     Abladetiefen nach § 19.02 nicht überschreitet.
 
-
-
-
-
 ### Kapitel 20 - Saar
-
 
 #### § 20.01 Anwendungsbereich
 
 Die Vorschriften dieses Kapitels gelten auf der **Saar**
 (Sa) von der Mündung in die Mosel (Sa-km 0,00/Moselkm 200,81) bis zur
 deutsch-französischen Grenze bei Saargemünd (lothr. km 64,975 re.U.).
-
 
 #### § 20.02 Abmessungen der Fahrzeuge und Verbände, Fahrrinnentiefe
 
@@ -22287,18 +21156,10 @@ deutsch-französischen Grenze bei Saargemünd (lothr. km 64,975 re.U.).
 
         *   2,00 m.
 
-
-
-
-
-
-
-
 #### § 20.03 Zusammenstellung der Verbände
 
 In einen Schleppverband dürfen nur so viele Fahrzeuge eingestellt
 werden, dass er nicht mehr als eine Schleusung benötigt.
-
 
 #### § 20.04 Fahrgeschwindigkeit
 
@@ -22337,14 +21198,9 @@ werden, dass er nicht mehr als eine Schleusung benötigt.
     sowie der übrige Schiffsverkehr nicht über Gebühr beeinträchtigt
     werden.
 
-
-
-
-
 #### § 20.05 Bergfahrt
 
 (keine besonderen Vorschriften)
-
 
 #### § 20.06 Begegnen
 
@@ -22544,14 +21400,9 @@ werden, dass er nicht mehr als eine Schleusung benötigt.
 
     *   Die Nummern 2 und 3 gelten nicht für ein Kleinfahrzeug.
 
-
-
-
-
 #### § 20.07 Überholen
 
 (keine besonderen Vorschriften)
-
 
 #### § 20.08 Wenden
 
@@ -22560,17 +21411,14 @@ und der Bauwerke ausgeführt werden kann. Für ein Fahrzeug bis 110,00 m
 Länge stehen Wendestellen bei Ensdorf (km 65,34), bei Völklingen (km
 77,52) und bei Saarbrücken (km 86,42) zur Verfügung.
 
-
 #### § 20.09 Ankern
 
 Das Ankern ist verboten.
-
 
 #### § 20.10 Stillliegen
 
 Das Stillliegen ist nur an den dafür ausgewiesenen Liegestellen
 zugelassen.
-
 
 #### § 20.11 Schifffahrt bei Hochwasser
 
@@ -22692,26 +21540,19 @@ zugelassen.
     *   In der Stauhaltung Saarbrücken (km 82,50 bis km 92,90) kann die
         zuständige Behörde abweichend von Nummer 2 Ausnahmen zulassen.
 
-
-
-
-
 #### § 20.12 Schifffahrt bei Eis
 
 (keine besonderen Vorschriften)
 
-
 #### § 20.13 Nachtschifffahrt
 
 (keine besonderen Vorschriften)
-
 
 #### § 20.14 Einsatz von Trägerschiffsleichtern
 
 Ein Trägerschiffsleichter darf nicht an die Spitze eines
 Schubverbandes gesetzt werden. Die zuständige Behörde kann Ausnahmen
 hiervon zulassen.
-
 
 #### § 20.15 Meldepflicht
 
@@ -22863,10 +21704,6 @@ hiervon zulassen.
     der Funkstelle „Kanzem Schleuse“ nur noch die Angaben nach Nummer 1
     Satz 1 Buchstabe a bis d wiederholen.
 
-
-
-
-
 #### § 20.16 Höhe der Brücken, sonstigen festen Überbauten und Freileitungen
 
 
@@ -22897,19 +21734,13 @@ hiervon zulassen.
 
     *   mindestens 4,90 m.
 
-
-
-
-
 #### § 20.17 Kennzeichnung der Brücken- und Wehrdurchfahrten
 
 (keine besonderen Vorschriften)
 
-
 #### § 20.18 Durchfahren der Brücken, Sperrwerke, Wehre, Schleusen und einzelner Stromstrecken
 
 (keine besonderen Vorschriften)
-
 
 #### § 20.19 Benutzung der Schleusen, Bootsschleusen und Bootsumsetzanlagen
 
@@ -22918,51 +21749,41 @@ Ein Fahrzeug von nicht mehr als 40,00 m Länge und von nicht mehr als
 kleine Schiffsschleuse benutzen. Die Schleusenaufsicht kann eine
 andere Weisung erteilen.
 
-
 #### § 20.20 Segeln
 
 (keine besonderen Vorschriften)
-
 
 #### § 20.21 Bezeichnung der Fahrzeuge
 
 (keine besonderen Vorschriften)
 
-
 #### § 20.22 Regelungen über den Verkehr
 
 (keine besonderen Vorschriften)
-
 
 #### § 20.23 Regelungen zum Sprechfunk
 
 (keine besonderen Vorschriften)
 
-
 #### § 20.24 Sonderbestimmungen für Kleinfahrzeuge
 
 (keine besonderen Vorschriften)
-
 
 #### § 20.25 Befahren der Altwässer, Kanäle und einzelner Wasserstraßen
 
 (keine besonderen Vorschriften)
 
-
 #### § 20.26 Schutz der Kanäle und Anlagen
 
 (keine besonderen Vorschriften)
-
 
 #### § 20.27 Verkehrsbeschränkungen der Schifffahrt
 
 (keine besonderen Vorschriften)
 
-
 #### § 20.28 Benutzung der Wasserstraßen
 
 (keine besonderen Vorschriften)
-
 
 #### § 20.29 Verhaltenspflichten des Schiffsführers, der Besatzung an Bord, des Eigentümers und des Ausrüsters
 
@@ -23107,15 +21928,7 @@ andere Weisung erteilen.
 
     *   an Bord mitgeführt werden.
 
-
-
-
-
-
-
-
 ### Kapitel 21 - Spree-Oder-Wasserstraße,<BR />Berliner und Brandenburger Wasserstraßen
-
 
 #### § 21.01 Anwendungsbereich
 
@@ -23176,10 +21989,6 @@ Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
     Scharmützelsee), Teupitzer Gewässer (Huschtesee, Schmöldesee,
     Hölzerner See, Klein Köriser See, Kleiner und Großer Moddersee,
     Schulzensee, Zemminsee, Schweriner See und Teupitzer See).
-
-
-
-
 
 #### § 21.02 Abmessungen der Fahrzeuge und Verbände, Abladetiefe
 
@@ -25035,10 +23844,6 @@ Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
     genannten Hauptwasserstraßen, soweit diese nicht gesondert aufgeführt
     sind.
 
-
-
-
-
 #### § 21.03 Zusammenstellung der Verbände
 
 
@@ -25058,10 +23863,6 @@ Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
 
 4.  Die zuständige Behörde kann abweichend von Nummer 2 Satz 1 Ausnahmen
     zulassen.
-
-
-
-
 
 #### § 21.04 Fahrgeschwindigkeit
 
@@ -25354,9 +24155,6 @@ Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
     *
     *
 
-
-
-
 #### § 21.05 Bergfahrt
 
 
@@ -25507,9 +24305,6 @@ Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
 *    *
     *
 
-
-
-
 #### § 21.06 Begegnen
 
 
@@ -25598,10 +24393,6 @@ Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
 4.  Die Nummern 1 und 2 gelten nicht für das Begegnen mit einem
     Kleinfahrzeug und für das Begegnen von Kleinfahrzeugen untereinander.
 
-
-
-
-
 #### § 21.07 Überholen
 
 
@@ -25659,10 +24450,6 @@ Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
 4.  Ein Kleinfahrzeug darf abweichend von Nummer 1 überholen und überholt
     werden.
 
-
-
-
-
 #### § 21.08 Wenden
 
 Ein Fahrgastschiff, das auf der **Spree-Oder-Wasserstraße**
@@ -25671,14 +24458,12 @@ wenden will, muss das geplante Wendemanöver der Funkstelle „Mühlendamm
 Schleuse“ über UKW-Sprechfunkkanal 20 vor Einfahrt in den
 Schleusenvorhafenbereich anzeigen.
 
-
 #### § 21.09 Ankern
 
 Auf der **Müggelspree**              zwischen km 0,00 und km 11,40 und
 auf der **Spree-Oder-Wasserstraße**              zwischen km 26,50 und
 km 45,11 ist das Ankern verboten. Satz 1 gilt nicht für ein
 Sportfahrzeug, das ein Kleinfahrzeug ist.
-
 
 #### § 21.10 Stillliegen
 
@@ -25710,39 +24495,29 @@ Sportfahrzeug, das ein Kleinfahrzeug ist.
 5.  Besondere Regelungen über das Stillliegen von Kleinfahrzeugen sind in
     § 21.24 enthalten.
 
-
-
-
-
 #### § 21.11 Schifffahrt bei Hochwasser
 
 (keine besonderen Vorschriften)
-
 
 #### § 21.12 Schifffahrt bei Eis
 
 (keine besonderen Vorschriften)
 
-
 #### § 21.13 Nachtschifffahrt
 
 (keine besonderen Vorschriften)
-
 
 #### § 21.14 Einsatz von Trägerschiffsleichtern
 
 (keine besonderen Vorschriften)
 
-
 #### § 21.15 Meldepflicht
 
 (keine besonderen Vorschriften)
 
-
 #### § 21.16 Höhe der Brücken, sonstigen festen Überbauten und Freileitungen
 
 (keine besonderen Vorschriften)
-
 
 #### § 21.17 Kennzeichnung der Brücken- und Wehrdurchfahrten
 
@@ -25763,13 +24538,6 @@ Brückendurchfahrt bei Nacht wie folgt gekennzeichnet sein:
     bb) bei Verkehr in nur einer Richtung:
         zwei gelbe Lichter übereinander.
 
-
-
-
-
-
-
-
 #### § 21.18 Durchfahren der Brücken, Sperrwerke, Wehre, Schleusen und einzelner Stromstrecken
 
 
@@ -25785,14 +24553,9 @@ Brückendurchfahrt bei Nacht wie folgt gekennzeichnet sein:
     Kersdorf (km 89,70) die jeweilige Nordkammer und für das Durchfahren
     der Schleusenanlage Fürstenwalde (km 74,70) die Südkammer zu nutzen.
 
-
-
-
-
 #### § 21.19 Benutzung der Schleusen, Bootsschleusen und Bootsumsetzanlagen
 
 (keine besonderen Vorschriften)
-
 
 #### § 21.20 Segeln
 
@@ -25816,16 +24579,11 @@ Das Segeln auf einem Kanal und den nachfolgend bezeichneten Strecken
 
 *   ist verboten.
 
-
-
-
-
 #### § 21.21 Bezeichnung der Fahrzeuge
 
 Ein Sportfahrzeug, von dem aus Sporttauchen betrieben wird, muss neben
 der nach dieser Verordnung allgemein vorgeschriebenen Bezeichnung die
 Bezeichnung nach § 8.12 führen.
-
 
 #### § 21.22 Regelungen über den Verkehr
 
@@ -25864,10 +24622,6 @@ Bezeichnung nach § 8.12 führen.
 *   erlaubt; dies gilt nicht für ein Kleinfahrzeug mit einer Breite von
     nicht mehr als 2,00 m.
 
-
-
-
-
 #### § 21.23 Regelungen zum Sprechfunk
 
 
@@ -25894,10 +24648,6 @@ Bezeichnung nach § 8.12 führen.
     Verkehrskreis Schiff-Schiff ständig sende- und empfangsbereit sein.
     Dieser Verkehrskreis darf nur zur Übermittlung oder zum Empfang von
     Nachrichten auf anderen Kanälen kurzfristig verlassen werden.
-
-
-
-
 
 #### § 21.24 Sonderbestimmungen für Kleinfahrzeuge
 
@@ -25961,14 +24711,9 @@ Bezeichnung nach § 8.12 führen.
     **Spree-Oder-Wasserstraße**                    von km 0,00 bis zur
     Stralauer Spitze (km 25,65).
 
-
-
-
-
 #### § 21.25 Befahren der Altwässer, Kanäle und einzelner Wasserstraßen
 
 (keine besonderen Vorschriften)
-
 
 #### § 21.26 Schutz der Kanäle und Anlagen
 
@@ -25988,10 +24733,6 @@ Bezeichnung nach § 8.12 führen.
     Leichtigkeit des Schiffsverkehrs nicht über Gebühr beeinträchtigt
     werden. Die Zulassung nach Satz 1 kann zeitlich und örtlich beschränkt
     werden.
-
-
-
-
 
 #### § 21.27 Verkehrsbeschränkungen der Schifffahrt
 
@@ -26058,14 +24799,9 @@ Bezeichnung nach § 8.12 führen.
     einem Fahrverbot oder einer Einschränkung ist an Bord mitzuführen und
     auf Verlangen den zur Kontrolle befugten Personen auszuhändigen.
 
-
-
-
-
 #### § 21.28 Benutzung der Wasserstraßen
 
 (keine besonderen Vorschriften)
-
 
 #### § 21.29 Verhaltenspflichten des Schiffsführers, der Besatzung an Bord, des Eigentümers und des Ausrüsters
 
@@ -26207,15 +24943,7 @@ Bezeichnung nach § 8.12 führen.
     c)  auf dem Fahrzeug in dem in § 21.02 Nummer 1.5.2 und 1.5.3 jeweils
         genannten Fall die dort jeweils angegebene Ausrüstung vorhanden ist.
 
-
-
-
-
-
-
-
 ### Kapitel 22 - Untere Havel-Wasserstraße und Havelkanal
-
 
 #### § 22.01 Anwendungsbereich
 
@@ -26241,10 +24969,6 @@ Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
 
 
 2.  dem **Havelkanal**                   .
-
-
-
-
 
 #### § 22.02 Abmessungen der Fahrzeuge und Verbände, Fahrrinnentiefe und Abladetiefe
 
@@ -27566,10 +26290,6 @@ Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
     Nebenwasserstraßen der genannten Hauptwasserstraßen, soweit diese
     nicht gesondert aufgeführt sind.
 
-
-
-
-
 #### § 22.03 Zusammenstellung der Verbände
 
 
@@ -27584,10 +26304,6 @@ Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
 
 3.  Die zuständige Behörde kann abweichend von Nummer 2 Satz 1 Ausnahmen
     zulassen.
-
-
-
-
 
 #### § 22.04 Fahrgeschwindigkeit
 
@@ -27902,10 +26618,6 @@ Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
 
     *   4 km/h.
 
-
-
-
-
 #### § 22.05 Bergfahrt
 
 
@@ -27989,9 +26701,6 @@ Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
 
 *    *
     *
-
-
-
 
 #### § 22.06 Begegnen
 
@@ -28091,10 +26800,6 @@ Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
     Fahrt zu treffen. Satz 1 gilt nicht für das Begegnen mit einem
     Kleinfahrzeug oder das Begegnen von Kleinfahrzeugen untereinander.
 
-
-
-
-
 #### § 22.07 Überholen
 
 
@@ -28124,19 +26829,13 @@ Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
 
 *   gestattet.
 
-
-
-
-
 #### § 22.08 Wenden
 
 (keine besonderen Vorschriften)
 
-
 #### § 22.09 Ankern
 
 (keine besonderen Vorschriften)
-
 
 #### § 22.10 Stillliegen
 
@@ -28149,10 +26848,6 @@ Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
 2.  Besondere Regelungen über das Stillliegen von Kleinfahrzeugen sind in
     § 22.24 enthalten.
 
-
-
-
-
 #### § 22.11 Schifffahrt bei Hochwasser
 
 Bei einem Wasserstand von mehr als 200 cm am Unterpegel Rathenow ist
@@ -28160,21 +26855,17 @@ das Befahren der **Unteren Havel-Wasserstraße**              vom
 Oberwasser der Hauptschleuse Rathenow (km 103,00) bis zur Abzweigung
 der Mündungsstrecke (km 145,80) bei Nacht verboten.
 
-
 #### § 22.12 Schifffahrt bei Eis
 
 (keine besonderen Vorschriften)
-
 
 #### § 22.13 Nachtschifffahrt
 
 (keine besonderen Vorschriften)
 
-
 #### § 22.14 Einsatz von Trägerschiffsleichtern
 
 (keine besonderen Vorschriften)
-
 
 #### § 22.15 Meldepflicht
 
@@ -28213,14 +26904,9 @@ der Mündungsstrecke (km 145,80) bei Nacht verboten.
     der Schiffsführer Beginn und Ende der Unterbrechung der Funkstelle
     „Fernbedienzentrale Rathenow“ melden.
 
-
-
-
-
 #### § 22.16 Höhe der Brücken, sonstigen festen Überbauten und Freileitungen
 
 (keine besonderen Vorschriften)
-
 
 #### § 22.17 Kennzeichnung der Brücken- und Wehrdurchfahrten
 
@@ -28241,23 +26927,14 @@ Brückendurchfahrt bei Nacht wie folgt gekennzeichnet sein:
     b)  bei Verkehr in nur einer Richtung:
         zwei gelbe Lichter übereinander.
 
-
-
-
-
-
-
-
 #### § 22.18 Durchfahren der Brücken, Sperrwerke, Wehre, Schleusen und einzelner Stromstrecken
 
 Bei erhöhter Wasserführung wird die Schifffahrt an den Staustufen
 Grütz und Garz über die Nadelwehre geführt.
 
-
 #### § 22.19 Benutzung der Schleusen, Bootsschleusen und Bootsumsetzanlagen
 
 (keine besonderen Vorschriften)
-
 
 #### § 22.20 Segeln
 
@@ -28265,13 +26942,11 @@ Das Segeln auf einem Kanal und auf der Strecke **Untere Havel-
 Wasserstraße**             von der Spreemündung (km 0,00) bis zum
 Pichelsdorfer Gemünd (km 4,00) ist verboten.
 
-
 #### § 22.21 Bezeichnung der Fahrzeuge
 
 Ein Sportfahrzeug, von dem aus Sporttauchen betrieben wird, muss neben
 der nach dieser Verordnung allgemein vorgeschriebenen Bezeichnung die
 Bezeichnung nach § 8.12 führen.
-
 
 #### § 22.22 Regelungen über den Verkehr
 
@@ -28376,7 +27051,6 @@ Bezeichnung nach § 8.12 führen.
 
 (keine besonderen Vorschriften)
 
-
 #### § 22.24 Sonderbestimmungen für Kleinfahrzeuge
 
 
@@ -28408,14 +27082,9 @@ Bezeichnung nach § 8.12 führen.
     stillliegen. Satz 2 gilt nicht auf der **Unteren Havel-Wasserstraße**
     von km 0,00 bis km 4,00.
 
-
-
-
-
 #### § 22.25 Befahren der Altwässer, Kanäle und einzelner Wasserstraßen
 
 (keine besonderen Vorschriften)
-
 
 #### § 22.26 Schutz der Kanäle und Anlagen
 
@@ -28435,10 +27104,6 @@ Bezeichnung nach § 8.12 führen.
     Leichtigkeit des Schiffsverkehrs nicht über Gebühr beeinträchtigt
     werden. Die Zulassung nach Satz 1 kann zeitlich und örtlich beschränkt
     werden.
-
-
-
-
 
 #### § 22.27 Verkehrsbeschränkungen der Schifffahrt
 
@@ -28503,14 +27168,9 @@ Bezeichnung nach § 8.12 führen.
     einer Einschränkung ist an Bord mitzuführen und auf Verlangen den zur
     Kontrolle befugten Personen auszuhändigen.
 
-
-
-
-
 #### § 22.28 Benutzung der Wasserstraßen
 
 (keine besonderen Vorschriften)
-
 
 #### § 22.29 Verhaltenspflichten des Schiffsführers, der Besatzung an Bord, des Eigentümers und des Ausrüsters
 
@@ -28660,15 +27320,7 @@ Bezeichnung nach § 8.12 führen.
         1\.1.4.1, 1.1.5.2 und 1.2 jeweils genannten Fall die dort jeweils
         angegebene Ausrüstung vorhanden ist.
 
-
-
-
-
-
-
-
 ### Kapitel 23 - Havel-Oder-Wasserstraße
-
 
 #### § 23.01 Anwendungsbereich
 
@@ -28686,7 +27338,6 @@ Werbelliner Gewässer von km 2,73 (Werbellinsee, Werbellinkanal,
 nördlicher Oder-Havel-Kanal und Pechteichsee), Wriezener Alte Oder bis
 Bralitz (km 2,53), Verbindungskanal Hohensaaten Ost (zur Oder),
 Verbindungskanal Schwedter Querfahrt (zur Oder).
-
 
 #### § 23.02 Abmessungen der Fahrzeuge und Verbände, Tauchtiefe, Fahrrinnentiefe und Abladetiefe
 
@@ -29858,10 +28509,6 @@ Verbindungskanal Schwedter Querfahrt (zur Oder).
     sonstigen Nebenwasserstraßen der genannten Hauptwasserstraßen, soweit
     diese nicht gesondert aufgeführt sind.
 
-
-
-
-
 #### § 23.03 Zusammenstellung der Verbände
 
 
@@ -29881,10 +28528,6 @@ Verbindungskanal Schwedter Querfahrt (zur Oder).
 
 4.  Die zuständige Behörde kann abweichend von Nummer 2 Satz 1 und Nummer
     3 Ausnahmen zulassen.
-
-
-
-
 
 #### § 23.04 Fahrgeschwindigkeit
 
@@ -30033,8 +28676,6 @@ Verbindungskanal Schwedter Querfahrt (zur Oder).
 
     *
 
-
-
 #### § 23.05 Bergfahrt
 
 
@@ -30117,14 +28758,9 @@ Verbindungskanal Schwedter Querfahrt (zur Oder).
 
     *   Gewässerende.
 
-
-
-
-
 #### § 23.06 Begegnen
 
 (keine besonderen Vorschriften)
-
 
 #### § 23.07 Überholen
 
@@ -30154,19 +28790,13 @@ Verbindungskanal Schwedter Querfahrt (zur Oder).
 3.  Ein Kleinfahrzeug darf abweichend von Nummer 1 überholen und überholt
     werden.
 
-
-
-
-
 #### § 23.08 Wenden
 
 (keine besonderen Vorschriften)
 
-
 #### § 23.09 Ankern
 
 (keine besonderen Vorschriften)
-
 
 #### § 23.10 Stillliegen
 
@@ -30210,10 +28840,6 @@ Verbindungskanal Schwedter Querfahrt (zur Oder).
     wenn der Zustand der Wasserstraße und der übrige Verkehr nicht über
     Gebühr beeinträchtigt werden.
 
-
-
-
-
 #### § 23.11 Schifffahrt bei Hochwasser
 
 Erreicht oder überschreitet der Wasserstand den Höchsten
@@ -30222,7 +28848,6 @@ Friedrichsthal, so ist die Schifffahrt auf der Strecke von der
 Einfahrt des Binnenhafens Schwedt (km 126,10) bis zur Einmündung in
 die Westoder (km 134,96) verboten.
 
-
 #### § 23.12 Schifffahrt bei Eis
 
 Droht infolge zunehmender Eisbildung die Einstellung der Schifffahrt,
@@ -30230,26 +28855,21 @@ muss ein Fahrzeug oder ein Verband nach Hinweis der zuständigen
 Behörde rechtzeitig einen Schutzhafen oder eine geeignete Liegestelle
 aufsuchen.
 
-
 #### § 23.13 Nachtschifffahrt
 
 (keine besonderen Vorschriften)
-
 
 #### § 23.14 Einsatz von Trägerschiffsleichtern
 
 (keine besonderen Vorschriften)
 
-
 #### § 23.15 Meldepflicht
 
 (keine besonderen Vorschriften)
 
-
 #### § 23.16 Höhe der Brücken, sonstigen festen Überbauten und Freileitungen
 
 (keine besonderen Vorschriften)
-
 
 #### § 23.17 Kennzeichnung der Brücken- und Wehrdurchfahrten
 
@@ -30270,24 +28890,15 @@ Brückendurchfahrt bei Nacht wie folgt gekennzeichnet sein:
     b)  bei Verkehr in nur einer Richtung:
         zwei gelbe Lichter übereinander.
 
-
-
-
-
-
-
-
 #### § 23.18 Durchfahren der Brücken, Sperrwerke, Wehre, Schleusen und einzelner Stromstrecken
 
 Auf dem **Finowkanal**              beträgt die lichte
 Durchfahrtsbreite der Schleusenbrücke Schöpfurth (FiK-km 67,56) 5,10
 m.
 
-
 #### § 23.19 Benutzung der Schleusen, Bootsschleusen und Bootsumsetzanlagen
 
 (keine besonderen Vorschriften)
-
 
 #### § 23.20 Segeln
 
@@ -30315,21 +28926,15 @@ verboten. Dies gilt nicht für
 2.  die **Werbelliner Gewässer**                    von km 10,40 bis km
     20,00.
 
-
-
-
-
 #### § 23.21 Bezeichnung der Fahrzeuge
 
 Ein Sportfahrzeug, von dem aus Sporttauchen betrieben wird, muss neben
 der nach dieser Verordnung allgemein vorgeschriebenen Bezeichnung die
 Bezeichnung nach § 8.12 führen.
 
-
 #### § 23.22 Regelungen über den Verkehr
 
 (keine besonderen Vorschriften)
-
 
 #### § 23.23 Regelungen zum Sprechfunk
 
@@ -30357,10 +28962,6 @@ Bezeichnung nach § 8.12 führen.
     Dieser Verkehrskreis darf nur zur Übermittlung oder zum Empfang von
     Nachrichten auf anderen Kanälen kurzfristig verlassen werden.
 
-
-
-
-
 #### § 23.24 Sonderbestimmungen für Kleinfahrzeuge
 
 
@@ -30381,19 +28982,13 @@ Bezeichnung nach § 8.12 führen.
 4.  Ein unbemanntes Kleinfahrzeug darf nur an einer genehmigten
     Liegestelle stillliegen.
 
-
-
-
-
 #### § 23.25 Befahren der Altwässer, Kanäle und einzelner Wasserstraßen
 
 (keine besonderen Vorschriften)
 
-
 #### § 23.26 Schutz der Kanäle und Anlagen
 
 (keine besonderen Vorschriften)
-
 
 #### § 23.27 Verkehrsbeschränkungen der Schifffahrt
 
@@ -30447,14 +29042,9 @@ Bezeichnung nach § 8.12 führen.
     Fahrverbot oder einer Einschränkung ist an Bord mitzuführen und auf
     Verlangen den zur Kontrolle befugten Personen auszuhändigen.
 
-
-
-
-
 #### § 23.28 Benutzung der Wasserstraßen
 
 (keine besonderen Vorschriften)
-
 
 #### § 23.29 Verhaltenspflichten des Schiffsführers, der Besatzung an Bord, des Eigentümers und des Ausrüsters
 
@@ -30617,15 +29207,7 @@ Bezeichnung nach § 8.12 führen.
         einem Fahrverbot oder einer Einschränkung nach § 23.27 Nummer 5 Satz 2
         an Bord mitgeführt wird.
 
-
-
-
-
-
-
-
 ### Kapitel 24 - Obere Havel-Wasserstraße, Müritz-Havel-Wasserstraße und Müritz-Elde-Wasserstraße
-
 
 #### § 24.01 Anwendungsbereich
 
@@ -30683,10 +29265,6 @@ Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
     StW-km 25,29) bis zur Abzweigung des Wickendorfer Kanals/Langen
     Grabens aus dem Schweriner Außensee bei StW-km 30,34) nebst
     Ziegelsee).
-
-
-
-
 
 #### § 24.02 Abmessungen der Fahrzeuge und Verbände, Tauchtiefe und Abladetiefe
 
@@ -31420,10 +29998,6 @@ Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
     Nebenwasserstraßen der Hauptwasserstraßen, soweit diese nicht
     gesondert aufgeführt sind.
 
-
-
-
-
 #### § 24.03 Zusammenstellung der Verbände
 
 
@@ -31438,10 +30012,6 @@ Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
 
 3.  Die zuständige Behörde kann abweichend von Nummer 2 Satz 1 Ausnahmen
     zulassen.
-
-
-
-
 
 #### § 24.04 Fahrgeschwindigkeit
 
@@ -31577,9 +30147,6 @@ Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
 
     *
 
-
-
-
 #### § 24.05 Bergfahrt
 
 
@@ -31690,31 +30257,23 @@ Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
 
     *   Gewässerende.
 
-
-
-
-
 #### § 24.06 Begegnen
 
 Auf den **Zechliner Gewässern**              und dem **Dollgowkanal**
 darf ein Fahrzeug mit einer Breite von 5,10 m nur einem Fahrzeug mit
 einer Breite von bis zu 4,60 m begegnen.
 
-
 #### § 24.07 Überholen
 
 (keine besonderen Vorschriften)
-
 
 #### § 24.08 Wenden
 
 (keine besonderen Vorschriften)
 
-
 #### § 24.09 Ankern
 
 (keine besonderen Vorschriften)
-
 
 #### § 24.10 Stillliegen
 
@@ -31728,14 +30287,9 @@ einer Breite von bis zu 4,60 m begegnen.
     und der **Stör-Wasserstraße**                    mit einer
     Wasserspiegelbreite unter 40,00 m ist das Stillliegen verboten.
 
-
-
-
-
 #### § 24.11 Schifffahrt bei Hochwasser
 
 (keine besonderen Vorschriften)
-
 
 #### § 24.12 Schifffahrt bei Eis
 
@@ -31744,26 +30298,21 @@ muss ein Fahrzeug oder ein Verband nach Hinweis der zuständigen
 Behörde rechtzeitig einen Schutzhafen oder eine geeignete Liegestelle
 aufsuchen.
 
-
 #### § 24.13 Nachtschifffahrt
 
 (keine besonderen Vorschriften)
-
 
 #### § 24.14 Einsatz von Trägerschiffsleichtern
 
 (keine besonderen Vorschriften)
 
-
 #### § 24.15 Meldepflicht
 
 (keine besonderen Vorschriften)
 
-
 #### § 24.16 Höhe der Brücken, sonstigen festen Überbauten und Freileitungen
 
 (keine besonderen Vorschriften)
-
 
 #### § 24.17 Kennzeichnung der Brücken- und Wehrdurchfahrten
 
@@ -31783,22 +30332,13 @@ Brückendurchfahrt bei Nacht wie folgt gekennzeichnet sein:
 
     b)  bei Verkehr in nur einer Richtung: zwei gelbe Lichter übereinander.
 
-
-
-
-
-
-
-
 #### § 24.18 Durchfahren der Brücken, Sperrwerke, Wehre, Schleusen und einzelner Stromstrecken
 
 (keine besonderen Vorschriften)
 
-
 #### § 24.19 Benutzung der Schleusen, Bootsschleusen und Bootsumsetzanlagen
 
 (keine besonderen Vorschriften)
-
 
 #### § 24.20 Segeln
 
@@ -31832,21 +30372,15 @@ Strecken
 2.  **Stör-Wasserstraße**                    von der Müritz-Elde-
     Wasserstraße (km 0,00) bis zum Schwedter See (km 19,87) ist verboten.
 
-
-
-
-
 #### § 24.21 Bezeichnung der Fahrzeuge
 
 Ein Sportfahrzeug, von dem aus Sporttauchen betrieben wird, muss neben
 der nach dieser Verordnung allgemein vorgeschriebenen Bezeichnung die
 Bezeichnung nach § 8.12 führen.
 
-
 #### § 24.22 Regelungen über den Verkehr
 
 (keine besonderen Vorschriften)
-
 
 #### § 24.23 Regelungen zum Sprechfunk
 
@@ -31896,24 +30430,17 @@ Bezeichnung nach § 8.12 führen.
     Dieser Verkehrskreis darf nur zur Übermittlung oder zum Empfang von
     Nachrichten auf anderen Kanälen kurzfristig verlassen werden.
 
-
-
-
-
 #### § 24.24 Sonderbestimmungen für Kleinfahrzeuge
 
 (keine besonderen Vorschriften)
-
 
 #### § 24.25 Befahren der Altwässer, Kanäle und einzelner Wasserstraßen
 
 (keine besonderen Vorschriften)
 
-
 #### § 24.26 Schutz der Kanäle und Anlagen
 
 (keine besonderen Vorschriften)
-
 
 #### § 24.27 Verkehrsbeschränkungen der Schifffahrt
 
@@ -31937,14 +30464,9 @@ Bezeichnung nach § 8.12 führen.
     Wickendorfer Kanals aus dem Schweriner Außensee ist verboten. Satz 1
     gilt nicht für ein Kleinfahrzeug.
 
-
-
-
-
 #### § 24.28 Benutzung der Wasserstraßen
 
 (keine besonderen Vorschriften)
-
 
 #### § 24.29 Verhaltenspflichten des Schiffsführers, der Besatzung an Bord, des Eigentümers und des Ausrüsters
 
@@ -32036,12 +30558,7 @@ Bezeichnung nach § 8.12 führen.
     Fahrzeug oder der Verband die zugelassenen Höchstabmessungen und
     Abladetiefen nach § 24.02 Nummer 1 nicht überschreitet.
 
-
-
-
-
 ### Kapitel 25 - Saale und Saale-Leipzig-Kanal
-
 
 #### § 25.01 Anwendungsbereich
 
@@ -32054,10 +30571,6 @@ Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
 2.  dem **Saale-Leipzig-Kanal**                    (SLK) vom
     Sicherheitstor West (SLK-km 7,74) bis zum Hafen Leipzig (SLK-km
     18,93).
-
-
-
-
 
 #### § 25.02 Abmessungen der Fahrzeuge und Verbände, Fahrrinnentiefe und Abladetiefe
 
@@ -32243,10 +30756,6 @@ Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
     Nebenwasserstraßen der Hauptwasserstraße, soweit diese nicht gesondert
     aufgeführt sind.
 
-
-
-
-
 #### § 25.03 Zusammenstellung der Verbände
 
 
@@ -32261,10 +30770,6 @@ Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
 
 3.  Die zuständige Behörde kann abweichend von Nummer 2 Satz 1 Ausnahmen
     zulassen.
-
-
-
-
 
 #### § 25.04 Fahrgeschwindigkeit
 
@@ -32332,13 +30837,9 @@ Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
 
     *
 
-
-
-
 #### § 25.05 Bergfahrt
 
    (keine besondere Vorschriften)
-
 
 #### § 25.06 Begegnen
 
@@ -32352,29 +30853,21 @@ Ein Fahrzeug oder ein Verband mit jeweils einer Länge von mehr als
 2.  die Strecke von km 0,50 bis km 20,00 nur mit Erlaubnis der
     Schleusenaufsicht in Calbe befahren.
 
-
-
-
-
 #### § 25.07 Überholen
 
 (keine besondere Vorschriften)
-
 
 #### § 25.08 Wenden
 
 (keine besondere Vorschriften)
 
-
 #### § 25.09 Ankern
 
 (keine besondere Vorschriften)
 
-
 #### § 25.10 Stillliegen
 
 (keine besondere Vorschriften)
-
 
 #### § 25.11 Schifffahrt bei Hochwasser
 
@@ -32480,32 +30973,25 @@ Ein Fahrzeug oder ein Verband mit jeweils einer Länge von mehr als
     *
     *
 
-
-
 #### § 25.12 Schifffahrt bei Eis
 
    (keine besondere Vorschriften)
-
 
 #### § 25.13 Nachtschifffahrt
 
 (keine besondere Vorschriften)
 
-
 #### § 25.14 Einsatz von Trägerschiffsleichtern
 
 (keine besondere Vorschriften)
-
 
 #### § 25.15 Meldepflicht
 
 (keine besondere Vorschriften)
 
-
 #### § 25.16 Höhe der Brücken, sonstigen festen Überbauten und Freileitungen
 
 (keine besondere Vorschriften)
-
 
 #### § 25.17 Kennzeichnung der Brücken- und Wehrdurchfahrten
 
@@ -32525,13 +31011,6 @@ Brückendurchfahrt bei Nacht wie folgt gekennzeichnet sein:
 
     b)  bei Verkehr in nur einer Richtung:
         zwei gelbe Lichter übereinander.
-
-
-
-
-
-
-
 
 #### § 25.18 Durchfahren der Brücken, Sperrwerke, Wehre, Schleusen und einzelner Stromstrecken
 
@@ -32556,24 +31035,17 @@ Brückendurchfahrt bei Nacht wie folgt gekennzeichnet sein:
 2.  Nummer 1 gilt nicht für ein Fahrzeug oder einen Schubverband, das oder
     der mit einer aktiven Bugsteuereinrichtung ausgerüstet ist.
 
-
-
-
-
 #### § 25.19 Benutzung der Schleusen, Bootsschleusen und Bootsumsetzanlagen
 
 (keine besonderen Vorschriften)
-
 
 #### § 25.20 Segeln
 
 (keine besonderen Vorschriften)
 
-
 #### § 25.21 Bezeichnung der Fahrzeuge
 
 (keine besonderen Vorschriften)
-
 
 #### § 25.22 Regelungen über den Verkehr
 
@@ -32594,10 +31066,6 @@ Brückendurchfahrt bei Nacht wie folgt gekennzeichnet sein:
     Flagge und bei Nacht ein gelbes gewöhnliches, von allen Seiten
     sichtbares Licht gezeigt wird.
 
-
-
-
-
 #### § 25.23 Regelungen zum Sprechfunk
 
 
@@ -32614,35 +31082,26 @@ Brückendurchfahrt bei Nacht wie folgt gekennzeichnet sein:
 
 3.  § 4.05 Nummer 3 gilt auch für eine Seilfähre.
 
-
-
-
-
 #### § 25.24 Sonderbestimmungen für Kleinfahrzeuge
 
 (keine besonderen Vorschriften)
-
 
 #### § 25.25 Befahren der Altwässer, Kanäle und einzelner Wasserstraßen
 
 (keine besonderen Vorschriften)
 
-
 #### § 25.26 Schutz der Kanäle und Anlagen
 
 (keine besonderen Vorschriften)
-
 
 #### § 25.27 Verkehrsbeschränkungen der Schifffahrt
 
 Das Befahren des **Saale-Leipzig-Kanals**              ist verboten.
 Satz 1 gilt nicht für ein Kleinfahrzeug.
 
-
 #### § 25.28 Benutzung der Wasserstraßen
 
 (keine besonderen Vorschriften)
-
 
 #### § 25.29 Verhaltenspflichten des Schiffsführers, der Besatzung an Bord, des Eigentümers und des Ausrüsters
 
@@ -32727,12 +31186,7 @@ Satz 1 gilt nicht für ein Kleinfahrzeug.
     25\.02 Nummer 1 und die zugelassene Abladetiefe nach § 25.02 Nummer 2
     Satz 3 nicht überschreitet.
 
-
-
-
-
 ### Kapitel 26 - Grenzgewässer Oder, Westoder und Lausitzer Neiße
-
 
 #### § 26.01 Anwendungsbereich
 
@@ -32760,7 +31214,6 @@ Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
 
    sowie auf den Verbindungsstrecken zu den an diesen Wasserstraßen
 gelegenen Häfen.
-
 
 #### § 26.02 Abmessungen der Fahrzeuge und Verbände, Fahrrinnentiefe und Abladetiefe
 
@@ -33259,10 +31712,6 @@ gelegenen Häfen.
     Fahrrinnentiefe sowie die aktuelle Wasserstandsentwicklung zu
     berücksichtigen.
 
-
-
-
-
 #### § 26.03 Zusammenstellung der Verbände
 
 
@@ -33320,10 +31769,6 @@ gelegenen Häfen.
     Halbsatz 1 eingestellte schwimmende Gerät muss mit einem Ruder
     ausgerüstet sein.
 
-
-
-
-
 #### § 26.04 Fahrgeschwindigkeit
 
 
@@ -33349,33 +31794,25 @@ gelegenen Häfen.
 
     *
 
-
-
-
 #### § 26.05 Bergfahrt
 
    (keine besonderen Vorschriften)
-
 
 #### § 26.06 Begegnen
 
 (keine besonderen Vorschriften)
 
-
 #### § 26.07 Überholen
 
 (keine besonderen Vorschriften)
-
 
 #### § 26.08 Wenden
 
 (keine besonderen Vorschriften)
 
-
 #### § 26.09 Ankern
 
 (keine besonderen Vorschriften)
-
 
 #### § 26.10 Stillliegen
 
@@ -33383,7 +31820,6 @@ Das Stillliegen zum Zusammenstellen und Auflösen eines Verbandes darf
 an der Einmündung des **Verbindungskanals Hohensaaten Ost**
 nur von km 665,00 bis km 665,80 der **Oder**              an der
 linken Uferseite erfolgen.
-
 
 #### § 26.11 Schifffahrt bei Hochwasser
 
@@ -33654,9 +32090,6 @@ linken Uferseite erfolgen.
 *    *
     *
 
-
-
-
 #### § 26.12 Schifffahrt bei Eis
 
    Bei Eisbildung werden die Wasserstraßen oder Teilstrecken der
@@ -33666,7 +32099,6 @@ Fahrzeug oder ein Verband nach Hinweis der zuständigen Behörde
 rechtzeitig einen Schutzhafen oder eine geeignete Liegestelle
 aufsuchen. Die Schifffahrt darf erst nach Freigabe durch die
 zuständige Behörde wieder aufgenommen werden.
-
 
 #### § 26.13 Nachtschifffahrt
 
@@ -33732,50 +32164,38 @@ zuständige Behörde wieder aufgenommen werden.
 6.  Es muss sich eine Person an Bord befinden, die berechtigt ist, das
     Radargerät und die Sprechfunkanlagen zu bedienen.
 
-
-
-
-
 #### § 26.14 Einsatz von Trägerschiffsleichtern
 
 (keine besonderen Vorschriften)
-
 
 #### § 26.15 Meldepflicht
 
 (keine besonderen Vorschriften)
 
-
 #### § 26.16 Höhe der Brücken, sonstigen festen Überbauten und Freileitungen
 
 (keine besonderen Vorschriften)
-
 
 #### § 26.17 Kennzeichnung der Brücken- und Wehrdurchfahrten
 
 Abweichend von § 6.24 Nummer 2 Buchstabe a können zusätzlich zum
 Tafelzeichen A.10 zwei grüne Lichter gezeigt werden.
 
-
 #### § 26.18 Durchfahren der Brücken, Sperrwerke, Wehre, Schleusen und einzelner Stromstrecken
 
 (keine besonderen Vorschriften)
-
 
 #### § 26.19 Benutzung der Schleusen, Bootsschleusen und Bootsumsetzanlagen
 
 (keine besonderen Vorschriften)
 
-
 #### § 26.20 Segeln
 
 (keine besonderen Vorschriften)
 
-
 #### § 26.21 Bezeichnung der Fahrzeuge
 
 (keine besonderen Vorschriften)
-
 
 #### § 26.22 Regelungen über den Verkehr
 
@@ -33805,10 +32225,6 @@ Tafelzeichen A.10 zwei grüne Lichter gezeigt werden.
 3.  Die Nummern 1 und 2 gelten nicht für ein Kleinfahrzeug oder einen
     Verband, der ausschließlich aus Kleinfahrzeugen besteht.
 
-
-
-
-
 #### § 26.23 Regelungen zum Sprechfunk
 
 
@@ -33820,24 +32236,17 @@ Tafelzeichen A.10 zwei grüne Lichter gezeigt werden.
 2.  Der Funkverkehr für den Verkehrskreis Schiff-Schiff hat auf Kanal 10
     zu erfolgen.
 
-
-
-
-
 #### § 26.24 Sonderbestimmungen für Kleinfahrzeuge
 
 (keine besonderen Vorschriften)
-
 
 #### § 26.25 Befahren der Altwässer, Kanäle und einzelner Wasserstraßen
 
 (keine besonderen Vorschriften)
 
-
 #### § 26.26 Schutz der Kanäle und Anlagen
 
 (keine besonderen Vorschriften)
-
 
 #### § 26.27 Verkehrsbeschränkungen der Schifffahrt
 
@@ -33849,14 +32258,9 @@ Tafelzeichen A.10 zwei grüne Lichter gezeigt werden.
 2.  Das Befahren der **Westoder**                    von km 0,00 bis km
     2,70 ist verboten. Satz 1 gilt nicht für ein Kleinfahrzeug.
 
-
-
-
-
 #### § 26.28 Benutzung der Wasserstraßen
 
 (keine besonderen Vorschriften)
-
 
 #### § 26.29 Verhaltenspflichten des Schiffsführers, der Besatzung an Bord, des Eigentümers und des Ausrüsters
 
@@ -33981,15 +32385,7 @@ Tafelzeichen A.10 zwei grüne Lichter gezeigt werden.
         Scheinwerfern nach § 26.13 Nummer 5 Satz 1 Buchstabe c, auch in
         Verbindung mit Satz 2, ausgerüstet ist.
 
-
-
-
-
-
-
-
 ### Kapitel 27 - Peene
-
 
 #### § 27.01 Anwendungsbereich
 
@@ -33998,7 +32394,6 @@ von der Einmündung des Malchiner Peenekanals in die Westpeene (km
 2,50) bis zur Einmündung des Richtgrabens in den Peenestrom an der
 Verbindungslinie zwischen dem Oberfeuer Jahnkenort und dem Unterfeuer
 Pinnow (km 98,16) einschließlich Kummerower See.
-
 
 #### § 27.02 Abmessungen der Fahrzeuge und Verbände, Fahrrinnentiefe
 
@@ -34172,13 +32567,6 @@ Pinnow (km 98,16) einschließlich Kummerower See.
 
         *   3,00 m.
 
-
-
-
-
-
-
-
 #### § 27.03 Zusammenstellung der Verbände
 
 In einen Schleppverband dürfen
@@ -34192,7 +32580,6 @@ In einen Schleppverband dürfen
 
 
 eingestellt werden.
-
 
 #### § 27.04 Fahrgeschwindigkeit
 
@@ -34241,129 +32628,101 @@ eingestellt werden.
 
     *   4 km/h.
 
-
-
-
-
 #### § 27.05 Bergfahrt
 
 (keine besonderen Vorschriften)
-
 
 #### § 27.06 Begegnen
 
 (keine besonderen Vorschriften)
 
-
 #### § 27.07 Überholen
 
 (keine besonderen Vorschriften)
-
 
 #### § 27.08 Wenden
 
 (keine besonderen Vorschriften)
 
-
 #### § 27.09 Ankern
 
 (keine besonderen Vorschriften)
-
 
 #### § 27.10 Stillliegen
 
 (keine besonderen Vorschriften)
 
-
 #### § 27.11 Schifffahrt bei Hochwasser
 
 (keine besonderen Vorschriften)
-
 
 #### § 27.12 Schifffahrt bei Eis
 
 (keine besonderen Vorschriften)
 
-
 #### § 27.13 Nachtschifffahrt
 
 (keine besonderen Vorschriften)
-
 
 #### § 27.14 Einsatz von Trägerschiffsleichtern
 
 (keine besonderen Vorschriften)
 
-
 #### § 27.15 Meldepflicht
 
 (keine besonderen Vorschriften)
-
 
 #### § 27.16 Höhe der Brücken, sonstigen festen Überbauten und Freileitungen
 
 (keine besonderen Vorschriften)
 
-
 #### § 27.17 Kennzeichnung der Brücken- und Wehrdurchfahrten
 
 (keine besonderen Vorschriften)
-
 
 #### § 27.18 Durchfahren der Brücken, Sperrwerke, Wehre, Schleusen und einzelner Stromstrecken
 
 (keine besonderen Vorschriften)
 
-
 #### § 27.19 Benutzung der Schleusen, Bootsschleusen und Bootsumsetzanlagen
 
 (keine besonderen Vorschriften)
-
 
 #### § 27.20 Segeln
 
 (keine besonderen Vorschriften)
 
-
 #### § 27.21 Bezeichnung der Fahrzeuge
 
 (keine besonderen Vorschriften)
-
 
 #### § 27.22 Regelungen über den Verkehr
 
 (keine besonderen Vorschriften)
 
-
 #### § 27.23 Regelungen zum Sprechfunk
 
 (keine besonderen Vorschriften)
-
 
 #### § 27.24 Sonderbestimmungen für Kleinfahrzeuge
 
 (keine besonderen Vorschriften)
 
-
 #### § 27.25 Befahren der Altwässer, Kanäle und einzelner Wasserstraßen
 
 (keine besonderen Vorschriften)
-
 
 #### § 27.26 Schutz der Kanäle und Anlagen
 
 (keine besonderen Vorschriften)
 
-
 #### § 27.27 Verkehrsbehinderungen der Schifffahrt
 
 (keine besonderen Vorschriften)
 
-
 #### § 27.28 Benutzung der Wasserstraßen
 
 (keine besonderen Vorschriften)
-
 
 #### § 27.29 Verhaltenspflichten des Schiffsführers, der Besatzung an Bord, des Eigentümers und des Ausrüsters
 
@@ -34402,15 +32761,9 @@ eingestellt werden.
     Fahrzeug oder der Verband die zugelassenen Höchstabmessungen nach §
     27\.02 Nummer 1 nicht überschreitet.
 
-
-
-
-
 ## Dritter Teil - Umweltbestimmungen
 
-
 ### Kapitel 28 - Gewässerschutz und Abfallbeseitigung auf Fahrzeugen
-
 
 #### § 28.01 Behandlung von Schiffsabfällen
 
@@ -34420,7 +32773,6 @@ oder Einbringung in das Wasser gelten die Bestimmungen des
 Annahme von Abfällen in der Rhein- und Binnenschifffahrt (BGBl. 2003
 II S. 1799) sowie die zu seiner Ausführung ergangenen Vorschriften.
 
-
 #### § 28.02 Allgemeine Sorgfaltspflicht
 
 Der Schiffsführer, die übrige Besatzung und sonstige Personen an Bord
@@ -34428,7 +32780,6 @@ müssen die nach den Umständen gebotene Sorgfalt anwenden, um eine
 Verschmutzung der Wasserstraße zu vermeiden. Insbesondere der
 Schiffsführer hat sicherzustellen, dass kein Brenn- oder Schmierstoff
 in die Wasserstraße gelangt.
-
 
 #### § 28.03 Sorgfaltspflicht beim Bunkern
 
@@ -34482,16 +32833,11 @@ in die Wasserstraße gelangt.
 
 4.  Die Nummern 1 bis 3 gelten nicht für ein Kleinfahrzeug.
 
-
-
-
-
 #### § 28.04 Anstrich und Außenreinigung der Fahrzeuge
 
 Es ist verboten, die Außenhaut eines Fahrzeugs mit Öl anzustreichen
 oder mit Mitteln zu reinigen, die nicht in das Gewässer gelangen
 dürfen.
-
 
 #### Anlage 1 Unterscheidungsbuchstabe oder -buchstabengruppe des Staates, in dem der Heimat- oder Registerort des Fahrzeugs liegt (nur Hinweis)
 
@@ -34750,12 +33096,9 @@ dürfen.
 
     *
 
-
-
 #### Anlage 2
 
    (ohne Inhalt)
-
 
 #### Anlage 3 Bezeichnung der Fahrzeuge
 
@@ -35719,22 +34062,13 @@ dürfen.
     *        *   §§ 21.21, 22.21, 23.21, 24.21 Bezeichnung eines Sportfahrzeugs beim
             Einsatz von Tauchern
 
-
-
-
-
-
-
-
 #### Anlage 4
 
 (ohne Inhalt)
 
-
 #### Anlage 5
 
 (ohne Inhalt)
-
 
 #### Anlage 6 Schallzeichen
 
@@ -36660,14 +34994,6 @@ werden.
             Verbindung mit Nummer 3
             Satz 2
 
-
-
-
-
-
-
-
-
 #### Anlage 7 Schifffahrtszeichen
 
 (Fundstelle: BGBl. I 2012, Anlageband zu Nr. 1, S. 236 - 255)
@@ -36684,10 +35010,6 @@ werden.
 
 3.  Das Ende eines Verbots, eine Gebots oder einer Einschränkung wird mit
     dem Hinweisschild E.11 angegeben.
-
-
-
-
 
 ## Abschnitt I — Hauptzeichen
 
@@ -38407,9 +36729,6 @@ werden.
     *
     *        ![bgbl1_2012_j0001_0432_ab1.jpg](bgbl1_2012_j0001_0432_ab1.jpg)
     *        ![bgbl1_2012_j0001_0433_ab1.jpg](bgbl1_2012_j0001_0433_ab1.jpg)
-
-
-
 
 #### Anlage 8 Bezeichnung der Wasserstraße
 

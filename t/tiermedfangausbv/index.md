@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 2522
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des
@@ -25,18 +23,15 @@ Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931) verordnet
 das Bundesministerium für Gesundheit und Soziale Sicherung im
 Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Tiermedizinischer
 Fachangestellter/Tiermedizinische Fachangestellte wird staatlich
 anerkannt.
 
-
 ## § 2 Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Zielsetzung der Berufsausbildung
 
@@ -48,7 +43,6 @@ Berufsbildungsgesetzes befähigt werden, die insbesondere
 selbstständiges Planen, Durchführen und Kontrollieren sowie das
 Handeln im betrieblichen Gesamtzusammenhang einschließt. Diese
 Befähigung ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
-
 
 ## § 4 Ausbildungsberufsbild
 
@@ -183,10 +177,6 @@ Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 13.2 Hilfeleistungen bei Notfällen am Tier.
 
-
-
-
-
 ## § 5 Ausbildungsrahmenplan
 
 Die in § 4 genannten Fertigkeiten, Kenntnisse und Fähigkeiten
@@ -197,12 +187,10 @@ dem Ausbildungsrahmenplan abweichende sachliche und zeitliche
 Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit
 betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
 ## § 6 Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans
 für die Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 7 Schriftlicher Ausbildungsnachweis
 
@@ -211,7 +199,6 @@ führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
 Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
 Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
 durchzusehen.
-
 
 ## § 8 Zwischenprüfung
 
@@ -242,10 +229,6 @@ durchzuführen:
 
 
 5.  Information und Datenschutz.
-
-
-
-
 
 ## § 9 Abschlussprüfung
 
@@ -578,7 +561,6 @@ Prüfungsleistungen erbracht sind. Werden die Prüfungsleistungen in
 einem Prüfungsbereich mit "ungenügend" bewertet, ist die Prüfung nicht
 bestanden.
 
-
 ## § 10 Fortsetzung der Berufsausbildung
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
@@ -586,11 +568,9 @@ bestehen, können unter Anrechnung der bisher zurückgelegten
 Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt
 werden, wenn die Vertragsparteien dies vereinbaren.
 
-
 ## § 11 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2006 in Kraft.
-
 
 ## Anlage 1 (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Tiermedizinischen Fachangestellten/zur Tiermedizinischen Fachangestellten - Sachliche Gliederung -
 
@@ -1529,13 +1509,6 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
 
         d)  Komplikationen, insbesondere bei operativen Eingriffen erkennen und
             erste Maßnahmen ergreifen sowie weitere einleiten
-
-
-
-
-
-
-
 
 ## Anlage 2 (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Tiermedizinischen Fachangestellten/zur Tiermedizinischen Fachangestellten - Zeitliche Gliederung -
 

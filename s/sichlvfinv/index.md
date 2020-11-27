@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 24.10.2006 I 2390
 
-
 ## Eingangsformel
 
 Auf Grund des § 129 Abs. 6 des Versicherungsaufsichtsgesetzes in der
@@ -29,7 +28,6 @@ Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165)
 und dem Organisationserlass vom 22. November 2005 (BGBl. I S. 3197)
 verordnet das Bundesministerium der Finanzen im Benehmen mit dem
 Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz:
-
 
 ## § 1 Sicherungsvermögen
 
@@ -47,7 +45,6 @@ Versicherungsgeschäft entfallen. Es sind die versicherungstechnischen
 Netto-Rückstellungen zugrunde zu legen, die im Jahresabschluss des
 Vorjahres der Beitragserhebung gemäß § 7 Abs. 1 oder, wenn nicht
 vorhanden, im zuletzt aufgestellten Jahresabschluss ausgewiesen sind.
-
 
 ## § 2 Beteiligung am Sicherungsvermögen
 
@@ -120,7 +117,6 @@ Unternehmen linear, bezogen auf das Risikomaß, erhöht.
 Summe der Soll-Beteiligungen aller Mitglieder dem Sicherungsvermögen
 gemäß § 1 Abs. 1 entspricht.
 
-
 ## § 3 Jahresbeiträge und Anteile am Sicherungsvermögen
 
 (1) Die Mitglieder haben Jahresbeiträge zu leisten. Die Summe der
@@ -146,7 +142,6 @@ insgesamt vorhandenen Anteile zum 31. Dezember eines jeden Jahres mit.
 
 (4) Die Ist-Beteiligung eines Mitglieds gilt bei diesem als Anlage im
 Sinne des § 1 Abs. 1 und § 2 Abs. 3 der Anlageverordnung.
-
 
 ## § 4 Höhe der Jahresbeiträge
 
@@ -177,7 +172,6 @@ vierten Jahr vier Fünftel zugrunde gelegt.
 (6) Tritt ein Mitglied in den Sicherungsfonds ein, nachdem der
 Sicherungsfonds bereits Jahresbeiträge erhoben hat, kann zur
 Vermeidung von Härten eine Beitragszahlung in Raten vereinbart werden.
-
 
 ## § 5 Sonderbeiträge und Kreditaufnahme
 
@@ -231,7 +225,6 @@ Sicherungsfonds auf eine juristische Person des Privatrechts gemäß §
 dieser juristischen Person des Privatrechts zur Verfügung gestellt
 werden.
 
-
 ## § 6 Befreiung von der Beitragspflicht
 
 Die Protektor Lebensversicherungs-AG, Berlin, ist von der Pflicht zur
@@ -239,7 +232,6 @@ Zahlung von Jahres- und Sonderbeiträgen gemäß den §§ 3 und 5 dieser
 Verordnung befreit. Die versicherungstechnischen Netto-Rückstellungen
 der Protektor Lebensversicherungs-AG bleiben bei der Berechnung der
 Beiträge der übrigen Mitglieder außer Ansatz.
-
 
 ## § 7 Erhebung der Beiträge
 
@@ -278,14 +270,12 @@ des Euribors zuzüglich 5 Prozent pro Jahr verzinst. Für jede nach
 Fälligkeit ergehende Mahnung wird 1 Prozent des ausstehenden Betrages
 zur pauschalen Abgeltung der Verwaltungskosten erhoben.
 
-
 ## § 8 Ergebnisse des Sicherungsfonds
 
 Überschüsse des Sicherungsfonds werden im Folgejahr an die Mitglieder
 im Verhältnis ihrer Ist-Beteiligungen am Ende des betreffenden
 Geschäftsjahres ausgezahlt. Die Auszahlung erfolgt spätestens einen
 Monat nach Feststellung des Jahresabschlusses des Sicherungsfonds.
-
 
 ## § 9 Verwendung des Sicherungsvermögens
 
@@ -297,7 +287,6 @@ zurückzuzahlen, sobald die Aufsichtsbehörde festgestellt hat, dass die
 Sanierung des Bestandes abgeschlossen ist. Der Kapitaleinsatz des nach
 § 125 Abs. 7 des Versicherungsaufsichtsgesetzes ausgeschiedenen
 Mitglieds wird hierbei nicht berücksichtigt.
-
 
 ## § 10 Ausscheiden aus dem Sicherungsfonds
 
@@ -318,7 +307,6 @@ unter.
 (3) Etwaige Ansprüche des ausscheidenden Mitglieds nach § 9 bleiben
 unberührt.
 
-
 ## § 11 Übergangsregelung
 
 Institute, die nach dem 21. Dezember 2004 (Inkrafttreten des Gesetzes
@@ -329,7 +317,6 @@ Jahresbeitrag nach § 3 eine einmalige Zahlung in Höhe von 0,2 Promille
 der Summe der versicherungstechnischen Netto-Rückstellungen aller
 Mitglieder zu leisten; § 1 Abs. 3 und § 7 sind entsprechend
 anzuwenden.
-
 
 ## § 12 Inkrafttreten
 

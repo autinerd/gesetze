@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 10.5.2011 I 820
 
-
 ## § 1 Anwendungsbereich
 
 (1) Diese Verordnung gilt für den Zugang zum Markt der
@@ -64,7 +63,6 @@ Fassung des Anhangs II der Verordnung (EWG) Nr. 2408/92 des Rates vom
 23\. Juli 1992 (ABl. EG Nr. L 240 S. 8) über den Zugang von
 Luftfahrtunternehmen der Gemeinschaft zu Strecken des
 innergemeinschaftlichen Flugverkehrs.
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -116,10 +114,6 @@ Im Sinne dieser Verordnung bezeichnet das Wort
     jeden Staat, der weder Mitgliedstaat der Europäischen Union noch
     Vertragsstaat eines den Luftverkehr betreffenden Abkommens mit der
     Europäischen Union ist.
-
-
-
-
 
 ## § 3 Bodenabfertigungsdienste
 
@@ -182,7 +176,6 @@ Bundesministerium für Verkehr, Bau und Stadtentwicklung über die
 Luftfahrtbehörde die hierfür erforderlichen Unterlagen und
 Begründungen rechtzeitig zu übermitteln.
 
-
 ## § 4 Trennung der Tätigkeitsbereiche
 
 (1) Jeder Dienstleiter muß zwischen dem Tätigkeitsbereich
@@ -200,7 +193,6 @@ wird.
 einen Wirtschaftsprüfer jährlich die Einhaltung der Verpflichtungen
 nach Absatz 1 nachzuweisen.
 
-
 ## § 5 Nutzerausschuß
 
 (1) Der Nutzerausschuß wird aus den Nutzern eines Flugplatzes
@@ -210,7 +202,6 @@ Grundsätze sind hierbei zu beachten.
 
 (2) Die Luftfahrtbehörde lädt die Nutzer zur konstituierenden Sitzung
 ein. Sie kann diese Aufgabe dem Flugplatzunternehmer übertragen.
-
 
 ## § 6 Zentrale Infrastruktureinrichtungen
 
@@ -231,7 +222,6 @@ Infrastruktureinrichtungen zu nutzen haben.
 Entrichtung eines Entgelts verbunden werden. Die Höhe dieses Entgelts
 ist nach sachgerechten, objektiven, transparenten und
 nichtdiskriminierenden Kriterien festzulegen.
-
 
 ## § 7 Auswahl der Dienstleister und der Selbstabfertiger
 
@@ -278,7 +268,6 @@ regulären Vertragsablaufs gemäß des Auswahlverfahrens nach Absatz 1.
 Dies gilt nicht, wenn die Tätigkeit nur zu einem unwesentlichen Teil
 aufgegeben wird.
 
-
 ## § 8 Anforderungskriterien
 
 (1) Dienstleister und Selbstabfertiger haben die "Anforderungen für
@@ -303,7 +292,6 @@ Arbeitskräften mit Personen abzudecken, die unmittelbar vor Aufnahme
 der Bodenabfertigungsdienste durch den Dienstleister oder
 Selbstabfertiger entsprechende Tätigkeiten beim Flugplatzunternehmer
 ausgeübt haben.
-
 
 ## § 9 Zugang
 
@@ -330,7 +318,6 @@ sachgerechten, objektiven, transparenten und nichtdiskriminierenden
 Kriterien festzulegen und darf im Sinne einer Geschäftsgebühr
 insbesondere zur Selbstfinanzierung des Flugplatzes beitragen.
 
-
 ## § 10 Aufsicht und Betriebsablauf, Arbeitsschutz
 
 (1) Die Nutzer, Dienstleister und Selbstabfertiger haben ihren Betrieb
@@ -356,7 +343,6 @@ Selbstabfertiger zur Gewährleistung von Sicherheit und
 Gesundheitsschutz der Beschäftigten bei der Arbeit nach sonstigen
 Rechtsvorschriften haben, bleiben unberührt.
 
-
 ## § 11 Konsultation
 
 Der Flugplatzunternehmer hält mindestens einmal im Jahr eine
@@ -364,7 +350,6 @@ gemeinsame Konsultation über die Anwendung dieser Verordnung mit dem
 Nutzerausschuß und den auf dem Flugplatz tätigen Dienstleistern unter
 Beteiligung des Betriebsrates des Flugplatzunternehmers und der
 Luftfahrtbehörde ab.
-
 
 ## § 12 Gegenseitigkeit
 
@@ -397,7 +382,6 @@ Gemeinschaftsrecht ganz oder teilweise aussetzen.
 unterrichtet die Kommission der Europäischen Gemeinschaften über Art
 und Ausmaß der Entscheidung.
 
-
 ## § 13 Unterrichtung
 
 (1) Die Luftfahrtbehörde meldet dem Bundesministerium für Verkehr, Bau
@@ -415,7 +399,6 @@ des Rates benötigt.
 (3) Der Flugplatzunternehmer ist verpflichtet, der Luftfahrtbehörde
 die nach Absatz 2 erforderlichen Auskünfte zu erteilen und Unterlagen
 vorzulegen.
-
 
 ## Anlage 1 (zu § 2 Nr. 4) Verzeichnis der Bodenabfertigungsdienste
 
@@ -599,10 +582,6 @@ Fundstelle des Originaltextes: BGBl. I 1997, 2888 - 2889
 
 \*1) Sofern diese Dienste nicht vom Flugverkehrskontrolldienst oder einer
     Zentralen Vorfeldkontrolle erbracht werden.
-
-
-
-
 
 ## Anlage 2 (zu § 7) Auswahl-Richtlinie des Bundesministeriums für Verkehr, Bau und Stadtentwicklung
 
@@ -794,7 +773,6 @@ des Nutzerausschusses, des Flugplatzunternehmers und des Betriebsrates
 des Flugplatzunternehmens die Auswahlentscheidung. Die
 Auswahlentscheidung ist dem Nutzerausschuß, dem Flugplatzunternehmer
 sowie den Bewerbern bekanntzugeben.
-
 
 ## Anlage 3 (zu § 8) Anforderungen für die Erbringung von Bodenabfertigungsdiensten
 
@@ -1039,7 +1017,6 @@ Selbstabfertigern angemessene Kautionen oder Sicherheiten verlangen
 sowie Finanzierungs- oder Zahlungsbedingungen geltend machen, ohne daß
 hierdurch Marktzugangshindernisse entstehen.
 
-
 ## Anlage 4 (zu § 5) Anforderungen an eine Geschäftsordnung für den Nutzerausschuß
 
 Fundstelle des Originaltextes: BGBl. I 1997, 2892 - 2893
@@ -1186,13 +1163,6 @@ gemäß § 5 Abs. 1 zu geben hat, hat folgende Grundsätze zu beachten:
         werden. Diese Regelungen müssen dem Sinn der Bodenabfertigungsdienst-
         Verordnung und der vorstehenden Anforderungen an eine Geschäftsordnung
         entsprechen.
-
-
-
-
-
-
-
 
 ## Anlage 5 (zu § 3 Abs. 2)
 

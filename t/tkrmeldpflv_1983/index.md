@@ -21,7 +21,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 V v. 30.3.2012 I 503
 
-
 ## § 1
 
 (1) Die Leiter der Veterinäruntersuchungsämter, der
@@ -38,7 +37,6 @@ feststellen, es sei denn, dass zur Feststellung der betreffenden
 Krankheit oder deren Erreger in einem Bestand Untersuchungsmaterial
 bei einer der in Absatz 1 genannten Stellen untersucht worden ist.
 
-
 ## § 2
 
 Die zuständige Behörde gibt jede Meldung nach § 1 dem
@@ -48,10 +46,7 @@ Programms „Tierseuchennachrichten“ weiter. Die Weitergabe erfolgt
 spätestens am ersten Arbeitstag der Kalenderwoche, die derjenigen
 folgt, in der der zuständigen Behörde die Meldung zugegangen ist.
 
-
 ## § 3 (weggefallen)
-
-
 
 ## § 4
 
@@ -61,10 +56,7 @@ Untersuchungsstelle oder als Tierarzt vorsätzlich oder fahrlässig
 entgegen § 1 eine Meldung nicht, nicht vollständig, nicht richtig oder
 nicht rechtzeitig erstattet.
 
-
 ## § 5 (Inkrafttreten)
-
-
 
 ## Anlage (zu § 1) Meldepflichtige Tierkrankheiten/Erregernachweise
 

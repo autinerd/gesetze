@@ -19,7 +19,6 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 27.3.1999 I 580
 
-
 ## § 1 Begriffsbestimmungen
 
 Bei Anwendung der Vorschriften dieser Anlage gelten folgende
@@ -33,7 +32,6 @@ gegenüber in einer bestimmten Richtung fortbewegt.
 Ein Licht ist
 sichtbar,              wenn es in dunkler Nacht bei ungetrübter
 Atmosphäre erkannt werden kann.
-
 
 ## § 2 Positionslichter
 
@@ -83,7 +81,6 @@ Begrenzungslichter an den Tragflächen geführt werden. Die
 Begrenzungslichter müssen Dauerlichter sein; ihre Farbe muß der Farbe
 der dazugehörigen Positionslichter entsprechen.
 
-
 ## § 3 Zusammenstoß-Warnlicht
 
 (1) Flugzeuge, Drehflügler und Luftschiffe sind mit einem oder
@@ -107,7 +104,6 @@ auszurüsten. Das Nähere wird von dem Luftfahrt-Bundesamt geregelt.
 (3) Das Luftfahrt-Bundesamt kann allgemein oder im Einzelfall
 Ausnahmen von den Absätzen 1 und 2 zulassen. Die Ausnahmen können
 befristet und mit Auflagen verbunden werden.
-
 
 ## § 4 Lichter für Flugzeuge auf dem Wasser
 
@@ -193,11 +189,9 @@ senkrecht übereinander angebrachte, über den ganzen Horizont sichtbare
 rote Lichter führen, die mindestens 1 m (3 Fuß) voneinander entfernt
 sind.
 
-
 ## § 5
 
 (weggefallen)
-
 
 ## § 6 Lichter für andere Luftfahrzeuge
 

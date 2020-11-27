@@ -20,10 +20,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art.2 V v. 20.12.2010 I 2194
 
-
 ## Erster Teil - Anwendungsbereich, Begriffsbestimmungen
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -43,7 +40,6 @@ denen organische Lösemittel, die flüchtige halogenierte organische
 Verbindungen mit einem Siedepunkt bei 1013 mbar bis zu 423 Kelvin (150
 Grad C) (leichtflüchtige halogenierte organische Verbindungen)
 enthalten, verwendet werden.
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -348,13 +344,7 @@ Im Sinne dieser Verordnung bedeuten die Begriffe
     aus zwei oder mehreren Stoffen bestehende Gemenge, Gemische oder
     Lösungen.
 
-
-
-
-
 ## Zweiter Teil - Begrenzung der Emissionen
-
-
 
 ### § 3 Allgemeine Anforderungen
 
@@ -472,7 +462,6 @@ möglich zu halten.
 Grad C) sind besondere technische Maßnahmen zur Emissionsminderung zu
 treffen, wenn davon jährlich 100 Tonnen oder mehr umgefüllt werden.
 
-
 ### § 4 Spezielle Anforderungen
 
 Der Betreiber hat eine Anlage so zu errichten und zu betreiben, dass
@@ -507,10 +496,7 @@ erfüllen. Dieser Plan muss von realistischen technischen
 Voraussetzungen ausgehen, insbesondere muss die Verfügbarkeit von
 Ersatzstoffen zum jeweiligen Zeitpunkt gewährleistet sein.
 
-
 ## Dritter Teil - Messungen und Überwachung
-
-
 
 ### § 5 Nicht genehmigungsbedürftige Anlagen
 
@@ -628,7 +614,6 @@ mitzuteilen. Der Betreiber hat unverzüglich die erforderlichen
 Maßnahmen zu treffen, um den ordnungsgemäßen Betrieb der Anlage
 sicherzustellen.
 
-
 ### § 6 Genehmigungsbedürftige Anlagen
 
 Für die Messung und Überwachung der Emissionen von
@@ -636,10 +621,7 @@ genehmigungsbedürftigen Anlagen finden die Anforderungen der TA Luft
 Anwendung. Dabei gelten mindestens die Anforderungen nach § 5 Abs. 3
 bis 5. § 5 Abs. 6 bis 9 gilt entsprechend.
 
-
 ## Vierter Teil - Gemeinsame Vorschriften
-
-
 
 ### § 7 Ableitbedingungen für Abgase
 
@@ -650,7 +632,6 @@ Luftströmung nach dem Stand der Technik gewährleistet ist.
 (2) Die gefassten Abgase von genehmigungsbedürftigen Anlagen hat der
 Betreiber nach den Anforderungen der Nummer 2.4 der TA Luft
 abzuleiten.
-
 
 ### § 8 Berichterstattung an die Europäische Kommission
 
@@ -669,7 +650,6 @@ der Grundlage der Stellungnahmen der Länder entsprechend den
 Anforderungen des Artikels 11 der Richtlinie 1999/13/EG einen Bericht
 über die Durchführung dieser Verordnung.
 
-
 ### § 9 Unterrichtung der Öffentlichkeit
 
 Die zuständige Behörde hat
@@ -687,14 +667,12 @@ der Öffentlichkeit zugänglich zu machen. Satz 1 gilt nicht für solche
 Angaben, aus denen Rückschlüsse auf Betriebs- oder
 Geschäftsgeheimnisse gezogen werden können.
 
-
 ### § 10 Andere oder weitergehende Anforderungen
 
 Die Befugnis der zuständigen Behörde, auf Grund des Bundes-
 Immissionsschutzgesetzes andere oder weitergehende Anordnungen zu
 treffen, bleibt unberührt, soweit die Anforderungen aus der Richtlinie
 1999/13/EG nicht entgegenstehen.
-
 
 ### § 11 Zulassung von Ausnahmen
 
@@ -711,10 +689,6 @@ Berücksichtigung der besonderen Umstände des Einzelfalls
 
 3.  die Ausnahmen den Anforderungen aus der Richtlinie 1999/13/EG nicht
     entgegenstehen.
-
-
-
-
 
 ### § 12 Ordnungswidrigkeiten
 
@@ -814,13 +788,7 @@ Betreiber einer nicht genehmigungsbedürftigen Anlage
 11. entgegen § 8 Abs. 1 Satz 1 eine Information nicht oder nicht
     rechtzeitig zuleitet.
 
-
-
-
-
 ## Fünfter Teil - Schlussvorschriften
-
-
 
 ### § 13 Übergangsregelung
 
@@ -864,7 +832,6 @@ der Emissionsgrenzwerte für gefasste behandelte Abgase nach § 4 Nr. 1
 Buchstabe a entbunden, sofern die Gesamtemissionen der Anlage die
 Werte nicht überschreiten, die bei Einhaltung der Anforderungen nach §
 4 Nr. 1 Buchstabe a und b erzielt worden wären.
-
 
 ### Anhang I (zu § 1) Liste der Anlagen
 
@@ -1308,10 +1275,6 @@ Fundstelle des Originaltextes: BGBl. I 2001, 2187 - 2188
 
     *   19
 
-
-
-
-
 ### Anhang II (zu § 1) Liste der Tätigkeiten
 
 Fundstelle des Originaltextes: BGBl. I 2001, 2189 - 2191
@@ -1593,13 +1556,6 @@ Fundstelle des Originaltextes: BGBl. I 2001, 2189 - 2191
         Die chemische Synthese, Fermentierung und Extraktion sowie die
         Formulierung und die Endfertigung von Arzneimitteln und, sofern an
         demselben Standort hergestellt, von Zwischenprodukten.
-
-
-
-
-
-
-
 
 ### Anhang III (zu §§ 3 und 4) Spezielle Anforderungen
 
@@ -3932,13 +3888,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         Gesamtemissionen der Emissionsgrenzwert nach Nummer 19.1.2 bei
         gefassten behandelten Abgasen einzuhalten ist.
 
-
-
-
-
-
-
-
 ### Anhang IV (zu § 4) Reduzierungsplan
 
 (Fundstelle des Originaltextes: BGBl. I 2001, 2203 bis 2205)
@@ -4534,10 +4483,6 @@ C   Vereinfachter Nachweis zur Einhaltung der Anforderungen
     Behörde in Übereinstimmung mit den Zeitvorgaben nach Abschnitt B Nr. 1
     verbindlich erklärt.
 
-
-
-
-
 ### Anhang V (zu den §§ 5 und 6) Lösemittelbilanz
 
 Fundstelle des Originaltextes: BGBl. I 2001, 2206 bis 2207
@@ -4792,13 +4737,6 @@ Fundstelle des Originaltextes: BGBl. I 2001, 2206 bis 2207
         Beziehung berechnet:
 
         I=I1+I2.
-
-
-
-
-
-
-
 
 ### Anhang VI (zu den §§ 5 und 6) Anforderungen an die Durchführung der Überwachung
 

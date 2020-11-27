@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1999, 648
 
-
-
 ## (XXXX)
 
 Nach § 34 Abs. 2 und § 35 Abs. 2 Nr. 2 des Patentgesetzes, die durch
@@ -76,7 +74,6 @@ Gesetzes vom 16. Juli 1998 (BGBl. I S. 1827), bestimmt sind:
 Der Präsident des Deutschen Patent- und Markenamts veröffentlicht im
 Blatt für Patent-, Muster- und Zeichenwesen weitere Einzelheiten zur
 Entgegennahme der Anmeldungen.
-
 
 ## Schlussformel
 

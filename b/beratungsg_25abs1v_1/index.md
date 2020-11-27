@@ -18,7 +18,6 @@ Fundstelle
 V aufgeh. durch
 :   § 2 Satz 2 V 404-25-1-2 v. 19.6.2012 I 1301 mWv 1.7.2012
 
-
 ## Eingangsformel
 
 Auf Grund des § 25 Absatz 2 des Schwangerschaftskonfliktgesetzes, der
@@ -27,7 +26,6 @@ S. 1864) eingefügt worden ist, verordnet das Bundesministerium für
 Familie, Senioren, Frauen und Jugend im Einvernehmen mit dem
 Bundesministerium für Gesundheit und dem Bundesministerium der
 Finanzen:
-
 
 ## § 1
 
@@ -40,7 +38,6 @@ Der Zuschlag für Kinder nach § 25 Absatz 1 beträgt 239 Euro.
 Bei den Kosten der Unterkunft nach § 25 Absatz 1 wird ein 271 Euro
 übersteigender Mehrbetrag bis zur Höhe von 297 Euro berücksichtigt.
 
-
 ## § 2
 
 Diese Verordnung tritt am 1. Juli 2011 in Kraft. Gleichzeitig tritt
@@ -48,7 +45,6 @@ die Fünfzehnte Verordnung zur Neufestsetzung der Beträge nach § 7
 Absatz 1 des Gesetzes zur Hilfe für Frauen bei
 Schwangerschaftsabbrüchen in besonderen Fällen vom 26. Juli 2010
 (BGBl. I S. 1064) außer Kraft.
-
 
 ## Schlussformel
 

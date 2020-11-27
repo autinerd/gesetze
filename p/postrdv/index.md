@@ -20,7 +20,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 20 G v. 22.12.2011 I 3057
 
-
 ## Eingangsformel
 
 Auf Grund
@@ -53,10 +52,7 @@ und dem Bundesministerium der Finanzen und auf Grund
 
 verordnet das Bundesministerium für Arbeit und Sozialordnung:
 
-
 ## Erstes Kapitel - Allgemeine Vorschriften
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -88,7 +84,6 @@ entsprechende Dienstleistungen zu übernehmen (Vertragsleistungen),
 darf sie von den Vorschriften dieser Verordnung nicht zugunsten dieser
 Stellen abweichen.
 
-
 ### § 2 Zuständige Stellen
 
 (1) Die Deutsche Post AG erfüllt ihre Aufgaben im Rahmen dieser
@@ -99,7 +94,6 @@ Rahmen dieser Verordnung gegenüber dem Renten Service durch die
 Deutsche Rentenversicherung Bund wahr. Der Renten Service kann jedoch
 Angelegenheiten, die in erster Linie einzelne Träger der
 Rentenversicherung betreffen, unmittelbar mit diesen vorklären.
-
 
 ### § 3 Grundlagen der Beziehungen zwischen den Trägern der Rentenversicherung und dem Renten Service
 
@@ -183,7 +177,6 @@ von Pflichtaufgaben und Pflichtaufgaben auf Antrag auch unter
 erschwerten Bedingungen, bei Katastrophen und in Notfällen sowie im
 Spannungs- und Verteidigungsfall zu gewährleisten.
 
-
 ### § 4 Verantwortungsbereiche
 
 (1) Die Träger der Rentenversicherung und der Renten Service sind im
@@ -195,7 +188,6 @@ verantwortlich.
 Verantwortung des Trägers der Rentenversicherung, soweit nicht im
 Bereich des Datenschutzes eine andere Abgrenzung der Verantwortung
 gesetzlich vorgesehen ist.
-
 
 ### § 5 Ergänzende Regelungen
 
@@ -233,10 +225,7 @@ gestellt. Der Renten Service hat Dritte auf Anforderung ganz oder
 teilweise über die getroffenen Vereinbarungen zu unterrichten; er kann
 von dem Dritten eine Erstattung seiner Auslagen verlangen.
 
-
 ## Zweites Kapitel - Auszahlung von Geldleistungen
-
-
 
 ### § 6 Zahlungsauftrag
 
@@ -260,7 +249,6 @@ nicht entsprechen, gibt der Renten Service dem zuständigen Träger der
 Rentenversicherung zurück, soweit zwischen der Deutschen
 Rentenversicherung Bund und dem Renten Service nichts anderes
 vereinbart ist.
-
 
 ### § 7 Zahlung ohne Zahlungsauftrag
 
@@ -289,7 +277,6 @@ Entscheidung über die Anrechnung des Sterbequartalsvorschusses auf die
 zustehende Leistung oder eine Erstattung trifft der zuständige Träger
 der Rentenversicherung.
 
-
 ### § 8 Zahlungsempfänger
 
 Zahlungen erfolgen an die Berechtigten, soweit nicht Dritte auf Grund
@@ -308,7 +295,6 @@ Zahlungen erfolgen an die Berechtigten, soweit nicht Dritte auf Grund
 
 
 einen Anspruch auf die Auszahlung haben.
-
 
 ### § 9 Zahlweise
 
@@ -340,7 +326,6 @@ gewöhnlichen Verfahrensablauf am Auszahlungstag im Sinne von § 118
 Abs. 1 und § 272a Abs. 1 des Sechsten Buches Sozialgesetzbuch zur
 Verfügung stehen. Die Zahlung sonstiger Geldleistungen ist
 unverzüglich nach der Erteilung des Zahlungsauftrages zu bewirken.
-
 
 ### § 10 Nicht ausführbare Zahlungen
 
@@ -383,7 +368,6 @@ ausgestellten und bisher nicht eingelösten Schecks oder vergleichbaren
 Zahlungsmittel nebst einer angemessenen Verzinsung wieder zur
 Verfügung gestellt wird.
 
-
 ### § 11 Nicht zugegangene Zahlungen
 
 (1) Der Renten Service unterstützt die Zahlungsempfänger bei
@@ -396,7 +380,6 @@ ein Konto erfolgen, kann der Renten Service in den Fällen des Absatzes
 1 auf Antrag einen Vorschuß zahlen. Die Form der Auszahlung richtet
 sich nach den Umständen des Einzelfalls. § 42 Abs. 2 und 3 des Ersten
 Buches Sozialgesetzbuch gilt entsprechend.
-
 
 ### § 12 Änderungen von Zahlungsaufträgen durch die Träger der Rentenversicherung
 
@@ -421,10 +404,6 @@ Unterrichtung der Betroffenen veranlassen. Dies gilt nicht, wenn
 2.  die Einstellung der Zahlung einer Zeitrente für die Zeit nach dem
     Ablauf des Bewilligungszeitraums veranlaßt wird.
 
-
-
-
-
 ### § 13 Änderungen von Zahlungsdaten oder der Zahlweise durch die Berechtigten oder Zahlungsempfänger
 
 Die Berechtigten oder Zahlungsempfänger sollen
@@ -440,7 +419,6 @@ Die Berechtigten oder Zahlungsempfänger sollen
 unmittelbar dem Renten Service mitteilen. Die Berücksichtigung von
 Namensänderungen setzt voraus, daß diese dem Renten Service
 nachgewiesen werden.
-
 
 ### § 14 Änderungen von Zahlungsdaten durch Dritte
 
@@ -471,7 +449,6 @@ der Rentenversicherung weiter.
 
 (5) Der Renten Service soll die Personen oder Stellen, die von
 Änderungen nach Absatz 1 oder 2 betroffen sind, hierüber unterrichten.
-
 
 ### § 15 Zahlungseinstellung durch den Renten Service
 
@@ -519,7 +496,6 @@ unwirksam geworden ist. In der Vereinbarung ist sicherzustellen, daß
 die Betroffenen über die Zahlungseinstellung und deren Gründe
 unverzüglich unterrichtet werden.
 
-
 ### § 16 Rückforderung zu Unrecht erbrachter Geldleistungen beim Tod von Berechtigten
 
 (1) Der Renten Service fordert laufende Geldleistungen, die er für die
@@ -551,10 +527,7 @@ erbracht zurück. Dies gilt nicht, wenn
 (2) Zurückgeflossene Beträge sind in die nächste Monatsübersicht
 aufzunehmen.
 
-
 ## Drittes Kapitel - Durchführung der Anpassung von Geldleistungen
-
-
 
 ### § 17 Anpassungsauftrag
 
@@ -566,7 +539,6 @@ Rentenversicherung voraus (Anpassungsauftrag).
 sonstigen Angaben zu enthalten, die für die Anpassung und die
 Erfüllung der damit im Zusammenhang stehenden Aufgaben erforderlich
 sind.
-
 
 ### § 18 Art und Weise der Anpassung, Anpassungsmitteilung
 
@@ -606,7 +578,6 @@ dem Renten Service zu vereinbaren.
 (5) Einwendungen gegen die Anpassungsmitteilung leitet der Renten
 Service an den zuständigen Träger der Rentenversicherung weiter.
 
-
 ### § 19 Unterrichtung der Träger der Rentenversicherung und anderer Stellen
 
 (1) Der Renten Service unterrichtet die Träger der Rentenversicherung
@@ -617,10 +588,7 @@ Beträge.
 Auskunft über die sich aus der Durchführung der Anpassung ergebenden
 neuen Beträge.
 
-
 ## Viertes Kapitel - Mit der Auszahlung und der Durchführung der Anpassung von Geldleistungen zusammenhängende Aufgaben
-
-
 
 ### § 20 Aufgaben im Rahmen der sozialen Sicherung der Rentner
 
@@ -647,7 +615,6 @@ auf Verlangen
 
 (2) Die Deutsche Rentenversicherung Bund und der Renten Service regeln
 das Nähere durch Vereinbarung.
-
 
 ### § 21 Ausstellung von Ausweisen
 
@@ -685,7 +652,6 @@ Träger der Rentenversicherung oder vom Renten Service aus einem
 anderen Anlass als dem der Rentenanpassung erhalten. Absatz 2 und
 Absatz 3 Satz 1 gelten entsprechend.
 
-
 ### § 22 Erteilung von Auskünften für die Träger der Rentenversicherung
 
 (1) Der Renten Service erteilt für die Träger der Rentenversicherung
@@ -714,7 +680,6 @@ erteilt. Die erstatteten Beträge sind den Trägern der
 Rentenversicherung im Rahmen der Vergütungsabrechnung (§ 35 Abs. 3)
 gutzubringen.
 
-
 ### § 23 Einholung von Auskünften für die Träger der Rentenversicherung
 
 (1) Die Träger der Rentenversicherung können verlangen, daß der Renten
@@ -726,7 +691,6 @@ Geldleistungen durch den Renten Service erforderlich ist.
 
 (2) § 22 Abs. 2 bis 4 gilt entsprechend; an die Stelle der Erteilung
 von Auskünften tritt die Einholung von Auskünften.
-
 
 ### § 24 Überwachung der Zahlungsvoraussetzungen bei Inlandszahlungen
 
@@ -745,7 +709,6 @@ Zahlungsempfänger unzustellbar, gelten weitere Zahlungen bis zur
 Ermittlung der richtigen Anschrift als nicht ausführbar; § 10 Abs. 1
 Satz 2 bis 5 gilt entsprechend.
 
-
 ### § 25 Überwachung der Zahlungsvoraussetzungen bei Auslandszahlungen
 
 (1) Der Renten Service übernimmt bei laufenden Auslandszahlungen die
@@ -758,7 +721,6 @@ ebenso zuverlässiger Weise überwacht werden.
 
 (2) § 24 Abs. 2 gilt entsprechend.
 
-
 ### § 26 Aufgaben im Rahmen der Statistik
 
 Der Renten Service erstellt aus den bei ihm anfallenden Daten der
@@ -767,7 +729,6 @@ im Sinne des § 79 des Vierten Buches Sozialgesetzbuch für das
 Bundesministerium für Arbeit und Soziales und die Deutsche
 Rentenversicherung Bund.
 
-
 ### § 27 Sonstige Aufgaben
 
 Die Deutsche Rentenversicherung Bund und der Renten Service können
@@ -775,10 +736,7 @@ vereinbaren, daß dieser für die Träger der Rentenversicherung sonstige
 Aufgaben wahrnimmt, die mit der Auszahlung oder der Durchführung der
 Anpassung von Geldleistungen im Zusammenhang stehen.
 
-
 ## Fünftes Kapitel - Vorschüsse zur Auszahlung von Geldleistungen und Abrechnung
-
-
 
 ### § 28 Pflicht zur Zahlung monatlicher Vorschüsse
 
@@ -788,7 +746,6 @@ hat das Bundesministerium für Arbeit und Soziales, die Deutsche
 Rentenversicherung Bund und das Bundesversicherungsamt unverzüglich in
 Textform zu benachrichtigen, wenn der Bedarf für die Auszahlung von
 Geldleistungen durch die Vorschüsse nicht gedeckt ist.
-
 
 ### § 29 Höhe der Vorschüsse
 
@@ -800,7 +757,6 @@ Vorjahre unter Berücksichtigung aktueller Veränderungen zu ermitteln.
 (2) Die Höhe der Vorschüsse wird im Benehmen mit dem Renten Service
 rechtzeitig im Voraus für die allgemeine Rentenversicherung durch die
 Deutsche Rentenversicherung Bund festgesetzt.
-
 
 ### § 30 Zahlung der Vorschüsse
 
@@ -859,7 +815,6 @@ Inland fällig.
 (5) Verspätet gezahlte Vorschüsse sind mit 2 Prozentpunkten über dem
 Basiszinssatz nach § 247 des Bürgerlichen Gesetzbuchs zu verzinsen.
 
-
 ### § 31 Abrechnung
 
 (1) Der Renten Service stellt die Vorschüsse, die ausgeführten
@@ -899,10 +854,7 @@ Abrechnungsergebnisse fest und führt den sich hieraus ergebenden
 Ausgleich durch. Der Ausgleich soll bei der Festsetzung der weiteren
 Vorschüsse verrechnet werden.
 
-
 ## Sechstes Kapitel - Vergütung
-
-
 
 ### § 32 Anspruch auf angemessene Vergütung
 
@@ -933,10 +885,6 @@ Post AG ermöglicht.
 2.  bei der Wahrnehmung von Pflichtaufgaben auf Antrag gegen die Träger,
     die von dem Renten Service die Wahrnehmung der Aufgaben verlangt
     haben.
-
-
-
-
 
 ### § 33 Entgelt für die Dienstleistung des Renten Service
 
@@ -989,7 +937,6 @@ Abgleich der Sterbefallmitteilungen (§ 24 Abs. 1 Satz 1), beträgt das
 Entgelt für jede abzugleichende Rente 0,013 Euro je Bestandsfall und
 Monat.
 
-
 ### § 34 Erstattung von Auslagen für die Inanspruchnahme von Dienstleistungen Dritter
 
 (1) Die Sozialversicherungsträger erstatten dem Renten Service als
@@ -1027,7 +974,6 @@ Rahmen des Erforderlichen
 die Inanspruchnahme von Dienstleistungen Dritter so gering wie möglich
 gehalten werden.
 
-
 ### § 35 Fälligkeit, Vorschüsse und Abrechnung
 
 (1) Der Anspruch auf Vergütung wird zum Ende eines jeden
@@ -1042,25 +988,19 @@ Vorschüssen zur Auszahlung der Geldleistungen fällig.
 
 (3) Für die Abrechnung der Vorschüsse gilt § 31 entsprechend.
 
-
 ### § 36 (weggefallen)
 
 -
 
-
 ## Siebtes Kapitel - Schlußvorschriften
-
-
 
 ### § 37
 
 -
 
-
 ### § 38 Inkrafttreten
 
 Diese Verordnung tritt am 1. September 1994 in Kraft.
-
 
 ### Schlußformel
 

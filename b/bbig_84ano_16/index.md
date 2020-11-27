@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1989, 1925
 
-
-
 ## I.
 
 Auf Grund des § 84 Abs. 1 des Berufsbildungsgesetzes vom 14. August
@@ -42,11 +40,9 @@ Bundesminister des Inneren
 zur zuständigen Stelle für den Geschäftsbereich des Bundesministers
 für wirtschaftliche Zusammenarbeit.
 
-
 ## II.
 
 Diese Anordnung tritt am Tage nach der Bekanntmachung in Kraft.
-
 
 ## Schlußformel
 

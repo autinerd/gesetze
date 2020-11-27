@@ -18,15 +18,12 @@ Fundstelle
 Geändert durch
 :   Art. 1 G v. 3.7.2009 I 1686
 
-
-
 ## § 1 Errichtung und Rechtsform
 
 Unter dem Namen "Stiftung Denkmal für die ermordeten Juden Europas"
 wird eine rechtsfähige bundesunmittelbare Stiftung des öffentlichen
 Rechts mit Sitz in Berlin errichtet. Die Stiftung entsteht mit
 Inkrafttreten dieses Gesetzes.
-
 
 ## § 2 Stiftungszweck
 
@@ -57,7 +54,6 @@ und ihre Würdigung in geeigneter Weise sicherzustellen.
 Nationalsozialismus ermordeten Sinti und Roma und das Denkmal für die
 im Nationalsozialismus verfolgten Homosexuellen.
 
-
 ## § 3 Stiftungsvermögen, Gemeinnützigkeit
 
 (1) Mit dem Inkrafttreten dieses Gesetzes gehen die von der
@@ -81,7 +77,6 @@ Abgabenordnung. Es darf keine Person durch Ausgaben, die dem Zweck der
 Stiftung fremd sind, oder durch unverhältnismäßig hohe Vergütungen
 begünstigt werden.
 
-
 ## § 4 Organe der Stiftung
 
 Organe der Stiftung sind:
@@ -93,10 +88,6 @@ Organe der Stiftung sind:
 
 
 3.  der Beirat.
-
-
-
-
 
 ## § 5 Kuratorium
 
@@ -178,7 +169,6 @@ Stimme des/der Vorsitzenden den Ausschlag.
 (5) Die entsendenden Institutionen können die von ihnen entsandten
 Mitglieder abberufen und durch neue Mitglieder ersetzen.
 
-
 ## § 6 Direktor oder Direktorin
 
 (1) Der Direktor oder die Direktorin wird vom Kuratorium für fünf
@@ -189,7 +179,6 @@ Stiftung Denkmal für die ermordeten Juden Europas.
 (2) Der Direktor oder die Direktorin führt die Beschlüsse des
 Kuratoriums aus und führt die Geschäfte der Stiftung.
 
-
 ## § 7 Beirat
 
 (1) Der Beirat besteht aus mindestens zwölf Mitgliedern. Sie werden
@@ -199,19 +188,16 @@ zulässig.
 (2) Der Beirat berät das Kuratorium und den Direktor oder die
 Direktorin.
 
-
 ## § 8 Ehrenamtliche Tätigkeit
 
 Die Mitglieder des Kuratoriums und des Beirats sind ehrenamtlich
 tätig. Sie erhalten Reisekostenentschädigung nach dem
 Bundesreisekostengesetz.
 
-
 ## § 9 Beschäftigte
 
 Auf die Arbeitnehmer der Stiftung sind die für Arbeitnehmer des Bundes
 jeweils geltenden Tarifverträge und sonstigen Bestimmungen anzuwenden.
-
 
 ## § 10 Haushalt, Rechnungsprüfung, Rechtsaufsicht
 
@@ -223,13 +209,11 @@ unterliegt der Prüfung durch den Bundesrechnungshof.
 (2) Die Stiftung untersteht der Rechtsaufsicht der zuständigen
 obersten Bundesbehörde.
 
-
 ## § 11 Satzung
 
 Die Stiftung gibt sich eine Satzung, die vom Kuratorium mit einer
 Mehrheit von drei Vierteln seiner Mitglieder beschlossen wird. Das
 Gleiche gilt für Änderungen der Satzung.
-
 
 ## § 12 Dienstsiegel
 

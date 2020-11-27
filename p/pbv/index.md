@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 7 Abs. 3 G v. 20.12.2012 I 2751
 
-
 ## Eingangsformel
 
 Auf Grund des § 83 Abs. 1 Satz 1 Nr. 3 des Elften Buches
@@ -30,7 +29,6 @@ vom 24. Juni 1994 (BGBl. I S. 1377) geänderten § 330 Abs. 1 des
 Handelsgesetzbuchs verordnet das Bundesministerium der Justiz im
 Einvernehmen mit dem Bundesministerium der Finanzen und dem
 Bundesministerium für Wirtschaft:
-
 
 ## § 1 Anwendungsbereich
 
@@ -59,11 +57,9 @@ Buchführungspflichten nach dieser Verordnung auf die Leistungen
 beschränkt, für die sie nach dem Elften Buch Sozialgesetzbuch als
 Pflegeeinrichtung zugelassen ist.
 
-
 ## § 2 Geschäftsjahr
 
 Das Geschäftsjahr ist das Kalenderjahr.
-
 
 ## § 3 Buchführung, Inventar
 
@@ -75,7 +71,6 @@ gelten die §§ 238 bis 241 des Handelsgesetzbuchs.
 Bei Verwendung eines hiervon abweichenden Kontenplanes hat die
 Pflegeeinrichtung durch ein ordnungsmäßiges Überleitungsverfahren die
 Umschlüsselung auf den Kontenrahmen nach Satz 1 zu gewährleisten.
-
 
 ## § 4 Jahresabschluß
 
@@ -120,10 +115,6 @@ der Träger
     nicht möglich, haben die erforderlichen Zuordnungen zu den
     verschiedenen Leistungsbereichen auf der Grundlage von vorsichtigen
     und wirklichkeitsnahen Schätzungen zu erfolgen. § 7 bleibt unberührt.
-
-
-
-
 
 ## § 5 Einzelvorschriften zur Bilanz
 
@@ -178,13 +169,11 @@ die Abnutzung in der Zeit ab Beginn der Förderung verlangt werden
 kann, ist in der Bilanz auf der Aktivseite ein "Ausgleichsposten für
 Eigenmittelförderung" zu bilden.
 
-
 ## § 6 Aufbewahrung und Vorlegung von Unterlagen
 
 Für die Aufbewahrung von Unterlagen, die Aufbewahrungsfristen und die
 Vorlegung von Unterlagen gelten die §§ 257 und 261 des
 Handelsgesetzbuchs.
-
 
 ## § 7 Kosten- und Leistungsrechnung
 
@@ -221,10 +210,6 @@ folgende Mindestanforderungen:
     Zuordnung auf die verschiedenen Einrichtungen erfolgen; § 4 Abs. 3 Nr.
     2 Satz 2 gilt entsprechend.
 
-
-
-
-
 ## § 8 Wahlrecht für Kapitalgesellschaften
 
 (1) Pflegeeinrichtungen, die Kapitalgesellschaften im Sinne des
@@ -251,7 +236,6 @@ Anlagennachweis nach Anlage 3a nur die mit Buchstaben und römischen
 Zahlen bezeichneten Posten ausgewiesen werden müssen und daß in der
 Gewinn- und Verlustrechnung nach Anlage 2 die Posten 1 bis 8 und 10 zu
 dem Posten "Rohergebnis" zusammengefaßt werden dürfen.
-
 
 ## § 9 Befreiungen
 
@@ -311,7 +295,6 @@ Rechenschaftspflichten entsprechend. Die Auskunfts- und
 Nachweispflichten der Pflegeeinrichtungen nach dem Siebten und Achten
 Kapitel des Elften Buches Sozialgesetzbuch bleiben unberührt.
 
-
 ## § 10 Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 334 Abs. 1 Nr. 6 des Handelsgesetzbuchs
@@ -338,10 +321,6 @@ bei der Aufstellung oder Feststellung des Jahresabschlusses
 2.  entgegen § 8 Abs. 1 Satz 3 die dort bezeichneten zusätzlichen Angaben
     im Anlagennachweis nicht, nicht in der vorgeschriebenen Form oder
     nicht mit dem vorgeschriebenen Inhalt macht.
-
-
-
-
 
 ## § 11 Inkrafttreten und Übergangsvorschriften
 
@@ -418,11 +397,9 @@ Einführungsgesetzes zum Handelsgesetzbuch enthaltenen
 Übergangsregelungen entsprechend. Artikel 66 Abs. 3 Satz 6 des
 Einführungsgesetzes zum Handelsgesetzbuch gilt entsprechend.
 
-
 ## Schlußformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage 1 Gliederung der Bilanz
 
@@ -611,7 +588,6 @@ Erstattung von Fördermitteln
 ----------
 \*) Ausweis dieser Posten nur bei Kapitalgesellschaften.
 
-
 ## Anlage 2 Gliederung der Gewinn- und Verlustrechnung
 
 (Fundstelle: BGBl. I 1995, 1535 - 1536;
@@ -698,20 +674,17 @@ des Umlaufvermögens (KUGr.752) .......................  ......
 ----------
 \*) Ausweis dieser Posten nur bei Kapitalgesellschaften.
 
-
 ## Anlage 3a Anlagennachweis
 
 (Inhalt: nicht darstellbare Tabelle,
 Fundstelle: BGBl. I 1995, 1537;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-
 ## Anlage 3b Nachweis der Förderungen nach Landesrecht (Fördernachweis)
 
 (Inhalt: nicht darstellbare Tabelle,
 Fundstelle: BGBl. I 1995, 1538;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
-
 
 ## Anlage 4 Kontenrahmen für die Buchführung (Kontenklasse 0-8)
 
@@ -3152,13 +3125,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *
         \*) Ausweis dieser Posten nur bei Kapitalgesellschaften.
 
-
-
-
-
-
-
-
 ## Anlage 5 Muster, Kostenstellenrahmen für die Kosten- und Leistungsrechnung
 
 Fundstelle des Originaltextes: BGBl. I 1995, 1547
@@ -3385,10 +3351,6 @@ Fundstelle des Originaltextes: BGBl. I 1995, 1547
 *    *   97-99
 
     *   freibleibend
-
-
-
-
 
 ## Anlage 6 Muster, Kostenträgerübersicht
 

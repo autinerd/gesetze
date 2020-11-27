@@ -22,7 +22,6 @@ Fundstelle
     Berufsschule werden demnächst als Beilage im Bundesanzeiger
     veröffentlicht.
 
-
 ## Eingangsformel
 
 Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des
@@ -32,17 +31,14 @@ Berufsbildungsgesetzes vom 23. März 2005 (BGBI. I S. 931), von denen §
 Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit
 dem Bundesministerium für Bildung und Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Industrieelektriker/Industrieelektrikerin wird
 nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
-
 ## § 2 Dauer der Berufsausbildung
 
 Die Ausbildung dauert zwei Jahre.
-
 
 ## § 3 Struktur der Berufsausbildung
 
@@ -53,10 +49,6 @@ und in die Ausbildung in einer der Fachrichtungen
 
 
 2.  Geräte und Systeme.
-
-
-
-
 
 ## § 4 Ausbildungsrahmenplan, Ausbildungsberufsbild
 
@@ -136,10 +128,6 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 6.  Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse.
 
-
-
-
-
 ## § 5 Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
@@ -160,7 +148,6 @@ zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
 Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
 Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
 durchzusehen.
-
 
 ## § 6 Zwischenprüfung
 
@@ -189,10 +176,6 @@ und Bewerten von elektrischen Funktionen und Systemen statt.
 
 
 3.  die Prüfungszeit beträgt 90 Minuten.
-
-
-
-
 
 ## § 7 Abschlussprüfung
 
@@ -396,10 +379,6 @@ folgende Vorgaben:
 
 3.  die Prüfungszeit beträgt 60 Minuten.
 
-
-
-
-
 ## § 8 Gewichtung und Bestehensregelung
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
@@ -450,7 +429,6 @@ Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und
 das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2 : 1
 zu gewichten.
 
-
 ## § 9 Fortsetzung der Berufsausbildung
 
 (1) Die erfolgreich abgeschlossene Berufsausbildung zum
@@ -495,11 +473,9 @@ Ausbildungsberufen
 nach den Vorschriften des zweiten, dritten und vierten
 Ausbildungsjahres dieser Berufe fortgesetzt werden.
 
-
 ## § 10 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2009 in Kraft.
-
 
 ## Anlage 1 (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Industrieelektriker/zur Industrieelektrikerin – Sachliche Gliederung –
 
@@ -1142,13 +1118,6 @@ und Fähigkeiten in der Fachrichtung Geräte und Systeme**
 
         h)  eigenen Qualifikationsbedarf feststellen und
             Qualifizierungsmöglichkeiten nutzen
-
-
-
-
-
-
-
 
 ## Anlage 2 (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Industrieelektriker/zur Industrieelektrikerin – Zeitliche Gliederung –
 

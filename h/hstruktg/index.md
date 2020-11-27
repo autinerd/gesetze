@@ -18,21 +18,16 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 15 Abs. 81 G v. 5.2.2009 I 160
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art 1 - Bundesbesoldungsgesetz
-
-
 
 ## § 1
 
 -
-
 
 ## § 2
 
@@ -51,7 +46,6 @@ vierzigste Lebensjahr vollendet haben und deren Ehe vor dem 1. Januar
 findet § 40 Abs. 2 Nr. 2 des Bundesbesoldungsgesetzes in der
 bisherigen Fassung weiter Anwendung.
 
-
 ## § 3
 
 Überschreitet bei einem Dienstherrn der Anteil der planmäßig
@@ -59,7 +53,6 @@ angestellten Beamten den in § 26 Abs. 6 des Bundesbesoldungsgesetzes
 zugelassenen Anteil der ersten Beförderungsämter, so ist nach
 Inkrafttreten dieses Gesetzes jede freiwerdende zweite Planstelle in
 eine Planstelle des Eingangsamtes umzuwandeln.
-
 
 ## § 4
 
@@ -85,7 +78,6 @@ für Versorgungsempfänger, auch bei Wegfall des Ausgleichsbetrages nach
 Soldatenversorgungsgesetzes, sowie beim Wegfall des
 Anwärterverheiratetenzuschlages.
 
-
 ## § 5
 
 (1) Die Zulagen nach Nummern 7 und 11 der Vorbemerkungen zu den
@@ -105,24 +97,17 @@ Bayerischen Versicherungskammer kann bis zu 22 v. H. des Grundgehalts
 betragen; in gleichem Verhältnis verringern sich die Höchstbeträge der
 vergleichbaren Zulagen.
 
-
 ## § 6
 
 -
 
-
 ## Art 2 - Zweites Gesetz zur Vereinheitlichung und Neuregelung des Bundesrechts in Bund und Ländern
 
-
-
 ## Art 3 - Bundesbeamtengesetz
-
-
 
 ## § 1
 
 -
-
 
 ## § 2
 
@@ -136,64 +121,46 @@ Dienstbezüge seines zuletzt bekleideten Amtes bereits vor
 Inkrafttreten dieses Gesetzes erhalten hat, § 5 Abs. 3 und 4 des
 Beamtenversorgungsgesetzes nicht anzuwenden.
 
-
 ## Art 4 - Beamtenrechtsrahmengesetz
-
-
 
 ## Art 5 - (weggefallen)
 
 -
 
-
 ## Art 6 - Deutsches Richtergesetz
 
-
-
 ## Art 7 - Bundespolizeibeamtengesetz
-
-
 
 ## § 1
 
 -
-
 
 ## § 2
 
 Bei der Anwendung der §§ 17 und 18 des Bundespolizeibeamtengesetzes
 gilt Artikel 10 § 3 dieses Gesetzes sinngemäß.
 
-
 ## § 3
 
 Für die bei Inkrafttreten dieses Gesetzes vorhandenen
 Versorgungsempfänger bleibt der Ruhegehaltssatz unberührt.
 
-
 ## Art 8 - Gesetz über die Bundesanstalt für Flugsicherung
-
-
 
 ## § 1
 
 -
-
 
 ## § 2
 
 Für die bei Inkrafttreten dieses Gesetzes vorhandenen
 Versorgungsempfänger bleibt der Ruhegehaltssatz unberührt.
 
-
 ## Art 9 - Soldatengesetz
-
-
 
 ## § 1
 
 -
-
 
 ## § 2
 
@@ -204,20 +171,15 @@ Inkrafttreten dieses Gesetzes geltenden Fassung, wenn das Verbleiben
 im Dienst über den angekündigten Zeitpunkt hinaus zu einer
 unzumutbaren Härte führen würde.
 
-
 ## § 3
 
 Die §§ 1 und 2 gelten nicht im Land Berlin.
 
-
 ## Art 10 - Soldatenversorgungsgesetz
-
-
 
 ## § 1
 
 -
-
 
 ## § 2
 
@@ -227,7 +189,6 @@ und 3 des Haushaltsstrukturgesetzes gelten, wenn der Anspruch auf
 Berufsförderung vor dem 1. Januar 1976 entstanden ist, mit der
 Maßgabe, daß die auf Grund eines bis zu diesem Zeitpunkt gestellten
 Antrags bewilligten Maßnahmen gewährt oder weitergewährt werden.
-
 
 ## § 3
 
@@ -250,7 +211,6 @@ Soldatenversorgungsgesetzes mit der Maßgabe anzuwenden, daß die
 Übergangsbeihilfe mindestens aus dem Mehrfachen zu berechnen ist, das
 für die Wehrdienstzeit vor der Weiterverpflichtung maßgebend war.
 
-
 ## § 4
 
 Für die bei Inkrafttreten dieses Gesetzes vorhandenen
@@ -258,13 +218,11 @@ Versorgungsempfänger bleiben der Ruhegehaltssatz und das den
 ruhegehaltfähigen Dienstbezügen zugrunde liegende Grundgehalt
 unberührt.
 
-
 ## § 5
 
 Hat ein Berufssoldat die Dienstbezüge seines letzten Dienstgrades
 bereits vor Inkrafttreten dieses Gesetzes erhalten, ist § 18 des
 Soldatenversorgungsgesetzes nicht anzuwenden.
-
 
 ## § 6
 
@@ -272,43 +230,25 @@ Für die in Artikel 9 § 2 bestimmten Berufssoldaten gilt § 26 Abs. 2
 des Soldatenversorgungsgesetzes in der bis zum Inkrafttreten dieses
 Gesetzes geltenden Fassung.
 
-
 ## § 7
 
 Die §§ 1 bis 6 gelten nicht im Land Berlin.
 
-
 ## Art 11 - Sechstes Gesetz zur Änderung des Soldatenversorgungsgesetzes
-
-
 
 ## Art 12 - Wehrsoldgesetz
 
-
-
 ## Art 13 - Finanzänderungsgesetz 1967
-
-
 
 ## Art 14 - Gesetz über die Gewährung einer jährlichen Sonderzuwendung
 
-
-
 ## Art 15 - Gesetz über vermögenswirksame Leistungen für Beamte, Richter, Berufssoldaten und Soldaten auf Zeit
-
-
 
 ## Art 16 - Bundesreisekostengesetz
 
-
-
 ## Art 17 - Reichsversicherungsordnung, Angestelltenversicherungsgesetz, Reichsknappschaftsgesetz, Gesetz über die Krankenversicherung der Landwirte
 
-
-
 ## (XXXX) §§ 1 bis 4
-
-
 
 ## § 5
 
@@ -320,35 +260,21 @@ Angestelltenversicherungsgesetzes, § 60 Abs. 3 Satz 4 und 5 des
 Reichsknappschaftsgesetzes in der Fassung dieses Artikels gelten auch
 für Versicherungsfälle, die vor ihrem Inkrafttreten eingetreten sind.
 
-
 ## Art 18 - Bundesausbildungsförderungsgesetz
-
-
 
 ## (XXXX) §§ 1 bis 3
 
-
-
 ## Art 19 - Graduiertenförderungsgesetz
-
-
 
 ## Art 20 - Lohnzahlung an Feiertagen
 
-
-
 ## Art 21 - Lohnfortzahlungsgesetz
 
-
-
 ## Art 22 - Bundessozialhilfegesetz
-
-
 
 ## § 1
 
 -
-
 
 ## § 2
 
@@ -356,15 +282,11 @@ Für laufende Leistungen, die bei Inkrafttreten dieses Gesetzes nach
 den §§ 31 bis 35 des Bundessozialhilfegesetzes gewährt werden, gilt §
 141 des Bundessozialhilfegesetzes entsprechend.
 
-
 ## Art 23 - Kohlerechtliche Vorschriften über Abfindungsgeld
-
-
 
 ## § 1
 
 -
-
 
 ## § 2
 
@@ -384,15 +306,11 @@ dem Arbeitgeber gefaßten Stillegungsbeschlusses wesentliche, auf die
 Durchführung dieses Beschlusses gerichtete Maßnahmen rechtlicher,
 technischer oder organisatorischer Art getroffen worden sind.
 
-
 ## Art 24 - Bundesversorgungsgesetz
-
-
 
 ## § 1
 
 -
-
 
 ## § 2
 
@@ -401,90 +319,47 @@ für den Übergangszuschlag nach Artikel 43 des Einführungsgesetzes zum
 Einkommensteuerreformgesetz vom 21. Dezember 1974 (Bundesgesetzbl. I
 S. 3656).
 
-
 ## Art 25 - Gesetz über das Verwaltungsverfahren der Kriegsopferversorgung
-
-
 
 ## Art 26 - Vierzehntes Gesetz zur Änderung des Lastenausgleichsgesetzes
 
-
-
 ## Art 27 - Reparationsschädengesetz
-
-
 
 ## Art 28 - Allgemeines Kriegsfolgengesetz
 
-
-
 ## Art 29 - Häftlingshilfegesetz
-
-
 
 ## Art 30 - Kriegsgefangenenentschädigungsgesetz
 
-
-
 ## Art 31 - Bundesvertriebenengesetz
-
-
 
 ## Art 32 - Besatzungsschädenabgeltungsgesetz
 
-
-
 ## Art 33 - Absatzfondsgesetz
-
-
 
 ## Art 34 - Krankenhausfinanzierungsgesetz
 
-
-
 ## Art 35 - Gemeindeverkehrsfinanzierungsgesetz
-
-
 
 ## Art 36 - Spar-Prämiengesetz
 
-
-
 ## Art 37 - Wohnungsbau-Prämiengesetz
-
-
 
 ## Art 38 - Aufwertungsausgleichgesetz
 
-
-
 ## Art 39 - Umsatzsteuergesetz
-
-
 
 ## Art 40 - Körperschaftsteuergesetz
 
-
-
 ## Art 41 - Wohnungsgemeinnützigkeitsgesetz
-
-
 
 ## Art 42 - Gewerbesteuergesetz
 
-
-
 ## Art 43 - Vermögensteuergesetz
-
-
 
 ## Art 44 - Bundeskindergeldgesetz
 
-
-
 ## Art 45 - Neufassung der Gesetze
-
-
 
 ## Art 46 - Berlin-Klausel
 
@@ -492,16 +367,12 @@ Dieses Gesetz gilt nach Maßgabe der §§ 12 Abs. 1 und 13 Abs. 1 des
 Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S.
 1) auch im Land Berlin.
 
-
 ## Art 47 - Inkrafttreten
-
-
 
 ## § 1
 
 Das Gesetz tritt am 1. Januar 1976 in Kraft, soweit in § 2 nichts
 anderes bestimmt ist.
-
 
 ## § 2
 

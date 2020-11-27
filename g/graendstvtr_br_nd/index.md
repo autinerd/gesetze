@@ -30,7 +30,6 @@ Gebietsbestandes der Länder nach Artikel 29 Abs. 7 des Grundgesetzes
 vom 30. Juli 1979 (BGBl. I S. 1325) folgender Staatsvertrag über die
 Änderung der gemeinsamen Landesgrenze geschlossen:
 
-
 ## Art 1
 
 (1) Dieser Staatsvertrag ändert die gemeinsame Landesgrenze zwischen
@@ -85,7 +84,6 @@ Bremen in das Hoheitsgebiet des Landes Niedersachsen über:
 (4) Die in den Absätzen 2 und 3 genannten Anlagen 5 bis 9 sind
 Bestandteile des Staatsvertrages.
 
-
 ## Art 2
 
 (1) Das in den abgetretenen Gebieten jeweils gelegene
@@ -107,7 +105,6 @@ Hansestadt Bremen bereits gekauften 182 769 m
 2              großen Fläche insgesamt vom Land Niedersachsen an die
 Freie Hansestadt Bremen verkauft werden sollen.
 
-
 ## Art 3
 
 Die Freie Hansestadt Bremen übernimmt durch diesen Staatsvertrag die
@@ -117,7 +114,6 @@ dass sich daraus ein erhöhter Unterhaltungsaufwand für die
 vorgenannten landeseigenen Außendeichflächen ergibt. Ihr obliegen die
 bestickgemäße Herstellung und der Erhalt der dafür erforderlichen
 Küstenschutzanlagen auf bremischem Hoheitsgebiet.
-
 
 ## Art 4
 
@@ -141,13 +137,11 @@ Inkrafttreten dieses Staatsvertrages die vertraglichen Voraussetzungen
 für den Verkauf der in Artikel 2 Abs. 2 Satz 2 genannten
 Gewerbeerwartungsflächen an die Freie Hansestadt Bremen.
 
-
 ## Art 5
 
 Die Länder erklären ihre Bereitschaft, in gegenseitigem Einverständnis
 den Grenzverlauf in der Wesermündung festzulegen und in einem weiteren
 Staatsvertrag zu regeln.
-
 
 ## Art 6
 
@@ -156,7 +150,6 @@ werden ausgetauscht.
 
 (2) Dieser Vertrag tritt am Ersten des auf den Austausch der
 Ratifikationsurkunden folgenden Monats in Kraft.
-
 
 ## Schlussformel
 

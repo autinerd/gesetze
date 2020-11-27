@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BAnz: 1982, Nr 186
 
-
-
 ## I.
 
 Nach § 9 Nr. 2 des Seemannsgesetzes vom 26. Juli 1957 (BGBl. II S.
@@ -56,7 +54,6 @@ Ferner werden die Honorarkonsuln in
 
 mit der Wahrnehmung der Aufgaben nach den §§ 15 bis 17, 19 bis 21, 49,
 51, 52 und 76 des Seemannsgesetzes beauftragt.
-
 
 ## II.
 
@@ -165,10 +162,6 @@ Honorarkonsuln in
 *    *   Vestmannaeyar
 
     *   Island
-
-
-
-
 
 ## III.
 
@@ -1598,16 +1591,11 @@ Deutschland nach dem neuesten Stand veröffentlicht.
 
     *   Griechenland
 
-
-
-
-
 ## IV.
 
 Diese Bekanntmachung tritt an die Stelle der Bekanntmachungen vom 9.
 Januar 1976 (BGBl. I S. 226), 31. Januar 1977 (BGBl. I S. 285) und 13.
 Juni 1978 (BGBl. I S. 971).
-
 
 ## Schlußformel
 

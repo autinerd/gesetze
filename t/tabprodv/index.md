@@ -24,7 +24,6 @@ Angleichung der Rechts- und Verwaltungsvorschriften der
 Mitgliedstaaten über die Herstellung, die Aufmachung und den
 Verkauf von Tabakerzeugnissen (ABl. EG Nr. L 194 S. 26).
 
-
 ## Eingangsformel
 
 Auf Grund des § 21 Abs. 1 Nr. 1 Buchstabe c bis f und h bis j sowie
@@ -40,7 +39,6 @@ S. 3165) und dem Organisationserlass vom 22. Oktober 2002 (BGBl. I S.
 4206) verordnet das Bundesministerium für Verbraucherschutz, Ernährung
 und Landwirtschaft im Einvernehmen mit dem Bundesministerium für
 Wirtschaft und Arbeit:
-
 
 ## § 1 Begriffsbestimmungen
 
@@ -78,10 +76,6 @@ Im Sinne dieser Verordnung sind
     und anderer natürlicher oder nicht verarbeiteter Teile der
     Tabakpflanze.
 
-
-
-
-
 ## § 2 Teer-, Nikotin- und Kohlenmonoxidgehalt in Zigaretten
 
 Zigaretten dürfen gewerbsmäßig nur in der Weise hergestellt werden,
@@ -113,10 +107,6 @@ Zigaretten folgende Höchstmengen nicht überschreitet:
     *   10
 
     *   Milligramm je Zigarette.
-
-
-
-
 
 ## § 3 Messverfahren
 
@@ -166,7 +156,6 @@ veröffentlicht ist.
 -----
 \*) Zu beziehen durch Beuth-Verlag GmbH, Berlin und Köln.
 
-
 ## § 4 Zulassung von Prüflaboratorien
 
 (1) Prüflaboratorien, die Bestimmungen nach § 3 durchführen, müssen
@@ -198,7 +187,6 @@ Wirtschaftsraum erteilte Zulassung gleich.
 -----
 \*) Zu beziehen durch Beuth-Verlag GmbH, Berlin und Köln.
 
-
 ## § 5 Mitteilungspflichten
 
 (1) Hersteller und Einführer von Tabakerzeugnissen teilen der
@@ -226,7 +214,6 @@ geeigneter Weise bekannt. Bei der Bekanntgabe ist dem Schutz der
 Information über besondere Produktformeln, die ein Geschäftsgeheimnis
 darstellen, hinreichend Rechnung zu tragen.
 
-
 ## § 6 Angabe des Gehalts an Rauchinhaltsstoffen und der Chargennummer
 
 (1) Packungen von Zigaretten dürfen gewerbsmäßig nur in den Verkehr
@@ -239,7 +226,6 @@ müssen mindestens 10 vom Hundert der betreffenden Fläche einnehmen.
 werden, wenn auf der Verpackung die Chargennummer oder eine
 entsprechende Kennzeichnung angebracht ist, die die Feststellung des
 Ortes und des Zeitpunktes der Herstellung ermöglicht.
-
 
 ## § 7 Warnhinweise
 
@@ -284,7 +270,6 @@ verwendeten Außenverpackung, ausgenommen durchsichtige zusätzliche
 Verpackungen, aufzudrucken.
 
 (4) (weggefallen)
-
 
 ## § 8 Art der Kennzeichnung
 
@@ -336,14 +321,12 @@ werden, sofern diese nicht entfernt werden können.
 Verkehr gebracht werden, wenn die Angaben und Warnhinweise nach § 6
 Abs. 1 und § 7 den Anforderungen der Absätze 1 bis 3 entsprechen.
 
-
 ## § 9 Irreführende Angaben
 
 Auf der Verpackung von Tabakerzeugnissen dürfen Begriffe, Namen,
 Marken und bildliche oder sonstige Zeichen, die den Eindruck erwecken,
 dass ein bestimmtes Tabakerzeugnis weniger schädlich als andere sei,
 nicht verwendet werden.
-
 
 ## § 10 Straftaten und Ordnungswidrigkeiten
 
@@ -364,7 +347,6 @@ Tabakerzeugnissen oder Tabakerzeugnisse in den Verkehr bringt.
 Tabakgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen § 5
 Abs. 1 eine Mitteilung nicht, nicht richtig, nicht vollständig, nicht
 in der vorgeschriebenen Weise oder nicht rechtzeitig macht.
-
 
 ## § 11 Übergangsregelungen
 
@@ -435,16 +417,13 @@ angeboten und feilgehalten, zum Zwecke des Verkaufes an den
 Endverbraucher vorrätig gehalten sowie an den Endverbraucher abgegeben
 werden.
 
-
 ## § 12 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage (zu § 7 Abs. 2) Ergänzende Warnhinweise
 

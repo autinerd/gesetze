@@ -28,7 +28,6 @@ Bemessungsgrundlage (ABl. EG Nr. L 145 S. 1, Nr. L 149 S. 26, Nr. L
 Richtlinie 2002/38/EG des Rates vom 7. Mai 2002 (ABl. EG Nr. L 128 S.
 41).
 
-
 ## Eingangsformel
 
 Auf Grund
@@ -51,7 +50,6 @@ Auf Grund
 
 
 verordnet das Bundesministerium der Finanzen:
-
 
 ## § 1 Allgemeines
 
@@ -81,7 +79,6 @@ anzuwenden.
 (4) Die in dieser Verordnung genannten Pflichten der
 Programmhersteller sind ausschließlich öffentlich-rechtlicher Art.
 
-
 ## § 2 Schnittstellen
 
 Bei der elektronischen Übermittlung sind die hierfür aufgrund des § 1
@@ -89,7 +86,6 @@ Abs. 2 für den jeweiligen Besteuerungszeitraum oder -zeitpunkt
 bestimmten Schnittstellen ordnungsgemäß zu bedienen. Die für die
 Übermittlung benötigten Schnittstellen werden über das Internet zur
 Verfügung gestellt.
-
 
 ## § 3 Anforderungen an die Programme
 
@@ -103,7 +99,6 @@ Besteuerungsverfahren erforderlichen Daten gewährleisten.
 richtige und vollständige Erhebung, Verarbeitung und Übermittlung
 ausnahmsweise nicht möglich ist (Ausschlussfälle), ist in der
 Programmbeschreibung an hervorgehobener Stelle hinzuweisen.
-
 
 ## § 4 Prüfung der Programme
 
@@ -134,7 +129,6 @@ sind nicht verpflichtet, die Programme zu prüfen.
 hat der Hersteller den Finanzbehörden auf Verlangen Muster zum Zwecke
 der Prüfung kostenfrei zur Verfügung zu stellen.
 
-
 ## § 5 Haftung
 
 (1) Der Hersteller von Programmen, die für die Verarbeitung von für
@@ -155,7 +149,6 @@ beruht.
 
 (3) Die Absätze 1 und 2 gelten nicht für Zusammenfassende Meldungen im
 Sinne von § 18a Abs. 1 des Umsatzsteuergesetzes.
-
 
 ## § 6 Authentifizierung, Datenübermittlung im Auftrag
 
@@ -188,7 +181,6 @@ Dritte die Daten dem Auftraggeber unverzüglich in leicht nachprüfbarer
 Form zur Überprüfung zur Verfügung zu stellen. Der Auftraggeber hat
 die Daten unverzüglich zu überprüfen.
 
-
 ## § 7 Rentenbezugsmitteilungen
 
 Für das Rentenbezugsmitteilungsverfahren nach § 22a, auch in
@@ -198,11 +190,9 @@ Fassung der Bekanntmachung vom 28. Februar 2005 (BGBl. I S. 487), die
 zuletzt durch Artikel 1 der Verordnung vom 8. Januar 2009 (BGBl. I S.
 31) geändert worden ist, in der jeweils geltenden Fassung Anwendung.
 
-
 ## § 8 (weggefallen)
 
 -
-
 
 ## Schlussformel
 

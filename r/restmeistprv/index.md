@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 V v. 23.7.2010 I 1010
 
-
 ## Eingangsformel
 
 Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August
@@ -31,7 +30,6 @@ Oktober 2002 (BGBl. I S. 4206) verordnet das Bundesministerium für
 Bildung und Forschung nach Anhören des Ständigen Ausschusses des
 Bundesinstituts für Berufsbildung im Einvernehmen mit dem
 Bundesministerium für Wirtschaft und Arbeit:
-
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
 
@@ -95,7 +93,6 @@ der Nachhaltigkeit einstellen zu können:
 
 (3) Die erfolgreich abgelegte Prüfung führt zum anerkannten Abschluss
 "Geprüfter Restaurantmeister/Geprüfte Restaurantmeisterin".
-
 
 ## § 2 Zulassungsvoraussetzungen
 
@@ -175,7 +172,6 @@ auf andere Weise glaubhaft macht, Fertigkeiten, Kenntnisse und
 Erfahrungen erworben zu haben, die die Zulassung zur Prüfung
 rechtfertigen.
 
-
 ## § 3 Gliederung und Durchführung der Prüfung
 
 (1) Die Prüfung gliedert sich in die Prüfungsteile:
@@ -243,7 +239,6 @@ Qualifikationsschwerpunkte gemäß § 5 Abs. 1 und 2 beziehen.
 
 (6) Der Prüfungsteil "Praktische Prüfung" besteht aus zwei
 integrativen Situationsaufgaben nach Maßgabe des § 6 Abs. 1 und 2.
-
 
 ## § 4 Wirtschaftsbezogene Qualifikationen
 
@@ -375,7 +370,6 @@ der Regel nicht länger als 20 Minuten dauern. Die Bewertungen der
 schriftlichen Prüfungsleistung und der mündlichen Ergänzungsprüfung
 werden zu einer Note zusammengefasst. Dabei wird die Bewertung der
 schriftlichen Prüfungsleistung doppelt gewichtet.
-
 
 ## § 5 Handlungsspezifische Qualifikationen
 
@@ -546,7 +540,6 @@ die der mündlichen Ergänzungsprüfung werden zu einer Note
 zusammengefasst. Dabei wird die Bewertung der schriftlichen
 Prüfungsleistung doppelt gewichtet.
 
-
 ## § 6 Praktische Prüfung
 
 (1) Im Prüfungsteil "Praktische Prüfung" sind zwei Situationsaufgaben
@@ -604,15 +597,10 @@ Qualifikationsinhalte zu prüfen:
 
 8.  Vorbereiten und Durchführen von Gesprächen mit Gästen.
 
-
-
-
-
 ## § 7 Berufs- und arbeitspädagogische Qualifikationen
 
 Die "Berufs- und arbeitspädagogischen Qualifikationen" sind durch eine
 Prüfung gemäß der Ausbilder-Eignungsverordnung nachzuweisen.
-
 
 ## § 8 Anrechnung anderer Prüfungsleistungen
 
@@ -623,7 +611,6 @@ Stelle zu befreien, wenn eine andere vergleichbare Prüfung vor einer
 einem staatlichen Prüfungsausschuss erfolgreich abgelegt wurde und die
 Anmeldung zur Fortbildungsprüfung innerhalb von fünf Jahren nach der
 Bekanntgabe des Bestehens der anderen Prüfung erfolgt.
-
 
 ## § 9 Bewerten der Prüfungsteile und Bestehen der Prüfung
 
@@ -647,7 +634,6 @@ sowie ein Zeugnis gemäß der Anlage 2 auszustellen. Im Falle der
 Freistellung gemäß § 8 sind Ort und Datum der anderweitig abgelegten
 Prüfung sowie die Bezeichnung des Prüfungsgremiums anzugeben.
 
-
 ## § 10 Wiederholung der Prüfung
 
 (1) Ein Prüfungsteil, der nicht bestanden ist, kann zweimal wiederholt
@@ -663,18 +649,15 @@ bestandene Prüfungsleistungen zu wiederholen. Wird eine bestandene
 Prüfungsleistung erneut geprüft, ist das letzte Ergebnis zu
 berücksichtigen.
 
-
 ## § 11 Übergangsvorschrift
 
 Die bis zum Ablauf des 31. August 2009 begonnenen Prüfungsverfahren
 können nach den bisherigen Vorschriften bis zum 31. Dezember 2011 zu
 Ende geführt werden.
 
-
 ## § 12 Inkrafttreten
 
 Diese Verordnung tritt am 1. Oktober 2003 in Kraft.
-
 
 ## Anlage 1 (zu § 9 Abs. 4)
 
@@ -704,7 +687,6 @@ bestanden.
 Datum ..........................................
 Unterschrift(en) ...............................
 (Siegel der zuständigen Stelle)
-
 
 ## Anlage 2 (zu § 9 Abs. 4)
 

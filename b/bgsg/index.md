@@ -21,32 +21,20 @@ Zuletzt geändert durch
 §§ 1 bis 47 u. §§ 62 bis 74 aufgeh. durch
 :   Art. 3 Abs. 1 Satz 2 G v. 19.10.1994 I 2978 mWv 1.11.1994
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Erster Abschnitt - Aufgaben und Verwendung des Bundesgrenzschutzes
-
-
 
 ### (XXXX) §§ 1 bis 47 (weggefallen)
 
-
-
 ## Zweiter Abschnitt - Befugnisse des Bundesgrenzschutzes
-
-
 
 ## Dritter Abschnitt - Schadensausgleich
 
-
-
 ## Vierter Abschnitt - Organisation
-
-
 
 ### § 48 Heranziehung von Dienstpflichtigen
 
@@ -59,10 +47,7 @@ Grenzschutzdienstpflicht Herangezogenen (Dienstleistende) die
 Befugnisse und Pflichten von Polizeivollzugsbeamten im
 Bundesgrenzschutz.
 
-
 ## Fünfter Abschnitt - Grenzschutzdienstpflicht
-
-
 
 ### § 49 Der Grenzschutzdienstpflicht unterliegende Personen
 
@@ -94,10 +79,6 @@ kann aufgehoben werden, wenn
 2.  der Verpflichtete nach seinem bisherigen Verhalten die Ordnung oder
     die Sicherheit im Bundesgrenzschutz ernstlich gefährden würde.
 
-
-
-
-
 ### § 50 Beginn und Ende der Grenzschutzdienstpflicht
 
 (1) Die Grenzschutzdienstpflicht beginnt mit der Zustellung des
@@ -124,10 +105,6 @@ Verpflichtungsbescheides.
 2.  mit der Zustellung eines Bescheides, der die Verpflichtung zum
     Polizeivollzugsdienst im Bundesgrenzschutz aufhebt.
 
-
-
-
-
 ### § 51 Inhalt der Grenzschutzdienstpflicht
 
 Die Grenzschutzdienstpflicht umfaßt neben der Verpflichtung,
@@ -137,7 +114,6 @@ sich auf die geistige und körperliche Tauglichkeit untersuchen zu
 lassen sowie bei der Entlassung oder später zum Gebrauch im
 Grenzschutzdienst bestimmte Bekleidungs- und Ausrüstungsstücke zu
 übernehmen und aufzubewahren.
-
 
 ### § 52 Arten des Grenzschutzdienstes, Reserve
 
@@ -160,7 +136,6 @@ umfaßt
 abgeleistet haben, und frühere Polizeivollzugsbeamte im
 Bundesgrenzschutz, die zum Polizeivollzugsdienst im Bundesgrenzschutz
 verpflichtet worden sind, gehören der Grenzschutzreserve an.
-
 
 ### § 53 Zuständigkeit, Verfahren, anwendbare Vorschriften
 
@@ -186,7 +161,6 @@ Grenzschutzdienst, soweit in diesem Gesetz nichts anderes bestimmt
 ist, die Vorschriften über die Wehrpflicht und den Wehrdienst
 entsprechend anzuwenden.
 
-
 ### § 54 Grenzschutzdienstverhältnis, Gelöbnis
 
 (1) Die Dienstleistenden stehen in einem öffentlich-rechtlichen
@@ -198,10 +172,6 @@ Gelöbnis:
 *   "Ich gelobe, der Bundesrepublik Deutschland treu zu dienen, das
     Grundgesetz und alle für meinen Dienst geltenden Gesetze zu wahren und
     meine Dienstpflichten gewissenhaft zu erfüllen."
-
-
-
-
 
 ### § 55 Ernennungsbehörde, oberste Dienstbehörde, Vorgesetzte
 
@@ -220,7 +190,6 @@ Dienstleistenden für seine dienstliche Tätigkeit Anordnungen erteilen
 kann. Wer danach Dienstvorgesetzter und Vorgesetzter ist, bestimmt
 sich nach den für Polizeivollzugsbeamte im Bundesgrenzschutz geltenden
 Vorschriften.
-
 
 ### § 56 Gehorsamspflicht und Verantwortlichkeit
 
@@ -253,7 +222,6 @@ bis 3 des Gesetzes über den unmittelbaren Zwang bei Ausübung
 öffentlicher Gewalt durch Vollzugsbeamte des Bundes (UZwG)
 entsprechend anzuwenden.
 
-
 ### § 57 Anträge und Beschwerden
 
 (1) Der Dienstleistende kann Anträge und Beschwerden vorbringen;
@@ -269,7 +237,6 @@ richten. Dieser entscheidet in der Zusammensetzung nach § 120 Abs. 1
 bis 3 des Bundesbeamtengesetzes. Für das Verfahren gelten die
 Vorschriften der §§ 122 bis 124 des Bundesbeamtengesetzes
 entsprechend.
-
 
 ### § 58 Dienstvergehen, Disziplinarmaßnahmen
 
@@ -308,10 +275,6 @@ folgender Maßgabe anzuwenden:
     Bundesministers des Innern; ein Beisitzer kann auch für mehrere
     Kammern bestellt werden.
 
-
-
-
-
 ### § 59 Sonstige anwendbare Vorschriften, Grenzschutzsold
 
 (1) Soweit in diesem Gesetz nichts anderes bestimmt ist oder nach § 60
@@ -330,7 +293,6 @@ Höhe sich nach der als Anlage beigefügten Tabelle richtet.
 (3) Bei Anwendung der Absätze 1 und 2 tritt der Bundesminister des
 Innern an die Stelle des Bundesministers der Verteidigung.
 
-
 ### § 60 Rechtsverordnung über Dienstbezeichnungen, Laufbahnen, Verwendung und Beförderung
 
 Die Bundesregierung regelt durch Rechtsverordnung ohne Zustimmung des
@@ -339,7 +301,6 @@ und die Beförderung der Dienstleistenden in Anlehnung an die für
 Polizeivollzugsbeamte im Bundesgrenzschutz geltenden Vorschriften. Für
 die Angehörigen der Grenzschutzreserve können dabei zusätzliche
 Bestimmungen über das Führen der Dienstbezeichnungen getroffen werden.
-
 
 ### § 61 Ordnungswidrigkeiten
 
@@ -364,22 +325,13 @@ vorsätzlich oder fahrlässig
 (3) Verwaltungsbehörde im Sinne des § 36 des Gesetzes über
 Ordnungswidrigkeiten ist das Kreiswehrersatzamt.
 
-
 ## Sechster Abschnitt - Wahrnehmung von Aufgaben durch andere Verwaltungen
-
-
 
 ### (XXXX) §§ 62 bis 74 (weggefallen)
 
-
-
 ## Siebenter Abschnitt - Vorschriften für besondere Fälle
 
-
-
 ## Achter Abschnitt - Schluß- und Übergangsvorschriften
-
-
 
 ### Anlage (zu § 59 Abs. 2)
 

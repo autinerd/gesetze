@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 1.12.2011 I 2367
 
-
 ## Eingangsformel
 
 Auf Grund des § 9 Abs. 1 Satz 1 Nr. 2 und 6 und Abs. 3 des
@@ -27,7 +26,6 @@ Seeaufgabengesetzes in der Fassung der Bekanntmachung vom 21. Januar
 Ordnungswidrigkeiten in der Fassung der Bekanntmachung vom 19. Februar
 1987 (BGBl. I S. 602) verordnet das Bundesministerium für Verkehr im
 Einvernehmen mit dem Bundesministerium der Justiz:
-
 
 ## § 1 Anwendungsbereich
 
@@ -43,7 +41,6 @@ Fassung, die berechtigt sind, die Bundesflagge zu führen.
 Verordnung ist die Person, die mit Aufgaben der Sicherung der Seefahrt
 beauftragt ist, im Rahmen der ihr übertragenen Aufgaben und
 Befugnisse.
-
 
 ## § 2 Hilfeleistung in Seenotfällen
 
@@ -97,21 +94,17 @@ vom Such- und Rettungsdienst oder vom Schiffsführer eines anderen
 Schiffes, das diese Personen erreicht hat, mitgeteilt wird, dass eine
 Hilfeleistung nicht mehr erforderlich ist.
 
-
 ## § 3
 
 (weggefallen)
-
 
 ## § 4
 
 (weggefallen)
 
-
 ## § 5
 
 (weggefallen)
-
 
 ## § 6 Besondere Vorschriften für das Verhalten nach Zusammenstößen
 
@@ -138,7 +131,6 @@ nachgekommen ist.
 
 (3) Die Vorschriften der Absätze 1 und 2 gelten bei einem Zusammenstoß
 mit Schiffahrtseinrichtungen aller Art entsprechend.
-
 
 ## § 7 Meldung bestimmter für die Seesicherheit bedeutsamer Ereignisse
 
@@ -285,7 +277,6 @@ Seeaufgabengesetzes ist.
 auf Verlangen der Bundesstelle für Seeunfalluntersuchung verpflichtet,
 auf zugesandtem Formblatt einen ausführlichen Bericht vorzulegen.
 
-
 ## § 7a Vorschriften für das Verhalten nach meldepflichtigen Ereignissen
 
 Der nach § 7 Absatz 2 und 2a zur Meldung eines Ereignisses
@@ -310,10 +301,6 @@ Seesicherheitsuntersuchung dafür Sorge zu tragen, dass
 4.  alle Beweise für die Sicherheitsuntersuchungen des Seeunfalls
     unverzüglich eingeholt und gesichert werden.
 
-
-
-
-
 ## § 8 Schiffswegeführung - Schiffsmeldesysteme
 
 (1) Der Schiffsführer oder sonst für die Sicherheit Verantwortliche
@@ -337,7 +324,6 @@ Absatz 2 genannten Schiffsmeldesysteme in den Nachrichten für
 Seefahrer (Amtliche Veröffentlichung für die Schiffahrt des
 Bundesamtes für Seeschiffahrt und Hydrographie) nachrichtlich bekannt.
 
-
 ## § 8a Befahren des Panamakanals
 
 Der Betreiber eines Seeschiffes unter Bundesflagge, das den
@@ -351,10 +337,6 @@ Panamakanal befahren will, hat sicherzustellen, dass
 2.  die für die Durchfahrt allgemein anerkannten Regeln der Technik und
     der seemännischen Praxis eingehalten werden.
 
-
-
-
-
 ## § 9 Entscheidungsfreiheit des Schiffsführers im Interesse einer sicheren Schiffsführung
 
 Der Schiffsführer darf nicht durch den Reeder, den Charterer oder
@@ -362,7 +344,6 @@ irgendeine andere Person daran gehindert werden, eine Entscheidung zu
 treffen, die nach dem fachlichen Urteil des Schiffsführers für eine
 sichere Schiffsführung erforderlich ist, insbesondere bei schwerem
 Wetter und grober See.
-
 
 ## § 10 Ordnungswidrigkeiten
 
@@ -416,16 +397,13 @@ werden.
 Ordnungswidrigkeiten nach den Absätzen 1 und 1a wird auf die Wasser-
 und Schiffahrtsdirektionen übertragen.
 
-
 ## § 11 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
 ## Anlage 1
 
 (weggefallen)
-
 
 ## Anlage 2
 

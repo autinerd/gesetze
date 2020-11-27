@@ -21,10 +21,7 @@ Neugefasst durch
 Geändert durch
 :   Art. 10 V v. 20.12.2005 I 3499
 
-
 ## I. - Begriffsbestimmungen
-
-
 
 ### § 1
 
@@ -35,10 +32,7 @@ lebenden Bienen mit ihrer Brut und ihren Waben.
 Einrichtungen, in denen Bienenvölker gehalten werden oder gehalten
 worden sind.
 
-
 ## II. - Allgemeine Vorschriften
-
-
 
 ### § 1a
 
@@ -51,7 +45,6 @@ wird aus der für die Gemeinde der Bienenhaltung vorgesehenen amtlichen
 Schlüsselnummer des vom Statistischen Bundesamt herausgegebenen
 Gemeindeschlüsselverzeichnisses sowie einer vierstelligen
 Betriebsnummer gebildet.
-
 
 ### § 2
 
@@ -105,7 +98,6 @@ verwendet wird, mit einem Verfahren behandelt wird, durch das Erreger
 übertragbarer Bienenkrankheiten abgetötet werden, soweit dies zur
 Verhütung der Verschleppung der Amerikanischen Faulbrut notwendig ist.
 
-
 ### § 3
 
 Ist zu befürchten, dass sich die Amerikanische Faulbrut, die Acariose
@@ -114,13 +106,11 @@ Tropilaelaps-Milbe ausgebreitet hat oder ausbreitet, kann die
 zuständige Behörde eine amtliche Untersuchung aller Bienenvölker und
 Bienenstände des verdächtigen Gebietes anordnen.
 
-
 ### § 4
 
 Der Besitzer von Bienenvölkern und Bienenständen oder sein Vertreter
 ist verpflichtet, zur Durchführung von Untersuchungen die
 erforderliche Hilfe zu leisten.
-
 
 ### § 5
 
@@ -150,7 +140,6 @@ werden.
 (3) Die zuständige Behörde kann Ausnahmen von den Absätzen 1 und 2
 zulassen, wenn Belange der Seuchenbekämpfung nicht entgegenstehen.
 
-
 ### § 5a
 
 Der Besitzer von Bienenvölkern, die nur vorübergehend an einen anderen
@@ -162,7 +151,6 @@ Beisein eines von ihm Beauftragten von dem beamteten Tierarzt
 untersucht werden können, soweit eine solche Untersuchung aus Gründen
 der Seuchenbekämpfung erforderlich ist.
 
-
 ### § 5b
 
 Die zuständige Behörde kann anordnen, dass in einem Sperrbezirk, in
@@ -170,24 +158,16 @@ einem nach § 3 verdächtigen Gebiet oder einem nach § 14 Abs. 2
 bestimmten Gebiet die Besitzer von Bienenvölkern diese unter Angabe
 des Standortes der Bienenstände anzuzeigen haben.
 
-
 ## III. - Schutzmaßregeln gegen die Amerikanische Faulbrut
 
-
-
 ### 1. - Verschluss von Bienenwohnungen
-
-
 
 #### § 6
 
 Von Bienen nicht mehr besetzte Bienenwohnungen sind stets bienendicht
 verschlossen zu halten.
 
-
 ### 2. - Schutzmaßregeln vor amtlicher Feststellung der Amerikanischen Faulbrut oder des Seuchenverdachts
-
-
 
 #### § 7
 
@@ -213,10 +193,7 @@ Vertreter, den mit der Beaufsichtigung, Wartung und Pflege der
 Bienenvölker betrauten Personen, von Tierärzten und von Personen im
 amtlichen Auftrag betreten werden.
 
-
 ### 3. - Schutzmaßregeln nach amtlicher Feststellung der Amerikanischen Faulbrut
-
-
 
 #### § 8
 
@@ -289,10 +266,6 @@ Sperre:
 
 2.  Honig, der nicht zur Verfütterung an Bienen bestimmt ist.
 
-
-
-
-
 #### § 9
 
 (1) Die zuständige Behörde ordnet die Tötung der seuchenkranken
@@ -313,7 +286,6 @@ entbehrlich, wenn sich bei der Untersuchung von Futterproben, die im
 Rahmen der ersten Untersuchung zusätzlich gezogen worden sind, keine
 Anhaltspunkte für die Amerikanische Faulbrut ergeben.
 
-
 #### § 10
 
 (1) Ist die Amerikanische Faulbrut in einem Bienenstand amtlich
@@ -329,7 +301,6 @@ Standorten in dem Bienenstand geherrscht hat. Die zuständigen Behörden
 können genehmigen, dass der betroffene Bienenstand an seinen
 Heimatstandort verbracht wird; in diesem Falle ist dort ebenfalls ein
 Gebiet gemäß Absatz 1 zum Sperrbezirk zu erklären.
-
 
 #### § 11
 
@@ -378,10 +349,7 @@ Bienenwohnungen und Gerätschaften sowie Futtervorräte Ausnahmen von
 Absatz 1 zulassen, wenn eine Verschleppung der Seuche nicht zu
 befürchten ist.
 
-
 ### 4. - Aufhebung der Schutzmaßregeln
-
-
 
 #### § 12
 
@@ -421,15 +389,11 @@ Amerikanische Faulbrut erloschen ist.
 die Voraussetzungen des Absatzes 2 erfüllt sind und die Untersuchungen
 nach § 11 Abs. 1 Nr. 1 einen negativen Befund ergeben haben.
 
-
 ## IV. - Schutzmaßregeln gegen die Milbenseuche
-
-
 
 ### § 13
 
 (weggefallen)
-
 
 ### § 14
 
@@ -443,10 +407,7 @@ bestimmten Gebiet innerhalb einer von ihr bestimmten Frist alle
 Bienenvölker gegen die Milbenseuche zu behandeln sind; sie kann dabei
 die Art der Behandlung bestimmen.
 
-
 ## V. - Schutzmaßregeln gegen die Varroatose
-
-
 
 ### § 15
 
@@ -461,14 +422,9 @@ bestimmten Gebiet innerhalb einer von ihr bestimmten Frist alle
 Bienenvölker gegen Varroamilben zu behandeln sind; sie kann dabei die
 Art der Behandlung bestimmen.
 
-
 ## VI. - Schutzmaßregeln gegen den Befall mit dem Kleinen Beutenkäfer
 
-
-
 ### 1. - Allgemeine Schutzmaßregeln
-
-
 
 #### § 16
 
@@ -477,15 +433,11 @@ Wabenabfälle, Wachs und Futtervorräte so aufzubewahren sowie
 unbewohnte Bienenwohnungen so zu sichern, dass sie für den Kleinen
 Beutenkäfer nicht zugänglich sind.
 
-
 #### § 16a
 
 (weggefallen)
 
-
 ### 2. - Schutzmaßregeln vor amtlicher Feststellung des Befalls mit dem Kleinen Beutenkäfer oder des Verdachts des Befalls
-
-
 
 #### § 17
 
@@ -515,10 +467,7 @@ nur von dem Besitzer, seinem Vertreter, den mit der Beaufsichtigung,
 Wartung und Pflege der Bienenvölker betrauten Personen, von Tierärzten
 und von Personen im amtlichen Auftrag betreten werden.
 
-
 ### 3. - Schutzmaßregeln nach amtlicher Feststellung des Befalls mit dem Kleinen Beutenkäfer
-
-
 
 #### § 18
 
@@ -566,7 +515,6 @@ zur Verfütterung an Bienen bestimmt ist.
 (3) Die zuständige Behörde untersucht unverzüglich alle Bienenvölker
 im Umkreis von mindestens drei Kilometern um den betroffenen
 Bienenstand auf den Befall mit dem Kleinen Beutenkäfer.
-
 
 #### § 19
 
@@ -628,19 +576,12 @@ dass der festgestellte Befall zurückzuführen ist auf
 
     an.
 
-
-
-
-
 #### § 20
 
 Die zuständige Behörde macht den Befall mit dem Kleinen Beutenkäfer
 öffentlich bekannt.
 
-
 ### 4. - Aufhebung der Schutzmaßregeln
-
-
 
 #### § 21
 
@@ -679,17 +620,9 @@ sind.
     Abschluss der Behandlung durch die zuständige Behörde einen negativen
     Befund ergeben hat.
 
-
-
-
-
 ## VII. - Schutzmaßregeln gegen den Befall mit Tropilaelaps-Milben
 
-
-
 ### 1. - Schutzmaßregeln vor amtlicher Feststellung des Befalls mit der Tropilaelaps-Milbe oder des Verdachts des Befalls
-
-
 
 #### § 22
 
@@ -717,10 +650,7 @@ Vertreter, den mit der Beaufsichtigung, Wartung und Pflege der
 Bienenvölker betrauten Personen, von Tierärzten und von Personen im
 amtlichen Auftrag betreten werden.
 
-
 ### 2. - Schutzmaßregeln nach amtlicher Feststellung des Befalls mit der Tropilaelaps-Milbe
-
-
 
 #### § 23
 
@@ -766,7 +696,6 @@ unzugänglich aufbewahrt worden sind.
 Befallssituation die Behandlung von Bienenvölkern des befallenen
 Bienenstandes anordnen.
 
-
 #### § 24
 
 (1) Ist der Befall mit der Tropilaelaps-Milbe in einem Bienenstand
@@ -797,13 +726,7 @@ Befallssituation anordnen, dass
     Untersuchung an eine von ihr bestimmte Untersuchungseinrichtung
     einzusenden sind.
 
-
-
-
-
 ### 3. - Aufhebung der Schutzmaßregeln
-
-
 
 #### § 25
 
@@ -854,13 +777,7 @@ Absatzes 2 erfüllt sind und,
     negativen Befund auf den Befall mit der Tropilaelaps-Milbe untersucht
     worden sind.
 
-
-
-
-
 ## VIII. - Ordnungswidrigkeiten
-
-
 
 ### § 26
 
@@ -942,13 +859,7 @@ Tierseuchengesetzes handelt, wer vorsätzlich oder fahrlässig
     richtig aufbewahrt oder eine Bienenwohnung nicht oder nicht richtig
     sichert.
 
-
-
-
-
 ## IX. - Schlussvorschriften
-
-
 
 ### § 27
 

@@ -23,7 +23,6 @@ Stand: Die V tritt gem. § 4 Abs. 1 Satz 2 idF d. Art. 1 Nr. 1 V v. 9.6.1993 I 9
 Die geltung der v ist durch
 :   § 4 Abs. 1 idF d. Art. 1 Nr. 3 Buchst. a V v. 28.10.1996 I 1862 über den 31.12.1996 hinaus verlängert worden.
 
-
 ## Eingangsformel
 
 Auf Grund des § 292 des Handelsgesetzbuchs in der im Bundesgesetzblatt
@@ -33,7 +32,6 @@ Fassung, der durch Artikel 1 Nr. 8 des Gesetzes vom 19. Dezember 1985
 der Justiz im Einvernehmen mit dem Bundesminister der Finanzen und dem
 Bundesminister für Wirtschaft sowie unter Berücksichtigung der
 besonderen Rechte des Deutschen Bundestages gemäß Absatz 4:
-
 
 ## § 1
 
@@ -67,7 +65,6 @@ anderen Vertragsstaat des Abkommens über den Europäischen
 Wirtschaftsraum zur Aufstellung eines Konzernabschlusses unter
 Einbeziehung des zu befreienden Mutterunternehmens und seiner
 Tochterunternehmen verpflichtet wäre.
-
 
 ## § 2
 
@@ -150,7 +147,6 @@ EG Nr. L 374 S. 7) in ihren jeweils geltenden Fassungen zu erfolgen.
 
 (2) § 291 Abs. 3 des Handelsgesetzbuchs ist entsprechend anzuwenden.
 
-
 ## § 3
 
 In den Fällen des § 2 Nr. 2 kann das Recht eines anderen
@@ -164,7 +160,6 @@ Recht dieses Mitgliedstaates oder Vertragsstaates vorgeschriebenen
 Konzernabschlusses und Konzernlageberichts offengelegt werden. Dem
 befreienden Konzernabschluß ist eine Bestätigung über die erfolgte
 Hinterlegung in dem anderen Mitgliedstaat beizufügen.
-
 
 ## § 4
 

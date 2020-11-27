@@ -21,7 +21,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 V v. 6.7.2012 I 1481
 
-
 ## § 1 Allgemein verbotene Stoffe
 
 Die in Anlage 1 aufgeführten Stoffe dürfen bei dem gewerbsmäßigen
@@ -31,7 +30,6 @@ Hilfsstoffe, sofern sie aus dem kosmetischen Mittel vollständig oder
 soweit entfernt werden, daß sie darin nur als technisch unvermeidbare
 und technologisch unwirksame Reste in gesundheitlich unbedenklichen
 Anteilen enthalten sind.
-
 
 ## § 2 Eingeschränkt zugelassene Stoffe
 
@@ -51,7 +49,6 @@ Stoffen die in Spalte d der Anlage angegebenen Höchstmengen
 (3) Die in Anlage 2 aufgeführten Stoffe müssen den in Spalte e der
 Anlage angegebenen Reinheitsanforderungen entsprechen, wenn sie beim
 gewerbsmäßigen Herstellen kosmetischer Mittel verwendet werden.
-
 
 ## § 3 Farbstoffe
 
@@ -80,7 +77,6 @@ bis zu dem in Spalte h der Anlage festgelegten Zeitpunkt gestattet.
 (5) Die Absätze 1 bis 4 gelten nicht für kosmetische Mittel, die zur
 Verwendung als Haarfärbe- oder Haartönungsmittel bestimmt sind. \*)
 Zu beziehen durch Beuth-Verlag GmbH, Berlin und Köln.
-
 
 ## § 3a Konservierungsstoffe
 
@@ -112,7 +108,6 @@ Natrium, Kalium, Calcium, Magnesium, Ammonium und Ethanolamin sowie
 die Salze der Anionen Chlorid, Bromid, Sulfat und Azetat. Als Ester
 von Konservierungsstoffen gelten Methyl-, Ethyl-, Propyl-, Isopropyl-,
 Butyl-, Isobutyl- und Phenylester.
-
 
 ## § 3b Ultraviolett-Filter (UV-Filter)
 
@@ -153,7 +148,6 @@ bekannt. Eine Verwendung in treibmittel-basierten Sprays ist nicht
 gestattet. Kosmetische Mittel, die diesen UV-Filter enthalten, dürfen
 gewerbsmäßig nur in den Verkehr gebracht werden, wenn dieser Stoff auf
 der Verpackung mit der Bezeichnung "Zinc oxide" angegeben ist.
-
 
 ## § 3c Im Tierversuch geprüfte kosmetische Mittel
 
@@ -206,7 +200,6 @@ in Tierversuchen, für die keine alternativen Methoden geprüft worden
 sind, überprüft worden sind, noch bis zum 11. März 2013 in den Verkehr
 gebracht werden.
 
-
 ## § 4 Angaben zum Schutz der Gesundheit
 
 (1) Kosmetische Mittel dürfen gewerbsmäßig nur in den Verkehr gebracht
@@ -247,7 +240,6 @@ wird.
 
 (3) Die Angaben nach den Absätzen 1 und 2 sind unverwischbar, gut
 leserlich und deutlich sichtbar in deutscher Sprache zu machen.
-
 
 ## § 5 Kennzeichnung
 
@@ -331,7 +323,6 @@ Bestandteile verwendet haben, die in Tierversuchen zum Zweck der
 Entwicklung neuer kosmetischer Mittel durch Dritte geprüft worden
 sind.
 
-
 ## § 5a Kennzeichnung der Bestandteile
 
 (1) Der Liste der Bestandteile ist die Angabe "Bestandteile" oder die
@@ -402,10 +393,6 @@ ist auch, in dessen Auftrag ein kosmetisches Mittel hergestellt wird.
 
 3.  Lösungsmittel oder Trägerstoffe für Riech- oder Aromastoffe in Mengen,
     die technologisch erforderlich sind.
-
-
-
-
 
 ## § 5b Bereithaltung von und Zugang zu Unterlagen
 
@@ -523,7 +510,6 @@ Satz 1 gilt nicht für Betriebs- oder Geschäftsgeheimnisse.
 oder in einer anderen leicht verständlichen Sprache bereitgehalten
 werden.
 
-
 ## § 5c Gute Herstellungspraxis und Sachkenntnis
 
 (1) Bei der Herstellung kosmetischer Mittel sind die Grundsätze der
@@ -536,7 +522,6 @@ Hochschuldiplome, die eine mindestens dreijährige Berufsausbildung
 abschließen (ABl. EG Nr. L 19 S. 16) auf dem Gebiet der Pharmazie der
 Toxikologie, der Medizin, der Dermatologie, der Lebensmittelchemie,
 der Chemie oder in einem verwandten Beruf vorweisen können.
-
 
 ## § 5d Mitteilungs- und Berichtspflichten
 
@@ -593,7 +578,6 @@ berichten dem Bundesamt auf Anfrage über die Erkenntnisse, die sie auf
 Grund ihrer Tätigkeit gewonnen haben und die für die Beratung bei und
 die Behandlung von stoffbezogenen gesundheitlichen Beeinträchtigungen
 durch kosmetische Mittel von allgemeiner Bedeutung sind.
-
 
 ## § 5e Untersuchungsverfahren
 
@@ -708,7 +692,6 @@ veröffentlicht sind.
 \*)
 Zu beziehen durch Beuth-Verlag GmbH, Berlin und Köln.
 
-
 ## § 5f Ausnahmen für die Einfuhr
 
 § 15 Abs. 1 der Lebensmitteleinfuhr-Verordnung gilt entsprechend für
@@ -717,7 +700,6 @@ Stelle der Verbote des § 5 Abs. 1 Satz 1 des Lebensmittel- und
 Futtermittelgesetzbuches oder des Artikels 14 Abs. 2 Buchstabe a der
 Verordnung (EG) Nr. 178/2002 das Verbot des § 26 des Lebensmittel- und
 Futtermittelgesetzbuches tritt.
-
 
 ## § 6 Straftaten und Ordnungswidrigkeiten
 
@@ -789,10 +771,6 @@ oder fahrlässig
 2.  entgegen § 5b Abs. 3 Satz 2 oder § 5d Abs. 1 Satz 1 oder 4, jeweils
     auch in Verbindung mit Satz 5, eine Mitteilung nicht, nicht richtig
     oder nicht rechtzeitig macht.
-
-
-
-
 
 ## § 6a
 
@@ -994,11 +972,9 @@ geltenden Fassung sind noch bis zum 1. Dezember 2010 anzuwenden.
 (21) Bis zum Ablauf des 30. Oktober 2012 ist Anlage 2 Teil A Nummer 12
 in der am 16. Juli 2012 geltenden Fassung weiter anzuwenden.
 
-
 ## § 7
 
 (Inkrafttreten)
-
 
 ## Anlage 1 (zu § 1) Stoffe, die bei dem Herstellen oder Behandeln von kosmetischen Mitteln nicht verwendet werden dürfen
 
@@ -5581,10 +5557,6 @@ dem Symbol X aufgeführten Farbstoffe der Anlage 3
     Printout 1975, International Nonproprietary Names (INN) for
     pharmaceutical products, Lists 1-33 of proposed INN", veröffentlicht
     von der Weltgesundheitsorganisation, Genf, August 1975.
-
-
-
-
 
 ## Anlage 2
 
@@ -12800,10 +12772,6 @@ Spalte d nicht überschreiten.
 
 11) Als Konservierungsmittel siehe Anlage 6 Teil A Nr. 58.
 
-
-
-
-
 ## Anlage 3 (zu § 3) Farbstoffe für kosmetische Mittel
 
 Fundstelle des Originaltextes: BGBl. I 1997, 2433 - 2440;
@@ -15232,9 +15200,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 \*11) Höchstmenge beim Inverkehrbringen.
 
-
-
-
 ## Teil B
 
 *    *   Lfd. Nr.
@@ -15317,14 +15282,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
     Farbstoffe, bei denen in dieser Spalte die Zahl 5 aufgeführt ist,
     dürfen nur zur Herstellung von Nagellacken verwendet werden.
 
-
-
-
-
 ## (XXXX) Anlage 4 und 5 (weggefallen)
 
 -
-
 
 ## Anlage 6 (zu § 3a) Konservierungsstoffe für kosmetische Mittel
 
@@ -16071,9 +16031,6 @@ Teil B
     *
     *
 
-
-
-
 ## Anlage 7 (zu § 3b) Ultraviolett-Filter für kosmetische Mittel
 
    (Fundstelle des Originaltextes: BGBl. I 1997, 2445 - 2446;
@@ -16413,9 +16370,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
 
-
-
-
 ## Anlage 7a (zu § 3c) Verzeichnis der validierten Alternativen zum Tierversuch
 
    (Fundstelle des Originaltextes: BGBl. I 2005, 3480;
@@ -16443,21 +16397,15 @@ vollständig oder nur teilweise ersetzen kann.
 
     *   c
 
-
-
-
-
 ## Anlage 8 (zu § 4 Abs. 2 und § 5 Abs. 1) Hinweissymbol auf bestimmte Angaben
 
 (Inhalt: nicht darstellbare Abbildung,
 Fundstelle: BGBl. I 1997, 2447 - 2448)
 
-
 ## Anlage 8a (zu § 5 Abs. 2a) Symbol für die Angabe der Verwendungsdauer nach dem Öffnen
 
 ( Nicht darstellbare Abbildung;
 Fundstelle Originaltextes: BGBl. I 2004, 2585 )
-
 
 ## Anlage 9 (zu § 5a Abs. 5) Verfahren zur Erteilung einer Registriernummer für einen Bestandteil eines kosmetischen Mittels
 

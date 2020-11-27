@@ -18,16 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 29 G v. 8.12.2010 I 1864
 
-
 ## Eingangsformel
 
 Die Reichsregierung hat das folgende Gesetz beschlossen, das hiermit
 verkündet wird:
 
-
 ## Erster Abschnitt - Allgemeine Vorschriften
-
-
 
 ### § 1
 
@@ -35,7 +31,6 @@ verkündet wird:
 deutschen Gerichts eingetragen sind.
 
 (2) (weggefallen)
-
 
 ### § 2
 
@@ -46,7 +41,6 @@ und der Erwerber darüber einig sind, daß das Eigentum auf den Erwerber
 
 (2) Jeder Teil kann verlangen, daß ihm auf seine Kosten eine
 öffentlich beglaubigte Urkunde über die Veräußerung erteilt wird.
-
 
 ### § 3
 
@@ -67,7 +61,6 @@ in der Verfügung beschränkt wird, nachdem die Erklärung für ihn
 bindend geworden und der Antrag auf Eintragung beim Registergericht
 gestellt worden ist.
 
-
 ### § 4
 
 (1) Sind der Veräußerer und der Erwerber darüber einig, daß sich die
@@ -83,7 +76,6 @@ Bürgerlichen Gesetzbuchs anzuwenden; für den guten Glauben des
 Erwerbers ist der Zeitpunkt maßgebend, in dem der Erwerber den Besitz
 erlangt.
 
-
 ### § 5
 
 Wer als Eigentümer eines Schiffs im Schiffsregister eingetragen ist,
@@ -93,7 +85,6 @@ in Eigenbesitz gehabt hat. Die zehnjährige Frist wird in derselben
 Weise berechnet wie die Frist für die Ersitzung einer beweglichen
 Sache. Der Lauf der Frist ist gehemmt, solange ein Widerspruch gegen
 die Richtigkeit der Eintragung im Schiffsregister eingetragen ist.
-
 
 ### § 6
 
@@ -116,7 +107,6 @@ Eigentümer oder wegen des Eigentums eines Dritten ein Widerspruch
 gegen die Richtigkeit des Schiffsregisters eingetragen worden, so
 wirkt der Ausschließungsbeschluss nicht gegen den Dritten.
 
-
 ### § 7
 
 (1) Das Eigentum an einem Schiff kann dadurch aufgegeben werden, daß
@@ -126,7 +116,6 @@ der Verzicht in das Schiffsregister eingetragen wird.
 (2) Das Recht zur Aneignung des herrenlosen Schiffs steht nur dem Bund
 zu. Der Bund erwirbt das Eigentum dadurch, daß er sich als Eigentümer
 in das Schiffsregister eintragen läßt.
-
 
 ### § 8
 
@@ -142,7 +131,6 @@ aus der Schiffshypothek bestimmt sich nur nach der Forderung.
 (3) Der Bruchteil eines Schiffs kann mit einer Schiffshypothek nur
 belastet werden, wenn er in dem Anteil eines Miteigentümers besteht.
 
-
 ### § 9
 
 (1) Ein Nießbrauch kann an einem Schiff nur bestellt werden, wenn
@@ -151,7 +139,6 @@ Vermögen des Eigentümers oder an einer Erbschaft oder an einem
 Bruchteil des Vermögens oder der Erbschaft erfüllt werden soll.
 
 (2) Für die Bestellung des Nießbrauchs gilt § 3 sinngemäß.
-
 
 ### § 10
 
@@ -175,7 +162,6 @@ ist, bestimmt sich nach der Eintragung der Vormerkung.
 der Erbe des Verpflichteten nicht auf die Beschränkung seiner Haftung
 berufen.
 
-
 ### § 11
 
 (1) Die Vormerkung wird auf Grund einer einstweiligen Verfügung oder
@@ -188,7 +174,6 @@ glaubhaft gemacht zu werden.
 Anspruchs auf die einstweilige Verfügung oder die
 Eintragungsbewilligung Bezug genommen werden.
 
-
 ### § 12
 
 Steht dem, dessen Schiff oder dessen Recht von der Vormerkung
@@ -196,7 +181,6 @@ betroffen wird, eine Einrede zu, durch welche die Geltendmachung des
 durch die Vormerkung gesicherten Anspruchs dauernd ausgeschlossen
 wird, so kann er von dem Gläubiger die Beseitigung der Vormerkung
 verlangen.
-
 
 ### § 13
 
@@ -206,7 +190,6 @@ ausgeschlossen werden, wenn die in § 66 für die Ausschließung eines
 Schiffshypothekengläubigers bestimmten Voraussetzungen vorliegen. Die
 Wirkung der Vormerkung erlischt, sobald der Ausschließungsbeschluss
 rechtskräftig ist.
-
 
 ### § 14
 
@@ -220,7 +203,6 @@ erforderlich ist.
 (2) Das gleiche gilt, wenn der Anspruch durch ein Veräußerungsverbot
 gesichert ist.
 
-
 ### § 15
 
 (1) Es wird vermutet, daß Eigentümer des Schiffs ist, wer als
@@ -232,7 +214,6 @@ vermutet, daß ihm das Recht zusteht.
 
 (3) Ist ein eingetragenes Recht (Absatz 1, 2) gelöscht, so wird
 vermutet, daß es nicht mehr besteht.
-
 
 ### § 16
 
@@ -252,7 +233,6 @@ die Kenntnis des Erwerbers die Zeit der Stellung des Antrags auf
 Eintragung oder, wenn die Einigung erst später zustande kommt, die
 Zeit der Einigung maßgebend.
 
-
 ### § 17
 
 § 16 gilt sinngemäß, wenn an den, für den ein Recht (§ 16 Abs. 1 Satz
@@ -260,7 +240,6 @@ Zeit der Einigung maßgebend.
 Leistung bewirkt oder wenn zwischen ihm und einem Dritten ein anderes,
 nicht unter § 16 fallendes Rechtsgeschäft vorgenommen wird, das eine
 Verfügung über das Recht enthält.
-
 
 ### § 18
 
@@ -278,7 +257,6 @@ Berichtigung betroffen wird.
 des nach Absatz 1 Verpflichteten eingetragen worden ist, so hat dieser
 auf Verlangen sein Recht eintragen zu lassen.
 
-
 ### § 19
 
 Wer die Berichtigung verlangt, hat die Kosten der Berichtigung des
@@ -286,11 +264,9 @@ Schiffsregisters und der dazu erforderlichen Erklärungen zu tragen,
 sofern sich nicht aus einem zwischen ihm und dem Verpflichteten
 bestehenden Rechtsverhältnis etwas anderes ergibt.
 
-
 ### § 20
 
 Die in § 18 bestimmten Ansprüche unterliegen nicht der Verjährung.
-
 
 ### § 21
 
@@ -303,14 +279,12 @@ Schiffsregisters Betroffenen eingetragen. Die einstweilige Verfügung
 kann erlassen werden, ohne daß eine Gefährdung des Rechts des
 Widersprechenden glaubhaft gemacht wird.
 
-
 ### § 22
 
 Ist eine Vormerkung oder ein Widerspruch auf Grund einer einstweiligen
 Verfügung eingetragen, so erlischt die Vormerkung oder der
 Widerspruch, wenn die einstweilige Verfügung durch eine vollstreckbare
 Entscheidung aufgehoben wird.
-
 
 ### § 23
 
@@ -322,10 +296,7 @@ wiederkehrender Leistungen oder auf Schadenersatz gerichtet sind.
 Schiffsregisters eingetragen ist, steht einem eingetragenen Recht
 gleich.
 
-
 ## Zweiter Abschnitt - Eintragung und Inhalt der Schiffshypothek
-
-
 
 ### § 24
 
@@ -342,7 +313,6 @@ bekanntgemacht worden ist, so genügt zur Bezeichnung der außer den
 Zinsen satzungsmäßig zu entrichtenden Nebenleistungen die Bezugnahme
 auf die Satzung.
 
-
 ### § 25
 
 (1) Ist ein Schiff mit mehreren Schiffshypotheken belastet, so
@@ -354,7 +324,6 @@ zustande gekommen ist.
 
 (2) Eine abweichende Bestimmung des Rangverhältnisses muß in das
 Schiffsregister eingetragen werden.
-
 
 ### § 26
 
@@ -384,7 +353,6 @@ nicht berührt.
 Rangverhältnisses der Teilschiffshypotheken untereinander die
 Zustimmung des Eigentümers nicht erforderlich.
 
-
 ### § 27
 
 (1) Der Eigentümer kann sich bei der Belastung des Schiffs mit einer
@@ -405,7 +373,6 @@ Wirkung, soweit die mit dem Vorbehalt eingetragene Schiffshypothek
 infolge der Zwischenbelastung eine über den Vorbehalt hinausgehende
 Beeinträchtigung erleiden würde.
 
-
 ### § 28
 
 (1) Besteht für die Forderung eine Schiffshypothek an mehreren
@@ -424,13 +391,11 @@ Dritten belastet, so ist seine Zustimmung erforderlich; die Zustimmung
 ist dem Registergericht oder dem gegenüber zu erklären, zu dessen
 Gunsten sie erfolgt; sie ist unwiderruflich.
 
-
 ### § 29
 
 Kraft der Schiffshypothek haftet das Schiff auch für die gesetzlichen
 Zinsen der Forderung sowie für die Kosten der Kündigung und der die
 Befriedigung aus dem Schiff bezweckenden Rechtsverfolgung.
-
 
 ### § 30
 
@@ -441,7 +406,6 @@ werden, daß das Schiff für Zinsen bis zu fünf vom Hundert haftet.
 
 (2) Zu einer Änderung der Zahlungszeit und des Zahlungsorts ist die
 Zustimmung dieser Berechtigten gleichfalls nicht erforderlich.
-
 
 ### § 31
 
@@ -459,7 +423,6 @@ sind. § 1121 Abs. 2 des Bürgerlichen Gesetzbuchs gilt sinngemäß.
 an Stelle der Aufhebung der Zubehöreigenschaft die Trennung und
 Entfernung von dem Schiff tritt, sofern nicht die Entfernung nur zu
 einem vorübergehenden Zweck erfolgt.
-
 
 ### § 32
 
@@ -480,7 +443,6 @@ Frist von dem Zeitpunkt an gerechnet, in dem die Entschädigungssumme
 fällig ist. Der Gläubiger kann bis zum Ablauf der Frist dem
 Versicherer gegenüber der Zahlung widersprechen.
 
-
 ### § 33
 
 (1) Eine Zahlung des Versicherers auf die Versicherungsforderung ist
@@ -497,7 +459,6 @@ worden ist. Das gleiche gilt, soweit Verpflichtungen des Eigentümers
 erfüllt worden sind, die von der Versicherung umfaßt waren und für die
 ein der Schiffshypothek im Rang vorgehendes Schiffsgläubigerrecht
 bestand.
-
 
 ### § 34
 
@@ -534,7 +495,6 @@ jedoch dem Gläubiger gegenüber mit dem Ablauf von zwei Wochen, nachdem
 der Versicherer ihm die Unwirksamkeit mitgeteilt oder der Gläubiger
 sie in anderer Weise erfahren hat.
 
-
 ### § 35
 
 (1) Ist das Schiff bei mehreren Versicherern gemeinschaftlich
@@ -549,7 +509,6 @@ hat, die Absendung eines eingeschriebenen Briefs nach der letzten, dem
 Versicherer bekannten Wohnung des Gläubigers. Die Mitteilung wird mit
 dem Zeitpunkt wirksam, in dem sie ohne die Wohnungsänderung bei
 regelmäßiger Beförderung dem Gläubiger zugegangen sein würde.
-
 
 ### § 36
 
@@ -571,10 +530,6 @@ Verpflichtung zur Leistung deshalb frei ist, weil
 
 3.  das Schiff von dem angegebenen oder üblichen Reiseweg abgewichen ist.
 
-
-
-
-
 ### § 37
 
 Soweit der Versicherer auf Grund des § 34 Abs. 2 bis 4, § 36 den
@@ -583,7 +538,6 @@ Gläubiger befriedigt, geht die Schiffshypothek auf ihn über. Der
 oder nachstehenden Schiffshypothekengläubigers, demgegenüber die
 Verpflichtung des Versicherers zur Leistung bestehen geblieben ist,
 geltend gemacht werden.
-
 
 ### § 38
 
@@ -597,7 +551,6 @@ Gläubigers auf Erstattung der Beträge und ihrer Zinsen, die der
 Gläubiger zur Entrichtung von Prämien oder sonstigen dem Versicherer
 auf Grund des Versicherungsvertrags gebührenden Zahlungen verwendet
 hat.
-
 
 ### § 39
 
@@ -626,13 +579,11 @@ Zubehörstücke, auf welche die Schiffshypothek sich erstreckt,
 verschlechtert oder den Regeln einer ordnungsmäßigen Wirtschaft
 zuwider von dem Schiff entfernt werden.
 
-
 ### § 40
 
 Ist infolge der Einwirkung eines Dritten eine die Sicherheit der
 Schiffshypothek gefährdende Verschlechterung des Schiffs zu besorgen,
 so kann der Gläubiger gegen ihn nur auf Unterlassung klagen.
-
 
 ### § 41
 
@@ -649,7 +600,6 @@ Schuld nur beschränkt haftet.
 (2) Ist der Eigentümer nicht der Schuldner, so verliert er eine
 Einrede nicht dadurch, daß der Schuldner auf sie verzichtet.
 
-
 ### § 42
 
 (1) Hängt die Fälligkeit der Forderung von einer Kündigung ab, so ist
@@ -665,7 +615,6 @@ einen Vertreter zu bestellen, dem gegenüber der Gläubiger kündigen
 kann; das gleiche gilt, wenn sein Aufenthalt unbekannt ist oder der
 Gläubiger ohne Fahrlässigkeit nicht weiß, wer der Eigentümer ist.
 
-
 ### § 43
 
 (1) Der Eigentümer ist berechtigt, den Gläubiger zu befriedigen, wenn
@@ -674,7 +623,6 @@ zur Leistung berechtigt ist.
 
 (2) Der Eigentümer kann den Gläubiger auch durch Hinterlegung oder
 durch Aufrechnung befriedigen.
-
 
 ### § 44
 
@@ -687,13 +635,11 @@ Rechtsverhältnis bleiben unberührt.
 (2) Besteht für die Forderung eine Gesamtschiffshypothek, so gelten
 für diese die Vorschriften des § 69.
 
-
 ### § 45
 
 Der Eigentümer kann gegen Befriedigung des Gläubigers die Aushändigung
 der zur Berichtigung des Schiffsregisters oder zur Löschung der
 Schiffshypothek erforderlichen Urkunden verlangen.
-
 
 ### § 46
 
@@ -701,10 +647,7 @@ Liegen dem Eigentümer gegenüber die Voraussetzungen vor, unter denen
 ein Schuldner in Verzug kommt, so gebühren dem Gläubiger Verzugszinsen
 aus dem Schiff.
 
-
 ## Dritter Abschnitt - Die Geltendmachung der Schiffshypothek
-
-
 
 ### § 47
 
@@ -715,7 +658,6 @@ der Zwangsvollstreckung suchen.
 (2) Bei einer Gesamtschiffshypothek kann der Gläubiger die
 Befriedigung aus jedem der Schiffe ganz oder zu einem Teil suchen.
 
-
 ### § 48
 
 Bei der Verfolgung des Rechts aus der Schiffshypothek gilt zugunsten
@@ -724,7 +666,6 @@ eingetragen ist. Das Recht des nicht eingetragenen Eigentümers, die
 ihm gegen die Schiffshypothek zustehenden Einwendungen geltend zu
 machen, bleibt unberührt.
 
-
 ### § 49
 
 Solange die Forderung dem Eigentümer gegenüber nicht fällig geworden
@@ -732,7 +673,6 @@ ist, kann dieser dem Gläubiger nicht das Recht einräumen, zum Zweck
 der Befriedigung die Übertragung des Eigentums an dem Schiff zu
 verlangen oder das Schiff auf andere Weise als im Wege der
 Zwangsvollstreckung zu veräußern.
-
 
 ### § 50
 
@@ -752,10 +692,7 @@ dem Dritten bestehenden Rechtsverhältnis bleiben unberührt.
 
 (3) § 45 gilt sinngemäß.
 
-
 ## Vierter Abschnitt - Übertragung, Änderung und Erlöschen der Schiffshypothek
-
-
 
 ### § 51
 
@@ -768,7 +705,6 @@ Schiffshypothek kann nicht ohne die Forderung übertragen werden.
 (3) Zur Abtretung der Forderung ist die Einigung des bisherigen und
 des neuen Gläubigers hierüber und die Eintragung in das
 Schiffsregister erforderlich; § 3 Abs. 2, 3 gilt sinngemäß.
-
 
 ### § 52
 
@@ -784,7 +720,6 @@ der Eigentümer von der Übertragung Kenntnis erlangt, oder dem
 folgenden Vierteljahr fällig werden, kann sich der Gläubiger gegenüber
 den in Abs. 1 bezeichneten Einreden nicht auf § 16 berufen.
 
-
 ### § 53
 
 (1) Soweit die Forderung auf Rückstände von Zinsen oder andere
@@ -799,7 +734,6 @@ Vorschriften.
 Schiffsregisters gelten für die in Absatz 1 bezeichneten Ansprüche
 nicht.
 
-
 ### § 54
 
 (1) Zur Änderung des Inhalts der Schiffshypothek ist die Einigung des
@@ -811,7 +745,6 @@ erforderlich; § 3 Abs. 2, 3, § 24 gelten sinngemäß.
 ist seine Zustimmung erforderlich. Die Zustimmung ist dem
 Registergericht oder demgegenüber zu erklären, zu dessen Gunsten sie
 erfolgt; sie ist unwiderruflich.
-
 
 ### § 55
 
@@ -825,7 +758,6 @@ Abs. 2 gelten sinngemäß.
 treten soll, nicht dem bisherigen Schiffshypothekengläubiger zu, so
 ist seine Zustimmung erforderlich; § 54 Abs. 2, § 56 Abs. 2, 3 gelten
 sinngemäß.
-
 
 ### § 56
 
@@ -849,7 +781,6 @@ bindend geworden und der Antrag auf Eintragung bei dem Registergericht
 gestellt worden ist.
 
 (4) § 54 Abs. 2 gilt auch hier.
-
 
 ### § 57
 
@@ -879,14 +810,12 @@ Gläubiger verbleibende Teil der Schiffshypothek den Vorrang vor einer
 von dem Eigentümer auf Grund seiner Befugnis bestellten
 Schiffshypothek.
 
-
 ### § 58
 
 Verpflichtet sich der Eigentümer einem anderen gegenüber, die
 Schiffshypothek löschen zu lassen, wenn die Forderung erlischt, so
 kann zur Sicherung des Anspruchs auf Löschung eine Vormerkung in das
 Schiffsregister eingetragen werden.
-
 
 ### § 59
 
@@ -903,14 +832,12 @@ dem Gläubiger verbleibende Teil der Schiffshypothek den Vorrang.
 (3) Der Befriedigung des Gläubigers steht es gleich, wenn sich
 Forderung und Schuld in einer Person vereinigen.
 
-
 ### § 60
 
 Gibt der Gläubiger die Schiffshypothek auf oder verzichtet er auf sie
 oder räumt er einer anderen Schiffshypothek den Vorrang ein, so wird
 der Schuldner frei, soweit er ohne diese Verfügung nach § 59 aus der
 Schiffshypothek hätte Ersatz erlangen können.
-
 
 ### § 61
 
@@ -922,7 +849,6 @@ bei der Zwangsversteigerung verweigern, soweit er infolge der
 Unterlassung der Benachrichtigung einen Schaden erleidet. Die
 Benachrichtigung darf unterbleiben, wenn sie untunlich ist.
 
-
 ### § 62
 
 Hat der Schuldner dadurch, daß er den Gläubiger befriedigt hat, die
@@ -931,13 +857,11 @@ rechtliches Interesse an der Berichtigung des Schiffsregisters, so
 kann er verlangen, daß der Gläubiger die zur Berichtigung des
 Schiffsregisters erforderlichen Urkunden ihm aushändigt.
 
-
 ### § 63
 
 Steht dem Eigentümer eine Einrede zu, durch welche die Geltendmachung
 der Schiffshypothek dauernd ausgeschlossen wird, so kann er verlangen,
 daß der Gläubiger auf die Schiffshypothek verzichtet.
-
 
 ### § 64
 
@@ -949,7 +873,6 @@ oder zugunsten eines Dritten als bestehend gilt. Der Eigentümer kann
 als Gläubiger nicht die Zwangsvollstreckung in das Schiff betreiben;
 Zinsen aus dem Schiff gebühren ihm nicht.
 
-
 ### § 65
 
 (1) Ist eine Schiffshypothek im Schiffsregister mit Unrecht gelöscht,
@@ -958,7 +881,6 @@ verjährt ist.
 
 (2) Das gleiche gilt, wenn eine kraft Gesetzes entstandene
 Schiffshypothek nicht in das Schiffsregister eingetragen worden ist.
-
 
 ### § 66
 
@@ -974,7 +896,6 @@ die Frist nicht vor dem Ablauf des Zahlungstags.
 
 (2) Mit der Rechtskraft des Ausschließungsbeschlusses erlischt die
 Schiffshypothek. § 57 Abs. 3 gilt auch in diesem Falle.
-
 
 ### § 67
 
@@ -998,7 +919,6 @@ Ausschließungsbeschlusses, wenn nicht der Gläubiger sich vorher bei
 der Hinterlegungsstelle meldet; der Hinterleger ist zur Rücknahme
 berechtigt, auch wenn er auf das Recht zur Rücknahme verzichtet hat.
 
-
 ### § 68
 
 (1) Erlischt eine Gesamtschiffshypothek, so steht die Befugnis nach §
@@ -1017,7 +937,6 @@ den Vorschriften der Schiffsregisterordnung entsprechende Erklärung
 Gläubiger verbleibende Teil der Schiffshypothek den Vorrang vor einer
 von einem der Eigentümer auf Grund seiner Befugnis bestellten
 Schiffshypothek.
-
 
 ### § 69
 
@@ -1054,7 +973,6 @@ Forderung und Schuld in der Person des Eigentümers vereinigen.
 mit einer Gesamtschiffshypothek belasteten Schiffe befriedigt, so gilt
 Absatz 2 Satz 1 sinngemäß.
 
-
 ### § 70
 
 (1) Kann bei einer Gesamtschiffshypothek der Schuldner im Fall des §
@@ -1072,7 +990,6 @@ Maßgabe, daß der auf den Schuldner übergegangene Teilbetrag der
 Schiffshypothek den nach § 68 Abs. 1 Satz 2 vorweg in Abzug zu
 bringenden Belastungen hinzuzurechnen ist.
 
-
 ### § 71
 
 Verzichtet der Gläubiger einer Gesamtschiffshypothek nur an einem der
@@ -1081,10 +998,7 @@ Schiffs die Befugnis nach § 57 Abs. 3 nicht zu. Gleiches gilt, wenn
 der Gläubiger nach § 66 mit seinem Recht an einem der Schiffe
 ausgeschlossen wird.
 
-
 ## Fünfter Abschnitt - Schiffshypothek für Inhaber- und Orderpapiere, Höchstbetragsschiffshypothek
-
-
 
 ### § 72
 
@@ -1101,7 +1015,6 @@ die Schuldverschreibung vorgelegt oder der Anspruch aus der Urkunde
 gerichtlich geltend gemacht worden, so kann die Ausschließung erst
 erfolgen, wenn die Verjährung eingetreten ist.
 
-
 ### § 73
 
 Ist die Schiffshypothek für eine Forderung aus einer
@@ -1109,7 +1022,6 @@ Schuldverschreibung auf den Inhaber, aus einem Wechsel oder aus einem
 anderen Papier, das durch Indossament übertragen werden kann,
 bestellt, so bestimmt sich die Abtretung der Forderung nach den für
 die Abtretung dieser Forderungen geltenden allgemeinen Vorschriften.
-
 
 ### § 74
 
@@ -1125,7 +1037,6 @@ werden.
 (2) Ist der Eigentümer berechtigt, von dem Gläubiger eine Verfügung zu
 verlangen, zu welcher der Vertreter befugt ist, so kann er die
 Vornahme der Verfügung von dem Vertreter verlangen.
-
 
 ### § 75
 
@@ -1144,10 +1055,7 @@ Schiffshypothek ausgeschlossen.
 
 (4) (weggefallen)
 
-
 ## Sechster Abschnitt - Die Schiffshypothek an Schiffsbauwerken und Schwimmdocks
-
-
 
 ### § 76
 
@@ -1162,7 +1070,6 @@ werden, wenn es nach der Fertigstellung als Seeschiff nicht mehr als
 fünfzig Kubikmeter Bruttoraumgehalt haben oder als Binnenschiff zur
 Eintragung in das Binnenschiffsregister nicht geeignet sein wird.
 
-
 ### § 77
 
 Zur Bestellung einer Schiffshypothek an einem Schiffsbauwerk ist an
@@ -1171,13 +1078,11 @@ Register für Schiffsbauwerke erforderlich. Für die Schiffshypothek
 gelten die §§ 8, 10 bis 75, soweit sich nicht aus den Vorschriften
 dieses Abschnitts etwas anderes ergibt.
 
-
 ### § 78
 
 Ist die Schiffshypothek in das Register für Schiffsbauwerke
 eingetragen, so gelten vom Zeitpunkt der Eintragung die §§ 3 bis 7
 auch für das Schiffsbauwerk sinngemäß.
-
 
 ### § 79
 
@@ -1188,20 +1093,17 @@ Einbau bestimmten und als solche gekennzeichneten Bauteile mit
 Ausnahme der Bauteile, die nicht in das Eigentum des Eigentümers des
 Schiffsbauwerks gelangt sind. § 31 Abs. 2 gilt sinngemäß.
 
-
 ### § 80
 
 Auf die Versicherungsforderung erstreckt sich die Schiffshypothek nur,
 wenn der Eigentümer für das Schiffsbauwerk eine besondere Versicherung
 genommen hat.
 
-
 ### § 81
 
 Die an dem Schiffsbauwerk bestellte Schiffshypothek bleibt nach der
 Fertigstellung des Schiffs mit ihrem bisherigen Rang an dem Schiff
 bestehen.
-
 
 ### § 81a
 
@@ -1211,10 +1113,7 @@ entsprechend. Bei im Bau befindlichen Schwimmdocks sind auch die
 Vorschriften des § 76 Abs. 2 Satz 1 und der §§ 79, 81 sinngemäß
 anzuwenden.
 
-
 ## Siebenter Abschnitt - Nießbrauch
-
-
 
 ### § 82
 
@@ -1228,19 +1127,13 @@ unter Angabe eines früheren Tages eingetragene Recht hat den Vorrang;
 Rechte, die unter Angabe desselben Tages eingetragen sind, haben
 gleichen Rang. § 25 Abs. 2, §§ 26, 27, 65 gelten sinngemäß.
 
-
 ## Achter Abschnitt - Schlußvorschriften
 
-
-
 ### § 83 (weggefallen)
-
-
 
 ### § 84
 
 Dieses Gesetz tritt am 1. Januar 1941 in Kraft;
-
 
 ### Anhang EV Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet B Abschnitt III (BGBl. II 1990, 889, 954)
 

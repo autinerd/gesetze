@@ -19,22 +19,18 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 Nr. 6 G v. 27.4.2002 I 1464
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art 1
 
 -
 
-
 ## Art 2
 
 (weggefallen)
-
 
 ## Art 3
 
@@ -50,12 +46,10 @@ Nummer 13 des Schlußprotokolls zum Abkommen. Die Erstattung und Umlage
 führt der Hauptverband der gewerblichen Berufsgenossenschaften e.V.
 als Verbindungsstelle für die Unfallversicherung durch.
 
-
 ## Art 4
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
-
 
 ## Art 5
 

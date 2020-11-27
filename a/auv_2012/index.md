@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 2349
 
-
 ## Eingangsformel
 
 Auf Grund des § 14 Absatz 1 des Bundesumzugskostengesetzes in der
@@ -25,16 +24,13 @@ I S. 160) verordnet das Auswärtige Amt im Einvernehmen mit dem
 Bundesministerium des Innern, dem Bundesministerium der Verteidigung
 und dem Bundesministerium der Finanzen:
 
-
 ## Abschnitt 1 - Allgemeines
-
 
 ### § 1 Regelungsgegenstand
 
 Diese Verordnung regelt die bei Auslandsumzügen erforderlichen
 Abweichungen von den allgemein für Beamtinnen und Beamte des Bundes
 geltenden Vorschriften über die Umzugskostenvergütung.
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -82,7 +78,6 @@ Gemeinschaft der berechtigten Person gehören.
 Eigentümer oder Hauptmieterin oder Hauptmieter die berechtigte Person
 oder eine berücksichtigungsfähige Person ist.
 
-
 ### § 3 Antrag und Anzeigepflicht
 
 (1) Die Ausschlussfrist für die Beantragung der Umzugskostenvergütung
@@ -94,7 +89,6 @@ Verhältnisse, die die Höhe der Umzugskostenvergütung beeinflussen
 kann, unverzüglich anzuzeigen. Entsprechendes gilt für Rabatte, Geld-
 und Sachzuwendungen sowie für unentgeltliche Leistungen. Leistungen
 von dritter Seite sind anzurechnen.
-
 
 ### § 4 Bemessung der Umzugskostenvergütung, berücksichtigungsfähige Kosten
 
@@ -136,12 +130,9 @@ geplant durchgeführt wird.
 (5) Kosten werden nur berücksichtigt, soweit sie notwendig und
 nachgewiesen sind.
 
-
 ## Abschnitt 2 - Erstattungsfähige Kosten
 
-
 ### Unterabschnitt 1 - Beförderung und Lagerung des Umzugsguts
-
 
 #### § 5 Umzugsgut
 
@@ -179,7 +170,6 @@ erteilt, um mit diesen Einrichtungsgegenständen eine nicht
 ausgestattete Wohnung beziehen zu können, werden die
 Beförderungsauslagen erstattet.
 
-
 #### § 6 Umzugsvolumen
 
 (1) Der berechtigten Person werden Beförderungsauslagen für ein
@@ -202,7 +192,6 @@ die Volumengrenzen nach Absatz 1 herabsetzen.
 
 (4) Der Dienstherr kann eine amtliche Vermessung des Umzugsguts
 veranlassen.
-
 
 #### § 7 Personenkraftfahrzeuge
 
@@ -230,14 +219,12 @@ Fahrzeugs aus Deutschland zum neuen Dienstort erstatten, wenn
 bezüglich des bisher genutzten Fahrzeugs sowohl die Einfuhr am neuen
 Dienstort als auch der Verkauf am bisherigen Dienstort verboten sind.
 
-
 #### § 8 Tiere
 
 Beförderungsauslagen für bis zu zwei Haustiere werden erstattet,
 soweit diese üblicherweise in der Wohnung gehalten werden. Kosten für
 Transportbehältnisse, Tierheime, Quarantäne und andere Nebenkosten
 werden nicht erstattet.
-
 
 #### § 9 Zwischenlagern von Umzugsgut
 
@@ -250,7 +237,6 @@ Leerraumwohnung am neuen Dienstort beziehen kann.
 (2) Diese Auslagen werden für die Zeit vom Tag des Einladens des
 Umzugsguts bis zum Tag des Ausladens des Umzugsguts in der endgültigen
 Wohnung erstattet.
-
 
 #### § 10 Lagern von Umzugsgut
 
@@ -304,9 +290,7 @@ berücksichtigungsfähige Person erstattet werden. Insgesamt können bei
 Übersteigen der Volumengrenzen nach § 6 Absatz 1 Kosten für das Lagern
 von bis zu 50 Kubikmetern Umzugsgut erstattet werden.
 
-
 ### Unterabschnitt 2 - Reisen
-
 
 #### § 11 Wohnungsbesichtigungsreise, Umzugsabwicklungsreise
 
@@ -336,7 +320,6 @@ eine gemeinsame Reise zu.
 
 (3) Auslagen für eine Wohnungsbesichtigungsreise zu einer
 Dienstwohnung werden nicht erstattet.
-
 
 #### § 12 Umzugsreise
 
@@ -398,7 +381,6 @@ Abreise vom bisherigen Dienstort bis zur Ankunft am neuen Dienstort.
 (7) Für die berücksichtigungsfähigen Personen gilt Absatz 6
 entsprechend.
 
-
 #### § 13 Reisegepäck
 
 (1) Die Auslagen für die Beförderung unbegleiteten Reisegepäcks
@@ -430,12 +412,7 @@ Prozent der Gewichtsgrenzen nach Absatz 1 erstattet, wenn
 2.  die oberste Dienstbehörde vor der Aufgabe des Gepäcks der Erstattung
     zugestimmt hat.
 
-
-
-
-
 ### Unterabschnitt 3 - Wohnung
-
 
 #### § 14 Vorübergehende Unterkunft
 
@@ -485,10 +462,6 @@ geleistet, an denen die berechtigte Person
 
 
 3.  Auslandstrennungsgeld oder vergleichbare Leistungen erhält.
-
-
-
-
 
 #### § 15 Mietentschädigung
 
@@ -552,7 +525,6 @@ Miete tritt der ortsübliche Mietwert der Wohnung. Entsprechendes gilt
 für die eigene Garage. Für die neue Wohnung im eigenen Haus oder die
 neue Eigentumswohnung wird keine Mietentschädigung gewährt.
 
-
 #### § 16 Wohnungsbeschaffungskosten
 
 (1) Gutachterkosten, Maklerkosten, ortsübliche
@@ -589,7 +561,6 @@ berechtigten Person nicht zu vertretenden Härte führt, kann die
 oberste Dienstbehörde eine Leistung zur Milderung der Härte gewähren.
 Die Entscheidung ist besonders zu begründen und zu dokumentieren.
 
-
 #### § 17 Technische Geräte
 
 (1) Müssen beim Bezug der neuen Wohnung aufgrund der örtlichen
@@ -605,9 +576,7 @@ zu warten.
 zur Verfügung zu stellen oder den nach Absatz 1 erstatteten Betrag
 zurückzuzahlen.
 
-
 ### Unterabschnitt 4 - Pauschalen und zusätzlicher Unterricht
-
 
 #### § 18 Umzugspauschale
 
@@ -728,7 +697,6 @@ Fall gilt eine der beiden Personen als berücksichtigungsfähige Person
 nach § 2 Absatz 1 Nummer 1 oder Nummer 2. Sind die Pauschalen der
 berechtigten Personen unterschiedlich hoch, wird die höhere gezahlt.
 
-
 #### § 19 Ausstattungspauschale
 
 (1) Bei der ersten Verwendung im Ausland erhält die verheiratete oder
@@ -791,7 +759,6 @@ erhalten keine Ausstattungspauschale.
 
 (6) § 18 Absatz 9 gilt entsprechend.
 
-
 #### § 20 Einrichtungspauschale
 
 (1) Bei der Bestellung zur Leiterin oder zum Leiter einer
@@ -843,7 +810,6 @@ aufzubewahren und der obersten Dienstbehörde auf Verlangen vorzulegen.
 (8) Das Bundesministerium der Verteidigung kann bestimmen, dass die
 Absätze 1 bis 7 in seinem Geschäftsbereich auch für sonstige
 berechtigte Personen in vergleichbaren Dienststellungen gelten.
-
 
 #### § 21 Pauschale für klimagerechte Kleidung
 
@@ -919,7 +885,6 @@ Dienstort Auslandsdienstbezüge erhält.
 
 (6) § 18 Absatz 9 gilt entsprechend.
 
-
 #### § 22 Zusätzlicher Unterricht
 
 (1) Benötigt ein berücksichtigungsfähiges Kind aufgrund des Umzugs
@@ -935,9 +900,7 @@ Kosten erstattet werden, wenn die Anwendung des Satzes 1 für eine
 berechtigte Person mit häufigen Auslandsverwendungen eine unzumutbare
 Härte bedeuten würde.
 
-
 ## Abschnitt 3 - Sonderfälle
-
 
 ### § 23 Umzug am ausländischen Dienstort
 
@@ -966,7 +929,6 @@ Nummer 2 bis 4 des Bundesumzugskostengesetzes oder in den Fällen des §
 den Umzug in eine vorläufige Wohnung Umzugskostenvergütung, wenn der
 Dienstherr die neue Wohnung vorher schriftlich als vorläufige Wohnung
 anerkannt hat.
-
 
 ### § 24 Umzugsbeihilfe
 
@@ -1030,10 +992,6 @@ im Ausland.
     ausländischen Dienstort bis zur Höhe der Kosten für eine Rückkehr an
     den letzten inländischen Dienstort.
 
-
-
-
-
 ### § 25 Widerruf der Zusage der Umzugskostenvergütung
 
 (1) Die Zusage der Umzugskostenvergütung kann ganz oder teilweise
@@ -1092,7 +1050,6 @@ insoweit zurückzuzahlen, als die Zusage widerrufen worden ist.
 (6) Bei Rücknahme, Aufhebung oder Erledigung der Zusage der
 Umzugskostenvergütung auf andere Weise gelten die Absätze 3 bis 5
 entsprechend.
-
 
 ### § 26 Umzugskostenvergütung bei einer Auslandsverwendung von bis zu zwei Jahren
 
@@ -1201,7 +1158,6 @@ beginnt die Ausschlussfrist nach § 3 Absatz 1 für die Zahlung der
 zusätzlichen Umzugskostenvergütung an dem Tag, an dem der berechtigten
 Person die Verlängerung ihrer Verwendung bekannt gegeben wird.
 
-
 ### § 27 Rückführung aus Gefährdungsgründen
 
 (1) Sind an einem ausländischen Dienstort Leben oder Gesundheit der
@@ -1242,7 +1198,6 @@ und von der Maßnahme betroffenen berechtigten Personen.
 Absatz 6, wenn außer dem Reisegepäck Teile des Hausrats zurückgeführt
 werden müssen und sich die Zusage der Umzugskostenvergütung hierauf
 erstreckt.
-
 
 ### § 28 Umzug bei Beendigung des Beamtenverhältnisses
 
@@ -1286,9 +1241,7 @@ Beförderungsmittel erstattet werden, höchstens jedoch die
 Beförderungsauslagen und Fahrtkosten, die durch einen Umzug an den
 Sitz der obersten Dienstbehörde entstanden wären.
 
-
 ## Abschnitt 4 - Schlussvorschriften
-
 
 ### § 29 Übergangsregelungen
 
@@ -1313,7 +1266,6 @@ angetreten, bemisst sich die Höhe des Ausstattungs- und des
 Einrichtungsbeitrags nach den §§ 12 und 13 der
 Auslandsumzugskostenverordnung in der am 30. Juni 2010 geltenden
 Fassung und dem Bundesbesoldungsgesetz.
-
 
 ### § 30 Inkrafttreten, Außerkrafttreten
 

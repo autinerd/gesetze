@@ -30,10 +30,7 @@ absichtliche Freisetzung genetisch veränderter Organismen in die
 Umwelt an den
 technischen Fortschritt (ABl. EG Nr. L 169 S. 72).
 
-
 ## 1. Abschnitt - Allgemeines
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -129,20 +126,12 @@ Diese Verordnung regelt Einzelheiten des Verfahrens
     b)  der Durchführung weiterer gentechnischer Arbeiten der Sicherheitsstufe
         2 nach § 9 Abs. 2 Satz 1 des Gentechnikgesetzes.
 
-
-
-
-
-
-
-
 ### § 2 Beratung
 
 Sobald der Betreiber die zuständige Behörde über das geplante
 gentechnische Vorhaben unterrichtet, soll diese ihn im Hinblick auf
 die Antragstellung oder auf eine notwendige Anzeige oder Anmeldung
 beraten.
-
 
 ### § 3 Formvorschriften
 
@@ -153,10 +142,7 @@ Ausfertigungen einzureichen. Die zuständige Behörde kann die
 Verwendung von Vordrucken für die Anzeige, die Anmeldung oder den
 Genehmigungsantrag und die Unterlagen verlangen.
 
-
 ## 2. Abschnitt - Anforderungen an Unterlagen
-
-
 
 ### § 4 Unterlagen für gentechnische Anlagen, erstmalige oder weitere gentechnische Arbeiten
 
@@ -206,7 +192,6 @@ vorzulegen, die einen Überblick über die Anlage, ihren Betrieb und die
 darin durchzuführenden Arbeiten sowie die voraussichtlichen
 Auswirkungen auf die in § 1 Nr. 1 des Gentechnikgesetzes genannten
 Rechtsgüter ermöglicht.
-
 
 ### § 5 Unterlagen bei Freisetzungen
 
@@ -285,7 +270,6 @@ gesammelt worden sind.
 
 (4) (weggefallen)
 
-
 ### § 6 Unterlagen bei Inverkehrbringen
 
 (1) Für folgende der in § 15 Abs. 3 Satz 3 des Gentechnikgesetzes
@@ -360,7 +344,6 @@ Verwendung eines gemäß Absatz 1 Nr. 1 beschriebenen Produkts kein
 Risiko für eines der in § 1 Nr. 1 des Gentechnikgesetzes genannten
 Rechtsgüter verbunden ist.
 
-
 ### § 7 Ausnahmen von Angaben und Maßnahmen
 
 Kommen einzelne nach den §§ 4 bis 6 und den dazu bestehenden Anlagen
@@ -370,7 +353,6 @@ Informationen zu solchen Angaben und Maßnahmen technisch unmöglich
 oder erscheinen sie nicht erforderlich, so sind jeweils die Gründe
 hierfür anzugeben.
 
-
 ### § 8 Unterlagen für eingeschlossene Entscheidungen
 
 Art und Umfang der einem Antrag auf Erteilung einer Anlagengenehmigung
@@ -379,10 +361,7 @@ Gentechnikgesetzes im Einzelfall eingeschlossenen behördlichen
 Entscheidungen bestimmen sich nach den dafür jeweils maßgeblichen
 Rechtsvorschriften.
 
-
 ## 3. Abschnitt - Genehmigungsverfahren
-
-
 
 ### § 9 Beteiligung anderer Stellen
 
@@ -405,13 +384,11 @@ bis zum Ablauf der Frist keine Stellungnahme abgegeben, so kann die
 Genehmigungsbehörde davon ausgehen, daß die Stelle oder Fachbehörde
 sich nicht äußern will.
 
-
 ### § 10 Bewertungsbericht
 
 Der Bewertungsbericht nach § 16 Abs. 3 Satz 2 des Gentechnikgesetzes
 ist nach Maßgabe des Anhangs VI der Richtlinie 2001/18/EG zu
 erstellen.
-
 
 ### § 11 Vereinfachtes Verfahren für Freisetzungen
 
@@ -436,7 +413,6 @@ Genehmigung für mehrere Freisetzungen beantragen. Hinsichtlich des
 Verfahrens, insbesondere der bei der Antragstellung zu machenden
 Angaben, gelten die Bestimmungen der Entscheidung 94/730/EG.
 
-
 ### § 12 Form der Entscheidung, Bekanntgabe
 
 (1) Für die Form der Entscheidung sowie deren Bekanntgabe und
@@ -457,34 +433,25 @@ entsprechend für Entscheidungen im Sinne des § 14 Abs. 5 des
 Gentechnikgesetzes; diesen Entscheidungen ist eine deutsche
 Übersetzung beizufügen.
 
-
 ## 4. Abschnitt - (weggefallen)
-
-
 
 ### § 13 (weggefallen)
 
 -
 
-
 ### § 14 (weggefallen)
 
 -
 
-
 ## 5. Abschnitt - Schlußvorschrift
-
-
 
 ### § 15
 
 (weggefallen)
 
-
 ### § 16
 
 (Inkrafttreten)
-
 
 ### Anlage (zu § 4) Angaben in den Unterlagen für gentechnische Anlagen oder gentechnische Arbeiten
 
@@ -615,14 +582,9 @@ erforderlich:
 -   eine umfassende Bewertung der potenziellen Gefahren und Risiken, die
     durch die vorgesehene gentechnische Arbeit entstehen könnten.
 
-
-
-
-
 ### Anlage 2
 
 (weggefallen)
-
 
 ### Anlage 3
 

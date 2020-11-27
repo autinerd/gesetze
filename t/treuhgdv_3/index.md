@@ -15,15 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   GBl DDR I: 1990, 1333
 
-
-
 ## Eingangsformel
 
 Auf der Grundlage des § 1 Abs. 2 und 6 und des § 24 Abs. 4 des
 Gesetzes vom 17. Juni 1990 zur Privatisierung und Reorganisation des
 volkseigenen Vermögens (Treuhandgesetz) (GBl. I Nr. 33 S. 300) wird
 folgendes verordnet:
-
 
 ## § 1
 
@@ -50,7 +47,6 @@ Der Treuhandanstalt wird das Vermögen
 (nachfolgend Wirtschaftseinheiten genannt) zur zeitweiligen
 treuhänderischen Verwaltung übergeben.
 
-
 ## § 2
 
 Soweit eine Übertragung bisheriger Wirtschaftseinheiten gemäß § 1 in
@@ -58,7 +54,6 @@ das Eigentum der Länder und Kommunen nicht vorgesehen ist, erfolgt
 ihre Privatisierung auf der Grundlage des § 1 Abs. 2 des
 Treuhandgesetzes. Die übrigen Bestimmungen des Treuhandgesetzes finden
 entsprechende Anwendung.
-
 
 ## § 3
 
@@ -70,7 +65,6 @@ die Verpachtung volkseigener landwirtschaftlich genutzter Grundstücke
 an Genossenschaften, Genossenschaftsmitglieder und andere Bürger in
 die treuhänderische Verwaltung der Treuhandanstalt übertragen.
 
-
 ## § 4
 
 Die Treuhandanstalt hat in Abstimmung mit dem Ministerium für
@@ -81,12 +75,10 @@ Forstwirtschaft sicherzustellen und in Übereinstimmung mit § 1 Abs. 6
 des Treuhandgesetzes die dazu notwendigen Organisationsstrukturen in
 der Treuhandanstalt zu schaffen.
 
-
 ## § 5
 
 Diese Durchführungsverordnung tritt mit ihrer Veröffentlichung in
 Kraft.
-
 
 ## Schlußformel
 

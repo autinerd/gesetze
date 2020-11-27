@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 20.11.2012 I 2343
 
-
 ## Eingangsformel
 
 Auf Grund folgender Bestimmungen des Wertpapierhandelsgesetzes in der
@@ -171,7 +170,6 @@ c des Gesetzes vom 21. Juni 2002 (BGBl. I S. 2010) eingefügt worden
 ist,
 verordnet das Bundesministerium der Finanzen:
 
-
 ## § 1
 
 Die Bundesanstalt für Finanzdienstleistungsaufsicht wird ermächtigt,
@@ -244,7 +242,6 @@ Die Bundesanstalt für Finanzdienstleistungsaufsicht wird ermächtigt,
 
 zu erlassen.
 
-
 ## § 1a
 
 Die Bundesanstalt für Finanzdienstleistungsaufsicht wird ermächtigt,
@@ -275,7 +272,6 @@ Die Bundesanstalt für Finanzdienstleistungsaufsicht wird ermächtigt,
 
 
 zu erlassen.
-
 
 ## § 2
 

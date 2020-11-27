@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 9 G v. 17.7.2009 I 1990
 
-
 ## Eingangsformel
 
 Auf Grund des § 6 Abs. 1 und 2 und § 83 Abs. 1 und 2 des
@@ -28,7 +27,6 @@ Verordnung vom 26. November 1986 (BGBl. I S. 2089), wird im
 Einvernehmen mit dem Bundesminister für Ernährung, Landwirtschaft und
 Forsten verordnet:
 
-
 ## § 1
 
 (1) Es ist verboten, bei der Herstellung von Arzneimitteln, die aus
@@ -37,7 +35,6 @@ Pflanzen oder Pflanzenteilen bestehen, Ethylenoxid zu verwenden.
 (2) Es ist verboten, Arzneimittel, die aus Pflanzen oder
 Pflanzenteilen bestehen und unter Verwendung von Ethylenoxid
 hergestellt worden sind, in den Verkehr zu bringen.
-
 
 ## § 2
 
@@ -51,12 +48,10 @@ entgegen § 1 Abs. 1 Ethylenoxid verwendet.
 (3) Wer eine in Absatz 2 bezeichnete Handlung fahrlässig begeht,
 handelt nach § 97 Abs. 1 des Arzneimittelgesetzes ordnungswidrig.
 
-
 ## § 3
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 99 des Arzneimittelgesetzes auch im Land Berlin.
-
 
 ## § 4
 
@@ -69,7 +64,6 @@ die ausschließlich dazu bestimmt sind, in unverändertem Zustand in den
 Verkehr gebracht zu werden, ist die Verwendung von Ethylenoxid zur
 Reduzierung von Krankheitskeimen noch bis zum 31. Dezember 1990
 zugelassen.
-
 
 ## Schlußformel
 

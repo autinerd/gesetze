@@ -21,62 +21,45 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 15 Abs. 14 G v. 5.2.2009 I 160
 
-
 ## Kapitel I - (weggefallen)
-
-
 
 ### § 19
 
 (weggefallen)
 
-
 ### § 25 (weggefallen)
 
 -
-
 
 ### § 44c
 
 (weggefallen)
 
-
 ### (XXXX) §§ 45 bis 47 (weggefallen)
 
 -
 
-
 ### (XXXX) §§ 48a, 49 und 49a (weggefallen)
-
 
 ### § 54
 
 (weggefallen)
 
-
 ### (XXXX) §§ 56 bis 56f (weggefallen)
 
-
 ### (XXXX) §§ 103, 103a und 104 (weggefallen)
-
 
 ### (XXXX) §§ 106 bis 114 (weggefallen)
 
 -
 
-
 ### (XXXX) §§ 119 und 120 (weggefallen)
 
 -
 
-
 ## Kapitel II - Vorschriften, die einheitlich und unmittelbar gelten
 
-
-
 ### Abschnitt I - Allgemeines
-
-
 
 #### § 121
 
@@ -91,10 +74,6 @@ Das Recht, Beamte zu haben, besitzen außer dem Bund
     Rechtsverordnung oder Satzung verliehen wird; derartige Satzungen
     bedürfen der Genehmigung durch eine gesetzlich hierzu ermächtigte
     Stelle.
-
-
-
-
 
 #### § 122
 
@@ -113,7 +92,6 @@ mit Artikel 1 des Gesetzes vom 23. September 1990 (BGBl. 1990 II S.
 885, 1141) festgestellt worden ist und der Beamte die
 laufbahnrechtliche Probezeit erfolgreich abgeleistet hat.
 
-
 #### § 123
 
 (1) Der Beamte kann nach Maßgabe der §§ 17 und 18 auch über den
@@ -125,7 +103,6 @@ versetzt werden.
 Einverständnis mit dem aufnehmenden Dienstherrn verfügt; das
 Einverständnis ist schriftlich zu erklären. In der Verfügung ist zum
 Ausdruck zu bringen, daß das Einverständnis vorliegt.
-
 
 #### § 123a
 
@@ -147,19 +124,16 @@ dies erfordern.
 
 (3) Die Rechtsstellung des Beamten bleibt unberührt.
 
-
 #### § 124
 
 § 39 findet auch insoweit Anwendung, als seine Voraussetzungen über
 den Bereich des Bundes oder eines Landes hinaus gegeben sind.
-
 
 #### § 125
 
 Der Beamte ist entlassen, wenn er zum Berufssoldaten oder zum Soldaten
 auf Zeit ernannt wird. Die Entlassung gilt als Entlassung auf eigenen
 Antrag.
-
 
 #### § 125a
 
@@ -201,7 +175,6 @@ späteres Beamtenverhältnis durch eine festgesetzte mehrjährige
 Tätigkeit im Arbeitsverhältnis an Stelle des sonst vorgeschriebenen
 Vorbereitungsdienstes durchgeführt wird.
 
-
 #### § 125b
 
 (1) Haben sich die Anforderungen an die fachliche Eignung für die
@@ -230,7 +203,6 @@ tatsächlichen Pflege eines nach ärztlichem Gutachten pflegebedürftigen
 sonstigen nahen Angehörigen im Sinne des § 12 Abs. 2, gilt Absatz 1
 Satz 1 bis 3 entsprechend. Der berücksichtigungsfähige Zeitraum
 beträgt längstens drei Jahre.
-
 
 #### § 125c
 
@@ -297,10 +269,7 @@ den Voraussetzungen des § 30 Abs. 4 Nr. 5 der Abgabenordnung zulässig.
 seinen Vertreter im Amt zu richten und als "Vertrauliche
 Personalsache" zu kennzeichnen.
 
-
 ### Abschnitt II - Rechtsweg
-
-
 
 #### § 126
 
@@ -330,10 +299,6 @@ Verwaltungsgerichtsordnung mit folgenden Maßgaben:
 
 4.  Eines Vorverfahrens bedarf es nicht, wenn ein Gesetz dies bestimmt.
 
-
-
-
-
 #### § 127
 
 Für die Revision gegen das Urteil eines Oberverwaltungsgerichts über
@@ -350,13 +315,7 @@ eine Klage aus dem Beamtenverhältnis gilt folgendes:
     gestützt werden, daß das angefochtene Urteil auf der Verletzung von
     Landesrecht beruht.
 
-
-
-
-
 ### Abschnitt III - Rechtsstellung der Beamten und Versorgungsempfänger bei der Umbildung von Körperschaften
-
-
 
 #### § 128
 
@@ -388,7 +347,6 @@ Körperschaften gebildet werden, oder wenn Aufgaben einer Körperschaft
 vollständig oder teilweise auf eine oder mehrere andere Körperschaften
 übergehen.
 
-
 #### § 129
 
 (1) Tritt ein Beamter auf Grund des § 128 Abs. 1 kraft Gesetzes in den
@@ -408,7 +366,6 @@ der Verpflichtung nicht nach, so ist er zu entlassen.
 
 (4) Die Absätze 1 bis 3 gelten entsprechend in den Fällen des § 128
 Abs. 4.
-
 
 #### § 130
 
@@ -437,7 +394,6 @@ Ruhestand mit Ablauf der Amtszeit; sie gelten in diesem Zeitpunkt als
 dauernd in den Ruhestand versetzt, wenn sie bei Verbleiben im Amt mit
 Ablauf der Amtszeit in den Ruhestand getreten wären.
 
-
 #### § 131
 
 Ist innerhalb absehbarer Zeit mit einer Umbildung im Sinne des § 128
@@ -449,7 +405,6 @@ eines Jahres ergehen. Sie ist den beteiligten Körperschaften
 zuzustellen. Die Genehmigung soll nur versagt werden, wenn durch
 derartige Ernennungen die Durchführung der nach den §§ 128 bis 130
 erforderlichen Maßnahmen wesentlich erschwert würde.
-
 
 #### § 132
 
@@ -464,17 +419,13 @@ abgebenden Körperschaft bestehen.
 (3) Die Absätze 1 und 2 gelten entsprechend in den Fällen des § 128
 Abs. 4.
 
-
 #### § 133
 
 Als Körperschaft im Sinne der Vorschriften dieses Abschnittes gelten
 alle juristischen Personen des öffentlichen Rechts mit
 Dienstherrnfähigkeit (§ 121).
 
-
 ### Abschnitt IV - Sonderregelungen für den Spannungs- und Verteidigungsfall
-
-
 
 #### § 133a
 
@@ -484,7 +435,6 @@ zulässig. Sie finden keine Anwendung auf Personen im Sinne des § 5
 Abs. 1 des Arbeitssicherstellungsgesetzes vom 9. Juli 1968 (BGBl. I S.
 787), zuletzt geändert durch Artikel 32 des Gesetzes vom 18. Dezember
 1989 (BGBl. I S. 2261).
-
 
 #### § 133b
 
@@ -509,7 +459,6 @@ Verhältnissen zugemutet werden können.
 auch außerhalb des Geltungsbereiches dieses Gesetzes - zur
 Dienstleistung am neuen Dienstort verpflichtet.
 
-
 #### § 133c
 
 Die Entlassung eines Beamten auf seinen Antrag kann für Zwecke der
@@ -524,7 +473,6 @@ Dienstunfähigkeit können unter den Voraussetzungen des Satzes 1 bis
 zum Ende des Monats hinausgeschoben werden, in dem der Beamte das 65.
 Lebensjahr vollendet.
 
-
 #### § 133d
 
 Ein Ruhestandsbeamter, der das 65. Lebensjahr noch nicht vollendet
@@ -535,7 +483,6 @@ bisherigen Dienstherrn auf freiwilliger Grundlage nicht gedeckt werden
 kann. Das Beamtenverhältnis endet, wenn es nicht vorher beendet wird,
 mit dem Ende des Monats, in dem der Beamte das 65. Lebensjahr
 vollendet.
-
 
 #### § 133e
 
@@ -549,10 +496,7 @@ regelmäßige Arbeitszeit hinaus ohne besondere Vergütung Dienst zu tun.
 Für die Mehrbeanspruchung wird ein Freizeitausgleich nur gewährt,
 soweit es die dienstlichen Erfordernisse gestatten.
 
-
 ### Abschnitt V - Sonderregelungen für Verwendungen im Ausland
-
-
 
 #### § 133f
 
@@ -596,7 +540,6 @@ Gründen, die er nicht zu vertreten hat, dem Einflußbereich des
 Dienstherrn entzogen, verlängert sich das Dienstverhältnis bis zum
 Ablauf des auf die Beendigung dieses Zustands folgenden Monats.
 
-
 #### § 135
 
 Dieses Gesetz gilt nicht für die öffentlich-rechtlichen
@@ -605,26 +548,21 @@ Religionsgesellschaften und ihre Verbände. Diesen bleibt es
 Gesetz entsprechend zu regeln und die Vorschriften des Kapitels II
 Abschnitt II für anwendbar zu erklären.
 
-
 #### § 136
 
 (weggefallen)
-
 
 #### § 137
 
 (Übergangsvorschrift)
 
-
 #### (XXXX) §§ 139 und 140 (weggefallen)
 
 (Änderung von Rechtsvorschriften)
 
-
 #### § 141
 
 (gegenstandslos)
-
 
 #### § 142
 

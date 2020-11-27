@@ -19,12 +19,10 @@ Fundstelle
 Geändert durch
 :   Art. 1 G v. 21.6.1976 II 1002
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -32,7 +30,6 @@ Dem in Manila am 4. Dezember 1965 von der Bundesrepublik Deutschland
 unterzeichneten Übereinkommen zur Errichtung der Asiatischen
 Entwicklungsbank (Asian Development Bank) wird zugestimmt. Das
 Übereinkommen wird nachstehend veröffentlicht.
-
 
 ## Art 2
 
@@ -47,18 +44,15 @@ Inanspruchnahme des abrufbaren Stammkapitals Kredite zum jeweiligen
 DM-Gegenwert von bis zu 108.030.000 US-Dollar zum Gewicht und
 Feingehalt des Goldes vom 31. Januar 1966 aufzunehmen.
 
-
 ## Art 3
 
 Die Deutsche Bundesbank ist Hinterlegungsstelle für die Asiatische
 Entwicklungsbank nach Artikel 38 Abs. 2 des Übereinkommens.
 
-
 ## Art 4
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
-
 
 ## Art 5
 

@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 G v. 12.9.2012 I 1884
 
-
 ## § 1 Anwendungsbereich, Wettbewerbsbedingungen
 
 (1) Dieses Gesetz dient der Gewährleistung eines sicheren Betriebs der
@@ -58,7 +57,6 @@ Landesregierungen darauf hinzuwirken, daß die Wettbewerbsbedingungen
 der Verkehrsträger angeglichen werden, und daß durch einen lauteren
 Wettbewerb der Verkehrsträger eine volkswirtschaftlich sinnvolle
 Aufgabenteilung ermöglicht wird.
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -164,7 +162,6 @@ erbringen, auch soweit sie über diese Netze hinaus bis in den
 Übergangsbahnhof außerhalb des jeweiligen Netzes des Regionalverkehrs
 verkehren.
 
-
 ## § 3 Öffentlicher Eisenbahnverkehr
 
 (1) Eisenbahnen dienen dem öffentlichen Verkehr (öffentliche
@@ -189,7 +186,6 @@ Eisenbahnen), wenn sie als
 
 (2) Die nicht von Absatz 1 erfassten Eisenbahnen sind nichtöffentliche
 Eisenbahnen.
-
 
 ## § 4 Sicherheitspflichten, Zuständigkeiten des Eisenbahn-Bundesamtes
 
@@ -267,7 +263,6 @@ unberührt.
 zugehörigen Steuerungs- und Sicherungssysteme sowie die zugehörigen
 Anlagen zur streckenbezogenen Versorgung mit Fahrstrom zum Gegenstand
 seines Unternehmens machen.
-
 
 ## § 4a Instandhaltung
 
@@ -627,7 +622,6 @@ bekannt zu geben. Sie ist im Bundesanzeiger zu veröffentlichen.
 
 (7) (weggefallen)
 
-
 ## § 5a Aufgaben und Befugnisse der Eisenbahnaufsichtsbehörden
 
 (1) Die Eisenbahnaufsichtsbehörden haben die Aufgabe, die Einhaltung
@@ -745,7 +739,6 @@ mitzuwirken.
 (9) Die Eisenbahnaufsichtsbehörden können ihre Anordnungen nach den
 für die Vollstreckung von Verwaltungsmaßnahmen geltenden Vorschriften
 durchsetzen. Die Höhe des Zwangsgeldes beträgt bis zu 500 000 Euro.
-
 
 ## § 6 Erteilung und Versagung der Genehmigung
 
@@ -868,7 +861,6 @@ Eisenbahnfahrzeugen müssen dem Eisenbahn-Bundesamt vor Aufnahme des
 Verkehrs auf dem Gebiet der Bundesrepublik Deutschland ihre Zulassung
 nachweisen. § 14 bleibt unberührt.
 
-
 ## § 7 Widerruf der Genehmigung
 
 (1) Die Genehmigungsbehörde hat die Genehmigung zu widerrufen, wenn
@@ -890,7 +882,6 @@ der Finanzbehörden darf nur für Zwecke eines Widerrufsverfahrens
 verwendet werden.
 
 (3) (weggefallen)
-
 
 ## § 7a Sicherheitsbescheinigung und nationale Bescheinigung für Eisenbahnverkehrsunternehmen
 
@@ -987,7 +978,6 @@ nationalen Bescheinigung nach Absatz 4 hat sicherzustellen, dass die
 Voraussetzungen, die für die Erteilung der Bescheinigung gegolten
 haben, auch danach erfüllt bleiben.
 
-
 ## § 7b Änderungen, Rücknahme und Widerruf der Sicherheitsbescheinigung und nationalen Bescheinigung
 
 (1) Im Falle wesentlicher Änderungen der der Erteilung einer
@@ -1010,7 +1000,6 @@ genutzt wird.
 
 (4) Im Übrigen bleiben die verwaltungsverfahrensrechtlichen
 Vorschriften über die Aufhebung von Verwaltungsakten unberührt.
-
 
 ## § 7c Sicherheitsgenehmigung
 
@@ -1042,7 +1031,6 @@ die Voraussetzungen, die für die Erteilung der Sicherheitsgenehmigung
 gegolten haben, auch danach erfüllt bleiben.
 
 (4) § 7a Abs. 3 und 5 bis 7 sowie § 7b gelten entsprechend.
-
 
 ## § 7d Anerkennungen
 
@@ -1077,7 +1065,6 @@ Sicherheitsbescheinigung oder Sicherheitsgenehmigung erteilt worden
 ist oder sie einen Eisenbahnbetriebsleiter bestellt haben, dessen
 Bestellung durch die zuständige Eisenbahnaufsichtsbehörde bestätigt
 worden ist.
-
 
 ## § 7e Zugang zu Schulungsmöglichkeiten
 
@@ -1120,7 +1107,6 @@ gegenwärtigen und früheren Mitarbeitern auf Verlangen die dort
 erworbenen Qualifikationen, Erfahrungen sowie Teilnahme an Schulungen
 zu bescheinigen.
 
-
 ## § 7f Aufnahme des Betriebes
 
 (1) Eine Eisenbahn, die keiner Sicherheitsbescheinigung oder
@@ -1149,7 +1135,6 @@ bestätigen.
 Eisenbahnbetriebes, die die Betriebssicherheit berühren, sind der
 zuständigen Eisenbahnaufsichtsbehörde 14 Tage vor Inbetriebnahme
 anzuzeigen.
-
 
 ## § 7g Bescheinigungen betreffend die Instandhaltung
 
@@ -1202,7 +1187,6 @@ Bescheinigungen nach Artikel 15 ATMF – Anhang G zum Übereinkommen vom
 betreffend die Änderung des Übereinkommens vom 9. Mai 1980 über den
 internationalen Eisenbahnverkehr – COTIF – (BGBl. 2002 II S. 2140).
 
-
 ## § 7h Kosten
 
 (1) Für Amtshandlungen sowie Prüfungen und Untersuchungen des
@@ -1220,7 +1204,6 @@ Gebührenschuldner angemessen berücksichtigt werden.
 wird dem Antragsteller die voraussichtliche Höhe der Kosten vorab
 mitgeteilt. Ihm ist die Möglichkeit einzuräumen, seinen Antrag
 zurückzunehmen oder einzuschränken.
-
 
 ## § 8 Geschäftsführung der Eisenbahnen
 
@@ -1247,7 +1230,6 @@ staatlicher oder kommunaler Gebietskörperschaften zu trennen.
 des Bundes handelt, müssen, soweit es die Zuweisung von Zugtrassen und
 die Wegeentgelte betrifft, über eine eigene Leitung, Geschäftsführung,
 Verwaltung und Rechnungsführung verfügen.
-
 
 ## § 9 Getrennte Rechnungslegung, organisatorische Trennung, unabhängige Entscheidungen
 
@@ -1351,7 +1333,6 @@ Kosten-Erlös-Rechnung und eine Inventur gemäß § 240 des
 Handelsgesetzbuchs genügen. Die Rechnung muß den gleichen Zeitraum wie
 die Jahresabschlüsse umfassen. Im Übrigen gilt Absatz 1b entsprechend.
 
-
 ## § 9a Unabhängigkeit des öffentlichen Betreibers der Schienenwege
 
 (1) Öffentliche Betreiber der Schienenwege müssen rechtlich,
@@ -1450,13 +1431,11 @@ Mutterunternehmens für Vorgänge in Bereichen, auf die diese Mitglieder
 nach diesem Gesetz keinen Einfluss ausüben dürfen und tatsächlich
 keinen Einfluss ausgeübt haben, ist ausgeschlossen.
 
-
 ## § 9b Steuerliche Vorschriften
 
 Rechtsvorgänge im Sinne des Grunderwerbsteuergesetzes, die sich aus
 der Durchführung der §§ 8 bis 9a dieses Gesetzes ergeben, sind von der
 Grunderwerbsteuer befreit.
-
 
 ## § 10 Beförderungspflicht
 
@@ -1474,10 +1453,6 @@ verpflichtet, wenn
 3.  die Beförderung nicht durch Umstände verhindert wird, welche das
     Eisenbahnverkehrsunternehmen nicht abwenden und denen es auch nicht
     abhelfen konnte.
-
-
-
-
 
 ## § 11 Abgabe und Stilllegung von Eisenbahninfrastruktureinrichtungen
 
@@ -1537,7 +1512,6 @@ die Genehmigung zu versagen.
 (5) Eine Versagung nach Maßgabe des Absatzes 2 ist nur für einen
 Zeitraum von einem Jahr möglich; danach gilt die Genehmigung als
 erteilt.
-
 
 ## § 12 Tarife
 
@@ -1635,7 +1609,6 @@ Genehmigungsbehörde.
 Fahrplaninformationsmedien über Anschlussverbindungen aller Anbieter
 diskriminierungsfrei zu informieren.
 
-
 ## § 13 Anschluß an andere Eisenbahnen
 
 (1) Jede Eisenbahn hat angrenzenden Eisenbahnen mit Sitz in der
@@ -1647,7 +1620,6 @@ Im übrigen gilt § 14.
 sowie über die Angemessenheit der Kosten entscheidet, wenn eine
 Eisenbahn des Bundes beteiligt ist, das Eisenbahn-Bundesamt, in den
 übrigen Fällen die zuständige Landesbehörde.
-
 
 ## § 14 Zugang zur Eisenbahninfrastruktur
 
@@ -1778,7 +1750,6 @@ Maßgabe der in Absatz 1 genannten Rechtsverordnung zu vereinbaren.
 
 (7) bis (9) (weggefallen)
 
-
 ## § 14a Rahmenverträge
 
 (1) Vereinbarungen über die Nutzung von Zugtrassen für einen längeren
@@ -1812,7 +1783,6 @@ Laufzeit
 
 Die Sätze 1 und 2 gelten nicht für Rahmenverträge mit
 Zugangsberechtigten nach § 14 Abs. 2 Nr. 3 und 4.
-
 
 ## § 14b Aufgaben der Regulierungsbehörde
 
@@ -1867,7 +1837,6 @@ ihrem Aufgabengebiet für die Bundesregierung. Die Bundesregierung
 leitet den Bericht der Regulierungsbehörde dem Deutschen Bundestag
 unverzüglich zu; sie kann dem Bericht eine Stellungnahme beifügen.
 
-
 ## § 14c Allgemeine Befugnisse der Regulierungsbehörde
 
 (1) Die Regulierungsbehörde kann in Wahrnehmung ihrer Aufgaben
@@ -1920,7 +1889,6 @@ nach den für die Vollstreckung von Verwaltungsmaßnahmen geltenden
 Vorschriften durchsetzen. Die Höhe des Zwangsgeldes beträgt bis zu
 500\.000 Euro.
 
-
 ## § 14d Besondere Mitteilungspflichten der öffentlichen Eisenbahninfrastrukturunternehmen
 
 Die öffentlichen Eisenbahninfrastrukturunternehmen haben die
@@ -1960,7 +1928,6 @@ Regulierungsbehörde zu unterrichten über
 Die beabsichtigten Entscheidungen nach Satz 1 Nr. 1 bis 5 sind zu
 begründen. Betreiber der Schienenwege haben dabei auch die
 Übereinstimmung ihrer Entgeltfestsetzung mit § 14 Abs. 4 darzulegen.
-
 
 ## § 14e Vorabprüfung durch die Regulierungsbehörde
 
@@ -2020,7 +1987,6 @@ oder teilweise im Voraus verzichten. Sie kann ihren Verzicht auf
 einzelne öffentliche Eisenbahninfrastrukturunternehmen beschränken.
 Dies gilt insbesondere, wenn eine Beeinträchtigung des Wettbewerbs
 nicht zu erwarten ist.
-
 
 ## § 14f Nachträgliche Prüfung durch die Regulierungsbehörde
 
@@ -2090,10 +2056,6 @@ Zugang zur Eisenbahninfrastruktur,
     über die Geltung des Vertrags und erklärt entgegenstehende Verträge
     für unwirksam.
 
-
-
-
-
 ## § 14g Zugangsrecht im grenzüberschreitenden Personenverkehr
 
 (1) Wer beabsichtigt, den Zugang zur Eisenbahninfrastruktur im
@@ -2117,7 +2079,6 @@ rechtzeitig erteilten Auskunft nicht über den Antrag entscheiden kann
 und sie dies dem die Feststellung Beantragenden vor Ablauf der Frist
 unter Angabe von Gründen mitgeteilt hat.
 
-
 ## § 15 Gemeinwirtschaftliche Leistungen
 
 (1) Für die Auferlegung oder Vereinbarung gemeinwirtschaftlicher
@@ -2132,7 +2093,6 @@ gemeinwirtschaftlicher Leistungen durch Eisenbahnverkehrsunternehmen
 auf der Grundlage des Artikels 1 Abs. 4 und des Artikels 14 der in
 Absatz 1 genannten Verordnung zu vereinbaren, können diese Leistungen
 ausschreiben.
-
 
 ## § 16 Ausgleich betriebsfremder Aufwendungen
 
@@ -2169,7 +2129,6 @@ zugrundegelegt, der in dem jeweiligen Land erbracht wird. Den
 Ausgleich nach Absatz 1 Nr. 3 gewährt der Bund, soweit es sich um
 höhengleiche Kreuzungen mit Bundesstraßen handelt.
 
-
 ## § 17 Vorarbeiten
 
 (1) Eigentümer und sonstige Nutzungsberechtigte haben zur Vorbereitung
@@ -2197,7 +2156,6 @@ zustande, so setzt die nach Landesrecht zuständige Behörde auf Antrag
 des Trägers des Vorhabens oder des Berechtigten die Entschädigung
 fest. Vor der Entscheidung sind die Beteiligten zu hören.
 
-
 ## § 18 Erfordernis der Planfeststellung
 
 Betriebsanlagen einer Eisenbahn einschließlich der
@@ -2207,7 +2165,6 @@ von dem Vorhaben berührten öffentlichen und privaten Belange
 einschließlich der Umweltverträglichkeit im Rahmen der Abwägung zu
 berücksichtigen. Für das Planfeststellungsverfahren gelten die §§ 72
 bis 78 des Verwaltungsverfahrensgesetzes nach Maßgabe dieses Gesetzes.
-
 
 ## § 18a Anhörungsverfahren
 
@@ -2288,10 +2245,6 @@ mit folgenden Maßgaben:
     hätten bekannt sein müssen oder für die Rechtmäßigkeit der
     Entscheidung von Bedeutung sind.
 
-
-
-
-
 ## § 18b Planfeststellungsbeschluss, Plangenehmigung
 
 Für Planfeststellungsbeschluss und Plangenehmigung gilt § 74 des
@@ -2326,10 +2279,6 @@ Verwaltungsverfahrensgesetzes mit folgenden Maßgaben:
     Einwendungen entschieden worden ist, mit Rechtsbehelfsbelehrung
     zuzustellen.
 
-
-
-
-
 ## § 18c Rechtswirkungen der Planfeststellung und der Plangenehmigung
 
 Für die Rechtswirkungen der Planfeststellung und Plangenehmigung gilt
@@ -2357,10 +2306,6 @@ Für die Rechtswirkungen der Planfeststellung und Plangenehmigung gilt
     der Verwirklichung des Vorhabens berührt den Beginn der Durchführung
     nicht.
 
-
-
-
-
 ## § 18d Planänderung vor Fertigstellung des Vorhabens
 
 Für die Planergänzung und das ergänzende Verfahren im Sinne des § 75
@@ -2372,7 +2317,6 @@ des § 73 Abs. 6 des Verwaltungsverfahrensgesetzes und des § 9 Abs. 1
 Satz 3 des Gesetzes über die Umweltverträglichkeitsprüfung abgesehen
 werden kann. Im Übrigen gelten für das neue Verfahren die Vorschriften
 dieses Gesetzes.
-
 
 ## § 18e Rechtsbehelfe
 
@@ -2449,7 +2393,6 @@ durch Planergänzung oder durch ein ergänzendes Verfahren behoben
 werden können; die §§ 45 und 46 des Verwaltungsverfahrensgesetzes
 bleiben unberührt.
 
-
 ## § 19 Veränderungssperre, Vorkaufsrecht
 
 (1) Vom Beginn der Auslegung der Pläne im Planfeststellungsverfahren
@@ -2473,11 +2416,9 @@ Entschädigung verlangen.
 (3) In den Fällen des Absatzes 1 Satz 1 steht dem Träger des Vorhabens
 an den betroffenen Flächen ein Vorkaufsrecht zu.
 
-
 ## § 20 (weggefallen)
 
 -
-
 
 ## § 21 Vorzeitige Besitzeinweisung
 
@@ -2540,7 +2481,6 @@ Wirkung nach § 80 Abs. 5 Satz 1 der Verwaltungsgerichtsordnung kann
 nur innerhalb eines Monats nach der Zustellung des
 Besitzeinweisungsbeschlusses gestellt und begründet werden.
 
-
 ## § 22 Enteignung
 
 (1) Für Zwecke des Baus und des Ausbaus von Betriebsanlagen der
@@ -2560,7 +2500,6 @@ werden.
 
 (4) Im übrigen gelten die Enteignungsgesetze der Länder.
 
-
 ## § 22a Entschädigungsverfahren
 
 Soweit der Vorhabenträger auf Grund eines Planfeststellungsbeschlusses
@@ -2570,7 +2509,6 @@ zwischen dem Betroffenen und dem Träger des Vorhabens zustande kommt,
 entscheidet auf Antrag eines der Beteiligten die nach Landesrecht
 zuständige Behörde; für das Verfahren und den Rechtsweg gelten die
 Enteignungsgesetze der Länder entsprechend.
-
 
 ## § 23 Freistellung von Bahnbetriebszwecken
 
@@ -2600,11 +2538,9 @@ der Gemeinde, auf deren Gebiet sich das Grundstück befindet,
 zuzustellen. Die zuständigen Träger der Landesplanung und
 Regionalplanung sind zu unterrichten.
 
-
 ## § 24
 
 (weggefallen)
-
 
 ## § 25 Besetzungszeiten von Arbeitsplätzen
 
@@ -2616,7 +2552,6 @@ besetzen sind. Das Mitbestimmungsrecht des Betriebsrats nach § 87 Abs.
 1 Nr. 2 des Betriebsverfassungsgesetzes bezüglich der
 Arbeitszeitregelungen für den Einsatz der Beschäftigten während der
 nach Satz 1 festgelegten Besetzungszeiten bleibt unberührt.
-
 
 ## § 25a Fahrzeugeinstellungsregister
 
@@ -2642,7 +2577,6 @@ Behörde auch ohne Ersuchen Informationen einschließlich
 personenbezogener Daten übermitteln, soweit dies für die Führung des
 Registers erforderlich ist.
 
-
 ## § 25b Benannte Stellen
 
 (1) Das Eisenbahn-Bundesamt kann die Wahrnehmung der Aufgaben einer
@@ -2654,7 +2588,6 @@ Hochgeschwindigkeitsbahnsystem vorgesehen ist, Privaten übertragen.
 Private die Kriterien nach Anhang VIII der Richtlinie 2008/57/EG
 erfüllt und somit die Gewähr dafür bietet, dass er die Aufgaben der
 benannten Stelle ordnungsgemäß wahrnehmen wird.
-
 
 ## § 26 Rechtsverordnungen
 
@@ -3047,7 +2980,6 @@ Rechtsverordnungen des Eisenbahn-Bundesamtes bedürfen nicht der
 Zustimmung des Bundesrates; auf diese Rechtsverordnungen ist Absatz 3
 Satz 1 und 5 nicht anzuwenden.
 
-
 ## § 27 Allgemeine Verwaltungsvorschriften
 
 Das Bundesministerium für Verkehr, Bau und Stadtentwicklung kann im
@@ -3056,7 +2988,6 @@ Zustimmung des Bundesrates zur Durchführung der auf Grund des § 26
 Abs. 2 erlassenen Rechtsverordnungen allgemeine
 Verwaltungsvorschriften erlassen, insbesondere über die Ahndung einer
 Ordnungswidrigkeit nach § 28 Abs. 1 Nr. 4, 5 und 8.
-
 
 ## § 28 Ordnungswidrigkeiten
 
@@ -3147,7 +3078,6 @@ Zustimmung des Bundesrates die Tatbestände zu bezeichnen, die als
 Ordnungswidrigkeit nach Absatz 1 Nr. 9 geahndet werden können, soweit
 dies zur Durchführung der betreffenden Verordnung erforderlich ist.
 
-
 ## § 29 Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten
 
 (1) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes
@@ -3175,7 +3105,6 @@ Betriebes liegt, bei der der Betroffene tätig ist; § 39 des Gesetzes
 oder von Arbeitnehmern von Eisenbahnen des Bundes begangen, so ist
 Absatz 1 entsprechend anzuwenden.
 
-
 ## § 30 Übergangsregelung für den Schienenpersonennahverkehr der Eisenbahnen des Bundes
 
 Bis zum 31. Dezember 1995 ist das Bundesministerium für Verkehr auch
@@ -3190,10 +3119,6 @@ soweit es sich handelt um
     (EWG) Nr. 1191/69 des Rates betreffend den Schienenpersonennahverkehr
     dieser Eisenbahnen.
 
-
-
-
-
 ## § 31 Selbstständige Teilnahme am Eisenbahnbetrieb
 
 Für Halter von Eisenbahnfahrzeugen, die mit diesen selbstständig am
@@ -3201,7 +3126,6 @@ Eisenbahnbetrieb teilnehmen und nicht die Voraussetzungen des § 2
 Absatz 1 und 2 erfüllen, gelten, wenn nichts anderes bestimmt ist, die
 Vorschriften für nichtöffentliche Eisenbahnverkehrsunternehmen
 entsprechend.
-
 
 ## § 32 Nichtselbstständige Teilnahme am Eisenbahnbetrieb
 
@@ -3218,13 +3142,7 @@ Eisenbahnverkehrsunternehmen entsprechend, soweit sie betreffen
 
 3.  die Pflicht, sich zu versichern.
 
-
-
-
-
 ## § 33 (weggefallen)
-
-
 
 ## § 34 Netzbeirat
 
@@ -3239,7 +3157,6 @@ den Netzbeirat sind von der zuständigen Aufsichtsbehörde Vertreter
 oder Beauftragte von Eisenbahnverkehrsunternehmen und der nach § 1
 Abs. 2 des Regionalisierungsgesetzes bestimmten Stellen zu berufen.
 Der Netzbeirat soll nicht mehr als 15 Mitglieder haben.
-
 
 ## § 35 Eisenbahninfrastrukturbeirat
 
@@ -3257,7 +3174,6 @@ Der Eisenbahninfrastrukturbeirat hat die Aufgabe,
 Er ist gegenüber der Regulierungsbehörde berechtigt, Auskünfte und
 Stellungnahmen einzuholen. Die Regulierungsbehörde ist insoweit
 auskunftspflichtig.
-
 
 ## § 35a Eisenbahnsicherheitsbeirat
 
@@ -3285,7 +3201,6 @@ unterrichten.
 Bundesamt berechtigt, Auskünfte und Stellungnahmen einzuholen. Das
 Eisenbahn-Bundesamt ist insoweit auskunftspflichtig.
 
-
 ## § 36 Gutachten der Monopolkommission
 
 Die Monopolkommission erstellt alle zwei Jahre ein Gutachten, in dem
@@ -3298,12 +3213,10 @@ Eisenbahnen Stellung nimmt. Das Gutachten soll in dem Jahr
 abgeschlossen sein, in dem kein Hauptgutachten nach § 44 des Gesetzes
 gegen Wettbewerbsbeschränkungen vorgelegt wird.
 
-
 ## § 37 Aufschiebende Wirkung von Rechtsbehelfen
 
 Widerspruch und Anfechtungsklage gegen Entscheidungen nach den §§ 14c,
 14e und 14f haben keine aufschiebende Wirkung.
-
 
 ## § 38 Weitere Übergangsvorschriften
 
@@ -3443,7 +3356,6 @@ vertragliche Bindungen oder besondere Investitionen nachgewiesen
 werden. Die Sätze 2 und 3 gelten nicht für Rahmenverträge mit
 Zugangsberechtigten nach § 14 Abs. 2 Nr. 3 und 4.
 
-
 ## § 39 Übergangsregelung für Planungen
 
 (1) Vor dem 17. Dezember 2006 beantragte Planfeststellungsverfahren
@@ -3456,14 +3368,12 @@ Verkehrswegeplanungsbeschleunigungsgesetzes bleibt unberührt.
 Plangenehmigungen, die vor dem 17. Dezember 2006 erlassen worden sind,
 soweit der Plan noch nicht außer Kraft getreten ist.
 
-
 ## § 40 Zeitliche Übergangsregelungen
 
 (1) Die §§ 2, 14 und 14b sind bis zum Ablauf des 31. Dezember 2009 in
 ihrer am 28. Mai 2009 geltenden Fassung anzuwenden.
 
 (2) § 14g ist ab dem 1. Januar 2010 anzuwenden.
-
 
 ## Anlage (zu § 18e Abs. 1) Schienenwege mit erstinstanzlicher Zuständigkeit des Bundesverwaltungsgerichts
 

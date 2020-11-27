@@ -21,15 +21,11 @@ Fundstelle
 Geändert durch
 :   Art. VI G v. 9. 9.1965 I 1254
 
-
 ## Erster Abschnitt - Einkommensteuer
-
-
 
 ### Art 1
 
 -
-
 
 ### Art 2
 
@@ -40,39 +36,28 @@ Pauschalbesteuerung bei der Lohnsteuer zugelassen ist oder zugelassen
 wird, für die Berechnung der Beiträge zur Sozialversicherung außer
 Ansatz bleiben.
 
-
 ### Art 3
 
 -
 
-
 ## Zweiter bis Elfter Abschnitt
-
-
 
 ### (XXXX) Art 4 bis 21
 
-
-
 ## Zwölfter Abschnitt - Schlußvorschriften
-
-
 
 ### Art 22
 
 -
-
 
 ### Art 23
 
 Artikel 22              gilt nicht für Personen, die ein
 handwerksähnliches Gewerbe betreiben.
 
-
 ### Art 24
 
 -
-
 
 ### Art 25
 
@@ -81,7 +66,6 @@ Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 des Dritten
 im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes
 erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 Überleitungsgesetzes.
-
 
 ### Art 26
 

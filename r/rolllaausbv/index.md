@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 1334
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 der
@@ -27,7 +25,6 @@ Gesetzes vom 24. Dezember 2003 (BGBl. I S. 2934) geändert worden ist,
 verordnet das Bundesministerium für Wirtschaft und Arbeit im
 Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Rollladen- und
@@ -36,11 +33,9 @@ wird gemäß § 25 der Handwerksordnung zur Ausbildung für das Gewerbe
 Nummer 13, Rollladen- und Jalousiebauer, der Anlage B, Abschnitt 1 der
 Handwerksordnung staatlich anerkannt.
 
-
 ## § 2 Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Zielsetzung der Berufsausbildung
 
@@ -51,7 +46,6 @@ Tätigkeit im Sinne von § 1 Abs. 2 des Berufsbildungsgesetzes befähigt
 werden, die insbesondere selbständiges Planen, Durchführen und
 Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen
 nach den §§ 8 und 9 nachzuweisen.
-
 
 ## § 4 Ausbildungsberufsbild
 
@@ -112,10 +106,6 @@ Fertigkeiten und Kenntnisse:
 
 18. Durchführen von qualitätssichernden Maßnahmen.
 
-
-
-
-
 ## § 5 Ausbildungsrahmenplan
 
 Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der Anlage
@@ -125,13 +115,11 @@ dem Ausbildungsrahmenplan abweichende sachliche und zeitliche
 Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit
 betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
 ## § 6 Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des
 Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan
 zu erstellen.
-
 
 ## § 7 Berichtsheft
 
@@ -139,7 +127,6 @@ Die Auszubildenden haben ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden
 haben das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 8 Zwischenprüfung
 
@@ -161,7 +148,6 @@ soll der Prüfling zeigen, dass er Arbeitsschritte und Arbeitsabläufe
 planen, Arbeitsmittel festlegen, technische Unterlagen nutzen sowie
 Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum
 Umweltschutz und zur Qualitätssicherung berücksichtigen kann.
-
 
 ## § 9 Gesellenprüfung
 
@@ -311,7 +297,6 @@ ausreichende Leistungen, in dem weiteren Prüfungsbereich des
 Prüfungsteils B dürfen keine ungenügenden Leistungen erbracht worden
 sein.
 
-
 ## § 10 Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
@@ -319,11 +304,9 @@ Verordnung bestehen, sind die bisherigen Vorschriften weiter
 anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
 Anwendung der Vorschriften dieser Verordnung.
 
-
 ## § 11 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2004 in Kraft.
-
 
 ## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Rollladen- und Sonnenschutzmechatroniker/zur Rollladen- und Sonnenschutzmechatronikerin
 

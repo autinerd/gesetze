@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 G v. 1.12.2009 I 3822
 
-
 ## § 1 Integrationsverantwortung
 
 (1) Der Bundestag und der Bundesrat nehmen in Angelegenheiten der
@@ -31,14 +30,12 @@ Gesetz in angemessener Frist beraten und Beschluss fassen und dabei
 die für die Beschlussfassung auf der Ebene der Europäischen Union
 maßgeblichen Fristvorgaben berücksichtigen.
 
-
 ## § 2 Vereinfachtes Vertragsänderungsverfahren
 
 Eine Zustimmung der Bundesrepublik Deutschland zu einem Beschluss des
 Europäischen Rates gemäß Artikel 48 Absatz 6 Unterabsatz 2 und 3 des
 Vertrags über die Europäische Union erfolgt durch ein Gesetz gemäß
 Artikel 23 Absatz 1 des Grundgesetzes.
-
 
 ## § 3 Besondere Vertragsänderungsverfahren
 
@@ -65,7 +62,6 @@ die Europäische Union gefasst worden ist, erfolgt eine Zustimmung der
 Bundesrepublik Deutschland durch ein Gesetz gemäß Artikel 23 Absatz 1
 des Grundgesetzes.
 
-
 ## § 4 Brückenklauseln
 
 (1) Der deutsche Vertreter im Europäischen Rat darf einem
@@ -83,7 +79,6 @@ Beschlussfassung enthalten, nachdem hierzu ein Gesetz gemäß Artikel 23
 Absatz 1 des Grundgesetzes in Kraft getreten ist. Ohne ein solches
 Gesetz muss der deutsche Vertreter im Rat den Beschlussvorschlag
 ablehnen.
-
 
 ## § 5 Zustimmung im Europäischen Rat bei besonderen Brückenklauseln
 
@@ -115,10 +110,6 @@ sind,
 4.  deren Regelung durch ein Bundesgesetz der Zustimmung des Bundesrates
     bedarf.
 
-
-
-
-
 ## § 6 Zustimmung im Rat bei besonderen Brückenklauseln
 
 (1) Der deutsche Vertreter im Rat darf einem Beschlussvorschlag gemäß
@@ -129,7 +120,6 @@ Beschlussfassung enthalten, nachdem der Bundestag hierzu einen
 Beschluss gefasst hat. § 5 Absatz 1 Satz 2 und 3 gilt entsprechend.
 
 (2) § 5 Absatz 2 gilt entsprechend.
-
 
 ## § 7 Kompetenzerweiterungsklauseln
 
@@ -145,7 +135,6 @@ Beschlussvorschlag ablehnen.
 308 Absatz 3 des Vertrags über die Arbeitsweise der Europäischen
 Union.
 
-
 ## § 8 Flexibilitätsklausel
 
 Der deutsche Vertreter im Rat darf einem Vorschlag zum Erlass von
@@ -155,7 +144,6 @@ enthalten, nachdem hierzu ein Gesetz gemäß Artikel 23 Absatz 1 des
 Grundgesetzes in Kraft getreten ist. Ohne ein solches Gesetz muss der
 deutsche Vertreter im Rat den Vorschlag zum Erlass von Vorschriften
 ablehnen.
-
 
 ## § 9 Notbremsemechanismus
 
@@ -170,7 +158,6 @@ angewiesen hat.
 sind, muss der deutsche Vertreter im Rat einen Antrag nach Absatz 1
 auch dann stellen, wenn ein entsprechender Beschluss des Bundesrates
 vorliegt.
-
 
 ## § 10 Ablehnungsrecht bei Brückenklauseln
 
@@ -199,7 +186,6 @@ Europäischen Kommission für einen Beschluss des Rates gemäß Artikel 81
 Absatz 3 Unterabsatz 3 des Vertrags über die Arbeitsweise der
 Europäischen Union.
 
-
 ## § 11 Subsidiaritätsrüge
 
 (1) Der Bundestag und der Bundesrat können in ihren Geschäftsordnungen
@@ -212,7 +198,6 @@ herbeizuführen ist.
 übermittelt die begründete Stellungnahme an die Präsidenten der
 zuständigen Organe der Europäischen Union und setzt die
 Bundesregierung darüber in Kenntnis.
-
 
 ## § 12 Subsidiaritätsklage
 
@@ -238,7 +223,6 @@ Gerichtshof der Europäischen Union.
 (5) Wird im Bundestag oder im Bundesrat ein Antrag zur Erhebung einer
 Klage gemäß Absatz 1 oder gemäß Absatz 2 gestellt, so kann das andere
 Organ eine Stellungnahme abgeben.
-
 
 ## § 13 Unterrichtung
 

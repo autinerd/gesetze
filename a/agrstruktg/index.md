@@ -22,7 +22,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 9 G v. 9.12.2010 I 1934
 
-
 ## § 1 Gemeinschaftsaufgabe
 
 (1) Zur Verbesserung der Agrarstruktur und des Küstenschutzes werden
@@ -87,7 +86,6 @@ Grundgesetzes wahrgenommen:
 (2) Eine für Maßnahmen gemäß Absatz 1 erforderliche Vorplanung ist
 Bestandteil der Gemeinschaftsaufgabe.
 
-
 ## § 2 Allgemeine Grundsätze
 
 (1) Die Erfüllung der Gemeinschaftsaufgabe dient dazu, eine
@@ -104,12 +102,10 @@ sachliche Schwerpunkte gebildet werden. Bei den Maßnahmen ist
 Maßnahmen mit anderen öffentlichen Neuordnungs- und
 Entwicklungsmaßnahmen abzustimmen.
 
-
 ## § 3 Förderungsarten
 
 Die finanzielle Förderung kann in der Gewährung von Zuschüssen,
 Darlehen, Zinszuschüssen und Bürgschaften bestehen.
-
 
 ## § 4 Gemeinsamer Rahmenplan
 
@@ -120,7 +116,6 @@ Rahmenplan aufgestellt.
 aufzustellen, jedes Jahr sachlich zu prüfen, der Entwicklung
 anzupassen und fortzuführen. Die mehrjährige Finanzplanung des Bundes
 und der Länder ist zu berücksichtigen.
-
 
 ## § 5 Inhalt des Rahmenplans
 
@@ -137,7 +132,6 @@ Förderungsgrundsätze, in denen insbesondere der Verwendungszweck der
 Mittel, die Förderungsvoraussetzungen und die Art und Höhe der
 Förderung näher bestimmt werden.
 
-
 ## § 6 Planungsausschuß
 
 (1) Für die Rahmenplanung bilden die Bundesregierung und die
@@ -153,7 +147,6 @@ Land hat eine Stimme.
 Mehrheit der Stimmen der Länder.
 
 (4) Der Planungsausschuß gibt sich eine Geschäftsordnung.
-
 
 ## § 7 Anmeldung zum Rahmenplan
 
@@ -185,14 +178,12 @@ Vorschläge dem Planungsausschuß zur Beschlußfassung vor.
 (4) Für Anmeldungen zur Änderung des Rahmenplans gelten die Absätze 1
 bis 3 sinngemäß.
 
-
 ## § 8 Verfahren nach Beschluß über den Rahmenplan
 
 Der Planungsausschuß leitet den Rahmenplan der Bundesregierung und den
 Landesregierungen zu. Die Bundesregierung und die Landesregierungen
 nehmen die für die Durchführung des Rahmenplans im nächsten Jahr
 erforderlichen Ansätze in die Entwürfe ihrer Haushaltspläne auf.
-
 
 ## § 9 Durchführung des Rahmenplans
 
@@ -201,7 +192,6 @@ erforderlichen Ansätze in die Entwürfe ihrer Haushaltspläne auf.
 (2) Die Landesregierungen unterrichten die Bundesregierung und den
 Bundesrat auf Verlangen über die Durchführung des Rahmenplans und den
 allgemeinen Stand der Gemeinschaftsaufgabe.
-
 
 ## § 10 Erstattung
 
@@ -238,7 +228,6 @@ Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz
 die Höhe der verausgabten Mittel sowie den Stand und die
 voraussichtliche Entwicklung der Maßnahmen mit.
 
-
 ## § 11 Rückzahlung und Verzinsung der Bundesmittel
 
 (1) Beträge, die vom Zuwendungsempfänger zur Tilgung und Verzinsung
@@ -262,7 +251,6 @@ im Falle der Absätze 1 und 3 vom Beginn des zweiten auf den Eingang
 des Betrages beim Land folgenden Monats. Der am Ersten des Monats
 geltende Basiszinssatz ist für jeden Zinstag dieses Monats zugrunde zu
 legen.
-
 
 ## § 12 (Inkrafttreten)
 

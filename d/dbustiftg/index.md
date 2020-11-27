@@ -15,13 +15,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1990, 1448
 
-
-
 ## § 1 Errichtung und Rechtsform
 
 Der Bund wird unter dem Namen "Deutsche Bundesstiftung Umwelt" eine
 rechtsfähige Stiftung des bürgerlichen Rechts errichten.
-
 
 ## § 2 Aufgabe
 
@@ -56,18 +53,15 @@ fördern:
 
 (3) Die Stiftung soll jährlich einen Umweltpreis vergeben.
 
-
 ## § 3 Rechnungsprüfung
 
 Die Haushalts- und Wirtschaftsführung der Stiftung unterliegt der
 Prüfung durch den Bundesrechnungshof.
 
-
 ## § 4 Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin.
-
 
 ## § 5 Inkrafttreten
 

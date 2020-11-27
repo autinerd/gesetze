@@ -34,7 +34,6 @@ Arbeitsmittel und der beteiligten Kreise mit Zustimmung des
 Bundesrates
 als Artikel 1 der vorgenannten V erlassen.
 
-
 ## § 1 Anwendungsbereich
 
 (1) Diese Verordnung gilt für die Bereitstellung auf dem Markt und die
@@ -191,7 +190,6 @@ genauer erfasst, durch die andere Gemeinschaftsrichtlinien in
 deutsches Recht umgesetzt werden, so gelten insoweit die Bestimmungen
 dieser Verordnung für diese Maschine und diese Gefährdungen nicht.
 
-
 ## § 2 Begriffsbestimmungen
 
 
@@ -331,10 +329,6 @@ dieser Verordnung für diese Maschine und diese Gefährdungen nicht.
     Schutzes der Umwelt sind nur auf die in Abschnitt 2.4 dieses Anhangs
     genannten Maschinen anzuwenden.
 
-
-
-
-
 ## § 3 Voraussetzungen für die Bereitstellung von Maschinen auf dem Markt oder die Inbetriebnahme von Maschinen
 
 (1) Der Hersteller oder sein Bevollmächtigter darf Maschinen nur in
@@ -401,7 +395,6 @@ hergestellt worden, so wird davon ausgegangen, dass sie den von dieser
 harmonisierten Norm erfassten grundlegenden Sicherheits- und
 Gesundheitsschutzanforderungen entspricht.
 
-
 ## § 4 Konformitätsbewertungsverfahren für Maschinen
 
 (1) Der Hersteller oder sein Bevollmächtigter führt eines der in den
@@ -457,10 +450,6 @@ durch:
 2.  das in Anhang X der Richtlinie 2006/42/EG beschriebene Verfahren der
     umfassenden Qualitätssicherung.
 
-
-
-
-
 ## § 5 CE-Kennzeichnung
 
 (1) Die nach § 3 Abs. 2 Nr. 6 erforderliche CE-Kennzeichnung richtet
@@ -484,7 +473,6 @@ Bedeutung oder des Schriftbildes der CE-Kennzeichnung oder in
 beiderlei Hinsicht irregeführt werden könnten. Jede andere
 Kennzeichnung darf auf der Maschine angebracht werden, wenn sie die
 Sichtbarkeit und Lesbarkeit der CE-Kennzeichnung nicht beeinträchtigt.
-
 
 ## § 6 Voraussetzungen für die Bereitstellung von unvollständigen Maschinen auf dem Markt
 
@@ -512,7 +500,6 @@ technischen Unterlagen der vollständigen Maschine.
 (3) Das Anbringen der CE-Kennzeichnung auf unvollständige Maschinen
 ist nicht zulässig.
 
-
 ## § 7 Marktüberwachung
 
 (1) Die Marktüberwachungsbehörden treffen alle erforderlichen
@@ -539,7 +526,6 @@ Richtlinie 2006/42/EG genannten Maschinen zur Ausbringung von
 Pestiziden wirken das Julius Kühn-Institut, Bundesforschungsinstitut
 für Kulturpflanzen, und die für die Durchführung des
 Pflanzenschutzrechts zuständigen Behörden der Länder mit.
-
 
 ## § 8 Ordnungswidrigkeiten
 
@@ -583,10 +569,6 @@ Produktsicherheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 9.  entgegen § 6 Absatz 3 eine CE-Kennzeichnung anbringt.
-
-
-
-
 
 ## § 9 Übergangsbestimmungen
 

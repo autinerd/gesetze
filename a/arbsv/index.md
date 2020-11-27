@@ -19,12 +19,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 11 G v. 19.11.2004 I 2902
 
-
 ## Eingangsformel
 
 Auf Grund des § 34 des Arbeitssicherstellungsgesetzes vom 9. Juli 1968
 (BGBl. I S. 787) verordnet die Bundesregierung:
-
 
 ## § 1 Bedarfsfeststellung, Bedarfsanmeldung
 
@@ -62,14 +60,12 @@ voraussichtlich nicht oder nicht rechtzeitig festgestellt und
 angemeldet werden kann und deswegen die Deckung des
 Arbeitskräftebedarfs gefährdet wird.
 
-
 ## § 2 Zuständige Agentur für Arbeit
 
 Für die Entgegennahme der Bedarfsanmeldung und der
 Veränderungsanzeigen ist die Agentur für Arbeit zuständig, in deren
 Bezirk die Beschäftigungsdienststelle oder der Beschäftigungsbetrieb
 liegt.
-
 
 ## § 3 Erfassung des Bedarfs
 
@@ -108,7 +104,6 @@ Arbeitsleistungen vor (§ 3 des Gesetzes), so hat die Agentur für
 Arbeit außerdem den Zeitpunkt des Arbeitsantritts und die
 voraussichtliche Dauer der Beschäftigung festzustellen.
 
-
 ## § 4 Bedarfsdeckung, Grundsatz der Freiwilligkeit
 
 Die Agentur für Arbeit trifft alle notwendigen Maßnahmen, damit der
@@ -121,7 +116,6 @@ durchzuführen, als für die Deckung des Arbeitskräftebedarfs nicht oder
 nicht rechtzeitig genügend Freiwillige gewonnen werden können (§ 1 des
 Gesetzes).
 
-
 ## § 5 Vorrangige Heranziehung Nichterwerbstätiger
 
 Für die Deckung des Arbeitskräftebedarfs sind, wenn und soweit dies
@@ -133,7 +127,6 @@ Bezirks der Agentur für Arbeit nicht genügend Nichterwerbstätige zur
 Verfügung, so ist zu versuchen, den Bedarf möglichst mit
 nichterwerbstätigen Arbeitskräften aus Bezirken von benachbarten
 Agenturen für Arbeit zu decken.
-
 
 ## § 6 Verteilung der Arbeitskräfte
 
@@ -183,7 +176,6 @@ liegt im öffentlichen Interesse. Hat die Agentur für Arbeit ohne
 vorherige Anhörung des Arbeitskräfteausschusses entschieden, so ist
 der Ausschuß unverzüglich zu unterrichten.
 
-
 ## § 7 Entscheidung der Agentur für Arbeit
 
 (1) Die Agentur für Arbeit entscheidet über die Deckung des
@@ -199,7 +191,6 @@ erhoben, so hat die durch den Vorstand der Bundesagentur für Arbeit
 mit der Wahrnehmung der Aufgaben beauftragte Dienststelle der
 Bundesagentur für Arbeit vor der Entscheidung über den Widerspruch den
 bei ihr bestehenden Arbeitskräfteausschuss (§ 9) zu hören.
-
 
 ## § 8 Arbeitskräfteausschuss bei der Agentur für Arbeit
 
@@ -260,7 +251,6 @@ Arbeitskräfteausschusses verlangen. Die Behörden der allgemeinen
 Verwaltung auf der Kreisstufe nach Satz 1 Nr. 2 sind zu den Beratungen
 auch auf deren Verlangen hinzuzuziehen.
 
-
 ## § 9 Arbeitskräfteausschüsse bei den durch den Vorstand der Bundesagentur für Arbeit beauftragten Stellen
 
 (1) Bei jeder durch den Vorstand der Bundesagentur mit der Wahrnehmung
@@ -292,7 +282,6 @@ Ausschusses leitet die vom Vorsitzenden des Vorstands der
 Bundesagentur für Arbeit beauftragte Person.
 
 (4) § 8 Abs. 5 gilt entsprechend.
-
 
 ## § 10 Weitere Aufgaben der Arbeitskräfteausschüsse und der Bundesagentur für Arbeit
 
@@ -327,7 +316,6 @@ zu unterrichten.
 nach § 7 Abs. 2 mit der Wahrnehmung der Aufgaben beauftragten
 Dienststelle und für die beauftragte Dienststelle entsprechend.
 
-
 ## § 11 Entschädigung und Auslagenerstattung
 
 Die Mitglieder der Arbeitskräfteausschüsse, ihre Stellvertreter und
@@ -355,11 +343,9 @@ Arbeit den Verwaltungsausschüssen der Agenturen für Arbeit und die
 Arbeitskräfteausschüsse bei den beauftragten Dienststellen den
 Verwaltungsausschüssen der beauftragten Dienststellen.
 
-
 ## § 12 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlußformel
 

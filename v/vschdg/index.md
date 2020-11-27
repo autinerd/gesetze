@@ -17,10 +17,7 @@ Fundstelle
 
 Stand: Zuletzt geändert Art. 2 G v. 5.12.2012 I 2454
 
-
 ## Abschnitt 1 - Allgemeine Bestimmungen
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -51,7 +48,6 @@ Zuständigkeiten und Befugnisse nach
 (3) Die Befugnisse nach diesem Gesetz gelten nicht, soweit in anderen
 Rechtsvorschriften entsprechende oder weitergehende Regelungen
 vorgesehen sind.
-
 
 ### § 2 Zuständige Behörde
 
@@ -150,10 +146,6 @@ Für die Durchführung der Verordnung (EG) Nr. 2006/2004 sind zuständig
 6.  vorbehaltlich der Nummer 1 Buchstabe b die nach Landesrecht zuständige
     Behörde in den übrigen Fällen.
 
-
-
-
-
 ### § 3 Zentrale Verbindungsstelle
 
 (1) Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit ist
@@ -169,10 +161,7 @@ gehören insbesondere Klagen und Urteile, die im Zusammenhang mit einem
 Verdacht eines innergemeinschaftlichen Verstoßes gegen Gesetze zum
 Schutz der Verbraucherinteressen erhoben worden oder ergangen sind.
 
-
 ## Abschnitt 2 - Durchsetzung der Gesetze zum Schutz der Verbraucherinteressen
-
-
 
 ### § 4 Aufgaben der zuständigen Behörden
 
@@ -185,10 +174,6 @@ Die zuständige Behörde wird tätig
 
 2.  zur Erfüllung der Aufgaben nach den Artikeln 7 und 9 der Verordnung
     (EG) Nr. 2006/2004.
-
-
-
-
 
 ### § 5 Befugnisse der zuständigen Behörde
 
@@ -289,7 +274,6 @@ Weise zu unterrichten, in der sie die betreffenden Informationen zuvor
 bekannt gegeben hat, soweit ein Betroffener hieran ein berechtigtes
 Interesse hat und dies beantragt.
 
-
 ### § 6 Duldungs- und Mitwirkungspflichten
 
 Der Verkäufer oder Dienstleister, die nach Gesetz oder Satzung zu
@@ -309,7 +293,6 @@ Betriebs- und Geschäftsräume sind verpflichtet, die Maßnahmen nach
 
 Insbesondere sind die in Satz 1 genannten Personen verpflichtet, auf
 Verlangen der zuständigen Behörde Räume zu öffnen.
-
 
 ### § 7 Beauftragung Dritter
 
@@ -354,7 +337,6 @@ erlassen. Die Landesregierungen sind befugt, die Ermächtigung nach
 Satz 1 durch Rechtsverordnung ganz oder teilweise auf andere Behörden
 des Landes zu übertragen.
 
-
 ### § 8 Außenverkehr
 
 Die Befugnis zum Verkehr mit der Europäischen Kommission und den mit
@@ -362,10 +344,7 @@ der Durchführung der Verordnung (EG) Nr. 2006/2004 befassten Behörden
 anderer Mitgliedstaaten der Europäischen Union wird der Zentralen
 Verbindungsstelle übertragen.
 
-
 ## Abschnitt 3 - Bußgeldvorschriften, Vollstreckung, Kosten
-
-
 
 ### § 9 Bußgeldvorschriften
 
@@ -389,7 +368,6 @@ Euro geahndet werden.
 Zuständigkeit die in § 2 Nr. 1, 2 oder 3 genannten Behörden, soweit
 das Gesetz durch diese Behörden ausgeführt wird.
 
-
 ### § 10 Vollstreckung
 
 Die zuständige Behörde kann ihre Anordnungen nach den für die
@@ -397,7 +375,6 @@ Vollstreckung von Verwaltungsmaßnahmen geltenden Vorschriften
 durchsetzen. Die Höhe des Zwangsgeldes für Entscheidungen nach § 5
 Abs. 1 Satz 2 Nr. 1 beträgt für jeden Einzelfall höchstens
 zweihundertfünfzigtausend Euro.
-
 
 ### § 11 Kosten
 
@@ -452,10 +429,7 @@ Geschäftsbereich gehörende zuständige Behörde nach § 2 Nr. 1, 2 oder 3
 (6) Für die Amtshandlungen der nach Landesrecht zuständigen Behörden
 werden die Bestimmungen nach Absatz 4 durch Landesrecht getroffen.
 
-
 ## Abschnitt 4 - Anpassung an geändertes Gemeinschaftsrecht
-
-
 
 ### § 12 Ermächtigung zur Anpassung
 
@@ -484,13 +458,7 @@ Zustimmung des Bundesrates
     Erlass entsprechender Vorschriften in Verordnungen der Europäischen
     Gemeinschaft oder der Europäischen Union unanwendbar geworden sind.
 
-
-
-
-
 ## Abschnitt 5 - Rechtsschutz bei bestimmten Verwaltungsmaßnahmen
-
-
 
 ### § 13 Zulässigkeit, Zuständigkeit
 
@@ -522,7 +490,6 @@ sie kann auch auf neue Tatsachen und Beweismittel gestützt werden.
 (4) Über die Beschwerde entscheidet ausschließlich das für den Sitz
 der zuständigen Behörde zuständige Landgericht. § 36 der
 Zivilprozessordnung gilt entsprechend.
-
 
 ### § 14 Aufschiebende Wirkung, Anordnung der sofortigen Vollziehung
 
@@ -575,7 +542,6 @@ Abs. 1 der Verwaltungsgerichtsordnung entsprechend.
 
 (9) In dringenden Fällen kann der Vorsitzende entscheiden.
 
-
 ### § 15 Frist und Form
 
 (1) Die Beschwerde ist binnen einer Frist von einem Monat bei der
@@ -610,7 +576,6 @@ Rechtslehrer an einer deutschen Hochschule im Sinne des
 Hochschulrahmengesetzes mit Befähigung zum Richteramt unterzeichnet
 sein.
 
-
 ### § 16 Beteiligte am Beschwerdeverfahren
 
 An dem Verfahren vor dem Beschwerdegericht sind beteiligt
@@ -630,10 +595,6 @@ An dem Verfahren vor dem Beschwerdegericht sind beteiligt
     auswirkt und dadurch die Interessen der Verbraucher insgesamt
     erheblich berührt werden.
 
-
-
-
-
 ### § 17 Anwaltszwang
 
 Vor dem Beschwerdegericht müssen die Beteiligten sich durch einen bei
@@ -644,7 +605,6 @@ zuständige Behörde kann sich auch durch Beamte oder Angestellte mit
 Befähigung zum Richteramt sowie Diplomjuristen im höheren Dienst
 vertreten lassen.
 
-
 ### § 18 Mündliche Verhandlung
 
 (1) Das Beschwerdegericht entscheidet über die Beschwerde auf Grund
@@ -654,7 +614,6 @@ mündliche Verhandlung entschieden werden.
 (2) Sind die Beteiligten in dem Verhandlungstermin trotz rechtzeitiger
 Benachrichtigung nicht erschienen oder gehörig vertreten, so kann
 gleichwohl in der Sache verhandelt und entschieden werden.
-
 
 ### § 19 Untersuchungsgrundsatz
 
@@ -678,7 +637,6 @@ befindliche Urkunden sowie andere Beweismittel vorzulegen. Bei
 Versäumung der Frist kann nach Lage der Sache ohne Berücksichtigung
 der nicht beigebrachten Unterlagen entschieden werden.
 
-
 ### § 20 Beschwerdeentscheidung
 
 (1) Das Beschwerdegericht entscheidet durch Beschluss nach seiner
@@ -698,7 +656,6 @@ ergehen kann.
 
 (3) Der Beschluss ist zu begründen und mit einer Rechtsmittelbelehrung
 den Beteiligten zuzustellen.
-
 
 ### § 21 Akteneinsicht
 
@@ -730,7 +687,6 @@ Bedeutung der Sache das Interesse des Betroffenen an der Geheimhaltung
 Beschwerdegericht nach Anhörung des Verfügungsberechtigten
 Akteneinsicht in gleichem Umfang gewähren.
 
-
 ### § 22 Geltung von Vorschriften des Gerichtsverfassungsgesetzes und der Zivilprozessordnung
 
 Im Verfahren vor dem Beschwerdegericht gelten ergänzend, soweit nichts
@@ -756,7 +712,6 @@ anderes bestimmt ist,
 Die Vorschriften des Siebzehnten Titels des
 Gerichtsverfassungsgesetzes sind entsprechend anzuwenden.
 
-
 ### § 23 Einstweilige Anordnung
 
 (1) Auf Antrag kann das Beschwerdegericht, auch schon vor
@@ -778,7 +733,6 @@ zuständig. § 14 Abs. 6, 7 und 9 gilt entsprechend.
 entsprechend.
 
 (4) Die Absätze 1 bis 3 gelten nicht für die Fälle des § 14.
-
 
 ### § 24 Rechtsbeschwerde
 
@@ -828,10 +782,6 @@ folgenden Mängel des Verfahrens vorliegt und gerügt wird:
 
 6.  die Entscheidung ist nicht mit Gründen versehen.
 
-
-
-
-
 ### § 25 Nichtzulassungsbeschwerde
 
 (1) Die Nichtzulassung der Rechtsbeschwerde kann selbständig durch
@@ -856,7 +806,6 @@ Bundesgerichtshofes rechtskräftig. Wird die Rechtsbeschwerde
 zugelassen, so beginnt mit der Zustellung des Beschlusses des
 Bundesgerichtshofes der Lauf der Beschwerdefrist.
 
-
 ### § 26 Beschwerdeberechtigte, Form und Frist
 
 (1) Die Rechtsbeschwerde steht den am Beschwerdeverfahren Beteiligten
@@ -879,7 +828,6 @@ Rechtsbeschwerdegründe vorgebracht sind.
 2, 3, 4 Nr. 1 und Abs. 5, die §§ 16 bis 18 sowie die §§ 20 bis 22
 entsprechend.
 
-
 ### § 27 Kostentragung und -festsetzung
 
 Im Beschwerdeverfahren und im Rechtsbeschwerdeverfahren kann das
@@ -891,7 +839,6 @@ Rechtsmittel oder durch grobes Verschulden veranlasst, so sind ihm die
 Kosten aufzuerlegen. Im Übrigen gelten die Vorschriften der
 Zivilprozessordnung über das Kostenfestsetzungsverfahren und die
 Zwangsvollstreckung aus Kostenfestsetzungsbeschlüssen entsprechend.
-
 
 ### § 28 Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör
 

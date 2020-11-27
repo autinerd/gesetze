@@ -17,13 +17,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1996, 826
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -32,7 +29,6 @@ Bundesrepublik Deutschland und der Republik Polen über die Erhaltung
 der Grenzbrücken im Zuge der deutschen Bundesfernstraßen und der
 polnischen Landesstraßen an der deutsch-polnischen Grenze wird
 zugestimmt. Das Abkommen wird nachstehend veröffentlicht.
-
 
 ## Art 2
 
@@ -46,7 +42,6 @@ diese Umsätze wird keine deutsche Umsatzsteuer erhoben.
 (3) Für die in Artikel 10 Abs. 3 Satz 1 des Abkommens genannten Waren
 werden außer Zöllen keine Einfuhrabgaben erhoben. Dies gilt nicht bei
 der Einfuhr für die öffentlichen Bauverwaltungen.
-
 
 ## Art 3
 

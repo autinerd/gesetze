@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 2 V v. 25.7.2012 I 1702
 
-
 ## Eingangsformel
 
 Auf Grund des § 10 Abs. 2 des Postpersonalrechtsgesetzes vom 14.
@@ -28,7 +27,6 @@ Nr. 4 des Gesetzes vom 14. September 2005 (BGBl. I S. 2746) geändert
 worden ist, verordnet das Bundesministerium der Finanzen nach Anhörung
 des Vorstands der Deutschen Postbank AG im Einvernehmen mit dem
 Bundesministerium des Innern:
-
 
 ## § 1 Persönlicher Geltungsbereich, leistungsbezogene Entgelte
 
@@ -39,7 +37,6 @@ können Erfolgs-, Akquisitions- und Mengenzulagen nach den §§ 6 bis 8
 der Postleistungszulagenverordnung vom 3. Dezember 1996 (BGBl. I S.
 1833), die zuletzt durch § 14 Satz 2 der Verordnung vom 12. Dezember
 2005 (BGBl. I S. 3475) geändert worden ist, gewährt werden.
-
 
 ## § 2 Leistungsentgelt
 
@@ -52,7 +49,6 @@ Leistungsbeurteilung nach § 7 ermittelt.
 des auf den Beurteilungszeitraum folgenden Jahres gezahlt.
 Beurteilungszeitraum ist grundsätzlich das Kalenderjahr. Das
 Leistungsentgelt wird nicht auf die Besoldung angerechnet.
-
 
 ## § 3 Leistungsbudget
 
@@ -68,7 +64,6 @@ der jeweiligen monatlichen Endgrundgehälter und Grundgehälter ist der
 (2) Der Gesamtbetriebsrat wird über die Höhe der nach Absatz 1
 ermittelten Leistungsbudgets und die Anzahl der Beamtinnen und Beamten
 je Leistungsbudget unterrichtet.
-
 
 ## § 4 Ermittlung des Zahlbetrages
 
@@ -182,7 +177,6 @@ Kindes. Hat das Beamtenverhältnis im Beurteilungszeitraum aus Gründen,
 die die Beamtin oder der Beamte zu vertreten hat, weniger als drei
 Monate bestanden, ist der Faktor 0,5 nach Absatz 2 anzuwenden.
 
-
 ## § 5 Zielbewertung
 
 (1) Die Zielbewertung erfolgt nach den in § 4 Abs. 1 festgelegten
@@ -204,7 +198,6 @@ Leistungsbeurteilung nach § 7.
 Beurteilungszeitraum folgenden Kalenderjahres eine auf Laufbahngruppen
 bezogene Zusammenstellung der erreichten Zielbewertungsstufen in
 anonymisierter Form.
-
 
 ## § 6 Zielvereinbarung
 
@@ -255,7 +248,6 @@ oder dessen Stellvertretung werden die Ziele in anonymisierter Form
 mitgeteilt. Die Deutsche Postbank AG kann Ziele ausdrücklich als
 geheimhaltungsbedürftig kennzeichnen.
 
-
 ## § 7 Leistungsbeurteilung
 
 (1) Die Leistungsbeurteilung berücksichtigt folgende Kriterien:
@@ -290,7 +282,6 @@ sie oder er mindestens zwei Wochen vorher den Entwurf der
 Leistungsbeurteilung. § 6 Abs. 2 Satz 7 und 8 gilt entsprechend.
 
 (3) § 5 Abs. 3 gilt entsprechend.
-
 
 ## § 8 Einigungsverfahren für Zielbewertung und Leistungsbeurteilung
 
@@ -335,7 +326,6 @@ Wochen nach einem Zielvereinbarungsgespräch nach § 6 Abs. 2 Satz 1
 keine Zielvereinbarung geschlossen wird. Die Absätze 1 bis 4 gelten
 entsprechend.
 
-
 ## § 8a Leistungsentgelt bei nicht zu vertretender Verhinderung an der Dienstverrichtung
 
 Eine Zielbewertung oder Leistungsbeurteilung entfällt, wenn die
@@ -347,7 +337,6 @@ Leistungsbewertungsstufe nach § 4 Absatz 1 als erreicht. Ist im
 vorangegangenen Beurteilungszeitraum keine Zielbewertung oder
 Leistungsbeurteilung erfolgt, so gilt die Leistungsbewertungsstufe
 „Erfüllt stets die Anforderungen“ als erreicht.
-
 
 ## § 9 Übergangsregelung
 
@@ -400,7 +389,6 @@ Verordnung folgenden Kalendermonats.
 (6) Abweichend von § 2 Abs. 1 Satz 3 und § 5 erfolgt die Ermittlung
 des Leistungsentgelts im Jahr 2007 auf der Basis einer
 Leistungsbeurteilung.
-
 
 ## § 10 Inkrafttreten, Außerkrafttreten anderer Vorschriften
 

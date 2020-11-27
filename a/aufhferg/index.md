@@ -16,32 +16,24 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 3651
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## (XXXX) Art 1 bis 4
-
-
 
 ## Art 5
 
 -
 
-
 ## Art 6
 
 (weggefallen)
 
-
 ## Art 7
 
 -
-
 
 ## Art 8 Neufassung der geänderten Gesetze und Verordnungen
 
@@ -51,13 +43,11 @@ Einkommensteuer-Durchführungsverordnung in der vom Inkrafttreten der
 Rechtsvorschriften an geltenden Fassung im Bundesgesetzblatt bekannt
 machen.
 
-
 ## Art 9 Rückkehr zum einheitlichen Verordnungsrang
 
 Der auf Artikel 2 beruhende Teil der Einkommensteuer-
 Durchführungsverordnung kann aufgrund der Ermächtigungsgrundlage durch
 Rechtsverordnung geändert werden.
-
 
 ## Art 10 Inkrafttreten, Außerkrafttreten
 

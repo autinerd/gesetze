@@ -81,7 +81,6 @@ einzelvertraglicher Vereinbarungen bleiben unberührt.
 geleisteten Stunden wird spätestens zur Mitte des Monats fällig, der
 auf den Monat folgt, für den er zu zahlen ist.
 
-
 ## Anhang Betrieblicher Geltungsbereich des Rahmentarifvertrages für gewerbliche Arbeitnehmer im Dachdeckerhandwerk – Dach-, Wand- und Abdichtungstechnik – in der nach § 1 Satz 1 der Verordnung maßgeblichen, am 1. Januar 2012 geltenden Fassung:
 
 (Fundstelle: BAnz. 2011, 4624)

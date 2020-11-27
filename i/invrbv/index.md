@@ -20,7 +20,6 @@ Fundstelle
 Geändert durch
 :   Art. 3 V v. 28.6.2011 I 1278
 
-
 ## Eingangsformel
 
 Auf Grund des § 34 Absatz 3 Satz 1, § 36 Absatz 5 Satz 1, § 44 Absatz
@@ -40,9 +39,7 @@ Finanzdienstleistungsaufsicht vom 13. Dezember 2002 (BGBl. 2003 I S.
 Bundesanstalt für Finanzdienstleistungsaufsicht im Einvernehmen mit
 dem Bundesministerium der Justiz:
 
-
 ## Abschnitt 1 - Allgemeine Vorschriften
-
 
 ### § 1 Geltungsbereich
 
@@ -53,7 +50,6 @@ Sondervermögen und der Jahresabschlüsse und Lageberichte, Halbjahres-,
 Zwischen-, Auflösungs- und Liquidationsberichte von
 Investmentaktiengesellschaften (Berichte) sowie zur Bewertung von
 Vermögensgegenständen.
-
 
 ### § 2 Inhalt und Umfang der Berichterstattung
 
@@ -75,7 +71,6 @@ niedergelegten Bestimmungen.
 
 (3) Verweisungen auf den Inhalt früherer Berichte sind nicht zulässig.
 
-
 ### § 3 Einreichung bei der Bundesanstalt
 
 Die Berichte nach den §§ 44, 110 und 111 des Investmentgesetzes sind
@@ -90,7 +85,6 @@ auf dem Deckblatt entsprechend zu kennzeichnen. Satz 1 gilt für
 Spezial-Sondervermögen und Spezial-Investmentaktiengesellschaften nur,
 wenn die Bundesanstalt dies anfordert.
 
-
 ### § 4 Investmentrechtliche Rechnungslegung
 
 Auf die investmentrechtliche Rechnungslegung sind die formellen
@@ -101,12 +95,9 @@ Berichte nach dem Investmentgesetz auszurichten und muss vollständig,
 richtig, zeitgerecht, geordnet und nachvollziehbar sein sowie eine
 Nachprüfbarkeit durch sachverständige Dritte ermöglichen.
 
-
 ## Abschnitt 2 - Rechnungslegung
 
-
 ### Unterabschnitt 1 - Jahresbericht
-
 
 #### § 5 Darstellung und Inhalt
 
@@ -161,10 +152,6 @@ sind:
 8.  der besondere Vermerk über das Ergebnis der Prüfung des Jahresberichts
     des Sondervermögens.
 
-
-
-
-
 #### § 6 Tätigkeitsbericht
 
 (1) Im Tätigkeitsbericht für das Sondervermögen ist die Tätigkeit der
@@ -198,10 +185,6 @@ des Tätigkeitsberichtes nicht gemindert werden.
 
 4.  sonstige für den Anleger wesentliche Ereignisse im Berichtszeitraum
     wie beispielsweise die Auslagerung des Portfoliomanagements.
-
-
-
-
 
 #### § 7 Vermögensaufstellung
 
@@ -263,7 +246,6 @@ Kapitalanlagegesellschaft zu dokumentieren. Die Depotbank ist dabei
 der Kapitalanlagegesellschaft gegenüber verpflichtet, über
 Einzelheiten der Bewertung des Investmentvermögens Auskunft zu
 erteilen.
-
 
 #### § 8 Ertrags- und Aufwandsrechnung
 
@@ -448,7 +430,6 @@ Einstandskosten der veräußerten Vermögensgegenstände nach der
 Durchschnittsmethode anzusetzen. Bei Wertpapieren derselben Gattung
 sind die Gewinne und Verluste aus Verkäufen zu kompensieren.
 
-
 #### § 9 Verwendung der Erträge des Sondervermögens
 
 (1) Die Berechnung der Verwendung der Erträge des Sondervermögens
@@ -526,7 +507,6 @@ entsprechende Umnummerierung der Posten hat zu erfolgen.
 Sondervermögen gemäß Absatz 1 Gliederungsziffer I Nummer 3 vorgenommen
 wird, ist die Verwendungsrechnung ergänzend zu erläutern.
 
-
 #### § 10 Entwicklung des Sondervermögens
 
 (1) Die Entwicklung des Sondervermögens (Entwicklungsrechnung) ist
@@ -585,7 +565,6 @@ Anschaffungsnebenkosten“ einzufügen.
 Posten unter Absatz 1 Gliederungsziffer I Nummer 3 Buchstabe b
 zuzuordnen und mindern diesen.
 
-
 #### § 11 Vergleichende Übersicht der letzten drei Geschäftsjahre
 
 Über den Inhalt nach § 44 Absatz 1 Nummer 5 des Investmentgesetzes
@@ -593,7 +572,6 @@ hinaus ist bei jüngeren Sondervermögen die Wertentwicklung für die
 Zeit seit Auflegung anzugeben. Bei mehreren Anteilklassen ist die
 Wertentwicklung mindestens für die Anteilklasse mit der höchsten
 Gesamtkostenquote darzustellen.
-
 
 #### § 12 Anteilklassen
 
@@ -617,7 +595,6 @@ ergibt. Der Wert einer Anteilklasse ist vorbehaltlich des § 36 Absatz
 1 Satz 3 des Investmentgesetzes börsentäglich zu ermitteln. Wird nach
 den Vertragsbedingungen ein Ertragsausgleichsverfahren durchgeführt,
 ist der Ertragsausgleich für jede einzelne Anteilklasse zu berechnen.
-
 
 #### § 13 Sonstige Angaben
 
@@ -668,15 +645,7 @@ Investmentgesetzes anzugeben.
 
     f)  Angabe der Transaktionskosten.
 
-
-
-
-
-
-
-
 ### Unterabschnitt 2 - Sonstige Berichte
-
 
 #### § 14 Halbjahresbericht
 
@@ -687,7 +656,6 @@ besonderen Vermerk des Abschlussprüfers und vergleichende Übersicht
 der letzten drei Geschäftsjahre erstellt werden. Eine Ertrags- und
 Aufwandsrechnung sowie eine Entwicklungsrechnung ist nur aufzunehmen,
 wenn im jeweiligen Halbjahr eine Zwischenausschüttung erfolgt ist.
-
 
 #### § 15 Zwischenbericht
 
@@ -702,16 +670,13 @@ erstellen. Diese Aufstellungen sind der aufnehmenden
 Kapitalanlagegesellschaft zur Fortführung der Buchhaltung zu
 übermitteln.
 
-
 #### § 16 Auflösungs- und Abwicklungsbericht
 
 Auf den Auflösungsbericht bei Auflösung des Sondervermögens und den
 Abwicklungsbericht bei Abwicklung des Sondervermögens sind die
 Vorschriften für den Jahresbericht entsprechend anzuwenden.
 
-
 ### Unterabschnitt 3 - Investmentaktiengesellschaft
-
 
 #### § 17 Anwendbarkeit auf Investmentaktiengesellschaften
 
@@ -734,7 +699,6 @@ Bericht über die Auflösung des Teilgesellschaftsvermögens
 Teilgesellschaftsvermögen aufgegliederte Bilanz, die Gewinn- und-
 Verlustrechnung, die Angaben des Lageberichts und des Anhangs
 zusammenhängend darzustellen.
-
 
 #### § 18 Bilanz
 
@@ -759,7 +723,6 @@ Investmentgesetzes.
 (3) Auf die Bewertung des Investmentanlagevermögens sind die §§ 22 bis
 26 dieser Verordnung anzuwenden.
 
-
 #### § 19 Gewinn- und Verlustrechnung
 
 Für die Gewinn- und Verlustrechnung der Investmentaktiengesellschaft
@@ -775,7 +738,6 @@ hat die Gewinn- und Verlustrechnung darüber hinaus nach
 Teilgesellschaftsvermögen aufzugliedern. Soweit die Satzung oder die
 Anlagebedingungen der Investmentaktiengesellschaft ein
 Ertragsausgleichsverfahren vorsehen, gilt § 8 Absatz 5 entsprechend.
-
 
 #### § 20 Lagebericht
 
@@ -838,7 +800,6 @@ Absatz 1 Nummer 26 des Investmentgesetzes und § 4 Absatz 4 bis 7 der
 Wertpapierdienstleistungs-Verhaltens- und Organisationsverordnung
 entsprechend anzuwenden.
 
-
 #### § 21 Anhang
 
 (1) Bei einer Investmentaktiengesellschaft mit
@@ -872,12 +833,7 @@ Teilgesellschaftsvermögen:
 
 5.  die vergleichende Übersicht der letzten drei Geschäftsjahre nach § 11.
 
-
-
-
-
 ## Abschnitt 3 - Bewertung
-
 
 ### § 22 Allgemeine Bewertungsgrundsätze
 
@@ -905,7 +861,6 @@ Sicherungsgeschäft ist nicht zulässig.
 den §§ 23 und 24 dieser Verordnung ist regelmäßig von der internen
 Revision zu überprüfen.
 
-
 ### § 23 Bewertung auf der Grundlage von handelbaren Kursen
 
 (1) Für Vermögensgegenstände, die zum Handel an einer Börse oder an
@@ -927,7 +882,6 @@ und gängig nutzt. Indikative Kurse sind keine handelbaren Kurse.
 (3) Vermögensgegenstände, für die die Kursstellung auf der Grundlage
 von Geld- und Briefkursen erfolgt, sind grundsätzlich entweder zum
 Mittelkurs oder zum Geldkurs zu bewerten.
-
 
 ### § 24 Bewertung auf der Grundlage geeigneter Bewertungsmodelle
 
@@ -963,7 +917,6 @@ zweiten verlässlichen und aktuellen Preisquelle, einen Vergleich des
 Wertes mit einer eigenen modellgestützten Bewertung oder durch andere
 geeignete Verfahren erfolgen.
 
-
 ### § 25 Besonderheiten bei Vermögensgegenständen mit dem Charakter einer unternehmerischen Beteiligung
 
 (1) Zum Nachweis des Vorliegens der Erwerbsvoraussetzung nach § 36
@@ -992,7 +945,6 @@ Bewertungsfaktoren nicht mehr sachgerecht ist. Die
 Kapitalanlagegesellschaft hat ihre Entscheidung und die sie tragenden
 Gründe nachvollziehbar zu dokumentieren.
 
-
 ### § 26 Besonderheiten bei Investmentanteilen, Bankguthaben und Verbindlichkeiten
 
 (1) Anteile an inländischen Investmentvermögen, EG-Investmentanteile
@@ -1009,7 +961,6 @@ Rückzahlung bei der Kündigung nicht zum Nennwert zuzüglich Zinsen
 erfolgt.
 
 (3) Verbindlichkeiten sind mit ihrem Rückzahlungsbetrag anzusetzen.
-
 
 ### § 27 Besonderheiten bei Anlagen in Immobilien
 
@@ -1068,10 +1019,6 @@ entsprechenden Vermögensgegenständen gelten folgende Besonderheiten:
 
 3.  Bei Grundstücken, die zum Zwecke der Bebauung erworben werden, ist §
     79 Absatz 1 Satz 6 und 7 des Investmentgesetzes nicht anzuwenden.
-
-
-
-
 
 ### § 28 Bewertung von Beteiligungen an Immobilien-Gesellschaften
 
@@ -1211,7 +1158,6 @@ bis zum Berichtsstichtag fortgeschriebene Wert der direkt für Rechnung
 des Sondervermögens gehaltenen Beteiligungen an Immobilien-
 Gesellschaften anzusetzen.
 
-
 ### § 29 Besonderheiten bei Anlagen von Spezial-Sondervermögen
 
 § 25 gilt entsprechend für Spezial-Sondervermögen mit Anlagen in
@@ -1223,16 +1169,13 @@ Nummer 5 des Investmentgesetzes gilt dies mit der Maßgabe, dass diese
 stets nach den anerkannten Grundsätzen für die Immobilienbewertung
 durch einen unabhängigen Sachverständigen zu bewerten sind.
 
-
 ### § 30 Anwendbarkeit auf Investmentaktiengesellschaften
 
 Die für Kapitalanlagegesellschaften geltenden Vorschriften dieses
 Abschnitts sind entsprechend für Investmentaktiengesellschaften
 anzuwenden.
 
-
 ## Abschnitt 4 - Schlussvorschriften
-
 
 ### § 31 Übergangsregelungen
 
@@ -1248,7 +1191,6 @@ zwischen dem Tag des Inkrafttretens dieser Verordnung und dem letzten
 Tag der darauf folgenden fünf Jahre linear Rückstellungen für Zwecke
 der Steuern im Sinn des § 27 Absatz 2 Nummer 2 in den Sondervermögen
 aufzubauen.
-
 
 ### § 32 Inkrafttreten, Außerkrafttreten
 

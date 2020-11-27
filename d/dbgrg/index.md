@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 307 V v. 31.10.2006 I 2407
 
-
 ## Erster Abschnitt - Gründung
-
-
 
 ### § 1 Errichtung der Gesellschaft
 
@@ -38,7 +35,6 @@ Eröffnungsbilanz festgelegt, zu berücksichtigen.
 
 (2) Die Aktiengesellschaft führt die Firma "Deutsche Bahn
 Aktiengesellschaft".
-
 
 ### § 2 Ausgliederung aus dem Vermögen der Deutsche Bahn Aktiengesellschaft, Auflösung der Deutsche Bahn Aktiengesellschaft
 
@@ -73,7 +69,6 @@ erforderlich. In dem Gesetz ist festzulegen, ob 49,9 oder ein
 geringerer Teil vom Hundert der Anteile auf einmal oder in Stufen
 veräußert werden soll.
 
-
 ### § 3 Gegenstand des Unternehmens
 
 (1) Gegenstand des Unternehmens der Gesellschaft ist
@@ -101,7 +96,6 @@ unbeschadet der in § 2 genannten Verpflichtung Teile des Gegenstandes
 ihres Unternehmens im Sinne des Absatzes 1 ganz oder teilweise in
 solche Unternehmen ausgliedern und sich auf Leitungsaufgaben
 beschränken.
-
 
 ### § 4 Ausgliederungsplan
 
@@ -150,7 +144,6 @@ Beurkundung dem Bundesministerium für Verkehr zuzuleiten.
 (3) Im Ausgliederungsplan muß die Satzung der Deutsche Bahn
 Aktiengesellschaft enthalten sein oder festgestellt werden.
 
-
 ### § 5 Anwendung des Gründungsrechts
 
 (1) Auf die Gründung der Deutsche Bahn Aktiengesellschaft sind die für
@@ -162,13 +155,11 @@ Bundesrepublik Deutschland gleich.
 Aufsichtsrat, den ersten Vorstand sowie für das erste Voll- oder
 Rumpfgeschäftsjahr den ersten Abschlußprüfer.
 
-
 ### § 6 Wirksamwerden des Ausgliederungsplanes
 
 Der Ausgliederungsplan wird nur wirksam, wenn ihm das
 Bundesministerium für Verkehr im Einvernehmen mit dem
 Bundesministerium der Finanzen schriftlich zustimmt.
-
 
 ### § 7 Anmeldung und Eintragung im Register
 
@@ -181,7 +172,6 @@ beglaubigter Abschrift oder, soweit sie nicht notariell beurkundet
 werden müssen, in Urschrift oder Abschrift der Ausgliederungsplan
 sowie die Zustimmungserklärung des Bundesministeriums für Verkehr
 beizufügen.
-
 
 ### § 8 Wirkung der Eintragung
 
@@ -210,7 +200,6 @@ Handelsregister hat folgende Wirkung:
 (2) Mängel der Ausgliederung lassen die Wirkungen der Eintragung nach
 Absatz 1 unberührt.
 
-
 ### § 9 Schutz der Gläubiger
 
 (1) Durch den Übergang der Verbindlichkeiten auf die Deutsche Bahn
@@ -233,7 +222,6 @@ beginnt die Verjährung mit dem Zeitpunkt der Fälligkeit.
 (3) Für Verbindlichkeiten des Bundeseisenbahnvermögens, die nicht auf
 die Deutsche Bahn Aktiengesellschaft übergegangen sind, haftet die
 Gesellschaft nicht.
-
 
 ### § 10 Eröffnungsbilanz
 
@@ -280,7 +268,6 @@ D-Markbilanzgesetzes der jeweils tatsächliche Wert anzusetzen und der
 Gewinn in die Kapitalrücklage gemäß § 272 des Handelsgesetzbuchs
 einzustellen. In diesen Fällen gilt die Eröffnungsbilanz als geändert.
 
-
 ### § 11 Steuerliche Vorschriften
 
 (1) Die steuerrechtliche Eröffnungsbilanz entspricht der geprüften
@@ -305,10 +292,7 @@ Grunderwerbsteuer befreit.
 (3) Die Absätze 1 und 2 gelten für Gesellschaften, die im Wege der
 Ausgliederung nach § 2 Abs. 1 errichtet werden, entsprechend.
 
-
 ## Zweiter Abschnitt - Überleitung des Personals
-
-
 
 ### § 12 Beamte
 
@@ -372,7 +356,6 @@ eine anderweitige Verwendung vorsehen. Voraussetzung für die Aufhebung
 einer Zuweisung ist, daß beim Bundeseisenbahnvermögen eine Planstelle
 zur Verfügung steht.
 
-
 ### § 13 Rechtsaufsicht
 
 (1) Dem Präsidenten des Bundeseisenbahnvermögens obliegt die Aufsicht
@@ -395,7 +378,6 @@ diesem Falle gehen die der Gesellschaft zur Ausübung übertragenen
 Befugnisse auf den Präsidenten des Bundeseisenbahnvermögens über. Die
 Rechte und Pflichten des Betriebs- oder Gesamtbetriebsrats sowie der
 zuständigen besonderen Personalvertretung blieben unberührt.
-
 
 ### § 14 Arbeitnehmer
 
@@ -452,7 +434,6 @@ Arbeitnehmer der früheren Sondervermögen Deutsche Bundesbahn und
 Deutsche Reichsbahn, deren Arbeitsverhältnisse wegen Erreichens der
 Altersgrenze oder Zuerkennung einer Rente geendet haben.
 
-
 ### § 15 Übergangsmandat der örtlichen Personalräte
 
 (1) Die örtlichen Personalräte in den Dienststellen, die als Betriebe
@@ -475,7 +456,6 @@ und 2 entsprechend.
 
 (3) Absatz 1 Satz 1 und 3 sowie Absatz 2 gelten für die örtlichen
 Schwerbehindertenvertretungen entsprechend.
-
 
 ### § 16 Überleitung von Dienstleistungsüberlassungsverträgen
 
@@ -503,7 +483,6 @@ Allgemeinen Eisenbahngesetzes vom 27. Dezember 1993 (BGBl. I S. 2378,
 (4) Bei Aufhebung oder sonstiger Beendigung bestehender
 Dienstleistungsüberlassungsverträge finden § 12 Abs. 1 und 2 sowie §
 14 Abs. 2 bis 4 entsprechend Anwendung.
-
 
 ### § 17 Personalvertretung, Schwerbehindertenvertretung
 
@@ -576,7 +555,6 @@ nach § 8 Abs. 2 und 3 des Gesetzes zur Zusammenführung und
 Neugliederung der Bundeseisenbahnen gebildete gemeinsame
 Hauptpersonalrat zuständig.
 
-
 ### § 18 Öffentlich-rechtliche Amtsverhältnisse
 
 (1) Die Amtsverhältnisse der Personen, die nach den §§ 8, 9a und 19a
@@ -647,7 +625,6 @@ Bundesbahngesetzes gilt Satz 1 entsprechend mit der Maßgabe, daß sie
 ihre Versorgungsansprüche lediglich aus dem beendeten Amtsvertrag nach
 Absatz 1 Satz 2 verlieren.
 
-
 ### § 19 Geltung arbeitsrechtlicher Vorschriften
 
 (1) Die Beamten des Bundeseisenbahnvermögens, die nach § 12 Abs. 2 und
@@ -668,11 +645,9 @@ weil sie nicht Dienstherr der ihr gemäß § 12 Abs. 2 und 3 zugewiesenen
 Beamten ist, treffen diese Verpflichtungen das
 Bundeseisenbahnvermögen.
 
-
 ### § 20
 
 (weggefallen)
-
 
 ### § 21 Personalkosten
 
@@ -778,7 +753,6 @@ Wirtschaftsprüfers oder der Wirtschaftsprüfungsgesellschaft tragen das
 Bundeseisenbahnvermögen und die Deutsche Bahn Aktiengesellschaft je
 zur Hälfte.
 
-
 ### § 22 Übernahme von Altlasten
 
 (1) Der Bund leistet einen Beitrag zum Abbau der wirtschaftlichen und
@@ -853,7 +827,6 @@ Wirtschaftsprüfungsgesellschaft geprüft werden.
 Länder bei der Durchführung des Absatzes 1 Satz 1 Nr. 2 werden in
 einem Verwaltungsabkommen des Bundes mit diesen Länder geregelt.
 
-
 ### § 23 Anwendung von Vorschriften auf ausgegliederte Gesellschaften
 
 Die §§ 12, 13, 17, 19, 21 und 22 gelten entsprechend für die nach § 2
@@ -862,16 +835,12 @@ ausgegliederte Gesellschaften gilt Satz 1 mit der Maßgabe, daß der
 neue Rechtsträger Geschäftstätigkeiten im Sinne des § 3 Abs. 1 Nr. 1
 oder 2 ausübt.
 
-
 ### § 24 Rechtsverordnungen
 
 Rechtsverordnungen auf Grund des zweiten Abschnitts dieses Gesetzes
 bedürfen nicht der Zustimmung des Bundesrates.
 
-
 ## Dritter Abschnitt - Organisation, Wirtschaftsführung und -prüfung
-
-
 
 ### § 25 Interne Gliederung
 
@@ -879,7 +848,6 @@ Innerhalb der Deutsche Bahn Aktiengesellschaft sind mindestens die
 Bereiche "Personennahverkehr", "Personenfernverkehr", "Güterverkehr"
 und "Fahrweg" organisatorisch und rechnerisch voneinander zu trennen.
 Die Vermögenswerte sind den jeweiligen Bereichen zuzuordnen.
-
 
 ### § 26 Beteiligung an Sozialeinrichtungen, Anerkennung
 
@@ -891,7 +859,6 @@ Anlage zu § 15 Abs. 2 des Gesetzes zur Zusammenführung und
 Neugliederung der Bundeseisenbahnen aufgeführten betrieblichen
 Sozialeinrichtungen oder Selbsthilfeeinrichtungen des
 Bundeseisenbahnvermögens beteiligt oder diese anerkennt.
-
 
 ### § 27 Prüfungsrechte des Bundesrechnungshofes
 

@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1996, 2085
 
-
-
 ## Eingangsformel
 
 Auf Grund
@@ -48,13 +46,11 @@ verordnet die Bundesregierung und auf Grund
 
 verordnet das Bundesministerium für Arbeit und Sozialordnung:
 
-
 ## § 1 Beitragssätze in der Rentenversicherung
 
 Der Beitragssatz für das Jahr 1997 beträgt in der Rentenversicherung
 der Arbeiter und der Angestellten 20,3 vom Hundert und in der
 knappschaftlichen Rentenversicherung 26,9 vom Hundert.
-
 
 ## § 2 Beitrag in der Alterssicherung der Landwirte
 
@@ -63,7 +59,6 @@ Kalenderjahr 1997 monatlich 328 Deutsche Mark.
 
 (2) Der Beitrag in der Alterssicherung der Landwirte beträgt für das
 Beitrittsgebiet für das Kalenderjahr 1997 monatlich 282 Deutsche Mark.
-
 
 ## § 3 Beitragszuschuß in der Alterssicherung der Landwirte
 
@@ -336,10 +331,6 @@ Kalenderjahr 1997 wie folgt festgesetzt:
 
     *   9 DM
 
-
-
-
-
 ## § 4 Umrechnungsfaktoren für den Versorgungsausgleich in der Rentenversicherung
 
 (1) Die auf Grund des vorläufigen Durchschnittsentgelts und des
@@ -433,11 +424,9 @@ Deckungskapitalien und vergleichbaren Deckungsrücklagen durch den Wert
 des Faktors erfolgen, der für die Umrechnung von Entgeltpunkten in
 Beiträge maßgebend wäre.
 
-
 ## § 5 Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 1997 in Kraft.
-
 
 ## Schlußformel
 

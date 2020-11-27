@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 3955, 3962
 
-
-
 ## § 1
 
 (1) Der Bund gewährt den Ländern Bremen, Hamburg, Mecklenburg-
@@ -55,10 +53,6 @@ in Höhe von jährlich insgesamt 3.8346.000 Euro.
 
     *   2.045.000 Euro.
 
-
-
-
-
 ## § 2
 
 (1) Die Finanzhilfen des Bundes betragen 90 vom Hundert der
@@ -66,7 +60,6 @@ förderungsfähigen Ausgaben.
 
 (2) Von einem Land in einem Jahr nicht abgerufene Bundesmittel können
 in den Folgejahren bei Bedarf abgerufen werden.
-
 
 ## § 3
 

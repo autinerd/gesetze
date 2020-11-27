@@ -16,13 +16,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 2001, 914
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -30,7 +27,6 @@ Dem in Berlin am 10. März 2000 unterzeichneten Abkommen zwischen der
 Bundesrepublik Deutschland und der Republik Korea über Soziale
 Sicherheit wird zugestimmt. Das Abkommen wird nachstehend
 veröffentlicht.
-
 
 ## Art 2
 
@@ -59,10 +55,6 @@ zu treffen über:
 
 5.  die gegenseitige Umrechnung von Versicherungszeiten nach den
     Rechtsvorschriften beider Vertragsstaaten.
-
-
-
-
 
 ## Art 3
 

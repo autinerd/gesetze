@@ -19,20 +19,14 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 67 Nr. 4 G v. 21.12.2000 I 1983
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art I - -
 
-
-
 ## Art II - Übergangs- und Schlußvorschriften zum Zehnten Buch Sozialgesetzbuch sowie weitere Änderungen von Gesetzen
-
-
 
 ## Anhang EV Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet D Abschnitt III (BGBl. II 1990, 889, 1032) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 
@@ -56,31 +50,19 @@ mit folgenden Maßgaben in Kraft:
 
 ...
 
-
 ### Erster Abschnitt
-
-
 
 ### (XXXX) §§ 1 bis 20 (weggefallen)
 
-
-
 ### Zweiter Abschnitt - -
-
-
 
 ### (XXXX) §§ 21 bis 23 (weggefallen)
 
-
-
 ### Dritter Abschnitt - Schlußvorschriften
-
-
 
 ### § 24
 
 (weggefallen)
-
 
 ### § 25 Inkrafttreten
 

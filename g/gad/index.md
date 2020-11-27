@@ -18,16 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 5 G v. 14.11.2011 I 2219
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Erster Abschnitt - Aufgaben, Stellung und Organisation des Auswärtigen Dienstes
-
-
 
 ### § 1 Aufgaben
 
@@ -98,13 +94,11 @@ bei der Wahrnehmung ihrer internationalen Kontakte.
 (4) Der Auswärtige Dienst erfüllt die im Konsulargesetz geregelten
 Aufgaben.
 
-
 ### § 2 Auswärtiger Dienst
 
 Der Auswärtige Dienst besteht aus dem Auswärtigen Amt (Zentrale) und
 den Auslandsvertretungen, die zusammen eine einheitliche Bundesbehörde
 unter Leitung des Bundesministers des Auswärtigen bilden.
-
 
 ### § 3 Auslandsvertretungen
 
@@ -122,7 +116,6 @@ anderen öffentlichen Einrichtungen der Bundesrepublik Deutschland.
 Leiter. Der Botschafter ist der persönliche Vertreter des
 Bundespräsidenten bei dem Staatsoberhaupt des Empfangsstaats.
 
-
 ### § 4 Gemeinsame Auslandsvertretungen mit anderen Staaten
 
 (1) Der Bundesminister des Auswärtigen kann Vereinbarungen mit anderen
@@ -135,10 +128,7 @@ gemeinsamen Auslandsvertretungen tätig sind, können nach Maßgabe des
 Konsulargesetzes ermächtigt werden, Amtshandlungen mit Wirkung für und
 gegen die Bundesrepublik Deutschland vorzunehmen.
 
-
 ## Zweiter Abschnitt - Einsatz, Arbeitsweise und Ausstattung des Auswärtigen Dienstes
-
-
 
 ### § 5 Personaleinsatz
 
@@ -153,7 +143,6 @@ erreichen, die Altersgrenze. Liegt der Zeitpunkt der Versetzung in den
 Ruhestand damit erst nach Vollendung des 67. Lebensjahres, können sie
 auf Antrag bereits mit dem Ende des Monats in den Ruhestand treten, in
 dem sie das 67. Lebensjahr vollenden.
-
 
 ### § 6 Personalreserve
 
@@ -174,10 +163,6 @@ unter den besonderen Bedingungen des Auswärtigen Dienstes.
 -   Vorbereitung auf Versetzungen und persönliche Einführung in die
     Dienstgeschäfte durch den Amtsvorgänger.
 
-
-
-
-
 ### § 7 Organisation und Ausstattung
 
 (1) Organisation und Ausstattung des Auswärtigen Dienstes sind seinen
@@ -193,7 +178,6 @@ Ausland für die Pflege dienstlicher Kontakte eine
 Aufwandsentschädigung, für die der Haushaltsplan Mittel zur Verfügung
 stellt.
 
-
 ### § 8 Inspektion
 
 Inspekteure des Auswärtigen Amts überprüfen regelmäßig
@@ -205,13 +189,11 @@ zweckentsprechenden Einsatz des Personals und der Sachmittel und
 beraten die Auslandsvertretungen in Fragen der Führung und
 Zusammenarbeit.
 
-
 ### § 9 Kurier- und Fernmeldeverbindungen
 
 Zur Sicherung der Verbindungen zwischen Auswärtigem Amt und
 Auslandsvertretungen verfügt der Auswärtige Dienst über ein eigenes
 Fernmeldenetz und einen eigenen Kurierdienst.
-
 
 ### § 10 Politisches Archiv
 
@@ -221,10 +203,7 @@ Deutschen Reiches und der Bundesrepublik Deutschland sowie alle
 Unterlagen aufbewahrt, die der Auswärtige Dienst zur Erfüllung seiner
 Aufgaben benötigt.
 
-
 ## Dritter Abschnitt - Rechtsverhältnisse der Angehörigen des Auswärtigen Dienstes
-
-
 
 ### § 11 Rechtsverhältnisse
 
@@ -248,7 +227,6 @@ Befugnisse richten sich nach dem Konsulargesetz. Für ihre
 Rechtsstellung gegenüber dem Empfangsstaat gilt das Wiener
 Übereinkommen über konsularische Beziehungen.
 
-
 ### § 12 Auswahl und Ausbildung der Beamten
 
 (1) Die Befähigung für die Laufbahnen des mittleren, gehobenen und
@@ -269,7 +247,6 @@ bisherigen Laufbahn waren.
 diese Kenntnisse und Fähigkeiten im Rahmen ihrer Lebens- und
 Berufserfahrung erworben haben.
 
-
 ### § 13 Personalaustausch
 
 (1) Das Auswärtige Amt kann Angehörige anderer Bundesbehörden
@@ -286,10 +263,7 @@ verwendet werden.
 (3) Angehörige anderer auswärtiger Dienste können befristet im
 Auswärtigen Dienst der Bundesrepublik Deutschland verwendet werden.
 
-
 ## Vierter Abschnitt - Pflichten und Rechte der Beamten
-
-
 
 ### § 14 Besondere Pflichten im Auswärtigen Dienst
 
@@ -306,7 +280,6 @@ des Auswärtigen Dienstes ergebenden Aufgaben wahrzunehmen,
 insbesondere die notwendigen Kontakte zu pflegen und zu fördern und
 Deutschen zu helfen.
 
-
 ### § 15 Fürsorge und Schutz
 
 (1) Die Fürsorge des Dienstherren für den Beamten des Auswärtigen
@@ -322,7 +295,6 @@ Auswärtigen Dienstes einen angemessenen Ausgleich.
 (3) Der Leiter der Vertretung nimmt gegenüber den Beamten und ihren
 Familienangehörigen Fürsorge- und Schutzaufgaben des Dienstherrn im
 Ausland wahr.
-
 
 ### § 16 Erkrankungen und Unfälle im Ausland
 
@@ -348,7 +320,6 @@ Verwaltungsvorschriften, die das Auswärtige Amt im Einvernehmen mit
 dem Bundesminister des Innern und dem Bundesminister der Finanzen
 erläßt.
 
-
 ### § 17 Gesundheitsdienst und Soziale Betreuung
 
 (1) Der Auswärtige Dienst unterhält zur Vorsorge gegen besondere
@@ -361,7 +332,6 @@ unterhalten oder entsprechende Selbsthilfeeinrichtungen fördern. Diese
 Einrichtungen können auch gemeinsam mit anderen Staaten, insbesondere
 den Mitgliedstaaten der Europäischen Gemeinschaft, und internationalen
 Organisationen betrieben werden.
-
 
 ### § 18 Urlaub der in das Ausland entsandten Beamten
 
@@ -383,10 +353,7 @@ Rechtsverordnung zu gewährenden zusätzlichen Urlaubstage bestimmt das
 Auswärtige Amt im Benehmen mit dem Bundesministerium des Innern durch
 Verwaltungsvorschrift.
 
-
 ## Fünfter Abschnitt - Fürsorge für Familienangehörige
-
-
 
 ### § 19 Unterstützung der Familienangehörigen
 
@@ -431,13 +398,11 @@ Ehe beziehen, gelten entsprechend für das Bestehen einer
 Lebenspartnerschaft. Die Vorschriften dieses Gesetzes, die sich auf
 den Ehegatten beziehen, gelten entsprechend für den Lebenspartner.
 
-
 ### § 20 Mitwirkung der Ehegatten an dienstlichen Aufgaben
 
 Wirken die Ehegatten im dienstlichen Interesse an der Erfüllung von
 Aufgaben der Beamten oder der Auslandsvertretung mit, so sind sie
 dabei zu unterstützen.
-
 
 ### § 21 Vorschulische und schulische Erziehung und Ausbildung der Kinder
 
@@ -455,7 +420,6 @@ Auslandsdienstort, so werden Beihilfen zu Besuchsreisen gewährt.
 (3) Näheres regeln Verwaltungsvorschriften, die das Auswärtige Amt im
 Einvernehmen mit dem Bundesminister des Innern und dem Bundesminister
 der Finanzen erläßt.
-
 
 ### § 22 Unfälle und Erkrankungen von Familienangehörigen
 
@@ -485,7 +449,6 @@ entsprechender Anwendung des Bundesversorgungsgesetzes gewährt.
 Einvernehmen mit dem Bundesminister des Innern und dem Bundesminister
 der Finanzen erläßt.
 
-
 ### § 23 Reisebeihilfen in besonderen Fällen
 
 (1) Zu Reisen des Beamten und seiner Familienangehörigen vom
@@ -502,7 +465,6 @@ des Innern und dem Bundesminister der Finanzen besondere
 Verwaltungsvorschriften, soweit es die Besonderheiten des Auswärtigen
 Dienstes erfordern.
 
-
 ### § 24 Berufsausübung der Ehegatten
 
 (1) Der Dienstherr setzt sich dafür ein, daß der Ehegatte des Beamten
@@ -515,10 +477,7 @@ gewährt werden, wenn er mit diesem am Auslandsdienstort in häuslicher
 Gemeinschaft lebt und am Gesamtauftrag des Auswärtigen Dienstes
 mitwirkt.
 
-
 ## Sechster Abschnitt - Fürsorge in Krisenfällen und bei außergewöhnlichen Belastungen
-
-
 
 ### § 25 Maßnahmen der Krisenfürsorge
 
@@ -529,7 +488,6 @@ gesundheitsschädigenden Verhältnissen oder Naturkatastrophen am
 Dienstort trifft das Auswärtige Amt die erforderlichen Maßnahmen zum
 Schutz und zur Fürsorge für die Angehörigen des Auswärtigen Dienstes
 und die zu ihrer häuslichen Gemeinschaft gehörenden Personen.
-
 
 ### § 26 Schadensausgleich
 
@@ -554,10 +512,7 @@ richten, gewährt werden.
 im Einvernehmen mit dem Bundesminister des Innern und dem
 Bundesminister der Finanzen erläßt.
 
-
 ## Siebter Abschnitt - Wohnungsfürsorge und Umzüge
-
-
 
 ### § 27 Wohnsitz und Wohnung
 
@@ -582,7 +537,6 @@ gestellt werden.
 einer angemessenen Dienstwohnung angewiesen werden, wenn es die
 dienstlichen und örtlichen Verhältnisse erfordern.
 
-
 ### § 28 Auslandsumzüge und Auslandstrennungsgeld
 
 Die für Auslandsumzüge und das Auslandstrennungsgeld erforderlichen
@@ -591,10 +545,7 @@ und des Bundesreisekostengesetzes durch Rechtsverordnungen des
 Bundesminister des Auswärtigen im Einvernehmen mit dem Bundesminister
 der Finanzen und dem Bundesminister des Innern getroffen.
 
-
 ## Achter Abschnitt - Auslandsbezogene Leistungen
-
-
 
 ### § 29 Auslandsbesoldung des Auswärtigen Dienstes
 
@@ -611,7 +562,6 @@ bezogenen Leistungen sind regelmäßig auf ihre Angemessenheit zu
 Nummer 7 Abs. 2 Satz 1 zu den Bundesbesoldungsordnungen A und B bleibt
 unberührt.
 
-
 ### § 30 Fremdsprachenförderung
 
 Erwerb und Pflege von dienstlich erforderlichen Sprachkenntnissen
@@ -621,10 +571,7 @@ Sprachenaufwandsentschädigung wird nicht gewährt für Sprachkenntnisse,
 die Voraussetzung für die Einstellung in den Auswärtigen Dienst sind.
 Das Nähere regelt das Auswärtige Amt in Verwaltungsvorschriften.
 
-
 ## Neunter Abschnitt - Rechtsverhältnisse der nichtentsandten Beschäftigten
-
-
 
 ### § 31 Nichtentsandte Beschäftigte
 
@@ -632,13 +579,11 @@ An den Auslandsvertretungen werden deutsche und nichtdeutsche
 nichtentsandte Angestellte und Arbeiter beschäftigt. Sie leisten einen
 wichtigen Beitrag zum Gesamtauftrag des Auswärtigen Dienstes.
 
-
 ### § 32 Nichtentsandte Beschäftigte deutscher Staatsangehörigkeit
 
 Die Rechtsverhältnisse der bei den Auslandsvertretungen beschäftigten
 nichtentsandten deutschen Arbeitnehmer richten sich nach den für sie
 geltenden Tarifverträgen und sonstigen Bestimmungen.
-
 
 ### § 33 Nichtentsandte Beschäftigte anderer Staatsangehörigkeit
 
@@ -648,10 +593,7 @@ Auslandsvertretungen sowie des Rechts im Gastland nach der
 Ortsüblichkeit gestaltet. Unter Berücksichtigung der örtlichen
 Verhältnisse werden angemessene soziale Bedingungen gewährleistet.
 
-
 ## Zehnter Abschnitt - Schlußvorschriften
-
-
 
 ### § 34 Datenschutz
 
@@ -660,19 +602,16 @@ Auswärtige Amt (Zentrale) und die einzelnen Auslandsvertretungen als
 selbständige öffentliche Stellen im Sinne des
 Bundesdatenschutzgesetzes.
 
-
 ### § 35 Allgemeine Verwaltungsvorschriften
 
 Der Bundesminister des Auswärtigen erläßt, soweit in diesem Gesetz
 nicht anders bestimmt, die zur Durchführung dieses Gesetzes
 erforderlichen Verwaltungsvorschriften.
 
-
 ### § 36 Übergangsregelung
 
 § 5 Abs. 2 dieses Gesetzes ist nicht anzuwenden auf Beamte, denen vor
 dem 1. Januar 2003 Altersteilzeit bewilligt wurde.
-
 
 ### § 37 Inkrafttreten
 

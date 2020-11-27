@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 18 G v. 24.11.2011 I 2302
 
-
 ## Abschnitt 1 - Schutzvoraussetzungen
-
-
 
 ### § 1 Begriffsbestimmungen
 
@@ -54,10 +51,6 @@ Im Sinne dieses Gesetzes
 5.  gilt als Rechtsinhaber der in das Register eingetragene Inhaber des
     Geschmacksmusters.
 
-
-
-
-
 ### § 2 Geschmacksmusterschutz
 
 (1) Als Geschmacksmuster wird ein Muster geschützt, das neu ist und
@@ -73,7 +66,6 @@ unterscheidet, den ein anderes Muster bei diesem Benutzer hervorruft,
 das vor dem Anmeldetag offenbart worden ist. Bei der Beurteilung der
 Eigenart wird der Grad der Gestaltungsfreiheit des Entwerfers bei der
 Entwicklung des Musters berücksichtigt.
-
 
 ### § 3 Ausschluss vom Geschmacksmusterschutz
 
@@ -110,7 +102,6 @@ dienen, den Zusammenbau oder die Verbindung einer Vielzahl von
 untereinander austauschbaren Teilen innerhalb eines Bauteilesystems zu
 ermöglichen.
 
-
 ### § 4 Bauelemente komplexer Erzeugnisse
 
 Ein Muster, das bei einem Erzeugnis, das Bauelement eines komplexen
@@ -120,7 +111,6 @@ das in ein komplexes Erzeugnis eingefügt ist, bei dessen
 bestimmungsgemäßer Verwendung sichtbar bleibt und diese sichtbaren
 Merkmale des Bauelements selbst die Voraussetzungen der Neuheit und
 Eigenart erfüllen.
-
 
 ### § 5 Offenbarung
 
@@ -133,7 +123,6 @@ konnte. Ein Muster gilt nicht als offenbart, wenn es einem Dritten
 lediglich unter der ausdrücklichen oder stillschweigenden Bedingung
 der Vertraulichkeit bekannt gemacht wurde.
 
-
 ### § 6 Neuheitsschonfrist
 
 Eine Offenbarung bleibt bei der Anwendung des § 2 Abs. 2 und 3
@@ -145,10 +134,7 @@ gemacht wurde. Dasselbe gilt, wenn das Muster als Folge einer
 missbräuchlichen Handlung gegen den Entwerfer oder seinen
 Rechtsnachfolger offenbart wurde.
 
-
 ## Abschnitt 2 - Berechtigte
-
-
 
 ### § 7 Recht auf das Geschmacksmuster
 
@@ -162,12 +148,10 @@ oder nach den Weisungen seines Arbeitgebers entworfen, so steht das
 Recht an dem Geschmacksmuster dem Arbeitgeber zu, sofern vertraglich
 nichts anderes vereinbart wurde.
 
-
 ### § 8 Formelle Berechtigung
 
 Anmelder und Rechtsinhaber gelten in Verfahren, die ein
 Geschmacksmuster betreffen, als berechtigt und verpflichtet.
-
 
 ### § 9 Ansprüche gegenüber Nichtberechtigten
 
@@ -203,7 +187,6 @@ Beendigung dieses Verfahrens und jede Änderung der Rechtsinhaberschaft
 als Folge dieses Verfahrens werden in das Register für
 Geschmacksmuster (Register) eingetragen.
 
-
 ### § 10 Entwerferbenennung
 
 Der Entwerfer hat gegenüber dem Anmelder oder dem Rechtsinhaber das
@@ -212,10 +195,7 @@ Register als Entwerfer benannt zu werden. Wenn das Muster das Ergebnis
 einer Gemeinschaftsarbeit ist, kann jeder einzelne Entwerfer seine
 Nennung verlangen.
 
-
 ## Abschnitt 3 - Eintragungsverfahren
-
-
 
 ### § 11 Anmeldung
 
@@ -275,7 +255,6 @@ Einfluss auf den Schutzumfang des Geschmacksmusters.
 
 (6) Der Anmelder kann die Anmeldung jederzeit zurücknehmen.
 
-
 ### § 12 Sammelanmeldung
 
 (1) Mehrere Muster können in einer Anmeldung zusammengefasst werden
@@ -288,7 +267,6 @@ Anmeldetag unberührt. Ist die Summe der Gebühren, die nach dem
 Patentkostengesetz für jede Teilanmeldung zu entrichten wären, höher
 als die gezahlten Anmeldegebühren, so ist der Differenzbetrag
 nachzuentrichten.
-
 
 ### § 13 Anmeldetag
 
@@ -310,7 +288,6 @@ eingegangen sind.
 genommen, tritt bei der Anwendung der §§ 2 bis 6, 12 Abs. 2 Satz 2, §
 21 Abs. 1 Satz 1, § 34 Satz 1 Nr. 3 und § 41 der Prioritätstag an die
 Stelle des Anmeldetages.
-
 
 ### § 14 Ausländische Priorität
 
@@ -343,7 +320,6 @@ eingereicht, so gilt die Erklärung über die Inanspruchnahme der
 Priorität als nicht abgegeben. Das Deutsche Patent- und Markenamt
 stellt dies fest.
 
-
 ### § 15 Ausstellungspriorität
 
 (1) Hat der Anmelder ein Muster auf einer inländischen oder
@@ -363,7 +339,6 @@ für die Zurschaustellung einzureichen. § 14 Abs. 3 gilt entsprechend.
 
 (4) Die Ausstellungspriorität nach Absatz 1 verlängert die
 Prioritätsfristen nach § 14 Abs. 1 nicht.
-
 
 ### § 16 Prüfung der Anmeldung
 
@@ -416,7 +391,6 @@ Mängel beseitigt werden. Werden die Mängel nicht fristgerecht
 beseitigt, so weist das Deutsche Patent- und Markenamt die Anmeldung
 durch Beschluss zurück.
 
-
 ### § 17 Weiterbehandlung der Anmeldung
 
 (1) Ist nach Versäumung einer vom Deutschen Patent- und Markenamt
@@ -438,14 +412,12 @@ Patentkostengesetzes ist eine Wiedereinsetzung nicht gegeben.
 (4) Über den Antrag beschließt die Stelle, die über die nachgeholte
 Handlung zu beschließen hat.
 
-
 ### § 18 Eintragungshindernisse
 
 Ist der Gegenstand der Anmeldung kein Muster im Sinne des § 1 Nr. 1
 oder ist ein Muster nach § 3 Abs. 1 Nr. 3 oder Nr. 4 vom
 Geschmacksmusterschutz ausgeschlossen, so weist das Deutsche Patent-
 und Markenamt die Anmeldung zurück.
-
 
 ### § 19 Führung des Registers und Eintragung
 
@@ -458,7 +430,6 @@ dessen Berechtigung zur Anmeldung und die Richtigkeit der in der
 Anmeldung gemachten Angaben zu prüfen, und bestimmt, welche
 Warenklassen einzutragen sind.
 
-
 ### § 20 Bekanntmachung
 
 Die Eintragung in das Register wird mit einer Wiedergabe des
@@ -466,7 +437,6 @@ Geschmacksmusters durch das Deutsche Patent- und Markenamt bekannt
 gemacht. Sie erfolgt ohne Gewähr für die Vollständigkeit der Abbildung
 und die Erkennbarkeit der Erscheinungsmerkmale des Musters. Die Kosten
 der Bekanntmachung werden als Auslagen erhoben.
-
 
 ### § 21 Aufschiebung der Bekanntmachung
 
@@ -493,7 +463,6 @@ die auf Grund einer Sammelanmeldung eingetragen worden sind, kann die
 nachgeholte Bekanntmachung auf einzelne Geschmacksmuster beschränkt
 werden.
 
-
 ### § 22 Einsichtnahme in das Register
 
 Die Einsicht in das Register steht jedermann frei. Das Recht, die
@@ -508,10 +477,6 @@ besteht, wenn
 
 
 3.  ein berechtigtes Interesse glaubhaft gemacht wird.
-
-
-
-
 
 ### § 23 Verfahrensvorschriften, Beschwerde und Rechtsbeschwerde
 
@@ -543,7 +508,6 @@ statt, wenn der Beschwerdesenat die Rechtsbeschwerde zugelassen hat. §
 100 Abs. 2 und 3, die §§ 101 bis 109, 123 Abs. 1 bis 5 und 7 sowie die
 §§ 124 und 128b des Patentgesetzes finden entsprechende Anwendung.
 
-
 ### § 24 Verfahrenskostenhilfe
 
 In Verfahren nach § 23 erhält der Anmelder auf Antrag unter
@@ -554,7 +518,6 @@ Verfahrenskostenhilfe auch für die Kosten der Erstreckung des Schutzes
 nach § 21 Abs. 2 Satz 1 und für die Aufrechterhaltungsgebühren nach §
 28 Abs. 1 Satz 1 gewährt werden. § 130 Abs. 2, 3 und 5 sowie die §§
 133 bis 138 des Patentgesetzes finden entsprechende Anwendung.
-
 
 ### § 25 Elektronische Verfahrensführung, Verordnungsermächtigung
 
@@ -582,10 +545,6 @@ ohne Zustimmung des Bundesrates
     geführt werden können, sowie die hierfür geltenden organisatorisch-
     technischen Rahmenbedingungen für die Bildung, Führung und
     Aufbewahrung der elektronischen Prozessakten.
-
-
-
-
 
 ### § 26 Verordnungsermächtigungen
 
@@ -667,10 +626,7 @@ Absätzen 1 und 2 durch Rechtsverordnung, die nicht der Zustimmung des
 Bundesrates bedarf, ganz oder teilweise auf das Deutsche Patent- und
 Markenamt übertragen.
 
-
 ## Abschnitt 4 - Entstehung und Dauer des Schutzes
-
-
 
 ### § 27 Entstehung und Dauer des Schutzes
 
@@ -678,7 +634,6 @@ Markenamt übertragen.
 
 (2) Die Schutzdauer des Geschmacksmusters beträgt 25 Jahre, gerechnet
 ab dem Anmeldetag.
-
 
 ### § 28 Aufrechterhaltung
 
@@ -694,10 +649,7 @@ diese in der Reihenfolge der Anmeldung berücksichtigt.
 
 (3) Wird der Schutz nicht aufrechterhalten, so endet die Schutzdauer.
 
-
 ## Abschnitt 5 - Geschmacksmuster als Gegenstand des Vermögens
-
-
 
 ### § 29 Rechtsnachfolge
 
@@ -713,7 +665,6 @@ Unternehmens, zu dem das Geschmacksmuster gehört, erfasst.
 des Rechtsinhabers oder des Rechtsnachfolgers in das Register
 eingetragen, wenn er dem Deutschen Patent- und Markenamt nachgewiesen
 wird.
-
 
 ### § 30 Dingliche Rechte, Zwangsvollstreckung, Insolvenzverfahren
 
@@ -741,7 +692,6 @@ Geschmacksmuster findet Satz 1 auf den Anteil des Mitinhabers
 entsprechende Anwendung. Im Fall der Eigenverwaltung (§ 270 der
 Insolvenzordnung) tritt der Sachwalter an die Stelle des
 Insolvenzverwalters.
-
 
 ### § 31 Lizenz
 
@@ -785,16 +735,12 @@ Schadens geltend zu machen.
 Sinne des Absatzes 1 berührt nicht Lizenzen, die Dritten vorher
 erteilt worden sind.
 
-
 ### § 32 Angemeldete Geschmacksmuster
 
 Die Vorschriften dieses Abschnitts gelten entsprechend für die durch
 die Anmeldung von Geschmacksmustern begründeten Rechte.
 
-
 ## Abschnitt 6 - Nichtigkeit und Löschung
-
-
 
 ### § 33 Nichtigkeit
 
@@ -815,7 +761,6 @@ Markenamt eine Ausfertigung des rechtskräftigen Urteils.
 (4) Die Feststellung der Nichtigkeit kann auch noch nach der
 Beendigung der Schutzdauer oder nach einem Verzicht auf das
 Geschmacksmuster erfolgen.
-
 
 ### § 34 Kollision mit anderen Schutzrechten
 
@@ -840,7 +785,6 @@ werden,
 Der Anspruch kann nur von dem Inhaber des betroffenen Rechts geltend
 gemacht werden.
 
-
 ### § 35 Teilweise Aufrechterhaltung
 
 Ein Geschmacksmuster kann in geänderter Form bestehen bleiben,
@@ -860,7 +804,6 @@ Ein Geschmacksmuster kann in geänderter Form bestehen bleiben,
 
 sofern dann die Schutzvoraussetzungen erfüllt werden und das
 Geschmacksmuster seine Identität behält.
-
 
 ### § 36 Löschung
 
@@ -895,10 +838,7 @@ oder wird nach Absatz 1 Nr. 5 eine Teilnichtigkeit festgestellt, so
 erfolgt statt der Löschung des Geschmacksmusters eine entsprechende
 Eintragung in das Register.
 
-
 ## Abschnitt 7 - Schutzwirkungen und Schutzbeschränkungen
-
-
 
 ### § 37 Gegenstand des Schutzes
 
@@ -911,7 +851,6 @@ Anmeldung nach § 11 Abs. 2 Satz 2 einen flächenmäßigen
 Musterabschnitt, so bestimmt sich bei ordnungsgemäßer Erstreckung mit
 Ablauf der Aufschiebung nach § 21 Abs. 2 der Schutzgegenstand nach der
 eingereichten Wiedergabe des Geschmacksmusters.
-
 
 ### § 38 Rechte aus dem Geschmacksmuster und Schutzumfang
 
@@ -933,13 +872,11 @@ berücksichtigt.
 Satz 1) setzt der Schutz nach den Absätzen 1 und 2 voraus, dass das
 Muster das Ergebnis einer Nachahmung des Geschmacksmusters ist.
 
-
 ### § 39 Vermutung der Rechtsgültigkeit
 
 Zugunsten des Rechtsinhabers wird vermutet, dass die an die
 Rechtsgültigkeit eines Geschmacksmusters zu stellenden Anforderungen
 erfüllt sind.
-
 
 ### § 40 Beschränkungen der Rechte aus dem Geschmacksmuster
 
@@ -967,10 +904,6 @@ gegenüber
     für die Durchführung von Reparaturen an Schiffen und Luftfahrzeugen im
     Sinne von Nummer 4.
 
-
-
-
-
 ### § 41 Vorbenutzungsrecht
 
 (1) Rechte nach § 38 können gegenüber einem Dritten, der vor dem
@@ -986,10 +919,7 @@ Dritte betreibt ein Unternehmen und die Übertragung erfolgt zusammen
 mit dem Unternehmensteil, in dessen Rahmen die Benutzung erfolgte oder
 die Anstalten getroffen wurden.
 
-
 ## Abschnitt 8 - Rechtsverletzungen
-
-
 
 ### § 42 Beseitigung, Unterlassung und Schadenersatz
 
@@ -1008,7 +938,6 @@ Der Schadensersatzanspruch kann auch auf der Grundlage des Betrages
 berechnet werden, den der Verletzer als angemessene Vergütung hätte
 entrichten müssen, wenn er die Erlaubnis zur Nutzung des
 Geschmacksmusters eingeholt hätte.
-
 
 ### § 43 Vernichtung, Rückruf und Überlassung
 
@@ -1040,14 +969,12 @@ Vorrichtungen, deren Herstellung und Verbreitung nicht rechtswidrig
 ist, unterliegen nicht den in den Absätzen 1 bis 3 vorgesehenen
 Maßnahmen.
 
-
 ### § 44 Haftung des Inhabers eines Unternehmens
 
 Ist in einem Unternehmen von einem Arbeitnehmer oder Beauftragten ein
 Geschmacksmuster widerrechtlich verletzt worden, so hat der Verletzte
 die Ansprüche aus den §§ 42 und 43 mit Ausnahme des Anspruchs auf
 Schadenersatz auch gegen den Inhaber des Unternehmens.
-
 
 ### § 45 Entschädigung
 
@@ -1060,7 +987,6 @@ zu zahlen, der im Falle einer vertraglichen Einräumung des Rechts als
 Vergütung angemessen gewesen wäre. Mit der Zahlung der Entschädigung
 gilt die Einwilligung des Verletzten zur Verwertung im üblichen Umfang
 als erteilt.
-
 
 ### § 46 Auskunft
 
@@ -1153,7 +1079,6 @@ Schutz personenbezogener Daten bleiben im Übrigen unberührt.
 (10) Durch Absatz 2 in Verbindung mit Absatz 9 wird das Grundrecht des
 Fernmeldegeheimnisses (Artikel 10 des Grundgesetzes) eingeschränkt.
 
-
 ### § 46a Vorlage und Besichtigung
 
 (1) Bei hinreichender Wahrscheinlichkeit einer Rechtsverletzung kann
@@ -1187,7 +1112,6 @@ Verletzer von demjenigen, der die Vorlage oder Besichtigung nach
 Absatz 1 begehrt hat, den Ersatz des ihm durch das Begehren
 entstandenen Schadens verlangen.
 
-
 ### § 46b Sicherung von Schadensersatzansprüchen
 
 (1) Der Verletzte kann den Verletzer bei einer in gewerblichem Ausmaß
@@ -1216,7 +1140,6 @@ wird.
 (4) § 811 des Bürgerlichen Gesetzbuchs sowie § 46 Abs. 8 gelten
 entsprechend.
 
-
 ### § 47 Urteilsbekanntmachung
 
 Ist eine Klage auf Grund dieses Gesetzes erhoben worden, kann der
@@ -1227,7 +1150,6 @@ der Bekanntmachung werden im Urteil bestimmt. Die Befugnis erlischt,
 wenn von ihr nicht innerhalb von drei Monaten nach Eintritt der
 Rechtskraft des Urteils Gebrauch gemacht worden ist. Der Ausspruch
 nach Satz 1 ist nicht vorläufig vollstreckbar.
-
 
 ### § 48 Erschöpfung
 
@@ -1240,7 +1162,6 @@ Europäischen Union oder in einem anderen Vertragsstaat des Abkommens
 über den Europäischen Wirtschaftsraum in den Verkehr gebracht worden
 ist.
 
-
 ### § 49 Verjährung
 
 Auf die Verjährung der in den §§ 42 bis 47 genannten Ansprüche finden
@@ -1249,11 +1170,9 @@ Gesetzbuchs entsprechende Anwendung. Hat der Verpflichtete durch die
 Verletzung auf Kosten des Berechtigten etwas erlangt, findet § 852 des
 Bürgerlichen Gesetzbuchs entsprechende Anwendung.
 
-
 ### § 50 Ansprüche aus anderen gesetzlichen Vorschriften
 
 Ansprüche aus anderen gesetzlichen Vorschriften bleiben unberührt.
-
 
 ### § 51 Strafvorschriften
 
@@ -1283,10 +1202,7 @@ beantragt und ein berechtigtes Interesse daran dartut, anzuordnen,
 dass die Verurteilung auf Verlangen öffentlich bekannt gemacht wird.
 Die Art der Bekanntmachung ist im Urteil zu bestimmen.
 
-
 ## Abschnitt 9 - Verfahren in Geschmacksmusterstreitsachen
-
-
 
 ### § 52 Geschmacksmusterstreitsachen
 
@@ -1311,7 +1227,6 @@ einer Geschmacksmusterstreitsache entstehen, sind die Gebühren nach §
 13 des Rechtsanwaltsvergütungsgesetzes und außerdem die notwendigen
 Auslagen des Patentanwalts zu erstatten.
 
-
 ### § 53 Gerichtsstand bei Ansprüchen nach diesem Gesetz und dem Gesetz gegen den unlauteren Wettbewerb
 
 Ansprüche, welche die in diesem Gesetz geregelten Rechtsverhältnisse
@@ -1320,7 +1235,6 @@ Wettbewerb gegründet werden, können abweichend von § 14 des Gesetzes
 gegen den unlauteren Wettbewerb vor dem für das
 Geschmacksmusterstreitverfahren zuständigen Gericht geltend gemacht
 werden.
-
 
 ### § 54 Streitwertbegünstigung
 
@@ -1351,10 +1265,7 @@ angenommene oder festgesetzte Streitwert später durch das Gericht
 heraufgesetzt wird. Vor der Entscheidung über den Antrag ist der
 Gegner zu hören.
 
-
 ## Abschnitt 10 - Vorschriften über Maßnahmen der Zollbehörde
-
-
 
 ### § 55 Beschlagnahme bei der Ein- und Ausfuhr
 
@@ -1380,7 +1291,6 @@ Postgeheimnis (Artikel 10 des Grundgesetzes) wird insoweit
 eingeschränkt. Dem Rechtsinhaber ist Gelegenheit zu geben, die
 Erzeugnisse zu besichtigen, soweit hierdurch nicht in Geschäfts- oder
 Betriebsgeheimnisse eingegriffen wird.
-
 
 ### § 56 Einziehung, Widerspruch
 
@@ -1416,7 +1326,6 @@ unverzüglich erklärt (Absatz 2 Satz 2), so ist er verpflichtet, den
 dem Verfügungsberechtigten durch die Beschlagnahme entstandenen
 Schaden zu ersetzen.
 
-
 ### § 57 Zuständigkeiten, Rechtsmittel
 
 (1) Der Antrag nach § 55 Abs. 1 ist bei der Bundesfinanzdirektion zu
@@ -1433,7 +1342,6 @@ die Entscheidung des Amtsgerichts ist die sofortige Beschwerde
 zulässig; über sie entscheidet das Oberlandesgericht.
 
 (3) (weggefallen)
-
 
 ### § 57a Verfahren nach der Verordnung (EG) Nr. 1383/2003
 
@@ -1480,10 +1388,7 @@ Spiegelstrich der Verordnung (EG) Nr. 1383/2003 beträgt ein Jahr.
 Verordnung (EG) Nr. 1383/2003 Bestimmungen enthält, die dem
 entgegenstehen.
 
-
 ## Abschnitt 11 - Besondere Bestimmungen
-
-
 
 ### § 58 Inlandsvertreter
 
@@ -1521,7 +1426,6 @@ nach Absatz 1 wird erst wirksam, wenn sowohl diese Beendigung als auch
 die Bestellung eines anderen Vertreters gegenüber dem Deutschen
 Patent- und Markenamt oder dem Bundespatentgericht angezeigt wird.
 
-
 ### § 59 Geschmacksmusterberühmung
 
 Wer eine Bezeichnung verwendet, die geeignet ist, den Eindruck zu
@@ -1530,7 +1434,6 @@ ist verpflichtet, jedem, der ein berechtigtes Interesse an der
 Kenntnis der Rechtslage hat, auf Verlangen Auskunft darüber zu geben,
 auf welches Geschmacksmuster sich die Verwendung der Bezeichnung
 stützt.
-
 
 ### § 60 Geschmacksmuster nach dem Erstreckungsgesetz
 
@@ -1612,7 +1515,6 @@ Benutzung im Inland ein schutzwürdiger Besitzstand begründet worden
 ist, dessen Nichtanerkennung unter Berücksichtigung aller Umstände des
 Falles für den Benutzer eine unbillige Härte darstellen würde.
 
-
 ### § 61 Typografische Schriftzeichen
 
 (1) Für die nach Artikel 2 des Schriftzeichengesetzes in der bis zum
@@ -1639,10 +1541,7 @@ genannten Schriftzeichen sind abweichend von § 28 Abs. 1 Satz 1 erst
 ab dem elften Jahr der Schutzdauer Aufrechterhaltungsgebühren zu
 zahlen.
 
-
 ## Abschnitt 12 - Gemeinschaftsgeschmacksmuster
-
-
 
 ### § 62 Weiterleitung der Anmeldung
 
@@ -1654,7 +1553,6 @@ so vermerkt das Deutsche Patent- und Markenamt auf der Anmeldung den
 Tag des Eingangs und leitet die Anmeldung ohne Prüfung unverzüglich an
 das Harmonisierungsamt für den Binnenmarkt (Marken, Muster und
 Modelle) weiter.
-
 
 ### § 63 Gemeinschaftsgeschmacksmusterstreitsachen
 
@@ -1678,14 +1576,12 @@ Gemeinschaftsgeschmacksmustergericht eines anderen Landes übertragen.
 (4) Auf Verfahren vor den Gemeinschaftsgeschmacksmustergerichten sind
 § 52 Abs. 4 und § 53 entsprechend anzuwenden.
 
-
 ### § 64 Erteilung der Vollstreckungsklausel
 
 Für die Erteilung der Vollstreckungsklausel nach Artikel 71 Abs. 2
 Satz 2 der Verordnung (EG) Nr. 6/2002 ist das Bundespatentgericht
 zuständig. Die vollstreckbare Ausfertigung wird vom Urkundsbeamten der
 Geschäftsstelle des Bundespatentgerichts erteilt.
-
 
 ### § 65 Strafbare Verletzung eines Gemeinschaftsgeschmacksmusters
 
@@ -1696,10 +1592,7 @@ Geldstrafe bestraft.
 
 (2) § 51 Abs. 2 bis 6 gilt entsprechend.
 
-
 ## Abschnitt 13 - Schutz gewerblicher Muster und Modelle nach dem Haager Abkommen
-
-
 
 ### § 66 Anwendung dieses Gesetzes
 
@@ -1714,14 +1607,12 @@ Schutz sich auf das Gebiet der Bundesrepublik Deutschland bezieht,
 entsprechend anzuwenden, soweit in diesem Abschnitt, dem Haager
 Abkommen oder dessen Fassungen nichts anderes bestimmt ist.
 
-
 ### § 67 Einreichung der internationalen Anmeldung
 
 Die internationale Anmeldung gewerblicher Muster oder Modelle kann
 nach Wahl des Anmelders entweder direkt beim Internationalen Büro der
 Weltorganisation für geistiges Eigentum (Internationales Büro) oder
 über das Deutsche Patent- und Markenamt eingereicht werden.
-
 
 ### § 68 Weiterleitung der internationalen Anmeldung
 
@@ -1730,7 +1621,6 @@ gewerblicher Muster oder Modelle eingereicht, so vermerkt das Deutsche
 Patent- und Markenamt auf der Anmeldung den Tag des Eingangs und
 leitet die Anmeldung ohne Prüfung unverzüglich an das Internationale
 Büro weiter.
-
 
 ### § 69 Prüfung auf Eintragungshindernisse
 
@@ -1764,7 +1654,6 @@ soweit rechtskräftig festgestellt wird, dass der Schutz zu Unrecht
 verweigert wurde, nimmt das Deutsche Patent- und Markenamt die
 Schutzverweigerung unverzüglich zurück.
 
-
 ### § 70 Nachträgliche Schutzentziehung
 
 (1) An die Stelle der Klage auf Feststellung der Nichtigkeit nach § 33
@@ -1780,7 +1669,6 @@ die Unwirksamkeit einer internationalen Eintragung für das Gebiet der
 Bundesrepublik Deutschland festgestellt worden oder ihr der Schutz
 entzogen worden ist, setzt es das Internationale Büro unverzüglich
 davon in Kenntnis.
-
 
 ### § 71 Wirkung der internationalen Eintragung
 
@@ -1801,10 +1689,7 @@ Schutzverweigerung zurück, wird die internationale Eintragung für die
 Bundesrepublik Deutschland rückwirkend ab dem Tag ihrer Eintragung
 wirksam.
 
-
 ## Abschnitt 14 - Übergangsvorschriften
-
-
 
 ### § 72 Anzuwendendes Recht
 
@@ -1840,7 +1725,6 @@ III, Gliederungsnummer 442-1, veröffentlichten bereinigten Fassung in
 der bis zum 1. Januar 2002 geltenden Fassung den Vorschriften des
 Bürgerlichen Gesetzbuchs über die Verjährung in der bis zum 1. Januar
 2002 geltenden Fassung gleichgestellt ist.
-
 
 ### § 73 Rechtsbeschränkungen
 

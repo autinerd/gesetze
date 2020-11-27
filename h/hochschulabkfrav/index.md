@@ -19,7 +19,6 @@ Fundstelle
 
 Stand: vgl. nur noch Fundstellennachweis B
 
-
 ## Eingangsformel
 
 Auf Grund des Artikels 3 des Gesetzes vom 22. Juni 1954 über den
@@ -30,7 +29,6 @@ und Befreiungen an andere zwischenstaatliche Organisationen (BGBl.
 1954 II S. 639), der durch Artikel 4 des Gesetzes vom 16. August 1980
 (BGBl. 1980 II S. 941) neu gefaßt worden ist, verordnet die
 Bundesregierung:
-
 
 ## Art 1
 
@@ -43,7 +41,6 @@ Deutschland und der Regierung der Französischen Republik über die
 Gründung einer Deutsch-Französischen Hochschule Anwendung. Das
 Abkommen wird nachstehend veröffentlicht.
 
-
 ## Art 2
 
 (1) Diese Verordnung tritt an dem Tage in Kraft, an dem das in Artikel
@@ -51,7 +48,6 @@ Abkommen wird nachstehend veröffentlicht.
 
 (2) Der Tag des Inkrafttretens ist im Bundesgesetzblatt
 bekanntzugeben.
-
 
 ## Schlußformel
 

@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 1009
 
-
 ## Eingangsformel
 
 Der Vorstand der Deutschen Post AG ordnet nach
@@ -61,7 +60,6 @@ Der Vorstand der Deutschen Post AG ordnet nach
 
 an:
 
-
 ## I. Befugnisse im Bereich des allgemeinen Beamtenrechts
 
 Den Leiterinnen und Leitern der selbstständigen Niederlassungen,
@@ -96,10 +94,6 @@ die Befugnis übertragen,
 6.  Beamtinnen und Beamten Jubiläumszuwendungen zu gewähren oder zu
     versagen.
 
-
-
-
-
 ## II. Befugnisse im Bereich des Besoldungsrechts
 
 Der Service Niederlassung Human Ressources Deutschland in Dortmund
@@ -107,13 +101,11 @@ wird die Befugnis übertragen, von der Rückforderung zuviel gezahlter
 Bezüge aus Billigkeitsgründen abzusehen, soweit die Überzahlung im
 Einzelfall den Betrag von ursprünglich 5 000 Euro nicht übersteigt.
 
-
 ## III. Vorbehaltsklausel
 
 Der Vorstand der Deutschen Post AG behält sich vor, die übertragenen
 Befugnisse im Einzelfall oder in bestimmten Gruppen von Fällen und in
 jedem Stadium des Verfahrens selbst wahrzunehmen.
-
 
 ## IV. Inkrafttreten, Außerkrafttreten
 

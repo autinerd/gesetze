@@ -19,8 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 31 G v. 8.11.2011 I 2178
 
-
-
 ## § 1 Anwendungsbereich
 
 (1) Diese Verordnung gilt für das Inverkehrbringen von Motoren für
@@ -102,10 +100,6 @@ Binnenschiffe und deren Einbau in Binnenschiffe.
 
 4.  Seeschiffe.
 
-
-
-
-
 ## § 2 Technische Vorschriften
 
 (1) Ein Motor für Binnenschiffe darf nur dann auf dem Markt
@@ -133,7 +127,6 @@ Artikel 4 Kapitel 8a der Binnenschiffsuntersuchungsordnung vom 6.
 Dezember 2008 (BGBl. I S. 2450) in der jeweils geltenden Fassung
 eingebaut werden.
 
-
 ## § 3 Zuständige Behörde und Aufgaben
 
 Die Zentralstelle Schiffsuntersuchungskommission/Schiffseichamt bei
@@ -150,14 +143,12 @@ nach Maßgabe der Artikel 4 bis 6, 11 und 12 der Richtlinie. § 26
 Absatz 2, § 27 Absatz 1 und § 28 Absatz 2 sowie § 31 des
 Produktsicherheitsgesetzes gelten entsprechend.
 
-
 ## § 4 Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 7 Abs. 1 des
 Binnenschifffahrtsaufgabengesetzes handelt, wer vorsätzlich oder
 fahrlässig entgegen § 2 Abs. 1 Satz 1 oder 2 einen Motor in den
 Verkehr bringt.
-
 
 ## § 5 Übergangsbestimmungen
 

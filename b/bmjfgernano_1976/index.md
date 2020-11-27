@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Abschn. I AnO v. 9.12.1981 GMBl. 82, 62
 
-
 ## I.
 
 Aufgrund des Artikels 1 Abs. 1 Satz 2 der Anordnung des
@@ -50,17 +49,14 @@ Anstellung
 
 jeweils für ihren Geschäftsbereich.
 
-
 ## II.
 
 Für besondere Fälle behalte ich mir die Ernennung und Entlassung der
 unter Abschnitt I genannten Beamten vor.
 
-
 ## III.
 
 Diese Anordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlußformel
 

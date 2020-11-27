@@ -15,15 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 1672
 
-
 ## Abschnitt 1 - Allgemeine Vorschriften
-
 
 ### § 1 Anwendungsbereich
 
 Dieses Gesetz regelt die Tätigkeit und Beaufsichtigung von
 Wagniskapitalbeteiligungsgesellschaften.
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -92,7 +89,6 @@ Wagniskapitalbeteiligungsgesellschaft berufen sind, sowie diejenigen
 natürlichen Personen, die die Geschäfte der
 Wagniskapitalbeteiligungsgesellschaft tatsächlich leiten.
 
-
 ### § 3 Bezeichnungsschutz
 
 Eine Gesellschaft, die ihren Sitz im Geltungsbereich dieses Gesetzes
@@ -103,7 +99,6 @@ mit anderen Worten vorkommt, in der Firma oder als Zusatz zur Firma
 nur führen, wenn sie als Wagniskapitalbeteiligungsgesellschaft im
 Sinne dieses Gesetzes anerkannt ist.
 
-
 ### § 4 Unternehmensgegenstand
 
 Satzungsmäßig oder gesellschaftsvertraglich festgelegter
@@ -111,12 +106,10 @@ Unternehmensgegenstand der Wagniskapitalbeteiligungsgesellschaft muss
 der Erwerb, das Halten, die Verwaltung und die Veräußerung von
 Wagniskapitalbeteiligungen sein. Die §§ 8 und 9 bleiben unberührt.
 
-
 ### § 5 Sitz
 
 Die Wagniskapitalbeteiligungsgesellschaft muss ihren Sitz und ihre
 Geschäftsleitung im Inland haben.
-
 
 ### § 6 Mindestkapital
 
@@ -126,7 +119,6 @@ müssen mindestens 1 Million Euro betragen. Davon muss ein Viertel
 sofort, der übrige Betrag innerhalb von zwölf Monaten nach Anerkennung
 der Wagniskapitalbeteiligungsgesellschaft geleistet werden.
 
-
 ### § 7 Geschäftsleiter
 
 (1) Die Wagniskapitalbeteiligungsgesellschaft muss mindestens zwei
@@ -135,9 +127,7 @@ Geschäftsleiter haben.
 (2) Die Geschäftsleiter müssen zuverlässig und zur Leitung der
 Wagniskapitalbeteiligungsgesellschaft fachlich geeignet sein.
 
-
 ## Abschnitt 2 - Geschäftstätigkeit und Anlagebestimmungen
-
 
 ### § 8 Zulässige Geschäfte
 
@@ -185,7 +175,6 @@ Geschäftsräumen gestattet.
 (6) Sonstige Geschäfte darf die Wagniskapitalbeteiligungsgesellschaft
 nur tätigen, wenn sie mit ihrem Unternehmensgegenstand zusammenhängen.
 
-
 ### § 9 Anlagebestimmungen
 
 (1) Der Anteil der Wagniskapitalbeteiligungen am Gesamtwert des von
@@ -216,7 +205,6 @@ Wagniskapitalbeteiligungsgesellschaft an einer Zielgesellschaft am
 Gesamtwert des von der Wagniskapitalgesellschaft insgesamt verwalteten
 Vermögens darf 40 Prozent nicht übersteigen.
 
-
 ### § 10 Konzernfreiheit
 
 (1) Eine Wagniskapitalbeteiligungsgesellschaft darf spätestens fünf
@@ -239,15 +227,12 @@ Berechnung des Stimmrechtsanteils entsprechend, für die Berechnung des
 Kapitalanteils mit der Maßgabe entsprechend, dass an die Stelle der
 Stimmrechte die Kapitalanteile treten.
 
-
 ### § 11 Mindeststückelung
 
 Beteiligungen an Wagniskapitalbeteiligungsgesellschaften müssen eine
 Mindeststückelung von 25 000 Euro aufweisen.
 
-
 ## Abschnitt 3 - Aufsicht und Anerkennung
-
 
 ### § 12 Aufsicht
 
@@ -275,7 +260,6 @@ Wagniskapitalbeteiligungsgesellschaft innerhalb der üblichen Betriebs-
 und Geschäftszeiten betreten. Die Betroffenen haben die Maßnahmen nach
 Satz 4 zu dulden.
 
-
 ### § 13 Verschwiegenheitspflicht
 
 Die bei der Bundesanstalt beschäftigten und von ihr beauftragten
@@ -287,7 +271,6 @@ insbesondere Geschäfts- und Betriebsgeheimnisse, nicht unbefugt
 offenbaren oder verwerten, auch wenn sie nicht mehr im Dienst sind
 oder ihre Tätigkeit beendet ist; § 9 des Kreditwesengesetzes ist
 entsprechend anzuwenden.
-
 
 ### § 14 Anerkennung
 
@@ -320,7 +303,6 @@ enthalten:
 nach Absatz 2 ordnungsgemäß und vollständig gestellt ist und die
 Voraussetzungen der §§ 4 bis 7 erfüllt sind.
 
-
 ### § 15 Rechnungslegung
 
 Wagniskapitalbeteiligungsgesellschaften haben unbeschadet ihrer
@@ -332,7 +314,6 @@ und offenzulegen. Die Prüfung hat sich auch auf die Einhaltung der
 Vorschriften der §§ 8 bis 11 und 16 dieses Gesetzes zu erstrecken. Das
 Ergebnis der Prüfung nach Satz 2 ist in den Bestätigungsvermerk zum
 Jahresabschluss aufzunehmen.
-
 
 ### § 16 Anzeigepflichten
 
@@ -351,10 +332,6 @@ unverzüglich anzuzeigen:
 
 
 4.  das Einstellen des Geschäftsbetriebs.
-
-
-
-
 
 ### § 17 Aufhebung und Abberufung
 
@@ -395,7 +372,6 @@ betroffenen Geschäftsleiters verlangen.
 (5) Widerspruch und Anfechtungsklage haben keine aufschiebende
 Wirkung.
 
-
 ### § 18 Erneuter Antrag auf Anerkennung
 
 Wird die Anerkennung als Wagniskapitalbeteiligungsgesellschaft
@@ -404,18 +380,13 @@ Wagniskapitalbeteiligungsgesellschaft auf die Anerkennung, so kann die
 Gesellschaft einen erneuten Antrag frühestens drei Jahre nach dem
 Wirksamwerden des Verzichts, der Rücknahme oder des Widerrufs stellen.
 
-
 ## Abschnitt 4 - Steuerliche Regelungen
-
 
 ### § 19
 
-
 ### § 20
 
-
 ## Abschnitt 5 - Übergangsvorschriften
-
 
 ### § 21 Übergangsvorschriften
 

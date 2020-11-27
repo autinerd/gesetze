@@ -18,14 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4b G v. 17.3.2009 I 534
 
-
 ## Eingangsformel
 
 Auf Grund des § 28 Abs. 2 des Krankenhausfinanzierungsgesetzes in der
 Fassung der Bekanntmachung vom 23. Dezember 1985 (BGBl. 1986 I S. 33),
 der durch Artikel 22 Nr. 7 des Gesetzes vom 20. Dezember 1988 (BGBl. I
 S. 2477) geändert worden ist, verordnet die Bundesregierung:
-
 
 ## § 1 Umfang der Erhebungen, Begriffsbestimmungen
 
@@ -68,10 +66,6 @@ des Krankenhausfinanzierungsgesetzes genannten Krankenhäuser.
     Rehabilitationseinrichtungen nach § 107 Abs. 2 des Fünften Buches
     Sozialgesetzbuch gehören.
 
-
-
-
-
 ## § 2 Erhebungseinheiten
 
 Erhebungseinheiten sind:
@@ -80,10 +74,6 @@ Erhebungseinheiten sind:
 
 
 2.  Vorsorge- oder Rehabilitationseinrichtungen.
-
-
-
-
 
 ## § 3 Erhebungsmerkmale
 
@@ -214,7 +204,6 @@ Erhebungsmerkmale sind:
 In Vorsorge- und Rehabilitationseinrichtungen werden anstelle der
 Berechnungs- und Belegungstage die Pflegetage erhoben.
 
-
 ## § 4 Hilfsmerkmale
 
 Hilfsmerkmale sind:
@@ -233,10 +222,6 @@ Hilfsmerkmale sind:
 
 4.  Institutionskennzeichen des Krankenhauses.
 
-
-
-
-
 ## § 5 Periodizität und Berichtszeitraum
 
 Die Erhebungen werden jährlich durchgeführt. Die Angaben nach § 3 Nr.
@@ -246,7 +231,6 @@ Kalenderjahr, die Angaben nach § 3 Nr. 18 jeweils für das abgelaufene
 Geschäftsjahr erhoben. Die Angaben nach § 3 Nr. 1 bis 17 sind bis zum
 1\. April und die Angaben nach § 3 Nr. 18 bis zum 30. Juni des
 Folgejahres dem zuständigen Statistischen Landesamt zu melden.
-
 
 ## § 6 Auskunftspflicht
 
@@ -261,7 +245,6 @@ bis 3, 5, 11 bis 13, 14 und 17 zu machen. Der Träger von
 Krankenhäusern nach § 3 Nr. 1 Krankenhausfinanzierungsgesetz hat
 Angaben zu den Erhebungsmerkmalen nach § 3 Nr. 1 bis 8, 14 und 17 zu
 machen, soweit Leistungen für Zivilpatienten erbracht werden.
-
 
 ## § 7 Übermittlung
 
@@ -294,16 +277,11 @@ verbunden werden:
     Stadtteile, in Verbindung mit Fachabteilung, Hauptdiagnose und
     Patientenzahl.
 
-
-
-
-
 ## § 8 Inkrafttreten
 
 Diese Verordnung tritt vorbehaltlich des Satzes 2 mit Wirkung vom 1.
 Januar 1990 in Kraft. Es treten § 3 Nr. 11 bis 13 am 1. Januar 1991
 und § 3 Nr. 14 am 1. Januar 1993 in Kraft.
-
 
 ## Schlußformel
 

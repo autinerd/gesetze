@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 G v. 14.8.2009 I 2814
 
-
 ## Erster Abschnitt - Allgemeine und gemeinsame Bestimmungen
-
-
 
 ### § 1 Zweck und Anwendungsbereich des Gesetzes
 
@@ -87,7 +84,6 @@ Angaben über im Inland ansässige Vertreter zu machen. Die Sätze 2 und
 3 gelten nicht, sofern Datenträger nur zum Zweck des Transits durch
 das Inland eingesetzt werden. § 38 Abs. 1 Satz 1 bleibt unberührt.
 
-
 ### § 2 Öffentliche und nicht-öffentliche Stellen
 
 (1) Öffentliche Stellen des Bundes sind die Behörden, die Organe der
@@ -127,7 +123,6 @@ Rechts, soweit sie nicht unter die Absätze 1 bis 3 fallen. Nimmt eine
 nicht-öffentliche Stelle hoheitliche Aufgaben der öffentlichen
 Verwaltung wahr, ist sie insoweit öffentliche Stelle im Sinne dieses
 Gesetzes.
-
 
 ### § 3 Weitere Begriffsbestimmungen
 
@@ -258,10 +253,6 @@ Datenträger,
 8.  Beamtinnen, Beamte, Richterinnen und Richter des Bundes, Soldatinnen
     und Soldaten sowie Zivildienstleistende.
 
-
-
-
-
 ### § 3a Datenvermeidung und Datensparsamkeit
 
 Die Erhebung, Verarbeitung und Nutzung personenbezogener Daten und die
@@ -271,7 +262,6 @@ zu verarbeiten oder zu nutzen. Insbesondere sind personenbezogene
 Daten zu anonymisieren oder zu pseudonymisieren, soweit dies nach dem
 Verwendungszweck möglich ist und keinen im Verhältnis zu dem
 angestrebten Schutzzweck unverhältnismäßigen Aufwand erfordert.
-
 
 ### § 4 Zulässigkeit der Datenerhebung, -verarbeitung und -nutzung
 
@@ -329,7 +319,6 @@ den Umständen des Einzelfalles erforderlich oder auf Verlangen, ist er
 über die Rechtsvorschrift und über die Folgen der Verweigerung von
 Angaben aufzuklären.
 
-
 ### § 4a Einwilligung
 
 (1) Die Einwilligung ist nur wirksam, wenn sie auf der freien
@@ -352,7 +341,6 @@ Forschungszwecks ergibt, schriftlich festzuhalten.
 (3) Soweit besondere Arten personenbezogener Daten (§ 3 Abs. 9)
 erhoben, verarbeitet oder genutzt werden, muss sich die Einwilligung
 darüber hinaus ausdrücklich auf diese Daten beziehen.
-
 
 ### § 4b Übermittlung personenbezogener Daten ins Ausland sowie an über- oder zwischenstaatliche Stellen
 
@@ -410,7 +398,6 @@ Nachteile bereiten würde.
 
 (6) Die Stelle, an die die Daten übermittelt werden, ist auf den Zweck
 hinzuweisen, zu dessen Erfüllung die Daten übermittelt werden.
-
 
 ### § 4c Ausnahmen
 
@@ -472,7 +459,6 @@ Prüfung nach Satz 1 vor.
 
 (3) Die Länder teilen dem Bund die nach Absatz 2 Satz 1 ergangenen
 Entscheidungen mit.
-
 
 ### § 4d Meldepflicht
 
@@ -541,7 +527,6 @@ an die Aufsichtsbehörde oder bei den Post- und
 Telekommunikationsunternehmen an den Bundesbeauftragten für den
 Datenschutz und die Informationsfreiheit zu wenden.
 
-
 ### § 4e Inhalt der Meldepflicht
 
 Sofern Verfahren automatisierter Verarbeitungen meldepflichtig sind,
@@ -584,7 +569,6 @@ sind folgende Angaben zu machen:
 § 4d Abs. 1 und 4 gilt für die Änderung der nach Satz 1 mitgeteilten
 Angaben sowie für den Zeitpunkt der Aufnahme und der Beendigung der
 meldepflichtigen Tätigkeit entsprechend.
-
 
 ### § 4f Beauftragter für den Datenschutz
 
@@ -667,7 +651,6 @@ Aufgaben erforderlich ist, Hilfspersonal sowie Räume, Einrichtungen,
 Geräte und Mittel zur Verfügung zu stellen. Betroffene können sich
 jederzeit an den Beauftragten für den Datenschutz wenden.
 
-
 ### § 4g Aufgaben des Beauftragten für den Datenschutz
 
 (1) Der Beauftragte für den Datenschutz wirkt auf die Einhaltung
@@ -710,7 +693,6 @@ Benehmen mit dem Behördenleiter herstellt; bei Unstimmigkeiten
 zwischen dem behördlichen Beauftragten für den Datenschutz und dem
 Behördenleiter entscheidet die oberste Bundesbehörde.
 
-
 ### § 5 Datengeheimnis
 
 Den bei der Datenverarbeitung beschäftigten Personen ist untersagt,
@@ -719,7 +701,6 @@ nutzen (Datengeheimnis). Diese Personen sind, soweit sie bei nicht-
 öffentlichen Stellen beschäftigt werden, bei der Aufnahme ihrer
 Tätigkeit auf das Datengeheimnis zu verpflichten. Das Datengeheimnis
 besteht auch nach Beendigung ihrer Tätigkeit fort.
-
 
 ### § 6 Rechte des Betroffenen
 
@@ -747,7 +728,6 @@ Betroffenen, das sich aus diesem Gesetz oder aus einer anderen
 Vorschrift über den Datenschutz ergibt, dürfen nur zur Erfüllung der
 sich aus der Ausübung des Rechts ergebenden Pflichten der
 verantwortlichen Stelle verwendet werden.
-
 
 ### § 6a Automatisierte Einzelentscheidung
 
@@ -779,7 +759,6 @@ Entscheidung durch eine natürliche Person stattgefunden hat.
 (3) Das Recht des Betroffenen auf Auskunft nach den §§ 19 und 34
 erstreckt sich auch auf den logischen Aufbau der automatisierten
 Verarbeitung der ihn betreffenden Daten.
-
 
 ### § 6b Beobachtung öffentlich zugänglicher Räume mit optisch-elektronischen Einrichtungen
 
@@ -819,7 +798,6 @@ entsprechend den §§ 19a und 33 zu benachrichtigen.
 des Zwecks nicht mehr erforderlich sind oder schutzwürdige Interessen
 der Betroffenen einer weiteren Speicherung entgegenstehen.
 
-
 ### § 6c Mobile personenbezogene Speicher- und Verarbeitungsmedien
 
 (1) Die Stelle, die ein mobiles personenbezogenes Speicher- und
@@ -855,7 +833,6 @@ zur Verfügung stehen.
 (3) Kommunikationsvorgänge, die auf dem Medium eine Datenverarbeitung
 auslösen, müssen für den Betroffenen eindeutig erkennbar sein.
 
-
 ### § 7 Schadensersatz
 
 Fügt eine verantwortliche Stelle dem Betroffenen durch eine nach
@@ -865,7 +842,6 @@ personenbezogenen Daten einen Schaden zu, ist sie oder ihr Träger dem
 Betroffenen zum Schadensersatz verpflichtet. Die Ersatzpflicht
 entfällt, soweit die verantwortliche Stelle die nach den Umständen des
 Falles gebotene Sorgfalt beachtet hat.
-
 
 ### § 8 Schadensersatz bei automatisierter Datenverarbeitung durch öffentliche Stellen
 
@@ -898,7 +874,6 @@ Betroffenen mitgewirkt, gilt § 254 des Bürgerlichen Gesetzbuchs.
 Verjährungsvorschriften des Bürgerlichen Gesetzbuchs entsprechende
 Anwendung.
 
-
 ### § 9 Technische und organisatorische Maßnahmen
 
 Öffentliche und nicht-öffentliche Stellen, die selbst oder im Auftrag
@@ -910,7 +885,6 @@ Anforderungen, zu gewährleisten. Erforderlich sind Maßnahmen nur, wenn
 ihr Aufwand in einem angemessenen Verhältnis zu dem angestrebten
 Schutzzweck steht.
 
-
 ### § 9a Datenschutzaudit
 
 Zur Verbesserung des Datenschutzes und der Datensicherheit können
@@ -921,7 +895,6 @@ prüfen und bewerten lassen sowie das Ergebnis der Prüfung
 veröffentlichen. Die näheren Anforderungen an die Prüfung und
 Bewertung, das Verfahren sowie die Auswahl und Zulassung der Gutachter
 werden durch besonderes Gesetz geregelt.
-
 
 ### § 10 Einrichtung automatisierter Abrufverfahren
 
@@ -976,7 +949,6 @@ Zulässigkeit des Abrufes oder der Übermittlung des Gesamtbestandes.
 zugänglicher Daten. Allgemein zugänglich sind Daten, die jedermann,
 sei es ohne oder nach vorheriger Anmeldung, Zulassung oder Entrichtung
 eines Entgelts, nutzen kann.
-
 
 ### § 11 Erhebung, Verarbeitung oder Nutzung personenbezogener Daten im Auftrag
 
@@ -1076,14 +1048,9 @@ Wartung automatisierter Verfahren oder von Datenverarbeitungsanlagen
 durch andere Stellen im Auftrag vorgenommen wird und dabei ein Zugriff
 auf personenbezogene Daten nicht ausgeschlossen werden kann.
 
-
 ## Zweiter Abschnitt - Datenverarbeitung der öffentlichen Stellen
 
-
-
 ### Erster Unterabschnitt - Rechtsgrundlagen der Datenverarbeitung
-
-
 
 #### § 12 Anwendungsbereich
 
@@ -1112,7 +1079,6 @@ entsprechend.
 zukünftige Beschäftigungsverhältnisse erhoben, verarbeitet oder
 genutzt, gelten § 28 Absatz 2 Nummer 2 und die §§ 32 bis 35 anstelle
 der §§ 13 bis 16 und 19 bis 20.
-
 
 #### § 13 Datenerhebung
 
@@ -1171,10 +1137,6 @@ ist nur zulässig, soweit
     oder zwischenstaatlicher Verpflichtungen einer öffentlichen Stelle des
     Bundes auf dem Gebiet der Krisenbewältigung oder Konfliktverhinderung
     oder für humanitäre Maßnahmen erforderlich ist.
-
-
-
-
 
 #### § 14 Datenspeicherung, -veränderung und -nutzung
 
@@ -1273,7 +1235,6 @@ personenbezogener Daten (§ 3 Abs. 9) zu den in § 13 Abs. 2 Nr. 7
 genannten Zwecken richtet sich nach den für die in § 13 Abs. 2 Nr. 7
 genannten Personen geltenden Geheimhaltungspflichten.
 
-
 #### § 15 Datenübermittlung an öffentliche Stellen
 
 (1) Die Übermittlung personenbezogener Daten an öffentliche Stellen
@@ -1320,7 +1281,6 @@ Betroffenen oder eines Dritten an deren Geheimhaltung offensichtlich
 (6) Absatz 5 gilt entsprechend, wenn personenbezogene Daten innerhalb
 einer öffentlichen Stelle weitergegeben werden.
 
-
 #### § 16 Datenübermittlung an nicht-öffentliche Stellen
 
 (1) Die Übermittlung personenbezogener Daten an nicht-öffentliche
@@ -1361,11 +1321,9 @@ hinzuweisen. Eine Verarbeitung oder Nutzung für andere Zwecke ist
 zulässig, wenn eine Übermittlung nach Absatz 1 zulässig wäre und die
 übermittelnde Stelle zugestimmt hat.
 
-
 #### § 17
 
 (weggefallen)
-
 
 #### § 18 Durchführung des Datenschutzes in der Bundesverwaltung
 
@@ -1391,10 +1349,7 @@ automatisierte Verarbeitungen, die in gleicher oder ähnlicher Weise
 mehrfach geführt werden, können die Festlegungen zusammengefasst
 werden.
 
-
 ### Zweiter Unterabschnitt - Rechte des Betroffenen
-
-
 
 #### § 19 Auskunft an den Betroffenen
 
@@ -1477,7 +1432,6 @@ zulassen, sofern diese nicht einer weitergehenden Auskunft zustimmt.
 
 (7) Die Auskunft ist unentgeltlich.
 
-
 #### § 19a Benachrichtigung
 
 (1) Werden Daten ohne Kenntnis des Betroffenen erhoben, so ist er von
@@ -1509,7 +1463,6 @@ Voraussetzungen von einer Benachrichtigung nach Nummer 2 oder 3
 abgesehen wird.
 
 (3) § 19 Abs. 2 bis 4 gilt entsprechend.
-
 
 #### § 20 Berichtigung, Löschung und Sperrung von Daten; Widerspruchsrecht
 
@@ -1593,7 +1546,6 @@ schutzwürdige Interessen des Betroffenen nicht entgegenstehen.
 
 (9) § 2 Abs. 1 bis 6, 8 und 9 des Bundesarchivgesetzes ist anzuwenden.
 
-
 #### § 21 Anrufung des Bundesbeauftragten für den Datenschutz und die Informationsfreiheit
 
 Jedermann kann sich an den Bundesbeauftragten für den Datenschutz und
@@ -1604,10 +1556,7 @@ zu sein. Für die Erhebung, Verarbeitung oder Nutzung von
 personenbezogenen Daten durch Gerichte des Bundes gilt dies nur,
 soweit diese in Verwaltungsangelegenheiten tätig werden.
 
-
 ### Dritter Unterabschnitt - Bundesbeauftragter für den Datenschutz und die Informationsfreiheit
-
-
 
 #### § 22 Wahl des Bundesbeauftragten für den Datenschutz und die Informationsfreiheit
 
@@ -1652,7 +1601,6 @@ Einvernehmen mit ihm versetzt, abgeordnet oder umgesetzt werden.
 Amtes verhindert, kann der Bundesminister des Innern einen Vertreter
 mit der Wahrnehmung der Geschäfte beauftragen. Der Bundesbeauftragte
 soll dazu gehört werden.
-
 
 #### § 23 Rechtsstellung des Bundesbeauftragten für den Datenschutz und die Informationsfreiheit
 
@@ -1755,7 +1703,6 @@ Amt befunden hat.
 Stellen, die für die Kontrolle der Einhaltung der Vorschriften über
 den Datenschutz in den Ländern zuständig sind.
 
-
 #### § 24 Kontrolle durch den Bundesbeauftragten für den Datenschutz und die Informationsfreiheit
 
 (1) Der Bundesbeauftragte für den Datenschutz und die
@@ -1824,7 +1771,6 @@ bei der Verarbeitung oder Nutzung personenbezogener Daten, verbinden.
 die Kontrolle der Einhaltung der Vorschriften über den Datenschutz in
 den Ländern zuständig sind.
 
-
 #### § 25 Beanstandungen durch den Bundesbeauftragten für den Datenschutz und die Informationsfreiheit
 
 (1) Stellt der Bundesbeauftragte für den Datenschutz und die
@@ -1867,7 +1813,6 @@ getroffen worden sind. Die in Absatz 1 Satz 1 Nr. 4 genannten Stellen
 leiten der zuständigen Aufsichtsbehörde gleichzeitig eine Abschrift
 ihrer Stellungnahme an den Bundesbeauftragten zu.
 
-
 #### § 26 Weitere Aufgaben des Bundesbeauftragten für den Datenschutz und die Informationsfreiheit
 
 (1) Der Bundesbeauftragte für den Datenschutz und die
@@ -1897,14 +1842,9 @@ Vorschriften über den Datenschutz in den Ländern zuständig sind, sowie
 mit den Aufsichtsbehörden nach § 38 hin. § 38 Abs. 1 Satz 4 und 5 gilt
 entsprechend.
 
-
 ## Dritter Abschnitt - Datenverarbeitung nicht-öffentlicher Stellen und öffentlich-rechtlicher Wettbewerbsunternehmen
 
-
-
 ### Erster Unterabschnitt - Rechtsgrundlagen der Datenverarbeitung
-
-
 
 #### § 27 Anwendungsbereich
 
@@ -1941,7 +1881,6 @@ Verarbeitung und Nutzung personenbezogener Daten außerhalb von nicht
 automatisierten Dateien, soweit es sich nicht um personenbezogene
 Daten handelt, die offensichtlich aus einer automatisierten
 Verarbeitung entnommen worden sind.
-
 
 #### § 28 Datenerhebung und -speicherung für eigene Geschäftszwecke
 
@@ -2160,7 +2099,6 @@ deren Tätigkeitszweck regelmäßig Kontakte mit ihr unterhalten. Die
 außerhalb der Organisation ist nur unter den Voraussetzungen des § 4a
 Abs. 3 zulässig. Absatz 2 Nummer 2 Buchstabe b gilt entsprechend.
 
-
 #### § 28a Datenübermittlung an Auskunfteien
 
 (1) Die Übermittlung personenbezogener Daten über eine Forderung an
@@ -2235,7 +2173,6 @@ Auskunftei gespeichert sind. Die Auskunftei hat die übermittelnde
 Stelle über die Löschung der ursprünglich übermittelten Daten zu
 unterrichten.
 
-
 #### § 28b Scoring
 
 Zum Zweck der Entscheidung über die Begründung, Durchführung oder
@@ -2262,10 +2199,6 @@ Betroffenen erhoben oder verwendet werden, wenn
 4.  im Fall der Nutzung von Anschriftendaten der Betroffene vor Berechnung
     des Wahrscheinlichkeitswerts über die vorgesehene Nutzung dieser Daten
     unterrichtet worden ist; die Unterrichtung ist zu dokumentieren.
-
-
-
-
 
 #### § 29 Geschäftsmäßige Datenerhebung und -speicherung zum Zweck der Übermittlung
 
@@ -2346,7 +2279,6 @@ erhaltene Auskunft zu unterrichten. Die Unterrichtung unterbleibt,
 soweit hierdurch die öffentliche Sicherheit oder Ordnung gefährdet
 würde. § 6a bleibt unberührt.
 
-
 #### § 30 Geschäftsmäßige Datenerhebung und -speicherung zum Zweck der Übermittlung in anonymisierter Form
 
 (1) Werden personenbezogene Daten geschäftsmäßig erhoben und
@@ -2378,7 +2310,6 @@ unzulässig ist.
 (4) § 29 gilt nicht.
 
 (5) § 28 Abs. 6 bis 9 gilt entsprechend.
-
 
 #### § 30a Geschäftsmäßige Datenerhebung und -speicherung für Zwecke der Markt- oder Meinungsforschung
 
@@ -2426,14 +2357,12 @@ Forschungsvorhabens erforderlich ist.
 
 (5) § 28 Absatz 4 und 6 bis 9 gilt entsprechend.
 
-
 #### § 31 Besondere Zweckbindung
 
 Personenbezogene Daten, die ausschließlich zu Zwecken der
 Datenschutzkontrolle, der Datensicherung oder zur Sicherstellung eines
 ordnungsgemäßen Betriebes einer Datenverarbeitungsanlage gespeichert
 werden, dürfen nur für diese Zwecke verwendet werden.
-
 
 #### § 32 Datenerhebung, -verarbeitung und -nutzung für Zwecke des Beschäftigungsverhältnisses
 
@@ -2461,10 +2390,7 @@ solchen Datei erhoben werden.
 (3) Die Beteiligungsrechte der Interessenvertretungen der
 Beschäftigten bleiben unberührt.
 
-
 ### Zweiter Unterabschnitt - Rechte des Betroffenen
-
-
 
 #### § 33 Benachrichtigung des Betroffenen
 
@@ -2557,7 +2483,6 @@ muss.
 Die verantwortliche Stelle legt schriftlich fest, unter welchen
 Voraussetzungen von einer Benachrichtigung nach Satz 1 Nr. 2 bis 7
 abgesehen wird.
-
 
 #### § 34 Auskunft an den Betroffenen
 
@@ -2741,7 +2666,6 @@ Betroffenen die Möglichkeit zu geben, sich im Rahmen seines
 Auskunftsanspruchs persönlich Kenntnis über die ihn betreffenden Daten
 zu verschaffen. Er ist hierauf hinzuweisen.
 
-
 #### § 35 Berichtigung, Löschung und Sperrung von Daten
 
 (1) Personenbezogene Daten sind zu berichtigen, wenn sie unrichtig
@@ -2838,18 +2762,11 @@ schutzwürdige Interessen des Betroffenen nicht entgegenstehen.
 2.  die Daten hierfür übermittelt oder genutzt werden dürften, wenn sie
     nicht gesperrt wären.
 
-
-
-
-
 ### Dritter Unterabschnitt - Aufsichtsbehörde
-
-
 
 #### (XXXX) §§ 36 und 37 (weggefallen)
 
 -
-
 
 #### § 38 Aufsichtsbehörde
 
@@ -2924,7 +2841,6 @@ Anwendungsbereich dieses Abschnittes zuständigen Aufsichtsbehörden.
 (7) Die Anwendung der Gewerbeordnung auf die den Vorschriften dieses
 Abschnittes unterliegenden Gewerbebetriebe bleibt unberührt.
 
-
 #### § 38a Verhaltensregeln zur Förderung der Durchführung datenschutzrechtlicher Regelungen
 
 (1) Berufsverbände und andere Vereinigungen, die bestimmte Gruppen von
@@ -2936,10 +2852,7 @@ unterbreiten.
 (2) Die Aufsichtsbehörde überprüft die Vereinbarkeit der ihr
 unterbreiteten Entwürfe mit dem geltenden Datenschutzrecht.
 
-
 ## Vierter Abschnitt - Sondervorschriften
-
-
 
 ### § 39 Zweckbindung bei personenbezogenen Daten, die einem Berufs- oder besonderen Amtsgeheimnis unterliegen
 
@@ -2954,7 +2867,6 @@ muss die zur Verschwiegenheit verpflichtete Stelle einwilligen.
 (2) Für einen anderen Zweck dürfen die Daten nur verarbeitet oder
 genutzt werden, wenn die Änderung des Zwecks durch besonderes Gesetz
 zugelassen ist.
-
 
 ### § 40 Verarbeitung und Nutzung personenbezogener Daten durch Forschungseinrichtungen
 
@@ -2977,10 +2889,6 @@ personenbezogene Daten nur veröffentlichen, wenn
 
 2.  dies für die Darstellung von Forschungsergebnissen über Ereignisse der
     Zeitgeschichte unerlässlich ist.
-
-
-
-
 
 ### § 41 Erhebung, Verarbeitung und Nutzung personenbezogener Daten durch die Medien
 
@@ -3026,7 +2934,6 @@ Der Betroffene kann die Berichtigung unrichtiger Daten verlangen.
 dieses Gesetzes die §§ 5, 7, 9 und 38a. Anstelle der §§ 24 bis 26 gilt
 § 42, auch soweit es sich um Verwaltungsangelegenheiten handelt.
 
-
 ### § 42 Datenschutzbeauftragter der Deutschen Welle
 
 (1) Die Deutsche Welle bestellt einen Beauftragten für den
@@ -3055,7 +2962,6 @@ Datenschutz und die Informationsfreiheit.
 
 (5) Weitere Regelungen entsprechend den §§ 23 bis 26 trifft die
 Deutsche Welle für ihren Bereich. Die §§ 4f und 4g bleiben unberührt.
-
 
 ### § 42a Informationspflicht bei unrechtmäßiger Kenntniserlangung von Daten
 
@@ -3106,10 +3012,7 @@ gegen ihn oder einen in § 52 Absatz 1 der Strafprozessordnung
 bezeichneten Angehörigen des Benachrichtigungspflichtigen nur mit
 Zustimmung des Benachrichtigungspflichtigen verwendet werden.
 
-
 ## Fünfter Abschnitt - Schlussvorschriften
-
-
 
 ### § 43 Bußgeldvorschriften
 
@@ -3255,7 +3158,6 @@ Ordnungswidrigkeit gezogen hat, übersteigen. Reichen die in Satz 1
 genannten Beträge hierfür nicht aus, so können sie überschritten
 werden.
 
-
 ### § 44 Strafvorschriften
 
 (1) Wer eine in § 43 Abs. 2 bezeichnete vorsätzliche Handlung gegen
@@ -3267,10 +3169,7 @@ zu zwei Jahren oder mit Geldstrafe bestraft.
 Betroffene, die verantwortliche Stelle, der Bundesbeauftragte für den
 Datenschutz und die Informationsfreiheit und die Aufsichtsbehörde.
 
-
 ## Sechster Abschnitt - Übergangsvorschriften
-
-
 
 ### § 45 Laufende Verwendungen
 
@@ -3286,7 +3185,6 @@ gelangen, sind Erhebungen, Verarbeitungen oder Nutzungen
 personenbezogener Daten, die am 23. Mai 2001 bereits begonnen haben,
 binnen fünf Jahren nach diesem Zeitpunkt mit den Vorschriften dieses
 Gesetzes in Übereinstimmung zu bringen.
-
 
 ### § 46 Weitergeltung von Begriffsbestimmungen
 
@@ -3322,7 +3220,6 @@ der Europäischen Union oder in einem anderen Vertragsstaat des
 Abkommens über den Europäischen Wirtschaftsraum personenbezogene Daten
 im Auftrag erheben, verarbeiten oder nutzen.
 
-
 ### § 47 Übergangsregelung
 
 Für die Verarbeitung und Nutzung vor dem 1. September 2009 erhobener
@@ -3333,10 +3230,6 @@ weiter anzuwenden
 
 
 2.  für Zwecke der Werbung bis zum 31. August 2012.
-
-
-
-
 
 ### § 48 Bericht der Bundesregierung
 
@@ -3352,7 +3245,6 @@ Die Bundesregierung berichtet dem Bundestag
 
 Sofern sich aus Sicht der Bundesregierung gesetzgeberische Maßnahmen
 empfehlen, soll der Bericht einen Vorschlag enthalten.
-
 
 ### Anlage (zu § 9 Satz 1)
 

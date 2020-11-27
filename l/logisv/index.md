@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 519 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Auf Grund des § 143 Abs. 1 Nr. 4 und 5 des Seemannsgesetzes vom 26.
@@ -29,7 +28,6 @@ und Sozialordnung und für Verkehr im Einvernehmen mit dem
 Bundesminister für Ernährung, Landwirtschaft und Forsten mit
 Zustimmung des Bundesrates verordnet:
 
-
 ## § 1 Geltungsbereich
 
 (1) Diese Verordnung gilt für die Unterbringung der
@@ -38,7 +36,6 @@ Bundesflagge zu führen.
 
 (2) Diese Verordnung gilt nicht für die Unterbringung der
 Besatzungsmitglieder auf Fischereifahrzeugen bis zu 37 BRT.
-
 
 ## § 2 Begriffsbestimmung
 
@@ -63,10 +60,6 @@ aufgeführten für die Unterbringung der Besatzung bestimmten Räume:
 
 6.  Büroräume.
 
-
-
-
-
 ## § 3 Allgemeine Anforderungen
 
 (1) Der Reeder hat zum Schutz von Leben, Gesundheit und Wohlbefinden
@@ -89,13 +82,11 @@ Ergebnisse jeder Besichtigung sind im Schiffstagebuch einzutragen.
 (3) Der Reeder hat bei der Unterbringung der Besatzungsmitglieder
 deren Religion und soziale Gepflogenheiten zu berücksichtigen.
 
-
 ## § 4 Weitergehende Anforderungen
 
 Die See-Berufsgenossenschaft kann im Einzelfall über § 3 hinausgehende
 Anforderungen stellen, wenn dies zum Schutz von Leben, Gesundheit oder
 Wohlbefinden der Besatzungsmitglieder erforderlich erscheint.
-
 
 ## § 5 Ausnahmen
 
@@ -157,10 +148,6 @@ Fahrgastschiffe zulassen, daß
     angeordnet werden, wenn besondere Verhältnisse dieser Schiffe es
     erfordern.
 
-
-
-
-
 ## § 6 Zulassung von Werkstoffen und Bauarten
 
 (1) In Unterkunftsräumen dürfen für
@@ -211,10 +198,6 @@ Die Zulassung kann widerrufen werden, wenn
 2.  inhaltliche Beschränkungen nicht beachtet oder Auflagen nicht
     innerhalb einer gesetzten Frist erfüllt sind.
 
-
-
-
-
 ## § 7 Fachausschuß
 
 (1) Es wird ein Fachausschuß für die Unterbringung der
@@ -263,7 +246,6 @@ Fragen der Seeschiffahrt zuständigen obersten Landesbehörden haben das
 Recht, zu den Sitzungen des Ausschusses Vertreter zu entsenden. Diesen
 Vertretern ist in der Sitzung auf Verlangen das Wort zu erteilen.
 
-
 ## § 8 Anhörung
 
 (1) Die See-Berufsgenossenschaft hat, bevor sie nach den §§ 5 und 11
@@ -276,7 +258,6 @@ getrennt Stellung zu nehmen.
 Fachausschusses nicht einzuholen, soweit der Ausschuß einstimmig
 Richtlinien aufgestellt hat, die bei den Entscheidungen zu
 berücksichtigen sind.
-
 
 ## § 9 Zustimmung zu den Schiffsbauplänen
 
@@ -307,7 +288,6 @@ Schiffes wesentlich geändert werden sollen.
 (3) Bei der Bauausführung darf von den Plänen nicht ohne Zustimmung
 der See-Berufsgenossenschaft abgewichen werden.
 
-
 ## § 10 Anordnungen der See-Berufsgenossenschaft
 
 Die See-Berufsgenossenschaft kann im Einzelfall die erforderlichen
@@ -327,10 +307,6 @@ folgenden Fällen zu besichtigen:
 3.  wenn eine Gewerkschaft oder mindestens zwei Besatzungsmitglieder sich
     bei ihr darüber beschwert haben, daß die Unterkunftsräume den
     Anforderungen des § 3 dieser Verordnung nicht entsprechen.
-
-
-
-
 
 ## § 11 Übergangsvorschriften
 
@@ -365,15 +341,10 @@ geändert wird, wenn das Schiff
 3.  nach Inkrafttreten dieser Verordnung das Recht zur Führung der
     Bundesflagge erwirbt.
 
-
-
-
-
 ## § 12 Bekanntmachung
 
 Auf jedem Schiff ist ein Abdruck dieser Verordnung an geeigneter
 Stelle auszuhängen.
-
 
 ## § 13 Ordnungswidrigkeiten
 
@@ -383,18 +354,15 @@ Baupläne nicht oder nicht rechtzeitig der See-Berufsgenossenschaft
 vorlegt oder deren Zustimmung nicht einholt oder entgegen § 9 Abs. 3
 ohne Zustimmung von den Plänen abweicht.
 
-
 ## § 14
 
 (weggefallen)
-
 
 ## § 15 Inkrafttreten
 
 (1) Diese Verordnung tritt am 1. Januar 1974 in Kraft.
 
 (2)
-
 
 ## Anhang zur Verordnung über die Unterbringung der Besatzungsmitglieder an Bord von Kauffahrteischiffen
 

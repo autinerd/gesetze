@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1990, 438
 
-
-
 ## (XXXX)
 
 

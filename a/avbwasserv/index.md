@@ -18,13 +18,11 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 13.1.2010 I 10
 
-
 ## Eingangsformel
 
 Auf Grund des § 27 des Gesetzes zur Regelung des Rechts der
 Allgemeinen Geschäftsbedingungen vom 9. Dezember 1976 (BGBl. I S.
 3317) wird mit Zustimmung des Bundesrates verordnet:
-
 
 ## § 1 Gegenstand der Verordnung
 
@@ -54,7 +52,6 @@ abschließend geregelt sind oder nach Absatz 3 von den §§ 2 bis 34
 abweichen, einschließlich der dazugehörenden Preisregelungen und
 Preislisten in geeigneter Weise öffentlich bekanntzugeben.
 
-
 ## § 2 Vertragsabschluß
 
 (1) Der Vertrag soll schriftlich abgeschlossen werden. Ist er auf
@@ -77,7 +74,6 @@ Vertrag zugrunde liegenden allgemeinen Versorgungsbedingungen
 einschließlich der dazugehörenden Preisregelungen und Preislisten
 unentgeltlich auszuhändigen.
 
-
 ## § 3 Bedarfsdeckung
 
 (1) Das Wasserversorgungsunternehmen hat dem Kunden im Rahmen des
@@ -91,7 +87,6 @@ Wasserversorgungsunternehmens zu decken.
 Wasserversorgungsunternehmen Mitteilung zu machen. Der Kunde hat durch
 geeignete Maßnahmen sicherzustellen, daß von seiner Eigenanlage keine
 Rückwirkungen in das öffentliche Wasserversorgungsnetz möglich sind.
-
 
 ## § 4 Art der Versorgung
 
@@ -119,7 +114,6 @@ dabei sind die Belange des Kunden möglichst zu berücksichtigen.
 (4) Stellt der Kunde Anforderungen an Beschaffenheit und Druck des
 Wassers, die über die vorgenannten Verpflichtungen hinausgehen, so
 obliegt es ihm selbst, die erforderlichen Vorkehrungen zu treffen.
-
 
 ## § 5 Umfang der Versorgung, Benachrichtigung bei Versorgungsunterbrechungen
 
@@ -154,10 +148,6 @@ Benachrichtigung entfällt, wenn die Unterrichtung
 
 2.  die Beseitigung von bereits eingetretenen Unterbrechungen verzögern
     würde.
-
-
-
-
 
 ## § 6 Haftung bei Versorgungsstörungen
 
@@ -218,11 +208,9 @@ ersatzpflichtigen Unternehmen mitzuteilen. Leitet der Kunde das
 gelieferte Wasser an einen Dritten weiter, so hat er diese
 Verpflichtung auch dem Dritten aufzuerlegen.
 
-
 ## § 7
 
 (weggefallen)
-
 
 ## § 8 Grundstücksbenutzung
 
@@ -262,7 +250,6 @@ versorgenden Grundstücks im Sinne der Absätze 1 und 4 beizubringen.
 Verkehrsflächen sowie für Grundstücke, die durch Planfeststellung für
 den Bau von öffentlichen Verkehrswegen und Verkehrsflächen bestimmt
 sind.
-
 
 ## § 9 Baukostenzuschüsse
 
@@ -311,7 +298,6 @@ Berechnungsmaßstäbe verlangen.
 (6) Der Baukostenzuschuß und die in § 10 Abs. 5 geregelten
 Hausanschlußkosten sind getrennt zu errechnen und dem Anschlußnehmer
 aufgegliedert auszuweisen.
-
 
 ## § 10 Hausanschluß
 
@@ -373,7 +359,6 @@ Zustimmung des Grundstückseigentümers zur Herstellung des
 Hausanschlusses unter Anerkennung der damit verbundenen
 Verpflichtungen beizubringen.
 
-
 ## § 11 Meßeinrichtungen an der Grundstücksgrenze
 
 (1) Das Wasserversorgungsunternehmen kann verlangen, daß der
@@ -404,7 +389,6 @@ zumutbar sind und die Verlegung ohne Beeinträchtigung einer
 einwandfreien Messung möglich ist.
 
 (4) § 10 Abs. 8 gilt entsprechend.
-
 
 ## § 12 Kundenanlage
 
@@ -460,7 +444,6 @@ gleichermaßen dauerhaft erreicht wird.
 Eigentum des Kunden stehen und zu deren Unterhaltung er verpflichtet
 ist, sind Bestandteile der Kundenanlage.
 
-
 ## § 13 Inbetriebsetzung der Kundenanlage
 
 (1) Das Wasserversorgungsunternehmen oder dessen Beauftragte schließen
@@ -473,7 +456,6 @@ beantragen.
 (3) Das Wasserversorgungsunternehmen kann für die Inbetriebsetzung vom
 Kunden Kostenerstattung verlangen; die Kosten können pauschal
 berechnet werden.
-
 
 ## § 14 Überprüfung der Kundenanlage
 
@@ -494,7 +476,6 @@ Wasserversorgungsunternehmen keine Haftung für die Mängelfreiheit der
 Anlage. Dies gilt nicht, wenn es bei einer Überprüfung Mängel
 festgestellt hat, die eine Gefahr für Leib oder Leben darstellen.
 
-
 ## § 15 Betrieb, Erweiterung und Änderung von Kundenanlage und Verbrauchseinrichtungen, Mitteilungspflichten
 
 (1) Anlage und Verbrauchseinrichtungen sind so zu betreiben, daß
@@ -508,7 +489,6 @@ Wasserversorgungsunternehmen mitzuteilen, soweit sich dadurch
 preisliche Bemessungsgrößen ändern oder sich die vorzuhaltende
 Leistung wesentlich erhöht.
 
-
 ## § 16 Zutrittsrecht
 
 Der Kunde hat dem mit einem Ausweis versehenen Beauftragten des
@@ -518,7 +498,6 @@ Prüfung der technischen Einrichtungen, zur Wahrnehmung sonstiger
 Rechte und Pflichten nach dieser Verordnung, insbesondere zur
 Ablesung, oder zur Ermittlung preislicher Bemessungsgrundlagen
 erforderlich und vereinbart ist.
-
 
 ## § 17 Technische Anschlußbedingungen
 
@@ -537,7 +516,6 @@ und störungsfreie Versorgung gefährden würde.
 Anforderungen der zuständigen Behörde anzuzeigen. Die Behörde kann sie
 beanstanden, wenn sie mit Inhalt und Zweck dieser Verordnung nicht zu
 vereinbaren sind.
-
 
 ## § 18 Messung
 
@@ -567,7 +545,6 @@ Wasserversorgungsunternehmen unverzüglich mitzuteilen. Er ist
 verpflichtet, sie vor Abwasser, Schmutz- und Grundwasser sowie vor
 Frost zu schützen.
 
-
 ## § 19 Nachprüfung von Meßeinrichtungen
 
 (1) Der Kunde kann jederzeit die Nachprüfung der Meßeinrichtungen
@@ -579,7 +556,6 @@ er dieses vor Antragstellung zu benachrichtigen.
 (2) Die Kosten der Prüfung fallen dem Unternehmen zur Last, falls die
 Abweichung die gesetzlichen Verkehrsfehlergrenzen überschreitet, sonst
 dem Kunden.
-
 
 ## § 20 Ablesung
 
@@ -593,7 +569,6 @@ sind.
 nicht zum Zwecke der Ablesung betreten kann, darf das Unternehmen den
 Verbrauch auf der Grundlage der letzten Ablesung schätzen; die
 tatsächlichen Verhältnisse sind angemessen zu berücksichtigen.
-
 
 ## § 21 Berechnungsfehler
 
@@ -613,7 +588,6 @@ Verhältnisse sind angemessen zu berücksichtigen.
 vorhergehenden Ablesezeitraum beschränkt, es sei denn, die Auswirkung
 des Fehlers kann über einen größeren Zeitraum festgestellt werden; in
 diesem Fall ist der Anspruch auf längstens zwei Jahre beschränkt.
-
 
 ## § 22 Verwendung des Wassers
 
@@ -643,7 +617,6 @@ sondern zu anderen vorübergehenden Zwecken entnommen werden, sind
 hierfür Hydrantenstandrohre des Wasserversorgungsunternehmens mit
 Wasserzählern zu benutzen.
 
-
 ## § 23 Vertragsstrafe
 
 (1) Entnimmt der Kunde Wasser unter Umgehung, Beeinflussung oder vor
@@ -669,7 +642,6 @@ Mitteilungspflicht nicht festzustellen, so kann die Vertragsstrafe
 nach vorstehenden Grundsätzen über einen festgestellten Zeitraum
 hinaus für längstens ein Jahr erhoben werden.
 
-
 ## § 24 Abrechnung, Preisänderungsklauseln
 
 (1) Das Entgelt wird nach Wahl des Wasserversorgungsunternehmens
@@ -688,7 +660,6 @@ die Änderung der Preise nur von solchen Berechnungsfaktoren abhängig
 machen, die der Beschaffung und Bereitstellung des Wassers zuzurechnen
 sind. Die Berechnungsfaktoren müssen vollständig und in allgemein
 verständlicher Form ausgewiesen werden.
-
 
 ## § 25 Abschlagszahlungen
 
@@ -712,13 +683,11 @@ erstatten, spätestens aber mit der nächsten Abschlagsforderung zu
 verrechnen. Nach Beendigung des Versorgungsverhältnisses sind zuviel
 gezahlte Abschläge unverzüglich zu erstatten.
 
-
 ## § 26 Vordrucke für Rechnungen und Abschläge
 
 Vordrucke für Rechnungen und Abschläge müssen verständlich sein. Die
 für die Forderung maßgeblichen Berechnungsfaktoren sind vollständig
 und in allgemein verständlicher Form auszuweisen.
-
 
 ## § 27 Zahlung, Verzug
 
@@ -730,7 +699,6 @@ zwei Wochen nach Zugang der Zahlungsaufforderung fällig.
 Wasserversorgungsunternehmen, wenn es erneut zur Zahlung auffordert
 oder den Betrag durch einen Beauftragten einziehen läßt, die dadurch
 entstandenen Kosten auch pauschal berechnen.
-
 
 ## § 28 Vorauszahlungen
 
@@ -755,7 +723,6 @@ Wasserversorgungsunternehmen auch für die Erstellung oder Veränderung
 des Hausanschlusses sowie in den Fällen des § 22 Abs. 3 Satz 1
 Vorauszahlung verlangen.
 
-
 ## § 29 Sicherheitsleistung
 
 (1) Ist der Kunde oder Anschlußnehmer zur Vorauszahlung nicht in der
@@ -776,7 +743,6 @@ oder Anschlußnehmers.
 (4) Die Sicherheit ist zurückzugeben, wenn ihre Voraussetzungen
 weggefallen sind.
 
-
 ## § 30 Zahlungsverweigerung
 
 Einwände gegen Rechnungen und Abschlagsberechnungen berechtigen zum
@@ -790,16 +756,11 @@ Zahlungsaufschub oder zur Zahlungsverweigerung nur,
     zwei Jahren nach Zugang der fehlerhaften Rechnung oder
     Abschlagsberechnung geltend gemacht wird.
 
-
-
-
-
 ## § 31 Aufrechnung
 
 Gegen Ansprüche des Wasserversorgungsunternehmens kann nur mit
 unbestrittenen oder rechtskräftig festgestellten Gegenansprüchen
 aufgerechnet werden.
-
 
 ## § 32 Laufzeit des Versorgungsvertrages, Kündigung
 
@@ -832,7 +793,6 @@ des Kunden. Der Wechsel des Wasserversorgungsunternehmens ist
 
 (7) Der Kunde kann eine zeitweilige Absperrung seines Anschlusses
 verlangen, ohne damit das Vertragsverhältnis zu lösen.
-
 
 ## § 33 Einstellung der Versorgung, fristlose Kündigung
 
@@ -879,7 +839,6 @@ Zuwiderhandlungen nach Absatz 2 ist das Unternehmen zur fristlosen
 Kündigung berechtigt, wenn sie zwei Wochen vorher angedroht wurde;
 Absatz 2 Satz 2 und 3 gilt entsprechend.
 
-
 ## § 34 Gerichtsstand
 
 (1) Der Gerichtsstand für Kaufleute, die nicht zu den in § 4 des
@@ -898,10 +857,6 @@ Betriebsstelle des Wasserversorgungsunternehmens.
     sein Wohnsitz oder gewöhnlicher Aufenthalt im Zeitpunkt der
     Klageerhebung nicht bekannt ist.
 
-
-
-
-
 ## § 35 Öffentlich-rechtliche Versorgung mit Wasser
 
 (1) Rechtsvorschriften, die das Versorgungsverhältnis öffentlich-
@@ -914,13 +869,11 @@ Regelung des Abgabenrechts.
 die das Versorgungsverhältnis öffentlich-rechtlich regeln, sind bis
 zum 1. Januar 1982 anzupassen.
 
-
 ## § 36 Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 29 des Gesetzes zur Regelung des Rechts der
 Allgemeinen Geschäftsbedingungen auch im Land Berlin.
-
 
 ## § 37 Inkrafttreten
 
@@ -936,11 +889,9 @@ abgeschlossenen Versorgungsverträge bleiben unberührt.
 (3) § 24 Abs. 2 und 3, § 25 Abs. 1 und 2 sowie § 28 gelten nur für
 Abrechnungszeiträume, die nach dem 31. Dezember 1980 beginnen.
 
-
 ## Schlußformel
 
 Der Bundesminister für Wirtschaft
-
 
 ## Anhang EV Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet D Abschnitt III (BGBl. II 1990, 889, 1008) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 

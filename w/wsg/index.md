@@ -22,7 +22,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 8 G v. 15.3.2012 I 462
 
-
 ## § 1 Allgemeine Vorschrift
 
 (1) Soldaten, die Wehrdienst nach dem Wehrpflichtgesetz oder nach dem
@@ -66,7 +65,6 @@ jeweiligen Standort einem Kaufkraftausgleich unterliegen.
 (9) Für die Rückforderung von Bezügen ist § 12 des
 Bundesbesoldungsgesetzes entsprechend anzuwenden.
 
-
 ## § 2 Wehrsold
 
 (1) Die Höhe des Wehrsoldes richtet sich nach der als Anlage 1
@@ -100,7 +98,6 @@ die nach § 50a des Bundesbesoldungsgesetzes eine Vergütung gewährt
 wird, die Gewährung eines erhöhten Wehrsoldes zu regeln. Die
 Rechtsverordnung bedarf nicht der Zustimmung des Bundesrates.
 
-
 ## § 3 Verpflegung
 
 (1) Die Verpflegung wird als Gemeinschaftsverpflegung unentgeltlich
@@ -118,14 +115,12 @@ sie den entsprechenden Teilbetrag.
 2 auszuzahlende Verpflegungsgeld dem Kaufkraftausgleich nach dem
 Bundesbesoldungsgesetz.
 
-
 ## § 4 Unterkunft
 
 Die Unterkunft wird unentgeltlich bereitgestellt. Ein Entgelt für die
 Inanspruchnahme anderer Unterkunft wird nicht gezahlt. Die Abfindung
 nach den reisekostenrechtlichen Vorschriften wird hierdurch nicht
 berührt.
-
 
 ## § 5 Dienstbekleidung
 
@@ -137,7 +132,6 @@ Entschädigung. Die Höhe der Entschädigung orientiert sich an den
 Beschaffungskosten und wird vom Bundesministerium der Verteidigung
 durch Verwaltungsvorschrift festgelegt.
 
-
 ## § 6 Heilfürsorge
 
 Den Soldaten wird unentgeltlich truppenärztliche Versorgung gewährt.
@@ -146,7 +140,6 @@ Soldatengesetzes. Hierbei erhalten Soldaten, die eine
 Wehrdienstbeschädigung erlitten haben, Leistungen im Rahmen der
 Heilbehandlung nach dem Bundesversorgungsgesetz, wenn diese günstiger
 sind.
-
 
 ## § 7 Besondere Zuwendung
 
@@ -185,7 +178,6 @@ sein Anspruch auf die Zuwendung.
 (5) Ist die Zuwendung gezahlt worden, obwohl sie dem Soldaten nach
 Absatz 3 nicht zustand, so ist sie in voller Höhe zurückzuzahlen.
 
-
 ## § 8 Abfindung bei Wehrdienst von nicht länger als drei Tagen
 
 (1) Der Soldat, der zu einer Wehrübung von nicht länger als drei Tagen
@@ -203,7 +195,6 @@ Dienstgeld.
 
 
 des zustehenden Wehrsoldtagessatzes.
-
 
 ## § 8a Leistungszuschlag bei Wehrübungen
 
@@ -249,7 +240,6 @@ gewährt, als er den Betrag des Auslandsverwendungszuschlages
 übersteigt. Absatz 2 ist auf Zivilpersonal der Bundeswehr nicht
 anzuwenden.
 
-
 ## § 8b Reserveunteroffizierzuschlag
 
 (1) Soldaten, die zum Reserveunteroffizier ausgebildet werden,
@@ -272,7 +262,6 @@ erhalten einen Zuschlag von 1 022,58 Euro.
 
 Der Reserveunteroffizierzuschlag wird nur einmalig gewährt. § 7 Abs. 4
 gilt entsprechend.
-
 
 ## § 8c Wehrdienstzuschlag
 
@@ -301,11 +290,9 @@ den letzten Monat des freiwilligen Wehrdienstes wird er bei der
 Entlassung oder mit dem Eintritt in ein Wehrdienstverhältnis
 besonderer Art nach § 6 des Einsatz-Weiterverwendungsgesetzes gezahlt.
 
-
 ## (XXXX) §§ 8d u. 8e (weggefallen)
 
 -
-
 
 ## § 8f Auslandsverwendungszuschlag
 
@@ -316,7 +303,6 @@ Auslandsverwendungszuschlag unter den gleichen Voraussetzungen, zum
 gleichen Zeitpunkt und in gleicher Höhe wie Berufssoldaten und
 Soldaten auf Zeit. § 2 Abs. 2 gilt nicht. § 56 Absatz 3 Satz 1 und 2
 des Bundesbesoldungsgesetzes gilt entsprechend.
-
 
 ## § 8g Besondere Vergütung
 
@@ -367,7 +353,6 @@ Beamtenversorgungsgesetzes erfüllt wären.
 im Ausland zu, so unterliegt sie dem Kaufkraftausgleich nach dem
 Bundesbesoldungsgesetz.
 
-
 ## § 8h Reserveoffizierzuschlag
 
 (1) Soldaten, die zum Reserveoffizier ausgebildet werden, erhalten
@@ -380,7 +365,6 @@ zum Leutnant der Reserve in einem weiteren Teilbetrag von 1 000 Euro
 gewährt und zusammen mit dem Wehrsold gezahlt. Der
 Reserveoffizierzuschlag wird nur einmalig gewährt. § 7 Abs. 4 gilt
 entsprechend.
-
 
 ## § 8i Weiterverpflichtungsprämie
 
@@ -413,7 +397,6 @@ genannten Gründe endet. Dabei ist dem Soldaten der Teil der Prämie zu
 belassen, der auf jeden angefangenen Kalendermonat tatsächlich
 geleisteter zusätzlicher Dienstzeit entfällt.
 
-
 ## § 9 Entlassungsgeld
 
 (1) Soldaten, die mehr als sechs Monate freiwilligen Wehrdienst nach
@@ -431,13 +414,11 @@ freiwilligen Wehrdienstes mit Anspruch auf Wehrsold 76,80 Euro, im
 Verlängerung des Wehrdienstes bei stationärer truppenärztlicher
 Behandlung unberücksichtigt.
 
-
 ## § 10 Verwaltungsvorschriften
 
 Die zur Durchführung dieses Gesetzes erforderlichen allgemeinen
 Verwaltungsvorschriften werden vom Bundesministerium der Verteidigung
 erlassen.
-
 
 ## § 11 Übergangsvorschrift aus Anlass des Wehrrechtsänderungsgesetzes 2011
 
@@ -450,7 +431,6 @@ bis zum 30. Juni 2011 geleisteten Wehrdiensttage mit Anspruch auf
 Wehrsold zu berücksichtigen. Satz 1 gilt für die besondere Zuwendung
 nur insoweit, als für die bis zum 30. Juni 2011 geleisteten
 Wehrdiensttage nicht bereits eine Zuwendung gewährt wurde.
-
 
 ## Anlage 1 (zu § 2 Abs. 1)
 
@@ -556,10 +536,6 @@ Wehrdiensttage nicht bereits eine Zuwendung gewährt wurde.
     *   General
 
     *   17,85
-
-
-
-
 
 ## Anlage 2 (zu § 8g Abs. 1)
 
@@ -1180,7 +1156,6 @@ im Monat nicht übersteigen.
 
 (4) Die besonderen Vergütungen nach den Absätzen 1 und 2 dürfen den
 Gesamtbetrag von 613,55 Euro im Monat nicht übersteigen.
-
 
 ## Anhang EV Auszug aus EinigVtr Anlage I Kapitel XIX Sachgebiet A Abschnitt III (BGBl. II 1990, 889, 1144) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 

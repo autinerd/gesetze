@@ -22,7 +22,6 @@ Stand: Die V tritt gem. § 13 Satz 2 idF d. V v. 25.6.2009 I 1598 am 31.7.2013 a
 Die geltung der v ist durch
 :   § 13 Satz 2 idF d. V v. 25.6.2009 I 1598 vom 1.8.2009 bis zum 31.7.2013 verlängert worden
 
-
 ## Eingangsformel
 
 Auf Grund des § 28 Abs. 3 des Berufsbildungsgesetzes vom 14. August
@@ -36,13 +35,11 @@ und Arbeit nach Anhören des Ständigen Ausschusses des Bundesinstituts
 für Berufsbildung im Einvernehmen mit dem Bundesministerium für
 Bildung und Forschung:
 
-
 ## § 1 Ausnahmeregelung
 
 Abweichend von § 4 Absatz 3 des Berufsbildungsgesetzes und des § 25
 Absatz 3 der Handwerksordnung dürfen Jugendliche unter 18 Jahren gemäß
 den nachfolgenden Vorschriften ausgebildet werden.
-
 
 ## § 2 Gegenstand und Struktur der Erprobung
 
@@ -52,7 +49,6 @@ insbesondere Ausbildungsinhalte und Struktur eines neuen
 Ausbildungsberufes in der Kraftfahrzeugbranche erprobt werden. Die
 Erprobung umfasst auch die Eignung für eine Fortführung der Ausbildung
 in einem der in § 12 genannten Berufe.
-
 
 ## § 3 Beteiligte Ausbildungsstätten
 
@@ -64,7 +60,6 @@ in denen die Fortführung der Ausbildung in Ausbildungsberufen gemäß §
 Gewerbe Nummer 20, Kraftfahrzeugtechniker, der Anlage A der
 Handwerksordnung ausgebildet werden.
 
-
 ## § 4 Sachverständigenbeirat
 
 Nach Weisung des Bundesministeriums für Wirtschaft und Technologie
@@ -74,12 +69,10 @@ Sachverständigenbeirat zur Begleitung der Erprobung gebildet, der
 insbesondere die Konsequenzen für den Ausbildungs- und Arbeitsmarkt
 beurteilen soll.
 
-
 ## § 5 Ausbildungsdauer und Abschluss
 
 Die Ausbildung dauert zwei Jahre und führt zu dem Abschluss
 Kraftfahrzeugservicemechaniker/Kraftfahrzeugservicemechanikerin.
-
 
 ## § 6 Ausbildungsberufsbild
 
@@ -128,10 +121,6 @@ Fertigkeiten und Kenntnisse:
 13. Diagnostizieren von Fehlern, Ermitteln von Störungen und deren
     Ursachen.
 
-
-
-
-
 ## § 7 Ausbildungsrahmenplan
 
 Die Fertigkeiten und Kenntnisse nach § 6 sollen nach der in der Anlage
@@ -141,13 +130,11 @@ dem Ausbildungsrahmenplan abweichende sachliche und zeitliche
 Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit
 betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
 ## § 8 Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des
 Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan
 zu erstellen.
-
 
 ## § 9 Berichtsheft
 
@@ -155,7 +142,6 @@ Die Auszubildenden haben ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden
 haben das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 10 Zwischenprüfung
 
@@ -176,7 +162,6 @@ Gesundheitsschutz und Wirtschaftlichkeit berücksichtigen kann. Hierfür
 kommt insbesondere in Betracht: Bauteile, Baugruppen und Systeme außer
 Betrieb nehmen, demontieren, zuordnen, montieren, in Betrieb nehmen
 sowie Funktion prüfen.
-
 
 ## § 11 Abschlussprüfung
 
@@ -310,7 +295,6 @@ mit mindestens „ausreichend“ bewertet worden sind. Im Prüfungsbereich
 Wirtschafts- und Sozialkunde dürfen die Leistungen nicht mit
 „ungenügend“ bewertet worden sein.
 
-
 ## § 12 Fortsetzung der Berufsausbildung
 
 (1) Die Berufsausbildung kann im Ausbildungsberuf
@@ -337,14 +321,12 @@ Fachrichtung Motorradtechnik nach den Vorschriften für die zweite
 Hälfte des zweiten Ausbildungsjahres fortgesetzt werden. Absatz 2 gilt
 entsprechend.
 
-
 ## § 13 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2004 in Kraft. Sie tritt am 31.
 Juli 2013 außer Kraft; die zu diesem Zeitpunkt bestehenden
 Berufsausbildungsverhältnisse werden nach den Vorschriften dieser
 Verordnung zu Ende geführt.
-
 
 ## Anlage (zu § 7) Ausbildungsrahmenplan für die Berufsausbildung zum Kraftfahrzeugservicemechaniker/zur Kraftfahrzeugservicemechanikerin
 
@@ -891,9 +873,6 @@ Verordnung zu Ende geführt.
 
 \*) Im Zusammenhang mit anderen im Ausbildungsrahmenplan aufgeführten
     Ausbildungsinhalten zu vermitteln.
-
-
-
 
 ## Abschnitt II: Berufliche Fachbildung
 

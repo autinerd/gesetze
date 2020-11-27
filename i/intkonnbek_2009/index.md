@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 2996
 
-
 ## (XXXX)
 
 Nach Artikel 6 Absatz 3 des Einführungsgesetzes zum
@@ -42,7 +41,6 @@ in Kraft getreten ist.
 
 Diese Bekanntmachung ergeht im Anschluss an die Bekanntmachung vom 18.
 September 2001 (BGBl. I S. 2576; 2002 I S. 559).
-
 
 ## Schlussformel
 

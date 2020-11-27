@@ -26,7 +26,6 @@ Arbeitnehmerinnen am Arbeitsplatz (10. Einzelrichtlinie im Sinne des
 Artikels 16 Abs. 1 der Richtlinie 89/391/EWG) (ABl. EG Nr. L 348 S. 1)
 (EG-Mutterschutz-Richtlinie).
 
-
 ## § 1 Beurteilung der Arbeitsbedingungen
 
 (1) Der Arbeitgeber muß rechtzeitig für jede Tätigkeit, bei der
@@ -53,7 +52,6 @@ unberührt.
 schriftlich damit beauftragen, ihm obliegende Aufgaben nach dieser
 Verordnung in eigener Verantwortung wahrzunehmen.
 
-
 ## § 2 Unterrichtung
 
 Der Arbeitgeber ist verpflichtet, werdende oder stillende Mütter sowie
@@ -65,7 +63,6 @@ sobald das möglich ist. Eine formlose Unterrichtung reicht aus. Die
 Pflichten nach dem Arbeitsschutzgesetz sowie weitergehende Pflichten
 nach dem Betriebsverfassungs- und den Personalvertretungsgesetzen
 bleiben unberührt.
-
 
 ## § 3 Weitere Folgerungen aus der Beurteilung
 
@@ -90,7 +87,6 @@ dürfen werdende oder stillende Mütter so lange nicht beschäftigt
 werden, wie dies zum Schutze ihrer Sicherheit und Gesundheit
 erforderlich ist.
 
-
 ## § 4 Verbot der Beschäftigung
 
 (1) Werdende oder stillende Mütter dürfen nicht mit Arbeiten
@@ -104,7 +100,6 @@ bleiben unberührt.
 (2) § 3 gilt entsprechend, wenn eine Arbeitnehmerin, die eine
 Tätigkeit nach Absatz 1 ausübt, schwanger wird oder stillt und ihren
 Arbeitgeber davon unterrichtet.
-
 
 ## § 5 Besondere Beschäftigungsbeschränkungen
 
@@ -145,7 +140,6 @@ bestimmungsgemäßem Umgang den Gefahrstoffen nicht ausgesetzt sind.
 (2) Für Absatz 1 Satz 1 Nr. 1 bis 5 gelten die Vorschriften der
 Gefahrstoffverordnung entsprechend.
 
-
 ## § 6 Straftaten und Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 25 Abs. 1 Nr. 1 des
@@ -169,7 +163,6 @@ gefährdet, ist nach § 21 Abs. 3, 4 des Mutterschutzgesetzes strafbar.
 (5) Wer vorsätzlich oder fahrlässig durch eine in Absatz 3 bezeichnete
 Handlung das Leben oder die Gesundheit einer Frau gefährdet, ist nach
 § 27 Abs. 2 bis 4 des Chemikaliengesetzes strafbar.
-
 
 ## Anlage 1 (zu § 1 Abs. 1) Nicht erschöpfende Liste der chemischen Gefahrstoffe und biologischen Arbeitsstoffe, der physikalischen Schadfaktoren sowie der Verfahren und Arbeitsbedingungen nach § 1 Abs. 1
 
@@ -283,10 +276,6 @@ C.  Arbeitsbedingungen
 3)  ABl. EG Nr. L 374 S. 1; Richtlinie geändert durch die Richtlinie
     93/88/EWG (ABl. EG Nr. L 268 S. 71), angepaßt durch die Richtlinie
     95/30/EWG (ABl. EG Nr. L 155 S. 41).
-
-
-
-
 
 ## Anlage 2 (zu § 4 Abs. 1) Nicht erschöpfende Liste der chemischen Gefahrstoffe und biologischen Arbeitsstoffe, der physikalischen Schadfaktoren und der Arbeitsbedingungen nach § 4 Abs. 1
 

@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 415 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Auf Grund des § 79a Abs. 2 Nr. 1 in Verbindung mit § 17 Abs. 1 Nr. 1
@@ -31,7 +30,6 @@ Nr. 4 und 5 Buchstabe b sowie des § 79a Abs. 2 Nr. 6 in Verbindung mit
 Tierseuchengesetzes in der Fassung der Bekanntmachung vom 22. Juni
 2004 (BGBl. I S. 1260), verordnet das Bundesministerium für
 Verbraucherschutz, Ernährung und Landwirtschaft:
-
 
 ## § 1 Geltungsbereich
 
@@ -56,10 +54,6 @@ dem alle Schafe
 3.  von einem Mitglied einer tierzuchtrechtlich anerkannten
     Zuchtorganisation gehalten werden.
 
-
-
-
-
 ## § 2 Untersuchungen
 
 (1) Ein Schafbock eines Schafbestandes mit hohem genetischem Wert oder
@@ -82,7 +76,6 @@ genetischem Wert nach dieser Verordnung nachzukommen.
 (3) Die Genotypisierung nach den Absätzen 1 und 2 darf nur in einer
 von der zuständigen Behörde bestimmten Untersuchungseinrichtung
 durchgeführt werden.
-
 
 ## § 3 Mitteilungspflicht
 
@@ -111,7 +104,6 @@ spätestens zum 10. Januar eines jeden Jahres für das abgelaufene
 Kalenderjahr vorzunehmen. Der Mitteilung sind Belege über die
 Ergebnisse der Genotypisierungen nach Satz 1 Nr. 2 und 3 beizufügen.
 
-
 ## § 4 Kennzeichnung
 
 Schafe, bei denen eine Genotypisierung nach § 2 Abs. 1, auch in
@@ -120,7 +112,6 @@ Entnahme der Blut- oder Gewebeprobe so zu kennzeichnen, dass die Probe
 dem Tier, dem sie entnommen worden ist, zugeordnet werden kann. Die
 Vorschriften der Viehverkehrsverordnung über die Kennzeichnung von
 Schafen bleiben unberührt.
-
 
 ## § 5 Beschränkungen
 
@@ -153,7 +144,6 @@ sicherzustellen, dass
 (2) Absatz 1 gilt nicht für Schafbestände, deren Rasse in Anlage 2
 aufgeführt ist.
 
-
 ## § 6 Anerkennung
 
 (1) Die zuständige Behörde oder eine von dieser beauftragte Stelle
@@ -174,7 +164,6 @@ Schafbestandes der zuständigen Behörde oder einer von dieser
 beauftragten Stelle die für die Anerkennung nach Absatz 1
 erforderlichen Angaben und Unterlagen, soweit diese nicht bereits im
 Rahmen der Mitteilungen nach § 3 vorgelegt worden sind.
-
 
 ## § 7 Untersuchungen nach Anerkennung
 
@@ -200,7 +189,6 @@ Die Ergebnisse dieser Untersuchungen sind der zuständigen Behörde oder
 der von dieser beauftragten Stelle vierteljährlich jeweils spätestens
 zum 10. des darauf folgenden Monats mitzuteilen.
 
-
 ## § 8 Mitteilungen
 
 Die zuständige oberste Landesbehörde übermittelt dem Bundesministerium
@@ -208,7 +196,6 @@ für Ernährung, Landwirtschaft und Verbraucherschutz zum 1. März eines
 jeden Jahres einen Bericht über die Ergebnisse der im Rahmen dieser
 Verordnung durchgeführten Genotypisierungen des Vorjahres zur
 Weitergabe an die Europäische Kommission.
-
 
 ## § 9 Ordnungswidrigkeiten
 
@@ -233,19 +220,13 @@ handelt, wer vorsätzlich oder fahrlässig
     sicherstellt, dass nur dort genannte Schafböcke oder Samen zur Zucht
     verwendet werden.
 
-
-
-
-
 ## § 10 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage 1 (zu § 1 Abs. 2)
 
@@ -337,10 +318,6 @@ Fundstelle des Originaltextes: BGBl. I 2005, 3030
 
 
 29. Weißköpfiges Fleischschaf
-
-
-
-
 
 ## Anlage 2 (zu § 5 Abs. 2)
 

@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 17.3.1999 I 362
 
-
 ## Eingangsformel
 
 Auf Grund des § 25 Abs. 3 des Gesetzes über das Kreditwesen, der durch
@@ -29,7 +28,6 @@ neu gefaßt worden ist, in Verbindung mit § 1 der Verordnung zur
 Bundesaufsichtsamt für das Kreditwesen vom 19. Dezember 1997 (BGBl. I
 S. 3156) verordnet das Bundesaufsichtsamt für das Kreditwesen im
 Einvernehmen mit der Deutschen Bundesbank:
-
 
 ## § 1 Einreichungsverfahren
 
@@ -72,7 +70,6 @@ Unternehmens inhaltliche Abweichungen von den Vordrucken nach Absatz 1
 Satz 1 zulassen, wenn dies aufgrund der besonderen Geschäftsstruktur
 der Gruppe angemessen ist.
 
-
 ## § 2 Ausnahmen
 
 (1) Institutsgruppen und Finanzholding-Gruppen, denen kein
@@ -88,28 +85,23 @@ Einzelfall den Berichtszeitraum auf einen Kalendermonat verkürzen,
 soweit dies zur Erfüllung der Aufgaben des Bundesaufsichtsamtes
 erforderlich ist.
 
-
 ## § 3
 
 -
 
-
 ## § 4 Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 1998 in Kraft.
-
 
 ## Anlage 1 (Original DIN A3) Zusammengefaßter Monatsausweis gemäß § 25 Abs. 2 KWG
 
 (Inhalt: nicht darstellbarer Vordruck,
 Fundstelle: BGBl. I 1999, 363 - 364)
 
-
 ## Anlage 2 (Original DIN A3) Zusammengefaßter Monatsausweis gemäß § 25 Abs. 2 KWG
 
 (Inhalt: nicht darstellbarer Vordruck,
 Fundstelle: BGBl. I 1999, 365 - 366)
-
 
 ## Anlage 3 (Original DIN A3) Zusammengefaßter Monatsausweis gemäß § 25 Abs. 2 KWG
 

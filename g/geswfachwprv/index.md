@@ -17,7 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 1679
 
-
 ## Eingangsformel
 
 Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 und des § 30
@@ -27,7 +26,6 @@ Artikel 232 Nummer 3 Buchstabe a der Verordnung vom 31. Oktober 2006
 für Bildung und Forschung nach Anhörung des Hauptausschusses des
 Bundesinstituts für Berufsbildung im Einvernehmen mit dem
 Bundesministerium für Wirtschaft und Technologie:
-
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
 
@@ -105,7 +103,6 @@ Fortbildungsabschluss „Geprüfter Fachwirt im Gesundheits- und
 Sozialwesen“ oder „Geprüfte Fachwirtin im Gesundheits- und
 Sozialwesen“.
 
-
 ## § 2 Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer
@@ -148,7 +145,6 @@ Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht,
 Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche
 Handlungsfähigkeit) erworben zu haben, die die Zulassung zur Prüfung
 rechtfertigen.
-
 
 ## § 3 Gliederung und Durchführung der Prüfung
 
@@ -215,7 +211,6 @@ Fachgespräch soll nicht länger als 20 Minuten dauern.
 (8) Die mündliche Prüfung nach Absatz 4 ist nur durchzuführen, wenn in
 den schriftlichen Prüfungsleistungen nach Absatz 3 mindestens
 ausreichende Leistungen erbracht wurden.
-
 
 ## § 4 Inhalt der Prüfung
 
@@ -435,10 +430,6 @@ Qualifikationsinhalte geprüft werden:
 
 6.  Durchführen von Maßnahmen im Gesundheits-Marketing.
 
-
-
-
-
 ## § 5 Anrechnung anderer Prüfungsleistungen
 
 Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin ist auf Antrag
@@ -448,7 +439,6 @@ Stelle zu befreien, wenn eine andere vergleichbare Prüfung vor einer
 einem staatlichen Prüfungsausschuss erfolgreich abgelegt wurde, und
 die Anmeldung zur Fortbildungsprüfung innerhalb von fünf Jahren nach
 der Bekanntgabe des Bestehens der anderen Prüfung erfolgt.
-
 
 ## § 6 Bewerten der Prüfungsleistungen und Bestehen der Prüfung
 
@@ -461,7 +451,6 @@ ausreichende Leistungen erbracht wurden.
 Anlage 1 und 2 auszustellen. Im Fall der Freistellung nach § 5 sind
 Ort und Datum der anderweitig abgelegten Prüfung sowie die Bezeichnung
 des Prüfungsgremiums anzugeben.
-
 
 ## § 7 Wiederholung der Prüfung
 
@@ -476,7 +465,6 @@ Leistungen mindestens ausreichend sind. Der Antrag kann sich auch
 darauf richten, bestandene Prüfungsleistungen einmal zu wiederholen.
 Werden bestandene Prüfungsleistungen erneut geprüft, gilt in diesem
 Fall das Ergebnis der letzten Prüfung.
-
 
 ## § 8 Ausbildereignung
 
@@ -505,7 +493,6 @@ Prüfungsteilnehmerin ist ein Zeugnis auszustellen, aus dem hervorgeht,
 dass die berufs- und arbeitspädagogische Qualifikation nach § 30
 Absatz 5 des Berufsbildungsgesetzes nachgewiesen wurde.
 
-
 ## § 9 Übergangsvorschriften
 
 (1) Begonnene Prüfungsverfahren zum Fachwirt/zur Fachwirtin im Sozial-
@@ -525,11 +512,9 @@ der Prüfungsteilnehmerin die Wiederholungsprüfung nach dieser
 Verordnung durchführen; § 7 Absatz 2 findet in diesem Fall keine
 Anwendung.
 
-
 ## § 10 Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2012 in Kraft.
-
 
 ## Anlage 1 (zu § 6 Absatz 2) Muster
 
@@ -540,8 +525,6 @@ Diese Verordnung tritt am 1. Januar 2012 in Kraft.
 
 
 *    *   (Bezeichnung der zuständigen Stelle)
-
-
 
 ## Zeugnis
 
@@ -583,9 +566,6 @@ vom 21. Juli 2011 (BGBl. I S. 1679) bestanden.
 
 *    *   (Siegel der zuständigen Stelle)
 
-
-
-
 ## Anlage 2 (zu § 6 Absatz 2) Muster
 
 (Fundstelle: BGBl. I 2011, 1684)
@@ -596,8 +576,6 @@ vom 21. Juli 2011 (BGBl. I S. 1679) bestanden.
 
 
 *    *   (Bezeichnung der zuständigen Stelle)
-
-
 
 ## Zeugnis
 

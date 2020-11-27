@@ -18,9 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 21 G v. 27.7.2001 I 1887
 
-
 ## Zustellungsanträge und Rechtshilfeersuchen - (Art 1 bis 16 des Übereinkommens)
-
 
 ### § 1
 
@@ -35,7 +33,6 @@ wenn der Zustellungsantrag oder das Rechtshilfeersuchen in dem Bezirk
 des Amtsgerichts erledigt werden soll, das seiner Dienstaufsicht
 untersteht.
 
-
 ### § 2
 
 (1) Für die Erledigung von Zustellungsanträgen oder von
@@ -46,15 +43,11 @@ die Amtshandlung vorzunehmen ist.
 bewirkt. Diese hat auch den Zustellungsnachweis (Artikel 1 Abs. 1,
 Artikel 5 des Übereinkommens) zu erteilen.
 
-
 ### § 3
 
 (weggefallen)
 
-
 ## Vollstreckbarerklärung von Kostenentscheidungen - (Art 18 und 19 des Übereinkommens)
-
-
 
 ### § 4
 
@@ -66,7 +59,6 @@ durch Beschluß des Amtsgerichts für vollstreckbar erklärt.
 seinen allgemeinen Gerichtsstand hat, und beim Fehlen eines solchen
 das Amtsgericht, in dessen Bezirk sich Vermögen des Kostenschuldners
 befindet oder die Zwangsvollstreckung durchgeführt werden soll.
-
 
 ### § 5
 
@@ -83,7 +75,6 @@ Vollstreckbarerklärung bei dem Amtsgericht unmittelbar gestellt
 (Artikel 18 Abs. 3), so ist der Beschluß diesem und dem
 Kostenschuldner von Amts wegen zuzustellen.
 
-
 ### § 6
 
 (1) Gegen den Beschluss, durch den die Kostenentscheidung für
@@ -97,13 +88,11 @@ diplomatischem Wege gestellt ist, dem Staatsanwalt zu. Hat der
 Kostengläubiger selbst den Antrag bei dem Amtsgericht unmittelbar
 gestellt, so ist er berechtigt, die Beschwerde einzulegen.
 
-
 ### § 7
 
 Aus der für vollstreckbar erklärten Kostenentscheidung findet die
 Zwangsvollstreckung nach der Zivilprozeßordnung statt; § 798 der
 Zivilprozeßordnung ist entsprechend anzuwenden.
-
 
 ### § 8
 
@@ -121,10 +110,7 @@ Zivilprozessordnung. Die sofortige Beschwerde kann durch Erklärung zu
 Protokoll der Geschäftsstelle oder schriftlich ohne Mitwirkung eines
 Rechtsanwalts eingelegt werden.
 
-
 ## Armenrecht - (Art 20 bis 24 des Übereinkommens)
-
-
 
 ### § 9
 
@@ -133,7 +119,6 @@ die von einem ausländischen Konsul innerhalb der Bundesrepublik
 Deutschland übermittelt werden (Artikel 23 Abs. 1 des Übereinkommens),
 ist der Präsident des Landgerichts oder des Amtsgerichts zuständig. §
 1 ist entsprechend anzuwenden.
-
 
 ### § 10
 
@@ -150,10 +135,7 @@ Protokoll der Geschäftsstelle erklären.
 durch den diplomatischen oder konsularischen Vertreter der
 Bundesrepublik Deutschland werden Gebühren und Auslagen nicht erhoben.
 
-
 ## Schlußbestimmungen
-
-
 
 ### § 11
 
@@ -165,13 +147,11 @@ Schuldtitel für die Bezirke mehrerer Amtsgerichte einem von ihnen
 zuzuweisen. Die Landesregierungen können diese Ermächtigung auf die
 Landesjustizverwaltungen übertragen.
 
-
 ### § 12
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
 im Land Berlin.
-
 
 ### § 13
 

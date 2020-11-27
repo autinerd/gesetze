@@ -16,18 +16,14 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1985, 538
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art 1
 
 -
-
 
 ## Art 2
 
@@ -37,12 +33,10 @@ bezeichnenden Behörden nehmen für den Bereich des Bundes der
 Bundesminister des Innern und für den Bereich der Länder die von den
 Landesregierungen bezeichneten Stellen wahr.
 
-
 ## Art 3
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
-
 
 ## Art 4
 

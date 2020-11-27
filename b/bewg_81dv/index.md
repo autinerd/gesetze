@@ -15,14 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1966, 550
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 81 und des § 123 Abs. 1 des Bewertungsgesetzes in der
 Fassung vom 10. Dezember 1965 (Bundesgesetzbl. I S. 1861) verordnet
 die Bundesregierung mit Zustimmung des Bundesrates:
-
 
 ## § 1
 
@@ -31,7 +28,6 @@ Ertragswertverfahren zu ermitteln und die Wertverhältnisse vom 1.
 Januar 1964 zugrunde zu legen sind, sind außergewöhnliche
 Grundsteuerbelastungen im Sinne des § 81 des Gesetzes nach Maßgabe der
 §§ 2 bis 4 zu berücksichtigen.
-
 
 ## § 2
 
@@ -732,7 +728,6 @@ zunächst besonders berechneten Belastungszahlen. Bei der Bildung des
 Durchschnitts sind die Einwohnerzahlen am Hauptfeststellungszeitpunkt
 zu berücksichtigen.
 
-
 ## § 3
 
 Bei den in einer Gemeinde belegenen bebauten Grundstücken, die im
@@ -770,13 +765,6 @@ Grundstückswert oder der Wert des entsprechenden Grundstücksteils
 
     *   wenn die Belastungszahl nicht mehr als 5.000 beträgt.
 
-
-
-
-
-
-
-
 ## § 4
 
 Die Belastungszahl (§ 2) bestimmt auch die Grundsteuerbelastung des
@@ -784,14 +772,12 @@ Wohnteils der Betriebe der Land- und Forstwirtschaft (§ 34 des
 Gesetzes) in einer Gemeinde. § 3 ist bei der Ermittlung des
 Wohnungswerts (§ 47 des Gesetzes) anzuwenden.
 
-
 ## § 5
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit Artikel 8
 des Gesetzes zur Änderung des Bewertungsgesetzes vom 13. August 1965
 (Bundesgesetzbl. I S. 851) auch im Land Berlin.
-
 
 ## § 6
 

@@ -18,9 +18,7 @@ Fundstelle
 Geändert durch
 :   Art. 4 V v. 30.4.2012 I 1002
 
-
 ## Teil 1 - Allgemeine Bestimmungen
-
 
 ### § 1 Anwendungsbereich
 
@@ -35,7 +33,6 @@ sowie die Verpflichtungen der Netzbetreiber, zur Erreichung dieses
 Ziels zusammenzuarbeiten. Die Vorschriften dieser Verordnung sind
 abschließend im Sinne des § 111 Absatz 1 des
 Energiewirtschaftsgesetzes.
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -133,7 +130,6 @@ Für diese Verordnung gelten die folgenden Begriffsbestimmungen:
 
 ## Teil 2 - Vertragliche Ausgestaltung des Netzzugangs
 
-
 ### § 3 Verträge für den Netzzugang
 
 (1) Transportkunden sind nach Maßgabe dieser Verordnung gegenüber dem
@@ -180,7 +176,6 @@ zugrunde zu legen, die die Mindestangaben nach § 4 enthalten.
 Einspeisung von Biogas so auszugestalten, dass ein transparenter,
 diskriminierungsfreier und effizienter Netzzugang zu angemessenen
 Bedingungen ermöglicht wird.
-
 
 ### § 4 Mindestanforderungen an die Allgemeinen Geschäftsbedingungen
 
@@ -290,15 +285,10 @@ müssen Mindestangaben enthalten über:
 9.  Voraussetzungen für die Erhebung einer Sicherheitsleistung in
     begründeten Fällen.
 
-
-
-
-
 ### § 5 Haftung bei Störung der Netznutzung
 
 § 18 der Niederdruckanschlussverordnung gilt für die Haftung bei
 Störungen der Netznutzung entsprechend.
-
 
 ### § 6 Registrierung
 
@@ -315,9 +305,7 @@ jeweiligen Marktgebiet registriert. Der Marktgebietsverantwortliche
 kann für die Registrierung die Angabe der Anschrift des
 Bilanzkreisverantwortlichen oder eines Vertreters fordern.
 
-
 ## Teil 3 - Abwicklung des Netzzugangs
-
 
 ### § 7 Netzkopplungsvertrag
 
@@ -359,7 +347,6 @@ unterbrechungsfrei erfüllt werden. Die Netzkopplungskonten können auch
 zur Bereitstellung und Entgegennahme von interner Regelenergie genutzt
 werden. Ein Netzkopplungskonto umfasst zumindest drei Stundenmengen
 der Stationskapazität.
-
 
 ### § 8 Abwicklung des Netzzugangs
 
@@ -412,7 +399,6 @@ diskriminierungsfreien, effizienten und massengeschäftstauglichen
 Netzzugang zu angemessenen Bedingungen zu gewähren. Die Regelungen
 dieser Kooperationsvereinbarung treten mit Beginn des neuen
 Gaswirtschaftsjahrs zum 1. Oktober 2011 in Kraft.
-
 
 ### § 9 Ermittlung technischer Kapazitäten
 
@@ -486,7 +472,6 @@ gestellten Daten müssen einen sachkundigen Dritten in die Lage
 versetzen, die Ermittlung der technischen Kapazität ohne weitere
 Informationen vollständig nachvollziehen zu können.
 
-
 ### § 10 Zusatzmenge; Rückkaufsverfahren
 
 (1) Um das verfügbare Angebot frei zuordenbarer Kapazitäten über das
@@ -523,7 +508,6 @@ Kalenderjahr nicht durch die erzielten Einnahmen gedeckt werden
 konnten, hat der Fernleitungsnetzbetreiber die angebotene Zusatzmenge
 im Folgejahr angemessen zu reduzieren.
 
-
 ### § 11 Kapazitätsprodukte
 
 (1) Fernleitungsnetzbetreiber haben Transportkunden sowohl feste als
@@ -544,7 +528,6 @@ möglich, haben die Fernleitungsnetzbetreiber in dem Umfang
 zusammenzuarbeiten, der erforderlich ist, um ein Angebot nach Satz 1
 und 2 zu ermöglichen. Die Verpflichtung nach § 9 Absatz 2 Satz 3 und 4
 bleibt unberührt.
-
 
 ### § 12 Kapazitätsplattformen
 
@@ -581,7 +564,6 @@ teilzunehmen.
 gemeinsamen Internetauftritt einzurichten, um Transportkunden eine
 massengeschäftstaugliche Abwicklung des Erwerbs von Primär- und
 Sekundärkapazität zu ermöglichen.
-
 
 ### § 13 Zuteilung von Ein- und Ausspeisekapazität
 
@@ -629,7 +611,6 @@ Aus der Dokumentation muss erkennbar werden, in welchem Umfang die
 Erlöse das regulierte Entgelt übersteigen. Die Dokumentation ist der
 Regulierungsbehörde vorzulegen.
 
-
 ### § 14 Vertragslaufzeiten
 
 (1) An Grenzen zu anderen Staaten und Marktgebieten sind 20 Prozent
@@ -653,7 +634,6 @@ Jahreskapazität, der an Ein- und Ausspeisepunkten an Grenzen zu
 anderen Staaten oder Marktgebieten mit Vertragslaufzeiten von mehr als
 vier Jahren vergeben werden kann, zur Förderung des Wettbewerbs
 geeignet und erforderlich ist.
-
 
 ### § 15 Nominierung und Nominierungsersatzverfahren
 
@@ -693,7 +673,6 @@ und wirtschaftlich zumutbar ist. Das Angebot muss diskriminierungsfrei
 sein. Ist dem Fernleitungsnetzbetreiber ein solches Angebot technisch
 nicht möglich oder wirtschaftlich nicht zumutbar, hat er dies
 schlüssig zu begründen.
-
 
 ### § 16 Freigabepflicht ungenutzter Kapazitäten
 
@@ -760,7 +739,6 @@ sind vom Fernleitungsnetzbetreiber auf Verlangen die Informationen
 nach Satz 1 unter Wahrung von Betriebs- und Geschäftsgeheimnissen
 Dritter zur Verfügung zu stellen.
 
-
 ### § 17 Ermittlung des langfristigen Kapazitätsbedarfs
 
 (1) Fernleitungsnetzbetreiber sind verpflichtet, marktgebietsweit,
@@ -826,7 +804,6 @@ Ergebnisse des Kapazitätsermittlungsverfahrens den dauerhaft
 erforderlichen Netzausbau gemäß § 11 des Energiewirtschaftsgesetzes
 durchzuführen.
 
-
 ### § 18 Reduzierung der Kapazität nach Buchung
 
 Soweit sich die Kapazitäten nach Abschluss des Ein- oder
@@ -834,7 +811,6 @@ Ausspeisevertrags aus technischen Gründen vermindern, reduzieren sich
 die gebuchten Kapazitäten anteilig im Verhältnis der von den
 Transportkunden gebuchten Kapazitäten. Die Gründe sind dem
 Transportkunden unverzüglich mitzuteilen.
-
 
 ### § 19 Gasbeschaffenheit
 
@@ -866,9 +842,7 @@ Anforderungen nach § 21 Absatz 1 des Energiewirtschaftsgesetzes
 entsprechen. Ist dem Netzbetreiber ein solches Angebot unmöglich oder
 unzumutbar, muss der Netzbetreiber dies begründen.
 
-
 ## Teil 4 - Kooperation der Netzbetreiber
-
 
 ### § 20 Marktgebiete
 
@@ -898,7 +872,6 @@ Dazu haben die Netzbetreiber alle Netzbereiche vor- und nachgelagerter
 Netzbetreiber einem Marktgebiet zuzuordnen. Die Zuordnung eines
 Netzbereichs zu mehreren Marktgebieten ist zulässig, soweit dies aus
 netztechnischen Gründen erforderlich ist.
-
 
 ### § 21 Reduzierung der Anzahl der Marktgebiete
 
@@ -941,12 +914,9 @@ Wahrung von Betriebs- und Geschäftsgeheimnissen Dritter auf Verlangen
 auch Transportkunden zur Verfügung zu stellen, soweit eine
 Marktgebietszusammenlegung nicht erfolgt.
 
-
 ## Teil 5 - Bilanzierung und Regelenergie
 
-
 ### Abschnitt 1 - Bilanzierung
-
 
 #### § 22 Grundsätze der Bilanzierung
 
@@ -974,7 +944,6 @@ Der Bilanzkreisverantwortliche trägt gegenüber dem
 Marktgebietsverantwortlichen die wirtschaftliche Verantwortung für
 Abweichungen zwischen allokierten Ein- und Ausspeisemengen des
 Bilanzkreises.
-
 
 #### § 23 Bilanzkreisabrechnung
 
@@ -1006,7 +975,6 @@ angemessene Anreize zur Vermeidung von Bilanzungleichgewichten setzen.
 (4) Die Verpflichtung zur Bilanzkreisabrechnung unter Beachtung der
 Vorgaben in Absatz 2 Satz 2 bis 4 und Absatz 3 bei der
 Bilanzkreisabrechnung besteht ab dem 1. Oktober 2011.
-
 
 #### § 24 Standardlastprofile
 
@@ -1064,7 +1032,6 @@ Ausnahmefällen kann die Jahresverbrauchsprognose vom Transportkunden
 und dem örtlichen Gasverteilnetzbetreiber gemeinsam auch unterjährig
 angepasst werden.
 
-
 #### § 25 Mehr- oder Mindermengenabrechnung
 
 (1) Die Mehr- und Mindermengen, die durch Abweichungen zwischen
@@ -1086,7 +1053,6 @@ vergüten oder in Rechnung zu stellen.
 Mehr- und Mindermengenabrechnung mit dem Marktgebietsverantwortlichen
 ab, der die Regelenergie bereitstellt.
 
-
 #### § 26 Datenbereitstellung
 
 (1) Netzbetreiber und Marktgebietsverantwortliche haben sich
@@ -1106,9 +1072,7 @@ Datenaustauschs ermöglichen. Die Netzbetreiber haben die
 Transportkunden und Bilanzkreisverantwortlichen an der Entwicklung des
 Verfahrens und der Datenformate angemessen zu beteiligen.
 
-
 ### Abschnitt 2 - Regelenergie
-
 
 #### § 27 Einsatz von Regelenergie
 
@@ -1146,7 +1110,6 @@ gegenläufigen Einsatz externer Regelenergie in angrenzenden
 Marktgebieten im Rahmen des technisch Möglichen und wirtschaftlich
 Zumutbaren zu vermeiden.
 
-
 #### § 28 Beschaffung externer Regelenergie
 
 (1) Externe Regelenergie wird vom Marktgebietsverantwortlichen für die
@@ -1160,7 +1123,6 @@ Regelenergie sind berechtigt, zeitlich, räumlich und mengenmäßig
 Teilleistungen anzubieten; dabei dürfen die Teilleistungen das
 jeweilige Mindestangebot nicht unterschreiten. Die Bildung einer
 Anbietergemeinschaft zur Erreichung der Mindestangebote ist zulässig.
-
 
 #### § 29 Regelenergiekosten und -erlöse; Kosten und Erlöse bei der Erbringung von Ausgleichsleistungen
 
@@ -1179,7 +1141,6 @@ Marktgebietsverantwortlichen sind berechtigt, von den
 Bilanzkreisverantwortlichen Abschlagszahlungen zur Deckung der
 voraussichtlichen Kosten für Regelenergie zu verlangen.
 
-
 #### § 30 Evaluierung des Ausgleichs- und Regelenergiesystems
 
 Die Bundesnetzagentur legt zum 1. April 2011 einen Bericht an das
@@ -1193,9 +1154,7 @@ internationale Erfahrungen mit Bilanzierungssystemen berücksichtigen.
 Sie gibt den betroffenen Wirtschaftskreisen Gelegenheit zur
 Stellungnahme.
 
-
 ## Teil 6 - Biogas
-
 
 ### § 31 Zweck der Regelung
 
@@ -1203,7 +1162,6 @@ Ziel der Regelungen des Teils 6 ist es, die Einspeisung des in
 Deutschland bestehenden Biogaspotenzials von 6 Milliarden Kubikmetern
 jährlich bis 2020 und 10 Milliarden Kubikmetern jährlich bis zum Jahr
 2030 in das Erdgasnetz zu ermöglichen.
-
 
 ### § 32 Begriffsbestimmungen
 
@@ -1226,10 +1184,6 @@ Für diesen Verordnungsteil gelten die folgenden Begriffsbestimmungen:
 
 3.  „Anlage“ ist die Anlage zur Aufbereitung von Biogas auf
     Erdgasqualität.
-
-
-
-
 
 ### § 33 Netzanschlusspflicht
 
@@ -1390,7 +1344,6 @@ zu ergreifen, um seiner Pflicht nach § 34 Absatz 2 Satz 3
 nachzukommen, es sei denn, die Durchführung der Maßnahmen ist
 wirtschaftlich unzumutbar.
 
-
 ### § 34 Vorrangiger Netzzugang für Transportkunden von Biogas
 
 (1) Netzbetreiber sind verpflichtet, Einspeiseverträge und
@@ -1420,7 +1373,6 @@ Netzbetreiber hat zu prüfen, inwieweit die Einspeisung von Biogas ohne
 oder mit verminderter Flüssiggasbeimischung zu gesamtwirtschaftlich
 günstigen Bedingungen unter Berücksichtigung der zukünftigen
 Biogaseinspeisung realisiert werden kann.
-
 
 ### § 35 Erweiterter Bilanzausgleich
 
@@ -1487,7 +1439,6 @@ damit verbundene Anreizwirkung werden im Zuge des Monitoring nach § 37
 
 (9) Die §§ 22, 23 sowie 25 finden keine Anwendung.
 
-
 ### § 36 Qualitätsanforderungen für Biogas
 
 [^F774449_02_BJNR126110010BJNE003700000]
@@ -1542,9 +1493,7 @@ der Ziele nach § 31, die Kostenstruktur für die Einspeisung von
 Biogas, die erzielbaren Erlöse, die Kostenbelastung der Netze und
 Speicher sowie die Notwendigkeit von Musterverträgen untersucht.
 
-
 ## Teil 7 - Besondere Regelungen für Betreiber von Speicher-, LNG- und Produktionsanlagen sowie Gaskraftwerken
-
 
 ### § 38 Kapazitätsreservierung für Betreiber von Speicher-, LNG- und Produktionsanlagen sowie Gaskraftwerken
 
@@ -1617,7 +1566,6 @@ den Fernleitungsnetzbetreiber zu zahlen ist.
 den Reservierungsgebühren auf dem Regulierungskonto nach § 5 der
 Anreizregulierungsverordnung verbucht.
 
-
 ### § 39 Kapazitätsausbauanspruch für Betreiber von Gaskraftwerken sowie Speicher-, LNG- und Produktionsanlagen
 
 (1) Betreiber von Speicher-, LNG- oder Produktionsanlagen sowie
@@ -1674,9 +1622,7 @@ gezahlte Planungspauschale zu erstatten. Eine Reservierungsgebühr nach
 § 38 darf vom Fernleitungsnetzbetreiber zusätzlich zur
 Planungspauschale nicht verlangt werden.
 
-
 ## Teil 8 - Veröffentlichungs- und Informationspflichten
-
 
 ### § 40 Veröffentlichungspflichten
 
@@ -1771,12 +1717,7 @@ Internetseite:
     Anteil der externen Regelenergie auf Grund lokaler oder räumlich
     begrenzter Ungleichgewichte eingesetzt wurde.
 
-
-
-
-
 ## Teil 9 - Wechsel des Gaslieferanten
-
 
 ### § 41 Lieferantenwechsel
 
@@ -1833,7 +1774,6 @@ Nummer 15 bleibt unberührt.
 nur von Bedingungen abhängig machen, die in den Absätzen 1 bis 3
 genannt sind. § 50 Absatz 1 Nummer 14 bleibt unberührt.
 
-
 ### § 42 Rucksackprinzip
 
 Bei einem Wechsel des Lieferanten kann der neue Lieferant vom
@@ -1846,7 +1786,6 @@ begründet. Als erforderlich gilt die vom Kunden abgenommene
 Höchstmenge des vorangegangenen Abnahmejahres, soweit eine
 entsprechende Höchstabnahmemenge auch weiterhin zu vermuten ist.
 
-
 ### § 42a Elektronischer Datenaustausch
 
 Der Datenaustausch zur Anbahnung und Abwicklung der Netznutzung
@@ -1858,9 +1797,7 @@ bundesweit einheitliche Format zu verwenden. Die Marktbeteiligten
 stellen sicher, dass für den Datenaustausch einheitliche Prozesse
 verwendet werden, die eine größtmögliche Automatisierung ermöglichen.
 
-
 ## Teil 10 - Messung
-
 
 ### § 43 Messung
 
@@ -1869,7 +1806,6 @@ nimmt die Messung von Gasmengen vor. Der Netzbetreiber kann, soweit
 dies zur Erfüllung seiner Aufgaben zwingend erforderlich ist,
 Kontrollablesungen durchführen. Die Messung erfolgt nach § 11 der
 Messzugangsverordnung.
-
 
 ### § 44 Messung des von Haushaltskunden entnommenen Gases
 
@@ -1887,13 +1823,11 @@ Schätzung ist der Verbrauch zeitanteilig zu berechnen; jahreszeitliche
 Verbrauchsschwankungen sind auf der Grundlage der für Haushaltskunden
 maßgeblichen Erfahrungswerte angemessen zu berücksichtigen.
 
-
 ### § 45 Messung nach Vorgabe des Transportkunden
 
 Liegt eine Vereinbarung nach § 40 Absatz 3 Satz 2 des
 Energiewirtschaftsgesetzes vor, sind die hieraus folgenden Vorgaben zu
 den Zeitabständen der Messung zu beachten.
-
 
 ### § 46 Betrieb von Mess- und Steuereinrichtungen
 
@@ -1905,7 +1839,6 @@ Beschädigung von Mess- und Steuereinrichtungen, soweit ihn daran ein
 Verschulden trifft. Er hat den Verlust, Beschädigungen und Störungen
 dieser Einrichtungen dem Messstellenbetreiber unverzüglich
 mitzuteilen.
-
 
 ### § 47 Nachprüfung von Messeinrichtungen
 
@@ -1920,7 +1853,6 @@ Antragstellung zu benachrichtigen.
 Last, falls die Abweichung die eichrechtlichen Verkehrsfehlergrenzen
 überschreitet, sonst dem Transportkunden.
 
-
 ### § 48 Vorgehen bei Messfehlern
 
 Ergibt eine Prüfung der Messeinrichtungen eine Überschreitung der
@@ -1932,9 +1864,7 @@ vorhergehenden und des der Beseitigung des Fehlers nachfolgenden
 Ablesezeitraums oder auf Grund des Vorjahreswertes durch Schätzung zu
 ermitteln.
 
-
 ## Teil 11 - Verweigerung des Netzzugangs nach § 25 des Energiewirtschaftsgesetzes
-
 
 ### § 49 Verfahren zur Verweigerung des Netzzugangs nach § 25 des Energiewirtschaftsgesetzes
 
@@ -1960,9 +1890,7 @@ Artikel 30 Absatz 2 der Richtlinie 2003/55/EG zu ändern oder
 aufzuheben; die §§ 48 und 49 des Verwaltungsverfahrensgesetzes bleiben
 unberührt.
 
-
 ## Teil 12 - Befugnisse der Regulierungsbehörde
-
 
 ### § 50 Festlegungen
 
@@ -2181,7 +2109,6 @@ worden sind.
 [^F774449_04_BJNR126110010BJNE005101360]: 
 
 ## Teil 13 - Sonstige Bestimmungen
-
 
 ### § 51 Ordnungswidrigkeiten
 

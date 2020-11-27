@@ -23,14 +23,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 6 G v. 23.5.2011 I 898 (2094)
 
-
 ## Teil 1 - Allgemeines
 
-
-
 ### Abschnitt 1 - Anwendungsbereich; Begriffsbestimmungen
-
-
 
 #### § 1 Anwendungsbereich
 
@@ -123,7 +118,6 @@ Verträge; dies gilt insbesondere für die Regelungen über
 (3) Der Anwendungsbereich des Auslandsunterhaltsgesetzes vom 23. Mai
 2011 (BGBl. I S. 898) bleibt unberührt.
 
-
 #### § 2 Begriffsbestimmungen
 
 Im Sinne dieses Gesetzes sind
@@ -140,10 +134,7 @@ Im Sinne dieses Gesetzes sind
 
 zu verstehen.
 
-
 ### Abschnitt 2 - Zulassung der Zwangs- vollstreckung aus ausländischen Titeln
-
-
 
 #### § 3 Zuständigkeit
 
@@ -158,7 +149,6 @@ Personen steht dem Wohnsitz gleich.
 
 (3) Über den Antrag auf Erteilung der Vollstreckungsklausel
 entscheidet der Vorsitzende einer Zivilkammer.
-
 
 #### § 4 Antragstellung
 
@@ -190,7 +180,6 @@ hierzu befugten Person bestätigt worden ist.
 versehen werden soll, und seiner Übersetzung, soweit eine solche
 vorgelegt wird, sollen zwei Abschriften beigefügt werden.
 
-
 #### § 5 Zustellungsempfänger
 
 (1) Hat die antragstellende Person in dem Antrag keinen
@@ -202,7 +191,6 @@ Absatz 1 Satz 2 und Absatz 2 der Zivilprozessordnung) bewirkt werden.
 (2) Absatz 1 gilt nicht, wenn die antragstellende Person einen
 Verfahrensbevollmächtigten für das Verfahren bestellt hat, an den im
 Inland zugestellt werden kann.
-
 
 #### § 6 Verfahren
 
@@ -216,7 +204,6 @@ Beschleunigung dient.
 
 (3) Im ersten Rechtszug ist die Vertretung durch einen Rechtsanwalt
 nicht erforderlich.
-
 
 #### § 7 Vollstreckbarkeit ausländischer Titel in Sonderfällen
 
@@ -237,7 +224,6 @@ Antrag des Berechtigten der Verpflichtete zu hören. In diesem Falle
 sind alle Beweismittel zulässig. Das Gericht kann auch die mündliche
 Verhandlung anordnen.
 
-
 #### § 8 Entscheidung
 
 (1) Ist die Zwangsvollstreckung aus dem Titel zuzulassen, so
@@ -254,7 +240,6 @@ Zivilprozessordnung entsprechend anzuwenden.
 (2) Ist der Antrag nicht zulässig oder nicht begründet, so lehnt ihn
 das Gericht durch mit Gründen versehenen Beschluss ab. Die Kosten sind
 dem Antragsteller aufzuerlegen.
-
 
 #### § 9 Vollstreckungsklausel
 
@@ -297,7 +282,6 @@ versehen. Sie ist entweder auf die Ausfertigung des Titels oder auf
 ein damit zu verbindendes Blatt zu setzen. Falls eine Übersetzung des
 Titels vorliegt, ist sie mit der Ausfertigung zu verbinden.
 
-
 #### § 10 Bekanntgabe der Entscheidung
 
 (1) Im Falle des § 8 Absatz 1 sind dem Verpflichteten eine beglaubigte
@@ -323,10 +307,7 @@ Fällen des Absatzes 2 ist die festgesetzte Frist für die Einlegung der
 Beschwerde auf der Bescheinigung über die bewirkte Zustellung zu
 vermerken.
 
-
 ### Abschnitt 3 - Beschwerde, Vollstreckungsabwehrklage
-
-
 
 #### § 11 Einlegung der Beschwerde; Beschwerdefrist
 
@@ -352,7 +333,6 @@ Zustellung nach § 10 Absatz 1. Sie ist eine Notfrist.
 (4) Die Beschwerde ist dem Beschwerdegegner von Amts wegen
 zuzustellen.
 
-
 #### § 12 Einwendungen gegen den zu vollstreckenden Anspruch im Beschwerdeverfahren
 
 (1) Der Verpflichtete kann mit der Beschwerde, die sich gegen die
@@ -366,7 +346,6 @@ Zwangsvollstreckung aus einem gerichtlichen Vergleich oder einer
 öffentlichen Urkunde richtet, kann der Verpflichtete die Einwendungen
 gegen den Anspruch selbst ungeachtet der in Absatz 1 enthaltenen
 Beschränkung geltend machen.
-
 
 #### § 13 Verfahren und Entscheidung über die Beschwerde
 
@@ -394,7 +373,6 @@ nach diesem Gesetz (§ 22 Absatz 2, § 40 Absatz 1 Nummer 1 oder § 45
 Absatz 1 Nummer 1) erlassen hat. Der Inhalt des Zusatzes bestimmt sich
 nach dem Inhalt der Anordnung.
 
-
 #### § 14 Vollstreckungsabwehrklage
 
 (1) Ist die Zwangsvollstreckung aus einem Titel zugelassen, so kann
@@ -420,10 +398,7 @@ Unterhaltstitel zum Gegenstand hat, ist das Familiengericht zuständig;
 für die örtliche Zuständigkeit gelten die Vorschriften der
 Zivilprozessordnung für Unterhaltssachen.
 
-
 ### Abschnitt 4 - Rechtsbeschwerde
-
-
 
 #### § 15 Statthaftigkeit und Frist
 
@@ -435,7 +410,6 @@ der Zivilprozessordnung statt.
 
 (3) Die Rechtsbeschwerdefrist ist eine Notfrist und beginnt mit der
 Zustellung des Beschlusses (§ 13 Absatz 3).
-
 
 #### § 16 Einlegung und Begründung
 
@@ -452,7 +426,6 @@ Beschluss abweicht, bezeichnet werden.
 (3) Mit der Beschwerdeschrift soll eine Ausfertigung oder beglaubigte
 Abschrift des Beschlusses, gegen den sich die Rechtsbeschwerde
 richtet, vorgelegt werden.
-
 
 #### § 17 Verfahren und Entscheidung
 
@@ -475,17 +448,13 @@ Geschäftsstelle dieses Gerichts die Vollstreckungsklausel. § 8 Absatz
 1 Satz 2 und 4, §§ 9 und 10 Absatz 1 und 3 Satz 1 gelten entsprechend.
 Ein Zusatz über die Beschränkung der Zwangsvollstreckung entfällt.
 
-
 ### Abschnitt 5 - Beschränkung der Zwangsvollstreckung auf Sicherungsmaßregeln und unbeschränkte Fortsetzung der Zwangsvollstreckung
-
-
 
 #### § 18 Beschränkung kraft Gesetzes
 
 Die Zwangsvollstreckung ist auf Sicherungsmaßregeln beschränkt,
 solange die Frist zur Einlegung der Beschwerde noch läuft und solange
 über die Beschwerde noch nicht entschieden ist.
-
 
 #### § 19 Prüfung der Beschränkung
 
@@ -500,7 +469,6 @@ dieser Beschränkung vereinbar sei, sind im Wege der Erinnerung nach §
 766 der Zivilprozessordnung bei dem Vollstreckungsgericht (§ 764 der
 Zivilprozessordnung) geltend zu machen.
 
-
 #### § 20 Sicherheitsleistung durch den Verpflichteten
 
 (1) Solange die Zwangsvollstreckung aus einem Titel, der auf Leistung
@@ -514,7 +482,6 @@ Vollstreckungsmaßregeln sind aufzuheben, wenn der Verpflichtete durch
 eine öffentliche Urkunde die zur Abwendung der Zwangsvollstreckung
 erforderliche Sicherheitsleistung nachweist.
 
-
 #### § 21 Versteigerung beweglicher Sachen
 
 Ist eine bewegliche Sache gepfändet und darf die Zwangsvollstreckung
@@ -523,7 +490,6 @@ Vollstreckungsgericht auf Antrag anordnen, dass die Sache versteigert
 und der Erlös hinterlegt werde, wenn sie der Gefahr einer
 beträchtlichen Wertminderung ausgesetzt ist oder wenn ihre
 Aufbewahrung unverhältnismäßige Kosten verursachen würde.
-
 
 #### § 22 Unbeschränkte Fortsetzung der Zwangsvollstreckung; besondere gerichtliche Anordnungen
 
@@ -547,7 +513,6 @@ anzuwenden.
 Antrag des Verpflichteten eine Anordnung nach Absatz 2 erlassen. Der
 Bundesgerichtshof kann auf Antrag des Berechtigten eine nach Absatz 2
 erlassene Anordnung des Beschwerdegerichts abändern oder aufheben.
-
 
 #### § 23 Unbeschränkte Fortsetzung der durch das Gericht des ersten Rechtszuges zugelassenen Zwangsvollstreckung
 
@@ -584,7 +549,6 @@ ein Beschluss des Beschwerdegerichts, dass der Titel zur
 Zwangsvollstreckung nicht zugelassen werde, verkündet oder zugestellt
 ist.
 
-
 #### § 24 Unbeschränkte Fortsetzung der durch das Beschwerdegericht zugelassenen Zwangsvollstreckung
 
 (1) Die Zwangsvollstreckung aus dem Titel, zu dem der Urkundsbeamte
@@ -610,13 +574,7 @@ dass die Zwangsvollstreckung unbeschränkt stattfinden darf.
 3.  wenn der Bundesgerichtshof die Rechtsbeschwerde des Verpflichteten
     zurückgewiesen hat.
 
-
-
-
-
 ### Abschnitt 6 - Feststellung der Anerkennung einer ausländischen Entscheidung
-
-
 
 #### § 25 Verfahren und Entscheidung in der Hauptsache
 
@@ -628,7 +586,6 @@ eine Entscheidung aus einem anderen Staat anzuerkennen ist, sind die
 (2) Ist der Antrag auf Feststellung begründet, so beschließt das
 Gericht, dass die Entscheidung anzuerkennen ist.
 
-
 #### § 26 Kostenentscheidung
 
 In den Fällen des § 25 Absatz 2 sind die Kosten dem Antragsgegner
@@ -637,10 +594,7 @@ aufzuerlegen. Dieser kann die Beschwerde (§ 11) auf die Entscheidung
 Antragsteller aufzuerlegen, wenn der Antragsgegner nicht durch sein
 Verhalten zu dem Antrag auf Feststellung Veranlassung gegeben hat.
 
-
 ### Abschnitt 7 - Aufhebung oder Änderung der Beschlüsse über die Zulassung der Zwangsvollstreckung oder die Anerkennung
-
-
 
 #### § 27 Verfahren nach Aufhebung oder Änderung des für vollstreckbar erklärten ausländischen Titels im Ursprungsstaat
 
@@ -669,7 +623,6 @@ bereits getroffener Vollstreckungsmaßregeln sind die §§ 769 und 770
 der Zivilprozessordnung entsprechend anzuwenden. Die Aufhebung einer
 Vollstreckungsmaßregel ist auch ohne Sicherheitsleistung zulässig.
 
-
 #### § 28 Schadensersatz wegen ungerechtfertigter Vollstreckung
 
 (1) Wird die Zulassung der Zwangsvollstreckung auf die Beschwerde (§
@@ -687,7 +640,6 @@ angefochten werden konnte.
 ausschließlich zuständig, das im ersten Rechtszug über den Antrag, den
 Titel mit der Vollstreckungsklausel zu versehen, entschieden hat.
 
-
 #### § 29 Aufhebung oder Änderung ausländischer Entscheidungen, deren Anerkennung festgestellt ist
 
 Wird die Entscheidung in dem Staat, in dem sie ergangen ist,
@@ -696,10 +648,7 @@ Tatsache nicht mehr in dem Verfahren über den Antrag auf Feststellung
 der Anerkennung (§ 25) geltend machen, so ist § 27 Absatz 1 bis 4
 entsprechend anzuwenden.
 
-
 ### Abschnitt 8 - Vorschriften für Entscheidungen deutscher Gerichte und für das Mahnverfahren
-
-
 
 #### § 30 Vervollständigung inländischer Entscheidungen zur Verwendung im Ausland
 
@@ -729,7 +678,6 @@ einstweiligen Verfügungen, die in einem anderen Vertrags- oder
 Mitgliedstaat geltend gemacht werden sollen und nicht mit einer
 Begründung versehen sind.
 
-
 #### § 31 Vollstreckungsklausel zur Verwendung im Ausland
 
 Vollstreckungsbescheide, Arrestbefehle und einstweilige Verfügungen
@@ -741,7 +689,6 @@ Zwangsvollstreckung im Inland nach § 796 Absatz 1, § 929 Absatz 1 und
 Gesetzes über das Verfahren in Familiensachen und in den
 Angelegenheiten der freiwilligen Gerichtsbarkeit nicht erforderlich
 wäre.
-
 
 #### § 32 Mahnverfahren mit Zustellung im Ausland
 
@@ -757,14 +704,9 @@ erforderlichen Schriftstücke über die Vereinbarung beizufügen.
 (3) Die Widerspruchsfrist (§ 692 Absatz 1 Nummer 3 der
 Zivilprozessordnung) beträgt einen Monat.
 
-
 ### Abschnitt 9 - Verhältnis zu besonderen Anerkennungsverfahren; Konzentrationsermächtigung
 
-
-
 #### § 33 (weggefallen)
-
-
 
 #### § 34 Konzentrationsermächtigung
 
@@ -787,14 +729,9 @@ Gemeinschaft jeweils allein ausgeübt werden.
 (2) Die Landesregierungen können die Ermächtigung durch
 Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
 
-
 ## Teil 2 - Besonderes
 
-
-
 ### Abschnitt 1 - Übereinkommen über die gerichtliche Zuständigkeit und die Vollstreckung gerichtlicher Entscheidungen in Zivil- und Handelssachen vom 27. September 1968 und vom 16. September 1988
-
-
 
 #### § 35 Sonderregelungen über die Beschwerdefrist
 
@@ -807,7 +744,6 @@ einem anderen Vertragsstaat dieser Übereinkommen hat. Eine
 Verlängerung dieser Frist wegen weiter Entfernung ist ausgeschlossen.
 § 10 Absatz 2 und 3 Satz 2 sowie § 11 Absatz 3 Satz 1 und 2 finden in
 diesen Fällen keine Anwendung.
-
 
 #### § 36 Aussetzung des Beschwerdeverfahrens
 
@@ -823,26 +759,15 @@ auch von einer Sicherheitsleistung abhängig machen.
 (2) Absatz 1 ist im Verfahren auf Feststellung der Anerkennung einer
 Entscheidung (§§ 25 und 26) entsprechend anzuwenden.
 
-
 ### Abschnitt 2 - (weggefallen)
-
-
 
 #### § 37 (weggefallen)
 
-
-
 #### § 38 (weggefallen)
-
-
 
 #### § 39 (weggefallen)
 
-
-
 ### Abschnitt 3 - Vertrag vom 17. Juni 1977 zwischen der Bundesrepublik Deutschland und dem Königreich Norwegen über die gegenseitige Anerkennung und Vollstreckung gerichtlicher Entscheidungen und anderer Schuldtitel in Zivil- und Handelssachen
-
-
 
 #### § 40 Abweichungen von § 22
 
@@ -870,7 +795,6 @@ fortgesetzt werden kann:
 
 
 (2) § 22 Absatz 2 und 3 bleibt unberührt.
-
 
 #### § 41 Abweichungen von § 23
 
@@ -903,7 +827,6 @@ Beschwerdeschrift eingereicht hat und wenn
 
 (3) § 23 Absatz 3 bleibt unberührt.
 
-
 #### § 42 Abweichungen von § 24
 
 Die Zwangsvollstreckung aus dem Titel, zu dem der Urkundsbeamte der
@@ -912,7 +835,6 @@ erteilt hat, ist abweichend von § 24 Absatz 1 auf Antrag des
 Berechtigten nur im Rahmen einer gerichtlichen Anordnung nach § 40
 oder § 22 Absatz 2 und 3 fortzusetzen. Eines besonderen Zeugnisses des
 Urkundsbeamten der Geschäftsstelle bedarf es nicht.
-
 
 #### § 43 Folgeregelungen für das Rechtsbeschwerdeverfahren
 
@@ -926,7 +848,6 @@ von § 17 Absatz 3 Satz 3 ein Zusatz aufzunehmen, dass die
 Zwangsvollstreckung über Maßregeln zur Sicherung nicht hinausgehen
 darf. Der Inhalt des Zusatzes bestimmt sich nach dem Inhalt der
 Anordnung.
-
 
 #### § 44 Weitere Sonderregelungen
 
@@ -951,10 +872,7 @@ Entscheidung (§§ 25 und 26) und über die Aufhebung oder Änderung
 dieser Feststellung (§ 29 in Verbindung mit § 27) finden keine
 Anwendung.
 
-
 ### Abschnitt 4 - Vertrag vom 20. Juli 1977 zwischen der Bundesrepublik Deutschland und dem Staat Israel über die gegenseitige Anerkennung und Vollstreckung gerichtlicher Entscheidungen in Zivil- und Handelssachen
-
-
 
 #### § 45 Abweichungen von § 22
 
@@ -982,7 +900,6 @@ fortgesetzt werden kann:
 
 
 (2) § 22 Absatz 2 und 3 bleibt unberührt.
-
 
 #### § 46 Abweichungen von § 23
 
@@ -1015,7 +932,6 @@ Beschwerdeschrift eingereicht hat und wenn
 
 (3) § 23 Absatz 3 bleibt unberührt.
 
-
 #### § 47 Abweichungen von § 24
 
 Die Zwangsvollstreckung aus dem Titel, zu dem der Urkundsbeamte der
@@ -1024,7 +940,6 @@ erteilt hat, ist abweichend von § 24 Absatz 1 auf Antrag des
 Berechtigten nur im Rahmen einer gerichtlichen Anordnung nach § 45
 oder § 22 Absatz 2 und 3 fortzusetzen. Eines besonderen Zeugnisses des
 Urkundsbeamten der Geschäftsstelle bedarf es nicht.
-
 
 #### § 48 Folgeregelungen für das Rechtsbeschwerdeverfahren
 
@@ -1039,7 +954,6 @@ Zwangsvollstreckung über Maßregeln zur Sicherung nicht hinausgehen
 darf. Der Inhalt des Zusatzes bestimmt sich nach dem Inhalt der
 Anordnung.
 
-
 #### § 49 Weitere Sonderregelungen
 
 (1) Hat der Verpflichtete keinen Wohnsitz im Inland, so ist für die
@@ -1053,18 +967,11 @@ Anwendung. § 12 Absatz 1 gilt für die Beschwerde, die sich gegen die
 Zulassung der Zwangsvollstreckung aus einem gerichtlichen Vergleich
 richtet, sinngemäß.
 
-
 ### Abschnitt 5 - (weggefallen)
-
-
 
 #### (XXXX) §§ 50 bis 54 (weggefallen)
 
-
-
 ### Abschnitt 6 - Verordnungen und Abkommen der Europäischen Gemeinschaft nach § 1 Absatz 1 Nummer 2
-
-
 
 #### § 55 Abweichungen von Vorschriften des Allgemeinen Teils; ergänzende Regelungen
 
@@ -1094,7 +1001,6 @@ notariellen Urkunde zum Gegenstand hat, kann diese Urkunde auch von
 einem Notar für vollstreckbar erklärt werden. Die Vorschriften für das
 Verfahren der Vollstreckbarerklärung durch ein Gericht gelten
 sinngemäß.
-
 
 #### § 56 Bescheinigungen zu inländischen Titeln
 

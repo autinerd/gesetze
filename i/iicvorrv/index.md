@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1969, 1525
 
-
-
 ## Eingangsformel
 
 Auf Grund des Artikels 3 des Gesetzes über den Beitritt der
@@ -29,7 +27,6 @@ andere zwischenstaatliche Organisationen vom 22. Juni 1954
 Februar 1964 (Bundesgesetzbl. II S. 187), verordnet die
 Bundesregierung mit Zustimmung des Bundesrates:
 
-
 ## § 1
 
 Das Internationale Baumwoll-Institut (International Institute for
@@ -40,7 +37,6 @@ dem gegenwärtig die Staaten Griechenland, Indien, Mexiko, Spanien,
 Sudan, Tansania, Uganda, die Vereinigte Arabische Republik und die
 Vereinigten Staaten von Amerika angehören, erhält
 Rechtspersönlichkeit.
-
 
 ## § 2
 
@@ -55,7 +51,6 @@ Gebiet des Baumwollmarktes und für die damit zusammenhängende
 Geschäftsführung. Die Befreiung gilt nicht für die Bediensteten des
 deutschen Büros des Internationalen Baumwoll-Instituts.
 
-
 ## § 3
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
@@ -66,7 +61,6 @@ der Vereinten Nationen vom 21. November 1947 und über die Gewährung
 von Vorrechten und Befreiungen an andere zwischenstaatliche
 Organisationen vom 22. Juni 1954, zuletzt geändert durch das Gesetz
 vom 28. Februar 1964, auch im Land Berlin.
-
 
 ## § 4
 

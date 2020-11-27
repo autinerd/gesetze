@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   RGBl II: 1939, 848
 
-
-
 ## (XXXX)
 
 (1) ...
@@ -29,7 +27,6 @@ Fundstelle
 zur Ausführung des deutsch-griechischen Abkommens über die
 gegenseitige Rechtshilfe in Angelegenheiten des bürgerlichen und
 Handels-Rechts (Reichsgesetzbl. II S. 847) erlassen worden.
-
 
 ## Schlußformel
 

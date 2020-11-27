@@ -21,10 +21,7 @@ Neugefasst durch
 Geändert durch
 :   Art. 11 V v. 13.12.2011 I 2720
 
-
 ## I. - Begriffsbestimmung
-
-
 
 ### § 1
 
@@ -42,13 +39,7 @@ Arten.
     klinischen und pathologisch-anatomischen Untersuchung den Ausbruch der
     Psittakose befürchten lässt.
 
-
-
-
-
 ## II. - Allgemeine Vorschriften
-
-
 
 ### § 2
 
@@ -115,7 +106,6 @@ gemäß Rechtsakten der Europäischen Gemeinschaft oder der Europäischen
 Union auf dem Gebiet des Arten- oder des Tierseuchenschutzes bereits
 gekennzeichnet sind.
 
-
 ### § 3
 
 (1) Die Fußringe dürfen nur verwendet werden, wenn sie wie folgt
@@ -137,7 +127,6 @@ beschriftet sind:
 
 (2) Nicht verwendete Fußringe sind zwei Jahre nach Bezug
 aufzubewahren.
-
 
 ### § 4
 
@@ -183,18 +172,11 @@ vorgenommen werden.
 (4) Die Bücher und Datenträger sind nach der letzten Eintragung
 mindestens zwei Jahre aufzubewahren.
 
-
 ## III. - Schutzmaßregeln gegen Psittakose
-
-
 
 ### 1. - Schutzmaßregeln in Beständen von Züchtern und Händlern
 
-
-
 #### A. - Vor amtlicher Feststellung der Psittakose oder des Psittakoseverdachts
-
-
 
 ##### § 5
 
@@ -235,13 +217,7 @@ Feststellung Folgendes:
     Gegenstände, die mit Papageien und Sittichen oder deren Ausscheidungen
     in Berührung gekommen sein können, dürfen nicht entfernt werden.
 
-
-
-
-
 #### B. - Nach amtlicher Feststellung der Psittakose oder des Psittakoseverdachts
-
-
 
 ##### § 6
 
@@ -309,7 +285,6 @@ Maßgabe folgender Vorschriften der Sperre:
 nach näherer Anweisung des beamteten Tierarztes zu reinigen und zu
 desinfizieren.
 
-
 ##### § 7
 
 (1) Der Züchter oder Händler hat alle Papageien und Sittiche seines
@@ -326,10 +301,7 @@ befürchten ist.
 Papageien und Sittiche nicht von der Psittakose befallener Bestände
 vorbeugend auf Psittakose untersucht werden.
 
-
 #### C. - Bei Ansteckungsverdacht
-
-
 
 ##### § 8
 
@@ -350,10 +322,7 @@ behandeln sind.
 Papageien und Sittiche anordnen, wenn eine Weiterverbreitung der
 Seuche zu befürchten ist.
 
-
 #### D. - Desinfektion
-
-
 
 ##### § 9
 
@@ -370,10 +339,7 @@ die nicht ordnungsgemäß zu reinigen oder zu desinfizieren sind, sind
 zu verbrennen oder nach näherer Anweisung des beamteten Tierarztes auf
 andere Weise unschädlich zu beseitigen.
 
-
 ### 2. - Schutzmaßregeln bei sonstigen Tierhaltern und auf Tierschauen und Märkten
-
-
 
 #### § 10
 
@@ -389,10 +355,7 @@ sich auf Tierschauen, Märkten oder ähnlichen Veranstaltungen befinden,
 Psittakose festgestellt oder Seuchen- oder Ansteckungsverdacht
 vorliegt.
 
-
 ### 3. - Aufhebung der Schutzmaßregeln
-
-
 
 #### § 11
 
@@ -443,13 +406,7 @@ erloschen ist oder sich der Verdacht als unbegründet erwiesen hat.
 2.  die Desinfektion unter amtlicher Aufsicht durchgeführt und vom
     beamteten Tierarzt abgenommen worden ist.
 
-
-
-
-
 ## IV. - Schutzmaßregeln gegen Ornithose
-
-
 
 ### § 12
 
@@ -458,10 +415,7 @@ Ornithose festgestellt oder liegt der Verdacht auf Ornithose vor, kann
 die zuständige Behörde die sinngemäße Anwendung der in den §§ 6 bis 9
 enthaltenen Maßregeln anordnen. Die §§ 10 und 11 gelten entsprechend.
 
-
 ## V. - Ordnungswidrigkeiten
-
-
 
 ### § 13
 
@@ -532,18 +486,11 @@ Tierseuchengesetzes handelt, wer vorsätzlich oder fahrlässig
 9.  der Vorschrift des § 7 Abs. 1 über das Behandeln oder Töten von
     Papageien oder Sittichen zuwiderhandelt.
 
-
-
-
-
 ## VI. - Schlussvorschriften
-
-
 
 ### § 14 (Inkrafttreten)
 
 -
-
 
 ### Anlage (zu § 4) Nachweisbuch über Aufnahme, Erwerb, Abgabe und Behandlung von Papageien und Sittichen
 

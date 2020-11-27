@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 § 17 V v. 19.12.2008 I 2868; 2010, 380
 
-
 ## Eingangsformel
 
 Auf Grund der §§ 7, 9 Abs. 1 Satz 1 Nr. 2, 3, 4 und 6, Satz 2, Abs. 2
@@ -28,7 +27,6 @@ Nr. 2 des Binnenschiffahrtsaufgabengesetzes in der Fassung der
 Bekanntmachung vom 4. August 1986 (BGBl. I S. 1270) und des § 36 Abs.
 3 des Gesetzes über Ordnungswidrigkeiten in der Fassung der
 Bekanntmachung vom 19. Februar 1987 (BGBl. I S. 602) wird verordnet:
-
 
 ## § 1 Anwendungsbereich
 
@@ -78,7 +76,6 @@ Juni 1977 - BGBl. I S. 813, 816) in der jeweils für die Bundesrepublik
 Deutschland geltenden Fassung, im folgenden als Internationale Regeln
 bezeichnet, Anwendung.
 
-
 ## § 2 Begriffsbestimmungen
 
 Ergänzend zu Artikel 1 der Schiffahrtsordnung Emsmündung sind im Sinne
@@ -99,10 +96,6 @@ dieser Verordnung:
     Schiffahrtsordnung Emsmündung angegebenen Werte gelten für Versuche
     mit geschlossenem Tiegel, die in zugelassenen Prüfgeräten ermittelt
     werden.
-
-
-
-
 
 ## § 3 Grundregeln für das Verhalten im Verkehr
 
@@ -148,7 +141,6 @@ Aufgaben nicht mehr unter der Wirkung solcher Getränke steht. Satz 1
 gilt für die im Brückendienst eingesetzten Mitglieder der
 Schiffsbesatzung entsprechend.
 
-
 ## § 4 Verantwortlichkeit
 
 (1) Der Fahrzeugführer und jeder sonst für die Sicherheit
@@ -178,7 +170,6 @@ zu bestimmen, wer verantwortlicher Fahrzeugführer ist.
 (5) Die Verantwortlichkeit anderer Personen, die sich aus dieser
 Verordnung und aus der Schiffahrtsordnung Emsmündung ergibt, bleibt
 unberührt.
-
 
 ## § 5 Schiffahrtszeichen
 
@@ -410,7 +401,6 @@ gleichwertig behandelt, wenn mit ihnen das geforderte Schutzniveau -
 Sicherheit, Gesundheit und Gebrauchstauglichkeit - gleichermaßen
 dauerhaft erreicht wird.
 
-
 ## § 6 Schallsignalanlagen
 
 (1) Ergänzend zu Artikel 3 der Schiffahrtsordnung Emsmündung dürfen
@@ -436,7 +426,6 @@ der Internationalen Regeln nachgewiesen wird.
 
 (3) Für die Verwendung von Produkten aus anderen Mitgliedstaaten der
 Europäischen Union gilt § 5 Abs. 4.
-
 
 ## § 7 Sichtzeichen
 
@@ -483,7 +472,6 @@ bis zur seewärtige Grenze der Zone 1 Anwendung.
 (8) Für die Verwendung von Produkten aus anderen Mitgliedstaaten der
 Europäischen Union gilt § 5 Abs. 4.
 
-
 ## § 8 Sichtzeichen kleiner Fahrzeuge
 
 (1) Ergänzend zu Artikel 6 der Schiffahrtsordnung Emsmündung und
@@ -497,7 +485,6 @@ abweichend von Regel 26 Buchstabe c der Internationalen Regeln
 brauchen offene Fischerboote oberhalb Ems-km 35,785 nur ein weißes
 Rundumlicht zu führen. Regel 26 Buchstabe e der Internationalen Regeln
 bleibt unberührt.
-
 
 ## § 9 Durchfahren von Brücken
 
@@ -522,7 +509,6 @@ unverhältnismäßig großen Schwierigkeiten verbunden ist.
 (3) Ergänzend zu den Artikeln 12 und 13 der Schiffahrtsordnung
 Emsmündung über die Schallsignale der Fahrzeuge haben Schiffe als
 Aufforderungssignal "Brücke öffnen" zwei lange Töne zu geben.
-
 
 ## § 10 Zuständigkeiten
 
@@ -562,7 +548,6 @@ Wasser- und Schiffahrtsdirektion. Schiffahrtspolizeiliche Maßnahmen,
 die keinen Aufschub dulden, können auch von der Wasserschutzpolizei
 getroffen werden.
 
-
 ## § 11 Schiffahrtspolizeiliche Verfügungen
 
 (1) Die Strom- und Schiffahrtspolizeibehörden können zur Erfüllung der
@@ -575,13 +560,11 @@ Verfügungen).
 Verordnung und denen der Schiffahrtsordnung Emsmündung und den durch
 Schiffahrtszeichen getroffenen Anordnungen vor.
 
-
 ## § 12 Befreiung
 
 Die Strom- und Schiffahrtspolizeibehörden können von den Vorschriften
 dieser Verordnung und denen der Schiffahrtsordnung Emsmündung im
 Einzelfall befreien.
-
 
 ## § 13 Ermächtigung zum Erlaß von strom- und schiffahrtspolizeilichen Bekanntmachungen und Rechtsverordnungen
 
@@ -607,7 +590,6 @@ anzuwenden, die notwendig sind, um bis zu einer Änderung dieser
 Verordnung oder der Schiffahrtsordnung Emsmündung oder zu
 Versuchszwecken schiffahrtspolizeiliche Maßnahmen zu treffen. Die
 Anordnungen gelten höchstens drei Jahre.
-
 
 ## § 14 Zuwiderhandlungen gegen Vorschriften dieser Verordnung
 
@@ -693,10 +675,6 @@ Seeaufgabengesetzes handelt, wer vorsätzlich oder fahrlässig
 8.  als Fahrzeugführer, Eigentümer oder sonst nach § 4 Abs. 1 für Kurs und
     Geschwindigkeit verantwortliche Person entgegen § 11 Abs. 1 einer
     vollziehbaren schiffahrtspolizeilichen Verfügung nicht nachkommt.
-
-
-
-
 
 ## § 15 Zuwiderhandlungen gegen Vorschriften der Schiffahrtsordnung Emsmündung
 
@@ -839,16 +817,13 @@ Ordnungswidrigkeiten
 
 wird auf die Wasser- und Schiffahrtsdirektion Nordwest übertragen.
 
-
 ## § 16
 
 -
 
-
 ## § 17 Inkrafttreten
 
 Diese Verordnung tritt am 1. Oktober 1989 in Kraft.
-
 
 ## Schlußformel
 

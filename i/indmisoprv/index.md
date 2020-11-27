@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 17 V v. 25.8.2009 I 2960
 
-
 ## Eingangsformel
 
 Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August
@@ -29,7 +28,6 @@ Bundesministerium für Bildung und Wissenschaft nach Anordnung des
 Hauptausschusses des Bundesinstituts für Berufsbildung gemäß § 19 Nr.
 1 des Berufsbildungsförderungsgesetzes vom 23. Dezember 1981 (BGBl. I
 S. 1692) und im Einvernehmen mit dem Bundesministerium für Wirtschaft:
-
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
 
@@ -81,7 +79,6 @@ und Ausführung in dem ihm übertragenen Aufgabenbereich wahrzunehmen:
 Geprüfter Industriemeister/Geprüfte Industriemeisterin - Fachrichtung
 Isolierung (Wärme-, Kälte-, Schall- und Brandschutz).
 
-
 ## § 2 Zulassungsvoraussetzungen
 
 (1) Zur Industriemeisterprüfung ist zuzulassen, wer
@@ -107,7 +104,6 @@ nachweist.
 zugelassen werden, wer durch Vorlage von Zeugnissen oder auf andere
 Weise glaubhaft macht, daß er Kenntnisse, Fertigkeiten und Erfahrungen
 erworben hat, die die Zulassung zur Prüfung rechtfertigen.
-
 
 ## § 3 Gliederung und Inhalt der Prüfung
 
@@ -139,7 +135,6 @@ vergleichbare Prüfung vor einer öffentlichen oder staatlich
 anerkannten Bildungseinrichtung oder vor einem staatlichen
 Prüfungsausschuss nachzuweisen. Der Prüfungsnachweis ist vor Beginn
 der letzten Prüfungsleistung zu erbringen.
-
 
 ## § 4 Fachrichtungsübergreifender Teil
 
@@ -355,7 +350,6 @@ dauern. Die Bewertung der schriftlichen Prüfungsleistung und die der
 mündlichen Ergänzungsprüfung werden zu einer Note zusammengefasst.
 Dabei wird die Bewertung der schriftlichen Prüfungsleistung doppelt
 gewichtet.
-
 
 ## § 5 Fachrichtungsspezifischer Teil
 
@@ -666,7 +660,6 @@ mündlichen Ergänzungsprüfung werden zu einer Note zusammengefasst.
 Dabei wird die Bewertung der schriftlichen Prüfungsleistung doppelt
 gewichtet.
 
-
 ## § 6 Anrechnung anderer Prüfungsleistungen
 
 Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin ist auf Antrag
@@ -676,7 +669,6 @@ Stelle zu befreien, wenn eine andere vergleichbare Prüfung vor einer
 einem staatlichen Prüfungsausschuss erfolgreich abgelegt wurde und die
 Anmeldung zur Fortbildungsprüfung innerhalb von fünf Jahren nach der
 Bekanntgabe des Bestehens der anderen Prüfung erfolgt.
-
 
 ## § 7 Bestehen der Prüfung
 
@@ -703,7 +695,6 @@ Im Fall der Freistellung nach § 6 sind - anstelle der Noten - Ort,
 Datum sowie Bezeichnung des Prüfungsgremiums der anderweitig
 abgelegten Prüfung anzugeben.
 
-
 ## § 8 Wiederholung der Prüfung
 
 (1) Eine Prüfung, die nicht bestanden ist, kann zweimal wiederholt
@@ -719,17 +710,14 @@ Prüfungsteilnehmer kann beantragen, auch bestandene Prüfungsleistungen
 zu wiederholen. In diesem Fall wird das letzte Ergebnis
 berücksichtigt.
 
-
 ## § 9 Übergangsvorschrift
 
 Die bis zum Ablauf des 31. August 2009 begonnenen Prüfungsverfahren
 können nach den bisherigen Vorschriften zu Ende geführt werden.
 
-
 ## § 10 Inkrafttreten
 
 Diese Verordnung tritt am 1. September 1993 in Kraft.
-
 
 ## Anlage (zu § 7 Absatz 3) Muster
 

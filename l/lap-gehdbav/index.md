@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 Abs. 13 V v. 12.2.2009 I 320
 
-
 ## Eingangsformel
 
 Auf Grund des § 15 Abs. 1 Nr. 2 des Bundesbeamtengesetzes in der
@@ -31,10 +30,7 @@ S. 706) neu gefasst worden ist, verordnet der Präsident der
 Bundesanstalt für Arbeit im Einvernehmen mit dem Bundesministerium des
 Innern:
 
-
 ## Abschnitt 1 - Laufbahn
-
-
 
 ### § 1 Laufbahn
 
@@ -85,7 +81,6 @@ nicht, wenn das Eingangsamt der nächsthöheren Laufbahn im Wege des
 Aufstiegs nach § 35 der Bundeslaufbahnverordnung verliehen werden
 soll.
 
-
 ### § 2 Erwerb der Befähigung
 
 (1) Die Befähigung für die Laufbahn des gehobenen nichttechnischen
@@ -124,7 +119,6 @@ Dienstes in der Bundesanstalt für Arbeit wird erworben durch:
 hinsichtlich des Erwerbs der Befähigung für die Laufbahn des gehobenen
 nichttechnischen Dienstes in der Bundesanstalt für Arbeit unberührt.
 
-
 ### § 3 Ziel der Ausbildung
 
 (1) Die Beamtinnen und Beamten werden auf ihre Verantwortung im
@@ -152,14 +146,9 @@ Ausbildung zu übertragen sind.
 eigenständig weiterzubilden. Sie sind zum Selbststudium verpflichtet;
 das Selbststudium ist zu fördern.
 
-
 ## Abschnitt 2 - Ausbildungsordnung
 
-
-
 ### Kapitel 1 - Allgemeines
-
-
 
 #### § 4 Einstellungsbehörde
 
@@ -174,7 +163,6 @@ Arbeitsverwaltung der Fachhochschule des Bundes für öffentliche
 Verwaltung. Die Einstellungsbehörde ist die für die beamtenrechtlichen
 Entscheidungen zuständige Dienstbehörde.
 
-
 #### § 5 Einstellungsvoraussetzungen
 
 In den Vorbereitungsdienst kann eingestellt werden, wer
@@ -186,10 +174,6 @@ In den Vorbereitungsdienst kann eingestellt werden, wer
 2.  die Fachhochschulreife oder eine andere zu einem Hochschulstudium
     berechtigende Schulbildung oder einen hochschulrechtlich als
     gleichwertig anerkannten Bildungsstand besitzt.
-
-
-
-
 
 #### § 6 Ausschreibung, Bewerbung
 
@@ -221,10 +205,6 @@ Der Bewerbung sind beizufügen:
 6.  gegebenenfalls eine Ablichtung des Zulassungs- oder
     Eingliederungsscheins oder der Bestätigung nach § 10 Abs. 4 des
     Soldatenversorgungsgesetzes.
-
-
-
-
 
 #### § 7 Auswahlverfahren
 
@@ -278,7 +258,6 @@ Bewerber fest. Wenn mehrere Kommissionen eingerichtet sind, wird eine
 Rangfolge aller Bewerberinnen und Bewerber festgelegt. Absatz 3 gilt
 entsprechend.
 
-
 #### § 8 Einstellung in den Vorbereitungsdienst
 
 (1) Die in § 4 genannten Einstellungsbehörden entscheiden unter
@@ -317,7 +296,6 @@ Die Kosten des Gesundheitszeugnisses trägt die Einstellungsbehörde.
 Anstelle der Kostenübernahme kann die in § 4 genannte
 Einstellungsbehörde die Einstellungsuntersuchung selbst vornehmen.
 
-
 #### § 9 Rechtsstellung während des Vorbereitungsdienstes
 
 (1) Mit ihrer Einstellung werden - unter Berufung in das
@@ -330,7 +308,6 @@ in § 4 genannten Einstellungsbehörde. Während der Ausbildung am
 Fachbereich Arbeitsverwaltung der Fachhochschule des Bundes für
 öffentliche Verwaltung unterstehen sie auch der Dienstaufsicht dieser
 besonderen Dienststelle der Bundesanstalt für Arbeit.
-
 
 #### § 10 Dauer, Verkürzung und Verlängerung des Vorbereitungsdienstes
 
@@ -388,12 +365,10 @@ kann.
 (7) Bei Nichtbestehen der Laufbahnprüfung richtet sich die
 Verlängerung des Vorbereitungsdienstes nach § 40 Abs. 2.
 
-
 #### § 11 Urlaub während des Vorbereitungsdienstes
 
 Erholungsurlaub wird in der Regel während der Praktika gewährt und auf
 den Vorbereitungsdienst angerechnet.
-
 
 #### § 12 Regelungen für Schwerbehinderte
 
@@ -412,10 +387,7 @@ angewandt. Entscheidungen über Prüfungserleichterungen trifft der
 Fachbereich Arbeitsverwaltung der Fachhochschule des Bundes für
 öffentliche Verwaltung.
 
-
 ### Kapitel 2 - Ausbildung
-
-
 
 #### § 13 Gliederung des Vorbereitungsdienstes
 
@@ -507,16 +479,12 @@ bauen aufeinander auf.
 
 (3) Das Grundstudium schließt mit der Zwischenprüfung ab.
 
-
 #### Teil 1 - Fachstudien
-
-
 
 ##### § 14 Fachhochschule des Bundes für öffentliche Verwaltung
 
 Die Fachstudien werden an der Fachhochschule des Bundes für
 öffentliche Verwaltung, Fachbereich Arbeitsverwaltung, durchgeführt.
-
 
 ##### § 15 Grundsätze
 
@@ -535,7 +503,6 @@ Lernziele der Studienfächer, die ihnen und ihren Intensitätsstufen
 entsprechenden Lerninhalte, die Stundenzahlen und die Art der
 Leistungsnachweise. Auf der Grundlage des Studienplans werden
 Lehrveranstaltungspläne erstellt.
-
 
 ##### § 16 Grundstudium
 
@@ -574,10 +541,6 @@ Aufgabenbereichen des gehobenen Dienstes,
 
 
 6.  laufbahntypische Bereiche der Aufgabenerfüllung.
-
-
-
-
 
 ##### § 17 Hauptstudium
 
@@ -638,13 +601,7 @@ Fähigkeiten in folgenden Studienfächern erworben:
 
     *   Wahlbereich.
 
-
-
-
-
 #### Teil 2 - Berufspraktische Studienzeiten
-
-
 
 ##### § 18 Grundsätze
 
@@ -654,7 +611,6 @@ die Fachstudien erwerben sowie die in den Fachstudien erworbenen
 wissenschaftlichen Kenntnisse vertiefen und lernen, sie in der Praxis
 anzuwenden. Für die berufspraktischen Studienzeiten erlässt die
 Hauptstelle der Bundesanstalt für Arbeit einen Ausbildungsrahmenplan.
-
 
 ##### § 19 Praktika
 
@@ -681,7 +637,6 @@ für Arbeit.
 (3) Tätigkeiten, die nicht dem Zweck der Ausbildung entsprechen,
 dürfen den Anwärterinnen und Anwärtern nicht übertragen werden.
 
-
 ##### § 20 Durchführung der Praktika
 
 (1) Die in § 4 genannten Einstellungsbehörden sind verantwortlich für
@@ -696,7 +651,6 @@ Anwärter mit kundenorientiertem Verhalten und den Aufgaben der
 Arbeitsverwaltung vertraut zu machen. Hierbei sollen die Anwärterinnen
 und Anwärter die im Grund- und Hauptstudium erworbenen Kenntnisse und
 Fertigkeiten vertiefen und lernen, sie in der Praxis anzuwenden.
-
 
 ##### § 21 Leitung und Durchführung der Ausbildung
 
@@ -724,7 +678,6 @@ Ausbildungsstand.
 (§ 18) für jeden Abschnitt der praktischen Ausbildung einen
 Ausbildungsplan (Zeitplan) auf.
 
-
 ##### § 22 Praxisbezogene Lehrveranstaltungen (Fachseminare)
 
 (1) Die praxisbezogenen Lehrveranstaltungen betragen mindestens 280
@@ -744,10 +697,7 @@ berufspraktischen Studienzeiten bei den für die Ausbildungsabschnitte
 zuständigen Behörden in Unterrichtsformen durchgeführt, welche die
 Mitarbeit und Mitgestaltung der Anwärterinnen und Anwärter erfordern.
 
-
 #### Teil 3 - Leistungsnachweise, Bewertungen
-
-
 
 ##### § 23 Leistungsnachweise während der Fachstudien
 
@@ -821,7 +771,6 @@ Ordnungsverstößen sind die §§ 34 und 35 entsprechend anzuwenden. Über
 die Folgen entscheidet die Stelle, die die Aufgabe des
 Leistungsnachweises bestimmt hat.
 
-
 ##### § 24 Bewertungen während der berufspraktischen Studienzeiten
 
 (1) Über die Leistungen und den Befähigungsstand der Anwärterinnen und
@@ -841,14 +790,9 @@ ausbildende Dienststelle nach § 4 ein zusammenfassendes Zeugnis. In
 ihm werden die Bewertungen nach Absatz 1 aufgeführt. Die Anwärterinnen
 und Anwärter erhalten eine Ausfertigung des Zeugnisses.
 
-
 ## Abschnitt 3 - Prüfungsordnung
 
-
-
 ### Kapitel 1 - Zwischenprüfung
-
-
 
 #### § 25 Zwischenprüfung
 
@@ -916,10 +860,7 @@ versehen.
 
 (9) § 39 Abs. 2 gilt entsprechend.
 
-
 ### Kapitel 2 - Laufbahnprüfung
-
-
 
 #### § 26 Prüfungsamt
 
@@ -932,7 +873,6 @@ Anwendung der Bewertungsmaßstäbe.
 Laufbahnprüfung sind nach Maßgabe dieser Verordnung dem Fachbereich
 Arbeitsverwaltung der Fachhochschule des Bundes für öffentliche
 Verwaltung übertragen.
-
 
 #### § 27 Prüfungskommission
 
@@ -986,7 +926,6 @@ Ausschlag. Stimmenthaltung ist nicht zulässig.
 Beamte des höheren oder gehobenen Dienstes oder Angestellte in
 vergleichbaren Vergütungsgruppen als Prüfende bestellt werden.
 
-
 #### § 28 Prüfung
 
 (1) In der Laufbahnprüfung ist festzustellen, ob die Anwärterinnen und
@@ -1020,7 +959,6 @@ dürfen während der Prüfung keinerlei Aufzeichnungen machen. Bei den
 Beratungen der Prüfungskommission dürfen nur deren Mitglieder anwesend
 sein.
 
-
 #### § 29 Prüfungsort, Prüfungstermin
 
 (1) Das Prüfungsamt setzt im Einvernehmen mit dem Fachbereich
@@ -1037,7 +975,6 @@ Wochen vor Beginn der mündlichen Prüfung abgeschlossen sein.
 (3) Der Zeitpunkt der Ausgabe der Diplomarbeit sowie Ort und Zeit der
 schriftlichen und der mündlichen Prüfung werden den Anwärterinnen und
 Anwärtern rechtzeitig mitgeteilt.
-
 
 #### § 30 Diplomarbeit
 
@@ -1109,7 +1046,6 @@ Bundes für öffentliche Verwaltung durch Bildung der
 Durchschnittsrangpunktzahl der drei Bewertungen festgesetzt. Das
 Bewertungsverfahren soll acht Wochen nicht überschreiten.
 
-
 #### § 31 Schriftliche Prüfung
 
 (1) Die Prüfungsaufgaben bestimmt das Prüfungsamt; der Fachbereich
@@ -1171,7 +1107,6 @@ die Niederschrift.
 Aufsichtsarbeit und wird nicht nach § 34 verfahren, gilt die versäumte
 Zeit als Bearbeitungszeit.
 
-
 #### § 32 Zulassung zur mündlichen Prüfung
 
 (1) Der Fachbereich Arbeitsverwaltung der Fachhochschule des Bundes
@@ -1187,7 +1122,6 @@ ihnen in der Diplomarbeit und in den einzelnen schriftlichen
 Aufsichtsarbeiten erzielten Rangpunkte mitgeteilt werden, wenn sie
 dies beantragen. Die Nichtzulassung bedarf der Schriftform; sie wird
 mit einer Rechtsbehelfsbelehrung versehen.
-
 
 #### § 33 Mündliche Prüfung
 
@@ -1216,7 +1150,6 @@ Teamfähigkeit und soziale Kompetenz angemessen zu berücksichtigen.
 
 (5) Über den Ablauf der Prüfung wird eine Niederschrift gefertigt, die
 die Mitglieder der Prüfungskommission unterschreiben.
-
 
 #### § 34 Verhinderung, Rücktritt, Säumnis
 
@@ -1258,7 +1191,6 @@ die gesamte Prüfung für nicht bestanden erklärt wird. Die Entscheidung
 ist mit einer Rechtsbehelfsbelehrung zu versehen. Die Anwärterin oder
 der Anwärter ist vorher anzuhören.
 
-
 #### § 35 Täuschung, Ordnungsverstoß
 
 (1) Anwärterinnen oder Anwärtern, die bei einer schriftlichen
@@ -1294,7 +1226,6 @@ ist mit einer Rechtsbehelfsbelehrung zu versehen.
 
 (4) Die oder der Betroffene wird vor der Entscheidung nach den
 Absätzen 2 und 3 gehört.
-
 
 #### § 36 Bewertung von Prüfungsleistungen
 
@@ -1508,7 +1439,6 @@ aus wird die Erteilung des der Leistung entsprechenden Rangpunktes
 begründet. Für die Bewertung mündlicher Leistungen gelten diese
 Grundsätze sinngemäß.
 
-
 #### § 37 Gesamtergebnis
 
 (1) Im Anschluss an die mündliche Prüfung setzt die Prüfungskommission
@@ -1549,7 +1479,6 @@ der Vorsitzende den Prüfungsteilnehmerinnen und Prüfungsteilnehmern
 die erreichten Rangpunkte mit, die sie oder er auf Wunsch kurz
 mündlich erläutert.
 
-
 #### § 38 Zeugnis
 
 (1) Der Fachbereich Arbeitsverwaltung der Fachhochschule des Bundes
@@ -1578,7 +1507,6 @@ Verwaltung berichtigt. Unrichtige Prüfungszeugnisse sind
 zurückzugeben. In den Fällen des § 35 Abs. 3 Satz 1 ist das
 Prüfungszeugnis zurückzugeben.
 
-
 #### § 39 Prüfungsakten, Einsichtnahme
 
 (1) Jeweils eine Ausfertigung der Zeugnisse über die Zwischenprüfung,
@@ -1593,7 +1521,6 @@ Bundes für öffentliche Verwaltung mindestens fünf Jahre aufbewahrt.
 (2) Die Anwärterinnen und Anwärter können nach Abschluss der
 Laufbahnprüfung Einsicht in die sie betreffenden Teile der
 Prüfungsakten nehmen.
-
 
 #### § 40 Wiederholung
 
@@ -1615,10 +1542,7 @@ zum Ablauf der Wiederholungsfrist verlängert. Die Wiederholungsprüfung
 soll zusammen mit den Anwärterinnen und Anwärtern der nächsten
 Laufbahnprüfung abgelegt werden.
 
-
 ## Abschnitt 4 - Aufstieg
-
-
 
 ### § 41 Regelaufstieg mit Gesamtausbildung im Vorbereitungsdienst
 
@@ -1649,7 +1573,6 @@ bestanden, ist die Aufstiegsausbildung beendet.
 Beamten bis zur Verleihung des Eingangsamtes der neuen Laufbahn in
 ihrer bisherigen Rechtsstellung.
 
-
 ### § 42 Verkürzung der Regelaufstiegsausbildung
 
 (1) Soweit die Beamtinnen und Beamten während ihrer bisherigen
@@ -1666,7 +1589,6 @@ Studienplan oder Ausbildungsplan zugelassen werden. Die Beamtinnen und
 Beamten sollen der Ausbildung nicht innerhalb zusammenhängender
 Teilabschnitte der Studienabschnitte und Praktika entzogen werden.
 
-
 ### § 43 Zulassung zum Verwendungsaufstieg
 
 Beamtinnen und Beamte der Laufbahn des mittleren nichttechnischen
@@ -1678,10 +1600,7 @@ Februar 2009 (BGBl. I S. 160) geändert worden ist, zum Aufstieg für
 besondere Verwendungen in die Laufbahn des gehobenen nichttechnischen
 Dienstes in der Bundesanstalt für Arbeit zugelassen werden.
 
-
 ## Abschnitt 5 - Teilnahme von Angestellten an der Laufbahnausbildung
-
-
 
 ### § 44 Voraussetzungen, Verfahren
 
@@ -1750,10 +1669,7 @@ Laufbahnprüfung identisch ist, wird die Befähigung für die Laufbahn
 des gehobenen nichttechnischen Dienstes in der Bundesanstalt für
 Arbeit anerkannt.
 
-
 ## Abschnitt 6 - Sonstige Vorschriften
-
-
 
 ### § 45 Übergangsregelungen
 
@@ -1779,7 +1695,6 @@ Dienstes in der Bundesanstalt für Arbeit vom 18. April 1995 (ANBA S.
 (3) Die Absätze 1 und 2 gelten entsprechend für die
 Aufstiegsbeamtinnen und Aufstiegsbeamten im Sinne der §§ 41 bis 43 und
 für die Angestellten im Sinne des § 44.
-
 
 ### § 46 Inkrafttreten
 

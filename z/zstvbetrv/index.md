@@ -18,14 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 Abs. 3 G v. 17.7.2009 I 2062
 
-
 ## Eingangsformel
 
 Auf Grund des § 494 Abs. 4 der Strafprozessordnung in der Fassung der
 Bekanntmachung vom 7. April 1987 (BGBl. I S. 1074, 1319), der zuletzt
 durch Artikel 2 Nr. 6 des Gesetzes vom 10. September 2004 (BGBl. I S.
 2318) geändert worden ist, verordnet das Bundesministerium der Justiz:
-
 
 ## § 1 Register
 
@@ -36,7 +34,6 @@ bei dem Bundesamt für Justiz (Registerbehörde) unter der Bezeichnung
 (2) Eine Erhebung oder Verwendung personenbezogener Daten im Auftrag
 durch andere Stellen ist unzulässig.
 
-
 ## § 2 Inhalt und Zweck des Registers
 
 In dem Register werden die in § 4 bezeichneten Daten zu in der
@@ -46,7 +43,6 @@ Durchführung von Strafverfahren effektiver zu gestalten, insbesondere
 die Ermittlung überörtlich handelnder Täter und Mehrfachtäter zu
 erleichtern, das frühzeitige Erkennen von Tat- und Täterverbindungen
 zu ermöglichen und gebotene Verfahrenskonzentrationen zu fördern.
-
 
 ## § 3 Übermittlung von Daten an das Register
 
@@ -70,7 +66,6 @@ eine Gefährdung des Untersuchungszwecks zu besorgen ist und diese
 Gefährdung auf andere Weise, insbesondere durch eine Maßgabe nach
 Absatz 2, nicht abgewendet werden kann. Die Gründe für eine
 Zurückstellung der Übermittlung sind zu dokumentieren.
-
 
 ## § 4 Zu speichernde Daten
 
@@ -192,12 +187,10 @@ Straftatenschlüssels erfolgen.
 (5) Andere als die in den Absätzen 1 bis 4 genannten Daten werden in
 dem Register nicht gespeichert.
 
-
 ## § 5 Berichtigung, Löschung und Sperrung
 
 Die Berichtigung, Löschung und Sperrung der gespeicherten Daten
 bestimmt sich nach § 494 Abs. 1 bis 3 der Strafprozessordnung.
-
 
 ## § 6 Auskunft an Behörden
 
@@ -259,7 +252,6 @@ erteilt.
 (4) Auskunft wird nicht erteilt, soweit eine Maßgabe nach § 3 Abs. 2
 entgegensteht.
 
-
 ## § 7 Automatisiertes Anfrage- und Auskunftsverfahren; automatisiertes Abrufverfahren
 
 (1) Auskunftsersuchen und Auskünfte werden im Wege eines
@@ -272,7 +264,6 @@ Abrufverfahrens treffen.
 Auskunftsersuchen und Auskünfte auch mittels Telefon oder Telefax
 übermittelt werden. Hierbei hat die Registerbehörde sicherzustellen,
 dass die Mitteilung der Auskunft an die ersuchende Stelle erfolgt.
-
 
 ## § 8 Auskunft bei Anfragen mit ähnlichen oder unvollständigen Angaben
 
@@ -309,7 +300,6 @@ dass von der Registerbehörde jeweils die Daten von bis zu 50 weiteren
 unter ähnlichen Identifizierungsdaten gespeicherten Personen
 übermittelt werden.
 
-
 ## § 9 Auskunft an Betroffene
 
 (1) Für den Auskunftsanspruch Betroffener gilt § 19 des
@@ -327,7 +317,6 @@ unterliegen, werden nicht in die Auskunft aufgenommen.
 auf die in Absatz 3 genannten Vorschriften hin. Eine Auskunft darf
 nicht erkennen lassen, ob zu der betreffenden Person Daten gespeichert
 sind, die einer Auskunftssperre unterliegen.
-
 
 ## § 10 Organisatorische und technische Leitlinien und Maßnahmen
 
@@ -352,7 +341,6 @@ zu gestalten, dass sie den Grundsätzen der Aufgabentrennung und der
 Beschränkung des Zugangs zu personenbezogenen Daten auf das zur
 Aufgabenerfüllung Erforderliche entspricht.
 
-
 ## § 11 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am ersten Tag des neunten auf die Verkündung
@@ -360,7 +348,6 @@ folgenden Kalendermonats in Kraft. Gleichzeitig tritt die Allgemeine
 Verwaltungsvorschrift über eine Errichtungsanordnung für das
 länderübergreifende staatsanwaltschaftliche Verfahrensregister vom 7.
 August 1995 (BAnz. S. 9761) außer Kraft.
-
 
 ## Schlussformel
 

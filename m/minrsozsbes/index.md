@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   GBl DDR I: 1990, 1552
 
-
-
 ## (XXXX)
 
 
@@ -80,17 +78,9 @@ Fundstelle
         der Verordnung über die Gewährung von Vorruhestandsgeld vom 8. Februar
         1990 einbezogen.
 
-
-
-
-
-
-
-
 ## Schlußformel
 
 **Minister im Amt des Ministerpräsidenten**
-
 
 ## Anhang EV Auszug aus EinigVtrVbg Art 3 (BGBl. II 1990, 1239)
 

@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1962, 149
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 2 des Gesetzes über die Bildung von Rückstellungen in
@@ -31,10 +29,7 @@ von Geldinstituten in der Rechtsform von Kapitalgesellschaften vom 21.
 April 1953 (Bundesgesetzbl. I S. 127) verordnet die Bundesregierung
 mit Zustimmung des Bundesrates:
 
-
 ## Abschnitt I - Rückstellungen auf Grund des Gesetzes vom 21. Dezember 1960
-
-
 
 ### § 1 Versorgungsverpflichtungen
 
@@ -57,10 +52,6 @@ Dezember 1960 sind Verpflichtungen
 
 4.  zur Erstattung von Leistungen nach § 72 Abs. 11 des Gesetzes zu
     Artikel 131 des Grundgesetzes.
-
-
-
-
 
 ### § 2 Berechnung der Rückstellung
 
@@ -120,7 +111,6 @@ Rechtsverhältnisse von Personen, die am 8. Mai 1945 im öffentlichen
 Dienst standen oder versorgungsberechtigt waren, ergeben, tritt an die
 Stelle des 1. April 1951 der 1. Oktober 1951.
 
-
 ### § 3 Berechnung und Prüfung der Gesamtrückstellung
 
 (1) Haben Aufnahmeeinrichtungen die Mittel für die Erfüllung der
@@ -134,7 +124,6 @@ der Umstellungsrechnungen zuständigen Stellen zu prüfen.
 
 (3) Absatz 1 gilt entsprechend, sofern ein Dritter die Geschäfte eines
 Treuhänders wahrnimmt.
-
 
 ### § 4 Einstellung in die Umstellungsrechnung oder Altbankenrechnung
 
@@ -158,19 +147,13 @@ Rückstellung in die Umstellungsrechnung einzustellen, die auf Grund
 der Zweiten, der Dreiundzwanzigsten oder der Dreiunddreißigsten
 Durchführungsverordnung zum Umstellungsgesetz aufgestellt wird.
 
-
 ## Abschnitt II
-
-
 
 ### § 5
 
 -
 
-
 ## Abschnitt III - Schlußvorschriften
-
-
 
 ### § 6 Berlin-Klausel
 
@@ -200,14 +183,9 @@ Durchführungsverordnung zum Umstellungsgesetz"
     Durchführungsbestimmung Nr. 7 zur Umstellungsergänzungsverordnung vom
     26\. Oktober 1950 (Verordnungsblatt für Groß-Berlin I S. 494)".
 
-
-
-
-
 ### § 7
 
 Diese Verordnung gilt nicht im Saarland.
-
 
 ### § 8
 

@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 12 G v. 8.12.2010 I 1864
 
-
 ## § 1
 
 (1) Im Geschäftsbereich des Bundesministers des Innern wird eine
@@ -38,7 +37,6 @@ keine andere Zuständigkeit gesetzlich festgelegt ist,
 Verwaltungsaufgaben des Bundes, mit deren Durchführung es vom
 Bundesminister des Innern oder mit seiner Zustimmung von der sachlich
 zuständigen obersten Bundesbehörde beauftragt wird.
-
 
 ## § 2
 
@@ -77,11 +75,9 @@ in Absatz 2 Nr. 1 und 2 bezeichneten Aufgaben wahrnehmen.
 (4) Das Auswärtige Amt ist zu fachlichen Weisungen berechtigt, soweit
 es sich um Aufgaben handelt, die auswärtige Angelegenheiten berühren.
 
-
 ## § 3
 
 -
-
 
 ## § 4
 
@@ -92,18 +88,15 @@ Wiedergutmachung nationalsozialistischen Unrechts für Angehörige des
 öffentlichen Dienstes in der Fassung vom 23. Dezember 1955
 (Bundesgesetzbl. I S. 820, 822).
 
-
 ## § 5
 
 Das Bundesverwaltungsamt ist für Staatsangehörigkeitsangelegenheiten
 einer Person zuständig, die ihren gewöhnlichen Aufenthalt im Ausland
 hat.
 
-
 ## § 6
 
 -
-
 
 ## § 7
 
@@ -112,7 +105,6 @@ nach dem Gesetz über die Erhaltung der Gräber der Opfer von Krieg und
 Gewaltherrschaft vom 1. Juli 1965 (Bundesgesetzbl. I S. 589) vom Bund
 aufzubringenden Kosten.
 
-
 ## § 8
 
 Soweit im Bundesverwaltungsamt auf Grund des § 1 Abs. 2 oder Abs. 3
@@ -120,23 +112,19 @@ Aufgaben aus einem anderen Geschäftsbereich als dem des
 Bundesministers des Innern erledigt werden, steht das fachliche
 Weisungsrecht der sachlich zuständigen obersten Bundesbehörde zu.
 
-
 ## § 9
 
 -
 
-
 ## § 10
 
 -
-
 
 ## § 11
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
 im Land Berlin.
-
 
 ## § 12
 

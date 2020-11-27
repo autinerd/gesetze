@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1983, 611
 
-
-
 ## (XXXX)
 
 (1) Auf Grund des § 6 des Gesetzes über die Ausprägung von
@@ -75,11 +73,9 @@ Eichenblattornament mit zwei Eicheln eingeprägt.
 
 (10) Dies wird namens der Bundesregierung bekanntgemacht.
 
-
 ## Schlußformel
 
 Der Bundesminister der Finanzen
-
 
 ## (XXXX) Abbildung der Münze
 

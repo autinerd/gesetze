@@ -27,7 +27,6 @@ Verkehrsteilnehmer (ABl. EG Nr. L 124 S. 1), zuletzt geändert durch
 die Richtlinie 98/76/EG des Rates vom 1. Oktober 1998 (ABl. EG Nr. L
 277 S. 17).
 
-
 ## Eingangsformel
 
 Auf Grund
@@ -49,15 +48,11 @@ Verkehr, Bau- und Wohnungswesen, auf Grund des § 22 Abs. 2 des
 Güterkraftverkehrsgesetzes im Einvernehmen mit dem Bundesministerium
 der Finanzen und dem Bundesministerium für Wirtschaft und Technologie:
 
-
 ## Art 1
 
 -
 
-
 ## (XXXX) Art 2 und 3
-
-
 
 ## Art 4 In- und Außerkrafttreten, Erlass der neuen Prüfungsordnung
 
@@ -69,7 +64,6 @@ tritt diese Verordnung am 1. Juli 2000 in Kraft.
 (3) Die Industrie- und Handelskammern erlassen bis zum 31. Dezember
 2000 die in Artikel 1 § 4 Abs.7 dieser Verordnung genannte
 Prüfungsordnung.
-
 
 ## Schlussformel
 

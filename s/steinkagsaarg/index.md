@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1957, 1103
 
-
-
 ## § 1
 
 Als neuer Rechtsträger für die Steinkohlenbergwerke im Saarland
@@ -27,7 +25,6 @@ Aktiengesellschaft mit dem Sitz in Saarbrücken (Gesellschaft) zu
 errichten. Das Saarland ist berechtigt, sich an der Errichtung der
 Gesellschaft durch Übernahme von Aktien in Höhe von 26 vom Hundert des
 Grundkapitals zu beteiligen.
-
 
 ## § 2
 
@@ -45,7 +42,6 @@ Gesellschaft übernommen werden, abgesehen von den in Artikel 87 Abs. 1
 des Saarvertrags von der Übernahme ausgenommenen Lieferverpflichtungen
 für Kohle.
 
-
 ## § 3
 
 Die gemäß § 2 eingebrachten Gegenstände gehen kraft Gesetzes auf die
@@ -60,7 +56,6 @@ Schuldübergang nicht berührt; § 418 des Bürgerlichen Gesetzbuchs
 findet keine Anwendung. Im Zeitpunkt der Eintragung der Gesellschaft
 in das Handelsregister erlischt das Unternehmen "Saarbergwerke".
 
-
 ## § 4
 
 Bei einem Antrag auf Berichtigung des Grundbuchs durch Eintragung der
@@ -71,13 +66,11 @@ genügt zum Nachweis, daß das Grundstück oder das Recht auf Grund des §
 übergegangen ist, eine schriftliche Erklärung der Gesellschaft, die
 nicht der Form des § 29 der Grundbuchordnung bedarf.
 
-
 ## § 5
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
 im Land Berlin.
-
 
 ## § 6
 

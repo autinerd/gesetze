@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 25 V v. 13.12.2011 I 2720
 
-
 ## Eingangsformel
 
 Auf Grund des § 6 Abs. 1 Nr. 13 und der §§ 9 und 11 Abs. 2 des
@@ -29,14 +28,12 @@ Grund des § 10 Abs. 1 und des § 12 des Gesetzes zur Durchführung der
 gemeinsamen Marktorganisationen wird im Einvernehmen mit den
 Bundesministern der Finanzen und für Wirtschaft verordnet:
 
-
 ## § 1 Anwendungsbereich
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung der
 Rechtsakte der Europäischen Gemeinschaften oder der Europäischen Union
 über die Gewährung einer Beihilfe für die verbilligte Abgabe von Milch
 und bestimmten Milcherzeugnissen an Schüler in Schulen (Schulmilch).
-
 
 ## § 2 Beihilfeberechtigung
 
@@ -48,7 +45,6 @@ von Milch und bestimmten Milcherzeugnissen an Schüler in Schulen (ABl.
 L 183 vom 11.7.2008, S. 17) gilt auch für Schüler während des
 Aufenthalts in Behindertenheimen und Schullandheimen an den
 Unterrichtstagen.
-
 
 ## § 3 Beihilfefähige Erzeugnisse
 
@@ -68,7 +64,6 @@ werden.
 (3) Die in Anhang I Kategorie I Buchstabe a und b der Verordnung (EG)
 Nr. 657/2008 genannten Produkte können erhitzt werden, bevor sie zum
 Direktverzehr verwendet werden.
-
 
 ## § 4 Zugelassener Antragsteller
 
@@ -105,7 +100,6 @@ Förderung des Schulmilchabsatzes durch Information zu ergreifen.
 
 (4) (weggefallen)
 
-
 ## § 5 Gewährung der Beihilfe
 
 (1) Die Beihilfe wird von der nach Landesrecht zuständigen Stelle
@@ -128,7 +122,6 @@ Beihilfe einen Vorschuß, wenn die Voraussetzungen dafür nach den in §
 
 (5)
 
-
 ## § 6 Aufzeichnungs- und Aufbewahrungspflichten
 
 Der Beihilfeempfänger hat ordnungsgemäß Bücher zu führen und die zum
@@ -139,7 +132,6 @@ Der Beihilfeempfänger ist verpflichtet, die Bücher und Aufzeichnungen
 sowie die sich darauf beziehenden geschäftlichen Belege sieben Jahre
 lang aufzubewahren, soweit nicht längere Aufbewahrungsfristen nach
 anderen Vorschriften bestehen.
-
 
 ## § 7 Duldungs- und Mitwirkungspflichten
 
@@ -157,7 +149,6 @@ erforderlichen Angaben auszudrucken.
 die schulischen Einrichtungen, sofern diese nicht zugelassene
 Antragsteller sind.
 
-
 ## § 8 Höchstpreise, Mitteilungspflichten
 
 Die nach Landesrecht zuständige Stelle setzt für beihilfefähige
@@ -165,11 +156,9 @@ Erzeugnisse einen Höchstpreis fest. Sie übermittelt die jeweils
 gültigen Höchstpreise einschließlich einer Begründung an das
 Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz.
 
-
 ## § 9 (weggefallen)
 
 -
-
 
 ## § 10 Inkrafttreten
 
@@ -177,11 +166,9 @@ Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz.
 
 (2) u. (3) (weggefallen)
 
-
 ## Schlußformel
 
 Der Bundesminister für Ernährung, Landwirtschaft und Forsten
-
 
 ## Anlage
 

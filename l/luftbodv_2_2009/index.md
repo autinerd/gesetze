@@ -17,7 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BAnz: 2009, Nr 56, 1327
 
-
 ## Eingangsformel
 
 Auf Grund des § 32 Absatz 1 Satz 1 Nummer 1, Absatz 3 Satz 2 und 3
@@ -28,9 +27,7 @@ Bekanntmachung vom 10. Mai 2007 (BGBl. I S. 698) in Verbindung mit §
 Juli 1998 (BGBl. I S. 1989) geändert worden ist, verordnet das
 Luftfahrt-Bundesamt:
 
-
 ## Abschnitt 1 - Allgemeine Vorschriften
-
 
 ### § 1 Anwendungsbereich
 
@@ -58,7 +55,6 @@ Verordnung als auch des Anhangs III der Verordnung (EWG) Nr. 3922/91
 eingesetzt werden, sind die im Geltungsbereich dieser Verordnung
 geleisteten Dienststunden auf die Höchstwerte gemäß OPS 1.1100
 anzurechnen.
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -121,9 +117,7 @@ und 8 Uhr Ortszeit.
 Ortszeit beginnt und den die Besatzungsmitglieder an der Heimatbasis
 verbringen können.
 
-
 ## Abschnitt 2 - Pflichten des Luftfahrtunternehmers
-
 
 ### § 3 Festlegung von höchstzulässigen Dienstzeiten, Flugdienstzeiten, Blockzeiten und Ruhezeiten
 
@@ -155,7 +149,6 @@ Flugdienstzeiten so geplant werden, dass die Besatzungsmitglieder
 ausreichend ermüdungsfrei bleiben können, um ihren Dienst unter allen
 Umständen mit befriedigendem Sicherheitsniveau ausüben zu können.
 
-
 ### § 4 Führung von Aufzeichnungen
 
 (1) Der Unternehmer hat fortlaufende Aufzeichnungen über die
@@ -181,9 +174,7 @@ haben diese einen Unternehmer für die Aufzeichnung sämtlicher Zeiten
 zu bestimmen. Die Aufsichtsbehörde kann einen Unternehmer dazu
 bestimmen.
 
-
 ## Abschnitt 3 - Dienstzeiten und Ortstage
-
 
 ### § 5 Dienstzeiten
 
@@ -200,7 +191,6 @@ gleichmäßig über das Jahr verteilt werden.
 
 (3) Absatz 2 gilt nicht für Selbstständige.
 
-
 ### § 6 Ortstage
 
 (1) Unbeschadet des gesetzlichen Jahresurlaubs erhalten die
@@ -216,9 +206,7 @@ Anzahl der Ortstage anteilig gekürzt werden.
 
 (3) Die Absätze 1 und 2 gelten nicht für Selbstständige.
 
-
 ## Abschnitt 4 - Flugdienstzeit
-
 
 ### § 7 Zusammensetzung der Flugdienstzeit
 
@@ -253,7 +241,6 @@ festgesetzt, gilt der geänderte Zeitpunkt als geplanter Beginn der
 Flugdienstzeit, wenn das Besatzungsmitglied rechtzeitig vor Antritt
 des zunächst geplanten Flugdienstes von der Änderung in Kenntnis
 gesetzt wurde.
-
 
 ### § 8 Zulässige Flugdienstzeiten der Besatzungsmitglieder
 
@@ -300,7 +287,6 @@ Flugdienstzeit auf elf Stunden und 45 Minuten zu begrenzen.
 210 Stunden, innerhalb eines Kalenderjahres 1 800 Stunden nicht
 überschreiten.
 
-
 ### § 9 Verlängerung der Flugdienstzeit bei verstärkter Besatzung
 
 Die Aufsichtsbehörde kann auf schriftlichen Antrag eine zweimalige
@@ -315,7 +301,6 @@ Luftfahrzeug führen und bedienen. Für die Flugbegleiter sind
 angemessene Arbeitspausen während des Fluges vorzusehen. Für diesen
 Zweck sind Ruhesitze vorzuhalten. Im Übrigen gilt § 18 Absatz 3 und 4
 entsprechend.
-
 
 ### § 10 Unterbrochene Flugdienstzeit
 
@@ -353,7 +338,6 @@ nach § 15 Absatz 1 nicht eingehalten werden, ist eine Ruhezeit von
 mindestens zwölf Stunden unmittelbar nach Beendigung des Flugdienstes
 zu gewähren.
 
-
 ### § 11 Vorzeitige Beendigung
 
 Ist aufgrund besonderer Umstände bei den Besatzungsmitgliedern eine
@@ -363,15 +347,12 @@ rechtfertigt, hat der verantwortliche Luftfahrzeugführer für eine
 vorzeitige Beendigung des Flugdienstes der Besatzungsmitglieder zu
 sorgen.
 
-
 ## Abschnitt 5 - Blockzeit, Positionierung, Bereitschaftszeit
-
 
 ### § 12 Blockzeit
 
 Die Blockzeiten jedes Besatzungsmitgliedes dürfen 900 Stunden während
 eines Kalenderjahres nicht überschreiten.
-
 
 ### § 13 Positionierung
 
@@ -379,7 +360,6 @@ Die für die Positionierung aufgewendete Zeit gilt als Dienstzeit. Die
 Positionierung nach dem Ende der Ruhezeit, aber vor dem Dienst an Bord
 gilt als Teil der Flugdienstzeit, wird aber nicht als Flugabschnitt
 gezählt.
-
 
 ### § 14 Bereitschaftszeit
 
@@ -411,9 +391,7 @@ Gelegenheit zum Schlaf hat, kann vom Unternehmer als Ruhezeit
 angerechnet werden. Gleiches gilt für eine entsprechende
 Bereitschaftszeit vor einer Ruhezeit.
 
-
 ## Abschnitt 6 - Ruhezeit
-
 
 ### § 15 Ruhezeiten der Besatzungsmitglieder
 
@@ -455,7 +433,6 @@ Bereitstellung ruhig gelegener Räume mit Schlafgelegenheit zu sorgen.
 anzuweisen, während der Ruhezeit Tätigkeiten zu unterlassen, die dem
 Zweck der Ruhezeit entgegenstehen.
 
-
 ### § 16 Ruhezeit – Berücksichtigung von Zeitzonenunterschieden
 
 Besteht zwischen dem Ort des Antritts des Flugdienstes und dem Ort der
@@ -476,7 +453,6 @@ des Zeitzonenunterschiedes ist die Winterzeit der jeweiligen
 Einsatzorte zugrunde zu legen. Die Sätze 2 bis 5 gelten nach einer
 Rückkehr zur Heimatbasis als nicht diensttuendes Besatzungsmitglied
 entsprechend.
-
 
 ### § 17 Zeitüberschreitungen, Verkürzung von Ruhezeiten
 
@@ -511,9 +487,7 @@ Aufsichtsbehörde innerhalb von 30 Tagen, unter Angabe der Gründe,
 schriftlich anzuzeigen. Die Aufzeichnungen sind vom Unternehmer
 mindestens drei Monate lang aufzubewahren.
 
-
 ## Abschnitt 7 - Ausnahmeregelungen
-
 
 ### § 18 Verlängerung der Flugdienstzeit und Verkürzung der Ruhezeit in besonderen Fällen
 
@@ -570,7 +544,6 @@ Luftverkehrs ausgeschlossen ist.
 (5) Die Abweichungen können im Einzelfall oder allgemein zugelassen,
 mit Auflagen verbunden und befristet werden.
 
-
 ### § 19 Ausnahmen für besondere Flüge
 
 (1) Die Aufsichtsbehörde kann für Flüge zum Zwecke der Forschung, für
@@ -594,7 +567,6 @@ Verordnung zulassen, wenn:
 
 (2) Die Ausnahmen können im Einzelfall oder allgemein zugelassen, mit
 Auflagen verbunden und befristet werden.
-
 
 ### § 20 Abweichungen bei besonderen Belastungen
 
@@ -626,9 +598,7 @@ angemessenen Ruhezeiten geringere Flugdienstzeiten oder längere
 Ruhezeiten für die Besatzungsmitglieder festlegen, soweit dies aus
 Gründen der Sicherheit des Luftverkehrs erforderlich ist.
 
-
 ## Abschnitt 8 - Abweichende Regelungen für Besatzungsmitglieder, die in Hubschraubern des Rettungsdienstes eingesetzt werden
-
 
 ### § 21 Begrenzung der Flugdienstzeiten im Hubschrauberrettungsdienst
 
@@ -678,7 +648,6 @@ Flugdienstzeit darf in Abweichung zu § 17 zwei Stunden nicht
 mehr als elf Stunden ist eine Ruhezeit von mindestens zwölf Stunden zu
 gewähren.
 
-
 ### § 22 Dienstperioden und Ruhezeiten im Hubschrauberrettungsdienst
 
 (1) Sofern die Aufsichtsbehörde abweichende Flugdienstzeiten nach § 21
@@ -718,9 +687,7 @@ nach der Dienstperiode auf 24 Stunden.
 
 (6) Notwendige Überprüfungsflüge können Teil einer Dienstperiode sein.
 
-
 ## Abschnitt 9 - Schlussvorschriften
-
 
 ### § 23 Übergangsregelungen
 
@@ -733,7 +700,6 @@ darf nur erteilt werden, wenn eine erhöhte Belastung der Besatzung
 ausgeglichen wird und eine Gefahr für die Sicherheit des Luftverkehrs
 ausgeschlossen ist. Bei der Prüfung des Antrags sind die Maßgaben von
 § 18 Absatz 4 entsprechend zu berücksichtigen.
-
 
 ### § 24 Inkrafttreten, Außerkrafttreten
 

@@ -15,13 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1765
 
-
 ## Eingangsformel
 
 Auf Grund des § 20 Absatz 1 und 2 sowie des § 22 Absatz 2 Satz 2 des
 Nationalen-Waffenregister-Gesetzes vom 25. Juni 2012 (BGBl. I S. 1366)
 verordnet das Bundesministerium des Innern:
-
 
 ## § 1 Inhalt der Datensätze
 
@@ -36,7 +34,6 @@ ab wann der geänderte DSWaffe anzuwenden ist.
 Bundesverwaltungsamt, Barbarastraße 1, 50735 Köln, zu beziehen. Die
 Bekanntmachungen sind beim Bundesarchiv, Potsdamer Straße 1, 56075
 Koblenz, jedermann zugänglich und archivmäßig gesichert niedergelegt.
-
 
 ## § 2 Datenübermittlung an die Registerbehörde
 
@@ -70,7 +67,6 @@ Barbarastraße 1, 50735 Köln, zu beziehen. Die Bekanntmachungen sind
 beim Bundesarchiv, Potsdamer Straße 1, 56075 Koblenz, jedermann
 zugänglich und archivmäßig gesichert niedergelegt.
 
-
 ## § 3 Verfahren zur Datenübermittlung an die Registerbehörde
 
 (1) Liegt zu einer Person noch kein Datensatz im Nationalen
@@ -95,7 +91,6 @@ Waffenregister-Gesetzes zu einer Person mit den gespeicherten Angaben
 zu einer anderen Person überein oder weichen nur geringfügig von
 dieser ab, übermittelt die Waffenbehörde an die Registerbehörde einen
 Hinweis, dass es sich um verschiedene Personen handelt.
-
 
 ## § 4 Zulassung zum automatisierten Abrufverfahren
 
@@ -134,14 +129,12 @@ Gesetzes durch programmtechnische Vorkehrungen, dass keine Daten
 zweifelsfrei feststeht. Sie dokumentiert für sechs Monate Anfragen
 ohne Kennung und Anfragen mit einer fehlerhaften Kennung.
 
-
 ## § 5 Datenabruf im automatisierten Verfahren
 
 Die Datenübermittlung durch Abruf im automatisierten Verfahren erfolgt
 unter Nutzung des Datenaustauschstandards XWaffe oder über die von der
 Registerbehörde bereitgestellte Portalanwendung. § 2 Absatz 1 und 3
 gilt entsprechend.
-
 
 ## § 6 Auskunft bei Anfragen mit unvollständigen Angaben
 
@@ -151,7 +144,6 @@ zugeordnet werden, übermittelt die Registerbehörde an die ersuchende
 oder abrufende Stelle zur Prüfung der Identität der Person oder Waffe
 nach Maßgabe der Angaben die jeweils nach § 11 Absatz 5 Nummer 1, 2, 3
 oder 4 des Nationalen-Waffenregister-Gesetzes bezeichneten Daten.
-
 
 ## § 7 Datenschutz und Datensicherheit
 
@@ -186,7 +178,6 @@ so zu gestalten, dass sie den Grundsätzen der Aufgabentrennung und der
 Erforderlichkeit entsprechen; insbesondere ist der Zugang zu
 personenbezogenen Daten nur so weit gestattet, wie es der
 Aufgabenerfüllung dient.
-
 
 ## § 8 Übergangsbestimmung
 
@@ -224,11 +215,9 @@ Voraussetzungen nach § 2 Absatz 1, können die Daten im Einvernehmen
 mit der Registerbehörde auch durch Übersendung eines Datenträgers
 übermittelt werden. Die Daten sind dabei zu verschlüsseln.
 
-
 ## § 9 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Schlussformel
 

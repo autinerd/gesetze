@@ -19,14 +19,12 @@ Fundstelle
 Geändert durch
 :   § 16 G v. 22.1.1964 I 33
 
-
 ## Eingangsformel
 
 Auf Grund der §§ 7 und 9 der Dreiunddreißigsten
 Durchführungsverordnung zum Umstellungsgesetz
 (Bausparkassenverordnung) wird im Einvernehmen mit den übrigen
 Aufsichtsbehörden und der Bank deutscher Länder folgendes angeordnet:
-
 
 ## § 1
 
@@ -37,7 +35,6 @@ zum Umstellungsgesetz gelten auch für Bausparkassen, die am 21. Juni
 französischen Sektor von Groß-Berlin keinen Sitz, aber im
 Währungsgebiet eine Hauptverwaltung hatten, soweit es sich um
 Rechtsverhältnisse handelt, die unter § 2 dieser Anordnung fallen.
-
 
 ## § 2
 
@@ -54,7 +51,6 @@ begründet. Das gleiche gilt für Verbindlichkeiten, die gegenüber einer
 natürlichen Person bestehen, die nach dem 21. Juni 1948 im Wege der
 Erbfolge Berechtigter geworden ist oder wird und die Voraussetzungen
 des Satzes 1 erfüllt.
-
 
 ## § 3
 
@@ -94,7 +90,6 @@ der Verbindlichkeiten, für die sie nach § 2 im Währungsgebiet in
 Anspruch genommen werden können, zu den Gesamtverbindlichkeiten, die
 am 20. Juni 1948 bestanden haben.
 
-
 ## § 4
 
 (1) Bausparkassen der in § 1 bezeichneten Art haben an Stelle eines
@@ -105,7 +100,6 @@ werden können, auf den 20. Juni 1948 in Reichsmark aufzustellen.
 (2) Die Aufstellung der Vermögenswerte und Verpflichtungen nach Absatz
 1 ist im Währungsgebiet nach den für den Jahresabschluß geltenden
 Vorschriften zu veröffentlichen.
-
 
 ## § 5
 

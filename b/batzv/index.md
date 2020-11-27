@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 2
 
-
 ## Eingangsformel
 
 Auf Grund des § 93 Absatz 5 des Bundesbeamtengesetzes, der durch
@@ -24,14 +23,12 @@ Artikel 11 Nummer 2 Buchstabe a des Gesetzes vom 19. November 2010
 Bundesministerium des Innern im Einvernehmen mit dem Bundesministerium
 der Finanzen:
 
-
 ## § 1 Festlegung der Restrukturierungs- und Stellenabbaubereiche
 
 Restrukturierungs- und Stellenabbaubereiche nach § 93 Absatz 3 Satz 1
 Nummer 4 des Bundesbeamtengesetzes legt die oberste Dienstbehörde im
 Einvernehmen mit dem Bundesministerium der Finanzen und dem
 Haushaltsausschuss des Deutschen Bundestages fest.
-
 
 ## § 2 Ermittlung der Quote
 
@@ -62,7 +59,6 @@ für die Ermittlung der Quote ist der 30. Juni des Vorjahres.
 Beamten, denen Altersteilzeit bewilligt werden kann, Bruchteile, so
 wird auf ganze Zahlen abgerundet.
 
-
 ## § 3 Antrag
 
 Altersteilzeit kann frühestens ein Jahr vor Erfüllung der
@@ -70,7 +66,6 @@ Voraussetzungen nach § 93 Absatz 3 oder Absatz 4 des
 Bundesbeamtengesetzes und spätestens drei Monate vor Beginn der
 Altersteilzeit beantragt werden. Sie kann entweder im Blockmodell oder
 im Teilzeitmodell bis zum Eintritt in den Ruhestand beantragt werden.
-
 
 ## § 4 Bewilligung
 
@@ -93,14 +88,12 @@ Zeitpunkte zu entscheiden, zu denen die persönlichen
 Bewilligungsvoraussetzungen erfüllt sind, hilfsweise in der
 Reihenfolge des Eingangs der Anträge.
 
-
 ## § 5 Übergangsvorschrift
 
 Soweit vor dem Inkrafttreten dieser Verordnung Stellenabbaubereiche
 auf Grund des § 93 Absatz 1 Nummer 1 Buchstabe c des
 Bundesbeamtengesetzes festgelegt worden sind, gelten diese
 Festlegungen fort.
-
 
 ## § 6 Inkrafttreten
 

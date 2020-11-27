@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 1920
 
-
 ## (XXXX)
 
 Der Bundesminister der Verteidigung hat am 13. August 2008 den Erlass
@@ -33,7 +32,6 @@ I S. 2053) genehmige ich diese Neufassung.
 Das Bundesministerium des Innern veröffentlicht die Neufassung des
 Erlasses über die Stiftung des Ehrenzeichens der Bundeswehr im
 Bundesanzeiger.
-
 
 ## Schlussformel
 

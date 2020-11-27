@@ -18,17 +18,14 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 G v. 1.6.2012 I 1224
 
-
 ## § 1
 
 Deutscher im Sinne dieses Gesetzes ist, wer die deutsche
 Staatsangehörigkeit besitzt.
 
-
 ## § 2
 
 (weggefallen)
-
 
 ## § 3
 
@@ -65,7 +62,6 @@ Staatsangehörigkeit wirkt auf den Zeitpunkt zurück, zu dem bei
 Behandlung als Staatsangehöriger der Erwerb der Staatsangehörigkeit
 angenommen wurde. Er erstreckt sich auf Abkömmlinge, die seither ihre
 Staatsangehörigkeit von dem nach Satz 1 Begünstigten ableiten.
-
 
 ## § 4
 
@@ -119,7 +115,6 @@ beide Elternteile deutsche Staatsangehörige, so tritt die Rechtsfolge
 des Satzes 1 nur ein, wenn beide die dort genannten Voraussetzungen
 erfüllen.
 
-
 ## § 5
 
 Durch die Erklärung, deutscher Staatsangehöriger werden zu wollen,
@@ -136,10 +131,6 @@ und einer ausländischen Mutter die deutsche Staatsangehörigkeit, wenn
 
 3.  die Erklärung vor der Vollendung des 23. Lebensjahres abgegeben wird.
 
-
-
-
-
 ## § 6
 
 Mit der nach den deutschen Gesetzen wirksamen Annahme als Kind durch
@@ -148,14 +139,12 @@ das achtzehnte Lebensjahr noch nicht vollendet hat, die
 Staatsangehörigkeit. Der Erwerb der Staatsangehörigkeit erstreckt sich
 auf die Abkömmlinge des Kindes.
 
-
 ## § 7
 
 Spätaussiedler und die in den Aufnahmebescheid einbezogenen
 Familienangehörigen erwerben mit der Ausstellung der Bescheinigung
 nach § 15 Abs. 1 oder Abs. 2 des Bundesvertriebenengesetzes die
 deutsche Staatsangehörigkeit.
-
 
 ## § 8
 
@@ -183,7 +172,6 @@ Inland hat, kann auf seinen Antrag eingebürgert werden, wenn er
 Gründen des öffentlichen Interesses oder zur Vermeidung einer
 besonderen Härte abgesehen werden.
 
-
 ## § 9
 
 (1) Ehegatten oder Lebenspartner Deutscher sollen unter den
@@ -210,7 +198,6 @@ Antragsteller die Sorge für die Person eines Kindes aus der Ehe
 zusteht, das bereits die deutsche Staatsangehörigkeit besitzt.
 
 (3) (weggefallen)
-
 
 ## § 10
 
@@ -317,7 +304,6 @@ Basis der Themen des Orientierungskurses nach § 43 Abs. 3 Satz 1 des
 Aufenthaltsgesetzes durch Rechtsverordnung, die nicht der Zustimmung
 des Bundesrates bedarf, zu regeln.
 
-
 ## § 11
 
 Die Einbürgerung ist ausgeschlossen, wenn
@@ -346,7 +332,6 @@ deren Familienangehörige, die eine Aufenthaltserlaubnis auf Grund des
 Abkommens vom 21. Juni 1999 zwischen der Europäischen Gemeinschaft und
 ihren Mitgliedstaaten einerseits und der Schweizerischen
 Eidgenossenschaft andererseits über die Freizügigkeit besitzen.
-
 
 ## § 12
 
@@ -395,7 +380,6 @@ Mitgliedstaates der Europäischen Union oder der Schweiz besitzt.
 (3) Weitere Ausnahmen von der Voraussetzung des § 10 Abs. 1 Satz 1 Nr.
 4 können nach Maßgabe völkerrechtlicher Verträge vorgesehen werden.
 
-
 ## § 12a
 
 (1) Bei der Einbürgerung bleiben außer Betracht:
@@ -443,7 +427,6 @@ Jugendgerichtsgesetzes ausgesetzt ist.
 Ermittlungs- und Strafverfahren sind im Einbürgerungsantrag
 aufzuführen.
 
-
 ## § 12b
 
 (1) Der gewöhnliche Aufenthalt im Inland wird durch Aufenthalte bis zu
@@ -466,14 +449,12 @@ Betracht, wenn sie darauf beruhen, dass der Ausländer nicht
 rechtzeitig die erstmals erforderliche Erteilung oder die Verlängerung
 des Aufenthaltstitels beantragt hat.
 
-
 ## § 13
 
 Ein ehemaliger Deutscher und seine minderjährigen Kinder, die ihren
 gewöhnlichen Aufenthalt im Ausland haben, können auf Antrag
 eingebürgert werden, wenn sie den Erfordernissen des § 8 Abs. 1 Nr. 1
 und 2 entsprechen.
-
 
 ## § 14
 
@@ -482,11 +463,9 @@ unter den sonstigen Voraussetzungen der §§ 8 und 9 eingebürgert
 werden, wenn Bindungen an Deutschland bestehen, die eine Einbürgerung
 rechtfertigen.
 
-
 ## § 15
 
 (weggefallen)
-
 
 ## § 16
 
@@ -496,7 +475,6 @@ Vor der Aushändigung ist folgendes feierliches Bekenntnis abzugeben:
 "Ich erkläre feierlich, dass ich das Grundgesetz und die Gesetze der
 Bundesrepublik Deutschland achten und alles unterlassen werde, was ihr
 schaden könnte."; § 10 Abs. 1 Satz 2 gilt entsprechend.
-
 
 ## § 17
 
@@ -541,14 +519,12 @@ Gesetzbuches. Satz 1 findet keine Anwendung bei Anfechtung der
 Vaterschaft nach § 1600 Abs. 1 Nr. 5 und Abs. 3 des Bürgerlichen
 Gesetzbuches.
 
-
 ## § 18
 
 Ein Deutscher wird auf seinen Antrag aus der Staatsangehörigkeit
 entlassen, wenn er den Erwerb einer ausländischen Staatsangehörigkeit
 beantragt und ihm die zuständige Stelle die Verleihung zugesichert
 hat.
-
 
 ## § 19
 
@@ -561,10 +537,7 @@ der Vater oder die Mutter die Entlassung für sich und zugleich kraft
 elterlicher Sorge für ein Kind beantragt und dem Antragsteller die
 Sorge für die Person dieses Kindes zusteht.
 
-
 ## (XXXX) §§ 20 und 21 (weggefallen)
-
-
 
 ## § 22
 
@@ -580,22 +553,16 @@ Die Entlassung darf nicht erteilt werden
     oder die von ihm bezeichnete Stelle erklärt hat, daß gegen die
     Entlassung Bedenken nicht bestehen.
 
-
-
-
-
 ## § 23
 
 Die Entlassung wird wirksam mit der Aushändigung der von der
 zuständigen Verwaltungsbehörde ausgefertigten Entlassungsurkunde.
-
 
 ## § 24
 
 Die Entlassung gilt als nicht erfolgt, wenn der Entlassene die ihm
 zugesicherte ausländische Staatsangehörigkeit nicht innerhalb eines
 Jahres nach der Aushändigung der Entlassungsurkunde erworben hat.
-
 
 ## § 25
 
@@ -621,7 +588,6 @@ hat, ist insbesondere zu berücksichtigen, ob er fortbestehende
 Bindungen an Deutschland glaubhaft machen kann.
 
 (3) (weggefallen)
-
 
 ## § 26
 
@@ -649,7 +615,6 @@ der von der Genehmigungsbehörde ausgefertigten Verzichtsurkunde.
 
 (4) Für Minderjährige gilt § 19 entsprechend.
 
-
 ## § 27
 
 Ein minderjähriger Deutscher verliert mit der nach den deutschen
@@ -661,7 +626,6 @@ nach Satz 1 sich auf seine Abkömmlinge erstreckt. Der Verlust nach
 Satz 1 oder Satz 2 tritt nicht ein, wenn der Angenommene oder seine
 Abkömmlinge mit einem deutschen Elternteil verwandt bleiben.
 
-
 ## § 28
 
 Ein Deutscher, der auf Grund freiwilliger Verpflichtung ohne eine
@@ -671,7 +635,6 @@ bewaffneten Verband eines ausländischen Staates, dessen
 Staatsangehörigkeit er besitzt, eintritt, verliert die deutsche
 Staatsangehörigkeit. Dies gilt nicht, wenn er auf Grund eines
 zwischenstaatlichen Vertrages dazu berechtigt ist.
-
 
 ## § 29
 
@@ -722,7 +685,6 @@ Zustimmung des Bundesrates Vorschriften über das Verfahren zur
 Feststellung des Fortbestands oder Verlusts der deutschen
 Staatsangehörigkeit erlassen.
 
-
 ## § 30
 
 (1) Das Bestehen oder Nichtbestehen der deutschen Staatsangehörigkeit
@@ -746,7 +708,6 @@ Staatsangehörigkeitsausweis aus. Auf Antrag stellt die
 Staatsangehörigkeitsbehörde eine Bescheinigung über das Nichtbestehen
 der deutschen Staatsangehörigkeit aus.
 
-
 ## § 31
 
 Staatsangehörigkeitsbehörden und Auslandsvertretungen dürfen
@@ -759,7 +720,6 @@ auch Angaben erhoben, gespeichert oder verändert und genutzt werden,
 die sich auf die politischen, rassischen oder religiösen Gründe
 beziehen, wegen derer zwischen dem 30. Januar 1933 und dem 8. Mai 1945
 die deutsche Staatsangehörigkeit entzogen worden ist.
-
 
 ## § 32
 
@@ -782,7 +742,6 @@ Staatsangehörigkeitsbehörde zu übermitteln.
 (2) Die Übermittlung personenbezogener Daten nach Absatz 1
 unterbleibt, soweit besondere gesetzliche Verwendungsregelungen
 entgegenstehen.
-
 
 ## § 33
 
@@ -841,7 +800,6 @@ Staatsangehörigkeit weiterhin besitzt, verloren, aufgegeben oder nicht
 erworben hat, der zuständigen Meldebehörde oder Auslandsvertretung die
 in Absatz 2 genannten Daten unverzüglich mit.
 
-
 ## § 34
 
 (1) Für die Durchführung des Optionsverfahrens nach § 29 hat die
@@ -885,11 +843,9 @@ Wegzuges ins Ausland und, soweit bekannt, die neue Anschrift im
 Ausland zu übermitteln. Für den Fall des Zuzuges aus dem Ausland gilt
 Satz 1 entsprechend.
 
-
 ## § 35
 
 (weggefallen)
-
 
 ## § 35
 
@@ -915,7 +871,6 @@ Dabei ist insbesondere eine Beteiligung des Dritten an der arglistigen
 Täuschung, Drohung oder Bestechung oder an den vorsätzlich unrichtigen
 oder unvollständigen Angaben gegen seine schutzwürdigen Belange,
 insbesondere auch unter Beachtung des Kindeswohls, abzuwägen.
-
 
 ## § 36
 
@@ -979,7 +934,6 @@ Einzelfällen, vom Statistischen Bundesamt und den statistischen Ämtern
 der Länder Tabellen mit statistischen Ergebnissen übermittelt werden,
 auch soweit Tabellenfelder nur einen einzigen Fall ausweisen.
 
-
 ## § 37
 
 (1) § 80 Abs. 1 und 3 sowie § 82 des Aufenthaltsgesetzes gelten
@@ -992,7 +946,6 @@ Antragsteller, die das 16. Lebensjahr vollendet haben. Die
 Verfassungsschutzbehörden unterrichten die anfragende Stelle
 unverzüglich nach Maßgabe der insoweit bestehenden besonderen
 gesetzlichen Verwendungsregelungen.
-
 
 ## § 38
 
@@ -1022,16 +975,12 @@ Entlassung 51 Euro, für die Beibehaltungsgenehmigung 255 Euro, für die
 Staatsangehörigkeitsurkunde und für sonstige Bescheinigungen 51 Euro
 nicht übersteigen.
 
-
 ## § 38a
 
 Eine Ausstellung von Urkunden in Staatsangehörigkeitssachen in
 elektronischer Form ist ausgeschlossen.
 
-
 ## (XXXX) §§ 39 und 40 (weggefallen)
-
-
 
 ## § 40a
 
@@ -1043,7 +992,6 @@ im Sinne von § 4 des Bundesvertriebenengesetzes gilt dies nur dann,
 wenn ihnen vor diesem Zeitpunkt eine Bescheinigung gemäß § 15 Abs. 1
 oder 2 des Bundesvertriebenengesetzes erteilt worden ist.
 
-
 ## § 40b
 
 Ein Ausländer, der am 1. Januar 2000 rechtmäßig seinen gewöhnlichen
@@ -1052,7 +1000,6 @@ hat, ist auf Antrag einzubürgern, wenn bei seiner Geburt die
 Voraussetzungen des § 4 Abs. 3 Satz 1 vorgelegen haben und weiter
 vorliegen. Der Antrag kann bis zum 31. Dezember 2000 gestellt werden.
 
-
 ## § 40c
 
 Auf Einbürgerungsanträge, die bis zum 30. März 2007 gestellt worden
@@ -1060,13 +1007,11 @@ sind, sind die §§ 8 bis 14 und 40c weiter in ihrer vor dem 28. August
 2007 (BGBl. I S. 1970) geltenden Fassung anzuwenden, soweit sie
 günstigere Bestimmungen enthalten.
 
-
 ## § 41
 
 Von den in diesem Gesetz in den §§ 30 bis 34 und § 37 Abs. 2
 getroffenen Regelungen des Verwaltungsverfahrens der Länder kann nicht
 durch Landesrecht abgewichen werden.
-
 
 ## § 42
 

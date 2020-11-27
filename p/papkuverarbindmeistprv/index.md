@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 21 V v. 25.8.2009 I 2960
 
-
 ## Eingangsformel
 
 Auf Grund des § 53 Abs. 1 in Verbindung mit Abs. 2 des
@@ -29,7 +28,6 @@ Oktober 2006 (BGBl. I S. 2407, 2007 I S. 2149) geändert worden ist,
 verordnet das Bundesministerium für Bildung und Forschung nach
 Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung im
 Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie:
-
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
 
@@ -123,7 +121,6 @@ Fachrichtung Papier- und Kunststoffverarbeitung wahrnehmen zu können:
 Geprüfter Industriemeister/Geprüfte Industriemeisterin – Fachrichtung
 Papier- und Kunststoffverarbeitung.
 
-
 ## § 2 Umfang der Industriemeisterqualifikation und Gliederung der Prüfung
 
 (1) Die Qualifikation zum Geprüften Industriemeister/zur Geprüften
@@ -170,7 +167,6 @@ von schriftlichen Präsentationsunterlagen anzufertigen ist, und einer
 anschließenden mündlichen Präsentation dieser Unterlagen
 einschließlich eines Fachgesprächs nach § 5 zu prüfen.
 
-
 ## § 3 Zulassungsvoraussetzungen
 
 (1) Zur Prüfung im Prüfungsteil „Fachrichtungsübergreifende
@@ -209,7 +205,6 @@ wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft
 macht, dass Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche
 Handlungsfähigkeit) erworben worden sind, die eine Zulassung zur
 Prüfung rechtfertigen.
-
 
 ## § 4 Fachrichtungsübergreifende Basisqualifikationen
 
@@ -432,7 +427,6 @@ schriftlichen Prüfungsleistung und die der mündlichen
 Ergänzungsprüfung werden zu einer Prüfungsleistung zusammengefasst.
 Dabei wird die Bewertung der schriftlichen Prüfungsleistung doppelt
 gewichtet.
-
 
 ## § 5 Handlungsspezifische Qualifikationen
 
@@ -880,7 +874,6 @@ Prüfungsleistung doppelt gewichtet. In der praxisbezogenen
 Aufgabenstellung nach Absatz 14 besteht keine Möglichkeit einer
 mündlichen Ergänzungsprüfung.
 
-
 ## § 6 Anrechnung anderer Prüfungsleistungen
 
 Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin ist auf Antrag
@@ -890,7 +883,6 @@ Stelle zu befreien, wenn eine andere vergleichbare Prüfung vor einer
 einem staatlichen Prüfungsausschuss erfolgreich abgelegt wurde und die
 Anmeldung zur Fortbildungsprüfung innerhalb von fünf Jahren nach der
 Bekanntgabe des Bestehens der anderen Prüfung erfolgt.
-
 
 ## § 7 Bewerten der Prüfungsteile und Bestehen der Prüfung
 
@@ -928,7 +920,6 @@ abgelegten Prüfung anzugeben. Der Nachweis über den Erwerb der berufs-
 und arbeitspädagogischen Kenntnisse nach § 2 Abs. 2 ist im Zeugnis
 einzutragen.
 
-
 ## § 8 Wiederholung der Prüfung
 
 (1) Jeder nicht bestandene Prüfungsteil kann zweimal wiederholt
@@ -944,7 +935,6 @@ Prüfung an, zur Wiederholungsprüfung angemeldet hat. Bestandene
 Prüfungsleistungen können auf Antrag einmal wiederholt werden. In
 diesem Fall gilt das Ergebnis der letzten Prüfung.
 
-
 ## § 9 Übergangsvorschriften
 
 Begonnene Prüfungsverfahren können bis zum 31. Juli 2010 nach den
@@ -954,11 +944,9 @@ durchführen; § 8 Abs. 2 findet in diesem Fall keine Anwendung. Im
 Übrigen kann bei der Anmeldung zur Prüfung bis zum Ablauf des 31. Juli
 2008 die Anwendung der bisherigen Vorschriften beantragt werden.
 
-
 ## § 10 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Februar 2008 in Kraft.
-
 
 ## Anlage 1 (zu § 7 Abs. 5) Muster
 
@@ -972,8 +960,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   (Bezeichnung der zuständigen Stelle)
-
-
 
 ## Zeugnis
 
@@ -1032,9 +1018,6 @@ Geprüfter Industriemeister/Geprüfte Industriemeisterin
 
 *    *   (Siegel der zuständigen Stelle)
 
-
-
-
 ## Anlage 2 (zu § 7 Abs. 5) Muster
 
 (Fundstelle: BGBl. I 2008, 107 - 108;
@@ -1043,8 +1026,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *
 
 *    *   (Bezeichnung der zuständigen Stelle)
-
-
 
 ## Zeugnis
 

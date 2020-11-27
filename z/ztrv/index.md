@@ -15,14 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 1386
 
-
 ## Eingangsformel
 
 Auf Grund des § 78 Absatz 2 Satz 2 bis 5 in Verbindung mit § 78 Absatz
 2 Satz 1 Nummer 2 der Bundesnotarordnung, der durch Artikel 1 Nummer 1
 Buchstabe a des Gesetzes vom 22. Dezember 2010 (BGBl. I S. 2255)
 eingefügt worden ist, verordnet das Bundesministerium der Justiz:
-
 
 ## § 1 Inhalt des Registers
 
@@ -65,7 +63,6 @@ Testamentsregister auf:
 Die Registerbehörde kann zusätzliche Angaben aufnehmen, die für das
 Auffinden der erbfolgerelevanten Urkunde erforderlich sind.
 
-
 ## § 2 Meldung zum Register
 
 (1) Notare und Gerichte (Melder) übermitteln nach § 34a Absatz 1 und 2
@@ -85,7 +82,6 @@ Verwahrgericht nicht aufgefunden werden kann.
 
 (3) Der Melder übermittelt die erforderlichen Daten, wie sie ihm vom
 Erblasser mitgeteilt wurden.
-
 
 ## § 3 Registrierungsverfahren
 
@@ -112,7 +108,6 @@ der erbfolgerelevanten Urkunde und übermittelt ihr eine
 Verwahrbuchnummer, wenn die Urkunde unter der Verwahrnummer nach § 3
 Absatz 1 Satz 1 bei dem Verwahrgericht nicht aufgefunden werden kann.
 
-
 ## § 4 Verfahren bei Änderungen der Verwahrstelle oder Rücknahme aus der amtlichen Verwahrung
 
 (1) Die erneute besondere amtliche Verwahrung oder die Änderung der
@@ -127,7 +122,6 @@ oder der besonderen amtlichen Verwahrung ist der Registerbehörde unter
 Angabe des Datums der Rückgabe zu melden. Die Registerbehörde vermerkt
 die Rücknahme in den betroffenen Verwahrdatensätzen. § 3 Absatz 2 gilt
 entsprechend.
-
 
 ## § 5 Löschung, Berichtigung und Ergänzung
 
@@ -149,7 +143,6 @@ besondere amtliche Verwahrung zu verbringenden erbfolgerelevanten
 Urkunde oder die Berichtigung der Angabe des Verwahrgerichts nur
 herbeiführen, solange deren Eingang nicht nach § 3 Absatz 3 Satz 2
 bestätigt ist. § 3 Absatz 2 gilt entsprechend.
-
 
 ## § 6 Inhalt der Sterbefallmitteilungen
 
@@ -234,7 +227,6 @@ das Verfahren nach § 7 abgeschlossen ist.
 dem zuständigen Standesamt nur mitgeteilt, soweit sie diesem bekannt
 sind.
 
-
 ## § 7 Benachrichtigungen im Sterbefall
 
 (1) Erhält die Registerbehörde von dem zuständigen Standesamt eine
@@ -276,7 +268,6 @@ Urkunde in den betroffenen Verwahrdatensätzen.
 Registerbehörde nach § 4 des Testamentsverzeichnis-
 Überführungsgesetzes zu bearbeiten sind, entsprechend.
 
-
 ## § 8 Registerauskünfte
 
 (1) Die Registerbehörde erteilt Auskunft aus dem Zentralen
@@ -315,7 +306,6 @@ betreffen (§ 78d Absatz 2 der Bundesnotarordnung), und das Recht des
 Erblassers auf Auskunft (§ 19 des Bundesdatenschutzgesetzes) bleiben
 unberührt.
 
-
 ## § 9 Elektronische Kommunikation
 
 (1) Meldungen, Bestätigungen, Benachrichtigungen, Registerabfragen und
@@ -347,7 +337,6 @@ erfolgen, insbesondere
 
 (4) § 63 Absatz 1 und 3 der Personenstandsverordnung bleibt unberührt.
 
-
 ## § 10 Elektronische Aufbewahrung und Löschung
 
 (1) Die Registerbehörde bewahrt die Verwahrangaben betreffenden
@@ -362,7 +351,6 @@ Sterbefallmitteilungen und der Daten, die Verwahrangaben gemäß § 1
 betreffen, § 78b Absatz 1 Satz 2 der Bundesnotarordnung entsprechend.
 § 8 Absatz 3 Satz 2 bleibt unberührt.
 
-
 ## § 11 Nacherfassungen
 
 Wird festgestellt, dass eine verwahrte erbfolgerelevante Urkunde nicht
@@ -370,7 +358,6 @@ im Zentralen Testamentsregister registriert ist, obwohl dies nach dem
 jeweiligen Stand der Testamentsverzeichnisüberführung nach dem
 Testamentsverzeichnis-Überführungsgesetz zu erwarten wäre, ist die
 entsprechende Meldung von der Verwahrstelle nachzuholen.
-
 
 ## § 12 Datenschutz und Datensicherheit
 
@@ -398,11 +385,9 @@ nach Absatz 1 ein Sicherheitskonzept, das festlegt, mit welchen
 technischen und organisatorischen Maßnahmen die Vorgaben des
 Bundesdatenschutzgesetzes und dieser Verordnung gewährleistet werden.
 
-
 ## § 13 Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2012 in Kraft.
-
 
 ## Schlussformel
 

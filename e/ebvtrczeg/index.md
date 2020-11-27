@@ -27,13 +27,11 @@ Eisenbahnverkehr über die gemeinsame Staatsgrenze und über den
 erleichterten Eisenbahndurchgangsverkehr wird zugestimmt. Der Vertrag
 wird nachstehend veröffentlicht.
 
-
 ## Art 2
 
 Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
 ermächtigt, Änderungen der Anlage gemäß Artikel 11 Abs. 2 des
 Vertrages durch Rechtsverordnung in Kraft zu setzen.
-
 
 ## Art 3
 

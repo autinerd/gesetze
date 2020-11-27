@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 3 Abs. 19 G v. 7.7.2005 I 1970
 
-
 ## Eingangsformel
 
 Auf Grund des § 11 Abs. 2 des Gesetzes über die elektromagnetische
@@ -28,7 +27,6 @@ geändert durch Gesetz vom 7. Mai 2002 (BGBl. I S. 1529), in Verbindung
 mit dem 2. Abschnitt des Verwaltungskostengesetzes vom 23. Juni 1970
 (BGBl. I S. 821), verordnet das Bundesministerium für Wirtschaft und
 Technologie im Einvernehmen mit dem Bundesministerium der Finanzen:
-
 
 ## § 1 Beitragspflicht
 
@@ -55,7 +53,6 @@ Frequenzen. Sie endet mit Ablauf des Monats, in dem der Verzicht auf
 die Frequenzzuteilung, die Rücknahme oder der Widerruf der Zuteilung
 wirksam wird oder eine Befristung der Zuteilung abläuft. Ein
 rückwirkender Verzicht ist ausgeschlossen.
-
 
 ## § 2 Beitragsbefreiungen
 
@@ -95,7 +92,6 @@ für die Benutzung von bestimmten Frequenzen durch die Allgemeinheit
 oder einen nach allgemeinen Merkmalen bestimmten oder bestimmbaren
 Personenkreis unterliegen, werden keine Beiträge erhoben.
 
-
 ## § 3 Festlegung von EMV-Jahresbeiträgen für die Jahre 1999, 2000, 2001 und 2002
 
 (1) Die EMV-Beiträge für die Jahre 1999, 2000, 2001 und 2002 werden
@@ -113,13 +109,11 @@ Beitragspflichtigen aus der Verordnung über Beiträge nach dem Gesetz
 über die elektromagnetische Verträglichkeit von Geräten vom 12.
 November 1993 (BGBl. I S. 1898) für das Jahr 1999 ergeben hätte.
 
-
 ## § 4 Fälligkeit
 
 Der Beitrag wird fällig mit der Bekanntgabe des Beitragsbescheides,
 wenn nicht die Behörde einen späteren Zeitpunkt bestimmt. § 16 des
 Verwaltungskostengesetzes gilt entsprechend.
-
 
 ## § 5 Säumniszuschlag
 
@@ -127,13 +121,11 @@ Kommt der Beitragsschuldner seiner Zahlungsverpflichtung nicht nach,
 werden Säumniszuschläge entsprechend § 18 des
 Verwaltungskostengesetzes erhoben.
 
-
 ## § 6 Verjährung
 
 Für die Verjährung der Festsetzung von Beiträgen und des Anspruchs auf
 Zahlung von Beiträgen gilt § 20 des Verwaltungskostengesetzes
 entsprechend.
-
 
 ## § 7 Erstattung von Beitragsanteilen
 
@@ -142,13 +134,11 @@ Beitragspflicht nach § 1 bestand, werden gezahlte Beitragsanteile je
 Kalendermonat mit einem Zwölftel des Jahresbeitrags erstattet oder mit
 der nächsten Beitragszahlung verrechnet.
 
-
 ## § 8 Inkrafttreten, Außerkrafttreten
 
 (1) Die Verordnung tritt mit Wirkung vom 1. Januar 1999 in Kraft.
 
 (2)
-
 
 ## Anlage EMV-Beiträge 1999 bis 2002 (zu § 1 Abs. 2 Satz 2)
 

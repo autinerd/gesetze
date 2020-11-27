@@ -16,14 +16,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 523
 
-
 ## Art 1
 
 Die Goethe-Medaille wird vom Präsidium des Goethe-Instituts e.V. für
 besondere Verdienste im Bereich der internationalen Kulturbeziehungen
 verliehen, insbesondere auf dem Gebiet der Förderung der deutschen
 Sprache im Ausland.
-
 
 ## Art 2
 
@@ -32,18 +30,15 @@ wissenschaftliche oder literarische, didaktische, organisatorische
 Leistungen, die der Vermittlung zwischen deutscher Kultur und der
 Kultur der Partnerländer zugute kommen.
 
-
 ## Art 3
 
 Die Goethe-Medaille kann Ausländern jeder Nationalität verliehen
 werden, im Ausnahmefall auch Deutschen.
 
-
 ## Art 4
 
 Die Verleihung erfolgt jährlich zum 28. August, dem Geburtstag
 Goethes.
-
 
 ## Art 5
 
@@ -57,12 +52,10 @@ Medaille und Urkunde können im Einvernehmen zwischen dem Auswärtigen
 Amt und dem Goethe-Institut e.V. gegebenenfalls auch vom Leiter der
 Zweigstelle überreicht werden.
 
-
 ## Art 6
 
 Die Goethe-Medaille wird Eigentum des Empfängers und geht bei seinem
 Tode in den Besitz der Erben über.
-
 
 ## Art 7
 

@@ -18,37 +18,24 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 15 Abs. 91 G v. 5.2.2009 I 160
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art 1
-
-
 
 ## Art 2
 
-
-
 ## Art 3
-
-
 
 ## Art 4 - Übergangs- und Schlußvorschriften
 
-
-
 ### I. - Auflösung der Rechtsvorgänger Vermögensübergang
-
-
 
 ### § 1
 
 Die Reichsknappschaft ist mit Inkrafttreten dieses Gesetzes aufgelöst.
-
 
 ### § 2
 
@@ -62,7 +49,6 @@ knappschaftlichen Krankenversicherung zuzuführen ist.
 
 (2) Absatz 1 gilt auch für unübertragbare Rechte und solche, deren
 Abtretung durch Vereinbarung ausgeschlossen ist.
-
 
 ### § 3
 
@@ -84,7 +70,6 @@ nicht.
 (3) Dingliche Rechte an Grundstücken, Sachen und Rechten, die unter §
 2 Abs. 1 und 2 dieses Artikels fallen, bleiben bestehen.
 
-
 ### § 4
 
 Soweit die bisherigen Träger der Knappschaftsversicherung und die
@@ -92,12 +77,10 @@ Arbeitsgemeinschaft der Knappschaften rechtsgeschäftliche Verfügungen
 über Vermögensrechte im Sinne von § 2 dieses Artikels getroffen haben,
 gelten sie als verfügungsberechtigt.
 
-
 ### § 5
 
 Auf Verlangen ist der Bundesknappschaft Auskunft über die in den §§ 2
 bis 4 dieses Artikels bezeichneten Vermögensverhältnisse zu erteilen.
-
 
 ### § 6
 
@@ -115,7 +98,6 @@ Rechts".
 (2) Absatz 1 gilt für andere im Grundbuch eingetragene Rechte
 entsprechend.
 
-
 ### § 7
 
 (1) Geschäfte und Verhandlungen, die der Durchführung der §§ 2 bis 6
@@ -129,13 +111,11 @@ zuständigen Behörde ohne Nachprüfung anzuerkennen, wenn die
 Bundesknappschaft bestätigt, daß die Maßnahme der Durchführung der §§
 2 bis 6 dieses Artikels dient.
 
-
 ### § 8
 
 Die Treuhandschaft des Bundes und des Landes Berlin an dem Eigentum
 und den übrigen Vermögensrechten der Reichsknappschaft erlischt mit
 dem Inkrafttreten dieses Gesetzes.
-
 
 ### § 9
 
@@ -152,10 +132,7 @@ Rentenversicherung mit Ausnahme von Verbindlichkeiten des Bundes nach
 § 128 des Reichsknappschaftsgesetzes. §§ 2, 3 Abs. 2 und 3 und §§ 5
 bis 7 dieses Artikels gelten entsprechend.
 
-
 ### II. - Übernahme der Angestellten und Arbeiter sowie der Versorgungslast
-
-
 
 ### § 10
 
@@ -166,11 +143,9 @@ Knappschaftsversicherungs-Anpassungsgesetzes oder in § 6 des
 Saarknappschaftsgesetzes bezeichneten Körperschaften des öffentlichen
 Rechts und ihren Arbeitnehmern bestehen.
 
-
 ### § 11
 
 (weggefallen)
-
 
 ### § 12
 
@@ -188,11 +163,9 @@ im Angestelltenverhältnis geleistete Dienstzeit angerechnet werden.
 Die Anwärter können die in § 11 Satz 1 Nr. 2 bezeichneten Prüfungen
 als Laufbahnprüfungen ablegen.
 
-
 ### § 13
 
 (weggefallen)
-
 
 ### § 14
 
@@ -202,7 +175,6 @@ bestimmen sich nach dem bei Inkrafttreten dieses Gesetzes bestehenden
 Dienstvertrag und der für diesen bei Inkrafttreten dieses Gesetzes
 maßgebenden Dienstordnung. Entsprechendes gilt für die Versorgung
 ihrer Hinterbliebenen.
-
 
 ### § 15
 
@@ -217,7 +189,6 @@ Inkrafttreten dieses Gesetzes im Einzelfall anzuwenden sind. Werden
 hiernach Bezüge der Versorgungsempfänger allgemein erhöht oder
 vermindert, so erhöhen oder vermindern sich von demselben Zeitpunkt an
 die Versorgungsbezüge der in Satz 1 genannten Personen entsprechend.
-
 
 ### § 16
 
@@ -278,10 +249,7 @@ Gesetzes entsprechend anzuwenden.
 (4) Oberste Dienstbehörde für die Anwendung der Absätze 1 und 3 ist
 der Vorstand der Bundesknappschaft.
 
-
 ### III. - Überleitungsvorschriften
-
-
 
 ### § 17
 
@@ -342,14 +310,12 @@ nach Inkrafttreten dieses Gesetzes zu bilden.
 Aufgaben und Befugnisse des Vorstands der Bundesknappschaft wahr, bis
 dieser zu seiner ersten Sitzung zusammentritt.
 
-
 ### § 18
 
 Der Geschäftsführer der Arbeitsgemeinschaft der Knappschaften nimmt
 vom Inkrafttreten dieses Gesetzes an die Aufgaben der Mitglieder der
 Geschäftsführung der Bundesknappschaft bis zu deren Ernennung nach §
 157 Abs. 1 des Reichsknappschaftsgesetzes wahr.
-
 
 ### § 19
 
@@ -363,7 +329,6 @@ von den bisherigen Organen der Träger der Knappschaftsversicherung als
 Organe der Bundesknappschaft für ihren bisherigen Bereich zu
 beschließen. § 154 Abs. 3 Satz 3 des Reichsknappschaftsgesetzes gilt.
 
-
 ### § 20
 
 Bis zum Erlaß einer Rechtsverordnung gemäß § 147 des
@@ -372,7 +337,6 @@ des Haushaltsplans und für die Rechnungsprüfung die Vorschriften des
 Haushaltsrechts des Bundes und für die Zahlungen, die Buchführung und
 die Rechnungslegung die für die Träger der sozialen
 Krankenversicherung maßgeblichen Vorschriften entsprechend.
-
 
 ### § 21
 
@@ -405,10 +369,6 @@ c)  Die einzelnen Mitglieder des Hauptpersonalrats und eine entsprechende
     Knappschaften entsandt. Dabei müssen die Gruppen der Beamten, der
     Angestellten und der Arbeiter anteilmäßig vertreten sein.
 
-
-
-
-
 ### § 22
 
 Soweit in diesem oder anderen Gesetzen auf Bestimmungen verwiesen wird
@@ -416,11 +376,9 @@ oder Bezeichnungen verwendet werden, die durch dieses Gesetz geändert
 werden, treten an ihre Stelle die entsprechenden Bestimmungen und
 Bezeichnungen dieses Gesetzes.
 
-
 ### § 23
 
 -
-
 
 ### § 24
 
@@ -431,7 +389,6 @@ für sie oder ihre Hinterbliebenen eine höhere Versorgung ergibt, sind
 die höheren Versorgungsbezüge vom Inkrafttreten dieses Gesetzes an zu
 zahlen.
 
-
 ### § 25
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
@@ -439,7 +396,6 @@ Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes
 erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 Überleitungsgesetzes.
-
 
 ### § 26
 

@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 606
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
@@ -26,17 +24,14 @@ S. 2785) geändert worden ist, verordnet das Bundesministerium für
 Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium
 für Bildung und Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Maskenbildner/Maskenbildnerin wird staatlich
 anerkannt.
 
-
 ## § 2 Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Ausbildungsberufsbild
 
@@ -93,10 +88,6 @@ Fertigkeiten und Kenntnisse:
 
 17. Arbeiten für Proben und Produktionen.
 
-
-
-
-
 ## § 4 Ausbildungsrahmenplan
 
 (1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach der in der
@@ -113,12 +104,10 @@ Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges
 Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung
 ist auch in den Prüfungen nach den §§ 7 und 8 nachzuweisen.
 
-
 ## § 5 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 6 Berichtsheft
 
@@ -126,7 +115,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 7 Zwischenprüfung
 
@@ -150,10 +138,6 @@ Modellieren durchführen. Hierfür kommen insbesondere in Betracht:
 
 2.  für den Bereich Schminken und Modellieren: Schminkmasken erstellen und
     eine Maskengrundlage modellieren.
-
-
-
-
 
 ## § 8 Abschlußprüfung
 
@@ -314,11 +298,9 @@ der Prüfung im Durchschnitt der Prüfungsbereiche Gestaltung sowie
 Arbeitsplanung und -ausführung mindestens ausreichende Leistungen
 erbracht sind.
 
-
 ## § 9 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2002 in Kraft.
-
 
 ## Anlage (zu § 4 Abs. 1) Ausbildungsrahmenplan für die Berufsausbildung zum Maskenbildner/zur Maskenbildnerin
 

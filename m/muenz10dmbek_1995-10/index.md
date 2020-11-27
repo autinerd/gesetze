@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1995, 1512
 
-
-
 ## (XXXX)
 
 Auf Grund des § 6 des Gesetzes über die Ausprägung von Scheidemünzen
@@ -155,7 +153,6 @@ Zwischen Ende und Anfang der Randschrift und zwischen den Worten
 Der Entwurf der Münze stammt von Hubert Klinkel, Würzburg.
 
 Der Bundesminister der Finanzen
-
 
 ## (XXXX)
 

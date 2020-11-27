@@ -16,13 +16,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1994, 486
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -33,14 +30,12 @@ Austausch von Auskünften in Personenstandsangelegenheiten (BGBl. 1961
 II S. 1055, 1071) wird zugestimmt. Das Zusatzprotokoll wird
 nachstehend mit einer amtlichen deutschen Übersetzung veröffentlicht.
 
-
 ## Art 2
 
 Die zur Durchführung dieses Gesetzes erforderlichen allgemeinen
 Verwaltungsvorschriften erläßt der Bundesminister des Innern im
 Benehmen mit dem Bundesminister der Justiz und mit Zustimmung des
 Bundesrates.
-
 
 ## Art 3
 

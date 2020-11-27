@@ -18,12 +18,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 53 G v. 6.12.2011 I 2515
 
-
 ## Eingangsformel
 
 Auf Grund des § 5 des Gesetzes über den Beruf des Logopäden vom 7. Mai
 1980 (BGBl. I S. 529) wird mit Zustimmung des Bundesrates verordnet:
-
 
 ## § 1 Ausbildung
 
@@ -34,7 +32,6 @@ in Anlage 2 aufgeführte praktische Ausbildung.
 (2) Der Auszubildende hat seine regelmäßige und erfolgreiche Teilnahme
 an den nach Absatz 1 vorgeschriebenen Ausbildungsveranstaltungen durch
 eine Bescheinigung nach dem Muster der Anlage 3 nachzuweisen.
-
 
 ## § 2 Staatliche Prüfung
 
@@ -49,7 +46,6 @@ Vorsitzenden der beteiligten Prüfungsausschüsse sind vorher zu hören.
 Bei Personen, die beantragen, die Prüfung auf Grund des § 8 Abs. 4 des
 Gesetzes abzulegen, bestimmt die zuständige Behörde den zuständigen
 Prüfungsausschuß.
-
 
 ## § 3 Prüfungsausschuß
 
@@ -93,7 +89,6 @@ die Fachprüfer und deren Stellvertreter für die einzelnen Fächer.
 
 (4) Die zuständige Behörde kann Sachverständige und Beobachter zur
 Teilnahme an allen Prüfungsvorgängen entsenden.
-
 
 ## § 4 Zulassung zur Prüfung
 
@@ -147,7 +142,6 @@ werden.
 ihrer Chancengleichheit bei Durchführung der Prüfungen zu
 berücksichtigen.
 
-
 ## § 5 Schriftlicher Teil der Prüfung
 
 (1) Der schriftliche Teil der Prüfung erstreckt sich auf folgende
@@ -186,7 +180,6 @@ Fachprüfern die Prüfungsnote für den schriftlichen Teil der Prüfung.
 Dabei sind die in Absatz 1 unter Nr. 1 und 2 genannten Fächer mit dem
 Faktor 2, die übrigen Fächer einfach zu gewichten.
 
-
 ## § 6 Mündlicher Teil der Prüfung
 
 Der mündliche Teile der Prüfung erstreckt sich auf folgende Fächer:
@@ -222,7 +215,6 @@ gewichten.
 
 (3) Der Vorsitzende des Prüfungsausschusses kann auf Antrag Zuhörer
 zum mündlichen Teil der Prüfung zulassen.
-
 
 ## § 7 Praktischer Teil der Prüfung
 
@@ -263,13 +255,11 @@ Teil der Prüfung.
 (4) Der Vorsitzende des Prüfungsausschusses kann auf Antrag Zuhörer
 zum praktischen Teil der Prüfung zulassen.
 
-
 ## § 8 Niederschrift
 
 Über die Prüfung ist eine Niederschrift zu fertigen, aus der
 Gegenstand, Ablauf und Ergebnis der Prüfung und etwa vorkommende
 Unregelmäßigkeiten hervorgehen.
-
 
 ## § 9 Benotung
 
@@ -289,7 +279,6 @@ können,
 "ungenügend" (6), wenn die Leistung den Anforderungen nicht entspricht
 und selbst die Grundkenntnisse so lückenhaft sind, daß die Mängel in
 absehbarer Zeit nicht behoben werden können.
-
 
 ## § 10 Bestehen und Wiederholung der Prüfung
 
@@ -313,7 +302,6 @@ des Prüfungsausschusses bestimmt werden. Die Wiederholungsprüfung muß
 spätestens zwölf Monate nach der letzten Prüfung abgeschlossen sein.
 Ausnahmen kann die zuständige Behörde in begründeten Fällen zulassen.
 
-
 ## § 11 Rücktritt von der Prüfung
 
 (1) Tritt ein Prüfling nach seiner Zulassung von der Prüfung zurück,
@@ -328,7 +316,6 @@ Bescheinigung verlangt werden.
 (2) Wir die Genehmigung für den Rücktritt nicht erteilt oder unterläßt
 es der Prüfling, die Gründe für seinen Rücktritt unverzüglich
 mitzuteilen, so gilt die Prüfung als nicht bestanden.
-
 
 ## § 12 Versäumnisfolgen
 
@@ -348,7 +335,6 @@ werden.
 der Prüfling, die Gründe unverzüglich mitzuteilen, so gilt der
 betreffende Teil der Prüfung als nicht bestanden.
 
-
 ## § 13 Ordnungsverstöße und Täuschungsversuche
 
 Der Vorsitzende des Prüfungsausschusses kann bei Prüflingen, die die
@@ -358,7 +344,6 @@ betreffenden Teil der Prüfung für "nicht bestanden" erklären. Eine
 solche Erklärung ist nach Ablauf von drei Jahren nach Abschluß der
 Prüfung nicht mehr zulässig.
 
-
 ## § 14 Prüfungsunterlagen
 
 Auf Antrag ist dem Prüfungsteilnehmer Einsicht in seine
@@ -366,14 +351,12 @@ Prüfungsunterlagen zu gewähren. Schriftliche Aufsichtsarbeiten sind
 drei, Anträge auf Zulassung zur Prüfung und Prüfungsniederschriften
 zehn Jahre aufzubewahren.
 
-
 ## § 15 Erlaubniserteilung
 
 Liegen die Voraussetzungen des Gesetzes für die Erteilung der
 Erlaubnis zur Führung der Berufsbezeichnung "Logopäde" vor, so stellt
 die zuständige Behörde die Erlaubnisurkunde nach dem Muster der Anlage
 5 aus.
-
 
 ## § 16 Sonderregelungen für Inhaber von Ausbildungsnachweisen aus einem anderen Vertragsstaat des Europäischen Wirtschaftsraumes
 
@@ -442,7 +425,6 @@ Dienstleistungserbringer innerhalb der in den Sätzen 1 und 2 genannten
 Fristen keine Rückmeldung der zuständigen Behörde, darf die
 Dienstleistung erbracht werden.
 
-
 ## § 16a Frist
 
 Die zuständige Behörde bestätigt dem Antragsteller binnen eines Monats
@@ -457,16 +439,13 @@ der nicht in einem anderen Mitgliedstaat der Europäischen Union, des
 Europäischen Wirtschaftsraums oder der Schweiz anerkannt wurde,
 zugrunde liegt, am 1. Dezember 2012 in Kraft.
 
-
 ## § 17 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesminister für Jugend, Familie und Gesundheit
-
 
 ## Anlage 1 (zu § 1 Abs. 1)
 
@@ -1382,10 +1361,6 @@ Fundstelle des Originaltextes: BGBl. I 1980, 1895 - 1897
 
     *   1.740
 
-
-
-
-
 ## Anlage 2 (zu § 1 Abs. 1)
 
 Fundstelle des Originaltextes: BGBl. I 1980, 1897
@@ -1478,21 +1453,15 @@ Fundstelle des Originaltextes: BGBl. I 1980, 1897
 
     *   2.100
 
-
-
-
-
 ## Anlage 3 (zu § 1 Abs. 2)
 
 (Inhalt: nicht darstellbare Anlage 3,
 Fundstelle: BGBl. I 1980, 1898)
 
-
 ## Anlage 4 (zu § 10 Abs. 2 Satz 1)
 
 (Inhalt: nicht darstellbare Anlage 4,
 Fundstelle: BGBl. I 1980, 1899)
-
 
 ## Anlage 5 (zu § 15)
 

@@ -24,10 +24,7 @@ technischen Vorschriften (ABl. EG Nr. L 109 S. 8), zuletzt geändert
 durch die Richtlinie 94/10/EG des Europäischen Parlaments und des
 Rates vom 23. März 1994 (ABl. EG Nr. L 100 S. 30), notifiziert worden.
 
-
 ## Abschnitt 1 - Allgemeines
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -43,7 +40,6 @@ folgenden: EG-Verordnung).
 (2) Die Vorschriften gelten für das Herstellen, Behandeln sowie das
 Inverkehrbringen dieser Erzeugnisse.
 
-
 ### § 1a Begriffsbestimmung
 
 Molkerei im Sinne dieser Verordnung ist ein milchwirtschaftliches
@@ -52,10 +48,7 @@ Liter Milch oder eine hieraus herzustellende entsprechende Menge an
 Milcherzeugnissen be- oder verarbeitet und die hierfür erforderlichen
 technischen Einrichtungen besitzt.
 
-
 ## Abschnitt 2 - Butter
-
-
 
 ### § 2 Ergänzende Vorschriften zur Herstellung
 
@@ -73,7 +66,6 @@ hergestellt sein.
 
 (4) Die Vorschriften der Zusatzstoff-Zulassungsverordnung sind
 anzuwenden.
-
 
 ### § 3 Ergänzende Vorschriften zur Kennzeichnung
 
@@ -163,13 +155,7 @@ muß die Kennzeichnung enthalten
 5.  das Mindesthaltbarkeitsdatum; Absatz 2 Nr. 3 zweiter Halbsatz gilt
     entsprechend.
 
-
-
-
-
 ## Abschnitt 3 - Butter der Handelsklassen
-
-
 
 ### § 4 Inverkehrbringen nach Handelsklassen
 
@@ -177,7 +163,6 @@ Butter darf nach Handelsklassen im Sinne des Satzes 2 nur in den
 Verkehr gebracht werden, wenn sie nach Maßgabe des § 5 hergestellt ist
 und die Qualitätsanforderungen nach § 6 erfüllt. Handelsklassen sind
 "Deutsche Markenbutter" und "Deutsche Molkereibutter".
-
 
 ### § 5 Herstellung
 
@@ -227,7 +212,6 @@ verwendet werden.
 (5) Die Vorschriften der Zusatzstoff-Zulassungsverordnung sind
 anzuwenden.
 
-
 ### § 6 Qualitätsanforderungen
 
 (1) Butter erfüllt die Voraussetzungen der Handelsklasse "Deutsche
@@ -260,7 +244,6 @@ Molkereibutter", wenn sie
 die zur Abgabe an andere als Verbraucher bestimmt ist, die
 Voraussetzungen als Handelsklasse auch ohne Bewertung der in § 7 Abs.
 3 Satz 2 Nr. 3 genannten Streichfähigkeit.
-
 
 ### § 7 Prüfung der Handelsklasse
 
@@ -296,7 +279,6 @@ festzustellen.
 (4) Zusätzlich erfolgt eine stichprobenartige Prüfung der Qualität von
 Butter einer Handelsklasse in Molkereien, Ausformstellen und im
 Lebensmittelhandel.
-
 
 ### § 8 Markenberechtigung
 
@@ -364,7 +346,6 @@ Markenbutter" erlischt, wenn
 Die Einstellung der Herstellung ist der zuständigen Überwachungsstelle
 unverzüglich mitzuteilen.
 
-
 ### § 9 Abwertung
 
 (1) Erfüllt Butter infolge einer nachträglichen Veränderung nicht mehr
@@ -378,7 +359,6 @@ einverstanden, so entscheidet ein sachverständiger Gutachter. Die
 Buttersachverständigen werden von der nach Landesrecht zuständigen
 Behörde ernannt.
 
-
 ### § 10 Verpackung von Butter der Handelsklassen
 
 (1) Butter der Handelsklassen darf nur so verpackt werden, daß die
@@ -390,7 +370,6 @@ Markenbutter nur solche verwendet werden, die der Gruppe B oder C nach
 DIN 10082 Ausgabe März 1996\*) entsprechen.
 ------
 \*) Zu beziehen bei Beuth Verlag GmbH, 10772 Berlin.
-
 
 ### § 11 Zusätzliche Kennzeichnung
 
@@ -416,10 +395,6 @@ und des § 3 Abs. 2 bis 6 und 9, folgende Angaben enthält:
 
 3.  im Falle von Butter, die zur Abgabe an andere als Verbraucher bestimmt
     ist, die Angabe "zur Abgabe an andere als Verbraucher bestimmt".
-
-
-
-
 
 ### § 12 Butter aus anderen Mitgliedstaaten
 
@@ -451,7 +426,6 @@ Landesrecht zuständigen Behörden prüfen die Qualitätsanforderungen
 nach § 6 Abs. 1 Nr. 2 beim Inverkehrbringen im Geltungsbereich der
 Verordnung.
 
-
 ### § 13 Gütezeichen für Markenbutter
 
 (1) Für Markenbutter darf das nebenstehend abgebildete Gütezeichen
@@ -480,10 +454,7 @@ gilt § 8 Abs. 2 bis 4 entsprechend.
 der Verpackung die Worte "Amtliche Qualitätskontrolle des Landes ...
 Überwachungsstelle ..." anzubringen.
 
-
 ## Abschnitt 4 - Dreiviertelfettbutter, Halbfettbutter und Milchstreichfett X vom Hundert
-
-
 
 ### § 14 Ergänzende Herstellungsvorschriften
 
@@ -496,10 +467,6 @@ Milchstreichfett X vom Hundert verwendet werden
 
 
 2.  Speisegelatine.
-
-
-
-
 
 ### § 15 Ergänzende Kennzeichnung
 
@@ -550,10 +517,7 @@ Verpackung an gut sichtbarer Stelle deutlich lesbar und unverwischbar
 ein Hinweis anzubringen, daß das Erzeugnis zum Braten nicht geeignet
 ist.
 
-
 ## Abschnitt 5 - Schlußbestimmungen
-
-
 
 ### § 16 Überwachung, Befugnisse der Landesbehörden
 
@@ -575,7 +539,6 @@ zur Wiedererteilung der Markenberechtigung für Herstellerbetriebe,
 deren Produktionsmenge im vorhergehenden Kalenderjahr 100 Tonnen bei
 einer der Buttersorten nicht überschritt, abweichend von § 7 Abs. 1, §
 8 Abs. 1 bis 4 und Nummer 2.2 der Anlage 1 durchzuführen sind.
-
 
 ### § 17 Ordnungswidrigkeiten
 
@@ -609,7 +572,6 @@ oder fahrlässig entgegen § 3 Abs. 1 oder § 15 Abs. 1 ein dort
 genanntes Erzeugnis in den Verkehr bringt, das nicht oder nicht in der
 vorgeschriebenen Weise gekennzeichnet ist.
 
-
 ### § 18 Übergangsvorschrift
 
 Lebensmittel, die den Vorschriften dieser Verordnung in der ab dem 13.
@@ -617,7 +579,6 @@ November 2004 an geltenden Fassung nicht entsprechen, dürfen noch bis
 zum 24. November 2005 nach den bis zum 12. November 2004 geltenden
 Vorschriften gekennzeichnet und auch nach dem 24. November 2005 noch
 bis zum Aufbrauchen der Bestände in den Verkehr gebracht werden.
-
 
 ### Anlage 1 (zu § 7 Abs. 1 und 3, § 8 Abs. 2) Bestimmungen für die Durchführung von Butterprüfungen
 
@@ -905,7 +866,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 -------
 \*) Zu beziehen bei Beuth Verlag GmbH, 10772 Berlin.
-
 
 ### Anlage 2 (zu § 12 Abs. 3) Muster der Bescheinigung über Markenbutter
 

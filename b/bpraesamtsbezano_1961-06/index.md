@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1961, 734
 
-
-
 ## (XXXX)
 
 Gemäß § 2 des Bundespolizeibeamtengesetzes vom 19. Juli 1960

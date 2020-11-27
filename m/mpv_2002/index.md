@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 V v. 10.5.2010 I 542
 
-
 ## Eingangsformel
 
 Auf Grund des § 37 Abs. 1, 8 und 11 des Medizinproduktegesetzes vom 2.
@@ -30,10 +29,7 @@ Bundesministerium für Arbeit und Sozialordnung, dem Bundesministerium
 für Umwelt, Naturschutz und Reaktorsicherheit und dem
 Bundesministerium des Innern:
 
-
 ## Abschnitt 1 - Anwendungsbereich und Allgemeine Anforderungen an die Konformitätsbewertung
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -44,7 +40,6 @@ Anforderungen gemäß § 7 des Medizinproduktegesetzes
 Behandlungseinheiten und die Änderung der Klassifizierung von
 Medizinprodukten durch Rechtsakte der Kommission der Europäischen
 Gemeinschaft.
-
 
 ### § 2 Biologische Sicherheitsprüfung
 
@@ -71,7 +66,6 @@ soweit sie
 
 
 erforderlich sind.
-
 
 ### § 3 Allgemeine Vorschriften zur Durchführung der Konformitätsbewertung
 
@@ -115,10 +109,7 @@ durchgeführt wurden, angemessen zu berücksichtigen.
 98/79/EG und den Anhängen II, III, V und VI der Richtlinie 93/42/EWG
 ausgestellt werden, ist auf höchstens fünf Jahre zu befristen.
 
-
 ## Abschnitt 2 - Anforderungen an die Verfahren der Konformitätsbewertung
-
-
 
 ### § 4 Konformitätsbewertungsverfahren für aktive implantierbare Medizinprodukte
 
@@ -206,7 +197,6 @@ treffen, um die Übereinstimmung der hergestellten Medizinprodukte mit
 dieser Dokumentation zu gewährleisten. Absatz 2 Satz 4 bis 7 gilt
 entsprechend.
 
-
 ### § 5 Konformitätsbewertungsverfahren für In-vitro-Diagnostika
 
 (1) Für In-vitro-Diagnostika nach Anhang II Liste A der Richtlinie
@@ -292,7 +282,6 @@ Phase auszuwerten und zu dokumentieren und angemessene Vorkehrungen zu
 treffen, um erforderliche Korrekturen durchzuführen. § 4 Absatz 2 Satz
 7 gilt entsprechend.
 
-
 ### § 6 Konformitätsbewertungsverfahren für unter Verwendung von tierischem Gewebe hergestellte Medizinprodukte
 
 (1) Für unter Verwendung von Gewebe tierischen Ursprungs hergestellte
@@ -343,7 +332,6 @@ Gesundheit mit.
 dazu bestimmt sind, mit dem menschlichen Körper in Berührung zu kommen
 oder die dazu bestimmt sind, nur mit unversehrter Haut in Berührung zu
 kommen.
-
 
 ### § 7 Konformitätsbewertungsverfahren für die sonstigen Medizinprodukte
 
@@ -478,10 +466,7 @@ Herstellung nachgelagerten Phase auszuwerten und zu dokumentieren und
 angemessene Vorkehrungen zu treffen, um erforderliche Korrekturen
 durchzuführen. § 4 Absatz 2 Satz 7 gilt entsprechend.
 
-
 ## Abschnitt 3 - Änderungen der Klassifizierung von Medizinprodukten
-
-
 
 ### § 8 Brustimplantate
 
@@ -493,11 +478,9 @@ Rates vom 29. September 2003 (ABl. EU Nr. L 284 S. 1), in der jeweils
 geltenden Fassung, findet auf Brustimplantate keine Anwendung.
 Brustimplantate werden der Klasse III zugeordnet.
 
-
 ### Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ### § 9 Gelenkersatz für Hüfte, Knie und Schulter
 
@@ -515,10 +498,7 @@ implantierbare Gesamtheit von Teilen, die dazu bestimmt sind, zusammen
 die Funktion des natürlichen Hüft-, Knie- oder Schultergelenks
 möglichst vollständig zu erfüllen. Dazu gehören nicht Zubehörteile.
 
-
 ## Abschnitt 4 - Übergangsbestimmungen
-
-
 
 ### § 10 Übergangsbestimmung für unter Verwendung von tierischem Gewebe hergestellte Medizinprodukte
 
@@ -530,7 +510,6 @@ werden, wenn eine zusätzliche EG-Auslegungsprüfbescheinigung oder EG-
 Baumusterprüfbescheinigung vorliegt, in der die Übereinstimmung mit
 den im Anhang der Richtlinie 2003/32/EG festgelegten Spezifikationen
 bescheinigt wird.
-
 
 ### § 11 Übergangsbestimmungen für Gelenkersatz für Hüfte, Knie und Schulter
 

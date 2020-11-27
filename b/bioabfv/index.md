@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 u. Art. 4 V v. 23.4.2012 I 611
 
-
 ## Eingangsformel
 
 Auf Grund des § 8 Abs. 1 und 2 des Kreislaufwirtschafts- und
@@ -28,7 +27,6 @@ Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit im
 Einvernehmen mit dem Bundesministerium für Ernährung, Landwirtschaft
 und Forsten und dem Bundesministerium für Gesundheit nach Anhörung der
 beteiligten Kreise:
-
 
 ## § 1 Anwendungsbereich
 
@@ -134,7 +132,6 @@ werden. Generelle Anbaubeschränkungen oder sonstige in dieser
 Verordnung nicht genannte Beschränkungen lassen sich aus dem Erreichen
 oder Überschreiten der Bodenwerte nach § 9 Abs. 2 nicht herleiten.
 
-
 ## § 2 Begriffsbestimmungen
 
 Im Sinne dieser Verordnung bedeuten die Begriffe
@@ -234,13 +231,6 @@ Im Sinne dieser Verordnung bedeuten die Begriffe
         Gemüseanbaus auf selbst bewirtschaftete Betriebsflächen, soweit die
         pflanzlichen Ausgangserzeugnisse auf Betriebsflächen von Mitgliedern
         des jeweiligen Erzeugerzusammenschlusses erzeugt wurden.
-
-
-
-
-
-
-
 
 ## § 3 Anforderungen an die hygienisierende Behandlung
 
@@ -483,7 +473,6 @@ landwirtschaftlichen Betrieb zusammen mit dort angefallenen biologisch
 abbaubaren Materialien erfolgt und die behandelten Materialien auf
 selbst bewirtschaftete Betriebsflächen aufgebracht werden.
 
-
 ## § 3a Anforderungen an die biologisch stabilisierende Behandlung
 
 Entsorgungsträger, Erzeuger und Besitzer haben, soweit nicht von einer
@@ -494,7 +483,6 @@ unter Berücksichtigung der vorgesehenen Verwendung so weit biologisch
 zu stabilisieren, dass das Wohl der Allgemeinheit insbesondere durch
 Zersetzungsprozesse und Geruchsbelastungen der aufgebrachten
 Bioabfälle oder Gemische nicht beeinträchtigt wird.
-
 
 ## § 3b Behandlung von Bioabfällen in Betrieben mit Nutztierhaltung
 
@@ -516,7 +504,6 @@ mittelbar mit den Bioabfällen tierischer Herkunft in Berührung kommen.
 Satz 1 und 2 gilt entsprechend für Anlagen zur Behandlung von
 Bioabfällen tierischer Herkunft in Betrieben, die an Betriebe oder
 Betriebsbereiche mit Nutztierhaltung angrenzen.
-
 
 ## § 4 Anforderungen hinsichtlich der Schadstoffe und weiterer Parameter
 
@@ -720,7 +707,6 @@ leitet sie unverzüglich an die zuständige Behörde weiter.
 (10) Für die Bestimmung einer Untersuchungsstelle nach Absatz 9 Satz 1
 gilt § 3 Absatz 8a und 8b entsprechend.
 
-
 ## § 5 Anforderungen an Gemische
 
 (1) Der Gemischhersteller darf behandelte Bioabfälle, gemäß § 10
@@ -767,7 +753,6 @@ Getrennthaltung, Behandlung und Verwendung der Einsatzmaterialien
 sowie die Aufbringung von Gemischen festgelegten ergänzenden
 Bestimmungen sind zu beachten.
 
-
 ## § 6 Beschränkungen und Verbote der Aufbringung
 
 (1) Unbeschadet düngemittelrechtlicher Regelungen dürfen auf Böden
@@ -810,7 +795,6 @@ forstwirtschaftlich genutzte Böden darf nur im begründeten
 Ausnahmefall mit Zustimmung der zuständigen Behörde im Einvernehmen
 mit der zuständigen Forstbehörde erfolgen.
 
-
 ## § 7 Zusätzliche Anforderungen bei der Aufbringung auf Grünlandflächen sowie Feldfutter- und Feldgemüseanbauflächen
 
 (1) Auf Grünlandflächen und mehrschnittigen Feldfutterflächen dürfen
@@ -836,14 +820,12 @@ für die Aufbringungsfläche zuständige Behörde kann den Zeitraum nach
 Satz 1 verlängern, sofern dies zur Vorbeugung einer Gefahr für die
 menschliche oder tierische Gesundheit erforderlich ist.
 
-
 ## § 8 Zusammentreffen von Bioabfall- und Klärschlammaufbringung
 
 Innerhalb des Zeitraumes nach § 6 Abs. 1 ist auf derselben Fläche nur
 die Aufbringung von Bioabfällen und Gemischen nach dieser Verordnung
 oder die Aufbringung von Klärschlamm nach der Klärschlammverordnung
 zulässig.
-
 
 ## § 9 Bodenuntersuchungen
 
@@ -895,7 +877,6 @@ denen die in Absatz 2 genannten Werte überschritten werden, wenn keine
 Beeinträchtigungen des Wohls der Allgemeinheit zu erwarten sind. Satz
 1 gilt nicht für Cadmium.
 
-
 ## § 9a Zusätzliche Anforderungen an die Verwertung von bestimmten Bioabfällen
 
 (1) Entsorgungsträger, Erzeuger und Besitzer dürfen die in Anhang 1
@@ -933,7 +914,6 @@ Bioabfällen dem Bioabfallbehandler oder Einsammler oder im Falle von
 der Behandlung freigestellter Bioabfälle nach § 10 dem
 Gemischhersteller oder Bewirtschafter der Aufbringungsfläche
 auszuhändigen.
-
 
 ## § 10 Freistellung von den Anforderungen an die Behandlung und Untersuchung von bestimmten Bioabfällen
 
@@ -1011,7 +991,6 @@ Bioabfälle gemäß § 3 Absatz 4 Satz 1 Nummer 3, Satz 2, Absatz 7 und 8
 Satz 1 und 2 entsprechend anzuwenden. Die sich aus Satz 1 ergebenden
 Pflichten sind durch den Bioabfallbehandler zu erfüllen, der die
 biologisch stabilisierende Behandlung der Bioabfälle durchführt.
-
 
 ## § 11 Nachweispflichten
 
@@ -1253,7 +1232,6 @@ dieser Verordnung gelten, finden die Bestimmungen der
 Nachweisverordnung mit Ausnahme des § 2 Abs. 1 Nr. 2 und des § 23 Nr.
 2 der Nachweisverordnung keine Anwendung.
 
-
 ## § 12 Ausnahmen für Kleinflächen
 
 § 9 Abs. 1 und 2 und § 11 Absatz 2a Satz 2 gelten nicht, wenn
@@ -1263,14 +1241,12 @@ Hektar landwirtschaftlich oder gärtnerisch genutzte Fläche
 bewirtschaften. § 11 Absatz 2a Satz 3 und Absatz 3a Satz 6 gilt nicht
 für den Bewirtschafter dieser Flächen.
 
-
 ## § 12a Elektronische Datenverarbeitung und -übermittlung
 
 Die in dieser Verordnung vorgeschriebenen Dokumentationen und
 Nachweise können mit Hilfe elektronischer Datenverarbeitung erstellt
 und mit Zustimmung der zuständigen Behörde elektronisch oder in
 elektronischer Form vorgelegt oder übermittelt werden.
-
 
 ## § 13 Ordnungswidrigkeiten
 
@@ -1404,10 +1380,6 @@ Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 10. entgegen § 11 Absatz 3a Satz 6 eine Dokumentation nicht, nicht
     richtig, nicht vollständig oder nicht rechtzeitig vorlegt.
 
-
-
-
-
 ## § 13a Bestimmungen für bestehende Anlagen
 
 (1) Bei den am 1. Mai 2012 bestehenden Anlagen, in denen von den
@@ -1463,7 +1435,6 @@ Bioabfallbehandler die Anforderungen an die Prozessüberwachung und an
 die Prüfungen der hygienisierten Bioabfälle gemäß § 3 Absatz 4 Satz 1
 Nummer 2 und 3 und Satz 2 nach spätestens 12 Monaten einzuhalten.
 
-
 ## § 13b Übergangsbestimmungen für geltende und vergleichbare Hygieneprüfungen sowie für geltende Ausnahmezulassungen
 
 (1) Direkte Prozessprüfungen, die vor dem 1. Mai 2012 nach § 3 Absatz
@@ -1499,17 +1470,14 @@ Befristung sind die Anforderungen an die Prozessüberwachung und an die
 Prüfungen der hygienisierten Bioabfälle gemäß § 3 Absatz 4 Satz 1
 Nummer 2 und 3 und Satz 2 einzuhalten.
 
-
 ## § 14 Inkrafttreten
 
 Diese Verordnung tritt am ersten Tage des auf die Verkündung folgenden
 Kalendermonats in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anhang 1 (zu § 2 Nummer 1, 4, 5, § 3 Absatz 3, 7, 7a, 9, 10, § 4 Absatz 1, 2, 5, 6, 8, § 5 Absatz 1, 5, § 6 Absatz 2, § 7 Absatz 1, § 9a Absatz 1, § 10 Absatz 1, § 13a Absatz 1) Liste der für eine Verwertung auf Flächen geeigneten Bioabfälle sowie der dafür geeigneten anderen Abfälle, biologisch abbaubaren Materialien und mineralischen Stoffe
 
@@ -5119,13 +5087,6 @@ archivmäßig gesichert niedergelegt.
 
     –   Richtlinie zur analytischen Qualitätssicherung in der Wasseranalytik,
         DIN V ENV ISO 13530 (Ausgabe Oktober 1999).
-
-
-
-
-
-
-
 
 ## Anhang 4 (zu § 11 Absatz 2) Lieferschein gemäß § 11 Absatz 2 der Bioabfallverordnung
 

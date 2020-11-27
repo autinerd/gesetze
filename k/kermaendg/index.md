@@ -16,33 +16,26 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1969, 901
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art 1
 
 -
-
 
 ## Art 2
 
 -
 
-
 ## Art 3
 
 -
 
-
 ## Art 4
 
 -
-
 
 ## Art 5
 
@@ -50,11 +43,9 @@ Rechtsverordnungen über solche Kosten, Abgaben und Entgelte, die nur
 von Behörden des Bundes erhoben werden, bedürfen nicht der Zustimmung
 des Bundesrates.
 
-
 ## Art 6
 
 -
-
 
 ## Art 7
 
@@ -92,10 +83,6 @@ Gültigkeit
     Verbrauchsteuer- und Branntweinmonopolverfahren vom 31. März 1949
     (Gesetz- und Verordnungsblatt für Schleswig-Holstein S. 68).
 
-
-
-
-
 ## Art 8
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
@@ -103,7 +90,6 @@ Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes
 erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 Überleitungsgesetzes.
-
 
 ## Art 9
 

@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 525 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Auf Grund
@@ -31,13 +30,7 @@ Auf Grund
 -   des § 22 Nr. 3 des Flaggenrechtsgesetzes verordnet der Bundesminister
     für Verkehr im Einvernehmen mit dem Bundesminister der Justiz:
 
-
-
-
-
 ## Erster Abschnitt - Grenzen der Seefahrt
-
-
 
 ### § 1
 
@@ -57,17 +50,9 @@ werden bestimmt:
 4.  bei Mündungen von Flüssen, die keine Binnenwasserstraßen sind, die
     Verbindungslinie der äußeren Uferausläufe.
 
-
-
-
-
 ## Zweiter Abschnitt - Berechtigung zur Führung der Bundesflagge
 
-
-
 ### 1. - Schiffsvorzertifikate
-
-
 
 #### § 2
 
@@ -80,7 +65,6 @@ entsteht.
 (2) Das ausstellende Konsulat ist für die Eintragung des Vermerks in
 das Schiffsvorzertifikat nach § 7 Abs. 2 des Flaggenrechtsgesetzes
 zuständig.
-
 
 #### § 3
 
@@ -152,7 +136,6 @@ Meßergebnis sind vorzulegen. In den Fällen des § 2 Abs. 1 Nr. 2 des
 Flaggenrechtsgesetzes ist ferner eine Bescheinigung nach § 5b Abs. 1
 vorzulegen.
 
-
 #### § 4
 
 Bei der Entscheidung über die Ausstellung des Schiffsvorzertifikats
@@ -162,7 +145,6 @@ sind. Hat der Eigentümer des Schiffs keinen Wohnsitz im
 Geltungsbereich des Grundgesetzes, so hat der Antragsteller
 nachzuweisen, daß ihm eine rechtzeitige Eintragung des Schiffs in
 einem deutschen Schiffsregister nicht möglich war.
-
 
 #### § 5
 
@@ -179,10 +161,7 @@ Eigentümer das Schiffsvorzertifikat unverzüglich dem
 Schiffsregistergericht, welches das Schiffszertifikat erteilt hat,
 abzugeben.
 
-
 ### 1a. - Beauftragte Personen nach § 2 Abs. 1 des Flaggenrechtsgesetzes
-
-
 
 #### § 5a
 
@@ -206,10 +185,6 @@ Eigentümer des Seeschiffs gegenüber der Flaggenbehörde
     Staates nicht dem Führen der Bundesflagge durch das Seeschiff
     entgegenstehen.
 
-
-
-
-
 #### § 5b
 
 (1) Sind die Nachweise des § 5a geführt, so bescheinigt die
@@ -230,7 +205,6 @@ widerruft die Flaggenbehörde die nach Absatz 1 erteilte Bescheinigung
 und teilt dies dem für die Führung des Schiffsregisters zuständigen
 Gericht sowie der See-Berufsgenossenschaft mit.
 
-
 #### § 5c
 
 Die See-Berufsgenossenschaft ist im Rahmen ihrer Befugnisse nach der
@@ -241,10 +215,7 @@ Hoheitsgebiet zu verbieten oder nur unter Bedingungen oder Auflagen
 zuzulassen, die sicherstellen, daß die Hoheitsgewalt und Kontrolle des
 Flaggenstaates über das Schiff wirksam ausgeübt werden kann.
 
-
 ### 2. - Befugnisse nach den §§ 10, 11 des Flaggenrechtsgesetzes, Flaggenscheine
-
-
 
 #### § 6
 
@@ -252,7 +223,6 @@ Für die Verleihung der Befugnisse zur Führung der Bundesflagge (§§ 10
 und 11 FlRG) und die Erteilung der Flaggenscheine (§ 3 Buchstabe b des
 Flaggenrechtsgesetzes), verbunden mit der Zuteilung der
 Unterscheidungssignale der Schiffe, ist die Flaggenbehörde zuständig.
-
 
 #### § 7
 
@@ -280,7 +250,6 @@ zu stellen.
 die Befugnis.
 
 (3)
-
 
 #### § 8
 
@@ -354,10 +323,6 @@ bezeichneten Angaben entsprechend. Ferner sind vorzulegen:
     Erklärung des Eigentümers, daß er dem Flaggenwechsel für die Dauer des
     Nutzungsrechts des Ausrüsters zustimmt.
 
-
-
-
-
 #### § 9
 
 Der Flaggenschein wird
@@ -383,12 +348,10 @@ Zeitraum verliehen, so kann dies auf dem Flaggenschein vermerkt
 werden; der Erteilung eines neuen Flaggenscheins bedarf es in diesem
 Fall nicht.
 
-
 #### § 10
 
 Die Flaggenbehörde übersendet der See-Berufsgenossenschaft in Hamburg
 eine beglaubigte Abschrift oder Ablichtung des Flaggenscheins.
-
 
 #### § 11
 
@@ -397,10 +360,7 @@ bezeichneten Angaben anzuzeigen. Die Anzeige ist an die Flaggenbehörde
 zu richten. Auf Verlangen der Flaggenbehörde ist der Flaggenschein zur
 Berichtigung vorzulegen.
 
-
 ### 3. - Flaggenbescheinigungen
-
-
 
 #### § 12
 
@@ -413,26 +373,18 @@ werden ausgestellt:
 2.  für die anderen in § 3 Buchstabe c des Flaggenrechtsgesetzes genannten
     Seeschiffe von der Flaggenbehörde.
 
-
-
-
-
 #### § 13
 
 Die Flaggenbescheinigung berührt nicht die Vorschriften darüber, ob
 und wie anstelle oder neben der Bundesflagge eine Dienstflagge gesetzt
 werden darf.
 
-
 ### 4. - Flaggenzertifikate
-
-
 
 #### § 14
 
 Für die Erteilung der Flaggenzertifikate (§ 3 Buchstabe d des
 Flaggenrechtsgesetzes) ist die Flaggenbehörde zuständig.
-
 
 #### § 15
 
@@ -445,7 +397,6 @@ verbinden.
 (2) Für Fahrzeuge, die nach ihrer Bauart nicht zur Seefahrt im Sinne
 des § 1 des Flaggenrechtsgesetzes bestimmt sind, kann ein Antrag auf
 Erteilung eines Flaggenzertifikats nicht gestellt werden.
-
 
 #### § 16
 
@@ -474,7 +425,6 @@ anzugeben:
 
 (3) § 3 Abs. 2 Satz 1 gilt entsprechend.
 
-
 #### § 17
 
 Ist der Antragsteller nicht Deutscher im Sinne der §§ 1 und 2 des
@@ -485,7 +435,6 @@ Bundesflagge ausgestellt. In den Fällen des § 2 Abs. 1 Nr. 2 des
 Flaggenrechtsgesetzes ist bei der Ausstellung eines Flaggenzertifikats
 eine gesonderte Bescheinigung nach § 5b Abs. 1 nicht erforderlich.
 
-
 #### § 18
 
 (1) Flaggenzertifikate sind spätestens nach Ablauf von 8 Jahren seit
@@ -494,16 +443,12 @@ jeweils höchstens den gleichen Zeitraum verlängert.
 
 (2) § 11 gilt für die in § 16 bezeichneten Angaben entsprechend.
 
-
 ## Dritter Abschnitt - Gestattung der Führung einer anderen Nationalflagge (§ 7 des Flaggenrechtsgesetzes)
-
-
 
 ### § 19
 
 Für die Gestattung der Führung einer anderen Nationalflagge ist die
 Flaggenbehörde als Genehmigungsbehörde zuständig.
-
 
 ### § 20
 
@@ -562,14 +507,9 @@ bezeichneten Angaben zu enthalten.
 (4) § 11 Satz 1 und 2 gilt für die in den Absätzen 1 und 2
 bezeichneten Angaben entsprechend.
 
-
 ## Vierter Abschnitt - Register
 
-
-
 ### 1. - Flaggenregister
-
-
 
 #### § 21
 
@@ -618,19 +558,12 @@ Datum der Eintragung aufgenommen:
 
 7.  alle Veränderungen der unter den Nummern 1 bis 6 bezeichneten Daten.
 
-
-
-
-
 #### § 22
 
 Die Eintragung wird zehn Jahre nach Beendigung der Berechtigung zur
 Führung der Bundesflagge gelöscht.
 
-
 ### 2. - Internationales Seeschiffahrtsregister
-
-
 
 #### § 23
 
@@ -640,7 +573,6 @@ Flaggenregister geführt. Es enthält über die Angaben im
 Flaggenregister hinaus nur den Vermerk, daß das Schiff im
 internationalen Seeschiffahrtsregister eingetragen ist.
 
-
 #### § 24
 
 Mit dem Antrag auf Eintragung in das internationale
@@ -648,7 +580,6 @@ Seeschiffahrtsregister hat der Eigentümer glaubhaft die Tatsachen
 anzugeben, aus denen sich der Betrieb des Schiffs im internationalen
 Verkehr im Sinne des § 34c Abs. 4 des Einkommensteuergesetzes in der
 jeweils geltenden Fassung ergibt.
-
 
 #### § 25
 
@@ -669,10 +600,7 @@ geändert wird.
 (2) Die Eintragung wird zehn Jahre nach Austragung des Seeschiffs
 gelöscht.
 
-
 ## Fünfter Abschnitt - Ergänzende Vorschriften
-
-
 
 ### § 26
 
@@ -685,11 +613,9 @@ Kontrollen in technischen, sozialen und Verwaltungsangelegenheiten
 über das Schiff zuzulassen und es insbesondere den vorgeschriebenen
 Besichtigungen und Prüfungen zu stellen, unberührt.
 
-
 ### § 27
 
 Flaggenbehörde ist das Bundesamt für Seeschiffahrt und Hydrographie.
-
 
 ### § 28
 
@@ -701,7 +627,6 @@ der Anträge im Verkehrsblatt bekannt.
 glaubhaft zu machen sind, vom Antragsteller oder von Dritten eine
 Versicherung an Eides Statt verlangen und abnehmen.
 
-
 ### § 29
 
 Das Bundesministerium für Verkehr, Bau und Stadtentwicklung gibt die
@@ -709,7 +634,6 @@ Muster der amtlichen Ausweise über die Berechtigung zur Führung der
 Bundesflagge und die Muster der Formblätter zur lückenlosen
 Stammdatendokumentation im Sinne des § 13 Abs. 2 Satz 1 des
 Flaggenrechtsgesetzes im Verkehrsblatt bekannt.
-
 
 ### § 30
 
@@ -732,7 +656,6 @@ Reliefs, durch Aufnieten oder in einem sonstigen gleichwertigen
 Markierungsverfahren auszuführen, durch das sichergestellt ist, dass
 die IMO-Schiffsidentifikationsnummer nicht leicht unkenntlich gemacht
 werden kann.
-
 
 ### § 30a
 
@@ -765,7 +688,6 @@ Erhalt der aktualisierten Stammdatendokumentation die Maßnahmen nach
 den Nummern 10 und 11 der Anlage zur Entschließung A.959(23) zu
 ergreifen.
 
-
 ### § 31
 
 (1) Für jedes Schiff wird über die Berechtigung zur Führung der
@@ -780,20 +702,15 @@ diesen Fällen unbrauchbar zu machen.
 
 (3) Die Absätze 1 und 2 gelten nicht für das Schiffszertifikat.
 
-
 ## Sechster Abschnitt - Schlußbestimmungen
-
-
 
 ### § 32
 
 -
 
-
 ### § 33
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ### Anlage (zu § 5 Abs. 1)
 

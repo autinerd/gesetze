@@ -42,18 +42,11 @@ Diese Verordnung dient der Umsetzung folgender Richtlinien:
     Pflanzkartoffeln (ABl. EG Nr. L 193 S. 60), zuletzt geändert durch die
     Richtlinie 2003/61/EG vom 18. Juni 2003 (ABl. EU Nr. L 165 S. 23).
 
-
-
-
-
 ## Abschnitt 1 - Allgemeine Vorschriften
-
-
 
 ### § 1 Anwendungsbereich
 
 Die Vorschriften dieser Verordnung gelten für Pflanzgut von Kartoffel.
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -98,13 +91,7 @@ Im Sinne dieser Verordnung sind
 2.  Knollenkrankheiten: an der Kartoffelknolle auftretende Krankheiten
     außer Viruskrankheiten.
 
-
-
-
-
 ## Abschnitt 2 - Anerkennung von Pflanzgut
-
-
 
 ### § 3 Basispflanzgut, Zertifiziertes Pflanzgut
 
@@ -154,7 +141,6 @@ Zertifiziertem Pflanzgut erwachsen sein, wenn dieses unmittelbar aus
 Basispflanzgut, Basispflanzgut EWG oder anerkanntem Vorstufenpflanzgut
 erwachsen ist.
 
-
 ### § 4 Anerkennungsstelle
 
 (1) Der Antrag auf Anerkennung ist bei der Anerkennungsstelle zu
@@ -169,7 +155,6 @@ Anerkennungsstelle zu stellen, wenn der Betrieb im Ausland liegt.
 Absatz 1 zuständigen Anerkennungsstelle aufbereitet, so gibt sie das
 Verfahren auf Antrag an die Anerkennungsstelle ab, in deren Bereich
 das Pflanzgut aufbereitet wird.
-
 
 ### § 5 Antrag
 
@@ -337,7 +322,6 @@ Antrag die Anerkennungsnummer, die Kategorie und die Klasse anzugeben,
 unter der das Pflanzgut anerkannt worden ist; im Falle der Anerkennung
 im Ausland ist auch die Anerkennungsstelle anzugeben.
 
-
 ### § 6 Anforderungen an die Vermehrungsfläche und den Vermehrungsbetrieb
 
 (1) Pflanzgut wird nur anerkannt, wenn
@@ -403,11 +387,9 @@ getrennt zu lagern sind.
 
 (4) Die Vermehrungsflächen sind durch Schilder zu kennzeichnen.
 
-
 ### § 7
 
 (weggefallen)
-
 
 ### § 8 Anforderungen an den Feldbestand und an die Beschaffenheit des Pflanzgutes
 
@@ -420,7 +402,6 @@ gewerblichen Zwecken an den Letztverbraucher heraus, dass ein Teil des
 Pflanzgutes einer Partie die Anforderungen nach Absatz 1 Satz 2 in
 Verbindung mit Anlage 2 Nr. 2.2 oder 2.3 nicht oder nicht mehr
 erfüllt, so darf dieser Teil ausgesondert werden.
-
 
 ### § 9 Feldbestandsprüfung
 
@@ -455,7 +436,6 @@ zusammenhängenden Vermehrungsfläche als für die Anerkennung nicht
 geeignet, so wird der Feldbestand der restlichen Vermehrungsfläche nur
 berücksichtigt, wenn er deutlich abgegrenzt worden ist.
 
-
 ### § 10 Mängel des Feldbestandes
 
 (1) Soweit Mängel des Feldbestandes behoben werden können, wird auf
@@ -472,13 +452,11 @@ Anerkennungsstelle das Anerkennungsverfahren fortsetzen, wenn
 sichergestellt ist, dass nur der Teil der Vermehrungsfläche
 berücksichtigt wird, der nicht als befallen abgegrenzt ist.
 
-
 ### § 11 Mitteilung des Ergebnisses der Feldbestandsprüfung
 
 Ergibt die Feldbestandsprüfung, dass die Anforderungen an den
 Feldbestand nicht erfüllt sind, so wird dies dem Antragsteller und dem
 Vermehrer schriftlich mitgeteilt.
-
 
 ### § 12 Wiederholungsbesichtigung
 
@@ -494,13 +472,11 @@ vorgenommen werden. In der Zeit zwischen der letzten Besichtigung und
 der Wiederholungsbesichtigung darf der Feldbestand nicht verändert
 werden. § 11 gilt entsprechend.
 
-
 ### § 13 Beschaffenheitsprüfung
 
 Die Beschaffenheitsprüfung besteht aus der Prüfung auf
 Viruskrankheiten, Bakterielle Ringfäule und Schleimkrankheit sowie der
 Prüfung auf weitere Knollenkrankheiten und äußere Mängel.
-
 
 ### § 14 Probenahme für die Prüfung auf Viruskrankheiten, Bakterielle Ringfäule und Schleimkrankheit
 
@@ -566,7 +542,6 @@ Gefahr der Ausbreitung dieser Krankheiten, kann die zuständige Behörde
 einen über den in Anlage 3 Nr. 1a festgelegten Probenumfang
 hinausgehenden Probenumfang festlegen.
 
-
 ### § 15 Prüfung auf Viruskrankheiten, Bakterielle Ringfäule und Schleimkrankheit
 
 (1) Ergibt die Prüfung auf Viruskrankheiten, dass die Anforderungen
@@ -588,14 +563,12 @@ Verfahren des Anhangs II der Richtlinie 98/57/EG des Rates vom 20.
 Juli 1998 zur Bekämpfung von Ralstonia solanacearum (Smith) Yabuuchi
 et al. (ABl. EG Nr. L 235 S. 1) durchzuführen.
 
-
 ### § 16 Mitteilung des Ergebnisses der Prüfung auf Viruskrankheiten, Bakterielle Ringfäule und Schleimkrankheit
 
 Das Ergebnis der Prüfung auf Viruskrankheiten, Bakterielle Ringfäule
 und Schleimkrankheit wird dem Antragsteller und, wenn die
 Anforderungen nicht erfüllt sind, auch demjenigen, in dessen Betrieb
 die Probe entnommen worden ist, schriftlich mitgeteilt.
-
 
 ### § 17 Probenahme für die Prüfung auf Knollenkrankheiten und äußere Mängel
 
@@ -644,7 +617,6 @@ Kartoffelnematoden festgestellt hat.
 (4) Der Probenehmer verweigert die Probenahme, wenn eine Auflage nach
 § 6 Abs. 3 Satz 2 nicht erfüllt ist.
 
-
 ### § 18 Prüfung auf weitere Knollenkrankheiten und äußere Mängel
 
 (1) Die Prüfung auf weitere Knollenkrankheiten und äußere Mängel wird
@@ -660,7 +632,6 @@ und 2.3 nicht erfüllt sind, so gestattet die Anerkennungsstelle auf
 Antrag die Entnahme einer weiteren Probe, wenn durch Darlegung von
 Umständen glaubhaft gemacht wird, dass der festgestellte Mangel
 beseitigt ist.
-
 
 ### § 19 Bescheid
 
@@ -703,7 +674,6 @@ in einer der dieser Kategorie oder Klasse jeweils nachfolgenden
 Kategorien oder Klassen anerkannt, wenn es die hierfür festgelegten
 Anforderungen erfüllt.
 
-
 ### § 20 Nachprüfung
 
 (1) Die Anerkennungsstelle prüft, soweit sie es für erforderlich hält,
@@ -734,13 +704,11 @@ Partie und die Mindestmenge einer Probe ergeben sich aus Anlage 3 Nr.
 (4) Die Anerkennungsstelle leitet die erforderlichen Proben in den
 Fällen des Absatzes 2 dem Bundessortenamt zu.
 
-
 ### § 21 Verfahren für die Nachprüfung durch Anbau
 
 Die Nachprüfung durch Anbau soll in der der Probenahme folgenden
 Vegetationsperiode durchgeführt werden. Die Proben für die Nachprüfung
 durch Anbau sind zusammen mit Vergleichsproben anzubauen.
-
 
 ### § 22 Rücknahme der Anerkennung
 
@@ -759,10 +727,7 @@ Einleger und die Verschlusssicherungen, mit denen die Packungen und
 Behältnisse versehen worden sind, nach Anweisung der
 Anerkennungsstelle abzuliefern oder unbrauchbar zu machen.
 
-
 ## Abschnitt 2a - Inverkehrbringen von Pflanzgut nicht zugelassener Sorten
-
-
 
 ### § 22a Genehmigung durch das Bundessortenamt
 
@@ -773,10 +738,7 @@ den Verkehr bringt, dem Bundessortenamt am Ende eines jeden
 Wirtschaftsjahres einen Bericht über die Verwendung der Etiketten des
 Bundessortenamtes nach § 32 Absatz 1a vorzulegen hat.
 
-
 ## Abschnitt 3 - Verpackung, Kennzeichnung und Verschließung
-
-
 
 ### § 23 Verpackung
 
@@ -788,7 +750,6 @@ ungebraucht sein. Werden zur Wiederverwendung vorgesehene Behältnisse
 verwendet, so müssen diese sauber und frei von Stoffen,
 Schadorganismen und Krankheitserregern sein, die den Pflanzgutwert
 beeinträchtigen können.
-
 
 ### § 24 Etikett
 
@@ -807,7 +768,6 @@ zusätzlich in anderen Sprachen gemacht werden.
 denen eine laufende Nummer, ein Abdruck ihres Siegels oder beides
 aufgedruckt ist.
 
-
 ### § 25 Einleger
 
 Jede Packung oder jedes Behältnis ist mit einem Einleger in der
@@ -817,7 +777,6 @@ jeweiligen Kennfarbe zu versehen, der als Aufdruck die Bezeichnung
 reißfestem Material oder ein Klebeetikett verwendet wird oder die
 Angaben nach Satz 1 auf der Packung oder dem Behältnis unverwischbar
 aufgedruckt sind.
-
 
 ### § 26 Angabe einer chemischen Behandlung
 
@@ -837,10 +796,6 @@ unverwischbar aufzudrucken
 
 
 3.  auf einem Klebeetikett.
-
-
-
-
 
 ### § 27 Angaben in besonderen Fällen
 
@@ -876,7 +831,6 @@ enthält; an die Stelle des Zusatzetikettes kann bei Packungen ein
 unverwischbarer Aufdruck treten. Die Sätze 1 und 2 gelten nicht, wenn
 am ersten Bestimmungsort im Inland die Packungen oder die Behältnisse
 nach § 29 wiederverschlossen werden sollen.
-
 
 ### § 28 Verschließung
 
@@ -924,10 +878,6 @@ Anforderung auch dann als erfüllt, wenn es
 2.  bei einer maschinell zugenähten Packung von einer Seite zur
     gegenüberliegenden Seite mit der Maschinennaht durchgenäht ist.
 
-
-
-
-
 ### § 29 Wiederverschließung
 
 (1) Auf Antrag findet eine Wiederverschließung statt. In dem Antrag
@@ -962,7 +912,6 @@ Maßgabe, dass hinter der Zahl der Buchstabe "W" angefügt ist.
 (5) Werden Originaletiketten nicht wieder verwendet und sind
 Originaleinleger noch vorhanden, so sind sie an den Probenehmer zur
 Vernichtung abzuliefern.
-
 
 ### § 30 Kleinpackungen
 
@@ -1005,7 +954,6 @@ liegt, auf Antrag festgesetzt. Die Betriebsnummer setzt sich aus den
 Buchstaben „DE”, einer Zahl und dem Kennzeichen der Anerkennungsstelle
 zusammen.
 
-
 ### § 31 Abgabe in kleinen Mengen
 
 (1) Zertifiziertes Pflanzgut darf aus vorschriftsmäßig
@@ -1031,7 +979,6 @@ Partienummer der Kleinpackung.
 
 (2) Ist Pflanzgut chemisch behandelt worden, so ist der Erwerber auch
 ohne Verlangen hierauf hinzuweisen. § 26 Satz 2 gilt entsprechend.
-
 
 ### § 32 Kennzeichnung von nicht anerkanntem Pflanzgut in besonderen Fällen
 
@@ -1120,10 +1067,7 @@ oder Behältnissen eingeführt worden ist.
 (3) § 26 gilt entsprechend; die Angaben sind auf den besonderen
 Etiketten und Einlegern zu machen.
 
-
 ## Abschnitt 4 - Zusätzliche Anforderungen für das Inverkehrbringen
-
-
 
 ### § 33
 
@@ -1131,10 +1075,7 @@ Anerkanntes Pflanzgut darf zu gewerblichen Zwecken nur in den Verkehr
 gebracht werden, wenn es nach der Größe sortiert ist und den
 Anforderungen der Anlage 5 entspricht.
 
-
 ## Abschnitt 5 - Schlussvorschriften
-
-
 
 ### § 33a Übergangsvorschrift
 
@@ -1145,11 +1086,9 @@ verwendet werden.
 (2) § 19 Absatz 2 und § 30 Absatz 4 Satz 2 sind bis zum Ablauf des 30.
 Juni 2010 in der am 26. März 2010 geltenden Fassung anzuwenden.
 
-
 ### § 34
 
 (Inkrafttreten)
-
 
 ### Anlage 1 (zu § 8 Abs. 1 Satz 1) Anforderungen an den Feldbestand
 
@@ -1180,10 +1119,6 @@ Fundstelle: BGBl. I 2004, 2927 - 2928)
     erwarten ist, dass bei einer anzuordnenden Prüfung des Pflanzgutes auf
     Viruskrankheiten keine Überschreitung des zulässigen Besatzes mit
     viruskranken Knollen festgestellt wird.
-
-
-
-
 
 ### Anlage 2 (zu § 8 Abs. 1 Satz 2, § 15 Abs. 2, § 29 Abs. 2 Satz 2) Anforderungen an die Beschaffenheit des Pflanzgutes
 
@@ -1336,13 +1271,6 @@ Fundstelle des Originaltextes: BGBl. I 2004, 2929
 
     3.2 Das Pflanzgut darf nicht geschnitten sein.
 
-
-
-
-
-
-
-
 ### Anlage 3 (zu § 14 Abs. 2, § 15 Abs. 1, § 17 Abs. 1, § 20 Abs. 3) Größe der Partien und Proben
 
 Fundstelle des Originaltextes: BGBl. I 2004, 2930
@@ -1423,10 +1351,6 @@ Fundstelle des Originaltextes: BGBl. I 2004, 2930
 
     *   105 Knollen
 
-
-
-
-
 ### Anlage 4 (zu § 24 Absatz 2, § 25 Satz 1 und § 32 Absatz 1a) Angaben auf dem Etikett
 
 (Fundstelle des Originaltextes: BGBl. I 2004, 2930;
@@ -1503,13 +1427,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
     3.6 „Nur für Versuchszwecke”
-
-
-
-
-
-
-
 
 ### Anlage 5 (zu § 33) Größensortierung
 

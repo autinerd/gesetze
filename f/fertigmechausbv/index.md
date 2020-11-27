@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1997, 1453
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 25 Abs. 1 des Berufsbildungsgesetzes vom 14. August
@@ -28,12 +26,10 @@ mit Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975
 Einvernehmen mit dem Bundesministerium für Bildung, Wissenschaft,
 Forschung und Technologie:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Fertigungsmechaniker/Fertigungsmechanikerin wird
 staatlich anerkannt.
-
 
 ## § 2 Ausbildungsdauer
 
@@ -44,7 +40,6 @@ Vorschriften eingeführten schulischen Berufsgrundbildungsjahres nach
 einer Verordnung gemäß § 29 Abs. 1 des Berufsbildungsgesetzes als
 erstes Jahr der Berufsausbildung anzurechnen ist, beginnen die
 betriebliche Ausbildung im zweiten Ausbildungsjahr.
-
 
 ## § 3 Berufsfeldbreite Grundbildung und Zielsetzung der Berufsausbildung
 
@@ -61,7 +56,6 @@ Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges
 Planen, Durchführen und Kontrollieren einschließt. Die in Satz 1
 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 8 und 9
 nachzuweisen.
-
 
 ## § 4 Ausbildungsberufsbild
 
@@ -139,10 +133,6 @@ Fertigkeiten und Kenntnisse:
 
 23. Instandhalten von Betriebsmitteln und Teilsystemen.
 
-
-
-
-
 ## § 5 Ausbildungsrahmenplan
 
 Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der Anlage
@@ -154,12 +144,10 @@ innerhalb der beruflichen Fachbildung abweichende sachliche und
 zeitliche Gliederung der Ausbildungsinhalte ist insbesondere zulässig,
 soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
 ## § 6 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 7 Berichtsheft
 
@@ -167,7 +155,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 8 Zwischenprüfung
 
@@ -213,10 +200,6 @@ lösen:
 
 
 7.  Berechnung von Längen, Flächen, Kräften und Geschwindigkeiten.
-
-
-
-
 
 ## § 9 Abschlußprüfung
 
@@ -363,11 +346,9 @@ der Prüfung im Durchschnitt der Prüfungsbereiche Fertigungs- und
 Montagetechnik und Technische Kommunikation mindestens ausreichende
 Leistungen erbracht sind.
 
-
 ## § 10 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 1997 in Kraft.
-
 
 ## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Fertigungsmechaniker/zur Fertigungsmechanikerin
 

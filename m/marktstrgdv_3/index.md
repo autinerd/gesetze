@@ -16,15 +16,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1969, 1205
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 3 Abs. 3 Nr. 1 und 2 und des § 6 Abs. 2 Nr. 1 und 2
 des Marktstrukturgesetzes vom 16. Mai 1969 (Bundesgesetzbl. I S. 423)
 wird im Einvernehmen mit dem Bundesminister für Wirtschaft mit
 Zustimmung des Bundesrates verordnet:
-
 
 ## § 1
 
@@ -77,10 +74,6 @@ können zusammengefaßt werden
 
     *   frisch (lebend oder nicht lebend), gekühlt oder gefroren.
 
-
-
-
-
 ## § 2
 
 (1) Die Mindesterzeugungsmenge (§ 3 Abs. 1 Nr. 6 des Gesetzes) für ein
@@ -110,7 +103,6 @@ Erzeugnis oder eine Gruppe verwandter Erzeugnisse wird festgesetzt
 
 (2) Das erste Jahr beginnt mit dem Tag, an dem der Antrag auf
 Anerkennung als Erzeugergemeinschaft gestellt wird.
-
 
 ## § 3
 
@@ -142,18 +134,15 @@ Berechnung der Mindestmenge nach Satz 1 als ein Liefervertrag.
 Gesetzes) wird für Lieferverträge nach Absatz 1 auf drei Jahre
 festgesetzt.
 
-
 ## § 4
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit § 13 Satz 2
 des Marktstrukturgesetzes auch im Land Berlin.
 
-
 ## § 5
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlußformel
 

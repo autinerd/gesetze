@@ -23,7 +23,6 @@ Richtlinie 2000/46/EG des Europäischen Parlaments und des Rates vom
 18\. September 2000 über die Aufnahme, Ausübung und Beaufsichtigung der
 Tätigkeit von E-Geld-Instituten (ABl. EG Nr. L 275 S. 39).
 
-
 ## Eingangsformel
 
 Auf Grund des § 11 Abs. 1 Satz 2 des Kreditwesengesetzes, der durch
@@ -31,7 +30,6 @@ Artikel 1 Nr. 16 des Gesetzes vom 17. November 2006 (BGBl. I S. 2606)
 neu gefasst worden ist, verordnet das Bundesministerium der Finanzen
 im Benehmen mit der Deutschen Bundesbank nach Anhörung der
 Spitzenverbände der Institute:
-
 
 ## § 1 Anwendungsbereich
 
@@ -75,10 +73,6 @@ Abs. 1 Satz 1 des Kreditwesengesetzes, wenn
 4.  die Bundesanstalt das Vorliegen der Voraussetzungen nach den Nummern 1
     bis 3 schriftlich bestätigt hat.
 
-
-
-
-
 ## § 2 Ausreichende Liquidität
 
 (1) Die Liquidität eines Instituts gilt als ausreichend, wenn die zu
@@ -113,7 +107,6 @@ die abrufbaren Zahlungsverpflichtungen, ist der Unterschiedsbetrag als
 zusätzliches Zahlungsmittel bei der Ermittlung der
 Beobachtungskennzahl in dem nächsthöheren Laufzeitband zu
 berücksichtigen.
-
 
 ## § 3 Zahlungsmittel
 
@@ -260,10 +253,6 @@ und 2 sind
 6.  andere als die in Absatz 1 Nr. 8 aufgeführten Investmentanteile,
     soweit sie nicht von Absatz 1 Nr. 5 als Zahlungsmittel erfasst sind.
 
-
-
-
-
 ## § 4 Zahlungsverpflichtungen
 
 (1) Als Zahlungsverpflichtungen sind im Laufzeitband 1 zu erfassen
@@ -374,10 +363,6 @@ nach Baufortschritt ausgezahlt werden, sind zu erfassen in Höhe von
 
 4.  48 Prozent im Laufzeitband 4.
 
-
-
-
-
 ## § 5 Wertpapierpensions- und Wertpapierleihgeschäfte
 
 (1) Im Rahmen echter Pensionsgeschäfte verpensionierte Wertpapiere
@@ -416,7 +401,6 @@ Bestand des Verleihers abzusetzen und dem Entleiher zuzurechnen. Der
 Entleiher hat eine Sachverbindlichkeit zur Rückgabe der Papiere zu
 berücksichtigen, der eine Sachforderung beim Verleiher in
 entsprechender Höhe gegenübersteht.
-
 
 ## § 6 Bemessungsgrundlage
 
@@ -501,7 +485,6 @@ werden.
 (3) Für die Umrechnung von auf fremde Währungen lautenden Aktiv- und
 Passivposten gilt § 5 der Solvabilitätsverordnung entsprechend.
 
-
 ## § 7 Restlaufzeiten
 
 Als Restlaufzeit gilt
@@ -549,7 +532,6 @@ betreffenden Laufzeitbänder einzustellen. Tagesgelder und Gelder mit
 täglicher Kündigung gelten nicht als täglich fällig. Sie werden wie
 Festgelder mit eintägiger Laufzeit behandelt.
 
-
 ## § 8 Regelung für Bausparkassen
 
 Bausparkassen müssen abweichend von den §§ 3 bis 7 den
@@ -559,11 +541,9 @@ nach § 4 Abs. 1 im Laufzeitband 1 anrechnen. Die Zahlungsmittel und
 Zahlungsverpflichtungen aus dem außerkollektiven Geschäft der
 Bausparkassen sind nach den §§ 3 bis 7 zu erfassen.
 
-
 ## § 9 (weggefallen)
 
 -
-
 
 ## § 10 Verwendung von institutseigenen Liquiditätsrisikomess- und -steuerungsverfahren
 
@@ -646,7 +626,6 @@ angehört, ein eigenes Liquiditätsrisikomess- und -steuerungsverfahren
 verwendet und die Bundesanstalt dessen Eignung schriftlich bestätigt
 hat. Die Absätze 1 bis 3 gelten entsprechend.
 
-
 ## § 11 Meldungen der Kennzahlen
 
 (1) Die Institute haben der Deutschen Bundesbank zu den Anforderungen
@@ -675,28 +654,23 @@ Meldungen an die Bundesanstalt weiter. Institute haben die Meldungen
 nach Anlage 2 und 3 für das laufende Kalenderjahr und die zwei
 vorangegangenen Kalenderjahre aufzubewahren.
 
-
 ## § 12 (weggefallen)
 
 -
-
 
 ## § 13 Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2007 in Kraft.
 
-
 ## Anlage 1 (weggefallen)
 
 -
-
 
 ## Anlage 2 (zu § 11 Abs. 1 Satz 1) Meldevordruck LV 1
 
 ...
 (nicht darstellbare Abbildung des "Meldevordrucks LV 1"
 Fundstelle: BGBl. I 2006, 3124 - 3129)
-
 
 ## Anlage 3 (zu § 11 Abs. 1 Satz 1) Meldevordruck LV 2
 

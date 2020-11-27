@@ -16,14 +16,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1635
 
-
 ## § 1 Zweck der Verordnung
 
 Zweck dieser Verordnung ist es, eine Gefährdung der Systemstabilität
 des Elektrizitätsversorgungsnetzes durch Anlagen zur Erzeugung von
 Energie aus solarer Strahlungsenergie bei Über- und Unterfrequenzen zu
 vermeiden.
-
 
 ## § 2 Sachlicher Anwendungsbereich
 
@@ -47,10 +45,6 @@ von Strom aus solarer Strahlungsenergie
     mehr als 30 Kilowatt, die nach dem 30. April 2001 und vor dem 1.
     Januar 2009 in Betrieb genommen wurden.
 
-
-
-
-
 ## § 3 Begriffsbestimmungen
 
 Im Sinne dieser Verordnung ist
@@ -67,10 +61,6 @@ Im Sinne dieser Verordnung ist
 
 3.  „Entkupplungsschutzeinrichtung“ eine Einrichtung, die die Anlage bei
     unzulässigen Spannungs- und Frequenzabweichungen vom Netz trennt.
-
-
-
-
 
 ## § 4 Verpflichtung zur Nachrüstung der Wechselrichter von Anlagen im Niederspannungsnetz
 
@@ -217,7 +207,6 @@ sollen insbesondere darüber Auskunft geben, nach welcher der in den §§
 auf welchen Frequenzwert er im Falle der Variante nach § 4 Absatz 3
 und § 5 Absatz 2 einzustellen ist.
 
-
 ## § 7 Verpflichtung zur Nachrüstung von Entkupplungsschutzeinrichtungen
 
 Für den Fall, dass zwischen der nach § 2 betroffenen Anlage und dem
@@ -226,7 +215,6 @@ Entkupplungsschutzeinrichtung installiert ist, hat der Betreiber von
 Elektrizitätsverteilernetzen auch diese in der Weise nachzurüsten,
 dass für die Unterfrequenzabschaltung ein Wert von 47,5 Hertz und für
 die Überfrequenzabschaltung ein Wert von 51,5 Hertz einzustellen ist.
-
 
 ## § 8 Durchführung der Nachrüstung; Fristen
 
@@ -311,7 +299,6 @@ mindestens eine Kalenderwoche vor diesem Zeitpunkt einen neuen
 Zeitpunkt zur Durchführung der Nachrüstung vorzuschlagen; der neue
 Zeitpunkt darf nicht mehr als drei Wochen nach dem vom Betreiber des
 Elektrizitätsverteilernetzes vorgeschlagenen Zeitpunkt liegen.
-
 
 ## § 10 Kosten
 

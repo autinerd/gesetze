@@ -16,14 +16,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1997, 432
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 6 des Arzneimittelgesetzes in der Fassung der
 Bekanntmachung vom 19. Oktober 1994 (BGBl. I S. 3018) verordnet das
 Bundesministerium für Gesundheit:
-
 
 ## § 1 Verbot der Verwendung von Frischzellen
 
@@ -49,7 +46,6 @@ Arzneimittelgesetzes als zugelassen gelten.
 Arzneimittel zur Anwendung im Rahmen der klinischen Prüfung nach § 40
 des Arzneimittelgesetzes.
 
-
 ## § 2 Straf- und Bußgeldvorschriften
 
 (1) Nach § 95 Abs. 1 Nr. 2, Abs. 2 bis 4 des Arzneimittelgesetzes wird
@@ -62,11 +58,9 @@ entgegen § 1 Abs. 1 Frischzellen verwendet.
 (3) Wer eine in Absatz 2 bezeichnete Handlung fahrlässig begeht,
 handelt nach § 97 Abs. 1 des Arzneimittelgesetzes ordnungswidrig.
 
-
 ## § 3 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlußformel
 

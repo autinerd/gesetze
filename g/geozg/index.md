@@ -20,9 +20,7 @@ Fundstelle
     einer Geodateninfrastruktur in der Europäischen Gemeinschaft (INSPIRE-
     Richtlinie) (ABl. L 108 vom 25.4.2007, S. 1) in deutsches Recht.
 
-
 ## Abschnitt 1 - Ziel und Anwendungsbereich
-
 
 ### § 1 Ziel des Gesetzes
 
@@ -35,10 +33,6 @@ Es schafft den rechtlichen Rahmen für
 
 2.  die Nutzung dieser Daten und Dienste, insbesondere für Maßnahmen, die
     Auswirkungen auf die Umwelt haben können.
-
-
-
-
 
 ### § 2 Anwendungsbereich
 
@@ -60,9 +54,7 @@ Vereinten Nationen vom 10. Dezember 1982 (BGBl. 1994 II S. 1798; 1995
 II S. 602) auch im Bereich der ausschließlichen Wirtschaftszone und
 des Festlandsockels.
 
-
 ## Abschnitt 2 - Begriffsbestimmungen
-
 
 ### § 3 Allgemeine Begriffe
 
@@ -119,7 +111,6 @@ Transaktion und Interaktion.
 (8) Geodatenhaltende Stellen im Sinne dieses Gesetzes sind die
 informationspflichtigen Stellen im Sinne von § 2 Absatz 1 des
 Umweltinformationsgesetzes vom 22. Dezember 2004 (BGBl. I S. 3704).
-
 
 ### § 4 Betroffene Geodaten und Geodatendienste
 
@@ -394,9 +385,7 @@ sind.
 Geodatendienste nicht selbst über die Rechte an geistigem Eigentum, so
 bleiben diese Rechte von den Vorschriften dieses Gesetzes unberührt.
 
-
 ## Abschnitt 3 - Anforderungen
-
 
 ### § 5 Bereitstellung von Geodaten
 
@@ -420,7 +409,6 @@ zuständigen geodatenhaltenden Stellen mit den jeweils zuständigen
 Stellen in dem Mitgliedstaat beziehungsweise in den Mitgliedstaaten
 die Darstellung und die Position des Standorts beziehungsweise des
 geografischen Gebiets ab.
-
 
 ### § 6 Bereitstellung der Geodatendienste und Netzdienste
 
@@ -481,7 +469,6 @@ gewährleisten:
 (5) Einzelheiten zur Spezifikation der Geodatendienste und Netzdienste
 werden durch Rechtsverordnung nach § 14 geregelt.
 
-
 ### § 7 Bereitstellung von Metadaten
 
 (1) Die geodatenhaltenden Stellen, welche Geodaten und Geodatendienste
@@ -538,7 +525,6 @@ Angaben zu folgenden Aspekten zu führen:
 (4) Einzelheiten zur Spezifikation der Metadaten werden durch
 Rechtsverordnung nach § 14 geregelt.
 
-
 ### § 8 Interoperabilität
 
 (1) Geodaten und Geodatendienste sowie Metadaten sind interoperabel
@@ -546,9 +532,7 @@ bereitzustellen.
 
 (2) Einzelheiten werden durch Rechtsverordnung nach § 14 geregelt.
 
-
 ## Abschnitt 4 - Elektronisches Netzwerk
-
 
 ### § 9 Geodateninfrastruktur und Geoportal
 
@@ -558,7 +542,6 @@ elektronisches Netzwerk verknüpft.
 
 (2) Der Zugang zum elektronischen Netzwerk nach Absatz 1 erfolgt auf
 der Ebene des Bundes durch ein Geoportal.
-
 
 ### § 10 Nationale Anlaufstelle
 
@@ -573,9 +556,7 @@ Anlaufstelle im Sinne des Artikels 19 Absatz 2 der Richtlinie
 (3) Die Einzelheiten regeln Bund und Länder in einer
 Verwaltungsvereinbarung.
 
-
 ## Abschnitt 5 - Nutzung von Geodaten
-
 
 ### § 11 Allgemeine Nutzung
 
@@ -585,7 +566,6 @@ Geodaten über Darstellungsdienste bereitgestellt, kann dies in einer
 Form geschehen, welche eine Weiterverwendung im Sinne von § 2 Nummer 3
 des Informationsweiterverwendungsgesetzes vom 13. Dezember 2006 (BGBl.
 I S. 2913) ausschließt.
-
 
 ### § 12 Schutz öffentlicher und sonstiger Belange
 
@@ -635,7 +615,6 @@ beschränkt werden, wenn hierdurch
 
 
 gefährdet werden können.
-
 
 ### § 13 Geldleistungen und Lizenzen
 
@@ -710,9 +689,7 @@ gehören.
 (7) Die Bedingungen für den Zugang zu den Geodaten und ihre Nutzung
 werden in einer Verordnung nach § 14 geregelt.
 
-
 ## Abschnitt 6 - Schlussbestimmungen
-
 
 ### § 14 Verordnungsermächtigung
 
@@ -722,7 +699,6 @@ Absatz 1, Artikel 16, Artikel 17 Absatz 8 sowie Artikel 21 Absatz 4
 der Richtlinie 2007/2/EG, soweit diese den Anwendungsbereich dieses
 Gesetzes betreffen, Rechtsverordnungen ohne Zustimmung des Bundesrates
 zu erlassen.
-
 
 ### § 15 Inkrafttreten
 

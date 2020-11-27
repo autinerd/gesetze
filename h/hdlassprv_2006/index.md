@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 1688
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 53 Abs. 1 in Verbindung mit Abs. 2 und des § 30 Abs. 5
@@ -28,7 +26,6 @@ Verbindung mit § 1 des Zuständigkeitsanpassungsgesetzes vom 16. August
 Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für
 Berufsbildung im Einvernehmen mit dem Bundesministerium für Wirtschaft
 und Technologie:
-
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
 
@@ -96,7 +93,6 @@ können. Dazu zählen:
 "Geprüfter Handelsassistent - Einzelhandel/Geprüfte Handelsassistentin
 - Einzelhandel".
 
-
 ## § 2 Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer
@@ -128,7 +124,6 @@ Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht,
 Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche
 Handlungsfähigkeit) erworben zu haben, die die Zulassung zur Prüfung
 rechtfertigen.
-
 
 ## § 3 Gliederung und Durchführung der Prüfung
 
@@ -209,7 +204,6 @@ können. Das Fachgespräch soll in der Regel 20 Minuten nicht
 (10) Die mündliche Prüfung gemäß Absatz 6 wird nur durchgeführt, wenn
 in den Prüfungsleistungen nach Absatz 4 jeweils mindestens
 ausreichende Leistungen erbracht wurden.
-
 
 ## § 4 Handlungsbereiche
 
@@ -484,10 +478,6 @@ diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 5.  Strukturwandel.
 
-
-
-
-
 ## § 5 Anrechnung anderer Prüfungsleistungen
 
 Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin kann auf Antrag
@@ -498,7 +488,6 @@ vor einem staatlichen Prüfungsausschuss eine Prüfung mit Erfolg
 abgelegt wurde, die den Anforderungen der entsprechenden
 Prüfungsinhalte nach dieser Verordnung entspricht. Eine Freistellung
 von der mündlichen Prüfung nach § 3 Abs. 6 bis 10 ist nicht zulässig.
-
 
 ## § 6 Bewerten der Prüfungsleistungen und Bestehen der Prüfung
 
@@ -514,7 +503,6 @@ und der Anlage 2 auszustellen. Im Falle der Freistellung nach § 5 sind
 Ort und Datum der anderweitig abgelegten Prüfung sowie die Bezeichnung
 des Prüfungsgremiums anzugeben.
 
-
 ## § 7 Wiederholung der Prüfung
 
 (1) Eine Prüfung, die nicht bestanden ist, kann zweimal wiederholt
@@ -529,7 +517,6 @@ kann sich auch darauf richten, dabei bestandene Prüfungsleistungen zu
 wiederholen. Werden bestandene Prüfungsleistungen erneut geprüft, gilt
 in diesem Fall das Ergebnis der letzten Prüfung.
 
-
 ## § 8 Übergangsvorschriften
 
 Begonnene Prüfungsverfahren zum Geprüften Handelsassistenten -
@@ -542,11 +529,9 @@ findet in diesem Fall keine Anwendung. Im Übrigen kann bei der
 Anmeldung zur Prüfung bis zum Ablauf des 31. Juli 2008 die Anwendung
 der bisherigen Vorschriften beantragt werden.
 
-
 ## § 9 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2006 in Kraft.
-
 
 ## Anlage 1 (zu § 6 Abs. 3)
 
@@ -576,7 +561,6 @@ bestanden.
 Ort/Datum ........................................
 Unterschrift(en) .................................
 (Siegel der zuständigen Stelle)
-
 
 ## Anlage 2 (zu § 6 Abs. 3)
 

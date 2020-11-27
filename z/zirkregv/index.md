@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 376
 
-
 ## Eingangsformel
 
 Das Bundesministerium für Ernährung, Landwirtschaft und
@@ -27,14 +26,12 @@ von denen § 16 Abs. 6 Satz 2 und 3 durch das Gesetz vom 18. Dezember
 2007 (BGBl. I S. 3001, 2008 I S. 47) neugefasst worden ist, nach
 Anhörung der Tierschutzkommission:
 
-
 ## § 1 Anwendungsbereich
 
 Diese Verordnung regelt die Erhebung und Verwendung personenbezogener
 Daten im automatisierten Verfahren zum Zwecke der Überwachung der
 Einhaltung der tierschutzrechtlichen Bestimmungen durch Betriebe im
 Sinne von § 11 Abs. 1 Satz 1 Nr. 3 Buchstabe d des Tierschutzgesetzes.
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -46,10 +43,6 @@ Im Sinne dieser Verordnung ist
 
 2.  kontrollierende Behörde: die für die Kontrolle nach § 16 Abs. 1 Nr. 4
     des Tierschutzgesetzes zuständige Behörde.
-
-
-
-
 
 ## § 3 Datenerhebung
 
@@ -82,10 +75,6 @@ Kontrolle eines in Absatz 1 Nr. 2 genannten Betriebes folgende Daten:
 
 
 2.  die in Absatz 1 genannten Daten.
-
-
-
-
 
 ## § 4 Datenverwendung
 
@@ -154,7 +143,6 @@ Behörde mit.
 Abs. 1 Satz 1 Nr. 3 Buchstabe d des Tierschutzgesetzes auf Antrag
 Auskunft über die ihn betreffenden in Absatz 1 genannten Daten.
 
-
 ## § 5 Löschung
 
 (1) Die Daten nach den §§ 3 und 4 Abs. 1 Satz 2 Nr. 1 bis 7 sind,
@@ -175,11 +163,9 @@ die zuständige Behörde ein Jahr nach der unanfechtbaren Ablehnung
 eines Antrags auf Erteilung einer Erlaubnis nach § 11 Abs. 1 Satz 1
 Nr. 3 Buchstabe d zu löschen.
 
-
 ## § 6 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Schlussformel
 

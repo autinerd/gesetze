@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 27 V v. 29.10.2001 I 2785
 
-
 ## § 1
 
 Die in Gesetzen und Rechtsverordnungen begründeten Zuständigkeiten des
@@ -128,26 +127,19 @@ Zuständigkeiten:
 
 18. Bundesärzteordnung vom 2. Oktober 1961 (Bundesgesetzbl. I S. 1857).
 
-
-
-
-
 ## § 2
 
 (weggefallen)
 
-
 ## § 3
 
 -
-
 
 ## § 4
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
 im Land Berlin.
-
 
 ## § 5
 

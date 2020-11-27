@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 383
 
-
-
 ## (XXXX)
 
 Das Bundesministerium für Arbeit und Sozialordnung gibt gemäß § 9 Nr.

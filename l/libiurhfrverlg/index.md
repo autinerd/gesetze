@@ -15,13 +15,10 @@ Ausfertigungsdatum
 Fundstelle
 :   RGBl I: 1940, 758
 
-
-
 ## Eingangsformel
 
 Die Reichsregierung hat das folgende Gesetz beschlossen, das hierdurch
 verkündet wird:
-
 
 ## § 1
 
@@ -29,7 +26,6 @@ verkündet wird:
 zehn Jahren auf fünfundzwanzig Jahre verlängert.
 
 (2) ...
-
 
 ## § 2
 
@@ -57,7 +53,6 @@ verzichtet. Hat der Erwerber das Urheberrecht vor Inkrafttreten dieses
 Gesetzes weiter veräußert, so ist die Vergütung insoweit nicht zu
 zahlen, als sie den Erwerber mit Rücksicht auf die Umstände der
 Weiterveräußerung unbillig belasten würde.
-
 
 ## § 3
 

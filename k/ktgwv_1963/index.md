@@ -19,8 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 59 G v. 8.12.2010 I 1864
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 7 Abs. 1 und 2 des Gesetzes über die Einführung des
@@ -32,7 +30,6 @@ vom 23. April 1963 (Bundesgesetzbl. I S. 197) und des § 78 Abs. 1 Nr.
 3 des Zollgesetzes vom 14. Juni 1961 (Bundesgesetzbl. I S. 737),
 zuletzt geändert durch das Gesetz zur Änderung des Zollgesetzes vom 4.
 September 1962 (Bundesgesetzbl. I S. 605), wird verordnet:
-
 
 ## § 1 Allgemeines
 
@@ -52,7 +49,6 @@ Abs. 2 und 3 der Außenwirtschaftsverordnung vom 22. August 1961
 (Bundesgesetzbl. I S. 1381) in der jeweils geltenden Fassung nicht
 erforderlich.
 
-
 ## § 2 Bleibende Zollgutverwendung
 
 Kontingentswaren, die in der Warenliste zu dieser Verordnung genannt
@@ -69,24 +65,16 @@ sind, sind zollfrei, wenn sie unter zollamtlicher Überwachung
 
 3.  im Saarland vom Kleinhandel an Endverbraucher abgegeben worden sind.
 
-
-
-
-
 ## § 3 (weggefallen)
-
-
 
 ## § 4 Inkrafttreten
 
 Diese Verordnung tritt am fünften Tage nach ihrer Verkündung in Kraft.
 ...
 
-
 ## Schlußformel
 
 Der Bundesminister der Finanzen
-
 
 ## Anlage (zu § 2) *Fe Warenliste zur Verordnung über die zollfreie Einfuhr von Kontingentswaren aus Frankreich in das Saarland */
 

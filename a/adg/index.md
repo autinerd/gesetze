@@ -15,21 +15,14 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1976, 1749
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art 1 bis 11 -
 
-
-
 ## Art 12 - Übergangs- und Schlußvorschriften
-
-
 
 ## § 1
 
@@ -59,7 +52,6 @@ in diesem Fall hat auch der Annehmende kein Erbrecht.
 Gesetzes ist entsprechend anzuwenden. Die in § 1762 Abs. 2 des
 Bürgerlichen Gesetzbuchs in der Fassung dieses Gesetzes bezeichneten
 Fristen beginnen frühestens mit dem Inkrafttreten dieses Gesetzes.
-
 
 ## § 2
 
@@ -100,7 +92,6 @@ Erklärung nicht ihm, sondern dem zuständigen Jugendamt bekanntzugeben.
 Eine solche Mitteilung soll unterbleiben, wenn zu besorgen ist, daß
 durch sie ein nicht offenkundiges Annahmeverhältnis aufgedeckt wird.
 
-
 ## § 3
 
 (1) Wird eine Erklärung nach § 2 Abs. 2 Satz 2 abgegeben, so werden
@@ -114,7 +105,6 @@ Gesetzbuchs ist anzuwenden. Solange der an Kindes Statt Angenommene
 minderjährig ist, kann das Annahmeverhältnis auch nach § 1763 Abs. 1,
 2 des Bürgerlichen Gesetzbuchs in der Fassung dieses Gesetzes
 aufgehoben werden.
-
 
 ## § 4
 
@@ -155,7 +145,6 @@ Kind, wenn ein Annehmender im Zeitpunkt der Annahme an Kindes Statt
 Deutscher ohne deutsche Staatsangehörigkeit im Sinne des Artikels 116
 Abs. 1 des Grundgesetzes war.
 
-
 ## § 5
 
 Hat im Zeitpunkt des Inkrafttretens dieses Gesetzes der Annehmende
@@ -167,7 +156,6 @@ der Einreichung betraut, so kann die Bestätigung nach den bisher
 geltenden Vorschriften erfolgen. § 15 Abs. 1 Satz 3 des
 Personenstandsgesetzes ist in diesem Fall in der bisher geltenden
 Fassung anzuwenden.
-
 
 ## § 6
 
@@ -194,7 +182,6 @@ Gesetzes entsprechend anzuwenden sind. Wird keine Erklärung nach Satz
 das Annahmeverhältnis die Vorschriften dieses Gesetzes über die
 Annahme Minderjähriger angewandt.
 
-
 ## § 7
 
 (1) Die Annahme als Kind nach den Vorschriften dieses Gesetzes über
@@ -208,7 +195,6 @@ durch beide Ehegatten zulässig.
 Gesetzes volljährig, so wird § 1772 des Bürgerlichen Gesetzbuchs
 angewandt.
 
-
 ## § 8
 
 Wo auf Vorschriften verwiesen wird, die durch dieses Gesetz aufgehoben
@@ -217,13 +203,11 @@ entsprechenden neuen Vorschriften. Einer Verweisung steht es gleich,
 wenn die Anwendbarkeit der in Satz 1 bezeichneten Vorschriften
 stillschweigend vorausgesetzt wird.
 
-
 ## § 9
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
 im Land Berlin.
-
 
 ## § 10
 

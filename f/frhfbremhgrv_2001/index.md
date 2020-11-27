@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 5.10.2011 I 2059
 
-
 ## Eingangsformel
 
 Auf Grund des § 20 Abs. 2 des Zollverwaltungsgesetzes vom 21. Dezember
@@ -26,17 +25,14 @@ Auf Grund des § 20 Abs. 2 des Zollverwaltungsgesetzes vom 21. Dezember
 Buchstabe a des Gesetzes vom 20. Dezember 1996 (BGBl. I S. 2030)
 geändert worden ist, verordnet das Bundesministerium der Finanzen:
 
-
 ## § 1 Grenze des Freihafens
 
 Die Grenze des Freihafens Bremerhaven wird geändert. Ihr neuer Verlauf
 ergibt sich aus der Anlage.
 
-
 ## § 2 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Anlage 1 (zu § 1)
 

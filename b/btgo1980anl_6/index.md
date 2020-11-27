@@ -21,10 +21,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Nr. 2 Bek. v. 15. 7.2002 I 3012
 
-
 ## A. - Grundsätze in Immunitätsangelegenheiten
-
-
 
 ### 1. Antragsberechtigung
 
@@ -45,10 +42,6 @@ c)  der Gläubiger im Vollstreckungsverfahren, soweit das Gericht nicht
 
 
 d)  der Ausschuß für Wahlprüfung, Immunität und Geschäftsordnung.
-
-
-
-
 
 ### 2. Mitteilung an den Präsidenten des Bundestages und Einreichen der Anträge
 
@@ -76,10 +69,6 @@ b)  Die Staatsanwaltschaften und Gerichte richten ihre Anträge an den
 c)  Der Gläubiger (Nummer 1 Buchstabe c) kann seinen Antrag unmittelbar an
     den Bundestag richten.
 
-
-
-
-
 ### 3. Stellung der betroffenen Mitglieder des Bundestages
 
 In Immunitätsangelegenheiten soll das betroffene Mitglied des
@@ -88,7 +77,6 @@ gestellte Anträge auf Aufhebung seiner Immunität bleiben
 unberücksichtigt. Der Ausschuss für Wahlprüfung, Immunität und
 Geschäftsordnung kann auf Antrag einer Fraktion im Ausschuss dem
 betroffenen Mitglied Gelegenheit zur Äußerung geben.
-
 
 ### 4. Entscheidungen in Immunitätsangelegenheiten
 
@@ -102,7 +90,6 @@ anderen hoheitlichen Gewalten unter Berücksichtigung der Belange des
 betroffenen Abgeordneten. In eine Beweiswürdigung wird nicht
 eingetreten; die Entscheidung beinhaltet keine Feststellung von Recht
 oder Unrecht, Schuld oder Nichtschuld.
-
 
 ### 5. Beleidigungen politischen Charakters
 
@@ -133,7 +120,6 @@ vor einem Untersuchungsausschuß getan hat, da das Mitglied des
 Bundestages hier jedem anderen Staatsbürger, der als Zeuge vernommen
 wird, gleichgestellt ist.
 
-
 ### 6. Festnahme eines Mitgliedes des Bundestages bei Begehung der Tat
 
 Bei Festnahme eines Mitgliedes des Bundestages bei Begehung der Tat
@@ -146,7 +132,6 @@ und Verstreichen des der Tat folgenden Tages bedarf dann wieder der
 Genehmigung des Bundestages; denn hierin liegt eine Beschränkung der
 persönlichen Freiheit (Artikel 46 Abs. 2 des Grundgesetzes), die in
 keinem Zusammenhang mit der Festnahme "auf frischer Tat" steht.
-
 
 ### 7. Verhaftung eines Mitgliedes des Bundestages
 
@@ -171,10 +156,6 @@ c)  Die Genehmigung zur Verhaftung schließt die Genehmigung zur
 d)  Die Genehmigung zur zwangsweisen Vorführung schließt nicht die
     Genehmigung zur Verhaftung ein.
 
-
-
-
-
 ### 8. Vollstreckung von Freiheitsstrafen oder von Erzwingungshaft (§§ 96, 97 OWiG)
 
 Die Genehmigung zur Erhebung der öffentlichen Klage wegen einer
@@ -189,7 +170,6 @@ Monate erkannt ist, oder bei einer Gesamtstrafenbildung (§§ 53 bis 55
 StGB, § 460 StPO) keine der erkannten Einzelstrafen drei Monate
 übersteigt.
 
-
 ### 9. Disziplinarverfahren
 
 Die Aufhebung der Immunität zur Durchführung eines
@@ -201,13 +181,11 @@ Disziplinarverfahrens.
 Die Vollstreckung von Disziplinarmaßnahmen bedarf keiner erneuten
 Genehmigung des Bundestages.
 
-
 ### 10. Ehren- und Berufsgerichtsverfahren
 
 Verfahren vor Ehren- und Berufsgerichten, die öffentlich-rechtlichen
 Charakter haben, können nur nach Aufhebung der Immunität durchgeführt
 werden.
-
 
 ### 11. Verfahren bei Verkehrsdelikten
 
@@ -216,14 +194,12 @@ werden. Zur Vereinfachung des Geschäftsganges ist der Ausschuß für
 Wahlprüfung, Immunität und Geschäftsordnung beauftragt, bei allen
 Fällen von Verkehrsdelikten eine Vorentscheidung zu treffen.
 
-
 ### 12. Verfahren bei Bagatellsachen
 
 Bei Anträgen, die nach Auffassung des Ausschusses für Wahlprüfung,
 Immunität und Geschäftsordnung eine Bagatellsache zum Gegenstand
 haben, ist der Ausschuß beauftragt, eine Vorentscheidung (Nummer 13)
 zu treffen.
-
 
 ### 13. Vereinfachtes Verfahren (Vorentscheidungen)
 
@@ -233,7 +209,6 @@ Bundestag durch den Präsidenten schriftlich mitgeteilt, ohne auf die
 Tagesordnung gesetzt zu werden. Sie gilt als Entscheidung des
 Bundestages, wenn nicht innerhalb von sieben Tagen nach Mitteilung
 Widerspruch erhoben wird.
-
 
 ### 14. Genehmigungspflicht in besonderen Fällen
 
@@ -305,10 +280,6 @@ k)  Zur zwangsweisen Vorführung (§§ 134, 230, 236, 329 und 387 StPO).
 l)  Zur Verhaftung auf Grund Haftbefehls nach §§ 114, 125, 230, 236 oder
     329 StPO.
 
-
-
-
-
 ### 15. Schutzmaßnahmen nach dem Infektionsschutzgesetz
 
 Schutzmaßnahmen nach dem Infektionsschutzgesetz haben
@@ -331,7 +302,6 @@ Präsident des Bundestages insoweit die Rechte des Ausschusses für
 Wahlprüfung, Immunität und Geschäftsordnung. Er hat den Ausschuß
 unverzüglich über seine Entscheidung in Kenntnis zu setzen.
 
-
 ### 16. Anhängige Strafverfahren
 
 Bei Übernahme des Abgeordnetenmandats anhängige Strafverfahren sowie
@@ -342,7 +312,6 @@ Soll ein Verfahren fortgesetzt werden, so ist vorher eine Entscheidung
 des Bundestages einzuholen, soweit nicht bereits die Genehmigung zur
 Durchführung von Ermittlungsverfahren wegen einer Straftat erteilt
 ist.
-
 
 ### 17. Behandlung von Amnestiefällen
 
@@ -356,7 +325,6 @@ Bundestag werde gegen die Anwendung des Straffreiheitsgesetzes keine
 Einwendungen erheben. Solche Fälle bedürfen nicht der Vorlage an das
 Plenum des Bundestages.
 
-
 ## B. - Ermächtigung zur Strafverfolgung nach § 90b Abs. 2, § 194 Abs. 4 StGB
 
 Die Ermächtigung zur Strafverfolgung nach § 90b Abs. 2 StGB -
@@ -369,7 +337,6 @@ Strafverfahren und das Bußgeldverfahren an den Bundesminister der
 Justiz, der sie mit der Bitte vorlegt, eine Entscheidung
 herbeizuführen, ob die Ermächtigung zur Strafverfolgung nach § 90b
 Abs. 2 oder § 194 Abs. 4 StGB erteilt wird.
-
 
 ## C. - Genehmigung zur Zeugenvernehmung nach § 50 Abs. 3 StPO und § 382 Abs. 3 ZPO
 

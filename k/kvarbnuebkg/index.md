@@ -17,13 +17,10 @@ Ausfertigungsdatum
 Fundstelle
 :   RGBl II: 1927, 887
 
-
-
 ## § 1
 
 Für die Durchführung der Übereinkommen sind die
 Reichsversicherungsordnung und das Reichsknappschaftsgesetz maßgebend.
-
 
 ## § 2
 

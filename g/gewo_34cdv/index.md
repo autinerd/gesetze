@@ -22,7 +22,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 V v. 2.5.2012 I 1006
 
-
 ## § 1 Anwendungsbereich
 
 Diese Verordnung gilt für Gewerbetreibende, die Tätigkeiten nach § 34c
@@ -46,7 +45,6 @@ Gewerbeordnung Anwendung findet. Gewerbetreibende, die
 
 unterliegen hinsichtlich dieser Tätigkeit nicht den Vorschriften
 dieser Verordnung.
-
 
 ## § 2 Sicherheitsleistung, Versicherung
 
@@ -140,7 +138,6 @@ Deckung bezüglich des versicherten Risikos, der Versicherungssumme und
 möglicher Ausnahmen von der Deckung. Bei nur teilweiser
 Gleichwertigkeit kann eine zusätzliche Sicherheit verlangt werden, die
 die nicht gedeckten Risiken absichert.
-
 
 ## § 3 Besondere Sicherungspflichten für Bauträger
 
@@ -296,7 +293,6 @@ Vertragsabschluß entgegennehmen oder sich zu deren Verwendung
 ermächtigen lassen; im übrigen gelten Absatz 1 Satz 1 Nr. 1 und 4 und
 Absatz 2 entsprechend.
 
-
 ## § 4 Verwendung von Vermögenswerten des Auftraggebers
 
 (1) Der Gewerbetreibende darf Vermögenswerte des Auftraggebers, die er
@@ -323,14 +319,12 @@ für mehrere Auftraggeber vorbereitet und durchführt, die
 Vermögenswerte der Auftraggeber nur im Verhältnis der Kosten der
 einzelnen Einheiten zu den Gesamtkosten des Bauvorhabens verwenden.
 
-
 ## § 5 Hilfspersonal
 
 Ermächtigt der Gewerbetreibende andere Personen, Vermögenswerte des
 Auftraggebers zur Ausführung des Auftrages entgegenzunehmen oder zu
 verwenden, so hat er sicherzustellen, daß dies nur nach Maßgabe der §§
 3 und 4 geschieht.
-
 
 ## § 6 Getrennte Vermögensverwaltung
 
@@ -361,7 +355,6 @@ Verwahrung und Anschaffung von Wertpapieren, die der Gewerbetreibende
 vom Auftraggeber erhält, hat er unverzüglich für Rechnung des
 Auftraggebers einem Kreditinstitut im Sinne des § 2 Abs. 2 Satz 2 zur
 Verwahrung anzuvertrauen. Absatz 2 Satz 2 bis 4 ist anzuwenden.
-
 
 ## § 7 Ausnahmevorschrift
 
@@ -402,7 +395,6 @@ der Gewerbetreibende vom Auftraggeber dessen Eigenschaft als Kaufmann
 durch einen Auszug aus dem Handelsregister oder dem
 Genossenschaftsregister nachweisen zu lassen.
 
-
 ## § 8 Rechnungslegung
 
 (1) Hat der Gewerbetreibende zur Ausführung des Auftrages
@@ -417,7 +409,6 @@ gegenüber schriftlich darauf verzichtet oder der Gewerbetreibende mit
 den Vermögenswerten des Auftraggebers eine Leistung zu einem Festpreis
 zu erbringen hat.
 
-
 ## § 9 Anzeigepflicht
 
 Der Gewerbetreibende hat der zuständigen Behörde die jeweils mit der
@@ -428,7 +419,6 @@ zur Vertretung berufenen Personen. In der Anzeige sind Name,
 Geburtsname, sofern er vom Namen abweicht, Vornamen,
 Staatsangehörigkeit, Geburtstag, Geburtsort und Anschrift der
 betreffenden Personen anzugeben.
-
 
 ## § 10 Buchführungspflicht
 
@@ -600,7 +590,6 @@ Einzelfall in Betracht kommt,
 (6) Sonstige Vorschriften über Aufzeichnungs- und
 Buchführungspflichten des Gewerbetreibenden bleiben unberührt.
 
-
 ## § 11 Informationspflicht und Werbung
 
 Der Gewerbetreibende hat dem Auftraggeber schriftlich und in deutscher
@@ -638,7 +627,6 @@ Union oder eines Vertragsstaates des Abkommens über den Europäischen
 Wirtschaftsraum verlangen, wenn er in diesem Mitgliedstaat oder
 Vertragsstaat seinen Wohnsitz hat.
 
-
 ## § 12 Unzulässigkeit abweichender Vereinbarungen
 
 Der Gewerbetreibende darf seine Verpflichtungen nach den §§ 2 bis 8
@@ -646,11 +634,9 @@ sowie die nach § 2 Abs. 1 zu sichernden Schadensersatzansprüche des
 Auftraggebers durch vertragliche Vereinbarung weder ausschließen noch
 beschränken.
 
-
 ## § 13 (weggefallen)
 
 -
-
 
 ## § 14 Aufbewahrung
 
@@ -669,11 +655,9 @@ Reproduktionen vorzulegen; bei Ermittlungen oder Prüfungen in den
 Geschäftsräumen sind für verkleinerte Wiedergaben die erforderlichen
 Lesegeräte bereitzuhalten.
 
-
 ## § 15
 
 (weggefallen)
-
 
 ## § 16 Prüfungen
 
@@ -736,7 +720,6 @@ genannten Personen, die mit der Prüfung betraut werden können,
 entsprechend. Ungeeignet für eine Prüfung sind Personen, bei denen die
 Besorgnis der Befangenheit besteht.
 
-
 ## § 17 Rechte und Pflichten der an der Prüfung Beteiligten
 
 (1) Der Gewerbetreibende hat dem Prüfer die Einsicht in die Bücher,
@@ -751,7 +734,6 @@ erfahren hat. Ein Prüfer, der vorsätzlich oder fahrlässig seine
 Pflichten verletzt, ist dem Gewerbetreibenden zum Ersatz des daraus
 entstehenden Schadens verpflichtet. Mehrere Personen haften als
 Gesamtschuldner.
-
 
 ## § 18 Ordnungswidrigkeiten
 
@@ -834,7 +816,6 @@ Gewerbeordnung handelt, wer vorsätzlich oder fahrlässig eine in Absatz
 1 bezeichnete Handlung in Ausübung eines Messe-, Ausstellungs- oder
 Marktgewerbes begeht.
 
-
 ## § 19 Anwendung bei grenzüberschreitender Dienstleistungserbringung
 
 (1) Üben Gewerbetreibende von einer Niederlassung in einem anderen
@@ -856,7 +837,6 @@ Europäischen Union oder einem anderen Vertragsstaat des Abkommens über
 den Europäischen Wirtschaftsraum in Anspruch nimmt und dort
 vorübergehend selbständig gewerbsmäßig tätig wird.
 
-
 ## § 20 Übergangsvorschriften
 
 Gewerbetreibende, die Vermögenswerte des Auftraggebers nach den §§ 3
@@ -864,11 +844,9 @@ oder 7 Abs. 1 in der bis zum 28. Februar 1991 geltenden Fassung
 abzusichern haben, können die Verträge weiterhin nach diesen
 Vorschriften abwickeln.
 
-
 ## § 21 Berlin-Klausel
 
 (gegenstandslos)
-
 
 ## § 22 Inkrafttreten
 

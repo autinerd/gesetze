@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2003, 93
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 35a Abs. 1 Satz 1 Nr. 2 des Fünften Buches
@@ -28,7 +26,6 @@ Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165)
 und dem Organisationserlass vom 22. Oktober 2002 (BGBl. I S. 4206)
 verordnet das Bundesministerium für Gesundheit und Soziale Sicherung
 im Einvernehmen mit dem Bundesministerium für Wirtschaft und Arbeit:
-
 
 ## § 1
 
@@ -46,7 +43,6 @@ der in der Anlage genannten gruppenspezifischen Regressionsgleichung.
 Die festgesetzten Festbeträge gelten für alle Arzneimittel, die von
 der jeweiligen Gruppenbeschreibung erfasst werden.
 
-
 ## § 2
 
 Die nach § 1 Satz 2 festgesetzten Festbeträge sowie die nach § 1 Satz
@@ -57,13 +53,11 @@ Die nach § 1 Satz 2 festgesetzten Festbeträge sowie die nach § 1 Satz
 Umsatzsteuer anzugleichen. Bei gleicher Differenz zu zwei
 Apothekenabgabepreisen gilt der höhere Preis.
 
-
 ## § 3
 
 (1) Diese Verordnung tritt am 1. März 2003 in Kraft.
 
 (2)
-
 
 ## Anlage (zu § 1)
 

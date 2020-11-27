@@ -21,10 +21,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 27 G v. 27.7.2001 I 1887
 
-
 ## Erster Abschnitt - Erteilung der Vollstreckungsklausel zu gerichtlichen Entscheidungen und zu anderen Schuldtiteln
-
-
 
 ### § 1
 
@@ -38,19 +35,16 @@ Schuldner seinen allgemeinen Gerichtsstand hat, und beim Fehlen eines
 solchen das Gericht, in dessen Bezirk sich Vermögen des Schuldners
 befindet oder die Zwangsvollstreckung durchgeführt werden soll.
 
-
 ### § 2
 
 Der Antrag auf Erteilung der Vollstreckungsklausel (Artikel 9, 16 Abs.
 2 des Vertrages) kann bei dem Gericht schriftlich eingereicht oder
 mündlich zu Protokoll der Geschäftsstelle gestellt werden.
 
-
 ### § 3
 
 Über den Antrag entscheidet der Vorsitzende ohne mündliche
 Verhandlung. Einer Anhörung des Schuldners bedarf es nicht.
-
 
 ### § 4
 
@@ -69,12 +63,10 @@ Gericht offenkundig sind. Soll der Nachweis mit anderen Beweismitteln
 geführt werden, so ist der Schuldner zu hören; in diesem Fall kann
 auch mündliche Verhandlung vor dem Vorsitzenden angeordnet werden.
 
-
 ### § 5
 
 Ist der Antrag begründet, so ordnet der Vorsitzende die Erteilung der
 Vollstreckungsklausel an.
-
 
 ### § 6
 
@@ -84,7 +76,6 @@ Beschluß ab. Der Beschluß ist mit Gründen zu versehen.
 (2) Der Beschluss unterliegt der Beschwerde nach den §§ 567 bis 577
 der Zivilprozessordnung; § 1065 der Zivilprozessordnung gilt
 entsprechend.
-
 
 ### § 7
 
@@ -110,7 +101,6 @@ d, Artikel 16 Abs. 2 des Vertrages) zu verbinden.
 (3) Auf die Kosten des Verfahrens vor dem Vorsitzenden ist § 788 der
 Zivilprozeßordnung entsprechend anzuwenden.
 
-
 ### § 8
 
 Eine beglaubigte Abschrift des nach § 7 mit der Vollstreckungsklausel
@@ -119,7 +109,6 @@ Schuldner von Amts wegen zuzustellen. Die erforderliche beglaubigte
 Abschrift wird von dem Gericht kostenfrei erteilt. Dem Gläubiger ist
 der mit der Vollstreckungsklausel versehene Schuldtitel sowie eine
 Bescheinigung über die bewirkte Zustellung zu übersenden.
-
 
 ### § 9
 
@@ -138,7 +127,6 @@ besonderen Beschluß, der ohne mündliche Verhandlung erlassen werden
 kann, zu bestimmen. Die festgesetzte Widerspruchsfrist ist auf der
 Bescheinigung über die bewirkte Zustellung (§ 8 Satz 3) zu vermerken.
 
-
 ### § 10
 
 (1) Über den Widerspruch entscheidet das Landgericht durch Beschluß;
@@ -151,7 +139,6 @@ gelten §§ 769, 770 der Zivilprozeßordnung entsprechend. Die Aufhebung
 einer Vollstreckungsmaßregel ist auch ohne Sicherheitsleistung
 zulässig.
 
-
 ### § 11
 
 Der Beschluss, durch den über den Widerspruch entschieden wird,
@@ -159,13 +146,11 @@ unterliegt der Beschwerde nach den §§ 567 bis 577 der
 Zivilprozessordnung; § 1065 der Zivilprozessordnung gilt entsprechend.
 § 9 Abs. 3 Satz 1 gilt entsprechend.
 
-
 ### § 12
 
 Solange eine mündliche Verhandlung nicht angeordnet ist, können auch
 zu Protokoll der Geschäftsstelle Anträge gestellt und Erklärungen
 abgegeben werden.
-
 
 ### § 13
 
@@ -191,7 +176,6 @@ entstanden sind.
 (2) Die Klage ist bei dem Landgericht zu erheben, das über die
 Erteilung der Vollstreckungsklausel entschieden hat.
 
-
 ### § 14
 
 (1) Die Zwangsvollstreckung aus den mit der Vollstreckungsklausel
@@ -202,10 +186,7 @@ beginnen, innerhalb deren Widerspruch eingelegt werden kann (§ 9 Abs.
 (2) Absatz 1 gilt nicht für die Vollstreckung einstweiliger Maßnahmen,
 einschließlich solcher, die auf eine Sicherung gerichtet sind.
 
-
 ## Zweiter Abschnitt - Aufhebung oder Änderung der Vollstreckungsklausel
-
-
 
 ### § 15
 
@@ -230,7 +211,6 @@ bereits getroffener Vollstreckungsmaßregeln gelten §§ 769, 770 der
 Zivilprozeßordnung entsprechend. Die Aufhebung einer
 Vollstreckungsmaßregel ist auch ohne Sicherheitsleistung zulässig.
 
-
 ### § 16
 
 (1) Wird die Vollstreckungsklausel zu einem Schuldtitel (§ 1 Abs. 1)
@@ -248,17 +228,13 @@ angefochten werden konnte, nach § 15 aufgehoben oder abgeändert wird.
 ausschließlich zuständig, das über die Erteilung der
 Vollstreckungsklausel entschieden hat.
 
-
 ## Dritter Abschnitt - Besondere Vorschriften für deutsche gerichtliche Entscheidungen
-
-
 
 ### § 17
 
 Ist zu erwarten, daß ein Versäumnis- oder Anerkenntnisurteil in den
 Niederlanden geltend gemacht werden soll, so darf das Urteil nicht in
 abgekürzter Form (§ 313b der Zivilprozeßordnung) hergestellt werden.
-
 
 ### § 18
 
@@ -283,14 +259,12 @@ Tatbestandes nicht mitgewirkt haben.
 (4) Für die Vervollständigung des Urteils werden Gerichtsgebühren
 nicht erhoben.
 
-
 ### § 19
 
 Arrestbefehlen, einstweiligen Anordnungen oder Verfügungen (Artikel 1
 Abs. 2 des Vertrages), die in den Niederlanden geltend gemacht werden
 sollen, ist eine Begründung beizufügen. § 18 ist entsprechend
 anzuwenden.
-
 
 ### § 20
 
@@ -301,10 +275,7 @@ mit der Vollstreckungsklausel zu versehen, wenn dies für eine
 Zwangsvollstreckung im Inland nach § 796 Abs. 1, § 929 Abs. 1, § 936
 der Zivilprozeßordnung nicht erforderlich wäre.
 
-
 ## Vierter Abschnitt - Schlußbestimmungen
-
-
 
 ### § 21
 
@@ -317,18 +288,15 @@ zwischenstaatliche Rechtsverkehr erleichtert oder beschleunigt wird.
 Die Landesregierungen können die Ermächtigung auf die
 Landesjustizverwaltungen übertragen.
 
-
 ### § 22
 
 -
-
 
 ### § 23
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
 im Land Berlin.
-
 
 ### § 24
 

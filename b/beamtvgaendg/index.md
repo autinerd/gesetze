@@ -19,20 +19,16 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 G v. 19.12.2000 I 1815
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## (XXXX) Art 1 bis 15 (weggefallen)
-
 
 ## Art 16 Gesetz über die Gewährung eines Kindererziehungszuschlags (Kindererziehungszuschlagsgesetz - KEZG)
 
 -
-
 
 ## Art 17 Versorgungsbericht
 
@@ -42,17 +38,14 @@ Bericht soll die jeweils im Vorjahr erbrachten Versorgungsleistungen
 im öffentlichen Dienst enthalten sowie Hochrechnungen für die in den
 nächsten 15 Jahren zu erwartenden Versorgungsleistungen.
 
-
 ## Art 18
 
 -
-
 
 ## Art 19 Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin.
-
 
 ## Art 20 Inkrafttreten
 

@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 508
 
-
 ## Eingangsformel
 
 Auf Grund des § 2 Abs. 2 des Satellitendatensicherheitsgesetzes vom
@@ -24,7 +23,6 @@ Auf Grund des § 2 Abs. 2 des Satellitendatensicherheitsgesetzes vom
 Auswärtigen Amt, dem Bundesministerium des Innern und dem
 Bundesministerium der Verteidigung verordnet das Bundesministerium für
 Wirtschaft und Technologie:
-
 
 ## § 1 Daten mit besonders hohem Informationsgehalt
 
@@ -49,10 +47,6 @@ Metern oder weniger erzeugt werden kann.
 3.  die Zahl der Spektralkanäle 49 übersteigt (super- und hyperspektrale
     Sensoren) und in mindestens einer Raumrichtung eine geometrische
     Auflösung von 10 Metern oder weniger erzeugt werden kann.
-
-
-
-
 
 ## § 2 Sensitive Anfragen
 
@@ -106,11 +100,9 @@ oder nachrichtendienstlichen Behörde ist nicht sensitiv.
 und 2 ist in Anlage 5 als Abfolge der Entscheidungsschritte in einem
 Flussdiagramm dargestellt.
 
-
 ## § 3 Inkrafttreten
 
 Die Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Anlage 1 (zu § 2 Abs. 2 Nr. 1) Bodenstationsnegativliste
 
@@ -137,7 +129,6 @@ Staatsgebiet Turkmenistan
 Staatsgebiet Usbekistan
 Staatsgebiet Weißrussland
 
-
 ## Anlage 2 (zu § 2 Abs. 2 Nr. 2) Gebietspositivliste
 
 ( Fundstelle: BGBl. I 2008, 509 )
@@ -146,7 +137,6 @@ von –60° geographischer Breite)
 
 Nordpolarer Teil der Arktis (alle Gebiete nördlich von 84°
 geographischer Breite)
-
 
 ## Anlage 3 (zu § 2 Abs. 2 Nr. 2 Buchstabe a) Gebietsnegativliste
 
@@ -171,7 +161,6 @@ Staatsgebiet Sudan
 Staatsgebiet Tschad
 Staatsgebiet Usbekistan
 Westsahara
-
 
 ## Anlage 4 (zu § 2 Abs. 2 Nr. 2 Buchstabe b) Empfängerpositivliste
 
@@ -207,13 +196,6 @@ Westsahara
     d)  bei denen dem Datenanbieter keine tatsächlichen Anhaltspunkte für
         begangene oder bevorstehende Verstöße gegen ihre Zusicherung nach
         Buchstabe c vorliegen.
-
-
-
-
-
-
-
 
 ## Anlage 5 (zu § 2 Abs. 1 und 2) Übersicht über den Prüfablauf
 

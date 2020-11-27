@@ -18,9 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 Abs. 57 G v. 22.12.2011 I 3044
 
-
 ## Abschnitt 1 - Allgemeine Bestimmungen
-
 
 ### § 1 Steuergebiet, Steuergegenstand
 
@@ -124,7 +122,6 @@ Verfahrensvereinfachung sowie zur Sicherung der Gleichmäßigkeit der
 Besteuerung durch Rechtsverordnung ohne Zustimmung des Bundesrates
 Einzelheiten zur Feststellung des Stückgewichts nach Absatz 3
 festzulegen.
-
 
 ### § 2 Steuertarif
 
@@ -323,7 +320,6 @@ zuletzt durch die Richtlinie 2010/12/EU (ABl. L 50 vom 27.2.2010, S.
 1) geändert worden ist, in der jeweils geltenden Fassung
 vorgeschrieben ist.
 
-
 ### § 3 Bemessungsgrundlagen
 
 (1) Kleinverkaufspreis ist der Preis, den der Hersteller oder
@@ -375,7 +371,6 @@ Rechtsverordnung ohne Zustimmung des Bundesrates zur Erleichterung der
 Steuererhebung durch Steuerzeichenverwendung für die Staffelung der
 Kleinverkaufspreise der verschiedenen Tabakwaren Mindestabstände
 festzulegen.
-
 
 ### § 4 Sonstige Begriffsbestimmungen
 
@@ -446,12 +441,7 @@ Im Sinn dieses Gesetzes ist oder sind
 
 12. Steuerzeichen: deutsche Steuerzeichen.
 
-
-
-
-
 ## Abschnitt 2 - Steueraussetzung und Besteuerung
-
 
 ### § 5 Steuerlager
 
@@ -464,7 +454,6 @@ Rechtsverordnung ohne Zustimmung des Bundesrates zur Sicherung des
 Steueraufkommens sowie zur Wahrung der Gleichmäßigkeit der Besteuerung
 zu bestimmen, welche Räume, Flächen, Anlagen und Betriebsteile zum
 Steuerlager gehören.
-
 
 ### § 6 Steuerlagerinhaber
 
@@ -520,10 +509,6 @@ Steueraufkommens sowie zur Wahrung der Gleichmäßigkeit der Besteuerung
     Steuerwerts des tatsächlichen Steuerlagerbestands zu verlangen oder
     das Steuerlager unter amtlichen Verschluss zu nehmen.
 
-
-
-
-
 ### § 7 Registrierte Empfänger
 
 (1) Registrierte Empfänger sind Personen, die Tabakwaren unter
@@ -576,7 +561,6 @@ Rechtsverordnung ohne Zustimmung des Bundesrates Vorschriften zu den
 Absätzen 1 bis 3, insbesondere zum Verfahren der Erlaubnis und zur
 Sicherheitsleistung zu erlassen.
 
-
 ### § 8 Registrierte Versender
 
 (1) Registrierte Versender sind Personen, die Tabakwaren vom Ort der
@@ -602,7 +586,6 @@ Sicherheitsleistung zu erlassen und dabei zur Vorbeugung des
 Steuermissbrauchs und zur Sicherung des Steueraufkommens vorzusehen,
 den Versand vom Ort der Einfuhr nur dann zuzulassen, wenn steuerliche
 Belange dem nicht entgegenstehen.
-
 
 ### § 9 Begünstigte
 
@@ -695,7 +678,6 @@ Verfahrensvereinfachung bei Beförderungen unter Steueraussetzung im
 Steuergebiet anstelle einer Freistellungsbescheinigung andere
 geeignete Dokumente zuzulassen.
 
-
 ### § 10 Beförderungen (Allgemeines)
 
 (1) Beförderungen gelten, soweit in diesem Gesetz oder in den dazu
@@ -718,7 +700,6 @@ der Systemrichtlinie und den dazu ergangenen Verordnungen sowie das
 Verfahren der Übermittlung des elektronischen Verwaltungsdokuments und
 den dazu erforderlichen Datenaustausch zu regeln und dabei das
 Verfahren abweichend von Absatz 1 zu bestimmen.
-
 
 ### § 11 Beförderungen im Steuergebiet
 
@@ -777,10 +758,6 @@ Rechtsverordnung ohne Zustimmung des Bundesrates
     Steuerlagerinhaber oder Verwender (§ 31) in Besitz genommen haben, als
     in ihr Steuerlager oder ihren Betrieb aufgenommen gelten, soweit
     Steuerbelange dadurch nicht beeinträchtigt werden.
-
-
-
-
 
 ### § 12 Beförderungen aus anderen, in andere oder über andere Mitgliedstaaten
 
@@ -889,10 +866,6 @@ zur Sicherheitsleistung zu erlassen; dabei kann es
     oder mehr Mitgliedstaaten Vereinfachungen durch bilaterale
     Vereinbarungen mit den betroffenen Mitgliedstaaten vorsehen.
 
-
-
-
-
 ### § 13 Ausfuhr
 
 (1) Tabakwaren dürfen unter Steueraussetzung, auch über Drittländer
@@ -916,7 +889,6 @@ verlassen.
 Zulassung von Verfahrensvereinfachungen gilt für die unmittelbare
 Ausfuhr aus dem Steuergebiet § 11 Absatz 2 und 5, für die Ausfuhr über
 andere Mitgliedstaaten § 12 Absatz 2 und 6 entsprechend.
-
 
 ### § 14 Unregelmäßigkeiten während der Beförderung
 
@@ -975,7 +947,6 @@ Fälle sinngemäß.
 Rechtsverordnung ohne Zustimmung des Bundesrates zur Wahrung der
 Gleichmäßigkeit der Besteuerung Vorschriften zu den Absätzen 2 bis 6
 zu erlassen.
-
 
 ### § 15 Steuerentstehung, Steuerschuldner
 
@@ -1068,7 +1039,6 @@ Rechtsverordnung ohne Zustimmung des Bundesrates Vorschriften zu
 Absatz 3 Nummer 1 zu erlassen, insbesondere zu den Anforderungen an
 den Nachweis.
 
-
 ### § 16 Verpackungszwang
 
 (1) Tabakwaren dürfen nur in geschlossenen, verkaufsfertigen
@@ -1086,10 +1056,6 @@ Rechtsverordnung ohne Zustimmung des Bundesrates
 
 2.  zur Erleichterung der Steuererhebung durch Steuerzeichenverwendung den
     Inhalt der Kleinverkaufspackungen auf bestimmte Mengen zu begrenzen.
-
-
-
-
 
 ### § 17 Verwendung von Steuerzeichen, Steueranmeldung, Steuererklärung
 
@@ -1138,10 +1104,6 @@ Rechtsverordnung ohne Zustimmung des Bundesrates
     Fällen zur Vermeidung unbilliger Härten Ausnahmen im Verwaltungsweg
     gemacht werden dürfen, und die Besteuerung zu regeln.
 
-
-
-
-
 ### § 18 Fälligkeit
 
 (1) Die Steuerzeichenschuld ist spätestens zu begleichen
@@ -1184,9 +1146,7 @@ Rechtsverordnung ohne Zustimmung des Bundesrates zur Sicherung des
 Steueraufkommens und zur Wahrung der Gleichmäßigkeit der Besteuerung
 die Einzelheiten über die Entrichtung der Steuer zu bestimmen.
 
-
 ## Abschnitt 3 - Einfuhr von Tabakwaren aus Drittländern oder Drittgebieten
-
 
 ### § 19 Einfuhr
 
@@ -1240,16 +1200,11 @@ die Einzelheiten über die Entrichtung der Steuer zu bestimmen.
     Verfahren der Zollüberwachung beim Eingang in das Zollgebiet der
     Gemeinschaft.
 
-
-
-
-
 ### § 20 Unregelmäßigkeiten im zollrechtlichen Nichterhebungsverfahren
 
 Treten in einem zollrechtlichen Nichterhebungsverfahren, in dem sich
 Tabakwaren befinden, Unregelmäßigkeiten ein, gilt Artikel 215 des
 Zollkodex sinngemäß.
-
 
 ### § 21 Steuerentstehung, Steuerschuldner
 
@@ -1297,9 +1252,7 @@ Anpassung an die Behandlung im Steuergebiet hergestellter Tabakwaren
 oder wegen der besonderen Verhältnisse bei der Einfuhr erforderlich
 ist.
 
-
 ## Abschnitt 4 - Beförderung und Besteuerung von Tabakwaren des steuerrechtlich freien Verkehrs anderer Mitgliedstaaten
-
 
 ### § 22 Erwerb durch Privatpersonen
 
@@ -1347,7 +1300,6 @@ Steueraufkommens vorzuschreiben, bei welcher Menge an Tabakwaren nach
 Absatz 1 widerleglich vermutet wird, dass diese nicht für den
 Eigenbedarf der Privatperson bestimmt sind.
 
-
 ### § 23 Tabakwaren des steuerrechtlich freien Verkehrs anderer Mitgliedstaaten, Versandhandel
 
 (1) Werden Tabakwaren in anderen als den in § 22 Absatz 1 genannten
@@ -1388,9 +1340,7 @@ Rechtsverordnung ohne Zustimmung des Bundesrates zur Sicherung des
 Steueraufkommens und zur Wahrung der Gleichmäßigkeit der Besteuerung
 Vorschriften zu den Absätzen 1 bis 3 zu erlassen.
 
-
 ## Abschnitt 5 - Bestimmungen zu den Kleinverkaufspackungen und zu den Kleinverkaufspreisen
-
 
 ### § 24 Beipackverbot
 
@@ -1405,7 +1355,6 @@ werden sollen. Das Beipacken von Wechselgeld ist zulässig.
 (2) Das Bundesministerium der Finanzen wird ermächtigt, durch
 Rechtsverordnung ohne Zustimmung des Bundesrates den Beipack
 branchenüblichen Zubehörs von geringem Wert zuzulassen.
-
 
 ### § 25 Packungen im Handel, Stückverkauf
 
@@ -1425,7 +1374,6 @@ lautet. Ein Stückverkauf von Zigaretten ist unzulässig.
 (2) Bei Abgabe zum Verbrauch im Steuergebiet darf der Inhalt einer
 Kleinverkaufspackung für Zigaretten 19 Stück und der Inhalt einer
 Kleinverkaufspackung für Feinschnitt 30 Gramm nicht unterschreiten.
-
 
 ### § 26 Verbot der Abgabe unter Kleinverkaufspreis
 
@@ -1449,7 +1397,6 @@ die Länder zur Durchführung öffentlicher Aufgaben.
 (4) Das Bundesministerium der Finanzen wird ermächtigt, durch
 Rechtsverordnung ohne Zustimmung des Bundesrates die Zugabe
 branchenüblichen Zubehörs von geringem Wert zuzulassen.
-
 
 ### § 27 Preisnachlässe und -ermäßigungen
 
@@ -1481,7 +1428,6 @@ Von dem Verbot des § 26 Absatz 1 sind ausgenommen
 Die Preisermäßigung bedarf der Genehmigung des Bundesministeriums der
 Finanzen oder der von ihm bestimmten Stellen.
 
-
 ### § 28 Verbot der Abgabe über Kleinverkaufspreis
 
 (1) Der auf dem Steuerzeichen angegebene Packungspreis oder der sich
@@ -1496,14 +1442,11 @@ Steuer ist sofort fällig.
 Rechtsverordnung ohne Zustimmung des Bundesrates die notwendigen
 Vorschriften zu Absatz 1 zu erlassen.
 
-
 ### § 29 Ausspielung
 
 Tabakwaren dürfen nicht gewerbsmäßig ausgespielt werden.
 
-
 ## Abschnitt 6 - Steuervergünstigungen
-
 
 ### § 30 Steuerbefreiungen
 
@@ -1580,10 +1523,6 @@ Rechtsverordnung ohne Zustimmung des Bundesrates
 2.  das Verfahren für die Steuerbefreiung nach Absatz 1 und die
     Einzelheiten zur Steuererklärung zu regeln.
 
-
-
-
-
 ### § 31 Verwender
 
 (1) Wer Tabakwaren in den Fällen des § 30 Absatz 1 Nummer 1 Buchstabe
@@ -1613,10 +1552,6 @@ Rechtsverordnung ohne Zustimmung des Bundesrates
 
 2.  zur Verwaltungs- und Verfahrensvereinfachung die steuerfreie
     Verwendung unter Verzicht auf Einzelerlaubnisse allgemein zuzulassen.
-
-
-
-
 
 ### § 32 Erlass, Erstattung der Steuer und der Steuerzeichenschuld
 
@@ -1662,12 +1597,7 @@ Rechtsverordnung ohne Zustimmung des Bundesrates
     dem der Erlass oder die Erstattung für Tabakwaren oder Steuerzeichen
     beantragt werden kann.
 
-
-
-
-
 ## Abschnitt 7 - Steueraufsicht, Geschäftsstatistik, Besondere Ermächtigungen
-
 
 ### § 33 Steueraufsicht
 
@@ -1701,7 +1631,6 @@ Zeitpunkt, die Form und den Inhalt der Anmeldung nach Absatz 2 zu
 erlassen und zur Vereinfachung der Verwaltung Ausnahmen von der
 Anmeldepflicht zuzulassen.
 
-
 ### § 34 Geschäftsstatistik
 
 (1) Nach näherer Bestimmung des Bundesministeriums der Finanzen
@@ -1711,7 +1640,6 @@ teilen die Ergebnisse dem Statistischen Bundesamt zur Auswertung mit.
 (2) Die Bundesfinanzbehörden können auch bereits aufbereitete Daten
 dem Statistischen Bundesamt zur Darstellung und Veröffentlichung für
 allgemeine Zwecke übermitteln.
-
 
 ### § 35 Besondere Ermächtigungen
 
@@ -1862,9 +1790,7 @@ Rechtsverordnung ohne Zustimmung des Bundesrates
 Verwaltungsvorschriften zur Durchführung dieses Gesetzes und der auf
 Grund dieses Gesetzes erlassenen Rechtsverordnungen.
 
-
 ## Abschnitt 8 - Schlussbestimmungen
-
 
 ### § 36 Ordnungswidrigkeiten
 
@@ -1924,7 +1850,6 @@ Abgabenordnung handelt, wer vorsätzlich oder leichtfertig
 (4) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 3 mit einer
 Geldbuße bis zu fünfzigtausend Euro geahndet werden.
 
-
 ### § 37 Schwarzhandel mit Zigaretten
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig Zigaretten
@@ -1947,7 +1872,6 @@ steht auch Beamten des Polizeidienstes und den hierzu ermächtigten
 Beamten des Zollfahndungsdienstes zu, die eine Ordnungswidrigkeit nach
 Absatz 1 entdecken oder im ersten Zugriff verfolgen und sich
 ausweisen.
-
 
 ### § 38 Übergangsvorschriften
 

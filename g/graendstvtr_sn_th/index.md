@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1993, 215, 216
 
-
-
 ## Eingangsformel
 
 Um den historischen und kulturellen Verflechtungen von Gemeinden zum
@@ -32,7 +30,6 @@ Demokratischen Republik vom 22. Juli 1990 (GBl. I Nr. 51 S. 955), das
 aufgrund von Artikel 9 Abs. 2 in Verbindung mit Anlage II Kapitel II
 Sachgebiet A Abschnitt II des Einigungsvertrages fortgeltendes Recht
 ist, folgenden Staatsvertrag:
-
 
 ## Art 1
 
@@ -77,7 +74,6 @@ Nr. 28 S. 255) erfolgt sind.
 
 (3) Der bisherige und der neue Verlauf der gemeinsamen Landesgrenze
 sind aus der Anlage 1 zu diesem Vertrag ersichtlich.
-
 
 ## Art 2
 
@@ -128,7 +124,6 @@ Artikel 1 Abs. 1 genannten Gemeinden zusammenhängenden Fragen
 möglichst innerhalb von sechs Monaten nach dem Wechsel der
 Landeszugehörigkeit geregelt werden.
 
-
 ## Art 3
 
 (1) Das in den in Artikel 1 Abs. 1 genannten Gemeinden gelegene
@@ -154,7 +149,6 @@ betätigen. Die Vertragsparteien sind sich einig, daß die genannten
 Verbindlichkeiten ermittelt und durch eine besondere Vereinbarung
 nachträglich geregelt werden.
 
-
 ## Art 4
 
 Die betroffenen Gemeinden und Landkreise sind verpflichtet, möglichst
@@ -167,7 +161,6 @@ abzugeben. Die Vereinbarungen bedürfen der Genehmigung der jeweils
 zuständigen Rechtsaufsichtsbehörde. Die Verpflichtung nach Satz 1
 trifft auch sämtliche Landesbehörden einschließlich der Gerichte.
 
-
 ## Art 5
 
 Die Anlagen sind Bestandteil des Vertrages. Ausfertigungen der Anlage
@@ -175,7 +168,6 @@ Die Anlagen sind Bestandteil des Vertrages. Ausfertigungen der Anlage
 dem Thüringer Landesverwaltungsamt - Landesvermessungsamt - und bei
 den Landratsämtern der in den Artikeln 1 und 2 genannten Landkreise
 aufbewahrt und können von jedermann eingesehen werden.
-
 
 ## Art 6
 
@@ -190,7 +182,6 @@ Weimar hinterlegt.
 (3) Der Staatsvertrag tritt am Tag nach dem Austausch der
 Ratifikationsurkunden in Kraft.
 
-
 ## Schlußformel
 
 
@@ -202,10 +193,6 @@ Ratifikationsurkunden in Kraft.
 *    *   Stellvertretender Ministerpräsident
 
     *   Innenminister
-
-
-
-
 
 ## Anlage 1
 
@@ -253,10 +240,6 @@ Ratifikationsurkunden in Kraft.
     werden keine Gastschulbeiträge für Schüler der vertragschließenden
     Länder erhoben.
 
-
-
-
-
 ## Anlage 3 Geschäftsbereich des Sächsischen Staatsministeriums für Landwirtschaft, Ernährung und Forsten und des Thüringer Ministeriums für Landwirtschaft und Forsten
 
 Bereich Landwirtschaft
@@ -275,7 +258,6 @@ Personalschlüsseln des Freistaates Sachsen und des Landes Thüringen
 für Forstpersonal ergeben. Die Festlegung der Liste des zu
 übernehmenden Personals bleibt einer späteren Verwaltungsvereinbarung
 gemäß Artikel 2 Abs. 8 des Staatsvertrages vorbehalten.
-
 
 ## Anlage 4 Geschäftsbereich des Sächsischen Staatsministeriums für Umwelt und Landesentwicklung und des Thüringer Umweltministeriums
 
@@ -326,10 +308,6 @@ gemäß Artikel 2 Abs. 8 des Staatsvertrages vorbehalten.
     Die sächsischen Behörden erklären die Bereitschaft zur Mitwirkung beim
     effektiven Trinkwasserschutz im Bereich der Talsperre Zeulenroda.
 
-
-
-
-
 ## Anlage 5 Geschäftsbereich des Sächsischen Staatsministeriums für Soziales, Gesundheit und Familie und des Thüringer Ministeriums für Soziales und Gesundheit
 
 Der Freistaat Sachsen verpflichtet sich, die Arbeitskräfte des
@@ -339,7 +317,6 @@ Arbeitsverhältnisse über diesen Tag hinaus andauern. Die Festlegung
 der Liste des zu übernehmenden Personals bleibt einer späteren
 Verwaltungsvereinbarung gemäß Artikel 2 Abs. 8 des Staatsvertrages
 vorbehalten.
-
 
 ## (XXXX) Protokollnotiz zum Staatsvertrag zwischen dem Freistaat Sachsen und dem Land Thüringen über die Änderung der gemeinsamen Landesgrenze
 

@@ -24,7 +24,6 @@ Europäischen Parlaments und des Rates vom 23. Oktober 2001 zur
 Begrenzung von Schadstoffemissionen von Großfeuerungsanlagen in die
 Luft (ABl. EG Nr. L 309 S. 1).
 
-
 ## Eingangsformel
 
 Die Bundesregierung verordnet auf Grund
@@ -42,10 +41,7 @@ Die Bundesregierung verordnet auf Grund
 unter Wahrung der Rechte des Bundestages gemäß § 48b des Bundes-
 Immissionsschutzgesetzes:
 
-
 ## Erster Teil - Allgemeine Vorschriften
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -105,7 +101,6 @@ fester, flüssiger oder gasförmiger Brennstoffe.
 (3) Diese Verordnung enthält Anforderungen, die zur Vorsorge gegen
 schädliche Umwelteinwirkungen nach § 5 Abs. 1 Nr. 2 des Bundes-
 Immissionsschutzgesetzes zu erfüllen sind.
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -310,13 +305,7 @@ O(tief)M  gemessener Sauerstoffgehalt
     nicht in die Luft abgeleitet wird, zu der mit dem Brennstoff
     zugeführten Schwefelmenge; er wird angegeben als Vomhundertsatz.
 
-
-
-
-
 ## Zweiter Teil - Anforderungen an Errichtung und Betrieb
-
-
 
 ### § 3 Emissionsgrenzwerte für Feuerungsanlagen für feste Brennstoffe
 
@@ -814,7 +803,6 @@ Feuerungswärmeleistung von mehr als 300 MW ein Emissionsgrenzwert von
 mg/cbm für den Tagesmittelwert und von 600
 mg/cbm für den Halbstundenmittelwert.
 
-
 ### § 4 Emissionsgrenzwerte für Feuerungsanlagen für flüssige Brennstoffe
 
 (1) Die Feuerungsanlagen sind so zu errichten und zu betreiben, dass
@@ -1297,7 +1285,6 @@ Feuerungswärmeleistung von mehr als 300 MW ein Emissionsgrenzwert von
 mg/cbm für den Tagesmittelwert und von 600
 mg/cbm für den Halbstundenmittelwert.
 
-
 ### § 5 Emissionsgrenzwerte für Feuerungsanlagen für gasförmige Brennstoffe
 
 (1) Die Feuerungsanlagen sind so zu errichten und zu betreiben, dass
@@ -1514,7 +1501,6 @@ Stickstoffdioxid, mit einer Feuerungswärmeleistung von 50 MW bis 300
 MW ein Emissionsgrenzwert von 300
 mg/cbm für den Tagesmittelwert und von 600
 mg/cbm für den Halbstundenmittelwert.
-
 
 ### § 6 Emissionsgrenzwerte für Gasturbinenanlagen
 
@@ -1739,14 +1725,12 @@ Anwendung. Der Betreiber einer solchen Gasturbine hat der zuständigen
 Behörde jeweils bis zum 31. März eines Jahres für das vorhergehende
 Jahr einen Nachweis über die Einhaltung der Betriebszeit vorzulegen.
 
-
 ### § 7 Kraft-Wärme-Kopplung
 
 Der Betreiber hat bei der Errichtung oder der wesentlichen Änderung
 einer Anlage Maßnahmen zur Kraft-Wärme-Kopplung durchzuführen, es sei
 denn, dies ist technisch nicht möglich oder unverhältnismäßig. Dies
 ist der zuständigen Behörde darzulegen.
-
 
 ### § 8 Betrieb mit mehreren Brennstoffen
 
@@ -1807,7 +1791,6 @@ eingesetzten Brennstoff.
 
 (5) Bei Gasturbinenanlagen gelten die Absätze 2 und 4 entsprechend.
 
-
 ### § 9 Wesentliche Änderung und Erweiterung von Anlagen
 
 Wird eine Anlage wesentlich geändert, finden die Anforderungen der §§
@@ -1815,7 +1798,6 @@ Wird eine Anlage wesentlich geändert, finden die Anforderungen der §§
 werden sollen, sowie auf die Anlagenteile und Verfahrensschritte, auf
 die sich die Änderung auswirken wird, sofort Anwendung. Für die
 Anforderungen ist die Gesamtleistung der Anlage maßgeblich.
-
 
 ### § 9a Anlagen zur Abscheidung und Kompression von Kohlendioxid
 
@@ -1834,7 +1816,6 @@ Betreiber auf dem Betriebsgelände eine hinreichend große Fläche für
 die Nachrüstung der errichteten Anlage mit den für die Abscheidung und
 Kompression von Kohlendioxid erforderlichen Anlagen freizuhalten.
 
-
 ### § 10 Begrenzung von Emissionen bei Lagerungs- und Transportvorgängen
 
 (1) Bei der Lagerung und beim Transport von Stoffen sind nach näherer
@@ -1850,7 +1831,6 @@ befeuchtet werden.
 (3) Für staubförmige Verbrennungsrückstände sind geschlossene
 Transporteinrichtungen und geschlossene Zwischenlager zu verwenden.
 
-
 ### § 11 Ableitbedingungen für Abgase
 
 Die Abgase sind in kontrollierter Weise so abzuleiten, dass ein
@@ -1859,7 +1839,6 @@ Zur Ermittlung der Ableitungshöhen sind die Anforderungen der
 Technischen Anleitung zur Reinhaltung der Luft in der jeweils gültigen
 Fassung heranzuziehen. Die näheren Bestimmungen sind in der
 Genehmigung festzulegen.
-
 
 ### § 12 Störungen an Abgasreinigungseinrichtungen
 
@@ -1879,10 +1858,7 @@ Abgasreinigungseinrichtung darf eine Anlage während eines Zwölf-
 Monats-Zeitraumes höchstens 120 Stunden ohne diese
 Abgasreinigungseinrichtung betrieben werden.
 
-
 ## Dritter Teil - Messung und Überwachung
-
-
 
 ### § 13 Messplätze
 
@@ -1890,7 +1866,6 @@ Für die Messungen sind nach näherer Bestimmung der zuständigen Behörde
 Messplätze einzurichten; diese sollen ausreichend groß, leicht
 begehbar und so beschaffen sein sowie so ausgewählt werden, dass
 repräsentative und einwandfreie Messungen gewährleistet sind.
-
 
 ### § 14 Messverfahren und Messeinrichtungen
 
@@ -1924,7 +1899,6 @@ alle drei Jahre durchführen zu lassen. Die Berichte über das Ergebnis
 der Kalibrierung und der Prüfung der Funktionsfähigkeit sind der
 zuständigen Behörde innerhalb von zwölf Wochen nach Kalibrierung und
 Prüfung vorzulegen.
-
 
 ### § 15 Kontinuierliche Messungen
 
@@ -2046,7 +2020,6 @@ anzuzeigen und von dieser billigen zu lassen. Die Billigung gilt als
 erteilt, wenn die zuständige Behörde nicht innerhalb einer Frist von
 vier Wochen widerspricht.
 
-
 ### § 16 Auswertung und Beurteilung von kontinuierlichen Messungen
 
 (1) Während des Betriebes der Anlage ist aus den Messwerten für jede
@@ -2073,7 +2046,6 @@ nach Anhang II validierten Tages- und Halbstundenmittelwertes den
 jeweils maßgebenden Emissionsgrenzwert nach den §§ 3 bis 6 und 8
 überschreitet und kein Ergebnis den Schwefelabscheidegrad nach § 3
 oder § 4 unterschreitet.
-
 
 ### § 17 Einzelmessungen
 
@@ -2117,7 +2089,6 @@ der zuständigen Behörde auf Verlangen vorzulegen. Der Betreiber hat
 die Nachweise fünf Jahre nach Ende des Nachweiszeitraums nach Satz 2
 aufzubewahren.
 
-
 ### § 18 Berichte und Beurteilung von Einzelmessungen
 
 (1) Der Betreiber hat über die Ergebnisse der Messungen nach § 17
@@ -2129,7 +2100,6 @@ Messergebnisse von Bedeutung sind, enthalten.
 
 (2) Die Emissionsgrenzwerte gelten als eingehalten, wenn kein Ergebnis
 einer Einzelmessung einen Mittelwert nach § 3 oder § 4 überschreitet.
-
 
 ### § 19 Jährliche Berichte über Emissionen
 
@@ -2152,7 +2122,6 @@ Zusammenfassungen nach Absatz 2, in der die Emissionen aus Raffinerien
 gesondert ausgewiesen sind, ist dem Bundesministerium für Umwelt,
 Naturschutz und Reaktorsicherheit zur Weiterleitung an die Kommission
 der Europäischen Gemeinschaften zuzuleiten.
-
 
 ### § 19a Ermittlung der Jahresmittelwerte, Überwachung und Berichterstattung
 
@@ -2180,10 +2149,7 @@ Prüfungen und den Emissionsgrenzwerten zu führen und der zuständigen
 Behörde auf Verlangen vorzulegen. Die Nachweise sind fünf Jahre nach
 Ende des Nachweiszeitraums nach Satz 2 aufzubewahren.
 
-
 ## Vierter Teil - Anforderungen an Altanlagen
-
-
 
 ### § 20 Übergangsregelung
 
@@ -2244,7 +2210,6 @@ nachgerüstet wurde und die über den 31. Dezember 2012 hinaus betrieben
 werden soll, eine Frist bis zum 31. Dezember 2010. Absatz 2 Satz 1 bis
 3 gilt entsprechend.
 
-
 ### § 20a Übergangsregelungen für die Einhaltung von Jahresmittelwerten
 
 (1) Die Forderungen zur Einhaltung von Jahresmittelwerten für
@@ -2273,13 +2238,7 @@ nicht für Anlagen,
 
 2.  die den Betrieb vor dem 31. Dezember 2013 aufgenommen haben.
 
-
-
-
-
 ## Fünfter Teil - Gemeinsame Vorschriften
-
-
 
 ### § 21 Zulassung von Ausnahmen
 
@@ -2316,7 +2275,6 @@ Ausnahmegenehmigung nach Satz 1 dem Bundesministerium für Umwelt,
 Naturschutz und Reaktorsicherheit unverzüglich zur Weiterleitung an
 die Kommission der Europäischen Gemeinschaften zuzuleiten.
 
-
 ### § 22 Weitergehende Anforderungen
 
 (1) Die Befugnisse der zuständigen Behörde, andere oder weitergehende
@@ -2329,7 +2287,6 @@ Vorsorge gegen schädliche Umwelteinwirkungen durch
 Luftverunreinigungen getroffen, die über die Anforderungen dieser
 Verordnung hinausgehen, sind sie weiterhin maßgeblich.
 
-
 ### § 23 Zugänglichkeit der Normen- und Arbeitsblätter
 
 Die in den §§ 2 und 4 genannten DIN-Normen sowie die in § 15 genannten
@@ -2339,7 +2296,6 @@ Verlagsgesellschaft Gas und Wasser mbH, Bonn, zu beziehen. Die
 genannten Normen sowie das genannte Arbeitsblatt sind bei dem
 Deutschen Patent- und Markenamt in München archivmäßig gesichert
 niedergelegt.
-
 
 ### § 24 Ordnungswidrigkeiten
 
@@ -2416,20 +2372,15 @@ einen Nachweis nicht, nicht richtig oder nicht vollständig führt,
 nicht oder nicht rechtzeitig vorlegt oder nicht oder nicht mindestens
 fünf Jahre aufbewahrt.
 
-
 ## Sechster Teil - Schlussvorschriften
-
-
 
 ### § 25 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
 ### Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ### Anhang I Äquivalenzfaktoren
 
@@ -2526,10 +2477,6 @@ angegebenen Äquivalenzfaktoren zu multiplizieren und zu summieren:
 *    *   Octachlordibenzofuran (OCDF)
 
     *   0,001
-
-
-
-
 
 ### Anhang II Anforderungen an die kontinuierlichen Messeinrichtungen und die Validierung der Messergebnisse
 

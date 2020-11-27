@@ -21,14 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 9 G v. 21.7.2012 I 1583
 
-
 ## Erster Abschnitt - Gemeinsame Vorschriften
 
-
-
 ### 1. - Allgemeines
-
-
 
 #### § 1 Begriffsbestimmungen
 
@@ -59,7 +54,6 @@ werden.
 (4) Disziplinarvorgesetzter ist, wer Disziplinarbefugnis über Soldaten
 hat. Das Nähere regelt die Wehrdisziplinarordnung.
 
-
 #### § 2 Dauer des Wehrdienstverhältnisses; Dienstzeitberechnung
 
 (1) Das Wehrdienstverhältnis beginnt
@@ -89,7 +83,6 @@ vorhergehenden Werktages ein anderer Tag für den Beginn des
 Wehrdienstverhältnisses bestimmt worden ist und der Soldat den Dienst
 an diesem Tag angetreten hat. § 44 Abs. 5 Satz 2 bleibt unberührt.
 
-
 #### § 3 Ernennungs- und Verwendungsgrundsätze
 
 (1) Der Soldat ist nach Eignung, Befähigung und Leistung ohne
@@ -118,7 +111,6 @@ unbillige Härte bedeuten würde.
 (3) Absatz 2 gilt entsprechend für die Wiedereinstellung früherer
 Soldaten, denen kein Anspruch nach dem Einsatz-Weiterverwendungsgesetz
 zusteht.
-
 
 #### § 4 Ernennung, Dienstgradbezeichnungen, Uniform
 
@@ -159,10 +151,7 @@ Grund der §§ 5, 6, 8 und 36 des Abgeordnetengesetzes oder
 entsprechender Rechtsvorschriften ruhen, einen Dienst nach § 51 Abs. 6
 oder § 54 Abs. 4 leistet.
 
-
 #### § 4a (weggefallen)
-
-
 
 #### § 5 Gnadenrecht
 
@@ -174,10 +163,7 @@ das Gnadenrecht zu. Er kann die Ausübung anderen Stellen übertragen.
 beseitigt, so gilt von diesem Zeitpunkt ab § 42 Abs. 1, 2 und 4 des
 Bundesbeamtengesetzes entsprechend.
 
-
 ### 2. - Pflichten und Rechte der Soldaten
-
-
 
 #### § 6 Staatsbürgerliche Rechte des Soldaten
 
@@ -186,20 +172,17 @@ Staatsbürger. Seine Rechte werden im Rahmen der Erfordernisse des
 militärischen Dienstes durch seine gesetzlich begründeten Pflichten
 beschränkt.
 
-
 #### § 7 Grundpflicht des Soldaten
 
 Der Soldat hat die Pflicht, der Bundesrepublik Deutschland treu zu
 dienen und das Recht und die Freiheit des deutschen Volkes tapfer zu
 verteidigen.
 
-
 #### § 8 Eintreten für die demokratische Grundordnung
 
 Der Soldat muss die freiheitliche demokratische Grundordnung im Sinne
 des Grundgesetzes anerkennen und durch sein gesamtes Verhalten für
 ihre Erhaltung eintreten.
-
 
 #### § 9 Eid und feierliches Gelöbnis
 
@@ -219,7 +202,6 @@ leisten, bekennen sich zu ihren Pflichten durch das folgende
 feierliche Gelöbnis:
 "Ich gelobe, der Bundesrepublik Deutschland treu zu dienen und das
 Recht und die Freiheit des deutschen Volkes tapfer zu verteidigen."
-
 
 #### § 10 Pflichten des Vorgesetzten
 
@@ -241,7 +223,6 @@ der den Umständen angemessenen Weise durchzusetzen.
 (6) Offiziere und Unteroffiziere haben innerhalb und außerhalb des
 Dienstes bei ihren Äußerungen die Zurückhaltung zu wahren, die
 erforderlich ist, um das Vertrauen als Vorgesetzte zu erhalten.
-
 
 #### § 11 Gehorsam
 
@@ -265,7 +246,6 @@ begangen wird.
 Anordnungen zu erteilen, die keinen Befehl darstellen, gelten § 62
 Absatz 1 und § 63 des Bundesbeamtengesetzes entsprechend.
 
-
 #### § 12 Kameradschaft
 
 Der Zusammenhalt der Bundeswehr beruht wesentlich auf Kameradschaft.
@@ -274,7 +254,6 @@ Kameraden zu achten und ihm in Not und Gefahr beizustehen. Das
 schließt gegenseitige Anerkennung, Rücksicht und Achtung fremder
 Anschauungen ein.
 
-
 #### § 13 Wahrheit
 
 (1) Der Soldat muss in dienstlichen Angelegenheiten die Wahrheit
@@ -282,7 +261,6 @@ sagen.
 
 (2) Eine Meldung darf nur gefordert werden, wenn der Dienst dies
 rechtfertigt.
-
 
 #### § 14 Verschwiegenheit
 
@@ -327,7 +305,6 @@ seine Erben.
 
 (4) (weggefallen)
 
-
 #### § 15 Politische Betätigung
 
 (1) Im Dienst darf sich der Soldat nicht zu Gunsten oder zu Ungunsten
@@ -350,12 +327,10 @@ tragen.
 (4) Ein Soldat darf als Vorgesetzter seine Untergebenen nicht für oder
 gegen eine politische Meinung beeinflussen.
 
-
 #### § 16 Verhalten in anderen Staaten
 
 Außerhalb des Geltungsbereichs des Grundgesetzes ist dem Soldaten jede
 Einmischung in die Angelegenheiten des Aufenthaltsstaates versagt.
-
 
 #### § 17 Verhalten im und außer Dienst
 
@@ -399,7 +374,6 @@ Eingriffe in die körperliche Unversehrtheit gelten einfache ärztliche
 Maßnahmen, wie Blutentnahmen aus dem Ohrläppchen, dem Finger oder
 einer Blutader oder eine röntgenologische Untersuchung.
 
-
 #### § 18 Gemeinschaftsunterkunft und Gemeinschaftsverpflegung
 
 Der Soldat ist auf dienstliche Anordnung verpflichtet, in einer
@@ -407,7 +381,6 @@ Gemeinschaftsunterkunft zu wohnen und an einer
 Gemeinschaftsverpflegung teilzunehmen. Die zur Durchführung
 erforderlichen Verwaltungsvorschriften erlässt das Bundesministerium
 der Verteidigung im Einvernehmen mit dem Bundesministerium des Innern.
-
 
 #### § 19 Verbot der Annahme von Belohnungen oder Geschenken, Herausgabe- und Auskunftspflicht
 
@@ -427,7 +400,6 @@ des Bürgerlichen Gesetzbuchs über die Herausgabe einer
 ungerechtfertigten Bereicherung entsprechend. Die Herausgabepflicht
 nach Satz 1 umfasst auch die Pflicht, dem Dienstherrn Auskunft über
 Art, Umfang und Verbleib des Erlangten zu geben.
-
 
 #### § 20 Nebentätigkeit
 
@@ -568,7 +540,6 @@ dienstlichen Erfordernissen zuwiderläuft. Gleiches gilt bei einem
 Soldaten, der zu einer Dienstleistung nach dem Vierten Abschnitt
 herangezogen worden ist.
 
-
 #### § 20a Tätigkeit nach dem Ausscheiden aus dem Wehrdienst
 
 (1) Ein Berufssoldat im Ruhestand oder ein früherer Soldat mit
@@ -592,7 +563,6 @@ Verteidigung zu richten, das auch für die Untersagung nach Absatz 2
 zuständig ist. Es kann seine Zuständigkeit auf andere Stellen
 übertragen.
 
-
 #### § 21 Vormundschaft und Ehrenämter
 
 Der Soldat bedarf zur Übernahme einer Vormundschaft, Betreuung oder
@@ -605,7 +575,6 @@ bei einer unentgeltlichen Vormundschaft, Betreuung oder Pflegschaft
 eines Angehörigen; die Übernahme dieser Tätigkeiten hat der Soldat vor
 Aufnahme seinem Disziplinarvorgesetzten schriftlich anzuzeigen.
 
-
 #### § 22 Verbot der Ausübung des Dienstes
 
 Der Bundesminister der Verteidigung oder die von ihm bestimmte Stelle
@@ -614,7 +583,6 @@ des Dienstes verbieten. Das Verbot erlischt, sofern nicht bis zum
 Ablauf von drei Monaten gegen den Soldaten ein gerichtliches
 Disziplinarverfahren, ein Strafverfahren oder ein Entlassungsverfahren
 eingeleitet ist.
-
 
 #### § 23 Dienstvergehen
 
@@ -645,7 +613,6 @@ Pflichten verletzt.
 (3) Das Nähere über die Verfolgung von Dienstvergehen regelt die
 Wehrdisziplinarordnung.
 
-
 #### § 24 Haftung
 
 (1) Verletzt ein Soldat vorsätzlich oder grob fahrlässig die ihm
@@ -664,7 +631,6 @@ wird.
 (3) Leistet der Soldat dem Dienstherrn Ersatz und hat dieser einen
 Ersatzanspruch gegen einen Dritten, so geht der Ersatzanspruch auf den
 Soldaten über.
-
 
 #### § 25 Wahlrecht; Amtsverhältnisse
 
@@ -720,13 +686,11 @@ Ablauf der drei Monate als Berufssoldat entlassen. Die Vorschriften
 bleiben unberührt. Die Sätze 1 bis 5 gelten für den Soldaten auf Zeit
 entsprechend.
 
-
 #### § 26 Verlust des Dienstgrades
 
 Der Soldat verliert seinen Dienstgrad nur kraft Gesetzes oder durch
 Richterspruch. Das Nähere über den Verlust des Dienstgrades durch
 Richterspruch regelt die Wehrdisziplinarordnung.
-
 
 #### § 27 Laufbahnvorschriften
 
@@ -823,7 +787,6 @@ Bundesministeriums der Verteidigung und die übrigen Berufssoldaten
 werden vom Bundespräsidenten auf Vorschlag des Bundesministers der
 Verteidigung bestellt.
 
-
 #### § 28 Urlaub
 
 (1) Dem Soldaten steht alljährlich ein Erholungsurlaub unter Belassung
@@ -874,7 +837,6 @@ Sachbezüge mit Ausnahme der unentgeltlichen truppenärztlichen
 Versorgung. Das Nähere wird durch eine Rechtsverordnung geregelt, die
 die Eigenart des militärischen Dienstes berücksichtigt.
 
-
 #### § 28a Urlaub bis zum Beginn des Ruhestandes
 
 (1) Einem Berufssoldaten kann nach einer Beschäftigung im öffentlichen
@@ -900,7 +862,6 @@ Soldaten die Fortsetzung des Urlaubs nicht zugemutet werden kann.
 
 (3) Das Bundesministerium der Verteidigung kann den Urlaub aus
 zwingenden dienstlichen Gründen widerrufen.
-
 
 #### § 29 Personalakten
 
@@ -1052,10 +1013,6 @@ Soldaten Auskunft zu erteilen.
     ihn beauftragt worden sind, dem Arztgeheimnis unterliegende
     personenbezogene Daten zu offenbaren.
 
-
-
-
-
 #### § 30 Geld- und Sachbezüge, Versorgung
 
 (1) Der Soldat hat Anspruch auf Geld- und Sachbezüge, Versorgung,
@@ -1090,7 +1047,6 @@ gewährt werden. Das Nähere regelt eine Rechtsverordnung.
 Anwendung des Mutterschutzgesetzes. Das Nähere regelt eine
 Rechtsverordnung, die die Eigenart des militärischen Dienstes
 berücksichtigt.
-
 
 #### § 30a Teilzeitbeschäftigung
 
@@ -1136,13 +1092,11 @@ Rechtsverordnung geregelt, in der auch bestimmte Verwendungen oder
 Truppenteile festgelegt werden können, für die Teilzeitbeschäftigung
 nicht in Frage kommt.
 
-
 #### § 30b Zusammentreffen von Urlaub und Teilzeitbeschäftigung
 
 Urlaube nach § 28 Abs. 5 und § 28a sowie Zeiten einer
 Teilzeitbeschäftigung nach § 30a dürfen zusammen eine Dauer von 15
 Jahren nicht überschreiten.
-
 
 #### § 31 Fürsorge
 
@@ -1206,7 +1160,6 @@ auf Zeit, die nach der Eignungsübung in das Dienstverhältnis eines
 Berufssoldaten oder Soldaten auf Zeit berufen worden sind, auch die
 während der Eignungsübung entstandenen Aufwendungen beihilfefähig.
 
-
 #### § 32 Dienstzeitbescheinigung und Dienstzeugnis
 
 (1) Der Soldat erhält nach Beendigung seines Wehrdienstes eine
@@ -1221,7 +1174,6 @@ anders bestimmen.
 (2) Der Soldat kann eine angemessene Zeit vor dem Ende des
 Wehrdienstes ein vorläufiges Dienstzeugnis beantragen.
 
-
 #### § 33 Staatsbürgerlicher und völkerrechtlicher Unterricht
 
 (1) Die Soldaten erhalten staatsbürgerlichen und völkerrechtlichen
@@ -1235,37 +1187,28 @@ einer bestimmten politischen Richtung beeinflusst werden.
 völkerrechtlichen Pflichten und Rechte im Frieden und im Krieg zu
 unterrichten.
 
-
 #### § 34 Beschwerde
 
 Der Soldat hat das Recht, sich zu beschweren. Das Nähere regelt die
 Wehrbeschwerdeordnung.
 
-
 #### § 35 Beteiligungsrechte der Soldaten
 
 Die Beteiligung der Soldaten regelt das Soldatenbeteiligungsgesetz.
-
 
 #### § 35a Beteiligung an der Gestaltung des Dienstrechts
 
 Für die Beteiligung bei der Gestaltung des Dienstrechts der Soldaten
 gilt § 118 des Bundesbeamtengesetzes sinngemäß.
 
-
 #### § 36 Seelsorge
 
 Der Soldat hat einen Anspruch auf Seelsorge und ungestörte
 Religionsausübung. Die Teilnahme am Gottesdienst ist freiwillig.
 
-
 ## Zweiter Abschnitt - Rechtsstellung der Berufssoldaten und der Soldaten auf Zeit
 
-
-
 ### 1. - Begründung des Dienstverhältnisses
-
-
 
 #### § 37 Voraussetzung der Berufung
 
@@ -1288,7 +1231,6 @@ auf Zeit darf nur berufen werden, wer
 (2) Das Bundesministerium der Verteidigung kann in Einzelfällen
 Ausnahmen von Absatz 1 Nr. 1 zulassen, wenn dafür ein dienstliches
 Bedürfnis besteht.
-
 
 #### § 38 Hindernisse der Berufung
 
@@ -1316,7 +1258,6 @@ auf Zeit darf nicht berufen werden, wer
 (2) Das Bundesministerium der Verteidigung kann in Einzelfällen
 Ausnahmen von Absatz 1 Nr. 1 zulassen.
 
-
 #### § 39 Begründung des Dienstverhältnisses eines Berufssoldaten
 
 In das Dienstverhältnis eines Berufssoldaten können berufen werden
@@ -1335,10 +1276,6 @@ In das Dienstverhältnis eines Berufssoldaten können berufen werden
 
 
 4.  Offiziere der Reserve.
-
-
-
-
 
 #### § 40 Begründung des Dienstverhältnisses eines Soldaten auf Zeit
 
@@ -1398,7 +1335,6 @@ Rahmen der Bearbeitung eines Antrages auf Bewilligung der Elternzeit
 eröffnet werden. Die Entscheidung ist spätestens mit der Bewilligung
 der Elternzeit zu treffen. Absatz 7 bleibt im Übrigen unberührt.
 
-
 #### § 41 Form der Begründung und der Umwandlung
 
 (1) Die Begründung des Dienstverhältnisses und seine Umwandlung
@@ -1444,10 +1380,7 @@ begründen oder ein bestehendes Soldatenverhältnis in ein solches
 anderer Art umwandeln wollte, für das die sonstigen Voraussetzungen
 vorliegen.
 
-
 ### 2. - Beförderung
-
-
 
 #### § 42 Form der Beförderung
 
@@ -1473,14 +1406,9 @@ der Beförderung anordnen. Insoweit gilt Absatz 2 entsprechend mit der
 Maßgabe, dass dem Soldaten die Urkunde oder die Ausfertigung alsbald
 auszuhändigen ist.
 
-
 ### 3. - Beendigung des Dienstverhältnisses
 
-
-
 #### a) - Beendigung des Dienstverhältnisses eines Berufssoldaten
-
-
 
 ##### § 43 Beendigungsgründe
 
@@ -1501,10 +1429,6 @@ die rechtliche Stellung der Berufssoldaten im Ruhestand.
 
 4.  Entfernung aus dem Dienstverhältnis durch Urteil in einem
     gerichtlichen Disziplinarverfahren.
-
-
-
-
 
 ##### § 44 Eintritt oder Versetzung in den Ruhestand
 
@@ -1595,7 +1519,6 @@ in den Ruhestand dem Berufssoldaten mitgeteilt worden ist.
 Berufssoldat das Recht, seine Dienstgradbezeichnung mit dem Zusatz
 "außer Dienst (a. D.)" weiterzuführen.
 
-
 ##### § 45 Altersgrenzen
 
 (1) Für Berufssoldaten werden folgende allgemeine Altersgrenzen
@@ -1649,7 +1572,6 @@ Bundestag, erstmals im Jahr 2018.
 
 (5) § 147 Abs. 3 des Bundesbeamtengesetzes gilt entsprechend.
 
-
 ##### § 45a Umwandlung
 
 (1) Beantragt ein Berufssoldat die Umwandlung seines
@@ -1661,7 +1583,6 @@ notwendige Zeit der Freistellung vom militärischen Dienst umfassen.
 
 (3) Bei der Umwandlung müssen die Voraussetzungen des § 46 Abs. 3
 nicht vorliegen.
-
 
 ##### § 46 Entlassung
 
@@ -1781,7 +1702,6 @@ der Gesamtdienstzeit in der Bundeswehr, wegen mangelnder Eignung als
 Berufsoffizier entlassen werden. Die in diesen Fällen zu gewährende
 Dienstzeitversorgung regelt das Soldatenversorgungsgesetz.
 
-
 ##### § 47 Zuständigkeit, Anhörungspflicht und Fristen bei der Entlassung
 
 (1) Soweit gesetzlich nichts anderes bestimmt ist, wird die Entlassung
@@ -1802,7 +1722,6 @@ Abs. 2 Satz 1 Nr. 6 bei Dienstunfähigkeit wenigstens drei Monate vor
 dem Entlassungstag und in den Fällen des § 46 Abs. 8 wenigstens sechs
 Wochen vor dem Entlassungstag zum Schluss eines Kalendervierteljahres
 unter schriftlicher Angabe der Gründe zugestellt werden.
-
 
 ##### § 48 Verlust der Rechtsstellung eines Berufssoldaten
 
@@ -1826,7 +1745,6 @@ erkannt ist
 Entsprechendes gilt, wenn der Berufssoldat auf Grund einer
 Entscheidung des Bundesverfassungsgerichts gemäß Artikel 18 des
 Grundgesetzes ein Grundrecht verwirkt hat.
-
 
 ##### § 49 Folgen der Entlassung und des Verlustes der Rechtsstellung eines Berufssoldaten
 
@@ -1873,7 +1791,6 @@ Verteidigung die Erlaubnis erteilen, seinen Dienstgrad mit dem Zusatz
 "außer Dienst (a. D.)" zu führen. Die Erlaubnis ist zurückzunehmen,
 wenn der frühere Berufssoldat sich ihrer als nicht würdig erweist.
 
-
 ##### § 50 Versetzung in den einstweiligen Ruhestand
 
 (1) Der Bundespräsident kann die Berufsoffiziere vom Brigadegeneral
@@ -1885,7 +1802,6 @@ Vorschriften der §§ 56, 57 und 58 Abs. 1 des Bundesbeamtengesetzes
 finden entsprechende Anwendung. Der in den einstweiligen Ruhestand
 versetzte Berufsoffizier gilt mit Erreichen der Altersgrenze als
 dauernd in den Ruhestand versetzt.
-
 
 ##### § 51 Wiederverwendung
 
@@ -1923,18 +1839,15 @@ erneuten Berufung in das Dienstverhältnis eines Berufssoldaten.
 Rechtsvorschriften ruhen, kann auf seinen Antrag zu Dienstleistungen
 nach § 60 bis zu drei Monaten Dauer herangezogen werden.
 
-
 ##### § 51a (weggefallen)
 
 -
-
 
 ##### § 52 Wiederaufnahme des Verfahrens
 
 Wird ein Urteil mit den Folgen des § 48 im Wiederaufnahmeverfahren
 durch ein Urteil ersetzt, das diese Folgen nicht hat, so gilt § 42
 Abs. 1, 2 und 4 des Bundesbeamtengesetzes entsprechend.
-
 
 ##### § 53 Verurteilung nach Beendigung des Dienstverhältnisses
 
@@ -1973,10 +1886,7 @@ Grundgesetzes ein Grundrecht verwirkt hat. § 52 gilt entsprechend.
 
 (2) § 30 Abs. 2 des Wehrpflichtgesetzes findet keine Anwendung.
 
-
 #### b) - Beendigung des Dienstverhältnisses eines Soldaten auf Zeit
-
-
 
 ##### § 54 Beendigungsgründe
 
@@ -2016,7 +1926,6 @@ um einen Zeitraum von bis zu drei Monaten verlängert werden.
 5, 6, 8 und 36 des Abgeordnetengesetzes oder entsprechender
 Rechtsvorschriften ruhen, kann auf seinen Antrag zu Dienstleistungen
 nach § 60 bis zu drei Monaten Dauer herangezogen werden.
-
 
 ##### § 55 Entlassung
 
@@ -2068,7 +1977,6 @@ können und die Erteilung beantragt haben, beträgt die Frist in den
 Fällen des Absatzes 2 ein Jahr. In den Fällen des Absatzes 3 gilt § 46
 Abs. 7 entsprechend.
 
-
 ##### § 56 Folgen der Entlassung und des Verlustes der Rechtsstellung eines Soldaten auf Zeit
 
 (1) Mit der Beendigung seines Dienstverhältnisses durch Zeitablauf
@@ -2115,7 +2023,6 @@ als Sanitätsoffizier-Anwärter gewährte Ausbildungsgeld erstatten. Auf
 die Erstattung kann ganz oder teilweise verzichtet werden, wenn sie
 für den früheren Soldaten eine besondere Härte bedeuten würde.
 
-
 ##### § 57 Wiederaufnahme des Verfahrens, Verurteilungen nach Beendigung des Dienstverhältnisses
 
 (1) Für die Wiederaufnahme des Verfahrens und für die Folgen von
@@ -2130,10 +2037,7 @@ in § 53 Abs. 1 genannten Fällen, seinen Dienstgrad, wenn er die in §
 und gegen ihn auf eine der in § 48 Satz 1 bezeichneten Strafen,
 Maßregeln oder Nebenfolgen erkannt wird.
 
-
 ## Dritter Abschnitt - Wehrdienst nach dem Wehrpflichtgesetz; Reservewehrdienstverhältnis
-
-
 
 ### § 58 Wehrdienst nach dem Wehrpflichtgesetz
 
@@ -2148,25 +2052,18 @@ bestimmten Tag wirksam. § 42 Abs. 2 Satz 2 gilt entsprechend. Die
 Sätze 1 und 2 gelten entsprechend für diejenigen, die zu den in § 60
 genannten Dienstleistungen herangezogen werden.
 
-
 ### § 58a
 
 (weggefallen)
-
 
 ### § 58a Reservewehrdienstverhältnis
 
 Die Rechtsstellung der Soldaten in einem Reservewehrdienstverhältnis
 wird durch das Reservistinnen- und Reservistengesetz geregelt.
 
-
 ## Vierter Abschnitt - Dienstleistungspflicht
 
-
-
 ### 1. - Umfang und Arten der Dienstleistungen
-
-
 
 #### § 59 Personenkreis
 
@@ -2235,7 +2132,6 @@ häuslicher, wirtschaftlicher oder beruflicher Gründe eine besondere,
 im Bereitschafts-, Spannungs- oder Verteidigungsfall eine unzumutbare
 Härte bedeuten würde.
 
-
 #### § 60 Arten der Dienstleistungen
 
 Dienstleistungen sind
@@ -2254,10 +2150,6 @@ Dienstleistungen sind
 
 5.  unbefristeter Wehrdienst im Spannungs- oder Verteidigungsfall.
 
-
-
-
-
 #### § 61 Übungen
 
 (1) Befristete Übungen dauern grundsätzlich höchstens drei Monate.
@@ -2271,7 +2163,6 @@ zwölf Monate.
 angeordnet werden, sind unbefristet. Auf die Gesamtdauer der Übungen
 nach Absatz 2 werden sie nicht angerechnet; das Bundesministerium der
 Verteidigung kann eine Anrechnung anordnen.
-
 
 #### § 62 Besondere Auslandsverwendungen
 
@@ -2298,7 +2189,6 @@ Nr. 9 bleibt unberührt.
 (4) § 75 Abs. 2 Nr. 1 ist mit der Maßgabe anzuwenden, dass der Soldat
 zu entlassen ist.
 
-
 #### § 63 Hilfeleistungen im Innern
 
 (1) Hilfeleistungen im Innern sind Verwendungen der Streitkräfte im
@@ -2315,7 +2205,6 @@ die Gesamtdauer der Übungen nach § 61 Abs. 2 nicht angerechnet.
 (3) Als Hilfeleistungen im Innern gelten auch vorbereitende Übungen im
 Rahmen der zivil-militärischen Zusammenarbeit.
 
-
 #### § 63a Hilfeleistungen im Ausland
 
 (1) Hilfeleistungen im Ausland sind Verwendungen der Streitkräfte im
@@ -2328,22 +2217,17 @@ heranzuziehenden Person und ihres Arbeitgebers oder ihrer
 Dienstbehörde Ausnahmen zulassen. Hilfeleistungen im Ausland werden
 auf die Gesamtdauer der Übungen nach § 61 Abs. 2 nicht angerechnet.
 
-
 ### 2. - Dienstleistungsausnahmen
-
-
 
 #### § 64 Dienstunfähigkeit
 
 Zu Dienstleistungen wird nicht herangezogen, wer dienstunfähig ist.
-
 
 #### § 65 Ausschluss von Dienstleistungen
 
 Von Dienstleistungen ist derjenige ausgeschlossen, gegen den durch ein
 deutsches Gericht auf die in § 38 Abs. 1 bezeichneten Strafen,
 Maßregeln oder Nebenfolgen erkannt worden ist.
-
 
 #### § 66 Befreiung von Dienstleistungen
 
@@ -2368,10 +2252,6 @@ Von Dienstleistungen sind befreit
 5.  Dienstleistungspflichtige, die auf Grund eines völkerrechtlichen
     Vertrages für die Dauer einer Tätigkeit in einer internationalen
     Behörde eine entsprechende Befreiung genießen.
-
-
-
-
 
 #### § 67 Zurückstellung von Dienstleistungen
 
@@ -2491,7 +2371,6 @@ Dienstleistungspflichtigen. Die Heranziehung des
 Dienstleistungspflichtigen ist bis zur Entscheidung über den Antrag
 auszusetzen.
 
-
 #### § 68 Unabkömmlichstellung
 
 (1) Zum Ausgleich des personellen Kräftebedarfs für die Aufgaben der
@@ -2526,17 +2405,13 @@ Wehrersatzbehörde anzuzeigen. Dienstleistungspflichtige, die in keinem
 Arbeits- oder Dienstverhältnis stehen, haben den Wegfall der
 Voraussetzungen selbst anzuzeigen.
 
-
 ### 3. - Heranziehungsverfahren
-
-
 
 #### § 69 Zuständigkeit
 
 Zuständig für die Heranziehung von Dienstleistungspflichtigen zu
 Dienstleistungen und das damit in Zusammenhang stehende Verfahren nach
 diesem Abschnitt sind die Wehrersatzbehörden.
-
 
 #### § 70 Verfahren
 
@@ -2566,7 +2441,6 @@ mit gewöhnlichem Standardbrief mit dem Vermerk "Vorrangpost" oder in
 entsprechender Anwendung des § 5 des Verwaltungszustellungsgesetzes
 unmittelbar durch die Truppe zugestellt werden.
 
-
 #### § 71 Ärztliche Untersuchung, Anhörung
 
 Ungediente Personen, die sich gemäß § 59 Abs. 3 Satz 1 freiwillig zu
@@ -2586,7 +2460,6 @@ daraus ergebenden Rechtsfolgen sind durch einen schriftlichen
 Untersuchungsbescheid mitzuteilen. Das gilt auch dann, wenn eine
 beantragte Überprüfung der Dienstfähigkeit ohne ärztliche Untersuchung
 durchgeführt wird.
-
 
 #### § 72 Heranziehung von ungedienten Dienstleistungspflichtigen
 
@@ -2623,10 +2496,6 @@ Einhaltung einer Frist einberufen werden, wenn
 
 5.  Hilfeleistungen im Innern zu erbringen sind.
 
-
-
-
-
 #### § 73 Heranziehung von gedienten Dienstleistungspflichtigen
 
 Dienstleistungspflichtige, die bereits in der Bundeswehr gedient
@@ -2644,10 +2513,7 @@ Sie haben sich entsprechend dem Heranziehungsbescheid zu
 Dienstleistungen in der Bundeswehr zu stellen. § 72 Abs. 1 und 3 gilt
 entsprechend.
 
-
 ### 4. - Beendigung der Dienstleistungen und Verlust des Dienstgrades
-
-
 
 #### § 74 Beendigung der Dienstleistungen
 
@@ -2661,10 +2527,6 @@ Die Dienstleistungen enden
 
 
 3.  durch Ausschluss (§ 76).
-
-
-
-
 
 #### § 75 Entlassung aus den Dienstleistungen
 
@@ -2774,10 +2636,6 @@ endet der Wehrdienst, zu dem er herangezogen wurde, wenn
     Fortsetzung des Wehrdienstverhältnisses nicht einverstanden ist, mit
     dem Tag der Abgabe der Erklärung.
 
-
-
-
-
 #### § 76 Ausschluss von Dienstleistungen und Verlust des Dienstgrades
 
 (1) Ein Soldat ist von Dienstleistungen ausgeschlossen, wenn gegen ihn
@@ -2799,10 +2657,7 @@ gegen ihn durch ein deutsches Gericht auf eine der in § 38 Absatz 1
 bezeichneten Strafen, Maßregeln und Nebenfolgen erkannt worden ist.
 Die §§ 53 und 57 bleiben unberührt.
 
-
 ### 5. - Überwachung und Durchsetzung der Dienstleistungspflicht
-
-
 
 #### § 77 Dienstleistungsüberwachung; Haftung
 
@@ -2925,7 +2780,6 @@ unverzüglich schriftlich, elektronisch oder mündlich zu melden:
 
 (7) (weggefallen)
 
-
 #### § 78 Aufenthaltsfeststellungsverfahren
 
 (1) Kann die für die Dienstleistungsüberwachung zuständige
@@ -2991,7 +2845,6 @@ Dienstleistungspflicht unverzüglich zu unterrichten sind.
 übermittelt, haben die in Absatz 2 Satz 1 Nr. 1 bis 4 genannten
 Stellen die ihnen zuvor übermittelte Datei zu löschen.
 
-
 #### § 79 Vorführung und Zuführung
 
 (1) Bei Dienstleistungspflichtigen, die einer angeordneten ärztlichen
@@ -3024,20 +2877,14 @@ dessen Bezirk die Durchsuchung vorgenommen werden soll. Das Grundrecht
 der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) wird
 insoweit eingeschränkt.
 
-
 ### 6. - Verhältnis zur Wehrpflicht
-
-
 
 #### § 80 Konkurrenzregelung
 
 Für Wehrpflichtige nach § 1 des Wehrpflichtgesetzes geht im Spannungs-
 oder Verteidigungsfall das Wehrpflichtgesetz vor.
 
-
 ## Fünfter Abschnitt - Dienstliche Veranstaltungen
-
-
 
 ### § 81 Zuziehung zu dienstlichen Veranstaltungen
 
@@ -3052,14 +2899,9 @@ Bundesministerium der Verteidigung oder die von ihm bestimmte Stelle
 zugezogen werden. Während der Wehrdienstleistung stehen sie in einem
 Wehrdienstverhältnis.
 
-
 ## Sechster Abschnitt - Rechtsschutz
 
-
-
 ### 1. - Rechtsweg
-
-
 
 #### § 82 Zuständigkeiten
 
@@ -3076,10 +2918,7 @@ vertreten. Dieses kann die Vertretung durch allgemeine Anordnung
 anderen Stellen übertragen; die Anordnung ist im Bundesgesetzblatt zu
 veröffentlichen.
 
-
 ### 2. - Rechtsbehelfe und Rechtsmittel gegen Verwaltungsakte nach dem Vierten Abschnitt
-
-
 
 #### § 83 Besondere Vorschriften für das Vorverfahren
 
@@ -3099,7 +2938,6 @@ Heranziehungsbescheid, der Widerspruch gegen die Aufhebung eines
 Heranziehungsbescheides und der Widerspruch gegen den
 Untersuchungsbescheid haben keine aufschiebende Wirkung.
 
-
 #### § 84 Rechtsmittel gegen Entscheidungen des Verwaltungsgerichts
 
 Die Berufung gegen ein Urteil und die Beschwerde gegen eine andere
@@ -3111,7 +2949,6 @@ des Gerichtsverfassungsgesetzes. Auf die Beschwerde gegen Beschlüsse
 über den Rechtsweg findet § 17a Abs. 4 Satz 4 bis 6 des
 Gerichtsverfassungsgesetzes entsprechende Anwendung.
 
-
 #### § 85 Besondere Vorschriften für die Anfechtungsklage
 
 Die Anfechtungsklage gegen den Untersuchungsbescheid (§ 71 Satz 5 und
@@ -3121,10 +2958,7 @@ Aufhebung des Heranziehungsbescheides haben keine aufschiebende
 Wirkung. Das Gericht kann auf Antrag die aufschiebende Wirkung
 anordnen. Vor der Anordnung ist die Wehrbereichsverwaltung zu hören.
 
-
 ## Siebter Abschnitt - Bußgeldvorschriften; Übergangs- und Schlussvorschriften
-
-
 
 ### § 86 Bußgeldvorschriften
 
@@ -3159,7 +2993,6 @@ anordnen. Vor der Anordnung ist die Wehrbereichsverwaltung zu hören.
 (3) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes
 über Ordnungswidrigkeiten ist das Kreiswehrersatzamt.
 
-
 ### § 87 Einstellung von anderen Bewerbern
 
 (1) Ein Bewerber, der die für einen höheren Dienstgrad erforderliche
@@ -3179,7 +3012,6 @@ zum Soldaten auf Zeit ernannt werden.
 
 (3) (weggefallen)
 
-
 ### § 88 Entlassung von anderen Bewerbern
 
 Ein Bewerber nach § 87 Abs. 1, der in das Dienstverhältnis eines
@@ -3189,7 +3021,6 @@ Dienstverhältnis unwürdig erscheinen lässt, entlassen werden, nachdem
 ein Disziplinargericht den Sachverhalt festgestellt hat. Die
 Entlassung hat dieselben Folgen wie eine Entlassung nach § 46 Abs. 2
 Satz 1 Nr. 3.
-
 
 ### § 89 Mitteilungen in Strafsachen
 
@@ -3226,14 +3057,12 @@ erforderlich sind, dem Befehlshaber im Wehrbereich zugänglich gemacht
 werden; die übrigen Daten sind ihm zur Weiterleitung in einem
 verschlossenen Umschlag zu übermitteln.
 
-
 ### § 90 Organisationsgesetz
 
 Die Organisation der Verteidigung, insbesondere die Spitzengliederung
 der Bundeswehr und die endgültige Organisation des Bundesministeriums
 der Verteidigung, bleiben besonderer gesetzlicher Regelung
 vorbehalten.
-
 
 ### § 91 Personalvertretung der Beamten, Angestellten und Arbeiter
 
@@ -3253,7 +3082,6 @@ der Auflösung, Einschränkung, Verlegung oder Zusammenlegung von
 militärischen Dienststellen und Einrichtungen oder wesentlichen Teilen
 von ihnen keine Anwendung, soweit militärische Gründe entgegenstehen.
 
-
 ### § 92 Übergangsvorschrift für die Laufbahnen
 
 In der Rechtsverordnung nach § 27 Abs. 1 kann für die Dauer des
@@ -3262,7 +3090,6 @@ Eintritt des Spannungs- oder Verteidigungsfalles vorhandenen
 Berufssoldaten und Soldaten auf Zeit die Dienstzeit nach § 27 Abs. 2
 Nr. 1 Buchstabe b bis auf sechs Monate und die Dienstzeit nach Nr. 2
 Buchstabe b bis auf ein Jahr verkürzt wird.
-
 
 ### § 93 Zuständigkeit für den Erlass der Rechtsverordnungen
 
@@ -3331,14 +3158,12 @@ den Bundesministerien des Innern und der Finanzen die Rechtsverordnung
 (4) Die Rechtsverordnung nach Absatz 1 Nr. 9 bedarf der Zustimmung des
 Bundesrates.
 
-
 ### § 94 Übergangsvorschrift aus Anlass des Änderungsgesetzes vom 24. Februar 1983 (BGBl. I S. 179)
 
 Auf Berufssoldaten und Soldaten auf Zeit, die vor dem 2. März 1983 ein
 Studium oder eine Fachausbildung im Rahmen ihrer militärischen
 Ausbildung abgeschlossen haben, sind die bisherigen Vorschriften
 anzuwenden.
-
 
 ### § 95 Übergangsvorschrift aus Anlass des Änderungsgesetzes vom 6. Dezember 1990 (BGBl. I S. 2588)
 
@@ -3347,7 +3172,6 @@ auf Zeit und Berufssoldaten Anwendung, die Elternzeit nach
 Inkrafttreten des Vierzehnten Gesetzes zur Änderung des
 Soldatengesetzes vom 6. Dezember 1990 (BGBl. I S. 2588) beantragt
 haben.
-
 
 ### § 96 Übergangsvorschrift aus Anlass des Dienstrechtsneuordnungsgesetzes
 
@@ -4456,7 +4280,6 @@ folgt festgesetzt:
 (3) Die Altersgrenzen nach Absatz 2 gelten auch für die Berufssoldaten
 der Marine mit entsprechenden Dienstgraden.
 
-
 ### § 97 Übergangsvorschrift aus Anlass des Änderungsgesetzes vom 19. Dezember 2000 (BGBl. I S. 1815)
 
 (1) Auf Berufssoldaten und Soldaten auf Zeit, die vor Inkrafttreten
@@ -4469,7 +4292,6 @@ in der bisherigen Fassung anzuwenden.
 Soldatengesetzes und anderer Vorschriften vom 19. Dezember 2000 (BGBl.
 I S. 1815) vorhandenen Soldaten auf Zeit ist § 55 Abs. 4 in der
 bisherigen Fassung anzuwenden.
-
 
 ### § 98 Übergangsvorschrift aus Anlass des Wehrrechtsänderungsgesetzes 2011
 
@@ -4508,7 +4330,6 @@ Für Soldaten, deren Wehrdienstverhältnis nach dem Wehrpflichtgesetz
 vor dem 30. Juni 2011 begonnen hat und nach dem 29. Juni 2011 endet,
 beginnt sie im Anschluss an dieses Wehrdienstverhältnis, es sei denn,
 dass ausschließlich Grundwehrdienst geleistet wird.
-
 
 ### § 99 Übergangsvorschrift aus Anlass des Einsatzversorgungs-Verbesserungsgesetzes
 

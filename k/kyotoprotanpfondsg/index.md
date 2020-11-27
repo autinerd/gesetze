@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 2011, 145
 
-
 ## Art 1 Rechtsfähigkeit des Rates des Anpassungsfonds
 
 (1) Der Rat des Anpassungsfonds, das durch die
@@ -39,7 +38,6 @@ c)  vor Gericht zu stehen.
 (2) Für die Zwecke dieses Artikels wird der Rat des Anpassungsfonds
 durch seinen Vorsitzenden und dessen Stellvertreter vertreten.
 
-
 ## Art 2 Gelder, Guthaben und sonstige Vermögenswerte des Rates des Anpassungsfonds
 
 Artikel 9 des Abkommens vom 10. November 1995 zwischen der
@@ -60,7 +58,6 @@ Rahmenübereinkommens der Vereinten Nationen über Klimaänderungen über
 den Sitz des Sekretariats des Übereinkommens (BGBl. 2009 II S. 294,
 295) ausgesprochen wird.
 
-
 ## Art 3 Immunität der Mitglieder des Rates des Anpassungsfonds
 
 Artikel 5 des UNFCCC/KP-Sitzabkommens wird auf die Mitglieder des
@@ -68,7 +65,6 @@ Rates des Anpassungsfonds und ihre Vertreter entsprechend angewandt.
 Für die Aufhebung der Immunität eines Mitglieds oder Vertreters im
 Einzelfall ist der durch die betreffende Person vertretene Staat
 verantwortlich.
-
 
 ## Art 4 Inkrafttreten
 

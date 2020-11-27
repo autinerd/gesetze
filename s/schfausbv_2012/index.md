@@ -22,7 +22,6 @@ Fundstelle
     Berufsschule werden demnächst im amtlichen Teil des Bundesanzeigers
     veröffentlicht.
 
-
 ## Eingangsformel
 
 Auf Grund des § 25 Absatz 1 Satz 1 in Verbindung mit § 26 Absatz 1 und
@@ -33,7 +32,6 @@ Gesetzes vom 23. März 2005 (BGBl. I S. 931) neu gefasst worden ist,
 verordnet das Bundesministerium für Wirtschaft und Technologie im
 Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Schornsteinfeger und Schornsteinfegerin wird nach
@@ -41,11 +39,9 @@ Der Ausbildungsberuf Schornsteinfeger und Schornsteinfegerin wird nach
 „Schornsteinfeger“ der Anlage A der Handwerksordnung staatlich
 anerkannt.
 
-
 ## § 2 Dauer der Berufsausbildung
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Ausbildungsrahmenplan, Ausbildungsberufsbild
 
@@ -136,10 +132,6 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 9.  Durchführen von qualitätssichernden Maßnahmen.
 
-
-
-
-
 ## § 4 Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
@@ -159,7 +151,6 @@ zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
 Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
 Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
 durchzusehen.
-
 
 ## § 5 Zwischenprüfung
 
@@ -253,10 +244,6 @@ Vorgaben:
 
 
 3.  die Prüfungszeit beträgt 180 Minuten.
-
-
-
-
 
 ## § 6 Gesellenprüfung
 
@@ -446,10 +433,6 @@ folgende Vorgaben:
 
 3.  die Prüfungszeit beträgt 60 Minuten.
 
-
-
-
-
 ## § 7 Gewichtungs- und Bestehensregelung
 
 (1) Die einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
@@ -520,7 +503,6 @@ Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und
 das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2 :1
 zu gewichten.
 
-
 ## § 8 Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
@@ -528,13 +510,11 @@ bestehen, können unter Anrechung der bisher zurückgelegten
 Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt
 werden, wenn die Vertragsparteien dies vereinbaren.
 
-
 ## § 9 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2012 in Kraft. Gleichzeitig tritt
 die Verordnung über die Berufsausbildung zum Schornsteinfeger/zur
 Schornsteinfegerin vom 31. Januar 1997 (BGBl. I S. 179) außer Kraft.
-
 
 ## Anlage (zu § 3 Absatz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Schornsteinfeger und zur Schornsteinfegerin
 

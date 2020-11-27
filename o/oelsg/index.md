@@ -19,10 +19,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 65 V v. 31.10.2006 I 2407 u. Bek. v. 14.10.2008 I 2070
 
-
 ## Erster Teil - Haftung und Entschädigung für Ölverschmutzungsschäden
-
-
 
 ### § 1 Anwendbarkeit von internationalen Übereinkommen
 
@@ -47,7 +44,6 @@ Bunkeröl-Übereinkommens sind, soweit in diesem Gesetz nichts anderes
 bestimmt ist, auch in bezug auf Seeschiffe anzuwenden, die nicht im
 Schiffsregister eines Vertragsstaats eingetragen sind oder die nicht
 die Flagge eines Vertragsstaats führen dürfen.
-
 
 ### § 2 Versicherungspflicht des Eigentümers und Nachweis der Versicherungspflicht
 
@@ -112,10 +108,6 @@ Rechtsverordnung nähere Bestimmungen über
     Einzelfall 25 Euro nicht unterschreiten und 2.000 Euro nicht
     überschreiten.
 
-
-
-
-
 ### § 3 Pflicht zur Mitführung der Versicherungsbescheinigung
 
 (1) Der Eigentümer eines Seeschiffs ist verpflichtet, auf Fahrten, bei
@@ -152,7 +144,6 @@ einzuziehen, wenn das Schiff betrieben wird, ohne dass
 
 besteht.
 
-
 ### § 4 Behördliche Zuständigkeiten
 
 (1) § 2 Abs. 4 und § 3 werden durch die Bundesverwaltung ausgeführt.
@@ -172,7 +163,6 @@ Juli 2002 (BGBl. I S. 2876), das zuletzt durch das Gesetz vom 24. März
 Fassung ist entsprechend anzuwenden.
 
 (3) (weggefallen)
-
 
 ### § 5 Mitteilung der erhaltenen Ölmengen
 
@@ -224,7 +214,6 @@ Einvernehmen mit dem Bundesministerium der Justiz durch
 Rechtsverordnung nähere Bestimmungen über die in Absatz 2 vorgesehenen
 Angaben, ihre Form und die zu wahrenden Fristen.
 
-
 ### § 6 Gerichtliche Zuständigkeiten
 
 (1) Für Streitigkeiten wegen der Ansprüche
@@ -269,7 +258,6 @@ Schutzmaßnahmen im Sinne von Artikel I Nr. 7 des
 Haftungsübereinkommens von 1992 oder Artikel 1 Nr. 9 des Bunkeröl-
 Übereinkommens ergriffen oder angeordnet worden sind.
 
-
 ### § 6a Anerkennung und Vollstreckung
 
 Die in einem Mitgliedstaat der Europäischen Union ergangenen
@@ -278,7 +266,6 @@ Entscheidungen über Schadenersatzklagen auf Grund des Bunkeröl-
 und vollstreckt; Artikel 10 des Bunkeröl-Übereinkommens ist insoweit
 nicht anzuwenden. Satz 1 gilt nicht für Entscheidungen eines Gerichts
 in Dänemark.
-
 
 ### § 7 Strafvorschrift
 
@@ -297,7 +284,6 @@ Geldstrafe bestraft.
 
 (3) Handelt der Täter in den Fällen des Absatzes 1 fahrlässig, so ist
 die Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
-
 
 ### § 8 Bußgeldvorschrift
 
@@ -331,39 +317,29 @@ Absatzes 2 mit einer Geldbuße bis zu fünfundzwanzigtausend, in den
 Fällen des Absatzes 1 Nr. 2 bis 4 mit einer Geldbuße bis zu
 fünftausend Euro geahndet werden.
 
-
 ## Zweiter Teil - Änderung des Handelsgesetzbuchs und der Seerechtlichen Verteilungsordnung
-
-
 
 ### § 9
 
 -
 
-
 ### § 10
 
 -
 
-
 ## Dritter Teil - Übergangs- und Schlußbestimmungen
-
-
 
 ### § 11
 
 (weggefallen)
 
-
 ### § 12
 
 (weggefallen)
 
-
 ### § 13
 
 (weggefallen)
-
 
 ### § 14
 

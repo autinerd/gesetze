@@ -41,10 +41,6 @@ Diese Verordnung dient der Umsetzung
     des Artikels 16 Absatz 1 der Richtlinie 89/391/EWG) (ABl. EG Nr. L 245
     S. 6).
 
-
-
-
-
 ## § 1 Ziel, Anwendungsbereich
 
 (1) Diese Verordnung dient der Sicherheit und dem Gesundheitsschutz
@@ -81,7 +77,6 @@ Wiederherstellung der öffentlichen Sicherheit. In diesem Fall ist
 gleichzeitig festzulegen, wie die Sicherheit und der Gesundheitsschutz
 der Beschäftigten nach dieser Verordnung auf andere Weise
 gewährleistet werden.
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -155,7 +150,6 @@ Arbeitsstätte. Das Einrichten umfasst insbesondere:
 (6) Betreiben von Arbeitsstätten umfasst das Benutzen und
 Instandhalten der Arbeitsstätte.
 
-
 ## § 3 Gefährdungsbeurteilung
 
 (1) Bei der Beurteilung der Arbeitsbedingungen nach § 5 des
@@ -180,7 +174,6 @@ Zahl der Beschäftigten vor Aufnahme der Tätigkeiten zu dokumentieren.
 In der Dokumentation ist anzugeben, welche Gefährdungen am
 Arbeitsplatz auftreten können und welche Maßnahmen nach Absatz 1 Satz
 3 durchgeführt werden müssen.
-
 
 ## § 3a Einrichten und Betreiben von Arbeitsstätten
 
@@ -224,7 +217,6 @@ zu berücksichtigen.
 Bauordnungsrecht der Länder, Anforderungen gestellt werden, bleiben
 diese Vorschriften unberührt.
 
-
 ## § 4 Besondere Anforderungen an das Betreiben von Arbeitsstätten
 
 (1) Der Arbeitgeber hat die Arbeitsstätte instand zu halten und dafür
@@ -258,7 +250,6 @@ Zeitabständen ist entsprechend dieses Planes zu üben.
 Verfügung zu stellen und diese regelmäßig auf ihre Vollständigkeit und
 Verwendungsfähigkeit prüfen zu lassen.
 
-
 ## § 5 Nichtraucherschutz
 
 (1) Der Arbeitgeber hat die erforderlichen Maßnahmen zu treffen, damit
@@ -270,7 +261,6 @@ Bereiche der Arbeitsstätte beschränktes Rauchverbot zu erlassen.
 (2) In Arbeitsstätten mit Publikumsverkehr hat der Arbeitgeber
 Schutzmaßnahmen nach Absatz 1 nur insoweit zu treffen, als die Natur
 des Betriebes und die Art der Beschäftigung es zulassen.
-
 
 ## § 6 Arbeitsräume, Sanitärräume, Pausen- und Bereitschaftsräume, Erste-Hilfe-Räume, Unterkünfte
 
@@ -316,7 +306,6 @@ ein anderweitiger Ausgleich vom Arbeitgeber nicht geschaffen ist.
 (6) Für Sanitärräume, Pausen- und Bereitschaftsräume, Erste-Hilfe-
 Räume und Unterkünfte nach den Absätzen 2 bis 5 gilt Absatz 1
 entsprechend.
-
 
 ## § 7 Ausschuss für Arbeitsstätten
 
@@ -372,7 +361,6 @@ erteilen.
 (6) Die Geschäfte des Ausschusses führt die Bundesanstalt für
 Arbeitsschutz und Arbeitsmedizin.
 
-
 ## § 8 Übergangsvorschriften
 
 (1) Soweit für Arbeitsstätten,
@@ -405,7 +393,6 @@ Arbeitsstättenrichtlinien gelten bis zur Überarbeitung durch den
 Ausschuss für Arbeitsstätten und der Bekanntmachung entsprechender
 Regeln durch das Bundesministerium für Arbeit und Soziales, längstens
 jedoch bis zum 31. Dezember 2012, fort.
-
 
 ## § 9 Straftaten und Ordnungswidrigkeiten
 
@@ -451,7 +438,6 @@ Arbeitsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 (2) Wer durch eine in Absatz 1 bezeichnete vorsätzliche Handlung das
 Leben oder die Gesundheit von Beschäftigten gefährdet, ist nach § 26
 Nummer 2 des Arbeitsschutzgesetzes strafbar.
-
 
 ## Anhang Anforderungen an Arbeitsstätten nach § 3 Abs. 1 Inhaltsübersicht
 

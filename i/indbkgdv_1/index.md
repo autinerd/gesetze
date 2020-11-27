@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 287 Nr. 54 G v. 2.3.1974 I 469
 
-
 ## Eingangsformel
 
 Auf Grund des § 21 des Gesetzes über die Abwicklung der
@@ -28,11 +27,9 @@ Industrieobligationen (Industriebankgesetz) vom 31. März 1931
 (Reichsgesetzbl. I S. 124) verordnet die Reichsregierung mit
 Zustimmung des Reichsrats:
 
-
 ## § 1
 
 -
-
 
 ## § 2
 
@@ -40,7 +37,6 @@ Die
 Bank für deutsche Industrieobligationen              ist im Verkehr
 mit den Grundbuchämtern und Registerbehörden von allen Gebühren,
 Stempelabgaben und sonstigen Kosten befreit.
-
 
 ## § 3
 
@@ -51,7 +47,6 @@ Industriebelastungsgesetzes vom 30. August 1924 (Reichsgesetzbl. II S.
 (2) Löschungen, die sich auf die öffentliche Last beziehen, sowie die
 dazu erforderlichen gerichtlichen Beurkundungen und Beglaubigungen
 sind von Gebühren und sonstigen Kosten befreit.
-
 
 ## § 4
 
@@ -65,11 +60,9 @@ zur Geheimhaltung dieser Verhältnisse verpflichtet; er darf Geschäfts-
 oder Betriebsgeheimnisse, die er dabei erfahren hat, nicht unbefugt
 verwerten.
 
-
 ## § 5
 
 -
-
 
 ## § 6
 

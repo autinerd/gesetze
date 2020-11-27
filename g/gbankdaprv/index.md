@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 2 V v. 28.8.2012 I 1858
 
-
 ## Eingangsformel
 
 Auf Grund des § 31 Absatz 6 des Gesetzes über die Deutsche Bundesbank,
@@ -31,16 +30,13 @@ vom 9. April 2009 (BGBl. I S. 813) verordnet der Vorstand der
 Deutschen Bundesbank im Einvernehmen mit dem Bundesministerium des
 Innern:
 
-
 ## Abschnitt 1 - Allgemeines
-
 
 ### § 1 Bachelorstudium
 
 Der Studiengang „Zentralbankwesen/Central Banking“ an der
 Fachhochschule der Deutschen Bundesbank (Hochschule) ist der
 Vorbereitungsdienst für die Laufbahn des gehobenen Bankdienstes.
-
 
 ### § 2 Ziele des Studiums
 
@@ -54,7 +50,6 @@ die Fähigkeit zur Zusammenarbeit im europäischen und internationalen
 Raum. Die Studierenden sollen ihre Kompetenzen weiterentwickeln, um
 den Herausforderungen im Europäischen System der Zentralbanken gerecht
 zu werden.
-
 
 ### § 3 Auswahlverfahren
 
@@ -101,14 +96,11 @@ Bundesbank oder eine von ihr oder ihm bestimmte Stelle stellt sicher,
 dass in den Auswahlverfahren die gleichen Bewertungs- und
 Auswahlmaßstäbe angelegt werden.
 
-
 ### § 4 Urlaub
 
 Die Hochschule bestimmt die Zeiten des Erholungsurlaubs.
 
-
 ## Abschnitt 2 - Studienorganisation
-
 
 ### § 5 Dauer und Gliederung des Studiums, Studienplan
 
@@ -157,12 +149,10 @@ System zur Übertragung und Akkumulierung von Studienleistungen (ECTS).
 Module sowie die Verteilung der Leistungspunkte auf die Module, regelt
 der Studienplan.
 
-
 ### § 6 Fachstudien
 
 Die Fachstudien liegen in der Verantwortung der Hochschule und werden
 von haupt- und nebenamtlichen Lehrkräften durchgeführt.
-
 
 ### § 7 Praxisstudien
 
@@ -199,16 +189,13 @@ Ausbildenden werden von anderen Dienstgeschäften entlastet, soweit
 dies erforderlich ist. Sie informieren die Ausbildungsverantwortlichen
 regelmäßig über den Stand der Ausbildung.
 
-
 ## Abschnitt 3 - Prüfungen
-
 
 ### § 8 Laufbahnprüfung
 
 Die Bachelorprüfung ist die Laufbahnprüfung für den gehobenen
 Bankdienst. Sie besteht aus den Modulprüfungen, der Bachelorarbeit und
 einer mündlichen Abschlussprüfung.
-
 
 ### § 9 Prüfungsamt
 
@@ -258,10 +245,6 @@ erlischt beim Ausscheiden aus dem Hauptamt.
     der Deutschen Bundesbank vom 6. Dezember 2002 in der jeweils geltenden
     Fassung ist zu berücksichtigen.
 
-
-
-
-
 ### § 10 Prüfende, Prüfungskommissionen
 
 (1) Das Prüfungsamt bestellt Prüfende für die Durchführung und
@@ -303,7 +286,6 @@ oder Vorsitzendem und zwei weiteren Mitgliedern. Ein Mitglied der
 Prüfungskommission muss haupt- oder nebenamtliche Lehrkraft der
 Hochschule sein, ein weiteres Mitglied soll Ausbildungsverantwortliche
 oder Ausbildungsverantwortlicher sein.
-
 
 ### § 11 Modulprüfungen
 
@@ -368,7 +350,6 @@ unterschreiben.
 ihnen zu besprechen. Die Modulprüfungen sollen spätestens eine Woche
 vor der mündlichen Abschlussprüfung abgeschlossen sein.
 
-
 ### § 12 Bachelorarbeit
 
 (1) Durch die Bachelorarbeit sollen die Studierenden nachweisen, dass
@@ -400,7 +381,6 @@ der Abgabe müssen die Studierenden schriftlich versichern, dass sie
 die Bachelorarbeit selbständig und ohne fremde Mitwirkung verfasst und
 nur die angegebenen Quellen und Hilfsmittel benutzt haben. Das
 Bewertungsverfahren soll insgesamt höchstens zwölf Wochen dauern.
-
 
 ### § 13 Mündliche Abschlussprüfung
 
@@ -444,7 +424,6 @@ entscheidet das Prüfungsamt.
 
 (7) Die Prüfung muss bis zum Ende des Studiums abgeschlossen sein. §
 11 Absatz 5 gilt entsprechend.
-
 
 ### § 14 Bewertung der Prüfungen
 
@@ -610,7 +589,6 @@ Nachkommastellen ohne Auf- oder Abrundung zu berechnen. Die Prüfung
 ist bestanden, wenn sie mit einer Rangpunktzahl von mindestens 5,00
 bewertet worden ist.
 
-
 ### § 15 Fernbleiben, Rücktritt
 
 (1) Bei Fernbleiben oder Rücktritt von einer Prüfung ohne Genehmigung
@@ -626,7 +604,6 @@ vorzulegen, die oder der von der Dienstbehörde beauftragt worden ist.
 
 (3) Das Prüfungsamt bestimmt, zu welchem Zeitpunkt die Prüfung
 nachgeholt wird.
-
 
 ### § 16 Täuschung, Ordnungsverstoß
 
@@ -660,7 +637,6 @@ mündlichen Abschlussprüfung für nicht bestanden erklären.
 (5) Die Betroffenen sind vor Entscheidungen nach den Absätzen 2 bis 4
 anzuhören.
 
-
 ### § 17 Wiederholung von Prüfungen
 
 (1) Eine nicht bestandene Modulprüfung kann innerhalb eines Monats
@@ -689,7 +665,6 @@ einer Rangpunktzahl von weniger als 5,00 bewertete Teil einmal
 wiederholt werden. Absatz 1 Satz 3 gilt entsprechend.
 
 (4) Eine bestandene Prüfung kann nicht wiederholt werden.
-
 
 ### § 18 Bestehen der Laufbahnprüfung
 
@@ -751,7 +726,6 @@ berechnen.
 wird bei Nachkommawerten ab 50 aufgerundet, bei kleineren
 Nachkommawerten abgerundet.
 
-
 ### § 19 Abschlusszeugnis, Diploma Supplement
 
 (1) Wer die Laufbahnprüfung bestanden hat, erhält ein Abschlusszeugnis
@@ -795,7 +769,6 @@ Prüfungsamt einen Bescheid über die nicht bestandene Laufbahnprüfung
 sowie eine Bescheinigung über die erbrachten Studienleistungen, aus
 der hervorgeht, welche Module absolviert worden sind.
 
-
 ### § 20 Prüfungsakten, Einsichtnahme
 
 (1) Die schriftlichen Prüfungsleistungen sowie die Protokolle der
@@ -810,9 +783,7 @@ die nicht bestandene Laufbahnprüfung können die Studierenden auf
 Antrag Einsicht in ihre Prüfungsakten nehmen. Die Einsichtnahme ist in
 der Akte zu vermerken.
 
-
 ## Abschnitt 4 - Anerkennung anderer Studienleistungen
-
 
 ### § 21 Anerkennung von Studien- und Prüfungsleistungen
 
@@ -874,9 +845,7 @@ Prüfungsleistung im relativen Verhältnis der Notenskalen den
 Rangpunktzahlen nach § 14 zugeordnet und im Abschlusszeugnis
 gekennzeichnet.
 
-
 ## Abschnitt 5 - Schlussvorschriften
-
 
 ### § 22 Übergangsregelung
 
@@ -885,7 +854,6 @@ begonnen haben, ist die Laufbahn-, Ausbildungs- und Prüfungsordnung
 für die Laufbahn des gehobenen Bankdienstes bei der Deutschen
 Bundesbank in der Fassung der Bekanntmachung vom 9. Juli 2001 (BAnz.
 S. 16292) weiter anzuwenden.
-
 
 ### § 23 Inkrafttreten, Außerkrafttreten
 

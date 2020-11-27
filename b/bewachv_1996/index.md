@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 5 G v. 6.12.2011 I 2515
 
-
 ## Abschnitt 1 - Unterrichtungsverfahren
-
-
 
 ### § 1 Zweck, Betroffene
 
@@ -52,16 +49,11 @@ ermöglicht.
     Bewachungsaufgaben nach § 34a Abs. 1 Satz 4 der Gewerbeordnung
     beschäftigt werden sollen.
 
-
-
-
-
 ### § 2 Zuständige Stelle
 
 Die Unterrichtung erfolgt durch die Industrie- und Handelskammern. Sie
 können Vereinbarungen zur gemeinsamen Erledigung ihrer Aufgabe nach
 Satz 1 schließen.
-
 
 ### § 3 Verfahren
 
@@ -86,7 +78,6 @@ Verständnisfragen, davon überzeugt hat, dass die Person mit den für
 die Ausübung des Gewerbes notwendigen rechtlichen Vorschriften und
 fachspezifischen Pflichten und Befugnissen sowie deren praktischer
 Anwendung nach Maßgabe von § 4 vertraut ist.
-
 
 ### § 4 Anforderungen
 
@@ -118,7 +109,6 @@ Sachgebiete:
 Bei der Unterrichtung von Personen im Sinne des § 1 Abs. 2 Nr. 1 bis 3
 sind die Sachgebiete der Anlage 2 und bei denjenigen der Nummer 4 die
 Sachgebiete der Anlage 3 zugrunde zu legen.
-
 
 ### § 5 Anerkennung anderer Nachweise
 
@@ -152,10 +142,7 @@ worden sind und Tätigkeiten nach § 1 Abs. 2 Nr. 1 bis 3 ausüben
 wollen, bedürfen keiner weiteren Unterrichtung, wenn sie seitdem eine
 mindestens dreijährige ununterbrochene Bewachungstätigkeit nachweisen.
 
-
 ## Abschnitt 1a - Sachkundeprüfung
-
-
 
 ### § 5a Zweck, Betroffene
 
@@ -173,7 +160,6 @@ Sachgebiete; die Prüfung soll sich auf jedes der dort aufgeführten
 Gebiete erstrecken, wobei in der mündlichen Prüfung ein Schwerpunkt
 auf die in § 4 Nr. 1 und 5 genannten Gebiete zu legen ist.
 
-
 ### § 5b Zuständige Stelle und Prüfungsausschuss
 
 (1) Die Abnahme der Sachkundeprüfung erfolgt durch Industrie- und
@@ -187,7 +173,6 @@ Mitwirkung im Prüfungswesen geeignet sein.
 
 (3) Mehrere Industrie- und Handelskammern können einen gemeinsamen
 Prüfungsausschuss errichten.
-
 
 ### § 5c Verfahren
 
@@ -215,19 +200,14 @@ abgelegt hat.
 (7) Einzelheiten des Prüfungsverfahrens erlässt die Kammer in
 Satzungsform.
 
-
 ### § 5d Anerkennung anderer Nachweise
 
 Inhaber der in § 5 Abs. 1 Nr. 1 bis 3 angeführten Prüfungszeugnisse
 bedürfen nicht der Prüfung nach § 5a.
 
-
 ## Abschnitt 1b - Anerkennung von ausländischen Befähigungsnachweisen
 
-
-
 ### § 5e (weggefallen)
-
 
 ### § 5f Gebrauch der Dienstleistungsfreiheit
 
@@ -243,10 +223,7 @@ oder Sicherheit der Dienstleistungsempfänger bestünde. Im Fall des §
 Anzeige erstattende Person über ihr Wahlrecht nach § 13c Absatz 3 der
 Gewerbeordnung.
 
-
 ## Abschnitt 2 - Haftpflichtversicherung, Haftungsbeschränkung
-
-
 
 ### § 6 Haftpflichtversicherung
 
@@ -288,7 +265,6 @@ Gewerbeordnung bestimmte Behörde.
 Landfahrzeuge oder Landfahrzeuge einschließlich mitgeführter
 Gegenstände bewacht werden sollen.
 
-
 ### § 7 Haftungsbeschränkung
 
 Der Gewerbetreibende darf die Haftung aus der Bewachungstätigkeit nur
@@ -297,10 +273,7 @@ beschränken, soweit dies auf Grund anderer Rechtsvorschriften zulässig
 ist. Für die Geltendmachung von Ansprüchen können Ausschlussfristen
 vereinbart werden.
 
-
 ## Abschnitt 3 - Verpflichtungen bei der Ausübung des Gewerbes
-
-
 
 ### § 8 Datenschutz, Wahrung von Geschäftsgeheimnissen
 
@@ -325,7 +298,6 @@ beschäftigten Personen schriftlich zu verpflichten, auch nach ihrem
 Ausscheiden Geschäfts- und Betriebsgeheimnisse Dritter, die ihnen in
 Ausübung des Dienstes bekannt geworden sind, nicht unbefugt zu
 offenbaren.
-
 
 ### § 9 Beschäftigte
 
@@ -396,7 +368,6 @@ Wachpersonen unter Angabe des Beschäftigungsbeginns bis zum 31. März
 des darauf folgenden Jahres zu melden. Die Sätze 1 und 2 gelten
 entsprechend für die in § 1 Abs. 2 Nr. 2 und 3 genannten Personen.
 
-
 ### § 10 Dienstanweisung
 
 (1) Der Gewerbetreibende hat den Wachdienst durch eine Dienstanweisung
@@ -414,7 +385,6 @@ Gewerbetreibenden anzuzeigen hat.
 Dienstanweisung sowie der Unfallverhütungsvorschrift Wach- und
 Sicherungsdienste (BGV C 7) einschließlich der dazu ergangenen
 Durchführungsanweisungen gegen Empfangsbescheinigung auszuhändigen.
-
 
 ### § 11 Ausweis
 
@@ -450,7 +420,6 @@ der Gewerbeordnung ausüben, haben sichtbar ein Schild mit ihrem Namen
 oder einer Kennnummer sowie mit dem Namen des Gewerbetreibenden zu
 tragen.
 
-
 ### § 12 Dienstkleidung
 
 Bestimmt der Gewerbetreibende für seine Wachpersonen eine
@@ -460,7 +429,6 @@ Vollzugsorganen verwechselt werden kann und dass keine Abzeichen
 verwendet werden, die Amtsabzeichen zum Verwechseln ähnlich sind.
 Wachpersonen, die eingefriedetes Besitztum in Ausübung ihres Dienstes
 betreten sollen, müssen eine Dienstkleidung tragen.
-
 
 ### § 13 Behandlung der Waffen und Anzeigepflicht nach Waffengebrauch
 
@@ -474,7 +442,6 @@ Wachdienst von Waffen Gebrauch gemacht, so hat der Gewerbetreibende
 dies unverzüglich der zuständigen Behörde und, falls noch keine
 Anzeige nach § 10 Abs. 1 Satz 3 erfolgt ist, der zuständigen
 Polizeidienststelle anzuzeigen.
-
 
 ### § 14 Buchführung und Aufbewahrung
 
@@ -564,7 +531,6 @@ machen, besteht nicht, soweit Landfahrzeuge bewacht werden.
 und zur Aufbewahrung von Büchern, Aufzeichnungen, Unterlagen und
 Belegen bleibt unberührt.
 
-
 ### § 15 Unterrichtung der Gewerbeämter
 
 In Strafsachen gegen die in § 1 Abs. 2 aufgeführten Personen sind,
@@ -584,13 +550,7 @@ Bewachungsunternehmens zuständige Behörde zu richten:
 
 4.  die das Verfahren abschließende Entscheidung mit Begründung.
 
-
-
-
-
 ## Abschnitt 4 - Ordnungswidrigkeiten
-
-
 
 ### § 16 Ordnungswidrigkeiten
 
@@ -653,10 +613,7 @@ handelt, wer vorsätzlich oder fahrlässig eine in Absatz 1 bezeichnete
 Handlung in Ausübung eines Messe-, Ausstellungs- oder Marktgewerbes
 begeht.
 
-
 ## Abschnitt 5 - Schlussvorschriften
-
-
 
 ### § 17 Übergangsvorschrift
 
@@ -679,11 +636,9 @@ erbringen. Der Gewerbetreibende bescheinigt Personen im Sinne des § 1
 Abs. 2 Nr. 2 bis 4, dass sie die Voraussetzungen des Satzes 1
 erfüllen.
 
-
 ### § 18 (Inkrafttreten, Außerkrafttreten)
 
 -
-
 
 ### Anlage 1 (zu § 3 Abs. 2) Bescheinigung über die Unterrichtung nach § 34a Abs. 1 Satz 3 Nr. 3, Satz 4 Gewerbeordnung
 
@@ -724,7 +679,6 @@ und Deeskalationstechniken in Konfliktsituationen,
 (Unterschrift)
 ------------
 \*) Nichtzutreffendes streichen.
-
 
 ### Anlage 2 (zu § 4) Sachgebiete für das Unterrichtungsverfahren im Bewachungsgewerbe Bewachungsgewerbetreibende (80 Unterrichtsstunden)
 
@@ -834,10 +788,6 @@ Fundstelle des Originaltextes: BGBl. I 2003, 1385
 
     insgesamt etwa 10 Unterrichtsstunden
 
-
-
-
-
 ### Anlage 3 (zu § 4) Sachgebiete für das Unterrichtungsverfahren im Bewachungsgewerbe Bewachungspersonal (40 Unterrichtsstunden)
 
 Fundstelle des Originaltextes: BGBl. I 2003, 1386
@@ -937,10 +887,6 @@ Fundstelle des Originaltextes: BGBl. I 2003, 1386
 
 
     insgesamt etwa 5 Unterrichtsstunden
-
-
-
-
 
 ### Anlage 4 (zu § 5c Abs. 6) Bescheinigung über die erfolgreiche Ablegung einer Sachkundeprüfung nach § 34a Abs. 1 Satz 5 der Gewerbeordnung
 

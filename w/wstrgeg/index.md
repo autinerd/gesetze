@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 6 G v. 13.4.1986 I 393
 
-
 ## (XXXX) Art 1 bis 3
-
-
 
 ## Art 4 Vormilitärische Straftaten
 
@@ -47,10 +44,6 @@ besonderen Vorschriften:
     Vorgesetzten des Verurteilten zu sorgen haben. Maßnahmen des
     Disziplinarvorgesetzten haben den Vorrang.
 
-
-
-
-
 ## Art 5 Vollzug von Freiheitsstrafen und Jugendarrest an Soldaten der Bundeswehr
 
 (1) Strafarrest wird an Soldaten der Bundeswehr von deren Behörden
@@ -60,7 +53,6 @@ vollzogen.
 von nicht mehr als sechs Monaten sowie Jugendarrest an Soldaten der
 Bundeswehr von deren Behörden vollzogen; sie sind dann wie Strafarrest
 zu vollziehen.
-
 
 ## Art 6 Unterbrechung der Strafvollstreckung im Krankheitsfall
 
@@ -83,7 +75,6 @@ Gründe entgegenstehen und
 
 § 458 Abs. 2, Abs. 3 Satz 1 der Strafprozeßordnung ist anzuwenden.
 
-
 ## Art 7 Ausführungsvorschriften für den Vollzug
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
@@ -99,7 +90,6 @@ beziehen.
 Unversehrtheit und der Freiheit der Person (Artikel 2 Abs. 2 Satz 1
 und 2 des Grundgesetzes) sowie das Grundrecht des Postgeheimnisses
 (Artikel 10 Abs. 1 des Grundgesetzes) eingeschränkt werden.
-
 
 ## Art 8 Inkrafttreten
 

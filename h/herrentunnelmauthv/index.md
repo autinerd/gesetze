@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 2108
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 3a Abs. 2 Satz 1 in Verbindung mit § 3 Abs. 2 bis 5
@@ -25,7 +23,6 @@ Bekanntmachung vom 20. Januar 2003 (BGBl. I S. 98) verordnet das
 Bundesministerium für Verkehr, Bau- und Wohnungswesen nach Anhörung
 des Ministeriums für Wissenschaft, Wirtschaft und Verkehr des Landes
 Schleswig-Holstein:
-
 
 ## § 1 Mauthöhe
 
@@ -42,7 +39,6 @@ durch die Landesverordnung vom 27. Juni 2005 (GVOBl. Schl-H. S. 265)
 geändert worden ist, beliehen worden ist, eine Maut nach dem
 Mautverzeichnis in der Anlage erhoben.
 
-
 ## § 2 Beginn der Mauterhebung
 
 Die Mauterhebung beginnt mit dem Tag der Freigabe der in § 1 genannten
@@ -50,11 +46,9 @@ Strecke für den öffentlichen Verkehr. Der in Satz 1 genannte Tag wird
 vom Bundesministerium für Verkehr, Bau- und Wohnungswesen im
 Bundesanzeiger bekannt gegeben.
 
-
 ## § 3 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Anlage (zu § 1) Mautverzeichnis
 

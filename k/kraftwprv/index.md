@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 328
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August
@@ -29,7 +27,6 @@ Oktober 1998 (BGBl. I S. 3288) verordnet das Bundesministerium für
 Bildung und Forschung nach Anhörung des Ständigen Ausschusses des
 Bundesinstituts für Berufsbildung im Einvernehmen mit dem
 Bundesministerium für Wirtschaft und Technologie:
-
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
 
@@ -79,7 +76,6 @@ wahrnehmen zu können:
 (4) Die erfolgreich abgelegte Prüfung führt zum anerkannten Abschluss
 Geprüfter Kraftwerker/Geprüfte Kraftwerkerin.
 
-
 ## § 2 Gliederung der Prüfung
 
 (1) Die Prüfung zum Kraftwerker gliedert sich in die Prüfungsteile:
@@ -101,7 +97,6 @@ sich auf das Kraftwerk beziehen, in dem der Prüfungsteilnehmer seine
 berufspraktischen Zeiten gemäß § 3 Abs. 3 abgeleistet hat. Sie kann in
 der realen Anlage, an Schemata, Modellen oder am Kraftwerkssimulator
 durchgeführt werden.
-
 
 ## § 3 Zulassungsvoraussetzungen
 
@@ -249,7 +244,6 @@ Kraftwerkssimulator angefertigt werden.
 zugelassen werden, wer durch Vorlage von Zeugnissen oder auf andere
 Weise glaubhaft macht, dass er Kenntnisse, Fertigkeiten und
 Erfahrungen erworben hat, die die Zulassung zur Prüfung rechtfertigen.
-
 
 ## § 4 Kraftwerkstechnologie
 
@@ -466,7 +460,6 @@ ergänzt werden, wenn sie für das Bestehen der Prüfung von wesentlicher
 Bedeutung ist. Die Ergänzungsprüfung soll je Prüfungsbereich nicht
 länger als 15 Minuten dauern.
 
-
 ## § 5 Kraftwerksbetrieb
 
 (1) Im Prüfungsteil "Kraftwerksbetrieb" ist in Form eines
@@ -527,7 +520,6 @@ Prüfungsteilnehmer
 (3) Das Fachgespräch soll mindestens 60 Minuten und höchstens 90
 Minuten dauern.
 
-
 ## § 6 Anrechnung anderer Prüfungsleistungen
 
 Von der Prüfung im Prüfungsteil "Kraftwerkstechnologie" sowie in
@@ -540,7 +532,6 @@ Antragstellung bestanden hat, die den Anforderungen dieses
 Prüfungsteils oder einzelner Prüfungsbereiche entspricht. Eine
 Freistellung von der Prüfung im Prüfungsteil "Kraftwerksbetrieb" ist
 nicht zulässig.
-
 
 ## § 7 Bestehen der Prüfung
 
@@ -565,7 +556,6 @@ und ein Zeugnis gemäß der Anlage 2 auszustellen. Im Fall der
 Freistellung gemäß § 6 sind Ort und Datum der anderweitig abgelegten
 Prüfung und die Bezeichnung des Prüfungsgremiums anzugeben.
 
-
 ## § 8 Wiederholung der Prüfung
 
 (1) Prüfungsteile, die nicht bestanden sind, können zweimal wiederholt
@@ -581,7 +571,6 @@ Prüfungsteilnehmer kann beantragen, auch bestandene Prüfungsleistungen
 zu wiederholen. In diesem Fall ist das letzte Ergebnis für das
 Bestehen zu berücksichtigen.
 
-
 ## § 9 Übergangsvorschriften
 
 (1) Begonnene Prüfungsverfahren können einschließlich einer
@@ -591,11 +580,9 @@ werden.
 (2) Nach Inkrafttreten dieser Verordnung können Prüfungen nach den
 bisherigen Vorschriften noch bis zum 9. März 2002 beantragt werden.
 
-
 ## § 10 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Anlage 1 (zu § 7 Abs. 4)
 
@@ -623,7 +610,6 @@ bestanden.
 Datum ........................................
 Unterschrift .................................
 (Siegel der zuständigen Stelle)
-
 
 ## Anlage 2 (zu § 7 Abs. 4)
 

@@ -18,12 +18,10 @@ Fundstelle
 Zuletzt geändert durch
 :   § 22 Abs. 2 G v. 26.2.2008 I 220
 
-
 ## § 1 Geltungsbereich
 
 Dieses Gesetz regelt die Voraussetzungen und die Bedingungen für die
 Teilnahme am Amateurfunkdienst.
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -52,10 +50,6 @@ Im Sinne dieses Gesetzes ist
     Zusatzeinrichtungen besteht und die auf mindestens einer der im
     Frequenznutzungsplan für den Amateurfunkdienst ausgewiesenen
     Frequenzen betrieben werden kann.
-
-
-
-
 
 ## § 3 Voraussetzungen zur Teilnahme am Amateurfunkdienst, Rufzeichen, Frequenzzuteilung
 
@@ -106,7 +100,6 @@ ausgewiesenen Frequenzen gelten einem Funkamateur mit Wohnsitz in
 Deutschland als zugeteilt, wenn ihm ein oder mehrere Rufzeichen
 zugeteilt worden sind.
 
-
 ## § 4 Fachliche Prüfung, Anerkennung von Amateurfunkzeugnissen fremder Verwaltungen
 
 (1) Das Bundesministerium für Wirtschaft und Technologie wird
@@ -130,7 +123,6 @@ bestandene fachliche Prüfung nach Absatz 1 wird ein Amateurfunkzeugnis
 Januar 1995 (Amtsblatt S. 18) erfüllen und keinen ständigen Wohnsitz
 in Deutschland haben, dürfen bis zu drei Monaten eine
 Amateurfunkstelle in Deutschland betreiben.
-
 
 ## § 5 Rechte und Pflichten des Funkamateurs
 
@@ -164,7 +156,6 @@ betrieben werden.
 Funkverkehr abwickeln. Der Funkamateur darf Nachrichten, die nicht den
 Amateurfunkdienst betreffen, für und an Dritte nicht übermitteln. Satz
 2 gilt nicht in Not- und Katastrophenfällen.
-
 
 ## § 6 Technische und betriebliche Rahmenbedingungen
 
@@ -200,7 +191,6 @@ Bundesgesetzblatt Teil III, Gliederungsnummer 9022-1-1,
 veröffentlichten bereinigten Fassung, zuletzt geändert durch die
 Verordnung vom 15. April 1985 (BGBl. I S.637), aufgehoben werden.
 
-
 ## § 7 Schutzanforderungen
 
 (1) Beim Betrieb einer Amateurfunkstelle sind abweichend von den
@@ -230,7 +220,6 @@ vorzulegen. Die Bundesnetzagentur für Elektrizität, Gas,
 Telekommunikation, Post und Eisenbahnen stellt auf Antrag eine
 Standortbescheinigung aus. § 12 des Gesetzes über Funkanlagen und
 Telekommunikationsendeinrichtungen findet insoweit Anwendung.
-
 
 ## § 8 Gebühren und Auslagen
 
@@ -263,10 +252,6 @@ Verwaltungskostengesetzes die Gebühren festzulegen für
 6.  die Überlassung des Verzeichnisses der zugeteilten deutschen
     Rufzeichen und ihrer Inhaber.
 
-
-
-
-
 ## § 9 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
@@ -296,7 +281,6 @@ Fällen mit einer Geldbuße bis zu fünftausend Euro geahndet werden.
 (3) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes
 über Ordnungswidrigkeiten ist die Regulierungsbehörde.
 
-
 ## § 10 Zuständigkeiten
 
 (1) Die sich aus diesem Gesetz und den auf Grund dieses Gesetzes
@@ -318,7 +302,6 @@ beteiligten Fachkreise oder Verbände unterrichtet und um Überlassung
 von Unterlagen gebeten werden sowie Gelegenheit zur Stellungnahme
 erhalten.
 
-
 ## § 11 Betriebseinschränkungen und -verbote
 
 (1) Die Regulierungsbehörde kann bei Verstößen gegen dieses Gesetz
@@ -335,13 +318,11 @@ die anderen Funkdiensten zugewiesen sind und die Gefahr besteht, daß
 hierdurch erhebliche Störungen dieser Funkdienste verursacht werden. §
 80 Abs. 2 Nr. 4 der Verwaltungsgerichtsordnung bleibt unberührt.
 
-
 ## § 12 Übergangsregelung
 
 Die bis zum Inkrafttreten dieses Gesetzes erteilten Genehmigungen zum
 Errichten und Betreiben von Amateurfunkstellen gelten nach Maßgabe
 dieses Gesetzes weiter.
-
 
 ## § 13 Inkrafttreten, Außerkrafttreten
 

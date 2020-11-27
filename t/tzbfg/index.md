@@ -25,10 +25,7 @@ und - der Richtlinie 1999/70/EG des Rates vom 28. Juni 1999 zu der
 EGB-UNICE-CEEP-Rahmenvereinbarung über befristete Arbeitsverträge
 (ABl. EG 1999 Nr. L 175 S. 43).
 
-
 ## Erster Abschnitt - Allgemeine Vorschriften
-
-
 
 ### § 1 Zielsetzung
 
@@ -36,7 +33,6 @@ Ziel des Gesetzes ist, Teilzeitarbeit zu fördern, die Voraussetzungen
 für die Zulässigkeit befristeter Arbeitsverträge festzulegen und die
 Diskriminierung von teilzeitbeschäftigten und befristet beschäftigten
 Arbeitnehmern zu verhindern.
-
 
 ### § 2 Begriff des teilzeitbeschäftigten Arbeitnehmers
 
@@ -61,7 +57,6 @@ vollzeitbeschäftigter Arbeitnehmer anzusehen ist.
 geringfügige Beschäftigung nach § 8 Abs. 1 Nr. 1 des Vierten Buches
 Sozialgesetzbuch ausübt.
 
-
 ### § 3 Begriff des befristet beschäftigten Arbeitnehmers
 
 (1) Befristet beschäftigt ist ein Arbeitnehmer mit einem auf bestimmte
@@ -79,7 +74,6 @@ Grund des anwendbaren Tarifvertrages zu bestimmen; in allen anderen
 Fällen ist darauf abzustellen, wer im jeweiligen Wirtschaftszweig
 üblicherweise als vergleichbarer unbefristet beschäftigter
 Arbeitnehmer anzusehen ist.
-
 
 ### § 4 Verbot der Diskriminierung
 
@@ -107,22 +101,17 @@ dieselben Zeiten zu berücksichtigen wie für unbefristet beschäftigte
 Arbeitnehmer, es sei denn, dass eine unterschiedliche Berücksichtigung
 aus sachlichen Gründen gerechtfertigt ist.
 
-
 ### § 5 Benachteiligungsverbot
 
 Der Arbeitgeber darf einen Arbeitnehmer nicht wegen der
 Inanspruchnahme von Rechten nach diesem Gesetz benachteiligen.
 
-
 ## Zweiter Abschnitt - Teilzeitarbeit
-
-
 
 ### § 6 Förderung von Teilzeitarbeit
 
 Der Arbeitgeber hat den Arbeitnehmern, auch in leitenden Positionen,
 Teilzeitarbeit nach Maßgabe dieses Gesetzes zu ermöglichen.
-
 
 ### § 7 Ausschreibung; Information über freie Arbeitsplätze
 
@@ -142,7 +131,6 @@ von Teilzeitarbeitsplätzen in Vollzeitarbeitsplätze oder umgekehrt.
 Der Arbeitnehmervertretung sind auf Verlangen die erforderlichen
 Unterlagen zur Verfügung zu stellen; § 92 des
 Betriebsverfassungsgesetzes bleibt unberührt.
-
 
 ### § 8 Verringerung der Arbeitszeit
 
@@ -201,7 +189,6 @@ Voraussetzung, dass der Arbeitgeber, unabhängig von der Anzahl der
 Personen in Berufsbildung, in der Regel mehr als 15 Arbeitnehmer
 beschäftigt.
 
-
 ### § 9 Verlängerung der Arbeitszeit
 
 Der Arbeitgeber hat einen teilzeitbeschäftigten Arbeitnehmer, der ihm
@@ -212,7 +199,6 @@ berücksichtigen, es sei denn, dass dringende betriebliche Gründe oder
 Arbeitszeitwünsche anderer teilzeitbeschäftigter Arbeitnehmer
 entgegenstehen.
 
-
 ### § 10 Aus- und Weiterbildung
 
 Der Arbeitgeber hat Sorge zu tragen, dass auch teilzeitbeschäftigte
@@ -222,14 +208,12 @@ dass dringende betriebliche Gründe oder Aus- und Weiterbildungswünsche
 anderer teilzeit- oder vollzeitbeschäftigter Arbeitnehmer
 entgegenstehen.
 
-
 ### § 11 Kündigungsverbot
 
 Die Kündigung eines Arbeitsverhältnisses wegen der Weigerung eines
 Arbeitnehmers, von einem Vollzeit- in ein Teilzeitarbeitsverhältnis
 oder umgekehrt zu wechseln, ist unwirksam. Das Recht zur Kündigung des
 Arbeitsverhältnisses aus anderen Gründen bleibt unberührt.
-
 
 ### § 12 Arbeit auf Abruf
 
@@ -254,7 +238,6 @@ Vorankündigungsfrist vorsieht. Im Geltungsbereich eines solchen
 Tarifvertrages können nicht tarifgebundene Arbeitgeber und
 Arbeitnehmer die Anwendung der tariflichen Regelungen über die Arbeit
 auf Abruf vereinbaren.
-
 
 ### § 13 Arbeitsplatzteilung
 
@@ -286,10 +269,7 @@ solchen Tarifvertrages können nicht tarifgebundene Arbeitgeber und
 Arbeitnehmer die Anwendung der tariflichen Regelungen über die
 Arbeitsplatzteilung vereinbaren.
 
-
 ## Dritter Abschnitt - Befristete Arbeitsverträge
-
-
 
 ### § 14 Zulässigkeit der Befristung
 
@@ -370,7 +350,6 @@ des Arbeitsvertrages zulässig.
 (4) Die Befristung eines Arbeitsvertrages bedarf zu ihrer Wirksamkeit
 der Schriftform.
 
-
 ### § 15 Ende des befristeten Arbeitsvertrages
 
 (1) Ein kalendermäßig befristeter Arbeitsvertrag endet mit Ablauf der
@@ -396,7 +375,6 @@ fortgesetzt, so gilt es als auf unbestimmte Zeit verlängert, wenn der
 Arbeitgeber nicht unverzüglich widerspricht oder dem Arbeitnehmer die
 Zweckerreichung nicht unverzüglich mitteilt.
 
-
 ### § 16 Folgen unwirksamer Befristung
 
 Ist die Befristung rechtsunwirksam, so gilt der befristete
@@ -406,7 +384,6 @@ werden, sofern nicht nach § 15 Abs. 3 die ordentliche Kündigung zu
 einem früheren Zeitpunkt möglich ist. Ist die Befristung nur wegen des
 Mangels der Schriftform unwirksam, kann der Arbeitsvertrag auch vor
 dem vereinbarten Ende ordentlich gekündigt werden.
-
 
 ### § 17 Anrufung des Arbeitsgerichts
 
@@ -421,7 +398,6 @@ die Frist nach Satz 1 mit dem Zugang der schriftlichen Erklärung des
 Arbeitgebers, dass das Arbeitsverhältnis auf Grund der Befristung
 beendet sei.
 
-
 ### § 18 Information über unbefristete Arbeitsplätze
 
 Der Arbeitgeber hat die befristet beschäftigten Arbeitnehmer über
@@ -429,7 +405,6 @@ entsprechende unbefristete Arbeitsplätze zu informieren, die besetzt
 werden sollen. Die Information kann durch allgemeine Bekanntgabe an
 geeigneter, den Arbeitnehmern zugänglicher Stelle im Betrieb und
 Unternehmen erfolgen.
-
 
 ### § 19 Aus- und Weiterbildung
 
@@ -439,13 +414,11 @@ Förderung der beruflichen Entwicklung und Mobilität teilnehmen können,
 es sei denn, dass dringende betriebliche Gründe oder Aus- und
 Weiterbildungswünsche anderer Arbeitnehmer entgegenstehen.
 
-
 ### § 20 Information der Arbeitnehmervertretung
 
 Der Arbeitgeber hat die Arbeitnehmervertretung über die Anzahl der
 befristet beschäftigten Arbeitnehmer und ihren Anteil an der
 Gesamtbelegschaft des Betriebes und des Unternehmens zu informieren.
-
 
 ### § 21 Auflösend bedingte Arbeitsverträge
 
@@ -453,10 +426,7 @@ Wird der Arbeitsvertrag unter einer auflösenden Bedingung geschlossen,
 gelten § 4 Abs. 2, § 5, § 14 Abs. 1 und 4, § 15 Abs. 2, 3 und 5 sowie
 die §§ 16 bis 20 entsprechend.
 
-
 ## Vierter Abschnitt - Gemeinsame Vorschriften
-
-
 
 ### § 22 Abweichende Vereinbarungen
 
@@ -472,7 +442,6 @@ außerhalb des öffentlichen Dienstes, wenn die Anwendung der für den
 öffentlichen Dienst geltenden tarifvertraglichen Bestimmungen zwischen
 ihnen vereinbart ist und die Arbeitgeber die Kosten des Betriebes
 überwiegend mit Zuwendungen im Sinne des Haushaltsrechts decken.
-
 
 ### § 23 Besondere gesetzliche Regelungen
 

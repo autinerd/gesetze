@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1958, 956
 
-
-
 ## § 1
 
 (1) In den gesetzlichen Rentenversicherungen werden aus Anlaß der
@@ -39,7 +37,6 @@ im Jahre 1958 vollendet haben.
 
 (3) Absatz 1 findet auf den Knappschaftssold keine Anwendung.
 
-
 ## § 2
 
 Auf Renten, die nach Artikel 2 § 43 Abs. 1 des
@@ -53,7 +50,6 @@ gleiche gilt für Renten, die nach Artikel 3 § 6 Abs. 3 des
 Arbeiterrentenversicherungs-Neuregelungsgesetzes oder Artikel 3 § 5
 Abs. 2 des Angestelltenversicherungs-Neuregelungsgesetzes berechnet
 worden sind oder berechnet werden.
-
 
 ## § 3
 
@@ -83,7 +79,6 @@ einer Hinterbliebenenrente desselben Berechtigten ein Sonderzuschuß zu
 berücksichtigen gewesen, so gilt als Sonderzuschuß der Betrag von 21
 Deutsche Mark.
 
-
 ## § 4
 
 (1) Bei Renten aus der Rentenversicherung der Arbeiter und der
@@ -112,12 +107,10 @@ Artikel 2 § 11 oder Artikel 2 § 25 des
 Knappschaftsrentenversicherungs-Neuregelungsgesetzes
 berechnet worden sind.
 
-
 ## § 5
 
 Ergibt die Anpassung keinen höheren als den bisherigen Zahlbetrag, so
 ist dieser weiterzuzahlen.
-
 
 ## § 6
 
@@ -145,7 +138,6 @@ Kriegsopferrechts (Erstes Neuordnungsgesetz) vom 27. Juni 1960
 zu leisten waren, für den genannten Zeitraum bei der Ermittlung des
 Einkommens unberücksichtigt.
 
-
 ## § 7
 
 (1) Dem Berechtigten ist über die Anpassung eine schriftliche
@@ -161,7 +153,6 @@ zum 31. Dezember 1959 zulässig.
 Angestelltenversicherungsgesetzes und § 93 Abs. 1 des
 Reichsknappschaftsgesetzes bleiben unberührt.
 
-
 ## § 8
 
 (1) Die Vorschriften dieses Gesetzes sind im Saarland unter
@@ -172,13 +163,11 @@ aufgeführten Vorschriften im Saarland gelten.
 der Rentenbetrag in Deutsche Mark, der der Umrechnung in Französische
 Franken zugrunde liegt.
 
-
 ## § 9
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
 im Land Berlin.
-
 
 ## § 10
 

@@ -18,16 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 50 G v. 6.12.2011 I 2515
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## I. Abschnitt - Die Erlaubnis
-
-
 
 ### § 1
 
@@ -44,7 +40,6 @@ Meldepflicht und Nachprüfung nach diesem Gesetz. Gleiches gilt für
 Drittstaaten und Drittstaatsangehörige, soweit sich hinsichtlich der
 Anerkennung von Ausbildungsnachweisen nach dem Recht der Europäischen
 Gemeinschaften eine Gleichstellung ergibt.
-
 
 ### § 2
 
@@ -186,7 +181,6 @@ wahrgenommen werden.
 Anerkennungsverfahren nach diesem Gesetz und berichtet nach Ablauf von
 drei Jahren dem Deutschen Bundestag.
 
-
 ### § 2a
 
 (1) Die zuständigen Behörden des Landes, in dem der Beruf des
@@ -222,7 +216,6 @@ die Europäische Kommission für den nach Artikel 60 Abs. 1 der
 Richtlinie 2005/36/EG erforderlichen Bericht benötigt, zur
 Weiterleitung an die Kommission.
 
-
 ### § 3
 
 (1) Die Erlaubnis ist zurückzunehmen, wenn bei ihrer Erteilung die
@@ -239,7 +232,6 @@ Voraussetzung nach § 2 Abs. 1 Nr. 2 weggefallen ist.
 Voraussetzungen nach § 2 Abs. 1 Nr. 3 weggefallen ist.
 
 (4)
-
 
 ### § 4
 
@@ -300,7 +292,6 @@ entsprechend. Die Länder übermitteln dem Bundesministerium für
 Gesundheit die für die Erstellung dieses Berichts erforderlichen
 Ergebnisse der Auswertung.
 
-
 ### § 5
 
 (1) Das Bundesministerium für Gesundheit regelt durch Rechtsverordnung
@@ -348,7 +339,6 @@ Verbindung mit § 2 Abs. 3 oder 4 beantragen, zu regeln:
 (3) Abweichungen von den in den Absätzen 1 und 2 sowie der auf dieser
 Grundlage erlassenen Rechtsverordnung enthaltenen Regelungen des
 Verwaltungsverfahrens durch Landesrecht sind ausgeschlossen.
-
 
 ### § 5a
 
@@ -443,7 +433,6 @@ Bescheinigungen darüber auszustellen, dass
 
 § 1 Abs. 2 Satz 3 gilt entsprechend.
 
-
 ### § 5b
 
 Die zuständigen Behörden sind berechtigt, für jede
@@ -459,7 +448,6 @@ und die gute Führung des Dienstleisters sowie Informationen darüber,
 dass keine berufsbezogenen disziplinarischen oder strafrechtlichen
 Sanktionen vorliegen, zu übermitteln.
 
-
 ### § 5c
 
 Ergotherapeutinnen und Ergotherapeuten im Sinne des § 5a haben beim
@@ -469,10 +457,7 @@ Wird gegen diese Pflichten verstoßen, so hat die zuständige Behörde
 unverzüglich die zuständige Behörde des Niederlassungsmitgliedstaats
 dieses Dienstleistungserbringers hierüber zu unterrichten.
 
-
 ## II. Abschnitt - Zuständigkeiten
-
-
 
 ### § 6
 
@@ -498,10 +483,7 @@ erbracht worden ist. Die Bescheinigungen nach § 5a Abs. 4 stellt die
 zuständige Behörde des Landes aus, in dem der Antragsteller den Beruf
 des Ergotherapeuten ausübt.
 
-
 ## III. Abschnitt - Bußgeldvorschrift
-
-
 
 ### § 7
 
@@ -527,10 +509,7 @@ führt.
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
 zweitausendfünfhundert Euro geahndet werden.
 
-
 ## IV. Abschnitt - Übergangsvorschriften
-
-
 
 ### § 8
 
@@ -566,7 +545,6 @@ erworbene Berufsbezeichnung weiterzuführen. § 3 gilt entsprechend.
 
 (4)
 
-
 ### § 8a
 
 (1) Eine vor dem 1. September 1991 nach der Anordnung über die
@@ -582,10 +560,7 @@ den dort bisher geltenden Regeln abgeschlossen werden. Nach Abschluß
 der Ausbildung erhält der Antragsteller, wenn die Voraussetzungen des
 § 2 Abs. 1 Nr. 2 und 3 vorliegen, eine Erlaubnis nach § 1.
 
-
 ## V. Abschnitt - Schlußvorschriften
-
-
 
 ### § 9
 
@@ -604,7 +579,6 @@ dem Beschäftigungs- und Arbeitstherapeutengesetz besitzen, dürfen die
 Berufsbezeichnung weiterführen. Außer im Falle des Satzes 1 darf die
 Berufsbezeichnung "Beschäftigungs- und Arbeitstherapeut" oder
 "Beschäftigungs- und Arbeitstherapeutin" nicht geführt werden.
-
 
 ### § 10
 

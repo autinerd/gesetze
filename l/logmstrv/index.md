@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 26
 
-
 ## Eingangsformel
 
 Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 des
@@ -26,7 +25,6 @@ geändert worden ist, verordnet das Bundesministerium für Bildung und
 Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für
 Berufsbildung im Einvernehmen mit dem Bundesministerium für Wirtschaft
 und Technologie:
-
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
 
@@ -110,7 +108,6 @@ wahrzunehmen:
 Fortbildungsabschluss Geprüfter Logistikmeister/Geprüfte
 Logistikmeisterin.
 
-
 ## § 2 Umfang der Meisterqualifikation und Gliederung der Prüfung
 
 (1) Die Qualifikation zum Geprüften Logistikmeister/zur Geprüften
@@ -151,7 +148,6 @@ anwendungsbezogenen Aufgabenstellungen nach § 4 zu prüfen.
 
 (5) Im Prüfungsteil nach Absatz 3 Nummer 2 ist schriftlich und
 mündlich nach § 5 zu prüfen.
-
 
 ## § 3 Zulassungsvoraussetzungen
 
@@ -195,7 +191,6 @@ Voraussetzungen ist zur Prüfung auch zuzulassen, wer durch Vorlage von
 Zeugnissen oder auf andere Weise glaubhaft macht, Fertigkeiten,
 Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit) erworben zu
 haben, die eine Zulassung zur Prüfung rechtfertigen.
-
 
 ## § 4 Grundlegende Qualifikationen
 
@@ -411,7 +406,6 @@ schriftlichen Prüfungsleistung und die der mündlichen
 Ergänzungsprüfung werden zu einer Prüfungsleistung zusammengefasst.
 Dabei wird die Bewertung der schriftlichen Prüfungsleistung doppelt
 gewichtet.
-
 
 ## § 5 Handlungsspezifische Qualifikationen
 
@@ -781,7 +775,6 @@ Das Fachgespräch soll für jeden Prüfungsteilnehmer und für jede
 Prüfungsteilnehmerin höchstens 45 Minuten dauern, von denen höchstens
 15 Minuten auf die Präsentation entfallen.
 
-
 ## § 6 Anrechnung anderer Prüfungsleistungen
 
 Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin ist auf Antrag
@@ -791,7 +784,6 @@ Stelle zu befreien, wenn eine andere vergleichbare Prüfung vor einer
 einem staatlichen Prüfungsausschuss erfolgreich abgelegt wurde und die
 Anmeldung zur Fortbildungsprüfung innerhalb von fünf Jahren nach der
 Bekanntgabe des Bestehens der anderen Prüfung erfolgt.
-
 
 ## § 7 Bewerten der Prüfungsteile und Bestehen der Prüfung
 
@@ -825,7 +817,6 @@ Prüfungsgremiums der anderweitig abgelegten Prüfung anzugeben. Der
 Nachweis über den Erwerb der berufs- und arbeitspädagogischen
 Qualifikationen nach § 2 Absatz 2 ist im Zeugnis einzutragen.
 
-
 ## § 8 Wiederholung der Prüfung
 
 (1) Jeder nicht bestandene Prüfungsteil kann zweimal wiederholt
@@ -841,7 +832,6 @@ Prüfung an, zur Wiederholungsprüfung angemeldet hat. Bestandene
 Prüfungsleistungen können auf Antrag einmal wiederholt werden. In
 diesem Fall gilt das Ergebnis der letzten Prüfung.
 
-
 ## § 9 Übergangsvorschriften
 
 Begonnene Prüfungsverfahren können bis zum 31. Dezember 2012 nach den
@@ -852,7 +842,6 @@ durchführen; § 8 Absatz 2 findet in diesem Fall keine Anwendung. Im
 Dezember 2010 die Anwendung der bisherigen Vorschriften beantragt
 werden.
 
-
 ## § 10 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Februar 2010 in Kraft. Gleichzeitig tritt
@@ -861,7 +850,6 @@ Meister/ Geprüfte Meisterin für Lagerwirtschaft vom 15. Oktober 1991
 (BGBl. I S. 2020), die durch Artikel 1 Nummer 16 und Artikel 2 § 1
 Nummer 1, § 2 Nummer 1, § 3 Nummer 1 und § 4 Nummer 7 der Verordnung
 vom 15. April 1999 (BGBl. I S. 711) geändert worden ist, außer Kraft.
-
 
 ## Anlage 1 (zu § 7 Absatz 5) Muster
 
@@ -896,8 +884,6 @@ vom 15. April 1999 (BGBl. I S. 711) geändert worden ist, außer Kraft.
 
     *   die Prüfung zum anerkannten Fortbildungsabschluss
 
-
-
 ## Geprüfter Logistikmeister/Geprüfte Logistikmeisterin
 
 nach der Verordnung über die Prüfung zum anerkannten
@@ -918,9 +904,6 @@ bestanden.
 *    *
 
 *    *   (Siegel der zuständigen Stelle)
-
-
-
 
 ## Anlage 2 (zu § 7 Absatz 5) Muster
 
@@ -954,8 +937,6 @@ bestanden.
 *    *   hat am .................................
 
     *   die Prüfung zum anerkannten Fortbildungsabschluss
-
-
 
 ## Geprüfter Logistikmeister/Geprüfte Logistikmeisterin
 

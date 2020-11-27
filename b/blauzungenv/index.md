@@ -23,7 +23,6 @@ Rates vom 20. November 2000 mit besonderen Bestimmungen für Maßnahmen
 zur Bekämpfung und Tilgung der Blauzungenkrankheit (ABl. EG Nr. L 327
 S. 74).
 
-
 ## Eingangsformel
 
 Auf Grund des § 73a Nr. 1 und 5 Buchstabe b, des § 79 Abs. 1 Nr. 2 in
@@ -33,7 +32,6 @@ des § 79 Abs. 1 Nr. 3 in Verbindung mit § 78, jeweils in Verbindung
 mit § 79b, des Tierseuchengesetzes in der Fassung der Bekanntmachung
 vom 11. April 2001 (BGBl. I S. 506) verordnet das Bundesministerium
 für Verbraucherschutz, Ernährung und Landwirtschaft:
-
 
 ## § 1 Begriffsbestimmungen
 
@@ -93,17 +91,9 @@ für Verbraucherschutz, Ernährung und Landwirtschaft:
         empfänglichen Tiere sowie der aus einem solchen Betrieb verbrachten
         verendeten empfänglichen Tiere.
 
-
-
-
-
-
-
-
 ## § 2 (weggefallen)
 
 -
-
 
 ## § 3 Maßnahmen im Falle des Seuchenverdachts
 
@@ -152,12 +142,10 @@ a hat der für den betroffenen Betrieb Verantwortliche sicherzustellen,
 dass empfängliche Tiere nicht in den oder aus dem Betrieb verbracht
 werden.
 
-
 ## § 4 Bekanntmachung des Seuchenausbruches
 
 Nach amtlicher Feststellung macht die zuständige Behörde den Ausbruch
 der Blauzungenkrankheit öffentlich bekannt.
-
 
 ## § 5 Maßnahmen im Falle der amtlichen Feststellung der Seuche
 
@@ -221,14 +209,12 @@ bekannt gemacht worden ist.
 (5) Die zuständige Behörde ordnet die Durchführung epizootiologischer
 Nachforschungen im Sperrgebiet und im Beobachtungsgebiet an.
 
-
 ## § 6 Vorschriften für Sperrgebiet und Beobachtungsgebiet
 
 Wer in einem Sperrgebiet oder einem Beobachtungsgebiet empfängliche
 Tiere hält, hat dies und den Standort der Tiere unverzüglich nach
 Bekanntgabe der Festsetzung nach § 5 Abs. 4 der zuständigen Behörde
 anzuzeigen.
-
 
 ## § 6a Seuchenausbruch in einem benachbarten Mitgliedstaat
 
@@ -241,7 +227,6 @@ Behörde amtlich zur Kenntnis gebracht, so ordnet diese die Maßnahmen
 entsprechend § 5 Abs. 3 und 4 an. § 5 Abs. 5, die §§ 6 und 7 gelten
 entsprechend.
 
-
 ## § 6b Untersuchungspflicht
 
 Soweit empfängliche Tiere aus einem in einem anderen Mitgliedstaat
@@ -252,7 +237,6 @@ Besitzer die Tiere unverzüglich auf das Virus der Blauzungenkrankheit
 des Serotyps 1 in einer von der im Inland zuständigen Behörde
 bestimmten Untersuchungseinrichtung untersuchen zu lassen. Satz 1 gilt
 nicht, soweit die Tiere unmittelbar zur Schlachtung verbracht werden.
-
 
 ## § 7 Aufhebung angeordneter Maßnahmen
 
@@ -277,7 +261,6 @@ angeordnete Maßnahmen auf, wenn
 
 den Seuchenverdacht nicht bestätigt haben.
 
-
 ## § 8 Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 76 Abs. 2 Nr. 1 Buchstabe b des
@@ -299,14 +282,9 @@ Tierseuchengesetzes handelt, wer vorsätzlich oder fahrlässig
 3.  entgegen § 6b Satz 1 Tiere nicht oder nicht rechtzeitig untersuchen
     lässt.
 
-
-
-
-
 ## § 9 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlussformel
 

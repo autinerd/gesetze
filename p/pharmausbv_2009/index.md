@@ -22,7 +22,6 @@ Fundstelle
     Berufsschule werden demnächst als Beilage zum Bundesanzeiger
     veröffentlicht.
 
-
 ## Eingangsformel
 
 Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des
@@ -32,17 +31,14 @@ Berufsbildungsgesetzes vom 23. März 2005 (BGBI. I S. 931), von denen §
 Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit
 dem Bundesministerium für Bildung und Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Pharmakant/Pharmakantin wird nach § 4 Absatz 1
 des Berufsbildungsgesetzes staatlich anerkannt.
 
-
 ## § 2 Dauer der Berufsausbildung
 
 Die Ausbildung dauert drei Jahre und sechs Monate.
-
 
 ## § 3 Struktur der Berufsausbildung
 
@@ -56,10 +52,6 @@ Die Berufsausbildung gliedert sich in:
     sind aus den Wahlqualifikationen nach den Nummern 1 bis 3 mindestens
     zwei und aus den Wahlqualifikationen nach den Nummern 4 bis 6
     mindestens eine auszuwählen.
-
-
-
-
 
 ## § 4 Ausbildungsrahmenplan, Ausbildungsberufsbild
 
@@ -191,10 +183,6 @@ Abschnitt II: Wahlqualifikationen nach § 3 Nummer 2
 
 16. Internationale Kompetenz.
 
-
-
-
-
 ## § 5 Durchführung der Berufsausbildung
 
 (1) Die in § 4 genannten Fertigkeiten, Kenntnisse und Fähigkeiten
@@ -215,7 +203,6 @@ Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
 Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
 durchzusehen.
 
-
 ## § 6 Abschlussprüfung
 
 (1) Die Abschlussprüfung besteht aus den beiden zeitlich
@@ -235,7 +222,6 @@ erforderlich ist.
 (2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der
 Abschlussprüfung mit 30 Prozent und Teil 2 der Abschlussprüfung mit 70
 Prozent gewichtet.
-
 
 ## § 7 Teil 1 der Abschlussprüfung
 
@@ -378,10 +364,6 @@ folgende Vorgaben:
 
 
 4.  die Prüfungszeit beträgt 150 Minuten.
-
-
-
-
 
 ## § 8 Teil 2 der Abschlussprüfung
 
@@ -548,10 +530,6 @@ folgende Vorgaben:
 
 3.  die Prüfungszeit beträgt 60 Minuten.
 
-
-
-
-
 ## § 9 Gewichtungs- und Bestehensregelungen
 
 (1) Die einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
@@ -614,7 +592,6 @@ folgende Vorgaben:
 
 bewertet worden sind.
 
-
 ## § 10 Mündliche Ergänzungsprüfung
 
 Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der
@@ -627,11 +604,9 @@ Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und
 das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2 : 1
 zu gewichten.
 
-
 ## § 11 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2009 in Kraft.
-
 
 ## Anlage (zu § 4 Absatz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Pharmakanten/zur Pharmakantin
 

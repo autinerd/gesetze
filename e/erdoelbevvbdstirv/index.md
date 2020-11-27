@@ -18,12 +18,10 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 18.10.2012 I 2172
 
-
 ## Eingangsformel
 
 Auf Grund des § 13 des Erdölbevorratungsgesetzes vom 25. Juli 1978
 (BGBl. I S. 1073) wird mit Zustimmung des Bundesrates verordnet:
-
 
 ## § 1
 
@@ -34,16 +32,13 @@ Absatz 2 Satz 1 Nummer 1 bis 3 des Erdölbevorratungsgesetzes genannten
 Mengen hergestellt oder eingeführt hat, hat für jede über 300 000
 Tonnen hinaus angefangenen 300 000 Tonnen eine weitere Stimme.
 
-
 ## § 2
 
 (weggefallen)
 
-
 ## § 3
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlußformel
 

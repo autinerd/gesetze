@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 4 V v. 5.7.2007 I 1305
 
-
 ## § 1 Bestellung der Betriebsleiter
 
 (1) Eisenbahninfrastrukturunternehmen mit Sitz im Inland haben vor der
@@ -69,7 +68,6 @@ Eisenbahninfrastrukturunternehmen und für
 Eisenbahnverkehrsunternehmen, die nicht dem öffentlichen Verkehr
 dienen, soweit sie eine Eisenbahninfrastruktur benutzen oder
 betreiben, die nicht dem öffentlichen Verkehr dient.
-
 
 ## § 2 Bestätigung der Bestellung zum Betriebsleiter
 
@@ -136,7 +134,6 @@ der Bestellung folgende Unterlagen beizufügen:
 (6) Die Absätze 1 bis 5 gelten entsprechend für die Bestätigung der
 Bestellung als Stellvertreter eines Betriebsleiters.
 
-
 ## § 3 Ausnahmen
 
 Die zuständige Aufsichtsbehörde kann im Einzelfall
@@ -178,7 +175,6 @@ zuständigen Aufsichtsbehörde zu beurteilen.
 Absatz 1 auf geeignete Weise davon zu überzeugen, dass die bestellte
 Person zumindest das im Einzelfall erforderliche Maß an Fachkunde
 besitzt.
-
 
 ## § 4 Aufgaben und Befugnisse des Betriebsleiters
 
@@ -242,10 +238,6 @@ insbesondere verpflichtet,
     die Führung der Geschäfte bestellten Personen zu melden sowie
     Maßnahmen zur Beseitigung dieser Mängel vorzuschlagen.
 
-
-
-
-
 ## § 5 Pflichten der Eisenbahn
 
 (1) Die für die Führung der Geschäfte des Eisenbahnunternehmens
@@ -295,7 +287,6 @@ insbesondere sicherzustellen, dass der Betriebsleiter
 
 (4) Der Betriebsleiter darf wegen der Erfüllung der ihm übertragenen
 Aufgaben nicht benachteiligt werden.
-
 
 ## § 6 Übergangsvorschriften
 

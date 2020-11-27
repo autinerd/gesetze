@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 5 Abs. 23 G v. 24.2.2012 I 212
 
-
 ## Eingangsformel
 
 Auf Grund
@@ -37,7 +36,6 @@ Auf Grund
 
 
 verordnet die Bundesregierung:
-
 
 ## § 1 Anwendungsbereich
 
@@ -82,7 +80,6 @@ Abfallgesetzes zurückgeben.
 rechtlichen Entsorgungsträger im Rahmen der Überlassungspflicht nach §
 17 Absatz 1 des Kreislaufwirtschaftsgesetzes überlassen worden sind.
 
-
 ## § 2 Begriffsbestimmungen
 
 Im Sinne dieser Verordnung bedeuten die Begriffe
@@ -122,10 +119,6 @@ Im Sinne dieser Verordnung bedeuten die Begriffe
     stofflichen oder energetischen Verwertung vorbehandelt werden,
     insbesondere durch Sortierung, Zerkleinerung, Verdichtung oder
     Pelletierung.
-
-
-
-
 
 ## § 3 Getrennthaltung von gewerblichen Siedlungsabfallfraktionen
 
@@ -234,7 +227,6 @@ Abfallverzeichnis, so sind diese von anderen Abfällen jeweils getrennt
 zu halten, zu lagern, einzusammeln, zu befördern und einer
 ordnungsgemäßen Verwertung oder Beseitigung zuzuführen.
 
-
 ## § 4 Getrennthaltung bei Vorbehandlung gemischter gewerblicher Siedlungsabfälle
 
 (1) Erzeuger und Besitzer von gewerblichen Siedlungsabfällen dürfen
@@ -289,7 +281,6 @@ zugeführt werden.
 Siedlungsabfällen gemäß Absatz 1 Satz 1 dürfen diese nur einer
 Vorbehandlungsanlage zuführen, in der die Anforderungen nach § 5
 eingehalten werden.
-
 
 ## § 5 Anforderungen an Vorbehandlungsanlagen
 
@@ -359,7 +350,6 @@ Kalenderjahr und bis zum 31. Dezember 2004 eine Verwertungsquote von
 mindestens 75 Masseprozent als Mittelwert im Kalenderjahr zu
 erreichen.
 
-
 ## § 6 Getrennthaltung bei energetischer Verwertung gemischter gewerblicher Siedlungsabfälle
 
 Erzeuger und Besitzer von gewerblichen Siedlungsabfällen dürfen diese
@@ -386,7 +376,6 @@ durch organisatorische Maßnahmen zur Minimierung von Fehlwürfen, dass
 die in Satz 1 aufgeführten Abfälle nicht in dem Abfallgemisch
 enthalten sind.
 
-
 ## § 7 Getrennthaltung von gewerblichen Siedlungsabfällen, die nicht verwertet werden
 
 Erzeuger und Besitzer von gewerblichen Siedlungsabfällen, die nicht
@@ -401,7 +390,6 @@ Abfallbehälter des öffentlich-rechtlichen Entsorgungsträgers oder
 eines von ihm beauftragten Dritten in angemessenem Umfang nach den
 näheren Festlegungen des öffentlich-rechtlichen Entsorgungsträgers,
 mindestens aber einen Behälter, zu nutzen.
-
 
 ## § 8 Getrennthaltung und Anforderungen an die Vorbehandlung von Bau- und Abbruchabfällen
 
@@ -506,7 +494,6 @@ Verschmutzung der anfallenden Abfälle. Die Erzeuger und Besitzer haben
 der zuständigen Behörde auf Verlangen im Einzelfall die Umstände für
 die fehlende technische Möglichkeit oder wirtschaftliche
 Unzumutbarkeit darzulegen.
-
 
 ## § 9 Kontrolle bei Vorbehandlungsanlagen
 
@@ -665,7 +652,6 @@ dieser Staaten niedergelassen ist, gilt hinsichtlich der
 erforderlichen Fachkunde § 13a Absatz 2 Satz 2 bis 5 und Absatz 3 der
 Gewerbeordnung entsprechend.
 
-
 ## § 10 Betriebstagebuch
 
 (1) Der Betreiber einer Vorbehandlungsanlage hat während der Dauer des
@@ -706,7 +692,6 @@ zuständigen Behörde vorzulegen.
 anderen Bestimmungen Betriebstagebücher zu führen sind, können die
 erforderlichen Angaben in einem Betriebstagebuch zusammengefasst
 werden.
-
 
 ## § 11 Ordnungswidrigkeiten
 
@@ -773,20 +758,14 @@ Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
     nicht mindestens fünf Jahre aufbewahrt oder nicht oder nicht
     rechtzeitig vorlegt.
 
-
-
-
-
 ## § 12 Inkrafttreten
 
 Diese Verordnung tritt am ersten Tag des siebten auf die Verkündung
 folgenden Kalendermonats in Kraft.
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anhang Weitere Abfälle, die gemäß § 4 in gemischten gewerblichen Siedlungsabfällen enthalten sein können
 

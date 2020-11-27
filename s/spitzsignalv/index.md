@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1957, 1269
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 3 Abs. 1 und Abs. 3 Satz 1 des Allgemeinen
@@ -27,11 +25,9 @@ Bundesministers für Verkehr zum Erlaß von Rechtsverordnungen auf dem
 Gebiet des Eisenbahnwesens vom 28. September 1955 (Bundesgesetzbl. I
 S. 654) wird mit Zustimmung des Bundesrates verordnet:
 
-
 ## § 1
 
 -
-
 
 ## § 2
 
@@ -49,14 +45,12 @@ Blinklichtanlage) oder ohne Sicherungsposten nicht befahren werden.
 (3) In den übrigen Fällen ist nach den von den Ländern für
 Anschlußbahnen erlassenen Bestimmungen zu verfahren.
 
-
 ## § 3
 
 (1) Die Verordnung tritt am ersten Tage des auf ihre Verkündung
 folgenden Monats in Kraft.
 
 (2)
-
 
 ## Schlußformel
 

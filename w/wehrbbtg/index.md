@@ -21,7 +21,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 15 Abs. 68 G v. 5.2.2009 I 160
 
-
 ## § 1 Verfassungsrechtliche Stellung, Aufgaben
 
 (1) Der Wehrbeauftragte nimmt seine Aufgaben als Hilfsorgan des
@@ -44,7 +43,6 @@ Wehrbeauftragten nach Satz 1 unterbleibt, soweit der
 Verteidigungsausschuß den Vorgang zum Gegenstand seiner eigenen
 Beratung gemacht hat.
 
-
 ## § 2 Berichtspflichten
 
 (1) Der Wehrbeauftragte erstattet für das Kalenderjahr dem Bundestag
@@ -56,7 +54,6 @@ Einzelberichte vorlegen.
 (3) Wird der Wehrbeauftragte auf Weisung tätig, so hat er über das
 Ergebnis seiner Prüfung auf Verlangen einen Einzelbericht zu
 erstatten.
-
 
 ## § 3 Amtsbefugnisse
 
@@ -110,16 +107,11 @@ folgenden Befugnisse:
     Aufgabenbereich zusammenhängen, zu; in diesen Verfahren hat er das
     Recht zur Akteneinsicht wie ein Verfahrensbeteiligter.
 
-
-
-
-
 ## § 4 Amtshilfe
 
 Gerichte und Verwaltungsbehörden des Bundes, der Länder und der
 Gemeinden sind verpflichtet, dem Wehrbeauftragten bei der Durchführung
 der erforderlichen Erhebungen Amtshilfe zu leisten.
-
 
 ## § 5 Allgemeine Richtlinien, Weisungsfreiheit
 
@@ -129,12 +121,10 @@ Richtlinien für die Arbeit des Wehrbeauftragten erlassen.
 (2) Der Wehrbeauftragte ist - unbeschadet des § 1 Abs. 2 - von
 Weisungen frei.
 
-
 ## § 6 Anwesenheitspflicht
 
 Der Bundestag und der Verteidigungsausschuß können jederzeit die
 Anwesenheit des Wehrbeauftragten verlangen.
-
 
 ## § 7 Eingaberecht des Soldaten
 
@@ -143,11 +133,9 @@ Dienstwegs unmittelbar an den Wehrbeauftragten zu wenden. Wegen der
 Tatsache der Anrufung des Wehrbeauftragten darf er nicht dienstlich
 gemaßregelt oder benachteiligt werden.
 
-
 ## § 8 Anonyme Eingaben
 
 Anonyme Eingaben werden nicht bearbeitet.
-
 
 ## § 9 Vertraulichkeit der Eingaben
 
@@ -156,7 +144,6 @@ seinem Ermessen, die Tatsache der Eingabe und den Namen des Einsenders
 bekanntzugeben. Er soll von der Bekanntgabe absehen, wenn der
 Einsender es wünscht und der Erfüllung des Wunsches keine
 Rechtspflichten entgegenstehen.
-
 
 ## § 10 Verschwiegenheitspflicht
 
@@ -182,11 +169,9 @@ gefährden oder erheblich erschweren würde.
 anzuzeigen und bei Gefährdung der freiheitlichen demokratischen
 Grundordnung für deren Erhaltung einzutreten.
 
-
 ## § 11
 
 (weggefallen)
-
 
 ## § 12 Unterrichtungspflichten durch Bundes- und Länderbehörden
 
@@ -197,7 +182,6 @@ Disziplinarverfahren und den Ausgang des Verfahrens zu unterrichten,
 wenn einer dieser Behörden die Vorgänge vom Wehrbeauftragten
 zugeleitet worden sind.
 
-
 ## § 13 Wahl des Wehrbeauftragten
 
 Der Bundestag wählt in geheimer Wahl mit der Mehrheit seiner
@@ -205,7 +189,6 @@ Mitglieder den Wehrbeauftragten. Vorschlagsberechtigt sind der
 Verteidigungsausschuß, die Fraktionen und so viele Abgeordnete, wie
 nach der Geschäftsordnung der Stärke einer Fraktion entsprechen. Eine
 Aussprache findet nicht statt.
-
 
 ## § 14 Wählbarkeit, Amtsdauer, Verbot einer anderen Berufsausübung, Eid, Befreiung vom Wehrdienst
 
@@ -226,7 +209,6 @@ Bundestag den in Artikel 56 des Grundgesetzes vorgesehenen Eid.
 
 (5) Der Wehrbeauftragte ist für die Dauer seines Amtes vom Wehrdienst
 befreit.
-
 
 ## § 15 Rechtsstellung des Wehrbeauftragten, Beginn und Beendigung des Amtsverhältnisses
 
@@ -257,7 +239,6 @@ Bundestages.
 (5) Der Wehrbeauftragte kann jederzeit seine Entlassung verlangen. Der
 Präsident des Bundestages spricht die Entlassung aus.
 
-
 ## § 16 Sitz des Wehrbeauftragten, Leitender Beamter, Beschäftigte, Haushalt
 
 (1) Der Wehrbeauftragte hat seinen Sitz beim Bundestag.
@@ -275,7 +256,6 @@ Beschäftigten.
 Verfügung zu stellende notwendige Personal- und Sachausstattung ist im
 Einzelplan des Bundestages in einem eigenen Kapitel auszuweisen.
 
-
 ## § 17 Vertretung des Wehrbeauftragten
 
 (1) Der Leitende Beamte nimmt die Rechte des Wehrbeauftragten mit
@@ -290,7 +270,6 @@ Wehrbeauftragten mehr als drei Monate verstrichen, ohne daß das
 Amtsverhältnis eines Nachfolgers begonnen hat, so kann der
 Verteidigungsausschuß den Leitenden Beamten ermächtigen, das Recht aus
 § 3 Nr. 4 wahrzunehmen.
-
 
 ## § 18 Amtsbezüge, Versorgung
 
@@ -322,11 +301,9 @@ zuletzt geändert durch Artikel VII des Gesetzes vom 20. Dezember 1974
 Amtsverhältnisses erforderlich werdenden Umzüge sind entsprechend
 anzuwenden.
 
-
 ## § 19
 
 (weggefallen)
-
 
 ## § 20
 

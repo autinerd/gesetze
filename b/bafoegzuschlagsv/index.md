@@ -19,13 +19,11 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 6 G v. 24.10.2010 I 1422
 
-
 ## Eingangsformel
 
 Auf Grund des § 13 Abs. 4 des Bundesausbildungsförderungsgesetzes in
 der Fassung der Bekanntmachung vom 6. Juni 1983 (BGBl. I S. 645)
 verordnet die Bundesregierung mit Zustimmung des Bundesrates:
-
 
 ## § 1 Zuschläge zu dem Bedarf
 
@@ -56,7 +54,6 @@ Gesetzes.
 (2) Zuschläge nach dieser Verordnung werden nicht geleistet, soweit §
 12 Abs. 4 des Gesetzes gilt.
 
-
 ## § 2 Höhe des Auslandszuschlags
 
 (1) Der Auslandszuschlag bemisst sich nach dem Prozentsatz, den das
@@ -70,7 +67,6 @@ Prozentsatz maßgeblich, für Bewilligungszeiträume, die im zweiten
 Halbjahr eines Jahres beginnen, der zum 1. April desselben Jahres
 festgesetzte Prozentsatz. Der Prozentsatz gilt jeweils für den
 gesamten Bewilligungszeitraum.
-
 
 ## § 3 Studiengebühren
 
@@ -97,7 +93,6 @@ Studiengebühren nur geleistet werden, wenn
 (3) Der Auszubildende hat nachzuweisen, mit welchem Ergebnis er sich
 um Erlaß oder Ermäßigung der Studiengebühren bemüht hat.
 
-
 ## § 4 Aufwendungen für Reisen zum Ausbildungsort
 
 (1) Für die Hinreise zum Ausbildungsort sowie für eine Rückreise wird
@@ -108,14 +103,12 @@ Euro.
 (2) In besonderen Härtefällen können die notwendigen Aufwendungen für
 eine weitere Hin- und Rückreise geleistet werden.
 
-
 ## § 5 Aufwendungen für die Krankenversicherung
 
 Zu den Aufwendungen der Krankenversicherung des Auszubildenden wird
 monatlich ein Zuschlag in Höhe des Betrages nach § 13a Abs. 1 des
 Gesetzes geleistet, wenn der Auszubildende das Bestehen eines
 Krankenversicherungsschutzes nachweist.
-
 
 ## § 6 Verhältnis zur Härteverordnung
 
@@ -127,14 +120,12 @@ Härtefällen nach dem Bundesausbildungsförderungsgesetz vom 15. Juli
 24\. Juli 1995 (BGBl. I S. 976) geändert worden ist, findet insoweit
 keine Anwendung.
 
-
 ## § 7 Anwendungsbestimmungen aus Anlass der Änderungen durch das Zweiundzwanzigste Gesetz zur Änderung des Bundesausbildungsförderungsgesetzes
 
 Für Bewilligungszeiträume, die vor dem 1. August 2008 begonnen haben,
 sind die §§ 1 bis 6 in der bis zum 31. Juli 2008 geltenden Fassung
 weiter anzuwenden, § 2 jedoch nicht in den Fällen einer Förderung nach
 § 5 Abs. 2 Nr. 3 des Gesetzes.
-
 
 ## § 8 Anwendungsbestimmung aus Anlass der Änderungen durch das Dreiundzwanzigste Gesetz zur Änderung des Bundesausbildungsförderungsgesetzes
 

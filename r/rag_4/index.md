@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1961, 2009
 
-
-
 ## § 1
 
 (1) In den gesetzlichen Rentenversicherungen werden aus Anlaß der
@@ -33,7 +31,6 @@ Angestelltenversicherungs-Neuregelungsgesetzes erhöhten Renten von
 Berechtigten, die das 65. Lebensjahr im Jahre 1961 vollendet haben.
 
 (3) Absatz 1 findet auf den Knappschaftssold keine Anwendung.
-
 
 ## § 2
 
@@ -68,10 +65,6 @@ b)  nach Artikel 2 § 25 des Knappschaftsrentenversicherungs-
     auf sie die
     §§ 75, 76 des Reichsknappschaftsgesetzes                    Anwendung
     gefunden haben.
-
-
-
-
 
 ## § 3
 
@@ -194,7 +187,6 @@ Deutsche Mark, in § 3 Abs. 2 der Verordnung an Stelle des Betrags von
 2 Satz 4 der Verordnung an Stelle des Betrags von 750 Deutsche Mark
 der Betrag von 900 Deutsche Mark tritt.
 
-
 ## § 4
 
 Die übrigen Renten werden in der Weise angepaßt, daß der nach § 5 zu
@@ -206,7 +198,6 @@ nach § 75 Abs. 1 Satz 2 des Reichsknappschaftsgesetzes zu belassende
 Betrag sind mit 1,1 zu vervielfältigen. Der Kinderzuschuß für jedes
 Kind ist nach der allgemeinen Bemessungsgrundlage des Jahres 1961 zu
 berechnen.
-
 
 ## § 5
 
@@ -242,7 +233,6 @@ Ist in den Fällen des Satzes 1 bei der Berechnung einer Versicherten-
 und einer Hinterbliebenenrente desselben Berechtigten ein
 Sonderzuschuß zu berücksichtigen gewesen, so gilt als Sonderzuschuß
 der Betrag von 21 Deutsche Mark.
-
 
 ## § 6
 
@@ -285,12 +275,10 @@ oder §§ 55, 56 des Angestelltenversicherungsgesetzes genannten
 Grenzbeträge überschreiten, den Betrag nicht übersteigen, der sich
 ergeben würde, wenn die Rente nach § 3 angepaßt werden würde.
 
-
 ## § 7
 
 Ergibt die Anpassung keinen höheren als den bisherigen Zahlbetrag, so
 ist dieser weiterzuzahlen.
-
 
 ## § 8
 
@@ -314,7 +302,6 @@ Erhöhungsbeträge für den in Satz 1 genannten Zeitraum sind ferner bei
 der Gewährung von Leistungen aus der Arbeitslosenversicherung und der
 Arbeitslosenhilfe nicht zu berücksichtigen.
 
-
 ## § 9
 
 (1) Dem Berechtigten ist über die Anpassung eine schriftliche
@@ -329,7 +316,6 @@ zum 31. Dezember 1962 zulässig.
 § 1300 der Reichsversicherungsordnung, § 79 des
 Angestelltenversicherungsgesetzes und § 93 Abs. 1 des
 Reichsknappschaftsgesetzes bleiben unberührt.
-
 
 ## § 10
 
@@ -355,13 +341,11 @@ Wohnungsbaugesetzes das entsprechende saarländische Gesetz tritt und
 das Bundesentschädigungsgesetz und das Lastenausgleichsgesetz unter
 Berücksichtigung ihrer im Saarland geltenden Fassung anzuwenden sind.
 
-
 ## § 11
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
 im Land Berlin.
-
 
 ## § 12
 

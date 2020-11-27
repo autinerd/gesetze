@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 2450 [Anlageband S. 571 - 572]
 
-
 ## § 1
 
 Wenn die zuständige Behörde bei einer Prüfung feststellt, dass das
@@ -27,7 +26,6 @@ Fahrtauglichkeitsbescheinigung oder diese mangelnde Übereinstimmung
 keine offenkundige Gefahr darstellt, muss der Eigner des Fahrzeuges
 oder sein Vertreter alle notwendigen Maßnahmen treffen, um Abhilfe zu
 schaffen.
-
 
 ## § 2
 
@@ -40,7 +38,6 @@ Sie kann auch Maßnahmen vorschreiben, die es dem Fahrzeug, der
 schwimmenden Anlage oder dem Schwimmkörper - gegebenenfalls nach
 durchgeführter Beförderung - ermöglichen, bis zu einem Ort, an dem es
 untersucht oder instandgesetzt wird, ohne Gefahr weiterzufahren.
-
 
 ## § 3
 

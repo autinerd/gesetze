@@ -18,12 +18,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 9 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -35,7 +33,6 @@ nachstehend veröffentlicht.
 (2) Das Übereinkommen gilt entsprechend Nummer 1 des
 Unterzeichnungsprotokolls nicht auf Binnenseen, die keine schiffbare
 Verbindung mit anderen Wasserstraßen haben.
-
 
 ## Art 2
 
@@ -57,7 +54,6 @@ und nach Artikel 8 des Übereinkommens zuständigen Stellen für die
 Schiffseichung (Schiffsvermessung) auf Gewässern, die nicht
 Bundeswasserstraßen sind, durch Rechtsverordnung zu bestimmen.
 
-
 ## Art 3
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
@@ -65,7 +61,6 @@ Anwendung dieses Gesetzes feststellt. Rechtsverordnungen, die auf
 Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14
 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I
 S. 1).
-
 
 ## Art 4
 

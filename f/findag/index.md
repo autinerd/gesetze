@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2a G v. 28.11.2012 I 2369
 
-
 ## Erster Abschnitt - Errichtung, Aufsicht, Aufgaben
-
-
 
 ### § 1 Errichtung
 
@@ -44,17 +41,14 @@ die Gerichte für Arbeitssachen zuständig sind, nicht anzuwenden.
 (4) Die Bundesanstalt ist in Verfahren vor den ordentlichen Gerichten
 von der Zahlung der Gerichtskosten befreit.
 
-
 ### § 2 Rechts- und Fachaufsicht
 
 Die Bundesanstalt untersteht der Rechts- und Fachaufsicht des
 Bundesministeriums der Finanzen (Bundesministerium).
 
-
 ### § 3 (weggefallen)
 
 —
-
 
 ### § 4 Aufgaben und Zusammenarbeit
 
@@ -109,7 +103,6 @@ anderer Personen und Einrichtungen bedienen.
 (4) Die Bundesanstalt nimmt ihre Aufgaben und Befugnisse nur im
 öffentlichen Interesse wahr.
 
-
 ### § 4a Meinungsverschiedenheiten bei der laufenden Überwachung
 
 Meinungsverschiedenheiten von erheblicher Bedeutung zwischen der
@@ -118,7 +111,6 @@ Bundesanstalt und der Deutschen Bundesbank im Rahmen der laufenden
 Zahlungsdiensteaufsichtsgesetz sollen einvernehmlich beigelegt werden.
 Kann ein Einvernehmen nicht hergestellt werden, entscheidet das
 Bundesministerium im Benehmen mit der Deutschen Bundesbank.
-
 
 ### § 4b Beschwerden
 
@@ -146,7 +138,6 @@ dieses um Mitteilung bitten, ob es mit der Übermittlung der
 Stellungnahme oder von Teilen der Stellungnahme an den
 Beschwerdeführer einverstanden ist.
 
-
 ### § 4c Aktenvorlage und Auskunftspflicht in verwaltungsgerichtlichen Verfahren
 
 Für die Vorlage von Urkunden oder Akten, die Übermittlung
@@ -155,10 +146,7 @@ Bundesanstalt in verwaltungsgerichtlichen Verfahren ist § 99 der
 Verwaltungsgerichtsordnung mit der Maßgabe anzuwenden, dass an die
 Stelle der obersten Aufsichtsbehörde die Bundesanstalt tritt.
 
-
 ## Zweiter Abschnitt - Organisation
-
-
 
 ### § 5 Organe, Satzung
 
@@ -190,10 +178,6 @@ Bestimmungen aufzunehmen über
 
 
 5.  die Haushaltsführung sowie die Rechnungslegung der Bundesanstalt.
-
-
-
-
 
 ### § 6 Leitung
 
@@ -230,7 +214,6 @@ Wertpapieraufsicht.
 
 (5) Der Präsident oder die Präsidentin vertritt die Bundesanstalt
 gerichtlich und außergerichtlich.
-
 
 ### § 7 Verwaltungsrat
 
@@ -312,7 +295,6 @@ bei einer vorübergehenden Verhinderung des Mitglieds übernimmt der
 ernannte Stellvertreter die Aufgaben. Die Absätze 1 bis 8 finden auf
 die stellvertretenden Mitglieder entsprechende Anwendung.
 
-
 ### § 8 Fachbeirat
 
 (1) Bei der Bundesanstalt wird ein Fachbeirat gebildet. Er berät die
@@ -329,10 +311,7 @@ Verbraucherschutzvereinigungen angemessen vertreten sein.
 (3) Der Fachbeirat wählt aus seinem Kreis einen Vorsitzenden. Der
 Fachbeirat gibt sich eine Geschäftsordnung.
 
-
 ## Dritter Abschnitt - Personal
-
-
 
 ### § 9 Rechtsstellung der Mitglieder des Direktoriums
 
@@ -419,7 +398,6 @@ sind sinngemäß anzuwenden.
 (9) Die Absätze 7 und 8 gelten für Richter oder Richterinnen und für
 Berufssoldaten oder Berufssoldatinnen entsprechend.
 
-
 ### § 9a Beamte
 
 (1) Der Bundesanstalt wird das Recht verliehen, Beamte zu haben.
@@ -432,7 +410,6 @@ Beamten.
 Präsidentin. Der Präsident oder die Präsidentin kann seine oder ihre
 Befugnisse nach diesem Absatz auf ein oder mehrere Mitglieder des
 Direktoriums übertragen.
-
 
 ### § 10 Angestellte, Arbeiter und Auszubildende
 
@@ -447,7 +424,6 @@ dies für die Durchführung der Aufgaben erforderlich ist. Satz 1 gilt
 für die sonstige Gewährung von über- oder außertariflichen Leistungen
 entsprechend.
 
-
 ### § 10a Stellenzulage
 
 (1) Die bei der Bundesanstalt verwendeten Beamten erhalten eine nicht
@@ -460,13 +436,11 @@ mit Zustimmung des Bundesministeriums der Finanzen und des
 Bundesministeriums des Innern außertariflich eine entsprechende Zulage
 gewähren.
 
-
 ### § 10b Personalgewinnungszuschlag
 
 Die Bundesanstalt kann durch Beschluss des Direktoriums mit Zustimmung
 des Verwaltungsrats von § 43 Absatz 11 des Bundesbesoldungsgesetzes
 abweichen.
-
 
 ### § 11 Verschwiegenheitspflicht
 
@@ -478,10 +452,7 @@ für die Mitglieder des Verwaltungsrats und der Beiräte hinsichtlich
 der ihnen bei Wahrnehmung ihrer Aufgaben bekannt gewordenen Tatsachen
 entsprechend.
 
-
 ## Vierter Abschnitt - Haushaltsplan, Rechnungslegung, Deckung des Verwaltungsaufwands
-
-
 
 ### § 12 Haushaltsplan, Rechnungslegung
 
@@ -524,7 +495,6 @@ vorzunehmen. Die Ergebnisse der Prüfung sind dem Direktorium, dem
 Verwaltungsrat und dem Bundesministerium sowie dem Bundesrechnungshof
 zuzuleiten.
 
-
 ### § 13 Deckung der Kosten der Aufsicht
 
 (1) Die Bundesanstalt deckt ihre Kosten, einschließlich der Kosten,
@@ -540,10 +510,7 @@ wird durch Vereinbarung zwischen dem Bund und der Bundesanstalt
 festgelegt. Das Darlehen ist so bald wie möglich zurückzuzahlen,
 spätestens jedoch mit dem Ende des Haushaltsjahres.
 
-
 ## Fünfter Abschnitt - Gebühren und Umlage, Zwangsmittel
-
-
 
 ### § 14 Gebühren für Amtshandlungen
 
@@ -571,7 +538,6 @@ Bundesanstalt übertragen.
 sie auch auf die bei ihrem Inkrafttreten anhängigen
 Verwaltungsverfahren anzuwenden ist, soweit in diesem Zeitpunkt die
 Gebühr nicht bereits festgesetzt ist.
-
 
 ### § 15 Gesonderte Erstattung
 
@@ -704,7 +670,6 @@ Erstattungsbetrags, insbesondere die Stundensätze für den Einsatz von
 Mitarbeitern dieser Behörden, bestimmen sich nach
 Erstattungsrichtlinien, die das Bundesministerium erlässt.
 
-
 ### § 16 Umlage
 
 Soweit die Kosten der Bundesanstalt nicht durch Gebühren, gesonderte
@@ -719,7 +684,6 @@ Inland, deren Wertpapiere an einer inländischen Börse zum Handel
 zugelassen oder in den Freiverkehr einbezogen sind, sowie die
 bundesrechtlichen Abwicklungsanstalten nach Maßgabe der §§ 16a bis 16q
 umzulegen.
-
 
 ### § 16a Umlagefähige Kosten; Umlagejahr
 
@@ -736,7 +700,6 @@ Entnahmen aus einer Investitionsrücklage. Bußgelder bleiben
 unberücksichtigt.
 
 (3) Das Haushaltsjahr ist das Umlagejahr im Sinne dieses Gesetzes.
-
 
 ### § 16b Kostenermittlung nach Aufsichtsbereichen und Gruppen
 
@@ -786,7 +749,6 @@ Einnahmen, die keinem Aufsichtsbereich unmittelbar zugerechnet werden
 können, sind vor Verteilung der Gemeinkosten nach Absatz 3 von diesen
 abzuziehen.
 
-
 ### § 16c Fehlbeträge, nicht eingegangene Beträge und Überschüsse der Vorjahre
 
 (1) Nach Ermittlung und Verteilung der Kosten für das Umlagejahr nach
@@ -823,7 +785,6 @@ Fehlbeträge und nicht eingegangenen Beträge die zu verrechnenden
 Umlage für das Umlagejahr 2013 oder für spätere Umlagejahre vor
 Verteilung der Gemeinkosten zu diesen hinzuzurechnen.
 
-
 ### § 16d Umlagebetrag, Umlagepflicht und Verteilungsschlüssel
 
 Umlagebetrag ist der Anteil an den umlagefähigen Kosten, der innerhalb
@@ -832,7 +793,6 @@ ermittelt wird. Ein Umlagepflichtiger kann mehreren Aufsichtsbereichen
 oder Gruppen innerhalb eines Aufsichtsbereichs zugeordnet sein. Die
 Umlagepflicht und die Verteilung der Kosten innerhalb eines
 Aufsichtsbereichs bestimmen sich nach Maßgabe der §§ 16e bis 16j.
-
 
 ### § 16e Kostenermittlung und Umlagepflicht im Aufsichtsbereich Banken und sonstige Finanzdienstleistungen
 
@@ -931,7 +891,6 @@ Erlaubnis zum Betreiben eines anderen Geschäfts erteilt, wird der
 Umlagepflichtige nach Maßgabe der Regelungen zur Umlage herangezogen,
 die für das Geschäft gelten, auf das sich die zuletzt im Umlagejahr
 bestehende Erlaubnis bezieht.
-
 
 ### § 16f Bemessungsgrundlagen der Umlage im Aufsichtsbereich Banken und sonstige Finanzdienstleistungen
 
@@ -1086,7 +1045,6 @@ vorliegenden Bilanzdaten der anderen Umlagepflichtigen derselben nach
 § 16g Absatz 1 Nummer 1 Buchstabe a bis d oder Nummer 2 bestimmten
 Gruppe zu erfolgen.
 
-
 ### § 16g Mindestumlagebeträge im Aufsichtsbereich Banken und sonstige Finanzdienstleistungen
 
 (1) Der von jedem Umlagepflichtigen des Aufsichtsbereichs Banken und
@@ -1201,10 +1159,6 @@ erhöhen sich
 
 12. ab einer Bilanzsumme von 100 Millionen Euro auf 100 000 Euro.
 
-
-
-
-
 ### § 16h Aufsichtsbereich Versicherungen
 
 (1) Umlagepflichtig im Aufsichtsbereich Versicherungen ist die
@@ -1235,7 +1189,6 @@ der Monate des Umlagejahres entspricht.
 (4) Der von jedem Umlagepflichtigen des Aufsichtsbereichs
 Versicherungen zu entrichtende Umlagebetrag beträgt mindestens 250
 Euro.
-
 
 ### § 16i Kostenermittlung und Umlagepflicht im Aufsichtsbereich Wertpapierhandel
 
@@ -1285,7 +1238,6 @@ geltenden Fassung genannten Gruppen des Aufsichtsbereichs
 Wertpapierhandel gelten ab der Abrechnung für das Umlagejahr 2013 als
 Fehlbeträge, nicht eingegangene Beträge und Überschüsse der Gruppe
 Wertpapierdienstleistungsunternehmen und Anlageverwalter.
-
 
 ### § 16j Bemessungsgrundlagen der Umlage im Aufsichtsbereich Wertpapierhandel
 
@@ -1461,7 +1413,6 @@ Absatz 2 der Bundesanstalt zu übermitteln sind. Das Bundesministerium
 kann die Ermächtigung zum Erlass der Rechtsverordnung nach Satz 1 auf
 die Bundesanstalt übertragen.
 
-
 ### § 16k Entstehung der Umlageforderung, Festsetzung des Umlagebetrages und Fälligkeit
 
 (1) Die Umlageforderung entsteht mit Ablauf des Umlagejahres, für das
@@ -1492,7 +1443,6 @@ die Umlagepflichtigen damit einverstanden erklärt haben oder der
 Verband erklärt hat, zum Empfang der Festsetzungen ermächtigt zu sein.
 Eine gesonderte Bekanntgabe der Festsetzung an den einzelnen
 verbandsangehörigen Umlagepflichtigen ist insoweit entbehrlich.
-
 
 ### § 16l Festsetzung und Fälligkeit von Umlagevorauszahlungen
 
@@ -1535,7 +1485,6 @@ des Absatzes 3 zu verteilen. Für den nach Satz 1 festgesetzten
 Vorauszahlungsbetrag hat die Bundesanstalt den Zeitpunkt der
 Fälligkeit zu bestimmen.
 
-
 ### § 16m Differenz zwischen Umlagebetrag und Vorauszahlung
 
 (1) Entsteht nach der Anrechnung des gezahlten
@@ -1552,7 +1501,6 @@ erlöschen durch Verjährung, wenn sie nicht bis zum Ablauf des fünften
 Kalenderjahres nach dem Kalenderjahr geltend gemacht werden, in dem
 die Festsetzung des Umlagebetrages oder die Aufhebung des
 Vorauszahlungsbescheides unanfechtbar geworden ist.
-
 
 ### § 16n Säumniszuschläge; Beitreibung
 
@@ -1598,7 +1546,6 @@ Verwaltungs-Vollstreckungsgesetzes durch die Bundesanstalt
 beigetrieben. Vollstreckungsbehörde ist das für den Sitz oder die
 Niederlassung des Vollstreckungsschuldners zuständige Hauptzollamt.
 
-
 ### § 16o Festsetzungsverjährung
 
 (1) Die Festsetzung des Umlagebetrages ist nicht mehr zulässig, wenn
@@ -1617,7 +1564,6 @@ nach Ablauf der Festsetzungsfrist eingelegt wird. Der Ablauf der
 Festsetzungsfrist ist hinsichtlich des gesamten Anspruchs gehemmt.
 Satz 1 gilt entsprechend für vor Ablauf der Festsetzungsfrist
 gestellte Anträge auf Aufhebung oder Änderung der Festsetzung.
-
 
 ### § 16p Zahlungsverjährung
 
@@ -1714,7 +1660,6 @@ die Festsetzung unanfechtbar geworden ist oder sich das Verfahren auf
 andere Weise erledigt hat. Die Frist nach Satz 1 kann durch
 verjährungsunterbrechende Maßnahmen nach Absatz 3 unterbrochen werden.
 
-
 ### § 16q Erstattung überzahlter Umlagebeträge
 
 (1) Zu Unrecht erhobene Umlagebeträge und sonstige Überzahlungen auf
@@ -1732,7 +1677,6 @@ durch Verjährung, wenn sie nicht bis zum Ablauf des fünften
 Kalenderjahres geltend gemacht werden, das auf die Entstehung des
 Anspruchs folgt.
 
-
 ### § 17 Zwangsmittel
 
 Die Bundesanstalt kann ihre Verfügungen, die sie innerhalb ihrer
@@ -1742,10 +1686,7 @@ kann sie die Zwangsmittel für jeden Fall der Nichtbefolgung androhen.
 Sie kann auch Zwangsmittel gegen juristische Personen des öffentlichen
 Rechts anwenden. Die Höhe des Zwangsgelds beträgt bis zu 250.000 Euro.
 
-
 ## Sechster Abschnitt - Finanzierung gesonderter Aufgaben
-
-
 
 ### § 17a Finanzierung gesonderter Aufgaben
 
@@ -1763,7 +1704,6 @@ die in Satz 1 genannten Aufgaben werden entsprechend gesondert erfasst
 und einem eigenen Buchungskreislauf zugeordnet. Im Übrigen sind § 12
 Abs. 1, 3 bis 5 und § 13 Abs. 2 Satz 1 und 2 entsprechend anzuwenden.
 
-
 ### § 17b Gebühren für gesonderte Amtshandlungen
 
 (1) Die Bundesanstalt kann für Amtshandlungen im Rahmen der ihr
@@ -1780,7 +1720,6 @@ Absatzes 1 durch feste Sätze oder Rahmensätze oder durch Regelungen
 Amtshandlungen näher zu bestimmen. § 14 Abs. 2 Satz 2, 3 und Abs. 3
 ist entsprechend anzuwenden. Das Bundesministerium kann die
 Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
-
 
 ### § 17c Gesonderte Erstattung bei gesonderten Prüfungen
 
@@ -1802,7 +1741,6 @@ Bundesministerium wird ermächtigt, Einzelheiten der gesonderten
 Erstattung durch eine Rechtsverordnung zu bestimmen. Das
 Bundesministerium kann die Ermächtigung durch Rechtsverordnung auf die
 Bundesanstalt übertragen.
-
 
 ### § 17d Gesonderte Umlage
 
@@ -1855,10 +1793,7 @@ berücksichtigen, die zur Errichtung der Prüfstelle erforderlich waren,
 auch wenn sie bereits vor Anerkennung der Prüfstelle nach § 342b des
 Handelsgesetzbuchs entstanden sind.
 
-
 ## Siebenter Abschnitt - Übergangs- und Schlussbestimmungen
-
-
 
 ### § 18 Übergangsbestimmungen
 
@@ -1905,7 +1840,6 @@ Weiterhin sind auf diese die Vorschriften der Anlage I des
 Bundesbesoldungsgesetzes in der vor dem 9. Dezember 2011 geltenden
 Fassung bis zur Übertragung eines anderen Amtes anzuwenden.
 
-
 ### § 19 Überleitung/Übernahme von Beschäftigten
 
 (1) Die Beamten der Bundesaufsichtsämter für das Kreditwesen, für das
@@ -1926,7 +1860,6 @@ Die Bundesanstalt tritt unbeschadet des § 10 Abs. 1 in die Rechte und
 Pflichten aus den im Zeitpunkt der Übernahme bestehenden Arbeits- und
 Ausbildungsverhältnisse ein.
 
-
 ### § 20 Verteilung der Versorgungskosten
 
 (1) Die Bundesanstalt trägt die Versorgungsbezüge für die bei ihr
@@ -1944,7 +1877,6 @@ des Beamtenversorgungsgesetzes entsprechend.
 für das Kreditwesen, für das Versicherungswesen und für den
 Wertpapierhandel werden die Versorgungsbezüge vom Bund getragen.
 
-
 ### § 21 Übergang von Rechten und Pflichten
 
 (1) Rechte und Pflichten, die die Bundesaufsichtsämter für das
@@ -1956,7 +1888,6 @@ haben, gehen auf die Bundesanstalt über.
 Bundesanstalt genutzte bewegliche Verwaltungsvermögen der
 Bundesrepublik Deutschland wird der Bundesanstalt zur unentgeltlichen
 Nutzung überlassen.
-
 
 ### § 22 Übergangsvorschriften zum Gesetz zur Stärkung der deutschen Finanzaufsicht
 
@@ -1974,7 +1905,6 @@ geltenden Fassung und ihrer Stellvertreter endet am 1. März 2013.
 (3) § 10a Absatz 1 ist erstmals anzuwenden auf die laufenden
 Dienstbezüge, die für einen nach dem 31. Dezember 2012 endenden
 Zahlungszeitraum gezahlt werden.
-
 
 ### § 23 Übergangsbestimmungen zur Umlageerhebung für das Jahr 2012
 

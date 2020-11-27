@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1975, 2479
 
-
-
 ## I.
 
 Auf Grund der Anordnung des Bundespräsidenten über die Ernennung und
@@ -48,20 +46,14 @@ Anstellung - je für ihren Geschäftsbereich - auf
 
     *   der Zentralstelle für Betriebswirtschaft und Datenverarbeitung.
 
-
-
-
-
 ## II.
 
 Wir behalten uns im Einzelfall die Ernennung und Entlassung der in
 Abschnitt I genannten Bundesbahnbeamten vor.
 
-
 ## III.
 
 Die Anordnung tritt mit Wirkung vom 1. September 1975 in Kraft.
-
 
 ## Schlußformel
 

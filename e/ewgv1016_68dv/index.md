@@ -20,10 +20,7 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 13.12.1984 I 1545
 
-
 ## Abschnitt 1 - Vorschriften über die Bescheinigung für die Beförderung von Arbeitnehmern des eigenen Betriebs durch den Unternehmer
-
-
 
 ### § 1 Einreichung der Bescheinigung
 
@@ -38,25 +35,21 @@ Genehmigungsbehörde einzureichen.
 ergibt, daß der zu verwendende Kraftomnibus Eigentum des Unternehmers
 oder von ihm auf Abzahlung gekauft worden ist.
 
-
 ### § 2 Festsetzung der Gültigkeitsdauer der Bescheinigung
 
 Die Genehmigungsbehörde hat die Gültigkeitsdauer der Bescheinigung
 festzusetzen. Die Gültigkeitsdauer beträgt höchstens ein Jahr; sie ist
 in der Bescheinigung zu vermerken.
 
-
 ### § 3 Aushändigung der Bescheinigung
 
 Das Original der Bescheinigung ist dem Unternehmer auszuhändigen; die
 Durchschrift der Bescheinigung verbleibt bei der Genehmigungsbehörde.
 
-
 ### § 4 Mitführen der Bescheinigung
 
 Der Fahrer hat das Original der Bescheinigung während der ganzen Dauer
 der Fahrten, für die sie gilt, mitzuführen.
-
 
 ### § 5 Aufbewahrung der Bescheinigung
 
@@ -65,7 +58,6 @@ aufzubewahren.
 
 (2) Die Frist nach Absatz 1 beginnt mit dem Ablauf der Gültigkeit der
 Bescheinigung.
-
 
 ### § 6 Maßnahmen der Kontrolle
 
@@ -81,16 +73,12 @@ die Beförderung nicht dem Inhalt der Bescheinigung entspricht.
 zuständigen Kontrollbeamten Sichtvermerke oder Bemerkungen über
 Beanstandungen anbringen.
 
-
 ## Abschnitt 2 - Vorschriften über das Fahrtenheft und die Fahrtenblätter
-
-
 
 ### § 7 Gültigkeitsdauer des Fahrtenhefts
 
 Das Fahrtenheft gilt bis zum Aufbrauch, längstens jedoch fünf Jahre
 gerechnet ab dem Tag der Ausgabe.
-
 
 ### § 8 Aufbewahrung der Kontrolldokumente
 
@@ -104,7 +92,6 @@ die das Fahrtenheft gilt.
 
 (3) Die Vorschriften der Absätze 1 und 2 gelten entsprechend für
 verschriebene oder sonst unbrauchbar gewordene Fahrtenblätter.
-
 
 ### § 9 Maßnahmen der Kontrolle
 
@@ -128,10 +115,7 @@ kann die Fortsetzung der Fahrt untersagt werden.
 zuständigen Kontrollbeamten Sichtvermerke oder Bemerkungen über
 Beanstandungen anbringen.
 
-
 ## Abschnitt 3 - Aufsicht
-
-
 
 ### § 10
 
@@ -143,10 +127,7 @@ Fassung der Aufsicht der Genehmigungsbehörde. Die Durchführung der
 Aufsicht richtet sich nach den Vorschriften der §§ 54 und 54a des
 Personenbeförderungsgesetzes.
 
-
 ## Abschnitt 4 - Ordnungswidrigkeiten
-
-
 
 ### § 11
 
@@ -218,23 +199,13 @@ Personenbeförderungsgesetzes handelt, wer vorsätzlich oder fahrlässig
         Fassung oder des Artikels 10 Satz 2 des ASOR-Übereinkommens die Zahl
         der Fahrgäste nicht, nicht rechtzeitig oder nicht richtig angibt.
 
-
-
-
-
-
-
-
 ## Abschnitt 5 - Übergangs- und Schlußvorschriften
-
-
 
 ### § 12 Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 66 des Personenbeförderungsgesetzes auch im Land
 Berlin.
-
 
 ### § 13
 

@@ -18,12 +18,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 5.10.2009 I 3542
 
-
 ## Eingangsformel
 
 Auf Grund des § 31 des Eichgesetzes vom 11. Juli 1969 (Bundesgesetzbl.
 I S. 759) wird verordnet:
-
 
 ## § 1 Anwendungsbereich
 
@@ -36,13 +34,11 @@ Messungen, Prüfungen, Konformitätsbewertungen, Begutachtungen und
 Beratungen, zu deren Inanspruchnahme der Kostenschuldner gesetzlich
 nicht verpflichtet ist.
 
-
 ## § 1a Gebühr in besonderen Fällen
 
 Gebühren werden auch für Nutzleistungen erhoben, die nicht begonnen
 oder nicht zu Ende geführt worden sind, wenn die Gründe von demjenigen
 zu vertreten sind, der die Nutzleistung veranlaßt hat.
-
 
 ## § 2 Berechnung der Gebühr
 
@@ -61,7 +57,6 @@ der §§ 4 bis 6 zuzüglich einem Entgelt für
 
 Für häufig wiederkehrende Nutzleistungen werden statt der Gebühr nach
 § 3 Festgebühren nach § 3a erhoben.
-
 
 ## § 3 Gebühr nach Zeitaufwand, Reise- und Wartezeiten
 
@@ -99,15 +94,10 @@ sind Gebühren nach dem Zeitaufwand ferner zu berechnen für
 
 2.  Wartezeiten, die vom Kostenschuldner verursacht worden sind.
 
-
-
-
-
 ## § 3a Festgebühr bei häufig wiederkehrenden Leistungen
 
 Für häufig wiederkehrende Nutzleistungen in den einzelnen
 Tätigkeitsbereichen werden Festgebühren gemäß der Anlage 2 erhoben.
-
 
 ## § 4 Sonderaufwendungen
 
@@ -117,12 +107,10 @@ oder andere Vorkehrungen oder Hilfsmittel oder verursacht die
 Nutzleistung sonstige überdurchschnittliche Kosten, so sind diese
 Sonderaufwendungen entsprechend den Selbstkosten zu berechnen.
 
-
 ## § 5 Überlassung von Anlagen und Geräten auf Zeit
 
 Die Überlassung von Anlagen und Geräten auf Zeit ist entsprechend den
 Selbstkosten zu berechnen.
-
 
 ## § 6 Beschleunigt erbrachte Nutzleistungen
 
@@ -131,14 +119,12 @@ der Reihe der laufenden Arbeiten erbracht, so kann ein Zuschlag von
 höchstens 100 vom Hundert der nach den §§ 3 bis 5 errechneten Gebühr
 erhoben werden.
 
-
 ## § 7 Ermäßigung der Gebühr
 
 Ergibt die Berücksichtigung des wirtschaftlichen Wertes der
 Nutzleistung für den Antragsteller im Einzelfall, daß die nach den §§
 3 bis 5 errechnete Gebühr unverhältnismäßig hoch ist, so kann sie um
 einen angemessenen Betrag ermäßigt werden.
-
 
 ## § 8 Auslagen
 
@@ -157,18 +143,11 @@ Als Auslagen sind zu erstatten:
 
 4.  Aufwendungen für Lieferungen und Leistungen Dritter.
 
-
-
-
-
 ## (XXXX) §§ 10 bis 17 (weggefallen)
-
-
 
 ## Schlußformel
 
 Der Bundesminister für Wirtschaft
-
 
 ## Anlage 1 (zu § 3)
 
@@ -428,7 +407,6 @@ aufgeführten Stundensätze berechnet:
 
 \*) Stundensatz für Tätigkeiten auf Grundlage der europäischen
 Messgeräterichtlinie 2004/22/EG (sogenannte MID).
-
 
 ## Anlage 2 (zu § 3a)
 

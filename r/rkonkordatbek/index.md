@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   RGBl II: 1933, 679
 
-
-
 ## (XXXX)
 
 

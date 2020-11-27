@@ -21,11 +21,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 Abs. 1 G v. 16.8.1980 II 941
 
-
 ## Art 1
 
 -
-
 
 ## Art 2
 
@@ -33,7 +31,6 @@ Zuletzt geändert durch
 
 (2) Der Tag, an dem das Abkommen gemäß Artikel XI § 44 in Kraft tritt,
 ist im Bundesgesetzblatt bekanntzugeben.
-
 
 ## Art 3
 
@@ -74,20 +71,12 @@ erforderlich ist, Rechtsverordnungen zu erlassen
     d)  die Sachverständigen, die Aufträge für diese Organisationen
         durchführen.
 
-
-
-
-
-
-
-
 ## Art 4
 
 Dieses Gesetz gilt auch im Land Berlin, wenn das Land Berlin seine
 Anwendung feststellt. Rechtsverordnungen, die auf Grund dieses
 Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1).
-
 
 ## Art 5
 

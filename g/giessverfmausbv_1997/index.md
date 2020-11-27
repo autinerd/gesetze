@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1997, 1260
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
@@ -29,13 +27,11 @@ Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975
 Einvernehmen mit dem Bundesministerium für Bildung, Wissenschaft,
 Forschung und Technologie:
 
-
 ## § 1 Staatliche Anerkennung der Ausbildungsberufe
 
 Die Ausbildungsberufe Gießereimechaniker/Gießereimechanikerin und
 Verfahrensmechaniker/Verfahrensmechanikerin in der Hütten- und
 Halbzeugindustrie werden staatlich anerkannt.
-
 
 ## § 2 Ausbildungsdauer, Fachrichtungen
 
@@ -81,7 +77,6 @@ einer Verordnung gemäß § 29 Abs. 1 des Berufsbildungsgesetzes als
 erstes Jahr der Berufsausbildung anzurechnen ist, beginnen die
 betriebliche Ausbildung im zweiten Ausbildungsjahr.
 
-
 ## § 3 Berufsfeldbreite Grundbildung und Zielsetzung der Berufsausbildung
 
 (1) Die Ausbildung im ersten Ausbildungsjahr vermittelt eine
@@ -98,7 +93,6 @@ Planen, Durchführen und Kontrollieren einschließt. Die Vermittlung
 orientiert sich an den Anforderungen des Berufs mit der jeweiligen
 Fachrichtung. Die in Satz 1 beschriebene Befähigung ist auch in den
 Prüfungen nach den §§ 9, 10 und 11 nachzuweisen.
-
 
 ## § 4 Ausbildungsberufsbild für den Gießereimechaniker/für die Gießereimechanikerin
 
@@ -288,13 +282,6 @@ mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 
     i)  Qualitätssicherung.
-
-
-
-
-
-
-
 
 ## § 5 Ausbildungsberufsbild für den Verfahrensmechaniker/für die Verfahrensmechanikerin in der Hütten- und Halbzeugindustrie
 
@@ -486,13 +473,6 @@ mindestens die folgenden Fertigkeiten und Kenntnisse:
 
     h)  Qualitätssicherung.
 
-
-
-
-
-
-
-
 ## § 6 Ausbildungsrahmenplan
 
 Die Fertigkeiten und Kenntnisse nach § 4 sollen nach den in der Anlage
@@ -506,12 +486,10 @@ sachliche und zeitliche Gliederung der Ausbildungsinhalte ist
 insbesondere zulässig, soweit betriebspraktische Besonderheiten die
 Abweichung erfordern.
 
-
 ## § 7 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 8 Berichtsheft
 
@@ -519,7 +497,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 9 Zwischenprüfung
 
@@ -648,7 +625,6 @@ folgenden Gebieten schriftlich lösen:
 (5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere
 unterschritten werden, soweit die schriftliche Prüfung in
 programmierter Form durchgeführt wird.
-
 
 ## § 10 Abschlußprüfung für den Ausbildungsberuf Gießereimechaniker/Gießereimechanikerin
 
@@ -902,7 +878,6 @@ Gewicht.
 schriftlichen Prüfung sowie innerhalb der schriftlichen Prüfung im
 Prüfungsbereich Gußstückherstellung mindestens ausreichende Leistungen
 erbracht sind.
-
 
 ## § 11 Abschlußprüfung für den Ausbildungsberuf Verfahrensmechaniker/Verfahrensmechanikerin in der Hütten- und Halbzeugindustrie
 
@@ -1158,7 +1133,6 @@ des gewogenen Durchschnitts sind die Prüfungsbereiche
 Produktionstechnik und Fertigungsverfahren sowie Instandhaltung im
 Verhältnis 2 zu 1 zu gewichten.
 
-
 ## § 12 Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
@@ -1166,11 +1140,9 @@ Verordnung bestehen, sind die bisherigen Vorschriften weiter
 anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
 Anwendung der Vorschriften in dieser Verordnung.
 
-
 ## § 13 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 1997 in Kraft.
-
 
 ## Anlage 1 (zu § 6) Ausbildungsrahmenplan für die Berufsausbildung zum Gießereimechaniker/zur Gießereimechanikerin
 
@@ -3908,10 +3880,6 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 *    *   \*) Im Zusammenhang mit anderen Ausbildungsinhalten der beruflichen
         Grundbildung zu vermitteln.
 
-
-
-
-
 ## Anlage 2 (zu § 6) Ausbildungsrahmenplan für die Berufsausbildung zum Verfahrensmechaniker/zur Verfahrensmechanikerin in der Hütten- und Halbzeugindustrie
 
 (Fundstelle: BGBl. I 1997, 1286 - 1303)
@@ -4347,7 +4315,6 @@ I               I        Verwendung unterscheiden    I
 ---------
 \*) Im Zusammenhang mit anderen Ausbildungsinhalten der beruflichen
 Grundbildung zu vermitteln.
-
 
 ## II. Berufliche Fachbildung
 

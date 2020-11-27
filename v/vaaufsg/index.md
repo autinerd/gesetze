@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 178 V v. 31.10.2006 I 2407
 
-
 ## § 1
 
 Das Bundesministerium für Arbeit und Soziales führt die Rechts- und
@@ -39,7 +38,6 @@ entsprechend anzuwenden. Die Aufsichtsbehörde kann Vertreter in die
 Sitzungen der Ausschüsse des Verwaltungsrates entsenden; die Vertreter
 sind jederzeit anzuhören.
 
-
 ## § 2
 
 Die Aufsichtsbehörde bestimmt Inhalt, Form und Gliederung des
@@ -52,7 +50,6 @@ Ablauf des Geschäftsjahres der Aufsichtsbehörde vorzulegen. Die
 Aufsichtsbehörde erläßt Vorschriften über die Rechnungslegung für
 Aufsichtszwecke.
 
-
 ## § 3
 
 Die Versorgungsanstalten haben spätestens alle vier Jahre im Rahmen
@@ -64,14 +61,12 @@ Monaten nach dem dem Gutachten zugrundeliegenden Bilanzstichtag
 vorzulegen; das Nähere bestimmt die Aufsichtsbehörde, sie kann dabei
 eine längere Frist festlegen.
 
-
 ## § 4
 
 Für die Prüfung des Jahresabschlusses der Versorgungsanstalten gelten
 die §§ 57 bis 59 des Versicherungsaufsichtsgesetzes entsprechend mit
 der Maßgabe, daß der Präsident der Bayerischen Versicherungskammer den
 Abschlußprüfer bestimmt.
-
 
 ## § 5
 

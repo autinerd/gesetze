@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 2319
 
-
 ## § 1 Anwendungsbereich
 
 (1) Dieses Gesetz ist anzuwenden auf einen Vertrag zwischen einem
@@ -57,7 +56,6 @@ Dies gilt auch, wenn in den Fällen des Satzes 1 die Leistungen von
 verschiedenen Unternehmern geschuldet werden, es sei denn, diese sind
 nicht rechtlich oder wirtschaftlich miteinander verbunden.
 
-
 ## § 2 Ausnahmen vom Anwendungsbereich
 
 Dieses Gesetz ist nicht anzuwenden auf Verträge über
@@ -76,10 +74,6 @@ Dieses Gesetz ist nicht anzuwenden auf Verträge über
 
 4.  Leistungen, die im Rahmen von Kur- oder Erholungsaufenthalten erbracht
     werden.
-
-
-
-
 
 ## § 3 Informationspflichten vor Vertragsschluss
 
@@ -145,7 +139,6 @@ bleiben unberührt.
 (5) Die sich aus anderen Gesetzen ergebenden Informationspflichten
 bleiben unberührt.
 
-
 ## § 4 Vertragsschluss und Vertragsdauer
 
 (1) Der Vertrag wird auf unbestimmte Zeit geschlossen. Die
@@ -177,7 +170,6 @@ Verbrauchers nicht überschritten wird. In diesen Fällen ermäßigt sich
 das geschuldete Entgelt um den Wert der ersparten Aufwendungen des
 Unternehmers.
 
-
 ## § 5 Wechsel der Vertragsparteien
 
 (1) Mit Personen, die mit dem Verbraucher einen auf Dauer angelegten
@@ -199,7 +191,6 @@ Vertragsverhältnisses von dem Unternehmer an einen Dritten veräußert,
 gelten für die Rechte und Pflichten des Erwerbers hinsichtlich der
 Überlassung des Wohnraums die §§ 566 bis 567b des Bürgerlichen
 Gesetzbuchs entsprechend.
-
 
 ## § 6 Schriftform und Vertragsinhalt
 
@@ -235,10 +226,6 @@ muss der schriftliche Vertragsschluss unverzüglich nachgeholt werden.
 3.  die Informationen des Unternehmers nach § 3 als Vertragsgrundlage
     benennen und mögliche Abweichungen von den vorvertraglichen
     Informationen gesondert kenntlich machen.
-
-
-
-
 
 ## § 7 Leistungspflichten
 
@@ -284,7 +271,6 @@ in Anspruch nehmen, ergibt sich die Höhe des Anrechnungsbetrags aus
 den in § 87a Absatz 1 Satz 7 des Elften Buches Sozialgesetzbuch
 genannten Vereinbarungen.
 
-
 ## § 8 Vertragsanpassung bei Änderung des Pflege- oder Betreuungsbedarfs
 
 (1) Ändert sich der Pflege- oder Betreuungsbedarf des Verbrauchers,
@@ -317,7 +303,6 @@ sind besonders zu berücksichtigen. Die Vereinbarung bedarf zu ihrer
 Wirksamkeit der Schriftform; die elektronische Form ist
 ausgeschlossen.
 
-
 ## § 9 Entgelterhöhung bei Änderung der Berechnungsgrundlage
 
 (1) Der Unternehmer kann eine Erhöhung des Entgelts verlangen, wenn
@@ -340,7 +325,6 @@ erhöhte Entgelt frühestens vier Wochen nach Zugang des hinreichend
 begründeten Erhöhungsverlangens. Der Verbraucher muss rechtzeitig
 Gelegenheit erhalten, die Angaben des Unternehmers durch Einsichtnahme
 in die Kalkulationsunterlagen zu überprüfen.
-
 
 ## § 10 Nichtleistung oder Schlechtleistung
 
@@ -371,7 +355,6 @@ der Sozialhilfe zu. Verbrauchern, die Leistungen nach dem Elften Buch
 Sozialgesetzbuch in Anspruch nehmen, steht der Kürzungsbetrag bis zur
 Höhe ihres Eigenanteils selbst zu; ein überschießender Betrag ist an
 die Pflegekasse auszuzahlen.
-
 
 ## § 11 Kündigung durch den Verbraucher
 
@@ -408,7 +391,6 @@ Vertrag, kann der Verbraucher zu demselben Zeitpunkt alle anderen
 Verträge kündigen. Die Kündigung muss unverzüglich nach Zugang der
 Kündigungserklärung des Unternehmers erfolgen. Absatz 4 Satz 3 und 4
 ist entsprechend anzuwenden.
-
 
 ## § 12 Kündigung durch den Unternehmer
 
@@ -496,7 +478,6 @@ Kenntnis von der Kündigung des anderen Vertrags ausüben. Dies gilt
 unabhängig davon, ob die Kündigung des anderen Vertrags durch ihn,
 einen anderen Unternehmer oder durch den Verbraucher erfolgt ist.
 
-
 ## § 13 Nachweis von Leistungsersatz und Übernahme von Umzugskosten
 
 (1) Hat der Verbraucher nach § 11 Absatz 3 Satz 1 aufgrund eines vom
@@ -526,7 +507,6 @@ Leistungsersatzes zu zumutbaren Bedingungen und unter der
 Voraussetzung des Satzes 2 auch die Übernahme der Umzugskosten von
 jedem Unternehmer fordern, dessen Vertrag gekündigt ist. Die
 Unternehmer haften als Gesamtschuldner.
-
 
 ## § 14 Sicherheitsleistungen
 
@@ -562,7 +542,6 @@ Elften Buches Sozialgesetzbuch in Anspruch nehmen, kann der
 Unternehmer nur für die Erfüllung der die Überlassung von Wohnraum
 betreffenden Pflichten aus dem Vertrag Sicherheiten verlangen.
 
-
 ## § 15 Besondere Bestimmungen bei Bezug von Sozialleistungen
 
 (1) In Verträgen mit Verbrauchern, die Leistungen nach dem Elften Buch
@@ -579,12 +558,10 @@ den aufgrund des Zehnten Kapitels des Zwölften Buches Sozialgesetzbuch
 getroffenen Regelungen entsprechen. Absatz 1 Satz 2 ist entsprechend
 anzuwenden.
 
-
 ## § 16 Unwirksamkeit abweichender Vereinbarungen
 
 Von den Vorschriften dieses Gesetzes zum Nachteil des Verbrauchers
 abweichende Vereinbarungen sind unwirksam.
-
 
 ## § 17 Übergangsvorschrift
 

@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 2093
 
-
 ## (XXXX)
 
 Nach § 20 Absatz 5 Satz 3 des Zweiten Buches Sozialgesetzbuch –
@@ -64,10 +63,6 @@ Januar 2012 anerkannt:
 7.  für Leistungsberechtigte im 15. Lebensjahr monatlich 287 Euro (§ 23
     Nummer 1 dritte Alternative in Verbindung mit § 77 Absatz 4 Nummer 4
     SGB II).
-
-
-
-
 
 ## Schlussformel
 

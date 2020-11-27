@@ -18,13 +18,11 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 5.7.2011 I 1349
 
-
 ## Eingangsformel
 
 Auf Grund des § 2 Abs. 1 und 3 und des § 3 des Ausführungsgesetzes zum
 Chemiewaffenübereinkommen vom 2. August 1994 (BGBl. I S. 1954)
 verordnet die Bundesregierung:
-
 
 ## § 1 Verbote für Chemikalien der Liste 1
 
@@ -64,10 +62,6 @@ Es ist verboten
     veräußern, zu verbrauchen, zu erwerben, einem anderen zu überlassen
     oder sonst die tatsächliche Gewalt über sie auszuüben.
 
-
-
-
-
 ## § 1a Verbote für Chemikalien der Liste 2
 
 Es ist verboten, Chemikalien der in Anhang 1 zu dieser Verordnung
@@ -81,10 +75,6 @@ aufgeführten Liste 2
 
 3.  als Deutscher entsprechende Handlungen nach der Nummer 1 oder 2 im
     Ausland vorzunehmen.
-
-
-
-
 
 ## § 2 Genehmigungsvorbehalte
 
@@ -145,7 +135,6 @@ Liste 1 bedarf es keiner Genehmigung nach Absatz 1 Nr. 2 Buchstabe b.
 hat diese bei den in der Genehmigung festgelegten Zollbehörden unter
 Vorlage dieser Genehmigung anzumelden und auf Verlangen vorzuführen.
 
-
 ## § 3 Erteilung der Genehmigung
 
 (1) Unbeschadet anderer Rechtsvorschriften ist die Genehmigung nach §
@@ -170,7 +159,6 @@ versehen und für übertragbar erklärt werden.
 (5) Die Bestimmungen der Außenwirtschaftsverordnung über Antrag,
 Rückgabe und Aufbewahrung von Genehmigungsbescheiden finden
 entsprechende Anwendung.
-
 
 ## § 4 Meldepflichten bei Produktion, Verarbeitung und Verbrauch
 
@@ -211,7 +199,6 @@ wer ein Werk betreibt, das in dem Bezugszeitraum ausschließlich die in
 Anhang 2 zu dieser Verordnung genannten Explosivstoffe oder
 Chemikalien produziert, die nur aus Kohlenstoff und Wasserstoff
 bestehen.
-
 
 ## § 5 Meldearten und -angaben
 
@@ -403,13 +390,6 @@ bezeichneten Chemikalien enthalten:
         voraussichtlich produzierte Menge, die zur Produktion voraussichtlich
         benötigten Zeiträume sowie den Zweck der Produktion.
 
-
-
-
-
-
-
-
 ## § 6 Meldepflichten bei Ein- und Ausfuhr
 
 (1) Wer
@@ -449,7 +429,6 @@ der §§ 7 und 8 verpflichtet.
 
 enthalten.
 
-
 ## § 7 Weitere Meldevorschriften
 
 (1) Die Jahresabschlußmeldungen und die Meldungen nach § 6 sind bis
@@ -474,7 +453,6 @@ Dabei ist auf die dritte Stelle genau zu runden. Die Sätze 1 und 2
 gelten nicht für die nach § 5 Abs. 4 Nr. 3 in Größenordnungen
 abzugebenden Meldungen.
 
-
 ## § 8 Formvorschriften
 
 (1) Die Anträge auf Erteilung einer Genehmigung nach § 2 und die
@@ -487,7 +465,6 @@ durch Bekanntmachung im Bundesanzeiger die Verwendung bestimmter
 Vordrucke vorschreiben. Es kann gestatten, Anträge und Meldungen in
 anderer Weise, insbesondere durch elektronischen Datenaustausch,
 abzugeben.
-
 
 ## § 9 Ausnahmen für geringe Konzentrationen
 
@@ -529,10 +506,6 @@ sind, die
 
 
 2.  zum einzelnen Gebrauch verpackt sind.
-
-
-
-
 
 ## § 10 Besondere Meldevorschriften
 
@@ -607,7 +580,6 @@ Zeitpunkt abzugeben.
 
 Im übrigen gelten § 7 Abs. 3 und § 8 entsprechend.
 
-
 ## § 11 Bundeswehr und andere Organe
 
 Keiner Genehmigung nach § 2 bedürfen die Bundeswehr, die Polizeien des
@@ -615,7 +587,6 @@ Bundes und die Zollbehörden sowie die übrigen für die
 Aufrechterhaltung der öffentlichen Sicherheit zuständigen Behörden und
 Dienststellen. Die Meldevorschriften dieser Verordnung gelten nicht
 für die Bundeswehr.
-
 
 ## § 12 Ordnungswidrigkeiten
 
@@ -632,10 +603,6 @@ zum Chemiewaffenübereinkommen handelt, wer vorsätzlich oder fahrlässig
 
 3.  entgegen § 2 Abs. 3 Chemikalien nicht oder nicht ordnungsgemäß
     anmeldet oder vorführt.
-
-
-
-
 
 ## § 13 Straftaten
 
@@ -697,14 +664,9 @@ Chemiewaffenübereinkommen wird bestraft, wer
 3.  ohne die nach § 2 Abs. 1 Nr. 3 erforderliche Genehmigung Chemikalien
     der Liste 3 in einen Nichtvertragsstaat ausführt.
 
-
-
-
-
 ## § 14
 
 (weggefallen)
-
 
 ## § 15 Inkrafttreten
 
@@ -713,7 +675,6 @@ in Kraft, an dem das Übereinkommen nach seinem Artikel XXI in Kraft
 tritt und der gemäß § 21 Abs. 2 des Ausführungsgesetzes zum
 Chemiewaffenübereinkommen im Bundesgesetzblatt bekanntgegeben wird. Im
 übrigen tritt diese Verordnung am Tage nach der Verkündung in Kraft.
-
 
 ## Anhang 1 Chemikalienlisten*)
 
@@ -1257,10 +1218,6 @@ Fundstelle des Originaltextes: BGBl. I 1996, S. 1799 - 1801
     *   Triethanolamin
 
     *   (102-71-6)
-
-
-
-
 
 ## Anhang 2 Explosivstoffe gemäß § 4 Abs. 2
 

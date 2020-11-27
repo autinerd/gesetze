@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 5 Abs. 3 G v. 1.6.2012 I 1224
 
-
 ## Eingangsformel
 
 Auf Grund des § 42 Abs. 1 und 2 des Aufenthaltsgesetzes vom 30. Juli
@@ -30,10 +29,7 @@ März 1997 BGBl. I S. 594, 595), von denen § 288 durch Artikel 1 Nr.
 Gesetzes vom 23. Dezember 2003 (BGBl. I S. 2848) geändert worden sind,
 verordnet das Bundesministerium für Wirtschaft und Arbeit:
 
-
 ## Abschnitt 1 - Zustimmungsfreie Beschäftigungen
-
-
 
 ### § 1 Grundsatz
 
@@ -42,7 +38,6 @@ Die Erteilung eines Aufenthaltstitels zum Zwecke der Beschäftigung (§
 Aufenthaltsgesetzes) bedarf in den Fällen der §§ 2 bis 16 nicht der
 Zustimmung der Bundesagentur für Arbeit gemäß § 39 des
 Aufenthaltsgesetzes.
-
 
 ### § 2 Aus- und Weiterbildungen
 
@@ -91,12 +86,10 @@ Konzerns oder Unternehmens zum Zweck der betrieblichen Weiterbildung
 im inländischen Konzern- oder Unternehmensteil für bis zu drei Monate
 innerhalb eines Zeitraums von zwölf Monaten.
 
-
 ### § 3 Hochqualifizierte
 
 Keiner Zustimmung bedarf die Erteilung einer Niederlassungserlaubnis
 an Hochqualifizierte nach § 19 Abs. 2 des Aufenthaltsgesetzes.
-
 
 ### § 3a Blaue Karte EU
 
@@ -109,16 +102,11 @@ Ausländer
 2.  einen inländischen Hochschulabschluss besitzt und die Voraussetzungen
     des § 41a Absatz 2 erfüllt.
 
-
-
-
-
 ### § 3b Fachkräfte mit inländischem Hochschulabschluss
 
 Keiner Zustimmung bedarf die Erteilung einer Aufenthaltserlaubnis zur
 Ausübung einer der beruflichen Qualifikation angemessenen
 Beschäftigung an Fachkräfte mit einem inländischen Hochschulabschluss.
-
 
 ### § 4 Führungskräfte
 
@@ -144,10 +132,6 @@ Keiner Zustimmung bedarf die Erteilung eines Aufenthaltstitels an
     Position, die für die Entwicklung des Unternehmens von entscheidender
     Bedeutung ist.
 
-
-
-
-
 ### § 5 Wissenschaft, Forschung und Entwicklung
 
 Keiner Zustimmung bedarf die Erteilung eines Aufenthaltstitels an
@@ -171,10 +155,6 @@ Keiner Zustimmung bedarf die Erteilung eines Aufenthaltstitels an
 4.  Lehrkräfte öffentlicher Schulen oder staatlich anerkannter privater
     Ersatzschulen.
 
-
-
-
-
 ### § 6 Kaufmännische Tätigkeiten
 
 Keiner Zustimmung bedarf die Erteilung eines Aufenthaltstitels an
@@ -193,7 +173,6 @@ und sich im Rahmen ihrer Beschäftigung unter Beibehaltung ihres
 gewöhnlichen Aufenthaltes im Ausland insgesamt nicht länger als drei
 Monate innerhalb eines Zeitraumes von zwölf Monaten im Inland
 aufhalten.
-
 
 ### § 7 Besondere Berufsgruppen
 
@@ -239,10 +218,6 @@ Keiner Zustimmung bedarf die Erteilung eines Aufenthaltstitels an
     die Dauer der Tätigkeit drei Monate innerhalb von zwölf Monaten nicht
     übersteigt.
 
-
-
-
-
 ### § 8 Journalistinnen und Journalisten
 
 Keiner Zustimmung bedarf die Erteilung eines Aufenthaltstitels an
@@ -256,10 +231,6 @@ Beschäftigte eines Arbeitgebers mit Sitz im Ausland,
     Inland journalistisch tätig werden, wenn die Dauer der Tätigkeit drei
     Monate innerhalb von zwölf Monaten nicht übersteigt.
 
-
-
-
-
 ### § 9 Beschäftigungen, die nicht in erster Linie dem Erwerb dienen
 
 Keiner Zustimmung bedarf die Erteilung eines Aufenthaltstitels an
@@ -271,10 +242,6 @@ Keiner Zustimmung bedarf die Erteilung eines Aufenthaltstitels an
 
 2.  vorwiegend aus karitativen oder religiösen Gründen Beschäftigte.
 
-
-
-
-
 ### § 10 Ferienbeschäftigungen
 
 Keiner Zustimmung bedarf die Erteilung eines Aufenthaltstitels an
@@ -282,7 +249,6 @@ Studierende sowie Schülerinnen und Schüler ausländischer Hochschulen
 und Fachschulen zur Ausübung einer Ferienbeschäftigung bis zu drei
 Monaten innerhalb eines Zeitraumes von zwölf Monaten, die von der
 Bundesagentur für Arbeit vermittelt worden ist.
-
 
 ### § 11 Kurzfristig entsandte Arbeitnehmerinnen und Arbeitnehmer
 
@@ -319,7 +285,6 @@ In den Fällen der Nummern 1 und 3 setzt die Befreiung von der
 Zustimmung voraus, dass der Arbeitgeber der Bundesagentur für Arbeit
 die Beschäftigungen vor deren Aufnahme angezeigt hat.
 
-
 ### § 12 Internationale Sportveranstaltungen
 
 Keiner Zustimmung bedarf die Erteilung eines Aufenthaltstitels an
@@ -342,10 +307,6 @@ Durchführungsgarantien übernommen hat, insbesondere
 
 4.  die Vertreter der Medien einschließlich des technischen Personals, die
     Mitarbeiter der Fernseh- und Medienpartner.
-
-
-
-
 
 ### § 13 Internationaler Straßen- und Schienenverkehr
 
@@ -389,7 +350,6 @@ Omnibussen auch dann, wenn das Fahrzeug im Inland zugelassen ist.
 des Absatzes 1 Satz 1 ohne Fahrerbescheinigung auch ungeachtet der
 Zulassung des Fahrzeuges.
 
-
 ### § 14 Schifffahrt und Luftverkehr
 
 Keiner Zustimmung bedarf die Erteilung eines Aufenthaltstitels an
@@ -411,10 +371,6 @@ Keiner Zustimmung bedarf die Erteilung eines Aufenthaltstitels an
     Luftfahrzeugführer, Flugingenieure und Flugnavigatoren bei Unternehmen
     mit Sitz im Inland.
 
-
-
-
-
 ### § 15 Dienstleistungserbringung
 
 Keiner Zustimmung bedarf die Erteilung eines Aufenthaltstitels an
@@ -423,7 +379,6 @@ der Europäischen Union oder einem Vertragsstaat des Abkommens über den
 Europäischen Wirtschaftsraum in dem Sitzstaat des Unternehmens
 ordnungsgemäß beschäftigt sind und zur Erbringung einer Dienstleistung
 vorübergehend in das Bundesgebiet entsandt werden.
-
 
 ### § 16 Beschäftigungsaufenthalte ohne Aufenthaltstitel
 
@@ -434,10 +389,7 @@ gilt für Tätigkeiten von Personen, die nach den §§ 23 bis 30 der
 Aufenthaltsverordnung vom Erfordernis eines Aufenthaltstitels befreit
 sind.
 
-
 ## Abschnitt 2 - Zustimmungen zu Beschäftigungen, die keine qualifizierte Berufsausbildung voraussetzen
-
-
 
 ### § 17 Grundsatz
 
@@ -454,7 +406,6 @@ begrenzten Beschäftigung nach einer anderen Bestimmung dieses
 Abschnittes vorbehaltlich besonderer Regelungen erst im folgenden
 Kalenderjahr zugestimmt werden.
 
-
 ### § 18 Saisonbeschäftigungen
 
 Die Zustimmung kann zu einem Aufenthaltstitel zur Ausübung einer
@@ -470,7 +421,6 @@ Arbeitnehmerinnen und Arbeitnehmern nach Satz 1 ist für einen Betrieb
 auf acht Monate im Kalenderjahr begrenzt. Satz 2 gilt nicht für
 Betriebe des Obst-, Gemüse-, Wein-, Hopfen- und Tabakanbaus.
 
-
 ### § 19 Schaustellergehilfen
 
 Die Zustimmung zu einem Aufenthaltstitel zur Ausübung einer
@@ -480,14 +430,12 @@ auf Grund einer Absprache der Bundesagentur für Arbeit mit der
 Arbeitsverwaltung des Herkunftslandes über das Verfahren und die
 Auswahl vermittelt worden sind.
 
-
 ### § 20 Au-pair-Beschäftigung
 
 Die Zustimmung kann zu einem Aufenthaltstitel für Personen mit
 Grundkenntnissen der deutschen Sprache erteilt werden, die unter 25
 Jahre alt sind und in einer Familie, in der Deutsch als Muttersprache
 gesprochen wird, bis zu einem Jahr als Au pair beschäftigt werden.
-
 
 ### § 21 Haushaltshilfen
 
@@ -505,7 +453,6 @@ Zustimmung nach Satz 1 nur erteilt werden, wenn sich die betreffende
 Person nach der Ausreise mindestens so lange im Ausland aufgehalten
 hat, wie sie zuvor im Inland beschäftigt war.
 
-
 ### § 22 Hausangestellte von Entsandten
 
 Die Zustimmung zu einem Aufenthaltstitel zur Ausübung einer
@@ -517,7 +464,6 @@ Einreise die Hausangestellten seit mindestens einem Jahr in ihrem
 Haushalt zur Betreuung eines Kindes unter 16 Jahren oder eines
 pflegebedürftigen Haushaltsmitgliedes beschäftigt haben. Die
 Zustimmung kann höchstens um drei Jahre verlängert werden.
-
 
 ### § 23 Kultur und Unterhaltung
 
@@ -532,10 +478,6 @@ werden, die
     Gastspielen oder ausländischen Film- oder Fernsehproduktionen entsandt
     werden.
 
-
-
-
-
 ### § 24 Praktische Tätigkeiten als Voraussetzung für die Anerkennung ausländischer Abschlüsse
 
 Ist für eine qualifizierte Beschäftigung, zu der eine Zustimmung
@@ -545,10 +487,7 @@ eine befristete praktische Tätigkeit in Deutschland voraus, kann dem
 Aufenthaltstitel für die Ausübung dieser befristeten Tätigkeit
 zugestimmt werden.
 
-
 ## Abschnitt 3 - Zustimmungen zu Beschäftigungen, die eine qualifizierte Berufsausbildung voraussetzen
-
-
 
 ### § 25 Grundsatz
 
@@ -558,7 +497,6 @@ Berufsausbildung voraussetzt (§ 18 Absatz 4 des Aufenthaltsgesetzes),
 nach den Vorschriften dieses Abschnitts nach § 39 des
 Aufenthaltsgesetzes zustimmen. Eine qualifizierte Berufsausbildung
 liegt vor, wenn die Ausbildungsdauer mindestens zwei Jahre beträgt.
-
 
 ### § 26 Zeitlich begrenzte Zulassungen von Sprachlehrern und Spezialitätenköchen
 
@@ -577,7 +515,6 @@ erteilt werden.
 einer Beschäftigung nach diesem Abschnitt darf den in den Absätzen 1
 und 2 genannten Ausländern nicht vor Ablauf von drei Jahren nach
 Ablauf des früheren Aufenthaltstitels und der Ausreise erteilt werden.
-
 
 ### § 27 Fachkräfte
 
@@ -613,7 +550,6 @@ der Ausländer die Voraussetzungen nach § 41a Absatz 2 erfüllt.
 und des Absatzes 2 ohne Vorrangprüfung nach § 39 Absatz 2 Satz 1
 Nummer 1 des Aufenthaltsgesetzes erteilt.
 
-
 ### § 28 Leitende Angestellte und Spezialisten
 
 Die Zustimmung zu einem Aufenthaltstitel zur Ausübung einer
@@ -631,10 +567,6 @@ Nummer 1 des Aufenthaltsgesetzes erteilt werden
     Grundlage zwischenstaatlicher Vereinbarungen gegründeten deutsch-
     ausländischen Gemeinschaftsunternehmen.
 
-
-
-
-
 ### § 29 Sozialarbeit
 
 Die Zustimmung zu einem Aufenthaltstitel zur Ausübung einer
@@ -642,7 +574,6 @@ Beschäftigung kann Fachkräften erteilt werden, die von einem deutschen
 Träger in der Sozialarbeit für ausländische Arbeitnehmer und ihre
 Familien beschäftigt werden und über ausreichende Kenntnisse der
 deutschen Sprache verfügen.
-
 
 ### § 30 Pflegekräfte
 
@@ -656,7 +587,6 @@ ausreichenden deutschen Sprachkenntnissen kann erteilt werden, sofern
 die betreffenden Personen von der Bundesagentur für Arbeit auf Grund
 einer Absprache mit der Arbeitsverwaltung des Herkunftslandes über das
 Verfahren, die Auswahl und die Vermittlung vermittelt worden sind.
-
 
 ### § 31 Internationaler Personalaustausch, Auslandsprojekte
 
@@ -691,10 +621,7 @@ Tätigkeit im Rahmen des fertiggestellten Projektes notwendig ist. Satz
 2 findet auch Anwendung, wenn der Auftragnehmer keine Zweigstelle oder
 Betriebe im Ausland hat.
 
-
 ## Abschnitt 4 - Zustimmungen zu weiteren Beschäftigungen
-
-
 
 ### § 32 Grundsatz
 
@@ -714,7 +641,6 @@ besonderer Regelungen erst in dem Kalenderjahr zugestimmt werden, das
 auf das Kalenderjahr folgt, in dem die befristete Beschäftigung nach
 §§ 33, 35 oder 36 endete.
 
-
 ### § 33 Deutsche Volkszugehörige
 
 Die Zustimmung kann zu einem Aufenthaltstitel zur Ausübung einer
@@ -722,14 +648,12 @@ vorübergehenden Beschäftigung von deutschen Volkszugehörigen erteilt
 werden, die einen Aufnahmebescheid nach dem Bundesvertriebenengesetz
 besitzen.
 
-
 ### § 34 Beschäftigungen bestimmter Staatsangehöriger
 
 Staatsangehörigen von Andorra, Australien, Israel, Japan, Kanada,
 Monaco, Neuseeland, San Marino sowie den Vereinigten Staaten von
 Amerika kann die Zustimmung zu einem Aufenthaltstitel zur Ausübung
 einer Beschäftigung erteilt werden.
-
 
 ### § 35 Fertighausmontage
 
@@ -742,7 +666,6 @@ von ihrem Arbeitgeber im Ausland hergestellte Fertig- und Ausbauhäuser
 sowie Fertig- und Ausbauhallen aufzustellen und zu montieren. Satz 1
 gilt auch für die im Zusammenhang mit der Montage notwendigen
 Installationsarbeiten.
-
 
 ### § 36 Längerfristig entsandte Arbeitnehmerinnen und Arbeitnehmer
 
@@ -766,16 +689,12 @@ entsandt werden, um
 Die Zustimmung ist auf die vorgesehene Beschäftigungsdauer zu
 befristen, die Frist darf drei Jahre nicht übersteigen.
 
-
 ### § 37 Grenzgängerbeschäftigung
 
 Die Zustimmung kann zu einer Grenzgängerkarte nach § 12 Abs. 1 der
 Aufenthaltsverordnung zur Ausübung einer Beschäftigung erteilt werden.
 
-
 ## Abschnitt 5 - Zustimmungen zu Beschäftigungen auf der Grundlage zwischenstaatlicher Vereinbarungen
-
-
 
 ### § 38 Grundsatz
 
@@ -783,7 +702,6 @@ Besteht eine zwischenstaatliche Vereinbarung, die die Ausübung einer
 Beschäftigung regelt, bestimmt sich die Erteilung der Zustimmung gemäß
 § 39 des Aufenthaltsgesetzes nach dieser Vereinbarung. Im Übrigen
 finden die §§ 39 bis 41 Anwendung.
-
 
 ### § 39 Werkverträge
 
@@ -823,7 +741,6 @@ Unternehmens zahlenmäßig beschränken. Dabei ist darauf zu achten, dass
 auch kleine und mittelständische im Inland ansässige Unternehmen
 angemessen berücksichtigt werden.
 
-
 ### § 40 Gastarbeitnehmerinnen und Gastarbeitnehmer
 
 Die Zustimmung zu einem Aufenthaltstitel zur Ausübung einer
@@ -833,7 +750,6 @@ Vereinbarung über die Beschäftigung von Arbeitnehmerinnen und
 Arbeitnehmern zur beruflichen und sprachlichen Fortbildung
 (Gastarbeitnehmer-Vereinbarung) mit dem Staat, dessen
 Staatsangehörigkeit sie besitzen, beschäftigt werden.
-
 
 ### § 41 Sonstige zwischenstaatliche Vereinbarungen
 
@@ -868,10 +784,7 @@ völkerrechtlich verbindlicher Freihandelsabkommen der Europäischen
 Union oder der Europäischen Union und ihrer Mitgliedstaaten
 vorübergehend in das Bundesgebiet entsandt werden.
 
-
 ## Abschnitt 5a - Entgeltgrenzen für die Erteilung einer Blauen Karte EU
-
-
 
 ### § 41a Entgeltgrenze
 
@@ -889,10 +802,7 @@ Aufenthaltsgesetzes 52 Prozent der jährlichen Beitragsbemessungsgrenze
 in der allgemeinen Rentenversicherung. Absatz 1 Satz 4 gilt
 entsprechend.
 
-
 ## Abschnitt 6 - Arbeitsvermittlung und Anwerbung aus dem Ausland
-
-
 
 ### § 42 Vermittlung
 
@@ -903,10 +813,7 @@ Wirtschaftsraum für eine Beschäftigung im Inland darf für eine
 Beschäftigung nach den §§ 10, 18, 19, 21, 30 und 40 nur von der
 Bundesagentur für Arbeit durchgeführt werden.
 
-
 ## Abschnitt 7 - Ordnungswidrigkeiten
-
-
 
 ### § 43 Ordnungswidrigkeit
 
@@ -914,17 +821,13 @@ Ordnungswidrig im Sinne des § 404 Abs. 2 Nr. 9 des Dritten Buches
 Sozialgesetzbuch handelt, wer vorsätzlich oder fahrlässig entgegen §
 42 eine dort genannte Arbeitsvermittlung oder Anwerbung durchführt.
 
-
 ## Abschnitt 8 - Schlussvorschriften
-
-
 
 ### § 44 Verfahren
 
 Die §§ 3b, 6, 7 und 12 bis 15 der Beschäftigungsverfahrensverordnung
 gelten für die Zulassung oder nach einer Zulassung aus dem Ausland
 entsprechend, soweit diese Verordnung nichts anderes regelt.
-
 
 ### § 45 Befristungen
 
@@ -943,7 +846,6 @@ Erreichung des Weiterbildungszieles erforderlich ist.
 (3) Bei einer Beschäftigung nach § 26 Absatz 2 wird die erstmalige
 Zustimmung zur Beschäftigung im Zeitraum von drei Jahren ab dem 1.
 August 2012 längstens für ein Jahr erteilt.
-
 
 ### § 46 Übergangsregelungen
 
@@ -967,11 +869,9 @@ ein am 7. Februar 2002 bestehendes Vertragsverhältnis unter den bis
 dahin geltenden aufenthaltsrechtlichen Regelungen bei demselben
 Arbeitgeber fortsetzen.
 
-
 ### § 47 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2005 in Kraft.
-
 
 ### Schlussformel
 

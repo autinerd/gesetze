@@ -18,13 +18,11 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 11 G v. 21.3.2005 I 818
 
-
 ## Eingangsformel
 
 Auf Grund des § 76 Abs. 3 des Bundessozialhilfegesetzes vom 30. Juni
 1961 (Bundesgesetzbl. I S. 815) verordnet die Bundesregierung mit
 Zustimmung des Bundesrates:
-
 
 ## § 1 Einkommen
 
@@ -34,7 +32,6 @@ sind alle Einnahmen ohne Rücksicht auf ihre Herkunft und Rechtsnatur
 sowie ohne Rücksicht darauf, ob sie zu den Einkunftsarten im Sinne des
 Einkommensteuergesetzes gehören und ob sie der Steuerpflicht
 unterliegen, zugrunde zu legen.
-
 
 ## § 2 Bewertung von Sachbezügen
 
@@ -52,7 +49,6 @@ bleibt unberührt.
 Tarifordnung, einer Betriebs- oder Dienstordnung, einer
 Betriebsvereinbarung, einem Arbeitsvertrag oder einem sonstigen
 Vertrag andere Werte festgesetzt worden sind.
-
 
 ## § 3 Einkünfte aus nichtselbständiger Arbeit
 
@@ -191,7 +187,6 @@ Haushaltsführung kann auch dann anerkannt werden, wenn der Bezieher
 des Einkommens nachweislich ganz oder überwiegend die Kosten für einen
 Haushalt trägt, den er gemeinsam mit nächsten Angehörigen führt.
 
-
 ## § 4 Einkünfte aus Land- und Forstwirtschaft, Gewerbebetrieb und selbständiger Arbeit
 
 (1) Welche Einkünfte zu den Einkünften aus Land- und Forstwirtschaft,
@@ -247,7 +242,6 @@ Ausgaben für die Anschaffung oder Herstellung der in Satz 1 genannten
 Wirtschaftsgüter im Feststellungszeitraum geleistet worden sind, sind
 sie vom Gewinn abzusetzen.
 
-
 ## § 5 Sondervorschrift für die Einkünfte aus Land- und Forstwirtschaft
 
 (1) Die Träger der Sozialhilfe können mit Zustimmung der zuständigen
@@ -267,10 +261,6 @@ unberücksichtigt.
     sei denn, daß der Gewinn auf Grund von Durchschnittssätzen ermittelt
     wird.
 
-
-
-
-
 ## § 6 Einkünfte aus Kapitalvermögen
 
 (1) Welche Einkünfte zu den Einkünften aus Kapitalvermögen gehören,
@@ -286,7 +276,6 @@ erzielten Einkünfte unter Berücksichtigung der im Berechnungsjahr
 bereits eingetretenen und noch zu erwartenden Veränderungen zu
 errechnen. Soweit im Einzelfall geboten, können hiervon abweichend die
 Einkünfte für das Berechnungsjahr auch nachträglich errechnet werden.
-
 
 ## § 7 Einkünfte aus Vermietung und Verpachtung
 
@@ -360,7 +349,6 @@ möblierten Wohnungen und von Zimmern jedoch als Monatseinkünfte zu
 berechnen. Sind sie als Jahreseinkünfte zu berechnen, gilt § 6 Abs. 3
 entsprechend.
 
-
 ## § 8 Andere Einkünfte
 
 (1) Andere als die in den §§ 3, 4, 6 und 7 genannten Einkünfte sind,
@@ -374,7 +362,6 @@ entsprechend.
 (2) Sind die Einkünfte als Jahreseinkünfte zu berechnen, gilt § 6 Abs.
 3 entsprechend.
 
-
 ## § 9 Einkommensberechnung in besonderen Fällen
 
 Ist der Bedarf an Sozialhilfe einmalig oder nur von kurzer Dauer und
@@ -382,13 +369,11 @@ duldet die Entscheidung über die Hilfe keinen Aufschub, so kann der
 Träger der Sozialhilfe nach Anhörung des Beziehers des Einkommens die
 Einkünfte schätzen.
 
-
 ## § 10 Verlustausgleich
 
 Ein Verlustausgleich zwischen einzelnen Einkunftsarten ist nicht
 vorzunehmen. In Härtefällen kann jedoch die gesamtwirtschaftliche Lage
 des Beziehers des Einkommens berücksichtigt werden.
-
 
 ## § 11 Maßgebender Zeitraum
 
@@ -409,7 +394,6 @@ Anzahl der in den genannten Zeitraum fallenden Monate entspricht. Satz
 nach auf einen Teil des Jahres beschränkte Einkünfte, wenn die
 Einkünfte den Hauptbestandteil des Einkommens bilden.
 
-
 ## § 12 Ausgaben nach § 82 Abs. 2 Nr. 1 bis 3 des Zwölften Buches Sozialgesetzbuch
 
 Die in § 82 Abs. 2 Nr. 1 bis 3 des Zwölften Buches Sozialgesetzbuch
@@ -417,11 +401,9 @@ bezeichneten Ausgaben sind von der Summe der Einkünfte abzusetzen,
 soweit sie nicht bereits nach den Bestimmungen dieser Verordnung bei
 den einzelnen Einkunftsarten abzuziehen sind.
 
-
 ## § 13
 
 (weggefallen)
-
 
 ## § 14 Inkrafttreten
 

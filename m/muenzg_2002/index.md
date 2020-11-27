@@ -18,14 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 10 G v. 22.12.2011 I 2959
 
-
 ## § 1 Ausprägung von deutschen Euro-Münzen
 
 Der Bund prägt Münzen (deutsche Euro-Münzen) gemäß der Verordnung (EG)
 Nr. 975/98 des Rates vom 3. Mai 1998 über die Stückelungen und die
 technischen Merkmale der für den Umlauf bestimmten Euro-Münzen (ABl.
 EG Nr. L 139 S. 6) in der jeweils geltenden Fassung aus.
-
 
 ## § 2 Ausprägung von Sammlermünzen
 
@@ -45,7 +43,6 @@ gesetzliche Zahlungsmittel im Inland.
 
 (3) Das Bundesministerium der Finanzen kann für Sammlermünzen einen
 über dem Nennwert liegenden Verkaufspreis festlegen.
-
 
 ## § 3 Annahme- und Umtauschpflicht
 
@@ -73,7 +70,6 @@ Umlauf geeigneten Euro-Münzen, die entweder mutwillig oder durch ein
 Verfahren verändert wurden, bei dem eine Veränderung zu erwarten war,
 abzulehnen.
 
-
 ## § 4 Gestaltung der deutschen Euro-Münzen
 
 (1) Die Bundesregierung bestimmt die Gestaltung der nationalen
@@ -85,14 +81,12 @@ auszuprägenden Beträge auf die verschiedenen Nennwerte.
 (2) Die Gestaltung der nationalen Münzseite der deutschen Euro-Münzen
 ist im Bundesgesetzblatt bekannt zu machen.
 
-
 ## § 5 Gestalt der deutschen Euro-Gedenkmünzen
 
 Die Bundesregierung bestimmt die Nennwerte und die Gestaltung sowie im
 Benehmen mit der Deutschen Bundesbank die technischen Merkmale der
 deutschen Euro-Gedenkmünzen; sie müssen sich hinreichend von den Euro-
 Münzen unterscheiden. § 4 Abs. 2 ist entsprechend anzuwenden.
-
 
 ## § 6 Münzprägung
 
@@ -110,7 +104,6 @@ angemessene Vergütung.
 (3) Die zur Ausprägung erforderlichen Münzmetalle werden den
 Münzstätten vom Bundesministerium der Finanzen zugewiesen.
 
-
 ## § 7 Inverkehrbringen von Münzen
 
 (1) Die Deutsche Bundesbank bringt die deutschen Euro-Münzen und die
@@ -127,12 +120,10 @@ Vertrages über die Arbeitsweise der Europäischen Union Sammlermünzen
 gemäß § 2 Abs. 3 in den Verkehr. Er kann eine andere Stelle damit
 beauftragen.
 
-
 ## § 7a Aufgaben nach den Artikeln 6 und 8 bis 12 der Verordnung (EG) Nr. 1210/2010
 
 Die Deutsche Bundesbank nimmt die Aufgaben nach den Artikeln 6, 8 bis
 11 und 12 Absatz 2 und 3 der Verordnung (EU) Nr. 1210/2010 wahr.
-
 
 ## § 8 Einziehung von Münzen
 
@@ -140,7 +131,6 @@ Euro-Münzen und deutsche Euro-Gedenkmünzen, die infolge längeren
 Umlaufs und Abnutzung an Gewicht oder Erkennbarkeit erheblich
 eingebüßt haben, werden von der Deutschen Bundesbank angenommen. Sie
 sind für Rechnung des Bundes einzuziehen.
-
 
 ## § 9 Außerkurssetzung
 
@@ -153,7 +143,6 @@ Bundesgesetzblatt, im Bundesanzeiger sowie in überregionalen
 Tageszeitungen bekannt zu machen und der Kommission der Europäischen
 Gemeinschaften mitzuteilen.
 
-
 ## § 10 Verordnungsermächtigung
 
 Das Bundesministerium der Finanzen wird ermächtigt, durch
@@ -162,7 +151,6 @@ unter Bedingungen zuzulassen, dass Medaillen und Münzstücke, bei denen
 die Gefahr einer Verwechselung mit deutschen Euro-Gedenkmünzen
 besteht, hergestellt, verkauft, eingeführt oder zum Verkauf oder
 anderen kommerziellen Zwecken verbreitet werden.
-
 
 ## § 11 Münzschutz
 
@@ -192,7 +180,6 @@ Satz 1 gilt nicht für Stücke, die als Nachahmungen gestaltet oder vor
 dem Jahr 1850 hergestellt worden sind.
 
 (2) Die Verbote gemäß Absatz 1 gelten auch für ausländische Münzen.
-
 
 ## § 12 Bußgeldvorschriften
 
@@ -264,7 +251,6 @@ worden, so können
 
 
 eingezogen werden.
-
 
 ## § 13 (weggefallen)
 

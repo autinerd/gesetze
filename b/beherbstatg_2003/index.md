@@ -18,13 +18,11 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 G v. 23.11.2011 I 2298
 
-
 ## § 1 Anordnung, Zweck
 
 Über die Beherbergung im Reiseverkehr (vorübergehende Beherbergung)
 werden statistische Erhebungen bei Beherbergungsbetrieben als
 Bundesstatistik durchgeführt.
-
 
 ## § 2 Periodizität, Berichtszeitraum
 
@@ -35,7 +33,6 @@ ist nur jährlich zu erheben.
 (2) Berichtszeitraum für die monatliche Erhebung ist der dem Zeitpunkt
 der Erhebung vorangegangene Kalendermonat. Stichtag für die jährliche
 Erhebung ist der 31. Juli.
-
 
 ## § 3 Erhebungsbereich
 
@@ -71,10 +68,6 @@ Campingplätzen müssen mindestens zehn Stellplätze vorhanden sein.
 
 3.  Vorsorge- und Rehabilitationskliniken.
 
-
-
-
-
 ## § 4 Erhebungsmerkmale
 
 Erhebungsmerkmale sind:
@@ -101,10 +94,6 @@ Erhebungsmerkmale sind:
     Gästezimmern darüber hinaus die Zahl der belegten und angebotenen
     Zimmertage; für Letztere hilfsweise die Auslastung als Prozentangabe.
 
-
-
-
-
 ## § 5 Hilfsmerkmale
 
 Hilfsmerkmale sind:
@@ -114,10 +103,6 @@ Hilfsmerkmale sind:
 
 2.  Name, Rufnummern und Adressen für elektronische Post der Personen, die
     für Rückfragen zur Verfügung stehen.
-
-
-
-
 
 ## § 6 Auskunftspflicht
 
@@ -138,7 +123,6 @@ Kalenderjahren besteht dann keine Auskunftspflicht, wenn das
 Unternehmen im letzten abgeschlossenen Geschäftsjahr Umsätze in Höhe
 von weniger als 500.000 Euro erwirtschaftet hat.
 
-
 ## § 7 Übermittlungsregelung
 
 An die obersten Bundes- und Landesbehörden dürfen für die Verwendung
@@ -147,7 +131,6 @@ Planung, jedoch nicht für die Regelung von Einzelfällen, vom
 Statistischen Bundesamt und den statistischen Ämtern der Länder
 Tabellen mit statistischen Ergebnissen übermittelt werden, auch soweit
 Tabellenfelder nur einen einzigen Fall ausweisen.
-
 
 ## § 8 Verordnungsermächtigung
 
@@ -166,10 +149,6 @@ Zustimmung des Bundesrates
     Gemeinschaften erforderlich sind, so ist durch die gleichzeitige
     Aussetzung der Erhebung anderer Erhebungsmerkmale eine Erweiterung des
     Erhebungsumfangs zu vermeiden.
-
-
-
-
 
 ## § 9 Inkrafttreten, Außerkrafttreten
 

@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 2187
 
-
 ## Eingangsformel
 
 Auf Grund des § 2 Absatz 2 Satz 1 der Abgabenordnung, der durch
@@ -26,9 +25,7 @@ Artikel 9 Nummer 2 Buchstabe b des Gesetzes vom 8. Dezember 2010
 16 Nummer 1 des Gesetzes vom 8. Dezember 2010 (BGBl. I S. 1768)
 angefügt worden ist, verordnet das Bundesministerium der Finanzen:
 
-
 ## Abschnitt 1 - Allgemeines
-
 
 ### § 1 Abkommen
 
@@ -46,7 +43,6 @@ Schweizerischen Eidgenossenschaft zur Vermeidung der Doppelbesteuerung
 auf dem Gebiet der Nachlass- und Erbschaftsteuern vom 30. November
 1978 (BGBl. 1980 II S. 594, 595) in der jeweils geltenden Fassung.
 
-
 ### § 2 Anwendungsbereich
 
 Die einheitliche Anwendung und Auslegung des Abkommens in Bezug auf
@@ -55,9 +51,7 @@ die Umsetzung entsprechender Konsultationsvereinbarungen im Sinn des §
 im Sinn des Artikels 3 Absatz 1 Buchstabe i des Abkommens getroffen
 worden sind, richtet sich nach dieser Verordnung.
 
-
 ## Abschnitt 2 - Schenkungen
-
 
 ### § 3 Schenkungen von Geschäftsbetrieben
 
@@ -65,9 +59,7 @@ Die für Erbschaftsfälle geltenden Regelungen des
 Erbschaftsteuerabkommens (§ 1 Absatz 2) sind auch für Schenkungen von
 Geschäftsbetrieben entsprechend anzuwenden.
 
-
 ## Abschnitt 3 - Grenzgängerbesteuerung (Artikel 15a des Abkommens)
-
 
 ### § 4 Ansässigkeit
 
@@ -76,7 +68,6 @@ des gewöhnlichen Aufenthalts gegeben, bleibt die
 Grenzgängereigenschaft im Sinn des Artikels 15a des Abkommens
 erhalten, gleichgültig zu welchem Wohnsitz oder Ort des gewöhnlichen
 Aufenthalts die regelmäßige Rückkehr erfolgt.
-
 
 ### § 5 Ansässigkeitsbescheinigung
 
@@ -92,7 +83,6 @@ Bescheinigung zu beantragen. Der Ansässigkeitsstaat kann die Erteilung
 der Ansässigkeitsbescheinigung nur dann verweigern, wenn die Person
 die Voraussetzungen des Artikels 15a des Abkommens nicht erfüllt.
 
-
 ### § 6 Arbeitsort
 
 Arbeitsort ist regelmäßig der Ort, an dem der Arbeitnehmer in den
@@ -105,7 +95,6 @@ nach seinem Arbeitsvertrag in mehr als einem Betrieb seines
 Arbeitgebers eingegliedert, so ist Arbeitsort der Ort, an dem er seine
 Arbeit überwiegend auszuüben hat.
 
-
 ### § 7 Geringfügige Arbeitsverhältnisse
 
 Eine regelmäßige Rückkehr im Sinn des Artikels 15a Absatz 2 des
@@ -115,7 +104,6 @@ einem Tag pro Woche oder mindestens an fünf Tagen pro Monat von seinem
 Wohnsitz an seinen Arbeitsort und zurück begibt. Sind die genannten
 Voraussetzungen bei geringfügigen Arbeitsverhältnissen nicht erfüllt,
 wird eine regelmäßige Rückkehr nicht angenommen.
-
 
 ### § 8 Nichtrückkehrtage
 
@@ -160,7 +148,6 @@ Ansässigkeitsstaat zählen nicht zu den Nichtrückkehrtagen. Eintägige
 Geschäftsreisen in Drittstaaten zählen stets zu den
 Nichtrückkehrtagen.
 
-
 ### § 9 Kürzung der 60-Tage-Grenze
 
 (1) Findet ein Arbeitgeberwechsel innerhalb eines Kalenderjahrs im
@@ -183,7 +170,6 @@ vorzunehmen. Die Voraussetzungen der Grenzgängereigenschaft sind für
 jedes Arbeitsverhältnis getrennt zu beurteilen. Nichtrückkehrtage sind
 dem jeweiligen Arbeitsverhältnis nach ihrer überwiegenden Veranlassung
 zuzuordnen. Eine mehrfache Berücksichtigung findet nicht statt.
-
 
 ### § 10 Bescheinigung über die Nichtrückkehrtage
 
@@ -213,7 +199,6 @@ bei der Steuerbehörde bescheinigt wird. Diesem Umstand ist im
 Ansässigkeitsstaat durch einen Aufschub der Besteuerung oder Anpassung
 der Einkommensteuer-Vorauszahlungen Rechnung zu tragen.
 
-
 ### § 11 Bemessungsgrundlage und -zeitraum
 
 Bei Vorliegen der Ansässigkeitsbescheinigung oder der Verlängerung
@@ -225,7 +210,6 @@ Qualifikation durch den Tätigkeitsstaat bindet den Ansässigkeitsstaat
 für Zwecke der Steueranrechnung. Soweit die Grenzgängereigenschaft
 vorliegt, erstreckt sich der Quellensteuerabzug auf alle Vergütungen,
 unabhängig davon, wo die Arbeit ausgeübt wird.
-
 
 ### § 12 Ansässigkeitsstaat Deutschland
 
@@ -242,7 +226,6 @@ Anrechnung der Abzugsteuer in Höhe von 4,5 Prozent der
 Bruttovergütungen. Absatz 1 Satz 1 gilt entsprechend. Eine Erstattung
 zu viel einbehaltener schweizerischer Steuer ist in Deutschland nicht
 möglich.
-
 
 ### § 13 Grundsätze der Steuerberechnung
 
@@ -278,7 +261,6 @@ zurückkehrt, ist die volle Steuer einzubehalten. Dies gilt auch dann,
 wenn der Arbeitgeber erkennt, dass der Arbeitnehmer die 60 Tage
 voraussichtlich überschreiten wird.
 
-
 ### § 14 Nach amtlichen Vorgaben ermittelte Lohnsteuer ist niedriger als 4,5 Prozent
 
 (1) Der Steuersatz von 4,5 Prozent ist unbeachtlich, wenn der
@@ -292,7 +274,6 @@ geringen Lohnbezügen eine Vergleichsberechnung durchzuführen.
 
 (2) Eine Vergleichsberechnung erübrigt sich, wenn der Arbeitgeber
 einen Steuerabzug nach der Steuerklasse VI vornehmen muss.
-
 
 ### § 15 Verpflichtung zur Änderung der Abzugsteuer
 
@@ -310,7 +291,6 @@ kann der schweizerische Grenzgänger zu viel einbehaltene Lohnsteuer
 beim jeweiligen Betriebstättenfinanzamt nur noch durch einen
 öffentlich-rechtlichen Erstattungsanspruch nach den Vorschriften der
 Abgabenordnung (§ 37 Absatz 2 der Abgabenordnung) geltend machen.
-
 
 ### § 16 Nachweis der Bruttovergütungen
 
@@ -337,7 +317,6 @@ Einkommensteuergesetzes zu bescheinigen. Die Eintragungen sind im
 amtlichen Vordruck in einem freien Feld vorzunehmen und als solche
 kenntlich zu machen.
 
-
 ### § 17 Verschiedene Sonderfälle
 
 (1) Bei den unter Artikel 15 Absatz 3 des Abkommens fallenden
@@ -358,7 +337,6 @@ eine Ansässigkeitsbescheinigung vorliegt. Die vor Eintritt des
 Versorgungsfalls vorgelegte Ansässigkeitsbescheinigung gilt ohne
 zeitliche Beschränkung weiter, es sei denn, es findet ein
 Wohnungswechsel statt.
-
 
 ### § 18 Abwanderer in die Schweiz (Artikel 4 Absatz 4 des Abkommens)
 
@@ -386,9 +364,7 @@ Grenzgänger-Abwanderers eine Veranlagung durchgeführt. Der Antrag auf
 Durchführung der Veranlagung ist gleichzeitig mit dem Antrag auf
 Erteilung der Anrechnungsbescheinigung zu stellen.
 
-
 ## Abschnitt 4 - Leitende Angestellte, Drittstaateneinkünfte
-
 
 ### § 19 Besteuerung leitender Angestellter
 
@@ -415,7 +391,6 @@ leitenden Angestellten und in Drittstaaten entfallen. Das
 Besteuerungsrecht des Staates der Ansässigkeit des leitenden
 Angestellten bleibt unberührt.
 
-
 ### § 20 Arbeitnehmer mit Einkünften aus Drittstaaten
 
 Arbeitseinkünfte eines Arbeitnehmers, der in der Bundesrepublik
@@ -426,9 +401,7 @@ tatsächlich ausgeübt wird. Der Ort der Arbeitsausübung ist dort
 anzunehmen, wo sich der Arbeitnehmer zur Ausführung seiner Tätigkeit
 persönlich (körperlich) aufhält.
 
-
 ## Abschnitt 5 - Sonstige Anwendungsfälle
-
 
 ### § 21 Unterhaltsleistungen an geschiedene oder dauernd getrennt lebende Ehegatten
 
@@ -446,7 +419,6 @@ Zahlungen der ordentlichen Besteuerung unterliegt und dies durch eine
 Bescheinigung der zuständigen kantonalen Steuerbehörde nachgewiesen
 wird.
 
-
 ### § 22 Betriebliche Veräußerungsrenten
 
 Im Falle von Renten, die auf Grund der Veräußerung eines Betriebs
@@ -458,7 +430,6 @@ Betriebstättenstaat das Besteuerungsrecht so lange zu, wie die
 Rentenzahlungen den Rentenbarwert übersteigen. Das Besteuerungsrecht
 geht auf den Wohnsitzstaat des Rentenempfängers über, sobald die
 Rentenzahlungen den Veräußerungsgewinn übersteigen.
-
 
 ### § 23 Nachfolgeunternehmen der Regiebetriebe nach Artikel 19 Absatz 3 des Abkommens
 
@@ -472,7 +443,6 @@ weiterbeschäftigt sind.
 (2) Artikel 19 Absatz 3 des Abkommens findet ebenso Anwendung auf
 Vergütungen an Personen, die bei der Swisscom AG, den Schweizerischen
 Bundesbahnen AG oder der Schweizerischen Post PTT beschäftigt sind.
-
 
 ### § 24 Arbeitnehmer-Abfindungen
 
@@ -494,20 +464,16 @@ Vertragsstaat ansässigen Arbeitgeber erhält, nicht im ehemaligen
 Tätigkeitsstaat besteuert, können diese Abfindungszahlungen im
 Wohnsitzstaat der Person besteuert werden.
 
-
 ## Abschnitt 6 - Schlussbestimmungen
-
 
 ### § 25 Anwendungsregelung
 
 Diese Verordnung ist erstmals auf Besteuerungssachverhalte seit dem 1.
 Januar 2010 anzuwenden.
 
-
 ### § 26 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ### Schlussformel
 

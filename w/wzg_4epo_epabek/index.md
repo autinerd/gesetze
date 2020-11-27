@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1979, 1999
 
-
-
 ## (XXXX)
 
 (1) Auf Grund des § 4 Abs. 2 Nr. 3a des Warenzeichengesetzes in der
@@ -29,11 +27,9 @@ sind.
 (2) Diese Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom
 29\. Oktober 1979 (BGBl. I S. 1800).
 
-
 ## Schlussformel
 
 Der Bundesminister der Justiz
-
 
 ## Anlage
 

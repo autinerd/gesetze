@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 10.3.1983 I 297
 
-
 ## Eingangsformel
 
 Auf Grund des § 4 Abs. 1 des Gesetzes zum Schutz gegen Fluglärm vom
@@ -29,7 +28,6 @@ des Einführungsgesetzes zum Strafgesetzbuch vom 2. März 1974
 Bundesminister der Verteidigung und mit Zustimmung des Bundesrates
 verordnet:
 
-
 ## § 1
 
 Zum Schutz der Allgemeinheit vor Gefahren, erheblichen Nachteilen und
@@ -37,14 +35,12 @@ erheblichen Belästigungen durch Fluglärm in der Umgebung des
 militärischen Flugplatzes Söllingen wird der in § 2 bestimmte
 Lärmschutzbereich festgesetzt.
 
-
 ## § 2
 
 Der Lärmschutzbereich mit seinen zwei Schutzzonen wird nach Anlage 1
 bestimmt durch die interpolierten Verbindungslinien zwischen den
 Kurvenpunkten, soweit diese Linien außerhalb des Flugplatzgeländes
 verlaufen.
-
 
 ## § 3
 
@@ -55,7 +51,6 @@ dieser Schutzzone gelegen.
 
 (2) Auf die Errichtung einer baulichen Anlage ist Absatz 1
 entsprechend anzuwenden.
-
 
 ## § 4
 
@@ -72,16 +67,13 @@ Lärmschutzbereich nach der bis zum 24. März 1983 geltenden Fassung
 dieser Verordnung bleiben an gleicher Stelle zu jedermanns Einsicht
 archivmäßig gesichert niedergelegt.
 
-
 ## § 5
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesminister des Innern
-
 
 ## Anlage 1 (zu Artikel 1 Nummer 2 der Ersten Verordnung zur Änderung der Verordnung über die Festsetzung des Lärmschutzbereichs für den militärischen Flugplatz Söllingen)
 
@@ -5256,9 +5248,6 @@ Fundstelle des Originaltextes: BGBl. I 1983, 298 - 304
     *
     *
     *
-
-
-
 
 ## Anlage 2 (zu Artikel 1 Nummer 2 der Ersten Verordnung zur Änderung der Verordnung über die Festsetzung des Lärmschutzbereichs für den militärischen Flugplatz Söllingen)
 

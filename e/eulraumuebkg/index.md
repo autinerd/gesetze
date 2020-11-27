@@ -19,14 +19,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 23 G v. 9.9.2001 I 2331
 
-
 ## Art 1
 
 Dem in Bern am 19. September 1979 von der Bundesrepublik Deutschland
 unterzeichneten Übereinkommen über die Erhaltung der europäischen
 wildlebenden Pflanzen und Tiere und ihrer natürlichen Lebensräume wird
 zugestimmt. Das Übereinkommen wird nachstehend veröffentlicht.
-
 
 ## Art 2
 
@@ -35,7 +33,6 @@ wird ermächtigt, Änderungen der Anhänge I bis IV des Übereinkommens
 nach dessen Artikel 17, die sich im Rahmen der Ziele des
 Übereinkommens halten, durch Rechtsverordnung ohne Zustimmung des
 Bundesrates in Kraft zu setzen.
-
 
 ## Art 3
 
@@ -86,10 +83,6 @@ b)  Tiere fangen, halten, töten oder beunruhigen, deren Brut- oder
     aus der Natur entfernen oder diese Eier besitzen, auch wenn sie leer
     sind.
 
-
-
-
-
 ## Art 4
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig entgegen
@@ -107,7 +100,6 @@ Gesetzes über Ordnungswidrigkeiten ist anzuwenden.
 
 (4) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes
 über Ordnungswidrigkeiten ist das Bundesamt für Naturschutz.
-
 
 ## Art 5
 

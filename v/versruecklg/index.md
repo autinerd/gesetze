@@ -21,10 +21,7 @@ Neugefasst durch
 Geändert durch
 :   Art. 4 G v. 22.12.2007 I 3245
 
-
 ## Abschnitt 1 - Sondervermögen "Versorgungsrücklage des Bundes"
-
-
 
 ### § 1 Geltungsbereich
 
@@ -47,13 +44,11 @@ Fassung.
 Pensionsrückstellungen oder Pensionsrücklagen aufgrund anderer
 gesetzlicher Vorschriften gebildet werden.
 
-
 ### § 2 Errichtung
 
 Zur Durchführung von § 14a des Bundesbesoldungsgesetzes wird zur
 Sicherung der Versorgungsaufwendungen ein Sondervermögen unter dem
 Namen "Versorgungsrücklage des Bundes" errichtet.
-
 
 ### § 3 Zweck
 
@@ -63,13 +58,11 @@ Versorgungsaufwendungen der Einrichtungen im Sinne des § 1 Abs. 1
 verwendet werden, die Versorgungsbezüge zahlen. Ansprüche Dritter
 gegen das Sondervermögen werden nicht begründet.
 
-
 ### § 4 Rechtsform
 
 Das Sondervermögen ist nicht rechtsfähig. Es kann unter seinem Namen
 im rechtsgeschäftlichen Verkehr handeln, klagen und verklagt werden.
 Der allgemeine Gerichtsstand des Sondervermögens ist Berlin.
-
 
 ### § 5 Verwaltung, Anlage der Mittel
 
@@ -86,7 +79,6 @@ Einvernehmen mit dem Bundesministerium der Finanzen Anlagerichtlinien.
 Soweit Belange der bundesunmittelbaren Sozialversicherungsträger
 berührt sind, ist das Einvernehmen mit dem Bundesministerium für
 Arbeit und Soziales herzustellen.
-
 
 ### § 6 Zuführung der Mittel
 
@@ -119,7 +111,6 @@ Interesse der Rentabilität der Anlage der Mittel zweckmäßig ist. Die
 Teilzahlungen sind am 15. Februar, 15. Juni und 15. September zu
 leisten.
 
-
 ### § 7 Verwendung des Sondervermögens
 
 Das Sondervermögen ist nach Abschluss der Zuführung der Mittel (§ 14a
@@ -130,14 +121,12 @@ durch Gesetz zu regeln. Die Entnahme der gesondert ausgewiesenen
 Mittel der bundesunmittelbaren Sozialversicherungsträger erfolgt auf
 der Grundlage von Beschlüssen der Selbstverwaltungsorgane.
 
-
 ### § 7a Entnahme von Mitteln durch die Bundesanstalt für Finanzdienstleistungsaufsicht
 
 Die von der Bundesanstalt für Finanzdienstleistungsaufsicht in das
 Sondervermögen eingezahlten Mittel werden in voller Höhe
 einschließlich Zinsen entnommen und der nach § 19 Abs. 2 des
 Finanzdienstleistungsaufsichtsgesetzes gebildeten Rücklage zugeführt.
-
 
 ### § 7b Entnahme von Mitteln durch die Bundesagentur für Arbeit
 
@@ -146,19 +135,16 @@ eingezahlten Mittel werden in voller Höhe einschließlich der Zinsen
 entnommen und dem nach § 366a des Dritten Buches Sozialgesetzbuch
 gebildeten Versorgungsfonds der Bundesagentur für Arbeit zugeführt.
 
-
 ### § 8 Vermögenstrennung
 
 Das Sondervermögen ist von dem übrigen Vermögen des Bundes, seinen
 Rechten und Verbindlichkeiten getrennt zu halten.
-
 
 ### § 9 Wirtschaftsplan
 
 Das Bundesministerium des Innern stellt ab dem 1. Januar 1999 für
 jedes Wirtschaftsjahr mit Zustimmung des Bundesministeriums der
 Finanzen einen Wirtschaftsplan auf.
-
 
 ### § 10 Jahresrechnung
 
@@ -171,7 +157,6 @@ Sondervermögens auf.
 (2) In der Jahresrechnung sind der Bestand des Sondervermögens
 einschließlich der Forderungen und Verbindlichkeiten sowie die
 Einnahmen und Ausgaben nachzuweisen.
-
 
 ### § 11 Beirat
 
@@ -213,16 +198,12 @@ nicht erstattet.
 
 (4) Der Beirat gibt sich eine Geschäftsordnung.
 
-
 ### § 12 Auflösung
 
 Das Sondervermögen gilt nach Auszahlung seines Vermögens (§ 7) als
 aufgelöst.
 
-
 ## Abschnitt 2 - Sondervermögen "Versorgungsfonds des Bundes"
-
-
 
 ### § 13 Geltungsbereich
 
@@ -234,7 +215,6 @@ Dienstherrnfähigkeit besitzen.
 Pensionsrückstellungen oder Pensionsrücklagen aufgrund anderer
 gesetzlicher Vorschriften gebildet werden. § 3 Satz 3 gilt
 entsprechend.
-
 
 ### § 14 Errichtung
 
@@ -248,7 +228,6 @@ Dienstherren erstmals nach dem 31. Dezember 2006 begründet worden ist,
 wird ein Sondervermögen unter dem Namen "Versorgungsfonds des Bundes"
 errichtet. Dies gilt nicht für Personen im Beamtenverhältnis auf
 Widerruf.
-
 
 ### § 15 Anzuwendende Vorschriften
 
@@ -265,7 +244,6 @@ dem Sondervermögen "Versorgungsfonds des Bundes" führen. § 9 gilt
 entsprechend mit der Maßgabe, dass ein Wirtschaftsplan für das
 Sondervermögen "Versorgungsfonds des Bundes" ab 1. Januar 2007
 aufgestellt wird.
-
 
 ### § 16 Zuweisung der Mittel
 
@@ -301,7 +279,6 @@ erfolgt, für die von einem der in § 13 Abs. 1 genannten Dienstherren
 bereits Zuweisungen an das Sondervermögen "Versorgungsfonds des
 Bundes" geleistet wurden.
 
-
 ### § 17 Verwendung des Sondervermögens "Versorgungsfonds des Bundes"
 
 Ab dem Jahr 2020 entstehende Versorgungsausgaben für den in § 14 Satz
@@ -312,7 +289,6 @@ den die Versorgungsausgaben anordnenden Dienststellen der in § 13 Abs.
 Bundes" erstattet. Das Bundesministerium des Innern regelt im
 Einvernehmen mit dem Bundesministerium der Finanzen das Nähere zum
 Erstattungsverfahren durch Rechtsverordnung.
-
 
 ### § 18 Entnahme von Mitteln durch die Bundesagentur für Arbeit
 

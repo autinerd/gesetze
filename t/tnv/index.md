@@ -15,14 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 141
 
-
 ## Eingangsformel
 
 Auf Grund des § 66 Abs. 4 des Telekommunikationsgesetzes vom 22. Juni
 2004 (BGBl. I S. 1190), der durch Artikel 2 Nr. 16 des Gesetzes vom
 18\. Februar 2007 (BGBl. I S. 106) geändert worden ist, verordnet die
 Bundesregierung:
-
 
 ## § 1 Nummernplan
 
@@ -68,7 +66,6 @@ durchzuführen. Hiervon kann in Ausnahmefällen abgesehen werden,
 insbesondere wenn Maßnahmen zur Strukturierung und Ausgestaltung des
 Nummernraums im öffentlichen Interesse erfolgen.
 
-
 ## § 2 Nummerierungskonzept
 
 Die Bundesnetzagentur veröffentlicht nach öffentlicher Anhörung
@@ -98,10 +95,6 @@ Das Nummerierungskonzept soll insbesondere enthalten:
 
 6.  konkrete Planungen zu Änderungen des Nummernplans.
 
-
-
-
-
 ## § 3 Änderungen des Nummernplans
 
 (1) Die Bundesnetzagentur kann den Nummernplan ganz oder teilweise mit
@@ -119,7 +112,6 @@ bestehende Zuteilungen ganz oder teilweise widerrufen werden.
 (3) Vor Änderungen des Nummernplans, die nicht bereits vollständig im
 Nummerierungskonzept beschrieben sind, ist eine öffentliche Anhörung
 durchzuführen. § 1 Abs. 3 Satz 2 gilt entsprechend.
-
 
 ## § 4 Nummernzuteilung
 
@@ -205,7 +197,6 @@ Abschaltung anordnen.
 vom originären Zuteilungsnehmer Beauftragte sind für die Nutzung einer
 Nummer entsprechend der Festlegungen im Nummernplan verantwortlich.
 
-
 ## § 5 Ausgestaltung des Antragsverfahrens
 
 (1) Die Bundesnetzagentur kann für Anträge auf Nummernzuteilung eine
@@ -244,7 +235,6 @@ genutzt war.
 
 (5) Die Entscheidung über einen Antrag auf Zuteilung von Nummern soll
 innerhalb von drei Wochen nach Eingang eines Antrags erfolgen.
-
 
 ## § 6 Besondere Ablehnungsgründe
 
@@ -286,10 +276,6 @@ ablehnen,
     erreicht hat und der konkrete Bedarf aus den dem Antragsteller
     originär zugeteilten Nummern gedeckt werden kann.
 
-
-
-
-
 ## § 7 Bekanntmachungen über Zuteilungen
 
 Die Bundesnetzagentur macht im Internet den Stand der von ihr
@@ -298,7 +284,6 @@ Interessen der Betroffenen bekannt machen, welche Nummern und Blöcke
 von Nummern welchem Zuteilungsnehmer direkt oder originär zugeteilt
 sind. Die Fundstelle der Bekanntmachung ist im Amtsblatt bekannt zu
 machen.
-
 
 ## § 8 Abgeleitete Zuteilung von Nummern
 
@@ -342,7 +327,6 @@ geltenden Fassung verlangen.
 
 (5) Nummern, die vor dem 1. Januar 1998 vom Anbieter vergeben wurden,
 gelten als abgeleitet zugeteilt.
-
 
 ## § 9 Rückgabe, Widerruf und Rückfall
 
@@ -392,7 +376,6 @@ Telekommunikationsnetz geschaltet ist und bei ihrer Anwahl ein dem
 Zweck der Nummer entsprechender Dienst oder eine dem Zweck der Nummer
 entsprechende Funktion erbracht wird.
 
-
 ## § 10 Datenaustauschverfahren
 
 Die Bundesnetzagentur kann Anbieter von öffentlichen
@@ -410,7 +393,6 @@ Anhörung der betroffenen Kreise erlässt. Eine Entschädigung für
 Auskunftsverpflichtungen nach Satz 1 und die Mitwirkung nach Satz 3
 wird nicht gewährt.
 
-
 ## § 11 Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 149 Abs. 1 Nr. 13 des
@@ -426,10 +408,6 @@ Telekommunikationsgesetzes handelt, wer vorsätzlich oder fahrlässig
 3.  entgegen § 4 Abs. 8 Satz 1 oder 2 in einem Telekommunikationsnetz eine
     Nummer schaltet.
 
-
-
-
-
 ## § 12 Übergangsvorschriften
 
 Bis zum Erlass eines Nummernplans nach § 1 Abs. 1 gelten die im
@@ -442,11 +420,9 @@ Nummernbereichen enthalten, als Nummernplan. Nummern, für die kein
 Nummernplan besteht, dürfen bis zum Erlass eines entsprechenden
 Nummernplans genutzt werden.
 
-
 ## § 13 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Anlage (zu § 12)
 

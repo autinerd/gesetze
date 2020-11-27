@@ -19,28 +19,18 @@ Fundstelle
 Geändert durch
 :   Art. 61 G v. 19.2.2006 I 334
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Teil 1 - Anpassung von Dienst- und Versorgungsbezügen in Bund und Ländern
-
-
 
 ### Art 1
 
-
-
 ### Art 2 - Anpassung von Bezügen
 
-
-
 #### Abschnitt 1 - Prozentuale Anpassung
-
-
 
 #### § 1 Fortgeltende landesrechtliche Vorschriften
 
@@ -105,7 +95,6 @@ abgerundet worden ist. Soweit für Zwischenbesoldungsgruppen mehrere
 der Höhe nach unterschiedliche Unterschiedsbeträge zwischen den
 Dienstaltersstufen bestehen, ist entsprechend zu verfahren.
 
-
 #### § 2 Versorgungsbezüge
 
 (1) Bei Versorgungsempfängern, deren Versorgungsbezügen ein
@@ -167,10 +156,7 @@ Versorgungsbezügen die Stellenzulage nach der Vorbemerkung Nummer 27
 Abs. 1 Buchstabe a oder b zu den Besoldungsordnungen A und B nicht
 zugrunde liegt.
 
-
 #### Abschnitt 2 - Einmalige Zahlung
-
-
 
 #### § 3 Empfänger von Dienstbezügen
 
@@ -204,7 +190,6 @@ Religionsgesellschaften und ihren Verbänden gleich.
 (6) Absatz 1 Satz 1 gilt für Empfänger von Amtsbezügen oder Amtsgehalt
 entsprechend.
 
-
 #### § 4 Versorgungsempfänger
 
 (1) Eine einmalige Zahlung erhalten die Empfänger von laufenden
@@ -234,7 +219,6 @@ Ausgleichsbezügen nach § 11a Abs. 1 Satz 2 Nr. 1 des
 Soldatenversorgungsgesetzes erhalten die einmalige Zahlung nach § 3
 dieses Gesetzes.
 
-
 #### § 5 Zahlung
 
 (1) Die einmalige Zahlung wird für jeden Berechtigten nur einmal
@@ -260,7 +244,6 @@ Abs. 5 des Beamtenversorgungsgesetzes oder entsprechende Vorschriften)
 der einmaligen Zahlung nach diesen Vorschriften gleich, auch wenn die
 Regelungen im einzelnen nicht übereinstimmen.
 
-
 ### Art 3 - Anpassung von Erschwerniszulagen und der Mehrarbeitsvergütung
 
 (1)
@@ -269,26 +252,15 @@ Regelungen im einzelnen nicht übereinstimmen.
 
 (3) (weggefallen)
 
-
 ## Teil 2 - Sonstige Änderungen besoldungs- und versorgungsrechtlicher Vorschriften
-
-
 
 ### Art 4 u. 5
 
-
-
 ### Art 6
-
-
 
 ### Art 7 bis 12
 
-
-
 ## Teil 3 - Übergangs- und Schlußvorschriften
-
-
 
 ### Art 13 - Neufassungen
 
@@ -298,7 +270,6 @@ geänderten Verordnungen in der Fassung, die am ersten Tage des auf die
 Verkündung dieses Gesetzes folgenden Kalendermonats gilt, im
 Bundesgesetzblatt bekanntmachen.
 
-
 ### Art 14 - Rückkehr zum einheitlichen Verordnungsrang
 
 Die auf Artikel 3, Artikel 9, Artikel 10, Artikel 11 und Artikel 12
@@ -306,13 +277,11 @@ beruhenden Teile der dort geänderten Rechtsverordnungen können auf
 Grund der jeweils einschlägigen Ermächtigung durch Rechtsverordnung
 geändert werden.
 
-
 ### Art 15 - Inkrafttreten
 
 (1) Dieses Gesetz tritt mit Wirkung vom 1. Mai 1995 in Kraft.
 
 (2)
-
 
 ## Anlagen 1 bis 5
 

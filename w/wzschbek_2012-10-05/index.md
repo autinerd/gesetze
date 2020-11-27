@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 2123
 
-
 ## (XXXX)
 
 Auf Grund des § 6a Absatz 2 des Gebrauchsmustergesetzes, der durch
@@ -110,10 +109,6 @@ Ausstellungen gewährt:
 19. „Stone+tec Nürnberg 2013 – 18. Internationale Fachmesse für Naturstein
     und Natursteinbearbeitung“
     vom 29. Mai bis 1. Juni 2013 in Nürnberg
-
-
-
-
 
 ## Schlussformel
 

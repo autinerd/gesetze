@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   Öff Anz: 1949, Nr 86, S 3
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 15 der 23. Verordnung zur Durchführung des
@@ -27,18 +25,11 @@ mit der Bank deutscher Länder die folgenden Richtlinien zur Erstellung
 des Reichsmarkabschlusses und der Umstellungsrechnung der
 Versicherungsunternehmen erlassen.
 
-
 ## Teil A - Für alle Versicherungszweige (RVA)
-
-
 
 ### I. - Allgemeines
 
-
-
 #### (XXXX) 1. bis 6. (weggefallen)
-
-
 
 #### 6a. Allgemeine Grundsätze für den Ansatz der Aktiven und Passiven in der Reichsmarkschlußbilanz
 
@@ -181,16 +172,6 @@ Passiven
             Betrages gebildet werden. Buchstabe a letzter Halbsatz ist
             entsprechend anzuwenden.
 
-
-
-
-
-
-
-
-
-
-
 #### 6b. Grundstücke, Inventar, Warenvorräte
 
 Die bisherigen Ansätze für Grundstücke und Gebäude, Betriebs- und
@@ -213,7 +194,6 @@ soweit beide Posten zusammen nicht mehr als eine Reichsmark für je
 eine Deutsche Mark des Ansatzes für das Grundstück in der
 Umstellungsrechnung ergeben.
 
-
 #### 6c. Kriegssachschäden
 
 (1) Kriegssachschädenforderungen dürfen in der Reichsmarkschlußbilanz
@@ -232,7 +212,6 @@ Gegenstandes oder den gesonderten Ausweis von Wiederaufbaukosten in
 der Reichsmarkschlußbilanz gelten die Grundsätze der Ziffer 6a
 Buchstabe A.
 
-
 #### 6d. Zinsansprüche
 
 Zinsansprüche für die Zeit bis zum 20. Juni 1948 dürfen mit der sich
@@ -245,7 +224,6 @@ wurden, oder mit deren Begleichung gerechnet werden kann. Dies gilt in
 gleicher Weise für Zinsansprüche aus Krediten wie für Zinsansprüche
 aus Schuldverschreibungen, sonstigen Wertpapieren und
 Schuldbuchforderungen.
-
 
 #### 6e. Anleiheablösungsforderungen mit Auslösungsrechten und Reichsschatzanweisungen 1944, Folge III
 
@@ -292,7 +270,6 @@ Prozent ein Zinssatz von 5 Prozent gilt.
 Anschaffungspreis zuzüglich 3,5 Prozent Zinsen auf den Nennbetrag für
 die Zeit vom Anschaffungsstichtag bis zum 8. Mai 1945 erhöht werden.
 
-
 #### 6f. Zuführung zum früheren Eigenkapital
 
 Wird für die Zeit vor dem 21. Juni 1948 die Veranlagung eines
@@ -317,7 +294,6 @@ die Auflösung überdotierter technischer Reserven, Rückstellungen und
 Wertberichtigungen in der Reichsmarkschlußbilanz gewonnenen Beträge
 mitberücksichtigt sind.
 
-
 #### 6g. Bilanztechnische Behandlung
 
 Erhöhungen bisheriger Wertansätze der Aktivseite und Verminderungen
@@ -329,7 +305,6 @@ endende Geschäftsjahr oder unmittelbar zugunsten oder zu Lasten von
 Eigenkapitalsposten erfolgen. Nach Ziffer 6c erforderliche
 Abschreibungen auf Kriegssachschädenforderungen sind zu Lasten der
 Rücklage für Ersatzbeschaffungen vorzunehmen.
-
 
 #### 6h. Berichtigungen der Reichsmarkschlußbilanz
 
@@ -381,7 +356,6 @@ sie sind gemeinsam mit dem ersten vorläufigen Abschluß der
 Umstellungsrechnung oder jeweils in Verbindung mit einer Berichtigung
 dieses Abschlusses zu prüfen.
 
-
 #### 6i. Weitergeltung bisheriger Grundsätze
 
 Soweit in den Vorschriften zur Neuordnung des Geldwesens und in diesen
@@ -391,22 +365,13 @@ maßgebenden Grundsätze, insbesondere auch die von den
 Versicherungsaufsichtsbehörden für die Bilanzen ab 1945 erlassenen
 Bilanzierungsrichtlinien.
 
-
 #### (XXXX) 7. bis 15. (weggefallen)
-
-
 
 ### II. bis V. -
 
-
-
 #### (XXXX) 16. bis 54. (weggefallen)
 
-
-
 ## Teil B - Ergänzungsrichtlinien für die Lebensversicherung (RVB)
-
-
 
 ### I. - Gliederung der Umstellungsrechnung
 
@@ -415,7 +380,6 @@ soweit neben der Lebensversicherung noch andere Versicherungszweige
 betrieben werden, ist es nach den für diese Zweige geltenden
 Richtlinien (Ergänzungsrichtlinien) zu erweitern. Für die öffentlich-
 rechtlichen Anstalten ist das Schema sinngemäß anzuwenden.
-
 
 ### II. - Aktiva
 
@@ -516,7 +480,6 @@ c)  die Anteile der Rückversicherer an den im Verhältnis 10:1 umgestellten
 5\. In dem **Posten der Rechnungsabgrenzung**              - A XXII -
 ist u.a. der im Prämienübertrag enthaltene Anteil der bereits
 verausgabten Provisionen aufzuführen.
-
 
 ### III. - Passiva
 
@@ -641,12 +604,10 @@ die Pensionsrückstellungen
 anderem die auf den Anteil der Rückversicherer am Prämienübertrag (A
 XXI) entfallenden Rückversicherungsprovisionen zu enthalten.
 
-
 ### IV. - Rückversicherungsunternehmen
 
 Für Rückversicherungsunternehmen gelten vorstehende Richtlinien
 sinngemäß.
-
 
 ### V. - Ergänzungsvorschriften für Sterbe- und Pensionskassen
 
@@ -700,13 +661,6 @@ mit folgenden Vorschriften:
 
     b)  Ob eine Kasse von geringerer wirtschaftlicher Bedeutung ist,
         entscheidet die Aufsichtsbehörde.
-
-
-
-
-
-
-
 
 ### - - Bilanzmuster für Lebensversicherungsunternehmen
 
@@ -944,13 +898,6 @@ Passiva
 
     XIV. Posten der Rechnungsabgrenzung
 
-
-
-
-
-
-
-
 ### - - Bilanzmuster für Sterbe- und Pensionskassen
 
 A.
@@ -1064,16 +1011,7 @@ Passiva
 
     VIII. Posten der Rechnungsabgrenzung
 
-
-
-
-
-
-
-
 ## Teil C - Ergänzungsrichtlinien für die Schadens- und Unfallversicherung (RVC)
-
-
 
 ### I. - Gliederung der Umstellungsrechnung
 
@@ -1083,7 +1021,6 @@ Versicherungszweige betrieben werden, ist es nach den für diese Zweige
 geltenden Richtlinien (Ergänzungsrichtlinien) zu erweitern.
 Für die öffentlich-rechtlichen Anstalten ist das Schema sinngemäß
 anzuwenden.
-
 
 ### II. - Aktiva
 
@@ -1105,7 +1042,6 @@ ausgefertigt worden sind, sowie Nachschüsse und Umlagen für 1948, die
 erst nach dem 20. Juni 1948 ausgeschrieben worden sind, insoweit mit
 dem vollen Betrag in Deutscher Mark einzusetzen, als sie als
 einbringlich anzusehen sind.
-
 
 ### III. - Passiva
 
@@ -1295,11 +1231,9 @@ Teil A Ziffer 48d und e              aufgeführten Rückstellungen sowie
 die Pensionsrückstellungen
 (Teil A Ziffer 49).
 
-
 ### IV. - Für Rückversicherungsunternehmen
 
 gelten vorstehende Richtlinien sinngemäß.
-
 
 ### - - Bilanzmuster für Schadens- und Unfallversicherungsunternehmen
 
@@ -1559,16 +1493,7 @@ Passiva
 
     XIV. Posten der Rechnungsabgrenzung
 
-
-
-
-
-
-
-
 ## Teil D - Ergänzungsrichtlinien für die Krankenversicherung (RVD)
-
-
 
 ### I. - Gliederung der Umstellungsrechnung
 
@@ -1577,7 +1502,6 @@ Soweit neben der Krankenversicherung noch andere Versicherungszweige
 betrieben werden, ist es nach den für diese Zweige geltenden
 Richtlinien (Ergänzungsrichtlinien) zu erweitern. Für die öffentlich-
 rechtlichen Anstalten ist das Schema sinngemäß anzuwenden.
-
 
 ### II. - Aktiva
 
@@ -1593,7 +1517,6 @@ Als **nachzuerhebende Prämienteile**              - A XIV 3 - sind die
 von den Versicherungsnehmern in Deutscher Mark zu leistenden
 Beitragsnachzahlungen in der Höhe einzusetzen, in der sie als
 einbringlich anzusehen sind.
-
 
 ### III. - Passiva
 
@@ -1741,7 +1664,6 @@ Gewinnanteilen entscheidet die Aufsichtsbehörde.
 Teil A Ziffer 48d und e              aufgeführten Rückstellungen sowie
 die Pensionsrückstellungen
 (Teil A Ziffer 49).
-
 
 ### - - Bilanzmuster für Krankenversicherungsunternehmen
 
@@ -1978,13 +1900,6 @@ Passiva
 
 
     XIII. Posten der Rechnungsabgrenzung
-
-
-
-
-
-
-
 
 #### Anlage (zu Teil D) Grundsätze für die Berechnung der Alterungsrückstellung, der Rückstellung für das Krankentagegeld, der Deckungsrückstellung für das nach den Tarifen der Krankheitskostenversicherung vorgesehene Sterbegeld und der Deckungsrückstellung für das Sterbegeld bei Krankentagegeldversicherungen
 
@@ -2246,7 +2161,6 @@ die berechnete, so ist der sich im Reichsmarkabschluß zwischen der
 bilanzmäßigen und der rechnungsmäßigen Rückstellung ergebende
 Mehrbetrag als Rückstellung für den schwankenden Jahresbedarf
 auszuweisen.
-
 
 #### Anhang 1 Normierte Kopfschäden
 
@@ -2690,9 +2604,6 @@ Fundstelle des Originaltextes: BGBl. III 7601-6-8, S. 91
     *
     *
     *
-
-
-
 
 #### Anhang 2 Tafel der Krankheitsdauern
 

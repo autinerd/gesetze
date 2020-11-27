@@ -19,31 +19,22 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 99 G v. 8.12.2010 I 1864
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art 1
-
-
 
 ## § 1
 
 -
 
-
 ## § 2 (weggefallen)
-
 
 ## § 3 (weggefallen)
 
-
 ## Art 2
-
-
 
 ## § 1 Entlastung des öffentlichen Personennahverkehrs mit Kraftfahrzeugen von Mineralölsteuer
 
@@ -125,7 +116,6 @@ Werden Betriebsbeihilfen vorsätzlich oder leichtfertig zu Unrecht
 beantragt, so entsteht für das auf die Antragstellung folgende Jahr
 kein Anspruch auf Betriebsbeihilfe.
 
-
 ## § 2 Übergangsregelung
 
 (1) Für Gasöl, das vor dem Inkrafttreten dieses Gesetzes von einem
@@ -145,7 +135,6 @@ und Erdgas vor dem Inkrafttreten dieses Gesetzes. Dies gilt nicht für
 Flüssiggas und Erdgas, das nach Artikel 1 § 2 Abs. 2 des Gesetzes zur
 Änderung des Mineralölsteuergesetzes 1964 und des Gesetzes über das
 Branntweinmonopol vom 26. Juni 1973 nachversteuert wurde.
-
 
 ## Art 3 - Zweckbindung des Mehraufkommens der Mineralölsteuer
 
@@ -191,19 +180,13 @@ zuletzt geändert durch Artikel 35 des Haushaltsstrukturgesetzes vom
 18\. Dezember 1975 (BGBl. I S. 3091), bereitgestellten Mittel nach den
 Bestimmungen des Gemeindefinanzierungsgesetzes zu verwenden.
 
-
 ## Art 4 u. 5
 
-
-
 ## Art 6
-
-
 
 ## § 1
 
 -
-
 
 ## § 2 Übergangsregelung
 
@@ -214,15 +197,11 @@ verbleibt es bei dem Verbilligungssatz von 32,15 DM für 100 l Gasöl.
 Satz 1 gilt für Rückzahlungen von Verbilligungsbeträgen für vor dem
 Inkrafttreten dieses Gesetzes bezogenes Gasöl entsprechend.
 
-
 ## Art 7
-
-
 
 ## § 1
 
 -
-
 
 ## § 2 Übergangsregelung
 
@@ -234,15 +213,11 @@ Gesetzes zu zahlen ist, verbleibt es bei dem Verbilligungssatz von
 2,35 DM für 100 Kilogramm. Dies gilt nicht für das Gasöl, das nach
 Artikel 1 § 2 dieses Gesetzes nachversteuert wurde.
 
-
 ## Art 8
-
-
 
 ## § 1
 
 -
-
 
 ## § 2 Übergangsregelung
 
@@ -256,7 +231,6 @@ des Betrags anzusetzen, um den die Jahressteuer sich erhöht hat.
 Entsprechendes gilt, wenn sich auf Grund dieses Gesetzes eine
 Mindersteuer ergibt.
 
-
 ## Art 9 - Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 und des § 13 Abs. 1
@@ -264,7 +238,6 @@ des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I
 S. 1) auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses
 Gesetzes erlassen werden, gelten im Land Berlin auf Grund des § 14 des
 Dritten Überleitungsgesetzes.
-
 
 ## Art 10 - Inkrafttreten
 

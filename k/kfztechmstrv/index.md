@@ -19,8 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 17.11.2011 I 2234
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 45 der Handwerksordnung in der Fassung der
@@ -31,10 +29,7 @@ März 1975 (BGBl. I S. 705) und dem Organisationserlass vom 27. Oktober
 und Technologie im Einvernehmen mit dem Bundesministerium für Bildung
 und Forschung:
 
-
 ## Abschnitt 1 - Gemeinsame Vorschriften
-
-
 
 ### § 1 Gliederung und Inhalt der Meisterprüfung
 
@@ -66,10 +61,7 @@ bleiben unberührt.
 sich nach der Allgemeinen Meisterprüfungsverordnung vom 26. Oktober
 2011 (BGBl. I S. 2149) in der jeweils geltenden Fassung.
 
-
 ## Abschnitt 2 - Vorschriften für die Teile I und II der Meisterprüfung
-
-
 
 ### § 2 Meisterprüfungsberufsbild
 
@@ -143,10 +135,6 @@ ganzheitliche Qualifikationen zugerechnet:
     einschließlich der Verwendung lösemittelarmer oder wasserbasierender,
     lösemittelfreier Produkte, wahrnehmen.
 
-
-
-
-
 ### § 3 Gliederung, Prüfungsdauer und Bestehen des Teils I
 
 (1) Der Teil I der Meisterprüfung umfasst als Prüfungsbereich eine
@@ -164,7 +152,6 @@ Teils I der Meisterprüfung ist eine insgesamt ausreichende
 Prüfungsleistung, wobei die Prüfung weder bei der Situationsaufgabe
 noch beim Fachgespräch mit weniger als 30 Punkten bewertet worden sein
 darf.
-
 
 ### § 4 Situationsaufgabe
 
@@ -258,7 +245,6 @@ auszuführen, wobei der Prüfling zwischen der Aufgabe nach Absatz 2 Nr.
 oder Nr. 2 wird das arithmetische Mittel aus den einzelnen Bewertungen
 gebildet.
 
-
 ### § 5 Fachgespräch
 
 Auf der Grundlage der Prüfungsleistungen in der Situationsaufgabe ist
@@ -268,7 +254,6 @@ zugrunde liegen, den Ablauf der Situationsaufgabe begründen sowie mit
 der Situationsaufgabe verbundene berufsbezogenen Probleme und deren
 Lösungen darstellen kann und dabei in der Lage ist, neue Entwicklungen
 zu berücksichtigen.
-
 
 ### § 6 Gliederung, Prüfungsdauer und Bestehen des Teils II
 
@@ -416,20 +401,13 @@ Prüfung des Teils II ist nicht bestanden, wenn
 2.  nach durchgeführter Ergänzungsprüfung zwei Prüfungsfächer jeweils mit
     weniger als 50 Punkten bewertet worden sind.
 
-
-
-
-
 ## Abschnitt 3 - Übergangs- und Schlussvorschriften
-
-
 
 ### § 7 Übergangsvorschrift
 
 Die Regelungen des § 6 Absatz 5 und 6 gelten nicht für die bis zum 31.
 Dezember 2011 begonnenen Prüfungsverfahren. Diese werden nach den
 bisherigen Vorschriften zu Ende geführt.
-
 
 ### § 8 Inkrafttreten, Außerkrafttreten
 

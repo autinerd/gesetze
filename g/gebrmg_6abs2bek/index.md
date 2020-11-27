@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1995, 942
 
-
-
 ## (XXXX)
 
 Auf Grund des § 6 Abs. 2 des Gebrauchsmustergesetzes in der Fassung

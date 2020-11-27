@@ -21,14 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 3 V v. 28.3.2011 I 521
 
-
 ## I. - Selbständige Berufe
 
-
-
 ### 1. - Besondere Anspruchsvoraussetzungen
-
-
 
 #### § 1 Abgrenzung gegenüber dem Schaden in der Nutzung des Eigentums und des Vermögens
 
@@ -37,14 +32,12 @@ Gewerbebetrieb gilt insoweit als Schaden in der Nutzung der
 Arbeitskraft, als es sich um den Ausfall an Entgelt für die Tätigkeit
 des Verfolgten als Betriebsinhaber handelt.
 
-
 #### § 2 Selbständige Erwerbstätigkeit
 
 Selbständige Erwerbstätigkeit ist jede berufsmäßig ausgeübte und auf
 Erzielung von Einkünften gerichtete Tätigkeit von nicht nur
 vorübergehender Dauer, die nicht auf Grund eines Dienst- oder
 Arbeitsverhältnisses ausgeübt worden ist.
-
 
 #### § 3 Verdrängung aus selbständiger Erwerbstätigkeit
 
@@ -70,7 +63,6 @@ weil der Verfolgte als Pächter aus den Verfolgungsgründen des § 1 BEG
 als zur Bewirtschaftung deutschen Bodens ungeeignet im Sinne der
 Reichspachtschutzordnung gegolten hat.
 
-
 #### § 4 Beschränkung in der Ausübung der selbständigen Erwerbstätigkeit
 
 (1) Beschränkung in der Ausübung der selbständigen Erwerbstätigkeit
@@ -91,7 +83,6 @@ mehr bauernfähig im Sinne des Reichserbhofgesetzes gegolten hat.
 Beschränkung in der Ausübung einer land- oder forstwirtschaftlichen
 Tätigkeit anzusehen.
 
-
 #### § 5 Mehrere selbständige Erwerbstätigkeiten
 
 Hat der Verfolgte gleichzeitig mehrere selbständige Erwerbstätigkeiten
@@ -99,21 +90,15 @@ ausgeübt und ist er nicht aus jeder dieser Erwerbstätigkeiten
 verdrängt worden, so liegt eine Beschränkung in der Ausübung der
 selbständigen Erwerbstätigkeit vor. § 66 Abs. 3 BEG findet Anwendung.
 
-
 ### 2. - Die gesetzlichen Ansprüche
 
-
-
 #### a) - Darlehen
-
-
 
 ##### § 6 Anderweitige Beschaffung von Geldmitteln
 
 Der Verfolgte kann sich die Geldmittel auch dann nicht anderweitig
 beschaffen (§ 69 Abs. 1 BEG), wenn er sie nur zu Bedingungen erhalten
 kann, die für ihn wirtschaftlich nicht tragbar sind.
-
 
 ##### § 7 Tatsächliche Voraussetzungen für das Darlehen
 
@@ -124,12 +109,10 @@ Erwerbstätigkeit ermöglicht wird. Das gleiche gilt für Darlehen zur
 Festigung der Grundlage der bereits aufgenommenen früheren oder einer
 gleichwertigen selbständigen Erwerbstätigkeit.
 
-
 ##### § 8 Höhe des Darlehens
 
 Bei der Bemessung des Darlehens ist der Umfang des früheren
 Unternehmens oder der früheren Teilhaberschaft zu berücksichtigen.
-
 
 ##### § 9 Unmöglichkeit der Sicherung
 
@@ -138,12 +121,10 @@ Sicherung gegeben werden, wenn nach der persönlichen und fachlichen
 Eignung des Verfolgten und seinen Erwerbsaussichten die Tilgung des
 Darlehens nicht wesentlich gefährdet erscheint.
 
-
 ##### § 10 Zusätzliches Darlehen
 
 Auf das zusätzliche Darlehen sind die §§ 6 bis 9 entsprechend
 anzuwenden.
-
 
 ##### § 11 Darlehen für den überlebenden Ehegatten und die Kinder
 
@@ -176,10 +157,7 @@ Hat der Berechtigte Anspruch auf ein Darlehen nach § 117 BEG, so ist
 ein Darlehen nach § 73 BEG nur zu gewähren, sofern dies für den
 Berechtigten günstiger ist.
 
-
 #### b) - Kapitalentschädigung
-
-
 
 ##### § 12 Zeitliche Begrenzung der Kapitalentschädigung
 
@@ -196,7 +174,6 @@ Schädigung im beruflichen Fortkommen erzielt hat.
 der nach § 75 Abs. 3 BEG zu gewährenden Zuschläge sind der als Anlage
 1 beigefügten Einkommensübersicht zu entnehmen.
 
-
 ##### § 13 Berechnung der Kapitalentschädigung
 
 Der Berechnung der Kapitalentschädigung ist die als Anlage 2
@@ -205,7 +182,6 @@ einfachen, mittleren, gehobenen und höheren Dienstes gegliederte
 Besoldungsübersicht zugrunde zu legen, die das durchschnittliche
 Diensteinkommen (Grundgehalt und Wohnungsgeld) dieser Beamtengruppen,
 nach Lebensaltersstufen gegliedert, ausweist.
-
 
 ##### § 14 Einreihung in eine vergleichbare Beamtengruppe
 
@@ -240,7 +216,6 @@ voraussichtliche Einkommen nicht feststellen, so bemißt sich die
 wirtschaftliche Stellung nach dem Durchschnittseinkommen, das im
 gleichen Beruf Erwerbstätige in der Regel erzielt haben.
 
-
 ##### § 15 Erreichbare Dienstbezüge eines vergleichbaren Bundesbeamten
 
 (1) Die erreichbaren Dienstbezüge eines vergleichbaren Bundesbeamten
@@ -254,11 +229,9 @@ Zeitpunkt der Entscheidung noch nicht beendet, so tritt an die Stelle
 des Lebensalters des Verfolgten am Ende des Entschädigungszeitraums
 das Lebensalter im Zeitpunkt der Entscheidung.
 
-
 ##### § 16 Alters- und Hinterbliebenenversorgung
 
 (Entfällt)
-
 
 ##### § 17 Berücksichtigung des anderweitigen Arbeitseinkommens nach § 77 BEG
 
@@ -271,11 +244,9 @@ erzielte Einkommen und die Kapitalentschädigung für den gesamten
 Entschädigungszeitraum den während dieses Zeitraums erreichbaren
 Dienstbezügen eines vergleichbaren Bundesbeamten gegenüberzustellen.
 
-
 ##### § 18 Umrechnung der Kapitalentschädigung
 
 (Entfällt)
-
 
 ##### § 19 Weiterleistung der Kapitalentschädigung
 
@@ -284,7 +255,6 @@ Jahresbetrag wird nach § 80 BEG in monatlichen Teilbeträgen
 weitergezahlt, bis der Höchstbetrag der Kapitalentschädigung nach §
 123 BEG erreicht ist oder der Entschädigungszeitraum nach Maßgabe der
 §§ 75, 79 BEG endet.
-
 
 ##### § 20 Anzeigepflicht
 
@@ -296,10 +266,7 @@ führen.
 (2) Hat der Verfolgte einen gesetzlichen Vertreter, so obliegt diesem
 die Anzeigepflicht.
 
-
 #### c) - Rente
-
-
 
 ##### § 21 Voraussetzungen für das Rentenwahlrecht
 
@@ -322,7 +289,6 @@ ausreichende Lebensgrundlage bietet, ist eine Versorgung dann
 gleichzuachten, wenn die laufenden Leistungen den nach § 83 BEG zu
 errechnenden Rentenbeträgen entsprechen.
 
-
 ##### § 22 Berechnung der Rente
 
 (1) Der Berechnung der Rente ist die als Anlage 5a, b und c
@@ -334,7 +300,6 @@ Versorgungsbezüge sowie zwei Drittel dieser Versorgungsbezüge, nach
 Lebensaltersstufen gegliedert, ausweist.
 
 (2) § 14 findet Anwendung.
-
 
 ##### § 22a Erhöhung des monatlichen Höchstbetrages der Rente (§ 83 Abs. 2 des Bundesentschädigungsgesetzes)
 
@@ -905,15 +870,11 @@ Der monatliche Höchstbetrag der Rente beträgt
     *
     *
 
-
-
-
 ##### § 22b Zahlung der Rente
 
    Die Rente wird in monatlich vorauszahlbaren Beträgen vom Ersten des
 Monats an gezahlt, in dem die Voraussetzungen für den Rentenanspruch
 erfüllt sind, frühestens jedoch vom 1. November 1953 an.
-
 
 ##### § 23 Entschädigung für die Zeit vor dem 1. November 1953
 
@@ -925,7 +886,6 @@ gezahlt wird, zustehen würde.
 
 (2) Der Anspruch auf diese Entschädigung ist nach § 13 BEG vererblich
 und nach § 14 BEG übertragbar.
-
 
 ##### § 24 Rente für den überlebenden Ehegatten und die Kinder
 
@@ -1275,7 +1235,6 @@ Zeitraums vorgelegen hat.
 (7) In den Fällen des § 86 Abs. 3 Satz 2 BEG findet § 23 entsprechende
 Anwendung.
 
-
 ##### § 24a Renten für den überlebenden Ehegatten in den Fällen des § 86 Abs. 6 BEG
 
 (1) Der Rentenanspruch des überlebenden Ehegatten nach § 86 Abs. 6 BEG
@@ -1287,7 +1246,6 @@ nach § 86 Abs. 6 BEG nicht.
 
 (3) Im übrigen findet § 24 entsprechende Anwendung.
 
-
 ##### § 25 Beginn der Rentenzahlung für den überlebenden Ehegatten und die Kinder
 
 (1) Die Renten nach den §§ 85 und 85a BEG werden vom Ersten des Monats
@@ -1295,7 +1253,6 @@ an gezahlt, der dem Monat folgt, in dem der Verfolgte verstorben ist.
 
 (2) In den Fällen des § 86 Abs. 1 bis 3 BEG wird die Rente vom Ersten
 des Monats an gezahlt, in dem der Verfolgte verstorben ist.
-
 
 ##### § 25a Erlöschen der Rente
 
@@ -1315,10 +1272,6 @@ Die Rente erlischt
     Abs. 1 und 2 der Ersten Verordnung zur Durchführung des
     Bundesentschädigungsgesetzes in der Fassung der Verordnung vom 13.
     April 1966 (Bundesgesetzbl. I S. 292) vorliegen.
-
-
-
-
 
 ##### § 26 Anzeigepflicht
 
@@ -1344,7 +1297,6 @@ Rente ganz oder teilweise eingestellt werden. Dies gilt nur, wenn der
 Berechtigte oder sein gesetzlicher Vertreter auf diese Rechtsfolgen
 vorher hingewiesen worden ist.
 
-
 ##### § 27 Änderung der Verhältnisse
 
 (1) Die Rente nach den §§ 85, 85a und 86 BEG wird im Falle des § 206
@@ -1357,18 +1309,11 @@ Berechtigte den Erlaß des Bescheides schuldhaft verhindert oder
 verzögert, so kann die Rückzahlung der überzahlten Rente angeordnet
 werden.
 
-
 ## II. - Unselbständige Berufe
-
-
 
 ### 1. - Privater Dienst. Die gesetzlichen Ansprüche
 
-
-
 #### a) - Darlehen
-
-
 
 ##### § 28 Voraussetzung für die Darlehnsgewährung
 
@@ -1380,10 +1325,7 @@ Erwerbstätigkeit eine ausreichende Lebensgrundlage bietet.
 (2) Auf die Gewährung von Darlehen finden im übrigen die §§ 6, 7 Satz
 2 und § 9 entsprechende Anwendung.
 
-
 #### b) - Kapitalentschädigung
-
-
 
 ##### § 29 Berechnung der Kapitalentschädigung
 
@@ -1393,7 +1335,6 @@ Anwendung mit der Maßgabe, daß der Verdrängung die Entlassung oder das
 vorzeitige Ausscheiden und der wesentlichen Beschränkung die
 Versetzung in eine erheblich geringer entlohnte Beschäftigung
 gleichzusetzen sind.
-
 
 ##### § 30 Einreihung in eine vergleichbare Beamtengruppe
 
@@ -1405,21 +1346,16 @@ Beziehungen zum Unternehmer nicht gegen Entgelt oder gegen
 unverhältnismäßig geringes Entgelt tätig, so ist die tarifliche oder
 sonst übliche Vergütung zugrunde zu legen.
 
-
 ##### § 31 Alters- und Hinterbliebenenversorgung
 
 (Entfällt)
-
 
 ##### § 32 Berücksichtigung anderweitigen Einkommens
 
 Für die Berücksichtigung des durch anderweitige Verwertung der
 Arbeitskraft erzielten Einkommens findet § 17 entsprechende Anwendung.
 
-
 #### c) - Rente
-
-
 
 ##### § 33 Berechnung der Rente
 
@@ -1616,7 +1552,6 @@ dem der Verfolgte das 65. Lebensjahr vollendet hat oder in seinem
 Beruf nicht mehr als 50 vom Hundert arbeitsfähig ist, frühestens
 jedoch vom 1. November 1953 an. Bei Frauen tritt an Stelle des 65. das
 60\. Lebensjahr.
-
 
 ##### § 33a Erhöhung des monatlichen Höchstbetrages der Rente (§ 95 Abs. 1 des Bundesentschädigungsgesetzes)
 
@@ -2186,9 +2121,6 @@ Der monatliche Höchstbetrag der Rente beträgt
     *
     *
     *
-
-
-
 
 ##### § 34 Mindestrente
 
@@ -2788,7 +2720,6 @@ Bundesentschädigungsgesetzes betragen für
 
 
    (4) Die §§ 26 und 27 finden entsprechende Anwendung.
-
 
 ##### § 35 Grundlagen der Berechnung für die Rente des überlebenden Ehegatten und der Kinder
 
@@ -3745,16 +3676,11 @@ an die Stelle der in Absatz 4 genannten Beträge folgende Beträge:
 
     *   446 Euro.
 
-
-
-
-
 ##### § 35a Entschädigung in Höhe der Rentenbezüge eines Jahres im Falle des § 98 BEG
 
 Für die Berechnung der Entschädigung in Höhe der Rentenbezüge eines
 Jahres im Falle des § 98 BEG findet § 23 entsprechende Anwendung.
 Dabei ist § 95 BEG zu berücksichtigen.
-
 
 ##### § 35b Rente für den überlebenden Ehegatten im Falle der §§ 98, 86 Abs. 4 und 6 BEG
 
@@ -3770,15 +3696,11 @@ zugrunde zu legen.
 (3) § 97 Abs. 2 Satz 1 BEG sowie die §§ 24a und 35 finden
 entsprechende Anwendung.
 
-
 ##### § 35c Erlöschen der Rente
 
 Für das Erlöschen der Rente findet § 25a entsprechende Anwendung.
 
-
 ### 2. - Angestellte und Arbeiter im Sinne der §§ 109 und 110 BEG
-
-
 
 #### § 36
 
@@ -3791,10 +3713,7 @@ einer Altersgrenze oder auf Hinterbliebenenversorgung auf der
 Grundlage des Arbeitsentgelts und der Dauer der Dienstzeit zugesichert
 war.
 
-
 ## III. - Schädigung in selbständiger und unselbständiger Erwerbstätigkeit
-
-
 
 ### § 37
 
@@ -3827,10 +3746,7 @@ entlohnte Beschäftigung geschädigt worden ist.
 Verfolgte nacheinander selbständig und unselbständig erwerbstätig war
 und in beiden Erwerbstätigkeiten geschädigt worden ist.
 
-
 ## IV. - Schaden in der Ausbildung
-
-
 
 ### § 38
 
@@ -3845,10 +3761,7 @@ oder Berufsausbildung infolge der gegen die Eltern gerichteten
 nationalsozialistischen Verfolgungs- oder Unterdrückungsmaßnahmen
 verzögert hat.
 
-
 ## V. - Verfolgte aus den Vertreibungsgebieten
-
-
 
 ### § 38a
 
@@ -4513,12 +4426,7 @@ Bundesentschädigungsgesetzes beträgt
     *
     *
 
-
-
-
 ## VI. - Bewertung der im Ausland erzielten Einkünfte
-
-
 
 ### § 39
 
@@ -4532,10 +4440,7 @@ Währung, so soll die Kaufkraft angemessen berücksichtigt werden. Dabei
 sind die Durchschnittswerte der Devisenkurse und die
 Kaufkraftrichtzahlen für jedes Jahr gegenüberzustellen.
 
-
 ## VII. - Schlußbestimmungen
-
-
 
 ### § 40 Verteilung von anzurechnenden Leistungen
 
@@ -4544,13 +4449,11 @@ soll der anzurechnende Betrag derart verteilt werden, daß dem
 Berechtigten mindestens die Hälfte des Monatsbetrages der
 festgesetzten Rente verbleibt.
 
-
 ### § 41 Aufrundung der Entschädigungsleistungen
 
 Die errechneten und die auszuzahlenden Beträge der
 Kapitalentschädigung und der Rente sind auf volle Deutsche Mark, ab
 dem 1. Januar 2002 auf volle Euro aufzurunden.
-
 
 ### § 41a Stichtag für Neufestsetzung der Renten
 
@@ -4558,7 +4461,6 @@ Renten, die auf Grund des Bundesentschädigungsgesetzes oder dieser
 Verordnung vom 18. September 1965 an zu gewähren oder neu festzusetzen
 sind, werden mit Wirkung vom 1. September 1965 an gewährt oder neu
 festgesetzt.
-
 
 ### § 41b Übergangsvorschriften für Änderungen dieser Verordnung
 
@@ -4587,11 +4489,9 @@ Berechtigten durch unanfechtbaren Bescheid oder durch rechtskräftige
 gerichtliche Entscheidung vorbehaltlos festgesetzt worden sind, behält
 es hierbei zugunsten der Berechtigten sein Bewenden.
 
-
 ### § 42
 
 (weggefallen)
-
 
 ### § 43 Zeitlicher Anwendungsbereich
 
@@ -4620,12 +4520,10 @@ es hierbei zugunsten der Berechtigten sein Bewenden.
 §§ 16, 18 und 31
 mit Wirkung vom 18. September 1965.
 
-
 ### Anlage 1 zu den §§ 12 und 21 der 3.DV-BEG Einkommensübersicht
 
 (Inhalt: nicht darstellbare Tabelle
 Fundstelle: BGBl. I 1983, 118 bis 119)
-
 
 ### Anlage 2 zu § 13 der 3.DV-BEG Besoldungsübersicht Kapitalentschädigung
 
@@ -4909,10 +4807,6 @@ Fundstelle des Originaltextes: BGBl. I 1966, 309
 
     *   (946,-)
 
-
-
-
-
 ### Anlage 3 zu § 14 der 3.DV-BEG Besoldungsübersicht
 
 Fundstelle des Originaltextes: BGBl. I 1966, 310
@@ -5008,10 +4902,6 @@ Fundstelle des Originaltextes: BGBl. I 1966, 310
     *   10.400,-
 
     *   11.500,-
-
-
-
-
 
 ### Anlage 4 zu den §§ 15 und 17 der 3. DV-BEG Besoldungsübersicht
 
@@ -7712,10 +7602,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   51 414
 
-
-
-
-
 ### Anlage 5a (zu § 22 der 3. DV-BEG) Besoldungsübersicht Rente
 
 (Fundstelle des Originaltextes: BGBl. I 1966, 313 bis 315)
@@ -9353,10 +9239,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   785
 
-
-
-
-
 ### Anlage 5b (zu § 22 der 3.DV-BEG) Besoldungsübersicht Rente
 
 Fundstelle des Originaltextes: BGBl. I 1970, 1089 bis 1090
@@ -10254,10 +10136,6 @@ Fundstelle des Originaltextes: BGBl. I 1970, 1089 bis 1090
     *   964
 
     *   1.066
-
-
-
-
 
 ### Anlage 5c zu § 22 der 3. DV-BEG Besoldungsübersicht Rente
 

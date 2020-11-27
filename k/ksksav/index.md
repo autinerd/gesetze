@@ -18,16 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 9 u. 10 G v. 13.6.2001 I 1027
 
-
 ## Eingangsformel
 
 Auf Grund des § 48 des Künstlersozialversicherungsgesetzes vom 27.
 Juli 1981 (BGBl. I S. 705) wird verordnet:
 
-
 ### Erster Abschnitt - Beirat
-
-
 
 #### § 1 Aufgaben
 
@@ -35,7 +31,6 @@ Der Beirat berät die Künstlersozialkasse bei der Erfüllung ihrer
 Aufgaben, insbesondere bei der Erfassung des versicherungs- und
 abgabepflichtigen Personenkreises und der Entscheidung über die
 Versicherungs- und Abgabepflicht.
-
 
 #### § 2 Zusammensetzung
 
@@ -48,20 +43,17 @@ der Versicherten und der zur Abgabe Verpflichteten.
 
 (3) Jedes Mitglied hat einen Stellvertreter.
 
-
 #### § 3 Rechte und Pflichten der Mitglieder
 
 Die Mitglieder des Beirats sind zu gewissenhafter und unparteiischer
 Erfüllung ihrer Aufgabe verpflichtet. Sie sind nicht an Weisungen
 gebunden.
 
-
 #### § 4 Amtsdauer
 
 Die Amtsdauer der Mitglieder des Beirats beträgt vier Jahre. Scheidet
 ein Mitglied vorzeitig aus seinem Amt aus, so ist für den Rest der
 Amtsdauer ein Nachfolger zu berufen.
-
 
 #### § 5 Vorsitz
 
@@ -70,7 +62,6 @@ einen Vorsitzenden und einen stellvertretenden Vorsitzenden; diese
 müssen verschiedenen Kreisen (§ 2 Abs. 1) angehören. Nach jeweils
 einem Jahr wechseln sich die Gewählten im Vorsitz und
 stellvertretenden Vorsitz ab.
-
 
 #### § 6 Einberufung
 
@@ -91,14 +82,12 @@ Stellvertreter sowie die Künstlersozialkasse zu benachrichtigen.
 3 Satz 2 des Gesetzes gehört werden, ist der Einladung der Entwurf des
 Haushaltsplans beizufügen.
 
-
 #### § 7 Sitzung
 
 (1) Die Sitzungen des Beirats sind nicht öffentlich.
 
 (2) An den Sitzungen kann neben dem Mitglied der Stellvertreter ohne
 Stimme und Entschädigung teilnehmen.
-
 
 #### § 8 Beschlußfassung
 
@@ -107,7 +96,6 @@ anwesend ist.
 
 (2) Der Beirat faßt seine Beschlüsse mit der Mehrheit der abgegebenen
 Stimmen der anwesenden Mitglieder.
-
 
 #### § 9 Erstattung der baren Auslagen, Pauschbetrag für Zeitaufwand
 
@@ -119,10 +107,7 @@ geltenden Vorschriften.
 Sitzung einen Pauschbetrag für Zeitaufwand in Höhe von 39 Euro. Für
 den Vorsitzenden beträgt der Pauschbetrag 75 Euro.
 
-
 ### Zweiter Abschnitt - Ausschüsse
-
-
 
 #### § 10 Berufung der Mitglieder
 
@@ -134,7 +119,6 @@ Abs. 1 des Gesetzes (Widerspruchsausschuß) gebildet.
 des Gesetzes aus den Reihen der Beiratsmitglieder des jeweiligen
 Bereichs berufen.
 
-
 #### § 11 Berufung der Stellvertreter
 
 Für jedes Mitglied eines Ausschusses ist mindestens ein Stellvertreter
@@ -142,19 +126,16 @@ zu berufen. Werden mehrere Stellvertreter berufen, ist bei der
 Berufung die Reihenfolge der Stellvertretung festzulegen. § 10 Abs. 2
 gilt entsprechend.
 
-
 #### § 12 Amtsdauer
 
 Die Amtsdauer der Mitglieder der Ausschüsse und ihrer Stellvertreter
 richtet sich nach ihrer Amtsdauer als Mitglieder oder Stellvertreter
 im Beirat. § 4 Satz 2 gilt entsprechend.
 
-
 #### § 13 Vorsitz
 
 Den Vorsitz in den Ausschüssen führt jeweils der Vertreter der
 Künstlersozialkasse.
-
 
 #### § 14 Zuständigkeit
 
@@ -179,18 +160,15 @@ bestimmt sich die Zuständigkeit wie folgt:
 (3) Hält sich ein Ausschuß nicht für zuständig, bestimmt die
 Künstlersozialkasse den zuständigen Ausschuß.
 
-
 #### § 15 Einberufung
 
 (1) Zu den Sitzungen des Ausschusses lädt der Vorsitzende ein.
 
 (2) In der Einladung ist die Tagesordnung mitzuteilen.
 
-
 #### § 16 Sitzung
 
 Die Sitzungen des Ausschusses sind nicht öffentlich.
-
 
 #### § 17 Hinderungsgründe
 
@@ -198,7 +176,6 @@ Ist ein Mitglied aus den in § 16 des Zehnten Buches Sozialgesetzbuch
 genannten Gründen oder einem anderen wichtigen Grund gehindert, an der
 Beratung und Abstimmung teilzunehmen, hat es dies dem Vorsitzenden
 unverzüglich anzuzeigen.
-
 
 #### § 18 Entscheidung
 
@@ -211,7 +188,6 @@ stattgegeben oder in der Sache weiter aufgeklärt werden soll. Kommt
 eine Stimmenmehrheit nicht zustande, gilt der Widerspruch als
 zurückgewiesen.
 
-
 #### § 19 Niederschrift
 
 Über die Ausschußsitzung ist eine Niederschrift zu fertigen, die Ort
@@ -219,12 +195,10 @@ und Tag, Beginn und Ende der Sitzung, die Namen der Anwesenden und die
 getroffene Entscheidung enthalten muß. Die Niederschrift ist vom
 Vorsitzenden zu unterzeichnen.
 
-
 #### § 20 Widerspruchsbescheid
 
 Der Widerspruchsbescheid ist vom Vorsitzenden zu unterzeichnen und,
 sofern er nicht nach § 21 beanstandet wird, zuzustellen.
-
 
 #### § 21 Beanstandung von Rechtsverstößen
 
@@ -240,21 +214,16 @@ Aufsichtsbehörde bis zum Ablauf von zwei Monaten nach ihrer
 Unterrichtung nicht entschieden, ist der Widerspruchsbescheid
 zuzustellen.
 
-
 #### § 22 Erstattung der baren Auslagen, Pauschbetrag für Zeitaufwand
 
 Für die Tätigkeit der Beiratsmitglieder in den Ausschüssen gilt § 9
 entsprechend.
 
-
 ### Dritter Abschnitt - Schlußvorschrift
-
-
 
 #### § 23 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 #### Schlußformel
 

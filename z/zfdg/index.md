@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 5 G v. 21.7.2012 I 1566
 
-
 ## Kapitel 1 - Organisation
-
-
 
 ### § 1 Behörden des Zollfahndungsdienstes
 
@@ -34,21 +31,15 @@ Finanzen.
 Personal und Haushalt kann das Bundesministerium der Finanzen auf die
 Bundesfinanzdirektionen übertragen.
 
-
 ### § 2 Zentralstelle
 
 Das Zollkriminalamt ist die Zentralstelle für den Zollfahndungsdienst
 und ist darüber hinaus eine der Zentralstellen für das Auskunfts- und
 Nachrichtenwesen der Zollverwaltung.
 
-
 ## Kapitel 2 - Zollkriminalamt
 
-
-
 ### Abschnitt 1 - Aufgaben des Zollkriminalamtes
-
-
 
 #### § 3 Aufgaben als Zentralstelle
 
@@ -195,7 +186,6 @@ auf Anforderung von Finanzbehörden, Staatsanwaltschaften und
 Gerichten. Darüber hinaus erstellt es Leitfäden und Gutachten zur
 Verschlusssicherheit von Fahrzeugen und Behältern.
 
-
 #### § 4 Eigene Aufgaben
 
 (1) Das Zollkriminalamt kann in Fällen von besonderer Bedeutung die
@@ -220,7 +210,6 @@ Zuständigkeitsbereich der Zollverwaltung mit.
 (4) Das Zollkriminalamt wirkt bei der Bekämpfung der international
 organisierten Geldwäsche nach den §§ 1, 12a bis 12c und 31a des
 Zollverwaltungsgesetzes mit.
-
 
 #### § 5 Sicherungs- und Schutzmaßnahmen
 
@@ -251,10 +240,7 @@ der Polizeibehörden, die zur Abwehr von Gefahren für die in den Sätzen
 1 und 2 genannten Personen erforderlichen unaufschiebbaren Maßnahmen
 zu treffen, bleibt unberührt.
 
-
 ### Abschnitt 2 - Befugnisse des Zollkriminalamtes
-
-
 
 #### § 6 Weisungsrecht
 
@@ -262,7 +248,6 @@ Das Zollkriminalamt kann den Zollfahndungsämtern zur Erfüllung ihrer
 Aufgaben und zur Erfüllung seiner eigenen Aufgaben fachliche Weisungen
 erteilen. Im Übrigen gilt § 8 Abs. 3 Satz 2 und 3 des
 Finanzverwaltungsgesetzes entsprechend.
-
 
 #### § 7 Datenerhebung und -verarbeitung der Zentralstelle
 
@@ -282,7 +267,6 @@ zugrunde liegen.
 (4) Das Zollkriminalamt darf die bei ihm als Zentralstelle
 gespeicherten Daten, soweit erforderlich, auch zur Erfüllung seiner
 Aufgaben nach den §§ 4 und 5 nutzen.
-
 
 #### § 8 Sammlungen personenbezogener Daten der Zentralstelle
 
@@ -378,10 +362,6 @@ verändern und nutzen, wenn
 
 3.  die Daten nach § 23 Abs. 1 Nr. 4 erhoben wurden.
 
-
-
-
-
 #### § 9 Sammlungen personenbezogener Daten zur Beobachtung bestimmter Verkehre
 
 (1) Soweit es zur Erfüllung seiner Aufgaben nach § 3 Abs. 9 Nr. 1 in
@@ -432,7 +412,6 @@ zulässig, soweit
 (3) Das Zollkriminalamt darf die nach den Absätzen 1 und 2
 gespeicherten Daten auch zur Erfüllung seiner übrigen Aufgaben als
 Zentralstelle nutzen.
-
 
 #### § 10 Sammlungen personenbezogener Daten für Zwecke der Ausschreibung
 
@@ -491,7 +470,6 @@ Dienststelle und das Aktenzeichen zur Unterhaltung von Einrichtungen
 für kriminalwissenschaftliche und -technische Untersuchungen nach § 3
 Abs. 8 Nr. 2 speichern, verändern und nutzen.
 
-
 #### § 11 Zollfahndungsinformationssystem
 
 (1) Das Zollkriminalamt ist im Rahmen seiner Aufgaben nach § 3 Abs. 1
@@ -538,7 +516,6 @@ Protokolldaten sind nach zwölf Monaten zu löschen. Das Zollkriminalamt
 trifft die technischen und organisatorischen Maßnahmen nach § 9 des
 Bundesdatenschutzgesetzes.
 
-
 #### § 12 Datenschutzrechtliche Verantwortung im Zollfahndungsinformationssystem
 
 (1) Das Zollkriminalamt hat die Einhaltung der Regelungen zur Führung
@@ -557,7 +534,6 @@ Empfänger.
 Zollkriminalamt im Einvernehmen mit der nach Absatz 2 verantwortlichen
 Stelle.
 
-
 #### § 13 Unterrichtung der Zentralstelle für das Zollfahndungsinformationssystem
 
 (1) Die zur Teilnahme am Zollfahndungsinformationssystem berechtigten
@@ -575,7 +551,6 @@ Zollfahndungsinformationssystem erforderlich ist.
 dieses die Verantwortung. Im Übrigen trägt die übermittelnde Stelle
 die Verantwortung für die Zulässigkeit der Übermittlung.
 
-
 #### § 14 Koordination und Lenkung von Ermittlungen
 
 Das Zollkriminalamt kann zur Erfüllung seiner Aufgaben nach § 3 Abs. 5
@@ -583,7 +558,6 @@ ermittlungsführenden Dienststellen der Zollverwaltung außerhalb des
 Zollfahndungsdienstes, soweit diese die Ermittlungen nicht
 selbstständig im Sinne des § 386 Abs. 2 der Abgabenordnung führen,
 fachliche Weisungen erteilen.
-
 
 #### § 15 Sammlungen personenbezogener Daten zur Erfüllung eigener Aufgaben
 
@@ -593,13 +567,11 @@ entsprechend; bei der Erfüllung der Aufgaben nach § 4 Abs. 2 bis 4
 gilt darüber hinaus § 9 mit Ausnahme von dessen Absatz 2 Satz 2 Nr. 2
 entsprechend.
 
-
 #### § 16 Weitere Befugnisse
 
 Dem Zollkriminalamt und seinen Beamten stehen die Befugnisse der
 Zollfahndungsämter zu; seine Beamten sind Ermittlungspersonen der
 Staatsanwaltschaft.
-
 
 #### § 17 Verwendung von Daten aus Strafverfahren
 
@@ -609,7 +581,6 @@ Ordnungswidrigkeiten im Zuständigkeitsbereich der Zollverwaltung sowie
 für Zwecke der Eigensicherung und des Zeugenschutzes verwenden. Die
 Verwendung ist unzulässig, soweit besondere bundesgesetzliche
 Verwendungsregelungen entgegenstehen.
-
 
 #### § 18 Datenerhebung durch längerfristige Observationen
 
@@ -688,7 +659,6 @@ trifft die Staatsanwaltschaft.
 (6) Bei einer Observation ist der Einsatz technischer Hilfsmittel
 zulässig.
 
-
 #### § 19 Datenerhebung durch den verdeckten Einsatz technischer Mittel zur Anfertigung von Bildaufnahmen und Bildaufzeichnungen
 
 (1) Das Zollkriminalamt darf außerhalb von Wohnungen personenbezogene
@@ -727,7 +697,6 @@ für den der Erhebung zugrunde liegenden Zweck nicht erforderlich sind
 oder nach Maßgabe der Strafprozessordnung zur Verfolgung einer
 Straftat nicht benötigt werden, sind sie unverzüglich zu löschen. Die
 Löschung ist zu dokumentieren.
-
 
 #### § 20 Datenerhebung durch den verdeckten Einsatz technischer Mittel zum Abhören und Aufzeichnen des nicht öffentlich gesprochenen Wortes
 
@@ -776,7 +745,6 @@ den Betroffenen geführt wird und durch die Unterrichtung der
 Untersuchungszweck gefährdet wäre; die Entscheidung trifft die
 Staatsanwaltschaft.
 
-
 #### § 21 Datenerhebung durch den Einsatz von Privatpersonen, deren Zusammenarbeit mit dem Zollkriminalamt Dritten nicht bekannt ist
 
 (1) Das Zollkriminalamt darf personenbezogene Daten durch den Einsatz
@@ -824,7 +792,6 @@ ein strafrechtliches Ermittlungsverfahren gegen den Betroffenen
 geführt wird und durch die Unterrichtung der Untersuchungszweck
 gefährdet wäre; die Entscheidung trifft die Staatsanwaltschaft.
 
-
 #### § 22 Eigensicherung durch Einsatz technischer Mittel außerhalb von Wohnungen
 
 (1) Wird das Zollkriminalamt im Rahmen seiner Befugnisse zur Verhütung
@@ -850,7 +817,6 @@ der öffentlichen Sicherheit, von Leib oder Leben einer Person sowie
 der Möglichkeit der weiteren Verwendung der beauftragten Person
 geschehen kann. Die Staatsanwaltschaft entscheidet, ob der
 Untersuchungszweck gefährdet ist.
-
 
 #### § 22a Eigensicherung durch Einsatz technischer Mittel innerhalb von Wohnungen
 
@@ -897,7 +863,6 @@ verwendet werden zur
 
 
 (4) § 18 Abs. 4 und § 22 Abs. 4 gelten entsprechend.
-
 
 #### § 23 Befugnisse bei Sicherungs- und Schutzmaßnahmen
 
@@ -994,10 +959,7 @@ Verantwortung für die Zulässigkeit der Übermittlung trägt die
 übermittelnde Stelle. Erfolgt die Übermittlung auf Ersuchen des
 Zollkriminalamtes, trägt dieses die Verantwortung.
 
-
 ### Abschnitt 3 - Präventive Telekommunikations- und Postüberwachung
-
-
 
 #### § 23a Beschränkung des Brief-, Post- und Fernmeldegeheimnisses
 
@@ -1182,7 +1144,6 @@ Ergebnis der durchgeführten Maßnahme zu unterrichten.
 
 (8) § 2 des Artikel 10-Gesetzes gilt entsprechend.
 
-
 #### § 23b Gerichtliche Anordnung
 
 (1) Die Anordnung nach § 23a Abs. 1, 3 oder 4 ergeht auf zu
@@ -1245,7 +1206,6 @@ fortbestehen und eine weitere Überwachung verhältnismäßig ist. Wird
 eine Maßnahme nach § 23a Abs. 1, 3 oder 4 auf Grund einer Verlängerung
 die Dauer von neun Monaten überschreiten, so entscheidet das
 Oberlandesgericht über die weiteren Verlängerungen.
-
 
 #### § 23c Durchführungsvorschriften
 
@@ -1351,7 +1311,6 @@ dem Deutschen Bundestag nach Ablauf von drei Jahren nach Inkrafttreten
 dieser Vorschrift zusammenfassend zum Zwecke der Evaluierung einen die
 in Satz 1 genannten Angaben berücksichtigenden Bericht über die
 Durchführung der Maßnahmen.
-
 
 #### § 23d Übermittlungen durch das Zollkriminalamt
 
@@ -1513,14 +1472,12 @@ wurden, eine angebrachte Kennzeichnung beizubehalten ist und das
 Zollkriminalamt sich vorbehält, Auskunft über die Verwendung
 einzuholen.
 
-
 #### § 23e Verschwiegenheitspflicht
 
 Werden Maßnahmen nach § 23a vorgenommen, so darf diese Tatsache von
 Personen, die geschäftsmäßig Post- oder Telekommunikationsdienste
 erbringen oder an der Erbringung solcher Dienste mitwirken, anderen
 nicht mitgeteilt werden.
-
 
 #### § 23f Entschädigung für Leistungen
 
@@ -1530,7 +1487,6 @@ Dienste mitwirken, für ihre Leistungen bei der Durchführung von
 Maßnahmen nach § 23a eine Entschädigung zu gewähren, deren Umfang sich
 nach § 23 des Justizvergütungs- und
 -entschädigungsgesetzes              bemisst.
-
 
 #### § 23g Erhebung von Verkehrsdaten
 
@@ -1580,14 +1536,9 @@ der Telekommunikations-Überwachungsverordnung.
 
 (6) § 23c Abs. 2 bis 8 und die §§ 23d bis 23f gelten entsprechend.
 
-
 ## Kapitel 3 - Zollfahndungsämter
 
-
-
 ### Abschnitt 1 - Aufgaben der Zollfahndungsämter
-
-
 
 #### § 24 Allgemeine Aufgaben
 
@@ -1614,10 +1565,6 @@ Straftaten sowie zur Aufdeckung unbekannter Straftaten
     Lagebilder zu erstellen und hierfür die Entwicklung der Kriminalität
     im jeweiligen Zuständigkeitsbereich zu beobachten.
 
-
-
-
-
 #### § 25 Besondere Aufgaben
 
 (1) Den Zollfahndungsämtern obliegt die Durchführung von
@@ -1638,13 +1585,7 @@ Schutz Dritter und wesentlicher Vermögenswerte, soweit
     Willensentschließung und -betätigung der genannten Personen oder für
     wesentliche Vermögenswerte erforderlich sind.
 
-
-
-
-
 ### Abschnitt 2 - Befugnisse der Zollfahndungsämter
-
-
 
 #### § 26 Allgemeine Befugnisse
 
@@ -1667,7 +1608,6 @@ Einzelfall bestehende Gefahr für Leib, Leben, Gesundheit, Freiheit der
 Willensentschließung und -betätigung der in § 25 Abs. 2 genannten
 Personen oder für wesentliche Vermögenswerte abzuwehren. § 23 Abs. 1
 Satz 2 und 3 und § 23 Abs. 2 bis 4 gelten entsprechend.
-
 
 #### § 27 Befugnisse zur Datenerhebung und -verarbeitung
 
@@ -1694,7 +1634,6 @@ entgegenstehen.
 (3) § 7 Abs. 2 und 3, § 8 Abs. 1 bis 5 und § 10 Abs. 1 gelten
 entsprechend.
 
-
 #### § 28 Datenerhebung durch längerfristige Observationen
 
 (1) Die Zollfahndungsämter dürfen personenbezogene Daten durch
@@ -1708,7 +1647,6 @@ oder seinen Vertreter angeordnet werden.
 Unterrichtung im Sinne des § 18 Abs. 5 Satz 1 ist das anordnende
 Zollfahndungsamt.
 
-
 #### § 29 Datenerhebung durch den verdeckten Einsatz technischer Mittel zur Anfertigung von Bildaufnahmen und Bildaufzeichnungen
 
 (1) Die Zollfahndungsämter dürfen außerhalb von Wohnungen
@@ -1719,7 +1657,6 @@ entsprechender Anwendung des § 19 erheben.
 (2) Für die Anordnung gilt § 28 Abs. 2 entsprechend.
 
 (3) § 18 Abs. 4 gilt entsprechend.
-
 
 #### § 30 Datenerhebung durch den verdeckten Einsatz technischer Mittel zum Abhören und Aufzeichnen des nicht öffentlich gesprochenen Wortes
 
@@ -1734,7 +1671,6 @@ in entsprechender Anwendung des § 20 erheben.
 Unterrichtung im Sinne des § 18 Abs. 5 Satz 1 ist das anordnende
 Zollfahndungsamt.
 
-
 #### § 31 Datenerhebung durch den Einsatz von Privatpersonen, deren Zusammenarbeit mit den Zollfahndungsämtern Dritten nicht bekannt ist
 
 (1) Die Zollfahndungsämter dürfen personenbezogene Daten durch den
@@ -1747,7 +1683,6 @@ Anwendung des § 21 erheben.
 (3) § 18 Abs. 4 und 5 gilt entsprechend. Zuständig für die
 Unterrichtung im Sinne des § 18 Abs. 5 Satz 1 ist das anordnende
 Zollfahndungsamt.
-
 
 #### § 32 Eigensicherung durch Einsatz technischer Mittel außerhalb von Wohnungen
 
@@ -1772,7 +1707,6 @@ zu unterrichten, sobald dies ohne Gefährdung des Untersuchungszweckes,
 der öffentlichen Sicherheit, von Leib oder Leben einer Person
 geschehen kann. Die Staatsanwaltschaft entscheidet, ob der
 Untersuchungszweck gefährdet ist.
-
 
 #### § 32a Eigensicherung durch Einsatz technischer Mittel innerhalb von Wohnungen
 
@@ -1819,10 +1753,7 @@ verwendet werden zur
 
 (4) § 18 Abs. 4 und § 32 Abs. 4 gelten entsprechend.
 
-
 ## Kapitel 4 - Gemeinsame Bestimmungen
-
-
 
 ### § 32b Sicherstellung, Verwahrung und Verwertung
 
@@ -1831,7 +1762,6 @@ Zuständigkeitsbereich der Zollverwaltung eine Sache sicherstellen, um
 eine gegenwärtige Gefahr abzuwehren.
 
 (2) Die §§ 48 bis 50 des Bundespolizeigesetzes gelten entsprechend.
-
 
 ### § 32c Unterstützung durch Polizeivollzugsbeamte des Bundes und der Länder
 
@@ -1845,7 +1775,6 @@ Absatz 1 tätig, haben sie die gleichen Befugnisse wie die Beamten der
 Behörden des Zollfahndungsdienstes. Ihre Maßnahmen gelten als
 Maßnahmen derjenigen Behörde des Zollfahndungsdienstes, für die sie
 tätig geworden sind; sie unterliegen insoweit deren Weisung.
-
 
 ### § 33 Datenübermittlung im innerstaatlichen Bereich
 
@@ -1950,7 +1879,6 @@ Stellen zu den dort genannten Zwecken übermittelt werden. Die
 Verwertungsverbote nach den §§ 51, 52 und 63 des
 Bundeszentralregistergesetzes sind zu beachten.
 
-
 ### § 34 Datenübermittlung ins Ausland sowie an über- oder zwischenstaatliche Stellen
 
 (1) Die Behörden des Zollfahndungsdienstes dürfen an Zoll-, Polizei-,
@@ -2013,7 +1941,6 @@ Empfängerstaat. Die schutzwürdigen Interessen der betroffenen Person
 können auch dadurch gewahrt werden, dass der Empfängerstaat oder die
 empfangende zwischen- oder überstaatliche Stelle im Einzelfall einen
 angemessenen Schutz der übermittelten Daten garantiert.
-
 
 ### § 34a Übermittlung personenbezogener Daten an Mitgliedstaaten der Europäischen Union
 
@@ -2091,7 +2018,6 @@ Verhütung und Verfolgung von Straftaten zuständige öffentliche Stellen
 eines Schengen-assoziierten Staates im Sinne von § 91 Absatz 3 des
 Gesetzes über die internationale Rechtshilfe in Strafsachen.
 
-
 ### § 35 Übermittlungsverbote und Verweigerungsgründe
 
 (1) Die Übermittlung nach den Vorschriften dieses Gesetzes
@@ -2152,10 +2078,6 @@ hinaus auch dann unterbleiben, wenn
     deutschem Recht mit einer Freiheitsstrafe von im Höchstmaß einem Jahr
     oder weniger bedroht ist.
 
-
-
-
-
 ### § 35a Verwendung von nach dem Rahmenbeschluss 2006/960/JI des Rates übermittelten Daten
 
 (1) Daten, die nach dem Rahmenbeschluss
@@ -2172,7 +2094,6 @@ der Daten gestellte Bedingungen sind zu beachten.
 Staat auf dessen Ersuchen zu Zwecken der Datenschutzkontrolle Auskunft
 darüber, wie die übermittelten Daten verwendet wurden.
 
-
 ### § 36 Abgleich personenbezogener Daten
 
 (1) Die Behörden des Zollfahndungsdienstes dürfen personenbezogene
@@ -2185,7 +2106,6 @@ personenbezogene Daten mit dem Fahndungsbestand abgleichen.
 
 (2) Rechtsvorschriften über den Datenabgleich in anderen Fällen
 bleiben unberührt.
-
 
 ### § 37 Verarbeitung und Nutzung personenbezogener Daten für die wissenschaftliche Forschung
 
@@ -2261,7 +2181,6 @@ Darstellung von Forschungsergebnissen über Ereignisse der
 Zeitgeschichte unerlässlich ist. Die Veröffentlichung bedarf der
 Zustimmung der Stelle, die die Informationen übermittelt hat.
 
-
 ### § 38 Weitere Verwendung von Daten
 
 (1) Das Zollkriminalamt darf personenbezogene Daten, die bei Behörden
@@ -2279,7 +2198,6 @@ zu diesem Zweck nutzen.
 Zollinformationssystem nach dem Beschluss 2009/917/JI oder in dem nach
 Titel V der Verordnung (EG) Nr. 515/97 gespeichert sind, ist nur nach
 Maßgabe dieser Rechtsvorschriften zulässig.
-
 
 ### § 39 Berichtigung, Löschung und Sperrung personenbezogener Daten bei automatisierter Verarbeitung und bei Speicherung in nicht automatisierten Dateien
 
@@ -2380,7 +2298,6 @@ Zollfahndungsinformationssystem gespeichert sind, obliegen die in den
 Absätzen 1 bis 7 genannten Verpflichtungen der Stelle, die die Daten
 unmittelbar in das System eingibt.
 
-
 ### § 40 Berichtigung, Sperrung und Vernichtung personenbezogener Daten, die weder automatisiert verarbeitet noch in einer nicht automatisierten Datei gespeichert sind
 
 (1) Stellen die Behörden des Zollfahndungsdienstes fest, dass
@@ -2423,7 +2340,6 @@ geändert durch das Gesetz vom 13. März 1992 (BGBl. I S. 506), in der
 jeweils geltenden Fassung zukommt.
 
 (5) § 39 Abs. 2 Satz 3 und § 39 Abs. 7 bis 9 gelten entsprechend.
-
 
 ### § 41 Errichtungsanordnung
 
@@ -2476,14 +2392,12 @@ Absatz 1 ist unverzüglich nachzuholen.
 (4) In angemessenen Abständen ist die Notwendigkeit der Weiterführung
 oder Änderung der Verarbeitungen zu überprüfen.
 
-
 ### § 42 Schadensausgleich
 
 Erleidet jemand bei der Erfüllung der Aufgaben des Zollkriminalamtes
 nach § 5 oder der Zollfahndungsämter nach § 25 Abs. 2 sowie bei einer
 Inanspruchnahme nach § 26 Abs. 2 einen Schaden, so gelten die §§ 51
 bis 56 des Bundespolizeigesetzes entsprechend.
-
 
 ### § 43 Geltung des Bundesdatenschutzgesetzes
 
@@ -2493,7 +2407,6 @@ Zollfahndungsämter finden § 4 Abs. 2 und 3, die §§ 4b, 4c, 10 Abs. 1,
 die §§ 13, 14 Abs. 1, 2, 4 und 5, § 15 Abs. 1 bis 4 und 6, die §§ 16,
 18 Abs. 2 Satz 2 und 3 sowie die §§ 19a und 20 des
 Bundesdatenschutzgesetzes keine Anwendung.
-
 
 ### § 44 Einschränkung von Grundrechten
 
@@ -2505,16 +2418,12 @@ Abs. 1 des Grundgesetzes) und der Unverletzlichkeit der Wohnung
 (Artikel 13 Abs. 1 des Grundgesetzes) werden nach Maßgabe dieses
 Gesetzes eingeschränkt.
 
-
 ## Kapitel 5 - Straf- und Bußgeldvorschriften und Befristung
-
-
 
 ### § 45 Strafvorschriften
 
 Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird
 bestraft, wer entgegen § 23e eine Mitteilung macht.
-
 
 ### § 46 Bußgeldvorschriften
 
@@ -2541,7 +2450,6 @@ zwanzigtausend Euro geahndet werden.
 (3) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes
 über Ordnungswidrigkeiten ist das Bundesministerium der Finanzen; § 36
 Abs. 3 des Gesetzes über Ordnungswidrigkeiten gilt entsprechend.
-
 
 ### § 47 (weggefallen)
 

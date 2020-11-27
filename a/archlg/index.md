@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 G v. 12.11.1984 I 1337
 
-
 ## § 1 Ermächtigung zum Erlaß einer Honorarordnung für Ingenieure
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
@@ -50,10 +49,6 @@ Nutzungskosten führen, können besondere Honorare festgesetzt werden.
 
 3.  die Mindestsätze als vereinbart gelten, sofern nicht bei Erteilung des
     Ingenieurauftrages etwas anderes schriftlich vereinbart ist.
-
-
-
-
 
 ## § 2 Ermächtigung zum Erlaß einer Honorarordnung für Architekten
 
@@ -88,10 +83,6 @@ werden.
 3.  die Mindestsätze als vereinbart gelten, sofern nicht bei Erteilung des
     Architektenauftrages etwas anderes schriftlich vereinbart ist.
 
-
-
-
-
 ## § 3 Unverbindlichkeit der Kopplung von Grundstückskaufverträgen mit Ingenieur- und Architektenverträgen
 
 Eine Vereinbarung, durch die der Erwerber eines Grundstücks sich im
@@ -100,7 +91,6 @@ Ausführung eines Bauwerks auf dem Grundstück die Leistungen eines
 bestimmten Ingenieurs oder Architekten in Anspruch zu nehmen, ist
 unwirksam. Die Wirksamkeit des auf den Erwerb des Grundstücks
 gerichteten Vertrages bleibt unberührt.
-
 
 ## Anhang EV Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet A Abschnitt III (BGBl. II 1990, 889, 997) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 

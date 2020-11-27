@@ -18,12 +18,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 135 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## § 1
 
@@ -34,7 +32,6 @@ marktwirtschaftlichen Ordnung gleichzeitig zur Stabilität des
 Preisniveaus, zu einem hohen Beschäftigungsstand und
 außenwirtschaftlichem Gleichgewicht bei stetigem und angemessenem
 Wirtschaftswachstum beitragen.
-
 
 ## § 2
 
@@ -69,7 +66,6 @@ werden, wenn die Bundesregierung gleichzeitig gegenüber dem Bundestag
 und dem Bundesrat begründet, daß diese Maßnahmen erforderlich sind, um
 eine Gefährdung der Ziele des § 1 zu verhindern.
 
-
 ## § 3
 
 (1) Im Falle der Gefährdung eines der Ziele des § 1 stellt die
@@ -83,7 +79,6 @@ Zusammenhänge im Hinblick auf die gegebene Situation.
 (2) Das Bundesministerium für Wirtschaft und Technologie hat die
 Orientierungsdaten auf Verlangen eines der Beteiligten zu erläutern.
 
-
 ## § 4
 
 Bei außenwirtschaftlichen Störungen des gesamtwirtschaftlichen
@@ -93,7 +88,6 @@ möglich ist, hat die Bundesregierung alle Möglichkeiten der
 internationalen Koordination zu nutzen. Soweit dies nicht ausreicht,
 setzt sie die ihr zur Wahrung des außenwirtschaftlichen Gleichgewichts
 zur Verfügung stehenden wirtschaftspolitischen Mittel ein.
-
 
 ## § 5
 
@@ -111,7 +105,6 @@ an eine Konjunkturausgleichsrücklage veranschlagt werden.
 allgemeinen Wirtschaftstätigkeit sollen zusätzlich erforderliche
 Deckungsmittel zunächst der Konjunkturausgleichsrücklage entnommen
 werden.
-
 
 ## § 6
 
@@ -147,7 +140,6 @@ aufzunehmen. Soweit solche Kredite auf eine nachträglich in einem
 Haushaltsgesetz ausgesprochene Kreditermächtigung angerechnet werden,
 kann das Recht zur Kreditaufnahme erneut in Anspruch genommen werden.
 
-
 ## § 7
 
 (1) Die Konjunkturausgleichsrücklage ist bei der Deutschen Bundesbank
@@ -159,7 +151,6 @@ verwendet werden.
 Konjunkturausgleichsrücklage bei der Ausführung des
 Bundeshaushaltsplans verfügt werden soll, entscheidet die
 Bundesregierung; § 6 Abs. 1 Satz 2 ist anzuwenden.
-
 
 ## § 8
 
@@ -177,7 +168,6 @@ Eingang der Vorlage der Bundesregierung die Zustimmung verweigert hat.
 aus der Konjunkturausgleichsrücklage und aus Krediten nach § 6 Abs. 3
 einzustellen.
 
-
 ## § 9
 
 (1) Der Haushaltswirtschaft des Bundes ist eine fünfjährige
@@ -193,7 +183,6 @@ Bundestag und Bundesrat vorgelegt.
 
 (3) Der Finanzplan ist jährlich der Entwicklung anzupassen und
 fortzuführen.
-
 
 ## § 10
 
@@ -217,7 +206,6 @@ einem besonderen Teil zu erfassen.
 (3) Die Investitionsprogramme sind jährlich der Entwicklung anzupassen
 und fortzuführen.
 
-
 ## § 11
 
 Bei einer die Ziele des § 1 gefährdenden Abschwächung der allgemeinen
@@ -226,7 +214,6 @@ so zu beschleunigen, daß mit ihrer Durchführung kurzfristig begonnen
 werden kann. Die zuständigen Bundesministerien haben alle weiteren
 Maßnahmen zu treffen, die zu einer beschleunigten Vergabe von
 Investitionsaufträgen erforderlich sind.
-
 
 ## § 12
 
@@ -268,7 +255,6 @@ Voraussetzungen für eine frühere Beendigung oder einen stufenweisen
 Abbau der Verpflichtungen. Hierzu wird ein Zeitplan entsprechend der
 in Absatz 2 beschriebenen Gliederung aufgestellt.
 
-
 ## § 13
 
 (1) Die Vorschriften der §§ 1, 5, 6 Abs. 1 und 2 gelten für das ERP-
@@ -283,13 +269,11 @@ Anordnungen.
 des öffentlichen Rechts sollen im Rahmen der ihnen obliegenden
 Aufgaben die Ziele des § 1 berücksichtigen.
 
-
 ## § 14
 
 Die §§ 5, 6 Abs. 1 und 2, §§ 7, 9 bis 11 sowie § 12 Abs. 1 gelten
 sinngemäß für die Haushaltswirtschaft der Länder. Die Regelung der
 Zuständigkeiten bleibt den Ländern überlassen.
-
 
 ## § 15
 
@@ -337,7 +321,6 @@ gefährdenden Abschwächung der allgemeinen Wirtschaftstätigkeit
 zulässig. Die Sätze 1 und 2 sind auf die in Absatz 3 Satz 3
 bezeichneten Mittel anzuwenden.
 
-
 ## § 16
 
 (1) Gemeinden und Gemeindeverbände haben bei ihrer Haushaltswirtschaft
@@ -347,13 +330,11 @@ den Zielen des § 1 Rechnung zu tragen.
 die Haushaltswirtschaft der Gemeinden und Gemeindeverbände den
 konjunkturpolitischen Erfordernissen entspricht.
 
-
 ## § 17
 
 Bund und Länder erteilen sich gegenseitig die Auskünfte, die zur
 Durchführung einer konjunkturgerechten Haushaltswirtschaft und zur
 Aufstellung ihrer Finanzpläne notwendig sind.
-
 
 ## § 18
 
@@ -399,7 +380,6 @@ Geschäftsordnung berät.
 (4) Die Bundesbank hat das Recht, an den Beratungen des
 Konjunkturrates teilzunehmen.
 
-
 ## § 19
 
 Zur Abwehr einer Störung des gesamtwirtschaftlichen Gleichgewichts
@@ -412,7 +392,6 @@ und Zweckverbände beschränkt wird. Satz 1 gilt nicht für Kredite, die
 von Gemeinden, Gemeindeverbänden oder Zweckverbänden zur Finanzierung
 von Investitionsvorhaben ihrer wirtschaftlichen Unternehmen ohne
 eigene Rechtspersönlichkeit aufgenommen werden.
-
 
 ## § 20
 
@@ -462,7 +441,6 @@ Verkündung dem Bundestag mitzuteilen. Sie sind unverzüglich
 aufzuheben, wenn es der Bundestag binnen sechs Wochen nach ihrer
 Verkündung verlangt.
 
-
 ## § 21
 
 Nimmt eine der in § 19 bezeichneten Stellen einen im Rahmen des
@@ -474,7 +452,6 @@ Gemeinden, Gemeindeverbände und Zweckverbände diejenigen Teilbeträge,
 welche die Kreditermächtigung in der Haushaltssatzung übersteigen,
 anderen Gemeinden, Gemeindeverbänden oder Zweckverbänden mit einem
 zusätzlichen Kreditbedarf zugewiesen werden.
-
 
 ## § 22
 
@@ -502,14 +479,12 @@ Abs. 1 Nr. 2 sind, in der Zeitfolge der Kreditaufnahme und der
 Gestaltung der Kreditbedingungen der Lage am Kapitalmarkt Rechnung zu
 tragen.
 
-
 ## § 23
 
 Die einzelnen Länder haben durch geeignete Maßnahmen sicherzustellen,
 daß die Beschaffung von Geldmitteln im Wege des Kredits durch das
 Land, seine Gemeinden, Gemeindeverbände und Zweckverbände sich im
 Rahmen der auf Grund dieses Gesetzes angeordneten Beschränkungen hält.
-
 
 ## § 24
 
@@ -521,7 +496,6 @@ beachten.
 die gleichzeitig Landesaufgaben und Kommunalaufgaben zu erfüllen
 haben, sind zu berücksichtigen.
 
-
 ## § 25
 
 Die zuständige oberste Landesbehörde erteilt dem Bundesministerium der
@@ -532,10 +506,7 @@ Dritter, die wirtschaftlich einer eigenen Kreditaufnahme gleichkommen.
 Die öffentlichen Sondervermögen erteilen die Auskunft nach Satz 1
 unmittelbar.
 
-
 ## (XXXX) §§ 26 bis 31
-
-
 
 ## § 32
 
@@ -544,7 +515,6 @@ Dieses Gesetz gilt nach § 12 Abs. 1 und § 13 Abs. 1 des Dritten
 im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes
 erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 Überleitungsgesetzes.
-
 
 ## § 33
 

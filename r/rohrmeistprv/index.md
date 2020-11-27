@@ -19,8 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 4 V v. 25.8.2009 I 2960
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August
@@ -31,7 +29,6 @@ Anhören des Ständigen Ausschusses des Bundesinstituts für
 Berufsbildung im Einvernehmen mit dem Bundesministerium für Umwelt,
 Naturschutz und Reaktorsicherheit, dem Bundesministerium des Innern
 und dem Bundesministerium für Wirtschaft und Arbeit:
-
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
 
@@ -108,7 +105,6 @@ Industrieservice wahrnehmen zu können:
 Geprüfter Meister/Geprüfte Meisterin für Rohr-, Kanal- und
 Industrieservice.
 
-
 ## § 2 Umfang der Meisterqualifikation und Gliederung der Prüfung
 
 (1) Die Qualifikation zum Geprüften Meister/zur Geprüften Meisterin
@@ -150,7 +146,6 @@ anwendungsbezogenen Aufgabenstellungen gemäß § 4 zu prüfen.
 (5) Im Prüfungsteil nach Absatz 3 Nr. 2 ist schriftlich und mündlich
 in Form von handlungsspezifischen Aufgabenstellungen gemäß § 5 zu
 prüfen.
-
 
 ## § 3 Zulassungsvoraussetzungen
 
@@ -197,7 +192,6 @@ Voraussetzungen kann zur Prüfung in den Prüfungsteilen auch zugelassen
 werden, wer durch Vorlage von Zeugnissen oder auf andere Weise
 glaubhaft macht, Kenntnisse, Fertigkeiten und Erfahrungen erworben zu
 haben, die die Zulassung zur Prüfung rechtfertigen.
-
 
 ## § 4 Grundlegende Qualifikationen
 
@@ -418,7 +412,6 @@ länger als 20 Minuten dauern. Die Bewertung der schriftlichen
 Prüfungsleistung und die der mündlichen Ergänzungsprüfung werden zu
 einer Note zusammengefasst. Dabei wird die Bewertung der schriftlichen
 Prüfungsleistung doppelt gewichtet.
-
 
 ## § 5 Handlungsspezifische Qualifikationen
 
@@ -887,7 +880,6 @@ Prüfungsleistung und die der mündlichen Ergänzungsprüfung werden zu
 einer Note zusammengefasst. Dabei wird die Bewertung der schriftlichen
 Prüfungsleistung doppelt gewichtet.
 
-
 ## § 6 Anrechnung anderer Prüfungsleistungen
 
 Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin ist auf Antrag
@@ -897,7 +889,6 @@ Stelle zu befreien, wenn eine andere vergleichbare Prüfung vor einer
 einem staatlichen Prüfungsausschuss erfolgreich abgelegt wurde und die
 Anmeldung zur Fortbildungsprüfung innerhalb von fünf Jahren nach der
 Bekanntgabe des Bestehens der anderen Prüfung erfolgt.
-
 
 ## § 7 Bewerten der Prüfungsteile und Bestehen der Prüfung
 
@@ -932,7 +923,6 @@ des Prüfungsgremiums der anderweitig abgelegten Prüfung anzugeben. Der
 Nachweis über den Erwerb der berufs- und arbeitspädagogischen
 Kenntnisse gemäß § 2 Abs. 2 ist im Zeugnis einzutragen.
 
-
 ## § 8 Wiederholung der Prüfung
 
 (1) Jeder nicht bestandene Prüfungsteil kann zweimal wiederholt
@@ -949,12 +939,10 @@ auch darauf richten, bestandene Prüfungsleistungen zu wiederholen.
 Wird eine bestandene Prüfungsleistung erneut geprüft, ist das letzte
 Ergebnis für das Bestehen zu berücksichtigen.
 
-
 ## § 9 Übergangsvorschrift
 
 Die bis zum Ablauf des 31. August 2009 begonnenen Prüfungsverfahren
 können nach den bisherigen Vorschriften zu Ende geführt werden.
-
 
 ## Anlage 1 (zu § 7 Abs. 5)
 
@@ -989,7 +977,6 @@ bestanden.
 Datum ..........................................
 Unterschrift(en) ...............................
 (Siegel der zuständigen Stelle)
-
 
 ## Anlage 2 (zu § 7 Abs. 5)
 

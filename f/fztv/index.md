@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 5 V v. 19.10.2012 I 2232
 
-
 ## Eingangsformel
 
 Auf Grund des § 6 Abs. 1 Nr. 3 Buchstabe b und Abs. 3 des
@@ -34,10 +33,7 @@ geändert gemäß Artikel 22 Nr. 3 der Verordnung vom 26. November 1986
 hinsichtlich § 6 Abs. 3 nach Anhörung der zuständigen obersten
 Landesbehörden:
 
-
 ## Abschnitt 1 - Allgemeines
-
-
 
 ### § 1 Arten der Genehmigung von Fahrzeugteilen
 
@@ -54,10 +50,7 @@ Straßenverkehrs-Zulassungs-Ordnung genannten Fahrzeugteils unter
 Beachtung der mit der Bundesrepublik Deutschland vereinbarten
 Bedingungen erteilt hat.
 
-
 ## Abschnitt 2 - Allgemeine Bauartgenehmigung und Prüfzeichen
-
-
 
 ### § 2 Zulässigkeit der Bauartgenehmigung
 
@@ -105,7 +98,6 @@ die EG-Typgenehmigung für Fahrzeuge und Fahrzeugteile) vom 9. Dezember
 12\. August 1997 (BGBl. I S. 2051), in der jeweils geltenden Fassung,
 sind entsprechend anzuwenden.
 
-
 ### § 3 Anträge auf Bauartgenehmigung und Prüfung
 
 (1) Der Antrag auf Erteilung einer Bauartgenehmigung ist schriftlich
@@ -125,7 +117,6 @@ Antrag auf Bauartgenehmigung die in den Bedingungen für das jeweilige
 Genehmigungsverfahren vorgeschriebenen Unterlagen und Muster
 beizufügen.
 
-
 ### § 4 Erteilung der Bauartgenehmigung
 
 (1) Das Kraftfahrt-Bundesamt erteilt die Bauartgenehmigung
@@ -139,7 +130,6 @@ Bauartgenehmigung durch einen entsprechenden Nachtrag ergänzt worden
 ist oder wenn das Kraftfahrt-Bundesamt auf Anfrage schriftlich
 erklärt, daß für die vorgesehene Änderung eine Nachtragsgenehmigung
 nicht erforderlich ist.
-
 
 ### § 5 Prüfstellen
 
@@ -168,7 +158,6 @@ den Europäischen Wirtschaftsraum durchgeführt und bescheinigt sind und
 mit denen die nach dieser Verordnung vorgeschriebenen Anforderungen
 gleichermaßen dauerhaft erreicht werden.
 
-
 ### § 6 Aufgaben der Prüfstelle
 
 (1) Die Prüfstelle hat zu prüfen, ob die Fahrzeugteile den
@@ -188,7 +177,6 @@ Bundesamt.
 insbesondere vom Antragsteller weitere sachdienliche Muster und
 Unterlagen anfordern oder bestimmen, daß Fahrzeugteile auch in
 eingebautem Zustand zu prüfen sind.
-
 
 ### § 7 Prüfzeichen
 
@@ -265,7 +253,6 @@ lesbar, dauerhaft und jederzeit feststellbar anzubringen; dies gilt
 auch für das entsprechend der Bauartgenehmigung an- oder eingebaute
 Fahrzeugteil.
 
-
 ### § 8 Verwahrung und Rückgabe der Muster und Unterlagen
 
 (1) Ist die Bauartgenehmigung erteilt worden, so ist je eine
@@ -291,7 +278,6 @@ auf Anforderung zur Verfügung zu stellen.
 worden, so sind die Muster und auf Antrag auch die sonstigen
 Unterlagen dem Antragsteller erst dann auszuhändigen, wenn die
 Ablehnung unanfechtbar geworden ist.
-
 
 ### § 9 Übereinstimmung der Produktion
 
@@ -321,7 +307,6 @@ der Genehmigung, wenn ein Verstoß gegen die Vorschriften des § 2 Abs.
 Entnahme, ihres Versandes und der Prüfung trägt der Inhaber der
 Genehmigung, wenn ein Verstoß gegen die Vorschriften über die
 Bauartgenehmigung oder die Prüfzeichen festgestellt wird.
-
 
 ### § 10 Nachträgliche Nebenbestimmungen, Widerruf, Rücknahme und Erlöschen der Allgemeinen Bauartgenehmigung
 
@@ -373,10 +358,7 @@ Straßenverkehr im Geltungsbereich dieser Verordnung untersagen und
 hierüber die für die Zulassung und Überwachung zuständigen Stellen
 unterrichten.
 
-
 ## Abschnitt 3 - Bauartgenehmigung im Einzelfall - Einzelgenehmigung
-
-
 
 ### § 11 Antrag auf Einzelgenehmigung
 
@@ -388,7 +370,6 @@ Prüfstelle (§ 5) bei der nach § 68 der Straßenverkehrs-Zulassungs-
 Ordnung zuständigen Verwaltungsbehörde (Zulassungsbehörde) beantragt
 werden. § 6 Abs. 1 ist entsprechend anzuwenden.
 
-
 ### § 12 Prüfung durch die Verwaltungsbehörde (Zulassungsbehörde)
 
 (1) Die Zulassungsbehörde ist an das Gutachten des amtlich anerkannten
@@ -399,7 +380,6 @@ nicht gebunden.
 weiteren Maßnahmen. Sie kann hierzu die Vorführung des Fahrzeugteils
 sowie die Vorlage eines weiteren Gutachtens verlangen und ähnliche
 Anordnungen erlassen.
-
 
 ### § 13 Erteilung der Einzelgenehmigung
 
@@ -413,7 +393,6 @@ Wird das Fahrzeugteil an einem Kraftfahrzeug oder
 Kraftfahrzeuganhänger verwendet, so ist die Einzelgenehmigung in den
 Fahrzeugbrief und in den Fahrzeugschein einzutragen und in den etwa
 ausgestellten Anhängerverzeichnissen kenntlich zu machen.
-
 
 ### § 14 Widerruf, Rücknahme und Erlöschen der Einzelgenehmigung
 
@@ -432,10 +411,7 @@ Verkehrssicherheit nicht entspricht.
 Genehmigungsvermerk (§ 13) der Zulassungsbehörde zur Löschung
 unaufgefordert vorzulegen, nötigenfalls von dieser einzuziehen.
 
-
 ## Abschnitt 4 - Bestandsschutz
-
-
 
 ### § 15 Bisherige Genehmigungen
 
@@ -443,17 +419,13 @@ Allgemeine Bauartgenehmigungen und Einzelgenehmigungen, die vor dem
 19\. November 1998 erteilt worden sind, bleiben gültig. Die §§ 10 und
 14 gelten sinngemäß.
 
-
 ## Abschnitt 5 - Schlußvorschriften
-
-
 
 ### § 16 Inkrafttreten, Außerkrafttreten
 
 (1) Diese Verordnung tritt am 19. November 1998 in Kraft.
 
 (2)
-
 
 ### Anlage 1 (zu § 3 Abs. 2) Bei Antrag auf Erteilung der Allgemeinen Bauartgenehmigung einzureichende Muster und Unterlagen
 
@@ -1299,9 +1271,6 @@ Allgemeine Bauartgenehmigungen und Einzelgenehmigungen, die vor dem
 
 *    *
 
-
-
-
 ### Anlage 2 Teil 1 (zu § 5 Abs. 1 Satz 2 Nr. 1 und 2, § 7 Abs. 3) Zuständige Prüfstellen für bestimmte Fahrzeugteile und ihre bisher zugeteilten Kennbuchstaben
 
    Fundstelle des Originaltextes: BGBl. I 1998, 2153
@@ -1514,10 +1483,6 @@ Allgemeine Bauartgenehmigungen und Einzelgenehmigungen, die vor dem
 
 *    *   70569 Stuttgart
 
-
-
-
-
 ### Anlage 2 Teil 2 (zu § 7 Abs. 3) Kennbuchstaben, die nicht mehr zugeteilt werden
 
 (Fundstelle: BGBl. I 1998, 2154)
@@ -1563,10 +1528,6 @@ Allgemeine Bauartgenehmigungen und Einzelgenehmigungen, die vor dem
         - Auflaufbremsen
         - Einrichtungen zur Verbindung von Fahrzeugen;
         Übernahme durch DEKRA e.V.
-
-
-
-
 
 ### Anlage 3 (zu § 7 Abs. 1) Muster für das Prüfzeichen
 

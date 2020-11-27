@@ -18,13 +18,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1997, 785
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -35,7 +32,6 @@ Autobahn D 5 an der gemeinsamen Staatsgrenze durch Errichtung einer
 Grenzbrücke und dem ergänzenden Notenwechsel vom 3. November und 28.
 Dezember 1995 wird zugestimmt. Der Vertrag und der Notenwechsel werden
 nachstehend veröffentlicht.
-
 
 ## Art 2
 
@@ -48,7 +44,6 @@ der Einfuhr für die öffentlichen Bauverwaltungen.
 
 (3) Die in Artikel 9 des Vertrags vorgesehenen steuerlichen
 Bestimmungen sind mit Wirkung vom 13. Juli 1995 anzuwenden.
-
 
 ## Art 3
 

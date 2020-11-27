@@ -17,9 +17,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 2592
 
-
 ## Abschnitt 1 - Allgemeine Bestimmungen
-
 
 ### § 1 Anwendungsbereich und anzuwendendes Recht
 
@@ -111,7 +109,6 @@ Abgabenordnung entsprechend, soweit dieses Gesetz nicht etwas anderes
 bestimmt. Zur Ausführung der Abgabenordnung hat das Bundesministerium
 der Finanzen Verwaltungsvorschriften erlassen.
 
-
 ### § 2 Begriffsbestimmungen
 
 (1) „Person“ ist
@@ -142,7 +139,6 @@ vom 16. März 2010 über die Amtshilfe bei der Beitreibung von
 Forderungen in Bezug auf bestimmte Steuern, Abgaben und sonstige
 Maßnahmen (ABl. L 84 vom 31.3.2010, S. 1) in der jeweils geltenden
 Fassung.
-
 
 ### § 3 Zuständigkeit und Prüfungsbefugnisse für Ersuchen
 
@@ -176,7 +172,6 @@ Vollstreckungsbehörden weitergeleitet. Ausgehende Ersuchen werden von
 den in § 4 Absatz 1 oder Absatz 2 genannten Vollstreckungsbehörden
 erstellt und über die Verbindungsbüros nach entsprechender Prüfung
 gemäß Absatz 1 Satz 4 an die zuständige ausländische Behörde geleitet.
-
 
 ### § 4 Zuständigkeit für die Vollstreckung eingehender Ersuchen
 
@@ -259,9 +254,7 @@ Vollstreckung auf weitere als die in Absatz 1 Nummer 1 genannten
 Landesbehörden übertragen. Die Übertragung ist im Bundessteuerblatt zu
 veröffentlichen.
 
-
 ## Abschnitt 2 - Erteilen von Auskünften
-
 
 ### § 5 Erteilen von Auskünften an andere Mitgliedstaaten auf Ersuchen
 
@@ -297,7 +290,6 @@ auf Eigentumsanteile an einer Person beziehen.
 (4) Kann das Verbindungsbüro dem Auskunftsersuchen nicht stattgeben,
 so sind dem anderen Mitgliedstaat die Gründe hierfür mitzuteilen.
 
-
 ### § 6 Erteilen von Auskünften an andere Mitgliedstaaten ohne Ersuchen
 
 (1) Bei einer Erstattung von Steuern oder Abgaben an eine Person, die
@@ -315,9 +307,7 @@ betroffen sind.
 wird die Erstattung nicht fällig vor dem Ablauf von zehn Arbeitstagen
 nach Übermittlung der Information an den anderen Mitgliedstaat.
 
-
 ## Abschnitt 3 - Zustellung von Dokumenten
-
 
 ### § 7 Zustellungsersuchen von anderen Mitgliedstaaten
 
@@ -336,7 +326,6 @@ Mitgliedstaat über das Verbindungsbüro das Veranlasste mit. Diese
 Mitteilung beinhaltet insbesondere die Angabe, an welchem Tag und an
 welche Anschrift dem Empfänger das Dokument zugestellt worden ist.
 
-
 ### § 8 Zustellungsersuchen in andere Mitgliedstaaten
 
 (1) Das Verbindungsbüro kann um die Zustellung aller Dokumente
@@ -351,9 +340,7 @@ betreffende Dokument gemäß den Vorschriften des
 Verwaltungszustellungsgesetzes zuzustellen oder wenn eine solche
 Zustellung mit unverhältnismäßigen Schwierigkeiten verbunden wäre.
 
-
 ## Abschitt 4 - Beitreibungs- und Sicherungsmaßnahmen
-
 
 ### § 9 Beitreibungsersuchen von anderen Mitgliedstaaten
 
@@ -387,7 +374,6 @@ Verbindungsbüro den anderen Mitgliedstaat hiervon.
 Forderung beigetriebenen Beträge sowie die Säumniszuschläge und
 gegebenenfalls entstehende Zinsen. Die in § 16 Absatz 1 genannten
 Kosten können vorher einbehalten werden.
-
 
 ### § 10 Beitreibungsersuchen in andere Mitgliedstaaten
 
@@ -451,7 +437,6 @@ Angelegenheit, die dem Beitreibungsersuchen zu Grunde liegt,
 zweckdienliche Informationen, so teilt sie diese dem Verbindungsbüro
 zur unverzüglichen Weiterleitung an den anderen Mitgliedstaat mit.
 
-
 ### § 11 Änderung oder Rücknahme des Beitreibungsersuchens
 
 (1) Das Verbindungsbüro teilt unverzüglich nach entsprechender
@@ -485,7 +470,6 @@ Vollstreckungstitel unwirksam ist.
 (5) Für die neue Fassung des Vollstreckungstitels gelten § 10 Absatz 3
 und 4 sowie § 13 entsprechend.
 
-
 ### § 12 Ersuchen um Sicherungsmaßnahmen
 
 (1) Um die Vollstreckung sicherzustellen, führt die
@@ -517,7 +501,6 @@ Deutschland ausgestellte Dokumente beigefügt werden.
 
 (4) § 9 Absatz 1 bis 3, § 10 Absatz 4 sowie die §§ 11 und 13 gelten
 entsprechend.
-
 
 ### § 13 Streitigkeiten
 
@@ -589,7 +572,6 @@ Insolvenz unmittelbare Dringlichkeit gegeben ist. Werden die
 Beitreibungsmaßnahmen unterbrochen, so ist Absatz 2 Satz 4 und 5
 anzuwenden.
 
-
 ### § 14 Ablehnungsgründe
 
 (1) Die in den §§ 9 bis 13 vorgesehene Amtshilfe wird nicht geleistet,
@@ -624,7 +606,6 @@ gesamten Zahlungsfrist.
 
 (3) Gründe für die Ablehnung eines Ersuchens um Amtshilfe teilt das
 Verbindungsbüro dem anderen Mitgliedstaat mit.
-
 
 ### § 15 Verjährung
 
@@ -665,7 +646,6 @@ anderen Mitgliedstaat jede Maßnahme mit, die die Verjährung der
 Forderung, hinsichtlich derer um Beitreibung oder Sicherungsmaßnahmen
 ersucht wurde, unterbricht oder hemmt.
 
-
 ### § 16 Kosten
 
 (1) Die Vollstreckungsbehörde bemüht sich bei den betreffenden
@@ -688,9 +668,7 @@ ausgestellten Vollstreckungstitels oder des Titels, der zur Ergreifung
 von Sicherungsmaßnahmen ermächtigt, für nicht angemessen befunden
 werden.
 
-
 ## Abschnitt 5 - Allgemeine Vorschriften
-
 
 ### § 17 Anwesenheit von Bediensteten anderer Mitgliedstaaten im Inland
 
@@ -722,14 +700,12 @@ Vorlage einer schriftlichen Vollmacht notwendig. Aus der Vollmacht
 müssen die Identität und dienstliche Stellung des Bediensteten der
 ersuchenden Behörde hervorgehen.
 
-
 ### § 18 Anwesenheit von deutschen Bediensteten in anderen Mitgliedstaaten
 
 Sofern die Komplexität eines Ersuchens es erfordert, können
 ordnungsgemäß bevollmächtigte deutsche Bedienstete in andere
 Mitgliedstaaten entsandt werden. Die Voraussetzungen und Bedingungen
 des § 17 gelten sinngemäß.
-
 
 ### § 19 Standardformblätter und Kommunikationsmittel
 
@@ -762,7 +738,6 @@ Standardformblättern, so berührt dies nicht die Gültigkeit der
 erhaltenen Auskünfte oder der im Rahmen eines Ersuchens um Amtshilfe
 ergriffenen Maßnahmen.
 
-
 ### § 20 Sprachen
 
 (1) Alle Ersuchen um Amtshilfe, Standardformblätter für die Zustellung
@@ -786,7 +761,6 @@ in den Absätzen 1 und 2 genannten bei, so hat sie auf Verlangen der
 ersuchten Behörde die Übersetzung in die Amtssprache, in eine der
 Amtssprachen oder in eine zwischen beiden Staaten vereinbarte Sprache
 beizufügen.
-
 
 ### § 21 Weiterleitung von Auskünften und Dokumenten
 
@@ -827,9 +801,7 @@ die Auskünfte erhalten, auf der gleichen Grundlage wie vergleichbare
 Auskünfte, die in diesem Staat erlangt wurden, angeführt oder als
 Beweismittel verwendet werden.
 
-
 ## Abschnitt 6 - Schlussbestimmungen
-
 
 ### § 22 Anwendung anderer Abkommen zur Unterstützung bei der Beitreibung
 

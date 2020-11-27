@@ -15,13 +15,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 2178
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 18 des Postgesetzes vom 22. Dezember 1997 (BGBl. I S.
 3294) verordnet die Bundesregierung:
-
 
 ## § 1 Anwendungsbereich
 
@@ -33,14 +30,12 @@ vertraglich in Anspruch nehmen oder begehren (Kunden).
 (2) Vereinbarungen, die zu Ungunsten des Kunden von dieser Verordnung
 abweichen, sind unwirksam.
 
-
 ## § 2 Nichtdiskriminierung
 
 Marktbeherrschende Anbieter von Postdienstleistungen haben die
 Leistungen auf diesem Markt jedermann zu gleichen Bedingungen zur
 Verfügung zu stellen, es sei denn, dass unterschiedliche Bedingungen
 sachlich gerechtfertigt sind.
-
 
 ## § 3 Kontrahierungszwang bei Universaldienstleistungen
 
@@ -50,7 +45,6 @@ oder diese Leistungen nach § 56 des Postgesetzes erbringt, hat der
 Kunde gegen dieses Unternehmen im Rahmen der Gesetze und der
 Allgemeinen Geschäftsbedingungen einen Anspruch auf Erbringung der
 entsprechenden Leistungen.
-
 
 ## § 4 Veröffentlichung von Kundeninformationen
 
@@ -74,7 +68,6 @@ Normen anzuwenden und die Ergebnisse gemäß Absatz 1 zu
 veröffentlichen. Die Regulierungsbehörde kann hiervon Ausnahmen
 zulassen.
 
-
 ## § 5 Abholung
 
 (1) Ein Anbieter von Postdienstleistungen kann mit dem Empfänger die
@@ -96,7 +89,6 @@ Postdienstleistungen haben auf diesem Markt beförderte Briefsendungen
 mit der Abholangabe "Postlagernd" für einen Zeitraum von mindestens
 sieben Werktagen zur Abholung bereitzuhalten.
 
-
 ## § 6 Rücksendung
 
 Nicht auslieferbare Briefsendungen, die marktbeherrschende Anbieter
@@ -106,7 +98,6 @@ Mindesteinlieferungsmenge von 50 Stück je Einlieferungsvorgang
 voraussetzen - an den Absender zurückzusenden, es sei denn, der
 Absender oder der Empfänger hat mit dem Anbieter solcher
 Postdienstleistungen etwas anderes schriftlich vereinbart.
-
 
 ## § 7 Nachsendung und Lagerung
 
@@ -121,7 +112,6 @@ Briefsendungen, ausgenommen Nachnahmesendungen, auf schriftlichen
 Antrag des Empfängers für einen Zeitraum von bis zu vier Wochen
 lagern.
 
-
 ## § 8 Nachforschung
 
 Der Absender kann Nachforschungen nach dem Verbleib eingelieferter
@@ -134,13 +124,11 @@ Verschulden des Anbieters ausgeschlossen werden kann, kann auf der
 Grundlage der Allgemeinen Geschäftsbedingungen ein Entgelt für die
 Nachforschung erhoben werden.
 
-
 ## § 9 Verjährung
 
 Ansprüche aus der Inanspruchnahme von Postdienstleistungen verjähren
 in einem Jahr, bei Vorsatz oder einem diesem nach § 435 des
 Handelsgesetzbuches gleichstehenden Verschulden in drei Jahren.
-
 
 ## § 10 Schlichtung
 
@@ -168,11 +156,9 @@ entstandenen Kosten.
 geeigneter Form eine Statistik über die Anzahl der Beschwerden und die
 Art und Weise ihrer Erledigung.
 
-
 ## § 11 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlussformel
 

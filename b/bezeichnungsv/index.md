@@ -19,8 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 29.3.1974 I 828 mWv 1.10.1971
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 59 Abs. 3 Satz 2 des
@@ -28,14 +26,12 @@ Bundesausbildungsförderungsgesetzes vom 26. August 1971
 (Bundesgesetzbl. I S. 1409) verordnet die Bundesregierung mit
 Zustimmung des Bundesrates:
 
-
 ## § 1 Zweck der Verordnung
 
 Ausbildungsförderung wird nach Maßgabe des § 59 Abs. 3 des Gesetzes in
 Höhe des Förderungsbetrages geleistet, der durch einen am 30.
 September 1971 gültigen Bescheid auf Grund der in den §§ 2 bis 12
 bezeichneten landesrechtlichen Vorschriften bewilligt worden ist.
-
 
 ## § 2 Baden-Württemberg
 
@@ -87,10 +83,6 @@ bezeichnet:
     Landes, die nicht nach den Honnef-Richtlinien gefördert werden können
     (Härtefälle), gemäß Erlaß des Kultusministeriums Baden-Württemberg vom
     28\. März 1969 (H 1250/248).
-
-
-
-
 
 ## § 3 Bayern
 
@@ -145,10 +137,6 @@ Förderung der Studierenden an
     und Kultus S. 579), zuletzt geändert durch die
     Ministerialentschließung vom 3. Dezember 1970 Nr. A 9 - 2/163802.
 
-
-
-
-
 ## § 4 Berlin
 
 Für das Land Berlin werden folgende Vorschriften bezeichnet:
@@ -165,10 +153,6 @@ Für das Land Berlin werden folgende Vorschriften bezeichnet:
     Fachhochschulen sowie der Fachbezogenen Akademie vom 14. Januar 1971
     (Dienstblatt des Senats von Berlin Teil III, S. 25).
 
-
-
-
-
 ## § 5 Bremen
 
 Für das Land Bremen werden folgende Vorschriften bezeichnet:
@@ -179,14 +163,12 @@ Sozialökonomie und der Hochschule für Nautik der Freien Hansestadt
 Bremen vom 1. März 1970 (Bremer Schulblatt 860/1), geändert durch die
 Richtlinien vom 1. März 1971 (Bremer Schulblatt 860/3).
 
-
 ## § 6 Hamburg
 
 Für das Land Hamburg wird folgende Vorschrift bezeichnet:
 Richtlinien der Behörde für Wissenschaft und Kunst für die Förderung
 von Studenten an den Hamburger Hochschulen vom 23. Dezember 1970
 (Amtlicher Anzeiger 1971 S. 1089).
-
 
 ## § 7 Hessen
 
@@ -216,10 +198,6 @@ Für das Land Hessen werden folgende Vorschriften bezeichnet:
     (Staatsanzeiger für das Land Hessen S. 1196) in der Fassung des
     Erlasses vom 22. März 1971 (Staatsanzeiger für das Land Hessen S.
     791).
-
-
-
-
 
 ## § 8 Niedersachsen
 
@@ -258,10 +236,6 @@ Für das Land Niedersachsen werden folgende Vorschriften bezeichnet:
     Höheren Fachschulen in Niedersachsen gemäß Runderlaß des
     Niedersächsischen Kultusministers vom 18. Januar 1971
     (Niedersächsisches Ministerialblatt S. 819).
-
-
-
-
 
 ## § 9 Nordrhein-Westfalen
 
@@ -312,10 +286,6 @@ bezeichnet:
     Lehrinstitute im Lande Nordrhein-Westfalen vom 10. September 1971 (I B
     7 44-39 Nr. 01786/71).
 
-
-
-
-
 ## § 10 Rheinland-Pfalz
 
 Für das Land Rheinland-Pfalz werden folgende Vorschriften bezeichnet:
@@ -344,10 +314,6 @@ Für das Land Rheinland-Pfalz werden folgende Vorschriften bezeichnet:
     Sozialministeriums vom 26. März 1970 (Ministerialblatt Sp. 271),
     geändert durch Runderlaß des Sozialministeriums vom 23. Dezember 1970
     (Ministerialblatt 1971 Sp. 129).
-
-
-
-
 
 ## § 11 Saarland
 
@@ -390,10 +356,6 @@ Für das Saarland werden folgende Vorschriften bezeichnet:
     Ministerialblatt Nr. 2/1969), geändert durch Richtlinien vom 3.
     Februar 1970 (Gemeinsames Ministerialblatt Nr. 16/1970).
 
-
-
-
-
 ## § 12 Schleswig-Holstein
 
 Für das Land Schleswig-Holstein werden folgende Vorschriften
@@ -417,10 +379,6 @@ bezeichnet:
     Studenten der Pädagogischen Hochschulen und Fachhochschulen des Landes
     Schleswig-Holstein vom 6. April 1971 (Nachrichtenblatt des
     Kultusministers des Landes Schleswig-Holstein S. 208).
-
-
-
-
 
 ## § 13 Ausländervorbehalt
 
@@ -449,13 +407,11 @@ sind, werden sie durch diese Verordnung nicht bezeichnet. Satz 1 gilt
 nicht, soweit die Vorschriften Leistungen für Studenten an
 wissenschaftlichen Hochschulen vorsehen.
 
-
 ## § 14 Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit § 67 des
 Bundesausbildungsförderungsgesetzes auch im Land Berlin.
-
 
 ## § 15 Inkrafttreten
 

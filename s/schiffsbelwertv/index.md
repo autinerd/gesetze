@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 851
 
-
 ## Eingangsformel
 
 Auf Grund des § 24 Abs. 5 Satz 1 und 2 des Pfandbriefgesetzes vom 22.
@@ -29,9 +28,7 @@ Bundesanstalt für Finanzdienstleistungsaufsicht im Einvernehmen mit
 dem Bundesministerium der Justiz nach Anhörung der Spitzenverbände der
 Kreditwirtschaft:
 
-
 ## Teil 1 - Allgemeine Bestimmungen und Verfahrensgrundsätze
-
 
 ### § 1 Anwendungsbereich
 
@@ -40,12 +37,10 @@ des Pfandbriefgesetzes und bei der Erhebung der für die Wertermittlung
 erforderlichen Daten sind die Vorschriften dieser Verordnung
 anzuwenden.
 
-
 ### § 2 Gegenstand der Wertermittlung
 
 Gegenstand der Schiffsbeleihungswertermittlung sind Schiffe und
 Schiffsbauwerke, die in einem öffentlichen Register eingetragen sind.
-
 
 ### § 3 Grundsatz der Schiffsbeleihungswertermittlung
 
@@ -59,7 +54,6 @@ Veräußerung voraussichtlich erzielt werden kann.
 (2) Bei der Ermittlung des Schiffsbeleihungswerts sind die dauernden
 Eigenschaften des Schiffes, sein Alter und seine Einsatzmöglichkeiten
 zu berücksichtigen.
-
 
 ### § 4 Verfahren zur Ermittlung von Beleihungswerten für Schiffe und Schiffsbauwerke
 
@@ -92,9 +86,7 @@ diesen Fällen darf der Schiffsbeleihungswert nicht den um mindestens
 (5) Die Ermittlung des Schiffsbeleihungswerts für ein Schiffsbauwerk
 hat nach Maßgabe des § 13 zu erfolgen.
 
-
 ## Teil 2 - Gutachten und Gutachter
-
 
 ### § 5 Gutachten
 
@@ -141,7 +133,6 @@ eine Besichtigung durch einen anerkannten technischen Sachverständigen
 vorgenommen worden ist, kann das Gutachten auch auf den
 Besichtigungsbericht Bezug nehmen.
 
-
 ### § 6 Besichtigung
 
 (1) Das zu bewertende Schiff ist im Rahmen der Wertermittlung zu
@@ -173,7 +164,6 @@ auch durch einen anerkannten technischen Sachverständigen erfolgen.
 Die Pfandbriefbank hat die Klassifikationsunterlagen auf Echtheit zu
 überprüfen.
 
-
 ### § 7 Gutachter
 
 (1) Der Gutachter muss nach seiner Ausbildung und beruflichen
@@ -188,7 +178,6 @@ verfügt.
 (2) Wenn der Gutachter die Besichtigung nicht selbst vornimmt, ist
 eine technische oder ingenieurmäßige Berufsausbildung nicht
 erforderlich.
-
 
 ### § 8 Unabhängigkeit des Gutachters
 
@@ -215,9 +204,7 @@ einem Bereich der Pfandbriefbank zugeordnet sind, in dem
 Schiffskreditgeschäfte entweder angebahnt oder zum Gegenstand des
 einzigen Votums gemacht werden.
 
-
 ## Teil 3 - Wertermittlungsverfahren
-
 
 ### § 9 Aktueller Marktwert
 
@@ -233,13 +220,11 @@ charterfreien Schiff auszugehen. Wenn aus den Verkäufen gleichartiger
 Schiffe ein Basispreis abgeleitet worden ist, ist dieser den
 Besonderheiten des zu bewertenden Schiffes anzupassen.
 
-
 ### § 10 Durchschnittlicher Marktwert
 
 Der durchschnittliche Marktwert ist der Durchschnittsbetrag der
 Marktwerte eines gleichartigen Schiffes für die zugrunde zu legenden
 letzten Kalenderjahre vor dem Jahr der Wertermittlung.
-
 
 ### § 11 Neubaupreis
 
@@ -248,14 +233,12 @@ zuzüglich Nebenkosten wie Bauzeitenzinsen, Kosten der Bauaufsicht
 sowie der Erstausrüstung, sofern die Nebenkosten angemessen und üblich
 sind.
 
-
 ### § 12 Kaufpreis
 
 Der Kaufpreis ist der vertraglich vereinbarte Preis für den Erwerb des
 zu bewertenden Schiffes. Kaufpreis ist auch der Preis, der für den
 Erwerb eines Bauvertrags über ein Schiffsbauwerk oder ein in Zukunft
 zu bauendes Schiff vereinbart wird.
-
 
 ### § 13 Wertermittlung bei Schiffsbauwerken
 
@@ -266,9 +249,7 @@ bestätigen ist. Im Rahmen der Beleihungswertermittlung sind die
 Baubeschreibungen, die Bauzeichnungen und die mit der Werft
 geschlossenen Verträge einzusehen.
 
-
 ## Teil 4 - Überprüfung der Schiffsbeleihungswertermittlung und Inkrafttreten
-
 
 ### § 14 Überprüfung der Grundlagen der Schiffsbeleihungswertermittlung
 
@@ -282,7 +263,6 @@ Schiffsbeleihungswert ist bei Bedarf zu mindern.
 (2) Soweit nach anderen Vorschriften eine weitergehende Verpflichtung
 zur Überprüfung des Schiffsbeleihungswerts besteht, bleibt diese
 unberührt.
-
 
 ### § 15 Inkrafttreten
 

@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 225 V v. 31.10.2006 I 2407
 
-
 ## Erster Abschnitt - Allgemeine Vorschriften
-
-
 
 ### § 1 Geltungsbereich
 
@@ -99,7 +96,6 @@ das Inkrafttreten finden entsprechende Anwendung.
 (6) Gleichgestellte haben bei Entgegennahme von Heimarbeit auf
 Befragen des Auftraggebers ihre Gleichstellung bekanntzugeben.
 
-
 ### § 2 Begriffe
 
 (1) Heimarbeiter im Sinne dieses Gesetzes ist, wer in selbstgewählter
@@ -161,10 +157,7 @@ Arbeitnehmer eines Hausgewerbetreibenden oder nach § 1 Abs. 2
 Buchstaben b und c Gleichgestellten in deren Arbeitsstätte beschäftigt
 ist.
 
-
 ## Zweiter Abschnitt - Zuständige Arbeitsbehörde, Heimarbeitsausschüsse
-
-
 
 ### § 3 Zuständige Arbeitsbehörde
 
@@ -185,7 +178,6 @@ Gesetzes. Die Vorschriften des § 139b der Gewerbeordnung über die
 Aufsicht gelten für die Befugnisse der mit der Aufsicht über die
 Durchführung dieses Gesetzes beauftragten Stellen auch hinsichtlich
 der Arbeitsstätten der in Heimarbeit Beschäftigten entsprechend.
-
 
 ### § 4 Heimarbeitsausschüsse
 
@@ -220,7 +212,6 @@ Vorsitzende sein Stimmrecht aus.
 (4) Der Heimarbeitsausschuß kann sonstige Bestimmungen über die
 Geschäftsführung in einer schriftlichen Geschäftsordnung treffen. Für
 die Beschlußfassung über die Geschäftsordnung gilt Absatz 3.
-
 
 ### § 5 Beisitzer
 
@@ -259,10 +250,7 @@ Arbeitsgerichte geltenden Vorschriften. Die Entschädigung und die
 erstattungsfähigen Fahrkosten setzt im Einzelfall der Vorsitzende des
 Heimarbeitsausschusses fest.
 
-
 ## Dritter Abschnitt - Allgemeine Schutzvorschriften
-
-
 
 ### § 6 Listenführung
 
@@ -276,14 +264,12 @@ Arbeitsbehörde des Landes oder die von ihr bestimmte Stelle hat der
 zuständigen Gewerkschaft und der zuständigen Vereinigung der
 Auftraggeber auf Verlangen jederzeit Abschriften zu übersenden.
 
-
 ### § 7 Mitteilungspflicht
 
 Wer erstmalig Personen mit Heimarbeit beschäftigen will, hat dies der
 obersten Arbeitsbehörde des Landes oder der von ihr bestimmten Stelle
 mitzuteilen. Der Mitteilung sind zwei Abschriften beizufügen; § 6 Satz
 4 gilt entsprechend.
-
 
 ### § 7a Unterrichtungspflicht
 
@@ -295,7 +281,6 @@ sind, sowie über die Maßnahmen und Einrichtungen zur Abwendung dieser
 Gefahren zu unterrichten. Der Auftraggeber hat sich von der Person,
 die von ihm Arbeit entgegennimmt, schriftlich bestätigen zu lassen,
 daß sie entsprechend dieser Vorschrift unterrichtet worden ist.
-
 
 ### § 8 Entgeltverzeichnisse
 
@@ -321,7 +306,6 @@ die Beschäftigten in Betracht kommt.
 (4) Die Vorschriften der Absätze 1 bis 3 gelten nicht für neue Muster,
 die als Einzelstücke erst auszuarbeiten sind.
 
-
 ### § 9 Entgeltbelege
 
 (1) Wer Heimarbeit ausgibt oder weitergibt, hat den Personen, welche
@@ -343,10 +327,7 @@ obersten Arbeitsbehörde des Landes bestimmten Stellen auf Verlangen
 vorzulegen. Diese Verpflichtung gilt auch für die Auftraggeber, in
 deren Händen sich die Entgeltbelege befinden.
 
-
 ## Vierter Abschnitt - Arbeitszeitschutz
-
-
 
 ### § 10 Schutz vor Zeitversäumnis
 
@@ -357,7 +338,6 @@ kann im Benehmen mit dem Heimarbeitsausschuß die zur Vermeidung
 unnötiger Zeitversäumnis bei der Abfertigung erforderlichen Maßnahmen
 anordnen. Bei Anordnungen gegenüber einem einzelnen Auftraggeber kann
 die Beteiligung des Heimarbeitsausschusses unterbleiben.
-
 
 ### § 11 Verteilung der Heimarbeit
 
@@ -402,10 +382,7 @@ Arbeitsmengen auf einen Entgeltbeleg gestatten. Die Erlaubnis kann
 jeweils nur für einen bestimmten Zeitraum, der sechs Monate nicht
 überschreiten darf, erteilt werden.
 
-
 ## Fünfter Abschnitt - Gefahrenschutz (Arbeitsschutz und öffentlicher Gesundheitsschutz)
-
-
 
 ### § 12 Grundsätze des Gefahrenschutzes
 
@@ -421,7 +398,6 @@ Hilfskräfte beschäftigt, so gelten auch die sonstigen Vorschriften
 über den Betriebsschutz und die sich daraus ergebenden Verpflichtungen
 des Arbeitgebers seinen Arbeitnehmern gegenüber.
 
-
 ### § 13 Arbeitsschutz
 
 (1) Die Bundesregierung kann mit Zustimmung des Bundesrates für
@@ -433,7 +409,6 @@ durch die in Heimarbeit Beschäftigten und ihre Auftraggeber erlassen.
 Heimarbeit, die mit erheblichen Gefahren für Leben, Gesundheit oder
 Sittlichkeit der Beschäftigten verbunden ist, durch Rechtsverordnung
 verbieten.
-
 
 ### § 14 Schutz der öffentlichen Gesundheit
 
@@ -456,14 +431,12 @@ Heimarbeit, die mit erheblichen Gefahren für die öffentliche
 Gesundheit im Sinne des Absatzes 1 verbunden ist, durch
 Rechtsverordnung verbieten.
 
-
 ### § 15 Anzeigepflicht
 
 Wer Heimarbeit ausgibt, für die zur Durchführung des Gefahrenschutzes
 besondere Vorschriften gelten, hat dem Gewerbeaufsichtsamt und der
 Polizeibehörde Namen und Arbeitsstätte der von ihm mit Heimarbeit
 Beschäftigten anzuzeigen.
-
 
 ### § 16
 
@@ -476,7 +449,6 @@ Verwendung überläßt, nicht gefährdet werden.
 Maßnahmen, die sich auf Räume oder Betriebseinrichtungen beziehen, hat
 der zu treffen, der die Räume und Betriebseinrichtungen unterhält.
 
-
 ### § 16a Anordnungen
 
 Das Gewerbeaufsichtsamt kann in Einzelfällen anordnen, welche
@@ -486,10 +458,7 @@ auf Grund von § 3 Abs. 2 bestimmten Stellen nimmt das
 Gewerbeaufsichtsamt die Aufsichtsbefugnisse nach § 139b der
 Gewerbeordnung wahr.
 
-
 ## Sechster Abschnitt - Entgeltregelung
-
-
 
 ### § 17 Tarifverträge, Entgeltregelungen
 
@@ -503,7 +472,6 @@ Gleichgestellten mit ihren Auftraggebern.
 bindende Festsetzungen von Entgelten und sonstigen Vertragsbedingungen
 (§ 19) und von Mindestarbeitsbedingungen für fremde Hilfskräfte (§
 22).
-
 
 ### § 18 Aufgaben des Heimarbeitsausschusses auf dem Gebiet der Entgeltregelung
 
@@ -522,10 +490,6 @@ b)  zur Vermeidung und Beendigung von Gesamtstreitigkeiten zwischen den in
 
 c)  bindende Festsetzungen für Entgelte und sonstige Vertragsbedingungen
     nach Maßgabe des § 19 zu treffen.
-
-
-
-
 
 ### § 19 Bindende Festsetzungen
 
@@ -586,14 +550,12 @@ Beschäftigten bindende Festsetzungen ändern oder aufheben. Die Absätze
 vermögenswirksamen Leistungen im Sinne des Fünften
 Vermögensbildungsgesetzes.
 
-
 ### § 20 Art der Entgelte
 
 Die Entgelte für Heimarbeit sind in der Regel als Stückentgelte, und
 zwar möglichst auf der Grundlage von Stückzeiten zu regeln. Ist dieses
 nicht möglich, so sind Zeitentgelte festzusetzen, die der
 Stückentgeltberechnung im Einzelfall zugrunde gelegt werden können.
-
 
 ### § 21 Entgeltregelung für Zwischenmeister, Mithaftung des Auftraggebers
 
@@ -608,7 +570,6 @@ in der Entgeltregelung festgelegten Entgelte an die Beschäftigten
 nicht ausreicht, oder zahlt er an einen Zwischenmeister, dessen
 Unzuverlässigkeit er kennt oder kennen muß, so haftet er neben dem
 Zwischenmeister für diese Entgelte.
-
 
 ### § 22 Mindestarbeitsbedingungen für fremde Hilfskräfte
 
@@ -634,10 +595,7 @@ Hausgewerbetreibenden oder Gleichgestellten, soweit solche nicht
 bestehen oder keine Vorschläge einreichen, nach Anhörung der
 Beteiligten jeweils zu berufen.
 
-
 ## Siebenter Abschnitt - Entgeltschutz
-
-
 
 ### § 23 Entgeltprüfung
 
@@ -654,7 +612,6 @@ Berechnungshilfe zu leisten.
 (3) Die oberste Arbeitsbehörde des Landes kann die Aufgaben der
 Entgeltprüfer anderen Stellen übertragen, insbesondere für Bezirke, in
 denen Heimarbeit nur in geringerem Umfang geleistet wird.
-
 
 ### § 24 Aufforderung zur Nachzahlung der Minderbeträge
 
@@ -673,7 +630,6 @@ Satz 1 absehen, wenn glaubhaft gemacht worden ist, daß ein
 Gleichgestellter im Fall des § 1 Abs. 6 nicht oder wahrheitswidrig
 geantwortet hat.
 
-
 ### § 25 Klagebefugnis der Länder
 
 Das Land, vertreten durch die oberste Arbeitsbehörde oder die von ihr
@@ -681,7 +637,6 @@ bestimmte Stelle, kann im eigenen Namen den Anspruch auf Nachzahlung
 des Minderbetrags an den Berechtigten gerichtlich geltend machen. Das
 Urteil wirkt auch für und gegen den in Heimarbeit Beschäftigten oder
 den Gleichgestellten. § 24 Satz 3 gilt entsprechend.
-
 
 ### § 26 Entgeltschutz für fremde Hilfskräfte
 
@@ -697,7 +652,6 @@ tariflichen Regelung entlohnt. Voraussetzung ist, daß die Entgelte des
 Hausgewerbetreibenden oder Gleichgestellten durch eine Entgeltregelung
 (§§ 17 bis 19) festgelegt sind.
 
-
 ### § 27 Pfändungsschutz
 
 Für das Entgelt, das den in Heimarbeit Beschäftigten oder den
@@ -705,10 +659,7 @@ Gleichgestellten gewährt wird, gelten die Vorschriften über den
 Pfändungsschutz für Vergütungen, die auf Grund eines Arbeits- oder
 Dienstverhältnisses geschuldet werden, entsprechend.
 
-
 ## Achter Abschnitt - Auskunfts- und Aufklärungspflicht über Entgelte
-
-
 
 ### § 28
 
@@ -726,10 +677,7 @@ oder anstellen lassen.
 Auftraggeber verlangen, daß ihm die Berechnung und Zusammensetzung
 seines Entgelts erläutert wird.
 
-
 ## Neunter Abschnitt - Kündigung
-
-
 
 ### § 29 Allgemeiner Kündigungsschutz
 
@@ -824,7 +772,6 @@ verursachten Aufwendungen insoweit verlangen, als während der
 Kündigungsfrist die Beschäftigung wegen des Verhaltens des
 Auftraggebers nicht möglich war.
 
-
 ### § 29a Kündigungsschutz im Rahmen der Betriebsverfassung
 
 (1) Die Kündigung des Beschäftigungsverhältnisses eines in Heimarbeit
@@ -867,10 +814,7 @@ Personen frühestens zum Zeitpunkt der Einstellung der Vergabe
 zulässig, es sei denn, daß die Kündigung zu einem früheren Zeitpunkt
 durch zwingende betriebliche Erfordernisse bedingt ist.
 
-
 ## Zehnter Abschnitt - Ausgabeverbot
-
-
 
 ### § 30 Verbot der Ausgabe von Heimarbeit
 
@@ -898,10 +842,7 @@ Stelle kann einer Person, die
 
 die Aus- und Weitergabe von Heimarbeit verbieten.
 
-
 ## Elfter Abschnitt - Straftaten und Ordnungswidrigkeiten
-
-
 
 ### § 31 Ausgabe verbotener Heimarbeit
 
@@ -913,7 +854,6 @@ Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
 (2) Handelt der Täter fahrlässig, so ist die Strafe Freiheitsstrafe
 bis zu sechs Monaten oder Geldstrafe bis zu einhundertachtzig
 Tagessätzen.
-
 
 ### § 32 Straftaten und Ordnungswidrigkeiten im Bereich des Arbeits- und Gefahrenschutzes
 
@@ -946,7 +886,6 @@ oder mit Geldstrafe bestraft.
 (4) Wer in den Fällen des Absatzes 3 die Gefahr fahrlässig verursacht,
 wird mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis
 zu einhundertachtzig Tagessätzen bestraft.
-
 
 ### § 32a Sonstige Ordnungswidrigkeiten
 
@@ -983,10 +922,7 @@ Heimarbeit zuwiderhandelt.
 zu zehntausend Euro, die Ordnungswidrigkeit nach Absatz 2 mit einer
 Geldbuße bis zu zweitausendfünfhundert Euro geahndet werden.
 
-
 ## Zwölfter Abschnitt - Schlußvorschriften
-
-
 
 ### § 33 Durchführungsvorschriften
 
@@ -1017,7 +953,6 @@ d)  Form, Inhalt, Ausgabe und Aufbewahrung von Entgeltbelegen (§ 9).
 des Bundesrates und nach Anhörung der Spitzenverbände der
 Gewerkschaften und der Vereinigung der Arbeitgeber allgemeine
 Verwaltungsvorschriften für die Durchführung dieses Gesetzes erlassen.
-
 
 ### § 34 Inkrafttreten
 

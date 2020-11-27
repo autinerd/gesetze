@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1999, 767
 
-
-
 ## (XXXX)
 
 Auf Grund des § 8 Abs. 2 Nr. 7 des Markengesetzes vom 25. Oktober 1994
@@ -41,7 +39,6 @@ Diese Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom 27.
 November 1998 (BGBl. I S. 3538).
 
 Bundesministerium der Justiz
-
 
 ## Anlage Zertifikationszeichen der Republik Kuba
 

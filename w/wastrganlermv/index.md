@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1970, 315
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 46 des Bundeswasserstraßengesetzes vom 2. April 1968
@@ -25,18 +23,15 @@ Auf Grund des § 46 des Bundeswasserstraßengesetzes vom 2. April 1968
 Einführungsgesetzes zum Gesetz über Ordnungswidrigkeiten vom 24. Mai
 1968 (Bundesgesetzbl. I S. 503), wird verordnet:
 
-
 ## § 1
 
 Die Wasser- und Schiffahrtsdirektionen werden ermächtigt,
 Rechtsverordnungen nach § 46 Nr. 1 WaStrG über die Regelung des
 Betriebs von Anlagen zu erlassen.
 
-
 ## § 2
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
-
 
 ## Schlußformel
 

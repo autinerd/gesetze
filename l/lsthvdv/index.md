@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 14 G v. 22.6.2011 I 1126
 
-
 ## Eingangsformel
 
 Auf Grund des § 31 des Steuerberatungsgesetzes vom 16. August 1961
@@ -27,17 +26,13 @@ Auf Grund des § 31 des Steuerberatungsgesetzes vom 16. August 1961
 (Bundesgesetzbl. I S. 1509) wird mit Zustimmung des Bundesrates
 verordnet:
 
-
 ## Erster Teil - Anerkennung als Lohnsteuerhilfeverein
-
-
 
 ### § 1 Antrag
 
 Der Antrag auf Anerkennung als Lohnsteuerhilfeverein ist schriftlich
 bei der zuständigen Aufsichtsbehörde einzureichen, in deren Bezirk der
 Verein seinen Sitz und seine Geschäftsleitung hat.
-
 
 ### § 2 Nachweise
 
@@ -66,10 +61,6 @@ Gesetzes) beizufügen
 5.  eine Abschrift der nicht in der Satzung enthaltenen Regelungen über
     die Erhebung von Beiträgen.
 
-
-
-
-
 ### § 3 Anerkennungsurkunde
 
 Die Anerkennungsurkunde (§ 17 des Gesetzes) enthält
@@ -91,19 +82,12 @@ Die Anerkennungsurkunde (§ 17 des Gesetzes) enthält
 
 6.  Unterschrift.
 
-
-
-
-
 ### § 4 Ablehnung der Anerkennung
 
 Über eine Ablehnung des Antrags auf Anerkennung als
 Lohnsteuerhilfeverein ist ein schriftlicher Bescheid zu erteilen.
 
-
 ## Zweiter Teil - Beratungsstellen, Beratungsstellenleiter
-
-
 
 ### § 4a Eröffnung einer Beratungsstelle
 
@@ -116,10 +100,6 @@ Nr. 1 des Gesetzes) muß folgende Angaben enthalten:
 2.  ob und gegebenenfalls welche räumlichen, personellen und
     organisatorischen Verflechtungen mit anderen wirtschaftlichen
     Unternehmen bestehen.
-
-
-
-
 
 ### § 4b Bestellung eines Beratungsstellenleiters
 
@@ -165,16 +145,7 @@ Beratungsstellenleiter enthalten:
     c)  daß er bei der Meldebehörde die Erteilung eines Führungszeugnisses zur
         Vorlage bei der zuständigen Behörde beantragt hat.
 
-
-
-
-
-
-
-
 ## Dritter Teil - Verzeichnis der Lohnsteuerhilfevereine
-
-
 
 ### § 5 Eintragung
 
@@ -218,16 +189,11 @@ In das Verzeichnis der Lohnsteuerhilfevereine sind einzutragen
 
     sowie alle Veränderungen zu den Buchstaben a bis c.
 
-
-
-
-
 ### § 5a Ablehnung der Eintragung
 
 Wird die Eintragung einer Beratungsstelle oder eines
 Beratungsstellenleiters in das Verzeichnis der Lohnsteuerhilfevereine
 abgelehnt, gilt § 4 entsprechend.
-
 
 ### § 6 Löschung
 
@@ -248,10 +214,6 @@ Im Verzeichnis der Lohnsteuerhilfevereine sind zu löschen
 
 2.  Beratungsstellen, wenn die Beratungsstelle geschlossen ist.
 
-
-
-
-
 ### § 7 Meldepflichten
 
 Die Vertretungsberechtigten des Vereins haben der das Verzeichnis
@@ -261,7 +223,6 @@ erforderlichen Angaben innerhalb von zwei Wochen nach Eintritt des
 Ereignisses, das eine Eintragung oder Löschung notwendig macht,
 mitzuteilen. Mitteilungen nach § 23 Abs. 4 des Gesetzes gelten
 gleichzeitig als Mitteilungen im Sinne dieser Vorschrift.
-
 
 ### § 8 Mitteilung über Eintragung und Löschung
 
@@ -276,10 +237,7 @@ Aufsichtsbehörden, in deren Verzeichnissen Beratungsstellen des
 Vereins eingetragen sind, sowie dem zuständigen Registergericht
 mitzuteilen.
 
-
 ## Vierter Teil - Haftpflichtversicherung
-
-
 
 ### § 9 Versicherungspflicht
 
@@ -296,7 +254,6 @@ befugten Versicherungsunternehmen zu den nach Maßgabe des
 Versicherungsaufsichtsgesetzes eingereichten allgemeinen
 Versicherungsbedingungen genommen werden.
 
-
 ### § 10 Mindestversicherungssumme
 
 (1) Die Mindestversicherungssumme muss für den einzelnen
@@ -310,7 +267,6 @@ Lohnsteuerhilfeverein erloschen ist.
 (3) Wird eine Jahreshöchstleistung für alle im Versicherungsjahr
 verursachten Schäden vereinbart, muss sie mindestens 200 000 Euro
 betragen.
-
 
 ### § 11 Sonstige Inhalte des Versicherungsvertrags
 
@@ -352,10 +308,6 @@ in Frage kommt
     Zusammenhang stehen. In diesem Fall kann die Leistung des Versicherers
     auf das Fünffache der Mindestversicherungssumme begrenzt werden.
 
-
-
-
-
 ### § 12 Ausschlüsse
 
 Von der Versicherung kann die Haftung ausgeschlossen werden für
@@ -366,10 +318,6 @@ Von der Versicherung kann die Haftung ausgeschlossen werden für
 2.  Ersatzansprüche wegen Schäden, die durch fehlerhafte Kassenführung,
     durch Verstöße beim Zahlungsakt oder durch Veruntreuung durch das
     Personal des Versicherungsnehmers entstehen.
-
-
-
-
 
 ### § 13 Nachweis des Versicherungsabschlusses vor der Anerkennung
 
@@ -385,7 +333,6 @@ Aufsichtsbehörde unverzüglich der Abschluss der
 Berufshaftpflichtversicherung durch eine Bestätigung des Versicherers
 oder eine beglaubigte Abschrift des Versicherungsscheins nachzuweisen.
 
-
 ### § 14 Anzeige von Veränderungen
 
 (1) Die Beendigung oder Kündigung des Versicherungsvertrags, jede
@@ -398,7 +345,6 @@ dem Versicherungspflichtigen unverzüglich anzuzeigen.
 (2) Die zuständige Aufsichtsbehörde ist berechtigt, Auskünfte über den
 Beginn und über die in Absatz 1 aufgeführten Veränderungen des
 Versicherungsvertrags beim Versicherer einzuholen.
-
 
 ### Schlussformel
 

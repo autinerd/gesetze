@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 2614
 
-
 ## § 1 Aufhebung von Besatzungsrecht
 
 (1) Die von Besatzungsbehörden erlassenen Rechtsvorschriften
@@ -34,11 +33,9 @@ August 1946 (Amtsblatt des Kontrollrats S. 174), zuletzt geändert
 durch das Gesetz vom 9. Februar 1950 (Amtsblatt der Alliierten Hohen
 Kommission für Deutschland S. 103).
 
-
 ## § 2 Aufhebung bundesrechtlicher Vorschriften über die Bereinigung von Besatzungsrecht
 
 -
-
 
 ## § 3 Folgen der Aufhebung
 

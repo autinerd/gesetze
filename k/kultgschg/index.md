@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 G v. 18.5.2007 I 757
 
-
 ## Erster Abschnitt - Kunstwerke und anderes Kulturgut (außer Archivgut)
-
-
 
 ### § 1
 
@@ -50,7 +47,6 @@ wesentliche Belange des deutschen Kulturbesitzes überwiegen. Der
 Ausfuhr steht das sonstige Verbringen aus dem Geltungsbereich dieses
 Gesetzes gleich.
 
-
 ### § 2
 
 (1) Über die Eintragung des Kulturgutes in das Verzeichnis entscheidet
@@ -65,7 +61,6 @@ Fachleute aus den öffentlichen Verwaltungen, der Hochschullehrer, der
 privaten Sammler, des Kunsthandels und Antiquariates zu
 berücksichtigen.
 
-
 ### § 3
 
 (1) Die Eintragung kann auf Antrag oder von Amts wegen erfolgen. Die
@@ -77,7 +72,6 @@ kann diese Befugnis auf die zuständige oberste Landesbehörde
 der Bundesregierung für Angelegenheiten der Kultur und der Medien die
 Eintragung in das Verzeichnis beantragen.
 
-
 ### § 4
 
 (1) Ist die Eintragung eines Kulturgutes eingeleitet, so ist seine
@@ -87,7 +81,6 @@ unanfechtbar geworden ist.
 (2) Die Einleitung der Eintragung eines Gegenstandes in das
 "Verzeichnis national wertvollen Kulturgutes" ist öffentlich
 bekanntzumachen.
-
 
 ### § 5
 
@@ -105,7 +98,6 @@ Sachverständigen sind die Kreise der Fachleute aus den öffentlichen
 Verwaltungen, der Hochschullehrer, der privaten Sammler, des
 Kunsthandels und Antiquariates zu berücksichtigen.
 
-
 ### § 6
 
 (1) Jede Eintragung und ihre Veränderung ist den Beteiligten und dem
@@ -119,7 +111,6 @@ erwähnt werden.
 und der Medien führt ein aus den Verzeichnissen der einzelnen Länder
 gebildetes "Gesamtverzeichnis national wertvollen Kulturgutes".
 
-
 ### § 7
 
 (1) Sind seit Bekanntmachung der Eintragung im Bundesanzeiger mehr als
@@ -132,7 +123,6 @@ bekanntzumachen sowie den Beteiligten und dem Beauftragten der
 Bundesregierung für Angelegenheiten der Kultur und der Medien
 mitzuteilen.
 
-
 ### § 8
 
 Wird die Genehmigung zur Ausfuhr rechtskräftig versagt und ist der
@@ -142,7 +132,6 @@ Landes, in dem sich das Kulturgut befindet, im Benehmen mit dem
 Beauftragten der Bundesregierung für Angelegenheiten der Kultur und
 der Medien auf einen billigen Ausgleich unter Berücksichtigung der dem
 § 1 Abs. 3 entsprechenden Steuervorteile hinzuwirken.
-
 
 ### § 9
 
@@ -161,10 +150,7 @@ so ist auch der Eigentümer zur Mitteilung verpflichtet.
 anderes Land verbracht, so geht es in das Verzeichnis dieses Landes
 über.
 
-
 ## Zweiter Abschnitt - Archivgut
-
-
 
 ### § 10
 
@@ -181,7 +167,6 @@ Art auch Karten, Pläne, Siegel, Bild-, Film- und Tonmaterial.
 
 (3) § 1 Abs. 2 bis 4 gilt entsprechend.
 
-
 ### § 11
 
 (1) Über die Eintragung des Archivgutes in das Verzeichnis (§ 10 Abs.
@@ -194,7 +179,6 @@ Deutschland, der zonalen Verwaltungsorgane, des Deutschen Reiches,
 Preußens, des Norddeutschen Bundes und des Deutschen Bundes bezieht,
 ist vor der Entscheidung auch das Bundesarchiv zu hören.
 
-
 ### § 12
 
 (1) Über die Genehmigung zur Ausfuhr (§ 10 Abs. 1) eines in ein
@@ -202,7 +186,6 @@ Verzeichnis eingetragenen Archivgutes entscheidet der Beauftragte der
 Bundesregierung für Angelegenheiten der Kultur und der Medien.
 
 (2) § 5 Abs. 2 gilt entsprechend.
-
 
 ### § 13
 
@@ -214,7 +197,6 @@ Bundesarchiv gehört worden, so ist auch ihm die Entscheidung
 mitzuteilen.
 
 (2) § 6 Abs. 2 gilt entsprechend.
-
 
 ### § 14
 
@@ -228,16 +210,12 @@ geschlossen, aber noch nicht erfüllt hat.
 
 (2) § 9 gilt entsprechend.
 
-
 ### § 15
 
 Verpflichtungen auf Grund bestehender internationaler Verträge bleiben
 durch dieses Gesetz unberührt.
 
-
 ## Dritter Abschnitt - Straf- und Bußgeldvorschriften
-
-
 
 ### § 16
 
@@ -263,17 +241,13 @@ das Kulturgut oder Archivgut durch die Eintragung in das Verzeichnis
 geschützt ist oder seine Eintragung eingeleitet war. § 74a des
 Strafgesetzbuches ist anzuwenden.
 
-
 ### § 17
 
 Ordnungswidrig handelt, wer seine Mitteilungspflicht nach den §§ 9
 oder 14 verletzt. Die Ordnungswidrigkeit kann mit einer Geldbuße
 geahndet werden.
 
-
 ## Vierter Abschnitt - Ergänzungs- und Schlußvorschriften
-
-
 
 ### § 18
 
@@ -291,7 +265,6 @@ der Bundesregierung für Kultur und Medien in das Verzeichnis national
 wertvollen Kulturgutes oder das Verzeichnis national wertvoller
 Archive eingetragen werden. Über die Eintragung entscheidet die
 oberste Landesbehörde nach diesem Gesetz.
-
 
 ### § 19
 
@@ -313,7 +286,6 @@ Kulturgut im Sinne dieses Gesetzes sowie Archivgut zur Aufnahme in das
 Verzeichnis national wertvollen Kulturgutes oder Verzeichnis national
 wertvoller Archive anmelden. Über die Aufnahme entscheidet die oberste
 Landesbehörde nach diesem Gesetz.
-
 
 ### § 20
 
@@ -337,7 +309,6 @@ geltend machen.
 Herausgabe, Arrestverfügungen, Pfändungen und Beschlagnahmen
 unzulässig.
 
-
 ### § 21
 
 Das für Angelegenheiten der Kultur und der Medien zuständige Mitglied
@@ -345,7 +316,6 @@ der Bundesregierung wird ermächtigt, mit Zustimmung des Bundesrates
 Rechtsverordnungen zur Durchführung des § 2 Abs. 2, der §§ 4, 5, 6, 9
 Abs. 3, des § 11 Abs. 2, des § 12 Abs. 2, des § 13 Abs. 2 und des § 22
 Abs. 4 zu erlassen.
-
 
 ### § 22
 
@@ -377,11 +347,9 @@ Gesetz zu führende "Verzeichnis national wertvollen Kulturguts und
 national wertvoller Archive" entschieden worden ist. Absatz 4 Satz 2
 und 3 gilt entsprechend.
 
-
 ### § 23
 
 (weggefallen)
-
 
 ### § 24
 

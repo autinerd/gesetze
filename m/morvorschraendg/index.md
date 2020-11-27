@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1997, 2745
 
-
-
 ## Eingangsformel
 
 Das Bundesministerium für Ernährung, Landwirtschaft und Forsten
@@ -35,17 +33,9 @@ verordnet
     1994 (BGBl. I S. 2018), im Einvernehmen mit den Bundesministerien der
     Finanzen und für Wirtschaft:
 
-
-
-
-
 ## Art 1 u. 2
 
-
-
 ## Art 3 - Verordnung über das Aufheben marktrechtlicher Vorschriften
-
-
 
 ## § 1
 
@@ -64,20 +54,14 @@ Es werden aufgehoben:
 3.  die Ölsaatenstützungsverordnung vom 18. März 1992 (BGBl. I S. 532),
     geändert durch Verordnung vom 30. Juli 1992 (BGBl. I S. 1476).
 
-
-
-
-
 ## § 2
 
 Auf Sachverhalte, die vor dem 28. November 1997 entstanden sind, sind
 die in § 1 genannten Verordnungen weiter anzuwenden.
 
-
 ## Art 4 - Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlußformel
 

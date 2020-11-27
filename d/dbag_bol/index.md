@@ -17,13 +17,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1994, 1086
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -34,7 +31,6 @@ Steuern vom Einkommen und vom Vermögen sowie dem dazugehörigen
 Protokoll vom selben Tag und dem Notenwechsel vom 30. Juli 1993/12.
 August 1993 wird zugestimmt. Das Abkommen, das Protokoll und der
 Notenwechsel werden nachstehend veröffentlicht.
-
 
 ## Art 2
 
@@ -50,7 +46,6 @@ Besteuerung in der Bundesrepublik Deutschland und in der Republik
 Bolivien insgesamt eine höhere Belastung ergibt, als sie nach den
 Rechtsvorschriften vor Inkrafttreten des Abkommens bestand, wird der
 Steuermehrbetrag nicht festgesetzt.
-
 
 ## Art 3
 

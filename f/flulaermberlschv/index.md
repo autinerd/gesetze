@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1997, 1374
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 4 Abs. 1 des Gesetzes zum Schutz gegen Fluglärm vom
@@ -27,7 +25,6 @@ ist, verordnet das Bundesministerium für Umwelt, Naturschutz und
 Reaktorsicherheit im Einvernehmen mit dem Bundesministerium für
 Verkehr:
 
-
 ## § 1
 
 Zum Schutz der Allgemeinheit vor Gefahren, erheblichen Nachteilen und
@@ -35,13 +32,11 @@ erheblichen Belästigungen durch Fluglärm in der Umgebung des
 Verkehrsflughafens Berlin-Schönefeld wird der in § 2 bestimmte
 Lärmschutzbereich festgesetzt.
 
-
 ## § 2
 
 Der Lärmschutzbereich wird nach Anlage 1 bestimmt durch die
 interpolierten Verbindungslinien zwischen den Kurvenpunkten, soweit
 diese Linien außerhalb des Flugplatzgeländes verlaufen.
-
 
 ## § 3
 
@@ -53,7 +48,6 @@ dieser Schutzzone gelegen.
 (2) Auf die Errichtung einer baulichen Anlage ist Absatz 1
 entsprechend anzuwenden.
 
-
 ## § 4
 
 Der nach § 2 bestimmte Lärmschutzbereich ist in einer topographischen
@@ -64,16 +58,13 @@ dargestellt. Die topographische Karte ist dieser Verordnung als Anlage
 und dem Landesarchiv Berlin, Kalckreuthstr. 1-2, 10777 Berlin, zu
 jedermanns Einsicht archivmäßig gesichert niedergelegt.
 
-
 ## § 5
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage 1 (zu § 2 der Verordnung über die Festsetzung des Lärmschutzbereichs für den Verkehrsflughafen Berlin-Schönefeld)
 
@@ -3648,9 +3639,6 @@ Der Bundesrat hat zugestimmt.
     *
     *
     *
-
-
-
 
 ## Anlage 2 (zu § 4 der Verordnung über die Festsetzung des Lärmschutzbereichs für den Verkehrsflughafen Berlin-Schönefeld)
 

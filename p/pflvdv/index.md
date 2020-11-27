@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 2994
 
-
 ## Eingangsformel
 
 Auf Grund des § 130 des Elften Buches Sozialgesetzbuch, der durch
@@ -24,7 +23,6 @@ Artikel 1 Nummer 49 des Gesetzes vom 23. Oktober 2012 (BGBl. I S.
 2246) eingefügt worden ist, verordnet das Bundesministerium für
 Gesundheit im Einvernehmen mit dem Bundesministerium der Finanzen und
 dem Bundesministerium für Arbeit und Soziales:
-
 
 ## § 1 Zentrale Stelle
 
@@ -63,10 +61,6 @@ vorangegangenen Kalenderjahres vorzulegen sowie Statistiken zu
 4.  der Zahl der im jeweiligen Kalenderjahr gemäß § 127 Absatz 2 Satz 1
     Nummer 7 des Elften Buches Sozialgesetzbuch ruhend gestellten
     Verträge.
-
-
-
-
 
 ## § 2 Bekanntgabe gegenüber Versicherungsunternehmen
 
@@ -111,7 +105,6 @@ Auszahlungsreferenzdatei mit.
 des Elften Buches Sozialgesetzbuch übermittelt die zentrale Stelle das
 Ergebnis der Festsetzung an das Versicherungsunternehmen durch
 Datensatz.
-
 
 ## § 3 Mitteilungspflichten des Versicherungsunternehmens gegenüber der zentralen Stelle
 
@@ -158,7 +151,6 @@ jährlich bis zum 31. März die Zahl der im vorangegangenen Kalenderjahr
 gekündigten und die Zahl der gemäß § 127 Absatz 2 Satz 1 Nummer 7 des
 Elften Buches Sozialgesetzbuch ruhend gestellten Verträge geförderter
 privater Pflege-Zusatzversicherungen.
-
 
 ## § 4 Antragsverfahren
 
@@ -208,13 +200,11 @@ Nachweis darüber vorliegt, dass die Zulageberechtigung nach § 126 Satz
 1 des Elften Buches Sozialgesetzbuch besteht. § 3 Absatz 2 gilt
 entsprechend.
 
-
 ## § 5 Festsetzungsverfahren
 
 Das Festsetzungsverfahren ist nur zulässig, wenn die zentrale Stelle
 dem Versicherungsunternehmen einen Datensatz nach § 128 Absatz 3 Satz
 1 des Elften Buches Sozialgesetzbuch übersendet hat.
-
 
 ## § 6 Änderung des Prüfergebnisses
 
@@ -232,7 +222,6 @@ Versicherungsunternehmen vor Ablauf des 13. Monats nach Übermittlung
 eines der in Satz 1 benannten Prüfergebnisse einen Antrag auf Änderung
 des Prüfergebnisses stellt; § 3 Absatz 3 gilt entsprechend.
 
-
 ## § 7 Auszahlung der Zulagen, Auszahlungsreferenzdatei
 
 (1) Die Zulagen werden jeweils am 20. April und am 20. Dezember eines
@@ -246,7 +235,6 @@ vorangeht, berechnet wurden.
 Versicherungsunternehmen eine Auszahlungsreferenzdatei zur Verfügung
 gestellt. Form und Inhalt der Auszahlungsreferenzdatei legt die
 zentrale Stelle fest.
-
 
 ## § 8 Zulagenrückforderungen
 
@@ -274,7 +262,6 @@ zentrale Stelle gegenüber dem Versicherungsnehmer, sofern die
 Rückzahlung nach Absatz 1 oder Absatz 3 ganz oder teilweise nicht
 möglich oder nicht erfolgt ist.
 
-
 ## § 9 Art der Datenübermittlung
 
 (1) Nach dem Dreizehnten Kapitel des Elften Buches Sozialgesetzbuch
@@ -289,7 +276,6 @@ Datenfernübertragung.
 ergehenden Anzeigen und Mitteilungen nach § 2 Absatz 2 und 5, § 3
 Absatz 3 und 4, § 7 Absatz 2, § 8 Absatz 1 und § 13.
 
-
 ## § 10 Technisches Übermittlungsformat
 
 (1) Die Datensätze sind im XML-Format zu übermitteln.
@@ -302,7 +288,6 @@ Vorgabe der zentralen Stelle an den jeweiligen Stand der Technik
 anzupassen. Die DIN 66303, Ausgabe Juni 2000, ist im Beuth-Verlag
 GmbH, Berlin und Köln, erschienen und beim Deutschen Patent- und
 Markenamt in München niedergelegt.
-
 
 ## § 11 Verfahren der Datenübermittlung, Schnittstellen
 
@@ -320,7 +305,6 @@ Der Absender ist über die Mängel zu unterrichten.
 
 (3) Die technischen Einrichtungen für die Datenübermittlung stellt
 jede übermittelnde Stelle für ihren Bereich bereit.
-
 
 ## § 12 Übermittlung durch Datenfernübertragung
 
@@ -349,7 +333,6 @@ gemäß dieser Verordnung erfüllt.
 Auftragnehmer gilt als Empfangsbevollmächtigter für Mitteilungen der
 zentralen Stelle an das Versicherungsunternehmen, solange dieses nicht
 widerspricht.
-
 
 ## § 13 Identifikation der am Verfahren Beteiligten
 
@@ -397,7 +380,6 @@ Rückzahlungen von Zulagen zu verwenden ist.
 zentralen Stelle von den am Verfahren Beteiligten unter Angabe ihrer
 Kundennummer unverzüglich anzuzeigen.
 
-
 ## § 14 Aufzeichnungs- und Aufbewahrungsfristen
 
 Die zentrale Stelle und die Versicherungsunternehmen haben die
@@ -405,7 +387,6 @@ Die zentrale Stelle und die Versicherungsunternehmen haben die
 nach dem Ende des Jahres, in dem die Übermittlung erfolgt ist,
 geordnet aufzubewahren. Die Aufzeichnungen sind nach Ablauf der in
 Satz 1 genannten Aufbewahrungsfrist zu löschen oder zu vernichten.
-
 
 ## § 15 Verwaltungs- und Abschlusskosten
 
@@ -417,7 +398,6 @@ Abschlusskosten, Schadenregulierungskosten und sonstige
 Verwaltungskosten gemäß § 8 Absatz 1 Nummer 2 bis 4 der
 Kalkulationsverordnung dürfen bis zu einer Höhe von 10 Prozent der
 Bruttoprämie insgesamt eingerechnet werden.
-
 
 ## § 16 Inkrafttreten
 

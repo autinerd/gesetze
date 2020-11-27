@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 2 V v. 1. 8.2005 I 2287
 
-
 ## Eingangsformel
 
 Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des
@@ -26,17 +25,14 @@ Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931) verordnet
 das Bundesministerium für Wirtschaft und Arbeit im Einvernehmen mit
 dem Bundesministerium für Bildung und Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Produktveredler-Textil/Produktveredlerin-Textil
 wird staatlich anerkannt.
 
-
 ## § 2 Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Zielsetzung der Berufsausbildung
 
@@ -50,7 +46,6 @@ selbstständiges Planen, Durchführen und Kontrollieren sowie das
 Handeln im betrieblichen Gesamtzusammenhang einschließt. Die in Satz 2
 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 8 und 9
 nachzuweisen.
-
 
 ## § 4 Ausbildungsberufsbild
 
@@ -106,10 +101,6 @@ Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 16. Durchführen von qualitätssichernden Maßnahmen.
 
-
-
-
-
 ## § 5 Ausbildungsrahmenplan
 
 Die in § 4 genannten Fertigkeiten, Kenntnisse und Fähigkeiten
@@ -120,12 +111,10 @@ dem Ausbildungsrahmenplan abweichende sachliche und zeitliche
 Gliederung der Ausbildungsinhalte ist insbesondere zulässig, soweit
 betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
 ## § 6 Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans
 für die Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 7 Schriftlicher Ausbildungsnachweis
 
@@ -134,7 +123,6 @@ führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
 Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
 Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
 durchzusehen.
-
 
 ## § 8 Zwischenprüfung
 
@@ -188,7 +176,6 @@ schriftlichen Aufgabenstellungen sollen einen zeitlichen Umfang von
 höchstens 120 Minuten haben. Die komplexe Arbeitsaufgabe ist mit 60
 Prozent und die schriftlichen Aufgabenstellungen mit 40 Prozent zu
 gewichten.
-
 
 ## § 9 Abschlussprüfung
 
@@ -340,14 +327,12 @@ nach Nummer 2 müssen mindestens ausreichende Leistungen, in den
 weiteren Prüfungsbereichen nach Nummer 2 dürfen keine ungenügenden
 Leistungen erbracht worden sein.
 
-
 ## § 10 Fortsetzung der Berufsausbildung
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
 bestehen, können unter Anrechnung der bisher zurückgelegten
 Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt
 werden, wenn die Vertragsparteien dies vereinbaren.
-
 
 ## § 11 Übergangsregelung
 
@@ -360,11 +345,9 @@ das dritte Ausbildungsjahr vereinbaren, wenn dadurch die Ausbildung im
 unmittelbaren Anschluss an das zweite Ausbildungsjahr fortgeführt
 wird.
 
-
 ## § 12 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2005 in Kraft.
-
 
 ## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Produktveredler-Textil/zur Produktveredlerin-Textil
 

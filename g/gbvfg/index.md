@@ -21,14 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 G v. 11.8.2009 I 2713
 
-
 ## Abschnitt I - Das Grundbuch
 
-
-
 ### Unterabschnitt 1 - Grundbuchbezirke
-
-
 
 #### § 1
 
@@ -44,10 +39,7 @@ oder wird ein Gemeindebezirk oder ein Verwaltungsbezirk der in Absatz
 1 Satz 3 genannten Art in mehrere selbständige Verwaltungsbezirke
 zerlegt, so können die bisherigen Grundbuchbezirke beibehalten werden.
 
-
 ### Unterabschnitt 2 - Die äußere Form des Grundbuchs
-
-
 
 #### § 2
 
@@ -58,7 +50,6 @@ mehrere Grundbuchblätter umfassen; mehrere Bände desselben
 Grundbuchbezirks erhalten fortlaufende Nummern. Soweit die Grundbücher
 in Einzelheften mit herausnehmbaren Einlegebogen geführt werden, sind
 die Vorschriften, die Grundbuchbände voraussetzen, nicht anzuwenden.
-
 
 #### § 3
 
@@ -80,16 +71,12 @@ anzulegenden Grundbuchblätter eines Grundbuchbezirks neu mit der
 Nummer 1 oder mit der auf den nächsten freien Tausender folgenden
 Nummer begonnen werden.
 
-
 ## Abschnitt II - Das Grundbuchblatt
-
-
 
 ### § 4
 
 Jedes Grundbuchblatt besteht aus der Aufschrift, dem
 Bestandsverzeichnis und drei Abteilungen.
-
 
 ### § 5
 
@@ -97,7 +84,6 @@ In der Aufschrift sind das Amtsgericht, der Grundbuchbezirk und die
 Nummer des Bandes und des Blattes anzugeben. In den Fällen des § 1
 Abs. 2 ist durch einen Zusatz auf die Vereinigung oder Teilung des
 Bezirks hinzuweisen.
-
 
 ### § 6
 
@@ -233,7 +219,6 @@ Grundstück aus dem Grundbuchblatt ausscheidet.
 auf die laufende Nummer des von der Eintragung betroffenen Grundstücks
 zu verweisen.
 
-
 ### § 7
 
 (1) Vermerke über Rechte, die dem jeweiligen Eigentümer eines auf dem
@@ -259,7 +244,6 @@ vermerken.
 auf die laufende Nummer des von der Eintragung betroffenen Rechts zu
 verweisen.
 
-
 ### § 8
 
 Für die Eintragung eines Miteigentumsanteils nach § 3 Abs. 5 der
@@ -277,10 +261,6 @@ b)  in dem durch die Spalten 3 und 4 gebildeten Raum ist der Anteil der
 
 c)  für die Ausfüllung der Spalten 5 bis 8 gilt § 6 Abs. 6 bis 8
     entsprechend.
-
-
-
-
 
 ### § 9
 
@@ -310,10 +290,6 @@ d)  in Spalte 4: der Tag der Auflassung oder die anderweitige Grundlage
     der Berichtigung des Grundbuchs, Ersuchen der zuständigen Behörde,
     Enteignungsbeschluß usw.), der Verzicht auf das Eigentum an einem
     Grundstück (§ 928 Abs. 1 BGB) und der Tag der Eintragung.
-
-
-
-
 
 ### § 10
 
@@ -363,7 +339,6 @@ eingetragenen Vermerke.
 die laufende Nummer anzugeben, unter der die betroffene Eintragung in
 der Spalte 1 vermerkt ist.
 
-
 ### § 11
 
 (1) In der dritten Abteilung werden Hypotheken, Grundschulden und
@@ -396,7 +371,6 @@ eingetragenen Vermerke gelöscht.
 Spalte 1 eingetragen ist, und in den Spalten 6 und 9 der von der
 Veränderung oder Löschung betroffene Betrag des Rechts anzugeben.
 
-
 ### § 12
 
 (1) Eine Vormerkung wird eingetragen:
@@ -421,10 +395,7 @@ c)  in allen übrigen Fällen in der für Veränderungen bestimmten Spalte der
 (2) Diese Vorschriften sind bei der Eintragung eines Widerspruchs
 entsprechend anzuwenden.
 
-
 ## Abschnitt III - Die Eintragungen
-
-
 
 ### § 13
 
@@ -472,7 +443,6 @@ am Schluß neu einzutragen.
 Ausscheidens eines Grundstücks oder Grundstücksteils aus dem Grundbuch
 (§ 3 Abs. 3 der Grundbuchordnung).
 
-
 ### § 14
 
 (1) Wird ein Vermerk über eine Veränderung eines Rechts, das dem
@@ -486,7 +456,6 @@ des Veränderungsvermerks einzutragen.
 (2) Im Falle der Abschreibung eines solchen Rechts sind in den Spalten
 1 bis 6 des Bestandsverzeichnisses die Eintragungen, die sich auf
 dieses Recht beziehen, rot zu unterstreichen.
-
 
 ### § 15
 
@@ -522,13 +491,11 @@ werden, durch welche Behörde der Fiskus vertreten wird.
 
 (3) (weggefallen)
 
-
 ### § 16
 
 Bei der Eintragung eines neuen Eigentümers sind die Vermerke in den
 Spalten 1 bis 4 der ersten Abteilung, die sich auf den bisher
 eingetragenen Eigentümer beziehen, rot zu unterstreichen.
-
 
 ### § 17
 
@@ -575,18 +542,15 @@ Teil von dem Betrag abzuschreiben. Bezieht sich diese Löschung auf
 einen Teilbetrag (Absätze 4a, 4b), so ist der gelöschte Teil auch in
 Spalte 6 von dem Teilbetrag abzuschreiben.
 
-
 ### § 17a
 
 § 17 Abs. 2 Satz 3 ist auch bei Löschungen in dem Bestandsverzeichnis
 oder in der ersten Abteilung sinngemäß anzuwenden.
 
-
 ### § 18
 
 Angaben über den Rang eines eingetragenen Rechts sind bei allen
 beteiligten Rechten zu vermerken.
-
 
 ### § 19
 
@@ -602,13 +566,11 @@ Eintragung ihre Bedeutung verliert, ist sie rot zu unterstreichen.
 (3) Diese Vorschriften sind bei der Eintragung eines Widerspruchs
 entsprechend anzuwenden.
 
-
 ### § 20
 
 Sind bei einer Eintragung mehrere Spalten desselben Abschnitts oder
 derselben Abteilung auszufüllen, so gelten die sämtlichen Vermerke im
 Sinne des § 44 der Grundbuchordnung nur als eine Eintragung.
-
 
 ### § 21
 
@@ -650,13 +612,11 @@ Spalten auf einer Seite nebeneinander, so ist die Sperrung nach den
 vorstehenden Vorschriften für die Spalten, die nebeneinanderliegen,
 jeweils gesondert vorzunehmen.
 
-
 ### § 22
 
 Die nähere Einrichtung und die Ausfüllung des Grundbuchblatts ergibt
 sich aus dem in Anlage 1 beigefügten Muster. Die darin befindlichen
 Probeeintragungen sind als Beispiele nicht Teil dieser Verfügung.
-
 
 ### § 23
 
@@ -667,10 +627,7 @@ ist es umzuschreiben.
 einem geschlossenen Blatt desselben oder eines anderen Bandes ist
 unzulässig.
 
-
 ## Abschnitt IV - Die Grundakten
-
-
 
 ### § 24
 
@@ -697,7 +654,6 @@ Grundbuchblatts enthält. Die mit der Führung des Grundbuchs
 beauftragten Beamten haben für die Übereinstimmung des Handblatts mit
 dem Grundbuchblatt zu sorgen.
 
-
 ### § 24a
 
 Urkunden oder Abschriften, die nach § 10 der Grundbuchordnung bei den
@@ -709,10 +665,7 @@ Bundesministerium der Justiz gibt hierzu im Einvernehmen mit den
 Landesjustizverwaltungen und der Bundesnotarkammer Empfehlungen
 heraus.
 
-
 ## Abschnitt V - Der Zuständigkeitswechsel
-
-
 
 ### § 25
 
@@ -781,7 +734,6 @@ zuständigen Grundbuchamt zu machenden Mitteilung nachgetragen. Im
 Falle des Absatzes 3b Satz 3 ist der Abschreibungsvermerk durch
 Nachtragen des neu angelegten Blattes zu ergänzen.
 
-
 ### § 26
 
 (1) Geht bei einer Bezirksänderung die Führung des Grundbuchs in
@@ -820,13 +772,11 @@ soweit sie sich auf diesen Bezirk beziehen.
 (7) In den Fällen der Absätze 4, 5 und 6 ist über die Abgabe ein
 Vermerk zurückzubehalten.
 
-
 ### § 27
 
 Die Vorschriften des § 25 und des § 26 Abs. 1, 2 und 3 sind
 entsprechend anzuwenden, wenn ein Grundstück in einen anderen
 Grundbuchbezirk desselben Grundbuchamts übergeht.
-
 
 ### § 27a
 
@@ -845,10 +795,7 @@ Frage kommenden Bezirk geführt, so ist nach § 25 Abs. 1 und 2, § 26
 Abs. 3, 4, 6 und 7 zu verfahren. Im Falle des § 27 ist nach § 25 Abs.
 1 und 2, § 26 Abs. 3 zu verfahren.
 
-
 ## Abschnitt VI. - Die Umschreibung von Grundbüchern
-
-
 
 ### § 28
 
@@ -864,10 +811,6 @@ b)  wenn außer ihm in demselben Grundbuchband keine oder nur wenige in
     Gebrauch befindliche Blätter enthalten sind und die Ausscheidung des
     Bandes angezeigt ist.
 
-
-
-
-
 ### § 29
 
 Vor der Umschreibung hat der
@@ -880,7 +823,6 @@ und das Verfahren vor der Umschreibung durchzuführen; auch hat er
 gegebenenfalls die Beteiligten über die Beseitigung unrichtiger
 Eintragungen sowie über die Vereinigung oder Zuschreibung von
 Grundstücken zu belehren.
-
 
 ### § 30
 
@@ -957,13 +899,11 @@ i)  In den Fällen des § 30 (§§ 31, 32) des Reichsgesetzes über die
 Schließungsvermerk (§ 36 Buchstabe b) ist die Bezeichnung des neuen
 Blattes anzugeben.
 
-
 ### § 31
 
 Die Durchführung der Umschreibung im einzelnen ergibt sich aus den in
 den Anlagen 2a und 2b beigefügten Mustern. § 22 Satz 2 gilt
 entsprechend.
-
 
 ### § 32
 
@@ -982,7 +922,6 @@ Bezug nimmt, können zu den Grundakten des neuen Blattes genommen
 werden; in diesem Fall ist Absatz 1 Satz 3 Halbsatz 2 entsprechend
 anzuwenden. Die Übernahme ist in den geschlossenen Grundakten zu
 vermerken.
-
 
 ### § 33
 
@@ -1023,10 +962,7 @@ anzuwenden, Buchstabe c jedoch mit Ausnahme seines Satzes 3.
 (2e) Die nicht neu gefaßten Teile des Grundbuchblatts bleiben
 unverändert.
 
-
 ## Abschnitt VII - Die Schließung des Grundbuchblatts
-
-
 
 ### § 34
 
@@ -1043,10 +979,6 @@ b)  an Stelle des Grundstücks die Miteigentumsanteile der Miteigentümer
 
 
 c)  das Grundstück untergegangen ist.
-
-
-
-
 
 ### § 35
 
@@ -1065,7 +997,6 @@ bekanntgemacht werden; dies hat zu geschehen, wenn Person oder
 Aufenthalt eines Berechtigten dem Grundbuchamt nicht bekannt ist. Die
 Art der Bekanntmachung bestimmt das Grundbuchamt.
 
-
 ### § 36
 
 Das Grundbuchblatt wird geschlossen, indem
@@ -1076,10 +1007,6 @@ a)  sämtliche Seiten des Blattes, soweit sie Eintragungen enthalten, rot
 
 b)  ein Schließungsvermerk, in dem der Grund der Schließung anzugeben ist,
     in der Aufschrift eingetragen wird.
-
-
-
-
 
 ### § 37
 
@@ -1113,10 +1040,7 @@ eines geschlossenen Grundbuchblatts im Einzelheft für ein neues Blatt
 desselben Grundbuchbezirks unter Hinzufügung des Buchstabens A (B, C
 usw.) wiederverwendet werden.
 
-
 ## Abschnitt VIII - Die Beseitigung einer Doppelbuchung
-
-
 
 ### § 38
 
@@ -1171,11 +1095,7 @@ Blättern abgeschrieben.
 (2d) Die wirkliche Rechtslage bleibt von den nach den Absätzen 2a bis
 2c vorgenommenen Maßnahmen unberührt .
 
-
-
 ## Abschnitt IX - Die Bekanntmachung der Eintragungen
-
-
 
 ### § 39
 
@@ -1201,7 +1121,6 @@ einzureichen.
 
 (4) (weggefallen)
 
-
 ### § 40
 
 (1) Geht die Zuständigkeit für die Führung des Grundbuchblatts infolge
@@ -1220,11 +1139,9 @@ unverändert bleiben.
 und 4 sind entsprechend anzuwenden, wenn ein Grundstück in einen
 anderen Grundbuchbezirk desselben Grundbuchamts übergeht (§ 27).
 
-
 ### § 41
 
 (weggefallen)
-
 
 ### § 42
 
@@ -1234,10 +1151,7 @@ müssen nicht unterschrieben werden. In diesem Fall soll auf dem
 Schreiben der Vermerk "Dieses Schreiben ist maschinell erstellt und
 auch ohne Unterschrift wirksam" angebracht sein.
 
-
 ## Abschnitt X - Grundbucheinsicht und -abschriften
-
-
 
 ### § 43
 
@@ -1252,7 +1166,6 @@ soweit Gegenstand der Einsicht das betreffende Grundstück ist.
 Unbeschadet dessen ist die Einsicht in das Grundbuch und die Erteilung
 von Abschriften hieraus zulässig, wenn die für den Einzelfall erklärte
 Zustimmung des eingetragenen Eigentümers dargelegt wird.
-
 
 ### § 44
 
@@ -1273,7 +1186,6 @@ Eintragung mit dem Vermerk "Gelöscht" in die Abschrift aufgenommen.
 Dies gilt nicht, wenn ihre Aufnahme in vollem Wortlaut beantragt ist
 oder soweit die Abschrift durch Ablichtung hergestellt wird.
 
-
 ### § 45
 
 (1) Die Erteilung einer beglaubigten Abschrift eines Teils des
@@ -1290,7 +1202,6 @@ Auskunftserteilung nur auf Grund besonderer gesetzlicher Vorschrift
 verpflichtet. Die Erteilung eines abgekürzten Auszugs aus dem Inhalt
 des Grundbuchs ist nicht zulässig.
 
-
 ### § 46
 
 (1) Die Einsicht von Grundakten ist jedem gestattet, der ein
@@ -1303,10 +1214,7 @@ entsprechend anzuwenden.
 (3) Soweit die Einsicht gestattet ist, kann eine Abschrift verlangt
 werden, die auf Antrag auch zu beglaubigen ist.
 
-
 ## Abschnitt XI - Hypotheken-, Grundschuld- und Rentenschuldbriefe
-
-
 
 ### § 47
 
@@ -1316,7 +1224,6 @@ die Worte "Deutscher Hypothekenbrief" und die Bezeichnung der Hypothek
 wird. Die laufende Nummer, unter der die Hypothek in der dritten
 Abteilung des Grundbuchs eingetragen ist, ist dabei in Buchstaben zu
 wiederholen.
-
 
 ### § 48
 
@@ -1330,7 +1237,6 @@ alte Betrag ist rot zu unterstreichen.
 Teilhypothekenbriefen auf dem bisherigen Brief der Betrag ersichtlich
 zu machen, auf den sich der Brief noch bezieht.
 
-
 ### § 49
 
 Vermerke über Eintragungen, die nachträglich bei der Hypothek
@@ -1340,7 +1246,6 @@ den letzten vorhandenen Vermerk oder, wenn hierfür auf dem Brief kein
 Raum mehr vorhanden ist, auf einen mit dem Brief zu verbindenden
 besonderen Bogen gesetzt.
 
-
 ### § 49a
 
 Wird der Grundpfandrechtsbrief nicht ausgehändigt, soll er durch die
@@ -1349,13 +1254,11 @@ Die Landesjustizverwaltungen können durch Geschäftsanweisung oder
 Erlaß ein anderes Versendungsverfahren bestimmen. Bestehende
 Anweisungen oder Erlasse bleiben unberührt.
 
-
 ### § 50
 
 Die in § 58 Abs. 1 und § 59 Abs. 2 der Grundbuchordnung sowie in § 49
 dieser Verfügung vorgeschriebene Verbindung erfolgt durch Schnur und
 Siegel.
-
 
 ### § 51
 
@@ -1363,7 +1266,6 @@ Die Vorschriften der §§ 47 bis 50 sind auf Grundschuld- und
 Rentenschuldbriefe entsprechend anzuwenden. In der Überschrift eines
 Rentenschuldbriefes ist der Betrag der einzelnen Jahresleistung, nicht
 der Betrag der Ablösungssumme, anzugeben.
-
 
 ### § 52
 
@@ -1374,7 +1276,6 @@ die Anlagen 3 bis 8 als Muster.
 Rentenschuldbriefe sind die amtlich ausgegebenen, mit laufenden
 Nummern versehenen Vordrucke nach näherer Anweisung der
 Landesjustizverwaltung zu verwenden.
-
 
 ### § 53
 
@@ -1393,10 +1294,7 @@ vernichten. In der Verfügung kann angeordnet werden, daß ein
 unbrauchbar gemachter Brief während bestimmter Zeit bei den Grundakten
 aufzubewahren ist.
 
-
 ## Abschnitt XII - Das Erbbaugrundbuch
-
-
 
 ### § 54
 
@@ -1405,7 +1303,6 @@ Abs. 1 des Erbbaurechtsgesetzes sind die vorstehenden Vorschriften
 entsprechend anzuwenden, soweit sich nicht aus den §§ 55 bis 59
 Abweichendes ergibt.
 
-
 ### § 55
 
 (1) Das Erbbaugrundbuchblatt erhält die nächste fortlaufende Nummer
@@ -1413,7 +1310,6 @@ des Grundbuchs, in dem das belastete Grundstück verzeichnet ist.
 
 (2) In der Aufschrift ist unter die Blattnummer in Klammern das Wort
 "Erbbaugrundbuch" zu setzen.
-
 
 ### § 56
 
@@ -1459,7 +1355,6 @@ teilweise seine Bedeutung, so ist er insoweit rot zu unterstreichen.
 
 (6) Die Löschung des Erbbaurechts ist in der Spalte 8 zu vermerken.
 
-
 ### § 57
 
 (1) Die erste Abteilung dient zur Eintragung des Erbbauberechtigten.
@@ -1468,20 +1363,17 @@ teilweise seine Bedeutung, so ist er insoweit rot zu unterstreichen.
 in den drei Abteilungen die für die Grundbuchblätter über Grundstücke
 geltenden Vorschriften (Abschnitte II, III) entsprechend anzuwenden.
 
-
 ### § 58
 
 Die nähere Einrichtung und die Ausfüllung des für ein Erbbaurecht
 anzulegenden besonderen Grundbuchblatts ergibt sich aus dem in der
 Anlage 9 beigefügten Muster. § 22 Satz 2 ist entsprechend anzuwenden.
 
-
 ### § 59
 
 Bei der Bildung von Hypotheken-, Grundschuld- und Rentenschuldbriefen
 ist kenntlich zu machen, daß der belastete Gegenstand ein Erbbaurecht
 ist.
-
 
 ### § 60
 
@@ -1496,17 +1388,9 @@ a)  In der Aufschrift ist an Stelle des Wortes "Erbbaugrundbuch" (§ 55
 b)  bei der Eintragung des Inhalts des Erbbaurechts ist die Bezugnahme auf
     die Eintragungsbewilligung (§ 56 Abs. 2) unzulässig.
 
-
-
-
-
 ## Abschnitt XIII - Vorschriften über das maschinell geführte Grundbuch
 
-
-
 ### Unterabschnitt 1 - Das maschinell geführte Grundbuch
-
-
 
 #### § 61 Grundsatz
 
@@ -1516,7 +1400,6 @@ sich um Wohnungsgrundbuchblätter handelt, auch die
 Wohnungsgrundbuchverfügung und die sonstigen allgemeinen
 Ausführungsvorschriften, soweit im folgenden nichts abweichendes
 bestimmt wird.
-
 
 #### § 62 Begriff des maschinell geführten Grundbuchs
 
@@ -1530,7 +1413,6 @@ Daten sicherzustellen oder zu verbessern, und die Daten dabei nicht
 verändert werden. Die Verfügung kann auch in allgemeiner Form und vor
 Eintritt eines Änderungsfalls getroffen werden.
 
-
 #### § 63 Gestaltung des maschinell geführten Grundbuchs
 
 Der Inhalt des maschinell geführten Grundbuchs muß auf dem Bildschirm
@@ -1538,7 +1420,6 @@ und in Ausdrucken so sichtbar gemacht werden können, wie es den durch
 diese Verordnung und die Wohnungsgrundbuchverfügung vorgeschriebenen
 Vordrucken entspricht. Die Vorschriften, die Grundbuchbände
 voraussetzen, sind nicht anzuwenden.
-
 
 #### § 64 Anforderungen an Anlagen und Programme
 
@@ -1594,7 +1475,6 @@ Das System soll nach Möglichkeit Grundbuchdaten übernehmen können, die
 in Systemen gespeichert sind, die die Führung des Grundbuchs in
 Papierform unterstützen.
 
-
 #### § 65 Sicherung der Anlagen und Programme
 
 (1) Die Datenverarbeitungsanlage ist so aufzustellen, daß sie keinen
@@ -1610,7 +1490,6 @@ Datensicherungsverfahren ist durch Dienstanweisungen sicherzustellen.
 Telekommunikationsnetz angeschlossen, müssen Sicherungen gegen ein
 Eindringen unbefugter Personen oder Stellen in das Verarbeitungssystem
 (Hacking) getroffen werden.
-
 
 #### § 66 Sicherung der Daten
 
@@ -1630,10 +1509,7 @@ maschinell geführten Grundbuchblätter nicht in Mitleidenschaft gezogen
 und unverzüglich zugänglich gemacht werden kann. Im übrigen gilt § 65
 Abs. 1 sinngemäß.
 
-
 ### Unterabschnitt 2 - Anlegung des maschinell geführten Grundbuchs
-
-
 
 #### § 67 Festlegung der Anlegungsverfahren
 
@@ -1650,7 +1526,6 @@ anzulegenden Blattes wird durch den Freigabevermerk, der in dem Muster
 der Anlage 2a zu dieser Verordnung vorgesehene Vermerk in der
 Aufschrift des abgeschriebenen Blattes wird durch den
 Abschreibevermerk nach § 71 ersetzt.
-
 
 #### § 68 Anlegung des maschinell geführten Grundbuchs durch Umschreibung
 
@@ -1669,7 +1544,6 @@ dieser Angaben in elektronische Zeichen aufzunehmen sind. § 32 Abs. 1
 Satz 2 und 3 und § 33 finden keine Anwendung.
 
 (3) (weggefallen)
-
 
 #### § 69 Anlegung des maschinell geführten Grundbuchs durch Neufassung
 
@@ -1703,7 +1577,6 @@ Buchstabe h Nr. 1 ist nicht anzuwenden.
 in den Anlagen 10a und 10b beigefügten Mustern. Die darin enthaltenen
 Probeeintragungen sind als Beispiele nicht Teil dieser Verordnung.
 
-
 #### § 70 Anlegung des maschinell geführten Grundbuchs durch Umstellung
 
 (1) Die Anlegung eines maschinell geführten Grundbuchs kann auch durch
@@ -1729,7 +1602,6 @@ in das bisherige Grundbuchblatt keine Eintragungen vorgenommen werden
 und bei der Gewährung von Einsicht und der Erteilung von Abschriften
 aus dem bisherigen Grundbuchblatt in geeigneter Weise auf die
 Schließung hingewiesen wird.
-
 
 #### § 71 Freigabe des maschinell geführten Grundbuchs
 
@@ -1880,34 +1752,6 @@ einzutragen:
                             *
                                 *   Unterschrift(en)".
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #### § 72 Umschreibung, Neufassung und Schließung des maschinell geführten Grundbuchs
 
 (1) Für die Umschreibung, Neufassung und Schließung des maschinell
@@ -1918,7 +1762,6 @@ diesem Abschnitt nichts Abweichendes bestimmt ist.
 (2) Der Inhalt der geschlossenen maschinell geführten Grundbuchblätter
 soll weiterhin wiedergabefähig oder lesbar bleiben.
 
-
 #### § 73 Grundakten
 
 Auch nach Anlegung des maschinell geführten Grundbuchs sind die
@@ -1928,10 +1771,7 @@ den Grundakten zu vermerken. Wird das bisher geführte Handblatt bei
 den Grundakten verwahrt, gilt § 32 Abs. 1 Satz 3 Halbsatz 2
 entsprechend.
 
-
 ### Unterabschnitt 3 - Eintragungen in das maschinell geführte Grundbuch
-
-
 
 #### § 74 Veranlassung der Eintragung
 
@@ -1950,7 +1790,6 @@ des Grundbuchs zuständigen Person veranlaßt wird.
 und Vollständigkeit prüfen; die Aufnahme in den Datenspeicher (§ 62)
 ist zu verifizieren.
 
-
 #### § 75 Elektronische Unterschrift
 
 Bei dem maschinell geführten Grundbuch soll eine Eintragung nur
@@ -1965,16 +1804,12 @@ Eintragung und die elektronische Unterschrift werden Bestandteil des
 maschinell geführten Grundbuchs. Die elektronische Unterschrift soll
 durch die zuständige Stelle überprüft werden können.
 
-
 #### § 76 Äußere Form der Eintragung
 
 Die äußere Form der Wiedergabe einer Eintragung bestimmt sich nach dem
 Abschnitt III.
 
-
 ### Unterabschnitt 4 - Einsicht in das maschinell geführte Grundbuch und Abschriften hieraus
-
-
 
 #### § 77 Grundsatz
 
@@ -1982,7 +1817,6 @@ Für die Einsicht in das maschinell geführte Grundbuch und die
 Erteilung von Abschriften hieraus gelten die Vorschriften des
 Abschnitts X entsprechend, soweit im folgenden nichts Abweichendes
 bestimmt ist.
-
 
 #### § 78 Ausdrucke aus dem maschinell geführten Grundbuch
 
@@ -2004,7 +1838,6 @@ oder werden. Absatz 1 Satz 2 gilt nicht.
 
 (3) Auf dem Ausdruck oder dem amtlichen Ausdruck kann angegeben
 werden, welchen Eintragungsstand er wiedergibt.
-
 
 #### § 79 Einsicht
 
@@ -2032,10 +1865,7 @@ Landesjustizverwaltungen dies vereinbaren.
 (4) Die Gewährung der Einsicht schließt die Erteilung von Abschriften
 mit ein.
 
-
 ### Unterabschnitt 5 - Automatisierter Abruf von Daten
-
-
 
 #### § 80 Abruf von Daten
 
@@ -2049,7 +1879,6 @@ gewährt, ist diese in der Genehmigung oder dem Vertrag (§ 133 der
 Grundbuchordnung) darauf hinzuweisen, daß sie die abgerufenen Daten
 nach § 133 Abs. 6 der Grundbuchordnung nur zu dem Zweck verwenden
 darf, für den sie ihr übermittelt worden sind.
-
 
 #### § 81 Genehmigungsverfahren, Einrichtungsvertrag
 
@@ -2079,7 +1908,6 @@ Grundbuchämter auch durch die für diese jeweils zuständige Stelle
 ausgesetzt werden. Der Widerruf und die Aussetzung einer Genehmigung
 sind den übrigen Landesjustizverwaltungen unverzüglich mitzuteilen.
 
-
 #### § 82 Einrichtung der Verfahren
 
 (1) Wird ein Abrufverfahren eingerichtet, so ist systemtechnisch
@@ -2100,7 +1928,6 @@ zusätzlich zur Auflage zu machen, daß der einzelne Abruf nur unter
 Verwendung eines Codezeichens erfolgen darf, das die Art des Abrufs
 bezeichnet. Das zusätzliche Codezeichen kann mit dem Codezeichen für
 die Abrufberechtigung verbunden werden.
-
 
 #### § 83 Abrufprotokollierung
 
@@ -2159,7 +1986,6 @@ Verfügung gestellt wurden, sind dort spätestens ein Jahr nach ihrem
 Eingang zu vernichten, sofern sie nicht für weitere bereits
 eingeleitete Prüfungen benötigt werden.
 
-
 #### § 84 Kontrolle
 
 Die berechtigte Person oder Stelle, die einer allgemeinen Aufsicht
@@ -2169,15 +1995,11 @@ der Anlage und ihrer Benutzung durch die genehmigende Stelle zu
 dulden, auch wenn diese keinen konkreten Anlaß dafür hat. § 133 Abs. 5
 der Grundbuchordnung bleibt unberührt.
 
-
 #### § 85 (weggefallen)
 
 -
 
-
 ### Unterabschnitt 6 - Zusammenarbeit mit den katasterführenden Stellen und Versorgungsunternehmen
-
-
 
 #### § 86 Zusammenarbeit mit den katasterführenden Stellen
 
@@ -2209,7 +2031,6 @@ gelten Absatz 1 und Satz 1 entsprechend.
 (4) Die Übermittlung der Daten kann in den Fällen der vorstehenden
 Absätze auch im automatisierten Verfahren erfolgen.
 
-
 #### § 86a Zusammenarbeit mit Versorgungsunternehmen
 
 (1) Unternehmen, die Anlagen zur Fortleitung von Elektrizität, Gas,
@@ -2226,10 +2047,7 @@ Grundbuch anfordern. Die Übermittlung kann auch im automatisierten
 Verfahren erfolgen. Die Einzelheiten dieses Verfahrens legt die in §
 81 Abs. 2 bestimmte Stelle fest.
 
-
 ### Unterabschnitt 7 - Hypotheken-, Grundschuld- und Rentenschuldbriefe
-
-
 
 #### § 87 Erteilung von Briefen
 
@@ -2245,7 +2063,6 @@ versehen sein oder werden. § 50 ist nicht anzuwenden; die
 Zusammengehörigkeit der Blätter des Briefs oder der Briefe ist in
 geeigneter Weise sichtbar zu machen.
 
-
 #### § 88 Verfahren bei Schuldurkunden
 
 Abweichend von § 58 und § 61 Abs. 2 Satz 3 der Grundbuchordnung muß
@@ -2253,7 +2070,6 @@ ein Brief nicht mit einer für die Forderung ausgestellten Urkunde,
 Ausfertigung oder einem Auszug der Urkunde verbunden werden, wenn er
 maschinell hergestellt wird. In diesem Fall muß er den Aufdruck "Nicht
 ohne Vorlage der Urkunde für die Forderung gültig" enthalten.
-
 
 #### § 89 Ergänzungen des Briefes
 
@@ -2266,10 +2082,7 @@ hergestellt worden ist. Der bisherige Brief ist einzuziehen und
 unbrauchbar zu machen. Sofern mit dem Brief eine Urkunde verbunden
 ist, ist diese zu lösen und dem Antragsteller zurückzugeben.
 
-
 ### Unterabschnitt 8 - Schlußbestimmungen
-
-
 
 #### § 90 Datenverarbeitung im Auftrag
 
@@ -2280,7 +2093,6 @@ maschinell geführte Grundbuch und die Auskunft hieraus nur erfolgt,
 wenn sie von dem zuständigen Grundbuchamt verfügt wurde nach § 133 der
 Grundbuchordnung und den Unterabschnitten 5 und 6 zulässig ist.
 
-
 #### § 91 Behandlung von Verweisungen, Löschungen
 
 Sonderregelungen in den §§ 54 bis 60 dieser Verordnung, in der
@@ -2290,7 +2102,6 @@ den §§ 61 bis 89 verwiesen wird. Soweit nach den in Satz 1 genannten
 Vorschriften Unterstreichungen, Durchkreuzungen oder ähnliche
 Kennzeichnungen in rot vorzunehmen sind, können sie in dem maschinell
 geführten Grundbuch schwarz dargestellt werden.
-
 
 #### § 92 Ersetzung von Grundbuchdaten, Ersatzgrundbuch
 
@@ -2314,7 +2125,6 @@ Blattes von ... Band ... Blatt ... getreten. Eingetragen am ...". Dies
 gilt für Erbbaugrundbücher, Wohnungs- und Teileigentumsgrundbücher
 sowie Gebäudegrundbücher entsprechend.
 
-
 #### § 93 Ausführungsvorschriften
 
 Die Landesregierungen werden ermächtigt, durch Rechtsverordnung die
@@ -2325,17 +2135,13 @@ geregelte weitere Einzelheiten des Verfahrens nach diesem Abschnitt zu
 regeln. Sie können diese Ermächtigung durch Rechtsverordnung auf die
 Landesjustizverwaltungen übertragen.
 
-
 ## Abschnitt XIV - Vermerke über öffentliche Lasten
-
-
 
 ### § 93a Eintragung öffentlicher Lasten
 
 Öffentliche Lasten auf einem Grundstück, die im Grundbuch einzutragen
 sind oder eingetragen werden können, werden nach Maßgabe des § 10 in
 der zweiten Abteilung eingetragen.
-
 
 ### § 93b Eintragung des Bodenschutzlastvermerks
 
@@ -2355,22 +2161,17 @@ Sätzen 2 und 3 bestimmten Zeitpunkte ist vom Grundbuchamt nicht zu
 prüfen. Eine Zustimmung des Grundstückseigentümers ist für die
 Eintragung und die Löschung des Vermerks nicht erforderlich.
 
-
 ## Abschnitt XV - Vorschriften über den elektronischen Rechtsverkehr und die elektronische Grundakte
-
-
 
 ### § 94
 
 (Inkrafttreten, Außerkrafttreten von Landesrecht)
-
 
 ### § 94 Grundsatz
 
 Die Vorschriften dieser Verordnung über die Grundakten gelten auch für
 die elektronischen Grundakten, soweit nachfolgend nichts anderes
 bestimmt ist.
-
 
 ### § 95 Allgemeine technische und organisatorische Maßgaben
 
@@ -2379,7 +2180,6 @@ Grundakten, die Anforderungen an technische Anlagen und Programme, die
 Sicherung der Anlagen, Programme und Daten sowie die Datenverarbeitung
 im Auftrag gelten § 62 Satz 2 und 3, § 64 Absatz 1 und 2 Satz 1 sowie
 die §§ 65, 66 und 90 sinngemäß.
-
 
 ### § 96 Anlegung und Führung der elektronischen Grundakte
 
@@ -2427,7 +2227,6 @@ Grundbuchblätter eingesehen werden können. Satz 1 gilt nicht für
 Dokumente, die bereits in Papierform zu den Grundakten genommen
 wurden.
 
-
 ### § 97 Übertragung von Papierdokumenten in die elektronische Form
 
 (1) Wird ein in Papierform vorliegendes Schriftstück in ein
@@ -2451,7 +2250,6 @@ qualifizierten elektronischen Signatur nach dem Signaturgesetz zu
 versehen. Ein Vermerk kann unterbleiben, soweit die in Satz 2
 genannten Tatsachen aus dem elektronischen Dokument eindeutig
 ersichtlich sind.
-
 
 ### § 98 Übertragung elektronischer Dokumente in die Papierform oder in andere Dateiformate
 
@@ -2479,7 +2277,6 @@ Durchführung des Beschwerdeverfahrens notwendig ist. Die Ausdrucke
 sind mindestens bis zum rechtskräftigen Abschluss des
 Beschwerdeverfahrens aufzubewahren.
 
-
 ### § 99 Aktenausdruck, Akteneinsicht und Datenabruf
 
 (1) Für die Erteilung von Ausdrucken aus der elektronischen Grundakte
@@ -2494,14 +2291,12 @@ entsprechend.
 automatisierten Verfahren nach § 139 Absatz 3 der Grundbuchordnung
 gelten die §§ 80 bis 84 entsprechend.
 
-
 ### § 100 Wiederherstellung des Grundakteninhalts
 
 Kann der Inhalt der elektronischen Grundakte ganz oder teilweise auf
 Dauer nicht mehr in lesbarer Form wiedergegeben werden, so ist er
 wiederherzustellen. Für die Wiederherstellung gilt § 92 Absatz 1 Satz
 2 und 3 entsprechend.
-
 
 ### § 101 Ausführungsvorschriften
 
@@ -2511,10 +2306,7 @@ Verfahren nach diesem Abschnitt durch Rechtsverordnung zu regeln. Sie
 können diese Ermächtigung durch Rechtsverordnung auf die
 Landesjustizverwaltungen übertragen.
 
-
 ## Abschnitt XVI - Übergangs- und Schlußvorschriften
-
-
 
 ### § 102
 
@@ -2524,14 +2316,12 @@ dieser Bezirke bei dieser Einrichtung sein Bewenden; jedoch bedarf es
 zur Änderung dieser Bezirke einer Anordnung der
 Landesjustizverwaltung.
 
-
 ### § 103
 
 Soweit bisher jedes Grundbuchblatt in einem besonderen Grundbuchheft
 geführt worden ist, bedarf es der Zusammenfassung zu festen, mehrere
 Blätter umfassenden Bänden (§ 2) nicht, solange die bisherigen Blätter
 fortgeführt werden (§§ 104 bis 106).
-
 
 ### § 104
 
@@ -2546,7 +2336,6 @@ Landesjustizverwaltung unter Verwendung des neuen Vordrucks
 umzuschreiben, sofern nicht ihre Weiterführung besonders zugelassen
 wird.
 
-
 ### § 105
 
 Die bestehenden Vorschriften über die Nummernbezeichnung und die
@@ -2556,14 +2345,12 @@ besonders zugelassen ist. Jedoch ist ein Grundbuchblatt, das für
 Neueintragungen keinen Raum mehr bietet, in jedem Fall unter
 Verwendung des neuen Vordrucks umzuschreiben.
 
-
 ### § 106
 
 Bei der Umschreibung der bereits angelegten Grundbuchblätter auf den
 neuen Vordruck sind die §§ 29, 30 sinngemäß anzuwenden. Weitere
 Anordnungen zur Behebung von hierbei etwa entstehenden Zweifeln
 bleiben vorbehalten.
-
 
 ### § 107
 
@@ -2578,7 +2365,6 @@ betreffenden Schriftstücken, die nach den für die Führung von
 Grundakten geltenden allgemeinen Vorschriften zu diesen gehören, auch
 sofern sie schon vor der Anlegung der Grundakten bei dem Grundbuchamt
 eingegangen sind. Das gleiche gilt für das Handblatt (§ 24 Absatz 4).
-
 
 ### § 108
 
@@ -2622,7 +2408,6 @@ Zusatzes der Buchstabe B hinzuzufügen.
 (7) Die Umstellung braucht dem Eigentümer, den eingetragenen dinglich
 Berechtigten und der Katasterbehörde nicht mitgeteilt zu werden.
 
-
 ### § 109
 
 Die noch vorhandenen Vordrucke für Hypotheken-, Grundschuld- und
@@ -2633,13 +2418,11 @@ befindliche Angabe des Landes, in dem der Brief ausgegeben wird, zu
 durchstreichen und durch die Überschrift "Deutscher Hypothekenbrief"
 ("Grundschuldbrief" o. ä.) zu ersetzen.
 
-
 ### § 110
 
 In den Fällen des § 143 der Grundbuchordnung behält es bei den
 landesrechtlichen Vorschriften über Einrichtung und Führung von
 Grundbüchern sein Bewenden.
-
 
 ### § 111
 
@@ -2650,7 +2433,6 @@ erklärt worden sind (§ 144 Abs. 3 der Grundbuchordnung), sind die
 Vorschriften über das Erbbaugrundbuch (Abschnitt XII) entsprechend
 anzuwenden.
 
-
 ### § 112
 
 Zum Nachweis der Rechtsinhaberschaft ausländischer staatlicher oder
@@ -2658,7 +2440,6 @@ Zum Nachweis der Rechtsinhaberschaft ausländischer staatlicher oder
 Dienstsiegel oder Dienststempel versehene und unterschriebene
 Bestätigung des Auswärtigen Amtes. § 39 der Grundbuchordnung findet in
 diesem Fall keine Anwendung.
-
 
 ### § 113
 
@@ -2804,7 +2585,6 @@ Auf die in Absatz 1 Nr. 6 Satz 2 und 3 bestimmten Zuständigkeiten
 kommt es hierfür nicht an. Absatz 1 Nummer 6 tritt mit Ablauf des 31.
 Dezember 2020 außer Kraft.
 
-
 ### § 114
 
 Die §§ 10 und 11 in der seit dem 24. Februar 1999 geltenden Fassung
@@ -2814,12 +2594,10 @@ sind. § 83 in der seit dem 24. Februar 1999 geltenden Fassung ist auch
 auf Kopien und Ausdrucke von Protokollen anzuwenden, die vor diesem
 Zeitpunkt hergestellt worden sind.
 
-
 ### Anlage 1 (zu § 22) (Grundbuchblatt)
 
 (Inhalt: nicht darstellbares Muster eines Grundbuchblatts,
 Fundstelle: Anlageband zum BGBl. I 1995 Nr. 6, S. 5 - 15)
-
 
 ### Anlage 2a (zu § 31) (Unübersichtliches Grundbuchblatt)
 
@@ -2828,24 +2606,20 @@ Grundbuchblatts,
 Fundstelle: Anlageband zum BGBl. I 1995 Nr. 6, S. 16 - 26; bzgl. der
 einzelnen Änderungen vgl. Fußnote)
 
-
 ### Anlage 2b (zu § 31) (Neues Grundbuchblatt)
 
 (Inhalt: nicht darstellbares Muster eines neuen Grundbuchblatts,
 Fundstelle: Anlageband zum BGBl. I 1995 Nr. 6, S. 28 - 36)
-
 
 ### Anlage 3 (zu § 52 Abs. 1) (Hypothekenbrief)
 
 (Inhalt: nicht darstellbares Muster eines Hypothekenbriefes,
 Fundstelle: Anlageband zum BGBl. I 1995 Nr. 6, S. 37)
 
-
 ### Anlage 4 (zu § 52 Abs. 1) (Teilhypothekenbrief)
 
 (Inhalt: nicht darstellbares Muster eines Teilhypothekenbriefes,
 Fundstelle: Anlageband zum BGBl. I 1995 Nr. 6, S. 38)
-
 
 ### Anlage 5 (zu § 52 Abs. 1) (Hypothekenbrief über eine Gesamthypothek)
 
@@ -2853,37 +2627,31 @@ Fundstelle: Anlageband zum BGBl. I 1995 Nr. 6, S. 38)
 Gesamthypothek,
 Fundstelle: Anlageband zum BGBl. I 1995, Nr. 6, S. 39)
 
-
 ### Anlage 6 (zu § 52 Abs. 1) (Gemeinschaftlicher Hypothekenbrief)
 
 (Inhalt: nicht darstellbares Muster eines Hypothekenbriefes,
 Fundstelle: Anlageband zum BGBl. I 1995, Nr. 6, S. 40)
-
 
 ### Anlage 7 (zu § 52 Abs. 1) (Grundschuldbrief)
 
 (Inhalt: nicht darstellbares Muster eines Grundschuldbriefes,
 Fundstelle: Anlageband zum BGBl. I 1995, Nr. 6, S. 41)
 
-
 ### Anlage 8 (zu § 52 Abs. 1) (Rentenschuldbrief)
 
 (Inhalt: nicht darstellbares Muster eines Rentenschuldbriefes,
 Fundstelle: Anlageband zum BGBl. I 1995, Nr. 6, S. 42)
-
 
 ### Anlage 9 (zu § 58) (Erbbaugrundbuch)
 
 (Inhalt: nicht darstellbares Muster eines Erbbaugrundbuchs,
 Fundstelle: Anlageband zum BGBl. I 1995, Nr. 6, S. 44)
 
-
 ### Anlage 10a (zu § 69 Abs. 4) (In Papierform geführtes Grundbuch)
 
 (Inhalt: nicht darstellbares Muster eines in Papierform geführtes
 Grundbuchblatts
 Fundstelle: Anlageband zum BGBl. I 1995, Nr. 6, S. 54 - 62)
-
 
 ### Anlage 10b (zu § 69 Abs. 4) (Maschinell geführtes Grundbuchblatt)
 

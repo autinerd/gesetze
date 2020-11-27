@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   GBl DDR I: 1980, 301
 
-
-
 ## Eingangsformel
 
 Zur Gewährleistung der öffentlichen Sicherheit an Halden und
@@ -24,10 +22,7 @@ Restlöchern wird im Einvernehmen mit den Leitern der zuständigen
 zentralen staatlichen Organe und den Vorsitzenden der Räte der Bezirke
 folgendes angeordnet:
 
-
 ## - - Geltungsbereich
-
-
 
 ### § 1
 
@@ -99,7 +94,6 @@ und Nutzung von mineralischen Begleitrohstoffen - (GBl. I Nr. 25 S.
 Betrieb und Instandhaltung sowie Außerbetriebsetzung industrieller
 Absetzanlagen (GBl. II Nr. 47 S. 297).
 
-
 ### § 2
 
 Betriebe und Organe im Sinne dieser Anordnung sind:
@@ -124,18 +118,11 @@ c)  gemäß § 25 Abs. 3 dieser Anordnung Verpflichtete für Halden und
     geplant, betrieben oder stillgelegt bzw. geplant oder hergestellt
     wurden (nachfolgend Althalden und -restlöcher genannt).
 
-
-
-
-
 ### § 3 Begriffsbestimmungen
 
 Es gelten die Begriffsbestimmungen gemäß Anlage 1.
 
-
 ## - - Grundforderungen
-
-
 
 ### § 4
 
@@ -190,7 +177,6 @@ des Strahlenschutzes bei Halden und industriellen Absetzanlagen und
 bei der Verwendung darin abgelagerter Materialien (GBl. I Nr. 34 S.
 347).
 
-
 ### § 5
 
 (1) Für die territoriale Eingliederung, die Wiedernutzbarmachung der
@@ -216,13 +202,7 @@ Maßnahmen zur Gewährleistung der öffentlichen Sicherheit.
     genutzter Bodenflächen - Rekultivierungsanordnung - (GBl. II Nr. 30 S.
     245).
 
-
-
-
-
 ## - - Anzeige
-
-
 
 ### § 6
 
@@ -235,7 +215,6 @@ Planungskataster anzuzeigen.
 zu enthalten, wie sie für die technische Dokumentation gefordert
 werden. Bei übersichtlichen Verhältnissen kann der Standort (Buchst.
 c) in einer Lageskizze dargestellt werden.
-
 
 ### § 7
 
@@ -311,7 +290,6 @@ Schadlose Beseitigung toxischer Abprodukte und anderer Schadstoffe -
 \*2) Z.Z. gilt die Erste Durchführungsbestimmung vom 26. November 1969
 zur Strahlenschutzverordnung (GBl. II Nr. 99 S. 635).
 
-
 ### § 8 Haldenauflageflächen
 
 (1) Vor dem Anlegen von Halden ist im Rahmen der Standortfestlegung zu
@@ -346,10 +324,7 @@ werden, sind diese vertraglich zu regeln.
 (3) Es ist von dem Grundsatz der geringstmöglichen Inanspruchnahme von
 land- und forstwirtschaftlicher Nutzfläche auszugehen.
 
-
 ## - - Gestaltung von Böschungen
-
-
 
 ### § 9
 
@@ -407,7 +382,6 @@ und die Einhaltung des § 4 Abs. 1 gewährleistet ist.
 (8) Die Querneigung und Breite von Bermen zwischen bleibenden
 Einzelböschungen sind so zu wählen, daß sie für die Wasserableitung
 und erforderlichenfalls für ein Befahren mit Fahrzeugen geeignet sind.
-
 
 ### § 10
 
@@ -472,7 +446,6 @@ Brandschutzanordnung 122/1 vom 5. Oktober 1973 - Bergbausicherheit im
 Bergbau über Tage - (Sonderdruck Nr. 768 des Gesetzblattes) i.d.F. der
 Änderungsanordnung Nr. 1 vom 28. März 1978 (GBl. I Nr. 12 S. 156).
 
-
 ### § 11
 
 Sind zur Folgenutzung aus volkswirtschaftlichen und territorialen
@@ -486,7 +459,6 @@ Entstehen des Restloches dem Betrieb oder Organ zusätzliche
 Aufwendungen verursachen, so sind diese Maßnahmen rechtzeitig zwischen
 dem Folgenutzer und dem Betrieb oder Organ vertraglich zu regeln. Der
 Folgenutzer trägt die Kosten dieser zusätzlichen Maßnahmen.
-
 
 ### § 12 Sicherheitsabstand
 
@@ -536,10 +508,6 @@ Arbeitsstätten, nicht berührt.
     Sicherheit in der Umgebung von Verkehrsanlagen (GBl. I 1979 Nr. 2 S.
     9).
 
-
-
-
-
 ### § 13 Wasserableitung, Erosionsschutz
 
 (1) Schädigende Wasseransammlungen auf Halden und Bermen, z.B. von der
@@ -559,7 +527,6 @@ durchzuführen.
 und Rohrleitungen, zu treffen, um einen Anstau von Oberflächenwasser
 vor der Haldenunterkante oder dessen Eindringen in die Halde zu
 vermeiden.
-
 
 ### § 14 Absperrungen und Verbotsschilder
 
@@ -633,10 +600,7 @@ Eigentumsstörungen bleibt davon unberührt.
 Straßenverkehr (Straßenverkehrs-Ordnung - StVO -) (GBl. I Nr. 20 S.
 257).
 
-
 ## - - Technische Dokumentation
-
-
 
 ### § 15
 
@@ -696,13 +660,6 @@ l)  zeichnerische Unterlagen gemäß § 16 für
     -   Restlöcher und stillgelegte Halden, an denen Anzeichen für Gefahren
         für die öffentliche Sicherheit und die Volkswirtschaft erkannt werden.
 
-
-
-
-
-
-
-
 ### § 16
 
 (1) Die zeichnerischen Unterlagen, wie Lagepläne, Risse, sind wie
@@ -759,10 +716,7 @@ b)  in geringerer Entfernung von der Haldenunterkante bzw.
 
 befinden.
 
-
 ## - - Kontroll- und Sicherungsmaßnahmen
-
-
 
 ### § 17
 
@@ -770,7 +724,6 @@ Für betriebene Nichtbergbauhalden hat der Betriebsleiter bzw. der
 Leiter des Organs eine Regelung festzulegen und zu aktualisieren, die
 insbesondere Maßnahmen über das sichere Betreiben und die Kontrolle zu
 enthalten hat.
-
 
 ### § 18
 
@@ -815,14 +768,12 @@ Maßnahmen ist durch die vom Betriebsleiter bzw. vom Leiter des Organs
 einzusetzenden Kontroll- bzw. Durchführungsbeauftragten unter Angabe
 des Datums und ihrer Namen Nachweis zu führen.
 
-
 ### § 19
 
 Bei Anzeichen von Rutschungen in der Nähe von zu schützenden Objekten
 sind die Böschungen bzw. Böschungssysteme einschließlich der
 gefährdeten Bereiche oberhalb und unterhalb von Böschungen durch
 spezielle Überwachungsmaßnahmen zu kontrollieren.
-
 
 ### § 20
 
@@ -841,10 +792,7 @@ bei Halden und Restlöchern gemäß § 7 Abs. 1 durch die Bergbehörde auf
 Grund eines Antrages des Betriebsleiters bzw. des Leiters des Organs
 verlängert werden.
 
-
 ## - - Maßnahmen bei Gefahr
-
-
 
 ### § 21
 
@@ -863,7 +811,6 @@ Zivilverteidigung und je nach Art der Gefahr mit der Bergbehörde, der
 staatlichen Hygieneinspektion, den Organen der staatlichen
 Gewässeraufsicht und dem Staatlichen Amt für Atomsicherheit und
 Strahlenschutz abzustimmen.
-
 
 ### § 22
 
@@ -904,7 +851,6 @@ Volkswirtschaft, die von Halden und Restlöchern ausgehen, wie Brände,
 Gasentwicklungen, Verseuchungen, hat das örtliche Staatsorgan gemäß
 Abs. 2 das zuständige Organ gemäß § 21 Abs. 2 zu unterrichten.
 
-
 ### § 23
 
 (1) Für Althalden und -restlöcher, von denen eine Gefahr für die
@@ -929,7 +875,6 @@ festgelegten Termin einen entsprechenden Planvorschlag
 Bezirkes in Abstimmung mit den Räten der Kreise Betriebe, Organe oder
 Einrichtungen mit der Durchführung der Sicherungsmaßnahmen.
 
-
 ### § 24 Wechsel des Rechtsträgers, Nutzers oder Eigentümers
 
 (1) Halden und Restlöcher sind bei Wechsel des Rechtsträgers, Nutzers
@@ -953,7 +898,6 @@ b)  beim Wechsel des Rechtsträgers, Nutzers oder Eigentümers die
 wenn der Übernehmende für die Kontrolle, Unterhaltung und Sicherung
 die Verantwortung trägt.
 
-
 ### § 25 Verantwortung
 
 (1) Nutzen mehrere Betriebe und Organe gleichzeitig Halden oder
@@ -973,7 +917,6 @@ treffen.
 Übereinstimmung mit der Bergbehörde Verträge mit Betrieben und Organen
 zur Übertragung und Übernahme der Verantwortung ab.
 
-
 ### § 26 Ersatzpflicht
 
 Die Ersatzpflicht für Schäden, die durch Halden oder Restlöcher
@@ -985,7 +928,6 @@ Zivilgesetzbuches der Deutschen Demokratischen Republik vom 19. Juni
 1975 (GBl. I Nr. 27 S. 465) zur Abwendung unmittelbar drohender
 Schäden und Gefahren die erforderlichen Maßnahmen zu treffen, bleibt
 unberührt.
-
 
 ### § 27 Staatliche Kontrolle
 
@@ -1027,7 +969,6 @@ weiterer 3 Wochen endgültig.
 (4) Die Beschwerde hat aufschiebende Wirkung, wenn in der
 angefochtenen Entscheidung die aufschiebende Wirkung nicht
 ausdrücklich wegen einer bestehenden Gefährdung ausgeschlossen wurde.
-
 
 ### § 28 Ordnungsstrafbestimmungen
 
@@ -1114,10 +1055,7 @@ eine Verwarnung mit Ordnungsgeld von 1 bis 20 M ausgesprochen werden.
 von Ordnungsstrafmaßnahmen gilt das Gesetz vom 12. Januar 1968 zur
 Bekämpfung von Ordnungswidrigkeiten - OWG - (GBl. I Nr. 3 S. 101).
 
-
 ## - - Schlußbestimmungen
-
-
 
 ### § 29
 
@@ -1146,7 +1084,6 @@ Restlöchern (GBl. II Nr. 38 S. 225) erteilt wurden, bleiben, wenn sie
 den Bestimmungen dieser Anordnung widersprechen, bis auf Widerruf,
 längstens aber bis zum Ablauf der Frist, für die sie erteilt worden
 sind, in Kraft.
-
 
 ### § 30
 
@@ -1178,7 +1115,6 @@ Arbeiten oder Maßnahmen an Halden und Restlöchern fertigzustellen.
 (5) Die Weiterleitung der Anzeigen gemäß § 6 zwecks Dokumentation im
 bezirklichen Planungskataster regelt der Rat des Bezirkes.
 
-
 ### § 31
 
 (1) Diese Anordnung tritt am 1. Februar 1981 in Kraft.
@@ -1195,15 +1131,10 @@ b)  § 21 der Anordnung vom 24. April 1974 über die Rechte, Pflichten und
     die Anerkennung von Sachverständigen der Obersten Bergbehörde -
     Sachverständigenanordnung - (GBl. I Nr. 23 S. 245).
 
-
-
-
-
 ### Schlußformel
 
 **Der Leiter der Obersten Bergbehörde beim Ministerrat der Deutschen
 Demokratischen Republik**
-
 
 ### Anlage 1 zu § 3 vorstehender Anordnung Begriffsbestimmungen
 
@@ -1439,10 +1370,6 @@ Im Sinne dieser Anordnung gelten folgende Begriffsbestimmungen:
     Straßen, Bahnlinien, Vorfluter und andere Gewässer, Wohn- und
     öffentliche Gebäude, Fabrikanlagen, Werkstätten, Versorgungsleitungen.
 
-
-
-
-
 ### Anlage 2 zu § 12 Abs. 3 vorstehender Anordnung Richtwerte für den Sicherheitsabstand (S)
 
 
@@ -1503,10 +1430,6 @@ c)  Von der Oberkante von Restlöchern im gewachsenen Lockergestein beträgt
 d)  Von der Oberkante von Restlöchern im Festgestein beträgt der
     Sicherheitsabstand 1/3 der örtlichen Restlochtiefe, mindestens jedoch
     3 m.
-
-
-
-
 
 ### Anlage 3 zu § 16 Abs. 1 Buchst. c vorstehender Anordnung Grundsätze für zeichnerische Unterlagen
 
@@ -1627,10 +1550,6 @@ d)  Von der Oberkante von Restlöchern im Festgestein beträgt der
 8.  Auf jedem Blatt der zeichnerischen Unterlagen ist die Nordrichtung
     einzutragen.
 
-
-
-
-
 ### Anlage 4 zu § 14 Abs. 3 vorstehender Anordnung Verbotsschild des Betretens der Gefahrenbereiche an oder auf Halden sowie an oder in Restlöchern
 
 -------------------------------------------
@@ -1650,7 +1569,6 @@ Farbe zu gestalten. \*)
 -------
 \*) Das Verbotsschild wird von DEWAG Signograph Leipzig gefertigt und
 ist in den DEWAG-Industrieläden erhältlich.
-
 
 ### Anhang EV Auszug aus EinigVtr Anlage II Kapitel V Sachgebiet D Abschnitt III (BGBl. II 1990, 885, 1202)
 

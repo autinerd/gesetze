@@ -18,7 +18,6 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 6.1.2006 I 49
 
-
 ## § 1 Bau und Finanzierung durch Private
 
 (1) Zur Verstärkung von Investitionen in das Bundesfernstraßennetz
@@ -38,7 +37,6 @@ dieses Gesetz nichts anderes bestimmt.
 
 (5) Mautgebühren im Sinne dieses Gesetzes sind öffentlich-rechtliche
 Gebühren (Gebühren) oder privatrechtliche Entgelte (Entgelte).
-
 
 ## § 2 Mautgebührenerhebung durch Private
 
@@ -104,7 +102,6 @@ genehmigten Verkehrszeichenplans zu betreiben.
 (7) Der Private ist verpflichtet, die jeweils geltenden Mautgebühren
 für den Verkehrsteilnehmer deutlich sichtbar und gut lesbar
 auszuhängen.
-
 
 ## § 3 Mautgebühren
 
@@ -187,7 +184,6 @@ und für die Kosten des Betriebs der Mautgebührenerhebungseinrichtungen
 können Festpreisvereinbarungen getroffen werden, die dann entsprechend
 zu behandeln sind.
 
-
 ## § 4 Mautbemessungs- und -kalkulationsverordnung
 
 Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
@@ -196,7 +192,6 @@ dem Bundesministerium für Wirtschaft und Technologie durch
 Rechtsverordnung mit Zustimmung des Bundesrates nähere Bestimmungen
 über die Bemessung der Mautgebühren und die Kalkulation des
 Mautgebührensatzes nach § 3 Abs. 2 bis 5 zu erlassen.
-
 
 ## § 5 Mautgebührenverordnung
 
@@ -233,7 +228,6 @@ der Mautgebühr zu Grunde liegenden Tatsachen wesentlich geändert
 haben. Im Falle einer Rechtsverordnung nach Absatz 1 Satz 2 ist der
 Antrag an die oberste Landesstraßenbaubehörde zu richten.
 
-
 ## § 6 Mautgebührengenehmigung
 
 (1) Erklärt der Private im Falle des § 2 Abs. 2 oder beantragt der
@@ -269,7 +263,6 @@ verwaltungsverfahrensrechtlichen Vorschriften über Rücknahme und
 Widerruf auch widerrufen werden, wenn der Private den Widerruf
 beantragt.
 
-
 ## § 7 Befreiungen
 
 Von der Mautgebühr sind Fahrzeuge der Streitkräfte, des Zivil- und
@@ -281,7 +274,6 @@ als für die genannten Zwecke bestimmt erkennbar sind oder als solche
 zweifelsfrei ausgewiesen werden können. Im Falle von
 Fahrzeugkombinationen ist das Motorfahrzeug für die
 Mautgebührenbefreiung maßgebend.
-
 
 ## § 8 Schuldner der Mautgebühr
 
@@ -298,7 +290,6 @@ Schuldner der Mautgebühr (Schuldner) ist, wer
 
 
 Mehrere Schuldner haften als Gesamtschuldner.
-
 
 ## § 9 Entrichtung der Mautgebühr
 
@@ -391,7 +382,6 @@ Bundesrates ergänzende Bestimmungen über Art und Umfang der Erhebung,
 Verarbeitung und Nutzung der Daten nach Absatz 3 für die vom Privaten
 jeweils eingesetzten Verfahren.
 
-
 ## § 10 Nachweis und Kontrolle der Mautgebührenentrichtung
 
 (1) Auf Verlangen des Privaten hat der Schuldner die ordnungsgemäße
@@ -404,7 +394,6 @@ Kontrolle befugten Personen zur Prüfung auszuhändigen.
 entrichtet, darf der Private die Kontrolldaten zum Zweck der
 Vollstreckung der Mautgebühr, der Einziehung der Mautgebühr oder zur
 Erstellung des Gebührenbescheids erheben und verarbeiten.
-
 
 ## § 11 Datenlöschungen, Geschäftsstatistiken
 
@@ -447,7 +436,6 @@ löschen.
 anonymisierter Form zur Erstellung von Geschäftsstatistiken speichern,
 verändern und nutzen.
 
-
 ## § 12 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
@@ -470,7 +458,6 @@ verändern und nutzen.
 (2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nr. 1 mit
 einer Geldbuße bis zu tausend Euro, in den übrigen Fällen mit einer
 Geldbuße bis zu zweihunderttausend Euro geahndet werden.
-
 
 ## § 13 Übergangsregelung
 
@@ -501,7 +488,6 @@ eine auf Grund des § 3a Abs. 2 in Verbindung mit § 3 Abs. 2 bis 5 in
 der jeweils bis zum 7. September 2005 geltenden Fassung erlassene
 Rechtsverordnung, die nach Absatz 2 Satz 1 nicht mehr anzuwenden ist,
 aufzuheben.
-
 
 ## § 14
 

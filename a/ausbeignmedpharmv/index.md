@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 311
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 30 Abs. 4 Nr. 3 des Berufsbildungsgesetzes vom 23.
@@ -26,7 +24,6 @@ März 2005 (BGBl. I S. 931) verordnet das Bundesministerium für
 Gesundheit nach Anhörung des Hauptausschusses des Bundesinstituts für
 Berufsbildung im Einvernehmen mit dem Bundesministerium für Bildung
 und Forschung:
-
 
 ## § 1
 
@@ -48,10 +45,6 @@ Kenntnisse und Fähigkeiten besitzt für den Ausbildungsberuf
 4.  Pharmazeutisch-kaufmännischer Angestellter/Pharmazeutisch-
     kaufmännische Angestellte, wer als Apotheker oder als Apothekerin
     approbiert ist.
-
-
-
-
 
 ## § 2
 

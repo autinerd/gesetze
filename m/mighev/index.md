@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 1372
 
-
 ## Eingangsformel
 
 Auf Grund des § 281 Absatz 2 Satz 4 des Dritten Buches
@@ -27,14 +26,12 @@ der durch Artikel 1 Nummer 47 Buchstabe d des Gesetzes vom 20. Juli
 2006 (BGBl. I S. 1706) eingefügt worden ist, verordnet das
 Bundesministerium für Arbeit und Soziales:
 
-
 ## § 1 Zweck und Anwendungsbereich
 
 Diese Verordnung regelt Art und Umfang der zur Bestimmung des
 Migrationshintergrundes für Zwecke der Statistik der Bundesagentur für
 Arbeit zu erhebenden Merkmale und die Durchführung des Verfahrens,
 insbesondere die Erhebung und Verarbeitung der erforderlichen Daten.
-
 
 ## § 2 Erhebungspersonen
 
@@ -44,7 +41,6 @@ Arbeitslosigkeit bedrohten Arbeitnehmerinnen und Arbeitnehmer sowie
 für alle erwerbsfähigen Hilfebedürftigen und Personen, die mit ihnen
 in einer Bedarfsgemeinschaft leben, zu erheben.
 
-
 ## § 3 Erhebende Stellen
 
 Die für die Erhebung der Daten zu Merkmalen des
@@ -53,7 +49,6 @@ Agenturen für Arbeit als Leistungsträger nach dem Dritten Buch
 Sozialgesetzbuch und die zuständigen Träger der Grundsicherung für
 Arbeitsuchende als Leistungsträger nach dem Zweiten Buch
 Sozialgesetzbuch (erhebende Stellen).
-
 
 ## § 4 Daten zu Merkmalen des Migrationshintergrundes
 
@@ -94,7 +89,6 @@ wurden, ist dies durch die erhebenden Stellen in den zentralen
 Verfahren der Informationstechnik zur Vermeidung einer doppelten
 Erhebung zu kennzeichnen.
 
-
 ## § 5 Anforderungen an die Datenübermittlung
 
 (1) Die Daten zu Merkmalen des Migrationshintergrundes sind von den
@@ -108,7 +102,6 @@ die Daten zu Merkmalen des Migrationshintergrundes bei den erhebenden
 Stellen zu löschen. Die Bundesagentur für Arbeit darf die Daten zu den
 Merkmalen des Migrationshintergrundes ausschließlich für statistische
 Zwecke und in ihren abgeschotteten statistischen Einheiten verwenden.
-
 
 ## § 6 Bestimmung des Migrationshintergrundes
 
@@ -140,7 +133,6 @@ berücksichtigt, sofern sie als Aussiedler oder Spätaussiedler, dessen
 Ehegatte oder dessen Abkömmling die deutsche Staatsangehörigkeit
 erworben haben und eine Zuwanderung in das heutige Gebiet der
 Bundesrepublik Deutschland nach 1949 erfolgte.
-
 
 ## § 7 Inkrafttreten
 

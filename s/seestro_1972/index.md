@@ -20,10 +20,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 Nr. 2 V v. 18.3.2009 I 647
 
-
 ## Teil A - Allgemeines
-
-
 
 ### Regel 1 Anwendung
 
@@ -56,7 +53,6 @@ die Anordnung und Eigenschaften von Schallsignalanlagen befolgen, die
 nach Auffassung der betreffenden Regierung diesen Regeln am nächsten
 kommen.
 
-
 ### Regel 2 Verantwortlichkeit
 
 a) Diese Regeln befreien ein Fahrzeug, dessen Eigentümer, Kapitän oder
@@ -69,7 +65,6 @@ Gefahren der Schiffahrt und des Zusammenstoßes sowie alle besonderen
 Umstände einschließlich Behinderungen der betroffenen Fahrzeuge
 gebührend zu berücksichtigen, die zum Abwenden unmittelbarer Gefahr
 ein Abweichen von diesen Regeln erfordern.
-
 
 ### Regel 3 Allgemeine Begriffsbestimmungen
 
@@ -173,22 +168,13 @@ m)  Der Ausdruck "Bodeneffektfahrzeug (BEF)" bezeichnet ein in
     Hauptbetriebsweise unter Ausnutzung des Bodeneffektes  in nächster
     Nähe zur Oberfläche fliegt.
 
-
-
-
-
 ## Teil B - Ausweich- und Fahrregeln
 
-
-
 ### Abschnitt I - Verhalten von Fahrzeugen bei allen Sichtverhältnissen
-
-
 
 #### Regel 4 Anwendung
 
 Die Regeln dieses Abschnitts gelten bei allen Sichtverhältnissen.
-
 
 #### Regel 5 Ausguck
 
@@ -197,7 +183,6 @@ andere verfügbare Mittel, das den gegebenen Umständen und Bedingungen
 entspricht, gehörigen Ausguck halten, der einen vollständigen
 Überblick über die Lage und die Möglichkeit der Gefahr eines
 Zusammenstoßes gibt.
-
 
 #### Regel 6 Sichere Geschwindigkeit
 
@@ -269,16 +254,6 @@ b)  Zusätzlich von Fahrzeugen mit betriebsfähigem Radar:
             durch Entfernungsmessung in der Nähe von Fahrzeugen oder anderen
             Gegenständen ermöglicht.
 
-
-
-
-
-
-
-
-
-
-
 #### Regel 7 Möglichkeit der Gefahr eines Zusammenstoßes
 
 a) Jedes Fahrzeug muß mit allen verfügbaren Mitteln entsprechend den
@@ -304,10 +279,6 @@ i)  Eine solche Möglichkeit ist anzunehmen, wenn die Kompaßpeilung eines
 ii) eine solche Möglichkeit kann manchmal auch bestehen, wenn die Peilung
     sich merklich ändert, insbesondere bei der Annäherung an ein sehr
     großes Fahrzeug, an einen Schleppzug oder an ein Fahrzeug nahebei.
-
-
-
-
 
 #### Regel 8 Manöver zur Vermeidung von Zusammenstößen
 
@@ -356,13 +327,6 @@ f)
         die beiden Fahrzeuge sich einander so nähern, daß die Möglichkeit der
         Gefahr eines Zusammenstoßes besteht.
 
-
-
-
-
-
-
-
 #### Regel 9 Enge Fahrwasser
 
 a) Ein Fahrzeug, das der Richtung eines engen Fahrwassers oder einer
@@ -408,7 +372,6 @@ muß mit besonderer Aufmerksamkeit und Vorsicht fahren und das
 entsprechende Signal nach Regel 34 Buchstabe e geben.
 g) Jedes Fahrzeug muß, wenn es die Umstände zulassen, das Ankern in
 einem engen Fahrwasser vermeiden.
-
 
 #### Regel 10 Verkehrstrennungsgebiete
 
@@ -496,16 +459,12 @@ Verkehrstrennungsgebiet Unterwasserkabel auslegt, versorgt oder
 aufnimmt, ist von der Befolgung dieser Regel befreit, soweit dies zur
 Ausführung der Arbeiten erforderlich ist.
 
-
 ### Abschnitt II - Verhalten von Fahrzeugen, die einander in Sicht haben
-
-
 
 #### Regel 11 Anwendung
 
 Die Regeln dieses Abschnitts gelten für Fahrzeuge, die einander in
 Sicht haben.
-
 
 #### Regel 12 Segelfahrzeuge
 
@@ -536,7 +495,6 @@ b) Im Sinne dieser Regel ist die Luvseite diejenige Seite, die dem
 gesetzten Großsegel gegenüber liegt, auf Rahseglern diejenige Seite,
 die dem größten gesetzten Schratsegel gegenüberliegt.
 
-
 #### Regel 13 Überholen
 
 a) Ungeachtet der Regeln des Teiles B Abschnitte I und II muß jedes
@@ -553,7 +511,6 @@ Fahrzeug weder zu einem kreuzenden im Sinne dieser Regeln noch wird es
 von der Verpflichtung entbunden, dem anderen Fahrzeug auszuweichen,
 bis es dieses klar passiert hat.
 
-
 #### Regel 14 Entgegengesetzte Kurse
 
 a) Wenn zwei Maschinenfahrzeuge auf entgegengesetzten oder fast
@@ -568,7 +525,6 @@ ausmacht.
 c) Kann ein Fahrzeug nicht sicher erkennen, ob eine solche Lage
 besteht, so muß es von dieser ausgehen und entsprechend handeln.
 
-
 #### Regel 15 Kreuzende Kurse
 
 Wenn die Kurse zweier Maschinenfahrzeuge einander so kreuzen, daß die
@@ -577,12 +533,10 @@ ausweichen, welches das andere an seiner Steuerbordseite hat; wenn die
 Umstände es zulassen, muß es vermeiden, den Bug des anderen Fahrzeugs
 zu kreuzen.
 
-
 #### Regel 16 Maßnahmen des Ausweichpflichtigen
 
 Jedes ausweichpflichtige Fahrzeug muß möglichst frühzeitig und
 durchgreifend handeln, um sich gut klar zu halten.
-
 
 #### Regel 17 Maßnahmen des Kurshalters
 
@@ -612,7 +566,6 @@ es zulassen, gegenüber einem Fahrzeug an seiner Backbordseite nicht
 nach Backbord ändern.
 d) Diese Regel befreit das ausweichpflichtige Fahrzeug nicht von
 seiner Ausweichpflicht.
-
 
 #### Regel 18 Verantwortlichkeiten der Fahrzeuge untereinander
 
@@ -710,13 +663,7 @@ f)
     ein Bodeneffektfahrzeug, das auf der Wasseroberfläche betrieben wird,
     muss die Regeln dieses Teiles für Maschinenfahrzeuge erfüllen.
 
-
-
-
-
 ### Abschnitt III - Verhalten von Fahrzeugen bei verminderter Sicht
-
-
 
 #### Regel 19 Verhalten von Fahrzeugen bei verminderter Sicht
 
@@ -754,10 +701,7 @@ Steuerfähigkeit geringstmögliche Maß verringern. Erforderlichenfalls
 muß es jegliche Fahrt wegnehmen und in jedem Fall mit äußerster
 Vorsicht manövrieren, bis die Gefahr eines Zusammenstoßes vorüber ist.
 
-
 ## Teil C - Lichter und Signalkörper
-
-
 
 ### Regel 20 Anwendung
 
@@ -776,7 +720,6 @@ erforderlich gehalten wird.
 d) Die Regeln über Signalkörper müssen am Tage befolgt werden.
 e) Die in diesen Regeln genannten Lichter und Signalkörper müssen den
 Bestimmungen der Anlage I entsprechen.
-
 
 ### Regel 21 Begriffsbestimmungen
 
@@ -801,7 +744,6 @@ e) "Rundumlicht" bedeutet ein Licht, das unbehindert über einen
 Horizontbogen von 360 Grad scheint.
 f) "Funkellicht" bedeutet ein Licht mit 120 oder mehr regelmäßigen
 Lichterscheinungen in der Minute.
-
 
 ### Regel 22 Tragweite der Lichter
 
@@ -875,13 +817,6 @@ d)  Auf schwer erkennbaren, teilweise getauchten Fahrzeugen oder
 
     -   weißes Rundumlicht, 3 Seemeilen.
 
-
-
-
-
-
-
-
 ### Regel 23 Maschinenfahrzeuge in Fahrt
 
 a) Ein Maschinenfahrzeug in Fahrt muß führen
@@ -933,16 +868,6 @@ d)
             Zweifarbenlaterne über der Längsachse des Fahrzeugs geführt oder so
             nahe wie möglich in derselben Längsachse wie das Topplicht oder das
             weiße Rundumlicht angebracht werden.
-
-
-
-
-
-
-
-
-
-
 
 ### Regel 24 Schleppen und Schieben
 
@@ -1080,7 +1005,6 @@ Art der Verbindung zwischen dem schleppenden Fahrzeug und dem
 geschleppten Fahrzeug erkennbar zu machen, insbesondere durch
 Anleuchten der Schleppleine.
 
-
 ### Regel 25 Segelfahrzeuge in Fahrt und Fahrzeuge unter Ruder
 
 a) Ein Segelfahrzeug in Fahrt muß führen
@@ -1125,7 +1049,6 @@ d)
 e) Ein Fahrzeug unter Segel, das gleichzeitig mit Maschinenkraft
 fährt, muß im Vorschiff einen Kegel - Spitze unten - dort führen, wo
 er am besten gesehen werden kann.
-
 
 ### Regel 26 Fischereifahrzeuge
 
@@ -1178,7 +1101,6 @@ fischender Fahrzeuge befindet.
 e) Ein nicht fischendes Fahrzeug darf die in dieser Regel
 vorgeschriebenen Lichter oder Signalkörper nicht führen, sondern nur
 die für ein Fahrzeug seiner Länge vorgeschriebenen.
-
 
 ### Regel 27 Manövrierunfähige oder manövrierbehinderte Fahrzeuge
 
@@ -1292,14 +1214,12 @@ h) Die in dieser Regel vorgeschriebenen Signale sind keine Notsignale,
 durch die Hilfeleistung verlangt wird. Solche Signale sind in Anlage
 IV aufgeführt.
 
-
 ### Regel 28 Tiefgangbehinderte Fahrzeuge
 
 Ein tiefgangbehindertes Fahrzeug darf zusätzlich zu den in Regel 23
 für Maschinenfahrzeuge vorgeschriebenen Lichtern drei rote
 Rundumlichter senkrecht übereinander oder einen Zylinder dort führen,
 wo sie am besten gesehen werden können.
-
 
 ### Regel 29 Lotsenfahrzeuge
 
@@ -1325,7 +1245,6 @@ a) Ein Fahrzeug im Lotsdienst muß führen
 b) Ein Lotsenfahrzeug, das nicht im Lotsdienst ist, muß die für ein
 Fahrzeug seiner Länge vorgeschriebenen Lichter oder Signalkörper
 führen.
-
 
 ### Regel 30 Fahrzeuge vor Anker und auf Grund
 
@@ -1367,7 +1286,6 @@ f) Ein Fahrzeug von weniger als 12 Meter Länge auf Grund braucht nicht
 die unter Buchstabe d Ziffern i und ii vorgeschriebenen Lichter oder
 Signalkörper zu führen.
 
-
 ### Regel 31 Wasserflugzeuge
 
 Regel 31 Wasserflugzeuge
@@ -1377,10 +1295,7 @@ Regeln dieses Teils entsprechen, so muss es Lichter und Signalkörper
 führen, deren Eigenschaften und Anordnung diesen so weit wie möglich
 vergleichbar sind.
 
-
 ## Teil D - Schall- und Lichtsignale
-
-
 
 ### Regel 32 Begriffsbestimmungen
 
@@ -1391,7 +1306,6 @@ b) Der Ausdruck "kurzer Ton" bezeichnet einen Ton von etwa einer
 Sekunde Dauer.
 c) Der Ausdruck "langer Ton" bezeichnet einen Ton von vier bis sechs
 Sekunden Dauer.
-
 
 ### Regel 33 Ausrüstung für Schallsignale
 
@@ -1408,7 +1322,6 @@ b) Ein Fahrzeug von weniger als 12 Meter Länge braucht keine
 Schallsignalanlagen nach Buchstabe a mitzuführen, muß dann aber mit
 einem anderen Gerät zur Abgabe eines kräftigen Schallsignals versehen
 sein.
-
 
 ### Regel 34 Manöver- und Warnsignale
 
@@ -1509,7 +1422,6 @@ f) Sind auf einem Fahrzeug Pfeifen in einem Abstand von mehr als 100
 Meter angebracht, so darf nur eine Pfeife zur Abgabe von Manöver- oder
 Warnsignalen verwendet werden.
 
-
 ### Regel 35 Schallsignale bei verminderter Sicht
 
 Innerhalb oder in der Nähe eines Gebiets mit verminderter Sicht müssen
@@ -1582,10 +1494,6 @@ k)  Ein Lotsenfahrzeug im Lotsdienst darf zusätzlich zu den unter
     Buchstabe a, b oder g vorgeschriebenen Signalen ein Erkennungssignal
     von vier kurzen Tönen geben.
 
-
-
-
-
 ### Regel 36 Aufmerksamkeitssignale
 
 Ist es erforderlich, die Aufmerksamkeit eines anderen Fahrzeugs zu
@@ -1599,16 +1507,12 @@ kann. Für die Zwecke dieser Regel ist die Verwendung von hoher
 Lichtstärke bei unterbrochenen Lichtern oder Drehlichtern, zum
 Beispiel Lichter mit umlaufender Blendscharte, zu vermeiden.
 
-
 ### Regel 37 Notsignale
 
 Ist ein Fahrzeug in Not und fordert es Hilfe an, so muß es die in
 Anlage IV beschriebenen Signale benutzen oder zeigen.
 
-
 ## Teil E - Befreiungen
-
-
 
 ### Regel 38 Befreiungen
 
@@ -1664,10 +1568,6 @@ g)  Vorschriften über Schallsignalanlagen nach Anlage III innerhalb von
 
 h)  Dauernde Befreiung von der Versetzung der Rundumlichter nach den
     Vorschriften des Abschnitts 9 Buchstabe b der Anlage I.
-
-
-
-
 
 ### Anlage I Anordnung und technische Einzelheiten der Lichter und Signalkörper
 
@@ -2240,7 +2140,6 @@ Lichter an Bord müssen den Anforderungen der zuständigen Behörde des
 Staates entsprechen, dessen Flagge das Fahrzeug zu führen berechtigt
 ist.
 
-
 ### Anlage II Zusatzsignale für nahe beieinander fischende Fahrzeuge
 
 **1. Allgemeines**
@@ -2303,7 +2202,6 @@ senkrecht übereinander zeigen. Diese Lichter müssen abwechselnd jede
 Sekunde derart blinken, daß das obere an ist, wenn das untere aus ist
 und umgekehrt. Diese Lichter dürfen nur gezeigt werden, solange das
 Fahrzeug durch sein Fanggerät behindert ist.
-
 
 ### Anlage III Technische Einzelheiten der Schallsignalanlagen
 
@@ -2489,7 +2387,6 @@ Die Konstruktion von Schallsignalanlagen, ihre Ausführung und die
 Anbringung an Brod müssen den Anforderungen der zuständigen Behörde
 des Staates entsprechen, dessen Flagge das Fahrzeug zu führen
 berechtigt ist.
-
 
 ### Anlage IV Notzeichen
 

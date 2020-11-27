@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 6 V v. 13.12.2011 I 2720
 
-
 ## Eingangsformel
 
 Auf Grund des § 19 Abs. 1 Nr. 1 und 2 Buchstabe b des Lebensmittel-
@@ -27,7 +26,6 @@ und Bedarfsgegenständegesetzes vom 15. August 1974 (BGBl. I S. 1945,
 (BGBl. I S. 121) geändert worden ist, verordnet der Bundesminister für
 Gesundheit im Einvernehmen mit den Bundesministern für Ernährung,
 Landwirtschaft und Forsten und für Wirtschaft:
-
 
 ## § 1 Kennzeichnungspflicht
 
@@ -43,7 +41,6 @@ Lebensmittels, das unter praktisch gleichen Bedingungen erzeugt,
 hergestellt oder verpackt wurde. Das Los wird vom Erzeuger,
 Hersteller, Verpacker oder ersten im Inland niedergelassenen Verkäufer
 des betreffenden Lebensmittels festgelegt.
-
 
 ## § 2 Ausnahmen von der Kennzeichnungspflicht
 
@@ -102,10 +99,6 @@ des betreffenden Lebensmittels festgelegt.
 
 7.  Speiseeis-Einzelpackungen.
 
-
-
-
-
 ## § 3 Art der Kennzeichnung
 
 Die Angabe nach § 1 Abs. 1 muß gut sichtbar, deutlich lesbar und
@@ -121,16 +114,11 @@ unverwischbar angebracht sein
 2.  bei anderen Lebensmitteln auf dem Behältnis oder der Verpackung oder
     in einem Begleitpapier.
 
-
-
-
-
 ## § 4 Unberührtheitsklausel
 
 Rechtsvorschriften, die für bestimmte Lebensmittel eine von den
 Vorschriften dieser Verordnung abweichende oder zusätzliche
 Kennzeichnung vorschreiben, bleiben unberührt.
-
 
 ## § 5 Ordnungswidrigkeiten
 
@@ -139,7 +127,6 @@ Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich
 oder fahrlässig Lebensmittel in den Verkehr bringt, die entgegen § 1
 Abs. 1 in Verbindung mit § 3 nicht oder nicht in der vorgeschriebenen
 Weise gekennzeichnet sind.
-
 
 ## § 6 Übergangsvorschriften
 
@@ -150,11 +137,9 @@ Abs. 1 in den Verkehr gebracht werden.
 (2) Getränke in Dauerbrandflaschen dürfen noch bis zum 31. Dezember
 1996 ohne die Angabe nach § 1 Abs. 1 in den Verkehr gebracht werden.
 
-
 ## § 7 Inkrafttreten
 
 Diese Verordnung tritt am 1. Juli 1993 in Kraft.
-
 
 ## Schlußformel
 

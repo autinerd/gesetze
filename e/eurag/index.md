@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 9 G v. 6.12.2011 I 2515
 
-
 ## Teil 1 - Allgemeine Vorschriften
-
-
 
 ### § 1 Persönlicher Anwendungsbereich
 
@@ -31,14 +28,9 @@ genannten Berufsbezeichnungen selbständig tätig zu sein (europäische
 Rechtsanwälte), die Berufsausübung und die Zulassung zur
 Rechtsanwaltschaft in Deutschland.
 
-
 ## Teil 2 - Berufsausübung als niedergelassener europäischer Rechtsanwalt
 
-
-
 ### Abschnitt 1 - Allgemeine Voraussetzungen
-
-
 
 #### § 2 Niederlassung
 
@@ -53,7 +45,6 @@ europäischer Rechtsanwalt).
 Antragsteller bei der zuständigen Stelle des Herkunftsstaates als
 europäischer Rechtsanwalt eingetragen ist.
 
-
 #### § 3 Antrag
 
 (1) Über den Antrag auf Aufnahme in die Rechtsanwaltskammer
@@ -66,7 +57,6 @@ verlangen, dass diese Bescheinigung zum Zeitpunkt ihrer Vorlage nicht
 älter als drei Monate ist.
 
 (3) (weggefallen)
-
 
 #### § 4 Verfahren
 
@@ -86,10 +76,7 @@ Herkunftsstaates von der Aufnahme in die Rechtsanwaltskammer sowie von
 der Rücknahme und dem Widerruf der Aufnahme in Kenntnis, um dieser die
 Ausübung der Berufsaufsicht zu ermöglichen.
 
-
 ### Abschnitt 2 - Berufliche Rechte und Pflichten
-
-
 
 #### § 5 Berufsbezeichnung
 
@@ -109,7 +96,6 @@ verwendet werden.
 darf der niedergelassene europäische Rechtsanwalt die
 Berufsbezeichnung, die er im Herkunftsstaat nach dem dort geltenden
 Recht zu führen berechtigt ist, in Deutschland nicht mehr verwenden.
-
 
 #### § 6 Berufliche Stellung
 
@@ -137,7 +123,6 @@ Berufsausübung in Deutschland einzustellen, wenn ihm seitens der
 zuständigen Stelle des Herkunftsstaates die Berechtigung zur Ausübung
 seiner beruflichen Tätigkeit vorläufig, zeitweilig oder dauernd
 entzogen worden ist.
-
 
 #### § 7 Berufshaftpflichtversicherung
 
@@ -168,7 +153,6 @@ Nr. 9 der Bundesrechtsanwaltsordnung bleibt unberührt.
 nach Teil 4 in Verbindung mit § 4 der Bundesrechtsanwaltsordnung
 zugelassen sind, entsprechend.
 
-
 #### § 8 Sozietät im Herkunftsstaat
 
 (1) Gehört der niedergelassene europäische Rechtsanwalt im
@@ -194,10 +178,7 @@ Berufsausübung angeben, dem er im Herkunftsstaat angehört. Er hat in
 diesem Fall auch die Rechtsform des Zusammenschlusses im
 Herkunftsstaat anzugeben.
 
-
 ### Abschnitt 3 - Anwaltsgerichtliches Verfahren, Zustellungen
-
-
 
 #### § 9 Mitteilungspflichten, rechtliches Gehör
 
@@ -261,7 +242,6 @@ Stelle des Herkunftsstaates Gelegenheit zur Äußerung zu geben. Zu
 nichtöffentlichen Verhandlungen ist Vertretern der zuständigen Stelle
 des Herkunftsstaates der Zutritt gestattet.
 
-
 #### § 10 Zustellungen
 
 Kann in anwaltsgerichtlichen Verfahren und in Verfahren nach den §§
@@ -274,14 +254,9 @@ als erfolgt, wenn eine Abschrift des zuzustellenden Schriftstücks der
 zuständigen Stelle des Herkunftsstaates übersandt wird und seit der
 Aufgabe zur Post vier Wochen verstrichen sind.
 
-
 ## Teil 3 - Eingliederung
 
-
-
 ### Abschnitt 1 - Zulassung zur Rechtsanwaltschaft nach dreijähriger Tätigkeit
-
-
 
 #### § 11 Voraussetzungen
 
@@ -308,7 +283,6 @@ die Unterbrechung einer Beurteilung der Tätigkeit als effektiv und
 regelmäßig nicht entgegensteht. Die Dauer einer solchen Unterbrechung
 wird bei der Berechnung des Dreijahreszeitraums nicht berücksichtigt.
 
-
 #### § 12 Nachweis der Tätigkeit
 
 (1) Der Antragsteller hat die Anzahl und die Art der von ihm im
@@ -325,10 +299,7 @@ müssen: Aktenzeichen, Gegenstand, Zeitraum, Art und Umfang der
 Tätigkeit, Sachstand. Ferner sind auf Verlangen der
 Rechtsanwaltskammer anonymisierte Arbeitsproben vorzulegen.
 
-
 ### Abschnitt 2 - Zulassung bei kürzerer Tätigkeit im deutschen Recht
-
-
 
 #### § 13 Voraussetzungen
 
@@ -346,14 +317,12 @@ Berufserfahrungen im deutschen Recht, ferner die Teilnahme an Kursen
 und Seminaren über das deutsche Recht einschließlich des Berufsrechts
 der Rechtsanwälte. § 11 Abs. 1 Satz 2, Abs. 2, 3 gilt entsprechend.
 
-
 #### § 14 Nachweise
 
 Der Antragsteller hat die Nachweise gemäß § 12 zu erbringen. Darüber
 hinaus hat er der Rechtsanwaltskammer alle Auskünfte zu erteilen und
 alle Unterlagen zu übermitteln, die als Nachweis für seine Kenntnisse
 und Berufserfahrungen im deutschen Recht geeignet sind.
-
 
 #### § 15 Gespräch
 
@@ -365,10 +334,7 @@ auszuüben. Die Gegenstände des Gesprächs sind der nachgewiesenen
 beruflichen Praxis des Antragstellers und seinen sonstigen Erfahrungen
 im deutschen Recht zu entnehmen.
 
-
 ## Teil 4 - Eignungsprüfung
-
-
 
 ### § 16 Eignungsprüfung
 
@@ -385,7 +351,6 @@ Beruf eines europäischen Rechtsanwalts tatsächlich und rechtmäßig
 mindestens drei Jahre ausgeübt hat und dies von demjenigen der
 genannten Staaten bescheinigt wird, der die Ausbildung anerkannt hat.
 
-
 ### § 17 Zweck der Eignungsprüfung
 
 Die Eignungsprüfung ist eine staatliche Prüfung, die ausschließlich
@@ -399,7 +364,6 @@ des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz
 Rechtsanwaltsberufes verfügt. Sie entfällt ganz oder teilweise, wenn
 der Antragsteller während seiner Berufserfahrung Kenntnisse erworben
 hat, die für die Berufsausübung in Deutschland erforderlich sind.
-
 
 ### § 18 Prüfungsamt
 
@@ -422,7 +386,6 @@ bestimmt wird.
 
 (4) Die Prüfer sind in der Ausübung ihres Amtes unabhängig.
 
-
 ### § 19 Zulassung zur Prüfung
 
 (1) Über die Zulassung zur Prüfung entscheidet das Prüfungsamt.
@@ -431,7 +394,6 @@ bestimmt wird.
 gesetzlichen Voraussetzungen nicht erfüllt oder die durch
 Rechtsverordnung zu bestimmenden Unterlagen oder Erklärungen nicht
 vorlegt oder nicht abgibt.
-
 
 ### § 20 Prüfungsfächer
 
@@ -457,7 +419,6 @@ dazugehörige Verfahrensrecht einschließlich der Grundlagen im
 Gerichtsverfassungsrecht und die Grundzüge des
 Zwangsvollstreckungsrechts und des Insolvenzrechts.
 
-
 ### § 21 Prüfungsleistungen
 
 (1) Die Prüfung besteht aus einem schriftlichen und einem mündlichen
@@ -477,14 +438,12 @@ Verhalten der Rechtsanwälte, das Wahlfach, in dem der Antragsteller
 keine Aufsichtsarbeit geschrieben hat, und, falls eine Aufsichtsarbeit
 den Anforderungen nicht genügt, zusätzlich das Fach dieser Arbeit.
 
-
 ### § 22 Prüfungsentscheidung
 
 Die Prüfungskommission entscheidet auf Grund des Gesamteindrucks der
 Leistungen in der schriftlichen und mündlichen Prüfung mit
 Stimmenmehrheit, ob der Antragsteller über die nach § 17
 erforderlichen Kenntnisse verfügt.
-
 
 ### § 23 Einwendungen
 
@@ -515,15 +474,11 @@ schriftlich begründen.
 sie vom Prüfungsamt zurückgewiesen. Im Übrigen werden die Einwendungen
 den jeweiligen Prüfern zur Überprüfung ihrer Bewertung zugeleitet.
 
-
 ### § 24 Wiederholung der Prüfung
 
 Die Prüfung kann wiederholt werden.
 
-
 ## Teil 5 - Vorübergehende Dienstleistung
-
-
 
 ### § 25 Vorübergehende Tätigkeit
 
@@ -563,7 +518,6 @@ Abs. 1 Nr. 4, §§ 150 oder 161a der Bundesrechtsanwaltsordnung ein
 Vertretungsverbot verhängt worden, so ist Absatz 1 in dem Umfang nicht
 anzuwenden, in dem das Vertretungsverbot besteht.
 
-
 ### § 26 Berufsbezeichnung, Nachweis der Rechtsanwaltseigenschaft
 
 (1) Für die Führung der Berufsbezeichnung ist § 5 Abs. 1 und 2 Satz 2
@@ -575,7 +529,6 @@ vor der er auftritt, auf Verlangen nachzuweisen, dass er berechtigt
 ist, den Beruf im Herkunftsstaat auszuüben. Wird dieses Verlangen
 gestellt, darf er die Tätigkeiten nach diesem Teil des Gesetzes erst
 ausüben, wenn der Nachweis erbracht ist.
-
 
 ### § 27 Rechte und Pflichten
 
@@ -599,7 +552,6 @@ gerechtfertigt ist, um eine ordnungsgemäße Ausübung der Tätigkeiten
 des Rechtsanwalts sowie die Wahrung des Ansehens und des Vertrauens zu
 gewährleisten, welche die Stellung des Rechtsanwalts erfordert.
 
-
 ### § 28 Vertretung und Verteidigung im Bereich der Rechtspflege
 
 (1) Der dienstleistende europäische Rechtsanwalt darf in gerichtlichen
@@ -621,7 +573,6 @@ bestimmt haben.
 
 (4) (weggefallen)
 
-
 ### § 29 Nachweis des Einvernehmens, Widerruf
 
 (1) Das Einvernehmen ist bei der ersten Handlung gegenüber dem Gericht
@@ -633,7 +584,6 @@ Zukunft.
 
 (3) Handlungen, für die der Nachweis des Einvernehmens zum Zeitpunkt
 ihrer Vornahme nicht vorliegt, sind unwirksam.
-
 
 ### § 30 Besonderheiten bei Verteidigung
 
@@ -654,7 +604,6 @@ sowie §§ 26, 27 Abs. 3, § 29 Abs. 1 und § 31 Abs. 4 des
 Strafvollzugsgesetzes sind auf den Einvernehmensanwalt entsprechend
 anzuwenden.
 
-
 ### § 31 Zustellungen in behördlichen und gerichtlichen Verfahren
 
 (1) Der dienstleistende europäische Rechtsanwalt hat einen
@@ -672,7 +621,6 @@ Zustellungsbevollmächtigter; kann nicht an einen
 Zustellungsbevollmächtigten im Geltungsbereich dieses Gesetzes
 zugestellt werden, so kann die Zustellung durch Aufgabe zur Post
 bewirkt werden (§ 184 der Zivilprozessordnung).
-
 
 ### § 32 Aufsicht, zuständige Rechtsanwaltskammer
 
@@ -777,10 +725,6 @@ ausgeübt für dienstleistende europäische Rechtsanwälte aus
 17. Rumänien durch die Rechtsanwaltskammer Frankfurt am Main in Frankfurt
     am Main.
 
-
-
-
-
 ### § 33 Anwaltsgerichtsbarkeit, Zustellungen
 
 (1) Der dienstleistende europäische Rechtsanwalt untersteht
@@ -790,7 +734,6 @@ bestimmt sich nach dem Sitz der Rechtsanwaltskammer, welche die
 Aufsicht nach § 32 ausübt.
 
 (2) § 10 gilt entsprechend.
-
 
 ### § 34 Anwaltsgerichtliche Ahndung von Pflichtverletzungen, vorläufige anwaltsgerichtliche Maßnahmen
 
@@ -817,10 +760,6 @@ folgenden Maßgaben:
 
 4.  § 161 ist nicht anzuwenden.
 
-
-
-
-
 ### § 34a Mitteilungspflichten
 
 (1) Gerichte und Behörden übermitteln personenbezogene Daten, die zur
@@ -835,10 +774,7 @@ der Bundesrechtsanwaltsordnung gilt entsprechend.
 (2) Für Mitteilungen an die zuständigen Stellen des Herkunftsstaates
 gilt § 9 entsprechend.
 
-
 ## Teil 6 - Rechtsweg in verwaltungsrechtlichen Anwaltssachen und allgemeine Vorschriften für das Verwaltungsverfahren
-
-
 
 ### § 35 Rechtsweg in verwaltungsrechtlichen Anwaltssachen
 
@@ -848,7 +784,6 @@ Rechtsverordnung, soweit sie nicht anwaltsgerichtlicher Art sind oder
 einem anderen Gericht ausdrücklich zugewiesen sind, gelten die
 Bestimmungen der Bundesrechtsanwaltsordnung für verwaltungsrechtliche
 Anwaltssachen entsprechend.
-
 
 ### § 36 Bescheinigungen des Heimat- oder Herkunftsstaates
 
@@ -876,10 +811,6 @@ Gesetzes
     dreijährige Berufsausbildung abschließen (ABl. EG 1989 Nr. L 19, S.
     16), genügt.
 
-
-
-
-
 ### § 37 Zusammenarbeit mit den zuständigen Stellen in anderen Staaten
 
 Die Rechtsanwaltskammer leistet Amtshilfe, wenn die zuständige Stelle
@@ -888,7 +819,6 @@ des Herkunftsstaates hierum ersucht unter Berufung auf die Richtlinie
 zur Erleichterung der ständigen Ausübung des Rechtsanwaltsberufs in
 einem anderen Mitgliedstaat als dem, in dem die Qualifikation erworben
 wurde (ABl. EG Nr. L 77 S. 36).
-
 
 ### § 38 Übermittlung personenbezogener Informationen über in Deutschland zugelassene Rechtsanwälte
 
@@ -907,13 +837,11 @@ Mitgliedstaaten der Europäischen Union oder in Vertragsstaaten des
 Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz unter
 ihrer ursprünglichen Berufsbezeichnung niedergelassen sind.
 
-
 ### § 38a Statistik
 
 Über Verfahren nach Teil 4 dieses Gesetzes wird eine Bundesstatistik
 durchgeführt. § 17 des Berufsqualifikationsfeststellungsgesetzes mit
 Ausnahme von Absatz 2 Nummer 4 ist anzuwenden.
-
 
 ### § 39 Gebühren und Auslagen
 
@@ -921,10 +849,7 @@ Auf die Erhebung und Beitreibung von Gebühren und Auslagen für
 Amtshandlungen nach diesem Gesetz sind die Vorschriften der
 Bundesrechtsanwaltsordnung entsprechend anzuwenden.
 
-
 ## Teil 7 - Ermächtigungen, Übertragung von Befugnissen
-
-
 
 ### § 40 Ermächtigungen
 
@@ -963,10 +888,6 @@ Eignungsprüfung zu regeln, insbesondere
 
 8.  die Erhebung einer Gebühr.
 
-
-
-
-
 ### § 41 Übertragung von Befugnissen
 
 (1) Die Landesregierungen werden ermächtigt, die Aufgaben und
@@ -982,10 +903,7 @@ Landesregierungen können diese Ermächtigung durch Rechtsverordnung auf
 die Landesjustizverwaltungen übertragen. In diesem Fall gilt § 73 Abs.
 1 Satz 2 und Abs. 3 der Bundesrechtsanwaltsordnung entsprechend.
 
-
 ## Teil 8 - Übergangs- und Schlussbestimmungen
-
-
 
 ### § 42 Anwendung von Vorschriften des Strafgesetzbuches
 
@@ -1000,7 +918,6 @@ gleich.
 ist die Vorschrift des § 132a Abs. 1 Nr. 2, Abs. 2 des
 Strafgesetzbuches über den Schutz der Berufsbezeichnung Rechtsanwalt
 entsprechend anzuwenden.
-
 
 ### § 43 Übergangsregelungen
 
@@ -1018,7 +935,6 @@ weitere Verfahren nach dem bis zu diesem Tag geltenden Recht.
 (3) Die vor dem 1. September 2009 anhängigen gerichtlichen Verfahren
 in verwaltungsrechtlichen Anwaltssachen nach diesem Gesetz werden nach
 den bis zu diesem Tag geltenden Bestimmungen fortgeführt.
-
 
 ### Anlage zu § 1 Rechtsanwaltsberufe in Mitgliedstaaten der Europäischen Union, anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum und der Schweiz
 

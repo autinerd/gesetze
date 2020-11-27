@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BAnz: 2006, Nr 60, 2061 [Beilage]
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 32 Abs. 1 Satz 1 Nr. 4 und 5 des Luftverkehrsgesetzes
@@ -30,7 +28,6 @@ vom 13. Februar 1984 (BGBl. I S. 265), der durch Artikel 2 Nr. 64 der
 Verordnung zur Änderung luftrechtlicher Vorschriften über
 Anforderungen an Flugbesatzungen vom 10. Februar 2003 (BGBl. I S. 182)
 neu gefasst worden ist, verordnet das Luftfahrt-Bundesamt:
-
 
 ## Inhaltsverzeichnis
 
@@ -539,13 +536,7 @@ neu gefasst worden ist, verordnet das Luftfahrt-Bundesamt:
     *   Praktische Prüfung zum Erwerb der Berechtigung zur praktischen
         Ausbildung von Luftschiffführern.
 
-
-
-
-
 ## Erster Abschnitt - Allgemeine Vorschriften
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -554,10 +545,7 @@ Luftfahrtpersonal (LuftPersV) enthaltenen Anforderungen nach § 32 Abs.
 1 Nr. 4 und 5 des Luftverkehrsgesetzes über die Lizenzierung und den
 Erwerb von Berechtigungen.
 
-
 ## Zweiter Abschnitt - Ausbildung und Prüfung
-
-
 
 ### § 2 Zweck der Ausbildung
 
@@ -566,7 +554,6 @@ der Sicherheit des Luftverkehrs und der öffentlichen Sicherheit oder
 Ordnung notwendigen Kenntnisse und Fähigkeiten zu vermitteln. Eine
 besondere Form der Ausbildung ist auch die zum Erwerb einer Lizenz
 oder Berechtigung geforderte Einweisung.
-
 
 ### § 3 Täuschungsversuch, Rücktritt von der Prüfung
 
@@ -581,10 +568,7 @@ vertretenden Umständen die Prüfung oder einen Teil der Prüfung nicht
 antritt. Der Bewerber hat die Verhinderung unverzüglich durch Vorlage
 eines ärztlichen Attestes oder einer Bescheinigung nachzuweisen.
 
-
 ## Dritter Abschnitt - Lizenzen und Berechtigungen für Luftfahrer
-
-
 
 ### § 4 Privatflugzeugführer (zu § 1 LuftPersV)
 
@@ -600,7 +584,6 @@ durchzuführen.
 nachzuweisen, dass er die zur Führung von Flugzeugen notwendigen
 Fähigkeiten besitzt.
 
-
 ### § 5 Klassenberechtigung für Reisemotorsegler (zu § 3a LuftPersV)
 
 (1) In der Einweisung sind die in Anlage 2A festgelegten Übungen
@@ -609,7 +592,6 @@ durchzuführen.
 (2) Der Bewerber hat in einer praktischen Prüfung gemäß Anlage 2B
 nachzuweisen, dass er die zur Führung von Reisemotorseglern
 notwendigen Fähigkeiten besitzt.
-
 
 ### § 6 Klassenberechtigung für einmotorige Landflugzeuge mit Kolbentriebwerk mit einer Höchstabflugmasse von mehr als 750 Kilogramm (zu § 3b LuftPersV)
 
@@ -620,7 +602,6 @@ durchzuführen.
 nachzuweisen, dass er die zur Führung von einmotorigen Landflugzeugen
 mit Kolbentriebwerk mit einer Höchstabflugmasse von mehr als 750
 Kilogramm notwendigen Fähigkeiten besitzt.
-
 
 ### § 7 Erwerb der Privatpilotenlizenz (Flugzeuge) nach JAR-FCL 1 deutsch (zu § 5 LuftPersV)
 
@@ -636,7 +617,6 @@ durchzuführen.
 (4) Der Bewerber hat eine praktische Prüfung gemäß JAR-FCL 1.135
 deutsch abzulegen.
 
-
 ### § 8 Segelflugzeugführer (zu § 36 LuftPersV)
 
 (1) In der theoretischen Ausbildung sind die Kenntnisse gemäß Anlage
@@ -650,7 +630,6 @@ durchzuführen.
 (4) Der Bewerber hat in einer praktischen Prüfung gemäß Anlage 5D
 nachzuweisen, dass er die zur Führung von Segelflugzeugen notwendigen
 Fähigkeiten besitzt.
-
 
 ### § 9 Klassenberechtigung für Reisemotorsegler für Inhaber der Lizenz für Segelflugzeugführer (zu § 40a LuftPersV)
 
@@ -666,7 +645,6 @@ durchzuführen.
 nachzuweisen, dass er die zur Führung von Reisemotorseglern
 notwendigen Fähigkeiten besitzt.
 
-
 ### § 10 Freiballonführer (zu § 46 LuftPersV)
 
 (1) In der theoretischen Ausbildung sind die Kenntnisse gemäß Anlage
@@ -680,7 +658,6 @@ notwendigen Fähigkeiten besitzt.
 (4) Der Bewerber hat in einer praktischen Prüfung gemäß Anlage 7D
 nachzuweisen, dass er die zur Führung von Freiballonen notwendigen
 Fähigkeiten besitzt.
-
 
 ### § 11 Luftschiffführer (zu § 50 LuftPersV)
 
@@ -700,7 +677,6 @@ Fähigkeiten besitzt.
 den Erwerb zusätzlicher Kenntnisse und eine Schulung auf dem
 Luftschiffmuster. Die Ausbildung muss mit Zustimmung der zuständigen
 Stelle die Inhalte der Anlagen 8A und 8B musterspezifisch ergänzen.
-
 
 ### § 12 Flugtechniker auf Hubschraubern bei den Polizeien des Bundes und der Länder (zu § 62 LuftPersV)
 
@@ -722,7 +698,6 @@ nachzuweisen, dass er die für einen Flugtechniker auf Hubschraubern
 bei den Polizeien des Bundes und der Länder notwendigen Fähigkeiten
 besitzt.
 
-
 ### § 13 Kunstflugberechtigung (zu § 81 LuftPersV)
 
 (1) In der Flugausbildung sind die in Anlage 10A festgelegten Übungen
@@ -732,12 +707,10 @@ durchzuführen.
 praktischen Prüfung gemäß Anlage 10B nachzuweisen, dass er die zur
 Durchführung von Kunstflügen notwendigen Fähigkeiten besitzt.
 
-
 ### § 14 Schleppberechtigung (zu § 84 LuftPersV)
 
 Die gemäß § 84 Abs. 2 und Abs. 3 LuftPersV vorgeschriebenen Flüge sind
 in Übereinstimmung mit der Anlage 11 durchzuführen.
-
 
 ### § 15 Wolkenflugberechtigung für Segelflugzeugführer (zu § 85 LuftPersV)
 
@@ -748,7 +721,6 @@ durchzuführen.
 (2) In der praktischen Prüfung hat der Bewerber gemäß Anlage 12B
 nachzuweisen, dass er die zur Durchführung von Wolkenflügen
 notwendigen Fähigkeiten besitzt.
-
 
 ### § 16 Streu- und Sprühberechtigung (zu § 86 LuftPersV)
 
@@ -764,7 +736,6 @@ die theoretische Prüfung gemäß Anlage 13C durchzuführen.
 (4) Der Bewerber hat in einer praktischen Prüfung gemäß Anlage 13D
 nachzuweisen, dass er die zur Durchführung von Streu- und Sprühflügen
 notwendigen Fähigkeiten besitzt.
-
 
 ### § 17 Berechtigung zur praktischen Ausbildung von Privatflugzeugführern nach § 1 LuftPersV (zu § 88a LuftPersV)
 
@@ -785,7 +756,6 @@ Privatpiloten notwendigen Kenntnisse besitzt.
 nachzuweisen, dass er die zur Ausbildung von Privatpiloten notwendigen
 Fähigkeiten besitzt.
 
-
 ### § 18 Berechtigung zur praktischen Ausbildung von Segelflugzeugführern (zu § 89 LuftPersV)
 
 (1) Die Auswahlprüfung nach § 89 Abs. 1 Nr. 3 LuftPersV besteht aus
@@ -804,7 +774,6 @@ Segelflugzeugführern notwendigen Kenntnisse besitzt.
 (4) Der Bewerber hat in einer praktischen Prüfung gemäß Anlage 15F
 nachzuweisen, dass er die zur Ausbildung von Segelflugzeugführern
 notwendigen Fähigkeiten besitzt.
-
 
 ### § 19 Berechtigung zur praktischen Ausbildung von Freiballonführern (zu § 94 LuftPersV)
 
@@ -825,7 +794,6 @@ Freiballonführern notwendigen Kenntnisse besitzt.
 nachzuweisen, dass er die zur Ausbildung von Freiballonführern
 notwendigen Fähigkeiten besitzt.
 
-
 ### § 20 Berechtigung zur praktischen Ausbildung von Luftschiffführern (zu § 95 LuftPersV)
 
 (1) Die Auswahlprüfung nach § 95 Abs. 1 Nr. 3 LuftPersV besteht aus
@@ -845,7 +813,6 @@ Luftschiffführern notwendigen Kenntnisse besitzt.
 nachzuweisen, dass er die zur Ausbildung von Luftschiffführern
 notwendigen Fähigkeiten besitzt.
 
-
 ### § 21 Unterschiedsschulung, Vertrautmachen
 
 (1) Für den Wechsel auf eine andere Flugzeug- oder
@@ -862,11 +829,9 @@ Flugeigenschaften von einem bisher geführten Flugzeug- oder
 Reisemotorseglermuster unterscheidet, hat sich der Luftfahrzeugführer
 mit dessen Eigenschaften eigenständig vertraut zu machen.
 
-
 ### § 22 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ### Anlage 1A Lehrplan für die theoretische Ausbildung zum Erwerb der Lizenz für Privatflugzeugführer (zu § 4)
 
@@ -3154,10 +3119,6 @@ Luftfahrzeughalters**
 
 -   Serie (Kette) fehlerhafter Entscheidungen
 
-
-
-
-
 ### Anlage 1B Lehrplan für die praktische Ausbildung zum Erwerb der Lizenz für Privatflugzeugführer (zu § 4)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 27
@@ -3944,7 +3905,6 @@ werden.
 Flugschülers im Alleinflug ist nur zulässig, wenn der Fluglehrer dafür
 einen Flugauftrag erteilt hat und am Flugplatz anwesend ist.
 
-
 ### Anlage 1C Theoretische Prüfung zum Erwerb der Lizenz für Privatflugzeugführer (zu § 4)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 34
@@ -4032,10 +3992,6 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 34
     in englischer Sprache und die Übersetzung ins Deutsche (BZF I). Die
     Abwicklung des Sprechfunkverkehrs kann für mehrere Bewerber zusammen
     durchgeführt werden.
-
-
-
-
 
 ### Anlage 1D Praktische Prüfung zum Erwerb der Lizenz für Privatflugzeugführer (zu § 4)
 
@@ -4308,7 +4264,6 @@ b  I Simulierte Notfälle                                       I
 \*) Einige dieser Übungen können nach Ermessen des Flugprüfers
 kombiniert
 werden.
-
 
 ### Anlage 2A Lehrplan für die praktische Einweisung zum Erwerb der Klassenberechtigung für Reisemotorsegler (zu § 5)
 
@@ -4903,7 +4858,6 @@ werden.
 Flugschülers im Alleinflug ist nur zulässig, wenn der Fluglehrer dafür
 einen Flugauftrag erteilt hat und am Flugplatz anwesend ist.
 
-
 ### Anlage 2B Praktische Prüfung zum Erwerb der Klassenberechtigung für Reisemotorsegler (zu §§ 5 und 9)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 46
@@ -5172,7 +5126,6 @@ b  I Simulierte Notfälle                                       I
 \*) Einige dieser Übungen können nach Ermessen des Flugprüfers
 kombiniert
 werden.
-
 
 ### Anlage 3A Lehrplan für die praktische Einweisung zum Erwerb der Klassenberechtigung für einmotorige Landflugzeuge mit Kolbentriebwerk mit einer Höchstabflugmasse von mehr als 750 Kilogramm (zu § 6)
 
@@ -5758,7 +5711,6 @@ werden.
 Flugschülers im Alleinflug ist nur zulässig, wenn der Fluglehrer dafür
 einen Flugauftrag erteilt hat und am Flugplatz anwesend ist.
 
-
 ### Anlage 3B Praktische Prüfung zum Erwerb der Klassenberechtigung für einmotorige Landflugzeuge mit Kolbentriebwerk mit einer Höchstabflugmasse von mehr als 750 Kilogramm (zu § 6)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 57
@@ -6004,7 +5956,6 @@ b  I Simulierte Notfälle                                       I
 \*) Einige dieser Übungen können nach Ermessen des Flugprüfers
 kombiniert
 werden.
-
 
 ### Anlage 4A Lehrplan für die ergänzende theoretische Ausbildung zum Erwerb der Privatpilotenlizenz (Flugzeuge) nach JAR-FCL 1 Deutsch (zu § 7)
 
@@ -6350,10 +6301,6 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 61
 -   Vergleich der dargestellten Information mit der anderer
     Anzeigeinstrumente
 
-
-
-
-
 ### Anlage 4B Lehrplan für die ergänzende praktische Ausbildung zum Erwerb der Privatpilotenlizenz (Flugzeuge) nach JAR-FCL 1 Deutsch (zu § 7)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 64
@@ -6411,7 +6358,6 @@ Frontscheibe mittels Karten oder anderer Hilfsmittel ist nicht
 zulässig. Das rechtzeitige Erkennen anderer Luftfahrzeuge und das
 Anwenden der Ausweichregeln obliegen der Verantwortung des
 Fluglehrers.
-
 
 ### Anlage 5A Lehrplan für die theoretische Ausbildung zum Erwerb der Lizenz für Segelflugzeugführer (zu § 8)
 
@@ -8286,10 +8232,6 @@ Luftfahrzeughalters**
 
 -   Serie (Kette) fehlerhafter Entscheidungen
 
-
-
-
-
 ### Anlage 5B Lehrplan für die praktische Ausbildung zum Erwerb der Lizenz für Segelflugzeugführer (zu § 8)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 80
@@ -8781,10 +8723,6 @@ Genehmigung durch die zuständige Landesluftfahrtbehörde erforderlich.
 -   bei Zielstreckenflügen mit Rückkehr zum Startort ist zusätzlich die
     ordnungsgemäße Umrundung der Wendepunkte zu belegen
 
-
-
-
-
 ### Anlage 5C Theoretische Prüfung zum Erwerb der Lizenz für Segelflugzeugführer (zu § 8)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 85
@@ -8872,10 +8810,6 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 85
     in englischer Sprache und die Übersetzung ins Deutsche (BZF I). Die
     Abwicklung des Sprechfunkverkehrs kann für mehrere Bewerber zusammen
     durchgeführt werden.
-
-
-
-
 
 ### Anlage 5D Praktische Prüfung zum Erwerb der Lizenz für Segelflugzeugführer (zu § 8)
 
@@ -9018,7 +8952,6 @@ Landezeichen                            I
 --------
 \*  Nichtzutreffendes ist zu streichen
 ++ Wahl der Reihenfolge bleibt dem Prüfer vorbehalten
-
 
 ### Anlage 6A Lehrplan für die theoretische Ausbildung zum Erwerb der Klassenberechtigung für Reisemotorsegler für Inhaber der Lizenz für Segelflugzeugführer (zu § 9)
 
@@ -9778,10 +9711,6 @@ Luftfahrzeughalters**
 
 -   Fehlanflug
 
-
-
-
-
 ### Anlage 6B Lehrplan für die praktische Ausbildung zum Erwerb der Klassenberechtigung für Reisemotorsegler für Inhaber der Lizenz für Segelflugzeugführer (zu § 9)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 95
@@ -10414,7 +10343,6 @@ werden.
 Flugschülers im Alleinflug ist nur zulässig, wenn der Fluglehrer dafür
 einen Flugauftrag erteilt hat und am Flugplatz anwesend ist.
 
-
 ### Anlage 6C Theoretische Prüfung zum Erwerb der Klassenberechtigung für Reisemotorsegler für Inhaber der Lizenz für Segelflugzeugführer (zu § 9)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
@@ -10483,10 +10411,6 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 3.  Ein Prüfungsfach gilt als bestanden, wenn der Bewerber in diesem Fach
     mindestens 75% der möglichen Punktzahl erreicht hat. Punkte dürfen nur
     für richtige Antworten vergeben werden.
-
-
-
-
 
 ### Anlage 7A Lehrplan für die theoretische Ausbildung zum Erwerb der Lizenz für Freiballonführer (zu § 10)
 
@@ -12290,10 +12214,6 @@ Ballonen**
 
 -   Serie (Kette) fehlerhafter Entscheidungen
 
-
-
-
-
 ### Anlage 7B Lehrplan für die praktische Ausbildung zum Erwerb der Lizenz für Freiballonführer (zu § 10)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
@@ -13169,10 +13089,6 @@ durchstarten!
 
 -   Trocknen
 
-
-
-
-
 ### Anlage 7C Theoretische Prüfung zum Erwerb der Lizenz für Freiballonführer (zu § 10)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
@@ -13261,10 +13177,6 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
     in englischer Sprache und die Übersetzung ins Deutsche (BZF I). Die
     Abwicklung des Sprechfunkverkehrs kann für mehrere Bewerber zusammen
     durchgeführt werden.
-
-
-
-
 
 ### Anlage 7D Praktische Prüfung zum Erwerb der Lizenz für Freiballonführer (zu § 10)
 
@@ -13420,7 +13332,6 @@ Ort und Datum                                   Unterschrift Prüfer
 Prüfer-Nr.                                      Name in
 Druckbuchstaben
 \* Nichtzutreffendes ist zu streichen
-
 
 ### Anlage 8A Lehrplan für die theoretische Ausbildung zum Erwerb der Lizenz für Luftschiffführer (zu § 11)
 
@@ -14958,10 +14869,6 @@ Fortgeschrittene Automatisierung im Cockpit (Allgemeiner Überblick)
 
 -   Arbeitskonzepte
 
-
-
-
-
 ### Anlage 8B Lehrplan für die praktische Ausbildung zum Erwerb der Lizenz für Luftschiffführer (zu § 11)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
@@ -15115,7 +15022,6 @@ Bestandteil der Nachtflugausbildung.
 Ausbildungsinhalten aufgrund bauartbedingter Besonderheiten der in der
 Ausbildung verwendeten Luftschiffmuster werden mit dem
 Ausbildungshandbuch genehmigt.
-
 
 ### Anlage 8C Theoretische Prüfung zum Erwerb der Lizenz für Luftschiffführer (zu § 11)
 
@@ -15283,10 +15189,6 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 6.  Ist die theoretische Prüfung nach 2 Wiederholungsprüfungen nicht
     erfolgreich abgelegt, ist eine erneute Ausbildung nach Maßgabe der
     zuständigen Stelle erforderlich.
-
-
-
-
 
 ### Anlage 8D Praktische Prüfung zum Erwerb der Lizenz für Luftschiffführer (zu § 11)
 
@@ -15572,7 +15474,6 @@ Entwicklung
 16\.3 Verhalten bei Systemausfällen
 ----------------------------------------------------------------------
 --------
-
 
 ### Anlage 9A Lehrplan für die theoretische Ausbildung zum Erwerb der Lizenz für Flugtechniker auf Hubschraubern bei den Polizeien des Bundes und der Länder (zu § 12)
 
@@ -15960,13 +15861,6 @@ Menschliches Leistungsvermögen
 
     –   Notwasserung
 
-
-
-
-
-
-
-
 ### Anlage 9B Lehrplan für die praktische Ausbildung zum Erwerb der Lizenz für Flugtechniker auf Hubschraubern bei den Polizeien des Bundes und der Länder (zu § 12)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
@@ -16255,7 +16149,6 @@ Länder eine abgeschlossene Berufsausbildung als Fluggerätmechaniker
 Hubschraubermuster, auf dem er seine Tätigkeit ausüben soll,
 nachweisen kann.
 
-
 ### Anlage 9C Theoretische Prüfung zum Erwerb der Lizenz für Flugtechniker auf Hubschraubern bei den Polizeien des Bundes und der Länder (zu § 12)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
@@ -16331,10 +16224,6 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 3.  Ein Prüfungsfach gilt als bestanden, wenn der Bewerber in diesem Fach
     mindestens 75% der möglichen Punktzahl erreicht hat. Punkte dürfen nur
     für die richtige Antwort vergeben werden.
-
-
-
-
 
 ### Anlage 9D Praktische Prüfung zum Erwerb der Lizenz für Flugtechniker auf Hubschraubern bei den Polizeien des Bundes und der Länder (zu § 12)
 
@@ -16730,7 +16619,6 @@ Inhalt                     I     Aufgabe     I   B/NB
 ----------------------------------------------------------------------
 --------
 
-
 ### Anlage 10A Lehrplan für die praktische Ausbildung zum Erwerb der Kunstflugberechtigung (zu § 13)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
@@ -16991,7 +16879,6 @@ Normalfluglage
 **Üben des Prüfungsprogramms rechts und links**
 **Üben des Prüfungsprogramms im Alleinflug**
 
-
 ### Anlage 10B Praktische Prüfung zum Erwerb der Kunstflugberechtigung (zu § 13)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
@@ -17196,7 +17083,6 @@ werden.
 Einhaltung des Kunstflugraums:
 Prüfungsflug ........................ Wiederholung
 .......................
-
 
 ### Anlage 11 Lehrplan für die praktische Einweisung zum Erwerb der Schleppberechtigung (zu § 14)
 
@@ -17441,7 +17327,6 @@ Fluglehrer                        Lizenz-Nr.
 Ort                               Unterschrift
 \* Nichtzutreffendes ist zu streichen
 
-
 ### Anlage 12A Lehrplan für die praktische Ausbildung zum Erwerb der Wolkenflugberechtigung für Segelflugzeugführer (zu § 15)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
@@ -17539,10 +17424,6 @@ durchzuführen.
 
 -   Rückführen des Segelflugzeugs/Motorseglers aus ungewöhnlichen
     Fluglagen in die Normalfluglage
-
-
-
-
 
 ### Anlage 12B Praktische Prüfung zum Erwerb der Wolkenflugberechtigung für Segelflugzeugführer (zu § 15)
 
@@ -17883,10 +17764,6 @@ den nachfolgenden Sachgebieten umfassen:
 
 -   Abstände zu Hindernissen, insbesondere Freileitungen
 
-
-
-
-
 ### Anlage 13B Lehrplan für die praktische Ausbildung zum Erwerb der Streu- und Sprühberechtigung (zu § 16)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
@@ -17970,7 +17847,6 @@ Flugstunden)
 
 **Wiederholung aller Übungen bis zur Prüfungsreife**
 
-
 ### Anlage 13C Theoretische Prüfung zum Erwerb der Streu- und Sprühberechtigung (zu § 16)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
@@ -18035,10 +17911,6 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 3.  Ein Prüfungsfach gilt als bestanden, wenn der Bewerber in diesem Fach
     mindestens 75% der möglichen Punktzahl erreicht hat. Punkte dürfen nur
     für die richtige Antwort vergeben werden.
-
-
-
-
 
 ### Anlage 13D Praktische Prüfung zum Erwerb der Streu- und Sprühberechtigung (zu § 16)
 
@@ -18243,7 +18115,6 @@ Geschwindigkeiten  - Start und Anflug:                       +/- 5 kt
 V(tief)Tgt/V(tief)ref)
 - Arbeitsflug:                          +/- 10 kt
 
-
 ### Anlage 14A Theoretische Auswahlprüfung zum Erwerb der Berechtigung zur praktischen Ausbildung von Privatflugzeugführern (zu § 17)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
@@ -18326,10 +18197,6 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 4.  Das Bestehen dieser theoretischen Auswahlprüfung beinhaltet die
     Anmeldung zur Abnahme der praktischen Auswahlprüfung zum Erwerb der
     Berechtigung zur praktischen Ausbildung von Privatflugzeugführern.
-
-
-
-
 
 ### Anlage 14B Praktische Auswahlprüfung zum Erwerb der Berechtigung zur praktischen Ausbildung von Privatflugzeugführern (zu § 17)
 
@@ -18612,7 +18479,6 @@ b  I Simulierte Notfälle                                    I
 \*) Einige dieser Übungen können nach Ermessen des Flugprüfers
 kombiniert
 werden.
-
 
 ### Anlage 14C Lehrplan für die theoretische Ausbildung zum Erwerb der Berechtigung zur praktischen Ausbildung von Privatflugzeugführern (zu § 17)
 
@@ -19006,10 +18872,6 @@ fliegerischen Übungen entspricht.
 
 
 -   Verhalten nach der Notlandung
-
-
-
-
 
 ### Anlage 14D Lehrplan für die praktische Ausbildung zum Erwerb der Berechtigung zur praktischen Ausbildung von Privatflugzeugführern (zu § 17)
 
@@ -19544,10 +19406,6 @@ und Trudeln ist hinzuweisen.
 
 -   Schlechtwetterwege
 
-
-
-
-
 ### Anlage 14E Theoretische Prüfung zum Erwerb der Berechtigung zur praktischen Ausbildung von Privatflugzeugführern (zu § 17)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
@@ -19597,10 +19455,6 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 3.  Der Nachweis der Lehrbefähigung ist durch die Ausarbeitung und
     Durchführung einer Lehrprobe von mindestens einer Unterrichtseinheit
     zu erbringen.
-
-
-
-
 
 ### Anlage 14F Praktische Prüfung zum Erwerb der Berechtigung zur praktischen Ausbildung von Privatflugzeugführern (zu § 17)
 
@@ -19825,7 +19679,6 @@ Prüfer-Nr.                                       Name in
 Druckbuchstaben
 \* Nichtzutreffendes ist zu streichen
 
-
 ### Anlage 15A Theoretische Auswahlprüfung zum Erwerb der Berechtigung zur praktischen Ausbildung von Segelflugzeugführern (zu § 18)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
@@ -19908,10 +19761,6 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 4.  Das Bestehen dieser theoretischen Auswahlprüfung beinhaltet die
     Anmeldung zur Abnahme der praktischen Auswahlprüfung zum Erwerb der
     Berechtigung zur praktischen Ausbildung von Segelflugzeugführern.
-
-
-
-
 
 ### Anlage 15B Praktische Auswahlprüfung zum Erwerb der Berechtigung zur praktischen Ausbildung von Segelflugzeugführern (zu § 18)
 
@@ -20033,7 +19882,6 @@ I
 --------
 \*  Nichtzutreffendes ist zu streichen
 ++ Wahl der Reihenfolge bleibt dem Prüfer vorbehalten
-
 
 ### Anlage 15C Lehrplan für die theoretische Ausbildung zum Erwerb der Berechtigung zur praktischen Ausbildung von Segelflugzeugführern (zu § 18)
 
@@ -20303,10 +20151,6 @@ fliegerischen Übungen entspricht.
 
 
 -   Nachbereitung
-
-
-
-
 
 ### Anlage 15D Lehrplan für die praktische Ausbildung zum Erwerb der Berechtigung zur praktischen Ausbildung von Segelflugzeugführern (zu § 18)
 
@@ -20734,7 +20578,6 @@ demonstrieren.
 mit Motor im Leerlauf durchzuführen. Das Aufsetzen ist nur zulässig,
 wenn die rechtlichen Voraussetzungen erfüllt sind.
 
-
 ### Anlage 15E Theoretische Prüfung zum Erwerb der Berechtigung zur praktischen Ausbildung von Segelflugzeugführern (zu § 18)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
@@ -20784,10 +20627,6 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 3.  Der Nachweis der Lehrbefähigung ist durch die Ausarbeitung und
     Durchführung einer Lehrprobe von mindestens einer Unterrichtseinheit
     zu erbringen.
-
-
-
-
 
 ### Anlage 15F Praktische Prüfung zum Erwerb der Berechtigung zur praktischen Ausbildung von Segelflugzeugführern (zu § 18)
 
@@ -20944,7 +20783,6 @@ Ort und Datum                            Unterschrift des Prüfers
 Prüfer-Nr.                               Name in Druckbuchstaben
 \* Nichtzutreffendes ist zu streichen
 
-
 ### Anlage 16A Theoretische Auswahlprüfung zum Erwerb der Berechtigung zur praktischen Ausbildung von Freiballonführern (zu § 19)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
@@ -21026,10 +20864,6 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 4.  Das Bestehen dieser theoretischen Auswahlprüfung beinhaltet die
     Anmeldung zur Abnahme der praktischen Auswahlprüfung zum Erwerb der
     Berechtigung zur praktischen Ausbildung von Freiballonführern.
-
-
-
-
 
 ### Anlage 16B Praktische Auswahlprüfung zum Erwerb der Berechtigung zur praktischen Ausbildung von Freiballonführern (zu § 19)
 
@@ -21168,7 +21002,6 @@ Ort und Datum                               Unterschrift des Prüfers
 .............................
 Prüfer-Nr.                                  Name in Druckbuchstaben
 \* Nichtzutreffendes ist zu streichen
-
 
 ### Anlage 16C Lehrplan für die theoretische Ausbildung zum Erwerb der Berechtigung zur praktischen Ausbildung von Freiballonführern (zu § 19)
 
@@ -21662,10 +21495,6 @@ Auszubildenden weitergeben zu können.
 
 -   Mentales Training von Notverfahren
 
-
-
-
-
 ### Anlage 16D Lehrplan für die praktische Ausbildung zum Erwerb der Berechtigung zur praktischen Ausbildung von Freiballonführern (zu § 19)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
@@ -21802,10 +21631,6 @@ Zusätzlich werden dem Bewerber folgende Vorgehensweisen vermittelt:
     riskanter Verhaltensweisen unter Aufsicht des anerkannten ausbildenden
     Fluglehrers
 
-
-
-
-
 ### Anlage 16E Theoretische Prüfung zum Erwerb der Berechtigung zur praktischen Ausbildung von Freiballonführern (zu § 19)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
@@ -21855,10 +21680,6 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 4.  Der Nachweis der Lehrbefähigung ist durch die Ausarbeitung und
     Durchführung einer Lehrprobe von mindestens einer Unterrichtseinheit
     zu erbringen.
-
-
-
-
 
 ### Anlage 16F Praktische Prüfung zum Erwerb der Berechtigung zur praktischen Ausbildung von Freiballonführern (zu § 19)
 
@@ -21998,7 +21819,6 @@ Ort und Datum                              Unterschrift des Prüfers
 Prüfer-Nr.                                 Name in Druckbuchstaben
 \* Nichtzutreffendes ist zu streichen
 
-
 ### Anlage 17A Theoretische Auswahlprüfung zum Erwerb der Berechtigung zur praktischen Ausbildung von Luftschiffführern (zu § 20)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
@@ -22110,10 +21930,6 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 4.  Das Bestehen dieser theoretischen Auswahlprüfung beinhaltet die
     Anmeldung zur Abnahme der praktischen Auswahlprüfung zum Erwerb der
     Berechtigung zur praktischen Auswahlprüfung von Luftschiffführern.
-
-
-
-
 
 ### Anlage 17B Praktische Auswahlprüfung zum Erwerb der Berechtigung zur praktischen Ausbildung von Luftschiffführern (zu § 20)
 
@@ -22349,7 +22165,6 @@ B/NB
 Bodenmannschaft
 ----------------------------------------------------------------------
 --------
-
 
 ### Anlage 17C Lehrplan für die theoretische Ausbildung zum Erwerb der Berechtigung zur praktischen Ausbildung von Luftschiffführern (zu § 20)
 
@@ -22678,10 +22493,6 @@ Luftschiffführer zu vermitteln.
 
 -   Verhalten nach einer Notlandung
 
-
-
-
-
 ### Anlage 17D Lehrplan für die praktische Ausbildung zum Erwerb der Berechtigung zur praktischen Ausbildung von Luftschiffführern (zu § 20)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
@@ -22735,7 +22546,6 @@ praktische Ausbildung zum Erwerb einer Lizenz für Luftschiffführer“
 (siehe Anlage 8B (zu §11)) abgedeckt werden, wobei hier das Erlernen
 der Lehrmethodik den Schwerpunkt der praktischen Ausbildung darstellt.
 
-
 ### Anlage 17E Theoretische Prüfung zum Erwerb der Berechtigung zur praktischen Ausbildung von Luftschiffführern (zu § 20)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
@@ -22784,10 +22594,6 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
     einem Vorsitzenden und mindestens einem Beisitzer. Das Thema des
     Fluglehrerunterrichts wird von der zuständigen Stelle festgelegt. Die
     Lehrprobe wird mit „bestanden“ oder „nicht bestanden“ bewertet.
-
-
-
-
 
 ### Anlage 17F Praktische Prüfung zum Erwerb der Berechtigung zur praktischen Ausbildung von Luftschiffführern (zu § 20)
 

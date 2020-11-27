@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 2 Abs. 12 G v. 19.2.2007 I 122 mWv 1.1.2009
 
-
 ## § 1 Anwendungsbereich
 
 (1) Eine Person, ohne deren Angaben in einem Strafverfahren die
@@ -50,7 +49,6 @@ allgemeinem Gefahrenabwehrrecht. Die Beendigung des Strafverfahrens
 führt nicht zur Aufhebung der Zeugenschutzmaßnahmen, soweit die
 Gefährdung fortbesteht.
 
-
 ## § 2 Zeugenschutzdienststellen
 
 (1) Der Schutz einer Person nach Maßgabe dieses Gesetzes obliegt der
@@ -80,7 +78,6 @@ Staatsanwaltschaft herzustellen. Nach diesem Zeitpunkt ist die
 Staatsanwaltschaft von der beabsichtigten Beendigung des
 Zeugenschutzes in Kenntnis zu setzen.
 
-
 ## § 3 Geheimhaltung, Verpflichtung
 
 Wer mit dem Zeugenschutz befasst wird, darf die ihm bekannt gewordenen
@@ -90,7 +87,6 @@ Personen, die nicht Amtsträger (§ 11 Abs. 1 Nr. 2 des
 Strafgesetzbuches) sind, sollen nach dem Gesetz über die förmliche
 Verpflichtung nicht beamteter Personen verpflichtet werden, sofern
 dies geboten erscheint.
-
 
 ## § 4 Verwendung personenbezogener Daten
 
@@ -119,7 +115,6 @@ beeinträchtigt wird.
 (6) Die öffentlichen und nicht öffentlichen Stellen teilen der
 Zeugenschutzdienststelle jedes Ersuchen um Bekanntgabe von gesperrten
 oder sonst von ihr bestimmten Daten unverzüglich mit.
-
 
 ## § 5 Vorübergehende Tarnidentität
 
@@ -150,7 +145,6 @@ Identität am Rechtsverkehr teilnehmen.
 Zeugenschutzdienststellen entsprechend, soweit dies zur Erfüllung
 ihrer Aufgaben unerlässlich ist.
 
-
 ## § 6 Aufhebung von Maßnahmen des Zeugenschutzes
 
 Wird der Zeugenschutz insgesamt beendet oder sind einzelne Maßnahmen
@@ -160,7 +154,6 @@ unter Berücksichtigung der Belange des Zeugenschutzes die beteiligten
 die nach den §§ 4 und 5 getroffenen Maßnahmen auf. Die
 Zeugenschutzdienststelle zieht Tarndokumente ein, deren Verwendung
 nicht mehr erforderlich ist.
-
 
 ## § 7 Ansprüche gegen Dritte
 
@@ -185,14 +178,12 @@ unterbrochen wurde. Der Antrag kann nur innerhalb eines Jahres nach
 Ende der Maßnahmen gestellt werden. § 209 des Sechsten Buches
 Sozialgesetzbuch findet Anwendung.
 
-
 ## § 8 Zuwendungen der Zeugenschutzdienststelle
 
 Zuwendungen der Zeugenschutzdienststelle dürfen nur in dem Umfang
 gewährt werden, als dies für den Zeugenschutz erforderlich ist. Sie
 können insbesondere zurückgefordert werden, wenn sie auf Grund
 wissentlich falscher Angaben gewährt worden sind.
-
 
 ## § 9 Ansprüche Dritter
 
@@ -204,7 +195,6 @@ Zeugenschutzdienststelle offen zu legen.
 (2) Die Zeugenschutzdienststelle trägt dafür Sorge, dass die
 Erreichbarkeit der zu schützenden Person im Rechtsverkehr nicht durch
 Maßnahmen des Zeugenschutzes vereitelt wird.
-
 
 ## § 10 Zeugenschutz in justizförmigen Verfahren
 
@@ -226,7 +216,6 @@ als Zwecke des Zeugenschutzes dem nicht entgegenstehen.
 
 (3) Für das Strafverfahren bleibt es bei den Vorschriften der §§ 68,
 110b Abs. 3 der Strafprozessordnung.
-
 
 ## § 11 Zeugenschutz bei freiheitsentziehenden Maßnahmen
 

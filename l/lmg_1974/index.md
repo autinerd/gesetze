@@ -21,16 +21,13 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 Abs. 16 G v. 22.12.2011 I 3044
 
-
 ## § 1
 
 (weggefallen)
 
-
 ## § 2
 
 (weggefallen)
-
 
 ## § 3 Tabakerzeugnisse
 
@@ -62,11 +59,9 @@ bestimmt sind.
 Absatzes 1 und des Absatzes 2 Nr. 1 zur Linderung von
 Asthmabeschwerden.
 
-
 ## § 4
 
 (weggefallen)
-
 
 ## § 5 Bedarfsgegenstände
 
@@ -88,7 +83,6 @@ durch toxikologisch wirksame Stoffe oder durch Verunreinigungen,
 gesundheitsgefährdende Einwirkungen auf den menschlichen Körper
 ausgehen können, den Bedarfsgegenständen gleichzustellen.
 
-
 ## § 6 Verbraucher
 
 (1) Verbraucher im Sinne dieses Gesetzes ist derjenige, an den
@@ -99,7 +93,6 @@ eigenen Haushalt abgegeben werden.
 Gemeinschaftsverpflegung sowie Gewerbetreibende, soweit sie in Absatz
 1 genannte Erzeugnisse zum Verbrauch innerhalb ihrer Betriebsstätte
 beziehen.
-
 
 ## § 7 Sonstige Begriffsbestimmungen
 
@@ -138,11 +131,9 @@ Abgabe in Genossenschaften oder sonstigen Personenvereinigungen für
 deren Mitglieder sowie in Einrichtungen zur Gemeinschaftsverpflegung
 gleich.
 
-
 ## (XXXX) §§ 8 bis 12 (weggefallen)
 
 -
-
 
 ## § 13 Bestrahlungsverbot und Zulassungsermächtigung
 
@@ -170,10 +161,6 @@ Zustimmung des Bundesrates,
 
 2.  soweit es zum Schutz des Verbrauchers erforderlich ist, bestimmte
     technische Verfahren für zugelassene Bestrahlungen vorzuschreiben.
-
-
-
-
 
 ## § 14 Pflanzenschutz- oder sonstige Mittel
 
@@ -228,14 +215,9 @@ Rechtsverordnung mit Zustimmung des Bundesrates,
 2.  soweit es mit dem Schutz des Verbrauchers vereinbar ist, Ausnahmen von
     dem Verbot des Absatzes 1 Nr. 2 zuzulassen.
 
-
-
-
-
 ## § 15
 
 (weggefallen)
-
 
 ## § 16 Kenntlichmachung
 
@@ -257,10 +239,6 @@ der Verbraucherin oder des Verbrauchers erforderlich ist,
 
 2.  vorzuschreiben, dass Tabakerzeugnissen bestimmte Angaben, insbesondere
     über die Anwendung der Stoffe, beizufügen sind.
-
-
-
-
 
 ## § 17 Verbote zum Schutz vor Täuschung
 
@@ -315,15 +293,7 @@ Es ist verboten,
 
     c)  wenn Tabakerzeugnissen der Anschein eines Arzneimittels gegeben wird.
 
-
-
-
-
-
-
-
 ## (XXXX) §§ 18 bis 19a (weggefallen)
-
 
 ## § 20 Verwendungsverbot und Zulassungsermächtigung
 
@@ -379,13 +349,6 @@ Rechtsverordnung mit Zustimmung des Bundesrates,
 
     b)  Vorschriften über die Kenntlichmachung des Gehalts an zugelassenen
         Stoffen zu erlassen.
-
-
-
-
-
-
-
 
 ## § 21 Ermächtigungen
 
@@ -491,7 +454,6 @@ Rechtsverordnung mit Zustimmung des Bundesrates,
 erlassenen Rechtsverordnung nicht entsprechen, dürfen gewerbsmäßig
 nicht in den Verkehr gebracht werden.
 
-
 ## § 21a Werbe- und Sponsoringverbote zur Umsetzung der Richtlinie 2003/33/EG
 
 (1) Im Sinne dieser Vorschrift sind:
@@ -570,7 +532,6 @@ Veranstaltung, deren Sponsoring nach Absatz 6 verboten ist, mit dem
 Ziel oder der direkten oder indirekten Wirkung, den Verkauf von
 Tabakerzeugnissen zu fördern, kostenlos zu verteilen.
 
-
 ## § 21b Bestimmte Verbote zur Umsetzung der Richtlinie über audiovisuelle Mediendienste
 
 (1) Im Sinne dieser Vorschrift sind:
@@ -607,7 +568,6 @@ von Tabakerzeugnissen ist, sind verboten.
 
 (4) Jede sonstige Form der audiovisuellen kommerziellen Kommunikation
 für Tabakerzeugnisse ist verboten.
-
 
 ## § 22 Werbeverbote
 
@@ -658,10 +618,6 @@ Verbote des Absatzes 2 zu erlassen, insbesondere
 2.  die Verwendung von Darstellungen oder Äußerungen von Angehörigen
     bestimmter Personengruppen zu verbieten oder zu beschränken.
 
-
-
-
-
 ## § 22a Von bestimmten Werbeverboten nicht erfasste Bereiche
 
 Die Verbote des § 21a Absatz 2 und 3 Satz 1, auch in Verbindung mit
@@ -673,26 +629,21 @@ einer dort genannten Veröffentlichung, die den Vorschriften dieses
 Gesetzes in der bis zum 29. Dezember 2006 geltenden Fassung
 entspricht.
 
-
 ## § 23
 
 (weggefallen)
-
 
 ## § 24
 
 (weggefallen)
 
-
 ## § 25
 
 (weggefallen)
 
-
 ## (XXXX) §§ 26 bis 29 (weggefallen)
 
 -
-
 
 ## § 30 Verbote zum Schutz der Gesundheit
 
@@ -710,10 +661,6 @@ Es ist verboten,
     stoffliche Zusammensetzung, insbesondere durch toxikologisch wirksame
     Stoffe oder durch Verunreinigungen, zu schädigen, als
     Bedarfsgegenstände in den Verkehr zu bringen.
-
-
-
-
 
 ## § 31 Übergang von Stoffen auf Tabakerzeugnisse
 
@@ -735,7 +682,6 @@ Zustimmung des Bundesrates auf das Bundesamt für Verbraucherschutz und
 Lebensmittelsicherheit übertragen; das Bundesamt für Verbraucherschutz
 und Lebensmittelsicherheit bedarf zum Erlaß solcher Rechtsverordnungen
 nicht der Zustimmung des Bundesrates.
-
 
 ## § 32 Ermächtigungen
 
@@ -827,11 +773,9 @@ nicht in den Verkehr gebracht werden.
 den Bundesministerien für Wirtschaft und Technologie, für Umwelt,
 Naturschutz und Reaktorsicherheit.
 
-
 ## (XXXX) §§ 33 und 34 (weggefallen)
 
 -
-
 
 ## § 35 Amtliche Sammlung von Untersuchungsverfahren
 
@@ -842,7 +786,6 @@ Untersuchung von Tabakerzeugnissen und Bedarfsgegenständen
 Mitwirkung von Sachkennern aus den Bereichen der Überwachung, der
 Wissenschaft und der beteiligten Wirtschaft festgelegt. Die Sammlung
 ist laufend auf dem neuesten Stand zu halten.
-
 
 ## § 36 Ausnahmeermächtigungen für Krisenzeiten
 
@@ -859,7 +802,6 @@ Bildung und Forschung.
 
 (2) Die Geltungsdauer von Rechtsverordnungen nach Absatz 1 ist zu
 befristen.
-
 
 ## § 37 Zulassung von Ausnahmen
 
@@ -903,7 +845,6 @@ zu erlassen.
 
 (8) (weggefallen)
 
-
 ## § 38 Rechtsverordnungen in Dringlichkeitsfällen
 
 (1) Rechtsverordnungen nach diesem Gesetz können bei Gefahr im Verzuge
@@ -927,7 +868,6 @@ des Bundesrates verlängert werden.
 abweichend von § 2 Absatz 1 des Verkündungs- und
 Bekanntmachungsgesetzes im Bundesanzeiger verkündet werden.
 
-
 ## § 38a Rechtsverordnungen zur Angleichung an Gemeinschaftsrecht oder Unionsrechts
 
 (1) Rechtsverordnungen nach diesem Gesetz können auch zum Zwecke der
@@ -943,14 +883,12 @@ Vorschriften aus Rechtsakten der Organe der Europäischen Gemeinschaft
 oder der Europäischen Union dienen, ohne Zustimmung des Bundesrates
 erlassen.
 
-
 ## § 39 Anhörung von Sachkennern
 
 Vor Erlaß von Verordnungen nach diesem Gesetz soll ein jeweils
 auszuwählender Kreis von Sachkennern aus der Wissenschaft, der
 Verbraucherschaft und der beteiligten Wirtschaft gehört werden. Dies
 gilt nicht für Verordnungen nach den §§ 38, 44 und 48.
-
 
 ## § 40 Zuständigkeit für die Überwachung
 
@@ -1014,7 +952,6 @@ sofern sie andere Vertragsstaaten des Abkommens über den Europäischen
 Wirtschaftsraum betreffen, an die Europäische Kommission.
 
 (8) (weggefallen)
-
 
 ## § 41 Durchführung der Überwachung
 
@@ -1083,7 +1020,6 @@ Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
 (5) (weggefallen)
 
-
 ## § 42 Probenahme
 
 (1) Soweit es zur Durchführung der Vorschriften über den Verkehr mit
@@ -1113,7 +1049,6 @@ Sinne dieses Gesetzes, die auf Märkten, Straßen oder öffentlichen
 Plätzen oder im Reisegewerbe in den Verkehr gebracht werden oder die
 vor Abgabe an den Verbraucher unterwegs sind.
 
-
 ## § 43 Duldungs- und Mitwirkungspflichten
 
 Die Inhaber der in § 41 bezeichneten Grundstücke, Räume, Einrichtungen
@@ -1124,7 +1059,6 @@ der Überwachung tätigen Personen bei der Erfüllung ihrer Aufgabe zu
 unterstützen, insbesondere ihnen auf Verlangen die Räume,
 Einrichtungen und Geräte zu bezeichnen, Räume und Behältnisse zu
 öffnen und die Entnahme der Proben zu ermöglichen.
-
 
 ## § 43a Außenverkehr
 
@@ -1137,7 +1071,6 @@ Landesbehörden übertragen. Ferner kann es im Einzelfall im Benehmen
 mit der zuständigen obersten Landesbehörde dieser die Befugnis
 übertragen. Die obersten Landesbehörden können die Befugnisse nach den
 Sätzen 2 und 3 auf andere Behörden übertragen.
-
 
 ## § 44 Ermächtigungen
 
@@ -1166,20 +1099,14 @@ Zustimmung des Bundesrates,
     Bedarfsgegenständen vom Ergebnis der Stichprobenuntersuchung dieser
     Partie abhängig zu machen.
 
-
-
-
-
 ## § 45
 
 (weggefallen)
-
 
 ## § 46 Landesrechtliche Bestimmungen
 
 Die Länder können zur Durchführung der Überwachung weitere
 Vorschriften erlassen.
-
 
 ## § 46a Gebühren
 
@@ -1206,7 +1133,6 @@ erlassenen Rechtsakte zu bemessen. Für Amtshandlungen, die auf
 besonderen Antrag außerhalb der normalen Öffnungszeiten vorgenommen
 werden, kann eine Vergütung verlangt werden.
 
-
 ## § 46b Unmittelbar geltendes Gemeinschaftsrecht oder Unionsrechts
 
 Die §§ 40 bis 46a finden auch Anwendung auf die Überwachung von
@@ -1214,7 +1140,6 @@ Erzeugnissen im Sinne dieses Gesetzes, soweit sie Vorschriften in
 unmittelbar geltenden Rechtsakten der Europäischen Gemeinschaft oder
 der Europäischen Union unterliegen, die in diesem Gesetz geregelte
 Sachbereiche betreffen.
-
 
 ## § 47 Verbringungsverbote
 
@@ -1281,7 +1206,6 @@ anderes ergibt.
 nach § 50 Abs. 3. Für diese Waren können Regelungen nach § 49
 getroffen werden.
 
-
 ## § 47a Erzeugnisse aus anderen Mitgliedstaaten oder anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
 
 (1) Abweichend von § 47 Abs. 1 Satz 1 dürfen Erzeugnisse im Sinne
@@ -1331,7 +1255,6 @@ zu unterrichten.
 
 (4) (weggefallen)
 
-
 ## § 47b Vorübergehende Verbringungsverbote
 
 Die zuständigen Behörden dürfen die Einfuhr oder das sonstige
@@ -1345,10 +1268,6 @@ Einzelfall vorübergehend verbieten oder beschränken, wenn
 
 2.  Tatsachen vorliegen, die darauf schließen lassen, daß die Erzeugnisse
     geeignet sind, die menschliche Gesundheit zu gefährden.
-
-
-
-
 
 ## § 48 Mitwirkung von Zolldienststellen
 
@@ -1384,7 +1303,6 @@ dabei insbesondere Pflichten zu Anzeigen, Anmeldungen, Auskünften und
 zur Leistung von Hilfsdiensten sowie zur Duldung der Einsichtnahme in
 Geschäftspapiere und sonstige Unterlagen und zur Duldung von
 Besichtigungen und von Entnahmen unentgeltlicher Proben vorsehen.
-
 
 ## § 49 Ermächtigungen
 
@@ -1487,10 +1405,6 @@ erforderlich ist,
 
 2.  für die Durchfuhr Vorschriften nach Absatz 1 zu erlassen.
 
-
-
-
-
 ## § 50 Ausfuhr
 
 (1) Auf Erzeugnisse im Sinne dieses Gesetzes, die zur Lieferung in das
@@ -1559,7 +1473,6 @@ Erzeugnissen im Sinne dieses Gesetzes in andere Mitgliedstaaten oder
 andere Vertragsstaaten des Abkommens über den Europäischen
 Wirtschaftsraum oder in Drittländer zu verbieten oder zu beschränken.
 
-
 ## § 51 Straftaten
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
@@ -1607,7 +1520,6 @@ Handlungen
 
 (4) Wer in den Fällen des Absatzes 1 fahrlässig handelt, wird mit
 Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
-
 
 ## § 52 Straftaten
 
@@ -1687,10 +1599,6 @@ bestraft, wer
 
 11. (weggefallen)
 
-
-
-
-
 ## § 53 Ordnungswidrigkeiten
 
 (1) Ordnungswidrig handelt, wer eine der in § 52 Abs. 1 Nr. 5 bis 10
@@ -1726,7 +1634,6 @@ wer vorsätzlich oder fahrlässig
 
 (3) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
 fünfundzwanzigtausend Euro geahndet werden.
-
 
 ## § 54 Ordnungswidrigkeiten
 
@@ -1782,14 +1689,12 @@ fünfundzwanzigtausend Euro geahndet werden.
 Geldbuße bis zu fünfzehntausend Euro, in den Fällen des Absatzes 2 mit
 einer Geldbuße bis zu fünftausend Euro geahndet werden.
 
-
 ## § 55 Einziehung
 
 Gegenstände, auf die sich eine Straftat nach § 52 oder eine
 Ordnungswidrigkeit nach § 53 oder 54 bezieht, können eingezogen
 werden. § 74a des Strafgesetzbuches und § 23 des Gesetzes über
 Ordnungswidrigkeiten sind anzuwenden.
-
 
 ## § 56 Straftaten
 
@@ -1806,7 +1711,6 @@ Strafvorschrift verweist.
 
 (3) Wer in den Fällen des Absatzes 1 fahrlässig handelt, wird mit
 Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
-
 
 ## § 57 Straftaten
 
@@ -1852,7 +1756,6 @@ zuwiderhandelt, die inhaltlich
 entspricht, soweit eine Rechtsverordnung nach § 60 auf diese
 Strafvorschrift verweist.
 
-
 ## § 58 Ordnungswidrigkeiten
 
 (1) Ordnungswidrig handelt, wer eine in § 57 bezeichnete Handlung
@@ -1885,7 +1788,6 @@ fahrlässig begeht.
 (3) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
 fünfundzwanzigtausend Euro geahndet werden.
 
-
 ## § 59 Ordnungswidrigkeiten
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer
@@ -1916,7 +1818,6 @@ Bußgeldvorschrift verweist.
 einer Geldbuße bis zu fünfzehntausend Euro, in den Fällen des Absatzes
 1 Nr. 2 mit einer Geldbuße bis zu fünftausend Euro geahndet werden.
 
-
 ## § 60 Ermächtigungen
 
 Das Bundesministerium wird ermächtigt, soweit dies zur Durchsetzung
@@ -1929,10 +1830,6 @@ Bundesrates die Tatbestände zu bezeichnen, die
 
 2.  als Ordnungswidrigkeit nach § 58 Abs. 2 oder § 59 Abs. 1 geahndet
     werden können.
-
-
-
-
 
 ## § 61 Einziehung
 

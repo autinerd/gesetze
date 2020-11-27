@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 21.2.2005 I 323
 
-
 ## Eingangsformel
 
 Auf Grund
@@ -66,7 +65,6 @@ Auf Grund
 jeweils in Verbindung mit dem 2. Abschnitt des
 Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821):
 
-
 ## § 1 Anwendungsbereich
 
 (1) Die See-Berufsgenossenschaft erhebt für Amtshandlungen auf den
@@ -85,7 +83,6 @@ geregelten Auftragsverhältnisses sowie für Tätigkeiten der vom
 Germanischen Lloyd anerkannten im Ausland ansässigen freiberuflichen
 Besichtiger auf dem Gebiet der Schiffssicherheit werden durch diese
 Verordnung nicht berührt.
-
 
 ## § 2 Gebührenbemessung
 
@@ -136,18 +133,15 @@ berechnet.
 seitens der Verwaltung für ein und dasselbe Schiff erteilt, so werden
 höchstens für zwei Testate Gebühren erhoben.
 
-
 ## § 3 Stundung, Niederschlagung und Erlass von Gebührenforderungen
 
 Für die Stundung, die Niederschlagung und den Erlass von Forderungen
 auf Zahlung von Gebühren, Auslagen und sonstigen Nebenleistungen
 gelten die Vorschriften der Bundeshaushaltsordnung entsprechend.
 
-
 ## § 4 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2002 in Kraft.
-
 
 ## Anlage (zu § 2 Abs. 1) Gebührenverzeichnis
 
@@ -2870,10 +2864,6 @@ Fundstelle des Originaltextes: BGBl. I S. 2005, 324 - 335
         jedoch vor deren Beendigung**
 
     *   **bis zu 75 vom Hundert der Gebühr nach Nummer 1303**
-
-
-
-
 
 ## Anhang 1 zum Gebührenverzeichnis
 

@@ -21,17 +21,14 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 333 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art 1
 
 -
-
 
 ## Art 2
 
@@ -47,7 +44,6 @@ ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
 Abweichungen von einem Beschluß nach Absatz 1 festzulegen, wenn der
 Beschluß dieses vorsieht.
 
-
 ## Art 3
 
 Die Einziehung der Gebühr gemäß Artikel 11 der Vereinbarung wird auf
@@ -61,11 +57,9 @@ vom 14. Dezember 1976 (BGBl. I S. 3341), findet Anwendung; den
 Leistungsbescheid gemäß § 3 Abs. 2 Buchstabe a des Verwaltungs-
 Vollstreckungsgesetzes erläßt die Bundesanstalt für Flugsicherung.
 
-
 ## Art 4
 
 -
-
 
 ## Art 5
 

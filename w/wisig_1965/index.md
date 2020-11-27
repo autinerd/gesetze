@@ -22,7 +22,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 134 V v. 31.10.2006 I 2407
 
-
 ## § 1 Maßnahmen zur Sicherstellung
 
 (1) Um die für Zwecke der Verteidigung, insbesondere zur Deckung des
@@ -93,10 +92,6 @@ Rechtsverordnung Vorschriften erlassen werden über
 2.  die vorübergehende Schließung von Kreditinstituten und
     Wertpapierbörsen.
 
-
-
-
-
 ## § 2 Voraussetzungen und Grenzen der Sicherstellung
 
 (1) Rechtsverordnungen nach § 1 dürfen nur nach Maßgabe des Artikels
@@ -119,7 +114,6 @@ der wirtschaftlichen Betätigung so wenig wie möglich eingegriffen und
 die Leistungsfähigkeit der Gesamtwirtschaft möglichst wenig
 beeinträchtigt wird.
 
-
 ## § 3 Buchführungs- und Meldepflichten
 
 Durch Rechtsverordnungen können zu den in § 1 genannten Zwecken
@@ -127,7 +121,6 @@ Buchführungs- und Meldepflichten hinsichtlich der Güter und
 Leistungen, über die nach § 1 Vorschriften erlassen werden können,
 sowie hinsichtlich der Leistungsfähigkeit von Betrieben der
 gewerblichen Wirtschaft begründet werden.
-
 
 ## § 4 Vorratshaltung
 
@@ -167,7 +160,6 @@ des gewerblichen Betriebs mit dem für die Vermögensbesteuerung
 maßgebenden Wert, vermindert um den nach Absatz 3 vorgenommenen
 Bewertungsabschlag, anzusetzen.
 
-
 ## § 5 Rechtsverordnungen
 
 (1) Rechtsverordnungen nach den §§ 1, 3 und 4 erläßt die
@@ -199,7 +191,6 @@ Satz 1 durch Rechtsverordnung ohne Zustimmung des Bundesrates auf die
 Landesregierungen, auch mit der Ermächtigung zur Weiterübertragung der
 Befugnis, übertragen.
 
-
 ## § 6 Zustimmungsbedürftigkeit der Rechtsverordnungen
 
 (1) Rechtsverordnungen der Bundesregierung, des Bundesministeriums für
@@ -211,7 +202,6 @@ der Geltungsdauer ist nur mit Zustimmung des Bundesrates möglich.
 (2) Nach Eintritt der Voraussetzung des § 2 Abs. 1 bedürfen
 Rechtsverordnungen nach den §§ 1, 3 und 4 nicht der Zustimmung des
 Bundesrates.
-
 
 ## § 7 Geltungsdauer der Rechtsverordnungen
 
@@ -230,7 +220,6 @@ Ausfuhrkontrolle (BAFA), der Landesregierungen oder der von diesen
 ermächtigten Stellen, die auf Grund einer Rechtsverordnung nach § 5
 Abs. 2 Satz 2 erlassen werden, treten spätestens mit dieser
 Rechtsverordnung außer Kraft.
-
 
 ## § 8 Ausführung des Gesetzes
 
@@ -285,7 +274,6 @@ Zuständigkeit zur Ausführung dieser Verordnungen geregelt und dabei
 bestimmt werden, daß für die Aufgaben zur Ausführung dieser
 Verordnungen besondere Stellen einzurichten sind.
 
-
 ## § 9 Verfügungen
 
 Die Rechtsverordnungen der Bundesregierung, des Bundesministeriums für
@@ -297,7 +285,6 @@ Auswirkungen der zu regelnden Angelegenheit auf mehr als ein Land
 erstrecken und der Zweck der Rechtsverordnungen mittels einer Weisung
 nach Artikel 85 Abs. 3 des Grundgesetzes und durch Verfügung der
 Landesbehörden nicht oder nicht rechtzeitig erreicht werden kann.
-
 
 ## § 10 Mitwirkung von Vereinigungen
 
@@ -330,14 +317,12 @@ insoweit auch deren Aufsicht.
 
 (3)
 
-
 ## § 11 Vorbereitung des Vollzugs
 
 Der Bund, die Länder, die Gemeinden und Gemeindeverbände haben die
 personellen, organisatorischen und materiellen Voraussetzungen zur
 Durchführung der Maßnahmen zu schaffen, die für die in § 1
 bezeichneten Zwecke erforderlich sind.
-
 
 ## § 12 Rechtsmittelbeschränkung
 
@@ -348,7 +333,6 @@ Entscheidung des Gerichts ausgeschlossen, wenn die Voraussetzung des §
 2 Abs. 1 vorliegt. Dies gilt nicht, wenn das Urteil oder die andere
 Entscheidung des Verwaltungsgerichts vor Eintritt der Voraussetzung
 des § 2 Abs. 1 verkündet oder zugestellt worden ist.
-
 
 ## § 13 Kosten
 
@@ -374,7 +358,6 @@ auf die für Rechnung des Bundes zu leistenden Ausgaben und die mit
 ihnen zusammenhängenden Einnahmen die landesrechtlichen Vorschriften
 über die Kassen- und Buchführung der zuständigen Landes- und
 Gemeindebehörden angewendet werden.
-
 
 ## § 14 Auskünfte
 
@@ -406,7 +389,6 @@ Steuerordnungswidrigkeit verwendet werden. Die Vorschriften der §§ 93,
 97, 105 Abs. 1, § 111 Abs. 5 in Verbindung mit § 105 Abs. 1 sowie §
 116 Abs. 1 der Abgabenordnung gelten insoweit nicht.
 
-
 ## § 15 Entschädigung
 
 (1) Stellt eine Maßnahme auf Grund dieses Gesetzes oder einer nach
@@ -436,7 +418,6 @@ Bundesleistungsgesetzes entsprechend anzuwenden. Dabei treten an die
 Stelle der Anforderungsbehörden die Behörden, welche die Maßnahmen im
 Sinne des Absatzes 1 angeordnet haben.
 
-
 ## § 16 Härteausgleich
 
 (1) Wird durch eine Maßnahme auf Grund dieses Gesetzes oder einer nach
@@ -449,7 +430,6 @@ Abwendung oder zum Ausgleich unbilliger Härten geboten erscheint.
 verpflichtet.
 
 (3) § 15 Abs. 3 ist entsprechend anzuwenden.
-
 
 ## § 17 Zustellungen
 
@@ -472,10 +452,6 @@ des Verwaltungszustellungsgesetzes mit folgender Maßgabe:
     Ausfertigung der Verfügung ist gleichzeitig dem Eigentümer oder
     Besitzer zu übermitteln.
 
-
-
-
-
 ## § 18 Zuwiderhandlung gegen Sicherstellungsmaßnahmen
 
 Wer vorsätzlich oder fahrlässig gegen eine Vorschrift einer auf Grund
@@ -484,7 +460,6 @@ Grund einer solchen Rechtsverordnung ergangene vollziehbare Verfügung
 verstößt, begeht eine Zuwiderhandlung im Sinne des
 Wirtschaftsstrafgesetzes 1954, soweit die Rechtsverordnung für einen
 bestimmten Tatbestand auf diese Vorschrift verweist.
-
 
 ## § 19 Verletzung der Auskunftspflicht
 
@@ -504,11 +479,9 @@ bestimmten Tatbestand auf diese Vorschrift verweist.
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
 zwanzigtausend Deutsche Mark geahndet werden.
 
-
 ## § 20
 
 -
-
 
 ## § 21 Zuständige Verwaltungsbehörde
 
@@ -544,23 +517,14 @@ Ordnungswidrigkeiten ist
         oberste Landesbehörde oder die in der Rechtsverordnung bestimmte
         Behörde.
 
-
-
-
-
-
-
-
 ## § 22
 
 -
-
 
 ## § 23 Einschränkung der Grundrechte
 
 Das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des
 Grundgesetzes) wird nach Maßgabe dieses Gesetzes eingeschränkt.
-
 
 ## § 24 Inkrafttreten
 

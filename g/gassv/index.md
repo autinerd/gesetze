@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 Abs. 48 G v. 7. 7.2005 I 1970
 
-
 ## Eingangsformel
 
 Auf Grund des § 1 Abs. 1 und 3, des § 2 Abs. 3, des § 3 Abs. 1 und 3
@@ -26,7 +25,6 @@ sowie des § 16 Nr. 2 Buchstabe a des Energiesicherungsgesetzes 1975
 vom 20. Dezember 1974 (BGBl. I S. 3681), das durch Gesetz vom 19.
 Dezember 1979 (BGBl. I S. 2305) zuletzt geändert worden ist, verordnet
 die Bundesregierung mit Zustimmung des Bundesrates:
-
 
 ## § 1
 
@@ -94,7 +92,6 @@ Satz 3 begründet worden sind. Verträge, die auf Grund oder durch
 Verfügung nach Absatz 2 geändert worden sind, leben mit ihrem
 ursprünglichen Inhalt wieder auf.
 
-
 ## § 2
 
 (1) Unternehmen und Betriebe, die Gas gewinnen, herstellen oder
@@ -117,7 +114,6 @@ daß die Energieversorgung im Sinne des § 1 Abs. 1 oder § 2 Abs. 3 des
 Energiesicherungsgesetzes 1975 gefährdet oder gestört ist, Meldungen
 nach Absatz 1 verlangen.
 
-
 ## § 3
 
 (1) Gas im Sinne dieser Verordnung sind brennbare, verdichtete oder
@@ -126,7 +122,6 @@ Gasversorgung mittelbar oder unmittelbar geeignet sind.
 
 (2) Auf Flüssiggas ist diese Verordnung insoweit anzuwenden, als es
 für die leitungsgebundene öffentliche Gasversorgung verwendet wird.
-
 
 ## § 4
 
@@ -140,21 +135,15 @@ fahrlässig
 2.  eine Meldung nach § 2 nicht richtig, nicht vollständig oder nicht
     rechtzeitig erstattet.
 
-
-
-
-
 ## § 5
 
 Verwaltungsbehörde im Sinne des § 16 Nr. 2 Buchstabe a des
 Energiesicherungsgesetzes 1975 ist die Bundesnetzagentur für
 Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen.
 
-
 ## § 6
 
 (weggefallen)
-
 
 ## § 7
 
@@ -169,10 +158,6 @@ wenn die Bundesregierung
 
 
 2.  die Anwendbarkeit durch Verordnung bestimmt.
-
-
-
-
 
 ## Anlage (zu § 2)
 

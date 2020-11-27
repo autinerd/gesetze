@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 Abs. 8 G v. 22.12.2011 I 3044
 
-
 ## Eingangsformel
 
 Auf Grund des § 73 des Personenstandsgesetzes vom 19. Februar 2007
@@ -34,9 +33,7 @@ September 1980 über die Ausstellung von Ehefähigkeitszeugnissen vom 5.
 Juni 1997 (BGBl. 1997 II S. 1086) verordnet das Bundesministerium des
 Innern im Benehmen mit dem Bundesministerium der Justiz:
 
-
 ## Kapitel 1 - Allgemeine Bestimmungen
-
 
 ### § 1 Standesamt
 
@@ -44,7 +41,6 @@ Innern im Benehmen mit dem Bundesministerium der Justiz:
 Standesämtern ist ein unterscheidender Zusatz hinzuzufügen.
 
 (2) Amtssitz sind die Diensträume des Standesamts.
-
 
 ### § 2 Übersetzung in die deutsche Sprache
 
@@ -66,7 +62,6 @@ werden. Dass dies geschehen ist, ist am Schluss der Niederschrift
 anzugeben. Die Niederschrift ist auch vom Dolmetscher zu
 unterschreiben.
 
-
 ### § 3 Behinderung, Verweigerung der Unterschrift
 
 (1) Ist ein Beteiligter hör- oder sprachbehindert und ist eine
@@ -77,7 +72,6 @@ Gebärdendolmetscher hinzuzuziehen. § 2 gilt entsprechend.
 gehindert, soll er ein Handzeichen machen. Ist das nicht möglich oder
 weigert sich ein Beteiligter zu unterschreiben, so ist dies mit Angabe
 des Grundes zu vermerken.
-
 
 ### § 4 Rückgabe von Urkunden
 
@@ -93,13 +87,11 @@ durch wen die Übertragung vorgenommen worden ist.
 Übersetzung beigefügt ist, soll eine beglaubigte Abschrift oder
 Ablichtung der Urkunde und der Übersetzung beim Standesamt verbleiben.
 
-
 ### § 5 Prüfungspflicht des Standesbeamten
 
 Eintragungen im Personenstandsregister und sonstige Beurkundungen
 dürfen erst vorgenommen werden, wenn der zugrunde liegende Sachverhalt
 ermittelt und abschließend geprüft worden ist.
-
 
 ### § 6 Anzeige eines Personenstandsfalls
 
@@ -114,7 +106,6 @@ sollen das Datenaustauschformat XPersonenstand und das
 gemachten jeweils gültigen Fassung verwendet werden; § 63 Abs. 3 gilt
 entsprechend.
 
-
 ### § 7 Zurückstellen der Beurkundung
 
 (1) Fehlen Angaben oder Nachweise für die Beurkundung eines
@@ -125,7 +116,6 @@ Fall in angemessener Frist nachzuholen.
 (2) Dem Anzeigenden ist auf Antrag eine Bescheinigung darüber
 auszustellen, dass der Personenstandsfall angezeigt wurde, aber noch
 nicht beurkundet werden konnte.
-
 
 ### § 8 Prüfung der Staatsangehörigkeit
 
@@ -148,15 +138,9 @@ Vorlage eines der folgenden Dokumente nachweisen:
 
 3.  Bescheinigung der zuständigen Behörde seines Heimatstaates.
 
-
-
-
-
 ## Kapitel 2 - Personenstandsregister
 
-
 ### Abschnitt 1 - Betrieb elektronischer Personenstandsregister
-
 
 #### § 9 Personenstandsregister, Registerinhalt
 
@@ -178,7 +162,6 @@ Personenstandsregister gespeichert.
 
 (4) Beurkundungen im Sinne des § 54 des Gesetzes sind die im Format
 XML gespeicherten Haupteinträge und Folgebeurkundungen.
-
 
 #### § 10 Anforderungen an den Betrieb von Personenstandsregistern und Sicherungsregistern
 
@@ -246,10 +229,6 @@ dokumentieren.
     allgemein zugänglicher Netze Verschlüsselungsverfahren angewendet
     werden, die dem jeweiligen Stand der Technik entsprechen
     (Übertragungssicherheit).
-
-
-
-
 
 #### § 11 Anforderungen an Datenverarbeitungsverfahren
 
@@ -338,10 +317,6 @@ Schnittstelle muss gewährleisten, dass
     Personenstandseintrags notwendigen Informationen bereitgestellt werden
     können.
 
-
-
-
-
 #### § 12 Herstellererklärung
 
 Für die Erfassung und Verarbeitung der nach dem Gesetz und dieser
@@ -349,7 +324,6 @@ Verordnung zu registrierenden Daten dürfen nur Programme eingesetzt
 werden, für die die Hersteller gegenüber dem Verwender bestätigen,
 dass die für die Registerführung maßgebenden Vorgaben des Gesetzes und
 dieser Verordnung erfüllt werden.
-
 
 #### § 13 Betriebs- und Sicherheitskonzept, Datenverarbeitungssysteme
 
@@ -367,7 +341,6 @@ der übertragenen Einträge überprüft und die Überprüfung dokumentiert
 werden. Es ist sicherzustellen, dass die in ausgesonderten
 Datenverarbeitungssystemen gespeicherten Daten spurenlos gelöscht
 werden.
-
 
 #### § 14 Berechtigungskonzept
 
@@ -397,9 +370,7 @@ Berechtigungsstufe fest. Die Zugriffsberechtigung für ein nach § 67
 des Gesetzes eingerichtetes zentrales Personenstandsregister wird
 durch Rechtsverordnung der Landesregierung geregelt.
 
-
 ### Abschnitt 2 - Führung der Personenstandsregister
-
 
 #### § 15 Personenstandsregister
 
@@ -422,7 +393,6 @@ diakritische Zeichen sind unverändert wiederzugeben. Dabei ist der
 Zeichensatz nach ISO/IEC 10646:2003 in der UTF-8-Kodierung zu
 verwenden.
 
-
 #### § 16 Haupteintrag
 
 (1) Der Personenstandsfall wird mit dem Haupteintrag erstmals
@@ -442,13 +412,11 @@ eines Jahres erhält die Eintragsnummer 1.
 (3) Die Nummer des Standesamts ergibt sich aus dem Verzeichnis der
 statistischen Ämter des Bundes und der Länder.
 
-
 #### § 17 Folgebeurkundungen
 
 Folgebeurkundungen sind, beginnend mit der Nummer 1, fortlaufend zu
 nummerieren. Für die Eintragung, Kennzeichnung, Signierung und
 Speicherung gilt § 16 entsprechend.
-
 
 #### § 18 Hinweise
 
@@ -461,7 +429,6 @@ Kindes ist auch dessen Vor- und Familienname anzugeben.
 (2) Einer elektronischen Signatur und einer Nummerierung bedarf es
 nicht.
 
-
 #### § 19 Aufbau und Gestaltung der Registereinträge
 
 Die Registereinträge müssen auf dem Bildschirm so dargestellt werden
@@ -469,7 +436,6 @@ können, wie es den Mustern der Anlagen 2 bis 5 entspricht; die
 Darstellung ist dem Beurkundungssachverhalt anzupassen und kann
 programmgerecht eingerichtet werden, soweit dies im Einzelfall
 notwendig ist.
-
 
 #### § 20 Sicherungsregister
 
@@ -484,7 +450,6 @@ Sicherungsregister ist so einzurichten, dass es bei Beschädigung der
 Anlagen oder der Daten des Personenstandsregisters nicht in
 Mitleidenschaft gezogen wird; die §§ 11 und 12 gelten entsprechend.
 
-
 #### § 21 Abschluss der Personenstandsregister
 
 Die Personenstands- und Sicherungsregister sind vom Standesbeamten
@@ -493,7 +458,6 @@ nach dem letzten Eintrag eines jeden Kalenderjahres mit einem Vermerk
 dauerhaft überprüfbaren qualifizierten elektronischen Signatur zu
 versehen ist.
 
-
 #### § 22 Sammelakten
 
 Die Sammelakten (§ 6 des Gesetzes) können auch elektronisch geführt
@@ -501,7 +465,6 @@ oder auf Mikrofilm oder einem anderen vergleichbar sicheren Medium
 gespeichert werden; in diesem Fall gilt § 13 entsprechend. Bei
 Übertragung in ein elektronisches Dokument genügt ein Vermerk, der
 angibt, wann und durch wen die Übertragung vorgenommen worden ist.
-
 
 #### § 23 Namensangabe
 
@@ -521,7 +484,6 @@ ausländischen Namensform bezeichnet werden.
 (4) Für die Angabe von Namen in familienrechtlichen Beurkundungen
 gelten die Absätze 1 bis 3 und § 35 entsprechend.
 
-
 #### § 24 Neubeurkundung nach Verlust eines Personenstandsregisters
 
 (1) Über die vollständige oder teilweise Wiederherstellung eines
@@ -540,14 +502,12 @@ es sich bei dem Papierregister um ein als Heiratseintrag fortgeführtes
 Familienbuch, so ist bei dessen Verlust der Heiratseintrag im
 Heiratsbuch zu aktualisieren und fortzuführen.
 
-
 #### § 25 Übergabe der Register und Sammelakten an Archive
 
 Bei der Übergabe eines Personenstandsregisters, eines
 Sicherungsregisters und von Sammelakten an ein Archiv ist durch eine
 Übergabeniederschrift aktenkundig zu machen, welchem Archiv es
 übergeben worden ist.
-
 
 #### § 26 Suchverzeichnisse
 
@@ -567,7 +527,6 @@ Suchergebnis angezeigt wird.
 (3) Die Suchverzeichnisse sind so einzurichten, dass sie von anderen
 Standesämtern elektronisch eingesehen werden können.
 
-
 #### § 27 Verzeichnisse beim Standesamt I in Berlin
 
 Für die beim Standesamt I in Berlin geführten elektronischen
@@ -575,9 +534,7 @@ Verzeichnisse nach § 41 Abs. 2 Satz 3, § 42 Abs. 2 Satz 4, § 43 Abs. 2
 Satz 5 und § 45 Abs. 2 Satz 4 des Gesetzes sowie für die Verzeichnisse
 über Personenstandsfälle im Ausland gilt § 26 entsprechend.
 
-
 ## Kapitel 3 - Eheschließung
-
 
 ### § 28 Anmeldung
 
@@ -596,7 +553,6 @@ entgegengenommen hat, ob ein Ehehindernis vorliegt. Liegt ein
 Ehehindernis nicht vor, sind die vollständigen Anmeldeunterlagen mit
 einem Vermerk über das Ergebnis der Prüfung an das Standesamt zu
 senden, bei dem die Ehe geschlossen werden soll.
-
 
 ### § 29 Eheschließung
 
@@ -618,9 +574,7 @@ nach dem Muster der Anlage 10 zu fertigen; das Formular ist dem
 Beurkundungssachverhalt anzupassen und kann programmgerecht
 eingerichtet werden, soweit dies im Einzelfall notwendig ist.
 
-
 ## Kapitel 4 - Lebenspartnerschaft
-
 
 ### § 30 Begründung und Beurkundung der Lebenspartnerschaft
 
@@ -633,9 +587,7 @@ nach dem Muster der Anlage 11 zu fertigen; das Formular ist dem
 Beurkundungssachverhalt anzupassen und kann programmgerecht
 eingerichtet werden, soweit dies im Einzelfall notwendig ist.
 
-
 ## Kapitel 5 - Geburt
-
 
 ### § 31 Lebendgeburt, Totgeburt, Fehlgeburt
 
@@ -658,7 +610,6 @@ Kind zu beurkunden, wenn sie Teil einer Mehrlingsgeburt ist, bei der
 mindestens ein Kind nach Absatz 1 oder 2 zu beurkunden ist; § 21 Abs.
 2 des Gesetzes gilt entsprechend.
 
-
 ### § 32 Geburten in Fahrzeugen
 
 (1) Eine Geburt in einem Land- oder Luftfahrzeug beurkundet das
@@ -679,7 +630,6 @@ auf dem Bodensee eingetretenen Geburten und Sterbefälle vom 16. März
 1880 (Badisches Gesetz- und Verordnungsblatt S. 102, Württembergisches
 Regierungsblatt S. 171, Bayerisches Gesetz- und Verordnungsblatt S.
 133) bleibt unberührt.
-
 
 ### § 33 Nachweise bei Anzeige der Geburt
 
@@ -710,7 +660,6 @@ Die nach Nummer 1 erforderliche Eheurkunde ist auch vorzulegen, wenn
 die Ehe aufgelöst ist. Das Standesamt kann die Vorlage weiterer
 Urkunden verlangen, wenn dies zum Nachweis von Angaben erforderlich
 ist.
-
 
 ### § 34 Erwerb der deutschen Staatsangehörigkeit
 
@@ -754,7 +703,6 @@ entsprechend anzupassen und kann programmgerecht eingerichtet werden,
 soweit dies im Einzelfall notwendig ist. Soweit die technischen
 Voraussetzungen vorliegen, gilt für die Übermittlung § 63.
 
-
 ### § 35 Besonderheiten bei der Beurkundung
 
 Liegen dem Standesamt bei der Beurkundung der Geburt keine geeigneten
@@ -763,7 +711,6 @@ Geburtseintrag ein erläuternder Zusatz aufzunehmen; § 7 bleibt
 unberührt. Als Personenstandsurkunde darf bis zur Eintragung einer
 ergänzenden Folgebeurkundung zu den Angaben über die Eltern nur ein
 beglaubigter Registerausdruck ausgestellt werden.
-
 
 ### § 36 Fortführung des Geburtenregisters
 
@@ -785,9 +732,7 @@ eine Mitteilung über den Austritt des Kindes aus dieser
 Religionsgemeinschaft oder den Übertritt in eine andere
 Religionsgemeinschaft, so ist auch dies zu vermerken.
 
-
 ## Kapitel 6 - Sterbefall
-
 
 ### § 37 Sterbefälle in Fahrzeugen, Bergwerken und Gewässern
 
@@ -815,7 +760,6 @@ auf dem Bodensee eintretenden Geburten und Sterbefälle vom 16. März
 Regierungsblatt S. 171, Bayerisches Gesetz- und Verordnungsblatt S.
 133) bleibt unberührt.
 
-
 ### § 38 Nachweise bei Anzeige des Sterbefalls
 
 Wird ein Sterbefall angezeigt, so soll das Standesamt verlangen, dass
@@ -840,7 +784,6 @@ des Verstorbenen vorgelegt wird. Das Standesamt kann die Vorlage
 weiterer Urkunden verlangen, wenn dies zum Nachweis von Angaben
 erforderlich ist.
 
-
 ### § 39 Weitere Angaben zum Familienstand des Verstorbenen
 
 (1) War der Verstorbene zum Zeitpunkt des Todes verheiratet, so sind
@@ -854,7 +797,6 @@ einzutragen.
 
 (3) Führte der Verstorbene eine Lebenspartnerschaft, gelten die
 Absätze 1 und 2 entsprechend.
-
 
 ### § 40 Besonderheiten bei der Beurkundung
 
@@ -872,7 +814,6 @@ entsprechend.
 entweder der ungefähre Zeitpunkt des Todes oder der Zeitraum
 anzugeben, in dem der Tod eingetreten ist.
 
-
 ### § 41 Sammlung der Beschlüsse über Todeserklärungen
 
 In die Sammlung der Beschlüsse über Todeserklärungen und gerichtliche
@@ -886,9 +827,7 @@ enthaltene gerichtliche Entscheidung geändert oder aufgehoben, ist
 auch eine Ausfertigung des Änderungs- oder Aufhebungsbeschlusses als
 beglaubigte Abschrift beizufügen.
 
-
 ## Kapitel 7 - Besondere Beurkundungs- und Registervorschriften
-
 
 ### § 42 Testamentsverzeichnis
 
@@ -906,7 +845,6 @@ Erblasser verstorben ist; § 63 gilt entsprechend.
 Standesamt, soweit die das Zentrale Testamentsregister führende
 Registerbehörde die Mitteilungen über Sterbefälle nach § 4 Absatz 1
 des Testamentsverzeichnis-Überführungsgesetzes bearbeitet.
-
 
 ### § 43 Sterbefälle in ehemaligen deutschen Konzentrationslagern
 
@@ -935,7 +873,6 @@ die erste Beurkundung auch dann bestehen, wenn sie nicht vom
 Sonderstandesamt in Bad Arolsen vorgenommen wurde. Das
 Sonderstandesamt in Bad Arolsen macht den zu Unrecht bestehenden
 Eintrag durch eine entsprechende Folgebeurkundung gegenstandslos.
-
 
 ### § 44 Sterbefälle von Angehörigen der ehemaligen deutschen Wehrmacht
 
@@ -967,7 +904,6 @@ ist der Sterbefall bei dem Standesamt anzuzeigen, in dessen Bezirk der
 Tod eingetreten ist. Das Standesamt des Sterbeortes hat den Sterbefall
 zu beurkunden.
 
-
 ### § 45 Angleichung von Namen
 
 (1) Eine Namensbestimmung nach Artikel 47 des Einführungsgesetzes zum
@@ -984,7 +920,6 @@ deutschen Namensrechts zu beachten. Insbesondere soll der zum
 Familiennamen bestimmte Namensteil grundsätzlich nur aus einem Namen
 bestehen und sich als solcher von dem gewählten Vornamen
 unterscheiden.
-
 
 ### § 46 Bescheinigung über Erklärungen zur Namensführung
 
@@ -1008,9 +943,7 @@ Das Standesamt, das
 erteilt der Person, deren Name geändert worden ist, hierüber auf
 Wunsch eine Bescheinigung.
 
-
 ## Kapitel 8 - Berichtigungen
-
 
 ### § 47 Berichtigungen
 
@@ -1028,12 +961,9 @@ Empfänger die Berichtigung mitzuteilen.
 (3) Die Mitteilung erfolgt durch Übersendung eines beglaubigten
 Registerausdrucks oder durch Datenübermittlung nach § 63.
 
-
 ## Kapitel 9 - Personenstandsurkunden, Benutzung der Personenstandsregister, Mitteilungen
 
-
 ### Abschnitt 1 - Personenstandsurkunden
-
 
 #### § 48 Personenstandsurkunden
 
@@ -1065,7 +995,6 @@ Fälschungsversuche gewährleisten. Für die Herstellung der Urkunden
 sind Drucker zu verwenden, die die Eignung für den Notariatsbereich
 besitzen.
 
-
 #### § 49 Beglaubigte Abschrift aus dem Familienbuch
 
 Zum Nachweis der Geburt eines Kindes, dessen Geburt nicht in einem
@@ -1073,7 +1002,6 @@ deutschen Personenstandsregister beurkundet ist, kann auf Antrag der
 Eltern oder des Kindes aus dem als Heiratseintrag fortgeführten
 Familienbuch der Eltern eine beglaubigte Abschrift erteilt werden,
 wenn die §§ 63 und 64 des Gesetzes dies nicht ausschließen.
-
 
 #### § 50 Mehrsprachiger Auszug aus dem Personenstandsregister
 
@@ -1127,7 +1055,6 @@ sind die Felder 7, 12 und 13 durch einen Strich zu sperren. Vor- und
 Familiennamen des früheren Ehegatten oder Lebenspartners sind nur dann
 einzutragen, wenn sich die Angaben aus dem Sterberegister ergeben.
 
-
 #### § 51 Mehrsprachiges Ehefähigkeitszeugnis
 
 (1) Für die Ausstellung des Ehefähigkeitszeugnisses, dessen ein
@@ -1170,7 +1097,6 @@ den Geburtsnamen.
 ausländischen Familienregisters einzutragen, wenn die Angaben
 urkundlich nachgewiesen sind.
 
-
 #### § 52 Internationales Stammbuch der Familie
 
 In ein internationales Stammbuch der Familie, das in einem
@@ -1179,9 +1105,7 @@ eines internationalen Stammbuchs der Familie ausgestellt worden ist,
 können Angaben eingetragen werden über die Geburt gemeinsamer Kinder
 der Ehegatten sowie über den Tod der Ehegatten und ihrer Kinder.
 
-
 ### Abschnitt 2 - Benutzung der Personenstandsregister
-
 
 #### § 53 Benutzung durch Personen
 
@@ -1192,7 +1116,6 @@ Abs. 1 entsprechend.
 (2) Die besonderen Vorschriften des Gesetzes für die Benutzung der
 Personenstandsregister durch Geschwister gelten auch für halbbürtige
 Geschwister.
-
 
 #### § 54 Benutzung durch ausländische diplomatische und konsularische Vertretungen
 
@@ -1219,7 +1142,6 @@ Person um einen Ausländer handelt,
 Die Versagungsgründe nach § 65 Abs. 3 Satz 2 des Gesetzes bleiben
 unberührt.
 
-
 #### § 55 Benutzung für wissenschaftliche Zwecke
 
 (1) Ist die Benutzung von Personenstandsregistern für bestimmte
@@ -1232,9 +1154,7 @@ gegen die Benutzung geltend zu machen.
 Betroffene nach dem Umfang ihrer schutzwürdigen Belange befragen, wenn
 es dies für erforderlich hält.
 
-
 ### Abschnitt 3 - Mitteilungen
-
 
 #### § 56 Mitteilungen an das Standesamt
 
@@ -1506,7 +1426,6 @@ Geburtenregister für diese Person führt.
 Rechtsvorschriften und internationaler Vereinbarungen bleiben
 unberührt.
 
-
 #### § 57 Mitteilungen bei Beurkundung im Geburtenregister
 
 (1) Das Standesamt, das die Geburt beurkundet, hat dies mitzuteilen:
@@ -1702,10 +1621,6 @@ bestehenden Mitteilungspflichten folgende Daten übermitteln:
 
 19. Anschriften des Kindes und der Eltern.
 
-
-
-
-
 #### § 58 Mitteilungen bei Beurkundung im Eheregister
 
 (1) Das Standesamt, das die Eheschließung beurkundet, im Falle der
@@ -1877,10 +1792,6 @@ den Absätzen 1 bis 4 folgende Daten übermitteln:
 
 18. Anschriften der Ehegatten.
 
-
-
-
-
 #### § 59 Mitteilungen bei Beurkundung im Lebenspartnerschaftsregister
 
 (1) Das Standesamt, das die Begründung der Lebenspartnerschaft
@@ -2030,10 +1941,6 @@ bestehenden Mitteilungspflichten folgende Daten übermitteln:
 
 17. Anschriften der Lebenspartner.
 
-
-
-
-
 #### § 60 Mitteilungen bei Beurkundung im Sterberegister
 
 (1) Das Standesamt, das den Sterbefall beurkundet, hat dies
@@ -2179,17 +2086,12 @@ bestehenden Mitteilungspflichten folgende Daten übermitteln:
 
 20. Anschrift des Verstorbenen.
 
-
-
-
-
 #### § 61 Mitteilungen für statistische Zwecke
 
 Den Statistischen Landesämtern werden aus Anlass der Beurkundung einer
 Geburt, Eheschließung, Begründung der Lebenspartnerschaft und eines
 Sterbefalls die Daten mitgeteilt, die nach § 2 des
 Bevölkerungsstatistikgesetzes zu erheben sind.
-
 
 #### § 62 Besonderheiten bei Mitteilungen
 
@@ -2226,7 +2128,6 @@ Stelle erforderlich sind. Mitteilungen an ausländische Behörden auf
 Grund internationaler Übereinkommen und Mitteilungspflichten nach
 landesrechtlichen Vorschriften bleiben unberührt.
 
-
 #### § 63 Datenübermittlung
 
 (1) Die elektronische Übermittlung von Daten zwischen den
@@ -2259,7 +2160,6 @@ Transport erzielten Sicherheitseigenschaften anderweitig in gleicher
 Qualität gewährleistet werden. Die getroffenen Maßnahmen sind im
 Betriebs- und Sicherheitskonzept (§ 13) zu dokumentieren.
 
-
 #### § 64 Abrufverfahren
 
 (1) Für Datenübermittlungen im automatisierten Abrufverfahren nach §
@@ -2280,9 +2180,7 @@ Empfänger der Daten.
 (3) Die nach Absatz 2 gefertigten Protokolle werden vier Jahre nach
 Ablauf des Kalenderjahres vernichtet, in dem der Abruf erfolgt ist.
 
-
 ## Kapitel 10 - Übergangs- und Schlussvorschriften
-
 
 ### § 65 Übergangsbeurkundungen
 
@@ -2306,7 +2204,6 @@ des Haupteintrags eingetragen werden.
 (3) Für die Übergangsbeurkundungen gelten die §§ 15 bis 19, 21 und 25
 entsprechend.
 
-
 ### § 66 Fortführung von Altregistern
 
 (1) Eine Folgebeurkundung zu einem Personenstandseintrag in einem bis
@@ -2327,7 +2224,6 @@ vorgesehene Raum für die Folgebeurkundungen und Hinweise nicht aus, so
 erfolgt die Fortführung auf Allongen. Diese sind fest mit dem
 jeweiligen Eintrag zu verbinden; die Verbindungsstelle ist mit dem
 Siegel des Standesamts zu sichern.
-
 
 ### § 67 Fortführung des Familienbuchs als Heiratseintrag
 
@@ -2356,14 +2252,12 @@ Gesetzes entsprechend.
 (3) Für das als Heiratseintrag fortzuführende Familienbuch wird kein
 Sicherungsregister geführt.
 
-
 ### § 68 Fortführung des Heiratseintrags
 
 Ein Heiratseintrag wird vom 1. Januar 2009 an nur dann fortgeführt,
 wenn kein als Heiratseintrag fortzuführendes Familienbuch angelegt
 worden ist oder der Verbleib des Familienbuchs nicht festgestellt
 werden kann.
-
 
 ### § 69 Übernahme in elektronische Personenstandsregister
 
@@ -2389,7 +2283,6 @@ im Sinne des § 54 des Gesetzes sind nunmehr ausschließlich die im
 elektronischen Personenstandsregister gespeicherten Haupteinträge und
 Folgebeurkundungen.
 
-
 ### § 70 Personenstandsurkunden aus Altregistern und Übergangsbeurkundungen
 
 (1) Für die Ausstellung von Personenstandsurkunden aus Altregistern
@@ -2402,7 +2295,6 @@ Familienbücher.
 (2) Personenstandsurkunden aus Altregistern und Übergangsbeurkundungen
 werden nicht mehr ausgestellt, wenn die Einträge nach § 69 in
 elektronische Register übernommen worden sind.
-
 
 ### § 71 Fortführung, Benutzung und Aufbewahrung der Konsularregister
 
@@ -2465,7 +2357,6 @@ und 2 genannten Einträgen und Registern sind dem Standesamt I in
 Berlin zu übersenden; die Übersendung unterbleibt, wenn die
 Mitteilungen nur zur Eintragung von Hinweisen dienen würden.
 
-
 ### § 72 Besondere Aufgaben des Standesamts I in Berlin
 
 (1) Personenstandsbücher und Standesregister aus Gebieten, in denen
@@ -2489,7 +2380,6 @@ oder Absatz 2 eine Eintragung in einem Personenstandsbuch,
 Standesregister oder auf einer Urkunde vorgenommen werden muss; es
 führt hierüber ein Verzeichnis.
 
-
 ### § 73 Personenstandsbücher aus Grenzgebieten
 
 (1) Die Vorschriften dieser Verordnung gelten sinngemäß für die aus
@@ -2502,7 +2392,6 @@ Ausgleichsvertrages vom 8. April 1960 (BGBl. 1963 II S. 458, 1078)
 Gesetzes vorgeschriebenen Angaben nicht enthalten sind, ist eine
 Berichtigung oder Ergänzung nicht vorzunehmen.
 
-
 ### § 74 Personenstandsbücher des ehemaligen Standesamts I in Berlin (Ost)
 
 Die Vorschriften dieser Verordnung gelten sinngemäß für die nach der
@@ -2511,16 +2400,13 @@ Doppelbuchstabe bb Dreifachbuchstabe aaa und bbb des
 Einigungsvertrages an den Standesbeamten des Standesamts I in Berlin
 abgegebenen Personenstandsbücher.
 
-
 ### § 75 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2009 in Kraft.
 
-
 ### Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ### Anlage 1 (zu § 11) Datenfelder in den Personenstandsregistern
 
@@ -7461,51 +7347,41 @@ Der Bundesrat hat zugestimmt.
 
 (Fundstelle: BGBl. I 2008, 2298 - 2299)
 
-
 ### Anlage 3 (zu den §§ 11, 19, 48, 65)
 
 (Fundstelle: BGBl. I 2008, 2300 - 2301)
-
 
 ### Anlage 4 (zu den §§ 11, 19, 48, 65)
 
 (Fundstelle: BGBl. I 2008, 2302 - 2303)
 
-
 ### Anlage 5 (zu den §§ 11, 19, 48, 65)
 
 (Fundstelle: BGBl. I 2008, 2304 - 2305)
-
 
 ### Anlage 6 (zu den §§ 48, 70)
 
 (Fundstelle: BGBl. I 2008, 2306)
 
-
 ### Anlage 7 (zu den §§ 48, 70)
 
 (Fundstelle: BGBl. I 2008, 2307)
-
 
 ### Anlage 8 (zu den §§ 48, 70)
 
 (Fundstelle: BGBl. I 2008, 2308)
 
-
 ### Anlage 9 (zu den §§ 48, 70)
 
 (Fundstelle: BGBl. I 2008, 2309)
-
 
 ### Anlage 10 (zu § 29)
 
 (Fundstelle: BGBl. I 2008, 2310 - 2311)
 
-
 ### Anlage 11 (zu § 30)
 
 (Fundstelle: BGBl. I 2008, 2312 - 2313)
-
 
 ### Anlage 12 (zu § 34)
 

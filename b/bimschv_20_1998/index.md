@@ -27,7 +27,6 @@ der Lagerung von Ottokraftstoff und seiner Verteilung von den
 Auslieferungslagern bis zu den Tankstellen (ABl. EG Nr. L 365 S. 24)
 in deutsches Recht umgesetzt.
 
-
 ## Eingangsformel
 
 Auf Grund
@@ -52,10 +51,7 @@ Auf Grund
 verordnet die Bundesregierung nach Anhörung der jeweils beteiligten
 Kreise:
 
-
 ## Erster Teil - Allgemeine Vorschriften
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -91,7 +87,6 @@ Binnenwasserstraßen (ADN) vom 26. Mai 2000 (BGBl. 2007 II S. 1906,
 1908), die zuletzt nach Maßgabe der 3. ADN-Änderungsverordnung vom 17.
 Dezember 2010 (BGBl. 2010 II S. 1550) geändert worden ist, in der
 jeweils geltenden Fassung bleiben unberührt.
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -300,13 +295,7 @@ Im Sinne dieser Verordnung bedeuten die Begriffe
     Dämpfen zwischen Lagertanks innerhalb eines Tanklagers gilt nicht als
     Zwischenlagerung von Dämpfen.
 
-
-
-
-
 ## Zweiter Teil - Anforderungen an die Errichtung, die Beschaffenheit und den Betrieb
-
-
 
 ### § 3 Lagerung in Tanklagern
 
@@ -358,7 +347,6 @@ oder einer Abgasreinigungseinrichtung zuzuführen.
 (7) Abgase, die bei Inspektionen oder bei Reinigungsarbeiten der
 Lagertanks auftreten, sind einer Nachverbrennung zuzuführen oder es
 sind gleichwertige Maßnahmen zur Emissionsminderung anzuwenden.
-
 
 ### § 4 Befüllung und Entleerung von Lagertanks oder beweglichen Behältnissen in Tanklagern
 
@@ -455,7 +443,6 @@ oben sicherzustellen, daß der Füllstutzen des Ladearms nahe am Boden
 des beweglichen Behältnisses gehalten wird, um ein Hochspritzen zu
 verhindern.
 
-
 ### § 5 Bewegliche Behältnisse
 
 (1) Bewegliche Behältnisse dürfen nur so errichtet und betrieben
@@ -484,7 +471,6 @@ Behältnis zurückgehalten werden, bis dieses in einem Tanklager wieder
 befüllt wird oder die Dämpfe einer Abgasreinigungseinrichtung
 zugeführt werden.
 
-
 ### § 6 Befüllung der Lagertanks von Tankstellen
 
 (1) Anlagen für die Lagerung und Umfüllung von Ottokraftstoff oder
@@ -498,17 +484,13 @@ zugeleitet werden. § 4 Abs. 2 gilt entsprechend.
 Tankstellen, deren jährliche Abgabemenge an Ottokraftstoff oder
 Kraftstoffgemischen 100 Kubikmeter nicht überschreitet.
 
-
 ## Dritter Teil - Verfahren zur Messung und Überwachung
-
-
 
 ### § 7 Meßöffnungen und Meßplätze
 
 Soweit zur Kontrolle der Einhaltung von Anforderungen nach den §§ 3
 bis 6 Messungen erforderlich sind, hat der Betreiber geeignete
 Meßöffnungen und Meßplätze einzurichten.
-
 
 ### § 8 Nicht genehmigungsbedürftige Anlagen
 
@@ -597,7 +579,6 @@ regelmäßigen Prüfungen
 
 überprüft werden.
 
-
 ### § 9 Genehmigungsbedürftige Anlagen
 
 Für die Messung und Überwachung der Emissionen an organischen Stoffen
@@ -606,10 +587,7 @@ Reinhaltung der Luft – TA Luft – vom 24. Juli 2002 (GMBl S. 511).
 Dabei gelten mindestens die Anforderungen nach § 8 Abs. 4 und 5. § 8
 Abs. 2 und 6 gilt entsprechend.
 
-
 ## Vierter Teil - Gemeinsame Vorschriften
-
-
 
 ### § 10 Andere oder weitergehende Anforderungen
 
@@ -618,7 +596,6 @@ Immissionsschutzgesetzes andere oder weitergehende Anordnungen zu
 treffen, bleibt unberührt, soweit die Vorschriften der Richtlinie
 94/63/EG und die Vorschriften über die Beförderung gefährlicher Güter
 nicht entgegenstehen.
-
 
 ### § 11 Zulassung von Ausnahmen
 
@@ -684,14 +661,12 @@ sind, gelten als Ausnahmen im Sinne des Absatzes 1 weiter. Die
 Ausnahmen sind zu widerrufen, soweit ihnen Vorschriften der Richtlinie
 94/63/EG entgegenstehen.
 
-
 ### § 12 Zugänglichkeit der Normen
 
 DIN-, DIN-EN-Normen sowie VDI-Richtlinien, auf die in dieser
 Verordnung verwiesen wird, sind bei der Beuth Verlag GmbH, Berlin, zu
 beziehen und bei der Deutschen Nationalbibliothek archivmäßig
 gesichert niedergelegt.
-
 
 ### § 13 Ordnungswidrigkeiten
 
@@ -753,19 +728,12 @@ Immissionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
     nicht rechtzeitig zuleitet oder einen Bericht nicht oder nicht
     rechtzeitig vorlegt.
 
-
-
-
-
 ## Fünfter Teil - Übergangs- und Schlußvorschriften
-
-
 
 ### § 14 Übergangsregelung
 
 Die Anforderungen des § 3 Absatz 2 und 3 sind bei Anlagen in
 Tanklagern ab dem 30. Juni 2015 einzuhalten.
-
 
 ### § 15 Inkrafttreten, Außerkrafttreten
 
@@ -773,7 +741,6 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 Gleichzeitig tritt die Verordnung zur Begrenzung der
 Kohlenwasserstoffemissionen beim Umfüllen und Lagern von
 Ottokraftstoffen vom 7. Oktober 1992 (BGBl I S. 1727) außer Kraft.
-
 
 ### Schlußformel
 

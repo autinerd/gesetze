@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 12.5.2004 I 931
 
-
 ## Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
@@ -28,17 +27,14 @@ zuletzt durch Artikel 202 Nr. 2 der Verordnung vom 29. Oktober 2001
 für Wirtschaft und Technologie im Einvernehmen mit dem
 Bundesministerium für Bildung und Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Bauzeichner/Bauzeichnerin wird staatlich
 anerkannt.
 
-
 ## § 2 Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Gliederung der Berufsausbildung
 
@@ -61,7 +57,6 @@ In der Berufsausbildung zum Bauzeichner/zur Bauzeichnerin sind
 
 in überbetrieblichen oder in betrieblichen Ausbildungsstätten zu
 vermitteln.
-
 
 ## § 4 Ausbildungsberufsbild
 
@@ -112,10 +107,6 @@ Fertigkeiten und Kenntnisse:
 
 15. Erstellen von Plänen und Zeichnungen, fachspezifische Berechnungen.
 
-
-
-
-
 ## § 5 Ausbildungsrahmenplan
 
 (1) Die in § 3 genannten Fertigkeiten und Kenntnisse sollen unter
@@ -134,12 +125,10 @@ Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges
 Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung
 ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
 
-
 ## § 6 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 7 Berichtsheft
 
@@ -147,7 +136,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 8 Zwischenprüfung
 
@@ -188,7 +176,6 @@ technologische, mathematische und zeichnerische Inhalte verknüpfen
 kann. Dabei soll er Maßnahmen zur Arbeitsorganisation, zur Sicherheit
 und zum Gesundheitsschutz bei der Arbeit sowie zum Umweltschutz
 berücksichtigen.
-
 
 ## § 9 Abschlussprüfung
 
@@ -606,7 +593,6 @@ erbracht worden sind. Werden die Prüfungsleistungen in einer der
 praktischen Aufgaben oder in einem der Prüfungsbereiche mit ungenügend
 bewertet, so ist die Prüfung nicht bestanden.
 
-
 ## § 10 Übergangsregelung
 
 (1) Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
@@ -619,11 +605,9 @@ ist § 9 Abs. 2 in der bis zum 17. Mai 2004 geltenden Fassung weiter
 anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
 Anwendung der Verordnung in der am 18. Mai 2004 geltenden Fassung.
 
-
 ## § 11 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2002 in Kraft.
-
 
 ## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Bauzeichner/zur Bauzeichnerin
 

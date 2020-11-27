@@ -17,23 +17,18 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1986, 1038
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art 1
 
 -
 
-
 ## Art 2
 
 -
-
 
 ## Art 3
 
@@ -47,12 +42,10 @@ Reichsknappschaftsgesetzes im Zeitpunkt der Ausreise als erfüllt; die
 Beiträge werden frühestens nach Ablauf der in den genannten
 Vorschriften vorgesehenen zweijährigen Frist erstattet.
 
-
 ## Art 4
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
-
 
 ## Art 5
 

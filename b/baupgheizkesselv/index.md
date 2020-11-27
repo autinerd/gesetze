@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 G v. 8.11.2011 I 2178
 
-
 ## § 1 Anwendungsbereich
 
 (1) Diese Verordnung regelt im Hinblick auf die Anforderungen an den
@@ -52,10 +51,6 @@ Nennleistung gleich oder größer als 4 kW und gleich oder kleiner als
 
 
 6.  einzeln produzierte Heizkessel.
-
-
-
-
 
 ## § 2 Begriffsdefinitionen
 
@@ -110,10 +105,6 @@ Im Sinne dieser Verordnung sind
     Großteils des in den Abgasen enthaltenen Wasserdampfes konstruiert
     ist.
 
-
-
-
-
 ## § 3 Wirkungsgradanforderungen
 
 (1) Heizkessel müssen den jeweiligen Wirkungsgradanforderungen an die
@@ -132,7 +123,6 @@ umsetzenden nationalen Normen im Bundesanzeiger veröffentlicht sind.
 (3) Bei Heizkesseln mit Doppelfunktion - Raumheizung und
 Warmwasserbereitung - betreffen die Wirkungsgradanforderungen nur die
 Heizfunktion.
-
 
 ## § 4 Voraussetzungen für das Inverkehrbringen
 
@@ -202,7 +192,6 @@ Heizkesseltyp ausweisen; die den Kesseln beigefügte EG-
 Konformitätserklärung muß den Heizkesseltyp des daraus herzustellenden
 Heizkessels ausweisen.
 
-
 ## § 5 CE-Kennzeichnung
 
 (1) Die nach § 4 Abs. 1 und 2 erforderliche CE-Kennzeichnung ist gut
@@ -243,11 +232,9 @@ Kennzeichen versehen sind, das mit der CE-Kennzeichnung verwechselt
 werden kann. Im Übrigen sind die §§ 24 bis 31 des
 Produktsicherheitsgesetzes anzuwenden.
 
-
 ## § 6 (weggefallen)
 
 -
-
 
 ## § 7 Prüf-, Überwachungs- und Zertifizierungsstellen
 
@@ -287,13 +274,11 @@ Anerkennung als Prüf-, Überwachungs- und Zertifizierungsstelle nach
 dem Bauproduktengesetz vom 6. Juni 1996 (BGBl. I S. 798) sind
 entsprechend anzuwenden.
 
-
 ## § 8 Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 14 Absatz 1 des Bauproduktengesetzes
 handelt, wer vorsätzlich oder fahrlässig entgegen § 4 Abs. 1 Satz 1
 oder Abs. 2 einen Heizkessel oder ein Gerät in den Verkehr bringt.
-
 
 ## Anhang 1 Wirkungsgradanforderungen
 
@@ -374,17 +359,9 @@ oder Abs. 2 einen Heizkessel oder ein Gerät in den Verkehr bringt.
 
         ++) Kessel-Eintrittstemperatur (Rücklauftemperatur)
 
-
-
-
-
-
-
-
 ## Anhang 2 (weggefallen)
 
 -
-
 
 ## Anhang 3
 

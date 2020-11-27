@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1997, 3127
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 42 Abs. 2 der Handwerksordnung in der Fassung der
@@ -29,7 +27,6 @@ Zuständigkeitsanpassungs-Verordnung vom 21. September 1997 (BGBl. I S.
 Bildung, Wissenschaft, Forschung und Technologie nach Anhörung des
 Ständigen Ausschusses des Bundesinstituts für Berufsbildung im
 Einvernehmen mit dem Bundesministerium für Wirtschaft:
-
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
 
@@ -90,7 +87,6 @@ können:
 Geprüfter Kraftfahrzeug-Servicetechniker/Geprüfte Kraftfahrzeug-
 Servicetechnikerin.
 
-
 ## § 2 Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer
@@ -117,7 +113,6 @@ nachweist.
 wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft
 macht, daß er Kenntnisse, Fertigkeiten und Erfahrungen erworben hat,
 die die Zulassung zur Prüfung rechtfertigen.
-
 
 ## § 3 Gliederung, Struktur und integrierte Durchführung der Prüfung
 
@@ -165,10 +160,6 @@ werden.
     Qualifikationsschwerpunkte "Kooperation, Kommunikation und
     Mitarbeiterqualifizierung" und "Kundenbetreuung und -beratung" dienen.
     Die Dauer soll 30 Minuten nicht überschreiten.
-
-
-
-
 
 ## § 4 Prüfungsinhalte
 
@@ -466,10 +457,6 @@ diesem Rahmen können geprüft werden:
 
 5.  technische Beratung der Serviceberater und der Geschäftsleitung.
 
-
-
-
-
 ## § 5 Anrechnung anderer Prüfungsleistungen
 
 Der Prüfungsteilnehmer kann auf Antrag von den Aufgaben gemäß § 3 Abs.
@@ -478,7 +465,6 @@ in den letzten fünf Jahren vor einer zuständigen Stelle, einer
 öffentlichen oder staatlich anerkannten Bildungseinrichtung oder vor
 einem staatlichen Prüfungsausschuß eine Prüfung bestanden hat, deren
 Inhalt den Anforderungen der jeweiligen Aufgabe entspricht.
-
 
 ## § 6 Bestehen der Prüfung
 
@@ -498,7 +484,6 @@ Anlage auszustellen. Im Fall der Freistellung gemäß § 5 sind Ort und
 Datum sowie das Prüfungsgremium und die Bezeichnung der anderweitig
 abgelegten Prüfung anzugeben.
 
-
 ## § 7 Wiederholung der Prüfung
 
 (1) Eine Prüfung, die nicht bestanden ist, kann zweimal wiederholt
@@ -511,7 +496,6 @@ und er sich innerhalb von zwei Jahren, gerechnet vom Tage der
 Beendigung der nicht bestandenen Prüfung an, zur Wiederholungsprüfung
 angemeldet hat.
 
-
 ## § 8 Gleichstellung anderer Prüfungszeugnisse
 
 Prüfungszeugnisse von Weiterbildungsstätten über das Bestehen der
@@ -520,7 +504,6 @@ Servicetechnikerin nach dem Branchenmodell des Zentralverbandes des
 Deutschen Kraftfahrzeuggewerbes aus der Zeit vom 1. Januar 1992 bis
 30\. Juni 1998 sind den Zeugnissen über das Bestehen der Prüfung nach
 dieser Verordnung gleichgestellt.
-
 
 ## § 9 Übergangsvorschriften
 
@@ -536,11 +519,9 @@ Vorschriften ablegen. Die zuständige Stelle kann auf Antrag des
 Prüfungsteilnehmers die Wiederholungsprüfung gemäß dieser Verordnung
 durchführen; § 7 Abs. 2 findet in diesem Fall keine Anwendung.
 
-
 ## § 10 Inkrafttreten
 
 Diese Verordnung tritt am 1. Juli 1998 in Kraft.
-
 
 ## Anlage (zu § 6 Abs. 3)
 

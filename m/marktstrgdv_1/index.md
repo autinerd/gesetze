@@ -19,14 +19,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 V v. 5.11.1997 I 2642
 
-
 ## Eingangsformel
 
 Auf Grund des § 3 Abs. 3 Nr. 1 und 2, des § 6 Abs. 2 Nr. 1 und 2 und
 des § 12 des Marktstrukturgesetzes vom 16. Mai 1969 (Bundesgesetzbl. I
 S. 423) wird im Einvernehmen mit dem Bundesminister für Wirtschaft mit
 Zustimmung des Bundesrates verordnet:
-
 
 ## § 1
 
@@ -99,7 +97,6 @@ können mehrere der folgenden Erzeugnisse zusammengefaßt werden:
 Im Sinne dieser Verordnung sind Zuchtrinder, Zuchtschweine und
 Zuchtschafe zur Vermehrung bestimmte Tiere aus leistungsgeprüften
 Beständen, deren Identität gesichert ist.
-
 
 ## § 2
 
@@ -203,7 +200,6 @@ c)  aus Tieren einer Art auf die für Schlachttiere in Absatz 1 Nr. 1
 (2) Das erste Jahr beginnt mit dem Tag, an dem der Antrag auf
 Anerkennung als Erzeugergemeinschaft gestellt wird.
 
-
 ## § 3
 
 (1) Die Mindestmenge eines Liefervertrages (§ 6 Abs. 1 Nr. 4 des
@@ -219,22 +215,18 @@ als ein Liefervertrag.
 Gesetzes) wird für Lieferverträge nach Absatz 1 auf drei Jahre
 festgesetzt.
 
-
 ## § 4
 
 (weggefallen)
-
 
 ## § 5
 
 Diese Verordnung tritt in dem in Artikel 3 des Einigungsvertrages
 genannten Gebiet am 1. Juli 1992 in Kraft.
 
-
 ## § 6
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlußformel
 

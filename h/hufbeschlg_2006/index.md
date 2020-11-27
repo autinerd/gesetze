@@ -18,7 +18,6 @@ Fundstelle
 Stand: Gem. BVerfGE v. 5.12.2006 I 3228 - 2 BvR 2186/06 - wird das Inkrafttreten dieses G bis zur Entscheidung über die Verfassungsbeschwerde, längstens für die Dauer von sechs Monaten, insoweit einstweilen ausgesetzt, als Personen, die Verrichtungen an Hufen zum Zweck des Schutzes, der Gesunderhaltung, der Korrektur oder der Behandlung vornehmen, ohne dabei einen Eisenbeschlag anzubringen, sowie Personen und Einrichtungen, die zu solchen Verrichtungen ausbilden, den Bestimmungen dieses Gesetzes unterworfen werden.
 Stand: Gem. BVerfGE v. 22.5.2007 I 1057 - 1 BvR 2186/06 - wird die einstweilige Anordnung v. 5.12.2006 für die Dauer von weiteren sechs Monaten, längstens jedoch bis zur Entscheidung über die Verfassungsbeschwerde, wiederholt.
 
-
 ## § 1 Anwendungsbereich
 
 (1) Die Gesundheit von Huf- und Klauentieren, insbesondere die
@@ -37,10 +36,6 @@ Hufbeschlaglehrschmiedinnen und Hufbeschlagschulen geregelt.
 2.  Verrichtungen, die lediglich die üblichen, alltäglichen Reinigungs-
     und Pflegearbeiten an Hufen und Klauen zum Gegenstand haben.
 
-
-
-
-
 ## § 2 Begriffsbestimmungen
 
 Im Sinne dieses Gesetzes sind
@@ -56,10 +51,6 @@ Im Sinne dieses Gesetzes sind
     die Gesamtheit aller Verrichtungen bei der Anbringung, Instandsetzung
     oder Entfernung eines Beschlages an der Klaue eines Tieres, wenn
     dieses Tier als Zug-, Last- oder Reittier verwendet werden soll.
-
-
-
-
 
 ## § 3 Hufbeschlagschmiede/Hufbeschlagschmiedinnen, Hufbeschlaglehrschmiede/Hufbeschlaglehrschmiedinnen
 
@@ -82,7 +73,6 @@ Hufbeschlagschmieden/Hufbeschlagschmiedinnen tätig werden.
 (4) Hufbeschlagschmiede/Hufbeschlagschmiedinnen und
 Hufbeschlaglehrschmiede/Hufbeschlaglehrschmiedinnen betreiben kein
 Gewerbe im Sinne der Handwerksordnung.
-
 
 ## § 4 Anerkennung der Hufbeschlagschmiede/Hufbeschlagschmiedinnen
 
@@ -123,7 +113,6 @@ ermöglichen.
 Teile der Ausbildung an staatlich anerkannten Ausbildungsstätten
 (Hufbeschlagschulen) statt.
 
-
 ## § 5 Anerkennung der Hufbeschlaglehrschmiede/Hufbeschlaglehrschmiedinnen
 
 (1) Als Hufbeschlaglehrschmied/Hufbeschlaglehrschmiedin wird staatlich
@@ -163,7 +152,6 @@ Belange der Tiergesundheit, des Tierschutzes und des Arbeits- und
 Unfallschutzes sowie des zeitgemäßen Standes der Technik
 durchzuführen.
 
-
 ## § 6 Hufbeschlagschulen
 
 (1) Hufbeschlagschulen dürfen nur betrieben werden, wenn sie staatlich
@@ -196,10 +184,6 @@ anerkannt sind.
 5.  eine kontinuierliche Weiterbildung des Lehrpersonals nachgewiesen
     wird.
 
-
-
-
-
 ## § 7 Widerruf der Anerkennungen
 
 (1) Die Anerkennung als Hufbeschlagschmied/Hufbeschlagschmiedin oder
@@ -218,7 +202,6 @@ für die Anerkennung erforderliche Voraussetzung entfallen ist. Absatz
 (3) Eine Anerkennung kann durch die Behörde, die die Anerkennung
 aufgehoben hat, erneut erteilt werden, soweit die Voraussetzungen für
 die Aufhebung entfallen sind.
-
 
 ## § 8 Ermächtigungen
 
@@ -267,7 +250,6 @@ Rechtsverordnung die zuständigen Behörden zu bestimmen; sie können
 diese Ermächtigung durch Rechtsverordnung auf oberste Landesbehörden
 übertragen.
 
-
 ## § 9 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
@@ -301,7 +283,6 @@ Bußgeldvorschrift verweist.
 übrigen Fällen mit einer Geldbuße bis zu dreitausend Euro geahndet
 werden.
 
-
 ## § 10 Übergangsregelungen
 
 (1) Die bis zum Ablauf des 31. Dezember 2006 nach bisherigem Recht
@@ -321,7 +302,6 @@ Tätigkeit in gröblicher Weise oder wiederholt gegen Bestimmungen
 dieses Gesetzes oder gegen sonstige tierschutzrechtliche Vorschriften
 verstoßen hat; im Übrigen bleiben die gewerberechtlichen Vorschriften
 unberührt.
-
 
 ## § 11 Aufhebung von Vorschriften
 

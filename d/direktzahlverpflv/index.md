@@ -19,13 +19,11 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 V v. 15.12.2011 eBAnz AT144 V1
 
-
 ## Eingangsformel
 
 Auf Grund des § 5 Abs. 1 Satz 1 Nr. 2 bis 4, auch in Verbindung mit
 Abs. 4 des Direktzahlungen-Verpflichtungengesetzes vom 21. Juli 2004
 (BGBl. I S. 1763, 1767) verordnet die Bundesregierung:
-
 
 ## § 1 Geltungsbereich
 
@@ -35,7 +33,6 @@ landwirtschaftlicher Flächen in einem guten landwirtschaftlichen und
 Direktzahlungen oder sonstige Stützungszahlungen im Sinne des § 1
 Absatz 1 des Direktzahlungen-Verpflichtungengesetzes beantragt,
 einzuhalten sind.
-
 
 ## § 2 Erosionsvermeidung
 
@@ -141,10 +138,6 @@ dies erforderlich ist, um
     Direktzahlungen-Verpflichtungengesetzes und dieser Verordnung zu
     gewährleisten.
 
-
-
-
-
 ## § 3 Erhalt der organischen Substanz im Boden und Schutz der Bodenstruktur
 
 (1) Der Betriebsinhaber hat seine Ackerflächen so zu bewirtschaften,
@@ -218,7 +211,6 @@ Abbrennen von Stoppelfeldern genehmigen, sofern Gründe des
 Pflanzenschutzes im Sinne des § 1 Nummer 1 und 2 des
 Pflanzenschutzgesetzes dies erfordern und schädliche Auswirkungen auf
 den Naturhaushalt nicht zu besorgen sind.
-
 
 ## § 4 Instandhaltung von Flächen, die aus der landwirtschaftlichen Erzeugung genommen wurden
 
@@ -299,7 +291,6 @@ erforderlich ist, um
 
 Rechnung tragen zu können.
 
-
 ## § 4a Schutz von Dauergrünland
 
 Wer in
@@ -349,7 +340,6 @@ Bei einer Kontrolle der Verpflichtung nach Satz 1 hinsichtlich
 gesetzlicher Bedingungen und Nebenbestimmungen im Sinne des Satzes 2
 hat der Betriebsinhaber deren Beachtung insoweit nachzuweisen, wie sie
 zu diesem Zeitpunkt erfüllt sein müssen.
-
 
 ## § 5 Landschaftselemente
 
@@ -424,7 +414,6 @@ Absatz 2 des Direktzahlungen-Verpflichtungengesetzes nicht beseitigt
 werden dürfen, soweit dies erforderlich ist, um besonderen regionalen
 Gegebenheiten Rechnung tragen zu können.
 
-
 ## § 5a Verwendung von Wasser zur Beregnung oder sonstigen Bewässerung
 
 Wer landwirtschaftliche Flächen beregnet oder sonst bewässert, hat bei
@@ -435,7 +424,6 @@ zur Erhaltung der landwirtschaftlichen Flächen in einem guten
 landwirtschaftlichen und ökologischen Zustand nachzuweisen, dass die
 Erlaubnis oder Bewilligung vorliegt.
 
-
 ## § 5b Schaffung von Pufferzonen entlang von Wasserläufen
 
 Wer landwirtschaftliche Flächen entlang von Wasserläufen
@@ -445,16 +433,13 @@ jeweils in Verbindung mit Absatz 8, der Düngeverordnung zu beachten,
 soweit sich die Anforderungen auf Düngemittel mit einem wesentlichen
 Nährstoffgehalt an Stickstoff beziehen.
 
-
 ## § 6 Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2005 in Kraft.
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage 1 (zu § 2 Abs. 1 Nr. 1, Abs 2 und 3) Bestimmung der potenziellen Erosionsgefährdung durch Wasser
 
@@ -618,9 +603,6 @@ der Tabellen 1 bis 3.
 
     Umrechnung von organischem Kohlenstoff in Humus durch Multiplikation
     mit dem Faktor 1,72.
-
-
-
 
 ## Tabelle 1
 
@@ -839,18 +821,6 @@ regional anpassen.
 
             Gruppe 4 Bockshornklee,
                 Schabziegerklee                                     , Steinklee.
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## Tabelle 2
 
@@ -1410,10 +1380,6 @@ Werte verwendet werden.
         Anzahl ha der Betriebsfläche)
 
     *   - 38
-
-
-
-
 
 ## Anlage 4 (zu § 3 Absatz 1 Satz 6) Kulturen mit positiver oder neutraler Veränderung des Humusvorrates
 

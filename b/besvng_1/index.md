@@ -19,10 +19,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 15 Abs. 45 G v. 5.2.2009 I 160
 
-
 ## Art I
-
-
 
 ## § 1
 
@@ -58,17 +55,12 @@ ersetzt. 22. Die Sätze des Ortszuschlages in der Anlage II des
     Änderung des Bundesbesoldungsgesetzes werden durch die Sätze in der
     Anlage 3 dieses Gesetzes ersetzt.
 
-
-
-
-
 ## § 2
 
 Der Bundesminister des Innern wird ermächtigt, die nach diesem Gesetz
 unmittelbar eintretenden Änderungen in der Einreihung von Beamten in
 die Gruppen der Besoldungsordnungen sowie Änderungen von
 Amtsbezeichnungen in einer Überleitungsübersicht festzustellen.
-
 
 ## § 3
 
@@ -78,7 +70,6 @@ des Fortbestehens der Anspruchsvoraussetzungen eine ruhegehaltfähige
 Ausgleichszulage in Höhe des Unterschiedes. Diese verringert sich vom
 1\. Januar 1972 an jeweils um ein Drittel des Betrages, um den sich die
 Dienstbezüge erhöhen.
-
 
 ## § 4
 
@@ -94,19 +85,13 @@ Bundesbesoldungsgesetzes die Sätze der Ortsklasse A gestrichen.
 sich zu den in den Absätzen 1 und 2 genannten Zeitpunkten
 entsprechend.
 
-
 ## Art II - Übergangsvorschriften zur Vereinheitlichung der Besoldungsstruktur in Bund und Ländern
-
-
 
 ## (XXXX) §§ 1 bis 9 (weggefallen)
 
 -
 
-
 ### Abschnitt 1 - Zulagen im Bereich des Bundes
-
-
 
 ### § 10 Übergangsvorschrift für Erschwerniszulagen
 
@@ -119,7 +104,6 @@ Aufhebung durch die Bundesregierung weiter anzuwenden. Sie treten
 spätestens mit Ablauf des 31. Dezember 1972 außer Kraft; Zahlungen
 dürfen von diesem Zeitpunkt an auf Grund der bezeichneten Regelungen
 nicht mehr geleistet werden.
-
 
 ### § 11 Stufenregelung zu den §§ 4 bis 8
 
@@ -184,13 +168,7 @@ Die §§ 4 bis 8 gelten bis zum 30. Juni 1972 mit folgenden Maßgaben:
 *    *
     *   Beträge wie § 6.
 
-
-
-
-
 ### Abschnitt 2 - Vorschriften für den Bereich der Länder
-
-
 
 ### § 12
 
@@ -204,10 +182,7 @@ ihrer Verbände.
 (2) Die Länder erlassen zu § 13 Abs. 5 und 6 sowie zu den §§ 15, 17,
 soweit es danach notwendig ist, Vorschriften zur Ausführung.
 
-
 #### 1. Titel - Grundgehalt, Ortszuschlag, Kinderzuschlag
-
-
 
 #### § 13
 
@@ -259,15 +234,11 @@ Rahmensätze, Höchstbeträge, Mittelbeträge oder entsprechende
 Begrenzungen getroffen, können die Vorschriften entsprechend Absatz 5
 angepaßt werden.
 
-
 #### 2. Titel - Zulagen
-
-
 
 #### (XXXX) §§ 14 bis 16 (weggefallen)
 
 -
-
 
 #### § 17
 
@@ -357,10 +328,7 @@ Bundes kann eine Landesregelung erlassen werden.
 (3) Die Einrichtung oder Gewährung von Zuwendungen auf Grund von
 Haushaltsermächtigungen ist nur zur Abgeltung von Aufwand zulässig.
 
-
 #### 3. Titel - Sonstige Übergangsvorschriften
-
-
 
 #### § 18
 
@@ -397,18 +365,11 @@ Juli 1967 (Bundesgesetzblatt I S. 629) sowie Artikel I § 4 Abs. 4 bis
 6 und Artikel XIV Nr. 6 des Zweiten Besoldungsneuregelungsgesetzes
 werden gestrichen.
 
-
 ## Art III - Vermögenswirksame Leistungen
-
-
 
 ## Art IV - Versorgungsempfänger
 
-
-
 ### Abschnitt 1 - Erhöhung der Versorgungsbezüge
-
-
 
 ### § 1
 
@@ -426,7 +387,6 @@ zugrunde liegt, wird die Grundvergütung um sieben vom Hundert erhöht.
 Bundesbesoldungsgesetz nicht zugrunde liegt, und Versorgungsbezüge,
 die in festen Beträgen festgesetzt sind, werden um zehn vom Hundert
 erhöht.
-
 
 ### § 2
 
@@ -517,7 +477,6 @@ Soweit auf die bisherigen ruhegehaltfähigen Zulagen nach Fußnote 2)
 zur Besoldungsgruppe A9 und nach Fußnote 1) zu den Besoldungsgruppen
 A10 und A11 verwiesen wird, gilt Absatz 1 Satz 2 entsprechend.
 
-
 ### § 3
 
 Die Ausgleichszulagen nach § 48a Abs. 3 Satz 2 des
@@ -531,10 +490,7 @@ Juli 1968 (Bundesgesetzbl. I S. 843) vermindern sich um den Betrag, um
 den sich nach diesem Abschnitt das Grundgehalt (einschließlich
 ruhegehaltfähiger Zulagen) erhöht.
 
-
 ### Abschnitt 2 - Übergangsvorschriften für Versorgungsbezüge
-
-
 
 ### § 4
 
@@ -551,7 +507,6 @@ Bundesbesoldungsordnung A in der am 31. Dezember 1970 geltenden
 Fassung verwiesen wird, treten an ihre Stelle die entsprechenden
 Zulagen nach den §§ 5, 6 Abs. 1 und 2 dieses Abschnitts.
 
-
 ### § 5
 
 Die ruhegehaltfähigen Stellenzulagen nach Artikel II dieses Gesetzes
@@ -562,7 +517,6 @@ II dieses Gesetzes geforderten Voraussetzungen und mit den darin
 genannten Maßgaben zugrunde gelegt. Entsprechendes gilt für Ämter, die
 mit ihrem Amtsinhalt mit den in Satz 1 erfaßten Ämtern übereinstimmen,
 auch wenn die Amtsbezeichnung abweicht.
-
 
 ### § 6
 
@@ -593,7 +547,6 @@ hinsichtlich der ruhegehaltfähigen Stellenzulagen nach Artikel II § 8
 Abs. 1 dieses Gesetzes entsprechend. Die Zulage bestimmt sich nach der
 Besoldungsgruppe, nach der sich die Versorgungsbezüge bemessen.
 
-
 ### § 7
 
 Für Empfänger von Übergangsgebührnissen und Ausgleichsbezügen gilt § 5
@@ -603,7 +556,6 @@ II § 7 Abs. 2 und § 8 Abs. 1 dieses Gesetzes entsprechend. Den
 Zulagen, die für das zu berücksichtigende Amt in der Anlage 2b dieses
 Gesetzes nicht mehr aufgeführt sind, werden weiterhin zugrunde gelegt,
 soweit diese die Zulage nach Satz 1 übersteigen.
-
 
 ### § 8
 
@@ -615,7 +567,6 @@ Laufbahn des Beamten vorgesehen sind, bei der Bemessung der
 Versorgungsbezüge aus dem ersten Beförderungsamt der Laufbahngruppe zu
 berücksichtigen sind.
 
-
 ### § 9
 
 Ein nach Artikel 5 oder Artikel 6 des Siebenten Gesetzes zur Änderung
@@ -624,15 +575,11 @@ sich nicht um den Betrag der ruhegehaltfähigen Stellenzulagen, die
 nach den §§ 5 und 6 dieses Abschnitts den Versorgungsbezügen zugrunde
 gelegt werden.
 
-
 ### § 10
 
 Abschnitt 1 § 3 dieses Artikels gilt entsprechend.
 
-
 ### Abschnitt 3 - Anpassung der Versorgungsbezüge
-
-
 
 ### § 11
 
@@ -673,16 +620,13 @@ Bundesbesoldungsgesetzes in der Fassung des Artikels I dieses Gesetzes
 höher als nach den bisherigen Überleitungsregelungen bewertet worden
 ist.
 
-
 ### (XXXX) §§ 12 und 13 (weggefallen)
 
 -
 
-
 ### § 14
 
 Abschnitt 1 § 3 dieses Artikels gilt entsprechend.
-
 
 ### § 15
 
@@ -692,10 +636,7 @@ wird den Versorgungsempfängern ein Ausgleichsbetrag in Höhe dieses
 Unterschieds gewährt. Erhöhen sich die Versorgungsbezüge, so
 verringert sich der Ausgleichsbetrag entsprechend.
 
-
 ### Abschnitt 4 - Stellenzulagen nach Vorbemerkung Nummer 4 zu den Besoldungsordnungen A und B des Bundesbesoldungsgesetzes
-
-
 
 ### § 16
 
@@ -707,10 +648,7 @@ bezeichneten Personenkreis zugrunde gelegt, wie wenn diese Vorschrift
 bereits bei Eintritt des Versorgungsfalles gegolten hätte. Abschnitt 1
 § 3 dieses Artikels gilt entsprechend.
 
-
 ### Abschnitt 5 - Vorschriften für den Bereich der Länder
-
-
 
 ### § 17
 
@@ -722,7 +660,6 @@ Anlage 1 dieses Gesetzes, an die Stelle der bisherigen Sätze des
 Ortszuschlags die Sätze des Ortszuschlags nach Anlage 3 dieses
 Gesetzes; Artikel I § 4 und Artikel II § 13 dieses Gesetzes gelten
 entsprechend.
-
 
 ### § 18
 
@@ -754,24 +691,17 @@ findet auf die am 31. Dezember 1973 vorhandenen Versorgungsempfänger
 aus dem Personenkreis der Polizeivollzugsbeamten entsprechende
 Anwendung.
 
-
 ## Art V - Schlußvorschriften
 
-
-
 ### Abschnitt 1 - Änderung anderer Gesetze
-
-
 
 ### § 1
 
 (weggefallen)
 
-
 ### § 2
 
 -
-
 
 ### § 3
 
@@ -782,20 +712,15 @@ Soldatenversorgungsgesetzes.
 
 (3) Die Absätze 1 und 2 gelten nicht im Land Berlin.
 
-
 ### (XXXX) §§ 4 und 5 (weggefallen)
 
 -
 
-
 ### Abschnitt 2 - Vorschriften für den Bereich der Länder
-
-
 
 ### § 6 (weggefallen)
 
 -
-
 
 ### § 7
 
@@ -803,10 +728,7 @@ Der Höchstbetrag des Ausgleichs nach § 103 des
 Beamtenrechtsrahmengesetzes gilt unmittelbar für den Bereich der
 Länder.
 
-
 ### Abschnitt 3 - Fortgeltung von Landesrecht
-
-
 
 ### § 8
 
@@ -829,7 +751,6 @@ Beförderungsämter in Sonderlaufbahnen nicht geändert werden.
 in Kraft getretene Änderungen der versorgungsrechtlichen Vorschriften
 des Beamtenrechtsrahmengesetzes bleibt unberührt.
 
-
 ## Art VI - Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
@@ -837,7 +758,6 @@ Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes
 erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 Überleitungsgesetzes.
-
 
 ## Art VII - Inkrafttreten
 
@@ -878,21 +798,15 @@ Es treten in Kraft
 
 9.  die übrigen Vorschriften am 1. Juli 1971.
 
-
-
-
-
 ## Schlußformel
 
 Die Bundesregierung hat dem vorstehenden Gesetz die nach Artikel 113
 des Grundgesetzes erforderliche Zustimmung erteilt.
 
-
 ## Anlage 1 Grundgehaltssätze in der Anlage I des Bundesbesoldungsgesetzes
 
 (Inhalt: nicht darstellbare Tabelle,
 Fundstelle: BGBl. I 1971, 225)
-
 
 ## Anlage 2a - für die Zeit vom 1. Januar 1971 bis 30. April 1971 - Sätze der Amtszulagen und Stellenzulagen in der Anlage I des Bundesbesoldungsgesetzes sowie der ruhegehaltfähigen Zulagen in der Anlage IV des Bundesbesoldungsgesetzes
 
@@ -1041,10 +955,6 @@ Fundstelle des Originaltextes: BGBl. I 1971, 226
 *    *   Anlage IV, Nr. 1, Fußnote 3:
 
     *   43,98 DM
-
-
-
-
 
 ## Anlage 2b - ab 1. Mai 1971 - Sätze der Amtszulagen und Stellenzulagen in der Anlage I des Bundesbesoldungsgesetzes sowie der ruhegehaltfähigen Zulagen in der Anlage IV des Bundesbesoldungsgesetzes
 
@@ -1259,10 +1169,6 @@ Fundstelle des Originaltextes: BGBl. I 1971, 227
 
     *   43,98 DM
 
-
-
-
-
 ## Anlage 3 Ortszuschlag
 
 (Fundstelle des Originaltextes: BGBl. I 1971, 228)
@@ -1383,10 +1289,6 @@ Ortszuschlag für jedes weitere zu berücksichtigende Kind, und zwar
 *    *   für das sechste und die weiteren Kinder
 
     *   um je 62 DM.
-
-
-
-
 
 ## Anlage 4 Überleitungsübersicht zu Artikel IV § 11 Abs. 1 des 1. BesVNG
 

@@ -22,7 +22,6 @@ Neugefasst durch
 Geändert durch
 :   Art. 4 G v. 22.12.2004 I 3704
 
-
 ## § 1 Kosten
 
 (1) Für Amtshandlungen der informationspflichtigen Stellen auf Grund
@@ -40,13 +39,11 @@ eines Tatbestandes nach den Nummern 1.1, 3 bis 5 des
 Kostenverzeichnisses. Erreichen die Auslagen nicht die Höhe von 5
 Euro, werden sie nicht erhoben.
 
-
 ## § 2 Befreiung und Ermäßigung
 
 Von der Erhebung von Kosten kann ganz oder teilweise abgesehen werden,
 wenn dies im Einzelfall aus Gründen des öffentlichen Interesses oder
 der Billigkeit geboten ist.
-
 
 ## § 3 Rücknahme von Anträgen
 
@@ -54,11 +51,9 @@ Wird ein Antrag auf Vornahme der Amtshandlung zurückgenommen oder wird
 ein Antrag abgelehnt oder wird eine Amtshandlung zurückgenommen oder
 widerrufen, werden keine Kosten erhoben.
 
-
 ## § 4 (Inkrafttreten)
 
 -
-
 
 ## Anlage (zu § 1 Abs. 1) Kostenverzeichnis
 

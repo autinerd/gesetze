@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1969, 2053
 
-
-
 ## (XXXX)
 
 (1) Auf Grund des Gesetzes über die Ausprägung von Scheidemünzen vom
@@ -53,11 +51,9 @@ Heinrich Körner, 73 Esslingen.
 
 (8) Dies wird namens der Bundesregierung bekanntgemacht.
 
-
 ## Schlußformel
 
 Der Bundesminister der Finanzen
-
 
 ## (XXXX) Abbildung der Münze
 

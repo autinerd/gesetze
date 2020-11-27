@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 6 G v. 28.7.1993 I 1394
 
-
 ## § 1
 
 (1) Verletzt ein
@@ -42,11 +41,9 @@ mit Ausnahme derjenigen des Königlich Bayerischen Kontingents
 stehen im Sinne dieses Gesetzes den
 Reichsbeamten              gleich.
 
-
 ## § 2
 
 -
-
 
 ## § 3
 
@@ -61,11 +58,9 @@ wird die Verhandlung und Entscheidung letzter Instanz im Sinne des § 8
 des Einführungsgesetzes zum Gerichtsverfassungsgesetze dem
 Bundesgerichtshof zugewiesen.
 
-
 ## § 4
 
 -
-
 
 ## § 5
 
@@ -82,17 +77,12 @@ Die Vorschriften dieses Gesetzes finden keine Anwendung:
     Reichskanzlers                    politischen oder internationalen
     Rücksichten entsprochen hat.
 
-
-
-
-
 ## § 6
 
 Unberührt bleiben die Vorschriften anderer
 Reichsgesetze,              soweit sie für bestimmte Fälle die Haftung
 des
 Reichs              über einen gewissen Umfang hinaus ausschließen.
-
 
 ## § 7
 

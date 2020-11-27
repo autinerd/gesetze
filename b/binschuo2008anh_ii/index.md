@@ -20,7 +20,6 @@ Fundstelle
 Geändert durch
 :   Art. 12 Nr. 9 V v. 16.12.2011 II 1300
 
-
 ## Inhaltsverzeichnis
 
 Teil I
@@ -1559,14 +1558,9 @@ Anlagen
 
     *   Dienstanweisungen
 
-
-
-
 ## Teil I -
 
-
 ### Kapitel 1 - Allgemeines
-
 
 #### § 1.01 Begriffsbestimmungen
 
@@ -2120,10 +2114,6 @@ In dieser Verordnung gelten als:
     Sinnesorgane, Rollstuhlbenutzer, schwangere Frauen und Personen in
     Begleitung von kleinen Kindern.
 
-
-
-
-
 #### § 1.02 Geltungsbereich
 
 
@@ -2161,17 +2151,12 @@ In dieser Verordnung gelten als:
 3.  Dieser Anhang gilt nicht für Fähren im Sinne der
     Rheinschifffahrtspolizeiverordnung.
 
-
-
-
-
 #### § 1.03 Schiffsattest
 
 Fahrzeuge nach § 1.02 Nr. 1 und 2 müssen ein Schiffsattest besitzen,
 das von einer Untersuchungskommission eines Rheinuferstaates oder
 Belgiens erteilt worden ist oder ein von der Zentralkommission für die
 Rheinschifffahrt als gleichwertig anerkanntes Zeugnis.
-
 
 #### § 1.04 Kanalpenichen im Verkehr zwischen Basel und den Schleusen Iffezheim
 
@@ -2182,14 +2167,12 @@ Untersuchungskommission eines Rheinuferstaates oder Belgiens erteiltes
 Zeugnis, das die Tauglichkeit für die Fahrt auf dieser Strecke
 bestätigt. In diesem Fall müssen Kanalpenichen Kapitel 19 entsprechen.
 
-
 #### § 1.05 Seeschiffe
 
 Bei Seeschiffen wird das Schiffsattest nach Anlage B, wenn sie ein
 solches nicht besitzen, durch ein Schiffsattest nach Anlage G ersetzt,
 das die Tauglichkeit zur Fahrt auf dem Rhein bestätigt. In diesem Fall
 müssen sie dem Kapitel 20 entsprechen.
-
 
 #### § 1.06 Anordnungen vorübergehender Art
 
@@ -2203,7 +2186,6 @@ Anordnungen sind von der zuständigen Behörde zu veröffentlichen und
 gelten höchstens drei Jahre. Sie werden in allen Rheinuferstaaten und
 Belgien gleichzeitig in Kraft gesetzt und unter der gleichen
 Voraussetzung aufgehoben.
-
 
 #### § 1.07 Dienstanweisungen für die Untersuchungskommissionen und die nach Kapitel 23 zuständigen Behörden
 
@@ -2225,12 +2207,7 @@ Voraussetzung aufgehoben.
 3.  Die Untersuchungskommissionen und die nach Kapitel 23 zuständigen
     Behörden sind an diese Dienstanweisungen gebunden.
 
-
-
-
-
 ### Kapitel 2 - Verfahren
-
 
 #### § 2.01 Untersuchungskommission
 
@@ -2270,10 +2247,6 @@ Voraussetzung aufgehoben.
     Maßgabe der jeweiligen nationalen Rechtsvorschriften besondere
     Sachverständige heranziehen.
 
-
-
-
-
 #### § 2.02 Antrag auf Untersuchung
 
 
@@ -2288,10 +2261,6 @@ Voraussetzung aufgehoben.
     oder sein Bevollmächtigter kann ein Schiffsattest beantragen. Dem
     Antrag ist stattzugeben, wenn das Schiff den Bestimmungen dieser
     Verordnung entspricht.
-
-
-
-
 
 #### § 2.03 Vorführung des Fahrzeugs zur Untersuchung
 
@@ -2319,10 +2288,6 @@ Voraussetzung aufgehoben.
     Probefahrten durchführen sowie weitere Nachweise verlangen. Dies gilt
     auch während der Bauphase.
 
-
-
-
-
 #### § 2.04 Erteilung des Schiffsattestes
 
 
@@ -2345,10 +2310,6 @@ Voraussetzung aufgehoben.
     Schiffsattest vermerkt wird, auf einem Teil des Schiffes, der fest,
     vor Stößen geschützt und dem Verschleiß wenig ausgesetzt ist,
     unaustilgbar anzubringen.
-
-
-
-
 
 #### § 2.05 Vorläufiges Schiffsattest
 
@@ -2412,10 +2373,6 @@ c)  in den Fällen der Nummer 1 Buchstabe g für sechs Monate. Es darf nur
     mit Zustimmung der Zentralkommission für die Rheinschifffahrt
     verlängert werden.
 
-
-
-
-
 #### § 2.06 Gültigkeitsdauer des Schiffsattest
 
 
@@ -2440,10 +2397,6 @@ c)  in den Fällen der Nummer 1 Buchstabe g für sechs Monate. Es darf nur
     Untersuchung festgelegt. Sie darf jedoch die in Nummer 1
     vorgeschriebenen Fristen nicht überschreiten.
 
-
-
-
-
 #### § 2.07 Vermerke und Änderungen im Schiffsattest
 
 
@@ -2465,10 +2418,6 @@ c)  in den Fällen der Nummer 1 Buchstabe g für sechs Monate. Es darf nur
     vor oder trägt sie einen Vermerk ein, hat sie dies der
     Untersuchungskommission, die das Attest ausgestellt hat, mitzuteilen.
 
-
-
-
-
 #### § 2.08 Sonderuntersuchung
 
 
@@ -2485,10 +2434,6 @@ c)  in den Fällen der Nummer 1 Buchstabe g für sechs Monate. Es darf nur
     Schiffsattestes nicht überschreiten.
     Die Gültigkeitsdauer wird im Schiffsattest vermerkt und ist der
     Untersuchungskommission, die das Attest ausgestellt hat, mitzuteilen.
-
-
-
-
 
 #### § 2.09 Nachuntersuchung
 
@@ -2515,16 +2460,11 @@ c)  in den Fällen der Nummer 1 Buchstabe g für sechs Monate. Es darf nur
     durch ein neues ersetzt, so ist das alte Attest der
     Untersuchungskommission, die es ausgestellt hat, zurückzugeben.
 
-
-
-
-
 #### § 2.10 Freiwillige Untersuchung
 
 Der Eigner eines Fahrzeuges oder sein Bevollmächtigter kann jederzeit
 eine freiwillige Untersuchung verlangen.
 Dem Antrag auf Untersuchung ist stattzugeben.
-
 
 #### § 2.11 Untersuchung von Amts wegen
 
@@ -2539,10 +2479,6 @@ Dem Antrag auf Untersuchung ist stattzugeben.
 2.  Der Eigner des Fahrzeuges trägt nur dann die Kosten der Untersuchung,
     wenn die Untersuchungskommission die Ansicht der in Nummer 1 genannten
     Behörde als begründet anerkennt.
-
-
-
-
 
 #### § 2.12 Bescheinigung oder Prüfung einer Klassifikationsgesellschaft oder einer anderen Stelle
 
@@ -2561,10 +2497,6 @@ Dem Antrag auf Untersuchung ist stattzugeben.
     anerkannt werden, wenn die Klassifikationsgesellschaft oder die andere
     Stelle bestätigt, dass sie die Bestimmungen der Dienstanweisungen nach
     § 1.07 eingehalten hat.
-
-
-
-
 
 #### § 2.13 Zurückbehalten und Rückgabe des Schiffsattestes
 
@@ -2593,10 +2525,6 @@ Dem Antrag auf Untersuchung ist stattzugeben.
     Eigner das Schiffsattest an die Untersuchungskommission, die es
     erteilt hat, zurückzugeben.
 
-
-
-
-
 #### § 2.14 Ersatzausfertigung
 
 
@@ -2610,10 +2538,6 @@ Dem Antrag auf Untersuchung ist stattzugeben.
     der Eigner des Fahrzeuges oder sein Bevollmächtigter das Attest der
     Untersuchungskommission, die es erteilt hat, zurückzugeben; diese
     stellt entsprechend Nummer 1 eine Ersatzausfertigung aus.
-
-
-
-
 
 #### § 2.15 Kosten
 
@@ -2629,10 +2553,6 @@ Dem Antrag auf Untersuchung ist stattzugeben.
 2.  Die Untersuchungskommission kann vor der Untersuchung einen Vorschuss
     bis zur Höhe der voraussichtlichen Kosten verlangen.
 
-
-
-
-
 #### § 2.16 Auskünfte
 
 Die Untersuchungskommission darf Personen, die ein begründetes
@@ -2640,7 +2560,6 @@ Interesse glaubhaft machen, Einsicht in das Schiffsattest eines
 Fahrzeuges gestatten und auf Kosten dieser Personen Auszüge daraus
 oder beglaubigte Abschriften erteilen, die als solche zu bezeichnen
 sind.
-
 
 #### § 2.17 Verzeichnis der Schiffsatteste
 
@@ -2665,10 +2584,6 @@ sind.
     Datenschutzniveau sichergestellt ist, den zuständigen Behörden von
     Drittstaaten aufgrund von Verwaltungsvereinbarungen die Einsichtnahme
     in das Verzeichnis nach Anlage C gewährt.
-
-
-
-
 
 #### § 2.18 Einheitliche europäische Schiffsnummer
 
@@ -2726,10 +2641,6 @@ sind.
     und 2.18 Nummer 3 und der §§ 5 und 9 bis 14 dieser Verordnung zur
     Verfügung gestellt werden.
 
-
-
-
-
 #### § 2.19 Gleichwertigkeit und Abweichungen
 
 
@@ -2768,24 +2679,14 @@ sind.
 4.  Die Gleichwertigkeiten und Abweichungen nach den Nummern 1 und 3 sind
     in das Schiffsattest einzutragen.
 
-
-
-
-
 ## Teil II - Bau, Einrichtung und Ausrüstung
 
-
 ### Kapitel 3 - Schiffbauliche Anforderung
-
 
 #### § 3.01 Grundregel
 
 
 1.  Schiffe müssen nach den Regeln der Schiffbautechnik gebaut sein.
-
-
-
-
 
 #### § 3.02 Festigkeit und Stabilität
 
@@ -2909,10 +2810,6 @@ sind.
 
 3.  Die Stabilität der Schiffe muss ihrem Verwendungszweck entsprechen.
 
-
-
-
-
 #### § 3.03 Schiffskörper
 
 
@@ -2978,10 +2875,6 @@ sind.
 7.  Vorschiffe müssen so gebaut sein, dass Anker weder als Ganzes noch
     teilweise über die Schiffsaußenhaut herausragen.
 
-
-
-
-
 #### § 3.04 Maschinen-, Kessel- und Bunkerräume
 
 
@@ -3046,12 +2939,7 @@ sind.
     dB(A). Die Messstellen sind unter Berücksichtigung der bei normalem
     Betrieb der Anlage nötigen Wartungsarbeiten zu wählen.
 
-
-
-
-
 ### Kapitel 4 - Sicherheitsabstand, Freibord und Tiefgangsanzeiger
-
 
 #### § 4.01 Sicherheitsabstand
 
@@ -3064,10 +2952,6 @@ sind.
     Laderäumen fahren, muss der Sicherheitsabstand so weit erhöht werden,
     bis jede dieser Öffnungen mindestens 500 mm von der Ebene der größten
     Einsenkung entfernt ist.
-
-
-
-
 
 #### § 4.02 Freibord
 
@@ -3282,15 +3166,10 @@ sind.
     v                    · Se
     v                    eingesetzt.
 
-
-
-
-
 #### § 4.03 Mindestfreibord
 
 Unter Berücksichtigung der Verminderung nach § 4.02 darf der
 Mindestfreibord nicht geringer als 0 mm sein.
-
 
 #### § 4.04 Einsenkungsmarken
 
@@ -3341,10 +3220,6 @@ Mindestfreibord nicht geringer als 0 mm sein.
     Einsenkungsmarken, gelten diese Eichmarken auch als Einsenkungsmarken;
     ein entsprechender Vermerk ist in das Schiffsattest einzutragen.
 
-
-
-
-
 #### § 4.05 Höchstzulässige Einsenkung der Schiffe, deren Laderäume nicht immer sprühwasser- und wetterdicht geschlossen sind
 
 Ist die Ebene der größten Einsenkung unter der Voraussetzung
@@ -3357,7 +3232,6 @@ Im Schiffsattest ist einzutragen:
 „Wenn die Luken der Laderäume ganz oder teilweise geöffnet sind, darf
 das Schiff höchstens bis zu ... mm unter die Einsenkungsmarken
 abgeladen sein.“
-
 
 #### § 4.06 Tiefgangsanzeiger
 
@@ -3385,12 +3259,7 @@ abgeladen sein.“
     wenn sie eine den vorstehenden Bestimmungen entsprechende Einteilung
     tragen; gegebenenfalls sind die Zahlen für den Tiefgang hinzuzufügen.
 
-
-
-
-
 ### Kapitel 5 - Manövriereigenschaften
-
 
 #### § 5.01 Allgemeines
 
@@ -3401,7 +3270,6 @@ werden, müssen den besonderen Anforderungen der
 Untersuchungskommission entsprechen;
 Schiffe mit Maschinenantrieb und Verbände müssen den §§ 5.02 bis 5.10
 entsprechen.
-
 
 #### § 5.02 Probefahrten
 
@@ -3441,10 +3309,6 @@ entsprechen.
     verzichten, wenn die Erfüllung der Anforderungen an die Fahr- und
     Manövriereigenschaften auf andere Weise nachgewiesen wird.
 
-
-
-
-
 #### § 5.03 Probefahrtstrecke
 
 
@@ -3464,10 +3328,6 @@ entsprechen.
     unterschiedlichen Wasserständen, müssen durch die
     Untersuchungskommission festgestellt werden können.
 
-
-
-
-
 #### § 5.04 Beladungsgrad der Schiffe und Verbände während der Probefahrt
 
 Schiffe und Verbände, die zur Güterbeförderung bestimmt sind, müssen
@@ -3475,7 +3335,6 @@ für die Probefahrten möglichst gleichlastig und mindestens zu 70 %
 beladen sein. Wird die Probefahrt mit geringerer Beladung
 durchgeführt, so ist die Zulassung für die Talfahrt auf diese Beladung
 zu beschränken.
-
 
 #### § 5.05 Bordhilfsmittel für die Probefahrt
 
@@ -3487,10 +3346,6 @@ zu beschränken.
 
 2.  Aufdrehmanöver nach § 5.10 dürfen jedoch die Buganker verwendet
     werden.
-
-
-
-
 
 #### § 5.06 Geschwindigkeit (Vorausfahrt)
 
@@ -3510,10 +3365,6 @@ zu beschränken.
     „Das Fahrzeug kann eine Geschwindigkeit gegen Wasser von 40 km/h
     überschreiten.“
 
-
-
-
-
 #### § 5.07 Stoppeigenschaften
 
 
@@ -3530,22 +3381,16 @@ zu beschränken.
     Probefahrtstrecke nach § 5.03 und die Wendeeigenschaften durch
     Aufdrehmanöver nach § 5.10 nachzuweisen.
 
-
-
-
-
 #### § 5.08 Rückwärtsfahreigenschaften
 
 Wird das nach § 5.07 notwendige Stoppmanöver in stillen Gewässern
 durchgeführt, ist zusätzlich ein Rückwärtsfahrversuch durchzuführen.
-
 
 #### § 5.09 Ausweicheigenschaften
 
 Schiffe und Verbände müssen rechtzeitig ausweichen können. Die
 Ausweicheigenschaften sind durch Ausweichmanöver auf einer
 Probefahrtstrecke nach § 5.03 nachzuweisen.
-
 
 #### § 5.10 Wendeeigenschaften
 
@@ -3555,9 +3400,7 @@ Diese Wendeeigenschaften können durch die Stoppeigenschaften nach §
 5\.07 ersetzt werden.
 Die Wendeeigenschaften sind durch Aufdrehmanöver nachzuweisen.
 
-
 ### Kapitel 6 - Steuereinrichtungen
-
 
 #### § 6.01 Allgemeine Anforderungen
 
@@ -3596,10 +3439,6 @@ Die Wendeeigenschaften sind durch Aufdrehmanöver nachzuweisen.
 7.  Wellendurchführungen von Ruderschäften müssen so ausgeführt sein, dass
     keine wassergefährdenden Schmiermittel austreten können.
 
-
-
-
-
 #### § 6.02 Antriebsanlage der Rudermaschine
 
 
@@ -3618,10 +3457,6 @@ Die Wendeeigenschaften sind durch Aufdrehmanöver nachzuweisen.
 
 3.  Auch bei Betrieb der zweiten Antriebsanlage oder des Handantriebs
     müssen die Manövriereigenschaften nach Kapitel 5 erreicht werden.
-
-
-
-
 
 #### § 6.03 Hydraulische Antriebsanlage der Rudermaschine
 
@@ -3659,10 +3494,6 @@ Die Wendeeigenschaften sind durch Aufdrehmanöver nachzuweisen.
     spätestens alle acht Jahre von einer Fachfirma geprüft und
     erforderlichenfalls instand gesetzt werden.
 
-
-
-
-
 #### § 6.04 Energiequelle
 
 
@@ -3679,10 +3510,6 @@ Die Wendeeigenschaften sind durch Aufdrehmanöver nachzuweisen.
 3.  Bei elektrischen Energiequellen dürfen aus den Einspeisungen der
     Steuereinrichtungen keine anderen Verbraucher versorgt werden.
 
-
-
-
-
 #### § 6.05 Handantrieb
 
 
@@ -3692,10 +3519,6 @@ Die Wendeeigenschaften sind durch Aufdrehmanöver nachzuweisen.
 
 2.  Ein Zurückschlagen des Steuerrads muss beim selbsttätigen Einkuppeln
     des Handantriebs bei jeder Ruderlage verhindert sein.
-
-
-
-
 
 #### § 6.06 Ruderpropeller-, Wasserstrahl-, Zyloidalpropeller- und Bugstrahlanlage
 
@@ -3715,10 +3538,6 @@ Die Wendeeigenschaften sind durch Aufdrehmanöver nachzuweisen.
     Wasserstrahl-, oder Zykloidalpropelleranlagen vorhanden, ist das
     zweite Steuerungssystem nicht erforderlich, wenn das Schiff bei
     Ausfall einer dieser Anlagen manövrierfähig nach Kapitel 5 bleibt.
-
-
-
-
 
 #### § 6.07 Anzeige und Überwachung
 
@@ -3744,13 +3563,6 @@ Die Wendeeigenschaften sind durch Aufdrehmanöver nachzuweisen.
 
 
     e)  Ausfall der vorgeschriebenen Puffersysteme.
-
-
-
-
-
-
-
 
 #### § 6.08 Wendegeschwindigkeitsregler
 
@@ -3780,10 +3592,6 @@ Die Wendeeigenschaften sind durch Aufdrehmanöver nachzuweisen.
     Wendeanzeiger müssen den Mindestanforderungen der Vorschriften
     betreffend die Mindestanforderungen und Prüfbedingungen für
     Wendeanzeiger in der Rheinschifffahrt entsprechen.
-
-
-
-
 
 #### § 6.09 Abnahme und wiederkehrende Prüfungen
 
@@ -3867,12 +3675,7 @@ Die Wendeeigenschaften sind durch Aufdrehmanöver nachzuweisen.
     Bescheinigung auszustellen, aus der das Datum der Prüfung ersichtlich
     ist.
 
-
-
-
-
 ### Kapitel 7 - Steuerhaus
-
 
 #### § 7.01 Allgemeines
 
@@ -3892,10 +3695,6 @@ Die Wendeeigenschaften sind durch Aufdrehmanöver nachzuweisen.
     angeordnet sein, dass sie der Rudergänger während der Fahrt mühelos
     überwachen und bedienen kann, ohne dabei seinen Platz verlassen zu
     müssen und ohne den Radarbildschirm aus den Augen zu verlieren.
-
-
-
-
 
 #### § 7.02 Freie Sicht
 
@@ -3925,10 +3724,6 @@ Die Wendeeigenschaften sind durch Aufdrehmanöver nachzuweisen.
 
 5.  In Steuerhäusern verwendete Fensterscheiben müssen eine
     Mindestlichtdurchlässigkeit von 75 % haben.
-
-
-
-
 
 #### § 7.03 Allgemeine Anforderungen an Bedienungs-, Anzeige- und Überwachungseinrichtungen
 
@@ -3971,10 +3766,6 @@ Die Wendeeigenschaften sind durch Aufdrehmanöver nachzuweisen.
 
 8.  Überwachungen und Anzeigen müssen beim Ausfall ihrer Speisung
     automatisch auf eine andere Energiequelle geschaltet werden.
-
-
-
-
 
 #### § 7.04 Besondere Anforderungen an Bedienungs-, Anzeige- und Überwachungseinrichtungen für Antriebsmaschinen und Steuereinrichtungen
 
@@ -4064,10 +3855,6 @@ Die Wendeeigenschaften sind durch Aufdrehmanöver nachzuweisen.
     Untersuchungskommission im Schiffsattest unter der Nummer 52 zu
     vermerken.
 
-
-
-
-
 #### § 7.05 Signallichter, Licht- und Schallzeichen
 
 
@@ -4098,10 +3885,6 @@ Die Wendeeigenschaften sind durch Aufdrehmanöver nachzuweisen.
 4.  Bei Radar-Einmannsteuerständen müssen sich die Schallzeichen durch
     Fußschalter geben lassen. Dies gilt nicht für das "Bleib-weg-Signal"
     nach der Rheinschifffahrtspolizeiverordnung.
-
-
-
-
 
 #### § 7.06 Navigationsgeräte
 
@@ -4143,10 +3926,6 @@ Die Wendeeigenschaften sind durch Aufdrehmanöver nachzuweisen.
     aufgrund als gleichwertig anerkannter Typgenehmigungen zugelassenen
     AIS Geräte werden von der Zentralkommission veröffentlicht.“
 
-
-
-
-
 #### § 7.07 Sprechfunkanlage für Schiffe mit Radar-Einmannsteuerstand
 
 
@@ -4163,10 +3942,6 @@ Die Wendeeigenschaften sind durch Aufdrehmanöver nachzuweisen.
     Sprechfunkanlage für den Verkehrskreis öffentlicher
     Nachrichtenaustausch ausgerüstet sind, muss der Empfang vom Sitz des
     Rudergängers aus erfolgen können.
-
-
-
-
 
 #### § 7.08 Interne Sprechverbindung an Bord
 
@@ -4194,7 +3969,6 @@ Lautsprecher und das Senden über feste Mikrofone zu erfolgen. Zum Bug
 und zum Heck des Schiffes oder des Verbandes ist eine
 Funksprechverbindung zulässig.
 
-
 #### § 7.09 Alarmanlage
 
 
@@ -4214,22 +3988,16 @@ Funksprechverbindung zulässig.
     In Maschinen- und Pumpenräumen muss ein überall gut wahrnehmbares,
     rundum sichtbares Blinklicht als Alarmsignal vorhanden sein.
 
-
-
-
-
 #### § 7.10 Heizung und Lüftung
 
 Steuerhäuser müssen mit einer wirksamen und regelbaren Heizung und
 Lüftung versehen sein.
-
 
 #### § 7.11 Bedienungseinrichtung für Heckanker
 
 Auf Schiffen und Verbänden mit Radar-Einmannsteuerstand und L von mehr
 als 86 m oder B von mehr als 22,90 m muss der Rudergänger die
 Heckanker von seinem Platz aus setzen können.
-
 
 #### § 7.12 In der Höhe verstellbare Steuerhäuser
 
@@ -4242,7 +4010,6 @@ verursachte Verletzungsgefahr ausgeschlossen ist.
 In allen Höhenstellungen muss ein gefahrloses Verlassen des
 Steuerhauses möglich sein.
 
-
 #### § 7.13 Vermerk im Schiffsattest für Schiffe mit Radar-Einmannsteuerständen
 
 Entspricht ein Schiff den Sondervorschriften für Radar-
@@ -4250,9 +4017,7 @@ Einmannsteuerstände nach den §§ 7.01, 7.04 bis 7.08 und 7.11, ist im
 Schiffsattest einzutragen:
 "Das Schiff verfügt über einen Radar-Einmannsteuerstand."
 
-
 ### Kapitel 8 - Machinenbauliche Anforderungen
-
 
 #### § 8.01 Allgemeine Bestimmungen
 
@@ -4269,12 +4034,7 @@ Schiffsattest einzutragen:
 3.  Es dürfen nur Verbrennungsmotoren eingebaut sein, die mit Brennstoffen
     betrieben werden, deren Flammpunkt über 55 °C liegt.
 
-
-
-
-
 ### Kapitel 8a - Emission von gasförmigen Schadstoffen und luftverunreinigenden Partikeln von Dieselmotoren
-
 
 #### § 8a.01 Begriffsbestimmungen
 
@@ -4386,10 +4146,6 @@ Schiffsattest einzutragen:
     Komponenten und Motorparameter“ das nach § 8a.11 Nr. 3 zu Zwecken der
     Durchführung der Einbau-, Zwischen- oder Sonderprüfungen erstellte
     Dokument.
-
-
-
-
 
 #### § 8a.02 Grundregel
 
@@ -4545,10 +4301,6 @@ Schiffsattest einzutragen:
 8.  Die zuständige Behörde kann sich zur Erfüllung von Aufgaben nach
     diesem Kapitel eines Technischen Dienstes bedienen.
 
-
-
-
-
 #### § 8a.03 Antrag auf Typengenehmigung
 
 
@@ -4577,10 +4329,6 @@ Schiffsattest einzutragen:
     Behörde gestellt werden. Für jeden zu genehmigenden Motortyp, jede zu
     genehmigende Motorenfamilie oder jede zu genehmigende Motorengruppe
     ist ein gesonderter Antrag zu stellen.
-
-
-
-
 
 #### § 8a.04 Typgenehmigungsverfahren
 
@@ -4649,10 +4397,6 @@ Schiffsattest einzutragen:
     Motorenfamilien und Motorengruppen, für die seit der letzten
     Benachrichtigung eine Genehmigung erteilt worden ist.
 
-
-
-
-
 #### § 8a.05 Änderung von Genehmigungen
 
 
@@ -4694,10 +4438,6 @@ Schiffsattest einzutragen:
     angegebenen Unterlagen erst nach der Durchführung erfolgreicher neuer
     Versuche oder Prüfungen aus.
 
-
-
-
-
 #### § 8a.06 Übereinstimmung
 
 
@@ -4731,10 +4471,6 @@ Schiffsattest einzutragen:
     Behörde keine regelmäßige Übermittlung dieser Liste vom Hersteller
     verlangt, muss dieser die registrierten Daten für einen Zeitraum von
     mindestens 40 Jahren aufbewahren.
-
-
-
-
 
 #### § 8a.07 Anerkennung gleichwertiger anderer Normen
 
@@ -4794,10 +4530,6 @@ Schiffsattest einzutragen:
     oder dritter Staaten mit den Bedingungen und Bestimmungen dieses
     Kapitels für die Typgenehmigung von Motoren anerkennen.
 
-
-
-
-
 #### § 8a.08 Kontrolle der Identifizierungsnummern
 
 
@@ -4828,10 +4560,6 @@ Schiffsattest einzutragen:
     werden. In einem solchen Fall wird das Informationsverfahren nach §
     8a.10 Nr. 4 angewandt.
 
-
-
-
-
 #### § 8a.09 Konformität der Produktion
 
 
@@ -4851,10 +4579,6 @@ Schiffsattest einzutragen:
     weiterhin der Beschreibung im Typgenehmigungsbogen und seinen Anhängen
     für den genehmigten Motortyp, die genehmigte Motorenfamilie oder die
     genehmigte Motorengruppe entspricht.
-
-
-
-
 
 #### § 8a.10 Nichtübereinstimmung mit dem genehmigten Motortyp, der genehmigten Motorenfamilie oder der genehmigten Motorengruppe
 
@@ -4896,10 +4620,6 @@ Schiffsattest einzutragen:
     Sekretariat der Zentralkommission für die Rheinschifffahrt innerhalb
     eines Monats über jeden Entzug einer Typgenehmigung und über die
     Gründe hierfür.
-
-
-
-
 
 #### § 8a.11 Einbau-, Zwischen- und Sonderprüfung
 
@@ -4958,10 +4678,6 @@ Schiffsattest einzutragen:
     Verfahren zur Kontrolle der einwandfreien Funktion der
     Abgasnachbehandlungsanlage beinhalten.
 
-
-
-
-
 #### § 8a.12 Zuständige Behörden und Technische Dienste
 
 
@@ -4988,10 +4704,6 @@ Schiffsattest einzutragen:
 2.  Technische Dienste außerhalb der Mitgliedstaaten der Zentralkommission
     für die Rheinschifffahrt können nur auf Empfehlung der
     Zentralkommission für die Rheinschifffahrt anerkannt werden.
-
-
-
-
 
 #### § 8.02 Sicherheitsvorkehrungen
 
@@ -5036,10 +4748,6 @@ Schiffsattest einzutragen:
 6.  Isolierungen von Maschinenteilen müssen § 3.04 Nr. 3 Absatz 2
     entsprechen.
 
-
-
-
-
 #### § 8.03 Antriebsanlagen
 
 
@@ -5079,10 +4787,6 @@ Schiffsattest einzutragen:
 5.  Wellendurchführungen müssen so ausgeführt sein, dass keine
     wassergefährdenden Schmiermittel austreten können.
 
-
-
-
-
 #### § 8.04 Abgasleitungen von Verbrennungsmotoren
 
 
@@ -5104,10 +4808,6 @@ Schiffsattest einzutragen:
 4.  In Maschinenräumen müssen Abgasleitungen ausreichend isoliert oder
     gekühlt sein. Außerhalb der Maschinenräume kann ein Berührungsschutz
     genügen.
-
-
-
-
 
 #### § 8.05 Brennstofftanks, -leitungen und Zubehör
 
@@ -5223,10 +4923,6 @@ Schiffsattest einzutragen:
     anzeigt, dass die Füllung des Tanks für den weiteren sicheren Betrieb
     nicht mehr ausreichend ist.
 
-
-
-
-
 #### § 8.06 Schmieröltanks, -leitungen und Zubehör
 
 
@@ -5270,10 +4966,6 @@ Schiffsattest einzutragen:
     Wohnungen enden. Peilrohre, die in einem Maschinen- oder Kesselraum
     enden, müssen mit selbstschließenden Verschlussvorrichtungen versehen
     sein.
-
-
-
-
 
 #### § 8.07 Tanks für Öle, die in Kraftübertragungssystemen, Schalt-, Antriebs-, und Heizsystemen verwendet werden, Leitungen und Zubehör
 
@@ -5324,10 +5016,6 @@ Schiffsattest einzutragen:
     Wohnungen enden. Peilrohre, die in einem Maschinen- oder Kesselraum
     enden, müssen mit selbstschließenden Verschlussvorrichtungen versehen
     sein.
-
-
-
-
 
 #### § 8.08 Lenzeinrichtungen
 
@@ -5461,10 +5149,6 @@ Schiffsattest einzutragen:
     müssen entsprechend gekennzeichnet an einem leicht zugänglichen und
     gekennzeichneten Ort im Maschinenraum aufbewahrt werden.
 
-
-
-
-
 #### § 8.09 Einrichtung zum Sammeln von ölhaltigem Wasser und gebrauchtem Öl
 
 
@@ -5486,10 +5170,6 @@ Schiffsattest einzutragen:
 3.  Für Schiffe, die nur auf kurzen Strecken eingesetzt werden, kann die
     Untersuchungskommission Ausnahmen von Nummer 2 zulassen.
 
-
-
-
-
 #### § 8.10 Geräusch der Schiffe
 
 
@@ -5505,12 +5185,7 @@ Schiffsattest einzutragen:
     Geräusch in einem seitlichen Abstand von 25 m von der Bordwand den
     Wert von 65 dB(A) nicht überschreiten.
 
-
-
-
-
 ### Kapitel 9 - Elektrische Anlagen
-
 
 #### § 9.01 Allgemeine Bestimmungen
 
@@ -5554,10 +5229,6 @@ Schiffsattest einzutragen:
 4.  Elektrische und elektronische Anlagen und Geräte müssen gut zugänglich
     und wartungsfreundlich sein.
 
-
-
-
-
 #### § 9.02 Energieversorgungssysteme
 
 
@@ -5575,10 +5246,6 @@ Schiffsattest einzutragen:
 
 3.  Unabhängig von Nummer 1 gilt für die Energiequellen von
     Steuereinrichtungen (Ruderanlagen) § 6.04.
-
-
-
-
 
 #### § 9.03 Schutz gegen Berühren, Eindringen von Fremdkörpern und Wasser
 
@@ -5717,16 +5384,6 @@ entsprechen:
             b)  die entsprechenden IEC-Publikationen 60079 in der am 1. Oktober 2003
                 gültigen Fassung.
 
-
-
-
-
-
-
-
-
-
-
 #### § 9.04 Explosionsschutz
 
 In Räumen, in denen sich explosionsfähige Gase oder Gasgemische
@@ -5738,7 +5395,6 @@ andere elektrische Geräte dürfen in diesen Räumen nicht installiert
 sein. Der Explosionsschutz muss den Eigenschaften der auftretenden
 explosionsfähigen Gase und Gasgemische (Explosionsgruppe,
 Temperaturklasse) entsprechen.
-
 
 #### § 9.05 Schutzerdung
 
@@ -5813,13 +5469,6 @@ Temperaturklasse) entsprechen.
         *   70
 
         *   70
-
-
-
-
-
-
-
 
 #### § 9.06 Zulässige maximale Spannungen
 
@@ -5970,13 +5619,6 @@ Temperaturklasse) entsprechen.
 
     b)  bordeigene Sonderanlagen wie Funkanlagen und Zündeinrichtungen.
 
-
-
-
-
-
-
-
 #### § 9.07 Verteilungssysteme
 
 
@@ -6016,10 +5658,6 @@ Temperaturklasse) entsprechen.
 
 3.  Die Untersuchungskommission kann die Verwendung anderer Systeme
     zulassen.
-
-
-
-
 
 #### § 9.08 Anschluss an Land oder andere externe Netze
 
@@ -6061,13 +5699,6 @@ Temperaturklasse) entsprechen.
 
     b)  Stromart und Nennspannung, bei Wechselstrom zusätzlich die Frequenz.
 
-
-
-
-
-
-
-
 #### § 9.09 Stromabgabe an andere Fahrzeuge
 
 
@@ -6084,10 +5715,6 @@ Temperaturklasse) entsprechen.
 
 3.  § 9.08 Nr. 3 bis 7 ist sinngemäß anzuwenden.
 
-
-
-
-
 #### § 9.10 Generatoren und Motoren
 
 
@@ -6100,10 +5727,6 @@ Temperaturklasse) entsprechen.
     zu anderen Zwecken dienenden Hilfsaggregat angetrieben werden, müssen
     dem betriebsmäßig auftretenden Drehzahlbereich entsprechend bemessen
     sein.
-
-
-
-
 
 #### § 9.11 Akkumulatoren
 
@@ -6190,10 +5813,6 @@ Temperaturklasse) entsprechen.
     -kästen muss ein Symbol für „Feuer, offenes Licht und Rauchen
     verboten“ entsprechend Bild 2 der Anlage I mit einem Durchmesser von
     mindestens 10 cm angebracht sein.
-
-
-
-
 
 #### § 9.12 Schaltanlagen
 
@@ -6313,19 +5932,11 @@ Temperaturklasse) entsprechen.
         Standortisolierung mit isolierenden Grätingen oder Matten versehen
         sein.
 
-
-
-
-
-
-
-
 #### § 9.13 Notabschaltvorrichtungen
 
 Für Ölfeuerungsanlagen, Brennstoffpumpen, Brennstoffseparatoren und
 Maschinenraumlüfter müssen außerhalb der Aufstellungsräume an
 zentraler Stelle Notabschalteinrichtungen vorhanden sein.
-
 
 #### § 9.14 Installationsmaterial
 
@@ -6348,10 +5959,6 @@ zentraler Stelle Notabschalteinrichtungen vorhanden sein.
 4.  Bei Stromstärken über 16 A müssen die Steckdosen mit einem Schalter so
     verriegelt sein, dass weder Einstecken noch Ziehen des Steckers unter
     Strom möglich ist.
-
-
-
-
 
 #### § 9.15 Kabel
 
@@ -6421,10 +6028,6 @@ zentraler Stelle Notabschalteinrichtungen vorhanden sein.
     °C aufweist und insbesondere gegen Dämpfe, UV-Strahlen und Ozon
     beständig ist.
 
-
-
-
-
 #### § 9.16 Beleuchtungsanlagen
 
 
@@ -6441,10 +6044,6 @@ zentraler Stelle Notabschalteinrichtungen vorhanden sein.
     vorhanden, müssen sie auf wenigstens zwei Stromkreise verteilt sein.
     Dies gilt auch für Räume mit Kühlmaschinen, Hydraulikmaschinen oder
     Elektromotoren.
-
-
-
-
 
 #### § 9.17 Signalleuchten
 
@@ -6470,14 +6069,9 @@ zentraler Stelle Notabschalteinrichtungen vorhanden sein.
     gebaute Signalleuchten) dürfen beide Lichtquellen nicht gleichzeitig
     betrieben werden können.
 
-
-
-
-
 #### § 9.18 (ohne Inhalt)
 
 -
-
 
 #### § 9.19 Alarm- und Sicherheitssysteme für maschinentechnische Einrichtungen
 
@@ -6508,10 +6102,6 @@ b)  Sicherheitssysteme:
     Sind Sicherheitssysteme nicht selbstüberwachend ausgeführt, muss ihre
     Funktion überprüfbar sein.
     Sicherheitssysteme sind von anderen Systemen unabhängig auszuführen.
-
-
-
-
 
 #### § 9.20 elektronische Anlagen
 
@@ -6631,13 +6221,6 @@ b)  Sicherheitssysteme:
         genügen, ist vom Hersteller zu erbringen. Als Nachweis gilt auch die
         Bescheinigung einer anerkannten Klassifikationsgesellschaft.
 
-
-
-
-
-
-
-
 #### § 9.21 Elektromagnetische Verträglichkeit
 
 Elektrische und elektronische Anlagen dürfen nicht durch
@@ -6653,12 +6236,7 @@ b)  die Reduzierung der Störursachen an den Störquellen;
 
 c)  die Verringerung der Störempfindlichkeit an den Störsenken.
 
-
-
-
-
 ### Kapitel 10 - Ausrüstung
-
 
 #### § 10.01 Ankerausrüstung
 
@@ -6887,10 +6465,6 @@ c)  die Verringerung der Störempfindlichkeit an den Störsenken.
     die gleiche Bruchfestigkeit wie die vorgeschriebenen Ankerketten
     haben, jedoch muss ihre Länge 20 % größer sein.
 
-
-
-
-
 #### § 10.02 Sonstige Ausrüstung
 
 
@@ -7004,10 +6578,6 @@ c)  die Verringerung der Störempfindlichkeit an den Störsenken.
 3.  Auf Schiffen mit einer Bordhöhe von mehr als 1,50 m über der
     Leerwasserlinie muss eine Außenbordtreppe oder -leiter vorhanden sein.
 
-
-
-
-
 #### § 10.03 Tragbare Feuerlöscher
 
 
@@ -7065,10 +6635,6 @@ c)  die Verringerung der Störempfindlichkeit an den Störsenken.
 6.  Sind tragbare Feuerlöscher verdeckt aufgestellt, muss die Abdeckung
     durch ein Symbol für Feuerlöscher gemäß Anlage I Bild 3 mit einer
     Kantenlänge von mindestens 10 cm gekennzeichnet sein.
-
-
-
-
 
 #### § 10.03a Fest installierte Feuerlöschanlagen für den Schutz von Wohnungen, Steuerhäusern und Fahrgasträumen
 
@@ -7140,10 +6706,6 @@ c)  die Verringerung der Störempfindlichkeit an den Störsenken.
 
 
 9.  Die Anzahl der vorhandenen Anlagen ist im Schiffsattest zu vermerken.
-
-
-
-
 
 #### § 10.03b Fest installierte Feuerlöschanlagen für den Schutz von Maschinen-, Kessel- und Pumpenräumen
 
@@ -7627,19 +7189,11 @@ c)  die Verringerung der Störempfindlichkeit an den Störsenken.
     g)  Nach Flutung darf die Konzentration im zu schützenden Raum nicht
         größer als 10,0 % sein.
 
-
-
-
-
-
-
-
 #### § 10.03c Fest installierte Feuerlöschanlagen für den Objektschutz
 
 Für den Objektschutz sind fest installierte Feuerlöschanlagen nur auf
 Grund von Empfehlungen der Zentralkommission für die Rheinschifffahrt
 zulässig.
-
 
 #### § 10.04 Beiboote
 
@@ -7673,10 +7227,6 @@ zulässig.
 
 3.  Aufblasbare Beiboote müssen entsprechend den Herstellerangaben geprüft
     sein.
-
-
-
-
 
 #### § 10.05 Rettungsringe und Rettungswesten
 
@@ -7713,12 +7263,7 @@ zulässig.
 
 3.  Rettungswesten müssen entsprechend den Herstellerangaben geprüft sein.
 
-
-
-
-
 ### Kapitel 11 - Sicherheit im Arbeitsbereich
-
 
 #### § 11.01 Allgemeines
 
@@ -7733,10 +7278,6 @@ zulässig.
     und gefahrlos bedient, benutzt und gewartet werden können.
     Erforderlichenfalls müssen bewegliche und heiße Teile mit
     Schutzsvorrichtungen versehen sein.
-
-
-
-
 
 #### § 11.02 Schutz vor Sturz und Absturz
 
@@ -7768,15 +7309,10 @@ zulässig.
     kann die Untersuchungskommission geeignete Einrichtungen und
     Ausrüstungen zum sicheren Arbeiten fordern.
 
-
-
-
-
 #### § 11.03 Abmessung der Arbeitsplätze
 
 Arbeitsplätze müssen so groß sein, dass jede dort beschäftigte Person
 genügend Bewegungsfreiheit hat.
-
 
 #### § 11.04 Gangbord
 
@@ -7800,10 +7336,6 @@ genügend Bewegungsfreiheit hat.
 
 3.  Die Anforderungen nach Nummer 1 und 2 gelten bis zu einer Höhe von
     2,00 m über dem Gangbord.
-
-
-
-
 
 #### § 11.05 Zugänge der Arbeitsplätze
 
@@ -7850,10 +7382,6 @@ genügend Bewegungsfreiheit hat.
     sind, die bei einem Steigungswinkel von 60° mindestens 3 Sprossen über
     den Lukenrand reichen müssen.
 
-
-
-
-
 #### § 11.06 Ausgänge und Notausgänge
 
 
@@ -7867,10 +7395,6 @@ genügend Bewegungsfreiheit hat.
     müssen eine lichte Öffnung von mindestens 0,36 m
     2                    haben, wobei die kürzeste Seite mindestens 0,50 m
     betragen muss.
-
-
-
-
 
 #### § 11.07 Steigvorrichtungen
 
@@ -7897,10 +7421,6 @@ genügend Bewegungsfreiheit hat.
     0,50 m breit sein; sie müssen gegen Kippen und Rutschen zu sichern
     sein; Sprossen müssen fest in die Holme eingelassen sein.
 
-
-
-
-
 #### § 11.08 Innenräume
 
 
@@ -7918,10 +7438,6 @@ genügend Bewegungsfreiheit hat.
     gesichert sein. Fenster und Oberlichter müssen so beschaffen und
     angeordnet sein, dass sie gefahrlos betätigt und gereinigt werden
     können.
-
-
-
-
 
 #### § 11.09 Schutz gegen Lärm und Vibration
 
@@ -7942,10 +7458,6 @@ genügend Bewegungsfreiheit hat.
     benutzen“ entsprechend Bild 7 der Anlage I mit einem Durchmesser von
     mindestens 10 cm auf die Pflicht zur Benutzung der Gehörschutzmittel
     hingewiesen werden.
-
-
-
-
 
 #### § 11.10 Lukenabdeckungen
 
@@ -7983,10 +7495,6 @@ genügend Bewegungsfreiheit hat.
     Stelle darauf hingewiesen sein; in diesem Fall sind entsprechende
     Pläne an Bord mitzuführen.
 
-
-
-
-
 #### § 11.11 Winden
 
 
@@ -8001,10 +7509,6 @@ genügend Bewegungsfreiheit hat.
     Rückschlagen der Kurbeln verhindern. Winden, die sowohl Kraft- als
     auch Handantrieb haben, müssen so beschaffen sein, dass der
     Kraftantrieb die Handantriebswelle nicht in Bewegung setzen kann.
-
-
-
-
 
 #### § 11.12 Krane
 
@@ -8112,13 +7616,6 @@ genügend Bewegungsfreiheit hat.
 
     b)  Bescheinigung über erfolgte Prüfungen nach Nummer 6 bis 8 oder 9.
 
-
-
-
-
-
-
-
 #### § 11.13 Lagerung brennbarer Flüssigkeiten
 
 Zur Lagerung brennbarer Flüssigkeiten mit einem Flammpunkt von weniger
@@ -8127,9 +7624,7 @@ Material vorhanden sein. An dessen Außenseite muss ein Symbol für
 „Feuer, offenes Licht und Rauchen verboten“ entsprechend Bild 2 der
 Anlage I mit einem Durchmesser von mindestens 10 cm angebracht sein.
 
-
 ### Kapitel 12 - Wohnungen
-
 
 #### § 12.01 Allgemeine Bestimmungen
 
@@ -8153,10 +7648,6 @@ Anlage I mit einem Durchmesser von mindestens 10 cm angebracht sein.
 4.  Die Untersuchungskommission trägt in das Schiffsattest Beschränkungen
     der Betriebsform oder der Art des Schiffsbetriebs ein, die aufgrund
     von Ausnahmen nach Nummer 3 erforderlich sind.
-
-
-
-
 
 #### § 12.02 Besondere bauliche Anforderungen an die Wohnungen
 
@@ -8272,10 +7763,6 @@ Anlage I mit einem Durchmesser von mindestens 10 cm angebracht sein.
     untergebracht sind, sowie für Leitungen von Flüssiggasanlagen für
     Haushaltszwecke.
 
-
-
-
-
 #### § 12.03 Sanitäre Einrichtungen
 
 
@@ -8310,10 +7797,6 @@ Anlage I mit einem Durchmesser von mindestens 10 cm angebracht sein.
     die Fläche des Waschbeckens und/ oder der Duschenwanne (oder
     gegebenenfalls der Badewanne) vergrößert sein.
 
-
-
-
-
 #### § 12.04 Küchen
 
 
@@ -8344,10 +7827,6 @@ Anlage I mit einem Durchmesser von mindestens 10 cm angebracht sein.
     Besatzungsmitglieder, die sie gewöhnlich gleichzeitig benutzen,
     ausreichen. Die Sitzplatzbreite darf nicht weniger als 0,60 m
     betragen.
-
-
-
-
 
 #### § 12.05 Trinkwasseranlagen
 
@@ -8408,10 +7887,6 @@ Anlage I mit einem Durchmesser von mindestens 10 cm angebracht sein.
     geeignete Luftfilter und Entöler angeordnet sein, es sei denn, das
     Trinkwasser ist von der Druckluft durch eine Membrane getrennt.
 
-
-
-
-
 #### § 12.06 Heizung und Lüftung
 
 
@@ -8431,10 +7906,6 @@ Anlage I mit einem Durchmesser von mindestens 10 cm angebracht sein.
     Schiffsabteilungen wie Maschinen- oder Laderäume verhindert wird; bei
     Zwangslüftung sind die Einlassöffnungen so anzuordnen, dass sie diesen
     Anforderungen entsprechen.
-
-
-
-
 
 #### § 12.07 Sonstige Wohnungseinrichtungen
 
@@ -8456,12 +7927,7 @@ Anlage I mit einem Durchmesser von mindestens 10 cm angebracht sein.
     handelsüblichem Petroleum betrieben werden. Sie müssen so aufgestellt
     oder angebracht sein, dass keine Brandgefahr besteht.
 
-
-
-
-
 ### Kapitel 13 - Heiz-, Koch-, und Kühleinrichtungen, die mit Brennstoffen betrieben werden
-
 
 #### § 13.01 Allgemeine Anforderungen
 
@@ -8490,10 +7956,6 @@ Anlage I mit einem Durchmesser von mindestens 10 cm angebracht sein.
     müssen mit geeigneten Hauben oder Schutzvorrichtungen gegen Wind
     versehen sein. Sie müssen so angelegt sein, dass eine Reinigung
     möglich ist.
-
-
-
-
 
 #### § 13.02 Verwendung von flüssigem Brennstoff, Geräte für Petroleum
 
@@ -8524,13 +7986,6 @@ Anlage I mit einem Durchmesser von mindestens 10 cm angebracht sein.
     c.  so aufgestellt sein, dass die Verbrennungsgase sicher abgeführt
         werden.
 
-
-
-
-
-
-
-
 #### § 13.03 Ölheizöfen mit Verdampfungsbrennern und Ölfeuerungsanlagen mit Zerstäubungsbrennern
 
 
@@ -8546,10 +8001,6 @@ Anlage I mit einem Durchmesser von mindestens 10 cm angebracht sein.
     Luftzufuhr vorzusehen. Die Aufstellung muss so erfolgen, dass eine
     eventuell aus dem Feuerraum zurückschlagende Flamme keine anderen
     Teile der Einrichtung des Maschinenraums erreichen kann.
-
-
-
-
 
 #### § 13.04 Ölheizöfen mit Verdampfungsbrennern
 
@@ -8607,10 +8058,6 @@ Anlage I mit einem Durchmesser von mindestens 10 cm angebracht sein.
 5.  Rauchrohre für Ölheizöfen mit Verdampfungsbrennern mit natürlichem Zug
     müssen mit Einrichtungen zur Verhinderung von Zugumkehr versehen sein.
 
-
-
-
-
 #### § 13.05 Ölfeuerungsanlagen mit Zerstäubungsbrennern
 
 Ölfeuerungsanlagen mit Zerstäubungsbrennern müssen insbesondere
@@ -8632,10 +8079,6 @@ d)  eine Flammenüberwachungseinrichtung muss vorhanden sein, die bei
 
 e)  der Hauptschalter muss außerhalb des Aufstellraumes an einer leicht
     zugänglichen Stelle angebracht sein.
-
-
-
-
 
 #### § 13.06 Luftheizgeräte
 
@@ -8695,10 +8138,6 @@ h)  Der bei einer Leckage austretende Brennstoff darf sich nicht bis in
 i)  Luftheizgeräte dürfen ihre Heizluft nicht aus einem Maschinenraum
     ansaugen können.
 
-
-
-
-
 #### § 13.07 Heizung mit festen Brennstoffen
 
 
@@ -8718,12 +8157,7 @@ i)  Luftheizgeräte dürfen ihre Heizluft nicht aus einem Maschinenraum
 3.  In der Nähe jedes Heizgerätes muss ein Mittel zur leichten Ablöschung
     der Asche vorhanden sein.
 
-
-
-
-
 ### Kapitel 14 - Flüssiggasanlagen für Haushaltszwecke
-
 
 #### § 14.01 Allgemeines
 
@@ -8737,10 +8171,6 @@ i)  Luftheizgeräte dürfen ihre Heizluft nicht aus einem Maschinenraum
 
 
 2.  Die Anlagen dürfen nur mit handelsüblichem Propan betrieben werden.
-
-
-
-
 
 #### § 14.02 Anlagen
 
@@ -8762,10 +8192,6 @@ i)  Luftheizgeräte dürfen ihre Heizluft nicht aus einem Maschinenraum
 
 4.  Im Maschinenraum darf sich kein Teil der Flüssiggasanlage befinden.
 
-
-
-
-
 #### § 14.03 Behälter
 
 
@@ -8778,10 +8204,6 @@ i)  Luftheizgeräte dürfen ihre Heizluft nicht aus einem Maschinenraum
     geltenden Vorschriften entsprechen.
     Sie müssen den amtlichen Stempel zum Zeichen der Abnahme aufgrund der
     vorgeschriebenen Prüfungen tragen.
-
-
-
-
 
 #### § 14.04 Unterbringung und Einrichtungen der Behälteranlagen
 
@@ -8829,16 +8251,11 @@ i)  Luftheizgeräte dürfen ihre Heizluft nicht aus einem Maschinenraum
     Bild 2 der Anlage I mit einem Durchmesser von mindestens 10 cm
     angebracht sein.
 
-
-
-
-
 #### § 14.05 Ersatz- und Leerbehälter
 
 Ersatz- und Leerbehälter, die sich nicht in der Behälteranlage
 befinden, müssen außerhalb der Wohnung und des Steuerhauses in einem
 Schrank nach § 14.04 gelagert sein.
-
 
 #### § 14.06 Druckregler
 
@@ -8864,10 +8281,6 @@ Schrank nach § 14.04 gelagert sein.
 3.  Sicherheitsventile sowie Abblasleitungen müssen gegen Eindringen von
     Wasser geschützt sein.
 
-
-
-
-
 #### § 14.07 Druck
 
 
@@ -8878,10 +8291,6 @@ Schrank nach § 14.04 gelagert sein.
 2.  Der Druck beim Austritt aus dem letzten Druckregler darf höchstens 5
     kPa (0,05 bar) über dem atmosphärischen Druck mit 10 % Toleranz
     liegen.
-
-
-
-
 
 #### § 14.08 Rohr- und Schlauchleitungen
 
@@ -8919,10 +8328,6 @@ Schrank nach § 14.04 gelagert sein.
     unzulässig erwärmt und auf ihrer ganzen Länge kontrolliert werden
     können.
 
-
-
-
-
 #### § 14.09 Verteilungsnetz
 
 
@@ -8941,10 +8346,6 @@ Schrank nach § 14.04 gelagert sein.
 4.  Hinter jedem Druckregler muss ein Prüfanschluss vorhanden sein.
     Mittels einer Absperrvorrichtung muss sichergestellt sein, dass der
     Druckregler bei der Prüfung nicht dem Prüfdruck ausgesetzt wird.
-
-
-
-
 
 #### § 14.10 Verbrauchsgeräte und deren Aufstellung
 
@@ -8979,10 +8380,6 @@ Schrank nach § 14.04 gelagert sein.
 6.  Verbrauchsgeräte mit von der Raumluft abhängiger Verbrennung müssen in
     einem genügend großen Raum aufgestellt sein.
 
-
-
-
-
 #### § 14.11 Lüftung und Ableitung der Abgase
 
 
@@ -9001,10 +8398,6 @@ Schrank nach § 14.04 gelagert sein.
     Werkstoffen gebaut sein. Ventilatoren zur Raumbelüftung dürfen die
     Abgasanlagen nicht nachteilig beeinflussen.
 
-
-
-
-
 #### § 14.12 Bedienungs- und Sicherheitsvorschriften
 
 An geeigneter Stelle an Bord muss eine Bedienungsanleitung angebracht
@@ -9015,7 +8408,6 @@ als leer gelten.“
 „Die Schläuche sind zu ersetzen, sobald es ihr Zustand erfordert.“
 „Sämtliche Verbrauchsgeräte müssen angeschlossen oder die betreffenden
 Zuleitungen dichtgesetzt sein.“
-
 
 #### § 14.13 Abnahme
 
@@ -9028,7 +8420,6 @@ Fahrgastschiffen hat er zusätzlich festzustellen, ob eine gültige
 Bescheinigung über den ordnungsgemäßen Einbau der Gaswarnanlage nach
 Artikel 15.15 Nummer 9 oder deren Prüfung vorliegt. Er hat der
 Untersuchungskommission hierüber einen Abnahmebericht vorzulegen.
-
 
 #### § 14.14 Prüfungen
 
@@ -9091,10 +8482,6 @@ Die Anlage ist unter folgenden Bedingungen zu prüfen:
     festzustellen. Das Verbrauchsgerät darf zur Benutzung nicht
     freigegeben werden, ehe alle Mängel behoben sind.
 
-
-
-
-
 #### § 14.15 Bescheinigung
 
 
@@ -9114,12 +8501,7 @@ Die Anlage ist unter folgenden Bedingungen zu prüfen:
     Abnahme nach § 14.13 vorausgehen muss. Diese Verlängerung ist im
     Schiffsattest einzutragen.
 
-
-
-
-
 ### Kapitel 15 - Sonderbestimmungen für Fahrgastschiffe
-
 
 #### § 15.01 Allgemeine Bestimmungen
 
@@ -9176,10 +8558,6 @@ Die Anlage ist unter folgenden Bedingungen zu prüfen:
     Empfehlungen der Zentralkommission für die Rheinschifffahrt
     Abweichungen von diesen Vorschriften gestatten. Diese Abweichungen
     sind in das Schiffsattest einzutragen.
-
-
-
-
 
 #### § 15.02 Schiffskörper
 
@@ -9355,10 +8733,6 @@ Die Anlage ist unter folgenden Bedingungen zu prüfen:
 16. Fenster dürfen unterhalb der Tauchgrenze liegen, wenn sie wasserdicht
     sind, sich nicht öffnen lassen, eine ausreichende Festigkeit besitzen
     und § 15.06 Nr. 14 entsprechen.
-
-
-
-
 
 #### § 15.03 Stabilität
 
@@ -10002,13 +9376,6 @@ Die Anlage ist unter folgenden Bedingungen zu prüfen:
     d)  Die Zeit für den vollständigen Ausgleich darf 15 Minuten nicht
         überschreiten.
 
-
-
-
-
-
-
-
 #### § 15.04 Sicherheitsabstand und Freibord
 
 
@@ -10049,10 +9416,6 @@ Die Anlage ist unter folgenden Bedingungen zu prüfen:
 4.  Die Untersuchungskommission kann aus Sicherheitsgründen einen größeren
     Sicherheitsabstand oder einen größeren Freibord festsetzen.
 
-
-
-
-
 #### § 15.05 Höchstzulässige Zahl der Fahrgäste
 
 
@@ -10085,10 +9448,6 @@ Die Anlage ist unter folgenden Bedingungen zu prüfen:
 
 4.  Die höchstzulässige Zahl der Fahrgäste ist an Bord an auffallender
     Stelle deutlich lesbar anzuschlagen.
-
-
-
-
 
 #### § 15.06 Fahrgasträume und -bereiche
 
@@ -10482,10 +9841,6 @@ Die Anlage ist unter folgenden Bedingungen zu prüfen:
 19. Räume, in denen Besatzung oder Bordpersonal untergebracht sind, müssen
     diesem Paragraphen sinngemäß entsprechen.
 
-
-
-
-
 #### § 15.07 Antriebssystem
 
 
@@ -10498,10 +9853,6 @@ Die Anlage ist unter folgenden Bedingungen zu prüfen:
 2.  Das zweite unabhängige Antriebssystem muss sich in einem separaten
     Maschinenraum befinden. Haben die beiden Maschinenräume gemeinsame
     Trennflächen, müssen sie entsprechend § 15.11 Nr. 2 gebaut sein.
-
-
-
-
 
 #### § 15.08 Sicherheitseinrichtung und -ausrüstung
 
@@ -10600,10 +9951,6 @@ Die Anlage ist unter folgenden Bedingungen zu prüfen:
     weitere Verbandkästen in ausreichender Zahl vorhanden sein. Die
     Verbandkästen und ihre Unterbringung müssen den Anforderungen nach §
     10\.02 Nr. 2 Buchstabe f entsprechen.
-
-
-
-
 
 #### § 15.09 Rettungsmittel
 
@@ -10713,10 +10060,6 @@ Die Anlage ist unter folgenden Bedingungen zu prüfen:
 
 
 11. Eine geeignete Krankentrage muss vorhanden sein.
-
-
-
-
 
 #### § 15.10 Elektrische Anlagen
 
@@ -10862,10 +10205,6 @@ Die Anlage ist unter folgenden Bedingungen zu prüfen:
 
 11. Störungen in der Haupt- oder Notstromanlage dürfen nicht zu einer
     gegenseitigen Beeinflussung der Betriebssicherheit der Anlagen führen.
-
-
-
-
 
 #### § 15.11 Brandschutz
 
@@ -11630,10 +10969,6 @@ Die Anlage ist unter folgenden Bedingungen zu prüfen:
 
     vorhanden sein.
 
-
-
-
-
 #### § 15.13 Sicherheitsorganisation
 
 
@@ -11799,10 +11134,6 @@ Die Anlage ist unter folgenden Bedingungen zu prüfen:
     Diese Angaben müssen in Deutsch, Englisch, Französisch und
     Niederländisch vorhanden sein.
 
-
-
-
-
 #### § 15.14 Einrichtung zum Sammeln und Entsorgen von häuslichen Abwässern
 
 
@@ -11818,10 +11149,6 @@ Die Anlage ist unter folgenden Bedingungen zu prüfen:
     Durchleitung von Abwässern anderer Schiffe muss möglich sein. Die
     Leitungen müssen mit einem Abgabeanschluss nach der Europäischen Norm
     EN 1306 : 1996 versehen sein.
-
-
-
-
 
 #### § 15.15 Abweichungen für bestimmte Fahrgastschiffe
 
@@ -11970,12 +11297,7 @@ Die Anlage ist unter folgenden Bedingungen zu prüfen:
     der der sich dort befindenden Betten entspricht, griffbereit vorhanden
     sind.
 
-
-
-
-
 ### Kapitel 16 - Sonderbestimmungen für Fahrzeuge, die zur Verwendung als Teil eines Schubverbandes, eines Schleppverbandes oder einer gekuppelten Zusammenstellung bestimmt sind
-
 
 #### § 16.01 Zum Schieben geeignete Fahrzeuge
 
@@ -12015,10 +11337,6 @@ Die Anlage ist unter folgenden Bedingungen zu prüfen:
 
 4.  Bei Schubbooten kann das Kollisionsschott nach § 3.03 Nr. 1 Buchstabe
     a entfallen.
-
-
-
-
 
 #### § 16.02 Zum Geschobenwerden geeignete Fahrzeuge
 
@@ -12060,17 +11378,12 @@ Die Anlage ist unter folgenden Bedingungen zu prüfen:
     Kupplungseinrichtungen versehen sein, die eine sichere Verbindung mit
     anderen Fahrzeugen gewährleisten.
 
-
-
-
-
 #### § 16.03 Zum Fortbewegen von gekuppelten Fahrzeugen geeignete Fahrzeuge
 
 Auf Fahrzeugen, die zum Fortbewegen von gekuppelten Fahrzeugen
 verwendet werden sollen, müssen Poller oder gleichwertige
 Einrichtungen vorhanden sein, die nach Anzahl und Anordnung eine
 sichere Verbindung der gekuppelten Fahrzeuge ermöglichen.
-
 
 #### § 16.04 Zum Fortbewegtwerden in Verbänden geeignete Fahrzeuge
 
@@ -12079,7 +11392,6 @@ hierfür geeignete Kupplungseinrichtungen, Poller oder gleichwertige
 Einrichtungen verfügen, die nach Anzahl und Anordnung eine sichere
 Verbindung mit dem oder den anderen Fahrzeugen des Verbandes
 gewährleisten.
-
 
 #### § 16.05 Zum Schleppen geeignete Fahrzeuge
 
@@ -12122,10 +11434,6 @@ gewährleisten.
 2.  Fahrzeuge mit L von mehr als 86 m dürfen zum Schleppen zu Tal nicht
     zugelassen werden.
 
-
-
-
-
 #### § 16.06 Probefahrten mit Verbänden
 
 
@@ -12150,10 +11458,6 @@ gewährleisten.
     Fahrzeuge, die über diese besonderen eingesetzten Einrichtungen
     verfügen.
 
-
-
-
-
 #### § 16.07 Eintragungen in das Schiffsattest
 
 
@@ -12176,15 +11480,7 @@ gewährleisten.
     d)  gegebenenfalls Mindestbruchkraft der Kupplungsseile der
         Längsverbindungen sowie Anzahl der Seilführungen.
 
-
-
-
-
-
-
-
 ### Kapitel 17 - Sonderbestimmungen für schwimmende Geräte
-
 
 #### § 17.01 Allgemeine Bestimmungen
 
@@ -12192,7 +11488,6 @@ Für schwimmende Geräte gelten für Bau und Ausrüstung die Kapitel 3, 7
 bis 14 und 16. Für schwimmende Geräte mit Fahrantrieb gelten
 zusätzlich die Kapitel 5 und 6. Antriebe, die nur kleine
 Ortsveränderungen erlauben, gelten nicht als Fahrantriebe.
-
 
 #### § 17.02 Abweichungen
 
@@ -12257,13 +11552,6 @@ Ortsveränderungen erlauben, gelten nicht als Fahrantriebe.
         Zubehör müssen den Vorschriften eines der Rheinuferstaaten oder
         Belgiens entsprechen.
 
-
-
-
-
-
-
-
 #### § 17.03 Sonstige Bestimmungen
 
 
@@ -12301,10 +11589,6 @@ Ortsveränderungen erlauben, gelten nicht als Fahrantriebe.
     ersetzt. Dabei muss Kapitel 20 unter Berücksichtigung der
     Anforderungen des Kapitels 17 erfüllt sein.
 
-
-
-
-
 #### § 17.04 Restsicherheitsabstand
 
 
@@ -12321,10 +11605,6 @@ Ortsveränderungen erlauben, gelten nicht als Fahrantriebe.
 
 3.  An einer nicht sprühwasser- und wetterdichten Öffnung muss der
     Restsicherheitsabstand mindestens 400 mm betragen.
-
-
-
-
 
 #### § 17.05 Restfreibord
 
@@ -12350,10 +11630,6 @@ Ortsveränderungen erlauben, gelten nicht als Fahrantriebe.
     fordern oder zulassen. Dies gilt auch bei einem schwimmenden Gerät mit
     mehreren Schwimmkörpern. ist ausreichend, wenn er 300 mm beträgt.
 
-
-
-
-
 #### § 17.06 Kränkungsversuch
 
 
@@ -12367,10 +11643,6 @@ Ortsveränderungen erlauben, gelten nicht als Fahrantriebe.
     Gewichts- und Schwerpunktrechnung durchgeführt werden. Das Ergebnis
     der Gewichtsberechnung ist mit Hilfe von Tiefgangsmessungen zu
     kontrollieren, wobei die Differenz nicht mehr als ± 5% betragen darf.
-
-
-
-
 
 #### § 17.07 Stabilitätsnachweis
 
@@ -12573,10 +11845,6 @@ Ortsveränderungen erlauben, gelten nicht als Fahrantriebe.
     Erleichterung nicht zu, sind Hebelarmkurven nach Nummer 2 Buchstabe c
     erforderlich.
 
-
-
-
-
 #### § 17.08 Stabilitätsnachweise bei reduziertem Restfreibord
 
 Wird ein verringerter Restfreibord nach § 17.05 Nr. 3 in Anspruch
@@ -12624,15 +11892,10 @@ f)  innerhalb eines Krängungsbereichs von 0° bis 30° ein Resthebel von
     Krängungswinkel, gilt die Resthebelforderung für diesen
     Krängungswinkel.
 
-
-
-
-
 #### § 17.09 Einsenkungsmarken und Tiefgangsanzeiger
 
 Einsenkungsmarken nach § 4.04 und Tiefgangsanzeiger nach § 4.06 müssen
 angebracht sein.
-
 
 #### § 17.10 Schwimmende Geräte ohne Stabilitätsnachweis
 
@@ -12660,15 +11923,7 @@ angebracht sein.
     b)  der Sicherheitsabstand für nicht sprühwasser- und wetterdicht
         verschließbare Öffnungen 500 mm betragen.
 
-
-
-
-
-
-
-
 ### Kapitel 18 - Sonderbestimmungen für Baustellenfahrzeuge
-
 
 #### § 18.01 Einsatzbedingungen
 
@@ -12679,13 +11934,11 @@ Hierzu müssen diese Baustellenfahrzeuge über eine Bescheinigung der
 zuständigen Behörde über Dauer und örtliche Begrenzung der Baustelle,
 auf der das Fahrzeug eingesetzt werden darf, verfügen.
 
-
 #### § 18.02 Anwendung des Teils II
 
 Sofern in diesem Kapitel nichts anderes bestimmt ist, gelten für Bau
 und Ausrüstung von Baustellenfahrzeugen die Kapitel 3 bis 14 des Teils
 II.
-
 
 #### § 18.03 Abweichungen
 
@@ -12726,10 +11979,6 @@ b)  § 10.01 Nr. 1 und 3, wenn das Baustellenfahrzeug mittels Arbeitsankern
 c)  § 10.02 Nr. 1 Buchstabe c, wenn das Baustellenfahrzeug nicht über
     einen eigenen Fahrantrieb verfügt.
 
-
-
-
-
 #### § 18.04 Sicherheitsabstand und Freibord
 
 
@@ -12749,10 +11998,6 @@ c)  § 10.02 Nr. 1 Buchstabe c, wenn das Baustellenfahrzeug nicht über
     den Sicherheitsabstand und für den Freibord abweichende Werte
     festsetzen.
 
-
-
-
-
 #### § 18.05 Beiboote
 
 Baustellenfahrzeuge brauchen nicht mit einem Beiboot ausgerüstet zu
@@ -12764,12 +12009,7 @@ a)  kein Fahrantrieb vorhanden ist oder
 b)  auf der Baustelle ein anderes Beiboot zur Verfügung steht. Diese
     Erleichterung ist in das Schiffsattest einzutragen.
 
-
-
-
-
 ### Kapitel 19 - Sonderbestimmungen für Kanalpenichen
-
 
 #### § 19.01 Allgemeines
 
@@ -12777,7 +12017,6 @@ Für Kanalpenichen, die den Rhein nur zwischen Basel (Mittlere
 Rheinbrücke) und den Schleusen Iffezheim einschließlich des unteren
 Vorhafens befahren, gelten für Bau und Ausrüstung nur die §§ 19.02 und
 19\.03.
-
 
 #### § 19.02 Anwendung des Teils II
 
@@ -12893,16 +12132,9 @@ Für Kanalpenichen gelten:
 
 7.  Kapitel 14.
 
-
-
-
-
 #### § 19.03 (weggefallen)
 
-
-
 ### Kapitel 20 - Sonderbestimmungen für Seeschiffe
-
 
 #### § 20.01 Anwendung des Teils II
 
@@ -12990,25 +12222,14 @@ Für Kanalpenichen gelten:
         zuständigen Behörde geprüft wurden und die Container auf die für die
         Seeschifffahrt übliche Weise gesichert sind.
 
-
-
-
-
-
-
-
 #### § 20.02 (weggefallen)
 
-
-
 ### Kapitel 21 - Sonderbestimmungen für Sportfahrzeuge
-
 
 #### § 21.01 Allgemeines
 
 Für Sportfahrzeuge gelten für Bau, Ausrüstung und Besatzung nur die §§
 21\.02 und 21.03.
-
 
 #### § 21.02 Anwendung des Teils II
 
@@ -13102,22 +12323,9 @@ Für Sportfahrzeuge gelten für Bau, Ausrüstung und Besatzung nur die §§
         dd) Kapitel 14 vollständig, wenn die Flüssiggasanlage nach
             Inverkehrbringen des Sportfahrzeuges eingebaut wird.
 
-
-
-
-
-
-
-
-
-
-
 #### § 21.03 (weggefallen)
 
-
-
 ### Kapitel 22 - Stabilität von Schiffen, die Container befördern
-
 
 #### § 22.01 Allgemeines
 
@@ -13165,12 +12373,7 @@ Für Sportfahrzeuge gelten für Bau, Ausrüstung und Besatzung nur die §§
     Schiffskörper verbunden sind und sich ihre Lage während der Fahrt
     nicht verändern kann.
 
-
-
-
-
 ### Kapitel 22a - Sonderbestimmungen für Fahrzeuge, deren Länge 110 m überschreitet
-
 
 #### § 22a.01 Anwendung des Teils I
 
@@ -13184,12 +12387,10 @@ können entfallen, wenn vor Baubeginn eine Bescheinigung vorgelegt
 wird, in der eine anerkannte Klassifikationsgesellschaft versichert,
 dass sie die Bauaufsicht durchführt.
 
-
 #### § 22a.02 Anwendung des Teils II
 
 Für Fahrzeuge mit L von mehr als 110 m gelten zusätzlich zu den
 Anforderungen des Teils II die § 22a.03 bis 22a.05.
-
 
 #### § 22a.03 Festigkeit
 
@@ -13197,7 +12398,6 @@ Die genügende Festigkeit des Schiffskörpers im Sinne von § 3.02 Nr. 1
 Buchstabe a (Längs- und Querfestigkeit sowie örtliche Festigkeit) muss
 durch eine Bescheinigung einer anerkannten Klassifikationsgesellschaft
 nachgewiesen sein.
-
 
 #### § 22a.04 Schwimmfähigkeit und Stabilität
 
@@ -13369,10 +12569,6 @@ nachgewiesen sein.
 9.  Soweit zur Erfüllung der Forderungen nach Nummer 2 oder 3 notwendig,
     ist die Ebene der größten Einsenkung neu festzusetzen.
 
-
-
-
-
 #### § 22a.05 Zusätzliche Anforderungen
 
 
@@ -13467,20 +12663,12 @@ nachgewiesen sein.
     e)  einen Eintrag im Schiffsattest unter der Nummer 52 haben, dass sie den
         besonderen Anforderungen nach Buchstaben a bis d genügen.
 
-
-
-
-
-
-
-
 #### § 22a.06 Anwendung des Teils IV bei Umbauten
 
 Bei Fahrzeugen, die auf eine Länge von mehr als 110 m umgebaut werden,
 darf die Untersuchungskommission Kapitel 24 nur aufgrund von
 besonderen Empfehlungen der Zentralkommission für die Rheinschifffahrt
 anwenden.
-
 
 #### § 22.02 Randbedingungen und Berechnungsverfahren für den Stabilitätsnachweis bei Beförderung ungesicherter Container
 
@@ -13723,7 +12911,6 @@ anwenden.
 
 ### Kapitel 22b - Sonderbestimmungen für schnelle Schiffe
 
-
 #### § 22b.01 Allgemeines
 
 
@@ -13743,13 +12930,6 @@ anwenden.
 
     d)  Flüssiggasanlagen nach Kapitel 14.
 
-
-
-
-
-
-
-
 #### § 22b.02 Anwendung des Teils I
 
 
@@ -13762,10 +12942,6 @@ anwenden.
 2.  Abweichend von § 2.06 beträgt die Gültigkeitsdauer der nach den
     Bestimmungen dieses Kapitels ausgestellten Schiffsatteste maximal fünf
     Jahre.
-
-
-
-
 
 #### § 22b.03 Anwendung des Teils II
 
@@ -13806,10 +12982,6 @@ anwenden.
 4.  Zusätzlich zu den Anforderungen des Teils II gelten für schnelle
     Schiffe die §§ 22b.04 bis 22b.12.
 
-
-
-
-
 #### § 22b.04 Sitze und Sicherheitsgurte
 
 Für die höchstzulässige Anzahl von Personen an Bord müssen Sitze
@@ -13818,12 +12990,10 @@ Sicherheitsgurte kann verzichtet werden, wenn ein geeigneter
 Aufprallschutz vorhanden ist oder in den Fällen, wo diese im HSC Code
 2000 Kapitel 4 Abschnitt 6 nicht gefordert werden.
 
-
 #### § 22b.05 Freibord
 
 Abweichend von § 4.02 und § 4.03 muss der Freibord mindestens 500 mm
 betragen.
-
 
 #### § 22b.06 Auftrieb, Stabilität und Unterteilung
 
@@ -13847,7 +13017,6 @@ c)  Stabilitätseigenschaften im Betriebszustand mit dynamischem Auftrieb
 
 
 in ausreichendem Maße nachgewiesen sein.
-
 
 #### § 22b.07 Steuerhaus
 
@@ -13941,10 +13110,6 @@ in ausreichendem Maße nachgewiesen sein.
     Spiegelungen durch Oberflächenwerkstoffe sind im Steuerhaus zu
     verhindern.
 
-
-
-
-
 #### § 22b.08 Zusätzliche Ausrüstung
 
 Schnelle Fahrzeuge müssen ausgerüstet sein mit:
@@ -13954,10 +13119,6 @@ a)  einem Radargerät und einem Wendeanzeiger nach § 7.06 Nr. 1 und
 
 b)  griffbereiten Einzelrettungsmitteln nach der europäischen Norm EN 395
     : 1998 für die gesamte höchstzulässige Anzahl der Personen an Bord.
-
-
-
-
 
 #### § 22b.09 Geschlossene Bereiche
 
@@ -13988,13 +13149,6 @@ b)  griffbereiten Einzelrettungsmitteln nach der europäischen Norm EN 395
         Notausrüstung, Rettungsmittel sowie das Anlegen der Rettungswesten
         ersichtlich sind.
 
-
-
-
-
-
-
-
 #### § 22b.10 Ausgänge und Fluchtwege
 
 Flucht- und Rettungswege müssen folgende Anforderungen erfüllen:
@@ -14020,10 +13174,6 @@ d)  Die Fluchtwege und Notausgänge müssen über ein geeignetes
 e)  Neben den Ausgängen muss genügend Raum für ein Besatzungsmitglied
     vorhanden sein.
 
-
-
-
-
 #### § 22b.11 Feuerschutz und Feuerbekämpfung
 
 
@@ -14043,10 +13193,6 @@ e)  Neben den Ausgängen muss genügend Raum für ein Besatzungsmitglied
     ausgestattet sein.Löschwasser muss schnell und unmittelbar nach außen
     abgeleitet werden können.
 
-
-
-
-
 #### § 22b.12 Übergangsbestimmungen
 
 Schnelle Schiffe im Sinne des § 1.01 Nummer 20a, die am 31. März 2003
@@ -14063,10 +13209,6 @@ b)  am 1. April 2013
 
 c)  am 1. Januar 2023
     den übrigen Vorschriften.
-
-
-
-
 
 #### § 22.03 Randbedingungen und Berechnungsverfahren für den Stabilitätsnachweis bei Beförderung gesicherter Container
 
@@ -14201,45 +13343,26 @@ c)  am 1. Januar 2023
 
         *            *                ![bgbl1_2008_j2450_223_ab_0020.jpg](bgbl1_2008_j2450_223_ab_0020.jpg)
 
-
-
-
-
-
-
-
-
-
 #### § 22.04 Verfahren für die Stabilitätsbeurteilung an Bord
 
    Das Verfahren der Stabilitätsbeurteilung kann den Unterlagen nach §
 22\.01 Nr. 2 entnommen werden.
 
-
 ## Teil III - Besatzungsvorschriften
-
 
 ### Kapitel 23 - Ausrüstung der Schiffe im Hinblick auf die Besatzung
 
-
 #### (XXXX) §§ 23.01 bis 23.08 (weggefallen)
-
-
 
 #### § 23.09 Ausrüstung der Schiffe
 
 Es gelten die Bestimmungen nach Anhang XI § 2.01.
 
-
 #### (XXXX) §§ 23.10 bis 23.15 (weggefallen)
-
-
 
 ## Teil IV -
 
-
 ### Kapitel 24 - Übergangs- und Schlussbestimmungen
-
 
 #### § 24.01 Anwendung der Übergangsbestimmungen auf Fahrzeuge, die schon im Betrieb sind
 
@@ -14252,10 +13375,6 @@ Es gelten die Bestimmungen nach Anhang XI § 2.01.
 
 
 2.  Für Fahrzeuge, die nicht unter Nummer 1 fallen, gilt § 24.06.
-
-
-
-
 
 #### § 24.02 Abweichungen für Fahrzeuge, die schon im Betrieb sind
 
@@ -16660,10 +15779,6 @@ Umbau vorhandene lichte Breite des Gangbords bis zu einer Höhe von
 0,90 m oder die lichte Breite darüber nicht unterschritten werden,
 wenn diese Maße kleiner sind als die nach § 11.04.
 
-
-
-
-
 #### § 24.03 Abweichungen für Fahrzeuge, deren Kiel am 1. April 1976 oder früher gelegt wurde
 
 
@@ -17011,10 +16126,6 @@ wenn diese Maße kleiner sind als die nach § 11.04.
     beschaffen sind, dass sie im Brandfall etwa ebenso lange benutzbar
     bleiben wie Treppen mit tragender Stahlkonstruktion.
 
-
-
-
-
 #### § 24.04 Sonstige Abweichungen
 
 
@@ -17051,14 +16162,9 @@ wenn diese Maße kleiner sind als die nach § 11.04.
     Ausrüstungsgegenstände noch längstens 20 Jahre nach Neufassung oder
     Überarbeitung der Norm weiter verwendet werden.
 
-
-
-
-
 #### § 24.05 Übergangsbestimmungen zu Kapitel 23 "Besatzungen"
 
 (ohne Inhalt, siehe Anhang XI § 2.16)
-
 
 #### § 24.06 Abweichungen für Fahrzeuge, die nicht unter § 24.01 fallen
 
@@ -18780,12 +17886,7 @@ wenn diese Maße kleiner sind als die nach § 11.04.
     Januar 2035 nur, wenn diese Anlagen in Schiffe eingebaut werden, deren
     Kiel nach dem 1. Oktober 1992 gelegt wurde.
 
-
-
-
-
 #### § 24.07 (ohne Inhalt)
-
 
 #### § 24.08 Übergangsbestimmung zu § 2.18
 
@@ -18799,10 +17900,6 @@ wenn diese Maße kleiner sind als die nach § 11.04.
     Schiffsattestes nach dem 31. März 2007 in das Schiffsattest und in das
     Verzeichnis nach Anlage C eingetragen sowie auf dem Fahrzeug
     angebracht.
-
-
-
-
 
 #### Anlage A (Muster) Antrag auf Untersuchung
 
@@ -19225,11 +18322,9 @@ Zu Nummer
 
 Es gilt das Muster nach Anhang V, Teil II
 
-
 #### Anlage C
 
 Es gilt das Muster nach Anhang VI, Teil II
-
 
 #### Anlage D
 
@@ -19239,27 +18334,17 @@ Es gilt das Muster nach Anhang VI, Teil II
 
 2.  Für Tankschiffe gilt das Muster nach Anhang V, Teil IX
 
-
-
-
-
 #### Anlage E (weggefallen)
 
-
-
 #### Anlage F (weggefallen)
-
-
 
 #### Anlage G
 
 Es gilt das Muster nach Anhang V, Teil VI
 
-
 #### Anlage H
 
 Es gelten die Bestimmungen des Anhangs XI Anlage 1.
-
 
 #### Anlage I Sicherheitszeichen
 
@@ -19335,7 +18420,6 @@ sein als die Darstellungen in dieser Anlage, vorausgesetzt, dass die
 Bedeutung nicht verändert wird und keine Unterschiede und Anpassungen
 die Bedeutung unverständlich machen.
 
-
 #### Anlage J - gilt nur für Fahrzeuge mit Schiffsattest - Emission von gasförmigen Schadstoffen und luftverunreinigenden Partikeln - Ergänzende Bestimmungen und Muster von Bescheinigungen -
 
 ## Inhalt
@@ -19359,9 +18443,6 @@ die Bedeutung unverständlich machen.
 
 
 5.  Motorenfamilien und Motorengruppen
-
-
-
 
 ## Teil II
 
@@ -19389,8 +18470,6 @@ die Bedeutung unverständlich machen.
     *   Wesentliche Merkmale der Motoren in der Motorenfamilie/Motorengruppe
         (Muster)
 
-
-
 ## Teil III
 
 ### Typgenehmigungsbogen (Muster)
@@ -19401,8 +18480,6 @@ die Bedeutung unverständlich machen.
     *   –
 
     *   Prüfergebnisse (Muster)
-
-
 
 ## Teil IV
 
@@ -20326,8 +19403,6 @@ Stamm-Motor/Motortyp
 
 
 *    *   (Muster)
-
-
 
 ## WESENTLICHE MERKMALE DES STAMM-MOTORS/MOTORTYPS
 
@@ -23172,8 +22247,6 @@ EGR = Abgasrückführung.
 
 #### Anlage K (weggefallen)
 
-
-
 #### Anlage L Schema der einheitlichen europäischen Schiffsnummer (ENI)
 
 
@@ -23537,11 +22610,9 @@ Code gemäß den folgenden Zahlenbereichen:
 „xxxxx“ steht für die von der zuständigen Behörde erteilte
 fünfstellige Seriennummer
 
-
 #### Anlage M - gilt nur für Fahrzeuge mit Schiffsattest -
 
 (Ohne Inhalt)
-
 
 #### Anlage N Anforderungen an Inland AIS Geräte und Vorschriften betreffend den Einbau und die Funktionsprüfung von Inland AIS Geräten
 
@@ -23960,11 +23031,9 @@ Anerkennung ausgesprochen.
    Ist keine Fachfirma angegeben, wurde für Firmen in diesem Land keine
 Anerkennung ausgesprochen.
 
-
 #### Anlage O Verzeichnis der dem Schiffsattest nach § 1.03 als gleichwertig anerkannten Zeugnisse und Bedingungen für deren Anerkennung
 
 (Ohne Inhalt)
-
 
 #### Anlage P Daten zur Identifikation eines Fahrzeuges
 
@@ -24055,10 +23124,6 @@ Sofern vorhanden
 
 
 10. Art, Nummer, ausstellende Behörde und Ablaufdatum von anderen Urkunden
-
-
-
-
 
 #### Anlage Q Dienstanweisungen nach § 1.07
 
@@ -25264,9 +24329,6 @@ Stoppmanöver* ****
 
 
 4.  Die einzelnen Stoppwege werden wie folgt berechnet:
-
-
-
 
 ## **Berechnung von Stoppmanövern**
 
@@ -26979,9 +26041,6 @@ relevanten Bestimmungen nach der Rheinschiffspolizeiverordnung (§§
     möglich sein (zumindest die Bewegung beim Knicken), die Anforderungen
     der §§ 7.03 und 7.05 gelten sinngemäß.
 
-
-
-
 ## *Dienstanweisung Nr. 4* ****
 
 ### (ohne Inhalt)
@@ -27038,8 +26097,6 @@ Dienstanweisung Nr. 5
 
 *    *   Anlage
         **zur Dienstanweisung Nr. 5**
-
-
 
 ## *Protokoll Geräuschmessungen* ****
 
@@ -29988,8 +29045,6 @@ Bezugskraftstoff für Binnenschiffe
 
     *   Partikel- Probenahmesystem
 
-
-
 ## **Teil I**
 
 ### Begriffsbestimmungen, Symbole und Abkürzungen
@@ -30751,12 +29806,6 @@ Bezugskraftstoff für Binnenschiffe
     *        *   CFV
 
         *   Venturi-Rohr mit kritischer Strömung
-
-
-
-
-
-
 
 ## **Teil II**
 
@@ -36594,9 +35643,6 @@ anhand nachfolgender Tabelle vorzunehmen.
     *   -
 
     *   C1
-
-
-
 
 ## **Teil II**
 

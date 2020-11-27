@@ -19,13 +19,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 Abs. 123 G v. 22.12.2011 I 3044
 
-
-
 ## § 1 Anwendungsbereich
 
 Diese Verordnung gilt für den Zugang zur Eisenbahninfrastruktur
 öffentlicher Eisenbahninfrastrukturunternehmen.
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -76,10 +73,6 @@ Im Sinne dieser Verordnung bezeichnet der Ausdruck
     zuzuweisenden Zugtrassen und die zu erhebenden Entgelte über einen
     längeren Zeitraum als eine Netzfahrplanperiode.
 
-
-
-
-
 ## § 3 Leistungen, Fahrgastinformationen
 
 (1) Eisenbahninfrastrukturunternehmen sind verpflichtet, die Benutzung
@@ -110,7 +103,6 @@ Eisenbahninfrastrukturunternehmen nach den Sätzen 1 und 2 entstehenden
 Kosten anteilig. Im Fall der Nichteinigung über die Kostentragung
 entscheidet auf Antrag eines beteiligten Unternehmens das Eisenbahn-
 Bundesamt.
-
 
 ## § 4 Schienennetz-Benutzungsbedingungen
 
@@ -166,7 +158,6 @@ Eine Neufassung oder Änderung von unwesentlicher Bedeutung ist
 insbesondere dann anzunehmen, wenn eine Beeinträchtigung des
 Wettbewerbs nicht zu erwarten ist.
 
-
 ## § 5 Sicherheitsleistung, Geschäftsgeheimnis
 
 (1) Eisenbahninfrastrukturunternehmen können von Zugangsberechtigten,
@@ -182,7 +173,6 @@ Gemeinschaften mitzuteilen.
 (2) Eisenbahninfrastrukturunternehmen sind verpflichtet, das
 Geschäftsgeheimnis jedes Zugangsberechtigten hinsichtlich der
 erhaltenen Angaben zu wahren.
-
 
 ## § 6 Antragstellung
 
@@ -214,7 +204,6 @@ schaffen. Ihre Errichtung und ihr Sitz sind entsprechend § 4 Abs. 1
 Satz 1 zu veröffentlichen. Zugangsberechtigte haben ihre Anträge auf
 Zuweisung von Zugtrassen dort zu stellen.
 
-
 ## § 7 Zusammenarbeit bei der Zuweisung von Zugtrassen in mehreren Netzen
 
 (1) Betreiber der Schienenwege im Inland sind verpflichtet, im
@@ -242,7 +231,6 @@ Schienenwege notwendige Kapazitätsreserven für Anträge nach § 14 fest.
 Zusammenarbeit der Betreiber der Schienenwege im Inland entsprechend.
 Sie können die dafür erforderlichen gemeinsamen Einrichtungen
 schaffen.
-
 
 ## § 8 Zuweisungsverfahren
 
@@ -323,7 +311,6 @@ Eisenbahnverkehrsunternehmen zur Verfügung zu stellen. Dies kann auch
 durch Einstellung in das Internet erfolgen. In diesem Fall ist die
 Adresse im Bundesanzeiger bekannt zu machen.
 
-
 ## § 9 Netzfahrplanerstellung, Koordinierungs- und Entscheidungsverfahren für Schienenwege
 
 (1) Die Betreiber der Schienenwege haben, so weit wie möglich, allen
@@ -403,7 +390,6 @@ durchgeführt wird. Abweichungen hiervon können durch die
 Besonderheiten der einzelnen Verkehrsart, insbesondere des
 Güterverkehrs, begründet sein.
 
-
 ## § 10 Koordinierungs- und Entscheidungsverfahren für Serviceeinrichtungen
 
 (1) Eisenbahninfrastrukturunternehmen haben für den Zugang zu
@@ -478,7 +464,6 @@ einer Vereinbarung nach § 14 Abs. 6 des Allgemeinen Eisenbahngesetzes
 oder die Ablehnung von Anträgen gilt § 11 Abs. 1 Satz 1 bis 4
 entsprechend.
 
-
 ## § 11 Rechte an Zugtrassen
 
 (1) Nach Ablauf der Frist nach § 8 Abs. 1 Satz 2 Nr. 6 hat der
@@ -523,7 +508,6 @@ Betreiber der Schienenwege und dem Eisenbahnverkehrsunternehmen
 zustande gekommen ist. Rechte an Zugtrassen dürfen nicht ausgeübt
 werden, solange eine solche Vereinbarung nicht besteht.
 
-
 ## § 12 Besonderes Kündigungsrecht
 
 Wird das Recht aus einer Vereinbarung nach § 14 Abs. 6 des Allgemeinen
@@ -542,7 +526,6 @@ nach Satz 3 gekündigt wurde, bleibt zum Ersatz des durch die
 Beendigung des Vertrags entstehenden Schadens verpflichtet; er hat
 insbesondere dem Eisenbahninfrastrukturunternehmen das entgangene
 Entgelt für die Nutzung der Infrastruktur zu zahlen.
-
 
 ## § 13 Rahmenverträge
 
@@ -625,10 +608,6 @@ den Absätzen 9 und 10 können
     vereinbarte Bandbreite und ihre zeitliche Lage für die folgenden
     Rahmenfahrplanperioden nicht geändert wird.
 
-
-
-
-
 ## § 14 Gelegenheitsverkehr
 
 (1) Der Betreiber der Schienenwege hat bei Anträgen auf Zuweisung
@@ -666,7 +645,6 @@ erforderliche Schienenwegkapazität innerhalb des Netzfahrplans
 vorzuhalten, um auf zu erwartende Anträge nach den Absätzen 1 und 2
 reagieren zu können. Dies gilt auch bei überlasteten Schienenwegen.
 
-
 ## § 15 Sondermaßnahmen bei Störungen
 
 (1) Zur Beseitigung von Störungen des Bahnbetriebs hat der Betreiber
@@ -686,7 +664,6 @@ Störung auf seinen Antrag Hilfe zu leisten. Sie können vom Betreiber
 der Schienenwege Erstattung der dabei entstehenden Kosten verlangen,
 es sei denn, sie haben die Störung zu vertreten.
 
-
 ## § 16 Überlastete Schienenwege
 
 Liegen überlastete Schienenwege vor, hat der Betreiber der
@@ -697,7 +674,6 @@ erklären. Eine Mitteilung hat auch bei Schienenwegen zu erfolgen, bei
 denen abzusehen ist, dass ihre Kapazität in naher Zukunft nicht
 ausreichen wird. Die Mitteilung ist entsprechend § 4 Abs. 1 zu
 veröffentlichen.
-
 
 ## § 17 Kapazitätsanalyse
 
@@ -719,7 +695,6 @@ mittelfristiger Abhilfemaßnahmen.
 (3) Die Kapazitätsanalyse ist innerhalb von sechs Monaten
 abzuschließen, nachdem ein Schienenweg als überlastet ausgewiesen
 wurde.
-
 
 ## § 18 Plan zur Erhöhung der Schienenwegkapazität
 
@@ -785,7 +760,6 @@ Entgelte erheben, wenn
 Die Entscheidung der zuständigen Eisenbahnaufsichtsbehörde ergeht im
 Benehmen mit der Regulierungsbehörde.
 
-
 ## § 19 Besondere Schienenwege
 
 Sind mehrere geeignete Schienenwege vorhanden, so kann der Betreiber
@@ -797,7 +771,6 @@ andere Verkehrsleistungen nicht von der Nutzung der betreffenden
 Schienenwege ausschließen, sofern Schienenwegkapazität verfügbar ist,
 und die betreffenden Fahrzeuge den technischen Betriebsmerkmalen des
 Schienenweges entsprechen.
-
 
 ## § 20 Festsetzung, Berechnung und Erhebung von Entgelten für Schienenwege
 
@@ -816,7 +789,6 @@ Eisenbahnverkehrsleistungen mit Betreibern der Schienenwege in den
 anderen Mitgliedstaaten der Europäischen Union auch bei der Gestaltung
 der Entgelte zusammenzuarbeiten. Sie können die dafür erforderlichen,
 geeigneten gemeinsamen Einrichtungen schaffen.
-
 
 ## § 21 Entgeltgrundsätze für Schienenwege
 
@@ -858,7 +830,6 @@ dem Fristbeginn nach § 8 Abs. 1 Nr. 2 nach § 4 Abs. 1 zu
 veröffentlichen oder zuzusenden. Sie gelten für die gesamte neue
 Fahrplanperiode.
 
-
 ## § 22 Ausnahmen von den Entgeltgrundsätzen für Schienenwege
 
 (1) Die zuständige Aufsichtsbehörde kann
@@ -885,7 +856,6 @@ könnten oder durchgeführt worden wären. Zu einer derartigen
 Entgelterhebung können auch Vereinbarungen zur Aufteilung des mit
 neuen Investitionen verbundenen Risikos gehören.
 
-
 ## § 23 Entgeltnachlässe für Schienenwege
 
 (1) Entgeltnachlässe sind auf die Höhe der tatsächlich vom Betreiber
@@ -906,7 +876,6 @@ bestimmten Schienenwegabschnitt erhoben werden.
 
 (4) Auf vergleichbare Verkehrsleistungen oder Marktsegmente sind
 gleiche Entgeltnachlässe zu gewähren.
-
 
 ## § 24 Entgelte für Serviceeinrichtungen
 
@@ -937,7 +906,6 @@ findet § 21 Abs. 7 auf Häfen keine Anwendung.
 (4) Die Entgelte sind, soweit sich aus dieser Verordnung nichts
 anderes ergibt, gegenüber jedem Zugangsberechtigten in gleicher Weise
 zu berechnen.
-
 
 ## Anlage 1 (zu den §§ 3 und 21) Für die Zugangsberechtigten zu erbringende Leistungen
 
@@ -989,13 +957,6 @@ Fundstelle des Originaltextes: BGBl. I 2005, 1574
 
 
     c)  technische Inspektion des rollenden Materials.
-
-
-
-
-
-
-
 
 ## Anlage 2 (zu § 4 Abs. 2) Inhalt der Schienennetz-Benutzungsbedingungen
 

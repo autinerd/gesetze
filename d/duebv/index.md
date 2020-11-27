@@ -18,14 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 § 12 G v. 13.12.2007 I 2930
 
-
 ## Eingangsformel
 
 Auf Grund des § 7 des Düngemittelgesetzes vom 15. November 1977 (BGBl.
 I S. 2134), der durch Artikel 4 Nr. 4 des Gesetzes vom 27. September
 1994 (BGBl. I S. 2705) geändert worden ist, verordnet das
 Bundesministerium für Verbraucherschutz, Ernährung und Landwirtschaft:
-
 
 ## § 1 Errichtung und Aufgaben des Beirats
 
@@ -35,7 +33,6 @@ Beirat für Düngungsfragen (Beirat) errichtet.
 
 (2) Der Beirat berät das Bundesministerium in Düngungsfragen durch
 gutachtliche Stellungnahmen und ist in seiner Tätigkeit unabhängig.
-
 
 ## § 2 Mitgliedschaft
 
@@ -100,7 +97,6 @@ Beiräten, Ausschüssen, Kommissionen und ähnlichen Einrichtungen im
 Bereich des Bundes vom 9. November 1981 (GMBl. S. 515) in der jeweils
 geltenden Fassung erstattet.
 
-
 ## § 3 Vorsitz, Geschäftsführung, Geschäftsordnung
 
 (1) Der Beirat wählt in geheimer Wahl mit der Mehrheit der Stimmen
@@ -115,7 +111,6 @@ Bundesministerium festgesetzt.
 
 (4) Der Beirat gibt sich eine Geschäftsordnung. Diese und deren
 Änderungen bedürfen der Zustimmung des Bundesministeriums.
-
 
 ## § 4 Inkrafttreten, Außerkrafttreten
 

@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 V v. 5.10.2010 I 1330
 
-
 ## Eingangsformel
 
 Auf Grund des § 25 Abs. 4 des Gesetzes über das Kreditwesen in der
@@ -28,7 +27,6 @@ Verbindung mit § 1 der Verordnung zur Übertragung der Befugnis zum
 Erlaß von Rechtsverordnungen auf das Bundesaufsichtsamt für das
 Kreditwesen vom 28. Juni 1985 (BGBl. I S. 1255) wird im Benehmen mit
 der Deutschen Bundesbank verordnet:
-
 
 ## § 1 Voraussetzungen umd Umfang der Meldepflicht
 
@@ -81,7 +79,6 @@ angekauft, sind sie mit ihrem Anschaffungswert zu erfassen.
 über Geschäfte auf solche Länder zu beschränken, in denen das Volumen
 der Kredite mindestens 1 Million Euro beträgt.
 
-
 ## § 2 Einreichungsweg und Einreichungstermin
 
 (1) Die Meldungen sollen im papierlosen Verfahren der Deutschen
@@ -100,7 +97,6 @@ einfacher Ausfertigung der für es zuständigen Hauptverwaltung der
 Deutschen Bundesbank unter Einhaltung der Frist des Absatzes 1 Satz 1
 einzureichen.
 
-
 ## § 3 Rückmeldungen
 
 Kreditinstitute und übergeordnete Kreditinstitute, die eine Meldung
@@ -108,16 +104,13 @@ abgegeben haben, erhalten von der Deutschen Bundesbank eine
 Rückmeldung mit den für einzelne Angaben der Meldung festgestellten
 Gesamtergebnissen.
 
-
 ## § 4 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
 ## Schlußformel
 
 Das Bundesaufsichtsamt für das Kreditwesen
-
 
 ## Anlage (zur Länderrisikoverordnung) Meldung zum Auslandskreditvolumen gemäß § 25 Abs. 3 KWG
 

@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 G v. 14.7.2006 I 1530
 
-
 ## § 1 Zweck des Gesetzes
 
 Das Gesetz dient dem Schutz des Kulturgutes Buch. Die Festsetzung
@@ -26,7 +25,6 @@ verbindlicher Preise beim Verkauf an Letztabnehmer sichert den Erhalt
 eines breiten Buchangebots. Das Gesetz gewährleistet zugleich, dass
 dieses Angebot für eine breite Öffentlichkeit zugänglich ist, indem es
 die Existenz einer großen Zahl von Verkaufsstellen fördert.
-
 
 ## § 2 Anwendungsbereich
 
@@ -55,13 +53,11 @@ sie überwiegend für den Absatz in Deutschland bestimmt sind.
 (3) Letztabnehmer im Sinne dieses Gesetzes ist, wer Bücher zu anderen
 Zwecken als dem Weiterverkauf erwirbt.
 
-
 ## § 3 Preisbindung
 
 Wer gewerbs- oder geschäftsmäßig Bücher an Letztabnehmer verkauft,
 muss den nach § 5 festgesetzten Preis einhalten. Dies gilt nicht für
 den Verkauf gebrauchter Bücher.
-
 
 ## § 4 Grenzüberschreitende Verkäufe
 
@@ -73,7 +69,6 @@ Verkäufe von Büchern innerhalb des Europäischen Wirtschaftsraumes
 anzuwenden, wenn sich aus objektiven Umständen ergibt, dass die
 betreffenden Bücher allein zum Zwecke ihrer Wiedereinfuhr ausgeführt
 worden sind, um dieses Gesetz zu umgehen.
-
 
 ## § 5 Preisfestsetzung
 
@@ -131,7 +126,6 @@ Einkaufspreise.
 Titel durch einen Verleger oder Importeur oder deren Lizenznehmer ist
 zulässig, wenn dies sachlich gerechtfertigt ist.
 
-
 ## § 6 Vertrieb
 
 (1) Verlage müssen bei der Festsetzung ihrer Verkaufspreise und
@@ -147,7 +141,6 @@ oder günstigeren Konditionen beliefern als den Buchhandel.
 (3) Verlage dürfen für Zwischenbuchhändler keine höheren Preise oder
 schlechteren Konditionen festsetzen als für Letztverkäufer, die sie
 direkt beliefern.
-
 
 ## § 7 Ausnahmen
 
@@ -263,10 +256,6 @@ anlässlich des Verkaufs eines Buches
 
 4.  andere handelsübliche Nebenleistungen erbringt.
 
-
-
-
-
 ## § 8 Dauer der Preisbindung
 
 (1) Verleger und Importeure sind berechtigt, durch Veröffentlichung in
@@ -279,7 +268,6 @@ bestimmten Datums oder Ereignisses erheblich an Wert verliert, ist
 eine Beendigung der Preisbindung durch den Verleger oder Importeur
 ohne Beachtung der Frist gemäß Absatz 1 nach Ablauf eines angemessenen
 Zeitraums seit Erscheinen möglich.
-
 
 ## § 9 Schadensersatz- und Unterlassungsansprüche
 
@@ -329,7 +317,6 @@ werden.
 Wettbewerb und bei Einrichtungen nach Absatz 2 Nr. 4 die Vorschriften
 des Unterlassungsklagegesetzes.
 
-
 ## § 10 Bucheinsicht
 
 (1) Sofern der begründete Verdacht vorliegt, dass ein Unternehmen
@@ -344,7 +331,6 @@ Vorschriften dieses Gesetzes beziehen.
 (2) Liegt eine Zuwiderhandlung vor, kann der Gewerbetreibende von dem
 zuwiderhandelnden Unternehmen die Erstattung der notwendigen Kosten
 der Buchprüfung verlangen.
-
 
 ## § 11 Übergangsvorschrift
 

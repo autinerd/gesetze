@@ -21,7 +21,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 88 G v. 8.12.2010 I 1864
 
-
 ## § 1 Inhalt und Form des Tarifvertrags
 
 (1) Der Tarifvertrag regelt die Rechte und Pflichten der
@@ -30,7 +29,6 @@ Abschluß und die Beendigung von Arbeitsverhältnissen sowie
 betriebliche und betriebsverfassungsrechtliche Fragen ordnen können.
 
 (2) Tarifverträge bedürfen der Schriftform.
-
 
 ## § 2 Tarifvertragsparteien
 
@@ -50,7 +48,6 @@ Aufgaben gehört.
 Spitzenorganisationen wie die ihnen angeschlossenen Verbände für die
 Erfüllung der gegenseitigen Verpflichtungen der Tarifvertragsparteien.
 
-
 ## § 3 Tarifgebundenheit
 
 (1) Tarifgebunden sind die Mitglieder der Tarifvertragsparteien und
@@ -61,7 +58,6 @@ betriebsverfassungsrechtliche Fragen gelten für alle Betriebe, deren
 Arbeitgeber tarifgebunden ist.
 
 (3) Die Tarifgebundenheit bleibt bestehen, bis der Tarifvertrag endet.
-
 
 ## § 4 Wirkung der Rechtsnormen
 
@@ -90,7 +86,6 @@ im Tarifvertrag vereinbart werden.
 
 (5) Nach Ablauf des Tarifvertrags gelten seine Rechtsnormen weiter,
 bis sie durch eine andere Abmachung ersetzt werden.
-
 
 ## § 5 Allgemeinverbindlichkeit
 
@@ -146,14 +141,12 @@ Allgemeinverbindlichkeit übertragen.
 (7) Die Allgemeinverbindlicherklärung und die Aufhebung der
 Allgemeinverbindlichkeit bedürfen der öffentlichen Bekanntmachung.
 
-
 ## § 6 Tarifregister
 
 Bei dem Bundesministerium für Arbeit und Soziales wird ein
 Tarifregister geführt, in das der Abschluß, die Änderung und die
 Aufhebung der Tarifverträge sowie der Beginn und die Beendigung der
 Allgemeinverbindlichkeit eingetragen werden.
-
 
 ## § 7 Übersendungs- und Mitteilungspflicht
 
@@ -180,12 +173,10 @@ Ordnungswidrigkeit kann mit einer Geldbuße geahndet werden.
 über Ordnungswidrigkeiten ist die Behörde, der gegenüber die Pflicht
 nach Absatz 1 zu erfüllen ist.
 
-
 ## § 8 Bekanntgabe des Tarifvertrags
 
 Die Arbeitgeber sind verpflichtet, die für ihren Betrieb maßgebenden
 Tarifverträge an geeigneter Stelle im Betrieb auszulegen.
-
 
 ## § 9 Feststellung der Rechtswirksamkeit
 
@@ -196,7 +187,6 @@ Tarifvertrags ergangen sind, sind in Rechtsstreitigkeiten zwischen
 tarifgebundenen Parteien sowie zwischen diesen und Dritten für die
 Gerichte und Schiedsgerichte bindend.
 
-
 ## § 10 Tarifvertrag und Tarifordnungen
 
 (1) Mit dem Inkrafttreten eines Tarifvertrags treten Tarifordnungen,
@@ -206,7 +196,6 @@ die durch den Tarifvertrag nicht geregelt worden sind.
 
 (2) Das Bundesministerium für Arbeit und Soziales kann Tarifordnungen
 aufheben; die Aufhebung bedarf der öffentlichen Bekanntmachung.
-
 
 ## § 11 Durchführungsbestimmungen
 
@@ -228,10 +217,6 @@ insbesonders über
 
 3.  den in § 5 genannten Ausschuß.
 
-
-
-
-
 ## § 12 Spitzenorganisationen
 
 Spitzenorganisationen im Sinne dieses Gesetzes sind - unbeschadet der
@@ -242,7 +227,6 @@ wesentliche Bedeutung haben. Ihnen stehen gleich Gewerkschaften und
 Arbeitgebervereinigungen, die keinem solchen Zusammenschluß angehören,
 wenn sie die Voraussetzungen des letzten Halbsatzes in Satz 1
 erfüllen.
-
 
 ## § 12a Arbeitnehmerähnliche Personen
 
@@ -294,7 +278,6 @@ zusteht.
 (4) Die Vorschrift findet keine Anwendung auf Handelsvertreter im
 Sinne des § 84 des Handelsgesetzbuchs.
 
-
 ## § 12b Berlin-Klausel
 
 Dieses Gesetz gilt auch im Land Berlin, sofern es im Land Berlin in
@@ -303,14 +286,12 @@ erlassen worden sind oder erlassen werden, gelten im Land Berlin nach
 § 14 des Dritten Überleitungsgesetzes vom 4. Januar 1952
 (Bundesgesetzbl. I S. 1).
 
-
 ## § 13 Inkrafttreten
 
 (1) Dieses Gesetz tritt mit seiner Verkündung in Kraft.
 
 (2) Tarifverträge, die vor dem Inkrafttreten dieses Gesetzes
 abgeschlossen sind, unterliegen diesem Gesetz.
-
 
 ## Anhang EV Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet A Abschnitt III (BGBl. II 1990, 889, 1023) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 

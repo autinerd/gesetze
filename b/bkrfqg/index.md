@@ -19,8 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 G v. 25.5.2011 I 952 (1374)
 
-
-
 ## § 1 Anwendungsbereich
 
 (1) Dieses Gesetz gilt zum Zwecke der Verbesserung insbesondere der
@@ -97,10 +95,6 @@ D1, D1E, D oder DE erforderlich ist.
 
 7.  Kraftfahrzeugen zur nichtgewerblichen Beförderung von Personen oder
     Gütern zu privaten Zwecken.
-
-
-
-
 
 ## § 2 Mindestalter, Qualifikation
 
@@ -212,7 +206,6 @@ tritt eine Kopie des Ausbildungsvertrages. Die Frist nach Satz 1
 beginnt am Tag der Erteilung einer Fahrerlaubnis für die nach Absatz 1
 oder 2 maßgebliche Klasse.
 
-
 ## § 3 Besitzstand
 
 § 2 Abs. 1 und 2 findet vorbehaltlich des § 5 keine Anwendung auf
@@ -240,7 +233,6 @@ Satz 1 gilt auch für Fahrer und Fahrerinnen, die
 
 besessen haben und die ihnen entzogen worden ist, auf die sie
 verzichtet haben oder deren Geltungsdauer abgelaufen ist.
-
 
 ## § 4 Erwerb der Grundqualifikation
 
@@ -282,7 +274,6 @@ Fahrerlaubnisklasse besitzt. Bei diesen Fahrten gilt die Begleitperson
 als Führer des Kraftfahrzeugs im Sinne des Straßenverkehrsgesetzes.
 Das Fahrzeug muss den Anforderungen eines für die Fahrausbildung
 zugelassenen Fahrzeugs genügen.
-
 
 ## § 5 Weiterbildung
 
@@ -337,7 +328,6 @@ Fahrerlaubnis im Falle des § 3 Satz 2 entsprechend.
 (3) Wechselt ein Fahrer oder eine Fahrerin zu einem anderen
 Unternehmen, so ist eine bereits erfolgte Weiterbildung anzurechnen.
 
-
 ## § 6 Ausbildungs- und Prüfungsort
 
 Fahrer und Fahrerinnen, die ihren ordentlichen Wohnsitz im Inland
@@ -352,10 +342,6 @@ müssen
 2.  die Weiterbildung im Inland oder in dem Mitgliedstaat der Europäischen
     Union oder eines anderen Vertragsstaats des Abkommens über den
     Europäischen Wirtschaftsraum abschließen, in dem sie beschäftigt sind.
-
-
-
-
 
 ## § 7 Anerkennung und Überwachung von Ausbildungsstätten
 
@@ -435,7 +421,6 @@ die in Absatz 2 genannten Voraussetzungen nicht erfüllt. Die
 3 und 4 obliegt den Industrie- und Handelskammern. Für diese gelten
 die Sätze 4 und 5 entsprechend.
 
-
 ## § 8 Rechtsverordnungen
 
 (1) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
@@ -473,7 +458,6 @@ Landesbehörde bedarf.
 die für die Durchführung dieses Gesetzes zuständigen Behörden zu
 bestimmen. Die Landesregierungen können diese Ermächtigung auf die
 zuständige oberste Landesbehörde übertragen.
-
 
 ## § 9 Bußgeldvorschriften
 

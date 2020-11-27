@@ -19,10 +19,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 11 G v. 24.6.1993 I 1038
 
-
 ## I. - Gemeinsame Vorschriften
-
-
 
 ### § 1 Begriffsbestimmungen
 
@@ -60,13 +57,11 @@ Hinterbliebenen.
 
 vorliegt.
 
-
 ### § 2 Amtshilfe
 
 §§ 3 bis 7 des Zehnten Buches Sozialgesetzbuch gelten auch für
 Ersuchen der Versicherungsbehörden und der Organe der
 Versicherungsträger, die in Durchführung dieses Gesetzes ergehen.
-
 
 ### § 3 Glaubhaftmachung
 
@@ -82,10 +77,7 @@ Verfahrens befaßte Versicherungsträger ist für die Abnahme
 eidesstattlicher Versicherungen zuständig; er gilt als Behörde im
 Sinne des § 156 des Strafgesetzbuches.
 
-
 ## II. - Gesetzliche Unfallversicherung
-
-
 
 ### § 4 Jahresarbeitsverdienst bei verfolgungsbedingtem Wechsel der Tätigkeit
 
@@ -100,7 +92,6 @@ ist.
 (2) Die den Versicherungsträgern auf Grund des Absatzes 1 entstehenden
 Mehraufwendungen werden ihnen vom Bund erstattet.
 
-
 ### § 5 Zahlungen ins Ausland an Ausländer
 
 § 625 Abs. 1 Nr. 1 der Reichsversicherungsordnung gilt nicht für
@@ -111,7 +102,6 @@ verlassen haben und sich gewöhnlich im Gebiet eines auswärtigen
 Staates aufhalten, in dem die Bundesrepublik Deutschland eine amtliche
 Vertretung hat.
 
-
 ### § 6 Zahlungen ins Ausland an Deutsche
 
 § 13 Abs. 1, 2 und 4 des Fremdrentengesetzes gilt entsprechend für
@@ -121,10 +111,7 @@ Arbeitsunfall erlitten haben, und für ihre Hinterbliebenen, sofern der
 Berechtigte diese Gebiete nach dem 8. Mai 1945 und vor dem 1. Januar
 1950 verlassen hat.
 
-
 ## III. - Gesetzliche Rentenversicherung
-
-
 
 ### § 7 Grundsatz
 
@@ -132,10 +119,7 @@ Die Vorschriften dieses Teils ergänzen zugunsten von Verfolgten die
 allgemein anzuwendenden Vorschriften des Sechsten Buches
 Sozialgesetzbuch.
 
-
 ### 1. - Freiwillige Beitragszahlung
-
-
 
 #### § 8 Freiwillige Versicherung bei Beitragserstattung wegen Heirat
 
@@ -143,7 +127,6 @@ Sind einer Verfolgten oder der Ehefrau eines Verfolgten, den sie vor
 dem 9. Mai 1945 geheiratet hat, in der Zeit vom 30. Januar 1933 bis
 zum 8. Mai 1945 Beiträge wegen Heirat erstattet worden, kann sie sich
 freiwillig versichern.
-
 
 #### § 9 Beitragsnachzahlung bei Beitragserstattung wegen Heirat
 
@@ -153,12 +136,10 @@ berechtigt ist, kann auf Antrag Beiträge für Zeiten vor Vollendung des
 Januar 1924 zurück nachzahlen, soweit diese Zeiten nicht
 Beitragszeiten oder beitragsfreie Zeiten sind.
 
-
 #### § 10 Freiwillige Versicherung für pflichtversicherte Verfolgte
 
 Pflichtversicherte Verfolgte können sich freiwillig versichern, wenn
 sie die allgemeine Wartezeit erfüllt haben.
-
 
 #### § 10a Nachzahlung bei anzurechnenden Kindererziehungszeiten
 
@@ -173,10 +154,7 @@ Dezember 1980 nachgezahlt werden, die noch nicht mit Beiträgen zur
 gesetzlichen Rentenversicherung belegt sind. Dies gilt unabhängig vom
 Alter und von der Staatsangehörigkeit.
 
-
 ### 2. - Leistungsrecht
-
-
 
 #### § 11 Gleichstellung nachgezahlter Beiträge mit Pflichtbeiträgen
 
@@ -216,16 +194,11 @@ einer versicherten Beschäftigung oder selbständigen Tätigkeit gleich:
 
     nachgezahlt sind.
 
-
-
-
-
 #### § 12 Gleichstellung von Zeiten einer Beschäftigung oder Tätigkeit mit Pflichtbeitragszeiten
 
 Als Pflichtbeitragszeiten gelten Zeiten, in denen ein Verfolgter eine
 rentenversicherungspflichtige Beschäftigung oder Tätigkeit ausgeübt
 hat, für die aus Verfolgungsgründen Beiträge nicht gezahlt sind.
-
 
 #### § 12a Anrechnung von Kindererziehungszeiten
 
@@ -243,7 +216,6 @@ Bundesrepublik Deutschland oder im jeweiligen Geltungsbereich der
 Reichsversicherungsgesetze aufgegeben worden ist und nur bei dem
 nichterziehenden Ehegatten Verfolgungsgründe vorgelegen haben.
 
-
 #### § 13 Berücksichtigung von Anrechnungszeiten
 
 (1) Hat der Verfolgte aus Verfolgungsgründen seine Lehrzeit,
@@ -257,7 +229,6 @@ später wieder aufgenommen und abgeschlossen oder eine neue Ausbildung
 begonnen und abgeschlossen worden, sind die Ausbildungszeiten als
 Anrechnungszeiten bis zum doppelten der allgemein geltenden
 Höchstdauer anzuerkennen.
-
 
 #### § 14 Besondere Ermittlung der Entgeltpunkte für Beitragszeiten
 
@@ -284,7 +255,6 @@ Tätigkeit; § 15 Satz 3 Nr. 2 und § 15 Satz 4 finden Anwendung. Sätze 1
 und 2 gelten nicht für nachgezahlte Beiträge, die Pflichtbeiträgen
 gleichstehen.
 
-
 #### § 15 Bewertung von Verfolgungszeiten für pflichtversicherte Verfolgte
 
 Verfolgungszeiten werden bei der Ermittlung der Entgeltpunkte für
@@ -310,7 +280,6 @@ Hätte der Verfolgte ohne die Verfolgung eine Beschäftigung oder
 Tätigkeit ausgeübt, die in eine höhere Leistungsgruppe als nach Satz 3
 einzuordnen wäre, ist die höhere Leistungsgruppe zugrunde zu legen.
 
-
 #### § 16 Gleichstellung von Verfolgungszeiten für den Leistungszuschlag
 
 Für Verfolgungszeiten, die der knappschaftlichen Rentenversicherung
@@ -319,14 +288,12 @@ Arbeiten unter Tage ermittelt, wenn der Verfolgte zuletzt eine
 Beschäftigung oder Tätigkeit mit den dafür üblichen
 Beschäftigungsmerkmalen ausgeübt hat.
 
-
 #### § 17 Entgeltpunkte für nachgezahlte Beiträge für Zeiten vor Rentenbeginn
 
 Für eine Rente werden Entgeltpunkte für nachgezahlte Beitragszeiten
 bei Beitragserstattung wegen Heirat auch dann ermittelt, wenn die
 Rente vor dem 1. Januar 1967 begonnen hat oder die Minderung der
 Erwerbsfähigkeit vor diesem Zeitpunkt eingetreten ist.
-
 
 #### § 17a Ausnahmen von der Anwendung des neuen Rechts
 
@@ -346,7 +313,6 @@ ermitteln sind. § 88 des Sechsten Buches Sozialgesetzbuch über die
 weitere Leistung der Rente aus den bisherigen persönlichen
 Entgeltpunkten ist entsprechend anzuwenden.
 
-
 #### § 17b Ausnahmen von der Anwendung des alten Rechts
 
 Die in § 294 Abs. 2 Nr. 3 des Sechsten Buches Sozialgesetzbuch
@@ -357,7 +323,6 @@ Angestelltenversicherungs-Neuregelungsgesetzes und Artikel 2 § 35 des
 Knappschaftsrentenversicherungs-Neuregelungsgesetzes bestimmten
 Personenkreis.
 
-
 #### § 17c Rentenbeginn in Sonderfällen
 
 Wird durch eine Nachzahlung nach § 10a bis zum 31. Dezember 1994 oder
@@ -366,10 +331,7 @@ Wartezeit von 60 Kalendermonaten erfüllt, wird eine Rente aus eigener
 Versicherung von dem Kalendermonat an geleistet, zu dessen Beginn das
 65\. Lebensjahr vollendet gewesen ist.
 
-
 ### 3. - Zahlung von Renten ins Ausland
-
-
 
 #### § 18 Zahlungen an Verfolgte
 
@@ -404,7 +366,6 @@ Verfolgten.
 
 (4) Die Renten nach den Absätzen 1 bis 3 gelten nicht als Leistungen
 der sozialen Sicherheit.
-
 
 #### § 19 Zahlungen an vertriebene Verfolgte
 
@@ -442,10 +403,7 @@ b)  in den dort genannten Gebieten am 8. Mai 1945 als deutsche
 (4) Die Renten nach den Absätzen 1 bis 3 gelten nicht als Leistungen
 der sozialen Sicherheit.
 
-
 ### 4. - Anwendung des Fremdrentengesetzes
-
-
 
 #### § 20 Gleichstellung vertriebener Verfolgter mit Vertriebenen
 
@@ -475,7 +433,6 @@ rückwirkend zu erbringende Leistungen führt, ist für die Berechnung
 der Verjährungsfrist und der Frist des § 44 Abs. 4 des Zehnten Buches
 Sozialgesetzbuch der Zeitpunkt dieses Antrags maßgebend, wenn dies bis
 zum 31. Dezember 1990 beantragt wird.
-
 
 #### § 21 Wiedereröffnung eines außerordentlichen Nachentrichtungsrechts
 
@@ -562,7 +519,6 @@ des Reichsknappschaftsgesetzes.
 (7) Anträge auf Nachentrichtung nach § 10, über die noch keine
 unanfechtbare Entscheidung getroffen wurde, bleiben von dieser
 Regelung unberührt.
-
 
 #### § 22 Nachentrichtung für Zeiten der freiwilligen Versicherung
 

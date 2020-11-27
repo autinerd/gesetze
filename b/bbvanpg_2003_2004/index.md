@@ -16,16 +16,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2003, 1798
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## (XXXX) Art 1 bis 17 (weggefallen)
-
 
 ## Art 18 Aufhebung von Vorschriften
 
@@ -60,7 +56,6 @@ Gesetzes geltenden Bestimmungen zur jährlichen Sonderzuwendung und zum
 Urlaubsgeld weiter anzuwenden, soweit dieses Gesetz nichts anderes
 bestimmt.
 
-
 ## Art 19 Bekanntmachungserlaubnisse
 
 (1) Das Bundesministerium des Innern kann den Wortlaut des
@@ -77,13 +72,11 @@ Bundesgesetzblatt bekannt machen.
 Soldatenversorgungsgesetzes in der vom 16. September 2003 an geltenden
 Fassung im Bundesgesetzblatt bekannt machen.
 
-
 ## Art 20 Rückkehr zum einheitlichen Verordnungsrang
 
 Die auf den Artikeln 9 bis 12 sowie Artikel 16 und 17 beruhenden Teile
 der dort geänderten Rechtsverordnungen können auf Grund der jeweils
 einschlägigen Ermächtigung durch Rechtsverordnung geändert werden.
-
 
 ## Art 21 Inkrafttreten, Außerkrafttreten
 

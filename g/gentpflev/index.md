@@ -24,7 +24,6 @@ Fundstelle
     durch die Richtlinie 2006/96/EG des Rates vom 20. November 2006 (ABl.
     EU Nr. L 363 S. 81), sind beachtet worden.
 
-
 ## Eingangsformel
 
 Auf Grund des § 16b Abs. 6 des Gentechnikgesetzes in der Fassung der
@@ -34,13 +33,11 @@ Artikel 1 Nr. 14 des Gesetzes vom 21. Dezember 2004 (BGBl. 2005 I S.
 2008 (BGBl. I S. 499) geändert worden ist, verordnet die
 Bundesregierung:
 
-
 ## § 1 Anwendungsbereich
 
 Diese Verordnung regelt die Grundsätze der guten fachlichen Praxis im
 Sinne des § 16b Abs. 3 des Gentechnikgesetzes bei der erwerbsmäßigen
 Erzeugung gentechnisch veränderter Pflanzen.
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -61,10 +58,6 @@ Im Sinne dieser Verordnung sind
 
 
 4.  Nachbar: ein Bewirtschafter einer benachbarten Fläche.
-
-
-
-
 
 ## § 3 Mitteilungspflicht
 
@@ -102,14 +95,12 @@ Monats nach Zugang der Mitteilung beim Eigentümer keine Rückäußerung,
 kann er davon ausgehen, dass der Eigentümer die Fläche selbst
 bewirtschaftet.
 
-
 ## § 4 Anpassungspflicht
 
 Der Erzeuger hat dafür zu sorgen, dass die Anbauflächen den in der
 Anlage zu dieser Verordnung für die jeweilige Pflanzenart aufgeführten
 Anforderungen entsprechen. Hierbei hat er die nach § 3 fristgerecht
 eingegangenen Angaben der Nachbarn zu berücksichtigen.
-
 
 ## § 5 Anfragepflicht
 
@@ -127,7 +118,6 @@ naturschutzfachlicher Sicht Änderungen bezüglich des Schutzes
 besonderer Ökosysteme, Umweltgegebenheiten oder geografischer Gebiete
 ergeben, informiert die zuständige Landesbehörde den Bewirtschafter
 über diese Änderungen.
-
 
 ## § 6 Lagerung
 
@@ -148,7 +138,6 @@ insbesondere durch Witterungseinflüsse oder Verschleppung durch Tiere,
 zu lagern. Die Behältnisse und das gelagerte Erntegut sind zu
 kennzeichnen. Wird das Erntegut auf der Fläche gelagert, die im
 Standortregister gemeldet ist, so entfällt die Kennzeichnung.
-
 
 ## § 7 Beförderung
 
@@ -173,13 +162,11 @@ Beladung oder bei der Beförderung verschüttet worden, ist es dem
 gleichen Saat-, Pflanz- oder Erntegut wieder zuzuführen, gesondert zu
 verwerten oder zu vernichten.
 
-
 ## § 8 Bewirtschaftungsmaßnahmen
 
 Bei allen Bewirtschaftungsmaßnahmen einschließlich der Ernte sind
 Einträge von gentechnisch veränderten Organismen in fremde Grundstücke
 durch Wahl einer geeigneten Technik auf das Mindestmaß zu beschränken.
-
 
 ## § 9 Eingesetzte Gegenstände
 
@@ -188,7 +175,6 @@ zur Ernte, zur Aufbereitung oder zur Beförderung von gentechnisch
 verändertem Saat-, Pflanz- oder Erntegut eingesetzt wurden, sorgfältig
 zu reinigen, bevor sie für nicht gentechnisch verändertes Saat-,
 Pflanz- oder Erntegut eingesetzt werden.
-
 
 ## § 10 Durchwuchs
 
@@ -213,14 +199,12 @@ Durchwuchs sind auch landwirtschaftliche Nutzflächen einzubeziehen,
 vorhergegangenen Anbau von gentechnisch veränderten Pflanzen hat oder
 haben muss.
 
-
 ## § 11 Aufbringen von Stoffen
 
 Auf Flächen, auf denen Düngemittel oder andere Stoffe aufgebracht
 werden, die offenkundig nicht nur geringfügig vermehrungsfähige
 Bestandteile von gentechnisch veränderten Pflanzen enthalten, findet §
 10 entsprechende Anwendung.
-
 
 ## § 12 Aufzeichnungen
 
@@ -242,22 +226,18 @@ Bewirtschafter dem neuen Bewirtschafter eine Abschrift aller
 Aufzeichnungen auszuhändigen, die für die Einhaltung der guten
 fachlichen Praxis nach dieser Verordnung erforderlich sind.
 
-
 ## § 13 Übergangsregelung
 
 Die §§ 3, 4 Satz 2 und § 5 sind erstmals ab dem 1. Oktober 2008
 anzuwenden.
 
-
 ## § 14 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage (zu § 2 Nr. 1, § 4, § 5, § 10 Abs. 1 Satz 1, § 12 Abs. 1 Satz 1) Pflanzenartspezifische Vorgaben
 

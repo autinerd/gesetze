@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 2934
 
-
 ## Eingangsformel
 
 Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 des
@@ -28,7 +27,6 @@ S. 2407) geändert worden ist, verordnet das Bundesministerium für
 Bildung und Forschung nach Anhörung des Hauptausschusses des
 Bundesinstituts für Berufsbildung im Einvernehmen mit dem
 Bundesministerium für Wirtschaft und Technologie:
-
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
 
@@ -74,7 +72,6 @@ zu können:
 Fortbildungsabschluss Geprüfter Aus- und
 Weiterbildungspädagoge/Geprüfte Aus- und Weiterbildungspädagogin.
 
-
 ## § 2 Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer
@@ -102,7 +99,6 @@ Voraussetzungen ist zur Prüfung auch zuzulassen, wer durch Vorlage von
 Zeugnissen oder auf andere Weise glaubhaft macht, Fertigkeiten,
 Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit) erworben zu
 haben, die die Zulassung zur Prüfung rechtfertigen.
-
 
 ## § 3 Gliederung der Prüfung
 
@@ -169,7 +165,6 @@ und die der mündlichen Ergänzungsprüfung werden zu einer Note
 zusammengefasst. Dabei wird die schriftliche Prüfungsleistung doppelt
 gewichtet.
 
-
 ## § 4 Durchführung der Prüfung im Prüfungsteil „Lernprozesse und Lernbegleitung“
 
 (1) Die schriftliche Prüfung im Prüfungsteil „Lernprozesse und
@@ -188,7 +183,6 @@ Vorbereitungszeit von 30 Minuten zu gewähren. Durch das Fachgespräch
 soll nachgewiesen werden, dass pädagogisch angemessen moderiert,
 geführt und kommuniziert werden kann.
 
-
 ## § 5 Durchführung der Prüfung im Prüfungsteil „Planungsprozesse in der beruflichen Bildung“
 
 Die schriftliche Prüfung im Prüfungsteil „Planungsprozesse in der
@@ -197,7 +191,6 @@ Situationsbeschreibung mit zwei aufeinander abgestimmten,
 gleichgewichtig daraus abgeleiteten Aufgabenstellungen durchgeführt.
 Die gesamte Bearbeitungsdauer soll 250 Minuten nicht unterschreiten
 und 280 Minuten nicht überschreiten.
-
 
 ## § 6 Durchführung der Prüfung im Prüfungsteil „Berufspädagogisches Handeln“
 
@@ -229,7 +222,6 @@ werden. Dabei soll auch nachgewiesen werden, dass pädagogisch
 angemessen argumentiert und kommuniziert werden kann. Präsentation und
 Fachgespräch sollen insgesamt nicht länger als 45 Minuten dauern, die
 Präsentation in der Regel nicht länger als 15 Minuten.
-
 
 ## § 7 Inhalte der Prüfung im Prüfungsteil „Lernprozesse und Lernbegleitung“
 
@@ -328,10 +320,6 @@ folgende Qualifikationsinhalte geprüft werden:
 
 4.  Bildungs- und Entwicklungsberatung für die berufsbiografische
     Lebensgestaltung und in betrieblichen Veränderungsprozessen.
-
-
-
-
 
 ## § 8 Inhalte der Prüfung im Prüfungsteil „Planungsprozesse in der beruflichen Bildung“
 
@@ -447,10 +435,6 @@ diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 3.  Qualitätsmanagement von Bildungsprozessen.
 
-
-
-
-
 ## § 9 Inhalte der Prüfung im Prüfungsteil „Berufspädagogisches Handeln“
 
 Im Prüfungsteil „Berufspädagogisches Handeln“ soll die Fähigkeit
@@ -468,7 +452,6 @@ benachteiligter Zielgruppen, in der überbetrieblichen Ausbildung, in
 der Koordination arbeitsprozessintegrierter Ausbildung und andere
 anleitende und beratende Ausbilderfunktionen.
 
-
 ## § 10 Anrechnung anderer Prüfungsleistungen
 
 Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin ist auf Antrag
@@ -478,7 +461,6 @@ Stelle zu befreien, wenn eine andere vergleichbare Prüfung vor einer
 einem staatlichen Prüfungsausschuss erfolgreich abgelegt wurde und die
 Anmeldung zur Fortbildungsprüfung innerhalb von fünf Jahren nach der
 Bekanntgabe des Bestehens der anderen Prüfung erfolgt.
-
 
 ## § 11 Bestehen der Prüfung
 
@@ -509,7 +491,6 @@ und der Anlage 2 auszustellen. Im Falle der Freistellung nach § 10
 sind Ort und Datum der anderweitig abgelegten Prüfung sowie die
 Bezeichnung des Prüfungsgremiums anzugeben.
 
-
 ## § 12 Wiederholen der Prüfung
 
 (1) Nicht bestandene Prüfungsteile können zweimal wiederholt werden.
@@ -528,18 +509,15 @@ Ergebnis der letzten Prüfung.
 für die Wiederholungsprüfung die Projektarbeit nach § 6 Absatz 3
 wiederholt werden.
 
-
 ## § 13 Übergangsregelung
 
 Die Prüfungen zu dem Abschluss „Berufspädagoge/Berufspädagogin für
 Aus- und Weiterbildung IHK“ können bis zum 31. Dezember 2013 nach den
 bisherigen Vorschriften zu Ende geführt werden.
 
-
 ## § 14 Inkrafttreten
 
 Diese Verordnung tritt am 1. September 2009 in Kraft.
-
 
 ## Anlage 1 (zu § 11 Absatz 6) Muster
 
@@ -547,8 +525,6 @@ Diese Verordnung tritt am 1. September 2009 in Kraft.
 
 *    *   ....................
         (Bezeichnung der zuständigen Stelle)
-
-
 
 ## Zeugnis
 
@@ -593,9 +569,6 @@ Weiterbildungspädagoge/Geprüfte Aus- und Weiterbildungspädagogin vom
 
 *    *   (Siegel der zuständigen Stelle)
 
-
-
-
 ## Anlage 2 (zu § 11 Absatz 6) Muster
 
 (Fundstelle: BGBl. 2009, 2939)
@@ -604,8 +577,6 @@ Weiterbildungspädagoge/Geprüfte Aus- und Weiterbildungspädagogin vom
 
 
 *    *   (Bezeichnung der zuständigen Stelle)
-
-
 
 ## Zeugnis
 

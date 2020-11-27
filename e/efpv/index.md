@@ -24,7 +24,6 @@ Fundstelle
     grenzüberschreitenden Verkehr im Eisenbahnsektor (ABl. EU Nr. L 195 S.
     15).
 
-
 ## Eingangsformel
 
 Auf Grund des § 26 Abs. 2 und 3 Satz 4 und Abs. 4 Nr. 1 des
@@ -35,7 +34,6 @@ Nr. 9 Buchstabe b Doppelbuchstabe bb des Gesetzes vom 9. Dezember 2006
 (BGBl. I S. 2833) geändert worden sind, verordnet das
 Bundesministerium für Verkehr, Bau und Stadtentwicklung im
 Einvernehmen mit dem Bundesministerium für Arbeit und Soziales:
-
 
 ## § 1 Geltungsbereich
 
@@ -63,7 +61,6 @@ fahrende Personal in Zügen auf grenzüberschreitenden Strecken, die
 ihre Fahrt auf der Infrastruktur der Bundesrepublik Deutschland
 beginnen und beenden und die Infrastruktur eines anderen
 Mitgliedstaates der Europäischen Union nutzen, ohne dort anzuhalten.
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -115,10 +112,6 @@ Im Sinne dieser Verordnung bezeichnet der Begriff
     oder der Triebfahrzeugführer für das Führen des Triebfahrzeugs
     verantwortlich bleibt.
 
-
-
-
-
 ## § 3 Tägliche Ruhezeit am Dienstort
 
 (1) Der Eisenbahnverkehrsunternehmer hat dafür Sorge zu tragen, dass
@@ -137,7 +130,6 @@ Anwendung.
 reduzierte tägliche Ruhezeit nicht zwischen zwei auswärtigen
 Ruhezeiten festlegen.
 
-
 ## § 4 Auswärtige tägliche Ruhezeit
 
 (1) Der Eisenbahnverkehrsunternehmer hat dafür Sorge zu tragen, dass
@@ -150,7 +142,6 @@ Abs. 9 des Arbeitszeitgesetzes findet keine Anwendung.
 Betriebsvereinbarung können eine zweite zusammenhängende auswärtige
 Ruhezeit zugelassen und Regelungen über den Ausgleich für auswärtige
 Ruhezeiten vereinbart werden.
-
 
 ## § 5 Ruhepausen
 
@@ -178,7 +169,6 @@ Triebfahrzeugführern können in einem Tarifvertrag oder auf Grund eines
 Tarifvertrages in einer Betriebsvereinbarung von Absatz 1 abweichende
 Regelungen vereinbart werden.
 
-
 ## § 6 Wöchentliche und jährliche Ruhezeit
 
 (1) Der Eisenbahnverkehrsunternehmer hat pro Sieben-Tage-Zeitraum eine
@@ -200,7 +190,6 @@ mindestens 24 Stunden zu gewähren. In diesen Ruhezeiten müssen
 
 enthalten sein.
 
-
 ## § 7 Fahrzeit
 
 Der Eisenbahnverkehrsunternehmer hat die Fahrzeit so zu planen, dass
@@ -215,7 +204,6 @@ Der Eisenbahnverkehrsunternehmer hat die Fahrzeit so zu planen, dass
 
 nicht überschritten werden.
 
-
 ## § 8 Verzeichnis der täglichen Arbeits- und Ruhestunden
 
 (1) Der Eisenbahnverkehrsunternehmer hat ein Verzeichnis über die
@@ -228,7 +216,6 @@ Verlangen zur Überprüfung, ob die Vorgaben dieser Verordnung
 eingehalten wurden, zur Verfügung zu stellen.
 
 (3) Das Verzeichnis ist mindestens zwei Jahre aufzubewahren.
-
 
 ## § 9 Ordnungswidrigkeiten
 
@@ -276,14 +263,9 @@ Eisenbahnverkehrsunternehmer vorsätzlich oder fahrlässig
 10. entgegen § 8 Abs. 3 das Verzeichnis nicht mindestens zwei Jahre
     aufbewahrt.
 
-
-
-
-
 ## § 10 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Schlussformel
 

@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 222
 
-
 ## § 1
 
 Nach § 74 des Bundesbeamtengesetzes übertrage ich der Sprecherin oder
@@ -26,14 +25,12 @@ Bestimmungen über die Dienstkleidung der Beamtinnen und Beamten der
 Sparte Bundesforst der Bundesanstalt für Immobilienaufgaben zu
 erlassen.
 
-
 ## § 2
 
 Diese Anordnung tritt am Tag nach der Veröffentlichung in Kraft.
 Gleichzeitig tritt die Anordnung des Bundespräsidenten über den Erlass
 von Bestimmungen für die Dienstkleidung der Forstbeamten des Bundes
 vom 8. April 1992 (BGBl. I S. 903) außer Kraft.
-
 
 ## Schlussformel
 

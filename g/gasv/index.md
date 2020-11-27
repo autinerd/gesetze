@@ -20,7 +20,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 6.7.2006 I 1435
 
-
 ## Eingangsformel
 
 Auf Grund des § 3 Abs. 3 und des § 4 Abs. 2 des Gesetzes über
@@ -28,13 +27,11 @@ Funkanlagen und Telekommunikationsendeinrichtungen vom 31. Januar 2001
 (BGBl. I S. 170) verordnet das Bundesministerium für Wirtschaft und
 Technologie:
 
-
 ## § 1 Weitere grundlegende Anforderungen
 
 Als weitere grundlegende Anforderungen werden die von der Europäischen
 Kommission festgestellten und in Anlage 1 aufgeführten Anforderungen
 bestimmt.
-
 
 ## § 2 Äquivalenzen von Schnittstellen und Geräteklassenkennungen
 
@@ -42,11 +39,9 @@ Die von der Europäischen Kommission festgestellten Äquivalenzen
 nationaler Schnittstellen sowie die von ihr vergebenen
 Geräteklassenkennungen werden nach Anlage 2 bestimmt.
 
-
 ## § 3 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Anlage 1
 
@@ -110,10 +105,6 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
         Sarsat-Ortungsbaken zu Notfalldiensten (2005/631/EG)
 
     *   Amtsblatt der Europäischen Union vom 31. August 2005, Nr. L 225 S. 28
-
-
-
-
 
 ## Anlage 2
 

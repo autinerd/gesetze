@@ -37,13 +37,7 @@ Diese Verordnung dient der Umsetzung folgender Richtlinien:
     mindestens zu erstrecken haben, und der Mindestanforderungen für die
     Prüfung bestimmter Sorten von Gemüsearten (ABl. EU Nr. L 254 S. 11).
 
-
-
-
-
 ## Abschnitt 1 - Verfahren
-
-
 
 ### § 1 Antrag
 
@@ -79,7 +73,6 @@ es zur Sicherstellung der Vergleichbarkeit der Ergebnisse notwendig
 ist, nach Anhörung der betroffenen Spitzenverbände allgemeine
 Anforderungen an die Prüfungen fest und teilt diese auf Anfrage mit.
 
-
 ### § 1a Zulassung der elektronischen Form
 
 Beim Bundessortenamt können in folgenden Antragsverfahren
@@ -90,10 +83,6 @@ elektronische Dokumente eingereicht werden:
 
 2.  Sortenzulassung.
 
-
-
-
-
 ### § 1b Art und Weise der Einreichung der Anträge in elektronischer Form
 
 (1) Die elektronischen Dokumente sind in der in Anlage 1 bezeichneten
@@ -103,7 +92,6 @@ Art und Weise einzureichen.
 Signatur in Papierform eingereicht werden. In diesem Fall sind der
 nach dem Ausdrucken automatisch erzeugte 2D-Barcode und die
 handschriftliche Unterschrift zwingend notwendig.
-
 
 ### § 2 Registerprüfung
 
@@ -150,7 +138,6 @@ Regelprüfzeit für die einzelnen Arten bekannt.
 (5) Bei der Registerprüfung kann das Bundessortenamt auch Ergebnisse
 der Wertprüfung heranziehen.
 
-
 ### § 3 Wertprüfung
 
 (1) Das Bundessortenamt beginnt im Verfahren der Sortenzulassung die
@@ -178,7 +165,6 @@ Beständigkeit ergeben haben.
 (5) Bei der Wertprüfung kann das Bundessortenamt auch Ergebnisse der
 Registerprüfung heranziehen.
 
-
 ### § 4 Prüfung der physiologischen Merkmale bei Rebe
 
 (1) Im Verfahren der Sortenzulassung gilt für die Prüfung der
@@ -189,7 +175,6 @@ entsprechend. Die Prüfung dauert mindestens fünf Ertragsjahre.
 Grund vergleichender Sortenprüfungen heranziehen, wenn diese amtlich
 oder unter amtlicher Überwachung angelegt und ausgewertet worden sind.
 
-
 ### § 5 Vermehrungsmaterial, Saatgut
 
 Das Bundessortenamt bestimmt, wann, wo und in welcher Menge und
@@ -199,7 +184,6 @@ von Rebe für die Prüfung der physiologischen Merkmale vorzulegen ist.
 Das Vermehrungsmaterial oder Saatgut darf keiner Behandlung unterzogen
 worden sein, soweit nicht das Bundessortenamt eine solche
 vorgeschrieben oder gestattet hat.
-
 
 ### § 6 Durchführung der Prüfungen
 
@@ -243,14 +227,12 @@ Nutzungsrichtungen an, so werden die Wertprüfung und bei Sorten von
 Rebe die Prüfung der physiologischen Merkmale für jede angegebene
 Anbauweise oder Nutzungsrichtung gesondert durchgeführt.
 
-
 ### § 7 Prüfungsberichte
 
 Das Bundessortenamt übersendet dem Antragsteller jeweils einen
 Prüfungsbericht, sobald es das Ergebnis der Registerprüfung, der
 Wertprüfung oder bei Sorten von Rebe der Prüfung der physiologischen
 Merkmale zur Beurteilung der Sorte für ausreichend hält.
-
 
 ### § 8 Nachprüfung des Fortbestehens der Sorte, Überwachung der Sortenerhaltung
 
@@ -286,23 +268,18 @@ Sortenüberwachung, dass die Sorte nicht homogen oder nicht beständig
 ist, so übersendet das Bundessortenamt dem Sortenschutzinhaber oder
 dem Züchter einen Prüfungsbericht.
 
-
 ### § 9 Anbau- und Marktbedeutung
 
 Zur Feststellung der Anbau- und Marktbedeutung einer Sorte nach § 36
 Abs. 2 Nr. 2 des Saatgutverkehrsgesetzes kann das Bundessortenamt die
 Sorte anbauen. Die §§ 5 und 6 gelten entsprechend.
 
-
 ### § 10 Bekanntmachungen
 
 Als Blatt für Bekanntmachungen des Bundessortenamtes wird das vom
 Bundessortenamt herausgegebene Blatt für Sortenwesen bestimmt.
 
-
 ## Abschnitt 2 - Anerkennung von Saatgut nicht zugelassener Sorten
-
-
 
 ### § 11
 
@@ -327,10 +304,7 @@ durchgeführt wird, darf anerkannt werden,
 nach Absatz 1 vorliegen, und erteilt dem Antragsteller hierüber einen
 Bescheid.
 
-
 ## Abschnitt 3 - Kosten, Verkehr mit anderen Stellen
-
-
 
 ### § 12 Grundvorschrift
 
@@ -339,7 +313,6 @@ jeweiligen Gebührenverzeichnis (Anlagen 2 und 3).
 
 (2) Das Bundessortenamt erhebt nur die in § 10 Abs. 1 Nr. 1 bis 3 und
 5 des Verwaltungskostengesetzes bezeichneten Auslagen.
-
 
 ### § 13 Prüfungsgebühren
 
@@ -386,7 +359,6 @@ der Anlage 2 erhoben.
 (6) Für die Zulassung von Erhaltungssorten gelten die in Anlage 3
 gesondert aufgeführten Gebührentatbestände und Gebührensätze.
 
-
 ### § 14 Jahresgebühren, Überwachungsgebühren
 
 (1) Die Gebühren für jedes Schutzjahr (Jahresgebühren) oder für die
@@ -416,10 +388,7 @@ Anlage 2) zu entrichten hat, wird daneben für die Eintragung des
 ersten Klons für diesen Antragsteller keine Gebühr nach Gebührennummer
 202\.13.1 der Anlage 2 erhoben.
 
-
 ## Abschnitt 4 - Schlussvorschriften
-
-
 
 ### § 15 Verkehr mit anderen Stellen
 
@@ -428,18 +397,15 @@ der Kommission der Europäischen Gemeinschaft obliegt dem
 Bundessortenamt in den Angelegenheiten, für die es nach § 37 des
 Saatgutverkehrsgesetzes zuständig ist.
 
-
 ### § 16 Übergangsvorschrift
 
 Prüfungsgebühren, bei denen die Gebührenschuld nach § 13 Absatz 1 Satz
 2 bis zum 1. Januar 2010 entstanden ist, sind nach den bis zum 8.
 Oktober 2009 geltenden Vorschriften dieser Verordnung zu erheben.
 
-
 ### § 17
 
 (Inkrafttreten)
-
 
 ### Anlage 1 (zu § 1b Abs. 1)
 
@@ -535,10 +501,6 @@ Fundstelle des Originaltextes: BGBl. I 2007, 578 - 579
     ZIP-Archive und keine Verzeichnisstrukturen enthalten. In einem ZIP-
     Archiv sollen nur Dateien abgelegt werden, die zu einem Antrag gehören
     – Beispiel 6: Anlage.zip.
-
-
-
-
 
 ### Anlage 2 (zu § 2 Absatz 3, §§ 12 bis 14) Gebührenverzeichnis
 

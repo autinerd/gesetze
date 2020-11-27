@@ -32,9 +32,7 @@ Zuletzt geändert durch
     Prüfung der Umweltauswirkungen bestimmter Pläne und Programme (ABl. EG
     Nr. L 197 S. 30).
 
-
 ## Abschnitt 1 - Allgemeine Vorschriften
-
 
 ### § 1 Aufgabe und Leitvorstellung der Raumordnung
 
@@ -71,7 +69,6 @@ Gegebenheiten und Erfordernisse seiner Teilräume berücksichtigen
 Seerechtsübereinkommens der Vereinten Nationen vom 10. Dezember 1982
 (BGBl. 1994 II S. 1798) auch in der deutschen ausschließlichen
 Wirtschaftszone statt.
-
 
 ### § 2 Grundsätze der Raumordnung
 
@@ -219,10 +216,6 @@ dies erforderlich ist.
     Staaten und die grenzüberschreitende Zusammenarbeit der Städte und
     Regionen sind zu unterstützen.
 
-
-
-
-
 ### § 3 Begriffsbestimmungen
 
 (1) Im Sinne dieses Gesetzes sind
@@ -285,7 +278,6 @@ Bundesgesetzen verwandt, sind sie, soweit sich aus diesen
 Bundesgesetzen nicht etwas anderes ergibt, im Sinne von Absatz 1
 auszulegen.
 
-
 ### § 4 Bindungswirkungen der Erfordernisse der Raumordnung
 
 (1) Bei
@@ -327,7 +319,6 @@ sind die Ziele der Raumordnung zu beachten sowie die Grundsätze der
 Raumordnung und die sonstigen Erfordernisse der Raumordnung zu
 berücksichtigen.
 
-
 ### § 5 Bindungswirkung von Zielen der Raumordnung bei raumbedeutsamen Planungen und Maßnahmen des Bundes
 
 (1) Bei raumbedeutsamen Planungen und Maßnahmen von öffentlichen
@@ -364,7 +355,6 @@ Muss infolge des nachträglichen Widerspruchs der Raumordnungsplan
 geändert, ergänzt oder aufgehoben werden, hat die widersprechende
 Stelle oder Person die dadurch entstehenden Kosten zu ersetzen.
 
-
 ### § 6 Ausnahmen und Zielabweichung
 
 (1) Von Zielen der Raumordnung können im Raumordnungsplan Ausnahmen
@@ -376,7 +366,6 @@ die Grundzüge der Planung nicht berührt werden. Antragsberechtigt sind
 die öffentlichen Stellen und die Personen des Privatrechts, die das
 Ziel, von dem eine Abweichung zugelassen werden soll, zu beachten
 haben.
-
 
 ### § 7 Allgemeine Vorschriften über Raumordnungspläne
 
@@ -416,9 +405,7 @@ der Europäischen Kommission anzuwenden.
 Raumordnungsplänen gelten auch für ihre Änderung, Ergänzung und
 Aufhebung.
 
-
 ## Abschnitt 2 - Raumordnung in den Ländern
-
 
 ### § 8 Landesweite Raumordnungspläne, Regionalpläne und regionale Flächennutzungspläne
 
@@ -554,7 +541,6 @@ Bei Vorranggebieten für raumbedeutsame Nutzungen kann festgelegt
 werden, dass sie zugleich die Wirkung von Eignungsgebieten für
 raumbedeutsame Maßnahmen oder Nutzungen haben.
 
-
 ### § 9 Umweltprüfung
 
 (1) Bei der Aufstellung von Raumordnungsplänen nach § 8 ist von der
@@ -622,7 +608,6 @@ Erkenntnissen die Durchführung des Raumordnungsplans erhebliche,
 insbesondere unvorhergesehene nachteilige Auswirkungen auf die Umwelt
 hat.
 
-
 ### § 10 Beteiligung bei der Aufstellung von Raumordnungsplänen
 
 (1) Die Öffentlichkeit sowie die in ihren Belangen berührten
@@ -652,7 +637,6 @@ Umweltauswirkungen auf einen anderen Staat haben kann, ist dieser nach
 § 14j des Gesetzes über die Umweltverträglichkeitsprüfung zu
 beteiligen.
 
-
 ### § 11 Bekanntmachung von Raumordnungsplänen; Bereithaltung von Raumordnungsplänen und von Unterlagen
 
 (1) Soweit der Raumordnungsplan nicht als Gesetz oder Rechtsverordnung
@@ -675,7 +659,6 @@ der Plan nach Abwägung mit den geprüften in Betracht kommenden
 anderweitigen Planungsmöglichkeiten gewählt wurde, sowie über die im
 Rahmen der Überwachung der Auswirkungen auf die Umwelt nach § 9 Abs. 4
 Satz 1 durchzuführenden Maßnahmen.
-
 
 ### § 12 Planerhaltung
 
@@ -761,7 +744,6 @@ Rechtsfolgen hinzuweisen.
 (6) Der Raumordnungsplan kann durch ein ergänzendes Verfahren zur
 Behebung von Fehlern auch rückwirkend in Kraft gesetzt werden.
 
-
 ### § 13 Raumordnerische Zusammenarbeit
 
 (1) Zur Vorbereitung oder Verwirklichung von Raumordnungsplänen oder
@@ -800,7 +782,6 @@ Landes- oder Regionalplanung bei der im Interesse des Vertragspartners
 liegenden Vorbereitung oder Verwirklichung von Raumordnungsplänen
 entstehen.
 
-
 ### § 14 Untersagung raumbedeutsamer Planungen und Maßnahmen
 
 (1) Die Raumordnungsbehörde kann raumbedeutsame Planungen und
@@ -819,7 +800,6 @@ Die Untersagung kann um ein weiteres Jahr verlängert werden.
 
 (3) Rechtsbehelfe gegen eine Untersagung haben keine aufschiebende
 Wirkung.
-
 
 ### § 15 Raumordnungsverfahren
 
@@ -875,7 +855,6 @@ Raumordnungsverfahren durchzuführen, nicht. Schaffen diese Länder
 allein oder gemeinsam mit anderen Ländern Rechtsgrundlagen für
 Raumordnungsverfahren, finden die Absätze 1 bis 5 Anwendung.
 
-
 ### § 16 Vereinfachtes Raumordnungsverfahren
 
 Bei der Prüfung der Raumverträglichkeit raumbedeutsamer Planungen und
@@ -889,9 +868,7 @@ Stellungnahmen schon in einem anderen Verfahren abgegeben wurden
 2 beträgt beim vereinfachten Raumordnungsverfahren grundsätzlich drei
 Monate.
 
-
 ## Abschnitt 3 - Raumordnung im Bund
-
 
 ### § 17 Raumordnungspläne für den Gesamtraum und für die deutsche ausschließliche Wirtschaftszone
 
@@ -956,7 +933,6 @@ unterrichtet bei der Aufstellung von Plänen nach den Absätzen 2 und 3
 den zuständigen Ausschuss des Deutschen Bundestages während der
 Beteiligung nach § 18.
 
-
 ### § 18 Beteiligung bei der Aufstellung von Raumordnungsplänen des Bundes
 
 Hinsichtlich der Beteiligung bei der Aufstellung von
@@ -1007,10 +983,6 @@ Raumordnungsplänen des Bundes gilt § 10 mit den folgenden Maßgaben:
 4.  Bei der Beteiligung können elektronische Informationstechnologien
     ergänzend genutzt werden.
 
-
-
-
-
 ### § 19 Bekanntmachung von Raumordnungsplänen des Bundes; Bereithaltung von Raumordnungsplänen und von Unterlagen
 
 (1) Der Raumordnungsplan nach § 17 Abs. 1 ist im Bundesanzeiger
@@ -1023,13 +995,11 @@ Raumordnungsplan eingesehen werden kann.
 (2) Für Raumordnungspläne des Bundes nach § 17 Abs. 2 und 3 gilt § 11
 Abs. 2 und 3 entsprechend.
 
-
 ### § 20 Planerhaltung bei Raumordnungsplänen des Bundes
 
 Hinsichtlich der Rechtswirksamkeit von Raumordnungsplänen des Bundes
 gelten die Regelungen des § 12 Abs. 1 und 3 bis 6 zur Planerhaltung
 entsprechend.
-
 
 ### § 21 Zielabweichung bei Raumordnungsplänen des Bundes
 
@@ -1043,14 +1013,12 @@ eine raumbedeutsame Planung oder Maßnahme oder in einem anderen
 Verfahren entschieden, ist das Benehmen mit dem Bundesministerium für
 Verkehr, Bau und Stadtentwicklung erforderlich.
 
-
 ### § 22 Untersagung raumbedeutsamer Planungen und Maßnahmen bei Raumordnungsplänen des Bundes
 
 Für die Untersagung raumbedeutsamer Planungen und Maßnahmen bei
 Raumordnungsplänen des Bundes nach § 17 Abs. 2 und 3 gilt § 14 Abs. 2
 und 3 mit der Maßgabe, dass für die Untersagung das Bundesministerium
 für Verkehr, Bau und Stadtentwicklung zuständig ist.
-
 
 ### § 23 Ermächtigung zum Erlass von Rechtsverordnungen
 
@@ -1068,7 +1036,6 @@ wenn sie die Bedeutung und Form der Planzeichen bestimmt, die für
 Festlegungen in Raumordnungsplänen der Länder nach § 8 Abs. 5 bis 7
 notwendig sind.
 
-
 ### § 24 Beirat für Raumentwicklung
 
 (1) Der Beirat für Raumentwicklung hat die Aufgabe, das
@@ -1082,7 +1049,6 @@ insbesondere aus den Bereichen der Wissenschaft, der Landesplanung,
 der Stadtentwicklung, der Wirtschaft, der Land- und Forstwirtschaft,
 des Naturschutzes und der Landschaftspflege, der Arbeitgeber, der
 Arbeitnehmer und des Sports.
-
 
 ### § 25 Zuständigkeiten des Bundesamtes für Bauwesen und Raumordnung
 
@@ -1118,9 +1084,7 @@ insbesondere über
 Die Berichte können sich auf fachliche und teilräumliche Aspekte
 beschränken.
 
-
 ## Abschnitt 4 - Ergänzende Vorschriften und Schlussvorschriften
-
 
 ### § 26 Zusammenarbeit von Bund und Ländern
 
@@ -1144,7 +1108,6 @@ der Raumordnung eng zusammen.
 zu erteilen, die zur Durchführung der Aufgaben der Raumordnung
 notwendig sind.
 
-
 ### § 27 Verwaltungsgebühren
 
 Für Amtshandlungen nach § 21, die das Bundesamt für Seeschifffahrt und
@@ -1158,7 +1121,6 @@ der mit den Amtshandlungen verbundene Personal- und Sachaufwand
 gedeckt wird; bei begünstigenden Amtshandlungen kann daneben die
 Bedeutung, der wirtschaftliche Wert oder der sonstige Nutzen für die
 Gebührenschuldner angemessen berücksichtigt werden.
-
 
 ### § 28 Anwendungsvorschrift für die Raumordnung in den Ländern
 
@@ -1187,7 +1149,6 @@ Rechtswirksamkeit dieser Pläne unbeachtlich.
 Raumordnung nach § 2 Abs. 2, die Zielabweichung nach § 6 Abs. 2 oder
 die Vorschriften des Abschnitts 2 dieses Gesetzes ergänzt, sowie
 landesrechtliche Gebührenregelungen bleiben unberührt.
-
 
 ### § 29 Anwendungsvorschrift für die Raumordnung in der deutschen ausschließlichen Wirtschaftszone
 
@@ -1236,7 +1197,6 @@ ausschließlichen Wirtschaftszone sind
 jeweils in der bis zum 28. Februar 2010 geltenden Fassung weiter
 anzuwenden, sofern die Aufstellung dieser Raumordnungspläne vor dem 1.
 Januar 2010 förmlich eingeleitet worden ist.
-
 
 ### Anlage 1 (zu § 9 Abs. 1)
 
@@ -1298,13 +1258,6 @@ Der Umweltbericht nach § 9 Abs. 1 besteht aus
 
     c)  allgemein verständliche Zusammenfassung der erforderlichen Angaben
         nach dieser Anlage.
-
-
-
-
-
-
-
 
 ### Anlage 2 (zu § 9 Abs. 2)
 

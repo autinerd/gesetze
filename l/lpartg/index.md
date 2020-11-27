@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 7 G v. 6.7.2009 I 1696
 
-
 ## Abschnitt 1 - Begründung der Lebenspartnerschaft
-
-
 
 ### § 1 Form und Voraussetzungen
 
@@ -62,17 +59,13 @@ nicht auf Begründung der Lebenspartnerschaft geklagt werden. § 1297
 Abs. 2 und die §§ 1298 bis 1302 des Bürgerlichen Gesetzbuchs gelten
 entsprechend.
 
-
 ## Abschnitt 2 - Wirkungen der Lebenspartnerschaft
-
-
 
 ### § 2 Partnerschaftliche Lebensgemeinschaft
 
 Die Lebenspartner sind einander zu Fürsorge und Unterstützung sowie
 zur gemeinsamen Lebensgestaltung verpflichtet. Sie tragen füreinander
 Verantwortung.
-
 
 ### § 3 Lebenspartnerschaftsname
 
@@ -112,14 +105,12 @@ einzutragen ist.
 
 (5) (weggefallen)
 
-
 ### § 4 Umfang der Sorgfaltspflicht
 
 Die Lebenspartner haben bei der Erfüllung der sich aus dem
 lebenspartnerschaftlichen Verhältnis ergebenden Verpflichtungen
 einander nur für diejenige Sorgfalt einzustehen, welche sie in eigenen
 Angelegenheiten anzuwenden pflegen.
-
 
 ### § 5 Verpflichtung zum Lebenspartnerschaftsunterhalt
 
@@ -128,7 +119,6 @@ mit ihrem Vermögen die partnerschaftliche Lebensgemeinschaft
 angemessen zu unterhalten. § 1360 Satz 2, die §§ 1360a, 1360b und 1609
 des Bürgerlichen Gesetzbuchs gelten entsprechend.
 
-
 ### § 6 Güterstand
 
 Die Lebenspartner leben im Güterstand der Zugewinngemeinschaft, wenn
@@ -136,13 +126,11 @@ sie nicht durch Lebenspartnerschaftsvertrag (§ 7) etwas anderes
 vereinbaren. § 1363 Abs. 2 und die §§ 1364 bis 1390 des Bürgerlichen
 Gesetzbuchs gelten entsprechend.
 
-
 ### § 7 Lebenspartnerschaftsvertrag
 
 Die Lebenspartner können ihre güterrechtlichen Verhältnisse durch
 Vertrag (Lebenspartnerschaftsvertrag) regeln. Die §§ 1409 bis 1563 des
 Bürgerlichen Gesetzbuchs gelten entsprechend.
-
 
 ### § 8 Sonstige vermögensrechtliche Wirkungen
 
@@ -153,7 +141,6 @@ befindlichen beweglichen Sachen dem Schuldner gehören. Im Übrigen gilt
 entsprechend.
 
 (2) § 1357 des Bürgerlichen Gesetzbuchs gilt entsprechend.
-
 
 ### § 9 Regelungen in Bezug auf Kinder eines Lebenspartners
 
@@ -190,7 +177,6 @@ annehmen. Für diesen Fall gelten § 1743 Satz 1, § 1751 Abs. 2 und 4
 Satz 2, § 1754 Abs. 1 und 3, § 1755 Abs. 2, § 1756 Abs. 2, § 1757 Abs.
 2 Satz 1 und § 1772 Abs. 1 Satz 1 Buchstabe c des Bürgerlichen
 Gesetzbuchs entsprechend.
-
 
 ### § 10 Erbrecht
 
@@ -252,7 +238,6 @@ Lebenspartner wie ein Ehegatte zu behandeln ist.
 (7) Die Vorschriften des Bürgerlichen Gesetzbuchs über den Erbverzicht
 gelten entsprechend.
 
-
 ### § 11 Sonstige Wirkungen der Lebenspartnerschaft
 
 (1) Ein Lebenspartner gilt als Familienangehöriger des anderen
@@ -264,10 +249,7 @@ bestimmen sich nach der Linie und dem Grad der sie vermittelnden
 Verwandtschaft. Die Schwägerschaft dauert fort, auch wenn die
 Lebenspartnerschaft, die sie begründet hat, aufgelöst wurde.
 
-
 ## Abschnitt 3 - Getrenntleben der Lebenspartner
-
-
 
 ### § 12 Unterhalt bei Getrenntleben
 
@@ -276,7 +258,6 @@ anderen den nach den Lebensverhältnissen und den Erwerbs- und
 Vermögensverhältnissen der Lebenspartner angemessenen Unterhalt
 verlangen. Die §§ 1361 und 1609 des Bürgerlichen Gesetzbuchs gelten
 entsprechend.
-
 
 ### § 13 Verteilung der Haushaltsgegenstände bei Getrenntleben
 
@@ -294,7 +275,6 @@ Haushaltsgegenstände festsetzen.
 
 (3) Die Eigentumsverhältnisse bleiben unberührt, sofern die
 Lebenspartner nichts anderes vereinbaren.
-
 
 ### § 14 Wohnungszuweisung bei Getrenntleben
 
@@ -336,10 +316,7 @@ nicht bekundet, so wird unwiderleglich vermutet, dass er dem in der
 gemeinsamen Wohnung verbliebenen Lebenspartner das alleinige
 Nutzungsrecht überlassen hat.
 
-
 ## Abschnitt 4 - Aufhebung der Lebenspartnerschaft
-
-
 
 ### § 15 Aufhebung der Lebenspartnerschaft
 
@@ -394,7 +371,6 @@ nicht herstellen will, weil er die lebenspartnerschaftliche
 Gemeinschaft ablehnt. § 1567 Abs. 1 Satz 2 und Abs. 2 des Bürgerlichen
 Gesetzbuchs gilt entsprechend.
 
-
 ### § 16 Nachpartnerschaftlicher Unterhalt
 
 Nach der Aufhebung der Lebenspartnerschaft obliegt es jedem
@@ -403,7 +379,6 @@ außerstande, hat er gegen den anderen Lebenspartner einen Anspruch auf
 Unterhalt nur entsprechend den §§ 1570 bis 1586b und 1609 des
 Bürgerlichen Gesetzbuchs.
 
-
 ### § 17 Behandlung der gemeinsamen Wohnung und der Haushaltsgegenstände anlässlich der Aufhebung der Lebenspartnerschaft
 
 Für die Behandlung der gemeinsamen Wohnung und der
@@ -411,16 +386,13 @@ Haushaltsgegenstände anlässlich der Aufhebung der Lebenspartnerschaft
 gelten die §§ 1568a und 1568b des Bürgerlichen Gesetzbuchs
 entsprechend.
 
-
 ### § 18 (weggefallen)
 
 -
 
-
 ### § 19 (weggefallen)
 
 -
-
 
 ### § 20 Versorgungsausgleich
 
@@ -444,15 +416,11 @@ Lebenspartnerschaft vor dem 1. Januar 2005 begründet worden ist und
 die Lebenspartner eine Erklärung nach § 21 Abs. 4 nicht abgegeben
 haben.
 
-
 ## Abschnitt 5 - Übergangsvorschriften
-
-
 
 ### § 21
 
 (weggefallen)
-
 
 ### § 22 Abgabe von Vorgängen
 
@@ -475,10 +443,7 @@ bezeichneten Angaben unter Hinweis auf die Behörde, vor der die
 Lebenspartnerschaft begründet worden ist, in ein gesondertes
 Lebenspartnerschaftsregister einzutragen.
 
-
 ## Abschnitt 6 - Länderöffnungsklausel
-
-
 
 ### § 23 Abweichende landesrechtliche Zuständigkeiten
 

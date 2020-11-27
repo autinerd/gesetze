@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 1625
 
-
 ## Eingangsformel
 
 Auf Grund des § 26 Absatz 1 Nummer 2 und Absatz 2 des
@@ -25,9 +24,7 @@ Verbindung mit § 10 der Bundeslaufbahnverordnung vom 12. Februar 2009
 (BGBl. I S. 284) verordnet das Bundesministerium für Arbeit und
 Soziales:
 
-
 ## Abschnitt 1 - Allgemeines
-
 
 ### § 1 Bachelorstudium
 
@@ -36,7 +33,6 @@ Sozialversicherung (Fachbereich) der Fachhochschule des Bundes für
 öffentliche Verwaltung (Fachhochschule) ist der Vorbereitungsdienst
 für den gehobenen nichttechnischen Dienst des Bundes in der
 Sozialversicherung.
-
 
 ### § 2 Ziele des Studiums
 
@@ -56,7 +52,6 @@ für die politischen, wirtschaftlichen und gesellschaftlichen
 Zusammenhänge im nationalen, europäischen und internationalen Bereich
 ist dabei besonders zu fördern.
 
-
 ### § 3 Einstellung in den Vorbereitungsdienst
 
 (1) Einstellungsbehörden sind die Deutsche Rentenversicherung Bund und
@@ -71,7 +66,6 @@ und Bewerbern einen Studien- und Ausbildungsvertrag schließen. In
 diesem Vertrag sind die beiderseitigen Rechte und Pflichten
 einschließlich der Vergütung sowie die Anwendung dieser Verordnung und
 der ihr zugrunde liegenden laufbahnrechtlichen Vorschriften zu regeln.
-
 
 ### § 4 Auswahlverfahren
 
@@ -99,7 +93,6 @@ Bundesgleichstellungsgesetzes sind zu berücksichtigen.
 erfolglos teilgenommen hat, erhält von der Einstellungsbehörde die
 Bewerbungsunterlagen mit einer schriftlichen Mitteilung über die
 Nichtzulassung oder die erfolglose Teilnahme zurück.
-
 
 ### § 5 Auswahlkommission
 
@@ -132,16 +125,13 @@ Bewerber fest, die für die Einstellung maßgebend ist. Sind mehrere
 Kommissionen eingerichtet, wird eine Rangfolge aller Bewerberinnen und
 Bewerber festgelegt.
 
-
 ### § 6 Urlaub
 
 Die Zeiten des Erholungsurlaubs werden während der Fachstudien vom
 Fachbereich und während der berufspraktischen Studienabschnitte von
 der Einstellungsbehörde in Abstimmung mit dem Fachbereich bestimmt.
 
-
 ## Abschnitt 2 - Studienordnung
-
 
 ### § 7 Dauer und Aufbau des Studiums
 
@@ -199,10 +189,6 @@ Studienabschnitte (Praktika) bei der Einstellungsbehörde.
 
     *   Fachstudium
 
-
-
-
-
 ### § 8 Studieninhalte
 
 Das Studium umfasst mindestens folgende Inhalte:
@@ -224,10 +210,6 @@ Das Studium umfasst mindestens folgende Inhalte:
 
 4.  Sozialwissenschaften mit den Schwerpunkten Soziologie, Politologie und
     Sozialpsychologie.
-
-
-
-
 
 ### § 9 Module, Leistungspunkte
 
@@ -251,7 +233,6 @@ Stunden.
 (4) Für das erfolgreich abgeschlossene Studium werden 180
 Leistungspunkte vergeben. Mindestens 90 Leistungspunkte müssen in
 Modulen mit rechtswissenschaftlichem Inhalt erworben werden.
-
 
 ### § 10 Berufspraktische Studienabschnitte
 
@@ -284,16 +265,13 @@ Die Zuweisung erfolgt durch die Einstellungsbehörde.
 (3) Die Praktika werden von der Einstellungsbehörde in Abstimmung mit
 dem Fachbereich organisiert und durchgeführt.
 
-
 ## Abschnitt 3 - Prüfungen
-
 
 ### § 11 Bachelorprüfung
 
 Die Bachelorprüfung ist die Laufbahnprüfung. Sie besteht aus den
 Modulprüfungen, der Bachelorarbeit und der Verteidigung der
 Bachelorarbeit.
-
 
 ### § 12 Errichtung und Zusammensetzung des Prüfungsausschusses
 
@@ -329,7 +307,6 @@ Prüfungsausschusses teilnehmen.
 (4) Die Amtsperiode der Mitglieder des Prüfungsausschusses beträgt
 vier Jahre. Wiederbestellung ist zulässig.
 
-
 ### § 13 Aufgaben und Beschlussfassung des Prüfungsausschusses
 
 (1) Der Prüfungsausschuss ist für die Organisation und Durchführung
@@ -360,7 +337,6 @@ Angelegenheiten berät oder Beschlüsse fasst, die
 
 Im Übrigen sind die Sitzungen des Prüfungsausschusses nicht
 öffentlich.
-
 
 ### § 14 Prüfende
 
@@ -398,7 +374,6 @@ Prüfung oder einen Prüfungsteil unabhängig voneinander. Die oder der
 Zweitprüfende darf Kenntnis von der Bewertung durch die Erstprüfende
 oder den Erstprüfenden haben.
 
-
 ### § 15 Prüfungsgrundsätze
 
 (1) Bei der Bewertung von Prüfungsleistungen ist neben der fachlichen
@@ -410,7 +385,6 @@ Prüfungsausschusses näher bestimmt.
 (2) Gegenstand, wesentlicher Verlauf und Ergebnis einer mündlichen
 Prüfung werden protokolliert. Das Protokoll ist von den Prüfenden zu
 unterzeichnen.
-
 
 ### § 16 Modulprüfungen
 
@@ -469,7 +443,6 @@ sind darüber hinaus:
 In die Bewertung einer Prüfungsleistung während des Praktikums kann
 auch die Praktikumsbeurteilung einfließen.
 
-
 ### § 17 Bachelorarbeit
 
 (1) Durch die Bachelorarbeit sollen die Studierenden nachweisen, dass
@@ -507,7 +480,6 @@ sechs Wochen abgeschlossen sein. Der Prüfungsausschuss ist berechtigt,
 die Bachelorarbeit nach Abschluss des Studiums in einer Sammlung zu
 veröffentlichen.
 
-
 ### § 18 Verteidigung der Bachelorarbeit
 
 (1) Die Verteidigung der Bachelorarbeit besteht aus
@@ -539,7 +511,6 @@ ihr Vorgehen sowie ihre Ergebnisse.
 Studierende nicht widerspricht. Der Prüfungsausschuss entscheidet über
 die Zulassung der Zuhörenden. Es sollen nicht mehr als fünf Zuhörende
 zugelassen werden.
-
 
 ### § 19 Bewertung der Prüfungsleistungen
 
@@ -663,7 +634,6 @@ Nachkommawerten abgerundet.
 (3) Eine Prüfung oder ein Prüfungsteil ist bestanden, wenn sie mit
 mindestens fünf Rangpunkten bewertet sind.
 
-
 ### § 20 Fernbleiben, Rücktritt
 
 (1) Bleiben Studierende ohne Genehmigung durch den Prüfungsausschuss
@@ -691,7 +661,6 @@ Genehmigung zurück, gilt die Prüfung als nicht begonnen. Der
 Prüfungsausschuss bestimmt, zu welchen Zeitpunkten die Prüfungen oder
 die Bachelorarbeit mit einem anderen Thema nachgeholt werden.
 
-
 ### § 21 Täuschung und Ordnungsverstoß
 
 (1) Studierenden, die bei einer Prüfung oder einem Prüfungsteil
@@ -718,7 +687,6 @@ der Aushändigung des Abschlusszeugnisses für nicht bestanden erklären.
 (5) Die Betroffenen sind vor Entscheidungen nach den Absätzen 2 bis 4
 anzuhören.
 
-
 ### § 22 Geltendmachen von Störungen
 
 Fühlt sich die oder der Studierende während einer Prüfung oder einem
@@ -728,7 +696,6 @@ unverzüglich den Aufsichtsführenden oder den Prüfenden mitzuteilen.
 Das Geltendmachen von Störungen nach Beendigung der Prüfung oder des
 Prüfungsteils ist nicht zulässig. Näheres regelt der Prüfungsausschuss
 in einer Richtlinie.
-
 
 ### § 23 Wiederholung von Prüfungen
 
@@ -754,7 +721,6 @@ nicht mit mindestens fünf Rangpunkten bewertet worden sind, können sie
 einmal wiederholt werden. Für die Wiederholung gelten §§ 17, 18
 entsprechend. Der Prüfungsausschuss vergibt das neue Thema. Absatz 1
 Satz 6 gilt entsprechend.
-
 
 ### § 24 Bestehen der Bachelorprüfung
 
@@ -793,7 +759,6 @@ Leistungspunkte gewichtet.
 
 (3) Die Rangpunktzahl der Bachelorprüfung ist auf den vollen Wert zu
 runden; § 19 Absatz 2 Satz 2 gilt entsprechend.
-
 
 ### § 25 Abschlusszeugnis, Urkunde, Diploma Supplement
 
@@ -844,7 +809,6 @@ Bachelorprüfung sowie eine Bescheinigung über die erbrachten
 Studienleistungen, aus der die absolvierten Module, deren Bewertung
 und die erworbenen Leistungspunkte hervorgehen.
 
-
 ### § 26 Prüfungsakten, Einsichtnahme
 
 (1) Die schriftlichen Prüfungsleistungen, die Protokolle der
@@ -858,9 +822,7 @@ höchstens zehn Jahre aufzubewahren.
 (3) Nach Abschluss jeder Prüfung oder jedes Prüfungsteils können die
 Studierenden Einsicht in ihre Prüfungsakten nehmen.
 
-
 ## Abschnitt 4 - Schlussvorschriften
-
 
 ### § 27 Übergangsregelung
 
@@ -871,7 +833,6 @@ Dienst des Bundes in der Sozialversicherung vom 14. Dezember 2001
 (BGBl. I S. 3739), die zuletzt durch Artikel 3 Absatz 21 der
 Verordnung vom 12. Februar 2009 (BGBl. I S. 320) geändert worden ist,
 weiter anzuwenden.
-
 
 ### § 28 Inkrafttreten, Außerkrafttreten
 

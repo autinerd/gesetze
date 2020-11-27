@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 5 Abs. 4 V v. 26.11.2010 I 1643
 
-
 ## Erster Teil - Allgemeine Vorschriften
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -53,7 +50,6 @@ der Gefahren bei schweren Unfällen mit gefährlichen Stoffen (ABl. EG
 1997 Nr. L 10 S. 13), geändert durch die Richtlinie 2003/105/EG des
 Europäischen Parlaments und des Rates vom 16. Dezember 2003 (ABl. EU
 Nr. L 345 S. 97), genannten Einrichtungen, Gefahren und Tätigkeiten.
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -121,17 +117,9 @@ Im Sinne dieser Verordnung sind
     Einrichtungen oder Betriebsweisen heranzuziehen, die mit Erfolg im
     Betrieb erprobt worden sind.
 
-
-
-
-
 ## Zweiter Teil - Vorschriften für Betriebsbereiche
 
-
-
 ### Erster Abschnitt - Grundpflichten
-
-
 
 #### § 3 Allgemeine Betreiberpflichten
 
@@ -161,7 +149,6 @@ Auswirkungen von Störfällen so gering wie möglich zu halten.
 
 (4) Die Beschaffenheit und der Betrieb der Anlagen des
 Betriebsbereichs müssen dem Stand der Sicherheitstechnik entsprechen.
-
 
 #### § 4 Anforderungen zur Verhinderung von Störfällen
 
@@ -197,10 +184,6 @@ Pflicht insbesondere
 4.  die sicherheitsrelevanten Teile des Betriebsbereichs vor Eingriffen
     Unbefugter zu schützen.
 
-
-
-
-
 #### § 5 Anforderungen zur Begrenzung von Störfallauswirkungen
 
 (1) Der Betreiber hat zur Erfüllung der sich aus § 3 Abs. 3 ergebenden
@@ -222,7 +205,6 @@ Pflicht insbesondere
 (2) Der Betreiber hat dafür zu sorgen, dass in einem Störfall die für
 die Gefahrenabwehr zuständigen Behörden und die Einsatzkräfte
 unverzüglich, umfassend und sachkundig beraten werden.
-
 
 #### § 6 Ergänzende Anforderungen
 
@@ -278,7 +260,6 @@ Alarm- und Gefahrenabwehrpläne erstellen und Stoffe, die auf Grund
 ihrer physikalischen Form, ihrer besonderen Merkmale oder des Ortes,
 an dem sie vorhanden sind, zusätzliche Vorkehrungen erfordern,
 berücksichtigen kann.
-
 
 #### § 7 Anzeige
 
@@ -341,7 +322,6 @@ Störfall verbundenen Gefahren ergeben könnten, sowie
 die entsprechenden Angaben der zuständigen Behörde nach Absatz 1 im
 Rahmen eines Genehmigungs- oder Anzeigeverfahrens vorgelegt hat.
 
-
 #### § 8 Konzept zur Verhinderung von Störfällen
 
 (1) Der Betreiber hat vor Inbetriebnahme ein schriftliches Konzept zur
@@ -359,10 +339,7 @@ Konzept zugrunde liegenden Sicherheitsmanagementsystems, sowie die
 Verfahren zu dessen Umsetzung zu überprüfen und erforderlichenfalls zu
 aktualisieren.
 
-
 ### Zweiter Abschnitt - Erweiterte Pflichten
-
-
 
 #### § 9 Sicherheitsbericht
 
@@ -470,7 +447,6 @@ für die Abwehr der noch verbleibenden Gefahren von Störfällen und für
 die Begrenzung ihrer Auswirkungen auf Mensch und Umwelt von Bedeutung
 sind.
 
-
 #### § 10 Alarm- und Gefahrenabwehrpläne
 
 (1) Vor der erstmaligen Inbetriebnahme eines Betriebsbereichs nach § 1
@@ -514,7 +490,6 @@ einem Störfall zu treffenden Maßnahmen ergeben könnten, hat der
 Betreiber die Alarm- und Gefahrenabwehrpläne unverzüglich zu
 aktualisieren. Absatz 1 Nr. 2 und Absatz 2 gelten entsprechend.
 
-
 #### § 11 Informationen über Sicherheitsmaßnahmen
 
 (1) Der Betreiber eines Betriebsbereichs nach § 1 Abs. 1 Satz 2 hat
@@ -556,7 +531,6 @@ einen geänderten Sicherheitsbericht vor, in dem die nicht offen zu
 legenden Teile ausgespart sind, und macht diesen der Öffentlichkeit
 zugänglich.
 
-
 #### § 12 Sonstige Pflichten
 
 (1) Der Betreiber eines Betriebsbereichs nach § 1 Abs. 1 Satz 2 hat
@@ -595,10 +569,7 @@ erforderliche Durchführung
 zu erstellen. Die Unterlagen sind mindestens fünf Jahre ab Erstellung
 zur Einsicht durch die zuständige Behörde aufzubewahren.
 
-
 ### Dritter Abschnitt - Behördenpflichten
-
-
 
 #### § 13 Mitteilungspflicht gegenüber dem Betreiber
 
@@ -611,7 +582,6 @@ einer angemessenen Frist nach Eingang des Sicherheitsberichts
 mitzuteilen, soweit der Sicherheitsbericht nicht Gegenstand eines
 immissionsschutzrechtlichen Genehmigungsverfahrens ist. Satz 1 gilt
 entsprechend in den Fällen des § 20 Abs. 3 und 3a.
-
 
 #### § 14 Berichtspflichten
 
@@ -663,7 +633,6 @@ Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit leitet
 die Informationen nach den Sätzen 1 und 2 an die Kommission der
 Europäischen Gemeinschaften weiter.
 
-
 #### § 15 Domino-Effekt
 
 Die zuständige Behörde hat gegenüber den Betreibern festzustellen, bei
@@ -672,7 +641,6 @@ ihres Standorts, ihres gegenseitigen Abstands und der in ihren Anlagen
 vorhandenen gefährlichen Stoffe eine erhöhte Wahrscheinlichkeit oder
 Möglichkeit von Störfällen bestehen kann oder diese Störfälle
 folgenschwerer sein können.
-
 
 #### § 16 Überwachungssystem
 
@@ -760,24 +728,17 @@ Niederlassung eines solchen Staatsangehörigen gilt hinsichtlich der
 erforderlichen Fachkunde § 36a Absatz 1 Satz 2 und Absatz 2 der
 Gewerbeordnung entsprechend.
 
-
 ## Dritter Teil
-
-
 
 ### § 17 (weggefallen)
 
 -
 
-
 ### § 18 (weggefallen)
 
 -
 
-
 ## Vierter Teil - Meldeverfahren, Schlussvorschriften
-
-
 
 ### § 19 Meldeverfahren
 
@@ -835,7 +796,6 @@ Stoffen (ABl. EG Nr. L 10 S. 13).
 über eine Mitteilung nach Absatz 1 unverzüglich zu unterrichten und
 ihnen auf Verlangen eine Kopie der schriftlichen Mitteilung nach
 Absatz 2 zugänglich zu machen.
-
 
 ### § 20 Übergangsvorschriften
 
@@ -922,7 +882,6 @@ Satz 3 bis 5 gilt entsprechend.
 
 (6) Als bestehende Betriebsbereiche im Sinne dieser Vorschrift gelten
 auch Betriebsbereiche, mit deren Errichtung begonnen wurde.
-
 
 ### § 21 Ordnungswidrigkeiten
 
@@ -1027,10 +986,6 @@ Immissionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 2.  eine in Absatz 1 Nr. 3 bis 15 bezeichnete Handlung in Bezug auf eine
     nicht genehmigungsbedürftige Anlage begeht, die Teil eines
     Betriebsbereichs ist.
-
-
-
-
 
 ### Anhang I Anwendbarkeit der Verordnung
 
@@ -1152,9 +1107,6 @@ Fundstelle des Originaltextes: BGBl. I 2005, 1607 - 1613
     Gas definiert ist und sich bei einer Temperatur von 20
     Grad C und einem Standarddruck von 101,3 kPa nicht im festen Zustand
     befindet.
-
-
-
 
 ## Stoffliste
 
@@ -2339,10 +2291,6 @@ Fundstelle des Originaltextes: BGBl. I 2005, 1607 - 1613
 4)  Ein von Ammoniumnitrat abgeleiteter Stickstoffgehalt von gewichtsmäßig
     28% entspricht 80% Ammoniumnitrat.
 
-
-
-
-
 ### Anhang II Mindestangaben im Sicherheitsbericht
 
 
@@ -2488,16 +2436,6 @@ Fundstelle des Originaltextes: BGBl. I 2005, 1607 - 1613
             erforderliche Zusammenfassung der unter den Nummern 1 bis 3 gemachten
             Sachangaben.
 
-
-
-
-
-
-
-
-
-
-
 ### Anhang III Grundsätze für das Konzept zur Verhinderung von Störfällen und das Sicherheitsmanagementsystem
 
 
@@ -2582,13 +2520,6 @@ Fundstelle des Originaltextes: BGBl. I 2005, 1607 - 1613
         Überprüfung der Leistungsfähigkeit des bestehenden Konzepts und des
         Sicherheitsmanagementsystems sowie seiner Aktualisierung.
 
-
-
-
-
-
-
-
 ### Anhang IV Informationen in den Alarm- und Gefahrenabwehrplänen
 
 
@@ -2631,10 +2562,6 @@ Fundstelle des Originaltextes: BGBl. I 2005, 1607 - 1613
 
 7.  Vorkehrungen zur Unterstützung von Abhilfemaßnahmen außerhalb des
     Geländes des Betriebsbereichs.
-
-
-
-
 
 ### Anhang V Information der Öffentlichkeit
 
@@ -2696,10 +2623,6 @@ Fundstelle des Originaltextes: BGBl. I 2005, 1607 - 1613
 
 11. Einzelheiten darüber, wo weitere Informationen eingeholt werden
     können.
-
-
-
-
 
 ### Anhang VI Meldungen
 
@@ -3085,10 +3008,6 @@ Ort, Datum                            Unterschrift
 
 4)  Beschreibung unter Berücksichtigung der Kriterien in Teil I des
     Anhangs.
-
-
-
-
 
 ### Anhang VII (weggefallen)
 

@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 1921
 
-
 ## Eingangsformel
 
 Auf Grund der §§ 10 und 28 Absatz 1 Nummer 2, 4 und 5 des
@@ -25,9 +24,7 @@ Treibhausgas-Emissionshandelsgesetzes vom 21. Juli 2011 (BGBl. I S.
 unter Wahrung der Rechte des Bundestages, verordnet die
 Bundesregierung:
 
-
 ## Abschnitt 1 - Allgemeine Vorschriften
-
 
 ### § 1 Anwendungsbereich und Zweck
 
@@ -46,10 +43,6 @@ Emissionshandelsgesetzes. Sie dient
 
 2.  der Konkretisierung der Anforderungen nach den §§ 8, 24 und 27 des
     Treibhausgas-Emissionshandelsgesetzes.
-
-
-
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -413,18 +406,9 @@ Begriffsbestimmungen:
         Anwendungsbereich des Treibhausgas-Emissionshandelsgesetzes fallen,
         abgegeben wird.
 
-
-
-
-
-
-
-
 ## Abschnitt 2 - Zuteilungsregeln für Bestandsanlagen
 
-
 ### Unterabschnitt 1 - Allgemeine Zuteilungsregeln
-
 
 #### § 3 Bildung von Zuteilungselementen
 
@@ -514,7 +498,6 @@ die Menge an Wärme, die der Wärmenetzbetreiber in diesem Zeitraum an
 Sektoren mit Verlagerungsrisiko abgegeben hat. Die Daten des
 Wärmenetzbetreibers sind zu verifizieren.
 
-
 #### § 4 Bestimmung der installierten Anfangskapazität von Bestandsanlagen
 
 (1) Zur Bestimmung der installierten Anfangskapazität eines
@@ -579,7 +562,6 @@ Absätze 1 bis 3 entsprechend.
 installierte Anfangskapazität null. Dies gilt bei wesentlichen
 Kapazitätserweiterungen mit Aufnahme des geänderten Betriebs nach dem
 30\. Juni 2011 auch für die zusätzliche Kapazität.
-
 
 #### § 5 Erhebung von Bezugsdaten
 
@@ -783,7 +765,6 @@ Antragsteller auf die Angaben im Zuteilungsantrag, werden auch die auf
 der Basis einheitlicher Stoffwerte mitgeteilten Emissionsdaten
 übernommen.
 
-
 #### § 6 Bestimmung von Bezugsdaten
 
 (1) Aktivitätsraten, Eingangs- und Ausgangsströme, zu denen nur für
@@ -866,7 +847,6 @@ Wärme in gekoppelter Produktion erzeugt wurde, sind die Eingangsströme
 und die diesbezüglichen Emissionen den in gekoppelter Produktion
 hergestellten Produkten nach Maßgabe von Anhang 1 Teil 3 zuzuordnen.
 
-
 #### § 7 Anforderungen an die Verifizierung von Zuteilungsanträgen
 
 (1) Die tatsachenbezogenen Angaben im Zuteilungsantrag sowie die
@@ -912,7 +892,6 @@ gilt Satz 1 entsprechend.
 (5) Die sachverständige Stelle hat im externen Prüfbericht zu
 bestätigen, dass der geprüfte Antrag weder Überschneidungen zwischen
 Zuteilungselementen noch Doppelzählungen enthält.
-
 
 #### § 8 Maßgebliche Aktivitätsrate
 
@@ -1036,7 +1015,6 @@ Kapazitätsverringerung maßgeblich. Bei wesentlichen
 Kapazitätsverringerungen im Jahr 2005 gilt Absatz 8 Satz 3 zweiter
 Halbsatz entsprechend.
 
-
 #### § 9 Zuteilung für Bestandsanlagen
 
 (1) Zur Ermittlung der kostenlosen Zuteilungsmenge für Bestandsanlagen
@@ -1128,9 +1106,7 @@ für das Jahr 2013 kostenlos zuzuteilen sind.
 für eine Anlage ablehnt, lehnt die zuständige Behörde die beantragte
 Zuteilung ab.
 
-
 ### Unterabschnitt 2 - Besondere Zuteilungsregeln
-
 
 #### § 10 Zuteilungsregel für die Wärmeversorgung von Privathaushalten
 
@@ -1190,7 +1166,6 @@ abgegebenen Wärmemenge.
 Wärmeverteilnetz gelten 39 Prozent dieser Wärme als an Privathaushalte
 abgegeben.
 
-
 #### § 11 Zuteilungsregel für die Herstellung von Zellstoff
 
 Besteht eine Anlage aus Zuteilungselementen, in denen Zellstoff
@@ -1204,14 +1179,12 @@ die von diesem Zuteilungselement hergestellten Zellstoffprodukte in
 den Verkehr gebracht und nicht in derselben Anlage oder in anderen,
 technisch angeschlossenen Anlagen zu Papier verarbeitet werden.
 
-
 #### § 12 Zuteilungsregel für Steamcracking-Prozesse
 
 Abweichend von § 9 Absatz 2 Nummer 1 berechnet sich die vorläufige
 jährliche Anzahl Berechtigungen, die einem Zuteilungselement mit
 Produkt-Emissionswert für die Herstellung chemischer Wertprodukte
 zuzuteilen sind, nach Maßgabe von Anhang 1 Teil 1.
-
 
 #### § 13 Zuteilungsregel für Vinylchlorid-Monomer
 
@@ -1222,7 +1195,6 @@ Vinylchlorid-Monomer zuzuteilenden Berechtigungen nach Anhang 1 Teil
 zu den sonstigen Bestimmungen dieser Verordnung Angaben enthalten über
 den Wasserstoff, der für die Herstellung von Vinylchlorid-Monomer als
 Brennstoff verwendet wurde.
-
 
 #### § 14 Wärmeflüsse zwischen Anlagen
 
@@ -1241,10 +1213,6 @@ Anzahl Berechtigungen, die dem Produkt entspricht aus
 
 2.  dem Wärme-Emissionswert für messbare Wärme gemäß Anhang I der
     einheitlichen EU-Zuteilungsregeln.
-
-
-
-
 
 #### § 15 Austauschbarkeit von Brennstoff und Strom
 
@@ -1284,9 +1252,7 @@ die Systemgrenzen des Zuteilungselements hinaus abgegeben wurde. Die
 Emissionen aus der gekoppelten Erzeugung von Strom und Wärme werden
 nach Maßgabe von Anhang 1 Teil 3 aufgeteilt.
 
-
 ## Abschnitt 3 - Neue Marktteilnehmer
-
 
 ### § 16 Antrag auf kostenlose Zuteilung von Berechtigungen
 
@@ -1493,7 +1459,6 @@ Eingang der vollständigen Antragsunterlagen die vorläufige
 Jahresgesamtzuteilungsmenge ermitteln und an die Europäische
 Kommission melden.
 
-
 ### § 17 Aktivitätsraten neuer Marktteilnehmer
 
 (1) Für die nach § 3 zu bestimmenden Zuteilungselemente von Neuanlagen
@@ -1550,7 +1515,6 @@ wird bestimmt auf der Grundlage der Angaben des Antragstellers über
 wesentlich erweitert wurde, sind die Aktivitätsraten nach Absatz 1 nur
 für die zusätzliche Kapazität der Zuteilungselemente zu bestimmen, auf
 die sich die wesentliche Kapazitätserweiterung bezieht.
-
 
 ### § 18 Zuteilung für neue Marktteilnehmer
 
@@ -1624,9 +1588,7 @@ Kapazität des Zuteilungselements nach dieser wesentlichen
 Kapazitätsänderung gemäß § 2 Nummer 5 als installierte
 Anfangskapazität des Zuteilungselements zugrunde.
 
-
 ## Abschnitt 4 - Kapazitätsverringerungen und Betriebseinstellungen
-
 
 ### § 19 Wesentliche Kapazitätsverringerung
 
@@ -1651,7 +1613,6 @@ Europäische Kommission.
 legt die zuständige Behörde die installierte Kapazität des
 Zuteilungselements nach der wesentlichen Kapazitätsverringerung als
 installierte Anfangskapazität des Zuteilungselements zugrunde.
-
 
 ### § 20 Betriebseinstellungen
 
@@ -1702,7 +1663,6 @@ die Zuteilungsentscheidung von Amts wegen auf und stellt die Ausgabe
 von Berechtigungen an diese Anlage ein. Die Aufhebung der
 Zuteilungsentscheidung steht unter der auflösenden Bedingung einer
 Ablehnung durch die Europäische Kommission.
-
 
 ### § 21 Teilweise Betriebseinstellungen
 
@@ -1780,10 +1740,6 @@ unberücksichtigt:
     Anwendungsbereich des Treibhausgas-Emissionshandelsgesetzes
     unterliegen.
 
-
-
-
-
 ### § 22 Änderungen des Betriebs einer Anlage
 
 (1) Der Anlagenbetreiber hat der zuständigen Behörde alle relevanten
@@ -1799,9 +1755,7 @@ unverzüglich mitzuteilen. Im Fall einer Betriebseinstellung nach § 20
 Absatz 1 ist der Anlagenbetreiber verpflichtet, der zuständigen
 Behörde das Datum der Betriebseinstellung unverzüglich mitzuteilen.
 
-
 ## Abschnitt 5 - Befreiung von Kleinemittenten
-
 
 ### § 23 Angaben im Antrag auf Befreiung für Kleinemittenten
 
@@ -1872,7 +1826,6 @@ als Bezugszeitraum nach § 8 Absatz 1 nicht die Jahre 2009 und 2010
 gewählt haben, besteht die Basisperiode aus den zwei auf das Jahr der
 Inbetriebnahme folgenden Jahren.
 
-
 ### § 24 Bestimmung des Emissionswertes der Anlage in der Basisperiode
 
 (1) Der Emissionswert der Anlage bezieht sich
@@ -1934,7 +1887,6 @@ zur Bestimmung des Emissionswertes des Verbundes in der Basisperiode
 die Emissionswerte aller einbezogenen Anlagen in entsprechender
 Anwendung von Absatz 2 Satz 1 gewichtet.
 
-
 ### § 25 Nachweis anlagenspezifischer Emissionsminderungen
 
 (1) Für die anlagenspezifische Emissionsminderung ist die Reduzierung
@@ -1977,7 +1929,6 @@ Verbunds und die gemeinsamen Ansprechpersonen zu benennen. Anlagen,
 die in einem Jahr keine Produktionsleistung erbracht haben, bleiben
 bei der Bestimmung der Emissionsminderung unberücksichtigt.
 
-
 ### § 26 Ausgleichszahlungs- und Abgabepflicht
 
 (1) Bei Ermittlung des Ausgleichsbetrages nach § 27 Absatz 3 des
@@ -1996,7 +1947,6 @@ genannte Emissionsschwelle erreicht hat, bis zum 30. April des
 übernächsten Jahres abzugeben. Abweichend davon muss der
 Anlagenbetreiber für das Kalenderjahr 2020 Berechtigungen bis zum 30.
 April 2021 abgeben.
-
 
 ### § 27 Öffentlichkeitsbeteiligung
 
@@ -2022,7 +1972,6 @@ zu den beabsichtigten Befreiungen Stellung zu nehmen. Nach Ablauf der
 Frist teilt die zuständige Behörde der Europäischen Kommission das
 Ergebnis der Öffentlichkeitsbeteiligung mit. Diese Mitteilung macht
 die zuständige Behörde auf ihrer Internetseite bekannt.
-
 
 ### § 28 Erleichterungen bei der Emissionsberichterstattung von Kleinemittenten
 
@@ -2092,9 +2041,7 @@ Emissionshandelsgesetzes gilt bei der Ermittlung von Emissionen und
 der Emissionsberichterstattung Absatz 1 Nummer 1 bis 6 und 8
 entsprechend.
 
-
 ## Abschnitt 6 - Sonstige Regelungen
-
 
 ### § 29 Einheitliche Anlagen
 
@@ -2123,7 +2070,6 @@ Treibhausgas-Emissionshandelsgesetzes zu widerrufen, soweit
 nachträglich unmittelbar geltende Rechtsakte der Europäischen Union
 der Bildung einer solchen einheitlichen Anlage entgegenstehen.
 
-
 ### § 30 Auktionierung
 
 (1) Anbieter der gemäß § 8 Absatz 1 Satz 1 des Treibhausgas-
@@ -2137,7 +2083,6 @@ Treibhausgas-Emissionshandelsgesetzes sind Überdeckungen und
 Unterdeckungen der entstandenen Kosten der Deutschen
 Emissionshandelsstelle im Umweltbundesamt auf den
 Refinanzierungsbedarf des darauffolgenden Jahres anzurechnen.
-
 
 ### § 31 Ordnungswidrigkeiten
 
@@ -2166,14 +2111,9 @@ fahrlässig
 4.  entgegen § 29 Absatz 2 eine Angabe nicht, nicht richtig oder nicht
     vollständig macht.
 
-
-
-
-
 ### § 32 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ### Anhang 1 (zu § 5 Absatz 1 Nummer 4 Buchstabe e, § 6 Absatz 6, § 10 Absatz 3 Satz 1, §§ 12, 13 Satz 1, § 15 Absatz 4 Satz 3, § 16 Absatz 2 Nummer 5 Buchstabe c, § 23 Absatz 4 Satz 2) Anwendung besonderer Zuteilungsregeln
 
@@ -2240,9 +2180,6 @@ O,k historische Produktion anderer chemischer Wertprodukte aus
     Tonnen anderer chemischer Wertprodukte, hier als Summe der Massen von
     Ethin, Propen, Butadien und Benzol.
 
-
-
-
 ## Teil 2
 
 ## Zuteilung für Vinylchlorid-Monomer nach § 13
@@ -2285,9 +2222,6 @@ Wasserstoff historische virtuelle Emissionen aus der Verbrennung von Wasserstoff
     Bezugszeitraums, berechnet als historischer Wasserstoffverbrauch
     multipliziert mit 56,1 Tonnen Kohlendioxid pro Terajoule, ausgedrückt
     in Tonnen Kohlendioxid-Äquivalent.
-
-
-
 
 ## Teil 3
 
@@ -2436,13 +2370,6 @@ Zuordnung der Eingangsströme und Emissionen
     d)  Veränderungen der Angaben zu den Buchstaben a bis c in den
         Kalenderjahren 2005 bis 2010.
 
-
-
-
-
-
-
-
 ### Anhang 2 (zu § 7 Absatz 3) Anforderungen an die sachverständigen Stellen und die Prüfung
 
 (Fundstelle: BGBl. I 2011, 1940 - 1941)
@@ -2465,9 +2392,6 @@ ihre Aufgabe objektiv und unparteiisch ausführen und vertraut sein mit
     und Emissionsquellen in der Anlage, insbesondere im Hinblick auf
     Erfassung, messtechnische Erhebung, Berechnung und Übermittlung von
     Daten.
-
-
-
 
 ## Teil 2
 

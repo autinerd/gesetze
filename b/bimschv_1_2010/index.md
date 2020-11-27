@@ -23,7 +23,6 @@ Fundstelle
     zuletzt durch die Richtlinie 2006/96/EG (ABl. L 363 vom 20.12.2006, S.
     81) geändert worden ist, sind beachtet worden.
 
-
 ## Eingangsformel
 
 Auf Grund des § 23 Absatz 1 in Verbindung mit § 48b sowie des § 59 des
@@ -32,9 +31,7 @@ Bundes-Immissionsschutzgesetzes in der Fassung der Bekanntmachung vom
 nach Anhörung der beteiligten Kreise und unter Wahrung der Rechte des
 Bundestages:
 
-
 ## Abschnitt 1 - Allgemeine Vorschriften
-
 
 ### § 1 Anwendungsbereich
 
@@ -76,10 +73,6 @@ Bundes-Immissionsschutzgesetzes bedürfen.
 3.  Feuerungsanlagen, von denen nach den Umständen zu erwarten ist, dass
     sie nicht länger als während der drei Monate, die auf die
     Inbetriebnahme folgen, an demselben Ort betrieben werden.
-
-
-
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -217,10 +210,6 @@ In dieser Verordnung gelten die folgenden Begriffsbestimmungen:
 17. bestehende Feuerungsanlagen:
     Feuerungsanlagen, die vor dem 22. März 2010 errichtet worden sind.
 
-
-
-
-
 ### § 3 Brennstoffe
 
 (1) In Feuerungsanlagen nach § 1 dürfen nur die folgenden Brennstoffe
@@ -341,12 +330,7 @@ Anforderungen erfüllen:
     einjährliches Messprogramm an den für den Einsatz vorgesehenen
     Feuerungsanlagentyp nachgewiesen werden.
 
-
-
-
-
 ## Abschnitt 2 - Feuerungsanlagen für feste Brennstoffe
-
 
 ### § 4 Allgemeine Anforderungen
 
@@ -414,7 +398,6 @@ Brennstoffs sowie der Besonderheiten beim Umgang mit festen
 Brennstoffen von einer Schornsteinfegerin oder einem Schornsteinfeger
 im Zusammenhang mit anderen Schornsteinfegerarbeiten beraten zu
 lassen.
-
 
 ### § 5 Feuerungsanlagen mit einer Nennwärmeleistung von 4 Kilowatt oder mehr
 
@@ -617,12 +600,7 @@ für
 3.  Feuerungsanlagen, die auf Grund ihrer bestimmungsgemäßen Funktion
     ausschließlich bei Volllast betrieben werden.
 
-
-
-
-
 ## Abschnitt 3 - Öl- und Gasfeuerungsanlagen
-
 
 ### § 6 Allgemeine Anforderungen
 
@@ -717,7 +695,6 @@ nach Anlage 3 Nummer 2 gleichwertigen Verfahren, insbesondere nach
 einem in einer europäischen Norm festgelegten Verfahren, ermittelt
 werden.
 
-
 ### § 7 Ölfeuerungsanlagen mit Verdampfungsbrenner
 
 Ölfeuerungsanlagen mit Verdampfungsbrenner sind so zu errichten und zu
@@ -744,7 +721,6 @@ betreiben, dass
 Bei Anlagen mit einer Nennwärmeleistung von 11 Kilowatt oder weniger,
 die vor dem 1. November 1996 errichtet worden sind, darf abweichend
 von Satz 1 Nummer 1 die Rußzahl 3 nicht überschritten werden.
-
 
 ### § 8 Ölfeuerungsanlagen mit Zerstäubungsbrenner
 
@@ -776,7 +752,6 @@ worden sind, darf abweichend von Satz 1 Nummer 1 die Rußzahl 2 nicht
 Zeitpunkten wesentlich geändert worden oder werden wesentlich
 geändert.
 
-
 ### § 9 Gasfeuerungsanlagen
 
 (1) Für Feuerungsanlagen, die regelmäßig mit Gasen der öffentlichen
@@ -789,7 +764,6 @@ Kilowattstunde Abgas.
 (2) Gasfeuerungsanlagen sind so zu errichten und zu betreiben, dass
 die Grenzwerte für die Abgasverluste nach § 10 Absatz 1 eingehalten
 werden.
-
 
 ### § 10 Begrenzung der Abgasverluste
 
@@ -849,10 +823,6 @@ oder der jeweiligen Bauart entsprechen.
 
 2.  Feuerungsanlagen, die bei einer Nennwärmeleistung von 28 Kilowatt oder
     weniger ausschließlich der Brauchwasserbereitung dienen.
-
-
-
-
 
 ### § 11 Öl- und Gasfeuerungen mit einer Feuerungswärmeleistung von 10 Megawatt bis 20 Megawatt
 
@@ -934,9 +904,7 @@ Brennstoff nach Absatz 1 für alle Betriebstemperaturen ein
 Emissionsgrenzwert für Stickstoffoxide von 250 Milligramm je
 Kubikmeter Abgas.
 
-
 ## Abschnitt 4 - Überwachung
-
 
 ### § 12 Messöffnung
 
@@ -948,7 +916,6 @@ Feuerungsanlage mehrere Verbindungsstücke, ist in jedem
 Verbindungsstück eine Messöffnung einzurichten. In anderen als den in
 Satz 1 genannten Fällen hat der Betreiber auf Verlangen der
 zuständigen Behörde die Herstellung einer Messöffnung zu gestatten.
-
 
 ### § 13 Messeinrichtungen
 
@@ -963,7 +930,6 @@ geeignet, wenn sie eine Eignungsprüfung bestanden haben.
 (3) Die eingesetzten Messeinrichtungen sind halbjährlich einmal von
 einer nach Landesrecht zuständigen Behörde bekannt gegebenen Stelle zu
 überprüfen.
-
 
 ### § 14 Überwachung neuer und wesentlich geänderter Feuerungsanlagen
 
@@ -1019,7 +985,6 @@ zur Feststellung der Einhaltung der Anforderungen durchführen zu
 lassen. Das Schornsteinfeger-Handwerksgesetz vom 26. November 2008
 (BGBl. I S. 2242) in der jeweils geltenden Fassung bleibt unberührt.
 
-
 ### § 15 Wiederkehrende Überwachung
 
 (1) Der Betreiber einer Feuerungsanlage für den Einsatz der in § 3
@@ -1074,7 +1039,6 @@ einem Schornsteinfeger durch Messungen feststellen zu lassen.
 
 (5) § 14 Absatz 4 und 5 gilt entsprechend.
 
-
 ### § 16 Zusammenstellung der Messergebnisse
 
 Der Bezirksschornsteinfegermeister meldet die Ergebnisse der Messungen
@@ -1091,7 +1055,6 @@ Schornsteinfegerhandwerks erstellt für jedes Kalenderjahr eine
 entsprechende länderübergreifende Übersicht und legt diese dem
 Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit bis
 zum 30. Juni des folgenden Jahres vor.
-
 
 ### § 17 Eigenüberwachung
 
@@ -1117,7 +1080,6 @@ für den Immissionsschutz zuständigen obersten Landesbehörden oder den
 nach Landesrecht zuständigen Behörden und dem Bundesministerium für
 Umwelt, Naturschutz und Reaktorsicherheit innerhalb der Zeiträume nach
 § 16 Satz 2 und 3 mit.
-
 
 ### § 18 Überwachung von Öl- und Gasfeuerungen mit einer Feuerungswärmeleistung von 10 Megawatt bis 20 Megawatt
 
@@ -1178,9 +1140,7 @@ Berichte fünf Jahre ab der Vorlage bei der Behörde aufbewahren.
 einer Einzelmessung nach Absatz 5 den jeweiligen Emissionsgrenzwert
 nach § 11 überschreitet.
 
-
 ## Abschnitt 5 - Gemeinsame Vorschriften
-
 
 ### § 19 Ableitbedingungen für Abgase
 
@@ -1235,7 +1195,6 @@ werden.
 den Vorschriften der Technischen Anleitung zur Reinhaltung der Luft
 vom 24. Juli 2002 (GMBl 2002, S. 511) zu berechnen ist.
 
-
 ### § 20 Anzeige und Nachweise
 
 (1) Der Betreiber einer Feuerungsanlage nach § 11 hat diese der
@@ -1249,13 +1208,11 @@ Tätigkeiten an den Bezirksschornsteinfegermeister gesendet werden. Der
 Bezirksschornsteinfegermeister hat die durchgeführten Arbeiten in das
 Kehrbuch einzutragen.
 
-
 ### § 21 Weitergehende Anforderungen
 
 Die Befugnis der zuständigen Behörde, auf Grund der §§ 24 und 25 des
 Bundes-Immissionsschutzgesetzes andere oder weiter gehende Anordnungen
 zu treffen, bleibt unberührt.
-
 
 ### § 22 Zulassung von Ausnahmen
 
@@ -1264,7 +1221,6 @@ der §§ 3 bis 11, 19, 25 und 26 zulassen, soweit diese im Einzelfall
 wegen besonderer Umstände durch einen unangemessenen Aufwand oder in
 sonstiger Weise zu einer unbilligen Härte führen und schädliche
 Umwelteinwirkungen nicht zu befürchten sind.
-
 
 ### § 23 Zugänglichkeit der Normen
 
@@ -1276,7 +1232,6 @@ Gesellschaft für Konformitätsbewertung mbH, Alboinstraße 56, 12103
 Berlin, bezogen werden. Die DIN-, DIN EN-Normen, die VDI-Richtlinien
 sowie das Zertifizierungsprogramm für Holzpellets sind beim Deutschen
 Patent- und Markenamt in München archivmäßig gesichert niedergelegt.
-
 
 ### § 24 Ordnungswidrigkeiten
 
@@ -1357,12 +1312,7 @@ Immissionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 17. entgegen § 25 Absatz 4 Satz 1 die Einhaltung einer dort genannten
     Anforderung nicht oder nicht rechtzeitig überwachen lässt.
 
-
-
-
-
 ## Abschnitt 6 - Übergangsregelungen
-
 
 ### § 25 Übergangsregelung für Feuerungsanlagen für feste Brennstoffe, ausgenommen Einzelraumfeuerungsanlagen
 
@@ -1600,7 +1550,6 @@ erst sechs Monate nach der Bekanntgabe einer geeigneten
 Messeinrichtung im Sinne des § 13 Absatz 2 überprüfen zu lassen. § 15
 Absatz 1 Satz 2 bleibt unberührt.
 
-
 ### § 26 Übergangsregelung für Einzelraumfeuerungsanlagen für feste Brennstoffe
 
 (1) Einzelraumfeuerungsanlagen für feste Brennstoffe, die vor dem 22.
@@ -1726,16 +1675,13 @@ einschließlich 31. Dezember 2014 nach § 4 Absatz 8 durch eine
 Schornsteinfegerin oder einen Schornsteinfeger im Zusammenhang mit
 anderen Schornsteinfegerarbeiten beraten lassen.
 
-
 ### § 27 Übergangsregelung für Schornsteinfegerarbeiten nach dem 1. Januar 2013
 
 An die Stelle der Bezirksschornsteinfegermeister treten ab dem 1.
 Januar 2013 die bevollmächtigten Bezirksschornsteinfeger nach § 48
 Satz 1 des Schornsteinfeger-Handwerksgesetzes.
 
-
 ## Abschnitt 7 - Schlussvorschrift
-
 
 ### § 28 Inkrafttreten, Außerkrafttreten
 
@@ -1745,11 +1691,9 @@ Fassung der Bekanntmachung vom. 14. März 1997 (BGBl I S. 490), die
 zuletzt durch Artikel 4 der Verordnung vom 14. August 2003 (BGBl I
 1614) geändert worden ist, außer Kraft.
 
-
 ### Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ### Anlage 1 (zu § 12) Messöffnung
 
@@ -1773,10 +1717,6 @@ Der Bundesrat hat zugestimmt.
 
 3.  An der Messöffnung dürfen keine Staub- oder Rußablagerungen vorhanden
     sein, die die Messungen wesentlich beeinträchtigen können.
-
-
-
-
 
 ### Anlage 2 (zu § 5 Absatz 1, §§ 7, 8, 10, 14 Absatz 4, § 15 Absatz 5, § 25 Absatz 2) Anforderungen an die Durchführung der Messungen im Betrieb
 
@@ -2181,10 +2121,6 @@ Der Bundesrat hat zugestimmt.
     Information über die Überprüfung der Anforderungen nach § 4 Absatz 3
     und 6, § 6 Absatz 1 (Herstellerbescheinigungen)
 
-
-
-
-
 ### Anlage 3 (zu § 2 Nummer 11, § 6) Bestimmung des Nutzungsgrades und des Stickstoffoxidgehaltes unter Prüfbedingungen
 
 (Fundstelle: BGBl. I 2010, 54)
@@ -2244,13 +2180,6 @@ Der Bundesrat hat zugestimmt.
         Ausgabe Juni 1999, sowie bei mehrstufigen oder modulierenden Brennern
         der in Anlehnung an diese Norm ermittelte Norm-Emissionsfaktor EN die
         festgelegten Grenzwerte nicht überschreitet.
-
-
-
-
-
-
-
 
 ### Anlage 4 (zu § 3 Absatz 5 Nummer 2, § 4 Absatz 3, 5 und 7, § 26 Absatz 1 Satz 2 Nummer 2, Absatz 6) Anforderungen bei der Typprüfung
 

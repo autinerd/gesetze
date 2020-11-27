@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1995, 1016
 
-
-
 ## Art 1
 
 Dem in Madrid am 28. Juni 1989 von der Bundesrepublik Deutschland
@@ -25,7 +23,6 @@ unterzeichneten Protokoll vom 27. Juni 1989 zum Madrider Abkommen über
 die internationale Registrierung von Marken wird zugestimmt. Das
 Protokoll wird nachstehend mit einer amtlichen deutschen Übersetzung
 veröffentlicht.
-
 
 ## Art 2
 
@@ -53,7 +50,6 @@ Das Bundesministerium der Justiz wird ermächtigt,
 
 
 durch Rechtsverordnung in Kraft zu setzen.
-
 
 ## Art 3
 

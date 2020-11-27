@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1978, 1795
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August
@@ -29,7 +27,6 @@ und unter Berücksichtigung des § 28 des
 Ausbildungsplatzförderungsgesetzes vom 7. September 1976 (BGBl. I S.
 2658) wird im Einvernehmen mit dem Bundesminister für Wirtschaft
 verordnet:
-
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
 
@@ -72,7 +69,6 @@ Aufgaben eines Gerüstbau-Kolonnenführers wahrzunehmen:
 (3) Die erfolgreich abgelegte Prüfung führt zum anerkannten Abschluß
 Geprüfter Gerüstbau-Kolonnenführer.
 
-
 ## § 2 Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer
@@ -100,7 +96,6 @@ wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft
 macht, daß er Kenntnisse, Fertigkeiten und Erfahrungen erworben hat,
 die die Zulassung zur Prüfung rechtfertigen.
 
-
 ## § 3 Gliederung der Prüfung
 
 (1) Die Prüfung gliedert sich in
@@ -117,7 +112,6 @@ die die Zulassung zur Prüfung rechtfertigen.
 werden; dabei ist mit dem letzten Prüfungsteil spätestens ein Jahr
 nach dem ersten Prüfungstag des bereits abgelegten Prüfungsteils zu
 beginnen.
-
 
 ## § 4 Fachtheoretischer Teil
 
@@ -262,7 +256,6 @@ sachgerechte Lösungen vorzuschlagen.
 mündlichen Prüfung befreien, wenn der Prüfungsteilnehmer in allen
 Prüfungsfächern gute schriftliche Leistungen erbracht hat.
 
-
 ## § 5 Fachpraktischer Teil
 
 (1) Im fachpraktischen Teil ist in folgenden Fächern zu prüfen:
@@ -333,7 +326,6 @@ Prüfungsteilnehmer in der Regel 2 Stunden dauern. Die Prüfung kann je
 nach Aufgabenstellung einzeln oder durch Führung einer Gerüstbau-
 Kolonne durchgeführt werden.
 
-
 ## § 6 Anrechnung anderer Prüfungsleistungen
 
 (1) Von der Ablegung der Prüfung in einem Prüfungsfach oder mehreren
@@ -346,7 +338,6 @@ Anforderungen des jeweiligen Prüfungsfachs entspricht. Eine
 Freistellung von allen Prüfungsfächern ist nicht zulässig.
 
 (2)
-
 
 ## § 7 Bestehen der Prüfung
 
@@ -369,7 +360,6 @@ erzielten Prüfungsnoten hervorgehen müssen. Im Falle der Freistellung
 nach § 6 sind Ort, Datum und Bezeichnung des Prüfungsgremiums der
 anderweitig abgelegten Prüfung anzugeben.
 
-
 ## § 8 Wiederholung der Prüfung
 
 (1) Eine Prüfung, die nicht bestanden ist, kann zweimal wiederholt
@@ -382,23 +372,19 @@ ausgereicht haben und er sich innerhalb von zwei Jahren, gerechnet vom
 Tag der Beendigung der nichtbestandenen Prüfung an, zur
 Wiederholungsprüfung anmeldet.
 
-
 ## § 9 Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 112 des Berufsbildungsgesetzes und § 128 der
 Handwerksordnung auch im Land Berlin.
 
-
 ## § 10 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesminister für Bildung und Wissenschaft
-
 
 ## Anlage 1 Muster
 
@@ -423,7 +409,6 @@ bestanden.
 Datum ......................................................
 Unterschrift ...............................................
 (Siegel der zuständigen Stelle)
-
 
 ## Anlage 2 Muster
 
@@ -477,7 +462,6 @@ freigestellt.")
 Datum ......................................................
 Unterschrift ...............................................
 (Siegel der zuständigen Stelle)
-
 
 ## Anhang EV Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III (BGBl. II 1990, 889, 1135)
 

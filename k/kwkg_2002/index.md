@@ -21,7 +21,6 @@ Zuletzt geändert durch
 Das g tritt gem. u. nach maßgabe d. § 13 abs. 2 am 31.12.2010 außer kraft. § 13 aufgeh. durch
 :   Art. 1 Nr. 16 G v. 25.10.2008 I 2101; dadurch ist die Geltung dieses G über den 31.12.2010 hinaus verlängert worden.
 
-
 ## § 1 Zweck des Gesetzes
 
 Zweck des Gesetzes ist es, im Interesse der Energieeinsparung, des
@@ -34,7 +33,6 @@ Unterstützung der Markteinführung der Brennstoffzelle und die
 Förderung des Neu- und Ausbaus von Wärme- und Kältenetzen sowie des
 Neu- und Ausbaus von Wärme- und Kältespeichern, in die Wärme oder
 Kälte aus KWK-Anlagen eingespeist wird, zu leisten.
-
 
 ## § 2 Anwendungsbereich
 
@@ -49,7 +47,6 @@ Geltungsbereich dieses Gesetzes gelegen sind. KWK-Strom, der nach § 16
 des Erneuerbare-Energien-Gesetzes vergütet oder in den Formen des §
 33b Nummer 1 oder Nummer 2 des Erneuerbare-Energien-Gesetzes direkt
 vermarktet wird, fällt nicht in den Anwendungsbereich dieses Gesetzes.
-
 
 ## § 3 Begriffsbestimmungen
 
@@ -190,7 +187,6 @@ voraus.
 die der eines Kubikmeters Wassers im flüssigen Zustand bei Normaldruck
 entspricht.
 
-
 ## § 4 Anschluss-, Abnahme- und Vergütungspflicht
 
 (1) Netzbetreiber sind verpflichtet, hocheffiziente KWK-Anlagen im
@@ -291,7 +287,6 @@ Zustimmung des Bundesrates Grundlagen und Berechnungsgrundsätze zur
 Bestimmung des Vergütungsanspruchs für aufgenommenen KWK-Strom nach
 Absatz 3 Satz 1 näher zu bestimmen.
 
-
 ## § 5 Kategorien der zuschlagberechtigten KWK-Anlagen
 
 (1) Anspruch auf Zahlung des Zuschlags besteht für KWK-Strom aus
@@ -344,7 +339,6 @@ Dezember 2020 wieder in Dauerbetrieb genommen wird, sofern keine
 bereits bestehende Fernwärmeversorgung aus KWK-Anlagen verdrängt wird.
 Im Hinblick auf die Verdrängung gelten die entsprechenden Regelungen
 nach Absatz 1 Satz 2 und 3.
-
 
 ## § 5a Zuschlagberechtigter Neu- und Ausbau von Wärme- und Kältenetzen
 
@@ -412,7 +406,6 @@ genommen wurde.
 
 (5) Die Absätze 1 bis 4 gelten für den Kältenetzausbau entsprechend.
 
-
 ## § 5b Zuschlagberechtigter Neu- und Ausbau von Wärme- und Kältespeichern
 
 (1) Betreiber von Wärmespeichern haben für den Neu- und Ausbau von
@@ -456,7 +449,6 @@ Anlage aus fabrikneuen Komponenten.
 
 (4) Die Absätze 1 bis 3 gelten für den Neu- und Ausbau von
 Kältespeichern entsprechend.
-
 
 ## § 6 Zulassung von KWK-Anlagen
 
@@ -533,7 +525,6 @@ Kilowatt in Form der Allgemeinverfügung (§ 35 Satz 2 des
 Verwaltungsverfahrensgesetzes) von Amts wegen erteilen. Die
 Allgemeinverfügung nach Satz 1 kann mit Auflagen verbunden werden.
 
-
 ## § 6a Zulassung des Neu- und Ausbaus von Wärme- und Kältenetzen
 
 (1) Die Zulassung ist dem Wärmenetzbetreiber zu erteilen, wenn der
@@ -569,7 +560,6 @@ dauerhaften Versorgung mit Wärme.
 
 (4) Die Absätze 1 bis 3 gelten für den Neu- und Ausbau von Kältenetzen
 entsprechend.
-
 
 ## § 6b Zulassung des Neu- und Ausbaus von Wärme- und Kältespeichern
 
@@ -617,7 +607,6 @@ Volumen bis 5 Kubikmeter Wasseräquivalent in Form der
 Allgemeinverfügung (§ 35 Satz 2 des Verwaltungsverfahrensgesetzes) von
 Amts wegen erteilen. Die Allgemeinverfügung nach Satz 1 kann mit
 Auflagen verbunden werden.
-
 
 ## § 7 Höhe des Zuschlags und Dauer der Zahlung
 
@@ -740,7 +729,6 @@ Die Nachzahlungen erfolgen vorrangig vor den Ansprüchen auf KWK-
 Zuschlag der KWK-Anlagen nach Satz 2 aus dem vorangegangenen
 Kalenderjahr.
 
-
 ## § 7a Zuschlagzahlung für den Neu- und Ausbau von Wärme- und Kältenetzen
 
 (1) Die zuständige Stelle legt den Zuschlag für den Neu- und Ausbau
@@ -789,7 +777,6 @@ Reihenfolge der Zulassung nach § 6a Absatz 1 bis zu dem in Satz 1
 genannten Betrag. Darüber hinausgehende Beträge werden unter
 Berücksichtigung von Satz 2 in den Folgejahren ausgezahlt.
 
-
 ## § 7b Zuschlagzahlungen für den Neu- und Ausbau von Wärme- und Kältespeichern
 
 (1) Die zuständige Stelle legt den Zuschlag für den Neu- und Ausbau
@@ -813,7 +800,6 @@ Kältespeichern entsprechend.
 
 (4) § 7a Absatz 5 gilt entsprechend für die Begrenzung der Summe der
 Zuschlagzahlungen für Wärme- und Kältespeicher.
-
 
 ## § 8 Nachweis des eingespeisten KWK-Stroms
 
@@ -903,7 +889,6 @@ Bundesrepublik Deutschland gegenüber supra- und internationalen
 Organisationen. Für die zu übermittelnden Daten gelten die Regelungen
 zur Geheimhaltung gemäß § 16 des Bundesstatistikgesetzes.
 
-
 ## § 9 Belastungsausgleich
 
 (1) Netzbetreiber, die im Kalenderjahr Zuschläge zu leisten haben,
@@ -975,7 +960,6 @@ Netznutzungsentgelte nicht gesondert in Rechnung gestellt, können die
 Zahlungen nach Satz 1 bei dem Gesamtpreis für den Strombezug
 entsprechend in Ansatz gebracht werden.
 
-
 ## § 9a Herkunftsnachweis für Strom aus hocheffizienter Kraft-Wärme-Kopplung
 
 (1) Betreiber von hocheffizienten KWK-Anlagen können für Strom, der in
@@ -1021,7 +1005,6 @@ Herkunftsnachweis muss die Angaben nach Absatz 2 enthalten. Die
 zuständige Stelle kann weitere Angaben verlangen, wenn dies zur
 Erfüllung der gemeinschaftsrechtlichen Vorgaben erforderlich ist.
 
-
 ## § 10 Zuständigkeit
 
 (1) Zuständig für die Durchführung dieses Gesetzes ist das Bundesamt
@@ -1035,7 +1018,6 @@ auf eine juristische Person des privaten Rechts zu übertragen, soweit
 deren Bereitschaft und Eignung zur ordnungsgemäßen Erfüllung der
 Aufgaben gegeben ist.
 
-
 ## § 11 Kosten
 
 (1) Für Amtshandlungen nach diesem Gesetz werden Kosten (Gebühren und
@@ -1046,7 +1028,6 @@ ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die
 gebührenpflichtigen Tatbestände und die Gebührenhöhe zu bestimmen. Die
 Rechtsverordnung nach Satz 1 kann für die Einlegung eines Widerspruchs
 Gebühren vorsehen.
-
 
 ## § 12 Zwischenüberprüfung
 
@@ -1061,11 +1042,9 @@ Erreichung der energie- und klimapolitischen Ziele der Bundesregierung
 und dieses Gesetzes, der Rahmenbedingungen für den wirtschaftlichen
 Betrieb von KWK-Anlagen und der jährlichen Zuschlagzahlungen durch.
 
-
 ## § 13 (weggefallen)
 
 -
-
 
 ## § 13 Übergangsbestimmungen
 

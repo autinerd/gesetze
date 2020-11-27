@@ -22,7 +22,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 4 V v. 11.7.2006 I 1575
 
-
 ## § 1 Anwendungsbereich
 
 Diese Verordnung trifft nähere Bestimmungen über Art, Umfang, Inhalt
@@ -35,10 +34,6 @@ und Form von Mitteilungen an das Bundesinstitut für Risikobewertung,
 
 2.  die ein Arzt nach § 16e Abs. 2 des Chemikaliengesetzes bei
     Vergiftungsfällen abzugeben hat.
-
-
-
-
 
 ## § 2 Mitteilungspflicht beim Inverkehrbringen von Zubereitungen und Biozid-Produkten (§ 16e Abs. 1 des Chemikaliengesetzes)
 
@@ -74,7 +69,6 @@ vergebene Mitteilungsnummer angibt.
 Angaben nach den Absätzen 1 und 2 auch auf einem anderen geeigneten
 Datenträger zulassen.
 
-
 ## § 3 Ärztliche Mitteilungspflicht bei Vergiftungen (§ 16e Abs. 2 des Chemikaliengesetzes)
 
 (1) Die Mitteilung nach § 16e Abs. 2 des Chemikaliengesetzes hat unter
@@ -103,7 +97,6 @@ Mitteilung nur von dem behandelnden Arzt vorzunehmen.
 (2) Das Bundesinstitut für Risikobewertung kann die Übermittlung der
 Angaben nach Absatz 1 auch auf andere geeignete Weise zulassen.
 
-
 ## § 4 Vertraulichkeit
 
 Alle auf den Formblättern nach den Anlagen 1, 2 und 3 übermittelten
@@ -112,16 +105,13 @@ behandeln. Die Angaben im Formblatt nach Anlage 3 dürfen nicht zur
 Herstellung eines Personenbezuges zum Patienten verarbeitet oder
 genutzt werden.
 
-
 ## § 5
 
 (weggefallen)
 
-
 ## § 6
 
 (Inkrafttreten)
-
 
 ## Anlage 1 (zu § 2 Abs. 1 Satz 1 Nr. 1)
 
@@ -303,7 +293,6 @@ die für den Verbraucher bestimmt sind
 13\. Sonstige Angaben
 ....................................................................
 
-
 ## Anlage 2 (zu § 2 Abs. 1 Satz 1 Nr. 2)
 
 (Fundstelle: BGBl. I 2002, 2522;
@@ -347,7 +336,6 @@ Zubereitung/das ursprüngliche und das geänderte Biozid-Produkt
 eindeutig unterscheiden lassen (z. B. Verpackungscode, Farbe)
 .....................................................................
 .....................................................................
-
 
 ## Anlage 3 (zu § 3 Abs. 1)
 

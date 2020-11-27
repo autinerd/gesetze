@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1990, 439
 
-
-
 ## (XXXX)
 
 Die nach Artikel 6 Abs. 3 des Einführungsgesetzes zum

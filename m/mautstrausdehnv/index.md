@@ -18,8 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 4 G v. 12.7.2011 I 1378
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 1 Abs. 4 Satz 1 des Autobahnmautgesetzes für schwere
@@ -32,7 +30,6 @@ mit § 1 Abs. 2 des Zuständigkeitsanpassungsgesetzes vom 16. August
 Bau und Stadtentwicklung nach Anhörung der Kommission der Europäischen
 Gemeinschaften:
 
-
 ## § 1 Ausdehnung der Mautpflicht
 
 Die nach dem Bundesfernstraßenmautgesetz bestehende Mautpflicht wird
@@ -41,23 +38,19 @@ Streckenabschnitte der dort genannten Bundesstraßen ausgedehnt. Die
 Mautpflicht besteht jeweils in beiden Fahrtrichtungen, soweit in
 Spalte 4 der Anlage nicht etwas anderes bestimmt ist.
 
-
 ## § 2 Beginn der Mautpflicht
 
 Die Erhebung der Maut auf den in der Anlage bezeichneten
 Streckenabschnitten beginnt jeweils an dem für die jeweilige Strecke
 in Spalte 5 der Anlage angegebenen Zeitpunkt.
 
-
 ## § 3 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage (zu den §§ 1 und 2) Mautpflichtige Streckenabschnitte von Bundesstraßen
 

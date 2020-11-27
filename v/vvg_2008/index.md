@@ -18,15 +18,11 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 Abs. 79 G v. 22.12.2011 I 3044
 
-
 ## Teil 1 - Allgemeiner Teil
-
 
 ### Kapitel 1 - Vorschriften für alle Versicherungszweige
 
-
 #### Abschnitt 1 - Allgemeine Vorschriften
-
 
 ##### § 1 Vertragstypische Pflichten
 
@@ -36,7 +32,6 @@ eine Leistung abzusichern, die er bei Eintritt des vereinbarten
 Versicherungsfalles zu erbringen hat. Der Versicherungsnehmer ist
 verpflichtet, an den Versicherer die vereinbarte Zahlung (Prämie) zu
 leisten.
-
 
 ##### § 2 Rückwärtsversicherung
 
@@ -56,7 +51,6 @@ Fällen des Absatzes 2 sowohl die Kenntnis des Vertreters als auch die
 Kenntnis des Vertretenen zu berücksichtigen.
 
 (4) § 37 Abs. 2 ist auf die Rückwärtsversicherung nicht anzuwenden.
-
 
 ##### § 3 Versicherungsschein
 
@@ -88,7 +82,6 @@ Versicherungsnehmer gehemmt.
 Absatz 3 und der Abschriften nach Absatz 4 hat der Versicherungsnehmer
 zu tragen und auf Verlangen vorzuschießen.
 
-
 ##### § 4 Versicherungsschein auf den Inhaber
 
 (1) Auf einen als Urkunde auf den Inhaber ausgestellten
@@ -100,7 +93,6 @@ genügt, wenn der Versicherungsnehmer erklärt, zur Rückgabe außerstande
 zu sein, das öffentlich beglaubigte Anerkenntnis, dass die Schuld
 erloschen sei. Satz 1 ist nicht anzuwenden, wenn der
 Versicherungsschein der Kraftloserklärung unterliegt.
-
 
 ##### § 5 Abweichender Versicherungsschein
 
@@ -124,7 +116,6 @@ Versicherungsnehmers geschlossen.
 
 (4) Eine Vereinbarung, durch die der Versicherungsnehmer darauf
 verzichtet, den Vertrag wegen Irrtums anzufechten, ist unwirksam.
-
 
 ##### § 6 Beratung des Versicherungsnehmers
 
@@ -173,7 +164,6 @@ nicht, wenn der Vertrag mit dem Versicherungsnehmer von einem
 Versicherungsmakler vermittelt wird oder wenn es sich um einen Vertrag
 im Fernabsatz im Sinn des § 312b Abs. 1 und 2 des Bürgerlichen
 Gesetzbuchs handelt.
-
 
 ##### § 7 Information des Versicherungsnehmers
 
@@ -257,7 +247,6 @@ solchen Vertrag der Versicherungsnehmer eine natürliche Person, hat
 ihm der Versicherer vor Vertragsschluss das anwendbare Recht und die
 zuständige Aufsichtsbehörde in Textform mitzuteilen.
 
-
 ##### § 8 Widerrufsrecht des Versicherungsnehmers
 
 (1) Der Versicherungsnehmer kann seine Vertragserklärung innerhalb von
@@ -323,7 +312,6 @@ Beachtung von Absatz 2 Satz 1 Nr. 2 in Format und Schriftgröße von dem
 Muster abweichen und Zusätze wie die Firma oder ein Kennzeichen des
 Versicherers anbringen.
 
-
 ##### § 9 Rechtsfolgen des Widerrufs
 
 Übt der Versicherungsnehmer das Widerrufsrecht nach § 8 Abs. 1 aus,
@@ -340,14 +328,12 @@ des Versicherungsschutzes gezahlten Prämien zu erstatten; dies gilt
 nicht, wenn der Versicherungsnehmer Leistungen aus dem
 Versicherungsvertrag in Anspruch genommen hat.
 
-
 ##### § 10 Beginn und Ende der Versicherung
 
 Ist die Dauer der Versicherung nach Tagen, Wochen, Monaten oder einem
 mehrere Monate umfassenden Zeitraum bestimmt, beginnt die Versicherung
 mit Beginn des Tages, an dem der Vertrag geschlossen wird; er endet
 mit Ablauf des letzten Tages der Vertragszeit.
-
 
 ##### § 11 Verlängerung, Kündigung
 
@@ -371,12 +357,10 @@ Jahren geschlossen worden ist, kann vom Versicherungsnehmer zum
 Schluss des dritten oder jedes darauf folgenden Jahres unter
 Einhaltung einer Frist von drei Monaten gekündigt werden.
 
-
 ##### § 12 Versicherungsperiode
 
 Als Versicherungsperiode gilt, falls nicht die Prämie nach kürzeren
 Zeitabschnitten bemessen ist, der Zeitraum eines Jahres.
-
 
 ##### § 13 Änderung von Anschrift und Name
 
@@ -392,7 +376,6 @@ anzuwenden.
 (2) Hat der Versicherungsnehmer die Versicherung in seinem
 Gewerbebetrieb genommen, ist bei einer Verlegung der gewerblichen
 Niederlassung Absatz 1 Satz 1 und 2 entsprechend anzuwenden.
-
 
 ##### § 14 Fälligkeit der Geldleistung
 
@@ -410,14 +393,12 @@ Versicherungsnehmers nicht beendet werden können.
 (3) Eine Vereinbarung, durch die der Versicherer von der Verpflichtung
 zur Zahlung von Verzugszinsen befreit wird, ist unwirksam.
 
-
 ##### § 15 Hemmung der Verjährung
 
 Ist ein Anspruch aus dem Versicherungsvertrag beim Versicherer
 angemeldet worden, ist die Verjährung bis zu dem Zeitpunkt gehemmt, zu
 dem die Entscheidung des Versicherers dem Anspruchsteller in Textform
 zugeht.
-
 
 ##### § 16 Insolvenz des Versicherers
 
@@ -429,7 +410,6 @@ Insolvenzmasse gegenüber wirksam.
 (2) Die Vorschriften des Versicherungsaufsichtsgesetzes über die
 Wirkungen der Insolvenzeröffnung bleiben unberührt.
 
-
 ##### § 17 Abtretungsverbot bei unpfändbaren Sachen
 
 Soweit sich die Versicherung auf unpfändbare Sachen bezieht, kann eine
@@ -437,16 +417,13 @@ Forderung aus der Versicherung nur auf solche Gläubiger des
 Versicherungsnehmers übertragen werden, die diesem zum Ersatz der
 zerstörten oder beschädigten Sachen andere Sachen geliefert haben.
 
-
 ##### § 18 Abweichende Vereinbarungen
 
 Von § 3 Abs. 1 bis 4, § 5 Abs. 1 bis 3, den §§ 6 bis 9 und 11 Abs. 2
 bis 4, § 14 Abs. 2 Satz 1 und § 15 kann nicht zum Nachteil des
 Versicherungsnehmers abgewichen werden.
 
-
 #### Abschnitt 2 - Anzeigepflicht, Gefahrerhöhung, andere Obliegenheiten
-
 
 ##### § 19 Anzeigepflicht
 
@@ -490,7 +467,6 @@ nach Zugang der Mitteilung des Versicherers ohne Einhaltung einer
 Frist kündigen. Der Versicherer hat den Versicherungsnehmer in der
 Mitteilung auf dieses Recht hinzuweisen.
 
-
 ##### § 20 Vertreter des Versicherungsnehmers
 
 Wird der Vertrag von einem Vertreter des Versicherungsnehmers
@@ -502,7 +478,6 @@ sich darauf, dass die Anzeigepflicht nicht vorsätzlich oder grob
 fahrlässig verletzt worden ist, nur berufen, wenn weder dem Vertreter
 noch dem Versicherungsnehmer Vorsatz oder grobe Fahrlässigkeit zur
 Last fällt.
-
 
 ##### § 21 Ausübung der Rechte des Versicherers
 
@@ -530,12 +505,10 @@ Versicherungsfälle, die vor Ablauf dieser Frist eingetreten sind. Hat
 der Versicherungsnehmer die Anzeigepflicht vorsätzlich oder arglistig
 verletzt, beläuft sich die Frist auf zehn Jahre.
 
-
 ##### § 22 Arglistige Täuschung
 
 Das Recht des Versicherers, den Vertrag wegen arglistiger Täuschung
 anzufechten, bleibt unberührt.
-
 
 ##### § 23 Gefahrerhöhung
 
@@ -552,7 +525,6 @@ anzuzeigen.
 eine Gefahrerhöhung unabhängig von seinem Willen ein, hat er die
 Gefahrerhöhung, nachdem er von ihr Kenntnis erlangt hat, dem
 Versicherer unverzüglich anzuzeigen.
-
 
 ##### § 24 Kündigung wegen Gefahrerhöhung
 
@@ -572,7 +544,6 @@ nicht innerhalb eines Monats ab der Kenntnis des Versicherers von der
 Erhöhung der Gefahr ausgeübt wird oder wenn der Zustand
 wiederhergestellt ist, der vor der Gefahrerhöhung bestanden hat.
 
-
 ##### § 25 Prämienerhöhung wegen Gefahrerhöhung
 
 (1) Der Versicherer kann an Stelle einer Kündigung ab dem Zeitpunkt
@@ -587,7 +558,6 @@ Gefahr aus, kann der Versicherungsnehmer den Vertrag innerhalb eines
 Monats nach Zugang der Mitteilung des Versicherers ohne Einhaltung
 einer Frist kündigen. Der Versicherer hat den Versicherungsnehmer in
 der Mitteilung auf dieses Recht hinzuweisen.
-
 
 ##### § 26 Leistungsfreiheit wegen Gefahrerhöhung
 
@@ -620,17 +590,12 @@ Leistung verpflichtet,
     Kündigung des Versicherers abgelaufen und eine Kündigung nicht erfolgt
     war.
 
-
-
-
-
 ##### § 27 Unerhebliche Gefahrerhöhung
 
 Die §§ 23 bis 26 sind nicht anzuwenden, wenn nur eine unerhebliche
 Erhöhung der Gefahr vorliegt oder wenn nach den Umständen als
 vereinbart anzusehen ist, dass die Gefahrerhöhung mitversichert sein
 soll.
-
 
 ##### § 28 Verletzung einer vertraglichen Obliegenheit
 
@@ -669,7 +634,6 @@ Rechtsfolge hingewiesen hat.
 einer vertraglichen Obliegenheit zum Rücktritt berechtigt ist, ist
 unwirksam.
 
-
 ##### § 29 Teilrücktritt, Teilkündigung, teilweise Leistungsfreiheit
 
 (1) Liegen die Voraussetzungen, unter denen der Versicherer nach den
@@ -695,7 +659,6 @@ teilweise leistungsfrei ist, nur bezüglich eines Teils der Gegenstände
 oder Personen vor, auf die sich die Versicherung bezieht, ist auf die
 Leistungsfreiheit Absatz 1 entsprechend anzuwenden.
 
-
 ##### § 30 Anzeige des Versicherungsfalles
 
 (1) Der Versicherungsnehmer hat den Eintritt des Versicherungsfalles,
@@ -710,7 +673,6 @@ verpflichtet ist, kann sich der Versicherer nicht berufen, wenn er auf
 andere Weise vom Eintritt des Versicherungsfalles rechtzeitig Kenntnis
 erlangt hat.
 
-
 ##### § 31 Auskunftspflicht des Versicherungsnehmers
 
 (1) Der Versicherer kann nach dem Eintritt des Versicherungsfalles
@@ -724,7 +686,6 @@ Versicherungsnehmer billigerweise zugemutet werden kann.
 einem Dritten zu, hat auch dieser die Pflichten nach Absatz 1 zu
 erfüllen.
 
-
 ##### § 32 Abweichende Vereinbarungen
 
 Von den §§ 19 bis 28 Abs. 4 und § 31 Abs. 1 Satz 2 kann nicht zum
@@ -732,9 +693,7 @@ Nachteil des Versicherungsnehmers abgewichen werden. Für Anzeigen nach
 diesem Abschnitt, zu denen der Versicherungsnehmer verpflichtet ist,
 kann jedoch die Schrift- oder die Textform vereinbart werden.
 
-
 #### Abschnitt 3 - Prämie
-
 
 ##### § 33 Fälligkeit
 
@@ -745,7 +704,6 @@ Ablauf von 14 Tagen nach Zugang des Versicherungsscheins zu zahlen.
 (2) Ist die Prämie zuletzt vom Versicherer eingezogen worden, ist der
 Versicherungsnehmer zur Übermittlung der Prämie erst verpflichtet,
 wenn er vom Versicherer hierzu in Textform aufgefordert worden ist.
-
 
 ##### § 34 Zahlung durch Dritte
 
@@ -762,14 +720,12 @@ Pfandgläubiger zur Zahlung von Prämien oder zu sonstigen dem
 Versicherer auf Grund des Vertrags zustehenden Zahlungen verwendet
 hat.
 
-
 ##### § 35 Aufrechnung durch den Versicherer
 
 Der Versicherer kann eine fällige Prämienforderung oder eine andere
 ihm aus dem Vertrag zustehende fällige Forderung gegen eine Forderung
 aus der Versicherung auch dann aufrechnen, wenn diese Forderung nicht
 dem Versicherungsnehmer, sondern einem Dritten zusteht.
-
 
 ##### § 36 Leistungsort
 
@@ -781,7 +737,6 @@ Gefahr und seine Kosten die Prämie dem Versicherer zu übermitteln.
 Gewerbebetrieb genommen, tritt, wenn er seine gewerbliche
 Niederlassung an einem anderen Ort hat, der Ort der Niederlassung an
 die Stelle des Wohnsitzes.
-
 
 ##### § 37 Zahlungsverzug bei Erstprämie
 
@@ -798,7 +753,6 @@ leistungsfrei, wenn er den Versicherungsnehmer durch gesonderte
 Mitteilung in Textform oder durch einen auffälligen Hinweis im
 Versicherungsschein auf diese Rechtsfolge der Nichtzahlung der Prämie
 aufmerksam gemacht hat.
-
 
 ##### § 38 Zahlungsverzug bei Folgeprämie
 
@@ -828,7 +782,6 @@ Monats nach der Kündigung oder, wenn sie mit der Fristbestimmung
 verbunden worden ist, innerhalb eines Monats nach Fristablauf die
 Zahlung leistet; Absatz 2 bleibt unberührt.
 
-
 ##### § 39 Vorzeitige Vertragsbeendigung
 
 (1) Im Fall der Beendigung des Versicherungsverhältnisses vor Ablauf
@@ -846,7 +799,6 @@ Versicherungsnehmer den auf die Zeit nach der Beendigung des
 Versicherungsverhältnisses entfallenden Teil der Prämie unter Abzug
 der für diese Zeit aufgewendeten Kosten zurückfordern.
 
-
 ##### § 40 Kündigung bei Prämienerhöhung
 
 (1) Erhöht der Versicherer auf Grund einer Anpassungsklausel die
@@ -863,7 +815,6 @@ Wirksamwerden der Erhöhung der Prämie zugehen.
 Anpassungsklausel den Umfang des Versicherungsschutzes vermindert,
 ohne die Prämie entsprechend herabzusetzen.
 
-
 ##### § 41 Herabsetzung der Prämie
 
 Ist wegen bestimmter gefahrerhöhender Umstände eine höhere Prämie
@@ -875,15 +826,12 @@ herabgesetzt wird. Dies gilt auch, wenn die Bemessung der höheren
 Prämie durch unrichtige, auf einem Irrtum des Versicherungsnehmers
 beruhende Angaben über einen solchen Umstand veranlasst worden ist.
 
-
 ##### § 42 Abweichende Vereinbarungen
 
 Von § 33 Abs. 2 und den §§ 37 bis 41 kann nicht zum Nachteil des
 Versicherungsnehmers abgewichen werden.
 
-
 #### Abschnitt 4 - Versicherung für fremde Rechnung
-
 
 ##### § 43 Begriffsbestimmung
 
@@ -900,7 +848,6 @@ fremde Rechnung handelt.
 für einen anderen geschlossen werden soll, gilt er als für eigene
 Rechnung geschlossen.
 
-
 ##### § 44 Rechte des Versicherten
 
 (1) Bei der Versicherung für fremde Rechnung stehen die Rechte aus dem
@@ -911,7 +858,6 @@ verlangen.
 (2) Der Versicherte kann ohne Zustimmung des Versicherungsnehmers nur
 dann über seine Rechte verfügen und diese Rechte gerichtlich geltend
 machen, wenn er im Besitz des Versicherungsscheins ist.
-
 
 ##### § 45 Rechte des Versicherungsnehmers
 
@@ -928,7 +874,6 @@ ist.
 verpflichtet, wenn der Versicherte seine Zustimmung zu der
 Versicherung erteilt hat.
 
-
 ##### § 46 Rechte zwischen Versicherungsnehmer und Versichertem
 
 Der Versicherungsnehmer ist nicht verpflichtet, dem Versicherten oder,
@@ -939,7 +884,6 @@ Sache befriedigt ist. Er kann sich für diese Ansprüche aus der
 Entschädigungsforderung gegen den Versicherer und nach deren
 Einziehung aus der Entschädigungssumme vor dem Versicherten und dessen
 Gläubigern befriedigen.
-
 
 ##### § 47 Kenntnis und Verhalten des Versicherten
 
@@ -958,7 +902,6 @@ ohne Auftrag des Versicherten geschlossen und bei Vertragsschluss dem
 Versicherer nicht angezeigt hat, dass er den Vertrag ohne Auftrag des
 Versicherten schließt.
 
-
 ##### § 48 Versicherung für Rechnung „wen es angeht“
 
 Ist die Versicherung für Rechnung „wen es angeht“ genommen oder ist
@@ -967,9 +910,7 @@ soll, ob eigenes oder fremdes Interesse versichert ist, sind die §§ 43
 bis 47 anzuwenden, wenn sich aus den Umständen ergibt, dass fremdes
 Interesse versichert ist.
 
-
 #### Abschnitt 5 - Vorläufige Deckung
-
 
 ##### § 49 Inhalt des Vertrags
 
@@ -993,7 +934,6 @@ Vertrag gelten sollen, werden die zum Zeitpunkt des Vertragsschlusses
 vom Versicherer verwendeten Bedingungen, die für den
 Versicherungsnehmer am günstigsten sind, Vertragsbestandteil.
 
-
 ##### § 50 Nichtzustandekommen des Hauptvertrags
 
 Ist der Versicherungsnehmer verpflichtet, im Fall des
@@ -1001,7 +941,6 @@ Nichtzustandekommens des Hauptvertrags eine Prämie für die vorläufige
 Deckung zu zahlen, steht dem Versicherer ein Anspruch auf einen der
 Laufzeit der vorläufigen Deckung entsprechenden Teil der Prämie zu,
 die beim Zustandekommen des Hauptvertrags für diesen zu zahlen wäre.
-
 
 ##### § 51 Prämienzahlung
 
@@ -1013,7 +952,6 @@ Voraussetzung aufmerksam gemacht hat.
 
 (2) Von Absatz 1 kann nicht zum Nachteil des Versicherungsnehmers
 abgewichen werden.
-
 
 ##### § 52 Beendigung des Vertrags
 
@@ -1051,9 +989,7 @@ Wochen nach Zugang wirksam.
 (5) Von den Absätzen 1 bis 4 kann nicht zum Nachteil des
 Versicherungsnehmers abgewichen werden.
 
-
 #### Abschnitt 6 - Laufende Versicherung
-
 
 ##### § 53 Anmeldepflicht
 
@@ -1065,7 +1001,6 @@ entweder die versicherten Risiken einzeln oder, wenn der Versicherer
 darauf verzichtet hat, die vereinbarte Prämiengrundlage unverzüglich
 anzumelden oder, wenn dies vereinbart ist, jeweils Deckungszusage zu
 beantragen.
-
 
 ##### § 54 Verletzung der Anmeldepflicht
 
@@ -1088,7 +1023,6 @@ Der Versicherer kann ferner die Prämie verlangen, die bis zum
 Wirksamwerden der Kündigung zu zahlen gewesen wäre, wenn der
 Versicherungsnehmer die Anmeldepflicht erfüllt hätte.
 
-
 ##### § 55 Einzelpolice
 
 (1) Ist bei einer laufenden Versicherung ein Versicherungsschein für
@@ -1110,7 +1044,6 @@ dieser nicht unverzüglich nach der Übermittlung widerspricht. Das
 Recht des Versicherungsnehmers, die Genehmigung wegen Irrtums
 anzufechten, bleibt unberührt.
 
-
 ##### § 56 Verletzung der Anzeigepflicht
 
 (1) Abweichend von § 19 Abs. 2 ist bei Verletzung der Anzeigepflicht
@@ -1127,7 +1060,6 @@ Versicherungsnehmer den Vertrag kündigen. Das Kündigungsrecht
 erlischt, wenn es nicht innerhalb eines Monats von dem Zeitpunkt an
 ausgeübt wird, zu welchem dem Versicherungsnehmer die Entscheidung des
 Versicherers, die Leistung zu verweigern, zugeht.
-
 
 ##### § 57 Gefahränderung
 
@@ -1156,7 +1088,6 @@ Versicherer hätte zugehen müssen. Er ist zur Leistung verpflichtet,
 (3) Der Versicherer ist abweichend von § 24 nicht berechtigt, den
 Vertrag wegen einer Gefahrerhöhung zu kündigen.
 
-
 ##### § 58 Obliegenheitsverletzung
 
 (1) Verletzt der Versicherungsnehmer bei einer laufenden Versicherung
@@ -1170,12 +1101,9 @@ Versicherer den Vertrag innerhalb eines Monats, nachdem er Kenntnis
 von der Verletzung erlangt hat, mit einer Frist von einem Monat
 kündigen.
 
-
 #### Abschnitt 7 - Versicherungsvermittler, Versicherungsberater
 
-
 ##### Unterabschnitt 1 - Mitteilungs- und Beratungspflichten
-
 
 ###### § 59 Begriffsbestimmungen
 
@@ -1202,7 +1130,6 @@ Versicherer außergerichtlich vertritt, ohne von einem Versicherer
 einen wirtschaftlichen Vorteil zu erhalten oder in anderer Weise von
 ihm abhängig zu sein.
 
-
 ###### § 60 Beratungsgrundlage des Versicherungsvermittlers
 
 (1) Der Versicherungsmakler ist verpflichtet, seinem Rat eine
@@ -1227,7 +1154,6 @@ ausschließlich tätig ist.
 (3) Der Versicherungsnehmer kann auf die Mitteilungen und Angaben nach
 Absatz 2 durch eine gesonderte schriftliche Erklärung verzichten.
 
-
 ###### § 61 Beratungs- und Dokumentationspflichten des Versicherungsvermittlers
 
 (1) Der Versicherungsvermittler hat den Versicherungsnehmer, soweit
@@ -1249,7 +1175,6 @@ nachteilig auf die Möglichkeit des Versicherungsnehmers auswirken
 kann, gegen den Versicherungsvermittler einen Schadensersatzanspruch
 nach § 63 geltend zu machen.
 
-
 ###### § 62 Zeitpunkt und Form der Information
 
 (1) Dem Versicherungsnehmer sind die Informationen nach § 60 Abs. 2
@@ -1265,14 +1190,12 @@ Versicherungsschein dem Versicherungsnehmer in Textform zu
 übermitteln; dies gilt nicht für Verträge über vorläufige Deckung bei
 Pflichtversicherungen.
 
-
 ###### § 63 Schadensersatzpflicht
 
 Der Versicherungsvermittler ist zum Ersatz des Schadens verpflichtet,
 der dem Versicherungsnehmer durch die Verletzung einer Pflicht nach §
 60 oder § 61 entsteht. Dies gilt nicht, wenn der
 Versicherungsvermittler die Pflichtverletzung nicht zu vertreten hat.
-
 
 ###### § 64 Zahlungssicherung zugunsten des Versicherungsnehmers
 
@@ -1282,12 +1205,10 @@ dieser auf Grund eines Versicherungsvertrags an den
 Versicherungsnehmer zu erbringen hat, bedarf einer gesonderten
 schriftlichen Erklärung des Versicherungsnehmers.
 
-
 ###### § 65 Großrisiken
 
 Die §§ 60 bis 63 gelten nicht für die Vermittlung von
 Versicherungsverträgen über Großrisiken im Sinn des § 210 Absatz 2.
-
 
 ###### § 66 Sonstige Ausnahmen
 
@@ -1295,12 +1216,10 @@ Die §§ 60 bis 64, 69 Abs. 2 und § 214 gelten nicht für
 Versicherungsvermittler im Sinn von § 34d Abs. 9 Nr. 1 der
 Gewerbeordnung.
 
-
 ###### § 67 Abweichende Vereinbarungen
 
 Von den §§ 60 bis 66 kann nicht zum Nachteil des Versicherungsnehmers
 abgewichen werden.
-
 
 ###### § 68 Versicherungsberater
 
@@ -1310,9 +1229,7 @@ Versicherungsberater entsprechend anzuwenden. Weitergehende Pflichten
 des Versicherungsberaters aus dem Auftragsverhältnis bleiben
 unberührt.
 
-
 ##### Unterabschnitt 2 - Vertretungsmacht
-
 
 ###### § 69 Gesetzliche Vollmacht
 
@@ -1350,7 +1267,6 @@ Absatz 1 Nr. 1 und 2. Die Beweislast für die Verletzung der
 Anzeigepflicht oder einer Obliegenheit durch den Versicherungsnehmer
 trägt der Versicherer.
 
-
 ###### § 70 Kenntnis des Versicherungsvertreters
 
 Soweit nach diesem Gesetz die Kenntnis des Versicherers erheblich ist,
@@ -1360,7 +1276,6 @@ Versicherungsvertreters, die er außerhalb seiner Tätigkeit als
 Vertreter und ohne Zusammenhang mit dem betreffenden
 Versicherungsvertrag erlangt hat.
 
-
 ###### § 71 Abschlussvollmacht
 
 Ist der Versicherungsvertreter zum Abschluss von
@@ -1368,13 +1283,11 @@ Versicherungsverträgen bevollmächtigt, ist er auch befugt, die
 Änderung oder Verlängerung solcher Verträge zu vereinbaren sowie
 Kündigungs- und Rücktrittserklärungen abzugeben.
 
-
 ###### § 72 Beschränkung der Vertretungsmacht
 
 Eine Beschränkung der dem Versicherungsvertreter nach den §§ 69 und 71
 zustehenden Vertretungsmacht durch Allgemeine Versicherungsbedingungen
 ist gegenüber dem Versicherungsnehmer und Dritten unwirksam.
-
 
 ###### § 73 Angestellte und nicht gewerbsmäßig tätige Vermittler
 
@@ -1384,12 +1297,9 @@ sind, und auf Personen, die als Vertreter selbständig
 Versicherungsverträge vermitteln oder abschließen, ohne gewerbsmäßig
 tätig zu sein, entsprechend anzuwenden.
 
-
 ### Kapitel 2 - Schadensversicherung
 
-
 #### Abschnitt 1 - Allgemeine Vorschriften
-
 
 ##### § 74 Überversicherung
 
@@ -1405,14 +1315,12 @@ verschaffen, ist der Vertrag nichtig; dem Versicherer steht die Prämie
 bis zu dem Zeitpunkt zu, zu dem er von den die Nichtigkeit
 begründenden Umständen Kenntnis erlangt.
 
-
 ##### § 75 Unterversicherung
 
 Ist die Versicherungssumme erheblich niedriger als der
 Versicherungswert zur Zeit des Eintrittes des Versicherungsfalles, ist
 der Versicherer nur verpflichtet, die Leistung nach dem Verhältnis der
 Versicherungssumme zu diesem Wert zu erbringen.
-
 
 ##### § 76 Taxe
 
@@ -1425,7 +1333,6 @@ Taxe, hat der Versicherer, auch wenn die Taxe erheblich übersetzt ist,
 den Schaden nur nach dem Verhältnis der Versicherungssumme zur Taxe zu
 ersetzen.
 
-
 ##### § 77 Mehrere Versicherer
 
 (1) Wer bei mehreren Versicherern ein Interesse gegen dieselbe Gefahr
@@ -1436,7 +1343,6 @@ andere Versicherer und die Versicherungssumme anzugeben.
 (2) Wird bezüglich desselben Interesses bei einem Versicherer der
 entgehende Gewinn, bei einem anderen Versicherer der sonstige Schaden
 versichert, ist Absatz 1 entsprechend anzuwenden.
-
 
 ##### § 78 Haftung bei Mehrfachversicherung
 
@@ -1465,7 +1371,6 @@ nichtig; dem Versicherer steht die Prämie bis zu dem Zeitpunkt zu, zu
 dem er von den die Nichtigkeit begründenden Umständen Kenntnis
 erlangt.
 
-
 ##### § 79 Beseitigung der Mehrfachversicherung
 
 (1) Hat der Versicherungsnehmer den Vertrag, durch den die
@@ -1483,7 +1388,6 @@ diesem Fall die mehreren Versicherungsverträge gleichzeitig oder im
 Einvernehmen der Versicherer geschlossen worden, kann der
 Versicherungsnehmer nur die verhältnismäßige Herabsetzung der
 Versicherungssummen und der Prämien verlangen.
-
 
 ##### § 80 Fehlendes versichertes Interesse
 
@@ -1506,7 +1410,6 @@ zu verschaffen, ist der Vertrag nichtig; dem Versicherer steht die
 Prämie bis zu dem Zeitpunkt zu, zu dem er von den die Nichtigkeit
 begründenden Umständen Kenntnis erlangt.
 
-
 ##### § 81 Herbeiführung des Versicherungsfalles
 
 (1) Der Versicherer ist nicht zur Leistung verpflichtet, wenn der
@@ -1516,7 +1419,6 @@ Versicherungsnehmer vorsätzlich den Versicherungsfall herbeiführt.
 fahrlässig herbei, ist der Versicherer berechtigt, seine Leistung in
 einem der Schwere des Verschuldens des Versicherungsnehmers
 entsprechenden Verhältnis zu kürzen.
-
 
 ##### § 82 Abwendung und Minderung des Schadens
 
@@ -1545,7 +1447,6 @@ Feststellung des Versicherungsfalles noch für die Feststellung oder
 den Umfang der Leistungspflicht ursächlich ist. Satz 1 gilt nicht,
 wenn der Versicherungsnehmer die Obliegenheit arglistig verletzt hat.
 
-
 ##### § 83 Aufwendungsersatz
 
 (1) Der Versicherer hat Aufwendungen des Versicherungsnehmers nach §
@@ -1568,7 +1469,6 @@ Pflege sowie die Kosten der tierärztlichen Untersuchung und Behandlung
 nicht zu den vom Versicherer nach den Absätzen 1 bis 3 zu erstattenden
 Aufwendungen.
 
-
 ##### § 84 Sachverständigenverfahren
 
 (1) Sollen nach dem Vertrag einzelne Voraussetzungen des Anspruchs aus
@@ -1587,7 +1487,6 @@ Amtsgerichts begründet werden. Die Verfügung, durch die dem Antrag auf
 Ernennung der Sachverständigen stattgegeben wird, ist nicht
 anfechtbar.
 
-
 ##### § 85 Schadensermittlungskosten
 
 (1) Der Versicherer hat dem Versicherungsnehmer die Kosten, die durch
@@ -1605,7 +1504,6 @@ worden.
 
 (3) Ist der Versicherer berechtigt, seine Leistung zu kürzen, kann er
 auch den Kostenersatz entsprechend kürzen.
-
 
 ##### § 86 Übergang von Ersatzansprüchen
 
@@ -1633,15 +1531,12 @@ Gemeinschaft lebt, kann der Übergang nach Absatz 1 nicht geltend
 gemacht werden, es sei denn, diese Person hat den Schaden vorsätzlich
 verursacht.
 
-
 ##### § 87 Abweichende Vereinbarungen
 
 Von den §§ 74, 78 Abs. 3, den §§ 80, 82 bis 84 Abs. 1 Satz 1 und § 86
 kann nicht zum Nachteil des Versicherungsnehmers abgewichen werden.
 
-
 #### Abschnitt 2 - Sachversicherung
-
 
 ##### § 88 Versicherungswert
 
@@ -1652,7 +1547,6 @@ Eintrittes des Versicherungsfalles für die Wiederbeschaffung oder
 Wiederherstellung der versicherten Sache in neuwertigem Zustand unter
 Abzug des sich aus dem Unterschied zwischen alt und neu ergebenden
 Minderwertes aufzuwenden hat.
-
 
 ##### § 89 Versicherung für Inbegriff von Sachen
 
@@ -1667,14 +1561,12 @@ Dienstverhältnis zum Versicherungsnehmer stehen und ihre Tätigkeit an
 dem Ort ausüben, für den die Versicherung gilt. Die Versicherung gilt
 insoweit als für fremde Rechnung genommen.
 
-
 ##### § 90 Erweiterter Aufwendungsersatz
 
 Macht der Versicherungsnehmer Aufwendungen, um einen unmittelbar
 bevorstehenden Versicherungsfall abzuwenden oder in seinen
 Auswirkungen zu mindern, ist § 83 Abs. 1 Satz 1, Abs. 2 und 3
 entsprechend anzuwenden.
-
 
 ##### § 91 Verzinsung der Entschädigung
 
@@ -1684,7 +1576,6 @@ Prozent zu verzinsen, soweit nicht aus einem anderen Rechtsgrund
 höhere Zinsen verlangt werden können. Der Lauf der Frist ist gehemmt,
 solange der Schaden infolge eines Verschuldens des
 Versicherungsnehmers nicht festgestellt werden kann.
-
 
 ##### § 92 Kündigung nach Versicherungsfall
 
@@ -1704,7 +1595,6 @@ Zeitpunkt als den Schluss dieser Versicherungsperiode, steht dem
 Versicherer gleichwohl die Prämie für die laufende
 Versicherungsperiode zu.
 
-
 ##### § 93 Wiederherstellungsklausel
 
 Ist der Versicherer nach dem Vertrag verpflichtet, einen Teil der
@@ -1717,7 +1607,6 @@ geleisteten Entschädigung abzüglich des Versicherungswertes der Sache
 verpflichtet, wenn die Sache infolge eines Verschuldens des
 Versicherungsnehmers nicht innerhalb einer angemessenen Frist
 wiederhergestellt oder wiederbeschafft worden ist.
-
 
 ##### § 94 Wirksamkeit der Zahlung gegenüber Hypothekengläubigern
 
@@ -1752,7 +1641,6 @@ Zahlung zugestimmt hat.
 Grundstück mit einer Grundschuld, Rentenschuld oder Reallast belastet
 ist.
 
-
 ##### § 95 Veräußerung der versicherten Sache
 
 (1) Wird die versicherte Sache vom Versicherungsnehmer veräußert,
@@ -1766,7 +1654,6 @@ entfällt, als Gesamtschuldner.
 
 (3) Der Versicherer muss den Eintritt des Erwerbers erst gegen sich
 gelten lassen, wenn er hiervon Kenntnis erlangt hat.
-
 
 ##### § 96 Kündigung nach Veräußerung
 
@@ -1787,7 +1674,6 @@ Monats ab Erlangung der Kenntnis, ausgeübt wird.
 oder Absatz 2 ist der Veräußerer zur Zahlung der Prämie verpflichtet;
 eine Haftung des Erwerbers für die Prämie besteht nicht.
 
-
 ##### § 97 Anzeige der Veräußerung
 
 (1) Die Veräußerung ist dem Versicherer vom Veräußerer oder Erwerber
@@ -1804,7 +1690,6 @@ zu dem ihm die Anzeige hätte zugehen müssen, oder wenn zur Zeit des
 Eintrittes des Versicherungsfalles die Frist für die Kündigung des
 Versicherers abgelaufen war und er nicht gekündigt hat.
 
-
 ##### § 98 Schutz des Erwerbers
 
 Der Versicherer kann sich auf eine Bestimmung des
@@ -1812,7 +1697,6 @@ Versicherungsvertrags, durch die von den §§ 95 bis 97 zum Nachteil des
 Erwerbers abgewichen wird, nicht berufen. Jedoch kann für die
 Kündigung des Erwerbers nach § 96 Abs. 2 und die Anzeige der
 Veräußerung die Schriftform oder die Textform bestimmt werden.
-
 
 ##### § 99 Zwangsversteigerung, Erwerb des Nutzungsrechts
 
@@ -1822,15 +1706,11 @@ Nießbrauchs, eines Pachtvertrags oder eines ähnlichen Verhältnisses
 die Berechtigung, versicherte Bodenerzeugnisse zu beziehen, sind die
 §§ 95 bis 98 entsprechend anzuwenden.
 
-
 ## Teil 2 - Einzelne Versicherungszweige
-
 
 ### Kapitel 1 - Haftpflichtversicherung
 
-
 #### Abschnitt 1 - Allgemeine Vorschriften
-
 
 ##### § 100 Leistung des Versicherers
 
@@ -1839,7 +1719,6 @@ Versicherungsnehmer von Ansprüchen freizustellen, die von einem
 Dritten auf Grund der Verantwortlichkeit des Versicherungsnehmers für
 eine während der Versicherungszeit eintretende Tatsache geltend
 gemacht werden, und unbegründete Ansprüche abzuwehren.
-
 
 ##### § 101 Kosten des Rechtsschutzes
 
@@ -1872,7 +1751,6 @@ Mehrbetrag hinzu. Der Versicherer ist von der Verpflichtung nach Satz
 1 frei, wenn er den Anspruch des Dritten dem Versicherungsnehmer
 gegenüber als begründet anerkennt.
 
-
 ##### § 102 Betriebshaftpflichtversicherung
 
 (1) Besteht die Versicherung für ein Unternehmen, erstreckt sie sich
@@ -1889,13 +1767,11 @@ sich aus dem Versicherungsverhältnis ergebenden Rechte und Pflichten
 ein. § 95 Abs. 2 und 3 sowie die §§ 96 und 97 sind entsprechend
 anzuwenden.
 
-
 ##### § 103 Herbeiführung des Versicherungsfalles
 
 Der Versicherer ist nicht zur Leistung verpflichtet, wenn der
 Versicherungsnehmer vorsätzlich und widerrechtlich den bei dem Dritten
 eingetretenen Schaden herbeigeführt hat.
-
 
 ##### § 104 Anzeigepflicht des Versicherungsnehmers
 
@@ -1917,13 +1793,11 @@ Schadensereignisses ein Ermittlungsverfahren eingeleitet wird.
 rechtzeitige Absendung der Anzeige. § 30 Abs. 2 ist entsprechend
 anzuwenden.
 
-
 ##### § 105 Anerkenntnis des Versicherungsnehmers
 
 Eine Vereinbarung, nach welcher der Versicherer nicht zur Leistung
 verpflichtet ist, wenn ohne seine Einwilligung der Versicherungsnehmer
 den Dritten befriedigt oder dessen Anspruch anerkennt, ist unwirksam.
-
 
 ##### § 106 Fälligkeit der Versicherungsleistung
 
@@ -1938,7 +1812,6 @@ Befriedigung des Dritten an den Versicherungsnehmer zu zahlen. Kosten,
 die nach § 101 zu ersetzen sind, hat der Versicherer innerhalb von
 zwei Wochen nach der Mitteilung der Berechnung zu zahlen.
 
-
 ##### § 107 Rentenanspruch
 
 (1) Ist der Versicherungsnehmer dem Dritten zur Zahlung einer Rente
@@ -1951,7 +1824,6 @@ Dritten kraft Gesetzes Sicherheit zu leisten, erstreckt sich die
 Verpflichtung des Versicherers auf die Leistung der Sicherheit. Absatz
 1 gilt entsprechend.
 
-
 ##### § 108 Verfügung über den Freistellungsanspruch
 
 (1) Verfügungen des Versicherungsnehmers über den
@@ -1961,7 +1833,6 @@ Wege der Zwangsvollstreckung oder Arrestvollziehung gleich.
 
 (2) Die Abtretung des Freistellungsanspruchs an den Dritten kann nicht
 durch Allgemeine Versicherungsbedingungen ausgeschlossen werden.
-
 
 ##### § 109 Mehrere Geschädigte
 
@@ -1973,14 +1844,12 @@ bei der Verteilung nicht berücksichtigter Dritter nachträglich auf §
 108 Abs. 1 nicht berufen, wenn der Versicherer mit der Geltendmachung
 dieser Ansprüche nicht gerechnet hat und auch nicht rechnen musste.
 
-
 ##### § 110 Insolvenz des Versicherungsnehmers
 
 Ist über das Vermögen des Versicherungsnehmers das Insolvenzverfahren
 eröffnet, kann der Dritte wegen des ihm gegen den Versicherungsnehmer
 zustehenden Anspruchs abgesonderte Befriedigung aus dem
 Freistellungsanspruch des Versicherungsnehmers verlangen.
-
 
 ##### § 111 Kündigung nach Versicherungsfall
 
@@ -1996,15 +1865,12 @@ oder Ablehnung des Freistellungsanspruchs oder seit der Rechtskraft
 des im Rechtsstreit mit dem Dritten ergangenen Urteils zulässig. § 92
 Abs. 2 Satz 2 und 3 ist anzuwenden.
 
-
 ##### § 112 Abweichende Vereinbarungen
 
 Von den §§ 104 und 106 kann nicht zum Nachteil des
 Versicherungsnehmers abgewichen werden.
 
-
 #### Abschnitt 2 - Pflichtversicherung
-
 
 ##### § 113 Pflichtversicherung
 
@@ -2021,7 +1887,6 @@ Rechtsvorschrift entsprechende Pflichtversicherung besteht.
 als der Versicherungsvertrag eine über die vorgeschriebenen
 Mindestanforderungen hinausgehende Deckung gewährt.
 
-
 ##### § 114 Umfang des Versicherungsschutzes
 
 (1) Die Mindestversicherungssumme beträgt bei einer
@@ -2036,7 +1901,6 @@ durch Rechtsvorschrift nicht ausdrücklich etwas anderes bestimmt ist.
 Ein Selbstbehalt des Versicherungsnehmers kann dem Dritten nicht
 entgegengehalten und gegenüber einer mitversicherten Person nicht
 geltend gemacht werden.
-
 
 ##### § 115 Direktanspruch
 
@@ -2076,7 +1940,6 @@ der Neubeginn der Verjährung des Anspruchs gegen den Versicherer
 wirken auch gegenüber dem ersatzpflichtigen Versicherungsnehmer und
 umgekehrt.
 
-
 ##### § 116 Gesamtschuldner
 
 (1) Im Verhältnis der Gesamtschuldner nach § 115 Abs. 1 Satz 4
@@ -2090,7 +1953,6 @@ die er den Umständen nach für erforderlich halten durfte.
 (2) Die Verjährung der sich aus Absatz 1 ergebenden Ansprüche beginnt
 mit dem Schluss des Jahres, in dem der Anspruch des Dritten erfüllt
 wird.
-
 
 ##### § 117 Leistungspflicht gegenüber Dritten
 
@@ -2142,7 +2004,6 @@ bestimmt, endet das Versicherungsverhältnis einen Monat nach der
 Benachrichtigung des Versicherungsnehmers von der Eröffnung des
 Insolvenzverfahrens; die Benachrichtigung bedarf der Textform.
 
-
 ##### § 118 Rangfolge mehrerer Ansprüche
 
 (1) Übersteigen die Ansprüche auf Entschädigung, die auf Grund
@@ -2182,7 +2043,6 @@ worden ist, nachträglich auf Absatz 1 nicht berufen, wenn der
 Versicherer mit der Geltendmachung dieses Anspruchs nicht gerechnet
 hat und auch nicht rechnen musste.
 
-
 ##### § 119 Obliegenheiten des Dritten
 
 (1) Der Dritte hat ein Schadensereignis, aus dem er einen Anspruch
@@ -2200,7 +2060,6 @@ sie zur Feststellung des Schadensereignisses und der Höhe des Schadens
 erforderlich ist. Belege kann der Versicherer insoweit verlangen, als
 deren Beschaffung dem Dritten billigerweise zugemutet werden kann.
 
-
 ##### § 120 Obliegenheitsverletzung des Dritten
 
 Verletzt der Dritte schuldhaft die Obliegenheit nach § 119 Abs. 2 oder
@@ -2210,17 +2069,14 @@ Obliegenheit zu leisten gehabt hätte, sofern der Dritte vorher
 ausdrücklich und in Textform auf die Folgen der Verletzung hingewiesen
 worden ist.
 
-
 ##### § 121 Aufrechnung gegenüber Dritten
 
 § 35 ist gegenüber Dritten nicht anzuwenden.
-
 
 ##### § 122 Veräußerung der von der Versicherung erfassten Sache
 
 Die §§ 95 bis 98 über die Veräußerung der versicherten Sache sind
 entsprechend anzuwenden.
-
 
 ##### § 123 Rückgriff bei mehreren Versicherten
 
@@ -2245,7 +2101,6 @@ nach § 117 Abs. 2 Satz 1 und 2 noch nicht abgelaufen ist oder der
 Versicherer die Beendigung des Versicherungsverhältnisses der hierfür
 zuständigen Stelle nicht angezeigt hat.
 
-
 ##### § 124 Rechtskrafterstreckung
 
 (1) Soweit durch rechtskräftiges Urteil festgestellt wird, dass dem
@@ -2267,9 +2122,7 @@ Feststellung des Schadens schuldhaft verletzt.
 seinen Anspruch auf Schadensersatz nicht nach § 115 Abs. 1 gegen den
 Versicherer geltend machen kann.
 
-
 ### Kapitel 2 - Rechtsschutzversicherung
-
 
 #### § 125 Leistung des Versicherers
 
@@ -2277,7 +2130,6 @@ Bei der Rechtsschutzversicherung ist der Versicherer verpflichtet, die
 für die Wahrnehmung der rechtlichen Interessen des
 Versicherungsnehmers oder des Versicherten erforderlichen Leistungen
 im vereinbarten Umfang zu erbringen.
-
 
 #### § 126 Schadensabwicklungsunternehmen
 
@@ -2296,7 +2148,6 @@ ist, nur gegen dieses geltend gemacht werden. Der Titel wirkt für und
 gegen den Rechtsschutzversicherer. § 727 der Zivilprozessordnung ist
 entsprechend anzuwenden.
 
-
 #### § 127 Freie Anwaltswahl
 
 (1) Der Versicherungsnehmer ist berechtigt, zu seiner Vertretung in
@@ -2314,7 +2165,6 @@ das zuletzt durch Artikel 1 des Gesetzes vom 26. Oktober 2003 (BGBl. I
 S. 2074) geändert worden ist, in der jeweils geltenden Fassung
 genannten Bezeichnungen beruflich tätig zu werden.
 
-
 #### § 128 Gutachterverfahren
 
 Für den Fall, dass der Versicherer seine Leistungspflicht verneint,
@@ -2330,15 +2180,12 @@ Versicherungsvertrag kein derartiges Verfahren vor oder unterlässt der
 Versicherer den Hinweis, gilt das Rechtsschutzbedürfnis des
 Versicherungsnehmers im Einzelfall als anerkannt.
 
-
 #### § 129 Abweichende Vereinbarungen
 
 Von den §§ 126 bis 128 kann nicht zum Nachteil des
 Versicherungsnehmers abgewichen werden.
 
-
 ### Kapitel 3 - Transportversicherung
-
 
 #### § 130 Umfang der Gefahrtragung
 
@@ -2359,7 +2206,6 @@ einem Dritten zugefügten Schaden zu ersetzen hat.
 die Beiträge zur großen Haverei, soweit durch die Haverei-Maßnahme ein
 vom Versicherer zu ersetzender Schaden abgewendet werden sollte.
 
-
 #### § 131 Verletzung der Anzeigepflicht
 
 (1) Abweichend von § 19 Abs. 2 ist bei Verletzung der Anzeigepflicht
@@ -2376,7 +2222,6 @@ Versicherungsnehmer den Vertrag kündigen. Das Kündigungsrecht
 erlischt, wenn es nicht innerhalb eines Monats von dem Zeitpunkt an
 ausgeübt wird, zu welchem dem Versicherungsnehmer die Entscheidung des
 Versicherers, die Leistung zu verweigern, zugeht.
-
 
 #### § 132 Gefahränderung
 
@@ -2407,7 +2252,6 @@ Versicherer hätte zugehen müssen. Er ist zur Leistung verpflichtet,
 (3) Der Versicherer ist abweichend von § 24 nicht berechtigt, den
 Vertrag wegen einer Gefahrerhöhung zu kündigen.
 
-
 #### § 133 Vertragswidrige Beförderung
 
 (1) Werden die Güter mit einem Beförderungsmittel anderer Art
@@ -2425,7 +2269,6 @@ geändert oder aufgegeben wird. § 132 ist anzuwenden.
 der Umladung oder der einstweiligen Lagerung sowie die Mehrkosten der
 Weiterbeförderung.
 
-
 #### § 134 Ungeeignete Beförderungsmittel
 
 (1) Ist für die Beförderung der Güter kein bestimmtes
@@ -2442,7 +2285,6 @@ Eintritt des Versicherungsfalles oder den Umfang der Leistungspflicht.
 (3) Erlangt der Versicherungsnehmer Kenntnis von der mangelnden
 Eignung des Beförderungsmittels, hat er diesen Umstand dem Versicherer
 unverzüglich anzuzeigen. § 132 ist anzuwenden.
-
 
 #### § 135 Aufwendungsersatz
 
@@ -2462,7 +2304,6 @@ durch einen späteren Versicherungsfall verursacht wird, ohne Rücksicht
 auf die von ihm zu erstattenden früheren Aufwendungen und Beiträge zu
 ersetzen.
 
-
 #### § 136 Versicherungswert
 
 (1) Als Versicherungswert der Güter gilt der gemeine Handelswert und
@@ -2481,7 +2322,6 @@ Der dem Verhältnis der Wertminderung zu ihrem Wert in unbeschädigtem
 Zustand entsprechende Bruchteil des Versicherungswertes gilt als
 Betrag des Schadens.
 
-
 #### § 137 Herbeiführung des Versicherungsfalles
 
 (1) Der Versicherer ist nicht zur Leistung verpflichtet, wenn der
@@ -2491,7 +2331,6 @@ Versicherungsfall herbeiführt.
 (2) Der Versicherungsnehmer hat das Verhalten der Schiffsbesatzung bei
 der Führung des Schiffes nicht zu vertreten.
 
-
 #### § 138 Haftungsausschluss bei Schiffen
 
 Bei der Versicherung eines Schiffes ist der Versicherer nicht zum
@@ -2500,7 +2339,6 @@ Schiff in einem nicht fahrtüchtigen Zustand oder nicht ausreichend
 ausgerüstet oder personell ausgestattet die Reise antritt. Dies gilt
 auch für einen Schaden, der nur eine Folge der Abnutzung des Schiffes
 in gewöhnlichem Gebrauch ist.
-
 
 #### § 139 Veräußerung der versicherten Sache oder Güter
 
@@ -2520,14 +2358,12 @@ kündigen.
 (3) Der Versicherungsnehmer ist abweichend von § 97 nicht
 verpflichtet, dem Versicherer die Veräußerung anzuzeigen.
 
-
 #### § 140 Veräußerung des versicherten Schiffes
 
 Wird ein versichertes Schiff veräußert, endet abweichend von § 95 die
 Versicherung mit der Übergabe des Schiffes an den Erwerber, für
 unterwegs befindliche Schiffe mit der Übergabe an den Erwerber im
 Bestimmungshafen.
-
 
 #### § 141 Befreiung durch Zahlung der Versicherungssumme
 
@@ -2546,9 +2382,7 @@ Versicherungsnehmer nicht innerhalb einer Woche nach dem Zeitpunkt, zu
 dem der Versicherer Kenntnis von dem Versicherungsfall und seinen
 unmittelbaren Folgen erlangt hat, zugeht.
 
-
 ### Kapitel 4 - Gebäudefeuerversicherung
-
 
 #### § 142 Anzeigen an Hypothekengläubiger
 
@@ -2564,7 +2398,6 @@ Zahlung der Folgeprämie gekündigt wird.
 einer Woche, nachdem er von ihm Kenntnis erlangt hat, einem
 Hypothekengläubiger, der seine Hypothek angemeldet hat, in Textform
 anzuzeigen, es sei denn, der Schaden ist unbedeutend.
-
 
 #### § 143 Fortdauer der Leistungspflicht gegenüber Hypothekengläubigern
 
@@ -2599,7 +2432,6 @@ nach Ablauf von zwei Monaten, nachdem ihm die Nichtigkeit durch den
 Versicherer mitgeteilt worden ist oder er auf andere Weise von der
 Nichtigkeit Kenntnis erlangt hat.
 
-
 #### § 144 Kündigung des Versicherungsnehmers
 
 Hat ein Hypothekengläubiger seine Hypothek angemeldet, ist eine
@@ -2612,7 +2444,6 @@ Hypothek belastet war oder dass der Hypothekengläubiger der Kündigung
 zugestimmt hat. Die Zustimmung darf nicht ohne ausreichenden Grund
 verweigert werden.
 
-
 #### § 145 Übergang der Hypothek
 
 Soweit der Versicherer den Hypothekengläubiger nach § 143 befriedigt,
@@ -2621,14 +2452,12 @@ eines gleich- oder nachstehenden Hypothekengläubigers geltend gemacht
 werden, dem gegenüber die Leistungspflicht des Versicherers bestehen
 geblieben ist.
 
-
 #### § 146 Bestätigungs- und Auskunftspflicht des Versicherers
 
 Der Versicherer ist verpflichtet, einem Hypothekengläubiger, der seine
 Hypothek angemeldet hat, die Anmeldung zu bestätigen und auf Verlangen
 Auskunft über das Bestehen von Versicherungsschutz sowie über die Höhe
 der Versicherungssumme zu erteilen.
-
 
 #### § 147 Änderung von Anschrift und Name des Hypothekengläubigers
 
@@ -2637,12 +2466,10 @@ Anschrift oder seines Namens nicht mitgeteilt, ist § 13 Abs. 1 auf die
 Anzeigen und Mitteilungen des Versicherers nach den §§ 142 und 143
 entsprechend anzuwenden.
 
-
 #### § 148 Andere Grundpfandrechte
 
 Ist das Grundstück mit einer Grundschuld, Rentenschuld oder Reallast
 belastet, sind die §§ 142 bis 147 entsprechend anzuwenden.
-
 
 #### § 149 Eigentümergrundpfandrechte
 
@@ -2650,9 +2477,7 @@ Die durch die §§ 142 bis 148 begründeten Rechte können nicht zugunsten
 von Hypotheken, Grundschulden oder Rentenschulden, die dem
 Versicherungsnehmer zustehen, geltend gemacht werden.
 
-
 ### Kapitel 5 - Lebensversicherung
-
 
 #### § 150 Versicherte Person
 
@@ -2680,13 +2505,11 @@ gewöhnlichen Beerdigungskosten übersteigt.
 (4) Soweit die Aufsichtsbehörde einen bestimmten Höchstbetrag für die
 gewöhnlichen Beerdigungskosten festgesetzt hat, ist dieser maßgebend.
 
-
 #### § 151 Ärztliche Untersuchung
 
 Durch die Vereinbarung einer ärztlichen Untersuchung der versicherten
 Person wird ein Recht des Versicherers, die Vornahme der Untersuchung
 zu verlangen, nicht begründet.
-
 
 #### § 152 Widerruf des Versicherungsnehmers
 
@@ -2703,7 +2526,6 @@ Prämien zu erstatten.
 (3) Abweichend von § 33 Abs. 1 ist die einmalige oder die erste Prämie
 unverzüglich nach Ablauf von 30 Tagen nach Zugang des
 Versicherungsscheins zu zahlen.
-
 
 #### § 153 Überschussbeteiligung
 
@@ -2730,7 +2552,6 @@ unberührt.
 (4) Bei Rentenversicherungen ist die Beendigung der Ansparphase der
 nach Absatz 3 Satz 2 maßgebliche Zeitpunkt.
 
-
 #### § 154 Modellrechnung
 
 (1) Macht der Versicherer im Zusammenhang mit dem Angebot oder dem
@@ -2749,7 +2570,6 @@ Rechenmodell handelt, dem fiktive Annahmen zu Grunde liegen, und dass
 der Versicherungsnehmer aus der Modellrechnung keine vertraglichen
 Ansprüche gegen den Versicherer ableiten kann.
 
-
 #### § 155 Jährliche Unterrichtung
 
 Bei Versicherungen mit Überschussbeteiligung hat der Versicherer den
@@ -2760,14 +2580,12 @@ zur möglichen zukünftigen Entwicklung der Überschussbeteiligung
 gemacht hat, den Versicherungsnehmer auf Abweichungen der
 tatsächlichen Entwicklung von den anfänglichen Angaben hinzuweisen.
 
-
 #### § 156 Kenntnis und Verhalten der versicherten Person
 
 Soweit nach diesem Gesetz die Kenntnis und das Verhalten des
 Versicherungsnehmers von rechtlicher Bedeutung sind, ist bei der
 Versicherung auf die Person eines anderen auch deren Kenntnis und
 Verhalten zu berücksichtigen.
-
 
 #### § 157 Unrichtige Altersangabe
 
@@ -2778,7 +2596,6 @@ vereinbarten Prämie steht. Das Recht, wegen der Verletzung der
 Anzeigepflicht von dem Vertrag zurückzutreten, steht dem Versicherer
 abweichend von § 19 Abs. 2 nur zu, wenn er den Vertrag bei richtiger
 Altersangabe nicht geschlossen hätte.
-
 
 #### § 158 Gefahränderung
 
@@ -2797,7 +2614,6 @@ Prämie nur wegen einer solchen Minderung der Gefahrumstände verlangt
 werden kann, die nach ausdrücklicher Vereinbarung als Gefahrminderung
 angesehen werden soll.
 
-
 #### § 159 Bezugsberechtigung
 
 (1) Der Versicherungsnehmer ist im Zweifel berechtigt, ohne Zustimmung
@@ -2812,7 +2628,6 @@ Versicherungsfalles.
 (3) Ein unwiderruflich als bezugsberechtigt bezeichneter Dritter
 erwirbt das Recht auf die Leistung des Versicherers bereits mit der
 Bezeichnung als Bezugsberechtigter.
-
 
 #### § 160 Auslegung der Bezugsberechtigung
 
@@ -2834,7 +2649,6 @@ Versicherungsnehmer zu.
 (4) Ist der Fiskus als Erbe berufen, steht ihm ein Bezugsrecht im Sinn
 des Absatzes 2 Satz 1 nicht zu.
 
-
 #### § 161 Selbsttötung
 
 (1) Bei einer Versicherung für den Todesfall ist der Versicherer nicht
@@ -2851,7 +2665,6 @@ erhöht werden.
 Rückkaufswert einschließlich der Überschussanteile nach § 169 zu
 zahlen.
 
-
 #### § 162 Tötung durch Leistungsberechtigten
 
 (1) Ist die Versicherung für den Fall des Todes eines anderen als des
@@ -2862,7 +2675,6 @@ widerrechtliche Handlung den Tod des anderen herbeiführt.
 (2) Ist ein Dritter als Bezugsberechtigter bezeichnet, gilt die
 Bezeichnung als nicht erfolgt, wenn der Dritte vorsätzlich durch eine
 widerrechtliche Handlung den Tod der versicherten Person herbeiführt.
-
 
 #### § 163 Prämien- und Leistungsänderung
 
@@ -2905,7 +2717,6 @@ hierfür maßgeblichen Gründe an den Versicherungsnehmer folgt.
 entfällt, wenn die Neufestsetzung oder die Herabsetzung der
 Versicherungsleistung der Genehmigung der Aufsichtsbehörde bedarf.
 
-
 #### § 164 Bedingungsanpassung
 
 (1) Ist eine Bestimmung in Allgemeinen Versicherungsbedingungen des
@@ -2922,7 +2733,6 @@ Versicherungsnehmer angemessen berücksichtigt.
 (2) Die neue Regelung nach Absatz 1 wird zwei Wochen, nachdem die neue
 Regelung und die hierfür maßgeblichen Gründe dem Versicherungsnehmer
 mitgeteilt worden sind, Vertragsbestandteil.
-
 
 #### § 165 Prämienfreie Versicherung
 
@@ -2944,7 +2754,6 @@ anzugeben.
 Versicherungsperiode unter Berücksichtigung von Prämienrückständen zu
 berechnen. Die Ansprüche des Versicherungsnehmers aus der
 Überschussbeteiligung bleiben unberührt.
-
 
 #### § 166 Kündigung des Versicherers
 
@@ -2968,7 +2777,6 @@ Zahlungsfrist nach § 38 Abs. 1 und die eintretende Umwandlung der
 Versicherung in Textform zu informieren und ihnen eine Zahlungsfrist
 von mindestens zwei Monaten einzuräumen.
 
-
 #### § 167 Umwandlung zur Erlangung eines Pfändungsschutzes
 
 Der Versicherungsnehmer einer Lebensversicherung kann jederzeit für
@@ -2976,7 +2784,6 @@ den Schluss der laufenden Versicherungsperiode die Umwandlung der
 Versicherung in eine Versicherung verlangen, die den Anforderungen des
 § 851c Abs. 1 der Zivilprozessordnung entspricht. Die Kosten der
 Umwandlung hat der Versicherungsnehmer zu tragen.
-
 
 #### § 168 Kündigung des Versicherungsnehmers
 
@@ -2998,7 +2805,6 @@ in § 12 Abs. 2 Nr. 3 des Zweiten Buches Sozialgesetzbuch bestimmten
 Beträge nicht übersteigen. Entsprechendes gilt, soweit die Ansprüche
 nach § 851c oder § 851d der Zivilprozessordnung nicht gepfändet werden
 dürfen.
-
 
 #### § 169 Rückkaufswert
 
@@ -3060,7 +2866,6 @@ Allgemeinen Versicherungsbedingungen für den Fall der Kündigung
 vorgesehenen Schlussüberschussanteil zu zahlen; § 153 Abs. 3 Satz 2
 bleibt unberührt.
 
-
 #### § 170 Eintrittsrecht
 
 (1) Wird in die Versicherungsforderung ein Arrest vollzogen oder eine
@@ -3083,7 +2888,6 @@ kann nur innerhalb eines Monats erfolgen, nachdem der
 Eintrittsberechtigte von der Pfändung Kenntnis erlangt hat oder das
 Insolvenzverfahren eröffnet worden ist.
 
-
 #### § 171 Abweichende Vereinbarungen
 
 Von § 152 Abs. 1 und 2 und den §§ 153 bis 155, 157, 158, 161 und 163
@@ -3093,9 +2897,7 @@ Für das Verlangen des Versicherungsnehmers auf Umwandlung nach § 165
 und für seine Kündigung nach § 168 kann die Schrift- oder die Textform
 vereinbart werden.
 
-
 ### Kapitel 6 - Berufsunfähigkeitsversicherung
-
 
 #### § 172 Leistung des Versicherers
 
@@ -3115,7 +2917,6 @@ Tätigkeit ausübt oder ausüben kann, die zu übernehmen sie auf Grund
 ihrer Ausbildung und Fähigkeiten in der Lage ist und die ihrer
 bisherigen Lebensstellung entspricht.
 
-
 #### § 173 Anerkenntnis
 
 (1) Der Versicherer hat nach einem Leistungsantrag bei Fälligkeit in
@@ -3123,7 +2924,6 @@ Textform zu erklären, ob er seine Leistungspflicht anerkennt.
 
 (2) Das Anerkenntnis darf nur einmal zeitlich begrenzt werden. Es ist
 bis zum Ablauf der Frist bindend.
-
 
 #### § 174 Leistungsfreiheit
 
@@ -3135,19 +2935,16 @@ dem Versicherungsnehmer diese Veränderung in Textform dargelegt hat.
 nach Zugang der Erklärung nach Absatz 1 beim Versicherungsnehmer
 leistungsfrei.
 
-
 #### § 175 Abweichende Vereinbarungen
 
 Von den §§ 173 und 174 kann nicht zum Nachteil des
 Versicherungsnehmers abgewichen werden.
-
 
 #### § 176 Anzuwendende Vorschriften
 
 Die §§ 150 bis 170 sind auf die Berufsunfähigkeitsversicherung
 entsprechend anzuwenden, soweit die Besonderheiten dieser Versicherung
 nicht entgegenstehen.
-
 
 #### § 177 Ähnliche Versicherungsverträge
 
@@ -3159,9 +2956,7 @@ Arbeitsfähigkeit eine Leistung verspricht, entsprechend anzuwenden.
 die das Risiko der Beeinträchtigung der Arbeitsfähigkeit zum
 Gegenstand haben, ist Absatz 1 nicht anzuwenden.
 
-
 ### Kapitel 7 - Unfallversicherung
-
 
 #### § 178 Leistung des Versicherers
 
@@ -3173,7 +2968,6 @@ gleichgestellten Ereignis die vereinbarten Leistungen zu erbringen.
 plötzlich von außen auf ihren Körper wirkendes Ereignis unfreiwillig
 eine Gesundheitsschädigung erleidet. Die Unfreiwilligkeit wird bis zum
 Beweis des Gegenteils vermutet.
-
 
 #### § 179 Versicherte Person
 
@@ -3196,7 +2990,6 @@ das Verhalten des Versicherungsnehmers von rechtlicher Bedeutung sind,
 sind auch die Kenntnis und das Verhalten des anderen zu
 berücksichtigen.
 
-
 #### § 180 Invalidität
 
 Der Versicherer schuldet die für den Fall der Invalidität
@@ -3205,7 +2998,6 @@ oder geistige Leistungsfähigkeit der versicherten Person unfallbedingt
 dauerhaft beeinträchtigt ist. Eine Beeinträchtigung ist dauerhaft,
 wenn sie voraussichtlich länger als drei Jahre bestehen wird und eine
 Änderung dieses Zustandes nicht erwartet werden kann.
-
 
 #### § 181 Gefahrerhöhung
 
@@ -3220,7 +3012,6 @@ Eintritt der Gefahrerhöhung als vereinbart. Weitergehende Rechte kann
 der Versicherer nur geltend machen, wenn der Versicherungsnehmer die
 Gefahrerhöhung arglistig nicht angezeigt hat.
 
-
 #### § 182 Mitwirkende Ursachen
 
 Ist vereinbart, dass der Anspruch auf die vereinbarten Leistungen
@@ -3228,7 +3019,6 @@ entfällt oder sich mindert, wenn Krankheiten oder Gebrechen bei der
 durch den Versicherungsfall verursachten Gesundheitsschädigung oder
 deren Folgen mitgewirkt haben, hat der Versicherer die Voraussetzungen
 des Wegfalles oder der Minderung des Anspruchs nachzuweisen.
-
 
 #### § 183 Herbeiführung des Versicherungsfalles
 
@@ -3240,17 +3030,14 @@ widerrechtliche Handlung den Versicherungsfall herbeiführt.
 Bezeichnung als nicht erfolgt, wenn der Dritte vorsätzlich durch eine
 widerrechtliche Handlung den Versicherungsfall herbeiführt.
 
-
 #### § 184 Abwendung und Minderung des Schadens
 
 Die §§ 82 und 83 sind auf die Unfallversicherung nicht anzuwenden.
-
 
 #### § 185 Bezugsberechtigung
 
 Ist als Leistung des Versicherers die Zahlung eines Kapitals
 vereinbart, sind die §§ 159 und 160 entsprechend anzuwenden.
-
 
 #### § 186 Hinweispflicht des Versicherers
 
@@ -3259,7 +3046,6 @@ Versicherer ihn auf vertragliche Anspruchs- und
 Fälligkeitsvoraussetzungen sowie einzuhaltende Fristen in Textform
 hinzuweisen. Unterbleibt dieser Hinweis, kann sich der Versicherer auf
 Fristversäumnis nicht berufen.
-
 
 #### § 187 Anerkenntnis
 
@@ -3276,7 +3062,6 @@ die Leistungspflicht nur dem Grunde nach fest, hat der Versicherer auf
 Verlangen des Versicherungsnehmers einen angemessenen Vorschuss zu
 leisten.
 
-
 #### § 188 Neubemessung der Invalidität
 
 (1) Sind Leistungen für den Fall der Invalidität vereinbart, ist jede
@@ -3292,11 +3077,9 @@ kann sich der Versicherer auf eine Verspätung des Verlangens des
 Versicherungsnehmers, den Grad der Invalidität neu zu bemessen, nicht
 berufen.
 
-
 #### § 189 Sachverständigenverfahren, Schadensermittlungskosten
 
 Die §§ 84 und 85 Abs. 1 und 3 sind entsprechend anzuwenden.
-
 
 #### § 190 Pflichtversicherung
 
@@ -3306,16 +3089,13 @@ unter Angabe der Versicherungssumme zu bescheinigen, dass eine der zu
 bezeichnenden Rechtsvorschrift entsprechende Unfallversicherung
 besteht.
 
-
 #### § 191 Abweichende Vereinbarungen
 
 Von § 178 Abs. 2 Satz 2 und den §§ 181, 186 bis 188 kann nicht zum
 Nachteil des Versicherungsnehmers oder der versicherten Person
 abgewichen werden.
 
-
 ### Kapitel 8 - Krankenversicherung
-
 
 #### § 192 Vertragstypische Leistungen des Versicherers
 
@@ -3384,7 +3164,6 @@ machen, soweit der Versicherer aus dem Versicherungsverhältnis zur
 Leistung verpflichtet ist. Im Rahmen der Leistungspflicht des
 Versicherers aus dem Versicherungsverhältnis haften Versicherer und
 Versicherungsnehmer gesamtschuldnerisch.
-
 
 #### § 193 Versicherte Person; Versicherungspflicht
 
@@ -3547,7 +3326,6 @@ verlangen, dass Zusatzversicherungen ruhen, wenn und solange ein
 Versicherter auf die Halbierung des Beitrags nach § 12 Abs. 1c des
 Versicherungsaufsichtsgesetzes angewiesen ist.
 
-
 #### § 194 Anzuwendende Vorschriften
 
 (1) Soweit der Versicherungsschutz nach den Grundsätzen der
@@ -3574,7 +3352,6 @@ oder unwiderruflich erfolgen. Liegt diese Voraussetzung nicht vor,
 kann nur der Versicherungsnehmer die Versicherungsleistung verlangen.
 Einer Vorlage des Versicherungsscheins bedarf es nicht.
 
-
 #### § 195 Versicherungsdauer
 
 (1) Die Krankenversicherung, die ganz oder teilweise den im
@@ -3597,7 +3374,6 @@ Höchstlaufzeit geschlossen werden, die unter Einschluss der Laufzeit
 des abgelaufenen Vertrags fünf Jahre nicht überschreitet; dies gilt
 auch, wenn der neue Vertrag mit einem anderen Versicherer geschlossen
 wird.
-
 
 #### § 196 Befristung der Krankentagegeldversicherung
 
@@ -3632,7 +3408,6 @@ mit Vollendung des 75. Lebensjahres endet.
 (4) Die Vertragsparteien können ein späteres Lebensjahr als in den
 vorstehenden Absätzen festgelegt vereinbaren.
 
-
 #### § 197 Wartezeiten
 
 (1) Soweit Wartezeiten vereinbart werden, dürfen diese in der
@@ -3652,7 +3427,6 @@ Beendigung der Vorversicherung zum unmittelbaren Anschluss daran
 beantragt wird. Dies gilt auch für Personen, die aus einem
 öffentlichen Dienstverhältnis mit Anspruch auf Heilfürsorge
 ausscheiden.
-
 
 #### § 198 Kindernachversicherung
 
@@ -3679,7 +3453,6 @@ Reisekrankenversicherung nicht, soweit für das Neugeborene oder für
 das Adoptivkind anderweitiger privater oder gesetzlicher
 Krankenversicherungsschutz im Inland oder Ausland besteht.
 
-
 #### § 199 Beihilfeempfänger
 
 (1) Bei der Krankheitskostenversicherung einer versicherten Person mit
@@ -3701,20 +3474,17 @@ oder Wartezeiten zu gewähren.
 
 (3) Absatz 2 gilt nicht bei Gewährung von Versicherung im Basistarif.
 
-
 #### § 200 Bereicherungsverbot
 
 Hat die versicherte Person wegen desselben Versicherungsfalles einen
 Anspruch gegen mehrere Erstattungsverpflichtete, darf die
 Gesamterstattung die Gesamtaufwendungen nicht übersteigen.
 
-
 #### § 201 Herbeiführung des Versicherungsfalles
 
 Der Versicherer ist nicht zur Leistung verpflichtet, wenn der
 Versicherungsnehmer oder die versicherte Person vorsätzlich die
 Krankheit oder den Unfall bei sich selbst herbeiführt.
-
 
 #### § 202 Auskunftspflicht des Versicherers; Schadensermittlungskosten
 
@@ -3728,7 +3498,6 @@ betroffenen Person oder ihrem gesetzlichen Vertreter geltend gemacht
 werden. Hat der Versicherungsnehmer das Gutachten oder die
 Stellungnahme auf Veranlassung des Versicherers eingeholt, hat der
 Versicherer die entstandenen Kosten zu erstatten.
-
 
 #### § 203 Prämien- und Bedingungsanpassung
 
@@ -3782,7 +3551,6 @@ bestandskräftigen Verwaltungsakt für unwirksam erklärt worden, ist §
 2 und 3 werden zu Beginn des zweiten Monats wirksam, der auf die
 Mitteilung der Neufestsetzung oder der Änderungen und der hierfür
 maßgeblichen Gründe an den Versicherungsnehmer folgt.
-
 
 #### § 204 Tarifwechsel
 
@@ -3869,7 +3637,6 @@ betrieben wird, haben die Versicherungsnehmer und die versicherte
 Person das Recht, einen gekündigten Versicherungsvertrag in Form einer
 Anwartschaftsversicherung fortzuführen.
 
-
 #### § 205 Kündigung des Versicherungsnehmers
 
 (1) Vorbehaltlich einer vereinbarten Mindestversicherungsdauer bei der
@@ -3935,7 +3702,6 @@ genügt. Die Kündigung wird erst wirksam, wenn der Versicherungsnehmer
 nachweist, dass die versicherte Person bei einem neuen Versicherer
 ohne Unterbrechung versichert ist.
 
-
 #### § 206 Kündigung des Versicherers
 
 (1) Jede Kündigung einer Krankheitskostenversicherung, die eine
@@ -3979,7 +3745,6 @@ Alterungsrückstellung, soweit eine solche gebildet wird, zu den
 Bedingungen der Einzelversicherung fortsetzen können. Absatz 3 Satz 2
 und 3 ist entsprechend anzuwenden.
 
-
 #### § 207 Fortsetzung des Versicherungsverhältnisses
 
 (1) Endet das Versicherungsverhältnis durch den Tod des
@@ -4008,7 +3773,6 @@ setzt sich das Versicherungsverhältnis mit der Maßgabe fort, dass der
 Versicherer höchstens zu denjenigen Leistungen verpflichtet bleibt,
 die er bei einem Aufenthalt im Inland zu erbringen hätte.
 
-
 #### § 208 Abweichende Vereinbarungen
 
 Von den §§ 194 bis 199 und 201 bis 207 kann nicht zum Nachteil des
@@ -4016,16 +3780,13 @@ Versicherungsnehmers oder der versicherten Person abgewichen werden.
 Für die Kündigung des Versicherungsnehmers nach § 205 kann die Schrift
 oder die Textform vereinbart werden.
 
-
 ## Teil 3 - Schlussvorschriften
-
 
 ### § 209 Rückversicherung, Seeversicherung
 
 Die Vorschriften dieses Gesetzes sind auf die Rückversicherung und die
 Versicherung gegen die Gefahren der Seeschifffahrt (Seeversicherung)
 nicht anzuwenden.
-
 
 ### § 210 Großrisiken, laufende Versicherung
 
@@ -4076,7 +3837,6 @@ Vertragsstaats des Abkommens über den Europäischen Wirtschaftsraum
 einen Konzernabschluss aufzustellen hat, so sind für die Feststellung
 der Unternehmensgröße die Zahlen des Konzernabschlusses maßgebend.
 
-
 ### § 211 Pensionskassen, kleinere Versicherungsvereine, Versicherungen mit kleineren Beträgen
 
 (1) Die §§ 37, 38, 165, 166, 168 und 169 sind, soweit mit Genehmigung
@@ -4120,7 +3880,6 @@ nicht anzuwenden
 Wirksamkeit nicht unter Berufung darauf angefochten werden, dass es
 sich nicht um Versicherungen mit kleineren Beträgen handele.
 
-
 ### § 212 Fortsetzung der Lebensversicherung nach der Elternzeit
 
 Besteht während einer Elternzeit ein Arbeitsverhältnis ohne Entgelt
@@ -4132,7 +3891,6 @@ umgewandelt, kann die Arbeitnehmerin oder der Arbeitnehmer innerhalb
 von drei Monaten nach der Beendigung der Elternzeit verlangen, dass
 die Versicherung zu den vor der Umwandlung vereinbarten Bedingungen
 fortgesetzt wird.
-
 
 ### § 213 Erhebung personenbezogener Gesundheitsdaten bei Dritten
 
@@ -4156,7 +3914,6 @@ eingewilligt worden ist.
 
 (4) Die betroffene Person ist auf diese Rechte hinzuweisen, auf das
 Widerspruchsrecht nach Absatz 2 bei der Unterrichtung.
-
 
 ### § 214 Schlichtungsstelle
 
@@ -4208,7 +3965,6 @@ Zustimmung des Bundesrates einer Bundesoberbehörde oder Bundesanstalt
 zuweisen und deren Verfahren sowie die Erhebung von Gebühren und
 Auslagen regeln.
 
-
 ### § 215 Gerichtsstand
 
 (1) Für Klagen aus dem Versicherungsvertrag oder der
@@ -4227,7 +3983,6 @@ Wohnsitz oder gewöhnlichen Aufenthalt aus dem Geltungsbereich dieses
 Gesetzes verlegt oder sein Wohnsitz oder gewöhnlicher Aufenthalt im
 Zeitpunkt der Klageerhebung nicht bekannt ist.
 
-
 ### § 216 Prozessstandschaft bei Versicherermehrheit
 
 Ist ein Versicherungsvertrag mit den bei Lloyd´s vereinigten
@@ -4239,7 +3994,6 @@ Stelle aufgeführten Syndikats oder einen von diesem benannten
 Versicherer geltend gemacht werden; ein darüber erzielter Titel wirkt
 für und gegen alle an dem Versicherungsvertrag beteiligten
 Versicherer.
-
 
 ### Anlage (zu § 8 Abs. 5 Satz 1)
 

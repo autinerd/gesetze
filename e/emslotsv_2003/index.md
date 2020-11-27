@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 7.4.2008 BAnz. Nr. 64, 1511
 
-
 ## Eingangsformel
 
 Auf Grund des § 5 Abs. 1 Nr. 3, 4 und 5 in Verbindung mit § 12 des
@@ -29,7 +28,6 @@ Abs. 1 des Seelotsgesetzes zuletzt durch Artikel 282 Nr. 1 der
 Verordnung vom 29. Oktober 2001 (BGBl. I S. 2785) geändert worden ist,
 verordnet die Wasser- und Schifffahrtsdirektion Nordwest nach Anhörung
 der Küstenländer und der Bundeslotsenkammer:
-
 
 ## § 1 Begriffsbestimmungen
 
@@ -94,12 +92,10 @@ die Abmessungen geringer sind oder die Länge nach oben nicht mehr als
 (12) Schifffahrtspolizeibehörde im Sinne dieser Verordnung ist das
 Wasser- und Schifffahrtsamt Emden.
 
-
 ## § 2 Lotsenbrüderschaft
 
 Der Lotsdienst auf dem Seelotsrevier Ems obliegt den in der
 Lotsenbrüderschaft Emden zusammengeschlossenen Seelotsen.
-
 
 ## § 3 Lotsenstationen, Lotsenwechsel
 
@@ -110,7 +106,6 @@ Leuchttonne "GW/TG" Seelotsen versetzt und ausgeholt.
 (2) Der Lotsenwechsel zwischen den Seelotsen für die Fahrtstrecken
 seewärts Emden und den Seelotsen für die Fahrtstrecken nach den
 emsaufwärts gelegenen Seehäfen erfolgt im Bereich Emden-Reede.
-
 
 ## § 4 Lotsenversetzpositionen
 
@@ -136,7 +131,6 @@ Lotsenversetzposition übernehmen oder abgeben.
 Ausnahmefall nicht möglich, kann der Führer des Schiffes mit der
 Lotsenstation die Übernahme oder Abgabe auf einer anderen Position
 vereinbaren.
-
 
 ## § 5 Lotsenanforderung und Versetzmanöver
 
@@ -183,7 +177,6 @@ für eine ausreichende Überwachung des Lotsengeschirrs, für
 Hilfestellung beim Anbordkommen und Vonbordgehen und für die
 Sicherheit des Seelotsen auf dem Weg zwischen Lotsengeschirr und der
 Brücke des Schiffes zu sorgen.
-
 
 ## § 6 Pflicht zur Annahme eines Bordlotsen
 
@@ -245,10 +238,6 @@ nicht überschritten werden:
 
 3.  für Schiffe nach Absatz 2 Nr. 3: Länge 155 m und Breite 23,50 m.
 
-
-
-
-
 ## § 7 Ausnahmen von der Lotsenannahmepflicht
 
 Von der Lotsenannahmepflicht ausgenommen sind die Führer von
@@ -257,7 +246,6 @@ der Länder sowie Führer von Tankschiffen mit einer Länge bis
 einschließlich 60 m und einer Breite bis einschließlich 10 m im
 Verkehr zwischen Emden und Delfzijl oder Eemshaven und Delfzijl oder
 Eemshaven und Emden.
-
 
 ## § 8 Befreiung von der Annahmepflicht eines Bordlotsen ohne Antrag für Seeschiffe
 
@@ -299,7 +287,6 @@ Schifffahrtspolizeibehörde nachzuweisen.
 
 (5) Die Schifffahrtspolizeibehörde kann die Befreiung auf Antrag auf
 ein typgleiches Schiff übertragen.
-
 
 ## § 9 Befreiung von der Annahmepflicht eines Bordlotsen auf Antrag für Seeschiffe
 
@@ -374,7 +361,6 @@ dem Fahrzeug nach Absatz 2 mindestens dreimal befahren hat.
 
 (6) Die Befreiung kann auf Antrag auf ein typgleiches Schiff
 übertragen werden.
-
 
 ## § 10 Befreiung für Tankschiffe
 
@@ -507,7 +493,6 @@ für Schiffe nach Absatz 1 Nr. 1 auf Schiffe nach Absatz 1 Nr. 2.
 der Schifffahrtspolizeibehörde auf ein typgleiches Schiff übertragen
 werden.
 
-
 ## § 11 Stellvertreter des Schiffsführers
 
 Die Vorschriften der §§ 8 bis 10 über die Befreiung von der
@@ -516,14 +501,12 @@ Schiffführers, wenn er die nautische Führung des Schiffes übernimmt.
 Der Stellvertreter kann seine Befreiung nur dann in Anspruch nehmen,
 wenn auch der Schiffsführer von der Lotsenannahmepflicht befreit ist.
 
-
 ## § 12 Befreiung von der Lotsenannahmepflicht in besonderen Fällen
 
 Die Schifffahrtspolizeibehörde kann den Führer eines Schiffes in
 besonderen Einzelfällen über die Vorschriften der §§ 8 bis 10 hinaus
 nach Anhörung der Lotsenbrüderschaft von der Lotsenannahmepflicht
 befreien.
-
 
 ## § 13 Landradarberatung
 
@@ -559,7 +542,6 @@ einer Anforderung der Landradarberatung durch eine Schiffsführung nach
 Absatz 4, wenn keine rechtzeitige Anforderung der Landradarberatung
 nach § 5 Abs. 1 und 3 erfolgt.
 
-
 ## § 14 Anordnung zur Annahme von Seelotsen zur Abwehr einer Gefahr/Widerruf von Befreiungen
 
 (1) Die Schifffahrtspolizeibehörde kann über die Vorschriften der §§ 6
@@ -570,7 +552,6 @@ anordnen.
 (2) Die Schifffahrtspolizeibehörde kann bei wiederholten Verstößen
 oder einem erheblichen Verstoß gegen die Verkehrsvorschriften die
 Befreiungen nach dieser Lotsverordnung widerrufen.
-
 
 ## § 15 Lotsentätigkeit nach der ersten Bestallung
 
@@ -600,17 +581,12 @@ aufgeführten Parameter gelten folgende Obergrenzen:
 
 2.  der jeweils aufgeführte Breitenwert zuzüglich höchstens 0,50 m.
 
-
-
-
-
 ## § 16 Distanzlotsungen
 
 Die Seelotsen der Lotsenbrüderschaft Emden dürfen über ihr
 Seelotsrevier hinaus zwischen den Außenstationen der deutschen
 Nordseereviere (jeweilige Position des Lotsenschiffes) lotsen; über
 diesen Bereich hinaus dürfen sie nicht lotsen.
-
 
 ## § 17 Ordnungswidrigkeiten
 
@@ -637,24 +613,17 @@ handelt, wer vorsätzlich oder fahrlässig
 
 6.  als Seelotse entgegen § 15 oder § 16 lotst.
 
-
-
-
-
 ## § 18 Übergangsregelungen
 
 -
-
 
 ## § 19
 
 -
 
-
 ## § 20 Inkrafttreten
 
 Diese Verordnung tritt am 1. März 2003 in Kraft.
-
 
 ## Anlage 1 (zu § 5 Abs. 3) Ort und Anmeldung für die Lotsenanforderung
 
@@ -729,9 +698,6 @@ Fundstelle des Originaltextes: BAnz. 2003, Nr. 41, 3703
         Uhr angezeigt werden.
 
     *
-
-
-
 
 ## Anlage 2 (zu § 8 Abs. 1, § 9 Abs. 1 und 2 und § 10 Abs. 3) Bescheinigung zum Nachweis der Befreiung von der Lotsenannahmepflicht
 

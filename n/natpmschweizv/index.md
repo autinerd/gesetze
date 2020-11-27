@@ -16,14 +16,11 @@ Ausfertigungsdatum
 Fundstelle
 :   GBl DDR: 1990, SDr 1479
 
-
-
 ## Eingangsformel
 
 Auf Grund des Art. 6 § 6 Nr. 1 des Umweltrahmengesetzes vom 29. Juni
 1990 (GBl. I Nr. 42 S. 649) in Verbindung mit §§ 12, 13, 15 und 16 des
 Bundesnaturschutzgesetzes wird verordnet:
-
 
 ## § 1 Festsetzung
 
@@ -34,7 +31,6 @@ festgesetzt.
 
 (2) Der Naturpark erhält die Bezeichnung "Naturpark Märkische
 Schweiz".
-
 
 ## § 2 Flächenbeschreibung und Abgrenzung
 
@@ -595,7 +591,6 @@ bei den Kreisverwaltungen Strausberg und Seelow und der
 Naturparkverwaltung. Bei den genannten Behörden sind die Karten
 während der Sprechzeiten allgemein zugänglich.
 
-
 ## § 3 Schutzzweck
 
 Mit der Festsetzung zum Naturpark wird bezweckt:
@@ -627,10 +622,6 @@ Mit der Festsetzung zum Naturpark wird bezweckt:
 7.  Erhalt, Pflege und Entwicklung der vielfältigen Lebensräume
     insbesondere für die gefährdeten Organismenarten und eines umfassenden
     Biotopverbundsystems.
-
-
-
-
 
 ## § 4 Schutzzonen
 
@@ -1011,7 +1002,6 @@ Naturparkes.
 (4) Die Grenzen der Schutzzonen sind in den in § 2 Abs. 3 genannten
 Karten eingetragen.
 
-
 ## § 5 Gebote
 
 (1) Zur Erreichung des Schutzzweckes im Landschaftsschutzgebiet ist es
@@ -1077,7 +1067,6 @@ Naturschutzgebieten geboten,
 (3) Zur Umsetzung der in den Absätzen 1 und 2 genannten Gebote sowie
 zur Erhaltung, Pflege und Entwicklung des Naturparkes soll in
 angemessener Frist ein Pflege- und Entwicklungsplan erstellt werden.
-
 
 ## § 6 Verbote
 
@@ -1158,10 +1147,6 @@ verboten,
 10. fischereiliche Intensivnutzung (z.B. Düngung, Zufütterung und
     Netzkäfighälterung) durchzuführen.
 
-
-
-
-
 ## § 7 Ausnahmen
 
 (1) Ausgenommen von den Verboten des § 6 sind,
@@ -1199,7 +1184,6 @@ unberührt. Soweit diese Maßnahmen mit dem Schutzzweck des Naturparkes
 (§ 3) nicht vereinbar sind, sollen sie im Rahmen der rechtlichen
 Möglichkeiten so schnell wie möglich abgebaut werden.
 
-
 ## § 8 Befreiungen
 
 (1) Von den Verboten des § 6 kann auf Antrag im Einzelfall Befreiung
@@ -1227,7 +1211,6 @@ gewährt werden, wenn
 der Naturparkverwaltung. Die Aufsichtsbehörde kann diese Aufgabe ganz
 oder teilweise delegieren.
 
-
 ## § 9 Einvernehmen
 
 Das Einvernehmen mit der Naturparkverwaltung ist herzustellen bei,
@@ -1240,10 +1223,6 @@ Das Einvernehmen mit der Naturparkverwaltung ist herzustellen bei,
 
 3.  der Aufstellung von Bauleitplänen.
 
-
-
-
-
 ## § 10 Entschädigung für Nutzungsbeschränkungen
 
 Werden Eigentümern oder anderen Nutzungsberechtigten durch diese
@@ -1254,29 +1233,24 @@ haben sie Anspruch auf Entschädigung. Diese muß die
 Vermögensnachteile, die durch die Maßnahmen verursacht wurden,
 angemessen ausgleichen.
 
-
 ## § 11 Vorrang dieser Verordnung
 
 Die Bestimmungen dieser Verordnung gehen den Bestimmungen der
 bestehenden naturschutzrechtlichen Beschlüsse, Verordnungen oder
 Anordnungen für dieses Gebiet vor.
 
-
 ## § 12 Schlußbestimmung
 
 Diese Verordnung tritt mit Wirkung vom 1. Oktober 1990 in Kraft.
-
 
 ## Schlußformel
 
 **Der Ministerrat der Deutschen Demokratischen Republik**
 
-
 ## Anlage
 
 (Inhalt: nicht darstellbare Karte,
 Fundstelle: GBl. 1990, Sonderdruck Nr. 1479)
-
 
 ## Anhang EV Auszug aus Artikel 3 der Vereinbarung zur Durchführung und Auslegung des Einigungsvertrages vom 18.9.1990 (EinigVtrVbg) (BGBl. II 1990, 885, 1239)
 

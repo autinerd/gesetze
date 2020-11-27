@@ -20,7 +20,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 10 V v. 8.8.2007 I 1816
 
-
 ## Eingangsformel
 
 Auf Grund des § 41 Abs. 2 Satz 2 des Lebensmittel- und
@@ -30,7 +29,6 @@ Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S. 705)
 und dem Organisationserlass vom 22. Januar 2001 (BGBl. I S. 127)
 verordnet das Bundesministerium für Verbraucherschutz, Ernährung und
 Landwirtschaft:
-
 
 ## § 1 Anforderungen
 
@@ -182,10 +180,6 @@ beauftragt werden, wenn sie befähigt sind,
 14. Mitarbeit bei sonstigen durch die zuständige Behörde oder die
     Sachverständigen veranlassten Maßnahmen im Rahmen der Überwachung.
 
-
-
-
-
 ## § 2 Anforderungsnachweis
 
 (1) Die Anforderungen nach § 1 erfüllt, wer in einem Beruf, der
@@ -227,7 +221,6 @@ Vorläufigen Tabakgesetzes vermittelt,
 
 den Personen nach Absatz 1 Nr. 1 gleichstellen. Absatz 1 Nr. 2 bleibt
 unberührt.
-
 
 ## § 3 Lehrgang
 
@@ -311,7 +304,6 @@ Vorläufigen Tabakgesetzes vorliegen. Die Prüfung kann in
 Teilabschnitten, die auch lehrgangsbegleitend durchgeführt werden
 können, abgelegt werden.
 
-
 ## § 4 Fortbildung
 
 Die in § 1 genannten Personen haben mindestens alle zwei Jahre an
@@ -320,7 +312,6 @@ teilzunehmen, in denen die erworbenen Kenntnisse erweitert und neue
 Erkenntnisse und Entwicklungen auf den in § 3 Abs. 2 genannten
 Gebieten vermittelt werden. Die Aufteilung in eintägige oder
 halbtägige Fortbildungsveranstaltungen ist zulässig.
-
 
 ## § 5 Vorschriften der Länder
 
@@ -339,7 +330,6 @@ die Fortbildung erlassen, insbesondere können sie
 
 
 vorschreiben. Im Fall des § 3 Abs. 1 Satz 3 gilt Satz 1 Nr. 2 nicht.
-
 
 ## § 6 Ausnahmen und Übergangsvorschriften
 
@@ -386,11 +376,9 @@ genannten Personen, soweit erforderlich, durch geeignete
 Fortbildungsmaßnahmen in den Stand gesetzt werden, alle in § 1
 genannten Tätigkeiten auszuüben. § 4 bleibt unberührt.
 
-
 ## § 7 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlußformel
 

@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 22.3.2005 I 895
 
-
 ## Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
@@ -29,10 +28,7 @@ zuletzt durch Artikel 184 Nr. 1 der Verordnung vom 25. November 2003
 für Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium
 für Bildung und Forschung:
 
-
 ## Erster Teil - Gemeinsame Vorschriften
-
-
 
 ### § 1 Staatliche Anerkennung der Ausbildungsberufe
 
@@ -47,13 +43,11 @@ Die Ausbildungsberufe
 
 werden staatlich anerkannt.
 
-
 ### § 2 Ausbildungsdauer
 
 Die Ausbildung dauert im Ausbildungsberuf Verkäufer/Verkäuferin zwei
 Jahre und im Ausbildungsberuf Kaufmann im Einzelhandel/Kauffrau im
 Einzelhandel drei Jahre.
-
 
 ### § 3 Zielsetzung der Berufsausbildung
 
@@ -64,7 +58,6 @@ Berufsbildungsgesetzes befähigt werden, die insbesondere
 selbstständiges Planen, Durchführen und Kontrollieren einschließt. Die
 in Satz 1 beschriebene Befähigung ist auch in den Prüfungen nach den
 §§ 10 und 11 oder den §§ 14 und 15 nachzuweisen.
-
 
 ### § 4 Struktur der Berufsausbildung
 
@@ -94,15 +87,10 @@ Einzelhandel/Kauffrau im Einzelhandel in
     gemäß § 12 Abs. 3 Nr. 1 bis 7, wobei § 12 Abs. 1 Nr. 11 zu
     berücksichtigen ist.
 
-
-
-
-
 ### § 5 Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans
 für die Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ### § 6 Berichtsheft
 
@@ -113,7 +101,6 @@ ist der der Ausbildung zugrunde liegende Warenbereich zu
 dokumentieren. Die Ausbildenden haben das Berichtsheft regelmäßig
 durchzusehen.
 
-
 ### § 7 Fortsetzung der Berufsausbildung
 
 Die Berufsausbildung im Ausbildungsberuf Verkäufer/Verkäuferin gemäß §
@@ -121,10 +108,7 @@ Die Berufsausbildung im Ausbildungsberuf Verkäufer/Verkäuferin gemäß §
 Ausbildungsjahr im Ausbildungsberuf Kaufmann im Einzelhandel/Kauffrau
 im Einzelhandel gemäß § 1 Nr. 2 fortgesetzt werden.
 
-
 ## Zweiter Teil - Vorschriften für den Ausbildungsberuf Verkäufer/Verkäuferin
-
-
 
 ### § 8 Ausbildungsberufsbild
 
@@ -278,10 +262,6 @@ Wahlqualifikationseinheiten:
 
 4.3 Kundenbindung, Kundenservice.
 
-
-
-
-
 ### § 9 Ausbildungsrahmenplan
 
 Die Fertigkeiten und Kenntnisse nach § 8 sollen nach den in der Anlage
@@ -291,7 +271,6 @@ dem Ausbildungsrahmenplan abweichende sachliche und zeitliche
 Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit
 eine berufsfeldbezogene Grundbildung vorausgegangen ist oder
 betriebspraktische Besonderheiten die Abweichung erfordern.
-
 
 ### § 10 Zwischenprüfung
 
@@ -316,10 +295,6 @@ Fälle aus den folgenden Gebieten bearbeiten:
 
 
 3.  Wirtschafts- und Sozialkunde.
-
-
-
-
 
 ### § 11 Abschlussprüfung
 
@@ -449,10 +424,7 @@ ausreichende Prüfungsleistungen erbracht werden. Werden die
 Prüfungsleistungen in einem Prüfungsbereich mit "ungenügend" bewertet,
 so ist die Prüfung nicht bestanden.
 
-
 ## Dritter Teil - Vorschriften für den Ausbildungsberuf Kaufmann im Einzelhandel/Kauffrau im Einzelhandel
-
-
 
 ### § 12 Ausbildungsberufsbild
 
@@ -728,7 +700,6 @@ Abschnitt IV können ergänzend zu den Fertigkeiten und Kenntnissen der
 Absätze 1 bis 3 vermittelt werden. Diese Qualifikationseinheit ist
 nicht Gegenstand der Abschlussprüfung gemäß § 15.
 
-
 ### § 13 Ausbildungsrahmenplan
 
 Die Fertigkeiten und Kenntnisse nach § 12 sollen nach den in der
@@ -738,7 +709,6 @@ werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und
 zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
 zulässig, soweit eine berufsfeldbezogene Grundbildung vorausgegangen
 ist oder betriebspraktische Besonderheiten die Abweichung erfordern.
-
 
 ### § 14 Zwischenprüfung
 
@@ -763,10 +733,6 @@ Fälle aus den folgenden Gebieten bearbeiten:
 
 
 3.  Wirtschafts- und Sozialkunde.
-
-
-
-
 
 ### § 15 Abschlussprüfung
 
@@ -907,17 +873,13 @@ ausreichende Prüfungsleistungen erbracht werden. Werden die
 Prüfungsleistungen in einem Prüfungsbereich mit "ungenügend" bewertet,
 ist die Prüfung nicht bestanden.
 
-
 ## Vierter Teil - Schlussvorschriften
-
-
 
 ### § 16 Nichtanwendung von Vorschriften
 
 Die bisher festgelegten Berufsbilder, Berufsbildungspläne und
 Prüfungsanforderungen für den Ausbildungsberuf Verkäufer/Verkäuferin
 sind vorbehaltlich des § 17 nicht mehr anzuwenden.
-
 
 ### § 17 Übergangsregelung
 
@@ -940,11 +902,9 @@ Vorschriften für das dritte Ausbildungsjahr vereinbaren, wenn dadurch
 die Ausbildung im unmittelbaren Anschluss an das zweite Jahr
 fortgeführt wird.
 
-
 ### § 18 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2004 in Kraft.
-
 
 ### Anlage 1 (zu § 8) Ausbildungsrahmenplan für die Berufsausbildung zum Verkäufer/zur Verkäuferin - Sachliche Gliederung - Ausbildungsrahmenplan für die Berufsausbildung zum Verkäufer/zur Verkäuferin - Zeitliche Gliederung -
 
@@ -2300,10 +2260,6 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 
 *    *   zu vermitteln.
-
-
-
-
 
 ### Anlage 2 (zu § 13) Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann im Einzelhandel/zur Kauffrau im Einzelhandel - Sachliche Gliederung -
 

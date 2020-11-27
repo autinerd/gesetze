@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   GBl DDR I: 1990, 1466
 
-
-
 ## Eingangsformel
 
 Zur zügigen Reorganisation des volkseigenen Vermögens und seiner
@@ -25,7 +23,6 @@ nach Maßgabe des § 1 Abs. 2 und § 24 Abs. 4 des Gesetzes zur
 Privatisierung und Reorganisation des volkseigenen Vermögens
 (Treuhandgesetz) vom 17. Juni 1990 (GBl. I Nr. 33 S. 300) folgendes
 verordnet:
-
 
 ## § 1
 
@@ -38,7 +35,6 @@ Wirtschaftseinheiten (nachstehend Wirtschaftseinheiten genannt).
 Rechtsträger die Deutsche Post mit ihren Generaldirektionen, die
 Deutsche Reichsbahn, die Verwaltung von Wasserstraßen, die Verwaltung
 des öffentlichen Straßennetzes und andere Staatsunternehmen sind.
-
 
 ## § 2
 
@@ -53,12 +49,10 @@ in Rechtsträgerschaft und auf Grundlage eines unbefristeten
 Nutzungsvertrages bewirtschaftet werden, gelten zum 30. Juni 1990 in
 dem Umfang, der im Nutzungsvertrag bezeichnet ist, als geteilt.
 
-
 ## § 3
 
 Rechte nach § 2 erlöschen, wenn der Nutzer sie nicht bis zum 31.
 Dezember 1990 dem bisherigen Rechtsträger angezeigt hat.
-
 
 ## § 4
 
@@ -100,19 +94,16 @@ vermessen und die Vermessungsergebnisse in die
 Liegenschaftsdokumentation, einschließlich Grundbuch, übernommen
 werden.
 
-
 ## § 5
 
 Streitigkeiten werden bei Unternehmen, an denen die Treuhandanstalt
 beteiligt ist, durch die Treuhandanstalt geschlichtet. Der Gerichtsweg
 wird dadurch nicht berührt.
 
-
 ## § 6
 
 Diese Durchführungsverordnung tritt mit ihrer Veröffentlichung in
 Kraft.
-
 
 ## Schlußformel
 

@@ -18,14 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 15 Abs. 92 G v. 5.2.2009 I 160
 
-
 ## Erster Abschnitt
 
-
-
 ### I. - Allgemeines
-
-
 
 #### § 1
 
@@ -40,14 +35,9 @@ Angestelltenversicherungsgesetz in der Fassung vom 28. Mai 1924
 (Reichsgesetzbl. I S. 563) und den zu seiner Ergänzung, Änderung und
 Durchführung erlassenen Vorschriften durch.
 
-
 #### (XXXX) §§ 2 bis 6 (weggefallen)
 
-
-
 ### IV. - Satzung
-
-
 
 #### § 7
 
@@ -60,7 +50,6 @@ Satzung zu beschließen. Kommt kein Beschluß zustande oder wird auch
 die neue Satzung nicht genehmigt, so kann der Bundesminister für
 Arbeit die Satzung erlassen und auf Kosten der
 Bundesversicherungsanstalt durchführen.
-
 
 #### § 8
 
@@ -97,10 +86,7 @@ Die Satzung muß Bestimmungen enthalten über
 
 10\.
 
-
 ### V. - Beamte, Angestellte, Arbeiter
-
-
 
 #### § 9
 
@@ -112,7 +98,6 @@ privatrechtlichen Dienstvertrages angestellt sind.
 als sie für eine Tätigkeit zur Erfüllung hoheitsrechtlicher Aufgaben
 erforderlich sind. §§ 15 und 16 bleiben unberührt.
 
-
 #### § 10
 
 (1) Die Beamten der Bundesversicherungsanstalt sind Bundesbeamte.
@@ -123,7 +108,6 @@ Soziales, für die übrigen Beamten der Vorstand der
 Bundesversicherungsanstalt. Der Vorstand kann seine Befugnisse auf die
 Geschäftsführung übertragen. § 144 Abs. 1 des Bundesbeamtengesetzes
 und § 83 Abs. 1 des Bundesdisziplinargesetzes bleiben unberührt.
-
 
 #### § 11
 
@@ -138,23 +122,15 @@ Vorstand übertragen. Soweit die Ernennungsbefugnis auf den Vorstand
 übertragen wird, bestimmt die Satzung, durch wen die Ernennungsurkunde
 zu vollziehen ist.
 
-
 #### (XXXX) §§ 12 bis 14 (weggefallen)
-
-
 
 ## Zweiter Abschnitt - Übergangsvorschriften
 
-
-
 ### I. - Beamte, Angestellte, Arbeiter
-
-
 
 #### § 15
 
 (weggefallen)
-
 
 #### § 16
 
@@ -206,7 +182,6 @@ insbesondere Wartegeld, Ruhegehalt und Hinterbliebenenbezüge.
 
 (5) ...
 
-
 #### § 17
 
 Die Bundesversicherungsanstalt ist "entsprechende Einrichtung" im
@@ -216,7 +191,6 @@ unter Artikel 131 des Grundgesetzes fallenden Personen vom 11. Mai
 Reichsversicherungsanstalt für Angestellte (Nummer 11 der Anlage A zu
 § 2 Abs. 1 des vorbezeichneten Gesetzes). Die oberste Dienstbehörde
 bestimmt sich nach § 10 Abs. 2.
-
 
 #### § 18
 
@@ -249,10 +223,7 @@ bestimmten Zeitpunkt nach der für sie bisher maßgebenden Lohngruppe in
 den Dienst der Bundesversicherungsanstalt.              Die Absätze 2
 und 3 gelten entsprechend.
 
-
 ### II. - Vermögen
-
-
 
 #### § 19
 
@@ -285,7 +256,6 @@ Träger der Rentenversicherung der Angestellten Erstattungsansprüche
 zustehen, gehen diese Verbindlichkeiten und Rechte auf die
 Bundesversicherungsanstalt über.
 
-
 #### § 20
 
 (1) Die Wirksamkeit von rechtsgeschäftlichen Verfügungen, die über
@@ -295,7 +265,6 @@ bleibt unberührt.
 
 (2) Dingliche Rechte an Grundstücken und sonstigen Sachen und Rechten,
 die unter § 19 Abs. 1 und 2 fallen, bleiben bestehen.
-
 
 #### § 21
 
@@ -308,13 +277,11 @@ tritt die Bundesversicherungsanstalt ein. ...
 
 (2)
 
-
 #### § 22
 
 Auf Verlangen ist der Bundesversicherungsanstalt Auskunft über
 Vermögensverhältnisse der in §§ 19 und 20 bezeichneten Art zu erteilen
 sowie Einsicht in Akten und Unterlagen zu gewähren.
-
 
 #### § 23
 
@@ -325,7 +292,6 @@ Schiedsgericht besteht aus einem Vorsitzenden und zwei Beisitzern, von
 denen jede Partei einen ernennt. Den Vorsitzenden bestimmt das
 Bundesministerium der Justiz. Für das Verfahren finden die
 Vorschriften der Zivilprozeßordnung entsprechende Anwendung.
-
 
 #### § 24
 
@@ -343,30 +309,21 @@ die "Bundesversicherungsanstalt für Angestellte, Körperschaft des
 (2) Dies gilt für sonstige im Grundbuch eingetragene Rechte
 entsprechend.
 
-
 #### § 25
 
 Gerichtsgebühren und andere Abgaben, die aus Anlaß und in Durchführung
 der Vorschriften der §§ 19 bis 24 entstehen, werden nicht erhoben.
 Bare Auslagen bleiben außer Ansatz.
 
-
 ### III. - Treuhandschaften
-
-
 
 #### (XXXX) §§ 26 u. 27
 
-
-
 ## Dritter Abschnitt - Schlußvorschriften
-
-
 
 ### § 28
 
 -
-
 
 ### § 29
 
@@ -386,16 +343,13 @@ Rheinprovinz für Angelegenheiten der Angestelltenversicherung
 zuständig ist, tritt unbeschadet der Vorschrift des Absatzes 1 an ihre
 Stelle die Bundesversicherungsanstalt.
 
-
 ### § 30
 
 -
 
-
 ### § 31
 
 (weggefallen)
-
 
 ### § 32
 
@@ -403,7 +357,6 @@ Soweit in anderen Gesetzen auf Vorschriften oder Bezeichnungen
 verwiesen wird, die durch dieses Gesetz aufgehoben oder geändert
 werden, treten an deren Stelle die entsprechenden Vorschriften oder
 die Bezeichnungen dieses Gesetzes.
-
 
 ### § 33
 
@@ -413,7 +366,6 @@ die Stellung des Landes Berlin im Finanzsystem des Bundes (Drittes
 im Land Berlin.
 
 (2)
-
 
 ### § 34
 

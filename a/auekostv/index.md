@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 94 G v. 23.12.2003 I 2848
 
-
 ## Eingangsformel
 
 Auf Grund des durch Artikel 1 Nr. 1 des Gesetzes vom 15. Dezember 1981
@@ -28,13 +27,11 @@ in Verbindung mit dem Zweiten Abschnitt des Verwaltungskostengesetzes
 vom 23. Juni 1970 (BGBl. I S. 821) verordnet die Bundesregierung mit
 Zustimmung des Bundesrates:
 
-
 ## § 1 Kostenpflichtige Amtshandlungen
 
 Die Bundesagentur für Arbeit erhebt für die Erteilung und Verlängerung
 der Erlaubnis nach Artikel 1 § 1 des Arbeitnehmerüberlassungsgesetzes
 Gebühren nach § 2 und Auslagen nach § 3 dieser Verordnung.
-
 
 ## § 2 Höhe der Gebühren
 
@@ -73,20 +70,14 @@ Die Gebühr beträgt für die
 
     *   2.000 Euro.
 
-
-
-
-
 ## § 3 Auslagen
 
 Als Auslagen werden die in § 10 Abs. 1 Nr. 2 bis 4 des
 Verwaltungskostengesetzes bezeichneten Aufwendungen erhoben.
 
-
 ## § 4
 
 (weggefallen)
-
 
 ## § 5 Inkrafttreten
 

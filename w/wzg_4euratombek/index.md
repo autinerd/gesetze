@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1964, 288
 
-
-
 ## (XXXX)
 
 Auf Grund des § 4 Abs. 2 Nr. 3a des Warenzeichengesetzes in der
@@ -25,11 +23,9 @@ bekanntgemacht, daß die in der Anlage wiedergegebenen Bezeichnungen
 der Europäischen Atomgemeinschaft (EURATOM) von der Eintragung als
 Warenzeichen ausgeschlossen sind.
 
-
 ## Schlussformel
 
 Der Bundesminister der Justiz
-
 
 ## Anlage Bezeichnungen der Europäischen Atomgemeinschaft (EURATOM)
 

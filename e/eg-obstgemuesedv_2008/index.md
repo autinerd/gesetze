@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 7.12.2011 I 2630
 
-
 ## Eingangsformel
 
 Auf Grund des § 6 Abs. 1 Nr. 1 Buchstabe s in Verbindung mit Abs. 4
@@ -34,9 +33,7 @@ mit § 1 Abs. 2 des Zuständigkeitsanpassungsgesetzes vom 16. August
 Landwirtschaft und Verbraucherschutz im Einvernehmen mit den
 Bundesministerien der Finanzen und für Wirtschaft und Technologie:
 
-
 ## Abschnitt 1 - Allgemeines
-
 
 ### § 1 Anwendungsbereich
 
@@ -46,7 +43,6 @@ im Rahmen der gemeinsamen Organisation der Agrarmärkte bei Obst und
 Gemüse hinsichtlich der Erzeugerorganisationen und deren
 Vereinigungen, der Erzeugergruppierungen, der Betriebsfonds und der
 operationellen Programme.
-
 
 ### § 2 Zuständigkeit
 
@@ -73,16 +69,13 @@ der Vereinigungen von Erzeugerorganisationen ihren Sitz haben.
 § 1 genannten Rechtsakte die nach Landesrecht zuständigen Stellen
 zuständig.
 
-
 ## Abschnitt 2 - Anerkennung von Erzeugerorganisationen und von Vereinigungen von Erzeugerorganisationen
-
 
 ### § 3 Rechtsform von Erzeugerorganisationen
 
 Als Erzeugerorganisation können alle juristischen Personen des
 privaten Rechts sowie Personengesellschaften anerkannt werden, die die
 gemeinschaftsrechtlichen Anforderungen erfüllen.
-
 
 ### § 4 Mindestgröße
 
@@ -148,7 +141,6 @@ Rechtsverordnung
 unverzüglich dem Bundesministerium für Ernährung, Landwirtschaft und
 Verbraucherschutz und den anderen Ländern mit.
 
-
 ### § 5 Mitgliedschaft von Nichterzeugern
 
 (1) Mitglied einer Erzeugerorganisation kann auch sein:
@@ -180,7 +172,6 @@ bezüglich des Betriebsfonds ausgeschlossen sind.
 (2) Natürliche oder juristische Personen, die ausschließlich
 gewerblichen Handel mit Obst und Gemüse betreiben, können nicht
 Mitglied einer Erzeugerorganisation sein.
-
 
 ### § 6 Stimmrechte und Geschäftsanteile
 
@@ -215,14 +206,12 @@ die Geschäftsanteile der juristischen Person denjenigen ihrer
 Anteilseigner im Verhältnis zu den jeweils gehaltenen Anteilen
 zugerechnet.
 
-
 ### § 7 Kündigung der Mitgliedschaft
 
 Eine Erzeugerorganisation kann nur anerkannt werden, wenn durch ihre
 Satzung sichergestellt ist, dass die Frist für die Kündigung der
 Mitgliedschaft längstens sechs Monate zum Ende eines Geschäftsjahres
 beträgt.
-
 
 ### § 8 Direktvermarktung
 
@@ -232,7 +221,6 @@ der Verordnung (EG) Nr. 1234/2007 bei entsprechender Zustimmung durch
 die Erzeugerorganisation direkt an den Verbraucher für seinen
 persönlichen Bedarf abgegeben werden kann, darf 25 Prozent nicht
 überschreiten.
-
 
 ### § 8a Auslagerung nach Artikel 125d der Verordnung (EG) Nr. 1234/2007
 
@@ -246,7 +234,6 @@ Verordnung (EG) Nr. 1234/2007 des Rates für die Sektoren Obst und
 Gemüse und Verarbeitungserzeugnisse aus Obst und Gemüse (ABl. L 157
 vom 15.6.2011, S. 1) in der jeweils geltenden Fassung unter den dort
 genannten Bedingungen auslagern.
-
 
 ### § 9 Mitgliedschaft von Nichterzeugerorganisationen in Vereinigungen von Erzeugerorganisationen
 
@@ -270,9 +257,7 @@ vorsehen, dass Mitglieder, die keine anerkannten
 Erzeugerorganisationen sind, von den Entscheidungen bezüglich der
 operationellen Programme ausgeschlossen sind.
 
-
 ## Abschnitt 3 - Betriebsfonds und operationelle Programme
-
 
 ### § 10 Wert der vermarkteten Erzeugung
 
@@ -300,7 +285,6 @@ Buchstabe b der Durchführungsverordnung (EU) Nr. 543/2011 wird um die
 Transportkosten verringert, die für den über 1 000 km hinausgehenden
 Transport tatsächlich aufgewendet worden sind.
 
-
 ### § 11 Betriebsfonds
 
 (1) Die Erzeugerorganisation verwaltet den Betriebsfonds über eine
@@ -326,7 +310,6 @@ entspricht. Der schriftliche Bericht über die Prüfung und die
 Bestätigung der Prüfungseinrichtung ist der zuständigen Stelle durch
 die Erzeugerorganisation unverzüglich nach Abschluss der Prüfung
 vorzulegen.
-
 
 ### § 12 Operationelle Programme
 
@@ -377,20 +360,17 @@ tragen.
 
 (8) (weggefallen)
 
-
 ### § 13 Operationelle Programme der Vereinigungen von Erzeugerorganisationen
 
 Eine Vereinigung von Erzeugerorganisationen kann ein operationelles
 Programm oder Teilprogramm nach Artikel 62 der Durchführungsverordnung
 (EU) Nr. 543/2011 vorlegen.
 
-
 ### § 14 Zahlung der Beihilfe
 
 Die zuständigen Stellen zahlen die beantragte Beihilfe bis spätestens
 31\. August des Jahres, das auf das Durchführungsjahr folgt, an die
 Erzeugerorganisationen aus.
-
 
 ### § 15 Vorschusszahlungen und Teilzahlungen
 
@@ -410,7 +390,6 @@ Vorschüsse beizufügen.
 (4) Der letzte Antrag auf Teilzahlung muss spätestens im Monat Oktober
 des betreffenden Durchführungsjahres des operationellen Programms
 gestellt werden.
-
 
 ### § 16 Krisenprävention und Krisenmanagement
 
@@ -436,16 +415,13 @@ Krisenprävention und zum Krisenmanagement können unter den in der
 nationalen Strategie nach Artikel 103f der Verordnung (EG) Nr.
 1234/2007 festgelegten Bedingungen durchgeführt werden.
 
-
 ### § 16a Berücksichtigungsfähigkeit von Rechnungen
 
 Rechnungen nach Artikel 105 Absatz 3 der Durchführungsverordnung (EU)
 Nr. 543/2011 können auch auf den Namen eines oder mehrerer Mitglieder
 der Erzeugerorganisation ausgestellt sein.
 
-
 ## Abschnitt 4 - Duldungs-, Mitwirkungs- und Mitteilungspflichten
-
 
 ### § 17 Duldungs- und Mitwirkungspflichten
 
@@ -467,7 +443,6 @@ Aufbewahrungspflichten bestehen, sind die nach dieser Verordnung und
 den in § 1 genannten Rechtsakten vorgeschriebenen Unterlagen,
 Aufzeichnungen, Belege oder Bücher für die Dauer von sieben Jahren
 nach Abschluss des operationellen Programms aufzubewahren.
-
 
 ### § 18 Mitteilungspflichten
 
@@ -495,9 +470,7 @@ haben, teilen der für ihre Anerkennung zuständigen Stelle bis zum 31.
 Januar eines jeden Jahres den Wert ihrer vermarkteten Erzeugung des
 Vorjahres mit.
 
-
 ## Abschnitt 5 - Schlussbestimmungen
-
 
 ### § 19 Muster und Formulare
 
@@ -506,20 +479,15 @@ bekannt geben oder Formulare, auch in elektronischer Form,
 bereithalten. Soweit die zuständigen Stellen Muster bekannt geben oder
 Formulare bereithalten, sind diese zu verwenden.
 
-
 ### § 20 (weggefallen)
-
-
 
 ### § 21 Aufheben von Vorschriften
 
 -
 
-
 ### § 22 Inkrafttreten
 
 Diese Verordnung tritt am 1. Juli 2008 in Kraft.
-
 
 ### Schlussformel
 

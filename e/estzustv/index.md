@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 3
 
-
 ## Eingangsformel
 
 Auf Grund des § 19 Abs. 6 Satz 1 und 2 der Abgabenordnung in der
@@ -23,7 +22,6 @@ Fassung der Bekanntmachung vom 1. Oktober 2002 (BGBl. I S. 3866, 2003
 I S. 61), der zuletzt durch Artikel 10 Nr. 3 des Gesetzes vom 19.
 Dezember 2008 (BGBl. I S. 2794) geändert worden ist, verordnet das
 Bundesministerium der Finanzen:
-
 
 ## § 1 Örtliche Zuständigkeit
 
@@ -35,17 +33,14 @@ Neubrandenburg örtlich zuständig. Das Finanzamt Neubrandenburg ist
 ebenfalls zuständig in den Fällen des § 19 Abs. 6 Satz 2 der
 Abgabenordnung.
 
-
 ## § 2 Anwendungszeitraum
 
 Diese Verordnung ist erstmals für den Veranlagungszeitraum 2005 und
 letztmals für den Veranlagungszeitraum 2013 anzuwenden.
 
-
 ## § 3 Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 2009 in Kraft.
-
 
 ## Schlussformel
 

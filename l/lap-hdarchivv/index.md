@@ -19,8 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 Abs. 32 V v. 12.2.2009 I 320
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 15 Abs. 1 Nr. 2 des Bundesbeamtengesetzes in der
@@ -32,10 +30,7 @@ S. 706) neu gefasst worden ist, verordnet der Beauftragte der
 Bundesregierung für Angelegenheiten der Kultur und der Medien im
 Einvernehmen mit dem Bundesministerium des Innern:
 
-
 ## Kapitel 1 - Laufbahn, Ausbildung und Prüfung
-
-
 
 ### § 1 Laufbahnämter
 
@@ -103,7 +98,6 @@ aus dem Bundesbesoldungsgesetz.
 
 (4) Die Ämter der Laufbahn sind regelmäßig zu durchlaufen.
 
-
 ### § 2 Ziel der Ausbildung
 
 (1) Die Ausbildung führt zur Berufsbefähigung. Sie vermittelt den
@@ -125,7 +119,6 @@ wirtschaftlichen Handeln sowie soziale Kompetenz sind zu fördern.
 weiterzubilden. Sie sind zum Selbststudium verpflichtet; das
 Selbststudium ist zu fördern.
 
-
 ### § 3 Einstellungsbehörden, Ausbildungsbehörden, oberste Dienstbehörden
 
 (1) Einstellungsbehörden sind das Bundesarchiv und die Stiftung
@@ -139,7 +132,6 @@ Bundesregierung für Angelegenheiten der Kultur und der Medien, oberste
 Dienstbehörde für das Geheime Staatsarchiv - Preußischer Kulturbesitz
 ist die Präsidentin oder der Präsident der Stiftung Preußischer
 Kulturbesitz.
-
 
 ### § 4 Einstellungsvoraussetzungen
 
@@ -164,10 +156,6 @@ In den Vorbereitungsdienst kann eingestellt werden, wer
     politischen, wirtschaftlichen, sozialen und kulturellen Fragen der
     Gegenwart vertraut ist und unabhängig von seinem Fachstudium über gute
     Kenntnisse der neueren und neuesten Geschichte verfügt.
-
-
-
-
 
 ### § 5 Einstellungsverfahren
 
@@ -237,10 +225,6 @@ zusätzlich vorzulegen
     ein Führungszeugnis nach § 30 des Bundeszentralregistergesetzes zur
     unmittelbaren Vorlage bei der Einstellungsbehörde.
 
-
-
-
-
 ### § 6 Rechtsstellung während des Vorbereitungsdienstes
 
 (1) Mit ihrer Einstellung werden - unter Berufung in das
@@ -252,7 +236,6 @@ Archivreferendarinnen und Bewerber zu Archivreferendaren ernannt.
 (3) Die Archivreferendarinnen und Archivreferendare unterstehen der
 Dienstaufsicht der Einstellungsbehörde. Während der Ausbildung bei der
 Archivschule Marburg unterstehen sie auch deren Dienstaufsicht.
-
 
 ### § 7 Dauer, Verkürzung und Verlängerung des Vorbereitungsdienstes
 
@@ -297,7 +280,6 @@ werden, dass die Laufbahnprüfung zum nächstmöglichen Zeitpunkt
 abgelegt werden kann. Die Entscheidung trifft die oberste
 Dienstbehörde.
 
-
 ### § 8 Schwerbehinderte Menschen
 
 (1) Schwerbehinderten Menschen werden für die Erbringung von
@@ -313,7 +295,6 @@ Buches Sozialgesetzbuch fallen, angewandt.
 
 (2) Die Schwerbehindertenvertretung wird nicht beteiligt, wenn der
 schwerbehinderte Mensch eine Beteiligung ablehnt.
-
 
 ### § 9 Ziel und Ablauf der praktischen Ausbildung
 
@@ -383,7 +364,6 @@ zur Kenntnis zu geben und auf Antrag in Durchschrift auszuhändigen.
 Die Note der praktischen Ausbildung ist der Archivschule Marburg zu
 den Prüfungsakten zu übermitteln.
 
-
 ### § 10 Gegenstand der praktischen Ausbildung
 
 Die praktische Ausbildung erstreckt sich auf folgende
@@ -409,10 +389,6 @@ Ausbildungsfächer:
 
 6.  Übungen zur archivalischen Quellenkunde einschließlich audiovisueller
     Überlieferungen.
-
-
-
-
 
 ### § 11 Bewertung der Leistungen während der praktischen Ausbildung
 
@@ -463,10 +439,6 @@ bewertet:
 
 *    *   Zwischenpunktzahlen und Zwischennoten sind nicht zulässig.
 
-
-
-
-
 ### § 12 Theoretische Ausbildung
 
 (1) Die theoretische Ausbildung wird an der Archivschule Marburg
@@ -476,7 +448,6 @@ einen Monat dauernde Prüfungsphase.
 (2) Die Gegenstände der theoretischen Ausbildung richten sich nach der
 Ausbildungs- und Prüfungsordnung für den höheren Archivdienst im Lande
 Hessen vom 23. Mai 1997 (Staatsanzeiger für das Land Hessen S. 1868).
-
 
 ### § 13 Laufbahnprüfung
 
@@ -493,10 +464,7 @@ enden mit dem Tag der schriftlichen Bekanntgabe des endgültigen
 Prüfungsergebnisses. Ein Anspruch auf Übernahme in das
 Beamtenverhältnis auf Probe besteht nicht.
 
-
 ## Kapitel 2 - Regelaufstieg
-
-
 
 ### § 14 Zulassung
 
@@ -518,7 +486,6 @@ Staatsarchiv - Preußischer Kulturbesitz von einer unabhängigen
 Auswahlkommission durchgeführt. Die Richtlinien für das
 Auswahlverfahren erlassen die obersten Dienstbehörden.
 
-
 ### § 15 Einführung
 
 (1) Die Aufstiegsbeamtinnen und Aufstiegsbeamten nehmen gemeinsam mit
@@ -533,17 +500,13 @@ entspricht der Laufbahnprüfung. § 13 Abs. 1 gilt entsprechend. An die
 Stelle der in § 13 Abs. 2 vorgesehenen Beendigung des
 Beamtenverhältnisses tritt der Ausschluss von der weiteren Einführung.
 
-
 ### § 16 Rechtsstellung nach bestandener Aufstiegsprüfung
 
 Nach bestandener Aufstiegsprüfung bleiben die Beamtinnen und Beamten
 bis zur Verleihung des Eingangsamtes der neuen Laufbahn in ihrer
 bisherigen Rechtsstellung.
 
-
 ## Kapitel 3 - Sonstige Vorschriften
-
-
 
 ### § 17 Übergangsregelung
 
@@ -551,7 +514,6 @@ Für Archivreferendarinnen und Archivreferendare sowie
 Aufstiegsbeamtinnen und Aufstiegsbeamte, die sich zum Zeitpunkt des
 Inkrafttretens dieser Verordnung in der Ausbildung befinden, gelten
 die bisherigen Vorschriften fort.
-
 
 ### § 18 Inkrafttreten
 

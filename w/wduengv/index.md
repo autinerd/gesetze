@@ -23,7 +23,6 @@ Fundstelle
     zuletzt durch die Richtlinie 2006/96/EG (ABl. L 363 vom 20.12.2006, S.
     81) geändert worden ist, sind beachtet worden.
 
-
 ## Eingangsformel
 
 Auf Grund des § 4, auch in Verbindung mit § 15 Absatz 6 Satz 1, des
@@ -31,7 +30,6 @@ Düngegesetzes vom 9. Januar 2009 (BGBl. I S. 54, 136), von denen § 4
 durch Artikel 2 des Gesetzes vom 31. Juli 2009 (BGBl. I S. 2539)
 geändert worden ist, verordnet das Bundesministerium für Ernährung,
 Landwirtschaft und Verbraucherschutz:
-
 
 ## § 1 Geltungsbereich
 
@@ -85,10 +83,6 @@ bei der Übernahme der in Satz 1 Nummer 1 genannten Stoffe,
 4.  soweit diese in Verpackungen kleiner als 50 Kilogramm an nicht
     gewerbsmäßige Endverbraucher in den Verkehr gebracht werden.
 
-
-
-
-
 ## § 2 Begriffsbestimmungen
 
 Im Sinne dieser Verordnung sind
@@ -110,7 +104,6 @@ Im Sinne dieser Verordnung sind
 Eine Übernahme im Sinne des Satzes 1 Nummer 3 liegt auch vor, soweit
 ein in § 1 Satz 1 Nummer 1 genannter Stoff im Auftrag des Empfängers
 unmittelbar durch Dritte auf Flächen des Empfängers aufgebracht wird.
-
 
 ## § 3 Aufzeichnungspflicht
 
@@ -156,7 +149,6 @@ drei Jahre ab dem Datum der Abgabe aufzubewahren. Der
 Aufzeichnungspflichtige hat die Aufzeichnungen der zuständigen Stelle
 auf Verlangen vorzulegen.
 
-
 ## § 4 Meldepflicht
 
 Werden Stoffe nach § 1 Satz 1 Nummer 1 in ein Land verbracht, so hat
@@ -165,7 +157,6 @@ vorangegangene Jahr der für seinen Betriebssitz zuständigen Behörde
 unter Angabe der Abgeber mit deren jeweiligen Namen und Anschrift,
 Datum oder Zeitraum der Abnahme und der Menge in Tonnen Frischmasse zu
 melden.
-
 
 ## § 5 Mitteilungspflicht
 
@@ -178,7 +169,6 @@ Nummer 1 zum Zwecke der Düngung ins Inland verbringt. Abgeber, die
 zuständigen Behörde des Landes anzuzeigen, in das sie zum ersten Mal
 abgeben.
 
-
 ## § 6 Ergänzende Landesregelungen
 
 Den Landesregierungen wird die Befugnis übertragen, durch
@@ -188,7 +178,6 @@ Inverkehrbringens und der Übernahme von Wirtschaftsdüngern sowie von
 Stoffen, die als Ausgangsstoff oder Bestandteil Wirtschaftsdünger
 enthalten, zu treffen, soweit dies zur Überwachung der Einhaltung der
 düngerechtlichen Vorschriften erforderlich ist.
-
 
 ## § 7 Ordnungswidrigkeiten
 
@@ -214,14 +203,9 @@ Düngegesetzes handelt, wer vorsätzlich oder fahrlässig
 5.  entgegen § 5 eine Mitteilung nicht, nicht richtig, nicht vollständig
     oder nicht rechtzeitig macht.
 
-
-
-
-
 ## § 8 Inkrafttreten
 
 Diese Verordnung tritt am 1. September 2010 in Kraft.
-
 
 ## Schlussformel
 

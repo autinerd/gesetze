@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 228
 
-
 ## Eingangsformel
 
 Auf Grund des § 27 Absatz 3 in Verbindung mit Absatz 1 und 2 des
@@ -26,7 +25,6 @@ geändert worden ist, verordnet das Bundesministerium für Ernährung,
 Landwirtschaft und Verbraucherschutz im Einvernehmen mit dem
 Bundesministerium für Bildung und Forschung nach Anhörung des
 Hauptausschusses des Bundesinstituts für Berufsbildung:
-
 
 ## § 1 Mindestanforderungen an die Einrichtung und den Bewirtschaftungszustand
 
@@ -91,7 +89,6 @@ werden, die zeitgemäß beschaffen und ausgestattet ist.
 Inhabers oder der Inhaberin ein Insolvenz- oder Vergleichsverfahren
 eröffnet worden ist.
 
-
 ## § 2 Fachrichtungsspezifische Anforderungen
 
 (1) Die Ausbildungsstätte in der Fachrichtung Pferdehaltung und
@@ -151,7 +148,6 @@ Meter sowie einen Außenplatz mit einer Fläche von mindestens 20 Meter
 mal 40 Meter oder eine Ovalbahn verfügen. Ganzjährig nutzbare
 Auslaufflächen und Bewegungsplätze müssen vorhanden sein.
 
-
 ## § 3 Ausnahmeregelung
 
 Eine Ausbildungsstätte, in der die erforderlichen beruflichen
@@ -161,7 +157,6 @@ gilt als geeignet, wenn sichergestellt ist, dass diese durch
 Ausbildungsmaßnahmen außerhalb der Ausbildungsstätte in einer anderen
 anerkannten Ausbildungsstätte, in Form von Ausbildungsverbünden oder
 in Form überbetrieblicher Ausbildung vermittelt werden können.
-
 
 ## § 4 Inkrafttreten, Außerkrafttreten
 

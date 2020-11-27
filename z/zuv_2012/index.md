@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 11 G v. 21.7.2011 I 1475
 
-
 ## Eingangsformel
 
 Auf Grund
@@ -37,9 +36,7 @@ Auf Grund
 
 verordnet die Bundesregierung:
 
-
 ## Abschnitt 1 - Allgemeine Vorschriften
-
 
 ### § 1 Anwendungsbereich und Zweck
 
@@ -56,7 +53,6 @@ zuletzt durch Artikel 9 des Gesetzes vom 11. August 2010 (BGBl. I S.
 beizubringenden Nachweise sowie deren Überprüfung. Soweit nichts
 anderes bestimmt ist, findet die Zuteilungsverordnung 2007 keine
 Anwendung.
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -114,10 +110,6 @@ Im Sinne dieser Verordnung sind:
     Braunkohle oder Steinkohle aus der Koksofenkammer austretende
     Gasgemisch.
 
-
-
-
-
 ### § 3 Allgemeine Anforderungen an die Zuteilungsanträge
 
 (1) Soweit die Vorschriften der Abschnitte 2 und 3 keine abweichenden
@@ -147,9 +139,7 @@ Angaben nachvollziehbar darzustellen. Der Betreiber ist verpflichtet,
 die den Angaben zugrunde liegenden Einzelnachweise auf Verlangen der
 zuständigen Behörde vorzuweisen.
 
-
 ## Abschnitt 2 - Allgemeine Regeln zur Bestimmung der Kohlendioxid-Emissionen
-
 
 ### § 4 Nutzung einheitlicher Stoffwerte
 
@@ -161,7 +151,6 @@ Kohlenstoffgehalte festgelegt sind, auf Grundlage dieser Werte.
 
 (2) Bei Verbrennungsprozessen ist ein Oxidationsfaktor von eins
 zugrunde zu legen.
-
 
 ### § 5 Bestimmung von Emissionsfaktoren, unteren Heizwerten und Kohlenstoffgehalten
 
@@ -205,7 +194,6 @@ durch Multiplikation mit dem Quotienten aus 44 und zwölf. Dabei ist
 der Kohlenstoffgehalt nach den allgemein anerkannten Regeln der
 Technik zu bestimmen. Eine unvollständige Umsetzung bleibt bei der
 Bestimmung des Emissionsfaktors unberücksichtigt.
-
 
 ### § 6 Bestimmung der Kohlendioxid-Emissionen
 
@@ -292,10 +280,6 @@ Angaben enthalten über:
 7.  die Anteile des biogenen Kohlenstoffs am Gesamtkohlenstoffgehalt der
     Brenn- und Rohstoffe.
 
-
-
-
-
 ### § 7 Emissionsberechnung auf der Grundlage einer Bilanzierung des Kohlenstoffgehalts
 
 (1) Abweichend von § 6 kann die Ermittlung der Kohlendioxid-Emissionen
@@ -324,10 +308,6 @@ der Zuteilungsantrag Angaben enthalten über:
 
 4.  die Anteile des biogenen Kohlenstoffs am Gesamtkohlenstoffgehalt der
     Brenn- und Rohstoffe und der Produkte.
-
-
-
-
 
 ### § 8 Messung der Kohlendioxid-Emissionen
 
@@ -373,12 +353,7 @@ Zuteilungsantrag die nach Absatz 1 erforderlichen Angaben enthalten
 5.  im Fall des Absatzes 1 Satz 2 die technische Unmöglichkeit oder den
     unverhältnismäßigen Mehraufwand einer Bestimmung nach den §§ 6 und 7.
 
-
-
-
-
 ## Abschnitt 3 - Besondere Antragserfordernisse und Regel der Berechnung der Kohlendioxid-Emissionen
-
 
 ### § 9 Kohlendioxid-Emissionen aus der Regeneration von Katalysatoren und aus der Kalzinierung von Petrolkoks
 
@@ -427,7 +402,6 @@ Für die Ermittlung der Kohlendioxid-Emissionen nach Absatz 1 Satz 1
 Nr. 3 muss der Zuteilungsantrag Angaben enthalten über die gesamten
 direkt ermittelten jährlichen Kohlendioxid-Emissionen in Tonnen.
 
-
 ### § 10 Ermittlung der Produktionsmenge
 
 (1) Produktionsmengen sind nach den anerkannten Regeln der Technik mit
@@ -450,7 +424,6 @@ zuletzt durch Artikel 9 des Gesetzes vom 11. August 2010 (BGBl. I S.
 1163) geändert worden ist, kann zur Ermittlung der Produktionsmenge
 abweichend von Absatz 1 und § 2 Nr. 1 auf die eingesetzte
 Rohstoffmenge abgestellt werden.
-
 
 ### § 11 Bestimmung des Emissionswertes
 
@@ -523,7 +496,6 @@ bleibt bei der Zuteilung für die Produkte anderer Tätigkeiten die
 Produktionsmenge außer Betracht, die zur Herstellung des Produktes der
 Haupttätigkeit verwendet wird.
 
-
 ### § 12 Zuteilung für Industrieanlagen mit Inbetriebnahme bis 31. Dezember 2002
 
 (1) Für die Zuteilung von Berechtigungen nach § 6 Abs. 1 des
@@ -561,7 +533,6 @@ jährlichen Kohlendioxid-Emissionen aus dem rechnerischen Mittel der
 Kohlendioxid-Emissionen pro Jahr in den in Ansatz zu bringenden Jahren
 errechnet. Absatz 2 Satz 2 gilt entsprechend.
 
-
 ### § 13 Zuteilung für Anlagen der Energiewirtschaft mit Inbetriebnahme bis 31. Dezember 2002
 
 (1) Für die Zuteilung von Berechtigungen nach § 7 Abs. 1 des
@@ -594,7 +565,6 @@ Zuteilungsgesetzes 2012 muss der Zuteilungsantrag Angaben enthalten
 
 (2) Bei Anlagen nach § 7 Abs. 4 des Zuteilungsgesetzes 2012 gilt § 12
 Abs. 1 entsprechend.
-
 
 ### § 14 Zuteilung für Anlagen mit Inbetriebnahme in den Jahren 2003 bis 2007
 
@@ -711,7 +681,6 @@ unterschiedliche Emissionswerte nach Anhang 3 des Zuteilungsgesetzes
 2012 oder unterschiedliche Vollbenutzungsstunden nach Anhang 4 des
 Zuteilungsgesetzes 2012 zuzuordnen sind.
 
-
 ### § 15 Zuteilungen für Neuanlagen
 
 (1) Für die Zuteilung von Berechtigungen nach § 9 Abs. 1 des
@@ -792,7 +761,6 @@ unterschiedliche Emissionswerte nach Anhang 3 des Zuteilungsgesetzes
 2012 oder unterschiedliche Vollbenutzungsstunden nach Anhang 4 des
 Zuteilungsgesetzes 2012 zuzuordnen sind.
 
-
 ### § 16 Zuteilung nach § 10 Abs. 6 des Zuteilungsgesetzes 2012
 
 (1) Die Mehrproduktion errechnet sich aus der Differenz der
@@ -839,10 +807,6 @@ enthalten über
 
 7.  die Mehrproduktion je Betriebsjahr.
 
-
-
-
-
 ### § 17 Bestimmung des Effizienzstandards
 
 (1) Der Zuteilungsantrag muss bei Anlagen nach Anhang 1 Nr. I bis V
@@ -859,7 +823,6 @@ Referenzjahr.
 2 des Zuteilungsgesetzes 2012 gelten nicht für die Verwendung von
 Synthesegas aus Kohlevergasung.
 
-
 ### § 18 Frühzeitige Emissionsminderungen
 
 Für die Berechnung frühzeitiger Emissionsminderungen bei Anlagen im
@@ -867,7 +830,6 @@ Sinne von § 6 Abs. 10 des Zuteilungsgesetzes 2012 gilt § 13 Abs. 1 bis
 5 der Zuteilungsverordnung 2007 mit Ausnahme von § 13 Abs. 2 Satz 2
 bis 4 und § 13 Abs. 6 Satz 4 der Zuteilungsverordnung 2007
 entsprechend.
-
 
 ### § 19 Kuppelgas
 
@@ -898,10 +860,7 @@ Emissionshandelsgesetzes vom 8. Juli 2004 (BGBl. I S. 1578), das
 zuletzt durch Artikel 9 des Gesetzes vom 11. August 2010 (BGBl. I S.
 1163) geändert worden ist, unterliegen.
 
-
 ## Abschnitt 4 - Gemeinsame Vorschriften
-
-
 
 ### § 20 Anforderungen an die Verifizierung der Zuteilungsanträge
 
@@ -971,7 +930,6 @@ Brennstoffs oder einer Umsetzung eines Rohstoffs in der Anlage
 zurückzuführen sind. Ferner ist die angegebene Ungenauigkeit der
 Bestimmungsmethode zu bestätigen.
 
-
 ### § 21 Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 19 Abs. 1 Nr. 4 des Treibhausgas-
@@ -980,11 +938,9 @@ zuletzt durch Artikel 9 des Gesetzes vom 11. August 2010 (BGBl. I S.
 1163) geändert worden ist, handelt, wer vorsätzlich oder fahrlässig
 entgegen § 3 Abs. 2 Satz 1 eine Angabe nicht richtig macht.
 
-
 ### § 22 Inkrafttreten
 
 Diese Verordnung tritt am 18. August 2007 in Kraft.
-
 
 ### Anhang 1 (zu den §§ 4 und 5) Einheitliche Stoffwerte für Emissionsfaktoren, Heizwerte und Kohlenstoffgehalte für Brennstoffe, Rohstoffe und Produkte
 
@@ -1515,9 +1471,6 @@ Diese Verordnung tritt am 18. August 2007 in Kraft.
 
     *   Unterer Heizwert des Brennstoffs in GJ/t
 
-
-
-
 ### Anhang 3 (zu § 9) Ermittlung der Kohlendioxid-Emissionen aus der Regeneration von Katalysatoren und aus der Kalzinierung von Petrolkoks
 
 ( Fundstelle: BGBl. I 2007, 1952 )
@@ -1547,8 +1500,6 @@ Diese Verordnung tritt am 18. August 2007 in Kraft.
         Regenerationsprozess in t; im Fall der Kalzinierung gemessener
         Kohlenstoffgehalt des Kokses nach der Kalzinierung in t
 
-
-
 ## Formel 2
 
 ![bgbl1_2007_j1941_0030.jpg](bgbl1_2007_j1941_0030.jpg)
@@ -1574,8 +1525,6 @@ Diese Verordnung tritt am 18. August 2007 in Kraft.
     *   Berechneter Kohlenstoffgehalt des Katalysators unmittelbar nach dem
         Regenerationsprozess in t; im Fall der Kalzinierung berechneter
         Kohlenstoffgehalt des Kokses nach der Kalzinierung in t
-
-
 
 ## Formel 3
 
@@ -1606,8 +1555,6 @@ Diese Verordnung tritt am 18. August 2007 in Kraft.
         Kohlendioxid erfolgt, ist das Kohlenmonoxid in die Rechnung
         einzubeziehen. Dabei wird unterstellt, dass das Kohlenmonoxid
         vollständig zu Kohlendioxid umgesetzt wird.
-
-
 
 ## Formel 4
 
@@ -1640,9 +1587,6 @@ konstantem Inertgasanteil von 79,07 Volumenprozent.
         O2
 
     *   Gemessener Sauerstoffgehalt des trockenen Abgases in Vol-%
-
-
-
 
 ### Anhang 4 (zu § 19) Berechnungsvorschriften für Abzug und Hinzurechnung der Kuppelgasemissionen
 

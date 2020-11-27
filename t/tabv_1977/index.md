@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 28.6.2010 I 851
 
-
 ## Eingangsformel
 
 Auf Grund des § 9 Abs. 1 Nr. 5, des § 20 Abs. 3, des § 21 Abs. 1 Nr. 1
@@ -28,7 +27,6 @@ Bedarfsgegenständegesetzes vom 15. August 1974 (BGBl. I S. 1945, 1946)
 wird im Einvernehmen mit den Bundesministern für Ernährung,
 Landwirtschaft und Forsten und für Wirtschaft mit Zustimmung des
 Bundesrates verordnet:
-
 
 ## § 1
 
@@ -45,7 +43,6 @@ Reinheitsanforderungen sowie den allgemeinen und den sie betreffenden
 besonderen Reinheitsanforderungen der Zusatzstoff-Verkehrsverordnung
 entsprechen.
 
-
 ## § 2
 
 (1) Geruchs- und Geschmacksstoffe, die in Anlage 2 Nr. 1 aufgeführt
@@ -59,7 +56,6 @@ Erzeugnisses verwendet werden.
 
 (3) Die Verwendung von entcumarinisierten Tonkabohnen für Schnupftabak
 (Anlage 1 Nr. 14 Buchstabe b) bleibt unberührt.
-
 
 ## § 3
 
@@ -92,11 +88,9 @@ in leicht lesbarer Schrift anzubringen.
 (7) Abgesehen von den Fällen der Absätze 1 bis 5 ist eine
 Kenntlichmachung der durch § 1 zugelassenen Stoffe nicht erforderlich.
 
-
 ## § 3a
 
 -
-
 
 ## § 3a
 
@@ -129,7 +123,6 @@ Richtlinie 85/591/EWG entsprechen.
 -----
 \*) Zu beziehen durch Beuth-Verlag GmbH, Berlin und Köln.
 
-
 ## § 4
 
 Zigarren dürfen abweichend von § 22 Abs. 2 Satz 1 Nr. 2 des
@@ -137,7 +130,6 @@ Vorläufigen Tabakgesetzes mit der Angabe "naturfarben" oder ähnlichen
 Angaben, die auf eine natürliche Beschaffenheit des Deckblattes
 hinweisen, versehen werden, wenn sie weder gefärbt noch gepudert sind
 und auch keine sonstige Oberflächenbehandlung stattgefunden hat.
-
 
 ## § 5
 
@@ -180,16 +172,11 @@ Gewerbsmäßig dürfen nicht in den Verkehr gebracht werden:
     Gewichtsanteil des Tabaks in der Tabakfolie mindestens 75 vom Hundert
     der Trockenmasse beträgt.
 
-
-
-
-
 ## § 5a
 
 Es ist verboten, Tabakerzeugnisse, die zum anderweitigen oralen
 Gebrauch als Rauchen oder Kauen bestimmt sind, gewerbsmäßig in den
 Verkehr zu bringen.
-
 
 ## § 6
 
@@ -226,14 +213,12 @@ bestraft, wer
 (2) Wer eine in Absatz 1 bezeichnete Handlung fahrlässig begeht,
 handelt nach § 53 Abs. 1 des Vorläufigen Tabakgesetzes ordnungswidrig.
 
-
 ## § 7
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit Artikel 11 des Gesetzes zur Gesamtreform des
 Lebensmittelrechts vom 15. August 1974 (BGBl. I S. 1945) auch im Land
 Berlin.
-
 
 ## § 8
 
@@ -244,11 +229,9 @@ Berlin.
 18\. Juni 2004 hergestellt und bis zum Abbau der Bestände in den
 Verkehr gebracht werden.
 
-
 ## Schlußformel
 
 Der Bundesminister für Jugend, Familie und Gesundheit
-
 
 ## Anlage 1 zu § 1
 
@@ -1631,10 +1614,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   Acetyltributylcitrat bis zu 10 vom Hundert des Erzeugnisses
 
-
-
-
-
 ## Anlage 2 zu § 2 Abs. 1 Verbotene Geruchs- und Geschmacksstoffe
 
 (Fundstelle: BGBl. I 1977, 2837)
@@ -1740,10 +1719,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *   Waldmeister (Asperula odorata)
-
-
-
-
 
 ## Anlage 3 (zu § 3a Abs. 1)
 

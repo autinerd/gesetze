@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 11.10.2012 I 2122
 
-
 ## Eingangsformel
 
 Auf Grund des § 30 Abs. 17 des Bundesversorgungsgesetzes, der durch
@@ -27,7 +26,6 @@ Artikel 1 Nr. 32 Buchstabe i des Gesetzes vom 13. Dezember 2007 (BGBl.
 I S. 2904) eingefügt worden ist, verordnet das Bundesministerium für
 Arbeit und Soziales im Einvernehmen mit dem Bundesministerium der
 Verteidigung:
-
 
 ## § 1 Zweck der Verordnung
 
@@ -39,7 +37,6 @@ Gesundheitsstörung nach § 1 Abs. 3 des Bundesversorgungsgesetzes, die
 Kriterien für die Bewertung der Hilflosigkeit und der Stufen der
 Pflegezulage nach § 35 Abs. 1 des Bundesversorgungsgesetzes und das
 Verfahren für deren Ermittlung und Fortentwicklung.
-
 
 ## § 2 Anlage „Versorgungsmedizinische Grundsätze“
 
@@ -108,23 +105,19 @@ Weisungen, üben ihre Tätigkeit unabhängig und unparteilich aus und
 sind nur ihrem Gewissen verantwortlich. Sie sind zur Verschwiegenheit
 verpflichtet; dies gilt auch für die in Absatz 3 genannten Personen.
 
-
 ## § 4 Beschlüsse
 
 Die Beschlüsse des Beirats werden mit einfacher Mehrheit der
 anwesenden Beiratsmitglieder gefasst. Zur Beschlussfassung ist die
 Anwesenheit von mindestens zwölf Mitgliedern erforderlich.
 
-
 ## § 5 Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2009 in Kraft.
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage zu § 2 der Versorgungsmedizin-Verordnung vom 10. Dezember 2008
 
@@ -487,8 +480,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Gehörlosigkeit (Merkzeichen Gl)
 
     *   116
-
-
 
 ## **Teil A: Allgemeine Grundsätze**
 
@@ -1088,12 +1079,6 @@ Gemeinschaft gemeint ist, wird einheitlich die Abkürzung GdS benutzt.
         zugrunde lag, gebessert oder ganz zurückgebildet hat, das Leidensbild
         jedoch aufgrund neuer Ursachen bestehen geblieben ist („Verschiebung
         der Wesensgrundlage").
-
-
-
-
-
-
 
 ## **Teil B: GdS-Tabelle**
 
@@ -14279,12 +14264,6 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
         *   80
 
-
-
-
-
-
-
 ## **Teil C: Begutachtung im sozialen Entschädigungsrecht**
 
 
@@ -14956,12 +14935,6 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         Pflegezulage nach Stufe V oder VI zusteht. Hochgradig Sehbehinderte
         erfüllen grundsätzlich die Voraussetzungen für die Gewährung einer
         Pflegezulage nach Stufe I.
-
-
-
-
-
-
 
 ## **Teil D: Merkzeichen**
 

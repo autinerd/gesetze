@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1997, 217
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
@@ -28,13 +26,11 @@ Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975
 Einvernehmen mit dem Bundesministerium für Bildung, Wissenschaft,
 Forschung und Technologie:
 
-
 ## § 1 Staatliche Anerkennung der Ausbildungsberufe im Rahmen einer Stufenausbildung
 
 Der Ausbildungsberuf Isolierfacharbeiter/Isolierfacharbeiterin sowie
 der darauf aufbauende Ausbildungsberuf Industrie-Isolierer/Industrie-
 Isoliererin werden staatlich anerkannt.
-
 
 ## § 2 Ausbildungsdauer
 
@@ -46,7 +42,6 @@ Isolierfacharbeiter/Isolierfacharbeiterin dauert 24 Monate. In der
 darauf aufbauenden zweiten Stufe zum Ausbildungsberuf Industrie-
 Isolierer/Industrie-Isoliererin dauert die Ausbildung weitere 12
 Monate.
-
 
 ## § 3 Gliederung der Berufsausbildung
 
@@ -78,7 +73,6 @@ zu vermitteln.
 
 (3) Der Urlaub ist jeweils auf die Dauer der Berufsausbildung in der
 betrieblichen Ausbildungsstätte anzurechnen.
-
 
 ## § 4 Ausbildungsberufsbild Isolierfacharbeiter/Isolierfacharbeiterin
 
@@ -127,10 +121,6 @@ Fertigkeiten und Kenntnisse:
 
 14. Instandhalten von Werkzeugen und Geräten.
 
-
-
-
-
 ## § 5 Ausbildungsberufsbild Industrie-Isolierer/Industrie-Isoliererin
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
@@ -171,10 +161,6 @@ Fertigkeiten und Kenntnisse:
 11. Feststellen von Störungen an Maschinen und Geräten, Veranlassen von
     Reparaturen.
 
-
-
-
-
 ## § 6 Ausbildungsrahmenpläne
 
 (1) Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der
@@ -193,12 +179,10 @@ Planen, Durchführen und Kontrollieren an seinem Arbeitsplatz
 einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 9
 bis 11 nachzuweisen.
 
-
 ## § 7 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 8 Berichtsheft
 
@@ -206,7 +190,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 9 Zwischenprüfung
 
@@ -269,7 +252,6 @@ beziehen sollen, aus folgenden Gebieten schriftlich lösen:
 (6) Die in Absatz 5 genannte Prüfungsdauer kann insbesondere
 unterschritten werden, soweit die schriftliche Prüfung in
 programmierter Form durchgeführt wird.
-
 
 ## § 10 Abschlußprüfung für den Ausbildungsberuf Isolierfacharbeiter/Isolierfacharbeiterin
 
@@ -435,7 +417,6 @@ Gewicht.
 schriftlichen Prüfung sowie innerhalb der schriftlichen Prüfung im
 Prüfungsfach Technologie mindestens ausreichende Leistungen erbracht
 worden sind.
-
 
 ## § 11 Abschlußprüfung für den Ausbildungsberuf Industrie-Isolierer/Industrie-Isoliererin
 
@@ -616,7 +597,6 @@ der schriftlichen Prüfung sowie innerhalb der schriftlichen Prüfung im
 Prüfungsfach Technologie mindestens ausreichende Leistungen erbracht
 worden sind.
 
-
 ## § 12 Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
@@ -624,11 +604,9 @@ Verordnung bestehen, sind die bisherigen Vorschriften weiter
 anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
 Anwendung der Vorschriften dieser Verordnung.
 
-
 ## § 13 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 1997 in Kraft.
-
 
 ## Anlage 1 (zu § 6 Abs. 1) Ausbildungsrahmenplan für die Berufsausbildung zum Isolierfacharbeiter/zur Isolierfacharbeiterin
 
@@ -1177,10 +1155,6 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 *    *   b)
 
     *   Maschinen nach Betriebsanleitung einrichten und bedienen
-
-
-
-
 
 ## Anlage 2 (zu § 6 Abs. 1) Ausbildungsrahmenplan für die Berufsausbildung zum Industrie-Isolierer/zur Industrie-Isoliererin
 

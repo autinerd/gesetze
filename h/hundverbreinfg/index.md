@@ -23,7 +23,6 @@ Vorschriften (ABl. EG Nr. L 204 S. 37), zuletzt geändert durch die
 Richtlinie 98/48/EG des Europäischen Parlaments und des Rates vom 20.
 Juli 1998 (ABl. EG Nr. L 217 S. 18), sind beachtet worden.
 
-
 ## § 1 Begriffsbestimmungen
 
 Im Sinne dieses Gesetzes ist
@@ -40,7 +39,6 @@ Gefährlicher Hund:
 Hunde der Rassen Pitbull-Terrier, American Staffordshire-Terrier,
 Staffordshire-Bullterrier, Bullterrier und deren Kreuzungen sowie nach
 Landesrecht bestimmte Hunde.
-
 
 ## § 2 Einfuhr- und Verbringungsverbot
 
@@ -91,10 +89,6 @@ Zustimmung des Bundesrates
 
 3.  Ausnahmen von Absatz 1 ganz oder teilweise zuzulassen oder zu gewähren
     sowie die Voraussetzungen und das Verfahren zu regeln.
-
-
-
-
 
 ## § 3 Überwachung
 
@@ -168,7 +162,6 @@ verweigern, deren Beantwortung ihn selbst oder einen der in § 383 Abs.
 Gefahr einer strafrechtlichen Verfolgung oder eines Verfahrens nach
 dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
-
 ## § 4 Mitwirkung der Zollstellen
 
 (1) Das Bundesministerium der Finanzen und die von ihm bestimmten
@@ -186,7 +179,6 @@ Anmeldungen, Auskünften und zur Leistung von Hilfsdiensten sowie zur
 Duldung der Einsichtnahme in Unterlagen und zur Duldung von
 Besichtigungen vorsehen.
 
-
 ## § 5 Strafvorschriften
 
 (1) Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird
@@ -197,7 +189,6 @@ oder einführt.
 
 (3) Handelt der Täter in den Fällen des Absatzes 1 fahrlässig, ist die
 Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
-
 
 ## § 6 Bußgeldvorschriften
 
@@ -220,7 +211,6 @@ Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünftausend
 Euro geahndet werden.
-
 
 ## § 7 Einziehung
 

@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 Abs. 3 V v. 24.4.1992 I 965
 
-
 ## Eingangsformel
 
 Auf Grund des § 6 Abs. 1 Nr. 3 Buchstabe a in Verbindung mit Abs. 3
@@ -29,7 +28,6 @@ Gesetzes vom 24. August 1965 (BGBl. I S. 927) und Absatz 3 eingefügt
 durch § 70 Abs. 1 Nr. 3 des Gesetzes vom 15. März 1974 (BGBl. I S.
 721), wird nach Anhörung der zuständigen obersten Landesbehörden
 verordnet:
-
 
 ## § 1
 
@@ -78,11 +76,9 @@ brauchen in den Fällen des Absatzes 1 keine zusätzlichen
 Radabdeckungen vorhanden zu sein, wenn die Zugmaschine oder der Zug
 mit einer Geschwindigkeit von nicht mehr als 25 km/h gefahren wird.
 
-
 ## § 2
 
 -
-
 
 ## § 3
 
@@ -90,11 +86,9 @@ Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit Artikel 3 des Gesetzes vom 28. Dezember 1982 (BGBl. I
 S. 2090) auch im Land Berlin.
 
-
 ## § 4
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlußformel
 

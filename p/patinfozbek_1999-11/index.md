@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1999, 2193
 
-
-
 ## (XXXX)
 
 Nach § 34 Abs. 2 und § 35 Abs. 2 Nr. 2 des Patentgesetzes, die durch
@@ -46,7 +44,6 @@ Gesetzes über internationale Patentübereinkommen vom 21. Juni 1976
 Der Präsident des Deutschen Patent- und Markenamts veröffentlicht im
 Blatt für Patent-, Muster- und Zeichenwesen weitere Einzelheiten zur
 Entgegennahme der Anmeldungen.
-
 
 ## Schlussformel
 

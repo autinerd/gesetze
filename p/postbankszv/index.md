@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 2121
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 10 Abs. 2 des Postpersonalrechtsgesetzes vom 14.
@@ -26,7 +24,6 @@ Nr. 4 des Gesetzes vom 14. September 2005 (BGBl. I S. 2746) geändert
 worden ist, verordnet das Bundesministerium der Finanzen nach Anhörung
 des Vorstands der Deutschen Postbank AG im Einvernehmen mit dem
 Bundesministerium des Innern:
-
 
 ## § 1 Monatliche Sonderzahlungen für die Jahre 2005 bis 2007
 
@@ -59,7 +56,6 @@ Sonderzahlung auswirken, werden ab dem Monat des Eintretens der
 ausgezahlt. Für die Zeit von Januar 2005 bis zum Monat der Verkündung
 dieser Verordnung wird die monatliche Sonderzahlung am ersten Tag des
 übernächsten auf die Verkündung folgenden Monats fällig.
-
 
 ## § 2 Inkrafttreten
 

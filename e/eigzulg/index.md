@@ -21,13 +21,11 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 22 G v. 19.12.2008 I 2794
 
-
 ## § 1 Anspruchsberechtigter
 
 Unbeschränkt Steuerpflichtige im Sinne des Einkommensteuergesetzes
 haben Anspruch auf eine Eigenheimzulage nach Maßgabe der folgenden
 Vorschriften.
-
 
 ## § 2 Begünstigtes Objekt
 
@@ -43,13 +41,11 @@ von seinem Ehegatten anschafft, wenn bei den Ehegatten im Zeitpunkt
 der Anschaffung die Voraussetzungen des § 26 Abs. 1 des
 Einkommensteuergesetzes vorliegen.
 
-
 ## § 3 Förderzeitraum
 
 Der Anspruchsberechtigte kann die Eigenheimzulage im Jahr der
 Fertigstellung oder Anschaffung und in den sieben folgenden Jahren
 (Förderzeitraum) in Anspruch nehmen.
-
 
 ## § 4 Nutzung zu eigenen Wohnzwecken
 
@@ -58,7 +54,6 @@ Anspruchsberechtigte die Wohnung zu eigenen Wohnzwecken nutzt. Eine
 Nutzung zu eigenen Wohnzwecken liegt auch vor, soweit eine Wohnung
 unentgeltlich an einen Angehörigen im Sinne des § 15 der
 Abgabenordnung zu Wohnzwecken überlassen wird.
-
 
 ## § 5 Einkunftsgrenze
 
@@ -77,7 +72,6 @@ Voraussetzungen für die Inanspruchnahme der Kinderzulage nach § 9 Abs.
 5 Satz 1 und 2 vorliegen, erhöhen sich die Beträge nach den Sätzen 1
 und 2 um 30.000 Euro, in den Fällen des § 9 Abs. 5 Satz 3 um 15.000
 Euro für jeden Anspruchsberechtigten.
-
 
 ## § 6 Objektbeschränkung
 
@@ -117,7 +111,6 @@ Inkrafttreten des Gesetzes vom 15. Mai 1986 (BGBl. I S. 730) sowie
 eine steuerliche Begünstigung von Aufwendungen für dasselbe
 selbstgenutzte Wohneigentum in einem anderen Staat gleich.
 
-
 ## § 7 Folgeobjekt
 
 Nutzt der Anspruchsberechtigte die Wohnung (Erstobjekt) nicht bis zum
@@ -137,7 +130,6 @@ des Satzes 1 steht ein Erstobjekt im Sinne des § 7b Abs. 5 Satz 4 und
 § 10e Abs. 4 Satz 4 des Einkommensteuergesetzes sowie § 15 Abs. 1 und
 § 15b Abs. 1 des Berlinförderungsgesetzes gleich.
 
-
 ## § 8 Bemessungsgrundlage
 
 Bemessungsgrundlage für den Fördergrundbetrag nach § 9 Abs. 2 sind die
@@ -150,7 +142,6 @@ Aufwendungen für Erhaltungsarbeiten, die jährlich üblicherweise
 anfallen. Werden Teile der Wohnung nicht zu eigenen Wohnzwecken
 genutzt, ist die Bemessungsgrundlage um den hierauf entfallenden Teil
 zu kürzen.
-
 
 ## § 9 Höhe der Eigenheimzulage
 
@@ -245,14 +236,12 @@ Wohnung, darf die Summe der Beträge nach Satz 1 die auf den
 Anspruchsberechtigten entfallende Bemessungsgrundlage nicht
 überschreiten.
 
-
 ## § 10 Entstehung des Anspruchs auf Eigenheimzulage
 
 Der Anspruch auf Eigenheimzulage entsteht mit Beginn der Nutzung der
 hergestellten oder angeschafften Wohnung zu eigenen Wohnzwecken, für
 jedes weitere Jahr des Förderzeitraums mit Beginn des Kalenderjahres,
 für das eine Eigenheimzulage festzusetzen ist.
-
 
 ## § 11 Festsetzung der Eigenheimzulage
 
@@ -315,7 +304,6 @@ durchzuführen. Die Eigenheimzulage ist neu festzusetzen, wenn die
 Voraussetzungen des § 26 Abs. 1 des Einkommensteuergesetzes während
 des Förderzeitraums entfallen oder eintreten.
 
-
 ## § 12 Antrag auf Eigenheimzulage
 
 (1) Der Antrag auf Eigenheimzulage ist nach amtlichem Vordruck zu
@@ -324,7 +312,6 @@ stellen und eigenhändig zu unterschreiben.
 (2) Der Anspruchsberechtigte ist verpflichtet, dem zuständigen
 Finanzamt unverzüglich eine Änderung der Verhältnisse mitzuteilen, die
 zu einer Minderung oder dem Wegfall der Eigenheimzulage führen.
-
 
 ## § 13 Auszahlung
 
@@ -343,14 +330,12 @@ festgesetzt wird.
 (2) Die Eigenheimzulage ist aus den Einnahmen an Einkommensteuer
 auszuzahlen.
 
-
 ## § 14 Rückforderung
 
 Ergibt sich auf Grund der Neufestsetzung eine Minderung der
 Eigenheimzulage oder wird die Festsetzung aufgehoben, sind überzahlte
 Beträge innerhalb eines Monats nach Bekanntgabe des Bescheids
 zurückzuzahlen.
-
 
 ## § 15 Anwendung der Abgabenordnung
 
@@ -366,13 +351,11 @@ Begünstigung einer Person, die eine solche Straftat begangen hat,
 gelten die Vorschriften der Abgabenordnung über die Verfolgung von
 Steuerstraftaten entsprechend.
 
-
 ## § 16 Ertragsteuerliche Behandlung der Eigenheimzulage
 
 Die Eigenheimzulage gehört nicht zu den Einkünften im Sinne des
 Einkommensteuergesetzes. Sie mindert nicht die steuerlichen
 Herstellungs- und Anschaffungskosten.
-
 
 ## § 17 Eigenheimzulage bei Anschaffung von Genossenschaftsanteilen
 
@@ -401,7 +384,6 @@ nicht überschreiten. Der Anspruch auf Eigenheimzulage entsteht mit dem
 Jahr der Anschaffung der Genossenschaftsanteile. Im übrigen sind die
 §§ 1, 3, 5, 7 und 10 bis 16 entsprechend anzuwenden.
 
-
 ## § 18 Ermächtigung
 
 Das Bundesministerium der Finanzen wird ermächtigt, den Wortlaut
@@ -410,7 +392,6 @@ mit neuem Datum, unter neuer Überschrift und in neuer Paragraphenfolge
 bekanntzumachen und dabei Unstimmigkeiten des Wortlauts zu beseitigen
 und im Einvernehmen mit den obersten Finanzbehörden der Länder den
 Vordruck für den nach § 12 Abs. 1 vorgesehenen Antrag zu bestimmen.
-
 
 ## § 19 Anwendungsbereich
 

@@ -27,7 +27,6 @@ Geändert durch
     (ABl. L 363 vom 20.12.2006, S. 81) geändert worden ist, sind beachtet
     worden.
 
-
 ## Eingangsformel
 
 Auf Grund
@@ -44,7 +43,6 @@ Auf Grund
 
 
 verordnet das Bundesministerium für Wirtschaft und Technologie:
-
 
 ## § 1 Kehr- oder überprüfungspflichtige Anlagen
 
@@ -171,7 +169,6 @@ unverzüglich nach Abschluss der Maßnahmen prüfen zu lassen, ob die
 mit Verbrennungsluft und für die Abführung der Rauch- oder Abgase
 eingehalten sind.
 
-
 ## § 2 Besondere Kehrarbeiten
 
 (1) Eine kehrpflichtige Anlage ist auszubrennen, auszuschlagen oder
@@ -193,7 +190,6 @@ Regeln für Gefahrstoffe 519 „Asbest, Abbruch-, Sanierungs- oder
 Instandhaltungsarbeiten“ (Bekanntmachung des Bundesministeriums für
 Arbeit und Sozialordnung vom 23. Januar 2007, GMBl S. 122, berichtigt
 am 8. März 2007, GMBl S. 398), durchzuführen.
-
 
 ## § 3 Pflichten der Bezirksschornsteinfegermeisterin oder des Bezirksschornsteinfegermeisters
 
@@ -277,7 +273,6 @@ Bezirksschornsteinfegermeisterin oder der
 Bezirksschornsteinfegermeister der Eigentümerin oder dem Eigentümer
 des Grundstücks oder der Räume eine Bescheinigung auszustellen.
 
-
 ## § 4 Durchführung der Kehr- oder Überprüfungsarbeiten
 
 (1) Die Anlagen sind nach den anerkannten Regeln der Technik zu kehren
@@ -296,14 +291,12 @@ füllen.
 oder dem Eigentümer des Grundstücks oder der Räume eine Bescheinigung
 auszustellen.
 
-
 ## § 5 Formblätter
 
 Für die Formblätter nach § 4 Absatz 1 des Schornsteinfeger-
 Handwerksgesetzes ist ein Vordruck nach dem Muster der Anlage 2 zu
 verwenden. Die Bescheinigung nach § 4 Absatz 3 ist dem Formblatt als
 Anlage beizufügen.
-
 
 ## § 6 Gebühren
 
@@ -316,12 +309,10 @@ Thüringen auf einen Betrag von 0,92 Euro zuzüglich der gesetzlichen
 Umsatzsteuer, in den übrigen Ländern auf 1,01 Euro zuzüglich der
 gesetzlichen Umsatzsteuer festgesetzt.
 
-
 ## § 7 Begriffsbestimmungen
 
 Bei der Anwendung dieser Verordnung sind die in Anlage 4 aufgeführten
 Begriffsbestimmungen zugrunde zu legen.
-
 
 ## § 8 Inkrafttreten, Außerkrafttreten
 
@@ -330,11 +321,9 @@ treten am Tag nach der Verkündung in Kraft. Im Übrigen tritt diese
 Verordnung am 1. Januar 2010 in Kraft. Die §§ 3 und 6 treten am 31.
 Dezember 2012 außer Kraft.
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage 1 (zu § 1 Absatz 4) Anzahl der Kehrungen und Überprüfungen
 
@@ -599,14 +588,9 @@ Der Bundesrat hat zugestimmt.
     *   einmal in
         jedem dritten Kalenderjahr
 
-
-
-
 ## Anlage 2 (zu § 5)
 
 (Fundstelle: BGBl. I 2011, 1078 - 1082)
-
-
 
 ## Anlage 3 (zu § 6) Gebührenverzeichnis
 
@@ -1656,9 +1640,6 @@ vgl. Fußnote)
 
     *   10,0; zusätzlich 2,0 je zusätzlicher Feuerungsanlage, insgesamt
         höchstens 30 je Bescheid
-
-
-
 
 ## Anlage 4 (zu § 7) Begriffsbestimmungen
 

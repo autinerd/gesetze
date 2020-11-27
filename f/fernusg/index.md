@@ -21,7 +21,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 G v. 2.11.2011 I 2170
 
-
 ## § 1 Anwendungsbereich
 
 (1) Fernunterricht im Sinne dieses Gesetzes ist die auf vertraglicher
@@ -40,10 +39,7 @@ Fähigkeiten, bei der
 (2) Dieses Gesetz findet auch auf unentgeltlichen Fernunterricht
 Anwendung, soweit dies ausdrücklich vorgesehen ist.
 
-
 ## 1. Abschnitt - Fernunterrichtsvertrag
-
-
 
 ### § 2 Rechte und Pflichten der Vertragschließenden
 
@@ -105,7 +101,6 @@ Fernunterrichtsvertrags verpflichtet, Waren zu erwerben oder den
 Gebrauch von Sachen oder Dienst- oder Werkleistungen in Anspruch zu
 nehmen, deren Erwerb oder deren Inanspruchnahme nicht den Zielen des
 Fernunterrichtsvertrags dient.
-
 
 ### § 3 Form und Inhalt des Fernunterrichtsvertrags
 
@@ -188,7 +183,6 @@ Teilnehmers bedarf der schriftlichen Form.
 auszuhändigen. Die Belehrung über das Widerrufsrecht ist vom
 Teilnehmer gesondert zu unterschreiben.
 
-
 ### § 4 Widerrufsrecht des Teilnehmers
 
 (1) Dem Teilnehmer steht ein Widerrufsrecht nach § 355 des
@@ -208,7 +202,6 @@ Bürgerlichen Gesetzbuchs ist der Wert der Überlassung des Gebrauchs
 oder der Benutzung der Sachen oder der Erteilung des Unterrichts bis
 zur Ausübung des Widerrufs nicht zu vergüten.
 
-
 ### § 5 Kündigung
 
 (1) Der Teilnehmer kann den Fernunterrichtsvertrag ohne Angabe von
@@ -223,7 +216,6 @@ kündigen, bleibt unberührt.
 (3) Im Falle der Kündigung hat der Teilnehmer nur den Anteil der
 Vergütung zu entrichten, der dem Wert der Leistungen des Veranstalters
 während der Laufzeit des Vertrags entspricht.
-
 
 ### § 6 Rechtsfolgen der Kündigung bei gemischten Verträgen
 
@@ -260,7 +252,6 @@ die Rückgängigmachung des Vertrags zu verlangen, bleibt unberührt. Für
 den Rücktritt des Veranstalters gelten die §§ 498 und 508 Abs. 2 des
 Bürgerlichen Gesetzbuchs entsprechend.
 
-
 ### § 7 Nichtigkeit; Recht zur fristlosen Kündigung
 
 (1) Ein Fernunterrichtsvertrag, der von einem Veranstalter ohne die
@@ -284,13 +275,11 @@ der Rücknahme der Zulassung unverzüglich dem Teilnehmer auszuhändigen.
 (3) Im Falle der Kündigung nach Absatz 2 finden § 5 Abs. 2 und 3 und §
 6 entsprechende Anwendung.
 
-
 ### § 8 Umgehungsverbot
 
 Die §§ 2 bis 7 finden auf Verträge, die darauf abzielen, die Zwecke
 eines Fernunterrichtsvertrags (§ 2) in einer anderen Rechtsform zu
 erreichen, entsprechende Anwendung.
-
 
 ### § 9 Widerrufsfrist bei Fernunterricht gegen Teilzahlungen
 
@@ -299,21 +288,16 @@ Lauf der Frist nach § 4 Abs. 1 dieses Gesetzes erst, wenn dem
 Teilnehmer eine Abschrift ausgehändigt wird, die auch die in § 492
 Abs. 2 des Bürgerlichen Gesetzbuchs genannten Angaben enthält.
 
-
 ### § 10 Ausschluss abweichender Vereinbarungen
 
 Von den §§ 2 bis 9 kann nicht zum Nachteil des Teilnehmers abgewichen
 werden.
 
-
 ### § 11
 
 (weggefallen)
 
-
 ## 2. Abschnitt - Veranstaltung von Fernunterricht
-
-
 
 ### § 12 Zulassung von Fernlehrgängen
 
@@ -384,7 +368,6 @@ Behörde dienen. Nachträgliche Auflagen sind zulässig. Änderungen der
 tatsächlichen Umstände, die für die Zulassung maßgebend sind, hat der
 Veranstalter unverzüglich mitzuteilen.
 
-
 ### § 12a Einheitliche Stelle, Genehmigungsfiktion
 
 (1) Die Verfahren nach § 12 Absatz 1 können über eine einheitliche
@@ -392,7 +375,6 @@ Stelle abgewickelt werden.
 
 (2) Hat die zuständige Behörde nicht innerhalb einer Frist von drei
 Monaten entschieden, gilt die Zulassung als erteilt.
-
 
 ### § 13 Zulassung berufsbildender Fernlehrgänge
 
@@ -413,7 +395,6 @@ Gegenstand bundesrechtlicher Regelungen, insbesondere des
 Berufsbildungsgesetzes, ist. Im Übrigen bestimmt das Landesrecht
 Inhalt und Umfang der Versagungsgründe nach Absatz 1.
 
-
 ### § 14 Rücknahme und Widerruf
 
 (1) Die Zulassung eines Fernlehrgangs ist zurückzunehmen, wenn bei der
@@ -433,7 +414,6 @@ erloschen, widerrufen oder zurückgenommen worden und hat der
 Teilnehmer den Fernunterrichtsvertrag nicht gekündigt (§ 7 Abs. 2), so
 bedarf der Veranstalter für die Erfüllung des Vertrags keiner
 Zulassung.
-
 
 ### § 15 Unentgeltliche berufsbildende Fernlehrgänge
 
@@ -457,7 +437,6 @@ so ist die Zulassung dieses Fernlehrgangs nach § 12 Abs. 1 nur zu
 versagen, wenn einer der in § 12 Abs. 2 Satz 1 Nr. 3 und 4 genannten
 Versagungsgründe vorliegt.
 
-
 ### § 16 Werbung mit Informationsmaterial
 
 (1) Der Veranstalter hat bei geschäftlicher Werbung für Fernlehrgänge
@@ -475,7 +454,6 @@ Informationsmaterial deutlich gekennzeichnet sein.
 (3) Die Anerkennung eines unentgeltlichen berufsbildenden
 Fernlehrgangs nach § 15 Abs. 1 darf nicht zur geschäftlichen Werbung
 für Fernlehrgänge verwendet werden.
-
 
 ### § 17 Vertreter, Berater
 
@@ -497,7 +475,6 @@ Beauftragten die erforderliche Eignung besitzen.
 (2) Verstoßen der Veranstalter oder sein Beauftragter gegen Absatz 1,
 beginnt die Widerrufsfrist nicht nach § 4 Abs. 1 zu laufen.
 
-
 ### § 18 Ergänzende Fernlehrgänge
 
 Auf Fernlehrgänge, deren Lehrgangsziel ausschließlich in der
@@ -507,10 +484,7 @@ Nutzung in Verbindung mit anderen Bildungsangeboten eignen, finden die
 §§ 12 bis 14, 16 und 17 keine Anwendung. Der Vertrieb dieser
 Fernlehrgänge ist der zuständigen Behörde anzuzeigen.
 
-
 ## 3. Abschnitt - Organisation; Auskunftspflicht; Ordnungswidrigkeiten
-
-
 
 ### § 19 Zentralstelle; Zulassungsentscheidung
 
@@ -534,7 +508,6 @@ falls sie beabsichtigt, von der Stellungnahme abzuweichen, dem
 Bundesinstitut für Berufsbildung unter Angabe der Gründe für die
 beabsichtigte Entscheidung erneut Gelegenheit zu einer Stellungnahme
 zu geben hat.
-
 
 ### § 20 Auskunftspflicht
 
@@ -568,7 +541,6 @@ der Abgabenordnung vom 16. März 1976 (BGBl. I S. 613) gelten insoweit
 nicht. Veröffentlichungen dieser Behörden dürfen keine Einzelangaben
 über Veranstalter enthalten. Eine Zusammenfassung von Angaben mehrerer
 Auskunftspflichtiger ist keine Einzelangabe im Sinne dieses Absatzes.
-
 
 ### § 21 Ordnungswidrigkeiten
 
@@ -621,25 +593,19 @@ und 4 mit einer Geldbuße bis zu 10.000 Euro, in den Fällen des
 Absatzes 1 Nr. 2 und 5 mit einer Geldbuße bis zu 1.000 Euro geahndet
 werden.
 
-
 ## 4. Abschnitt - Übergangsvorschriften; Änderung von Bundesgesetzen; Schlussvorschriften
-
-
 
 ### § 22
 
 (weggefallen)
 
-
 ### § 23
 
 (weggefallen)
 
-
 ### (XXXX) §§ 24 und 25 (weggefallen)
 
 -
-
 
 ### § 26 Gerichtsstand
 
@@ -660,10 +626,6 @@ ausdrücklich und schriftlich
     sein Wohnsitz oder gewöhnlicher Aufenthaltsort im Zeitpunkt der
     Klageerhebung nicht bekannt ist.
 
-
-
-
-
 ### § 27 Übergangsvorschrift
 
 (1) Auf Fernunterrichtsverträge, die vor dem 30. Juni 2000
@@ -680,11 +642,9 @@ sind. Die Vorschrift findet auch auf Verträge Anwendung, die nach dem
 31\. Dezember 2001 abgeschlossen worden und zugleich Haustürgeschäfte
 sind.
 
-
 ### § 28 (Inkrafttreten)
 
 -
-
 
 ### Anhang EV Auszug aus EinigVtr Anlage I Kap. XVI Sachgebiet D Abschnitt III (BGBl. II 1990, 889, 1136)
 

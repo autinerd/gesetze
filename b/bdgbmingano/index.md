@@ -22,13 +22,11 @@ Ano aufgeh. durch
 Geändert durch
 :   Abschn. I AnO v. 24.2.2003 I 305
 
-
 ## Eingangsformel
 
 Auf Grund des § 33 Abs. 5, des § 34 Abs. 2, des § 42 Abs. 1 sowie des
 § 84 des Bundesdisziplinargesetzes vom 9. Juli 2001 (BGBl. I S. 1510)
 wird angeordnet:
-
 
 ## I.
 
@@ -62,17 +60,12 @@ Sicherung
 
 7.  die Präsidentin/der Präsident des Bundesversicherungsamtes.
 
-
-
-
-
 ## II.
 
 Die Befugnis zur Festsetzung der Kürzung von Dienstbezügen nach § 33
 Abs. 3 Nr. 1 des Bundesdisziplinargesetzes wird gemäß § 33 Abs. 5 des
 Bundesdisziplinargesetzes auf die in Abschnitt I genannten
 Dienstvorgesetzten übertragen.
-
 
 ## III.
 
@@ -85,7 +78,6 @@ die seitens der Beamtinnen/Beamten der Besoldungsgruppen A 1 bis A 13
 g in disziplinarrechtlichen Angelegenheiten erhoben werden, für die
 gerichtliche Vertretung des Dienstherrn zuständig.
 
-
 ## IV.
 
 Die Befugnis, Widerspruchsbescheide nach § 42 Abs. 1 Satz 1 des
@@ -93,7 +85,6 @@ Bundesdisziplinargesetzes bei Beamtinnen/Beamten der Besoldungsgruppen
 A 1 bis A 13 g zu erlassen, wird gemäß § 42 Abs. 1 Satz 2 des
 Bundesdisziplinargesetzes auf die in Abschnitt I genannten
 Dienstvorgesetzten übertragen.
-
 
 ## V.
 
@@ -103,12 +94,10 @@ Ruhestandsbeamtinnen/Ruhestandsbeamten der Besoldungsgruppen A 1 bis A
 Satz 2 des Bundesdisziplinargesetzes auf die in Abschnitt I genannten
 Dienstvorgesetzten übertragen.
 
-
 ## VI.
 
 Ich behalte mir in Einzelfällen oder in Gruppen von Fällen
 Entscheidungen nach den Abschnitten II bis V dieser Anordnung vor.
-
 
 ## Schlussformel
 

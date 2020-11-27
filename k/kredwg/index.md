@@ -21,14 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 3a G v. 20.12.2012 I 2777
 
-
 ## Erster Abschnitt - Allgemeine Vorschriften
 
-
-
 ### 1. - Kreditinstitute, Finanzdienstleistungsinstitute, Finanzholding-Gesellschaften, gemischte Finanzholding-Gesellschaften, Finanzkonglomerate, gemischte Unternehmen und Finanzunternehmen
-
-
 
 #### § 1 Begriffsbestimmungen
 
@@ -858,10 +853,6 @@ Systemen auf Tagesbasis hinreichend besichert sind.
 2.  die Begehung einer Tat nach § 89a Abs. 1 in den Fällen des Abs. 2 Nr.
     4 des Strafgesetzbuchs oder die Teilnahme an einer solchen Tat.
 
-
-
-
-
 #### § 1a Handelsbuch und Anlagebuch
 
 (1) Dem Handelsbuch eines Instituts im Sinne dieses Gesetzes sind zum
@@ -1039,7 +1030,6 @@ dass die Rechtsverordnung im Einvernehmen mit der Deutschen Bundesbank
 ergeht. Vor Erlass der Rechtsverordnung sind die Spitzenverbände der
 Institute anzuhören.
 
-
 #### § 1b Begriffsbestimmungen für Verbriefungen
 
 (1) Eine Verbriefungstransaktion liegt vor, wenn
@@ -1170,10 +1160,6 @@ ist und
 
 2.  von anderen gehaltene Verbriefungspositionen aus dieser
     Verbriefungstransaktion gewährleistet oder absichert.
-
-
-
-
 
 #### § 2 Ausnahmen
 
@@ -1624,7 +1610,6 @@ Anforderungen des § 33 Abs. 1 Satz 1 Nr. 1 bis 4 nicht erfüllen. Die
 in Satz 1 genannten Personen haben der Bundesanstalt die Aufnahme des
 Betriebs unverzüglich anzuzeigen.
 
-
 #### § 2a Ausnahmen für gruppenangehörige Institute
 
 (1) Ein Institut mit Sitz im Inland, das nachgeordnetes Unternehmen
@@ -1724,10 +1709,6 @@ Einrichtung von Prozessen zur Identifizierung, Beurteilung, Steuerung,
     Tochterunternehmen insgesamt für das Gesamtrisikoprofil der Gruppe
     unwesentlich sind.
 
-
-
-
-
 #### § 2b Rechtsform
 
 (1) Kreditinstitute, die eine Erlaubnis nach § 32 Abs. 1 benötigen,
@@ -1744,7 +1725,6 @@ Einzelkaufmanns betrieben, hat der Inhaber angemessene Vorkehrungen
 für den Schutz seiner Kunden für den Fall zu treffen, daß auf Grund
 seines Todes, seiner Geschäftsunfähigkeit oder aus anderen Gründen das
 Institut seine Geschäftstätigkeit einstellt.
-
 
 #### § 2c Inhaber bedeutender Beteiligungen
 
@@ -1995,7 +1975,6 @@ die Verlängerung der Frist nach Satz 2, hat die Bundesanstalt die
 Fristverlängerung zu beachten und die vorläufige Untersagung oder
 Beschränkung entsprechend zu verlängern.
 
-
 #### § 2d Leitungsorgane von Finanzholding-Gesellschaften und gemischten Finanzholding-Gesellschaften
 
 (1) Personen, die die Geschäfte einer Finanzholding-Gesellschaft oder
@@ -2019,10 +1998,6 @@ untersagen, wenn
     und trotz Verwarnung durch die Bundesanstalt dieses Verhalten
     fortsetzen.
 
-
-
-
-
 #### § 3 Verbotene Geschäfte
 
 Verboten sind
@@ -2044,25 +2019,17 @@ Verboten sind
     oder erheblich erschwert ist, über den Kreditbetrag oder die Einlagen
     durch Barabhebung zu verfügen.
 
-
-
-
-
 #### § 4 Entscheidung der Bundesanstalt für Finanzdienstleistungsaufsicht
 
 Die Bundesanstalt entscheidet in Zweifelsfällen, ob ein Unternehmen
 den Vorschriften dieses Gesetzes unterliegt. Ihre Entscheidungen
 binden die Verwaltungsbehörden.
 
-
 ### 2. - Bundesanstalt für Finanzdienstleistungsaufsicht
-
-
 
 #### § 5
 
 (weggefallen)
-
 
 #### § 6 Aufgaben
 
@@ -2094,7 +2061,6 @@ die Stabilität des Finanzsystems in den jeweils betroffenen Staaten
 des Europäischen Wirtschaftsraums zu berücksichtigen.
 
 (5) (weggefallen)
-
 
 #### § 6a Besondere Aufgaben
 
@@ -2148,7 +2114,6 @@ anderer Beschwerter Widerspruch erheben.
 (6) Die Möglichkeit zur Anordnung von Beschränkungen des Kapital- und
 Zahlungsverkehrs nach § 2 Abs. 2 in Verbindung mit § 7 Abs. 1 des
 Außenwirtschaftsgesetzes bleibt unberührt.
-
 
 #### § 7 Zusammenarbeit mit der Deutschen Bundesbank
 
@@ -2226,7 +2191,6 @@ personenbezogener Daten, die nicht durch die eingebende Stelle
 erfolgen, sind in entsprechender Anwendung von Absatz 4 Satz 3 bis 5
 zu protokollieren.
 
-
 #### § 7a Zusammenarbeit mit der Europäischen Kommission
 
 (1) Die Bundesanstalt meldet der Europäischen Kommission
@@ -2289,10 +2253,6 @@ zu protokollieren.
 5.  das Verfahren zur Vermeidung der Umgehung der zusätzlichen
     Kapitalanforderungen bei Überschreitung der Gesamtbuch-
     Großkreditanforderungen.
-
-
-
-
 
 #### § 7b Zusammenarbeit mit der Europäischen Bankenaufsichtsbehörde und der Europäischen Wertpapier- und Marktaufsichtsbehörde
 
@@ -2373,17 +2333,12 @@ Marktaufsichtsbehörde
 
 2.  den in § 7a Absatz 1 Nummer 5 genannten Sachverhalt.
 
-
-
-
-
 #### § 7c Zusammenarbeit mit dem Europäischen Bankenausschuss
 
 Die Bundesanstalt meldet dem Europäischen Bankenausschuss die
 Erteilung einer Erlaubnis nach § 32 Absatz 1 an die Zweigstelle eines
 Unternehmens im Sinne des § 53 mit Sitz außerhalb der Staaten des
 Europäischen Wirtschaftsraums.
-
 
 #### § 8 Zusammenarbeit mit anderen Stellen
 
@@ -2618,7 +2573,6 @@ Erhält die Bundesanstalt eine entsprechende Mitteilung von zuständigen
 Stellen anderer Staaten, unterrichtet sie diese über die Ergebnisse
 daraufhin eingeleiteter Untersuchungen.
 
-
 #### § 8a Besondere Aufgaben bei der Aufsicht auf zusammengefasster Basis
 
 (1) Ist die Bundesanstalt für die Aufsicht auf zusammengefasster Basis
@@ -2733,7 +2687,6 @@ zuständige Stelle dies bei der Bundesanstalt schriftlich und umfassend
 begründet beantragt. In diesem Fall kann die Aktualisierung allein
 zwischen der Bundesanstalt und der zuständigen Stelle, die den Antrag
 gestellt hat, abgestimmt werden.
-
 
 #### § 8b Zusammenarbeit bei der Beaufsichtigung von Finanzkonglomeraten
 
@@ -2869,7 +2822,6 @@ Europäischen Aufsichtsbehörden gemäß dem in Artikel 35 der Verordnung
 (EU) Nr. 1093/2010 vorgesehenen Verfahren unverzüglich alle zur
 Erfüllung seiner Aufgaben benötigten Informationen zur Verfügung.
 
-
 #### § 8c Übertragung der Zuständigkeit für die Aufsicht über Institutsgruppen, Finanzholding-Gruppen und gruppenangehörige Institute
 
 (1) Die Bundesanstalt kann von der Beaufsichtigung einer
@@ -2920,7 +2872,6 @@ der Übertragung der Zuständigkeit ist dieses Institut anzuhören. Die
 Europäische Bankenaufsichtsbehörde ist über das Bestehen und den
 Inhalt dieser Vereinbarungen zu unterrichten.
 
-
 #### § 8d Zuständigkeit für die zusätzliche Beaufsichtigung auf Konglomeratsebene
 
 (1) Die Bundesanstalt kann von der Beaufsichtigung eines
@@ -2952,7 +2903,6 @@ und ein Institut als übergeordnetes Finanzkonglomeratsunternehmen
 bestimmen. Die Vorschriften dieses Gesetzes über die zusätzliche
 Beaufsichtigung von Finanzkonglomeraten sind in diesem Fall
 entsprechend anzuwenden.
-
 
 #### § 8e Aufsichtskollegien
 
@@ -3043,7 +2993,6 @@ Absätze 3 und 4 gelten entsprechend.
 
 (7) Bei der Wahrnehmung der Aufgaben nach den Absätzen 1 bis 6
 arbeiten die Bundesanstalt und die Deutsche Bundesbank zusammen.
-
 
 #### § 9 Verschwiegenheitspflicht
 
@@ -3146,14 +3095,9 @@ Personen durch die zuständige Aufsichtsstelle eines anderen Staates
 oder durch von dieser Stelle beauftragte Personen mitgeteilt worden
 sind.
 
-
 ## Zweiter Abschnitt - Vorschriften für Institute, Institutsgruppen, Finanzholding-Gruppen, Finanzkonglomerate, gemischte Finanzholding-Gesellschaften und gemischte Unternehmen
 
-
-
 ### 1. - Eigenmittel und Liquidität
-
-
 
 #### § 10 Anforderungen an die Eigenmittelausstattung von Instituten, Institutsgruppen und Finanzholding-Gruppen
 
@@ -4340,7 +4284,6 @@ Genehmigungen sowie über die Umstände und Vorkehrungen nach Satz 1 Nr.
 unterrichtet die Bundesanstalt die zuständige Behörde des betreffenden
 Drittstaats entsprechend.
 
-
 #### § 10a Ermittlung der Eigenmittelausstattung von Institutsgruppen und Finanzholding-Gruppen
 
 (1) Eine Institutsgruppe im Sinne dieses Gesetzes besteht aus einem
@@ -4687,7 +4630,6 @@ Drittstaat, gilt Satz 1 mit der Maßgabe, dass das übergeordnete
 Unternehmen der Finanzholding-Gruppe verpflichtet ist, die zusätzliche
 Zusammenfassung vorzunehmen.
 
-
 #### § 10b Eigenmittelausstattung von Finanzkonglomeraten
 
 (1) Ein Finanzkonglomerat muss insgesamt angemessene Eigenmittel
@@ -4931,7 +4873,6 @@ abzuziehen.
 selbst einem Finanzkonglomerat nachgeordnet ist, für das die Absätze
 1, 6 und 7 gelten.
 
-
 #### § 10c Nullgewichtung von Intragruppenforderungen
 
 (1) Für eine Kreditrisiko-Standardansatz-Position (KSA-Position) eines
@@ -5070,7 +5011,6 @@ Positionen
 genannten Anforderungen erfüllen würden, dauerhaft von der Anwendung
 des IRBA ausnehmen und als KSA-Positionen behandeln.
 
-
 #### § 11 Liquidität
 
 (1) Die Institute müssen ihre Mittel so anlegen, dass jederzeit eine
@@ -5112,7 +5052,6 @@ eines Instituts nicht gesichert ist.
 
 (3) (weggefallen)
 
-
 #### § 12 Begrenzung von qualifizierten Beteiligungen
 
 (1) Ein Einlagenkreditinstitut darf an einem Unternehmen, das weder
@@ -5152,7 +5091,6 @@ im Sinne des § 10a Abs. 14.
 
 (3) (weggefallen)
 
-
 #### § 12a Begründung von Unternehmensbeziehungen
 
 (1) Ein Institut oder eine Finanzholding-Gesellschaft hat bei dem
@@ -5189,10 +5127,7 @@ Wertpapierdienstleistungsbranche tätiges beaufsichtigtes
 übergeordnetes Finanzkonglomeratsunternehmen in Bezug auf Pflichten
 nach den §§ 10b und 13d entsprechend.
 
-
 ### 2. - Kreditgeschäft
-
-
 
 #### § 13 Großkredite von Nichthandelsbuchinstituten
 
@@ -5274,7 +5209,6 @@ Kreditrahmenkontingenten mit der Maßgabe, daß die Anzeigen nach Absatz
 1 an Stichtagen zu erstatten sind, die durch Rechtsverordnung nach §
 24 Abs. 4 Satz 1 bestimmt werden.
 
-
 #### § 13a Großkredite von Handelsbuchinstituten
 
 (1) Ein Institut, das nicht nach § 2 Abs. 11 von den Vorschriften über
@@ -5349,7 +5283,6 @@ Kreditrahmenkontingenten mit der Maßgabe, daß die Anzeigen nach Absatz
 1 an Stichtagen zu erstatten sind, die durch Rechtsverordnung nach §
 24 Abs. 4 Satz 1 bestimmt werden.
 
-
 #### § 13b Großkredite von Institutsgruppen und Finanzholding-Gruppen
 
 (1) Für die von den Unternehmen einer Institutsgruppe oder
@@ -5384,7 +5317,6 @@ Gesellschaftsrecht nicht entgegensteht.
 2 gelten entsprechend für das übergeordnete Unternehmen, wenn ein
 Unternehmen der Institutsgruppe oder der Finanzholding-Gruppe nach §
 2a von der Anwendung der §§ 13 und 13a befreit ist.
-
 
 #### § 13c Gruppeninterne Transaktionen mit gemischten Unternehmen
 
@@ -5461,7 +5393,6 @@ und ordnungsgemäßer Rechnungslegungsverfahren, verfügen; die §§ 13 und
 13b bleiben unberührt. § 10a Abs. 12 und 13 Satz 1 und 2 sowie § 25a
 Abs. 1 Satz 2 gelten entsprechend.
 
-
 #### § 13d Risikokonzentrationen und gruppeninterne Transaktionen von Finanzkonglomeraten
 
 (1) Das übergeordnete Finanzkonglomeratsunternehmen im Sinne des § 10b
@@ -5536,10 +5467,6 @@ anzuzeigen. Die Bundesanstalt kann
 2.  Verstöße gegen die in der Rechtsverordnung nach Absatz 2 Satz 1
     bestimmten Beschränkungen hinsichtlich der Art gruppeninterner
     Transaktionen durch geeignete und erforderliche Maßnahmen unterbinden.
-
-
-
-
 
 #### § 14 Millionenkredite
 
@@ -5625,7 +5552,6 @@ nach Maßgabe des § 4b des Bundesdatenschutzgesetzes ausländischen
 Evidenzzentralen die bei ihr gespeicherten Daten über Kreditnehmer,
 auch zur Weitergabe an dort ansässige Kreditgeber, zur Verfügung
 stellen.
-
 
 #### § 15 Organkredite
 
@@ -5774,11 +5700,9 @@ zurückzuzahlen, wenn nicht sämtliche Geschäftsleiter sowie das
 Aufsichtsorgan der Kreditgewährung unverzüglich nachträglich
 zustimmen.
 
-
 #### § 16
 
 (aufgehoben)
-
 
 #### § 17 Haftungsbestimmung
 
@@ -5800,7 +5724,6 @@ Instituts (Hauptversammlung, Generalversammlung,
 Gesellschafterversammlung) beruht.
 
 (3) Die Ansprüche nach Absatz 1 verjähren in fünf Jahren.
-
 
 #### § 18 Kreditunterlagen
 
@@ -5843,7 +5766,6 @@ Bei Änderung des Nettodarlehensbetrags sind die Auskünfte auf den
 neuesten Stand zu bringen. Bei einer erheblichen Erhöhung des
 Nettodarlehensbetrags ist die Kreditwürdigkeit neu zu bewerten. Die
 Bestimmungen zum Schutz personenbezogener Daten bleiben unberührt.
-
 
 #### § 18a Verbriefungen
 
@@ -5997,7 +5919,6 @@ umfassende und gründliche Kenntnis verfügt über:
 Die Kenntnis muss bereits vor dem Erwerb der jeweiligen
 Verbriefungsposition vorhanden sein.
 
-
 #### § 18b Organisatorische Vorkehrungen bei Verbriefungen
 
 (1) Ein Institut muss für sein Handelsbuch und Anlagebuch angemessene
@@ -6116,7 +6037,6 @@ Deutschen Bundesbank anzuzeigen.
 darf aus dieser Verbriefungstransaktion keine Anrechnungserleichterung
 in Anspruch nehmen, wenn die in Absatz 4 genannten Anforderungen nicht
 erfüllt sind.
-
 
 #### § 19 Begriff des Kredits für die §§ 13 bis 13b und 14 und des Kreditnehmers
 
@@ -6348,7 +6268,6 @@ der Schuldner der Verbindlichkeit als Kreditnehmer.
 
 (6) (weggefallen)
 
-
 #### § 20 Ausnahmen von den Verpflichtungen nach den §§ 13 bis 13b und 14
 
 (1) Als Kredite im Sinne der §§ 13 bis 13b gelten nicht:
@@ -6548,10 +6467,6 @@ Großkreditbeschlüsse gelten nicht für Kredite nach Absatz 2.
 6.  Verfügungen über gutgeschriebene Beträge aus dem
     Lastschrifteinzugsverfahren, die mit dem Vermerk "Eingang vorbehalten"
     versehen werden.
-
-
-
-
 
 #### § 20a Gedeckte Schuldverschreibungen
 
@@ -6753,7 +6668,6 @@ Grundpfandrechte als Sicherheit akzeptiert werden.
 (8) Ein Institut muss sichergestellt haben, dass die als Sicherheit
 dienende Immobilie angemessen gegen Schäden versichert ist.
 
-
 #### § 20b Anerkennung von Sicherungsinstrumenten als anrechnungsentlastend
 
 Die folgenden Sicherungsinstrumente werden als anrechnungsentlastend
@@ -6772,10 +6686,6 @@ anerkannt, wenn sie die näheren Bestimmungen der Rechtsverordnung nach
 
 4.  Einlagenzertifikate oder ähnliche Papiere gemäß § 20 Abs. 2 Satz 1 Nr.
     2 Buchstabe c.
-
-
-
-
 
 #### § 20c Befreiung von den Verpflichtungen nach § 13 Abs. 3, § 13a Abs. 3 bis 5 und § 13b Abs. 1
 
@@ -6864,7 +6774,6 @@ Ausnahme nach Absatz 1 erfasst sind und die Obergrenzen nach § 13 Abs.
 überschreiten, anzuzeigen. Die Anzeige hat die Überschreitungsbeträge,
 die Namen der Kreditnehmer und Informationen über die Entwicklung der
 Kredite zu enthalten.
-
 
 #### § 21 Begriff des Kredits für die §§ 15 bis 18
 
@@ -6984,10 +6893,6 @@ Kreditnehmers bei dem Institut bleiben außer Betracht.
 
 2.  Kredite im Sinne des § 20 Abs. 2 Satz 1 Nr. 2 Buchstabe b oder c.
 
-
-
-
-
 #### § 22 Rechtsverordnungsermächtigung über Kredite
 
 Das Bundesministerium der Finanzen wird ermächtigt, durch eine im
@@ -7087,10 +6992,7 @@ dass die Rechtsverordnung im Einvernehmen mit der Deutschen Bundesbank
 ergeht. Vor Erlass der Rechtsverordnung sind die Spitzenverbände der
 Institute anzuhören.
 
-
 ### 2a. - Refinanzierungsregister
-
-
 
 #### § 22a Registerführendes Unternehmen
 
@@ -7118,7 +7020,6 @@ werden.
 (4) Die Absätze 1 bis 3 gelten sinngemäß für Refinanzierungsmittler,
 die Kreditinstitut oder eine in § 2 Abs. 1 Nr. 1 bis 3a genannte
 Einrichtung sind.
-
 
 #### § 22b Führung des Refinanzierungsregisters für Dritte
 
@@ -7152,13 +7053,11 @@ sind unwirksam.
 (4) § 22a Abs. 2 und 3, auch in Verbindung mit Abs. 4, findet
 entsprechende Anwendung.
 
-
 #### § 22c Refinanzierungsmittler
 
 Die §§ 22d bis 22o gelten sinngemäß für Refinanzierungsregister, die
 gemäß § 22a Abs. 4 von einem Refinanzierungsmittler oder gemäß § 22b
 Abs. 4 für einen Refinanzierungsmittler geführt werden.
-
 
 #### § 22d Refinanzierungsregister
 
@@ -7225,7 +7124,6 @@ Korrektur, ihr Zeitpunkt und die Zustimmung des Verwalters sind im
 Refinanzierungsregister einzutragen. Die nochmalige Eintragung ohne
 Löschung der früheren Eintragung entfaltet keine Rechtswirkung.
 
-
 #### § 22e Bestellung des Verwalters
 
 (1) Bei jedem registerführenden Unternehmen ist eine natürliche Person
@@ -7277,7 +7175,6 @@ festgesetzten jährlichen Vergütung vorzusehen. Das registerführende
 Unternehmen darf den Versicherungsvertrag zugunsten des Verwalters und
 des Stellvertreters schließen und die Prämien zahlen.
 
-
 #### § 22f Verhältnis des Verwalters zur Bundesanstalt
 
 (1) Der Verwalter hat der Bundesanstalt Auskunft über die von ihm im
@@ -7286,7 +7183,6 @@ zu erteilen und auch unaufgefordert Mitteilungen zu machen, wenn
 Umstände auf eine nicht ordnungsgemäße Registerführung hindeuten.
 
 (2) Der Verwalter ist an Weisungen der Bundesanstalt nicht gebunden.
-
 
 #### § 22g Aufgaben des Verwalters
 
@@ -7318,7 +7214,6 @@ inhaltliche Richtigkeit des Refinanzierungsregisters nicht zu
 (3) Der Verwalter kann sich bei der Durchführung seiner Aufgaben
 anderer Personen und Einrichtungen bedienen.
 
-
 #### § 22h Verhältnis des Verwalters zum registerführenden Unternehmen und zum Refinanzierungsunternehmen
 
 (1) Der Verwalter ist befugt, jederzeit die Bücher und Papiere des
@@ -7338,7 +7233,6 @@ der Überwachung des Refinanzierungsregisters im Zusammenhang stehen.
 Unternehmen oder dem davon abweichenden Refinanzierungsunternehmen
 entscheidet die Bundesanstalt.
 
-
 #### § 22i Vergütung des Verwalters
 
 (1) Der Verwalter sowie sein Stellvertreter erhalten von dem
@@ -7353,7 +7247,6 @@ registerführenden Unternehmens, des Refinanzierungsunternehmens, für
 welches das Register geführt wird, und der Übertragungsberechtigten an
 den Verwalter des Refinanzierungsregisters und dessen Stellvertreter
 unzulässig.
-
 
 #### § 22j Wirkungen der Eintragung in das Refinanzierungsregister
 
@@ -7391,7 +7284,6 @@ keine Zurückbehaltungsrechte geltend machen. Anfechtungsrechte seiner
 Gläubiger nach dem Anfechtungsgesetz und den §§ 129 bis 147 der
 Insolvenzordnung bleiben unberührt.
 
-
 #### § 22k Beendigung und Übertragung der Registerführung
 
 (1) Willigen alle im Refinanzierungsregister eingetragenen
@@ -7416,7 +7308,6 @@ für Dritte finden sinngemäße Anwendung.
 (3) Absatz 2 findet keine Anwendung, wenn über das Vermögen eines
 Unternehmens, das ein Refinanzierungsregister nicht nur für Dritte
 führt, das Insolvenzverfahren eröffnet wird.
-
 
 #### § 22l Bestellung des Sachwalters bei Eröffnung des Insolvenzverfahrens
 
@@ -7456,7 +7347,6 @@ Sachwalter erlischt das Amt des Verwalters. Das Amt wird vom
 Sachwalter des Refinanzierungsregisters fortgeführt. Die Sätze 1 und 2
 gelten entsprechend für den Stellvertreter des Verwalters.
 
-
 #### § 22m Bekanntmachung der Bestellung des Sachwalters
 
 (1) Das Insolvenzgericht hat die Ernennung und Abberufung des
@@ -7477,7 +7367,6 @@ gefährdet werden. Satz 1 gilt entsprechend für Rechte des
 registerführenden Unternehmens, die im Schiffsregister,
 Schiffsbauregister oder im Register für Pfandrechte an Luftfahrzeugen
 eingetragen sind.
-
 
 #### § 22n Rechtsstellung des Sachwalters
 
@@ -7529,7 +7418,6 @@ Abs. 2 und 3 Satz 1 gilt sinngemäß. § 22i Abs. 3 Satz 2 findet mit der
 Maßgabe entsprechende Anwendung, dass die Bundesanstalt beim
 Insolvenzgericht einen Antrag auf Abberufung stellen soll.
 
-
 #### § 22o Bestellung des Sachwalters bei Insolvenzgefahr
 
 (1) Unter den Voraussetzungen des § 46 bestellt das Gericht am Sitz
@@ -7562,19 +7450,13 @@ registerführenden Unternehmens hat dem Insolvenzgericht alle mit der
 Bestellung und Aufsicht des Sachwalters des Refinanzierungsregisters
 in Zusammenhang stehenden Unterlagen zu übergeben.
 
-
 ### 3. - Kundenrechte
-
-
 
 #### § 22p (weggefallen)
 
 -
 
-
 ### 4. - Werbung und Hinweispflichten der Institute
-
-
 
 #### § 23 Werbung
 
@@ -7583,7 +7465,6 @@ Bundesanstalt bestimmte Arten der Werbung untersagen.
 
 (2) Vor allgemeinen Maßnahmen nach Absatz 1 sind die Spitzenverbände
 der Institute und des Verbraucherschutzes zu hören.
-
 
 #### § 23a Sicherungseinrichtung
 
@@ -7615,10 +7496,7 @@ sein.
 die Kunden, die nicht Institute sind, sowie die Bundesanstalt und die
 Deutsche Bundesbank hierüber unverzüglich in Textform zu unterrichten.
 
-
 ### 5. - Besondere Pflichten der Institute, ihrer Geschäftsleiter, der Finanzholding-Gesellschaften und der gemischten Unternehmen
-
-
 
 #### § 24 Anzeigen
 
@@ -7832,7 +7710,6 @@ Rechtsverordnungen der Bundesanstalt im Einvernehmen mit der Deutschen
 Bundesbank ergehen. Vor Erlaß der Rechtsverordnung sind die
 Spitzenverbände der Institute anzuhören.
 
-
 #### § 24a Errichtung einer Zweigniederlassung und Erbringung grenzüberschreitender Dienstleistungen in anderen Staaten des Europäischen Wirtschaftsraums
 
 (1) Ein Einlagenkreditinstitut oder Wertpapierhandelsunternehmen, das
@@ -7955,7 +7832,6 @@ Drittstaaten erforderlich ist.
 
 (6) (weggefallen)
 
-
 #### § 24b Teilnahme an Zahlungs- sowie Wertpapierliefer- und -abrechnungssystemen sowie interoperablen Systemen
 
 (1) Ein Institut hat die Absicht, ein System nach § 1 Abs. 16 zu
@@ -7992,7 +7868,6 @@ Absatz 2 sowie der Zugangsgewährung nach Absatz 3 zu bestimmen.
 
 (5) Auf Systembetreiber, die nicht Institut sind, sind die Absätze 1
 bis 4 entsprechend anzuwenden.
-
 
 #### § 24c Automatisierter Abruf von Kontoinformationen
 
@@ -8101,7 +7976,6 @@ auf die Bundesanstalt übertragen.
 – Finanzagentur GmbH Konten und Depots für Dritte führen, gelten sie
 als Kreditinstitute im Sinne der Absätze 1, 5 und 6.
 
-
 #### § 25 Monatsausweise und weitere Angaben
 
 (1) Ein Institut hat unverzüglich nach Ablauf eines jeden Monats der
@@ -8141,7 +8015,6 @@ zu übermitteln. Das Bundesministerium der Finanzen kann die
 Ermächtigung zum Erlaß einer Rechtsverordnung durch Rechtsverordnung
 auf die Bundesanstalt mit der Maßgabe übertragen, daß die
 Rechtsverordnung im Einvernehmen mit der Deutschen Bundesbank ergeht.
-
 
 #### § 25a Besondere organisatorische Pflichten von Instituten
 
@@ -8327,10 +8200,7 @@ Bundesanstalt mit der Maßgabe übertragen, dass die Rechtsverordnung im
 Einvernehmen mit der Deutschen Bundesbank ergeht. Vor Erlass der
 Rechtsverordnung sind die Spitzenverbände der Institute zu hören.
 
-
 ### 5a. - Verhinderung von Geldwäsche, von Terrorismusfinanzierung und von sonstigen strafbaren Handlungen zum Nachteil der Institute
-
-
 
 #### § 25b Einhaltung der besonderen organisatorischen Pflichten im bargeldlosen Zahlungsverkehr
 
@@ -8346,10 +8216,6 @@ Kreditinstitute nach
     und des Rates vom 16. September 2009 über grenzüberschreitende
     Zahlungen in der Gemeinschaft und zur Aufhebung der Verordnung (EG)
     Nr. 2560/2001 (ABl. L 266 vom 9.10.2009, S. 1).
-
-
-
-
 
 #### § 25c Interne Sicherungsmaßnahmen
 
@@ -8459,7 +8325,6 @@ wahrgenommen. Die Bundesanstalt kann auf Antrag des Instituts
 bestimmen, dass für die Verhinderung der sonstigen strafbaren
 Handlungen eine andere Stelle im Institut zuständig ist, soweit
 hierfür ein wichtiger Grund vorliegt.
-
 
 #### § 25d Vereinfachte Sorgfaltspflichten
 
@@ -8592,7 +8457,6 @@ aufzuzeichnen und aufzubewahren, die für die Darlegung gegenüber der
 Bundesanstalt erforderlich sind, dass die Voraussetzungen für die
 Anwendung der vereinfachten Sorgfaltspflichten vorliegen.
 
-
 #### § 25e Vereinfachungen bei der Durchführung der Identifizierung
 
 Abweichend von § 4 Abs. 1 des Geldwäschegesetzes kann die Überprüfung
@@ -8603,7 +8467,6 @@ vor Abschluss der Überprüfung der Identität keine Gelder von dem Konto
 oder dem Depot abverfügt werden können. Für den Fall einer Rückzahlung
 eingegangener Gelder dürfen diese nur an den Einzahler ausgezahlt
 werden.
-
 
 #### § 25f Verstärkte Sorgfaltspflichten
 
@@ -8691,7 +8554,6 @@ angemessene Informationen nach Maßgabe des § 8 des Geldwäschegesetzes
 aufzuzeichnen und aufzubewahren. Die Sätze 1 und 2 finden auch auf
 Institute und übergeordnete Unternehmen nach § 25g Absatz 1 Anwendung.
 
-
 #### § 25g Gruppenweite Einhaltung von Sorgfaltspflichten
 
 (1) Die in § 25c Absatz 1, 3 und 4 genannten Institute und Unternehmen
@@ -8729,7 +8591,6 @@ Verpflichtete im Sinne des § 2 Abs. 1 Nr. 1 des Geldwäschegesetzes.
 Sie unterliegen insoweit auch der Aufsicht der Bundesanstalt nach § 16
 Abs. 1 in Verbindung mit Abs. 2 Nr. 2 des Geldwäschegesetzes.
 
-
 #### § 25h Verbotene Geschäfte
 
 Verboten sind:
@@ -8743,10 +8604,6 @@ Verboten sind:
     für dritte Institute, über die Kunden zur Durchführung von eigenen
     Transaktionen eigenständig verfügen können; § 154 Abs. 1 der
     Abgabenordnung bleibt unberührt.
-
-
-
-
 
 #### § 25i Sorgfalts- und Organisationspflichten beim E-Geld-Geschäft
 
@@ -8825,10 +8682,7 @@ gestatten, dass ein Institut vereinfachte Sorgfaltspflichten nach § 5
 des Geldwäschegesetzes zu erfüllen hat oder von der Erfüllung
 sonstiger Pflichten absehen kann.
 
-
 ### 5b. - Vorlage von Rechnungslegungsunterlagen
-
-
 
 #### § 26 Vorlage von Jahresabschluß, Lagebericht und Prüfungsberichten
 
@@ -8873,10 +8727,7 @@ einzureichen.
 (4) Die Bestimmungen des Absatzes 3 gelten entsprechend für einen
 Einzelabschluss nach § 325 Abs. 2a des Handelsgesetzbuchs.
 
-
 ### 5c. - Offenlegung
-
-
 
 #### § 26a Offenlegung durch die Institute
 
@@ -8933,15 +8784,11 @@ oder der Finanzholding-Gruppe verantwortlich sind. § 10a Abs. 12 und
 eine Offenlegung von Informationen nach den Absätzen 1 bis 3 für das
 Einzelinstitut.
 
-
 ### 6. - Prüfung und Prüferbestellung
-
-
 
 #### § 27
 
 (aufgehoben)
-
 
 #### § 28 Bestellung des Prüfers in besonderen Fällen
 
@@ -8985,7 +8832,6 @@ abberufen.
 (3) Die Absätze 1 und 2 gelten nicht für Kreditinstitute, die einem
 genossenschaftlichen Prüfungsverband angehören oder durch die
 Prüfungsstelle eines Sparkassen- und Giroverbandes geprüft werden.
-
 
 #### § 29 Besondere Pflichten des Prüfers
 
@@ -9081,7 +8927,6 @@ nach Maßgabe des Satzes 1 erlassen werden. Das Bundesministerium der
 Finanzen kann die Ermächtigung durch Rechtsverordnung auf die
 Bundesanstalt übertragen.
 
-
 #### § 30 Bestimmung von Prüfungsinhalten
 
 Unbeschadet der besonderen Pflichten des Prüfers nach § 29 kann die
@@ -9090,10 +8935,7 @@ der Prüfung treffen, die vom Prüfer im Rahmen der
 Jahresabschlussprüfung zu berücksichtigen sind. Sie kann insbesondere
 Schwerpunkte für die Prüfungen festlegen.
 
-
 ### 7. - Befreiungen
-
-
 
 #### § 31
 
@@ -9263,14 +9105,9 @@ Finanzkonglomeratsunternehmens oder von Amts wegen erfolgen.
 (6) Die Bundesanstalt kann die Anforderungen nach § 18a Absatz 1 und 2
 in Zeiten allgemein angespannter Marktliquidität zeitweise aussetzen.
 
-
 ## Dritter Abschnitt - Vorschriften über die Beaufsichtigung der Institute
 
-
-
 ### 1. - Zulassung zum Geschäftsbetrieb
-
-
 
 #### § 32 Erlaubnis
 
@@ -9392,7 +9229,6 @@ Sinne des § 1 Abs. 1a Satz 2 Nr. 9 erbringt, bedarf dieses
 Zahlungsinstitut oder E-Geld-Institut keiner Erlaubnis nach Absatz 1.
 Die Anzeigepflicht nach § 14 Abs. 1 ist zu erfüllen und § 14 Abs. 2
 bis 4 anzuwenden.
-
 
 #### § 33 Versagung der Erlaubnis
 
@@ -9574,7 +9410,6 @@ sechs Monaten nach Einreichung der vollständigen Unterlagen für einen
 Erlaubnisantrag nach § 32 Abs. 1 Satz 2 mitteilen, ob eine Erlaubnis
 erteilt oder versagt wird.
 
-
 #### § 33a Aussetzung oder Beschränkung der Erlaubnis bei Unternehmen mit Sitz außerhalb der Europäischen Union
 
 Die Bundesanstalt hat die Entscheidung über einen Antrag auf Erlaubnis
@@ -9589,7 +9424,6 @@ des Beschlusses eingereichte Anträge auf Erlaubnis. Beschließt der Rat
 die Verlängerung der Frist nach Satz 2, so hat die Bundesanstalt diese
 Fristverlängerung zu beachten und die Aussetzung oder Beschränkung
 entsprechend zu verlängern.
-
 
 #### § 33b Anhörung der zuständigen Stellen eines anderen Staates des Europäischen Wirtschaftsraums
 
@@ -9621,7 +9455,6 @@ Inhaber einer bedeutenden Beteiligung an Unternehmen derselben Gruppe
 mit Sitz in dem betreffenden Staat des Europäischen Wirtschaftsraums
 erforderlich sind.
 
-
 #### § 34 Stellvertretung und Fortführung bei Todesfall
 
 (1) § 45 der Gewerbeordnung findet auf Institute keine Anwendung.
@@ -9637,7 +9470,6 @@ Gründen verlängern. Für Finanzdienstleistungsinstitute, die nicht
 befugt sind, sich bei der Erbringung von Finanzdienstleistungen
 Eigentum oder Besitz an Geldern oder Wertpapieren von Kunden zu
 verschaffen, genügt ein Stellvertreter.
-
 
 #### § 35 Erlöschen und Aufhebung der Erlaubnis
 
@@ -9713,7 +9545,6 @@ Staaten des Europäischen Wirtschaftsraums, in denen das Institut
 Zweigniederlassungen errichtet hat oder im Wege des
 grenzüberschreitenden Dienstleistungsverkehrs tätig gewesen ist.
 
-
 #### § 36 Abberufung von Geschäftsleitern, Übertragung von Organbefugnissen auf Sonderbeauftragte, Abberufung von Mitgliedern des Verwaltungs- und Aufsichtsorgans
 
 (1) In den Fällen des § 35 Abs. 2 Nr. 3, 4 und 6 kann die
@@ -9773,7 +9604,6 @@ Vorliegen der Voraussetzungen nach Satz 3 oder Satz 4 auch von der
 Bundesanstalt gestellt werden, wenn der Aufsichtsrat dem
 Abberufungsverlangen der Aufsichtsbehörde nicht nachgekommen ist.
 
-
 #### § 37 Einschreiten gegen ungesetzliche Geschäfte
 
 (1) Werden ohne die nach § 32 erforderliche Erlaubnis Bankgeschäfte
@@ -9799,7 +9629,6 @@ das betroffene Unternehmen anweisen, den von der Bundesanstalt
 festgesetzten Betrag im Namen der Bundesanstalt unmittelbar an den
 Abwickler zu leisten, wenn dadurch keine Beeinflussung der
 Unabhängigkeit des Abwicklers zu besorgen ist.
-
 
 #### § 38 Folgen der Aufhebung und des Erlöschens der Erlaubnis, Maßnahmen bei der Abwicklung
 
@@ -9837,10 +9666,7 @@ gewesen ist.
 (4) Die Absätze 1 und 2 gelten nicht für juristische Personen des
 öffentlichen Rechts.
 
-
 ### 2. - Bezeichnungsschutz
-
-
 
 #### § 39 Bezeichnungen "Bank" und "Bankier"
 
@@ -9872,7 +9698,6 @@ wenn Art oder Umfang der Geschäfte des Kreditinstituts nach der
 Verkehrsanschauung die Führung einer solchen Bezeichnung nicht
 rechtfertigen.
 
-
 #### § 40 Bezeichnung "Sparkasse"
 
 (1) Die Bezeichnung "Sparkasse" oder eine Bezeichnung, in der das Wort
@@ -9902,7 +9727,6 @@ dürfen die Bezeichnung "Bausparkasse", eingetragene Genossenschaften,
 die einem Prüfungsverband angehören, die Bezeichnung "Spar- und
 Darlehenskasse" führen.
 
-
 #### § 41 Ausnahmen
 
 Die §§ 39 und 40 gelten nicht für Unternehmen, die die Worte "Bank",
@@ -9915,13 +9739,11 @@ führen, wenn sie zur Führung dieser Bezeichnung in ihrem Sitzstaat
 berechtigt sind und sie die Bezeichnung um einen auf ihren Sitzstaat
 hinweisenden Zusatz ergänzen.
 
-
 #### § 42 Entscheidung der Bundesanstalt
 
 Die Bundesanstalt entscheidet in Zweifelsfällen, ob ein Unternehmen
 zur Führung der in den §§ 39 und 40 genannten Bezeichnungen befugt
 ist. Sie hat ihre Entscheidungen dem Registergericht mitzuteilen.
-
 
 #### § 43 Registervorschriften
 
@@ -9948,10 +9770,7 @@ Bezeichnungen verwenden, Anträge zu stellen und die nach dem Gesetz
 über das Verfahren in Familiensachen und in den Angelegenheiten der
 freiwilligen Gerichtsbarkeit zulässigen Rechtsmittel einzulegen.
 
-
 ### 3. - Auskünfte und Prüfungen
-
-
 
 #### § 44 Auskünfte und Prüfungen von Instituten, Anbietern von Nebendienstleistungen, Finanzholding-Gesellschaften und in die Aufsicht auf zusammengefaßter Basis einbezogenen Unternehmen
 
@@ -10048,7 +9867,6 @@ der in § 383 Abs. 1 Nr. 1 bis 3 der Zivilprozeßordnung bezeichneten
 Angehörigen der Gefahr strafgerichtlicher Verfolgung oder eines
 Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
-
 #### § 44a Grenzüberschreitende Auskünfte und Prüfungen
 
 (1) Rechtsvorschriften, die einer Übermittlung von Daten
@@ -10103,7 +9921,6 @@ Konglomeratsebene einbezogen werden.
 
 (4) bis (6) (weggefallen)
 
-
 #### § 44b Auskünfte und Prüfungen bei Inhabern bedeutender Beteiligungen
 
 (1) Die Verpflichtungen nach § 44 Abs. 1 Satz 1 gegenüber der
@@ -10148,7 +9965,6 @@ Beantwortung ihn selbst oder einen der in § 383 Abs. 1 Nr. 1 bis 3 der
 Zivilprozessordnung bezeichneten Angehörigen der Gefahr
 strafrechtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über
 Ordnungswidrigkeiten aussetzen würde.
-
 
 #### § 44c Verfolgung unerlaubter Bankgeschäfte und Finanzdienstleistungen
 
@@ -10218,10 +10034,7 @@ Bankgeschäften oder Finanzdienstleistungen einbezogen sind, die in dem
 anderen Staat entgegen einem dort bestehenden Verbot betrieben oder
 erbracht werden.
 
-
 ### 4. - Maßnahmen in besonderen Fällen
-
-
 
 #### § 45 Maßnahmen zur Verbesserung der Eigenmittelausstattung und der Liquidität
 
@@ -10463,7 +10276,6 @@ gilt auch dann, wenn andere private oder öffentliche Stellen als der
 Finanzmarktstabilisierungsfonds zur Erreichung der
 Kapitalanforderungen teilweise oder vollständig beitragen.
 
-
 #### § 45a Maßnahmen gegenüber Finanzholding-Gesellschaften und gemischten Finanzholding-Gesellschaften
 
 (1) Die Bundesanstalt kann einer Finanzholding-Gesellschaft an der
@@ -10536,7 +10348,6 @@ gilt in Bezug auf nachgeordnete Unternehmen einer gemischten
 Finanzholding-Gesellschaft im Sinne von § 10b Abs. 2 Satz 5
 entsprechend.
 
-
 #### § 45b Maßnahmen bei organisatorischen Mängeln
 
 (1) Verfügt ein Institut nicht über eine ordnungsgemäße
@@ -10580,7 +10391,6 @@ geltenden Großkreditobergrenzen nach § 13 Abs. 3 Satz 5 und § 13a Abs.
 3 Satz 4 und Abs. 4 Satz 5 herabsetzen kann.
 
 (3) (weggefallen)
-
 
 #### § 45c Sonderbeauftragter
 
@@ -10726,7 +10536,6 @@ Gesellschaften, die nach § 10a Absatz 3 Satz 6 oder 7 als
 übergeordnetes Unternehmen gelten und bezüglich der Personen, die die
 Geschäfte derartiger Finanzholding-Gesellschaften tatsächlich führen.
 
-
 #### § 46 Maßnahmen bei Gefahr
 
 (1) Besteht Gefahr für die Erfüllung der Verpflichtungen eines
@@ -10819,9 +10628,7 @@ entsprechend Anwendung.
 
 (3) (weggefallen)
 
-
 #### § 46a (weggefallen)
-
 
 #### § 46b Insolvenzantrag
 
@@ -10878,7 +10685,6 @@ Gläubigerversammlung oder einen Gläubigerausschuss. Die Bundesanstalt
 kann darüber hinaus weitere Auskünfte und Unterlagen zum
 Insolvenzverfahren verlangen.
 
-
 #### § 46c Insolvenzrechtliche Fristen und Haftungsfragen
 
 (1) Die nach den §§ 88 und 130 bis 136 der Insolvenzordnung vom Tag
@@ -10895,7 +10701,6 @@ ihrer Tätigkeit pflichtgemäß, soweit sie bei Ausübung ihrer Befugnisse
 vernünftigerweise annehmen durfte, auf der Grundlage angemessener
 Informationen die Ziele des Gesetzes erreichen zu können. § 4 Absatz 4
 des Finanzdienstleistungsaufsichtsgesetzes bleibt unberührt.
-
 
 #### § 46d Unterrichtung der anderen Staaten des Europäischen Wirtschaftsraums über Sanierungsmaßnahmen
 
@@ -10959,7 +10764,6 @@ mit Sitz in einem anderen Staat des Europäischen Wirtschaftsraums für
 notwendig, so setzt sie die zuständigen Behörden dieses Staates
 hiervon in Kenntnis.
 
-
 #### § 46e Insolvenzverfahren in den Staaten des Europäischen Wirtschaftsraums
 
 (1) Zuständig für die Eröffnung eines Insolvenzverfahrens über das
@@ -11004,7 +10808,6 @@ sich auch auf Inhalt und Bestand der Erlaubnis nach § 32 zu
 erstrecken. Die beteiligten Personen und Stellen bemühen sich um ein
 abgestimmtes Vorgehen.
 
-
 #### § 46f Unterrichtung der Gläubiger im Insolvenzverfahren
 
 (1) Mit dem Eröffnungsbeschluss ist den Gläubigern von der
@@ -11045,7 +10848,6 @@ befugten Person zu beglaubigen ist.
 (3) Der Insolvenzverwalter hat die Gläubiger regelmäßig in geeigneter
 Form über den Fortgang des Insolvenzverfahrens zu unterrichten.
 
-
 #### § 47 Moratorium, Einstellung des Bank- und Börsenverkehrs
 
 (1) Sind wirtschaftliche Schwierigkeiten bei Kreditinstituten zu
@@ -11082,7 +10884,6 @@ hierdurch für Fristen und Termine auf dem Gebiet des bürgerlichen
 Rechts, des Handels-, Gesellschafts-, Wechsel-, Scheck- und
 Verfahrensrechts ergeben.
 
-
 #### § 48 Wiederaufnahme des Bank- und Börsenverkehrs
 
 (1) Die Bundesregierung kann nach Anhörung der Deutschen Bundesbank
@@ -11099,10 +10900,7 @@ werden, dürfen solche Beschränkungen nicht angeordnet werden.
 Rechtsverordnungen treten, wenn sie nicht vorher aufgehoben worden
 sind, drei Monate nach ihrer Verkündung außer Kraft.
 
-
 ### 4a. - Maßnahmen gegenüber Kreditinstituten bei Gefahren für die Stabilität des Finanzsystems
-
-
 
 #### § 48a Übertragungsanordnung
 
@@ -11145,7 +10943,6 @@ Finanzmarktstabilisierung vorbereitet.
 Bundesanstalt für Finanzmarktstabilisierung die für die Entscheidung
 erforderlichen Informationen zu übermitteln; § 9 Absatz 1 Satz 5 gilt
 entsprechend.
-
 
 #### § 48b Bestands- und Systemgefährdung
 
@@ -11218,7 +11015,6 @@ Dabei sind insbesondere zu berücksichtigen:
 Bundesbank, ob eine Bestands- und Systemgefährdung im Sinne der
 Absätze 1 und 2 vorliegt und dokumentiert die gemeinsame Einschätzung
 schriftlich.
-
 
 #### § 48c Fristsetzung; Erlass der Übertragungsanordnung
 
@@ -11335,7 +11131,6 @@ zu veröffentlichen. Die Veröffentlichung enthält auch Angaben zur
 Zustimmungserklärung des übernehmenden Rechtsträgers und zu den
 Kapitalerhöhungsbeschlüssen nach Absatz 4.
 
-
 #### § 48d Gegenleistung; Ausgleichsverbindlichkeit
 
 (1) Die Übertragungsanordnung sieht eine Gegenleistung an das
@@ -11418,7 +11213,6 @@ ist das Verhältnis maßgebend, in welchem die Verbindlichkeiten
 unterschiedlicher Fälligkeit oder Rangstufen zueinander stehen. Die
 Absätze 2 bis 4 sind entsprechend anzuwenden.
 
-
 #### § 48e Inhalt der Übertragungsanordnung
 
 (1) Die Übertragungsanordnung enthält mindestens die folgenden
@@ -11484,7 +11278,6 @@ Absatz 2 Nummer 2 und 3 auf die Vorläufigkeit und auf das Verfahren
 zur Bestimmung der endgültigen Gegenleistung oder
 Ausgleichsverbindlichkeit hinzuweisen.
 
-
 #### § 48f Durchführung der Ausgliederung
 
 (1) Die Ausgliederung erfolgt zur Aufnahme auf Grundlage der
@@ -11534,7 +11327,6 @@ die auf die Verhinderung des Erlasses oder des Vollzugs einer
 Übertragungsanordnung gerichtet sind, sind die Folgen zu
 berücksichtigen, die die Verzögerung bei gleichzeitigem Bekanntwerden
 der Bestandsgefährdung nach sich zieht.
-
 
 #### § 48g Wirksamwerden und Wirkungen der Ausgliederung
 
@@ -11593,10 +11385,6 @@ unwirksam. Die Sätze 1 bis 3 gelten nicht
 3.  soweit bei einer partiellen Übertragung die Anforderungen des § 48k
     Absatz 2 Satz 1 bis 3 nicht eingehalten werden.
 
-
-
-
-
 #### § 48h Haftung des Kreditinstituts; Insolvenzfestigkeit der Ausgliederung
 
 (1) Das Kreditinstitut haftet für die von der Ausgliederung erfassten
@@ -11609,7 +11397,6 @@ erlangen kann.
 (2) Ein Insolvenzverfahren über das Vermögen des Kreditinstituts lässt
 die Ausgliederung unberührt; sie kann weder innerhalb noch außerhalb
 eines solchen Insolvenzverfahrens angefochten werden.
-
 
 #### § 48i Gegenstände, die ausländischem Recht unterliegen
 
@@ -11645,7 +11432,6 @@ innerhalb noch außerhalb dieses Insolvenzverfahrens anfechtbar.
 (4) Bestehen Zweifel daran, ob die Rechtswirkungen der
 Übertragungsanordnung im Ausland gelten, sind die Absätze 1 bis 3
 entsprechend anwendbar.
-
 
 #### § 48j Partielle Rückübertragung
 
@@ -11718,7 +11504,6 @@ Bundesanstalt für Finanzmarktstabilisierung.
 
 (7) Die Regelungen in § 48g Absatz 2, 4 und 5 gelten entsprechend.
 
-
 #### § 48k Partielle Übertragung
 
 (1) Abweichend von § 48e Absatz 1 kann die Übertragungsanordnung
@@ -11770,7 +11555,6 @@ Wirksamwerden einer Ausgliederung, die auf einer Übertragungsanordnung
 nach Absatz 1 beruht, weitere Übertragungsanordnungen
 (Folgeanordnungen) erlassen. Folgeanordnungen lösen die Frist nach
 Satz 1 nicht erneut aus. § 48a Absatz 3 gilt entsprechend.
-
 
 #### § 48l Maßnahmen bei dem Kreditinstitut
 
@@ -11834,7 +11618,6 @@ einsetzen, der das Bestehen von Schadensersatzansprüchen des
 Kreditinstituts gegen Organmitglieder oder ehemalige Organmitglieder
 wegen der Verletzung von Sorgfaltspflichten prüft. § 45c Absatz 6
 sowie die §§ 144 und 145 des Aktiengesetzes gelten entsprechend.
-
 
 #### § 48m Maßnahmen bei dem übernehmenden Rechtsträger
 
@@ -11954,14 +11737,12 @@ Plans, kann die Bundesanstalt nach § 45c die Befugnisse der
 Geschäftsleiter auf einen Sonderbeauftragten übertragen, der geeignet
 ist, für die ordnungsmäßige Umsetzung des Plans Sorge zu tragen.
 
-
 #### § 48n Unterrichtung
 
 Über den Erlass einer Übertragungsanordnung und Maßnahmen nach § 48l
 Absatz 1 und 2 sowie § 48m Absatz 6 bis 9 unterrichtet die
 Bundesanstalt nach Maßgabe des § 46d Absatz 1 und 2 die zuständigen
 Behörden der anderen Staaten des Europäischen Wirtschaftsraums.
-
 
 #### § 48o Maßnahmen bei übergeordneten Unternehmen von Institutsgruppen
 
@@ -11999,7 +11780,6 @@ vermutet, wenn
 Hat die Bundesanstalt eine Übertragungsanordnung nach Satz 1 erlassen,
 gelten die §§ 48l bis 48n entsprechend.
 
-
 #### § 48p Maßnahmen bei Finanzholding-Gruppen
 
 Decken die einer Finanzholding-Gruppe zur Verfügung stehenden
@@ -12012,7 +11792,6 @@ gegenüber der Finanzholding-Gesellschaft eine Übertragungsanordnung
 erlassen. Die §§ 48l bis 48n sind entsprechend anzuwenden. § 48o
 Absatz 2 gilt entsprechend.
 
-
 #### § 48q Maßnahmen bei Finanzkonglomeraten
 
 Decken die einem Finanzkonglomerat zur Verfügung stehenden Eigenmittel
@@ -12024,7 +11803,6 @@ auch gegenüber dem übergeordneten Finanzkonglomeratsunternehmen sowie
 gegenüber der gemischten Finanzholding-Gesellschaft eine
 Übertragungsanordnung erlassen. Die §§ 48l bis 48n sind entsprechend
 anzuwenden. § 48o Absatz 2 gilt entsprechend.
-
 
 #### § 48r Rechtsschutz
 
@@ -12061,7 +11839,6 @@ Rechtsträger nach Maßgabe des § 48m Absatz 4 und 5 Ausgleich fordern.
 verbindlich erklärten Liquidationsplans (§ 48m Absatz 9) gilt Absatz 1
 entsprechend.
 
-
 #### § 48s Beschränkung der Vollzugsfolgenbeseitigung; Entschädigung
 
 (1) Die Wirksamkeit einer gemäß § 48c Absatz 6 Satz 2 im
@@ -12090,10 +11867,7 @@ Bundesanstalt nach § 48a Absatz 2 Satz 2 rechtmäßig ist und das
 Kreditinstitut die in dieser Vorschrift genannten Umstände nicht zu
 verantworten hat.
 
-
 ### 5. - Vollziehbarkeit, Zwangsmittel, Umlage und Kosten
-
-
 
 #### § 49 Sofortige Vollziehbarkeit
 
@@ -12109,11 +11883,9 @@ der §§ 36, 37 und 44 Abs. 1, auch in Verbindung mit § 44b, Abs. 2 und
 und des § 45b Abs. 1, der §§ 45c, 46, 46b und 48a bis 48q haben keine
 aufschiebende Wirkung.
 
-
 #### § 50
 
 (weggefallen)
-
 
 #### § 51 Umlage und Kosten
 
@@ -12176,10 +11948,7 @@ den Zeitraum bis zum 30. April 2002 in der bis zum 30. April 2002
 geltenden Fassung auf die angefallenen Kosten des Bundesaufsichtsamtes
 für das Kreditwesen anzuwenden.
 
-
 ## Vierter Abschnitt - Besondere Vorschriften für Finanzkonglomerate
-
-
 
 ### § 51a Ermittlung eines Finanzkonglomerats; Schwellenwerte
 
@@ -12293,7 +12062,6 @@ dieses Gesetzes oder nach § 104g des Versicherungsaufsichtsgesetzes
 erfasst wird, sind insoweit die Bestimmungen über die
 Solvabilitätsanforderungen des jeweiligen Sitzstaates anzuwenden.
 
-
 ### § 51b Feststellung eines Finanzkonglomerats
 
 (1) Die Bundesanstalt stellt fest, dass eine branchenübergreifend
@@ -12335,7 +12103,6 @@ die Feststellung einer Gruppe von Unternehmen als Finanzkonglomerat
 und die Bestimmung des übergeordneten Finanzkonglomeratsunternehmens
 aufheben; Absatz 1 Satz 2 gilt entsprechend.
 
-
 ### § 51c Befreiungen
 
 Die Bundesanstalt kann widerruflich von der Feststellung einer Gruppe
@@ -12369,19 +12136,12 @@ und 25a Absatz 1b ganz oder teilweise freistellen, wenn
     Freistellung ist auf einen Zeitraum von höchstens drei Jahren zu
     befristen, beginnend mit dem nächstfolgenden Geschäftsjahr.
 
-
-
-
-
 ## Fünfter Abschnitt - Sondervorschriften
-
-
 
 ### § 52 Sonderaufsicht
 
 Soweit Institute einer anderen staatlichen Aufsicht unterliegen,
 bleibt diese neben der Aufsicht der Bundesanstalt bestehen.
-
 
 ### § 52a Verjährung von Ansprüchen gegen Organmitglieder von Kreditinstituten
 
@@ -12392,7 +12152,6 @@ verjähren in zehn Jahren.
 
 (2) Absatz 1 ist auch auf die vor dem 15. Dezember 2010 entstandenen
 und noch nicht verjährten Ansprüche anzuwenden.
-
 
 ### § 53 Zweigstellen von Unternehmen mit Sitz im Ausland
 
@@ -12501,7 +12260,6 @@ nur mit Zustimmung der Bundesanstalt erfolgen. Die Zustimmung ist in
 der Regel zu verweigern, wenn nicht nachgewiesen ist, dass sämtliche
 Geschäfte der Zweigstelle abgewickelt worden sind.
 
-
 ### § 53a Repräsentanzen von Instituten mit Sitz im Ausland
 
 Ein Institut mit Sitz im Ausland darf eine Repräsentanz im Inland
@@ -12516,7 +12274,6 @@ Tätigkeit erst aufnehmen, wenn dem Institut die Bestätigung der
 Bundesanstalt vorliegt. Das Institut hat der Bundesanstalt und der
 Deutschen Bundesbank die Verlegung oder Schließung der Repräsentanz
 unverzüglich anzuzeigen.
-
 
 ### § 53b Unternehmen mit Sitz in einem anderen Staat des Europäischen Wirtschaftsraums
 
@@ -12775,7 +12532,6 @@ vollständigen Begründung. Wurde die Europäische Bankenaufsichtsbehörde
 angehört, berücksichtigt die Bundesanstalt deren Stellungnahme und
 begründet jede erhebliche Abweichung davon.
 
-
 ### § 53c Unternehmen mit Sitz in einem Drittstaat
 
 Das Bundesministerium der Finanzen wird ermächtigt, durch
@@ -12808,13 +12564,6 @@ Rechtsverordnung
     c)  die zuständigen Behörden des Sitzstaates zu einer befriedigenden
         Zusammenarbeit mit der Bundesanstalt bereit sind und dies auf der
         Grundlage einer zwischenstaatlichen Vereinbarung sichergestellt ist.
-
-
-
-
-
-
-
 
 ### § 53d Mutterunternehmen mit Sitz in einem Drittstaat
 
@@ -12871,15 +12620,11 @@ betroffenen zuständigen Stellen im Europäischen Wirtschaftsraum über
 die gewählte Vorgehensweise. Die Pflichten aus § 7a Absatz 2 Nummer 3
 und § 7b Absatz 3 Nummer 2 bleiben unberührt.
 
-
 ### § 53e (weggefallen)
 
 -
 
-
 ## Sechster Abschnitt - Strafvorschriften, Bußgeldvorschriften
-
-
 
 ### § 54 Verbotene Geschäfte, Handeln ohne Erlaubnis
 
@@ -12900,7 +12645,6 @@ bestraft.
 (2) Handelt der Täter fahrlässig, so ist die Strafe Freiheitsstrafe
 bis zu drei Jahren oder Geldstrafe.
 
-
 ### § 55 Verletzung der Pflicht zur Anzeige der Zahlungsunfähigkeit oder der Überschuldung
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
@@ -12911,14 +12655,12 @@ vollständig oder nicht rechtzeitig erstattet.
 (2) Handelt der Täter fahrlässig, so ist die Strafe Freiheitsstrafe
 bis zu einem Jahr oder Geldstrafe.
 
-
 ### § 55a Unbefugte Verwertung von Angaben über Millionenkredite
 
 (1) Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird
 bestraft, wer entgegen § 14 Abs. 2 Satz 10 eine Angabe verwertet.
 
 (2) Die Tat wird nur auf Antrag verfolgt.
-
 
 ### § 55b Unbefugte Offenbarung von Angaben über Millionenkredite
 
@@ -12930,7 +12672,6 @@ einen anderen zu bereichern oder einen anderen zu schädigen, ist die
 Strafe Freiheitsstrafe bis zu zwei Jahren oder Geldstrafe.
 
 (3) Die Tat wird nur auf Antrag verfolgt.
-
 
 ### § 56 Bußgeldvorschriften
 
@@ -13148,10 +12889,7 @@ Absatzes 2 Nr. 1, 2 und 3 Buchstabe b sowie des Absatzes 3 Nr. 4 bis
 übrigen Fällen mit einer Geldbuße bis zu fünfzigtausend Euro geahndet
 werden.
 
-
 ### (XXXX) §§ 57 und 58 (weggefallen)
-
-
 
 ### § 59 Geldbußen gegen Unternehmen
 
@@ -13160,12 +12898,10 @@ im Sinne des § 53b Abs. 1 Satz 1 und Abs. 7 Satz 1, die über eine
 Zweigniederlassung oder im Wege des grenzüberschreitenden
 Dienstleistungsverkehrs im Inland tätig sind.
 
-
 ### § 60 Zuständige Verwaltungsbehörde
 
 Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über
 Ordnungswidrigkeiten ist die Bundesanstalt.
-
 
 ### § 60a Beteiligung der Bundesanstalt und Mitteilungen in Strafsachen
 
@@ -13220,10 +12956,7 @@ nicht für die Akteneinsicht gewährende Stelle erkennbar ist, dass
 schutzwürdige Interessen des Betroffenen überwiegen. Absatz 2 Satz 2
 gilt entsprechend.
 
-
 ## Siebenter Abschnitt - Übergangs- und Schlußvorschriften
-
-
 
 ### § 61 Erlaubnis für bestehende Kreditinstitute
 
@@ -13232,7 +12965,6 @@ Bankgeschäfte in dem in § 1 Abs. 1 bezeichneten Umfang betreiben
 durfte, gilt die Erlaubnis nach § 32 als erteilt. Die in § 35 Abs. 1
 genannte Frist beginnt mit dem Inkrafttreten dieses Gesetzes zu
 laufen.
-
 
 ### § 62 Überleitungsbestimmungen
 
@@ -13255,11 +12987,9 @@ Altbankenrechnung sowie für die Aufgaben und Befugnisse nach den
 Wertpapierbereinigungsgesetzen und dem Bereinigungsgesetz für deutsche
 Auslandsbonds bleiben unberührt.
 
-
 ### § 63
 
 (Aufhebung und Änderung von Rechtsvorschriften)
-
 
 ### § 63a Sondervorschriften für das in Artikel 3 des Einigungsvertrages genannte Gebiet
 
@@ -13277,7 +13007,6 @@ Einigungsvertrages genannten Gebiet an das Bundesrecht, angezeigt ist.
 
 (3) (weggefallen)
 
-
 ### § 64 Nachfolgeunternehmen der Deutschen Bundespost
 
 (1) Ab 1. Januar 1995 gilt die Erlaubnis nach § 32 für das
@@ -13287,11 +13016,9 @@ Dezember 2002 Anteile an den Nachfolgeunternehmen der Deutschen
 Bundespost nicht berücksichtigt, die von der Bundesanstalt für Post
 und Telekommunikation Deutsche Bundespost gehalten werden.
 
-
 ### § 64a (weggefallen)
 
 -
-
 
 ### § 64b Kapital von bestehenden Kreditinstituten
 
@@ -13332,11 +13059,9 @@ hat. Erfüllt ein Kreditinstitut diese Kapitalanforderungen dauerhaft
 nicht, so gilt § 35 Abs. 2 Nr. 3 über die Aufhebung der Erlaubnis
 entsprechend.
 
-
 ### § 64c (weggefallen)
 
 -
-
 
 ### § 64d Übergangsregelung für Großkredite
 
@@ -13359,7 +13084,6 @@ gilt entsprechend. Satz 4 gilt nicht, falls ein solches Institut nach
 dem 5. Februar 1993 mit einem anderen Institut verschmolzen worden ist
 oder wird und das haftende Eigenkapital der verschmolzenen
 Kreditinstitute sieben Millionen Euro übersteigt.
-
 
 ### § 64e Übergangsvorschriften zum Sechsten Gesetz zur Änderung des Gesetzes über das Kreditwesen
 
@@ -13418,7 +13142,6 @@ haftenden Gesellschafter eines Kreditinstituts, das am 1. Januar 1998
 der Bundesanstalt zu bestimmenden Umfang als haftendes Eigenkapital
 berücksichtigt werden.
 
-
 ### § 64f Übergangsvorschriften zum Vierten Finanzmarktförderungsgesetz
 
 (1) Für ein Kreditinstitut, das am 1. Juli 2002 über eine Erlaubnis
@@ -13433,7 +13156,6 @@ Absicht, diese fortzuführen, der Bundesanstalt und der Deutschen
 Bundesbank anzuzeigen. § 64e Abs. 2 Satz 2 bis 5 gilt entsprechend.
 
 (3) bis (6) (weggefallen)
-
 
 ### § 64g Übergangsvorschriften zum Finanzkonglomeraterichtlinie-Umsetzungsgesetz
 
@@ -13562,7 +13284,6 @@ Geschäftsjahr oder das während des Jahres 2005 beendete Geschäftsjahr
 anzuwenden. Anzeigen nach Absatz 1 Nr. 1 und 4 sind erstmals zum 16.
 Januar 2006 einzureichen.
 
-
 ### § 64h Übergangsvorschriften zum Gesetz zur Umsetzung der neu gefassten Bankenrichtlinie und der neu gefassten Kapitaladäquanzrichtlinie
 
 (1) Kredite, die vor dem 1. Januar 2007 gewährt wurden und denen in
@@ -13635,7 +13356,6 @@ ein übergeordnetes Unternehmen das Verfahren nach § 10a Abs. 7 vor dem
 
 (7) § 2 Abs. 8a ist bis längstens zum 31. Dezember 2014 anzuwenden.
 
-
 ### § 64i Übergangsvorschriften zum Finanzmarktrichtlinie-Umsetzungsgesetz
 
 (1) Für ein Unternehmen, das am 1. November 2007 eine Erlaubnis für
@@ -13675,7 +13395,6 @@ der Erlaubnis nach § 33 zu versagen.
 die Abschlussvermittlung hat, gilt für die Erlaubnis zur Erbringung
 des Platzierungsgeschäfts Absatz 1 Satz 2 entsprechend.
 
-
 ### § 64j Übergangsvorschriften zum Jahressteuergesetz 2009
 
 (1) Für ein Unternehmen, das am 25. Dezember 2008 eine Erlaubnis für
@@ -13701,13 +13420,11 @@ Eröffnungsbilanz und eine unterjährige Gewinn- und Verlustrechnung,
 sowie einen aktuellen Handelsregisterauszug und die Gewerbeanzeige
 nach § 14 Abs. 1 Satz 1 der Gewerbeordnung enthalten.
 
-
 ### § 64k Übergangsvorschrift zum Gesetz zur Umsetzung der Beteiligungsrichtlinie
 
 Auf Verfahren nach § 2c, bei denen bis zum 17. März 2009 eine Anzeige
 eingegangen ist, sind die Vorschriften dieses Gesetzes in der bis zum
 17\. März 2009 geltenden Fassung anzuwenden.
-
 
 ### § 64l Übergangsvorschrift zur Erlaubnis für die Anlageverwaltung
 
@@ -13718,7 +13435,6 @@ Anlageverwaltung als zu diesem Zeitpunkt erteilt. Eine
 Erlaubnispflicht für die Anlageverwaltung besteht nicht für solche
 Produkte, für die bis zum 24. September 2008 ein Verkaufsprospekt
 veröffentlicht wurde.
-
 
 ### § 64m Übergangsvorschriften zum Gesetz zur Umsetzung der geänderten Bankenrichtlinie und der geänderten Kapitaladäquanzrichtlinie
 
@@ -13777,7 +13493,6 @@ Großkredit- und Millionenkreditverordnung in der bis zum 30. Dezember
 Maßgabe dieser Bestimmungen auf die Großkreditobergrenze anzurechnen,
 sofern es sich um Kredite an andere Institute handelt.
 
-
 ### § 64n Übergangsvorschrift zum Gesetz zur Novellierung des Finanzvermittler- und Vermögensanlagenrechts
 
 Für ein Unternehmen, das auf Grund der Erweiterung der Definition der
@@ -13787,7 +13502,6 @@ Zeitpunkt bis zur Entscheidung der Bundesanstalt als vorläufig
 erteilt, wenn es bis zum 31. Dezember 2012 einen vollständigen
 Erlaubnisantrag nach § 32 Absatz 1 Satz 1 und 2, auch in Verbindung
 mit einer Rechtsverordnung nach § 24 Absatz 4, stellt.
-
 
 ### § 65
 

@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BAnz: 2010, Nr 110, 2571
 
-
 ## Eingangsformel
 
 Auf Grund des § 11 Absatz 1 und 2 in Verbindung mit Absatz 3 des
@@ -29,7 +28,6 @@ Kommissionen, die auf der Grundlage kirchlichen Rechts
 Arbeitsbedingungen für den Bereich kirchlicher Arbeitgeber in der
 Pflegebranche festlegen, Gelegenheit zur schriftlichen Stellungnahme
 gegeben hat:
-
 
 ## § 1 Geltungsbereich
 
@@ -61,10 +59,6 @@ Sie gilt nicht für
     Zusammenhang mit einem berufsvorbereitenden, beruflichen oder
     schulischen Lehrgang oder einer entsprechenden Maßnahme steht.
 
-
-
-
-
 ## § 2 Mindestentgelt
 
 (1) Das Mindestentgelt beträgt im Gebiet der Länder Baden-Württemberg,
@@ -93,10 +87,6 @@ Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen
 
 -   ab dem 1. Juli 2013: 8,00 Euro je Stunde.
 
-
-
-
-
 ## § 3 Fälligkeit
 
 (1) Das in § 2 festgelegte Mindestentgelt wird für die
@@ -120,13 +110,11 @@ Regelung.
 
 (3) Die Vorschriften des Arbeitszeitgesetzes bleiben unberührt.
 
-
 ## § 4 Ausschlussfrist
 
 Die Ansprüche auf das Mindestentgelt verfallen, wenn sie nicht
 innerhalb von zwölf Monaten nach ihrer Fälligkeit schriftlich geltend
 gemacht werden.
-
 
 ## § 5 Inkrafttreten, Außerkrafttreten
 

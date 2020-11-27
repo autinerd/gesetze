@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 G v. 22.9.2009 I 3022
 
-
 ## § 1
 
 (1) Die Richter der obersten Gerichtshöfe des Bundes werden von dem
@@ -38,12 +37,10 @@ zur Ernennung zu Mitgliedern des Gerichts vorzuschlagenden
 Persönlichkeiten werden von der Bundesregierung im Einvernehmen mit
 dem Richterwahlausschuss benannt.
 
-
 ## § 2
 
 Der Richterwahlausschuß besteht aus den Mitgliedern kraft Amtes und
 einer gleichen Zahl von Mitgliedern kraft Wahl.
-
 
 ## § 3
 
@@ -58,7 +55,6 @@ für ihre Vertretung in der Landesregierung gelten.
 (3) Für das Verfahren nach § 1 Absatz 3 regeln die Länder, welcher
 Landesminister Mitglied kraft Amtes ist.
 
-
 ## § 4
 
 (1) Die Mitglieder kraft Wahl müssen zum Bundestag wählbar und im
@@ -70,7 +66,6 @@ notwendig.
 
 (3) Jedes dieser Mitglieder kann sich durch seinen Stellvertreter
 vertreten lassen.
-
 
 ## § 5
 
@@ -94,7 +89,6 @@ ist.
 
 (5) Jeder neu gewählte Bundestag nimmt eine Neuwahl vor.
 
-
 ## § 6
 
 (1) Der Bundesminister der Justiz verpflichtet die Mitglieder des
@@ -105,13 +99,11 @@ gewissenhafte Pflichterfüllung.
 Genehmigung zur Aussage in gerichtlichen Verfahren erteilt der
 Bundesminister der Justiz.
 
-
 ## § 7
 
 Ein Mitglied des Richterwahlausschusses ist von der Mitwirkung bei der
 Wahl eines Richters ausgeschlossen, wenn die Voraussetzungen des § 41
 Nr. 3 der Zivilprozeßordnung vorliegen.
-
 
 ## § 8
 
@@ -121,7 +113,6 @@ Nr. 3 der Zivilprozeßordnung vorliegen.
 Richterwahlausschusses enthalten und den Mitgliedern mindestens eine
 Woche vor der Sitzung zugehen.
 
-
 ## § 9
 
 (1) Der zuständige Bundesminister oder sein Vertreter in der
@@ -130,7 +121,6 @@ Bundesregierung führt den Vorsitz. Er hat kein Stimmrecht.
 (2) Die Sitzungen sind nicht öffentlich.
 
 (3) Über jede Sitzung wird eine Niederschrift gefertigt.
-
 
 ## § 10
 
@@ -151,13 +141,11 @@ Personalakten der für ein Richteramt Vorgeschlagenen vor.
 (3) Zur Vorbereitung der Entscheidung bestellt der Richterwahlausschuß
 zwei seiner Mitglieder als Berichterstatter.
 
-
 ## § 11
 
 Der Richterwahlausschuß prüft, ob der für ein Richteramt
 Vorgeschlagene die sachlichen und persönlichen Voraussetzungen für
 dieses Amt besitzt.
-
 
 ## § 12
 
@@ -168,12 +156,10 @@ Mehrheit der abgegebenen Stimmen.
 sowohl der Mitglieder kraft Amtes als auch der Mitglieder kraft Wahl
 anwesend ist.
 
-
 ## § 13
 
 Stimmt der zuständige Bundesminister zu, so hat er die Ernennung des
 Gewählten beim Bundespräsidenten zu beantragen.
-
 
 ## § 14
 
@@ -181,7 +167,6 @@ Die Mitglieder kraft Wahl erhalten Reisekostenentschädigung nach den
 Bestimmungen des Bundesreisekostengesetzes. Dies gilt nicht für
 Mitglieder des Bundestages, wenn der Richterwahlausschuß an einem
 Sitzungstag des Bundestages am Sitzungsort zusammentritt.
-
 
 ## § 15
 

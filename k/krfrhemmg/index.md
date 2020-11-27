@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl: 1950, 821
 
-
-
 ## § 1
 
 (1) Die bürgerlich-rechtlichen Ansprüche, deren Verjährung durch
@@ -32,7 +30,6 @@ würde, jedoch nicht vor dem Ablauf des 31. März 1951.
 vollendet als sechs Monate nach Fortfall des Grundes dieser Hemmung.
 Ist die Dauer der Hemmung kürzer als sechs Monate, so tritt sie an die
 Stelle der sechs Monate.
-
 
 ## § 2
 
@@ -59,7 +56,6 @@ beträgt, verjährt statt am Ende des Kalenderjahres bereits am Ende des
 Kalenderhalbjahres, das auf das in Absatz 1 oder in Absatz 2
 bezeichnete Ereignis folgt.
 
-
 ## § 3
 
 (1) Für Zahlungsansprüche aus dem zwischenstaatlichen Geld- oder
@@ -75,7 +71,6 @@ war.
 Währung, die ein Gläubiger durch Weitergabe der ihm im
 zwischenstaatlichen Geld- oder Kapitalverkehr zugeflossenen Mittel im
 Inland erworben hat.
-
 
 ## § 4
 
@@ -109,11 +104,9 @@ laufen, soweit zur Einlösung der Scheine eine devisenrechtliche
 Sondergenehmigung erforderlich ist, erst am Ende des Kalenderjahres
 ab, vor dessen Beginn das Erfordernis der Sondergenehmigung wegfällt.
 
-
 ## § 5
 
 -
-
 
 ## § 6
 

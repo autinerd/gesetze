@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BAnz: 1962, Nr 207
 
-
-
 ## I.
 
 (1) Auf Grund des § 8 Abs. 1 der Verordnung über die Gewährung von
@@ -48,11 +46,9 @@ der Oberfinanzdirektion Köln und für das Zollkriminalinstitut in Köln.
 übertragene Befugnis gilt zugleich für das Beschaffungsamt der
 Bundeszollverwaltung in Offenbach (Main).
 
-
 ## II.
 
 Diese Anordnung tritt mit Wirkung vom 4. August 1962 in Kraft.
-
 
 ## Schlußformel
 

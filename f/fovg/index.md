@@ -22,16 +22,12 @@ Dieses Gesetz dient der Umsetzung der Richtlinie 1999/105/EG des Rates
 vom 22. Dezember 1999 über den Verkehr mit forstlichem Vermehrungsgut
 (ABl. EG 2000 Nr. L 11 S. 17, 2001 Nr. L 121 S. 48).
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Abschnitt 1 - Allgemeine Vorschriften
-
-
 
 ### § 1 Zweck und Anwendungsbereich des Gesetzes
 
@@ -53,10 +49,6 @@ werden.
 
 2.  für Pflanzenteile und Pflanzgut, die nachweislich nicht für forstliche
     Zwecke bestimmt sind, mit Ausnahme der Vorschriften über die Einfuhr.
-
-
-
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -260,10 +252,6 @@ Im Sinne dieses Gesetzes sind
     forstliches Vermehrungsgut gewerbsmäßig und steuerrechtlich
     selbständig erzeugt, in Verkehr bringt, einführt oder ausführt.
 
-
-
-
-
 ### § 3 Ermächtigung zur Änderung der Baumartenliste
 
 Das Bundesministerium für Ernährung, Landwirtschaft und
@@ -275,10 +263,7 @@ unterwerfen, soweit dies zur Durchführung von Rechtsakten der
 Europäischen Gemeinschaft oder der Europäischen Union erforderlich
 ist.
 
-
 ## Abschnitt 2 - Zulassung
-
-
 
 ### § 4 Zulassung von Ausgangsmaterial
 
@@ -344,7 +329,6 @@ die Anforderungen an das Ausgangsmaterial näher. Ferner kann das
 Bundesministerium in Rechtsverordnungen nach Satz 1 die
 Zusammensetzung und das Verfahren der Gutachterausschüsse regeln.
 
-
 ### § 5 Herkunftsgebiete
 
 (1) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit
@@ -357,7 +341,6 @@ veröffentlichen.
 (2) Die Landesstellen können die Zulassungseinheiten den
 Herkunftsgebieten zuordnen, soweit dies erforderlich ist, um eine
 eindeutige Zuordnung zu gewährleisten.
-
 
 ### § 6 Register und Liste über zugelassenes Ausgangsmaterial
 
@@ -388,10 +371,7 @@ Zustimmung des Bundesrates
 
 näher zu bestimmen.
 
-
 ## Abschnitt 3 - Erzeugung
-
-
 
 ### § 7 Erzeugung von forstlichem Vermehrungsgut
 
@@ -441,7 +421,6 @@ durch Rechtsverordnung bestimmen, dass
 Die Landesregierungen können die Ermächtigung nach Satz 1 durch
 Rechtsverordnung auf andere Behörden übertragen.
 
-
 ### § 8 Stammzertifikat
 
 (1) Material, das als forstliches Vermehrungsgut dienen kann, darf vom
@@ -457,7 +436,6 @@ führt eine Liste der von jeder Zulassungseinheit erzeugten Partien.
 (3) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates Inhalt und Form der Stammzertifikate näher
 zu bestimmen.
-
 
 ### § 9 Trennung, Mischung und Kennzeichnung von forstlichem Vermehrungsgut
 
@@ -484,7 +462,6 @@ Zustimmung des Bundesrates die Anforderungen an
 
 näher zu regeln.
 
-
 ### § 10 Trennung und Kennzeichnung von sonstigem Material
 
 Zapfen, Fruchtstände, Früchte und Samen, die nicht zur Aussaat im Wald
@@ -497,10 +474,7 @@ Satz 2 beim Eingang im Betrieb gekennzeichnet und dokumentiert werden.
 Dabei sind Eingang und Ausgang im Betrieb sowie Absender und Empfänger
 aufzuzeichnen.
 
-
 ## Abschnitt 4 - Inverkehrbringen
-
-
 
 ### § 11 Inverkehrbringen von forstlichem Vermehrungsgut
 
@@ -521,7 +495,6 @@ werden. Es muss
 (2) Saatgut darf nur in verschlossenen Verpackungen in den Verkehr
 gebracht werden. Der Verschluss muss so beschaffen sein, dass er beim
 ersten Öffnen unbrauchbar wird.
-
 
 ### § 12 Anforderungen an die äußere Beschaffenheit von forstlichem Vermehrungsgut
 
@@ -546,7 +519,6 @@ sein, die anhand der Freiheit von Beschädigungen, des
 Gesundheitszustandes, der Wüchsigkeit und der physiologischen Qualität
 bestimmt wird.
 
-
 ### § 13 Verkehrsbeschränkungen
 
 (1) Forstliches Vermehrungsgut der Kategorie "Quellengesichert" darf
@@ -562,7 +534,6 @@ Bundesministerium kann die Ermächtigung nach Satz 1 durch
 Rechtsverordnung ohne Zustimmung des Bundesrates an die Bundesanstalt
 übertragen. Die Verkehrsbeschränkungen hat der Lieferant des
 Vermehrungsgutes jedem Erwerber bei der Veräußerung mitzuteilen.
-
 
 ### § 14 Lieferpapiere
 
@@ -639,10 +610,7 @@ Zustimmung des Bundesrates
 
 zu regeln.
 
-
 ## Abschnitt 5 - Ein- und Ausfuhr
-
-
 
 ### § 15 Einfuhr von forstlichem Vermehrungsgut
 
@@ -702,7 +670,6 @@ von ungeeignetem forstlichen Vermehrungsgut durch Rechtsverordnung mit
 Zustimmung des Bundesrates die Voraussetzungen für die Einfuhr sowie
 das Verfahren näher zu regeln.
 
-
 ### § 16 Ausfuhr von forstlichem Vermehrungsgut
 
 (1) Die Ausfuhr von forstlichem Vermehrungsgut ist vom Absender unter
@@ -714,10 +681,7 @@ Landesstelle auf Antrag ein neues Stammzertifikat oder Herkunfts- oder
 Identitätszertifikat entsprechend völkerrechtlich verbindlichen
 Vereinbarungen erstellen.
 
-
 ## Abschnitt 6 - Herkunfts- und Identitätssicherung
-
-
 
 ### § 17 Anforderungen an Forstsamen- oder Forstpflanzenbetriebe
 
@@ -794,7 +758,6 @@ Ausgang von Vermehrungsgut der Landesstelle in bestimmter Form zu
 melden haben. Diese Meldungen dürfen nur zur Durchführung dieses
 Gesetzes verwendet werden.
 
-
 ### § 18 Überwachung in den Ländern
 
 (1) Die Landesstellen haben die Durchführung dieses Gesetzes und der
@@ -839,7 +802,6 @@ ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die
 für dieses Vermehrungsgut geltenden Vorschriften entsprechend
 völkerrechtlich verbindlichen Vereinbarungen näher zu bestimmen.
 
-
 ### § 19 Überwachung der Einfuhr
 
 (1) Die Bundesanstalt überwacht die Einfuhr von Vermehrungsgut. § 18
@@ -881,7 +843,6 @@ angeordnet werden, dass bestimmtes Vermehrungsgut nur über bestimmte
 Zollstellen eingeführt werden darf. Die Zollstellen werden im
 Bundesanzeiger bekannt gegeben.
 
-
 ### § 20 Zusammenarbeit zwischen den Mitgliedstaaten der Europäischen Union
 
 (1) Die Bundesanstalt übermittelt den amtlichen Stellen anderer
@@ -899,7 +860,6 @@ Forstpflanzenbetriebe und die Landesstellen der Bundesanstalt
 bestimmte Angaben über das Verbringen von Partien zwischen
 Mitgliedstaaten der Europäischen Union sowie bei der Ein- und Ausfuhr
 mitteilen.
-
 
 ### § 21 Ausnahmetatbestände
 
@@ -930,17 +890,13 @@ werden, soweit dies erforderlich ist, um zu verhindern, dass
 ungeeignetes Vermehrungsgut zur Verwendung im Wald in Verkehr gebracht
 werden kann.
 
-
 ## Abschnitt 7 - Übergangs- und Schlussvorschriften
-
-
 
 ### § 22 Strafvorschriften
 
 Wer entgegen § 14 Abs. 1 Nr. 3 Buchstabe a Vermehrungsgut in Verkehr
 bringt, wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe
 bestraft.
-
 
 ### § 23 Bußgeldvorschriften
 
@@ -1045,10 +1001,6 @@ fünfzigtausend Euro geahndet werden.
     13 Buchstabe b bei Verstößen gegen eine Rechtsverordnung nach § 19
     Abs. 2 Satz 1.
 
-
-
-
-
 ### § 24 Übergangsvorschriften
 
 (1) Forstliches Vermehrungsgut, das dem Gesetz über forstliches Saat-
@@ -1069,13 +1021,11 @@ entsprechend der Vorschriften dieses Gesetzes und mit der
 Kennzeichnung "nicht unter dem FoVG erzeugtes Vermehrungsgut" noch bis
 zum 31. Dezember 2009 in den Verkehr gebracht werden.
 
-
 ### § 25 Inkrafttreten, Außerkrafttreten
 
 Vorschriften, die zum Erlass von Rechtsverordnungen ermächtigen,
 treten am Tage nach der Verkündung in Kraft. Im Übrigen tritt dieses
 Gesetz am 1. Januar 2003 in Kraft.
-
 
 ### Anlage (zu § 2 Nr. 1) Liste der Baumarten und künstlichen Hybriden, die der Richtlinie 1999/105/EG unterliegen
 

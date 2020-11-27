@@ -16,12 +16,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 2008, 520
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -32,7 +30,6 @@ angenommenen Internationalen Übereinkommen von 2001 über die
 Beschränkung des Einsatzes schädlicher Bewuchsschutzsysteme auf
 Schiffen wird zugestimmt. Das Übereinkommen wird nachstehend mit einer
 amtlichen deutschen Übersetzung veröffentlicht.
-
 
 ## Art 2
 
@@ -52,7 +49,6 @@ Geldbuße bis zu zehntausend Euro geahndet werden.
 (3) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes
 über Ordnungswidrigkeiten ist die nach Landesrecht zuständige Behörde.
 
-
 ## Art 3
 
 Das Bundesministerium für Verkehr, Bau und Stadtentwicklung  wird
@@ -63,16 +59,13 @@ Rechtsverordnungen nach Satz 1 bedürfen der Zustimmung des
 Bundesrates, wenn sie Regelungen enthalten, die von  den Ländern als
 eigene Angelegenheit auszuführen sind.
 
-
 ## Art 4
 
 - - -
 
-
 ## Art 5
 
 - - -
-
 
 ## Art 6
 

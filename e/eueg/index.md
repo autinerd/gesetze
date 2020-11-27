@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 15 Abs. 77 G v. 5.2.2009 I 160
 
-
 ## § 1 Arbeitsverhältnis bei Einberufung
 
 (1) Wird ein Arbeitnehmer auf Grund freiwilliger Verpflichtung zu
@@ -40,7 +39,6 @@ der ihm hierdurch ohne sein Verschulden entstandenen Mehraufwendungen.
 einer Eignungsübung nicht verlängert; das gleiche gilt, wenn ein
 Arbeitsverhältnis aus sonstigen Gründen während der Eignungsübung
 geendet hätte.
-
 
 ## § 2 Kündigungsverbot für den Arbeitgeber
 
@@ -69,7 +67,6 @@ Ungunsten berücksichtigt worden ist.
 vor Inkrafttreten dieses Gesetzes dem Arbeitnehmer wegen einer
 beabsichtigten Teilnahme an einer Eignungsübung gekündigt hat.
 
-
 ## § 3 Ende des Arbeitsverhältnisses
 
 (1) Bleibt der Arbeitnehmer im Anschluß an die Eignungsübung als
@@ -90,7 +87,6 @@ Arbeitsverhältnis höchstens weitere vier Monate. Es endet, wenn der
 Arbeitnehmer die Eignungsübung auch noch über diesen Zeitpunkt hinaus
 freiwillig fortsetzt. Absatz 1 Satz 2 gilt entsprechend.
 
-
 ## § 4 Werkwohnung
 
 Eine Werkwohnung ist für die Dauer der Eignungsübung weiterzugewähren.
@@ -101,7 +97,6 @@ Arbeitsentgelts als Entschädigung zu zahlen. Ist kein Betrag
 festgesetzt, ist für die Weitergewährung eine angemessene
 Entschädigung zu zahlen. Für sonstige Sachbezüge aus dem
 Arbeitsverhältnis gilt entsprechendes.
-
 
 ## § 5 Vorschriften für Handelsvertreter
 
@@ -152,7 +147,6 @@ hinaus freiwillig fortsetzt. Absatz 5 Satz 2 gilt entsprechend.
 Anspruch des Handelsvertreters auf Ausgleich nach § 89b des
 Handelsgesetzbuchs nicht.
 
-
 ## § 6 Ausschluß von Nachteilen
 
 (1) Aus der Teilnahme an einer Eignungsübung darf dem Arbeitnehmer in
@@ -168,7 +162,6 @@ ausschließlich aus der Dauer der Zugehörigkeit zum Beruf, zum Betrieb
 oder zur Verwaltung oder aus der Dauer des Vertragsverhältnisses
 ergeben; darin ist zu bestimmen, daß der Bund Beiträge leistet. Der
 Arbeitgeber kann verpflichtet werden, Beiträge vorab zu entrichten.
-
 
 ## § 7 Vorschriften für Beamte und Richter
 
@@ -216,7 +209,6 @@ freiwillig fort, gilt Satz 1 entsprechend.
 (7) In den Fällen der Absätze 5 und 6 gilt § 3 Abs. 1 Satz 2
 sinngemäß; die Entlassung gilt als Entlassung auf eigenen Antrag.
 
-
 ## § 8 Gesetzliche Krankenversicherung
 
 (1) Die Teilnahme an einer Eignungsübung berührt eine bestehende
@@ -238,7 +230,6 @@ Beitrags, der zuletzt vor Beginn der Eignungsübung zu entrichten war.
 Während der Eignungsübung eintretende Änderungen des Beitragssatzes
 und der Jahresarbeitsverdienstgrenze sind zu berücksichtigen.
 
-
 ## § 8a Pflegeversicherung
 
 (1) Die Teilnahme an einer Eignungsübung berührt eine bestehende
@@ -248,7 +239,6 @@ Pflegeversicherung nicht.
 die Hälfte des Beitrages zur sozialen Pflegeversicherung oder zahlt
 einen Beitragszuschuß für Privatversicherte entsprechend § 61 des
 Elften Buches Sozialgesetzbuch.
-
 
 ## § 9 Gesetzliche Rentenversicherung
 
@@ -294,7 +284,6 @@ zahlen werden auf Antrag die Beiträge für Zeiten der Teilnahme an
 einer Eignungsübung erstattet. Die Absätze 2 und 4 gelten
 entsprechend.
 
-
 ## § 9a Öffentlich-rechtliche Versicherungs- oder Versorgungseinrichtungen
 
 (1) War der Teilnehmer an einer Eignungsübung bis zu deren Beginn auf
@@ -311,7 +300,6 @@ zu zahlen waren, wenn er nicht in den Streitkräften verbleibt.
 (2) Der Antrag auf Erstattung der Beiträge ist innerhalb eines Jahres
 nach Beendigung der Eignungsübung zu stellen.
 
-
 ## § 10 Arbeitslosenversicherung
 
 Personen, die an einer Eignungsübung teilnehmen, sind
@@ -319,7 +307,6 @@ versicherungspflichtig nach dem Dritten Buch Sozialgesetzbuch. Für
 Zeiten der Teilnahme an der Eignungsübung trägt der Bund den Beitrag
 zur Arbeitsförderung. Der Beitrag ist in der gleichen Höhe wie zuletzt
 vor Beginn der Eignungsübung zu zahlen.
-
 
 ## § 11 (weggefallen)
 

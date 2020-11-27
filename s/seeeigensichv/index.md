@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 516 V v. 31.10.2006 I 2407
 
-
 ## § 1 Zweck der Verordnung und Zuständigkeit des Bundes
 
 (1) Diese Verordnung regelt die Einrichtung und Überwachung der zur
@@ -53,7 +52,6 @@ in ihrer jeweils geltenden Fassung.
 Seeaufgabengesetzes durch das Bundesamt für Seeschifffahrt und
 Hydrographie (Bundesamt) wahrgenommen, soweit nachfolgend nichts
 anderes bestimmt ist.
-
 
 ## § 2 Verpflichtungen privater Unternehmen
 
@@ -103,7 +101,6 @@ Anlage des SOLAS-Übereinkommens
 
 
 Absatz 1 Satz 2 ist entsprechend anzuwenden.
-
 
 ## § 3 Anerkannte Stelle zur Gefahrenabwehr
 
@@ -239,7 +236,6 @@ Schiffssicherheitsverordnung vom 18. September 1998 (BGBl. I S. 3013,
 3023), die zuletzt durch Artikel 6 der Verordnung vom 6. August 2005
 (BGBl. I S. 2288) geändert worden ist, entsprechend anzuwenden.
 
-
 ## § 4 Beauftragte für die Gefahrenabwehr im Unternehmen und auf dem Schiff
 
 (1) Die Beauftragten für die Gefahrenabwehr im Unternehmen gemäß Teil
@@ -269,7 +265,6 @@ die Gefahrenabwehr ist das Unternehmen verantwortlich.
 Gefahrenabwehr die zur Erfüllung ihrer Aufgaben notwendigen Mittel und
 Informationen jederzeit und vollständig zur Verfügung zu stellen.
 
-
 ## § 5 Anerkennung von Fortbildungslehrgängen
 
 (1) Nationale Fortbildungslehrgänge im Sinne des § 4 Abs. 1 werden vom
@@ -290,7 +285,6 @@ Anerkennung zu Grunde liegenden Voraussetzungen entfallen, ist diese
 zu widerrufen und der entsprechende Nachweis einzuziehen oder für
 ungültig zu erklären.
 
-
 ## § 6 Risikobewertung
 
 (1) Der Beauftragte für die Gefahrenabwehr im Unternehmen gemäß Teil A
@@ -307,7 +301,6 @@ dem Plan zur Gefahrenabwehr vorzulegen.
 ist die Risikobewertung vom Beauftragten für die Gefahrenabwehr im
 Unternehmen gemäß Teil A Abschnitt 8.2 in Verbindung mit Abschnitt
 11\.2.2 des ISPS-Codes entsprechend fortzuschreiben.
-
 
 ## § 7 Plan zur Gefahrenabwehr auf dem Schiff
 
@@ -366,7 +359,6 @@ Teils A Abschnitt 10 des ISPS-Codes mindestens für drei Jahre vom
 Beauftragten für die Gefahrenabwehr auf dem Schiff an Bord des
 Schiffes für unbefugte Dritte unzugänglich aufzubewahren.
 
-
 ## § 8 Internationales Zeugnis über die Gefahrenabwehr an Bord eines Schiffes
 
 (1) Liegen die in Teil A Abschnitt 19.1 des ISPS-Codes genannten
@@ -389,7 +381,6 @@ Abschnitt 19.1.1.3 des ISPS-Codes durchzuführen. Das Bundesamt ist
 berechtigt, zusätzliche Überprüfungen anzuordnen und durchzuführen,
 wenn Anhaltspunkte dafür vorliegen, dass die zur Erteilung des
 Zeugnisses genannten Voraussetzungen nicht mehr erfüllt sind.
-
 
 ## § 9 Sicherheitserklärung
 
@@ -445,7 +436,6 @@ SOLAS-Übereinkommens.
 (6) Die Sicherheitserklärungen nach den Absätzen 1 bis 3 sind vom
 Beauftragten für die Gefahrenabwehr auf dem Schiff ein Jahr ab
 Ausstellung an Bord aufzubewahren.
-
 
 ## § 10 Kommunikation
 
@@ -518,7 +508,6 @@ Gefahrenstufe in einem ausländischen Hafen, ist dies durch den
 Beauftragten zur Gefahrenabwehr im Unternehmen unverzüglich der
 Zentralen Kontaktstelle mitzuteilen.
 
-
 ## § 11 Schulungen und Übungen
 
 (1) Schulungen sind gemäß Teil A Abschnitt 13.4 in Verbindung mit Teil
@@ -548,7 +537,6 @@ Kosten trägt.
 
 (5) Die nachgewiesene Teilnahme eines Unternehmens an einer Übung
 eines anderen Flaggenstaates wird als gleichwertig anerkannt.
-
 
 ## § 12 Ordnungswidrigkeiten
 
@@ -597,7 +585,6 @@ Seeaufgabengesetzes handelt, wer vorsätzlich oder fahrlässig
 (2) Die Zuständigkeit für die Verfolgung und Ahndung der
 Ordnungswidrigkeiten nach Absatz 1 wird auf das Bundesamt für
 Seeschifffahrt und Hydrographie übertragen.
-
 
 ## § 13 ISO-Normen
 

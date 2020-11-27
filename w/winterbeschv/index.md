@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 30.11.2012 I 2459
 
-
 ## Eingangsformel
 
 Auf Grund des § 182 Abs. 3 in Verbindung mit Abs. 4 und des § 357 Abs.
@@ -28,7 +27,6 @@ des Gesetzes vom 24. März 1997, BGBl. I S. 594, 595), die zuletzt
 durch Artikel 1 Nr. 14 und 30 des Gesetzes vom 24. April 2006 (BGBl. I
 S. 926) geändert worden sind, verordnet das Bundesministerium für
 Arbeit und Soziales:
-
 
 ## § 1 Leistungen
 
@@ -62,14 +60,12 @@ Stunde.
 § 102 Absatz 2 und 3 des Dritten Buches Sozialgesetzbuch gewährt. Das
 Zuschuss-Wintergeld beträgt 1,03 Euro je Stunde.
 
-
 ## § 2 Umlage
 
 Die Mittel für die ergänzenden Leistungen sowie die Verwaltungskosten
 und sonstigen Kosten, die mit der Gewährung der ergänzenden Leistungen
 zusammenhängen, werden durch Umlage in den Betrieben nach § 1 Abs. 1
 aufgebracht.
-
 
 ## § 3 Höhe und Aufbringung der Umlage
 
@@ -148,7 +144,6 @@ nicht dem deutschen Lohnsteuerrecht unterliegen, der Bruttoarbeitslohn
 einschließlich der Sachbezüge nach Satz 1, der bei Anwendung des
 deutschen Lohnsteuerrechts als Bruttoarbeitslohn gelten würde.
 
-
 ## § 4 Einzugsstellen
 
 Die Bundesagentur für Arbeit (Bundesagentur) gibt im Bundesanzeiger
@@ -156,7 +151,6 @@ bekannt, über welche gemeinsamen Einrichtungen oder Ausgleichskassen
 (Einzugsstellen) der Arbeitgeber die Umlagebeträge abführt und mit
 welchen Einzugsstellen sie ein vereinfachtes Abrechnungsverfahren
 vereinbart hat.
-
 
 ## § 5 Zahlung
 
@@ -203,7 +197,6 @@ Gesamtsozialversicherungsbeitrags entsprechend, soweit diese auf die
 Beiträge zur Arbeitsförderung anzuwenden sind und die Besonderheiten
 der Umlage nicht entgegenstehen.
 
-
 ## § 6 Melde- und Auskunftspflicht
 
 (1) Der Arbeitgeber hat Beginn und Ende der Umlagepflicht der
@@ -226,7 +219,6 @@ und dort Einsicht in Geschäftsbücher, Geschäfts-, Lohn- oder
 vergleichbare Unterlagen zu nehmen, soweit dies für die Einziehung der
 Umlage erforderlich ist.
 
-
 ## § 7 Zuständigkeit
 
 (1) Die Umlagebeträge sind an die Einzugsstellen der Wirtschaftszweige
@@ -244,7 +236,6 @@ sind.
 (3) Für die Meldungen nach § 6 Abs. 1 und 2 gilt Absatz 1
 entsprechend.
 
-
 ## § 8 Erstattung von Mehraufwendungen
 
 (1) Die Pauschale nach § 356 Abs. 2 Satz 2 des Dritten Buches
@@ -254,7 +245,6 @@ Umlageprozentsatz geringer, beträgt die Pauschale 15 Prozent.
 
 (2) Für die Erstattung der Mehraufwendungen an die Bundesagentur
 gelten die Vorschriften für den Einzug der Umlage entsprechend.
-
 
 ## § 9 Verwaltungskosten
 
@@ -272,7 +262,6 @@ anteilig zu den Ausgaben für die ergänzenden Leistungen nach § 102 des
 Dritten Buches Sozialgesetzbuch berechneten Verwaltungskosten bis zu
 einer Höhe von 24 Millionen Euro erstattet; ab dem Jahr 2007 werden
 anteilige Verwaltungskosten bis maximal 17,5 Millionen Euro erstattet.
-
 
 ## § 10 Inkrafttreten, Außerkrafttreten
 

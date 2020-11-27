@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Bek. v. 7.5.2012 I 1119
 
-
 ## Eingangsformel
 
 Der Deutsche Bundestag hat am 25. Juni 1980 die nachstehende
@@ -28,10 +27,7 @@ Deutschen Bundestages in der Fassung der Bekanntmachung vom 22. Mai
 1970 (BGBl. I S. 628), zuletzt geändert durch Beschluß vom 19. Juni
 1975 (Bekanntmachung vom 24. Juni 1975 - BGBl. I S. 1848).
 
-
 ## I. - Wahl des Präsidenten, der Stellvertreter und Schriftführer
-
-
 
 ### § 1 Konstituierung
 
@@ -50,7 +46,6 @@ Mitglieder des Bundestages.
 
 (4) Nach Feststellung der Beschlußfähigkeit wird die Wahl des
 Präsidenten, der Stellvertreter und der Schriftführer vorgenommen.
-
 
 ### § 2 Wahl des Präsidenten und der Stellvertreter
 
@@ -77,7 +72,6 @@ nach erfolglosem Ablauf des Verfahrens nach Absatz 2 neue Bewerber
 vorgeschlagen, ist neu in das Wahlverfahren gemäß Absatz 2
 einzutreten.
 
-
 ### § 3 Wahl der Schriftführer
 
 Der Bundestag beschließt die Zahl der Schriftführer. Sie können
@@ -85,10 +79,7 @@ gemeinsam auf Grund eines Vorschlages der Fraktionen gewählt werden.
 Bei der Festlegung der Zahl der Schriftführer und ihrer Verteilung auf
 die Fraktionen ist § 12 zu beachten.
 
-
 ## II. - Wahl des Bundeskanzlers
-
-
 
 ### § 4 Wahl des Bundeskanzlers
 
@@ -98,16 +89,12 @@ Artikel 63 Abs. 3 und 4 des Grundgesetzes sind von einem Viertel der
 Mitglieder des Bundestages oder einer Fraktion, die mindestens ein
 Viertel der Mitglieder des Bundestages umfaßt, zu unterzeichnen.
 
-
 ## III. - Präsident, Präsidium und Ältestenrat
-
-
 
 ### § 5 Präsidium
 
 Der Präsident und die stellvertretenden Präsidenten bilden das
 Präsidium.
-
 
 ### § 6 Ältestenrat
 
@@ -135,7 +122,6 @@ nur im Benehmen mit dem Ältestenrat abweichen kann.
 Dokumentationen setzt der Ältestenrat einen ständigen Unterausschuß
 ein, dem auch Mitglieder des Bundestages, die nicht Mitglied des
 Ältestenrates sind, angehören können.
-
 
 ### § 7 Aufgaben des Präsidenten
 
@@ -177,7 +163,6 @@ Vorschläge zu unterbreiten.
 (6) Ist der Präsident verhindert, vertritt ihn einer seiner
 Stellvertreter aus der zweitstärksten Fraktion.
 
-
 ### § 8 Sitzungsvorstand
 
 (1) In den Sitzungen des Bundestages bilden der amtierende Präsident
@@ -192,7 +177,6 @@ Bundestages nicht in ausreichender Zahl zur Verfügung, so bestellt der
 amtierende Präsident andere Mitglieder des Bundestages als
 Stellvertreter.
 
-
 ### § 9 Aufgaben der Schriftführer
 
 Die Schriftführer unterstützen den Präsidenten. Sie haben die
@@ -203,10 +187,7 @@ sammeln und zu zählen, die Korrektur der Plenarprotokolle zu
 Weisungen des Präsidenten zu besorgen. Der Präsident verteilt die
 Geschäfte.
 
-
 ## IV. - Fraktionen
-
-
 
 ### § 10 Bildung der Fraktionen
 
@@ -233,7 +214,6 @@ werden. Für sie gelten die Absätze 2 und 3 entsprechend.
 zu einer Änderung der Stellenanteile führen, die den einzelnen
 Fraktionen nach ihrer Stärke zustehen.
 
-
 ### § 11 Reihenfolge der Fraktionen
 
 Nach der Stärke der Fraktionen bestimmt sich ihre Reihenfolge. Bei
@@ -242,7 +222,6 @@ einer Sitzung des Bundestages gezogen wird. Erledigte Mitgliedersitze
 werden bis zur Neubesetzung bei der Fraktion mitgezählt, die sie
 bisher innehatte.
 
-
 ### § 12 Stellenanteile der Fraktionen
 
 Die Zusammensetzung des Ältestenrates und der Ausschüsse sowie die
@@ -250,10 +229,7 @@ Regelung des Vorsitzes in den Ausschüssen ist im Verhältnis der Stärke
 der einzelnen Fraktionen vorzunehmen. Derselbe Grundsatz wird bei
 Wahlen, die der Bundestag vorzunehmen hat, angewandt.
 
-
 ## V. - Die Mitglieder des Bundestages
-
-
 
 ### § 13 Rechte und Pflichten der Mitglieder des Bundestages
 
@@ -268,12 +244,10 @@ Nichtbeteiligung an einer namentlichen Abstimmung ergeben sich aus dem
 Gesetz über die Rechtsverhältnisse der Mitglieder des Deutschen
 Bundestages (Abgeordnetengesetz).
 
-
 ### § 14 Urlaub
 
 Urlaub erteilt der Präsident. Urlaub auf unbestimmte Zeit wird nicht
 erteilt.
-
 
 ### § 15 Anfechtung und Verlust der Mitgliedschaft
 
@@ -281,7 +255,6 @@ Die Rechte eines Mitgliedes des Bundestages, dessen Mitgliedschaft
 angefochten ist, regeln sich nach den Bestimmungen des
 Wahlprüfungsgesetzes. Nach diesem Gesetz richtet sich auch der Verlust
 der Mitgliedschaft.
-
 
 ### § 16 Akteneinsicht und -abgabe
 
@@ -308,14 +281,12 @@ abgegeben.
 (4) Für Verschlußsachen gelten die Bestimmungen der
 Geheimschutzordnung des Deutschen Bundestages (§ 17).
 
-
 ### § 17 Geheimschutzordnung
 
 Der Bundestag beschließt eine Geheimschutzordnung, die Bestandteil
 dieser Geschäftsordnung ist (Anlage 3). Sie regelt die Behandlung
 aller Angelegenheiten, die durch besondere Sicherungsmaßnahmen gegen
 die Kenntnisnahme durch Unbefugte geschützt werden müssen.
-
 
 ### § 18 Verhaltensregeln
 
@@ -324,16 +295,12 @@ der Mitglieder des Deutschen Bundestages (Abgeordnetengesetz) zu
 beschließenden Verhaltensregeln sind Bestandteil dieser
 Geschäftsordnung (Anlage 1).
 
-
 ## VI. - Tagesordnung, Einberufung, Leitung der Sitzung und Ordnungsmaßnahmen
-
-
 
 ### § 19 Sitzungen
 
 Die Sitzungen des Bundestages sind öffentlich. Die Öffentlichkeit kann
 nach Artikel 42 Abs. 1 des Grundgesetzes ausgeschlossen werden.
-
 
 ### § 20 Tagesordnung
 
@@ -371,7 +338,6 @@ Wahl festlegen oder sie von der Tagesordnung absetzen, es sei denn,
 daß von einer Fraktion oder von anwesenden fünf vom Hundert der
 Mitglieder des Bundestages widersprochen wird.
 
-
 ### § 21 Einberufung durch den Präsidenten
 
 (1) Selbständig setzt der Präsident Termin und Tagesordnung fest, wenn
@@ -387,7 +353,6 @@ Grundgesetzes).
 anberaumt oder Nachträge zur Tagesordnung festgesetzt, so muß er bei
 Beginn der Sitzung die Genehmigung des Bundestages einholen.
 
-
 ### § 22 Leitung der Sitzungen
 
 Der Präsident eröffnet, leitet und schließt die Sitzungen. Vor Schluß
@@ -395,19 +360,16 @@ der Sitzung gibt der Präsident nach den Vereinbarungen im Ältestenrat
 oder nach Beschluß des Bundestages den Termin der nächsten Sitzung
 bekannt.
 
-
 ### § 23 Eröffnung der Aussprache
 
 Der Präsident hat über jeden Verhandlungsgegenstand, der auf der
 Tagesordnung steht, die Aussprache zu eröffnen, wenn sie nicht
 unzulässig oder an besondere Bedingungen geknüpft ist.
 
-
 ### § 24 Verbindung der Beratung
 
 Die gemeinsame Beratung gleichartiger oder im Sachzusammenhang
 stehender Verhandlungsgegenstände kann jederzeit beschlossen werden.
-
 
 ### § 25 Vertagung der Beratung oder Schluß der Aussprache
 
@@ -421,13 +383,11 @@ geht bei der Abstimmung dem Antrag auf Vertagung vor. Ein Antrag auf
 Schluß der Aussprache darf erst zur Abstimmung gestellt werden, wenn
 jede Fraktion mindestens einmal zu Wort gekommen ist.
 
-
 ### § 26 Vertagung der Sitzung
 
 Die Sitzung kann nur vertagt werden, wenn es der Bundestag auf
 Vorschlag des Präsidenten oder auf Antrag einer Fraktion oder von
 anwesenden fünf vom Hundert der Mitglieder des Bundestages beschließt.
-
 
 ### § 27 Worterteilung und Wortmeldung
 
@@ -449,7 +409,6 @@ Debattenbeitrag kann der Präsident das Wort zu einer Zwischenbemerkung
 von höchstens drei Minuten erteilen; der Redner darf hierauf noch
 einmal antworten.
 
-
 ### § 28 Reihenfolge der Redner
 
 (1) Der Präsident bestimmt die Reihenfolge der Redner. Dabei soll ihn
@@ -464,7 +423,6 @@ Bundestages soll nicht der Fraktion des Antragstellers angehören.
 Antragsteller und Berichterstatter können vor Beginn und nach Schluß
 der Aussprache das Wort verlangen. Der Berichterstatter hat das Recht,
 jederzeit das Wort zu ergreifen.
-
 
 ### § 29 Zur Geschäftsordnung
 
@@ -485,7 +443,6 @@ seinem Ermessen.
 (4) Zur Geschäftsordnung darf der einzelne Redner nicht länger als
 fünf Minuten sprechen.
 
-
 ### § 30 Erklärung zur Aussprache
 
 Zu einer Erklärung zur Aussprache wird das Wort nach Schluß,
@@ -495,7 +452,6 @@ ihm bei der Wortmeldung mitzuteilen. Mit einer Erklärung zur
 Aussprache dürfen nur Äußerungen, die sich in der Aussprache auf die
 eigene Person bezogen haben, zurückgewiesen oder eigene Ausführungen
 richtiggestellt werden; sie darf nicht länger als fünf Minuten dauern.
-
 
 ### § 31 Erklärung zur Abstimmung
 
@@ -508,7 +464,6 @@ erteilt das Wort zu einer Erklärung in der Regel vor der Abstimmung.
 (2) Jedes Mitglied des Bundestages kann vor der Abstimmung erklären,
 daß es nicht an der Abstimmung teilnehme.
 
-
 ### § 32 Erklärung außerhalb der Tagesordnung
 
 Zu einer tatsächlichen oder persönlichen Erklärung außerhalb der
@@ -517,18 +472,15 @@ Tagesordnung, nach Schluß, Unterbrechung oder Vertagung einer
 Aussprache erteilen. Der Anlaß ist ihm bei der Wortmeldung
 mitzuteilen. Die Erklärung darf nicht länger als fünf Minuten dauern.
 
-
 ### § 33 Die Rede
 
 Die Redner sprechen grundsätzlich in freiem Vortrag. Sie können
 hierbei Aufzeichnungen benutzen.
 
-
 ### § 34 Platz des Redners
 
 Die Redner sprechen von den dafür bestimmten Saalmikrofonen oder vom
 Rednerpult aus.
-
 
 ### § 35 Rededauer
 
@@ -550,7 +502,6 @@ eine entsprechende Redezeit verlangen.
 (3) Überschreitet ein Mitglied des Bundestages seine Redezeit, so soll
 ihm der Präsident nach einmaliger Mahnung das Wort entziehen.
 
-
 ### § 36 Sach- und Ordnungsruf, Wortentziehung
 
 (1) Der Präsident kann den Redner, der vom Verhandlungsgegenstand
@@ -565,7 +516,6 @@ Rufes zur Sache oder zur Ordnung hingewiesen worden, so muss ihm der
 Präsident das Wort entziehen und darf es ihm in derselben Aussprache
 zum selben Verhandlungsgegenstand nicht wieder erteilen.
 
-
 ### § 37 Ordnungsgeld
 
 Wegen einer nicht nur geringfügigen Verletzung der Ordnung oder der
@@ -574,7 +524,6 @@ Bundestages, auch ohne dass ein Ordnungsruf ergangen ist, ein
 Ordnungsgeld in Höhe von 1 000 Euro festsetzen. Im Wiederholungsfall
 erhöht sich das Ordnungsgeld auf 2 000 Euro. § 38 Absatz 2 gilt
 entsprechend.
-
 
 ### § 38 Ausschluss von Mitgliedern des Bundestages
 
@@ -611,7 +560,6 @@ Satz 2 entsprechend Anwendung.
 (6) Das betroffene Mitglied gilt als nicht beurlaubt. Es darf sich
 nicht in die Anwesenheitsliste eintragen.
 
-
 ### § 39 Einspruch gegen Ordnungsmaßnahmen
 
 Gegen den Ordnungsruf (§ 36), das Ordnungsgeld (§ 37) und den
@@ -621,7 +569,6 @@ einlegen. Der Einspruch ist auf die Tagesordnung dieser Sitzung zu
 setzen. Der Bundestag entscheidet ohne Aussprache. Der Einspruch hat
 keine aufschiebende Wirkung.
 
-
 ### § 40 Unterbrechung der Sitzung
 
 Wenn im Bundestag störende Unruhe entsteht, die den Fortgang der
@@ -630,7 +577,6 @@ bestimmte Zeit unterbrechen oder aufheben. Kann er sich kein Gehör
 verschaffen, so verläßt er den Präsidentenstuhl; die Sitzung wird
 dadurch unterbrochen. Zur Fortsetzung der Sitzung beruft der Präsident
 ein.
-
 
 ### § 41 Weitere Ordnungsmaßnahmen
 
@@ -642,20 +588,17 @@ und Anstand verletzt, kann auf Anordnung des Präsidenten sofort
 entfernt werden. Der Präsident kann die Tribüne wegen störender Unruhe
 räumen lassen.
 
-
 ### § 42 Herbeirufung eines Mitgliedes der Bundesregierung
 
 Der Bundestag kann auf Antrag einer Fraktion oder von anwesenden fünf
 vom Hundert der Mitglieder des Bundestages die Herbeirufung eines
 Mitgliedes der Bundesregierung beschließen.
 
-
 ### § 43 Recht auf jederzeitiges Gehör
 
 Die Mitglieder der Bundesregierung und des Bundesrates sowie ihre
 Beauftragten müssen nach Artikel 43 Abs. 2 des Grundgesetzes auf ihr
 Verlangen jederzeit gehört werden.
-
 
 ### § 44 Wiedereröffnung der Aussprache
 
@@ -677,7 +620,6 @@ auf Verlangen einer Fraktion oder von anwesenden fünf vom Hundert der
 Mitglieder des Bundestages die Aussprache über seine Ausführungen
 eröffnet. In dieser Aussprache dürfen keine Sachanträge gestellt
 werden.
-
 
 ### § 45 Feststellung der Beschlußfähigkeit Folgen der Beschlußunfähigkeit
 
@@ -706,7 +648,6 @@ Sitzung unterbrechen, wenn der Sitzungsvorstand bezweifelt, daß 25 vom
 Hundert der Mitglieder des Bundestages anwesend sind. Die Feststellung
 der Anwesenheit erfolgt im Verfahren nach § 52.
 
-
 ### § 46 Fragestellung
 
 Der Präsident stellt die Fragen so, daß sie sich mit "Ja" oder "Nein"
@@ -715,7 +656,6 @@ wird, ob die Zustimmung erteilt wird oder nicht. Über die Fassung kann
 das Wort zur Geschäftsordnung verlangt werden. Bei Widerspruch gegen
 die vorgeschlagene Fassung entscheidet der Bundestag.
 
-
 ### § 47 Teilung der Frage
 
 Jedes Mitglied des Bundestages kann die Teilung der Frage beantragen.
@@ -723,7 +663,6 @@ Ist die Zulässigkeit der Teilung zweifelhaft, so entscheidet bei
 Anträgen von Mitgliedern des Bundestages der Antragsteller, sonst der
 Bundestag. Unmittelbar vor der Abstimmung ist die Frage auf Verlangen
 vorzulesen.
-
 
 ### § 48 Abstimmungsregeln
 
@@ -740,7 +679,6 @@ Geschäftsordnung für einen Beschluß oder eine Wahl eine bestimmte
 Mehrheit vorgeschrieben, stellt der Präsident ausdrücklich fest, daß
 die Zustimmung der erforderlichen Mehrheit vorliegt.
 
-
 ### § 49 Wahlen mit verdeckten Stimmzetteln
 
 (1) Soweit in einem Bundesgesetz oder in dieser Geschäftsordnung
@@ -753,7 +691,6 @@ Stimmzettel sind in einem Wahlumschlag in die dafür vorgesehenen
 Wahlurnen zu legen.
 
 (2) § 56 Abs. 6 Nr. 4 der Bundeswahlordnung gilt entsprechend.
-
 
 ### § 50 Verfahren bei der Auswahl des Sitzes einer Bundesbehörde
 
@@ -775,7 +712,6 @@ Antrages über den Sitz einer Bundesbehörde zu entscheiden ist.
 von Zuständigkeiten und ähnliche Entscheidungen handelt und wenn mehr
 als zwei voneinander abweichende Anträge gestellt werden.
 
-
 ### § 51 Zählung der Stimmen
 
 (1) Ist der Sitzungsvorstand über das Ergebnis der Abstimmung nicht
@@ -795,7 +731,6 @@ eintreten, werden nicht mitgezählt. Der Präsident und die
 diensttuenden Schriftführer geben ihre Stimme öffentlich ab. Der
 Präsident verkündet das Ergebnis.
 
-
 ### § 52 Namentliche Abstimmung
 
 Namentliche Abstimmung kann bis zur Eröffnung der Abstimmung von einer
@@ -806,7 +741,6 @@ Abstimmungskarten, die den Namen des Abstimmenden und die Erklärung
 Einsammlung erklärt der Präsident die Abstimmung für geschlossen. Die
 Schriftführer zählen die Stimmen. Der Präsident verkündet das
 Ergebnis.
-
 
 ### § 53 Unzulässigkeit der namentlichen Abstimmung
 
@@ -832,13 +766,7 @@ f)  Teilung der Frage,
 
 g)  Überweisung an einen Ausschuß.
 
-
-
-
-
 ## VII. - Ausschüsse
-
-
 
 ### § 54 Ständige Ausschüsse und Sonderausschüsse
 
@@ -851,7 +779,6 @@ Ausschüssen vorschreiben oder zulassen, richtet sich die Einsetzung
 und das Verfahren nach den Bestimmungen dieser Geschäftsordnung, es
 sei denn, daß im Grundgesetz, in den Bundesgesetzen oder in besonderen
 Geschäftsordnungen etwas anderes bestimmt ist.
-
 
 ### § 55 Einsetzung von Unterausschüssen
 
@@ -879,7 +806,6 @@ worden oder fällt ein Verhandlungsgegenstand in den Geschäftsbereich
 mehrerer Ausschüsse, können diese einen gemeinsamen Unterausschuß
 bilden.
 
-
 ### § 56 Enquete-Kommission
 
 (1) Zur Vorbereitung von Entscheidungen über umfangreiche und
@@ -904,7 +830,6 @@ erstattet werden kann, ist ein Zwischenbericht vorzulegen, auf dessen
 Grundlage der Bundestag entscheidet, ob die Enquete-Kommission ihre
 Arbeit fortsetzen oder einstellen soll.
 
-
 ### § 56a Technikfolgenanalysen
 
 (1) Dem Ausschuß für Forschung, Technologie und
@@ -918,7 +843,6 @@ Bundestages beauftragen.
 Technikfolgenabschätzung hat Grundsätze über die Erstellung von
 Technikfolgenanalysen aufzustellen und diese Grundsätze zum
 Ausgangspunkt seiner Entscheidung im Einzelfall zu machen.
-
 
 ### § 57 Mitgliederzahl der Ausschüsse
 
@@ -937,12 +861,10 @@ späteren Änderungen dem Bundestag bekannt.
 Fraktionsmitarbeiters jeder Fraktion zu den Ausschußsitzungen
 zugelassen werden.
 
-
 ### § 58 Bestimmung des Vorsitzenden und seines Stellvertreters
 
 Die Ausschüsse bestimmen ihre Vorsitzenden und deren Stellvertreter
 nach den Vereinbarungen im Ältestenrat.
-
 
 ### § 59 Rechte und Pflichten des Vorsitzenden
 
@@ -960,7 +882,6 @@ Vorsitzenden.
 (4) Ist der ordnungsgemäße Ablauf einer Sitzung nicht mehr
 gewährleistet, kann der Vorsitzende die Sitzung unterbrechen oder im
 Einvernehmen mit den Fraktionen im Ausschuß beenden.
-
 
 ### § 60 Einberufung der Ausschußsitzungen
 
@@ -981,7 +902,6 @@ Fraktion oder von fünf vom Hundert der Mitglieder des Bundestages oder
 ein einstimmiger Beschluß des Ausschusses vorliegt und die Genehmigung
 des Präsidenten erteilt worden ist.
 
-
 ### § 61 Tagesordnung der Ausschüsse
 
 (1) Termin und Tagesordnung werden vom Vorsitzenden festgesetzt, es
@@ -996,7 +916,6 @@ Ausschußmitglieder widerspricht.
 (3) Die Tagesordnung jeder Ausschußsitzung ist mit Angabe des Ortes,
 des Termins und, soweit vereinbart, der Dauer der Sitzung den
 beteiligten Bundesministerien und dem Bundesrat mitzuteilen.
-
 
 ### § 62 Aufgaben der Ausschüsse
 
@@ -1020,7 +939,6 @@ Berichterstatter dem Bundestag einen Bericht über den Stand der
 Beratungen erstattet. Wenn sie es verlangen, ist der Bericht auf die
 Tagesordnung des Bundestages zu setzen.
 
-
 ### § 63 Federführender Ausschuß
 
 (1) Den Bericht an den Bundestag gemäß § 66 kann nur der federführende
@@ -1034,7 +952,6 @@ Ausschuß die Stellungnahmen vorgelegt oder kommt eine Vereinbarung
 über eine Frist nicht zustande, kann der federführende Ausschuß dem
 Bundestag Bericht erstatten, frühestens jedoch in der vierten auf die
 Überweisung folgenden Sitzungswoche.
-
 
 ### § 64 Verhandlungsgegenstände
 
@@ -1052,12 +969,10 @@ Fraktion im Ausschuß widersprochen, muß über die Vorlagen abgestimmt
 werden. Die Beschlußempfehlung, die Vorlagen für erledigt zu erklären
 oder abzulehnen, ist dem Bundestag vorzulegen.
 
-
 ### § 65 Berichterstatterbenennung
 
 Vorbehaltlich der Entscheidung des Ausschusses benennt der Vorsitzende
 einen oder mehrere Berichterstatter für jeden Verhandlungsgegenstand.
-
 
 ### § 66 Berichterstattung
 
@@ -1072,7 +987,6 @@ müssen, sofern Informationssitzungen nach § 70 Abs. 1 stattgefunden
 haben, sollen die dargelegten Auffassungen in ihren wesentlichen
 Punkten im Bericht wiedergegeben werden.
 
-
 ### § 67 Beschlußfähigkeit im Ausschuß
 
 Der Ausschuß ist beschlußfähig, wenn die Mehrheit der Mitglieder
@@ -1086,14 +1000,12 @@ Feststellung der Beschlußunfähigkeit die Sitzung auf bestimmte Zeit
 unterbrochen worden und nach Wiedereröffnung die Beschlußfähigkeit
 noch nicht gegeben, gilt Satz 3.
 
-
 ### § 68 Herbeirufung eines Mitgliedes der Bundesregierung zu den Ausschußsitzungen
 
 Das Recht des Ausschusses, die Anwesenheit eines Mitgliedes der
 Bundesregierung zu verlangen, gilt auch, wenn es in einer öffentlichen
 Sitzung gehört werden soll. Über einen entsprechenden Antrag ist in
 nichtöffentlicher Sitzung zu entscheiden.
-
 
 ### § 69 Nichtöffentliche Ausschußsitzungen
 
@@ -1155,7 +1067,6 @@ Deutschen Bundestages.
 (8) Beraten mehrere Ausschüsse in gemeinsamer Sitzung über denselben
 Verhandlungsgegenstand, stimmen die Ausschüsse getrennt ab.
 
-
 ### § 69a Erweiterte öffentliche Ausschußberatungen
 
 (1) Die Ausschüsse sollen im Benehmen mit dem Ältestenrat und im
@@ -1198,7 +1109,6 @@ Befassung auf eine Berichterstattung aus dem Ausschuß durch einen
 Sprecher zu beschränken hat. Der Sprecher hat die verschiedenen im
 Ausschuß vertretenden Positionen innerhalb von fünf Minuten
 darzulegen.
-
 
 ### § 70 Öffentliche Anhörungssitzungen
 
@@ -1255,7 +1165,6 @@ vorheriger Zustimmung des Präsidenten.
 (8) Die Absätze 1 bis 7 gelten auch für Anhörungen in
 nichtöffentlicher Sitzung.
 
-
 ### § 71 Antragstellung im Ausschuß, Schluß der Aussprache
 
 (1) Antragsberechtigt sind die Ausschußmitglieder, deren
@@ -1276,7 +1185,6 @@ Abstimmung gestellt werden, wenn jede Fraktion Gelegenheit hatte, zur
 Sache zu sprechen und von der jeweiligen Fraktionsauffassung
 abweichende Meinungen vorgetragen werden konnten.
 
-
 ### § 72 Abstimmung außerhalb einer Sitzung
 
 Der Ausschuß kann den Vorsitzenden einstimmig ermächtigen, außerhalb
@@ -1288,7 +1196,6 @@ innerhalb einer bestimmten Frist in entsprechender Anwendung des § 46
 Satz 1 abgestimmt werden kann. Eine schriftliche Abstimmung entfällt,
 wenn eine Sitzung des Ausschusses auf Grund der Bestimmungen des § 60
 Abs. 2 oder 3 stattfindet.
-
 
 ### § 73 Ausschußprotokolle
 
@@ -1309,7 +1216,6 @@ geregelt. Protokolle von öffentlichen Sitzungen (§ 69 Abs. 1 Satz 2, §
 (3) Für die Behandlung der Protokolle erläßt der Präsident im Benehmen
 mit dem Präsidium besondere Richtlinien.
 
-
 ### § 74 Anwendbarkeit der Bestimmungen der Geschäftsordnung
 
 Soweit die Verfahrensregeln für die Ausschüsse nichts anderes
@@ -1317,10 +1223,7 @@ bestimmen, gelten für Ausschüsse und Enquete-Kommissionen die übrigen
 Bestimmungen der Geschäftsordnung, mit Ausnahme des § 126,
 entsprechend.
 
-
 ## VIII. - Vorlagen und ihre Behandlung
-
-
 
 ### § 75 Vorlagen
 
@@ -1394,7 +1297,6 @@ c)  Entschließungsanträge zu Gesetzentwürfen, Unterrichtungen,
 können nicht als Verhandlungsgegenstand auf die Tagesordnung gesetzt
 werden.
 
-
 ### § 76 Vorlagen von Mitgliedern des Bundestages
 
 (1) Vorlagen von Mitgliedern des Bundestages (§ 75) müssen von einer
@@ -1404,7 +1306,6 @@ anderes vorschreibt oder zuläßt.
 
 (2) Gesetzentwürfe müssen, Anträge können mit einer kurzen Begründung
 versehen werden.
-
 
 ### § 77 Behandlung der Vorlagen
 
@@ -1422,7 +1323,6 @@ als amtliche Mitteilung durch den Präsidenten bekanntgegeben. Sie
 werden als Übersicht in einer Drucksache zusammengestellt, in der auch
 anzugeben ist, in welchen Räumen des Bundestages die Vorlagen
 eingesehen werden können.
-
 
 ### § 78 Beratungen
 
@@ -1465,7 +1365,6 @@ Redezeiten bei einer Aussprache von 30 Minuten orientieren. Die
 Redetexte sollen dem Sitzungsvorstand spätestens bis zum Aufruf des
 Tagesordnungspunktes vorliegen.
 
-
 ### § 79 Erste Beratung von Gesetzentwürfen
 
 In der ersten Beratung findet eine allgemeine Aussprache nur statt,
@@ -1474,7 +1373,6 @@ Punktes der Tagesordnung von einer Fraktion oder von anwesenden fünf
 vom Hundert der Mitglieder des Bundestages verlangt oder gemäß § 80
 Abs. 4 beschlossen wird. In der Aussprache werden nur die Grundsätze
 der Vorlagen besprochen. Sachanträge dürfen nicht gestellt werden.
-
 
 ### § 80 Überweisung an einen Ausschuß
 
@@ -1520,7 +1418,6 @@ Aussprache beantragt, ist über diesen Antrag zuerst abzustimmen.
 Findet der Antrag die Mehrheit, wird die betroffene Vorlage als
 Zusatzpunkt auf die Tagesordnung der laufenden Sitzungswoche gesetzt.
 
-
 ### § 80a Überprüfung von Gesetzentwürfen auf sprachliche Richtigkeit und Verständlichkeit
 
 (1) Ein beim Bundestag eingerichteter oder angesiedelter
@@ -1534,7 +1431,6 @@ zu erwarten ist.
 
 (2) Darüber hinaus bietet der Redaktionsstab auch sonstige sprachliche
 Beratung an.
-
 
 ### § 81 Zweite Beratung von Gesetzentwürfen
 
@@ -1566,7 +1462,6 @@ abgestimmt werden. Über Verträge mit auswärtigen Staaten und ähnliche
 Verträge gemäß Artikel 59 Abs. 2 des Grundgesetzes wird im ganzen
 abgestimmt.
 
-
 ### § 82 Änderungsanträge und Zurückverweisung in zweiter Beratung
 
 (1) Änderungen zu Gesetzentwürfen in zweiter Beratung können beantragt
@@ -1585,7 +1480,6 @@ Grundgesetzes), sind Änderungsanträge nicht zulässig.
 Vorlage ganz oder teilweise auch an einen anderen Ausschuß
 zurückverwiesen werden; dies gilt auch für bereits beratene Teile.
 
-
 ### § 83 Zusammenstellung der Änderungen
 
 (1) Wurden in der zweiten Beratung Änderungen beschlossen, so läßt sie
@@ -1597,7 +1491,6 @@ Beratung.
 (3) Sind in der zweiten Beratung alle Teile eines Gesetzentwurfs
 abgelehnt worden, so ist die Vorlage abgelehnt und jede weitere
 Beratung unterbleibt.
-
 
 ### § 84 Dritte Beratung von Gesetzentwürfen
 
@@ -1624,7 +1517,6 @@ Beratung keine allgemeine Aussprache stattgefunden hat und sie vom
 Ältestenrat empfohlen oder von anwesenden fünf vom Hundert der
 Mitglieder des Bundestages verlangt wird.
 
-
 ### § 85 Änderungsanträge und Zurückverweisung in dritter Beratung
 
 (1) Änderungsanträge zu Gesetzentwürfen in dritter Beratung müssen von
@@ -1640,7 +1532,6 @@ Anwendung. Schlägt der Ausschuß Änderungen gegenüber den Beschlüssen
 des Bundestages in zweiter Beratung vor, wird die Beschlußempfehlung
 erneut in zweiter Beratung behandelt.
 
-
 ### § 86 Schlußabstimmung
 
 Nach Schluß der dritten Beratung wird über den Gesetzentwurf
@@ -1651,7 +1542,6 @@ einer Fraktion oder von anwesenden fünf vom Hundert der Mitglieder des
 Bundestages ausgesetzt werden, bis die Beschlüsse zusammengestellt und
 verteilt sind. Über Verträge mit auswärtigen Staaten und ähnliche
 Verträge findet keine besondere Schlußabstimmung statt.
-
 
 ### § 87 Verfahren zu Artikel 113 des Grundgesetzes
 
@@ -1672,7 +1562,6 @@ zugeleitet worden, hat der Präsident den Bundesrat von dem Verlangen
 der Bundesregierung in Kenntnis zu setzen. In diesem Fall gilt die
 Zuleitung als nicht erfolgt.
 
-
 ### § 88 Behandlung von Entschließungsanträgen
 
 (1) Über Entschließungsanträge (§ 75 Abs. 2 Buchstabe c) wird nach der
@@ -1687,7 +1576,6 @@ Fraktion oder von anwesenden fünf vom Hundert der Mitglieder des
 Bundestages ist die Abstimmung auf den nächsten Sitzungstag zu
 verschieben.
 
-
 ### § 89 Einberufung des Vermittlungsausschusses
 
 Auf Antrag einer Fraktion oder von fünf vom Hundert der Mitglieder des
@@ -1695,7 +1583,6 @@ Bundestages kann der Bundestag beschließen, zu Gesetzen, die der
 Zustimmung des Bundesrates bedürfen, die Einberufung des
 Vermittlungsausschusses zu verlangen (Artikel 77 Abs. 2 Satz 4 des
 Grundgesetzes, § 75 Abs. 1 Buchstabe d).
-
 
 ### § 90 Beratung von Beschlußempfehlungen des Vermittlungsausschusses
 
@@ -1711,7 +1598,6 @@ Mitglieder des Bundestages zwei Drittel der anwesenden Mitglieder des
 Bundestages es beschließen. Für den Antrag gilt die Frist des § 20
 Absatz 2 Satz 3.
 
-
 ### § 91 Einspruch des Bundesrates
 
 Über den Antrag auf Zurückweisung eines Einspruchs des Bundesrates
@@ -1720,7 +1606,6 @@ Grundgesetzes) wird ohne Begründung und Aussprache abgestimmt. Vor der
 Abstimmung können lediglich Erklärungen abgegeben werden. Über den
 Antrag wird durch Zählung der Stimmen gemäß § 51 abgestimmt, wenn
 nicht namentliche Abstimmung verlangt wird (§ 52).
-
 
 ### § 92 Rechtsverordnungen
 
@@ -1735,7 +1620,6 @@ des Bundestages zu setzen. Legt der Ausschuß diesen Bericht nicht
 rechtzeitig vor, ist die Vorlage auch ohne Ausschußbericht zur
 Beschlußfassung auf die Tagesordnung der nächsten Sitzung des
 Bundestages zu setzen.
-
 
 ### § 93 Zuleitung und Überweisung von Unionsdokumenten
 
@@ -1805,7 +1689,6 @@ Verlangen einer Fraktion oder von fünf vom Hundert der Mitglieder des
 Bundestages innerhalb von drei Sitzungswochen nach Eingang auf die
 Tagesordnung der Sitzung des Bundestages gesetzt und beraten werden.
 
-
 ### § 93a Ausschussberatung von Unionsdokumenten
 
 (1) Bei der Beratung von Unionsdokumenten prüfen die Ausschüsse auch
@@ -1855,7 +1738,6 @@ Europäischen Parlaments gleicher Zuständigkeit beraten.
 Unionsdokumente Delegationen zu einem Ausschuss des Europäischen
 Parlaments mit gleicher Zuständigkeit oder zu anderen Organen der
 Europäischen Union entsenden.
-
 
 ### § 93b Ausschuss für die Angelegenheiten der Europäischen Union
 
@@ -1950,7 +1832,6 @@ aufzustellen und diese zum Ausgangspunkt seiner Beschlussempfehlung an
 den Bundestag oder seiner Stellungnahme gegenüber der Bundesregierung
 zu machen.
 
-
 ### § 93c Subsidiaritätsrüge
 
 Die Entscheidung, gemäß Artikel 6 des Protokolls über die Anwendung
@@ -1959,7 +1840,6 @@ Subsidiaritätsrüge zu erheben, wird grundsätzlich vom Bundestag
 getroffen; nach Maßgabe des § 93b Absatz 2 bis 4 kann hierüber auch
 der Ausschuss für die Angelegenheiten der Europäischen Union
 entscheiden.
-
 
 ### § 93d Subsidiaritätsklage
 
@@ -1997,7 +1877,6 @@ Europäischen Union zur Erhebung der Klage ermächtigt, sofern nicht der
 Bundestag zuvor hierüber entschieden hat. § 93b Absatz 2 Satz 3 gilt
 entsprechend.
 
-
 ### § 94 Stabilitätsvorlagen
 
 Vorlagen der Bundesregierung gemäß § 8 Abs. 1 des Gesetzes zur
@@ -2013,7 +1892,6 @@ Beschlußempfehlung vorgelegt, ist die Vorlage ohne Ausschußbericht auf
 die Tagesordnung der nächsten Sitzung des Bundestages zu setzen.
 Änderungsanträge zu Stabilitätsvorlagen dürfen nur auf eine Kürzung
 der Ausgaben gerichtet sein (§ 42 der Bundeshaushaltsordnung).
-
 
 ### § 95 Haushaltsvorlagen
 
@@ -2049,7 +1927,6 @@ auf die Tagesordnung der nächsten Sitzung des Bundestages zu setzen.
 Hat der Ausschuß seine Beratungen nicht innerhalb der Frist
 abgeschlossen, ist die Vorlage ohne Ausschußbericht auf die
 Tagesordnung der nächsten Sitzung des Bundestages zu setzen.
-
 
 ### § 96 Finanzvorlagen
 
@@ -2121,7 +1998,6 @@ für die zweite Beratung vorgeschriebene Frist weder verkürzt noch
 aufgehoben werden, es sei denn, daß der Bundestag beschließt, gemäß §
 80 Abs. 2 zu verfahren.
 
-
 ### § 96a Verfahren nach dem Parlamentsbeteiligungsgesetz
 
 (1) Der Vorsitzende eines Ausschusses ist zur Einberufung einer
@@ -2152,7 +2028,6 @@ Unterrichtungen die allgemeinen Regelungen.
 (4) Die Geheimschutzordnung des Deutschen Bundestages (Anlage 3)
 findet Anwendung.
 
-
 ### § 97 Mißtrauensantrag gegen den Bundeskanzler
 
 (1) Der Bundestag kann auf Antrag gemäß Artikel 67 Abs. 1 des
@@ -2172,7 +2047,6 @@ Bundestages auf sich vereinigt.
 (3) Für den Zeitpunkt der Wahl gilt Artikel 67 Abs. 2 des
 Grundgesetzes.
 
-
 ### § 98 Vertrauensantrag des Bundeskanzlers
 
 (1) Der Bundeskanzler kann gemäß Artikel 68 des Grundgesetzes
@@ -2183,7 +2057,6 @@ Abstimmung über den Antrag gilt Artikel 68 Abs. 2 des Grundgesetzes.
 des Bundestages, kann der Bundestag binnen einundzwanzig Tagen auf
 Antrag eines Viertels der Mitglieder des Bundestages gemäß § 97 Abs. 2
 einen anderen Bundeskanzler wählen.
-
 
 ### § 99 Dringliche Gesetzentwürfe der Bundesregierung nach Artikel 81 des Grundgesetzes
 
@@ -2199,7 +2072,6 @@ der zweiten oder dritten Beratung bei einer Einzel- oder
 Schlußabstimmung wegen Beschlußunfähigkeit ergebnislos abgestimmt
 worden ist.
 
-
 ### § 100 Große Anfragen
 
 Große Anfragen an die Bundesregierung (§ 75 Abs. 1 Buchstabe f) sind
@@ -2208,7 +2080,6 @@ und können mit einer kurzen Begründung versehen werden. Wird in der
 Begründung auf andere Materialien verwiesen, findet § 77 Abs. 2
 entsprechende Anwendung.
 
-
 ### § 101 Beantwortung und Beratung von Großen Anfragen
 
 Der Präsident teilt der Bundesregierung die Große Anfrage mit und
@@ -2216,7 +2087,6 @@ fordert zur Erklärung auf, ob und wann sie antworten werde. Nach
 Eingang der Antwort wird die Große Anfrage auf die Tagesordnung
 gesetzt. Die Beratung muß erfolgen, wenn sie von einer Fraktion oder
 von fünf vom Hundert der Mitglieder des Bundestages verlangt wird.
-
 
 ### § 102 Ablehnung der Beantwortung der Großen Anfragen
 
@@ -2228,7 +2098,6 @@ Mitglieder des Bundestages verlangt wird. Vor der Aussprache kann
 einer der Anfragenden das Wort zu einer zusätzlichen mündlichen
 Begründung erhalten.
 
-
 ### § 103 Beschränkung der Beratung über Große Anfragen
 
 Gehen Große Anfragen so zahlreich ein, daß sie die ordnungsgemäße
@@ -2236,7 +2105,6 @@ Erledigung der Geschäfte gefährden, so kann der Bundestag zeitweilig
 die Beratungen darüber auf einen bestimmten wöchentlichen Sitzungstag
 beschränken. Auch in diesem Fall kann der Bundestag die Beratung über
 einzelne Große Anfragen an einem anderen Sitzungstag beschließen.
-
 
 ### § 104 Kleine Anfragen
 
@@ -2250,13 +2118,11 @@ Begründung kann angefügt werden.
 innerhalb von vierzehn Tagen schriftlich zu beantworten; er kann diese
 Frist im Benehmen mit dem Fragesteller verlängern.
 
-
 ### § 105 Fragen einzelner Mitglieder des Bundestages
 
 Jedes Mitglied des Bundestages ist berechtigt, kurze Einzelfragen zur
 mündlichen oder schriftlichen Beantwortung an die Bundesregierung zu
 richten. Das Nähere wird in Richtlinien geregelt (Anlage 4).
-
 
 ### § 106 Aktuelle Stunde und Befragung der Bundesregierung
 
@@ -2270,7 +2136,6 @@ bei der die Mitglieder des Bundestages Fragen von aktuellem Interesse
 an die Bundesregierung im Rahmen ihrer Verantwortlichkeit, vorrangig
 jedoch zur vorangegangenen Sitzung der Bundesregierung, stellen
 können. Das Nähere wird in Richtlinien geregelt (Anlage 7).
-
 
 ### § 107 Immunitätsangelegenheiten
 
@@ -2294,10 +2159,7 @@ und Geschäftsordnung kann der Präsident dem Bundestag in
 Immunitätsangelegenheiten unmittelbar eine Beschlußempfehlung
 vorlegen.
 
-
 ## IX. - Behandlung von Petitionen
-
-
 
 ### § 108 Zuständigkeit des Petitionsausschusses
 
@@ -2311,7 +2173,6 @@ Bundestages bleiben unberührt.
 Petitionsausschusses des Deutschen Bundestages nichts anderes ergibt,
 werden die Petitionen gemäß den nachfolgenden Bestimmungen behandelt.
 
-
 ### § 109 Überweisung der Petitionen
 
 (1) Der Präsident überweist die Petitionen an den Petitionsausschuß.
@@ -2322,7 +2183,6 @@ betreffen.
 (2) Mitglieder des Bundestages, die eine Petition überreichen, sind
 auf ihr Verlangen zu den Ausschußverhandlungen mit beratender Stimme
 zuzuziehen.
-
 
 ### § 110 Rechte des Petitionsausschusses
 
@@ -2340,14 +2200,12 @@ verständigen.
 das zuständige Mitglied der Bundesregierung rechtzeitig zu
 unterrichten.
 
-
 ### § 111 Übertragung von Befugnissen auf einzelne Mitglieder des Petitionsausschusses
 
 Die Übertragung von Befugnissen nach dem Gesetz nach Artikel 45c des
 Grundgesetzes auf eines oder mehrere seiner Mitglieder muß der
 Petitionsausschuß im Einzelfall beschließen. Inhalt und Umfang der
 Übertragung sind im Beschluß zu bestimmen.
-
 
 ### § 112 Beschlußempfehlung und Bericht des Petitionsausschusses
 
@@ -2367,16 +2225,12 @@ wird.
 (3) Den Einsendern wird die Art der Erledigung ihrer Petition
 mitgeteilt. Diese Mitteilung soll mit Gründen versehen sein.
 
-
 ## X. - Der Wehrbeauftragte des Bundestages
-
-
 
 ### § 113 Wahl des Wehrbeauftragten
 
 Die Wahl des Wehrbeauftragten erfolgt mit verdeckten Stimmzetteln (§
 49).
-
 
 ### § 114 Berichte des Wehrbeauftragten
 
@@ -2386,7 +2240,6 @@ Hundert der Mitglieder des Bundestages verlangen, ihn auf die
 Tagesordnung zu setzen.
 
 (2) Der Verteidigungsausschuß hat dem Bundestag Bericht zu erstatten.
-
 
 ### § 115 Beratung der Berichte des Wehrbeauftragten
 
@@ -2400,10 +2253,7 @@ Bundestages kann von einer Fraktion oder von anwesenden fünf vom
 Hundert der Mitglieder des Bundestages verlangt werden; Absatz 1
 findet entsprechende Anwendung.
 
-
 ## XI. - Beurkundung und Vollzug der Beschlüsse des Bundestages
-
-
 
 ### § 116 Plenarprotokolle
 
@@ -2416,7 +2266,6 @@ verteilt.
 (3) Alle anderen Aufnahmen der Verhandlungen des Bundestages, z.B.
 Tonbandaufnahmen, sind im Parlamentsarchiv niederzulegen.
 
-
 ### § 117 Prüfung der Niederschrift durch den Redner
 
 Jeder Redner erhält die Niederschrift seiner Rede zur Prüfung. Sie ist
@@ -2426,7 +2275,6 @@ Redner sie nicht fristgerecht zurückgibt. Niederschriften von Reden
 dürfen vor ihrer Prüfung durch den Redner einem anderen als dem
 Präsidenten nur mit Zustimmung des Redners zur Einsicht überlassen
 werden.
-
 
 ### § 118 Korrektur der Niederschrift
 
@@ -2439,7 +2287,6 @@ des amtierenden Präsidenten einzuholen.
 
 (2) Der Präsident kann alle Beweismittel heranziehen.
 
-
 ### § 119 Niederschrift von Zwischenrufen
 
 (1) Ein Zwischenruf, der in die Niederschrift aufgenommen worden ist,
@@ -2449,7 +2296,6 @@ Zustimmung des Präsidenten und der Beteiligten gestrichen wird.
 (2) Ein Zwischenruf, der dem Präsidenten entgangen ist, kann auch noch
 in der nächsten Sitzung gerügt werden.
 
-
 ### § 120 Beurkundung der Beschlüsse
 
 Außer dem Plenarprotokoll wird über jede Sitzung ein Beschlußprotokoll
@@ -2458,7 +2304,6 @@ wird. Das Amtliche Protokoll wird an die Mitglieder des Bundestages
 verteilt und gilt als genehmigt, wenn bis zu dem auf die Verteilung
 folgenden Sitzungstag kein Einspruch erhoben wird.
 
-
 ### § 121 Einspruch gegen das Amtliche Protokoll
 
 Wird gegen das Amtliche Protokoll Einspruch erhoben und dieser nicht
@@ -2466,7 +2311,6 @@ durch die Erklärung der Schriftführer erledigt, so befragt der
 Präsident den Bundestag. Wird der Einspruch für begründet erachtet, so
 ist die neue Fassung der beanstandeten Stelle dem nächsten Amtlichen
 Protokoll beizufügen.
-
 
 ### § 122 Übersendung beschlossener Gesetze
 
@@ -2490,7 +2334,6 @@ Unrichtigkeiten mit der Bitte aufmerksam, sie im weiteren
 Gesetzgebungsverfahren zu berichtigen. Von dieser Bitte ist dem
 Bundeskanzler und dem federführenden Minister Mitteilung zu machen.
 
-
 ### § 122a Elektronische Dokumente
 
 (1) Soweit für die Einbringung von Vorlagen Schriftform vorgesehen
@@ -2500,7 +2343,6 @@ wenn dieses für die weitere Bearbeitung geeignet ist.
 (2) Das Dokument muss mit einer elektronischen Signatur nach dem
 Signaturgesetz versehen sein. Das Nähere regeln
 Ausführungsbestimmungen, die vom Ältestenrat zu erlassen sind.
-
 
 ### § 123 Fristenberechnung
 
@@ -2513,7 +2355,6 @@ Schwierigkeiten oder aus zufälligen Gründen einzelne Mitglieder des
 Bundestages eine Drucksache erst nach der allgemeinen Verteilung
 erhalten.
 
-
 ### § 124 Wahrung der Frist
 
 Bei Berechnung einer Frist, innerhalb der eine Erklärung gegenüber dem
@@ -2525,17 +2366,13 @@ bewirken, so tritt an dessen Stelle der nächstfolgende Werktag. Die
 Erklärung oder Leistung ist während der üblichen Dienststunden,
 spätestens aber um 18 Uhr, zu bewirken.
 
-
 ### § 125 Unerledigte Gegenstände
 
 Am Ende der Wahlperiode des Bundestages gelten alle Vorlagen als
 erledigt. Dies gilt nicht für Petitionen und für Vorlagen, die keiner
 Beschlußfassung bedürfen.
 
-
 ## XII. - Abweichungen und Auslegung dieser Geschäftsordnung
-
-
 
 ### § 126 Abweichungen von dieser Geschäftsordnung
 
@@ -2543,7 +2380,6 @@ Abweichungen von den Vorschriften dieser Geschäftsordnung können im
 einzelnen Fall mit Zweidrittelmehrheit der anwesenden Mitglieder des
 Bundestages beschlossen werden, wenn die Bestimmungen des
 Grundgesetzes dem nicht entgegenstehen.
-
 
 ### § 127 Auslegung dieser Geschäftsordnung
 
@@ -2560,48 +2396,39 @@ Auslegung dem Bundestag zur Entscheidung vorgelegt wird.
 vorgebracht, entscheidet der Ausschuß für Wahlprüfung, Immunität und
 Geschäftsordnung, in welcher Form seine Auslegung bekanntzumachen ist.
 
-
 ### § 128 Rechte des Ausschusses für Wahlprüfung, Immunität und Geschäftsordnung
 
 Der Ausschuß für Wahlprüfung, Immunität und Geschäftsordnung kann
 Fragen aus seinem Geschäftsbereich beraten und dem Bundestag
 Empfehlungen unterbreiten (§ 75 Abs. 1 Buchstabe h).
 
-
 ### Anlage 1 Verhaltensregeln für Mitglieder des Deutschen Bundestages
 
 (Text siehe: BTGO1980Anl 1)
-
 
 ### Anlage 2 Registrierung von Verbänden und deren Vertreter
 
 (Text siehe: BTGO1980Anl 2)
 
-
 ### Anlage 3 Geheimschutzordnung des Deutschen Bundestages
 
 (Text siehe: BTGO1980Anl 3)
-
 
 ### Anlage 4 Richtlinien für die Fragestunde und für die schriftlichen Einzelfragen
 
 (Text siehe: BTGO1980Anl 4)
 
-
 ### Anlage 5 Richtlinien für Aussprachen zu Themen von allgemeinem aktuellen Interesse
 
 (Text siehe: BTGO1980Anl 5)
-
 
 ### Anlage 6 Grundsätze in Immunitätsangelegenheiten und in Fällen der Genehmigung gemäß § 50 Abs. 3 StPO und § 382 Abs. 3 ZPO sowie bei Ermächtigungen gemäß § 90b Abs. 2, § 194 Abs. 4 StGB
 
 (Text siehe: BTGO1980Anl 6)
 
-
 ### Anlage 7 Befragung der Bundesregierung
 
 (Text siehe: BTGO1980Anl 7)
-
 
 ### Anlage 8 (weggefallen)
 

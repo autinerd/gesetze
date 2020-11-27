@@ -19,14 +19,12 @@ Fundstelle
 Geändert durch
 :   Art. 9 G v. 14.8.2007 I 1912
 
-
 ## Eingangsformel
 
 Auf Grund des § 90 Abs. 3 Satz 5 der Abgabenordnung vom 16. März 1976
 (BGBl. I S. 613), der durch Artikel 9 Nr. 3 des Gesetzes vom 16. Mai
 2003 (BGBl. I S. 660) eingefügt worden ist, verordnet das
 Bundesministerium der Finanzen:
-
 
 ## § 1 Grundsätze der Aufzeichnungspflicht
 
@@ -77,7 +75,6 @@ Aufzeichnungen über innerbetriebliche Daten zu erstellen, die eine
 Plausibilitätskontrolle der vom Steuerpflichtigen vereinbarten
 Verrechnungspreise ermöglichen, wie zum Beispiel Prognoserechnungen
 und Daten zur Absatz-, Gewinn- und Kostenplanung.
-
 
 ## § 2 Art, Inhalt und Umfang der Aufzeichnungen
 
@@ -148,7 +145,6 @@ soll auch Art und Umfang der angeforderten Aufzeichnungen angeben. Die
 Anforderung kann zusammen mit der Prüfungsanordnung erfolgen und
 jederzeit nachgeholt, ergänzt oder geändert werden.
 
-
 ## § 3 Zeitnahe Erstellung von Aufzeichnungen bei außergewöhnlichen Geschäftsvorfällen
 
 (1) Aufzeichnungen über außergewöhnliche Geschäftsvorfälle im Sinne
@@ -168,7 +164,6 @@ Funktions- und Risikoänderungen im Unternehmen, Geschäftsvorfälle im
 Zusammenhang mit einer für die Verrechnungspreisbildung erheblichen
 Änderung der Geschäftsstrategie sowie der Abschluss von
 Umlageverträgen.
-
 
 ## § 4 Allgemein erforderliche Aufzeichnungen
 
@@ -257,13 +252,6 @@ erstellen:
         Finanzdaten unabhängiger Unternehmen sowie Unterlagen über
         vorgenommene Anpassungsrechnungen.
 
-
-
-
-
-
-
-
 ## § 5 Erforderliche Aufzeichnungen in besonderen Fällen
 
 Soweit besondere Umstände der in Satz 2 genannten Art für die vom
@@ -323,10 +311,6 @@ folgende Aufzeichnungen gehören:
     Unterlagen über seine Forschungs- und Entwicklungsarbeiten erstellt,
     aus denen die genannten Aufzeichnungen abgeleitet werden können.
 
-
-
-
-
 ## § 6 Anwendungsregelungen für kleinere Unternehmen und Steuerpflichtige mit anderen als Gewinneinkünften
 
 (1) Bei Steuerpflichtigen, die aus Geschäftsbeziehungen mit
@@ -358,7 +342,6 @@ in der jeweils geltenden Fassung und inländische Betriebsstätten nahe
 stehender Personen sind für die Prüfung der Betragsgrenzen nach Absatz
 2 zusammenzurechnen.
 
-
 ## § 7 Entsprechende Anwendung bei Betriebsstätten und Personengesellschaften
 
 Die §§ 1 bis 6 gelten entsprechend für Steuerpflichtige, die für die
@@ -373,11 +356,9 @@ Gewinnermittlung von Personengesellschaften, an denen der
 Steuerpflichtige beteiligt ist, soweit dabei Geschäftsbeziehungen im
 Sinne des § 1 des Außensteuergesetzes zu prüfen sind.
 
-
 ## § 8 Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 30. Juni 2003 in Kraft.
-
 
 ## Schlussformel
 

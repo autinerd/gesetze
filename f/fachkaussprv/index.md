@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 2191
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 53 Abs. 1 in Verbindung mit Abs. 2 des
@@ -25,7 +23,6 @@ Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931) verordnet
 das Bundesministerium für Bildung und Forschung nach Anhörung des
 Hauptausschusses des Bundesinstituts für Berufsbildung im Einvernehmen
 mit dem Bundesministerium für Wirtschaft und Arbeit:
-
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
 
@@ -63,7 +60,6 @@ eigenständig und verantwortlich wahrnehmen zu können:
 "Geprüfter Fachkaufmann für Außenwirtschaft/Geprüfte Fachkauffrau für
 Außenwirtschaft".
 
-
 ## § 2 Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer
@@ -92,7 +88,6 @@ wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft
 macht, Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche
 Handlungsfähigkeit) erworben zu haben, die die Zulassung zur Prüfung
 rechtfertigen.
-
 
 ## § 3 Gliederung und Durchführung der Prüfung
 
@@ -173,7 +168,6 @@ schriftlichen Prüfungsleistung doppelt gewichtet.
 (11) Die mündliche Prüfung ist erst dann durchzuführen, wenn in den
 anderen Prüfungsleistungen gemäß den Absätzen 2 und 3 mindestens
 ausreichende Leistungen erbracht wurden.
-
 
 ## § 4 Inhalt der Prüfung
 
@@ -331,10 +325,6 @@ Qualifikationsschwerpunkte geprüft werden:
 
 3.  Moderations- und Präsentationstechniken.
 
-
-
-
-
 ## § 5 Anrechnung anderer Prüfungsleistungen
 
 Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin kann auf Antrag
@@ -345,7 +335,6 @@ vor einem staatlichen Prüfungsausschuss eine Prüfung mit Erfolg
 abgelegt wurde, die den Anforderungen der entsprechenden
 Prüfungsinhalte nach dieser Verordnung entspricht. Eine Freistellung
 von der mündlichen Prüfung ist nicht zulässig.
-
 
 ## § 6 Bestehen der Prüfung
 
@@ -360,7 +349,6 @@ Prüfung sind jeweils gesondert zu bewerten.
 und der Anlage 2 auszustellen. Im Falle der Freistellung gemäß § 5
 sind Ort und Datum der anderweitig abgelegten Prüfung sowie die
 Bezeichnung des Prüfungsgremiums anzugeben.
-
 
 ## § 7 Wiederholung der Prüfung
 
@@ -377,7 +365,6 @@ Prüfung an, zur Wiederholungsprüfung angemeldet hat. Bestandene
 Prüfungsleistungen können auf Antrag einmal wiederholt werden. In
 diesem Fall gilt das Ergebnis der letzten Prüfung.
 
-
 ## § 8 Übergangsvorschriften
 
 (1) Begonnene Prüfungsverfahren können bis zum 31. Dezember 2007 nach
@@ -387,11 +374,9 @@ den bisherigen Vorschriften zu Ende geführt werden.
 auch gemäß dieser Verordnung durchführen; § 7 Abs. 2 findet in diesem
 Fall keine Anwendung.
 
-
 ## § 9 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2005 in Kraft.
-
 
 ## Anlage 1 (zu § 6 Abs. 3)
 
@@ -419,7 +404,6 @@ bestanden.
 Datum ............................................
 Unterschrift(en) .................................
 (Siegel der zuständigen Stelle)
-
 
 ## Anlage 2 (zu § 6 Abs. 3)
 

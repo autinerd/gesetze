@@ -18,43 +18,30 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 105 G v. 27.4.1993 I 512
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Erster Teil - Ergänzung und Änderung des Sozialgesetzbuchs
-
-
 
 ### Art 1 Sozialgesetzbuch (SGB) Fünftes Buch (V) Gesetzliche Krankenversicherung
 
 -
 
-
 ### (XXXX) Art 2 bis 4 (weggefallen)
 
 -
 
-
 ## Zweiter Teil - Änderung weiterer Gesetze
 
-
-
 ### (XXXX) Art 5 bis 7
-
-
 
 ### Art 8 Zweites Gesetz über die Krankenversicherung der Landwirte (KVLG 1989)
 
 -
 
-
 ### (XXXX) Art 9 bis 54
-
-
 
 ### Art 55 Rückkehr zum einheitlichen Verordnungsrang
 
@@ -63,14 +50,9 @@ der dort geänderten Verordnungen können auf Grund der jeweils
 einschlägigen Ermächtigung in Verbindung mit diesem Artikel durch
 Rechtsverordnung geändert oder aufgehoben werden.
 
-
 ## Dritter Teil - Überleitungs- und Schlußvorschriften
 
-
-
 ### Erster Abschnitt - Überleitungsvorschriften
-
-
 
 #### Art 56 Krankenversicherung der Rentner und der Studenten
 
@@ -150,7 +132,6 @@ Artikel 28a der Verordnung anzuwenden ist, für die Dauer des
 ununterbrochenen Wohnsitzes in dem betreffenden anderen Vertragsstaat
 des Europäischen Wirtschaftsraums.
 
-
 #### Art 57 Befreiung von der Versicherungspflicht für Ärzte im Praktikum
 
 Personen, die durch die Beschäftigung als Arzt im Praktikum am 31.
@@ -158,7 +139,6 @@ Dezember 1988 versicherungspflichtig sind, werden auf Antrag von der
 Versicherungspflicht befreit. Der Antrag ist bis zum 31. März 1989 bei
 der Krankenkasse zu stellen. § 8 Abs. 2 Satz 2 und 3 des Fünften
 Buches Sozialgesetzbuch gilt entsprechend.
-
 
 #### Art 58 Berücksichtigung von Krankengeldleistungen im Finanzausgleich der Krankenversicherung der Rentner
 
@@ -177,7 +157,6 @@ Bezugszeiträume vor dem 1. Januar 1984 enthalten war, das nicht wegen
 Ausfalls von Arbeitseinkommen geleistet wurde, ist dieses bei der
 Ermittlung des Vomhundertsatzes nach § 272 Abs. 1 des Fünften Buches
 Sozialgesetzbuch für das Jahr 1989 abzusetzen.
-
 
 #### Art 59 Freiwillige Versicherung
 
@@ -207,7 +186,6 @@ Nr. 3 ist der Krankenkasse der Beitritt spätestens bis zum 30. Juni
 1989 schriftlich anzuzeigen; die Mitgliedschaft beginnt in diesen
 Fällen mit dem Tag des Beitritts.
 
-
 #### Art 60 Kieferorthopädische Behandlung und Versorgung mit Zahnersatz
 
 Versicherte, deren zahnärztliche Behandlung zur Versorgung mit
@@ -217,11 +195,9 @@ Dezember 1988 geltenden Rechtsvorschriften, wenn die Krankenkasse vor
 dem 27. April 1988 über den Anspruch bereits schriftlich entschieden
 hat.
 
-
 #### Art 61
 
 -
-
 
 #### Art 62 Leistungsausschluß für Familienversicherte
 
@@ -230,7 +206,6 @@ Sozialgesetzbuch Versicherten aus dieser Versicherung keinen Anspruch
 auf Leistungen, die als Folge eines Arbeitsunfalls oder einer
 Berufskrankheit im Sinne der gesetzlichen Unfallversicherung zu
 erbringen sind.
-
 
 #### Art 63 Kostenerstattung durch die Träger der gesetzlichen Unfallversicherung
 
@@ -266,7 +241,6 @@ Die Spitzenverbände der Krankenkassen verteilen die Gesamtpauschale
 unter den Krankenkassen nach der Zahl der Mitglieder, für die Kosten
 nach Absatz 1 aufgewandt worden sind.
 
-
 #### Art 64 Beteiligte Ärzte und Zahnärzte als Mitglieder der Kassenärztlichen Vereinigungen
 
 Die Mitgliedschaft von Ärzten und Zahnärzten bei den Kassenärztlichen
@@ -274,7 +248,6 @@ Vereinigungen und Kassenärztlichen Bundesvereinigungen, die nach dem
 bis zum 31. Dezember 1988 geltenden Recht beteiligt waren, bleibt bis
 zum Ablauf der auf den 31. Dezember 1988 folgenden Amtsperiode,
 längstens bis zum 31. Dezember 1992, erhalten.
-
 
 #### Art 65 Umwandlung von Beteiligungen in Ermächtigungen
 
@@ -287,14 +260,12 @@ für Kassenzahnärzte in der jeweils am 31. Dezember 1988 geltenden
 Fassung gelten bis zur ausdrücklichen Umwandlung der Beteiligungen in
 Ermächtigungen durch den Zulassungsausschuß fort.
 
-
 #### Art 66 Vertragsärzte
 
 Für Ärzte und Zahnärzte, die am 1. Januar 1977 Vertragsärzte der
 Ersatzkassen waren oder sich bis zu diesem Zeitpunkt um Teilnahme an
 der vertragsärztlichen Versorgung beworben hatten, gilt § 95 Abs. 8
 Satz 1 des Fünften Buches Sozialgesetzbuch nicht.
-
 
 #### Art 67 Medizinisch-technische Großgeräte
 
@@ -308,7 +279,6 @@ bedarfsgerechten und wirtschaftlichen Einsatz von medizinisch-
 technischen Großgeräten vom 10. Dezember 1985 (BAnz. Nr. 60a vom 27.
 März 1986, S. 3) weiter.
 
-
 #### Art 68 Dienstordnung
 
 Die §§ 349 bis 357, § 360, § 413 Abs. 2 Satz 1 und § 414b der
@@ -317,14 +287,12 @@ oder deren Verbände, die am 31. Dezember 1988 nicht zu den
 Krankenkassen nach § 225 Abs. 1 oder den Verbänden nach § 406 oder §
 414 der Reichsversicherungsordnung gehörten.
 
-
 #### Art 69 Landesverbände der Krankenkassen
 
 Landesverbände, deren Aufgaben nach § 207 Abs. 4 des Fünften Buches
 Sozialgesetzbuch künftig von der Krankenkasse wahrgenommen werden,
 hören mit Ablauf des 31. Dezember 1988 auf zu bestehen. In ihre Rechte
 und Pflichten tritt am 1. Januar 1989 die Krankenkasse ein.
-
 
 #### Art 70 Regionale Kassenverbände
 
@@ -334,7 +302,6 @@ nach § 218 des Fünften Buches Sozialgesetzbuch gelten die §§ 407, 409
 und 411 bis 413 der Reichsversicherungsordnung. Im übrigen gelten für
 diese Verbände die Vorschriften des Fünften Buches Sozialgesetzbuch.
 
-
 #### Art 71 Beitragssatz für Studenten und Praktikanten
 
 Der auf Grund des § 381a der Reichsversicherungsordnung zum 1. Oktober
@@ -343,7 +310,6 @@ durchschnittliche Beitragssatz gilt für Studenten bis zum Beginn des
 Wintersemesters 1989/90, längstens bis zum 31. Oktober 1989, und für
 Praktikanten bis zum 30. September 1989 weiter.
 
-
 #### Art 72 Rücklagenbildung bei der Bundesknappschaft
 
 Die Bundesknappschaft als Träger der knappschaftlichen
@@ -351,7 +317,6 @@ Krankenversicherung hat ihre Rücklage auf das in § 261 Abs. 2 des
 Fünften Buches Sozialgesetzbuch vorgeschriebene Rücklagesoll bis zum
 31\. Dezember 1998 durch jährlich gleich hohe Teilzahlungen
 aufzufüllen.
-
 
 #### Art 73 Vertrauensärztliche Dienste bei den Landesversicherungsanstalten
 
@@ -429,7 +394,6 @@ die Satzung zu beschließen, den Haushaltsplan festzustellen und den
 Geschäftsführer zu wählen (§ 280 Abs. 1 Nr. 1, 2 und 6 des Fünften
 Buches Sozialgesetzbuch).
 
-
 #### Art 74 Übergang der Prüfdienste bei den Landesversicherungsanstalten auf die Länder
 
 (1) Die Rechte und Pflichten der Landesversicherungsanstalten gehen,
@@ -482,7 +446,6 @@ Betriebsführung der Krankenkassen regeln. Die Länder und die
 Landesversicherungsanstalten können miteinander Abweichendes
 vereinbaren.
 
-
 #### Art 75 Betrieb von Vorsorge- oder Rehabilitationseinrichtungen der gesetzlichen Krankenversicherung durch Landesversicherungsanstalten
 
 (1) Landesversicherungsanstalten, die am 1. Januar 1989 nach den zu
@@ -518,13 +481,11 @@ geschlossen wird.
 Einrichtungen gelten als Eigeneinrichtungen nach § 140 Abs. 1 des
 Fünften Buches Sozialgesetzbuch.
 
-
 #### Art 76 Fortführung des Institutionskennzeichens
 
 Anstelle einer Vereinbarung nach § 293 Abs. 2 des Fünften Buches
 Sozialgesetzbuch können sich die Beteiligten auch darauf verständigen,
 das bisherige Institutionskennzeichen weiter zu verwenden.
-
 
 #### Art 77 Verweisungen und Bezeichnungen in anderen Vorschriften
 
@@ -538,10 +499,7 @@ beteiligten Bundesministern den Wortlaut der Bestimmungen und
 Bezeichnungen bekanntmachen, die nach Maßgabe des Absatzes 1 an die
 Stelle der bisherigen Bestimmungen und Bezeichnungen treten.
 
-
 ### Zweiter Abschnitt - Schlußvorschriften
-
-
 
 #### Art 78 Berlin-Klausel
 
@@ -549,7 +507,6 @@ Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin. Rechtsverordnungen, die auf
 Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14
 des Dritten Überleitungsgesetzes.
-
 
 #### Art 79 Inkrafttreten, Außerkrafttreten
 

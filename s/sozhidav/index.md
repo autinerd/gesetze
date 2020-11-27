@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 365 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Auf Grund des § 117 Abs. 1 und 2 des Bundessozialhilfegesetzes in der
@@ -30,13 +29,11 @@ Gesetzes vom 16. Dezember 1997 (BGBl. I S. 2970) eingefügt worden ist,
 verordnet das Bundesministerium für Gesundheit im Einvernehmen mit dem
 Bundesministerium für Arbeit und Sozialordnung:
 
-
 ## § 1 Anwendungsbereich
 
 Verfahren und Kosten der Datenabgleiche, die nach § 118 Abs. 1 und 2
 des Zwölften Buches Sozialgesetzbuch durchgeführt werden können,
 richten sich nach den Vorschriften dieser Verordnung.
-
 
 ## § 2 Auswahl der Abgleichsfälle und Abgleichszeitraum
 
@@ -73,7 +70,6 @@ Der Abgleich im ersten und zweiten Kalendervierteljahr wird für das
 vorvergangene, der Abgleich im dritten und vierten Kalendervierteljahr
 für das vergangene Kalenderjahr durchgeführt.
 
-
 ## § 3 Übermittlung an die Vermittlungsstelle
 
 (1) Die Datenübermittlung erfolgt über die Datenstelle der
@@ -97,7 +93,6 @@ Anfragedatensatz nicht enthalten.
 (3) Die Datenübermittlung an die Datenstelle der
 Rentenversicherungsträger erfolgt zwischen dem ersten und dem 15. des
 ersten Monats, der auf den jeweiligen Abgleichszeitraum folgt.
-
 
 ## § 4 Übermittlung an die Auskunftsstellen
 
@@ -125,7 +120,6 @@ die Übermittlung nur, wenn nach den allgemein anerkannten Regeln der
 Technik in der Auskunftsstelle eine Überprüfung ohne
 Versicherungsnummer möglich ist.
 
-
 ## § 5 Verfahren der Datenübermittlung
 
 (1) Meldungen sind durch Datenübermittlung zu erstatten. Sie können
@@ -149,7 +143,6 @@ innerhalb des Zeitraumes des § 3 Abs. 3 erneut zu übermitteln. Die
 Übermittlung im Wege der Datenübertragung setzt voraus, daß zwischen
 Absender und Empfänger der Daten Einvernehmen über die Einzelheiten
 des Verfahrens besteht.
-
 
 ## § 6 Übermittlung auf maschinell lesbaren Datenträgern
 
@@ -195,7 +188,6 @@ herausgegeben, bei der Beuth-Verlag GmbH, Burggrafenstraße 4 - 10,
 56075 Koblenz-Karthause, jedermann zugänglich und archivmäßig
 gesichert niedergelegt.
 
-
 ## § 7 Übermittlung durch Übersendung von Magnetbandkassetten
 
 (1) Bei Datenübermittlungen durch Übersendung von Magnetbandkassetten
@@ -240,7 +232,6 @@ versehen:
 Die Magnetbandkassetten sind in festen Behältern verschlossen zu
 versenden. Mehrere zusammengehörende Magnetbandkassetten sind zusammen
 zu versenden.
-
 
 ## § 8 Übermittlung durch Übersendung von Magnetbändern
 
@@ -292,11 +283,9 @@ Abwicklung zu sichern und in festen Behältern verschlossen zu
 versenden. Mehrere zusammengehörende Magnetbänder sind zusammen zu
 versenden.
 
-
 ## § 9
 
 (weggefallen)
-
 
 ## § 10 Datenübermittlung durch Datenübertragung
 
@@ -315,7 +304,6 @@ Einzelheiten des Verfahrens muß Einvernehmen zwischen den Trägern der
 Sozialhilfe und der Vermittlungsstelle bestehen. Dabei sind die
 allgemein anerkannten Regeln der Technik zugrunde zu legen. § 6 Abs. 2
 findet entsprechende Anwendung.
-
 
 ## § 11 Abgleich nach § 118 Abs. 1 des Zwölften Buches Sozialgesetzbuch
 
@@ -365,7 +353,6 @@ der Kapitalerträge, bei denen auf Grund des Freistellungsauftrags vom
 Steuerabzug Abstand genommen worden ist. Es stellt zusätzlich Namen
 und Anschrift des Empfängers des Freistellungsauftrags fest.
 
-
 ## § 12 Rückübermittlung an die Vermittlungsstelle
 
 Die Auskunftsstellen übermitteln die von ihnen bei dem Abgleich gemäß
@@ -378,13 +365,11 @@ einen oder mehrere ausgeführte Freistellungsaufträge festgestellt hat,
 den in der Anlage 4 beigefügten Aufbau; anderenfalls haben sie den in
 Anlage 5 beigefügten Aufbau.
 
-
 ## § 13 Abgleich nach § 118 Abs. 2 des Zwölften Buches Sozialgesetzbuch
 
 Die Vermittlungsstelle führt den Abgleich der vorliegenden Daten der
 Träger der Sozialhilfe untereinander zwischen dem 15. und dem Ende des
 ersten auf den Abgleichszeitraum folgenden Monats durch.
-
 
 ## § 14 Rückübermittlung an die Träger der Sozialhilfe
 
@@ -394,7 +379,6 @@ die Ergebnisse des Abgleichs nach § 13 mit einem Datensatz nach Anlage
 Landesbehörde bestimmte zentrale Landesstelle an die Träger der
 Sozialhilfe bis zum Ende des zweiten Monats, der auf den
 Abgleichszeitraum folgt, zurück oder hält sie zum Abruf bereit.
-
 
 ## § 15 Überwachung des Dateneingangs, Datenlöschung
 
@@ -416,7 +400,6 @@ unverzüglich zu löschen. Sofern die Übermittlung auf maschinell
 verwertbaren Datenträgern gemäß § 5 Abs. 1 Satz 2 erfolgt, löscht die
 Vermittlungsstelle die Antwortdatensätze bis zum 15. des dritten auf
 den Abgleichszeitraum folgenden Monats.
-
 
 ## § 16 Kosten der Vermittlungsstelle
 
@@ -444,16 +427,13 @@ sie mit Absatz 2 Satz 3 in Einklang steht.
 (4) Abweichend von Absatz 1 kann Landesrecht eine andere Stelle für
 die Kostenerstattung bestimmen.
 
-
 ## § 17 Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 1998 in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage 1
 
@@ -1534,10 +1514,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
     *   entspricht Stand 01.02
 
-
-
-
-
 ## Anlage 2
 
 Fundstelle des Originaltextes: BGBl. I 2001, 4055
@@ -1631,10 +1607,6 @@ Normen
         digitaler Daten; Zeichendichte: 246 Zeichen/mm
 
     *   05.92
-
-
-
-
 
 ## Anlage 3
 
@@ -2123,13 +2095,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
         \*) Nicht auszufüllen für Datenübermittlungen.
-
-
-
-
-
-
-
 
 ## Anlage 4
 

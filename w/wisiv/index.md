@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 379 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Auf Grund des § 1 Abs. 1 Satz 1 Nr. 1 bis 3, 5, 7 und 8, der §§ 2, 3
@@ -30,10 +29,7 @@ Abs. 1, die §§ 6, 9 und 21 Nr. 2 durch Artikel 100 der Verordnung vom
 25\. November 2003 (BGBl. I S. 2304) geändert worden sind, verordnet
 die Bundesregierung:
 
-
 ## Erster Abschnitt - Anwendungsbereich, Voraussetzungen und Grenzen
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -78,10 +74,7 @@ Verordnung in der jeweils geltenden Fassung unterliegen.
 
 Sie sind auf das unerlässliche Maß zu beschränken.
 
-
 ## Zweiter Abschnitt - Vorrangverträge
-
-
 
 ### § 2 Vorrangige Erfüllung von Verträgen
 
@@ -150,7 +143,6 @@ Behörde kann ferner die Reihenfolge der Erfüllung von Vorrangverträgen
 und Verwaltungsakten nach § 6 Abs. 1 und 2 abweichend von § 6 Abs. 3
 regeln.
 
-
 ### § 3 Erklärungsermächtigung
 
 (1) Die Ermächtigung zur Abgabe einer Vorrangerklärung kann von der
@@ -189,10 +181,6 @@ abzuschließende Verträge oder Teile von Verträgen erteilt werden.
     oder verteidigungswichtigen Aufgaben oder mit Aufgaben zur
     Durchführung des Energiesicherungsgesetzes.
 
-
-
-
-
 ### § 4 Erklärungsberechtigung
 
 (1) Eine Vorrangerklärung nach § 2 Abs. 3 darf nur abgeben,
@@ -208,7 +196,6 @@ abzuschließende Verträge oder Teile von Verträgen erteilt werden.
 
 (2) Sobald die Voraussetzungen zur Abgabe einer Vorrangerklärung
 entfallen, ist sie unverzüglich zu widerrufen.
-
 
 ### § 5 Vorrangbestellung
 
@@ -254,10 +241,7 @@ Beantragt der Besteller eine Verpflichtung nach Absatz 4, so kann die
 zuständige Behörde die Dauer des Unterlassungsgebots bis zum Zeitpunkt
 des Zuganges der Entscheidung nach § 6 verlängern.
 
-
 ## Dritter Abschnitt - Verpflichtung durch Verwaltungsakt
-
-
 
 ### § 6 Verpflichtungsbescheid
 
@@ -310,10 +294,7 @@ dessen, zum Entgelt gemäß den Vorschriften über Preise bei
 (7) Die zuständige Behörde hat die sofortige Vollziehung der
 Verpflichtung im öffentlichen Interesse anzuordnen.
 
-
 ## Vierter Abschnitt - Warenbewirtschaftung
-
-
 
 ### § 7 Einschränkungen
 
@@ -341,7 +322,6 @@ soweit
 (2) Der Unternehmer darf bewirtschaftete Waren zur eigenen Verwendung
 nur entnehmen, wenn die Voraussetzungen des Absatzes 1 erfüllt sind.
 
-
 ### § 8 Allgemeine Zulassungen und Genehmigungen im Einzelfall
 
 (1) Das Bundesministerium für Wirtschaft und Technologie kann die
@@ -351,7 +331,6 @@ Warenarten oder besonderer Tatbestände allgemein zulassen.
 
 (2) Die zuständige Behörde kann in Einzelfällen die Lieferung, den
 Bezug oder die Verwendung dieser Waren genehmigen.
-
 
 ### § 9 Bezugsberechtigungen
 
@@ -390,7 +369,6 @@ Kartenabschnitte unverzüglich durch einen Vermerk zu entwerten, ein
 Jahr nach der Entwertung aufzubewahren und innerhalb dieser Frist der
 zuständigen Behörde auf Verlangen vorzulegen.
 
-
 ### § 10 Zuteilungsnachweis
 
 Für Zwecke der Zuteilung und des Bezuges von Waren der gewerblichen
@@ -398,7 +376,6 @@ Wirtschaft zur Deckung des persönlichen Bedarfs kann ein
 Zuteilungsnachweis eingeführt werden. Über seine Einführung und
 Ausgestaltung entscheidet das Bundesministerium für Wirtschaft und
 Technologie im Benehmen mit den Ländern.
-
 
 ### § 11 Meldungen
 
@@ -426,10 +403,7 @@ Bewirtschaftung nach § 7 unverzüglich gemäß Absatz 2 zu melden.
 (3) Die zuständige Behörde kann bestimmen, dass und zu welchem
 Zeitpunkt erneut Meldungen abzugeben sind.
 
-
 ## Fünfter Abschnitt - Zuständigkeiten und Schlussbestimmungen
-
-
 
 ### § 12 Zuständige Behörde
 
@@ -496,7 +470,6 @@ Verordnung zu regeln und insbesondere zu bestimmen, welche Stellen die
 Aufgaben der Behörden der allgemeinen Verwaltung auf der Kreisstufe,
 der Gemeinden und Gemeindeverbände nach Maßgabe dieser Verordnung
 wahrzunehmen haben.
-
 
 ### § 13 Straftaten und Ordnungswidrigkeiten
 
@@ -570,7 +543,6 @@ Wirtschaftssicherstellungsgesetzes ist
 
 Die übergeordnete Behörde ist in den Fällen des § 12 Abs. 2 zuständig.
 
-
 ### § 14 Inkrafttreten und Anwendbarkeit
 
 (1) Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
@@ -582,7 +554,6 @@ es das Bundesministerium für Wirtschaft und Technologie durch
 Verordnung bestimmt.
 
 (3) § 12 Abs. 3 ist mit dem Inkrafttreten anwendbar.
-
 
 ### Schlussformel
 

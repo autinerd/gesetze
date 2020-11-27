@@ -18,7 +18,6 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 19.1.2007 I 48
 
-
 ## § 1 Verkehrsfähigkeit von Arzneimitteln, die mit ionisierenden Strahlen behandelt worden sind
 
 (1) Das Verkehrsverbot des § 7 Abs. 1 des Arzneimittelgesetzes gilt
@@ -147,7 +146,6 @@ zur Verminderung der Keimzahl oder zur Inaktivierung von
 Blutbestandteilen oder zur Modifizierung von Bestandteilen verwendet
 worden sind.
 
-
 ## § 2 Verkehrsfähigkeit radioaktiver Arzneimittel
 
 (1) Das Verkehrsverbot des § 7 Abs. 1 des Arzneimittelgesetzes gilt
@@ -216,7 +214,6 @@ Menschen bestimmt sind. Die Ausnahmevorschriften des § 21 Abs. 2 Nr.
 1, 3 und 4 des Arzneimittelgesetzes finden keine Anwendung. Satz 1
 findet keine Anwendung auf Arzneimittel nach Absatz 1 Satz 2 und 3.
 
-
 ## § 3 Kennzeichnung, Packungsbeilage, Fachinformation
 
 Radioaktive Arzneimittel im Sinne des § 4 Abs. 8 des
@@ -257,15 +254,10 @@ in den Verkehr gebracht werden, wenn
     Arzneimitteln die Vorschriften der §§ 5 und 6 der GCP-Verordnung vom
     9\. August 2004 (BGBl. I S. 2081) entsprechend angewandt wurden.
 
-
-
-
-
 ## § 4 Verhältnis zur Strahlenschutz- und Röntgenverordnung
 
 Die Vorschriften der Strahlenschutzverordnung und der
 Röntgenverordnung bleiben unberührt.
-
 
 ## § 5 Ordnungswidrigkeiten
 
@@ -273,7 +265,6 @@ Ordnungswidrig im Sinne des § 97 Abs. 2 Nr. 31 des
 Arzneimittelgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen
 § 3 Nr. 1 Satz 1, Nr. 2 oder 4 ein radioaktives Arzneimittel in den
 Verkehr bringt.
-
 
 ## § 6 Übergangsregelung
 
@@ -289,16 +280,13 @@ Kennzeichnung, Packungsbeilage und Fachinformation in den Verkehr
 gebracht werden, die den bis zum 30. Dezember 2006 geltenden
 Vorschriften entspricht.
 
-
 ## § 6a (weggefallen)
 
 -
 
-
 ## § 7 (weggefallen)
 
 -
-
 
 ## § 8 (Inkrafttreten)
 

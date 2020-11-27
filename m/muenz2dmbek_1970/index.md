@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1970, 1632
 
-
-
 ## (XXXX)
 
 (1) Auf Grund des Gesetzes über die Ausprägung von Scheidemünzen vom
@@ -56,11 +54,9 @@ Reinnickelkern.
 (7) Der Entwurf der Münze stammt von Herrn Reinhardt Heinsdorff, Lehen
 (Württ).
 
-
 ## Schlußformel
 
 Der Bundesminister der Finanzen
-
 
 ## (XXXX) Abbildung der Münze
 

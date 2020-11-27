@@ -16,14 +16,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 2179
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 52 Abs. 3 des Bundeswahlgesetzes in der Fassung der
 Bekanntmachung vom 23. Juli 1993 (BGBl. I S. 1288, 1594) verordnet das
 Bundesministerium des Innern:
-
 
 ## § 1 Abkürzung der Fristen
 
@@ -92,13 +89,6 @@ Deutschen Bundestag wie folgt abgekürzt:
 
     c)  in Absatz 3 an Stelle des sechsundzwanzigsten Tages der fünfzehnte
         Tag.
-
-
-
-
-
-
-
 
 ## § 2 Inkrafttreten
 

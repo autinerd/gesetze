@@ -18,61 +18,39 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 265 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Erster Teil - Ergänzung des Sozialgesetzbuches
-
-
 
 ### Art 1 - Sozialgesetzbuch (SGB) - Elftes Buch (XI) - Soziale Pflegeversicherung
 
-
-
 ## Zweiter Teil - Änderung des Sozialgesetzbuches
-
-
 
 ### Art 2 bis 5
 
-
-
 ## Dritter Teil - Änderung weiterer Gesetze
 
-
-
 ### Art 6 bis 21
-
-
 
 ### Art 22 - Regelung für Amtsverhältnisse
 
 Für die Empfänger von Amtsbezügen des Bundes gilt § 3a des
 Bundesbesoldungsgesetzes sinngemäß.
 
-
 ### Art 23 bis 35
-
-
 
 ## Vierter Teil - Überleitungsvorschriften zu den Artikeln 1 bis 35
 
-
-
 ### Art 36 bis 38
-
-
 
 ### Art 39 - Rückkehr zum einheitlichen Verordnungsrang
 
 Die auf den Artikeln 36 bis 38 beruhenden Teile der dort geänderten
 Rechtsverordnungen können auf Grund der jeweils einschlägigen
 Ermächtigung durch Rechtsverordnung geändert werden.
-
 
 ### Art 40 - Familienversicherung der Behinderten
 
@@ -81,7 +59,6 @@ Inkrafttretens des Gesetzes die Voraussetzungen nach § 25 Abs. 2 Nr. 4
 zweiter Halbsatz des Elften Buches Sozialgesetzbuch nicht erfüllen,
 diese aber erfüllt hätten, wenn die Pflegeversicherung zum Zeitpunkt
 des Eintritts der Behinderung bereits bestanden hätte.
-
 
 ### Art 41 - Übergangsregelungen für Fristen bei Wahlrechten der Versicherten
 
@@ -98,7 +75,6 @@ Sozialgesetzbuch zum 1. Januar 1995 Versicherungspflicht in der
 privaten Pflegeversicherung eintritt, können ihr Wahlrecht nach § 23
 Abs. 2 des Elften Buches Sozialgesetzbuch auch schon vor dem 1. Januar
 1995 mit Wirkung zum 1. Januar 1995 ausüben.
-
 
 ### Art 42 - Behandlung der bestehenden privaten Pflegeversicherungsverträge
 
@@ -154,16 +130,13 @@ Vertrag nach Absatz 1 vom Versicherungsnehmer nicht erfüllt, tritt ab
 Elften Buches Sozialgesetzbuch Versicherungspflicht in der sozialen
 Pflegeversicherung ein.
 
-
 ### Art 43 - (weggefallen)
 
 -
 
-
 ### Art 44 - (weggefallen)
 
 -
-
 
 ### Art 45 - Bezieher von Pflegeleistungen nach den §§ 53 bis 57 des Fünften Buches Sozialgesetzbuch
 
@@ -177,21 +150,17 @@ des Elften Buches Sozialgesetzbuch vorgesehen ist.
 
 (2) (weggefallen)
 
-
 ### Art 46 - (weggefallen)
 
 -
-
 
 ### Art 47 - (weggefallen)
 
 -
 
-
 ### Art 48 - (weggefallen)
 
 -
-
 
 ### Art 49 - Weitergeltung von Vergütungen und Pflegesätzen
 
@@ -203,14 +172,9 @@ des Elften Buches Sozialgesetzbuch abgeschlossen worden sind; die
 Leistungen der Pflegekassen richten sich nach den Vorschriften des
 Vierten Kapitels des Elften Buches Sozialgesetzbuch.
 
-
 ### Art 49a - Übergangsregelungen für die vollstationäre Pflege
 
-
-
 #### Erster Abschnitt - Übergangsregelung mit weitergeltenden Heimentgelten
-
-
 
 #### § 1 Leistungsrechtliche Vorschrift
 
@@ -274,7 +238,6 @@ Durchschnittsbetrag zu überschreiten, hat sie die Leistungen nach
 Absatz 1 durch Leistungsbescheid jeweils mit Wirkung vom 1. November
 und 1. Mai entsprechend anzupassen.
 
-
 #### § 2 Vergütungsrechtliche Umsetzung
 
 (1) Die am 30. Juni 1996 geltenden Heimentgelte für vollstationäre
@@ -330,7 +293,6 @@ Vergütungsvereinbarung nach dem Achten Kapitel des Elften Buches
 Sozialgesetzbuch abgeschlossen hat, gelten die darin vereinbarten
 Vergütungssätze von dem vereinbarten Zeitpunkt an.
 
-
 #### § 3 Unterrichtungspflicht des Pflegeheims
 
 Das Pflegeheim hat den Heimbewohnern und ihren Kostenträgern
@@ -341,7 +303,6 @@ Abs. 1 weitergeltenden Heimentgelt enthaltenen, nicht durch
 schriftlich mitzuteilen. Heimbewohnern, die nach dem 31. Juli 1996 in
 das Heim aufgenommen werden, ist die schriftliche Mitteilung nach Satz
 1 bei ihrer Aufnahme in das Heim auszuhändigen.
-
 
 #### § 4 Zahlungen und Ausgleiche
 
@@ -363,10 +324,7 @@ rückwirkend ab 1. Juli 1996, bei späterer Aufnahme in das Pflegeheim
 ab Beginn seines Leistungsanspruchs zu erstatten; Absatz 1 Satz 2 gilt
 entsprechend.
 
-
 #### Zweiter Abschnitt - Alternative Übergangsregelung
-
-
 
 #### § 5 Wahlrecht des Pflegeheims
 
@@ -389,7 +347,6 @@ beteiligten Kostenträger (Pflegekasse, Träger der Sozialhilfe); dieser
 stellt die unverzügliche Weiterleitung der Mitteilung an die übrigen
 als Vertragsparteien beteiligten Kostenträger sowie an die
 Landesverbände der Pflegekassen sicher.
-
 
 #### § 6 Grundsätze
 
@@ -422,7 +379,6 @@ nachfolgenden Regelungen unberührt.
 den Vorschriften des Elften Buches Sozialgesetzbuch nicht als
 pflegebedürftig anerkannt werden, tritt an die Stelle der Pflegesätze
 der allgemeine Vergütungssatz nach § 8 Abs. 2 Nr. 2 Buchstabe c.
-
 
 #### § 7 Grundlage für die Ermittlung der Teilentgelte nach § 6
 
@@ -462,7 +418,6 @@ anzusetzen (pflegesatzwirksamer Betrag).
 Satz 1 Nr. 2 wird der um den pflegesatzwirksamen Betrag geminderte
 Stichtagsbetrag durch die Zahl der nach Absatz 1 maßgeblichen
 Heimbewohner geteilt.
-
 
 #### § 8 Umrechnung des pflegesatzwirksamen Betrages in Pflegeklassen
 
@@ -515,10 +470,6 @@ umzurechnen. Dabei sind zuzuordnen:
 
     des Pflegesatzes der Pflegestufe I.
 
-
-
-
-
 #### § 9 Ermittlung und Zahlung des neuen Heimentgeltes
 
 (1) Das ab dem Umstellungszeitpunkt von dem einzelnen Heimbewohner
@@ -545,7 +496,6 @@ haben, obwohl sie pflegerischen Hilfebedarf haben, oder deren Antrag
 abgelehnt worden ist, oder deren Kostenträger zahlen ab dem
 Umstellungszeitpunkt den allgemeinen Vergütungssatz und den
 einheitlichen Heimkostensatz; Absatz 2 Satz 3 gilt entsprechend.
-
 
 #### § 10 Pflichten der Beteiligten
 
@@ -608,7 +558,6 @@ Kostenträger sowie an die Landesverbände der Pflegekassen sicher.
 übermittelten Angaben befinden die Parteien nach § 85 Abs. 2 des
 Elften Buches Sozialgesetzbuch mit Mehrheit.
 
-
 ### Art 49b - Begrenzung der Vergütung vollstationärer Pflegeeinrichtungen in den Jahren 1996 bis 1998
 
 Die nach Artikel 49a während der Übergangszeit vom 1. Juli 1996 bis
@@ -633,7 +582,6 @@ Einrichtung vereinbart, dürfen die sich hieraus ergebenden
 Veränderungen den Rahmen nicht übersteigen, der sich aus einer
 einheitlichen Veranlagung der Gesamtleistungsangebote nach Satz 1
 ergeben würde.
-
 
 ### Art 50 - Übergangsregelung zum Bundessozialhilfegesetz, Bundesversorgungsgesetz und Lastenausgleichsgesetz
 
@@ -677,7 +625,6 @@ Verwaltungsakt mit Wirkung vom 1. April 1995 zu ersetzen.
 Empfänger von Unterhaltshilfe gewährt worden wäre, nach seinem Tode
 auf Antrag demjenigen zu, der die Pflege geleistet oder Kosten hierfür
 getragen hat.
-
 
 ### Art 51 - Pflegegeld nach dem Bundessozialhilfegesetz
 
@@ -753,7 +700,6 @@ Fassung des Pflege-Versicherungsgesetzes vom 26. Mai 1994 (BGBl. I S.
 bis 5 entsprechen, sind mit Wirkung für die Vergangenheit
 zurückzunehmen und durch einen neuen Verwaltungsakt mit Wirkung vom 1.
 April 1995 zu ersetzen.
-
 
 ### Art 52 - Finanzhilfen für Investitionen in Pflegeeinrichtungen im Beitrittsgebiet
 
@@ -831,7 +777,6 @@ herzustellen. Die zweckentsprechende Verwendung der Finanzhilfen ist
 anhand der entsprechenden Unterlagen jährlich in einem vereinfachten
 Verfahren nachzuweisen.
 
-
 ### Art 52a - Durchführungsvorschrift zu Artikel 52
 
 (1) Der Bund richtet für die Finanzhilfen nach Artikel 52
@@ -845,26 +790,15 @@ fälliger Zahlungen benötigt werden. Die Länder leiten die Finanzhilfen
 unverzüglich, spätestens innerhalb von 30 Tagen, an die Letztempfänger
 weiter.
 
-
 ## Fünfter Teil - Änderung der Entgeltfortzahlung an Feiertagen und im Krankheitsfall
-
-
 
 ### Art 53 - Gesetz über die Zahlung des Arbeitsentgelts an Feiertagen und im Krankheitsfall (Entgeltfortzahlungsgesetz)
 
-
-
 ### Art 54 bis 61
-
-
 
 ### Art 62
 
-
-
 ### Art 63 bis 65
-
-
 
 ### Art 66 - Unanwendbarkeit von Maßgaben
 
@@ -873,10 +807,7 @@ Einigungsvertrages vom 31. August 1990 in Verbindung mit Art. 1 des
 Gesetzes vom 23. September 1990 (BGBl. 1990 II S. 885, 1021)
 aufgeführte Maßgabe ist nicht mehr anzuwenden.
 
-
 ## Sechster Teil - Überleitungsvorschriften zu Artikel 5 Nr. 5 und zu den Artikel 53 bis 66
-
-
 
 ### Art 67 - Überleitungsvorschriften
 
@@ -899,10 +830,7 @@ oder Bezeichnungen verwendet werden, die durch dieses Gesetz
 aufgehoben oder geändert werden, treten an ihre Stelle die
 entsprechenden Vorschriften oder Bezeichnungen dieses Gesetzes.
 
-
 ## Siebter Teil - Schlußvorschriften
-
-
 
 ### Art 68 - Inkrafttreten
 
@@ -923,7 +851,6 @@ Artikel 49a und 49b in Kraft.
 (4) Am 1. Juni 1994 treten in Kraft:
 Artikel 1 § 46 Abs. 1, 2, 5 und 6, §§ 47, 52, 53, 93 bis 108, Artikel
 5 Nr. 5 und Artikel 43, 46, 52 bis 67.
-
 
 ### Art 69 - Inkrafttreten der stationären Pflege
 

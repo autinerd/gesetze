@@ -27,7 +27,6 @@ Finanzkonglomerats und zur Änderung der Richtlinien 73/239/EWG,
 der Richtlinien 98/78/EG und 2000/12/EG des Europäischen Parlaments
 und des Rates (ABl. EU 2003 Nr. L 35 S. 1)
 
-
 ## Eingangsformel
 
 Auf Grund des § 10b Abs. 1 Satz 2 und 4, auch in Verbindung mit Satz 3
@@ -42,7 +41,6 @@ Gesetzes vom 21. Dezember 2004 (BGBl. I S. 3610) eingefügt worden ist,
 verordnet das Bundesministerium der Finanzen nach Anhörung der
 Spitzenverbände der Institute und des Versicherungsbeirats im Benehmen
 mit der Deutschen Bundesbank:
-
 
 ## § 1 Anwendungsbereich; einzubeziehende Unternehmen
 
@@ -87,7 +85,6 @@ zu ermitteln. Die Finanzkonglomerate-Solvabilität ist ausreichend,
 wenn der nach Maßgabe des § 5 Abs. 1, des § 5a Abs. 1, des § 6 Abs. 1
 oder des § 7 Abs. 2 zu ermittelnde Betrag größer oder gleich null ist.
 
-
 ## § 2 Bestimmung und Wahl der Berechnungsmethode
 
 (1) Steht an der Spitze des Finanzkonglomerats ein im Inland
@@ -108,7 +105,6 @@ untersagen. Haben in Fällen nach Satz 1 alle beaufsichtigten
 Finanzkonglomeratsunternehmen des Finanzkonglomerats ihren Sitz im
 Inland oder ist das übergeordnete Finanzkonglomeratsunternehmen ein
 Rückversicherungsunternehmen, gilt Absatz 1 entsprechend.
-
 
 ## § 3 Technische Grundsätze
 
@@ -249,7 +245,6 @@ Solvabilitätsanforderung nach den branchenspezifischen Vorschriften
 der im Finanzkonglomerat am stärksten vertretenen Finanzbranche
 errechnet.
 
-
 ## § 4 Berechnungsmethoden; Verantwortlichkeit
 
 (1) Die Berechnung der Finanzkonglomerate-Solvabilität ist vom
@@ -274,7 +269,6 @@ Berechnung der Finanzkonglomerate-Solvabilität für die gesamte Gruppe
 vollständig nach Maßgabe der Abzugs- und Aggregationsmethode nach § 6
 oder auf der Grundlage der Kombinationsmethode nach § 7 durchgeführt
 wird.
-
 
 ## § 5 Berechnung der Finanzkonglomerate-Solvabilität auf der Grundlage einer konsolidierten Berechnung
 
@@ -389,13 +383,6 @@ abzuziehen:
         Versicherungsbranche als zulässige Eigenmittel im Sinne der
         maßgeblichen Branchenvorschriften ausgewiesen werden.
 
-
-
-
-
-
-
-
 ## § 5a Berechnung der Finanzkonglomerate-Solvabilität auf der Grundlage eines Konzernabschlusses
 
 (1) Wird die Finanzkonglomerate-Solvabilität auf der Grundlage eines
@@ -459,10 +446,6 @@ abzuziehen:
     einzubeziehenden Finanzkonglomeratsunternehmen als zulässige
     Eigenmittel im Sinne der maßgeblichen Branchenvorschriften ausgewiesen
     werden.
-
-
-
-
 
 ## § 6 Berechnung der Finanzkonglomerate-Solvabilität auf der Grundlage der Einzelabschlüsse (Abzugs- und Aggregationsmethode)
 
@@ -545,7 +528,6 @@ der direkt oder indirekt am gezeichneten Kapital eines in die
 Berechnung einzubeziehenden Finanzkonglomeratsunternehmens gehalten
 wird, anzusetzen.
 
-
 ## § 7 Berechnung der Finanzkonglomerate-Solvabilität auf der Grundlage einer Kombination der Berechnungsmethoden nach den §§ 5 und 6
 
 (1) Abweichend von den §§ 5 und 6 wird die Finanzkonglomerate-
@@ -566,7 +548,6 @@ Absatz 1 ermittelten zulässigen Eigenmitteln und der Summe der nach
 Absatz 1 ermittelten Solvabilitätsanforderungen und dem Buchwert der
 Beteiligungen größer oder gleich null sein.
 
-
 ## § 8 Berichtszeitraum
 
 Die Berechnung der Finanzkonglomerate-Solvabilität ist der
@@ -575,7 +556,6 @@ unverzüglich nach Erteilung des Bestätigungsvermerks für den letzten
 der in die Berechnung jeweils einzubeziehenden und zu prüfenden
 Abschlüsse durch den Abschlussprüfer, spätestens jedoch neun Monate
 nach Ende des Geschäftsjahres einzureichen.
-
 
 ## § 9 Einreichungsverfahren
 
@@ -673,7 +653,6 @@ einfacher Ausfertigung einzureichen. Wahlweise kann die Einreichung
 auch unter Verwendung automatisiert verarbeitbarer Datenträger oder im
 Wege der Datenfernübertragung erfolgen.
 
-
 ## § 10 Subdelegation
 
 Die in § 10b Abs. 1 Satz 2 und 4 des Kreditwesengesetzes und in § 104q
@@ -682,7 +661,6 @@ Ermächtigungen werden auf die Bundesanstalt für
 Finanzdienstleistungsaufsicht mit der Maßgabe übertragen, dass die
 Rechtsverordnungen im Einvernehmen mit der Deutschen Bundesbank zu
 erlassen sind.
-
 
 ## § 11 Anwendungsregelung
 
@@ -695,16 +673,13 @@ Dezember 2006 begonnenes Geschäftsjahr können die §§ 1, 3 bis 6 und 9
 Abs. 1 jedoch bereits in der ab dem 30. Juli 2008 geltenden Fassung
 angewendet werden.
 
-
 ## § 12 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage 1 (zu § 9 Abs. 1 Nr. 1) Übersichtsbogen zur Berechnung der Finanzkonglomerate-Solvabilität - Gesamtübersicht (FSG) -
 

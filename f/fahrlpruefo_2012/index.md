@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1302
 
-
 ## Eingangsformel
 
 Auf Grund
@@ -40,12 +39,7 @@ Auf Grund
     Bundesministerium für Verkehr, Bau und Stadtentwicklung im
     Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-
-
-
 ## I. Abschnitt - Prüfungsausschüsse
-
 
 ### § 1 Errichtung
 
@@ -53,7 +47,6 @@ Für die Prüfung der fachlichen Eignung als Fahrlehrer (§ 2 Absatz 1
 Nummer 7, § 4 des Fahrlehrergesetzes) wird bei der zuständigen
 obersten Landesbehörde, der von ihr bestimmten oder der nach
 Landesrecht zuständigen Stelle ein Prüfungsausschuss errichtet.
-
 
 ### § 2 Zusammensetzung
 
@@ -88,7 +81,6 @@ der fahrpraktischen Prüfung (§ 15) sowie bei den Lehrproben (§§ 17,
 18) nicht erforderlich; der Vorsitzende bestimmt die Teilnahme von
 mindestens zwei Mitgliedern des Prüfungsausschusses.
 
-
 ### § 3 Berufung der Mitglieder
 
 (1) Die zuständige oberste Landesbehörde, die von ihr bestimmte oder
@@ -106,7 +98,6 @@ Fahrlehrerausbildungsstätte tätig sind, oder Mitglieder nach § 2
 Absatz 2 Nummer 4, die als Ausbildungsfahrlehrer einer
 Ausbildungsfahrschule angehören, sofern sie den Bewerber nicht
 ausgebildet haben.
-
 
 ### § 4 Ausgeschlossene Personen, Befangenheit
 
@@ -197,7 +188,6 @@ während der Prüfung oder Lehrprobe der Prüfungsausschuss.
 (5) Ein von der Mitwirkung ausgeschlossenes Mitglied des
 Prüfungsausschusses ist durch ein anderes Mitglied zu ersetzen.
 
-
 ### § 5 Verschwiegenheit
 
 Die Mitglieder des Prüfungsausschusses haben gegenüber Dritten
@@ -205,14 +195,12 @@ Verschwiegenheit zu wahren. Ausnahmen bedürfen der Einwilligung der
 zuständigen obersten Landesbehörde oder der für die Errichtung des
 Prüfungsausschusses nach § 1 bestimmten Stelle.
 
-
 ### § 6 Örtliche Zuständigkeit
 
 Für die Durchführung der Prüfungen und Lehrproben (§ 14) ist nach § 32
 des Fahrlehrergesetzes jeweils der Prüfungsausschuss zuständig, in
 dessen Bezirk der Bewerber seinen Wohnsitz oder die von ihm besuchte
 Fahrlehrerausbildungsstätte oder Ausbildungsfahrschule ihren Sitz hat.
-
 
 ### § 7 Beschlussfähigkeit und Abstimmung
 
@@ -222,9 +210,7 @@ genannten Mitglieder mitwirken.
 (2) Die Entscheidungen ergehen mit Stimmenmehrheit. Bei
 Stimmengleichheit entscheidet der Vorsitzende.
 
-
 ## II. Abschnitt - Durchführung der Fahrlehrerprüfung
-
 
 ### § 8 Zulassung zur Fahrlehrerprüfung (§ 4 des Fahrlehrergesetzes)
 
@@ -291,7 +277,6 @@ insbesondere nach den §§ 9 und 14, für die Ablegung der Prüfungen und
 Lehrproben erfüllt sind und die gemäß Absatz 2 Satz 2 nachzureichenden
 Bescheinigungen und Unterlagen übergeben sind.
 
-
 ### § 9 Prüfungstermine
 
 Der Vorsitzende des Prüfungsausschusses bestimmt Ort und Zeit der
@@ -303,7 +288,6 @@ der Ausbildung in der Fahrlehrerausbildungsstätte und die Lehrproben
 jeweils innerhalb eines Monats nach Abschluss der Ausbildung in der
 Ausbildungsfahrschule (§ 2 Absatz 5 Satz 3 des Fahrlehrergesetzes)
 durchgeführt werden.
-
 
 ### § 10 Rücktritt
 
@@ -321,7 +305,6 @@ Prüfung oder Lehrprobe als nicht bestanden.
 (3) Über die Frage, ob ein wichtiger Grund vorliegt, entscheidet der
 Vorsitzende des Prüfungsausschusses.
 
-
 ### § 11 Ordnungsverstöße
 
 Stört der Bewerber den Ablauf einer Prüfung oder einer Lehrprobe
@@ -331,7 +314,6 @@ oder die Aufsicht führende Person von der Prüfung oder Lehrprobe
 vorläufig ausschließen. Über den endgültigen Ausschluss entscheidet
 der Prüfungsausschuss. Wird der Bewerber endgültig ausgeschlossen,
 gilt die Prüfung oder die Lehrprobe als nicht bestanden.
-
 
 ### § 12 Nichtöffentlichkeit
 
@@ -345,7 +327,6 @@ Vorsitzende des Prüfungsausschusses bei der mündlichen
 Fachkundeprüfung oder bei den Lehrproben die Teilnahme als Zuhörer
 gestatten, sofern keiner der Bewerber widerspricht.
 
-
 ### § 13 Gegenstand der Prüfungen und Lehrproben
 
 In den Prüfungen und Lehrproben hat der Bewerber um die
@@ -353,7 +334,6 @@ Fahrlehrerlaubnis seine fachliche Eignung (§ 4 des Fahrlehrergesetzes)
 nachzuweisen. Hierzu gehören die Kenntnis der in der
 Fahrlehrerausbildungsordnung aufgeführten Sachgebiete und die
 Fähigkeit zu ihrer praktischen Anwendung.
-
 
 ### § 14 Gliederung der Prüfungen und Lehrproben
 
@@ -368,7 +348,6 @@ vor Durchführung der Lehrproben bestanden sein. Bei der
 Fachkundeprüfung soll erst der schriftliche und dann der mündliche
 Teil stattfinden. Die Lehrproben können in beliebiger Reihenfolge
 vorgesehen werden.
-
 
 ### § 15 Fahrpraktische Prüfung
 
@@ -411,7 +390,6 @@ Die Dauer der Prüfung beträgt mindestens für die Fahrlehrerlaubnis der
 
    (3) Für den Abbruch der Prüfung gelten die entsprechenden Vorschriften
 für die Fahrerlaubnisprüfung.
-
 
 ### § 16 Fachkundeprüfung
 
@@ -475,7 +453,6 @@ Hilfsmittel einschließlich Taschenrechner.
 sein Fachwissen nachzuweisen. Eine gemeinsame Prüfung von bis zu sechs
 Bewerbern ist zulässig.
 
-
 ### § 17 Lehrprobe im theoretischen Unterricht
 
 (1) Der Bewerber hat in etwa 45 Minuten nachzuweisen, dass er in der
@@ -488,7 +465,6 @@ Ausbildungsfahrschule unterrichtet hat.
 allgemeinen Lehrplan der Ausbildungsfahrschule und dem
 Ausbildungsstand der Fahrschüler durchzuführen.
 
-
 ### § 18 Lehrprobe im fahrpraktischen Unterricht
 
 In der Lehrprobe im fahrpraktischen Unterricht hat der Bewerber in
@@ -496,7 +472,6 @@ etwa 45 Minuten nachzuweisen, dass er in der Lage ist, Fahrschülern
 praktischen Unterricht zu erteilen. Für den Fahrunterricht ist ein
 Kraftfahrzeug mit Schaltgetriebe zu benutzen. § 17 Absatz 1 Satz 2 und
 Absatz 2 ist anzuwenden.
-
 
 ### § 19 Bewertung
 
@@ -537,7 +512,6 @@ mündlichen Teil, eine mangelhafte Leistung im mündlichen Teil durch
 eine mindestens befriedigende Leistung im schriftlichen Teil
 ausgeglichen.
 
-
 ### § 20 Entscheidung über die Prüfungen und Lehrproben
 
 (1) Der Prüfungsausschuss entscheidet über die Bewertung der Prüfungen
@@ -549,14 +523,12 @@ so entscheiden die Mitglieder, die die jeweilige Prüfung oder
 Lehrprobe durchführen, über die Bewertung. Wenn kein einvernehmliches
 Votum zustande kommt, ist § 19 Absatz 3 anzuwenden.
 
-
 ### § 21 Bekanntgabe der Entscheidung
 
 Der Vorsitzende oder ein Mitglied nach § 2 Absatz 3 gibt dem Bewerber
 die Bewertung nach jeder einzelnen Prüfung oder Lehrprobe bekannt. Mit
 mangelhaft oder mit ungenügend bewertete Prüfungsteile sind zu
 erläutern und zu begründen.
-
 
 ### § 22 Niederschrift
 
@@ -565,12 +537,10 @@ Lehrproben ist eine Niederschrift zu fertigen. Hat der Bewerber eine
 Prüfung oder eine Lehrprobe nicht bestanden, müssen die Gründe aus der
 Niederschrift ersichtlich sein.
 
-
 ### § 23 Nicht bestandene Prüfung
 
 Bei einer nicht bestandenen Prüfung oder Lehrprobe ist dem Bewerber
 ein schriftlicher Bescheid mit Rechtsbehelfsbelehrung zuzustellen.
-
 
 ### § 24 Wiederholungen der Prüfungen und Lehrproben
 
@@ -579,14 +549,12 @@ wiederholt werden. Bei der Fachkundeprüfung und den Lehrproben muss
 zwischen dem Nichtbestehen und der Wiederholung mindestens ein Monat
 liegen.
 
-
 ### § 25 Erneute Fahrlehrerprüfung
 
 Die Prüfungen und Lehrproben können frühestens fünf Jahre nach
 Abschluss der nicht bestandenen Prüfung oder Lehrprobe erneut abgelegt
 werden, wenn der Bewerber sich einer erneuten Ausbildung für die
 beantragte Klasse unterzogen hat.
-
 
 ### § 26 Prüfungsunterlagen
 
@@ -595,9 +563,7 @@ Prüfungsunterlagen zu gewähren. Die Prüfungsunterlagen sind zehn Jahre
 lang aufzubewahren. Die Frist beginnt mit der Bekanntgabe des letzten
 Prüfungsergebnisses.
 
-
 ## III. Abschnitt - Ausnahmebestimmungen
-
 
 ### § 27 Ausnahmen
 
@@ -605,9 +571,7 @@ Die §§ 1, 3 bis 6 und 9 gelten nicht für die in § 30 Absatz 2 des
 Fahrlehrergesetzes genannten Behörden. § 49 Absatz 7 des
 Fahrlehrergesetzes bleibt unberührt.
 
-
 ## IV. Abschnitt - Schlussbestimmungen
-
 
 ### § 28 Inkrafttreten, Außerkrafttreten
 
@@ -615,7 +579,6 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Prüfungsordnung für Fahrlehrer vom 18. August
 1998 (BGBl. I S. 2307, 2331), die durch Artikel 7 der Verordnung vom
 7\. August 2002 (BGBl. I S. 3267) geändert worden ist, außer Kraft.
-
 
 ### Schlussformel
 

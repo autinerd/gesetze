@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1642
 
-
 ## Eingangsformel
 
 Das Bundesministerium für Verkehr, Bau und Stadtentwicklung verordnet
@@ -64,7 +63,6 @@ auf Grund
 jeweils in Verbindung mit dem 2. Abschnitt des
 Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821):
 
-
 ## § 1 Anwendungsbereich
 
 Das Bundesamt für Seeschifffahrt und Hydrographie erhebt für die
@@ -81,7 +79,6 @@ Bergrechts im Festlandsockel und des Raumordnungsrechts in der
 deutschen ausschließlichen Wirtschaftszone Gebühren und Auslagen nach
 dieser Verordnung.
 
-
 ## § 2 Gebühren und Auslagen
 
 (1) Die gebührenpflichtigen Tatbestände und Gebührensätze ergeben sich
@@ -90,7 +87,6 @@ aus dem anliegenden Gebührenverzeichnis.
 (2) Auslagen werden nach Maßgabe des § 10 Absatz 1 Nummer 2 bis 6 und
 8 des Verwaltungskostengesetzes gesondert erhoben, sofern nicht im
 Gebührenverzeichnis etwas anderes bestimmt ist.
-
 
 ## § 3 Gebührenbemessung
 
@@ -163,7 +159,6 @@ Nachbereitung.
 (5) Die Gebühr nach Nummer 3001 des Gebührenverzeichnisses wird auf
 volle Euro aufgerundet.
 
-
 ## § 4 Übergangsregelung
 
 Auf Verfahren, die den Übergangsregelungen nach § 17 Absatz 1 bis 4
@@ -182,7 +177,6 @@ Gebührennummer 6041 der Anlage zu § 2 Absatz 1 hinsichtlich der
 zweiten Teilgebühr anzuwenden, sofern sie nach Inkrafttreten dieser
 Verordnung entstanden ist.
 
-
 ## § 5 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
@@ -190,7 +184,6 @@ Gleichzeitig tritt die Kostenverordnung für Amtshandlungen des
 Bundesamtes für Seeschifffahrt und Hydrographie vom 20. Dezember 2001
 (BGBl. I S. 4081), die durch Artikel 2 der Verordnung vom 19.
 September 2005 (BGBl. I S. 2787) geändert worden ist, außer Kraft.
-
 
 ## Anlage (zu § 2 Absatz 1) Gebührenverzeichnis
 
@@ -881,9 +874,6 @@ September 2005 (BGBl. I S. 2787) geändert worden ist, außer Kraft.
 
     *   3 070 – 9 070
 
-
-
-
 ## Anhang 1 zur Anlage Katalog Geräte Bordprüfung
 
 
@@ -1008,9 +998,6 @@ September 2005 (BGBl. I S. 2787) geändert worden ist, außer Kraft.
 
 
 *    *   Wendeanzeiger
-
-
-
 
 ## Anhang 2 zur Anlage Zuordnung von Geräten zu Aufwandskategorien
 

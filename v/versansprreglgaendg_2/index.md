@@ -16,12 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1964, 329 (806)
 
-
-
 ## Art 1
 
 -
-
 
 ## Art 2
 
@@ -63,7 +60,6 @@ gemacht werden können, sind die Vorschriften des Artikels 2 Abs. 1 und
 von Ansprüchen aus Lebens- und Rentenversicherungen vom 6. Juli 1959
 (Bundesgesetzbl. I S. 421) entsprechend anzuwenden.
 
-
 ## Art 3
 
 (1) Verpflichtet sich ein Lebensversicherungsunternehmen, die
@@ -103,17 +99,14 @@ Pensionsversicherungsverhältnissen ist Artikel 2 Abs. 1 und 2 nur
 insofern anzuwenden, als diese Ansprüche bereits bei Inkrafttreten
 dieses Gesetzes geltend gemacht werden konnten.
 
-
 ## Art 4
 
 -
-
 
 ## Art 5
 
 Dieses Gesetz gilt nach § 13 Abs. 1 des Dritten Überleitungsgesetzes
 vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin.
-
 
 ## Art 6
 

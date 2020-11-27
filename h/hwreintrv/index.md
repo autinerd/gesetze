@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 1935
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 7 Abs. 2 Satz 6 der Handwerksordnung in der Fassung
@@ -25,7 +23,6 @@ zuletzt durch Artikel 1 Nr. 9 Buchstabe c des Gesetzes vom 24.
 Dezember 2003 (BGBl. I S. 2934) geändert worden ist, verordnet das
 Bundesministerium für Wirtschaft und Arbeit im Einvernehmen mit dem
 Bundesministerium für Bildung und Forschung:
-
 
 ## § 1 Gegenstand
 
@@ -36,7 +33,6 @@ Inhalte Meisterprüfungen in zulassungspflichtigen Handwerken der
 Anlage A zur Handwerksordnung entsprechen und die vor einem
 staatlichen oder staatlich anerkannten Prüfungsausschuss mit Erfolg
 abgelegt worden sind.
-
 
 ## § 2 Abschlussprüfungen an Hochschulen und an solchen Bildungseinrichtungen, die nach Landesrecht dem tertiären Bereich zugeordnet sind
 
@@ -73,7 +69,6 @@ maßgeblich.
 (3) Als Nachweis über erfolgreich abgelegte Prüfungen gelten
 insbesondere von Hochschulen ausgestellte Zeugnisse.
 
-
 ## § 3 Abschlussprüfungen an staatlichen oder staatlich anerkannten Fachschulen
 
 (1) Abschlussprüfungen, die an staatlichen oder staatlich anerkannten
@@ -109,13 +104,11 @@ maßgeblich.
 (3) Als Nachweis über erfolgreich abgelegte Prüfungen gelten
 insbesondere von Fachschulen ausgestellte Zeugnisse.
 
-
 ## § 4 Antrag
 
 Die Eintragung in die Handwerksrolle ist bei der Handwerkskammer zu
 beantragen. Der Antrag kann schriftlich oder zur Niederschrift
 erfolgen.
-
 
 ## § 5 Übergangsregelung
 
@@ -124,11 +117,9 @@ Prüfungen bei der Eintragung in die Handwerksrolle und bei Ablegung
 der Meisterprüfung im Handwerk vom 2. November 1982 (BGBl. I S. 1475)
 anerkannt sind, gelten weiterhin als anerkannt.
 
-
 ## § 6 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Schlussformel
 

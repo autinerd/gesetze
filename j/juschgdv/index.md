@@ -18,17 +18,14 @@ Fundstelle
 Geändert durch
 :   Art. 4 Abs. 56 G v. 5.5.2004 I 718
 
-
 ## Eingangsformel
 
 Auf Grund des § 26 des Jugendschutzgesetzes vom 23. Juli 2002 (BGBl. I
 S. 2730, 2003 I S. 476) verordnet die Bundesregierung:
 
-
 ## § 1 Sitz der Bundesprüfstelle für jugendgefährdende Medien
 
 Sitz der Bundesprüfstelle für jugendgefährdende Medien ist Bonn.
-
 
 ## § 2 Beginn des Verfahrens
 
@@ -53,13 +50,11 @@ Sozialgesetzbuch nachweisen. Die Begründung sowie der Nachweis der
 Anerkennung können auch durch Telefax oder elektronisch übermittelt
 werden.
 
-
 ## § 3 Einheitliches Verfahren
 
 Werden wegen desselben Mediums mehrere Anträge gestellt oder
 Anregungen eingereicht, so ist über sämtliche Anträge und Anregungen
 in einem einheitlichen Verfahren zu verhandeln und zu entscheiden.
-
 
 ## § 4 Beteiligte
 
@@ -69,7 +64,6 @@ die Inhaberin oder der Inhaber der Nutzungsrechte, bei Telemedien die
 Urheberin oder der Urheber oder der Anbieter. Die Vorschriften der §§
 3, 4 Abs. 1 und des § 7 des Urheberrechtsgesetzes finden entsprechende
 Anwendung.
-
 
 ## § 5 Verhandlungstermin
 
@@ -99,7 +93,6 @@ festzustellen oder nicht innerhalb der Frist des Absatzes 2 erfolgt,
 so ist die Verhandlung zu vertagen, wenn nicht auf die
 Benachrichtigung oder die Einhaltung der Frist verzichtet worden ist.
 
-
 ## § 6 Befangenheit von Mitgliedern der Bundesprüfstelle für jugendgefährdende Medien
 
 (1) Ein Mitglied der Bundesprüfstelle, das sich im Einzelfall für
@@ -121,7 +114,6 @@ Stimmenmehrheit. Der Beschluss ist nicht anfechtbar.
 (4) In den Fällen der Absätze 1 und 2 tritt an die Stelle der oder des
 Vorsitzenden die zur Vertretung berechtigte Person.
 
-
 ## § 7 Verhandlungsgrundsätze
 
 (1) Die Verhandlung ist mündlich. Die oder der Vorsitzende kann
@@ -138,7 +130,6 @@ die Anwesenheit gestatten.
 (3) Die Beteiligten können sich durch schriftlich bevollmächtigte
 Personen vertreten lassen.
 
-
 ## § 8 Durchführung der Verhandlung
 
 (1) Die oder der Vorsitzende der Bundesprüfstelle eröffnet, leitet und
@@ -152,7 +143,6 @@ berechtigten Personen sind zu hören.
 Beteiligten zu richten.
 
 (4) Über die Verhandlung ist eine Niederschrift zu fertigen.
-
 
 ## § 9 Beratung, Abstimmung, Entscheidung, Zustellung
 
@@ -171,7 +161,6 @@ Entscheidung nach § 21 Abs. 8 des Jugendschutzgesetzes soll innerhalb
 von zwei Wochen nach dem Abschluss der Verhandlung erfolgen.
 
 (3) Zustellungen erfolgen nach dem Verwaltungszustellungsgesetz.
-
 
 ## § 10 Vereinfachtes Verfahren
 
@@ -199,7 +188,6 @@ Jugendschutzgesetzes. Sind Anträge nicht ausreichend begründet, so
 kann die oder der Vorsitzende veranlassen, dass die Bundesprüfstelle
 nicht tätig wird.
 
-
 ## § 11 Belehrungspflichten
 
 Die oder der Vorsitzende der Bundesprüfstelle hat die Beisitzerinnen
@@ -212,7 +200,6 @@ Ferner sind die Gruppenbeisitzerinnen und -beisitzer (§ 19 Abs. 2 des
 Jugendschutzgesetzes) von der oder dem Vorsitzenden auf die
 gewissenhafte und unparteiische Ausübung ihres Amtes zu verpflichten.
 Über die Verpflichtungsverhandlung ist eine Niederschrift aufzunehmen.
-
 
 ## § 12 Stellvertretende Mitglieder der Bundesprüfstelle für jugendgefährdende Medien
 
@@ -247,7 +234,6 @@ nach der in den Absätzen 2 bis 4 festgelegten Reihenfolge; an die
 Stelle einer oder eines verhinderten oder ausgeschiedenen Vorsitzenden
 tritt die zu ihrer oder seiner Vertretung berufene Person.
 
-
 ## § 13 Führung und Veröffentlichung der Liste
 
 (1) Die Bundesprüfstelle führt die Liste der jugendgefährdenden Medien
@@ -259,7 +245,6 @@ Streichung sowie für die Neuauflage der Liste ist Sorge zu tragen.
 Weise in einer übersichtlichen Zusammenstellung zu veröffentlichen.
 Dies gilt auch für die den Teilen A und B entsprechenden Teile der bis
 zum 31. März 2003 bei der Bundesprüfstelle geführten Liste.
-
 
 ## § 14 Zusammenarbeit mit der Kommission für Jugendmedienschutz
 
@@ -283,7 +268,6 @@ Bundesprüfstelle die Kommission für Jugendmedienschutz neben ihren
 Entscheidungen über die Listenaufnahme von Telemedien auch über damit
 zusammenhängende relevante Fragen und Ereignisse.
 
-
 ## § 15 Mitteilungspflichten
 
 (1) Wird ein Trägermedium in die Liste jugendgefährdender Medien
@@ -302,11 +286,9 @@ Entscheidungen in analoger Anwendung des § 24 Abs. 5 des
 Jugendschutzgesetzes den im Bereich der Telemedien anerkannten
 Einrichtungen der Selbstkontrolle mitteilen.
 
-
 ## § 16 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Schlussformel
 

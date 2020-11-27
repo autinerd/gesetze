@@ -23,8 +23,6 @@ Geändert durch
 V aufgeh. durch
 :   § 3 Abs. 1 idF d. Art. 1 Nr. 2 V v. 20.6.2012 I 1384 mWv 1.10.2016
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 40 Abs. 1 der Handwerksordnung in der Fassung der
@@ -34,7 +32,6 @@ Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074, 2006 I S.
 Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit
 dem Bundesministerium für Bildung und Forschung nach Anhörung des
 Hauptausschusses des Bundesinstituts für Berufsbildung:
-
 
 ## § 1 Gleichstellung von Prüfungszeugnissen
 
@@ -102,7 +99,6 @@ Soweit zu der Ausbildungsberufsbezeichnung eine Fachrichtung oder
 Schwerpunktbezeichnung angegeben ist, beschränkt sich die
 Gleichstellung auf diese Fachrichtung oder diesen Schwerpunkt.
 
-
 ## § 2 Fortgeltung von Gleichstellungen
 
 Die Gleichstellungen auf Grund der Verordnung zur Gleichstellung von
@@ -111,14 +107,12 @@ den Zeugnissen über das Bestehen der Gesellenprüfung in handwerklichen
 Ausbildungsberufen vom 1. Juni 1994 (BGBl. I S. 1215), geändert durch
 die Verordnung vom 4. August 1998 (BGBl. I S. 2086), gelten fort.
 
-
 ## § 3 Inkrafttreten, Außerkrafttreten
 
 (1) Diese Verordnung tritt mit Wirkung vom 1. Oktober 2006 in Kraft
 und am 1. Oktober 2016 außer Kraft.
 
 (2)
-
 
 ## Schlussformel
 

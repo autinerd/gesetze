@@ -16,14 +16,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1977, 1004
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 31 Abs. 3 Satz 3 des Beamtenversorgungsgesetzes vom
 24\. August 1976 (BGBl. I S. 2485) verordnet die Bundesregierung mit
 Zustimmung des Bundesrates:
-
 
 ## § 1
 
@@ -33,13 +30,11 @@ Berufskrankheiten-Verordnung vom 8. Dezember 1976 (BGBl. I S. 3329) in
 der jeweils geltenden Fassung genannten Krankheiten mit den dort im
 einzelnen bezeichneten Maßgaben bestimmt.
 
-
 ## § 2
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 108 Satz 2 des Beamtenversorgungsgesetzes auch im
 Land Berlin.
-
 
 ## § 3
 

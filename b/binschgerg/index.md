@@ -18,16 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 7 Abs. 6 G v. 26.3.2007 I 358
 
-
 ## Erster Abschnitt - Allgemeine Verfahrensvorschriften
-
-
 
 ### § 1
 
 In Binnenschiffahrtssachen sind im ersten Rechtszug die Amtsgerichte
 zuständig.
-
 
 ### § 2
 
@@ -105,7 +101,6 @@ anderen Straftat oder Ordnungswidrigkeit in Zusammenhang, so ist das
 für Binnenschiffahrtssachen bestimmte Gericht zuständig, wenn das
 Schwergewicht bei der zuerst genannten Tat liegt.
 
-
 ### § 3
 
 (1) In bürgerlichen Rechtsstreitigkeiten, die Binnenschiffahrtssachen
@@ -149,7 +144,6 @@ Anwendung der Vorschriften der Zivilprozeßordnung, der
 Strafprozeßordnung oder des Gesetzes über Ordnungswidrigkeiten
 zuständig wäre.
 
-
 ### § 4
 
 (1) Die Landesregierungen sind ermächtigt, die Verhandlung und
@@ -170,7 +164,6 @@ auf die Bezirke der anderen Gerichte.
 Entscheidung von Binnenschiffahrtssachen eines Landes ganz oder
 teilweise den Gerichten eines anderen Landes zugewiesen werden.
 
-
 ### § 5
 
 (1) Die für Binnenschiffahrtssachen zuständigen Amtsgerichte sind
@@ -182,13 +175,11 @@ Bezeichnung "Schiffahrtsgericht".
 Geschäftsverteilung die Geschäfte des Schiffahrtsgerichts einem oder
 einzelnen von ihnen zu übertragen.
 
-
 ### § 6
 
 Ist für bürgerliche Rechtsstreitigkeiten die Zuständigkeit eines
 Gerichts vereinbart, das nicht ein Schiffahrtsgericht ist, so sind die
 Vorschriften dieses Gesetzes nicht anzuwenden.
-
 
 ### § 7
 
@@ -197,13 +188,11 @@ von der Staatsanwaltschaft bei dem Schiffahrtsgericht oder bei dem ihm
 übergeordneten Landgericht wahrgenommen. Die Anträge und Verfügungen
 in Binnenschiffahrtssachen sollen als solche gekennzeichnet werden.
 
-
 ### § 8
 
 Im Verfahren vor den Schiffahrtsgerichten ist § 495a der
 Zivilprozeßordnung nicht anzuwenden. Die Anträge der Parteien in
 Binnenschiffahrtssachen sollen als solche gekennzeichnet werden.
-
 
 ### § 9
 
@@ -213,11 +202,9 @@ Beschwerdegegenstandes zulässig.
 
 (2)
 
-
 ### § 10
 
 In Strafsachen ist die Revision ausgeschlossen.
-
 
 ### § 11
 
@@ -227,11 +214,9 @@ Rechtsstreitigkeiten sowie in Straf- und Bußgeldsachen sind die
 Oberlandesgerichte zuständig. Sie führen hierbei die Bezeichnung
 "Schiffahrtsobergericht".
 
-
 ### § 12
 
 (weggefallen)
-
 
 ### § 13
 
@@ -241,10 +226,7 @@ Oberlandesgericht bei dem dem Schiffahrtsgericht übergeordneten
 Landgericht eingelegt wird; die Sache wird von Amts wegen an das
 Oberlandesgericht abgegeben.
 
-
 ## Zweiter Abschnitt - Besondere Verfahrensvorschriften für Rheinschiffahrtssachen
-
-
 
 ### § 14
 
@@ -263,7 +245,6 @@ Rechtsstreit gilt nicht als Rheinschiffahrtssache, wenn die Parteien
 die Zuständigkeit eines Gerichts vereinbaren, das für
 Rheinschiffahrtssachen nicht zuständig ist.
 
-
 ### § 15
 
 (1) Bei der Verhandlung und Entscheidung von Rheinschiffahrtssachen
@@ -276,13 +257,11 @@ Stelle der Bezeichnung "Schiffahrtsobergericht" die Bezeichnung
 Rheinschiffahrtssachen und die Anträge der Parteien in
 Rheinschiffahrtssachen sollen als solche gekennzeichnet werden.
 
-
 ### § 16
 
 Die Entscheidung einer Binnenschiffahrtssache, die nicht
 Rheinschiffahrtssache ist, darf nicht mit der Entscheidung einer
 Rheinschiffahrtssache verbunden werden.
-
 
 ### § 17
 
@@ -290,7 +269,6 @@ Die Berufung in bürgerlichen Rechtsstreitigkeiten und die
 Rechtsbeschwerde in Bußgeldsachen an das Rheinschiffahrtsobergericht
 unterliegen nicht der in Artikel 37 Abs. 1 der Revidierten
 Rheinschiffahrtsakte vorgesehenen Beschränkung.
-
 
 ### § 18
 
@@ -300,10 +278,7 @@ Revidierten Rheinschiffahrtsakte vorgesehenen Beschränkung statt der
 Berufung oder der Rechtsbeschwerde an das Rheinschiffahrtsobergericht
 auch die Anrufung der Zentralkommission in Straßburg zulässig.
 
-
 ## Dritter Abschnitt - Besondere Verfahrensvorschriften für Moselschiffahrtssachen
-
-
 
 ### § 18a
 
@@ -329,7 +304,6 @@ nicht als Moselschiffahrtssache, wenn die Parteien die Zuständigkeit
 eines Gerichts vereinbaren, das für Moselschiffahrtssachen nicht
 zuständig ist.
 
-
 ### § 18b
 
 (1) Bei der Verhandlung und Entscheidung von Moselschiffahrtssachen
@@ -342,13 +316,11 @@ Stelle der Bezeichnung "Schiffahrtsobergericht" die Bezeichnung
 Moselschiffahrtssachen und die Anträge der Parteien in
 Moselschiffahrtssachen sollen als solche gekennzeichnet werden.
 
-
 ### § 18c
 
 Die Entscheidung einer Binnenschiffahrtssache, die nicht
 Moselschiffahrtssache ist, darf nicht mit der Entscheidung einer
 Moselschiffahrtssache verbunden werden.
-
 
 ### § 18d
 
@@ -357,7 +329,6 @@ Rechtsbeschwerde in Bußgeldsachen an das Moselschiffahrtsobergericht
 unterliegen nicht der Beschränkung, die sich aus Artikel 34 Abs. 3 des
 in § 18a genannten Vertrages in Verbindung mit Artikel 37 Abs. 1 der
 Revidierten Rheinschiffahrtsakte ergibt.
-
 
 ### § 18e
 
@@ -369,20 +340,15 @@ der Berufung oder der Rechtsbeschwerde an das
 Moselschiffahrtsobergericht auch die Anrufung des Berufungsausschusses
 der Moselkommission in Trier zulässig.
 
-
 ## Vierter Abschnitt - Zusatz-, Übergangs- und Schlußbestimmungen
-
-
 
 ### § 19
 
 -
 
-
 ### § 20
 
 -
-
 
 ### § 21
 
@@ -398,11 +364,9 @@ Vollstreckungsklausel (§ 724 der Zivilprozeßordnung, § 451 Abs. 1 der
 Strafprozeßordnung) kostenfrei zu versehenden Ausfertigung
 vollstreckt.
 
-
 ### § 22
 
 -
-
 
 ### § 23
 
@@ -416,18 +380,15 @@ der in dem bisherigen Land Baden gelegenen Schiffahrtsgerichte des
 Landes Baden-Württemberg beschränkt sich auf die bisher badischen
 Teile dieser Bezirke.
 
-
 ### (XXXX) §§ 24 und 25
 
 -
-
 
 ### § 26
 
 (1) Dieses Gesetz tritt am 1. Oktober 1952 in Kraft.
 
 (2)
-
 
 ### § 27
 

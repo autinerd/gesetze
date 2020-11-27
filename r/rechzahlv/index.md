@@ -25,7 +25,6 @@ Geändert durch
     2006/48/EG sowie zur Aufhebung der Richtlinie 97/5/EG (ABl. L 319 vom
     5\.12.2007, S. 1).
 
-
 ## Eingangsformel
 
 Auf Grund des § 330 Absatz 2 des Handelsgesetzbuchs, der zuletzt durch
@@ -34,9 +33,7 @@ geändert worden ist, verordnet das Bundesministerium der Justiz im
 Einvernehmen mit dem Bundesministerium der Finanzen und im Benehmen
 mit der Deutschen Bundesbank:
 
-
 ## Abschnitt 1 - Anwendungsbereich
-
 
 ### § 1 Anwendungsbereich
 
@@ -45,9 +42,7 @@ Handelsgesetzbuchs auf Zahlungsinstitute und E-Geld-Institute
 (Institute im Sinn des § 1 Absatz 2a des
 Zahlungsdiensteaufsichtsgesetzes) anzuwenden.
 
-
 ## Abschnitt 2 - Bilanz und Gewinn- und Verlustrechnung
-
 
 ### § 2 Formblätter
 
@@ -58,7 +53,6 @@ Handelsgesetzbuchs über die Gliederung der Bilanz das Formblatt 1
 Gliederung der Gewinn- und Verlustrechnung das Formblatt 2
 (Staffelform – Anlage 2) zu verwenden.
 
-
 ### § 3 Getrennte Rechnungslegung
 
 Für Zahlungsdienste nach § 1 und für die Ausgabe von E-Geld nach § 1a
@@ -68,7 +62,6 @@ Positionen der Bilanz und der Gewinn- und Verlustrechnung sind nach
 Maßgabe der Formblätter entsprechend ihrer Herkunft aus
 Zahlungsdiensten und aus der Ausgabe von E-Geld oder aus sonstigen
 Tätigkeiten zu unterteilen.
-
 
 ### § 4 Nachrangige Vermögensgegenstände und Schulden
 
@@ -81,7 +74,6 @@ Gläubiger erfüllt werden dürfen.
 jeweiligen Posten oder Unterposten gesondert auszuweisen. Die Angaben
 können statt in der Bilanz im Anhang in der Reihenfolge der
 betroffenen Posten gemacht werden.
-
 
 ### § 5 Wertpapiere
 
@@ -118,14 +110,12 @@ Fälligkeit einheitlich ausgestattet sind.
 zum Handel im regulierten Markt zugelassen sind, außerdem Wertpapiere,
 die an ausländischen Börsen zugelassen sind oder gehandelt werden.
 
-
 ### § 6 Restlaufzeit
 
 Für die Gliederung nach Restlaufzeiten sind bei ungekündigten
 Kündigungsgeldern die Kündigungsfristen und gegebenenfalls die
 Kündigungssperrfristen maßgebend. Bei Forderungen sind vorzeitige
 Kündigungsmöglichkeiten nicht zu berücksichtigen.
-
 
 ### § 7 Fristengliederung
 
@@ -143,10 +133,6 @@ gesondert nach folgenden Restlaufzeiten aufzugliedern:
 
 4.  mehr als zwölf Monate.
 
-
-
-
-
 ### § 8 Anteilige Zinsen
 
 Anteilige Zinsen und ähnliche das Geschäftsjahr betreffende Beträge,
@@ -159,12 +145,9 @@ Satz 2, Absatz 5 Satz 3 des Handelsgesetzbuchs bleibt unberührt. Die
 in Satz 1 genannten Beträge brauchen nicht nach Restlaufzeiten
 aufgegliedert zu werden.
 
-
 ## Abschnitt 3 - Vorschriften zu einzelnen Posten der Bilanz – Formblatt 1
 
-
 ### Unterabschnitt 1 - Posten der Aktivseite
-
 
 #### § 9 Barreserve – Posten 1
 
@@ -175,7 +158,6 @@ Nennwert erworbene Gedenkmünzen sowie Goldmünzen, auch wenn es sich um
 gesetzliche Zahlungsmittel handelt, und Barrengold sind abweichend von
 Satz 1 im Posten „Sonstige Vermögensgegenstände“ (Posten 13) zu
 erfassen.
-
 
 #### § 10 Forderungen an Kreditinstitute – Posten 2
 
@@ -206,7 +188,6 @@ des § 13 Absatz 1 Satz 2 Nummer 1 des Zahlungsdiensteaufsichtsgesetzes
 genügen und auf Treuhandkonten unterhalten werden, sind gesondert
 auszuweisen.
 
-
 #### § 11 Forderungen an Kunden – Posten 3
 
 Als Forderungen an Kunden sind alle Arten von Vermögensgegenständen
@@ -217,7 +198,6 @@ festverzinsliche Wertpapiere“ handelt. § 5 bleibt unberührt. Als
 Forderungen an Kunden aus Zahlungsdiensten und aus der Ausgabe von
 E-Geld aus Krediten sind die gemäß § 2 Absatz 3 des
 Zahlungsdiensteaufsichtsgesetzes gewährten Kredite auszuweisen.
-
 
 #### § 12 Schuldverschreibungen und andere festverzinsliche Wertpapiere – Posten 5
 
@@ -262,10 +242,6 @@ ihre ursprüngliche Laufzeit ein Jahr nicht überschreitet.
 3.  Schuldverschreibungen, die einen anteiligen Anspruch auf Erlöse aus
     einem gepoolten Forderungsvermögen verbriefen.
 
-
-
-
-
 #### § 13 Aktien und andere nicht festverzinsliche Wertpapiere – Posten 6
 
 Als Aktien und andere nicht festverzinsliche Wertpapiere sind
@@ -283,10 +259,6 @@ auszuweisen:
 
 3.  vor Fälligkeit hereingenommene Gewinnanteilscheine.
 
-
-
-
-
 #### § 14 Beteiligungen – Posten 7
 
 Institute im Sinn des § 1 Absatz 2a des
@@ -294,7 +266,6 @@ Zahlungsdiensteaufsichtsgesetzes in der Rechtsform der eingetragenen
 Genossenschaft haben Geschäftsguthaben bei Genossenschaften unter dem
 Posten 7 „Beteiligungen“ auszuweisen. In diesem Fall ist die
 Postenbezeichnung entsprechend anzupassen.
-
 
 #### § 15 Sonstige Vermögensgegenstände – Posten 12
 
@@ -305,16 +276,13 @@ dem Vorbehalt des Eingangs gutgeschrieben worden sind. Hierzu zählen
 ferner nicht in Wertpapieren verbriefte Genussrechte, die nicht
 rückzahlbar sind.
 
-
 ### Unterabschnitt 2 - Posten der Passivseite
-
 
 #### § 16 Verbindlichkeiten gegenüber Kreditinstituten – Posten 1
 
 Als Verbindlichkeiten gegenüber Kreditinstituten sind alle Arten von
 Verbindlichkeiten gegenüber in- und ausländischen Kreditinstituten
 auszuweisen.
-
 
 #### § 17 Verbindlichkeiten gegenüber Kunden – Posten 2
 
@@ -324,14 +292,12 @@ auszuweisen. Verbindlichkeiten zur Ausführung von Zahlungsvorgängen
 sind gesondert auszuweisen, hierbei gesondert die Verbindlichkeiten
 auf Zahlungskonten.
 
-
 #### § 18 Rückstellungen – Posten 6
 
 Wird im Posten 6 c „andere Rückstellungen“ eine Rückstellung für einen
 drohenden Verlust aus einer unter dem Strich vermerkten
 Eventualverbindlichkeit oder einem Kreditrisiko gebildet, so ist der
 Posten unter dem Strich um den zurückgestellten Betrag zu kürzen.
-
 
 #### § 19 Eigenkapital – Posten 11
 
@@ -345,16 +311,13 @@ Posten einzubeziehen. Die genaue Bezeichnung im Einzelfall kann
 zusätzlich zu der Postenbezeichnung „gezeichnetes Kapital“ in das
 Bilanzformblatt eingetragen werden.
 
-
 #### § 20 Unwiderrufliche Kreditzusagen – Posten 1 unter dem Strich
 
 Als Unwiderrufliche Kreditzusagen sind alle unwiderruflichen
 Verpflichtungen, die Anlass zu einem Kreditrisiko geben können, zu
 vermerken.
 
-
 ## Abschnitt 4 - Vorschriften zu einzelnen Posten der Gewinn- und Verlustrechnung – Formblatt 2
-
 
 ### § 21 Zinserträge – Posten 1
 
@@ -383,10 +346,6 @@ insbesondere:
 
 5.  Gebühren und Provisionen mit Zinscharakter, die nach dem Zeitablauf
     oder nach der Höhe der Forderungen berechnet werden.
-
-
-
-
 
 ### § 22 Zinsaufwendungen – Posten 2
 
@@ -418,22 +377,16 @@ auszuweisen, insbesondere:
 6.  Gebühren und Provisionen mit Zinscharakter, die nach dem Zeitablauf
     oder nach der Höhe der Verbindlichkeiten berechnet werden.
 
-
-
-
-
 ### § 23 Provisionserträge – Posten 5
 
 Als Provisionserträge sind Provisionen und ähnliche Erträge aus
 Dienstleistungsgeschäften auszuweisen. Zu den Erträgen gehören auch
 Kontoführungsgebühren.
 
-
 ### § 24 Provisionsaufwendungen – Posten 6
 
 Als Provisionsaufwendungen sind Provisionen und ähnliche Aufwendungen
 aus Dienstleistungsgeschäften auszuweisen.
-
 
 ### § 25 Allgemeine Verwaltungsaufwendungen – Posten 8
 
@@ -503,14 +456,12 @@ Art auszuweisen, insbesondere:
 und Wertberichtigungen auf Forderungen und bestimmte Wertpapiere sowie
 Zuführungen zu Rückstellungen im Kreditgeschäft“ zu erfassen.
 
-
 ### § 26 Abschreibungen und Wertberichtigungen auf Forderungen und bestimmte Wertpapiere sowie Zuführungen zu Rückstellungen im Kreditgeschäft – Posten 11, Erträge aus Zuschreibungen zu Forderungen und bestimmten Wertpapieren sowie aus der Auflösung von Rückstellungen im Kreditgeschäft – Posten 12
 
 In diese Posten sind die in § 340f Absatz 3 des Handelsgesetzbuchs
 bezeichneten Aufwendungen und Erträge aufzunehmen. Die Posten dürfen
 verrechnet und in einem Aufwand- oder Ertragsposten ausgewiesen
 werden. Eine teilweise Verrechnung ist nicht zulässig.
-
 
 ### § 27 Abschreibungen und Wertberichtigungen auf Beteiligungen, Anteilen an verbundenen Unternehmen und wie Anlagevermögen behandelte Wertpapiere – Posten 13, Erträge aus Zuschreibungen zu Beteiligungen, Anteilen an verbundenen Unternehmen und wie Anlagevermögen behandelten Wertpapieren – Posten 14
 
@@ -519,9 +470,7 @@ bezeichneten Aufwendungen und Erträge aufzunehmen. Die Posten dürfen
 verrechnet und in einem Aufwands- oder Ertragsposten ausgewiesen
 werden. Eine teilweise Verrechnung ist nicht zulässig.
 
-
 ## Abschnitt 5 - Anhang
-
 
 ### § 28 Zusätzliche Erläuterungen
 
@@ -585,7 +534,6 @@ Handelsgesetzbuchs zu machen. Die Zuschreibungen, Abschreibungen und
 Wertberichtigungen auf Beteiligungen, Anteile an verbundenen
 Unternehmen sowie auf andere Wertpapiere, die wie Anlagevermögen
 behandelt werden, können mit anderen Posten zusammengefasst werden.
-
 
 ### § 29 Zusätzliche Pflichtangaben
 
@@ -709,7 +657,6 @@ Passivposten 8 sind im Anhang anzugeben:
 Zahlungsvorgänge (Stückzahl) als auch das Zahlungsvolumen (Betrag in
 Euro) anzugeben.
 
-
 ### § 30 Termingeschäfte
 
 In den Anhang ist eine Aufstellung über die Arten von am
@@ -748,18 +695,14 @@ anzugeben, ob ein wesentlicher Teil davon zur Deckung von Zins-,
 Wechselkurs- oder Marktpreisschwankungen abgeschlossen wurde und ob
 ein wesentlicher Teil davon auf Handelsgeschäfte entfällt.
 
-
 ## Abschnitt 6 - Konzernrechnungslegung
-
 
 ### § 31 Konzernrechnungslegung
 
 Auf den Konzernabschluss sind, soweit seine Eigenart keine Abweichung
 bedingt, die §§ 1 bis 30 entsprechend anzuwenden.
 
-
 ## Abschnitt 7 - Ordnungswidrigkeiten
-
 
 ### § 32 Ordnungswidrigkeiten
 
@@ -795,9 +738,7 @@ Jahresabschlusses
 (2) Die Bestimmungen des Absatzes 1 gelten auch für den
 Konzernabschluss im Sinn des § 31.
 
-
 ## Abschnitt 8 - Schlussvorschriften
-
 
 ### § 33 Erstmalige Anwendung
 
@@ -889,11 +830,9 @@ die nach dem 31. Dezember 2009, im Fall des Artikels 66 Absatz 3 Satz
 6 des Einführungsgesetzes zum Handelsgesetzbuch nach dem 31. Dezember
 2008 beginnen. Absatz 2 bleibt unberührt.
 
-
 ### § 34 Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 31. Oktober 2009 in Kraft.
-
 
 ### Anlage 1 (zu § 2) Formblatt 1
 
@@ -2270,8 +2209,6 @@ der .....................
     *   ……
 
     *
-
-
 
 ### Anlage 2 (zu § 2) Formblatt 2
 

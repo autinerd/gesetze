@@ -23,7 +23,6 @@ Fundstelle
     (ABl. L 311 vom 28.11.2001, S. 1), die zuletzt durch die Richtlinie
     2009/9/EG (ABl. L 44 vom 14.2.2009, S. 10) geändert worden ist.
 
-
 ## Eingangsformel
 
 Auf Grund des § 26 Absatz 1 des Arzneimittelgesetzes in der Fassung
@@ -32,7 +31,6 @@ das Bundesministerium für Gesundheit nach Anhörung von
 Sachverständigen im Einvernehmen mit dem Bundesministerium für Umwelt,
 Naturschutz und Reaktorsicherheit und dem Bundesministerium für
 Ernährung, Landwirtschaft und Verbraucherschutz:
-
 
 ## § 1
 
@@ -46,11 +44,9 @@ vom 6. November 2001 zur Schaffung eines Gemeinschaftskodexes für
 Tierarzneimittel (ABI. L 311 vom 28.11.2001, S. 1) in der jeweils
 geltenden Fassung geregelt sind.
 
-
 ## § 2
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Schlussformel
 

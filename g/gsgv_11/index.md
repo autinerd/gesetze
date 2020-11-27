@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 21 G v. 8.11.2011 I 2178
 
-
 ## § 1 Anwendungsbereich
 
 (1) Diese Verordnung gilt für die Bereitstellung auf dem Markt von
@@ -106,10 +105,6 @@ c)  erfahrungsgemäß auftretende nicht elektrische Gefahren ausgeschlossen
 d)  sichergestellt ist, daß vorhersehbare Überlastungszustände keine
     gefährlichen Situationen verursachen.
 
-
-
-
-
 ## § 2 Begriffsbestimmungen
 
 Im Sinne dieser Verordnung gelten die folgenden Begriffsbestimmungen:
@@ -161,10 +156,6 @@ Im Sinne dieser Verordnung gelten die folgenden Begriffsbestimmungen:
     entsprechend der Gerätegruppe und -kategorie und unter Beachtung aller
     Herstellerangaben, die für den sicheren Betrieb notwendig sind.
 
-
-
-
-
 ## § 3 Sicherheitsanforderungen
 
 Geräte, Schutzsysteme und Vorrichtungen im Sinne des § 1 Abs. 1 Nr. 2
@@ -174,7 +165,6 @@ der Richtlinie 94/9/EG entsprechen und bei ordnungsgemäßer
 Aufstellung, Instandhaltung und bestimmungsgemäßer Verwendung die
 Sicherheit und Gesundheit von Personen und die Sicherheit von
 Haustieren oder Gütern nicht gefährden.
-
 
 ## § 4 Voraussetzung für die Bereitstellung auf dem Markt
 
@@ -266,7 +256,6 @@ Rechtsvorschriften zugrunde liegenden Gemeinschaftsrichtlinien
 entsprechend ihrer Veröffentlichung im Amtsblatt der Europäischen
 Gemeinschaften aufgeführt sein.
 
-
 ## § 5 CE-Konformitätskennzeichnung
 
 (1) Die nach § 4 Abs. 1 Nr. 1 erforderliche CE-
@@ -293,7 +282,6 @@ sind und denen die EG-Konformitätserklärung nach Anhang X Buchstabe B
 der Richtlinie 94/9/EG beigefügt ist, die Anforderungen dieser
 Verordnung erfüllen.
 
-
 ## § 6 Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 39 Absatz 1 Nummer 7 Buchstabe a des
@@ -303,7 +291,6 @@ Verbindung mit Abs. 2 oder 3 Satz 1, entgegen § 4 Abs. 1 Nr. 2, auch
 in Verbindung mit Abs. 3 Satz 1, oder entgegen § 4 Abs. 3 Satz 2 oder
 3 ein Gerät, ein Schutzsystem, eine Vorrichtung oder eine Komponente
 auf dem Markt bereitstellt.
-
 
 ## § 7 (weggefallen)
 

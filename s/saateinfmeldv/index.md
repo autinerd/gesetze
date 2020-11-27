@@ -18,14 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 28.6.2005 I 1934
 
-
 ## Eingangsformel
 
 Auf Grund des § 28 Abs. 3 des Saatgutverkehrsgesetzes vom 20. Mai 1968
 (Bundesgesetzbl. I S. 444) in der Fassung der Bekanntmachung vom 23.
 Juni 1975 (Bundesgesetzbl. I S. 1453) wird im Einvernehmen mit dem
 Bundesminister der Finanzen mit Zustimmung des Bundesrates verordnet:
-
 
 ## § 1 Einfuhranzeige
 
@@ -49,7 +47,6 @@ Saatgutverkehrsgesetzes erfüllt sind. Dies gilt nicht für
 (2) Die Einfuhranzeige muß dem von der Bundesanstalt im Bundesanzeiger
 bekanntgemachten Muster entsprechen.
 
-
 ## § 2 Verfahren
 
 (1) Die Einfuhranzeige ist in dreifacher Ausfertigung einzureichen.
@@ -71,7 +68,6 @@ Bestätigungsvermerks hat der Einführer die mit dem Bestätigungsvermerk
 versehene Ausfertigung der Einfuhranzeige unverzüglich der
 Bundesanstalt zurückzugeben.
 
-
 ## § 3 Amtliche Bescheinigung
 
 Bei Saatgut, das sich nicht im freien Verkehr innerhalb des Gebiets
@@ -82,7 +78,6 @@ amtlichen Bescheinigung über die Erfüllung der nach den Vorschriften
 über die Gleichstellung von Anerkennungen oder Zulassungen von Saatgut
 vorgeschriebenen Anforderungen abhängig machen.
 
-
 ## § 4 Vorführung und Untersuchung
 
 Die Bundesanstalt kann den Bestätigungsvermerk mit der Auflage
@@ -91,11 +86,9 @@ Saatgutverkehrskontrolle am Einfuhrort zuständigen Stelle vorzuführen
 oder von einer für die Durchführung der Saatgutverkehrskontrolle
 zuständigen Stelle untersuchen zu lassen.
 
-
 ## § 5 Inkrafttreten
 
 Diese Verordnung tritt am 1. Juli 1975 in Kraft.
-
 
 ## Schlußformel
 

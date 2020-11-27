@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1483
 
-
 ## Eingangsformel
 
 Auf Grund des § 2 Absatz 2 Satz 1 der Abgabenordnung, der durch
@@ -26,7 +25,6 @@ Artikel 9 Nummer 2 Buchstabe b des Gesetzes vom 8. Dezember 2010
 16 Nummer 1 des Gesetzes vom 8. Dezember 2010 (BGBl. I S. 1768)
 angefügt worden ist, verordnet das Bundesministerium der Finanzen:
 
-
 ## § 1 Abkommen
 
 Als Abkommen im Sinn dieser Verordnung gilt das Abkommen zwischen der
@@ -35,7 +33,6 @@ Großbritannien und Nordirland zur Vermeidung der Doppelbesteuerung und
 zur Verhinderung der Steuerverkürzung auf dem Gebiet der Steuern vom
 Einkommen und vom Vermögen vom 30. März 2010 (BGBl. 2010 II S. 1333,
 1334) in der jeweils geltenden Fassung.
-
 
 ## § 2 Abfindungen an Arbeitnehmer
 
@@ -74,17 +71,14 @@ Aufteilung ist für die Besteuerung bindend.
 (4) Die Absätze 2 und 3 sind auf die in Artikel 18 Absatz 1 des
 Abkommens genannten Einkünfte nicht anzuwenden.
 
-
 ## § 3 Anwendungszeitpunkt
 
 Diese Verordnung ist erstmals auf Besteuerungssachverhalte seit dem
 29\. Dezember 2011 anzuwenden.
 
-
 ## § 4 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Schlussformel
 

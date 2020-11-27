@@ -22,7 +22,6 @@ Neugefaßt durch
 Zuletzt geändert durch
 :   Art. 1 V v. 10.12.1993 I 2171
 
-
 ## § 1 Freie Kost und Wohnung
 
 (1) Der Wert der freien Kost und Wohnung einschließlich Heizung und
@@ -145,7 +144,6 @@ aufzurunden. Bei Mahlzeiten nach § 40 Abs. 2 Nr. 1 des
 Einkommensteuergesetzes ist der Tageswert auf volle 10 Deutsche
 Pfennige aufzurunden.
 
-
 ## § 2 Verbilligte Kost und Wohnung
 
 Wird Kost und Wohnung verbilligt als Sachbezug zur Verfügung gestellt,
@@ -158,7 +156,6 @@ sich aus der Lage der Wohnung zum Betrieb ergebenden
 Beeinträchtigungen und für Heizung der Unterschiedsbetrag zwischen dem
 vereinbarten Preis und dem üblichen Endpreis am Abgabeort dem
 Arbeitsentgelt zuzurechnen; § 1 Abs. 5 Satz 2 bis 4 gilt entsprechend.
-
 
 ## § 3 Sonstige Sachbezüge
 
@@ -189,7 +186,6 @@ Gesamtsozialversicherungsbeitrags übernimmt. Die Sätze 1 bis 3 gelten
 entsprechend für Sachzuwendungen im Werte von nicht mehr als 150 DM,
 die der Arbeitnehmer für Verbesserungsvorschläge sowie für Leistungen
 in der Unfallverhütung und im Arbeitsschutz erhält.
-
 
 ## § 4 Übergangsvorschrift
 
@@ -224,14 +220,9 @@ bezeichneten Gebiet mit folgenden Maßgaben anzuwenden:
 *    *   für freie Kost die Werte, die sich aus § 1 Abs. 2 in Verbindung mit §
         1 Abs. 1 ergeben.
 
-
-
-
-
 ## § 5
 
 -
-
 
 ## § 6 Inkrafttreten
 

@@ -26,7 +26,6 @@ Informationsgesellschaft (ABl. EG Nr. L 204 S. 37), geändert durch die
 Richtlinie 98/48/EG des Europäischen Parlaments und des Rates vom 20.
 Juli 1998 (ABl. EG Nr. L 217 S. 18), sind beachtet worden.
 
-
 ## Eingangsformel
 
 Auf Grund der §§ 14 und 15 des Beschussgesetzes vom 11. Oktober 2002
@@ -41,10 +40,7 @@ Innern, soweit Schussapparate betroffen sind, im Einvernehmen mit dem
 Bundesministerium für Arbeit und Soziales und in Bezug auf § 36 Abs. 5
 des Waffengesetzes nach Anhörung der beteiligten Kreise:
 
-
 ## Abschnitt 1 - Beschussprüfung von Schusswaffen und Böllern
-
-
 
 ### § 1 Prüfverfahren
 
@@ -93,7 +89,6 @@ Nr. 1 und 2 vorzunehmen.
 (5) Bei der Nachprüfung sind die Prüfgegenstände erneut auf
 Funktionssicherheit, Maßhaltigkeit und Mängel in der Haltbarkeit zu
 prüfen sowie einer Sichtprüfung nach Absatz 3 Satz 2 zu unterziehen.
-
 
 ### § 2 Prüfung von Schwarzpulverwaffen und Böllern
 
@@ -171,10 +166,6 @@ Beschussbescheinigung über die Prüfung aufzunehmen:
     Zulässig sind Kork und sehr leichte, weiche und nicht brennbare
     Materialien.
 
-
-
-
-
 ### § 3 Mindestzustand des Prüfgegenstandes
 
 (1) Die Beschussprüfung ist an gebrauchsfertigen Prüfgegenständen
@@ -212,10 +203,6 @@ Munition nicht in den Maßtafeln aufgeführt ist. Dies gilt nicht, wenn
     Prüfung auf Grund der vom Antragsteller gelieferten Waffen- und
     Munitionsdaten vorgenommen werden.
 
-
-
-
-
 ### § 4 Zurückweisung vom Beschuss
 
 Die Prüfgegenstände sind zurückzuweisen und dem Antragsteller nach
@@ -231,10 +218,6 @@ zurückzugeben, wenn
 
 3.  bei der Nachprüfung gemäß § 1 Abs. 5 unter Berücksichtigung von Anlage
     I Nr. 1.3 Mängel festgestellt werden.
-
-
-
-
 
 ### § 5 Instandsetzungsbeschuss
 
@@ -267,7 +250,6 @@ Beschussgasdruck beschossen worden sind.
 Anlage I Nr. 1.1 oder 1.3 angeführten Mängel, ist § 4 entsprechend
 anzuwenden.
 
-
 ### § 6 Wiederholungsbeschuss und freiwillige Beschussprüfung
 
 (1) Böller sind vor Ablauf von fünf Jahren einer Wiederholungsprüfung
@@ -291,10 +273,7 @@ Beschussprüfung bestanden, so sind die Prüfzeichen nach § 9 Abs. 1 bis
 Beschussprüfung endgültig nicht bestanden, so ist auf ihnen das in § 9
 Abs. 5 bezeichnete Rückgabezeichen anzubringen.
 
-
 ## Abschnitt 2 - Verfahren der Beschussprüfung
-
-
 
 ### § 7 Antragsverfahren
 
@@ -371,7 +350,6 @@ Rückgabezeichen versehen worden sind, können nur bei derselben Behörde
 erneut zur Beschussprüfung vorgelegt werden, es sei denn, dass diese
 der Vorlage bei einer anderen Behörde zustimmt.
 
-
 ### § 8 Überlassung von Prüfhilfsmitteln
 
 (1) Wird in Feuerwaffen und sonstigen Prüfgegenständen Munition oder
@@ -399,7 +377,6 @@ Hilfsmittel verlangen.
 zuständigen Behörde eine Bescheinigung der Physikalisch-Technischen
 Bundesanstalt darüber vorzulegen, dass das Gerät den technischen
 Anforderungen nach Anlage I Nr. 2.3.2 bis 2.3.5 entspricht.
-
 
 ### § 9 Aufbringen der Prüfzeichen
 
@@ -443,7 +420,6 @@ Jahreszeichen zu versehen.
 Jahreszeichen; vorhandene Prüfzeichen sind durch ein "X" auf oder
 neben dem Prüfzeichen zu entwerten. Sind höchstbeanspruchte Teile
 unbrauchbar, so sind sie ebenfalls mit einem "X" zu kennzeichnen.
-
 
 ### § 10 Bescheinigung über das Beschussverfahren
 
@@ -489,10 +465,7 @@ auszustellen,
 unbrauchbar gekennzeichnet worden, so stellt die zuständige Behörde
 auf Antrag eine Bescheinigung im Sinne des Absatzes 3 aus.
 
-
 ## Abschnitt 3 - Bauartzulassung und Zulassung für besondere Schusswaffen und besondere Munition
-
-
 
 ### § 11 Bauartzulassung für besondere Schusswaffen, pyrotechnische Munition und Schussapparate
 
@@ -567,14 +540,12 @@ Beschussamt auf Antrag mit diesem Kennzeichen versehen werden. Dabei
 müssen die Beschussämter das Ortszeichen nach Anlage II Abbildung 3
 zusätzlich auf der Schusswaffe anbringen.
 
-
 ### § 12 Modellbezeichnung bei Bauartzulassungen
 
 Die der Zulassung unterliegenden Gegenstände dürfen keine
 Modellbezeichnung haben, die zur Irreführung geeignet ist oder eine
 Verwechslung mit Waffen oder Munition anderer Beschaffenheit
 hervorrufen kann. Die Vorschriften des Markenrechts bleiben unberührt.
-
 
 ### § 13 Inverkehrbringen von Schussapparaten aus Staaten, mit denen die gegenseitige Anerkennung der Prüfzeichen vereinbart ist
 
@@ -587,7 +558,6 @@ Verkehr bringen. Der Physikalisch-Technischen Bundesanstalt ist zur
 Prüfung der Betriebsanleitung auch ein zugelassener, serienmäßig
 gefertigter Schussapparat zur Verfügung zu stellen. § 18 Abs. 2 Nr. 4
 und Abs. 4 gilt entsprechend.
-
 
 ### § 14 Beschaffenheit pyrotechnischer Munition
 
@@ -629,7 +599,6 @@ oder eines anerkannten Sachverständigen davon zu überzeugen, dass bei
 den Ausgangsstoffen die Voraussetzungen nach Absatz 1 vorliegen. Die
 Nachweise über die Prüfung sind drei Jahre lang aufzubewahren.
 
-
 ### § 15 Anforderungen an Reizstoffgeschosse, Reizstoffsprühgeräte und Reizstoffe sowie an Elektroimpulsgeräte
 
 (1) Kartuschenmunition mit Reizstoffen und Geräte, aus denen zu
@@ -663,7 +632,6 @@ dürfen keine Elektroimpulsgeräte überlassen werden. Die Physikalisch-
 Technische Bundesanstalt kann mit der Durchführung von Teilen der
 Prüfung auf Kosten des Antragstellers andere Fachinstitute
 beauftragen.
-
 
 ### § 16 Kennzeichnung der Verpackung von Reizstoffgeschossen und Reizstoffsprühgeräten
 
@@ -723,7 +691,6 @@ anzubringen:
 jedem Sprühgerät nach Absatz 2 ist eine Gebrauchsanweisung beizufügen,
 in der die Methoden sachgerechter Anwendung und die Gefahren einer
 missbräuchlichen Benutzung zu beschreiben sind.
-
 
 ### § 17 Abweichungen vom Kennzeichnungsgrundsatz bei besonderen Munitionsarten
 
@@ -803,10 +770,7 @@ Herstellerkennzeichens auf einem dieser Teile. Die kleinste
 Verpackungseinheit der Bolzen ist nach § 24 Abs. 3 des Waffengesetzes
 sowie außerdem mit der Typenbezeichnung zu kennzeichnen.
 
-
 ## Abschnitt 4 - Verfahren bei der Bauartzulassung
-
-
 
 ### § 18 Antragsverfahren
 
@@ -914,7 +878,6 @@ Berufsgenossenschaftlichen Zentrale für Sicherheit und Gesundheit der
 Deutschen Gesetzlichen Unfallversicherung e. V. Prüfungen am
 Betriebsort vornehmen.
 
-
 ### § 19 Zuständigkeit und Zulassungsbescheid
 
 (1) Über Anträge nach den §§ 7, 8 und 9 Abs. 2 und 4 des Gesetzes
@@ -972,7 +935,6 @@ auch für andere nicht tragbare Geräte, in denen zum Antrieb in Hülsen
 untergebrachte Treibladungen verwendet werden und die für technische
 Zwecke bestimmt sind.
 
-
 ### § 20 Zulassungszeichen
 
 (1) Die Zulassungsbehörde hat dem Zulassungsinhaber die Verwendung
@@ -993,7 +955,6 @@ Soweit sich das Zulassungszeichen auf der pyrotechnischen Munition
 wegen deren geringen Größe oder aus sonstigen technischen Gründen
 nicht anbringen lässt, genügt die Anbringung auf der kleinsten
 Verpackungseinheit.
-
 
 ### § 21 Bekanntmachungen
 
@@ -1042,13 +1003,7 @@ Handfeuerwaffen Mitteilung zu machen über
     Schussapparaten nach den §§ 7 und 8 des Gesetzes. Die Mitteilung über
     die Erteilung besteht aus einer Kopie des Zulassungsbescheides.
 
-
-
-
-
 ## Abschnitt 5 - Periodische Fabrikationskontrolle, Einzelfallprüfung, Wiederholungsprüfung
-
-
 
 ### § 22 Periodische Fabrikationskontrollen für Schussapparate und Einsteckläufe
 
@@ -1062,7 +1017,6 @@ fünf Prüfgegenstände nach Satz 1 spätestens zwei Jahre nach der
 Zulassung und dann im Abstand von zwei Jahren aus der laufenden
 Produktion oder, wenn dies nicht möglich ist, aus dem Lagerbestand
 vorzulegen.
-
 
 ### § 23 Überprüfung im Einzelfall
 
@@ -1083,7 +1037,6 @@ unterrichtet sie diese Behörde. Die Physikalisch-Technische
 Bundesanstalt kann den weiteren Vertrieb untersagen, wenn diese
 Gegenstände Gefahren für Leben und Gesundheit des Benutzers oder
 Dritter hervorrufen.
-
 
 ### § 24 Wiederholungsprüfung betriebener Schussapparate
 
@@ -1119,7 +1072,6 @@ die ein anerkanntes Prüfzeichen tragen, gilt als Beauftragter des
 Herstellers der Verbringer, der im Geltungsbereich des Gesetzes eine
 Niederlassung besitzt.
 
-
 ### § 25 Prüfzeichen bei Wiederholungsprüfungen
 
 (1) Hat die Prüfung eines Gerätes nach § 24 Abs. 1 keine
@@ -1139,10 +1091,7 @@ auszustellen, aus der das Ergebnis und das Datum der Prüfung, die
 prüfende Stelle und der Name des mit der Prüfung Beauftragten
 hervorgehen.
 
-
 ## Abschnitt 6 - Festlegung der Maße und Energiewerte für Feuerwaffen (Maßtafeln), Einsteck- und Austauschläufe sowie für Munition
-
-
 
 ### § 26 Zulässige und nicht zulässige Munition
 
@@ -1192,10 +1141,6 @@ Maßtafeln festgelegten Maße nur für die Hülse.
     vollständig aus hartem Material - Brinellhärte größer als 25 HB
     5/62,5/30 - bestehen.
 
-
-
-
-
 ### § 27 Abweichungen von den Maßtafeln
 
 (1) Anstelle der in den Maßtafeln für Munition festgelegten
@@ -1244,10 +1189,7 @@ abweichen und dass diese Gegenstände zu Versuchs- oder
 Erprobungszwecken bestimmt sind. Aus der Bescheinigung müssen die
 Abweichungen von den Maßen nach Anlage I Nr. 1.1.3 hervorgehen.
 
-
 ## Abschnitt 7 - Zulassung von Munition
-
-
 
 ### § 28 Begriffsbestimmungen
 
@@ -1267,10 +1209,6 @@ zugelassene Bezeichnung nach § 27 Abs. 1 Satz 1.
     demselben Verbringer in einer Lieferung in den Geltungsbereich des
     Gesetzes verbracht werden soll, wenn sie die Merkmale nach Nummer 1
     aufweist.
-
-
-
-
 
 ### § 29 Zulassung und Prüfung von Patronen- und Kartuschenmunition
 
@@ -1299,10 +1237,6 @@ Die Zulassungsprüfung nach § 11 des Gesetzes umfasst die Prüfung
 
 
 7.  der Funktionssicherheit.
-
-
-
-
 
 ### § 30 Antragsverfahren
 
@@ -1353,7 +1287,6 @@ in den Maßtafeln aufgeführt ist.
 (3) Die Zulassungsbehörde kann vom Antragsteller die Vorlage von 3.000
 Stück Patronen oder Kartuschen zur wahllosen Probennahme verlangen.
 
-
 ### § 31 Prüfmethoden
 
 (1) Prüfungen nach § 29 Nr. 4, 5 und 6 und die der statistischen
@@ -1385,7 +1318,6 @@ Kommission für die Prüfung der Handfeuerwaffen gleichzeitig mit der
 Typenzulassung (§ 36) den für die Munition zulässigen Höchstwert des
 Gasdruckes, den gemessenen mittleren höchsten Gasdruck und die
 zugelassenen Maße zu übermitteln.
-
 
 ### § 32 Form der Zulassung
 
@@ -1419,10 +1351,6 @@ Geltungsbereich des Gesetzes eine gewerbliche Niederlassung hat.
 
 6.  die Berechtigung zur Durchführung der Fabrikationskontrolle mit Angabe
     der Prüfstätte.
-
-
-
-
 
 ### § 33 Fabrikationskontrolle
 
@@ -1477,7 +1405,6 @@ Aufzeichnungen nach Absatz 2 oder Absatz 4 auf Verlangen vorzulegen.
 (6) Die Aufzeichnungen sind bis zur übernächsten behördlichen
 Kontrolle, mindestens jedoch fünf Jahre aufzubewahren.
 
-
 ### § 34 Behördliche Kontrollen
 
 (1) Der Zulassungsinhaber hat mindestens alle drei Jahre die
@@ -1508,7 +1435,6 @@ Munition oder die Messgeräte den Vorschriften der Maßtafeln oder der
 Anlage III oder der Zulassung nicht entsprechen, setzt die zuständige
 Behörde eine angemessene Frist zur Beseitigung der Mängel.
 
-
 ### § 35 Überprüfung im Einzelfall
 
 (1) Rechtfertigen Tatsachen die Annahme, dass Munition, deren Typ von
@@ -1526,7 +1452,6 @@ unterrichtet sie diese Behörde. Die zuständige Behörde kann den
 weiteren Vertrieb untersagen, wenn die Munition Gefahren für Leben und
 Gesundheit des Benutzers oder Dritter hervorruft. Sie trifft die
 erforderlichen Sicherheitsmaßnahmen.
-
 
 ### § 36 Bekanntmachung
 
@@ -1546,10 +1471,6 @@ Handfeuerwaffen Mitteilung zu machen über
 
 
 3.  Anordnungen nach § 35 Abs. 2.
-
-
-
-
 
 ### § 37 Ausnahmen
 
@@ -1581,10 +1502,7 @@ Anlage II Abbildung 4 nur nach bestandener Zulassungsprüfung tragen.
 (2) Patronen- und Kartuschenmunition nach Absatz 1 Satz 1 Nr. 3 und 4
 muss den Anforderungen nach § 29 entsprechen.
 
-
 ## Abschnitt 8 - Verpackung, Kennzeichnung und Lagerung von Munition
-
-
 
 ### § 38 Verpackung von Munition
 
@@ -1605,7 +1523,6 @@ sein.
 (3) Treibladungen nach Anlage 1 Abschnitt 1 Unterabschnitt 3 Nr. 2 des
 Waffengesetzes für Schussapparate sind in magazinierter Form zu
 verpacken.
-
 
 ### § 39 Kennzeichnung der Verpackungen und Munition
 
@@ -1705,7 +1622,6 @@ Geschossspitze durch rote Farbe.
 (5) Die Kennzeichnungs- und Verpackungsvorschriften über die
 Beförderung gefährlicher Güter bleiben unberührt.
 
-
 ### § 40 Lagerung von Munition
 
 (1) Wer gewerbsmäßig Munition oder Geschosse mit Reizstoffen vertreibt
@@ -1718,10 +1634,7 @@ Treibladung und pyrotechnischem Satz, von mehr als 20 Gramm, darf in
 der kleinsten Verpackungseinheit im Verkaufsraum nur in einem Muster
 verwahrt werden.
 
-
 ## Abschnitt 9 - Beschussrat
-
-
 
 ### § 41 Beschussrat
 
@@ -1790,10 +1703,7 @@ Sachverständige hinzuziehen.
 (5) Die Mitglieder des Beschussrates üben ihre Tätigkeit ehrenamtlich
 aus.
 
-
 ## Abschnitt 10 - Ordnungswidrigkeiten und Schlussvorschriften
-
-
 
 ### § 42 Ordnungswidrigkeiten
 
@@ -1835,19 +1745,13 @@ Gesetzes handelt, wer vorsätzlich oder fahrlässig
 3.  entgegen § 33 Abs. 6 eine Aufzeichnung nicht oder nicht mindestens
     fünf Jahre aufbewahrt.
 
-
-
-
-
 ### § 43 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
 ### Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ### Anlage I Technische Anforderungen an und Prüfvorschriften für Feuerwaffen und sonstige Gegenstände, die der Beschussprüfung nach § 5 des Gesetzes unterliegen, und technische Anforderungen an Prüfgegenstände nach den §§ 7 bis 10 des Gesetzes
 
@@ -4580,10 +4484,6 @@ Handfeuerwaffen und Munition verwiesen (Bundesanzeiger Nummer 38a vom
 6.3.6 Die Festlegungen der Nr. 6.3.1 bis 6.3.5 sind sinngemäß auch auf aus
     Schusswaffen hergestellte Gegenstände anzuwenden.
 
-
-
-
-
 ### Anlage II Beschusszeichen, Prüfzeichen
 
 ( Fundstelle: BGBl. I 2006, 1500 - 1503; bzgl. der einzelnen
@@ -4821,8 +4721,6 @@ Handfeuerwaffen und Munition verwiesen (Bundesanzeiger Nummer 38a vom
 
 
 *    *
-
-
 
 ### Anlage III Prüfvorschriften für Patronen- und Kartuschenmunition
 
@@ -7114,7 +7012,6 @@ Abbildung 5a, 5b
 ... (nicht darstellbare Abbildungen von Prüfgeräten und Flugbolzen für
 Kartuschenmunition für Schussapparate, BGBl. I 2006, 1521 u. 1522)
 
-
 ### Anlage IV Anforderungen an Reizstoffgeschosse, Reizstoffsprühgeräte und die dafür verwendeten Reizstoffe
 
 ( Fundstelle: BGBl. I 2006, 1523 )
@@ -7226,13 +7123,6 @@ Kartuschenmunition für Schussapparate, BGBl. I 2006, 1521 u. 1522)
 
     2.  Ortho-Chlorbenzalmalondinitril (CS).
 
-
-
-
-
-
-
-
 ### Anlage V Grenzwerte für Elektroimpulsgeräte nach § 15 Abs. 5
 
 ( Fundstelle: BGBl. I 2006, 1524 - 1526;
@@ -7318,10 +7208,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote )
     Die Geräte sollen sich nach der genannten Dauer der Entladezeit
     selbsttätig abschalten. Eine erneute Auslösung des Elektroimpulses vor
     Ablauf von 2 s nach der Abschaltung soll nicht möglich sein.
-
-
-
-
 
 ### Anlage VI Ermittlung der Bewegungsenergie der Geschosse
 

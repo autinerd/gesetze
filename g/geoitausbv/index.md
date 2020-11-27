@@ -22,7 +22,6 @@ Fundstelle
     Berufsschule werden demnächst als Beilage im Bundesanzeiger
     veröffentlicht.
 
-
 ## Eingangsformel
 
 Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des
@@ -32,9 +31,7 @@ geändert worden ist, verordnen das Bundesministerium für Wirtschaft
 und Technologie und das Bundesministerium des Innern im Einvernehmen
 mit dem Bundesministerium für Bildung und Forschung:
 
-
 ## Teil 1 - Gemeinsame Vorschriften
-
 
 ### § 1 Staatliche Anerkennung der Ausbildungsberufe
 
@@ -52,11 +49,9 @@ anerkannt. Soweit die Ausbildung im Bereich des öffentlichen Dienstes
 stattfindet, sind sie Ausbildungsberufe des öffentlichen Dienstes. Im
 Übrigen sind sie Ausbildungsberufe der gewerblichen Wirtschaft.
 
-
 ### § 2 Dauer der Berufsausbildung
 
 Die Ausbildungen dauern jeweils drei Jahre.
-
 
 ### § 3 Struktur der Berufsausbildung
 
@@ -77,15 +72,7 @@ Die Ausbildungen gliedern sich wie folgt:
 
     b)  Bergvermessung.
 
-
-
-
-
-
-
-
 ## Teil 2 - Vorschriften für den Ausbildungsberuf zum Geomatiker/zur Geomatikerin
-
 
 ### § 4 Ausbildungsrahmenplan, Ausbildungsberufsbild
 
@@ -182,10 +169,6 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten nach § 3 Nummer
 
 6.  Qualitätsmanagement und Kundenorientierung.
 
-
-
-
-
 ### § 5 Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
@@ -205,7 +188,6 @@ zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
 Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
 Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
 durchzusehen.
-
 
 ### § 6 Zwischenprüfung
 
@@ -246,10 +228,6 @@ Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 
 3.  die Prüfungszeit beträgt 120 Minuten.
-
-
-
-
 
 ### § 7 Abschlussprüfung
 
@@ -455,10 +433,6 @@ folgende Vorgaben:
 
 3.  die Prüfungszeit beträgt 60 Minuten.
 
-
-
-
-
 ### § 8 Gewichtungs- und Bestehensregelungen
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
@@ -521,9 +495,7 @@ kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich
 sind das bisherige Ergebnis und das Ergebnis der mündlichen
 Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
-
 ## Teil 3 - Vorschriften für den Ausbildungsberuf zum Vermessungstechniker/ zur Vermessungstechnikerin
-
 
 ### § 9 Ausbildungsrahmenplan, Ausbildungsberufsbild
 
@@ -639,10 +611,6 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten nach § 3 Nummer
 
 6.  Qualitätsmanagement und Kundenorientierung.
 
-
-
-
-
 ### § 10 Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
@@ -662,7 +630,6 @@ zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
 Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
 Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
 durchzusehen.
-
 
 ### § 11 Zwischenprüfung
 
@@ -703,10 +670,6 @@ Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 
 3.  die Prüfungszeit beträgt 120 Minuten.
-
-
-
-
 
 ### § 12 Abschlussprüfung in der Fachrichtung Vermessung
 
@@ -857,10 +820,6 @@ folgende Vorgaben:
 
 3.  die Prüfungszeit beträgt 60 Minuten.
 
-
-
-
-
 ### § 13 Gewichtungs- und Bestehensregelungen in der Fachrichtung Vermessung
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
@@ -916,7 +875,6 @@ ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben
 kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich
 sind das bisherige Ergebnis und das Ergebnis der mündlichen
 Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
-
 
 ### § 14 Abschlussprüfung in der Fachrichtung Bergvermessung
 
@@ -1066,10 +1024,6 @@ folgende Vorgaben:
 
 3.  die Prüfungszeit beträgt 60 Minuten.
 
-
-
-
-
 ### § 15 Gewichtungs- und Bestehensregelungen in der Fachrichtung Bergvermessung
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
@@ -1126,9 +1080,7 @@ kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich
 sind das bisherige Ergebnis und das Ergebnis der mündlichen
 Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
-
 ## Teil 4 - Schlussvorschriften
-
 
 ### § 16 Bestehende Berufsausbildungsverhältnisse
 
@@ -1140,7 +1092,6 @@ unter Anrechnung der bisher zurückgelegten Ausbildungszeit nach den
 Vorschriften dieser Verordnung fortgesetzt werden, wenn die
 Vertragsparteien dies vereinbaren.
 
-
 ### § 17 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2010 in Kraft. Gleichzeitig treten
@@ -1151,11 +1102,9 @@ Vermessungstechnikerin vom 17. Dezember 1994 (BGBl. I S. 3889) und die
 Bergvermessungstechniker-Ausbildungsverordnung vom 28. Januar 1993
 (BGBl. I S. 137) außer Kraft.
 
-
 ### Anlage 1 (zu § 4 Absatz 1 Satz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Geomatiker/zur Geomatikerin
 
 (Fundstelle: BGBl. I 2010, 701 - 706)
-
 
 ## **Abschnitt A: Gemeinsame berufsprofilgebende Fertigkeiten,
 Kenntnisse und Fähigkeiten**
@@ -1711,9 +1660,6 @@ und Fähigkeiten**
     *
     *   4
 
-
-
-
 ## **Abschnitt C: Integrative Fertigkeiten, Kenntnisse und
 Fähigkeiten**
 
@@ -1924,13 +1870,9 @@ Fähigkeiten**
     *
     *   4
 
-
-
-
 ### Anlage 2 (zu § 9 Absatz 1 Satz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Vermessungstechniker/zur Vermessungstechnikerin
 
 (Fundstelle: BGBl. I 2010, 707 - 712)
-
 
 ## **Abschnitt A: Gemeinsame berufsprofilgebende Fertigkeiten,
 Kenntnisse und Fähigkeiten**
@@ -2306,9 +2248,6 @@ und Fähigkeiten**
     *
     *   12
 
-
-
-
 ## **Abschnitt C: Weitere berufsprofilgebende Fertigkeiten, Kenntnisse
 und Fähigkeiten in der Fachrichtung Vermessung**
 
@@ -2413,9 +2352,6 @@ und Fähigkeiten in der Fachrichtung Vermessung**
 
 
     *   15
-
-
-
 
 ## Abschnitt D: Weitere berufsprofilgebende Fertigkeiten, Kenntnisse
 und Fähigkeiten in der Fachrichtung         Bergvermessung
@@ -2542,9 +2478,6 @@ und Fähigkeiten in der Fachrichtung         Bergvermessung
 
 
     *   22
-
-
-
 
 ## **Abschnitt E: Integrative Fertigkeiten, Kenntnisse und
 Fähigkeiten**

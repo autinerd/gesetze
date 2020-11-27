@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   GBl DDR I: 1990, 503
 
-
-
 ## § 1
 
 Zur Entscheidung über die Realisierung der Umstellung von Guthaben
@@ -25,14 +23,12 @@ Verfahren angeordnet werden. Dazu wird mit sofortiger Wirkung ein aus
 21 Abgeordneten der Volkskammer bestehender zeitweiliger
 Sonderausschuß gebildet.
 
-
 ## § 2
 
 Natürliche Personen und juristische Personen mit Wohnsitz oder Sitz
 der Niederlassung in der DDR oder außerhalb der DDR haben auf
 Verlangen die Rechtmäßigkeit des Erwerbs des zur Umstellung
 angemeldeten Guthabens (nachfolgend Gesamtguthaben) nachzuweisen.
-
 
 ## § 3
 
@@ -49,7 +45,6 @@ mitzuteilen, daß bis zu einer endgültigen Entscheidung der den
 bevorzugten Umtausch übersteigende Betrag zu sperren und damit eine
 Verfügung über diesen Betrag auszuschließen ist.
 
-
 ## § 4
 
 (1) Der Kontoinhaber ist verpflichtet, innerhalb einer Frist von 10
@@ -58,7 +53,6 @@ Gesamtguthabens nachzuweisen.
 
 (2) Die Unterlagen sind bei dem zeitweiligen Sonderausschuß
 einzureichen.
-
 
 ## § 5
 
@@ -103,7 +97,6 @@ Staates eingezogen wird.
 (6) Die Einziehung ist dem Kontoinhaber durch schriftlichen Bescheid
 des kontoführenden Kreditinstituts mitzuteilen.
 
-
 ## § 6
 
 (1) Gegen die Entscheidung des zeitweiligen Sonderausschusses hat der
@@ -119,17 +112,14 @@ stattgegeben, ist sie dem Präsidium der Volkskammer zur endgültigen
 Entscheidung unverzüglich zuzuleiten. Das Präsidium der Volkskammer
 entscheidet innerhalb von 4 Wochen.
 
-
 ## § 7
 
 Dieses Gesetz tritt am 29. Juni 1990 in Kraft.
-
 
 ## Schlußformel
 
 **Die Präsidentin der Volkskammer der Deutschen Demokratischen
 Republik**
-
 
 ## Anhang EV Auszug aus EinigVtrVbg Art 3 (BGBl. II 1990, 1239)
 

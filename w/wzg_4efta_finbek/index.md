@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1994, 3013
 
-
-
 ## I.
 
 Auf Grund des § 4 Abs. 2 Nr. 3a des Warenzeichengesetzes in der
@@ -30,24 +28,20 @@ bekanntgemacht, daß das Kennzeichen
 
 von der Eintragung als Warenzeichen ausgeschlossen ist.
 
-
 ## II.
 
 Auf Grund des § 4 Abs. 2 Nr. 3 desselben Gesetzes wird ein amtliches
 Prüf- und Gewährzeichen für die Sicherheit elektrischer Geräte
 bekanntgemacht, das in Finnland eingeführt ist (Anlage 2).
 
-
 ## III.
 
 Diese Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom 5.
 April 1994 (BGBl. I S. 849).
 
-
 ## Schlußformel
 
 Bundesministerium der Justiz
-
 
 ## Anlage 1
 
@@ -56,7 +50,6 @@ EFTA
 
 (Inhalt: Nicht darstellbares Kennzeichen,
 Fundstelle: BGBl. I 1994, 3014)
-
 
 ## Anlage 2
 

@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BAnz: 1960, Nr 167
 
-
-
 ## (XXXX)
 
 Auf Grund des § 155 Abs. 1 Satz 2 des Bundesbeamtengesetzes (BBG) vom

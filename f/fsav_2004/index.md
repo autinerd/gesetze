@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 3093
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 32 Abs. 4 Satz 1 Nr. 2 des Luftverkehrsgesetzes in der
@@ -25,14 +23,12 @@ durch Artikel 285 Nr. 7 Buchstabe c der Verordnung vom 29. Oktober
 2001 (BGBl. I S. 2785) zuletzt geändert wurde, verordnet das
 Bundesministerium für Verkehr, Bau- und Wohnungswesen:
 
-
 ## § 1 Geltungsbereich
 
 Luftfahrzeuge, die im deutschen Luftraum betrieben werden, müssen mit
 der für die sichere Durchführung der Flugsicherungsverfahren
 notwendigen Flugsicherungsausrüstung nach den Vorschriften dieser
 Verordnung ausgerüstet sein.
-
 
 ## § 2 Beschaffenheit und Betriebstüchtigkeit der Flugsicherungsausrüstung
 
@@ -62,7 +58,6 @@ nach den Vorschriften dieser Verordnung nicht gefordert sind, durch
 das Bundesministerium für Verkehr, Bau- und Wohnungswesen oder eine
 andere von ihm bestimmte Stelle für Flüge im deutschen Luftraum
 untersagt werden.
-
 
 ## § 3 Flugsicherungsausrüstung für Flüge nach Instrumentenflugregeln
 
@@ -175,7 +170,6 @@ Die Luftfahrzeuge müssen als Luftfahrzeuggruppe (group aircraft) oder
 als einzelnes Luftfahrzeug (non-group aircraft) hierfür zugelassen
 sein.
 
-
 ## § 4 Flugsicherungsausrüstung für Flüge nach Sichtflugregeln
 
 (1) Für Flüge nach Sichtflugregeln müssen Flugzeuge, Drehflügler,
@@ -267,7 +261,6 @@ Sichtweite eines für den Nachtflugbetrieb genehmigten und befeuerten
 Flugplatzes ist alternativ ein automatisches Funkpeilgerät (ADF)
 ausreichend.
 
-
 ## § 5 Pflichten des Führers, Eigentümers und Halters eines Luftfahrzeugs
 
 (1) Ein Flug darf nicht durchgeführt werden, wenn eine nach § 3 Abs. 1
@@ -294,7 +287,6 @@ der Luftverkehrs-Ordnung bleibt unberührt.
 eines Fluges nicht zulassen, wenn die vorgeschriebene
 Flugsicherungsausrüstung nicht vorhanden ist.
 
-
 ## § 6 Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 58 Abs. 1 Nr. 10 des
@@ -306,10 +298,6 @@ Luftverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 2.  als Eigentümer oder Halter eines Luftfahrzeugs entgegen § 5 Abs. 3 die
     Durchführung eines Fluges zulässt.
-
-
-
-
 
 ## § 7 Inkrafttreten, Außerkrafttreten
 

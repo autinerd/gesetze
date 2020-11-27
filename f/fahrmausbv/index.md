@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 993
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
@@ -30,7 +28,6 @@ geändert worden ist, verordnet das Bundesministerium für Wirtschaft
 und Arbeit im Einvernehmen mit dem Bundesministerium für Bildung und
 Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Fahrradmonteur/Fahrradmonteurin wird
@@ -40,10 +37,6 @@ Der Ausbildungsberuf Fahrradmonteur/Fahrradmonteurin wird
 
 
 2.  gemäß § 25 des Berufsbildungsgesetzes staatlich anerkannt.
-
-
-
-
 
 ## § 2 Ausbildungsdauer
 
@@ -55,7 +48,6 @@ einer Verordnung gemäß § 27a Abs. 1 der Handwerksordnung oder nach §
 29 Abs. 1 des Berufsbildungsgesetzes als erstes Jahr der
 Berufsausbildung anzurechnen ist, beginnen die betriebliche Ausbildung
 im zweiten Ausbildungsjahr.
-
 
 ## § 3 Zielsetzung der Berufsausbildung
 
@@ -69,7 +61,6 @@ betrieblichen Gesamtzusammenhang einschließt. Die in Satz 2
 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 9 und 10
 nachzuweisen.
 
-
 ## § 4 Berufsfeldbreite Grundbildung
 
 Die Ausbildung im ersten Ausbildungsjahr vermittelt eine
@@ -77,7 +68,6 @@ berufsfeldbreite Grundbildung, wenn die betriebliche Ausbildung nach
 dieser Verordnung und die Ausbildung in der Berufsschule nach den
 landesrechtlichen Vorschriften über das Berufsgrundbildungsjahr
 erfolgen.
-
 
 ## § 5 Ausbildungsberufsbild
 
@@ -132,10 +122,6 @@ Fertigkeiten und Kenntnisse:
 
 15. Bereitstellen von Waren und Dienstleistungen.
 
-
-
-
-
 ## § 6 Ausbildungsrahmenplan
 
 Die Fertigkeiten und Kenntnisse nach § 5 sollen unter Berücksichtigung
@@ -146,12 +132,10 @@ zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
 zulässig, soweit betriebspraktische Besonderheiten die Abweichung
 erfordern.
 
-
 ## § 7 Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans
 für die Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 8 Berichtsheft
 
@@ -159,7 +143,6 @@ Die Auszubildenden haben ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden
 haben das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 9 Zwischenprüfung
 
@@ -190,7 +173,6 @@ Dabei sollen die Prüflinge zeigen, dass sie Arbeitsschritte planen,
 Arbeitsmittel anwenden, technische Unterlagen nutzen sowie den
 Sicherheits- und Gesundheitsschutz bei der Arbeit und den Umweltschutz
 berücksichtigen können.
-
 
 ## § 10 Gesellenprüfung, Abschlussprüfung
 
@@ -331,7 +313,6 @@ Prüfungsbereiche des schriftlichen Teils müssen mindestens
 ausreichende Leistungen, in dem weiteren Prüfungsbereich dürfen keine
 ungenügenden Leistungen erbracht worden sein.
 
-
 ## § 11 Fortsetzung der Berufsausbildung
 
 (1) Die Berufsausbildung im Ausbildungsberuf
@@ -351,11 +332,9 @@ für die Berufsausbildung zum Zweiradmechaniker/zur Zweiradmechanikerin
 - Fachrichtung Fahrradtechnik - vom 9. Juli 2003 (BGBl. I S. 1357) in
 das Gesamtergebnis einbezogen.
 
-
 ## § 12 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2004 in Kraft.
-
 
 ## Anlage (zu § 6) Ausbildungsrahmenplan für die Berufsausbildung zum Fahrradmonteur/zur Fahrradmonteurin
 

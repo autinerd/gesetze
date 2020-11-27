@@ -22,7 +22,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 182 V v. 31.10.2006 I 2407
 
-
 ## § 1 Sicherstellung für Verteidigungszwecke
 
 (1) Um die für Zwecke der Verteidigung, insbesondere zur Deckung des
@@ -96,10 +95,6 @@ durch Rechtsverordnung Vorschriften erlassen werden über
     solcher Erzeugnisse zum Zwecke der Verarbeitung oder gewerblichen
     Verwendung.
 
-
-
-
-
 ## § 2 Voraussetzungen und Grenzen der Sicherstellung
 
 (1) Rechtsverordnungen nach § 1 dürfen nur erlassen werden,
@@ -122,11 +117,9 @@ möglichst wenig beeinträchtigt wird.
 (3) Rechtsverordnungen nach § 1 Abs. 1 dürfen nur nach Maßgabe des
 Artikels 80a des Grundgesetzes angewandt werden.
 
-
 ## § 3
 
 (weggefallen)
-
 
 ## § 4 Begriffsbestimmungen der Erzeugnisse
 
@@ -167,7 +160,6 @@ sind
 (3) Als Erzeugnisse der Forstwirtschaft gelten forstliches Saat- und
 Pflanzgut.
 
-
 ## § 5 Ermächtigung für Buchführungs-, Melde- und Auskunftspflichten
 
 Durch Rechtsverordnungen können zu den in § 1 genannten Zwecken
@@ -190,7 +182,6 @@ Betrieben
 
 
 begründet werden.
-
 
 ## § 6 Vorratshaltung
 
@@ -241,7 +232,6 @@ des gewerblichen Betriebs mit dem für die Vermögensbesteuerung
 maßgebenden Wert, vermindert um den nach Absatz 5 vorgenommenen
 Bewertungsabschlag, anzusetzen.
 
-
 ## § 7 Rechtsverordnungen
 
 (1) Rechtsverordnungen nach den §§ 1, 5 und 6 erläßt die
@@ -280,7 +270,6 @@ Landwirtschaft und Ernährung nach § 1 Abs. 1 Nr. 10 bedürfen des
 Einvernehmens mit dem Bundesministerium für Wirtschaft und
 Technologie.
 
-
 ## § 8 Zustimmungsbedürftigkeit der Rechtsverordnungen
 
 (1) Rechtsverordnungen der Bundesregierung oder des Bundesministeriums
@@ -291,7 +280,6 @@ der Geltungsdauer ist nur mit Zustimmung des Bundesrates möglich.
 (2) Nach Eintritt der Voraussetzung des § 2 Abs. 3 bedürfen
 Rechtsverordnungen nach den §§ 1, 5 und 6 nicht der Zustimmung des
 Bundesrates oder Bundestages.
-
 
 ## § 9 Geltungsdauer der Rechtsverordnungen
 
@@ -310,7 +298,6 @@ Ernährung, der Landesregierungen oder der von diesen ermächtigten
 Stellen, die auf Grund einer Rechtsverordnung nach § 7 Abs. 2 Satz 2
 erlassen werden, treten spätestens mit dieser Rechtsverordnung außer
 Kraft.
-
 
 ## § 10 Ausführung des Gesetzes
 
@@ -364,11 +351,9 @@ Ausführung dieser Verordnungen geregelt und dabei bestimmt werden, daß
 für die Aufgaben zur Ausführung dieser Verordnungen besondere Stellen
 einzurichten sind.
 
-
 ## § 11
 
 (weggefallen)
-
 
 ## § 12 Aufgaben der Bundesanstalt für Landwirtschaft und Ernährung
 
@@ -394,14 +379,9 @@ Aufgaben übertragen:
 
 4.  die Aufstellung zentraler Versorgungs- und Bevorratungspläne.
 
-
-
-
-
 ## § 13
 
 (weggefallen)
-
 
 ## § 14 Mitwirkung von Vereinigungen
 
@@ -434,14 +414,12 @@ genannten Stellen mit deren Zustimmung bedienen. Diese Stellen
 unterstehen insoweit den Weisungen der zuständigen Behörde, die
 Verbände und Zusammenschlüsse insoweit auch deren Aufsicht.
 
-
 ## § 15 Vorbereitung des Vollzugs
 
 Der Bund, die Länder, die Gemeinden und Gemeindeverbände haben die
 organisatorischen, personellen und materiellen Voraussetzungen zur
 Durchführung der Maßnahmen zu schaffen, die für die in § 1 Abs. 1
 bezeichneten Zwecke erforderlich sind.
-
 
 ## § 16 Auskünfte
 
@@ -510,7 +488,6 @@ zu statistischen Zwecken erhoben worden sind.
 Unterlagen dürfen nicht für andere als die in § 1 genannten Zwecke
 verwendet werden.
 
-
 ## § 17 Entschädigung
 
 (1) Stellt eine nach diesem Gesetz erlassene Rechtsverordnung oder
@@ -539,7 +516,6 @@ Bundesleistungsgesetzes entsprechend anzuwenden. Dabei treten an die
 Stelle der Anforderungsbehörden die Behörden, welche die Maßnahmen im
 Sinne des Absatzes 1 angeordnet haben.
 
-
 ## § 18 Härteausgleich
 
 (1) Wird durch eine nach diesem Gesetz erlassene Rechtsverordnung oder
@@ -554,7 +530,6 @@ vernichtet ist oder die Entschädigung zur Abwendung oder zum Ausgleich
 verpflichtet.
 
 (3) § 17 Abs. 3 ist entsprechend anzuwenden.
-
 
 ## § 19 Zustellungen
 
@@ -577,10 +552,6 @@ des Verwaltungszustellungsgesetzes mit folgender Maßgabe:
     Ausfertigung der Verfügung ist gleichzeitig dem Eigentümer oder
     Besitzer zu übermitteln.
 
-
-
-
-
 ## § 20 Rechtsmittelbeschränkung
 
 (1) Widerspruch und Anfechtungsklage gegen Verwaltungsakte nach diesem
@@ -597,11 +568,9 @@ Urteil oder die andere Entscheidung des Verwaltungsgerichts vor
 Eintritt der Voraussetzung des § 2 Abs. 3 verkündet oder zugestellt
 worden ist.
 
-
 ## § 21
 
 (wegfallen)
-
 
 ## § 22 Zuwiderhandlung gegen Sicherstellungsmaßnahmen
 
@@ -611,7 +580,6 @@ Grund einer solchen Rechtsverordnung ergangenen vollziehbaren
 Verfügung verstößt, begeht eine Zuwiderhandlung im Sinne des
 Wirtschaftsstrafgesetzes 1954, soweit die Rechtsverordnung für einen
 bestimmten Tatbestand auf diese Vorschrift verweist.
-
 
 ## § 23 Verletzung der Auskunftspflicht
 
@@ -631,11 +599,9 @@ bestimmten Tatbestand auf diese Vorschrift verweist.
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu zehntausend
 Euro geahndet werden.
 
-
 ## § 24
 
 (weggefallen)
-
 
 ## § 25 Zuständige Verwaltungsbehörde
 
@@ -668,23 +634,14 @@ Ordnungswidrigkeiten ist
         oberste Landesbehörde oder die in der Rechtsverordnung bestimmte
         Behörde.
 
-
-
-
-
-
-
-
 ## § 26 (Änderung des Wirtschaftsstrafgesetzes)
 
 -
-
 
 ## § 27 Einschränkung der Grundrechte
 
 Das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des
 Grundgesetzes) wird nach Maßgabe dieses Gesetzes eingeschränkt.
-
 
 ## § 28 (Inkrafttreten)
 

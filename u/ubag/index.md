@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 8 G v. 11.8.2009 I 2723
 
-
 ## § 1
 
 (1) Im Geschäftsbereich des Bundesministers für Umwelt, Naturschutz
@@ -28,7 +27,6 @@ der Bezeichnung "Umweltbundesamt" errichtet.
 (2) Das Umweltbundesamt hat seinen Sitz in Dessau.
 
 (2a) (weggefallen)
-
 
 ## § 2
 
@@ -76,7 +74,6 @@ Durchführung es vom Bundesminister für Umwelt, Naturschutz und
 Reaktorsicherheit oder mit seiner Zustimmung von der sachlich
 zuständigen obersten Bundesbehörde beauftragt wird.
 
-
 ## § 3
 
 Soweit im Umweltbundesamt Aufgaben aus einem anderen Geschäftsbereich
@@ -84,11 +81,9 @@ als dem des Bundesministers für Umwelt, Naturschutz und
 Reaktorsicherheit erledigt werden, steht das fachliche Weisungsrecht
 der sachlich zuständigen obersten Bundesbehörde zu.
 
-
 ## § 4 (weggefallen)
 
 -
-
 
 ## § 5 (weggefallen)
 

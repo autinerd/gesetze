@@ -25,7 +25,6 @@ Zuletzt geändert durch
 Mittelbare änderung durch
 :   Art. 5 G v. 20.12.2011 I 2842 berücksichtigt
 
-
 ## § 1 Geltungsbereich
 
 (1) Diese Verordnung regelt die Versorgung im Sinne des
@@ -60,7 +59,6 @@ sowie die in § 2 Nr. 2 bis 7, 11 bis 13 und 18 genannten Maßgaben
 gelten nicht für Soldaten auf Zeit und Berufssoldaten, deren Ernennung
 in unmittelbarem zeitlichen Anschluß an ein öffentlich-rechtliches
 Dienstverhältnis im früheren Bundesgebiet erfolgt.
-
 
 ## § 2 Maßgaben
 
@@ -246,10 +244,6 @@ mit folgenden weiteren Maßgaben:
     Dienstbezüge unter Berücksichtigung der Besoldungs-
     Übergangsverordnungen zugrunde zu legen.
 
-
-
-
-
 ## § 3 Verwendung von Berufssoldaten und Soldaten auf Zeit
 
 (1) Die Zeit der Verwendung eines Berufssoldaten oder eines Soldaten
@@ -261,7 +255,6 @@ hat.
 (2) Die Regelung des Absatzes 1 ist bis zum 31. Dezember 1995
 befristet. Sie gilt nicht für eine Verwendung, die nach dem 31.
 Dezember 1994 beginnt.
-
 
 ## § 4 Verwendung von Soldaten im Ruhestand und ehemaligen Soldaten auf Zeit
 
@@ -291,11 +284,9 @@ Anpassungsfaktor zu vervielfältigen ist.
 Beschäftigungsverhältnisse, die nach dem 31. Dezember 1999 begründet
 werden.
 
-
 ## § 5 (Inkrafttreten)
 
 -
-
 
 ## Anlage Verzeichnis der zum Soldatenversorgungsgesetz erlassenen Rechts- und Verwaltungsvorschriften und Richtlinien
 

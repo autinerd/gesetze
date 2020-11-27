@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 Nr. 1 V v. 23.3.2000 I 310
 
-
 ## Eingangsformel
 
 Auf Grund des § 6 Abs. 1 Nr. 3 Buchstabe a in Verbindung mit Abs. 3
@@ -30,7 +29,6 @@ durch § 70 Abs. 1 Nr. 3 des Gesetzes vom 15. März 1974 (BGBl. I S.
 721) und geändert gemäß Artikel 22 Nr. 3 der Verordnung vom 26.
 November 1986 (BGBl. I S. 2089), verordnet der Bundesminister für
 Verkehr nach Anhörung der zuständigen obersten Landesbehörden:
-
 
 ## § 1
 
@@ -47,21 +45,15 @@ erwarten ist. Dies gilt nur, wenn
     Fahrzeugteile nach § 22 der Straßenverkehrs-Zulassungs-Ordnung erteilt
     worden ist.
 
-
-
-
-
 ## § 2
 
 -
-
 
 ## § 3
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft. § 1 tritt
 am 1. Januar 2006 für neu in den Verkehr kommende Fahrzeuge außer
 Kraft.
-
 
 ## Anlage (zu § 1 Satz 2) Anforderungen an Bremsvorwarnsysteme
 

@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 3962
 
-
 ## Eingangsformel
 
 Auf Grund des § 8 Absatz 1 des Akkreditierungsstellengesetzes vom 31.
@@ -28,7 +27,6 @@ Gesundheit, dem Bundesministerium für Verkehr, Bau und
 Stadtentwicklung und dem Bundesministerium für Umwelt, Naturschutz und
 Reaktorsicherheit:
 
-
 ## § 1 Beleihung
 
 (1) Die Deutsche Akkreditierungsstelle GmbH wird mit den Aufgaben der
@@ -37,7 +35,6 @@ beliehen (Beliehene).
 
 (2) Die Beliehene ist Widerspruchsbehörde im Sinne von § 73 Absatz 1
 Satz 2 Nummer 2 der Verwaltungsgerichtsordnung.
-
 
 ## § 2 Aufsicht
 
@@ -178,7 +175,6 @@ Soweit ein Bereich nicht dem Satz 1 Nummer 1 bis 7 unterfällt, wird
 die Aufsicht über die Akkreditierungsstelle vom Bundesministerium für
 Wirtschaft und Technologie ausgeübt.
 
-
 ## § 3 Berichtspflichten der Akkreditierungsstelle
 
 Die Akkreditierungsstelle hat dem Bundesministerium für Wirtschaft und
@@ -211,10 +207,6 @@ dem konkret und substantiiert nachzuweisen ist, dass sie:
     anderem auf den Umfang, den Inhalt und etwaige aufgetretene Probleme
     einzugehen ist.
 
-
-
-
-
 ## § 4 Öffentlich-rechtlicher Vertrag
 
 Die Deutsche Akkreditierungsstelle GmbH und das Bundesministerium für
@@ -225,7 +217,6 @@ des Akkreditierungsstellengesetzes genannten Bereichen die
 erforderliche Überwachung von den die Befugnis erteilenden Behörden
 auszuführen. Der Abschluss des Vertrages bedarf der Zustimmung der in
 § 2 Satz 1 Nummer 1 bis 6 genannten Bundesministerien.
-
 
 ## § 5 Mitwirkung in Akkreditierungsorganisationen
 
@@ -247,11 +238,9 @@ Weisungen erteilen. Soweit die Belange einzelner Fachressorts
 betroffen sind, hat sich das Bundesministerium für Wirtschaft und
 Technologie mit den betroffenen Fachressorts abzustimmen.
 
-
 ## § 6 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Schlussformel
 

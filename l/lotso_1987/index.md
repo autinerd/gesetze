@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 106 G v. 8.12.2010 I 1864
 
-
 ## Eingangsformel
 
 Auf Grund des § 5 Abs. 1 Nr. 1, 3 und 5, Abs. 2 und § 6 Abs. 2 des
@@ -28,14 +27,12 @@ Gesetzes über das Seelotswesen in der Fassung der Bekanntmachung vom
 Februar 1987 (BGBl. I S. 602) wird nach Anhörung der Küstenländer und
 der Bundeslotsenkammer verordnet:
 
-
 ## § 1 Seelotsreviere
 
 Im Geltungsbereich des Gesetzes über das Seelotswesen werden die
 Seelotsreviere Ems, Weser I, Weser II/Jade, Elbe, Nord-Ostsee-Kanal I,
 Nord-Ostsee-Kanal II/Kieler Förde/Trave/Flensburger Förde und
 Wismar/Rostock/Stralsund gebildet.
-
 
 ## § 2 Grenzen der Seelotsreviere
 
@@ -85,7 +82,6 @@ Lotsenversetzpositionen bei den Tonnen "Landtief B" und "Osttief 2".
 (8) Die geographischen Angaben der Absätze 1 bis 7 sind aus den
 Anlagen 1, 2 und 3 ersichtlich.
 
-
 ## § 3 Aufsichtsbehörden
 
 Aufsichtsbehörden für das Seelotswesen sind
@@ -98,21 +94,15 @@ Aufsichtsbehörden für das Seelotswesen sind
     Nord-Ostsee-Kanal I, Nord-Ostsee-Kanal II/Kieler
     Förde/Trave/Flensburger Förde und Wismar/Rostock/Stralsund.
 
-
-
-
-
 ## § 4 Ermächtigung der Aufsichtsbehörden zum Erlaß von Lotsverordnungen
 
 Die Ermächtigungen nach § 5 Abs. 1 Nr. 3 bis 5 des Gesetzes über das
 Seelotswesen werden auf die Aufsichtsbehörden übertragen, soweit die
 folgenden Vorschriften nicht bereits Regelungen treffen.
 
-
 ## § 5
 
 -
-
 
 ## § 6 Durchführung von Betrieb und Unterhaltung der Lotseinrichtungen
 
@@ -124,7 +114,6 @@ bisher von den Lotsenbrüderschaften wahrgenommen worden ist. Eine
 solche Übertragung auf Dritte bleibt unberührt. Die Durchführung von
 Betrieb und Unterhaltung in dem Lotsrevier Wismar/Rostock/Stralsund
 wird an private natürliche oder juristische Personen vergeben.
-
 
 ## § 7 Führung der Bört- und Schiffsliste
 
@@ -153,7 +142,6 @@ einzutragen
 (2) Die Bört- und Schiffslisten sind der Aufsichtsbehörde auf
 Anforderung vorzulegen.
 
-
 ## § 8 Durchführung der Lotstätigkeit
 
 (1) Der Seelotse hat jede Lotsung durchzuführen, für die er nach der
@@ -179,10 +167,6 @@ sein, wenn
     Sprechfunkgerät mit den für das Revier erforderlichen Sprechwegen
     vorhanden ist.
 
-
-
-
-
 ## § 9 Beendigung der Lotstätigkeit
 
 Wird der Seelotse, bevor er abgelöst wird oder das Schiff den
@@ -191,7 +175,6 @@ entlassen (§ 24 Abs. 1 des Gesetzes über das Seelotswesen), so hat er
 sich die Entlassung schriftlich vom Kapitän oder dessen Vertreter
 bestätigen zu lassen.
 
-
 ## § 10 Mitzuführende Unterlagen
 
 Im Dienst hat der Seelotse seinen Lotsenausweis, den Text der
@@ -199,14 +182,12 @@ Allgemeinen Lotsverordnung, der Lotsverordnung des Seelotsreviers
 sowie der Lotstarifordnung in der jeweils geltenden Fassung bei sich
 zu führen. Der Schiffsführung ist auf Verlangen Einsicht zu gewähren.
 
-
 ## § 11 Unterrichtung der Schiffsführung
 
 Der Seelotse hat, soweit erforderlich, die Schiffsführung über alle
 die Schiffahrt auf dem Seelotsrevier und in den Häfen betreffenden
 Anordnungen und Vorschriften sowie die zoll-, gesundheits- und
 sicherheitspolizeilichen Regelungen zu unterrichten.
-
 
 ## § 12 Informationspflicht des Seelotsen, Prüfliste und Lotsbescheinigung
 
@@ -238,14 +219,12 @@ in die Lotsbescheinigung einen entsprechenden Vermerk aufzunehmen.
 (4) Die Lotsbescheinigung ist unverzüglich bei der Lotsenstation oder
 einer von der Aufsichtsbehörde bestimmten Dienststelle abzuliefern.
 
-
 ## § 13 Beförderung des Seelotsen
 
 Im Bedarfsfall sollen die auf dem Seelotsrevier verkehrenden Schiffe
 Seelotsen zur Auffüllung der Lotsenstation auf deren eigene Gefahr
 unentgeltlich befördern und im Rahmen der auf den Schiffen vorhandenen
 Möglichkeiten für ihre angemessene Unterbringung an Bord sorgen.
-
 
 ## § 14 Unterbringung des Seelotsen
 
@@ -254,7 +233,6 @@ Bord oder kann er bei der Außenstation des Lotsenschiffes nicht
 ausgeholt werden, so hat die Schiffsführung dem Seelotsen für die
 Dauer seines Aufenthaltes eine angemessene Unterkunft zur Verfügung zu
 stellen und ihn zu verpflegen.
-
 
 ## § 15 Ordnungswidrigkeiten
 
@@ -308,11 +286,9 @@ Ordnungswidrigkeiten nach
 
 wird auf die Aufsichtsbehörde übertragen.
 
-
 ## § 16
 
 -
-
 
 ## § 17 Inkrafttreten, Aufhebung von Vorschriften
 
@@ -320,29 +296,24 @@ wird auf die Aufsichtsbehörde übertragen.
 
 (2)
 
-
 ## Schlußformel
 
 Der Bundesminister für Verkehr
-
 
 ## Anlage 1 (zu § 2 Abs. 8) Bereich Nordsee
 
 (Inhalt: Nicht darstellbare geographische Karte,
 Fundstelle: BGBl. I 1995, 939)
 
-
 ## Anlage 2 (zu § 2 Abs. 8) Bereich Ostsee, Teil 1
 
 (Inhalt: Nicht darstellbare geographische Karte,
 Fundstelle: BGBl. I 1995, 940)
 
-
 ## Anlage 3 (zu § 2 Abs. 8) Bereich Ostsee, Teil 2
 
 (Inhalt: Nicht darstellbare geographische Karte,
 Fundstelle: BGBl. I 1995, 941)
-
 
 ## Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet D Abschnitt III (BGBl. II 1990, 889, 1108)
 

@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 17.6.2010 I 809
 
-
 ## Eingangsformel
 
 Auf Grund des § 1 Abs. 2 Nr. 1 des Patentkostengesetzes vom 13.
@@ -27,7 +26,6 @@ Urheberrechtsgesetzes vom 9. September 1965 (BGBl. I S. 1273), der
 zuletzt durch Artikel 16 Nr. 3 Buchstabe d Doppelbuchstabe bb des
 Gesetzes vom 13. Dezember 2001 (BGBl. I S. 3656) geändert worden ist,
 verordnet das Bundesministerium der Justiz:
-
 
 ## § 1 Geltungsbereich
 
@@ -38,7 +36,6 @@ nicht anderweitig durch Gesetz oder aufgrund gesetzlicher
 Ermächtigungen Bestimmungen getroffen sind, nur nach den Vorschriften
 dieser Verordnung erhoben.
 
-
 ## § 2 Kosten
 
 (1) Die Kosten bestimmen sich nach dem anliegenden Kostenverzeichnis.
@@ -48,12 +45,10 @@ ergibt, werden neben den Gebühren keine Auslagen nach Teil B des
 Kostenverzeichnisses erhoben. Wenn eine Gebühr für die Amtshandlung
 nicht vorgesehen ist, sind jedoch Auslagen zu erheben.
 
-
 ## § 3 Mindestgebühr
 
 Der Mindestbetrag einer Gebühr ist 10 Euro. Centbeträge sind auf volle
 Eurobeträge aufzurunden.
-
 
 ## § 4 Kostenbefreiung
 
@@ -96,7 +91,6 @@ sind von der ersuchenden Behörde auf Anforderung zu erstatten, wenn
 sie im Einzelfall 35 Euro übersteigen. Die Absätze 2 und 3 sind
 entsprechend anzuwenden.
 
-
 ## § 5 Kostenschuldner
 
 (1) Zur Zahlung der Kosten ist verpflichtet,
@@ -121,7 +115,6 @@ entsprechend anzuwenden.
 
 (2) Mehrere Kostenschuldner haften als Gesamtschuldner.
 
-
 ## § 6 Fälligkeit
 
 (1) Gebühren werden mit dem Eingang des Antrags auf Vornahme der
@@ -131,7 +124,6 @@ Entstehung.
 (2) Die Erstattungsgebühr (Nummer 301 500 des Kostenverzeichnisses)
 wird fällig, wenn das Deutsche Patent- und Markenamt feststellt, dass
 ein Rechtsgrund zur Zahlung nicht vorliegt.
-
 
 ## § 7 Vorauszahlung, Zahlungsfristen, Zurückbehaltungsrecht
 
@@ -161,10 +153,6 @@ Kosten bezahlt sind. Von der Zurückbehaltung ist abzusehen,
 3.  wenn es sich um Unterlagen eines Dritten handelt, demgegenüber die
     Zurückbehaltung eine unbillige Härte wäre.
 
-
-
-
-
 ## § 8 Folgen der Nichtzahlung, Antragsrücknahme
 
 (1) Wird der nach § 7 Abs. 1 Satz 1 angeforderte Kostenvorschuss nicht
@@ -175,7 +163,6 @@ gezahlt, gilt der Antrag als zurückgenommen.
 Antrag auf Vornahme einer gebührenpflichtigen Amtshandlung
 zurückgenommen, bevor die beantragte Amtshandlung vorgenommen wurde,
 entfällt die Gebühr.
-
 
 ## § 9 Unrichtige Sachbehandlung, Erlass von Kosten
 
@@ -198,7 +185,6 @@ gewerblichen Nutzung bereitgestellt werden.
 (4) Im Übrigen gelten für die Niederschlagung und den Erlass von
 Kosten die Vorschriften der Bundeshaushaltsordnung.
 
-
 ## § 10 Erstattung
 
 (1) Überzahlte oder zu Unrecht erhobene Kosten sind unverzüglich zu
@@ -206,7 +192,6 @@ erstatten.
 
 (2) Bei der Erstattung von Beträgen, die ohne Rechtsgrund eingezahlt
 wurden (§ 6 Abs. 2), wird die Erstattungsgebühr einbehalten.
-
 
 ## § 11 Kostenansatz
 
@@ -220,7 +205,6 @@ Die Anordnung nach § 9 Abs. 1, dass Kosten nicht erhoben werden, kann
 in Patent-, Gebrauchsmuster-, Topographieschutz-, Marken- und
 Geschmacksmustersachen auch im Aufsichtsweg erlassen werden, solange
 nicht das Bundespatentgericht entschieden hat.
-
 
 ## § 12 Erinnerung, Beschwerde, gerichtliche Entscheidung
 
@@ -254,13 +238,11 @@ hat es ihm abzuhelfen. Wird dem Antrag nicht abgeholfen, ist er dem
 nach § 138 Abs. 2 Satz 2 des Urheberrechtsgesetzes zuständigen Gericht
 vorzulegen.
 
-
 ## § 13 Verjährung, Verzinsung
 
 Für die Verjährung und Verzinsung der Kostenforderungen und der
 Ansprüche auf Erstattung von Kosten gilt § 5 des
 Gerichtskostengesetzes entsprechend.
-
 
 ## § 14 Übergangsregelung
 
@@ -269,11 +251,9 @@ gebührenpflichtige Amtshandlung beantragt, aber noch nicht beendet
 ist, werden die bis zum Inkrafttreten dieser Verordnung geltenden
 Gebühren erst mit Beendigung der Amtshandlung fällig.
 
-
 ## § 15 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Oktober 2006 in Kraft.
-
 
 ## Anlage (zu § 2 Abs. 1) Kostenverzeichnis
 

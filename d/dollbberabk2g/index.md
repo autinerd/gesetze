@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1961, 461
 
-
-
 ## Art 1 Zustimmung zum Abkommen
 
 Dem in Bonn am 16. August 1960 unterzeichneten Zweiten Abkommen
@@ -26,7 +24,6 @@ zwischen der Bundesrepublik Deutschland und den Vereinigten Staaten
 von Amerika über gewisse Angelegenheiten, die sich aus der Bereinigung
 deutscher Dollarbonds ergeben, wird zugestimmt. Das Abkommen wird
 nachstehend veröffentlicht.
-
 
 ## Art 2 Durchführungsvorschriften zum Abkommen
 
@@ -50,7 +47,6 @@ Entschädigungsgesetzes) zwei Monate nach Ablauf der Anmeldefrist,
 frühestens jedoch zwei Monate nach Abgabe des Regelungsangebots der
 Garanten beginnt.
 
-
 ## Art 3 Konkursrechtliche Vorschriften
 
 (1) Über das im Geltungsbereich dieses Gesetzes befindliche Vermögen
@@ -71,7 +67,6 @@ Auslandsbonds nach §§ 63, 64 des Bereinigungsgesetzes für deutsche
 Auslandsbonds vom 25. August 1952 (Bundesgesetzbl. I S. 553) zu tragen
 sind, gelten im Falle der Konkurseröffnung über das Vermögen der
 Aussteller als Massekosten im Sinne des § 58 Nr. 2 der Konkursordnung.
-
 
 ## Art 4 Nachträgliche Erteilung von Feststellungsbescheiden
 
@@ -104,11 +99,9 @@ frühestens zwei Monate nach Rechtskraft des Feststellungsbescheids
 beginnt; § 13 des Auslandsbonds-Entschädigungsgesetzes gilt
 entsprechend.
 
-
 ## Art 5
 
 -
-
 
 ## Art 6 Vorschriften für auf deutsche Währung lautende Schuldverschreibungen
 
@@ -176,7 +169,6 @@ ist zu bestimmen, daß an die Stelle des in Absatz 1 Nr. 1 genannten
 Zeitpunkts des Inkrafttretens dieses Gesetzes der Zeitpunkt des
 Inkrafttretens der Rechtsverordnung tritt.
 
-
 ## Art 7 Land Berlin
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
@@ -184,7 +176,6 @@ Anwendung dieses Gesetzes feststellt. Rechtsverordnungen, die auf
 Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14
 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I
 S. 1).
-
 
 ## Art 8 Inkrafttreten
 

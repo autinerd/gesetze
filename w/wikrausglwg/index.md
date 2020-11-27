@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 G v. 20.12.2001 I 3955
 
-
 ## § 1
 
 Zum Ausgleich unterschiedlicher Wirtschaftskraft und zur Förderung des
@@ -30,7 +29,6 @@ für besonders bedeutsame Investitionen der Länder und Gemeinden
 (Gemeindeverbände) in Höhe von jährlich insgesamt 6,6 Milliarden
 Deutsche Mark, es sei denn, der Jahresbetrag wird nach Maßgabe des § 2
 Abs. 1 Satz 2 abgesenkt.
-
 
 ## § 2
 
@@ -86,7 +84,6 @@ Gemeinden für die Grunderneuerung von Straßenbrücken über Schienenwege
 der ehemaligen Deutschen Reichsbahn in den Jahren 1990 bis 2001
 jährlich 10 Millionen Deutsche Mark zur Verfügung.
 
-
 ## § 3
 
 Durch die Finanzhilfen werden zum Ausgleich unterschiedlicher
@@ -140,10 +137,6 @@ folgende strukturverbessernde Investitionen gefördert:
     insbesondere Investitionen zum Aufbau und zur Erneuerung von sozialen
     Einrichtungen.
 
-
-
-
-
 ## § 4
 
 (1) Für Investitionen, die nach anderen Gesetzen und
@@ -155,7 +148,6 @@ gleichzeitig Finanzhilfen nach diesem Gesetz gewährt werden.
 (2) Investive Begleit- und Folgemaßnahmen werden nur gefördert, wenn
 sie unmittelbar in ursächlichem Zusammenhang mit den Maßnahmen nach §
 3 stehen.
-
 
 ## § 5
 
@@ -178,7 +170,6 @@ spätestens innerhalb von 30 Tagen weiter.
 in den Folgejahren bei Bedarf abgerufen werden. Absatz 2 Satz 2 und 3
 gilt entsprechend.
 
-
 ## § 5a
 
 (1) Für den Zeitraum, in dem Mittel dieses Gesetzes nicht für die in §
@@ -190,7 +181,6 @@ Hundert jährlich.
 Dezember 2004 geschlossen. Nicht benötigte Kassenmittel werden zu
 diesem Zeitpunkt an den Bund zurückübertragen. Absatz 1 bleibt
 unberührt.
-
 
 ## § 6
 

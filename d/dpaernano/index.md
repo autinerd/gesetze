@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 675
 
-
-
 ## I.
 
 Auf Grund des Artikels 1 Abs. 1 der Anordnung des Bundespräsidenten
@@ -30,17 +28,14 @@ Beamten des höheren Dienstes, zur Ernennung der Beamten der
 Besoldungsgruppen A 14 und A 15 sowie zur Entlassung der Beamten der
 Besoldungsgruppen A 13 bis A 15 übertragen.
 
-
 ## II.
 
 Für besondere Fälle behalte ich mir die Ernennung und Entlassung der
 unter Abschnitt I genannten Beamten vor.
 
-
 ## III.
 
 Diese Anordnung tritt am 1. Juni 2004 in Kraft.
-
 
 ## Schlußformel
 

@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 2098, 2102
 
-
-
 ## § 1 Allgemein
 
 Den Ländern stehen nach Artikel 143c Abs. 1 Satz 1 des Grundgesetzes
@@ -27,7 +25,6 @@ sowie für den durch die Abschaffung der Finanzhilfen zur Verbesserung
 der Verkehrsverhältnisse der Gemeinden und zur sozialen
 Wohnraumförderung bedingten Wegfall der Finanzierungsanteile des
 Bundes jährlich Beträge aus dem Haushalt des Bundes zu.
-
 
 ## § 2 Finanzierung beendeter Gemeinschaftsaufgaben
 
@@ -56,7 +53,6 @@ Grundgesetzes neu definierte Gemeinschaftsaufgabe zur Verfügung; diese
 Mittel können bis 2008 auch zur Mitfinanzierung auslaufender
 Modellversuche verwendet werden.
 
-
 ## § 3 Finanzierung beendeter Finanzhilfen
 
 (1) Mit der Beendigung der Finanzhilfen des Bundes für Investitionen
@@ -73,7 +69,6 @@ Dezember 2013 jährlich ein Betrag von 518.200.000 Euro aus dem
 Haushalt des Bundes zu. Mit diesem Betrag sind auch die Mittel zur
 Ausfinanzierung der vom Bund bis 2006 eingegangenen Verpflichtungen
 abgegolten.
-
 
 ## § 4 Verteilung
 
@@ -414,10 +409,6 @@ Prozentsätzen unter Rundung auf Tausend Euro verteilt:
 
     *   5,616837 Prozent.
 
-
-
-
-
 ## § 5 Zweckbindung
 
 (1) Die Beträge nach § 4 Abs. 1 sind von den Ländern jeweils für die
@@ -442,7 +433,6 @@ Zuweisung an das jeweilige Land um den fehlverwendeten Betrag gekürzt
 und dieser Betrag entsprechend dem jeweiligen Aufteilungsschlüssel
 nach § 4 auf die anderen Länder verteilt.
 
-
 ## § 6 Revisionsklausel
 
 (1) Bund und Länder prüfen gemeinsam bis Ende 2013, in welcher Höhe
@@ -454,7 +444,6 @@ Aufgabenerfüllung der Länder noch angemessen und erforderlich sind.
 entfällt die gruppenspezifische Zweckbindung. Die neu festzulegenden
 Beträge unterliegen ab dem 1. Januar 2014 bis zum 31. Dezember 2019
 einer investiven Zweckbindung.
-
 
 ## § 7 Verordnungsermächtigung
 

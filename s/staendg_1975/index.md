@@ -15,12 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1975, 525
 
-
-
 ## Art 1
 
 -
-
 
 ## Art 2 Unterrichtung des Bundesministers für Umwelt, Naturschutz und Reaktorsicherheit
 
@@ -32,18 +29,15 @@ Einkommensteuergesetzes insgesamt erteilten Bescheinigungen,
 aufgegliedert nach Industriezweigen sowie nach Art und Höhe der
 begünstigten Investitionen.
 
-
 ## Art 3
 
 -
-
 
 ## Art 4
 
 Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 und des § 13 Abs. 1
 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I
 S. 1) auch im Land Berlin.
-
 
 ## Art 5
 

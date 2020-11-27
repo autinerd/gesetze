@@ -46,23 +46,14 @@ Dieses Gesetz dient der Umsetzung
     des freien Dienstleistungsverkehrs sowie zur Änderung der Richtlinie
     79/267/EWG (ABl. EG Nr. L 330 S. 50).
 
-
-
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art 1 bis 15
 
-
-
 ## Art 16 - Übergangs- und Schlußbestimmungen
-
-
 
 ## § 1
 
@@ -71,7 +62,6 @@ Versicherungsaufsichtsgesetzes genannte Anlagequote am 9. Dezember
 1992 überschritten haben, sowie sonstige Versicherungsunternehmen, die
 diese Quote am 11. August 1992 überschritten haben, haben die Quote
 spätestens bis zum 31. Dezember 1998 zu erfüllen.
-
 
 ## § 2
 
@@ -84,7 +74,6 @@ Verwendung vor dem 29. Juli 1994 genehmigter allgemeiner
 Versicherungsbedingungen abgeschlossene Lebensversicherungsverträge
 sind die §§ 11c und 81c Abs. 2 des Versicherungsaufsichtsgesetzes
 anzuwenden.
-
 
 ## § 3
 
@@ -112,7 +101,6 @@ ab welchem Zeitpunkt das Versicherungsaufsichtsgesetz in vollem Umfang
 in der ab 29. Juli 1994 geltenden Fassung auf die in den Absätzen 1
 und 2 genannten Versicherungsunternehmen anzuwenden ist.
 
-
 ## § 4
 
 Auf die zur Zeit des Inkrafttretens dieses Gesetzes bestehenden
@@ -120,7 +108,6 @@ Versicherungsverhältnisse finden die Vorschriften des Gesetzes über
 den Versicherungsvertrag und des Pflichtversicherungsgesetzes in der
 Fassung dieses Gesetzes nach Maßgabe der nachfolgenden Bestimmungen
 Anwendung.
-
 
 ## § 5
 
@@ -137,7 +124,6 @@ dieses Gesetzes bestehenden Versicherungsverhältnisse keine Anwendung.
 Fassung dieses Gesetzes ist auf Versicherungsverträge anzuwenden, die
 nach dem 24. Juni 1994 abgeschlossen worden sind.
 
-
 ## § 6
 
 Auf die zur Zeit des Inkrafttretens dieses Gesetzes bestehenden
@@ -147,7 +133,6 @@ geltenden Fassung anzuwenden. Das gleiche gilt für
 Versicherungsverhältnisse, die bis zum 31. Dezember 1994 unter
 Verwendung vor dem 29. Juli 1994 genehmigter Versicherungsbedingungen
 abgeschlossen werden.
-
 
 ## § 7
 
@@ -169,7 +154,6 @@ Berechnungsgrundlagen neu festzusetzen, wenn ein unabhängiger
 Treuhänder die Berechnungsgrundlage überprüft und der Prämienanpassung
 zugestimmt hat.
 
-
 ## § 8
 
 Auf die zur Zeit des Inkrafttretens dieses Gesetzes bestehenden
@@ -184,14 +168,12 @@ Versicherungsverhältnisse, die bis zum 31. Dezember 1994 zu den von
 der Aufsichtsbehörde vor dem 29. Juli 1994 genehmigten
 Versicherungsbedingungen geschlossen werden.
 
-
 ## § 9
 
 Die sich aus diesem Gesetz ergebenden Änderungen der
 Versicherungsverhältnisse sind in einem Nachtrag zum
 Versicherungsvertrag niederzulegen, der dem Versicherungsnehmer
 auszuhändigen ist.
-
 
 ## § 10
 
@@ -201,14 +183,12 @@ Inland, die vor dem 1. Juli 1994 abgeschlossen werden, den von der
 Aufsichtsbehörde genehmigten allgemeinen Versicherungsbedingungen
 entsprechen.
 
-
 ## § 11
 
 Auf Versicherungsverträge, die bis zum 31. Dezember 1994 zu von der
 Aufsichtsbehörde genehmigten Versicherungsbedingungen geschlossen
 werden, findet § 5a des Gesetzes über den Versicherungsvertrag keine
 Anwendung.
-
 
 ## Art 17 - Bekanntmachung
 
@@ -219,7 +199,6 @@ dabei die Worte "der Bundesminister der Finanzen" und deren Beugungen
 durch die Worte "das Bundesministerium der Finanzen" und deren
 Beugungen ersetzen sowie dem Gesetz eine in Abschnitte, Kapitel und
 Titel gegliederte Inhaltsübersicht voranstellen.
-
 
 ## Art 18 - Inkrafttreten
 

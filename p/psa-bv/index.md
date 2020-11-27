@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1996, 1841
 
-
-
 ## § 1 Anwendungsbereich
 
 (1) Diese Verordnung gilt für die Bereitstellung persönlicher
@@ -65,7 +63,6 @@ nicht:
 (4) Die Verordnung gilt nicht in Betrieben, die dem Bundesberggesetz
 unterliegen.
 
-
 ## § 2 Bereitstellung und Benutzung
 
 (1) Unbeschadet seiner Pflichten nach den §§ 3, 4 und 5 des
@@ -105,7 +102,6 @@ ordnungsgemäße Lagerung trägt der Arbeitgeber dafür Sorge, daß die
 persönlichen Schutzausrüstungen während der gesamten Benutzungsdauer
 gut funktionieren und sich in einem hygienisch einwandfreien Zustand
 befinden.
-
 
 ## § 3 Unterweisung
 

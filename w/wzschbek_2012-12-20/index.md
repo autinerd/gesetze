@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 3005
 
-
 ## (XXXX)
 
 Auf Grund des § 6a Absatz 2 des Gebrauchsmustergesetzes, der durch
@@ -699,10 +698,6 @@ Ausstellungen gewährt:
 
 153. „Mineralien, Fossilien, Schmuck 2013“
     vom 15. bis 17. November 2013 in Stuttgart
-
-
-
-
 
 ## Schlussformel
 

@@ -19,8 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 18 V v. 23.7.2010 I 1010
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 53 Abs. 1 in Verbindung mit Abs. 2 des
@@ -31,7 +29,6 @@ Verbindung mit § 1 des Zuständigkeitsanpassungsgesetzes vom 16. August
 Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für
 Berufsbildung im Einvernehmen mit dem Bundesministerium für Wirtschaft
 und Technologie:
-
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
 
@@ -128,7 +125,6 @@ Textilwirtschaft wahrnehmen zu können:
 Geprüfter Industriemeister/Geprüfte Industriemeisterin - Fachrichtung
 Textilwirtschaft.
 
-
 ## § 2 Umfang der Industriemeisterqualifikation und Gliederung der Prüfung
 
 (1) Die Qualifikation zum Geprüften Industriemeister/zur Geprüften
@@ -173,7 +169,6 @@ Prüfungsteil nach Absatz 3 Nr. 2 ist schriftlich in Form von
 funktionsfeldbezogenen und die Handlungsbereiche integrierenden
 Situationsaufgaben und mündlich in Form eines situationsbezogenen
 Fachgesprächs gemäß § 5 zu prüfen.
-
 
 ## § 3 Zulassungsvoraussetzungen
 
@@ -220,7 +215,6 @@ Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht,
 Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche
 Handlungsfähigkeit) erworben zu haben, die die Zulassung zur Prüfung
 rechtfertigen.
-
 
 ## § 4 Fachrichtungsübergreifende Basisqualifikationen
 
@@ -408,7 +402,6 @@ als 20 Minuten dauern. Die Bewertung der schriftlichen
 Prüfungsleistung und die der mündlichen Ergänzungsprüfung werden zu
 einer Prüfungsleistung zusammengefasst. Dabei wird die Bewertung der
 schriftlichen Prüfungsleistung doppelt gewichtet.
-
 
 ## § 5 Handlungsspezifische Qualifikationen
 
@@ -873,7 +866,6 @@ Prüfungsleistung und die der mündlichen Ergänzungsprüfung werden zu
 einer Prüfungsleistung zusammengefasst. Dabei wird die Bewertung der
 schriftlichen Prüfungsleistung doppelt gewichtet.
 
-
 ## § 6 Anrechnung anderer Prüfungsleistungen
 
 Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin ist auf Antrag
@@ -883,7 +875,6 @@ Stelle zu befreien, wenn eine andere vergleichbare Prüfung vor einer
 einem staatlichen Prüfungsausschuss erfolgreich abgelegt wurde und die
 Anmeldung zur Fortbildungsprüfung innerhalb von fünf Jahren nach der
 Bekanntgabe des Bestehens der anderen Prüfung erfolgt.
-
 
 ## § 7 Bewerten der Prüfungsteile und Bestehen der Prüfung
 
@@ -925,7 +916,6 @@ des Prüfungsgremiums der anderweitig abgelegten Prüfung anzugeben. Der
 Nachweis über den Erwerb der berufs- und arbeitspädagogischen
 Kenntnisse ist im Zeugnis einzutragen.
 
-
 ## § 8 Wiederholung der Prüfung
 
 (1) Jeder nicht bestandene Prüfungsteil kann zweimal wiederholt
@@ -941,17 +931,14 @@ Prüfungsteils an, zur Wiederholungsprüfung angemeldet hat. Bestandene
 Prüfungsleistungen können auf Antrag einmal wiederholt werden. In
 diesem Fall gilt das Ergebnis der letzten Prüfung.
 
-
 ## § 9 Übergangsvorschrift
 
 Die bis zum Ablauf des 31. August 2009 begonnenen Prüfungsverfahren
 können nach den bisherigen Vorschriften zu Ende geführt werden.
 
-
 ## § 10 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Februar 2006 in Kraft.
-
 
 ## Anlage 1 (zu § 7 Abs. 5) Muster
 
@@ -983,7 +970,6 @@ bestanden.
 Datum ..........................................
 Unterschrift(en) ...............................
 (Siegel der zuständigen Stelle)
-
 
 ## Anlage 2 (zu § 7 Abs. 5) Muster
 

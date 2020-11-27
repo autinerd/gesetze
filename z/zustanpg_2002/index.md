@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 3165
 
-
-
 ## § 1 Zuständigkeitsübergang
 
 (1) Werden innerhalb der Bundesregierung Zuständigkeiten aus dem
@@ -35,7 +33,6 @@ Veränderungen von Behördenbezeichnungen im Sinne des Absatzes 2 und
 der Zeitpunkt ihrer Wirksamkeit sind im Bundesgesetzblatt bekannt zu
 machen.
 
-
 ## § 2 Anpassung der Gesetze und Rechtsverordnungen
 
 Das Bundesministerium der Justiz kann durch Rechtsverordnung ohne
@@ -48,7 +45,6 @@ Behördenbezeichnung der neu zuständigen obersten Bundesbehörde und bei
 Behördenbezeichnung durch die neue Behördenbezeichnung ersetzen sowie
 dadurch veranlasste Anpassungen des Wortlauts der Vorschriften
 vornehmen.
-
 
 ## § 3 Neufassung der Gesetze und Rechtsverordnungen
 
@@ -68,7 +64,6 @@ Behördenbezeichnung ersetzen.
 (3) Für die Bekanntmachung der Neufassung einer Rechtsverordnung, die
 aufgrund einer gesetzlichen Ermächtigung von einer anderen staatlichen
 Stelle erlassen worden ist, gelten die Absätze 1 und 2 entsprechend.
-
 
 ## § 4 Anwendungsvorschrift
 

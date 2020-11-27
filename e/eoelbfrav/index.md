@@ -19,13 +19,11 @@ Fundstelle
 Geändert durch
 :   Art. 38 G v. 21.12.2000 I 1956
 
-
 ## Eingangsformel
 
 Auf Grund des § 4 Abs. 2 und des § 9 Abs. 4 des Gesetzes über
 Mindestvorräte an Erdölerzeugnissen vom 9. September 1965
 (Bundesgesetzbl. I S. 1217) wird verordnet:
-
 
 ## § 1
 
@@ -81,7 +79,6 @@ Bestandsmeldungen sichergestellt ist, kann das Bundesamt für
 Wirtschaft und Ausfuhrkontrolle (BAFA) gestatten, daß die
 Vorratspflicht mit diesen Beständen erfüllt wird.
 
-
 ## § 2
 
 Im Falle des § 1 Abs. 1 Nr. 3 ist der Meldung nach
@@ -92,16 +89,13 @@ den vorratspflichtigen Unternehmer gehaltenen Bestände ergeben.
 Erdölerzeugnissen vom 11. Januar 1966 (Bundesgesetzbl. I S. 63)
 findet keine Anwendung.
 
-
 ## § 3
 
 (weggefallen)
 
-
 ## § 4
 
 Diese Rechtsverordnung tritt am Tage nach ihrer Verkündung in Kraft.
-
 
 ## Schlußformel
 

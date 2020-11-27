@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 19 V v. 23.7.2010 I 1010
 
-
 ## Eingangsformel
 
 Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August
@@ -31,7 +30,6 @@ Oktober 2002 (BGBl. I S. 4206) verordnet das Bundesministerium für
 Bildung und Forschung nach Anhörung des Ständigen Ausschusses des
 Bundesinstituts für Berufsbildung im Einvernehmen mit dem
 Bundesministerium für Wirtschaft und Arbeit:
-
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
 
@@ -104,7 +102,6 @@ wahrnehmen zu können:
 (4) Die erfolgreich abgelegte Prüfung führt zum anerkannten Abschluss
 Geprüfter Meister/Geprüfte Meisterin für Schutz und Sicherheit.
 
-
 ## § 2 Umfang der Meisterqualifikation und Gliederung der Prüfung
 
 (1) Die Qualifikation zum Geprüften Meister/zur Geprüften Meisterin
@@ -145,7 +142,6 @@ anwendungsbezogenen Aufgabenstellungen gemäß § 4 zu prüfen.
 (5) Im Prüfungsteil nach Absatz 3 Nr. 2 ist schriftlich und mündlich
 in Form von handlungsspezifischen Aufgabenstellungen gemäß § 5 zu
 prüfen.
-
 
 ## § 3 Zulassungsvoraussetzungen
 
@@ -197,7 +193,6 @@ Voraussetzungen kann zur Prüfung in den Prüfungsteilen auch zugelassen
 werden, wer durch Vorlage von Zeugnissen oder auf andere Weise
 glaubhaft macht, Kenntnisse, Fertigkeiten und Erfahrungen erworben zu
 haben, die die Zulassung zur Prüfung rechtfertigen.
-
 
 ## § 4 Grundlegende Qualifikationen
 
@@ -344,7 +339,6 @@ dauern. Die Bewertung der schriftlichen Prüfungsleistung und die der
 mündlichen Ergänzungsprüfung werden zu einer Note zusammengefasst.
 Dabei wird die Bewertung der schriftlichen Prüfungsleistung doppelt
 gewichtet.
-
 
 ## § 5 Handlungsspezifische Qualifikationen
 
@@ -863,7 +857,6 @@ mündlichen Ergänzungsprüfung werden zu einer Note zusammengefasst.
 Dabei wird die Bewertung der schriftlichen Prüfungsleistung doppelt
 gewichtet.
 
-
 ## § 6 Anrechnung anderer Prüfungsleistungen
 
 Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin ist auf Antrag
@@ -873,7 +866,6 @@ Stelle zu befreien, wenn eine andere vergleichbare Prüfung vor einer
 einem staatlichen Prüfungsausschuss erfolgreich abgelegt wurde und die
 Anmeldung zur Fortbildungsprüfung innerhalb von fünf Jahren nach der
 Bekanntgabe des Bestehens der anderen Prüfung erfolgt.
-
 
 ## § 7 Bewerten der Prüfungsteile und Bestehen der Prüfung
 
@@ -897,7 +889,6 @@ jeweils mindestens ausreichende Leistungen erbracht wurden.
 (5) Über das Bestehen der Prüfung ist ein Zeugnis gemäß der Anlage 1
 sowie ein Zeugnis gemäß der Anlage 2 auszustellen.
 
-
 ## § 8 Wiederholung der Prüfung
 
 (1) Jeder nicht bestandene Prüfungsteil kann zweimal wiederholt
@@ -912,7 +903,6 @@ vorangegangenen Prüfung erbrachten Leistungen ausgereicht haben. Der
 Antrag kann sich auch darauf richten, bestandene Prüfungsleistungen zu
 wiederholen. Wird eine bestandene Prüfungsleistung erneut geprüft, ist
 das letzte Ergebnis für das Bestehen zu berücksichtigen.
-
 
 ## § 9 Optionale Qualifikation
 
@@ -963,12 +953,10 @@ erbracht wurden. Über das Bestehen ist ein gesondertes Zeugnis
 auszustellen. Die nicht bestandene Prüfung kann zweimal wiederholt
 werden.
 
-
 ## § 10 Übergangsvorschrift
 
 Die bis zum Ablauf des 31. August 2009 begonnenen Prüfungsverfahren
 können nach den bisherigen Vorschriften zu Ende geführt werden.
-
 
 ## § 11 Inkrafttreten, Außerkrafttreten
 
@@ -977,7 +965,6 @@ Gleichzeitig treten die Rechtsvorschriften der zuständigen Stellen
 über die Prüfung Werkschutzmeister/Werkschutzmeisterin außer Kraft.
 
 (2)
-
 
 ## Anlage 1 (zu § 7 Abs. 5)
 
@@ -1007,7 +994,6 @@ vom 23. Juli 2010 (BGBl. I S. 1010) geändert worden ist, bestanden.
 Datum ..........................................
 Unterschrift(en) ...............................
 (Siegel der zuständigen Stelle)
-
 
 ## Anlage 2 (zu § 7 Abs. 5)
 

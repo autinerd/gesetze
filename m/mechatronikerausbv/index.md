@@ -20,7 +20,6 @@ Fundstelle
     veröffentlicht als Beilage Nummer 168a zum Bundesanzeiger Nr. 168 vom
     9\. September 1998, gilt fort.
 
-
 ## Eingangsformel
 
 Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des
@@ -30,17 +29,14 @@ geändert worden ist, verordnet das Bundesministerium für Wirtschaft
 und Technologie im Einvernehmen mit dem Bundesministerium für Bildung
 und Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf des Mechatronikers und der Mechatronikerin wird
 nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
-
 ## § 2 Dauer der Berufsausbildung
 
 Die Ausbildung dauert dreieinhalb Jahre.
-
 
 ## § 3 Ausbildungsrahmenplan, Ausbildungsberufsbild
 
@@ -116,10 +112,6 @@ gliedert sich wie folgt (Ausbildungsberufsbild):
 
 20. Instandhalten mechatronischer Systeme.
 
-
-
-
-
 ## § 4 Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
@@ -140,7 +132,6 @@ Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
 Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
 durchzusehen.
 
-
 ## § 5 Abschlussprüfung
 
 Die Abschlussprüfung besteht aus den beiden zeitlich
@@ -156,7 +147,6 @@ Gegenstand von Teil 1 der Abschlussprüfung waren, in Teil 2 der
 Abschlussprüfung nur insoweit einbezogen werden, als es für die
 Feststellung der Berufsfähigkeit nach § 38 des Berufsbildungsgesetzes
 erforderlich ist.
-
 
 ## § 6 Teil 1 der Abschlussprüfung
 
@@ -206,7 +196,6 @@ Fachgespräche und schriftliche Aufgabenstellungen beinhaltet.
 Fachgespräche insgesamt höchstens zehn Minuten umfassen sollen. Die
 schriftlichen Aufgabenstellungen sollen einen zeitlichen Umfang von 90
 Minuten haben.
-
 
 ## § 7 Teil 2 der Abschlussprüfung
 
@@ -403,10 +392,6 @@ folgende Vorgaben:
 
 3.  die Prüfungszeit beträgt 60 Minuten.
 
-
-
-
-
 ## § 8 Gewichtungs- und Bestehensregelung
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
@@ -475,13 +460,11 @@ Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und
 das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu
 gewichten.
 
-
 ## § 9 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2011 in Kraft. Gleichzeitig tritt
 die Verordnung über die Berufsausbildung zum Mechatroniker/zur
 Mechatronikerin vom 4. März 1998 (BGBl. I S. 408) außer Kraft.
-
 
 ## Anlage (zu § 3 Absatz 1 Satz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Mechatroniker und zur Mechatronikerin
 

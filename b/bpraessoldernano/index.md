@@ -18,13 +18,11 @@ Fundstelle
 Geändert durch
 :   Art. 1 AnO v. 17.3.1972 I 499
 
-
 ## Eingangsformel
 
 Auf Grund des § 4 Abs. 2 des Soldatengesetzes in der Fassung der
 Bekanntmachung vom 22. April 1969 (Bundesgesetzbl. I S. 313) ordne ich
 an:
-
 
 ## Art 1
 
@@ -40,12 +38,10 @@ Wehrpflichtgesetzes bleibt unberührt.
 auch in den Fällen vor, in denen ich die Ausübung meiner Befugnisse
 übertragen habe.
 
-
 ## Art 2
 
 Die zur Durchführung dieser Anordnung erforderlichen Bestimmungen
 erlassen die Bundesminister der Verteidigung und des Innern.
-
 
 ## Art 3
 

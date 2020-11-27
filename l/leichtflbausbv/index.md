@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1986, 2112
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
@@ -25,12 +23,10 @@ August 1976 (BGBl. I S. 2525) geändert worden ist, wird im
 Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft
 verordnet:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufs
 
 Der Ausbildungsberuf Leichtflugzeugbauer/Leichtflugzeugbauerin wird
 staatlich anerkannt.
-
 
 ## § 2 Ausbildungsdauer
 
@@ -41,7 +37,6 @@ des Berufsbildungsgesetzes als erstes Jahr der Berufsausbildung
 anzurechnen ist, beginnen die betriebliche Ausbildung im zweiten
 Ausbildungsjahr.
 
-
 ## § 3 Berufsfeldbreite Grundbildung
 
 Die Ausbildung im ersten Ausbildungsjahr vermittelt eine
@@ -49,7 +44,6 @@ berufsfeldbreite Grundbildung, wenn die betriebliche Ausbildung nach
 dieser Verordnung und die Ausbildung in der Berufsschule nach den
 landesrechtlichen Vorschriften über das Berufsgrundbildungsjahr
 erfolgen.
-
 
 ## § 4 Ausbildungsberufsbild
 
@@ -100,10 +94,6 @@ Fertigkeiten und Kenntnisse:
 
 15. Warten und Instandsetzen von Leichtflugzeugen.
 
-
-
-
-
 ## § 5 Ausbildungsrahmenplan
 
 Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der Anlage
@@ -115,12 +105,10 @@ innerhalb der beruflichen Fachbildung abweichende sachliche und
 zeitliche Gliederung des Ausbildungsinhalts ist insbesondere zulässig,
 soweit betriebspraktische Besonderheiten diese Abweichungen erfordern.
 
-
 ## § 6 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 7 Berichtsheft
 
@@ -128,7 +116,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 8 Zwischenprüfung
 
@@ -189,7 +176,6 @@ berücksichtigen.
 (5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere
 unterschritten werden, soweit die schriftliche Prüfung in
 programmierter Form durchgeführt wird.
-
 
 ## § 9 Abschlußprüfung
 
@@ -336,7 +322,6 @@ der Kenntnisprüfung sowie innerhalb der Kenntnisprüfung im
 Prüfungsfach Technologie mindestens ausreichend Leistungen erbracht
 sind.
 
-
 ## § 10 Aufhebung von Vorschriften
 
 Die bisher festgelegten Berufsbilder, Berufsbildungspläne und
@@ -346,7 +331,6 @@ geregelt sind, insbesondere für den Ausbildungsberuf
 Holzflugzeugbauer/Holzflugzeugbauerin, sind vorbehaltlich des § 11
 nicht mehr anzuwenden.
 
-
 ## § 11 Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
@@ -354,17 +338,14 @@ Verordnung bestehen, sind die bisherigen Vorschriften weiter
 anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
 Anwendung der Vorschriften dieser Verordnung.
 
-
 ## § 12 Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 112 des Berufsbildungsgesetzes auch im Land Berlin.
 
-
 ## § 13 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 1987 in Kraft.
-
 
 ## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Leichtflugzeugbauer/zur Leichtflugzeugbauerin
 
@@ -961,10 +942,6 @@ Diese Verordnung tritt am 1. August 1987 in Kraft.
 *    *   b)
 
     *   Schäden an Zelle, Beschlägen und Bordgeräten feststellen
-
-
-
-
 
 ## Anhang EV Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III (BGBl. II 1990, 889, 1135)
 

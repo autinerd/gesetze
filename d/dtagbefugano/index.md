@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 1044
 
-
 ## I. Wahrnehmung der Befugnisse von Dienstbehörden und Dienstvorgesetzten
 
 Nach § 3 Absatz 1 Satz 1 des Postpersonalrechtsgesetzes vom 14.
@@ -52,13 +51,6 @@ Vorschlag des Vorstands der Deutschen Telekom AG an:
 
     c)  von der Leitung des Betriebs Personal-Service-Telekom.
 
-
-
-
-
-
-
-
 ## II. Übertragung der Ernennungs- und Entlassungsbefugnisse
 
 
@@ -84,10 +76,6 @@ Vorschlag des Vorstands der Deutschen Telekom AG an:
 
 2.  Das Bundesministerium der Finanzen behält sich vor, die Befugnisse im
     Einzelfall selbst auszuüben.
-
-
-
-
 
 ## III. Inkrafttreten, Außerkrafttreten
 

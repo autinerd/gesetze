@@ -15,14 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1953, 122
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 20 des Deutschen Beamtengesetzes vom 26. Januar 1937
 (Reichsgesetzbl. I S. 39) in der Fassung der Bekanntmachung vom 30.
 Juni 1950 (Bundesgesetzbl. S. 279) ordne ich an:
-
 
 ## I.
 
@@ -36,7 +33,6 @@ Vorsitzenden der Bundesdisziplinarkammern eine breite weiße Binde mit
 herabhängenden Enden, die Urkundsbeamten eine einfache weiße
 Halsbinde.
 
-
 ## II.
 
 Die Farbe der Amtstracht ist für die Richter und die Beamten bei dem
@@ -49,7 +45,6 @@ für die Bundesrichter und die Vorsitzenden der
 Bundesdisziplinarkammern aus Samt, für den Bundesdisziplinaranwalt und
 die für ihn auftretenden Beamten aus Seide, für die Urkundsbeamten aus
 Wollstoff.
-
 
 ## III.
 
@@ -78,10 +73,6 @@ e)  die für den Bundesdisziplinaranwalt auftretenden Beamten eine Spange
 
 
     tätig werden.
-
-
-
-
 
 ## IV.
 

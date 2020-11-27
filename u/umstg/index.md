@@ -18,14 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 9 Nr. 1 G v. 20.12.1982 I 1857
 
-
 ## Teil I - Reichsmarkguthaben bei Geldinstituten
 
-
-
 ### Erster Abschnitt - Allgemeine Bestimmungen
-
-
 
 #### § 1 Begriffsbestimmungen
 
@@ -166,10 +161,6 @@ Währungsgesetzes (WG):
 
 6.  Reichsmark-Abwicklungskonto (§ 14 WG).
 
-
-
-
-
 #### § 2 Umwandlung und Ablösung der Altgeldguthaben
 
 (1) Die Altgeldguthaben der Gruppe I werden grundsätzlich in der Weise
@@ -186,10 +177,7 @@ innerhalb von 90 Tagen entschieden werden wird.
 (4) Die Altgeldguthaben der Gruppe IV sind von den Geldinstituten ohne
 weiteres nach Abs. 1 in Neugeldguthaben umzuwandeln.
 
-
 ### Zweiter Abschnitt - Weitere Bestimmungen für Altgeldguthaben Gruppe I
-
-
 
 #### § 3 Freigabe der Altgeldguthaben zur Umwandlung in Neugeldguthaben
 
@@ -202,7 +190,6 @@ umwandeln.
 (2) Die Abwicklungsbank darf Altgeldguthaben nur unter den in den §§ 4
 bis 7 bestimmten Voraussetzungen zur Umwandlung in Neugeldguthaben
 freigeben.
-
 
 #### § 4 Anrechnung der Kopfbeträge und der Geschäftsbeträge
 
@@ -226,13 +213,6 @@ b)  zum Ausgleich des Geschäftsbetrages
 
     *   um je zehn Reichsmark für jede Deutsche Mark des Geschäftsbetrages.
 
-
-
-
-
-
-
-
 #### § 5 Sofortfreigabe
 
 (1) Von dem Gesamtbetrag der Altgeldguthaben einer alleinstehenden
@@ -252,7 +232,6 @@ Unternehmen durch Vorlage einer Bescheinigung des Arbeitsamtes oder
 durch Lohnsteuerlisten nachweist, daß es mindestens zwanzig
 Arbeitnehmer beschäftigt.
 
-
 #### § 6 Freigabe der restlichen Altgeldguthaben
 
 (1) Über ein Guthaben, das dem Verfügungsverbot des § 2 Abs. 1 Satz 2
@@ -264,7 +243,6 @@ vorgesehenen Verfahrens Verfügungen über das Guthaben genehmigt.
 4 bezeichneten Beträge und der nach § 5 freigegebenen Beträge
 verbleibt, nur mit Genehmigung des Finanzamts zur Umwandlung in
 Neugeldguthaben freigegeben werden.
-
 
 #### § 7 Überprüfung der Altgeldguthaben durch das Finanzamt
 
@@ -328,7 +306,6 @@ Umwandlung nicht übersteigt, sind die in Deutscher Mark beigetriebenen
 Beträge für Rechnung des Landes an die Landeszentralbank abzuführen
 und zur Tilgung von Ausgleichsforderungen (§ 11) zu verwenden.
 
-
 #### § 8 Behandlung der nichtgemeldeten Altgeldguthaben der Gruppe I
 
 (1) Aus Altgeldguthaben der Gruppe I, die nicht innerhalb der Frist
@@ -359,10 +336,7 @@ Beifügung des Bescheides anzumelden. Die Vorschriften des
 Währungsgesetzes finden auf diese Meldung und auf die weitere
 Behandlung solcher Altgeldguthaben sinngemäß Anwendung.
 
-
 ### Dritter Abschnitt - Altgeldguthaben, Gruppe III
-
-
 
 #### § 9
 
@@ -371,10 +345,7 @@ nicht etwas anderes bestimmen, begründen die nichtmeldepflichtigen
 Altgeldguthaben keinen Anspruch auf Umwandlung in Neugeldguthaben.
 Diese Altgeldguthaben erlöschen.
 
-
 ### Vierter Abschnitt - Deckung der aus der Umstellung des Geldwesens hervorgehenden Verbindlichkeiten der Geldinstitute
-
-
 
 #### § 10 Deckung durch flüssige Mittel
 
@@ -402,7 +373,6 @@ gutgeschrieben.
 Bestände an Kleingeldzeichen, die auf Deutsche Mark umgestellt sind,
 werden auf die nach den Abs. 1 und 2 vorzunehmenden Gutschriften
 angerechnet.
-
 
 #### § 11 Deckung durch Ausgleichsforderungen gegen die öffentliche Hand
 
@@ -432,7 +402,6 @@ Besatzungsgebiets, gegenüber den übrigen Geldinstituten die Länder.
 Geldinstituten und nur zum Nennwert veräußert und erworben werden. Sie
 sind in den Bilanzen der Geldinstitute zum Nennwert einzusetzen.
 
-
 #### § 12 Ausstattung der Geldinstitute mit einem angemessenen Eigenkapital
 
 (1) Die Zuteilung von Ausgleichsforderungen an die Geldinstitute ist
@@ -458,14 +427,9 @@ Dezember 1947 ausgewiesenen Eigenkapitals nicht übersteigen. Ein
 etwaiger Überschuß über diesen Betrag fällt nach näherer Bestimmung
 einer Durchführungsverordnung der öffentlichen Hand zu.
 
-
 ## Teil II - Schuldverhältnisse
 
-
-
 ### Erster Abschnitt - Allgemeine Bestimmungen
-
-
 
 #### § 13 Begriffsbestimmungen
 
@@ -505,10 +469,6 @@ b)  juristische Personen und Personenvereinigungen, die am 8. Mai 1945
     gemäß den Gesetzen einer der Vereinten Nationen bestanden und am 27.
     Juni 1948 gemäß den Gesetzen einer der Vereinten Nationen bestehen.
 
-
-
-
-
 #### § 14 Verbindlichkeiten des Reichs und gleichgestellte Verbindlichkeiten
 
 Vorbehaltlich einer allgemeinen Regelung für die Ansprüche der im § 13
@@ -536,15 +496,11 @@ auf folgende Reichsmarkverbindlichkeiten keine Anwendung:
 
 5\.
 
-
 #### § 15
 
 -
 
-
 ### Zweiter Abschnitt - Allgemeine Schuldverhältnisse
-
-
 
 #### § 16 Umstellung der Reichsmarkverbindlichkeiten auf Deutsche Mark
 
@@ -557,14 +513,12 @@ zehn Reichsmark eine Deutsche Mark zu zahlen hat.
 (3) Die Heranziehung der Schuldnergewinne zum Lastenausgleich obliegt
 der deutschen Gesetzgebung.
 
-
 #### § 17 Rechnungserteilung für Reichsmarkverbindlichkeiten
 
 Eine vor dem 21. Juni begründete Verbindlichkeit verliert nicht
 dadurch die Eigenschaft einer Reichsmarkverbindlichkeit, daß der
 Gläubiger die Rechnung für die von ihm vor diesem Zeitpunkt bewirkte
 Leistung erst nach dem 20. Juni 1948 vorlegt.
-
 
 #### § 18 Sonderregelung für bestimmte Reichsmarkverbindlichkeiten
 
@@ -601,7 +555,6 @@ für einen vor dem 1. Juni 1948 liegenden Zeitraum geschuldet werden.
 (3) Alle Reichsmarkverbindlichkeiten aus Schuldverhältnissen zwischen
 Geldinstituten im Währungsgebiet erlöschen.
 
-
 #### § 19 Umstellung von Kriegsgefangenen-Zertifikaten
 
 (1) Auf englische Pfunde, nordamerikanische Dollars oder französische
@@ -627,7 +580,6 @@ sind, werden durch Beiträge der drei Militärregierungen des
 Währungsgebiets aufgebracht und auf die Länder im Verhältnis zu ihrer
 Bevölkerungszahl aufgeteilt.
 
-
 #### § 20 Rücktrittsrecht bei Lieferverträgen
 
 (1) Der Schuldner einer unter § 18 Abs. 1 Ziff. 2 fallenden Geldschuld
@@ -648,7 +600,6 @@ Stoff, so wird der gemeine Wert, den das Werk im Zeitpunkt des
 Rücktritts hat, auf den Anspruch des Gläubigers auf Ersatz seiner
 Aufwendungen angerechnet.
 
-
 #### § 21 Vertragshilfe
 
 (1) bis (3)
@@ -660,10 +611,7 @@ Leistung verweigern, soweit er selbst nicht befriedigt worden ist.
 Entsprechendes gilt für das Verhältnis mehrerer Vorlieferanten
 untereinander.
 
-
 ### Dritter Abschnitt - Pfandbriefe und verwandte Schuldverschreibungen
-
-
 
 #### § 22
 
@@ -687,10 +635,7 @@ verzinst. Näheres regelt eine Durchführungsverordnung. Diese kann den
 Zinssatz der Schuldverschreibungen und Schuldurkunden für einen von
 ihr zu bestimmenden Zeitraum herabsetzen.
 
-
 ### Vierter Abschnitt - Versicherung
-
-
 
 #### § 23 Sozialversicherung
 
@@ -704,7 +649,6 @@ demselben Nennbetrag in Deutscher Mark zu leisten wie bisher in
 Reichsmark. Die Landesregierungen können die Versicherungsleistungen
 und die Beiträge bis zum Erlaß der im Satz 1 vorgesehenen Gesetze
 anderweitig festsetzen.
-
 
 #### § 24 Versicherung außerhalb der Sozialversicherung
 
@@ -773,7 +717,6 @@ bezeichneten Art auf dieses Land zu übertragen.
 Erlöschen von solchen Lebensversicherungsverträgen treffen, für die
 seit mehr als zwölf Monaten fällige Prämien nicht gezahlt wurden.
 
-
 #### § 25 Bausparkassen
 
 Für die Umstellung der Guthaben der Bausparer gilt grundsätzlich die
@@ -788,10 +731,7 @@ für den Fall, daß die Militärregierung von dem Vorbehalt des
 § 16 Abs. 2              Gebrauch macht, wie sich die Zuerkennung
 weiterer Ansprüche auf das Bausparverhältnis auswirkt.
 
-
 ## Teil III - Vorschriften verschiedenen Inhalts
-
-
 
 ### § 26 Verfügungsbeschränkungen
 
@@ -800,7 +740,6 @@ nicht als Verfügung oder Geschäft im Sinne der Gesetze Nr. 52 und 53
 der Militärregierung.
 
 (2)
-
 
 ### § 27 Anpassungsmaßnahmen auf dem Gebiete des Arbeitsrechts und des Beamtenrechts
 
@@ -855,11 +794,9 @@ Versorgungsrechts, die Maßnahmen zu treffen, die ihnen zur Sicherung
 der Währung und der öffentlichen Finanzen geboten erscheinen. Diese
 Ermächtigung tritt am 31. März 1949 außer Kraft.
 
-
 ### § 28
 
 -
-
 
 ### § 29 Lastenausgleich
 
@@ -874,11 +811,9 @@ Entschädigung zu gewähren ist. Hierbei sind insbesondere Verluste auf
 Grund des Kontrollratsgesetzes Nr. 5 und infolge von
 Reparationsentnahmen zu berücksichtigen.
 
-
 ### § 30
 
 -
-
 
 ### § 31 Vorübergehende Rediskontierung von eigenen Wechseln
 
@@ -896,14 +831,12 @@ Wechsel darf nicht mehr als 45 Tage betragen.
 Höchstbetrag von zehn vom Hundert der gesamten Verbindlichkeiten des
 rediskontierenden Geldinstituts ankaufen.
 
-
 ### § 32 Kreditbeschränkungen
 
 Soweit die Bank Deutscher Länder nichts anderes bestimmt, dürfen die
 Geldinstitute bis zum 8. August 1948 außer Wechselkrediten gegen
 Handelswechsel oder gegen eigene Wechsel der im § 31 bezeichneten Art
 und außer Krediten an die öffentliche Hand keine Kredite gewähren.
-
 
 ### § 33 Strafvorschriften
 
@@ -946,7 +879,6 @@ Mark bestraft werden.
 Artikel VI Ziff. 10 des Militärregierungsgesetzes Nr. 2 ermächtigt, im
 Falle von Verstößen gegen dieses Gesetz die Gerichtsbarkeit auszuüben.
 
-
 ### § 34 Schlußbestimmungen
 
 (1) Der deutsche Wortlaut dieses Gesetzes ist der maßgebende Wortlaut.
@@ -963,7 +895,6 @@ erlöschen hiermit.
 
 (4)
 
-
 ### § 35 Inkrafttreten
 
 Text amerikanisches Kontrollgebiet:
@@ -979,7 +910,6 @@ Text französisches Kontrollgebiet:
 Diese Verordnung tritt am 27. Juni 1948 in Kraft. Sie ist im Amtsblatt
 des französischen Oberkommandos in Deutschland zu veröffentlichen und
 als Gesetz auszuführen.
-
 
 ### Anhang
 

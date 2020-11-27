@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 1850
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 20 Abs. 2 Satz 1 bis 3 des Arbeitsschutzgesetzes vom
@@ -28,12 +26,10 @@ verordnet das Bundesministerium der Verteidigung im Einvernehmen mit
 dem Bundesministerium für Arbeit und Sozialordnung und dem
 Bundesministerium des Innern:
 
-
 ## § 1 Geltungsbereich
 
 Diese Verordnung gilt für den Geschäftsbereich des Bundesministeriums
 der Verteidigung.
-
 
 ## § 2 Pflichten des Arbeitgebers
 
@@ -44,7 +40,6 @@ Arbeitsschutzgesetzes genannten Beschäftigten in seinem
 Geschäftsbereich auch dann zu erreichen, wenn die Ausübung der in
 dieser Verordnung genannten Tätigkeiten nicht ohne ein Abweichen von
 Vorschriften des Arbeitsschutzgesetzes möglich ist.
-
 
 ## § 3 Tätigkeiten
 
@@ -76,7 +71,6 @@ oder durch ein anderes Gesetz zugewiesenen Aufgaben
 
 aus.
 
-
 ## § 4 Voraussetzungen für ein Abweichen von Vorschriften des Arbeitsschutzgesetzes
 
 (1) Soweit öffentliche Belange dies zwingend erfordern, insbesondere
@@ -92,7 +86,6 @@ Sicherheit der Einsatzkräfte ohne ein Abweichen von Vorschriften des
 Arbeitsschutzgesetzes nicht erreicht werden können. Dies wird durch
 das Bundesministerium der Verteidigung, bei Gefahr im Verzuge durch
 den Dienststellenleiter, festgestellt.
-
 
 ## § 5 Gewährleistung der Sicherheit und des Gesundheitsschutzes
 
@@ -132,7 +125,6 @@ von Vorschriften des Arbeitsschutzgesetzes. Dieser soll bei der
 Gefährdungsbeurteilung Fachpersonal hören und hat die anerkannten
 sicherheitstechnischen und arbeitsmedizinischen Standards zu
 berücksichtigen. Die Entscheidung ist regelmäßig zu dokumentieren.
-
 
 ## § 6 Inkrafttreten
 

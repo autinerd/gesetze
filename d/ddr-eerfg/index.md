@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2003, 2471, 2473 (2004 I 1654)
 
-
-
 ## § 1 Anspruch auf nachträgliche Erfüllung eines Entschädigungsanspruchs
 
 (1) Ist ein Anspruch auf Entschädigung nach den zum Zeitpunkt der
@@ -66,10 +64,6 @@ Entschädigung
 4.  bei Ansprüchen auf bewegliche Sachen nach § 5a des
     Entschädigungsgesetzes.
 
-
-
-
-
 ## § 2 Rechte an enteigneten Grundstücken
 
 Gläubiger von Rechten an einem Grundstück oder Gebäude, die bei
@@ -83,7 +77,6 @@ Forderungen den Entschädigungsbetrag, so sind die Leistungen für die
 Forderungen entsprechend zu kürzen. § 3 Abs. 4 Satz 3 und 4 des
 Entschädigungsgesetzes vom 27. September 1994 (BGBl. I S. 2624) gilt
 entsprechend.
-
 
 ## § 3 Währungsumstellung
 
@@ -101,7 +94,6 @@ für das Jahr zu verzinsen. Entsprechendes gilt für die in Mark der
 Deutschen Demokratischen Republik begründeten nach § 2 aus der
 Entschädigung zu erfüllenden Forderungen.
 
-
 ## § 4 Zuständigkeit
 
 Über Ansprüche nach den §§ 1 und 2 entscheiden die für die
@@ -115,7 +107,6 @@ werden ermächtigt, anstelle der nach Satz 1 und 2 zuständigen Behörde
 durch Rechtsverordnung einer anderen Landesbehörde die Aufgaben nach
 diesem Gesetz zu übertragen.
 
-
 ## § 5 Antragsfrist
 
 Anträge nach den §§ 1 und 2 können bis zum 16. Juni 2004 gestellt
@@ -123,14 +114,12 @@ werden (Ausschlussfrist). Ein Antrag nach dem Vermögensgesetz, über
 den noch nicht bestandskräftig entschieden worden ist, gilt als Antrag
 nach dieser Vorschrift.
 
-
 ## § 6 Verfahren
 
 Die Abschnitte V und VI des Vermögensgesetzes gelten entsprechend. §
 32 Abs. 1 des Vermögensgesetzes findet keine Anwendung. Für
 Widerspruchsverfahren gilt § 26 Abs. 3 des Vermögensgesetzes
 entsprechend.
-
 
 ## § 7 Ausschluss doppelter Entschädigung
 

@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 2414
 
-
 ## Eingangsformel
 
 Auf Grund des § 7 des Europawahlgesetzes in der Fassung der

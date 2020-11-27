@@ -21,7 +21,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 281 V v. 31.10.2006 I 2407
 
-
 ## § 1
 
 (1) Dieses Gesetz gilt für Kreuzungen von Eisenbahnen und Straßen.
@@ -46,7 +45,6 @@ Straßen kreuzen, wie Eisenbahnen behandelt.
 des Schienenwegs der kreuzenden Eisenbahn trägt, und der Träger der
 Baulast der kreuzenden Straße.
 
-
 ## § 2
 
 (1) Neue Kreuzungen von Eisenbahnen und Straßen, die nach der
@@ -60,7 +58,6 @@ welche Sicherungsmaßnahmen an der Kreuzung mindestens zu treffen sind.
 
 (3) Eine Kreuzung im Sinne des Absatzes 1 ist neu, wenn einer der
 beiden Verkehrswege oder beide Verkehrswege neu angelegt werden.
-
 
 ## § 3
 
@@ -81,10 +78,6 @@ Anordnung im Kreuzungsrechtsverfahren (§§ 6 und 7) Kreuzungen
     Herstellung von Sichtflächen an Bahnübergängen, die nicht technisch
     gesichert sind, oder in sonstiger Weise zu ändern.
 
-
-
-
-
 ## § 4
 
 (1) Erfordert die Linienführung einer neu zu bauenden Straße oder
@@ -95,7 +88,6 @@ Belange sind angemessen zu berücksichtigen.
 (2) Ist eine Kreuzungsanlage durch eine Maßnahme nach § 3 zu ändern,
 so haben die Beteiligten die Änderung zu dulden. Ihre verkehrlichen
 und betrieblichen Belange sind angemessen zu berücksichtigen.
-
 
 ## § 5
 
@@ -116,12 +108,10 @@ Beteiligter oder ein Dritter bereit erklärt, die Kosten für die
 den Vorschriften dieses Gesetzes allein zu tragen, und für die
 Maßnahme ein Planfeststellungsverfahren durchgeführt wird.
 
-
 ## § 6
 
 Kommt eine Vereinbarung nicht zustande, so kann jeder Beteiligte eine
 Anordnung im Kreuzungsrechtsverfahren beantragen.
-
 
 ## § 7
 
@@ -129,7 +119,6 @@ Die Anordnungsbehörde kann das Kreuzungsrechtsverfahren auch ohne
 Antrag einleiten, wenn die Sicherheit oder die Abwicklung des Verkehrs
 eine Maßnahme erfordert. Sie kann verlangen, daß die Beteiligten Pläne
 für Maßnahmen nach § 3 vorlegen.
-
 
 ## § 8
 
@@ -141,11 +130,9 @@ Landesregierung bestimmten Behörde.
 (2) In sonstigen Fällen entscheidet als Anordnungsbehörde die von der
 Landesregierung bestimmte Behörde.
 
-
 ## § 9
 
 -
-
 
 ## § 10
 
@@ -175,7 +162,6 @@ Beteiligten darüber entscheiden.
 (6) Die Entscheidung ist mit Gründen zu versehen und den Beteiligten
 zuzustellen.
 
-
 ## § 11
 
 (1) Wird eine neue Kreuzung hergestellt, so hat der Beteiligte, dessen
@@ -186,7 +172,6 @@ notwendigen Änderungen des anderen Verkehrswegs.
 (2) Werden eine Eisenbahn und eine Straße gleichzeitig neu angelegt,
 so haben die Beteiligten die Kosten der Kreuzungsanlage je zur Hälfte
 zu tragen.
-
 
 ## § 12
 
@@ -204,10 +189,6 @@ fallen die dadurch entstehenden Kosten
     Verhältnis, in dem die Kosten bei getrennter Durchführung der Änderung
     zueinander stehen würden. Nummer 1 Satz 2 ist entsprechend anzuwenden.
 
-
-
-
-
 ## § 13
 
 (1) Wird an einem Bahnübergang eine Maßnahme nach § 3 durchgeführt, so
@@ -222,7 +203,6 @@ zu den Kosten nach Absatz 1 nur die Kosten, die sich bei Vornahme der
 ersparten Änderung ergeben würden. Die übrigen Kosten trägt derjenige
 Beteiligte allein, an dessen Verkehrsweg die Baumaßnahme durchgeführt
 wird.
-
 
 ## § 14
 
@@ -253,7 +233,6 @@ entstehenden persönlichen und sächlichen Aufwendungen.
 
 (3) Eisenbahnüberführungen und Schutzerdungsanlagen gehören zu den
 Eisenbahnanlagen, Straßenüberführungen zu den Straßenanlagen.
-
 
 ## § 14a
 
@@ -288,7 +267,6 @@ Rechten und Pflichten zu übertragen. Für die Übertragung des Eigentums
 ist eine angemessene Entschädigung in Geld zu gewähren, wobei der
 Verkehrswert des Grundstücks zugrunde zu legen ist.
 
-
 ## § 15
 
 (1) Wird eine neue Kreuzung hergestellt, so hat im Fall des § 11 Abs.
@@ -309,7 +287,6 @@ ohne Ausgleich zu tragen.
 (4) In den Fällen des Absatzes 1 Satz 1 sowie des Absatzes 2 ist auf
 Verlangen eines Beteiligten die Erhaltungs- und Betriebslast
 abzulösen.
-
 
 ## § 16
 
@@ -340,19 +317,16 @@ mit Zustimmung des Bundesrates Rechtsverordnungen erlassen, durch die
 (2) Allgemeine Verwaltungsvorschriften erläßt das Bundesministerium
 für Verkehr, Bau und Stadtentwicklung mit Zustimmung des Bundesrates.
 
-
 ## § 17
 
 Zur Förderung der Beseitigung von Bahnübergängen und für sonstige
 Maßnahmen nach den §§ 2 und 3 soll die Anordnungsbehörde den
 Beteiligten Zuschüsse gewähren.
 
-
 ## § 18
 
 Die Aufsichtsbehörden haben die Durchführung der Anordnung nach diesem
 Gesetz sicherzustellen.
-
 
 ## § 19
 
@@ -375,11 +349,9 @@ hat. Als ordnungsgemäßer Erhaltungszustand gilt eine entsprechend
 seinen Vorschriften durchgeführte Unterhaltung der Straßenüberführung
 bis zum Zeitpunkt des gesetzlichen Übergangs der Baulast.
 
-
 ## § 20
 
 -
-
 
 ## § 21
 

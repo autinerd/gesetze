@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 29.7.2003 I 1543
 
-
 ## Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
@@ -34,7 +33,6 @@ des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S.
 3165) und dem Organisationserlass vom 22. Oktober 2002 (BGBl. I S.
 4206) verordnet das Bundesministerium für Wirtschaft und Arbeit im
 Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
-
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
@@ -53,7 +51,6 @@ Klimatechnik wird
 
 staatlich anerkannt.
 
-
 ## § 2 Ausbildungsdauer
 
 (1) Die Ausbildung dauert dreieinhalb Jahre.
@@ -64,7 +61,6 @@ einer Rechtsverordnung gemäß § 27a Abs. 1 der Handwerksordnung und §
 29 Abs. 1 des Berufsbildungsgesetzes als erstes Jahr der
 Berufsausbildung anzurechnen ist, beginnen die betriebliche Ausbildung
 im zweiten Ausbildungsjahr.
-
 
 ## § 3 Berufsfeldbreite Grundbildung und Zielsetzung der Berufsbildung
 
@@ -80,7 +76,6 @@ einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Abs. 2 des
 Berufsbildungsgesetzes befähigt werden, die insbesondere selbständiges
 Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung
 ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
-
 
 ## § 4 Ausbildungsberufsbild
 
@@ -199,7 +194,6 @@ Das Handlungsfeld wird vom Ausbildungsbetrieb festgelegt. Andere
 Handlungsfelder sind zulässig, wenn in ihnen die Fertigkeiten und
 Kenntnisse nach Absatz 1 vermittelt werden können.
 
-
 ## § 5 Ausbildungsrahmenplan
 
 Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der Anlage
@@ -209,12 +203,10 @@ dem Ausbildungsrahmenplan abweichende sachliche und zeitliche
 Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit
 betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
 ## § 6 Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans
 für die Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 7 Berichtsheft
 
@@ -222,7 +214,6 @@ Die Auszubildenden haben ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden
 haben das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 8 Zwischenprüfung
 
@@ -255,7 +246,6 @@ der Prüfling zeigen, dass er fachbezogene Probleme und deren Lösungen
 darstellen, die für die Arbeitsaufgabe wesentlichen fachlichen
 Hintergründe aufzeigen sowie die Vorgehensweise bei der Durchführung
 der Arbeitsaufgabe begründen kann.
-
 
 ## § 9 Gesellenprüfung/Abschlussprüfung
 
@@ -412,7 +402,6 @@ in zwei der Prüfungsbereiche mindestens ausreichende Leistungen zu
 erbringen. Werden die Prüfungsleistungen in einem der Prüfungsbereiche
 mit ungenügend bewertet, so ist die Prüfung nicht bestanden.
 
-
 ## § 10 Übergangsregelung
 
 (1) Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
@@ -460,11 +449,9 @@ nach Landesrecht der Besuch eines schulischen
 Berufsgrundbildungsjahres vorgesehen, sind die bisherigen Vorschriften
 bis zum 31. Juli 2004 weiter anzuwenden.
 
-
 ## § 11 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2003 in Kraft.
-
 
 ## Anlage (zu § 7) Ausbildungsrahmenplan für die Berufsausbildung zum Anlagenmechaniker für Sanitär- Heizungs- und Klimatechnik/zur Anlagenmechanikerin für Sanitär-, Heizungs- und Klimatechnik
 

@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2003, 158
 
-
-
 ## (XXXX)
 
 Der Bundesminister der Verteidigung hat am 6. November 2002 den Erlass
@@ -32,7 +30,6 @@ und Verleihung von Orden und Ehrenzeichen vom 2. Mai 1996 (BGBl. I S.
 Der Bundesminister des Innern veröffentlicht den Erlass zur Änderung
 des Erlasses über die Stiftung der Einsatzmedaille der Bundeswehr im
 Bundesanzeiger.
-
 
 ## Schlussformel
 

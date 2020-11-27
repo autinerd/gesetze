@@ -18,8 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 10 V v. 29.10.2008 I 2155
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 81 Abs. 4 des Berufsbildungsgesetzes vom 14. August
@@ -31,7 +29,6 @@ Januar 2001 (BGBl. I S. 127) verordnet das Bundesministerium für
 Verbraucherschutz, Ernährung und Landwirtschaft nach Anhörung des
 Ständigen Ausschusses des Bundesinstituts für Berufsbildung im
 Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
-
 
 ## § 1 Ziel der Meisterprüfung und Bezeichnung des Abschlusses
 
@@ -81,7 +78,6 @@ als Fach- und Führungskraft wahrzunehmen:
 (2) Die erfolgreich abgelegte Prüfung führt zum anerkannten Abschluss
 Winzermeister/Winzermeisterin.
 
-
 ## § 1a Zulassungsvoraussetzungen zur Meisterprüfung
 
 (1) Zur Meisterprüfung ist zuzulassen, wer
@@ -112,7 +108,6 @@ Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche
 Handlungsfähigkeit) erworben hat, die die Zulassung zur Prüfung
 rechtfertigen.
 
-
 ## § 2 Gliederung der Meisterprüfung
 
 (1) Die Meisterprüfung umfasst die Teile
@@ -128,7 +123,6 @@ rechtfertigen.
 
 
 (2) Die Meisterprüfung ist nach Maßgabe der §§ 3 bis 5 durchzuführen.
-
 
 ## § 3 Prüfungsanforderungen im Teil "Produktion, Verfahrenstechnik und Vermarktung"
 
@@ -215,7 +209,6 @@ Auswahl der Weine kundengerecht vorstellen. Für diese
 Prüfungsleistung, einschließlich der Vorstellung der Weine, stehen bis
 zu 120 Minuten zur Verfügung.
 
-
 ## § 4 Prüfungsanforderungen im Teil "Betriebs- und Unternehmensführung"
 
 (1) Der Prüfungsteilnehmer soll nachweisen, dass er wirtschaftliche,
@@ -297,7 +290,6 @@ kennenzulernen. Nach dem Kennenlernen des Betriebes soll die
 Vorbereitung auf das Prüfungsgespräch je Prüfungsteilnehmer nicht
 länger als 120 Minuten und das Prüfungsgespräch selbst nicht länger
 als 60 Minuten dauern.
-
 
 ## § 5 Prüfungsanforderungen im Teil "Berufsausbildung und Mitarbeiterführung"
 
@@ -514,7 +506,6 @@ Prüfung oder für die eindeutige Beurteilung der Prüfungsleistung von
 Bedeutung ist. Die Ergänzungsprüfung soll je Prüfungsteilnehmer nicht
 länger als 30 Minuten dauern.
 
-
 ## § 6 Anrechnung anderer Prüfungsleistungen
 
 Auf Antrag kann die zuständige Stelle den Prüfungsteilnehmer oder die
@@ -525,7 +516,6 @@ einer öffentlichen oder staatlich anerkannten Bildungseinrichtung oder
 vor einem staatlichen Prüfungsausschuss eine Prüfung mit Erfolg
 abgelegt wurde, die den Anforderungen der entsprechenden
 Prüfungsinhalte nach dieser Verordnung entspricht.
-
 
 ## § 7 Bestehen der Meisterprüfung
 
@@ -552,7 +542,6 @@ nicht bestanden, wenn in der gesamten Prüfung mindestens eine der
 Leistungen in den Prüfungen gemäß Absatz 1 mit "ungenügend" oder mehr
 als eine dieser Leistungen mit "mangelhaft" benotet worden ist.
 
-
 ## § 8 Wiederholung der Meisterprüfung
 
 (1) Eine Meisterprüfung, die nicht bestanden ist, kann zweimal
@@ -566,13 +555,11 @@ bewertet worden sind und er sich innerhalb von zwei Jahren, gerechnet
 vom Tage der Beendigung der nicht bestandenen Prüfung an, zur
 Wiederholungsprüfung anmeldet.
 
-
 ## § 9 Übergangsvorschrift
 
 Die bei Inkrafttreten dieser Verordnung laufenden Prüfungsverfahren
 können nach den bis dahin geltenden Vorschriften zu Ende geführt
 werden.
-
 
 ## § 10 Inkrafttreten, Außerkrafttreten
 

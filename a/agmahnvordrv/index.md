@@ -18,13 +18,11 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 19 Abs. 5 G v. 29.7.2009 I 2355
 
-
 ## Eingangsformel
 
 Auf Grund des durch Artikel 3 Nr. 2 der Vereinfachungsnovelle vom 3.
 Dezember 1976 (BGBl. I S. 3281) eingefügten § 46a Abs. 7 des
 Arbeitsgerichtsgesetzes wird mit Zustimmung des Bundesrates verordnet:
-
 
 ## § 1 Vordrucke
 
@@ -100,7 +98,6 @@ ausgeführt werden. Er kann auch als Durchschreibesatz mit einem
 dritten Blatt für eine von dem Antragsgegner zurückzubehaltende
 Durchschrift des Widerspruchs versehen werden.
 
-
 ## § 1a Beschriftung mittels Schreibprogramm
 
 (1) Die in § 174 Abs. 1 der Zivilprozessordnung bezeichneten Personen
@@ -164,7 +161,6 @@ entsprechend.
 Anwendung der vorstehenden Vorschriften auszusetzen, bis die Ursache
 behoben ist.
 
-
 ## § 2 Angaben bei Verbraucherdarlehen und -finanzierungshilfen
 
 (1) Macht ein Unternehmer oder im Fall der Abtretung der Zessionar
@@ -190,7 +186,6 @@ Anlage 1 bestimmten Vordrucks zusätzlich folgende Angaben zu machen (§
 gilt. Effektiver Jahreszins ... %".
 In den Fällen des § 5 des Verbraucherkreditgesetzes genügt die Angabe:
 "Anspruch aus Vertrag, für den das Verbraucherkreditgesetz gilt".
-
 
 ## § 2a Übergang zum Euro
 
@@ -242,7 +237,6 @@ L 162 S. 1) erfolgen. Dem Vermerk gemäß § 1a Abs. 2 Satz 4 ist der
 Satz hinzuzufügen: "Die Geldbeträge sind unter Verwendung des
 amtlichen Kurses von 1 Euro = 1,95583 Deutsche Mark umgerechnet."
 
-
 ## § 2b Überleitungsvorschrift
 
 Der bisher eingeführte Vordruck, in dem die Bezeichnung "DM" oder
@@ -251,11 +245,9 @@ weiterverwendet werden. Alle Angaben auf diesem Vordruck, die die
 Zahlung einer bestimmten Geldsumme zum Gegenstand haben, sind in der
 Währungseinheit "Euro" vorzunehmen.
 
-
 ## § 3 Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 1978 in Kraft.
-
 
 ## Schlußformel
 
@@ -263,13 +255,11 @@ Der Bundesminister
 für Arbeit und Sozialordnung
 Ehrenberg
 
-
 ## Anlage 1
 
 (Inhalt: nicht darstellbare Vordrucke,
 Fundstelle: BGBl. I 1977, 2627 - 2646;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
-
 
 ## Anlage 2
 

@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   RGBl: 1921, 961
 
-
-
 ## (XXXX)
 
 Der Reichstag hat das folgende Gesetz beschlossen, das mit Zustimmung

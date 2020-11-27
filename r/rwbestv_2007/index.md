@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 1113
 
-
-
 ## Eingangsformel
 
 Auf Grund
@@ -66,14 +64,12 @@ Auf Grund
 
 verordnet die Bundesregierung:
 
-
 ## § 1 Festsetzung des aktuellen Rentenwerts und des aktuellen Rentenwerts (Ost)
 
 (1) Der aktuelle Rentenwert beträgt vom 1. Juli 2007 an 26,27 Euro.
 
 (2) Der aktuelle Rentenwert (Ost) beträgt vom 1. Juli 2007 an 23,09
 Euro.
-
 
 ## § 2 Festsetzung des allgemeinen Rentenwerts und des allgemeinen Rentenwerts (Ost) in der Alterssicherung der Landwirte
 
@@ -83,13 +79,11 @@ beträgt vom 1. Juli 2007 an 12,13 Euro.
 (2) Der allgemeine Rentenwert (Ost) in der Alterssicherung der
 Landwirte beträgt vom 1. Juli 2007 an 10,66 Euro.
 
-
 ## § 3 Ausgleichsbedarf und Ausgleichsbedarf (Ost) zum 30. Juni 2008
 
 (1) Der Ausgleichsbedarf beträgt zum 30. Juni 2008 0,9825.
 
 (2) Der Ausgleichsbedarf (Ost) beträgt zum 30. Juni 2008 0,9870.
-
 
 ## § 4 Anpassungsfaktor in der Unfallversicherung
 
@@ -104,7 +98,6 @@ Pflegegeld der gesetzlichen Unfallversicherung im Sinne des § 215 Abs.
 dem 1. Juli 2007 eingetreten sind, werden zum 1. Juli 2007 angepasst.
 Der Anpassungsfaktor beträgt 1,0054.
 
-
 ## § 5 Pflegegeld in der Unfallversicherung
 
 Das Pflegegeld der gesetzlichen Unfallversicherung beträgt vom 1. Juli
@@ -118,14 +111,9 @@ Das Pflegegeld der gesetzlichen Unfallversicherung beträgt vom 1. Juli
 2.  für Versicherungsfälle, für die § 215 Abs. 5 des Siebten Buches
     Sozialgesetzbuch anzuwenden ist, zwischen 257 Euro und 1.029 Euro.
 
-
-
-
-
 ## § 6 Inkrafttreten
 
 Diese Verordnung tritt am 1. Juli 2007 in Kraft.
-
 
 ## Schlussformel
 

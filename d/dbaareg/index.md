@@ -17,12 +17,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 2011, 538
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -31,7 +29,6 @@ Bundesrepublik Deutschland und den Vereinigten Arabischen Emiraten zur
 Vermeidung der Doppelbesteuerung und der Steuerverkürzung auf dem
 Gebiet der Steuern vom Einkommen wird zugestimmt. Das Abkommen wird
 nachstehend veröffentlicht.
-
 
 ## Art 2
 
@@ -48,13 +45,11 @@ Arabischen Emiraten insgesamt eine höhere Belastung ergibt, als sie
 nach den Rechtsvorschriften vor dem Inkrafttreten des Abkommens
 bestand, wird der Steuermehrbetrag nicht festgesetzt.
 
-
 ## Art 3
 
 Die Bundesregierung wird ermächtigt, Verlängerungen der Geltungsdauer
 dieses Abkommens nach seinem Artikel 30 Absatz 1 Satz 2 und 3 mit
 Zustimmung des Bundesrates durch Rechtsverordnung in Kraft zu setzen.
-
 
 ## Art 4
 

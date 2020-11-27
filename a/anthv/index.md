@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 3450, 3453
 
-
-
 ## § 1
 
 (1) Betriebe, die Tiere halten, die der Gewinnung von Lebensmitteln
@@ -59,7 +57,6 @@ jederzeit lesbar gemacht werden können und unveränderlich sind.
 (3) Nachweis nach Absatz 1 über die Anwendung ist die Dokumentation
 nach § 2.
 
-
 ## § 2
 
 Betriebe, die Tiere halten, die der Gewinnung von Lebensmitteln
@@ -96,10 +93,6 @@ zu enthalten:
 
 7.  Name der Person, die das Arzneimittel angewendet hat.
 
-
-
-
-
 ## § 3
 
 (1) Personen, die Arzneimittel berufs- oder gewerbsmäßig bei Tieren
@@ -120,7 +113,6 @@ aufzubewahren und der zuständigen Behörde auf Verlangen vorzulegen.
 (2) Absatz 1 gilt nicht für Personen, die Arzneimittel lediglich zur
 Anwendung bei den von ihnen gehaltenen Tieren erwerben und der
 Nachweispflicht nach § 1 unterliegen.
-
 
 ## § 4
 

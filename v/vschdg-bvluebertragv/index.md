@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 2 G v. 6.2.2012 I 146
 
-
 ## (XXXX)
 
 Ergänzend zu § 2 Nummer 1 Buchstabe a des EG-

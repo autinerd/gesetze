@@ -22,14 +22,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 G v. 5.12.2012 I 2474
 
-
 ## Erster Abschnitt - Grundsätze und Begriffsbestimmungen
 
-
-
 ### Erster Titel - Geltungsbereich und Umfang der Versicherung
-
-
 
 #### § 1 Sachlicher Geltungsbereich
 
@@ -50,7 +45,6 @@ die in den Absätzen 1 und 2 genannt sind, bleiben unberührt, soweit
 sie von den Vorschriften dieses Buches abweichen.
 
 (4) (weggefallen)
-
 
 #### § 2 Versicherter Personenkreis
 
@@ -115,7 +109,6 @@ leisten.
 Versicherungszweigen ergibt sich aus den für sie geltenden besonderen
 Vorschriften.
 
-
 #### § 3 Persönlicher und räumlicher Geltungsbereich
 
 Die Vorschriften über die Versicherungspflicht und die
@@ -130,10 +123,6 @@ Versicherungsberechtigung gelten,
     voraussetzen, für alle Personen, die ihren Wohnsitz oder gewöhnlichen
     Aufenthalt im Geltungsbereich dieses Gesetzbuchs haben.
 
-
-
-
-
 #### § 4 Ausstrahlung
 
 (1) Soweit die Vorschriften über die Versicherungspflicht und die
@@ -146,7 +135,6 @@ zeitlich begrenzt ist.
 
 (2) Für Personen, die eine selbständige Tätigkeit ausüben, gilt Absatz
 1 entsprechend.
-
 
 #### § 5 Einstrahlung
 
@@ -161,15 +149,11 @@ begrenzt ist.
 (2) Für Personen, die eine selbständige Tätigkeit ausüben, gilt Absatz
 1 entsprechend.
 
-
 #### § 6 Vorbehalt abweichender Regelungen
 
 Regelungen des über- und zwischenstaatlichen Rechts bleiben unberührt.
 
-
 ### Zweiter Titel - Beschäftigung und selbständige Tätigkeit
-
-
 
 #### § 7 Beschäftigung
 
@@ -247,7 +231,6 @@ nach § 4 Absatz 3 des Aufenthaltsgesetzes erforderliche Berechtigung
 zur Erwerbstätigkeit, wird vermutet, dass ein Beschäftigungsverhältnis
 gegen Arbeitsentgelt für den Zeitraum von drei Monaten bestanden hat.
 
-
 #### § 7a Anfrageverfahren
 
 (1) Die Beteiligten können schriftlich eine Entscheidung beantragen,
@@ -307,7 +290,6 @@ Beschäftigung vorliegt, haben aufschiebende Wirkung. Eine Klage auf
 Erlass der Entscheidung ist abweichend von § 88 Absatz 1 des
 Sozialgerichtsgesetzes nach Ablauf von drei Monaten zulässig.
 
-
 #### § 7b Wertguthabenvereinbarung
 
 Eine Wertguthabenvereinbarung liegt vor, wenn
@@ -335,10 +317,6 @@ Eine Wertguthabenvereinbarung liegt vor, wenn
 5.  das fällige Arbeitsentgelt insgesamt 450 Euro monatlich übersteigt, es
     sei denn, die Beschäftigung wurde vor der Freistellung als
     geringfügige Beschäftigung ausgeübt.
-
-
-
-
 
 #### § 7c Verwendung von Wertguthaben
 
@@ -391,7 +369,6 @@ Anspruch genommen werden
 in Anspruch genommen werden kann, in der Vereinbarung nach § 7b
 abweichend von Absatz 1 auf bestimmte Zwecke beschränken.
 
-
 #### § 7d Führung und Verwaltung von Wertguthaben
 
 (1) Wertguthaben sind als Arbeitsentgeltguthaben einschließlich des
@@ -418,10 +395,6 @@ höherer Anlageanteil in Aktien oder Aktienfonds ist zulässig, wenn
 2.  das Wertguthaben nach der Wertguthabenvereinbarung ausschließlich für
     Freistellungen nach § 7c Absatz 1 Nummer 2 Buchstabe a in Anspruch
     genommen werden kann.
-
-
-
-
 
 #### § 7e Insolvenzschutz
 
@@ -528,7 +501,6 @@ Insolvenzverfahrens nicht zulässig ist, sowie solchen juristischen
 Personen des öffentlichen Rechts, bei denen der Bund, ein Land oder
 eine Gemeinde kraft Gesetzes die Zahlungsfähigkeit sichert.
 
-
 #### § 7f Übertragung von Wertguthaben
 
 (1) Bei Beendigung der Beschäftigung kann der Beschäftigte durch
@@ -574,7 +546,6 @@ entstehenden Kosten sind vollständig vom Wertguthaben in Abzug zu
 bringen und in der Mitteilung an den Beschäftigten nach § 7d Absatz 2
 gesondert auszuweisen.
 
-
 #### § 8 Geringfügige Beschäftigung und geringfügige selbständige Tätigkeit
 
 (1) Eine geringfügige Beschäftigung liegt vor, wenn
@@ -612,7 +583,6 @@ Beschäftigung aufzuklären.
 Beschäftigung eine selbständige Tätigkeit ausgeübt wird. Dies gilt
 nicht für das Recht der Arbeitsförderung.
 
-
 #### § 8a Geringfügige Beschäftigung in Privathaushalten
 
 Werden geringfügige Beschäftigungen ausschließlich in Privathaushalten
@@ -620,7 +590,6 @@ ausgeübt, gilt § 8. Eine geringfügige Beschäftigung im Privathaushalt
 liegt vor, wenn diese durch einen privaten Haushalt begründet ist und
 die Tätigkeit sonst gewöhnlich durch Mitglieder des privaten Haushalts
 erledigt wird.
-
 
 #### § 9 Beschäftigungsort
 
@@ -671,7 +640,6 @@ Geltungsbereich dieses Buches aus, gilt Absatz 6 entsprechend. Ist
 auch danach kein Beschäftigungsort im Geltungsbereich dieses Buches
 gegeben, gilt der Arbeitnehmer als in Berlin (Ost) beschäftigt.
 
-
 #### § 10 Beschäftigungsort für besondere Personengruppen
 
 (1) Für Personen, die ein freiwilliges soziales Jahr oder ein
@@ -689,7 +657,6 @@ antragstellenden Stelle.
 Seeschiffs. Ist ein Heimathafen im Geltungsbereich dieses Gesetzbuchs
 nicht vorhanden, gilt als Beschäftigungsort Hamburg.
 
-
 #### § 11 Tätigkeitsort
 
 (1) Die Vorschriften über den Beschäftigungsort gelten für
@@ -700,7 +667,6 @@ Abweichendes ergibt.
 selbständige Tätigkeit an verschiedenen Orten ausgeübt, gilt als
 Tätigkeitsort der Ort des Wohnsitzes oder des gewöhnlichen
 Aufenthalts.
-
 
 #### § 12 Hausgewerbetreibende, Heimarbeiter und Zwischenmeister
 
@@ -729,7 +695,6 @@ auch die nach § 1 Absatz 2 Satz 1 Buchstaben a, c und d des
 Heimarbeitsgesetzes gleichgestellten Personen. Dies gilt nicht für das
 Recht der Arbeitsförderung.
 
-
 #### § 13 Reeder, Seeleute und Deutsche Seeschiffe
 
 (1) Reeder sind die Eigentümer von Seeschiffen. Seeleute sind Kapitäne
@@ -740,10 +705,7 @@ Schiffsbetriebs beschäftigt sind, mit Ausnahme der Lotsen.
 (2) Als deutsche Seeschiffe gelten alle zur Seefahrt bestimmten
 Schiffe, die berechtigt sind, die Bundesflagge zu führen.
 
-
 ### Dritter Titel - Arbeitsentgelt und sonstiges Einkommen
-
-
 
 #### § 14 Arbeitsentgelt
 
@@ -772,7 +734,6 @@ ein Nettoarbeitsentgelt als vereinbart.
 (3) Wird ein Haushaltsscheck (§ 28a Absatz 7) verwendet, bleiben
 Zuwendungen unberücksichtigt, die nicht in Geld gewährt worden sind.
 
-
 #### § 15 Arbeitseinkommen
 
 (1) Arbeitseinkommen ist der nach den allgemeinen
@@ -786,13 +747,11 @@ Einkommensteuerrecht zu bewerten ist.
 Arbeitseinkommen der sich aus § 32 Absatz 6 des Gesetzes über die
 Alterssicherung der Landwirte ergebende Wert anzusetzen.
 
-
 #### § 16 Gesamteinkommen
 
 Gesamteinkommen ist die Summe der Einkünfte im Sinne des
 Einkommensteuerrechts; es umfasst insbesondere das Arbeitsentgelt und
 das Arbeitseinkommen.
-
 
 #### § 17 Verordnungsermächtigung
 
@@ -831,7 +790,6 @@ Bundesrates die Bezugsgröße (§ 18). Das Bundesministerium für Arbeit
 und Soziales wird ermächtigt, durch Rechtsverordnung mit Zustimmung
 des Bundesrates auch sonstige aus der Bezugsgröße abzuleitende Beträge
 zu bestimmen.
-
 
 #### § 17a Umrechnung von ausländischem Einkommen
 
@@ -885,7 +843,6 @@ von Sozialleistungen.
 (5) Die Absätze 1 bis 4 sind auch anzuwenden, wenn der
 Versicherungsfall vor dem 1. Juli 1985 eingetreten ist.
 
-
 #### § 18 Bezugsgröße
 
 (1) Bezugsgröße im Sinne der Vorschriften für die Sozialversicherung
@@ -906,10 +863,7 @@ teilbaren Betrag.
 (3) Beitrittsgebiet ist das in Artikel 3 des Einigungsvertrages
 genannte Gebiet.
 
-
 ### Vierter Titel - Einkommen beim Zusammentreffen mit Renten wegen Todes
-
-
 
 #### § 18a Art des zu berücksichtigenden Einkommens
 
@@ -1087,10 +1041,6 @@ Verluste aus folgenden Vermögenseinkommensarten:
     Einkommensteuergesetzes, soweit sie mindestens 600 Euro im
     Kalenderjahr betragen.
 
-
-
-
-
 #### § 18b Höhe des zu berücksichtigenden Einkommens
 
 (1) Maßgebend ist das für denselben Zeitraum erzielte monatliche
@@ -1213,7 +1163,6 @@ Bundeselterngeld- und Elternzeitgesetzes gekürzt.
 berücksichtigenden Einkommens entschieden hat, ist diese Entscheidung
 auch für einen anderen Versicherungsträger bindend.
 
-
 #### § 18c Erstmalige Ermittlung des Einkommens
 
 (1) Der Berechtigte hat das zu berücksichtigende Einkommen
@@ -1240,7 +1189,6 @@ Kapitalerträge nach § 20 des Einkommensteuergesetzes auszahlende
 Stelle eine Bescheinigung über die von ihr im letzten Kalenderjahr
 gezahlten Erträge ausstellt.
 
-
 #### § 18d Einkommensänderungen
 
 (1) Einkommensänderungen sind erst vom nächstfolgenden 1. Juli an zu
@@ -1254,7 +1202,6 @@ geringer ist als das berücksichtigte Einkommen; Erwerbsersatzeinkommen
 im Sinne von § 18a Absatz 3 Satz 1 Nummer 1 ist zu berücksichtigen,
 solange diese Leistung gezahlt wird. Jährliche Sonderzuwendungen sind
 mit einem Zwölftel zu berücksichtigen.
-
 
 #### § 18e Ermittlung von Einkommensänderungen
 
@@ -1313,10 +1260,7 @@ berücksichtigenden Einkommens nach dem 1. Juli eines jeden Jahres
 weiterhin in vollem Umfang nicht gezahlt, ist der Erlass eines
 erneuten Verwaltungsaktes nicht erforderlich.
 
-
 ### Fünfter Titel - Erhebung, Verarbeitung und Nutzung der Versicherungsnummer
-
-
 
 #### § 18f Zulässigkeit der Erhebung, Verarbeitung und Nutzung
 
@@ -1393,7 +1337,6 @@ genutzt werden.
 Versicherungsnummer nicht verarbeiten oder nutzen, um ihre Dateien
 danach zu ordnen oder für den Zugriff zu erschließen.
 
-
 #### § 18g Angabe der Versicherungsnummer
 
 Vertragsbestimmungen, durch die der einzelne zur Angabe der
@@ -1403,10 +1346,7 @@ Eine befugte Übermittlung der Versicherungsnummer begründet kein
 Recht, die Versicherungsnummer in anderen als den in § 18f genannten
 Fällen zu speichern.
 
-
 ### Sechster Titel - Sozialversicherungsausweis
-
-
 
 #### § 18h Ausstellung und Pflicht zur Vorlage des Sozialversicherungsausweises
 
@@ -1458,14 +1398,9 @@ Sozialversicherungsausweis besitzen; unbrauchbare und weitere
 Sozialversicherungsausweise sind an die zuständige Einzugsstelle
 zurückzugeben.
 
-
 ## Zweiter Abschnitt - Leistungen und Beiträge
 
-
-
 ### Erster Titel - Leistungen
-
-
 
 #### § 19 Leistungen auf Antrag oder von Amts wegen
 
@@ -1476,7 +1411,6 @@ Vorschriften für die einzelnen Versicherungszweige nichts Abweichendes
 ergibt. Leistungen in der gesetzlichen Unfallversicherung werden von
 Amts wegen erbracht, soweit sich aus den Vorschriften für die
 gesetzliche Unfallversicherung nichts Abweichendes ergibt.
-
 
 #### § 19a Benachteiligungsverbot
 
@@ -1491,10 +1425,7 @@ insoweit geltend gemacht oder hergeleitet werden, als deren
 Voraussetzungen und Inhalt durch die Vorschriften der besonderen Teile
 dieses Gesetzbuchs im Einzelnen bestimmt sind.
 
-
 ### Zweiter Titel - Beiträge
-
-
 
 #### § 20 Aufbringung der Mittel, Gleitzone
 
@@ -1534,7 +1465,6 @@ Teil des Arbeitsentgelts jeweils zur Hälfte; in der gesetzlichen
 Krankenversicherung gilt dies nur für den um den Beitragsanteil, der
 allein vom Arbeitnehmer zu tragen ist, reduzierten Beitrag.
 
-
 #### § 21 Bemessung der Beiträge
 
 Die Versicherungsträger haben die Beiträge, soweit diese von ihnen
@@ -1547,10 +1477,6 @@ anderen Einnahmen
 
 2.  sicherstellen, dass die gesetzlich vorgeschriebenen oder zugelassenen
     Betriebsmittel und Rücklagen bereitgehalten werden können.
-
-
-
-
 
 #### § 22 Entstehen der Beitragsansprüche, Zusammentreffen mehrerer Versicherungsverhältnisse
 
@@ -1577,7 +1503,6 @@ auf die maßgebliche Beitragsbemessungsgrenze zu reduzieren. Für die
 knappschaftliche Rentenversicherung und die allgemeine
 Rentenversicherung sind die Berechnungen nach Satz 1 getrennt
 durchzuführen.
-
 
 #### § 23 Fälligkeit
 
@@ -1660,7 +1585,6 @@ worden sind, richtet sich abweichend von Satz 1 nach Absatz 2a.
 den Absätzen 1 bis 3 abweichen oder abweichende Bestimmungen zulassen,
 bleiben unberührt.
 
-
 #### § 23a Einmalig gezahltes Arbeitsentgelt als beitragspflichtige Einnahmen
 
 (1) Einmalig gezahltes Arbeitsentgelt sind Zuwendungen, die dem
@@ -1724,7 +1648,6 @@ pflichtversichert, ist für die Zuordnung des einmalig gezahlten
 Arbeitsentgelts nach Absatz 4 Satz 1 allein die
 Beitragsbemessungsgrenze der gesetzlichen Krankenversicherung
 maßgebend.
-
 
 #### § 23b Beitragspflichtige Einnahmen bei flexiblen Arbeitszeitregelungen
 
@@ -1863,7 +1786,6 @@ sind.
 bis 3a nur für den Übertragenden, der die Arbeitsleistung tatsächlich
 erbringt.
 
-
 #### § 23c Sonstige nicht beitragspflichtige Einnahmen
 
 (1) Zuschüsse des Arbeitgebers zum Krankengeld, Verletztengeld,
@@ -1917,7 +1839,6 @@ Zahlung von Krankentagegeld können private
 Krankenversicherungsunternehmen Angaben gegenüber dem Arbeitgeber nach
 den Sätzen 1 und 2 erstatten.
 
-
 #### § 24 Säumniszuschlag
 
 (1) Für Beiträge und Beitragsvorschüsse, die der Zahlungspflichtige
@@ -1941,7 +1862,6 @@ Vergangenheit festgestellt, ist ein darauf entfallender
 Säumniszuschlag nicht zu erheben, soweit der Beitragsschuldner
 glaubhaft macht, dass er unverschuldet keine Kenntnis von der
 Zahlungspflicht hatte.
-
 
 #### § 25 Verjährung
 
@@ -1971,7 +1891,6 @@ gelten für Prüfungen der Beitragszahlung bei sonstigen Versicherten,
 in Fällen der Nachversicherung und bei versicherungspflichtigen
 Selbständigen entsprechend.
 
-
 #### § 26 Beanstandung und Erstattung zu Unrecht entrichteter Beiträge
 
 (1) Sind Pflichtbeiträge in der Rentenversicherung für Zeiten nach dem
@@ -1994,7 +1913,6 @@ sind jedoch zu erstatten.
 hat. Soweit dem Arbeitgeber Beiträge, die er getragen hat, von einem
 Dritten ersetzt worden sind, entfällt sein Erstattungsanspruch.
 
-
 #### § 27 Verzinsung und Verjährung des Erstattungsanspruchs
 
 (1) Der Erstattungsanspruch ist nach Ablauf eines Kalendermonats nach
@@ -2016,7 +1934,6 @@ Erstattung oder durch Erhebung eines Widerspruchs gehemmt. Die Hemmung
 endet sechs Monate nach Bekanntgabe der Entscheidung über den Antrag
 oder den Widerspruch.
 
-
 #### § 28 Verrechnung und Aufrechnung des Erstattungsanspruchs
 
 Der für die Erstattung zuständige Leistungsträger kann
@@ -2028,17 +1945,9 @@ Der für die Erstattung zuständige Leistungsträger kann
 2.  mit Zustimmung des Berechtigten die zu Unrecht entrichteten Beiträge
     mit künftigen Beitragsansprüchen aufrechnen.
 
-
-
-
-
 ## Dritter Abschnitt - Meldepflichten des Arbeitgebers, Gesamtsozialversicherungsbeitrag
 
-
-
 ### Erster Titel - Meldungen des Arbeitgebers und ihre Weiterleitung
-
-
 
 #### § 28a Meldepflicht
 
@@ -2498,7 +2407,6 @@ gemeinsamen Grundsätzen entsprechend § 28b Absatz 2. Bei der Nutzung
 allgemein zugänglicher Netze sind dem jeweiligen Stand der Technik
 entsprechende Verschlüsselungsverfahren zu verwenden.
 
-
 #### § 28b Aufgaben der Einzugsstelle bei Meldungen, gemeinsame Grundsätze
 
 (1) Die Einzugsstelle nimmt die Meldung für die gesetzliche Kranken-
@@ -2548,7 +2456,6 @@ sind.
 
 (6) (weggefallen)
 
-
 #### § 28c Verordnungsermächtigung
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt, durch
@@ -2579,13 +2486,7 @@ Melde- und Beitragsnachweisverfahren zu bestimmen, insbesondere
 7.  in welcher Form und Frist der Arbeitgeber die Beschäftigten über die
     Meldungen zu unterrichten hat.
 
-
-
-
-
 ### Zweiter Titel - Verfahren und Haftung bei der Beitragszahlung
-
-
 
 #### § 28d Gesamtsozialversicherungsbeitrag
 
@@ -2601,7 +2502,6 @@ Krankenversicherung für einen kraft Gesetzes versicherten
 Beschäftigten gelten zusammen mit den Beiträgen zur Rentenversicherung
 und Arbeitsförderung im Sinne des Satzes 1 ebenfalls als
 Gesamtsozialversicherungsbeitrag.
-
 
 #### § 28e Zahlungspflicht, Vorschuss
 
@@ -2732,7 +2632,6 @@ Beiträge (Beitragsansprüche).
 Voraussetzungen vom Arbeitgeber Vorschüsse auf den
 Gesamtsozialversicherungsbeitrag verlangt werden können.
 
-
 #### § 28f Aufzeichnungspflicht, Nachweise der Beitragsabrechnung und der Beitragszahlung
 
 (1) Der Arbeitgeber hat für jeden Beschäftigten, getrennt nach
@@ -2839,7 +2738,6 @@ die letzte Prüfung der Träger der Rentenversicherung bei dem
 Arbeitgeber folgenden Kalenderjahres, und wenn ein Unternehmen
 aufgelöst wird.
 
-
 #### § 28g Beitragsabzug
 
 Der Arbeitgeber und in den Fällen der nach § 7f Absatz 1 Satz 1 Nummer
@@ -2855,7 +2753,6 @@ wenn der Beschäftigte seinen Pflichten nach § 28o Absatz 1 vorsätzlich
 oder grob fahrlässig nicht nachkommt oder er den
 Gesamtsozialversicherungsbeitrag allein trägt oder solange der
 Beschäftigte nur Sachbezüge erhält.
-
 
 #### § 28h Einzugsstellen
 
@@ -2924,10 +2821,6 @@ Einzugsstelle dem Arbeitgeber zum Jahresende
 2.  die Höhe des Arbeitsentgelts (§ 14 Absatz 3), des von ihm getragenen
     Gesamtsozialversicherungsbeitrags und der Umlagen.
 
-
-
-
-
 #### § 28i Zuständige Einzugsstelle
 
 Zuständige Einzugsstelle für den Gesamtsozialversicherungsbeitrag ist
@@ -2943,7 +2836,6 @@ Rentenversicherung Knappschaft-Bahn-See. Bei geringfügigen
 Beschäftigungen ist zuständige Einzugsstelle die Deutsche
 Rentenversicherung Knappschaft-Bahn-See als Träger der
 Rentenversicherung.
-
 
 #### § 28k Weiterleitung von Beiträgen
 
@@ -3000,7 +2892,6 @@ Aufteilung, vereinbaren die Sozialversicherung für Landwirtschaft,
 Forsten und Gartenbau und die Spitzenverbände der beteiligten Träger
 der Sozialversicherung.
 
-
 #### § 28l Vergütung
 
 (1) Die Einzugsstellen, die Träger der Rentenversicherung und die
@@ -3053,7 +2944,6 @@ deren Aufteilung durch Vereinbarungen zwischen den Krankenkassen oder
 ihren Verbänden und der Deutschen Rentenversicherung Bund sowie der
 Bundesagentur für Arbeit geregelt.
 
-
 #### § 28m Sonderregelungen für bestimmte Personengruppen
 
 (1) Der Beschäftigte hat den Gesamtsozialversicherungsbeitrag zu
@@ -3077,7 +2967,6 @@ abzugeben; bei den Meldungen hat die Einzugsstelle mitzuwirken.
 Gesamtsozialversicherungsbeitrag gezahlt hat, hat gegen den
 Arbeitgeber einen Anspruch auf den vom Arbeitgeber zu tragenden Teil
 des Gesamtsozialversicherungsbeitrags.
-
 
 #### § 28n Verordnungsermächtigung
 
@@ -3105,13 +2994,7 @@ Rechtsverordnung mit Zustimmung des Bundesrates zu bestimmen,
 4.  Näheres über die Führung von Entgeltunterlagen und zur
     Beitragsabrechnung sowie zur Verwendung des Beitragsnachweises.
 
-
-
-
-
 ### Dritter Titel - Auskunfts- und Vorlagepflicht, Prüfung, Schadensersatzpflicht und Verzinsung
-
-
 
 #### § 28o Auskunfts- und Vorlagepflicht des Beschäftigten
 
@@ -3130,7 +3013,6 @@ Tatsachen zu erteilen und alle für die Prüfung der Meldungen und der
 Beitragszahlung erforderlichen Unterlagen vorzulegen. Satz 1 gilt für
 den Hausgewerbetreibenden, soweit er den
 Gesamtsozialversicherungsbeitrag zahlt, entsprechend.
-
 
 #### § 28p Prüfung bei den Arbeitgebern
 
@@ -3331,7 +3213,6 @@ anteilig, sofern der Angestellte im Zeitpunkt der Übernahme das 45.
 Lebensjahr bereits vollendet hatte. § 107b Absatz 2 bis 5 des
 Beamtenversorgungsgesetzes gilt sinngemäß.
 
-
 #### § 28q Prüfung bei den Einzugsstellen und den Trägern der Rentenversicherung
 
 (1) Die Träger der Rentenversicherung und die Bundesagentur für Arbeit
@@ -3389,7 +3270,6 @@ durchgeführt werden. Bei geringfügigen Beschäftigungen gelten die
 Sätze 1 und 2 nicht für die Deutsche Rentenversicherung Knappschaft-
 Bahn-See als Einzugsstelle.
 
-
 #### § 28r Schadensersatzpflicht, Verzinsung
 
 (1) Verletzt ein Organ oder ein Bediensteter der Einzugsstelle
@@ -3415,14 +3295,9 @@ Prüfung nach § 166 Absatz 2 des Siebten Buches. Für entgangene
 Beiträge sind Zinsen in Höhe von zwei vom Hundert über dem jeweiligen
 Basiszinssatz nach § 247 des Bürgerlichen Gesetzbuchs zu zahlen.
 
-
 ## Vierter Abschnitt - Träger der Sozialversicherung
 
-
-
 ### Erster Titel - Verfassung
-
-
 
 #### § 29 Rechtsstellung
 
@@ -3436,7 +3311,6 @@ bestimmt, durch die Versicherten und die Arbeitgeber ausgeübt.
 (3) Die Versicherungsträger erfüllen im Rahmen des Gesetzes und des
 sonstigen für sie maßgebenden Rechts ihre Aufgaben in eigener
 Verantwortung.
-
 
 #### § 30 Eigene und übertragene Aufgaben
 
@@ -3456,7 +3330,6 @@ kurzzeitig personell unterstützen. Dadurch entstehende Kosten sind
 ihnen grundsätzlich zu erstatten; Ausnahmen werden in den jeweiligen
 Gesetzen zur Feststellung der Haushalte von Bund und Ländern
 festgelegt.
-
 
 #### § 31 Organe
 
@@ -3491,10 +3364,7 @@ Selbstverwaltungsorgane bilden. Die Satzung grenzt die Aufgaben und
 die Befugnisse dieser Organe gegenüber den Aufgaben und Befugnissen
 der Organe der Hauptverwaltung ab.
 
-
 #### § 32 (weggefallen)
-
-
 
 #### § 33 Vertreterversammlung, Verwaltungsrat
 
@@ -3529,7 +3399,6 @@ Vertreterversammlung oder deren Vorsitzenden trifft, gelten diese für
 die Bundesvertreterversammlung oder deren Vorsitzenden entsprechend.
 Für den Beschluss über die Satzung gilt Absatz 1 Satz 2 und 3.
 
-
 #### § 34 Satzung
 
 (1) Jeder Versicherungsträger gibt sich eine Satzung. Sie bedarf der
@@ -3540,7 +3409,6 @@ Versicherungszweige zuständigen Behörde.
 zu machen. Sie treten, wenn kein anderer Zeitpunkt bestimmt ist, am
 Tag nach ihrer Bekanntmachung in Kraft. Die Art der Bekanntmachung
 wird durch die Satzung geregelt.
-
 
 #### § 35 Vorstand
 
@@ -3563,7 +3431,6 @@ maßgebendes Recht nichts Abweichendes bestimmen. Soweit das
 Sozialgesetzbuch Bestimmungen über den Vorstand oder dessen
 Vorsitzenden trifft, gelten diese für den Bundesvorstand oder dessen
 Vorsitzenden entsprechend.
-
 
 #### § 35a Vorstand bei Orts-, Betriebs- und Innungskrankenkassen sowie Ersatzkassen
 
@@ -3646,7 +3513,6 @@ die Aufsichtsbehörde dieses Mitglied seines Amtes zu entheben;
 Rechtsbehelfe gegen die Amtsenthebung haben keine aufschiebende
 Wirkung.
 
-
 #### § 36 Geschäftsführer
 
 (1) Der Geschäftsführer führt hauptamtlich die laufenden
@@ -3722,7 +3588,6 @@ die Anstellung eines Bewerbers für das Amt eines Stellvertreters des
 Geschäftsführers zulässt, der die Befähigung hierfür durch Lebens- und
 Berufserfahrung erworben hat.
 
-
 #### § 36a Besondere Ausschüsse
 
 (1) Durch Satzung können
@@ -3766,7 +3631,6 @@ gesetzlichen Rentenversicherung bestellt werden.
 (3) Die §§ 40 bis 42 sowie § 63 Absatz 3a und 4 gelten für die
 ehrenamtlichen Mitglieder der besonderen Ausschüsse entsprechend.
 
-
 #### § 37 Verhinderung von Organen
 
 (1) Solange und soweit die Wahl zu Selbstverwaltungsorganen nicht
@@ -3786,7 +3650,6 @@ Geschäftsführung erstreckt sich die Wahrnehmung des Amtes nicht auf
 den Vorsitz. Die Beauftragung ist der Aufsichtsbehörde unverzüglich
 anzuzeigen.
 
-
 #### § 38 Beanstandung von Rechtsverstößen
 
 (1) Verstößt der Beschluss eines Selbstverwaltungsorgans gegen Gesetz
@@ -3801,7 +3664,6 @@ Vorsitzende des Vorstands die Aufsichtsbehörde zu unterrichten. Die
 aufschiebende Wirkung bleibt bis zu einer Entscheidung der
 Aufsichtsbehörde, längstens bis zum Ablauf von zwei Monaten nach ihrer
 Unterrichtung, bestehen.
-
 
 #### § 39 Versichertenälteste und Vertrauenspersonen
 
@@ -3830,7 +3692,6 @@ ortsnahe Verbindung des Versicherungsträgers mit den Versicherten und
 den Leistungsberechtigten herzustellen und diese zu beraten und zu
 betreuen. Die Satzung bestimmt das Nähere.
 
-
 #### § 40 Ehrenämter
 
 (1) Die Mitglieder der Selbstverwaltungsorgane sowie die
@@ -3844,7 +3705,6 @@ entsprechend.
 (2) Niemand darf in der Übernahme oder Ausübung eines Ehrenamts
 behindert oder wegen der Übernahme oder Ausübung eines solchen Amtes
 benachteiligt werden.
-
 
 #### § 41 Entschädigung der ehrenamtlich Tätigen
 
@@ -3889,7 +3749,6 @@ den in § 35a Absatz 1 genannten Krankenkassen entfällt der Vorschlag
 des Vorstandes. Die Beschlüsse bedürfen der Genehmigung der
 Aufsichtsbehörde.
 
-
 #### § 42 Haftung
 
 (1) Die Haftung der Mitglieder der Selbstverwaltungsorgane richtet
@@ -3909,10 +3768,7 @@ verzichten.
 (4) Für Versichertenälteste und Vertrauenspersonen gelten die Absätze
 1 bis 3 entsprechend.
 
-
 ### Zweiter Titel - Zusammensetzung, Wahl und Verfahren der Selbstverwaltungsorgane, Versichertenältesten und Vertrauenspersonen
-
-
 
 #### § 43 Mitglieder der Selbstverwaltungsorgane
 
@@ -3947,7 +3803,6 @@ zweiter persönlicher Stellvertreter benannt werden.
 nicht gleichzeitig bei demselben Versicherungsträger Mitglieder des
 Vorstandes oder deren Stellvertreter sein. Eine Mitgliedschaft in den
 Selbstverwaltungsorganen mehrerer Krankenkassen ist ausgeschlossen.
-
 
 #### § 44 Zusammensetzung der Selbstverwaltungsorgane
 
@@ -4106,7 +3961,6 @@ Rentenversicherung Bund an, die auf Vorschlag der nach Absatz 5 Satz 3
 gewählten Vertreter der Deutschen Rentenversicherung Bund bestimmt
 wurden.
 
-
 #### § 45 Sozialversicherungswahlen
 
 (1) Die Wahlen sind entweder allgemeine Wahlen oder Wahlen in
@@ -4121,7 +3975,6 @@ Verhältniswahl. Das Wahlergebnis wird nach dem Höchstzahlverfahren
 d'Hondt ermittelt. Dabei werden nur die Vorschlagslisten
 berücksichtigt, die mindestens fünf vom Hundert der abgegebenen
 gültigen Stimmen erhalten haben.
-
 
 #### § 46 Wahl der Vertreterversammlung
 
@@ -4142,7 +3995,6 @@ kein Stellvertreter benannt worden, zeigt der Vorstand dies der
 Aufsichtsbehörde unverzüglich an. Diese beruft die Mitglieder und die
 Stellvertreter aus der Zahl der Wählbaren. Bei neu errichteten
 Versicherungsträgern trifft die Anzeigepflicht den Wahlausschuss.
-
 
 #### § 47 Gruppenzugehörigkeit
 
@@ -4213,7 +4065,6 @@ ohne fremde Arbeitskräfte gehörig.
 (5) Rentenbezieher im Sinne der Vorschriften über die Selbstverwaltung
 ist, wer eine Rente aus eigener Versicherung von dem jeweiligen
 Versicherungsträger bezieht.
-
 
 #### § 48 Vorschlagslisten
 
@@ -4353,7 +4204,6 @@ Vorschlagsliste und eine Verbindung mehrerer Vorschlagslisten sind
 zulässig. Verbundene Listen gelten bei der Ermittlung des
 Wahlergebnisses im Verhältnis zu den übrigen Listen als eine Liste.
 
-
 #### § 48a Vorschlagsrecht der Arbeitnehmervereinigungen
 
 (1) Arbeitnehmervereinigungen haben nur dann das Recht,
@@ -4414,10 +4264,6 @@ enthalten über
     Mitgliederversammlung, Tätigkeitsbericht und Rechnungslegung durch den
     Vorstand sowie Zustandekommen und Beurkundung der Beschlüsse.
 
-
-
-
-
 #### § 48b Feststellungsverfahren
 
 (1) Ob eine Vereinigung als Arbeitnehmervereinigung
@@ -4436,7 +4282,6 @@ werden.
 Antragsteller und die nach § 57 Absatz 2 anfechtungsberechtigten
 Personen und Vereinigungen innerhalb von zwei Wochen Beschwerde
 einlegen. Für das Beschwerdeverfahren gilt Absatz 2 entsprechend.
-
 
 #### § 48c Feststellung der allgemeinen Vorschlagsberechtigung
 
@@ -4468,7 +4313,6 @@ mit der Maßgabe, dass der Antrag auf Feststellung innerhalb eines
 Monats nach Bekanntgabe der Beschwerdeentscheidung zu stellen ist. Die
 Ablehnung der Feststellung der allgemeinen Vorschlagsberechtigung ist
 unanfechtbar.
-
 
 #### § 49 Stimmenzahl
 
@@ -4507,7 +4351,6 @@ fortgeschriebene Einwohnerzahl zugrunde zu legen.
 
 (4) Die Satzung kann für Abstufung und Höchstzahl der Stimmen von den
 Absätzen 2 und 3 Abweichendes bestimmen.
-
 
 #### § 50 Wahlrecht
 
@@ -4549,7 +4392,6 @@ Arbeitgebers kann sein gesetzlicher Vertreter oder, wenn ein solcher
 nicht vorhanden ist, ein Geschäftsführer oder bevollmächtigter
 Betriebsleiter das Wahlrecht ausüben; die Absätze 1 und 2 gelten
 entsprechend.
-
 
 #### § 51 Wählbarkeit
 
@@ -4674,7 +4516,6 @@ Wahlausschreibung fällige Beiträge nicht bezahlt hat.
 geschäftsmäßigen Besorgung fremder Rechtsangelegenheiten zugelassen
 ist.
 
-
 #### § 52 Wahl des Vorstandes
 
 (1) Die Vertreter der Versicherten und der Arbeitgeber in der
@@ -4691,7 +4532,6 @@ Vertreterversammlung, für die sie gelten sollen, unterzeichnet sein.
 
 (4) Die Mitglieder des Bundesvorstandes der Deutschen
 Rentenversicherung Bund werden gemäß § 64 Absatz 4 gewählt.
-
 
 #### § 53 Wahlorgane
 
@@ -4722,7 +4562,6 @@ bei der Wahlhandlung und bei der Ermittlung des Wahlergebnisses den
 Vorschriften dieses Gesetzes und der Wahlordnung entsprechend
 verfahren wird.
 
-
 #### § 54 Durchführung der Wahl
 
 (1) Die Wahlberechtigten wählen durch briefliche Stimmabgabe.
@@ -4749,7 +4588,6 @@ Abweichungen geboten sind.
 unentgeltlich eingeliefert werden, wenn sie sich in amtlichen
 Wahlbriefumschlägen befinden.
 
-
 #### § 55 Wahlunterlagen und Mitwirkung der Arbeitgeber
 
 (1) Die Wahlberechtigten wählen mit den ihnen ausgehändigten
@@ -4767,7 +4605,6 @@ die Bundesagentur für Arbeit.
 Arbeitgeber die Unfallversicherungsträger die Wahlausweise ausstellen,
 haben die Arbeitgeber den Unfallversicherungsträgern die hierfür
 notwendigen Angaben zu machen.
-
 
 #### § 56 Wahlordnung
 
@@ -4830,10 +4667,6 @@ Vorschriften über
 
 14. die Kosten der Wahlen und einen Kostenausgleich.
 
-
-
-
-
 #### § 57 Rechtsbehelfe im Wahlverfahren
 
 (1) Gegen Entscheidungen und Maßnahmen, die sich unmittelbar auf das
@@ -4871,7 +4704,6 @@ Selbstverwaltungsorgane erlassen.
 einer Entscheidung nach § 131 Absatz 4 des Sozialgerichtsgesetzes
 getroffen hat, bleiben wirksam.
 
-
 #### § 58 Amtsdauer
 
 (1) Die gewählten Bewerber werden Mitglieder des
@@ -4883,7 +4715,6 @@ spätestens fünf Monate nach dem Wahltag zusammen.
 sechs Jahre; sie endet jedoch unabhängig vom Zeitpunkt der Wahl mit
 dem Zusammentritt der in den nächsten allgemeinen Wahlen neu gewählten
 Selbstverwaltungsorgane. Wiederwahl ist zulässig.
-
 
 #### § 59 Verlust der Mitgliedschaft
 
@@ -4927,7 +4758,6 @@ die Absätze 1 bis 4 entsprechend.
 (6) Endet die Mitgliedschaft in einem Selbstverwaltungsorgan, tritt
 bis zur Ergänzung des Organs an die Stelle des ausgeschiedenen
 Mitglieds ein Stellvertreter.
-
 
 #### § 60 Ergänzung der Selbstverwaltungsorgane
 
@@ -4989,7 +4819,6 @@ Gruppe des Vorstands und ihre Stellvertreter nach § 52 neu zu wählen.
 entsprechend. An die Stelle des Zeitpunkts der Wahlausschreibung in §
 51 Absatz 1 tritt der Zeitpunkt der Aufforderung nach Absatz 1 Satz 1.
 
-
 #### § 61 Wahl der Versichertenältesten und der Vertrauenspersonen
 
 (1) Für die Wahl der Versichertenältesten und der Vertrauenspersonen
@@ -5003,7 +4832,6 @@ Vertreterversammlung berechtigt sind.
 Vertrauenspersonen wird durch die Satzung geregelt. Die Satzung kann
 die Nachfolge vorzeitig ausscheidender Versichertenältesten und
 Vertrauenspersonen abweichend von § 60 regeln.
-
 
 #### § 62 Vorsitzende der Selbstverwaltungsorgane
 
@@ -5053,7 +4881,6 @@ stellvertretenden Vorsitzenden wird ein Nachfolger gewählt. Für einen
 nach § 59 ausscheidenden Vorsitzenden oder stellvertretenden
 Vorsitzenden wird ein Nachfolger nach Ergänzung des
 Selbstverwaltungsorgans gewählt.
-
 
 #### § 63 Beratung
 
@@ -5105,7 +4932,6 @@ Fragen der Gesundheit berührt werden, einen auf den jeweiligen
 Gebieten der Sozialmedizin und der Sozialversicherung fachlich
 einschlägig erfahrenen Arzt mit beratender Stimme hinzuziehen.
 
-
 #### § 64 Beschlussfassung
 
 (1) Soweit Gesetz oder sonstiges für den Versicherungsträger
@@ -5145,7 +4971,6 @@ jeweils an der Anzahl der Versicherten der einzelnen Träger. Im
 Bundesvorstand gilt Entsprechendes innerhalb der Bundesträger. Das
 Nähere zur Stimmengewichtung nach Satz 1 bis 4 regelt die Satzung.
 
-
 #### § 65 Getrennte Abstimmung
 
 (1) In den Selbstverwaltungsorganen der Sozialversicherung für
@@ -5181,7 +5006,6 @@ fremde Arbeitskräfte und der Arbeitgeber erforderlich für
 (2) Über einen abgelehnten Antrag ist auf Verlangen der Antragsteller
 innerhalb von drei Wochen nochmals abzustimmen.
 
-
 #### § 66 Erledigungsausschüsse
 
 (1) Die Selbstverwaltungsorgane können die Erledigung einzelner
@@ -5194,10 +5018,7 @@ abweichend von § 43 Absatz 2 regeln.
 (2) Für die Beratung und Abstimmung gelten die §§ 63 und 64
 entsprechend.
 
-
 ### Dritter Titel - Haushalts- und Rechnungswesen
-
-
 
 #### § 67 Aufstellung des Haushaltsplans
 
@@ -5213,7 +5034,6 @@ Besoldungsgruppen auszubringen; für die übrigen Beschäftigten der
 Versicherungsträger sind die Haushaltsansätze nach Vergütungs- und
 Lohngruppen zu erläutern.
 
-
 #### § 68 Bedeutung und Wirkung des Haushaltsplans
 
 (1) Der Haushaltsplan dient der Feststellung der Mittel, die zur
@@ -5225,7 +5045,6 @@ können.
 
 (2) Durch den Haushaltsplan werden Ansprüche oder Verbindlichkeiten
 weder begründet noch aufgehoben.
-
 
 #### § 69 Ausgleich, Wirtschaftlichkeit und Sparsamkeit, Kosten- und Leistungsrechnung, Personalbedarfsermittlung
 
@@ -5252,7 +5071,6 @@ ausbringen, soweit sie unter Anwendung angemessener und anerkannter
 Methoden der Personalbedarfsermittlung begründet sind. Die
 Erforderlichkeit der im Haushaltsplan ausgebrachten Planstellen und
 Stellen ist bei gegebenem Anlass, im Übrigen regelmäßig zu überprüfen.
-
 
 #### § 70 Haushaltsplan
 
@@ -5336,7 +5154,6 @@ wird, insbesondere soweit dadurch die wirtschaftliche
 Leistungsfähigkeit des Versicherungsträgers zur Erfüllung seiner
 Verpflichtungen gefährdet wird.
 
-
 #### § 71 Haushaltsplan der Deutschen Rentenversicherung Knappschaft-Bahn-See
 
 (1) Der Haushaltsplan der Deutschen Rentenversicherung Knappschaft-
@@ -5366,7 +5183,6 @@ Verpflichtungen gefährdet oder wenn bei Ansätzen für die
 knappschaftliche oder allgemeine Rentenversicherung die Bewertungs-
 oder Bewirtschaftungsmaßstäbe des Bundes nicht beachtet sind.
 
-
 #### § 71a Haushaltsplan der Bundesagentur für Arbeit
 
 (1) Der Haushaltsplan der Bundesagentur für Arbeit wird vom Vorstand
@@ -5389,7 +5205,6 @@ Bundesregierung einen geänderten Haushaltsplan zur Genehmigung
 vorzulegen; einen nur mit Liquiditätshilfen ausgeglichenen
 Haushaltsplan kann das Bundesministerium für Arbeit und Soziales in
 der durch die Bundesregierung genehmigten Fassung selbst feststellen.
-
 
 #### § 71b Veranschlagung der Arbeitsmarktmittel der Bundesagentur für Arbeit
 
@@ -5455,7 +5270,6 @@ zusätzlich zu den auf sie entfallenden Mitteln zugewiesen.
 Verpflichtungsermächtigungen für folgende Jahre sind im gleichen
 Verhältnis anzuheben.
 
-
 #### § 71c Eingliederungsrücklage der Bundesagentur für Arbeit
 
 Die bis zum Ende des Haushaltsjahres nicht verausgabten Mittel des
@@ -5465,7 +5279,6 @@ des Dritten Buches geleistet werden, erfolgt eine Zuführung zur
 Eingliederungsrücklage nicht. Die Eingliederungsrücklage ist bis zum
 Schluss des nächsten Haushaltsjahres aufzulösen und dient zur Deckung
 der nach § 71b Absatz 5 gebildeten Ausgabereste.
-
 
 #### § 71d Haushaltsplan und Kostenverteilungsverfahren der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau
 
@@ -5499,7 +5312,6 @@ Bewirtschaftungsmaßstäbe des Bundes nicht beachtet sind; die
 Besonderheiten des Versicherungsträgers sind hierbei zu
 berücksichtigen.
 
-
 #### § 71e Ausweisung der Schiffssicherheitsabteilung im Haushaltsplan
 
 Im Haushaltsplan der gewerblichen Berufsgenossenschaft, der die
@@ -5510,7 +5322,6 @@ Aufstellung auszuweisen. Der Haushaltsplan bedarf insoweit der
 Genehmigung des Bundesversicherungsamtes im Einvernehmen mit dem
 Bundesministerium für Arbeit und Soziales und dem Bundesministerium
 für Verkehr, Bau und Stadtentwicklung.
-
 
 #### § 72 Vorläufige Haushaltsführung
 
@@ -5536,7 +5347,6 @@ Knappschaft-Bahn-See und der Bundesagentur für Arbeit bedarf der
 Beschluss der Genehmigung des Bundesministeriums für Arbeit und
 Soziales, die jeweils im Einvernehmen mit dem Bundesministerium der
 Finanzen erfolgt.
-
 
 #### § 73 Überplanmäßige und außerplanmäßige Ausgaben
 
@@ -5583,7 +5393,6 @@ Bundesministeriums für Arbeit und Soziales ausnahmsweise und im
 Einzelfall nicht vor der Leistung von Ausgaben eingeholt werden, weil
 diese unaufschiebbar sind, sind sie unverzüglich nachzuholen.
 
-
 #### § 74 Nachtragshaushalt
 
 Willigt der Vorstand, bei der Bundesagentur für Arbeit der
@@ -5591,7 +5400,6 @@ Verwaltungsrat, in überplanmäßige oder außerplanmäßige Ausgaben nach §
 73 Absatz 1 nicht ein, ist für Nachträge ein Nachtragshaushaltsplan
 festzustellen. Auf ihn finden die Vorschriften für den Haushaltsplan
 und die vorläufige Haushaltsführung entsprechende Anwendung.
-
 
 #### § 75 Verpflichtungsermächtigungen
 
@@ -5607,7 +5415,6 @@ ohne dass die Voraussetzungen des Absatzes 1 vorliegen. Einer
 Verpflichtungsermächtigung bedarf es auch dann nicht, wenn zu Lasten
 übertragbarer Ausgaben Verpflichtungen eingegangen werden, die im
 folgenden Haushaltsjahr zu Ausgaben führen.
-
 
 #### § 76 Erhebung der Einnahmen
 
@@ -5687,7 +5494,6 @@ dem Gesamtsozialversicherungsbeitrag handelt.
 
 (5) Die Bundesagentur für Arbeit kann einen Vergleich abschließen,
 wenn dies wirtschaftlich und zweckmäßig ist.
-
 
 #### § 77 Rechnungsabschluss, Jahresrechnung und Entlastung
 
@@ -5779,7 +5585,6 @@ Rentenversicherung getrennt durchzuführen.
 Rechnungsergebnisse für die Grundsatz- und Querschnittsaufgaben
 gesondert nachzuweisen.
 
-
 #### § 77a Geltung von Haushaltsvorschriften des Bundes für die Bundesagentur für Arbeit
 
 Für die Aufstellung und Ausführung des Haushaltsplans sowie für die
@@ -5788,7 +5593,6 @@ Vorschriften der Bundeshaushaltsordnung sinngemäß. Die allgemeinen
 Grundsätze der Haushaltswirtschaft des Bundes sind zu beachten.
 Abweichungen von Satz 1 können nach § 1 Absatz 3 des Dritten Buches
 vereinbart werden.
-
 
 #### § 78 Verordnungsermächtigung
 
@@ -5801,7 +5605,6 @@ zu regeln. Die Regelung ist nach den Grundsätzen des für den Bund und
 die Länder geltenden Haushaltsrechts vorzunehmen; sie hat die
 Besonderheiten der Sozialversicherung und der einzelnen
 Versicherungszweige zu berücksichtigen.
-
 
 #### § 79 Geschäftsübersichten und Statistiken der Sozialversicherung
 
@@ -5871,10 +5674,7 @@ Arbeit und Soziales vorzulegen.
 (4) Diese Vorschrift findet auf die Bundesagentur für Arbeit keine
 Anwendung.
 
-
 ### Vierter Titel - Vermögen
-
-
 
 #### § 80 Verwaltung der Mittel
 
@@ -5886,14 +5686,12 @@ ist.
 (2) Die Mittel der Versicherungsträger sind getrennt von den Mitteln
 Dritter zu verwalten.
 
-
 #### § 81 Betriebsmittel
 
 Die Versicherungsträger haben nach Maßgabe der besonderen Vorschriften
 für die einzelnen Versicherungszweige kurzfristig verfügbare Mittel
 zur Bestreitung ihrer laufenden Ausgaben sowie zum Ausgleich von
 Einnahme- und Ausgabeschwankungen (Betriebsmittel) bereitzuhalten.
-
 
 #### § 82 Rücklage
 
@@ -5902,7 +5700,6 @@ für die einzelnen Versicherungszweige zur Sicherstellung ihrer
 Leistungsfähigkeit, insbesondere für den Fall, dass Einnahme- und
 Ausgabeschwankungen durch Einsatz der Betriebsmittel nicht mehr
 ausgeglichen werden können, eine Rücklage bereitzuhalten.
-
 
 #### § 83 Anlegung der Rücklage
 
@@ -5990,13 +5787,11 @@ werden.
 2 stehen die Staaten des Abkommens über den Europäischen
 Wirtschaftsraum und die Schweiz gleich.
 
-
 #### § 84 Beleihung von Grundstücken
 
 Eine Hypothek, Grundschuld oder Rentenschuld ist als sicher anzusehen,
 wenn die Beleihung die ersten zwei Drittel des Wertes des Grundstücks,
 Wohnungseigentums oder Erbbaurechts nicht übersteigt.
-
 
 #### § 85 Genehmigungsbedürftige Vermögensanlagen
 
@@ -6040,7 +5835,6 @@ beteiligt ist und die nach den Absätzen 1 bis 4 genehmigungs- oder
 anzeigepflichtig wären, hat der Versicherungsträger der
 Aufsichtsbehörde rechtzeitig anzuzeigen.
 
-
 #### § 86 Ausnahmegenehmigung
 
 Die Versicherungsträger können in Einzelfällen mit Genehmigung der
@@ -6049,10 +5843,7 @@ nicht oder noch nicht nach dieser Vorschrift angelegt werden kann oder
 wenn wichtige Gründe eine im Interesse des Versicherungsträgers
 liegende andere Anlegung rechtfertigen.
 
-
 ### Fünfter Titel - Aufsicht
-
-
 
 #### § 87 Umfang der Aufsicht
 
@@ -6073,7 +5864,6 @@ Das Bundesministerium für Arbeit und Soziales kann die Aufsicht mit
 Ausnahme der Aufsicht im Bereich der Prävention ganz oder teilweise
 dem Bundesversicherungsamt übertragen.
 
-
 #### § 88 Prüfung und Unterrichtung
 
 (1) Die Aufsichtsbehörde kann die Geschäfts- und Rechnungsführung des
@@ -6085,7 +5875,6 @@ Auskünfte zu erteilen, die zur Ausübung des Aufsichtsrechts auf Grund
 pflichtgemäßer Prüfung der Aufsichtsbehörde gefordert werden.
 
 (3) (weggefallen)
-
 
 #### § 89 Aufsichtsmittel
 
@@ -6107,7 +5896,6 @@ Vollstreckungsgesetzes ist nicht anwendbar.
 Selbstverwaltungsorgane zu Sitzungen einberufen werden. Wird ihrem
 Verlangen nicht entsprochen, kann sie die Sitzungen selbst anberaumen
 und die Verhandlungen leiten.
-
 
 #### § 90 Aufsichtsbehörden
 
@@ -6147,7 +5935,6 @@ betrifft, nehmen auch das Bundesministerium für Arbeit und Soziales
 und das Bundesministerium für Ernährung, Landwirtschaft und
 Verbraucherschutz teil.
 
-
 #### § 90a Zuständigkeitsbereich
 
 (1) Der Zuständigkeitsbereich im Sinne des § 90 wird bestimmt:
@@ -6176,10 +5963,7 @@ ab 1. Januar 1996 geltenden Fassung, wird der Zuständigkeitsbereich
 bestimmt durch die Region (§ 173 Absatz 2 Satz 2 des Fünften Buches),
 für die sie ihrer Satzung nach zuständig ist.
 
-
 ## Fünfter Abschnitt - Versicherungsbehörden
-
-
 
 ### § 91 Arten
 
@@ -6192,7 +5976,6 @@ Gesetzbuch den obersten Landesbehörden zuweist, auf
 Versicherungsbehörden und andere Behörden ihres Landes durch
 Rechtsverordnung übertragen; die Landesregierungen können diese
 Ermächtigung auf die obersten Landesbehörden weiter übertragen.
-
 
 ### § 92 Versicherungsämter
 
@@ -6208,7 +5991,6 @@ beteiligten Landesregierungen oder der von ihnen bestimmten Stellen
 kann ein gemeinsames Versicherungsamt bei einer unteren
 Verwaltungsbehörde auch für Gebietsteile mehrerer Länder errichtet
 werden.
-
 
 ### § 93 Aufgaben der Versicherungsämter
 
@@ -6234,7 +6016,6 @@ Tätigkeitsort hat. Ist ein solcher Ort im Geltungsbereich dieses
 Gesetzbuchs nicht vorhanden, richtet sich die Zuständigkeit nach dem
 Ort, in dem zuletzt die Voraussetzungen des Satzes 1 erfüllt waren.
 
-
 ### § 94 Bundesversicherungsamt
 
 (1) Das Bundesversicherungsamt ist eine selbständige
@@ -6257,14 +6038,9 @@ Bundesversicherungsamtes werden von der Sozialversicherung für
 Landwirtschaft, Forsten und Gartenbau erstattet. Die Kosten werden
 nach dem tatsächlich entstandenen Personal- und Sachaufwand berechnet.
 
-
 ### (XXXX) §§ 95 bis 110 (weggefallen)
 
-
-
 ## Sechster Abschnitt - Aufbewahrung von Unterlagen
-
-
 
 ### § 110a Aufbewahrungspflicht
 
@@ -6328,7 +6104,6 @@ Aufwendungen in angemessenem Umfang verlangen.
 Bildträger aufbewahrt werden, wenn diese Wiedergabe vor dem 1. Februar
 2003 durchgeführt wird.
 
-
 ### § 110b Rückgabe, Vernichtung und Archivierung von Unterlagen
 
 (1) Unterlagen, die für eine öffentlich-rechtliche
@@ -6364,7 +6139,6 @@ Stellen auf Anforderung zurückzugeben.
 soweit kein Grund zu der Annahme besteht, dass durch die Vernichtung
 schutzwürdige Interessen des Betroffenen beeinträchtigt werden.
 
-
 ### § 110c Verwaltungsvereinbarungen, Verordnungsermächtigung
 
 (1) Die Spitzenverbände der Träger der Sozialversicherung und die
@@ -6396,10 +6170,6 @@ Interessen der Betroffenen
 
 2.  für bestimmte Unterlagen allgemeine Aufbewahrungsfristen festzulegen.
 
-
-
-
-
 ### § 110d Beweiswirkung
 
 Ist eine Unterlage nach § 110a Absatz 2 auf anderen dauerhaften
@@ -6425,10 +6195,7 @@ die Daten auf diesem dauerhaften Datenträger zugrunde gelegt werden,
 soweit nach den Umständen des Einzelfalles kein Anlass ist, ihre
 sachliche Richtigkeit zu beanstanden.
 
-
 ## Siebter Abschnitt - Bußgeldvorschriften
-
-
 
 ### § 111 Bußgeldvorschriften
 
@@ -6547,7 +6314,6 @@ Fällen mit einer Geldbuße bis zu fünftausend Euro geahndet werden.
 
 (5) und (6) (weggefallen)
 
-
 ### § 112 Allgemeines über Bußgeldvorschriften
 
 (1) Verwaltungsbehörden im Sinne des § 36 Absatz 1 Nummer 1 des
@@ -6606,7 +6372,6 @@ Ordnungswidrigkeiten die notwendigen Auslagen; sie ist auch
 ersatzpflichtig im Sinne des § 110 Absatz 4 des Gesetzes über
 Ordnungswidrigkeiten.
 
-
 ### § 113 Zusammenarbeit mit anderen Behörden
 
 Zur Verfolgung und Ahndung der Ordnungswidrigkeiten nach § 111
@@ -6623,10 +6388,7 @@ Asylbewerberleistungsgesetzes, unterrichten sie die Träger der
 Sozialhilfe oder die für die Durchführung des
 Asylbewerberleistungsgesetzes zuständigen Behörden.
 
-
 ## Achter Abschnitt - Übergangsvorschriften
-
-
 
 ### § 114 Einkommen beim Zusammentreffen mit Renten wegen Todes
 
@@ -6705,13 +6467,7 @@ ist das monatliche Einkommen bis zum 30. Juni 2002 zu kürzen
 3.  bei Leistungen nach § 18a Absatz 3 Satz 1 Nummer 5 und 6 um 37,5 vom
     Hundert.
 
-
-
-
-
 ### § 115 (weggefallen)
-
-
 
 ### § 116 Übergangsregelungen für bestehende Wertguthaben
 
@@ -6743,15 +6499,12 @@ vereinbart sind, gilt § 7e Absatz 5 und 6 mit Wirkung ab dem 1. Juni
     Erbringung der Bauleistungen vor dem 1. Oktober 2009 beauftragt worden
     ist.“
 
-
-
 ### § 116a Übergangsregelung zur Beitragshaftung
 
 § 28e Absatz 3b und 3d Satz 1 in der am 30. September 2009 geltenden
 Fassung finden weiter Anwendung, wenn der Unternehmer mit der
 Erbringung der Bauleistungen vor dem 1. Oktober 2009 beauftragt worden
 ist.
-
 
 ### § 117 Verwaltungsausgaben der knappschaftlichen Krankenversicherung der Rentner
 
@@ -6761,10 +6514,7 @@ Knappschaftszahnärzte die entsprechenden Einnahmen übersteigen, sind
 sie abweichend von § 71 Absatz 2 der knappschaftlichen
 Rentenversicherung nicht zu erstatten.
 
-
 ### § 118 (weggefallen)
-
-
 
 ### § 119 Übergangsregelungen zur Aufhebung des Verfahrens des elektronischen Entgeltnachweises; Löschung der bisher gespeicherten Daten
 
@@ -6786,10 +6536,7 @@ und die Registratur Fachverfahren nach § 96 in der bis zum Ablauf des
 der jeweiligen Stelle gespeicherten Daten nach Absatz 1 abgeschlossen
 ist.
 
-
 ### § 120 (weggefallen)
-
-
 
 ### Anhang EV Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet F Abschnitt III (BGBl. II 1990, 889, 1046) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 

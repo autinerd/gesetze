@@ -18,18 +18,15 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 7 G v. 7.5.2002 I 1529
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## § 1 Urlaubsanspruch
 
 Jeder Arbeitnehmer hat in jedem Kalenderjahr Anspruch auf bezahlten
 Erholungsurlaub.
-
 
 ## § 2 Geltungsbereich
 
@@ -39,7 +36,6 @@ auch Personen, die wegen ihrer wirtschaftlichen Unselbständigkeit als
 arbeitnehmerähnliche Personen anzusehen sind; für den Bereich der
 Heimarbeit gilt § 12.
 
-
 ## § 3 Dauer des Urlaubs
 
 (1) Der Urlaub beträgt jährlich mindestens 24 Werktage.
@@ -47,12 +43,10 @@ Heimarbeit gilt § 12.
 (2) Als Werktage gelten alle Kalendertage, die nicht Sonn- oder
 gesetzliche Feiertage sind.
 
-
 ## § 4 Wartezeit
 
 Der volle Urlaubsanspruch wird erstmalig nach sechsmonatigem Bestehen
 des Arbeitsverhältnisses erworben.
-
 
 ## § 5 Teilurlaub
 
@@ -80,7 +74,6 @@ ergeben, sind auf volle Urlaubstage aufzurunden.
 Urlaub über den ihm zustehenden Umfang hinaus erhalten, so kann das
 dafür gezahlte Urlaubsentgelt nicht zurückgefordert werden.
 
-
 ## § 6 Ausschluß von Doppelansprüchen
 
 (1) Der Anspruch auf Urlaub besteht nicht, soweit dem Arbeitnehmer für
@@ -91,7 +84,6 @@ Urlaub gewährt worden ist.
 Arbeitsverhältnisses dem Arbeitnehmer eine Bescheinigung über den im
 laufenden Kalenderjahr gewährten oder abgegoltenen Urlaub
 auszuhändigen.
-
 
 ## § 7 Zeitpunkt, Übertragbarkeit und Abgeltung des Urlaubs
 
@@ -123,12 +115,10 @@ Teilurlaub jedoch auf das nächste Kalenderjahr zu übertragen.
 (4) Kann der Urlaub wegen Beendigung des Arbeitsverhältnisses ganz
 oder teilweise nicht mehr gewährt werden, so ist er abzugelten.
 
-
 ## § 8 Erwerbstätigkeit während des Urlaubs
 
 Während des Urlaubs darf der Arbeitnehmer keine dem Urlaubszweck
 widersprechende Erwerbstätigkeit leisten.
-
 
 ## § 9 Erkrankung während des Urlaubs
 
@@ -136,14 +126,12 @@ Erkrankt ein Arbeitnehmer während des Urlaubs, so werden die durch
 ärztliches Zeugnis nachgewiesenen Tage der Arbeitsunfähigkeit auf den
 Jahresurlaub nicht angerechnet.
 
-
 ## § 10 Maßnahmen der medizinischen Vorsorge oder Rehabilitation
 
 Maßnahmen der medizinischen Vorsorge oder Rehabilitation dürfen nicht
 auf den Urlaub angerechnet werden, soweit ein Anspruch auf Fortzahlung
 des Arbeitsentgelts nach den gesetzlichen Vorschriften über die
 Entgeltfortzahlung im Krankheitsfall besteht.
-
 
 ## § 11 Urlaubsentgelt
 
@@ -161,7 +149,6 @@ weitergewährt werden, sind für die Dauer des Urlaubs angemessen in bar
 abzugelten.
 
 (2) Das Urlaubsentgelt ist vor Antritt des Urlaubs auszuzahlen.
-
 
 ## § 12 Urlaub im Bereich der Heimarbeit
 
@@ -231,10 +218,6 @@ Bestimmungen:
     Nummer 4 genannten Personen gilt § 26 des Heimarbeitsgesetzes
     entsprechend.
 
-
-
-
-
 ## § 13 Unabdingbarkeit
 
 (1) Von den vorstehenden Vorschriften mit Ausnahme der §§ 1, 2 und 3
@@ -261,13 +244,11 @@ Gesellschaft und für den Bereich der Nachfolgeunternehmen der
 Deutschen Bundespost kann von der Vorschrift über das Kalenderjahr als
 Urlaubsjahr (§ 1) in Tarifverträgen abgewichen werden.
 
-
 ## § 14 Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
 im Land Berlin.
-
 
 ## § 15 Änderung und Aufhebung von Gesetzen
 
@@ -288,7 +269,6 @@ jedoch die landesrechtlichen Bestimmungen über den Urlaub für Opfer
 des Nationalsozialismus und für solche Arbeitnehmer, die geistig oder
 körperlich in ihrer Erwerbsfähigkeit behindert sind.
 
-
 ## § 15a Übergangsvorschrift
 
 Befindet sich der Arbeitnehmer von einem Tag nach dem 9. Dezember 1998
@@ -296,7 +276,6 @@ bis zum 1. Januar 1999 oder darüber hinaus in einer Maßnahme der
 medizinischen Vorsorge oder Rehabilitation, sind für diesen Zeitraum
 die seit dem 1. Januar 1999 geltenden Vorschriften maßgebend, es sei
 denn, daß diese für den Arbeitnehmer ungünstiger sind.
-
 
 ## § 16 Inkrafttreten
 

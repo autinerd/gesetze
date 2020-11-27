@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1994, 2577
 
-
-
 ## (XXXX)
 
 Auf Grund des § 13 der Zweiten Besoldungs-Übergangsverordnung in der
@@ -34,42 +32,35 @@ bekanntgemacht.
 
 Der Bundesminister des Innern
 
-
 ## Anlage IA (Anlage IV des BBesG) Gültig ab 1. Oktober 1994 nur für die Besoldungsgruppen A 9 bis A 16 sowie für die Bundesbesoldungsordnungen B, C und R
 
 (Inhalt: Nicht erfaßte Tabelle,
 Fundstelle: BGBl. I 1994, 2578 - 2580)
-
 
 ## Anlage IB (Anlage V des BBesG) Gültig ab 1. Oktober 1994 nur für die Besoldungsgruppen A 9 bis A 16 sowie für die Bundesbesoldungsordnungen B, C und R
 
 (Inhalt: Nicht erfaßte Tabelle,
 Fundstelle: BGBl. I 1994, 2580)
 
-
 ## Anlage IC (Anlage IX des BBesG) Gültig ab 1. Oktober 1994 nur für die Besoldungsgruppen A 9 bis A 16 sowie für die Bundesbesoldungsordnungen B, C und R
 
 (Inhalt: Nicht erfaßte Tabelle,
 Fundstelle: BGBl. I 1994, 2581 - 2583)
-
 
 ## Anlage IIA (Anlage IV des BBesG) Gültig ab 1. Oktober 1994 nur für die Besoldungsgruppen A 1 bis A 8, für die Besoldungsgruppen A 9 bis A 16 sowie für die Bundesbesoldungsordnungen B, C und R erst ab 1. Januar 1995
 
 (Inhalt: Nicht erfaßte Tabelle,
 Fundstelle: BGBl. I 1994, 2584 - 2586)
 
-
 ## Anlage IIB (Anlage V des BBesG) Gültig ab 1. Oktober 1994 nur für die Besoldungsgruppen A 1 bis A 8, für die Besoldungsgruppen A 9 bis A 16 sowie für die Bundesbesoldungsordnungen B, C und R erst ab 1. Januar 1995
 
 (Inhalt: Nicht erfaßte Tabelle,
 Fundstelle: BGBl. I 1994, 2586)
 
-
 ## Anlage IIC (Anlage IX des BBesG) Gültig ab 1. Oktober 1994 nur für die Besoldungsgruppen A 1 bis A 8, für die Besoldungsgruppen A 9 bis A 16 sowie für die Bundesbesoldungsordnungen B, C und R erst ab 1. Januar 1995
 
 (Inhalt: Nicht erfaßte Tabelle,
 Fundstelle: BGBl. I 1994, 2587 - 2589)
-
 
 ## Anlage III (Anlage VIII des BBesG) Gültig ab 1. Oktober 1994
 

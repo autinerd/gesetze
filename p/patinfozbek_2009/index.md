@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 815
 
-
 ## (XXXX)
 
 Nach § 34 Absatz 2 Satz 1 und § 35 Absatz 2 Satz 1 Nummer 2 des
@@ -49,7 +48,6 @@ ist.
 Die Präsidentin des Deutschen Patent- und Markenamts veröffentlicht im
 Blatt für Patent-, Muster- und Zeichnungswesen weitere Einzelheiten
 zur Entgegennahme der Anmeldungen.
-
 
 ## Schlussformel
 

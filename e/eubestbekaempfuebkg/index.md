@@ -17,13 +17,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 2002, 2727
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -38,7 +35,6 @@ veröffentlicht.
 (2) Die Bundesregierung kann bei der Hinterlegung der
 Ratifikationsurkunde eine Erklärung nach Artikel 13 Abs. 4 des
 Übereinkommens abgeben.
-
 
 ## Art 2
 
@@ -60,7 +56,6 @@ hat dem Gerichtshof der Europäischen Gemeinschaften zur
 Vorabentscheidung Fragen nach Absatz 1 vorzulegen, wenn es eine
 Entscheidung darüber zum Erlass seiner Entscheidung für erforderlich
 hält.
-
 
 ## Art 3
 

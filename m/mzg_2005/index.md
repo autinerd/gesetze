@@ -19,12 +19,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 G v. 14.12.2012 I 2578
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## § 1 Art und Zweck der Erhebung
 
@@ -40,7 +38,6 @@ Haushalte, den Arbeitsmarkt, die berufliche Gliederung und die
 Ausbildung der Erwerbsbevölkerung sowie die Wohnverhältnisse
 bereitzustellen.
 
-
 ## § 2 Erhebungseinheiten und Stichprobenauswahl
 
 (1) Erhebungseinheiten sind Personen, Haushalte und Wohnungen. Sie
@@ -55,14 +52,12 @@ wirtschaften. Wer allein wohnt oder allein wirtschaftet, bildet einen
 eigenen Haushalt. Personen mit mehreren Wohnungen werden in jeder
 ausgewählten Wohnung einem Haushalt zugeordnet.
 
-
 ## § 3 Periodizität
 
 Die Erhebung wird gleichmäßig über die Kalenderwochen verteilt
 durchgeführt. In jedem Auswahlbezirk werden die Erhebungseinheiten
 innerhalb von fünf aufeinander folgenden Jahren bis zu viermal
 befragt.
-
 
 ## § 4 Erhebungsmerkmale
 
@@ -260,10 +255,6 @@ von 1 Prozent der Bevölkerung im Abstand von vier Jahren erfragt:
 
     Zahl der lebend geborenen Kinder.
 
-
-
-
-
 ## § 5 Hilfsmerkmale
 
 (1) Hilfsmerkmale sind:
@@ -288,7 +279,6 @@ von 1 Prozent der Bevölkerung im Abstand von vier Jahren erfragt:
 (2) Das Hilfsmerkmal nach Absatz 1 Nr. 5 darf nur zur Überprüfung der
 Zuordnung der Erwerbstätigen zu Wirtschaftszweigen verwendet werden.
 
-
 ## § 6 Erhebungsbeauftragte
 
 (1) Für die Erhebungen sollen Erhebungsbeauftragte nach § 14 des
@@ -304,7 +294,6 @@ Auskunftspflichtigen einverstanden sind.
 (2) Soweit die Erhebungsbeauftragten ehrenamtlich eingesetzt werden,
 erhalten sie für ihre Tätigkeit eine steuerfreie Aufwandsentschädigung
 im Sinne des § 3 Nr. 12 Satz 2 des Einkommensteuergesetzes.
-
 
 ## § 7 Auskunftspflicht
 
@@ -351,7 +340,6 @@ vermögenswirksame Leistungen und angelegter Gesamtbetrag nach § 4 Abs.
 und Nr. 14, Abs. 2 Nr. 1 und 3, Abs. 5 und die Hilfsmerkmale nach § 5
 Abs. 1 Nr. 2 sind freiwillig.
 
-
 ## § 8 Trennung und Löschung
 
 (1) Die Hilfsmerkmale nach § 5 sind von den Erhebungsmerkmalen
@@ -379,11 +367,9 @@ Durchführung der Statistik der Wirtschaftsrechnungen privater
 Haushalte und anderer Erhebungen auf freiwilliger Basis verwendet
 werden.
 
-
 ## § 9 Nichtanwendung der Bußgeldvorschriften des Bundesstatistikgesetzes
 
 Die §§ 23 und 24 des Bundesstatistikgesetzes finden keine Anwendung.
-
 
 ## § 10 Datenübermittlung
 
@@ -409,10 +395,6 @@ Auswahlbezirken nach § 2 Abs. 1 wohnen:
 
 6.  bei mehreren Wohnungen: Hauptwohnung.
 
-
-
-
-
 ## § 11 Zusatzaufbereitungen zur Erwerbsbeteiligung
 
 Für Zusatzaufbereitungen zur Erwerbsbeteiligung übermitteln die
@@ -420,7 +402,6 @@ statistischen Ämter der Länder jeweils monatlich die für den Vormonat
 verfügbaren Angaben zu den Erhebungsmerkmalen nach § 4 Abs. 1 an das
 Statistische Bundesamt, das sie unverzüglich zusammenstellt und die
 Ergebnisse veröffentlicht.
-
 
 ## § 12 Stichprobenerhebungen über Arbeitskräfte in der Europäischen Union
 
@@ -433,7 +414,6 @@ jeweils geltenden Fassung angeordneten Stichprobenerhebungen über
 Arbeitskräfte werden bei den ausgewählten Haushalten und Personen zur
 gleichen Zeit mit gemeinsamen Erhebungsunterlagen durchgeführt und
 gemeinsam ausgewertet.
-
 
 ## § 13 Verordnungsermächtigung
 
@@ -475,13 +455,6 @@ Rechtsverordnung mit Zustimmung des Bundesrates
 
 
     h)  Wohnsituation.
-
-
-
-
-
-
-
 
 ## § 14 Inkrafttreten, Außerkrafttreten
 

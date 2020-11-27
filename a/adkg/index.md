@@ -15,14 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 1218
 
-
-
 ## § 1 Name, Sitz, Rechtsform
 
 Unter dem Namen "Akademie der Künste" wird mit Sitz in Berlin eine
 bundesunmittelbare, rechtsfähige Körperschaft des öffentlichen Rechts
 errichtet. Die Akademie der Künste verwaltet sich selbst.
-
 
 ## § 2 Aufgaben
 
@@ -48,7 +45,6 @@ die sich um die Künste verdient gemacht haben.
 (3) Die Akademie der Künste kann mit Zustimmung der die Rechtsaufsicht
 führenden obersten Bundesbehörde weitere Aufgaben im Sinne des
 Absatzes 1 übernehmen.
-
 
 ## § 3 Satzung
 
@@ -78,12 +74,10 @@ e)  die Geschäftsführung.
 Der Verwaltungsbeirat ist mit den Wirtschafts- und
 Personalangelegenheiten der Akademie der Künste zu befassen.
 
-
 ## § 4 Organe
 
 Die Organe der Akademie der Künste sind die Mitgliederversammlung, der
 Senat, der Präsident oder die Präsidentin.
-
 
 ## § 5 Mitglieder
 
@@ -106,7 +100,6 @@ Präsidentin berufen.
 
 (5) Die Einzelheiten regelt die Satzung.
 
-
 ## § 6 Mitgliederversammlung
 
 (1) Der Mitgliederversammlung der Akademie der Künste gehören alle
@@ -122,7 +115,6 @@ verlangen.
 (3) Die Mitgliederversammlung beschließt die Satzung mit der Mehrheit
 von zwei Dritteln der anwesenden Mitglieder.
 
-
 ## § 7 Senat
 
 (1) Der Senat besteht aus dem Präsidenten oder der Präsidentin, dem
@@ -136,7 +128,6 @@ Geschäftsführung und Sekretäre oder Sekretärinnen. Hiervon ausgenommen
 sind die bestandsbezogenen Veranstaltungen des Archivs.
 
 (2) Die näheren Einzelheiten regelt die Satzung.
-
 
 ## § 8 Präsident oder Präsidentin
 
@@ -153,7 +144,6 @@ durch den Vizepräsidenten oder die Vizepräsidentin vertreten.
 Vizepräsidentin werden von der Mitgliederversammlung in geheimer
 Abstimmung aus dem Kreis der Mitglieder gewählt. Die Amtszeit beträgt
 jeweils drei Jahre. Ihre Wiederwahl ist möglich.
-
 
 ## § 9 Sektionen
 
@@ -178,7 +168,6 @@ Sekretäre oder Sekretärinnen tätig.
 (4) Das Nähere regelt die Satzung. Sie kann auch eine von Absatz 1
 abweichende Regelung über die Sektionen enthalten.
 
-
 ## § 10 Archiv
 
 (1) Die Akademie der Künste hat ein Archiv, für das im Rahmen der
@@ -192,14 +181,12 @@ Preußischen Akademie der Künste sowie sämtliche Kunstsparten.
 (3) In der Satzung sind Einrichtung und Aufgaben eines Archiv-Rates zu
 regeln.
 
-
 ## § 11 Geschäftsführung
 
 Die Geschäftsführung der Akademie der Künste wird nach Maßgabe der
 Satzung unter Leitung des Präsidenten oder der Präsidentin durch
 hauptamtliche Beauftragte für die Bereiche Programm, Archiv und
 Verwaltung wahrgenommen.
-
 
 ## § 12 Beschäftigte
 
@@ -214,7 +201,6 @@ und der Sekretäre oder Sekretärinnen vorsehen.
 (3) Die Akademie der Künste übernimmt alle Rechte und Pflichten aus
 den bestehenden Arbeits- und Ausbildungsverhältnissen der bisherigen
 landesunmittelbaren Körperschaft Akademie der Künste.
-
 
 ## § 13 Haushalt, Aufsicht, Rechnungsprüfung
 
@@ -232,12 +218,10 @@ entsprechend angewandt, die für die unmittelbare Bundesverwaltung
 gelten. Für besondere Funktionen kann in der Satzung die Gewährung von
 Aufwandsentschädigungen vorgesehen werden.
 
-
 ## § 14 Gebühren
 
 Die Akademie der Künste verlangt nach Maßgabe der Satzung Entgelte für
 die Benutzung ihrer Einrichtungen und für Veranstaltungen.
-
 
 ## § 15 Übernahme von Rechten und Pflichten
 
@@ -258,7 +242,6 @@ Senatsbeschlusses vom 28. Januar 1994 entsprechende Anwendung.
 aufgelöst. Die Akademie der Künste übernimmt die Rechte und Pflichten,
 welche für die bisherige Stiftung Archiv der Akademie der Künste
 begründet worden sind.
-
 
 ## § 16 Inkrafttreten
 

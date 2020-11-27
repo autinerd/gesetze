@@ -18,17 +18,13 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 5 Abs. 31 G v. 24.2.2012 I 212
 
-
 ## Eingangsformel
 
 Auf Grund der §§ 6, 8 Abs. 1 und 2 und des § 13 Abs. 1 Satz 2 des
 Bundes-Bodenschutzgesetzes vom 17. März 1998 (BGBl. I S. 502)
 verordnet die Bundesregierung nach Anhörung der beteiligten Kreise:
 
-
 ## Erster Teil - Allgemeine Vorschriften
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -61,10 +57,6 @@ Diese Verordnung gilt für
 5.  die Festlegung von Prüf- und Maßnahmenwerten sowie von Vorsorgewerten
     einschließlich der zulässigen Zusatzbelastung nach § 8 Abs. 1 Satz 2
     Nr. 1 und 2 und Abs. 2 Nr. 1 und 2 des Bundes-Bodenschutzgesetzes.
-
-
-
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -155,13 +147,7 @@ Im Sinne dieser Verordnung sind
     Bodenschicht, die von den Pflanzenwurzeln in Abhängigkeit von den
     natürlichen Standortbedingungen durchdrungen werden kann.
 
-
-
-
-
 ## Zweiter Teil - Anforderungen an die Untersuchung und Bewertung von Verdachtsflächen und altlastverdächtigen Flächen
-
-
 
 ### § 3 Untersuchung
 
@@ -245,7 +231,6 @@ Betracht.
 sonstigen Materialien sowie von Bodenluft, Deponiegas und Sickerwasser
 bestimmen sich im übrigen nach Anhang 1.
 
-
 ### § 4 Bewertung
 
 (1) Die Ergebnisse der orientierenden Untersuchungen sind nach dieser
@@ -309,10 +294,7 @@ großflächig siedlungsbedingt erhöhten Schadstoffgehalten kann ein
 Vergleich dieser Gehalte mit den im Einzelfall ermittelten
 Schadstoffgehalten in die Gefahrenbeurteilung einbezogen werden.
 
-
 ## Dritter Teil - Anforderungen an die Sanierung von schädlichen Bodenveränderungen und Altlasten
-
-
 
 ### § 5 Sanierungsmaßnahmen, Schutz- und Beschränkungsmaßnahmen
 
@@ -362,10 +344,7 @@ erklärten Sanierungsplans wieder auf- oder eingebracht oder umgelagert
 werden, sind die Anforderungen nach § 4 Abs. 3 des Bundes-
 Bodenschutzgesetzes zu erfüllen.
 
-
 ## Vierter Teil - Ergänzende Vorschriften für Altlasten
-
-
 
 ### § 6 Sanierungsuntersuchung und Sanierungsplanung
 
@@ -390,10 +369,7 @@ Bundes-Bodenschutzgesetzes diese nicht einschließen kann.
 (3) Die Anforderungen an eine Sanierungsuntersuchung und an einen
 Sanierungsplan bestimmten sich im übrigen nach Anhang 3.
 
-
 ## Fünfter Teil - Ausnahmen
-
-
 
 ### § 7 Ausnahmen
 
@@ -402,10 +378,7 @@ Feststellung der zuständigen Behörde Gefahren, erhebliche Nachteile
 oder erhebliche Belästigungen mit einfachen Mitteln abgewehrt oder
 sonst beseitigt werden können, findet § 6 keine Anwendung.
 
-
 ## Sechster Teil - Ergänzende Vorschriften für die Gefahrenabwehr von schädlichen Bodenveränderungen auf Grund von Bodenerosion durch Wasser
-
-
 
 ### § 8 Gefahrenabwehr von schädlichen Bodenveränderungen auf Grund von Bodenerosion durch Wasser
 
@@ -461,10 +434,7 @@ erosionsmindernde Maßnahmen für die Nutzung der Erosionsfläche zu
 empfehlen. Bei Anordnungen ist Einvernehmen mit der zuständigen
 landwirtschaftlichen Fachbehörde herbeizuführen.
 
-
 ## Siebter Teil - Vorsorge gegen das Entstehen schädlicher Bodenveränderungen
-
-
 
 ### § 9 Besorgnis schädlicher Bodenveränderungen
 
@@ -495,7 +465,6 @@ erwarten lassen.
 (3) Absatz 2 gilt entsprechend bei Böden mit großflächig
 siedlungsbedingt erhöhten Schadstoffgehalten.
 
-
 ### § 10 Vorsorgeanforderungen
 
 (1) Sind die Voraussetzungen des § 9 Abs. 1 Satz 1 Nr. 1, Abs. 2 oder
@@ -516,7 +485,6 @@ begrenzen. Dies gilt insbesondere für die Stoffe, die nach der
 Gefahrstoffverordnung als krebserzeugend, erbgutverändernd oder
 fortpflanzungsgefährdend eingestuft sind.
 
-
 ### § 11 Zulässige Zusatzbelastung
 
 (1) Werden die in Anhang 2 Nr. 4.1 festgesetzten Vorsorgewerte bei
@@ -535,7 +503,6 @@ Sinne des § 3 Abs. 3 Satz 2 des Bundes-Bodenschutzgesetzes, welche
 Zusatzbelastungen durch den Betrieb einer Anlage nicht als
 ursächlicher Beitrag zum Entstehen schädlicher Bodenveränderungen
 anzusehen sind.
-
 
 ### § 12 Anforderungen an das Aufbringen und Einbringen von Materialien auf oder in den Boden
 
@@ -646,10 +613,7 @@ auf die landwirtschaftliche Nutzfläche nach lokal begrenzten
 Erosionsereignissen oder zur Rückführung von Bodenmaterial aus der
 Reinigung landwirtschaftlicher Ernteprodukte.
 
-
 ## Achter Teil - Schlußbestimmungen
-
-
 
 ### § 13 Zugänglichkeit von technischen Regeln und Normblättern
 
@@ -661,16 +625,13 @@ hinterlegt. Die Bezugsquellen sind in Anhang 1 Nr. 6.2 aufgeführt.
 beziehen sich jeweils auf die Fassung, die zu dem in der Verweisung
 angegebenen Zeitpunkt veröffentlicht ist.
 
-
 ### § 14 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
 ### Schlußformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ### Anhang 1
 
@@ -3939,10 +3900,6 @@ enthalten.
 
 
 5.  Darstellung des Zeitplans und der Kosten.
-
-
-
-
 
 ### Anhang 4
 

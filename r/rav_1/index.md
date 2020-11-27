@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 9 G v. 25.9.1996 I 1461
 
-
 ## Eingangsformel
 
 Auf Grund der
@@ -39,7 +38,6 @@ Auf Grund der
 
 verordnet die Bundesregierung:
 
-
 ## § 1 Grundsatz
 
 Die in § 19 des Rentenangleichungsgesetzes genannten Renten aus der
@@ -52,13 +50,11 @@ Leistungen nach den §§ 9 bis 11 der Versorgungsordnung der Deutschen
 Reichsbahn und Leistungen nach den §§ 9 bis 11 der Versorgungsordnung
 der Deutschen Post.
 
-
 ## § 2 Renten aus der Rentenversicherung
 
 Die Renten aus der Rentenversicherung werden dadurch angepaßt, daß der
 nach den sonst maßgebenden Vorschriften ermittelte Betrag um 15 vom
 Hundert erhöht wird.
-
 
 ## § 3 Renten aus der Unfallversicherung
 
@@ -66,7 +62,6 @@ Die Renten aus der Unfallversicherung für Arbeitsunfälle und
 Berufskrankheiten, die vor dem 1. Januar 1991 eingetreten sind, werden
 nach einer um 15 vom Hundert erhöhten Berechnungsgrundlage berechnet.
 Dies gilt nicht für Kinderzuschläge zu Unfallrenten.
-
 
 ## § 4 Kriegsbeschädigtenrenten
 
@@ -77,12 +72,10 @@ Anrechnung von Einkommen auf die Kriegsbeschädigtenrente (§ 7 Abs. 2
 Satz 1 des Rentenangleichungsgesetzes) auf die angepaßte Rente
 anzuwenden.
 
-
 ## § 5 Auswirkungen auf den Sozialzuschlag
 
 Die sich nach den §§ 2 und 3 ergebenden Erhöhungsbeträge werden auf
 den Sozialzuschlag nicht angerechnet.
-
 
 ## § 6 Renten mit Zusatzversorgung
 
@@ -103,7 +96,6 @@ haben.
 (3) Ab 1. Januar 1991 werden gleichartige zusätzliche Versorgungen nur
 insoweit gezahlt, als sie die sich nach Absatz 1 und die sich nach § 2
 oder § 3 ergebenden Erhöhungsbeträge übersteigen.
-
 
 ## § 7 Berechnung der in der Zeit vom 1. Januar 1991 bis 30. Juni 1991 entstehenden Rentenansprüche aus der Rentenversicherung
 
@@ -191,14 +183,9 @@ Prozentsätze:
 
     *   0,00
 
-
-
-
-
 ## § 8 Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 1991 in Kraft.
-
 
 ## Schlußformel
 

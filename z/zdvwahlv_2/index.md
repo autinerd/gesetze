@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 1011
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 2 Abs. 5 des Zivildienstvertrauensmann-Gesetzes vom
@@ -24,7 +22,6 @@ Auf Grund des § 2 Abs. 5 des Zivildienstvertrauensmann-Gesetzes vom
 Buchstabe b des Gesetzes vom 27. September 2000 (BGBl. I S. 1393)
 geändert wurde, verordnet das Bundesministerium für Familie, Senioren,
 Frauen und Jugend:
-
 
 ## § 1 Wahlbereiche
 
@@ -36,7 +33,6 @@ Dienstleistenden je einen Vertrauensmann und zwei Stellvertreter. Für
 Lehrgänge entfällt die Wahl, wenn die voraussichtliche Amtsdauer des
 Vertrauensmannes bis zur Beendigung des Lehrgangs weniger als zehn
 Kalendertage beträgt.
-
 
 ## § 2 Bestellung des Wahlvorstandes
 
@@ -67,7 +63,6 @@ Leitung der Dienststelle, bei Lehrgängen die Lehrgangsleitung,
 unverzüglich erneut eine Versammlung der Wahlberechtigten zur Wahl des
 Wahlvorstandes nach den Vorschriften der Absätze 2 und 3 ein.
 
-
 ## § 3 Wahltermin
 
 Der Wahlvorstand legt im Einvernehmen mit der Leitung der
@@ -76,7 +71,6 @@ Lehrgangs Ort und Zeit der Versammlung zur Wahl des Vertrauensmannes
 und der Stellvertreter fest. Sie soll in den Dienststellen spätestens
 zwei Wochen nach Bestellung des Wahlvorstandes, in Lehrgängen
 spätestens einen Tag nach Lehrgangsbeginn stattfinden.
-
 
 ## § 4 Wahlbekanntgabe
 
@@ -108,10 +102,6 @@ bekannt
     Zeitpunkt schriftlich oder zur Niederschrift beim Wahlvorstand
     eingelegt werden können.
 
-
-
-
-
 ## § 5 Wählerverzeichnis
 
 (1) Der Wahlvorstand stellt auf der Grundlage der von der Leitung der
@@ -121,7 +111,6 @@ Verzeichnis der Wahlberechtigten auf (Wählerverzeichnis).
 (2) Das Wählerverzeichnis ist unverzüglich an geeigneter Stelle zur
 Einsicht auszulegen und bis zum Abschluss der Wahl auf dem Laufenden
 zu halten.
-
 
 ## § 6 Einspruch gegen das Wählerverzeichnis
 
@@ -136,7 +125,6 @@ und bei Lehrgängen mündlich mitzuteilen.
 
 (3) Ist der Einspruch begründet, berichtigt der Wahlvorstand das
 Wählerverzeichnis.
-
 
 ## § 7 Wahlverfahren
 
@@ -182,12 +170,10 @@ gekennzeichnet und in die Umschläge gesteckt werden können und dass
 das Wahlgeheimnis gewahrt bleibt. Die Stimmabgabe ist im
 Wählerverzeichnis zu vermerken.
 
-
 ## § 8 Bereitstellen der Mittel
 
 Die sächlichen Mittel für die Durchführung der Wahl stellt die Leitung
 der Dienststelle oder des Lehrgangs zur Verfügung.
-
 
 ## § 9 Verbot der Wahlbehinderung
 
@@ -197,7 +183,6 @@ beschränkt werden.
 
 (2) Die Wahl darf nicht durch Versprechen von Vorteilen oder durch
 Androhen von Nachteilen beeinflusst werden.
-
 
 ## § 10 Feststellung des Wahlergebnisses
 
@@ -223,7 +208,6 @@ der Gewählte sie nicht unverzüglich ablehnt. Lehnt der Gewählte die
 Wahl ab, ist baldmöglichst ein neuer Wahlgang gemäß § 2 vorzunehmen.
 Hat nur ein Dienstleistender Stimmen erhalten, ist die Wahl für seinen
 oder seine Vertreter gesondert durchzuführen.
-
 
 ## § 11 Wahlniederschrift
 
@@ -251,7 +235,6 @@ die von seinen Mitgliedern zu unterzeichnen ist. Sie muss enthalten
 des Wahlergebnisses sind vom Wahlvorstand in der Wahlniederschrift zu
 vermerken.
 
-
 ## § 12 Bekanntgabe der Gewählten, Aufbewahren der Wahlunterlagen
 
 (1) Der Wahlvorstand gibt die Namen des Vertrauensmannes und der
@@ -265,7 +248,6 @@ von der Dienststelle, bei Lehrgängen von der Lehrgangsleitung, in
 einem vom Wahlvorstand nach Auszählung der Stimmen versiegelten
 Umschlag aufbewahrt. Das Bundesamt für den Zivildienst erhält eine
 Zweitausfertigung der Wahlniederschrift.
-
 
 ## § 13 Inkrafttreten, Außerkrafttreten
 

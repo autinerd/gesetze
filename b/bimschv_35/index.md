@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 5.12.2007 I 2793
 
-
 ## § 1 Anwendungsbereich
 
 (1) Diese Verordnung regelt Ausnahmen von Verkehrsverboten nach § 40
@@ -43,7 +42,6 @@ mit lebensnotwendigen Gütern und Dienstleistungen notwendig ist, oder
 insbesondere wenn Fertigungs- und Produktionsprozesse auf andere Weise
 nicht aufrechterhalten werden können.
 
-
 ## § 2 Zuordnung von Kraftfahrzeugen zu Schadstoffgruppen
 
 (1) Kraftfahrzeuge, die mit einer Plakette nach Anhang 1
@@ -60,7 +58,6 @@ ergibt sich aus Anhang 2.
 Verkehrsverboten nach § 40 Abs. 1 des Bundes-Immissionsschutzgesetzes
 auch dann ausgenommen, wenn sie nicht gemäß Absatz 1 mit einer
 Plakette gekennzeichnet sind.
-
 
 ## § 3 Kennzeichnung
 
@@ -82,7 +79,6 @@ der Windschutzscheibe anzubringen. Die Plakette muss so beschaffen und
 angebracht sein, dass sie sich beim Ablösen von der Windschutzscheibe
 selbst zerstört.
 
-
 ## § 4 Ausgabe der Plaketten
 
 Ausgabestellen für die Plaketten sind die Zulassungsbehörden oder die
@@ -94,7 +90,6 @@ Kraftfahrzeugverkehr in der im Bundesgesetzblatt Teil III,
 Gliederungsnummer 9232-4, veröffentlichten bereinigten Fassung, die
 zuletzt durch Artikel 10 der Verordnung vom 25. April 2006 (BGBl. I S.
 988) geändert worden ist.
-
 
 ## § 5 Nachweis der Schadstoffgruppe für im Inland zugelassene Fahrzeuge
 
@@ -118,7 +113,6 @@ nachgewiesen
 die Zuordnung der in den Fahrzeugpapieren eingetragenen
 Emissionsschlüsselnummern zu den einzelnen Schadstoffgruppen im
 Verkehrsblatt bekannt.
-
 
 ## § 6 Nachweis der Schadstoffgruppe für im Ausland zugelassene Fahrzeuge
 
@@ -312,10 +306,6 @@ der Schadstoffgruppe 4 an, wenn
     Richtlinie 2005/55/EG in der jeweils zuletzt geänderten, im Amtsblatt
     der Europäischen Union veröffentlichten Fassung fallen.
 
-
-
-
-
 ## Anhang 1 Plakettenmuster (zu § 2 Abs. 1 und § 3 Abs. 1)
 
 (Fundstelle des Originaltextes: BGBl. I 2006, 2220)
@@ -369,7 +359,6 @@ Die Farbtöne des Untergrundes, des Randes und der Beschriftung sind
 dem Farbregister RAL 840-HR, herausgegeben vom RAL Deutsches Institut
 für Gütesicherung und Kennzeichnung e.V., Siegburger Str. 39, 53757
 St. Augustin, zu entnehmen.
-
 
 ## Anhang 2 Zuordnung der Kraftfahrzeuge zu den Schadstoffgruppen (zu § 2 Abs. 2)
 
@@ -899,7 +888,6 @@ den Schadstoffgruppen 1 und 4 wie folgt zugeordnet:
 (3) Kraftfahrzeuge mit Antrieb ohne Verbrennungsmotor (z. B.
 Elektromotor, Brennstoffzellenfahrzeuge) werden der Schadstoffgruppe 4
 zugeordnet.
-
 
 ## Anhang 3 Ausnahmen von der Kennzeichnungspflicht nach § 2 Abs. 1 (zu § 2 Abs. 3)
 

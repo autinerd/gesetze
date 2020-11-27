@@ -20,10 +20,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 10 G v. 19.10.2012 I 2192
 
-
 ## Abschnitt 1 - Anwendungsbereich und Begriffsbestimmungen
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -145,7 +142,6 @@ Richtlinie 2004/28/EG des Europäischen Parlaments und des Rates vom
 31\. März 2004 (ABl. EU Nr. L 136 S. 58), durch den Geltungsbereich der
 Verordnung befördert werden oder in ein Zolllagerverfahren oder eine
 Freizone des Kontrolltyps I oder II übergeführt werden (Transit).
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -284,13 +280,7 @@ Im Sinne dieser Verordnung
     Produkten in Berührung kommen oder einen anderen Einfluss auf die
     Qualität oder Sicherheit der Produkte haben können.
 
-
-
-
-
 ## Abschnitt 2 - Allgemeine Anforderungen
-
-
 
 ### § 3 Qualitätsmanagementsystem, Gute Herstellungspraxis und gute fachliche Praxis
 
@@ -317,7 +307,6 @@ EG-GMP Leitfadens.
 Gewebeeinrichtungen sowie Gewebespenderlabore, die ihre Tätigkeiten
 nach den Standards der guten fachlichen Praxis ausüben.
 
-
 ### § 4 Personal
 
 (1) Die Betriebe und Einrichtungen müssen über sachkundiges und
@@ -343,7 +332,6 @@ beschreiben. Organisationsschemata und Arbeitsplatzbeschreibungen sind
 nach betriebsinternen Verfahren zu genehmigen. Den in Satz 1 genannten
 Mitarbeitern sind ausreichende Befugnisse einzuräumen, damit sie ihrer
 Verantwortung nachkommen können.
-
 
 ### § 5 Betriebsräume und Ausrüstungen
 
@@ -375,7 +363,6 @@ ist sicherzustellen, dass der Arbeitsbereich und die Ausrüstung sauber
 und frei von allen für die geplanten Arbeitsgänge nicht benötigten
 Ausgangsstoffen, Produkten, Produktrückständen, Unterlagen und
 sonstigen Materialien sind.
-
 
 ### § 6 Hygienemaßnahmen
 
@@ -413,7 +400,6 @@ enthalten.
 (3) Soweit zur Herstellung und Prüfung von Produkten, auf die sich
 diese Verordnung bezieht, Tiere verwendet werden, müssen bei ihrer
 Haltung die hygienischen Erfordernisse beachtet werden.
-
 
 ### § 7 Lagerung und Transport
 
@@ -459,7 +445,6 @@ Verfahren nachzuweisen.
 Verantwortungsbereich des Empfängers ist dafür Sorge zu tragen, dass
 kein Unbefugter Zugriff hat und die Qualität der Produkte nicht
 beeinträchtigt wird.
-
 
 ### § 8 Tierhaltung
 
@@ -519,7 +504,6 @@ mindestens Angaben enthalten über
 Bereichen abgetrennt sein und über einen eigenen Eingang sowie über
 eigene Belüftungsanlagen verfügen.
 
-
 ### § 9 Tätigkeiten im Auftrag
 
 (1) Für jede Tätigkeit im Auftrag, insbesondere die Herstellung,
@@ -542,7 +526,6 @@ weiter vergeben. Er muss im Falle einer Auftragsherstellung oder
 Auftragsprüfung die Grundsätze und Leitlinien der Guten
 Herstellungspraxis oder der Guten fachlichen Praxis und insbesondere
 die vorgegebenen Herstellungs- und Prüfanweisungen einhalten.
-
 
 ### § 10 Allgemeine Dokumentation
 
@@ -575,7 +558,6 @@ Ausführung der jeweiligen Tätigkeiten vornehmen können.
 dass sie den unverzüglichen Rückruf des jeweiligen Produkts
 ermöglichen.
 
-
 ### § 11 Selbstinspektionen und Lieferantenqualifizierung
 
 (1) Um die Beachtung der Vorschriften dieser Verordnung
@@ -601,10 +583,7 @@ Lieferanten wiedergeben. Die Sätze 1 und 4 gelten entsprechend für
 kritische Ausgangsstoffe, die für die Wirkstoffherstellung eingesetzt
 werden.
 
-
 ## Abschnitt 3 - Arzneimittel, Blutprodukte und andere Blutbestandteile sowie Produkte menschlicher Herkunft
-
-
 
 ### § 12 Personal in leitender und in verantwortlicher Stellung
 
@@ -684,7 +663,6 @@ Arzneimittelgesetzes zu bedürfen, hat Personen festzulegen, die für
 die Herstellung einschließlich der Freigabe, für die Lagerung und für
 die Qualitätskontrolle verantwortlich sind.
 
-
 ### § 13 Herstellung
 
 (1) Die Herstellungsvorgänge sind mit Ausnahme der Freigabe unter
@@ -743,7 +721,6 @@ gilt Satz 1 entsprechend.
 Datum und Unterschrift zu bestätigen, dass die Charge entsprechend der
 Herstellungsanweisung hergestellt wurde.
 
-
 ### § 14 Prüfung
 
 (1) Ausgangsstoffe und Endprodukte sowie erforderlichenfalls auch
@@ -785,7 +762,6 @@ Haltbarkeit ist das Enddatum anzugeben.
 an die Qualität nicht genügen, sind als solche kenntlich zu machen und
 abzusondern. Über die weiteren Maßnahmen ist von dazu befugtem
 Personal zu entscheiden. Die Maßnahmen sind zu dokumentieren.
-
 
 ### § 15 Kennzeichnung
 
@@ -878,7 +854,6 @@ wie folgt zu kennzeichnen:
 In begründeten Fällen kann die zuständige Behörde Ausnahmen über die
 Kennzeichnung zulassen.
 
-
 ### § 16 Freigabe zum Inverkehrbringen
 
 (1) Die Freigabe einer Charge zum Inverkehrbringen darf von der
@@ -959,7 +934,6 @@ Sachkenntnis nach § 15 des Arzneimittelgesetzes verfügen.
 Arzneimittelgesetzes hat der sachkundigen Person nach § 14 des
 Arzneimittelgesetzes die Durchführung ihrer Aufgabe zu ermöglichen und
 ihr insbesondere alle erforderlichen Mittel zur Verfügung zu stellen.
-
 
 ### § 17 Inverkehrbringen und Einfuhr
 
@@ -1060,10 +1034,6 @@ Angabe der Chargenbezeichnung gilt auch
 3.  bei Abgabe von zur Anwendung bei Tieren bestimmten
     verschreibungspflichtigen Arzneimitteln.
 
-
-
-
-
 ### § 18 Rückstellmuster
 
 (1) Die für die Freigabe nach § 16 verantwortliche sachkundige Person
@@ -1117,7 +1087,6 @@ erfolgen. Von Satz 1 kann abgesehen werden, wenn die Rückstellmuster
 in einem Mitgliedstaat der Europäischen Union oder in einem anderen
 Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
 gelagert werden.
-
 
 ### § 19 Beanstandungen und Rückruf
 
@@ -1189,7 +1158,6 @@ Risiko-Verhältnisses eines Arzneimittels unverzüglich dem oder der
 Stufenplanbeauftragten oder der nach Absatz 7 Satz 1 entsprechend
 beauftragten Person mitgeteilt werden.
 
-
 ### § 20 Aufbewahrung der Dokumentation
 
 (1) Alle Aufzeichnungen über den Erwerb, die Herstellung
@@ -1252,10 +1220,7 @@ Unterlagen mindestens fünf Jahre nach Abschluss oder Abbruch der
 letzten klinischen Prüfung, bei der die betreffende Charge zur
 Anwendung kam, aufzubewahren sind.
 
-
 ## Abschnitt 4 - Wirkstoffe nicht menschlicher Herkunft
-
-
 
 ### § 21 Organisationsstruktur
 
@@ -1275,7 +1240,6 @@ unterliegen, findet § 12 Abs. 1 Anwendung.
 § 13 oder § 72 des Arzneimittelgesetzes zu bedürfen, hat die zur
 Freigabe von Zwischenprodukten und Wirkstoffen berechtigten Personen
 entsprechend festzulegen.
-
 
 ### § 22 Herstellung
 
@@ -1321,7 +1285,6 @@ oder mehrere entsprechende Personen festzulegen, die für die
 Überprüfung der Protokolle auf Vollständigkeit und Richtigkeit
 verantwortlich sind.
 
-
 ### § 23 Prüfung
 
 (1) Ausgangsstoffe, Zwischenprodukte und Wirkstoffe sind nach vorher
@@ -1362,7 +1325,6 @@ anstelle des Verfalldatums auch ein Nachprüfdatum angegeben werden.
 Anforderungen an die Qualität nicht genügen, sind als solche kenntlich
 zu machen und abzusondern. Über die weiteren Maßnahmen ist von dazu
 befugtem Personal zu entscheiden. Die Maßnahmen sind zu dokumentieren.
-
 
 ### § 24 Kennzeichnung
 
@@ -1436,7 +1398,6 @@ erforderlich sind. Eine Tätigkeit im Sinne von Satz 4 gilt nicht als
 Herstellungsschritt. Der Vorgang ist zu dokumentieren und auf
 Verlangen der zuständigen Behörde vorzulegen.
 
-
 ### § 25 Freigabe zum Inverkehrbringen
 
 (1) Die Freigabe zum Inverkehrbringen darf nur nach vorher erstellten
@@ -1498,7 +1459,6 @@ Wirkstoffen, die ausschließlich freigegeben werden, darf die Freigabe
 nach Absatz 1 nur erfolgen, wenn die Anforderungen von Satz 1 Nr. 3
 bis 5 erfüllt sind.
 
-
 ### § 26 Inverkehrbringen und Einfuhr
 
 (1) Wirkstoffe oder Zwischenprodukte, die im Geltungsbereich des
@@ -1516,7 +1476,6 @@ insbesondere sicherheitsrelevante Informationen über den Wirkstoff
 oder die Zwischenprodukte vom Empfänger erhalten werden, sind diese an
 den Wirkstoff- oder Zwischenprodukthersteller unverzüglich
 weiterzuleiten.
-
 
 ### § 27 Rückstellmuster
 
@@ -1537,7 +1496,6 @@ Vertrieb der Charge hinaus aufzubewahren.
 Nachtestdatum festgelegt wurde, sind Muster gemäß Absatz 1 mindestens
 drei Jahre über den vollständigen Vertrieb der Charge hinaus
 aufzubewahren.
-
 
 ### § 28 Beanstandungen und Rückruf
 
@@ -1561,7 +1519,6 @@ der Wirkstoff geliefert wurde, unverzüglich zu informieren.
 (3) Über den Inhalt der Meldungen, die Art der Überprüfung und die
 dabei gewonnenen Erkenntnisse, das Ergebnis der Bewertung, die
 Maßnahmen und die Benachrichtigungen sind Aufzeichnungen zu führen.
-
 
 ### § 29 Aufbewahrung der Dokumentation
 
@@ -1601,13 +1558,7 @@ aufzubewahren, die mindestens Angaben aufweisen über:
 
 4.  den Namen oder die Firma und die Anschrift der Empfänger.
 
-
-
-
-
 ## Abschnitt 5 - Sondervorschriften
-
-
 
 ### § 30 Ergänzende Regelungen für Fütterungsarzneimittel
 
@@ -1694,7 +1645,6 @@ Verschreibung, die den Vorschriften des Bestimmungslandes entspricht,
 abgegeben werden. Sofern die Vorschriften des Bestimmungslandes dies
 vorsehen, ist dem Fütterungsarzneimittel eine Begleitbescheinigung in
 der vom Bestimmungsland geforderten Form beizugeben.
-
 
 ### § 31 Ergänzende Regelungen für Blutspendeeinrichtungen
 
@@ -1986,13 +1936,7 @@ Zwischenfälle:
     Erkenntnisse dafür vorliegen. Insbesondere ist die Hauptursache zu
     analysieren und über getroffene Korrekturmaßnahmen zu berichten.
 
-
-
-
-
 ## Abschnitt 5a - Sondervorschriften für Entnahme- und Gewebeeinrichtungen sowie für Gewebespenderlabore
-
-
 
 ### § 32 Ergänzende allgemeine Anforderungen
 
@@ -2097,7 +2041,6 @@ Gewebeeinrichtungen mindestens alle zwei Jahre von dafür geschulten
 und kompetenten Personen durchzuführen, § 11 Abs. 2 findet keine
 Anwendung.
 
-
 ### § 33 Feststellung der Spendereignung und für die Gewinnung erforderliche Laboruntersuchungen
 
 (1) Die Feststellung der Spendereignung in der Entnahmeeinrichtung und
@@ -2129,7 +2072,6 @@ Gewebespenderlabor verantwortliche Person hat im Prüfprotokoll mit
 Datum und Unterschrift zu bestätigen, dass die Laboruntersuchungen
 entsprechend der Prüfanweisung durchgeführt worden sind und die
 Prüfergebnisse richtig sind.
-
 
 ### § 34 Gewinnung von Gewebe durch die Entnahmeeinrichtung
 
@@ -2318,7 +2260,6 @@ das entnommene Gewebe be- oder verarbeitet, zu übermitteln. Die
 Anforderungen an die Spenderakte gemäß § 5 der TPG-Gewebeverordnung
 bleiben unberührt.
 
-
 ### § 35 Transport zur Be- oder Verarbeitung und Entgegennahme in der Gewebeeinrichtung
 
 (1) Der Transport ist nach vorher erstellter Standardarbeitsanweisung
@@ -2376,7 +2317,6 @@ erfassen. Die Gewebe sind in Quarantäne zu halten, bis über ihre
 Verwendungsfähigkeit entschieden worden ist. Soweit sie den
 Anforderungen nicht entsprechen, sind sie zu verwerfen. Die Annahme
 oder Ablehnung entgegengenommener Gewebe ist zu dokumentieren.
-
 
 ### § 36 Be- oder Verarbeitung und Lagerung durch die Gewebeeinrichtung
 
@@ -2535,7 +2475,6 @@ getrennt zu lagern. Sofern Gewebe oder Gewebezubereitungen verworfen
 wurden, sind diese gesondert zu lagern, um Verwechslungen und
 Kreuzkontaminationen zu vermeiden.
 
-
 ### § 37 Prüfung von Gewebe und Gewebezubereitungen
 
 (1) Die Prüfung auf Einhaltung der festgelegten Spezifikation ist nach
@@ -2554,7 +2493,6 @@ dokumentieren und gründlich zu untersuchen. Die für die Prüfung
 verantwortliche Person hat im Prüfprotokoll mit Datum und Unterschrift
 zu bestätigen, dass die Prüfung entsprechend der Prüfanweisung
 durchgeführt worden ist und die Ergebnisse richtig sind.
-
 
 ### § 38 Freigabe durch die Gewebeeinrichtung
 
@@ -2593,7 +2531,6 @@ ausgelieferte Gewebe und Gewebezubereitungen dürfen nur wieder in den
 Bestand zurückgenommen werden, wenn sie nach schriftlich festgelegtem
 Verfahren beurteilt und als übereinstimmend mit der Spezifikation
 eingestuft wurden.
-
 
 ### § 39 Inverkehrbringen, Einfuhr und Transport durch die Gewebeeinrichtung
 
@@ -2639,10 +2576,6 @@ mindestens mit folgenden Angaben zu versehen:
 3.  relevante Transport- und Lagerungsbedingungen sowie
     erforderlichenfalls weitere Vorsichtsmaßnahmen und Hinweise für die
     Handhabung.
-
-
-
-
 
 ### § 40 Meldung schwerwiegender unerwünschter Reaktionen und schwerwiegender Zwischenfälle und Rückruf
 
@@ -2746,7 +2679,6 @@ verantwortliche Person nach § 20c des Arzneimittelgesetzes
 Aufzeichnungen zu führen. Satz 1 gilt für die Personen nach § 20b Abs.
 1 Satz 3 Nr. 1 des Arzneimittelgesetzes entsprechend.
 
-
 ### § 41 Aufbewahrung der Dokumentation
 
 (1) Für die Aufbewahrung von Aufzeichnungen über die Gewinnung,
@@ -2772,10 +2704,7 @@ Aufbewahrung der Dokumentation nach Absatz 1 erfolgt, hat der
 pharmazeutische Unternehmer Vorsorge zu treffen, dass die
 Dokumentation während der gesamten Aufbewahrungszeit vorgehalten wird.
 
-
 ## Abschnitt 6 - Ordnungswidrigkeiten
-
-
 
 ### § 42 Ordnungswidrigkeiten
 
@@ -2812,13 +2741,7 @@ Arzneimittelgesetzes handelt, wer vorsätzlich oder fahrlässig
     fünf Jahre aufbewahrt oder nicht oder nicht rechtzeitig vorlegt und
     nicht oder nicht rechtzeitig aushändigt.
 
-
-
-
-
 ## Abschnitt 7 - Schlussvorschriften
-
-
 
 ### § 43 Übergangsregelung
 

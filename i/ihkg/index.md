@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 Abs. 61 G v. 22.12.2011 I 3044
 
-
 ## § 1
 
 (1) Die Industrie- und Handelskammern haben, soweit nicht die
@@ -66,7 +65,6 @@ Gesetz oder Rechtsverordnung übertragen werden.
 
 (5) Nicht zu den Aufgaben der Industrie- und Handelskammern gehört die
 Wahrnehmung sozialpolitischer und arbeitsrechtlicher Interessen.
-
 
 ## § 2
 
@@ -118,7 +116,6 @@ Eigenbetriebe unterhalten. Sie können aber insoweit der Industrie- und
 Handelskammer beitreten.
 
 (6) (weggefallen)
-
 
 ## § 3
 
@@ -251,7 +248,6 @@ entsprechend anzuwenden. Durch Landesrecht kann Verfahren und
 Zuständigkeit für Einziehung und Beitreibung abweichend geregelt
 werden.
 
-
 ## § 4
 
 Über die Angelegenheiten der Industrie- und Handelskammer beschließt,
@@ -291,7 +287,6 @@ unterliegen
 Nr. 7 die elektronische Verkündung von Satzungsrecht vorgesehen ist,
 hat diese im Bundesanzeiger zu erfolgen.
 
-
 ## § 5
 
 (1) Die Mitglieder der Vollversammlung werden von den
@@ -314,7 +309,6 @@ zugeordneten Sitze in der Vollversammlung enthalten und dabei die
 wirtschaftlichen Besonderheiten des Kammerbezirks sowie die
 gesamtwirtschaftliche Bedeutung der Gewerbegruppen berücksichtigen.
 
-
 ## § 6
 
 (1) Die Vollversammlung wählt aus ihrer Mitte den Präsidenten (Präses)
@@ -324,7 +318,6 @@ des Präsidiums.
 (2) Der Präsident (Präses) ist der Vorsitzende des Präsidiums. Er
 beruft die Vollversammlung ein und führt in ihr den Vorsitz.
 
-
 ## § 7
 
 (1) Die Vollversammlung bestellt den Hauptgeschäftsführer.
@@ -333,7 +326,6 @@ beruft die Vollversammlung ein und führt in ihr den Vorsitz.
 Bestimmung der Satzung die Industrie- und Handelskammer
 rechtsgeschäftlich und gerichtlich.
 
-
 ## § 8
 
 Werden bei den Industrie- und Handelskammern zur Durchführung anderer
@@ -341,7 +333,6 @@ als der in § 79 des Berufsbildungsgesetzes genannten Aufgaben
 Ausschüsse gebildet, so kann die Satzung bestimmen, daß in diese
 Ausschüsse auch Personen berufen werden, die nach § 5 Abs. 2 nicht
 wählbar sind.
-
 
 ## § 9
 
@@ -412,7 +403,6 @@ die Übermittlung der Daten an andere Industrie- und Handelskammern
 durch Abruf im automatisierten Verfahren nach Absatz 3a gilt § 10 des
 Bundesdatenschutzgesetzes entsprechend.
 
-
 ## § 10 Aufgabenübertragung und öffentlich-rechtlicher Zusammenschluss
 
 (1) Industrie- und Handelskammern können Aufgaben, die ihnen auf Grund
@@ -440,7 +430,6 @@ ausschließen oder beschränken.
 und 8, § 4 Satz 1 und 2 Nr. 1 bis 5, 7 und 8 sowie in den §§ 6 und 7
 sind auf öffentlich-rechtliche Zusammenschlüsse entsprechend
 anzuwenden.
-
 
 ## § 11
 
@@ -500,7 +489,6 @@ Rechnungslegung und Rechnungsprüfung während des Krieges vom 5. Juli
 1940 (Reichsgesetzbl. II S. 139)              finden auf die
 Industrie- und Handelskammern keine Anwendung.
 
-
 ## § 12
 
 (1) Durch Landesrecht können ergänzende Vorschriften erlassen werden
@@ -547,12 +535,10 @@ Industrie- und Handelskammern keine Anwendung.
 (2) Vor der Entscheidung über Maßnahmen nach Absatz 1 Nr. 1 und 2 sind
 die Kammerzugehörigen gemäß § 2 Abs. 1 zu hören.
 
-
 ## § 13
 
 Die Handelskammern Bremen und Hamburg sind berechtigt, ihre bisherige
 Bezeichnung weiterzuführen.
-
 
 ## § 13a
 
@@ -569,7 +555,6 @@ dem 1. Januar 1994 liegt, werden die Beiträge auf der Grundlage der am
 Kammerzugehörige anzuwenden, deren Gewerbeanzeige nach dem 31.
 Dezember 2003 erfolgt.
 
-
 ## § 14
 
 Bis zum 31. Dezember 1997 können die Beiträge der Kammerzugehörigen
@@ -581,7 +566,6 @@ September 1990 (BGBl. 1990 II S. 885, 1000) angegebene Frist
 abweichend von § 3 Abs. 3 und 4 festgesetzt werden. Die
 Beitragsordnung und der Beitragsmaßstab bedürfen der Genehmigung der
 Aufsichtsbehörde.
-
 
 ## § 15
 

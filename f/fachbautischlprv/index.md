@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 1492
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 42 Abs. 2 Satz 1 der Handwerksordnung in der Fassung
@@ -27,7 +25,6 @@ zuletzt durch Artikel 1 Nr. 35 des Gesetzes vom 24. Dezember 2003
 für Bildung und Forschung nach Anhören des Ständigen Ausschusses des
 Bundesinstituts für Berufsbildung im Einvernehmen mit dem
 Bundesministerium für Wirtschaft und Arbeit:
-
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
 
@@ -91,7 +88,6 @@ Tischlerhandwerk wahrnehmen zu können:
 (4) Die erfolgreich abgelegte Prüfung führt zum anerkannten Abschluss
 Geprüfter Fachbauleiter/Geprüfte Fachbauleiterin im Tischlerhandwerk.
 
-
 ## § 2 Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer
@@ -114,7 +110,6 @@ Prüfung auch zugelassen werden, wer durch Vorlage von Zeugnissen oder
 auf andere Weise glaubhaft macht, Kenntnisse, Fertigkeiten und
 Erfahrungen erworben zu haben, die die Zulassung zur Prüfung
 rechtfertigen.
-
 
 ## § 3 Gliederung, Struktur und integrierte Durchführung der Prüfung
 
@@ -142,10 +137,6 @@ Es ist handlungsorientiert und praxisbezogen zu prüfen.
     Qualifikationsschwerpunkte nach § 4 integrativ einbeziehen, die nicht
     in der Situationsaufgabe bearbeitet wurden. Die Prüfungsdauer beträgt
     mindestens 25 Minuten, höchstens 35 Minuten.
-
-
-
-
 
 ## § 4 Prüfungsinhalte
 
@@ -434,10 +425,6 @@ werden:
 
 5.  Personaleinsatz.
 
-
-
-
-
 ## § 5 Bewerten und Bestehen der Prüfung
 
 (1) Die Prüfungsleistungen in der Situationsaufgabe und im
@@ -455,16 +442,13 @@ mit weniger als 50 Punkten und das Fachgespräch nicht mit weniger als
 (3) Über das Bestehen der Prüfung ist ein Zeugnis gemäß der Anlage 1
 und der Anlage 2 auszustellen.
 
-
 ## § 6 Wiederholung der Prüfung
 
 Eine Prüfung, die nicht bestanden ist, kann zweimal wiederholt werden.
 
-
 ## § 7 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Anlage 1 (zu § 5 Abs. 3)
 
@@ -491,7 +475,6 @@ bestanden.
 Datum ..........................................
 Unterschrift(en) ...............................
 (Siegel der zuständigen Stelle)
-
 
 ## Anlage 2 (zu § 5 Abs. 3)
 

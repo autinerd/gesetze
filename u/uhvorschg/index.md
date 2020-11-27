@@ -22,7 +22,6 @@ Neugefasst durch
 Geändert durch
 :   Art. 1 G v. 21.12.2007 I 3194
 
-
 ## § 1 Berechtigte
 
 (1) Anspruch auf Unterhaltsvorschuss oder -ausfallleistung nach diesem
@@ -117,7 +116,6 @@ der Bedarf eines Kindes durch Leistungen nach dem Achten Buch
 Sozialgesetzbuch gedeckt ist, besteht kein Anspruch auf
 Unterhaltsleistung nach diesem Gesetz.
 
-
 ## § 2 Umfang der Unterhaltsleistung
 
 (1) Die Unterhaltsleistung wird, vorbehaltlich der Absätze 2 und 3,
@@ -154,14 +152,9 @@ Einkünfte des Berechtigten angerechnet:
     die wegen des Todes des in Nummer 1 bezeichneten Elternteils oder
     eines Stiefelternteils gezahlt werden.
 
-
-
-
-
 ## § 3 Dauer der Unterhaltsleistung
 
 Die Unterhaltsleistung wird längstens für insgesamt 72 Monate gezahlt.
-
 
 ## § 4 Beschränkte Rückwirkung
 
@@ -172,7 +165,6 @@ Buches Sozialgesetzbuch bezeichneten Stellen eingegangen ist; dies
 gilt nicht, soweit es an zumutbaren Bemühungen des Berechtigten
 gefehlt hat, den in § 1 Abs. 1 Nr. 3 bezeichneten Elternteil zu
 Unterhaltszahlungen zu veranlassen.
-
 
 ## § 5 Ersatz- und Rückzahlungspflicht
 
@@ -201,7 +193,6 @@ Unterhaltsleistungen Einkommen im Sinne des § 2 Abs. 3 erzielt hat,
 das bei der Bewilligung der Unterhaltsleistung nicht berücksichtigt
 worden ist, so hat der Berechtigte insoweit den geleisteten Betrag
 zurückzuzahlen.
-
 
 ## § 6 Auskunfts- und Anzeigepflicht
 
@@ -237,7 +228,6 @@ befugten Sozialleistungsträger und anderen Stellen sind verpflichtet,
 der zuständigen Stelle auf Verlangen Auskünfte über den Wohnort und
 die Höhe der Einkünfte des in Absatz 1 bezeichneten Elternteils zu
 erteilen, soweit die Durchführung dieses Gesetzes es erfordert.
-
 
 ## § 7 Übergang von Ansprüchen des Berechtigten
 
@@ -283,7 +273,6 @@ Unterhaltsanspruch abtreten lassen. Kosten, mit denen der
 Unterhaltsleistungsempfänger dadurch selbst belastet wird, sind zu
 übernehmen.
 
-
 ## § 8 Aufbringung der Mittel
 
 (1) Geldleistungen, die nach dem Gesetz zu zahlen sind, werden zu
@@ -293,7 +282,6 @@ auf Länder und Gemeinden liegt in der Befugnis der Länder.
 
 (2) Die nach § 7 eingezogenen Beträge führen die Länder zu einem
 Drittel an den Bund ab.
-
 
 ## § 9 Verfahren und Zahlungsweise
 
@@ -310,7 +298,6 @@ anzugeben.
 (3) Die Unterhaltsleistung ist monatlich im Voraus zu zahlen.
 Auszuzahlende Beträge sind auf volle Euro aufzurunden. Beträge unter 5
 Euro werden nicht geleistet.
-
 
 ## § 10 Bußgeldvorschriften
 
@@ -333,7 +320,6 @@ Euro werden nicht geleistet.
 (3) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes
 über Ordnungswidrigkeiten ist die durch Landesrecht bestimmte Stelle.
 
-
 ## § 11 Übergangsvorschriften
 
 § 1 Abs. 2a in der am 19. Dezember 2006 geltenden Fassung ist in
@@ -346,16 +332,13 @@ Ausländergesetz den Aufenthaltstiteln nach dem Aufenthaltsgesetz
 entsprechend den Fortgeltungsregelungen in § 101 des
 Aufenthaltsgesetzes gleichgestellt.
 
-
 ## § 12
 
 (weggefallen)
 
-
 ## § 12a (Gegenstandslose Übergangsvorschrift)
 
 -
-
 
 ## § 13 (Inkrafttreten)
 

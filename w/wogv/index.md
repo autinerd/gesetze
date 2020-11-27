@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 V v. 11.12.2012 I 2654
 
-
 ## Teil 1 - Anwendungsbereich
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -39,10 +36,7 @@ abgesehen werden kann.
 (3) Die Mietenstufen für Gemeinden ergeben sich aus der dieser
 Verordnung beigefügten Anlage.
 
-
 ## Teil 2 - Ermittlung der Miete
-
-
 
 ### § 2 Miete
 
@@ -54,7 +48,6 @@ einem Dritten an einen Dritten zu zahlen sind.
 (2) Zur Miete gehören nicht Vergütungen für Leistungen, die nicht die
 eigentliche Wohnraumnutzung betreffen, namentlich Vergütungen für die
 Überlassung einer Garage, eines Stellplatzes oder eines Hausgartens.
-
 
 ### § 3 Mietvorauszahlungen und Mieterdarlehen
 
@@ -68,7 +61,6 @@ die Forderung des Mieters aus dem Mieterdarlehen ganz oder teilweise
 mit der Miete verrechnet, gehören zur Miete auch die Beträge, um die
 sich die Miete hierdurch tatsächlich vermindert.
 
-
 ### § 4 Sach- und Dienstleistungen des Mieters
 
 (1) Erbringt der Mieter Sach- oder Dienstleistungen für den Vermieter
@@ -79,13 +71,11 @@ zu legen.
 und erhält er dafür von diesem eine bestimmte Vergütung, ist diese
 Vergütung ohne Einfluss auf die Miete.
 
-
 ### § 5 Nicht feststehende Betriebskosten
 
 Stehen bei der Entscheidung über den Mietzuschussantrag die Umlagen
 für Betriebskosten ganz oder teilweise nicht fest, sind
 Erfahrungswerte als Pauschbeträge anzusetzen.
-
 
 ### § 6 Außer Betracht bleibende Kosten, Zuschläge und Vergütungen
 
@@ -158,7 +148,6 @@ Von der sich danach ergebenden Miete sind abzusetzen
 (3) Bei der Ermittlung des Mietwertes nach § 7 und der Untermiete sind
 die Absätze 1 und 2 entsprechend anzuwenden.
 
-
 ### § 7 Mietwert
 
 (1) Als Mietwert des Wohnraums (§ 9 Abs. 3 Satz 1 des
@@ -171,10 +160,7 @@ Wohnraums, durch angemessene Zu- oder Abschläge zu berücksichtigen.
 vergleichbaren Wohnraum entsprechender Betrag nicht zu Grunde gelegt
 werden kann.
 
-
 ## Teil 3 - Wohngeld-Lastenberechnung
-
-
 
 ### § 8 Aufstellung der Wohngeld-Lastenberechnung
 
@@ -183,7 +169,6 @@ Bewilligungszeitraum zu erwartenden Belastung auszugehen. Ist die
 Belastung für das dem Bewilligungszeitraum vorangegangene Kalenderjahr
 feststellbar und ist eine Änderung im Bewilligungszeitraum nicht zu
 erwarten, ist von dieser Belastung auszugehen.
-
 
 ### § 9 Gegenstand und Inhalt der Wohngeld-Lastenberechnung
 
@@ -218,7 +203,6 @@ Grundstück besteht aus den überbauten und den dazugehörigen Flächen.
 (4) In der Wohngeld-Lastenberechnung sind die Fremdmittel und die
 Belastung auszuweisen.
 
-
 ### § 10 Fremdmittel
 
 Fremdmittel im Sinne dieser Verordnung sind
@@ -234,7 +218,6 @@ Fremdmittel im Sinne dieser Verordnung sind
 
 
 ohne Rücksicht darauf, ob sie dinglich gesichert sind oder nicht.
-
 
 ### § 11 Ausweisung der Fremdmittel
 
@@ -278,7 +261,6 @@ die Stelle von Zwischenfinanzierungsmitteln treten.
 Kapitaldienst nicht, noch nicht oder nicht mehr zu leisten, sind sie
 in der Wohngeld-Lastenberechnung nicht auszuweisen.
 
-
 ### § 12 Belastung aus dem Kapitaldienst
 
 (1) Als Belastung aus dem Kapitaldienst sind auszuweisen:
@@ -316,7 +298,6 @@ Kapitaldienst darf höchstens die vereinbarte Jahresleistung angesetzt
 werden. Ist die tatsächliche Leistung geringer, ist die geringere
 Leistung anzusetzen.
 
-
 ### § 13 Belastung aus der Bewirtschaftung
 
 (1) Als Belastung aus der Bewirtschaftung sind Instandhaltungskosten,
@@ -330,7 +311,6 @@ Verwaltungskosten sind die für den Gegenstand der Wohngeld-
 Lastenberechnung an einen Dritten für die Verwaltung geleisteten
 Beträge anzusetzen. Über die in den Sätzen 1 und 2 genannten Beträge
 hinaus dürfen Bewirtschaftungskosten nicht angesetzt werden.
-
 
 ### § 14 Nutzungsentgelte und Wärmelieferungskosten
 
@@ -350,7 +330,6 @@ Kosten der eigenständig gewerblichen Lieferung von Wärme und
 Warmwasser, so sind diese Beträge mit Ausnahme der in § 15 Abs. 2 Satz
 1 Nr. 2 bezeichneten Kosten in der Wohngeld-Lastenberechnung
 anzusetzen. § 6 Abs. 2 Satz 1 Nr. 1 und 2 ist entsprechend anzuwenden.
-
 
 ### § 15 Außer Betracht bleibende Belastung
 
@@ -395,10 +374,7 @@ abzusetzen.
 
 (4) (weggefallen)
 
-
 ## Teil 4 - Verfahren und Kosten des automatisierten Datenabgleichs
-
-
 
 ### § 16 Anwendungsbereich
 
@@ -412,7 +388,6 @@ Landesstelle) und der Datenstelle der Träger der Rentenversicherung
 sowie der Deutschen Rentenversicherung Knappschaft-Bahn-See.
 Rechtsverordnungen der Landesregierungen, die über die Regelungen der
 §§ 16 bis 22 hinausgehen, bleiben unberührt.
-
 
 ### § 17 Abgleichszeitraum und Übermittlungsverfahren
 
@@ -464,7 +439,6 @@ des zweiten auf den Abgleichszeitraum folgenden Monats. Im Fall des
 Absatzes 2 Satz 3 erfolgt die Übermittlung über die zentrale
 Landesstelle, die in diesem Fall die Antwortdatensätze ordnend
 aufbereiten darf.
-
 
 ### § 18 Einzelheiten des automatisierten Datenabgleichs
 
@@ -532,7 +506,6 @@ Leistungszeitraums von
 
 aus der gesetzlichen Renten- und Unfallversicherung.
 
-
 ### § 19 Anforderungen an die Datenübermittlung und Datenspeicherung
 
 (1) Bei der Datenübermittlung und Datenspeicherung sind alle
@@ -576,7 +549,6 @@ nächsten automatisierten Datenabgleichs speichern, um in beiden
 automatisierten Datenabgleichen identische Antwortdatensätze zu
 identifizieren.
 
-
 ### § 20 Weiterverwendung der Antwortdatensätze
 
 Die von der Datenstelle oder der zentralen Landesstelle an die
@@ -591,7 +563,6 @@ rechtswidrige Inanspruchnahme von Wohngeld zu klären und überzahlte
 Beträge zurückzufordern. In diesem Fall erfolgt eine maschinelle
 Löschung der Daten erst bei Löschung der Akte im Wohngeldverfahren.
 
-
 ### § 21 Verfahrensgrundsätze
 
 Die technischen Einzelheiten des automatisierten
@@ -605,7 +576,6 @@ festzulegen. Der Bundesbeauftragte für den Datenschutz und die
 Informationsfreiheit ist vor Festlegung der Verfahrensgrundsätze zu
 hören. Die Verfahrensgrundsätze sind von der Datenstelle auf der
 Internetseite der Deutschen Rentenversicherung zu veröffentlichen.
-
 
 ### § 22 Kosten
 
@@ -635,7 +605,6 @@ Kalendervierteljahr der Teilnahme zu erstatten. Die Erstattung ist am
 Kalenderjahr der Teilnahme am automatisierten Datenabgleich sind die
 Kosten nach Absatz 2 Satz 1 in Verbindung mit Absatz 2 Satz 2 zu
 erstatten; Absatz 2 Satz 3 gilt entsprechend.
-
 
 ### Anlage Anlage (zu § 1 Abs. 3)
 

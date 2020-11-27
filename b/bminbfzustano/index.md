@@ -18,7 +18,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 2124
 
-
 ## I.
 
 Nach § 127 Absatz 3 des Bundesbeamtengesetzes vom 5. Februar 2009
@@ -29,13 +28,11 @@ Bundesverwaltungsamt zum Erlass des Verwaltungsaktes oder zur
 Ablehnung eines Anspruches in Angelegenheiten nach den
 Beihilfevorschriften des Bundes zuständig war.
 
-
 ## II.
 
 Diese Anordnung tritt am Tag nach der Veröffentlichung in Kraft. Sie
 findet keine Anwendung auf Klagen, die vor ihrem Inkrafttreten erhoben
 worden sind.
-
 
 ## Schlussformel
 

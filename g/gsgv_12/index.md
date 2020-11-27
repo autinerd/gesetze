@@ -23,7 +23,6 @@ Europäischen Parlaments und des Rates vom 29. Juni 1995 zur
 Angleichung der Rechtsvorschriften der Mitgliedstaaten über
 Aufzüge (ABl. EG Nr. L 213 S. 1).
 
-
 ## § 1 Anwendungsbereich
 
 (1) Diese Verordnung gilt für das Inverkehrbringen von neuen
@@ -94,7 +93,6 @@ Rechtsvorschriften erfaßt, durch die andere Gemeinschaftsrichtlinien
 in deutsches Recht umgesetzt werden, so gilt die vorliegende
 Verordnung nicht in bezug auf diese Aufzüge und Gefahren.
 
-
 ## § 2 Begriffsbestimmungen
 
 Im Sinne dieser Verordnung gelten die folgenden Begriffsbestimmungen:
@@ -152,10 +150,6 @@ Im Sinne dieser Verordnung gelten die folgenden Begriffsbestimmungen:
     die identische Sicherheitsbauteile verwenden, die grundlegenden
     Sicherheitsanforderungen eingehalten werden.
 
-
-
-
-
 ## § 3 Sicherheitsanforderungen
 
 (1) Aufzüge dürfen nur in den Verkehr gebracht werden, wenn
@@ -192,10 +186,6 @@ wenn
 2.  die Aufzüge, in die sie eingebaut werden, bei sachgemäßem Einbau,
     sachgemäßer Wartung und bestimmungsgemäßem Betrieb die Sicherheit und
     Gesundheit von Personen und die Sicherheit von Gütern nicht gefährden.
-
-
-
-
 
 ## § 4 Voraussetzungen für das Inverkehrbringen
 
@@ -325,7 +315,6 @@ Sicherheitsbauteil in der Gemeinschaft in den Verkehr bringt. Die
 gleichen Verpflichtungen gelten für denjenigen, der einen Aufzug oder
 ein Sicherheitsbauteil für eigene Zwecke baut.
 
-
 ## § 5 CE-Kennzeichnungen
 
 (1) Die nach § 4 Abs. 1 Nr. 1 erforderliche CE-
@@ -355,7 +344,6 @@ Sicherheitsbauteile, die mit der CE-Kennzeichnung versehen sind und
 denen die EG-Konformitätserklärung nach Anhang II der Richtlinie
 95/16/EG beigefügt ist, die Anforderungen dieser Verordnung erfüllen.
 
-
 ## § 6 Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 39 Absatz 1 Nummer 7 Buchstabe a des
@@ -367,10 +355,6 @@ Produktsicherheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 2.  entgegen § 4 Absatz 4 Satz 2 die CE-Kennzeichnung anbringt.
-
-
-
-
 
 ## § 7 (weggefallen)
 

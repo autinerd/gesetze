@@ -18,57 +18,34 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 67 Nr. 1 G v. 21.12.2000 I 1983
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art I - Sozialgesetzbuch (SGB)
-
-
 
 ### Erstes Buch (I) - Allgemeiner Teil
 
-
-
 ## Art II - Übergangs- und Schlußvorschriften
 
-
-
 ### Erster Abschnitt - (weggefallen)
-
-
 
 ### § 1
 
 (weggefallen)
 
-
 ### Zweiter Abschnitt
-
-
 
 ### (XXXX) §§ 2 - 16 (weggefallen)
 
-
-
 ### Dritter Abschnitt - Überleitungsvorschriften
-
-
 
 ### (XXXX) §§ 17 - 20 (weggefallen)
 
-
-
 ### Vierter Abschnitt - Schlußvorschriften
 
-
-
 ### (XXXX) §§ 21 u. 22 (weggefallen)
-
-
 
 ### § 23 Inkrafttreten
 

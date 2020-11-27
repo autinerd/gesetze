@@ -18,14 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 75 G v. 8.12.2010 I 1864
 
-
 ## Eingangsformel
 
 Auf Grund des § 10 des Meeresbodenbergbaugesetzes vom 6. Juni 1995
 (BGBl. I S. 778, 782) in Verbindung mit dem 2. Abschnitt des
 Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821) verordnet
 das Bundesministerium für Wirtschaft:
-
 
 ## § 1
 
@@ -35,7 +33,6 @@ Hannover und Clausthal-Zellerfeld Kosten (Gebühren und Auslagen) nach
 dieser Verordnung. Die gebührenpflichtigen Tatbestände und die
 Rahmensätze für die Gebühren ergeben sich aus dem anliegenden
 Gebührenverzeichnis. Auslagen werden gesondert erhoben.
-
 
 ## § 2
 
@@ -55,11 +52,9 @@ unbeachtlich ist. Wird ein Widerspruch nach Beginn der sachlichen
 Bearbeitung, jedoch vor deren Beendigung zurückgenommen, beträgt die
 Gebühr höchstens 75 vom Hundert der Widerspruchsgebühr.
 
-
 ## § 3
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Anlage (zu § 1 Satz 2) Gebührenverzeichnis
 

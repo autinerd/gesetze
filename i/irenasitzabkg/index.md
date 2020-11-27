@@ -17,12 +17,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 2011, 1010
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -31,7 +29,6 @@ der Bundesrepublik Deutschland und der Internationalen Organisation
 für erneuerbare Energien über den Sitz des IRENA-Innovations- und
 Technologiezentrums wird zugestimmt. Das Abkommen wird nachstehend
 veröffentlicht.
-
 
 ## Art 2
 
@@ -54,7 +51,6 @@ Pflichtbeiträge in Bezug auf die Systeme der Sozialen Sicherheit der
 Bundesrepublik Deutschland ist keine Regelung im Sinne der deutschen
 Rechtsvorschriften, die die Anrechnung von Kindererziehungszeiten und
 Berücksichtigungszeiten ausschließt.
-
 
 ## Art 3
 

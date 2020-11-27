@@ -23,7 +23,6 @@ Fundstelle
     Berufsschule werden demnächst im amtlichen Teil des Bundesanzeigers
     veröffentlicht.
 
-
 ## Eingangsformel
 
 Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des
@@ -32,18 +31,15 @@ Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407)
 geändert worden ist, verordnet das Bundesministerium für Gesundheit im
 Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf des Pharmazeutisch-kaufmännischen Angestellten
 und der Pharmazeutisch-kaufmännischen Angestellten wird nach § 4
 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
-
 ## § 2 Dauer der Berufsausbildung
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Ausbildungsrahmenplan, Ausbildungsberufsbild
 
@@ -219,10 +215,6 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
     *   Bürowirtschaft.
 
-
-
-
-
 ## § 4 Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
@@ -242,7 +234,6 @@ zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
 Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
 Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
 durchzusehen.
-
 
 ## § 5 Zwischenprüfung
 
@@ -321,10 +312,6 @@ apothekenüblichen Waren bestehen folgende Vorgaben:
 
 
 3.  die Prüfungszeit beträgt 30 Minuten.
-
-
-
-
 
 ## § 6 Abschlussprüfung
 
@@ -593,7 +580,6 @@ Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen
 Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der
 mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
-
 ## § 7 Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
@@ -602,14 +588,12 @@ Ausbildungszeit nach den Vorschriften dieser Verordnung fortgeführt
 werden, wenn keine Zwischenprüfung abgelegt wurde und die
 Vertragsparteien dies vereinbaren.
 
-
 ## § 8 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2012 in Kraft. Gleichzeitig tritt
 die Verordnung über die Berufsausbildung zum pharmazeutisch-
 kaufmännischen Angestellten/zur pharmazeutisch-kaufmännischen
 Angestellten vom 3. März 1993 (BGBl. I S. 292) außer Kraft.
-
 
 ## Anlage 1 (zu § 3 Absatz 1 Satz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Pharmazeutisch-kaufmännischen Angestellten und zur Pharmazeutisch-kaufmännischen Angestellten
 
@@ -1366,13 +1350,6 @@ Abschnitt B: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten
 
         c)  Termine planen und überwachen sowie bei Terminabweichungen
             erforderliche Maßnahmen einleiten
-
-
-
-
-
-
-
 
 ## Anlage 2 (zu § 3 Absatz 1 Satz 2) Ausbildungsrahmenplan für die Berufsausbildung zum Pharmazeutisch-kaufmännischen Angestellten und zur Pharmazeutisch-kaufmännischen Angestellten
 

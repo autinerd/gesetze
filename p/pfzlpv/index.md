@@ -32,7 +32,6 @@ Vorschriften (ABl. EG Nr. L 204 S 37), zuletzt geändert durch die
 Richtlinie 98/48/EG des Europäischen Parlaments und des Rates vom 20.
 Juli 1998 (ABl. EG Nr. L 217 S 18), sind beachtet worden.
 
-
 ## § 1
 
 (1) Zur Zuchtwertfeststellung bei einem Pferd werden je nach der
@@ -70,7 +69,6 @@ nach ihrer sich aus dem Zuchtprogramm ergebenden Bedeutung gewichtet;
 dabei wird der Index auf einen Mittelwert von 100 und eine
 Standardabweichung von 20 standardisiert.
 
-
 ## § 2
 
 (1) Werden Leistungsprüfungen zur Feststellung des Zuchtwertes von
@@ -102,11 +100,9 @@ Ernährung, Landwirtschaft und Verbraucherschutz jährlich bis zum 31.
 Dezember die geplanten Veranstaltungen, die nach Absatz 1 Satz 2
 durchgeführt werden sollen.
 
-
 ## § 3
 
 (Inkrafttreten, Außerkrafttreten)
-
 
 ## Anlage (zu § 1 Abs. 1)
 

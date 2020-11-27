@@ -23,8 +23,6 @@ Geändert durch
 V aufgeh. durch
 :   § 3 Abs. 1 dieser V idF d. Art. 1 Nr. 2 d. V v. 17.12.2011 I 3115 mWv 1.1.2013
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 50 Abs. 1 des Berufsbildungsgesetzes vom 23. März 2005
@@ -37,7 +35,6 @@ durch Artikel 146 der Verordnung vom 31. Oktober 2006 (BGBl. I S.
 Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium
 für Bildung und Forschung nach Anhörung des Bundesinstituts für
 Berufsbildung:
-
 
 ## § 1 Gleichstellung von Prüfungszeugnissen
 
@@ -137,7 +134,6 @@ Soweit zu der Ausbildungsberufsbezeichnung eine Fachrichtung oder
 Schwerpunktbezeichnung angegeben ist, beschränkt sich die
 Gleichstellung auf diese Fachrichtung oder diesen Schwerpunkt.
 
-
 ## § 2 Fortgeltung von Gleichstellungen
 
 Die Gleichstellungen auf Grund der Verordnung zur Gleichstellung von
@@ -145,14 +141,12 @@ Prüfungszeugnissen der Staatlichen Zeichenakademie Hanau mit den
 Zeugnissen über das Bestehen der Abschluss- und Gesellenprüfung in
 Ausbildungsberufen vom 1. März 1999 (BGBl. I S. 292) gelten fort.
 
-
 ## § 3 Inkrafttreten, Außerkrafttreten
 
 (1) Diese Verordnung tritt mit Wirkung vom 1. Januar 2007 in Kraft;
 sie tritt mit Ablauf des 31. Dezember 2012 außer Kraft.
 
 (2)
-
 
 ## Schlussformel
 

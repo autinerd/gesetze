@@ -18,39 +18,23 @@ Fundstelle
 Geändert durch
 :   Art. 67 Nr. 3 G v. 21.12.2000 I 1983
 
-
 ## Art I - Zehntes Buch (X) Verwaltungsverfahren, Schutz der Sozialdaten, Zusammenarbeit der Leistungsträger und ihre Beziehungen zu Dritten
-
-
 
 ## Art II - Übergangs- und Schlußvorschriften zum Zehnten Buch Sozialgesetzbuch sowie weitere Änderungen von Gesetzen
 
-
-
 ### Erster Abschnitt -
-
-
 
 ### (XXXX) §§ 1 bis 36 (weggefallen)
 
-
-
 ### Zweiter Abschnitt - Überleitungsvorschriften
-
-
 
 ### (XXXX) §§ 37 u. 38 (weggefallen)
 
-
-
 ### Dritter Abschnitt - Schlußvorschriften
-
-
 
 ### § 39
 
 (weggefallen)
-
 
 ### § 40 Inkrafttreten, Außerkrafttreten
 

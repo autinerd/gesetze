@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 1578
 
-
-
 ## Eingangsformel
 
 Auf Grund
@@ -45,14 +43,12 @@ Auf Grund
 
 verordnet die Bundesregierung:
 
-
 ## § 1 Festsetzung des aktuellen Rentenwerts und des aktuellen Rentenwerts (Ost)
 
 (1) Der aktuelle Rentenwert beträgt vom 1. Juli 2005 an 26,13 Euro.
 
 (2) Der aktuelle Rentenwert (Ost) beträgt vom 1. Juli 2005 an 22,97
 Euro.
-
 
 ## § 2 Festsetzung des allgemeinen Rentenwerts und des allgemeinen Rentenwerts (Ost) in der Alterssicherung der Landwirte
 
@@ -62,11 +58,9 @@ beträgt vom 1. Juli 2005 an 12,06 Euro.
 (2) Der allgemeine Rentenwert (Ost) in der Alterssicherung der
 Landwirte beträgt vom 1. Juli 2005 an 10,60 Euro.
 
-
 ## § 3 Inkrafttreten
 
 Diese Verordnung tritt am 1. Juli 2005 in Kraft.
-
 
 ## Schlussformel
 

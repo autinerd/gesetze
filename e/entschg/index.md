@@ -21,7 +21,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 G v. 23.5.2011 I 920
 
-
 ## § 1 Grundsätze der Entschädigung
 
 (1) Ist Rückgabe nach dem Gesetz zur Regelung offener Vermögensfragen
@@ -133,10 +132,6 @@ Verfolgtenentschädigungsgesetzes.
     vom 10. Oktober 2001 - 1 BvL 17/00 - (BGBl. I S. 3920) mit Artikel 3
     Abs. 1 des Grundgesetzes unvereinbar und nichtig.
 
-
-
-
-
 ## § 2 Berechnung der Höhe der Entschädigung
 
 (1) Die Höhe der Entschädigung bestimmt sich nach der
@@ -168,7 +163,6 @@ werden ab dem 1. Januar 1999 durch Zuteilung von über einen Nennwert
 von 100 Euro oder einem ganzen Vielfachen hiervon lautende
 Schuldverschreibungen erfüllt. Hierbei offen bleibende Restbeträge
 werden durch Barzahlung aus dem Entschädigungsfonds erfüllt.
-
 
 ## § 2a Berechnung des Zahlungsanspruchs bei fehlgeschlagener Anrechnung von Verbindlichkeiten
 
@@ -206,7 +200,6 @@ Abs. 6a des Vermögensgesetzes zurückgegebene Vermögenswert befindet.
 Entschädigungsbescheid sowie im Falle des Verzichtes auf die
 Erstellung des Entschädigungsbescheides durch den Berechtigten für die
 Verzichtserklärung entsprechend.
-
 
 ## § 3 Bemessungsgrundlage der Entschädigung für Grundvermögen und land- und forstwirtschaftliches Vermögen
 
@@ -286,7 +279,6 @@ zu entschädigen.
 
 (6) Für land- und forstwirtschaftliches Vermögen gelten § 4 Abs. 4 und
 § 8 Abs. 6 entsprechend.
-
 
 ## § 4 Bemessungsgrundlage der Entschädigung für Unternehmen
 
@@ -378,7 +370,6 @@ Vermögenswerte nach § 6 Abs. 6a des Vermögensgesetzes der
 Verkaufserlös oder der Anspruch auf Zahlung des Verkehrswerts zu,
 gelten die Sätze 1 und 2 entsprechend.
 
-
 ## § 5 Bemessungsgrundlage der Entschädigung für Forderungen und Schutzrechte
 
 (1) Bemessungsgrundlage der Entschädigung von privaten geldwerten
@@ -424,7 +415,6 @@ Schutzrechte sind mit dem Betrag zu entschädigen, der sich unter
 Zugrundelegung der durchschnittlichen Jahreserträge und der
 tatsächlichen Verwertungsdauer nach der Schädigung als Kapitalwert
 nach § 15 des in § 3 Abs. 3 genannten Bewertungsgesetzes ergibt.
-
 
 ## § 5a Bemessungsgrundlage der Entschädigung für bewegliche Sachen
 
@@ -516,7 +506,6 @@ Sachen wegen Unmöglichkeit der Rückübertragung abgelehnt worden ist,
 sind auf Antrag der bis 22. März 2001 gestellt werden kann, wieder
 aufzugreifen.
 
-
 ## § 6 Anrechnung einer erhaltenen Gegenleistung oder einer Entschädigung
 
 (1) Hat der Berechtigte nach § 2 Abs. 1 des Vermögensgesetzes oder
@@ -541,7 +530,6 @@ Gebühren oder Steuern verrechnet wurden, gelten als ihm zugeflossen.
 Personengesellschaft des Handelsrechts und ist die Gegenleistung oder
 die Entschädigung einem Anteilsberechtigten gewährt worden, so gilt
 diese für die Zwecke der Anrechnung als dem Berechtigten zugeflossen.
-
 
 ## § 7 Kürzungsbeträge
 
@@ -601,7 +589,6 @@ gekürzten Entschädigung zu.
 Zuständigkeit verschiedener Ämter oder Landesämter zur Regelung
 offener Vermögensfragen unterblieben, setzt die zuständige Behörde,
 die zuletzt entschieden hat, den Gesamtentschädigungsbetrag fest.
-
 
 ## § 8 Entschädigung bei Abzug von Lastenausgleich
 
@@ -665,7 +652,6 @@ Rückforderungsbetrag bereits bekannt gegeben, so richtet sich das
 Verfahren des Abzugs von Lastenausgleich nach der bis dahin geltenden
 Fassung dieses Gesetzes.
 
-
 ## § 9 Entschädigungsfonds
 
 (1) Entschädigungen nach diesem Gesetz, Ausgleichsleistungen nach den
@@ -715,7 +701,6 @@ Entschädigungsanspruchs und des Verfahrens (wie z. B. Begebung und
 Ausgestaltung der Schuldverschreibungen, Zusammenwirken der
 beteiligten Stellen, Barzahlung von Restbeträgen bei der Umstellung
 auf Euro) zu regeln.
-
 
 ## § 10 Einnahmen des Entschädigungsfonds
 
@@ -819,7 +804,6 @@ jeweiligen Haushaltsplans geleistet werden. Die Rückzahlung an den
 Bund erfolgt bei Einnahmeüberschüssen. Einzelheiten regelt das
 Bundesministerium der Finanzen.
 
-
 ## § 11 Bewirtschaftung des Entschädigungsfonds
 
 (1) Die Einnahmen und Ausgaben des Entschädigungsfonds werden für
@@ -840,7 +824,6 @@ Bundesbehörden geltenden Vorschriften Anwendung.
 
 (4) Die Kosten für die Verwaltung des Entschädigungsfonds trägt der
 Bund.
-
 
 ## § 12 Zuständigkeit und Verfahren
 

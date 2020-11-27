@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 39 G v. 20.12.2011 I 2854
 
-
 ## Eingangsformel
 
 Auf Grund des § 51b Absatz 1 Satz 2 des Zweiten Buches
@@ -26,7 +25,6 @@ Sozialgesetzbuch – Grundsicherung für Arbeitsuchende –, der durch
 Artikel 1 Nummer 19 Buchstabe a des Gesetzes vom 3. August 2010 (BGBl.
 I S. 1112) geändert worden ist, verordnet das Bundesministerium für
 Arbeit und Soziales:
-
 
 ## § 1 Datenerhebung durch die Träger der Grundsicherung für Arbeitsuchende
 
@@ -137,7 +135,6 @@ Erledigung sowie die Stattgabegründe zu erheben. Zu erheben ist auch
 die Zahl der erhobenen und erledigten Klagen, aufgeteilt nach
 Sachgebieten und der Art der Erledigung.
 
-
 ## § 2 Verfahren zur Weiterentwicklung
 
 Der Bund-Länder-Ausschuss berät regelmäßig oder im Falle maßgeblicher
@@ -147,11 +144,9 @@ Erarbeitung von Vorschlägen zu künftigen Veränderungen der Daten nach
 dieser Verordnung eine Arbeitsgruppe einsetzen. Die Arbeitsgruppe kann
 hierzu Sachverständige hinzuziehen.
 
-
 ## § 3 Inkrafttreten
 
 Diese Verordnung tritt am 23. August 2010 in Kraft.
-
 
 ## Schlussformel
 

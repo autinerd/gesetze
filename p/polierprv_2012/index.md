@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1926
 
-
 ## Eingangsformel
 
 Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 des
@@ -26,7 +25,6 @@ geändert worden ist, verordnet das Bundesministerium für Bildung und
 Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für
 Berufsbildung im Einvernehmen mit dem Bundesministerium für Wirtschaft
 und Technologie:
-
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
 
@@ -96,7 +94,6 @@ Rahmenbedingungen wahrzunehmen:
 (4) Die erfolgreich abgelegte Prüfung führt zum anerkannten
 Fortbildungsabschluss „Geprüfter Polier“ oder „Geprüfte Polierin“.
 
-
 ## § 2 Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer
@@ -133,7 +130,6 @@ Voraussetzungen ist zur Prüfung auch zuzulassen, wer durch Vorlage von
 Zeugnissen oder auf andere Weise glaubhaft macht, Fertigkeiten,
 Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit) erworben zu
 haben, die die Zulassung zur Prüfung rechtfertigen.
-
 
 ## § 3 Umfang der Qualifikation und Gliederung der Prüfung
 
@@ -184,7 +180,6 @@ werden soll.
 geprüft werden; dabei ist mit dem letzten Prüfungsteil spätestens zwei
 Jahre nach dem ersten Prüfungstag des ersten Prüfungsteils zu
 beginnen.
-
 
 ## § 4 Prüfungsteil „Baubetrieb“
 
@@ -280,7 +275,6 @@ Dokumentation und der Präsentation geführt wird. Die Präsentation soll
 mindestens zehn Minuten und höchstens 15 Minuten, das Fachgespräch und
 die Präsentation zusammen mindestens 30 Minuten und höchstens 45
 Minuten dauern.
-
 
 ## § 5 Prüfungsteil „Bautechnik“
 
@@ -426,7 +420,6 @@ dauern. Die Bewertung der schriftlichen Prüfungsleistung und die der
 mündlichen Ergänzungsprüfung werden zu einer Bewertung der
 Prüfungsleistung zusammengefasst. Dabei wird die Bewertung der
 schriftlichen Prüfungsleistung doppelt gewichtet.
-
 
 ## § 6 Prüfungsteil „Mitarbeiterführung und Personalmanagement“
 
@@ -575,7 +568,6 @@ mündlichen Ergänzungsprüfung werden zu einer Bewertung der
 Prüfungsleistung zusammengefasst. Dabei wird die Bewertung der
 schriftlichen Prüfungsleistung doppelt gewichtet.
 
-
 ## § 7 Bewerten der Prüfungsteile und Bestehen der Prüfung
 
 (1) Die Prüfungsleistungen in den Prüfungsteilen „Baubetrieb“,
@@ -640,7 +632,6 @@ Prüfungsgremiums der anderweitig abgelegten Prüfung anzugeben. Der
 Nachweis über den Erwerb der berufs- und arbeitspädagogischen
 Qualifikationen nach § 3 Absatz 2 ist im Zeugnis einzutragen.
 
-
 ## § 8 Anrechnung anderer Prüfungsleistungen
 
 Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin ist auf Antrag
@@ -650,7 +641,6 @@ Stelle zu befreien, wenn eine andere vergleichbare Prüfung vor einer
 einem staatlichen Prüfungsausschuss erfolgreich abgelegt wurde und die
 Anmeldung zur Fortbildungsprüfung innerhalb von fünf Jahren nach
 Bekanntgabe des Bestehens der anderen Prüfung erfolgt.
-
 
 ## § 9 Wiederholung der Prüfung
 
@@ -667,7 +657,6 @@ Prüfung an, zur Wiederholungsprüfung angemeldet hat. Bestandene
 Prüfungsleistungen können auf Antrag einmal wiederholt werden. In
 diesem Fall gilt das Ergebnis der letzten Prüfung.
 
-
 ## § 10 Übergangsregelung
 
 Begonnene Prüfverfahren können bis zum 31. März 2015 nach den
@@ -678,7 +667,6 @@ durchführen. § 9 Absatz 2 findet in diesem Fall keine Anwendung. Im
 Dezember 2012 die Anwendung der bisherigen Vorschriften beantragt
 werden.
 
-
 ## § 11 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Oktober 2012 in Kraft. Gleichzeitig tritt
@@ -687,7 +675,6 @@ Polier vom 20. Juni 1979 (BGBl. I S. 667), die zuletzt durch Artikel 1
 Nummer 17 und Artikel 2 § 1 Nummer 1, § 2 Nummer 1, § 3 Nummer 1 und §
 4 Nummer 8 der Verordnung vom 15. April 1999 (BGBl. I S. 711) geändert
 worden ist, außer Kraft.
-
 
 ## Anlage 1 (zu § 2 Absatz 2) Profil des Werkpoliers und der Werkpolierin
 
@@ -806,10 +793,6 @@ nachfolgend beschriebenen Arbeitsgebieten und Aufgaben:
     Bescheinigung insbesondere von Arbeitgebern nachzuweisen. Dabei müssen
     diese Nachweise die Breite und Tiefe der Qualifikation abbilden.
 
-
-
-
-
 ## Anlage 2 (zu § 7 Absatz 7) Muster
 
 (Fundstelle: BGBl. I 2012, 1932)
@@ -820,8 +803,6 @@ nachfolgend beschriebenen Arbeitsgebieten und Aufgaben:
 
 
 *    *   (Bezeichnung der zuständigen Stelle)
-
-
 
 ## Zeugnis
 
@@ -864,9 +845,6 @@ September 2012 (BGBl. I S. 1926) bestanden.
 
 *    *   (Siegel der zuständigen Stelle)
 
-
-
-
 ## Anlage 3 (zu § 7 Absatz 7) Muster
 
 (Fundstelle: BGBl. I 2012, 1933 - 1934)
@@ -877,8 +855,6 @@ September 2012 (BGBl. I S. 1926) bestanden.
 
 
 *    *   (Bezeichnung der zuständigen Stelle)
-
-
 
 ## Zeugnis
 

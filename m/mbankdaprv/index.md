@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 3 V v. 28.8.2012 I 1858
 
-
 ## Eingangsformel
 
 Auf Grund des § 31 Absatz 6 des Gesetzes über die Deutsche Bundesbank,
@@ -31,9 +30,7 @@ vom 9. April 2009 (BGBl. I S. 813) verordnet der Vorstand der
 Deutschen Bundesbank im Einvernehmen mit dem Bundesministerium des
 Innern:
 
-
 ## Abschnitt 1 - Allgemeines
-
 
 ### § 1 Vorbereitungsdienst
 
@@ -41,7 +38,6 @@ Die Ausbildung und Prüfung nach dieser Verordnung sind der
 Vorbereitungsdienst für die Laufbahn des mittleren Bankdienstes der
 Deutschen Bundesbank. Der Vorbereitungsdienst dauert in der Regel 21
 Monate.
-
 
 ### § 2 Ausbildungsziele
 
@@ -51,7 +47,6 @@ der Aufgaben im mittleren Bankdienst der Deutschen Bundesbank
 erforderlich sind. Die Anwärterinnen und Anwärter sollen zu
 verantwortlichem Handeln in einem freiheitlichen, demokratischen und
 sozialen Rechtsstaat befähigt werden.
-
 
 ### § 3 Auswahlverfahren
 
@@ -94,12 +89,10 @@ oberste Dienstbehörde oder eine von ihr bestimmte Stelle stellt
 sicher, dass in allen Auswahlverfahren die gleichen Bewertungs- und
 Auswahlmaßstäbe angelegt werden.
 
-
 ### § 4 Erholungsurlaub
 
 Erholungsurlaub wird nur während der berufspraktischen Ausbildung (§
 10) gewährt.
-
 
 ### § 5 Nachteilsausgleich
 
@@ -119,7 +112,6 @@ Dienstbehörde oder eine von ihr bestimmte Stelle. Bei Leistungstests
 entscheidet die Ausbildungsleiterin oder der Ausbildungsleiter. In der
 mündlichen Abschlussprüfung entscheidet die oder der Vorsitzende der
 Prüfungskommission.
-
 
 ### § 6 Bewertung der Leistungen
 
@@ -250,9 +242,7 @@ dieser Verordnung nichts anderes bestimmt ist, wie folgt bewertet:
 (2) Soweit in dieser Verordnung nichts anderes bestimmt ist, werden
 Rangpunktzahlen auf zwei Nachkommastellen ohne Rundung berechnet.
 
-
 ## Abschnitt 2 - Ausbildung
-
 
 ### § 7 Ausbildungsleitung, Ausbildungsbeauftragte, Ausbildende
 
@@ -283,7 +273,6 @@ ausbilden können. Soweit erforderlich, sind die
 Ausbildungsbeauftragten und Ausbildenden von anderen Dienstgeschäften
 zu entlasten.
 
-
 ### § 8 Ausbildungsrahmenplan, Lehrpläne, Ausbildungspläne
 
 (1) Die oberste Dienstbehörde oder eine von ihr bestimmte Stelle
@@ -301,10 +290,6 @@ Ausbildungsleiterin oder der Ausbildungsleiter
     die Ausbildungsstellen (§ 10 Absatz 3) und Arbeitsbereiche sowie die
     Zeiträume der Ausbildungsabschnitte enthalten sind, und gibt ihn der
     Anwärterin oder dem Anwärter bekannt.
-
-
-
-
 
 ### § 9 Fachtheoretische Ausbildung
 
@@ -359,7 +344,6 @@ trifft.
 werden, werden die Rangpunkte anhand des Bewertungsmaßstabs vergeben.
 Die Bewertung ist mit der Anwärterin oder dem Anwärter zu besprechen.
 
-
 ### § 10 Berufspraktische Ausbildung
 
 (1) Während der berufspraktischen Ausbildung sollen die Anwärterinnen
@@ -385,7 +369,6 @@ Note bewertet wird.
 (5) Die dienstliche Bewertung ist der Anwärterin oder dem Anwärter
 bekannt zu geben und mit ihr oder ihm zu besprechen.
 
-
 ### § 11 Zusammenfassendes Zeugnis, Ausbildungsrangpunktzahl
 
 Über den Erfolg der Ausbildung erstellt die Ausbildungsleiterin oder
@@ -396,9 +379,7 @@ Bewertungen sowie die sich daraus ergebende Durchschnittsrangpunktzahl
 Anwärter erhält spätestens zwei Wochen vor Beginn der Abschlussprüfung
 eine Ausfertigung des zusammenfassenden Zeugnisses.
 
-
 ## Abschnitt 3 - Laufbahnprüfung
-
 
 ### § 12 Zweck, Bestandteile
 
@@ -409,7 +390,6 @@ Bankdienstes selbstständig zu erfüllen.
 
 (2) Die Laufbahnprüfung besteht aus einer schriftlichen und einer
 mündlichen Abschlussprüfung.
-
 
 ### § 13 Organisation
 
@@ -441,10 +421,6 @@ organisiert die Laufbahnprüfung. Sie
 
 7.  erteilt das Abschlusszeugnis (§ 20).
 
-
-
-
-
 ### § 14 Prüfungskommission
 
 (1) Für die Durchführung der Laufbahnprüfung wird eine
@@ -465,7 +441,6 @@ Kommissionen eingerichtet werden.
 
 (3) Die Mitglieder der Prüfungskommission sind bei ihrer
 Prüfungstätigkeit unabhängig und nicht weisungsgebunden.
-
 
 ### § 15 Schriftliche Abschlussprüfung
 
@@ -509,7 +484,6 @@ Prüfenden zustimmt.
 (4) Hat eine Anwärterin oder ein Anwärter die Klausur nicht oder nicht
 rechtzeitig abgegeben, gilt diese als mit null Rangpunkten bewertet.
 
-
 ### § 16 Mündliche Abschlussprüfung
 
 (1) Zur mündlichen Abschlussprüfung wird zugelassen, wer in mindestens
@@ -549,7 +523,6 @@ Protokoll an, aus dem die wesentlichen Umstände der Prüfung sowie ihre
 Bewertung hervorgehen. Das Protokoll ist von allen Mitgliedern der
 Prüfungskommission zu unterschreiben.
 
-
 ### § 17 Fernbleiben, Rücktritt
 
 (1) Bei Fernbleiben oder Rücktritt von einem Teil der Abschlussprüfung
@@ -572,7 +545,6 @@ werden kann oder ob die schriftliche Abschlussprüfung oder die
 mündliche Abschlussprüfung insgesamt nachzuholen ist. Den Zeitpunkt
 der Nachholung setzt die oberste Dienstbehörde oder eine von ihr
 bestimmte Stelle fest.
-
 
 ### § 18 Täuschung, Ordnungsverstoß
 
@@ -604,7 +576,6 @@ für nicht bestanden erklären.
 
 (4) Die Betroffenen sind vor Entscheidungen nach den Absätzen 2 und 3
 anzuhören.
-
 
 ### § 19 Bestehen der Laufbahnprüfung
 
@@ -656,7 +627,6 @@ Anwärterinnen und Anwärtern die Rangpunktzahlen der Laufbahnprüfung
 und der Einzelleistungen mit und erläutert die Bewertungen auf Wunsch
 kurz mündlich.
 
-
 ### § 20 Abschlusszeugnis
 
 (1) Wer die Laufbahnprüfung bestanden hat, erhält ein
@@ -667,7 +637,6 @@ der Laufbahnprüfung und die Abschlussnote enthält.
 (2) Wer die Laufbahnprüfung nicht bestanden hat, erhält von der
 obersten Dienstbehörde oder einer von ihr bestimmten Stelle einen
 Bescheid über die nicht bestandene Laufbahnprüfung.
-
 
 ### § 21 Prüfungsakten, Einsichtnahme
 
@@ -683,7 +652,6 @@ Vorbereitungsdienstes zu vernichten.
 die nicht bestandene Laufbahnprüfung können die Betroffenen auf Antrag
 Einsicht in ihre Prüfungsakten nehmen. Die Einsichtnahme ist in der
 jeweiligen Akte zu vermerken.
-
 
 ### § 22 Wiederholung der Laufbahnprüfung
 
@@ -705,9 +673,7 @@ Ausbildungsleiterin oder der Ausbildungsleiter ein neues
 zusammenfassendes Zeugnis nach § 11, das die in der Wiederholungsfrist
 erbrachten Leistungen einschließt.
 
-
 ## Abschnitt 4 - Schlussvorschriften
-
 
 ### § 23 Übergangsregelung
 
@@ -721,7 +687,6 @@ Deutschen Bundesbank in der Fassung der Bekanntmachung vom 27. April
 der Laufbahnprüfung erwerben die Anwärterinnen und Anwärter die
 Befähigung für die Laufbahn des mittleren Bankdienstes bei der
 Deutschen Bundesbank.
-
 
 ### § 24 Inkrafttreten, Außerkrafttreten
 

@@ -19,11 +19,9 @@ Fundstelle
 Geändert durch
 :   AnO v. 3.11.1970 I 1513
 
-
 ## Eingangsformel
 
 Auf Grund des Artikels 60 Abs. 2 und 3 des Grundgesetzes ordne ich an:
-
 
 ## Art 1 Vorbehaltene Gnadenentschließungen
 
@@ -60,10 +58,6 @@ erteilen:
 
 5.  die Aufhebung der gegen einen Rechtsanwalt beim Bundesgerichtshof
     erkannten Ausschließung aus der Rechtsanwaltschaft.
-
-
-
-
 
 ## Art 2 Übertragung von Gnadenbefugnissen
 
@@ -139,13 +133,11 @@ ferner
 (3) Die Ermächtigungen gelten nicht für Fälle von außerordentlicher
 Bedeutung; in diesen behalte ich mir vor, selbst zu entscheiden.
 
-
 ## Art 3 Weiterübertragung von Gnadenbefugnissen
 
 Ich ermächtige die Bundesminister, denen ich die Ausübung des
 Begnadigungsrechts des Bundes übertragen habe, ihre Befugnisse
 allgemein oder im Einzelfall auf nachgeordnete Stellen zu übertragen.
-
 
 ## Art 4 Verfahren in Gnadensachen
 
@@ -154,7 +146,6 @@ obersten Dienstbehörden bereiten die mir vorbehaltenen Entscheidungen
 in den Gnadensachen ihres Geschäftsbereichs vor. Ist eine zuständige
 Stelle nicht vorhanden oder erachtet sich keine Stelle für zuständig,
 so obliegt die Vorbereitung dem Bundesminister des Innern.
-
 
 ## Art 5 Schlußvorschrift
 

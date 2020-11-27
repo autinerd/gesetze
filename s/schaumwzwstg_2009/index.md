@@ -21,12 +21,9 @@ Zuletzt geändert durch
 Mittelbare änderung durch
 :   Art. 5 G v. 16.6.2011 I 1090 ist berücksichtigt
 
-
 ## Teil 1 - Schaumwein
 
-
 ### Abschnitt 1 - Allgemeine Bestimmungen
-
 
 #### § 1 Steuergebiet, Steuergegenstand
 
@@ -83,10 +80,6 @@ Rechtsverordnung ohne Zustimmung des Bundesrates
     Feststellung des Alkoholgehalts und die Erfassung der steuerbaren
     Menge zu erlassen.
 
-
-
-
-
 #### § 2 Steuertarif
 
 (1) Die Steuer beträgt für Schaumwein vorbehaltlich des Absatzes 2 136
@@ -104,7 +97,6 @@ kohlensäurehaltige Getränke, die für den Fall ihrer Verkehrsfähigkeit
 der Schaumweinsteuer nach Absatz 1 unterliegen würden, unter Angabe
 des Herstellers den zuständigen Lebensmittelüberwachungsbehörden
 mitgeteilt werden.
-
 
 #### § 3 Sonstige Begriffsbestimmungen
 
@@ -172,12 +164,7 @@ Im Sinn dieses Gesetzes ist oder sind
 11. Personen: natürliche und juristische Personen sowie
     Personenvereinigungen ohne eigene Rechtspersönlichkeit.
 
-
-
-
-
 ### Abschnitt 2 - Steueraussetzung und Besteuerung
-
 
 #### § 4 Steuerlager
 
@@ -190,7 +177,6 @@ Rechtsverordnung ohne Zustimmung des Bundesrates zur Sicherung des
 Steueraufkommens sowie zur Wahrung der Gleichmäßigkeit der Besteuerung
 zu bestimmen, welche Räume, Flächen, Anlagen und Betriebsteile zum
 Steuerlager gehören.
-
 
 #### § 5 Steuerlagerinhaber
 
@@ -228,10 +214,6 @@ Steueraufkommens sowie zur Wahrung der Gleichmäßigkeit der Besteuerung
 3.  bei Gefährdung der Steuerbelange Sicherheit bis zur Höhe des
     Steuerwerts des tatsächlichen Steuerlagerbestands zu verlangen oder
     das Steuerlager unter amtlichen Verschluss zu nehmen.
-
-
-
-
 
 #### § 6 Registrierte Empfänger
 
@@ -275,7 +257,6 @@ Rechtsverordnung ohne Zustimmung des Bundesrates Vorschriften zu den
 Absätzen 1 bis 3, insbesondere zum Verfahren der Erlaubnis und zur
 Sicherheitsleistung zu erlassen.
 
-
 #### § 7 Registrierte Versender
 
 (1) Registrierte Versender sind Personen, die Schaumwein vom Ort der
@@ -301,7 +282,6 @@ Sicherheitsleistung zu erlassen und dabei zur Vorbeugung des
 Steuermissbrauchs und zur Sicherung des Steueraufkommens vorzusehen,
 den Versand vom Ort der Einfuhr nur dann zuzulassen, wenn steuerliche
 Belange dem nicht entgegenstehen.
-
 
 #### § 8 Begünstigte
 
@@ -394,7 +374,6 @@ Verfahrensvereinfachung bei Beförderungen unter Steueraussetzung im
 Steuergebiet anstelle einer Freistellungsbescheinigung andere
 geeignete Dokumente zuzulassen.
 
-
 #### § 9 Beförderungen (Allgemeines)
 
 (1) Beförderungen gelten, soweit in diesem Gesetz oder in den dazu
@@ -417,7 +396,6 @@ der Systemrichtlinie und den dazu ergangenen Verordnungen sowie das
 Verfahren der Übermittlung des elektronischen Verwaltungsdokuments und
 den dazu erforderlichen Datenaustausch zu regeln und dabei das
 Verfahren abweichend von Absatz 1 zu bestimmen.
-
 
 #### § 10 Beförderungen im Steuergebiet
 
@@ -476,10 +454,6 @@ Rechtsverordnung ohne Zustimmung des Bundesrates
     Steuerlagerinhaber oder Verwender (§ 23a Absatz 1) in Besitz genommen
     haben, als in ihr Steuerlager oder ihren Betrieb aufgenommen gilt,
     soweit Steuerbelange dadurch nicht beeinträchtigt werden.
-
-
-
-
 
 #### § 11 Beförderungen aus anderen, in andere oder über andere Mitgliedstaaten
 
@@ -588,10 +562,6 @@ zur Sicherheitsleistung zu erlassen; dabei kann es
     oder mehr Mitgliedstaaten Vereinfachungen durch bilaterale
     Vereinbarungen mit den betroffenen Mitgliedstaaten vorsehen.
 
-
-
-
-
 #### § 12 Ausfuhr
 
 (1) Schaumwein darf unter Steueraussetzung, auch über Drittländer oder
@@ -614,7 +584,6 @@ das Verbrauchsteuergebiet der Europäischen Gemeinschaft verlässt.
 Zulassung von Verfahrensvereinfachungen gilt für die unmittelbare
 Ausfuhr aus dem Steuergebiet § 10 Absatz 2 und 5, für die Ausfuhr über
 andere Mitgliedstaaten § 11 Absatz 2 und 6 entsprechend.
-
 
 #### § 13 Unregelmäßigkeiten während der Beförderung
 
@@ -673,7 +642,6 @@ Fälle entsprechend.
 Rechtsverordnung ohne Zustimmung des Bundesrates zur Wahrung der
 Gleichmäßigkeit der Besteuerung Vorschriften zu den Absätzen 2 bis 6
 zu erlassen.
-
 
 #### § 14 Steuerentstehung, Steuerschuldner
 
@@ -751,7 +719,6 @@ Rechtsverordnung ohne Zustimmung des Bundesrates Vorschriften zu
 Absatz 3 zu erlassen, insbesondere zu den Anforderungen an den
 Nachweis.
 
-
 #### § 15 Steueranmeldung, Fälligkeit
 
 (1) Die Steuerschuldner nach § 14 Absatz 4 Satz 1 Nummer 1 erste
@@ -771,9 +738,7 @@ Rechtsverordnung ohne Zustimmung des Bundesrates zur Sicherung des
 Steueraufkommens und zur Wahrung der Gleichmäßigkeit der Besteuerung
 die Einzelheiten zur Steueranmeldung zu bestimmen.
 
-
 ### Abschnitt 3 - Einfuhr von Schaumwein aus Drittländern oder Drittgebieten
-
 
 #### § 16 Einfuhr
 
@@ -827,16 +792,11 @@ die Einzelheiten zur Steueranmeldung zu bestimmen.
     Verfahren der Zollüberwachung beim Eingang in das Zollgebiet der
     Gemeinschaft.
 
-
-
-
-
 #### § 17 Unregelmäßigkeiten im zollrechtlichen Nichterhebungsverfahren
 
 Treten in einem zollrechtlichen Nichterhebungsverfahren, in dem sich
 der Schaumwein befindet, Unregelmäßigkeiten ein, gilt Artikel 215 des
 Zollkodex sinngemäß.
-
 
 #### § 18 Steuerentstehung, Steuerschuldner
 
@@ -882,9 +842,7 @@ Anpassung an die Behandlung im Steuergebiet hergestellten Schaumweins
 oder wegen der besonderen Verhältnisse bei der Einfuhr erforderlich
 ist.
 
-
 ### Abschnitt 4 - Beförderung und Besteuerung von Schaumwein des steuerrechtlich freien Verkehrs anderer Mitgliedstaaten
-
 
 #### § 19 Erwerb durch Privatpersonen
 
@@ -917,7 +875,6 @@ Rechtsverordnung ohne Zustimmung des Bundesrates zur Sicherung des
 Steueraufkommens vorzuschreiben, bei welcher Menge Schaumwein nach
 Absatz 1 widerleglich vermutet wird, dass dieser nicht für den
 Eigenbedarf der Privatperson bestimmt ist.
-
 
 #### § 20 Bezug und Besitz zu gewerblichen Zwecken
 
@@ -979,7 +936,6 @@ die Steuer sofort fällig. § 6 Absatz 3 gilt entsprechend.
 Rechtsverordnung ohne Zustimmung des Bundesrates zur Sicherung des
 Steueraufkommens Vorschriften zu den Absätzen 1, 2, 4 und 5 zu
 erlassen, insbesondere zum Besteuerungsverfahren und zur Sicherheit.
-
 
 #### § 21 Versandhandel
 
@@ -1044,7 +1000,6 @@ Rechtsverordnung ohne Zustimmung des Bundesrates zur Sicherung des
 Steueraufkommens und zur Wahrung der Gleichmäßigkeit der Besteuerung
 Vorschriften zu den Absätzen 1, 2, 4 bis 7 zu erlassen.
 
-
 #### § 22 Unregelmäßigkeiten während der Beförderung von Schaumwein des steuerrechtlich freien Verkehrs anderer Mitgliedstaaten
 
 (1) Treten während der Beförderung von Schaumwein nach § 20 Absatz 1
@@ -1067,9 +1022,7 @@ Rechtsverordnung ohne Zustimmung des Bundesrates zur Sicherung des
 Steueraufkommens und zur Wahrung der Gleichmäßigkeit der Besteuerung
 Vorschriften zu den Absätzen 1 und 3 zu erlassen.
 
-
 ### Abschnitt 5 - Steuervergünstigungen
-
 
 #### § 23 Steuerbefreiungen
 
@@ -1164,10 +1117,6 @@ Rechtsverordnung
 2.  bei wirtschaftlichem Bedürfnis auch die nichtgewerbliche
     steuerbefreite Verwendung nach Absatz 1 zuzulassen.
 
-
-
-
-
 #### § 23a Verwender
 
 (1) Wer Schaumwein in den Fällen des § 23 Absatz 1 steuerfrei
@@ -1217,13 +1166,6 @@ Rechtsverordnung
     b)  die steuerbefreite Verwendung unter Verzicht auf Einzelerlaubnisse
         allgemein zuzulassen.
 
-
-
-
-
-
-
-
 #### § 24 Steuerentlastung im Steuergebiet
 
 (1) Nachweislich versteuerter Schaumwein, der in ein Steuerlager
@@ -1236,7 +1178,6 @@ Steueraufkommens und zur Wahrung der Gleichmäßigkeit der Besteuerung
 Vorschriften zu Absatz 1 zu erlassen und insbesondere eine für den
 Entlastungsberechtigten ausgestellte Versteuerungsbestätigung des
 Steuerschuldners für den Antrag nach Absatz 1 Satz 1 vorzuschreiben.
-
 
 #### § 25 Steuerentlastung bei der Beförderung von Schaumwein des steuerrechtlich freien Verkehrs in andere Mitgliedstaaten
 
@@ -1293,12 +1234,7 @@ Steueraufkommens und zur Wahrung der Gleichmäßigkeit der Besteuerung
 2.  zur Verwaltungsvereinfachung Mindestmengen vorzuschreiben sowie
     Steuerlagerinhaber von dem Verfahren auszuschließen.
 
-
-
-
-
 ### Abschnitt 6 - Steueraufsicht, Geschäftsstatistik, Besondere Ermächtigungen
-
 
 #### § 26 Steueraufsicht
 
@@ -1326,7 +1262,6 @@ geführt werden kann, dass er
 
 Die §§ 215, 216 der Abgabenordnung finden entsprechende Anwendung.
 
-
 #### § 27 Geschäftsstatistik
 
 (1) Nach näherer Bestimmung des Bundesministeriums der Finanzen
@@ -1336,7 +1271,6 @@ teilen die Ergebnisse dem Statistischen Bundesamt zur Auswertung mit.
 (2) Die Bundesfinanzbehörden können auch bereits aufbereitete Daten
 dem Statistischen Bundesamt zur Darstellung und Veröffentlichung für
 allgemeine Zwecke übermitteln.
-
 
 #### § 28 Besondere Ermächtigungen
 
@@ -1502,12 +1436,7 @@ Rechtsverordnung ohne Zustimmung des Bundesrates
     zurückgegebene, vernichtete oder ungültig gemachte Steuerzeichen
     Gebühren erhoben werden.
 
-
-
-
-
 ## Teil 2 - Zwischenerzeugnisse
-
 
 ### § 29 Steuergegenstand
 
@@ -1524,7 +1453,6 @@ besteuert werden.
 (3) Auf Zwischenerzeugnisse finden vorbehaltlich des § 31 der § 1
 Absatz 3 und 4 und die §§ 3 bis 28 des Teils 1 entsprechende
 Anwendung.
-
 
 ### § 30 Steuertarif
 
@@ -1547,7 +1475,6 @@ Zwischenerzeugnisse
 
 136 Euro/hl.
 
-
 ### § 31 Herstellung von Zwischenerzeugnissen
 
 Die Vorschrift des § 14 Absatz 2 Nummer 2 in Verbindung mit Absatz 1
@@ -1557,9 +1484,7 @@ Bestandteile (Branntwein, alkoholische Getränke) entrichtete
 Verbrauchsteuer insgesamt nicht niedriger ist als die Steuer für das
 Zwischenerzeugnis.
 
-
 ## Teil 3 - Wein
-
 
 ### § 32 Begriffsbestimmung
 
@@ -1608,10 +1533,6 @@ nach § 1 Absatz 2 unterliegenden Erzeugnisse
     andere oder über andere Mitgliedstaaten die §§ 3 bis 9, 11 bis 13, 16
     und 17 und 21 Absatz 7.
 
-
-
-
-
 ### § 33 Beförderungen aus anderen, in andere oder über andere Mitgliedstaaten
 
 (1) Beförderungen von Wein aus anderen, in andere oder über andere
@@ -1646,16 +1567,9 @@ Rechtsverordnung ohne Zustimmung des Bundesrates
     vorgeschriebenen Bücher führen, von der Pflicht zur Führung besonderer
     steuerlicher Aufzeichnungen zu befreien.
 
-
-
-
-
 ### § 34 (weggefallen)
 
-
-
 ## Teil 4 - Schlussbestimmungen
-
 
 ### § 35 Ordnungswidrigkeiten
 
@@ -1687,16 +1601,11 @@ handelt, wer vorsätzlich oder leichtfertig
 
     eine Anzeige nicht oder nicht rechtzeitig erstattet.
 
-
-
-
-
 ### § 36 Verwaltungsvorschriften
 
 Das Bundesministerium der Finanzen erlässt die allgemeinen
 Verwaltungsvorschriften zur Durchführung dieses Gesetzes und der auf
 Grund dieses Gesetzes erlassenen Rechtsverordnungen.
-
 
 ### § 37 Übergangsvorschriften
 

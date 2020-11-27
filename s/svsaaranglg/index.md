@@ -19,14 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 51 G v. 9.12.2004 I 3242
 
-
 ## Erster Abschnitt - Angleichung der Reichsversicherungsordnung und des Reichsknappschaftsgesetzes sowie Änderung des Saarknappschaftsgesetzes
 
-
-
 ### Erster Titel - Angleichung der Reichsversicherungsordnung
-
-
 
 #### § 1
 
@@ -35,10 +30,7 @@ Reichsversicherungsordnung sowie die zu ihrer Änderung, Ergänzung und
 Durchführung erlassenen Vorschriften gelten im Saarland in der im
 übrigen Bundesgebiet geltenden Fassung.
 
-
 ### Zweiter Titel - Angleichung des Reichsknappschaftsgesetzes und Änderung des Saarknappschaftsgesetzes
-
-
 
 #### § 2
 
@@ -48,7 +40,6 @@ Reichsknappschaftsgesetzes mit Ausnahme der §§ 123 und 124 und der §
 155 des Reichsknappschaftsgesetzes sowie die zu ihrer Änderung,
 Ergänzung und Durchführung erlassenen Vorschriften treten im Saarland
 in der im übrigen Bundesgebiet geltenden Fassung in Kraft.
-
 
 #### § 3
 
@@ -87,18 +78,11 @@ geändert und ergänzt:
 
 6.  §§ 24 und 72 bis 76 werden gestrichen.
 
-
-
-
-
 ### Dritter Titel - Übergangsvorschriften
-
-
 
 #### § 4
 
 -
-
 
 #### § 5
 
@@ -115,7 +99,6 @@ Rentenversicherung der Arbeiter oder der Rentenversicherung der
 Angestellten beziehen. Voraussetzung der Versicherung nach Satz 1 ist,
 daß die Rentenbezieher nicht nach anderen gesetzlichen Vorschriften
 versichert sind.
-
 
 #### § 6
 
@@ -140,7 +123,6 @@ Recht auf freiwillige Weiterversicherung nach der Antragstellung
 erworben haben. Die freiwillige Weiterversicherung ist der Kasse
 binnen drei Wochen nach dem Ende der Versicherungspflicht anzuzeigen.
 
-
 #### § 7
 
 (1) Personen, die bei Inkrafttreten dieses Abschnitts nur wegen des
@@ -162,7 +144,6 @@ freiwillige Weiterversicherung nach der Antragstellung erworben haben.
 Die freiwillige Weiterversicherung ist der Kasse binnen drei Monaten
 nach Inkrafttreten dieses Abschnitts anzuzeigen.
 
-
 #### § 8
 
 § 7 gilt entsprechend für Personen, die bei Inkrafttreten dieses
@@ -180,13 +161,11 @@ oder 4 der Reichsversicherungsordnung oder nach § 5 dieses Gesetzes
 oder nach § 16 Abs. 1 des Saarknappschaftsgesetzes
 versichert sind.
 
-
 #### § 9
 
 Eine bei Inkrafttreten dieses Abschnitts nach der Verordnung über die
 Durchführung der Krankenversicherung der Rentner im Saarland
 bestehende freiwillige Versicherung bleibt unberührt.
-
 
 #### § 10
 
@@ -221,7 +200,6 @@ verloren hatte.
 (3) Die Mitgliedschaft bei der neuen Kasse beginnt mit dem ersten Tag
 des auf den Antrag folgenden Kalendervierteljahres.
 
-
 #### § 11
 
 (1) Ist eine Sterbegeldzusatzversicherung nach § 2 Nr. 5 des Gesetzes
@@ -247,18 +225,15 @@ Abgeltungsbeträge darf jedoch nicht höher sein als das
 Zusatzsterbegeld, das bei Weiterführung der
 Sterbegeldzusatzversicherung zu zahlen gewesen wäre.
 
-
 #### § 12
 
 -
-
 
 #### § 13
 
 Der Bundesminister für Arbeit und Sozialordnung kann mit Zustimmung
 des Bundesrates Verwaltungsvorschriften zur Durchführung der §§ 5 bis
 10 erlassen.
-
 
 #### § 14
 
@@ -275,7 +250,6 @@ Gesundheitspflege während der Ausbildung vom 1. Oktober 1953
 (Amtsblatt des Saarlandes S. 704) als Mitglieder der Allgemeinen
 Ortskrankenkasse für das Saarland gelten.
 
-
 #### § 15
 
 Personen, die mit dem Inkrafttreten dieses Abschnitts in der
@@ -284,11 +258,9 @@ privaten Versicherungsvertrags gegen Krankheit versichert sind, können
 den Versicherungsvertrag zum Ende des Monats kündigen, in dem sie den
 Beginn der Pflichtversicherung nachweisen.
 
-
 #### § 16
 
 -
-
 
 #### § 17
 
@@ -306,14 +278,9 @@ Bundesversicherungsanstalt für Angestellte zu erstattende laufende
 Monatsbeitrag wird für die Zeit vom 1. Januar 1962 bis zum
 Inkrafttreten dieses Abschnitts auf 22 Deutsche Mark festgesetzt.
 
-
 ## Zweiter Abschnitt - Angleichung des Fremdrenten- und Auslandsrentenrechts
 
-
-
 ### Erster Titel - Einführung des Fremdrentengesetzes
-
-
 
 #### § 18
 
@@ -324,10 +291,7 @@ daß in § 16 Satz 2 nach den Worten "am 1. März 1957" und in § 20 Abs.
 4 Satz 1 nach den Worten "nach den jeweils" die Worte "außerhalb des
 Saarlandes" eingefügt werden.
 
-
 ### Zweiter Titel - Einführung der Art 2 bis 6 des Fremdrenten- und Auslandsrenten-Neuregelungsgesetzes
-
-
 
 #### § 19
 
@@ -581,13 +545,7 @@ Ergänzungen eingeführt:
 
 17. Artikel 6 § 24 Abs. 1 Satz 2 gilt nicht.
 
-
-
-
-
 ### Dritter Titel - Einführung und Änderung weiterer sozialversicherungsrechtlicher Vorschriften
-
-
 
 #### § 20
 
@@ -640,36 +598,25 @@ Im Saarland werden folgende Vorschriften eingeführt:
     Angestellten sowie in der knappschaftlichen Rentenversicherung vom 6.
     Dezember 1962 (Bundesgesetzbl. I S. 709).
 
-
-
-
-
 #### § 21
 
 In Artikel 2 des Arbeiterrentenversicherungs-Neuregelungsgesetzes in
 der Fassung des Gesetzes Nr. 591 erhalten § 56 die Bezeichnung § 54a
 ....
 
-
 #### § 22
 
 In Artikel 2 des Angestelltenversicherungs-Neuregelungsgesetzes in der
 Fassung des Gesetzes Nr. 590 erhält § 55 die Bezeichnung § 53a.
 
-
 #### (XXXX) §§ 23 bis 25 (weggefallen)
 
-
-
 ### Vierter Titel - Übergangsvorschriften
-
-
 
 #### § 26
 
 §§ 18 bis 20 gelten nicht für die hüttenknappschaftliche
 Pensionsversicherung.
-
 
 #### § 27
 
@@ -685,7 +632,6 @@ dieses Gesetzes aufhält.
 gelten in der gesetzlichen Unfallversicherung § 9 des
 Fremdrentengesetzes entsprechend, im übrigen die allgemeinen
 Vorschriften.
-
 
 #### § 28
 
@@ -712,7 +658,6 @@ gewöhnlichen Aufenthalts im Geltungsbereich dieses Gesetzes gewährt.
 hinsichtlich der Zuständigkeit für die Feststellung und Gewährung der
 Leistung so behandelt, als ob sie im Geltungsbereich dieses Gesetzes
 zurückgelegt worden wären.
-
 
 #### § 29
 
@@ -753,7 +698,6 @@ Leistung nach § 27 oder 28 haben oder die vorgenannten
 Versicherungszeiten in einer Rente berücksichtigt sind, die von einem
 Träger mit dem Sitz im Geltungsbereich dieses Gesetzes gewährt wird.
 
-
 #### § 30
 
 (1) Die Leistungen nach §§ 27 bis 29 gelten nicht als Leistungen der
@@ -769,7 +713,6 @@ Bahn-See als Träger der knappschaftlichen Rentenversicherung für die
 in Absatz 1 genannten Leistungen werden im Rahmen der
 Bundesbeteiligung in der knappschaftlichen Rentenversicherung
 (Sechstes Buch Sozialgesetzbuch) verrechnet.
-
 
 #### § 30a
 
@@ -790,7 +733,6 @@ Fünften Buches Sozialgesetzbuch und der Vorschriften des Sechsten
 Buches Sozialgesetzbuch über den Zuschuß zur Krankenversicherung als
 Rente der gesetzlichen Rentenversicherung.
 
-
 #### § 31
 
 (1) Soweit in den durch §§ 18 bis 20 eingeführten Gesetzen und
@@ -802,22 +744,17 @@ ist.
 Vorschriften Bezug genommen ist, die im Saarland in abweichender
 Fassung gelten, sind diese in der saarländischen Fassung anzuwenden.
 
-
 #### § 32
 
 Bis zur Neuregelung des Rechts der gesetzlichen Krankenversicherung
 gilt § 10 des Fremdrenten- und Auslandsrentengesetzes vom 7. August
 1953 (Bundesgesetzbl. I S. 848) weiter.
 
-
 #### § 33
 
 -
 
-
 ## Dritter Abschnitt - Schlußvorschriften
-
-
 
 ### § 34
 
@@ -826,7 +763,6 @@ Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes
 erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 Überleitungsgesetzes.
-
 
 ### § 35
 

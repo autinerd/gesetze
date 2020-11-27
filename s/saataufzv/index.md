@@ -18,12 +18,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 V v. 21.7.2009 I 2107
 
-
 ## Eingangsformel
 
 Auf Grund des § 27 Satz 2 des Saatgutverkehrsgesetzes vom 20. August
 1985 (BGBl. I S. 1633) wird mit Zustimmung des Bundesrates verordnet:
-
 
 ## § 1
 
@@ -175,7 +173,6 @@ entbehrlich.
 Schlüsselzeichen verwendet, so müssen sie für die zuständige Behörde
 klar verständlich sein.
 
-
 ## § 2
 
 (1) Bei eingeführtem Saatgut, außer Saatgut aus Vertragsstaaten, muß
@@ -201,16 +198,13 @@ Antrag gestellt hat.
 kann entfallen, wenn sie sich aus sonstigen Geschäftsunterlagen des
 aufzeichnungspflichtigen Betriebes nachprüfbar ergibt.
 
-
 ## § 3
 
 -
 
-
 ## § 4
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlußformel
 

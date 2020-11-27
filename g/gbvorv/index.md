@@ -15,14 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1994, 2796
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 1 Abs. 4 der Grundbuchordnung in der Fassung der
 Bekanntmachung vom 26. Mai 1994 (BGBl. I S. 1114) verordnet das
 Bundesministerium der Justiz:
-
 
 ## § 1 Vorrang für investive Grundbuchsachen
 
@@ -44,7 +41,6 @@ Grundbuchordnung unberührt; gehen danach sonstige Anträge oder
 Ersuchen vor, nehmen sie am Vorrang teil, auch wenn diese Anträge oder
 Ersuchen selbst nicht die Voraussetzungen hierfür erfüllen.
 
-
 ## § 2 Dringlichkeitsbescheinigung
 
 Für Anträge oder Ersuchen auf Vornahme von rechtsändernden oder
@@ -65,7 +61,6 @@ dringlich ist. In der Bescheinigung sind der Antragsteller, das
 betroffene Grundstück, Gebäudeeigentum oder Erbbaurecht, der
 Vorhabenträger und das Vorhaben in einer Kurzbeschreibung anzugeben.
 
-
 ## § 3 Anwendungsbereich
 
 (1) Die Befugnis der Landesjustizverwaltungen, durch allgemeine
@@ -84,11 +79,9 @@ Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen. Ein Anspruch auf
 vorrangige Bearbeitung im Einzelfall wird durch diese Verordnung nicht
 begründet.
 
-
 ## § 4 Inkrafttreten
 
 Diese Verordnung tritt am 31. Oktober 1994 in Kraft.
-
 
 ## Schlußformel
 

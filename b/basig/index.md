@@ -18,12 +18,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 G v. 17.7.2009 I 1990
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -164,11 +162,9 @@ Impfstoffes üblicherweise verursacht, unberücksichtigt. Der
 Gebührenschuldner ist zu hören, wenn mit einer Erhöhung der Gebühr
 nach den Sätzen 7 und 8 zu rechnen ist.
 
-
 ## Art 2
 
 -
-
 
 ## Art 3
 
@@ -193,7 +189,6 @@ Hinterbliebenen gilt § 180 Abs. 4 des Bundesbeamtengesetzes.
 
 (4)
 
-
 ## Art 4
 
 (1) Für Arzneimittel nach §
@@ -217,11 +212,9 @@ oder die Zulassung abgelehnt wird. Nach der Zulassung bedarf es der
 Freigabe jeder einzelnen Charge, es sei denn, daß das Paul-Ehrlich-
 Institut das Arzneimittel davon freistellt.
 
-
 ## Art 5
 
 (weggefallen)
-
 
 ## Art 6
 

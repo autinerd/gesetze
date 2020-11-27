@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BAnz: 1955, Nr 203
 
-
-
 ## (XXXX)
 
 Auf Grund des § 33 Abs. 1 Satz 2 der Bundesdisziplinarordnung ordne

@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1995, 1705
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 13a Abs. 1 Satz 3 in Verbindung mit § 57 Abs. 1 Nr. 7
@@ -26,7 +24,6 @@ Artikel 6 Abs. 116 Nr. 5 des Gesetzes vom 27. Dezember 1993 (BGBl. I
 S. 2378), § 57 Abs. 1 Nr. 7 eingefügt durch Artikel 1 Nr. 1 des
 Gesetzes vom 23. Juli 1992 (BGBl. I S. 1379), verordnet das
 Bundesministerium für Verkehr:
-
 
 ## § 1 Geringste Kosten für die Allgemeinheit
 
@@ -69,7 +66,6 @@ zuletzt geändert durch Artikel 1 der Verordnung  vom 13. Juni 1989
 (BGBl. I S. 1094), entsprechen. Absatz 2 Satz 2 und 3 gilt
 entsprechend.
 
-
 ## § 2 Verfahrensregelung
 
 Für Entscheidungen nach § 13a des Gesetzes hat die in § 1 genannte
@@ -77,11 +73,9 @@ zuständige Behörde der Genehmigungsbehörde die Unterlagen über die
 vertragliche Vergabe oder die Auferlegung einer gemeinwirtschaftlichen
 Verkehrsleistung zur Einsichtnahme vorzulegen.
 
-
 ## § 3 Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 1996 in Kraft.
-
 
 ## Schlußformel
 

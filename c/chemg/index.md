@@ -80,13 +80,7 @@ Zuletzt geändert durch
     Anwendung bei Versuchen mit chemischen Stoffen (kodifizierte Fassung)
     (ABl. EU Nr. L 50 S. 44).
 
-
-
-
-
 ## Erster Abschnitt - Zweck, Anwendungsbereich und Begriffsbestimmungen
-
-
 
 ### § 1 Zweck des Gesetzes
 
@@ -94,7 +88,6 @@ Zweck des Gesetzes ist es, den Menschen und die Umwelt vor schädlichen
 Einwirkungen gefährlicher Stoffe und Gemische zu schützen,
 insbesondere sie erkennbar zu machen, sie abzuwenden und ihrem
 Entstehen vorzubeugen.
-
 
 ### § 2 Anwendungsbereich
 
@@ -210,7 +203,6 @@ Beförderung gefährlicher Güter im Eisenbahn-, Straßen-,
 Binnenschiffs-, See- und Luftverkehr, ausgenommen die
 innerbetriebliche Beförderung.
 
-
 ### § 3 Begriffsbestimmungen
 
 Im Sinne dieses Gesetzes sind
@@ -294,7 +286,6 @@ Bestimmungen der in Satz 1 aufgeführten Begriffe in Verordnungen der
 Europäischen Gemeinschaft oder der Europäischen Union (EG- oder EU-
 Verordnungen) bleiben unberührt.
 
-
 ### § 3a Gefährliche Stoffe und gefährliche Gemische
 
 (1) Gefährliche Stoffe oder gefährliche Gemische sind Stoffe oder
@@ -369,7 +360,6 @@ Gefährlichkeitsmerkmale nach Absatz 1 zugeordnet werden zu können.
 (4) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates nähere Vorschriften über die Festlegung der
 in Absatz 1 genannten Gefährlichkeitsmerkmale zu erlassen.
-
 
 ### § 3b Ergänzende Begriffsbestimmungen für Biozid-Produkte
 
@@ -474,10 +464,7 @@ in Absatz 1 genannten Gefährlichkeitsmerkmale zu erlassen.
 Zustimmung des Bundesrates nähere Vorschriften über die in Absatz 1
 Nr. 1 enthaltene Begriffsbestimmung zu erlassen.
 
-
 ## Zweiter Abschnitt - Durchführung der Verordnung (EG) Nr. 1907/2006 und der Verordnung (EG) Nr. 1272/2008
-
-
 
 ### § 4 Bundesbehörden
 
@@ -521,7 +508,6 @@ zu Zwecken der Verordnung (EG) Nr. 1907/2006 und der Verordnung (EG)
 Nr. 1272/2008 vorhanden sind und die betreffende Fragestellung von den
 in Absatz 1 genannten Behörden nicht abschließend beurteilt werden
 kann.
-
 
 ### § 5 Aufgaben der Bundesstelle für Chemikalien
 
@@ -596,10 +582,6 @@ ferner die folgenden Aufgaben wahr:
     1907/2006 und die Verordnung (EG) Nr. 1272/2008 und ihre
     Fortentwicklung betreffenden Angelegenheiten.
 
-
-
-
-
 ### § 6 Aufgaben der Bewertungsstellen
 
 (1) Die Bewertungsstellen unterstützen die Bundesstelle für
@@ -626,7 +608,6 @@ Sicherheit und Gesundheitsschutz der Beschäftigten ist die
 arbeitsschutzbezogene Risikobewertung einschließlich der Bewertung von
 Risikominderungsmaßnahmen.
 
-
 ### § 7 Zusammenarbeit der Bundesstelle für Chemikalien und der anderen beteiligten Bundesoberbehörden
 
 (1) Die Bundesstelle für Chemikalien koordiniert das Zusammenwirken
@@ -645,14 +626,12 @@ außen. Sie zieht dabei Vertreter der anderen beteiligten
 Bundesoberbehörden zur Unterstützung hinzu, sofern sie es für
 erforderlich hält oder diese es verlangen.
 
-
 ### § 8 Gebührenfreiheit der nationalen Auskunftsstelle
 
 Die Bundesstelle für Chemikalien erhebt für ihre Tätigkeit als
 nationale Auskunftsstelle nach Artikel 124 Abs. 2 der Verordnung (EG)
 Nr. 1907/2006 und nach Artikel 44 der Verordnung (EG) Nr. 1272/2008
 keine Gebühren.
-
 
 ### § 9 Informationsaustausch zwischen Bundes- und Landesbehörden
 
@@ -724,7 +703,6 @@ Chemikalien insbesondere über
 
 (3) § 22 Abs. 1 bleibt unberührt.
 
-
 ### § 10 Vorläufige Maßnahmen
 
 (1) Sofern auf Grundlage dieses Gesetzes eine vorläufige Maßnahme im
@@ -741,20 +719,15 @@ Landesbehörden über die Entscheidung der Europäischen Kommission nach
 Artikel 129 Abs. 2 der Verordnung (EG) Nr. 1907/2006 oder nach Artikel
 52 Absatz 2 der Verordnung (EG) Nr. 1272/2008.
 
-
 ### § 11 (weggefallen)
 
 -
-
 
 ### § 12 (weggefallen)
 
 -
 
-
 ## Abschnitt IIa - Zulassung von Biozid-Produkten
-
-
 
 ### § 12a Zulassungsbedürftigkeit
 
@@ -783,10 +756,6 @@ Zulassungsstelle zugelassen worden sind. Dies gilt nicht für
     (Referenzprodukt) übereinstimmen, sofern das Vorliegen dieser
     Voraussetzungen auf Antrag des Einführers von der Zulassungsstelle
     festgestellt worden ist.
-
-
-
-
 
 ### § 12b Voraussetzungen und Inhalt der Zulassung
 
@@ -926,7 +895,6 @@ Fordert die Zulassungsstelle nach Absatz 3 Satz 3 weitere Angaben,
 Unterlagen und Proben nach, ist die Zulassung um den Zeitraum zu
 verlängern, der für die Beibringung der Unterlagen erforderlich ist.
 
-
 ### § 12c Zulassung in besonderen Fällen
 
 (1) Die Zulassungsstelle kann ein Biozid-Produkt, das einen Wirkstoff
@@ -985,7 +953,6 @@ der Richtlinie 98/8/EG die getroffene Maßnahme bestätigt, erteilt die
 Zulassungsstelle die Zulassung im Rahmen des durch den Rechtsakt
 vorgesehenen Umfangs.
 
-
 ### § 12d Zulassungsverfahren
 
 (1) Die Zulassung kann beantragen, wer als Hersteller oder Einführer
@@ -1041,7 +1008,6 @@ Unterlagen, so findet Satz 1 mit der Maßgabe Anwendung, dass an die
 Stelle des Eingangs des Zulassungsantrags der Eingang der weiteren
 Unterlagen bei der Zulassungsstelle tritt.
 
-
 ### § 12e Nachträgliche Änderungen der Zulassung, Aufhebung
 
 (1) Zur Erfüllung von Anforderungen dieses Gesetzes, der auf dieses
@@ -1080,7 +1046,6 @@ der Richtlinie 98/8/EG ergeben.
 (5) Im Übrigen bleiben die §§ 48 und 49 des
 Verwaltungsverfahrensgesetzes unberührt.
 
-
 ### § 12f Registrierung von Biozid-Produkten mit niedrigem Risikopotential
 
 (1) Die Registrierung eines Biozid-Produkts mit niedrigem
@@ -1094,7 +1059,6 @@ Abs. 3 der Richtlinie 98/8/EG beschränkten Umfang beigefügt sind. Im
 (2) Die Zulassungsstelle entscheidet über den Antrag auf Registrierung
 innerhalb von 60 Tagen nach Eingang des Antrags bei der
 Zulassungsstelle. § 12d Abs. 4 Satz 2 findet entsprechende Anwendung.
-
 
 ### § 12g Anerkennung ausländischer Zulassungen und Registrierungen
 
@@ -1154,7 +1118,6 @@ und 28 der Richtlinie 98/8/EG die Anerkennung der Zulassung oder
 Registrierung eines Biozid-Produkts vorschreibt, lässt die
 Zulassungsstelle das Biozid-Produkt im Rahmen des im Rechtsakt
 vorgesehenen Umfangs zu.
-
 
 ### § 12h Prüfung von Biozid-Wirkstoffen
 
@@ -1219,7 +1182,6 @@ oder IB der Richtlinie 98/8/EG. Die Zulassungsstelle hat
 
 § 12d Abs. 3 und 4 Satz 2 sowie § 12j Abs. 2 finden entsprechende
 Anwendung.
-
 
 ### § 12i Forschung und Entwicklung
 
@@ -1306,7 +1268,6 @@ durchgeführt werden, gilt Satz 1 mit der Maßgabe, dass an die Stelle
 der Genehmigung nach Absatz 3 die entsprechende Entscheidung der
 zuständigen Behörde des Mitgliedstaates oder Vertragsstaates tritt, in
 dem der Versuch durchgeführt werden soll.
-
 
 ### § 12j Zulassungsstelle, Bewertung, Verordnungsermächtigung
 
@@ -1403,13 +1364,7 @@ werden,
     Verwendungszwecke, für die Abgabe an bestimmte Verwendergruppen oder
     unter bestimmten sonstigen Einschränkungen zugelassen werden dürfen.
 
-
-
-
-
 ## Dritter Abschnitt - Einstufung, Kennzeichnung und Verpackung
-
-
 
 ### § 13 Einstufungs-, Kennzeichnungs- und Verpackungspflichten
 
@@ -1455,7 +1410,6 @@ haben.
 
 (4) Weitergehende Anforderungen über die Kennzeichnung und Verpackung
 nach anderen Rechtsvorschriften bleiben unberührt.
-
 
 ### § 14 Ermächtigung zu Einstufungs-, Kennzeichnungs- und Verpackungsvorschriften
 
@@ -1521,10 +1475,7 @@ Wirkstoffe und Biozid-Produkte, die nicht gefährliche Stoffe oder
 Gemische im Sinne des § 3a sind, sowie für Stoffe, Gemische und
 Erzeugnisse nach § 19 Abs. 2 getroffen werden.
 
-
 ### § 15 (weggefallen)
-
-
 
 ### § 15a Gefahrenhinweis bei der Werbung
 
@@ -1539,30 +1490,23 @@ Mensch und Umwelt nicht verharmlosend wirken. Sie darf nicht die
 Angaben "Biozid-Produkt mit niedrigem Risikopotential", "ungiftig",
 "unschädlich" oder ähnliche Hinweise enthalten.
 
-
 ## Vierter Abschnitt - Mitteilungspflichten
-
-
 
 ### § 16 (weggefallen)
 
 (weggefallen)
 
-
 ### § 16a (weggefallen)
 
 (weggefallen)
-
 
 ### § 16b (weggefallen)
 
 (weggefallen)
 
-
 ### § 16c (weggefallen)
 
 (weggefallen)
-
 
 ### § 16d Mitteilungspflichten bei Gemischen
 
@@ -1613,7 +1557,6 @@ Zusammensetzung erstreckt werden. In der Rechtsverordnung sind
 Bestimmungen darüber zu treffen, dass und wie auf Verlangen des
 Mitteilungspflichtigen die Vertraulichkeit der mitgeteilten Angaben
 sicherzustellen ist.
-
 
 ### § 16e Mitteilungen für die Informations- und Behandlungszentren für Vergiftungen
 
@@ -1725,10 +1668,6 @@ Zustimmung des Bundesrates
     die Informationspflichten nach den Absätzen 2 und 3 sowie die
     vertrauliche Behandlung und die Zweckbindung nach Absatz 4 zu treffen.
 
-
-
-
-
 ### § 16f Mitteilungspflichten bei Biozid-Produkten und Biozid-Wirkstoffen
 
 (1) Der Antragsteller in einem Zulassungs- oder
@@ -1769,10 +1708,7 @@ auf Angaben zu begründen, die aufgrund sonstiger unmittelbar geltender
 Rechtsakte nach Artikel 16 Abs. 2 der Richtlinie 98/8/EG übermittelt
 werden.
 
-
 ## Fünfter Abschnitt - Ermächtigung zu Verboten und Beschränkungen sowie zu Maßnahmen zum Schutz von Beschäftigten
-
-
 
 ### § 17 Verbote und Beschränkungen
 
@@ -1868,7 +1804,6 @@ Gewerkschaften und Berufsgenossenschaften, der beteiligten Wirtschaft,
 des Gesundheitswesens sowie der Umwelt-, Tierschutz- und
 Naturschutzverbände.
 
-
 ### § 18 Giftige Tiere und Pflanzen
 
 (1) Die Bundesregierung wird ermächtigt, soweit es zum Schutz von
@@ -1918,7 +1853,6 @@ sowie abgestorbene Exemplare oder Teile giftiger Pflanzenarten.
 die in Absatz 2 Satz 1 genannten Tierkörper oder deren Teile sowie für
 bestimmte Arten giftiger Samen und abgestorbener Exemplare oder Teile
 giftiger Pflanzenarten.
-
 
 ### § 19 Maßnahmen zum Schutz von Beschäftigten
 
@@ -2140,13 +2074,7 @@ werden; hierbei ist
     Arbeitsmedizin archivmäßig gesichert niederzulegen und in der
     Rechtsverordnung darauf hinzuweisen.
 
-
-
-
-
 ## Sechster Abschnitt - Gute Laborpraxis
-
-
 
 ### § 19a Gute Laborpraxis (GLP)
 
@@ -2220,7 +2148,6 @@ oder Pflanzenschutzmitteln verwendet werden, treten an die Stelle des
 Datums "5. April 1989" das Datum "1. April 1990" und an die Stelle des
 Datums "1. Januar 1992" das Datum "1. Januar 1993".
 
-
 ### § 19b GLP-Bescheinigung
 
 (1) Die zuständige Behörde hat demjenigen, der Prüfungen nach § 19a
@@ -2271,10 +2198,6 @@ Anforderungen des Ausstellungsstaats erfüllt.
     Bundesinstitut für Risikobewertung vorliegenden Erkenntnissen
     Prüfungen nach den Grundsätzen der Guten Laborpraxis durchführt.
 
-
-
-
-
 ### § 19c Berichterstattung
 
 (1) Die Bundesregierung erstattet jährlich bis zum 31. März für das
@@ -2293,7 +2216,6 @@ Reaktorsicherheit kann ein Verzeichnis der Prüfeinrichtungen und
 Prüfstandorte, die Prüfungen oder Phasen von Prüfungen unter
 Einhaltung der Grundsätze der Guten Laborpraxis durchführen, im
 Bundesanzeiger veröffentlichen.
-
 
 ### § 19d Ergänzende Vorschriften
 
@@ -2353,10 +2275,7 @@ allgemeine Verwaltungsvorschriften über das Verfahren der behördlichen
 Übertragung der Veröffentlichungsbefugnis auf das Bundesinstitut für
 Risikobewertung geregelt werden.
 
-
 ## Siebter Abschnitt - Allgemeine Vorschriften
-
-
 
 ### § 20 Vorlage von Prüfnachweisen
 
@@ -2421,7 +2340,6 @@ oder einen schonenderen Einsatz von Versuchstieren erfordern, soweit
 dies nach dem Stand der wissenschaftlichen Erkenntnis im Hinblick auf
 den Versuchszweck vertretbar und mit Rechtsakten der Europäischen
 Gemeinschaften oder der Europäischen Union vereinbar ist.
-
 
 ### § 20a Verwendung von Prüfnachweisen eines Dritten, Voranfragepflicht
 
@@ -2497,7 +2415,6 @@ Vorschriften in Rechtsakten der Europäischen Gemeinschaften oder der
 Europäischen Union nach Artikel 16 Abs. 2 der Richtlinie 98/8/EG
 Prüfnachweise vorzulegen sind.
 
-
 ### § 20b Ausschüsse
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
@@ -2545,7 +2462,6 @@ Zustimmung des Bundesrates Ausschüsse zu bilden, denen die Aufgabe
 
 
 die das zuständige Bundesministerium amtlich bekannt machen kann.
-
 
 ### § 21 Überwachung
 
@@ -2668,7 +2584,6 @@ Katastrophenschutzes der Länder sowie den Trägern der gesetzlichen
 Unfallversicherung im Wege der Amtshilfe zur Verfügung zu stellen. §
 16e Abs. 4 bleibt unberührt.
 
-
 ### § 21a Mitwirkung von Zollstellen
 
 (1) Das Bundesministerium der Finanzen und die von ihm bestimmten
@@ -2689,7 +2604,6 @@ Beförderungs- und Verpackungsmittel auf Kosten und Gefahr des
 Verfügungsberechtigten zurückweisen oder bis zur Behebung der
 festgestellten Mängel oder bis zur Entscheidung der zuständigen
 Behörde sicherstellen.
-
 
 ### § 22 Informationspflichten, Schutz von Betriebs- und Geschäftsgeheimnissen
 
@@ -2823,7 +2737,6 @@ der Praxis der Verwendung von Biozid-Produkten sollen verwertet
 werden. Das Biozid-Produkte-Verzeichnis ist allgemein verständlich und
 benutzerfreundlich zu gestalten.
 
-
 ### § 23 Behördliche Anordnungen
 
 (1) Die zuständige Landesbehörde kann im Einzelfall die Anordnungen
@@ -2860,7 +2773,6 @@ unionsrechtlich zulässig ist.
 (3) Rechtsbehelfe gegen Anordnungen nach den Absätzen 1a und 2 haben
 keine aufschiebende Wirkung.
 
-
 ### § 24 Vollzug im Bereich der Bundeswehr
 
 (1) Im Geschäftsbereich des Bundesministeriums der Verteidigung
@@ -2875,7 +2787,6 @@ und Erzeugnisse Ausnahmen von den in Absatz 1 genannten
 Rechtsvorschriften zulassen, wenn dies im Interesse der
 Landesverteidigung erforderlich und unionsrechtlich zulässig ist.
 
-
 ### § 25 Angleichung an Gemeinschaftsrecht oder Unionsrecht
 
 Rechtsverordnungen nach diesem Gesetz können auch zum Zwecke der
@@ -2884,7 +2795,6 @@ Mitgliedstaaten der Europäischen Union erlassen werden, soweit dies
 zur Durchführung von Rechtsakten der Europäischen Gemeinschaften oder
 Europäischen Union, die Sachbereiche dieses Gesetzes betreffen,
 erforderlich ist.
-
 
 ### § 25a Kosten
 
@@ -2903,7 +2813,6 @@ Landesrecht.
 (3) Die dem Auskunftspflichtigen durch die Entnahme von Proben von
 Stoffen, Gemischen und Erzeugnissen oder durch Messungen entstehenden
 eigenen Aufwendungen hat er selbst zu tragen.
-
 
 ### § 26 Bußgeldvorschriften
 
@@ -3091,10 +3000,6 @@ Euro geahndet werden.
 
 3.  im Übrigen die nach Landesrecht zuständige Behörde.
 
-
-
-
-
 ### § 27 Strafvorschriften
 
 (1) Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird
@@ -3158,7 +3063,6 @@ dieses Ziel zu erreichen.
 330 oder 330a des Strafgesetzbuches mit gleicher oder schwererer
 Strafe bedroht ist.
 
-
 ### § 27a Unwahre GLP-Erklärungen, Erschleichen der GLP-Bescheinigung
 
 (1) Wer zur Täuschung im Rechtsverkehr die Erklärung nach § 19a Abs. 2
@@ -3177,7 +3081,6 @@ Bestätigung zur Täuschung im Rechtsverkehr gebraucht, wird mit
 Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
 
 (4) Der Versuch ist strafbar.
-
 
 ### § 27b Zuwiderhandlungen gegen die Verordnung (EG) Nr. 1907/2006
 
@@ -3227,7 +3130,6 @@ so ist die Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
 bezeichnete Handlung fahrlässig begeht. Die Ordnungswidrigkeit kann
 mit einer Geldbuße bis zu hunderttausend Euro geahndet werden.
 
-
 ### § 27c Zuwiderhandlungen gegen Abgabevorschriften
 
 (1) Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird
@@ -3243,7 +3145,6 @@ für eine rechtswidrige Tat, die den Tatbestand eines Strafgesetzes
 verwirklicht, verwendet werden soll, so ist die Strafe Freiheitsstrafe
 bis zu einem Jahr oder Geldstrafe.
 
-
 ### § 27d Einziehung
 
 Gegenstände, auf die sich eine Straftat nach den §§ 27, 27b Abs. 1 bis
@@ -3253,10 +3154,7 @@ Abs. 5 Satz 1 bezieht, können eingezogen werden. § 74a des
 Strafgesetzbuches und § 23 des Gesetzes über Ordnungswidrigkeiten sind
 anzuwenden.
 
-
 ## Achter Abschnitt - Schlussvorschriften
-
-
 
 ### § 28 Übergangsregelung
 
@@ -3400,21 +3298,17 @@ Frist unter Berücksichtigung der Ergebnisse der Überprüfung nach
 Artikel 45 Absatz 4 der Verordnung (EG) Nr. 1272/2008 zu verlängern
 oder zu verkürzen.
 
-
 ### § 29
 
 (Außerkrafttreten)
-
 
 ### § 30 Berlin-Klausel
 
 (gegenstandslos)
 
-
 ### § 31
 
 (Inkrafttreten)
-
 
 ### Anhang 1 (zu § 19a Abs. 1) Grundsätze der Guten Laborpraxis (GLP)
 
@@ -4848,13 +4742,6 @@ Grundsätze der Guten Laborpraxis (GLP)
         einstellt und keinen Rechtsnachfolger hat, ist das Archiv an die
         Archive der Auftraggeber der Prüfungen zu überführen.
 
-
-
-
-
-
-
-
 ### Anhang 2 (zu § 19b Abs. 1) Landessiegel/Coloured Logo Gute Laborpraxis/Good Laboratory Practice GLP-Bescheinigung/Statement of GLP Compliance (gemäß/according to § 19b Abs. 1 Chemikaliengesetz)
 
 (Fundstelle: BGBl. I 2008, 1184)
@@ -4901,7 +4788,6 @@ Name and function of responsible person)
 ................................................
 (Name und Adresse der GLP-Überwachungsbehörde/
 Name and address of the GLP Monitoring Authority)
-
 
 ### Anhang EV Auszug aus EinigVtr Anlage I Kapitel XII Sachgebiet E Abschnitt III (BGBl. II 1990, 889, 1118)
 

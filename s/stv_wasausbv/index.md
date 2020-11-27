@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2000, 1148
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
@@ -29,7 +27,6 @@ und dem Organisationserlass vom 27. Oktober 1998 (BGBl. I S. 3288),
 verordnen im Einvernehmen mit dem Bundesministerium für Bildung und
 Forschung jeweils das Bundesministerium für Wirtschaft und Technologie
 und das Bundesministerium für Ernährung, Landwirtschaft und Forsten:
-
 
 ## (XXXX)
 
@@ -163,13 +160,7 @@ und das Bundesministerium für Ernährung, Landwirtschaft und Forsten:
     *   Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für
         Wasserwirtschaft
 
-
-
-
-
 ## Erster Teil - Gemeinsame Vorschriften
-
-
 
 ### § 1 Staatliche Anerkennung der Ausbildungsberufe
 
@@ -187,11 +178,9 @@ werden staatlich anerkannt. Soweit die Ausbildung im Bereich des
 öffentlichen Dienstes. Im Übrigen sind sie Ausbildungsberufe der
 gewerblichen Wirtschaft.
 
-
 ### § 2 Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
-
 
 ### § 3 Struktur und Zielsetzung der Berufsausbildung
 
@@ -202,10 +191,7 @@ Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges
 Planen, Durchführen und Kontrollieren einschließt. Diese Befähigungen
 sind auch in den Prüfungen nach den §§ 8, 9, 14 und 15 nachzuweisen.
 
-
 ## Zweiter Teil - Vorschriften für den Ausbildungsberuf Fachkraft für Straßen- und Verkehrstechnik
-
-
 
 ### § 4 Ausbildungsberufsbild
 
@@ -265,10 +251,6 @@ Fertigkeiten und Kenntnisse:
 
 17. Qualitätssichernde Maßnahmen.
 
-
-
-
-
 ### § 5 Ausbildungsrahmenplan
 
 Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der Anlage
@@ -278,12 +260,10 @@ Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung
 des Ausbildungsinhaltes ist insbesondere zulässig, soweit
 betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
 ### § 6 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ### § 7 Berichtsheft
 
@@ -291,7 +271,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 ### § 8 Zwischenprüfung
 
@@ -333,7 +312,6 @@ Gespräch soll der Prüfling zeigen, dass er Arbeitsschritte planen und
 hierbei Maßnahmen zur Arbeitsorganisation, zum Umweltschutz, zur
 Sicherheit und zum Gesundheitsschutz bei der Arbeit sowie zur
 Wirtschaftlichkeit berücksichtigen kann.
-
 
 ### § 9 Abschlussprüfung
 
@@ -487,10 +465,7 @@ Prüfungsbereiche mindestens ausreichende Leistungen erbracht worden
 sind. Werden die Prüfungsleistungen in einem der Prüfungsbereiche mit
 ungenügend bewertet, so ist die Prüfung nicht bestanden.
 
-
 ## Dritter Teil - Vorschriften für den Ausbildungsberuf Fachkraft für Wasserwirtschaft
-
-
 
 ### § 10 Ausbildungsberufsbild
 
@@ -553,10 +528,6 @@ Fertigkeiten und Kenntnisse:
 
 18. Qualitätssichernde Maßnahmen.
 
-
-
-
-
 ### § 11 Ausbildungsrahmenplan
 
 Die Fertigkeiten und Kenntnisse nach § 10 sollen nach der in der
@@ -567,12 +538,10 @@ zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
 zulässig, soweit betriebspraktische Besonderheiten die Abweichung
 erfordern.
 
-
 ### § 12 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ### § 13 Berichtsheft
 
@@ -580,7 +549,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 ### § 14 Zwischenprüfung
 
@@ -623,7 +591,6 @@ Gespräch soll der Prüfling zeigen, dass er Arbeitsschritte planen und
 hierbei Maßnahmen zur Arbeitsorganisation, zum Umweltschutz, zur
 Sicherheit und zum Gesundheitsschutz bei der Arbeit sowie zur
 Wirtschaftlichkeit berücksichtigen kann.
-
 
 ### § 15 Abschlussprüfung
 
@@ -772,10 +739,7 @@ Prüfungsbereiche mindestens ausreichende Leistungen erbracht worden
 sind. Werden die Prüfungsleistungen in einem der Prüfungsbereiche mit
 ungenügend bewertet, so ist die Prüfung nicht bestanden.
 
-
 ## Vierter Teil - Übergangs- und Schlussvorschriften
-
-
 
 ### § 16 Übergangsregelung
 
@@ -783,7 +747,6 @@ Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
 Verordnung bestehen, sind die bisherigen Vorschriften weiter
 anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
 Anwendung der Vorschriften dieser Verordnung.
-
 
 ### § 17 Inkrafttreten, Außerkrafttreten
 
@@ -811,10 +774,6 @@ außer Kraft:
     Ausbildungsberuf Bautechniker/Bautechnikerin in der
     Wasserwirtschaftsverwaltung vom 1. Oktober 1957 (Baden-
     Württembergisches Verordnungsblatt - 4413/22).
-
-
-
-
 
 ### Anlage 1 (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Straßen- und Verkehrstechnik
 
@@ -1696,13 +1655,6 @@ außer Kraft:
 
 *    *
         \*) Im Zusammenhang mit anderen Ausbildungsinhalten zu vermitteln.
-
-
-
-
-
-
-
 
 ### Anlage 2 (zu § 11) Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Wasserwirtschaft
 

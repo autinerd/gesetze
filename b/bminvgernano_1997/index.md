@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Abschn. I AnO v. 20.9.2002 I 3962
 
-
 ## I.
 
 Auf Grund des Artikels 1 Abs. 1 Satz 2 der Anordnung des
@@ -61,17 +60,14 @@ der Professoren und der Hochschuldozenten
 
 jeweils für ihren Geschäftsbereich.
 
-
 ## II.
 
 Für besondere Fälle behalte ich mir die Ernennung und Entlassung der
 in Abschnitt I genannten Beamten vor.
 
-
 ## III.
 
 Diese Anordnung tritt am 1. April 1997 in Kraft.
-
 
 ## Schlußformel
 

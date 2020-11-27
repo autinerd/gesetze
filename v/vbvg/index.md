@@ -18,11 +18,7 @@ Fundstelle
 Geändert durch
 :   Art. 53 G v. 17.12.2008 I 2586
 
-
-
 ## Abschnitt 1 - Allgemeines
-
-
 
 ### § 1 Feststellung der Berufsmäßigkeit und Vergütungsbewilligung
 
@@ -49,7 +45,6 @@ bewilligen. Ist der Mündel mittellos im Sinne des § 1836d des
 Bürgerlichen Gesetzbuchs, so kann der Vormund die nach Satz 1 zu
 bewilligende Vergütung aus der Staatskasse verlangen.
 
-
 ### § 2 Erlöschen der Ansprüche
 
 Der Vergütungsanspruch erlischt, wenn er nicht binnen 15 Monaten nach
@@ -58,10 +53,7 @@ Geltendmachung des Anspruchs beim Familiengericht gilt dabei auch als
 Geltendmachung gegenüber dem Mündel. § 1835 Abs. 1a des Bürgerlichen
 Gesetzbuchs gilt entsprechend.
 
-
 ## Abschnitt 2 - Vergütung des Vormunds
-
-
 
 ### § 3 Stundensatz des Vormunds
 
@@ -100,10 +92,7 @@ Vergütung bewilligen. Dies gilt nicht, wenn der Mündel mittellos ist.
 
 (4) Der Vormund kann Abschlagszahlungen verlangen.
 
-
 ## Abschnitt 3 - Sondervorschriften für Betreuer
-
-
 
 ### § 4 Stundensatz und Aufwendungsersatz des Betreuers
 
@@ -130,7 +119,6 @@ Sinne des § 1835 Abs. 3 des Bürgerlichen Gesetzbuchs bleibt unberührt.
 
 (3) § 3 Abs. 2 gilt entsprechend. § 1 Abs. 1 Satz 2 Nr. 2 findet keine
 Anwendung.
-
 
 ### § 5 Stundenansatz des Betreuers
 
@@ -223,7 +211,6 @@ dem beruflichen Betreuer ein ehrenamtlicher Betreuer bestellt war und
 dieser die Betreuung allein fortführt. Absatz 4 Satz 2 und 3 ist nicht
 anwendbar.
 
-
 ### § 6 Sonderfälle der Betreuung
 
 In den Fällen des § 1899 Abs. 2 und 4 des Bürgerlichen Gesetzbuchs
@@ -236,7 +223,6 @@ tatsächlicher Art, sind die Vergütung und der Aufwendungsersatz nach §
 4 in Verbindung mit § 5 zu bewilligen und nach Tagen zu teilen; § 5
 Abs. 4 Satz 3 sowie § 187 Abs. 1 und § 188 Abs. 1 des Bürgerlichen
 Gesetzbuchs gelten entsprechend.
-
 
 ### § 7 Vergütung und Aufwendungsersatz für Betreuungsvereine
 
@@ -253,7 +239,6 @@ Bürgerlichen Gesetzbuchs gilt entsprechend.
 (3) Der Vereinsbetreuer selbst kann keine Vergütung und keinen
 Aufwendungsersatz nach diesem Gesetz oder nach den §§ 1835 bis 1836
 des Bürgerlichen Gesetzbuchs geltend machen.
-
 
 ### § 8 Vergütung und Aufwendungsersatz für Behördenbetreuer
 
@@ -274,14 +259,12 @@ Bürgerlichen Gesetzbuchs zulässig ist.
 
 (4) § 2 ist nicht anwendbar.
 
-
 ### § 9 Abrechnungszeitraum für die Betreuungsvergütung
 
 Die Vergütung kann nach Ablauf von jeweils drei Monaten für diesen
 Zeitraum geltend gemacht werden. Dies gilt nicht für die
 Geltendmachung von Vergütung und Aufwendungsersatz in den Fällen des §
 6\.
-
 
 ### § 10 Mitteilung an die Betreuungsbehörde
 
@@ -309,10 +292,7 @@ statt versichert.
 Betreuungsgerichts verpflichtet, dem Betreuungsgericht diese
 Mitteilung zu übermitteln.
 
-
 ## Abschnitt 4 - Schlussvorschriften
-
-
 
 ### § 11 Umschulung und Fortbildung von Berufsvormündern
 

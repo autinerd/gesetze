@@ -22,7 +22,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 8 G v. 8.4.2010 I 386
 
-
 ## § 1
 
 (1) Hat eine im Geltungsbereich dieser Verordnung errichtete
@@ -47,7 +46,6 @@ wird ihr auf Antrag aus dem Aufkommen der Umsatzsteuer
 Vereinbarung mit dem Entsendestaat nach Maßgabe der Gegenseitigkeit zu
 gewähren.
 
-
 ## § 2
 
 (1) § 1 gilt zugunsten eines Mitglieds der Mission oder der
@@ -60,7 +58,6 @@ Gebrauch bestimmt sind.
 1\.200 Euro nicht übersteigen. Der Erwerb eines Kraftfahrzeuges ist
 hierbei nicht zu berücksichtigen.
 
-
 ## § 3
 
 (1) Die §§ 1 und 2 gelten nicht für den Erwerb von Lebensmitteln und
@@ -71,7 +68,6 @@ Verzehr an Ort und Stelle.
 nicht oder nur zeitweise zu Zwecken im Sinne der §§ 1 und 2 genutzt,
 ist die Erstattung zu versagen oder der Erstattungsbetrag angemessen
 zu kürzen.
-
 
 ## § 4
 
@@ -100,13 +96,11 @@ Erstattungsbetrag ist innerhalb eines Monats nach Bekanntwerden der
 Minderung zurückzuzahlen. Er kann mit den Erstattungsansprüchen auf
 Grund eines in diesem Zeitraum abgegebenen Antrags verrechnet werden.
 
-
 ## § 5
 
 Diese Verordnung ist auf Steuerbeträge anzuwenden, denen Lieferungen
 und sonstige Leistungen zugrunde liegen, die nach dem 31. Dezember
 1988 bewirkt worden sind.
-
 
 ## § 6
 
@@ -115,7 +109,6 @@ Verbindung mit Artikel 3 des Gesetzes zu dem Wiener Übereinkommen vom
 18\. April 1961 über diplomatische Beziehungen und in Verbindung mit
 Artikel 3 des Gesetzes zu dem Wiener Übereinkommen vom 24. April 1963
 über konsularische Beziehungen auch im Land Berlin.
-
 
 ## § 7
 

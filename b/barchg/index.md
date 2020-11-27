@@ -18,12 +18,10 @@ Fundstelle
 Zuletzt geändert durch
 :   § 13 Abs. 2 G v. 5.9.2005 I 2722
 
-
 ## § 1
 
 Das Archivgut des Bundes ist durch das Bundesarchiv auf Dauer zu
 sichern, nutzbar zu machen und wissenschaftlich zu verwerten.
-
 
 ## § 2
 
@@ -109,7 +107,6 @@ juristische Personen der Deutschen Demokratischen Republik. (10) Das
 Bundesarchiv berät die in Absatz 1 bezeichneten Stellen des Bundes bei
 der Verwaltung ihrer Unterlagen.
 
-
 ## § 2a
 
 (1) Unter dem Namen "Stiftung Archiv der Parteien und
@@ -134,7 +131,6 @@ auf die Bestände der Stiftung keine Anwendung. Im übrigen ist die
 Benutzung der Unterlagen der Stiftung unter Beachtung von § 5 Abs. 1
 letzter Satz sowie der Absätze 2, 5 und 6 in dem Erlaß zu regeln.
 
-
 ## § 3
 
 Das Bundesarchiv entscheidet im Benehmen mit der anbietenden Stelle,
@@ -142,7 +138,6 @@ ob den Unterlagen bleibender Wert für die Erforschung oder das
 Verständnis der deutschen Geschichte, die Sicherung berechtigter
 Belange der Bürger oder die Bereitstellung von Informationen für
 Gesetzgebung, Verwaltung oder Rechtsprechung zukommt.
-
 
 ## § 4
 
@@ -162,7 +157,6 @@ Gegendarstellung einzuräumen. Das zuständige Archiv ist verpflichtet,
 die Gegendarstellung den Unterlagen hinzuzufügen. Die Gegendarstellung
 kann auch von Erben des Betroffenen verlangt werden, wenn sie ein
 berechtigtes Interesse daran geltend machen.
-
 
 ## § 5
 
@@ -249,7 +243,6 @@ Bundesarchiv übernommen werden.
 (9) Die Verknüpfung personenbezogener Daten ist nur zulässig, wenn
 schutzwürdige Belange Betroffener nicht beeinträchtigt werden.
 
-
 ## § 6
 
 Das für Angelegenheiten der Kultur und der Medien zuständige Mitglied
@@ -268,14 +261,12 @@ Die Gebühren sind unter Berücksichtigung des Benutzungszwecks nach dem
 Personal- und Sachaufwand, den die Benutzung dem Bundesarchiv
 verursacht, zu bestimmen.
 
-
 ## § 7
 
 Die Bundesregierung kann dem Bundesarchiv andere als in diesem Gesetz
 oder in anderen Gesetzen genannte Aufgaben des Bundes übertragen, die
 in sachlichem Zusammenhang mit dem Archivwesen des Bundes oder der
 Erforschung der deutschen Geschichte stehen.
-
 
 ## § 8
 
@@ -288,7 +279,6 @@ als in § 2 Abs. 1 genannten öffentlichen Stellen den zuständigen
 Bestimmungen dieses Gesetzes sinngemäß anzuwenden, die für Unterlagen
 im Sinne des § 2 Abs. 4 Nr. 1 gelten.
 
-
 ## § 9
 
 Amtsträger und für den öffentlichen Dienst besonders Verpflichtete in
@@ -298,11 +288,9 @@ abgebenden Stellen geltenden Geheimhaltungsvorschriften, insbesondere
 § 32 des Gesetzes über die Deutsche Bundesbank und § 9 des Gesetzes
 über das Kreditwesen.
 
-
 ## § 10
 
 -
-
 
 ## § 11
 
@@ -313,14 +301,12 @@ Archiven zur Übernahme und Nutzung angeboten und übergeben werden,
 wenn die schutzwürdigen Belange Betroffener entsprechend den §§ 2 und
 5 dieses Gesetzes berücksichtigt werden.
 
-
 ## § 12
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin. Rechtsverordnungen, die auf
 Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14
 des Dritten Überleitungsgesetzes.
-
 
 ## § 13
 

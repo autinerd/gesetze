@@ -22,7 +22,6 @@ Fundstelle
     Berufsschule werden demnächst als Beilage im Bundesanzeiger
     veröffentlicht.
 
-
 ## Eingangsformel
 
 Auf Grund des § 25 Absatz 1 Satz 1 in Verbindung mit § 26 Absatz 1 und
@@ -34,18 +33,15 @@ worden ist, verordnet das Bundesministerium für Wirtschaft und
 Technologie im Einvernehmen mit dem Bundesministerium für Bildung und
 Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf des Segelmachers und der Segelmacherin wird nach
 § 25 der Handwerksordnung zur Ausbildung für das Gewerbe Nummer 23,
 Segelmacher, der Anlage B 1 der Handwerksordnung staatlich anerkannt.
 
-
 ## § 2 Dauer der Berufsausbildung
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Ausbildungsrahmenplan, Ausbildungsberufsbild
 
@@ -125,10 +121,6 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 8.  Durchführen von qualitätssichernden Maßnahmen.
 
-
-
-
-
 ## § 4 Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
@@ -149,7 +141,6 @@ Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
 Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
 durchzusehen.
 
-
 ## § 5 Gesellenprüfung
 
 (1) Die Gesellenprüfung besteht aus den beiden zeitlich auseinander
@@ -167,7 +158,6 @@ Feststellung der Berufsbefähigung erforderlich ist.
 (2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der
 Gesellenprüfung mit 30 Prozent und Teil 2 der Gesellenprüfung mit 70
 Prozent gewichtet.
-
 
 ## § 6 Teil 1 der Gesellenprüfung
 
@@ -238,10 +228,6 @@ Vorgaben:
     Zeit soll das situative Fachgespräch in höchstens zehn Minuten sowie
     die Bearbeitung der schriftlichen Aufgabenstellungen in 90 Minuten
     durchgeführt werden.
-
-
-
-
 
 ## § 7 Teil 2 der Gesellenprüfung
 
@@ -403,10 +389,6 @@ folgende Vorgaben:
 
 3.  die Prüfungszeit beträgt 60 Minuten.
 
-
-
-
-
 ## § 8 Gewichtungs- und Bestehensregelung
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
@@ -461,7 +443,6 @@ folgende Vorgaben:
 
 bewertet worden sind.
 
-
 ## § 9 Mündliche Ergänzungsprüfung
 
 Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der
@@ -474,7 +455,6 @@ Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und
 das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu
 gewichten.
 
-
 ## § 10 Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
@@ -483,16 +463,13 @@ Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt
 werden, wenn die Vertragsparteien dies vereinbaren und die
 Zwischenprüfung noch nicht abgelegt wurde.
 
-
 ## § 11 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2010 in Kraft.
 
-
 ## Anlage (zu § 3 Absatz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Segelmacher und zur Segelmacherin
 
 (Fundstelle: BGBl. I 2010, 567 - 572)
-
 
 ## Abschnitt A: Berufsprofilgebende Fertigkeiten, Kenntnisse und
 Fähigkeiten
@@ -985,9 +962,6 @@ Fähigkeiten
 
     *
     *   3
-
-
-
 
 ## Abschnitt B: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten
 

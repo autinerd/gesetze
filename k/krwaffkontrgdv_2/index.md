@@ -18,14 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 31 G v. 21.12.2000 I 1956
 
-
 ## Eingangsformel
 
 Auf Grund des § 11 Abs. 4, § 12 Abs. 7 und § 14 Abs. 7 des Gesetzes
 über die Kontrolle von Kriegswaffen vom 20. April 1961
 (Bundesgesetzbl. I S. 444) verordnet die Bundesregierung mit
 Zustimmung des Bundesrates:
-
 
 ## § 1 Antrag auf Erteilung einer Herstellungsgenehmigung
 
@@ -73,10 +71,6 @@ nachzuweisen,
 3.  welche Sicherheits- und Geheimschutzmaßnahmen im Sinne des § 12 Abs. 1
     des Gesetzes getroffen oder beabsichtigt sind.
 
-
-
-
-
 ## § 2 Antrag auf Erteilung einer Überlassungsgenehmigung
 
 (1) Der Antrag auf Erteilung einer Genehmigung zur Überlassung der
@@ -108,7 +102,6 @@ Angaben enthalten:
 
 
 (2) § 1 Abs. 2 gilt entsprechend.
-
 
 ## § 3 Antrag auf Erteilung einer Erwerbsgenehmigung
 
@@ -147,7 +140,6 @@ Angaben enthalten:
 
 
 (2) § 1 Abs. 2 gilt entsprechend.
-
 
 ## § 4 Antrag auf Erteilung einer Genehmigung zur Beförderung innerhalb des Bundesgebietes
 
@@ -197,7 +189,6 @@ Angaben sind glaubhaft zu machen.
 
 (3) § 1 Abs. 2 gilt entsprechend.
 
-
 ## § 5 Antrag auf Erteilung einer Genehmigung zur Beförderung außerhalb des Bundesgebietes
 
 (1) Der Antrag auf Erteilung einer Genehmigung zur Beförderung von
@@ -234,7 +225,6 @@ enthalten:
 
 
 (2) § 1 Abs. 2 gilt entsprechend.
-
 
 ## § 5a Antrag auf Erteilung einer Genehmigung für Auslandsgeschäfte
 
@@ -285,7 +275,6 @@ auf Verlangen vorzulegen.
 
 (4) § 1 Abs. 2 gilt entsprechend.
 
-
 ## § 6 Antragsform
 
 (1) Der Antrag auf Erteilung einer Genehmigung ist schriftlich zu
@@ -300,7 +289,6 @@ gilt das schriftliche Angebot des Auftragnehmers als Antrag auf
 Erteilung der erforderlichen Genehmigung. Liegt kein schriftliches
 Angebot vor, so findet Satz 1 entsprechende Anwendung, wenn der
 Auftragnehmer den Auftrag schriftlich annimmt.
-
 
 ## § 7 Gleichzeitige Antragstellung
 
@@ -329,7 +317,6 @@ Gewalt über Kriegswaffen sollen der Antrag desjenigen, der die
 tatsächliche Gewalt überlassen will, und der Antrag desjenigen, der
 die tatsächliche Gewalt erwerben will, gleichzeitig gestellt werden.
 
-
 ## § 8 Dauergenehmigung
 
 (1) Die Genehmigung kann einem Antragsteller ohne Beschränkung auf die
@@ -344,7 +331,6 @@ eine bestimmte Menge, die Dauergenehmigung zur Beförderung von
 Kriegswaffen kann ohne Beschränkung auf eine bestimmte Art und Menge
 erteilt werden. Andere Dauergenehmigungen können nur für eine
 bestimmte Art und Menge erteilt werden.
-
 
 ## § 9 Führung und Inhalt des Kriegswaffenbuches
 
@@ -498,7 +484,6 @@ Seeschiffen oder Luftfahrzeugen befördert oder im Geltungsbereich des
 Gesetzes keinen Wohnsitz und keine gewerbliche Niederlassung hat, ist
 nicht verpflichtet, ein Kriegswaffenbuch zu führen.
 
-
 ## § 10 Meldung der Kriegswaffenbestände
 
 (1) Der am 1. Juni 1961 vorhandene Kriegswaffenbestand
@@ -526,7 +511,6 @@ Bestandsveränderung eingetreten ist.
 
 (3) § 9 Abs. 9 gilt entsprechend.
 
-
 ## § 11 Aufbewahrungsfristen
 
 (1) Der zur Führung eines Kriegswaffenbuches Verpflichtete hat das
@@ -539,7 +523,6 @@ aufzubewahren, wie er die tatsächliche Gewalt über die in der Urkunde
 genannten Kriegswaffen innehat, mindestens jedoch zehn Jahre vom Tag
 der Ausstellung an gerechnet.
 
-
 ## § 12 Nicht ausgenutzte Genehmigungen
 
 (1) Wird die genehmigte Handlung nicht oder nur teilweise ausgeführt,
@@ -551,7 +534,6 @@ festgesetzten Frist mitzuteilen.
 (2) Absatz 1 gilt nicht in den Fällen der Beförderung von Kriegswaffen
 außerhalb des Bundesgebietes mit deutschen Seeschiffen oder
 Luftfahrzeugen.
-
 
 ## § 13 Kennzeichnungspflicht
 
@@ -566,7 +548,6 @@ ausgenommen Waffen der Nummern 9, 14, 15, 31, 40 bis 43 und 46 bis 50
 der Kriegswaffenliste, sollen außerdem eine fortlaufende
 Herstellungsnummer tragen.
 
-
 ## § 14 Gestellungs-, Anmelde- und Vorführungspflicht
 
 (1) Kriegswaffen sind, soweit sie nicht schon nach den
@@ -577,7 +558,6 @@ zu gestellen.
 (2) Beim sonstigen Verbringen von Kriegswaffen in das Bundesgebiet
 oder aus dem Bundesgebiet sind die Kriegswaffen den für die
 Überwachung dieses Verkehrs zuständigen Zolldienststellen vorzuführen.
-
 
 ## § 15 Inkrafttreten
 

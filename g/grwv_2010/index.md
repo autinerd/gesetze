@@ -37,17 +37,12 @@ Fundstelle
     Gewässerzustands gemäß der Richtlinie 2000/60/EG des Europäischen
     Parlaments und des Rates (ABl. L 201 vom 1.8.2009, S. 36).
 
-
-
-
-
 ## Eingangsformel
 
 Auf Grund des § 23 Absatz 1 Nummer 1 bis 3 und 8 bis 12 des
 Wasserhaushaltsgesetzes, Absatz 1 geändert durch Artikel 12 Nummer 0a
 des Gesetzes vom 11. August 2010 (BGBl. I S. 1163), verordnet die
 Bundesregierung nach Anhörung der beteiligten Kreise:
-
 
 ## § 1 Begriffsbestimmungen
 
@@ -80,10 +75,6 @@ Für diese Verordnung gelten die folgenden Begriffsbestimmungen:
     eine Gewässerbenutzung gemäß § 9 Absatz 1 Nummer 4 und Absatz 2 Nummer
     2 des Wasserhaushaltsgesetzes.
 
-
-
-
-
 ## § 2 Bestimmung und Beschreibung der Grundwasserkörper
 
 (1) Zum 22. Dezember 2013 und danach alle sechs Jahre überprüft und
@@ -115,7 +106,6 @@ ihre Auswirkungen auf die Beschaffenheit des Grundwassers nach Maßgabe
 der Anlage 1 Nummer 3 zu ermitteln und aufzubewahren, soweit dies für
 die Beurteilung des Grundwasserkörpers von Bedeutung ist.
 
-
 ## § 3 Gefährdete Grundwasserkörper
 
 (1) Grundwasserkörper, bei denen das Risiko besteht, dass sie die
@@ -137,7 +127,6 @@ nach § 82 des Wasserhaushaltsgesetzes aufzunehmen sind.
 (3) Zum 22. Dezember 2013 und danach alle sechs Jahre überprüft und
 aktualisiert die zuständige Behörde die weitergehende Beschreibung
 nach Absatz 2.
-
 
 ## § 4 Einstufung des mengenmäßigen Grundwasserzustands
 
@@ -170,13 +159,6 @@ als gut oder schlecht ein.
     d)  das Grundwasser durch Zustrom von Salzwasser oder anderen Schadstoffen
         infolge räumlich und zeitlich begrenzter Änderungen der
         Grundwasserfließrichtung nachteilig verändert wird.
-
-
-
-
-
-
-
 
 ## § 5 Kriterien für die Beurteilung des chemischen Grundwasserzustands
 
@@ -230,10 +212,6 @@ Informationen auf:
 
 5.  Wechselwirkungen zwischen den gefährdeten Grundwasserkörpern, den
     verbundenen Oberflächengewässern und den abhängigen Landökosystemen.
-
-
-
-
 
 ## § 6 Ermittlung des chemischen Grundwasserzustands
 
@@ -291,10 +269,6 @@ legen:
 
 4.  die Ergebnisse der nach Absatz 2 zu ermittelnden räumlichen
     Ausbreitung der Überschreitungen von Schwellenwerten.
-
-
-
-
 
 ## § 7 Einstufung des chemischen Grundwasserzustands
 
@@ -391,7 +365,6 @@ Flussgebietseinheiten. Die Zusammenfassung enthält auch eine
 Darstellung, wie Überschreitungen von Schwellenwerten bei der
 Einstufung berücksichtigt worden sind.
 
-
 ## § 8 Bestimmung von Grundwasserkörpern mit weniger strengen Zielen
 
 (1) Zum 22. Dezember 2013 und danach alle sechs Jahre überprüft und
@@ -423,7 +396,6 @@ menschlicher Tätigkeit so verschmutzt sind, dass ein guter chemischer
 Grundwasserzustand nicht oder nur mit unverhältnismäßig hohem Aufwand
 zu erreichen wäre.
 
-
 ## § 9 Überwachung des mengenmäßigen und chemischen Grundwasserzustands
 
 (1) In jedem Grundwasserkörper sind Messstellen für eine
@@ -445,7 +417,6 @@ chemischen Grundwasserzustands nach Anlage 4 Nummer 3 durchzuführen.
 
 (3) Die Untersuchungen sind nach den Kontroll- und Analysemethoden
 nach Anlage 5 durchzuführen.
-
 
 ## § 10 Steigender Trend von Schadstoffkonzentrationen, Trendumkehr
 
@@ -494,7 +465,6 @@ Anlage 5 durchzuführen.
 die Art der Trendermittlung und über die Gründe für die Festlegung der
 Trendumkehrpunkte zu berichten.
 
-
 ## § 11 Zusätzliche Trendermittlung
 
 (1) Bei Grundwasserkörpern, die auf Grund schädlicher
@@ -519,7 +489,6 @@ Anlage 5 durchzuführen.
 im Bewirtschaftungsplan nach § 83 des Wasserhaushaltsgesetzes für die
 Einzugsgebiete zusammen.
 
-
 ## § 12 Darstellung des Grundwasserzustands und der Trends
 
 (1) Die Einstufung des mengenmäßigen Grundwasserzustands nach § 4 und
@@ -537,7 +506,6 @@ Schadstoffkonzentrationen aufweisen, sind mit einem schwarzen Punkt zu
 kennzeichnen; eine Trendumkehr ist durch einen blauen Punkt zu
 kennzeichnen. Trend und Trendumkehr sind auf der Karte für den
 chemischen Grundwasserzustand darzustellen.
-
 
 ## § 13 Maßnahmen zur Verhinderung oder Begrenzung von Schadstoffeinträgen in das Grundwasser
 
@@ -566,7 +534,6 @@ begrenzen.
 Wasserhaushaltsgesetzes abweichende Bewirtschaftungsziele für den
 Grundwasserkörper festgelegt sind, sind diese bei Anwendung der
 Absätze 1 und 2 zu berücksichtigen.
-
 
 ## § 14 Wirtschaftliche Analyse der Wassernutzungen
 
@@ -605,18 +572,15 @@ einschlägigen Investitionen einschließlich der entsprechenden
 Vorausplanungen sowie Schätzungen der potentiellen Kosten der
 Maßnahmen für das Maßnahmenprogramm zugrunde gelegt werden.
 
-
 ## § 15 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Grundwasserverordnung vom 18. März 1997 (BGBl.
 I S. 542) außer Kraft.
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage 1 (zu § 2 Absatz 1 und 3, § 3 Absatz 2) Beschreibung der Grundwasserkörper
 
@@ -768,13 +732,6 @@ Der Bundesrat hat zugestimmt.
         Grundwasserneubildung, wie zum Beispiel Ableitung von Regenwasser und
         Abflüsse von versiegelten Flächen, künstliche Anreicherung, Einstau
         und Entwässerung.
-
-
-
-
-
-
-
 
 ## Anlage 2 (zu § 3 Absatz 1, § 5 Absatz 1 und 2, § 7 Absatz 2 Nummer 1, § 10 Absatz 2 Satz 4 Nummer 1) Schwellenwerte
 
@@ -966,10 +923,6 @@ Der Bundesrat hat zugestimmt.
     Bewirtschaftungsplan für die Flussgebietseinheit in einem geeigneten
     Maßstab in einer oder mehreren Karten darzustellen.
 
-
-
-
-
 ## Anlage 4 (zu § 9 Absatz 1 und 2) Überwachung des chemischen Grundwasserzustands und der Schadstofftrends
 
 (Fundstelle: BGBl. I 2010, 1523 - 1524)
@@ -1126,13 +1079,6 @@ Der Bundesrat hat zugestimmt.
 
     3.5 Die operative Überwachung muss geeignet sein, die Wirksamkeit der
         Maßnahmen zur Zielerreichung zu belegen.
-
-
-
-
-
-
-
 
 ## Anlage 5 (zu § 9 Absatz 3, § 10 Absatz 5, § 11 Absatz 2) Anforderungen an Analysemethoden, Laboratorien und die Beurteilung der Überwachungsergebnisse
 
@@ -1326,10 +1272,6 @@ Der Bundesrat hat zugestimmt.
     in einen steigenden Trend über (Nulldurchgang), bedeutet dies eine
     Trendumkehr.
 
-
-
-
-
 ## Anlage 7 (zu § 13 Absatz 1) Liste gefährlicher Schadstoffe und Schadstoffgruppen
 
 (Fundstelle: BGBl. I 2010, 1528)
@@ -1380,10 +1322,6 @@ Der Bundesrat hat zugestimmt.
 
 
 8.  Arsen und Arsenverbindungen
-
-
-
-
 
 ## Anlage 8 (zu § 13 Absatz 2) Liste sonstiger Schadstoffe und Schadstoffgruppen
 

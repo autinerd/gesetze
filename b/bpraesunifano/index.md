@@ -19,12 +19,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 AnO v. 31.5.1996 I 746
 
-
 ## Eingangsformel
 
 Auf Grund des § 4 Abs. 3 des Soldatengesetzes in der Fassung der
 Bekanntmachung vom 19. August 1975 (BGBl. I S. 2273) ordne ich an:
-
 
 ## Art 1
 
@@ -143,13 +141,6 @@ III. Mannschaften:
     f)  Grenadier, Jäger, Panzerschütze, Panzergrenadier, Panzerjäger,
         Kanonier, Panzerkanonier, Pionier, Panzerpionier, Funker,
         Panzerfunker, Schütze, Flieger, Sanitätssoldat, Matrose.
-
-
-
-
-
-
-
 
 ## Art 2
 
@@ -507,7 +498,6 @@ III. Dienstgradabzeichen:
 Anzugarten und Dienstgradabzeichen - dem Bundesminister der
 Verteidigung mit der Maßgabe, daß Änderungen oder Neueinführungen erst
 nach meiner zustimmenden Kenntnisnahme erfolgen.
-
 
 ## Art 3
 

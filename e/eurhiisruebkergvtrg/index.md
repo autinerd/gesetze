@@ -20,7 +20,6 @@ Fundstelle
 Geändert durch
 :   § 83 Abs. 1 Nr. 7 G v. 23.12.1982 I 2071
 
-
 ## Art 1
 
 Dem in Jerusalem am 20. Juli 1977 unterzeichneten Vertrag zwischen der
@@ -29,18 +28,15 @@ Europäischen Übereinkommens vom 20. April 1959 über die Rechtshilfe in
 Strafsachen und die Erleichterung seiner Anwendung wird zugestimmt.
 Der Vertrag wird nachstehend veröffentlicht.
 
-
 ## Art 2
 
 -
-
 
 ## Art 3
 
 Das Grundrecht der Freiheit der Person (Artikel 2 Abs. 2 des
 Grundgesetzes) wird nach Maßgabe des Artikels IX Abs. 1 des Vertrags
 eingeschränkt.
-
 
 ## Art 4
 
@@ -59,14 +55,12 @@ mit Strafe bedrohte Handlung zugrunde läge. Die Verwaltungsbehörden
 legen die Ersuchen der Strafverfolgungsbehörde vor, in deren Bezirk
 sie ihren Sitz haben.
 
-
 ## Art 5
 
 Die Polizeibehörden sind zur Stellung von Ersuchen im Sinne des
 Artikels XI Abs. 5 des Vertrags nur insoweit befugt, als sie nach
 innerstaatlichem Recht in eigener Zuständigkeit Anordnungen treffen
 können.
-
 
 ## Art 6
 
@@ -99,12 +93,10 @@ ist jedoch nur zulässig, wenn
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße geahndet werden.
 
-
 ## Art 7
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
-
 
 ## Art 8
 

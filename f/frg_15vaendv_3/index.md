@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1975, 647
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 15 Abs. 3 des Fremdenrentengesetzes in der Fassung des
@@ -27,7 +25,6 @@ Fremdrenten- und Auslandsrenten-Neuregelungsgesetzes vom 25. Februar
 nationalsozialistischen Unrechts in der Sozialversicherung vom 22.
 Dezember 1970 (Bundesgesetzbl. I S. 1846), verordnet die
 Bundesregierung mit Zustimmung des Bundesrates:
-
 
 ## § 1
 
@@ -53,10 +50,6 @@ durch ein Komma ersetzt und folgende Nummern 7 und 8 angefügt:
     durch den Ministerratsbeschluß Nr. 198 vom 15. März 1951 genehmigten
     Satzung des Literaturfonds."
 
-
-
-
-
 ## § 2
 
 (1) Die Anerkennung der Systeme der rumänischen Versicherung für
@@ -67,7 +60,6 @@ alle in diesen Einrichtungen zurückgelegten Versicherungszeiten.
 (2) Leistungen sind frühestens für Zeiten vom Inkrafttreten der
 Verordnung an zu gewähren.
 
-
 ## § 3
 
 Die Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom 4.
@@ -75,11 +67,9 @@ Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit Artikel 7 § 1
 des Fremdrenten- und Auslandsrenten-Neuregelungsgesetzes auch im Land
 Berlin.
 
-
 ## § 4
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 1975 in Kraft.
-
 
 ## Schlußformel
 

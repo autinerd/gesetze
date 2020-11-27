@@ -29,7 +29,6 @@ Verordnung vom 29. Oktober 2001 (BGBl. I S. 2785) geändert worden ist,
 verordnet das Bundesministerium für Wirtschaft und Technologie im
 Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
 ## § 3 Teil 2 der Abschlussprüfung
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf die in der Anlage
@@ -219,7 +218,6 @@ sind die Prüfungsbereiche wie folgt zu gewichten:
 
 (7) Der praktische und der schriftliche Teil von Teil 2 der
 Abschlussprüfung haben dasselbe Gewicht.
-
 
 ## § 5 Übergangsregelung
 

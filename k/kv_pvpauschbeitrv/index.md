@@ -20,7 +20,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 13 Abs. 20 G v. 12.4.2012 I 579
 
-
 ## Eingangsformel
 
 Auf Grund
@@ -55,14 +54,12 @@ Bundesministerium der Verteidigung, dem Bundesministerium für Familie,
 Senioren, Frauen und Jugend sowie dem Bundesministerium für Arbeit und
 Sozialordnung:
 
-
 ## § 1 Allgemeines
 
 Die Beiträge zur gesetzlichen Krankenversicherung und zur sozialen
 Pflegeversicherung werden für Personen, deren Mitgliedschaft während
 des Wehrdienstes oder Zivildienstes fortbesteht (Dienstleistende),
 pauschal berechnet.
-
 
 ## § 2 Beitragsberechnung
 
@@ -80,10 +77,6 @@ Die pauschalen Beiträge werden kalenderjährlich wie folgt berechnet:
     Ein Zehntel des Produkts aus jährlicher Beitragsbemessungsgrundlage,
     Beitragssatz und Zahl der Diensttage wird durch 365 (in Schaltjahren
     366) geteilt.
-
-
-
-
 
 ## § 3 Berechnungsgrundlagen
 
@@ -114,7 +107,6 @@ Bundesamt für den Zivildienst bestimmen im Einvernehmen mit dem
 Spitzenverband Bund der Krankenkassen das Verfahren zur Feststellung
 der nicht zu berücksichtigenden Diensttage.
 
-
 ## § 4 Abrechnungsverfahren
 
 (1) Das Bundesamt für Wehrverwaltung und das Bundesamt für den
@@ -131,7 +123,6 @@ Zivildienstleistenden im Jahresdurchschnitt mit.
 (3) Aus dem errechneten Gesamtbetrag der Beiträge nach Absatz 2 werden
 die Anteile an den Beiträgen getrennt nach Krankenversicherungs- und
 Pflegeversicherungsbeiträgen ermittelt.
-
 
 ## § 5 Zahlung der Beiträge
 
@@ -170,7 +161,6 @@ von diesem zurückzufordern.
 Diensttage werden mit den Berechnungsgrößen des dazugehörigen
 Abrechnungsjahres bei der nächsten Abrechnung berücksichtigt.
 
-
 ## § 6 Berücksichtigung des zusätzlichen Beitragssatzes
 
 Für den Zeitraum vom 1. Juli 2005 bis zum 31. Dezember 2008 ist für
@@ -178,13 +168,11 @@ die Ermittlung der Berechnungsgrundlagen auch § 241a des Fünften
 Buches Sozialgesetzbuch in der bis zum 31. Dezember 2008 geltenden
 Fassung zu berücksichtigen.
 
-
 ## § 7 Abrechnungszeiträume bis 2008
 
 Für die Abrechnungszeiträume bis einschließlich 2008 ist,
 vorbehaltlich des § 6, diese Verordnung in der bis zum 31. Dezember
 2008 geltenden Fassung weiter anzuwenden.
-
 
 ## Schlußformel
 

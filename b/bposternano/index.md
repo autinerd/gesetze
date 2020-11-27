@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1954, 15
 
-
-
 ## I.
 
 Auf Grund des Artikels I der Anordnung des Bundespräsidenten über die
@@ -47,18 +45,15 @@ nichtplanmäßigen              Beamten
 
 je für ihren Dienstbereich.
 
-
 ## II.
 
 Für besondere Fälle behalte ich mir die Ernennung und Entlassung der
 in Ziffer I genannten Beamten der Deutschen Bundespost und der
 Bundesdruckerei vor.
 
-
 ## III.
 
 -
-
 
 ## Schlußformel
 

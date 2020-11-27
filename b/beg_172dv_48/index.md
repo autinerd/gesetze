@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 2354
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 172 Abs. 4 des Bundesentschädigungsgesetzes in der im
@@ -25,7 +23,6 @@ bereinigten Fassung, der durch Artikel 84 Nr. 1 der Verordnung vom 29.
 Oktober 2001 (BGBl. I S. 2785) geändert worden ist, und auf Grund des
 Artikels V Nr. 5 Abs. 1 des BEG-Schlussgesetzes vom 14. September 1965
 (BGBl. I S. 1315) verordnet das Bundesministerium der Finanzen:
-
 
 ## § 1 Höhe der Entschädigungsaufwendungen und Lastenanteile des Bundes und der elf alten Bundesländer (Länder) im Rechnungsjahr 2005
 
@@ -238,11 +235,9 @@ verrechnet, die nach den vorläufigen Abrechnungen der
 Entschädigungsaufwendungen bereits erstattet oder abgeführt worden
 sind.
 
-
 ## § 2 Inkrafttreten
 
 Diese Verordnung tritt am siebten Tage nach der Verkündung in Kraft.
-
 
 ## Schlussformel
 

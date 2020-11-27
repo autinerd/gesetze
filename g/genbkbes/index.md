@@ -16,11 +16,7 @@ Ausfertigungsdatum
 Fundstelle
 :   GBl DDR I: 1990, 252
 
-
-
 ## I. - Stellung der Genossenschaftsbank Berlin
-
-
 
 ### § 1
 
@@ -44,12 +40,10 @@ Schaffung einer Währungs-, Wirtschafts- und Sozialunion zwischen der
 Deutschen Demokratischen Republik und der Bundesrepublik Deutschland
 wahr.
 
-
 ### § 2
 
 Die Bank regelt die Beziehungen mit ihren Kunden auf der Grundlage der
 Rechtsvorschriften nach Allgemeinen Geschäftsbedingungen.
-
 
 ### § 3
 
@@ -66,10 +60,7 @@ beschließen, daß das Vermögen der Bank als Ganzes oder zum Teil auf
 ein anderes Kreditinstitut der Genossenschaftsorganisation übertragen
 wird.
 
-
 ## II. - Grundkapital und Beteiligungen
-
-
 
 ### § 4
 
@@ -80,7 +71,6 @@ Eigenkapital. Kapitalhalter ist die Deutsche Demokratische Republik.
 
 (2) Die Bank kann zur Erfüllung ihrer Aufgaben Kredite aufnehmen und
 gedeckte Schuldverschreibungen auf den Inhaber ausgeben.
-
 
 ### § 5
 
@@ -110,15 +100,11 @@ Kapitalbeteiligungen fest.
 wenn in der Satzung der Handelsgesellschaft die Förderung gemäß § 1
 Abs. 1 dieses Statuts sichergestellt wird.
 
-
 ## III. - Organe der Bank
-
-
 
 ### § 6
 
 Die Organe der Bank sind der Vorstand und der Verwaltungsrat.
-
 
 ### § 7
 
@@ -143,7 +129,6 @@ Ernennung bzw. bei jedem Wechsel bekanntzumachen.
 
 (5) Beschlüsse des Vorstandes werden mit einfacher Stimmenmehrheit
 gefaßt. Bei Stimmengleichheit entscheidet die Stimme des Vorsitzenden.
-
 
 ### § 8
 
@@ -205,10 +190,7 @@ bekanntzumachen.
 (8) Grundlage für die Aufgaben und Befugnisse des Verwaltungsrates ist
 eine vom Verwaltungsrat beschlossene Geschäftsordnung.
 
-
 ## IV. - Rechnungsführung Jahresabschluß
-
-
 
 ### § 9
 
@@ -222,10 +204,7 @@ die Ergebnisverwendung zur Bestätigung vorzulegen.
 
 (3) Das Geschäftsjahr ist das Kalenderjahr.
 
-
 ## V. - Vertretung der Bank
-
-
 
 ### § 10
 
@@ -246,10 +225,7 @@ haben die Eigenschaft öffentlicher Urkunden. Zur Führung des
 Dienstsiegels sind die Mitglieder des Vorstandes und weitere vom
 Vorstand bestimmte leitende Mitarbeiter der Bank berechtigt.
 
-
 ## VI. - Übergangs- und Schlußbestimmungen
-
-
 
 ### § 11
 
@@ -270,7 +246,6 @@ Prüfungsverbänden zu übertragen.
 (4) Das bisherige Dienstsiegel der Bank für Landwirtschaft und
 Nahrungsgüterwirtschaft der DDR gilt bis zur Einführung des
 Dienstsiegels der Genossenschaftsbank Berlin weiter.
-
 
 ### Anhang EV Auszug aus EinigVtr Anlage II Kapitel IV Abschnitt III (BGBl. II 1990, 889, 1199)
 

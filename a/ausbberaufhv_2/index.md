@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 796
 
-
 ## Eingangsformel
 
 Auf Grund des § 4 Abs. 1 des Berufsbildungsgesetzes vom 23. März 2005
@@ -31,7 +30,6 @@ geändert worden ist, verordnet das Bundesministerium für Wirtschaft
 und Technologie im Einvernehmen mit dem Bundesministerium für Bildung
 und Forschung:
 
-
 ## § 1 Aufhebung der Anerkennung von Ausbildungsberufen
 
 Die Anerkennung folgender Ausbildungsberufe wird aufgehoben:
@@ -41,10 +39,6 @@ Die Anerkennung folgender Ausbildungsberufe wird aufgehoben:
 
 2.  Wagner.
 
-
-
-
-
 ## § 2 Besitzstandswahrung
 
 Personen, die vor Inkrafttreten dieser Verordnung in einem der in § 1
@@ -53,7 +47,6 @@ des Inkrafttretens dieser Verordnung darin ausgebildet werden und
 diese Berufsausbildung nach § 4 Abs. 4 des Berufsbildungsgesetzes oder
 nach § 25 Abs. 4 der Handwerksordnung fortsetzen, bleiben in ihrem
 Ausbildungsstatus unberührt.
-
 
 ## § 3 Inkrafttreten
 

@@ -19,14 +19,12 @@ Fundstelle
     Europäischen Parlaments und des Rates vom 12. Dezember 2006 über
     Dienstleistungen im Binnenmarkt (ABl. L 376 vom 27.12.2006, S. 36).
 
-
 ## Eingangsformel
 
 Auf Grund des § 6c in Verbindung mit § 146 Absatz 2 Nummer 1 der
 Gewerbeordnung, die durch Artikel 1 des Gesetzes vom 17. Juli 2009
 (BGBl. I S. 2091) eingefügt worden sind, verordnet die
 Bundesregierung:
-
 
 ## § 1 Anwendungsbereich
 
@@ -51,7 +49,6 @@ Dienstleistungsfreiheit im Inland tätig werden.
 (4) Die nach dieser Verordnung zur Verfügung zu stellenden
 Informationen sind in deutscher Sprache zu erbringen. Das gilt nicht
 für Informationen nach Absatz 2.
-
 
 ## § 2 Stets zur Verfügung zu stellende Informationen
 
@@ -139,10 +136,6 @@ Informationen wahlweise
     ausführlichen Informationsunterlagen über die angebotene
     Dienstleistung aufzunehmen.
 
-
-
-
-
 ## § 3 Auf Anfrage zur Verfügung zu stellende Informationen
 
 (1) Unbeschadet weiter gehender Anforderungen aus anderen
@@ -186,7 +179,6 @@ stellen:
 Nummer 2, 3 und 4 genannten Informationen in allen ausführlichen
 Informationsunterlagen über die Dienstleistung enthalten sind.
 
-
 ## § 4 Erforderliche Preisangaben
 
 (1) Der Dienstleistungserbringer muss dem Dienstleistungsempfänger vor
@@ -214,7 +206,6 @@ Fassung der Bekanntmachung vom 18. Oktober 2002 (BGBl. I S. 4197), die
 zuletzt durch Artikel 6 des Gesetzes vom 29. Juli 2009 (BGBl. I S.
 2355) geändert worden ist, in der jeweils geltenden Fassung.
 
-
 ## § 5 Verbot diskriminierender Bestimmungen
 
 Der Dienstleistungserbringer darf keine Bedingungen für den Zugang zu
@@ -223,7 +214,6 @@ oder dem Wohnsitz des Dienstleistungsempfängers beruhende
 diskriminierende Bestimmungen enthalten. Dies gilt nicht für
 Unterschiede bei den Zugangsbedingungen, die unmittelbar durch
 objektive Kriterien gerechtfertigt sind.
-
 
 ## § 6 Ordnungswidrigkeiten
 
@@ -242,14 +232,9 @@ handelt, wer vorsätzlich oder fahrlässig
 
 3.  entgegen § 5 Satz 1 Bedingungen bekannt macht.
 
-
-
-
-
 ## § 7 Inkrafttreten
 
 Diese Verordnung tritt zwei Monate nach der Verkündung in Kraft.
-
 
 ## Schlussformel
 

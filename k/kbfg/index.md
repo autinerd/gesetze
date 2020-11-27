@@ -15,19 +15,16 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 3022
 
-
 ## § 1 Errichtung des Sondervermögens
 
 Es wird ein Sondervermögen des Bundes "Kinderbetreuungsausbau"
 errichtet.
-
 
 ## § 2 Zweck des Sondervermögens
 
 Aus dem Sondervermögen sollen Investitionen zum Ausbau der Betreuung
 von Kindern unter drei Jahren gefördert werden. Das Nähere wird durch
 eine Regelung nach Artikel 104b des Grundgesetzes bestimmt.
-
 
 ## § 3 Stellung im Rechtsverkehr
 
@@ -43,12 +40,10 @@ Bundesbehörde oder eines Dritten bedienen.
 Rechten und Verbindlichkeiten zu trennen. Der Bund haftet nicht für
 die Verbindlichkeiten des Sondervermögens.
 
-
 ## § 4 Finanzierung
 
 Der Bund stellt dem Sondervermögen im Jahr 2007 einen einmaligen
 Betrag in Höhe von 2,15 Milliarden Euro zur Verfügung.
-
 
 ## § 5 Wirtschaftsplan, Haushaltsrecht
 
@@ -62,7 +57,6 @@ Sondervermögen ausgezahlt. Eine Kreditaufnahme durch das
 Sondervermögen ist nicht zulässig. Im Übrigen ist § 113 der
 Bundeshaushaltsordnung anzuwenden.
 
-
 ## § 6 Jahresrechnung
 
 Das Bundesministerium für Familie, Senioren, Frauen und Jugend stellt
@@ -70,11 +64,9 @@ die Jahresrechnung für das Sondervermögen auf und übermittelt sie an
 das Bundesministerium der Finanzen. Sie ist als Anhang der
 Haushaltsrechnung des Bundes beizufügen.
 
-
 ## § 7 Verwaltungskosten
 
 Die Kosten für die Verwaltung des Sondervermögens trägt der Bund.
-
 
 ## § 8 Auflösung
 

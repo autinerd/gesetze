@@ -19,18 +19,15 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 V v. 4.12.2002 I 4456
 
-
 ## Eingangsformel
 
 Auf Grund § 7 des Gesetzes über die berufsmäßige Ausübung der
 Heilkunde ohne Bestallung (Heilpraktikergesetz) vom 17. Februar 1939
 (Reichsgesetzbl. I S. 251) wird verordnet:
 
-
 ## § 1
 
 -
-
 
 ## § 2
 
@@ -75,7 +72,6 @@ i)  wenn sich aus einer Überprüfung der Kenntnisse und Fähigkeiten des
 
 (2)
 
-
 ## § 3
 
 (1) Über den Antrag entscheidet die untere Verwaltungsbehörde im
@@ -91,7 +87,6 @@ zwei Wochen Beschwerde einlegen. Über diese entscheidet die höhere
 Verwaltungsbehörde              nach Anhörung eines
 Gutachterausschusses (§ 4).
 
-
 ## § 4
 
 (1) Der Gutachterausschuß besteht aus einem Vorsitzenden, der weder
@@ -106,16 +101,13 @@ bestimmen. Sie können diese Ermächtigung auf oberste Landesbehörden
 (2) Für mehrere Bezirke höherer Verwaltungsbehörden kann ein
 gemeinsamer Gutachterausschuß gebildet werden.
 
-
 ## § 5
 
 -
 
-
 ## § 6
 
 -
-
 
 ## § 7
 
@@ -134,11 +126,9 @@ Gutachterausschuß (§ 4) zu hören.
 
 (4)
 
-
 ## (XXXX) §§ 8 und 9 (weggefallen)
 
 -
-
 
 ## § 10
 
@@ -160,7 +150,6 @@ Antrag an den
 Reichsminister für Wissenschaft, Erziehung und Volksbildung
 weiterleitet.
 
-
 ## § 11
 
 (1) Höhere Verwaltungsbehörde im Sinne dieser Verordnung ist in
@@ -177,7 +166,6 @@ Oberbürgermeister,              in Landkreisen der
 Landrat.
 
 (3)
-
 
 ## (XXXX) §§ 12 bis 14 (weggefallen)
 

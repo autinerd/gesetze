@@ -63,10 +63,7 @@ Informationsgesellschaft (ABl. EG Nr. L 204 S. 37), geändert durch die
 Richtlinie 98/48/EG des Europäischen Parlaments und des Rates vom 20.
 Juli 1998 (ABl. EG Nr. L 217 S. 18), sind beachtet worden.
 
-
 ## Abschnitt 1 - Allgemeine Bestimmungen
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -88,10 +85,6 @@ Erwerbszwecken.
 3.  während eines Tierversuchs im Sinne des § 7 Abs. 1 des
     Tierschutzgesetzes, soweit für den verfolgten Zweck andere
     Anforderungen an das Halten unerlässlich sind.
-
-
-
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -191,10 +184,6 @@ Im Sinne dieser Verordnung sind
     Chinchilla brevicaudata und Chinchilla lanigera) und Marderhund
     (Nyctereutes procyonoides).
 
-
-
-
-
 ### § 3 Allgemeine Anforderungen an Haltungseinrichtungen
 
 (1) Nutztiere dürfen vorbehaltlich der Vorschriften der Abschnitte 2
@@ -257,7 +246,6 @@ sichergestellt ist, muss ein Notstromaggregat bereitstehen.
 Anlage abhängig ist, müssen eine Ersatzvorrichtung, die bei Ausfall
 der Anlage einen ausreichenden Luftaustausch gewährleistet, und eine
 Alarmanlage zur Meldung eines solchen Ausfalles vorhanden sein.
-
 
 ### § 4 Allgemeine Anforderungen an Überwachung, Fütterung und Pflege
 
@@ -340,10 +328,7 @@ Satz 1 sind ab dem Zeitpunkt der jeweiligen Aufzeichnung mindestens
 drei Jahre aufzubewahren und der zuständigen Behörde auf Verlangen
 vorzulegen.
 
-
 ## Abschnitt 2 - Anforderungen an das Halten von Kälbern
-
-
 
 ### § 5 Allgemeine Anforderungen an das Halten von Kälbern
 
@@ -367,7 +352,6 @@ und zwar für jeweils längstens eine Stunde im Rahmen des Fütterns mit
 Milch- oder Milchaustauschertränke, und die Vorrichtungen zum Anbinden
 oder zum sonstigen Festlegen den Kälbern keine Schmerzen oder
 vermeidbare Schäden bereiten.
-
 
 ### § 6 Allgemeine Anforderungen an das Halten von Kälbern in Ställen
 
@@ -460,7 +444,6 @@ Celsius nicht unterschreiten. Die relative Luftfeuchte soll zwischen
 oder Kälberhütten vorwiegend dem Schutz der Kälber gegen
 Niederschläge, Sonne und Wind dienen.
 
-
 ### § 7 Besondere Anforderungen an das Halten von Kälbern im Alter von bis zu zwei Wochen in Ställen
 
 Kälber im Alter von bis zu zwei Wochen dürfen nur in Ställen gehalten
@@ -476,7 +459,6 @@ werden, wenn
 
 
 zur Verfügung stehen.
-
 
 ### § 8 Besondere Anforderungen an das Halten von Kälbern im Alter von über zwei bis zu acht Wochen in Ställen
 
@@ -509,7 +491,6 @@ vorbehaltlich des § 10 in Gruppen nur gehalten werden, wenn bei
 rationierter Fütterung alle Kälber der Gruppe gleichzeitig Futter
 aufnehmen können. Satz 1 gilt nicht bei Abruffütterung und technischen
 Einrichtungen mit vergleichbarer Funktion.
-
 
 ### § 9 Besondere Anforderungen an das Halten von Kälbern im Alter von über acht Wochen in Ställen
 
@@ -559,10 +540,6 @@ dürfen einzeln in Boxen nur gehalten werden, wenn
     mindestens 120 Zentimeter, bei anderen Boxen mindestens 100 Zentimeter
     beträgt.
 
-
-
-
-
 ### § 10 Platzbedarf bei Gruppenhaltung
 
 (1) Kälber dürfen vorbehaltlich des Absatzes 2 in Gruppen nur gehalten
@@ -608,7 +585,6 @@ Bucht gehalten werden, die im Falle
 
 
 Mindestbodenfläche hat.
-
 
 ### § 11 Überwachung, Fütterung und Pflege
 
@@ -664,23 +640,13 @@ sicherzustellen, dass
     b)  dem Tagesrhythmus angeglichen ist und möglichst gleichmäßig verteilt
         wird.
 
-
-
-
-
-
-
-
 ## Abschnitt 3 - Anforderungen an das Halten von Legehennen
-
-
 
 ### § 12 Anwendungsbereich
 
 Legehennen, die zu Erwerbszwecken gehalten werden, dürfen, unbeschadet
 der Anforderungen der §§ 3 und 4, nur nach Maßgabe der Vorschriften
 dieses Abschnitts gehalten werden.
-
 
 ### § 13 Anforderungen an Haltungseinrichtungen für Legehennen
 
@@ -769,7 +735,6 @@ Kubikmeter Luft dauerhaft nicht überschreiten darf.
 
 (6) Legehennen dürfen an keiner Stelle des Aufenthaltsbereiches
 direkter Stromeinwirkung ausgesetzt sein.
-
 
 ### § 13a Besondere Anforderungen an die Bodenhaltung
 
@@ -862,10 +827,6 @@ ist.
 3.  mit Tränken ausgestattet sein, soweit dies für die Gesundheit der
     Legehennen erforderlich ist.
 
-
-
-
-
 ### § 13b Besondere Anforderungen an die Kleingruppenhaltung
 
 (1) Legehennen dürfen als Kleingruppen nur nach Maßgabe der
@@ -918,7 +879,6 @@ gewährleisten, dass eine ausgewachsene Legehenne herausgenommen werden
 kann, ohne dass ihr vermeidbare Schmerzen, Leiden oder Schäden
 zugefügt werden.
 
-
 ### § 14 Überwachung, Fütterung und Pflege von Legehennen
 
 (1) Wer Legehennen hält, hat sicherzustellen, dass
@@ -950,7 +910,6 @@ zugefügt werden.
 (2) Wer Legehennen hält, hat über deren Legeleistung unverzüglich
 Aufzeichnungen zu machen. § 4 Abs. 2 Satz 2 und 3 gilt entsprechend.
 
-
 ### § 15 Anlagen zur Erprobung neuer Haltungseinrichtungen
 
 Die zuständige Behörde kann im Einzelfall für längstens drei Jahre zur
@@ -964,10 +923,7 @@ Aufbaumen verfügen und dass die sonstigen Vorgaben der Richtlinie
 Mindestanforderungen zum Schutz von Legehennen (ABl. EG Nr. L 203 S.
 53) nicht unterschritten werden.
 
-
 ## Abschnitt 4 - Anforderungen an das Halten von Masthühnern
-
-
 
 ### § 16 Anwendungsbereich
 
@@ -995,7 +951,6 @@ Vorschriften dieses Abschnitts gehalten werden, soweit sie nicht
 
 
 gehalten werden.
-
 
 ### § 17 Sachkunde
 
@@ -1107,7 +1062,6 @@ Absatz 3 Nummer 1 und Fertigkeiten gemäß Absatz 3 Nummer 2,
 einschließlich tierschutzgerechter Tötungsmethoden, angewiesen und
 angeleitet werden.
 
-
 ### § 18 Anforderungen an Haltungseinrichtungen für Masthühner
 
 (1) Wer Masthühner hält, hat sicherzustellen, dass die
@@ -1215,7 +1169,6 @@ hohem Aufwand der Einfall von natürlichem Tageslicht erreicht werden
 kann, soweit eine Ausleuchtung des Einstreu- und Versorgungsbereiches
 in der Haltungseinrichtung durch eine dem natürlichen Licht so weit
 wie möglich entsprechende künstliche Beleuchtung sichergestellt ist.
-
 
 ### § 19 Anforderungen an das Halten von Masthühnern
 
@@ -1365,7 +1318,6 @@ Masthühnerbesatzdichte anzugeben. Auf Verlangen der zuständigen
 Behörde muss die Mitteilung von einem Dokument begleitet sein, in dem
 die Angaben aus den Aufzeichnungen nach Absatz 5 zusammengefasst sind.
 
-
 ### § 20 Überwachung und Folgemaßnahmen im Schlachthof
 
 (1) Der Halter eines Masthühnerbestands berechnet die tägliche
@@ -1423,10 +1375,7 @@ Parasitosen oder Systemerkrankungen, gegenüber dem Halter weiter
 gehendere Untersuchungen anordnen. Die Ergebnisse dieser
 Untersuchungen sind der anordnenden Behörde unverzüglich vorzulegen.
 
-
 ## Abschnitt 5 - Anforderungen an das Halten von Schweinen
-
-
 
 ### § 21 Anwendungsbereich
 
@@ -1434,7 +1383,6 @@ Schweine dürfen, unbeschadet der Anforderungen der §§ 3 und 4, nur
 nach Maßgabe der Vorschriften dieses Abschnitts gehalten werden. Die
 §§ 22 bis 25 und 27 Absatz 2 gelten nicht für Haltungseinrichtungen
 außerhalb von Ställen.
-
 
 ### § 22 Allgemeine Anforderungen an Haltungseinrichtungen für Schweine
 
@@ -1558,7 +1506,6 @@ baurechtlichen Gründen nicht oder nur mit unverhältnismäßig hohem
 Aufwand erreicht werden kann und eine dem natürlichen Licht so weit
 wie möglich entsprechende künstliche Beleuchtung sichergestellt ist.
 
-
 ### § 23 Besondere Anforderungen an Haltungseinrichtungen für Saugferkel
 
 (1) Saugferkel dürfen nur in Haltungseinrichtungen gehalten werden,
@@ -1574,7 +1521,6 @@ ausruhen können.
 (4) Der Liegebereich muss entweder wärmegedämmt und beheizbar oder mit
 geeigneter Einstreu bedeckt sein. Perforierter Boden im Liegebereich
 der Saugferkel muss abgedeckt sein.
-
 
 ### § 24 Besondere Anforderungen an Haltungseinrichtungen für Jungsauen und Sauen
 
@@ -1621,10 +1567,6 @@ müssen so angelegt und beschaffen sein, dass
     Buchtenanordnung die Gangbreite zwischen den Fress-Liegebuchten
     mindestens 200 Zentimeter beträgt.
 
-
-
-
-
 ### § 25 Besondere Anforderungen an Haltungseinrichtungen für Eber
 
 Eber dürfen nur in Haltungseinrichtungen gehalten werden, die so
@@ -1639,10 +1581,6 @@ benutzt werden, nur gehalten werden, wenn diese
 
 
 2.  eine Fläche von mindestens zehn Quadratmetern aufweisen.
-
-
-
-
 
 ### § 26 Allgemeine Anforderungen an das Halten von Schweinen
 
@@ -1739,7 +1677,6 @@ sind während des Zeitraumes, für den grundsätzlich die Haltung in
 Gruppen vorgeschrieben ist, so zu halten, dass sie sich jederzeit
 ungehindert umdrehen können.
 
-
 ### § 27 Besondere Anforderungen an das Halten von Saugferkeln
 
 (1) Saugferkel dürfen erst im Alter von über vier Wochen abgesetzt
@@ -1787,10 +1724,6 @@ Temperatur nach folgender Tabelle nicht unterschritten wird:
     *   12
 
     *   16.
-
-
-
-
 
 ### § 28 Besondere Anforderungen an das Halten von Absatzferkeln
 
@@ -1855,7 +1788,6 @@ Gruppen gehalten werden:
 
 (3) § 27 Absatz 2 gilt entsprechend.
 
-
 ### § 29 Besondere Anforderungen an das Halten von Zuchtläufern und Mastschweinen
 
 (1) Zuchtläufer und Mastschweine sind in der Gruppe zu halten.
@@ -1891,7 +1823,6 @@ Mindestens die Hälfte der Mindestfläche nach Satz 1 muss als
 Liegebereich nach § 22 Absatz 3 Nummer 8 zur Verfügung stehen.
 
 (3) § 28 Absatz 2 Nummer 3 bis 5 gilt entsprechend.
-
 
 ### § 30 Besondere Anforderungen an das Halten von Jungsauen und Sauen
 
@@ -1970,10 +1901,7 @@ Kot- und Harnentsorgung vereinbar ist.
 
 (8) § 28 Absatz 2 Nummer 3 bis 5 gilt entsprechend.
 
-
 ## Abschnitt 6 - Anforderungen an das Halten von Pelztieren
-
-
 
 ### § 31 Verbot der Haltung bestimmter Tiere
 
@@ -1981,12 +1909,10 @@ Tiere der in § 2 Nummer 22 genannten Arten dürfen nicht zur Erzeugung
 von Pelzen oder zur Zucht von Pelztieren gehalten werden, soweit sie
 der Natur entnommen wurden.
 
-
 ### § 32 Anwendungsbereich
 
 Pelztiere dürfen, unbeschadet der Anforderungen der §§ 3 und 4, nur
 nach Maßgabe der Vorschriften dieses Abschnitts gehalten werden.
-
 
 ### § 33 Anforderungen an Haltungseinrichtungen für Pelztiere
 
@@ -2139,7 +2065,6 @@ Lichtöffnungen versehen sein, deren Fläche mindestens 5 Prozent der
 Grundfläche entspricht und die so angeordnet sind, dass eine möglichst
 gleichmäßige Verteilung des Lichts gewährleistet wird.
 
-
 ### § 34 Allgemeine Anforderungen an das Halten von Pelztieren
 
 (1) Wer Pelztiere hält, hat sicherzustellen, dass
@@ -2176,7 +2101,6 @@ gleichmäßige Verteilung des Lichts gewährleistet wird.
 (2) Pelztiere sollen von Geburt an an den Umgang mit Menschen gewöhnt
 werden.
 
-
 ### § 35 Besondere Anforderungen an das Halten von Nerzen, Iltissen, Füchsen und Marderhunden
 
 Jungtiere dürfen erst im Alter von über neun Wochen abgesetzt werden.
@@ -2184,17 +2108,13 @@ Abweichend von Satz 1 können Jungtiere früher abgesetzt werden, soweit
 dies zum Schutz des Muttertieres oder der Jungtiere vor Schmerzen,
 Leiden oder Schäden erforderlich ist.
 
-
 ### § 36 Besondere Anforderungen an das Halten von Sumpfbibern und Chinchillas
 
 Wer mehrere Sumpfbiber oder Chinchillas auf demselben Grundstück hält,
 hat sie, soweit nicht ein Fall des § 4 Abs. 1 Satz 1 Nr. 3 vorliegt,
 in der Gruppe zu halten.
 
-
 ## Abschnitt 7 - Ordnungswidrigkeiten und Schlussbestimmungen
-
-
 
 ### § 37 Ordnungswidrigkeiten
 
@@ -2428,7 +2348,6 @@ Tierschutzgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen §
 § 14 Abs. 2 Satz 1 eine Aufzeichnung nicht, nicht richtig, nicht
 vollständig oder nicht rechtzeitig macht, nicht oder nicht mindestens
 drei Jahre aufbewahrt oder nicht oder nicht rechtzeitig vorlegt.
-
 
 ### § 38 Übergangsregelungen
 
@@ -2691,7 +2610,6 @@ Pelztiere noch bis zum 11. Dezember 2011 gehalten werden.
 (19) Abweichend von § 32 in Verbindung mit § 33 Absatz 1, 6, 7 und 8
 Satz 1 Nummer 1 bis 3 dürfen Pelztiere noch bis zum 11. Dezember 2016
 gehalten werden.
-
 
 ### § 39 (Inkrafttreten, Außerkrafttreten)
 

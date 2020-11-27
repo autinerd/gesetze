@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 1675
 
-
 ## Eingangsformel
 
 Auf Grund des § 25 Absatz 2 des Betäubungsmittelgesetzes, der zuletzt
@@ -24,7 +23,6 @@ I S. 2304) geändert worden ist, in Verbindung mit dem 2. Abschnitt des
 Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821),
 verordnet das Bundesministerium für Gesundheit:
 
-
 ## § 1 Anwendungsbereich
 
 Das Bundesinstitut für Arzneimittel und Medizinprodukte erhebt für
@@ -32,7 +30,6 @@ Prüfungen und Untersuchungen, für die Bearbeitung von Anträgen sowie
 für andere Amtshandlungen auf dem Gebiet des Betäubungsmittelverkehrs
 Gebühren und Auslagen nach den folgenden Vorschriften und dem
 Gebührenverzeichnis der Anlage.
-
 
 ## § 2 Gebühren in besonderen Fällen
 
@@ -44,7 +41,6 @@ Amtshandlung festzusetzenden Gebühr erhoben. Die vorgesehene Gebühr
 kann bis zu 25 Prozent der für die Vornahme festzusetzenden Gebühr
 ermäßigt oder von ihrer Erhebung kann ganz abgesehen werden, wenn dies
 der Billigkeit entspricht.
-
 
 ## § 3 Gebühren in Widerspruchsverfahren
 
@@ -77,7 +73,6 @@ den Absätzen 1 und 3 entsprechend dem Anteil der Stattgabe zu
 ermäßigen; die Mindestgebühr nach den Absätzen 1 und 3 darf nicht
 unterschritten werden.
 
-
 ## § 4 Ermäßigungen
 
 Von der Erhebung einer Gebühr oder Auslage kann in den Fällen der
@@ -88,7 +83,6 @@ Bedeutung dient oder wenn die Erhebung in einem offensichtlichen
 Missverhältnis zum wirtschaftlichen Nutzen für den Kostenschuldner
 steht.
 
-
 ## § 5 Übergangsvorschrift
 
 Die Betäubungsmittel-Kostenverordnung vom 16. Dezember 1981 (BGBl. I
@@ -97,11 +91,9 @@ S. 1433), die zuletzt durch Artikel 3 § 5 des Gesetzes vom 24. Juni
 wenn die zugrunde liegende Amtshandlung vor dem 4. Juli 2009 beantragt
 oder, wenn kein Antrag erforderlich ist, beendet worden ist.
 
-
 ## § 6 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Anlage 1 (zu § 1) Gebührenverzeichnis
 

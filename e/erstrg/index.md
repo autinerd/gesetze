@@ -18,14 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 Abs. 10 G v. 12.3.2004 I 390
 
-
 ## Teil 1 - Erstreckung
 
-
-
 ### Abschnitt 1 - Erstreckung auf das in Artikel 3 des Einigungsvertrages genannte Gebiet
-
-
 
 #### § 1 Erstreckung von gewerblichen Schutzrechten und Schutzrechtsanmeldungen
 
@@ -41,7 +36,6 @@ erstreckt.
 Wirkung für die Bundesrepublik Deutschland mit Ausnahme des in Artikel
 3 des Einigungsvertrages genannten Gebiets eingereichten Anmeldungen
 und eingetragenen oder erteilten Schutzrechte.
-
 
 #### § 2 Löschung von eingetragenen Warenzeichen
 
@@ -61,7 +55,6 @@ von Marken gleich.
 1 erstreckten international registrierten Marke gemäß § 10 der
 Verordnung über die internationale Registrierung von Fabrik- oder
 Handelsmarken entsprechend anzuwenden.
-
 
 #### § 3 Widerspruch gegen angemeldete Warenzeichen
 
@@ -90,14 +83,9 @@ werden.
 die gegen eine nach § 1 erstreckte international registrierte Marke
 erhoben werden, entsprechend anzuwenden.
 
-
 ### Abschnitt 2 - Erstreckung der in dem in Artikel 3 des Einigungsvertrages genannten Gebiet bestehenden gewerblichen Schutzrechte auf das übrige Bundesgebiet
 
-
-
 #### Unterabschnitt 1 - Allgemeine Vorschriften
-
-
 
 ##### § 4 Erstreckung von gewerblichen Schutzrechten und Schutzrechtsanmeldungen
 
@@ -116,7 +104,6 @@ Schutzrechte.
 Einigungsvertrages genannte Gebiet eingetragen oder angemeldet sind,
 gelten die §§ 33 bis 38.
 
-
 ##### § 5 Anzuwendendes Recht
 
 Unbeschadet der nachfolgenden Bestimmungen sind auf die nach § 4
@@ -128,10 +115,7 @@ soweit es sich um die Voraussetzungen der Schutzfähigkeit und die
 Schutzdauer handelt. Im übrigen unterliegen sie den mit dem
 Einigungsvertrag übergeleiteten Vorschriften des Bundesrechts.
 
-
 #### Unterabschnitt 2 - Besondere Vorschriften für Patente
-
-
 
 ##### § 6 Wirkung erteilter Patente
 
@@ -139,13 +123,11 @@ Die Erteilung eines Patents nach den Rechtsvorschriften der Deutschen
 Demokratischen Republik steht der Veröffentlichung der Erteilung des
 Patents nach § 58 Abs. 1 des Patentgesetzes gleich.
 
-
 ##### § 6a Patentdauer
 
 Die Dauer der nach § 4 erstreckten Patente, die am 31. Dezember 1995
 noch nicht abgelaufen sind, beträgt 20 Jahre, die mit dem auf die
 Anmeldung folgenden Tag beginnen.
-
 
 ##### § 7 Wirtschaftspatente
 
@@ -177,7 +159,6 @@ Benutzung erforderlichen Veranstaltungen getroffen hat, bleibt auch
 weiterhin zur Benutzung in der von ihm in der Anzeige angegebenen
 Weise berechtigt.
 
-
 ##### § 8 Nicht in deutscher Sprache vorliegende Patente
 
 (1) Ist ein nach § 4 erstrecktes Patent nicht in deutscher Sprache
@@ -205,7 +186,6 @@ unentgeltlich fortsetzen, wenn die Benutzung keine Verletzung des
 Patents in der fehlerhaften Übersetzung der Patentschrift darstellen
 würde.
 
-
 ##### § 9 Benutzungsrechte an Ausschließungspatenten
 
 Das in Artikel 3 Abs. 4 Satz 1 des Gesetzes zur Änderung des
@@ -215,7 +195,6 @@ vorgesehene Recht, eine durch ein in ein Ausschließungspatent
 umgewandeltes Wirtschaftspatent geschützte Erfindung weiterzubenutzen,
 bleibt bestehen und wird auf das übrige Bundesgebiet erstreckt. Der
 Patentinhaber hat Anspruch auf eine angemessene Vergütung.
-
 
 ##### § 10 Patentanmeldungen
 
@@ -241,7 +220,6 @@ Ist die Prüfung von Amts wegen begonnen worden, so wird die Prüfung
 nur fortgesetzt, wenn der Anmelder den Prüfungsantrag nach § 44 Abs. 1
 und 2 des Patentgesetzes stellt.
 
-
 ##### § 11 Recherche
 
 Auf Antrag des Patentinhabers oder eines Dritten ermittelt das
@@ -250,7 +228,6 @@ Deutsche Patentamt zu einem nach § 4 erstreckten Patent die
 Patentfähigkeit der Erfindung in Betracht zu ziehen sind (Recherche).
 § 43 Abs. 3 bis 6 und 7 Satz 1 des Patentgesetzes ist entsprechend
 anzuwenden.
-
 
 ##### § 12 Prüfung erteilter Patente
 
@@ -279,7 +256,6 @@ Patentgesetzes nicht anzuwenden.
 (5) § 130 des Patentgesetzes ist auf Prüfungsverfahren nach den
 Absätzen 1 und 2 entsprechend anzuwenden.
 
-
 ##### § 13 Einspruchsverfahren in besonderen Fällen
 
 Ist vom Deutschen Patentamt ein nach § 4 erstrecktes Patent nach § 18
@@ -288,14 +264,12 @@ bestätigt oder erteilt worden, so kann bis zum Ablauf des 31. Juli
 1992 noch Einspruch beim Deutschen Patentamt erhoben werden. Die §§ 59
 bis 62 des Patentgesetzes sind anzuwenden.
 
-
 ##### § 14 Überleitung von Berichtigungsverfahren
 
 Berichtigungsverfahren nach § 19 des Patentgesetzes der Deutschen
 Demokratischen Republik, die am 1. Mai 1992 beim Deutschen Patentamt
 noch anhängig sind, werden in der Lage, in der sie sich befinden, als
 Beschränkungsverfahren nach § 64 des Patentgesetzes weitergeführt.
-
 
 ##### § 15 Abzweigung
 
@@ -317,18 +291,11 @@ gegen Zahlung einer angemessenen Vergütung zu benutzen, und
 Weiterbenutzungsrechte nach § 28 gelten auch gegenüber einem nach
 Absatz 1 abgezweigten Gebrauchsmuster.
 
-
 #### Unterabschnitt 3 - (weggefallen)
-
-
 
 ##### (XXXX) §§ 16 bis 19 (weggefallen)
 
-
-
 #### Unterabschnitt 4 - Besondere Vorschriften für Marken
-
-
 
 ##### § 20 Löschung eingetragener Marken nach § 10 Abs. 2 des Warenzeichengesetzes
 
@@ -342,7 +309,6 @@ Warenzeichengesetzes nicht schutzfähig ist.
 4 erstreckten international registrierten Marke gemäß § 10 der
 Verordnung über die internationale Registrierung von Fabrik- oder
 Handelsmarken entsprechend anzuwenden.
-
 
 ##### § 21 Löschung eingetragener Marken nach § 11 des Warenzeichengesetzes
 
@@ -361,7 +327,6 @@ Abkommen über die internationale Registrierung von Marken gleich.
 Verordnung über die internationale Registrierung von Fabrik- oder
 Handelsmarken entsprechend anzuwenden.
 
-
 ##### § 22 Prüfung angemeldeter Marken
 
 (1) Auf nach § 4 erstreckte Markenanmeldungen sind die Vorschriften
@@ -375,7 +340,6 @@ Warenzeichengesetz nicht eintragbare Markenform handelt.
 (3) Die Absätze 1 und 2 sind auf nach § 4 erstreckte international
 registrierte Marken nach dem Madrider Abkommen über die internationale
 Registrierung von Marken entsprechend anzuwenden.
-
 
 ##### § 23 Bekanntmachung angemeldeter Marken, Widerspruch
 
@@ -414,12 +378,10 @@ gleich.
 die gegen eine nach § 4 erstreckte international registrierte Marke
 erhoben werden, entsprechend anzuwenden.
 
-
 ##### § 24 Schutzdauer
 
 Auf die Berechnung der Dauer des Schutzes von nach § 4 erstreckten
 Marken ist § 9 Abs. 1 des Warenzeichengesetzes anzuwenden.
-
 
 ##### § 25 Übertragung einer Marke, Warenzeichenverbände
 
@@ -445,14 +407,9 @@ eines Verbandszeichens nach § 17 Abs. 1 oder 2 und § 18 Satz 1 des
 Warenzeichengesetzes erfüllt; § 20 des Warenzeichengesetzes ist
 insoweit nicht anzuwenden.
 
-
 ### Abschnitt 3 - Übereinstimmende Rechte, Vorbenutzungs- und Weiterbenutzungsrechte
 
-
-
 #### Unterabschnitt 1 - Erfindungen
-
-
 
 ##### § 26 Zusammentreffen von Rechten
 
@@ -480,7 +437,6 @@ berechtigten Interessen der Beteiligten unbillig wäre.
 
 (3) (weggefallen)
 
-
 ##### § 27 Vorbenutzungsrechte
 
 (1) Ist die Wirkung eines nach § 1 oder § 4 erstreckten Patents oder
@@ -493,7 +449,6 @@ ergebenden Schranken im gesamten Bundesgebiet.
 (2) Absatz 1 ist entsprechend anzuwenden, wenn die Voraussetzungen für
 die Anerkennung eines Vorbenutzungsrechts in dem Gebiet vorliegen, in
 dem das Schutzrecht bisher nicht galt.
-
 
 ##### § 28 Weiterbenutzungsrechte
 
@@ -519,7 +474,6 @@ Falles für den Benutzer eine unbillige Härte darstellen würde.
 
 (3) (weggefallen)
 
-
 ##### § 29 Zusammentreffen mit Benutzungsrechten nach § 23 des Patentgesetzes
 
 Soweit Patente oder Patentanmeldungen, für die eine
@@ -534,10 +488,7 @@ Zeitrang gegen denjenigen geltend machen, der nach § 23 Abs. 3 Satz 4
 des Patentgesetzes berechtigt ist, die Erfindung zu benutzen. § 28
 bleibt unberührt.
 
-
 #### Unterabschnitt 2 - Warenzeichen, Marken und sonstige Kennzeichen
-
-
 
 ##### § 30 Warenzeichen und Marken
 
@@ -584,7 +535,6 @@ der übereinstimmenden Marke dadurch entstanden ist, daß das Zeichen in
 dem Gebiet, auf das es erstreckt worden ist, ohne seine Zustimmung
 benutzt worden ist.
 
-
 ##### § 31 Sonstige Kennzeichenrechte
 
 Treffen Warenzeichen oder Marken, die nach diesem Gesetz auf das in
@@ -593,7 +543,6 @@ Bundesgebiet erstreckt werden, infolge der Erstreckung mit einem
 Namen, einer Firma, einer besonderen Bezeichnung eines Unternehmens
 oder einem sonstigen durch Benutzung erworbenen Kennzeichenrecht
 zusammen, so ist § 30 entsprechend anzuwenden.
-
 
 ##### § 32 Weiterbenutzungsrecht
 
@@ -611,10 +560,7 @@ Berücksichtigung aller Umstände des Falles und bei Abwägung der
 berechtigten Interessen der Beteiligten und der Allgemeinheit unbillig
 wäre.
 
-
 ## Teil 2 - Umwandlung von Herkunftsangaben in Verbandszeichen
-
-
 
 ### § 33 Umwandlung
 
@@ -627,7 +573,6 @@ Warenzeichengesetzes) umgewandelt.
 (2) Die in Verbandszeichen umgewandelten Herkunftsangaben erhalten im
 übrigen Bundesgebiet denselben Zeitrang wie in dem in Artikel 3 des
 Einigungsvertrages genannten Gebiet.
-
 
 ### § 34 Antrag auf Umwandlung
 
@@ -649,13 +594,11 @@ der Anmeldung zu vermerken.
 Befugnis, Ansprüche hinsichtlich der betroffenen Herkunftsangaben nach
 den allgemeinen Vorschriften geltend zu machen.
 
-
 ### § 35 Anwendung des Warenzeichengesetzes
 
 Der Antrag auf Umwandlung wird, soweit nachfolgend nichts anders
 bestimmt ist, als Anmeldung eines Verbandszeichens nach den §§ 17 bis
 23 des Warenzeichengesetzes behandelt.
-
 
 ### § 36 Zusammentreffen von umgewandelten Herkunftsangaben und Warenzeichen
 
@@ -663,7 +606,6 @@ Die §§ 2 und 3, 20 bis 24 und 30 bis 32 sind auf Anträge auf
 Umwandlung von Herkunftsangaben in Verbandszeichen und als
 Verbandszeichen eingetragene umgewandelte Herkunftsangaben
 entsprechend anzuwenden.
-
 
 ### § 37 Schutzfähigkeit umgewandelter Herkunftsangaben
 
@@ -676,7 +618,6 @@ als geographische Angabe verloren hat und von den in Betracht
 kommenden Verkehrskreisen im gesamten Bundesgebiet ausschließlich als
 Warenname oder als Bezeichnung einer Sorte oder Art eines Erzeugnisses
 aufgefaßt wird.
-
 
 ### § 38 Weiterbenutzungsrecht
 
@@ -702,26 +643,15 @@ genannten Gebiet ansässigen Geschäftsbetriebs fortführt, so ist Absatz
 1 entsprechend anzuwenden mit der Maßgabe, daß die Frist zur
 Weiterbenutzung nach Satz 1 zehn Jahre beträgt.
 
-
 ## Teil 3 - (weggefallen)
-
-
 
 ### (XXXX) §§ 39 bis 46 (weggefallen)
 
-
-
 ## Teil 4 - Änderung von Gesetzen
-
-
 
 ### (XXXX) §§ 47 und 48
 
-
-
 ## Teil 5 - Übergangs- und Schlußvorschriften
-
-
 
 ### § 49 Arbeitnehmererfindungen
 
@@ -737,7 +667,6 @@ geltenden Vorschriften (Anlage I Kapitel III Sachgebiet E Abschnitt II
 Nr. 1 § 11 des Einigungsvertrages vom 31. August 1990, BGBl. 1990 II
 S. 885, 962).
 
-
 ### § 50 Überleitung von Schlichtungsverfahren
 
 Verfahren, die am 1. Mai 1992 bei der Schlichtungsstelle für
@@ -745,7 +674,6 @@ Vergütungsstreitigkeiten des Deutschen Patentamts noch anhängig sind,
 gehen in der Lage, in der sie sich befinden, auf die beim Deutschen
 Patentamt nach dem Gesetz über Arbeitnehmererfindungen errichtete
 Schiedsstelle über.
-
 
 ### § 51 Überleitung von Beschwerde- und Nichtigkeitsverfahren
 
@@ -759,14 +687,12 @@ Löschung von Warenkennzeichen des Deutschen Patentamts noch anhängig
 sind, werden von der Warenzeichenabteilung des Deutschen Patentamts
 fortgeführt.
 
-
 ### § 52 Fristen
 
 Ist Gegenstand des Verfahrens ein nach § 4 erstrecktes Schutzrecht
 oder eine nach § 4 erstreckte Schutzrechtsanmeldung, so richtet sich
 der Lauf einer verfahrensrechtlichen Frist, der vor dem 1. Mai 1992
 begonnen hat, nach den bisher anzuwendenden Rechtsvorschriften.
-
 
 ### § 53 Gebühren
 
@@ -778,14 +704,12 @@ sind nach den bisher anzuwendenden Rechtsvorschriften zu entrichten.
 diesem Zeitpunkt nach den bisherigen Gebührensätzen wirksam entrichtet
 worden, so gilt die Gebührenschuld als getilgt.
 
-
 ### § 54 Anwendung des Gesetzes gegen den unlauteren Wettbewerb und sonstiger Rechtsvorschriften
 
 Die Anwendung des Gesetzes gegen den unlauteren Wettbewerb und der
 allgemeinen Vorschriften über den Erwerb oder die Ausübung von
 Rechten, wie insbesondere über den Rechtsmißbrauch, wird durch die
 Bestimmungen dieses Gesetzes nicht berührt.
-
 
 ### § 55 Inkrafttreten
 

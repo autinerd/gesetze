@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 2 V v. 23. 6.1993 I 1024
 
-
 ## Eingangsformel
 
 Auf Grund des § 6 Abs. 1 Nr. 3 Buchstabe a in Verbindung mit Abs. 3
@@ -30,7 +29,6 @@ durch § 70 Abs. 1 Nr. 3 des Gesetzes vom 15. März 1974 (BGBl. I S.
 721) und geändert gemäß Artikel 22 Nr. 3 der Verordnung vom 26.
 November 1986 (BGBl. I S. 2089), verordnet der Bundesminister für
 Verkehr nach Anhörung der zuständigen obersten Landesbehörden:
-
 
 ## § 1
 
@@ -51,11 +49,9 @@ erstmals in den Verkehr gekommen sind und ihre Breite nicht mehr als
 1 des Einigungsvertrages genannten Gebiet und dem Land Berlin benutzt
 werden, nicht mehr als 3,50 m beträgt.
 
-
 ## § 2
 
 -
-
 
 ## § 3
 
@@ -72,7 +68,6 @@ der Herstellung der deutschen Einheit (ABl. EG Nr. L 353 S. 13)
 eingefügt worden ist, nicht mit Fahrtschreibern ausgerüstet zu sein. §
 4 der Kontrollmittel-Verordnung vom 16. Mai 1991 (BGBl. I S. 1134)
 bleibt unberührt.
-
 
 ## § 4
 

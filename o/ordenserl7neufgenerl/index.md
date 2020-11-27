@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 1530
 
-
 ## (XXXX)
 
 Der Bundesminister der Verteidigung hat am 9. November 2010 den Erlass
@@ -35,7 +34,6 @@ Verteidigung.
 Das Bundesministerium des Innern veröffentlicht den neu gefassten
 Erlass über die Stiftung der Einsatzmedaille der Bundeswehr im
 Bundesanzeiger.
-
 
 ## Schlussformel
 

@@ -19,16 +19,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 G v. 10.12.2008 I 2399
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## I. - Ausgehende Ersuchen
-
-
 
 ### § 1
 
@@ -41,7 +37,6 @@ Auskunftsersuchen des Gerichts die gerichtliche Genehmigung des
 Ersuchens beizufügen. Das Auskunftsersuchen ist von dem Gericht der
 Übermittlungsstelle vorzulegen.
 
-
 ### § 2
 
 Eine Mitteilung des anderen Vertragsstaats, daß für die Erledigung des
@@ -49,7 +44,6 @@ Ersuchens mit Kosten zu rechnen ist (Artikel 6 Abs. 3 des
 Übereinkommens), leitet die Übermittlungsstelle dem ersuchenden
 Gericht zu. Das Gericht teilt der Übermittlungsstelle mit, ob das
 Ersuchen aufrechterhalten wird.
-
 
 ### § 3
 
@@ -59,17 +53,13 @@ von der Übermittlungsstelle dem anderen Vertragsstaat zu erstatten.
 Das ersuchende Gericht übermittelt den Kostenbetrag der
 Übermittlungsstelle.
 
-
 ### § 4
 
 Die Vernehmung einer Person, die ein Auskunftsersuchen in einem
 anderen Vertragsstaat bearbeitet hat, ist zum Zwecke der Erläuterung
 oder Ergänzung der Antwort unzulässig.
 
-
 ## II. - Eingehende Ersuchen
-
-
 
 ### § 5
 
@@ -81,7 +71,6 @@ der Regierung des Landes bestimmte Stelle zur einheitlichen
 Beantwortung weiterleiten. Gilt Landesrecht in mehreren Ländern
 gleichlautend, so kann die Beantwortung der Stelle eines der Länder
 übertragen werden.
-
 
 ### § 6
 
@@ -102,7 +91,6 @@ Zivilprozeßordnung und des § 4 des Justizvergütungs- und
 -entschädigungsgesetzes ist das Amtsgericht am Sitz der Empfangsstelle
 zuständig.
 
-
 ### § 7
 
 Wird die Auskunft von einer privaten Stelle oder rechtskundigen Person
@@ -111,7 +99,6 @@ Entschädigung dieser Stelle oder Person der Empfangsstelle. Die
 Empfangsstelle nimmt die Zahlungen des ersuchenden Staates entgegen.
 Die Kostenrechnung ist der Empfangsstelle mit der Auskunft zu
 übersenden.
-
 
 ### § 8
 
@@ -126,10 +113,7 @@ Beantwortung übertragen (Artikel 6 des Übereinkommens, § 6),
 übermittelt die Empfangsstelle die Zahlungen des ersuchenden Staates
 dieser Stelle.
 
-
 ## III. - Sonstige Bestimmungen
-
-
 
 ### § 9
 
@@ -157,13 +141,11 @@ Bundesgerichten ausgehen.
 Satz 1 und 3 sowie § 9 Abs. 2 Satz 2 auf die Landesjustizverwaltungen
 übertragen.
 
-
 ### § 10
 
 Die Vorschriften dieses Gesetzes, mit Ausnahme von § 1 Satz 2, sind
 auf Auskünfte nach Kapitel I des Zusatzprotokolls vom 15. März 1978
 (BGBl. 1987 II S. 58) zu dem Übereinkommen entsprechend anzuwenden.
-
 
 ### § 11
 
@@ -173,7 +155,6 @@ Recht in Kraft.
 
 (2) Der Tag, an dem dieses Gesetz in Kraft tritt, ist im
 Bundesgesetzblatt bekanntzugeben.
-
 
 ### § 11
 

@@ -18,14 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 Abs. 10 G v. 22.12.2011 I 3044
 
-
 ## § 1 Rechtsform, Name
 
 Im Geschäftsbereich des Bundesministeriums für Ernährung,
 Landwirtschaft und Verbraucherschutz (Bundesministerium) wird ein
 "Bundesamt für Verbraucherschutz und Lebensmittelsicherheit"
 (Bundesamt) als selbständige Bundesoberbehörde errichtet.
-
 
 ## § 2 Tätigkeiten
 
@@ -262,7 +260,6 @@ Unterausschüsse nach Absatz 3 Satz 1 und Absatz 5 Satz 1.
 Tätigkeitsgebiet des Bundesinstitutes fallen, im Rahmen der Erledigung
 seiner Aufgaben.
 
-
 ## § 3 Aufgabendurchführung
 
 (1) Das Bundesamt erledigt im Rahmen der ihm durch § 2 Absatz 1 und 2
@@ -273,7 +270,6 @@ Bundesamt durch Gesetz oder auf Grund eines Gesetzes zugewiesen sind.
 gesetzlich festgelegt ist, Aufgaben des Bundes in seinem
 Tätigkeitsbereich, mit deren Durchführung das Bundesamt vom
 Bundesministerium beauftragt wird.
-
 
 ## § 4 Bekanntmachungen im Bundesanzeiger
 
@@ -300,13 +296,11 @@ In den in Satz 1 bezeichneten Rechtsverordnungen kann die
 Zuständigkeit des Bundesministeriums ganz oder teilweise auf das
 Bundesamt übertragen werden.
 
-
 ## § 5 Aufsicht im besonderen Fall
 
 Soweit das Bundesamt Aufgaben aus einem anderen Geschäftsbereich als
 dem des Bundesministeriums wahrnimmt, untersteht es den fachlichen
 Weisungen der sachlich zuständigen obersten Bundesbehörde.
-
 
 ## § 6 Kostenerhebung
 
@@ -338,7 +332,6 @@ Verwaltungsaufwand berücksichtigt werden kann, soweit die jeweilige
 Mitwirkung durch Rechtsvorschrift angeordnet ist oder auf einer
 Rechtsvorschrift beruht.
 
-
 ## § 7 Übernahme der Beamtinnen und Beamten und Arbeitnehmerinnen und Arbeitnehmer
 
 (1) Die beim Bundesinstitut für gesundheitlichen Verbraucherschutz und
@@ -367,7 +360,6 @@ Arbeitnehmerinnen und Arbeitnehmer sind mit dem Inkrafttreten dieses
 Gesetzes in den Dienst des Bundesamtes übernommen, soweit sie bislang
 ausschließlich Aufgaben wahrgenommen haben, die künftig vom Bundesamt
 wahrgenommen werden.
-
 
 ## § 8 (weggefallen)
 

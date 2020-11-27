@@ -17,7 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 3819
 
-
 ## (XXXX)
 
 Der Deutsche Bundestag hat in seiner konstituierenden Sitzung am 27.
@@ -27,7 +26,6 @@ Staatssicherheit/Amt für Nationale Sicherheit der ehemaligen Deutschen
 Demokratischen Republik vom 13. Dezember 1991 (BGBl. 1992 I S. 76),
 zuletzt geändert durch Bekanntmachung vom 21. Oktober 2005 (BGBl. I S.
 3094), zu übernehmen.
-
 
 ## Schlussformel
 

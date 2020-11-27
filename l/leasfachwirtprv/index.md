@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1995, 1570
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August
@@ -29,7 +27,6 @@ November 1994 (BGBl. I S. 3667) verordnet das Bundesministerium für
 Bildung, Wissenschaft, Forschung und Technologie nach Anhörung des
 Ständigen Ausschusses des Bundesinstituts für Berufsbildung und im
 Einvernehmen mit dem Bundesministerium für Wirtschaft:
-
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
 
@@ -67,7 +64,6 @@ folgenden Aufgaben eines Leasingfachwirtes wahrzunehmen:
 (3) Die erfolgreich abgelegte Prüfung führt zum anerkannten Abschluß
 Geprüfter Leasingfachwirt/Geprüfte Leasingfachwirtin.
 
-
 ## § 2 Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer
@@ -96,7 +92,6 @@ wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft
 macht, daß er Kenntnisse, Fertigkeiten und Erfahrungen erworben hat,
 die die Zulassung zur Prüfung rechtfertigen.
 
-
 ## § 3 Gliederung und Inhalt der Prüfung
 
 (1) Die Prüfung gliedert sich in
@@ -116,7 +111,6 @@ Maßgabe der §§ 4 und 5 durchzuführen.
 verschiedenen Prüfungsterminen geprüft werden; dabei ist mit dem
 letzten Prüfungsteil spätestens zwei Jahre nach dem ersten Prüfungstag
 des als ersten abgelegten Prüfungsteils zu beginnen.
-
 
 ## § 4 Wirtschaftszweigübergreifender Teil
 
@@ -334,7 +328,6 @@ Prüfung zu ergänzen, wenn sie für das Bestehen der Prüfung oder für
 die eindeutige Beurteilung der Prüfungsleistung von wesentlicher
 Bedeutung ist. Die Ergänzungsprüfung soll je Prüfungsfach und je
 Prüfungsteilnehmer nicht länger als 10 Minuten dauern.
-
 
 ## § 5 Wirtschaftszweigspezifischer Teil
 
@@ -561,7 +554,6 @@ die eindeutige Beurteilung der Prüfungsleistung von wesentlicher
 Bedeutung ist. Die Ergänzungsprüfung soll je Prüfungsfach und
 Prüfungsteilnehmer nicht länger als zehn Minuten dauern.
 
-
 ## § 6 Anrechnung anderer Prüfungsleistungen
 
 Von der Prüfung in einzelnen Prüfungsteilen und Prüfungsfächern gemäß
@@ -573,7 +565,6 @@ Prüfung in den letzten fünf Jahren vor Antragstellung bestanden hat,
 deren Inhalt den Anforderungen dieser Prüfungsteile oder
 Prüfungsfächer entspricht. Eine vollständige Freistellung ist nicht
 zulässig.
-
 
 ## § 7 Bestehen der Prüfung
 
@@ -593,7 +584,6 @@ auszustellen. Im Fall einer Freistellung gemäß § 6 sind Ort und Datum
 sowie Bezeichnung des Prüfungsgremiums der anderweitig abgelegten
 Prüfung anzugeben.
 
-
 ## § 8 Wiederholung der Prüfung
 
 (1) Eine Prüfung, die nicht bestanden ist, kann zweimal wiederholt
@@ -605,7 +595,6 @@ befreien, wenn seine Leistungen darin in einer vorangegangenen Prüfung
 ausgereicht haben und er sich innerhalb von zwei Jahren, gerechnet vom
 Tage der Beendigung der nicht bestandenen Prüfung an, zur
 Wiederholungsprüfung anmeldet.
-
 
 ## § 9 Übergangsvorschriften
 
@@ -622,11 +611,9 @@ Antrag des Prüfungsteilnehmers die Wiederholungsprüfung gemäß dieser
 Verordnung durchführen; § 8 Abs. 2 findet in diesem Fall keine
 Anwendung.
 
-
 ## § 10 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Anlage (zu § 7 Abs. 3)
 

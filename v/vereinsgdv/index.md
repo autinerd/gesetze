@@ -19,13 +19,11 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 6 Abs. 1 G v. 22.8.2002 I 3390
 
-
 ## Eingangsformel
 
 Auf Grund des § 19 des Gesetzes zur Regelung des öffentlichen
 Vereinsrechts (Vereinsgesetz) vom 5. August 1964 (Bundesgesetzbl. I S.
 593) verordnet die Bundesregierung mit Zustimmung des Bundesrates:
-
 
 ## § 1 Bekanntgabe des Verbots an Teilorganisationen
 
@@ -46,10 +44,6 @@ Vereins bekannt.
     sofern die Tat nicht nach den §§ 49b, 90a, 90b, 96a oder den §§ 129
     bis 129b des Strafgesetzbuches, jeweils allein oder in Verbindung mit
     § 94 des Strafgesetzbuchs mit schwererer Strafe bedroht ist.
-
-
-
-
 
 ## § 2 Registereintragung
 
@@ -85,7 +79,6 @@ Eintragung ist gebührenfrei.
 Grundschuld oder Rentenschuld, über die ein Brief erteilt ist, braucht
 der Brief nicht vorgelegt zu werden.
 
-
 ## § 3 Sicherstellung von Sachen
 
 Sachen und Sachgesamtheiten werden dadurch sichergestellt, daß die
@@ -93,7 +86,6 @@ Vollzugsbehörde sie in Gewahrsam nimmt. Läßt die Eigenart der
 sicherzustellenden Sachen dies nicht zu, ist die Sicherstellung durch
 Anbringung von Siegelmarken oder auf andere Weise kenntlich zu machen.
 Die Sicherstellung soll dem Gewahrsamsinhaber angezeigt werden.
-
 
 ## § 4 Sicherstellung von Sachen im Gewahrsam Dritter
 
@@ -107,7 +99,6 @@ das Vereinsverbot und auf die Beschlagnahme des Vereinsvermögens
 hinzuweisen sowie darzulegen, daß die sichergestellte Sache zum
 Vereinsvermögen gehört.
 
-
 ## § 5 Aufhebung der Sicherstellung
 
 Die Sicherstellung ist aufzuheben, wenn ihre Voraussetzungen
@@ -117,7 +108,6 @@ die Sachen nicht innerhalb von sechs Monaten seit der Beschlagnahme
 nach § 12 Abs. 2 des Vereinsgesetzes eingezogen wurden. Die Frist
 endet nicht vor Ablauf eines Monats nach Eintritt der Rechtskraft des
 Urteils in einem Rechtsstreit über das Eigentum.
-
 
 ## § 6 Beschlagnahme von Rechten
 
@@ -131,7 +121,6 @@ an den Verein oder an den Gläubiger zu leisten, und den Gläubigern,
 (2) Für die Beschlagnahme anderer Vermögensrechte gilt Absatz 1
 entsprechend.
 
-
 ## § 7 Beendigung der Beschlagnahme
 
 (1) Mit dem Eintritt der Rechtskraft des das Vereinsverbot aufhebenden
@@ -144,7 +133,6 @@ die Einziehung des Vereinsvermögens angeordnet wurde.
 
 (3) Die Verbotsbehörde hat einzelne Gegenstände von der Beschlagnahme
 auszunehmen, auf die § 13 Abs. 2 des Vereinsgesetzes angewandt wurde.
-
 
 ## § 8 Bestellung und Abberufung von Verwaltern
 
@@ -164,7 +152,6 @@ Beschlagnahme des Vereinsvermögens, mit dem Erwerb des
 Vereinsvermögens durch den Einziehungsbegünstigten (§ 11 Abs. 2 Satz 1
 des Vereinsgesetzes) oder mit der Abberufung durch die Verbotsbehörde.
 Die Abberufung kann jederzeit ohne Angabe von Gründen erfolgen.
-
 
 ## § 9 Rechte und Pflichten des Verwalters
 
@@ -200,7 +187,6 @@ beschlagnahmten Vermögens in gerichtlichen Verfahren wahr. Im
 anhängigen gerichtlichen Verfahren geht die Befugnis zur Prozeßführung
 mit der Beschlagnahme auf den Verwalter über. Die §§ 241, 246 der
 Zivilprozeßordnung gelten entsprechend.
-
 
 ## § 10 Vergütung des Verwalters
 
@@ -240,7 +226,6 @@ Anspruch im Falle des § 3 Abs. 2 Nr. 1 des Vereinsgesetzes gegen das
 Land, im Falle des § 3 Abs. 2 Nr. 2 des Vereinsgesetzes gegen den
 Bund.
 
-
 ## § 11 Von der Einziehungsbehörde bestellte Verwalter
 
 Ein von der Einziehungsbehörde bestellter Verwalter (§ 11 Abs. 3 Satz
@@ -251,7 +236,6 @@ nach den §§ 11 bis 13 des Vereinsgesetzes der Verbotsbehörde oder der
 Einziehungsbehörde vorbehalten sind. Die §§ 8, 9 Abs. 1, 3, 4 und § 10
 gelten entsprechend.
 
-
 ## § 12 Verwaltung durch die Vollzugsbehörde
 
 Ist kein Verwalter bestellt, hat die Vollzugsbehörde das
@@ -259,7 +243,6 @@ beschlagnahmte Vermögen zu verwalten. Sie hat das beschlagnahmte
 Vermögen in Besitz zu nehmen und alle Handlungen vorzunehmen, die
 erforderlich sind, um den wirtschaftlichen Wert des Vereinsvermögens
 zu erhalten. § 9 Abs. 1 Satz 2, Abs. 3 und 4 gilt entsprechend.
-
 
 ## § 13 Mitteilung des Rechtsübergangs
 
@@ -280,10 +263,6 @@ Abs. 2 Satz 1 des Vereinsgesetzes erfolgten Rechtsübergang in Kenntnis
 4.  die Inhaber sonstiger Rechte, die nach § 11 Abs. 2 des Vereinsgesetzes
     von der Einziehung erfaßt werden.
 
-
-
-
-
 ## § 14 Einziehungsverfügung
 
 Einziehungsverfügungen nach § 12 des Vereinsgesetzes sind schriftlich
@@ -291,7 +270,6 @@ abzufassen und dem Inhaber des eingezogenen Gegenstands zuzustellen.
 Sie müssen den Gegenstand der Einziehung und dessen Inhaber
 bezeichnen. In der schriftlichen Begründung ist auf das Vereinsverbot
 und den Grund der Einziehung hinzuweisen.
-
 
 ## § 15 Anmeldung von Forderungen
 
@@ -325,7 +303,6 @@ betragen. Die Behörde soll die Aufforderung rechtzeitig vor dem Ablauf
 der Ausschlußfrist in den amtlichen Mitteilungsblättern der Länder
 nachrichtlich veröffentlichen.
 
-
 ## § 16 Vorzeitige Befriedigung von Forderungen
 
 (1) Forderungen, für die ein Vorrecht nach § 61 Nr. 1 der
@@ -343,7 +320,6 @@ auch dann vorzeitig befriedigt werden, wenn mit Sicherheit zu erwarten
 ist, daß die Verwertung des eingezogenen Vermögens eine zur
 Befriedigung aller Gläubiger ausreichende bare Masse ergeben wird.
 
-
 ## § 17 Härtefälle
 
 (1) Eine unbillige Härte im Sinne des § 13 Abs. 2 des Vereinsgesetzes
@@ -356,7 +332,6 @@ eintretender Rechtsverlust unterbleibt oder von der Einziehung nach §
 12 des Vereinsgesetzes abgesehen wird, ergeht durch schriftlichen
 Bescheid an den Betroffenen. Ergeht die Anordnung nach Eintritt des
 Rechtsverlustes oder nach erfolgter Einziehung, so hebt sie diese auf.
-
 
 ## § 18 Berichtigung des Grundbuchs, des Schiffsregisters und des Schiffsbauregisters
 
@@ -385,7 +360,6 @@ Schiffsbauregisters entsprechend mit der Maßgabe, daß an die Stelle
 des § 39 Abs. 2 und des § 40 Abs. 1 der Grundbuchordnung § 46 der
 Schiffsregisterordnung in der Fassung vom 26. Mai 1951
 (Bundesgesetzbl. I S. 359) tritt.
-
 
 ## § 19 Anmeldepflicht für Ausländervereine
 
@@ -425,7 +399,6 @@ aufgefordert werden.
 deutscher Sprache zu erstatten. Die Behörde erteilt hierüber eine
 Bescheinigung, für die keine Gebühren und Auslagen erhoben werden.
 
-
 ## § 20 Auskunftspflicht für Ausländervereine
 
 (1) Ausländervereine mit Sitz im Geltungsbereich des Vereinsgesetzes
@@ -451,7 +424,6 @@ Auskunft zu geben
 (2) Die Auskunftspflicht obliegt den in § 19 Abs. 1 Satz 2
 bezeichneten Personen.
 
-
 ## § 21 Anmelde- und Auskunftspflicht ausländischer Vereine
 
 (1) Für ausländische Vereine, die im Geltungsbereich des
@@ -467,25 +439,21 @@ nur die Behörde dieses Landes zuständig.
 Deutschland, jedoch außerhalb des Geltungsbereichs des Vereinsgesetzes
 haben.
 
-
 ## § 22 Mitteilung an das Bundesverwaltungsamt
 
 Die zuständigen Behörden teilen die Angaben, die sie auf Grund der §§
 19 bis 21 erhalten, dem Bundesverwaltungsamt mit.
-
 
 ## § 23 Zuwiderhandlungen gegen Anmelde- und Auskunftspflichten
 
 Ordnungswidrig im Sinne des § 21 des Vereinsgesetzes handelt, wer den
 Anmelde- oder Auskunftspflichten nach den §§ 19 bis 21 zuwiderhandelt.
 
-
 ## § 24 Geltung im Land Berlin
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit § 33 Abs.
 2 des Vereinsgesetzes auch im Land Berlin.
-
 
 ## § 25 Inkrafttreten
 

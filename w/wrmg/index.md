@@ -26,11 +26,9 @@ Informationsgesellschaft (ABl. EG Nr. L 204 S. 37), geändert durch die
 Richtlinie 98/48/EG des Europäischen Parlaments und des Rates vom 20.
 Juli 1998 (ABl. EG Nr. L 217 S. 18), sind beachtet worden.
 
-
 ## Eingangsformel
 
 Der Bundestag hat das folgende Gesetz beschlossen:
-
 
 ## § 1 Anwendungsbereich
 
@@ -40,7 +38,6 @@ Reinigungsmitteln. Es gilt ergänzend zu der Verordnung (EG) Nr.
 über Detergenzien (ABl. EU Nr. L 104 S. 1). Die Vorschriften des
 Chemikaliengesetzes und der aufgrund des Chemikaliengesetzes
 erlassenen Rechtsverordnungen bleiben unberührt.
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -70,7 +67,6 @@ Gemische oder Produkte. Als Wasch- und Reinigungsmittel gelten auch
 Verordnung (EG) Nr. 648/2004. Diese Begriffsbestimmungen gelten für
 Wasch- und Reinigungsmittel im Sinne von Absatz 1 Satz 2 entsprechend.
 
-
 ## § 3 Allgemeine Pflichten
 
 (1) Wasch- und Reinigungsmittel im Sinne von § 2 Abs. 1 Satz 2 Nr. 1
@@ -95,7 +91,6 @@ derartige Wasch- und Reinigungsmittel bestimmte Tenside dürfen nur in
 den Verkehr gebracht werden, wenn der hierfür Verantwortliche eine
 Niederlassung in der Europäischen Union hat.
 
-
 ## § 4 Abbaubarkeit von Tensiden
 
 (1) Es ist verboten, tensidhaltige Wasch- und Reinigungsmittel im
@@ -115,7 +110,6 @@ der in ihnen enthaltenen anionischen und nichtionischen Tenside nicht
 einer Rate von mindestens 80 vom Hundert entspricht, die nach der in
 Anhang II der Verordnung (EG) Nr. 648/2004 unter Ziffer 3 genannten
 Prüfmethode zu messen ist.
-
 
 ## § 5 Höchstmengen von Phosphorverbindungen
 
@@ -137,7 +131,6 @@ Phosphorverbindungen in Wasch- und Reinigungsmitteln sowie das für die
 Bestimmung des Gehalts an Phosphorverbindungen erforderliche Verfahren
 festzulegen.
 
-
 ## § 6 Weitere Anforderungen an die Umweltverträglichkeit von Wasch- und Reinigungsmitteln und deren Inhaltsstoffen
 
 Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten
@@ -153,10 +146,6 @@ Abwasseranlagen über die Regelungen der §§ 4 und 5 hinaus
 
 2.  das Inverkehrbringen von Wasch- und Reinigungsmitteln zu beschränken.
 
-
-
-
-
 ## § 7 Anhörung beteiligter Kreise
 
 In den Fällen des § 5 Abs. 2 und § 6 ist ein jeweils auszuwählender
@@ -164,7 +153,6 @@ Kreis von Vertretern der Wasserversorgung und des Gewässerschutzes,
 der für die Wasserwirtschaft zuständigen obersten Landesbehörden, der
 Wissenschaft, der Verbraucher sowie der beteiligten Wirtschaft zu
 hören.
-
 
 ## § 8 Kennzeichnung, Veröffentlichung des Datenblattes über Inhaltsstoffe
 
@@ -179,7 +167,6 @@ Chemikaliengesetzes über die Kennzeichnung bleiben unberührt.
 D der Verordnung (EG) Nr. 648/2004 spätestens ab dem Zeitpunkt des
 Inverkehrbringens der Wasch- und Reinigungsmittel ein Verzeichnis der
 Inhaltsstoffe zur Verfügung zu stellen.
-
 
 ## § 9 Angabe der Wasserhärtebereiche
 
@@ -207,10 +194,6 @@ Weise mitzuteilen.
 
     *   mehr als 2,5 Millimol
         Calciumcarbonat je Liter.
-
-
-
-
 
 ## § 10 Übermittlung von Daten zu medizinischen Zwecken
 
@@ -249,7 +232,6 @@ Chemikaliengesetzes.
 der Absätze 1 bis 3 der Fachaufsicht des Bundesministeriums für
 Umwelt, Naturschutz und Reaktorsicherheit.
 
-
 ## § 11 Verzeichnis anerkannter Labors
 
 Das Umweltbundesamt übermittelt den anderen Mitgliedstaaten der
@@ -259,7 +241,6 @@ Verordnung (EG) Nr. 648/2004 erforderlichen Prüfverfahren nach Artikel
 8 Abs. 2 der Verordnung (EG) Nr. 648/2004 befähigt und befugt sind,
 und unterrichtet die Europäische Kommission regelmäßig über
 eingetretene Änderungen.
-
 
 ## § 12 Aufgaben und Zuständigkeiten des Umweltbundesamtes
 
@@ -282,7 +263,6 @@ Verordnung (EG) Nr. 648/2004. Das Umweltbundesamt unterrichtet die
 zuständige oberste Landesbehörde über den Eingang eines Antrages auf
 Erteilung einer Ausnahmegenehmigung nach Artikel 5 Abs. 1 der
 Verordnung (EG) Nr. 648/2004.
-
 
 ## § 13 Überwachung
 
@@ -320,7 +300,6 @@ der in § 383 Abs. 1 Nr. 1 bis 3 der Zivilprozessordnung bezeichneten
 Angehörigen der Gefahr der Verfolgung wegen einer Straftat oder
 Ordnungswidrigkeit aussetzen würde.
 
-
 ## § 14 Behördliche Anordnungen
 
 (1) Die zuständige Landesbehörde kann im Einzelfall die Anordnungen
@@ -342,7 +321,6 @@ für Risikobewertung. Das Umweltbundesamt unterrichtet unverzüglich die
 anderen Mitgliedstaaten der Europäischen Union, die Europäische
 Kommission sowie die für die Überwachung zuständige Landesbehörde
 unter Angabe der Gründe über die getroffene Entscheidung.
-
 
 ## § 15 Bußgeldvorschriften
 
@@ -414,7 +392,6 @@ zehntausend Euro geahndet werden.
 (5) Gegenstände, auf die sich die Ordnungswidrigkeit bezieht, können
 eingezogen werden.
 
-
 ## § 16 Kosten
 
 (1) Das Umweltbundesamt erhebt für seine Amtshandlungen nach der
@@ -424,7 +401,6 @@ Verordnung (EG) Nr. 648/2004 Kosten (Gebühren und Auslagen).
 nicht der Zustimmung des Bundesrates bedarf, die gebührenpflichtigen
 Tatbestände und die Gebührensätze für Amtshandlungen des
 Umweltbundesamtes nach Absatz 1 zu bestimmen.
-
 
 ## § 17 Inkrafttreten, Außerkrafttreten
 

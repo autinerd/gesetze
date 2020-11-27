@@ -22,7 +22,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 48 G v. 23.11.2007 I 2614
 
-
 ## § 1 Anwendung von Strafvorschriften zum Schutz der Vertragsstaaten des Nordatlantikpaktes
 
 (1) Zum Schutz der nichtdeutschen Vertragsstaaten des
@@ -178,7 +177,6 @@ Taten gegen diese Truppen mit folgenden Besonderheiten anzuwenden:
 (4) Die Absätze 1 bis 3 gelten nur für Straftaten, die im räumlichen
 Geltungsbereich dieses Gesetzes begangen werden.
 
-
 ## § 2 Anwendung von Bußgeldvorschriften zum Schutz der Vertragsstaaten des Nordatlantikpaktes
 
 Zum Schutz der in der Bundesrepublik Deutschland stationierten Truppen
@@ -202,10 +200,6 @@ Besonderheiten anzuwenden:
     Sicherheitsgründen zur Erfüllung dienstlicher Aufgaben dieser Truppen
     gesperrt sind.
 
-
-
-
-
 ## § 3 Anwendung von Vorschriften des Gerichtsverfassungsgesetzes bei Straftaten gegen die Vertragsstaaten des Nordatlantikpaktes
 
 Für die Anwendung der Vorschriften des Gerichtsverfassungsgesetzes
@@ -214,7 +208,6 @@ Für die Anwendung der Vorschriften des Gerichtsverfassungsgesetzes
 Strafsachen stehen die in § 1 genannten Straftaten den ihnen
 entsprechenden Verstößen gegen Vorschriften des Strafgesetzbuches
 gleich.
-
 
 ## § 4 Anwendung von Vorschriften der Strafprozessordnung bei Straftaten gegen die Vertragsstaaten des Nordatlantikpaktes
 

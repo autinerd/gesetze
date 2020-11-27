@@ -18,12 +18,10 @@ Fundstelle
 Geändert durch
 :   Art. 16 G v. 27.4.2002 I 1467
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## § 1
 
@@ -38,7 +36,6 @@ ausüben.
 (2) Der Apothekerassistent ist befugt, pharmazeutische Tätigkeiten
 nach Maßgabe der Apothekenbetriebsordnung in der Apotheke unter der
 Verantwortung eines Apothekers auszuüben.
-
 
 ## § 2
 
@@ -60,7 +57,6 @@ Apotheke ist zu untersagen, wenn der Apothekerassistent
 (3) Die Untersagung ist auf Antrag aufzuheben, wenn ihre
 Voraussetzungen nicht mehr vorliegen.
 
-
 ## § 3
 
 (1) Ordnungswidrig handelt, wer ohne Befugnis (§ 1 Abs. 1) oder nach
@@ -70,20 +66,17 @@ vollziehbarer Untersagung (§ 2) die Berufsbezeichnung
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünftausend
 Deutsche Mark geahndet werden.
 
-
 ## § 4
 
 Erlaubnisse zur Beschäftigung in der Apotheke, die vorgeprüften
 Apothekeranwärtern vor Inkrafttreten dieses Gesetzes erteilt worden
 sind, erlöschen mit dem Inkrafttreten dieses Gesetzes.
 
-
 ## § 5
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
 im Land Berlin.
-
 
 ## § 6
 

@@ -19,11 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 184 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Der Bundestag hat das folgende Gesetz beschlossen:
-
 
 ## Art 1
 
@@ -32,7 +30,6 @@ Dem Beitritt der Bundesrepublik Deutschland zu dem Internationalen
 Protokoll vom 19. November 1956 zu diesem Übereinkommen wird
 zugestimmt.
 
-
 ## Art 2
 
 Das Bundesministerium für Ernährung, Landwirtschaft und
@@ -40,13 +37,11 @@ Verbraucherschutz wird ermächtigt, durch Rechtsverordnung Änderungen
 der Anlage des Übereinkommens nach dessen Artikel V, die sich im
 Rahmen der Ziele des Übereinkommens halten, in Kraft zu setzen.
 
-
 ## Art 3
 
 Die Bundesanstalt für Landwirtschaft und Ernährung ist für die
 Durchführung von Vorschriften zur Erhaltung und Nutzung der
 Waldbestände zuständig.
-
 
 ## Art 4
 
@@ -54,7 +49,6 @@ Das Bundesministerium für Ernährung, Landwirtschaft und
 Verbraucherschutz wird ermächtigt, durch Rechtsverordnung Änderungen
 der Anlage des Übereinkommens nach dessen Artikel V, die sich im
 Rahmen der Ziele des Übereinkommens halten, in Kraft zu setzen.
-
 
 ## Art 5
 

@@ -21,7 +21,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 G v. 22.12.2011 I 3069
 
-
 ## § 1
 
 Dem Bund obliegen auf dem Gebiet der Seeschifffahrt
@@ -207,10 +206,6 @@ Dem Bund obliegen auf dem Gebiet der Seeschifffahrt
     erforderlichen vorbereitenden Maßnahmen und internationalen
     Zulassungsverfahren.
 
-
-
-
-
 ## § 2
 
 (1) Die seemännischen Fachschulen sind Einrichtungen der Länder. Die
@@ -338,7 +333,6 @@ als Organ entleihen. Die Einzelheiten sind in
 Verwaltungsvereinbarungen mit dem jeweiligen Bundesland zu regeln.
 Diese Vereinbarungen sind im Bundesanzeiger bekannt zu machen."
 
-
 ## § 3
 
 (1) Die Behörden der Wasser- und Schifffahrtsverwaltung des Bundes
@@ -372,7 +366,6 @@ Maßgabe einer Vereinbarung mit den Küstenländern über die Ausübung der
 schiffahrtspolizeilichen Vollzugsaufgaben von der Wasserschutzpolizei
 ausgeübt werden.
 
-
 ## § 3a
 
 (1) Hat eine Person eine Störung oder eine Gefahr verursacht, so haben
@@ -390,7 +383,6 @@ diese gegen den Willen des Eigentümers oder des sonstigen Berechtigten
 ausübt. Gehen Störung oder Gefahr von einer herrenlosen Sache aus, so
 können die Maßnahmen gegen denjenigen gerichtet werden, der das
 Eigentum an der Sache aufgegeben hat.
-
 
 ## § 3b
 
@@ -420,7 +412,6 @@ Luftfahrzeug ist, und werden vor der deutschen Küste Maßnahmen
 außerhalb des Küstenmeeres zum Schutze der Schifffahrt, der Küste oder
 damit zusammenhängender Interessen erforderlich, so findet Absatz 2
 insoweit Anwendung, als das internationale Recht dies zulässt.
-
 
 ## § 3c
 
@@ -459,7 +450,6 @@ werden können.
 (4) Der Betroffene kann für den ihm durch die Maßnahmen entstandenen
 Schaden einen angemessenen Ausgleich verlangen.
 
-
 ## § 3d
 
 Im Rahmen der Aufgaben nach § 1 Nummer 3 Buchstabe a und b und Nummer
@@ -467,7 +457,6 @@ Im Rahmen der Aufgaben nach § 1 Nummer 3 Buchstabe a und b und Nummer
 Verwaltungsvollstreckungsgesetzes sowie des Gesetzes über den
 unmittelbaren Zwang bei Ausübung öffentlicher Gewalt durch
 Vollzugsbeamte des Bundes entsprechend.
-
 
 ## § 3e
 
@@ -514,7 +503,6 @@ Eigentümer oder Betreiber gegen die Verkehrsbehörde des Bundes, die
 dies amtlich veranlasst hat, Anspruch auf Ersatz des erlittenen
 Verlustes oder Schadens.
 
-
 ## § 4
 
 (1) Seewärts der Begrenzung des Küstenmeeres gelten bei der Verfolgung
@@ -537,7 +525,6 @@ des Bundes zu bezeichnen. Diese sind insoweit Ermittlungspersonen der
 Staatsanwaltschaft (§ 152 des Gerichtsverfassungsgesetzes) und haben
 die Rechte und Pflichten der Polizeibeamten nach der
 Strafprozessordnung.
-
 
 ## § 5
 
@@ -627,7 +614,6 @@ geeigneter Stellen mit deren Zustimmung bedienen.
 Schiffsvermessung und auf das Deutsche Hydrographische Institut sind
 Bezugnahmen auf das Bundesamt für Seeschifffahrt und Hydrographie.
 
-
 ## § 5a
 
 Die Aufgabe nach § 1 Nr. 14 wird durch das Bundesministerium des
@@ -635,7 +621,6 @@ Innern wahrgenommen; es kann die Aufgabe auf eine ihm nachgeordnete
 Behörde übertragen. Vor Festlegung der Gefahrenstufen 2 und 3 soll
 sich die zuständige Behörde mit dem Bundesministerium für Verkehr, Bau
 und Stadtentwicklung ins Benehmen setzen.
-
 
 ## § 6
 
@@ -697,7 +682,6 @@ See-Berufsgenossenschaft übertragen worden sind, tritt an deren Stelle
 bis zu einer Änderung dieser Vorschriften die Berufsgenossenschaft für
 Transport und Verkehrswirtschaft.
 
-
 ## § 7
 
 (1) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung kann
@@ -725,7 +709,6 @@ Fachaufsicht des Bundesministeriums für Verkehr, Bau und
 Stadtentwicklung.
 
 (3) (weggefallen)
-
 
 ## § 7a
 
@@ -837,7 +820,6 @@ und 6 die Zuständigkeit für die Zulassung oder Überwachung der
 benannten Stellen dem Bundesministerium für Verkehr, Bau und
 Stadtentwicklung ganz oder teilweise vorbehalten werden.
 
-
 ## § 8
 
 (1) Soweit es zur Durchführung der Aufgaben nach § 1 Nr. 1 bis 6, 13
@@ -886,7 +868,6 @@ Fragen verweigern, deren Beantwortung ihn selbst oder einen der in §
 Angehörigen der Gefahr strafrechtlicher Verfolgung oder eines
 Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
-
 ## § 8a
 
 Das Bundesamt für Seeschifffahrt und Hydrographie hat die Durchführung
@@ -895,7 +876,6 @@ unterstützen. Es hat dabei die Befugnisse nach § 8 Abs. 1; § 8 Abs. 2
 und 3 gilt entsprechend. Bei Maßnahmen nach den Sätzen 1 und 2 ist die
 Begleitung durch Beauftragte der Kommission der Europäischen
 Gemeinschaften oder internationaler Organisationen zuzulassen.
-
 
 ## § 9
 
@@ -1108,7 +1088,6 @@ durch Rechtsverordnung die Ermächtigungen nach Absatz 1 Nr. 1 und 2
 auf die Wasser- und Schifffahrtsdirektionen oder das Bundesamt für
 Seeschifffahrt und Hydrographie übertragen.
 
-
 ## § 9a
 
 Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
@@ -1118,7 +1097,6 @@ sowie die erforderlichen Vermessungsbescheinigungen zu regeln. Es wird
 ferner ermächtigt, durch Rechtsverordnung die Ausführung der Aufgaben
 nach § 1 Nr. 5 im Sinne des § 5 Abs. 1 Satz 2 Nr. 2 auf eine andere
 zuständige Stelle zu übertragen.
-
 
 ## § 9b
 
@@ -1145,14 +1123,12 @@ Rechtsverordnung
 
 zu regeln.
 
-
 ## § 9c
 
 Rechtsverordnungen nach den § 7a oder §§ 9 bis 9b können auch zur
 Durchführung oder Umsetzung von Rechtsakten der Europäischen
 Gemeinschaften und von Verpflichtungen aus zwischenstaatlichen
 Vereinbarungen erlassen werden.
-
 
 ## § 9d
 
@@ -1163,11 +1139,9 @@ Schiffssicherheitsregelungen vorgeschriebenen Baumusterprüfung
 zugrunde zu legen sind, werden von den nach diesem Gesetz hierfür
 zuständigen Behörden in deutscher Sprache amtlich bekannt gemacht.
 
-
 ## § 9e
 
 (weggefallen)
-
 
 ## § 9e
 
@@ -1283,7 +1257,6 @@ und Normen über die Seetüchtigkeit der Schiffe und den Schutz der
 Meeresumwelt dürfen auch mitgeteilt werden, wenn beim Empfänger kein
 angemessenes Datenschutzniveau gewährleistet ist.
 
-
 ## § 9f
 
 (1) Das Bundesamt für Seeschifffahrt und Hydrographie führt mit
@@ -1357,11 +1330,9 @@ Befähigungszeugnisse oder sonstigen -nachweise zuständig sind,
 unverzüglich die nach Absatz 3 zu speichernden Daten zur Aufnahme in
 das Seeleute-Befähigungs-Verzeichnis.
 
-
 ## § 10
 
 (weggefallen)
-
 
 ## § 11
 
@@ -1374,7 +1345,6 @@ Stellen des Auslandes zu verbieten oder von einer Genehmigung abhängig
 zu machen, soweit dies erforderlich ist, um die deutsche
 Seeschifffahrt in der Freiheit ihrer wirtschaftlichen Betätigung zu
 schützen.
-
 
 ## § 12
 
@@ -1401,7 +1371,6 @@ Hafen entstehen, nicht möglich, so kann die zuständige Behörde vor dem
 Auslaufen des Schiffes auch eine ausreichende Sicherheitsleistung
 entgegennehmen.
 
-
 ## § 13
 
 (1) Für das Befahren des Nord-Ostsee-Kanals sowie für die
@@ -1425,7 +1394,6 @@ In der Rechtsverordnung können die zu erstattenden Auslagen, die
 Fälligkeit, die Verjährung, die Befreiung von der Zahlungspflicht
 sowie das Erhebungsverfahren geregelt werden.
 
-
 ## § 14
 
 (1) Für die Leistungen der Kanalsteurer auf dem Nord-Ostsee-Kanal
@@ -1444,7 +1412,6 @@ vergleichbarer Berufsgruppen in der Seeschifffahrt entspricht.
 Rechtsverordnung nach Absatz 2 von der Wasser- und
 Schifffahrtsdirektion Nord eingezogen. Sie werden nach den
 Vorschriften des Verwaltungs-Vollstreckungsgesetzes beigetrieben.
-
 
 ## § 15
 
@@ -1489,7 +1456,6 @@ Fällen mit einer Geldbuße bis zu zehntausend Euro geahndet werden.
 über Ordnungswidrigkeiten sind in den Fällen des Absatzes 1 Nr. 1 und
 1a das Bundesamt für Seeschifffahrt und Hydrographie und des Absatzes
 1 Nr. 1b die Wasser- und Schifffahrtsdirektionen Nord und Nordwest.
-
 
 ## § 16
 
@@ -1569,14 +1535,12 @@ Satz 2 des Übereinkommens der Vereinten Nationen vom 20. Dezember 1988
 gegen den unerlaubten Verkehr mit Suchtstoffen und psychotropen
 Stoffen (BGBl. 1993 II S. 1137) zuständig.
 
-
 ## § 17
 
 Auf Maßnahmen im Rahmen von § 1 Nr. 3 Buchstabe d finden die § 19 Abs.
 2 und §§ 51 bis 56, hinsichtlich der Maßnahmen nach § 1 Nr. 3
 Buchstabe d Doppelbuchstabe bb jedoch mit Ausnahme des § 52 Abs. 1
 Satz 2 und Abs. 2 des Bundespolizeigesetzes sinngemäß Anwendung.
-
 
 ## § 17a
 
@@ -1585,7 +1549,6 @@ Durchführung von Maßnahmen im Rahmen der in § 1 Nr. 3 Buchstabe a, b
 oder e bezeichneten Aufgaben gegenüber Schiffen, die nicht zur Führung
 der Bundesflagge berechtigt sind, ersucht, so gilt § 16 Abs. 2
 entsprechend.
-
 
 ## § 18
 
@@ -1598,13 +1561,11 @@ sie auszuhändigen, vorzulegen oder mitzuführen sind, ist die
 elektronische Form ausgeschlossen, wenn nicht durch Rechtsvorschrift
 eine abweichende Regelung getroffen ist.
 
-
 ## § 19
 
 Die Zuständigkeit des Bundes im Rahmen des § 1 Nr. 2 und des § 9 Abs.
 1 Nr. 1 und 2 besteht nicht für die im Bereich des Hamburger Hafens
 liegenden Teile der Bundeswasserstraße Elbe.
-
 
 ## § 20
 
@@ -1654,7 +1615,6 @@ liegenden Teile der Bundeswasserstraße Elbe.
 (2) Unberührt bleiben Aufgaben auf dem Gebiet der Seeschifffahrt, die
 dem Bund durch frühere Rechtsvorschriften übertragen worden sind.
 
-
 ## § 21
 
 Die Grundrechte der körperlichen Unversehrtheit (Artikel 2 Abs. 2 Satz
@@ -1664,7 +1624,6 @@ des Grundgesetzes), des Brief-, Post- und Fernmeldegeheimnisses
 Wohnung (Artikel 13 des Grundgesetzes) werden nach Maßgabe dieses
 Gesetzes eingeschränkt.
 
-
 ## § 22
 
 Das Bundesministerium für Verkehr, Bau und Stadtentwicklung kann durch
@@ -1673,13 +1632,11 @@ Anwendung der Vorschriften dieses Gesetzes oder der auf Grund dieses
 Gesetzes erlassenen Rechtsverordnungen durch seine nachgeordneten
 Behörden oder die von ihm beliehenen juristischen Personen regeln.
 
-
 ## § 22a
 
 Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz
 1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger
 verkündet werden.
-
 
 ## § 23 (Inkrafttreten, Außerkrafttreten)
 

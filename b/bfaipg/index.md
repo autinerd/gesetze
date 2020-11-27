@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 2370
 
-
 ## § 1 Zuordnung des Personals
 
 Die Beamtinnen, Beamten, Arbeitnehmerinnen und Arbeitnehmer der
@@ -23,7 +22,6 @@ Bundesagentur für Außenwirtschaft sind ab dem 1. Januar 2009 solche
 bei dem Bundesamt für Wirtschaft und Ausfuhrkontrolle. Für die
 Auszubildenden bei der Bundesagentur für Außenwirtschaft gilt Satz 1
 entsprechend.
-
 
 ## § 2 Zuweisung von Tätigkeiten
 
@@ -48,7 +46,6 @@ Finanzen ergänzend außer- und übertarifliche Regelungen treffen.
 (4) Das Arbeitnehmerüberlassungsgesetz wird auf die Zuweisung von
 Tätigkeiten nach Absatz 1 nicht angewendet.
 
-
 ## § 3 Entscheidungs- und Weisungsbefugnisse
 
 Gegenüber den in § 2 Abs. 1 genannten Beschäftigten hat die Germany
@@ -67,7 +64,6 @@ sind vertraglich zwischen dem Bundesamt für Wirtschaft und
 Ausfuhrkontrolle und der Germany Trade and Invest – Gesellschaft für
 Außenwirtschaft und Standortmarketing mbH zu regeln.
 
-
 ## § 4 Anwendbarkeit des Bundespersonalvertretungsgesetzes
 
 Die in § 2 Abs. 1 genannten Beschäftigten gelten im Sinne des
@@ -75,7 +71,6 @@ Bundespersonalvertretungsgesetzes als Beschäftigte des Bundesamtes für
 Wirtschaft und Ausfuhrkontrolle; sie sind aktiv und passiv
 wahlberechtigt. § 13 Abs. 2 Satz 4 des
 Bundespersonalvertretungsgesetzes ist nicht anzuwenden.
-
 
 ## § 5 Geltung arbeitsrechtlicher Vorschriften
 
@@ -103,7 +98,6 @@ weil sie nicht Dienstherrin und Arbeitgeberin der in § 2 Abs. 1
 genannten Beschäftigten ist, treffen diese Verpflichtungen das
 Bundesamt für Wirtschaft und Ausfuhrkontrolle.
 
-
 ## § 6 Personalvertretungs- und betriebsverfassungsrechtliche Zuständigkeiten
 
 (1) Der Personalrat des Bundesamtes für Wirtschaft und
@@ -118,7 +112,6 @@ entscheidet, werden die Beteiligungsrechte nach dem
 Betriebsverfassungsgesetz vom Betriebsrat der Germany Trade and Invest
 – Gesellschaft für Außenwirtschaft und Standortmarketing mbH
 wahrgenommen.
-
 
 ## § 7 Schwerbehinderte Menschen
 
@@ -135,7 +128,6 @@ schwerbehinderte und diesen gleichgestellte behinderte Menschen
 ungeachtet ihres Dienst- oder Arbeitsverhältnisses mit dem Bund als
 Beschäftigte der Germany Trade and Invest – Gesellschaft für
 Außenwirtschaft und Standortmarketing mbH. § 6 gilt entsprechend.
-
 
 ## § 8 Übergangsregelungen
 
@@ -172,7 +164,6 @@ Außenwirtschaft und Standortmarketing mbH eine
 Schwerbehindertenvertretung einzurichten ist, gelten die vorstehenden
 Bestimmungen entsprechend.
 
-
 ## § 9 Fortgeltung von Dienstvereinbarungen
 
 Die in der Bundesagentur für Außenwirtschaft am 31. Dezember 2008
@@ -189,7 +180,6 @@ Wirtschaft und Technologie bestehenden Rahmenintegrationsvereinbarung
 nach § 83 des Neunten Buches Sozialgesetzbuch. § 77 Abs. 6 des
 Betriebsverfassungsgesetzes ist nicht anzuwenden.
 
-
 ## § 10 Anhängige Beteiligungsverfahren
 
 Die bis zum 31. Dezember 2008 förmlich eingeleiteten
@@ -200,11 +190,9 @@ Verwaltungsgerichten werden von dem Bundesamt für Wirtschaft und
 Ausfuhrkontrolle und dem Personalrat des Bundesamtes für Wirtschaft
 und Ausfuhrkontrolle fortgeführt.
 
-
 ## § 11 Anpassung von Rechtsvorschriften
 
 -
-
 
 ## § 12 Inkrafttreten
 

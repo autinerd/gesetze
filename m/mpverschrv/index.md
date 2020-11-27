@@ -29,7 +29,6 @@ Informationsgesellschaft (ABl. EG Nr. L 204 S. 37), geändert durch die
 Richtlinie 98/48/EG des Europäischen Parlaments und des Rates vom 20.
 Juli 1998 (ABl. EG Nr. L 217 S. 18), sind beachtet worden.
 
-
 ## § 1
 
 (1) Medizinprodukte,
@@ -59,7 +58,6 @@ Medizinprodukten, deren Bevollmächtigte, Einführer oder Händler von
 Medizinprodukten abgegeben wird.
 
 (2) Die Verschreibung muss den Anforderungen des § 2 entsprechen.
-
 
 ## § 2
 
@@ -119,13 +117,11 @@ Unterschrift nach Absatz 1 Nr. 7 die Namenswiedergabe des Arztes oder,
 bei Anforderung in elektronischer Form, ein geeignetes elektronisches
 Identifikationsverfahren.
 
-
 ## § 3
 
 Die wiederholte Abgabe eines verschreibungspflichtigen
 Medizinproduktes auf dieselbe Verschreibung über die verschriebene
 Menge hinaus ist unzulässig.
-
 
 ## § 4
 
@@ -135,7 +131,6 @@ fernmündlicher Unterrichtung durch einen Arzt oder Zahnarzt auch an
 andere Personen abgegeben werden, wenn sich der Apotheker Gewissheit
 über die Person des Arztes oder Zahnarztes verschafft hat.
 
-
 ## § 5
 
 Verschreibungspflichtige Medizinprodukte dürfen auf Verschreibung
@@ -143,13 +138,11 @@ eines Dentisten abgegeben werden, soweit die Abgabe nach den Anlagen
 zu den in § 1 Abs. 1 Nr. 2 genannten Verordnungen zulässig ist. Die §§
 2 bis 4 finden Anwendung.
 
-
 ## § 6
 
 Von der Verschreibungspflicht sind Medizinprodukte ausgenommen, soweit
 sie der Zweckbestimmung nach nur von einem Arzt oder Zahnarzt
 angewendet werden können.
-
 
 ## § 7
 
@@ -159,11 +152,9 @@ entgegen § 1 Abs. 1 Satz 1 oder § 3 ein Medizinprodukt abgibt.
 (2) Wer eine in Absatz 1 bezeichnete Handlung fahrlässig begeht,
 handelt nach § 42 Abs. 1 des Medizinproduktegesetzes ordnungswidrig.
 
-
 ## § 8
 
 (Inkrafttreten)
-
 
 ## Anlage (zu § 1 Abs. 1 Nr. 1)
 

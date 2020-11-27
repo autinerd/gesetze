@@ -34,7 +34,6 @@ Verfahren bei sonstigen Änderungen des Gebietsbestandes der Länder
 nach Artikel 29 Abs. 7 des Grundgesetzes vom 30. Juli 1979 (BGBl. I S.
 1325) folgenden Staatsvertrag:
 
-
 ## Art 1
 
 (1) Dieser Staatsvertrag ändert die gemeinsame Landesgrenze in den
@@ -90,10 +89,6 @@ Staatsvertrages.
     87/26, 87/25, 144/1, 259/13, 249/6, 89/1,
     87/6                   .
 
-
-
-
-
 ## Art 2
 
 (1) Das in den übergehenden Gebieten belegene Verwaltungsvermögen von
@@ -114,7 +109,6 @@ vereinbart worden; diese sind Gegenstand von Ratsbeschlüssen beider
 Gebietskörperschaften vom 22. Oktober 2008 (Stadt Brilon) und vom 24.
 Oktober 2008 (Gemeinde Diemelsee).
 
-
 ## Art 3
 
 (1) Für die im Zusammenhang mit der Änderung der Landesgrenze
@@ -131,7 +125,6 @@ Verfahren nach Zurückweisung, Wiederaufnahme des Verfahrens,
 Vollstreckungsgegenklage, Entscheidungen über die Strafvollstreckung,
 etc.).
 
-
 ## Art 4
 
 (1) Die Länder und die betroffenen kommunalen Körperschaften werden
@@ -145,7 +138,6 @@ Vertrages die für die Verwaltung notwendigen Akten, Urkunden, Register
 und andere Unterlagen zu übergeben und die für die Berichtigung des
 Grundbuches erforderlichen Erklärungen abzugeben.
 
-
 ## Art 5
 
 (1) Der Vertrag bedarf der Ratifikation. Die Ratifikationsurkunden
@@ -155,7 +147,6 @@ werden ausgetauscht.
 Organe der vertragschließenden Länder am ersten Tag des Monats in
 Kraft, der auf den Monat folgt, in dem die letzte Ratifikationsurkunde
 hinterlegt wurde.
-
 
 ## Schlussformel
 

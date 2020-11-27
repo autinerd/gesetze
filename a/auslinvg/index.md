@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 16 G v. 19.12.2008 I 2794
 
-
 ## § 1 Steuerfreie Rücklage bei Überführung bestimmter Wirtschaftsgüter in Gesellschaften, Betriebe oder Betriebstätten im Ausland
 
 (1) Steuerpflichtige, die den Gewinn nach § 4 Abs. 1 oder § 5 des
@@ -81,7 +80,6 @@ ist die steuerfreie Rücklage in voller Höhe gewinnerhöhend aufzulösen.
 Bildung und Auflösung der Rücklage in der Buchführung verfolgt werden
 können.
 
-
 ## § 2 Ausländische Verluste bei Doppelbesteuerungsabkommen
 
 (1) Sind nach einem Abkommen zur Vermeidung der Doppelbesteuerung bei
@@ -125,10 +123,6 @@ Absatzes 1 Satz 3 dem Gesamtbetrag der Einkünfte hinzuzurechnen. Satz
 2.  der Steuerpflichtige nachweist, daß die Kapitalgesellschaft nach den
     für sie geltenden Vorschriften einen Abzug von Verlusten der
     Betriebstätte nicht beanspruchen kann.
-
-
-
-
 
 ## § 3 Steuerfreie Rücklage für Verluste von ausländischen Tochtergesellschaften
 
@@ -253,11 +247,9 @@ Wirtschaftsjahrs.
 
 (4) § 1 Abs. 5 gilt entsprechend.
 
-
 ## § 4
 
 -
-
 
 ## § 5 Gemeinsame Voraussetzungen
 
@@ -276,12 +268,10 @@ Voraussetzung, daß das Bundesministerium für Verkehr, Bau und
 Stadtentwicklung oder die von ihm bestimmte Stelle die
 verkehrspolitische Förderungswürdigkeit bestätigt.
 
-
 ## § 6 Gewerbesteuer
 
 Die Vorschriften der §§ 1, 3 und
 4              gelten auch für die Ermittlung des Gewerbeertrags.
-
 
 ## § 7 Ermächtigung
 
@@ -289,7 +279,6 @@ Der Bundesminister der Finanzen wird ermächtigt, den Wortlaut dieses
 Gesetzes in der jeweils geltenden Fassung mit neuem Datum
 bekanntzumachen, die Paragraphenfolge zu ändern und Unstimmigkeiten
 des Wortlauts zu beseitigen.
-
 
 ## § 8 Anwendungsbereich
 
@@ -313,13 +302,11 @@ Wirtschaftsjahr gebildet werden, das vor dem 1. Januar 1990 endet.
 anzuwenden. § 2 Abs. 1 Satz 3, 4 und Abs. 2 ist für
 Veranlagungszeiträume ab 2009 weiter anzuwenden.
 
-
 ## § 9 Anwendung im Land Berlin
 
 Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
 im Land Berlin.
-
 
 ## § 10 Inkrafttreten
 

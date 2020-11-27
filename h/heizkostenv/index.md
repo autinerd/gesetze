@@ -18,7 +18,6 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 5.10.2009 I 3250
 
-
 ## § 1 Anwendungsbereich
 
 (1) Diese Verordnung gilt für die Verteilung der Kosten
@@ -66,13 +65,11 @@ Lieferer.
 preisgebundenen Wohnraum, soweit für diesen nichts anderes bestimmt
 ist.
 
-
 ## § 2 Vorrang vor rechtsgeschäftlichen Bestimmungen
 
 Außer bei Gebäuden mit nicht mehr als zwei Wohnungen, von denen eine
 der Vermieter selbst bewohnt, gehen die Vorschriften dieser Verordnung
 rechtsgeschäftlichen Bestimmungen vor.
-
 
 ## § 3 Anwendung auf das Wohnungseigentum
 
@@ -88,7 +85,6 @@ Eigentums im Wohnungseigentumsgesetz enthalten oder durch Vereinbarung
 der Wohnungseigentümer getroffen worden sind. Die Kosten für die
 Anbringung der Ausstattung sind entsprechend den dort vorgesehenen
 Regelungen über die Tragung der Verwaltungskosten zu verteilen.
-
 
 ## § 4 Pflicht zur Verbrauchserfassung
 
@@ -111,7 +107,6 @@ Warmwasserverbrauch, wie Schwimmbäder oder Saunen.
 
 (4) Der Nutzer ist berechtigt, vom Gebäudeeigentümer die Erfüllung
 dieser Verpflichtungen zu verlangen.
-
 
 ## § 5 Ausstattung zur Verbrauchserfassung
 
@@ -137,7 +132,6 @@ Ausstattungen erfasst wird. Der Gebäudeeigentümer kann auch bei
 unterschiedlichen Nutzungs- oder Gebäudearten oder aus anderen
 sachgerechten Gründen eine Vorerfassung nach Nutzergruppen
 durchführen.
-
 
 ## § 6 Pflicht zur verbrauchsabhängigen Kostenverteilung
 
@@ -197,7 +191,6 @@ gegenüber den Nutzern ändern
 Die Festlegung und die Änderung der Abrechnungsmaßstäbe sind nur mit
 Wirkung zum Beginn eines Abrechnungszeitraumes zulässig.
 
-
 ## § 7 Verteilung der Kosten der Versorgung mit Wärme
 
 (1) Von den Kosten des Betriebs der zentralen Heizungsanlage sind
@@ -242,7 +235,6 @@ entsprechend.
 Wärmelieferung und die Kosten des Betriebs der zugehörigen Hausanlagen
 entsprechend Absatz 2.
 
-
 ## § 8 Verteilung der Kosten der Versorgung mit Warmwasser
 
 (1) Von den Kosten des Betriebs der zentralen
@@ -266,7 +258,6 @@ einschließlich der Aufbereitungsstoffe.
 (4) Zu den Kosten der Warmwasserlieferung gehören das Entgelt für die
 Lieferung des Warmwassers und die Kosten des Betriebs der zugehörigen
 Hausanlagen entsprechend § 7 Absatz 2.
-
 
 ## § 9 Verteilung der Kosten der Versorgung mit Wärme und Warmwasser bei verbundenen Anlagen
 
@@ -473,7 +464,6 @@ Absatz 1, der Anteil an den Kosten der Versorgung mit Warmwasser nach
 § 8 Absatz 1 zu verteilen, soweit diese Verordnung nichts anderes
 bestimmt oder zulässt.
 
-
 ## § 9a Kostenverteilung in Sonderfällen
 
 (1) Kann der anteilige Wärme- oder Warmwasserverbrauch von Nutzern für
@@ -493,7 +483,6 @@ Nutzfläche oder des maßgeblichen gesamten umbauten Raumes, sind die
 Kosten ausschließlich nach den nach § 7 Absatz 1 Satz 5 und § 8 Absatz
 1 für die Verteilung der übrigen Kosten zu Grunde zu legenden
 Maßstäben zu verteilen.
-
 
 ## § 9b Kostenaufteilung bei Nutzerwechsel
 
@@ -518,13 +507,11 @@ geltenden Maßstäben aufzuteilen.
 (4) Von den Absätzen 1 bis 3 abweichende rechtsgeschäftliche
 Bestimmungen bleiben unberührt.
 
-
 ## § 10 Überschreitung der Höchstsätze
 
 Rechtsgeschäftliche Bestimmungen, die höhere als die in § 7 Absatz 1
 und § 8 Absatz 1 genannten Höchstsätze von 70 vom Hundert vorsehen,
 bleiben unberührt.
-
 
 ## § 11 Ausnahmen
 
@@ -596,7 +583,6 @@ sind sie nicht anzuwenden
 (2) Soweit sich die §§ 3 bis 6 und § 8 auf die Versorgung mit
 Warmwasser beziehen, gilt Absatz 1 entsprechend.
 
-
 ## § 12 Kürzungsrecht, Übergangsregelung
 
 (1) Soweit die Kosten der Versorgung mit Wärme oder Warmwasser
@@ -639,10 +625,7 @@ der Wassermenge ermittelt, gilt die Anforderung des § 5 Absatz 1 Satz
 haben, ist diese Verordnung in der bis zum 31. Dezember 2008 geltenden
 Fassung weiter anzuwenden.
 
-
 ## § 13 (Berlin-Klausel)
-
-
 
 ## § 14 (Inkrafttreten)
 

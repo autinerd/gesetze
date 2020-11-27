@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1962, 160
 
-
-
 ## (XXXX)
 
 Gemäß § 81 Abs. 1 des Bundesbeamtengesetzes in der Fassung vom 1.

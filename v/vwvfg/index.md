@@ -21,14 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 Abs. 1 G v. 14.8.2009 I 2827
 
-
 ## Teil I - Anwendungsbereich, örtliche Zuständigkeit, elektronische Kommunikation, Amtshilfe, europäische Verwaltungszusammenarbeit
 
-
-
 ### Abschnitt 1 - Anwendungsbereich, örtliche Zuständigkeit, elektronische Kommunikation
-
-
 
 #### § 1 Anwendungsbereich
 
@@ -66,7 +61,6 @@ geregelt ist.
 
 (4) Behörde im Sinne dieses Gesetzes ist jede Stelle, die Aufgaben der
 öffentlichen Verwaltung wahrnimmt.
-
 
 #### § 2 Ausnahmen vom Anwendungsbereich
 
@@ -117,10 +111,6 @@ Verbände und Einrichtungen.
 
 
 3.  der Vertretungen des Bundes im Ausland gilt dieses Gesetz nicht.
-
-
-
-
 
 #### § 3 Örtliche Zuständigkeit
 
@@ -187,7 +177,6 @@ Behörde örtlich zuständig, in deren Bezirk der Anlass für die
 Amtshandlung hervortritt. Die nach Absatz 1 Nr. 1 bis 3 örtlich
 zuständige Behörde ist unverzüglich zu unterrichten.
 
-
 #### § 3a Elektronische Kommunikation
 
 (1) Die Übermittlung elektronischer Dokumente ist zulässig, soweit der
@@ -209,10 +198,7 @@ Behörde übermittelte elektronische Dokument nicht bearbeiten, hat sie
 es ihm erneut in einem geeigneten elektronischen Format oder als
 Schriftstück zu übermitteln.
 
-
 ### Abschnitt 2 - Amtshilfe
-
-
 
 #### § 4 Amtshilfepflicht
 
@@ -227,10 +213,6 @@ Hilfe (Amtshilfe).
 
 2.  die Hilfeleistung in Handlungen besteht, die der ersuchten Behörde als
     eigene Aufgabe obliegen.
-
-
-
-
 
 #### § 5 Voraussetzungen und Grenzen der Amtshilfe
 
@@ -303,13 +285,11 @@ Amtshilfe die gemeinsame fachlich zuständige Aufsichtsbehörde oder,
 sofern eine solche nicht besteht, die für die ersuchte Behörde
 fachlich zuständige Aufsichtsbehörde.
 
-
 #### § 6 Auswahl der Behörde
 
 Kommen für die Amtshilfe mehrere Behörden in Betracht, so soll nach
 Möglichkeit eine Behörde der untersten Verwaltungsstufe des
 Verwaltungszweigs ersucht werden, dem die ersuchende Behörde angehört.
-
 
 #### § 7 Durchführung der Amtshilfe
 
@@ -322,7 +302,6 @@ Behörde geltenden Recht.
 Verantwortung für die Rechtmäßigkeit der zu treffenden Maßnahme. Die
 ersuchte Behörde ist für die Durchführung der Amtshilfe
 verantwortlich.
-
 
 #### § 8 Kosten der Amtshilfe
 
@@ -337,10 +316,7 @@ kostenpflichtige Amtshandlung vor, so stehen ihr die von einem Dritten
 hierfür geschuldeten Kosten (Verwaltungsgebühren, Benutzungsgebühren
 und Auslagen) zu.
 
-
 ### Abschnitt 3 - Europäische Verwaltungszusammenarbeit
-
-
 
 #### § 8a Grundsätze der Hilfeleistung
 
@@ -356,7 +332,6 @@ geboten ist.
 
 (3) Die §§ 5, 7 und 8 Absatz 2 sind entsprechend anzuwenden, soweit
 Rechtsakte der Europäischen Gemeinschaft nicht entgegenstehen.
-
 
 #### § 8b Form und Behandlung der Ersuchen
 
@@ -381,14 +356,12 @@ erforderliche Begründung nach Aufforderung nicht nachgereicht wird.
 Ersuchen sollen genutzt werden. Informationen sollen elektronisch
 übermittelt werden.
 
-
 #### § 8c Kosten der Hilfeleistung
 
 Ersuchende Behörden anderer Mitgliedstaaten der Europäischen Union
 haben Verwaltungsgebühren oder Auslagen nur zu erstatten, soweit dies
 nach Maßgabe von Rechtsakten der Europäischen Gemeinschaft verlangt
 werden kann.
-
 
 #### § 8d Mitteilungen von Amts wegen
 
@@ -405,7 +378,6 @@ der Europäischen Gemeinschaft dies vorsehen; dabei ist auf die Art der
 Angaben sowie auf die Zweckbestimmung und die Rechtsgrundlage der
 Übermittlung hinzuweisen.
 
-
 #### § 8e Anwendbarkeit
 
 Die Regelungen dieses Abschnitts sind mit Inkrafttreten des jeweiligen
@@ -416,14 +388,9 @@ anderen Vertragsstaaten des Abkommens über den Europäischen
 Wirtschaftsraum, soweit Rechtsakte der Europäischen Gemeinschaft auch
 auf diese Staaten anzuwenden sind.
 
-
 ## Teil II - Allgemeine Vorschriften über das Verwaltungsverfahren
 
-
-
 ### Abschnitt 1 - Verfahrensgrundsätze
-
-
 
 #### § 9 Begriff des Verwaltungsverfahrens
 
@@ -434,13 +401,11 @@ Verwaltungsaktes oder auf den Abschluss eines öffentlich-rechtlichen
 Vertrags gerichtet ist; es schließt den Erlass des Verwaltungsaktes
 oder den Abschluss des öffentlich-rechtlichen Vertrags ein.
 
-
 #### § 10 Nichtförmlichkeit des Verwaltungsverfahrens
 
 Das Verwaltungsverfahren ist an bestimmte Formen nicht gebunden,
 soweit keine besonderen Rechtsvorschriften für die Form des Verfahrens
 bestehen. Es ist einfach, zweckmäßig und zügig durchzuführen.
-
 
 #### § 11 Beteiligungsfähigkeit
 
@@ -453,10 +418,6 @@ Fähig, am Verfahren beteiligt zu sein, sind
 
 
 3.  Behörden.
-
-
-
-
 
 #### § 12 Handlungsfähigkeit
 
@@ -490,7 +451,6 @@ Rechts als handlungsfähig anerkannt ist.
 
 (3) Die §§ 53 und 55 der Zivilprozessordnung gelten entsprechend.
 
-
 #### § 13 Beteiligte
 
 (1) Beteiligte sind
@@ -522,7 +482,6 @@ benachrichtigen.
 
 (3) Wer anzuhören ist, ohne dass die Voraussetzungen des Absatzes 1
 vorliegen, wird dadurch nicht Beteiligter.
-
 
 #### § 14 Bevollmächtigte und Beistände
 
@@ -568,7 +527,6 @@ wird, mitzuteilen. Verfahrenshandlungen des zurückgewiesenen
 Bevollmächtigten oder Beistands, die dieser nach der Zurückweisung
 vornimmt, sind unwirksam.
 
-
 #### § 15 Bestellung eines Empfangsbevollmächtigten
 
 Ein Beteiligter ohne Wohnsitz oder gewöhnlichen Aufenthalt, Sitz oder
@@ -580,7 +538,6 @@ am siebenten Tage nach der Aufgabe zur Post und ein elektronisch
 zugegangen. Dies gilt nicht, wenn feststeht, dass das Dokument den
 Empfänger nicht oder zu einem späteren Zeitpunkt erreicht hat. Auf die
 Rechtsfolgen der Unterlassung ist der Beteiligte hinzuweisen.
-
 
 #### § 16 Bestellung eines Vertreters von Amts wegen
 
@@ -628,7 +585,6 @@ Vertreters in den Fällen des Absatzes 1 Nr. 4 die Vorschriften über
 die Betreuung, in den übrigen Fällen die Vorschriften über die
 Pflegschaft entsprechend.
 
-
 #### § 17 Vertreter bei gleichförmigen Eingaben
 
 (1) Bei Anträgen und Eingaben, die in einem Verwaltungsverfahren von
@@ -663,7 +619,6 @@ aufzufordern, so kann die Behörde die Aufforderung ortsüblich bekannt
 machen. Wird der Aufforderung nicht fristgemäß entsprochen, so kann
 die Behörde von Amts wegen einen gemeinsamen Vertreter bestellen.
 
-
 #### § 18 Vertreter für Beteiligte bei gleichem Interesse
 
 (1) Sind an einem Verwaltungsverfahren mehr als 50 Personen im
@@ -682,7 +637,6 @@ der Vertretene eine solche Erklärung ab, so soll er der Behörde
 zugleich mitteilen, ob er seine Eingabe aufrechterhält und ob er einen
 Bevollmächtigten bestellt hat.
 
-
 #### § 19 Gemeinsame Vorschriften für Vertreter bei gleichförmigen Eingaben und bei gleichem Interesse
 
 (1) Der Vertreter hat die Interessen der Vertretenen sorgfältig
@@ -696,7 +650,6 @@ Rechtsträger Anspruch auf angemessene Vergütung und auf Erstattung
 seiner baren Auslagen. Die Behörde kann von den Vertretenen zu
 gleichen Anteilen Ersatz ihrer Aufwendungen verlangen. Sie bestimmt
 die Vergütung und stellt die Auslagen und Aufwendungen fest.
-
 
 #### § 20 Ausgeschlossene Personen
 
@@ -790,10 +743,6 @@ Angehörige sind die in Satz 1 aufgeführten Personen auch dann, wenn
     sofern die Personen weiterhin wie Eltern und Kind miteinander
     verbunden sind.
 
-
-
-
-
 #### § 21 Besorgnis der Befangenheit
 
 (1) Liegt ein Grund vor, der geeignet ist, Misstrauen gegen eine
@@ -809,7 +758,6 @@ selbst einer Mitwirkung enthält.
 (2) Für Mitglieder eines Ausschusses (§ 88) gilt § 20 Abs. 4
 entsprechend.
 
-
 #### § 22 Beginn des Verfahrens
 
 Die Behörde entscheidet nach pflichtgemäßem Ermessen, ob und wann sie
@@ -820,10 +768,6 @@ auf Grund von Rechtsvorschriften
 
 
 2.  nur auf Antrag tätig werden darf und ein Antrag nicht vorliegt.
-
-
-
-
 
 #### § 23 Amtssprache
 
@@ -859,7 +803,6 @@ der Übersetzung maßgebend, soweit sich nicht aus zwischenstaatlichen
 Vereinbarungen etwas anderes ergibt. Auf diese Rechtsfolge ist bei der
 Fristsetzung hinzuweisen.
 
-
 #### § 24 Untersuchungsgrundsatz
 
 (1) Die Behörde ermittelt den Sachverhalt von Amts wegen. Sie bestimmt
@@ -873,7 +816,6 @@ die Beteiligten günstigen Umstände zu berücksichtigen.
 die in ihren Zuständigkeitsbereich fallen, nicht deshalb verweigern,
 weil sie die Erklärung oder den Antrag in der Sache für unzulässig
 oder unbegründet hält.
-
 
 #### § 25 Beratung, Auskunft
 
@@ -892,7 +834,6 @@ Verfahren beschleunigt werden kann. Soweit es der
 Verfahrensbeschleunigung dient, soll sie dem Antragsteller nach
 Eingang des Antrags unverzüglich Auskunft über die voraussichtliche
 Verfahrensdauer und die Vollständigkeit der Antragsunterlagen geben.
-
 
 #### § 26 Beweismittel
 
@@ -929,7 +870,6 @@ vorgesehen ist. Falls die Behörde Zeugen und Sachverständige
 herangezogen hat, erhalten sie auf Antrag in entsprechender Anwendung
 des Justizvergütungs- und -entschädigungsgesetzes eine Entschädigung
 oder Vergütung.
-
 
 #### § 27 Versicherung an Eides statt
 
@@ -976,7 +916,6 @@ Versichernden zu unterschreiben. Die Niederschrift ist sodann von
 demjenigen, der die Versicherung an Eides statt aufgenommen hat, sowie
 von dem Schriftführer zu unterschreiben.
 
-
 #### § 28 Anhörung Beteiligter
 
 (1) Bevor ein Verwaltungsakt erlassen wird, der in Rechte eines
@@ -1012,7 +951,6 @@ Umständen des Einzelfalls nicht geboten ist, insbesondere wenn
 (3) Eine Anhörung unterbleibt, wenn ihr ein zwingendes öffentliches
 Interesse entgegensteht.
 
-
 #### § 29 Akteneinsicht durch Beteiligte
 
 (1) Die Behörde hat den Beteiligten Einsicht in die das Verfahren
@@ -1038,7 +976,6 @@ einer diplomatischen oder berufskonsularischen Vertretung der
 Bundesrepublik Deutschland im Ausland erfolgen; weitere Ausnahmen kann
 die Behörde, die die Akten führt, gestatten.
 
-
 #### § 30 Geheimhaltung
 
 Die Beteiligten haben Anspruch darauf, dass ihre Geheimnisse,
@@ -1046,10 +983,7 @@ insbesondere die zum persönlichen Lebensbereich gehörenden Geheimnisse
 sowie die Betriebs- und Geschäftsgeheimnisse, von der Behörde nicht
 unbefugt offenbart werden.
 
-
 ### Abschnitt 2 - Fristen, Termine, Wiedereinsetzung
-
-
 
 #### § 31 Fristen und Termine
 
@@ -1085,7 +1019,6 @@ durch den Fristablauf eingetretenen Rechtsfolgen bestehen zu lassen.
 Die Behörde kann die Verlängerung der Frist nach § 36 mit einer
 Nebenbestimmung verbinden.
 
-
 #### § 32 Wiedereinsetzung in den vorigen Stand
 
 (1) War jemand ohne Verschulden verhindert, eine gesetzliche Frist
@@ -1111,10 +1044,7 @@ Jahresfrist infolge höherer Gewalt unmöglich war.
 (5) Die Wiedereinsetzung ist unzulässig, wenn sich aus einer
 Rechtsvorschrift ergibt, dass sie ausgeschlossen ist.
 
-
 ### Abschnitt 3 - Amtliche Beglaubigung
-
-
 
 #### § 33 Beglaubigung von Dokumenten
 
@@ -1225,7 +1155,6 @@ für das Ausgangsdokument enthalten.
 (6) Die nach Absatz 4 hergestellten Dokumente stehen, sofern sie
 beglaubigt sind, beglaubigten Abschriften gleich.
 
-
 #### § 34 Beglaubigung von Unterschriften
 
 (1) Die von der Bundesregierung durch Rechtsverordnung bestimmten
@@ -1277,14 +1206,9 @@ entsprechend.
 (5) Die Rechtsverordnungen nach Absatz 1 und 4 bedürfen nicht der
 Zustimmung des Bundesrates.
 
-
 ## Teil III - Verwaltungsakt
 
-
-
 ### Abschnitt 1 - Zustandekommen des Verwaltungsaktes
-
-
 
 #### § 35 Begriff des Verwaltungsaktes
 
@@ -1296,7 +1220,6 @@ Verwaltungsakt, der sich an einen nach allgemeinen Merkmalen
 bestimmten oder bestimmbaren Personenkreis richtet oder die
 öffentlich-rechtliche Eigenschaft einer Sache oder ihre Benutzung
 durch die Allgemeinheit betrifft.
-
 
 #### § 36 Nebenbestimmungen zum Verwaltungsakt
 
@@ -1337,7 +1260,6 @@ oder verbunden werden mit
 (3) Eine Nebenbestimmung darf dem Zweck des Verwaltungsaktes nicht
 zuwiderlaufen.
 
-
 #### § 37 Bestimmtheit und Form des Verwaltungsaktes
 
 (1) Ein Verwaltungsakt muss inhaltlich hinreichend bestimmt sein.
@@ -1371,7 +1293,6 @@ Verwaltungsakt bestimmt ist oder der von ihm betroffen wird, auf Grund
 der dazu gegebenen Erläuterungen den Inhalt des Verwaltungsaktes
 eindeutig erkennen kann.
 
-
 #### § 38 Zusicherung
 
 (1) Eine von der zuständigen Behörde erteilte Zusage, einen bestimmten
@@ -1394,7 +1315,6 @@ derart, dass die Behörde bei Kenntnis der nachträglich eingetretenen
 Änderung die Zusicherung nicht gegeben hätte oder aus rechtlichen
 Gründen nicht hätte geben dürfen, ist die Behörde an die Zusicherung
 nicht mehr gebunden.
-
 
 #### § 39 Begründung des Verwaltungsaktes
 
@@ -1428,16 +1348,11 @@ Ausübung ihres Ermessens ausgegangen ist.
 
 5.  wenn eine Allgemeinverfügung öffentlich bekannt gegeben wird.
 
-
-
-
-
 #### § 40 Ermessen
 
 Ist die Behörde ermächtigt, nach ihrem Ermessen zu handeln, hat sie
 ihr Ermessen entsprechend dem Zweck der Ermächtigung auszuüben und die
 gesetzlichen Grenzen des Ermessens einzuhalten.
-
 
 #### § 41 Bekanntgabe des Verwaltungsaktes
 
@@ -1472,7 +1387,6 @@ frühestens der auf die Bekanntmachung folgende Tag bestimmt werden.
 (5) Vorschriften über die Bekanntgabe eines Verwaltungsaktes mittels
 Zustellung bleiben unberührt.
 
-
 #### § 42 Offenbare Unrichtigkeiten im Verwaltungsakt
 
 Die Behörde kann Schreibfehler, Rechenfehler und ähnliche offenbare
@@ -1480,7 +1394,6 @@ Unrichtigkeiten in einem Verwaltungsakt jederzeit berichtigen. Bei
 berechtigtem Interesse des Beteiligten ist zu berichtigen. Die Behörde
 ist berechtigt, die Vorlage des Dokuments zu verlangen, das berichtigt
 werden soll.
-
 
 #### § 42a Genehmigungsfiktion
 
@@ -1502,10 +1415,7 @@ rechtzeitig mitzuteilen.
 Abs. 1 hätte bekannt gegeben werden müssen, der Eintritt der
 Genehmigungsfiktion schriftlich zu bescheinigen.
 
-
 ### Abschnitt 2 - Bestandskraft des Verwaltungsaktes
-
-
 
 #### § 43 Wirksamkeit des Verwaltungsaktes
 
@@ -1519,7 +1429,6 @@ zurückgenommen, widerrufen, anderweitig aufgehoben oder durch
 Zeitablauf oder auf andere Weise erledigt ist.
 
 (3) Ein nichtiger Verwaltungsakt ist unwirksam.
-
 
 #### § 44 Nichtigkeit des Verwaltungsaktes
 
@@ -1584,7 +1493,6 @@ erlassen hätte.
 feststellen; auf Antrag ist sie festzustellen, wenn der Antragsteller
 hieran ein berechtigtes Interesse hat.
 
-
 #### § 45 Heilung von Verfahrens- und Formfehlern
 
 (1) Eine Verletzung von Verfahrens- oder Formvorschriften, die nicht
@@ -1621,7 +1529,6 @@ Versäumung der Rechtsbehelfsfrist als nicht verschuldet. Das für die
 Wiedereinsetzungsfrist nach § 32 Abs. 2 maßgebende Ereignis tritt im
 Zeitpunkt der Nachholung der unterlassenen Verfahrenshandlung ein.
 
-
 #### § 46 Folgen von Verfahrens- und Formfehlern
 
 Die Aufhebung eines Verwaltungsaktes, der nicht nach § 44 nichtig ist,
@@ -1629,7 +1536,6 @@ kann nicht allein deshalb beansprucht werden, weil er unter Verletzung
 von Vorschriften über das Verfahren, die Form oder die örtliche
 Zuständigkeit zustande gekommen ist, wenn offensichtlich ist, dass die
 Verletzung die Entscheidung in der Sache nicht beeinflusst hat.
-
 
 #### § 47 Umdeutung eines fehlerhaften Verwaltungsaktes
 
@@ -1651,7 +1557,6 @@ ergehen kann, kann nicht in eine Ermessensentscheidung umgedeutet
 werden.
 
 (4) § 28 ist entsprechend anzuwenden.
-
 
 #### § 48 Rücknahme eines rechtswidrigen Verwaltungsaktes
 
@@ -1712,7 +1617,6 @@ Nr. 1.
 Verwaltungsaktes die nach § 3 zuständige Behörde; dies gilt auch dann,
 wenn der zurückzunehmende Verwaltungsakt von einer anderen Behörde
 erlassen worden ist.
-
 
 #### § 49 Widerruf eines rechtmäßigen Verwaltungsaktes
 
@@ -1789,7 +1693,6 @@ soweit sein Vertrauen schutzwürdig ist. § 48 Abs. 3 Satz 3 bis 5 gilt
 entsprechend. Für Streitigkeiten über die Entschädigung ist der
 ordentliche Rechtsweg gegeben.
 
-
 #### § 49a Erstattung, Verzinsung
 
 (1) Soweit ein Verwaltungsakt mit Wirkung für die Vergangenheit
@@ -1822,7 +1725,6 @@ werden. Entsprechendes gilt, soweit eine Leistung in Anspruch genommen
 wird, obwohl andere Mittel anteilig oder vorrangig einzusetzen sind. §
 49 Abs. 3 Satz 1 Nr. 1 bleibt unberührt.
 
-
 #### § 50 Rücknahme und Widerruf im Rechtsbehelfsverfahren
 
 § 48 Abs. 1 Satz 2 und Abs. 2 bis 4 sowie § 49 Abs. 2 bis 4 und 6
@@ -1830,7 +1732,6 @@ gelten nicht, wenn ein begünstigender Verwaltungsakt, der von einem
 Dritten angefochten worden ist, während des Vorverfahrens oder während
 des verwaltungsgerichtlichen Verfahrens aufgehoben wird, soweit
 dadurch dem Widerspruch oder der Klage abgeholfen wird.
-
 
 #### § 51 Wiederaufgreifen des Verfahrens
 
@@ -1867,7 +1768,6 @@ gilt auch dann, wenn der Verwaltungsakt, dessen Aufhebung oder
 (5) Die Vorschriften des § 48 Abs. 1 Satz 1 und des § 49 Abs. 1
 bleiben unberührt.
 
-
 #### § 52 Rückgabe von Urkunden und Sachen
 
 Ist ein Verwaltungsakt unanfechtbar widerrufen oder zurückgenommen
@@ -1884,10 +1784,7 @@ bei Sachen, bei denen eine solche Kennzeichnung nicht oder nicht mit
 der erforderlichen Offensichtlichkeit oder Dauerhaftigkeit möglich
 ist.
 
-
 ### Abschnitt 3 - Verjährungsrechtliche Wirkungen des Verwaltungsaktes
-
-
 
 #### § 53 Hemmung der Verjährung durch Verwaltungsakt
 
@@ -1903,10 +1800,7 @@ Verwaltungsakt einen Anspruch auf künftig fällig werdende regelmäßig
 wiederkehrende Leistungen zum Inhalt hat, bleibt es bei der für diesen
 Anspruch geltenden Verjährungsfrist.
 
-
 ## Teil IV - Öffentlich-rechtlicher Vertrag
-
-
 
 ### § 54 Zulässigkeit des öffentlich-rechtlichen Vertrags
 
@@ -1917,7 +1811,6 @@ Insbesondere kann die Behörde, anstatt einen Verwaltungsakt zu
 erlassen, einen öffentlich-rechtlichen Vertrag mit demjenigen
 schließen, an den sie sonst den Verwaltungsakt richten würde.
 
-
 ### § 55 Vergleichsvertrag
 
 Ein öffentlich-rechtlicher Vertrag im Sinne des § 54 Satz 2, durch den
@@ -1926,7 +1819,6 @@ bestehende Ungewissheit durch gegenseitiges Nachgeben beseitigt wird
 (Vergleich), kann geschlossen werden, wenn die Behörde den Abschluss
 des Vergleichs zur Beseitigung der Ungewissheit nach pflichtgemäßem
 Ermessen für zweckmäßig hält.
-
 
 ### § 56 Austauschvertrag
 
@@ -1942,13 +1834,11 @@ Zusammenhang mit der vertraglichen Leistung der Behörde stehen.
 eine solche Gegenleistung vereinbart werden, die bei Erlass eines
 Verwaltungsaktes Inhalt einer Nebenbestimmung nach § 36 sein könnte.
 
-
 ### § 57 Schriftform
 
 Ein öffentlich-rechtlicher Vertrag ist schriftlich zu schließen,
 soweit nicht durch Rechtsvorschrift eine andere Form vorgeschrieben
 ist.
-
 
 ### § 58 Zustimmung von Dritten und Behörden
 
@@ -1960,7 +1850,6 @@ Rechtsvorschrift die Genehmigung, die Zustimmung oder das Einvernehmen
 einer anderen Behörde erforderlich ist, ein Vertrag geschlossen, so
 wird dieser erst wirksam, nachdem die andere Behörde in der
 vorgeschriebenen Form mitgewirkt hat.
-
 
 ### § 59 Nichtigkeit des öffentlich-rechtlichen Vertrags
 
@@ -1994,7 +1883,6 @@ Bürgerlichen Gesetzbuchs ergibt.
 Ganzen nichtig, wenn nicht anzunehmen ist, dass er auch ohne den
 nichtigen Teil geschlossen worden wäre.
 
-
 ### § 60 Anpassung und Kündigung in besonderen Fällen
 
 (1) Haben die Verhältnisse, die für die Festsetzung des
@@ -2011,7 +1899,6 @@ beseitigen.
 (2) Die Kündigung bedarf der Schriftform, soweit nicht durch
 Rechtsvorschrift eine andere Form vorgeschrieben ist. Sie soll
 begründet werden.
-
 
 ### § 61 Unterwerfung unter die sofortige Vollstreckung
 
@@ -2034,21 +1921,15 @@ Vollstreckung wegen der Erzwingung einer Handlung, Duldung oder
 Unterlassung gegen eine Behörde im Sinne des § 1 Abs. 1 Nr. 2, so ist
 § 172 der Verwaltungsgerichtsordnung entsprechend anzuwenden.
 
-
 ### § 62 Ergänzende Anwendung von Vorschriften
 
 Soweit sich aus den §§ 54 bis 61 nichts Abweichendes ergibt, gelten
 die übrigen Vorschriften dieses Gesetzes. Ergänzend gelten die
 Vorschriften des Bürgerlichen Gesetzbuchs entsprechend.
 
-
 ## Teil V - Besondere Verfahrensarten
 
-
-
 ### Abschnitt 1 - Förmliches Verwaltungsverfahren
-
-
 
 #### § 63 Anwendung der Vorschriften über das förmliche Verwaltungsverfahren
 
@@ -2067,12 +1948,10 @@ ihrem amtlichen Veröffentlichungsblatt und außerdem in örtlichen
 Tageszeitungen, die in dem Bereich verbreitet sind, in dem sich die
 Entscheidung voraussichtlich auswirken wird, bekannt macht.
 
-
 #### § 64 Form des Antrags
 
 Setzt das förmliche Verwaltungsverfahren einen Antrag voraus, so ist
 er schriftlich oder zur Niederschrift bei der Behörde zu stellen.
-
 
 #### § 65 Mitwirkung von Zeugen und Sachverständigen
 
@@ -2112,7 +1991,6 @@ des öffentlichen Dienstes gestellt werden, der die Befähigung zum
 Richteramt hat oder die Voraussetzungen des § 110 Satz 1 des Deutschen
 Richtergesetzes erfüllt.
 
-
 #### § 66 Verpflichtung zur Anhörung von Beteiligten
 
 (1) Im förmlichen Verwaltungsverfahren ist den Beteiligten Gelegenheit
@@ -2123,7 +2001,6 @@ Zeugen und Sachverständigen und der Einnahme des Augenscheins
 beizuwohnen und hierbei sachdienliche Fragen zu stellen; ein
 schriftlich oder elektronisch vorliegendes Gutachten soll ihnen
 zugänglich gemacht werden.
-
 
 #### § 67 Erfordernis der mündlichen Verhandlung
 
@@ -2166,7 +2043,6 @@ Bekanntgabe im amtlichen Veröffentlichungsblatt.
 
 (3) Die Behörde soll das Verfahren so fördern, dass es möglichst in
 einem Verhandlungstermin erledigt werden kann.
-
 
 #### § 68 Verlauf der mündlichen Verhandlung
 
@@ -2213,7 +2089,6 @@ Aufnahme in eine Schrift gleich, die ihr als Anlage beigefügt und als
 solche bezeichnet ist; auf die Anlage ist in der
 Verhandlungsniederschrift hinzuweisen.
 
-
 #### § 69 Entscheidung
 
 (1) Die Behörde entscheidet unter Würdigung des Gesamtergebnisses des
@@ -2245,13 +2120,11 @@ Sind mehr als 50 Benachrichtigungen vorzunehmen, so können sie durch
 öffentliche Bekanntmachung ersetzt werden; Absatz 2 Satz 4 gilt
 entsprechend.
 
-
 #### § 70 Anfechtung der Entscheidung
 
 Vor Erhebung einer verwaltungsgerichtlichen Klage, die einen im
 förmlichen Verwaltungsverfahren erlassenen Verwaltungsakt zum
 Gegenstand hat, bedarf es keiner Nachprüfung in einem Vorverfahren.
-
 
 #### § 71 Besondere Vorschriften für das förmliche Verfahren vor Ausschüssen
 
@@ -2276,10 +2149,7 @@ den ihm bekannten Ablehnungsgrund geltend zu machen, in die mündliche
 Verhandlung eingelassen hat. Für die Entscheidung über die Ablehnung
 gilt § 20 Abs. 4 Satz 2 bis 4.
 
-
 ### Abschnitt 1a - Verfahren über eine einheitliche Stelle
-
-
 
 #### § 71a Anwendbarkeit
 
@@ -2292,7 +2162,6 @@ Gesetzes.
 (2) Der zuständigen Behörde obliegen die Pflichten aus § 71b Abs. 3, 4
 und 6, § 71c Abs. 2 und § 71e auch dann, wenn sich der Antragsteller
 oder Anzeigepflichtige unmittelbar an die zuständige Behörde wendet.
-
 
 #### § 71b Verfahren
 
@@ -2334,7 +2203,6 @@ bekannt gegeben. § 41 Abs. 2 Satz 3 gilt entsprechend. Von dem
 Antragsteller oder Anzeigepflichtigen kann nicht nach § 15 verlangt
 werden, einen Empfangsbevollmächtigten zu bestellen.
 
-
 #### § 71c Informationspflichten
 
 (1) Die einheitliche Stelle erteilt auf Anfrage unverzüglich Auskunft
@@ -2350,7 +2218,6 @@ Auskunft über die maßgeblichen Vorschriften und deren gewöhnliche
 Auslegung. Nach § 25 erforderliche Anregungen und Auskünfte werden
 unverzüglich gegeben.
 
-
 #### § 71d Gegenseitige Unterstützung
 
 Die einheitliche Stelle und die zuständigen Behörden wirken gemeinsam
@@ -2360,17 +2227,13 @@ unterstützen. Die zuständigen Behörden stellen der einheitlichen
 Stelle insbesondere die erforderlichen Informationen zum
 Verfahrensstand zur Verfügung.
 
-
 #### § 71e Elektronisches Verfahren
 
 Das Verfahren nach diesem Abschnitt wird auf Verlangen in
 elektronischer Form abgewickelt. § 3a Abs. 2 Satz 2 und 3 und Abs. 3
 bleibt unberührt.
 
-
 ### Abschnitt 2 - Planfeststellungsverfahren
-
-
 
 #### § 72 Anwendung der Vorschriften über das Planfeststellungsverfahren
 
@@ -2388,7 +2251,6 @@ die Behörde die Mitteilung oder die Aufforderung in ihrem amtlichen
 Veröffentlichungsblatt und außerdem in örtlichen Tageszeitungen, die
 in dem Bereich verbreitet sind, in dem sich das Vorhaben
 voraussichtlich auswirken wird, bekannt macht.
-
 
 #### § 73 Anhörungsverfahren
 
@@ -2508,7 +2370,6 @@ Monats nach Abschluss der Erörterung mit dem Plan, den Stellungnahmen
 der Behörden und den nicht erledigten Einwendungen der
 Planfeststellungsbehörde zu.
 
-
 #### § 74 Planfeststellungsbeschluss, Plangenehmigung
 
 (1) Die Planfeststellungsbehörde stellt den Plan fest
@@ -2590,10 +2451,6 @@ unwesentlicher Bedeutung. Diese liegen vor, wenn
 2.  Rechte anderer nicht beeinflusst werden oder mit den vom Plan
     Betroffenen entsprechende Vereinbarungen getroffen worden sind.
 
-
-
-
-
 #### § 75 Rechtswirkungen der Planfeststellung
 
 (1) Durch die Planfeststellung wird die Zulässigkeit des Vorhabens
@@ -2648,7 +2505,6 @@ sind.
 Jahren nach Eintritt der Unanfechtbarkeit begonnen, so tritt er außer
 Kraft.
 
-
 #### § 76 Planänderungen vor Fertigstellung des Vorhabens
 
 (1) Soll vor Fertigstellung des Vorhabens der festgestellte Plan
@@ -2664,7 +2520,6 @@ oder in anderen Fällen einer Planänderung von unwesentlicher Bedeutung
 ein Planfeststellungsverfahren durch, so bedarf es keines
 Anhörungsverfahrens und keiner öffentlichen Bekanntgabe des
 Planfeststellungsbeschlusses.
-
 
 #### § 77 Aufhebung des Planfeststellungsbeschlusses
 
@@ -2682,7 +2537,6 @@ Vorkehrungen verpflichtet werden; die hierdurch entstehenden Kosten
 hat jedoch der Eigentümer des benachbarten Grundstücks zu tragen, es
 sei denn, dass die Veränderungen durch natürliche Ereignisse oder
 höhere Gewalt verursacht worden sind.
-
 
 #### § 78 Zusammentreffen mehrerer Vorhaben
 
@@ -2709,10 +2563,7 @@ Bundes- und Landesbehörden nicht einigen, die Bundesregierung und die
 Landesregierung das Einvernehmen darüber herbei, welche
 Rechtsvorschrift anzuwenden ist.
 
-
 ## Teil VI - Rechtsbehelfsverfahren
-
-
 
 ### § 79 Rechtsbehelfe gegen Verwaltungsakte
 
@@ -2720,7 +2571,6 @@ Für förmliche Rechtsbehelfe gegen Verwaltungsakte gelten die
 Verwaltungsgerichtsordnung und die zu ihrer Ausführung ergangenen
 Rechtsvorschriften, soweit nicht durch Gesetz etwas anderes bestimmt
 ist; im Übrigen gelten die Vorschriften dieses Gesetzes.
-
 
 ### § 80 Erstattung von Kosten im Vorverfahren
 
@@ -2766,26 +2616,19 @@ oder eines sonstigen Bevollmächtigten notwendig war.
 (4) Die Absätze 1 bis 3 gelten auch für Vorverfahren bei Maßnahmen des
 Richterdienstrechts.
 
-
 ## Teil VII - Ehrenamtliche Tätigkeit, Ausschüsse
 
-
-
 ### Abschnitt 1 - Ehrenamtliche Tätigkeit
-
-
 
 #### § 81 Anwendung der Vorschriften über die ehrenamtliche Tätigkeit
 
 Für die ehrenamtliche Tätigkeit im Verwaltungsverfahren gelten die §§
 82 bis 87, soweit Rechtsvorschriften nichts Abweichendes bestimmen.
 
-
 #### § 82 Pflicht zu ehrenamtlicher Tätigkeit
 
 Eine Pflicht zur Übernahme ehrenamtlicher Tätigkeit besteht nur, wenn
 sie durch Rechtsvorschrift vorgesehen ist.
-
 
 #### § 83 Ausübung ehrenamtlicher Tätigkeit
 
@@ -2795,7 +2638,6 @@ unparteiisch auszuüben.
 (2) Bei Übernahme seiner Aufgaben ist er zur gewissenhaften und
 unparteiischen Tätigkeit und zur Verschwiegenheit besonders zu
 verpflichten. Die Verpflichtung ist aktenkundig zu machen.
-
 
 #### § 84 Verschwiegenheitspflicht
 
@@ -2827,12 +2669,10 @@ gewähren, den die öffentlichen Interessen zulassen.
 zuständige Aufsichtsbehörde der Stelle, die den ehrenamtlich Tätigen
 berufen hat.
 
-
 #### § 85 Entschädigung
 
 Der ehrenamtlich Tätige hat Anspruch auf Ersatz seiner notwendigen
 Auslagen und seines Verdienstausfalls.
-
 
 #### § 86 Abberufung
 
@@ -2845,10 +2685,6 @@ wenn der ehrenamtlich Tätige
 
 
 2.  seine Tätigkeit nicht mehr ordnungsgemäß ausüben kann.
-
-
-
-
 
 #### § 87 Ordnungswidrigkeiten
 
@@ -2866,10 +2702,7 @@ wenn der ehrenamtlich Tätige
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße geahndet werden.
 
-
 ### Abschnitt 2 - Ausschüsse
-
-
 
 #### § 88 Anwendung der Vorschriften über Ausschüsse
 
@@ -2878,12 +2711,10 @@ Für Ausschüsse, Beiräte und andere kollegiale Einrichtungen
 werden, die §§ 89 bis 93, soweit Rechtsvorschriften nichts
 Abweichendes bestimmen.
 
-
 #### § 89 Ordnung in den Sitzungen
 
 Der Vorsitzende eröffnet, leitet und schließt die Sitzungen; er ist
 für die Ordnung verantwortlich.
-
 
 #### § 90 Beschlussfähigkeit
 
@@ -2897,13 +2728,11 @@ worden und wird der Ausschuss zur Behandlung desselben Gegenstands
 erneut geladen, so ist er ohne Rücksicht auf die Zahl der Erschienenen
 beschlussfähig, wenn darauf in dieser Ladung hingewiesen worden ist.
 
-
 #### § 91 Beschlussfassung
 
 Beschlüsse werden mit Stimmenmehrheit gefasst. Bei Stimmengleichheit
 entscheidet die Stimme des Vorsitzenden, wenn er stimmberechtigt ist;
 sonst gilt Stimmengleichheit als Ablehnung.
-
 
 #### § 92 Wahlen durch Ausschüsse
 
@@ -2920,7 +2749,6 @@ Höchstzahlverfahren d'Hondt zu wählen, außer wenn einstimmig etwas
 anderes beschlossen worden ist. Über die Zuteilung der letzten
 Wahlstelle entscheidet bei gleicher Höchstzahl das vom Leiter der Wahl
 zu ziehende Los.
-
 
 #### § 93 Niederschrift
 
@@ -2947,10 +2775,7 @@ Die Niederschrift ist von dem Vorsitzenden und, soweit ein
 Schriftführer hinzugezogen worden ist, auch von diesem zu
 unterzeichnen.
 
-
 ## Teil VIII - Schlussvorschriften
-
-
 
 ### § 94 Übertragung gemeindlicher Aufgaben
 
@@ -2959,7 +2784,6 @@ und 74 dieses Gesetzes den Gemeinden obliegenden Aufgaben auf eine
 andere kommunale Gebietskörperschaft oder eine Verwaltungsgemeinschaft
 übertragen. Rechtsvorschriften der Länder, die entsprechende
 Regelungen bereits enthalten, bleiben unberührt.
-
 
 ### § 95 Sonderregelung für Verteidigungsangelegenheiten
 
@@ -2971,7 +2795,6 @@ abgesehen werden; in diesen Fällen gilt ein Verwaltungsakt abweichend
 von § 41 Abs. 4 Satz 3 mit dem auf die Bekanntmachung folgenden Tag
 als bekannt gegeben. Dasselbe gilt für die sonstigen gemäß Artikel 80a
 des Grundgesetzes anzuwendenden Rechtsvorschriften.
-
 
 ### § 96 Überleitung von Verfahren
 
@@ -2989,21 +2812,17 @@ hat, werden nach den bisher geltenden Rechtsvorschriften berechnet.
 Vorschriften dieses Gesetzes, wenn das Vorverfahren vor Inkrafttreten
 dieses Gesetzes noch nicht abgeschlossen worden ist.
 
-
 ### § 97
 
 (weggefallen)
-
 
 ### § 98
 
 (weggefallen)
 
-
 ### § 99
 
 (weggefallen)
-
 
 ### § 100 Landesgesetzliche Regelungen
 
@@ -3017,23 +2836,17 @@ Die Länder können durch Gesetz
     Rechtswirkungen des § 75 Abs. 1 Satz 1 auch gegenüber nach Bundesrecht
     notwendigen Entscheidungen gelten.
 
-
-
-
-
 ### § 101 Stadtstaatenklausel
 
 Die Senate der Länder Berlin, Bremen und Hamburg werden ermächtigt,
 die örtliche Zuständigkeit abweichend von § 3 dem besonderen
 Verwaltungsaufbau ihrer Länder entsprechend zu regeln.
 
-
 ### § 102 Übergangsvorschrift zu § 53
 
 Artikel 229 § 6 Abs. 1 bis 4 des Einführungsgesetzes zum Bürgerlichen
 Gesetzbuche gilt entsprechend bei der Anwendung des § 53 in der seit
 dem 1. Januar 2002 geltenden Fassung.
-
 
 ### § 103
 

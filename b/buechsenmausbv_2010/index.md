@@ -22,7 +22,6 @@ Fundstelle
     Berufsschule werden demnächst als Beilage im Bundesanzeiger
     veröffentlicht.
 
-
 ## Eingangsformel
 
 Auf Grund des § 25 Absatz 1 Satz 1 in Verbindung mit § 26 Absatz 1 und
@@ -33,18 +32,15 @@ Gesetzes vom 23. März 2005 (BGBl. I S. 931) neu gefasst worden ist,
 verordnet das Bundesministerium für Wirtschaft und Technologie im
 Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf des Büchsenmachers und der Büchsenmacherin wird
 nach § 25 der Handwerksordnung zur Ausbildung für das Gewerbe 22 der
 Anlage A der Handwerksordnung staatlich anerkannt.
 
-
 ## § 2 Dauer der Berufsausbildung
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Ausbildungsrahmenplan, Ausbildungsberufsbild
 
@@ -127,10 +123,6 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 9.  Prüfen und Messen.
 
-
-
-
-
 ## § 4 Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
@@ -150,7 +142,6 @@ Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
 Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
 durchzusehen.
 
-
 ## § 5 Gesellenprüfung
 
 (1) Die Gesellenprüfung besteht aus den beiden zeitlich
@@ -169,7 +160,6 @@ Feststellung der Berufsbefähigung erforderlich ist.
 (2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der
 Gesellenprüfung mit 25 Prozent und Teil 2 der Gesellenprüfung mit 75
 Prozent gewichtet.
-
 
 ## § 6 Teil 1 der Gesellenprüfung
 
@@ -209,10 +199,6 @@ Arbeitsauftrag.
 
 
 4.  die Prüfungszeit beträgt fünf Stunden.
-
-
-
-
 
 ## § 7 Teil 2 der Gesellenprüfung
 
@@ -400,10 +386,6 @@ folgende Vorgaben:
 
 3.  die Prüfungszeit beträgt 60 Minuten.
 
-
-
-
-
 ## § 8 Gewichtungs- und Bestehensregelung
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
@@ -467,7 +449,6 @@ Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und
 das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu
 gewichten.
 
-
 ## § 9 Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
@@ -477,18 +458,15 @@ Vorschriften dieser Verordnung fortgesetzt werden, wenn die
 Vertragsparteien dies vereinbaren und noch keine Zwischenprüfung
 abgelegt wurde.
 
-
 ## § 10 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2010 in Kraft. Gleichzeitig tritt
 die Büchsenmacher-Ausbildungsverordnung vom 6. April 1989 (BGBl. I S.
 682) außer Kraft.
 
-
 ## Anlage (zu § 3 Absatz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Büchsenmacher und zur Büchsenmacherin
 
 (Fundstelle: BGBl. I 2010, 680 - 686)
-
 
 ## Abschnitt A: Berufsprofilgebende Fertigkeiten, Kenntnisse und
 Fähigkeiten
@@ -996,9 +974,6 @@ Fähigkeiten
 
     *
     *   1
-
-
-
 
 ## Abschnitt B: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten
 

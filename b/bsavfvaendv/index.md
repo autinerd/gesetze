@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1994, 3493
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 33 Abs. 2 des Sortenschutzgesetzes vom 11. Dezember
@@ -32,11 +30,9 @@ Juni 1970 (BGBl. I S. 821), geändert durch Artikel 41 des Gesetzes vom
 für Ernährung, Landwirtschaft und Forsten im Einvernehmen mit den
 Bundesministerien der Finanzen und für Wirtschaft:
 
-
 ## Art 1
 
 -
-
 
 ## Art 2 Übergangsvorschrift
 
@@ -46,7 +42,6 @@ werden von dem ersten Zeitpunkt nach § 13 Abs. 1 Satz 2 an erhoben,
 der auf den Tag des Inkrafttretens dieser Verordnung folgt. Bis zu
 diesem Zeitpunkt richten sich die Gebühren jeweils nach den bisher
 geltenden Vorschriften.
-
 
 ## Art 3 Inkrafttreten
 

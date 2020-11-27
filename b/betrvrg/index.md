@@ -25,16 +25,13 @@ Art. 1 Nr. 51 Buchstabe a dient teilweise der Umsetzung der Richtlinie
 allgemeinen Rahmens für die Verwirklichung der Gleichbehandlung in
 Beschäftigung und Beruf (ABl. EG Nr. L 303 S. 16).
 
-
 ## (XXXX) Art 1 bis 12 (weggefallen)
-
 
 ## Art 13 Neufassung des Betriebsverfassungsgesetzes
 
 Das Bundesministerium für Arbeit und Sozialordnung kann den Wortlaut
 des Betriebsverfassungsgesetzes in der vom Inkrafttreten dieses
 Gesetzes an geltenden Fassung im Bundesgesetzblatt bekannt machen.
-
 
 ## Art 14 Inkrafttreten
 

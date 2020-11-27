@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1991, 2135
 
-
-
 ## (XXXX)
 
 Der Bundespräsident und der Bundeskanzler haben einen Briefwechsel zur

@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 10.5.2010 I 582
 
-
 ## Eingangsformel
 
 Auf Grund des § 43 Abs. 3 des Telekommunikationsgesetzes vom 25. Juli
@@ -31,14 +30,12 @@ I S. 3288) verordnet das Bundesministerium für Wirtschaft und
 Technologie im Einvernehmen mit dem Bundesministerium des Innern, dem
 Bundesministerium der Finanzen und dem Bundesministerium der Justiz:
 
-
 ## § 1 Erheben von Gebühren
 
 Die für Amtshandlungen im Zusammenhang mit Entscheidungen über die
 Zuteilung von Nummern nach dem Telekommunikationsgesetz zu erhebenden
 Gebühren bestimmen sich nach dem Gebührenverzeichnis in der Anlage.
 Auslagen sind in die Gebühren einbezogen.
-
 
 ## § 2 Gebührenerstattung nach Widerruf von Zuteilungen unter Vorbehalt
 
@@ -50,14 +47,12 @@ Berücksichtigung des mit der Nummernzuteilung verbundenen
 Verwaltungsaufwands, der Gültigkeitsdauer der Nummernzuteilung und des
 damit verbundenen wirtschaftlichen Nutzens angemessen ist.
 
-
 ## § 3 Gebühren in besonderen Fällen
 
 Für den Widerruf oder die Rücknahme, die Ablehnung des Antrags auf
 Vornahme sowie im Falle der Zurücknahme eines Antrags auf Vornahme
 einer Amtshandlung nach § 1 werden Gebühren nach Maßgabe des § 15 des
 Verwaltungskostengesetzes erhoben.
-
 
 ## § 3a Anwendungsbestimmung
 
@@ -70,11 +65,9 @@ Zuteilungen von Blöcken mit 1 000 elfstelligen Rufnummern im Ortsnetz
 erhoben, soweit ein nach dem 1. Januar 2005 ergangener
 Gebührenbescheid noch nicht unanfechtbar geworden ist.
 
-
 ## § 4 Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 1. August 1996 in Kraft.
-
 
 ## Anlage (zu § 1) Gebührenverzeichnis
 

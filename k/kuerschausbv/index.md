@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1997, 239
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
@@ -31,23 +29,19 @@ verordnet das Bundesministerium für Wirtschaft im Einvernehmen mit dem
 Bundesministerium für Bildung, Wissenschaft, Forschung und
 Technologie:
 
-
 ## § 1 Anwendungsbereich
 
 Diese Verordnung gilt für die Berufsausbildung in dem Ausbildungsberuf
 Kürschner/Kürschnerin nach der Handwerksordnung und für die
 Berufsausbildung in dem nach § 2 anerkannten Ausbildungsberuf.
 
-
 ## § 2 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Kürschner/Kürschnerin wird staatlich anerkannt.
 
-
 ## § 3 Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 4 Ausbildungsberufsbild
 
@@ -96,10 +90,6 @@ Fertigkeiten und Kenntnisse:
 
 14. Qualitätssicherung.
 
-
-
-
-
 ## § 5 Ausbildungsrahmenplan
 
 (1) Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der
@@ -116,12 +106,10 @@ Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges
 Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung
 ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
 
-
 ## § 6 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 7 Berichtsheft
 
@@ -129,7 +117,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 8 Zwischenprüfung
 
@@ -201,7 +188,6 @@ beziehen sollen, aus folgenden Gebieten schriftlich lösen:
 (5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere
 unterschritten werden, soweit die schriftliche Prüfung in
 programmierter Form durchgeführt wird.
-
 
 ## § 9 Abschlußprüfung/Gesellenprüfung
 
@@ -375,7 +361,6 @@ gegenüber jedem der übrigen Prüfungsfächer das doppelte Gewicht.
 Kenntnisprüfung sowie innerhalb der Kenntnisprüfung im Prüfungsfach
 Technologie mindestens ausreichende Leistungen erbracht werden.
 
-
 ## § 10 Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
@@ -383,11 +368,9 @@ Verordnung bestehen, sind die bisherigen Vorschriften weiter
 anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
 Anwendung der Vorschriften dieser Verordnung.
 
-
 ## § 11 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 1997 in Kraft.
-
 
 ## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Kürschner/zur Kürschnerin
 

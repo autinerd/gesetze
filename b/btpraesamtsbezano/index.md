@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1968, 761
 
-
-
 ## (XXXX)
 
 Auf Grund der mir am 29. März 1968 übertragenen Befugnis

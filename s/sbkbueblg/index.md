@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1990, 885, 992
 
-
-
 ## § 1
 
 Der Bund tritt in die Verbindlichkeiten aus der Gewährträgerhaftung
@@ -32,7 +30,6 @@ Herstellung der deutschen Einheit in das nicht rechtsfähige
 Sondervermögen nach Artikel 23 Abs. 1 des Einigungsvertrages
 übernommen. Als Inanspruchnahme aus der Gewährträgerhaftung gelten
 auch Leistungen zu ihrer Abwendung.
-
 
 ## § 2
 

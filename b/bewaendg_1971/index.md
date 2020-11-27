@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1971, 1157
 
-
-
 ## Art 1 Erstmalige Anwendung der Einheitswerte des Grundbesitzes
 
 (1) Die Einheitswerte des Grundbesitzes, denen die Wertverhältnisse
@@ -33,7 +31,6 @@ Januar 1964 zugrunde liegen, werden unter den Voraussetzungen der §§
 22 bis 24 des Bewertungsgesetzes in der Fassung des Artikels 3 dieses
 Gesetzes erstmals auf den 1. Januar 1974 vorgenommen.
 
-
 ## Art 2 *Ku Hauptfeststellung der Einheitswerte der Mineralgewinnungsrechte *KE
 
 (1) Für Mineralgewinnungsrechte findet die nächste Hauptfeststellung
@@ -46,10 +43,7 @@ anzuwenden bei der Feststellung von Einheitswerten der gewerblichen
 Betriebe auf den 1. Januar 1972 und bei der Festsetzung von Steuern,
 bei denen die Steuerschuld nach dem 31. Dezember 1971 entsteht.
 
-
 ## (XXXX) Art 3 und 4
-
-
 
 ## Art 5 Schlußvorschriften
 
@@ -75,17 +69,13 @@ landwirtschaftlichen Vermögen nach § 51a in Verbindung mit § 33 Abs. 3
 Nr. 4, § 34 Abs. 6a und § 97 Abs. 1 des Bewertungsgesetzes in der
 Fassung dieses Gesetzes.
 
-
 ## (XXXX) Art 6 bis 8
-
-
 
 ## Art 9 Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
 im Land Berlin.
-
 
 ## Art 10 Inkrafttreten
 

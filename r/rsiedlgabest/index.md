@@ -18,12 +18,10 @@ Fundstelle
 Geändert durch
 :   § 55 Nr. 3 G v. 28.8.1969 I 1513
 
-
 ## Eingangsformel
 
 Gemäß § 26 des Reichssiedlungsgesetzes vom 11. August 1919
 (Reichsgesetzbl. Nr. 155 S. 1429) wird bestimmt:
-
 
 ## - - Zu § 1
 
@@ -42,7 +40,6 @@ Leben rufen oder bestehenden sich anschließen.
 welcher Weise die Wohnungszentralbehörde des betreffenden Landes an
 der staatlichen Aufsicht über das Siedlungswesen zu beteiligen ist.
 
-
 ## - - Zu § 2
 
 1\. Als Staatsdomänen im Sinne der Verordnung gelten sämtliche in
@@ -54,14 +51,12 @@ neu verpachtet worden sind, brauchen erst nach Ablauf des neuen
 Pachtvertrags den gemeinnützigen Siedlungsunternehmungen angeboten zu
 werden.
 
-
 ## - - Zu § 3
 
 Die Entscheidung darüber, was als unbewirtschaftetes oder im Wege der
 dauernden Brennkultur oder zur Torfnutzung verwendetes Moorland oder
 als anderes Ödland anzusprechen ist, treffen die
 Landeszentralbehörden.
-
 
 ## - - Zu § 4
 
@@ -72,13 +67,11 @@ Grundbuch, insbesondere ob es auf einem oder auf mehreren
 Grundbuchblättern eingetragen ist, sondern allein die wirtschaftliche
 Zusammengehörigkeit.
 
-
 ## - - Zu § 7
 
 Den Ländern wird es überlassen, notfalls Verwaltungszwangsmaßnahmen
 festzusetzen, um die Besichtigungsbefugnis der Vorkaufsberechtigten zu
 gewährleisten.
-
 
 ## - - Zu § 12
 
@@ -90,18 +83,15 @@ die Zahl der großen Güter ihres Bezirks unter besonderer
 Kenntlichmachung der Veränderungen durch Zugänge und Abgänge jederzeit
 ersichtlich ist.
 
-
 ## - - Zu § 13
 
 Als bereitgestellt für Siedlungszwecke gilt Land, wenn dadurch
 Siedlungen im Sinne des § 1 des Gesetzes begründet werden.
 
-
 ## - - Zu § 15
 
 Bei Bemessung der Entschädigung sind etwaige Verbesserungen des Grund
 und Bodens, der Gebäude und des Inventars mitzuberücksichtigen.
-
 
 ## - - Zu § 16
 
@@ -121,7 +111,6 @@ Enteignung in Anspruch nehmen, deren Eigentümer die meisten Siedlungen
 schaffen oder freiwillig das meiste geeignete Siedlungsland zu
 angemessenem Preise (§ 13 Abs. 1 und 3) bereitstellen.
 
-
 ## - - Zu § 18
 
 Welche Kosten dem Erwerbspreis zugerechnet werden dürfen, bleibt der
@@ -129,7 +118,6 @@ Vereinbarung zwischen den Landlieferungsverbänden und den
 Siedlungsunternehmungen vorbehalten. Soweit zwischen ihnen eine
 Einigung hierüber nicht zustande kommt, entscheidet endgültig der
 ständige Ausschuß (§ 15).
-
 
 ## - - Zu § 22
 
@@ -141,20 +129,17 @@ bis 24 entsprechende Anwendung, wenn sie regelmäßig je 100 Tage
 mindestens zwei Jahre lang in einem forstwirtschaftlichen Betrieb
 beschäftigt sind.
 
-
 ## - - Zu § 23
 
 Den Ländern bleiben Maßnahmen dahingehend überlassen, wie den gemäß §§
 22 bis 24 mit Pachtland versehenen Arbeitern auf Wunsch die Ansiedlung
 zu Eigentum erleichtert werden kann.
 
-
 ## - - Zu § 24
 
 Den Ländern bleibt es überlassen, die Regelung der Rechtsbehelfe gegen
 die Festsetzung der Entschädigung entsprechend den §§ 3 und 15 zu
 treffen.
-
 
 ## - - Zu § 25
 
@@ -164,11 +149,9 @@ gestellt wird, den Eigentümern dieser Kleinbetriebe ein Vorkaufsrecht
 auf das ihnen zur Verfügung gestellte Land einzuräumen für den Fall,
 daß die Domäne gemäß § 2 bei Ablauf des Pachtvertrags aufgeteilt wird.
 
-
 ## - - Zu § 26
 
 -
-
 
 ### Schlußformel
 

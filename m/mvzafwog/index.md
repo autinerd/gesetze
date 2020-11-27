@@ -15,20 +15,14 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1981, 1523, 1542
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Unterartikel 2 -
 
-
-
 ## Unterartikel 3 -
-
-
 
 ## Unterartikel 4 - Änderung des Wohnungsbaugesetzes für das Saarland
 
@@ -96,13 +90,7 @@ wird wie folgt geändert:
     Höhe des neuen Zinssatzes und über den Zeitpunkt, von dem an die
     höhere Verzinsung verlangt werden soll."
 
-
-
-
-
 ## Unterartikel 5 - Schlußvorschriften
-
-
 
 ## § 1 Schuldnachlaß bei Rückzahlung
 
@@ -117,22 +105,18 @@ Inkrafttreten dieses Gesetzes zurückzahlt.
 Wohnungsfürsorgemitteln im Sinne der §§ 87a und 111 des Zweiten
 Wohnungsbaugesetzes gefördert worden ist.
 
-
 ## § 2 Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin.
 
-
 ## § 3 Saar-Klausel
 
 Unterartikel 2 und 3 gelten nicht im Saarland.
 
-
 ## § 4
 
 -
-
 
 ## § 5 Inkrafttreten
 

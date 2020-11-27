@@ -18,11 +18,7 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 25.1.2010 I 62
 
-
-
 ## Abschnitt 1 - Trockenschifffahrt
-
-
 
 ### § 1 Beginn der Ladezeit
 
@@ -43,7 +39,6 @@ Zeitpunkt ladebereit ist.
 anzeigt, oder wird bei einer Voranmeldung noch vor Ablauf der Frist
 von zwei Stunden nach dem angemeldeten Zeitpunkt der Ladebereitschaft
 geladen, so beginnt die Ladezeit mit dem Beginn des Ladens.
-
 
 ### § 2 Dauer der Ladezeit
 
@@ -71,13 +66,11 @@ Ansatz:
 Frachtführer während der darin genannten Zeiten vereinbarungsgemäß
 oder auf Weisung des Absenders oder der Meldestelle ladebereit ist.
 
-
 ### § 3 Löschzeit
 
 Für die Bestimmung des Beginns der Entladezeit (Löschzeit) sowie ihrer
 Dauer sind die §§ 1 und 2 entsprechend mit der Maßgabe anzuwenden,
 dass an die Stelle des Absenders der Empfänger tritt.
-
 
 ### § 4 Liegegeld
 
@@ -97,10 +90,7 @@ von Gut unmöglich ist.
 (3) Als ein Schiff im Sinne von Absatz 1 ist auch ein Schub- oder
 Koppelverband anzusehen.
 
-
 ## Abschnitt 2 - Tankschifffahrt
-
-
 
 ### § 5 Beginn der Lade- und Löschzeit
 
@@ -119,7 +109,6 @@ Löschbereitschaft nicht oder nicht fristgerecht vorangemeldet, beginnt
 die Frist in dem in § 1 Absatz 1 genannten Zeitpunkt oder, wenn vor
 diesem Zeitpunkt geladen oder gelöscht wird, mit dem Beginn des Ladens
 oder Löschens.
-
 
 ### § 6 Dauer der Lade- und Löschzeit
 
@@ -178,7 +167,6 @@ Satz 2 Nummer 1 und 2 ist nicht anzuwenden, soweit der Frachtführer
 während der darin genannten Zeiten vereinbarungsgemäß oder auf Weisung
 der Meldestelle oder des Absenders lade- oder löschbereit ist.
 
-
 ### § 7 Liegegeld
 
 (1) Das dem Frachtführer geschuldete Standgeld (Liegegeld) beträgt für
@@ -227,10 +215,7 @@ von Gut unmöglich ist.
 (4) Als ein Schiff im Sinne dieser Vorschrift ist auch ein Schub- oder
 Koppelverband anzusehen.
 
-
 ## Abschnitt 3 - Inkrafttreten
-
-
 
 ### § 8 (Inkrafttreten)
 

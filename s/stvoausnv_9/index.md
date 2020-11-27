@@ -21,7 +21,6 @@ Zuletzt geändert durch
 Die geltung der v ist durch
 :   § 8 idF d. V v. 11.11.2010 I 1624 über den 31.12.2010 hinaus verlängert worden
 
-
 ## § 1
 
 Abweichend von § 18 Abs. 5 Nr. 1 der Straßenverkehrs-Ordnung beträgt
@@ -140,10 +139,6 @@ Technische Festlegungen
     Berlin, erschienen. Sie sind beim Deutschen Patentamt archivmäßig
     gesichert niedergelegt.“
 
-
-
-
-
 ## § 2
 
 Der Bestätigung eines amtlich anerkannten Sachverständigen oder
@@ -159,7 +154,6 @@ wurde oder eine amtlich beglaubigte Übersetzung in deutscher Sprache
 vorgelegt und während der Fahrt mitgeführt und zuständigen Personen
 auf Verlangen zur Prüfung ausgehändigt wird.
 
-
 ## § 3
 
 Die Reifen des Anhängers müssen zum Zeitpunkt der jeweiligen Fahrt,
@@ -167,19 +161,16 @@ erkennbar am eingeprägten Herstellungsdatum, jünger als sechs Jahre
 und mindestens mit der Geschwindigkeitskategorie L (= 120 km/h)
 gekennzeichnet sein.
 
-
 ## § 4
 
 Die Stützlast der Kombination ist an der größtmöglichen Stützlast des
 Zugfahrzeugs oder des Anhängers zu orientieren, wobei als Obergrenze
 in jedem Fall der kleinere Wert gilt.
 
-
 ## § 5
 
 Die Ausführung der großen Tempo-100 km/h-Plakette nach § 1 Nr. 4
 bestimmt sich nach § 58 Abs. 2 der Straßenverkehrs-Zulassungs-Ordnung.
-
 
 ## § 6
 
@@ -187,14 +178,12 @@ Bei allen Veränderungen, die dazu führen, dass den Anforderungen
 dieser Verordnung nicht mehr entsprochen wird, richtet sich die
 zulässige Höchstgeschwindigkeit nach der Straßenverkehrs-Ordnung.
 
-
 ## § 7
 
 Bescheinigungen, die nach § 1 Nr. 5 in der bis zum 21. Oktober 2005
 geltenden Fassung ausgestellt worden sind, behalten in Bezug auf die
 darin zum Anhänger der Kombination enthaltenen Angaben weiterhin ihre
 Gültigkeit.
-
 
 ## § 8
 

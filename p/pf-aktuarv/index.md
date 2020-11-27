@@ -19,8 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 21.10.2011 I 2101
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 118 in Verbindung mit § 11a Abs. 6 des
@@ -30,7 +28,6 @@ Versicherungsaufsichtsgesetzes in der Fassung der Bekanntmachung vom
 und § 11a Abs. 6 durch Artikel 3 Nr. 5 Buchstabe a und b des Gesetzes
 vom 22. April 2002 (BGBl. I S. 1310) geändert worden sind, verordnet
 das Bundesministerium der Finanzen:
-
 
 ## § 1 Versicherungsmathematische Bestätigung
 
@@ -48,7 +45,6 @@ versicherungsmathematische Bestätigung versagt oder eingeschränkt
 wird. In beiden Fällen ist sie um zusätzliche Bemerkungen derart zu
 ergänzen, dass die Gründe für die Versagung oder Inhalt und Tragweite
 der Einschränkung klar umrissen werden.
-
 
 ## § 2 Erläuterungsbericht
 
@@ -152,7 +148,6 @@ Deckungsrückstellung gesondert anzugeben und zu erläutern.
 Entsprechendes gilt für Erhöhungen der Deckungsrückstellungen gemäß §
 341f Abs. 2 des Handelsgesetzbuches.
 
-
 ## § 2a Angemessenheitsbericht
 
 (1) Der Verantwortliche Aktuar hat im Angemessenheitsbericht
@@ -192,7 +187,6 @@ den vorgelegten Vorschlägen für eine angemessene Beteiligung am
 Überschuss oder dem Erläuterungsbericht ergeben, kann auf sie
 verwiesen werden.
 
-
 ## § 3 Vorlagefrist
 
 Der Erläuterungsbericht und der Angemessenheitsbericht sind bei Abgabe
@@ -200,13 +194,11 @@ der versicherungsmathematischen Bestätigung dem Vorstand vorzulegen.
 Der Vorstand hat die Berichte unverzüglich nach Aufstellung des
 Jahresabschlusses der Aufsichtsbehörde einzureichen.
 
-
 ## § 4 Inkrafttreten
 
 Diese Verordnung ist erstmals anzuwenden für die Geschäftsjahre, die
 nach dem 31. Dezember 2004 beginnen. Sie tritt am Tage nach der
 Verkündung in Kraft.
-
 
 ## Schlussformel
 

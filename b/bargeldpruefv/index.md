@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 2705
 
-
 ## Eingangsformel
 
 Auf Grund des § 36a Satz 1 bis 3 und 5 des Gesetzes über die Deutsche
@@ -25,7 +24,6 @@ Verordnung zur Übertragung der Verordnungsermächtigung nach § 36a des
 Gesetzes über die Deutsche Bundesbank vom 9. Juli 2012 (BGBl. I S.
 1507) verordnet der Vorstand der Deutschen Bundesbank im Einvernehmen
 mit dem Bundesministerium der Finanzen:
-
 
 ## § 1 Stichprobenentnahme bei Prüfungen
 
@@ -50,7 +48,6 @@ Einzahlungsbedingungen.
 
 (3) Die Deutsche Bundesbank hat den geprüften Stellen das Ergebnis der
 Stichprobenprüfung mitzuteilen.
-
 
 ## § 2 Berichte nach § 36 Absatz 2 und 3 Satz 1 des Gesetzes über die Deutsche Bundesbank
 
@@ -95,10 +92,6 @@ Deutsche Bundesbank müssen mindestens die folgenden Angaben enthalten:
 
     des Kontos, auf das die falsche oder als falsch verdächtige Banknote
     oder Münze oder der Gegenstand eingezahlt werden sollte.
-
-
-
-
 
 ## § 3 Meldepflichten
 
@@ -151,11 +144,9 @@ die Adresse, an die die Meldungen zu übermitteln sind.
 Meldepflichtige Meldungen über das ExtraNet der Deutschen Bundesbank
 gemäß den dafür geltenden Bedingungen erstatten.
 
-
 ## § 4 Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2013 in Kraft.
-
 
 ## Anlage 1 Meldung statistischer Daten an die Deutsche Bundesbank nach § 3 der Bargeldprüfungsverordnung – Stammdaten –
 
@@ -576,12 +567,6 @@ Diese Verordnung tritt am 1. Januar 2013 in Kraft.
     *        *   **Stück Banknoten**
 
         *
-
-
-
-
-
-
 
 ## Anlage 3 Meldung statistischer Daten an die Deutsche Bundesbank nach § 3 der Bargeldprüfungsverordnung – Operationale Daten – Auslagerung
 

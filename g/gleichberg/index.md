@@ -19,14 +19,9 @@ Fundstelle
 Geändert durch
 :   Art. 127 G v. 19.4.2006 I 866
 
-
 ## Art 1 bis 7 -
 
-
-
 ## Art 8 - Übergangs- und Schlußvorschriften
-
-
 
 ## I. Übergangsvorschriften
 
@@ -106,10 +101,6 @@ Geändert durch
 11. Die Nummern 3, 4, 6 und 7 gelten im Saarland mit der Maßgabe, daß an
     die Stelle des 31. März 1953 der 31. Dezember 1956 und an die Stelle
     des 1. April 1953 der 1. Januar 1957 tritt.
-
-
-
-
 
 ## II. Schlußvorschriften
 

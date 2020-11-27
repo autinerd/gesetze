@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 2973
 
-
-
 ## (XXXX)
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
@@ -48,11 +46,9 @@ Der glatte Münzrand enthält in vertiefter Prägung die Inschrift:
 "EIPHNH PAX FRIEDEN EIPHNH PAX FRIEDEN".
 Der Entwurf der Münze stammt von Herrn Bodo Broschat, Berlin.
 
-
 ## Schlussformel
 
 Der Bundesminister der Finanzen
-
 
 ## (XXXX)
 

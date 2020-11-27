@@ -56,19 +56,12 @@ Stand: Zuletzt geändert Art. 4 G v. 20.12.2012 I 2751
 
     *   §§ 45-46
 
-
-
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Erster Abschnitt - Übergangsvorschriften
-
-
 
 ### § 1 Grundkapital
 
@@ -91,7 +84,6 @@ dürfen Aktiengesellschaften nur eingetragen werden, wenn die
 Nennbeträge von Grundkapital und Aktien in Euro bezeichnet sind; das
 gleiche gilt für Beschlüsse über die Änderung des Grundkapitals.
 
-
 ### § 2 Mindestnennbetrag des Grundkapitals
 
 Für Aktiengesellschaften, die vor dem 1. Januar 1999 in das
@@ -105,7 +97,6 @@ geltenden Fassung, der bei Gründungen in Deutscher Mark zu dem vom Rat
 der Europäischen Union gemäß Artikel 109l Abs. 4 Satz 1 des EG-
 Vertrages unwiderruflich festgelegten Umrechnungskurs in Deutsche Mark
 umzurechnen ist.
-
 
 ### § 3 Mindestnennbetrag der Aktien
 
@@ -150,7 +141,6 @@ Beschluß nach dem 31. Dezember 2001 in das Handelsregister nur
 eingetragen werden, wenn zugleich eine Satzungsänderung über die
 Anpassung der Aktiennennbeträge an § 8 des Aktiengesetzes eingetragen
 wird.
-
 
 ### § 4 Verfahren der Umstellung auf den Euro
 
@@ -209,7 +199,6 @@ Anwendung.
 (6) § 73 Abs. 1 Satz 2 des Aktiengesetzes findet keine Anwendung. Im
 übrigen bleiben die aktienrechtlichen Vorschriften unberührt.
 
-
 ### § 5 Mehrstimmrechte. Höchststimmrechte
 
 (1) Mehrstimmrechte erlöschen am 1. Juni 2003, wenn nicht zuvor die
@@ -265,7 +254,6 @@ dem 1. Mai 1998 von der Satzung bestimmt sind, gelten die Sätze 2 bis
 5 des § 134 Abs. 1 des Aktiengesetzes in der vor dem 1. Mai 1998
 geltenden Fassung bis zum 1. Juni 2000 fort.
 
-
 ### § 6 Wechselseitig beteiligte Unternehmen
 
 (1) Sind eine Aktiengesellschaft und ein anderes Unternehmen bereits
@@ -305,14 +293,12 @@ Unternehmen statt dessen folgendes:
 Aktiengesetzes gemacht, so gilt § 328 Abs. 1 und 2 nicht für dieses
 Unternehmen.
 
-
 ### § 7 Mitteilungspflicht von Beteiligungen
 
 Die Mitteilungspflichten nach §§ 20, 21 und 328 Abs. 3 des
 Aktiengesetzes gelten auch für Beteiligungen, die beim Inkrafttreten
 des Aktiengesetzes bestehen. Die Beteiligungen sind binnen eines
 Monats nach dem Inkrafttreten des Aktiengesetzes mitzuteilen.
-
 
 ### § 8 Gegenstand des Unternehmens
 
@@ -324,11 +310,9 @@ die Hauptversammlung nur einzutragen, wenn zugleich die
 Satzungsbestimmung über den Gegenstand des Unternehmens an § 23 Abs. 3
 Nr. 2 des Aktiengesetzes angepaßt wird.
 
-
 ### § 9 Namensaktien
 
 (weggefallen)
-
 
 ### § 10 Nebenverpflichtungen der Aktionäre
 
@@ -341,14 +325,12 @@ Nebenverpflichtungen, so sind diese Änderungen nur einzutragen, wenn
 zugleich bestimmt wird, ob die Leistungen entgeltlich oder
 unentgeltlich zu erbringen sind.
 
-
 ### § 11 Nachgründungsgeschäfte
 
 Die Unwirksamkeit gemäß § 52 Aktiengesetz eines vor dem 1. Januar 2000
 geschlossenen Nachgründungsgeschäfts kann nach dem 1. Januar 2002 nur
 noch auf Grund der zum 1. Januar 2000 geänderten Fassung der
 Vorschrift geltend gemacht werden.
-
 
 ### § 12 Aufsichtsrat
 
@@ -381,7 +363,6 @@ des Bilanzrechtsmodernisierungsgesetzes vom 25. Mai 2009 (BGBl. I S.
 Aufsichtsrats und des Prüfungsausschusses vor dem 29. Mai 2009
 bestellt worden sind.
 
-
 ### § 13 Übergangsvorschrift zu § 175 und § 337 Abs. 2 und 3 des Aktiengesetzes
 
 § 175 des Aktiengesetzes in der Fassung des Artikels 1 Nr. 21 des
@@ -396,7 +377,6 @@ weiterhin anzuwenden. § 337 Abs. 2 des Aktiengesetzes in der bis zum
 und den Konzernlagebericht für das nach dem 31. Dezember 2001
 beginnende Geschäftsjahr anzuwenden.
 
-
 ### § 14 Übergangsvorschrift zu § 171 Abs. 2, 3 und § 173 Abs. 1 des Aktiengesetzes
 
 § 171 Abs. 2 Satz 5, Abs. 3 Satz 3 zweiter Halbsatz und § 173 Abs. 1
@@ -405,7 +385,6 @@ Transparenz- und Publizitätsgesetzes vom 19. Juli 2002 (BGBl. I S.
 2681) ist erstmals auf den Konzernabschluss für das nach dem 31.
 Dezember 2001 beginnende Geschäftsjahr anzuwenden.
 
-
 ### § 15 Übergangsvorschrift zu § 161 des Aktiengesetzes
 
 Die Erklärung nach § 161 des Aktiengesetzes ist erstmals im Jahr 2002
@@ -413,7 +392,6 @@ abzugeben. Sie kann in diesem Jahr aber darauf beschränkt werden, dass
 den Empfehlungen der "Regierungskommission Deutscher Corporate
 Governance Kodex" entsprochen wird oder welche Empfehlungen nicht
 angewendet werden.
-
 
 ### § 16 Übergangsvorschrift zu § 123 Abs. 2, 3 und § 125 Abs. 2 des Aktiengesetzes
 
@@ -435,14 +413,12 @@ mit Zustimmung des Aufsichtsrats ermächtigt, den Beschluss
 hinsichtlich des Zeitpunkts der Ausstellung des
 Legitimationsnachweises zu ändern.
 
-
 ### § 17 Übergangsvorschrift zu § 243 Abs. 3 Nr. 2 und § 249 Abs. 1 Satz 1 des Aktiengesetzes
 
 § 243 Abs. 3 Nr. 2 und § 249 Abs. 1 Satz 1 des Aktiengesetzes in der
 Fassung des Bilanzrechtsreformgesetzes vom 4. Dezember 2004 (BGBl. I
 S. 3166) sind erstmals auf Anfechtungsklagen und Nichtigkeitsklagen
 anzuwenden, die nach dem 31. Dezember 2004 erhoben worden sind.
-
 
 ### § 18 Übergangsvorschrift zu den §§ 37 und 39 des Aktiengesetzes
 
@@ -478,7 +454,6 @@ früher nach § 24 Abs. 2 der Handelsregisterverordnung mitgeteilten
 Anschrift abweicht. Eintragungen nach den Sätzen 3 bis 5 werden
 abweichend von § 10 des Handelsgesetzbuchs nicht bekannt gemacht.
 
-
 ### § 19 Übergangsvorschrift zu § 76 Abs. 3 Satz 2 Nr. 3 und Satz 3 des Aktiengesetzes
 
 § 76 Abs. 3 Satz 2 Nr. 3 Buchstabe a, c, d und e des Aktiengesetzes in
@@ -490,7 +465,6 @@ rechtskräftig geworden ist. Entsprechendes gilt für § 76 Abs. 3 Satz 3
 des Aktiengesetzes in der ab dem 1. November 2008 geltenden Fassung,
 soweit die Verurteilung wegen einer Tat erfolgte, die den Straftaten
 im Sinne des Satzes 1 vergleichbar ist.
-
 
 ### § 20 Übergangsvorschrift zum Gesetz zur Umsetzung der Aktionärsrechterichtlinie
 
@@ -543,7 +517,6 @@ zwischen der Gesellschaft und dem Gesellschafter getroffen worden ist;
 in diesem Fall beurteilt sich die Rechtslage nach den bis zum 1.
 September 2009 geltenden Vorschriften.
 
-
 ### § 21 Heilung der Nichtigkeit von Jahresabschlüssen
 
 § 256 Abs. 6 des Aktiengesetzes über die Heilung der Nichtigkeit von
@@ -554,7 +527,6 @@ Aktiengesetzes bei den bisherigen Vorschriften. Die in § 256 Abs. 6
 des Aktiengesetzes bestimmten Fristen beginnen für Jahresabschlüsse,
 die vor dem Inkrafttreten des Aktiengesetzes festgestellt worden sind,
 nicht vor dem Inkrafttreten des Aktiengesetzes.
-
 
 ### § 22 Unternehmensverträge
 
@@ -585,7 +557,6 @@ Beschlusses anzugeben, durch den die Hauptversammlung dem Vertrag
 zugestimmt hat. Bei Teilgewinnabführungsverträgen ist außerdem die
 Vereinbarung über die Höhe des abzuführenden Gewinns anzumelden.
 
-
 ### § 23 Übergangsvorschrift zum Gesetz zur Angemessenheit der Vorstandsvergütung
 
 (1) § 93 Absatz 2 Satz 3 des Aktiengesetzes in der ab dem 5. August
@@ -606,23 +577,18 @@ August 2009 geltenden Fassung ist erstmals auf Beschlüsse anzuwenden,
 die in Hauptversammlungen gefasst werden, die nach dem 5. August 2009
 einberufen werden.
 
-
 ### § 24 Übergangsvorschrift zu dem Gesetz zur Restrukturierung und geordneten Abwicklung von Kreditinstituten, zur Errichtung eines Restrukturierungsfonds für Kreditinstitute und zur Verlängerung der Verjährungsfrist der aktienrechtlichen Organhaftung
 
 § 93 Absatz 6 des Aktiengesetzes in der seit dem 15. Dezember 2010
 geltenden Fassung ist auch auf die vor dem 15. Dezember 2010
 entstandenen und noch nicht verjährten Ansprüche anzuwenden.
 
-
 ### § 25 (weggefallen)
-
-
 
 ### § 26 Kommanditgesellschaften auf Aktien
 
 Die Vorschriften dieses Abschnitts gelten sinngemäß für
 Kommanditgesellschaften auf Aktien.
-
 
 ### § 26a Ergänzung fortgeführter Firmen
 
@@ -634,13 +600,11 @@ aufnehmen. Findet bis zu diesem Tag eine Hauptversammlung nicht statt
 und soll die Firma nur um die Bezeichnung "Aktiengesellschaft" ergänzt
 werden, so ist der Aufsichtsrat zu dieser Änderung befugt.
 
-
 ### § 26b Änderung der Satzung
 
 Eine Änderung der Satzung, die nach § 23 des Aktiengesetzes wegen der
 vom 1. Juli 1979 an geltenden Fassung erforderlich wird, ist bis zum
 16\. Juni 1980 zur Eintragung in das Handelsregister anzumelden.
-
 
 ### § 26c Übergangsfristen
 
@@ -654,7 +618,6 @@ vorgesehen sind, beginnen nicht vor dem 16. Juni 1980. Die nach § 150a
 des Aktiengesetzes vorgeschriebene Rücklage für eigene Aktien braucht
 nicht vor dem 16. Juni 1980 gebildet zu werden.
 
-
 ### § 26d Übergangsregelung für Verschmelzungen
 
 Die Vorschriften des Aktiengesetzes über Verschmelzungen und
@@ -663,7 +626,6 @@ sind nicht auf Vorgänge anzuwenden, zu deren Vorbereitung bereits vor
 diesem Tag der Verschmelzungs- oder Übertragungsvertrag beurkundet
 oder eine Haupt-, Gesellschafter- oder Gewerkenversammlung oder eine
 oberste Vertretung einberufen worden ist.
-
 
 ### § 26e Übergangsregelung zum Gesetz zur Anpassung von Verjährungsvorschriften an das Gesetz zur Modernisierung des Schuldrechts
 
@@ -686,7 +648,6 @@ Auf später fällig werdende Verbindlichkeiten im Sinne des Satzes 1 ist
 das bisher geltende Recht mit der Maßgabe anwendbar, dass die
 Verjährungsfrist ein Jahr beträgt.
 
-
 ### § 26f Übergangsregelungen zum Kleinstkapitalgesellschaften-Bilanzrechtsänderungsgesetz
 
 Die §§ 152, 158 und 160 des Aktiengesetzes in der Fassung des
@@ -699,10 +660,7 @@ liegenden Abschlussstichtag beziehen, bleiben die §§ 152, 158 und 160
 des Aktiengesetzes vom 6. September 1965 (BGBl. I S. 1089) in der bis
 zum 27. Dezember 2012 geltenden Fassung anwendbar.
 
-
 ## Zweiter Abschnitt - Anwendung aktienrechtlicher Vorschriften auf Unternehmen mit anderer Rechtsform
-
-
 
 ### § 27 Entscheidung über die Zusammensetzung des Aufsichtsrats
 
@@ -710,11 +668,9 @@ zum 27. Dezember 2012 geltenden Fassung anwendbar.
 Gesellschaften mit beschränkter Haftung und bergrechtliche
 Gewerkschaften.
 
-
 ### § 28
 
 (weggefallen)
-
 
 ### § 28a Treuhandanstalt
 
@@ -723,18 +679,11 @@ auf die Treuhandanstalt nicht anzuwenden. Dies gilt nicht für die
 Anwendung von Vorschriften über die Vertretung der Arbeitnehmer im
 Aufsichtsrat eines von der Treuhandanstalt verwalteten Unternehmens.
 
-
 ## Dritter Abschnitt - Aufhebung und Änderung von Gesetzen
-
-
 
 ### § 29 (weggefallen)
 
-
-
 ### (XXXX) §§ 30 bis 32
-
-
 
 ### § 33 Gesetz über die Kapitalerhöhung aus Gesellschaftsmitteln und über die Gewinn- und Verlustrechnung
 
@@ -768,14 +717,9 @@ amtlichen Handel zugelassen, so gilt die Zulassung auch für die neuen
 Aktien, die bei einer Kapitalerhöhung aus Gesellschaftsmitteln auf sie
 entfallen.
 
-
 ### (XXXX) §§ 34 bis 44
 
-
-
 ## Vierter Abschnitt - Schlußvorschriften
-
-
 
 ### § 45 Geltung in Berlin
 
@@ -783,11 +727,9 @@ Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
 im Land Berlin.
 
-
 ### § 46 Inkrafttreten
 
 Dieses Gesetz tritt am 1. Januar 1966 in Kraft.
-
 
 ### Anhang EV Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet D Abschnitt III (BGBl. II 1990, 889, 960)
 

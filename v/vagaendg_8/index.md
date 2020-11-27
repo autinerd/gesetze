@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 923
 
-
-
 ## Artikel 6 Übergangsregelung
 
 Sofern eine Pensionskasse gemäß § 118b Abs. 3 Satz 3 oder Abs. 4 Satz

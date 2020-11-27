@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 3286
 
-
-
 ## (XXXX)
 
 Der Beitragssatz beträgt für das Jahr 2007 in der allgemeinen

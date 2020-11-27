@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 1273
 
-
 ## Eingangsformel
 
 Auf Grund des § 30 Absatz 14 des Bundesversorgungsgesetzes, der
@@ -24,9 +23,7 @@ zuletzt durch Artikel 1 Nummer 20 Buchstabe g des Gesetzes vom 23.
 März 1990 (BGBl. I S. 582) geändert worden ist, verordnet die
 Bundesregierung:
 
-
 ## Abschnitt 1 - Berufsschadensausgleich
-
 
 ### § 1 Anwendungsbereich
 
@@ -34,7 +31,6 @@ Die Regelungen dieses Abschnitts gelten für die Feststellung des
 Einkommensverlustes nach § 30 Absatz 4 Satz 1 sowie für die
 Feststellung des Berufsschadensausgleichs nach § 30 Absatz 6 und 12
 des Bundesversorgungsgesetzes.
-
 
 ### § 2 Vergleichseinkommen
 
@@ -82,7 +78,6 @@ Durchschnittseinkommen nach § 5 ermittelt.
 Vorschriften in Betracht kommende Tätigkeit ausüben. Ein durch die
 Schädigung verhinderter Aufstieg im Beruf ist zu berücksichtigen.
 
-
 ### § 3 Durchschnittseinkommen
 
 (1) Durchschnittseinkommen ist bei Beschädigten ohne abgeschlossene
@@ -117,7 +112,6 @@ gleich, auf dessen Ausübung sich die Schädigung nachteilig auswirkt,
 es sei denn, dass diese Tätigkeit nicht geeignet war, das Einkommen
 der Tätigkeit erheblich über das ohne Berufsausbildung erreichbare Maß
 zu fördern.
-
 
 ### § 4 Ermittlung des Durchschnittseinkommens in besonderen Fällen
 
@@ -157,7 +151,6 @@ eigenen Arbeitsleistung ist zum Vergleich das Grundgehalt der Stufe 8
 der Besoldungsgruppe der Bundesbesoldungsordnung A heranzuziehen, das
 Beamten des Bundes in vergleichbarer Stellung zu zahlen gewesen wäre.
 
-
 ### § 5 Ermittlung des Durchschnittseinkommens bei einer vor Beginn der Berufsausbildung erlittenen Schädigung
 
 Sind Beschädigte infolge einer vor Beginn der Berufsausbildung
@@ -191,7 +184,6 @@ Bundesbesoldungsgesetz; bei vermutlichem
 
 Der Berufsschadensausgleich ist frühestens nach dem vermutlichen
 Abschluss der beruflichen Ausbildung zu gewähren.
-
 
 ### § 6 Durchschnittseinkommen im Sinne des § 30 Absatz 11 und des § 64c Absatz 2
 
@@ -232,7 +224,6 @@ Bundesversorgungsgesetzes an jeweils um ein Viertel zu mindern.
 (5) In den Fällen des § 64c Absatz 2 Satz 2 und 3 gelten die Absätze 1
 bis 4 entsprechend.
 
-
 ### § 7 Kürzung des Vergleichseinkommens und des Durchschnittseinkommens
 
 (1) Als Vergleichseinkommen im Sinne des § 30 Absatz 5 des
@@ -270,7 +261,6 @@ erwerbstätig wären.
 ergebenden Zeitpunkt an der Betrag nach § 30 Absatz 7 Satz 2 des
 Bundesversorgungsgesetzes das Vergleichs- oder das
 Durchschnittseinkommen.
-
 
 ### § 8 Derzeitiges Bruttoeinkommen
 
@@ -426,7 +416,6 @@ Die Sätze 1 bis 5 gelten nicht, wenn der Berufsschadensausgleich für
 den Monat Juni 1990 bereits unter Anrechnung des tatsächlich erzielten
 derzeitigen Bruttoeinkommens festgestellt war.
 
-
 ### § 9 Nicht zu berücksichtigende Einkünfte
 
 (1) Zum derzeitigen Bruttoeinkommen im Sinne des § 30 Absatz 4 Satz 1
@@ -452,9 +441,7 @@ Bundesversorgungsgesetzes gilt Satz 1 mit der Maßgabe, dass der
 Nettobetrag des derzeitigen Einkommens insgesamt mit dem Nettobetrag
 des Durchschnittseinkommens zu vergleichen ist.
 
-
 ## Abschnitt 2 - Schadensausgleich für Witwen, Witwer sowie hinterbliebene Lebenspartnerinnen und Lebenspartner
-
 
 ### § 10 Vergleichseinkommen
 
@@ -475,7 +462,6 @@ Anwendung des § 7 berücksichtigte Bruttoeinkommen errechnet.
 Bundesversorgungsgesetzes bezeichneten Vergleichseinkommens sind die
 §§ 2 bis 5 entsprechend anzuwenden.
 
-
 ### § 11 Bruttoeinkommen
 
 Für die Ermittlung des Bruttoeinkommens im Sinne des § 40a Absatz 2
@@ -490,16 +476,13 @@ des Betrags, der dem Einkommen für den Monat der Berechnung der
 Leistung entspricht, unberücksichtigt. Bei Einkünften aus
 nichtselbstständiger Arbeit sind Werbungskosten nicht abzusetzen.
 
-
 ## Abschnitt 3 - Gemeinsame Vorschriften
-
 
 ### § 12 Rundungsvorschrift
 
 Sind der Berechnung des Berufsschadens- oder Schadensausgleichs Teile
 des Vergleichs- oder Durchschnittseinkommens zugrunde zu legen, ist
 der Endbetrag von 0,50 Euro an aufzurunden, sonst abzurunden.
-
 
 ### § 13 Inkrafttreten, Außerkrafttreten
 
@@ -508,7 +491,6 @@ die Berufsschadensausgleichsverordnung in der Fassung der
 Bekanntmachung vom 29. Juni 1984 (BGBl. I S. 861), die zuletzt durch
 Artikel 17 des Gesetzes vom 13. Dezember 2007 (BGBl. I S. 2904)
 geändert worden ist, außer Kraft.
-
 
 ### Schlussformel
 

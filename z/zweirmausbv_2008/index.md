@@ -22,7 +22,6 @@ Fundstelle
     Deutschland beschlossene Rahmenlehrplan für die Berufsschule werden
     demnächst als Beilage im Bundesanzeiger veröffentlicht.
 
-
 ## Eingangsformel
 
 Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 und auf Grund des § 6
@@ -38,7 +37,6 @@ des Gesetzes vom 23. März 2005 (BGBl. I S. 931) geändert worden sind,
 verordnet das Bundesministerium für Wirtschaft und Technologie im
 Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Zweiradmechaniker und Zweiradmechanikerin wird
@@ -53,11 +51,9 @@ Der Ausbildungsberuf Zweiradmechaniker und Zweiradmechanikerin wird
 
 staatlich anerkannt.
 
-
 ## § 2 Ausbildungsdauer
 
 Die Ausbildung dauert dreieinhalb Jahre.
-
 
 ## § 3 Struktur der Berufsausbildung
 
@@ -68,10 +64,6 @@ und in die Ausbildung in einer der Fachrichtungen
 
 
 2.  Motorradtechnik.
-
-
-
-
 
 ## § 4 Ausbildungsrahmenplan und Ausbildungsberufsbild
 
@@ -200,10 +192,6 @@ Motorradtechnik:
 
 9.  Verkaufen von Dienstleistungen und Produkten.
 
-
-
-
-
 ## § 5 Durchführung der Berufsausbildung
 
 (1) Die in § 4 genannten Fertigkeiten, Kenntnisse und Fähigkeiten
@@ -222,7 +210,6 @@ zu erstellen.
 zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
 Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
 Ausbildenden haben den Ausbildungsnachweis regelmäßig durchzusehen.
-
 
 ## § 6 Abschlussprüfung/Gesellenprüfung
 
@@ -244,7 +231,6 @@ ist.
 (2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der
 Abschlussprüfung/Gesellenprüfung mit 35 Prozent und Teil 2 der
 Abschlussprüfung/Gesellenprüfung mit 65 Prozent gewichtet.
-
 
 ## § 7 Teil 1 der Abschlussprüfung/Gesellenprüfung
 
@@ -310,10 +296,6 @@ Prüfungsbereich Arbeitsauftrag.
     das Fachgespräch in insgesamt höchstens 15 Minuten und die Bearbeitung
     der schriftlichen Aufgabenstellungen in drei Stunden durchgeführt
     werden.
-
-
-
-
 
 ## § 8 Teil 2 der Abschlussprüfung/Gesellenprüfung in der Fachrichtung Fahrradtechnik
 
@@ -507,10 +489,6 @@ folgende Vorgaben:
 
 3.  die Prüfungszeit beträgt eine Stunde.
 
-
-
-
-
 ## § 9 Gewichtungs- und Bestehensregelung in der Fachrichtung Fahrradtechnik
 
 (1) Die Prüfungsbereiche in der Fachrichtung Fahrradtechnik sind wie
@@ -575,7 +553,6 @@ Fahrradtechnik ist bestanden, wenn die Leistungen
 
 
 bewertet worden sind.
-
 
 ## § 10 Teil 2 der Abschlussprüfung/Gesellenprüfung in der Fachrichtung Motorradtechnik
 
@@ -773,10 +750,6 @@ folgende Vorgaben:
 
 3.  die Prüfungszeit beträgt 60 Minuten.
 
-
-
-
-
 ## § 11 Gewichtungs- und Bestehensregelung in der Fachrichtung Motorradtechnik
 
 (1) Die Prüfungsbereiche in der Fachrichtung Motorradtechnik sind wie
@@ -841,7 +814,6 @@ Motorradtechnik ist bestanden, wenn die Leistungen
 
 bewertet worden sind.
 
-
 ## § 12 Mündliche Ergänzungsprüfung
 
 Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der
@@ -854,7 +826,6 @@ des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis
 und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2
 : 1 zu gewichten.
 
-
 ## § 13 Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
@@ -865,11 +836,9 @@ Vereinbarung nicht zustande, sind auf Berufsausbildungsverhältnisse,
 die bis zum 31. Juli 2008 begonnen wurden, die Vorschriften der in §
 14 Satz 2 genannten Verordnungen weiter anzuwenden.
 
-
 ## § 14 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2008 in Kraft.
-
 
 ## Anlage (zu § 4)   Ausbildungsrahmenplan für die Berufsausbildung zum Zweiradmechaniker/zur Zweiradmechanikerin
 

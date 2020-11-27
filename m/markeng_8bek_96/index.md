@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1996, 747
 
-
-
 ## I.
 
 Auf Grund des § 8 Abs. 2 Nr. 7 des Markengesetzes vom 5. Oktober 1994
@@ -29,10 +27,6 @@ Gewährzeichen bekanntgemacht:
 
 2.  Prüf- und Gewährzeichen für "Welt-Klasse-Produkte", das in der
     Republik Korea eingeführt ist (Anlage 2).
-
-
-
-
 
 ## II.
 
@@ -54,35 +48,29 @@ daß die folgenden Kennzeichen:
 
 von der Eintragung als Marke ausgeschlossen sind.
 
-
 ## III.
 
 Diese Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom 21.
 November 1995 (BGBl. I S. 1587).
 
-
 ## Schlußformel
 
 Bundesministerium der Justiz
-
 
 ## Anlage 1 Prüf- und Gewährzeichen der Republik Moldau für Gegenstände aus Edelmetall
 
 (Inhalt: Nicht darstellbare Prüf- und Gewährzeichen,
 Fundstelle: BGBl. I 1996, 748)
 
-
 ## Anlage 2 Prüf- und Gewährzeichen der Republik Korea "Koreanisches Welt-Klasse-Produkt"
 
 (Inhalt: Nicht darstellbare Prüf- und Gewährzeichen,
 Fundstelle: BGBl. I 1996, 749)
 
-
 ## Anlage 3 Neues Kennzeichen Nr. 1 der Europäischen Freihandelsassoziation eingeführt ab 1. Januar 1995
 
 (Inhalt: Nicht darstellbares EFTA-Kennzeichen,
 Fundstelle: BGBl. I 1996, 750)
-
 
 ## Anlage 4
 
@@ -96,7 +84,6 @@ flore sauvages menacees d`extinction
 Abkürzung: C.I.T.E.S.
 (Inhalt: nicht darstellbares CITES-Kennzeichen,
 Fundstelle: BGBl. I 1996, 751)
-
 
 ## Anlage 5 Asia-Pacific Economic Cooperation
 

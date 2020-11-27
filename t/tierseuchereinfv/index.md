@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 414 V v. 31.10.2006 I 2407
 
-
 ## I. - Allgemeine Vorschriften
-
-
 
 ### § 1
 
@@ -64,19 +61,12 @@ Im Sinne dieser Verordnung sind
     Betriebsangehörige die Voraussetzungen der Nummer 2 Buchstabe a und b
     erfüllt.
 
-
-
-
-
 ### § 1a
 
 Das innergemeinschaftliche Verbringen aus anderen Mitgliedstaaten
 (Verbringen) und die Einfuhr von Tierseuchenerregern sind verboten.
 
-
 ## II. - Innergemeinschaftliches Verbringen und Einfuhr von Tierseuchenerregern
-
-
 
 ### § 2
 
@@ -127,10 +117,6 @@ insbesondere vorzusehen:
     sowie aller Gegenstände, die Träger des Ansteckungsstoffes sind oder
     sein können.
 
-
-
-
-
 ### § 3
 
 Die zuständigen obersten Landesbehörden können wissenschaftlich
@@ -147,10 +133,6 @@ insbesondere können folgende Auflagen angeordnet werden:
 
 2.  die in § 2 Abs. 2 Satz 3 Nr. 2 bis 4 genannten Auflagen.
 
-
-
-
-
 ### § 4
 
 Die zuständigen obersten Landesbehörden können wissenschaftlich
@@ -165,10 +147,7 @@ oder diagnostischen Mittels für serologische Zwecke handelt. Soweit es
 zum Schutz gegen Seuchenverschleppungen erforderlich ist, ist
 zusätzlich die Verwendung der Tierseuchenerreger zu beschränken.
 
-
 ## III. - Verbringen und Einfuhr von Impfstoffen und Antigenpräparationen, die Tierseuchenerreger enthalten
-
-
 
 ### § 4a
 
@@ -178,7 +157,6 @@ Antigenpräparationen, die Tierseuchenerreger enthalten, sind verboten.
 (2) Absatz 1 gilt nicht für Impfstoffe und Antigenpräparationen, die
 der zuständigen Bundesoberbehörde zum Zwecke der Zulassung oder der
 Chargenprüfung übersandt werden.
-
 
 ### § 5
 
@@ -245,10 +223,6 @@ In diesen sind insbesondere vorzusehen:
     Impfstoffes verwendeten Erregerstammes und des Impfstoffes in einem
     von der Genehmigungsbehörde bestimmten Institut.
 
-
-
-
-
 ### § 6
 
 (1) Die zuständigen obersten Landesbehörden können für Schutzimpfungen
@@ -278,7 +252,6 @@ von Antigenpräparationen genehmigen, die
 Die Genehmigungen sind mit der Auflage zu versehen, daß die
 Antigenpräparation nur an andere wissenschaftlich geleitete
 Einrichtungen oder Betriebe abgegeben werden darf.
-
 
 ### § 7
 
@@ -319,10 +292,7 @@ genehmigen
 Die Genehmigung kann mit Nebenbestimmungen versehen werden; § 5 Abs. 1
 Satz 3 und 4 und Abs. 2 gilt entsprechend.
 
-
 ## IV. - Ordnungswidrigkeiten
-
-
 
 ### § 8
 
@@ -343,15 +313,11 @@ Tierseuchengesetzes handelt, wer vorsätzlich oder fahrlässig
 
 verbringt oder einführt.
 
-
 ## V. - Schlußvorschriften
-
-
 
 ### § 9
 
 Diese Verordnung tritt drei Monate nach der Verkündung in Kraft.
-
 
 ### Anlage 1 (zu den §§ 3 und 4)
 
@@ -871,10 +837,6 @@ Diese Verordnung tritt drei Monate nach der Verkündung in Kraft.
     *   Besnoitia besnoiti
 
     *   Besnoitose
-
-
-
-
 
 ### Anlage 2 (zu § 6)
 

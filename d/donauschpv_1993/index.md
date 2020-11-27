@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 § 7 V v. 19.12.2008 I 2868; 2010, 380
 
-
 ## Eingangsformel
 
 Auf Grund des § 3 Abs. 1 Nr. 1 bis 5 und des § 3c Abs. 1 Nr. 2 des
@@ -40,13 +39,11 @@ geändert gemäß Artikel 66 der Verordnung vom 26. Februar 1993 (BGBl. I
 S. 278), im Einvernehmen mit dem Bundesministerium für Post und
 Telekommunikation:
 
-
 ## § 1 Anwendungsbereich
 
 Für die Schiffahrt auf der Bundeswasserstraße Donau zwischen Kehlheim
 (km 2414,60) und Jochenstein (km 2201,77) gelten die Vorschriften der
 Anlage A zu dieser Verordnung.
-
 
 ## § 2 Ausnahmen
 
@@ -105,7 +102,6 @@ geltenden Fassung gelten folgende Ausnahmen:
 (2) Absatz 1 gilt für nichtzulassungspflichtige Fahrzeuge
 entsprechend.
 
-
 ## § 3 Zuständige Behörde
 
 (1) Zuständige Behörde im Sinne des § 6.32 Nr. 1 Buchstabe a der
@@ -146,7 +142,6 @@ Verwaltungsverfahrensgesetzes vor, kann die zuständige Behörde eine
 Erlaubnis nach der Anlage A zu dieser Verordnung auch nachträglich
 befristen und mit Auflagen verbinden.
 
-
 ## § 4 Fahrzeuge des öffentlichen Dienstes
 
 Fahrzeuge der Wasser- und Schiffahrtsverwaltung des Bundes, der
@@ -156,7 +151,6 @@ Katastrophenschutzes sowie der Wasserwirtschaftsverwaltungen sind von
 den Vorschriften der Anlage A zu dieser Verordnung befreit, soweit
 dies zur Erfüllung hoheitlicher Aufgaben unter Berücksichtigung der
 öffentlichen Sicherheit und Ordnung dringend geboten ist.
-
 
 ## § 5 Ordnungswidrigkeiten nach dem Binnenschiffahrtsaufgabengesetz
 
@@ -812,10 +806,6 @@ fahrlässig als Eigentümer oder Ausrüster
 15. entgegen § 13.02 Satz 1 den Einsatz eines der dort genannten
     Fahrzeuge, Schwimmkörper oder Gegenstände anordnet oder zuläßt.
 
-
-
-
-
 ## § 6 Ordnungswidrigkeiten nach dem Bundeswasserstraßengesetz
 
 (1) Ordnungswidrig im Sinne des § 50 Abs. 1 Nr. 2 des
@@ -880,16 +870,13 @@ Vorschrift der Anlage A zu dieser Verordnung über
 
 verstoßen wird.
 
-
 ## § 7
 
 -
 
-
 ## § 8 (weggefallen)
 
 -
-
 
 ## § 9 Inkrafttreten
 

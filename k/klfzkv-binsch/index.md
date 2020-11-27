@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 V v. 2.10.2012 I 2102
 
-
 ## Eingangsformel
 
 Auf Grund des § 3 Abs. 1 Nr. 3, Abs. 4 und 6 des
@@ -31,10 +30,7 @@ Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821) verordnet
 das Bundesministerium für Verkehr im Einvernehmen mit dem
 Bundesministerium der Finanzen:
 
-
 ## I. - Allgemeine Vorschriften
-
-
 
 ### § 1 Begriffsbestimmungen
 
@@ -86,13 +82,6 @@ Im Sinne dieser Verordnung sind:
 
     e)  Beiboote.
 
-
-
-
-
-
-
-
 ### § 2 Kennzeichnungspflicht
 
 (1) Der Schiffsführer darf ein deutsches Kleinfahrzeug auf den
@@ -136,7 +125,6 @@ Schifffahrtsamt, in dessen Amtsbezirk die Fahrt beginnt. Berührt die
 Fahrt die Amtsbezirke mehrerer Wasser- und Schifffahrtsämter, darf die
 Entscheidung nur einvernehmlich getroffen werden.
 
-
 ### § 3 Ausnahmen
 
 Von der Kennzeichnungspflicht sind ausgenommen:
@@ -174,10 +162,6 @@ Kleinfahrzeuge, die
     Kennzeichen führen, soweit es vom Bundesministerium für Verkehr, Bau
     und Stadtentwicklung anerkannt worden ist; diese amtlichen Kennzeichen
     werden im Verkehrsblatt bekanntgemacht.
-
-
-
-
 
 ### § 4 Amtliche Kennzeichen
 
@@ -224,10 +208,6 @@ Rechtsvorschriften des Bundes, insbesondere:
     Sportbootvermietungsverordnung-Binnen 2000 vom 18. April 2000 (BGBl. I
     S. 572).
 
-
-
-
-
 ### § 5 Amtlich anerkannte Kennzeichen
 
 Ein Kennzeichen gilt als amtlich anerkannt, wenn es aus der Nummer des
@@ -237,7 +217,6 @@ Kennbuchstaben der zuteilenden Organisation besteht. Dabei erhalten
 der Deutsche Motoryachtverband e. V. den Kennbuchstaben M, der
 Deutsche Segler-Verband e. V. den Kennbuchstaben S und der Allgemeine
 Deutsche Automobilclub e. V. den Kennbuchstaben A.
-
 
 ### § 6 Urkunden
 
@@ -271,10 +250,7 @@ Zum Nachweis über das zugeteilte Kennzeichen ist an Bord mitzuführen:
 Die in Satz 1 genannten Urkunden sind den zur Kontrolle befugten
 Personen auf Verlangen zur Prüfung auszuhändigen.
 
-
 ## II. - Verfahren
-
-
 
 ### § 7 Antrag
 
@@ -378,7 +354,6 @@ nur für Sportboote vorzulegen, die in einem der am 1. Mai 2004 der
 Europäischen Union beigetretenen Staaten nach dem 30. April 2004 in
 Verkehr gebracht worden sind.
 
-
 ### § 8 Zuteilung des Kennzeichens, Ausstellung des Ausweises
 
 (1) Das Wasser- und Schiffahrtsamt teilt das amtliche Kennzeichen zu.
@@ -399,7 +374,6 @@ Ersatzausfertigung aus, die als solche zu kennzeichnen ist. Ein
 unbrauchbar gewordener oder wieder aufgefundener Ausweis ist der
 ausstellenden Stelle unverzüglich zurückzugeben oder ihr zur
 Entwertung vorzulegen.
-
 
 ### § 9 Änderungen
 
@@ -430,15 +404,11 @@ zulassen.
 Kennzeichen unverzüglich zu entfernen oder unkenntlich zu machen. Dies
 gilt auch, wenn er das Kleinfahrzeug abgemeldet hat.
 
-
 ## III. - Schlußvorschriften
-
-
 
 ### § 10 (weggefallen)
 
 -
-
 
 ### § 11 Ordnungswidrigkeiten
 
@@ -496,22 +466,13 @@ fahrlässig
         rechtzeitig entfernt und nicht oder nicht rechtzeitig unkenntlich
         macht.
 
-
-
-
-
-
-
-
 ### § 12
 
 -
 
-
 ### § 13
 
 -
-
 
 ### § 14 Inkrafttreten, Außerkrafttreten
 
@@ -581,10 +542,6 @@ genannten Verordnungen treten außer Kraft:
 
 
 3.  im übrigen am 1. Mai 1997.
-
-
-
-
 
 ### Anlage 1 (zu § 4 Abs. 1 Satz 2) Liste der amtlichen Kennzeichen
 
@@ -788,10 +745,6 @@ Fundstelle des Originaltextes: BGBl. I 1995, 230
 *    *   Wilhelmshaven
 
     *   WHV
-
-
-
-
 
 ### Anlage 2 (zu § 8 Abs. 2)
 

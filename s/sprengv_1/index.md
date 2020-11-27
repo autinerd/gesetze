@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 V v. 11.10.2012 I 2171
 
-
 ## Abschnitt I - Anwendungsbereich des Gesetzes
-
-
 
 ### § 1
 
@@ -179,7 +176,6 @@ Vereinigung nachgewiesen wird und das nicht verbrauchte Pulver oder
 die nicht verbrauchten Modellraketen spätestens innerhalb eines Monats
 vom Zeitpunkt der Einfuhr an gerechnet wieder ausgeführt werden.
 
-
 ### § 2
 
 (1) Die §§ 5, 7 bis 16, 20, 21, 22 Abs. 1 und 2, die §§ 23, 27 sowie §
@@ -261,7 +257,6 @@ Lieferschein erfolgen, der fünf Jahre aufzubewahren ist.
 Einzelfall größere Mengen explosionsgefährlicher Stoffe zulassen,
 soweit der Schutz von Leben, Gesundheit und Sachgütern Beschäftigter
 oder Dritter auf andere Weise gewährleistet ist.
-
 
 ### § 3
 
@@ -423,11 +418,9 @@ Ausfuhr, die Durchfuhr oder das Verbringen zum Zwecke der Entwicklung
 erfolgt und das mit der Entwicklung befasste Unternehmen in der Regel
 für militärische oder polizeiliche Auftraggeber tätig ist.
 
-
 ### § 3a (weggefallen)
 
 -
-
 
 ### § 4
 
@@ -494,7 +487,6 @@ nicht anzuwenden.
 
 (6) § 22 Abs. 3 des Gesetzes ist auf pyrotechnische Gegenstände der
 Kategorie 1 nicht anzuwenden.
-
 
 ### § 5
 
@@ -613,10 +605,7 @@ der Bescheinigung dauerhaft einzutragen und die Bescheinigung, soweit
 er nicht nach Satz 2 zur Rückgabe verpflichtet ist, drei Jahre lang
 aufzubewahren.
 
-
 ## Abschnitt II - Zulassung von sonstigen explosionsgefährlichen Stoffen und von Sprengzubehör, Konformitätsnachweis für Explosivstoffe und pyrotechnische Gegenstände, Identifikationsnummer
-
-
 
 ### § 6
 
@@ -795,7 +784,6 @@ d)  und, sofern eine Verwendung in Innenräumen (geschlossenen Räumen)
 Pyrotechnische Sätze, die nicht die Kriterien der Kategorie S1
 erfüllen, sind der Kategorie S2 zuzuordnen.
 
-
 ### § 6a
 
 (1) Die in der Anlage 5 Nummer 1 bezeichneten Sprengstoffe sind
@@ -834,10 +822,6 @@ die in geringen Mengen
 3.  nur für den Umgang für Zwecke der Kriminaltechnik und der
     polizeilichen Spezialausbildung benötigt werden.
 
-
-
-
-
 ### § 7
 
 (1) Explosivstoffe, pyrotechnische Gegenstände sowie sonstige
@@ -861,7 +845,6 @@ enthalten.
 (5) Zündmittel müssen ein Zeichen für die Herstellungsstätte
 aufweisen.
 
-
 ### § 8
 
 Die Zulassungsbehörde hat für sonstige explosionsgefährliche Stoffe
@@ -873,10 +856,7 @@ oder Gegenstand vorgesehenen Zeichen und einer fortlaufenden
 Kennummer. Satz 2 findet entsprechende Anwendung für die
 Identifikationsnummer nach § 6 Absatz 4.
 
-
 ## Abschnitt III - Verfahren bei der Zulassung von sonstigen explosionsgefährlichen Stoffen oder von Sprengzubehör, Konformitätsnachweisverfahren für Explosivstoffe und pyrotechnische Gegenstände
-
-
 
 ### § 9
 
@@ -907,7 +887,6 @@ Zulassungsbehörde. Für die Prüfung von Sprengzubehör findet § 12a Abs.
 4 Satz 2 entsprechende Anwendung.
 
 (4) (weggefallen)
-
 
 ### § 10
 
@@ -954,11 +933,9 @@ zweifelhaft ist, ob bei Erteilung der Zulassung der Schutz von Leben,
 Gesundheit oder Sachgütern Beschäftigter oder Dritter gewährleistet
 ist.
 
-
 ### § 11
 
 (weggefallen)
-
 
 ### § 12
 
@@ -999,7 +976,6 @@ verbinden, einen Auszug des Zulassungsbescheides den Verwendern
 auszuhändigen, soweit darin Nebenbestimmungen und inhaltliche
 Beschränkungen enthalten sind.
 
-
 ### § 12a
 
 (1) Vor dem Inverkehrbringen sind Explosivstoffe oder pyrotechnische
@@ -1036,7 +1012,6 @@ Bevollmächtigten mindestens zehn Jahre lang nach der letzten
 Herstellung des Produkts zusammen mit den dazugehörenden Unterlagen
 aufbewahrt und auf Verlangen der zuständigen Behörde jederzeit
 vorgelegt werden.
-
 
 ### § 12b
 
@@ -1078,10 +1053,6 @@ Verlangen der zuständigen Behörde jederzeit vorzulegen:
 
 
 5.  die Konformitätsbescheinigung.
-
-
-
-
 
 ### § 12c
 
@@ -1137,7 +1108,6 @@ Mitgliedstaaten über den Ablauf, die Rücknahme oder den Widerruf und
 eine anderweitige Aufhebung oder Erledigung einer Benennung. Es macht
 auch den Ablauf, Widerruf, die Rücknahme sowie anderweitige Aufhebung
 oder Erledigung einer Benennung im Bundesanzeiger bekannt.
-
 
 ### § 13
 
@@ -1208,10 +1178,7 @@ bei der Bundesanstalt während der Dienststunden auszulegen. Auf
 Verlangen eines Dritten ist diesem gegen Kostenerstattung eine
 Abschrift oder Vervielfältigung zu überlassen.
 
-
 ## Abschnitt IV - Allgemeine Vorschriften über die Kennzeichnung, die Verpackung und das Überlassen an andere
-
-
 
 ### § 14
 
@@ -1343,7 +1310,6 @@ Satz 1 gilt entsprechend für explosionsgefährliche Stoffe, die von
 einer militärischen oder polizeilichen Dienststelle an die
 Bundesanstalt Technisches Hilfswerk überlassen werden.
 
-
 ### § 15
 
 (1) Hersteller oder Einführer im Geltungsbereich des Gesetzes haben
@@ -1361,7 +1327,6 @@ ist die Kennzeichnung gemäß Nummer 3 des Anhangs der Richtlinie
 selbstklebende Kopien der Kennzeichnung zur Nutzung durch den
 Empfänger beifügen. Diese Kopien sind sichtbar als solche zu
 markieren, um einen Missbrauch zu verhindern.
-
 
 ### § 16
 
@@ -1419,7 +1384,6 @@ Einführers vertrieben oder anderen überlassen werden.
 dürfen anderen in loser Form nur in Betrieben und ausschließlich zum
 Schnüren und zum Kessel- und Lassensprengen überlassen werden.
 
-
 ### § 17
 
 Wer explosionsgefährliche Stoffe oder Sprengzubehör vertreibt, darf
@@ -1427,7 +1391,6 @@ diese Stoffe oder Gegenstände anderen nur überlassen, wenn er sich auf
 Grund von Stichproben überzeugt hat, dass diese nach den Vorschriften
 der §§ 14 bis 16 und dem Stand der Technik gekennzeichnet und verpackt
 sind.
-
 
 ### § 18
 
@@ -1444,7 +1407,6 @@ Beförderungspapier nicht vorgeschrieben, so ist der Hinweis
 (2) Durch die Vorschriften der §§ 14 bis 16 bleiben die
 Kennzeichnungs- und Verpackungsvorschriften über die Beförderung
 gefährlicher Güter unberührt.
-
 
 ### § 19
 
@@ -1465,10 +1427,7 @@ anderer Weise gewährleistet ist.
 Explosivstoffe und pyrotechnische Gegenstände nach § 14 Absatz 1
 Nummer 4 und 6 ist nicht zulässig.
 
-
 ## Abschnitt V - Vertrieb, Überlassen und Verwenden pyrotechnischer Gegenstände
-
-
 
 ### § 20
 
@@ -1579,7 +1538,6 @@ werden:
 Satz 1 gilt nicht für das Verbringen aus dem Geltungsbereich des
 Gesetzes.
 
-
 ### § 21
 
 (1) Soweit sich die nach § 14 Absatz 1 Satz 1 erforderliche Anleitung
@@ -1616,7 +1574,6 @@ vertrieben oder ihm überlassen werden, soweit die nach Absatz 1
 vorgeschriebene Anleitung nicht auf dem einzelnen Gegenstand
 angebracht ist.
 
-
 ### § 22
 
 (1) Pyrotechnische Gegenstände der Kategorie 2 dürfen dem Verbraucher
@@ -1634,7 +1591,6 @@ werden, die auf Grund einer Erlaubnis oder eines Befähigungsscheines
 zum Abbrennen von Feuerwerk nach den §§ 7, 20 oder § 27 des Gesetzes
 oder auf Grund einer Bescheinigung nach § 5 Absatz 5 zum Erwerb
 berechtigt sind oder mit diesen Gegenständen umgehen dürfen.
-
 
 ### § 23
 
@@ -1712,7 +1668,6 @@ Anwesenheit von Besuchern verwenden will, hat dies der zuständigen
 Behörde zwei Wochen vorher schriftlich anzuzeigen. Absatz 4 Nummer 1,
 2 und 4 sowie Absatz 3 Satz 3 gelten entsprechend.
 
-
 ### § 24
 
 (1) Die zuständige Behörde kann allgemein oder im Einzelfall von den
@@ -1736,10 +1691,7 @@ daß pyrotechnische Gegenstände
 auch am 31. Dezember und am 1. Januar nicht abgebrannt werden dürfen.
 Eine allgemeine Anordnung ist öffentlich bekanntzugeben.
 
-
 ## Abschnitt VI - Sonstige Vorschriften über explosionsgefährliche Stoffe
-
-
 
 ### § 25
 
@@ -1760,7 +1712,6 @@ gewerbliche Einfuhr von pyrotechnischen Gegenständen, ausgenommen die
 in § 4 Abs. 1 Nr. 2 und 3 bezeichneten Stoffe und Gegenstände, unter
 Angabe der Bezeichnung, Art und Menge sowie unter Angabe des Absenders
 und des Empfängers unverzüglich schriftlich mitzuteilen.
-
 
 ### § 25a
 
@@ -1809,10 +1760,6 @@ Beendigung des letzten Verbringensvorgangs, zu verwahren.
 
 \*) Im Internet unter www.bam.de/sprengstoffgesetz.
 
-
-
-
-
 ### § 26
 
 (1) Bei der nichtgewerblichen Herstellung von Patronen sind
@@ -1835,7 +1782,6 @@ Handfeuerwaffen und Munition (BAnz. Nr. 38a vom 24. Februar 2000) in
 der jeweils geltenden Fassung, für entsprechende Patronen festgelegten
 höchstzulässigen Gasdruck nicht überschreiten.
 
-
 ### § 27
 
 (1) Brückenzünder Klasse I und Brückenanzünder A dürfen zum Sprengen
@@ -1844,7 +1790,6 @@ nicht verwendet werden.
 (2) Brückenzünder Klasse I und Brückenanzünder A, die einem
 Verbraucher zu anderen als Sprengzwecken in einer Lieferung überlassen
 werden, dürfen keinen unterschiedlichen Widerstandsgruppen angehören.
-
 
 ### § 28
 
@@ -1884,10 +1829,7 @@ Erlaubnis nach § 7 des Gesetzes, die sich vertraglich zur Vernichtung
 oder zur Be- oder Verarbeitung dieser Gegenstände auch in nicht
 explosionsgefährliche Stoffe verpflichtet haben.
 
-
 ## Abschnitt VII - Fachkunde und Prüfungsverfahren
-
-
 
 ### § 29
 
@@ -1927,7 +1869,6 @@ Ablegung mehr als fünf Jahre verstrichen sind und der Antragsteller
 seit dem Zeitpunkt der Prüfung die erlaubnispflichtige Tätigkeit
 rechtmäßig nicht oder überwiegend nicht ausgeübt hat.
 
-
 ### § 30
 
 (1) Die Prüfung nach § 9 Abs. 1 Nr. 2 des Gesetzes ist vor einem
@@ -1942,7 +1883,6 @@ teilzunehmen.
 (2) Die Prüfung nach § 9 Abs. 1 Nr. 2 des Gesetzes in Verbindung mit §
 27 Abs. 3 Satz 3 des Gesetzes kann vor einem Vertreter der zuständigen
 Behörde allein abgelegt werden.
-
 
 ### § 31
 
@@ -1968,10 +1908,7 @@ höchstens zweimal wiederholt werden. Der Vertreter der zuständigen
 Behörde kann bestimmen, daß die Prüfung erst nach Ablauf einer
 bestimmten Frist wiederholt werden darf.
 
-
 ## Abschnitt VIII - Staatlich anerkannte Lehrgänge
-
-
 
 ### § 32
 
@@ -2098,7 +2035,6 @@ oder Sonderlehrgang teilgenommen, so beginnt die in Satz 1 genannte
 Frist vom Zeitpunkt der Beendigung dieses Lehrganges an von neuem zu
 laufen.
 
-
 ### § 33
 
 (1) Grundlehrgänge dürfen nur anerkannt werden, wenn
@@ -2162,7 +2098,6 @@ Lehrgangs erfolgen muß.
 (3) Die Absätze 1 und 2 sind auf Sonderlehrgänge, Absatz 2 ist auf
 Wiederholungslehrgänge entsprechend anzuwenden.
 
-
 ### § 34
 
 (1) Der Antragsteller ist zu einem Lehrgang zuzulassen, wenn bei ihm
@@ -2194,7 +2129,6 @@ zuständigen Behörde nach § 31 gleich.
 (4) Wird eine Unbedenklichkeitsbescheinigung zur Teilnahme an einem
 Wiederholungslehrgang beantragt, findet § 47a des Gesetzes
 entsprechende Anwendung.
-
 
 ### § 35
 
@@ -2276,7 +2210,6 @@ Tätigkeit im Sprengen, insbesondere durch eine Lehrtätigkeit, kann in
 begründeten Ausnahmefällen eine noch geringere Anzahl von Sprengungen
 festgesetzt werden.
 
-
 ### § 36
 
 (1) Der Grundlehrgang ist mit einer theoretischen und einer
@@ -2315,7 +2248,6 @@ Ausnahmefällen abgesehen werden.
 (7) Für den Nachweis der Fachkunde durch Teilnahme an einem früheren
 Lehrgang gilt § 29 Abs. 2 entsprechend.
 
-
 ### § 37
 
 Die §§ 32 und 33 sowie 34 Absatz 3 und 4, §§ 35 bis 36 gelten nicht
@@ -2326,10 +2258,7 @@ gilt der Nachweis der Fachkunde für die Ausführung von Sprengarbeiten
 durch die erfolgreiche Teilnahme an einem solchen Lehrgang als
 erbracht.
 
-
 ## Abschnitt IX - Beseitigung von Zugangsbeschränkungen, Nachweis der Fachkunde
-
-
 
 ### § 38
 
@@ -2378,7 +2307,6 @@ Mitgliedstaaten der EU sind nicht anzuwenden, soweit dies zur
 Beseitigung einer Störung der öffentlichen Sicherheit oder Ordnung
 oder zur Abwehr einer bevorstehenden Gefahr für die öffentliche
 Sicherheit oder Ordnung im Einzelfall erforderlich ist.
-
 
 ### § 39
 
@@ -2494,7 +2422,6 @@ Herstellung, der Bearbeitung, der Verarbeitung, der Wiedergewinnung,
 der Verwendung oder der Vernichtung explosionsgefährlicher Stoffe
 ausgeübt wird.
 
-
 ### § 40
 
 (1) Als Nachweis einer erforderlichen Vermittlung der Fachkunde im
@@ -2550,7 +2477,6 @@ Berufsqualifikationsfeststellungsgesetzes entsprechend.
 (5) Im Übrigen sind die §§ 13 bis 15 und 17 des
 Berufsqualifikationsfeststellungsgesetzes anzuwenden.
 
-
 ### § 40a
 
 (1) Vor der erstmaligen Erbringung einer nur vorübergehenden und
@@ -2577,10 +2503,7 @@ des Gesetzes gleichwertig ist. Die zum Verbringen berechtigenden
 Erlaubnisse oder sonstigen Bescheinigungen anderer Mitgliedstaaten
 werden im Bundesanzeiger bekannt gemacht.
 
-
 ## Abschnitt X - Führung, Inhalt, Aufbewahrung und Vorlage des Verzeichnisses nach § 16 des Gesetzes
-
-
 
 ### § 41
 
@@ -2644,7 +2567,6 @@ Gesetzes auf der Grundlage der automatisierten Datenverarbeitung ist
 zulässig. In diesem Fall ist Absatz 2 Satz 1 und 2 sowie Absatz 5 Satz
 1 nicht anzuwenden. Es ist sicherzustellen, dass Eintragungen nach
 Abschluss des Verzeichnisses nicht mehr verändert werden können.
-
 
 ### § 42
 
@@ -2716,7 +2638,6 @@ entnimmt.
 Verzeichnis nach Absatz 3 unter Angabe der Gründe besonders zu
 vermerken.
 
-
 ### § 43
 
 Auf die Führung des Verzeichnisses nach § 28 in Verbindung mit § 16
@@ -2732,10 +2653,6 @@ entsprechend anzuwenden:
 
 
 3.  die Angaben nach § 42 Absatz 1 Nummer 5 können entfallen.
-
-
-
-
 
 ### § 44
 
@@ -2758,10 +2675,7 @@ Datenverarbeitung geführtes Informationssystem zur Erfüllung der
 Forderungen nach Absatz 5a Satz 1 besteht, in welchem die eindeutige
 Kennzeichnung nach § 14 Absatz 1 Nummer 5 erfasst wird.
 
-
 ## Abschnitt XI - Sachverständigenausschuß
-
-
 
 ### § 45
 
@@ -2852,10 +2766,7 @@ Ausschusses und deren Stellvertreter, dabei erfolgt die Berufung
 (6) Die Mitglieder des Ausschusses üben ihre Tätigkeit ehrenamtlich
 aus.
 
-
 ## Abschnitt XII - Ordnungswidrigkeiten
-
-
 
 ### § 46
 
@@ -2960,10 +2871,6 @@ wer vorsätzlich oder fahrlässig
 14. einer Vorschrift der §§ 41, 42 oder § 43 über das Verzeichnis nach §
     16 oder § 28 des Gesetzes zuwiderhandelt.
 
-
-
-
-
 ### § 47
 
 Die Zuständigkeiten für die Verfolgung und Ahndung von
@@ -2987,10 +2894,7 @@ Ordnungswidrigkeiten
 
 wird der Bundesanstalt übertragen.
 
-
 ## Abschnitt XIII - Übergangs- und Schlußvorschriften
-
-
 
 ### § 48
 
@@ -3000,7 +2904,6 @@ Stoffen oder deren Beförderung vor dem 1. Juli 1983 erteilt worden
 ist, kann die Anerkennung des Lehrganges auch widerrufen werden, wenn
 Tatsachen die Annahme rechtfertigen, daß sie die erforderliche
 Zuverlässigkeit nicht mehr besitzen.
-
 
 ### § 49
 
@@ -3013,11 +2916,9 @@ Verkehr gebracht wurden, dürfen noch bis zum 5. April 2015 im
 Geltungsbereich des Gesetzes verbracht, vertrieben, anderen überlassen
 und verwendet werden.
 
-
 ### § 50
 
 (Inkrafttreten, Außerkrafttreten)
-
 
 ### Anlage 1 Anforderungen an die Zusammensetzung und Beschaffenheit von sonstigen explosionsgefährlichen Stoffen im Sinne des § 1 Absatz 3 Nummer 1 und 2 des Gesetzes und von Sprengzubehör im Sinne des § 6 Absatz 1
 
@@ -3670,10 +3571,6 @@ und verwendet werden.
     Zählwerke müssen gegen den Eingriff Unbefugter gesichert werden
     können.
 
-
-
-
-
 ### Anlage 2 Anforderungen an die Zusammensetzung und Beschaffenheit von Explosivstoffen nach § 6 Absatz 3
 
 (Fundstelle des Originaltextes: BGBl. I 1998, 1562 - 1565;
@@ -3931,18 +3828,6 @@ III. Die Anforderungen nach den Nummern I und II gelten für Sprengkapseln,
                 Impuls nach Tabelle A.1 zu prüfen. Die Überschlagsspannung muss
                 zwischen 1,5 kV und 6 kV (Gleichspannung) liegen.
 
-
-
-
-
-
-
-
-
-
-
-
-
 ## Tabelle A.1
 
 *    *   Zünder-Klasse
@@ -4151,16 +4036,6 @@ III. Die Anforderungen nach den Nummern I und II gelten für Sprengkapseln,
             unter Wasser um nicht mehr als
             +- 10 s von der durchschnittlichen Brennzeit nach Abschnitt 3b
             abweichen.
-
-
-
-
-
-
-
-
-
-
 
 ### Anlage 3 Anforderungen an die Zusammensetzung und Beschaffenheit von pyrotechnischen Gegenständen nach § 6 Absatz 3
 
@@ -4407,10 +4282,6 @@ C. Anzündmittel
     Berücksichtigung ihrer vorgesehenen Verwendung eine ausreichende
     Isolierung und mechanische Festigkeit – einschließlich ihrer
     Befestigung am Anzünder – aufweisen.
-
-
-
-
 
 ### Anlage 4 Zeichen für explosionsgefährliche Stoffe und Sprengzubehör nach § 8
 
@@ -5453,10 +5324,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   H
 
-
-
-
-
 ### Anlage 5 Markierung von Sprengstoffen nach § 6a Abs. 2
 
 (Fundstelle des Originaltextes: BGBl. I 1998, 1575;
@@ -5527,10 +5394,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *   Jeder Sprengstoff nach Nummer 1, der einen der genannten
     Markierungsstoffe in der erforderlichen Mindestkonzentration oder
     darüber enthält, wird als markiert im Sinne von Nummer 1 bezeichnet.
-
-
-
-
 
 ### Anlage 6 Erforderliche Angaben im Antrag auf Genehmigung des Verbringens von Explosivstoffen nach § 25a Abs. 2 und Angaben in der Genehmigung nach § 25a Abs. 4
 

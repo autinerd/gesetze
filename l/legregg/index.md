@@ -32,12 +32,10 @@ L 204 S. 37), geändert durch die Richtlinie 98/48/EG des Europäischen
 Parlaments und des Rates vom 2. Juli 1998 (ABl. EG Nr. L 217 S. 18),
 sind beachtet worden.
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## § 1 Anwendungsbereich
 
@@ -56,10 +54,6 @@ Gemeinschaft oder Europäischen Union im Anwendungsbereich des Satzes
     den Verkehr bringen, die nach Artikel 4 Abs. 1 der Verordnung (EG) Nr.
     1028/2006 des Rates vom 19. Juni 2006 mit Vermarktungsnormen für Eier
     (ABl. EU Nr. L 186 S. 1) zu kennzeichnen sind.
-
-
-
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -89,10 +83,6 @@ Im Sinne dieses Gesetzes sind:
     eine aus einem Stall oder mehreren Ställen bestehende örtliche,
     wirtschaftliche und seuchenhygienische Einheit zur Erzeugung von
     Eiern.
-
-
-
-
 
 ## § 3 Betriebsaufnahme, Registrierung
 
@@ -169,7 +159,6 @@ zuständigen Behörde unverzüglich anzuzeigen (Änderungsanzeige).
 nach Absatz 2 und Änderungsanzeigen nach Absatz 3 die von ihr hierfür
 vorgesehenen und zur Verfügung gestellten Vordrucke zu verwenden sind.
 
-
 ## § 4 Kennnummer
 
 (1) Die zuständige Behörde teilt dem Inhaber des Betriebes nach Abgabe
@@ -188,7 +177,6 @@ unterscheiden.
 (3) Erfordert eine Änderungsanzeige nach § 3 Abs. 3 die Zuteilung
 einer neuen Kennnummer, teilt die zuständige Behörde diese dem Inhaber
 des Betriebes mit.
-
 
 ## § 5 Registerführung, Datenübermittlung, Datenlöschung
 
@@ -262,13 +250,11 @@ die Aufgabe des Betriebes fällt. Nach Ablauf der Aufbewahrungsfrist
 sind die Daten zu löschen. Vorschriften, nach denen eine längere
 Aufbewahrungsfrist besteht, bleiben unberührt.
 
-
 ## § 6 Inverkehrbringen von Eiern
 
 Ab dem 1. Januar 2004 darf der Inhaber eines Betriebes im Sinne des §
 1 Abs. 2 Eier nur aus einem Stall in Verkehr bringen, für den ihm eine
 Kennnummer mitgeteilt worden ist.
-
 
 ## § 7 Überwachung, Befugnisse der zuständigen Behörde
 
@@ -338,7 +324,6 @@ bezeichneten Angehörigen der Gefahr strafgerichtlicher Verfolgung oder
 eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen
 würde.
 
-
 ## § 8 Verordnungsermächtigungen
 
 (1) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit
@@ -381,7 +366,6 @@ erforderlich ist und ihre Geltungsdauer auf einen bestimmten Zeitraum
 von höchstens sechs Monaten begrenzt wird. Ihre Geltungsdauer kann nur
 mit Zustimmung des Bundesrates verlängert werden.
 
-
 ## § 9 Außenverkehr
 
 Der Verkehr mit den zuständigen Behörden anderer Mitgliedstaaten und
@@ -391,7 +375,6 @@ Bundesanstalt für Landwirtschaft und Ernährung oder durch
 Rechtsverordnung mit Zustimmung des Bundesrates auf die zuständigen
 obersten Landesbehörden übertragen. Die obersten Landesbehörden können
 die Befugnis nach Satz 2 auf andere Landesbehörden übertragen.
-
 
 ## § 10 Bußgeldvorschriften
 
@@ -427,7 +410,6 @@ die Befugnis nach Satz 2 auf andere Landesbehörden übertragen.
 5 mit einer Geldbuße bis zu zehntausend Euro, in den übrigen Fällen
 mit einer Geldbuße bis zu dreißigtausend Euro geahndet werden.
 
-
 ## § 11 Einziehung
 
 Ist eine Ordnungswidrigkeit nach § 10 Abs. 1 begangen worden, so
@@ -435,7 +417,6 @@ können Gegenstände, auf die sich die Ordnungswidrigkeit bezieht, und
 Gegenstände, die zu ihrer Begehung oder Vorbereitung gebraucht worden
 oder bestimmt gewesen sind, eingezogen werden. § 23 des Gesetzes über
 Ordnungswidrigkeiten ist anzuwenden.
-
 
 ## § 12 Übergangsregelungen
 
@@ -452,7 +433,6 @@ die Durchführung der Viehverkehrsverordnung zuständige Behörde der
 nach diesem Gesetz zuständigen Behörde die nach der
 Viehverkehrsverordnung zur Registrierung des Betriebes erhobenen
 Daten.
-
 
 ## § 13 Inkrafttreten
 

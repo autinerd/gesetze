@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   RGBl I: 1921, 962
 
-
-
 ## Eingangsformel
 
 Die Reichsregierung und die Regierungen der Länder Preußen, Bayern,
@@ -26,10 +24,7 @@ Braunschweig, Oldenburg, Anhalt, Bremen, Lippe, Lübeck und
 Mecklenburg-Strelitz schließen unter Vorbehalt der Zustimmung der
 gesetzgebenden Körperschaften den nachstehenden Vertrag:
 
-
 ## I. - Gegenstand des Vertrags
-
-
 
 ### § 1
 
@@ -71,7 +66,6 @@ als Bestandteile und Zubehör der Wasserstraßen übergehenden
 Gegenstände wird jedes Land Verzeichnisse aufstellen, welche der
 Anerkennung des Reichs bedürfen.
 
-
 ### § 2
 
 Das dem Reich zustehende Eigentum unterliegt folgenden
@@ -100,10 +94,6 @@ c)  Soweit die auf Grund dieses Vertrags auf das Reich übergehenden
     Entschädigung richten sich nach den landesrechtlichen
     Enteignungsvorschriften.
 
-
-
-
-
 ### § 3
 
 1\. Die Wasserkräfte, die aus den an das Reich übergehenden
@@ -120,7 +110,6 @@ es hierbei sein Bewenden. Das Land verfügt sodann über die Anlage und
 die daraus zu gewinnenden Einnahmen mit der Maßgabe, daß die für die
 weitere Überlassung der Wasserkräfte zu zahlende Vergütung zwischen
 Reich und Land neu vereinbart wird.
-
 
 ### § 4
 
@@ -159,7 +148,6 @@ nur für den Schluß eines Kalendervierteljahrs zulässig. In gleicher
 Weise kann das Reich auch schon vor dem 1. April 1930 die Benutzung
 ganz oder teilweise aufkündigen.
 
-
 ### § 5
 
 Das Reich tritt in die öffentlich-rechtlichen und in die
@@ -169,10 +157,7 @@ Pflichten für die Verwaltung der auf Grund dieses Vertrags
 Rechtswirkung auch gegenüber den bisherigen Vertragsgegnern der
 Länder.
 
-
 ## II. - Finanzielle Auseinandersetzung
-
-
 
 ### § 6
 
@@ -207,14 +192,12 @@ stattfindet, durch Zahlung einer 4prozentigen Rente vom 1. April 1921
 ab. Die Zahlung von Tilgungsraten bleibt der Vereinbarung zwischen dem
 Reich und den Ländern vorbehalten.
 
-
 ### § 7
 
 Die für die endgültige Abfindung maßgebenden Beträge werden gemeinsam
 festgestellt werden, wenn die Rechnungsergebnisse für die Zeit bis zum
 1\. April 1921 vorliegen. Vorläufig werden sie durch gemeinsame
 Schätzung ermittelt.
-
 
 ### § 8
 
@@ -225,7 +208,6 @@ Steuern und Abgaben des Reichs.
 Kürzung der den Ländern gewährleisteten Anteile an den Steuereinnahmen
 entnehmen.
 
-
 ### § 9
 
 Vom 1. April 1921 an fließen alle Einnahmen dem Reich zu und werden
@@ -234,16 +216,12 @@ Anwendung der bisherigen Haushaltsgrundsätze des Landes Einnahmen und
 Ausgaben noch für die Zeit vor dem 1. April 1921 zu verrechnen sind,
 hat es hierbei sein Bewenden.
 
-
 ### § 10
 
 Die Länder werden von den Reichswasserstraßen Staatssteuern nicht
 erheben.
 
-
 ## III. - Verwaltung der Reichswasserstraßen
-
-
 
 ### § 11
 
@@ -258,7 +236,6 @@ durch die mittleren und unteren Behörden der Länder auf Kosten des
 Reichs und unter Leitung des Reichsverkehrsministeriums.
 Die Ausübung der Tarifhoheit im Sinne des Artikels 97 Abs. 5 der
 Reichsverfassung steht vom 1. April 1921 an dem Reich zu.
-
 
 ### § 12
 
@@ -317,10 +294,6 @@ e)  Falls der Staatsgerichtshof auf Antrag des Reichs entscheiden sollte,
     frühestens zum 30. September 1921, zulässig. Sie kann auch gegenüber
     einzelnen Ländern und für einzelne Stromgebiete erfolgen.
 
-
-
-
-
 ### § 13
 
 Unbeschadet der einheitlichen Verwaltung der Reichswasserstraßen wird
@@ -333,7 +306,6 @@ Verhältnisse bedacht sein und bei widerstreitenden Interessen zwischen
 Reich und Land oder zwischen mehreren Ländern einen gerechten
 Ausgleich herbeiführen.
 
-
 ### § 14
 
 Auf Antrag der Landesregierung wird das Reich den
@@ -342,13 +314,11 @@ Entschädigung Geschäfte der Landesverwaltung auf dem Gebiet des
 Landeswasserstraßenwesens übertragen. Für die Erledigung dieser
 Geschäfte sind die Anweisungen der obersten Landesbehörde maßgebend.
 
-
 ### § 15
 
 Die Gesetze und Verordnungen der Länder bleiben unbeschadet der
 Bestimmungen der Reichsverfassung bis zu einer anderweiten
 reichsgesetzlichen Regelung in Kraft.
-
 
 ### § 16
 
@@ -360,7 +330,6 @@ oder durch die Wasserstraßen gestatten, soweit es die Interessen der
 Wasserstraßenverwaltung zulassen. Andere Gebühren als
 Anerkennungsgebühren sollen hierfür nicht erhoben werden.
 
-
 ### § 17
 
 Das Reich wird die Gebühren und Abgaben für die Benutzung der
@@ -370,7 +339,6 @@ dem Gebiet der Rohstoffversorgung - nach Möglichkeit Rechnung tragen
 und bei der Festsetzung von Schiffahrtabgaben auf Seewasserstraßen
 dafür sorgen, daß kein deutscher Seehafen vor einem anderen bevorzugt
 wird und daß die Häfen im Wettbewerb des Weltverkehrs bestehen können.
-
 
 ### § 18
 
@@ -382,14 +350,12 @@ wirtschaftliche Lage des Reichs entgegenstehen.
 2\. Als begonnene Bauten im Sinne dieser Bestimmung gelten die in der
 Zusammenstellung - Anlage B - enthaltenen Bauausführungen.
 
-
 ### § 19
 
 Das Reich wird den Bau neuer, dem allgemeinen Verkehr dienenden
 Wasserstraßen sowie den Um- und Ausbau der bestehenden Anlagen nach
 Maßgabe der verkehrs- und wirtschaftlichen Bedürfnisse der Länder und
 der verfügbaren Mittel ausführen.
-
 
 ### § 20
 
@@ -400,14 +366,9 @@ ist, dafür Sorge tragen, daß Industrie, Handwerk und Handel in der
 gleichen Weise, wie es bisher die Verwaltungen der Länder getan haben,
 herangezogen und in ihrer Entwicklung gefördert werden.
 
-
 ## IV. - ...
 
-
-
 ## V. - Schluß- und Übergangsbestimmungen
-
-
 
 ### § 30
 
@@ -424,7 +385,6 @@ ist, durch ein Schiedsgericht von 5 Mitgliedern entschieden. Für jeden
 Streitfall ernennt der Reichsrat den Vorsitzenden und bestimmen das
 Reich und das beteiligte Land je 2 Beisitzer.
 
-
 ### § 31
 
 1\. Das Reich wird die auf das Reichsverkehrsministerium übergehenden
@@ -438,7 +398,6 @@ Schiedsgericht zur Verfügung stellen.
 zwischen dem Reichsverkehrsministerium und den Landeszentralbehörden
 zu vereinbaren.
 
-
 ### § 32
 
 Sofern nicht alle Länder, deren Wasserstraßen nach Artikel 97 der
@@ -449,7 +408,6 @@ Falle des Zustandekommens abweichender Vereinbarungen mit einzelnen
 Länder für sich die gleichen Zugeständnisse beanspruchen, soweit diese
 über den Inhalt des gegenwärtigen Vertrags hinausgehen und
 nachweislich für sie günstiger sind.
-
 
 ### Anlage A zum Staatsvertrag betreffend den Übergang der Wasserstraßen von den Ländern auf das Reich Verzeichnis der auf das Reich übergehenden Wasserstraßen
 
@@ -2139,10 +2097,6 @@ Fundstelle des Originaltextes: BGBl. Teil III 94, S. 40 - 47
         Saar und die Werra werden nicht im Verfolg des Artikels 97 der
         Reichsverfassung, sondern auf Grund besonderer Vereinbarung auf das
         Reich übernommen.
-
-
-
-
 
 ### Anlage B zum Staatsvertrag betreffend den Übergang der Wasserstraßen von den Ländern auf das Reich Nachweisung der begonnenen Bauten
 

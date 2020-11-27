@@ -15,14 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1996, 1487
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 77 Abs. 4 des Arzneimittelgesetzes in der Fassung der
 Bekanntmachung vom 19. Oktober 1994 (BGBl. I S. 3018) verordnet das
 Bundesministerium für Gesundheit:
-
 
 ## § 1
 
@@ -37,10 +34,6 @@ Arzneimittelgesetzes ausgenommen sind
     sich nicht um Zubereitungen von Blutgerinnungsfaktoren, Seren oder
     Testseren handelt.
 
-
-
-
-
 ## § 2
 
 Das Paul-Ehrlich-Institut ist zusätzlich zu den Zuständigkeiten nach §
@@ -52,10 +45,6 @@ Das Paul-Ehrlich-Institut ist zusätzlich zu den Zuständigkeiten nach §
 
 2.  BCG-Bakterien enthaltende Arzneimittel, die zur unspezifischen
     Stimulierung des Immunsystems bestimmt sind.
-
-
-
-
 
 ## § 3
 

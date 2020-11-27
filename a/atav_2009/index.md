@@ -20,7 +20,6 @@ Fundstelle
     Verbringungen radioaktiver Abfälle und abgebrannter Brennelemente
     (ABl. L 337 vom 5.12.2006, S. 21).
 
-
 ## Eingangsformel
 
 Auf Grund des § 10 Satz 2 des Atomgesetzes, der durch Artikel 1 Nummer
@@ -33,7 +32,6 @@ zuletzt durch Artikel 1 Nummer 5 des Gesetzes vom 12. August 2005
 § 54 Absatz 3 des Atomgesetzes, der zuletzt durch Artikel 151 Nummer 6
 Buchstabe b der Verordnung vom 29. Oktober 2001 (BGBl. I S. 2785; 2002
 S. 2972) geändert worden ist, verordnet die Bundesregierung:
-
 
 ## § 1 Anwendungsbereich
 
@@ -60,10 +58,6 @@ abgebrannter Brennelemente.
 3.  für Verbringungen radioaktiver Stoffe, die durch Aufarbeitung für eine
     weitere Verwendung wiedergewonnen wurden.
 
-
-
-
-
 ## § 2 Verhältnis zu anderen Vorschriften
 
 Genehmigungs- und Anzeigeerfordernisse sowie sonstige Anforderungen
@@ -80,7 +74,6 @@ Anzeige nach § 20 der Strahlenschutzverordnung in der jeweils
 geltenden Fassung sind nicht erforderlich, soweit für die Einfuhr,
 Ausfuhr oder Durchfuhr radioaktiver Abfälle oder abgebrannter
 Brennelemente diese Verordnung anzuwenden ist.
-
 
 ## § 3 Begriffsbestimmungen
 
@@ -182,10 +175,6 @@ Im Sinne dieser Verordnung bedeuten die Begriffe:
 17. „Sammelgenehmigung“: eine Genehmigung für mehrere
     Verbringungsvorgänge.
 
-
-
-
-
 ## § 4 Einheitlicher Begleitschein
 
 (1) Das Genehmigungsverfahren zur Verbringung radioaktiver Abfälle
@@ -199,7 +188,6 @@ Schreibgerät mit dauerhafter dokumentenechter Schrift vorgenommen
 werden. Der ursprüngliche Inhalt einer Eintragung darf nicht verändert
 werden, ohne dass gleichzeitig kenntlich gemacht wird, durch wen und
 wann dies erfolgt ist.
-
 
 ## § 5 Verbringungsverbot, Genehmigung
 
@@ -285,7 +273,6 @@ Versenders, Beförderers, Eigentümers, Empfängers oder jeglicher
 anderen natürlichen oder juristischen Person, die an der Verbringung
 beteiligt ist.
 
-
 ## § 6 Antragstellung
 
 (1) Eine Genehmigung nach § 5 ist beim Bundesamt für Wirtschaft und
@@ -316,7 +303,6 @@ radioaktiven Abfälle oder abgebrannten Brennelemente verbracht werden
 sollen, sowie in allen Fällen des § 5 Absatz 2 den zuständigen
 Behörden der Durchfuhrländer ein Exemplar des einheitlichen
 Begleitscheins in Kopie zwecks Zustimmung.
-
 
 ## § 7 Eingangsbestätigung und Informationsersuchen
 
@@ -371,7 +357,6 @@ Drittländer um die Erteilung der für die ordnungsgemäße Antragstellung
 fehlenden Informationen gebeten, übermittelt es diesen die
 angeforderten Informationen.
 
-
 ## § 8 Verbringung in einen Mitgliedstaat
 
 (1) Die Genehmigung nach § 5 Absatz 2 Satz 1 Nummer 1 Buchstabe a ist
@@ -414,7 +399,6 @@ zu erteilen, wenn
 (2) Auflagen nach Absatz 1 Nummer 2 oder nach § 17 Absatz 1 Satz 2 des
 Atomgesetzes werden dem einheitlichen Begleitschein beigefügt.
 
-
 ## § 9 Verbringung in ein Drittland
 
 (1) Die Genehmigung nach § 5 Absatz 2 Satz 1 Nummer 1 Buchstabe b darf
@@ -441,7 +425,6 @@ nur erteilt werden, wenn
 
 
 (2) § 8 Absatz 2 gilt entsprechend.
-
 
 ## § 10 Verbringung in das Inland aus einem Drittland
 
@@ -481,7 +464,6 @@ wenn
 
 (2) § 8 Absatz 2 gilt entsprechend.
 
-
 ## § 11 Verbringung durch das Inland
 
 (1) Die Genehmigung nach § 5 Absatz 2 Satz 1 Nummer 3 darf nur erteilt
@@ -504,7 +486,6 @@ werden, wenn
 
 (2) § 8 Absatz 2 gilt entsprechend.
 
-
 ## § 12 Unterrichtungen
 
 (1) Von der Erteilung einer Genehmigung nach § 5 Absatz 2 Satz 1
@@ -518,7 +499,6 @@ Wirtschaft und Ausfuhrkontrolle rechtzeitig über den Beginn der
 Verbringung. Dieses setzt die zuständige Behörde des Bestimmungslands
 von der Verbringung in Kenntnis.
 
-
 ## § 13 Übermittlung und Mitführen von Unterlagen
 
 Vor Beginn der Verbringung übermittelt das Bundesamt für Wirtschaft
@@ -529,7 +509,6 @@ B-5              des einheitlichen Begleitscheins. Der Beförderer hat
 eine Ausfertigung der Unterlagen nach Satz 1 während des gesamten
 Beförderungsvorganges mitzuführen. Der Genehmigungsinhaber hat
 sicherzustellen, dass die Verpflichtung nach Satz 2 erfüllt wird.
-
 
 ## § 14 Zustimmung zur Verbringung in das Inland aus einem Mitgliedstaat
 
@@ -580,7 +559,6 @@ die Mitteilung seiner Entscheidung verlangen. Liegt nach Ablauf der
 Fristen nach den Sätzen 1 und 2 keine Mitteilung vor, gilt die
 Zustimmung als erteilt.
 
-
 ## § 15 Zustimmung zur Durchfuhr
 
 (1) Die Verbringung radioaktiver Abfälle oder abgebrannter
@@ -618,10 +596,6 @@ kann die Zustimmung zur Rückverbringung nicht verweigert werden, wenn
 2.  in den Fällen nach § 17, die Rückverbringung mit den gleichen Auflagen
     und Spezifikationen wie die Verbringung erfolgt.
 
-
-
-
-
 ## § 16 Genehmigung durch andere Mitgliedstaaten
 
 In den Fällen der §§ 14 und 15 ist eine Verbringung radioaktiver
@@ -632,7 +606,6 @@ radioaktiver Abfälle und abgebrannter Brennelemente (ABl. L 337 vom
 5\.12.2006, S. 21) erforderliche Genehmigung von der zuständigen
 Behörde des jeweiligen anderen Mitgliedstaats erteilt worden ist. § 13
 gilt entsprechend.
-
 
 ## § 17 Nicht zu Ende geführte Verbringungen
 
@@ -652,7 +625,6 @@ nach Absatz 1.
 
 (3) Kann oder darf eine Verbringung nicht zu Ende geführt werden,
 trägt der Genehmigungsinhaber die dadurch entstehenden Kosten.
-
 
 ## § 18 Bestätigung über den Erhalt
 
@@ -699,7 +671,6 @@ abgebrannten Brennelemente ihren ordnungsgemäßen Bestimmungsort
 erreicht haben; hierbei ist die Eingangszollstelle des
 Bestimmungslands anzugeben.
 
-
 ## § 19 Sprachenregelung
 
 (1) Der Genehmigungsantrag sowie erforderliche zusätzliche Unterlagen
@@ -712,7 +683,6 @@ der Versender auf Antrag des Bundesamtes für Wirtschaft und
 Ausfuhrkontrolle eine beglaubigte Übersetzung in deutscher oder
 englischer Sprache.
 
-
 ## § 20 Mitwirkung der Zollstellen
 
 Radioaktive Abfälle oder abgebrannte Brennelemente sind bei der
@@ -720,7 +690,6 @@ zuständigen Zollstelle unter Vorlage der in § 13 genannten Unterlagen
 anzumelden und auf Verlangen vorzuführen, wenn sie aus einem Drittland
 unmittelbar in das Inland oder aus dem Inland unmittelbar in ein
 Drittland verbracht werden.
-
 
 ## § 21 Aufbewahrung der einheitlichen Begleitscheine nach Abschluss des Verfahrens
 
@@ -733,7 +702,6 @@ und 3 des einheitlichen Begleitscheins an den Antragsteller.
 mindestens drei Jahre, vom Datum der letzten Eintragung an gerechnet,
 aufzubewahren.
 
-
 ## § 22 Übertragung der Ermächtigung zum Erlass von Rechtsverordnungen
 
 Das für die kerntechnische Sicherheit und den Strahlenschutz
@@ -742,7 +710,6 @@ Reaktorsicherheit wird ermächtigt, mit Zustimmung des Bundesrates
 Rechtsverordnungen nach Maßgabe des § 11 Absatz 1 Nummer 6 und Absatz
 2 des Atomgesetzes zur Änderung des einheitlichen Begleitscheins
 dieser Verordnung zu erlassen.
-
 
 ## § 23 Ordnungswidrigkeiten
 
@@ -762,10 +729,6 @@ handelt, wer vorsätzlich oder fahrlässig
 3.  entgegen § 18 Absatz 1 Satz 1 oder Absatz 3 Satz 1 eine Meldung nicht,
     nicht richtig, nicht vollständig oder nicht rechtzeitig macht.
 
-
-
-
-
 ## § 24 Übergangsbestimmung
 
 Auf Verbringungen, die vor dem 25. Dezember 2008 ordnungsgemäß
@@ -774,16 +737,13 @@ Abfallverbringungsverordnung vom 27. Juli 1998 (BGBl. I S. 1918) in
 der bis zum Ablauf des 6. Mai 2009 geltenden Fassung weiter
 anzuwenden.
 
-
 ## § 25 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage Einheitlicher Begleitschein für die Überwachung und Kontrolle von Verbringungen radioaktiver Abfälle und abgebrannter Brennelemente (Richtlinie 2006/117/Euratom des Rates)
 

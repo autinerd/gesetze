@@ -19,14 +19,9 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 25.7.2002 I 2896
 
-
 ## Erster Teil - Heimbeirat und Heimfürsprecher
 
-
-
 ### Erster Abschnitt - Bildung und Zusammensetzung von Heimbeiräten
-
-
 
 #### § 1 Allgemeines
 
@@ -55,7 +50,6 @@ zusammensetzt, eingerichtet werden. Der Heimbeirat und der
 Heimfürsprecher können sich vom Beirat nach den Sätzen 1 und 2 bei
 ihrer Arbeit beraten und unterstützen lassen.
 
-
 #### § 2 Aufgaben der Träger
 
 (1) Die Träger des Heims (Träger) haben auf die Bildung von
@@ -68,7 +62,6 @@ Zusammenwirkens im Heimbeirat aufzuklären.
 (2) Heimbeiräten sind diejenigen Kenntnisse zum Heimgesetz und seinen
 Verordnungen zu vermitteln, die für ihre Tätigkeit erforderlich sind.
 Die hierdurch entstehenden angemessenen Kosten übernimmt der Träger.
-
 
 #### § 3 Wahlberechtigung und Wählbarkeit
 
@@ -86,7 +79,6 @@ als Mitglied des Vorstandes, des Aufsichtsrates oder eines
 gleichartigen Organs des Trägers tätig ist. Nicht wählbar ist
 ebenfalls, wer bei einem anderen Heimträger oder einem Verband von
 Heimträgern eine Leitungsfunktion innehat.
-
 
 #### § 4 Zahl der Heimbeiratsmitglieder
 
@@ -140,7 +132,6 @@ Heimen mit in der Regel
 
 betragen.
 
-
 #### § 5 Wahlverfahren
 
 (1) Der Heimbeirat wird in gleicher, geheimer und unmittelbarer Wahl
@@ -162,7 +153,6 @@ nicht im Heim wohnen, ist die Bewerberin bzw. der Bewerber gewählt,
 die oder der im Heim wohnt. Im Übrigen entscheidet das Los. § 4 Abs. 2
 bleibt unberührt.
 
-
 #### § 6 Bestellung des Wahlausschusses
 
 (1) Spätestens acht Wochen vor Ablauf der Amtszeit bestellt der
@@ -175,7 +165,6 @@ Heims den Wahlausschuss zu bestellen. Soweit hierfür Wahlberechtigte
 nicht in der erforderlichen Zahl zur Verfügung stehen, hat die Leitung
 Mitarbeiterinnen und Mitarbeiter des Heims zu Mitgliedern des
 Wahlausschusses zu bestellen.
-
 
 #### § 7 Vorbereitung und Durchführung der Wahl
 
@@ -203,7 +192,6 @@ Ausstattung berücksichtigt werden.
 (4) Der Wahlausschuss fasst seine Beschlüsse mit einfacher
 Stimmenmehrheit.
 
-
 #### § 7a Wahlversammlung
 
 (1) In Heimen mit in der Regel bis zu 50 Bewohnerinnen und Bewohnern
@@ -223,13 +211,11 @@ Wahlversammlung einzuladen.
 Wahlausschuss kann die Heimleitung durch Beschluss von der
 Wahlversammlung ausschließen.
 
-
 #### § 8 Mithilfe der Leitung
 
 Die Leitung des Heims hat die Vorbereitung und Durchführung der Wahl
 in dem erforderlichen Maße personell und sächlich zu unterstützen und
 die erforderlichen Auskünfte zu erteilen.
-
 
 #### § 9 Wahlschutz und Wahlkosten
 
@@ -238,7 +224,6 @@ oder Androhung von Nachteilen oder Gewährung oder Versprechen von
 Vorteilen beeinflusst werden.
 
 (2) Die erforderlichen Kosten der Wahl übernimmt der Träger.
-
 
 #### § 10 Wahlanfechtung
 
@@ -251,7 +236,6 @@ ist. Eine Anfechtung ist ausgeschlossen, wenn durch den Verstoß das
 Wahlergebnis nicht geändert oder beeinflusst werden konnte.
 
 (2) Über die Anfechtung entscheidet die zuständige Behörde.
-
 
 #### § 11 Mitteilung an die zuständige Behörde
 
@@ -271,7 +255,6 @@ regelmäßigen Amtszeit nach § 13 neu zu wählen ist. Die Frist zur
 Mitteilung beginnt mit dem Eintritt der die Neuwahl begründenden
 Tatsachen.
 
-
 #### § 11a Abweichende Bestimmungen für die Bildung des Heimbeirates
 
 (1) Die zuständige Behörde kann in Einzelfällen Abweichungen von der
@@ -284,10 +267,7 @@ Funktionsfähigkeit des Heimbeirates nicht beeinträchtigen.
 zuständige Behörde die Wahlversammlung nach § 7a auch für Heime mit in
 der Regel mehr als 50 Bewohnerinnen und Bewohnern zulassen.
 
-
 ### Zweiter Abschnitt - Amtszeit des Heimbeirates
-
-
 
 #### § 12 Amtszeit
 
@@ -298,14 +278,12 @@ noch ein Heimbeirat besteht, mit dem Ablauf seiner Amtszeit.
 (2) In Einrichtungen der Hilfe für behinderte Menschen beträgt die
 Amtszeit vier Jahre.
 
-
 #### § 13 Neuwahl des Heimbeirates
 
 Der Heimbeirat ist neu zu wählen, wenn die Gesamtzahl der Mitglieder
 um mehr als die Hälfte der vorgeschriebenen Zahl gesunken ist oder der
 Heimbeirat mit Mehrheit der Mitglieder seinen Rücktritt beschlossen
 hat.
-
 
 #### § 14 Erlöschen der Mitgliedschaft
 
@@ -327,10 +305,6 @@ Die Mitgliedschaft im Heimbeirat erlischt durch
     Mitglieder des Heimbeirates, dass das Heimbeiratsmitglied seinen
     Pflichten nicht mehr nachkommt oder nicht mehr nachkommen kann.
 
-
-
-
-
 #### § 15 Nachrücken von Ersatzmitgliedern
 
 Scheidet ein Mitglied aus dem Heimbeirat aus, so rückt die nicht
@@ -338,10 +312,7 @@ gewählte Person mit der höchsten Stimmenzahl als Ersatzmitglied nach.
 § 4 Abs. 2 findet Anwendung. Das Gleiche gilt, wenn ein Mitglied des
 Heimbeirates zeitweilig verhindert ist.
 
-
 ### Dritter Abschnitt - Geschäftsführung des Heimbeirates
-
-
 
 #### § 16 Vorsitz
 
@@ -352,7 +323,6 @@ soll den Vorsitz innehaben.
 (2) Die oder der Vorsitzende vertritt den Heimbeirat im Rahmen der von
 diesem gefassten Beschlüsse, soweit der Heimbeirat im Einzelfall keine
 andere Vertretung bestimmt.
-
 
 #### § 17 Sitzungen des Heimbeirates
 
@@ -389,7 +359,6 @@ wenden.
 (7) Der Heimbeirat kann Arbeitsgruppen bilden. Das weitere Verfahren
 regelt der Heimbeirat.
 
-
 #### § 18 Beschlüsse des Heimbeirates
 
 (1) Die Beschlüsse des Heimbeirates werden mit einfacher
@@ -400,7 +369,6 @@ Vorsitzenden.
 (2) Der Heimbeirat ist beschlussfähig, wenn mindestens die Hälfte
 seiner Mitglieder anwesend ist.
 
-
 #### § 19 Sitzungsniederschrift
 
 Über jede Verhandlung des Heimbeirates ist eine Niederschrift
@@ -408,7 +376,6 @@ aufzunehmen, die mindestens die Sitzungsteilnehmer, den Wortlaut der
 Beschlüsse und die Stimmenmehrheit, mit der sie gefasst sind, enthält.
 Die Niederschrift ist von der Vorsitzenden oder dem Vorsitzenden und
 einem weiteren Mitglied zu unterzeichnen.
-
 
 #### § 20 Bewohnerversammlung und Tätigkeitsbericht des Heimbeirates
 
@@ -424,7 +391,6 @@ Heims an der Bewohnerversammlung teilzunehmen. Der Heimbeirat kann die
 Leitung von der Bewohnerversammlung insgesamt oder von einzelnen
 Tagesordnungspunkten ausschließen.
 
-
 #### § 21 Kosten und Sachaufwand des Heimbeirates
 
 (1) Der Träger gewährt dem Heimbeirat die zur Erfüllung seiner
@@ -439,16 +405,12 @@ Bekanntmachungen zur Verfügung zu stellen.
 (3) Die durch die Tätigkeit des Heimbeirates entstehenden angemessenen
 Kosten trägt der Träger.
 
-
 ### Vierter Abschnitt - Stellung der Heimbeiratsmitglieder
-
-
 
 #### § 22 Ehrenamtliche Tätigkeit
 
 Die Mitglieder des Heimbeirates führen ihr Amt unentgeltlich und
 ehrenamtlich aus.
-
 
 #### § 23 Benachteiligungs- und Begünstigungsverbot
 
@@ -459,7 +421,6 @@ oder begünstigt werden.
 (2) Eine Bewohnerin oder ein Bewohner darf aufgrund der Tätigkeit
 eines Angehörigen oder einer Vertrauensperson im Heimbeirat nicht
 benachteiligt oder begünstigt werden.
-
 
 #### § 24 Verschwiegenheitspflicht
 
@@ -473,10 +434,7 @@ den übrigen Mitgliedern des Heimbeirates. Satz 1 gilt für die nach §
 oder Tatsachen, die offenkundig sind oder ihrer Bedeutung nach keiner
 vertraulichen Behandlung bedürfen.
 
-
 ### Fünfter Abschnitt - Heimfürsprecher
-
-
 
 #### § 25 Bestellung des Heimfürsprechers
 
@@ -505,7 +463,6 @@ geeigneter Weise von der Bestellung zu unterrichten.
 
 (5) § 1 Abs. 3 gilt entsprechend.
 
-
 #### § 26 Aufhebung der Bestellung des Heimfürsprechers
 
 (1) Die zuständige Behörde hat die Bestellung aufzuheben, wenn
@@ -531,7 +488,6 @@ Bewohnerinnen und Bewohnern nicht mehr möglich ist.
 
 (3) § 25 Abs. 4 gilt entsprechend.
 
-
 #### § 27 Beendigung der Tätigkeit
 
 Die Tätigkeit des Heimfürsprechers endet mit
@@ -540,10 +496,6 @@ Die Tätigkeit des Heimfürsprechers endet mit
 
 
 2.  Aufhebung seiner Bestellung durch die zuständige Behörde nach § 26.
-
-
-
-
 
 #### § 28 Stellung und Amtsführung des Heimfürsprechers
 
@@ -560,7 +512,6 @@ erforderlichen Kosten werden von dem Träger übernommen.
 Zutritt zum Heim zu gewähren und ihm zu ermöglichen, sich mit den
 Bewohnerinnen und Bewohnern in Verbindung zu setzen.
 
-
 #### § 28a Ersatzgremium
 
 Von der Bestellung eines Heimfürsprechers nach § 10 Abs. 4 Satz 5 des
@@ -570,10 +521,7 @@ Weise gewährleisten und die Aufgaben des Heimbeirates übernehmen kann.
 Für das Ersatzgremium gelten die §§ 20 bis 24 und die §§ 29 bis 32
 entsprechend.
 
-
 ## Zweiter Teil - Mitwirkung des Heimbeirates und des Heimfürsprechers
-
-
 
 ### § 29 Aufgaben des Heimbeirates
 
@@ -611,10 +559,6 @@ Der Heimbeirat hat folgende Aufgaben:
     Qualitätsvereinbarungen sowie an den Vergütungsvereinbarungen und nach
     § 7 Abs. 5 des Gesetzes an den Leistungs-, Vergütungs- und
     Prüfungsvereinbarungen.
-
-
-
-
 
 ### § 30 Mitwirkung bei Entscheidungen
 
@@ -661,10 +605,6 @@ in folgenden Angelegenheiten mit:
     § 7 Abs. 5 des Gesetzes an den Leistungs-, Vergütungs- und
     Prüfungsvereinbarungen.
 
-
-
-
-
 ### § 31 Mitwirkung bei Leistung von Finanzierungsbeiträgen
 
 (1) Wenn von einer Bewohnerin oder einem Bewohner oder von Dritten zu
@@ -691,7 +631,6 @@ Ausstattung oder zum Betrieb des Heims erbracht worden sind.
 gegenüber dem Träger durch die Leistung von Finanzierungsbeiträgen
 begründet worden sind, durch Verrechnung, Rückzahlung oder sonstiger
 Weise erloschen sind.
-
 
 ### § 32 Form und Durchführung der Mitwirkung des Heimbeirates
 
@@ -720,16 +659,12 @@ zu beantworten. Der Träger hat die Antwort zu begründen, wenn er das
 Anliegen des Heimbeirates bei seiner Entscheidung nicht berücksichtigt
 hat.
 
-
 ### § 33 Mitwirkung des Heimfürsprechers
 
 Die §§ 29 bis 32 gelten für die Mitwirkung des Heimfürsprechers
 entsprechend.
 
-
 ## Dritter Teil - Ordnungswidrigkeiten und Schlussvorschriften
-
-
 
 ### § 34 Ordnungswidrigkeiten
 
@@ -770,15 +705,10 @@ handelt, wer vorsätzlich oder fahrlässig
 8.  entgegen § 32 Abs. 3 Satz 1 Entscheidungen vor ihrer Durchführung
     nicht rechtzeitig erörtert.
 
-
-
-
-
 ### § 35 Übergangsvorschrift
 
 Heimbeiräte, die vor Inkrafttreten der Verordnung gewählt worden sind,
 müssen nicht neu gewählt werden.
-
 
 ### § 36
 

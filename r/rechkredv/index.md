@@ -30,10 +30,7 @@ eingerichteten Zweigniederlassungen von Kreditinstituten und
 Finanzinstituten mit Sitz außerhalb dieses Mitgliedstaats zur
 Offenlegung von Jahresabschlußunterlagen (ABl. EG Nr. L 44 S. 40).
 
-
 ## Abschnitt 1 - Anwendungsbereich
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -44,10 +41,7 @@ Vierte Abschnitt des Dritten Buchs des Handelsgesetzbuchs anzuwenden
 ist. Diese Verordnung ist auf Wohnungsunternehmen mit Spareinrichtung
 nicht anzuwenden.
 
-
 ## Abschnitt 2 - Bilanz und Gewinn- und Verlustrechnung
-
-
 
 ### § 2 Formblätter
 
@@ -79,7 +73,6 @@ wenn
 Satz 1 ist auf die der Deutschen Bundesbank und der Bundesanstalt für
 Finanzdienstleistungsaufsicht einzureichenden Bilanzen und Gewinn- und
 Verlustrechnungen nicht anzuwenden.
-
 
 ### § 3 Unterposten
 
@@ -119,7 +112,6 @@ Als Unterposten sind im Formblatt jeweils gesondert auszuweisen:
 Die Angaben nach Satz 1 können statt in der Bilanz im Anhang in der
 Reihenfolge der betroffenen Posten gemacht werden.
 
-
 ### § 4 Nachrangige Vermögensgegenstände und Schulden
 
 (1) Vermögensgegenstände und Schulden sind als nachrangig auszuweisen,
@@ -131,7 +123,6 @@ Gläubiger erfüllt werden dürfen.
 jeweiligen Posten oder Unterposten gesondert auszuweisen. Die Angaben
 können statt in der Bilanz im Anhang in der Reihenfolge der
 betroffenen Posten gemacht werden.
-
 
 ### § 5 Gemeinschaftsgeschäfte
 
@@ -151,7 +142,6 @@ Kreditinstitut seinen Haftungsbetrag in der Bilanz im Unterposten
 (Passivposten unter dem Strich Nr. 1 Buchstabe b) zu vermerken. Die
 Sätze 1 und 2 sind entsprechend anzuwenden, wenn Kreditinstitute
 Wertpapiere oder Beteiligungen gemeinschaftlich erwerben.
-
 
 ### § 6 Treuhandgeschäfte
 
@@ -179,7 +169,6 @@ die Zahl der verwalteten Sondervermögen in der Bilanz auf der
 Passivseite unter dem Strich in einem Posten mit der Bezeichnung "Für
 Anteilinhaber verwaltete Sondervermögen" auszuweisen.
 
-
 ### § 7 Wertpapiere
 
 (1) Als Wertpapiere sind Aktien, Zwischenscheine, Investmentanteile,
@@ -203,7 +192,6 @@ Fälligkeit einheitlich ausgestattet sind.
 zum Handel im regulierten Markt zugelassen sind, außerdem Wertpapiere,
 die an ausländischen Börsen zugelassen sind oder gehandelt werden.
 
-
 ### § 8 Restlaufzeit
 
 (1) Für die Gliederung nach Restlaufzeiten sind bei ungekündigten
@@ -224,7 +212,6 @@ worden ist; hierzu rechnen auch die sogenannten Tagesgelder und Gelder
 mit täglicher Kündigung einschließlich der über geschäftsfreie Tage
 angelegten Gelder mit Fälligkeit oder Kündigungsmöglichkeit am
 nächsten Geschäftstag.
-
 
 ### § 9 Fristengliederung
 
@@ -290,10 +277,6 @@ maßgebend:
     Beträge, die in dem Jahr, das auf den Bilanzstichtag folgt, fällig
     werden.
 
-
-
-
-
 ### § 10 Verrechnung
 
 (1) Täglich fällige, keinerlei Bindungen unterliegende
@@ -308,7 +291,6 @@ Kontoinhaber wie bei Verbuchung über ein einziges Konto gestellt wird.
 verschiedenen Währungen ist nicht zulässig. Nicht verrechnet werden
 darf mit Sperrguthaben und Spareinlagen.
 
-
 ### § 11 Anteilige Zinsen
 
 Anteilige Zinsen und ähnliche das Geschäftsjahr betreffende Beträge,
@@ -322,14 +304,9 @@ Satz 2, Abs. 5 Satz 3 des Handelsgesetzbuchs bleibt unberührt. Die in
 Satz 1 genannten Beträge brauchen nicht nach Restlaufzeiten
 aufgegliedert zu werden.
 
-
 ## Abschnitt 3 - Vorschriften zu einzelnen Posten der Bilanz (Formblatt 1)
 
-
-
 ### Unterabschnitt 1 - Posten der Aktivseite
-
-
 
 #### § 12 Barreserve (Nr. 1)
 
@@ -354,7 +331,6 @@ oder andere täglich fällige Darlehen sind nicht von den Guthaben
 abzusetzen, sondern im Posten "Verbindlichkeiten gegenüber
 Kreditinstituten" (Passivposten Nr. 1) als täglich fällige
 Verbindlichkeiten auszuweisen.
-
 
 #### § 13 Schuldtitel öffentlicher Stellen und Wechsel, die zur Refinanzierung bei Zentralnotenbanken zugelassen sind (Nr. 2)
 
@@ -384,7 +360,6 @@ nicht abgerechnete Wechsel, Solawechsel und eigene Ziehungen, die beim
 bilanzierenden Institut hinterlegt sind (Depot- oder Kautionswechsel),
 sind nicht als Wechsel zu bilanzieren.
 
-
 #### § 14 Forderungen an Kreditinstitute (Nr. 3)
 
 Im Posten "Forderungen an Kreditinstitute" sind alle Arten von
@@ -407,7 +382,6 @@ nicht in Wertpapieren verbriefte rückzahlbare Genußrechte. § 7 bleibt
 unberührt. Ferner gehören hierzu Bausparguthaben aus abgeschlossenen
 Bausparverträgen und Soll-Salden aus Effektengeschäften und
 Verrechnungskonten.
-
 
 #### § 15 Forderungen an Kunden (Nr. 4)
 
@@ -456,7 +430,6 @@ Pfandbriefgesetzes entsprechen.
 
 (5) (weggefallen)
 
-
 #### § 16 Schuldverschreibungen und andere festverzinsliche Wertpapiere (Nr. 5)
 
 (1) Als Schuldverschreibungen und andere festverzinsliche Wertpapiere
@@ -494,7 +467,6 @@ nicht börsenfähigen eigenen Schuldverschreibungen ist vom Passivposten
 
 (5) Bezüglich der Absätze 1 bis 2a und 4 bleibt § 7 unberührt.
 
-
 #### § 17 Aktien und andere nicht festverzinsliche Wertpapiere (Nr. 6)
 
 Im Posten "Aktien und andere nicht festverzinsliche Wertpapiere" sind
@@ -507,7 +479,6 @@ börsenfähige Genußscheine sowie andere nicht festverzinsliche
 Wertpapiere, soweit sie börsennotiert sind. Vor Fälligkeit
 hereingenommene Gewinnanteilscheine sind ebenfalls hier aufzunehmen.
 
-
 #### § 18 Beteiligungen (Nr. 7)
 
 Institute in der Rechtsform der eingetragenen Genossenschaft und
@@ -515,7 +486,6 @@ genossenschaftliche Zentralbanken haben Geschäftsguthaben bei
 Genossenschaften unter dem Posten "Beteiligungen" (Aktivposten Nr. 7)
 auszuweisen. In diesem Fall ist die Postenbezeichnung entsprechend
 anzupassen.
-
 
 #### § 19 Ausgleichsforderungen gegen die öffentliche Hand einschließlich Schuldverschreibungen aus deren Umtausch (Nr. 10)
 
@@ -528,7 +498,6 @@ sind, unabhängig davon, ob das bilanzierende Institut die
 Schuldverschreibungen aus dem Umtausch eigener Ausgleichsforderungen
 oder als Erwerber von einem anderen Institut oder einem
 Außenhandelsbetrieb erlangt hat.
-
 
 #### § 20 Sonstige Vermögensgegenstände (Nr. 14)
 
@@ -548,10 +517,7 @@ Vermögensgegenstände" nur ausgewiesen werden, wenn sie sich nicht
 länger als fünf Jahre im Bestand des bilanzierenden Instituts
 befinden.
 
-
 ### Unterabschnitt 2 - Posten der Passivseite
-
-
 
 #### § 21 Verbindlichkeiten gegenüber Kreditinstituten (Nr. 1), Verbindlichkeiten gegenüber Kunden (Nr. 2)
 
@@ -620,7 +586,6 @@ aus. Geldbeträge, die auf Grund von Vermögensbildungsgesetzen
 geleistet werden, gelten als Spareinlagen. Bauspareinlagen gelten
 nicht als Spareinlagen.
 
-
 #### § 22 Verbriefte Verbindlichkeiten (Nr. 3)
 
 (1) Als verbriefte Verbindlichkeiten sind Schuldverschreibungen und
@@ -650,7 +615,6 @@ begebenen Schuldverschreibungen, wenn sie dem Erwerber noch nicht
 geliefert worden sind. Dem Treuhänder zurückgegebene Stücke dürfen
 nicht mehr ausgewiesen werden.
 
-
 #### § 23 Rechnungsabgrenzungsposten (Nr. 6)
 
 Dem Kreditnehmer aus Teilzahlungsfinanzierungsgeschäften berechnete
@@ -662,7 +626,6 @@ aus der Weitergabe von Wechselabschnitten, soweit sie künftigen
 Rechnungsperioden zuzurechnen ist, hier auszuweisen; letzteres gilt
 entsprechend auch für andere Wechselrefinanzierungen.
 
-
 #### § 24 Rückstellungen (Nr. 7)
 
 Wird im Unterposten Buchstabe c "andere Rückstellungen" eine
@@ -670,7 +633,6 @@ Rückstellung für einen drohenden Verlust aus einer unter dem Strich
 vermerkten Eventualverbindlichkeit oder einem Kreditrisiko gebildet,
 so ist der Posten unter dem Strich in Höhe des zurückgestellten
 Betrags zu kürzen.
-
 
 #### § 25 Eigenkapital (Nr. 12)
 
@@ -688,7 +650,6 @@ Sicherheitsrücklage der Sparkassen sowie die Ergebnisrücklagen der
 Kreditgenossenschaften auszuweisen. Die genaue Bezeichnung im
 Einzelfall kann zusätzlich zu der Postenbezeichnung "Gewinnrücklagen"
 in das Bilanzformblatt eingetragen werden.
-
 
 #### § 26 Eventualverbindlichkeiten (Nr. 1 unter dem Strich)
 
@@ -723,7 +684,6 @@ Gewährleistungsvertrag, so ist nur diese zu vermerken, und zwar im
 Unterposten Buchstabe b "Verbindlichkeiten aus Bürgschaften und
 Gewährleistungsverträgen".
 
-
 #### § 27 Andere Verpflichtungen (Nr. 2 unter dem Strich)
 
 (1) Im Unterposten Buchstabe b "Plazierungs- und
@@ -746,10 +706,7 @@ alle unwiderruflichen Verpflichtungen, die Anlaß zu einem Kreditrisiko
 geben können, zu vermerken. Der Abschluß eines Bausparvertrages gilt
 nicht als unwiderrufliche Kreditzusage.
 
-
 ## Abschnitt 4 - Vorschriften zu einzelnen Posten der Gewinn- und Verlustrechnung (Formblätter 2 und 3)
-
-
 
 ### § 28 Zinserträge (Formblatt 2 Spalte Erträge Nr. 1, Formblatt 3 Nr. 1)
 
@@ -775,7 +732,6 @@ mit Zinscharakter sowie Gebühren und Provisionen mit Zinscharakter,
 die nach dem Zeitablauf oder nach der Höhe der Forderung berechnet
 werden.
 
-
 ### § 29 Zinsaufwendungen (Formblatt 2 Spalte Aufwendungen Nr. 1, Formblatt 3 Nr. 2)
 
 Im Posten "Zinsaufwendungen" sind Zinsaufwendungen und ähnliche
@@ -799,7 +755,6 @@ Aufwendungen mit Zinscharakter sowie Gebühren und Provisionen mit
 Zinscharakter, die nach dem Zeitablauf oder nach der Höhe der
 Verbindlichkeiten berechnet werden.
 
-
 ### § 30 Provisionserträge (Formblatt 2 Spalte Erträge Nr. 4, Formblatt 3 Nr. 5), Provisionsaufwendungen (Formblatt 2 Spalte Aufwendungen Nr. 2, Formblatt 3 Nr. 6)
 
 (1) Im Posten "Provisionserträge" sind Provisionen und ähnliche
@@ -815,7 +770,6 @@ Wertpapieren, Bürgschaftsprovisionen und Kontoführungsgebühren.
 (2) Im Posten "Provisionsaufwendungen" sind Provisionen und ähnliche
 Aufwendungen aus den in Absatz 1 bezeichneten
 Dienstleistungsgeschäften auszuweisen.
-
 
 ### § 31 Allgemeine Verwaltungsaufwendungen (Formblatt 2 Spalte Aufwendungen Nr. 4, Formblatt 3 Nr. 10)
 
@@ -841,14 +795,12 @@ Wertpapiere sowie Zuführungen zu Rückstellungen im Kreditgeschäft"
 (Formblatt 2 Spalte Aufwendungen Nr. 7, Formblatt 3 Nr. 13) zu
 erfassen.
 
-
 ### § 32 Abschreibungen und Wertberichtigungen auf Forderungen und bestimmte Wertpapiere sowie Zuführungen zu Rückstellungen im Kreditgeschäft (Formblatt 2 Spalte Aufwendungen Nr. 7, Formblatt 3 Nr. 13), Erträge aus Zuschreibungen zu Forderungen und bestimmten Wertpapieren sowie aus der Auflösung von Rückstellungen im Kreditgeschäft (Formblatt 2 Spalte Erträge Nr. 6, Formblatt 3 Nr. 14)
 
 In diese Posten sind die in § 340f Abs. 3 des Handelsgesetzbuchs
 bezeichneten Aufwendungen und Erträge aufzunehmen. Die Posten dürfen
 verrechnet und in einem Aufwand- oder Ertragsposten ausgewiesen
 werden. Eine teilweise Verrechnung ist nicht zulässig.
-
 
 ### § 33 Abschreibungen und Wertberichtigungen auf Beteiligungen, Anteile an verbundenen Unternehmen und wie Anlagevermögen behandelte Wertpapiere (Formblatt 2 Spalte Aufwendungen Nr. 8, Formblatt 3 Nr. 15), Erträge aus Zuschreibungen zu Beteiligungen, Anteilen an verbundenen Unternehmen und wie Anlagevermögen behandelten Wertpapieren (Formblatt 2 Spalte Erträge Nr. 7, Formblatt 3 Nr. 16)
 
@@ -857,10 +809,7 @@ bezeichneten Aufwendungen und Erträge aufzunehmen. Die Posten dürfen
 verrechnet und in einem Aufwand- oder Ertragsposten ausgewiesen
 werden. Eine teilweise Verrechnung ist nicht zulässig.
 
-
 ## Abschnitt 5 - Anhang
-
-
 
 ### § 34 Zusätzliche Erläuterungen
 
@@ -947,7 +896,6 @@ Handelsgesetzbuchs zu machen. Die Zuschreibungen, Abschreibungen und
 Wertberichtigungen auf Beteiligungen, Anteile an verbundenen
 Unternehmen sowie auf andere Wertpapiere, die wie Anlagevermögen
 behandelt werden, können mit anderen Posten zusammengefaßt werden.
-
 
 ### § 35 Zusätzliche Pflichtangaben
 
@@ -1236,7 +1184,6 @@ Unterposten Buchstabe a bis c bezeichneten Verbindlichkeiten
 anzugeben, die in bezug auf die Gesamttätigkeit des Instituts von
 wesentlicher Bedeutung sind.
 
-
 ### § 36 Termingeschäfte
 
 In den Anhang ist eine Aufstellung über die Arten von am
@@ -1275,20 +1222,14 @@ anzugeben, ob ein wesentlicher Teil davon zur Deckung von Zins-,
 Wechselkurs- oder Marktpreisschwankungen abgeschlossen wurde und ob
 ein wesentlicher Teil davon auf Handelsgeschäfte entfällt.
 
-
 ## Abschnitt 6 - Konzernrechnungslegung
-
-
 
 ### § 37 Konzernrechnungslegung
 
 Auf den Konzernabschluß sind, soweit seine Eigenart keine Abweichung
 bedingt, die §§ 1 bis 36 entsprechend anzuwenden.
 
-
 ## Abschnitt 7 - Ordnungswidrigkeiten
-
-
 
 ### § 38 Ordnungswidrigkeiten
 
@@ -1339,10 +1280,7 @@ Jahresabschlusses
 (2) Die Bestimmungen des Absatzes 1 gelten auch für den
 Konzernabschluß im Sinne des § 37.
 
-
 ## Abschnitt 8 - Schlußvorschriften
-
-
 
 ### § 39 Übergangsvorschriften
 
@@ -1427,18 +1365,15 @@ sowie zur Änderung weiterer Rechnungslegungsverordnungen vom 18.
 Dezember 2009 (BGBl. I S. 3934) ist Absatz 11 Satz 1, 2 und 4
 entsprechend anzuwenden.
 
-
 ### § 40
 
 (Inkrafttreten, Aufhebung von Rechtsvorschriften)
-
 
 ### Formblatt 1 *Fe Jahresbilanz */ zum .......................... der .............................................
 
 (Inhalt: nicht darstellbares Formblatt)
 (Fundstelle: BGBl. I 1998, 3672 - 3675;
 bezüglich der einzelnen Änderungen vgl. Fußnote)
-
 
 ### Formblatt 2 (Kontoform) Gewinn- und Verlustrechnung der ................................................ für die Zeit vom ............... bis ...............
 
@@ -2540,10 +2475,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         Kreditwesengesetzes haben vor dem Ertragsposten „1. Zinserträge” den
         Posten „01. Leasingerträge” und vor dem Aufwandsposten „1.
         Zinsaufwendungen” den Posten „01. Leasingaufwendungen” auszuweisen.
-
-
-
-
 
 ### Formblatt 3 (Staffelform) Gewinn- und Verlustrechnung der ................................................ für die Zeit vom ............... bis ...............
 

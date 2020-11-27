@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 2820
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 8 Abs. 3 Satz 1, 2, 4 und 5 des
@@ -30,7 +28,6 @@ obersten Landesbehörden der Länder Baden-Württemberg, Bayern,
 Brandenburg, Hamburg, Niedersachsen, Nordrhein-Westfalen, Rheinland-
 Pfalz und Sachsen:
 
-
 ## § 1
 
 Die den Zoll- und Verbrauchsteuerabteilungen der Oberfinanzdirektionen
@@ -38,7 +35,6 @@ Chemnitz, Cottbus, Hamburg, Hannover, Karlsruhe, Koblenz und Nürnberg
 nach § 8 Abs. 4 Satz 2 des Finanzverwaltungsgesetzes zugewiesenen
 Aufgaben im Bereich der Kassenaufsicht über die Bundeskassen mit
 Außenstellen werden auf die Oberfinanzdirektion Köln übertragen.
-
 
 ## § 2
 

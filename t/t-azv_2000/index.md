@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 15 Abs. 105 G v. 5.2.2009 I 160
 
-
 ## Eingangsformel
 
 Auf Grund des § 3 Abs. 4 Satz 1 Nr. 2 des Postpersonalrechtsgesetzes
@@ -30,13 +29,11 @@ Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975
 auf Vorschlag des Vorstands der Deutschen Telekom AG und nach Anhörung
 der Bundesanstalt für Post und Telekommunikation Deutsche Bundespost:
 
-
 ## § 1 Anwendung der Arbeitszeitverordnung
 
 Für die bei der Deutschen Telekom AG beschäftigten Beamtinnen und
 Beamten gilt die Arbeitszeitverordnung, soweit in den §§ 2 bis 4
 nichts anderes bestimmt ist.
-
 
 ## § 2 Regelmäßige Arbeitszeit
 
@@ -55,7 +52,6 @@ Bundesministerium der Finanzen halbjährlich zu unterrichten. Das
 Bundesministerium der Finanzen kann solchermaßen getroffene
 Anordnungen im Rahmen der Rechtsaufsicht ändern oder aufheben.
 
-
 ## § 2a Regelmäßige Arbeitszeit bei einem anderen Unternehmen oder einer öffentlichen Einrichtung
 
 Wird Beamtinnen und Beamten nach § 4 Abs. 4 des
@@ -73,7 +69,6 @@ hat das Bundesministerium der Finanzen über den Erlass solcher
 Anordnungen unverzüglich zu unterrichten. Das Bundesministerium der
 Finanzen kann diese Anordnungen im Rahmen der Rechtsaufsicht ändern
 oder aufheben.
-
 
 ## § 3 Gleitende Arbeitszeit
 
@@ -95,7 +90,6 @@ Abrechnungszeitraum übertragen werden. Zeitschulden werden in vollem
 Umfang übertragen. Der Ausgleich eines Zeitguthabens darf bis zu zehn
 Stunden je Kalendermonat in der Kernarbeitszeit vorgenommen werden,
 wenn betriebliche Belange nicht entgegenstehen.
-
 
 ## § 4 Arbeitszeitkonten
 
@@ -123,7 +117,6 @@ Beamten treffen.
 
 (3) Im Rahmen dieser Regelungen findet für Beamtinnen und Beamte mit
 gleitender Arbeitszeit § 3 Abs. 2 und 3 keine Anwendung.
-
 
 ## § 5 Inkrafttreten
 

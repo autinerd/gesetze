@@ -80,14 +80,12 @@ zuletzt durch die Richtlinie 2006/96/EG (ABl. L 363 vom 20.12.2006, S.
 
 ## Kapitel 1 - Allgemeine Bestimmungen
 
-
 ### § 1 Zweck
 
 Zweck dieses Gesetzes ist es, durch eine nachhaltige
 Gewässerbewirtschaftung die Gewässer als Bestandteil des
 Naturhaushalts, als Lebensgrundlage des Menschen, als Lebensraum für
 Tiere und Pflanzen sowie als nutzbares Gut zu schützen.
-
 
 ### § 2 Anwendungsbereich
 
@@ -114,7 +112,6 @@ untergeordneter Bedeutung, insbesondere Straßenseitengräben als
 Bestandteil von Straßen, Be- und Entwässerungsgräben, sowie
 Heilquellen von den Bestimmungen dieses Gesetzes ausnehmen. Dies gilt
 nicht für die Haftung für Gewässerveränderungen nach den §§ 89 und 90.
-
 
 ### § 3 Begriffsbestimmungen
 
@@ -227,10 +224,6 @@ Für dieses Gesetz gelten folgende Begriffsbestimmungen:
     den ihnen zugeordneten Küstengewässern im Sinne des § 7 Absatz 5 Satz
     2 besteht.
 
-
-
-
-
 ### § 4 Gewässereigentum, Schranken des Grundeigentums
 
 (1) Das Eigentum an den Bundeswasserstraßen steht dem Bund nach
@@ -262,7 +255,6 @@ Nummer 3.
 (5) Im Übrigen gelten für das Eigentum an Gewässern die
 landesrechtlichen Vorschriften.
 
-
 ### § 5 Allgemeine Sorgfaltspflichten
 
 (1) Jede Person ist verpflichtet, bei Maßnahmen, mit denen
@@ -291,12 +283,9 @@ Schadensminderung zu treffen, insbesondere die Nutzung von
 Grundstücken den möglichen nachteiligen Folgen für Mensch, Umwelt oder
 Sachwerte durch Hochwasser anzupassen.
 
-
 ## Kapitel 2 - Bewirtschaftung von Gewässern
 
-
 ### Abschnitt 1 - Gemeinsame Bestimmungen
-
 
 #### § 6 Allgemeine Grundsätze der Gewässerbewirtschaftung
 
@@ -346,7 +335,6 @@ befinden, sollen in diesem Zustand erhalten bleiben und nicht naturnah
 ausgebaute natürliche Gewässer sollen so weit wie möglich wieder in
 einen naturnahen Zustand zurückgeführt werden, wenn überwiegende
 Gründe des Wohls der Allgemeinheit dem nicht entgegenstehen.
-
 
 #### § 7 Bewirtschaftung nach Flussgebietseinheiten
 
@@ -427,7 +415,6 @@ Hoheitsgewässer gemessen wird, mindestens bis zur äußeren Grenze der
 Gewässer, die im Wesentlichen von Süßwasserströmungen beeinflusst
 sind. Die Länder können die Zuordnung auch durch Gesetz regeln.
 
-
 #### § 8 Erlaubnis, Bewilligung
 
 (1) Die Benutzung eines Gewässers bedarf der Erlaubnis oder der
@@ -466,7 +453,6 @@ Erprobung anzuzeigen.
 anderes bestimmt worden, geht die Erlaubnis oder die Bewilligung mit
 der Wasserbenutzungsanlage oder, wenn sie für ein Grundstück erteilt
 worden ist, mit diesem auf den Rechtsnachfolger über.
-
 
 #### § 9 Benutzungen
 
@@ -509,7 +495,6 @@ im Sinne des § 67 Absatz 2 dienen. Das Gleiche gilt für Maßnahmen der
 Unterhaltung eines Gewässers, soweit hierbei keine chemischen Mittel
 verwendet werden.
 
-
 #### § 10 Inhalt der Erlaubnis und der Bewilligung
 
 (1) Die Erlaubnis gewährt die Befugnis, die Bewilligung das Recht, ein
@@ -518,7 +503,6 @@ bestimmten Weise zu benutzen.
 
 (2) Erlaubnis und Bewilligung geben keinen Anspruch auf Zufluss von
 Wasser in einer bestimmten Menge und Beschaffenheit.
-
 
 #### § 11 Erlaubnis-, Bewilligungsverfahren
 
@@ -531,7 +515,6 @@ entspricht.
 (2) Die Bewilligung kann nur in einem Verfahren erteilt werden, in dem
 die Betroffenen und die beteiligten Behörden Einwendungen geltend
 machen können.
-
 
 #### § 12 Voraussetzungen für die Erteilung der Erlaubnis und der Bewilligung, Bewirtschaftungsermessen
 
@@ -550,7 +533,6 @@ machen können.
 (2) Im Übrigen steht die Erteilung der Erlaubnis und der Bewilligung
 im pflichtgemäßen Ermessen (Bewirtschaftungsermessen) der zuständigen
 Behörde.
-
 
 #### § 13 Inhalts- und Nebenbestimmungen der Erlaubnis und der Bewilligung
 
@@ -603,7 +585,6 @@ insbesondere
 (3) Für die Bewilligung gilt Absatz 1 mit der Maßgabe, dass
 nachträglich nur Inhalts- und Nebenbestimmungen im Sinne von Absatz 2
 Nummer 1 bis 4 zulässig sind.
-
 
 #### § 14 Besondere Vorschriften für die Erteilung der Bewilligung
 
@@ -682,7 +663,6 @@ Kenntnis erhalten hat; er ist ausgeschlossen, wenn nach der
 Herstellung des der Bewilligung entsprechenden Zustands 30 Jahre
 vergangen sind.
 
-
 #### § 15 Gehobene Erlaubnis
 
 (1) Die Erlaubnis kann als gehobene Erlaubnis erteilt werden, wenn
@@ -691,7 +671,6 @@ Gewässerbenutzers besteht.
 
 (2) Für die gehobene Erlaubnis gelten § 11 Absatz 2 und § 14 Absatz 3
 bis 5 entsprechend.
-
 
 #### § 16 Ausschluss privatrechtlicher Abwehransprüche
 
@@ -718,7 +697,6 @@ Ansprüche gegen den Gewässerbenutzer aus Verträgen oder letztwilligen
 Verfügungen und für Ansprüche aus dinglichen Rechten am Grundstück,
 auf dem die Gewässerbenutzung stattfindet.
 
-
 #### § 17 Zulassung vorzeitigen Beginns
 
 (1) In einem Erlaubnis- oder Bewilligungsverfahren kann die zuständige
@@ -743,7 +721,6 @@ oder der Bewilligung mit der Gewässerbenutzung begonnen wird, wenn
 (2) Die Zulassung des vorzeitigen Beginns kann jederzeit widerrufen
 werden. § 13 gilt entsprechend.
 
-
 #### § 18 Widerruf der Erlaubnis und der Bewilligung
 
 (1) Die Erlaubnis ist widerruflich.
@@ -759,10 +736,6 @@ teilweise widerrufen werden, wenn der Inhaber der Bewilligung
 
 2.  den Zweck der Benutzung so geändert hat, dass er mit dem Plan (§ 14
     Absatz 1 Nummer 2) nicht mehr übereinstimmt.
-
-
-
-
 
 #### § 19 Planfeststellungen und bergrechtliche Betriebspläne
 
@@ -784,7 +757,6 @@ den nachträglichen Erlass von Inhalts- und Nebenbestimmungen
 entscheidet auf Antrag der zuständigen Wasserbehörde in den Fällen des
 Absatzes 1 die Planfeststellungsbehörde, in den Fällen des Absatzes 2
 die Bergbehörde. Absatz 3 ist entsprechend anzuwenden.
-
 
 #### § 20 Alte Rechte und alte Befugnisse
 
@@ -847,7 +819,6 @@ nach dem vor dem 1. März 2010 geltenden Recht zulässig war, wenn
 Für die Zulässigkeit nachträglicher Anforderungen und Maßnahmen ohne
 Entschädigung gilt § 13 Absatz 2 entsprechend.
 
-
 #### § 21 Anmeldung alter Rechte und alter Befugnisse
 
 (1) Alte Rechte und alte Befugnisse, die bis zum 28. Februar 2010 noch
@@ -868,7 +839,6 @@ Wasserbuch angemeldet worden sind. Für diese alten Rechte und alten
 Befugnisse gilt § 16 Absatz 2 Satz 2 und 3 des Wasserhaushaltsgesetzes
 in der am 28. Februar 2010 geltenden Fassung.
 
-
 #### § 22 Ausgleich zwischen konkurrierenden Gewässerbenutzungen
 
 Art, Maß und Zeiten der Gewässerbenutzung im Rahmen von Erlaubnissen,
@@ -881,7 +851,6 @@ es erfordert. Der Ausgleich ist unter Abwägung der Interessen der
 Beteiligten und des Wohls der Allgemeinheit sowie unter
 Berücksichtigung des Gemeingebrauchs nach pflichtgemäßem Ermessen
 festzulegen.
-
 
 #### § 23 Rechtsverordnungen zur Gewässerbewirtschaftung
 
@@ -961,7 +930,6 @@ Rechtsverordnung entsprechende Vorschriften zu erlassen. Die
 Landesregierungen können die Ermächtigung auf eine oder mehrere
 oberste Landesbehörden übertragen.
 
-
 #### § 24 Erleichterungen für EMAS-Standorte
 
 (1) Die Bundesregierung wird ermächtigt, zur Förderung der privaten
@@ -1010,9 +978,7 @@ entsprechende Vorschriften zu erlassen. Die Landesregierungen können
 die Ermächtigung auf eine oder mehrere oberste Landesbehörden
 übertragen.
 
-
 ### Abschnitt 2 - Bewirtschaftung oberirdischer Gewässer
-
 
 #### § 25 Gemeingebrauch
 
@@ -1030,10 +996,6 @@ den Gemeingebrauch erstrecken auf
 2.  das Einbringen von Stoffen in oberirdische Gewässer für Zwecke der
     Fischerei, wenn dadurch keine signifikanten nachteiligen Auswirkungen
     auf den Gewässerzustand zu erwarten sind.
-
-
-
-
 
 #### § 26 Eigentümer- und Anliegergebrauch
 
@@ -1056,7 +1018,6 @@ Absatzes 1 benutzen.
 (3) An Bundeswasserstraßen und an sonstigen Gewässern, die der
 Schifffahrt dienen oder künstlich errichtet sind, findet ein Gebrauch
 nach Absatz 2 nicht statt.
-
 
 #### § 27 Bewirtschaftungsziele für oberirdische Gewässer
 
@@ -1083,10 +1044,6 @@ verändert eingestuft werden, sind so zu bewirtschaften, dass
 
 2.  ein gutes ökologisches Potenzial und ein guter chemischer Zustand
     erhalten oder erreicht werden.
-
-
-
-
 
 #### § 28 Einstufung künstlicher und erheblich veränderter Gewässer
 
@@ -1131,10 +1088,6 @@ Gewässer im Sinne des § 3 Nummer 4 und 5 eingestuft werden, wenn
 3.  die Verwirklichung der in den §§ 27, 44 und 47 Absatz 1 festgelegten
     Bewirtschaftungsziele in anderen Gewässern derselben
     Flussgebietseinheit nicht dauerhaft ausgeschlossen oder gefährdet ist.
-
-
-
-
 
 #### § 29 Fristen zur Erreichung der Bewirtschaftungsziele
 
@@ -1181,7 +1134,6 @@ Fassung, sofern die Rechtsvorschriften der Europäischen Gemeinschaften
 oder der Europäischen Union, nach denen die Schutzgebiete ausgewiesen
 worden sind, keine anderweitigen Bestimmungen enthalten.
 
-
 #### § 30 Abweichende Bewirtschaftungsziele
 
 Abweichend von § 27 können die zuständigen Behörden für bestimmte
@@ -1213,7 +1165,6 @@ wenn
 
 
 § 29 Absatz 2 Satz 2 gilt entsprechend.
-
 
 #### § 31 Ausnahmen von den Bewirtschaftungszielen
 
@@ -1287,7 +1238,6 @@ einen guten Gewässerzustand zulässig.
 (3) Für Ausnahmen nach den Absätzen 1 und 2 gilt § 29 Absatz 2 Satz 2
 entsprechend.
 
-
 #### § 32 Reinhaltung oberirdischer Gewässer
 
 (1) Feste Stoffe dürfen in ein oberirdisches Gewässer nicht
@@ -1301,7 +1251,6 @@ Wasserbeschaffenheit oder des Wasserabflusses nicht zu besorgen ist.
 Das Gleiche gilt für das Befördern von Flüssigkeiten und Gasen durch
 Rohrleitungen.
 
-
 #### § 33 Mindestwasserführung
 
 Das Aufstauen eines oberirdischen Gewässers oder das Entnehmen oder
@@ -1309,7 +1258,6 @@ Ableiten von Wasser aus einem oberirdischen Gewässer ist nur zulässig,
 wenn die Abflussmenge erhalten bleibt, die für das Gewässer und andere
 hiermit verbundene Gewässer erforderlich ist, um den Zielen des § 6
 Absatz 1 und der §§ 27 bis 31 zu entsprechen (Mindestwasserführung).
-
 
 #### § 34 Durchgängigkeit oberirdischer Gewässer
 
@@ -1331,7 +1279,6 @@ betrieben werden, die nach den Absätzen 1 und 2 erforderlichen
 Maßnahmen im Rahmen ihrer Aufgaben nach dem Bundeswasserstraßengesetz
 hoheitlich durch.
 
-
 #### § 35 Wasserkraftnutzung
 
 (1) Die Nutzung von Wasserkraft darf nur zugelassen werden, wenn auch
@@ -1347,7 +1294,6 @@ Erreichung der Bewirtschaftungsziele nach Maßgabe der §§ 27 bis 31
 auch langfristig nicht vorgesehen ist, eine Wasserkraftnutzung nach
 den Standortgegebenheiten möglich ist. Das Ergebnis der Prüfung wird
 der Öffentlichkeit in geeigneter Weise zugänglich gemacht.
-
 
 #### § 36 Anlagen in, an, über und unter oberirdischen Gewässern
 
@@ -1369,7 +1315,6 @@ nach unvermeidbar ist. Anlagen im Sinne von Satz 1 sind insbesondere
 
 
 Im Übrigen gelten die landesrechtlichen Vorschriften.
-
 
 #### § 37 Wasserabfluss
 
@@ -1401,7 +1346,6 @@ Entschädigung zu leisten.
 
 (4) Die Absätze 1 bis 3 gelten auch für wild abfließendes Wasser, das
 nicht aus Quellen stammt.
-
 
 #### § 38 Gewässerrandstreifen
 
@@ -1470,7 +1414,6 @@ Nebenbestimmungen versehen werden, insbesondere um zu gewährleisten,
 dass der Gewässerrandstreifen die in Absatz 1 genannten Funktionen
 erfüllt.
 
-
 #### § 39 Gewässerunterhaltung
 
 (1) Die Unterhaltung eines oberirdischen Gewässers umfasst seine
@@ -1514,7 +1457,6 @@ Erholungswert der Gewässerlandschaft sind zu berücksichtigen.
 Gewässer, soweit nicht in einem Planfeststellungsbeschluss oder einer
 Plangenehmigung nach § 68 etwas anderes bestimmt ist.
 
-
 #### § 40 Träger der Unterhaltungslast
 
 (1) Die Unterhaltung oberirdischer Gewässer obliegt den Eigentümern
@@ -1551,7 +1493,6 @@ Kosten durch das Land oder, sofern das Landesrecht dies bestimmt,
 durch eine andere öffentlich-rechtliche Körperschaft im Sinne des
 Absatzes 1 Satz 1 durchzuführen. Satz 1 gilt nicht, soweit eine
 öffentlich-rechtliche Körperschaft Träger der Unterhaltungslast ist.
-
 
 #### § 41 Besondere Pflichten bei der Gewässerunterhaltung
 
@@ -1595,7 +1536,6 @@ nicht beeinträchtigt wird.
 Schäden, so hat der Geschädigte gegen die zur Unterhaltung
 verpflichtete Person Anspruch auf Schadenersatz.
 
-
 #### § 42 Behördliche Entscheidungen zur Gewässerunterhaltung
 
 (1) Die zuständige Behörde kann
@@ -1615,9 +1555,7 @@ und 3 und Absatz 3 Satz 2 den Umfang der Kostenbeteiligung oder
 -erstattung festzusetzen, wenn die Beteiligten sich hierüber nicht
 einigen können.
 
-
 ### Abschnitt 3 - Bewirtschaftung von Küstengewässern
-
 
 #### § 43 Erlaubnisfreie Benutzungen von Küstengewässern
 
@@ -1632,17 +1570,12 @@ ist
     Küstengewässer, wenn dadurch keine signifikanten nachteiligen
     Veränderungen seiner Eigenschaften zu erwarten sind.
 
-
-
-
-
 #### § 44 Bewirtschaftungsziele für Küstengewässer
 
 Für Küstengewässer nach § 7 Absatz 5 Satz 2 gelten die §§ 27 bis 31
 entsprechend. Seewärts der in § 7 Absatz 5 Satz 2 genannten Linie
 gelten die §§ 27 bis 31 in den Küstengewässern entsprechend, soweit
 ein guter chemischer Zustand zu erreichen ist.
-
 
 #### § 45 Reinhaltung von Küstengewässern
 
@@ -1656,9 +1589,7 @@ abgelagert werden, dass eine nachteilige Veränderung der
 Wasserbeschaffenheit nicht zu besorgen ist. Das Gleiche gilt für das
 Befördern von Flüssigkeiten und Gasen durch Rohrleitungen.
 
-
 ### Abschnitt 3a - Bewirtschaftung von Meeresgewässern
-
 
 #### § 45a Bewirtschaftungsziele für Meeresgewässer
 
@@ -1695,7 +1626,6 @@ sind insbesondere
 
 (3) Nordsee und Ostsee sind nach den Bestimmungen dieses Abschnitts
 jeweils gesondert zu bewirtschaften.
-
 
 #### § 45b Zustand der Meeresgewässer
 
@@ -1736,10 +1666,6 @@ gesund und produktiv sind und die nachhaltig genutzt werden, wobei
     einschließlich Lärm, in die Meeresumwelt keine nachteiligen
     Auswirkungen auf die Meeresökosysteme, die biologische Vielfalt, die
     menschliche Gesundheit und die zulässige Nutzung des Meeres haben.
-
-
-
-
 
 #### § 45c Anfangsbewertung
 
@@ -1784,10 +1710,6 @@ weitestgehend zu berücksichtigen:
 2.  Auflistungen der Belastungen von Küstengewässern und
     Übergangsgewässern und Beurteilungen ihrer Auswirkungen.
 
-
-
-
-
 #### § 45d Beschreibung des guten Zustands der Meeresgewässer
 
 Auf der Grundlage der Anfangsbewertung nach § 45c beschreiben die
@@ -1808,7 +1730,6 @@ worden ist, aufgeführt sind und der in Anhang II dieser Richtlinie
 aufgeführten Tier- und Pflanzenarten, die in den Meeresgewässern
 vorkommen, sind ebenfalls weitestgehend zu berücksichtigen.
 
-
 #### § 45e Festlegung von Zielen
 
 Auf der Grundlage der Anfangsbewertung nach § 45c legen die
@@ -1823,7 +1744,6 @@ einschließlich der Bewirtschaftungsziele nach Maßgabe des § 44 und der
 Erhaltungsziele im Sinne des § 7 Absatz 1 Nummer 9 des
 Bundesnaturschutzgesetzes. Die zuständigen Behörden stellen sicher,
 dass die Ziele miteinander vereinbar sind.
-
 
 #### § 45f Überwachungsprogramme
 
@@ -1844,7 +1764,6 @@ Küstengewässern, die im Zusammenhang mit der Bewirtschaftung von
 Küstengewässern nach Maßgabe des § 44 aufgestellt worden sind, sind
 weitestgehend bei der Aufstellung und Durchführung der
 Überwachungsprogramme zu berücksichtigen.
-
 
 #### § 45g Fristverlängerungen; Ausnahmen von den Bewirtschaftungszielen
 
@@ -1897,10 +1816,6 @@ ergreifen, die darauf abzielen,
 3.  nachteilige Wirkungen auf den Zustand der Meeresgewässer,
     einschließlich der Meeresgewässer anderer Staaten sowie der Hohen See,
     abzuschwächen.
-
-
-
-
 
 #### § 45h Maßnahmenprogramme
 
@@ -1974,7 +1889,6 @@ können auch über die bereits in einem aufgestellten Maßnahmenprogramm
 enthaltenen Maßnahmen hinaus zusätzliche oder weitergehende Maßnahmen
 bestimmt werden. Absatz 3 gilt entsprechend.
 
-
 #### § 45i Beteiligung der Öffentlichkeit
 
 (1) Die zuständige Behörde veröffentlicht
@@ -2018,7 +1932,6 @@ zu veröffentlichen.
 (4) § 85 gilt entsprechend für die in Absatz 1 Satz 1 bezeichneten
 Maßnahmen.
 
-
 #### § 45j Überprüfung und Aktualisierung
 
 Die Anfangsbewertung nach § 45c Absatz 1, die Beschreibung des guten
@@ -2026,7 +1939,6 @@ Zustands der Meeresgewässer nach § 45d Satz 1, die nach § 45e Satz 1
 festgelegten Ziele, die Überwachungsprogramme nach § 45f Absatz 1
 sowie die Maßnahmenprogramme nach § 45h Absatz 1 sind alle sechs Jahre
 zu überprüfen und, soweit erforderlich, zu aktualisieren.
-
 
 #### § 45k Koordinierung
 
@@ -2051,7 +1963,6 @@ dass der Oberflächenabfluss einer Flussgebietseinheit in das
 Meeresgewässer gelangt, für das die Maßnahmen ergriffen werden. Absatz
 1 Satz 2 bis 4 gilt entsprechend.
 
-
 #### § 45l Zuständigkeit im Bereich der deutschen ausschließlichen Wirtschaftszone und des Festlandsockels
 
 Das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit
@@ -2066,9 +1977,7 @@ Vorschriften im Bereich der deutschen ausschließlichen Wirtschaftszone
 und des Festlandsockels sowie das Zusammenwirken von Bundesbehörden
 bei der Durchführung dieser Vorschriften in diesem Bereich zu regeln.
 
-
 ### Abschnitt 4 - Bewirtschaftung des Grundwassers
-
 
 #### § 46 Erlaubnisfreie Benutzungen des Grundwassers
 
@@ -2099,7 +2008,6 @@ soweit dies in einer Rechtsverordnung nach § 23 Absatz 1 bestimmt ist.
 Erlaubnis- oder Bewilligungspflicht ausgenommen sind oder eine
 Erlaubnis oder eine Bewilligung in den Fällen der Absätze 1 und 2
 erforderlich ist.
-
 
 #### § 47 Bewirtschaftungsziele für das Grundwasser
 
@@ -2133,7 +2041,6 @@ entsprechend mit der Maßgabe, dass nach Satz 1 Nummer 4 der
 bestmögliche mengenmäßige und chemische Zustand des Grundwassers zu
 erreichen ist.
 
-
 #### § 48 Reinhaltung des Grundwassers
 
 (1) Eine Erlaubnis für das Einbringen und Einleiten von Stoffen in das
@@ -2151,7 +2058,6 @@ Zustimmung verweigert hat.
 nachteilige Veränderung der Grundwasserbeschaffenheit nicht zu
 besorgen ist. Das Gleiche gilt für das Befördern von Flüssigkeiten und
 Gasen durch Rohrleitungen. Absatz 1 Satz 2 bis 4 gilt entsprechend.
-
 
 #### § 49 Erdaufschlüsse
 
@@ -2179,12 +2085,9 @@ unbefugt Grundwasser erschlossen wird.
 
 (4) Durch Landesrecht können abweichende Regelungen getroffen werden.
 
-
 ## Kapitel 3 - Besondere wasserwirtschaftliche Bestimmungen
 
-
 ### Abschnitt 1 - Öffentliche Wasserversorgung, Wasserschutzgebiete, Heilquellenschutz
-
 
 #### § 50 Öffentliche Wasserversorgung
 
@@ -2219,7 +2122,6 @@ Untersuchungsergebnisse näher geregelt werden. Die Landesregierung
 kann die Ermächtigung nach Satz 1 durch Rechtsverordnung auf andere
 Landesbehörden übertragen.
 
-
 #### § 51 Festsetzung von Wasserschutzgebieten
 
 (1) Soweit es das Wohl der Allgemeinheit erfordert,
@@ -2246,7 +2148,6 @@ Rechtsverordnung auf andere Landesbehörden übertragen.
 (2) Trinkwasserschutzgebiete sollen nach Maßgabe der allgemein
 anerkannten Regeln der Technik in Zonen mit unterschiedlichen
 Schutzbestimmungen unterteilt werden.
-
 
 #### § 52 Besondere Anforderungen in Wasserschutzgebieten
 
@@ -2320,7 +2221,6 @@ eines Grundstücks einschränken, so ist für die dadurch verursachten
 wirtschaftlichen Nachteile ein angemessener Ausgleich zu leisten,
 soweit nicht eine Entschädigungspflicht nach Absatz 4 besteht.
 
-
 #### § 53 Heilquellenschutz
 
 (1) Heilquellen sind natürlich zu Tage tretende oder künstlich
@@ -2346,9 +2246,7 @@ Rechtsverordnung auf andere Landesbehörden übertragen.
 
 (5) § 51 Absatz 2 und § 52 gelten entsprechend.
 
-
 ### Abschnitt 2 - Abwasserbeseitigung
-
 
 #### § 54 Abwasser, Abwasserbeseitigung
 
@@ -2374,7 +2272,6 @@ Entwässern von Klärschlamm in Zusammenhang mit der
 Abwasserbeseitigung. Zur Abwasserbeseitigung gehört auch die
 Beseitigung des in Kleinkläranlagen anfallenden Schlamms.
 
-
 #### § 55 Grundsätze der Abwasserbeseitigung
 
 (1) Abwasser ist so zu beseitigen, dass das Wohl der Allgemeinheit
@@ -2393,7 +2290,6 @@ beseitigt werden, wenn eine solche Entsorgung der Stoffe
 umweltverträglicher ist als eine Entsorgung als Abfall und
 wasserwirtschaftliche Belange nicht entgegenstehen.
 
-
 #### § 56 Pflicht zur Abwasserbeseitigung
 
 Abwasser ist von den juristischen Personen des öffentlichen Rechts zu
@@ -2403,7 +2299,6 @@ welchen Voraussetzungen die Abwasserbeseitigung anderen als den in
 Satz 1 genannten Abwasserbeseitigungspflichtigen obliegt. Die zur
 Abwasserbeseitigung Verpflichteten können sich zur Erfüllung ihrer
 Pflichten Dritter bedienen.
-
 
 #### § 57 Einleiten von Abwasser in Gewässer
 
@@ -2439,7 +2334,6 @@ Anforderungen nach Absatz 2 oder entsprechenden Anforderungen der
 Abwasserverordnung in ihrer am 28. Februar 2010 geltenden Fassung, so
 sind die erforderlichen Anpassungsmaßnahmen innerhalb angemessener
 Fristen durchzuführen.
-
 
 #### § 58 Einleiten von Abwasser in öffentliche Abwasseranlagen
 
@@ -2493,7 +2387,6 @@ innerhalb angemessener Fristen durchzuführen.
 (4) § 13 Absatz 1 und § 17 gelten entsprechend. Eine Genehmigung kann
 auch unter dem Vorbehalt des Widerrufs erteilt werden.
 
-
 #### § 59 Einleiten von Abwasser in private Abwasseranlagen
 
 (1) Dem Einleiten von Abwasser in öffentliche Abwasseranlagen stehen
@@ -2505,7 +2398,6 @@ der Genehmigungsbedürftigkeit nach Absatz 1 in Verbindung mit § 58
 Absatz 1 freistellen, wenn durch vertragliche Regelungen zwischen dem
 Betreiber der privaten Abwasseranlage und dem Einleiter die Einhaltung
 der Anforderungen nach § 58 Absatz 2 sichergestellt ist.
-
 
 #### § 60 Abwasseranlagen
 
@@ -2535,7 +2427,6 @@ fallen, einer Anzeige oder Genehmigung bedürfen.
 Genehmigungserfordernisse nach anderen öffentlich-rechtlichen
 Vorschriften bleiben unberührt.
 
-
 #### § 61 Selbstüberwachung bei Abwassereinleitungen und Abwasseranlagen
 
 (1) Wer Abwasser in ein Gewässer oder in eine Abwasseranlage
@@ -2559,9 +2450,7 @@ Analysen einschließlich der Qualitätssicherung, Aufzeichnungs- und
 Aufbewahrungspflichten sowie die Voraussetzungen getroffen werden,
 nach denen keine Pflicht zur Selbstüberwachung besteht.
 
-
 ### Abschnitt 3 - Umgang mit wassergefährdenden Stoffen
-
 
 #### § 62 Anforderungen an den Umgang mit wassergefährdenden Stoffen
 
@@ -2668,7 +2557,6 @@ Gebührensätze und die Auslagenerstattung für Amtshandlungen nach Satz
 1 zu bestimmen. Die zu erstattenden Auslagen können abweichend vom
 Verwaltungskostengesetz geregelt werden.
 
-
 #### § 63 Eignungsfeststellung
 
 (1) Anlagen zum Lagern, Abfüllen oder Umschlagen wassergefährdender
@@ -2744,9 +2632,7 @@ technische Schutzvorkehrung besteht, ist die entsprechende Zulassung
 oder der entsprechende Nachweis vorzulegen und der
 Eignungsfeststellung für die Anlage zugrunde zu legen.
 
-
 ### Abschnitt 4 - Gewässerschutzbeauftragte
-
 
 #### § 64 Bestellung von Gewässerschutzbeauftragten
 
@@ -2779,7 +2665,6 @@ Immissionsschutzbeauftragter oder nach § 59 des
 Kreislaufwirtschaftsgesetzes ein Abfallbeauftragter zu bestellen, so
 kann dieser auch die Aufgaben und Pflichten eines
 Gewässerschutzbeauftragten nach diesem Gesetz wahrnehmen.
-
 
 #### § 65 Aufgaben von Gewässerschutzbeauftragten
 
@@ -2845,19 +2730,13 @@ und 2 aufgeführten Aufgaben der Gewässerschutzbeauftragten
 3.  einschränken, wenn dadurch die ordnungsgemäße Selbstüberwachung nicht
     beeinträchtigt wird.
 
-
-
-
-
 #### § 66 Weitere anwendbare Vorschriften
 
 Auf das Verhältnis zwischen dem Gewässerbenutzer und den
 Gewässerschutzbeauftragten finden die §§ 55 bis 58 des Bundes-
 Immissionsschutzgesetzes entsprechende Anwendung.
 
-
 ### Abschnitt 5 - Gewässerausbau, Deich-, Damm- und Küstenschutzbauten
-
 
 #### § 67 Grundsatz, Begriffsbestimmung
 
@@ -2874,7 +2753,6 @@ begrenzten Zeitraum entsteht und der Wasserhaushalt dadurch nicht
 erheblich beeinträchtigt wird. Deich- und Dammbauten, die den
 Hochwasserabfluss beeinflussen, sowie Bauten des Küstenschutzes stehen
 dem Gewässerausbau gleich.
-
 
 #### § 68 Planfeststellung, Plangenehmigung
 
@@ -2902,10 +2780,6 @@ einer Anzeige bedürfen.
 2.  andere Anforderungen nach diesem Gesetz oder sonstigen öffentlich-
     rechtlichen Vorschriften erfüllt werden.
 
-
-
-
-
 #### § 69 Abschnittsweise Zulassung, vorzeitiger Beginn
 
 (1) Gewässerausbauten einschließlich notwendiger Folgemaßnahmen, die
@@ -2918,7 +2792,6 @@ nicht ganz oder teilweise unmöglich wird.
 (2) § 17 gilt entsprechend für die Zulassung des vorzeitigen Beginns
 in einem Planfeststellungsverfahren und einem
 Plangenehmigungsverfahren nach § 68.
-
 
 #### § 70 Anwendbare Vorschriften, Verfahren
 
@@ -2937,7 +2810,6 @@ Verwaltung mehrerer Länder untersteht, und ist ein Einvernehmen über
 den Ausbauplan nicht zu erreichen, so soll die Bundesregierung auf
 Antrag eines beteiligten Landes zwischen den Ländern vermitteln.
 
-
 #### § 71 Enteignungsrechtliche Vorwirkung
 
 Dient der Gewässerausbau dem Wohl der Allgemeinheit, so kann bei der
@@ -2948,16 +2820,13 @@ werden. Der festgestellte oder genehmigte Plan ist dem
 Enteignungsverfahren zugrunde zu legen und für die Enteignungsbehörde
 bindend.
 
-
 ### Abschnitt 6 - Hochwasserschutz
-
 
 #### § 72 Hochwasser
 
 Hochwasser ist die zeitlich begrenzte Überschwemmung von normalerweise
 nicht mit Wasser bedecktem Land durch oberirdische Gewässer oder durch
 in Küstengebiete eindringendes Meerwasser.
-
 
 #### § 73 Bewertung von Hochwasserrisiken, Risikogebiete
 
@@ -3010,7 +2879,6 @@ sind bis zum 22. Dezember 2018 und danach alle sechs Jahre zu
 überprüfen und erforderlichenfalls zu aktualisieren. Dabei ist den
 voraussichtlichen Auswirkungen des Klimawandels auf das
 Hochwasserrisiko Rechnung zu tragen.
-
 
 #### § 74 Gefahrenkarten und Risikokarten
 
@@ -3072,7 +2940,6 @@ erforderlichenfalls zu aktualisieren. Dabei umfasst die Überprüfung
 der Karten nach Satz 2 zum 22. Dezember 2019 auch ihre Übereinstimmung
 mit den Anforderungen der Absätze 2 und 4.
 
-
 #### § 75 Risikomanagementpläne
 
 (1) Die zuständigen Behörden stellen für die Risikogebiete auf der
@@ -3126,7 +2993,6 @@ aktualisieren. Dabei umfasst die Überprüfung der vergleichbaren Pläne
 im Sinne von Satz 2 zum 22. Dezember 2021 auch ihre Übereinstimmung
 mit den Anforderungen der Absätze 2 bis 4.
 
-
 #### § 76 Überschwemmungsgebiete an oberirdischen Gewässern
 
 (1) Überschwemmungsgebiete sind Gebiete zwischen oberirdischen
@@ -3164,7 +3030,6 @@ gesicherten Gebiete einschließlich der in ihnen geltenden
 Schutzbestimmungen sowie über die Maßnahmen zur Vermeidung von
 nachteiligen Hochwasserfolgen zu informieren.
 
-
 #### § 77 Rückhalteflächen
 
 Überschwemmungsgebiete im Sinne des § 76 sind in ihrer Funktion als
@@ -3174,7 +3039,6 @@ Ausgleichsmaßnahmen zu treffen. Frühere Überschwemmungsgebiete, die
 als Rückhalteflächen geeignet sind, sollen so weit wie möglich
 wiederhergestellt werden, wenn überwiegende Gründe des Wohls der
 Allgemeinheit dem nicht entgegenstehen.
-
 
 #### § 78 Besondere Schutzvorschriften für festgesetzte Überschwemmungsgebiete
 
@@ -3358,7 +3222,6 @@ forstwirtschaftliche Nutzung eines Grundstücks festsetzen, so gilt §
 (6) Für nach § 76 Absatz 3 ermittelte, in Kartenform dargestellte und
 vorläufig gesicherte Gebiete gelten die Absätze 1 bis 5 entsprechend.
 
-
 #### § 79 Information und aktive Beteiligung
 
 (1) Die zuständigen Behörden veröffentlichen die Bewertung nach § 73
@@ -3373,7 +3236,6 @@ den betroffenen Gebieten im Übrigen über Hochwassergefahren, geeignete
 Vorsorgemaßnahmen und Verhaltensregeln informiert und vor zu
 erwartendem Hochwasser rechtzeitig gewarnt werden, richtet sich nach
 den landesrechtlichen Vorschriften.
-
 
 #### § 80 Koordinierung
 
@@ -3391,7 +3253,6 @@ Risikomanagementpläne mit den Bewirtschaftungsplänen nach § 83. Die
 Risikomanagementpläne können in die Bewirtschaftungspläne einbezogen
 werden.
 
-
 #### § 81 Vermittlung durch die Bundesregierung
 
 Können sich die Länder bei der Zusammenarbeit im Rahmen dieses
@@ -3399,9 +3260,7 @@ Abschnitts über eine Maßnahme des Hochwasserschutzes nicht einigen,
 vermittelt die Bundesregierung auf Antrag eines Landes zwischen den
 beteiligten Ländern.
 
-
 ### Abschnitt 7 - Wasserwirtschaftliche Planung und Dokumentation
-
 
 #### § 82 Maßnahmenprogramm
 
@@ -3444,7 +3303,6 @@ würde sich insgesamt günstiger auf die Umwelt auswirken. Die
 zuständige Behörde kann im Rahmen der §§ 47 und 48 auch die in Artikel
 11 Absatz 3 Buchstabe j der Richtlinie 2000/60/EG genannten
 Einleitungen in das Grundwasser zulassen.
-
 
 #### § 83 Bewirtschaftungsplan
 
@@ -3515,7 +3373,6 @@ Bewirtschaftungsplans herangezogenen Hintergrunddokumenten und
 -informationen zu gewähren. Die Sätze 1 bis 3 gelten auch für
 aktualisierende Bewirtschaftungspläne.
 
-
 #### § 84 Fristen für Maßnahmenprogramme und Bewirtschaftungspläne
 
 (1) Maßnahmenprogramme und Bewirtschaftungspläne, die nach Maßgabe des
@@ -3528,13 +3385,11 @@ Dezember 2012 durchzuführen. Neue oder im Rahmen eines aktualisierten
 Programms geänderte Maßnahmen sind innerhalb von drei Jahren
 durchzuführen, nachdem sie in das Programm aufgenommen worden sind.
 
-
 #### § 85 Aktive Beteiligung interessierter Stellen
 
 Die zuständigen Behörden fördern die aktive Beteiligung aller
 interessierten Stellen an der Aufstellung, Überprüfung und
 Aktualisierung der Maßnahmenprogramme und Bewirtschaftungspläne.
-
 
 #### § 86 Veränderungssperre zur Sicherung von Planungen
 
@@ -3572,7 +3427,6 @@ die Voraussetzungen für ihren Erlass weggefallen sind.
 (4) Von der Veränderungssperre können Ausnahmen zugelassen werden,
 wenn dem keine überwiegenden öffentlichen Belange entgegenstehen.
 
-
 #### § 87 Wasserbuch
 
 (1) Über die Gewässer sind Wasserbücher zu führen.
@@ -3601,7 +3455,6 @@ Rechtsverhältnissen sind zu löschen.
 
 (4) Eintragungen im Wasserbuch haben keine rechtsbegründende oder
 rechtsändernde Wirkung.
-
 
 #### § 88 Informationsbeschaffung und -übermittlung
 
@@ -3669,9 +3522,7 @@ erstattet.
 (5) Die Bestimmungen zum Schutz personenbezogener Daten bleiben im
 Übrigen unberührt.
 
-
 ### Abschnitt 8 - Haftung für Gewässerveränderungen
-
 
 #### § 89 Haftung für Änderungen der Wasserbeschaffenheit
 
@@ -3689,7 +3540,6 @@ nachteilig verändert, so ist der Betreiber der Anlage zum Ersatz des
 daraus einem anderen entstehenden Schadens verpflichtet. Absatz 1 Satz
 2 gilt entsprechend. Die Ersatzpflicht tritt nicht ein, wenn der
 Schaden durch höhere Gewalt verursacht wird.
-
 
 #### § 90 Sanierung von Gewässerschäden
 
@@ -3726,9 +3576,7 @@ worden ist.
 Beeinträchtigungen von Gewässern und deren Sanierung bleiben
 unberührt.
 
-
 ### Abschnitt 9 - Duldungs- und Gestattungsverpflichtungen
-
 
 #### § 91 Gewässerkundliche Maßnahmen
 
@@ -3742,7 +3590,6 @@ Grundstück, hat der Eigentümer gegen den Träger der gewässerkundlichen
 Maßnahme Anspruch auf Schadenersatz. Satz 2 gilt entsprechend für den
 Nutzungsberechtigten, wenn wegen des Schadens am Grundstück die
 Grundstücksnutzung beeinträchtigt wird.
-
 
 #### § 92 Veränderung oberirdischer Gewässer
 
@@ -3758,7 +3605,6 @@ mit erheblichem Mehraufwand durchgeführt werden kann und der von dem
 Vorhaben zu erwartende Nutzen erheblich größer als der Nachteil des
 Betroffenen ist.
 
-
 #### § 93 Durchleitung von Wasser und Abwasser
 
 Die zuständige Behörde kann Eigentümer und Nutzungsberechtigte von
@@ -3770,7 +3616,6 @@ Abwasserbeseitigung, zum Betrieb einer Stauanlage oder zum Schutz vor
 oder zum Ausgleich von Beeinträchtigungen des Natur- oder
 Wasserhaushalts durch Wassermangel erforderlich ist. § 92 Satz 2 gilt
 entsprechend.
-
 
 #### § 94 Mitbenutzung von Anlagen
 
@@ -3810,16 +3655,13 @@ Grundstücksbewässerungsanlagen durch Eigentümer von Grundstücken, die
 nach § 93 zur Errichtung oder zum Betrieb der Anlage in Anspruch
 genommen werden.
 
-
 #### § 95 Entschädigung für Duldungs- und Gestattungsverpflichtungen
 
 Soweit Duldungs- oder Gestattungsverpflichtungen nach den §§ 92 bis 94
 das Eigentum unzumutbar beschränken, ist eine Entschädigung zu
 leisten.
 
-
 ## Kapitel 4 - Entschädigung, Ausgleich
-
 
 ### § 96 Art und Umfang von Entschädigungspflichten
 
@@ -3865,7 +3707,6 @@ verschaffen.
 (5) Ist nach § 97 die begünstigte Person entschädigungspflichtig, kann
 die anspruchsberechtigte Person Sicherheitsleistung verlangen.
 
-
 ### § 97 Entschädigungspflichtige Person
 
 Soweit sich aus diesem Gesetz nichts anderes ergibt, hat die
@@ -3875,7 +3716,6 @@ begünstigt, so haften sie als Gesamtschuldner. Ist niemand unmittelbar
 begünstigt, so hat das Land die Entschädigung zu leisten. Lässt sich
 zu einem späteren Zeitpunkt eine begünstigte Person bestimmen, hat sie
 die aufgewandten Entschädigungsbeträge dem Land zu erstatten.
-
 
 ### § 98 Entschädigungsverfahren
 
@@ -3889,16 +3729,13 @@ hat die zuständige Behörde auf eine gütliche Einigung der Beteiligten
 hinzuwirken, wenn einer der Beteiligten dies beantragt. Kommt eine
 Einigung nicht zustande, so setzt die Behörde die Entschädigung fest.
 
-
 ### § 99 Ausgleich
 
 Ein Ausgleich nach § 52 Absatz 5 und § 78 Absatz 5 Satz 2 ist in Geld
 zu leisten. Im Übrigen gelten für einen Ausgleich nach Satz 1 § 96
 Absatz 1 und 5 und § 97 entsprechend.
 
-
 ## Kapitel 5 - Gewässeraufsicht
-
 
 ### § 100 Aufgaben der Gewässeraufsicht
 
@@ -3915,7 +3752,6 @@ sicherzustellen.
 (2) Auf Grund dieses Gesetzes und nach landesrechtlichen Vorschriften
 erteilte Zulassungen sind regelmäßig sowie aus besonderem Anlass zu
 überprüfen und, soweit erforderlich, anzupassen.
-
 
 ### § 101 Befugnisse der Gewässeraufsicht
 
@@ -3974,7 +3810,6 @@ Besteuerungsverfahrens benötigen, an deren Verfolgung ein zwingendes
 falsche Angaben der zur Auskunft verpflichteten Person oder der für
 sie tätigen Personen handelt.
 
-
 ### § 102 Gewässeraufsicht bei Anlagen und Einrichtungen der Verteidigung
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
@@ -3983,9 +3818,7 @@ Sinne dieses Kapitels bei Anlagen und Einrichtungen, die der
 Verteidigung dienen, zum Geschäftsbereich des Bundesministeriums der
 Verteidigung gehörenden Stellen übertragen wird.
 
-
 ## Kapitel 6 - Bußgeld- und Überleitungsbestimmungen
-
 
 ### § 103 Bußgeldvorschriften
 
@@ -4124,7 +3957,6 @@ a, Nummer 8a Buchstabe a, Nummer 9, 10 und 12 bis 16 mit einer
 Geldbuße bis zu fünfzigtausend Euro und in den übrigen Fällen mit
 einer Geldbuße bis zu zehntausend Euro geahndet werden.
 
-
 ### § 104 Überleitung bestehender Erlaubnisse und Bewilligungen
 
 (1) Erlaubnisse, die vor dem 1. März 2010 nach § 7 des
@@ -4137,7 +3969,6 @@ dieses Gesetzes über gehobene Erlaubnisse fort.
 (2) Bewilligungen, die vor dem 1. März 2010 nach § 8 des
 Wasserhaushaltsgesetzes erteilt worden sind, gelten als Bewilligungen
 nach diesem Gesetz fort.
-
 
 ### § 105 Überleitung bestehender sonstiger Zulassungen
 
@@ -4170,7 +4001,6 @@ Fassung oder nach landesrechtlichen Vorschriften festgestellt oder
 genehmigt worden ist, gilt jeweils als Planfeststellungsbeschluss oder
 als Plangenehmigung nach § 68 fort.
 
-
 ### § 106 Überleitung bestehender Schutzgebietsfestsetzungen
 
 (1) Vor dem 1. März 2010 festgesetzte Wasserschutzgebiete gelten als
@@ -4183,7 +4013,6 @@ als festgesetzte Heilquellenschutzgebiete im Sinne von § 53 Absatz 4.
 vorläufig gesicherte Überschwemmungsgebiete gelten als festgesetzte
 oder vorläufig gesicherte Überschwemmungsgebiete im Sinne von § 76
 Absatz 2 oder Absatz 3.
-
 
 ### Anlage 1 (zu § 3 Nummer 11) Kriterien zur Bestimmung des Standes der Technik
 
@@ -4242,10 +4071,6 @@ folgende Kriterien zu berücksichtigen:
     Rates vom 15. Januar 2008 über die integrierte Vermeidung und
     Verminderung der Umweltverschmutzung (ABl. L 24 vom 29.1.2008, S. 8)
     oder von internationalen Organisationen veröffentlicht werden.
-
-
-
-
 
 ### Anlage 2 (zu § 7 Absatz 1 Satz 3)
 

@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 V v. 11.6.2008 I 1079
 
-
 ## Erster Abschnitt - Verbindliche Standardisierung und Maßbehältnisse
-
-
 
 ### § 1 Verbindliche Werte für Nennfüllmengen von Fertigpackungen mit Lebensmitteln
 
@@ -39,7 +36,6 @@ Fertigpackungen anzuwenden.
 
 (3) Absatz 1 gilt nicht für Erzeugnisse, die in Duty-Free-Geschäften
 für den Verzehr außerhalb der Europäischen Union verkauft werden.
-
 
 ### § 2 Maßbehältnisse
 
@@ -131,7 +127,6 @@ herstellt oder in den Geltungsbereich dieser Verordnung verbringt,
 darf die Bezeichnungen des Absatzes 3 Nr. 2 und 4 nicht aufbringen
 oder aufbringen lassen.
 
-
 ### § 3 Genauigkeitsanforderungen an Maßbehältnisse
 
 (1) Bei Maßbehältnissen müssen der Unterschied zwischen dem
@@ -211,7 +206,6 @@ werden.
 (5) Die Randvollvolumen von Maßbehältnissen sollen den Größenwerten
 nach den allgemein anerkannten Regeln der Technik entsprechen.
 
-
 ### § 4 Herstellerzeichen
 
 (1) Wer Maßbehältnisse herstellt, kann die Erteilung eines
@@ -242,15 +236,11 @@ anderen Mitgliedstaat der Europäischen Gemeinschaften oder einem
 anderen Vertragsstaat des Abkommens über den Europäischen
 Wirtschaftsraum erteilt worden ist.
 
-
 ### § 5 (weggefallen)
 
 -
 
-
 ## Zweiter Abschnitt - Füllmengenkennzeichnung von Fertigpackungen
-
-
 
 ### § 6 Kennzeichnung der Füllmenge
 
@@ -285,7 +275,6 @@ Nennfüllmenge wenigstens auf einer Fertigpackung, erkennbar ist.
 
 (6) Die Absätze 1 bis 5 gelten nicht, soweit andere Rechtsvorschriften
 Bestimmungen über die Füllmengenkennzeichnung enthalten.
-
 
 ### § 7 Kennzeichnung der Füllmenge bei Fertigpackungen mit bestimmten Erzeugnissen
 
@@ -375,7 +364,6 @@ chemischen und technischen Standard- und Reagenzmaterialien darf
 anstelle der Füllmenge das Volumen der gebrauchsfertigen Zubereitung
 oder die Anzahl der Anwendungen oder Untersuchungen angegeben werden.
 
-
 ### § 8 Kennzeichnung der Stückzahl bei Fertigpackungen mit Lebensmitteln
 
 (1) Abweichend von § 7 Abs. 2 darf bei Fertigpackungen mit Obst und
@@ -399,7 +387,6 @@ abgegeben werden und die Füllmenge weniger als 100 Gramm beträgt:
 
 (3) Bei Fertigpackungen mit Süßstofftabletten ist die Stückzahl
 anzugeben.
-
 
 ### § 9 Kennzeichnung der Stückzahl bei Fertigpackungen mit anderen Erzeugnissen
 
@@ -429,10 +416,6 @@ bei
 
 
 6.  Lackstiften mit einer Füllmenge von weniger als 50 Milliliter.
-
-
-
-
 
 ### § 10 Befreiung von der Füllmengenkennzeichnung
 
@@ -483,7 +466,6 @@ beträgt die gesamte Füllmenge mehr als 100 Gramm, so ist auf dieser
 Verpackung die Anzahl und die Füllmenge der einzelnen Fertigpackungen
 anzugeben.
 
-
 ### § 11 Abtropfgewicht
 
 (1) Befindet sich ein festes Lebensmittel in einer Aufgußflüssigkeit,
@@ -502,10 +484,7 @@ Gemüse.
 unmittelbarer Nähe der gesamten Füllmenge und mindestens in gleicher
 Schriftgröße wie diese anzugeben.
 
-
 ### (XXXX) §§ 12 bis 17 (weggefallen)
-
-
 
 ### § 18 Art und Weise der Füllmengenangabe
 
@@ -555,11 +534,9 @@ Füllmenge anzugeben
 
 (5) Name der Einheit oder das Einheitszeichen ist anzufügen.
 
-
 ### § 19
 
 (weggefallen)
-
 
 ### § 20 Schriftgröße
 
@@ -618,7 +595,6 @@ der Zahlenangaben auf Fertigpackungen ungleicher Nennfüllmenge, zu
 deren Herstellung Waagen mit Gewichtsdruckwerk verwendet werden, nach
 den Vorschriften der Eichordnung.
 
-
 ### § 21 EWG-Zeichen für Fertigpackungen
 
 (1) Das in Anlage 9 wiedergegebene EWG-Zeichen darf auf
@@ -633,10 +609,7 @@ gesamte Füllmenge.
 (2) Das EWG-Zeichen muß im gleichen Sichtfeld wie die Angabe der
 Nennfüllmenge liegen.
 
-
 ## Dritter Abschnitt - Füllmengen von Fertigpackungen
-
-
 
 ### § 22 Füllmengenanforderungen bei Kennzeichnung nach Gewicht oder Volumen
 
@@ -752,7 +725,6 @@ Durchführungsvorschriften zur Verordnung (EWG) Nr. 1906/90 des Rates
 der Kommission vom 13. Dezember 2007 (ABl. EU Nr. L 329 S. 14), gelten
 die dort in Artikel 8 Abs. 4 festgelegten Füllmengenanforderungen.
 
-
 ### § 22a Füllmengenanforderungen bei Kennzeichnung des Abtropfgewichts
 
 (1) Mit dem Abtropfgewicht gekennzeichnete Fertigpackungen gleicher
@@ -774,7 +746,6 @@ Dreifache der in der Tabelle des § 22 Abs. 3 festgelegten Werte nicht
 (4) Die Vorschriften der Absätze 1 bis 3 gelten als eingehalten, wenn
 das Abtropfgewicht der Fertigpackungen in dem in Nummer 8a der Anlage
 4a festgelegten Zeitraum den Anforderungen genügt.
-
 
 ### § 23 Füllmengenanforderungen bei Kennzeichnung nach Länge oder Fläche
 
@@ -813,7 +784,6 @@ im Arzneibuch Anforderungen an die Länge festgelegt sind, gelten diese
 Anforderungen. Für Reißverschlüsse gelten die in den allgemein
 anerkannten Regeln der Technik festgelegten Anforderungen.
 
-
 ### § 24 Füllmengenanforderungen bei Kennzeichnung nach Stückzahl
 
 (1) Nach Stückzahl gekennzeichnete Fertigpackungen gleicher
@@ -830,10 +800,6 @@ erstmals gewerbsmäßig nur in den Verkehr gebracht werden, wenn
 
 2.  die Minusabweichung von der Nennfüllmenge ein Stück auf jedes
     angefangene Hundert nicht überschreitet.
-
-
-
-
 
 ### § 25 Minusabweichungen bei bestimmten Fertigpackungen ungleicher Nennfüllmenge
 
@@ -874,13 +840,11 @@ Nennfüllmenge dürfen erstmals gewerbsmäßig nur in den Verkehr gebracht
 werden, wenn die Minusabweichung von der Nennfüllmenge die in § 23
 Abs. 3 festgelegten Werte nicht überschreitet.
 
-
 ### § 26 Bezugstemperatur
 
 Die Anforderungen in den §§ 3 und 22 sind auf eine Temperatur von
 20 Grad C (Bezugstemperatur) bezogen. Die Bezugstemperatur gilt nicht
 für Speiseeis.
-
 
 ### § 27 Kontrollmeßgeräte und Aufzeichnungen
 
@@ -916,7 +880,6 @@ zuständige Behörde Ausnahmen von den Absätzen 2 bis 4 und von Anlage 7
 Nr. 1 zulassen, wenn dadurch die Einhaltung der Verpflichtungen nach
 den §§ 22 bis 24 nicht gefährdet wird.
 
-
 ### § 28 Verwendung von Meßgeräten
 
 Fertigpackungen gleicher Nennfüllmenge dürfen ohne Verwendung von
@@ -924,7 +887,6 @@ Meßgeräten hergestellt und in den Verkehr gebracht werden, wenn die §§
 22 bis 24 und 27 eingehalten sind. Unter der gleichen Voraussetzung
 sind Meßgeräte, die nur zur Herstellung von Fertigpackungen gleicher
 Nennfüllmenge verwendet werden, von der Eichpflicht ausgenommen.
-
 
 ### § 29 Herstellerangabe
 
@@ -957,13 +919,7 @@ Abkürzung oder dem Zeichen leicht zu ermitteln ist.
     I S. 1738), zuletzt geändert durch Artikel 1 der Verordnung vom 13.
     September 2004 (BGBl. I S. 2334), entwertet ist.
 
-
-
-
-
 ## Vierter Abschnitt - Besondere Vorschriften für Fertigpackungen mit Füllmengen von weniger als 5 Gramm oder Milliliter oder mehr als 10 Kilogramm oder Liter
-
-
 
 ### § 30 Fertigpackungen mit Füllmengen von weniger als 5 Gramm oder Milliliter
 
@@ -975,7 +931,6 @@ Mengenkennzeichnung vorschreiben.
 (2) Werden Fertigpackungen auf Grund des Absatzes 1 ohne
 Füllmengenangaben in den Verkehr gebracht, so sind die Vorschriften
 dieser Verordnung nicht anzuwenden.
-
 
 ### § 31 Fertigpackungen mit Füllmengen von mehr als 10 Kilogramm oder Liter
 
@@ -1089,13 +1044,7 @@ einer Füllmenge von mehr als 10 Kilogramm oder Liter nicht anzuwenden.
     Füllmenge nach den §§ 6, 7 Abs. 5 und § 18 und der Hersteller nach §
     29 anzugeben.
 
-
-
-
-
 ## Fünfter Abschnitt - Offene Packungen, unverpackte Backwaren und Verkaufseinheiten ohne Umhüllung
-
-
 
 ### § 31a Offene Packungen
 
@@ -1106,7 +1055,6 @@ nachfüllbare offene Packungen gleicher Nennfüllmenge auch auf einer
 nachfolgenden Handelsstufe nur in den Verkehr gebracht werden, wenn
 die Füllmenge in diesem Zeitpunkt die für Fertigpackungen festgelegte
 unterste Minusabweichung von der Nennfüllmenge nicht überschreitet.
-
 
 ### § 32 Unverpackte Backwaren
 
@@ -1142,7 +1090,6 @@ durch ein Schild auf oder neben dem Brot angegeben ist. Die
 Vorschriften des § 6 Abs. 2 und 6, des § 10 Abs. 2 Satz 1 Nr. 7, des §
 18 Abs. 4 und des § 20 Abs. 1 über die Füllmengenangabe gelten
 entsprechend.
-
 
 ### § 33 Verkaufseinheiten ohne Umhüllung
 
@@ -1207,10 +1154,7 @@ ausschließlich für Letztverbraucher bestimmt sind, die das Erzeugnis
 in ihrer selbständigen beruflichen oder gewerblichen Tätigkeit
 verwenden.
 
-
 ## Sechster Abschnitt - Ausnahmen, Nachschau, Ordnungswidrigkeiten, Übergangs- und Schlußvorschriften
-
-
 
 ### § 33a Ausnahmen
 
@@ -1232,10 +1176,6 @@ Die Vorschriften dieser Verordnung gelten nicht für
 
 4.  geeichte formbeständige Behältnisse.
 
-
-
-
-
 ### § 34 Nachschau
 
 (1) Die Einhaltung der §§ 22 bis 24, 32 Abs. 1 bis 3 und § 33 Abs. 1
@@ -1252,7 +1192,6 @@ Behörde durch Stichproben in den Betrieben zu prüfen, die
 Maßbehältnisse herstellen oder in den Geltungsbereich dieser
 Verordnung verbringen. Für die Prüfung ist das Verfahren zur Prüfung
 von Maßbehältnissen der Anlage 5 anzuwenden.
-
 
 ### § 35 Ordnungswidrigkeiten
 
@@ -1423,30 +1362,22 @@ indem er vorsätzlich oder fahrlässig
     entgegen Artikel 8 Abs. 4 dritter Anstrich die vorgeschriebenen
     Fehlergrenzen um mehr als das Doppelte überschreitet.
 
-
-
-
-
 ### § 36 (weggefallen)
 
 -
-
 
 ### § 37 Übergangsvorschriften
 
 Die nach früheren Vorschriften erteilten Fabrikmarken für Flaschen
 gelten als Herstellerzeichen im Sinne dieser Verordnung.
 
-
 ### § 38
 
 (weggefallen)
 
-
 ### § 39 (Inkrafttreten, abgelöste Vorschriften)
 
 -
-
 
 ### Anlage 1 (zu § 1) Verbindliche Werte für die Nennfüllmengen von Fertigpackungen mit Wein und Spirituosen
 
@@ -1590,11 +1521,9 @@ gelten als Herstellerzeichen im Sinne dieser Verordnung.
 
 -
 
-
 ### Anlage 3
 
 (weggefallen)
-
 
 ### Anlage 4a (zu § 34 Abs. 1) Verfahren zur Prüfung der Füllmengen nach Gewicht oder Volumen gekennzeichneter Fertigpackungen durch die zuständigen Behörden
 
@@ -2230,10 +2159,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     Backwaren und Verkaufseinheiten gleichen Gewichts ohne Umhüllung
     entsprechend anzuwenden.
 
-
-
-
-
 ### Anlage 4b (zu § 34 Abs. 1) Verfahren zur Prüfung der Füllmengen nach Länge, Fläche oder Stückzahl gekennzeichneter Fertigpackungen durch die zuständigen Behörden
 
 (Fundstelle des Originaltextes: BGBl. I 1994, 488 - 489)
@@ -2477,10 +2402,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     Verkaufseinheiten gleicher Länge oder gleicher Fläche entsprechend
     anzuwenden.
 
-
-
-
-
 ### Anlage 5 (zu § 34 Abs. 2) Verfahren zur Prüfung von Maßbehältnissen durch die zuständigen Behörden
 
 (Fundstelle des Originaltextes: BGBl. I 1994, 490)
@@ -2593,14 +2514,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     Wirtschaftsraum in den Geltungsbereich dieser Verordnung eingeführt
     worden sind.
 
-
-
-
-
 ### Anlage 6
 
 (weggefallen)
-
 
 ### Anlage 7 Geeignete Kontrollmeßgeräte im Sinne des § 27 und geeignete Waagen im Sinne des § 31 Fertigpackungsverordnung
 
@@ -2736,10 +2652,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     nicht der Eichpflicht. Sie sind von der zuständigen Behörde auf
     ordnungsgemäße Arbeitsweise zu überprüfen.
 
-
-
-
-
 ### Anlage 8
 
 (Fundstelle: BGBl. I 1994, 492;
@@ -2753,10 +2665,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   Mindesthöhe des Zeichens: 3 mm
 
-
-
-
-
 ### Anlage 9
 
 (Fundstelle des Originaltextes: BGBl. I 1994, 492)
@@ -2768,10 +2676,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *        ![bgbl1_1994_j0451_0050.jpg](bgbl1_1994_j0451_0050.jpg)
 
 *    *   Mindesthöhe des Zeichens: 3 mm
-
-
-
-
 
 ### Anhang EV Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet C Abschnitt III (BGBl. II 1990, 889, 1002) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 

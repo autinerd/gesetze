@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 1804
 
-
 ## § 1 Steuergegenstand, Steuergebiet
 
 (1) Kernbrennstoff, der zur gewerblichen Erzeugung von elektrischem
@@ -25,7 +24,6 @@ Verbrauchsteuer im Sinn der Abgabenordnung.
 
 (2) Steuergebiet ist das Gebiet der Bundesrepublik Deutschland ohne
 das Gebiet von Büsingen und ohne die Insel Helgoland.
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -67,15 +65,10 @@ Im Sinn dieses Gesetzes ist:
     Anlage zur Spaltung von Kernbrennstoff zur gewerblichen Erzeugung von
     Elektrizität ist.
 
-
-
-
-
 ## § 3 Steuertarif
 
 Die Steuer für ein Gramm Plutonium 239, Plutonium 241, Uran 233 oder
 Uran 235 beträgt 145 Euro.
-
 
 ## § 4 Pflichten des Betreibers
 
@@ -147,7 +140,6 @@ Antrags auf Eröffnung eines Insolvenzverfahrens unverzüglich
 schriftlich anzuzeigen, soweit das Hauptzollamt nicht darauf
 verzichtet.
 
-
 ## § 5 Entstehung der Steuer, Steuerschuldner
 
 (1) Die Steuer entsteht dadurch, dass ein Brennelement oder einzelne
@@ -156,7 +148,6 @@ sich selbsttragende Kettenreaktion ausgelöst wird. Der Austausch
 nachweislich defekter Brennstäbe führt nicht zur Steuer-entstehung.
 
 (2) Steuerschuldner ist der Betreiber.
-
 
 ## § 6 Steueranmeldung, Fälligkeit der Steuer
 
@@ -176,7 +167,6 @@ sinngemäß.
 Voraus Sicherheit verlangen, wenn Anzeichen für eine Gefährdung der
 Steuer erkennbar sind.
 
-
 ## § 7 Auskunftspflicht des Herstellers der Brennelemente oder Brennstäbe
 
 Der Hersteller von Brennelementen oder Brennstäben, die nach § 5
@@ -184,13 +174,11 @@ verwendet werden, hat dem Hauptzollamt die Auskünfte zu erteilen, die
 zur Sicherung und Nachprüfung der Besteuerung eines Betreibers
 erforderlich sind.
 
-
 ## § 8 Steueraufsicht
 
 Der Steueraufsicht im Sinn von § 209 der Abgabenordnung unterliegt der
 Betreiber einer Anlage zur Spaltung von Kernbrennstoffen zur
 gewerblichen Erzeugung von Elektrizität.
-
 
 ## § 9 Zuständiges Hauptzollamt
 
@@ -201,7 +189,6 @@ bezeichnete Person ihr Unternehmen betreibt. Für Unternehmen, die von
 einem Ort außerhalb des Steuergebiets betrieben werden, ist das
 Hauptzollamt örtlich zuständig, in dessen Bezirk sie erstmals
 steuerlich in Erscheinung treten.
-
 
 ## § 10 Bußgeldvorschriften
 
@@ -223,10 +210,6 @@ handelt, wer vorsätzlich oder leichtfertig
 
 4.  entgegen § 4 Absatz 5 eine Änderung nicht, nicht richtig, nicht
     vollständig oder nicht rechtzeitig anzeigt.
-
-
-
-
 
 ## § 11 Verordnungsermächtigung
 
@@ -255,12 +238,10 @@ erlassen und dabei zur Vereinfachung Mengenschätzungen durch einen
 zugelassenen Sachverständigen zuzulassen, soweit eine genaue
 Ermittlung nur mit unvertretbarem Aufwand möglich ist.
 
-
 ## § 12 Anwendungsvorschrift
 
 Das Gesetz ist auf Besteuerungsvorgänge anzuwenden, bei denen die sich
 selbsttragende Kettenreaktion vor dem 1. Januar 2017 ausgelöst wurde.
-
 
 ## § 13 Inkrafttreten
 

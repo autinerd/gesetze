@@ -25,13 +25,10 @@ Stand: Zur erstmaligen Anwendung vgl. § 36
 
 ## - - Zu § 2 des Gesetzes
 
-
-
 ### § 1 Stehender Gewerbebetrieb
 
 Stehender Gewerbebetrieb ist jeder Gewerbebetrieb, der kein
 Reisegewerbebetrieb im Sinne des § 35a Abs. 2 des Gesetzes ist.
-
 
 ### § 2 Betriebe der öffentlichen Hand
 
@@ -53,11 +50,9 @@ Satz 2 nicht zu den Gewerbebetrieben.
 2             Für die Annahme eines Hoheitsbetriebs reichen Zwangs-
 oder Monopolrechte nicht aus.
 
-
 ### § 3
 
 (weggefallen)
-
 
 ### § 4 Aufgabe, Auflösung und Insolvenz
 
@@ -67,7 +62,6 @@ Steuergegenstand bis zur Beendigung der Aufgabe oder Abwicklung.
 (2) Die Gewerbesteuerpflicht wird durch die Eröffnung des
 Insolvenzverfahrens über das Vermögen des Unternehmers nicht berührt.
 
-
 ### § 5 Betriebsstätten auf Schiffen
 
 Ein Gewerbebetrieb wird gewerbesteuerlich insoweit nicht im Inland
@@ -76,7 +70,6 @@ unterhalten wird, das im sogenannten regelmäßigen Liniendienst
 ausschließlich zwischen ausländischen Häfen verkehrt, auch wenn es in
 einem inländischen Schiffsregister eingetragen ist.
 
-
 ### § 6 Binnen- und Küstenschifffahrtsbetriebe
 
 Bei Binnen- und Küstenschifffahrtsbetrieben, die feste örtliche
@@ -84,11 +77,9 @@ Anlagen oder Einrichtungen zur Ausübung des Gewerbes nicht
 unterhalten, gilt eine Betriebsstätte in dem Ort als vorhanden, der
 als Heimathafen (Heimatort) im Schiffsregister eingetragen ist.
 
-
 ### § 7
 
 (weggefallen)
-
 
 ### § 8 Zusammenfassung mehrerer wirtschaftlicher Geschäftsbetriebe
 
@@ -97,19 +88,13 @@ oder einem nichtrechtsfähigen Verein (§ 2 Abs. 3 des Gesetzes) mehrere
 wirtschaftliche Geschäftsbetriebe unterhalten, so gelten sie als ein
 einheitlicher Gewerbebetrieb.
 
-
 ### § 9
 
 (weggefallen)
 
-
 ## - - Zu § 3 des Gesetzes
 
-
-
 ### (XXXX) §§ 10 bis 12 (weggefallen)
-
-
 
 ### § 12a Kleinere Versicherungsvereine
 
@@ -118,22 +103,17 @@ des Versicherungsaufsichtsgesetzes sind von der Gewerbesteuer befreit,
 wenn sie nach § 5 Abs. 1 Nr. 4 des Körperschaftsteuergesetzes von der
 Körperschaftsteuer befreit sind.
 
-
 ### § 13 Einnehmer einer staatlichen Lotterie
 
 Die Tätigkeit der Einnehmer einer staatlichen Lotterie unterliegt auch
 dann nicht der Gewerbesteuer, wenn sie im Rahmen eines Gewerbebetriebs
 ausgeübt wird.
 
-
 ## - - Zu § 4 des Gesetzes
-
-
 
 ### § 14
 
 (weggefallen)
-
 
 ### § 15 Hebeberechtigte Gemeinde bei Gewerbebetrieben auf Schiffen und bei Binnen- und Küstenschifffahrtsbetrieben
 
@@ -145,10 +125,7 @@ ausschließlich zwischen ausländischen Häfen verkehren, und für die in
 Gemeinde, in der der inländische Heimathafen (Heimatort) des Schiffes
 liegt.
 
-
 ## - - Zu den §§ 7, 8 und 9 des Gesetzes
-
-
 
 ### § 16 Gewerbeertrag bei Abwicklung und Insolvenz
 
@@ -160,14 +137,9 @@ zu verteilen.
 (2) Das gilt entsprechend für Gewerbebetriebe, wenn über das Vermögen
 des Unternehmens ein Insolvenzverfahren eröffnet worden ist.
 
-
 ### (XXXX) §§ 17 und 18 (weggefallen)
 
-
-
 ## - - Zu § 8 des Gesetzes
-
-
 
 ### § 19 Schulden bestimmter Unternehmen
 
@@ -238,10 +210,7 @@ unmittelbar auf Finanzdienstleistungen im Sinne des § 1 Absatz 1a Satz
 Finanzdienstleistungsinstituts zu mindestens 50 Prozent auf
 Finanzdienstleistungen entfallen.
 
-
 ## - - Zu § 9 des Gesetzes
-
-
 
 ### § 20 Grundbesitz
 
@@ -257,15 +226,11 @@ Kalenderjahrs.
 des Absatzes 1, so ist der Kürzung nach § 9 Nr. 1 des Gesetzes nur der
 entsprechende Teil des Einheitswerts zugrunde zu legen.
 
-
 ### § 21
 
 (weggefallen)
 
-
 ## - - Zu § 11 des Gesetzes
-
-
 
 ### § 22 Hausgewerbetreibende und ihnen gleichgestellte Personen
 
@@ -276,14 +241,9 @@ Gesetzes nur anzuwenden, wenn die andere Tätigkeit nicht überwiegt.
 2             Die Vergünstigung gilt in diesem Fall für den gesamten
 Gewerbeertrag.
 
-
 ### (XXXX) §§ 23 und 24 (weggefallen)
 
-
-
 ## - - Zu § 14a des Gesetzes
-
-
 
 ### § 25 Gewerbesteuererklärung
 
@@ -341,14 +301,9 @@ verwenden.
 Angaben zu verlangen, die für die Besteuerung von Bedeutung sind,
 bleibt unberührt.
 
-
 ### (XXXX) §§ 26 bis 28 (weggefallen)
 
-
-
 ## - - Zu § 19 des Gesetzes
-
-
 
 ### § 29 Anpassung und erstmalige Festsetzung der Vorauszahlungen
 
@@ -387,7 +342,6 @@ Zerlegungsbescheid beteiligt waren.
 Erhebungszeitraums anzusetzen, für den die Festsetzung der
 Vorauszahlungen erstmals gilt.
 
-
 ### § 30 Verlegung von Betriebsstätten
 
 1             Wird eine Betriebsstätte in eine andere Gemeinde
@@ -397,14 +351,9 @@ die Verlegung folgenden Fälligkeitstag ab zu entrichten.
 Betriebsstätte verlegt wird, mindestens eine Betriebsstätte des
 Unternehmens bestehen bleibt.
 
-
 ### (XXXX) §§ 31 bis 33 (weggefallen)
 
-
-
 ## - - Zu § 34 des Gesetzes
-
-
 
 ### § 34 Kleinbeträge bei Verlegung der Geschäftsleitung
 
@@ -413,10 +362,7 @@ Erhebungszeitraums in eine andere Gemeinde verlegt, so ist der
 Kleinbetrag der Gemeinde zuzuweisen, in der sich die Geschäftsleitung
 am Ende des Erhebungszeitraums befindet.
 
-
 ## - - Zu § 35a des Gesetzes
-
-
 
 ### § 35 Reisegewerbebetriebe
 
@@ -447,10 +393,7 @@ der gewerblichen Tätigkeit verlegt worden ist, ist der Gemeinde
 zuzuteilen, in der sich der Mittelpunkt in diesem Kalendermonat die
 längste Zeit befunden hat.
 
-
 ## - - Schlussvorschriften
-
-
 
 ### § 36 Zeitlicher Anwendungsbereich
 

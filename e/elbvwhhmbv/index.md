@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   RGBl I: 1939, 3
 
-
-
 ## Eingangsformel
 
 Auf Grund des Artikels 5 des Gesetzes über den Neuaufbau des Reichs
@@ -28,7 +26,6 @@ Verfassung und Verwaltung der Hansestadt Hamburg vom 9. Dezember 1937
 (Reichsgesetzbl. I S. 1327) wird in Ergänzung der Verordnung über die
 Verwaltung der Elbe im Gebiet Groß-Hamburg vom 30. Juni 1937
 (Reichsgesetzblatt I S. 727) verordnet:
-
 
 ## § 1
 
@@ -47,7 +44,6 @@ Schiffahrtpolizei dem
 Reichsstatthalter in Hamburg              übertragen, auch soweit das
 preußische Landesgebiet              berührt wird.
 
-
 ## § 2
 
 Die nach dem Reichsgesetz vom 29. Juli 1921 (Reichsgesetzbl. S 961)
@@ -57,7 +53,6 @@ Wasserstraßen Köhlfleth einschließlich Kleine Elbe (mit Bullerinne)
 und Finkenwärder Aue gehen mit allen Rechten und Pflichten in das
 Eigentum und in die Verwaltung der Hansestadt Hamburg über.
 
-
 ## § 3
 
 (1) Diese Verordnung tritt mit Wirkung vom 1. Januar 1939 in Kraft.
@@ -65,7 +60,6 @@ Eigentum und in die Verwaltung der Hansestadt Hamburg über.
 (2) Der
 Reichsverkehrsminister              erläßt die zur Durchführung ...
 dieser Verordnung erforderlichen Rechts- und Verwaltungsvorschriften.
-
 
 ## Schlußformel
 

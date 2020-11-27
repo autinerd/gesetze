@@ -16,13 +16,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1997, 774
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -30,7 +27,6 @@ Dem Beitritt der Bundesrepublik Deutschland zu dem Übereinkommen vom
 8\. September 1976 über die Ausstellung mehrsprachiger Auszüge aus
 Personenstandsbüchern wird zugestimmt. Das Übereinkommen wird
 nachstehend mit einer amtlich deutschen Übersetzung veröffentlicht.
-
 
 ## Art 2
 
@@ -43,7 +39,6 @@ einzutragenden Angaben zu erlassen.
 Verwaltungsvorschriften erläßt das Bundesministerium des Innern im
 Benehmen mit dem Bundesministerium der Justiz und mit Zustimmung des
 Bundesrates.
-
 
 ## Art 3
 

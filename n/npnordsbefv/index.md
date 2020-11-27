@@ -22,7 +22,6 @@ Neugefasst durch
 Geändert durch
 :   Art. 1 V v. 3.9.1997 I 2216
 
-
 ## § 1
 
 (1) Zum Schutz der Tierwelt wird das Befahren der Bundeswasserstraßen
@@ -60,14 +59,12 @@ eingesehen und von den Vertriebs- und Auslieferungsstellen des
 Bundesamtes für Seeschiffahrt und Hydrographie, 20359 Hamburg,
 Bernhard-Nocht-Straße 78, bezogen werden.
 
-
 ## § 2
 
 Die Verkehrsteilnehmer haben sich auf den Bundeswasserstraßen in den
 Nationalparken so zu verhalten, daß die Tierwelt nicht geschädigt,
 gefährdet oder mehr, als nach den Umständen unvermeidbar, gestört
 wird.
-
 
 ## § 3
 
@@ -98,10 +95,6 @@ von 24 kn durch das Wasser darf von diesen Fahrzeugen jedoch nicht
 
 \*) kn = Knoten, 1 Knoten = 1,852 km/h.
 
-
-
-
-
 ## § 4
 
 (1) Es ist untersagt, die Bundeswasserstraßen in den jeweiligen Zonen
@@ -126,7 +119,6 @@ in Satz 1 bezeichneten Bundeswasserstraßen mit motorisierten
 Wasserskiern, Wassermotorrädern oder sonstigen motorisierten
 Wassersportgeräten zu befahren oder auf ihnen Wasserskisport zu
 betreiben.
-
 
 ## § 5
 
@@ -156,7 +148,6 @@ Seekajaks auf Antrag befreit werden. Absatz 2 Satz 2 ist anzuwenden.
 Der Antrag ist unter Angabe der Fahrtroute und der Gründe für eine
 Befreiung mindestens drei Wochen vor Fahrtantritt bei der in Absatz 1
 genannten Dienststelle des Bundes zu stellen.
-
 
 ## § 6
 
@@ -201,7 +192,6 @@ nach Absatz 1 Nr. 1 bis 5 und 7.
 § 4 Abs. 3 Satz 1 gelten nicht für Wasserfahrzeuge nach Absatz 1 Nr.
 1, 3 und 7.
 
-
 ## § 7
 
 (1) Ordnungswidrig im Sinne des § 50 Abs. 1 Nr. 2 des
@@ -233,7 +223,6 @@ Bundeswasserstraßengesetzes handelt, wer vorsätzlich oder fahrlässig
 entgegen § 4 Abs. 3 Satz 2 eine in § 4 Abs. 3 Satz 1 bezeichnete
 Bundeswasserstraße mit einem motorisierten Wassersportgerät befährt
 oder auf ihr Wasserskisport betreibt.
-
 
 ## § 8
 

@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 Nr. 1 G v. 29.7.2009 I 2350
 
-
 ## Erster Abschnitt - Allgemeine Bestimmungen
-
-
 
 ### § 1 Aufgaben des Zivilschutzes
 
@@ -54,10 +51,6 @@ Behördliche Maßnahmen ergänzen die Selbsthilfe der Bevölkerung.
 
 7.  Maßnahmen zum Schutz von Kulturgut.
 
-
-
-
-
 ### § 2 Auftragsverwaltung
 
 (1) Soweit die Ausführung dieses Gesetzes den Ländern einschließlich
@@ -75,7 +68,6 @@ Landesregierungen können diese Ermächtigung auf oberste Landesbehörden
 
 (3) (weggefallen)
 
-
 ### § 3 Völkerrechtliche Stellung
 
 (1) Einheiten, Einrichtungen und Anlagen, die für den Zivilschutz
@@ -90,7 +82,6 @@ Schutz der Opfer internationaler bewaffneter Konflikte (Protokoll I)
 Gesellschaft vom Roten Kreuz sowie die der anderen freiwilligen
 Hilfsgesellschaften und ihres Personals nach dem humanitären
 Völkerrecht bleiben unberührt.
-
 
 ### § 4 Zuständigkeit des Bundes für den Schutz der Zivilbevölkerung
 
@@ -144,10 +135,7 @@ insbesondere
 auf dem Gebiet des Zivilschutzes zustehenden Befugnisse werden auf das
 Bundesamt für Bevölkerungsschutz und Katastrophenhilfe übertragen.
 
-
 ## Zweiter Abschnitt - Selbstschutz
-
-
 
 ### § 5 Selbstschutz
 
@@ -167,10 +155,7 @@ Behörden der allgemeinen Verwaltung auf der Kreisstufe unterstützt.
 über das selbstschutzmäßige Verhalten der Bevölkerung bei Angriffen
 treffen. Die Anordnungen bedürfen keiner besonderen Form.
 
-
 ## Dritter Abschnitt - Warnung der Bevölkerung
-
-
 
 ### § 6 Warnung der Bevölkerung
 
@@ -190,10 +175,7 @@ Bund und Ländern sowie die Gefahrendurchsage einschließlich der
 Anordnung von Verhaltensmaßregeln durch Rechtsverordnung mit
 Zustimmung des Bundesrates näher zu regeln.
 
-
 ## Vierter Abschnitt - Schutzbau
-
-
 
 ### § 7 Öffentliche Schutzräume
 
@@ -221,7 +203,6 @@ für die Bestandserhaltung der bisher zum Zwecke der gesundheitlichen
 Versorgung der Bevölkerung im Verteidigungsfall errichteten
 Schutzbauwerke.
 
-
 ### § 8 Hausschutzräume
 
 (1) Hausschutzräume, die mit Zuschüssen des Bundes oder steuerlich
@@ -235,17 +216,13 @@ zuständigen Behörde nicht vorgenommen werden.
 Personen, für die der Schutzraum bestimmt ist, die Mitbenutzung zu
 gestatten.
 
-
 ### § 9 Baulicher Betriebsschutz
 
 Zum Schutz lebens- oder verteidigungswichtiger Anlagen und
 Einrichtungen können die obersten Bundesbehörden jeweils für ihren
 Geschäftsbereich Regelungen für bauliche Schutzmaßnahmen treffen.
 
-
 ## Fünfter Abschnitt - Aufenthaltsregelung
-
-
 
 ### § 10 Aufenthaltsregelung
 
@@ -271,10 +248,7 @@ evakuierten Bevölkerung erforderlichen Vorbereitungen und Maßnahmen zu
 treffen. Die zuständigen Bundesbehörden leisten die erforderliche
 Unterstützung.
 
-
 ## Sechster Abschnitt - Katastrophenschutz im Zivilschutz und Katastrophenhilfe des Bundes
-
-
 
 ### § 11 Einbeziehung des Katastrophenschutzes
 
@@ -289,13 +263,11 @@ Ergänzung im Benehmen mit der zuständigen obersten Landesbehörde fest.
 Hilfswerk verstärken im Verteidigungsfall den Katastrophenschutz bei
 der Wahrnehmung der Aufgaben nach Absatz 1.
 
-
 ### § 12 Grundsatz der Katastrophenhilfe
 
 Die Vorhaltungen und Einrichtungen des Bundes für den Zivilschutz
 stehen den Ländern auch für ihre Aufgaben im Bereich des
 Katastrophenschutzes zur Verfügung.
-
 
 ### § 13 Ausstattung
 
@@ -318,7 +290,6 @@ genannten Aufgabenbereichen vorgesehen sind, erhalten bei ihrer
 Ausbildung eine ergänzende Zivilschutzausbildung für die Wahrnehmung
 der Aufgaben nach § 11.
 
-
 ### § 14 Aus- und Fortbildung
 
 Die Aus- und Fortbildungsmaßnahmen des Bundesamtes für
@@ -331,10 +302,7 @@ ressort- und länderübergreifenden Krisenmanagementübungen. Die Aus-
 und Fortbildungsmaßnahmen des Bundes bauen auf der Ausbildung der
 Länder im Bereich des Katastrophenschutzes auf und ergänzen diese.
 
-
 ## Siebter Abschnitt - Maßnahmen zum Schutz der Gesundheit
-
-
 
 ### § 15 Aufgaben der Katastrophenschutzbehörde
 
@@ -350,7 +318,6 @@ auch die Einheiten und Einrichtungen der Bundesanstalt Technisches
 Hilfswerk, die nach § 1 Absatz 2 Nummer 1 des THW-Gesetzes in der
 jeweils geltenden Fassung beauftragt und ermächtigt ist, technische
 Hilfe im Zivilschutz zu leisten.
-
 
 ### § 16 Koordinierungsmaßnahmen; Ressourcenmanagement
 
@@ -373,7 +340,6 @@ bleibt unberührt.
 (4) Der Bund hält Koordinierungsinstrumente vor. Der Aufruf
 bundeseigener Krisenmanagementstrukturen für die Erfüllung seiner
 eigenen Aufgaben bleibt unberührt.
-
 
 ### § 17 Datenerhebung und -verwendung
 
@@ -416,7 +382,6 @@ Rechtsverordnung mit Zustimmung des Bundesrates. Dabei sind
 insbesondere die Datenarten, die erhoben und verwendet werden dürfen,
 sowie Fristen für die Löschung der Daten zu bestimmen.
 
-
 ### § 18 Zusammenarbeit von Bund und Ländern
 
 (1) Der Bund erstellt im Zusammenwirken mit den Ländern eine
@@ -437,10 +402,7 @@ Zusammenwirken der für den Katastrophenschutz zuständigen Behörden
 auch bei Naturkatastrophen und besonders schweren Unglücksfällen
 erforderlich sind.
 
-
 ## Achter Abschnitt - Maßnahmen zum Schutz von Kulturgut
-
-
 
 ### § 19 Schutzkommission
 
@@ -453,16 +415,12 @@ und technischen Fragen des Zivilschutzes und der Katastrophenhilfe.
 (3) Die organisatorische Betreuung der Kommission obliegt dem
 Bundesamt für Bevölkerungsschutz und Katastrophenhilfe.
 
-
 ## Neunter Abschnitt - Organisationen, Helferinnen und Helfer
-
-
 
 ### § 20 Unterstützung des Ehrenamtes
 
 Der Bund unterstützt das Ehrenamt als Grundlage des Zivil- und
 Katastrophenschutzes.
-
 
 ### § 21 Planung der gesundheitlichen Versorgung
 
@@ -502,7 +460,6 @@ Katastrophenschutzaufgaben erforderlich ist.
 
 
 aufstellen und fortschreiben.
-
 
 ### § 22 Erweiterung der Einsatzbereitschaft
 
@@ -547,10 +504,7 @@ Grundlage gedeckt werden kann. Sie ist aufzuheben, wenn Bundestag und
 Bundesrat es verlangen. Satz 2 gilt entsprechend für die Anordnungen
 nach Absatz 1.
 
-
 ## Zehnter Abschnitt - Kosten des Zivilschutzes
-
-
 
 ### § 23 Sanitätsmaterialbevorratung
 
@@ -570,10 +524,7 @@ sicherzustellen. Die §§ 4, 8 und 13 bis 16 des
 Wirtschaftssicherstellungsgesetzes in der Fassung vom 31. Oktober 2006
 sind entsprechend anzuwenden.
 
-
 ## Elfter Abschnitt - Bußgeldvorschriften
-
-
 
 ### § 24 Erste-Hilfe-Ausbildung und Ausbildung von Pflegehilfskräften
 
@@ -585,13 +536,7 @@ Abs. 1 mitwirkenden privaten Organisationen
 
 2.  zu Pflegehilfskräften.
 
-
-
-
-
 ## Zwölfter Abschnitt - Schlußbestimmungen
-
-
 
 ### § 25 Kulturgutschutz
 
@@ -599,7 +544,6 @@ Die Maßnahmen zum Schutz von Kulturgut richten sich nach dem Gesetz zu
 der Konvention vom 14. Mai 1954 zum Schutz von Kulturgut bei
 bewaffneten Konflikten (BGBl. 1967 II S. 1233), geändert durch Artikel
 1 des Gesetzes vom 10. August 1971 (BGBl. II S. 1025).
-
 
 ### § 26 Mitwirkung der Organisationen
 
@@ -628,7 +572,6 @@ des Landes. Die Behörden und Stellen des Bundes sowie die seiner
 Aufsicht unterstehenden juristischen Personen des öffentlichen Rechts
 sind zur Mitwirkung verpflichtet.
 
-
 ### § 27 Rechtsverhältnisse der Helferinnen und Helfer
 
 (1) Rechte und Pflichten der im Zivilschutz mitwirkenden Helferinnen
@@ -639,7 +582,6 @@ Rechtsvorschriften des Bundes nichts anderes bestimmt ist.
 (2) Für den ehrenamtlichen Dienst im Zivil- und Katastrophenschutz vom
 Wehrdienst oder Zivildienst freigestellte Helfer sind zur Mitwirkung
 im Zivil- und Katastrophenschutz verpflichtet.
-
 
 ### § 28 Persönliche Hilfeleistung
 
@@ -663,7 +605,6 @@ Gründe gegen ihren Einsatz in der Organisation sprechen.
 
 (3) Die Verpflichtung darf einen Zeitraum von zehn Werktagen im
 Vierteljahr nicht überschreiten.
-
 
 ### § 29 Kosten
 
@@ -718,7 +659,6 @@ zivilschutzbezogenen Ausbildungszwecken.
 (5) Kosten, die für Maßnahmen nach § 22 Abs. 1 anfallen, sind dem
 Pflichtigen zu ersetzen.
 
-
 ### § 30 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer
@@ -758,10 +698,6 @@ einer Geldbuße bis zu tausend Euro geahndet werden.
     Hilfswerk für ihre Helfer, im übrigen und in den Fällen des Absatzes 2
     Nr. 3 die für den Katastrophenschutz zuständige Behörde.
 
-
-
-
-
 ### § 31 Einschränkungen von Grundrechten
 
 Die Grundrechte der körperlichen Unversehrtheit (Artikel 2 Abs. 2 Satz
@@ -769,7 +705,6 @@ Die Grundrechte der körperlichen Unversehrtheit (Artikel 2 Abs. 2 Satz
 des Grundgesetzes), der Freizügigkeit (Artikel 11 Abs. 1 des
 Grundgesetzes) und der Unverletzlichkeit der Wohnung (Artikel 13 des
 Grundgesetzes) werden nach Maßgabe dieses Gesetzes eingeschränkt.
-
 
 ### § 32 Stadtstaatenklausel
 

@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 2795
 
-
-
 ## (XXXX)
 
 Die in Brüssel am 26. März 2003 geschlossene Vereinbarung in Form
@@ -52,11 +50,9 @@ durch Artikel 7 Nr. 9 des Gesetzes vom 22. Juli 1997 (BGBl. I S. 1870)
 eingefügt worden ist, durch Veröffentlichung des Antwortschreibens der
 Europäischen Gemeinschaft nachstehend bekannt gemacht.
 
-
 ## Schlussformel
 
 Bundesministerium der Justiz
-
 
 ## (XXXX)
 

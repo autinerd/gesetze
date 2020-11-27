@@ -16,13 +16,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1984, 1708
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## § 1
 
@@ -31,7 +28,6 @@ Investitionen zur Verbesserung seiner Wirtschaftskraft in Höhe von
 insgesamt 300.000.000 Deutsche Mark. Die Finanzhilfen werden in den
 Jahren 1985 bis 1987 in Jahresbeträgen von 100.000.000 Deutsche Mark
 gewährt.
-
 
 ## § 2
 
@@ -49,16 +45,11 @@ gefördert:
 3.  sonstige Maßnahmen zur Verbesserung der Infrastruktur, insbesondere
     die Erschließung von Gewerbeflächen.
 
-
-
-
-
 ## § 3
 
 Begleit- und Folgemaßnahmen werden nur gefördert, wenn sie in
 unmittelbar ursächlichem Zusammenhang mit den Maßnahmen nach § 2
 stehen.
-
 
 ## § 4
 
@@ -77,7 +68,6 @@ Finanzhilfen.
 auszuschließen, wenn sie ihrer Art nach den in diesem Gesetz
 festgelegten Zweckbindungen nicht entsprechen.
 
-
 ## § 5
 
 (1) Die Finanzhilfen des Bundes betragen 90 vom Hundert der
@@ -87,7 +77,6 @@ förderungsfähigen Ausgaben.
 selbständigen Bewirtschaftung gegeben. Der Minister der Finanzen des
 Saarlandes ist ermächtigt, die zuständige Bundeskasse zur Auszahlung
 der benötigten Kassenmittel an die zuständige Landeskasse anzuweisen.
-
 
 ## § 6
 
@@ -101,12 +90,10 @@ Bundesmittel sowie der verausgabten Landesmittel.
 Maßnahme. Der Bericht muß einen zahlenmäßigen Nachweis und eine
 Sachdarstellung enthalten.
 
-
 ## § 7
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin.
-
 
 ## § 8
 

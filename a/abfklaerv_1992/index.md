@@ -23,7 +23,6 @@ Rates vom 12. Juni 1986 über den Schutz der Umwelt und insbesondere
 der Böden bei der Verwendung von Klärschlamm in der Landwirtschaft
 (ABl. EG Nr. L 181 S. 6).
 
-
 ## Eingangsformel
 
 Auf Grund des § 15 Abs. 2 des Abfallgesetzes vom 27. August 1986
@@ -33,7 +32,6 @@ Bundesminister für Ernährung, Landwirtschaft und Forsten und mit dem
 Bundesminister für Gesundheit, auf Grund des § 11 Abs. 2 Satz 3, Abs.
 3 Satz 4 dieses Gesetzes verordnet der Bundesminister für Umwelt,
 Naturschutz und Reaktorsicherheit:
-
 
 ## § 1 Anwendungsbereich
 
@@ -59,7 +57,6 @@ spezifischen Bedingungen der landwirtschaftlichen
 Klärschlammverwertung festgelegt. Generelle Anbaubeschränkungen oder
 Beschränkungen anderer Art lassen sich aus dem Erreichen oder
 Überschreiten der Werte nicht ableiten.
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -88,7 +85,6 @@ Klärschlammkomposte sind kompostierte Klärschlammgemische.
 Ackerflächen angebaut werden und deren vegetative Teile für eine
 Verfütterung an Tiere vorgesehen sind. Der Anbau von Mais zählt nicht
 zum Feldfutteranbau im Sinne dieser Verordnung.
-
 
 ## § 3 Voraussetzungen für das Aufbringen
 
@@ -222,7 +218,6 @@ Satzes 1 oder sonstige Nachweise nach Satz 2 sind der zuständigen
 Behörde vor Aufnahme der Tätigkeit im Original oder in Kopie
 vorzulegen. Eine Beglaubigung der Kopie sowie eine beglaubigte
 deutsche Übersetzung können verlangt werden.
-
 
 ## § 4 Aufbringungsverbote und Beschränkungen
 
@@ -431,7 +426,6 @@ ergebende Schadstoffracht nicht überschritten werden.
 (14) Klärschlamm darf auf oder in der Nähe der Aufbringungsfläche nur
 gelagert werden, soweit dies für die Aufbringung erforderlich ist.
 
-
 ## § 5 Ausnahmeregelungen
 
 Die zuständige Behörde kann im Einvernehmen mit der zuständigen
@@ -440,7 +434,6 @@ von Klärschlamm auf Ackerflächen in Naturschutzgebieten,
 Nationalparken, Nationalen Naturmonumenten, Naturdenkmälern,
 geschützten Landschaftsbestandteilen und gesetzlich geschützten
 Biotopen im Sinne des § 30 des Bundesnaturschutzgesetzes erteilen.
-
 
 ## § 6 Aufbringungsmenge
 
@@ -457,7 +450,6 @@ Klärschlamm bezieht sich die nach Absatz 1 zulässige Aufbringungsmenge
 auf den eingesetzten Klärschlamm und nicht auf das Gemisch. Der Anteil
 an Klärschlamm muß vom Anlieferer nachgewiesen und dem Anwender
 bekannt gemacht werden. Unabhängig davon gilt § 4 Abs. 13 Satz 2.
-
 
 ## § 7 Nachweispflichten
 
@@ -546,14 +538,12 @@ dieser Verordnung gelten, finden die Bestimmungen der
 Nachweisverordnung mit Ausnahme des § 2 Abs. 1 Nr. 2 und des § 23 Nr.
 2 der Nachweisverordnung keine Anwendung.
 
-
 ## § 8 Aufbringungsplan
 
 Die zuständigen landwirtschaftlichen Fachbehörden der Länder oder von
 diesen beauftragte Dritte haben jährlich einen Aufbringungsplan über
 die im Verlauf des Kalenderjahres aufgebrachten Klärschlämme zu
 erstellen.
-
 
 ## § 9 Ordnungswidrigkeiten
 
@@ -636,20 +626,14 @@ Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
     vollständig führt oder die Angaben nicht oder nicht rechtzeitig
     weiterleitet.
 
-
-
-
-
 ## § 10 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am ersten Tage des dritten auf die Verkündung
 folgenden Kalendermonats in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anhang 1 Probenahme, Probevorbereitung und Untersuchung von Klärschlamm und Boden
 
@@ -2933,7 +2917,6 @@ Fundstelle: BGBl. I 1992, 929)
 \*1) Bezugsquellen siehe Abschnitt 4.
 \*2) Des Trockenrückstandes nach DIN 38 414, Teil 7 (Ausgabe Januar
 1983)\*1).
-
 
 ## Anhang 2 Abwasserbehandlungsanlage
 

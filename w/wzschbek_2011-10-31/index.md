@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 2155
 
-
 ## (XXXX)
 
 Auf Grund des § 6a Absatz 2 des Gebrauchsmustergesetzes, der durch
@@ -91,10 +90,6 @@ Ausstellungen gewährt:
 14. „InnoTrans 2012 – Internationale Fachmesse für Verkehrstechnik –
     Innovative Komponenten - Fahrzeuge - Systeme“
     vom 18. bis 21. September 2012 in Berlin
-
-
-
-
 
 ## Schlussformel
 

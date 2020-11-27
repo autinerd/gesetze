@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 G v. 26.6.2012 I 1375
 
-
 ## Eingangsformel
 
 Auf Grund des § 10 Abs. 4 Satz 1, des § 15 Abs. 7 Satz 1, des § 15a
@@ -29,10 +28,7 @@ September 1998 (BGBl. I S. 2708), die durch Artikel 1 des Gesetzes vom
 28\. Oktober 2004 (BGBl. I S. 2630) eingefügt worden sind, verordnet
 das Bundesministerium der Finanzen:
 
-
 ## Abschnitt 1 - Anwendungsbereich
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -50,10 +46,7 @@ Wertpapierhandelsgesetzes und die Veröffentlichung und Speicherung von
 Finanzberichten nach Abschnitt 11 Unterabschnitt 2 des
 Wertpapierhandelsgesetzes.
 
-
 ## Abschnitt 2 - Anzeige von Verdachtsfällen
-
-
 
 ### § 2 Inhalt der Anzeige
 
@@ -166,7 +159,6 @@ handele sich bei dem Geschäft um einen Verstoß gegen ein Verbot oder
 Gebot nach § 14 oder § 20a des Wertpapierhandelsgesetzes. Sobald die
 fehlenden Daten bekannt werden, sind sie unverzüglich nachzureichen.
 
-
 ### § 3 Art und Form der Anzeige
 
 (1) Die Anzeige ist schriftlich zu übersenden. Im Fall der Übersendung
@@ -182,14 +174,9 @@ gewährleisten, und sofern im Fall der Nutzung allgemein zugänglicher
 Netze dem jeweiligen Stand der Technik entsprechende
 Verschlüsselungsverfahren angewendet werden.
 
-
 ## Abschnitt 3 - Veröffentlichung und Mitteilung von Informationen, Insiderverzeichnisse
 
-
-
 ### Unterabschnitt 1 - Allgemeine Vorschriften
-
-
 
 #### § 3a Art der Veröffentlichung von Informationen
 
@@ -285,7 +272,6 @@ Veranlassung der Veröffentlichung, bleibt er für die Erfüllung seiner
 Veröffentlichungspflicht verantwortlich; der Dritte muss die
 Anforderungen der Absätze 1 bis 3 erfüllen.
 
-
 #### § 3b Sprache der Veröffentlichung
 
 (1) Emittenten, deren Sitz im Ausland ist, oder Emittenten, für die
@@ -348,7 +334,6 @@ anderen Vertragsstaat des Abkommens über den Europäischen
 Wirtschaftsraum zugelassen wurden, solange derartige Wertpapiere
 ausstehen.
 
-
 #### § 3c Mitteilung der Veröffentlichung
 
 Soweit nichts anderes bestimmt ist, muss der Bundesanstalt die
@@ -356,10 +341,7 @@ Veröffentlichung unter Angabe des Textes der Veröffentlichung, der
 Medien, an die die Information gesandt wurde, sowie des genauen
 Zeitpunkts der Versendung an die Medien mitgeteilt werden.
 
-
 ### Unterabschnitt 2 - Veröffentlichung und Mitteilung von Insiderinformationen
-
-
 
 #### § 4 Inhalt der Veröffentlichung
 
@@ -487,10 +469,6 @@ Wertpapierhandelsgesetzes hat zu enthalten:
 4.  die Angaben im Sinn des Absatzes 1 Satz 1 Nr. 5 bis 7, bezogen auf die
     wahre Information.
 
-
-
-
-
 #### § 5 Art der Veröffentlichung
 
 Unbeschadet der Anforderungen der §§ 3a und 3b hat der
@@ -518,7 +496,6 @@ Veröffentlichung nach Satz 1 Nr. 1 erfolgen. Die Verpflichtungen nach
 dieser Vorschrift gelten nicht für Emittenten im Sinn des § 2 Abs. 7
 Nr. 2 des Wertpapierhandelsgesetzes.
 
-
 #### § 5a Mitteilung der Veröffentlichung
 
 Die Mitteilung über die Veröffentlichung nach § 15 Abs. 5 Satz 2 des
@@ -527,7 +504,6 @@ auch an die Geschäftsführung der organisierten Märkte im Sinn des § 15
 Abs. 4 Satz 1 Nr. 1 und 2 des Wertpapierhandelsgesetzes zu senden. Für
 die Versendung der Mitteilung gelten die Anforderungen nach § 3a Abs.
 2 Satz 1 Nr. 2 und 3 entsprechend.
-
 
 #### § 6 Berechtigte Interessen für eine verzögerte Veröffentlichung
 
@@ -554,10 +530,6 @@ kann insbesondere dann der Fall sein, wenn
     des Emittenten noch aussteht, und dies die sachgerechte Bewertung der
     Information durch das Publikum gefährden würde.
 
-
-
-
-
 #### § 7 Gewährleistung der Vertraulichkeit während der Befreiung von der Veröffentlichungspflicht
 
 Während der Befreiung nach § 15 Abs. 3 Satz 1 des
@@ -572,10 +544,6 @@ dafür trifft,
 
 2.  dass er die Information unverzüglich bekannt geben kann, wenn er nicht
     länger in der Lage ist, ihre Vertraulichkeit zu gewährleisten.
-
-
-
-
 
 #### § 8 Inhalt der Mitteilung
 
@@ -644,13 +612,6 @@ Wertpapierhandelsgesetzes hat zu enthalten:
         Rufnummern aller Personen, die an der Entscheidung über die Befreiung
         beteiligt waren.
 
-
-
-
-
-
-
-
 #### § 9 Art und Form der Mitteilungen
 
 (1) Mitteilungen nach § 8 sind schriftlich mittels Telefax zu
@@ -669,10 +630,7 @@ gewährleisten, und sofern im Fall der Nutzung allgemein zugänglicher
 Netze dem jeweiligen Stand der Technik entsprechende
 Verschlüsselungsverfahren angewendet werden.
 
-
 ### Unterabschnitt 3 - Veröffentlichung und Mitteilung von Geschäften
-
-
 
 #### § 10 Inhalt der Mitteilung
 
@@ -740,13 +698,6 @@ enthalten:
     d)  Basisinstrument, Basispreis, Preismultiplikator und Fälligkeit bei
         Geschäften in Derivaten.
 
-
-
-
-
-
-
-
 #### § 11 Art und Form der Mitteilung
 
 (1) Mitteilungen nach § 15a Abs. 1 Satz 1 des
@@ -763,7 +714,6 @@ Datensicherheit getroffen werden, die insbesondere die Vertraulichkeit
 und Unversehrtheit der Daten gewährleisten, und sofern im Fall der
 Nutzung allgemein zugänglicher Netze dem jeweiligen Stand der Technik
 entsprechende Verschlüsselungsverfahren angewendet werden.
-
 
 #### § 12 Inhalt der Veröffentlichung
 
@@ -793,16 +743,11 @@ Wertpapierhandelsgesetzes hat zu enthalten
 
 6.  die Angaben nach § 10 Nr. 5 und 6.
 
-
-
-
-
 #### § 13 Art der Veröffentlichung
 
 Die Bundesanstalt kann zusätzlich zur Veröffentlichung nach § 15a Abs.
 4 Satz 1 des Wertpapierhandelsgesetzes in Verbindung mit den §§ 3a und
 3b die Information im Internet unter ihrer Adresse veröffentlichen.
-
 
 #### § 13a Mitteilung der Veröffentlichung
 
@@ -810,10 +755,7 @@ Für die Mitteilung des Emittenten über die Veröffentlichung an die
 Bundesanstalt nach § 15a Abs. 4 Satz 2 des Wertpapierhandelsgesetzes
 gilt § 3c.
 
-
 ### Unterabschnitt 4 - Insiderverzeichnis
-
-
 
 #### § 14 Inhalt des Verzeichnisses
 
@@ -863,7 +805,6 @@ enthält. Sie müssen jederzeit unverzüglich im Insiderverzeichnis
 ergänzt werden können. Wird das Insiderverzeichnis auf Anforderung an
 die Bundesanstalt übermittelt, muss es diese Angaben enthalten.
 
-
 #### § 15 Berichtigung
 
 Das Verzeichnis ist unverzüglich zu aktualisieren, wenn es unrichtig
@@ -877,10 +818,6 @@ geworden ist. Dies gilt insbesondere, wenn
 
 3.  im Verzeichnis erfasste Personen keinen Zugang zu Insiderinformationen
     mehr haben.
-
-
-
-
 
 #### § 16 Aufbewahrung und Vernichtung
 
@@ -901,10 +838,7 @@ Insiderinformationen hatten. Diese Frist beginnt für jeden
 aktualisierten Datensatz neu. Nach Fristablauf sind die Daten zu
 löschen.
 
-
 ### Unterabschnitt 5 - Veröffentlichung und Mitteilung bei Veränderungen des Stimmrechtsanteils
-
-
 
 #### § 17 Inhalt der Mitteilung
 
@@ -1063,7 +997,6 @@ Wertpapierhandelsgesetzes hat neben den Angaben des Absatzes 1 Nummer
 letzte Veröffentlichung nach § 26a des Wertpapierhandelsgesetzes
 zugrunde zu legen.
 
-
 #### § 17a Berechnung des Stimmrechtsanteils für die Mitteilung nach § 25a Absatz 1 Satz 1 des Wertpapierhandelsgesetzes
 
 In die Berechnung des Stimmrechtsanteils nach § 25a Absatz 2 des
@@ -1083,10 +1016,6 @@ Wertpapierhandelsgesetzes sind nicht einzubeziehen:
     Wertpapierhandelsgesetzes zum jeweiligen Erwerbszeitpunkt die Aktien
     mit höchstens 20 Prozent Berücksichtigung finden.
 
-
-
-
-
 #### § 18 Art, Form und Sprache der Mitteilung
 
 Mitteilungen nach § 21 Abs. 1 Satz 1, Abs. 1a, § 25 Abs. 1 Satz 1 und
@@ -1094,14 +1023,12 @@ Mitteilungen nach § 21 Abs. 1 Satz 1, Abs. 1a, § 25 Abs. 1 Satz 1 und
 oder mittels Telefax in deutscher oder englischer Sprache an den
 Emittenten und die Bundesanstalt zu übersenden.
 
-
 #### § 19 Inhalt der Veröffentlichung
 
 Die Veröffentlichung nach § 26 Abs. 1 Satz 1 des
 Wertpapierhandelsgesetzes muss die Angaben der Mitteilung enthalten;
 der Mitteilungspflichtige ist mit vollständigem Namen, Sitz und Staat,
 in dem sich sein Wohnort oder Sitz befindet, anzugeben.
-
 
 #### § 20 Art und Sprache der Veröffentlichung
 
@@ -1111,24 +1038,19 @@ jedoch kann abweichend hiervon der Emittent die Mitteilung in
 englischer Sprache veröffentlichen, wenn er die Mitteilung in
 englischer Sprache erhalten hat.
 
-
 #### § 21 Mitteilung der Veröffentlichung
 
 Für die Mitteilung des Emittenten über die Veröffentlichung an die
 Bundesanstalt nach § 26 Abs. 2 des Wertpapierhandelsgesetzes gilt §
 3c.
 
-
 ### Unterabschnitt 6 - Veröffentlichung und Inhalt von Finanzberichten
-
-
 
 #### § 22 Art und Sprache der Veröffentlichung
 
 Für die Art und Sprache der Veröffentlichung der Bekanntmachung nach §
 37v Abs. 1 Satz 2, § 37w Abs. 1 Satz 2 und § 37x Abs. 1 Satz 2 des
 Wertpapierhandelsgesetzes gelten die §§ 3a und 3b.
-
 
 #### § 23 Mitteilung der Veröffentlichung
 
@@ -1137,17 +1059,13 @@ Bekanntmachung an die Bundesanstalt nach § 37v Abs. 1 Satz 3, § 37w
 Abs. 1 Satz 3 und § 37x Abs. 1 Satz 3 des Wertpapierhandelsgesetzes
 gilt § 3c.
 
-
 #### § 24 Verfügbarkeit der Finanzberichte
 
 Die Informationen im Sinn von § 37v Abs. 2 und § 37w Abs. 2 des
 Wertpapierhandelsgesetzes müssen für mindestens fünf Jahre im
 Unternehmensregister der Öffentlichkeit zugänglich sein.
 
-
 ### Unterabschnitt 7 - Wahl des Herkunftsstaates
-
-
 
 #### § 25 Art der Veröffentlichung
 
@@ -1155,10 +1073,7 @@ Die Wahl der Bundesrepublik Deutschland als Herkunftsstaat nach § 2b
 des Wertpapierhandelsgesetzes ist nach Maßgabe des § 3a zu
 veröffentlichen.
 
-
 ### Unterabschnitt 8 - Veröffentlichung zusätzlicher Angaben
-
-
 
 #### § 26 Art, Sprache und Mitteilung der Veröffentlichung
 
@@ -1169,10 +1084,7 @@ des Wertpapierhandelsgesetzes jedoch ausschließlich in englischer
 Sprache veröffentlichen. Die Mitteilung nach § 30e Abs. 1 Satz 1 des
 Wertpapierhandelsgesetzes erfolgt nach § 3c.
 
-
 ## Abschnitt 4 - Inkrafttreten
-
-
 
 ### § 27 Inkrafttreten
 

@@ -23,7 +23,6 @@ Fundstelle
     Berufsschule werden demnächst als Beilage zum Bundesanzeiger
     veröffentlicht.
 
-
 ## Eingangsformel
 
 Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des
@@ -33,7 +32,6 @@ geändert worden ist, verordnet das Bundesministerium für Wirtschaft
 und Technologie im Einvernehmen mit dem Bundesministerium für Bildung
 und Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf des Tourismuskaufmanns (Kaufmann für Privat- und
@@ -41,11 +39,9 @@ Geschäftsreisen) und der Tourismuskauffrau (Kauffrau für Privat- und
 Geschäftsreisen) wird nach § 4 Absatz 1 des Berufsbildungsgesetzes
 staatlich anerkannt.
 
-
 ## § 2 Dauer der Berufsausbildung
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Struktur der Berufsausbildung
 
@@ -58,10 +54,6 @@ Die Berufsausbildung gliedert sich in
 
 2.  eine im Ausbildungsvertrag festzulegende Wahlqualifikationseinheit
     nach § 4 Absatz 2 Abschnitt B.
-
-
-
-
 
 ## § 4 Ausbildungsrahmenplan, Ausbildungsberufsbild
 
@@ -259,13 +251,6 @@ Pflichtqualifikationseinheiten nach § 3 Nummer 1:
 
     2.5 Datenschutz und Datensicherheit.
 
-
-
-
-
-
-
-
 ## § 5 Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
@@ -285,7 +270,6 @@ zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
 Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
 Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
 durchzusehen.
-
 
 ## § 6 Zwischenprüfung
 
@@ -327,10 +311,6 @@ folgende Vorgaben:
 
 
 3.  die Prüfungszeit beträgt 120 Minuten.
-
-
-
-
 
 ## § 7 Abschlussprüfung
 
@@ -527,7 +507,6 @@ kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich
 sind das bisherige Ergebnis und das Ergebnis der mündlichen
 Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
-
 ## § 8 Zusatzqualifikationen
 
 (1) Im Rahmen der Berufsausbildung nicht gewählte
@@ -536,7 +515,6 @@ Zusatzqualifikationen vermittelt werden.
 
 (2) Für die Vermittlung der Zusatzqualifikationen gilt die in der
 Anlage 1 Abschnitt B enthaltene sachliche Gliederung entsprechend.
-
 
 ## § 9 Prüfung der Zusatzqualifikationen
 
@@ -551,7 +529,6 @@ vermittelt worden sind.
 (3) Die Prüfung der jeweiligen Zusatzqualifikation ist bestanden, wenn
 der Prüfling mindestens ausreichende Leistungen erbracht hat.
 
-
 ## § 10 Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
@@ -559,13 +536,11 @@ bestehen, können unter Anrechnung der bisher zurückgelegten
 Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt
 werden, wenn die Vertragsparteien dies vereinbaren.
 
-
 ## § 11 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2011 in Kraft. Gleichzeitig tritt
 die Verordnung über die Berufsausbildung zum Reiseverkehrskaufmann/zur
 Reiseverkehrskauffrau vom 18. März 2005 (BGBl. I S. 806) außer Kraft.
-
 
 ## Anlage 1 (zu § 4 Absatz 1 Satz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Tourismuskaufmann (Kaufmann für Privat- und Geschäftsreisen) und zur Tourismuskauffrau (Kauffrau für Privat- und Geschäftsreisen) – Sachliche Gliederung –
 
@@ -1652,12 +1627,6 @@ nach § 3 Nummer 1**
 
 
         b)  Datenpflege und Datensicherung durchführen und kontrollieren
-
-
-
-
-
-
 
 ## Anlage 2 (zu § 4 Absatz 1 Satz 2) Ausbildungsrahmenplan für die Berufsausbildung zum Tourismuskaufmann (Kaufmann für Privat- und Geschäftsreisen) und zur Tourismuskauffrau (Kauffrau für Privat- und Geschäftsreisen) – Zeitliche Gliederung –
 

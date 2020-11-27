@@ -18,16 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 6 G v. 5.12.2012 I 2415
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## 1. Abschnitt - Anwendungsbereich
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -98,10 +94,7 @@ Zustimmung des Bundesrates für anwendbar erklärt wird.
 (4) Behörde im Sinne dieses Gesetzes ist jede Stelle, die Aufgaben der
 öffentlichen Verwaltung wahrnimmt.
 
-
 ## 2. Abschnitt - Allgemeine Grundsätze für Kostenverordnungen
-
-
 
 ### § 2 Bindung des Verordnungsgebers
 
@@ -109,7 +102,6 @@ Beim Erlaß von Rechtsverordnungen, die auf Grund bundesrechtlicher
 Ermächtigung gebührenpflichtige Tatbestände, Gebührensätze sowie die
 Auslagenerstattung regeln, hat der Verordnungsgeber sich im Rahmen der
 Vorschriften dieses Abschnitts zu halten.
-
 
 ### § 3 Gebührengrundsätze
 
@@ -123,12 +115,10 @@ bemessen, daß das geschätzte Gebührenaufkommen den auf die
 Amtshandlungen entfallenden durchschnittlichen Personal- und
 Sachaufwand für den betreffenden Verwaltungszweig nicht übersteigt.
 
-
 ### § 4 Gebührenarten
 
 Die Gebühren sind durch feste Sätze, Rahmensätze oder nach dem Wert
 des Gegenstandes zu bestimmen.
-
 
 ### § 5 Pauschgebühren
 
@@ -137,14 +127,12 @@ Gebührenschuldner können Pauschgebühren vorgesehen werden. Bei der
 Bemessung der Pauschgebührensätze ist der geringere Umfang des
 Verwaltungsaufwandes zu berücksichtigen.
 
-
 ### § 6 Kostenermäßigung und Kostenbefreiung
 
 Für bestimmte Arten von Amtshandlungen können aus Gründen der
 Billigkeit oder des öffentlichen Interesses Gebührenermäßigung und
 Auslagenermäßigung sowie Gebührenbefreiung und Auslagenbefreiung
 vorgesehen oder zugelassen werden.
-
 
 ### § 7 Sachliche Gebührenfreiheit
 
@@ -166,13 +154,7 @@ Gebühren sind nicht vorzusehen für
     gesetzlichen Dienstpflicht oder einer Tätigkeit ergeben, die an Stelle
     der gesetzlichen Dienstpflicht geleistet werden kann.
 
-
-
-
-
 ## 3. Abschnitt - Allgemeine kostenrechtliche Vorschriften
-
-
 
 ### § 8 Persönliche Gebührenfreiheit
 
@@ -232,10 +214,6 @@ Rechtsträger für Amtshandlungen folgender Behörden verpflichtet:
 
 9.  Akkreditierungsstelle.
 
-
-
-
-
 ### § 9 Gebührenbemessung
 
 (1) Sind Rahmensätze für Gebühren vorgesehen, so sind bei der
@@ -258,7 +236,6 @@ Berechnung maßgebend.
 
 (3) Pauschgebühren werden nur auf Antrag festgesetzt; sie sind im
 voraus festzusetzen.
-
 
 ### § 10 Auslagen
 
@@ -315,7 +292,6 @@ folgende Auslagen erhoben:
 verlangt werden, wenn für eine Amtshandlung Gebührenfreiheit besteht
 oder von der Gebührenerhebung abgesehen wird.
 
-
 ### § 11 Entstehung der Kostenschuld
 
 (1) Die Gebührenschuld entsteht, soweit ein Antrag notwendig ist, mit
@@ -327,12 +303,10 @@ Aufwendung des zu erstattenden Betrages, in den Fällen des § 10 Abs. 1
 Nr. 5 zweiter Halbsatz und Nr. 7 zweiter Halbsatz mit der Beendigung
 der kostenpflichtigen Amtshandlung.
 
-
 ### § 12 Kostengläubiger
 
 Kostengläubiger ist der Rechtsträger, dessen Behörde eine
 kostenpflichtige Amtshandlung vornimmt.
-
 
 ### § 13 Kostenschuldner
 
@@ -352,7 +326,6 @@ kostenpflichtige Amtshandlung vornimmt.
 
 
 (2) Mehrere Kostenschuldner haften als Gesamtschuldner.
-
 
 ### § 14 Kostenentscheidung
 
@@ -387,7 +360,6 @@ nicht entstanden wären, werden nicht erhoben. Das gleiche gilt für
 Auslagen, die durch eine von Amts wegen veranlaßte Verlegung eines
 Termins oder Vertagung einer Verhandlung entstanden sind.
 
-
 ### § 15 Gebühren in besonderen Fällen
 
 (1) Wird ein Antrag ausschließlich wegen Unzuständigkeit der Behörde
@@ -402,7 +374,6 @@ Gebühr um ein Viertel; sie kann bis zu einem Viertel der vorgesehenen
 Gebühr ermäßigt oder es kann von ihrer Erhebung abgesehen werden, wenn
 dies der Billigkeit entspricht.
 
-
 ### § 16 Vorschußzahlung und Sicherheitsleistung
 
 Eine Amtshandlung, die auf Antrag vorzunehmen ist, kann von der
@@ -410,13 +381,11 @@ Zahlung eines angemessenen Vorschusses oder von einer angemessenen
 Sicherheitsleistung bis zur Höhe der voraussichtlich entstehenden
 Kosten abhängig gemacht werden.
 
-
 ### § 17 Fälligkeit
 
 Kosten werden mit der Bekanntgabe der Kostenentscheidung an den
 Kostenschuldner fällig, wenn nicht die Behörde einen späteren
 Zeitpunkt bestimmt.
-
 
 ### § 18 Säumniszuschlag
 
@@ -443,10 +412,6 @@ Betrag auf volle 100 Deutsche Mark nach unten abgerundet.
     oder Postanweisung der Tag, an dem der Betrag der Kasse gutgeschrieben
     wird.
 
-
-
-
-
 ### § 19 Stundung, Niederschlagung und Erlaß
 
 Für die Stundung, die Niederschlagung und den Erlaß von Forderungen
@@ -454,7 +419,6 @@ des Bundes auf Zahlung von Gebühren, Auslagen und sonstigen
 Nebenleistungen gelten die Vorschriften der Bundeshaushaltsordnung. In
 Fällen, in denen ein anderer Rechtsträger als der Bund Kostengläubiger
 ist, gelten die für ihn verbindlichen entsprechenden Vorschriften.
-
 
 ### § 20 Verjährung
 
@@ -486,7 +450,6 @@ aus ihr nicht vor Ablauf von sechs Monaten, nachdem die
 Kostenentscheidung unanfechtbar geworden ist oder das Verfahren sich
 auf andere Weise erledigt hat.
 
-
 ### § 21 Erstattung
 
 (1) Überzahlte oder zu Unrecht erhobene Kosten sind unverzüglich zu
@@ -500,7 +463,6 @@ bis zum Ablauf des dritten Kalenderjahres geltend gemacht wird, das
 auf die Entstehung des Anspruchs folgt; die Verjährung beginnt jedoch
 nicht vor der Unanfechtbarkeit der Kostenentscheidung.
 
-
 ### § 22 Rechtsbehelf
 
 (1) Die Kostenentscheidung kann zusammen mit der Sachentscheidung oder
@@ -511,10 +473,7 @@ Sachentscheidung erstreckt sich auf die Kostenentscheidung.
 Rechtsbehelfsverfahren kostenrechtlich als selbständiges Verfahren zu
 behandeln.
 
-
 ## 4. Abschnitt - Schlußvorschriften
-
-
 
 ### § 23 Verwaltungsvorschriften
 
@@ -522,18 +481,15 @@ Der Bundesminister des Innern wird ermächtigt, zur Durchführung dieses
 Gesetzes mit Zustimmung des Bundesrates allgemeine
 Verwaltungsvorschriften zu erlassen.
 
-
 ### § 24
 
 -
-
 
 ### § 25 Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
 im Land Berlin.
-
 
 ### § 26 Inkrafttreten
 

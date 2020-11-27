@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 Abs. 6 G v. 22.12.2011 I 3044
 
-
 ## § 1 Anwendungsbereich
 
 (1) Diese Verordnung regelt die technischen Anforderungen und
@@ -33,7 +32,6 @@ der Erfüllung der Anforderungen dieser Verordnung.
 für Hersteller und Lieferanten von technischen Systemen und
 Bestandteilen, die zum Einsatz bei den Verfahren bestimmt sind, die in
 dieser Rechtsverordnung geregelt sind.
-
 
 ## § 2 Erfassung von Lichtbild und Fingerabdrücken; dezentrale Qualitätssicherung
 
@@ -59,7 +57,6 @@ als niedergelegt zu vermuten in den Technischen Richtlinien des
 Bundesamtes für Sicherheit in der Informationstechnik. Diese sind in
 der Anlage 1 aufgeführt und gelten in der jeweils im Bundesanzeiger
 veröffentlichten Fassung.
-
 
 ## § 3 Übermittlung der Daten an den Passhersteller
 
@@ -131,7 +128,6 @@ hinsichtlich Datensicherheit und Datenschutz ein den Anforderungen der
 Verordnung entsprechendes Niveau aufweisen. Die Einzelheiten richten
 sich nach dem jeweiligen Landesrecht.
 
-
 ## § 4 Zertifizierung
 
 (1) Die Systemkomponenten der Passbehörden und des Passherstellers,
@@ -148,7 +144,6 @@ Juli 1992 (BGBl. I S. 1230) in der jeweils geltenden Fassung.
 Kostenverordnung vom 3. März 2005 (BGBl. I S. 519) in der jeweils
 geltenden Fassung findet Anwendung.
 
-
 ## § 5 Qualitätsstatistik
 
 Der Passhersteller erstellt eine Qualitätsstatistik. Sie enthält
@@ -159,7 +154,6 @@ Ergebnisse der Auswertung und auf Verlangen die in der Statistik
 erfassten anonymisierten Einzeldaten dem Bundesministerium des Innern
 und dem BSI zur Verfügung.
 
-
 ## § 6 Übergangsregelungen
 
 Passbehörden, die zum Zeitpunkt des Inkrafttretens dieser Verordnung
@@ -167,7 +161,6 @@ bereits ein Verfahren zur elektronischen Datenübertragung betreiben,
 das auf einem von den Vorgaben des § 3 Abs. 3 Satz 1 abweichenden
 Datenaustauschformat (XPass) beruht, können dieses Verfahren bis zum
 31\. Dezember 2012 weiterführen.
-
 
 ## Anlage 1 Übersicht über die Technischen Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik
 
@@ -190,10 +183,6 @@ Datenaustauschformat (XPass) beruht, können dieses Verfahren bis zum
 
 4.  BSI: Technische Richtlinie TR-03132, Sichere Szenarien für
     Kommunikationsprozesse im Bereich hoheitlicher Dokumente (TR SiSKo hD)
-
-
-
-
 
 ## Anlage 2 Übersicht über die zu zertifizierenden Systemkomponenten
 

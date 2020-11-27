@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 508
 
-
 ## (XXXX)
 
 Auf Grund des § 6a Absatz 2 des Gebrauchsmustergesetzes, der durch
@@ -198,10 +197,6 @@ Ausstellungen gewährt:
 38. „REHAB INTERNATIONAL – 17. Internationale Fachmesse für
     Rehabilitation, Therapie und Prävention“
     vom 25. bis 27. April 2013 in Karlsruhe
-
-
-
-
 
 ## Schlussformel
 

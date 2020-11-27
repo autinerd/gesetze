@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 36 G v. 21.12.2000 I 1956
 
-
 ## Eingangsformel
 
 Auf Grund des § 5 Abs. 7 des Ölschadengesetzes vom 30. September 1988
@@ -31,7 +30,6 @@ eines Internationalen Fonds zur Entschädigung für
 Ölverschmutzungsschäden (BGBl. 1975 II S. 301) verordnet das
 Bundesministerium für Wirtschaft im Einvernehmen mit dem
 Bundesministerium der Justiz:
-
 
 ## § 1 Begriffsbestimmungen
 
@@ -48,10 +46,6 @@ Im Sinne dieser Verordnung ist
 3.  Meldepflichtiger jede Person, die nach § 5 Abs. 2 des
     Ölschadengesetzes verpflichtet ist, Angaben über den Erhalt von Öl zu
     machen.
-
-
-
-
 
 ## § 2 Inhalt der Meldepflicht
 
@@ -91,12 +85,10 @@ Jahres folgende Angaben zu machen:
 (2) Die Meldung hat auf den vom Bundesamt für Wirtschaft und
 Ausfuhrkontrolle (BAFA) herausgegebenen Vordrucken zu erfolgen.
 
-
 ## § 3 Assoziierungsverhältnis
 
 Der Meldepflichtige hat auf Verlangen Auskunft darüber zu erteilen, ob
 die Voraussetzungen des § 5 Abs. 5 des Ölschadengesetzes vorliegen.
-
 
 ## § 4 Schätzung
 
@@ -104,14 +96,12 @@ Im Fall der Schätzung des Ölerhalts einer beitragspflichtigen Person
 nach § 5 Abs. 3 des Ölschadengesetzes soll die Dauer der Nachfrist
 zwei Wochen nicht überschreiten.
 
-
 ## § 5 Änderungen der Vertragszugehörigkeit
 
 Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) teilt den im
 Vorjahr beitragspflichtigen sowie den sonst für eine Beitragspflicht
 in Betracht kommenden Personen die Änderung der Vertragszugehörigkeit
 eines Staates mit.
-
 
 ## § 6 Inkrafttreten, Außerkrafttreten
 

@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 2327
 
-
 ## I. Pensionsfestsetzungs- und Regelungsbehörden
 
 Nach § 49 Abs. 1 Satz 2 des Beamtenversorgungsgesetzes in der Fassung
@@ -127,10 +126,6 @@ gehören insbesondere
     in den Fällen des § 14a Abs. 3 Satz 3 in Verbindung mit § 35 Abs. 3
     Satz 2 des Beamtenversorgungsgesetzes.
 
-
-
-
-
 ## II. Entscheidung über Widersprüche in Angelegenheiten der Beamtenversorgung und des Versorgungsausgleichs
 
 Nach § 172 des Bundesbeamtengesetzes in der Fassung der Bekanntmachung
@@ -155,7 +150,6 @@ müssen oder den Erlass eines Verwaltungsakts abgelehnt haben.
 (2) Der Vorstand behält sich vor, in Einzelfällen über Widersprüche
 selbst zu entscheiden.
 
-
 ## III. Vertretung des Dienstherrn bei Klagen in Angelegenheiten der Beamtenversorgung und des Versorgungsausgleichs
 
 Nach § 174 Abs. 3 des Bundesbeamtengesetzes in der Fassung der
@@ -172,11 +166,9 @@ Niederlassung Human Resources Deutschland übertragen.
 (2) Für besondere Fälle behält sich der Vorstand die Vertretung des
 Dienstherrn vor.
 
-
 ## IV. Schlussvorschriften
 
 Diese Anordnung wird am 1. Oktober 2006 wirksam.
-
 
 ## Schlussformel
 

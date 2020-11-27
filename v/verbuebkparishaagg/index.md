@@ -19,19 +19,15 @@ Fundstelle
 Geändert durch
 :   Art. 49 G v. 8.12.2010 I 1864
 
-
-
 ## Art 1
 
 -
-
 
 ## Art 2
 
 Die nach dem Haager Musterabkommen der inländischen Behörde
 zufallenden Geschäfte übernimmt das Deutsche Patent- und Markenamt. Es
 kann Bestimmungen über das Verfahren erlassen.
-
 
 ## Art 3
 

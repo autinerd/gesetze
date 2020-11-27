@@ -20,17 +20,13 @@ Fundstelle
 Geändert durch
 :   Art. 18 G v. 27.12.2003 I 3022
 
-
 ## Eingangsformel
 
 Auf Grund des § 14 Abs. 4 des Heimgesetzes vom 7. August 1974 (BGBl. I
 S. 1873) wird im Einvernehmen mit dem Bundesminister für Wirtschaft
 mit Zustimmung des Bundesrates verordnet:
 
-
 ## Erster Teil - Allgemeine Vorschriften
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -46,7 +42,6 @@ entgegengenommen werden.
 Bau, zum Erwerb, zur Instandsetzung, zur Ausstattung oder zum Betrieb
 einer Einrichtung gewährt werden.
 
-
 ### § 2 Begriff des Trägers
 
 Träger im Sinne dieser Verordnung sind natürliche oder juristische
@@ -56,7 +51,6 @@ der Empfänger von Leistungen im Sinne des § 1, der in einer
 Einrichtung, für die diese Leistungen verwendet werden sollen,
 lediglich das Belegungsrecht ausübt.
 
-
 ### § 3 Verpflichtung anderer Personen
 
 Ermächtigt der Träger andere Personen zur Entgegennahme oder
@@ -64,17 +58,13 @@ Verwendung der Leistungen, so hat er sicherzustellen, daß auch diese
 Personen die ihm nach dieser Verordnung obliegenden Pflichten
 erfüllen.
 
-
 ### § 4 Zwingende Vorschriften
 
 Die Pflichten des Trägers nach dieser Verordnung einschließlich der
 Pflichten nach § 3 können vertraglich weder ausgeschlossen noch
 beschränkt werden.
 
-
 ## Zweiter Teil - Pflichten des Trägers
-
-
 
 ### § 5 Anzeige- und Informationspflicht
 
@@ -88,7 +78,6 @@ des § 1 über die sich aus diesem Vertrag ergebenden Rechte und
 Pflichten, insbesondere über die Sicherung der Rückzahlungsansprüche,
 zu informieren.
 
-
 ### § 6 Verwendungszweck
 
 (1) Der Träger darf Leistungen im Sinne des § 1 nur zur Vorbereitung
@@ -100,7 +89,6 @@ erbracht wird, untergebracht ist oder untergebracht werden soll.
 (2) Der Träger darf Leistungen im Sinne des § 1 erst verwenden, wenn
 die Finanzierung der Maßnahme, für die sie gewährt werden, gesichert
 und in einem Finanzierungsplan ausgewiesen ist.
-
 
 ### § 7 Beschränkungen
 
@@ -141,7 +129,6 @@ S. 613),
 zuletzt geändert durch Gesetz vom 28. Februar 1978 (BGBl. I S. 333),
 verfolgt.
 
-
 ### § 8 Getrennte Verwaltung
 
 (1) Der Träger hat die ihm gewährten Leistungen im Sinne des § 1 bis
@@ -169,13 +156,11 @@ Bewerber oder Bewohner entrichteten Zinsen.
 (4) Die Absätze 1 bis 3 gelten nicht, wenn Bürgschaften nach § 12 Abs.
 2 geleistet worden sind.
 
-
 ### § 9 Leistungen zum Betrieb
 
 Die Vorschriften des § 6 Abs. 2 sowie der §§ 7 und 8 gelten nicht für
 Leistungen im Sinne des § 1, die zum Betrieb der Einrichtung gewährt
 werden.
-
 
 ### § 10 Verrechnung, Rückzahlung
 
@@ -194,7 +179,6 @@ so sind die Leistungen des bisherigen Bewohners ohne Einhaltung der
 Frist nach Absatz 2 unverzüglich in dem Umfang zurückzuzahlen, in dem
 der nachfolgende Bewohner für die Belegung des Heimplatzes eine
 Leistung im Sinne des § 1 erbracht hat.
-
 
 ### § 11 Sicherheitsleistungen
 
@@ -221,7 +205,6 @@ der Sicherheit erforderlichen Urkunden auszuhändigen.
 (5) Die Sicherheit ist in dem Umfang aufrechtzuerhalten, in dem
 Leistungen im Sinne des § 1 nicht verrechnet oder nicht zurückgezahlt
 worden sind.
-
 
 ### § 12 Formen der Sicherheit
 
@@ -273,10 +256,6 @@ Versicherungsunternehmen sind nur solche geeignet, die
     aus dem Versicherungsvertrag auch in den Fällen des Konkurs- und des
     Vergleichsverfahrens des Trägers unmittelbar berechtigen.
 
-
-
-
-
 ### § 13 Versicherungspflicht
 
 (1) Einrichtungen, die mit Leistungen im Sinne des § 1 gebaut,
@@ -293,14 +272,12 @@ abzuschließen.
 ausreichend, wenn das haftende Grundstück in der in Absatz 1 Satz 1
 genannten Form versichert ist.
 
-
 ### § 14 Auskunftspflicht
 
 Werden Leistungen im Sinne des § 1 mit dem Entgelt verrechnet, kann
 der Bewohner einmal jährlich von dem Träger Auskunft über seinen
 Kontostand verlangen. Bei Vorliegen eines besonderen Grundes ist die
 Auskunft jederzeit zu erteilen.
-
 
 ### § 15 Rechnungslegung
 
@@ -322,10 +299,7 @@ diesem oder dessen Rechtsnachfolger Rechnung zu legen über
 Leistungen des Bewohners durch Verrechnung oder in sonstiger Weise vor
 Beendigung des Heimvertrages voll zurückgezahlt werden.
 
-
 ## Dritter Teil - Prüfung der Einhaltung der Pflichten
-
-
 
 ### § 16 Prüfung
 
@@ -341,7 +315,6 @@ und Unterlagen zu gewähren. Er hat ihm alle Aufklärungen und Nachweise
 zur Durchführung einer ordnungsgemäßen Prüfung zu geben.
 
 (4) Die Kosten der Prüfung übernimmt der Träger.
-
 
 ### § 17 Aufzeichnungspflicht
 
@@ -380,10 +353,6 @@ ersichtlich sein
 
 
 10. die Rechnungslegung nach § 15.
-
-
-
-
 
 ### § 18 Prüfer
 
@@ -433,7 +402,6 @@ verwerten, die ihm bei der Prüfung bekannt geworden sind.
 (4) Der Prüfer hat bei Verletzung seiner Pflicht nach Absatz 3 den
 hieraus entstehenden Schaden zu ersetzen.
 
-
 ### § 19 Prüfungsbericht
 
 (1) Das Ergebnis der Prüfung ist unverzüglich nach ihrer Durchführung
@@ -454,10 +422,7 @@ Erstellung der zuständigen Behörde zuzuleiten.
 Der Prüfungsbericht kann von ihnen und von einem Vertreter des
 Heimbeirates eingesehen werden.
 
-
 ## Vierter Teil - Ordnungswidrigkeiten und Schlußvorschriften
-
-
 
 ### § 20 Ordnungswidrigkeiten
 
@@ -495,10 +460,6 @@ handelt, wer vorsätzlich oder fahrlässig
 
 8.  entgegen § 19 Abs. 3 den Prüfungsbericht nicht zuleitet.
 
-
-
-
-
 ### § 21 Übergangsvorschriften und Befreiungen
 
 (1) Die Vorschriften der Verordnung finden keine Anwendung auf
@@ -512,18 +473,15 @@ Inkrafttretens dieser Verordnung bereits bestehende Einrichtung in
 ihrem wirtschaftlichen Bestand gefährdet. Die Befreiung von den
 Pflichten nach § 11 kann nur befristet erteilt werden.
 
-
 ### § 22 Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 24 des Heimgesetzes auch im Land Berlin.
 
-
 ### § 23 Inkrafttreten
 
 Diese Verordnung tritt am ersten Tage des auf die Verkündung folgenden
 vierten Kalendermonats in Kraft.
-
 
 ### Schlußformel
 

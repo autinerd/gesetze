@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1994, 89
 
-
-
 ## (XXXX)
 
 Zwischen dem Land Brandenburg und dem Land Sachsen-Anhalt wurde am 24.

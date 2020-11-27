@@ -18,30 +18,23 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 G v. 21.6.2006 I 1323
 
-
 ## Art I - Änderung von Gesetzen
-
-
 
 ### § 1 Änderung des Lastenausgleichsgesetzes
 
 -
 
-
 ### § 2 Änderung des Feststellungsgesetzes
 
 -
-
 
 ### § 3 Änderung des Währungsausgleichsgesetzes
 
 -
 
-
 ### § 4 Änderung des Gesetzes zur Einführung von Vorschriften des Lastenausgleichsrechts im Saarland
 
 -
-
 
 ### § 5 Änderung des Wohnungsbaugesetzes für das Saarland
 
@@ -183,21 +176,11 @@ ergänzt:
     e)  In Absatz 5 werden nach den Worten "an den Bund" die Worte "und den
         Ausgleichsfonds" eingefügt.
 
-
-
-
-
-
-
-
 ### § 6 Änderung des Allgemeinen Kriegsfolgengesetzes
 
 -
 
-
 ## Art II - Überleitungs- und Schlußvorschriften
-
-
 
 ### § 7 Übergangsregelung bei der Kriegsschadenrente
 
@@ -227,7 +210,6 @@ auf den Grundbetrag der Hauptentschädigung anzurechnen. Die Gewährung
 der Abgeltungssumme steht der Gewährung eines Mindesterfüllungsbetrags
 nach § 278a Abs. 4 des Lastenausgleichsgesetzes nicht entgegen.
 
-
 ### § 8 Kosten im verwaltungsgerichtlichen Verfahren bei Klaglosstellung
 
 Soweit ein Beteiligter während eines im Zeitpunkt des Inkrafttretens
@@ -245,18 +227,15 @@ außergerichtliche Kosten werden gegeneinander aufgehoben. Bis zum
 Inkrafttreten dieses Gesetzes rechtskräftig gewordene
 Kostenentscheidungen bleiben unberührt.
 
-
 ### § 9 Amtsdauer der Beisitzer von Ausgleichsausschüssen und Beschwerdeausschüssen
 
 Die Amtsdauer der im Zeitpunkt des Inkrafttretens dieses Gesetzes in
 den Ausgleichsausschüssen und in den Beschwerdeausschüssen tätigen
 ehrenamtlichen Beisitzer wird auf vier Jahre verlängert.
 
-
 ### § 10
 
 (weggefallen)
-
 
 ### § 11 Kredite zur Räumung von Wohnlagern in Österreich
 
@@ -266,7 +245,6 @@ insbesondere von Vertriebenen und Umsiedlern, die sich noch in
 österreichischen Wohnlagern befinden, zinsfreie Darlehen bis zum
 Gesamtbetrag von 13 Millionen Deutsche Mark zu gewähren und vom
 Rechnungsjahr 1961 ab je nach Baufortschritt auszuzahlen.
-
 
 ### § 12 Erlaß einer Rechtsverordnung
 
@@ -286,7 +264,6 @@ Voraussetzungen der
 §§ 55a              und
 55b              des Lastenausgleichsgesetzes teils in der Person des
 einen und teils in der Person des anderen Ehegatten erfüllt sind.
-
 
 ### § 13 Anwendungszeitpunkt
 
@@ -327,7 +304,6 @@ vor dem Inkrafttreten dieses Gesetzes geltenden Fassung maßgebend. §
 dieses Gesetzes gilt für die Anwendung der §§ 266, 272, 273, 280 und
 282 des Lastenausgleichsgesetzes vom 1. April 1957 ab.
 
-
 ### § 14 Anwendung in Berlin
 
 Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 und des § 13 Abs. 1
@@ -335,7 +311,6 @@ des Dritten Überleitungsgesetzes vom 4. Januar 1952 (BGBl. I S. 1)
 auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes
 erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 Überleitungsgesetzes.
-
 
 ### § 15 Inkrafttreten
 

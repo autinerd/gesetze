@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 1057
 
-
-
 ## (XXXX)
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
@@ -44,11 +42,9 @@ Der glatte Münzrand enthält in vertiefter Prägung die Inschrift:
 . HEITER IST DIE KUNST".
 Der Entwurf der Münze stammt von Herrn Carsten Theumer aus Höhnstedt.
 
-
 ## Schlussformel
 
 Der Bundesminister der Finanzen
-
 
 ## (XXXX)
 

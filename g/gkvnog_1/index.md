@@ -19,10 +19,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 G v. 24.3.1998 I 526
 
-
 ## (XXXX) Art 1 und 2
-
-
 
 ## Art 3 Übergangsregelung
 
@@ -38,7 +35,6 @@ Sozialgesetzbuch bleiben Beitragsverminderungen auf Grund von § 2 Abs.
 1 des Gesetzes zur Beitragsentlastung der gesetzlichen
 Krankenversicherung vom 1. November 1996 (BGBl. I S. 1631) außer
 Betracht.
-
 
 ## Art 4 Inkrafttreten
 

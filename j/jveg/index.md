@@ -20,10 +20,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 13 G v. 5.12.2012 I 2418
 
-
 ## Abschnitt 1 - Allgemeine Vorschriften
-
-
 
 ### § 1 Geltungsbereich und Anspruchsberechtigte
 
@@ -76,7 +73,6 @@ Ordnungswidrigkeiten entsprechend.
 und die Vertrauensleute in den Ausschüssen zur Wahl der ehrenamtlichen
 Richter bei den Gerichten der Verwaltungs- und der
 Finanzgerichtsbarkeit werden wie ehrenamtliche Richter entschädigt.
-
 
 ### § 2 Geltendmachung und Erlöschen des Anspruchs, Verjährung
 
@@ -139,7 +135,6 @@ Entschädigung verjährt in drei Jahren nach Ablauf des Kalenderjahrs,
 in dem die Zahlung erfolgt ist. § 5 Abs. 3 des Gerichtskostengesetzes
 gilt entsprechend.
 
-
 ### § 3 Vorschuss
 
 Auf Antrag ist ein angemessener Vorschuss zu bewilligen, wenn dem
@@ -147,7 +142,6 @@ Berechtigten erhebliche Fahrtkosten oder sonstige Aufwendungen
 entstanden sind oder voraussichtlich entstehen werden oder wenn die zu
 erwartende Vergütung für bereits erbrachte Teilleistungen einen Betrag
 von 2 000 Euro übersteigt.
-
 
 ### § 4 Gerichtliche Festsetzung und Beschwerde
 
@@ -240,7 +234,6 @@ werden.
 (9) Die Beschlüsse nach den Absätzen 1, 2, 4 und 5 wirken nicht zu
 Lasten des Kostenschuldners.
 
-
 ### § 4a Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör
 
 (1) Auf die Rüge eines durch die Entscheidung nach diesem Gesetz
@@ -282,7 +275,6 @@ Verfahren fortführt, soweit dies aufgrund der Rüge geboten ist.
 
 (6) Kosten werden nicht erstattet.
 
-
 ### § 4b Elektronische Akte, elektronisches Dokument
 
 (1) Die Vorschriften über die elektronische Akte und das gerichtliche
@@ -302,10 +294,7 @@ mitzuteilen.
 (3) Ein elektronisches Dokument ist eingereicht, sobald die für den
 Empfang bestimmte Einrichtung des Gerichts es aufgezeichnet hat.
 
-
 ## Abschnitt 2 - Gemeinsame Vorschriften
-
-
 
 ### § 5 Fahrtkostenersatz
 
@@ -357,7 +346,6 @@ anderen als zu diesem Ort zurückgefahren, werden Mehrkosten nach
 billigem Ermessen nur dann ersetzt, wenn der Berechtigte zu diesen
 Fahrten durch besondere Umstände genötigt war.
 
-
 ### § 6 Entschädigung für Aufwand
 
 (1) Wer innerhalb der Gemeinde, in der der Termin stattfindet, weder
@@ -370,7 +358,6 @@ bestimmt.
 (2) Ist eine auswärtige Übernachtung notwendig, wird ein
 Übernachtungsgeld nach den Bestimmungen des Bundesreisekostengesetzes
 gewährt.
-
 
 ### § 7 Ersatz für sonstige Aufwendungen
 
@@ -394,10 +381,7 @@ angefertigt worden sind.
 anstelle der in Absatz 2 genannten Ablichtungen und Ausdrucke werden
 2,50 Euro je Datei ersetzt.
 
-
 ## Abschnitt 3 - Vergütung von Sachverständigen, Dolmetschern und Übersetzern
-
-
 
 ### § 8 Grundsatz der Vergütung
 
@@ -433,7 +417,6 @@ gewöhnlichen Aufenthalt im Ausland haben, kann unter Berücksichtigung
 ihrer persönlichen Verhältnisse, insbesondere ihres regelmäßigen
 Erwerbseinkommens, nach billigem Ermessen eine höhere als die in
 Absatz 1 bestimmte Vergütung gewährt werden.
-
 
 ### § 9 Honorar für die Leistung der Sachverständigen und Dolmetscher
 
@@ -543,7 +526,6 @@ veranlasst war, einen Einkommensverlust erlitten hat und ihm die
 Aufhebung erst am Terminstag oder an einem der beiden vorhergehenden
 Tage mitgeteilt worden ist.
 
-
 ### § 10 Honorar für besondere Leistungen
 
 (1) Soweit ein Sachverständiger oder ein sachverständiger Zeuge
@@ -560,7 +542,6 @@ entsprechend; im Übrigen bleiben die §§ 7 und 12 unberührt.
 (3) Soweit für die Erbringung einer Leistung nach Absatz 1 oder Absatz
 2 zusätzliche Zeit erforderlich ist, erhält der Berechtigte ein
 Honorar nach der Honorargruppe 1.
-
 
 ### § 11 Honorar für Übersetzungen
 
@@ -584,7 +565,6 @@ Auftrags beträgt das Honorar mindestens 15 Euro.
 Schriftstücken oder Aufzeichnungen der Telekommunikation auf bestimmte
 Inhalte besteht, ohne dass er insoweit eine schriftliche Übersetzung
 anfertigen muss, erhält er ein Honorar wie ein Dolmetscher.
-
 
 ### § 12 Ersatz für besondere Aufwendungen
 
@@ -622,7 +602,6 @@ der Gemeinkosten wird durch einen Zuschlag von 15 Prozent auf den
 Betrag abgegolten, der als notwendige Aufwendung für die Hilfskräfte
 zu ersetzen ist, es sei denn, die Hinzuziehung der Hilfskräfte hat
 keine oder nur unwesentlich erhöhte Gemeinkosten veranlasst.
-
 
 ### § 13 Besondere Vergütung
 
@@ -699,7 +678,6 @@ Berücksichtigung der Erklärungen der Parteien oder Beteiligten
 zuzuordnen oder mit welchem Betrag für 55 Anschläge in diesem Fall
 eine Übersetzung zu honorieren wäre.
 
-
 ### § 14 Vereinbarung der Vergütung
 
 Mit Sachverständigen, Dolmetschern und Übersetzern, die häufiger
@@ -709,10 +687,7 @@ diesen bestimmte Stelle eine Vereinbarung über die zu gewährende
 Vergütung treffen, deren Höhe die nach diesem Gesetz vorgesehene
 Vergütung nicht überschreiten darf.
 
-
 ## Abschnitt 4 - Entschädigung von ehrenamtlichen Richtern
-
-
 
 ### § 15 Grundsatz der Entschädigung
 
@@ -755,14 +730,9 @@ gewährt. Die letzte bereits begonnene Stunde wird voll gerechnet.
     Ausschüsse teilnehmen (§§ 29, 38 des Arbeitsgerichtsgesetzes, §§ 23,
     35 Abs. 1, § 47 des Sozialgerichtsgesetzes).
 
-
-
-
-
 ### § 16 Entschädigung für Zeitversäumnis
 
 Die Entschädigung für Zeitversäumnis beträgt 5 Euro je Stunde.
-
 
 ### § 17 Entschädigung für Nachteile bei der Haushaltsführung
 
@@ -777,7 +747,6 @@ abzüglich der Zahl an Stunden, die der vereinbarten regelmäßigen
 täglichen Arbeitszeit entspricht. Die Entschädigung wird nicht
 gewährt, soweit Kosten einer notwendigen Vertretung erstattet werden.
 
-
 ### § 18 Entschädigung für Verdienstausfall
 
 Für den Verdienstausfall wird neben der Entschädigung nach § 16 eine
@@ -791,10 +760,7 @@ sechs Tagen ihrer regelmäßigen Erwerbstätigkeit entzogen werden. Sie
 beträgt bis zu 51 Euro je Stunde für ehrenamtliche Richter, die in
 demselben Verfahren an mehr als 50 Tagen herangezogen werden.
 
-
 ## Abschnitt 5 - Entschädigung von Zeugen und Dritten
-
-
 
 ### § 19 Grundsatz der Entschädigung
 
@@ -837,7 +803,6 @@ insbesondere ihres regelmäßigen Erwerbseinkommens, nach billigem
 Ermessen eine höhere als die in den §§ 20 bis 22 bestimmte
 Entschädigung gewährt werden.
 
-
 ### § 20 Entschädigung für Zeitversäumnis
 
 Die Entschädigung für Zeitversäumnis beträgt 3 Euro je Stunde, soweit
@@ -845,7 +810,6 @@ weder für einen Verdienstausfall noch für Nachteile bei der
 Haushaltsführung eine Entschädigung zu gewähren ist, es sei denn, dem
 Zeugen ist durch seine Heranziehung ersichtlich kein Nachteil
 entstanden.
-
 
 ### § 21 Entschädigung für Nachteile bei der Haushaltsführung
 
@@ -859,7 +823,6 @@ abzüglich der Zahl an Stunden, die der vereinbarten regelmäßigen
 täglichen Arbeitszeit entspricht. Die Entschädigung wird nicht
 gewährt, soweit Kosten einer notwendigen Vertretung erstattet werden.
 
-
 ### § 22 Entschädigung für Verdienstausfall
 
 Zeugen, denen ein Verdienstausfall entsteht, erhalten eine
@@ -869,7 +832,6 @@ Sozialversicherungsbeiträge richtet und für jede Stunde höchstens 17
 Euro beträgt. Gefangene, die keinen Verdienstausfall aus einem
 privatrechtlichen Arbeitsverhältnis haben, erhalten Ersatz in Höhe der
 entgangenen Zuwendung der Vollzugsbehörde.
-
 
 ### § 23 Entschädigung Dritter
 
@@ -934,10 +896,7 @@ machen.
 fremde gleich, wenn die durch die Auskunftserteilung entstandenen
 direkt zurechenbaren Kosten (§ 7) nicht sicher feststellbar sind.
 
-
 ## Abschnitt 6 - Schlussvorschriften
-
-
 
 ### § 24 Übergangsvorschrift
 
@@ -947,7 +906,6 @@ berechnen, wenn der Auftrag an den Sachverständigen, Dolmetscher oder
 der Berechtigte vor diesem Zeitpunkt herangezogen worden ist. Dies
 gilt auch, wenn Vorschriften geändert werden, auf die dieses Gesetz
 verweist.
-
 
 ### § 25 Übergangsvorschrift aus Anlass des Inkrafttretens dieses Gesetzes
 
@@ -964,7 +922,6 @@ Auftrag an den Sachverständigen, Dolmetscher oder Übersetzer vor dem
 herangezogen worden ist. Satz 1 gilt für Heranziehungen vor dem 1.
 Juli 2004 auch dann, wenn der Berechtigte in derselben Rechtssache
 auch nach dem 1. Juli 2004 herangezogen worden ist.
-
 
 ### Anlage 1 (zu § 9 Abs. 1)
 
@@ -1169,7 +1126,6 @@ I   Todesursachenklärung, ärztlichen             I          I
 I   Behandlungsfehlern oder einer Beurteilung    I          I
 I   der Schuldfähigkeit.                        I          I
 -------------------------------------------------------------
-
 
 ### Anlage 2 (zu § 10 Abs. 1)
 
@@ -1723,10 +1679,6 @@ I   der Schuldfähigkeit.                        I          I
     *   Vorbereitung und Erstattung des Gutachtens für jede weitere Person
 
     *   55,00
-
-
-
-
 
 ### Anlage 3 (zu § 23 Abs. 1)
 

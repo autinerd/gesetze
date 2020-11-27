@@ -16,14 +16,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 790
 
-
 ## Eingangsformel
 
 Auf Grund des § 5 Absatz 4 Satz 1 des Artikel 115-Gesetzes vom 10.
 August 2009 (BGBl. I S. 2702, 2704) verordnet das Bundesministerium
 der Finanzen im Einvernehmen mit dem Bundesministerium für Wirtschaft
 und Technologie:
-
 
 ## § 1 Gegenstand der Verordnung
 
@@ -32,7 +30,6 @@ der Aufstellung des Bundeshaushalts nach § 2 Absatz 2 des Gesetzes,
 bei Nachträgen zum Haushaltsgesetz nach § 8 Satz 3 des Gesetzes sowie
 nach Abschluss des Haushaltsjahres nach § 7 Absatz 1 Satz 1 des
 Gesetzes.
-
 
 ## § 2 Ermittlung der Konjunkturkomponente bei der Haushaltsaufstellung
 
@@ -71,7 +68,6 @@ Statistischen Bundesamtes sowie die jeweils aktuelle
 gesamtwirtschaftliche Vorausschätzung der Bundesregierung für die
 kurze und die mittlere Frist.
 
-
 ## § 3 Ermittlung der Konjunkturkomponente nach Haushaltsabschluss
 
 Bei der Ermittlung der nach § 7 des Gesetzes auf dem Kontrollkonto zu
@@ -88,7 +84,6 @@ Kontrollkonto vom Statistischen Bundesamt festgestellten und der zum
 Zeitpunkt der Haushaltsaufstellung erwarteten Veränderung des
 Bruttoinlandsprodukts.
 
-
 ## § 4 Ermittlung der Konjunkturkomponente bei Nachträgen zum Haushaltsgesetz
 
 Bei Nachträgen zum Haushaltsgesetz nach § 8 Satz 3 des Gesetzes wird
@@ -100,7 +95,6 @@ Produktionslücke um die Differenz zwischen der zum Zeitpunkt der
 Aufstellung des Nachtragshaushalts und der zum Zeitpunkt der
 Haushaltsaufstellung erwarteten Veränderung des Bruttoinlandsprodukts
 im Haushaltsjahr korrigiert wird.
-
 
 ## § 5 Inkrafttreten
 

@@ -21,7 +21,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 173 V v. 31.10.2006 I 2407
 
-
 ## § 1 Rechtsform, Bezeichnung, Sitz und Kapital
 
 Die Kreditanstalt für Wiederaufbau ist eine Anstalt des öffentlichen
@@ -59,7 +58,6 @@ dreiundfünfzigtausendneunhundertacht Euro dem ERP-Sondervermögen zu.
 (5) Die Anteile am Grundkapital können nicht verpfändet und nur unter
 den Beteiligten abgetreten werden.
 
-
 ## § 1a Haftung des Bundes
 
 Der Bund haftet für die von der Bank aufgenommenen Darlehen und
@@ -67,7 +65,6 @@ begebenen Schuldverschreibungen, die als Festgeschäfte ausgestalteten
 Termingeschäfte, die Rechte aus Optionen und andere Kredite an die
 Anstalt, sowie für Kredite an Dritte, soweit sie von der Anstalt
 ausdrücklich gewährleistet werden.
-
 
 ## § 2 Aufgaben und Geschäfte
 
@@ -187,7 +184,6 @@ ein Geschäft handelt, an dem ein staatliches Interesse der
 Bundesrepublik Deutschland besteht und das der Anstalt im Einzelfall
 von der Bundesregierung zugewiesen wird.
 
-
 ## § 3 Durchführung der Geschäfte
 
 (1) Bei der Gewährung von Finanzierungen nach § 2 Abs. 1 Nr. 1
@@ -218,7 +214,6 @@ anzuwenden.
 (4) Finanzierungen für fremde Rechnung bedürfen nicht der Zustimmung
 des Verwaltungsrates nach Absatz 1 oder 2.
 
-
 ## § 4 Mittelbeschaffung
 
 (1) Zur Beschaffung der erforderlichen Mittel kann die Anstalt
@@ -232,14 +227,12 @@ Hundert der mittel- und langfristigen Verbindlichkeiten nicht
 lautenden Schuldverschreibungen sind zur Anlegung von Mündelgeld
 geeignet.
 
-
 ## § 5 Organe
 
 (1) Organe der Anstalt sind der Vorstand und der Verwaltungsrat.
 
 (2) Aufgaben und Befugnisse der Organe regelt, soweit das Gesetz
 nichts anderes bestimmt, die Satzung.
-
 
 ## § 6 Vorstand
 
@@ -266,7 +259,6 @@ genügt die Abgabe gegenüber einem Mitglied des Vorstandes.
 (5) Die Bezüge der Mitglieder des Vorstandes werden durch Vertrag
 zwischen diesen und der Anstalt, vertreten durch den Verwaltungsrat,
 geregelt.
-
 
 ## § 7 Verwaltungsrat
 
@@ -341,7 +333,6 @@ Arten von Geschäften vorbehalten.
 Absatzes 5 Satz 1 und 2 und der §§ 8, 9 und 10 widerruflich auf
 Ausschüsse übertragen. Das Nähere bestimmt die Satzung.
 
-
 ## § 7a Mittelstandsrat
 
 (1) Bei der Kreditanstalt für Wiederaufbau wird ein Mittelstandsrat
@@ -359,7 +350,6 @@ Mittelstandsbank nach § 2 Abs. 2. Er berät und beschließt über
 Vorschläge zur Förderung des Mittelstandes unter Berücksichtigung der
 Gesamtgeschäftsplanung der Anstalt.
 
-
 ## § 8 Satzung
 
 (1) Die Satzung der Anstalt wird vom Vorstand aufgestellt und vom
@@ -373,7 +363,6 @@ Genehmigung der Aufsichtsbehörde.
 
 (3) Die Satzung und ihre Änderungen sind von der Anstalt im
 Bundesanzeiger zu veröffentlichen.
-
 
 ## § 9 Jahresabschluß
 
@@ -394,7 +383,6 @@ er die Genehmigung nicht erteilt.
 in § 55 Abs. 2 des Haushaltsgrundsätzegesetzes und in § 112 Abs. 2 der
 Bundeshaushaltsordnung aufgeführten Rechte zu.
 
-
 ## § 10 Reingewinn
 
 (1) Eine Gewinnausschüttung findet nicht statt.
@@ -408,7 +396,6 @@ Reingewinns zu berücksichtigen.
 
 (3) Der weitere Reingewinn ist einer Sonderrücklage zuzuweisen.
 
-
 ## § 11 Rechtsstellung
 
 (1) Der Anstalt stehen in bezug auf Besteuerung, Errichtung von
@@ -418,7 +405,6 @@ die Bezeichnungen "Bank" und "Bankengruppe" zu führen.
 
 (2) Die Vorschriften des Handelsgesetzbuchs über die Eintragung in das
 Handelsregister sind auf die Anstalt nicht anzuwenden.
-
 
 ## § 12 Aufsicht
 
@@ -432,7 +418,6 @@ sonstigen Bestimmungen im Einklang zu halten.
 eine mit Dienstsiegel versehene Bestätigung des Bundesministeriums der
 Finanzen geführt.
 
-
 ## § 12a Finanzierungen durch ein rechtlich selbständiges Unternehmen
 
 Finanzierungen gemäß § 2 Abs. 1 Nr. 4 Satz 3 sind spätestens ab dem 1.
@@ -440,7 +425,6 @@ Januar 2008 von einem rechtlich selbstständigen Unternehmen ohne
 öffentliche Unterstützung durchzuführen. Zu diesem Zeitpunkt bereits
 vereinbarte Finanzierungen dürfen in der Anstalt noch abgewickelt
 werden.
-
 
 ## § 13 Auflösung
 
@@ -459,7 +443,6 @@ Anstalt ausgewiesenen, einzelnen Anteilseignern zuzurechnenden
 Kapitalrücklagen und Sonderrücklagen an die hieraus Berechtigten zu
 verteilen. Im Übrigen ist das Vermögen im Verhältnis der Anteile am
 Grundkapital zu verteilen.
-
 
 ## § 14 Inkrafttreten
 

@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1994, 90
 
-
-
 ## Eingangsformel
 
 Das Land Brandenburg und das Land Sachsen-Anhalt schließen auf der
@@ -26,7 +24,6 @@ Grundlage des Artikels 29 Absatz 7 des Grundgesetzes und des Gesetzes
 Länder nach Artikel 29 Absatz 7 des Grundgesetzes vom 30. Juli 1979
 (BGBl. I S. 1325) nach Anhörung der betroffenen Gemeinden und
 Gemeindeverbände nachstehenden Staatsvertrag:
-
 
 ## Art 1
 
@@ -39,7 +36,6 @@ Jessen, Gemeinde Holzdorf, eingegliedert.
 der Anlage kartographisch dargestellt. Die Anlage ist Bestandteil
 dieses Vertrages.
 
-
 ## Art 2
 
 Durch die Änderung der Grenze zwischen den vertragschließenden Ländern
@@ -51,7 +47,6 @@ bei ihm anhängigen oder anhängig gewesenen Verfahren bestimmt
 Wiederaufnahme des Verfahrens, Vollstreckungsgegenklage,
 Entscheidungen über die Strafvollstreckung).
 
-
 ## Art 3
 
 Das in dem nach Artikel 1 abzutretenden Gebietsteil belegene
@@ -60,7 +55,6 @@ mit allen Rechten, Lasten und Verpflichtungen ohne Entschädigung
 spätestens mit Inkrafttreten dieses Vertrages auf die im Land Sachsen-
 Anhalt zuständige entsprechende Körperschaft des öffentlichen Rechts
 über.
-
 
 ## Art 4
 
@@ -87,7 +81,6 @@ dieses Vertrages.
 im Absatz 1 und 3 bestimmten Fristen im Einzelfall einvernehmlich
 verlängern.
 
-
 ## Art 5
 
 (1) Dieser Vertrag bedarf der Ratifikation. Die Ratifikationsurkunden
@@ -95,7 +88,6 @@ werden unverzüglich ausgetauscht.
 
 (2) Dieser Vertrag tritt am Tag, der auf den Austausch der
 Ratifikationsurkunden folgt, in Kraft.
-
 
 ## Schlußformel
 
@@ -108,7 +100,6 @@ Für den Ministerpräsidenten
 des Landes Sachsen-Anhalt
 Der Minister des Innern
 des Landes Sachsen-Anhalt
-
 
 ## Anlage zum Staatsvertrag zwischen den Ländern Brandenburg und Sachsen-Anhalt über die Änderung der gemeinsamen Landesgrenze vom 24.8.1993
 

@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 4 G v. 15.12.2011 I 2714
 
-
 ## Erster Abschnitt - Allgemeine Vorschriften
-
-
 
 ### § 1
 
@@ -57,7 +54,6 @@ Doppelbuchung zu bestimmen. Es kann hierbei auch regeln, inwieweit
 der Rechtsverordnung ergeben, den Beteiligten und der Behörde, die das
 in § 2 Abs. 2 bezeichnete amtliche Verzeichnis führt, bekanntzugeben
 sind.
-
 
 ### § 2
 
@@ -99,7 +95,6 @@ von verfälschten Auszügen besteht. Satz 1 gilt entsprechend für andere
 Fälle, in denen dem Grundbuchamt Angaben aus dem amtlichen Verzeichnis
 zu übermitteln sind. Die Landesregierungen können die Ermächtigung
 durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
-
 
 ### § 3
 
@@ -156,7 +151,6 @@ ist, in allen beteiligten Grundbuchblättern kenntlich zu machen, daß
 das dienende Grundstück als Ganzes belastet ist; hierbei ist jeweils
 auf die übrigen Eintragungen zu verweisen.
 
-
 ### § 4
 
 (1) Über mehrere Grundstücke desselben Eigentümers, deren Grundbücher
@@ -173,7 +167,6 @@ welches das Grundbuch über die Hofstelle führt; im übrigen ist das
 zuständige Grundbuchamt nach § 5 des Gesetzes über das Verfahren in
 Familiensachen und in den Angelegenheiten der freiwilligen
 Gerichtsbarkeit zu bestimmen.
-
 
 ### § 5
 
@@ -195,7 +188,6 @@ ist durch Vorlage einer von der zuständigen Behörde beglaubigten Karte
 nachzuweisen. Das erhebliche Bedürfnis ist glaubhaft zu machen; § 29
 gilt hierfür nicht.
 
-
 ### § 6
 
 (1) Ein Grundstück soll nur dann einem anderen Grundstück als
@@ -207,7 +199,6 @@ und, wenn dem Antrag stattgegeben wird, für die Führung des Grundbuchs
 Grundbuch über das Hauptgrundstück führt.
 
 (2) § 5 Abs. 2 findet entsprechende Anwendung.
-
 
 ### § 6a
 
@@ -228,7 +219,6 @@ nicht.
 entsprochen werden, wenn das Erbbaurecht sowohl an einem Grundstück
 als auch an einem anderen Erbbaurecht bestellt werden soll.
 
-
 ### § 7
 
 (1) Soll ein Grundstücksteil mit einem Recht belastet werden, so ist
@@ -240,11 +230,9 @@ Abschreibung unterbleiben, wenn hiervon Verwirrung nicht zu besorgen
 ist. Jedoch sind auch in diesem Fall die Vorschriften des § 2 Abs. 3
 über die Vorlegung einer Karte entsprechend anzuwenden.
 
-
 ### § 8
 
 (weggefallen)
-
 
 ### § 9
 
@@ -259,7 +247,6 @@ geändert oder aufgehoben wird.
 
 (3) Die Eintragung des Vermerks (Absatz 1) ist auf dem Blatt des
 belasteten Grundstücks von Amts wegen ersichtlich zu machen.
-
 
 ### § 10
 
@@ -278,7 +265,6 @@ Amtsgerichts enthalten ist.
 (3) (weggefallen)
 
 (4) (weggefallen)
-
 
 ### § 10a
 
@@ -304,13 +290,11 @@ Schriftstücke ausgesondert werden können. Welche Schriftstücke dies
 sind und unter welchen Voraussetzungen sie ausgesondert werden können,
 ist in der Rechtsverordnung nach Satz 1 zu bestimmen.
 
-
 ### § 11
 
 Eine Eintragung in das Grundbuch ist nicht aus dem Grunde unwirksam,
 weil derjenige, der sie bewirkt hat, von der Mitwirkung kraft Gesetzes
 ausgeschlossen ist.
-
 
 ### § 12
 
@@ -335,10 +319,6 @@ Zustimmung des Bundesrates bestimmen, dass
 2.  bei Behörden von der Darlegung des berechtigten Interesses abgesehen
     werden kann, ebenso bei solchen Personen, bei denen es auf Grund ihres
     Amtes oder ihrer Tätigkeit gerechtfertigt ist.
-
-
-
-
 
 ### § 12a
 
@@ -365,7 +345,6 @@ gelten § 126 Abs. 2 und § 133 entsprechend.
 Landesjustizverwaltung auch das Liegenschaftskataster verwendet
 werden.
 
-
 ### § 12b
 
 (1) Nach der Übertragung von geschlossenen Grundbüchern und Grundakten
@@ -379,7 +358,6 @@ sich die Einsicht nach Landesrecht.
 (2) Soweit in dem in Artikel 3 des Einigungsvertrages genannten Gebiet
 Grundakten und frühere Grundbücher von anderen als den
 grundbuchführenden Stellen aufbewahrt werden, gilt § 12 entsprechend.
-
 
 ### § 12c
 
@@ -457,10 +435,7 @@ Entscheidung ist die Beschwerde nach dem Vierten Abschnitt gegeben.
 Örtlich zuständig ist das Gericht, in dessen Bezirk die Stelle ihren
 Sitz hat.
 
-
 ## Zweiter Abschnitt - Eintragungen in das Grundbuch
-
-
 
 ### § 13
 
@@ -486,7 +461,6 @@ oder das Ersuchen auf mehrere Grundstücke in verschiedenen
 Geschäftsbereichen desselben Grundbuchamts, so ist jeder zuständig,
 der nach Satz 1 in Betracht kommt.
 
-
 ### § 14
 
 Die Berichtigung des Grundbuchs durch Eintragung eines Berechtigten
@@ -494,7 +468,6 @@ darf auch von demjenigen beantragt werden, welcher auf Grund eines
 gegen den Berechtigten vollstreckbaren Titels eine Eintragung in das
 Grundbuch verlangen kann, sofern die Zulässigkeit dieser Eintragung
 von der vorgängigen Berichtigung des Grundbuchs abhängt.
-
 
 ### § 15
 
@@ -511,7 +484,6 @@ und Verfügungen des Grundbuchamtes nach § 18.
 Notar beurkundet oder beglaubigt, so gilt dieser als ermächtigt, im
 Namen eines Antragsberechtigten die Eintragung zu beantragen.
 
-
 ### § 16
 
 (1) Einem Eintragungsantrag, dessen Erledigung an einen Vorbehalt
@@ -521,13 +493,11 @@ geknüpft wird, soll nicht stattgegeben werden.
 Antragsteller bestimmt werden, daß die eine Eintragung nicht ohne die
 andere erfolgen soll.
 
-
 ### § 17
 
 Werden mehrere Eintragungen beantragt, durch die dasselbe Recht
 betroffen wird, so darf die später beantragte Eintragung nicht vor der
 Erledigung des früher gestellten Antrags erfolgen.
-
 
 ### § 18
 
@@ -546,12 +516,10 @@ Erledigung dieses Antrags. Die Vormerkung oder der Widerspruch wird
 von Amts wegen gelöscht, wenn der früher gestellte Antrag
 zurückgewiesen wird.
 
-
 ### § 19
 
 Eine Eintragung erfolgt, wenn derjenige sie bewilligt, dessen Recht
 von ihr betroffen wird.
-
 
 ### § 20
 
@@ -560,7 +528,6 @@ Bestellung, Änderung des Inhalts oder Übertragung eines Erbbaurechts
 darf die Eintragung nur erfolgen, wenn die erforderliche Einigung des
 Berechtigten und des anderen Teils erklärt ist.
 
-
 ### § 21
 
 Steht ein Recht, das durch die Eintragung betroffen wird, dem
@@ -568,7 +535,6 @@ jeweiligen Eigentümer eines Grundstücks zu, so bedarf es der
 Bewilligung der Personen, deren Zustimmung nach § 876 Satz 2 des
 Bürgerlichen Gesetzbuchs zur Aufhebung des Rechtes erforderlich ist,
 nur dann, wenn das Recht auf dem Blatt des Grundstücks vermerkt ist.
-
 
 ### § 22
 
@@ -581,7 +547,6 @@ Verfügungsbeschränkung.
 oder eines Erbbauberechtigten darf, sofern nicht der Fall des § 14
 vorliegt oder die Unrichtigkeit nachgewiesen wird, nur mit Zustimmung
 des Eigentümers oder des Erbbauberechtigten erfolgen.
-
 
 ### § 23
 
@@ -599,14 +564,12 @@ Todeserklärung aussprechenden Urteils.
 bedarf es nicht, wenn im Grundbuch eingetragen ist, daß zur Löschung
 des Rechtes der Nachweis des Todes des Berechtigten genügen soll.
 
-
 ### § 24
 
 Die Vorschriften des § 23 sind entsprechend anzuwenden, wenn das Recht
 mit der Erreichung eines bestimmten Lebensalters des Berechtigten oder
 mit dem Eintritt eines sonstigen bestimmten Zeitpunkts oder
 Ereignisses erlischt.
-
 
 ### § 25
 
@@ -618,7 +581,6 @@ entsprechend anzuwenden, wenn auf Grund eines vorläufig
 vollstreckbaren Urteils nach den Vorschriften der Zivilprozeßordnung
 oder auf Grund eines Bescheides nach dem Vermögensgesetz eine
 Vormerkung oder ein Widerspruch eingetragen ist.
-
 
 ### § 26
 
@@ -632,14 +594,12 @@ der Hypothek, Grundschuld oder Rentenschuld oder die Übertragung oder
 Belastung einer Forderung, für die ein eingetragenes Recht als Pfand
 haftet, eingetragen werden soll.
 
-
 ### § 27
 
 Eine Hypothek, eine Grundschuld oder eine Rentenschuld darf nur mit
 Zustimmung des Eigentümers des Grundstücks gelöscht werden. Für eine
 Löschung zur Berichtigung des Grundbuchs ist die Zustimmung nicht
 erforderlich, wenn die Unrichtigkeit nachgewiesen wird.
-
 
 ### § 28
 
@@ -657,7 +617,6 @@ erheben sind, zugelassen und, wenn gegen die Fortdauer dieser
 Zulassung währungspolitische Bedenken bestehen, wieder eingeschränkt
 werden.
 
-
 ### § 29
 
 (1) Eine Eintragung soll nur vorgenommen werden, wenn die
@@ -673,12 +632,10 @@ sind, des Nachweises durch öffentliche Urkunden.
 Eintragung vorgenommen werden soll, sind zu unterschreiben und mit
 Siegel oder Stempel zu versehen.
 
-
 ### § 29a
 
 Die Voraussetzungen des § 1179 Nr. 2 des Bürgerlichen Gesetzbuchs sind
 glaubhaft zu machen; § 29 gilt hierfür nicht.
-
 
 ### § 30
 
@@ -686,7 +643,6 @@ Für den Eintragungsantrag sowie für die Vollmacht zur Stellung eines
 solchen gelten die Vorschriften des § 29 nur, wenn durch den Antrag
 zugleich eine zu der Eintragung erforderliche Erklärung ersetzt werden
 soll.
-
 
 ### § 31
 
@@ -696,7 +652,6 @@ Dies gilt nicht, sofern der Antrag auf eine Berichtigung des
 Grundbuchs gerichtet ist. Satz 1 gilt für eine Erklärung, durch die
 eine zur Stellung des Eintragungsantrags erteilte Vollmacht widerrufen
 wird, entsprechend.
-
 
 ### § 32
 
@@ -715,7 +670,6 @@ Absatzes 1 Satz 1 der Nachweis auch durch die Bezugnahme auf das
 Register geführt werden. Dabei sind das Registergericht und das
 Registerblatt anzugeben.
 
-
 ### § 33
 
 (1) Der Nachweis, daß zwischen Ehegatten Gütertrennung oder ein
@@ -727,11 +681,9 @@ Güterrechtsregister geführt.
 (2) Ist das Grundbuchamt zugleich das Registergericht, so genügt statt
 des Zeugnisses nach Absatz 1 die Bezugnahme auf das Register.
 
-
 ### § 34
 
 (weggefallen)
-
 
 ### § 35
 
@@ -760,7 +712,6 @@ wert ist und die Beschaffung des Erbscheins oder des Zeugnisses nach §
 1507 des Bürgerlichen Gesetzbuchs nur mit unverhältnismäßigem Aufwand
 an Kosten oder Mühe möglich ist. Der Antragsteller kann auch zur
 Versicherung an Eides Statt zugelassen werden.
-
 
 ### § 36
 
@@ -793,7 +744,6 @@ b)  die Abgabe der Erklärungen der Beteiligten in einer den Vorschriften
 (3) Die Vorschriften über die Zuständigkeit zur Entgegennahme der
 Auflassung bleiben unberührt.
 
-
 ### § 37
 
 Die Vorschriften des § 36 sind entsprechend anzuwenden, wenn bei einer
@@ -802,13 +752,11 @@ dem Gesamtgut einer ehelichen oder fortgesetzten Gütergemeinschaft
 gehört, einer der Beteiligten als neuer Gläubiger eingetragen werden
 soll.
 
-
 ### § 38
 
 In den Fällen, in denen nach gesetzlicher Vorschrift eine Behörde
 befugt ist, das Grundbuchamt um eine Eintragung zu ersuchen, erfolgt
 die Eintragung auf Grund des Ersuchens der Behörde.
-
 
 ### § 39
 
@@ -819,7 +767,6 @@ durch sie betroffen wird, als der Berechtigte eingetragen ist.
 Brief erteilt ist, steht es der Eintragung des Gläubigers gleich, wenn
 dieser sich im Besitz des Briefes befindet und sein Gläubigerrecht
 nach § 1155 des Bürgerlichen Gesetzbuchs nachweist.
-
 
 ### § 40
 
@@ -835,7 +782,6 @@ Titel begründet wird.
 eines Testamentsvollstreckers oder auf Grund eines gegen diesen
 vollstreckbaren Titels, sofern die Bewilligung oder der Titel gegen
 den Erben wirksam ist.
-
 
 ### § 41
 
@@ -856,7 +802,6 @@ beantragt wird. Soll die Erteilung des Briefes nachträglich
 ausgeschlossen oder die Hypothek gelöscht werden, so genügt die
 Vorlegung des Ausschlußurteils.
 
-
 ### § 42
 
 Die Vorschriften des § 41 sind auf die Grundschuld und die
@@ -866,7 +811,6 @@ Briefes nur dann nicht, wenn der Eintragungsantrag durch die
 Bewilligung eines nach § 1189 des Bürgerlichen Gesetzbuchs bestellten
 Vertreters oder durch eine gegen ihn erlassene gerichtliche
 Entscheidung begründet wird.
-
 
 ### § 43
 
@@ -880,7 +824,6 @@ Urkunde zu vermerken.
 Grund der Bewilligung eines nach § 1189 des Bürgerlichen Gesetzbuchs
 bestellten Vertreters oder auf Grund einer gegen diesen erlassenen
 gerichtlichen Entscheidung bewirkt werden soll.
-
 
 ### § 44
 
@@ -916,7 +859,6 @@ wie sie nach Absatz 2 zulässig wäre. Sofern hierdurch der Inhalt der
 Eintragung nicht verändert wird, kann auch von dem ursprünglichen Text
 der Eintragung abgewichen werden.
 
-
 ### § 45
 
 (1) Sind in einer Abteilung des Grundbuchs mehrere Eintragungen zu
@@ -933,7 +875,6 @@ Eintragung der früher beantragten im Rang nachsteht.
 Rangverhältnis nicht besteht oder das Rangverhältnis von den
 Antragstellern abweichend bestimmt ist.
 
-
 ### § 46
 
 (1) Die Löschung eines Rechtes oder einer Verfügungsbeschränkung
@@ -943,7 +884,6 @@ erfolgt durch Eintragung eines Löschungsvermerks.
 Grundstücksteils auf ein anderes Blatt ein eingetragenes Recht nicht
 mitübertragen, so gilt es in Ansehung des Grundstücks oder des Teils
 als gelöscht.
-
 
 ### § 47
 
@@ -957,7 +897,6 @@ eingetragen werden, so sind auch deren Gesellschafter im Grundbuch
 einzutragen. Die für den Berechtigten geltenden Vorschriften gelten
 entsprechend für die Gesellschafter.
 
-
 ### § 48
 
 (1) Werden mehrere Grundstücke mit einem Recht belastet, so ist auf
@@ -970,14 +909,12 @@ ein anderes Grundbuchblatt ein eingetragenes Recht mitübertragen wird.
 (2) Soweit eine Mitbelastung erlischt, ist dies von Amts wegen zu
 vermerken.
 
-
 ### § 49
 
 Werden Dienstbarkeiten und Reallasten als Leibgedinge, Leibzucht,
 Altenteil oder Auszug eingetragen, so bedarf es nicht der Bezeichnung
 der einzelnen Rechte, wenn auf die Eintragungsbewilligung Bezug
 genommen wird.
-
 
 ### § 50
 
@@ -990,13 +927,11 @@ eingetragen wird.
 Grundschuld oder eine Rentenschuld für den Inhaber des Briefes
 eingetragen und das Recht in Teile zerlegt werden soll.
 
-
 ### § 51
 
 Bei der Eintragung eines Vorerben ist zugleich das Recht des Nacherben
 und, soweit der Vorerbe von den Beschränkungen seines Verfügungsrechts
 befreit ist, auch die Befreiung von Amts wegen einzutragen.
-
 
 ### § 52
 
@@ -1004,7 +939,6 @@ Ist ein Testamentsvollstrecker ernannt, so ist dies bei der Eintragung
 des Erben von Amts wegen miteinzutragen, es sei denn, daß der
 Nachlaßgegenstand der Verwaltung des Testamentsvollstreckers nicht
 unterliegt.
-
 
 ### § 53
 
@@ -1020,13 +954,11 @@ nicht, wenn der Widerspruch den im § 41 Abs. 1 Satz 2 bezeichneten
 Inhalt hat. Diese Vorschrift ist nicht anzuwenden, wenn der
 Grundschuld- oder Rentenschuldbrief auf den Inhaber ausgestellt ist.
 
-
 ### § 54
 
 Die auf einem Grundstück ruhenden öffentlichen Lasten als solche sind
 von der Eintragung in das Grundbuch ausgeschlossen, es sei denn, daß
 ihre Eintragung gesetzlich besonders zugelassen oder angeordnet ist.
-
 
 ### § 55
 
@@ -1078,7 +1010,6 @@ des neuen Eigentümers aufgenommen werden.
 (8) Sonstige Vorschriften über die Bekanntmachung von Eintragungen in
 das Grundbuch bleiben unberührt.
 
-
 ### § 55a
 
 (1) Enthält ein beim Grundbuchamt eingegangenes Schriftstück Anträge
@@ -1094,7 +1025,6 @@ Verfügungen, durch die ein Antrag oder Ersuchen auf Eintragung
 zurückgewiesen wird, den anderen beteiligten Grundbuchämtern
 bekanntzugeben.
 
-
 ### § 55b
 
 Soweit das Grundbuchamt auf Grund von Rechtsvorschriften im
@@ -1102,10 +1032,7 @@ Zusammenhang mit Grundbucheintragungen Mitteilungen an Gerichte oder
 Behörden oder sonstige Stellen zu machen hat, muß der Betroffene nicht
 unterrichtet werden. Das gleiche gilt im Falle des § 55a.
 
-
 ## Dritter Abschnitt - Hypotheken-, Grundschuld-, Rentenschuldbrief
-
-
 
 ### § 56
 
@@ -1119,7 +1046,6 @@ zuständigen Person und dem Urkundsbeamten der Geschäftsstelle zu
 unterschreiben. Jedoch kann statt des Urkundsbeamten der
 Geschäftsstelle ein von der Leitung des Amtsgerichts ermächtigter
 Justizangestellter unterschreiben.
-
 
 ### § 57
 
@@ -1135,7 +1061,6 @@ aufgenommen werden.
 ist der Hypothekenbrief auf Antrag zu ergänzen, soweit nicht die
 Ergänzung schon nach anderen Vorschriften vorzunehmen ist.
 
-
 ### § 58
 
 (1) Ist eine Urkunde über die Forderung, für welche eine Hypothek
@@ -1148,7 +1073,6 @@ Auszug aus der Urkunde mit dem Hypothekenbrief verbunden wird.
 
 (3) Zum Nachweis, daß eine Schuldurkunde nicht ausgestellt ist, genügt
 eine darauf gerichtete Erklärung des Eigentümers.
-
 
 ### § 59
 
@@ -1164,7 +1088,6 @@ verschiedenen Grundbuchämtern geführt, so soll jedes Amt für die
 Grundstücke, deren Grundbuchblätter es führt, einen besonderen Brief
 erteilen; die Briefe sind miteinander zu verbinden.
 
-
 ### § 60
 
 (1) Der Hypothekenbrief ist dem Eigentümer des Grundstücks, im Falle
@@ -1173,7 +1096,6 @@ der nachträglichen Erteilung dem Gläubiger auszuhändigen.
 (2) Auf eine abweichende Bestimmung des Eigentümers oder des
 Gläubigers ist die Vorschrift des § 29 Abs. 1 Satz 1 entsprechend
 anzuwenden.
-
 
 ### § 61
 
@@ -1196,7 +1118,6 @@ auf die Unterschrift § 56 Abs. 2 anzuwenden.
 (4) Die Herstellung des Teilhypothekenbriefes soll auf dem bisherigen
 Brief vermerkt werden.
 
-
 ### § 62
 
 (1) Eintragungen, die bei der Hypothek erfolgen, sind von dem
@@ -1213,7 +1134,6 @@ in den Fällen des § 41 Abs. 1 Satz 2 und des § 53 Abs. 2 der Brief
 nicht vorgelegt ist, zu verfahren, um nachträglich den Widerspruch auf
 dem Brief zu vermerken.
 
-
 ### § 63
 
 Wird nach der Erteilung eines Hypothekenbriefs mit der Hypothek noch
@@ -1223,12 +1143,10 @@ Gesamthypothek beantragt wird, die Mitbelastung auf dem bisherigen
 Brief zu vermerken und zugleich der Inhalt des Briefes in Ansehung des
 anderen Grundstücks nach § 57 zu ergänzen.
 
-
 ### § 64
 
 Im Falle der Verteilung einer Gesamthypothek auf die einzelnen
 Grundstücke ist für jedes Grundstück ein neuer Brief zu erteilen.
-
 
 ### § 65
 
@@ -1243,7 +1161,6 @@ abzutrennen.
 die Stelle der Forderung, für welche eine Hypothek besteht, eine
 andere Forderung gesetzt wird.
 
-
 ### § 66
 
 Stehen einem Gläubiger mehrere Hypotheken zu, die gleichen Rang haben
@@ -1252,14 +1169,12 @@ Antrag mit Zustimmung des Eigentümers über die mehreren Hypotheken ein
 Hypothekenbrief in der Weise zu erteilen, daß der Brief die sämtlichen
 Hypotheken umfaßt.
 
-
 ### § 67
 
 Einem Antrag des Berechtigten auf Erteilung eines neuen Briefes ist
 stattzugeben, wenn der bisherige Brief oder in den Fällen der §§ 1162,
 1170, 1171 des Bürgerlichen Gesetzbuchs der Ausschließungsbeschluss
 vorgelegt wird.
-
 
 ### § 68
 
@@ -1272,7 +1187,6 @@ Gläubiger in Betracht kommen, sind auf den neuen Brief zu übertragen.
 
 (3) Die Erteilung des Briefes ist im Grundbuch zu vermerken.
 
-
 ### § 69
 
 Wird eine Hypothek gelöscht, so ist der Brief unbrauchbar zu machen;
@@ -1282,7 +1196,6 @@ neuer Hypothekenbrief, ein Grundschuldbrief oder ein Rentenschuldbrief
 erteilt wird. Eine mit dem bisherigen Brief verbundene Schuldurkunde
 ist abzutrennen und, sofern sie nicht mit dem neuen Hypothekenbrief zu
 verbinden ist, zurückzugeben.
-
 
 ### § 70
 
@@ -1294,10 +1207,7 @@ Rentenschuldbrief muß auch die Ablösungssumme angeben.
 Rentenschuld in Teile zerlegt, so ist über jeden Teil ein besonderer
 Brief herzustellen.
 
-
 ## Vierter Abschnitt - Beschwerde
-
-
 
 ### § 71
 
@@ -1309,12 +1219,10 @@ Beschwerde kann jedoch verlangt werden, daß das Grundbuchamt
 angewiesen wird, nach § 53 einen Widerspruch einzutragen oder eine
 Löschung vorzunehmen.
 
-
 ### § 72
 
 Über die Beschwerde entscheidet das Oberlandesgericht, in dessen
 Bezirk das Grundbuchamt seinen Sitz hat.
-
 
 ### § 73
 
@@ -1330,17 +1238,14 @@ Dokument gilt § 14 Absatz 1 bis 3 und 5 des Gesetzes über das
 Verfahren in Familiensachen und in den Angelegenheiten der
 freiwilligen Gerichtsbarkeit.
 
-
 ### § 74
 
 Die Beschwerde kann auf neue Tatsachen und Beweise gestützt werden.
-
 
 ### § 75
 
 Erachtet das Grundbuchamt die Beschwerde für begründet, so hat es ihr
 abzuhelfen.
-
 
 ### § 76
 
@@ -1356,12 +1261,10 @@ gelöscht, wenn die Beschwerde zurückgenommen oder zurückgewiesen ist.
 eine Verfügung gerichtet ist, durch die ein Zwangsgeld festgesetzt
 wird.
 
-
 ### § 77
 
 Die Entscheidung des Beschwerdegerichts ist mit Gründen zu versehen
 und dem Beschwerdeführer mitzuteilen.
-
 
 ### § 78
 
@@ -1387,16 +1290,13 @@ Gesetzes sowie die §§ 71 bis 74a des Gesetzes über das Verfahren in
 Familiensachen und in den Angelegenheiten der freiwilligen
 Gerichtsbarkeit entsprechende Anwendung.
 
-
 ### § 79
 
 (weggefallen)
 
-
 ### § 80
 
 (weggefallen)
-
 
 ### § 81
 
@@ -1425,14 +1325,9 @@ Landesjustizverwaltungen übertragen. Die Zulassung der elektronischen
 Akte und der elektronischen Form kann auf einzelne Gerichte oder
 Verfahren beschränkt werden.
 
-
 ## Fünfter Abschnitt - Verfahren des Grundbuchamts in besonderen Fällen
 
-
-
 ### I. - Grundbuchberichtigungszwang
-
-
 
 #### § 82
 
@@ -1448,7 +1343,6 @@ Eigentümerin eingetragen, gelten die Sätze 1 und 2 entsprechend, wenn
 die Eintragung eines Gesellschafters gemäß § 47 Absatz 2 unrichtig
 geworden ist.
 
-
 #### § 82a
 
 Liegen die Voraussetzungen des § 82 vor, ist jedoch das
@@ -1456,7 +1350,6 @@ Berichtigungszwangsverfahren nicht durchführbar oder bietet es keine
 Aussicht auf Erfolg, so kann das Grundbuchamt das Grundbuch von Amts
 wegen berichtigen. Das Grundbuchamt kann in diesem Fall das
 Nachlaßgericht um Ermittlung des Erben des Eigentümers ersuchen.
-
 
 #### § 83
 
@@ -1472,10 +1365,7 @@ Erbfall das Grundbuch unrichtig geworden ist und welche
 gebührenrechtlichen Vergünstigungen für eine Grundbuchberichtigung
 bestehen.
 
-
 ### II. - Löschung gegenstandsloser Eintragungen
-
-
 
 #### § 84
 
@@ -1501,7 +1391,6 @@ b)  soweit das Recht, auf das sie sich bezieht, aus tatsächlichen Gründen
 Vormerkungen, Widersprüche, Verfügungsbeschränkungen,
 Enteignungsvermerke und ähnliches.
 
-
 #### § 85
 
 (1) Das Grundbuchamt soll das Verfahren zur Löschung gegenstandsloser
@@ -1516,14 +1405,12 @@ gegenstandslos ist.
 Löschungsverfahren einzuleiten und durchzuführen ist; diese
 Entscheidung ist unanfechtbar.
 
-
 #### § 86
 
 Hat ein Beteiligter die Einleitung des Löschungsverfahrens angeregt,
 so soll das Grundbuchamt die Entscheidung, durch die es die Einleitung
 des Verfahrens ablehnt oder das eingeleitete Verfahren einstellt, mit
 Gründen versehen.
-
 
 #### § 87
 
@@ -1541,10 +1428,6 @@ b)  wenn dem Betroffenen eine Löschungsankündigung zugestellt ist und er
 
 c)  wenn durch einen mit Gründen zu versehenden Beschluß rechtskräftig
     festgestellt ist, daß die Eintragung gegenstandslos ist.
-
-
-
-
 
 #### § 88
 
@@ -1570,10 +1453,6 @@ c)  der Feststellungsbeschluß (§ 87 Buchstabe c) kann auch dann, wenn die
     Person des Beteiligten, dem zugestellt werden soll, unbekannt ist,
     öffentlich zugestellt werden.
 
-
-
-
-
 #### § 89
 
 (1) Die Beschwerde (§ 71) gegen den Feststellungsbeschluß ist binnen
@@ -1587,10 +1466,7 @@ soll vermerkt werden, ob gegen die Entscheidung ein Rechtsmittel
 zulässig und bei welcher Behörde, in welcher Form und binnen welcher
 Frist es einzulegen ist.
 
-
 ### III. - Klarstellung der Rangverhältnisse
-
-
 
 #### § 90
 
@@ -1598,7 +1474,6 @@ Das Grundbuchamt kann aus besonderem Anlaß, insbesondere bei
 Umschreibung unübersichtlicher Grundbücher, Unklarheiten und
 Unübersichtlichkeiten in den Rangverhältnissen von Amts wegen oder auf
 Antrag eines Beteiligten beseitigen.
-
 
 #### § 91
 
@@ -1615,7 +1490,6 @@ Beteiligten zuzustellen.
 
 (4) Der Beschluß, durch den ein Antrag auf Einleitung des Verfahrens
 abgelehnt wird, ist nur dem Antragsteller bekanntzumachen.
-
 
 #### § 92
 
@@ -1643,7 +1517,6 @@ c)  Personen, die ein Recht am Grundstück oder an einem das Grundstück
 (2) Beteiligter ist nicht, wessen Recht von der Rangbereinigung nicht
 berührt wird.
 
-
 #### § 93
 
 Ist der im Grundbuch als Eigentümer oder Berechtigter Eingetragene
@@ -1652,7 +1525,6 @@ Einleitungsbeschlusses dem Grundbuchamt anzuzeigen und anzugeben, was
 ihm über die Person des Berechtigten bekannt ist. Ein schriftlicher
 Hinweis auf diese Pflicht ist ihm zugleich mit dem Einleitungsbeschluß
 zuzustellen.
-
 
 #### § 94
 
@@ -1668,7 +1540,6 @@ an auch als Beteiligter.
 (3) Bestehen Zweifel darüber, wer von mehreren Personen der
 Berechtigte ist, so gelten sämtliche Personen als Berechtigte.
 
-
 #### § 95
 
 (1) Wechselt im Laufe des Verfahrens die Person eines Berechtigten, so
@@ -1679,14 +1550,12 @@ dem Grundbuchamt bekannt wird, als Beteiligter.
 Grundstück oder an einem das Grundstück belastenden Recht begründet
 wird, das von dem Verfahren berührt wird.
 
-
 #### § 96
 
 Ist die Person oder der Aufenthalt eines Beteiligten oder seines
 Vertreters unbekannt, so kann das Grundbuchamt dem Beteiligten für das
 Rangbereinigungsverfahren einen Pfleger bestellen. Für die Pflegschaft
 tritt an die Stelle des Betreuungsgerichts das Grundbuchamt.
-
 
 #### § 97
 
@@ -1705,11 +1574,9 @@ Postsendungen sind mit der Bezeichnung "Einschreiben" zu versehen. Die
 Zustellung gilt mit der Aufgabe zur Post als bewirkt, selbst wenn die
 Sendung als unbestellbar zurückkommt.
 
-
 #### § 98
 
 Die öffentliche Zustellung ist unzulässig.
-
 
 #### § 99
 
@@ -1718,14 +1585,12 @@ Rentenschuldbriefen sowie von Urkunden der in den §§ 1154, 1155 des
 Bürgerlichen Gesetzbuchs bezeichneten Art zur Vorlegung dieser
 Urkunden anhalten.
 
-
 #### § 100
 
 Das Grundbuchamt hat die Beteiligten zu einem Verhandlungstermin über
 die Klarstellung der Rangverhältnisse zu laden. Die Ladung soll den
 Hinweis enthalten, daß ungeachtet des Ausbleibens eines Beteiligten
 über die Klarstellung der Rangverhältnisse verhandelt werden würde.
-
 
 #### § 101
 
@@ -1736,7 +1601,6 @@ Wochen betragen.
 Fortsetzung der Verhandlung nicht anzuwenden. Die zu dem früheren
 Termin Geladenen brauchen zu dem neuen Termin nicht nochmals geladen
 zu werden, wenn dieser verkündet ist.
-
 
 #### § 102
 
@@ -1750,14 +1614,12 @@ beglaubigten Urkunde erteilen.
 (2) Einigen sich die Beteiligten, so ist das Grundbuch der
 Vereinbarung gemäß umzuschreiben.
 
-
 #### § 103
 
 Einigen sich die Beteiligten nicht, so macht das Grundbuchamt ihnen
 einen Vorschlag für eine neue Rangordnung. Es kann hierbei eine
 Änderung der bestehenden Rangverhältnisse, soweit sie zur
 Herbeiführung einer klaren Rangordnung erforderlich ist, vorschlagen.
-
 
 #### § 104
 
@@ -1770,7 +1632,6 @@ kann eine längere Frist bestimmt werden.
 Niederschrift des Urkundsbeamten der Geschäftsstelle eines
 Amtsgerichts einzulegen; in letzterem Fall ist die Widerspruchsfrist
 gewahrt, wenn die Erklärung innerhalb der Frist abgegeben ist.
-
 
 #### § 105
 
@@ -1792,7 +1653,6 @@ freiwilligen Gerichtsbarkeit zulässig.
 neue Rangordnung eingetragen oder wenn seit dem Ende der versäumten
 Frist ein Jahr verstrichen ist.
 
-
 #### § 106
 
 (1) Ist ein Rechtsstreit anhängig, der die Rangverhältnisse des
@@ -1806,13 +1666,11 @@ wenn die Aufstellung einer neuen klaren Rangordnung von der
 Entscheidung eines Streites über die bestehenden Rangverhältnisse
 abhängt.
 
-
 #### § 107
 
 Ist der Rechtsstreit erledigt, so setzt das Grundbuchamt das Verfahren
 insoweit fort, als es noch erforderlich ist, um eine klare Rangordnung
 herbeizuführen.
-
 
 #### § 108
 
@@ -1825,13 +1683,11 @@ Gründen zu versehen.
 (2) Ist über einen Widerspruch entschieden, so ist der Beschluß allen
 Beteiligten zuzustellen.
 
-
 #### § 109
 
 Das Grundbuchamt kann jederzeit das Verfahren einstellen, wenn es sich
 von seiner Fortsetzung keinen Erfolg verspricht. Der
 Einstellungsbeschluß ist unanfechtbar.
-
 
 #### § 110
 
@@ -1843,19 +1699,16 @@ Angelegenheiten der freiwilligen Gerichtsbarkeit zulässig.
 
 (2) Die Rechtsbeschwerde ist unzulässig.
 
-
 #### § 111
 
 Ist die neue Rangordnung rechtskräftig festgestellt, so hat das
 Grundbuchamt das Grundbuch nach Maßgabe dieser Rangordnung
 umzuschreiben.
 
-
 #### § 112
 
 Ist die neue Rangordnung (§ 102 Abs. 2, § 111) eingetragen, so tritt
 sie an die Stelle der bisherigen Rangordnung.
-
 
 #### § 113
 
@@ -1863,12 +1716,10 @@ Wird die neue Rangordnung eingetragen (§ 102 Abs. 2, § 111) oder wird
 das Verfahren eingestellt (§ 109), so ist der Einleitungsvermerk zu
 löschen.
 
-
 #### § 114
 
 Die Kosten des Verfahrens erster Instanz verteilt das Grundbuchamt auf
 die Beteiligten nach billigem Ermessen.
-
 
 #### § 115
 
@@ -1876,10 +1727,7 @@ Wird durch das Verfahren ein anhängiger Rechtsstreit erledigt, so
 trägt jede Partei die ihr entstandenen außergerichtlichen Kosten. Die
 Gerichtskosten werden niedergeschlagen.
 
-
 ## Sechster Abschnitt - Anlegung von Grundbuchblättern
-
-
 
 ### § 116
 
@@ -1890,13 +1738,11 @@ Grundbuchs nicht erhalten hat, wird das Blatt unbeschadet des § 3 Abs.
 (2) Das Verfahren bei der Anlegung des Grundbuchblatts richtet sich
 nach den Vorschriften der §§ 117 bis 125.
 
-
 ### § 117
 
 Das Grundbuchamt hat die zuständige Behörde um Übersendung eines
 beglaubigten Auszugs aus dem für die Bezeichnung der Grundstücke im
 Grundbuch maßgebenden amtlichen Verzeichnis zu ersuchen.
-
 
 ### § 118
 
@@ -1904,12 +1750,10 @@ Zur Feststellung des Eigentums an dem Grundstück hat das Grundbuchamt
 von Amts wegen die erforderlichen Ermittlungen anzustellen und die
 geeigneten Beweise zu erheben.
 
-
 ### § 119
 
 Das Grundbuchamt kann zur Ermittlung des Berechtigten ein Aufgebot
 nach Maßgabe der §§ 120 und 121 erlassen.
-
 
 ### § 120
 
@@ -1933,10 +1777,6 @@ In das Aufgebot sind aufzunehmen:
     widrigenfalls ihr Recht bei der Anlegung des Grundbuchs nicht
     berücksichtigt wird.
 
-
-
-
-
 ### § 121
 
 (1) Das Aufgebot ist an die für den Aushang von Bekanntmachungen des
@@ -1959,7 +1799,6 @@ einem der in Absatz 1 bezeichneten Blätter führen würde.
 nehmen und dem Grundbuchamt bekannt sind, von Amts wegen zugestellt
 werden.
 
-
 ### § 122
 
 Das Grundbuchblatt darf, wenn ein Aufgebotsverfahren (§§ 120, 121)
@@ -1968,7 +1807,6 @@ Gemeinde, in deren Bezirk das Grundstück liegt, das Bevorstehen der
 Anlegung und der Name des als Eigentümer Einzutragenden öffentlich
 bekanntgemacht und seit der Bekanntmachung ein Monat verstrichen ist;
 die Art der Bekanntmachung bestimmt das Grundbuchamt.
-
 
 ### § 123
 
@@ -1983,10 +1821,6 @@ Als Eigentümer ist in das Grundbuch einzutragen:
 
 3.  sonst derjenige, dessen Eigentum nach Lage der Sache dem Grundbuchamt
     am wahrscheinlichsten erscheint.
-
-
-
-
 
 ### § 124
 
@@ -2005,7 +1839,6 @@ durch Eintragung eines Widerspruchs gesichert.
 Entstehung maßgebenden Gesetzen und, wenn er hiernach nicht bestimmt
 werden kann, nach der Reihenfolge ihrer Anmeldung einzutragen.
 
-
 ### § 125
 
 Die Beschwerde gegen die Anlegung des Grundbuchblatts ist unzulässig.
@@ -2013,10 +1846,7 @@ Im Wege der Beschwerde kann jedoch verlangt werden, daß das
 Grundbuchamt angewiesen wird, nach § 53 einen Widerspruch einzutragen
 oder eine Löschung vorzunehmen.
 
-
 ## Siebenter Abschnitt - Das maschinell geführte Grundbuch
-
-
 
 ### § 126
 
@@ -2060,7 +1890,6 @@ auf den Anlagen einer juristischen Person des öffentlichen Rechts
 vorgenommen werden, wenn die ordnungsgemäße Erledigung der
 Grundbuchsachen sichergestellt ist.
 
-
 ### § 127
 
 (1) Die Landesregierungen können durch Rechtsverordnung, zu deren
@@ -2088,7 +1917,6 @@ Eintragung Mitteilung zu machen, besteht diese Verpflichtung bezüglich
 der nach Maßgabe des Absatzes 1 aus dem Liegenschaftskataster in das
 Grundbuch übernommenen Angaben nicht.
 
-
 ### § 128
 
 (1) Das maschinell geführte Grundbuch tritt für ein Grundbuchblatt an
@@ -2108,7 +1936,6 @@ maschinell geführte Grundbuch bestimmten Datenspeicher aufgenommen
 wurde und die Wiedergabe auf dem Bildschirm bildlich mit den
 bisherigen Grundbuchblättern übereinstimmt.
 
-
 ### § 129
 
 (1) Eine Eintragung wird wirksam, sobald sie in den für die
@@ -2122,7 +1949,6 @@ ist. Bei Eintragungen, die gemäß § 127 Abs. 1 Inhalt des Grundbuchs
 werden, bedarf es abweichend von Satz 1 der Angabe des Tages der
 Eintragung im Grundbuch nicht.
 
-
 ### § 130
 
 § 44 Abs. 1 Satz 1, 2 Halbsatz 2 und Satz 3 ist für die maschinelle
@@ -2133,7 +1959,6 @@ Eintragung nicht besonders verfügt, so ist in geeigneter Weise der
 Veranlasser der Speicherung aktenkundig oder sonst feststellbar zu
 machen.
 
-
 ### § 131
 
 Wird das Grundbuch in maschineller Form als automatisierte Datei
@@ -2143,14 +1968,12 @@ werden nicht unterschrieben. Der amtliche Ausdruck ist als solcher zu
 bezeichnen und mit einem Dienstsiegel oder -stempel zu versehen; er
 steht einer beglaubigten Abschrift gleich.
 
-
 ### § 132
 
 Die Einsicht in das maschinell geführte Grundbuch kann auch bei einem
 anderen als dem Grundbuchamt gewährt werden, das dieses Grundbuch
 führt. Über die Gestattung der Einsicht entscheidet das Grundbuchamt,
 bei dem die Einsicht begehrt wird.
-
 
 ### § 133
 
@@ -2242,7 +2065,6 @@ entsprechend.
 
 (8) (weggefallen)
 
-
 ### § 134
 
 Das Bundesministerium der Justiz wird ermächtigt, durch
@@ -2271,7 +2093,6 @@ nach Satz 1 die Regelung weiterer Einzelheiten durch Rechtsverordnung
 den Landesregierungen übertragen und hierbei auch vorsehen, daß diese
 ihre Ermächtigung durch Rechtsverordnung auf die
 Landesjustizverwaltungen übertragen können.
-
 
 ### § 134a Datenübermittlung bei der Entwicklung von Verfahren zur Anlegung des Datenbankgrundbuchs
 
@@ -2333,10 +2154,7 @@ zu erstellenden Prototypen eines Migrationsprogramms mit
 eingeschränkter Funktionalität gelten die Absätze 1 bis 5
 entsprechend.
 
-
 ## Achter Abschnitt - Elektronischer Rechtsverkehr und elektronische Grundakte
-
-
 
 ### § 135 Elektronischer Rechtsverkehr und elektronische Grundakte; Verordnungsermächtigungen
 
@@ -2403,7 +2221,6 @@ Vorschriften des Vierten Abschnitts über den elektronischen
 Rechtsverkehr und die elektronische Akte in Beschwerdeverfahren
 bleiben unberührt.
 
-
 ### § 136 Eingang elektronischer Dokumente beim Grundbuchamt
 
 (1) Ein mittels Datenfernübertragung als elektronisches Dokument
@@ -2430,7 +2247,6 @@ das Grundbuchamt nicht geeignet, ist dies dem Absender oder dem
 Einreicher eines Datenträgers nach Absatz 2 Satz 1 unter Hinweis auf
 die Unwirksamkeit des Eingangs und auf die geltenden technischen
 Rahmenbedingungen unverzüglich mitzuteilen.
-
 
 ### § 137 Form elektronischer Dokumente
 
@@ -2490,7 +2306,6 @@ dass die in der Form des § 29 nachzuweisenden Erklärungen als
 elektronische Dokumente gemäß den Absätzen 1 und 2 übermittelt werden
 können.
 
-
 ### § 138 Übertragung von Dokumenten
 
 (1) In Papierform vorliegende Schriftstücke können in elektronische
@@ -2510,7 +2325,6 @@ fertigen. Die elektronischen Dokumente können aufbewahrt und nach der
 Anlegung der elektronischen Grundakte in diese übernommen werden; nach
 der Übernahme können die Ausdrucke vernichtet werden.
 
-
 ### § 139 Aktenausdruck, Akteneinsicht und Datenabruf
 
 (1) An die Stelle der Abschrift aus der Grundakte tritt der Ausdruck
@@ -2528,7 +2342,6 @@ bei dem die Einsicht begehrt wird.
 automatisiertes Verfahren eingerichtet werden. § 133 gilt entsprechend
 mit der Maßgabe, dass das Verfahren nicht auf die in § 12 Absatz 1
 Satz 2 genannten Urkunden beschränkt ist.
-
 
 ### § 140 Entscheidungen, Verfügungen und Mitteilungen
 
@@ -2562,7 +2375,6 @@ unterschreiben und mit einem Dienstsiegel oder -stempel zu versehen.
 (4) Die Vorschriften des Vierten Abschnitts über gerichtliche
 elektronische Dokumente in Beschwerdeverfahren bleiben unberührt.
 Absatz 1 gilt nicht für den Vollzug von Grundbucheintragungen.
-
 
 ### § 141 Ermächtigung des Bundesministeriums der Justiz
 
@@ -2602,10 +2414,7 @@ den Landesregierungen übertragen und hierbei auch vorsehen, dass diese
 ihre Ermächtigung durch Rechtsverordnung auf die
 Landesjustizverwaltungen übertragen können.
 
-
 ## Neunter Abschnitt - Übergangs- und Schlußbestimmungen
-
-
 
 ### § 142
 
@@ -2613,7 +2422,6 @@ Landesjustizverwaltungen übertragen können.
 
 (2) Die Artikel 1 Abs. 2, Artikel 2, 50, 55 des Einführungsgesetzes
 zum Bürgerlichen Gesetzbuche sind entsprechend anzuwenden.
-
 
 ### § 143
 
@@ -2630,7 +2438,6 @@ Behandlung von Bergbauberechtigungen.
 (3) Vereinigungen und Zuschreibungen zwischen Grundstücken und
 Rechten, für die nach Landesrecht die Vorschriften über Grundstücke
 gelten, sollen nicht vorgenommen werden.
-
 
 ### § 144
 
@@ -2650,12 +2457,10 @@ Anlegung wird auf dem Blatt des Grundstücks vermerkt.
 Absatzes 2 die Vorschriften der §§ 14 bis 17 des Erbbaurechtsgesetzes
 entsprechend anzuwenden sind.
 
-
 ### § 145
 
 Die Bücher, die nach den bisherigen Bestimmungen als Grundbücher
 geführt wurden, gelten als Grundbücher im Sinne dieses Gesetzes.
-
 
 ### § 146
 
@@ -2665,13 +2470,11 @@ die in den anderen Büchern befindlichen Eintragungen zu verweisen. Die
 Stelle des Hauptbuchs und die Stellen, auf welche verwiesen wird,
 gelten zusammen als das Grundbuchblatt.
 
-
 ### § 147
 
 Sind in einem Buch, das nach § 145 als Grundbuch gilt, die Grundstücke
 nicht nach Maßgabe des § 2 Abs. 2 bezeichnet, so ist diese Bezeichnung
 von Amts wegen zu bewirken.
-
 
 ### § 148
 
@@ -2732,7 +2535,6 @@ Wiedereinführung des elektronischen Rechtsverkehrs und die
 Wiederanordnung der elektronischen Führung der Grundakte nach dem
 Achten Abschnitt bleiben unberührt.
 
-
 ### § 149
 
 (1) Die in Baden-Württemberg bestehenden landesrechtlichen
@@ -2750,7 +2552,6 @@ Rechtspflegergesetzes.
 (2) § 29 Abs. 1 und 3 der Grundbuchordnung gilt auch im Lande Baden-
 Württemberg in der Fassung, die für das übrige Bundesgebiet maßgebend
 ist.
-
 
 ### § 150
 
@@ -2883,7 +2684,6 @@ Vorlage eines Hypotheken-, Grundschuld- oder Rentenschuldbriefes nicht
 bedarf.
 
 (6) § 134a tritt am 31. Dezember 2020 außer Kraft.
-
 
 ### Anlage (zu § 126 Abs. 1 Satz 2 Nr. 3)
 

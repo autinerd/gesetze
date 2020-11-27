@@ -18,8 +18,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1990, 2557
 
-
-
 ## (XXXX)
 
 Solange die Mitglieder des Bundesrates aus den Ländern Brandenburg,

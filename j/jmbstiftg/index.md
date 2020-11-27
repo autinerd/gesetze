@@ -18,15 +18,12 @@ Fundstelle
 Geändert durch
 :   Art. 15 Abs. 61 G v. 5.2.2009 I 160
 
-
-
 ## § 1 Name, Sitz und Rechtsform der Stiftung
 
 Unter dem Namen "Stiftung Jüdisches Museum Berlin" wird mit Sitz in
 Berlin eine rechtsfähige bundesunmittelbare Stiftung des öffentlichen
 Rechts errichtet. Die Stiftung entsteht mit dem Inkrafttreten dieses
 Gesetzes.
-
 
 ## § 2 Zweck der Stiftung
 
@@ -79,7 +76,6 @@ sowie einen Ort der Begegnung zu schaffen.
 Zwecke im Sinne des Abschnitts "Steuerbegünstigte Zwecke" der
 Abgabenordnung.
 
-
 ## § 3 Stiftungsvermögen
 
 (1) Auf die Stiftung gehen mit Inkrafttreten dieses Gesetzes in vollem
@@ -106,14 +102,12 @@ Zustimmung des Stiftungsrates.
 (5) Erträge des Stiftungsvermögens und sonstige Einnahmen sind nur im
 Sinne des Stiftungszwecks zu verwenden.
 
-
 ## § 4 Satzung
 
 Die Stiftung gibt sich eine Satzung, die vom Stiftungsrat mit einer
 Mehrheit von zwei Dritteln seiner Mitglieder beschlossen wird und der
 Genehmigung der auf Bundesebene für die Kultur zuständigen obersten
 Bundesbehörde bedarf. Das Gleiche gilt für Änderungen der Satzung.
-
 
 ## § 5 Organe der Stiftung
 
@@ -126,10 +120,6 @@ Organe der Stiftung sind
 
 
 3.  der Beirat.
-
-
-
-
 
 ## § 6 Stiftungsrat
 
@@ -190,7 +180,6 @@ Direktorin hat hierzu im Stiftungsrat zu berichten.
 
 (8) Das Nähere regelt die Satzung.
 
-
 ## § 7 Verfahren des Stiftungsrates
 
 (1) Der Stiftungsrat entscheidet in der Regel in Sitzungen, die der
@@ -218,7 +207,6 @@ mit diesem Verfahren schriftlich oder fernschriftlich einverstanden
 erklärt haben und sich mindestens zwei Drittel der Mitglieder an der
 Abstimmung beteiligen.
 
-
 ## § 8 Direktor/Direktorin
 
 (1) Der Direktor oder die Direktorin wird vom Stiftungsrat nach
@@ -231,7 +219,6 @@ Satzung.
 Er oder sie entscheidet in allen Angelegenheiten der Stiftung, soweit
 dafür nicht der Stiftungsrat zuständig ist. Er oder sie vertritt die
 Stiftung gerichtlich und außergerichtlich.
-
 
 ## § 9 Beirat
 
@@ -251,14 +238,12 @@ die Vorsitzende beruft die Beiratssitzungen ein und leitet sie.
 
 (4) Das Nähere regelt die Satzung.
 
-
 ## § 10 Ehrenamtliche Tätigkeit
 
 Die Mitglieder des Stiftungsrates und des Beirates üben ihre Tätigkeit
 unentgeltlich aus. Die Erstattung von Reisekosten und sonstigen
 Auslagen richten sich nach den Bestimmungen, die für die unmittelbare
 Bundesverwaltung gelten.
-
 
 ## § 11 Aufsicht, Haushalt, Rechnungsprüfung
 
@@ -268,7 +253,6 @@ und Rechnungswesen sowie für die Rechnungslegung der Stiftung werden
 die Bestimmungen entsprechend angewandt, die für die unmittelbare
 Bundesverwaltung gelten. Die Haushalts- und die Wirtschaftsführung der
 Stiftung unterliegen der Prüfung durch den Bundesrechnungshof.
-
 
 ## § 12 Beschäftigte
 
@@ -288,12 +272,10 @@ oberste Dienstbehörde und ernennt die Beamten und Beamtinnen der
 Stiftung, soweit nicht die Befugnis zur Ernennung durch die Satzung
 dem Direktor oder der Direktorin übertragen ist.
 
-
 ## § 13 Berichterstattung
 
 Die Stiftung legt regelmäßig einen öffentlich zugänglichen Bericht
 über ihre bisherige Tätigkeit und ihre Vorhaben vor.
-
 
 ## § 14 Gebühren
 
@@ -301,11 +283,9 @@ Die Stiftung kann nach näherer Bestimmung der Satzung Gebühren und
 sonstige Entgelte für die Benutzung von Stiftungseinrichtungen und für
 Veranstaltungen erheben.
 
-
 ## § 15 Dienstsiegel
 
 Die Stiftung führt ein Dienstsiegel.
-
 
 ## § 16 Übernahme von Rechten und Pflichten
 
@@ -323,7 +303,6 @@ Geschäfte.
 Satzung findet die Verordnung des Landes Berlin über die Satzung der
 "Stiftung Jüdisches Museum Berlin" vom 23. Juni 1999 (GVBl. S. 359)
 entsprechende Anwendung.
-
 
 ## § 17 Inkrafttreten
 

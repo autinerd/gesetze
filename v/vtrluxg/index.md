@@ -19,11 +19,9 @@ Fundstelle
 Geändert durch
 :   § 5 G v. 4.8.1964 I 585
 
-
 ## Art 1
 
 -
-
 
 ## Art 2
 
@@ -153,13 +151,6 @@ vor dem 1. Januar 1959 eingetreten ist.
         und des Vertrags erneut zu entscheiden. Die Rechtskraft früherer
         Entscheidungen steht nicht entgegen.
 
-
-
-
-
-
-
-
 ## Art 2a
 
 Geldleistungen, die das Großherzogtum Luxemburg aus Haushaltsmitteln
@@ -170,12 +161,10 @@ Allgemeinen Kriegsfolgengesetzes vom 5. November 1957 (Bundesgesetzbl.
 I S. 1747) vorbehaltenen Regelung weder den Schaden noch die
 Entschädigung.
 
-
 ## Art 3
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
-
 
 ## Art 4
 

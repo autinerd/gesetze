@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BAnz: 1962, Nr 168
 
-
-
 ## I.
 
 Aufgrund des § 8 Abs. 1 der Verordnung über die Gewährung von
@@ -41,11 +39,9 @@ für die Posthalter und Hilfsposthalter
 
 je für ihren Geschäftsbereich.
 
-
 ## II.
 
 Diese Anordnung tritt mit Wirkung vom 7. August 1962 in Kraft.
-
 
 ## Schlußformel
 

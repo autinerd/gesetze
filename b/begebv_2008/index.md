@@ -20,7 +20,6 @@ Stand: Die V ersetzt die V 930-9-8 v. 5.4.2001 I 562 mWv 1.5.2008
 Zuletzt geändert durch
 :   Art. 3 V v. 29.4.2011 I 705
 
-
 ## Eingangsformel
 
 Auf Grund des § 26 Abs. 1 Satz 1 Nr. 9 auch in Verbindung mit Satz 2
@@ -38,7 +37,6 @@ mit dem 2. Abschnitt des Verwaltungskostengesetzes vom 23. Juni 1970
 Stadtentwicklung im Einvernehmen mit dem Bundesministerium der
 Finanzen und dem Bundesministerium für Wirtschaft und Technologie:
 
-
 ## § 1 Anwendungsbereich
 
 Das Eisenbahn-Bundesamt und die Bundesnetzagentur für Elektrizität,
@@ -46,7 +44,6 @@ Gas, Telekommunikation, Post und Eisenbahnen (Regulierungsbehörde)
 erheben für ihre Amtshandlungen nach dem Allgemeinen Eisenbahngesetz
 und nach dem Bundeseisenbahnverkehrsverwaltungsgesetz Kosten (Gebühren
 und Auslagen) nach dieser Verordnung.
-
 
 ## § 2 Gebühren
 
@@ -67,14 +64,12 @@ festgesetzt.
 erforderlichen Nachweise vorzulegen, bei einer Amtshandlung auf Antrag
 bereits mit dessen Stellung.
 
-
 ## § 3 Gebührenbefreiung
 
 Für eine Entscheidung der Regulierungsbehörde nach § 14f Abs. 2 des
 Allgemeinen Eisenbahngesetzes sowie für die Untersuchung von
 gefährlichen Ereignissen im Eisenbahnbetrieb werden keine Gebühren
 erhoben.
-
 
 ## § 4 Widerspruch
 
@@ -90,7 +85,6 @@ Widerspruch nach Beginn seiner sachlichen Bearbeitung, jedoch vor
 deren Beendigung zurückgenommen, beträgt die Gebühr höchstens 75 vom
 Hundert der Widerspruchsgebühr.
 
-
 ## § 5 Widerruf, Rücknahme, Ablehnung und Zurücknahme von Anträgen
 
 Für den Widerruf oder die Rücknahme einer Amtshandlung, die Ablehnung
@@ -98,12 +92,10 @@ eines Antrags auf Vornahme einer Amtshandlung sowie in den Fällen der
 Zurücknahme eines Antrags auf Vornahme einer Amtshandlung werden
 Gebühren nach Maßgabe des § 15 des Verwaltungskostengesetzes erhoben.
 
-
 ## § 6 Auslagen
 
 Neben den Gebühren werden vom Kostenschuldner Auslagen entsprechend §
 10 Abs. 1 Nr. 4 und 5 des Verwaltungskostengesetzes gesondert erhoben.
-
 
 ## § 7 Alt-Sachverhalte
 
@@ -136,16 +128,13 @@ dem Gebührenverzeichnis der Anlage 6 ergeben.
 anzuwenden, dass der Stundensatz 81,80 Euro, für jede angefangene
 Viertelstunde 20,45 Euro beträgt.
 
-
 ## § 8 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Mai 2008 in Kraft.
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage 1 (zu § 2 Abs. 1) Gebührenverzeichnis
 
@@ -394,8 +383,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   nach Zeitaufwand
 
-
-
 ## Abschnitt 2
 
 ## Amtshandlungen nach dem AEG i. V. m. VwVfG
@@ -551,8 +538,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   nach Zeitaufwand
 
-
-
 ## Abschnitt 3
 
 ## Amtshandlungen nach der EBV, EBPV
@@ -621,11 +606,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         c)  1 490 Euro
 
-
-
-
-
-
 ## Abschnitt 4
 
 ## Amtshandlungen nach der EBO, ESBO und ESO 1959
@@ -689,8 +669,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   nach Zeitaufwand
 
-
-
 ## Abschnitt 5
 
 ## Amtshandlungen nach der EIBV
@@ -722,8 +700,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   § 22 Abs. 1 Nr. 1 EIBV
 
     *   nach Zeitaufwand
-
-
 
 ## Abschnitt 6
 
@@ -896,8 +872,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   10 Euro
         je Fahrzeug
 
-
-
 ## Abschnitt 7
 
 ## Amtshandlungen nach der KonVEIV
@@ -925,8 +899,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   § 22 Abs. 3 ArbSchG
 
     *   nach Zeitaufwand
-
-
 
 ## Abschnitt 9
 
@@ -1028,8 +1000,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   400 Euro
 
-
-
 ## Abschnitt 10
 
 ## Amtshandlungen nach der TfV
@@ -1102,8 +1072,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   850 Euro
 
-
-
 ## Abschnitt 11
 
 ## Sonstige Amtshandlungen
@@ -1124,8 +1092,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *   nach Zeitaufwand, bis zur Hälfte der Gebühr für den Verwaltungsakt
-
-
 
 ## Teil II
 
@@ -1238,8 +1204,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   1 500 Euro bis
         3 500 Euro.
 
-
-
 ## Teil III
 
 ## Gebühren für Amtshandlungen der benannten Stellen
@@ -1275,8 +1239,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   § 15 Abs. 1 Nr. 2 TEIV
 
     *   nach Zeitaufwand
-
-
 
 ## Anhang zum Gebührenverzeichnis
 
@@ -1539,15 +1501,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
         –   umfangreichem qualitativ hervorragendem Ausbau.
-
-
-
-
-
-
-
-
-
 
 ## Tafel 1
 
@@ -2365,9 +2318,6 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   2 584 100
 
-
-
-
 ## Tafel 2
 
 ## Ingenieurbau
@@ -3040,9 +2990,6 @@ Zwischenwerte sind linear zu interpolieren.
     *   402.300
 
     *   433.700
-
-
-
 
 ## Tafel 3
 
@@ -3860,9 +3807,6 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   2 949 900
 
-
-
-
 ## Tafel 4
 
 ## Hochbau
@@ -4400,10 +4344,6 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   988.400
 
-
-
-
-
 ## Anlage 2 (zu § 2 Abs. 1 i. V. m. § 7 Abs. 1)
 
 ( Fundstelle: BGBl. I 2008, 565 - 578 )
@@ -4541,8 +4481,6 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   nach Zeitaufwand
 
-
-
 ## Abschnitt 2
 
 ## Genehmigungen nach dem AEG
@@ -4575,8 +4513,6 @@ Zwischenwerte sind linear zu interpolieren.
     *   § 11 AEG
 
     *   1 500 DM
-
-
 
 ## Abschnitt 3
 
@@ -4679,8 +4615,6 @@ Zwischenwerte sind linear zu interpolieren.
     *   § 18 AEG
 
     *   nach Zeitaufwand
-
-
 
 ## Abschnitt 4
 
@@ -4812,8 +4746,6 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   nach Zeitaufwand
 
-
-
 ## Bauaufsicht über Signal-, Telekommunikations- und elektrotechnische
 Anlagen
 
@@ -4863,8 +4795,6 @@ Anlagen
     *   § 2 Nr. 1 EIV
 
     *   nach Zeitaufwand
-
-
 
 ## Technische Aufsicht über Schienenfahrzeuge
 
@@ -4931,8 +4861,6 @@ Anlagen
     *   § 2 Nr. 1 EIV
 
     *   nach Zeitaufwand
-
-
 
 ## Überwachungs- und genehmigungsbedürftige Anlagen
 
@@ -5049,8 +4977,6 @@ Anlagen
 
     *   80 DM
 
-
-
 ## Abschnitt 5
 
 ## Sonstige Amtshandlungen
@@ -5119,8 +5045,6 @@ Anlagen
 
     *
     *   wie vergleichbare Amtshandlungen, sonst nach Zeitaufwand
-
-
 
 ## Anhang zum Gebührenverzeichnis
 
@@ -5383,15 +5307,6 @@ Anlagen
 
 
         –   umfangreichem qualitativ hervorragendem Ausbau.
-
-
-
-
-
-
-
-
-
 
 ## Tafel 1
 
@@ -6208,9 +6123,6 @@ Zwischenwerte sind linear zu interpolieren.
     *   3 918 960
 
     *   4 154 100
-
-
-
 
 ## Tafel 2
 
@@ -6885,9 +6797,6 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   848.190
 
-
-
-
 ## Tafel 3
 
 ## Oberbau
@@ -7704,9 +7613,6 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   5 769 580
 
-
-
-
 ## Tafel 4
 
 ## Hochbauten
@@ -8341,10 +8247,6 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   2 084 420
 
-
-
-
-
 ## Anlage 3 (zu § 2 Abs. 1 i. V. m. § 7 Abs. 2) Gebührenverzeichnis
 
 ( Fundstelle: BGBl. I 2008, 579 - 593 )
@@ -8498,8 +8400,6 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   nach Zeitaufwand
 
-
-
 ## Abschnitt 2
 
 ## Genehmigungen nach dem AEG
@@ -8541,8 +8441,6 @@ Zwischenwerte sind linear zu interpolieren.
     *   § 14 Abs. 7 AEG
 
     *   nach Zeitaufwand
-
-
 
 ## Abschnitt 3
 
@@ -8644,8 +8542,6 @@ Zwischenwerte sind linear zu interpolieren.
     *   § 18 AEG
 
     *   nach Zeitaufwand
-
-
 
 ## Abschnitt 4
 
@@ -8769,8 +8665,6 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   nach Zeitaufwand
 
-
-
 ## Bauaufsicht über Signal-, Telekommunikations- und elektrotechnische
 Anlagen
 
@@ -8818,8 +8712,6 @@ Anlagen
     *   § 2 Nr. 1 EIV
 
     *   nach Zeitaufwand
-
-
 
 ## Technische Aufsicht über Schienenfahrzeuge
 
@@ -8887,8 +8779,6 @@ Anlagen
     *   § 2 Nr. 1 EIV
 
     *   nach Zeitaufwand
-
-
 
 ## Überwachungs- und genehmigungsbedürftige Anlagen
 
@@ -8999,8 +8889,6 @@ Anlagen
 
     *   80 DM
 
-
-
 ## Abschnitt 5
 
 ## Sonstige Amtshandlungen
@@ -9070,8 +8958,6 @@ Anlagen
     *
     *   wie vergleichbare Amtshandlungen, sonst nach Zeit-
         aufwand
-
-
 
 ## Abschnitt 6
 
@@ -9148,8 +9034,6 @@ Anlagen
     *   § 14a Abs. 2 AEG
 
     *   nach Zeitaufwand
-
-
 
 ## Anhang zum Gebührenverzeichnis
 
@@ -9412,15 +9296,6 @@ Anlagen
 
 
         –   umfangreichem qualitativ hervorragendem Ausbau.
-
-
-
-
-
-
-
-
-
 
 ## Tafel 1
 
@@ -10238,9 +10113,6 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   4 154 100
 
-
-
-
 ## Tafel 2
 
 ## Ingenieurbauwerke
@@ -10913,9 +10785,6 @@ Zwischenwerte sind linear zu interpolieren.
     *   786 870
 
     *   848 190
-
-
-
 
 ## Tafel 3
 
@@ -11733,9 +11602,6 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   5 769 580
 
-
-
-
 ## Tafel 4
 
 ## Hochbauten
@@ -12370,10 +12236,6 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   2 084 420
 
-
-
-
-
 ## Anlage 4 (zu § 2 Abs. 1 i. V. m. § 7 Abs. 3) Gebührenverzeichnis
 
 ( Fundstelle: BGBl. I 2008, 594 - 610 )
@@ -12585,8 +12447,6 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   nach Zeitaufwand
 
-
-
 ## Abschnitt 2
 
 ## Amtshandlungen nach dem AEG i. V. m. VwVfG
@@ -12743,8 +12603,6 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   nach Zeitaufwand
 
-
-
 ## Abschnitt 3
 
 ## Amtshandlungen nach der EBV, EBPV
@@ -12813,11 +12671,6 @@ Zwischenwerte sind linear zu interpolieren.
 
         c)  1 490 Euro
 
-
-
-
-
-
 ## Abschnitt 4
 
 ## Amtshandlungen nach der EBO, ESBO und ESO 1959
@@ -12882,8 +12735,6 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   nach Zeitaufwand
 
-
-
 ## Abschnitt 5
 
 ## Amtshandlungen nach der EIBV
@@ -12915,8 +12766,6 @@ Zwischenwerte sind linear zu interpolieren.
     *   § 22 Abs. 1 Nr. 1 EIBV
 
     *   nach Zeitaufwand
-
-
 
 ## Abschnitt 6
 
@@ -13014,8 +12863,6 @@ Zwischenwerte sind linear zu interpolieren.
     *   § 3 Abs. 1 Nr. 2 EIV
 
     *   nach Zeitaufwand
-
-
 
 ## Abschnitt 7
 
@@ -13121,8 +12968,6 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   nach Zeitaufwand
 
-
-
 ## Abschnitt 8
 
 ## Amtshandlung nach dem ArbSchG
@@ -13144,8 +12989,6 @@ Zwischenwerte sind linear zu interpolieren.
     *   § 22 Abs. 3 ArbSchG
 
     *   nach Zeitaufwand
-
-
 
 ## Abschnitt 9
 
@@ -13246,8 +13089,6 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   400 Euro
 
-
-
 ## Abschnitt 10
 
 ## Sonstige Amtshandlungen
@@ -13270,8 +13111,6 @@ Zwischenwerte sind linear zu interpolieren.
     *
     *   nach Zeitaufwand, bis zur Hälfte der Gebühr für den
         Verwaltungsakt
-
-
 
 ## Teil II
 
@@ -13363,8 +13202,6 @@ Gebühren für Amtshandlungen der Bundesnetzagentur
     *   § 14f Abs. 1 Satz 2 oder Abs. 3 i. V. m. Abs. 2 AEG
 
     *   nach Zeitaufwand
-
-
 
 ## Anhang zum Gebührenverzeichnis Teil I
 
@@ -13627,15 +13464,6 @@ Gebühren für Amtshandlungen der Bundesnetzagentur
 
 
         –   umfangreichem qualitativ hervorragendem Ausbau.
-
-
-
-
-
-
-
-
-
 
 ## Tafel 1
 
@@ -14453,9 +14281,6 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   2 584 100
 
-
-
-
 ## Tafel 2
 
 ## Ingenieurbau
@@ -15128,9 +14953,6 @@ Zwischenwerte sind linear zu interpolieren.
     *   402 300
 
     *   433 700
-
-
-
 
 ## Tafel 3
 
@@ -15948,9 +15770,6 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   2 949 900
 
-
-
-
 ## Tafel 4
 
 ## Hochbau
@@ -16488,10 +16307,6 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   988 400
 
-
-
-
-
 ## Anlage 5 (zu § 2 Abs. 1 i. V. m. § 7 Abs. 4) Gebührenverzeichnis
 
 ( Fundstelle: BGBl. I 2008, 611 - 627 )
@@ -16741,8 +16556,6 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   nach Zeitaufwand
 
-
-
 ## Abschnitt 2
 
 ## Amtshandlungen nach dem AEG i. V. m. VwVfG
@@ -16902,8 +16715,6 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   nach Zeitaufwand
 
-
-
 ## Abschnitt 3
 
 ## Amtshandlungen nach der EBV, EBPV
@@ -16972,11 +16783,6 @@ Zwischenwerte sind linear zu interpolieren.
 
         c)  1 490 Euro
 
-
-
-
-
-
 ## Abschnitt 4
 
 ## Amtshandlungen nach der EBO, ESBO und ESO 1959
@@ -17039,8 +16845,6 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   nach Zeitaufwand
 
-
-
 ## Abschnitt 5
 
 ## Amtshandlungen nach der EIBV
@@ -17072,8 +16876,6 @@ Zwischenwerte sind linear zu interpolieren.
     *   § 22 Abs. 1 Nr. 1 EIBV
 
     *   nach Zeitaufwand
-
-
 
 ## Abschnitt 6
 
@@ -17244,8 +17046,6 @@ Zwischenwerte sind linear zu interpolieren.
     *   10 Euro
         je Fahrzeug
 
-
-
 ## Abschnitt 7
 
 ##
@@ -17273,8 +17073,6 @@ Zwischenwerte sind linear zu interpolieren.
     *   § 22 Abs. 3 ArbSchG
 
     *   nach Zeitaufwand
-
-
 
 ## Abschnitt 9
 
@@ -17376,8 +17174,6 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   400 Euro
 
-
-
 ## Abschnitt 10
 
 ## Sonstige Amtshandlungen
@@ -17398,8 +17194,6 @@ Zwischenwerte sind linear zu interpolieren.
 
     *
     *   nach Zeitaufwand, bis zur Hälfte der Gebühr für den Verwaltungsakt
-
-
 
 ## Teil II
 
@@ -17492,8 +17286,6 @@ Gebühren für Amtshandlungen der Bundesnetzagentur
 
     *   nach Zeitaufwand
 
-
-
 ## Teil III
 
 ## Gebühren für Amtshandlungen der benannten Stelle
@@ -17530,8 +17322,6 @@ Gebühren für Amtshandlungen der Bundesnetzagentur
     *   § 15 Abs. 1 Nr. 2 TEIV
 
     *   nach Zeitaufwand
-
-
 
 ## Anhang Gebührenverzeichnis Teil I
 
@@ -17795,15 +17585,6 @@ Gebühren für Amtshandlungen der Bundesnetzagentur
 
         –   umfangreichem qualitativ hervorragendem Ausbau.
 
-
-
-
-
-
-
-
-
-
 ## Tafel 1
 
 ## Planfeststellung
@@ -18620,9 +18401,6 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   2 584 100
 
-
-
-
 ## Tafel 2
 
 ## Ingenieurbau
@@ -19295,9 +19073,6 @@ Zwischenwerte sind linear zu interpolieren.
     *   402 300
 
     *   433 700
-
-
-
 
 ## Tafel 3
 
@@ -20114,9 +19889,6 @@ Zwischenwerte sind linear zu interpolieren.
     *   2 783 000
 
     *   2 949 900
-
-
-
 
 ## Tafel 4
 
@@ -20655,10 +20427,6 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   988 400
 
-
-
-
-
 ## Anlage 6 (zu § 2 Abs. 1 i. V. m. § 7 Abs. 5) Gebührenverzeichnis
 
 ( Fundstelle: BGBl. I 2008, 628 - 644 )
@@ -20909,8 +20677,6 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   nach Zeitaufwand
 
-
-
 ## Abschnitt 2
 
 ## Amtshandlungen nach dem AEG i. V. m. VwVfG
@@ -21069,8 +20835,6 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   nach Zeitaufwand
 
-
-
 ## Abschnitt 3
 
 ## Amtshandlungen nach der EBV, EBPV
@@ -21140,11 +20904,6 @@ Zwischenwerte sind linear zu interpolieren.
 
         c)  1 490 Euro
 
-
-
-
-
-
 ## Abschnitt 4
 
 ## Amtshandlungen nach der EBO, ESBO und ESO 1959
@@ -21209,8 +20968,6 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   nach Zeitaufwand
 
-
-
 ## Abschnitt 5
 
 ## Amtshandlungen nach der EIBV
@@ -21242,8 +20999,6 @@ Zwischenwerte sind linear zu interpolieren.
     *   § 22 Abs. 1 Nr. 1 EIBV
 
     *   nach Zeitaufwand
-
-
 
 ## Abschnitt 6
 
@@ -21417,8 +21172,6 @@ Zwischenwerte sind linear zu interpolieren.
     *   10 Euro
         je Fahrzeug
 
-
-
 ## Abschnitt 7
 
 ##
@@ -21446,8 +21199,6 @@ Zwischenwerte sind linear zu interpolieren.
     *   § 22 Abs. 3 ArbSchG
 
     *   nach Zeitaufwand
-
-
 
 ## Abschnitt 9
 
@@ -21549,8 +21300,6 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   400 Euro
 
-
-
 ## Abschnitt 10
 
 ## Sonstige Amtshandlungen
@@ -21571,8 +21320,6 @@ Zwischenwerte sind linear zu interpolieren.
 
     *
     *   nach Zeitaufwand, bis zur Hälfte der Gebühr für den Verwaltungsakt
-
-
 
 ## Teil II
 
@@ -21664,8 +21411,6 @@ Gebühren für Amtshandlungen der Bundesnetzagentur
 
     *   nach Zeitaufwand
 
-
-
 ## Teil III
 
 ## Gebühren für Amtshandlungen der benannten Stelle
@@ -21701,8 +21446,6 @@ Gebühren für Amtshandlungen der Bundesnetzagentur
     *   § 15 Abs. 1 Satz 1 Nr. 2 oder Satz 2 oder 3 TEIV
 
     *   nach Zeitaufwand
-
-
 
 ## Anhang zum Gebührenverzeichnis Teil I
 
@@ -21965,15 +21708,6 @@ Gebühren für Amtshandlungen der Bundesnetzagentur
 
 
         –   umfangreichem qualitativ hervorragendem Ausbau.
-
-
-
-
-
-
-
-
-
 
 ## Tafel 1
 
@@ -22791,9 +22525,6 @@ Zwischenwerte sind linear zu interpolieren.
 
     *   2 584 100
 
-
-
-
 ## Tafel 2
 
 ## Ingenieurbau
@@ -23466,9 +23197,6 @@ Zwischenwerte sind linear zu interpolieren.
     *   402 300
 
     *   433 700
-
-
-
 
 ## Tafel 3
 
@@ -24285,9 +24013,6 @@ Zwischenwerte sind linear zu interpolieren.
     *   2 783 000
 
     *   2 949 900
-
-
-
 
 ## Tafel 4
 

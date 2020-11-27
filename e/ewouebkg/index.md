@@ -18,12 +18,10 @@ Fundstelle
 
 Stand: vgl. nur noch Fundstellennachweis B
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -31,7 +29,6 @@ Dem in Paris am 30. Mai 1975 von der Bundesrepublik Deutschland
 unterzeichneten Übereinkommen zur Gründung einer Europäischen
 Weltraumorganisation wird zugestimmt. Das Übereinkommen wird
 nachstehend veröffentlicht.
-
 
 ## Art 2
 
@@ -41,12 +38,10 @@ ihren ständigen Aufenthalt im Bundesgebiet haben, genießen nach
 Maßgabe des Artikels XXIV der Anlage I des Übereinkommens keine
 Vorrechte und Immunitäten.
 
-
 ## Art 3
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
-
 
 ## Art 4
 

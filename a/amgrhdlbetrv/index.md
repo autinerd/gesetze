@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 7 G v. 19.10.2012 I 2192
 
-
 ## Eingangsformel
 
 Auf Grund
@@ -45,7 +44,6 @@ Auf Grund
 
 mit Zustimmung des Bundesrates verordnet:
 
-
 ## § 1 Anwendungsbereich
 
 Diese Verordnung findet Anwendung auf Betriebe und Einrichtungen,
@@ -57,7 +55,6 @@ Großhandel mit den in § 51 Abs. 1 zweiter Halbsatz des
 Arzneimittelgesetzes genannten für den Verkehr außerhalb der Apotheken
 freigegebenen Fertigarzneimitteln oder mit Gasen für medizinische
 Zwecke treiben.
-
 
 ## § 1a Qualitätssicherungssystem
 
@@ -78,7 +75,6 @@ und 6 erfolgen und die schriftlichen Verfahrensbeschreibungen in
 regelmäßigen Abständen geprüft, erforderlichenfalls an den Stand von
 Wissenschaft und Technik angepasst und befolgt werden.
 
-
 ## § 2 Personal
 
 (1) Wer einen Arzneimittelgroßhandel betreibt, hat für jede
@@ -92,7 +88,6 @@ dieser Verordnung zu ermöglichen. Es darf nur entsprechend seiner
 Ausbildung und seinen Kenntnissen beschäftigt +4rden und ist über die
 beim Umgang mit Arzneimitteln gebotene Sorgfalt regelmäßig zu
 unterweisen.
-
 
 ## § 3 Beschaffenheit, Größe und Einrichtung der Betriebsräume
 
@@ -121,10 +116,6 @@ verfahren werden, in dem insbesondere folgendes festgelegt ist:
 
 3.  die mit der Aufsicht betrauten Personen.
 
-
-
-
-
 ## § 4 Umfüllen, Abpacken und Kennzeichnen von Arzneimitteln
 
 (1) Es dürfen nur solche Arzneimittel zum Zwecke der Abgabe umgefüllt
@@ -151,7 +142,6 @@ werden, wenn die Behältnisse und, soweit verwendet, die äußeren
 Umhüllungen mit den Angaben nach den §§ 10 und 11 des
 Arzneimittelgesetzes versehen sind.
 
-
 ## § 4a Bezug von Arzneimitteln
 
 (1) Arzneimittel dürfen nur von Betrieben und Einrichtungen bezogen
@@ -167,7 +157,6 @@ die Behältnisse unbeschädigt sind, die Lieferung mit der Bestellung
 übereinstimmt und der Lieferant unter Angabe der ausstellenden Behörde
 und des Ausstellungsdatums bestätigt hat, dass er über die notwendige
 Erlaubnis verfügt.
-
 
 ## § 5 Lagerung
 
@@ -199,7 +188,6 @@ zuständige Behörde unverzüglich zu informieren.
 (4) Arzneimittel, die nicht verkehrsfähig sind, sind zu vernichten
 oder, soweit eine Rückgabe an den Lieferanten vorgesehen ist,
 zurückzugeben.
-
 
 ## § 6 Auslieferung
 
@@ -243,7 +231,6 @@ den Verantwortungsbereich des Empfängers dafür Sorge zu tragen, dass
 kein Unbefugter Zugriff zu den Arzneimitteln hat und die Qualität der
 Arzneimittel nicht beeinträchtigt wird.
 
-
 ## § 7 Dokumentation
 
 (1) Über jeden Bezug und jede Abgabe von Arzneimitteln sind
@@ -282,7 +269,6 @@ insbesondere sichergestellt sein, daß die Daten während der Dauer der
 Aufbewahrungsfrist verfügbar sind und innerhalb einer angemessenen
 Frist lesbar gemacht werden können.
 
-
 ## § 7a Rückrufplan, Rückrufe von Arzneimitteln
 
 (1) Wer einen Arzneimittelgroßhandel betreibt, muß einen Rückrufplan
@@ -294,7 +280,6 @@ pharmazeutischen Unternehmers erfolgt.
 Abläufe müssen schriftlich festgelegt sein. Über die Durchführung von
 Rückrufen müssen Aufzeichnungen geführt werden. § 7 Abs. 3 gilt
 entsprechend.
-
 
 ## § 7b Rücknahme von Arzneimitteln
 
@@ -350,7 +335,6 @@ Bestände wieder aufgenommen werden, wenn
 besonders eingewiesenes Personal erfolgen. Die Prüfanweisung und die
 organisatorischen Abläufe sind schriftlich festzulegen.
 
-
 ## § 7c Selbstinspektion
 
 (1) Um die Beachtung der Vorschriften dieser Verordnung
@@ -362,7 +346,6 @@ Maßnahmen müssen Aufzeichnungen geführt und aufbewahrt werden.
 dass Arzneimittel nur von Lieferanten bezogen werden, die für den
 Handel mit Arzneimitteln befugt sind.
 
-
 ## § 8 Dienstbereitschaft in Krisenzeiten
 
 Die zuständige Behörde kann die Dienstbereitschaft für
@@ -371,11 +354,9 @@ notwendige Belieferung der Apotheken und tierärztlichen Hausapotheken
 mit Arzneimitteln sonst ernstlich gefährdet wäre. Die Anordnung ist zu
 befristen; sie kann verlängert werden.
 
-
 ## § 9
 
 (weggefallen)
-
 
 ## § 10 Ordnungswidrigkeiten
 
@@ -433,13 +414,6 @@ Arzneimittelgesetzes handelt, wer vorsätzlich oder fahrlässig
         Abs. 2 Satz 3 Aufzeichnungen oder Nachweise unleserlich macht oder
         Veränderungen vornimmt.
 
-
-
-
-
-
-
-
 ## § 11 Übergangsbestimmungen
 
 (1) Arzneimittel, die vor dem Inkrafttreten dieser Verordnung nicht
@@ -487,16 +461,13 @@ einer endgültigen amtlichen Anerkennung beantragt wird und, im Falle
 rechtzeitiger Antragstellung, mit Eintritt der Unanfechtbarkeit der
 Entscheidung über den Antrag.
 
-
 ## § 12
 
 -
 
-
 ## § 13 Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 1988 in Kraft.
-
 
 ## Schlußformel
 

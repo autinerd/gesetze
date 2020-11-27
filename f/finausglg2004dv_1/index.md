@@ -16,14 +16,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 460
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 14 Abs. 3 des Finanzausgleichsgesetzes vom 23. Juni
 1993 (BGBl. I S. 944, 977) verordnet das Bundesministerium der
 Finanzen:
-
 
 ## § 1 Vollzug der Umsatzsteuerverteilung und des Finanzausgleichs im Ausgleichsjahr 2004
 
@@ -159,11 +156,9 @@ Länder nach der Einwohnerzahl verteilt. Dabei sind auch die
 Umschichtungen nach § 1 Abs. 3 des Gesetzes in monatlichen
 Teilbeträgen zu berücksichtigen.
 
-
 ## § 2 Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 2004 in Kraft.
-
 
 ## Schlussformel
 

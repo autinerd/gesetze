@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 17.8.2009 I 2881
 
-
 ## Eingangsformel
 
 Auf Grund des § 8 Abs. 3 Satz 1 und 2 des Einlagensicherungs- und
@@ -28,7 +27,6 @@ verordnet das Bundesministerium der Finanzen nach Anhörung der
 Entschädigungseinrichtung für Institute nach § 6 Abs. 1 Satz 2 Nr. 3
 des Einlagensicherungs- und Anlegerentschädigungsgesetzes bei der
 Kreditanstalt für Wiederaufbau:
-
 
 ## § 1 Jahresbeitrag
 
@@ -64,7 +62,6 @@ Institute, die vom 1. Januar bis zum 31. März vor Beitragsfälligkeit
 aus der Entschädigungseinrichtung ausscheiden, um 75 Prozent, für
 Institute, die vom 1. April bis zum 30. Juni vor Beitragsfälligkeit
 ausscheiden, um 50 Prozent.
-
 
 ## § 2 Berechnung des Jahresbeitrags
 
@@ -212,7 +209,6 @@ Ausschlussfristen.
 Absatz 5 wird bezogen auf einen Jahresbeitrag nur einmal erhoben.
 Maßgeblich ist der höchste zu erhebende Zuschlag.
 
-
 ## § 2a Höhe des Beitragssatzes
 
 (1) Der Beitragssatz beträgt
@@ -313,7 +309,6 @@ einer Änderung der Erlaubnis oder der Befugnis während dieses
 Geschäftsjahres sind diejenigen Verhältnisse maßgeblich, die einen
 höheren Jahresbeitrag begründen.
 
-
 ## § 2b Abweichende Zuordnung zu Beitragsgruppen
 
 Auf Antrag kann die Entschädigungseinrichtung in folgenden Fällen eine
@@ -350,7 +345,6 @@ Prüfung der in Satz 1 genannten Voraussetzungen zu verlangen. Über den
 Antrag entscheidet die Entschädigungseinrichtung bei Festsetzung des
 Jahresbeitrags. Die in Satz 2 genannte Frist ist eine Ausschlussfrist.
 
-
 ## § 2c Erhöhung des Jahresbeitrags
 
 (1) Der Jahresbeitrag erhöht sich um einen Zuschlag von 20 Prozent,
@@ -383,7 +377,6 @@ entsprechend. Wird die Erklärung nicht bis zum 15. August des
 jeweiligen Abrechnungsjahres nachgereicht, wird ein
 Kundenstrukturzuschlag von 5 Prozent festgesetzt. Die in den Sätzen 1
 und 3 genannten Fristen sind Ausschlussfristen.
-
 
 ## § 2d Ermäßigung des Jahresbeitrags
 
@@ -512,7 +505,6 @@ Versicherungsschutz ausgenommen worden, beträgt der
 Versicherungsabschlag 7,5 Prozent. Die Höhe des Versicherungsabschlags
 ist auf 10 Prozent der vereinbarten Versicherungssumme begrenzt.
 
-
 ## § 3 Einmalige Zahlung
 
 (1) Institute, die nach dem 1. August 1998 der
@@ -530,7 +522,6 @@ Wochen, zur Verfügung zu stellen. Nach Ablauf dieser Frist können die
 erforderlichen Angaben auch mittels Bestätigung durch einen
 Wirtschaftsprüfer oder eine Wirtschaftsprüfungsgesellschaft erbracht
 oder von der Entschädigungseinrichtung eingeholt werden.
-
 
 ## § 4 Bemessung der einmaligen Zahlung
 
@@ -564,7 +555,6 @@ oder von der Entschädigungseinrichtung eingeholt werden.
 
 (2) Die einmalige Zahlung wird mit Bekanntgabe des Bescheides über die
 einmalige Zahlung fällig.
-
 
 ## § 5 Sonderbeiträge, Sonderzahlungen und Belastungsobergrenze
 
@@ -606,7 +596,6 @@ verbleibende Mittelbedarf rechtzeitig durch Sonderbeiträge gedeckt
 werden kann. Die Beitragserhebung nach den Sätzen 1 und 2 kann in
 Teilbeträgen gemäß § 5a erfolgen.
 
-
 ## § 5a Erhebung von Sonderbeiträgen in Teilbeträgen
 
 (1) Bei der Entscheidung über die Erhebung von Sonderbeiträgen in
@@ -639,7 +628,6 @@ voraussichtliche Höhe der von den Instituten insgesamt zu erhebenden
 Teilbeträge und die beabsichtigten Zeitpunkte für die Beitragserhebung
 umfassen.
 
-
 ## § 5b Befreiung von der Pflicht zur Leistung von Sonderbeiträgen und Sonderzahlungen
 
 Eine vollständige oder teilweise Befreiung von der Pflicht zur
@@ -660,7 +648,6 @@ innerhalb von zwei Monaten, nachdem der jeweilige Sonderbeitrags- oder
 Sonderzahlungsbescheid dem Institut bekannt gegeben worden ist,
 nachgereicht werden.
 
-
 ## § 6 Bestätigung durch Prüfer
 
 Bei Finanzdienstleistungsinstituten, deren Bilanzsumme im letzten
@@ -669,7 +656,6 @@ Bestätigungen nach § 2 Absatz 2 Satz 5 und Absatz 4, § 2a Absatz 2
 Satz 3, § 2b Satz 2 sowie § 2c Absatz 1 Satz 4 und § 3 Abs. 2 auch
 durch vereidigte Buchprüfer oder Buchprüfungsgesellschaften
 vorgenommen werden.
-
 
 ## § 7 Übergangsvorschriften
 
@@ -758,7 +744,6 @@ Abrechnungsjahr zu erheben.
 August 2009 zugeordnet worden sind, wird die einmalige Zahlung weiter
 nach den §§ 3 und 4 dieser Verordnung in der bis zum 25. August 2009
 geltenden Fassung erhoben.
-
 
 ## § 8 Inkrafttreten
 

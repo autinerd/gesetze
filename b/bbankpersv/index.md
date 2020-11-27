@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 3856
 
-
 ## Eingangsformel
 
 Auf Grund des § 31 Absatz 4 des Gesetzes über die Deutsche Bundesbank,
@@ -27,7 +26,6 @@ Bundesregierung nach § 31 des Gesetzes über die Deutsche Bundesbank
 vom 9. April 2009 (BGBl. I S. 813) verordnet der Vorstand der
 Deutschen Bundesbank im Einvernehmen mit dem Bundesministerium des
 Innern und dem Bundesministerium der Finanzen:
-
 
 ## § 1 Genehmigungspflicht von Nebentätigkeiten
 
@@ -40,10 +38,6 @@ Angestellte der Deutschen Bundesbank nur mit vorheriger Genehmigung
 
 2.  aktuelle Fragen der Währungs- und Kreditpolitik schriftstellerisch,
     wissenschaftlich oder in Vorträgen behandeln.
-
-
-
-
 
 ## § 2 Bankzulage
 
@@ -85,7 +79,6 @@ Satz 2 Nummer 2 des Gesetzes über die Deutsche Bundesbank um die
 Hälfte des Erhöhungsbetrags; Satz 2 gilt für Angestellte entsprechend.
 Absatz 2 gilt für die Ausgleichszulage entsprechend.
 
-
 ## § 3 Leistungszulagen und Leistungsprämien
 
 (1) Einer Beamtin, einem Beamten, einer Angestellten, einem
@@ -111,7 +104,6 @@ nächsthöheren Besoldungsgruppe zustehen. Eine Zuwendung nach Absatz 1
 darf frühestens nach sechs Monaten erneut gewährt werden. Die Sätze 1
 und 2 gelten entsprechend bei Höhergruppierungen.
 
-
 ## § 4 Ausschuss zur Feststellung der Befähigung
 
 (1) Die nach § 19 des Bundesbeamtengesetzes vorzunehmende Feststellung
@@ -133,13 +125,11 @@ Vorbildung und die Laufbahnen der Beamten der Deutschen Bundesbank
 vorgesehenen Ausnahmen von § 22 Absatz 3 des Bundesbeamtengesetzes
 hinaus weitere Ausnahmen zulassen.
 
-
 ## § 5 Versetzung ohne Zustimmung
 
 Abweichend von § 28 Absatz 2 des Bundesbeamtengesetzes können
 Beamtinnen und Beamte auch ohne ihre Zustimmung versetzt werden, wenn
 ein wichtiger Grund in ihrer Person vorliegt.
-
 
 ## § 6 Hinausschieben einer Entlassung auf Antrag
 
@@ -147,7 +137,6 @@ Die von einer Beamtin oder einem Beamten beantragte Entlassung kann
 bis zu sechs Monate über den beantragten Zeitpunkt hinaus aufgeschoben
 werden, auch wenn die Voraussetzungen des § 33 Absatz 2 des
 Bundesbeamtengesetzes nicht vorliegen.
-
 
 ## § 7 Berücksichtigung von Zeiten außerhalb des Beamtenverhältnisses für die ruhegehaltfähige Dienstzeit
 
@@ -157,7 +146,6 @@ Lebensjahres vor der Berufung in das Beamtenverhältnis auf
 wirtschaftlichem Gebiet besondere Fachkenntnisse erworben hat, die die
 notwendige Voraussetzung für die Wahrnehmung ihres oder seines Amts
 bilden, voll als ruhegehaltfähige Dienstzeit berücksichtigt werden.
-
 
 ## § 8 Inkrafttreten
 

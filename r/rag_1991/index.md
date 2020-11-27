@@ -15,11 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1991, 1065
 
-
-
 ## Erster Abschnitt - Rentenversicherung
-
-
 
 ### § 1 Grundsatz
 
@@ -27,7 +23,6 @@ Aus Anlaß des Anstiegs der allgemeinen Bemessungsgrundlage vom Jahr
 1990 auf das Jahr 1991 werden die Renten der gesetzlichen
 Rentenversicherung einschließlich Knappschaftsausgleichsleistungen zum
 1\. Juli 1991 nach den §§ 2 bis 5 dieses Gesetzes angepaßt.
-
 
 ### § 2 Formelrenten
 
@@ -54,13 +49,11 @@ nach § 3 angepaßt. Eine Rente, die nach Artikel 2 § 24 Abs. 5 des
 Knappschaftsrentenversicherungs-Neuregelungsgesetzes gezahlt wird,
 wird nach Absatz 1 angepaßt.
 
-
 ### § 3 Sonstige Renten
 
 Renten, die nicht nach § 2 Abs. 1 anzupassen sind, werden dadurch
 angepaßt, daß der sich für den Monat Juli 1991 ergebende
 anpassungsfähige Rentenbetrag um 4,7 vom Hundert erhöht wird.
-
 
 ### § 4 Allgemeines
 
@@ -81,7 +74,6 @@ Aufwendungen für die Krankenversicherung.
 (3) Bei Anwendung der Vorschriften dieses Gesetzes sind Abrundungen
 zulässig.
 
-
 ### § 5 Allgemeine Bemessungsgrundlage
 
 Die allgemeine Bemessungsgrundlage für das Jahr 1991 beträgt
@@ -99,29 +91,19 @@ Die allgemeine Bemessungsgrundlage für das Jahr 1991 beträgt
 
     *   33.499 Deutsche Mark.
 
-
-
-
-
 ## Zweiter Abschnitt - Unfallversicherung
-
-
 
 ### § 6 Anpassungsfaktor
 
 Der Anpassungsfaktor für die vom 1. Juli 1991 an anzupassenden
 Geldleistungen der gesetzlichen Unfallversicherung beträgt 1,0504.
 
-
 ### § 7 Pflegegeld
 
 Das Pflegegeld beträgt vom 1. Juli 1991 an zwischen 473 Deutsche Mark
 und 1.893 Deutsche Mark monatlich.
 
-
 ## Dritter Abschnitt - Schlußvorschriften
-
-
 
 ### § 8 Einschränkung des Geltungsbereichs
 

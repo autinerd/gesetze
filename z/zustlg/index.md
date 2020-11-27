@@ -15,16 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1975, 685
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## (XXXX) Art 1 bis 28 (weggefallen)
-
 
 ## Art 29 Rechtsverordnungsermächtigung
 
@@ -35,7 +31,6 @@ Sie kann diese Ermächtigung auf die Landesregierungen übertragen und
 dabei vorsehen, daß die Landesregierungen die Ermächtigung auf oberste
 Landesbehörden weiter übertragen können.
 
-
 ## Art 30 Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
@@ -44,11 +39,9 @@ im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes
 erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 Überleitungsgesetzes.
 
-
 ## Art 31 Inkrafttreten
 
 Dieses Gesetz tritt am 1. April 1975 in Kraft.
-
 
 ## Anlage (zu Artikel 29)
 

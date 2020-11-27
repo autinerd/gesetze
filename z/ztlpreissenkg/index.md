@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 4637, 4640
 
-
-
 ## (XXXX)
 
 Die am 31. Dezember 2002 geltenden Höchstpreise für abrechnungsfähige

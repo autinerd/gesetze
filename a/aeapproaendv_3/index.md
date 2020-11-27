@@ -15,19 +15,15 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1981, 660
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 4 der Bundesärzteordnung in der Fassung der
 Bekanntmachung vom 14. Oktober 1977 (BGBl. I S. 1885) wird mit
 Zustimmung des Bundesrates verordnet:
 
-
 ## Art 1
 
 -
-
 
 ## Art 2 Ausnahmeregelung
 
@@ -52,17 +48,14 @@ werden.
 Approbationsordnung für Ärzte zu einer weiteren Wiederholung der
 Ärztlichen Vorprüfung zugelassen werden.
 
-
 ## Art 3
 
 Diese Verordnung gilt nach § 13 des Dritten Überleitungsgesetzes in
 Verbindung mit § 15 der Bundesärzteordnung auch im Land Berlin.
 
-
 ## Art 4
 
 Diese Verordnung tritt am 1. August 1981 in Kraft.
-
 
 ## Schlußformel
 

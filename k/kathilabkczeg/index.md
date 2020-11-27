@@ -17,13 +17,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 2002, 1874
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -32,7 +29,6 @@ der Bundesrepublik Deutschland und der Tschechischen Republik über die
 gegenseitige Hilfeleistung bei Katastrophen und schweren
 Unglücksfällen wird zugestimmt. Der Vertrag wird nachstehend
 veröffentlicht.
-
 
 ## Art 2
 
@@ -55,7 +51,6 @@ Hilfeleistungen in der Tschechischen Republik entstehen, trägt
 den Fällen des Artikels 9 Abs. 2 bis 4 des Vertrags entstehen, richtet
 sich die Kostenträgerschaft danach, ob die jeweilige Hilfsmaßnahme in
 den Aufgabenbereich des Bundes oder eines Landes fällt.
-
 
 ## Art 3
 

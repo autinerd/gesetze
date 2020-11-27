@@ -19,12 +19,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 5a G v. 12.4.2011 I 619
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## § 1 Anordnung als Bundesstatistik
 
@@ -49,10 +47,6 @@ durchgeführt.
 
 4.  der Bauabgänge.
 
-
-
-
-
 ## § 2 Erhebungseinheiten
 
 (1) Die Erhebungen nach § 1 Abs. 2 Nr. 1 bis 3 erfassen alle
@@ -68,7 +62,6 @@ oder bis zu 18.000 Euro veranschlagte Kosten.
 Gebäudeteile, die durch ordnungsbehördliche Maßnahmen, Schadensfälle
 oder Abbruch der Nutzung entzogen werden oder deren Nutzung zwischen
 Wohn- und Nichtwohnzwecken geändert wird.
-
 
 ## § 3 Erhebungsmerkmale
 
@@ -158,10 +151,6 @@ Wohn- und Nichtwohnzwecken geändert wird.
 6.  Größe des Abgangs nach Wohnfläche und sonstiger Nutzfläche, Zahl der
     Wohneinheiten nach Zahl der Räume.
 
-
-
-
-
 ## § 4 Hilfsmerkmale
 
 Hilfsmerkmale sind
@@ -179,17 +168,12 @@ Hilfsmerkmale sind
 4.  bei Wiedererrichtung eines Gebäudes zusätzlich Abgangsjahr des
     vorherigen Gebäudes und Meldung zur Erhebung nach § 1 Abs. 2 Nr. 4.
 
-
-
-
-
 ## § 5 Berichtszeitraum, Berichtszeitpunkt
 
 Die Erhebungen nach § 1 Abs. 2 Nr. 1 und 4 werden monatlich für den
 abgelaufenen Kalendermonat, die Erhebung nach § 1 Abs. 2 Nr. 2 wird
 jährlich für das abgelaufene Kalenderjahr, die Erhebung nach § 1 Abs.
 2 Nr. 3 wird jährlich nach dem Stand vom 31. Dezember durchgeführt.
-
 
 ## § 6 Auskunftspflicht
 
@@ -202,7 +186,6 @@ Gemeinden und Gemeindeverbände, für die Angaben nach § 3 Abs. 4 auch
 die Eigentümer, Gemeinden und Gemeindeverbände. Die Landesregierungen
 werden ermächtigt, Näheres durch Rechtsverordnung zu regeln.
 
-
 ## § 7 Anschriftenübermittlung
 
 Für die Durchführung der Erhebungen der Baumaßnahmen, die nicht
@@ -213,7 +196,6 @@ Verfahrensvorschriften unterliegen, nach § 1 Abs. 2 Nr. 1 bis 3
 Bezeichnung des Bauvorhabens. Die Landesregierungen werden ermächtigt,
 Näheres durch Rechtsverordnung zu regeln.
 
-
 ## § 8 Fortschreibung des Wohngebäude- und Wohnungsbestandes
 
 Für Landkreise, für kreisangehörige Gemeinden und für kreisfreie
@@ -223,7 +205,6 @@ an Wohngebäuden, der Bestand an Wohnungen in Wohn- und
 Nichtwohngebäuden nach Zahl der Räume und der Bestand an Räumen und
 Wohnfläche fortzuschreiben, der in der jeweils letzten allgemeinen
 Gebäude- und Wohnungszählung festgestellt worden ist.
-
 
 ## § 9 Verwendung von Merkmalen
 
@@ -270,7 +251,6 @@ Erhebungsmerkmale nach § 3 Abs. 1 Nr. 2 bis 8 sowie Abs. 2 dürfen
 zusammen mit den Hilfsmerkmalen Name und Anschrift des Bauherrn für
 die Auswahl geeigneter zu Befragender für die Statistik der Baupreise
 nach § 4 Abs. 1 des Gesetzes über die Preisstatistik verwendet werden.
-
 
 ## § 10 Inkrafttreten
 

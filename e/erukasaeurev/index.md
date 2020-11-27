@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 11 V v. 22.2.2006 I 444
 
-
 ## Eingangsformel
 
 Auf Grund des § 9 Abs. 1 Nr. 4 Buchstabe a des Lebensmittel- und
@@ -26,7 +25,6 @@ Bedarfsgegenständegesetzes vom 15. August 1974 (BGBl. I S. 1945, 1946)
 wird im Einvernehmen mit den Bundesministern für Ernährung,
 Landwirtschaft und Forsten und für Wirtschaft mit Zustimmung des
 Bundesrates verordnet:
-
 
 ## § 1
 
@@ -39,10 +37,6 @@ Diese Verordnung gilt für
 2.  Lebensmittel, die unter Zusatz von Speiseöl, Speisefett oder ihren
     Mischungen hergestellt werden und einen Gesamtfettgehalt von mehr als
     5 vom Hundert haben.
-
-
-
-
 
 ## § 2
 
@@ -64,14 +58,12 @@ Untersuchungsverfahren nach § 64 Abs. 1 des Lebensmittel- und
 Futtermittelgesetzbuches unter der Gliederungsnummer L 23.04-1(EG),
 Stand April 1981, beschrieben ist.
 
-
 ## § 3
 
 Nach § 58 Abs. 1 Nr. 18, Abs. 4 bis 6 des Lebensmittel- und
 Futtermittelgesetzbuches wird bestraft, wer entgegen § 2 Abs. 1
 Lebensmittel im Sinne des § 1 mit einem überhöhten Gehalt an
 Erukasäure gewerbsmäßig in den Verkehr bringt.
-
 
 ## § 4
 
@@ -80,11 +72,9 @@ Verbindung mit Artikel 11 des Gesetzes zur Gesamtreform des
 Lebensmittelrechts vom 15. August 1974 (BGBl. I S. 1945) auch im Land
 Berlin.
 
-
 ## § 5
 
 Diese Verordnung tritt am 1. Juli 1977 in Kraft.
-
 
 ## Schlußformel
 

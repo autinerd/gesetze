@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1997, 3412
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 24 Abs. 4 des Gesetzes über das Kreditwesen, der durch
@@ -28,7 +26,6 @@ Bundesaufsichtsamt für das Kreditwesen vom 19. Dezember 1997 (BGBl. I
 S. 3156) verordnet das Bundesaufsichtsamt für das Kreditwesen im
 Einvernehmen mit der Deutschen Bundesbank nach Anhörung der
 Spitzenverbände der Institute:
-
 
 ## § 1
 
@@ -43,11 +40,9 @@ zuständigen Behörden erteilten Erlaubnisse und vorgenommenen
 Bestellungen sowie aktuelle Registerauszüge in den für die Anzeige
 vorgesehenen Ausfertigungen beizufügen.
 
-
 ## § 2
 
 Diese Verordnung tritt am 1. Januar 1998 in Kraft.
-
 
 ## Anlage Anzeige nach § 64e Abs. 2 Satz 1 KWG (Finanzdienstleistungsinstitute und Wertpapierhandelsbanken)1)
 

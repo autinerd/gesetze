@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 10 V v. 25.8.2009 I 2960
 
-
 ## Eingangsformel
 
 Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August
@@ -31,7 +30,6 @@ Oktober 1998 (BGBl. I S. 3288) verordnet das Bundesministerium für
 Bildung und Forschung nach Anhörung des Ständigen Ausschusses des
 Bundesinstituts für Berufsbildung im Einvernehmen mit dem
 Bundesministerium für Wirtschaft und Technologie:
-
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
 
@@ -91,7 +89,6 @@ von floristischen Werkstücken wahrzunehmen:
 (3) Die erfolgreich abgelegte Prüfung führt zu dem anerkannten
 Abschluss Geprüfter Floristmeister/Geprüfte Floristmeisterin.
 
-
 ## § 2 Zulassungsvoraussetzungen
 
 (1) Zur Meisterprüfung ist zuzulassen, wer
@@ -118,7 +115,6 @@ werden, wer durch Vorlage von Zeugnissen oder auf andere Weise
 glaubhaft macht, dass er Kenntnisse, Fertigkeiten und Erfahrungen
 erworben hat, die die Zulassung zur Prüfung rechtfertigen.
 
-
 ## § 3 Gliederung der Prüfung
 
 (1) Die Prüfungsanforderungen beziehen sich auf:
@@ -134,7 +130,6 @@ erworben hat, die die Zulassung zur Prüfung rechtfertigen.
 (2) Die Prüfung besteht aus drei integrativen Situationsaufgaben nach
 Maßgabe des § 6 Abs. 1 bis 5 und dem Nachweis der berufs- und
 arbeitspädagogischen Eignung nach Maßgabe des § 6 Abs. 6.
-
 
 ## § 4 Handlungsbereiche
 
@@ -369,10 +364,6 @@ Qualifikationsschwerpunkte geprüft werden:
 
 3.  Werkstücke hinsichtlich des Konzeptes und der Kalkulation überprüfen.
 
-
-
-
-
 ## § 5 Handlungsobjekte
 
 (1) Handlungsobjekte sind floristische Werkstücke, die in ihrer
@@ -397,10 +388,6 @@ unterschiedlichen Anforderungen und Kundenwünschen anwenden kann.
     menschlichen Lebens sowie religiöse und weltliche Feste, nach Sitten
     und Brauchtum, die traditionsgemäß unter Verwendung bestimmter
     floristischer Werkstücke begangen werden.
-
-
-
-
 
 ## § 6 Durchführung der Prüfung
 
@@ -504,7 +491,6 @@ Ausbildungseinheit hat der Prüfungsteilnehmer in einem
 Prüfungsgespräch zu begründen. Die Prüfung im praktischen Teil soll
 höchstens 30 Minuten dauern.
 
-
 ## § 7 Anrechnung anderer Prüfungsleistungen
 
 Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin ist auf Antrag
@@ -516,7 +502,6 @@ Prüfungsausschuss erfolgreich abgelegt wurde und die Anmeldung zur
 Fortbildungsprüfung innerhalb von fünf Jahren nach der Bekanntgabe des
 Bestehens der anderen Prüfung erfolgt. Die Ausschlussfrist nach Satz 1
 gilt nicht für § 6 Abs. 6 entsprechende Prüfungsleistungen.
-
 
 ## § 8 Bestehen der Prüfung
 
@@ -536,7 +521,6 @@ und ein Zeugnis gemäß der Anlage 2 auszustellen. Im Fall der
 Freistellung gemäß § 7 sind Ort und Datum sowie Bezeichnung des
 Prüfungsgremiums der anderweitig abgelegten Prüfung anzugeben.
 
-
 ## § 9 Wiederholung der Prüfung
 
 (1) Eine Prüfung, die nicht bestanden ist, kann zweimal wiederholt
@@ -551,17 +535,14 @@ Prüfung an, zur Wiederholungsprüfung angemeldet hat. Der
 Prüfungsteilnehmer kann beantragen, auch bestandene Prüfungsleistungen
 zu wiederholen. In diesem Fall gilt das letzte Ergebnis.
 
-
 ## § 10 Übergangsvorschrift
 
 Die bis zum Ablauf des 31. August 2009 begonnenen Prüfungsverfahren
 können nach den bisherigen Vorschriften zu Ende geführt werden.
 
-
 ## § 11 Inkrafttreten
 
 Die Verordnung tritt am 1. September 2001 in Kraft.
-
 
 ## Anlage 1 (zu § 8 Abs. 3)
 
@@ -590,7 +571,6 @@ bestanden.
 Datum ..........................................
 Unterschrift(en) ...............................
 (Siegel der zuständigen Stelle)
-
 
 ## Anlage 2 (zu § 8 Abs. 3)
 

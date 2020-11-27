@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 3241
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 22d Abs. 1 Satz 2 des Kreditwesengesetzes, der durch
@@ -29,10 +27,7 @@ Bundesanstalt für Finanzdienstleistungsaufsicht vom 13. Dezember 2002
 Verordnung vom 17. November 2005 (BGBl. I S. 3187), verordnet die
 Bundesanstalt für Finanzdienstleistungsaufsicht:
 
-
 ## Teil 1 - Anwendungsbereich; allgemeine Anforderungen
-
-
 
 ### § 1 Anwendungsbereich; Begriffsbestimmung
 
@@ -42,7 +37,6 @@ Kreditwesengesetzes sowie die Art und Weise der Aufzeichnung.
 
 (2) Eintragungen im Sinne dieser Verordnung sind auch
 Löschungsvermerke.
-
 
 ### § 2 Form des Refinanzierungsregisters
 
@@ -56,7 +50,6 @@ Papierform weiterzuführen. Im Falle der Umstellung von einem in
 Papierform geführten Register auf ein elektronisches Register sind
 sämtliche Registerdaten in das elektronische Register zu übernehmen.
 
-
 ### § 3 Vollständigkeit und Richtigkeit des Refinanzierungsregisters
 
 Eintragungen sind in der Weise dauerhaft aufzuzeichnen, dass etwaig
@@ -64,7 +57,6 @@ vorgenommene spätere Änderungen und Löschungen jederzeit erkennbar
 sind. Durch technische und organisatorische Maßnahmen ist
 sicherzustellen, dass der ursprüngliche Inhalt weiterhin feststellbar
 bleibt.
-
 
 ### § 4 Bezeichnung des Refinanzierungsregisters sowie der Abteilungen und Unterabteilungen
 
@@ -96,7 +88,6 @@ gebildet wird.
 dem Register geführt werden. Soweit in einer Abteilung
 Unterabteilungen gebildet werden, ist über diese in der jeweiligen
 Abteilung eine Liste zu führen.
-
 
 ### § 5 Art und Weise der Aufzeichnung
 
@@ -197,10 +188,6 @@ Formulars RR in folgender Weise vorzunehmen:
     erleichtern. Bei Bedarf kann in Spalte 7 auch das Namenskürzel der
     eintragenden Person erfasst werden.
 
-
-
-
-
 ### § 6 Eintragung ausländischer Sicherungsrechte
 
 Eintragungen ausländischer Sicherungsrechte sind entsprechend § 5
@@ -219,17 +206,13 @@ erfasst sind, sind mit den innerhalb der jeweiligen Rechtsordnung
 gebräuchlichen Angaben einzutragen, die eine eindeutige
 Identifizierung des jeweiligen Objekts ermöglichen.
 
-
 ### § 7 Schutz des Refinanzierungsregisters
 
 Das Refinanzierungsregister ist vor unberechtigtem Zugriff sowie vor
 Beschädigung oder Zerstörung durch äußere Einwirkungen wie Feuer oder
 Wasser besonders zu schützen.
 
-
 ## Teil 2 - Zusätzliche Anforderungen bei elektronischer Registerführung
-
-
 
 ### § 8 Begriff und allgemeine Anforderungen
 
@@ -242,7 +225,6 @@ dem Bildschirm und in Ausdrucken in einer Weise sichtbar gemacht
 werden können, die die Eintragungen nach Form und Inhalt vollständig
 abbildet. Das elektronische Refinanzierungsregister muss jederzeit
 vollständig ausgedruckt werden können.
-
 
 ### § 9 Technische und organisatorische Maßnahmen zur Gewährleistung von Datenschutz und Datensicherheit
 
@@ -289,10 +271,7 @@ als das Refinanzierungsregister zu speichern und mindestens am Ende
 eines jeden Arbeitstages auf den Stand zu bringen, den das
 Refinanzierungsregister zu diesem Zeitpunkt hat.
 
-
 ## Teil 3 - Schlussbestimmungen
-
-
 
 ### § 10 Übergangsbestimmung
 
@@ -301,11 +280,9 @@ Kreditwesengesetzes bereits vor Inkrafttreten dieser Verordnung
 eingerichtet worden sind, dürfen bis zum 30. Juni 2007 in der
 bisherigen Art und Weise fortgeführt werden.
 
-
 ### § 11 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ### Anlage (zu § 5)
 

@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 V v. 24.4.2012 I 661
 
-
 ## § 1 Begriffsbestimmung
 
 Im Sinne dieser Verordnung ist EMAS-Anlage eine Anlage, die
@@ -31,7 +30,6 @@ Umweltbetriebsprüfung (EMAS) (ABl. EG Nr. L 114 S. 1) eingetragenen
 Organisation oder eines nach Artikel 17 Abs. 4 Satz 1 der Verordnung
 (EG) Nr. 761/2001 auf der EMAS-Eintragungsliste verbleibenden
 Standorts ist.
-
 
 ## § 2 Betriebsorganisation
 
@@ -46,7 +44,6 @@ Standorts nach § 27 des Kreislaufwirtschaftsgesetzes in Besitz
 genommen hat, durch die Bereitstellung des Bescheides zur Standort-
 oder Organisationseintragung erfüllt. Die Behörde kann im Einzelfall
 die Vorlage weitergehender Unterlagen verlangen.
-
 
 ## § 3 Betriebsbeauftragte
 
@@ -83,7 +80,6 @@ EMAS-Anlage auch dadurch erfüllt, dass er der zuständigen Behörde im
 Rahmen des Umwelt-Audits erarbeitete Unterlagen zugeleitet hat, die
 gleichwertige Angaben enthalten.
 
-
 ## § 4 Ermittlungen von Emissionen
 
 Die zuständige Behörde soll bei EMAS-Anlagen Messungen nach § 28 Satz
@@ -96,7 +92,6 @@ Immissionsschutzbeauftragte oder ein sonstiger geeigneter
 Betriebsangehöriger die hierfür erforderliche Fachkunde und
 Zuverlässigkeit besitzt und sichergestellt ist, dass geeignete Geräte
 und Einrichtungen eingesetzt werden.
-
 
 ## § 5 Wiederkehrende Messungen, Funktionsprüfungen
 
@@ -165,7 +160,6 @@ Funktionsprüfungen nach
 mit eigenem Personal durchzuführen. Satz 1 gilt nicht für die
 erstmalige Funktionsprüfung.
 
-
 ## § 6 Sicherheitstechnische Prüfungen
 
 Die zuständige Behörde soll dem Betreiber einer EMAS-Anlage auf Antrag
@@ -178,7 +172,6 @@ Störfallbeauftragte oder ein sonstiger geeigneter Betriebsangehöriger
 die hierfür erforderliche Fachkunde und Zuverlässigkeit besitzt und
 geeignete Geräte und Einrichtungen eingesetzt werden. Die Ergebnisse
 der Prüfungen sind der Behörde auf deren Verlangen vorzulegen.
-
 
 ## § 7 Berichte
 
@@ -224,14 +217,12 @@ organischen Verbindungen unterliegen und der Genehmigung in einem
 Verfahren nach § 4 Abs. 1 des Bundes-Immissionsschutzgesetzes unter
 Einbeziehung der Öffentlichkeit bedürfen.
 
-
 ## § 8 Verlängerung von Messintervallen
 
 Die zuständige Behörde soll die Messintervalle von Messungen an EMAS-
 Anlagen nach § 12 Abs. 3 der Verordnung zur Emissionsbegrenzung von
 leichtflüchtigen halogenierten organischen Verbindungen in der jeweils
 geltenden Fassung um jeweils ein Jahr verlängern.
-
 
 ## § 9 Unterrichtung der Öffentlichkeit
 
@@ -241,7 +232,6 @@ Fassung kann nach Anzeige gegenüber der zuständigen Behörde die
 jährliche Unterrichtung der Öffentlichkeit mittels der jeweils
 aktualisierten Umwelterklärung vornehmen, sofern diese die
 erforderlichen Angaben enthält.
-
 
 ## § 10 Widerruf
 

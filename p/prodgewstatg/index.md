@@ -21,7 +21,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 G v. 5.12.2012 I 2466
 
-
 ## § 1
 
 Im Produzierenden Gewerbe, das Bergbau und Gewinnung von Steinen und
@@ -30,10 +29,7 @@ Abwasser- und Abfallentsorgung und Beseitigung von
 Umweltverschmutzungen sowie Baugewerbe umfasst, werden statistische
 Erhebungen als Bundesstatistik durchgeführt.
 
-
 ## 1. Abschnitt - Bergbau und Gewinnung von Steinen und Erden, Verarbeitendes Gewerbe
-
-
 
 ### § 2 Erhebungen bei Betrieben
 
@@ -109,16 +105,6 @@ B.  bei Betrieben, die nicht nach Buchstabe A erfasst werden,
 
 
         4.  die Investitionen.
-
-
-
-
-
-
-
-
-
-
 
 ### § 3 Erhebungen bei Unternehmen
 
@@ -198,13 +184,7 @@ B.  alle vier Jahre, beginnend 2003 für 2002,
 
     den Material- und Wareneingang nach Arten.
 
-
-
-
-
 ## 2. Abschnitt - Baugewerbe
-
-
 
 ### § 4 Erhebungen bei Betrieben
 
@@ -344,16 +324,6 @@ C.  bei ausbaugewerblichen Betrieben von Unternehmen des Ausbaugewerbes
 
             den Umsatz.
 
-
-
-
-
-
-
-
-
-
-
 ### § 5 Erhebungen bei Unternehmen
 
 Die Erhebungen erfassen jährlich
@@ -413,13 +383,7 @@ II. bei höchstens 12.000 Unternehmen des Baugewerbes
     6\.000 befragt werden, werden nur die Sachverhalte nach den Nummern 1,
     2 und 6 sowie zusätzlich die Investitionen erfasst.
 
-
-
-
-
 ## 3. Abschnitt - Energieversorgung, Wasserversorgung, Abwasser- und Abfallentsorgung und Beseitigung von Umweltverschmutzungen
-
-
 
 ### § 6 Erhebungen bei Betrieben und Unternehmen der Energieversorgung
 
@@ -537,13 +501,6 @@ B.  jährlich
         Erdölgas gewinnen oder Erd- oder Erdölgasleitungen erstellen oder
         betreiben, die Investitionen.
 
-
-
-
-
-
-
-
 ### § 6a Erhebungen bei Betrieben und Unternehmen der Wasserversorgung, der Abwasser- und Abfallentsorgung und der Beseitigung von Umweltverschmutzungen
 
 Die Erhebungen erfassen
@@ -654,22 +611,7 @@ B.  jährlich
 
             b)  die Lieferungen und Leistungen an die fachlichen Unternehmensteile.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 4. Abschnitt - Allgemeine Bestimmungen
-
-
 
 ### § 7 Zusätzliche Erhebungsmerkmale, Hilfsmerkmale, Unternehmens- und Betriebsbegriff
 
@@ -731,10 +673,6 @@ B.  jährlich
     Wirtschaftstätigkeiten ausgeübt werden, für die in der Regel eine oder
     mehrere Personen im Auftrag desselben Unternehmens arbeiten.
 
-
-
-
-
 ### § 8 Verordnungsermächtigung
 
 Das Bundesministerium für Wirtschaft und Technologie wird ermächtigt,
@@ -745,10 +683,6 @@ durch Rechtsverordnung mit Zustimmung des Bundesrates
 
 
 2.  zum Zwecke der Arbeitsersparnis die Berichtszeiträume zu verlängern.
-
-
-
-
 
 ### § 9 Auskunftspflicht
 
@@ -766,7 +700,6 @@ Absatz 1 Satz 1 und 2 keine Auskunftspflicht. In den beiden folgenden
 Kalenderjahren besteht dann keine Auskunftspflicht, wenn das
 Unternehmen im letzten abgeschlossenen Geschäftsjahr Umsätze in Höhe
 von weniger als 500.000 Euro erwirtschaftet hat.
-
 
 ### § 10 Übermittlungsregelung
 
@@ -788,7 +721,6 @@ gespeichert und genutzt werden. Diese Organisationseinheiten müssen
 von den mit Vollzugsaufgaben befassten Organisationseinheiten des
 Umweltbundesamtes räumlich, organisatorisch und personell getrennt
 sein.
-
 
 ### § 11 Erhebung und Aufbereitung
 
@@ -812,26 +744,20 @@ I und § 6a Buchstabe B Ziffer I.
 Bundesamt auf Anforderung die von ihnen erhobenen Einzelangaben für
 Sonderaufbereitungen des Bundes.
 
-
 ### § 12 Übergangsregelung
 
 Die Erhebung nach § 2 Satz 2 Buchstabe B Ziffer II Nr. 1 bis 3 wird
 erstmals im Jahr 2008 für das Jahr 2007 durchgeführt.
 
-
 ### § 13 (Änderung von Rechtsvorschriften)
 
 -
-
 
 ### § 14 (Außerkraftsetzung bestehender Vorschriften)
 
 -
 
-
 ### (XXXX) §§ 15 und 16 (weggefallen)
-
-
 
 ### § 17 (Inkrafttreten des Gesetzes, Übergangsregelung)
 

@@ -15,17 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1961, 1292
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art I - Einführung des Bundesversorgungsgesetzes
-
-
 
 ## § 1
 
@@ -67,7 +62,6 @@ ebenfalls mit Wirkung vom 1. Juni 1960 im Saarland eingeführt; im
 übrigen werden sie mit Wirkung vom ersten Tag des Monats, der auf die
 Verkündung dieses Gesetzes folgt, im Saarland eingeführt.
 
-
 ## § 2
 
 (1) Wenn nach den Rechtsvorschriften des Saarlandes über die Frage des
@@ -91,7 +85,6 @@ ständigen Aufenthalt im Saarland hatten und deshalb an einer erneuten
 Anmeldung des Anspruchs nach § 85 Satz 2 des Bundesversorgungsgesetzes
 in der vor dem 1. Juni 1960 geltenden Fassung gehindert waren.
 
-
 ## § 3
 
 Die nach den Rechtsvorschriften des Saarlandes festgestellten
@@ -108,7 +101,6 @@ anzurechnen. Bei der Anwendung des § 62 des Bundesversorgungsgesetzes
 ist von den Verhältnissen auszugehen, die für die Feststellung der
 Minderung der Erwerbsfähigkeit nach den Rechtsvorschriften des
 Saarlandes maßgebend waren.
-
 
 ## § 4
 
@@ -134,7 +126,6 @@ worden ist, in Höhe des Betrages der Ausbildungsbeihilfe auf eine nach
 § 27 des Bundesversorgungsgesetzes zu gewährende Erziehungsbeihilfe
 anzurechnen.
 
-
 ## § 5
 
 (1) Sieht das Bundesversorgungsgesetz für einen Personenkreis, dem bis
@@ -154,7 +145,6 @@ die Leistungen einmal entzogen worden, ist Absatz 1 nicht mehr
 anwendbar, auch wenn die für die Entziehung maßgebenden Verhältnisse
 sich ändern.
 
-
 ## § 6
 
 (1) Bezüge, die nach den Rechtsvorschriften des Saarlandes als
@@ -172,7 +162,6 @@ Saarlandes gewährte Leistung ebenfalls entzogen worden wäre. Ist die
 Zuwendung einmal entzogen worden, ist Absatz 1 nicht mehr anwendbar,
 auch wenn die für die Entziehung maßgebenden Verhältnisse sich ändern.
 
-
 ## § 7
 
 § 44 Abs. 3 des Bundesversorgungsgesetzes gilt, wenn eine Abfindung
@@ -181,13 +170,11 @@ Maßgabe, daß an die Stelle der Worte "fünfzig Monate" die Worte
 "sechsunddreißig Monate" und an Stelle des Wortes "fünfzigstel" das
 Wort "sechsunddreißigstel" tritt.
 
-
 ## § 8
 
 Ist nach den Rechtsvorschriften des Saarlandes einmal Elternrente
 gewährt worden, gilt die Ernährereigenschaft (§ 50 Abs. 1 des
 Bundesversorgungsgesetzes) als erfüllt.
-
 
 ## § 9
 
@@ -197,13 +184,11 @@ Gewährung maßgebenden Vorschriften weiterhin anzuwenden. Die nach dem
 Bundesversorgungsgesetz zu gewährende Grundrente ist um den der
 Kapitalabfindung zugrunde liegenden Betrag zu mindern.
 
-
 ## § 10
 
 Ist ein Berechtigter in der Zeit zwischen dem 1. Juni 1960 und dem
 Tage nach der Verkündung dieses Gesetzes gestorben, findet § 36 Abs. 4
 des Bundesversorgungsgesetzes keine Anwendung.
-
 
 ## § 11
 
@@ -228,7 +213,6 @@ Versicherung freiwillig fortsetzen können, wenn sie im Zeitpunkt der
 Antragstellung freiwillig versichert waren oder das Recht auf
 freiwillige Weiterversicherung hatten.
 
-
 ## § 12
 
 Sofern sich in einzelnen Fällen aus § 1 Härten ergeben, kann mit
@@ -236,16 +220,12 @@ Zustimmung des Bundesministers für Arbeit und Sozialordnung, in Fällen
 der Kriegsopferfürsorge des Bundesministers des Innern, ein Ausgleich
 gewährt werden.
 
-
 ## § 13
 
 Die auf Grund dieses Gesetzes zu gewährenden Leistungen sind wie
 Renten nach dem Bundesversorgungsgesetz zu behandeln.
 
-
 ## Art II - Einführung des Gesetzes über die Unterhaltsbeihilfe für Angehörige von Kriegsgefangenen
-
-
 
 ## § 1
 
@@ -254,7 +234,6 @@ Kriegsgefangenen in der Fassung vom 30. April 1952 (Bundesgesetzbl. I
 S. 262), zuletzt geändert durch das Gesetz zur Änderung und Ergänzung
 des Kriegsopferrechts vom 27. Juni 1960 (Bundesgesetzbl. I S. 453),
 wird mit Wirkung vom 1. Juni 1960 im Saarland eingeführt.
-
 
 ## § 2
 
@@ -265,10 +244,7 @@ Kriegsgefangenen im Saarland betroffenen Personenkreis entsprechend, §
 Arbeit und Sozialordnung der Bundesminister für Vertriebene,
 Flüchtlinge und Kriegsgeschädigte tritt.
 
-
 ## Art III - Schlußvorschriften
-
-
 
 ## § 1
 
@@ -276,18 +252,15 @@ Mit den sich aus Artikel I § 1 Abs. 1 und Artikel II ergebenden
 Zeitpunkten treten alle entgegenstehenden oder inhaltsgleichen
 Rechtsvorschriften des Saarlands außer Kraft.
 
-
 ## § 2
 
 -
-
 
 ## § 3
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
 im Land Berlin.
-
 
 ## § 4
 

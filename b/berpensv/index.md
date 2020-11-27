@@ -19,8 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 23.12.2011 I 3129
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 113 Abs. 1, des § 55a Abs. 1 und des § 118 des
@@ -32,10 +30,7 @@ b des Gesetzes vom 22. April 2002 (BGBl. I S. 1310), § 118 durch
 Artikel 10 Nr. 4 des Gesetzes vom 26. Juni 2001 (BGBl. I S. 1310)
 eingefügt worden sind, verordnet das Bundesministerium der Finanzen:
 
-
 ## Erster Abschnitt - Interner jährlicher Bericht für die Aufsichtsbehörde
-
-
 
 ### § 1 Interner jährlicher Bericht
 
@@ -51,10 +46,6 @@ zusammensetzt:
 
 3.  sonstige Rechnungslegungsunterlagen gemäß § 7.
 
-
-
-
-
 ### § 2 Formblätter für Bilanz und Gewinn- und Verlustrechnung
 
 Pensionsfonds haben ihre Bilanzen und Gewinn- und Verlustrechnungen
@@ -66,10 +57,6 @@ aufzustellen, und zwar
 
 2.  die Gewinn- und Verlustrechnungen für das gesamte
     Pensionsfondsgeschäft nach Formblatt 810.
-
-
-
-
 
 ### § 3 Gesonderte Gewinn- und Verlustrechnung
 
@@ -96,7 +83,6 @@ Nr. 3 können entfallen, sofern die gebuchten Brutto-Beiträge des im
 einzelnen Mitglied- oder Vertragsstaat betriebenen
 Pensionsfondsgeschäfts nicht mehr als 500.000 Euro betragen.
 
-
 ### § 4 Stückzahl und Fristen für die Einreichung der Formblätter
 
 (1) Die Formblätter 800 und 810 gemäß den §§ 2 und 3 sind der
@@ -107,7 +93,6 @@ Monate nach Schluss des Geschäftsjahres einzureichen.
 Jahresabschlusses Abweichungen, sind der Aufsichtsbehörde unverzüglich
 nach der Feststellung zusätzlich die insoweit berichtigten Formblätter
 800 und 810 in jeweils doppelter Ausfertigung nachzureichen.
-
 
 ### § 5 Formgebundene Erläuterungen
 
@@ -150,10 +135,6 @@ Pensionsfonds haben folgende formgebundene Erläuterungen zu erstellen:
 9.  Angaben zu dem in Rückversicherung gegebenen Pensionsfondsgeschäft
     gemäß Nachweisung 850.
 
-
-
-
-
 ### § 6 Stückzahl und Fristen für die Einreichung der formgebundenen Erläuterungen
 
 Die formgebundenen Erläuterungen gemäß § 5 sind der Aufsichtsbehörde
@@ -165,10 +146,6 @@ jeweils in doppelter Ausfertigung einzureichen, und zwar
 
 2.  spätestens sechs Monate nach Schluss des Geschäftsjahres die
     Nachweisungen 820 und 830.
-
-
-
-
 
 ### § 7 Sonstige Rechnungslegungsunterlagen
 
@@ -256,10 +233,7 @@ Treuhänder gemäß § 70 des Versicherungsaufsichtsgesetzes
 handschriftlich zu unterzeichnen. In dieser Ausfertigung ist ferner
 der Bericht des Aufsichtsrats handschriftlich zu unterzeichnen.
 
-
 ## Zweiter Abschnitt - Interner halbjährlicher Zwischenbericht für die Aufsichtsbehörde
-
-
 
 ### § 8 Halbjährlicher Zwischenbericht
 
@@ -272,16 +246,12 @@ Aufsichtsbehörde in jeweils doppelter Ausfertigung spätestens bis zum
 Ende des auf das jeweilige Berichtshalbjahr folgenden Monats
 einzureichen.
 
-
 ## Dritter Abschnitt - Kennzahlen und technische Fragen
-
-
 
 ### § 9 Kennzahlen
 
 Die auf den Formblättern und Nachweisungen zu setzenden Kennzahlen
 ergeben sich aus der Anlage 1.
-
 
 ### § 10 Technik der Erstellung und Anwendung von Formblättern und Nachweisungen
 
@@ -292,17 +262,13 @@ zu beachten.
 (2) Bei der Erstellung der Formblätter und Nachweisungen ist Anlage 2
 Abschnitt C zu beachten.
 
-
 ## Vierter Abschnitt - Schlussvorschriften
-
-
 
 ### § 11 Subdelegation
 
 Die Befugnis zum Erlass von Änderungen dieser Verordnung wird gemäß §
 113 Abs. 1 in Verbindung mit § 55a Abs. 1 Satz 2 des
 Versicherungsaufsichtsgesetzes auf die Bundesanstalt übertragen.
-
 
 ### § 12 Inkrafttreten
 
@@ -318,11 +284,9 @@ Pensionsfondsberichterstattungsverordnung vom 23. Dezember 2011 (BGBl.
 I S. 3129) erfolgt sind, ist erstmals für das nach dem 31. Dezember
 2010 beginnende Geschäftsjahr anzuwenden.
 
-
 ### Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ### Anlage 1
 
@@ -540,10 +504,6 @@ Der Bundesrat hat zugestimmt.
 *    *   00
 
     *   Gesamtes Pensionsfondsgeschäft
-
-
-
-
 
 ### Anlage 2
 

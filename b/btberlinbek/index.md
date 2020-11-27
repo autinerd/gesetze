@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1999, 1632
 
-
-
 ## (XXXX)
 
 Der Deutsche Bundestag hat am 1. Juli 1999 gemäß § 2 Abs. 2 des

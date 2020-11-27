@@ -27,7 +27,6 @@ Fundstelle
     Europäischen Parlaments und des Rates vom 5. November 2002 über
     Lebensversicherungen (ABl. EG Nr. L 345 S. 1).
 
-
 ## Eingangsformel
 
 Auf Grund des § 7 Abs. 2 und 3 des Versicherungsvertragsgesetzes vom
@@ -35,7 +34,6 @@ Auf Grund des § 7 Abs. 2 und 3 des Versicherungsvertragsgesetzes vom
 der Justiz im Einvernehmen mit dem Bundesministerium der Finanzen und
 im Benehmen mit dem Bundesministerium für Ernährung, Landwirtschaft
 und Verbraucherschutz:
-
 
 ## § 1 Informationspflichten bei allen Versicherungszweigen
 
@@ -184,7 +182,6 @@ einschließlich der Allgemeinen Versicherungsbedingungen erfolgt,
 bedürfen die Informationen nach Absatz 1 Nr. 3, 13 und 15 einer
 hervorgehobenen und deutlich gestalteten Form.
 
-
 ## § 2 Informationspflichten bei der Lebensversicherung, der Berufsunfähigkeitsversicherung und der Unfallversicherung mit Prämienrückgewähr
 
 (1) Bei der Lebensversicherung hat der Versicherer dem
@@ -261,7 +258,6 @@ Krankentagegeldversicherung übereinstimmt.
 (5) Auf die Unfallversicherung mit Prämienrückgewähr sind Absatz 1 Nr.
 3 bis 8 und Absatz 2 entsprechend anzuwenden.
 
-
 ## § 3 Informationspflichten bei der Krankenversicherung
 
 (1) Bei der substitutiven Krankenversicherung (§ 12 Abs. 1 des
@@ -322,7 +318,6 @@ stellen:
 
 
 (2) Die Angaben zu Absatz 1 Nr. 1, 2 und 7 haben in Euro zu erfolgen.
-
 
 ## § 4 Produktinformationsblatt
 
@@ -390,7 +385,6 @@ Vereinbarung betreffen, ist auf die jeweils maßgebliche Bestimmung des
 Vertrages oder der dem Vertrag zugrunde liegenden Allgemeinen
 Versicherungsbedingungen hinzuweisen.
 
-
 ## § 5 Informationspflichten bei Telefongesprächen
 
 (1) Nimmt der Versicherer mit dem Versicherungsnehmer telefonischen
@@ -409,7 +403,6 @@ Zeitpunkt verzichtet.
 
 (3) Die in §§ 1 bis 4 vorgesehenen Informationspflichten bleiben
 unberührt.
-
 
 ## § 6 Informationspflichten während der Laufzeit des Vertrages
 
@@ -460,7 +453,6 @@ gemäß § 12 Abs. 1c des Versicherungsaufsichtsgesetzes mitzuteilen. Auf
 Anfrage ist dem Versicherungsnehmer der Übertragungswert gemäß § 12
 Abs. 1 Nr. 5 des Versicherungsaufsichtsgesetzes anzugeben; ab dem 1.
 Januar 2013 ist der Übertragungswert jährlich mitzuteilen.
-
 
 ## § 7 Übergangsvorschrift; Inkrafttreten
 

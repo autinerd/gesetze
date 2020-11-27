@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   GBl DDR II: 1971, 621
 
-
-
 ## Eingangsformel
 
 Zur Vermeidung oder Verminderung von Bergschäden und von anderen
@@ -27,7 +25,6 @@ Demokratischen Republik (GBl. II S. 257) im Einvernehmen mit dem
 Minister der Finanzen, den anderen Leitern der zuständigen zentralen
 staatlichen Organe und den Vorsitzenden der Räte der Bezirke folgendes
 angeordnet:
-
 
 ## § 1
 
@@ -58,7 +55,6 @@ c)  unterirdischen Bauwerken im Sinne der Anordnung Nr. 2 vom 2. Oktober
 gilt diese Anordnung nur, wenn diese Hohlräume oder Bauwerke für
 Untersuchungs-, Gewinnungs- oder Speicherarbeiten genutzt wurden oder
 genutzt werden.
-
 
 ## § 2
 
@@ -152,7 +148,6 @@ oder andere nachteilige Einwirkungen durch stillgelegte Grubenbaue
 oder sonstige stillgelegte bergbauliche Anlagen verursacht werden
 können oder bereits eingetreten sind.
 
-
 ## § 3
 
 (1) Grubenbaue, die von Bergbaubetrieben für ihre eigene bergbauliche
@@ -182,7 +177,6 @@ b)  im Zeitraum der Ausarbeitung des Fünfjahrplanes, in dem die Stillegung
 ------
 \*) z.Z. VEB Untergrundspeicher Stendal
 
-
 ## § 4
 
 (1) Die Bergbaubetriebe haben die territoriale Einordnung der künftig
@@ -195,7 +189,6 @@ Rat des Bezirkes abzustimmen.
 (2) Der Rat des Bezirkes kann die Abstimmung auf einen späteren Termin
 verlegen, spätestens auf den Zeitraum der Ausarbeitung des
 Fünfjahrplanes, in dem die Stillegung der Grubenbaue beabsichtigt ist.
-
 
 ## § 5
 
@@ -213,7 +206,6 @@ künftigen Stillegung der Grubenbaue erforderlich, so sind auch diese
 Maßnahmen rechtzeitig vertraglich festzulegen. Die Bergbaubetriebe,
 die die weitere bergbauliche Nutzung vertraglich übernehmen, bzw. die
 Nachnutzer tragen die Kosten dieser zusätzlichen Maßnahmen.
-
 
 ## § 6
 
@@ -293,7 +285,6 @@ Strahlenquellen oder durch im Bohrloch verbliebene Sprengmittel)
 besteht. Die bergschadenkundliche Analyse ist in vereinfachter Form,
 die mit der Bergbehörde abzustimmen ist, anzufertigen.
 
-
 ## § 7
 
 (1) Die Bergbaubetriebe sind zur Verwahrung der von ihnen
@@ -315,7 +306,6 @@ vermeidbar sind.
 bergschadenkundlicher Analysen und die Verwahrungsarbeiten aus den
 Kosten.
 
-
 ## § 8
 
 (1) Auf Grund der bergschadenkundlichen Analyse gemäß § 6 haben die
@@ -332,7 +322,6 @@ Rat des Bezirkes auf die Abstimmung gemäß Abs. 1 verzichten, wenn die
 Bohrlöcher auf Grund der Abstimmung gemäß § 4 nicht nachgenutzt und
 unverzüglich nach der bergbaulichen Nutzung verwahrt werden.
 
-
 ## § 9
 
 (1) Die Bergbaubetriebe haben auf der Grundlage der
@@ -348,7 +337,6 @@ Planungsunterlagen und des von der Bergbehörde genehmigten technischen
 Betriebsplanes, bei stillgelegten Bohrlöchern auf der Grundlage der
 Anzeige gemäß Abs. 1 Satz 2, termin- und qualitätsgerecht
 durchzuführen.
-
 
 ## § 10
 
@@ -389,7 +377,6 @@ bergmännischen Rißwerkes, der bergschadenkundlichen Analyse oder der
 Dokumentation sind, nachgetragen und markscheiderisch beurkundet
 werden.
 
-
 ## § 11
 
 (1) Die Verwahrung ist beendet, wenn der Bergbaubetrieb das mit dem
@@ -403,7 +390,6 @@ oder andere nachteilige Einwirkungen zu erwarten sind, haben die
 Bergbaubetriebe den Rat des Bezirkes, die betroffenen Rechtsträger
 bzw. Eigentümer und Nutzer von Bodenflächen, die betroffenen Betriebe,
 Organe, Bürger usw. in geeigneter Weise davon zu unterrichten.
-
 
 ## § 12
 
@@ -435,7 +421,6 @@ beim Eintritt eines Bergschadens Erstmaßnahmen zur Gewährleistung der
 Verfahren der Gründung und Zusammenlegung von volkseigenen Betrieben
 (GBl. II S. 965)
 
-
 ## § 13
 
 (1) Nachgenutzte Grubenbaue sind nach Beendigung der Nachnutzung
@@ -465,10 +450,6 @@ c)  Die endgültige Verwahrung der stillgelegten bergbaulichen Anlagen
 
 d)  Bergschäden, die aus der endgültigen Verwahrung der stillgelegten
     bergbaulichen Anlagen entstanden sind, hat der Nachnutzer zu ersetzen.
-
-
-
-
 
 ## § 14
 
@@ -509,10 +490,6 @@ c)  Anschrift der Aufbewahrungsstelle des Schriftgutes,
 
 d)  Anschrift des Anzeigenden.
 
-
-
-
-
 ## § 15
 
 (1) Die Bergbehörden werten das gemäß § 14 angezeigte und erfaßte
@@ -530,7 +507,6 @@ behandeln.
 bergschadengefährdete Gebiete zu behandeln, bis der endgültige
 Grundwasserspiegel erreicht ist. Die Haftung der Bergbaubetriebe für
 Bergschäden wird dadurch nicht erweitert.
-
 
 ## § 16
 
@@ -551,7 +527,6 @@ Grubenbaue erforderlich sind.
 von Aufgaben, die sich aus der territorialen Einordnung stillgelegter
 Grubenbaue ergeben, sowie bei der Vorbereitung und Durchführung der
 Verwahrung von Grubenbauen alten Bergbaus.
-
 
 ## § 17
 
@@ -590,7 +565,6 @@ c)  in welchen Fällen für Grubenbaue alten Bergbaus nach Einschätzung der
 (4) Der Rat des Bezirkes leitet in Übereinstimmung mit der Bergbehörde
 langfristige Maßnahmen zur Vorbereitung und Durchführung der
 Verwahrung von Grubenbauen alten Bergbaus ein.
-
 
 ## § 18
 
@@ -633,7 +607,6 @@ für die Anfertigung bergschadenkundlicher Analysen und die
 Durchführung von Verwahrungsarbeiten geeignet sind. Er übergibt eine
 Ausfertigung der bergschadenkundlichen Analysen der Bergbehörde.
 
-
 ## § 19
 
 (1) Die vom Rat des Bezirkes in Abstimmung mit den Räten der Kreise
@@ -658,14 +631,12 @@ anzufertigen und der Bergbehörde zu übergeben sowie die Nachtragung
 der rißlichen Unterlagen der verwahrten Grubenbaue alten Bergbaus
 gemäß den Festlegungen der Bergbehörde zu veranlassen.
 
-
 ## § 20
 
 An die Stelle des Rates des Bezirkes tritt in den Fällen des § 17
 Absätze 2 bis 4, des § 18 Absätze 3 und 4 und des § 19 Absätze 1 und 3
 der Rat des Kreises, soweit der Rat des Bezirkes den Rat des Kreises
 mit der Durchführung der Aufgaben beauftragt.
-
 
 ## § 21
 
@@ -712,24 +683,20 @@ Einwirkungen gewährleistet sein.
 Schadenersatzansprüchen gemäß § 20 des Berggesetzes der Deutschen
 Demokratischen Republik vom 12. Mai 1969.
 
-
 ## § 22
 
 Die Bergbehörden sind berechtigt, auf begründeten Antrag Ausnahmen zu
 § 6 Absätze 2 und 3 sowie zu § 10 Absätze 2 und 3 als Sonderregelungen
 zu genehmigen.
 
-
 ## § 23
 
 Diese Anordnung tritt mit ihrer Veröffentlichung in Kraft.
-
 
 ## Schlußformel
 
 **Der Leiter der Obersten Bergbehörde beim Ministerrat der Deutschen
 Demokratischen Republik**
-
 
 ## Anhang EV Auszug aus EinigVtr Anlage II Kapitel V Sachgebiet D Abschnitt III (BGBl. II 1990, 885, 1202)
 

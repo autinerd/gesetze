@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2000, 1877 (2001 I 260)
 
-
-
 ## Eingangsformel
 
 Auf Grund
@@ -43,13 +41,11 @@ Sozialgesetzbuch, die durch Artikel 1 des Gesetzes vom 15. Dezember
 1995 (BGBl. I S. 1824) geändert worden sind,
 verordnet das Bundesministerium für Arbeit und Sozialordnung:
 
-
 ## § 1 Beitragssätze in der Rentenversicherung
 
 Der Beitragssatz für das Jahr 2001 beträgt in der Rentenversicherung
 der Arbeiter und der Angestellten 19,1 Prozent und in der
 knappschaftlichen Rentenversicherung 25,4 Prozent.
-
 
 ## § 2 Beitrag in der Alterssicherung der Landwirte
 
@@ -58,7 +54,6 @@ Kalenderjahr 2001 monatlich 346 Deutsche Mark.
 
 (2) Der Beitrag in der Alterssicherung der Landwirte beträgt für das
 Beitrittsgebiet für das Kalenderjahr 2001 monatlich 290 Deutsche Mark.
-
 
 ## § 3 Beitragszuschuss in der Alterssicherung der Landwirte
 
@@ -231,10 +226,6 @@ Kalenderjahr 2001 wie folgt festgesetzt:
 
     *   12 DM.
 
-
-
-
-
 ## § 4 Umrechnungsfaktoren für den Versorgungsausgleich in der Rentenversicherung
 
 (1) Die auf Grund des vorläufigen Durchschnittsentgelts und der
@@ -334,14 +325,12 @@ Deckungskapitalien und vergleichbaren Deckungsrücklagen durch den Wert
 des Faktors erfolgen, der für die Umrechnung von Entgeltpunkten in
 Beiträge maßgebend wäre.
 
-
 ## § 5 Zahlungen für Kindererziehungszeiten
 
 Zur pauschalen Abgeltung für die Beitragszahlung für
 Kindererziehungszeiten zahlt der Bund an die Rentenversicherung der
 Arbeiter und der Angestellten für das Jahr 2001 einen Betrag in Höhe
 von 22.555.826.020 Deutsche Mark.
-
 
 ## § 6 Inkrafttreten
 

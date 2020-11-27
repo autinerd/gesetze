@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 834
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 35 Abs. 2 Satz 1 des Umweltschutzprotokoll-
@@ -33,7 +31,6 @@ Bundesministerium für Wirtschaft und Technologie, dem
 Bundesministerium für Verkehr, Bau- und Wohnungswesen und dem
 Bundesministerium für Bildung und Forschung:
 
-
 ## § 1 Kosten
 
 (1) Das Umweltbundesamt erhebt für Amtshandlungen nach dem
@@ -44,7 +41,6 @@ nach dieser Verordnung.
 Verwaltungskostengesetzes. Im Übrigen sind die Regelungen des 3.
 Abschnitts des Verwaltungskostengesetzes auch anwendbar, soweit diese
 Verordnung keine besonderen Regelungen enthält.
-
 
 ## § 2 Gebühren
 
@@ -137,7 +133,6 @@ bis d dem Aufwand entsprechend bis zum Zweifachen erhöht werden.
 niedrigen Aufwand, so kann die Gebühr dem Aufwand entsprechend bis auf
 50 Euro reduziert werden.
 
-
 ## § 3 Gebühren in besonderen Fällen
 
 (1) In den Fällen des Widerrufs oder der Rücknahme einer Genehmigung,
@@ -162,14 +157,12 @@ werden.
 Antragsteller Anlass gegeben hat, beträgt die Gebühr höchstens ein
 Viertel der für die Genehmigung festgesetzten Gebühr.
 
-
 ## § 4 Kostenbefreiung
 
 Bei Amtshandlungen nach dem Umweltschutzprotokoll-Ausführungsgesetz,
 die Vorhaben der öffentlich geförderten wissenschaftlichen Forschung
 betreffen, soll von der Erhebung von Gebühren und Auslagen abgesehen
 werden.
-
 
 ## § 5 Inkrafttreten
 

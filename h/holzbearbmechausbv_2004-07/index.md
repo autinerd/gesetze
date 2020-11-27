@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 1645
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
@@ -26,18 +24,15 @@ zuletzt durch Artikel 184 Nr. 1 der Verordnung vom 25. November 2003
 für Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium
 für Bildung und Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf
 Holzbearbeitungsmechaniker/Holzbearbeitungsmechanikerin wird staatlich
 anerkannt.
 
-
 ## § 2 Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Zielsetzung der Berufsausbildung
 
@@ -50,7 +45,6 @@ Planen, Durchführen und Kontrollieren sowie das Handeln im
 betrieblichen Gesamtzusammenhang einschließt. Die in Satz 2
 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 8 und 9
 nachzuweisen.
-
 
 ## § 4 Ausbildungsberufsbild
 
@@ -136,10 +130,6 @@ Fertigkeiten und Kenntnisse:
 
 4.  Herstellen von Holzwerkstofferzeugnissen.
 
-
-
-
-
 ## § 5 Ausbildungsrahmenplan
 
 Die in § 4 genannten Fertigkeiten und Kenntnisse sollen nach der in
@@ -150,13 +140,11 @@ zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
 zulässig, soweit betriebspraktische Besonderheiten die Abweichung
 erfordern.
 
-
 ## § 6 Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des
 Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan
 zu erstellen.
-
 
 ## § 7 Berichtsheft
 
@@ -164,7 +152,6 @@ Die Auszubildenden haben ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden
 haben das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 8 Zwischenprüfung
 
@@ -194,7 +181,6 @@ Arbeitsschritte und Arbeitsabläufe planen, Arbeitsmittel festlegen,
 technische Unterlagen nutzen sowie Maßnahmen zur Sicherheit und zum
 Gesundheitsschutz bei der Arbeit, zum Umweltschutz und zur
 Qualitätssicherung berücksichtigen kann.
-
 
 ## § 9 Abschlussprüfung
 
@@ -325,7 +311,6 @@ Prüfungsbereiche nach Absatz 3 mindestens ausreichende Leistungen, in
 dem weiteren Prüfungsbereich dürfen keine ungenügenden Leistungen
 erbracht werden.
 
-
 ## § 10 Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
@@ -333,11 +318,9 @@ Verordnung bestehen, sind die bisherigen Vorschriften weiter
 anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
 Anwendung der Vorschriften dieser Verordnung.
 
-
 ## § 11 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2004 in Kraft.
-
 
 ## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Holzbearbeitungsmechaniker/ zur Holzbearbeitungsmechanikerin
 

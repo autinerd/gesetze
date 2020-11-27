@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 3 G v. 19.4.2006 I 900
 
-
 ## Eingangsformel
 
 Das Bundesministerium für Verbraucherschutz, Ernährung und
@@ -32,7 +31,6 @@ Tierschutzgesetzes in der Fassung der Bekanntmachung vom 25. Mai 1998
 § 12 Abs. 2 Satz 1 Nr. 4 durch Artikel 2 des Gesetzes vom 12. April
 2001 (BGBl. I S. 530) geändert worden sind, nach Anhörung der
 Tierschutzkommission:
-
 
 ## § 1 Anwendungsbereich
 
@@ -54,10 +52,6 @@ Tierschutzkommission:
     Abs. 1 Satz 2 Nr. 4, § 10 Abs. 1 oder § 10a des Tierschutzgesetzes
     genannten Zwecken, soweit für den verfolgten wissenschaftlichen Zweck
     andere Anforderungen an die Haltung unerlässlich sind.
-
-
-
-
 
 ## § 2 Allgemeine Anforderungen an das Halten
 
@@ -87,14 +81,12 @@ vorzeitige Trennung mehrerer Welpen vom Muttertier erforderlich,
 sollen diese bis zu einem Alter von acht Wochen nicht voneinander
 getrennt werden.
 
-
 ## § 3 Anforderungen an die Betreuung bei gewerbsmäßigem Züchten
 
 Wer gewerbsmäßig mit Hunden züchtet, muss sicherstellen, dass für
 jeweils bis zu zehn Zuchthunde und ihre Welpen eine Betreuungsperson
 zur Verfügung steht, die die dafür notwendigen Kenntnisse und
 Fähigkeiten gegenüber der zuständigen Behörde nachgewiesen hat.
-
 
 ## § 4 Anforderungen an das Halten im Freien
 
@@ -124,10 +116,6 @@ muss so bemessen sein, dass der Hund
 2.  den Innenraum mit seiner Körperwärme warm halten kann, sofern die
     Schutzhütte nicht beheizbar ist.
 
-
-
-
-
 ## § 5 Anforderungen an das Halten in Räumen
 
 (1) Ein Hund darf nur in Räumen gehalten werden, bei denen der Einfall
@@ -154,10 +142,6 @@ wenn
 
 2.  außerhalb der Schutzhütte nach Nummer 1 ein wärmegedämmter
     Liegebereich zur Verfügung steht.
-
-
-
-
 
 ## § 6 Anforderungen an die Zwingerhaltung
 
@@ -233,7 +217,6 @@ Sichtkontakt zu anderen Hunden haben.
 
 (6) Hunde dürfen in einem Zwinger nicht angebunden gehalten werden.
 
-
 ## § 7 Anforderungen an die Anbindehaltung
 
 (1) Ein Hund darf in Anbindehaltung nur gehalten werden, wenn die
@@ -289,10 +272,6 @@ Meter langen Anbindung angebunden werden.
 4.  einem kranken Hund, wenn ihm dadurch Schmerzen, Leiden oder Schäden
     zugefügt würden.
 
-
-
-
-
 ## § 8 Fütterung und Pflege
 
 (1) Die Betreuungsperson hat dafür zu sorgen, dass dem Hund in seinem
@@ -318,10 +297,6 @@ artgemäßem Futter in ausreichender Menge und Qualität zu versorgen.
 4.  den Aufenthaltsbereich des Hundes sauber und ungezieferfrei zu halten;
     Kot ist täglich zu entfernen.
 
-
-
-
-
 ## § 9 Ausnahmen für das vorübergehende Halten
 
 Die zuständige Behörde kann von den Vorschriften des § 2 Abs. 2 und 3
@@ -329,7 +304,6 @@ sowie § 6 Abs. 1 in Verbindung mit Abs. 2 für das vorübergehende
 Halten von Hunden in Einrichtungen, die Fundhunde oder durch Behörden
 eingezogene Hunde aufnehmen, befristete Ausnahmen zulassen, wenn sonst
 die weitere Aufnahme solcher Hunde gefährdet ist.
-
 
 ## § 10 Ausstellungsverbot
 
@@ -341,11 +315,9 @@ sofern der Eingriff vor dem 1. September 2001 und in Übereinstimmung
 mit den Vorschriften des Tierschutzgesetzes in der zum Zeitpunkt des
 Eingriffs geltenden Fassung vorgenommen wurde.
 
-
 ## § 11 (weggefallen)
 
 -
-
 
 ## § 12 Ordnungswidrigkeiten
 
@@ -378,7 +350,6 @@ Tierschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 Tierschutzgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen §
 10 Satz 1 einen Hund ausstellt oder eine Ausstellung veranstaltet.
 
-
 ## § 13 Übergangsvorschrift
 
 (1) Für Züchter, die eine Erlaubnis nach § 11 Abs. 1 Nr. 3 Buchstabe a
@@ -400,11 +371,9 @@ worden sind und die die Anforderungen des § 4 Abs. 2 der Verordnung
 (4) Abweichend von § 10 Satz 1 dürfen Hunde noch bis zum 1. Mai 2002
 ausgestellt werden.
 
-
 ## § 14 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. September 2001 in Kraft.
-
 
 ## Schlussformel
 

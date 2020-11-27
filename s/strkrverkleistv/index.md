@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 487 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Auf Grund des § 10 Abs. 7 des Verkehrssicherstellungsgesetzes in der
@@ -26,7 +25,6 @@ Fassung der Bekanntmachung vom 8. Oktober 1968 (Bundesgesetzbl. I S.
 1082), geändert durch Artikel 287 Nr. 81 des Einführungsgesetzes zum
 Strafgesetzbuch vom 2. März 1974 (Bundesgesetzbl. I S. 469), wird mit
 Zustimmung des Bundesrates verordnet:
-
 
 ## § 1 Umfang der Leistungspflicht
 
@@ -60,7 +58,6 @@ veranlassen. Soweit danach Einschränkungen oder Beschränkungen des
 geforderten Verkehrsleistungen die ihnen entgegenstehenden
 Beförderungspflichten der Eisenbahnen für den öffentlichen Verkehr.
 
-
 ## § 2 Anzuwendende Vorschriften
 
 (1) Verkehrsleistungen der öffentlichen Eisenbahnen für die
@@ -73,14 +70,12 @@ Behörden etwas anderes bestimmt ist oder zugelassen wird.
 Vereinbarungen zwischen den Streitkräften und den öffentlichen
 Eisenbahnen.
 
-
 ## § 3 Anmeldung von Verkehrsleistungen
 
 Die öffentlichen Eisenbahnen können für Verkehrsleistungen nach § 1
 besondere Anmeldungen fordern. Art und Umfang der Verkehrsleistungen
 und Anmeldefristen vereinbaren die öffentlichen Eisenbahnen mit den
 Streitkräften.
-
 
 ## § 4 Vorrang
 
@@ -91,7 +86,6 @@ Stadtentwicklung und das Bundesministerium der Verteidigung
 vereinbaren, unter welchen Voraussetzungen die Streitkräfte die
 Einräumung des Vorrangs fordern und auf welche betrieblichen Maßnahmen
 sich die Forderungen erstrecken können.
-
 
 ## § 5 Besondere Vorschriften für die Erbringung von Verkehrsleistungen
 
@@ -135,11 +129,9 @@ notwendig, stellen sie das hierfür erforderliche Personal.
 Verpflichtungen der Streitkräfte, Begleiter oder Wachen zu stellen,
 bleiben unberührt.
 
-
 ## § 6
 
 (weggefallen)
-
 
 ## § 7 Duldungspflicht der Eisenbahnen
 
@@ -152,7 +144,6 @@ Inanspruchnahme der Verkehrsleistungen notwendig ist.
 Bahnanlagen Ordnungs-, Wach- und Sicherungskräfte einsetzen können,
 haben die öffentlichen Eisenbahnen den Einsatz sowie das damit
 verbundene Betreten oder Benutzen der Bahnanlagen zu dulden.
-
 
 ## § 8 Sicherheit und Ordnung auf Bahnanlagen
 
@@ -171,7 +162,6 @@ Bahnanlagen im Zusammenhang mit Verkehrsleistungen für die
 Streitkräfte unterstützen sich Bundespolizei und Streitkräfte
 gegenseitig.
 
-
 ## § 9 Verwertungsverbot für das Gut der Streitkräfte
 
 Gegenstände, die als Gut der Streitkräfte erkennbar sind, dürfen weder
@@ -179,7 +169,6 @@ verkauft noch versteigert werden. Für die Auslieferung der Gegenstände
 an eine Dienststelle der Streitkräfte gelten die besonderen
 Vereinbarungen zwischen den öffentlichen Eisenbahnen und den
 Streitkräften.
-
 
 ## § 10 Schadensausgleich
 
@@ -207,18 +196,15 @@ und Mitarbeiter bei der Entstehung des Schadens mitgewirkt, so gilt §
 Schadensersatzansprüche Dritter in Schadensfällen, in denen ein
 Schadensausgleich nach Absatz 1 in Betracht kommt.
 
-
 ## § 11 Zuständigkeiten der Streitkräfte
 
 Das Bundesministerium der Verteidigung bestimmt, welche Stellen der
 Streitkräfte die ihnen nach dieser Verordnung obliegenden
 Zuständigkeiten wahrnehmen.
 
-
 ## § 12 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlußformel
 

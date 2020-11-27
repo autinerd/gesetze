@@ -16,15 +16,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1980, 953
 
-
-
 ## Art 1
 
 Dem in Straßburg am 28. Juni 1978 von der Bundesrepublik Deutschland
 unterzeichneten Europäischen Übereinkommen über die Kontrolle des
 Erwerbs und Besitzes von Schußwaffen durch Einzelpersonen wird
 zugestimmt. Das Übereinkommen wird nachstehend veröffentlicht.
-
 
 ## Art 2
 
@@ -35,7 +32,6 @@ endgültige Verbringen dieser Gegenstände ohne Besitzwechsel in einen
 solchen Staat sowie die Personalien dieser Personen der zuständigen
 zentralen Behörde des Heimat- oder Herkunftsstaates des Erwerbers oder
 des Bestimmungsstaates mitzuteilen.
-
 
 ## Art 3
 

@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 55 G v. 2.8.1994 I 2018
 
-
 ## Eingangsformel
 
 Auf Grund des § 6 Abs. 1 Nr. 9 und 16 und des § 9 des Gesetzes zur
@@ -33,7 +32,6 @@ des Gesetzes vom 23. Juni 1976 (BGBl. I S. 1608) geändert worden ist,
 wird im Einvernehmen mit den Bundesministern der Finanzen und für
 Wirtschaft verordnet:
 
-
 ## § 1 Anwendungsbereich
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung der
@@ -43,7 +41,6 @@ Erzeugerorganisationen zum Ausgleich von Kosten für die Entnahme von
 Erzeugnissen aus dem Handel (finanzieller Ausgleich) und einer
 Übertragungsprämie im Rahmen der gemeinsamen Marktorganisation für
 Fischereierzeugnisse.
-
 
 ## § 2 Zuständige Stellen
 
@@ -55,7 +52,6 @@ Bundesanstalt für Landwirtschaft und Ernährung (Bundesanstalt).
 aus dem Handel, insbesondere die Feststellung von Menge,
 Beschaffenheit und Bestimmungszweck der Erzeugnisse sowie ihrer
 Verwendung, sind die nach Landesrecht zuständigen Stellen.
-
 
 ## § 3 Voraussetzungen für die Gewährung der Vergünstigungen
 
@@ -100,7 +96,6 @@ der Vertrag über die Verarbeitung der aus dem Handel genommenen
 Fischereierzeugnisse beizufügen, soweit die Verarbeitung durch einen
 anderen erfolgt.
 
-
 ## § 4 Anträge, Forderungen
 
 (1) Vergünstigungen nach § 1 werden auf schriftlichen Antrag gewährt.
@@ -110,7 +105,6 @@ festgesetzt.
 
 (3) Forderungen auf Zahlung der Vergünstigungen sind unverzinslich.
 
-
 ## § 5 Muster für Anträge
 
 Die Bundesanstalt kann für Anträge, Meldungen und Erklärungen, die zur
@@ -118,7 +112,6 @@ Durchführung dieser Verordnung und der in § 1 genannten Rechtsakte
 notwendig sind, Muster im Bundesanzeiger bekanntmachen und Vordrucke
 bereitstellen. Soweit die Bundesanstalt Muster bekanntgemacht hat oder
 Vordrucke bereitstellt, sind diese zu verwenden.
-
 
 ## § 6 Anzeigepflicht gegenüber der Landesstelle
 
@@ -159,7 +152,6 @@ Die Freigabe gilt als erteilt, wenn die zuständige Landesstelle zwei
 Stunden nach Abgabe der mündlichen oder fernmündlichen Anzeige nach
 Absatz 1 keine Entscheidung getroffen hat.
 
-
 ## § 7 Kennzeichnungspflicht bei der Übertragungsprämie
 
 Soweit in den in § 1 genannten Rechtsakten zur Gewährung einer
@@ -169,7 +161,6 @@ austauschbare Kennzeichnung der Gebinde und Packstücke vorzunehmen.
 Diese Kennzeichnung muß auch die Losbezeichnung, die in der
 Bestandsbuchführung aufgezeichnet ist, enthalten.
 
-
 ## § 8 Bestandsbuchführung durch Lohnverarbeiter
 
 Wer als Lohnverarbeiter aus dem Handel genommene Fischereierzeugnisse
@@ -177,11 +168,9 @@ verarbeitet, ist zu einer Bestandsbuchführung verpflichtet, die den
 Anforderungen der in § 1 genannten Rechtsakte an die
 Bestandsbuchführung der Erzeugerorganisationen entspricht.
 
-
 ## § 9
 
 -
-
 
 ## § 10 Aufbewahrungs- und Duldungspflichten
 
@@ -199,11 +188,9 @@ vorzulegen, Auskunft zu erteilen und die erforderliche Unterstützung
 zu gewähren. Im Falle automatischer Buchführung hat er auf Verlangen
 auf seine Kosten Listen mit den erforderlichen Angaben auszudrucken.
 
-
 ## § 11 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlußformel
 

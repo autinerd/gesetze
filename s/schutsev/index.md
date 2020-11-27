@@ -25,13 +25,11 @@ Fundstelle
     durch die Richtlinie 2006/96/EG des Rates vom 20. November 2006 (ABl.
     EU Nr. L 363 S. 81), sind beachtet worden.
 
-
 ## Eingangsformel
 
 Auf Grund des § 6 Abs. 3 des Gesetzes über die elektromagnetische
 Verträglichkeit von Betriebsmitteln vom 26. Februar 2008 (BGBl. I S.
 220) verordnet die Bundesregierung:
-
 
 ## § 1 Anwendungsbereich
 
@@ -48,7 +46,6 @@ Eisenbahnen (Bundesnetzagentur) zum Schutz von
 
 
 vor elektromagnetischen Störungen.
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -69,10 +66,6 @@ Im Sinne dieser Verordnung
     Nutzsignal verursachte elektromagnetische Energieanteile, die den
     Leiter durch Induktion, Influenz oder Strahlungskopplung unerwünscht
     verlassen und den Funkverkehr störend beeinträchtigen können.
-
-
-
-
 
 ## § 3 Schutz von zu Sicherheitszwecken betriebenen Sende- und Empfangsfunkanlagen
 
@@ -119,7 +112,6 @@ notwendig ist, im Benehmen mit den für die jeweiligen Sende- und
 Empfangsfunkanlagen zuständigen Bundesbehörden messtechnische
 Untersuchungen durchführen.
 
-
 ## § 4 Schutz öffentlicher Telekommunikationsnetze
 
 Im Falle von elektromagnetischen Störungen öffentlicher
@@ -128,7 +120,6 @@ Telekommunikationsanlagen und -netze kann die Bundesnetzagentur für
 die störenden Anlagen und Netze die Einhaltung der Grenzwerte für die
 Störfeldstärke nach Anlage 2 anordnen. § 3 Abs. 1 Satz 2 gilt
 entsprechend.
-
 
 ## § 5 Schutz von Flugfunk-Frequenzen
 
@@ -162,11 +153,9 @@ leitungsgebundenen Übertragungsnetze die Voraussetzungen des Absatzes
 Informationsmanagement und Informationstechnik der Bundeswehr die
 Grenzwertverschärfung nach Anlage 2 Nr. 7 aufheben.
 
-
 ## § 6 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Anlage 1 (zu § 3 Abs. 1) Nach § 3 bundesweit besonders zu schützende Frequenzbereiche
 
@@ -490,9 +479,6 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   449,96875
 
     *   BOS
-
-
-
 
 ## Anlage 2 (zu § 3 Abs. 1) Grenzwerte der Störfeldstärke von leitergebundenen Telekommunikationsanlagen und -netzen
 

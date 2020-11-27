@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 2599
 
-
-
 ## (XXXX)
 
 Auf Grund des § 34 Abs. 2 Satz 1 und § 35 Abs. 2 Nr. 2 des
@@ -231,7 +229,6 @@ Abs. 1 Nr. 2 des Markengesetzes sowie § 11 Abs. 1 Satz 2 und § 13 Abs.
 
 Der Präsident des Deutschen Patent- und Markenamts veröffentlicht im
 Blatt für Patent-, Muster- und Zeichenwesen weitere Einzelheiten.
-
 
 ## Schlussformel
 

@@ -17,7 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 2012, 1234
 
-
 ## Art 1
 
 Dem in London am 7. Dezember 2011 unterzeichneten Abkommen zwischen
@@ -26,7 +25,6 @@ Großbritannien und Nordirland zur Vermeidung der Doppelbelastung bei
 der Bankenabgabe wird zugestimmt. Das Abkommen wird nachstehend
 veröffentlicht.
 
-
 ## Art 2
 
 Nach Artikel 7 Absatz 1 Buchstabe a des Abkommens auf die deutsche
@@ -34,7 +32,6 @@ Bankenabgabe anzurechnende Beträge sind den betroffenen
 Kreditinstituten von der Bundesanstalt für Finanzmarktstabilisierung
 auf Antrag des betroffenen Kreditinstituts maximal bis zur Höhe der
 geleisteten deutschen Bankenabgabe zu erstatten.
-
 
 ## Art 3
 

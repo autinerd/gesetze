@@ -18,16 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 34c G v. 6.12.2011 I 2515
 
-
 ## Eingangsformel
 
 Auf Grund des § 8 des Psychotherapeutengesetzes vom 16. Juni 1998
 (BGBl. I S. 1311) verordnet das Bundesministerium für Gesundheit:
 
-
 ## Erster Abschnitt - Ausbildung
-
-
 
 ### § 1 Ziel und Gliederung
 
@@ -68,7 +64,6 @@ befähigt (§ 5). Sie schließt mit Bestehen der staatlichen Prüfung ab.
 (4) Die regelmäßige und erfolgreiche Teilnahme an den
 Ausbildungsveranstaltungen nach Absatz 3 ist durch eine Bescheinigung
 nach dem Muster der Anlage 2 nachzuweisen.
-
 
 ### § 2 Praktische Tätigkeit
 
@@ -111,7 +106,6 @@ chronifizierte Symptomatik unterschiedlicher psychiatrischer
 Erkrankungen zu erwerben sowie die Patientenbehandlungen fallbezogen
 und unter Angabe von Umfang und Dauer zu dokumentieren.
 
-
 ### § 3 Theoretische Ausbildung
 
 (1) Die theoretische Ausbildung nach § 1 Abs. 3 Satz 1 umfaßt
@@ -138,7 +132,6 @@ psychotherapeutischen Arbeit mit Patienten. Dabei sind die rechtlich
 geschützten Belange des Patienten zu berücksichtigen. Praktische
 Übungen sind, soweit der Lehrstoff dies erfordert, in kleinen Gruppen
 durchzuführen.
-
 
 ### § 4 Praktische Ausbildung
 
@@ -207,7 +200,6 @@ nachzuweisen sowie den Behandlungsverlauf und die Behandlungstechnik
 in Verbindung mit der Theorie darzustellen. Sie sind von der
 Ausbildungsstätte zu beurteilen.
 
-
 ### § 5 Selbsterfahrung
 
 (1) Die Selbsterfahrung nach § 1 Abs. 3 Satz 1 richtet sich nach dem
@@ -226,7 +218,6 @@ Abs. 3 Satz 1 oder Abs. 4 anerkannt sind, statt, zu denen der
 Ausbildungsteilnehmer keine verwandtschaftlichen Beziehungen hat und
 nicht in wirtschaftlichen oder dienstlichen Abhängigkeiten steht. § 4
 Abs. 3 Satz 2 gilt entsprechend.
-
 
 ### § 6 Unterbrechung der Ausbildung, Anrechnung anderer Ausbildungen
 
@@ -275,10 +266,7 @@ Behörde festgelegt; sie legt ferner die Gesamtstundenzahl
 fest. Die weitere Ausbildung schließt mit der staatlichen Prüfung nach
 § 8 ab.
 
-
 ## Zweiter Abschnitt - Allgemeine Prüfungsbestimmungen
-
-
 
 ### § 7 Zulassung zur Prüfung
 
@@ -319,7 +307,6 @@ schriftlich mitgeteilt werden.
 ihrer Chancengleichheit bei Durchführung der Prüfungen zu
 berücksichtigen.
 
-
 ### § 8 Staatliche Prüfung
 
 (1) Die staatliche Prüfung nach § 5 Abs. 1 Satz 2 des
@@ -329,7 +316,6 @@ mündlichen Teil.
 (2) Der Prüfling legt die Prüfung vor der zuständigen Behörde ab.
 Zuständig ist die Behörde des Landes, in dem der Prüfling im Zeitpunkt
 der Antragstellung nach § 7 Abs. 1 an der Ausbildung teilnimmt.
-
 
 ### § 9 Prüfungskommission
 
@@ -365,7 +351,6 @@ nicht angehören.
 Stellvertreter. Die Mitglieder der Prüfungskommission und ihre
 Stellvertreter werden von der zuständigen Behörde bestellt.
 
-
 ### § 10 Niederschrift
 
 Über den mündlichen Teil der Prüfung nach § 8 ist eine Niederschrift
@@ -374,7 +359,6 @@ sowie etwa vorkommende Unregelmäßigkeiten hervorgehen. Sie ist von
 allen Mitgliedern der Prüfungskommission zu unterzeichnen. Lautet die
 Note "mangelhaft" oder "ungenügend", so sind die Gründe anzugeben und
 in die Niederschrift aufzunehmen.
-
 
 ### § 11 Benotung
 
@@ -390,7 +374,6 @@ Anforderungen genügt,
 "mangelhaft" (5), wenn die Leistung wegen erheblicher Mängel den
 Anforderungen nicht mehr genügt,
 "ungenügend" (6), wenn die Leistung unbrauchbar ist.
-
 
 ### § 12 Bestehen und Wiederholung der Prüfung
 
@@ -419,7 +402,6 @@ von der Ausbildungsstätte als Prüfungsfall angenommen wurde,
 beizufügen. Die Wiederholungsprüfung soll jeweils spätestens sechs
 Monate nach der letzten Prüfung abgeschlossen sein.
 
-
 ### § 13 Rücktritt von der Prüfung
 
 (1) Tritt ein Prüfling nach seiner Zulassung von der Prüfung oder
@@ -436,7 +418,6 @@ unterläßt es der Prüfling, die Gründe für seinen Rücktritt
 unverzüglich mitzuteilen, so gilt die Prüfung oder der betreffende
 Teil der Prüfung als nicht bestanden. § 12 Abs. 3 gilt entsprechend.
 
-
 ### § 14 Versäumnisfolgen
 
 (1) Versäumt ein Prüfling einen Prüfungstermin, gibt er die
@@ -449,7 +430,6 @@ Teil der Prüfung als nicht unternommen.
 (2) Die Entscheidung darüber, ob ein wichtiger Grund vorliegt, trifft
 die zuständige Behörde. § 13 Abs. 1 Satz 1 und 4 gilt entsprechend.
 
-
 ### § 15 Ordnungsverstöße und Täuschungsversuche
 
 Die zuständige Behörde kann bei Prüflingen, die die ordnungsgemäße
@@ -459,10 +439,7 @@ Prüfung für nicht bestanden erklären; § 12 Abs. 3 gilt entsprechend.
 Eine solche Entscheidung ist nur bis zum Abschluß der gesamten Prüfung
 zulässig.
 
-
 ## Dritter Abschnitt - Besondere Prüfungsbestimmungen
-
-
 
 ### § 16 Schriftlicher Teil der Prüfung
 
@@ -583,7 +560,6 @@ festgestellt und dem Prüfling mitgeteilt. Dabei sind anzugeben:
 (8) Die zuständige Behörde teilt den Ausbildungsstätten mit, welche
 Prüflinge den schriftlichen Teil der Prüfung bestanden haben.
 
-
 ### § 17 Mündlicher Teil der Prüfung
 
 (1) Der mündliche Teil der Prüfung erstreckt sich unter besonderer
@@ -689,7 +665,6 @@ der Prüfung gestatten. Er hat zu Beginn der Prüfung alle Anwesenden
 auf die Schweigepflicht hinzuweisen. Bei Bekanntgabe des
 Prüfungsergebnisses ist die Anwesenheit von Zuhörern nicht gestattet.
 
-
 ### § 18 Gesamtnote der Prüfung
 
 Für die staatliche Prüfung nach § 8 Abs. 1 wird von der zuständigen
@@ -703,10 +678,7 @@ zweite Stelle hinter dem Komma errechnet. Sie lautet:
 "befriedigend" bei einem Zahlenwert über 2,5 bis 3,5,
 "ausreichend" bei einem Zahlenwert über 3,5 bis 4.
 
-
 ## Vierter Abschnitt - Approbationserteilung
-
-
 
 ### § 19 Antrag auf Approbation
 
@@ -839,7 +811,6 @@ Dienstleistungserbringer innerhalb der in den Sätzen 1 und 2 genannten
 Fristen keine Rückmeldung der zuständigen Behörde, darf die
 Dienstleistung erbracht werden.
 
-
 ### § 20 Weitere Sonderregelungen für Inhaber von Ausbildungsnachweisen aus anderen Mitgliedstaaten der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
 
 (1) Antragsteller nach § 2 Abs. 2 Satz 3 des
@@ -886,27 +857,21 @@ die Gesamtstundenzahl
 
 fest.
 
-
 ### § 21 Approbationsurkunde
 
 Die Approbationsurkunde wird nach dem Muster der Anlage 4 ausgestellt.
 Sie ist dem Antragsteller gegen Empfangsbekenntnis auszuhändigen oder
 mit Zustellungsurkunde zuzustellen.
 
-
 ## Fünfter Abschnitt - Schlußvorschriften
-
-
 
 ### § 22 Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 1999 in Kraft.
 
-
 ### Schlußformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ### Anlage 1 (zu § 3 Abs. 1) Theoretische Ausbildung
 
@@ -1033,10 +998,6 @@ Fundstelle des Originaltextes: BGBl. I 1998, 3756
 
 8.  Behandlungsverfahren bei Paaren, Familien und Gruppen
 
-
-
-
-
 ### Anlage 2 (zu § 1 Abs. 4)
 
 (Fundstelle des Originaltextes: BGBl. I 1998, 3757 - 3758)
@@ -1112,7 +1073,6 @@ Ausbildungsstätte
 -------------
 \*) Nichtzutreffendes streichen.
 
-
 ### Anlage 3 (zu § 12 Abs. 2)
 
 (Fundstelle des Originaltextes: BGBl. I 1998, 3759)
@@ -1145,7 +1105,6 @@ Siegel
 (Ort)                 (Datum)
 ......................................
 (Unterschrift)
-
 
 ### Anlage 4 (zu § 21)
 

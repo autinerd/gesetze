@@ -19,10 +19,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 220 V v. 31.10.2006 I 2407
 
-
 ## Erster Teil - Allgemeines
-
-
 
 ### § 1
 
@@ -100,7 +97,6 @@ Satzes 1 vor, so tritt für die Anwendung der §§ 6 und 11 auf das
 herrschende Unternehmen der Konzernbetriebsrat an die Stelle der
 Betriebsräte.
 
-
 ### § 2
 
 Auf die in § 1 bezeichneten Unternehmen finden die Vorschriften des
@@ -109,10 +105,7 @@ beschränkter Haftung, der Berggesetze und des
 Betriebsverfassungsrechts insoweit keine Anwendung, als sie den
 Vorschriften dieses Gesetzes widersprechen.
 
-
 ## Zweiter Teil - Aufsichtsrat
-
-
 
 ### § 3
 
@@ -122,7 +115,6 @@ Aufsichtsrat zu bilden.
 
 (2) Auf den Aufsichtsrat, seine Rechte und Pflichten finden die
 Vorschriften des Aktienrechts sinngemäß Anwendung.
-
 
 ### § 4
 
@@ -162,7 +154,6 @@ d)  an dem Unternehmen wirtschaftlich wesentlich interessiert sein.
 (3) Alle Aufsichtsratsmitglieder haben die gleichen Rechte und
 Pflichten. Sie sind an Aufträge und Weisungen nicht gebunden.
 
-
 ### § 5
 
 Die in § 4 Abs. 1 Buchstabe a bezeichneten Mitglieder des
@@ -170,7 +161,6 @@ Aufsichtsrats werden durch das nach Gesetz, Satzung oder
 Gesellschaftsvertrag zur Wahl von Aufsichtsratsmitgliedern berufene
 Organ (Wahlorgan) nach Maßgabe der Satzung oder des
 Gesellschaftsvertrags gewählt.
-
 
 ### § 6
 
@@ -217,11 +207,9 @@ Betriebsräte.
 
 (6) Das Wahlorgan ist an die Vorschläge der Betriebsräte gebunden.
 
-
 ### § 7
 
 -
-
 
 ### § 8
 
@@ -263,7 +251,6 @@ Vermittlungsausschusses trotz rechtzeitiger Einladung ohne genügende
 Entschuldigung einer Sitzung fern, so kann der Vermittlungsausschuß
 tätig werden, wenn wenigstens zwei Mitglieder mitwirken.
 
-
 ### § 9
 
 (1) Bei Gesellschaften mit einem Nennkapital von mehr als zehn
@@ -284,14 +271,12 @@ die Zahl der gemäß § 6 Abs. 1 und 2 zu wählenden Arbeitnehmer und die
 Zahl der in § 6 Abs. 3 bezeichneten Vertreter der Arbeitnehmer je vier
 beträgt.
 
-
 ### § 10
 
 Der Aufsichtsrat ist beschlußfähig, wenn mindestens die Hälfte der
 Mitglieder, aus denen er nach diesem Gesetz oder der Satzung insgesamt
 zu bestehen hat, an der Beschlußfassung teilnimmt. § 108 Abs. 2 Satz 4
 des Aktiengesetzes findet Anwendung.
-
 
 ### § 11
 
@@ -311,10 +296,7 @@ Aufsichtsrats kann auf Antrag von mindestens drei
 Aufsichtsratsmitgliedern durch das Gericht aus wichtigem Grund
 erfolgen.
 
-
 ## Dritter Teil - Vorstand
-
-
 
 ### § 12
 
@@ -322,7 +304,6 @@ Die Bestellung der Mitglieder des zur gesetzlichen Vertretung
 berufenen Organs und der Widerruf ihrer Bestellung erfolgen nach
 Maßgabe des § 76 Abs. 3 und des § 84 des Aktiengesetzes durch den
 Aufsichtsrat.
-
 
 ### § 13
 
@@ -337,10 +318,7 @@ gesetzlichen Vertretung berufenen Organs seine Aufgaben im engsten
 Einvernehmen mit dem Gesamtorgan auszuüben. Das Nähere bestimmt die
 Geschäftsordnung.
 
-
 ## Vierter Teil - Schlußvorschriften
-
-
 
 ### § 14
 
@@ -370,14 +348,12 @@ d)  für die übrigen Unternehmen in dem Zeitpunkt, in dem feststeht, daß
 
 (2)
 
-
 ### § 14a
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin. Rechtsverordnungen, die auf
 Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14
 des Dritten Überleitungsgesetzes.
-
 
 ### § 15
 

@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 2974
 
-
-
 ## I.
 
 Nach § 33 Abs. 5, § 34 Abs. 2 Satz 2, § 42 Abs. 1 Satz 2 und § 84 Satz
@@ -46,12 +44,10 @@ Geschäftsbereichs jeweils für ihren Geschäftsbereich
 
 übertragen.
 
-
 ## II.
 
 Diese allgemeine Anordnung tritt am Tag nach der Veröffentlichung im
 Bundesgesetzblatt Teil I in Kraft.
-
 
 ## Schlussformel
 

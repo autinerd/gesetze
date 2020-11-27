@@ -18,20 +18,14 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4e G v. 21.12.2008 I 2940
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Erster Teil - Arbeitsrechtliche Vorschriften
 
-
-
 ### Erster Abschnitt - Durchführung der betrieblichen Altersversorgung
-
-
 
 #### § 1 Zusage des Arbeitgebers auf betriebliche Altersvorsorge
 
@@ -75,10 +69,6 @@ erfolgt.
     entsprechend anzuwenden, soweit die zugesagten Leistungen aus diesen
     Beiträgen im Wege der Kapitaldeckung finanziert werden.
 
-
-
-
-
 #### § 1a Anspruch auf betriebliche Altersversorgung durch Entgeltumwandlung
 
 (1) Der Arbeitnehmer kann vom Arbeitgeber verlangen, dass von seinen
@@ -115,7 +105,6 @@ Entgelt erhält, hat er das Recht, die Versicherung oder Versorgung mit
 eigenen Beiträgen fortzusetzen. Der Arbeitgeber steht auch für die
 Leistungen aus diesen Beiträgen ein. Die Regelungen über
 Entgeltumwandlung gelten entsprechend.
-
 
 #### § 1b Unverfallbarkeit und Durchführung der betrieblichen Altersversorgung
 
@@ -203,7 +192,6 @@ Fällen der Absätze 2 und 3
 Im Fall einer Direktversicherung ist dem Arbeitnehmer darüber hinaus
 mit Beginn der Entgeltumwandlung ein unwiderrufliches Bezugsrecht
 einzuräumen.
-
 
 #### § 2 Höhe der unverfallbaren Anwartschaft
 
@@ -351,7 +339,6 @@ verbraucht wurden.
 
 (6) (weggefallen)
 
-
 #### § 3 Abfindung
 
 (1) Unverfallbare Anwartschaften im Falle der Beendigung des
@@ -381,7 +368,6 @@ Unternehmen liquidiert wird.
 entsprechend.
 
 (6) Die Abfindung ist gesondert auszuweisen und einmalig zu zahlen.
-
 
 #### § 4 Übertragung
 
@@ -446,7 +432,6 @@ der Übertragung.
 (6) Mit der vollständigen Übertragung des Übertragungswerts erlischt
 die Zusage des ehemaligen Arbeitgebers.
 
-
 #### § 4a Auskunftsanspruch
 
 (1) Der Arbeitgeber oder der Versorgungsträger hat dem Arbeitnehmer
@@ -469,10 +454,7 @@ Arbeitnehmer auf dessen Verlangen schriftlich mitzuteilen, in welcher
 Höhe aus dem Übertragungswert ein Anspruch auf Altersversorgung und ob
 eine Invaliditäts- oder Hinterbliebenenversorgung bestehen würde.
 
-
 ### Zweiter Abschnitt - Auszehrungsverbot
-
-
 
 #### § 5 Auszehrung und Anrechnung
 
@@ -492,10 +474,7 @@ Rentenversicherungen, soweit sie auf Pflichtbeiträgen beruhen, sowie
 für sonstige Versorgungsbezüge, die mindestens zur Hälfte auf
 Beiträgen oder Zuschüssen des Arbeitgebers beruhen.
 
-
 ### Dritter Abschnitt - Altersgrenze
-
-
 
 #### § 6 Vorzeitige Altersleistung
 
@@ -512,10 +491,7 @@ Erwerbstätigkeit, die zu einem Wegfall oder zu einer Beschränkung der
 Altersrente aus der gesetzlichen Rentenversicherung führt, dem
 Arbeitgeber oder sonstigen Versorgungsträger unverzüglich anzuzeigen.
 
-
 ### Vierter Abschnitt - Insolvenzsicherung
-
-
 
 #### § 7 Umfang des Versicherungsschutzes
 
@@ -669,7 +645,6 @@ der Träger der Insolvenzsicherung mit Zustimmung der Bundesanstalt für
 Finanzdienstleistungsaufsicht die Leistungen nach billigem Ermessen
 abweichend von den Absätzen 1 bis 5 festsetzen.
 
-
 #### § 8 Übertragung der Leistungspflicht und Abfindung
 
 (1) Ein Anspruch gegen den Träger der Insolvenzsicherung auf
@@ -703,7 +678,6 @@ Leistung. Die Abfindung ist darüber hinaus möglich, wenn sie an ein
 Unternehmen der Lebensversicherung gezahlt wird, bei dem der
 Versorgungsberechtigte im Rahmen einer Direktversicherung versichert
 ist. § 2 Abs. 2 Satz 4 bis 6 und § 3 Abs. 5 gelten entsprechend.
-
 
 #### § 9 Mitteilungspflicht, Forderungs- und Vermögensübergang
 
@@ -763,7 +737,6 @@ verlangen.
 
 (5) Dem Träger der Insolvenzsicherung steht gegen den Beschluß, durch
 den das Insolvenzverfahren eröffnet wird, die sofortige Beschwerde zu.
-
 
 #### § 10 Beitragspflicht und Beitragsbemessung
 
@@ -848,7 +821,6 @@ findet die Zwangsvollstreckung in entsprechender Anwendung der
 Vorschriften der Zivilprozeßordnung statt. Die vollstreckbare
 Ausfertigung erteilt der Träger der Insolvenzsicherung.
 
-
 #### § 10a Säumniszuschläge, Zinsen, Verjährung
 
 (1) Für Beiträge, die wegen Verstoßes des Arbeitgebers gegen die
@@ -875,7 +847,6 @@ beginnt mit Ablauf des Kalenderjahres, in dem die Beitragspflicht
 entstanden oder der Erstattungsanspruch fällig geworden ist. Auf die
 Verjährung sind die Vorschriften des Bürgerlichen Gesetzbuchs
 anzuwenden.
-
 
 #### § 11 Melde-, Auskunfts- und Mitteilungspflichten
 
@@ -938,7 +909,6 @@ Beitragspflicht in Betracht kommen. Die Bundesregierung wird
 ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates das
 Nähere zu bestimmen und Einzelheiten des Verfahrens zu regeln.
 
-
 #### § 12 Ordnungswidrigkeiten
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
@@ -966,11 +936,9 @@ zweitausendfünfhundert Euro geahndet werden.
 über Ordnungswidrigkeiten ist die Bundesanstalt für
 Finanzdienstleistungsaufsicht.
 
-
 #### § 13
 
 (weggefallen)
-
 
 #### § 14 Träger der Insolvenzsicherung
 
@@ -1047,7 +1015,6 @@ Wiederaufbau in der Fassung der Bekanntmachung vom 23. Juni 1969
 Juni 2002 (BGBl. I S. 2010) geändert worden ist, ist in der jeweils
 geltenden Fassung auch für den Fonds anzuwenden.
 
-
 #### § 15 Verschwiegenheitspflicht
 
 Personen, die bei dem Träger der Insolvenzsicherung beschäftigt oder
@@ -1058,10 +1025,7 @@ nichtbeamteter Personen vom 2. März 1974 (Bundesgesetzbl. I S. 469,
 547) von der Bundesanstalt für Finanzdienstleistungsaufsicht auf die
 gewissenhafte Erfüllung ihrer Obliegenheiten zu verpflichten.
 
-
 ### Fünfter Abschnitt - Anpassung
-
-
 
 #### § 16 Anpassungsprüfungspflicht
 
@@ -1125,10 +1089,7 @@ sämtliche Überschussanteile entsprechend Absatz 3 Nr. 2 zu verwenden.
 Raten im Rahmen eines Auszahlungsplans sowie für Renten ab Vollendung
 des 85. Lebensjahres im Anschluss an einen Auszahlungsplan.
 
-
 ### Sechster Abschnitt - Geltungsbereich
-
-
 
 #### § 17 Persönlicher Geltungsbereich und Tariföffnungsklausel
 
@@ -1165,7 +1126,6 @@ Altersversorgung werden unbeschadet des § 18 durch die §§ 1 bis 16 und
 (5) Soweit Entgeltansprüche auf einem Tarifvertrag beruhen, kann für
 diese eine Entgeltumwandlung nur vorgenommen werden, soweit dies durch
 Tarifvertrag vorgesehen oder durch Tarifvertrag zugelassen ist.
-
 
 #### § 18 Sonderregelungen für den öffentlichen Dienst
 
@@ -1352,7 +1312,6 @@ Beschäftigung in der gesetzlichen Rentenversicherung nachversichert
 worden wäre; die Vergleichsberechnung ist im Versorgungsfall aufgrund
 einer Auskunft der Deutschen Rentenversicherung Bund vorzunehmen.
 
-
 #### § 18a Verjährung
 
 Der Anspruch auf Leistungen aus der betrieblichen Altersversorgung
@@ -1360,30 +1319,21 @@ verjährt in 30 Jahren. Ansprüche auf regelmäßig wiederkehrende
 Leistungen unterliegen der regelmäßigen Verjährungsfrist nach den
 Vorschriften des Bürgerlichen Gesetzbuchs.
 
-
 ## Zweiter Teil - Steuerrechtliche Vorschriften
 
-
-
 ### (XXXX) §§ 19 bis 24
-
-
 
 ### § 25
 
 -
 
-
 ## Dritter Teil - Übergangs- und Schlußvorschriften
-
-
 
 ### § 26
 
 Die §§ 1 bis 4 und 18 gelten nicht, wenn das Arbeitsverhältnis oder
 Dienstverhältnis vor dem Inkrafttreten des Gesetzes beendet worden
 ist.
-
 
 ### § 27
 
@@ -1395,14 +1345,12 @@ daß die in diesen Vorschriften genannten Voraussetzungen spätestens
 für die Zeit nach Ablauf eines Jahres seit dem Inkrafttreten des
 Gesetzes erfüllt sein müssen.
 
-
 ### § 28
 
 § 5 gilt für Fälle, in denen der Versorgungsfall vor dem Inkrafttreten
 des Gesetzes eingetreten ist, mit der Maßgabe, daß diese Vorschrift
 bei der Berechnung der nach dem Inkrafttreten des Gesetzes fällig
 werdenden Versorgungsleistungen anzuwenden ist.
-
 
 ### § 29
 
@@ -1412,7 +1360,6 @@ Anspruch genommen worden ist, mit der Maßgabe, daß die Leistungen der
 betrieblichen Altersversorgung vom Inkrafttreten des Gesetzes an zu
 gewähren sind.
 
-
 ### § 30
 
 Ein Anspruch gegen den Träger der Insolvenzsicherung nach § 7 besteht
@@ -1420,7 +1367,6 @@ nur, wenn der Sicherungsfall nach dem Inkrafttreten der §§ 7 bis 15
 eingetreten ist; er kann erstmals nach dem Ablauf von sechs Monaten
 nach diesem Zeitpunkt geltend gemacht werden. Die Beitragspflicht des
 Arbeitgebers beginnt mit dem Inkrafttreten der §§ 7 bis 15.
-
 
 ### § 30a
 
@@ -1461,12 +1407,10 @@ der betrieblichen Altersversorgung Rechtsmittel eingelegt, ist Absatz
 (3) Die Vorschriften des Bürgerlichen Gesetzbuchs über die Verjährung
 von Ansprüchen aus dem Arbeitsverhältnis bleiben unberührt.
 
-
 ### § 30b
 
 § 4 Abs. 3 gilt nur für Zusagen, die nach dem 31. Dezember 2004
 erteilt wurden.
-
 
 ### § 30c
 
@@ -1484,7 +1428,6 @@ dem 1. Januar 2003 gilt § 16 Abs. 2 Nr. 1 mit der Maßgabe, dass an die
 Stelle des Verbraucherpreisindexes für Deutschland der Preisindex für
 die Lebenshaltung von 4-Personen-Haushalten von Arbeitern und
 Angestellten mit mittlerem Einkommen tritt.
-
 
 ### § 30d Übergangsregelung zu § 18
 
@@ -1530,7 +1473,6 @@ Arbeitsverhältnis im Sinne des § 18 Abs. 9 bereits am 31. Dezember
 die Zusatzrente nach § 18 in der bis zum 31. Dezember 1998 geltenden
 Fassung einzubeziehen.
 
-
 ### § 30e
 
 (1) § 1 Abs. 2 Nr. 4 zweiter Halbsatz gilt für Zusagen, die nach dem
@@ -1548,7 +1490,6 @@ Arbeitnehmer ein Recht zur Fortführung nicht eingeräumt, gilt für die
 Höhe der unverfallbaren Anwartschaft § 2 Abs. 5a entsprechend. Für die
 Anpassung laufender Leistungen gelten die Regelungen nach § 16 Abs. 1
 bis 4. Die Regelung in Absatz 1 bleibt unberührt.
-
 
 ### § 30f
 
@@ -1583,7 +1524,6 @@ hat; in diesen Fällen bleibt die Anwartschaft auch erhalten, wenn die
 Zusage ab dem 1. Januar 2009 fünf Jahre bestanden hat und bei
 Beendigung des Arbeitsverhältnisses das 25. Lebensjahr vollendet ist.
 
-
 ### § 30g
 
 (1) § 2 Abs. 5a gilt nur für Anwartschaften, die auf Zusagen beruhen,
@@ -1595,12 +1535,10 @@ Anwartschaften angewendet werden, die auf Zusagen beruhen, die vor dem
 (2) § 3 findet keine Anwendung auf laufende Leistungen, die vor dem 1.
 Januar 2005 erstmals gezahlt worden sind.
 
-
 ### § 30h
 
 § 17 Abs. 5 gilt für Entgeltumwandlungen, die auf Zusagen beruhen, die
 nach dem 29. Juni 2001 erteilt werden.
-
 
 ### § 30i
 
@@ -1628,20 +1566,17 @@ ist.
 im Jahr der Insolvenz in die erforderlichen jährlichen Beiträge gemäß
 § 10 Abs. 2 eingerechnet.
 
-
 ### § 31
 
 Auf Sicherungsfälle, die vor dem 1. Januar 1999 eingetreten sind, ist
 dieses Gesetz in der bis zu diesem Zeitpunkt geltenden Fassung
 anzuwenden.
 
-
 ### § 32
 
 Dieses Gesetz tritt vorbehaltlich des Satzes 2 am Tag nach seiner
 Verkündung in Kraft. Die §§ 7 bis 15 treten am 1. Januar 1975 in
 Kraft.
-
 
 ### Anhang EV Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet A Abschnitt III (BGBl. II 1990, 889, 1024) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 

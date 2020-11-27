@@ -18,20 +18,17 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 10.10.2012 I 2113
 
-
 ## § 1 Vollständiges Anwendungsverbot
 
 Pflanzenschutzmittel, die aus einem in Anlage 1 aufgeführten Stoff
 bestehen oder einen solchen Stoff enthalten, dürfen nicht angewandt
 werden.
 
-
 ## § 2 Eingeschränktes Anwendungsverbot
 
 Pflanzenschutzmittel, die aus einem in Anlage 2 aufgeführten Stoff
 bestehen oder einen solchen Stoff enthalten, dürfen nur angewandt
 werden, soweit dies nach Spalte 3 zulässig ist.
-
 
 ## § 3 Anwendungsbeschränkungen
 
@@ -73,7 +70,6 @@ bestimmt abgegrenzten
 
 nicht angewandt werden dürfen.
 
-
 ## § 3a Besondere Abgabebedingungen
 
 Pflanzenschutzmittel, die aus einem in Anlage 4 aufgeführten Stoff
@@ -84,7 +80,6 @@ einen anderen abgegeben werden, wenn dem Abgebenden zuvor eine dem
 anderen erteilte Genehmigung nach § 6 Abs. 3 des
 Pflanzenschutzgesetzes vorgelegt worden ist.
 
-
 ## § 4 Verbot der Anwendung in Naturschutzgebieten und Nationalparken
 
 Pflanzenschutzmittel, die aus einem in Anlage 2 oder 3 aufgeführten
@@ -94,7 +89,6 @@ Naturdenkmälern und gesetzlich geschützten Biotopen im Sinne des § 30
 des Bundesnaturschutzgesetzes nicht angewandt werden, es sei denn, daß
 eine Anwendung in der Schutzregelung ausdrücklich gestattet ist oder
 die Naturschutzbehörde die Anwendung ausdrücklich gestattet.
-
 
 ## § 5 Einfuhrverbote
 
@@ -110,7 +104,6 @@ nicht eingeführt werden. Dies gilt nicht, soweit nach Anlage 2 Spalte
 oder Kultursubstrats ausdrücklich zulässig ist und nicht der
 Zustimmung der zuständigen Behörde bedarf.
 
-
 ## § 6 Verunreinigungen
 
 Im Rahmen der §§ 1 bis 4 bleiben produktionstechnisch bedingte,
@@ -119,7 +112,6 @@ unberücksichtigt, soweit dadurch nicht der Schutz der menschlichen
 Gesundheit oder die Abwehr von Gefahren, insbesondere für die
 Gesundheit von Mensch und Tier und für den Naturhaushalt,
 beeinträchtigt wird.
-
 
 ## § 7 Ausnahmen
 
@@ -172,10 +164,6 @@ oder Versuchszwecke genehmigen.
     und Tier und der Schutz des Grundwassers und des Naturhaushalts nicht
     beeinträchtigt wird.
 
-
-
-
-
 ## § 8 Straftaten und Ordnungswidrigkeiten
 
 (1) Nach § 69 Absatz 1 Nummer 2, Absatz 6 des Pflanzenschutzgesetzes
@@ -184,7 +172,6 @@ wird bestraft, wer entgegen § 1 ein Pflanzenschutzmittel anwendet.
 (2) Ordnungswidrig im Sinne des § 68 Absatz 1 Nummer 3 Buchstabe a des
 Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 entgegen § 3a ein Pflanzenschutzmittel abgibt.
-
 
 ## Anlage 1 (zu den §§ 1 und 5 Abs. 1) Vollständiges Anwendungsverbot
 
@@ -428,10 +415,6 @@ Fundstelle des Originaltextes: BGBl. I 2003, 1534
 
     *   Tetrachlorkohlenstoff
 
-
-
-
-
 ## Anlage 2 (zu den §§ 2, 4 und 5 Abs. 2) Eingeschränktes Anwendungsverbot
 
 (Fundstelle des Originaltextes: BGBl. I 2003, 1535)
@@ -592,10 +575,6 @@ Fundstelle des Originaltextes: BGBl. I 2003, 1534
     *   Zinkphosphid
 
     *   in Ködern; außerhalb von Forsten nur in verdeckt ausgebrachten Ködern.
-
-
-
-
 
 ## Anlage 3 (zu den §§ 3 und 4) Anwendungsbeschränkungen
 
@@ -1039,9 +1018,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *
-
-
-
 
 ## Anlage 4 (zu § 3a) Besondere Abgabebedingungen
 

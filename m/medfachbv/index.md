@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1995, 768
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 2 Abs. 3 Nr. 1 des Bundesausbildungsförderungsgesetzes
@@ -27,7 +25,6 @@ in der Fassung der Bekanntmachung vom 6. Juni 1983 (BGBl. I S. 645,
 705) und dem Organisationserlaß vom 17. November 1994 (BGBl. I S.
 3667) verordnet das Bundesministerium für Bildung, Wissenschaft,
 Forschung und Technologie:
-
 
 ## § 1 Ausbildungsstätten
 
@@ -118,7 +115,6 @@ einer durch die zuständige Landesbehörde als zur Ausbildung geeignet
 staatlich anerkannten oder ermächtigten Ausbildungsstätte durchgeführt
 wird.
 
-
 ## § 2 Förderungsrechtliche Stellung der Auszubildenden
 
 Die Auszubildenden an den in § 1 Abs. 1 Nr. 2, 4, 11, 13, 16, 17 und
@@ -127,11 +123,9 @@ Schüler an Fachschulen, deren Besuch eine abgeschlossene
 Berufsausbildung voraussetzt, im übrigen wie Schüler von
 Berufsfachschulen.
 
-
 ## § 3 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 1995 in Kraft.
-
 
 ## Schlußformel
 

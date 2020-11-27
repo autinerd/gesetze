@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 794
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
@@ -27,17 +25,14 @@ zuletzt durch Artikel 184 Nr. 1 der Verordnung vom 25. November 2003
 für Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium
 für Bildung und Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Kaufmann für Tourismus und Freizeit/Kauffrau für
 Tourismus und Freizeit wird staatlich anerkannt.
 
-
 ## § 2 Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Zielsetzung der Berufsausbildung
 
@@ -49,7 +44,6 @@ selbstständiges Planen, Durchführen und Kontrollieren einschließt. Die
 in Satz 1 beschriebene Befähigung ist auch in den Prüfungen nach den
 §§ 9 und 10 nachzuweisen.
 
-
 ## § 4 Struktur der Berufsausbildung
 
 Die Ausbildung gliedert sich in
@@ -59,10 +53,6 @@ Die Ausbildung gliedert sich in
 
 2.  eine im Ausbildungsvertrag festzulegende Wahlqualifikationseinheit
     gemäß § 5 Abs. 2 Nr. 1 oder 2.
-
-
-
-
 
 ## § 5 Ausbildungsberufsbild
 
@@ -205,10 +195,6 @@ Wahlqualifikationseinheiten:
 
 2.3 Destinationsvermarktung.
 
-
-
-
-
 ## § 6 Ausbildungsrahmenplan
 
 Die Fertigkeiten und Kenntnisse nach § 5 sollen nach den in den
@@ -219,12 +205,10 @@ zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
 zulässig, soweit eine berufsfeldbezogene Grundbildung vorausgegangen
 ist oder betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
 ## § 7 Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans
 für die Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 8 Berichtsheft
 
@@ -232,7 +216,6 @@ Die Auszubildenden haben ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden
 haben das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 9 Zwischenprüfung
 
@@ -260,10 +243,6 @@ Fälle aus den folgenden Gebieten bearbeiten:
 
 
 4.  Wirtschafts- und Sozialkunde.
-
-
-
-
 
 ## § 10 Abschlussprüfung
 
@@ -384,11 +363,9 @@ ausreichende Prüfungsleistungen erbracht werden. Werden die
 Prüfungsleistungen in einem Prüfungsbereich mit "ungenügend" bewertet,
 so ist die Prüfung nicht bestanden.
 
-
 ## § 11 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2005 in Kraft.
-
 
 ## Anlage 1 (zu § 6) Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für Tourismus und Freizeit/zur Kauffrau für Tourismus und Freizeit - Sachliche Gliederung -
 
@@ -1145,9 +1122,6 @@ Pflichtqualifikationseinheiten gemäß § 4 Nr. 1
     *   betriebsübliche Kennzahlen ermitteln und Statistiken erstellen, zur
         Vorbereitung von Entscheidungen aufbereiten
 
-
-
-
 ## Abschnitt II: Fertigkeiten und Kenntnisse in den
 Wahlqualifikationseinheiten gemäß § 4 Nr. 2
 
@@ -1328,10 +1302,6 @@ Wahlqualifikationseinheiten gemäß § 4 Nr. 2
 *    *   d)
 
     *   Vertriebskooperationen mitgestalten und nutzen
-
-
-
-
 
 ## Anlage 2 (zu § 6) Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für Tourismus und Freizeit/zur Kauffrau für Tourismus und Freizeit - Zeitliche Gliederung -
 

@@ -19,8 +19,6 @@ Fundstelle
 Geändert durch
 :   § 38 Abs. 8 V v. 16.12.2011; 2012 I 2 (1717)
 
-
-
 ## Eingangsformel
 
 Auf Grund
@@ -39,10 +37,6 @@ Auf Grund
     vom 5. Juli 2001 (BGBl. I S. 2026) in Verbindung mit § 1 der
     Binnenschifffahrt-Übertragungsverordnung vom 18. Dezember 2002 (BGBl.
     I S. 4580) verordnet die Wasser- und Schifffahrtsdirektion Mitte:
-
-
-
-
 
 ## § 1 Geltungsbereich
 
@@ -69,7 +63,6 @@ Diese Verordnung regelt
 
 
 auf den Talsperren.
-
 
 ## § 2 Begriffsbestimmungen und anzuwendende Vorschriften
 
@@ -180,10 +173,6 @@ bestimmt. Im Sinne dieser Verordnung sind ferner
     Flächen, die im Rahmen wechselnder Wasserstände bis zum Höchststau
     überflutet werden.
 
-
-
-
-
 ## § 3 Zugelassene Fahrzeuge
 
 (1) Das Befahren der Talsperren ist folgenden Fahrzeugen gestattet
@@ -229,7 +218,6 @@ Sie kann mit Auflagen und Bedingungen verbunden oder befristet werden.
 Für ein Wassermotorrad darf eine Erlaubnis nur für den Einsatz als
 Wasserskizugboot nach der Wasserskiverordnung erteilt werden.
 
-
 ## § 4 Stillliegen und Sondertransporte auf den Talsperren
 
 (1) Die zugelassenen Fahrzeuge dürfen über Nacht nur an den
@@ -248,7 +236,6 @@ Auflagen und Bedingungen verbunden oder befristet werden.
 
 (4) Ein Sondertransport bedarf der Erlaubnis nach § 1.21 Nummer 2 Satz
 1 der Binnenschifffahrtsstraßen-Ordnung.
-
 
 ## § 5 Befähigung der Schiffsführer
 
@@ -284,7 +271,6 @@ b)  einer Fähre eine Fahrerlaubnis für Sportboote mit Antriebsmaschine
 
 ausreichend.
 
-
 ## § 6 Kennzeichnung der Fahrzeuge
 
 (1) Die zugelassenen Fahrzeuge, ausgenommen Segelsurfbretter, haben
@@ -314,14 +300,12 @@ Kennzeichnungsverordnung ist.
 
 (3) Die Kennzeichnungspflicht gilt auch für stillliegende Fahrzeuge.
 
-
 ## § 7 Bezeichnung der Fahrzeuge
 
 In der Zeit von Sonnenuntergang bis Sonnenaufgang und bei unsichtigem
 Wetter müssen Fahrzeuge die nach der Binnenschifffahrtsstraßen-Ordnung
 vorgeschriebene Bezeichnung führen. Dies gilt nicht für Fahrzeuge, die
 am Ufer oder auf Dauerliegeplätzen stillliegen.
-
 
 ## § 8 Bau, Ausrüstung und Besatzung der Fahrzeuge
 
@@ -340,7 +324,6 @@ der Schifffahrt zu gewährleisten.
 
 (3) Die Höhe der Fahrzeuge über der Wasserlinie darf 13,00 m nicht
 überschreiten.
-
 
 ## § 9 Allgemeines Verhalten
 
@@ -378,7 +361,6 @@ Rahmen ihrer Zuständigkeit erteilt werden.
 
 (4) Untiefen sind, ausgenommen die höchste Erhebung der Hopfenberge
 und die Brücke Asel, nicht besonders gekennzeichnet.
-
 
 ## § 10 Gesperrte Wasserflächen
 
@@ -434,7 +416,6 @@ Sicherheit und Leichtigkeit des Verkehrs sowie strompolizeiliche
 Belange nicht beeinträchtigt werden. Die Zulassung kann zeitlich und
 örtlich beschränkt werden.
 
-
 ## § 11 Heranfahren
 
 (1) Es darf nur bis zu einem Abstand von 20 m an die Abgrenzung der
@@ -463,7 +444,6 @@ werden; von den Ufern der Badestellen ist ein Abstand von mindestens
 zum Anlegen, Ein- und Aussetzen nur benutzen, wenn sie dabei die
 Fahrgastschiffe nicht behindern.
 
-
 ## § 12 Geschwindigkeit
 
 Die zulässige Höchstgeschwindigkeit gegenüber dem Ufer beträgt für
@@ -478,7 +458,6 @@ Fahrzeuge mit Maschinenantrieb
 
 Dies gilt nicht für Wasserskizugboote, die Wasserskiläufer in den
 dafür freigegebenen Wasserskigebieten ziehen.
-
 
 ## § 13 Fahrregeln
 
@@ -517,13 +496,6 @@ einzuhalten:
     b)  wenn sie den Wind von derselben Seite haben, muss das luvseitige
         Fahrzeug dem leeseitigen Fahrzeug ausweichen.
 
-
-
-
-
-
-
-
 ## § 14 Wasserskilaufen
 
 (1) Auf den Talsperren ist das Wasserskilaufen nur in den in § 10 Abs.
@@ -540,7 +512,6 @@ rechtes Ufer und nur auf dem kürzesten Weg erfolgen.
 (4) Die Durchfahrt im Bereich Hammerbergspitze darf durch andere
 Fahrzeuge nicht blockiert werden und ist für Wasserskizugboote
 freizuhalten.
-
 
 ## § 15 Sonstige Benutzung
 
@@ -563,7 +534,6 @@ sind mit der Aufschrift
 "Sporttaucher - gesperrt für Wasserfahrzeuge aller Art"
 -------------------------------------------------------
 gekennzeichnet.
-
 
 ## § 16 Erlaubnis besonderer Veranstaltungen und Taucherarbeiten
 
@@ -590,7 +560,6 @@ Sie kann mit Auflagen und Bedingungen verbunden oder befristet werden.
 Hann.Münden rechtzeitig vorher zu melden und hinsichtlich Zeitpunkt
 und Örtlichkeit abzustimmen.
 
-
 ## § 17 Sonderregelungen
 
 Fahrzeuge des Wasser- und Schifffahrtsamtes Hann.Münden und der
@@ -603,7 +572,6 @@ Fahrzeuge der Deutschen Lebensrettungsgesellschaft, der Feuerwehr, des
 Deutschen Roten Kreuzes und des Technischen Hilfswerks im
 Rettungseinsatz.
 
-
 ## § 18 Anordnungen vorübergehender Art
 
 Das Wasser- und Schifffahrtsamt Hann.Münden kann aus besonderen
@@ -612,14 +580,12 @@ Sicherheit und Leichtigkeit des Verkehr auf den Talsperren und
 strompolizeiliche Verfügungen zur Abwehr strompolizeilicher Gefahren
 erlassen.
 
-
 ## § 19 Mitführen von Urkunden
 
 Erlaubnisse, die für das Befahren der Talsperren notwendig sind,
 erforderliche Befähigungszeugnisse sowie der Ausweis über das
 Kennzeichen sind während der Fahrt an Bord mitzuführen und den zur
 Kontrolle befugten Personen auf Verlangen auszuhändigen.
-
 
 ## § 20 Genehmigungspflichtige Anlagen
 
@@ -688,12 +654,10 @@ beeinträchtigt werden, zugelassen werden.
 Hafengebiet Heringhausen von See-km 3,000 bis See-km 3,900 rechtes
 Ufer.
 
-
 ## § 21 Zuständigkeiten
 
 Für die Erteilung einer Erlaubnis oder einer Genehmigung nach dieser
 Verordnung ist das Wasser- und Schifffahrtsamt Hann.Münden zuständig.
-
 
 ## § 22 Auflagen
 
@@ -701,7 +665,6 @@ Liegen die Voraussetzungen der §§ 48 oder 49 des
 Verwaltungsverfahrensgesetzes vor, kann die zuständige Behörde eine
 Erlaubnis oder Genehmigung nach dieser Verordnung auch nachträglich
 befristen und mit Auflagen versehen.
-
 
 ## § 24 Ordnungswidrigkeiten
 
@@ -838,16 +801,11 @@ fahrlässig
 
 15. die in § 19 genannten Urkunden nicht mitführt oder aushändigt.
 
-
-
-
-
 ## § 25 Übergangsbestimmungen
 
 Die vor dem Inkrafttreten dieser Verordnung erteilten Erlaubnisse,
 Genehmigungen, Ausnahmebewilligungen und Befähigungsnachweise gelten
 bis zum Ablauf ihrer Gültigkeit weiter.
-
 
 ## § 26 Inkrafttreten/Außerkrafttreten
 

@@ -18,17 +18,14 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 G v. 13.7.2001 I 1542
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## (XXXX) Art 1 und 2 (weggefallen)
 
 -
-
 
 ## Art 3 Überleitungsregelungen
 
@@ -50,7 +47,6 @@ Bundeskleingartengesetzes gilt entsprechend. Die in Textform
 abgegebene Erklärung des Verpächters hat die Wirkung, dass mit dem vom
 Verpächter genannten Zeitpunkt an die Stelle der bisherigen Pacht die
 erhöhte Pacht tritt.
-
 
 ## Art 4 Inkrafttreten
 

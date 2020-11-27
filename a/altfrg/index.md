@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 1589
 
-
-
 ## § 1 Forderungsberechtigung
 
 (1) Eine vor dem 8. Mai 1945 zu Gunsten von in dem in Artikel 3 des
@@ -51,11 +49,9 @@ das vom Bund treuhänderisch verwaltete Finanzvermögen nach Artikel 22
 Abs. 1 des Einigungsvertrages eingezogen hat, verbleibt es abweichend
 von Absatz 1 Satz 1 dabei.
 
-
 ## § 2 Verhältnis zu anderen Vorschriften
 
 Das Vermögensgesetz bleibt unberührt.
-
 
 ## § 3 Umrechnung, Tilgungsleistungen
 

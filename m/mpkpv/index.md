@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 555
 
-
 ## § 1 Anwendungsbereich
 
 (1) Die Verordnung gilt für klinische Prüfungen und
@@ -46,7 +45,6 @@ Medizinproduktegesetzes, bei denen eine nicht chirurgisch-invasive
 Probenahme aus der Mundhöhle erfolgt, ist diese Verordnung nicht
 anzuwenden.
 
-
 ## § 2 Kennzeichnung
 
 (1) Medizinprodukte, die für klinische Prüfungen bestimmt sind,
@@ -73,7 +71,6 @@ Rates vom 27. Oktober 1998 über In-vitro-Diagnostika (ABl. L 331 vom
 7\.12.1998, S. 1), die zuletzt durch die Verordnung (EG) Nr. 596/2009
 (ABl. L 188 vom 18.7.2009, S. 14) geändert worden ist, sind
 entsprechend anzuwenden.
-
 
 ## § 3 Antragstellung
 
@@ -253,10 +250,6 @@ zusätzlich beizufügen:
     Meldung von schwerwiegenden unerwünschten Ereignissen an die
     zuständige Bundesoberbehörde.
 
-
-
-
-
 ## § 4 Ergänzende Informationen der Genehmigungsbehörden
 
 Die zuständigen Bundesoberbehörden veröffentlichen auf ihren
@@ -264,7 +257,6 @@ Internetseiten weitere Informationen, insbesondere zu den Anträgen,
 Anzeigen und Verfahren nach § 20 Absatz 1 sowie zu den §§ 22a bis 24
 des Medizinproduktegesetzes und zu den §§ 1, 3, 6, 7 und 8 dieser
 Verordnung.
-
 
 ## § 5 Bewertungsverfahren
 
@@ -385,7 +377,6 @@ Bundesoberbehörde im Wege der Datenübertragung über das zentrale
 Erfassungssystem des Deutschen Instituts für Medizinische
 Dokumentation und Information.
 
-
 ## § 6 Genehmigungsverfahren
 
 (1) Die zuständige Bundesoberbehörde bestätigt dem Sponsor innerhalb
@@ -477,10 +468,6 @@ die zuständige Bundesoberbehörde insbesondere
     diagnostischen Genauigkeit und des prädiktiven und prognostischen
     Nutzens.
 
-
-
-
-
 ## § 7 Verfahren bei klinischen Prüfungen und Leistungsbewertungsprüfungen von Medizinprodukten mit geringem Sicherheitsrisiko
 
 (1) Für die folgenden Medizinprodukte kann der Sponsor bei der
@@ -543,7 +530,6 @@ Absatz 1 Satz 1 des Medizinproduktegesetzes erforderliche zustimmende
 Bewertung bei der zuständigen Ethik-Kommission nach Maßgabe des § 3
 Absatz 1 bis 3 zu beantragen.
 
-
 ## § 8 Änderungen
 
 (1) Änderungen nach § 22c Absatz 1 des Medizinproduktegesetzes sind
@@ -587,7 +573,6 @@ unverzüglich nach Eingang des Antrags über ihre Auffassung.
 Verfahren nach den §§ 5 bis 7 sind mit Ausnahme von Änderungen gemäß §
 6 Absatz 3 Satz 2 nicht zulässig.
 
-
 ## § 9 Anforderungen an Prüfer
 
 (1) Prüfer und Hauptprüfer müssen entsprechend qualifizierte Ärzte
@@ -611,10 +596,6 @@ aussagefähige Dokumente zu erbringen.
     Leistungsbewertungsprüfungen sowie mit dem Prüfplan oder dem
     Evaluierungsplan und dem Handbuch des klinischen Prüfers vertraut sein
     und in die sich daraus ergebenden Pflichten eingewiesen worden sein.
-
-
-
-
 
 ## § 10 Durchführung der klinischen Prüfung und Leistungsbewertungsprüfung
 
@@ -664,7 +645,6 @@ ermöglicht.
 zuständigen Behörden zehn Jahre nach Beendigung oder Abbruch der
 Prüfung bereitgehalten werden. Andere Vorschriften zur Aufbewahrung
 von medizinischen Unterlagen bleiben unberührt.
-
 
 ## § 11 Überwachung
 

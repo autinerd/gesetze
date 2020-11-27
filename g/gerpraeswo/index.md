@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 209 Abs. 2 G v. 19.4.2006 I 866
 
-
 ## Eingangsformel
 
 Auf Grund des § 21b Abs. 5 des Gerichtsverfassungsgesetzes sowie auf
@@ -33,7 +32,6 @@ durch das Gesetz zur Änderung der Bezeichnungen der Richter und
 ehrenamtlichen Richter und der Präsidialverfassung der Gerichte vom
 26\. Mai 1972 (Bundesgesetzblatt I S. 841), verordnet die
 Bundesregierung mit Zustimmung des Bundesrates:
-
 
 ## § 1 Wahlvorstand
 
@@ -52,7 +50,6 @@ Ausscheiden von Mitgliedern des Wahlvorstandes nachrücken.
 (3) Das amtierende Präsidium gibt die Namen der Mitglieder und der
 Ersatzmitglieder des Wahlvorstandes unverzüglich durch Aushang
 bekannt.
-
 
 ## § 2 Wahlverzeichnisse
 
@@ -79,7 +76,6 @@ die von sämtlichen Mitgliedern des Wahlvorstandes zu unterzeichnen
 ist. Sie muß das Ergebnis der Auslosung enthalten. Besondere
 Vorkommnisse bei der Auslosung sind in der Niederschrift zu vermerken.
 
-
 ## § 3 Wahltag, Wahlzeit, Wahlraum
 
 Die Wahl soll mindestens zwei Wochen vor Ablauf des Geschäftsjahres
@@ -88,7 +84,6 @@ die Wahlzeit und den Wahlraum. Bei entsprechendem Bedürfnis kann
 bestimmt werden, daß an zwei aufeinander folgenden Arbeitstagen und in
 mehreren Wahlräumen gewählt wird. Die Wahlzeit muß sich über
 mindestens zwei Stunden erstrecken.
-
 
 ## § 4 Wahlbekanntmachungen
 
@@ -132,7 +127,6 @@ Wahlvorstandes ist dem Mitglied des Gerichts, das den Einspruch
 eingelegt hat, schriftlich mitzuteilen. Sie muß ihm spätestens am Tage
 vor der Wahl zugehen.
 
-
 ## § 5 Wahlhandlung
 
 (1) Das Wahlrecht wird durch Abgabe eines Stimmzettels in einem
@@ -147,7 +141,6 @@ abläuft.
 (3) Der Wähler gibt seine Stimme ab, indem er auf dem Stimmzettel
 einen oder mehrere Namen von Richtern ankreuzt und den Stimmzettel im
 verschlossenen Wahlumschlag in die Wahlurne legt.
-
 
 ## § 6 Ordnung im Wahlraum
 
@@ -185,7 +178,6 @@ ist.
 Wahlberechtigten abstimmen, die sich in diesem Zeitpunkt im Wahlraum
 befinden. Sodann erklärt der Wahlvorstand die Wahlhandlung für
 beendet.
-
 
 ## § 7 Briefwahl
 
@@ -232,7 +224,6 @@ Wahlvorstandes zu den Wahlunterlagen zu nehmen. Nach Ablauf der
 Wahlzeit eingehende Briefe sind unter Vermerk des Eingangszeitpunktes
 ungeöffnet zu den Wahlunterlagen zu nehmen.
 
-
 ## § 8 Feststellung des Wahlergebnisses
 
 (1) Unverzüglich nach Ablauf der Wahlzeit stellt der Wahlvorstand das
@@ -264,7 +255,6 @@ entfallenden gültigen Stimmen zusammen.
 Mitgliedern des Gerichts stellt der Wahlvorstand durch Auslosung fest,
 wer als gewählt gilt und wer in den Fällen des § 21c Abs. 2 des
 Gerichtsverfassungsgesetzes als Nächstberufener nachrückt.
-
 
 ## § 9 Wahlniederschrift
 
@@ -300,18 +290,15 @@ ist. Die Niederschrift muß enthalten:
 (2) Besondere Vorkommnisse bei der Wahlhandlung oder der Feststellung
 des Wahlergebnisses sind in der Niederschrift zu vermerken.
 
-
 ## § 10 Benachrichtigung der gewählten Richter
 
 Der Wahlvorstand benachrichtigt unverzüglich die in das Präsidium
 gewählten Mitglieder des Gerichts schriftlich von ihrer Wahl.
 
-
 ## § 11 Bekanntgabe des Wahlergebnisses
 
 Der Wahlvorstand gibt das Wahlergebnis unverzüglich durch Aushang
 bekannt.
-
 
 ## § 12 Berichtigung des Wahlergebnisses
 
@@ -320,14 +307,12 @@ insbesondere Schreib- und Rechenfehler, kann der Wahlvorstand von Amts
 wegen oder auf Antrag berichtigen. Die Berichtigung ist gleichfalls
 durch Aushang bekannt zu machen.
 
-
 ## § 13 Aufbewahrung der Wahlunterlagen
 
 Die Wahlunterlagen (Aushänge, Niederschriften, Stimmzettel, verspätet
 oder ohne vorgedruckte Erklärung eingegangene Wahlbriefe usw.) werden
 von dem Präsidium mindestens vier Jahre aufbewahrt; die Frist beginnt
 mit dem auf die Wahl folgenden Geschäftsjahr.
-
 
 ## § 14 Nachwahl
 
@@ -336,16 +321,13 @@ eine Nachwahl durchzuführen, weil kein Nächstberufener vorhanden ist,
 so gelten für die Durchführung der Nachwahl die Vorschriften dieser
 Verordnung entsprechend.
 
-
 ## § 15
 
 -
 
-
 ## § 16
 
 (weggefallen)
-
 
 ## § 17 Inkrafttreten
 

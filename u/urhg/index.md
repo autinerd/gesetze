@@ -18,24 +18,16 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 G v. 14.12.2012 I 2579
 
-
 ## Teil 1 - Urheberrecht
 
-
-
 ### Abschnitt 1 - Allgemeines
-
-
 
 #### § 1 Allgemeines
 
 Die Urheber von Werken der Literatur, Wissenschaft und Kunst genießen
 für ihre Werke Schutz nach Maßgabe dieses Gesetzes.
 
-
 ### Abschnitt 2 - Das Werk
-
-
 
 #### § 2 Geschützte Werke
 
@@ -73,7 +65,6 @@ gehören insbesondere:
 (2) Werke im Sinne dieses Gesetzes sind nur persönliche geistige
 Schöpfungen.
 
-
 #### § 3 Bearbeitungen
 
 Übersetzungen und andere Bearbeitungen eines Werkes, die persönliche
@@ -81,7 +72,6 @@ geistige Schöpfungen des Bearbeiters sind, werden unbeschadet des
 Urheberrechts am bearbeiteten Werk wie selbständige Werke geschützt.
 Die nur unwesentliche Bearbeitung eines nicht geschützten Werkes der
 Musik wird nicht als selbständiges Werk geschützt.
-
 
 #### § 4 Sammelwerke und Datenbankwerke
 
@@ -97,7 +87,6 @@ elektronischer Mittel oder auf andere Weise zugänglich sind. Ein zur
 Schaffung des Datenbankwerkes oder zur Ermöglichung des Zugangs zu
 dessen Elementen verwendetes Computerprogramm (§ 69a) ist nicht
 Bestandteil des Datenbankwerkes.
-
 
 #### § 5 Amtliche Werke
 
@@ -120,7 +109,6 @@ Verbreitung einzuräumen. Ist ein Dritter Inhaber des ausschließlichen
 Rechts zur Vervielfältigung und Verbreitung, so ist dieser zur
 Einräumung des Nutzungsrechts nach Satz 2 verpflichtet.
 
-
 #### § 6 Veröffentlichte und erschienene Werke
 
 (1) Ein Werk ist veröffentlicht, wenn es mit Zustimmung des
@@ -134,15 +122,11 @@ erschienen, wenn das Original oder ein Vervielfältigungsstück des
 Werkes mit Zustimmung des Berechtigten bleibend der Öffentlichkeit
 zugänglich ist.
 
-
 ### Abschnitt 3 - Der Urheber
-
-
 
 #### § 7 Urheber
 
 Urheber ist der Schöpfer des Werkes.
-
 
 #### § 8 Miturheber
 
@@ -167,7 +151,6 @@ Werkes, wenn nichts anderes zwischen den Miturhebern vereinbart ist.
 erklären. Mit der Erklärung wächst der Anteil den anderen Miturhebern
 zu.
 
-
 #### § 9 Urheber verbundener Werke
 
 Haben mehrere Urheber ihre Werke zu gemeinsamer Verwertung miteinander
@@ -175,7 +158,6 @@ verbunden, so kann jeder vom anderen die Einwilligung zur
 Veröffentlichung, Verwertung und Änderung der verbundenen Werke
 verlangen, wenn die Einwilligung dem anderen nach Treu und Glauben
 zuzumuten ist.
-
 
 #### § 10 Vermutung der Urheber- oder Rechtsinhaberschaft
 
@@ -198,14 +180,9 @@ einstweiligen Rechtsschutzes handelt oder Unterlassungsansprüche
 geltend gemacht werden. Die Vermutung gilt nicht im Verhältnis zum
 Urheber oder zum ursprünglichen Inhaber des verwandten Schutzrechts.
 
-
 ### Abschnitt 4 - Inhalt des Urheberrechts
 
-
-
 #### Unterabschnitt 1 - Allgemeines
-
-
 
 ##### § 11 Allgemeines
 
@@ -214,10 +191,7 @@ persönlichen Beziehungen zum Werk und in der Nutzung des Werkes. Es
 dient zugleich der Sicherung einer angemessenen Vergütung für die
 Nutzung des Werkes.
 
-
 #### Unterabschnitt 2 - Urheberpersönlichkeitsrecht
-
-
 
 ##### § 12 Veröffentlichungsrecht
 
@@ -229,13 +203,11 @@ veröffentlichen ist.
 noch der wesentliche Inhalt oder eine Beschreibung des Werkes mit
 seiner Zustimmung veröffentlicht ist.
 
-
 ##### § 13 Anerkennung der Urheberschaft
 
 Der Urheber hat das Recht auf Anerkennung seiner Urheberschaft am
 Werk. Er kann bestimmen, ob das Werk mit einer Urheberbezeichnung zu
 versehen und welche Bezeichnung zu verwenden ist.
-
 
 ##### § 14 Entstellung des Werkes
 
@@ -244,10 +216,7 @@ Beeinträchtigung seines Werkes zu verbieten, die geeignet ist, seine
 berechtigten geistigen oder persönlichen Interessen am Werk zu
 gefährden.
 
-
 #### Unterabschnitt 3 - Verwertungsrechte
-
-
 
 ##### § 15 Allgemeines
 
@@ -295,7 +264,6 @@ anderen Personen, denen das Werk in unkörperlicher Form wahrnehmbar
 oder zugänglich gemacht wird, durch persönliche Beziehungen verbunden
 ist.
 
-
 ##### § 16 Vervielfältigungsrecht
 
 (1) Das Vervielfältigungsrecht ist das Recht, Vervielfältigungsstücke
@@ -308,7 +276,6 @@ Vorrichtungen zur wiederholbaren Wiedergabe von Bild- oder Tonfolgen
 Wiedergabe des Werkes auf einen Bild- oder Tonträger oder um die
 Übertragung des Werkes von einem Bild- oder Tonträger auf einen
 anderen handelt.
-
 
 ##### § 17 Verbreitungsrecht
 
@@ -335,17 +302,12 @@ von Originalen oder Vervielfältigungsstücken
     ausschließlichen Zweck, bei der Erfüllung von Verpflichtungen aus dem
     Arbeits- oder Dienstverhältnis benutzt zu werden.
 
-
-
-
-
 ##### § 18 Ausstellungsrecht
 
 Das Ausstellungsrecht ist das Recht, das Original oder
 Vervielfältigungsstücke eines unveröffentlichten Werkes der bildenden
 Künste oder eines unveröffentlichten Lichtbildwerkes öffentlich zur
 Schau zu stellen.
-
 
 ##### § 19 Vortrags-, Aufführungs- und Vorführungsrecht
 
@@ -368,7 +330,6 @@ wahrnehmbar zu machen. Das Vorführungsrecht umfaßt nicht das Recht,
 die Funksendung oder öffentliche Zugänglichmachung solcher Werke
 öffentlich wahrnehmbar zu machen (§ 22).
 
-
 ##### § 19a Recht der öffentlichen Zugänglichmachung
 
 Das Recht der öffentlichen Zugänglichmachung ist das Recht, das Werk
@@ -376,13 +337,11 @@ drahtgebunden oder drahtlos der Öffentlichkeit in einer Weise
 zugänglich zu machen, dass es Mitgliedern der Öffentlichkeit von Orten
 und zu Zeiten ihrer Wahl zugänglich ist.
 
-
 ##### § 20 Senderecht
 
 Das Senderecht ist das Recht, das Werk durch Funk, wie Ton- und
 Fernsehrundfunk, Satellitenrundfunk, Kabelfunk oder ähnliche
 technische Mittel, der Öffentlichkeit zugänglich zu machen.
-
 
 ##### § 20a Europäische Satellitensendung
 
@@ -421,7 +380,6 @@ Eingabe der für den öffentlichen Empfang bestimmten programmtragenden
 Signale in eine ununterbrochene Übertragungskette, die zum Satelliten
 und zurück zur Erde führt.
 
-
 ##### § 20b Kabelweitersendung
 
 (1) Das Recht, ein gesendetes Werk im Rahmen eines zeitgleich,
@@ -442,13 +400,11 @@ Betriebsvereinbarungen und gemeinsamen Vergütungsregeln von
 Sendeunternehmen nicht entgegen, soweit dadurch dem Urheber eine
 angemessene Vergütung für jede Kabelweitersendung eingeräumt wird.
 
-
 ##### § 21 Recht der Wiedergabe durch Bild- oder Tonträger
 
 Das Recht der Wiedergabe durch Bild- oder Tonträger ist das Recht,
 Vorträge oder Aufführungen des Werkes mittels Bild- oder Tonträger
 öffentlich wahrnehmbar zu machen. § 19 Abs. 3 gilt entsprechend.
-
 
 ##### § 22 Recht der Wiedergabe von Funksendungen und von öffentlicher Zugänglichmachung
 
@@ -457,7 +413,6 @@ Das Recht der Wiedergabe von Funksendungen und der Wiedergabe von
 öffentlicher Zugänglichmachung beruhende Wiedergaben des Werkes durch
 Bildschirm, Lautsprecher oder ähnliche technische Einrichtungen
 öffentlich wahrnehmbar zu machen. § 19 Abs. 3 gilt entsprechend.
-
 
 ##### § 23 Bearbeitungen und Umgestaltungen
 
@@ -470,7 +425,6 @@ Baukunst oder um die Bearbeitung oder Umgestaltung eines
 Datenbankwerkes, so bedarf bereits das Herstellen der Bearbeitung oder
 Umgestaltung der Einwilligung des Urhebers.
 
-
 ##### § 24 Freie Benutzung
 
 (1) Ein selbständiges Werk, das in freier Benutzung des Werkes eines
@@ -481,10 +435,7 @@ benutzten Werkes veröffentlicht und verwertet werden.
 durch welche eine Melodie erkennbar dem Werk entnommen und einem neuen
 Werk zugrunde gelegt wird.
 
-
 #### Unterabschnitt 4 - Sonstige Rechte des Urhebers
-
-
 
 ##### § 25 Zugang zu Werkstücken
 
@@ -497,7 +448,6 @@ entgegenstehen.
 
 (2) Der Besitzer ist nicht verpflichtet, das Original oder das
 Vervielfältigungsstück dem Urheber herauszugeben.
-
 
 ##### § 26 Folgerecht
 
@@ -569,7 +519,6 @@ zu erstatten.
 (8) Die vorstehenden Bestimmungen sind auf Werke der Baukunst und der
 angewandten Kunst nicht anzuwenden.
 
-
 ##### § 27 Vergütung für Vermietung und Verleihen
 
 (1) Hat der Urheber das Vermietrecht (§ 17) an einem Bild- oder
@@ -593,14 +542,9 @@ Anwendung.
 (3) Die Vergütungsansprüche nach den Absätzen 1 und 2 können nur durch
 eine Verwertungsgesellschaft geltend gemacht werden.
 
-
 ### Abschnitt 5 - Rechtsverkehr im Urheberrecht
 
-
-
 #### Unterabschnitt 1 - Rechtsnachfolge in das Urheberrecht
-
-
 
 ##### § 28 Vererbung des Urheberrechts
 
@@ -609,7 +553,6 @@ eine Verwertungsgesellschaft geltend gemacht werden.
 (2) Der Urheber kann durch letztwillige Verfügung die Ausübung des
 Urheberrechts einem Testamentsvollstrecker übertragen. § 2210 des
 Bürgerlichen Gesetzbuchs ist nicht anzuwenden.
-
 
 ##### § 29 Rechtsgeschäfte über das Urheberrecht
 
@@ -622,16 +565,12 @@ schuldrechtliche Einwilligungen und Vereinbarungen zu
 Verwertungsrechten sowie die in § 39 geregelten Rechtsgeschäfte über
 Urheberpersönlichkeitsrechte.
 
-
 ##### § 30 Rechtsnachfolger des Urhebers
 
 Der Rechtsnachfolger des Urhebers hat die dem Urheber nach diesem
 Gesetz zustehenden Rechte, soweit nichts anderes bestimmt ist.
 
-
 #### Unterabschnitt 2 - Nutzungsrechte
-
-
 
 ##### § 31 Einräumung von Nutzungsrechten
 
@@ -661,7 +600,6 @@ ausschließliches Nutzungsrecht handelt, wie weit Nutzungsrecht und
 Verbotsrecht reichen und welchen Einschränkungen das Nutzungsrecht
 unterliegt.
 
-
 ##### § 31a Verträge über unbekannte Nutzungsarten
 
 (1) Ein Vertrag, durch den der Urheber Rechte für unbekannte
@@ -688,7 +626,6 @@ Treu und Glauben ausüben.
 
 (4) Auf die Rechte nach den Absätzen 1 bis 3 kann im Voraus nicht
 verzichtet werden.
-
 
 ##### § 32 Angemessene Vergütung
 
@@ -717,7 +654,6 @@ jedermann einräumen.
 
 (4) Der Urheber hat keinen Anspruch nach Absatz 1 Satz 3, soweit die
 Vergütung für die Nutzung seiner Werke tarifvertraglich bestimmt ist.
-
 
 ##### § 32a Weitere Beteiligung des Urhebers
 
@@ -750,7 +686,6 @@ Vergütung nach einer gemeinsamen Vergütungsregel (§ 36) oder
 tarifvertraglich bestimmt worden ist und ausdrücklich eine weitere
 angemessene Beteiligung für den Fall des Absatzes 1 vorsieht.
 
-
 ##### § 32b Zwingende Anwendung
 
 Die §§ 32 und 32a finden zwingend Anwendung
@@ -761,10 +696,6 @@ Die §§ 32 und 32a finden zwingend Anwendung
 
 2.  soweit Gegenstand des Vertrages maßgebliche Nutzungshandlungen im
     räumlichen Geltungsbereich dieses Gesetzes sind.
-
-
-
-
 
 ##### § 32c Vergütung für später bekannte Nutzungsarten
 
@@ -784,14 +715,12 @@ Vertragspartners entfällt.
 verzichtet werden. Der Urheber kann aber unentgeltlich ein einfaches
 Nutzungsrecht für jedermann einräumen.
 
-
 ##### § 33 Weiterwirkung von Nutzungsrechten
 
 Ausschließliche und einfache Nutzungsrechte bleiben gegenüber später
 eingeräumten Nutzungsrechten wirksam. Gleiches gilt, wenn der Inhaber
 des Rechts, der das Nutzungsrecht eingeräumt hat, wechselt oder wenn
 er auf sein Recht verzichtet.
-
 
 ##### § 34 Übertragung von Nutzungsrechten
 
@@ -821,7 +750,6 @@ Nutzungsrechts nicht im Einzelfall ausdrücklich zugestimmt hat.
 Erwerbers im Voraus nicht verzichten. Im Übrigen können der Inhaber
 des Nutzungsrechts und der Urheber Abweichendes vereinbaren.
 
-
 ##### § 35 Einräumung weiterer Nutzungsrechte
 
 (1) Der Inhaber eines ausschließlichen Nutzungsrechts kann weitere
@@ -831,7 +759,6 @@ zur Wahrnehmung der Belange des Urhebers eingeräumt ist.
 
 (2) Die Bestimmungen in § 34 Abs. 1 Satz 2, Abs. 2 und Absatz 5 Satz 2
 sind entsprechend anzuwenden.
-
 
 ##### § 36 Gemeinsame Vergütungsregeln
 
@@ -871,7 +798,6 @@ Einigungsvorschlag zu machen, der den Inhalt der gemeinsamen
 Vergütungsregeln enthält. Er gilt als angenommen, wenn ihm nicht
 innerhalb von drei Monaten nach Empfang des Vorschlages schriftlich
 widersprochen wird.
-
 
 ##### § 36a Schlichtungsstelle
 
@@ -923,7 +849,6 @@ Einzelheiten des Verfahrens vor der Schlichtungsstelle zu regeln sowie
 weitere Vorschriften über die Kosten des Verfahrens und die
 Entschädigung der Mitglieder der Schlichtungsstelle zu erlassen.
 
-
 ##### § 37 Verträge über die Einräumung von Nutzungsrechten
 
 (1) Räumt der Urheber einem anderen ein Nutzungsrecht am Werk ein, so
@@ -939,7 +864,6 @@ Recht, das Werk auf Bild- oder Tonträger zu übertragen.
 berechtigt, die Wiedergabe außerhalb der Veranstaltung, für die sie
 bestimmt ist, durch Bildschirm, Lautsprecher oder ähnliche technische
 Einrichtungen öffentlich wahrnehmbar zu machen.
-
 
 ##### § 38 Beiträge zu Sammlungen
 
@@ -961,7 +885,6 @@ ein, so ist er sogleich nach Erscheinen des Beitrags berechtigt, ihn
 anderweit zu vervielfältigen und zu verbreiten, wenn nichts anderes
 vereinbart ist.
 
-
 ##### § 39 Änderungen des Werkes
 
 (1) Der Inhaber eines Nutzungsrechts darf das Werk, dessen Titel oder
@@ -971,7 +894,6 @@ vereinbart ist.
 (2) Änderungen des Werkes und seines Titels, zu denen der Urheber
 seine Einwilligung nach Treu und Glauben nicht versagen kann, sind
 zulässig.
-
 
 ##### § 40 Verträge über künftige Werke
 
@@ -991,7 +913,6 @@ unberührt.
 eingeräumt worden sind, wird mit Beendigung des Vertrages die
 Verfügung hinsichtlich der Werke unwirksam, die zu diesem Zeitpunkt
 noch nicht abgeliefert sind.
-
 
 ##### § 41 Rückrufsrecht wegen Nichtausübung
 
@@ -1030,7 +951,6 @@ es der Billigkeit entspricht.
 (7) Rechte und Ansprüche der Beteiligten nach anderen gesetzlichen
 Vorschriften bleiben unberührt.
 
-
 ##### § 42 Rückrufsrecht wegen gewandelter Überzeugung
 
 (1) Der Urheber kann ein Nutzungsrecht gegenüber dem Inhaber
@@ -1061,7 +981,6 @@ entsprechendes Nutzungsrecht zu angemessenen Bedingungen anzubieten.
 
 (5) Die Bestimmungen in § 41 Abs. 5 und 7 sind entsprechend
 anzuwenden.
-
 
 ##### § 42a Zwangslizenz zur Herstellung von Tonträgern
 
@@ -1122,7 +1041,6 @@ nicht zutreffen.
 Absatz 1 bezeichnete Nutzungsrecht lediglich zur Herstellung eines
 Filmes eingeräumt worden ist.
 
-
 ##### § 43 Urheber in Arbeits- oder Dienstverhältnissen
 
 Die Vorschriften dieses Unterabschnitts sind auch anzuwenden, wenn der
@@ -1130,7 +1048,6 @@ Urheber das Werk in Erfüllung seiner Verpflichtungen aus einem
 Arbeits- oder Dienstverhältnis geschaffen hat, soweit sich aus dem
 Inhalt oder dem Wesen des Arbeits- oder Dienstverhältnisses nichts
 anderes ergibt.
-
 
 ##### § 44 Veräußerung des Originals des Werkes
 
@@ -1143,10 +1060,7 @@ auszustellen, auch wenn es noch nicht veröffentlicht ist, es sei denn,
 daß der Urheber dies bei der Veräußerung des Originals ausdrücklich
 ausgeschlossen hat.
 
-
 ### Abschnitt 6 - Schranken des Urheberrechts
-
-
 
 #### § 44a Vorübergehende Vervielfältigungshandlungen
 
@@ -1165,7 +1079,6 @@ technischen Verfahrens darstellen und deren alleiniger Zweck es ist,
 eines Werkes oder sonstigen Schutzgegenstands zu ermöglichen, und die
 keine eigenständige wirtschaftliche Bedeutung haben.
 
-
 #### § 45 Rechtspflege und öffentliche Sicherheit
 
 (1) Zulässig ist, einzelne Vervielfältigungsstücke von Werken zur
@@ -1180,7 +1093,6 @@ lassen.
 auch die Verbreitung, öffentliche Ausstellung und öffentliche
 Wiedergabe der Werke zulässig.
 
-
 #### § 45a Behinderte Menschen
 
 (1) Zulässig ist die nicht Erwerbszwecken dienende Vervielfältigung
@@ -1194,7 +1106,6 @@ erforderlich ist.
 angemessene Vergütung zu zahlen; ausgenommen ist die Herstellung
 lediglich einzelner Vervielfältigungsstücke. Der Anspruch kann nur
 durch eine Verwertungsgesellschaft geltend gemacht werden.
-
 
 #### § 46 Sammlungen für Kirchen-, Schul- oder Unterrichtsgebrauch
 
@@ -1237,7 +1148,6 @@ werden kann und er ein etwa bestehendes Nutzungsrecht aus diesem
 Grunde zurückgerufen hat (§ 42). Die Bestimmungen in § 136 Abs. 1 und
 2 sind entsprechend anzuwenden.
 
-
 #### § 47 Schulfunksendungen
 
 (1) Schulen sowie Einrichtungen der Lehrerbildung und der
@@ -1251,7 +1161,6 @@ oder vergleichbare Einrichtungen in öffentlicher Trägerschaft.
 werden. Sie sind spätestens am Ende des auf die Übertragung der
 Schulfunksendung folgenden Schuljahrs zu löschen, es sei denn, daß dem
 Urheber eine angemessene Vergütung gezahlt wird.
-
 
 #### § 48 Öffentliche Reden
 
@@ -1277,7 +1186,6 @@ Urheber eine angemessene Vergütung gezahlt wird.
 Absatz 1 Nr. 2 bezeichneten Reden in Form einer Sammlung, die
 überwiegend Reden desselben Urhebers enthält.
 
-
 #### § 49 Zeitungsartikel und Rundfunkkommentare
 
 (1) Zulässig ist die Vervielfältigung und Verbreitung einzelner
@@ -1301,7 +1209,6 @@ Inhalts und von Tagesneuigkeiten, die durch Presse oder Funk
 veröffentlicht worden sind; ein durch andere gesetzliche Vorschriften
 gewährter Schutz bleibt unberührt.
 
-
 #### § 50 Berichterstattung über Tagesereignisse
 
 Zur Berichterstattung über Tagesereignisse durch Funk oder durch
@@ -1311,7 +1218,6 @@ Tagesinteressen Rechnung tragen, sowie im Film, ist die
 Vervielfältigung, Verbreitung und öffentliche Wiedergabe von Werken,
 die im Verlauf dieser Ereignisse wahrnehmbar werden, in einem durch
 den Zweck gebotenen Umfang zulässig.
-
 
 #### § 51 Zitate
 
@@ -1331,10 +1237,6 @@ ist. Zulässig ist dies insbesondere, wenn
 
 3.  einzelne Stellen eines erschienenen Werkes der Musik in einem
     selbständigen Werk der Musik angeführt werden.
-
-
-
-
 
 #### § 52 Öffentliche Wiedergabe
 
@@ -1361,7 +1263,6 @@ eine angemessene Vergütung zu zahlen.
 Zugänglichmachungen und Funksendungen eines Werkes sowie öffentliche
 Vorführungen eines Filmwerks sind stets nur mit Einwilligung des
 Berechtigten zulässig.
-
 
 #### § 52a Öffentliche Zugänglichmachung für Unterricht und Forschung
 
@@ -1401,7 +1302,6 @@ Berechtigten zulässig.
 angemessene Vergütung zu zahlen. Der Anspruch kann nur durch eine
 Verwertungsgesellschaft geltend gemacht werden.
 
-
 #### § 52b Wiedergabe von Werken an elektronischen Leseplätzen in öffentlichen Bibliotheken, Museen und Archiven
 
 Zulässig ist, veröffentlichte Werke aus dem Bestand öffentlich
@@ -1416,7 +1316,6 @@ Leseplätzen gleichzeitig zugänglich gemacht werden, als der Bestand
 der Einrichtung umfasst. Für die Zugänglichmachung ist eine
 angemessene Vergütung zu zahlen. Der Anspruch kann nur durch eine
 Verwertungsgesellschaft geltend gemacht werden.
-
 
 #### § 53 Vervielfältigungen zum privaten und sonstigen eigenen Gebrauch
 
@@ -1540,7 +1439,6 @@ Entwürfen zu Werken der bildenden Künste und der Nachbau eines Werkes
 der Baukunst sind stets nur mit Einwilligung des Berechtigten
 zulässig.
 
-
 #### § 53a Kopienversand auf Bestellung
 
 (1) Zulässig ist auf Einzelbestellung die Vervielfältigung und
@@ -1563,7 +1461,6 @@ wird.
 angemessene Vergütung zu zahlen. Der Anspruch kann nur durch eine
 Verwertungsgesellschaft geltend gemacht werden.
 
-
 #### § 54 Vergütungspflicht
 
 (1) Ist nach der Art eines Werkes zu erwarten, dass es nach § 53 Abs.
@@ -1577,7 +1474,6 @@ einer angemessenen Vergütung.
 erwartet werden kann, dass die Geräte oder Speichermedien im
 Geltungsbereich dieses Gesetzes nicht zu Vervielfältigungen benutzt
 werden.
-
 
 #### § 54a Vergütungshöhe
 
@@ -1601,7 +1497,6 @@ Mehrfachbeschreibbarkeit von Speichermedien, zu berücksichtigen.
 unzumutbar beeinträchtigen; sie muss in einem wirtschaftlich
 angemessenen Verhältnis zum Preisniveau des Geräts oder des
 Speichermediums stehen.
-
 
 #### § 54b Vergütungspflicht des Händlers oder Importeurs
 
@@ -1635,10 +1530,6 @@ sie in den zollrechtlich freien Verkehr übergeführt werden.
     bezeichneten Empfangsstelle jeweils zum 10. Januar und 10. Juli für
     das vorangegangene Kalenderhalbjahr schriftlich mitteilt.
 
-
-
-
-
 #### § 54c Vergütungspflicht des Betreibers von Ablichtungsgeräten
 
 (1) Werden Geräte der in § 54 Abs. 1 genannten Art, die im Weg der
@@ -1656,7 +1547,6 @@ bemisst sich nach der Art und dem Umfang der Nutzung des Geräts, die
 nach den Umständen, insbesondere nach dem Standort und der üblichen
 Verwendung, wahrscheinlich ist.
 
-
 #### § 54d Hinweispflicht
 
 Soweit nach § 14 Abs. 2 Satz 1 Nr. 2 Satz 2 des Umsatzsteuergesetzes
@@ -1665,7 +1555,6 @@ Rechnungen über die Veräußerung oder ein sonstiges Inverkehrbringen
 der in § 54 Abs. 1 genannten Geräte oder Speichermedien auf die auf
 das Gerät oder Speichermedium entfallende Urhebervergütung
 hinzuweisen.
-
 
 #### § 54e Meldepflicht
 
@@ -1678,7 +1567,6 @@ zehnten Tag nach Ablauf jedes Kalendermonats schriftlich mitzuteilen.
 (2) Kommt der Meldepflichtige seiner Meldepflicht nicht, nur
 unvollständig oder sonst unrichtig nach, kann der doppelte
 Vergütungssatz verlangt werden.
-
 
 #### § 54f Auskunftspflicht
 
@@ -1697,7 +1585,6 @@ Vergütung erforderliche Auskunft verlangen.
 Auskunftspflicht nicht, nur unvollständig oder sonst unrichtig nach,
 so kann der doppelte Vergütungssatz verlangt werden.
 
-
 #### § 54g Kontrollbesuch
 
 Soweit dies für die Bemessung der vom Betreiber nach § 54c
@@ -1707,7 +1594,6 @@ der Geräte für die entgeltliche Herstellung von Ablichtungen
 bereithält, während der üblichen Betriebs- oder Geschäftszeit
 gestattet wird. Der Kontrollbesuch muss so ausgeübt werden, dass
 vermeidbare Betriebsstörungen unterbleiben.
-
 
 #### § 54h Verwertungsgesellschaften; Handhabung der Mitteilungen
 
@@ -1733,7 +1619,6 @@ verwenden.
 gemäß § 54b Abs. 3 Nr. 2, den §§ 54e und 54f erhaltenen Angaben nur
 zur Geltendmachung der Ansprüche nach Absatz 1 verwenden.
 
-
 #### § 55 Vervielfältigung durch Sendeunternehmen
 
 (1) Ein Sendeunternehmen, das zur Funksendung eines Werkes berechtigt
@@ -1747,7 +1632,6 @@ löschen.
 haben, brauchen nicht gelöscht zu werden, wenn sie in ein amtliches
 Archiv aufgenommen werden. Von der Aufnahme in das Archiv ist der
 Urheber unverzüglich zu benachrichtigen.
-
 
 #### § 55a Benutzung eines Datenbankwerkes
 
@@ -1765,7 +1649,6 @@ Datenbankwerkes zugänglich gemacht, so ist nur die Bearbeitung sowie
 die Vervielfältigung dieses Teils zulässig. Entgegenstehende
 vertragliche Vereinbarungen sind nichtig.
 
-
 #### § 56 Vervielfältigung und öffentliche Wiedergabe in Geschäftsbetrieben
 
 (1) In Geschäftsbetrieben, in denen Geräte zur Herstellung oder zur
@@ -1781,14 +1664,12 @@ vorzuführen oder instand zu setzen.
 (2) Nach Absatz 1 hergestellte Bild-, Ton- oder Datenträger sind
 unverzüglich zu löschen.
 
-
 #### § 57 Unwesentliches Beiwerk
 
 Zulässig ist die Vervielfältigung, Verbreitung und öffentliche
 Wiedergabe von Werken, wenn sie als unwesentliches Beiwerk neben dem
 eigentlichen Gegenstand der Vervielfältigung, Verbreitung oder
 öffentlichen Wiedergabe anzusehen sind.
-
 
 #### § 58 Werke in Ausstellungen, öffentlichem Verkauf und öffentlich zugänglichen Einrichtungen
 
@@ -1805,7 +1686,6 @@ inhaltlichem und zeitlichem Zusammenhang mit einer Ausstellung oder
 zur Dokumentation von Beständen herausgegeben werden und mit denen
 kein eigenständiger Erwerbszweck verfolgt wird.
 
-
 #### § 59 Werke an öffentlichen Plätzen
 
 (1) Zulässig ist, Werke, die sich bleibend an öffentlichen Wegen,
@@ -1816,7 +1696,6 @@ Befugnisse nur auf die äußere Ansicht.
 
 (2) Die Vervielfältigungen dürfen nicht an einem Bauwerk vorgenommen
 werden.
-
 
 #### § 60 Bildnisse
 
@@ -1833,11 +1712,9 @@ ist die Verwertung nur durch Lichtbild zulässig.
 Lebenspartner und die Kinder oder, wenn weder ein Ehegatte oder
 Lebenspartner noch Kinder vorhanden sind, die Eltern.
 
-
 #### § 61 (weggefallen)
 
 -
-
 
 #### § 62 Änderungsverbot
 
@@ -1866,7 +1743,6 @@ gilt als erteilt, wenn der Urheber oder der Rechtsnachfolger nicht
 innerhalb eines Monats, nachdem ihm die beabsichtigte Änderung
 mitgeteilt worden ist, widerspricht und er bei der Mitteilung der
 Änderung auf diese Rechtsfolge hingewiesen worden ist.
-
 
 #### § 63 Quellenangabe
 
@@ -1901,7 +1777,6 @@ dieses Informationsblatt anzugeben. Wird ein Rundfunkkommentar nach §
 abgedruckt oder durch Funk gesendet, so ist stets außer dem Urheber
 auch das Sendeunternehmen anzugeben, das den Kommentar gesendet hat.
 
-
 #### § 63a Gesetzliche Vergütungsansprüche
 
 Auf gesetzliche Vergütungsansprüche nach diesem Abschnitt kann der
@@ -1911,15 +1786,11 @@ Verlagsrechts dem Verleger abgetreten werden, wenn dieser sie durch
 eine Verwertungsgesellschaft wahrnehmen lässt, die Rechte von
 Verlegern und Urhebern gemeinsam wahrnimmt.
 
-
 ### Abschnitt 7 - Dauer des Urheberrechts
-
-
 
 #### § 64 Allgemeines
 
 Das Urheberrecht erlischt siebzig Jahre nach dem Tode des Urhebers.
-
 
 #### § 65 Miturheber, Filmwerke
 
@@ -1931,7 +1802,6 @@ werden, erlischt das Urheberrecht siebzig Jahre nach dem Tod des
 Längstlebenden der folgenden Personen: Hauptregisseur, Urheber des
 Drehbuchs, Urheber der Dialoge, Komponist der für das betreffende
 Filmwerk komponierten Musik.
-
 
 #### § 66 Anonyme und pseudonyme Werke
 
@@ -1952,7 +1822,6 @@ Urhebers zur Eintragung in das Register anonymer und pseudonymer Werke
 sein Rechtsnachfolger (§ 30) oder der Testamentsvollstrecker (§ 28
 Abs. 2) berechtigt.
 
-
 #### § 67 Lieferungswerke
 
 Bei Werken, die in inhaltlich nicht abgeschlossenen Teilen
@@ -1960,11 +1829,9 @@ Bei Werken, die in inhaltlich nicht abgeschlossenen Teilen
 Abs. 1 Satz 1 die Schutzfrist einer jeden Lieferung gesondert ab dem
 Zeitpunkt ihrer Veröffentlichung.
 
-
 #### § 68 (weggefallen)
 
 -
-
 
 #### § 69 Berechnung der Fristen
 
@@ -1972,10 +1839,7 @@ Die Fristen dieses Abschnitts beginnen mit dem Ablauf des
 Kalenderjahres, in dem das für den Beginn der Frist maßgebende
 Ereignis eingetreten ist.
 
-
 ### Abschnitt 8 - Besondere Bestimmungen für Computerprogramme
-
-
 
 #### § 69a Gegenstand des Schutzes
 
@@ -2001,7 +1865,6 @@ bestimmt ist.
 (5) Die Vorschriften der §§ 95a bis 95d finden auf Computerprogramme
 keine Anwendung.
 
-
 #### § 69b Urheber in Arbeits- und Dienstverhältnissen
 
 (1) Wird ein Computerprogramm von einem Arbeitnehmer in Wahrnehmung
@@ -2011,7 +1874,6 @@ vermögensrechtlichen Befugnisse an dem Computerprogramm berechtigt,
 sofern nichts anderes vereinbart ist.
 
 (2) Absatz 1 ist auf Dienstverhältnisse entsprechend anzuwenden.
-
 
 #### § 69c Zustimmungsbedürftige Handlungen
 
@@ -2046,10 +1908,6 @@ vorzunehmen oder zu gestatten:
     der Weise, dass es Mitgliedern der Öffentlichkeit von Orten und zu
     Zeiten ihrer Wahl zugänglich ist.
 
-
-
-
-
 #### § 69d Ausnahmen von den zustimmungsbedürftigen Handlungen
 
 (1) Soweit keine besonderen vertraglichen Bestimmungen vorliegen,
@@ -2070,7 +1928,6 @@ dieses Programms beobachten, untersuchen oder testen, um die einem
 Programmelement zugrundeliegenden Ideen und Grundsätze zu ermitteln,
 wenn dies durch Handlungen zum Laden, Anzeigen, Ablaufen, Übertragen
 oder Speichern des Programms geschieht, zu denen er berechtigt ist.
-
 
 #### § 69e Dekompilierung
 
@@ -2119,7 +1976,6 @@ sofern folgende Bedingungen erfüllt sind:
 die normale Auswertung des Werkes beeinträchtigt noch die berechtigten
 Interessen des Rechtsinhabers unzumutbar verletzt.
 
-
 #### § 69f Rechtsverletzungen
 
 (1) Der Rechtsinhaber kann von dem Eigentümer oder Besitzer verlangen,
@@ -2130,7 +1986,6 @@ vernichtet werden. § 98 Abs. 3 und 4 ist entsprechend anzuwenden.
 (2) Absatz 1 ist entsprechend auf Mittel anzuwenden, die allein dazu
 bestimmt sind, die unerlaubte Beseitigung oder Umgehung technischer
 Programmschutzmechanismen zu erleichtern.
-
 
 #### § 69g Anwendung sonstiger Rechtsvorschriften, Vertragsrecht
 
@@ -2144,14 +1999,9 @@ Vereinbarungen unberührt.
 (2) Vertragliche Bestimmungen, die in Widerspruch zu § 69d Abs. 2 und
 3 und § 69e stehen, sind nichtig.
 
-
 ## Teil 2 - Verwandte Schutzrechte
 
-
-
 ### Abschnitt 1 - Schutz bestimmter Ausgaben
-
-
 
 #### § 70 Wissenschaftliche Ausgaben
 
@@ -2167,7 +2017,6 @@ Werke oder Texte unterscheiden.
 Ausgabe, jedoch bereits fünfundzwanzig Jahre nach der Herstellung,
 wenn die Ausgabe innerhalb dieser Frist nicht erschienen ist. Die
 Frist ist nach § 69 zu berechnen.
-
 
 #### § 71 Nachgelassene Werke
 
@@ -2185,10 +2034,7 @@ länger als siebzig Jahre tot ist. Die §§ 5 und 10 Abs. 1 sowie die §§
 Werkes oder, wenn seine erste öffentliche Wiedergabe früher erfolgt
 ist, nach dieser. Die Frist ist nach § 69 zu berechnen.
 
-
 ### Abschnitt 2 - Schutz der Lichtbilder
-
-
 
 #### § 72 Lichtbilder
 
@@ -2205,10 +2051,7 @@ Herstellung, wenn das Lichtbild innerhalb dieser Frist nicht
 erschienen oder erlaubterweise öffentlich wiedergegeben worden ist.
 Die Frist ist nach § 69 zu berechnen.
 
-
 ### Abschnitt 3 - Schutz des ausübenden Künstlers
-
-
 
 #### § 73 Ausübender Künstler
 
@@ -2216,7 +2059,6 @@ Ausübender Künstler im Sinne dieses Gesetzes ist, wer ein Werk oder
 eine Ausdrucksform der Volkskunst aufführt, singt, spielt oder auf
 eine andere Weise darbietet oder an einer solchen Darbietung
 künstlerisch mitwirkt.
-
 
 #### § 74 Anerkennung als ausübender Künstler
 
@@ -2237,7 +2079,6 @@ Nennung bleibt bei einem besonderen Interesse unberührt.
 
 (3) § 10 Abs. 1 gilt entsprechend.
 
-
 #### § 75 Beeinträchtigungen der Darbietung
 
 Der ausübende Künstler hat das Recht, eine Entstellung oder eine
@@ -2246,7 +2087,6 @@ ist, sein Ansehen oder seinen Ruf als ausübender Künstler zu
 gefährden. Haben mehrere ausübende Künstler gemeinsam eine Darbietung
 erbracht, so haben sie bei der Ausübung des Rechts aufeinander
 angemessene Rücksicht zu nehmen.
-
 
 #### § 76 Dauer der Persönlichkeitsrechte
 
@@ -2260,7 +2100,6 @@ letzten der beteiligten ausübenden Künstler maßgeblich. Nach dem Tod
 des ausübenden Künstlers stehen die Rechte seinen Angehörigen (§ 60
 Abs. 2) zu.
 
-
 #### § 77 Aufnahme, Vervielfältigung und Verbreitung
 
 (1) Der ausübende Künstler hat das ausschließliche Recht, seine
@@ -2269,7 +2108,6 @@ Darbietung auf Bild- oder Tonträger aufzunehmen.
 (2) Der ausübende Künstler hat das ausschließliche Recht, den Bild-
 oder Tonträger, auf den seine Darbietung aufgenommen worden ist, zu
 vervielfältigen und zu verbreiten. § 27 ist entsprechend anzuwenden.
-
 
 #### § 78 Öffentliche Wiedergabe
 
@@ -2313,7 +2151,6 @@ Verwertungsgesellschaft abgetreten werden.
 
 (4) § 20b gilt entsprechend.
 
-
 #### § 79 Nutzungsrechte
 
 (1) Der ausübende Künstler kann seine Rechte und Ansprüche aus den §§
@@ -2323,7 +2160,6 @@ Verwertungsgesellschaft abgetreten werden.
 Darbietung auf einzelne oder alle der ihm vorbehaltenen Nutzungsarten
 zu nutzen. Die §§ 31, 32 bis 32b, 33 bis 42 und 43 sind entsprechend
 anzuwenden.
-
 
 #### § 80 Gemeinsame Darbietung mehrerer ausübender Künstler
 
@@ -2337,7 +2173,6 @@ entsprechend anzuwenden.
 (2) Für die Geltendmachung der sich aus den §§ 77 und 78 ergebenden
 Rechte und Ansprüche gilt § 74 Abs. 2 Satz 2 und 3 entsprechend.
 
-
 #### § 81 Schutz des Veranstalters
 
 Wird die Darbietung des ausübenden Künstlers von einem Unternehmen
@@ -2345,7 +2180,6 @@ veranstaltet, so stehen die Rechte nach § 77 Abs. 1 und 2 Satz 1 sowie
 § 78 Abs. 1 neben dem ausübenden Künstler auch dem Inhaber des
 Unternehmens zu. § 10 Abs. 1, § 31 sowie die §§ 33 und 38 gelten
 entsprechend.
-
 
 #### § 82 Dauer der Verwertungsrechte
 
@@ -2361,22 +2195,17 @@ Tonträger innerhalb dieser Frist nicht erschienen oder erlaubterweise
 zur öffentlichen Wiedergabe benutzt worden ist. Die Frist nach Satz 1
 oder 2 ist nach § 69 zu berechnen.
 
-
 #### § 83 Schranken der Verwertungsrechte
 
 Auf die dem ausübenden Künstler nach den §§ 77 und 78 sowie die dem
 Veranstalter nach § 81 zustehenden Rechte sind die Vorschriften des
 Abschnitts 6 des Teils 1 entsprechend anzuwenden.
 
-
 #### § 84 (weggefallen)
 
 -
 
-
 ### Abschnitt 4 - Schutz des Herstellers von Tonträgern
-
-
 
 #### § 85 Verwertungsrechte
 
@@ -2403,7 +2232,6 @@ berechnen.
 (4) § 10 Abs. 1 und § 27 Abs. 2 und 3 sowie die Vorschriften des Teils
 1 Abschnitt 6 gelten entsprechend.
 
-
 #### § 86 Anspruch auf Beteiligung
 
 Wird ein erschienener oder erlaubterweise öffentlich zugänglich
@@ -2413,10 +2241,7 @@ so hat der Hersteller des Tonträgers gegen den ausübenden Künstler
 einen Anspruch auf angemessene Beteiligung an der Vergütung, die
 dieser nach § 78 Abs. 2 erhält.
 
-
 ### Abschnitt 5 - Schutz des Sendeunternehmens
-
-
 
 #### § 87 Sendeunternehmen
 
@@ -2463,10 +2288,7 @@ Verwertungsgesellschaften zu schließen, sofern nicht ein die Ablehnung
 eines gemeinsamen Vertragsschlusses sachlich rechtfertigender Grund
 besteht.
 
-
 ### Abschnitt 6 - Schutz des Datenbankherstellers
-
-
 
 #### § 87a Begriffsbestimmungen
 
@@ -2481,7 +2303,6 @@ nach Art oder Umfang wesentliche Investition erfordert.
 
 (2) Datenbankhersteller im Sinne dieses Gesetzes ist derjenige, der
 die Investition im Sinne des Absatzes 1 vorgenommen hat.
-
 
 #### § 87b Rechte des Datenbankherstellers
 
@@ -2498,7 +2319,6 @@ Interessen des Datenbankherstellers unzumutbar beeinträchtigen.
 
 (2) § 10 Abs. 1, § 17 Abs. 2 und § 27 Abs. 2 und 3 gelten
 entsprechend.
-
 
 #### § 87c Schranken des Rechts des Datenbankherstellers
 
@@ -2526,14 +2346,12 @@ nach Art oder Umfang wesentlichen Teils einer Datenbank ist zulässig
 zur Verwendung in Verfahren vor einem Gericht, einem Schiedsgericht
 oder einer Behörde sowie für Zwecke der öffentlichen Sicherheit.
 
-
 #### § 87d Dauer der Rechte
 
 Die Rechte des Datenbankherstellers erlöschen fünfzehn Jahre nach der
 Veröffentlichung der Datenbank, jedoch bereits fünfzehn Jahre nach der
 Herstellung, wenn die Datenbank innerhalb dieser Frist nicht
 veröffentlicht worden ist. Die Frist ist nach § 69 zu berechnen.
-
 
 #### § 87e Verträge über die Benutzung einer Datenbank
 
@@ -2550,14 +2368,9 @@ insoweit unwirksam, als diese Handlungen weder einer normalen
 Auswertung der Datenbank zuwiderlaufen noch die berechtigten
 Interessen des Datenbankherstellers unzumutbar beeinträchtigen.
 
-
 ## Teil 3 - Besondere Bestimmungen für Filme
 
-
-
 ### Abschnitt 1 - Filmwerke
-
-
 
 #### § 88 Recht zur Verfilmung
 
@@ -2575,7 +2388,6 @@ berechtigt, sein Werk nach Ablauf von zehn Jahren nach
 Vertragsabschluß anderweit filmisch zu verwerten.
 
 (3) (weggefallen)
-
 
 #### § 89 Rechte am Filmwerk
 
@@ -2599,7 +2411,6 @@ Werken, wie Roman, Drehbuch und Filmmusik, bleiben unberührt.
 eines Filmwerkes entstehenden Lichtbilder und Lichtbildwerke gelten
 die Absätze 1 und 2 entsprechend.
 
-
 #### § 90 Einschränkung der Rechte
 
 Die Bestimmungen über die Übertragung von Nutzungsrechten (§ 34) und
@@ -2609,11 +2420,9 @@ Rückrufrecht wegen Nichtausübung (§ 41) und wegen gewandelter
 bezeichneten Rechte. Satz 1 findet bis zum Beginn der Dreharbeiten für
 das Recht zur Verfilmung keine Anwendung.
 
-
 #### § 91 (weggefallen)
 
 -
-
 
 #### § 92 Ausübende Künstler
 
@@ -2632,7 +2441,6 @@ oder einzuräumen.
 
 (3) § 90 gilt entsprechend.
 
-
 #### § 93 Schutz gegen Entstellung; Namensnennung
 
 (1) Die Urheber des Filmwerkes und der zu seiner Herstellung benutzten
@@ -2647,7 +2455,6 @@ den Filmhersteller angemessene Rücksicht zu nehmen.
 (2) Die Nennung jedes einzelnen an einem Film mitwirkenden ausübenden
 Künstlers ist nicht erforderlich, wenn sie einen unverhältnismäßigen
 Aufwand bedeutet.
-
 
 #### § 94 Schutz des Filmherstellers
 
@@ -2675,10 +2482,7 @@ erlaubterweise zur öffentlichen Wiedergabe benutzt worden ist.
 Vorschriften des Abschnitts 6 des Teils 1 sind entsprechend
 anzuwenden.
 
-
 ### Abschnitt 2 - Laufbilder
-
-
 
 #### § 95 Laufbilder
 
@@ -2686,14 +2490,9 @@ Die §§ 88, 89 Abs. 4, 90, 93 und 94 sind auf Bildfolgen und Bild- und
 Tonfolgen, die nicht als Filmwerke geschützt sind, entsprechend
 anzuwenden.
 
-
 ## Teil 4 - Gemeinsame Bestimmungen für Urheberrecht und verwandte Schutzrechte
 
-
-
 ### Abschnitt 1 - Ergänzende Schutzbestimmungen
-
-
 
 #### § 95a Schutz technischer Maßnahmen
 
@@ -2742,7 +2541,6 @@ von Dienstleistungen, die
 (4) Von den Verboten der Absätze 1 und 3 unberührt bleiben Aufgaben
 und Befugnisse öffentlicher Stellen zum Zwecke des Schutzes der
 öffentlichen Sicherheit oder der Strafrechtspflege.
-
 
 #### § 95b Durchsetzung von Schrankenbestimmungen
 
@@ -2818,7 +2616,6 @@ technische Maßnahmen, einschließlich der zur Umsetzung freiwilliger
 Vereinbarungen angewandten Maßnahmen, genießen Rechtsschutz nach §
 95a.
 
-
 #### § 95c Schutz der zur Rechtewahrnehmung erforderlichen Informationen
 
 (1) Von Rechtsinhabern stammende Informationen für die
@@ -2849,7 +2646,6 @@ bekannt sein muss, dass er dadurch die Verletzung von Urheberrechten
 oder verwandter Schutzrechte veranlasst, ermöglicht, erleichtert oder
 verschleiert.
 
-
 #### § 95d Kennzeichnungspflichten
 
 (1) Werke und andere Schutzgegenstände, die mit technischen Maßnahmen
@@ -2862,7 +2658,6 @@ nach § 95b Abs. 2 mit seinem Namen oder seiner Firma und der
 zustellungsfähigen Anschrift zu kennzeichnen. Satz 1 findet in den
 Fällen des § 95b Abs. 3 keine Anwendung.
 
-
 #### § 96 Verwertungsverbot
 
 (1) Rechtswidrig hergestellte Vervielfältigungsstücke dürfen weder
@@ -2871,14 +2666,9 @@ verbreitet noch zu öffentlichen Wiedergaben benutzt werden.
 (2) Rechtswidrig veranstaltete Funksendungen dürfen nicht auf Bild-
 oder Tonträger aufgenommen oder öffentlich wiedergegeben werden.
 
-
 ### Abschnitt 2 - Rechtsverletzungen
 
-
-
 #### Unterabschnitt 1 - Bürgerlich-rechtliche Vorschriften; Rechtsweg
-
-
 
 ##### § 97 Anspruch auf Unterlassung und Schadensersatz
 
@@ -2902,7 +2692,6 @@ Künstler (§ 73) können auch wegen des Schadens, der nicht
 Vermögensschaden ist, eine Entschädigung in Geld verlangen, wenn und
 soweit dies der Billigkeit entspricht.
 
-
 ##### § 97a Abmahnung
 
 (1) Der Verletzte soll den Verletzer vor Einleitung eines
@@ -2916,7 +2705,6 @@ Aufwendungen verlangt werden.
 anwaltlicher Dienstleistungen für die erstmalige Abmahnung beschränkt
 sich in einfach gelagerten Fällen mit einer nur unerheblichen
 Rechtsverletzung außerhalb des geschäftlichen Verkehrs auf 100 Euro.
-
 
 ##### § 98 Anspruch auf Vernichtung, Rückruf und Überlassung
 
@@ -2951,14 +2739,12 @@ und Vorrichtungen, deren Herstellung und Verbreitung nicht
 rechtswidrig ist, unterliegen nicht den in den Absätzen 1 bis 3
 vorgesehenen Maßnahmen.
 
-
 ##### § 99 Haftung des Inhabers eines Unternehmens
 
 Ist in einem Unternehmen von einem Arbeitnehmer oder Beauftragten ein
 nach diesem Gesetz geschütztes Recht widerrechtlich verletzt worden,
 hat der Verletzte die Ansprüche aus § 97 Abs. 1 und § 98 auch gegen
 den Inhaber des Unternehmens.
-
 
 ##### § 100 Entschädigung
 
@@ -2971,7 +2757,6 @@ zu zahlen, der im Fall einer vertraglichen Einräumung des Rechts als
 Vergütung angemessen wäre. Mit der Zahlung der Entschädigung gilt die
 Einwilligung des Verletzten zur Verwertung im üblichen Umfang als
 erteilt.
-
 
 ##### § 101 Anspruch auf Auskunft
 
@@ -3070,7 +2855,6 @@ Schutz personenbezogener Daten bleiben im Übrigen unberührt.
 (10) Durch Absatz 2 in Verbindung mit Absatz 9 wird das Grundrecht des
 Fernmeldegeheimnisses (Artikel 10 des Grundgesetzes) eingeschränkt.
 
-
 ##### § 101a Anspruch auf Vorlage und Besichtigung
 
 (1) Wer mit hinreichender Wahrscheinlichkeit das Urheberrecht oder ein
@@ -3105,7 +2889,6 @@ Verletzer von demjenigen, der die Vorlage oder Besichtigung nach
 Absatz 1 begehrt hat, den Ersatz des ihm durch das Begehren
 entstandenen Schadens verlangen.
 
-
 ##### § 101b Sicherung von Schadensersatzansprüchen
 
 (1) Der Verletzte kann den Verletzer bei einer in gewerblichem Ausmaß
@@ -3134,7 +2917,6 @@ wird.
 (4) § 811 des Bürgerlichen Gesetzbuchs sowie § 101 Abs. 8 gelten
 entsprechend.
 
-
 ##### § 102 Verjährung
 
 Auf die Verjährung der Ansprüche wegen Verletzung des Urheberrechts
@@ -3144,11 +2926,9 @@ Gesetzbuchs entsprechende Anwendung. Hat der Verpflichtete durch die
 Verletzung auf Kosten des Berechtigten etwas erlangt, findet § 852 des
 Bürgerlichen Gesetzbuchs entsprechende Anwendung.
 
-
 ##### § 102a Ansprüche aus anderen gesetzlichen Vorschriften
 
 Ansprüche aus anderen gesetzlichen Vorschriften bleiben unberührt.
-
 
 ##### § 103 Bekanntmachung des Urteils
 
@@ -3162,7 +2942,6 @@ Rechtskraft des Urteils Gebrauch gemacht wird. Das Urteil darf erst
 nach Rechtskraft bekannt gemacht werden, wenn nicht das Gericht etwas
 anderes bestimmt.
 
-
 ##### § 104 Rechtsweg
 
 Für alle Rechtsstreitigkeiten, durch die ein Anspruch aus einem der in
@@ -3172,7 +2951,6 @@ Urheberrechtsstreitsachen aus Arbeits- oder Dienstverhältnissen, die
 ausschließlich Ansprüche auf Leistung einer vereinbarten Vergütung zum
 Gegenstand haben, bleiben der Rechtsweg zu den Gerichten für
 Arbeitssachen und der Verwaltungsrechtsweg unberührt.
-
 
 ##### § 105 Gerichte für Urheberrechtsstreitsachen
 
@@ -3192,10 +2970,7 @@ von ihnen zuzuweisen, wenn dies der Rechtspflege dienlich ist.
 
 (4) u. (5) (weggefallen)
 
-
 #### Unterabschnitt 2 - Straf- und Bußgeldvorschriften
-
-
 
 ##### § 106 Unerlaubte Verwertung urheberrechtlich geschützter Werke
 
@@ -3206,7 +2981,6 @@ wiedergibt, wird mit Freiheitsstrafe bis zu drei Jahren oder mit
 Geldstrafe bestraft.
 
 (2) Der Versuch ist strafbar.
-
 
 ##### § 107 Unzulässiges Anbringen der Urheberbezeichnung
 
@@ -3231,7 +3005,6 @@ bestraft, wenn die Tat nicht in anderen Vorschriften mit schwererer
 Strafe bedroht ist.
 
 (2) Der Versuch ist strafbar.
-
 
 ##### § 108 Unerlaubte Eingriffe in verwandte Schutzrechte
 
@@ -3274,14 +3047,12 @@ bestraft.
 
 (2) Der Versuch ist strafbar.
 
-
 ##### § 108a Gewerbsmäßige unerlaubte Verwertung
 
 (1) Handelt der Täter in den Fällen der §§ 106 bis 108 gewerbsmäßig,
 so ist die Strafe Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe.
 
 (2) Der Versuch ist strafbar.
-
 
 ##### § 108b Unerlaubte Eingriffe in technische Schutzmaßnahmen und zur Rechtewahrnehmung erforderliche Informationen
 
@@ -3330,14 +3101,12 @@ herstellt, einführt, verbreitet, verkauft oder vermietet.
 (3) Handelt der Täter in den Fällen des Absatzes 1 gewerbsmäßig, so
 ist die Strafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.
 
-
 ##### § 109 Strafantrag
 
 In den Fällen der §§ 106 bis 108 und des § 108b wird die Tat nur auf
 Antrag verfolgt, es sei denn, daß die Strafverfolgungsbehörde wegen
 des besonderen öffentlichen Interesses an der Strafverfolgung ein
 Einschreiten von Amts wegen für geboten hält.
-
 
 ##### § 110 Einziehung
 
@@ -3348,7 +3117,6 @@ Ansprüchen im Verfahren nach den Vorschriften der Strafprozeßordnung
 über die Entschädigung des Verletzten (§§ 403 bis 406c) stattgegeben
 wird, sind die Vorschriften über die Einziehung nicht anzuwenden.
 
-
 ##### § 111 Bekanntgabe der Verurteilung
 
 Wird in den Fällen der §§ 106 bis 108b auf Strafe erkannt, so ist,
@@ -3356,7 +3124,6 @@ wenn der Verletzte es beantragt und ein berechtigtes Interesse daran
 dartut, anzuordnen, daß die Verurteilung auf Verlangen öffentlich
 bekanntgemacht wird. Die Art der Bekanntmachung ist im Urteil zu
 bestimmen.
-
 
 ##### § 111a Bußgeldvorschriften
 
@@ -3391,10 +3158,7 @@ bestimmen.
 2 mit einer Geldbuße bis zu fünfzigtausend Euro und in den übrigen
 Fällen mit einer Geldbuße bis zu zehntausend Euro geahndet werden.
 
-
 #### Unterabschnitt 3 - Vorschriften über Maßnahmen der Zollbehörde
-
-
 
 ##### § 111b Verfahren nach deutschem Recht
 
@@ -3476,7 +3240,6 @@ zulässig; über sie entscheidet das Oberlandesgericht.
 
 (8) (weggefallen)
 
-
 ##### § 111c Verfahren nach der Verordnung (EG) Nr. 1383/2003
 
 (1) Setzt die zuständige Zollbehörde nach Artikel 9 der Verordnung
@@ -3519,14 +3282,9 @@ Spiegelstrich der Verordnung (EG) Nr. 1383/2003 beträgt ein Jahr.
 (8) Im Übrigen gilt § 111b entsprechend, soweit nicht die Verordnung
 (EG) Nr. 1383/2003 Bestimmungen enthält, die dem entgegenstehen.
 
-
 ### Abschnitt 3 - Zwangsvollstreckung
 
-
-
 #### Unterabschnitt 1 - Allgemeines
-
-
 
 ##### § 112 Allgemeines
 
@@ -3534,10 +3292,7 @@ Die Zulässigkeit der Zwangsvollstreckung in ein nach diesem Gesetz
 geschütztes Recht richtet sich nach den allgemeinen Vorschriften,
 soweit sich aus den §§ 113 bis 119 nichts anderes ergibt.
 
-
 #### Unterabschnitt 2 - Zwangsvollstreckung wegen Geldforderungen gegen den Urheber
-
-
 
 ##### § 113 Urheberrecht
 
@@ -3546,7 +3301,6 @@ das Urheberrecht nur mit seiner Einwilligung und nur insoweit
 zulässig, als er Nutzungsrechte einräumen kann (§ 31). Die
 Einwilligung kann nicht durch den gesetzlichen Vertreter erteilt
 werden.
-
 
 ##### § 114 Originale von Werken
 
@@ -3573,10 +3327,7 @@ gesetzlichen Vertreter erteilt werden.
 In den Fällen der Nummern 2 und 3 darf das Original des Werkes ohne
 Zustimmung des Urhebers verbreitet werden.
 
-
 #### Unterabschnitt 3 - Zwangsvollstreckung wegen Geldforderungen gegen den Rechtsnachfolger des Urhebers
-
-
 
 ##### § 115 Urheberrecht
 
@@ -3585,7 +3336,6 @@ Zwangsvollstreckung wegen Geldforderungen in das Urheberrecht nur mit
 seiner Einwilligung und nur insoweit zulässig, als er Nutzungsrechte
 einräumen kann (§ 31). Der Einwilligung bedarf es nicht, wenn das Werk
 erschienen ist.
-
 
 ##### § 116 Originale von Werken
 
@@ -3606,7 +3356,6 @@ zulässig.
 
 § 114 Abs. 2 Satz 2 gilt entsprechend.
 
-
 ##### § 117 Testamentsvollstrecker
 
 Ist nach § 28 Abs. 2 angeordnet, daß das Urheberrecht durch einen
@@ -3614,10 +3363,7 @@ Testamentsvollstrecker ausgeübt wird, so ist die nach den §§ 115 und
 116 erforderliche Einwilligung durch den Testamentsvollstrecker zu
 erteilen.
 
-
 #### Unterabschnitt 4 - Zwangsvollstreckung wegen Geldforderungen gegen den Verfasser wissenschaftlicher Ausgaben und gegen den Lichtbildner
-
-
 
 ##### § 118 Entsprechende Anwendung
 
@@ -3630,13 +3376,7 @@ Die §§ 113 bis 117 sind sinngemäß anzuwenden
 2.  auf die Zwangsvollstreckung wegen Geldforderungen gegen den
     Lichtbildner (§ 72) und seinen Rechtsnachfolger.
 
-
-
-
-
 #### Unterabschnitt 5 - Zwangsvollstreckung wegen Geldforderungen in bestimmte Vorrichtungen
-
-
 
 ##### § 119 Zwangsvollstreckung in bestimmte Vorrichtungen
 
@@ -3655,18 +3395,11 @@ Ausgaben, die nach § 72 geschützten Lichtbilder, die nach § 77 Abs. 2
 Satz 1, §§ 85, 87, 94 und 95 geschützten Bild- und Tonträger und die
 nach § 87b Abs. 1 geschützten Datenbanken entsprechend anzuwenden.
 
-
 ## Teil 5 - Anwendungsbereich, Übergangs- und Schlussbestimmungen
-
-
 
 ### Abschnitt 1 - Anwendungsbereich des Gesetzes
 
-
-
 #### Unterabschnitt 1 - Urheberrecht
-
-
 
 ##### § 120 Deutsche Staatsangehörige und Staatsangehörige anderer EU-Staaten und EWR-Staaten
 
@@ -3684,10 +3417,6 @@ Miturheber deutscher Staatsangehöriger ist.
 2.  Staatsangehörige eines anderen Mitgliedstaates der Europäischen Union
     oder eines anderen Vertragsstaates des Abkommens über den Europäischen
     Wirtschaftsraum.
-
-
-
-
 
 ##### § 121 Ausländische Staatsangehörige
 
@@ -3731,7 +3460,6 @@ Staatsangehörigen ein entsprechendes Recht gewährt.
 Staatsangehörige für alle ihre Werke, auch wenn die Voraussetzungen
 der Absätze 1 bis 5 nicht vorliegen.
 
-
 ##### § 122 Staatenlose
 
 (1) Staatenlose mit gewöhnlichem Aufenthalt im Geltungsbereich dieses
@@ -3743,7 +3471,6 @@ Gesetzes genießen für ihre Werke den gleichen urheberrechtlichen
 Schutz wie die Angehörigen des ausländischen Staates, in dem sie ihren
 gewöhnlichen Aufenthalt haben.
 
-
 ##### § 123 Ausländische Flüchtlinge
 
 Für Ausländer, die Flüchtlinge im Sinne von Staatsverträgen oder
@@ -3751,16 +3478,12 @@ anderen Rechtsvorschriften sind, gelten die Bestimmungen des § 122
 entsprechend. Hierdurch wird ein Schutz nach § 121 nicht
 ausgeschlossen.
 
-
 #### Unterabschnitt 2 - Verwandte Schutzrechte
-
-
 
 ##### § 124 Wissenschaftliche Ausgaben und Lichtbilder
 
 Für den Schutz wissenschaftlicher Ausgaben (§ 70) und den Schutz von
 Lichtbildern (§ 72) sind die §§ 120 bis 123 sinngemäß anzuwenden.
-
 
 ##### § 125 Schutz des ausübenden Künstlers
 
@@ -3803,7 +3526,6 @@ er spätestens mit dem Ablauf der Schutzdauer in dem Staat, dessen
 Staatsangehöriger der ausübende Künstler ist, ohne die Schutzfrist
 nach § 82 zu überschreiten.
 
-
 ##### § 126 Schutz des Herstellers von Tonträgern
 
 (1) Den nach den §§ 85 und 86 gewährten Schutz genießen deutsche
@@ -3830,7 +3552,6 @@ ohne Sitz im Geltungsbereich dieses Gesetzes den Schutz nach Inhalt
 der Staatsverträge. § 121 Abs. 4 Satz 2 sowie die §§ 122 und 123
 gelten entsprechend.
 
-
 ##### § 127 Schutz des Sendeunternehmens
 
 (1) Den nach § 87 gewährten Schutz genießen Sendeunternehmen mit Sitz
@@ -3847,7 +3568,6 @@ seinen Sitz hat, ohne die Schutzfrist nach § 87 Abs. 3 zu
 (3) Im übrigen genießen Sendeunternehmen ohne Sitz im Geltungsbereich
 dieses Gesetzes den Schutz nach Inhalt der Staatsverträge. § 121 Abs.
 4 Satz 2 gilt entsprechend.
-
 
 ##### § 127a Schutz des Datenbankherstellers
 
@@ -3877,7 +3597,6 @@ sowie von Vereinbarungen, die die Europäische Gemeinschaft mit dritten
 Staaten schließt; diese Vereinbarungen werden vom Bundesministerium
 der Justiz im Bundesgesetzblatt bekanntgemacht.
 
-
 ##### § 128 Schutz des Filmherstellers
 
 (1) Den nach den §§ 94 und 95 gewährten Schutz genießen deutsche
@@ -3890,10 +3609,7 @@ Abs. 1 Satz 3 sind anzuwenden.
 Geltungsbereich dieses Gesetzes gelten die Bestimmungen in § 126 Abs.
 2 und 3 entsprechend.
 
-
 ### Abschnitt 2 - Übergangsbestimmungen
-
-
 
 #### § 129 Werke
 
@@ -3908,13 +3624,11 @@ fünfzig Jahren nach dem Tode des Urhebers, aber vor dem Inkrafttreten
 dieses Gesetzes veröffentlicht worden ist, richtet sich nach den
 bisherigen Vorschriften.
 
-
 #### § 130 Übersetzungen
 
 Unberührt bleiben die Rechte des Urhebers einer Übersetzung, die vor
 dem 1. Januar 1902 erlaubterweise ohne Zustimmung des Urhebers des
 übersetzten Werkes erschienen ist.
-
 
 #### § 131 Vertonte Sprachwerke
 
@@ -3928,7 +3642,6 @@ wiedergegeben werden durften, dürfen auch weiterhin in gleichem Umfang
 vervielfältigt, verbreitet und öffentlich wiedergegeben werden, wenn
 die Vertonung des Werkes vor dem Inkrafttreten dieses Gesetzes
 erschienen ist.
-
 
 #### § 132 Verträge
 
@@ -3952,11 +3665,9 @@ oder der Erlaubnis nach dem 30. Juni 2002 Gebrauch gemacht wird.
 
 (4) Absatz 3 gilt für ausübende Künstler entsprechend.
 
-
 #### § 133 (weggefallen)
 
 -
-
 
 #### § 134 Urheber
 
@@ -3967,7 +3678,6 @@ Urheber. Ist nach den bisherigen Vorschriften eine juristische Person
 als Urheber eines Werkes anzusehen, so sind für die Berechnung der
 Dauer des Urheberrechts die bisherigen Vorschriften anzuwenden.
 
-
 #### § 135 Inhaber verwandter Schutzrechte
 
 Wer zur Zeit des Inkrafttretens dieses Gesetzes nach den bisherigen
@@ -3975,7 +3685,6 @@ Vorschriften als Urheber eines Lichtbildes oder der Übertragung eines
 Werkes auf Vorrichtungen zur mechanischen Wiedergabe für das Gehör
 anzusehen ist, ist Inhaber der entsprechenden verwandten Schutzrechte,
 die dieses Gesetz ihm gewährt.
-
 
 #### § 135a Berechnung der Schutzfrist
 
@@ -3986,7 +3695,6 @@ Ereignis vor dem Inkrafttreten dieses Gesetzes, so wird die Frist erst
 vom Inkrafttreten dieses Gesetzes an berechnet. Der Schutz erlischt
 jedoch spätestens mit Ablauf der Schutzdauer nach den bisherigen
 Vorschriften.
-
 
 #### § 136 Vervielfältigung und Verbreitung
 
@@ -4003,7 +3711,6 @@ Vorschriften frei zulässig war, nach diesem Gesetz eine angemessene
 Vergütung an den Berechtigten zu zahlen, so dürfen die in Absatz 2
 bezeichneten Vervielfältigungsstücke ohne Zahlung einer Vergütung
 verbreitet werden.
-
 
 #### § 137 Übertragung von Rechten
 
@@ -4038,7 +3745,6 @@ unbillig belasten würde.
 
 (5) Absatz 1 gilt für verwandte Schutzrechte entsprechend.
 
-
 #### § 137a Lichtbildwerke
 
 (1) Die Vorschriften dieses Gesetzes über die Dauer des Urheberrechts
@@ -4049,7 +3755,6 @@ sind auch auf Lichtbildwerke anzuwenden, deren Schutzfrist am 1. Juli
 eingeräumt oder übertragen worden, so erstreckt sich die Einräumung
 oder Übertragung im Zweifel nicht auf den Zeitraum, um den die Dauer
 des Urheberrechts an Lichtbildwerken verlängert worden ist.
-
 
 #### § 137b Bestimmte Ausgaben
 
@@ -4065,7 +3770,6 @@ oder Übertragung im Zweifel auch auf den Zeitraum, um den die Dauer
 des verwandten Schutzrechtes verlängert worden ist.
 
 (3) Die Bestimmungen in § 137 Abs. 3 und 4 gelten entsprechend.
-
 
 #### § 137c Ausübende Künstler
 
@@ -4087,7 +3791,6 @@ die Dauer des Schutzes verlängert worden ist.
 
 (3) Die Bestimmungen in § 137 Abs. 3 und 4 gelten entsprechend.
 
-
 #### § 137d Computerprogramme
 
 (1) Die Vorschriften des Abschnitts 8 des Teils 1 sind auch auf
@@ -4098,7 +3801,6 @@ Dritter vor dem 1. Januar 1993 zum Zweck der Vermietung erworben hat.
 
 (2) § 69g Abs. 2 ist auch auf Verträge anzuwenden, die vor dem 24.
 Juni 1993 abgeschlossen worden sind.
-
 
 #### § 137e Übergangsregelung bei Umsetzung der Richtlinie 92/100/EWG
 
@@ -4134,7 +3836,6 @@ Tonträger und in die Vervielfältigung eingewilligt, so gilt die
 Einwilligung auch als Übertragung des Verbreitungsrechts,
 einschließlich der Vermietung.
 
-
 #### § 137f Übergangsregelung bei Umsetzung der Richtlinie 93/98/EWG
 
 (1) Würde durch die Anwendung dieses Gesetzes in der ab dem 1. Juli
@@ -4169,7 +3870,6 @@ im Zweifel auch auf den Zeitraum, um den die Schutzdauer verlängert
 worden ist. Im Fall des Satzes 1 ist eine angemessene Vergütung zu
 zahlen.
 
-
 #### § 137g Übergangsregelung bei Umsetzung der Richtlinie 96/9/EG
 
 (1) § 23 Satz 2, § 53 Abs. 5, die §§ 55a und 63 Abs. 1 Satz 2 sind
@@ -4183,7 +3883,6 @@ diesen Fällen am 1. Januar 1998.
 
 (3) Die §§ 55a und 87e sind nicht auf Verträge anzuwenden, die vor dem
 1\. Januar 1998 abgeschlossen worden sind.
-
 
 #### § 137h Übergangsregelung bei Umsetzung der Richtlinie 93/83/EWG
 
@@ -4208,7 +3907,6 @@ ausschließlichen Rechte zugestimmt hat.
 Vertrag über die Einräumung des Kabelweitersenderechts nach dem 1.
 Juni 1998 geschlossen wurde.
 
-
 #### § 137i Übergangsregelung zum Gesetz zur Modernisierung des Schuldrechts
 
 Artikel 229 § 6 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche
@@ -4216,7 +3914,6 @@ findet mit der Maßgabe entsprechende Anwendung, dass § 26 Abs. 7, § 36
 Abs. 2 und § 102 in der bis zum 1. Januar 2002 geltenden Fassung den
 Vorschriften des Bürgerlichen Gesetzbuchs über die Verjährung in der
 bis zum 1. Januar 2002 geltenden Fassung gleichgestellt sind.
-
 
 #### § 137j Übergangsregelung aus Anlass der Umsetzung der Richtlinie 2001/29/EG
 
@@ -4238,11 +3935,9 @@ Schutzdauer nach § 85 Abs. 3, die Einräumung oder Übertragung im
 Zweifel auch auf diesen Zeitraum. Im Fall des Satzes 1 ist eine
 angemessene Vergütung zu zahlen.
 
-
 #### § 137k Übergangsregelung zur öffentlichen Zugänglichmachung für Unterricht und Forschung
 
 § 52a ist mit Ablauf des 31. Dezember 2014 nicht mehr anzuwenden.
-
 
 #### § 137l Übergangsregelung für neue Nutzungsarten
 
@@ -4285,10 +3980,7 @@ Vertragspartner das Nutzungsrecht einem Dritten übertragen, haftet der
 Dritte mit der Aufnahme der neuen Art der Werknutzung für die
 Vergütung. Die Haftung des anderen entfällt.
 
-
 ### Abschnitt 3 - Schlussbestimmungen
-
-
 
 #### § 138 Register anonymer und pseudonymer Werke
 
@@ -4340,26 +4032,21 @@ Urheberrecht an Werken der Literatur und der Tonkunst vom 19. Juni
 1901 beim Stadtrat in Leipzig vorgenommen worden sind, bleiben
 wirksam.
 
-
 #### § 139 Änderung der Strafprozessordnung
 
 -
-
 
 #### § 140 Änderung des Gesetzes über das am 6. September 1952 unterzeichnete Welturheberrechtsabkommen
 
 -
 
-
 #### § 141 Aufgehobene Vorschriften
 
 -
 
-
 #### § 142 (weggefallen)
 
 -
-
 
 #### § 143 Inkrafttreten
 
@@ -4367,7 +4054,6 @@ wirksam.
 Tage nach der Verkündung dieses Gesetzes in Kraft.
 
 (2) Im übrigen tritt dieses Gesetz am 1. Januar 1966 in Kraft.
-
 
 #### Anlage (weggefallen)
 

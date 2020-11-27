@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 2278
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 53 Abs. 3 in Verbindung mit Abs. 1 und 2 des
@@ -26,7 +24,6 @@ Landwirtschaft und das Bundesministerium für Wirtschaft und Arbeit
 nach Anhörung des Hauptausschusses des Bundesinstituts für
 Berufsbildung im Einvernehmen mit dem Bundesministerium für Bildung
 und Forschung:
-
 
 ## § 1 Ziel der Meisterprüfung und Bezeichnung des Abschlusses
 
@@ -79,7 +76,6 @@ zu reagieren sowie sachgerecht zu informieren und zu beraten:
 (2) Die erfolgreich abgelegte Prüfung führt zum anerkannten Abschluss
 Meister der Hauswirtschaft/Meisterin der Hauswirtschaft.
 
-
 ## § 2 Zulassungsvoraussetzungen
 
 (1) Zur Meisterprüfung ist zuzulassen, wer
@@ -106,7 +102,6 @@ Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche
 Handlungsfähigkeit) erworben hat, die die Zulassung zur Prüfung
 rechtfertigen.
 
-
 ## § 3 Gliederung der Meisterprüfung
 
 (1) Die Meisterprüfung umfasst die Teile
@@ -123,7 +118,6 @@ rechtfertigen.
 
 
 (2) Die Meisterprüfung ist gemäß den §§ 4 bis 6 durchzuführen.
-
 
 ## § 4 Prüfungsanforderungen im Teil "Hauswirtschaftliche Versorgungs- und Betreuungsleistungen"
 
@@ -208,7 +202,6 @@ einer ungenügenden Leistung in der schriftlichen Prüfung besteht diese
 Möglichkeit nicht. Die Ergänzungsprüfung soll je Prüfling nicht länger
 als 30 Minuten dauern.
 
-
 ## § 5 Prüfungsanforderungen im Teil "Betriebs- und Unternehmensführung"
 
 (1) Der Prüfling soll nachweisen, dass er wirtschaftliche, rechtliche
@@ -276,7 +269,6 @@ wenn diese für das Bestehen der Prüfung von Bedeutung ist. Im Falle
 einer ungenügenden Leistung in der schriftlichen Prüfung besteht diese
 Möglichkeit nicht. Die Ergänzungsprüfung soll je Prüfling nicht länger
 als 30 Minuten dauern.
-
 
 ## § 6 Prüfungsanforderungen im Teil "Berufsausbildung und Mitarbeiterführung"
 
@@ -492,7 +484,6 @@ Im Falle einer ungenügenden Gesamtleistung im schriftlichen Teil der
 Prüfung besteht diese Möglichkeit nicht. Die Ergänzungsprüfung soll je
 Prüfling nicht länger als 30 Minuten dauern.
 
-
 ## § 7 Anrechnung anderer Prüfungsleistungen
 
 (1) Auf Antrag kann die zuständige Stelle den Prüfling von der
@@ -517,7 +508,6 @@ Inhalt den in den §§ 2 und 3 der Ausbilder-Eignungsverordnung
 genannten Anforderungen entspricht, kann auf Antrag von der
 zuständigen Stelle von der Prüfung im Teil "Berufsausbildung und
 Mitarbeiterführung" befreit werden.
-
 
 ## § 8 Bewerten der Prüfungsleistungen und Bestehen der Meisterprüfung
 
@@ -546,7 +536,6 @@ bestanden, wenn in der gesamten Prüfung mindestens eine der Leistungen
 in den Prüfungen gemäß Absatz 1 mit "ungenügend" oder mehr als eine
 dieser Leistungen mit "mangelhaft" benotet worden ist.
 
-
 ## § 9 Wiederholung der Meisterprüfung
 
 (1) Eine Meisterprüfung, die nicht bestanden ist, kann zweimal
@@ -560,7 +549,6 @@ worden sind und er sich innerhalb von zwei Jahren, gerechnet vom Tage
 der Beendigung der nicht bestandenen Prüfung an, zur
 Wiederholungsprüfung anmeldet.
 
-
 ## § 10 Übergangsvorschrift
 
 (1) Die bei Inkrafttreten dieser Verordnung begonnenen
@@ -572,7 +560,6 @@ dieser Verordnung geltenden Vorschriften nicht bestanden haben und
 sich innerhalb von zwei Jahren ab dem Tag des Inkrafttretens dieser
 Verordnung zu einer Wiederholungsprüfung anmelden, können die
 Wiederholungsprüfung nach den bisherigen Vorschriften ablegen.
-
 
 ## § 11 Inkrafttreten, Außerkrafttreten
 

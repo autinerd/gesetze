@@ -20,14 +20,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 18 G v. 27.7.2001 I 1887
 
-
 ## Eingangsformel
 
 Auf Grund des Artikels 2 des Gesetzes über das deutsch-schweizerische
 Abkommen über die gegenseitige Anerkennung und Vollstreckung von
 gerichtlichen Entscheidungen und Schiedssprüchen vom 28. Juli 1930
 (Reichsgesetzbl. II S. 1065) wird hiermit verordnet:
-
 
 ## Art 1
 
@@ -40,7 +38,6 @@ in dessen Bezirk sich Vermögen des Verpflichteten befindet oder die
 Vollstreckungshandlung vorzunehmen ist. Das gleiche gilt für die
 gerichtlichen Entscheidungen der in Artikel 3 daselbst bezeichneten
 Art, soweit die Entscheidung der Vollstreckbarerklärung bedarf.
-
 
 ## Art 2
 
@@ -59,7 +56,6 @@ sind entsprechend anzuwenden.
 
 (5) (weggefallen)
 
-
 ## Art 3
 
 Hängt die Vollstreckung der Entscheidung oder des Vergleichs nach
@@ -77,7 +73,6 @@ sind, durch öffentliche oder öffentlich beglaubigte Urkunden zu
 führen. Kann ein solcher Nachweis nicht erbracht werden, so ist
 mündliche Verhandlung anzuordnen.
 
-
 ## Art 4
 
 Im Wege der Beschwerde kann der Verpflichtete auch Einwendungen gegen
@@ -89,23 +84,19 @@ hierdurch nicht gehindert, solche Einwendungen in dem in den §§ 767,
 732, 768 der Zivilprozeßordnung vorgesehenen Verfahren geltend zu
 machen.
 
-
 ## Art 5
 
 -
 
-
 ## Art 6
 
 -
-
 
 ## Art 7
 
 Die Verordnung tritt gleichzeitig mit dem deutsch-schweizerischen
 Abkommen über die gegenseitige Anerkennung und Vollstreckung von
 gerichtlichen Entscheidungen und Schiedssprüchen in Kraft.
-
 
 ## Schlußformel
 

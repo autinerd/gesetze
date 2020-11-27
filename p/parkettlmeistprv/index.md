@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1974, 2154
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 45 Nr. 1 und 2 der Handwerksordnung in der Fassung der
@@ -27,10 +25,7 @@ zuletzt geändert durch das Einführungsgesetz zum Strafgesetzbuch vom
 den Bundesministern für Arbeit und Sozialordnung und für Bildung und
 Wissenschaft verordnet:
 
-
 ## 1. Abschnitt - Berufsbild
-
-
 
 ### § 1 Berufsbild
 
@@ -130,13 +125,7 @@ Fertigkeiten zuzurechnen:
 
 19. Instandhalten der Werkzeuge, Geräte und Maschinen.
 
-
-
-
-
 ## 2. Abschnitt - Prüfungsanforderungen in den Teilen I und II der Meisterprüfung
-
-
 
 ### § 2 Gliederung, Dauer und Bestehen der praktischen Prüfung (Teil I)
 
@@ -152,7 +141,6 @@ acht Stunden dauern.
 (3) Mindestvoraussetzung für das Bestehen des Teils I sind jeweils
 ausreichende Leistungen in der Meisterprüfungsarbeit und in der
 Arbeitsprobe.
-
 
 ### § 3 Meisterprüfungsarbeit
 
@@ -198,10 +186,6 @@ Betracht:
 
 4.  die Nachkalkulation.
 
-
-
-
-
 ### § 4 Arbeitsprobe
 
 (1) Als Arbeitsprobe ist eine der folgenden Arbeiten auszuführen:
@@ -229,7 +213,6 @@ Betracht:
 (2) Im Rahmen der Arbeitsprobe sind die wichtigsten Fertigkeiten und
 Kenntnisse zu prüfen, die in der Meisterprüfungsarbeit nicht oder nur
 unzureichend nachgewiesen werden konnten.
-
 
 ### § 5 Prüfung der fachtheoretischen Kenntnisse (Teil II)
 
@@ -308,15 +291,11 @@ von Absatz 2 auf die mündliche Prüfung verzichtet werden.
 ausreichende Leistungen in jedem der in Absatz 1 Nr. 1, 2, 3 und 5
 genannten Prüfungsfächer.
 
-
 ## 3. Abschnitt - Übergangs- und Schlußvorschriften
-
-
 
 ### § 6
 
 -
-
 
 ### § 7 Sonstige Vorschriften
 
@@ -329,18 +308,15 @@ Meisterprüfung im Handwerk vom 12. Dezember 1972 (Bundesgesetzbl. I S.
 Vorschriften sind, soweit sie Gegenstände dieser Verordnung regeln,
 nicht mehr anzuwenden.
 
-
 ### § 8 Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit § 128 der
 Handwerksordnung auch im Land Berlin.
 
-
 ### § 9 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
-
 
 ### Schlußformel
 

@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1987, 2130
 
-
-
 ## (XXXX)
 
 Gemäß § 81 Abs. 1 des Bundesbeamtengesetzes setze ich für den Direktor

@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1964, 27
 
-
-
 ## Eingangsformel
 
 Auf Grund des Artikels 3 des Gesetzes vom 22. Juni 1954 über den
@@ -30,7 +28,6 @@ und Befreiungen an andere zwischenstaatliche Organisationen
 vom 3. Juni 1957 (Bundesgesetzbl. II S. 469) verordnet die
 Bundesregierung mit Zustimmung des Bundesrates:
 
-
 ## § 1
 
 Für die Gewährung von Vorrechten und Befreiungen an die Kommission für
@@ -39,7 +36,6 @@ Deutschland und den Vereinigten Staaten gilt das Abkommen vom 20.
 November 1962 über die Durchführung von Austauschvorhaben zum Zwecke
 der Aus- und Weiterbildung. Das Abkommen wird nachstehend
 veröffentlicht.
-
 
 ## § 2
 
@@ -51,7 +47,6 @@ Sonderorganisationen der Vereinten Nationen vom 21. November 1947 und
 über die Gewährung von Vorrechten und Befreiungen an andere
 zwischenstaatliche Organisationen in der Fassung des Änderungsgesetzes
 vom 3. Juni 1957 auch im Land Berlin.
-
 
 ## § 3
 

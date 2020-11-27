@@ -18,14 +18,11 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 Abs. 50 G v. 22.12.2011 I 3044
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 127a Abs. 5 des Aktiengesetzes, der durch Artikel 1
 Nr. 7 des Gesetzes vom 22. September 2005 (BGBl. I S. 2802) eingefügt
 worden ist, verordnet das Bundesministerium der Justiz:
-
 
 ## § 1 Einrichtung des Aktionärsforums
 
@@ -48,7 +45,6 @@ Aufforderungen und Hinweise auf Stellungnahmen nach § 127a des
 Aktiengesetzes (Eintragungen) nur über eine im Aktionärsforum zur
 Verfügung gestellte Formularmaske elektronisch eintragen können.
 Eintragungen sind in Deutsch oder Englisch abzufassen.
-
 
 ## § 2 Inhalt und Aufbau des Aktionärsforums
 
@@ -78,7 +74,6 @@ Fassung in englischer Sprache soll vorhanden sein.
 Allgemeinen Geschäftsbedingungen anbringen. Er kann zudem im
 Aktionärsforum eine zusätzliche Dienstleistung anbieten, mit der über
 veröffentlichte Eintragungen automatisiert unterrichtet wird.
-
 
 ## § 3 Registrierung, Aufforderungen des Aktionärs oder der Aktionärsvereinigung
 
@@ -166,7 +161,6 @@ Missbräuchliche Aufforderungen werden durch den Betreiber unverzüglich
 gelöscht. In Zweifelsfällen hat der Betreiber den Auffordernden vorher
 zu befragen.
 
-
 ## § 4 Hinweise auf Stellungnahmen der Gesellschaft
 
 (1) Gibt eine Gesellschaft zu einer sie betreffenden Aufforderung auf
@@ -178,7 +172,6 @@ veröffentlicht, auf die sich die Stellungnahme bezieht.
 
 (2) Im Übrigen gilt für die Gesellschaften § 3 Abs. 1, 4 und 5
 entsprechend.
-
 
 ## § 5 Verweis auf eine andere Internetseite
 
@@ -196,7 +189,6 @@ werden, dass sich diese unmittelbar durch Anklicken öffnet. Der
 Verweis auf eine elektronische Postadresse kann so beschaffen sein,
 dass sich das Programm für elektronische Post des Nutzers unmittelbar
 öffnet.
-
 
 ## § 6 Berichtigung, Löschung, Löschungsfrist
 
@@ -216,7 +208,6 @@ Eintragungsvorgang zu erteilen.
 (4) Eintragungen, für die das Entgelt nicht entrichtet wird, werden
 durch den Betreiber unverzüglich gelöscht.
 
-
 ## § 7 Einsichtnahme
 
 (1) Jedermann kann das Aktionärsforum jederzeit und ohne vorherige
@@ -227,7 +218,6 @@ ausschließlich über das Internet.
 vom 17. Juli 2002 (BGBl. I S. 2654) über die Gestaltung der
 Einsichtnahme sind in der jeweils geltenden Fassung vom Betreiber
 sinngemäß anzuwenden.
-
 
 ## § 8 Datensicherheit
 
@@ -249,7 +239,6 @@ organisatorischen Maßnahmen sind zu treffen. Die Wirksamkeit der
 Maßnahmen ist in regelmäßigen Abständen unter Berücksichtigung der
 aktuellen technischen Entwicklungen zu überprüfen.
 
-
 ## § 9 Entgelte, Veröffentlichung
 
 (1) Der Betreiber kann mit dem Eintragenden vertraglich ein
@@ -270,7 +259,6 @@ Veröffentlichungstages des Bundesanzeigers zu veröffentlichen. Lehnt
 der Betreiber eine Eintragung ab oder löscht er eine Eintragung, ist
 dies dem Eintragenden unverzüglich unter der von ihm angegebenen
 elektronischen Postadresse mitzuteilen.
-
 
 ## § 10 Inkrafttreten
 

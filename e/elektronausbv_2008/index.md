@@ -22,7 +22,6 @@ Fundstelle
     Berufsschule werden demnächst als Beilage im Bundesanzeiger
     veröffentlicht.
 
-
 ## Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit § 26 und auf Grund des §
@@ -35,18 +34,15 @@ geändert worden sind, verordnet das Bundesministerium für Wirtschaft
 und Technologie im Einvernehmen mit dem Bundesministerium für Bildung
 und Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Elektroniker und Elektronikerin wird nach § 25
 der Handwerksordnung für das Gewerbe Nummer 25, Elektrotechniker, der
 Anlage A der Handwerksordnung staatlich anerkannt.
 
-
 ## § 2 Ausbildungsdauer
 
 Die Ausbildung dauert dreieinhalb Jahre.
-
 
 ## § 3 Struktur der Berufsausbildung
 
@@ -60,10 +56,6 @@ und in die Ausbildung in einer der Fachrichtungen
 
 
 3.  Informations- und Telekommunikationstechnik.
-
-
-
-
 
 ## § 4 Ausbildungsrahmenplan/Ausbildungsberufsbild
 
@@ -190,10 +182,6 @@ Informations- und Telekommunikationstechnik:
 5.  Prüfen und Instandhalten von Informations- und
     Telekommunikationssystemen.
 
-
-
-
-
 ## § 5 Durchführung der Berufsausbildung
 
 (1) Die in § 4 genannten Fertigkeiten, Kenntnisse und Fähigkeiten
@@ -213,7 +201,6 @@ zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
 Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
 Ausbildenden haben den Ausbildungsnachweis regelmäßig durchzusehen.
 
-
 ## § 6 Gesellenprüfung
 
 (1) Die Gesellenprüfung besteht aus den zeitlich auseinanderfallenden
@@ -232,7 +219,6 @@ Feststellung der Berufsbefähigung erforderlich ist.
 (2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der
 Gesellenprüfung mit 40 Prozent, Teil 2 der Gesellenprüfung mit 60
 Prozent gewichtet.
-
 
 ## § 7 Teil 1 der Gesellenprüfung
 
@@ -292,10 +278,6 @@ Arbeitsauftrag.
     Gesprächsphasen insgesamt höchstens zehn Minuten umfassen sollen. Die
     schriftlichen Aufgabenstellungen sollen einen zeitlichen Umfang von
     zwei Stunden haben.
-
-
-
-
 
 ## § 8 Teil 2 der Gesellenprüfung
 
@@ -506,10 +488,6 @@ folgende Vorgaben:
 
 3.  die Prüfungszeit beträgt eine Stunde.
 
-
-
-
-
 ## § 9 Gewichtung und Bestehensregelung
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
@@ -572,7 +550,6 @@ folgende Vorgaben:
 
 bewertet worden sind.
 
-
 ## § 10 Mündliche Ergänzungsprüfung
 
 Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der
@@ -585,7 +562,6 @@ Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und
 das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2 : 1
 zu gewichten.
 
-
 ## § 11 Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
@@ -596,11 +572,9 @@ Vereinbarung nicht zustande, sind auf Berufsausbildungsverhältnisse,
 die bis zum 31. Juli 2008 begonnen wurden, die Vorschriften der in §
 12 Satz 2 genannten Verordnungen weiter anzuwenden.
 
-
 ## § 12 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2008 in Kraft.
-
 
 ## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Elektroniker/zur Elektronikerin
 

@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 8 G v. 5.12.2012 I 2425
 
-
 ## § 1 Therapieunterbringung
 
 (1) Steht auf Grund einer rechtskräftigen Entscheidung fest, dass eine
@@ -48,7 +47,6 @@ wenn
 Person sich noch im Vollzug der Sicherungsverwahrung befindet oder
 bereits entlassen wurde.
 
-
 ## § 2 Geeignete geschlossene Einrichtungen
 
 Für die Therapieunterbringung nach § 1 sind nur solche geschlossenen
@@ -69,10 +67,6 @@ Einrichtungen geeignet, die
 3.  räumlich und organisatorisch von Einrichtungen des Strafvollzuges
     getrennt sind.
 
-
-
-
-
 ## § 3 Gerichtliches Verfahren
 
 Für das gerichtliche Verfahren gelten die Vorschriften des Allgemeinen
@@ -80,7 +74,6 @@ Teils und die Vorschriften über das Verfahren in Unterbringungssachen
 des Gesetzes über das Verfahren in Familiensachen und in den
 Angelegenheiten der freiwilligen Gerichtsbarkeit entsprechend, soweit
 nachfolgend nichts Abweichendes bestimmt ist.
-
 
 ## § 4 Sachliche und örtliche Zuständigkeit; Besetzung des Spruchkörpers
 
@@ -93,7 +86,6 @@ das Bedürfnis für die Therapieunterbringung entsteht. Befindet sich
 die Person, die nach § 1 untergebracht werden soll (Betroffener), in
 der Sicherungsverwahrung, ist das Gericht ausschließlich zuständig, in
 dessen Bezirk die Einrichtung liegt, in der diese vollstreckt wird.
-
 
 ## § 5 Einleitung des gerichtlichen Verfahrens
 
@@ -125,7 +117,6 @@ entgegenstehen. Der Inhalt der Mitteilung, die Art und Weise ihrer
 Betroffene ist über die Mitteilung und den Inhalt der Mitteilung zu
 unterrichten.
 
-
 ## § 6 Beteiligte
 
 (1) Beteiligte sind der Betroffene und der Antragsteller.
@@ -142,10 +133,6 @@ Beiordnung als Beteiligter zum Verfahren hinzugezogen.
 
 
 2.  die Führungsaufsichtsstelle des Betroffenen.
-
-
-
-
 
 ## § 7 Beiordnung eines Rechtsanwalts
 
@@ -167,7 +154,6 @@ Therapieunterbringung aufgehoben, so ist dem Betroffenen unverzüglich
 ein anderer Rechtsanwalt beizuordnen.
 
 (4) Von der Beiordnung ausgenommen sind Vollzugsangelegenheiten.
-
 
 ## § 8 Anhörung des Betroffenen und der sonstigen Beteiligten
 
@@ -193,7 +179,6 @@ zuständige untere Verwaltungsbehörde erfolgen. Durch diese Regelung
 wird das Grundrecht auf Unverletzlichkeit der Wohnung aus Artikel 13
 Absatz 1 des Grundgesetzes eingeschränkt.
 
-
 ## § 9 Einholung von Gutachten
 
 (1) Vor einer Therapieunterbringung hat eine förmliche Beweisaufnahme
@@ -216,7 +201,6 @@ anderen Person erheblich beeinträchtigen wird. Die Gutachten sollen
 auch Behandlungsvorschläge sowie Angaben zu deren zeitlicher Umsetzung
 beinhalten.
 
-
 ## § 10 Entscheidung; Beschlussformel
 
 (1) Das Gericht entscheidet über den Antrag in der Hauptsache erst
@@ -231,7 +215,6 @@ Therapieunterbringung endet.
 (3) Das Gericht kann die sofortige Wirksamkeit des Beschlusses
 anordnen.
 
-
 ## § 11 Zuführung und Vollzug der Therapieunterbringung; Ruhen der Führungsaufsicht
 
 (1) Die Zuführung des Betroffenen in die Einrichtung nach § 2 und der
@@ -239,7 +222,6 @@ Vollzug der Unterbringung obliegen der zuständigen unteren
 Verwaltungsbehörde.
 
 (2) Während des Vollzugs der Unterbringung ruht die Führungsaufsicht.
-
 
 ## § 12 Dauer und Verlängerung der Therapieunterbringung
 
@@ -257,7 +239,6 @@ Als Sachverständiger soll nicht bestellt werden, wer den Betroffenen
 bereits mehr als ein Mal im Rahmen eines Unterbringungsverfahrens nach
 diesem Gesetz begutachtet hat.
 
-
 ## § 13 Aufhebung der Therapieunterbringung
 
 Das Gericht hebt die Anordnung einer Unterbringung nach § 1 von Amts
@@ -266,7 +247,6 @@ Maßnahme soll das Gericht die zuständige untere Verwaltungsbehörde,
 den Leiter der Einrichtung, in der sich der Betroffene befindet, und
 den Betroffenen anhören, es sei denn, dass dies zu einer nicht nur
 geringen Verzögerung des Verfahrens führen würde.
-
 
 ## § 14 Einstweilige Anordnung
 
@@ -299,14 +279,12 @@ nur verlängert werden, wenn eine besondere Schwierigkeit in der
 Begutachtung oder ein anderer wichtiger Grund die Entscheidung im
 Hauptsacheverfahren erheblich verzögert.
 
-
 ## § 15 Einstweilige Anordnung bei gesteigerter Dringlichkeit
 
 Bei Gefahr im Verzug kann das Gericht eine einstweilige Anordnung nach
 § 14 bereits vor Anhörung des Betroffenen sowie vor Anhörung und
 Beiordnung eines Rechtsanwalts erlassen. Diese Verfahrenshandlungen
 sind unverzüglich nachzuholen.
-
 
 ## § 16 Beschwerde; Beschwerdefrist
 
@@ -320,14 +298,12 @@ er einen Antrag nach dieser Vorschrift gestellt hat.
 (3) Eine Übertragung der Entscheidung über die Beschwerde auf den
 Einzelrichter ist ausgeschlossen.
 
-
 ## § 17 Ausschluss der Rechtsbeschwerde und der Sprungrechtsbeschwerde
 
 Die Entscheidungen des Beschwerdegerichts können nicht mit der
 Rechtsbeschwerde angefochten werden. Die im ersten Rechtszug
 ergangenen Entscheidungen können nicht mit der Sprungrechtsbeschwerde
 angefochten werden.
-
 
 ## § 18 Divergenzvorlage
 
@@ -343,13 +319,11 @@ des Beschwerdeverfahrens angezeigt erscheint.
 
 (2) In einstweiligen Anordnungsverfahren ist Absatz 1 nicht anwendbar.
 
-
 ## § 19 Gerichtskosten
 
 In Verfahren nach diesem Gesetz über die Anordnung, Verlängerung oder
 Aufhebung der Therapieunterbringung werden keine Gerichtskosten
 erhoben.
-
 
 ## § 20 Vergütung des Rechtsanwalts
 
@@ -370,7 +344,6 @@ ersten Tätigkeit in einem weiteren Verfahren eine Verfahrensgebühr
 nach Nummer 6302 des Vergütungsverzeichnisses zum
 Rechtsanwaltsvergütungsgesetz. Die Tätigkeit nach Satz 1 ist eine
 besondere Angelegenheit im Sinne des Rechtsanwaltsvergütungsgesetzes.
-
 
 ## § 21 Einschränkung von Grundrechten
 

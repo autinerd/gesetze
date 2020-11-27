@@ -24,14 +24,12 @@ Informationsgesellschaft (ABl. EG Nr. L 204 S. 37), geändert durch die
 Richtlinie 98/48/EG des Europäischen Parlaments und des Rates vom 20.
 Juli 1998 (ABl. EG Nr. L 217 S. 18), sind beachtet worden.
 
-
 ## Eingangsformel
 
 Auf Grund des § 16 Abs. 2 des Wasch- und Reinigungsmittelgesetzes vom
 29\. April 2007 (BGBl. I S. 600) in Verbindung mit dem 2. Abschnitt des
 Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821) verordnet
 die Bundesregierung:
-
 
 ## § 1 Gebühren und Auslagen
 
@@ -44,7 +42,6 @@ Gebührenverzeichnis in der Anlage und Auslagen nach § 10 des
 Verwaltungskostengesetzes. Die Gebühren dürfen die Kosten für die
 Bearbeitung des Antrags nicht überschreiten.
 
-
 ## § 2 Ungültigkeit und Rücknahme von Anträgen
 
 In den Fällen der Ungültigkeit eines Antrags nach Artikel 5 Abs. 3
@@ -52,11 +49,9 @@ Unterabs. 2 Satz 3 der Verordnung (EG) Nr. 648/2004 oder der Rücknahme
 eines Antrags auf Erteilung einer Ausnahmegenehmigung werden die
 Gebühren nach Maßgabe des § 15 des Verwaltungskostengesetzes erhoben.
 
-
 ## § 3 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Anlage (zu § 1) Gebührenverzeichnis
 

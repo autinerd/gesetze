@@ -30,7 +30,6 @@ EG Nr. L 167 S. 17, L 195 S. 32), zuletzt geändert durch die
 Richtlinie 2005/32/EG des Europäischen Parlaments und des Rates vom 6.
 Juli 2005 (ABl. EU Nr. L 191 S. 29).
 
-
 ## Eingangsformel
 
 Auf Grund des § 1 Abs. 2, des § 2 Abs. 2 und 3, des § 3 Abs. 2, des §
@@ -38,10 +37,7 @@ Auf Grund des § 1 Abs. 2, des § 2 Abs. 2 und 3, des § 3 Abs. 2, des §
 Energieeinsparungsgesetzes in der Fassung der Bekanntmachung vom 1.
 September 2005 (BGBl. I S. 2684) verordnet die Bundesregierung:
 
-
 ## Abschnitt 1 - Allgemeine Vorschriften
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -104,7 +100,6 @@ Gegenstand dieser Verordnung.
 Auf Bestandteile von Anlagensystemen, die sich nicht im räumlichen
 Zusammenhang mit Gebäuden nach Absatz 1 Satz 1 Nr. 1 befinden, ist nur
 § 13 anzuwenden.
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -186,13 +181,7 @@ Im Sinne dieser Verordnung
 15. ist die Nettogrundfläche die Nettogrundfläche nach anerkannten Regeln
     der Technik, die beheizt oder gekühlt wird.
 
-
-
-
-
 ## Abschnitt 2 - Zu errichtende Gebäude
-
-
 
 ### § 3 Anforderungen an Wohngebäude
 
@@ -216,7 +205,6 @@ das Referenzgebäude sind mit demselben Verfahren zu berechnen.
 (4) Zu errichtende Wohngebäude sind so auszuführen, dass die
 Anforderungen an den sommerlichen Wärmeschutz nach Anlage 1 Nummer 3
 eingehalten werden.
-
 
 ### § 4 Anforderungen an Nichtwohngebäude
 
@@ -243,7 +231,6 @@ zu berechnen.
 Anforderungen an den sommerlichen Wärmeschutz nach Anlage 2 Nummer 4
 eingehalten werden.
 
-
 ### § 5 Anrechnung von Strom aus erneuerbaren Energien
 
 Wird in zu errichtenden Gebäuden Strom aus erneuerbaren Energien
@@ -261,7 +248,6 @@ eingesetzt, darf der Strom in den Berechnungen nach § 3 Absatz 3 und §
 wird. Es darf höchstens die Strommenge nach Satz 1 angerechnet werden,
 die dem berechneten Strombedarf der jeweiligen Nutzung entspricht.
 
-
 ### § 6 Dichtheit, Mindestluftwechsel
 
 (1) Zu errichtende Gebäude sind so auszuführen, dass die
@@ -277,7 +263,6 @@ Anforderungen nach Anlage 4 Nummer 2 eingehalten sind.
 (2) Zu errichtende Gebäude sind so auszuführen, dass der zum Zwecke
 der Gesundheit und Beheizung erforderliche Mindestluftwechsel
 sichergestellt ist.
-
 
 ### § 7 Mindestwärmeschutz, Wärmebrücken
 
@@ -304,7 +289,6 @@ Wärmebrücken nicht erforderlich, bei denen die angrenzenden Bauteile
 kleinere Wärmedurchgangskoeffizienten aufweisen, als in den
 Musterlösungen der DIN 4108 Beiblatt 2 : 2006-03 zugrunde gelegt sind.
 
-
 ### § 8 Anforderungen an kleine Gebäude und Gebäude aus Raumzellen
 
 Werden bei zu errichtenden kleinen Gebäuden die in Anlage 3 genannten
@@ -314,10 +298,7 @@ ist auf Gebäude entsprechend anzuwenden, die für eine Nutzungsdauer
 von höchstens fünf Jahren bestimmt und aus Raumzellen von jeweils bis
 zu 50 Quadratmetern Nutzfläche zusammengesetzt sind.
 
-
 ## Abschnitt 3 - Bestehende Gebäude und Anlagen
-
-
 
 ### § 9 Änderung, Erweiterung und Ausbau von Gebäuden
 
@@ -381,7 +362,6 @@ Nutzfläche größer als 50 Quadratmeter, sind die betroffenen
 Außenbauteile so auszuführen, dass der neue Gebäudeteil die
 Vorschriften für zu errichtende Gebäude nach § 3 oder § 4 einhält.
 
-
 ### § 10 Nachrüstung bei Anlagen und Gebäuden
 
 (1) Eigentümer von Gebäuden dürfen Heizkessel, die mit flüssigen oder
@@ -427,7 +407,6 @@ Wärmedurchgangskoeffizient der Geschossdecke 0,30 Watt/(m
 Nachrüstung erforderlichen Aufwendungen durch die eintretenden
 Einsparungen nicht innerhalb angemessener Frist erwirtschaftet werden
 können.
-
 
 ### § 10a Außerbetriebnahme von elektrischen Speicherheizsystemen
 
@@ -492,7 +471,6 @@ vereinfachte Datenerhebung nach § 9 Absatz 2 Satz 2 und die
 Datenbereitstellung durch den Eigentümer nach § 17 Absatz 5
 entsprechend angewendet werden. § 25 Absatz 1 und 2 bleibt unberührt.
 
-
 ### § 11 Aufrechterhaltung der energetischen Qualität
 
 (1) Außenbauteile dürfen nicht in einer Weise verändert werden, dass
@@ -515,7 +493,6 @@ solcher Anlagen sind vom Betreiber regelmäßig zu warten und instand zu
 halten. Für die Wartung und Instandhaltung ist Fachkunde erforderlich.
 Fachkundig ist, wer die zur Wartung und Instandhaltung notwendigen
 Fachkenntnisse und Fertigkeiten besitzt.
-
 
 ### § 12 Energetische Inspektion von Klimaanlagen
 
@@ -597,10 +574,7 @@ durch einen Ausbildungsnachweis belegt werden können, sind den in Satz
 Inspektion der nach Landesrecht zuständigen Behörde auf Verlangen
 vorzulegen.
 
-
 ## Abschnitt 4 - Anlagen der Heizungs-, Kühl- und Raumlufttechnik sowie der Warmwasserversorgung
-
-
 
 ### § 13 Inbetriebnahme von Heizkesseln und sonstigen Wärmeerzeugersystemen
 
@@ -663,7 +637,6 @@ dann zum Zwecke der Inbetriebnahme in Gebäuden eingebaut oder
 aufgestellt werden, wenn sie nach anerkannten Regeln der Technik gegen
 Wärmeverluste gedämmt sind.
 
-
 ### § 14 Verteilungseinrichtungen und Warmwasseranlagen
 
 (1) Zentralheizungen müssen beim Einbau in Gebäude mit zentralen
@@ -721,7 +694,6 @@ Gebäuden ist deren Wärmeabgabe nach Anlage 5 zu begrenzen.
 (6) Beim erstmaligen Einbau von Einrichtungen, in denen Heiz- oder
 Warmwasser gespeichert wird, in Gebäude und bei deren Ersetzung ist
 deren Wärmeabgabe nach anerkannten Regeln der Technik zu begrenzen.
-
 
 ### § 15 Klimaanlagen und sonstige Anlagen der Raumlufttechnik
 
@@ -788,10 +760,7 @@ Betriebsstundenzahl sind die Nutzungsrandbedingungen nach DIN V
 18599-10 : 2007-02 und für den Luftvolumenstrom der
 Außenluftvolumenstrom maßgebend.
 
-
 ## Abschnitt 5 - Energieausweise und Empfehlungen für die Verbesserung der Energieeffizienz
-
-
 
 ### § 16 Ausstellung und Verwendung von Energieausweisen
 
@@ -838,7 +807,6 @@ vorgenommen werden.
 (4) Auf kleine Gebäude sind die Vorschriften dieses Abschnitts nicht
 anzuwenden. Auf Baudenkmäler sind die Absätze 2 und 3 nicht
 anzuwenden.
-
 
 ### § 17 Grundsätze des Energieausweises
 
@@ -898,7 +866,6 @@ auszustellen. Unabhängig davon verlieren Energieausweise ihre
 Gültigkeit, wenn nach § 16 Absatz 1 ein neuer Energieausweis
 erforderlich wird.
 
-
 ### § 18 Ausstellung auf der Grundlage des Energiebedarfs
 
 (1) Werden Energieausweise für zu errichtende Gebäude auf der
@@ -913,7 +880,6 @@ des berechneten Energiebedarfs ausgestellt, ist auf die erforderlichen
 Berechnungen § 9 Abs. 2 entsprechend anzuwenden. Die Ergebnisse sind
 in den Energieausweisen anzugeben, soweit ihre Angabe für
 Energiebedarfswerte in den Mustern der Anlagen 6 bis 8 vorgesehen ist.
-
 
 ### § 19 Ausstellung auf der Grundlage des Energieverbrauchs
 
@@ -975,7 +941,6 @@ Stadtentwicklung im Einvernehmen mit dem Bundesministerium für
 Wirtschaft und Technologie im Bundesanzeiger bekannt gemacht worden
 sind.
 
-
 ### § 20 Empfehlungen für die Verbesserung der Energieeffizienz
 
 (1) Sind Maßnahmen für kostengünstige Verbesserungen der energetischen
@@ -999,7 +964,6 @@ Anlage 10 entsprechen. § 17 Abs. 4 und 5 ist entsprechend anzuwenden.
 
 (3) Modernisierungsempfehlungen sind dem Energieausweis mit dem Inhalt
 nach den Mustern der Anlagen 6 und 7 beizufügen.
-
 
 ### § 21 Ausstellungsberechtigung für bestehende Gebäude
 
@@ -1094,9 +1058,7 @@ Buchstabe b genügt.
 (3) § 12 Abs. 5 Satz 3 ist auf Ausbildungen im Sinne des Absatzes 1
 entsprechend anzuwenden.
 
-
 ## Abschnitt 6 - Gemeinsame Vorschriften, Ordnungswidrigkeiten
-
 
 ### § 22 Gemischt genutzte Gebäude
 
@@ -1113,7 +1075,6 @@ als Wohngebäude zu behandeln.
 (3) Für die Berechnung von Trennwänden und Trenndecken zwischen
 Gebäudeteilen gilt in Fällen der Absätze 1 und 2 Anlage 1 Nr. 2.6 Satz
 1 entsprechend.
-
 
 ### § 23 Regeln der Technik
 
@@ -1164,7 +1125,6 @@ technischen Regeln auf undatierte technische Regeln, sind diese in der
 Fassung anzuwenden, die dem Stand zum Zeitpunkt der Herausgabe der
 datierten technischen Regel entspricht.
 
-
 ### § 24 Ausnahmen
 
 (1) Soweit bei Baudenkmälern oder sonstiger besonders erhaltenswerter
@@ -1177,7 +1137,6 @@ den Anforderungen dieser Verordnung abgewichen werden.
 Verordnung vorgesehene Maßnahmen im gleichen Umfang erreicht werden,
 lassen die nach Landesrecht zuständigen Behörden auf Antrag Ausnahmen
 zu.
-
 
 ### § 25 Befreiungen
 
@@ -1200,7 +1159,6 @@ zuzumuten ist.
 (3) Absatz 1 ist auf die Vorschriften des Abschnitts 5 nicht
 anzuwenden.
 
-
 ### § 26 Verantwortliche
 
 (1) Für die Einhaltung der Vorschriften dieser Verordnung ist der
@@ -1212,7 +1170,6 @@ Rahmen ihres jeweiligen Wirkungskreises auch die Personen
 verantwortlich, die im Auftrag des Bauherrn bei der Errichtung oder
 Änderung von Gebäuden oder der Anlagentechnik in Gebäuden tätig
 werden.
-
 
 ### § 26a Private Nachweise
 
@@ -1242,7 +1199,6 @@ den in Absatz 1 genannten Vorschriften nachgewiesen. Die
 Unternehmererklärung ist von dem Eigentümer mindestens fünf Jahre
 aufzubewahren. Der Eigentümer hat die Unternehmererklärungen der nach
 Landesrecht zuständigen Behörde auf Verlangen vorzulegen.
-
 
 ### § 26b Aufgaben des Bezirksschornsteinfegermeisters
 
@@ -1301,7 +1257,6 @@ Bezirksschornsteinfegermeister.
 vergleichbare Prüfung durch den Bezirksschornsteinfegermeister bereits
 auf der Grundlage von Landesrecht für die jeweilige heizungstechnische
 Anlage vor dem 1. Oktober 2009 erfolgt ist.
-
 
 ### § 27 Ordnungswidrigkeiten
 
@@ -1367,10 +1322,7 @@ Energieeinsparungsgesetzes handelt, wer vorsätzlich oder leichtfertig
 entgegen § 26a Absatz 1 eine Bestätigung nicht, nicht richtig oder
 nicht rechtzeitig vornimmt.
 
-
 ## Abschnitt 7 - Schlussvorschriften
-
-
 
 ### § 28 Allgemeine Übergangsvorschriften
 
@@ -1392,7 +1344,6 @@ geltenden Fassung anzuwenden.
 (4) Auf Verlangen des Bauherrn ist abweichend von Absatz 1 das neue
 Recht anzuwenden, wenn über den Bauantrag oder nach einer Bauanzeige
 noch nicht bestandskräftig entschieden worden ist.
-
 
 ### § 29 Übergangsvorschriften für Energieausweise und Aussteller
 
@@ -1466,21 +1417,17 @@ verfügt haben. Satz 1 gilt entsprechend für Personen, die eine solche
 Weiterbildung vor dem 25. April 2007 begonnen haben, nach
 erfolgreichem Abschluss der Weiterbildung.
 
-
 ### § 30 (weggefallen)
 
 -
-
 
 ### § 31 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Oktober 2007 in Kraft.
 
-
 ### Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ### Anlage 1 (zu den §§ 3 und 9) Anforderungen an Wohngebäude
 
@@ -1765,9 +1712,6 @@ Der Bundesrat hat zugestimmt.
     Transmissionswärmeverlust eines zu errichtenden Wohngebäudes darf die
     in Tabelle 2 angegebenen Höchstwerte nicht überschreiten.
 
-
-
-
 ## **Tabelle 2**
 
 ### Höchstwerte des spezifischen, auf die wärmeübertragende
@@ -1947,9 +1891,6 @@ Umfassungsfläche bezogenen Transmissionswärmeverlusts
     verwenden. Bei der Berechnung des Jahres-Primärenergiebedarfs des
     Referenzwohngebäudes und des Wohngebäudes sind die in Tabelle 3
     genannten Randbedingungen zu verwenden.
-
-
-
 
 ## **Tabelle 3**
 
@@ -2279,9 +2220,6 @@ Umfassungsfläche bezogenen Transmissionswärmeverlusts
     für solche Gebäudezonen berücksichtigt werden, die einen
     Warmwasserbedarf von höchstens 200 Wh/(m
     2                   ·d) aufweisen.
-
-
-
 
 ## **Tabelle 1**
 
@@ -3206,9 +3144,6 @@ Umfassungsfläche bezogenen Transmissionswärmeverlusts
     Tabelle 2 angegebenen Werte nicht überschreiten. Satz 1 ist auf
     Außentüren nicht anzuwenden.
 
-
-
-
 ## **Tabelle 2**
 
 ### Höchstwerte der Wärmedurchgangskoeffizienten der
@@ -3379,9 +3314,6 @@ wärmeübertragenden Umfassungsfläche von Nichtwohngebäuden
 2.1.6 Bei der Berechnung des Jahres-Primärenergiebedarfs des
     Referenzgebäudes und des Nichtwohngebäudes sind ferner die in Tabelle
     3 genannten Randbedingungen zu verwenden.
-
-
-
 
 ## **Tabelle 3**
 
@@ -3689,9 +3621,6 @@ wärmeübertragenden Umfassungsfläche von Nichtwohngebäuden
     Primärenergiebedarfs die entsprechende Nutzung nach Tabelle 4 Spalte 4
     zu verwenden. Der Nutzenergiebedarf für Warmwasser ist mit dem Wert
     aus Spalte 5 in Ansatz zu bringen.
-
-
-
 
 ## **Tabelle 4**
 
@@ -4136,12 +4065,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     **7** **Anforderungen**
 
-
-
-
-
-
-
 ## **Tabelle 1**
 
 ### Höchstwerte der Wärmedurchgangskoeffizienten bei erstmaligem
@@ -4444,9 +4367,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     Außen liegende Fenster, Fenstertüren und Dachflächenfenster müssen den
     Klassen nach Tabelle 1 entsprechen.
 
-
-
-
 ## Tabelle 1
 
 *    *   Klassen der Fugendurchlässigkeit
@@ -4501,10 +4421,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *   nicht überschreiten.
 
-
-
-
-
 ### Anlage 4a (zu § 13 Absatz 2) Anforderungen an die Inbetriebnahme von Heizkesseln und sonstigen Wärmeerzeugersystemen
 
 (Fundstelle: BGBl. I 2009, 975)
@@ -4522,7 +4438,6 @@ Niedertemperatur-Heizkessel oder Brennwertkessel als Wärmeerzeuger in
 Systemen der Nahwärmeversorgung eingesetzt, gilt die Anforderung des
 Satzes 1 als erfüllt.
 
-
 ### Anlage 5 (zu § 10 Absatz 2, § 14 Absatz 5 und § 15 Absatz 4) Anforderungen an die Wärmedämmung von Rohrleitungen und Armaturen
 
 (Fundstelle: BGBl. I 2009, 975 - 976)
@@ -4532,9 +4447,6 @@ Satzes 1 als erfüllt.
     Anforderungen der Zeilen 1 bis 7 und in Fällen des § 15 Absatz 4 der
     Zeile 8 der Tabelle 1 einzuhalten, soweit sich nicht aus anderen
     Bestimmungen dieser Anlage etwas anderes ergibt.
-
-
-
 
 ## **Tabelle 1**
 
@@ -4647,40 +4559,25 @@ Kälteverteilungs- und Kaltwasserleitungen sowie Armaturen
     Rohrdämmstoffanordnungen und unter Berücksichtigung der Dämmwirkung
     der Leitungswände sichergestellt ist.
 
-
-
-
-
 ### Anlage 6 (zu § 16) Muster Energieausweis Wohngebäude
 
 (Fundstelle: BGBl. I 2009, 977 - 980)
-
-
-
-
 
 ### Anlage 7 (zu § 16) Muster Energieausweis Nichtwohngebäude
 
 (Fundstelle: BGBl. I 2009, 981 - 984)
 
-
-
-
-
 ### Anlage 8 (zu § 16) Muster Aushang Energieausweis auf der Grundlage des Energiebedarfs
 
 (Fundstelle: BGBl. I 2009, 985)
-
 
 ### Anlage 9 (zu § 16) Muster Aushang Energieausweis auf der Grundlage des Energieverbrauchs
 
 (Fundstelle: BGBl. I 2009, 986)
 
-
 ### Anlage 10 (zu § 20) Muster Modernisierungsempfehlungen
 
 (Fundstelle: BGBl. I 2009, 987)
-
 
 ### Anlage 11 (zu § 21 Abs. 2 Nr. 2) Anforderungen an die Inhalte der Fortbildung
 

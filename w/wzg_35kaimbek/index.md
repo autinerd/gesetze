@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1979, 1473
 
-
-
 ## (XXXX)
 
 Auf Grund des § 35 Abs. 1 und Abs. 3 Satz 2 des Warenzeichengesetzes
@@ -32,7 +30,6 @@ Markenschutz nachgesucht und erhalten haben.
 Die Eintragung eines Warenzeichens auf den Kaiman-Inseln setzt eine
 vorherige Eintragung des Warenzeichens im Vereinigten Königreich
 Großbritannien und Nordirland voraus.
-
 
 ## Schlussformel
 

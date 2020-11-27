@@ -16,14 +16,11 @@ Ausfertigungsdatum
 Fundstelle
 :   GBl DDR I: 1990, 1473
 
-
-
 ## § 1 Name und Sitz
 
 Die Stiftung führt den Namen "Stiftung Demokratische Jugend". Sie ist
 eine selbständige Stiftung öffentlichen Rechts und hat ihren Sitz in
 Berlin.
-
 
 ## § 2 Stiftungszweck
 
@@ -60,14 +57,12 @@ Selbsthilfe, soweit geeignete Träger zur Durchführung vorhanden sind.
 Im übrigen entscheidet der Vorstand, auf welche Weise der Zweck der
 Stiftung zu verwirklichen ist.
 
-
 ## § 3 Gemeinnützigkeit
 
 Die Stiftung ist selbstlos tätig; sie verfolgt ausschließlich und
 unmittelbar gemeinnützige Zwecke. Mittel der Stiftung dürfen nur für
 die unter § 2 genannten Zwecke verwendet werden. Es dürfen keine
 Begünstigungen erfolgen, die dem Stiftungszweck fremd sind.
-
 
 ## § 4 Stiftungsvermögen
 
@@ -85,7 +80,6 @@ nicht geschmälert wird.
 (3) Der Jahresabschluß der Stiftung erfolgt durch einen unabhängigen
 Wirtschaftsprüfer. Sein Bericht ist dem Kuratorium sowie den
 zuständigen Aufsichtsbehörden vorzulegen.
-
 
 ## § 5 Leistungen
 
@@ -117,7 +111,6 @@ erhalten über eine Aufwandsentschädigung und eine Erstattung ihrer
 Kosten hinaus keine Zuwendungen. Über die Höhe der
 Aufwandsentschädigung entscheidet der Vorstand.
 
-
 ## § 6 Vorstand
 
 (1) Organ der Stiftung ist der Vorstand. Er besteht aus einem
@@ -143,7 +136,6 @@ außergerichtlich vertreten.
 (5) Der Vorstand gibt sich eine Geschäftsordnung. Er faßt Beschlüsse
 mit einfacher Mehrheit.
 
-
 ## § 7 Kuratorium
 
 Das Kuratorium berät den Vorstand und überwacht die Einhaltung des
@@ -161,19 +153,16 @@ Mehrheit beschließen.
 Der Vorstand kann Aufgaben an das Kuratorium delegieren, wenn dieses
 zustimmt.
 
-
 ## § 8 Geschäftsführung
 
 Der Vorstand kann zur Führung der Stiftungsgeschäfte Geschäftsführer
 bestellen, die an die Beschlüsse des Vorstandes gebunden sind.
 Geschäftsjahr ist das Kalenderjahr.
 
-
 ## § 9 Fach- und Rechtsaufsicht
 
 Vorbehaltlich einer künftigen gesetzlichen Regelung übt das
 Ministerium für Jugend und Sport die Fach- und Rechtsaufsicht aus.
-
 
 ## § 10 Satzungsänderung, Auflösung
 

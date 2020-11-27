@@ -16,12 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1958, 414
 
-
-
 ## Art I
 
 -
-
 
 ## Art II
 
@@ -42,16 +39,11 @@ Fundstelle
 3.  Die in Artikel I § 5 Abs. 2 Satz 3 bestimmte Frist beginnt frühestens
     am Tage der Verkündung dieses Gesetzes.
 
-
-
-
-
 ## Art III
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
 im Land Berlin.
-
 
 ## Art IV
 
@@ -59,7 +51,6 @@ Das Gesetz zur Wiedergutmachung nationalsozialistischen Unrechts in
 der Kriegsopferversorgung für Berechtigte im Ausland vom 3. August
 1953 (Bundesgesetzbl. I S. 843) gilt in der Fassung dieses Gesetzes
 auch im Saarland.
-
 
 ## Art V
 

@@ -21,7 +21,6 @@ Neugefasst durch
 Geändert durch
 :   Art. 20 G v. 3.12.2001 I 3306
 
-
 ## § 1 Gebührenpflichtige Tatbestände
 
 (1) In Staatsangehörigkeitsangelegenheiten werden Gebühren erhoben für
@@ -108,11 +107,9 @@ veranlaßt werden. Gebührenpflichtig sind auch
 (3) Gebührenbefreiungen in anderen Rechtsvorschriften bleiben
 unberührt.
 
-
 ## § 2
 
 (weggefallen)
-
 
 ## § 3 Gebührenbemessung in sonstigen Staatsangehörigkeitsangelegenheiten
 
@@ -145,7 +142,6 @@ unberührt.
 
 (2) Die Gebühr für eine sonstige Bescheinigung beträgt mindestens 5
 Euro, höchstens 51 Euro.
-
 
 ## § 3a Gebühren für Widerruf, Rücknahme, Ablehnung und Widerspruch
 
@@ -192,15 +188,10 @@ Euro, höchstens 51 Euro.
     *   25 EUR bis zu dem Betrag, der für die Vornahme der angefochtenen
         Amtshandlung vorgesehen ist oder zu erheben wäre.
 
-
-
-
-
 ## § 4 Abrundung, Auslagen
 
 Die sich nach dieser Verordnung ergebenden Beträge werden auf volle
 Euro abgerundet.
-
 
 ## § 5 Ermäßigung und Befreiung
 
@@ -208,11 +199,9 @@ Für eine Amtshandlung nach § 1 Abs. 1 kann aus Gründen der Billigkeit
 oder des öffentlichen Interesses Gebührenermäßigung oder -befreiung
 gewährt werden.
 
-
 ## § 6
 
 (Aufhebung von Vorschriften)
-
 
 ## § 7 Übergangsregelung
 
@@ -220,11 +209,9 @@ Diese Verordnung gilt auch, wenn der maßgebliche Antrag auf eine
 Amtshandlung vor ihrem Inkrafttreten gestellt worden ist, das
 Verfahren aber erst später abgeschlossen wird.
 
-
 ## § 8 Berlin-Klausel
 
 (gegenstandslos)
-
 
 ## § 9
 

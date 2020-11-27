@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1985, 1265
 
-
-
 ## (XXXX)
 
 (1) Auf Grund des § 4 Abs. 2 Nr. 3 des Warenzeichengesetzes in der
@@ -27,11 +25,9 @@ die in der Sozialistischen Republik Vietnam eingeführt sind.
 (2) Diese Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom
 19\. März 1985 (BGBl. I S. 598).
 
-
 ## Schlussformel
 
 Der Bundesminister der Justiz
-
 
 ## Anlage Prüf- und Gewährzeichen der Sozialistischen Republik Vietnam
 

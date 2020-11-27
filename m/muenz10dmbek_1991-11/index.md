@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1991, 2134
 
-
-
 ## (XXXX)
 
 (1) Auf Grund des § 6 des Gesetzes über die Ausprägung von
@@ -83,11 +81,9 @@ fünfzackige Sterne.
 
 (9) Der Entwurf der Münze stammt von Erich Ott, München.
 
-
 ## Schlußformel
 
 Der Bundesminister der Finanzen
-
 
 ## (XXXX) Abbildung der Münze
 

@@ -25,10 +25,7 @@ Stand: Art. 2 §§ 1 bis 8 treten gem. Art. 3 Abs. 1 Satz 2 an dem Tage in Kraft
 
 -
 
-
 ## Art 2 -
-
-
 
 ## § 1 Zuständigkeiten und Aufgaben
 
@@ -46,10 +43,6 @@ Europäischen Polizeiamts (Europol) (ABl. L 121 vom 15.5.2009, S. 37)
     datenschutzrechtliche Verantwortung, nimmt das Bundeskriminalamt die
     gemäß Artikel 30 Absatz 4 des Beschlusses 2009/371/JI vorgesehene
     Mitwirkung im Einvernehmen mit dieser Stelle wahr.
-
-
-
-
 
 ## § 2 Gemeinsame Vorschriften für das Europol-Informationssystem und die Analysedateien
 
@@ -100,7 +93,6 @@ das zuletzt durch Artikel 2 des Gesetzes vom 21. Dezember 2008 (BGBl.
 I S. 2933) geändert worden ist, genannten Prüfgegenstände unmittelbar
 zusammenhängen, tätig werden.
 
-
 ## § 3 Europol-Informationssystem
 
 (1) Unbeschadet des § 1 Nr. 1 und gemäß Artikel 8 Absatz 2 Satz 4 des
@@ -127,14 +119,12 @@ Bundeskriminalamtgesetzes erfüllt sind.
 protokollieren. § 11 Abs. 6 des Bundeskriminalamtgesetzes findet
 entsprechende Anwendung.
 
-
 ## § 4 Analysedateien
 
 Gemäß Artikel 14 Absatz 3 Satz 2 des Beschlusses 2009/371/JI
 übermittelt das Bundeskriminalamt nur solche Daten, die von ihm zu
 Zwecken der Verhütung und Verfolgung von Straftaten verarbeitet werden
 dürfen.
-
 
 ## § 5 Anwendung anderer Vorschriften
 
@@ -144,7 +134,6 @@ Zentralstelle und die Verpflichtungen anderer Behörden, namentlich der
 Behörden der Bundespolizei und des Zollfahndungsdienstes sowie der
 Polizeien der Länder, zur Zusammenarbeit mit dem Bundeskriminalamt
 entsprechend.
-
 
 ## § 6 Datenschutzkontrolle und Haftung
 
@@ -194,7 +183,6 @@ und ist der Schaden der datenschutzrechtlichen Verantwortung der
 eingebenden oder übermittelnden Stelle eines Landes zuzurechnen, ist
 diese der Bundesrepublik Deutschland zum Ausgleich verpflichtet.
 
-
 ## § 7 Verwaltungsrat
 
 (1) Das Bundesministerium des Innern benennt ein Mitglied und ein
@@ -210,7 +198,6 @@ Verwaltungsrates gemäß Artikel 37 Absatz 9, 10 und 12 des Beschlusses
 2009/371/JI Interessen der Länder berührt sind, berücksichtigt der
 Vertreter des Bundes im Verwaltungsrat die Stellungnahme des
 Vertreters der Länder.
-
 
 ## § 8 Strafvorschrift
 
@@ -229,19 +216,16 @@ die Tat nach § 353b des Strafgesetzbuches nur verfolgt, wenn ein
 Strafverlangen des Direktors von Europol vorliegt und die
 Bundesregierung die Ermächtigung zur Strafverfolgung erteilt.
 
-
 ## § 9 Verordnungsermächtigung
 
 Das Bundesministerium des Innern bestimmt durch Rechtsverordnung ohne
 Zustimmung des Bundesrates die zuständigen Behörden im Sinne des
 Artikels 13 Absatz 6 Satz 1 des Beschlusses 2009/371/JI.
 
-
 ## § 10 Anwendung des Beschlusses 2009/371/JI
 
 Der Beschluss 2009/371/JI findet mit dem Inkrafttreten dieses Gesetzes
 uneingeschränkte Anwendung.
-
 
 ## Art 3 - (weggefallen)
 

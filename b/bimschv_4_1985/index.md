@@ -22,7 +22,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 7 G v. 17.8.2012 I 1726
 
-
 ## § 1 Genehmigungsbedürftige Anlagen
 
 (1) Die Errichtung und der Betrieb der im Anhang genannten Anlagen
@@ -105,7 +104,6 @@ durch Dritte erforderlichen Menge vor der Markteinführung hergestellt
 werden, soweit die neuen Erzeugnisse noch weiter erforscht oder
 entwickelt werden.
 
-
 ## § 2 Zuordnung zu den Verfahrensarten
 
 (1) Das Genehmigungsverfahren wird durchgeführt nach
@@ -161,16 +159,13 @@ Erweiterung der Anlage erreicht oder überschritten, wird die
 Genehmigung für die Änderung in dem Verfahren erteilt, dem die Anlage
 nach der Summe ihrer Leistung oder Größe entspricht.
 
-
 ## (XXXX) §§ 3 und 4 (weggefallen)
 
 (Aufhebung anderer Vorschriften)
 
-
 ## § 5
 
 (weggefallen)
-
 
 ## Anhang
 

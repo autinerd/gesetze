@@ -22,7 +22,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 V v. 13.12.2011 I 2725
 
-
 ## § 1 Antrag auf Zulassung als Umweltgutachter
 
 (1) Der Antragsteller muss im Antrag auf Zulassung als Umweltgutachter
@@ -164,7 +163,6 @@ insbesondere die Unterlagen nach Absatz 2 beizufügen, bei denen sich
 Unterlagen ergeben haben und sich im Hinblick auf den Änderungsantrag
 ergeben sollen.
 
-
 ## § 1a Antrag auf Zulassung als Umweltgutachter für ein Drittland
 
 (1) Für den Fall des Antrags eines zugelassenen Umweltgutachters auf
@@ -217,7 +215,6 @@ keine Anwendung; die Zulassungsstelle kann jedoch Unterlagen
 nachfordern, soweit diese für die Entscheidung über den Antrag im
 Sinne des Absatzes 1 erforderlich sind.
 
-
 ## § 2 Antrag auf Zulassung als Umweltgutachterorganisation
 
 (1) Für den Antrag auf Zulassung als Umweltgutachterorganisation
@@ -247,7 +244,6 @@ beizufügen:
 
 (3) Für den Antrag auf Änderung der Zulassung gilt § 1 Abs. 4
 entsprechend.
-
 
 ## § 2a Antrag auf Zulassung als Umweltgutachterorganisation für ein Drittland
 
@@ -297,7 +293,6 @@ Zulassungsstelle kann jedoch Unterlagen nachfordern, soweit diese für
 die Entscheidung über den Antrag im Sinne des Absatzes 1 erforderlich
 sind.
 
-
 ## § 3 Antrag auf Erteilung einer Fachkenntnisbescheinigung
 
 Für den Antrag auf Erteilung oder Änderung einer
@@ -306,7 +301,6 @@ und des Absatzes 2 Nr. 7 entsprechend Anwendung. Der Antrag muss
 ferner die Angabe enthalten, für welche Fachgebiete und
 Zulassungsbereiche im Sinne des § 8 Abs. 1 Satz 2 des
 Umweltauditgesetzes die Bescheinigung beantragt wird.
-
 
 ## § 4 Prüfungsausschuss
 
@@ -321,7 +315,6 @@ Antragsteller in geeigneter Weise befragt werden.
 (3) Die Mitglieder des Prüfungsausschusses haben über die ihnen bei
 ihrer Tätigkeit bekannt gewordenen Tatsachen Verschwiegenheit zu
 bewahren.
-
 
 ## § 5 Mündliche Prüfung
 
@@ -388,7 +381,6 @@ Zutritt zur mündlichen Prüfung gestatten. Die Befugnis der
 Rechtsaufsichtsbehörde, Vertreter zur mündlichen Prüfung zu entsenden,
 bleibt unberührt.
 
-
 ## § 5a Fachgespräch
 
 (1) Im Zulassungsverfahren auf Grund eines Antrags eines
@@ -440,7 +432,6 @@ herangezogen, wenn keine Prüfer aus der Prüferliste nach Absatz 2 Satz
 (6) § 4 Absatz 1 und 3, § 5 Absatz 1 und 4 sowie die §§ 7 und 8 gelten
 für das Fachgespräch entsprechend.
 
-
 ## § 6 Entscheidung
 
 (1) Der Prüfungsausschuss entscheidet im Anschluss an die mündliche
@@ -489,7 +480,6 @@ nach Absatz 2 zu fertigen.
 Prüfung bestanden hat, ist auf Antrag eine Fachkenntnisbescheinigung
 zu erteilen.
 
-
 ## § 7 Rücktritt von der mündlichen Prüfung
 
 (1) Tritt der Antragsteller nach der Ladung gemäß § 5 Abs. 1 von der
@@ -511,7 +501,6 @@ amtsärztliches Zeugnis vorzulegen.
 Prüfungstermin zur Ablegung der mündlichen Prüfung erneut zu laden; §
 5 Abs. 1 ist anzuwenden.
 
-
 ## § 8 Wiederholung des Zulassungsverfahrens
 
 Ein Antragsteller, der die mündliche Prüfung nicht bestanden hat, kann
@@ -521,7 +510,6 @@ von drei Jahren einmal ein weiterer Antrag auf Zulassung gestellt
 werden. Wird ein erneuter Antrag gestellt, kann auf Angaben und
 Unterlagen des vorherigen Antrages verwiesen werden, sofern sich keine
 Veränderungen ergeben haben.
-
 
 ## § 9 Mündliche Prüfung in Verfahren zur Erteilung einer Fachkenntnisbescheinigung
 
@@ -533,7 +521,6 @@ Umweltauditgesetzes.
 
 (2) Im Übrigen gelten die §§ 5 bis 8 entsprechend.
 
-
 ## § 10 Erteilung von Zulassung und Fachkenntnisbescheinigung in besonderen Fällen
 
 Nach bestandener mündlicher Prüfung dürfen im Falle des § 1 Abs. 3
@@ -541,11 +528,9 @@ eine Zulassung oder eine Fachkenntnisbescheinigung erst nach Vorlage
 der erforderlichen Urkunden erteilt werden. Der Antrag ist abzulehnen,
 wenn die erforderlichen Urkunden nicht fristgerecht vorgelegt werden.
 
-
 ## § 11
 
 (Inkrafttreten)
-
 
 ## Anhang (zu § 5 Abs. 3)
 

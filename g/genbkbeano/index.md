@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   GBl DDR I: 1990, 251
 
-
-
 ## § 1
 
 Auf der Grundlage des § 11 des Gesetzes vom 19. Dezember 1974 über die
@@ -26,7 +24,6 @@ Gesetzes über die Staatsbank der Deutschen Demokratischen Republik
 (GBl. I Nr. 16 S. 125) wird das Statut der Genossenschaftsbank Berlin
 (Anlage) bestätigt.
 
-
 ## § 2
 
 Die Allgemeinen Geschäftsbedingungen der Bank für Landwirtschaft und
@@ -34,16 +31,13 @@ Nahrungsgüterwirtschaft der DDR gemäß Anordnung vom 17. November 1969
 (GBl. II Nr. 93 S. 575) bleiben bis zur Bestätigung der
 Geschäftsbedingungen der Genossenschaftsbank Berlin in Kraft.
 
-
 ## § 3
 
 Diese Anordnung tritt am 1. April 1990 in Kraft.
 
-
 ## Schlußformel
 
 **Der Präsident der Staatsbank der Deutschen Demokratischen Republik**
-
 
 ## Anhang EV Auszug aus EinigVtr Anlage II Kapitel IV Abschnitt III (BGBl. II 1990, 889, 1199)
 

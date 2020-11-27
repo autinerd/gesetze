@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 G v. 12.9.2012 I 1884
 
-
 ## § 1 Zuständige Behörden
 
 (1) Die Aufgaben der Eisenbahnverkehrsverwaltung des Bundes werden,
@@ -62,7 +61,6 @@ ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
 (2) Die Aufgaben des Bundeseisenbahnvermögens auf Grund des Gesetzes
 zur Zusammenführung und Neugliederung der Bundeseisenbahnen vom 27.
 Dezember 1993 (BGBl. I S. 2378) bleiben unberührt.
-
 
 ## § 2 Eisenbahn-Bundesamt
 
@@ -114,7 +112,6 @@ zu diesem versetzt werden, gelten Absatz 6 Satz 2 und die Regelungen
 dieses Absatzes nicht.
 
 (8) Das Eisenbahn-Bundesamt wird von einem Präsidenten geleitet.
-
 
 ## § 3 Aufgaben des Eisenbahn-Bundesamtes
 
@@ -189,7 +186,6 @@ wirtschaftlichen Wertes oder des sonstigen Nutzens der Amtshandlung
 für den Gebührenschuldner unter Berücksichtigung der wirtschaftlichen
 Verhältnisse des Gebührenschuldners festzusetzen.
 
-
 ## § 4 Regulierungsbehörde
 
 (1) Die Aufgabe, die Einhaltung der Rechtsvorschriften über den Zugang
@@ -246,7 +242,6 @@ Gebührenschuldners festzusetzen.
 (7) Bis zum 31. Dezember 2005 werden die der Bundesnetzagentur für
 Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen nach Absatz
 1 zugewiesenen Aufgaben vom Eisenbahn-Bundesamt wahrgenommen.
-
 
 ## § 5 Eisenbahnsicherheitsbeirat
 

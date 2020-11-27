@@ -18,9 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 G v. 22.12.2011 I 2959
 
-
 ## Abschnitt 1 - Begriffsbestimmungen und Verpflichtete
-
 
 ### § 1 Begriffsbestimmungen
 
@@ -142,7 +140,6 @@ Finanzsystems zum Zwecke der Geldwäsche und der
 Terrorismusfinanzierung (ABl. EU Nr. L 309 S. 15) getroffenen
 Maßnahmen Konkretisierungen zu den vorstehenden Begriffsbestimmungen
 festlegen.
-
 
 ### § 2 Verpflichtete
 
@@ -338,9 +335,7 @@ Bundesministerium der Finanzen kann die ihm erteilte Ermächtigung
 durch Rechtsverordnung ohne Zustimmung des Bundesrates auf die
 Bundesanstalt für Finanzdienstleistungsaufsicht übertragen.
 
-
 ## Abschnitt 2 - Sorgfaltspflichten und interne Sicherungsmaßnahmen
-
 
 ### § 3 Allgemeine Sorgfaltspflichten
 
@@ -462,7 +457,6 @@ erstrebt, es sei denn, der Verpflichtete weiß, dass der
 Vertragspartner die Rechtsberatung bewusst für den Zweck der
 Geldwäsche oder der Terrorismusfinanzierung in Anspruch nimmt.
 
-
 ### § 4 Durchführung der Identifizierung
 
 (1) Verpflichtete haben Vertragspartner und soweit vorhanden
@@ -544,7 +538,6 @@ die Geschäftsbeziehung oder die Transaktion für einen wirtschaftlich
 Berechtigten begründen, fortsetzen oder durchführen will. Mit der
 Offenlegung hat er dem Verpflichteten auch die Identität des
 wirtschaftlich Berechtigten nachzuweisen.
-
 
 ### § 5 Vereinfachte Sorgfaltspflichten
 
@@ -634,10 +627,6 @@ Rechtsverordnung ohne Zustimmung des Bundesrates
 2.  eine Entscheidung der Europäischen Kommission gemäß Artikel 40 Abs. 4
     der Richtlinie 2005/60/EG in Bezug auf die in Artikel 12 dieser
     Richtlinie genannten Fälle umsetzen.
-
-
-
-
 
 ### § 6 Verstärkte Sorgfaltspflichten
 
@@ -794,10 +783,6 @@ Bundesrates durch Rechtsverordnung
     Terrorismusfinanzierung besteht, und Maßnahmen festlegen, die die
     Verpflichteten zu ergreifen haben, um dem erhöhten Risiko zu begegnen.
 
-
-
-
-
 ### § 7 Ausführung durch Dritte
 
 (1) Ein Verpflichteter kann zur Erfüllung der Sorgfaltspflichten nach
@@ -856,7 +841,6 @@ gemäß Absatz 1 zur Erfüllung ihrer Sorgfaltspflichten auf außerhalb
 der Europäischen Union ansässige Dritte zurückgreifen dürfen,
 bestimmen.
 
-
 ### § 8 Aufzeichnungs- und Aufbewahrungspflicht
 
 (1) Soweit nach diesem Gesetz Sorgfaltspflichten bestehen, sind die
@@ -904,7 +888,6 @@ in dem die jeweilige Angabe festgestellt worden ist.
 
 (4) Soweit aufzubewahrende Unterlagen einer öffentlichen Stelle
 vorzulegen sind, gilt § 147 Abs. 5 der Abgabenordnung entsprechend.
-
 
 ### § 9 Interne Sicherungsmaßnahmen
 
@@ -1018,9 +1001,7 @@ risikobasierter Bewertung anderweitige Vorkehrungen getroffen werden,
 um Geschäftsbeziehungen und Transaktionen, die mit Geldwäsche oder
 Terrorismusfinanzierung zusammenhängen, zu verhindern.
 
-
 ## Abschnitt 3 - Zentralstelle für Verdachtsmeldungen, Meldepflichten und Datenverwendung
-
 
 ### § 10 Zentralstelle für Verdachtsmeldungen
 
@@ -1086,7 +1067,6 @@ Daten nur zu den durch die übermittelnde Zentralstelle vorgegebenen
 Bedingungen verwenden. Es kann seinerseits bei der Übermittlung von
 Daten an eine Zentralstelle eines anderen Staates Einschränkungen und
 Auflagen für die Verwendung der übermittelten Daten festlegen.
-
 
 ### § 11 Meldung von Verdachtsfällen
 
@@ -1182,7 +1162,6 @@ darf durch Auskünfte nach Satz 3 erlangte personenbezogene Daten nur
 zur Überprüfung seines Meldeverhaltens nutzen und hat diese zu
 löschen, wenn sie für diesen Zweck nicht mehr erforderlich sind.
 
-
 ### § 12 Verbot der Informationsweitergabe
 
 (1) Ein Verpflichteter darf den Auftraggeber der Transaktion und
@@ -1265,7 +1244,6 @@ Informationsweitergabe untersagt ist, und bestimmen, in Bezug auf
 welche Verpflichteten aus Drittstaaten keine Informationen
 weitergegeben werden dürfen.
 
-
 ### § 13 Freistellung von der Verantwortlichkeit
 
 (1) Wer Sachverhalte im Sinne des § 11 Absatz 1 Satz 1 meldet oder
@@ -1277,7 +1255,6 @@ oder grob fahrlässig unwahr erstattet worden.
 (2) Gleiches gilt, wenn ein Beschäftigter einen Sachverhalt seinem
 Vorgesetzten oder einer unternehmensintern für die Entgegennahme einer
 solchen Meldung zuständigen Stelle mitteilt.
-
 
 ### § 14 Meldepflicht von Behörden
 
@@ -1294,7 +1271,6 @@ Strafverfolgungsbehörde zu melden. Für die Behörden gemäß § 16 Absatz
 (2) Absatz 1 gilt für die mit der Kontrolle des grenzüberschreitenden
 Verkehrs betrauten Behörden und die für die Überwachung der Aktien-,
 Devisen- und Finanzderivatemärkte zuständigen Behörden entsprechend.
-
 
 ### § 15 Heranziehung und Verwendung von Aufzeichnungen
 
@@ -1314,9 +1290,7 @@ Strafverfolgungsbehörde im Strafverfahren Aufzeichnungen nach § 8 Abs.
 Mitteilungen und Aufzeichnungen dürfen für Besteuerungsverfahren und
 für Strafverfahren wegen Steuerstraftaten verwendet werden.
 
-
 ## Abschnitt 4 - Aufsicht, Zusammenarbeit und Bußgeldvorschriften
-
 
 ### § 16 Aufsicht
 
@@ -1472,7 +1446,6 @@ einer Notarkammer sind. Die Information über die Gleichwertigkeit
 eines Drittstaates entbindet die Verpflichteten nicht von einer
 eigenen Risikobewertung im Einzelfall.
 
-
 ### § 16a Zusammenarbeit mit der Europäischen Bankenaufsichtsbehörde, der Europäischen Aufsichtsbehörde für das Versicherungswesen und die betriebliche Altersversorgung sowie mit der Europäischen Wertpapier- und Marktaufsichtsbehörde
 
 (1) Die nach § 16 Absatz 2 zuständigen Behörden, soweit sie die
@@ -1522,7 +1495,6 @@ Informationen zur Verfügung, die zur Durchführung von deren Aufgaben
 aufgrund der Richtlinie 2005/60/EG sowie der Verordnungen (EU) Nr.
 1093/2010, 1094/2010 und 1095/2010 erforderlich sind.
 
-
 ### § 16a Zusammenarbeit mit der Europäischen Bankenaufsichtsbehörde, der Europäischen Aufsichtsbehörde für das Versicherungswesen und die betriebliche Altersversorgung sowie mit der Europäischen Wertpapier- und Marktaufsichtsbehörde
 
 (1) Die nach § 16 Absatz 2 zuständigen Behörden, soweit sie die
@@ -1569,7 +1541,6 @@ Marktaufsichtsbehörde nach Maßgabe des Artikels 35 der Verordnungen
 Informationen zur Verfügung, die zur Durchführung von deren Aufgaben
 auf Grund der Richtlinie 2005/60/EG sowie der Verordnungen (EU) Nr.
 1093/2010, 1094/2010 und 1095/2010 erforderlich sind.
-
 
 ### § 17 Bußgeldvorschriften
 

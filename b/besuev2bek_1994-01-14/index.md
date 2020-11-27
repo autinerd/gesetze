@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1994, 121
 
-
-
 ## (XXXX)
 
 Auf Grund des § 13 der Zweiten Besoldungs-Übergangsverordnung in der
@@ -33,7 +31,6 @@ unterhalb der Ortszuschlagstabelle in Anlage IB für die Zeit ab 1.
 Januar 1993, bekanntgemacht.
 
 Der Bundesminister des Innern
-
 
 ## Anlage I A (Anlage IV des BBesG) Gültig ab 1. Mai 1993
 
@@ -563,9 +560,6 @@ Fundstelle des Originaltextes: BGBl. I 1994, 122 - 124
 
     *   5.836,74
 
-
-
-
 ## 2. Bundesbesoldungsordnung B
 
 *    *   Grundgehaltssätze (Monatsbeträge in DM)
@@ -634,9 +628,6 @@ Fundstelle des Originaltextes: BGBl. I 1994, 122 - 124
 *    *   B 11
 
     *   12.092,52
-
-
-
 
 ## 3. Bundesbesoldungsordnung C
 
@@ -815,9 +806,6 @@ Fundstelle des Originaltextes: BGBl. I 1994, 122 - 124
 
     *   6.542,49
 
-
-
-
 ## 4. Bundesbesoldungsordnung R
 
 *    *   Grundgehaltssätze (Monatsbeträge in DM)
@@ -972,10 +960,6 @@ Fundstelle des Originaltextes: BGBl. I 1994, 122 - 124
 
     *   11.589,86
 
-
-
-
-
 ## Anlage I B (Anlage V des BBesG) Gültig ab 1. Mai 1993, Satz 2 unterhalb der Ortszuschlagstabelle gültig ab 1. Januar 1993
 
 Fundstelle des Originaltextes: BGBl. I 1994, 125
@@ -1075,10 +1059,6 @@ Unterschiedsbetrag zusätzlich gewährt.
 
     *   445,71 DM.
 
-
-
-
-
 ## Anlage I C (Anlage VIII des BBesG) Gültig ab 1. Mai 1993
 
 Fundstelle des Originaltextes: BGBl. I 1994, S. 126
@@ -1168,10 +1148,6 @@ DM)
     *   361
 
     *   80
-
-
-
-
 
 ## Anlage I D (Anlage IX des BBesG) Gültig ab 1. Mai 1993
 
@@ -2440,13 +2416,6 @@ DM)
             Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S.
             1345).
 
-
-
-
-
-
-
-
 ## Anlage II A (Anlage IV des BBesG) Gültig ab 1. Juli 1993
 
 Fundstelle des Originaltextes: BGBl. I 1994, 130 - 132
@@ -2975,9 +2944,6 @@ Fundstelle des Originaltextes: BGBl. I 1994, 130 - 132
 
     *   6.309,99
 
-
-
-
 ## 2. Bundesbesoldungsordnung B
 
 *    *   Grundgehaltssätze (Monatsbeträge in DM)
@@ -3046,9 +3012,6 @@ Fundstelle des Originaltextes: BGBl. I 1994, 130 - 132
 *    *   B 11
 
     *   13.073,00
-
-
-
 
 ## 3. Bundesbesoldungsordnung C
 
@@ -3227,9 +3190,6 @@ Fundstelle des Originaltextes: BGBl. I 1994, 130 - 132
 
     *   7.072,96
 
-
-
-
 ## 4. Besoldungsordnung R
 
 *    *   Grundgehaltssätze (Monatsbeträge in DM)
@@ -3384,10 +3344,6 @@ Fundstelle des Originaltextes: BGBl. I 1994, 130 - 132
 
     *   12.529,58
 
-
-
-
-
 ## Anlage II B (Anlage V des BBesG) Gültig ab 1. Juli 1993
 
 Fundstelle des Originaltextes: BGBl. I 1994, 133
@@ -3488,10 +3444,6 @@ Unterschiedsbetrag zusätzlich gewährt.
 
     *   481,84 DM.
 
-
-
-
-
 ## Anlage II C (Anlage VIII des BBesG) Gültig ab 1. Juli 1993
 
 (Fundstelle des Originaltextes: BGBl. I 1994, 134)
@@ -3588,10 +3540,6 @@ Unterschiedsbetrag zusätzlich gewährt.
     *   390
 
     *   86
-
-
-
-
 
 ## Anlage II D (Anlage IX des BBesG) Gültig ab 1. Juli 1993
 

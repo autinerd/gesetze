@@ -20,22 +20,17 @@ Fundstelle
 Geändert durch
 :   Art. 6 G v. 16.12.1999 I 2402
 
-
 ## -
 
 Für die Errichtung der Währungsunion und die Währungsumstellung gelten
 gemäß Artikel 3 Satz 1 des Vertrags die nachfolgend aufgeführten
 vereinbarten Bestimmungen:
 
-
 ## 1. Abschnitt - Bestimmungen zur Einführung der Währung der Deutschen Mark in der Deutschen Demokratischen Republik
-
-
 
 ### Art 1 - Einführung der Währung der Deutschen Mark
 
 (nicht mehr anzuwenden)
-
 
 ### Art 2 - Umbenennung
 
@@ -48,11 +43,9 @@ Rechnungseinheit Deutsche Mark. Die Regelung der Umstellung von auf
 Mark der Deutschen Demokratischen Republik lautenden Verbindlichkeiten
 und Forderungen auf Deutsche Mark wird davon nicht berührt.
 
-
 ### Art 3 - Genehmigungsvorbehalt
 
 (nicht mehr anzuwenden)
-
 
 ### Art 4 - Stundung
 
@@ -60,10 +53,7 @@ Alle auf Mark der Deutschen Demokratischen Republik lautenden
 Verbindlichkeiten werden ab Inkrafttreten dieser Bestimmung gemäß
 Artikel 11 dieser Anlage bis zum Ablauf des 7. Juli 1990 gestundet.
 
-
 ## 2. Abschnitt - Währungsumstellung in der Deutschen Demokratischen Republik
-
-
 
 ### Art 5 - Tag der Umstellung, Abwicklung über Konten bei Geldinstituten
 
@@ -145,7 +135,6 @@ Nachteil entstünde. Der Antrag ist innerhalb von vier Wochen nach
 Inkrafttreten dieser Bestimmung zu stellen. Die Prüfbehörde hat die
 Deutsche Bundesbank von allen Anträgen zu unterrichten.
 
-
 ### Art 6 - Umstellung von Guthaben bei Geldinstituten
 
 (1) Natürliche Personen mit Wohnsitz in der Deutschen Demokratischen
@@ -187,10 +176,7 @@ Deutschen Demokratischen Republik 1 Deutsche Mark gutgeschrieben wird.
 
 (4) Umgehungsgeschäfte sind nichtig.
 
-
 ### Art 7 - Umstellung von auf Mark der Deutschen Demokratischen Republik lautenden Verbindlichkeiten und Forderungen auf Deutsche Mark, DM-Eröffnungsbilanz
-
-
 
 ### § 1
 
@@ -229,7 +215,6 @@ der Deutschen Demokratischen Republik 1 Deutsche Mark zu zahlen hat:
 Forderungen der in Artikel 5 Absatz 3 und 4 genannten Personen oder
 Stellen aus Guthaben bei Geldinstituten gilt Artikel 6 dieser Anlage.
 
-
 ### § 2
 
 (1) Eine vor dem 1. Juli 1990 begründete Verbindlichkeit verliert
@@ -243,7 +228,6 @@ Zahlungsvorgänge zwischen zwei Konten bei Geldinstituten sind auf
 beiden Konten auch nach dem 30. Juni 1990 zunächst in Mark der
 Deutschen Demokratischen Republik zu verbuchen und in die Berechnung
 des Guthabens einzubeziehen, für das die Umstellung beantragt wurde.
-
 
 ### § 3
 
@@ -290,13 +274,7 @@ e)  Regelungen über Ausgleichsposten oder sonstige Bilanzierungshilfen zur
 
 f)  Grund und Boden sind zum aktuellen Verkehrswert zu bewerten.
 
-
-
-
-
 ### Art 8 - Besondere Vorschriften für Geldinstitute und Außenhandelsbetriebe
-
-
 
 ### § 1
 
@@ -305,7 +283,6 @@ lautenden Verbindlichkeiten und Forderungen von Geldinstituten mit
 Sitz in der Deutschen Demokratischen Republik einschließlich
 Forderungen aus Guthaben bei anderen Geldinstituten in der Deutschen
 Demokratischen Republik gelten Artikel 7 § 1 und § 2 dieser Anlage.
-
 
 ### § 2
 
@@ -323,7 +300,6 @@ Staatsbank der Deutschen Demokratischen Republik. Die hierdurch
 entstehenden Guthaben werden ebenfalls in der Weise umgestellt, daß
 für 2 Mark der Deutschen Demokratischen Republik 1 Deutsche Mark
 gutgeschrieben wird.
-
 
 ### § 3
 
@@ -360,7 +336,6 @@ Umstellungsrechnung gilt als Eröffnungsbilanz auf den 1. Juli 1990.
 auf Mark der Deutschen Demokratischen Republik lautenden Banknoten und
 Münzen in der Umstellungsrechnung gelten die von der Deutschen
 Bundesbank zu erlassenden Regelungen und Anordnungen.
-
 
 ### § 4
 
@@ -421,10 +396,6 @@ Absätze 3 und 4 gelten entsprechend.
     Nummer 113-478) ohne den darin vorgesehenen Abschlag vierteljährlich
     festgestellt.
 
-
-
-
-
 ### § 5
 
 Die zuständige Stelle der Bundesrepublik Deutschland kann nach
@@ -433,12 +404,10 @@ Anhörung der Deutschen Bundesbank durch Rechtsverordnung das Nähere
 sowie über das Verfahren der Zuteilung und des Erwerbs der
 Ausgleichsforderungen regeln.
 
-
 ### § 6
 
 Vor einer Bestätigung der Umstellungsrechnung sind Beschlüsse und
 Anordnungen über eine Gewinnverwendung nichtig.
-
 
 ### Art 9 - Überprüfung und Sperrung
 
@@ -447,7 +416,6 @@ daß ihre zuständigen Organe der Strafverfolgung bei hinreichenden
 Anhaltspunkten eine Überprüfung von Guthaben auf Bankkonten
 hinsichtlich der Rechtmäßigkeit ihres Erwerbs und gegebenenfalls eine
 Sperrung von Konten vornehmen.
-
 
 ### Art 10 - Ermächtigung zum Erlaß von Ausführungsbestimmungen
 
@@ -468,17 +436,13 @@ Bediensteten der Deutschen Bundesbank und die von ihr beauftragten
 Personen können hierzu die Geschäftsräume der Geldinstitute betreten;
 ein entgegenstehendes Grundrecht wird insoweit eingeschränkt.
 
-
 ### Art 11 - Schlußbestimmungen
 
 Die Bestimmungen zur Einführung der Währung der Deutschen Mark und zur
 Währungsumstellung in der Deutschen Demokratischen Republik treten am
 1\. Juli 1990 in Kraft.
 
-
 ## 3. Abschnitt - Zuständigkeiten und Befugnisse der Deutschen Bundesbank in der Deutschen Demokratischen Republik
-
-
 
 ### Art 12 - Tätigkeit der Deutschen Bundesbank
 
@@ -527,10 +491,6 @@ Bestimmungen:
     Linie durch die Deutsche Bundesbank, anderenfalls im Benehmen mit ihr
     begeben.
 
-
-
-
-
 ### Art 13 - Zusammenarbeit
 
 Die Deutsche Bundesbank arbeitet mit der Regierung der Deutschen
@@ -541,7 +501,6 @@ Zentralbankrats in Fragen der Geld- und Währungspolitik eingeladen.
 Die Regierung der Deutschen Demokratischen Republik wird der Deutschen
 Bundesbank diejenige Unterstützung und Hilfe gewähren, die diese zur
 Wahrnehmung ihrer Aufgaben benötigt.
-
 
 ### Art 14 - Entsendung von Mitarbeitern
 

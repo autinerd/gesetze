@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1971, 2156
 
-
-
 ## Art 1
 
 (1) Hat die Bundesrepublik Deutschland im Rahmen des Mechanismus für
@@ -36,13 +34,11 @@ Deutschland stehen die in Anspruch genommenen Beträge der Deutschen
 Bundesbank zu. Die Zins- und Rückzahlungsverpflichtungen werden von
 der Deutschen Bundesbank erfüllt.
 
-
 ## Art 2
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
 im Land Berlin.
-
 
 ## Art 3
 

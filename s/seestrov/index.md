@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 V v. 15.1.2012 I 112
 
-
 ## Eingangsformel
 
 Auf Grund des § 9 Abs. 1 Satz 1 Nr. 1, 2 und 4 des Gesetzes über die
@@ -30,7 +29,6 @@ Verhütung von Zusammenstößen auf See vom 29. Juni 1976 (BGBl. II S.
 1017), und des § 36 Abs. 3 des Gesetzes über Ordnungswidrigkeiten,
 wird verordnet:
 
-
 ## § 1 Inkraftsetzung der Internationalen Regeln
 
 Die Internationalen Regeln zur Verhütung von Zusammenstößen auf See,
@@ -40,7 +38,6 @@ Seeschifffahrts-Organisation (IMO) in London vom 25. November 2007
 geändert worden sind, im folgenden als "Internationale Regeln"
 bezeichnet, sind in der aus der Anlage ersichtlichen deutschen
 Übersetzung nach Maßgabe der folgenden Vorschriften anzuwenden.
-
 
 ## § 2 Geltungsbereich
 
@@ -78,7 +75,6 @@ Buchstabe b der Internationalen Regeln vor.
 11 der Seeanlagenverordnung in der deutschen ausschließlichen
 Wirtschaftszone von der zuständigen Genehmigungsbehörde eingerichteten
 Sicherheitszonen auch für Schiffe unter ausländischer Flagge.
-
 
 ## § 3 Grundregeln für das Verhalten im Verkehr
 
@@ -121,7 +117,6 @@ Aufgaben nicht mehr unter der Wirkung solcher Getränke steht. Satz 1
 gilt für die im Brückendienst eingesetzten Mitglieder der
 Schiffsbesatzung entsprechend.
 
-
 ## § 4 Verantwortlichkeit
 
 (1) Der Fahrzeugführer und jeder sonst für die Sicherheit
@@ -151,7 +146,6 @@ zu bestimmen, wer verantwortlicher Fahrzeugführer ist.
 (5) Die Verantwortlichkeit anderer Personen, die sich aus dieser
 Verordnung oder sonstigen Vorschriften ergibt, bleibt unberührt.
 
-
 ## § 5 Fahrzeuge des öffentlichen Dienstes
 
 Fahrzeuge des öffentlichen Dienstes sind von den Vorschriften dieser
@@ -161,7 +155,6 @@ dringend geboten ist. Satz 1 gilt für Fahrzeuge der Deutschen
 Gesellschaft zur Rettung Schiffbrüchiger, soweit diese Maßnahmen des
 Such- und Rettungsdienstes in Seenotfällen nach § 1 Nr. 7 des
 Seeaufgabengesetzes durchführen, entsprechend.
-
 
 ## § 6 Verkehrstrennungsgebiete
 
@@ -175,7 +168,6 @@ Verkehrstrennungsgebiete, die von der Internationalen Seeschiffahrts-
 Organisation (IMO) angenommen und in den Nachrichten für Seefahrer
 (Amtliche Veröffentlichung für die Seeschiffahrt des Bundesamtes für
 Seeschiffahrt und Hydrographie) bekanntgemacht worden sind.
-
 
 ## § 7 Sicherheitszonen
 
@@ -208,7 +200,6 @@ insoweit erlassenen Allgemeinverfügungen werden nach Maßgabe von § 60
 Abs. 1 der Seeschifffahrtsstraßen-Ordnung und von § 12 der
 Seeanlagenverordnung bekannt gemacht.
 
-
 ## § 7a Auskunft auf Ersuchen
 
 (1) Wird der Fahrzeugführer eines Schiffes, das sich in der
@@ -239,7 +230,6 @@ Staaten in den Nachrichten für Seefahrer (Amtliche Veröffentlichung
 für die Seeschiffahrt des Bundesamtes für Seeschiffahrt und
 Hydrographie) bekannt.
 
-
 ## § 8 Überwachung, Befreiung
 
 (1) Für die Überwachung der Vorschriften dieser Verordnung sind die
@@ -251,13 +241,11 @@ Seeschiffahrtstraßen-Ordnung zuständig; § 5 Abs. 1 Satz 2 Nr. 2 und §
 Vorschriften dieser Verordnung im Einzelfall befreien, soweit dies
 nach den Internationalen Regeln zulässig ist.
 
-
 ## § 8a Verweisungen
 
 Soweit in anderen Vorschriften auf die "Seestraßenordnung" verwiesen
 wird, treten an deren Stelle die "Internationalen Regeln von 1972 zur
 Verhütung von Zusammenstößen auf See".
-
 
 ## § 8b Verwendung von Lichtern, Signalkörpern und Schallsignalanlagen
 
@@ -294,7 +282,6 @@ Sportbootverordnung vom 29. August 2002 (BGBl. I S. 3457).
 der Lichter, Signalkörper und Schallsignalanlagen gilt Abschnitt D Nr.
 10 der Anlage zum Schiffssicherheitsgesetz in der jeweils geltenden
 Fassung.
-
 
 ## § 9 Ordnungswidrigkeiten
 
@@ -441,11 +428,9 @@ Seeaufgabengesetzes handelt, wer vorsätzlich oder fahrlässig
 Ordnungswidrigkeiten nach Absatz 1 wird auf die Wasser- und
 Schiffahrtsdirektionen übertragen.
 
-
 ## § 10 Inkrafttreten, Aufhebung von Vorschriften
 
 Die Verordnung tritt am 15. Juli 1977 in Kraft; ... .
-
 
 ## Schlußformel
 

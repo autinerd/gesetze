@@ -19,7 +19,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 2007, 1690
 
-
 ## Eingangsformel
 
 Auf Grund des Artikels 2 des Gesetzes vom 2. Mai 1996 zu dem Beschluss
@@ -27,7 +26,6 @@ des Obersten Rates des Europäischen Hochschulinstituts Nr. 8/93 vom 2.
 Dezember 1993 und zu dem Beschluss der Ständigen Kommission von
 Eurocontrol vom 28. Oktober 1994 (BGBl. 1996 II S. 754) verordnet die
 Bundesregierung:
-
 
 ## Art 1
 
@@ -41,7 +39,6 @@ Europäischen Investitionsbank über die Übertragung von
 Versorgungsanwartschaften werden hiermit in Kraft gesetzt. Die
 Abkommen werden nachstehend veröffentlicht.
 
-
 ## Art 2
 
 Soweit der Bund nach den in Artikel 1 genannten Abkommen die von der
@@ -50,7 +47,6 @@ jeweiligen Organisationen zu übertragenden Summen mit 3,5 Prozent zu
 verzinsen hat und die Zinsbeträge durch die Deutsche
 Rentenversicherung Bund ausgezahlt werden, erstattet der Bund diese
 Beträge an die Deutsche Rentenversicherung Bund.
-
 
 ## Art 3
 

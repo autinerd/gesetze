@@ -22,7 +22,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 21 G v. 9.12.2010 I 1934
 
-
 ## § 1
 
 (1) Erzeugergemeinschaften im Sinne dieses Gesetzes sind
@@ -52,7 +51,6 @@ Tätigkeit ihrer Erzeugergemeinschaften sind, auf dem Markt
 koordinieren. Sie können ferner im Einvernehmen mit ihren
 Erzeugergemeinschaften die Lagerung sowie die marktgerechte
 Aufbereitung und Verpackung der vorgenannten Erzeugnisse übernehmen.
-
 
 ## § 2
 
@@ -88,7 +86,6 @@ gefördert werden, wenn im übrigen die dort genannten Voraussetzungen
 erfüllt sind. Die Sätze 1 und 2 gelten nur, soweit Rechtsakte der
 Europäischen Gemeinschaft oder der Europäischen Union nicht
 entgegenstehen.
-
 
 ## § 3
 
@@ -211,7 +208,6 @@ sind oder wenn die Erzeugergemeinschaft gegen gesetzliche Vorschriften
 oder gegen behördliche Anordnungen auf Grund gesetzlicher Vorschriften
 verstößt.
 
-
 ## § 4
 
 (1) Eine Vereinigung von Erzeugergemeinschaften wird durch die nach
@@ -245,7 +241,6 @@ Landesrecht zuständigen Behörden anerkannt, wenn
 
 
 (2) § 3 Abs. 4 gilt entsprechend.
-
 
 ## § 5
 
@@ -318,7 +313,6 @@ des Bürgerlichen Gesetzbuchs zu verzinsen.
 
 (6) Zuständig für die Durchführung der Förderung ist das Land, in dem
 die Erzeugergemeinschaft oder die Vereinigung ihren Sitz hat.
-
 
 ## § 6
 
@@ -420,7 +414,6 @@ Bürgerlichen Gesetzbuchs zu verzinsen.
 (4) Zuständig für die Durchführung der Förderung ist das Land, in dem
 das Unternehmen seinen Sitz hat.
 
-
 ## § 7
 
 (1) Erzeugergemeinschaften und Vereinigungen von
@@ -435,7 +428,6 @@ von Erzeugergemeinschaften nach diesem Gesetz erlischt, wenn sie auf
 Grund von Rechtsakte der Europäischen Gemeinschaft oder der
 Europäischen Union als Erzeugergemeinschaft, Erzeugerorganisation oder
 Vereinigung von solchen umgebildet oder anerkannt wird.
-
 
 ## § 8
 
@@ -468,10 +460,6 @@ b)  soweit die Finanzbehörden die Kenntnisse für die Durchführung eines
     um vorsätzlich falsche Angaben des Auskunftspflichtigen oder der für
     ihn tätigen Personen handelt.
 
-
-
-
-
 ## § 9
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig entgegen §
@@ -481,11 +469,9 @@ nicht rechtzeitig erteilt.
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu zehntausend
 Euro geahndet werden.
 
-
 ## § 10
 
 (weggefallen)
-
 
 ## § 11
 
@@ -513,7 +499,6 @@ es sich um Tätigkeiten handelt, die Erzeugergemeinschaften oder
 Vereinigungen von Erzeugergemeinschaften nach diesem Gesetz übernehmen
 dürfen.
 
-
 ## § 12
 
 Das Bundesministerium für Ernährung, Landwirtschaft und
@@ -521,12 +506,10 @@ Verbraucherschutz kann die Ermächtigungen zum Erlaß von
 Rechtsverordnungen nach § 3 Abs. 3 und § 6 Abs. 2 auf die
 Landesregierungen übertragen.
 
-
 ## § 13
 
 Dieses Gesetz tritt in dem in Artikel 3 des Einigungsvertrages
 genannten Gebiet am 1. Juli 1992 in Kraft.
-
 
 ## Anlage (zu § 1 Abs. 2) Liste der Erzeugnisse, für die Erzeugergemeinschaften gebildet und anerkannt werden können
 

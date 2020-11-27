@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 7 Abs. 28 G v. 19.6.2001 I 1149
 
-
 ## § 1 Anwendungsbereich
 
 Dieses Gesetz regelt die Rechtsverhältnisse an Grundstücken, auf denen
@@ -35,13 +34,11 @@ selbständiges, vom Eigentum am Grundstück getrenntes Eigentum besteht,
 zu dienen bestimmt sind und in einem dieser Bestimmung entsprechenden
 räumlichen Verhältnis zum Gebäude stehen.
 
-
 ## § 2 Eigentumsübergang
 
 Das an Anpflanzungen im Sinne des § 1 Satz 1 entstandene
 Sondereigentum erlischt am 1. Januar 1995. Die Anpflanzungen werden
 wesentlicher Bestandteil des Grundstücks.
-
 
 ## § 3 Entschädigung für den Rechtsverlust, Wegnahmerecht
 
@@ -63,7 +60,6 @@ Absatz 1 bezeichneten Art berechtigt, soweit andere Rechtsvorschriften
 dem nicht entgegenstehen. Nimmt er diese weg, ist eine Entschädigung
 ausgeschlossen.
 
-
 ## § 4 Höhe der Entschädigung
 
 Die Entschädigung ist nach dem Wert der Anpflanzung im Zeitpunkt des
@@ -74,7 +70,6 @@ Anspruchs aus Satz 1 kann der Nutzer eine Entschädigung für die
 Nachteile verlangen, die ihm durch die vorzeitige Neuanlage einer
 gleichartigen Kultur entstehen, höchstens jedoch den sich aus Satz 1
 ergebenden Betrag.
-
 
 ## § 5 Abwendungsbefugnis des Grundstückseigentümers
 
@@ -89,7 +84,6 @@ vom Boden zu trennen und sich anzueignen, soweit andere
 Rechtsvorschriften dem nicht entgegenstehen. Auf das in Satz 2
 bestimmte Wegnahmerecht ist § 258 des Bürgerlichen Gesetzbuchs
 entsprechend anzuwenden.
-
 
 ## § 6 Pachtvertrag bei Angewiesenheit
 
@@ -110,7 +104,6 @@ verpflichtet.
 (3) Auf den Pachtvertrag sind die Bestimmungen des Bürgerlichen
 Gesetzbuchs über den Pachtvertrag anzuwenden. Die §§ 585 bis 597 des
 Bürgerlichen Gesetzbuchs sind nicht anzuwenden.
-
 
 ## § 7 Verhältnis zu anderen Bestimmungen
 

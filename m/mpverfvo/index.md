@@ -19,8 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 26.10.2011 I 2145
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 50 Abs. 2 der Handwerksordnung in der Fassung der
@@ -30,7 +28,6 @@ März 1975 (BGBl. I S. 705) und dem Organisationserlass vom 27. Oktober
 1998 (BGBl. I S. 3288) verordnet das Bundesministerium für Wirtschaft
 und Technologie:
 
-
 ## § 1 Gegenstand
 
 Die Verordnung regelt das Zulassungs- und allgemeine Prüfungsverfahren
@@ -38,7 +35,6 @@ für die Meisterprüfung im Handwerk und in handwerksähnlichen Gewerben.
 Die jeweilige Meisterprüfungsverordnung für die Teile I und II sowie
 die Verordnung über die Meisterprüfung in den Teilen III und IV im
 Handwerk und in handwerksähnlichen Gewerben bleiben unberührt.
-
 
 ## § 2 Zuständiger Meisterprüfungsausschuss
 
@@ -75,7 +71,6 @@ Teile der Meisterprüfung vor einem örtlich nicht zuständigen
 Meisterprüfungsausschuss erteilen, wenn dieser zustimmt. Dies gilt
 auch für Wiederholungsprüfungen.
 
-
 ## § 3 Beschlussfassung
 
 (1) Der Meisterprüfungsausschuss ist beschlussfähig, wenn mehr als die
@@ -108,7 +103,6 @@ zulässig.
 (3) Zur Beschleunigung können Entscheidungen im schriftlichen
 Umlaufverfahren herbeigeführt werden, falls alle Mitglieder zustimmen.
 Hiervon ausgenommen sind Entscheidungen nach § 21 Absatz 1.
-
 
 ## § 4 Ausschluss von der Mitwirkung
 
@@ -195,13 +189,11 @@ der Meisterprüfungsausschuss über den Ausschluss. Die betroffene
 Person darf an dieser Entscheidung nicht mitwirken und sich im Falle
 des Ausschlusses an der weiteren Prüfung nicht mehr beteiligen.
 
-
 ## § 5 Verschwiegenheit
 
 Die Mitglieder des Meisterprüfungsausschusses sind zur
 Amtsverschwiegenheit verpflichtet. Diese Verpflichtung bleibt auch
 nach dem Ausscheiden aus dem Meisterprüfungsausschuss bestehen.
-
 
 ## § 6 Nichtöffentlichkeit
 
@@ -213,7 +205,6 @@ Prüfung anwesend zu sein.
 
 (3) Der Vorsitzende kann nach Anhörung der übrigen Mitglieder des
 Meisterprüfungsausschusses in begründeten Fällen Gäste zulassen.
-
 
 ## § 7 Rücktritt, Nichtteilnahme
 
@@ -232,7 +223,6 @@ Die Entscheidung über das Vorliegen eines wichtigen Grundes obliegt
 dem Vorsitzenden. Soweit er das Vorliegen eines wichtigen Grundes für
 nicht gegeben hält, entscheiden alle Mitglieder des
 Meisterprüfungsausschusses.
-
 
 ## § 8 Täuschungshandlungen, Ordnungsverstöße
 
@@ -258,7 +248,6 @@ oder den praktischen Teil der Prüfung im Teil IV der Meisterprüfung
 als nicht abgelegt. Das Gleiche gilt bei Täuschungshandlungen, die
 innerhalb eines Jahres nachträglich festgestellt werden.
 
-
 ## § 9 Anmeldung, Organisation der Prüfung
 
 (1) Der Vorsitzende beraumt die Prüfungstermine grundsätzlich nach
@@ -275,7 +264,6 @@ Prüflings berücksichtigen.
 (4) Die in den Absätzen 1 bis 3 genannten Aufgaben nimmt der
 Vorsitzende in Abstimmung mit den übrigen Mitgliedern des
 Meisterprüfungsausschusses wahr.
-
 
 ## § 10 Zulassung
 
@@ -304,7 +292,6 @@ ist § 8 Absatz 3 entsprechend anzuwenden.
 Prüfling den Nachweis nach Absatz 1 Nummer 1 sowie den Bescheid über
 die Zulassung vorzulegen.
 
-
 ## § 11 Nachteilsausgleich für behinderte Menschen
 
 Bei der Durchführung der Prüfung sollen die besonderen Verhältnisse
@@ -314,7 +301,6 @@ Inanspruchnahme von Hilfeleistungen Dritter wie
 Gebärdensprachdolmetscher für hörbehinderte Menschen. Die Art und
 Schwere der Behinderung ist mit dem Antrag auf Zulassung zur Prüfung
 nachzuweisen.
-
 
 ## § 12 Befreiungen
 
@@ -336,14 +322,12 @@ Meisterprüfung zu stellen.
 die nach der Handwerksordnung zur Befreiung von Teilen der
 Meisterprüfung führen, gilt Satz 1 entsprechend.
 
-
 ## § 13 Einladung zur Prüfung
 
 Ort und Zeit der Prüfung sind dem Prüfling mindestens zwei Wochen
 vorher schriftlich bekannt zu geben. Dabei ist ihm auch mitzuteilen,
 welche Arbeits- und Hilfsmittel notwendig und erlaubt sind. Der
 Prüfling ist auf § 7 hinzuweisen.
-
 
 ## § 14 Ausweispflicht und Belehrung
 
@@ -355,7 +339,6 @@ Meisterprüfungsausschusses zur Person auszuweisen.
 Verfügung stehende Zeit, die erlaubten Arbeits- und Hilfsmittel sowie
 über die Folgen bei Rücktritt, Nichtteilnahme, Täuschungshandlungen
 und Ordnungsverstößen zu belehren.
-
 
 ## § 15 Prüfungsaufgaben
 
@@ -376,7 +359,6 @@ Situationsaufgabe oder der Arbeitsprobe unter ständiger Aufsicht zum
 selben Zeitpunkt am gleichen Ort (Klausur) erfolgt.
 
 (4) (weggefallen)
-
 
 ## § 16 Durchführung des Meisterprüfungsprojekts, Anfertigung der Meisterprüfungsarbeit, Bewertung
 
@@ -422,7 +404,6 @@ Handwerk oder in dem handwerksähnlichen Gewerbe, für das der
 Meisterprüfungsausschuss errichtet ist, die Meisterprüfung abgelegt
 haben oder das Recht zum Ausbilden von Lehrlingen besitzen.
 
-
 ## § 17 Durchführung mündlicher Prüfungen, Ergänzungsprüfungen, Bewertung
 
 (1) Das Fachgespräch ist als Einzelgespräch zu führen. Der Vorsitzende
@@ -458,7 +439,6 @@ mündlichen Prüfungen durchführen, die wesentlichen Abläufe, bewerten
 die Prüfungsleistungen und halten dabei die für die Bewertung
 erheblichen Tatsachen fest.
 
-
 ## § 18 Durchführung der Situationsaufgabe oder Arbeitsprobe und der praktischen Prüfung, Bewertung
 
 (1) Der Vorsitzende soll mindestens drei Mitglieder mit der
@@ -486,7 +466,6 @@ des Meisterprüfungsausschusses die wesentlichen Prüfungsabläufe,
 bewerten die Prüfungsleistungen und halten dabei die für die Bewertung
 erheblichen Tatsachen fest.
 
-
 ## § 19 Durchführung schriftlicher Prüfungen, Bewertung
 
 (1) Für die Durchführung schriftlicher Prüfungen in den Teilen II, III
@@ -511,7 +490,6 @@ wesentlichen Abläufen. Zur Vorbereitung der Beschlussfassung nach § 21
 Absatz 1 bewerten die in Absatz 2 genannten Mitglieder des
 Meisterprüfungsausschusses die Prüfungsleistungen und halten dabei die
 für die Bewertung erheblichen Tatsachen fest.
-
 
 ## § 20 Bewertungsschlüssel
 
@@ -596,10 +574,6 @@ festgesetzt. Dabei bedeuten:
 
     *   Punkte die Note: ungenügend.
 
-
-
-
-
 ## § 21 Beschlüsse über die Noten und das Bestehen, Abschluss des Meisterprüfungsverfahrens
 
 (1) Die Beschlüsse über die Noten, über das Bestehen oder
@@ -629,7 +603,6 @@ unterschreiben und von der Handwerkskammer zu beglaubigen.
 (4) Wird die Meisterprüfung in einem Schwerpunkt abgelegt, so ist dem
 Prüfling auf Antrag hierüber eine Bescheinigung auszustellen.
 
-
 ## § 22 Wiederholung der Meisterprüfung
 
 (1) Die einzelnen nicht bestandenen Teile der Meisterprüfung können
@@ -643,7 +616,6 @@ Punkten bewertet wurden. Eine Befreiung ist nur möglich, wenn sich der
 Prüfling innerhalb von drei Jahren, gerechnet vom Tag der Bescheidung
 über den nicht bestandenen Prüfungsteil, zur Wiederholungsprüfung
 anmeldet.
-
 
 ## § 23 Niederschrift
 
@@ -683,10 +655,6 @@ Meisterprüfungsausschusses zu unterschreiben ist.
     Bewertung festzuhalten und die festgestellten Fehler und Mängel zu
     bezeichnen, soweit sich diese aus der Bewertung nicht ableiten lassen.
 
-
-
-
-
 ## § 24 Prüfungsunterlagen
 
 (1) Auf schriftliches Verlangen ist dem Prüfling binnen der gesetzlich
@@ -699,7 +667,6 @@ genannten Aufbewahrungsfristen auf Antrag Einsicht gewährt werden.
 schriftlichen Prüfungsarbeiten sowie die die Befreiungen begründenden
 Unterlagen sind drei Jahre und die Niederschriften nach § 23 Absatz 1
 zehn Jahre nach Abschluss der Meisterprüfung aufzubewahren.
-
 
 ## § 25 Übergangsvorschrift
 
@@ -718,7 +685,6 @@ geltenden Vorschriften ablegen.
 (3) Bei Meisterprüfungsverordnungen, die vor dem 1. April 1998
 erlassen worden sind, gelten die Meisterprüfungsarbeit und die
 Arbeitsprobe als Prüfungsbereiche im Sinne dieser Verordnung.
-
 
 ## Schlussformel
 

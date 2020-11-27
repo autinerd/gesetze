@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 2827
 
-
-
 ## (XXXX)
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. November 1999 (BGBl.
@@ -54,11 +52,9 @@ Jahreszahl 2007 und das Münzzeichen der jeweiligen Prägestätte ("A",
 der österreichischen, italienischen und spanischen Münzprägestätte
 entstanden.
 
-
 ## Schlussformel
 
 Der Bundesminister der Finanzen
-
 
 ## (XXXX)
 

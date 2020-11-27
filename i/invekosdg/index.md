@@ -20,7 +20,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 G v. 22.4.2008 I 738
 
-
 ## § 1 Zweck und Anwendungsbereich
 
 Dieses Gesetz dient der Durchführung
@@ -55,7 +54,6 @@ erforderlich ist, die im Rahmen des Integrierten Verwaltungs- und
 Kontrollsystems (InVeKoS) durchgeführt werden oder mit diesem nach
 Artikel 26 der Verordnung (EG) Nr. 1782/2003 kompatibel zu gestalten
 sind.
-
 
 ## § 2 Datenabgleich
 
@@ -132,14 +130,12 @@ Im Übrigen gilt für die Zulässigkeit des Abrufverfahrens und der
 einzelnen Abrufe § 10 Abs. 1 Satz 2, Abs. 2 und 4 des
 Bundesdatenschutzgesetzes.
 
-
 ## § 3 Auskunft an den Betroffenen
 
 § 19 des Bundesdatenschutzgesetzes ist mit der Maßgabe anzuwenden,
 dass an die Stelle des Bundesbeauftragten für den Datenschutz die für
 den Datenschutz zuständigen Kontrollbehörden der Länder treten, soweit
 der Auskunftsanspruch sich gegen Behörden der Länder richtet.
-
 
 ## § 4 Ermächtigungen
 

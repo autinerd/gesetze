@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 8 G v. 24.3.2011 I 453
 
-
 ## Eingangsformel
 
 Auf Grund des § 16b Absatz 3 des Zweiten Buches Sozialgesetzbuch –
@@ -27,7 +26,6 @@ Dezember 2003, BGBl. I S. 2954, 2955), der durch Artikel 2 Nummer 6
 des Gesetzes vom 21. Dezember 2008 (BGBl. I S. 2917) eingefügt worden
 ist, verordnet das Bundesministerium für Arbeit und Soziales im
 Einvernehmen mit dem Bundesministerium der Finanzen:
-
 
 ## § 1 Einzelfallbezogene Bemessung des Einstiegsgeldes
 
@@ -72,7 +70,6 @@ der einzelfallbezogenen Bemessung monatlich einen Gesamtbetrag nicht
 nach § 20 Absatz 2 Satz 1 des Zweiten Buches Sozialgesetzbuch
 entspricht.
 
-
 ## § 2 Pauschale Bemessung des Einstiegsgeldes bei besonders zu fördernden Personengruppen
 
 (1) Das Einstiegsgeld kann abweichend von § 1 pauschal bemessen
@@ -87,7 +84,6 @@ den Fällen des Absatzes 1 monatlich einen Betrag nicht überschreiten,
 der 75 vom Hundert des Regelbedarfs zur Sicherung des Lebensunterhalts
 nach § 20 Absatz 2 Satz 1 des Zweiten Buches Sozialgesetzbuch
 entspricht.
-
 
 ## § 3 Inkrafttreten
 

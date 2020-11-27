@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 151 G v. 2.3.1974 I 469
 
-
 ## § 1
 
 Die Bestimmungen der Artikel 5 (Absatz 2 bis 4), 6 und 7 des
@@ -27,7 +26,6 @@ internationalen Vertrages zum Schutze der unterseeischen
 Telegraphenkabel vom 14. März 1884 finden bezüglich der unterseeischen
 Telegraphenkabel der in Artikel 1 des Vertrages bezeichneten Art auch
 innerhalb der deutschen Küstengewässer Anwendung.
-
 
 ## § 2
 
@@ -63,7 +61,6 @@ dieses Gesetzes gehörenden Küstengewässern
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu zehntausend
 Deutsche Mark geahndet werden.
 
-
 ## § 3
 
 Die §§ 113, 114 Abs. 2 des Strafgesetzbuchs finden Anwendung, wenn die
@@ -71,7 +68,6 @@ in denselben vorgesehenen Handlungen gegen die in Artikel 10 des
 Vertrages bezeichneten Schiffsbefehlshaber begangen werden, während
 dieselben in Ausübung der ihnen dortselbst erteilten Befugnisse
 begriffen sind.
-
 
 ## § 4
 

@@ -15,15 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1970, 1128
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 51 Abs. 2 des Einkommensteuergesetzes in der Fassung
 der Bekanntmachung vom 12. Dezember 1969 (Bundesgesetzbl. I S. 2265)
 verordnet die Bundesregierung mit Zustimmung des Bundestages und des
 Bundesrates:
-
 
 ## § 1 Vorübergehender Ausschluß der Absetzung für Abnutzung in fallenden Jahresbeträgen bei beweglichen Wirtschaftsgütern des Anlagevermögens und bei zum Anlagevermögen gehörenden Gebäuden mit Ausnahme der Wohngebäude
 
@@ -55,14 +52,12 @@ Hundert Wohnzwecken dienen.
 (4) Zeitpunkt der Anschaffung ist der Zeitpunkt der Lieferung,
 Zeitpunkt der Herstellung ist der Zeitpunkt der Fertigstellung.
 
-
 ## § 2 Anwendung im Land Berlin
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit Artikel 10
 des Steueränderungsgesetzes 1966 vom 23. Dezember 1966
 (Bundesgesetzbl. I S. 702) auch im Land Berlin.
-
 
 ## § 3 Inkrafttreten
 

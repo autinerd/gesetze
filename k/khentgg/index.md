@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 G v. 21.7.2012 I 1613
 
-
 ## Abschnitt 1 - Allgemeine Vorschriften
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -60,7 +57,6 @@ stationsersetzender Eingriffe wird für die gesetzlich versicherten
 Patienten nach § 115b des Fünften Buches Sozialgesetzbuch und für
 sonstige Patienten nach den für sie geltenden Vorschriften,
 Vereinbarungen oder Tarifen vergütet.
-
 
 ### § 2 Krankenhausleistungen
 
@@ -118,10 +114,7 @@ Krankenhaus sicherzustellen, dass diese für ihre Tätigkeit im
 Krankenhaus die gleichen Anforderungen erfüllen, wie sie auch für fest
 im Krankenhaus angestellte Ärztinnen und Ärzte gelten.
 
-
 ## Abschnitt 2 - Vergütung der Krankenhausleistungen
-
-
 
 ### § 3 Grundlagen
 
@@ -145,10 +138,6 @@ vergütet durch
 
 
 5.  Zu- und Abschläge nach § 7 Abs. 1.
-
-
-
-
 
 ### § 4 Vereinbarung eines Erlösbudgets ab dem Jahr 2009
 
@@ -386,7 +375,6 @@ pflegerischen Aufwand aufweisen.
 
 (14) (weggefallen)
 
-
 ### § 5 Vereinbarung und Abrechnung von Zu- und Abschlägen
 
 (1) Die nach § 9 Abs. 1 Satz 1 Nr. 3 vereinbarten Regelungen für
@@ -475,7 +463,6 @@ Abschlag ist auch ohne Vereinbarung mit den anderen Vertragsparteien
 in Rechnung zu stellen. Weicht die abgerechnete Summe von der späteren
 Vereinbarung ab, ist der Abweichungsbetrag durch Verrechnung mit dem
 Zu- oder Abschlag nach Absatz 4 Satz 1 vollständig auszugleichen.
-
 
 ### § 6 Vereinbarung sonstiger Entgelte
 
@@ -576,10 +563,7 @@ ermitteln und auszugleichen.
 
 (4) (weggefallen)
 
-
 ## Abschnitt 3 - Entgeltarten und Abrechnung
-
-
 
 ### § 7 Entgelte für allgemeine Krankenhausleistungen
 
@@ -659,7 +643,6 @@ ermittelt:
 
 Die auf der Bundesebene vereinbarten Abrechnungsbestimmungen nach § 9
 Abs. 1 Satz 1 Nr. 3 sind anzuwenden.
-
 
 ### § 8 Berechnung der Entgelte
 
@@ -793,10 +776,7 @@ entsprechende Empfehlung im Benehmen mit dem Verband der privaten
 Krankenversicherung ab. Das Verfahren nach § 301 des Fünften Buches
 Sozialgesetzbuch bleibt unberührt.
 
-
 ## Abschnitt 4 - Vereinbarungsverfahren
-
-
 
 ### § 9 Vereinbarung auf Bundesebene
 
@@ -862,7 +842,6 @@ auf Antrag einer Vertragspartei die Schiedsstelle nach § 18a Absatz 6
 des Krankenhausfinanzierungsgesetzes; eine Entscheidung zu Absatz 1
 Satz 1 Nummer 5a hat die Schiedsstelle bis zum 15. November des
 jeweiligen Jahres zu treffen.
-
 
 ### § 10 Vereinbarung auf Landesebene
 
@@ -1123,7 +1102,6 @@ nicht.
 eine wissenschaftliche Untersuchung über die Ursachen
 unterschiedlicher Basisfallwerte der Länder in Auftrag.
 
-
 ### § 11 Vereinbarung für das einzelne Krankenhaus
 
 (1) Nach Maßgabe der §§ 3 bis 6 und unter Beachtung des
@@ -1172,7 +1150,6 @@ Versorgungsauftrag und zur Leistungsstruktur des Krankenhauses sowie
 zur Höhe der Zu- und Abschläge nach § 5 so frühzeitig gemeinsam
 vorzuklären, dass die Verhandlung zügig durchgeführt werden kann.
 
-
 ### § 12 Vorläufige Vereinbarung
 
 Können sich die Vertragsparteien insbesondere über die Höhe des
@@ -1186,7 +1163,6 @@ Mindererlöse des Krankenhauses infolge der erhobenen vorläufigen
 Entgelte werden durch Zu- oder Abschläge auf die Entgelte des
 laufenden oder eines folgenden Vereinbarungszeitraums ausgeglichen.
 
-
 ### § 13 Schiedsstelle
 
 (1) Kommt eine Vereinbarung nach § 10 oder § 11 ganz oder teilweise
@@ -1197,7 +1173,6 @@ Vertragsparteien geltenden Rechtsvorschriften gebunden.
 
 (2) Die Schiedsstelle entscheidet innerhalb von sechs Wochen über die
 Gegenstände, über die keine Einigung erreicht werden konnte.
-
 
 ### § 14 Genehmigung
 
@@ -1228,7 +1203,6 @@ Rechtsauffassung der Genehmigungsbehörde erneut zu entscheiden.
 Basisfallwerts ist der Verwaltungsrechtsweg nur für die
 Vertragsparteien auf Landesebene gegeben. Ein Vorverfahren findet
 nicht statt; die Klage hat keine aufschiebende Wirkung.
-
 
 ### § 15 Laufzeit
 
@@ -1282,14 +1256,9 @@ werden grundsätzlich im restlichen Vereinbarungszeitraum ausgeglichen.
 Der Ausgleichsbetrag wird im Rahmen des Zu- oder Abschlags nach § 5
 Abs. 4 abgerechnet.
 
-
 ## Abschnitt 5 - Gesondert berechenbare ärztliche und andere Leistungen
 
-
-
 ### § 16 (weggefallen)
-
-
 
 ### § 17 Wahlleistungen
 
@@ -1362,7 +1331,6 @@ müssen die Wahlleistungsentgelte mindestens die dafür nach § 7 Abs. 2
 Satz 2 Nr. 4, 5 und 7 der Bundespflegesatzverordnung in der am 31.
 Dezember 2012 geltenden Fassung abzuziehenden Kosten decken.
 
-
 ### § 18 Belegärzte
 
 (1) Belegärzte im Sinne dieses Gesetzes sind nicht am Krankenhaus
@@ -1406,7 +1374,6 @@ Hauptabteilungen in Höhe von 80 Prozent ab. Bei diesen Krankenhäusern
 ist bei der Vereinbarung sonstiger Entgelte nach § 6 oder nach § 6 der
 Bundespflegesatzverordnung die Vergütung des Belegarztes
 einzubeziehen.
-
 
 ### § 19 Kostenerstattung der Ärzte
 
@@ -1452,10 +1419,7 @@ Kostenerstattung hinausgehendes Nutzungsentgelt festlegen, und
 sonstige Abgaben der Ärzte werden durch die Vorschriften der Absätze 1
 bis 4 nicht berührt.
 
-
 ## Abschnitt 6 - Sonstige Vorschriften
-
-
 
 ### § 20 Zuständigkeit der Krankenkassen auf Landesebene
 
@@ -1466,7 +1430,6 @@ die knappschaftliche Krankenversicherung die Deutsche
 Rentenversicherung Knappschaft-Bahn-See und für die
 Krankenversicherung der Landwirte die Sozialversicherung für
 Landwirtschaft, Forsten und Gartenbau wahr.
-
 
 ### § 21 Übermittlung und Nutzung von Daten
 
@@ -1665,7 +1628,6 @@ teilweise nicht zustande, entscheidet auf Antrag einer Vertragspartei
 die Schiedsstelle nach § 18a Abs. 6 des
 Krankenhausfinanzierungsgesetzes. Das Benehmen nach Absatz 4 ist
 entsprechend herzustellen.
-
 
 ### Anlage 1 Aufstellung der Entgelte und Budgetermittlung (AEB) nach § 11 Abs. 4 des Krankenhausentgeltgesetzes (KHEntgG)
 

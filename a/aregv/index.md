@@ -18,9 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 V v. 20.7.2012 I 1635
 
-
 ## Teil 1 - Allgemeine Vorschriften
-
 
 ### § 1 Anwendungsbereich
 
@@ -38,18 +36,14 @@ wenn bei der nächsten Kostenprüfung nach § 6 Absatz 1 für diesen
 Netzbetreiber noch keine hinreichenden Daten für das Basisjahr
 vorliegen.
 
-
 ### § 2 Beginn des Verfahrens
 
 Das Verfahren zur Bestimmung von Erlösobergrenzen wird von Amts wegen
 eingeleitet.
 
-
 ## Teil 2 - Allgemeine Vorschriften zur Anreizregulierung
 
-
 ### Abschnitt 1 - Regulierungsperioden
-
 
 #### § 3 Beginn und Dauer der Regulierungsperioden
 
@@ -60,9 +54,7 @@ folgenden Kalenderjahres.
 
 (2) Eine Regulierungsperiode dauert fünf Jahre.
 
-
 ### Abschnitt 2 - Allgemeine Vorgaben zur Bestimmung der Erlösobergrenzen
-
 
 #### § 4 Erlösobergrenzen
 
@@ -120,7 +112,6 @@ Der Antrag auf Anpassung nach Satz 1 Nr. 1 kann einmal jährlich zum
 entsprechend anzupassen. Die Anpassung nach Satz 1 erfolgt höchstens
 einmal jährlich zum 1. Januar des folgenden Kalenderjahres.
 
-
 #### § 5 Regulierungskonto
 
 (1) Die Differenz zwischen den nach § 4 zulässigen Erlösen und den vom
@@ -171,7 +162,6 @@ Satz 3 zu verzinsen. Eine Anpassung der Erlösobergrenzen innerhalb der
 Regulierungsperiode auf Grund der Änderung der jährlich verbuchten
 Differenzen nach Absatz 1 findet nicht statt.
 
-
 #### § 6 Bestimmung des Ausgangsniveaus der Erlösobergrenze
 
 (1) Die Regulierungsbehörde ermittelt das Ausgangsniveau für die
@@ -200,12 +190,10 @@ bleiben sie bei der Ermittlung des Ausgangsniveaus unberücksichtigt. §
 § 3 Absatz 1 Satz 5 zweiter Halbsatz der Stromnetzentgeltverordnung
 finden keine Anwendung.
 
-
 #### § 7 Regulierungsformel
 
 Die Bestimmung der Erlösobergrenzen für die Netzbetreiber erfolgt in
 Anwendung der Regulierungsformel in Anlage 1.
-
 
 #### § 8 Allgemeine Geldwertentwicklung
 
@@ -216,7 +204,6 @@ nach § 4 Abs. 1 wird der Verbraucherpreisgesamtindex des vorletzten
 Kalenderjahres vor dem Jahr, für das die Erlösobergrenze gilt,
 verwendet. Dieser wird ins Verhältnis gesetzt zum
 Verbraucherpreisgesamtindex für das Basisjahr.
-
 
 #### § 9 Genereller sektoraler Produktivitätsfaktor
 
@@ -247,7 +234,6 @@ ermittelten generellen sektoralen Produktivitätsfaktor anwenden.
 (5) Die Einbeziehung des generellen sektoralen Produktivitätsfaktors
 in die Erlösobergrenzen erfolgt durch Potenzierung der Werte nach den
 Absätzen 2 und 3 mit dem jeweiligen Jahr der Regulierungsperiode.
-
 
 #### § 10 Erweiterungsfaktor
 
@@ -294,7 +280,6 @@ anzuwenden.
 
 (4) Die Absätze 1 bis 3 finden bei Betreibern von Übertragungs- und
 Fernleitungsnetzen keine Anwendung.
-
 
 #### § 11 Beeinflussbare und nicht beeinflussbare Kostenanteile
 
@@ -464,7 +449,6 @@ soweit die Regulierungsbehörde dies nach § 32 Absatz 1 Nummer 4a
 festgelegt hat. Kapitalkosten oder Fremdkapitalkosten gelten nicht als
 volatile Kostenanteile.
 
-
 #### § 12 Effizienzvergleich
 
 (1) Die Bundesnetzagentur führt vor Beginn der Regulierungsperiode mit
@@ -523,7 +507,6 @@ Bundesnetzagentur verwenden. Zur Sicherstellung der Belastbarkeit der
 Ergebnisse des Effizienzvergleichs sind auch Netzbetreiber, die nicht
 in ihre Zuständigkeit nach § 54 Abs. 2 des Energiewirtschaftsgesetzes
 fallen, in den Effizienzvergleich einzubeziehen.
-
 
 #### § 13 Parameter für den Effizienzvergleich
 
@@ -605,7 +588,6 @@ Regulierungsbehörde die Vergleichsparameter
 zu verwenden. Darüber hinaus können weitere Parameter nach Maßgabe des
 Absatzes 3 verwendet werden.
 
-
 #### § 14 Bestimmung der Kosten zur Durchführung des Effizienzvergleichs
 
 (1) Die im Rahmen des Effizienzvergleichs als Aufwandsparameter
@@ -657,7 +639,6 @@ Kalenderjahre bezogenen Durchschnitt der Preisänderungsrate nach dem
 vom Statistischen Bundesamt veröffentlichten
 Verbraucherpreisgesamtindex zu ermäßigen.
 
-
 #### § 15 Ermittlung der Ineffizienzen
 
 (1) Weist ein Netzbetreiber nach, dass Besonderheiten seiner
@@ -685,7 +666,6 @@ Kostenanteile und den mit dem in Satz 1 genannten Effizienzwert
 multiplizierten Gesamtkosten nach Abzug der dauerhaft nicht
 beeinflussbaren Kosten.
 
-
 #### § 16 Effizienzvorgaben
 
 (1) Die Festlegung der Erlösobergrenzen durch die Regulierungsbehörde
@@ -712,9 +692,7 @@ Energiewirtschaftsgesetz regulierten Bereich üblich sind, erheblich
 unterschritten werden. Eine Berücksichtigung struktureller
 Besonderheiten erfolgt ausschließlich nach Maßgabe des § 15 Abs. 1.
 
-
 ### Abschnitt 3 - Ermittlung der Netzentgelte
-
 
 #### § 17 Netzentgelte
 
@@ -739,9 +717,7 @@ eines Kalenderjahres. Vorgelagerte Netzbetreiber haben die Höhe der
 geplanten Anpassung der Netzentgelte den nachgelagerten Netzbetreibern
 rechtzeitig vor dem Zeitpunkt nach Satz 1 mitzuteilen.
 
-
 ### Abschnitt 4 - Qualitätsvorgaben
-
 
 #### § 18 Qualitätsvorgaben
 
@@ -749,7 +725,6 @@ Qualitätsvorgaben dienen der Sicherung eines langfristig angelegten,
 leistungsfähigen und zuverlässigen Betriebs von
 Energieversorgungsnetzen. Hierzu dienen Qualitätselemente nach den §§
 19 und 20 und die Berichtspflichten nach § 21.
-
 
 #### § 19 Qualitätselement in der Regulierungsformel
 
@@ -778,7 +753,6 @@ unter Einhaltung der Produktqualität zu transportieren. Die
 Netzleistungsfähigkeit beschreibt die Fähigkeit des
 Energieversorgungsnetzes, die Nachfrage nach Übertragung von Energie
 zu befriedigen.
-
 
 #### § 20 Bestimmung des Qualitätselements
 
@@ -823,7 +797,6 @@ abzustellen ist. Die Bundesnetzagentur nimmt eine Evaluierung nach §
 Sätzen 1 und 3 der Erfüllung der unter § 1 des
 Energiewirtschaftsgesetzes genannten Zwecke dient.
 
-
 #### § 21 Bericht zum Investitionsverhalten
 
 Die Netzbetreiber sind verpflichtet, auf Anforderung der
@@ -839,12 +812,9 @@ Abschreibungen und ihrer Versorgungsqualität stehen. Die
 Regulierungsbehörde kann Ergänzungen und Erläuterungen des Berichts
 verlangen.
 
-
 ## Teil 3 - Besondere Vorschriften zur Anreizregulierung
 
-
 ### Abschnitt 1 - Betreiber von Übertragungs- und Fernleitungsnetzen
-
 
 #### § 22 Sondervorschriften für den Effizienzvergleich
 
@@ -905,7 +875,6 @@ nach Absatz 2 durchzuführen. Die relative Referenznetzanalyse kann
 auch ergänzend zum internationalen Effizienzvergleich nach Absatz 3
 Satz 4 durchgeführt werden, um die Belastbarkeit der Ergebnisse zu
 verbessern.
-
 
 #### § 23 Investitionsmaßnahmen
 
@@ -1055,9 +1024,7 @@ Maßnahmen die Gesamtkosten des Netzbetreibers nach Abzug der dauerhaft
 nicht beeinflussbaren Kostenanteile um mindestens 0,5 Prozent erhöhen.
 Absatz 1 Satz 3 und 4 sowie die Absätze 2a bis 5 gelten entsprechend.
 
-
 ### Abschnitt 2 - Besondere Vorschriften für kleine Netzbetreiber
-
 
 #### § 24 Vereinfachtes Verfahren
 
@@ -1107,9 +1074,7 @@ vorletzten der Regulierungsperiode vorangehenden Kalenderjahres. Die
 Bundesnetzagentur ist über die Entscheidung über den Antrag durch die
 Landesregulierungsbehörde zu unterrichten.
 
-
 ### Abschnitt 3 - Pauschalierter Investitionszuschlag
-
 
 #### § 25 Pauschalierter Investitionszuschlag
 
@@ -1138,9 +1103,7 @@ Regulierungsbehörde geltend zu machen.
 (5) Die Absätze 1 bis 4 finden auf Betreiber von Übertragungs- und
 Fernleitungsnetzen keine Anwendung.
 
-
 ### Abschnitt 4 - Übergang von Netzen, Netzzusammenschlüsse und -aufspaltungen
-
 
 #### § 26 Übergang von Netzen, Netzzusammenschlüsse und -aufspaltungen
 
@@ -1160,9 +1123,7 @@ begründen, welcher Erlösanteil dem übergehenden und dem verbleibenden
 Netzteil zuzurechnen ist. Die Summe beider Erlösanteile darf die für
 dieses Netz insgesamt festgelegte Erlösobergrenze nicht überschreiten.
 
-
 ## Teil 4 - Sonstige Bestimmungen
-
 
 ### § 27 Datenerhebung
 
@@ -1214,7 +1175,6 @@ ermittelt sie insbesondere die erforderlichen Tatsachen
 Anreizregulierungssystems und zur Erstellung der Berichte nach § 33
 notwendigen Daten erheben.
 
-
 ### § 28 Mitteilungspflichten
 
 Die Netzbetreiber teilen der Regulierungsbehörde mit
@@ -1265,10 +1225,6 @@ Die Netzbetreiber teilen der Regulierungsbehörde mit
     § 26, insbesondere den Übergang oder die Addition von Erlösobergrenzen
     nach § 26 Abs. 1.
 
-
-
-
-
 ### § 29 Übermittlung von Daten
 
 (1) Die Bundesnetzagentur und die Landesregulierungsbehörden
@@ -1294,7 +1250,6 @@ Datenbank. Die Landesregulierungsbehörden haben Zugriff auf diese
 Datenbank. Der Zugriff beschränkt sich auf die Daten, die zur
 Aufgabenerfüllung der Landesregulierungsbehörden erforderlich sind.
 
-
 ### § 30 Fehlende oder unzureichende Daten
 
 Soweit die für die Bestimmung der Erlösobergrenze nach § 4 Abs. 1,
@@ -1307,7 +1262,6 @@ kann die Regulierungsbehörde die fehlenden Daten durch Schätzung oder
 durch eine Referenznetzanalyse unter Verwendung von bei der
 Regulierungsbehörde vorhandenen oder ihr bekannten Daten bestimmen. §
 12 Abs. 4 Satz 2 und § 14 Abs. 3 Satz 4 und 5 bleiben unberührt.
-
 
 ### § 31 Veröffentlichung von Daten
 
@@ -1325,7 +1279,6 @@ ihrer Internetseite.
 
 (3) Eine Veröffentlichung von Betriebs- und Geschäftsgeheimnissen
 erfolgt nicht.
-
 
 ### § 32 Festlegungen oder Genehmigungen der Regulierungsbehörde
 
@@ -1412,7 +1365,6 @@ Durchführung, näheren Ausgestaltung und zu den Verfahren des
 Effizienzvergleichs und der relativen Referenznetzanalyse für
 Betreiber von Übertragungs- und Fernleitungsnetzen nach § 22.
 
-
 ### § 33 Evaluierung und Berichte der Bundesnetzagentur
 
 (1) Die Bundesnetzagentur legt dem Bundesministerium für Wirtschaft
@@ -1460,9 +1412,7 @@ Entwicklung des Investitionsverhaltens der Netzbetreiber und zur
 Notwendigkeit weiterer Maßnahmen zur Vermeidung von
 Investitionshemmnissen vor.
 
-
 ## Teil 5 - Schlussvorschriften
-
 
 ### § 34 Übergangsregelungen
 
@@ -1537,7 +1487,6 @@ Investitionsbudgets, die bis zum 30. Juni 2011 gemäß § 23 Absatz 3 in
 der bis zum 22. März 2012 geltenden Fassung beantragt wurden und die
 im Jahr 2012 kostenwirksam werden sollen, findet diese Verordnung in
 der ab dem 22. März 2012 geltenden Fassung entsprechende Anwendung.
-
 
 ### Anlage 1 (zu § 7)
 
@@ -1685,7 +1634,6 @@ Dabei ist:
 
 Das Basisjahr bestimmt sich jeweils nach Maßgabe des § 6 Absatz 1.
 
-
 ### Anlage 2 (zu § 10)
 
 ( Fundstelle: BGBl. I 2007, 2542)
@@ -1739,7 +1687,6 @@ t,i Höhe der Last in der Ebene i im Jahr t der jeweiligen
 
 Der Erweiterungsfaktor für das gesamte Netz ist der gewichtete
 Mittelwert über alle Netzebenen.
-
 
 ### Anlage 3 (zu § 12)
 

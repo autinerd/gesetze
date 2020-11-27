@@ -21,7 +21,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 5 G v. 24.8.2009 I 2942
 
-
 ## § 1 Haftung bei Personenschäden
 
 (1) Wird ein Reisender getötet oder körperlich verletzt, bestimmen
@@ -45,13 +44,11 @@ Luftverkehrsgesetzes entsprechend anzuwenden.
 sich die örtliche Zuständigkeit nach § 56 Abs. 3 Satz 2 des
 Luftverkehrsgesetzes.
 
-
 ## § 2 Haftung bei Güterschäden
 
 Werden Güter zerstört, beschädigt oder gehen sie verloren, bestimmt
 sich die Art des nach Artikel 18 des Montrealer Übereinkommens zu
 leistenden Schadensersatzes nach § 429 des Handelsgesetzbuchs.
-
 
 ## § 3 Umrechnung des Sonderziehungsrechts des Internationalen Währungsfonds
 
@@ -62,7 +59,6 @@ Haftungshöchstbeträge für Schäden wegen Zerstörung, Verlust,
 Beschädigung oder verspäteter Ablieferung von Gütern nach § 431 Abs. 4
 des Handelsgesetzbuchs, für  andere Schäden nach § 49b des
 Luftverkehrsgesetzes.
-
 
 ## § 4 Versicherungspflicht
 
@@ -104,7 +100,6 @@ zu regeln. Soweit Versicherungsnachweise bei Landesbehörden zu
 hinterlegen sind, bleibt die Bestimmung der zuständigen Behörde dem
 Landesrecht vorbehalten.
 
-
 ## § 5 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
@@ -130,7 +125,6 @@ fünfzigtausend Euro geahndet werden.
 (3) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes
 über Ordnungswidrigkeiten ist, soweit dieses Gesetz nicht von
 Landesbehörden ausgeführt wird, das Luftfahrt-Bundesamt.
-
 
 ## § 6 Zeitlicher Anwendungsbereich
 

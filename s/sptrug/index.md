@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 8 Abs. 9 G v. 4.12.2004 I 3166
 
-
 ## § 1 Möglichkeit der Spaltung
 
 Eine Kapitalgesellschaft (Gesellschaft mit beschränkter Haftung,
@@ -47,7 +46,6 @@ Kapitalgesellschaften an die Treuhandanstalt oder im Falle des
 mittelbaren Besitzes von Geschäftsanteilen an die Gesellschaft, in
 deren Hand sich die Geschäftsanteile der übertragenden Gesellschaft
 mit beschränkter Haftung befinden.
-
 
 ## § 2 Spaltungsplan
 
@@ -124,7 +122,6 @@ durch mindestens ein anderes Blatt bekanntzumachen.
 (4) Der Spaltungsplan ist gleichzeitig dem zuständigen Betriebsrat
 zuzuleiten.
 
-
 ## § 3 Anwendung des Gründungsrechts
 
 Auf die Gründung jeder neuen Gesellschaft sind die für deren
@@ -136,7 +133,6 @@ Aktiengesetzes trifft auch die Treuhandanstalt sowie bei der Spaltung
 einer Gesellschaft mit beschränkter Haftung, von der sich
 Geschäftsanteile in der Hand einer anderen Gesellschaft befinden,
 diese Gesellschaft.
-
 
 ## § 4 Spaltungsbericht
 
@@ -158,7 +154,6 @@ nicht unerheblichen Nachteil zuzufügen.
 (3) Der Bericht ist nicht erforderlich, wenn die Treuhandanstalt
 gegenüber dem Registergericht erklärt, auf seine Erstattung zu
 verzichten.
-
 
 ## § 5 Prüfung der Spaltung
 
@@ -190,7 +185,6 @@ angemessen ist. Dabei ist anzugeben,
 
 (2) § 4 Abs. 2 und 3 gilt entsprechend.
 
-
 ## § 6 Vorbereitung der Beschlußfassung
 
 Im Falle des § 4 Abs. 1 hat der Vorstand der übertragenden
@@ -216,10 +210,6 @@ zu stellen:
 
 4.  gegebenenfalls die nach § 4 oder § 5 erstatteten Berichte.
 
-
-
-
-
 ## § 7 Spaltungsbeschluß
 
 (1) Die Spaltung wird nur wirksam, wenn ihr die Gesellschafter oder
@@ -231,7 +221,6 @@ Treuhandanstalt vor der Beschlußfassung über jede wesentliche
 Veränderung des Vermögens dieser Gesellschaft, die zwischen der
 Aufstellung des Spaltungsplans und dem Zeitpunkt der Beschlußfassung
 eingetreten ist, zu unterrichten.
-
 
 ## § 8 Anmeldung und Eintragung der neuen Gesellschaften
 
@@ -247,7 +236,6 @@ Eintragung im Handelsregister des Sitzes jeder neuen Gesellschaft ist
 mit dem Vermerk zu versehen, daß sie erst mit der Eintragung der
 Spaltung im Handelsregister des Sitzes der übertragenden Gesellschaft
 wirksam wird.
-
 
 ## § 9 Anmeldung und Eintragung der Spaltung
 
@@ -275,7 +263,6 @@ Vertretungsorgan auch zu erklären, daß die durch Gesetz und
 Gesellschaftsvertrag oder Satzung vorgesehenen Voraussetzungen für die
 Gründung dieser Gesellschaft unter Berücksichtigung der Abspaltung im
 Zeitpunkt der Anmeldung vorliegen.
-
 
 ## § 10 Wirkungen der Eintragung
 
@@ -325,7 +312,6 @@ tritt nicht ein, soweit die Treuhandanstalt gegenüber dem
 Registergericht am Sitz der übertragenden Gesellschaft erklärt hat,
 für die Erfüllung von Verbindlichkeiten einzustehen.
 
-
 ## § 11 Schutz der Gläubiger sowie der Inhaber von Sonderrechten
 
 (1) Für die Verbindlichkeiten der übertragenden Gesellschaft haften
@@ -352,7 +338,6 @@ nicht durch eine Umgestaltung der bisherigen Rechte in der
 übertragenden Gesellschaft geschehen kann. Für die Erfüllung dieser
 Verpflichtung haften die an der Spaltung beteiligten Gesellschaften
 als Gesamtschuldner.
-
 
 ## § 12 Heilung unwirksamer Einzelübertragungen, Haftung für Altverbindlichkeiten
 
@@ -383,7 +368,6 @@ nicht ein, soweit die Treuhandanstalt gegenüber dem Registergericht am
 Sitz des übertragenden Rechtsträgers erklärt hat, für die Erfüllung
 von Verbindlichkeiten einzustehen.
 
-
 ## § 13 Übergangsmandat des Betriebsrats bei Betriebsspaltung
 
 (1) Hat die Spaltung der Gesellschaft die Spaltung eines Betriebs zur
@@ -409,7 +393,6 @@ Vorschriften über die Beteiligungsrechte des Betriebsrats nicht
 anzuwenden, soweit sie Angelegenheiten betreffen, die den Wettbewerb
 zwischen diesen Gesellschaften beeinflussen können.
 
-
 ## § 14 Abspaltung von Betrieben oder Betriebsteilen
 
 Die Leitung oder der Betriebsrat eines Betriebes oder Betriebsteiles
@@ -422,7 +405,6 @@ hierfür den Entwurf eines Spaltungsplans nach § 2 aufstellt und
 gegebenenfalls der Treuhandanstalt den Erwerb der Geschäftsanteile
 oder Aktien gegen angemessenes Entgelt anbietet. Das Vertretungsorgan
 hat dem Verlangen binnen eines Monats zu entsprechen.
-
 
 ## § 15 Strafvorschriften
 
@@ -456,11 +438,9 @@ Gesellschaft in einer Erklärung nach § 9 Abs. 3 über die Deckung des
 Stammkapitals oder Grundkapitals der übertragenden Gesellschaft
 falsche Angaben macht.
 
-
 ## § 16
 
 -
-
 
 ## § 16a Anwendung auf den Rechtsnachfolger
 
@@ -468,7 +448,6 @@ Soweit sämtliche Geschäftsanteile oder Aktien einer
 Kapitalgesellschaft im Sinne des § 1 auf Grund des § 23a Abs. 1 und 2
 des Treuhandgesetzes auf einen Rechtsnachfolger übertragen worden
 sind, tritt diese an die Stelle der Treuhandanstalt.
-
 
 ## § 17 Inkrafttreten
 

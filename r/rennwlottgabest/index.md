@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 G v. 29.6.2012 I 1424
 
-
 ## Eingangsformel
 
 Auf Grund der §§ 3, 4 Abs. 1 Satz 3, § 13 Abs. 2, §§ 15, 20, 22, 25
@@ -26,27 +25,17 @@ des Rennwett- und Lotteriegesetzes vom 8. April 1922 (Reichsgesetzbl.
 S. 393) wird, soweit erforderlich, mit Zustimmung des Reichsrats
 folgendes bestimmt:
 
-
 ## A. - Rennwetten
 
-
-
 ### I. - Erteilung der Erlaubnis
-
-
 
 #### § 1
 
 -
 
-
 #### - - Voraussetzungen für die Erteilung der Erlaubnis
 
-
-
 ##### a) - an Rennvereine zum Betrieb eines Totalisators
-
-
 
 ###### § 2
 
@@ -104,10 +93,7 @@ entscheidet die nach Landesrecht zuständige Behörde oder die von ihr
 bestimmte Stelle. Den Buchmachern ist auf der Rennbahn ein bestimmter
 Platz anzuweisen.
 
-
 ##### b) - an Buchmacher
-
-
 
 ###### § 3
 
@@ -139,19 +125,13 @@ die Erlaubnis zu widerrufen.
 Oberfinanzdirektion, in deren Bezirk der Buchmacher zugelassen ist,
 freigegeben werden.
 
-
 #### Inhalt der Erlaubnis
-
-
 
 ##### § 4
 
 -
 
-
 ##### b) - besondere Bestimmungen für Rennvereine
-
-
 
 ###### § 5
 
@@ -163,10 +143,7 @@ Totalisatorunternehmungen zu unterhalten. Die näheren Bestimmungen für
 den Betrieb von Wettannahmestellen trifft die nach Landesrecht
 zuständige Behörde.
 
-
 ##### c) - besondere Bestimmungen für Buchmacher
-
-
 
 ###### § 6
 
@@ -191,10 +168,7 @@ sind.
 
 (3)
 
-
 ##### d) - Erlaubnisurkunde für Buchmacher
-
-
 
 ###### § 7
 
@@ -202,10 +176,7 @@ sind.
 eine Urkunde auszustellen, aus der sich die Nebenbestimmungen der
 Erlaubnis ergeben.
 
-
 ##### e) - Bekanntmachungen. Totalisator- und Buchmacherliste
-
-
 
 ###### § 8
 
@@ -226,14 +197,9 @@ Gewerbesteuern. ...
 Liste zu führen. Die Anzeigen (Absatz 1 Satz 2) sind als Belege zu den
 Listen zu nehmen.
 
-
 ### II. - Abschluß der Wette
 
-
-
 #### - - Wettschein beim Totalisator
-
-
 
 ##### § 9
 
@@ -254,17 +220,9 @@ c)  den Betrag des Wetteinsatzes,
 
 d)  den Namen des Unternehmers.
 
-
-
-
-
 #### - - Geschäftsführung des Buchmachers
 
-
-
 ##### a) - Wettschein
-
-
 
 ###### § 10
 
@@ -312,10 +270,7 @@ gebraucht werden, insbesondere ist es gestattet, das Datum mit Zahlen
 zu bezeichnen; farbige Stempelabdrucke sind zur Ausfüllung der
 Wettscheine zugelassen.
 
-
 ##### b) - Aufbewahrungsfrist
-
-
 
 ###### § 11
 
@@ -325,15 +280,11 @@ Wetten, wie Brief- und Telegrammwechsel, die Aufstellungen und
 Abrechnungen mit den Buchmachergehilfen sind zeitlich geordnet 3 Jahre
 lang aufzubewahren.
 
-
 ###### § 12
 
 -
 
-
 ##### d) - Nachweise
-
-
 
 ###### § 13
 
@@ -355,23 +306,15 @@ Wettgeschäft Buch zu führen. Aus der Buchführung müssen
 
 zu ersehen sein. § 11 gilt entsprechend.
 
-
 ### III. - Steuervorschriften
 
-
-
 #### - - Sachliche Zuständigkeit
-
-
 
 ##### § 14
 
 Die Rennwettsteuer wird von den Finanzämtern verwaltet.
 
-
 #### - - Örtliche Zuständigkeit
-
-
 
 ##### § 15
 
@@ -381,14 +324,9 @@ Verein den Ort seiner Leitung oder der Buchmacher seinen Wohnsitz hat.
 (2) Die Vorschriften der §§ 51, 52, 57 bis 63
 der Reichsabgabenordnung              finden Anwendung.
 
-
 #### - - Abrechnungsverfahren
 
-
-
 ##### a) - die einzelnen Fälle
-
-
 
 ###### § 16
 
@@ -400,13 +338,7 @@ a)  Vereine,
 b)  Buchmacher hinsichtlich der durch Eintragung in das Wettbuch zustande
     gekommenen Wetten (§ 4 Abs. 1 Satz 2 des Gesetzes).
 
-
-
-
-
 ##### b) - Aufstellung von Nachweisungen
-
-
 
 ###### § 17
 
@@ -439,10 +371,7 @@ Finanzamt dem Antrag zu entsprechen.
 über die getätigten Wettabschlüsse vorhandenen Bücher und Listen der
 Vereine sowie die Wettbücher der Buchmacher.
 
-
 ##### c) - Einreichung der Nachweisung und Zahlung der Steuer
-
-
 
 ###### § 18
 
@@ -470,10 +399,7 @@ Entrichtung durch Übersendung oder Überweisung des Betrags ist
 anzugeben, daß es sich um Wettsteuer handelt und auf welchen Zeitraum
 der Betrag entfällt.
 
-
 ##### d) - Überwachung des Eingangs der Nachweisungen
-
-
 
 ###### § 19
 
@@ -484,10 +410,7 @@ durch die Totalisatorliste und die Buchmacherliste (§ 8) zu
 (2) Sind die Nachweisungen nicht rechtzeitig vorgelegt, so hat das
 Finanzamt den Verein oder den Buchmacher zur Einreichung aufzufordern.
 
-
 ##### e) - Prüfung und Festsetzung durch die Steuerbehörden
-
-
 
 ###### § 20
 
@@ -497,27 +420,17 @@ Geschäftsbücher, Wettbücher und Schriftstücke zur Einsicht vorzulegen.
 Auf Antrag kann die Vorlegung und Prüfung in den Geschäftsräumen des
 Vereins oder des Buchmachers geschehen.
 
-
 ##### f) - *Ku Nachzahlung *KE
-
-
 
 ###### § 21
 
 -
 
-
 #### - - *Ku Wettscheine *KE
-
-
 
 ##### (XXXX) §§ 22 bis 25
 
-
-
 #### - - Erstattung der Rennwettsteuer
-
-
 
 ##### § 26
 
@@ -567,14 +480,9 @@ die Entrichtung der Wettsteuer nachgewiesen ist (§ 17), zu vermerken.
 
 (5) Die Erstattungen sind tunlichst zu beschleunigen.
 
-
 ## B. - Lotterie- und Sportwettensteuer
 
-
-
 ### - - Steuerpflichtige Lotterien
-
-
 
 #### § 27
 
@@ -596,27 +504,20 @@ Gegenständen zur Beifügung der Namen der Spieler und zur Erhebung
 eines entsprechenden Beteiligungsbetrags vom Spielunternehmer in
 Umlauf gesetzt werden, gelten nicht als Spielausweise.
 
-
 #### § 28
 
 Öffentliche Ausspielungen, bei denen den Teilnehmern keinerlei
 Ausweise ausgehändigt werden, unterliegen der Lotteriesteuer nur, wenn
 die Gewinne ganz oder teilweise in barem Gelde bestehen.
 
-
 ### - - Sachliche Zuständigkeit
-
-
 
 #### § 29
 
 Die Lotterie- und Sportwettensteuer wird von den Finanzämtern
 verwaltet.
 
-
 ### - - Örtliche Zuständigkeit
-
-
 
 #### § 30
 
@@ -632,14 +533,9 @@ in dessen Bezirk die Ausspielung stattfinden soll.
 (2) Die Vorschriften der
 §§ 51, 52, 57 bis 63              AO finden entsprechende Anwendung.
 
-
 ### - - Anmeldung von Lotterien und Sportwetten
 
-
-
 #### a) - im allgemeinen
-
-
 
 ##### § 31
 
@@ -673,7 +569,6 @@ Gewahrsam des Finanzamts, bis die Versteuerung bewirkt ist. Über den
 Empfang der Lose ist dem Anmeldenden eine Bescheinigung nach Muster 9
 auszustellen.
 
-
 ##### § 31a
 
 (1) Wer Sportwetten im Sinne des § 17 Absatz 2 des Rennwett- und
@@ -692,10 +587,7 @@ Steueranmeldung muss vom Veranstalter oder sein steuerlicher
 Beauftragter eigenhändig unterschrieben sein. Anmeldungszeitraum ist
 der Kalendermonat.
 
-
 #### b) - bei ungetrennter Preisangabe
-
-
 
 ##### § 32
 
@@ -714,10 +606,7 @@ dem Veranstalter überhaupt nicht oder nur unzureichend gemacht, so hat
 das Finanzamt den auf die Lose zu rechnenden Betrag nach eigenem
 Ermessen festzusetzen.
 
-
 #### c) - bei Geltendmachung von Steuerfreiheit
-
-
 
 ##### § 33
 
@@ -727,10 +616,7 @@ ausschließlich mildtätigen Zwecken verwendet werden wird. Über die
 Frage, ob ein ausschließlich mildtätiger Zweck vorliegt, wird im
 ordentlichen Rechtsmittelverfahren entschieden.
 
-
 #### d) - Mitteilungspflicht der Genehmigungsbehörde
-
-
 
 ##### § 34
 
@@ -743,10 +629,7 @@ Bezeichnung des Unternehmens und seines Zweckes, des Namens und der
 Wohnung des Veranstalters und des Zeitpunktes, an welchem diesem die
 obrigkeitliche Erlaubnis behändigt wurde, Mitteilung zu machen.
 
-
 ### - - Anmeldung ausländischer Lose
-
-
 
 #### § 35
 
@@ -756,10 +639,7 @@ doppelten Anmeldung nach Muster 10 innerhalb der in § 21 Abs. 4 des
 Gesetzes bezeichneten Frist die Lose zur Versteuerung vorzulegen. Eine
 elektronische Übermittlung der Anmeldung ist ausgeschlossen.
 
-
 ### - - Prüfung und Festsetzung durch die Steuerbehörde
-
-
 
 #### § 36
 
@@ -779,10 +659,7 @@ Vorlegung der Lose zur Abstempelung kann im Wege des
 Vertrieb ungestempelter Lose zu verhindern, kann das Finanzamt die
 Polizeibehörde um Beschlagnahme der Lose ersuchen.
 
-
 ### - - Berechnung der Lotterie- und Sportwettensteuer
-
-
 
 #### § 37
 
@@ -813,20 +690,14 @@ planmäßig zu zahlenden Preises steuerpflichtig.
 Loses berechnet. Für die Umrechnung fremder Währungen sind die für die
 Umsatzsteuer geltenden Bestimmungen anzuwenden.
 
-
 ### - - Zahlung der Lotterie- und Sportwettensteuer
-
-
 
 #### § 38
 
 Von der Einzahlung der Steuer hat die Finanzkasse dem Finanzamt
 umgehend Mitteilung zu machen.
 
-
 ### - - Stundung der Lotteriesteuer
-
-
 
 #### § 39
 
@@ -839,10 +710,7 @@ Genehmigung der Oberfinanzdirektion gewährt werden. Eine Stundung der
 Steuer für ausländische Lose sowie von Steuerbeträgen unter 250 Euro
 soll nicht gewährt werden.
 
-
 ### - - Teilversteuerung
-
-
 
 #### § 40
 
@@ -857,10 +725,7 @@ weiterhin auszugebenden Lose sind mit besonderer Anmeldung vorzulegen,
 in der unter Angabe der Zahl und der Nummern der Lose auf die erste
 Anmeldung Bezug zu nehmen ist.
 
-
 ### - - Beschaffenheit der Lose
-
-
 
 #### § 41
 
@@ -868,14 +733,9 @@ Die Lose sind in einer solchen Form und Beschaffenheit herzustellen,
 daß sie sich zur Abstempelung eignen. Die Oberfinanzdirektionen sind
 befugt, in besonderen Fällen auch andere Lose zuzulassen.
 
-
 ### - - Abstempelungsverfahren
 
-
-
 #### a) - Abstempelung der Lose
-
-
 
 ##### § 42
 
@@ -896,10 +756,7 @@ zurückgegeben.
 (3) Die Bestimmungen der Absätze 1 und 2 finden auch auf ausländische
 Lose Anwendung.
 
-
 #### b) - vereinfachte Abstempelung
-
-
 
 ##### § 43
 
@@ -928,10 +785,7 @@ oder Ausspielung von der Steuer befreit ist.
 Druckerei mitzuteilen hat, dürfen von dieser die Lose an den
 Veranstalter der Lotterie oder Ausspielung nicht ausgehändigt werden.
 
-
 ### - - Ungestempelte Lose
-
-
 
 #### § 44
 
@@ -947,10 +801,7 @@ oder die Beschaffenheit der Lose eine Abstempelung ausschließt. Das
 gleiche gilt auch für Geldlotterien, wenn der Absatz der Lose nur in
 einem bestimmten, räumlich beschränkten Gebiet stattfindet.
 
-
 ### - - Erstattung der Lotteriesteuer
-
-
 
 #### § 45
 
@@ -979,10 +830,7 @@ stattfinden sollte.
 Vorschriften der
 §§ 131, 133, 136              AO finden Anwendung.
 
-
 ### - - Staatslotterien
-
-
 
 #### § 46
 
@@ -1009,14 +857,9 @@ zu. Die Anzeige wird Beleg zum Sollbuch.
 
 (4) (weggefallen)
 
-
 ## C. - Steueraufsicht
 
-
-
 ### - - Allgemeines
-
-
 
 #### § 47
 
@@ -1036,10 +879,7 @@ entsprechend.
 (2) Staatslotterien und von den Ländern oder in deren Auftrag
 veranstaltete Sportwetten unterliegen der Steueraufsicht nicht.
 
-
 ### - - Prüfungsfolge
-
-
 
 #### § 48
 
@@ -1066,14 +906,9 @@ der Steuerpflichtigen, soweit es für die Entrichtung der Steuer von
 Bedeutung ist. Im übrigen gelten die
 §§ 193, 196 bis 199, 204 und 209              AO.
 
-
 ### - - Prüfungsmaßnahmen
 
-
-
 #### - - Im Allgemeinen
-
-
 
 ##### § 49
 
@@ -1142,7 +977,6 @@ Erzwingungsstrafen enthält
 
 (4)
 
-
 ##### § 50
 
 Die Vereine haben den Beauftragten der Finanzämter, die sich
@@ -1150,10 +984,7 @@ auszuweisen in der Lage sind, jederzeit kostenfrei und ungehindert
 Zutritt zu allen Rennen, und zwar sowohl zu dem Totalisator als auch
 zu den Plätzen der Zuschauer und der Buchmacher zu gewähren.
 
-
 ### - - Gegenstand der Prüfung
-
-
 
 #### § 51
 
@@ -1176,10 +1007,7 @@ zu schenken.
 Wettunternehmen oder unangemeldeter und unversteuerter Lotterien
 zuzuwenden. Etwa geschuldete Steuer ist ungesäumt einzuziehen.
 
-
 ### - - Einforderung von Rennberichten
-
-
 
 #### § 52
 
@@ -1187,19 +1015,13 @@ Die Vereine sind verpflichtet, den Steuerbehörden auf Verlangen
 Rennprogramme und Rennberichte über die von ihnen veranstalteten
 Pferderennen kostenlos zu übersenden.
 
-
 ## D. - Strafverfahren
-
-
 
 ### § 53
 
 -
 
-
 ### - - Mitteilung an die Zulassungsbehörde
-
-
 
 #### § 54
 
@@ -1208,14 +1030,9 @@ Buchmacher, einen Veranstalter oder einen Buchmachergehilfen
 einleitet, hat unverzüglich hiervon und von dem Ausgang des Verfahrens
 der Zulassungsbehörde (§ 34) Mitteilung zu machen.
 
-
 ## E. - Steuererhebung
 
-
-
 ### - - Hebestelle und Buchführung
-
-
 
 #### § 55
 
@@ -1227,10 +1044,7 @@ Sollbuch und das Einnahmebuch nebst einem Anhang über die erstatteten
 Steuerbeträge geführt. Die Bücher sind für den Zeitraum eines
 Rechnungsjahrs zu führen.
 
-
 ### - - Sollbuch
-
-
 
 #### § 56
 
@@ -1265,7 +1079,6 @@ nachgeforderte Betrag sofort nach Zahlung einzutragen oder daselbst
 die Herauszahlung etwa zuviel gezahlter Steuer mit roter Tinte
 abzusetzen.
 
-
 #### § 57
 
 (1) Das Sollbuch wird für neue Eintragungen am 31. März geschlossen.
@@ -1278,19 +1091,13 @@ kenntlich zu machen. Auf ihre Erledigung ist besonders zu achten.
 dem Abschluß zu vermerken, daß die Rückstände in das neue Sollbuch
 vollständig und richtig übertragen worden sind.
 
-
 ### - - - *Ku Wettsteuerzeichenbuch *KE
-
-
 
 #### § 58
 
 -
 
-
 ### - - Einnahmebuch
-
-
 
 #### § 59
 
@@ -1301,10 +1108,7 @@ führen. Dieses sowie der Anhang zum Einnahmebuch (§ 55 Abs. 2 Satz 1)
 sind am Ende des Rechnungsjahres
 (31. März)              abzuschließen.
 
-
 ### - - Änderungsbefugnis der Oberfinanzdirektionen
-
-
 
 #### § 60
 
@@ -1312,10 +1116,7 @@ Die Oberfinanzdirektion kann Abweichungen in der Führung des Sollbuchs
 sowie des Wettsteuerzeichenbuchs und des Einnahmebuchs nebst Anhang
 zulassen.
 
-
 ### - - Verrechnung beigetriebener Geldbeträge
-
-
 
 #### § 61
 
@@ -1324,14 +1125,9 @@ sind die eingegangenen Beträge zuerst auf die Kosten, sodann auf die
 Steuer und mit dem Reste auf die Zinsen anzurechnen. Das gleiche gilt
 von Zahlungen, die nicht die ganze Schuld decken.
 
-
 ## F. - Schlußvorschriften
 
-
-
 ### - - Aktenführung
-
-
 
 #### § 62
 
@@ -1350,10 +1146,7 @@ Zeitfolge geordnet im besonderen Hefte aufzubewahren.
 Steuer sind fünf Jahre lang, vom Eintritt der Steuerpflicht ab
 gerechnet, aufzubewahren.
 
-
 ### - - Prüfungspflicht der Oberfinanzdirektionen
-
-
 
 #### § 63
 
@@ -1365,11 +1158,9 @@ Anmeldungen sind vom Finanzamt in einem besonderen Verzeichnis zu
 vereinigen, das dem Landesfinanzamt zu dem für die Vorlegung des
 Sollbuchs vorgeschriebenen Zeitpunkt einzusenden ist.
 
-
 #### Schlußformel
 
 Der Reichsminister der Finanzen
-
 
 #### Anlage Muster 1 bis Muster 14 Zentralbl. 1922 S. 361 bis 371
 

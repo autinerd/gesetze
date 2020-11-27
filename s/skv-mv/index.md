@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 448 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Auf Grund des § 200 Abs. 2 des Fünften Buches Sozialgesetzbuch -
@@ -27,7 +26,6 @@ Gesetzliche Krankenversicherung - (Artikel 1 des Gesetzes vom 20.
 Dezember 1988, BGBl. I S. 2477), der zuletzt durch Artikel 1 Nr. 6 des
 Gesetzes vom 10. Mai 1995 (BGBl. I S. 678) geändert worden ist,
 verordnet das Bundesministerium für Gesundheit:
-
 
 ## § 1 Unterrichtung der Studienbewerber und Studenten
 
@@ -41,7 +39,6 @@ Gesundheit gibt nach Anhörung der Länder und der Spitzenverbände der
 Krankenkassen Inhalt und Form des Merkblatts im Bundesanzeiger
 bekannt.
 
-
 ## § 2 Versicherungsbescheinigung
 
 Jeder Studienbewerber hat der Hochschule zur Einschreibung eine
@@ -49,7 +46,6 @@ Versicherungsbescheinigung nach dem Muster der Anlage 1 einzureichen.
 In der Versicherungsbescheinigung ist anzugeben, ob der Student
 versichert oder versicherungsfrei, von der Versicherungspflicht
 befreit oder nicht versicherungspflichtig ist.
-
 
 ## § 3 Zuständigkeitsregelung
 
@@ -75,10 +71,6 @@ Für die Ausstellung der Versicherungsbescheinigung sind zuständig:
     Sozialgesetzbuch von der Versicherungspflicht befreit worden ist, die
     Krankenkasse, die die Befreiung vorgenommen hat.
 
-
-
-
-
 ## § 4 Meldungen
 
 (1) Ist in der Versicherungsbescheinigung angegeben, daß der Student
@@ -102,7 +94,6 @@ versicherungspflichtigen Studenten ihr gegenüber auferlegten
 Verpflichtungen unverzüglich auf dem Vordruck nach dem Muster der
 Anlage 3 mitzuteilen.
 
-
 ## § 5 Maschinelle Datenübertragung
 
 Die Hochschulen und die Spitzenverbände der Krankenkassen können
@@ -113,7 +104,6 @@ Spitzenverbände der Krankenkassen wird eine Sammelstelle gebildet, die
 die zu übermittelnden Daten für die jeweilige Kassenart entgegennimmt;
 zwischen den Spitzenverbänden der Krankenkassen und den Hochschulen
 können abweichende Vereinbarungen getroffen werden.
-
 
 ## § 6 Meldungen der Praktikanten und Auszubildenden ohne Arbeitsentgelt
 
@@ -130,7 +120,6 @@ berufspraktischen Tätigkeit sowie der Beschäftigung zum Zwecke der
 Berufsausbildung der in Satz 1 genannten versicherungspflichtigen
 Personen innerhalb von zwei Wochen auf dem Vordruck nach dem Muster
 der Anlage 5 oder 6 zu melden.
-
 
 ## § 7 Meldungen der Auszubildenden des Zweiten Bildungswegs
 
@@ -149,12 +138,10 @@ pflichtversichert ist. Die Ausbildungsstätte meldet der zuständigen
 Krankenkasse durch Ergänzung des Vordrucks nach dem Muster der Anlage
 8 das Ende der Ausbildung unverzüglich. § 3 gilt entsprechend.
 
-
 ## § 8 Listen für Meldungen und Bescheinigungen
 
 Die Ausbildungsstätten und die Krankenkassen können vereinbaren, daß
 Meldungen und Bescheinigungen nach den §§ 6 und 7 auf Listen erfolgen.
-
 
 ## § 9 Übergangsvorschrift
 
@@ -166,16 +153,13 @@ jeder versicherte Student eine Versicherungsbescheinigung nach dem
 Muster der Anlage 1 dieser oder nach dem Muster der Anlage 2 der
 bisher geltenden Meldeverordnung bei der Hochschule einzureichen.
 
-
 ## § 10 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Juni 1996 in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage 1
 
@@ -193,7 +177,6 @@ Postleitzahl, Wohnort,
 nicht versicherungspflichtig.
 Versicherten-Nr.
 
-
 ## Anlage 2
 
 (Fundstelle: BGBl. I 1996, 570)
@@ -210,7 +193,6 @@ als
 Student Mitglied dieser Hochschule.
 Versicherten-Nr.
 
-
 ## Anlage 3
 
 (Fundstelle: BGBl. I 1996, 571)
@@ -225,7 +207,6 @@ ist als Student versicherungspflichtig und
 ( ) hat seine/ihre auf Grund des Fünften Buches Sozialgesetzbuch uns
 gegenüber auferlegten Verpflichtungen nicht erfüllt.
 Versicherten-Nr.
-
 
 ## Anlage 4
 
@@ -249,7 +230,6 @@ Versicherten-Nr.
 \*)  Name und Anschrift der Ausbildungsstätte.
 ++) Nicht Zutreffendes streichen.
 
-
 ## Anlage 5
 
 (Fundstelle: BGBl. I 1996, 572)
@@ -264,7 +244,6 @@ befindet sich seit dem                 in
 ( ) einer Berufsausbildung ohne Arbeitsentgelt.
 Versicherten-Nr.
 
-
 ## Anlage 6
 
 (Fundstelle: BGBl. I 1996, 572)
@@ -278,7 +257,6 @@ Postleitzahl, Wohnort,
 ( ) in einer Berufsausbildung ohne Arbeitsentgelt
 ist am                        beendet worden.
 Versicherten-Nr.
-
 
 ## Anlage 7
 
@@ -321,7 +299,6 @@ Auszubildender/Auszubildende in einem förderungsfähigen Teil eines
 Ausbildungsabschnitts nach dem Bundesausbildungsförderungsgesetz.
 Name, Anschrift (und Unterschrift) der Ausbildungsstätte
 Datum
-
 
 ## Anlage 8
 

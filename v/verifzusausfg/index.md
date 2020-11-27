@@ -21,16 +21,12 @@ Fundstelle
 
 Stand: Das G ist gem. § 23 Abs. 1 iVm Bek. v. 10.5.2004 II 789 mWv 30.4.2004 in Kraft getreten
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Erster Abschnitt - Allgemeine Bestimmungen
-
-
 
 ### § 1 Begriffsbestimmungen
 
@@ -142,10 +138,6 @@ die folgenden Begriffe:
 
 12. Ort außerhalb von Anlagen (Artikel 18 Abs. j).
 
-
-
-
-
 ### § 2 Zweck und Begrenzung der Sicherungsmaßnahmen
 
 (1) Die Sicherungsmaßnahmen dienen ausschließlich dazu, nachzuprüfen,
@@ -175,7 +167,6 @@ technischen Merkmale der Anlage nach Artikel 1 bis 3 der
 Kommissionsverordnung oder bei der Lieferung von Informationen nach §
 15 dieses Gesetzes zu kennzeichnen.
 
-
 ### § 3 Erleichterung der Sicherungsmaßnahmen
 
 Der zur Duldung und Unterstützung von Sicherungsmaßnahmen
@@ -184,7 +175,6 @@ Organisation die Durchführung von Sicherungsmaßnahmen zu erleichtern
 und zu diesem Zweck auf Verlangen über den in den §§ 4 und 13
 genannten Umfang hinaus Einrichtungen, Geräte, Ausrüstungen und
 Dienstleistungen gegen Erstattung der Kosten zur Verfügung zu stellen.
-
 
 ### § 4 Außergewöhnliche Umstände
 
@@ -196,7 +186,6 @@ im Rahmen des außergewöhnlichen Umstandes durchführen kann. Diese
 Maßnahmen werden von der nach § 22 Abs. 1 zuständigen Behörde
 festgelegt.
 
-
 ### § 5 Identifizierung der Inspektoren
 
 Die Verpflichtungen zur Duldung und Unterstützung von
@@ -205,10 +194,7 @@ zuständigen Behörde festgelegte Nachweis der Befugnis des Inspektors
 der Organisation zur Durchführung von Sicherungsmaßnahmen gegenüber
 dem Verpflichteten bzw. dem Zusatzverpflichteten vorliegt.
 
-
 ## Zweiter Abschnitt - Sicherungsmaßnahmen nach dem Verifikationsabkommen
-
-
 
 ### § 6 Verpflichtungen zur Duldung und Unterstützung von Sicherungsmaßnahmen nach dem Verifikationsabkommen
 
@@ -223,7 +209,6 @@ Sicherungsmaßnahmen der Gemeinschaft, es sei denn, dass der
 Verpflichtete von der Gemeinschaft die Mitteilung erhält, dass sie
 nicht gleichzeitig mit Sicherungsmaßnahmen der Gemeinschaft
 durchgeführt werden.
-
 
 ### § 7 Befreiung und Beendigung von Sicherungsmaßnahmen
 
@@ -249,7 +234,6 @@ nicht die Neuverpackung des Abfalls oder seine weitere Konditionierung
 ohne Elementetrennung für die Zwischen- oder Endlagerung zu verstehen
 ist.
 
-
 ### § 8 Nachprüfung der technischen Merkmale der Anlage
 
 (1) Die Nachprüfung der technischen Merkmale der Anlage erfolgt zur
@@ -261,7 +245,6 @@ nach Artikel 42 des Verifikationsabkommens an die Organisation
 (2) Der Verpflichtete hat während der Betriebs- oder Geschäftszeit den
 Zugang zu gestatten, der zur Nachprüfung der technischen Merkmale der
 Anlage erforderlich ist.
-
 
 ### § 9 Ad-hoc-Inspektion
 
@@ -313,10 +296,6 @@ während der Betriebs- oder Geschäftszeit den Zugang zu gestatten
     der Meldung nach Artikel 24 Buchstabe c dritter Anstrich der
     Kommissionsverordnung mitgeteilt worden ist.
 
-
-
-
-
 ### § 10 Routineinspektion
 
 (1) Die Routineinspektion erfolgt, um
@@ -346,7 +325,6 @@ Kommissionsverordnung festgelegten strategischen Punkten und den nach
 den Artikeln 9 bis 11 der Kommissionsverordnung zu führenden
 Protokollen zu gestatten.
 
-
 ### § 11 Sonderinspektion
 
 (1) Die Sonderinspektion erfolgt,
@@ -372,7 +350,6 @@ während der Betriebs- oder Geschäftszeit den Zugang zu den in § 9 Abs.
 der nach § 22 Abs. 1 zuständigen Behörde dem Verpflichteten mitgeteilt
 worden sind.
 
-
 ### § 12 Inspektionstätigkeiten
 
 Der Verpflichtete hat den Inspektoren der Organisation für
@@ -395,10 +372,6 @@ Inspektionen nach den §§ 9 bis 11 folgende Tätigkeiten zu ermöglichen:
 
 5.  Anwendung anderer objektiver Methoden, die sich als technisch
     durchführbar erwiesen haben.
-
-
-
-
 
 ### § 13 Durchführung der Inspektionstätigkeiten
 
@@ -460,13 +433,7 @@ Organisation Maßnahmen zu ergreifen, damit
 9.  Siegel und andere kennzeichnende oder Verfälschungen anzeigende
     Vorrichtungen der Organisation angebracht werden.
 
-
-
-
-
 ## Dritter Abschnitt - Sicherungsmaßnahmen nach dem Zusatzprotokoll
-
-
 
 ### § 14 Verpflichtungen zur Duldung und Unterstützung von Sicherungsmaßnahmen nach dem Zusatzprotokoll
 
@@ -491,7 +458,6 @@ Unterstützung besteht in der Erteilung von Informationen gemäß §§ 15
 und 16 und in der Duldung von erweitertem Zugang gemäß §§ 17 bis 19.
 Der erweiterte Zugang findet gemäß Artikel 4 Abs. e des
 Zusatzprotokolls nur während der normalen Arbeitszeit statt.
-
 
 ### § 15 Erteilung von Informationen
 
@@ -535,7 +501,6 @@ hat der Zusatzverpflichtete auf Ersuchen der Organisation gemäß
 Artikel 2 Abs. c des Zusatzprotokolls weitere oder klärende
 Ausführungen zu seinen Informationen zu machen.
 
-
 ### § 16 Empfänger und Zeitpunkt der Informationen
 
 Die in § 15 bezeichneten Informationen sind der Europäischen
@@ -555,10 +520,6 @@ folgenden Zeitpunkten zu übersenden:
 3.  Informationen nach § 15 Abs. 5 über eine weitere Aufbereitung 210 Tage
     vor Beginn und bis zum 1. April jedes Jahres Informationen über den
     Lagerort oder dessen Wechsel im vorhergehenden Kalenderjahr.
-
-
-
-
 
 ### § 17 Gewährung von erweitertem Zugang, Inspektionszwecke
 
@@ -641,10 +602,6 @@ zu gewähren, soweit nicht eine Beschränkung nach § 19 eingreift:
     denen die Organisation auf Bitte der Bundesregierung eine Nachprüfung
     vornimmt.
 
-
-
-
-
 ### § 18 Duldung und Unterstützung von Inspektionstätigkeiten
 
 Der zur Gewährung des Zugangs nach § 17 Zusatzverpflichtete hat gemäß
@@ -705,10 +662,6 @@ unterstützen:
     diejenigen in den vorstehenden Absätzen genannten Tätigkeiten, die
     erforderlich sind, um den Zweck der Nachprüfung zu erreichen.
 
-
-
-
-
 ### § 19 Beschränkung des Zugangs
 
 Das Zugangsrecht nach § 17 unterliegt gemäß Artikel 7 des
@@ -722,10 +675,7 @@ einer solchen Vereinbarung kann die Gemeinschaft eine Zugangsregelung
 im Einklang mit Artikel 7 Abs. a des Zusatzprotokolls treffen. Über
 die Vereinbarung ist der Zusatzverpflichtete zu unterrichten.
 
-
 ## Vierter Abschnitt - Finanzielle Regelungen
-
-
 
 ### § 20 Kosten
 
@@ -733,7 +683,6 @@ Der Verpflichtete und der Zusatzverpflichtete tragen die ihnen aus der
 Durchführung der Sicherungsmaßnahmen entstehenden Kosten selbst, wenn
 sie nicht von der Organisation nach § 3 oder nach Artikel 15 des
 Verifikationsabkommens erstattet werden.
-
 
 ### § 21 Anspruch auf Schadensersatz
 
@@ -752,10 +701,7 @@ nicht in Anspruch nehmen.
 machen. Zur Durchsetzung der Ansprüche ist der ordentliche Rechtsweg
 gegeben.
 
-
 ## Fünfter Abschnitt - Schlussvorschriften
-
-
 
 ### § 22 Auftragsverwaltung, Aufgabenübertragung
 
@@ -784,7 +730,6 @@ x), 8, 12, 14 und Annex III Abs. 3 des Zusatzprotokolls vorgesehenen
 Aufgaben, die von der Bundesregierung wahrgenommen werden. Im Rahmen
 dieser Aufgabenübertragung können Inspektoren der Kommission die
 Inspektoren der Organisation begleiten.
-
 
 ### § 23 Inkrafttreten, Außerkrafttreten
 

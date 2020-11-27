@@ -21,7 +21,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 8 G v. 5.9.2006 I 2098
 
-
 ## § 1 Ausgleichszahlung der Inhaber von Mietwohnungen
 
 (1) Inhaber einer öffentlich geförderten Wohnung im Sinne des
@@ -74,7 +73,6 @@ Mietwohnungen erheblich unterschreiten. Liegt bei einer Gemeinde diese
 Voraussetzung vor, kann von der Bestimmung abgesehen werden, wenn der
 Verwaltungsaufwand für die Erhebung der Ausgleichszahlung in einem
 unangemessenen Verhältnis zu den erwarteten Einnahmen stehen würde.
-
 
 ## § 2 Ausnahmen
 
@@ -146,7 +144,6 @@ nicht gesichert wäre.
 
 (3) Dieses Gesetz gilt nicht für öffentlich geförderte Wohnheime.
 
-
 ## § 3 Einkommen, Einkommensgrenze
 
 (1) Das Einkommen und die Einkommensgrenze bestimmen sich nach den §§
@@ -174,7 +171,6 @@ Leistungszeitraum (§ 4) vorausgehenden Jahres. Abweichend hiervon ist
 
 
 maßgebend.
-
 
 ## § 4 Beginn der Ausgleichszahlungen, Leistungszeitraum
 
@@ -218,7 +214,6 @@ Leistungszeitraums zulässig, wenn sich die zuständige Stelle die
 Beträge bis zu 10 Euro monatlich sind vierteljährlich, höhere Beträge
 monatlich im Voraus zu entrichten.
 
-
 ## § 5 Einkommensnachweis, Auskünfte
 
 (1) Jeder Wohnungsinhaber hat auf Aufforderung die Personen zu
@@ -244,7 +239,6 @@ Leistungspflicht ab Beginn des Leistungszeitraums.
 Arbeitgeber haben der zuständigen Stelle Auskunft über die
 Einkommensverhältnisse zu erteilen, soweit die Durchführung dieses
 Gesetzes es erfordert.
-
 
 ## § 6 Beschränkung der Ausgleichszahlungen
 
@@ -303,7 +297,6 @@ eine solche Maßnahme erstattet, und würde für die Wohnung ohne die
 Modernisierung ein niedrigerer Höchstbetrag gelten, so ist dieser
 zugrunde zu legen.
 
-
 ## § 7 Wegfall und Minderung der Leistungspflicht
 
 (1) Die Leistungspflicht erlischt, sobald
@@ -342,7 +335,6 @@ entspricht, wenn dieser Betrag niedriger ist, weil
 Der Antrag kann nur bis spätestens sechs Monate vor Ablauf des
 Leistungszeitraums gestellt werden.
 
-
 ## § 8 Geltung für Bergarbeiterwohnungen
 
 Dieses Gesetz ist auf Inhaber von Wohnungen, die nach dem Gesetz zur
@@ -350,7 +342,6 @@ Förderung des Bergarbeiterwohnungsbaus im Kohlenbergbau gefördert
 worden sind, entsprechend anzuwenden, wenn der Wohnungsinhaber nicht
 wohnungsberechtigt im Sinne des § 4 Abs. 1 Buchstabe a, b oder c des
 genannten Gesetzes ist.
-
 
 ## § 9 Geltung für Wohnungen, die mit Wohnungsfürsorgemitteln gefördert worden sind
 
@@ -372,7 +363,6 @@ die Dauer von drei Jahren seit dem Bezug der Wohnung freigestellt.
 (4) In den Fällen der Absätze 2 und 3 sind abweichend von § 3 Abs. 2
 Satz 1 die Verhältnisse sechs Monate vor Beginn der Leistungspflicht
 maßgebend.
-
 
 ## § 10 Zweckbestimmung der Ausgleichszahlungen
 
@@ -422,7 +412,6 @@ entsprechende Anwendung, wenn von den für die Wohnung gewährten
 Baudarlehen oder den mit Zins- und Tilgungshilfe geförderten Darlehen
 dem Betrage nach das Darlehen aus Wohnungsfürsorgemitteln überwiegt.
 
-
 ## § 11 Zuständige Stelle
 
 Zuständige Stelle ist die Stelle, die von der Landesregierung bestimmt
@@ -433,7 +422,6 @@ Zuschussgeber eine andere Stelle bestimmt. Soweit das Besetzungsrecht
 von einer Stelle außerhalb der öffentlichen Verwaltung ausgeübt wird,
 nimmt sie bei der Durchführung dieses Gesetzes öffentliche Aufgaben
 wahr.
-
 
 ## § 12 Geltung im Saarland
 
@@ -471,7 +459,6 @@ wahr.
 Einzelheiten zur Durchführung dieses Gesetzes im Hinblick auf die
 rechtlichen Besonderheiten im Saarland.
 
-
 ## § 13 Sonderregelung für das Land Bremen
 
 Im Land Bremen sind Ausgleichszahlungen nicht zu erheben, wenn bei der
@@ -483,7 +470,6 @@ Ausgleichszahlungen insgesamt nicht unterschreitet. § 4 Abs. 1 gilt
 mit der Maßgabe, dass der in Nummer 2 aufgeführte Bewilligungszeitraum
 am 31. Dezember 1958 endet und dass der in Nummer 3 aufgeführte
 Bewilligungszeitraum am 1. Januar 1959 beginnt.
-
 
 ## § 14 Landesrechtliche Vorschriften
 
@@ -518,7 +504,6 @@ Erlass landesrechtlicher Vorschriften nach Absatz 1 Satz 1.
 Verwaltungsverfahren eines Leistungszeitraums, zu dessen Stichtag nach
 § 3 Abs. 2 ein Mietspiegel im Sinne des § 2 des Gesetzes zur Regelung
 der Miethöhe bestand, ist dieser Mietspiegel weiterhin anzuwenden.
-
 
 ## § 15 Überleitungsvorschriften zum Wohnraumförderungsgesetz
 

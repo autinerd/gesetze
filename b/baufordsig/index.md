@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 G v. 29.7.2009 I 2436
 
-
 ## Erster Abschnitt - Allgemeine Sicherungsmaßregeln
-
-
 
 ### § 1
 
@@ -66,7 +63,6 @@ erfolgen soll.
 (4) Ist die Baugeldeigenschaft oder die Verwendung des Baugeldes
 streitig, so trifft die Beweislast den Empfänger.
 
-
 ### § 2
 
 Baugeldempfänger, welche ihre Zahlungen eingestellt haben oder über
@@ -77,29 +73,21 @@ Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft, wenn sie
 zum Nachteil der bezeichneten Gläubiger den Vorschriften des § 1
 zuwidergehandelt haben.
 
-
 ### § 4
 
 -
-
 
 ### § 7
 
 -
 
-
 ### § 8
 
 -
 
-
 ## Zweiter Abschnitt - Dingliche Sicherung der Bauforderungen
 
-
-
 ### Erster bis siebenter Titel
-
-
 
 #### (XXXX) §§ 9 bis 67 (weggefallen)
 

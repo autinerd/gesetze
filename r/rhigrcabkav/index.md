@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 102 G v. 19.4.2006 I 866
 
-
 ## Eingangsformel
 
 Auf Grund des Artikels 4 Satz 2 des Gesetzes zur Behebung der Not von
@@ -29,10 +28,7 @@ die gegenseitige Rechtshilfe in Angelegenheiten des bürgerlichen und
 Handels-Rechts vom 11. Mai 1938 (Reichsgesetzbl. 1939 II S. 849)
 folgendes verordnet:
 
-
 ## Art 1 - Zustellungsanträge und Rechtshilfeersuchen
-
-
 
 ### § 1
 
@@ -40,11 +36,9 @@ Für die Erledigung der in den Artikeln 1 und 7 des Abkommens
 vorgesehenen Angelegenheiten ist das Amtsgericht zuständig, in dessen
 Bezirk die Amtshandlung vorgenommen werden soll.
 
-
 ### § 2
 
 (weggefallen)
-
 
 ### § 3
 
@@ -53,10 +47,7 @@ landesrechtlichen Vorschriften finden auf die gemäß Artikel 25 Abs. 1
 Sätze 2 und 3 des Abkommens von der ersuchten griechischen Behörde
 mitgeteilten Auslagen entsprechende Anwendung.
 
-
 ## Art 2 - Vollstreckbarerklärung von Kostenentscheidungen
-
-
 
 ### § 4
 
@@ -69,7 +60,6 @@ seinen allgemeinen Gerichtsstand hat, und in Ermangelung eines solchen
 das Gericht, in dessen Bezirk sich Vermögen des Kostenschuldners
 befindet oder die Vollstreckungshandlung vorzunehmen ist.
 
-
 ### § 5
 
 Ist der Antrag auf Vollstreckbarerklärung auf diplomatischem Wege
@@ -80,7 +70,6 @@ wird, mit der Vollstreckungsklausel zu versehen. Ist der Antrag auf
 Vollstreckbarerklärung durch die beteiligte Partei unmittelbar
 gestellt worden, so ist der Beschluß beiden Teilen von Amts wegen
 zuzustellen.
-
 
 ### § 6
 
@@ -94,13 +83,11 @@ die beteiligte Partei unmittelbar gestellt ist, dem Antragsteller zu.
 stattgegeben wird, steht dem Kostenschuldner die Beschwerde nach den
 §§ 567 bis 577 der Zivilprozessordnung zu.
 
-
 ### § 7
 
 Aus den für vollstreckbar erklärten Kostenentscheidungen findet die
 Zwangsvollstreckung gemäß den Vorschriften der Zivilprozessordnung
 statt; die Vorschrift des § 798 gilt entsprechend.
-
 
 ### § 8
 
@@ -115,11 +102,9 @@ der für die Beitreibung der Gerichtskosten zuständigen Behörde.
 Erklärung zu Protokoll der Geschäftsstelle oder schriftlich ohne
 Mitwirkung eines Rechtsanwalts eingelegt werden.
 
-
 ### § 9
 
 -
-
 
 ### Schlußformel
 

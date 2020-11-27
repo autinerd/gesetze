@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 2 V v. 21.6.2012 II 618
 
-
 ## Eingangsformel
 
 Es verordnen auf Grund
@@ -54,10 +53,6 @@ Es verordnen auf Grund
     Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist,
     das Bundesministerium für Verkehr, Bau und Stadtentwicklung im
     Einvernehmen mit dem Bundesministerium der Finanzen:
-
-
-
-
 
 ## Art 1 Inkraftsetzen von Beschlüssen der Zentralkommission für die Rheinschifffahrt
 
@@ -178,7 +173,6 @@ gesetzt:
 Die Beschlüsse werden als Anlagen 1 bis 15 zu dieser Verordnung
 veröffentlicht.
 
-
 ## Art 2 Ausnahmen von der Schifferpatentpflicht
 
 (1) Zur Führung von Fahrzeugen der Streitkräfte ist ein Rheinpatent
@@ -187,7 +181,6 @@ nicht erforderlich.
 (2) Zur Führung von Fahrzeugen im Sinne des § 6.02 Nummer 5 der
 Schiffspersonalverordnung-Rhein ist ein Schifferpatent gemäß
 Schiffspersonalverordnung-Rhein nicht erforderlich.
-
 
 ## Art 3 Zuständige Behörden
 
@@ -320,7 +313,6 @@ bestandene Prüfungen zum Erwerb des Radarpatentes gelten als
 anerkanntes Zeugnis im Sinne des § 8.04 Nummer 3 der
 Schiffspersonalverordnung-Rhein.
 
-
 ## Art 4 Zuständigkeit für ärztliche Zeugnisse
 
 (1) Ärztliche Zeugnisse im Sinne des § 3.03 Nummer 1 Satz 2 Buchstabe
@@ -338,7 +330,6 @@ der Verwaltung eines Landes ausgestellt sein.
 anderen Mitgliedstaates der Mannheimer Akte (BGBl. 1969 II S. 597,
 598) nach Maßgabe der Bestimmungen der Schiffspersonalverordnung-Rhein
 ausgestellt worden ist, steht dem Zeugnis nach Absatz 1 gleich.
-
 
 ## Art 5 Pflichten
 
@@ -561,7 +552,6 @@ der Schiffspersonalverordnung-Rhein ein unbrauchbar gewordenes oder
 wieder aufgefundenes Radarpatent unverzüglich bei der ausstellenden
 Behörde abzuliefern oder es ihr zur Entwertung vorzulegen.
 
-
 ## Art 6 Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 7 Absatz 1 des
@@ -682,7 +672,6 @@ fahrlässig als Radarpatentinhaber entgegen Artikel 5 Absatz 8 ein
 Radarpatent nicht oder nicht rechtzeitig abliefert und ihr nicht oder
 nicht rechtzeitig zur Entwertung vorlegt.
 
-
 ## Art 7 Radarpatent für die Führer von Fähren
 
 (1) Die Prüfung für die Führer von Fähren beschränkt sich im
@@ -701,7 +690,6 @@ absehen.
 Schiffspersonalverordnung-Rhein schließt das Radarpatent zum Führen
 von Fähren nach § 6.03 Nummer 2 der Schiffspersonalverordnung-Rhein
 ein.
-
 
 ## Art 8 Aufhebung von Rechtsvorschriften
 
@@ -785,13 +773,7 @@ Es werden aufgehoben:
     Verordnung vom 24. Februar 2011 (VkBl. 2011 S. 240) geändert worden
     ist.
 
-
-
-
-
 ## (XXXX) Art 9 bis 17
-
-
 
 ## Art 18 Inkrafttreten, Außerkrafttreten
 
@@ -801,13 +783,11 @@ am Tag nach der Verkündung in Kraft.
 (2) Die in Artikel 1 unter den Nummern 4 und 5 genannten Beschlüsse
 treten am 30. September 2014 außer Kraft.
 
-
 ## Anlage 1
 
 (Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 3 - 105)
 
 Text siehe: RheinSchPersV
-
 
 ## (XXXX) Anlage 2 bis 15
 

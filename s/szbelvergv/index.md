@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 V v. 27.4.2012 I 1000
 
-
 ## Eingangsformel
 
 Auf Grund des durch Artikel 1 Nr. 1 des Gesetzes vom 21. Februar 1989
@@ -26,7 +25,6 @@ Auf Grund des durch Artikel 1 Nr. 1 des Gesetzes vom 21. Februar 1989
 der Fassung der Bekanntmachung vom 21. Februar 1989 (BGBl. I S. 261)
 wird im Einvernehmen mit dem Bundesminister der Verteidigung und dem
 Bundesminister der Finanzen verordnet:
-
 
 ## § 1 Anspruchsvoraussetzungen
 
@@ -57,7 +55,6 @@ zusammenhängenden Dienst leisten, erhalten eine Vergütung.
 Während des vierten bis sechsten Dienstmonats seit dem Dienstantritt
 wird in der Regel die Vergütung gewährt.
 
-
 ## § 2 Vergütung
 
 (1) Vom Beginn des vierten bis zum Ablauf des sechsten Dienstmonats
@@ -87,10 +84,6 @@ beträgt die Vergütung für jede Dienstleistung nach § 1 Abs. 1
 *    *   - Nummer 2
 
     *   35,79 Euro.
-
-
-
-
 
 ## § 3 Ausschluß des Anspruchs
 
@@ -126,14 +119,9 @@ Die Vergütung wird nicht gewährt
 
 7.  neben einer Vergütung nach der Sanitätsoffiziersvergütungsverordnung.
 
-
-
-
-
 ## § 4 Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 1. Juni 1989 in Kraft.
-
 
 ## Schlußformel
 

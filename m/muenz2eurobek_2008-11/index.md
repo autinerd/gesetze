@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 2341
 
-
 ## (XXXX)
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
@@ -41,11 +40,9 @@ befinden sich die Initialen des Münzkünstlers „FB“.
 Der Entwurf der nationalen Seite der Gedenkmünze stammt von Herrn
 Friedrich Brenner aus Diedorf.
 
-
 ## Schlussformel
 
 Der Bundesminister der Finanzen
-
 
 ## (XXXX)
 

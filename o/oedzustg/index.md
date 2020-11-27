@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 6 Abs. 10 G v. 27.12.1993 I 2378
 
-
 ## § 1
 
 (1) Die in Gesetzen vorgesehenen Zuständigkeiten des Bundesministers
@@ -118,11 +117,9 @@ Bundesministers der Finanzen in folgenden Vorschriften:
 
 (3)
 
-
 ## § 2
 
 -
-
 
 ## § 3
 
@@ -130,11 +127,9 @@ Die in tarifrechtlichen Regelungen des öffentlichen Dienstes
 vorgesehenen Zuständigkeiten des Bundesministers der Finanzen gehen
 auf den Bundesminister des Innern über.
 
-
 ## § 4
 
 -
-
 
 ## § 5
 
@@ -142,13 +137,11 @@ Der Bundesminister des Innern wird ermächtigt, die durch §§ 1 und 2
 geänderten Vorschriften in der vom Inkrafttreten dieses Gesetzes ab
 geltenden Fassung bekanntzumachen.
 
-
 ## § 6
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
 im Land Berlin.
-
 
 ## § 7
 

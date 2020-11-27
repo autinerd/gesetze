@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   RGBl II: 1930, 12
 
-
-
 ## § 1
 
 ... Für die Durchführung des Übereinkommens sind die
@@ -25,7 +23,6 @@ Seemannsordnung              vom 2. Juni 1902 (Reichsgesetzbl. S. 175)
 und das Gesetz betreffend die Verpflichtung der Kauffahrteischiffe zur
 Mitnahme heimzuschaffender Seeleute vom 2. Juni 1902 (Reichsgesetzbl.
 S. 212) maßgebend. ...
-
 
 ## § 2
 

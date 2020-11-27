@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 3240 (3692)
 
-
 ## Eingangsformel
 
 Auf Grund des § 26 Absatz 1 Nummer 2 und Absatz 2 des
@@ -25,9 +24,7 @@ Bundesbeamtengesetzes in der Fassung der Bekanntmachung vom 5. Februar
 Bundeslaufbahnverordnung vom 12. Februar 2009 (BGBl. I S. 284)
 verordnet das Bundesministerium der Verteidigung:
 
-
 ## Kapitel 1 - Allgemeine Vorschriften
-
 
 ### § 1 Ziel, Bestandteile und Schwerpunkte des Vorbereitungsdienstes
 
@@ -73,7 +70,6 @@ Fachgebiete auszurichten:
 (4) Die Anwärterinnen und Anwärter sind zum Selbststudium
 verpflichtet; das Selbststudium ist zu fördern.
 
-
 ### § 2 Arten des Vorbereitungsdienstes
 
 Der Vorbereitungsdienst besteht aus
@@ -86,10 +82,6 @@ Der Vorbereitungsdienst besteht aus
 
 2.  einem Bachelorstudium mit integrierten berufspraktischen
     Studienzeiten.
-
-
-
-
 
 ### § 3 Schwerbehinderte und diesen gleichgestellte behinderte Menschen
 
@@ -114,9 +106,7 @@ Prüfungsamt.
 die Absätze 1 bis 3 nur insoweit anzuwenden, als diese den
 Bestimmungen der Hochschuleinrichtung nicht widersprechen.
 
-
 ## Kapitel 2 - Zulassung und Einstellung
-
 
 ### § 4 Einstellungsbehörde
 
@@ -125,7 +115,6 @@ Es ist zuständig für die Ausschreibung, die Durchführung des
 Auswahlverfahrens, die Einstellung und die Betreuung der Anwärterinnen
 und Anwärter. Es entscheidet über die Verlängerung oder Verkürzung des
 Vorbereitungsdienstes (§§ 15 und 16 der Bundeslaufbahnverordnung).
-
 
 ### § 5 Einstellungsvoraussetzungen
 
@@ -139,10 +128,6 @@ In den Vorbereitungsdienst kann eingestellt werden, wer
     kooperierende Hochschuleinrichtung nachweist oder einen Bachelor- oder
     einen gleichwertigen Abschluss in einem Studienfach besitzt, das einem
     der Fachgebiete nach § 1 Absatz 3 zugeordnet werden kann.
-
-
-
-
 
 ### § 6 Ausschreibung, Bewerbung
 
@@ -193,13 +178,6 @@ Bewerbung sind beizufügen:
 
 
     f)  Kopien der Zeugnisse beruflicher Tätigkeiten.
-
-
-
-
-
-
-
 
 ### § 7 Auswahlverfahren
 
@@ -270,7 +248,6 @@ Psychologin oder der Psychologe wird vom Bundesministerium der
 Verteidigung bestellt, wenn sie oder er nicht der Einstellungsbehörde
 angehört.
 
-
 ### § 8 Einstellung in den Vorbereitungsdienst
 
 (1) Vor der Einstellung haben die Bewerberinnen und Bewerber dafür zu
@@ -318,7 +295,6 @@ Bewerberinnen und Bewerbern ein Vorpraktikum zu verlangen, wenn die
 Studien- und Prüfungsordnung der mit der Einstellungsbehörde
 kooperierenden Hochschuleinrichtung dies vorschreibt.
 
-
 ### § 9 Dauer des Vorbereitungsdienstes
 
 (1) Der Vorbereitungsdienst nach § 2 Nummer 1 soll die Mindestdauer
@@ -328,9 +304,7 @@ nicht überschreiten.
 (2) Der Vorbereitungsdienst nach § 2 Nummer 2 dauert in der Regel 42
 Monate.
 
-
 ## Kapitel 3 - Berufspraktische Studienzeit
-
 
 ### § 10 Gliederung der berufspraktischen Studienzeit
 
@@ -379,7 +353,6 @@ durchgeführt werden.
 ergeben sich aus dem Ausbildungsplan nach § 17 Absatz 2 Satz 3. Die
 Ausbildungsabschnitte können durch Exkursionen ergänzt werden.
 
-
 ### § 11 Lehrgang „Aufgaben und Organisation der Bundeswehr und Statusfragen“
 
 Die Anwärterinnen und Anwärter werden mit den Rechten und Pflichten
@@ -391,7 +364,6 @@ Grundlagen sowie über Arbeitsabläufe. Die Anwärterinnen und Anwärter
 sollen am Ende des Lehrgangs über ein Grundwissen verfügen, auf dem
 die weitere Ausbildung aufbaut. Einzelheiten regelt der Lehrplan.
 
-
 ### § 12 Vorstellung der Verwendungsmöglichkeiten der Fachrichtung Wehrtechnik des gehobenen technischen Verwaltungsdienstes
 
 Die Anwärterinnen und Anwärter werden bei Dienststellen des
@@ -399,7 +371,6 @@ Rüstungsbereichs in deren Organisation, Aufgaben und Ausstattung
 eingeführt. Der Ausbildungsabschnitt zeigt die zukünftigen
 Einsatzmöglichkeiten im Rüstungsbereich auf. Einzelheiten regelt der
 Ausbildungsplan.
-
 
 ### § 13 Lehrgänge „Allgemeine Wehrtechnik“, „Technisches Projektmanagement“ und „Wirtschaftlichkeit im Projektmanagement“
 
@@ -424,7 +395,6 @@ Grundkenntnisse im Haushaltsrecht vermittelt.
 fachgebietsübergreifenden Aufgaben im Bereich der Wehrtechnik sowie
 Funktionen im technischen Projektmanagement wahrzunehmen. Einzelheiten
 regelt der jeweilige Lehrplan.
-
 
 ### § 14 Lehrgang „Fachtechnische Grundlagen einzelner wehrtechnischer Fachgebiete“
 
@@ -504,13 +474,11 @@ Ingenieurstudium erworbenen Kenntnisse, ergänzt um die Besonderheiten
 der Wehrtechnik, in ihrem wehrtechnischen Fachgebiet anzuwenden.
 Einzelheiten regelt der Lehrplan.
 
-
 ### § 15 Lehrgang „Rechtsgrundlagen in der Praxis“
 
 Den Anwärterinnen und Anwärtern werden die für die spätere
 Aufgabenwahrnehmung notwendigen Rechts- und Verwaltungskenntnisse
 vermittelt. Einzelheiten regelt der Lehrplan.
-
 
 ### § 16 Praktische Ausbildung
 
@@ -539,7 +507,6 @@ zwischenstaatlichen Stellen durchgeführt wird.
 
 (3) Aufgaben, die nicht dem Zweck der Ausbildung entsprechen, dürfen
 den Anwärterinnen und Anwärtern nicht übertragen werden.
-
 
 ### § 17 Ausbildungsleitung, Ausbildungsbeauftragte, Ausbilderinnen und Ausbilder
 
@@ -584,9 +551,7 @@ entlastet. Die Ausbilderinnen und Ausbilder unterrichten die
 Ausbildungsbeauftragten regelmäßig über den erreichten
 Ausbildungsstand.
 
-
 ## Kapitel 4 - Bachelorstudium
-
 
 ### § 18 Auswahl des Studiengangs, Studienaufbau und Studieninhalte
 
@@ -604,7 +569,6 @@ auch berufspraktische Studienzeiten entsprechend § 10.
 Studienplänen und Bestimmungen der kooperierenden
 Hochschuleinrichtung.
 
-
 ### § 19 Credit Points
 
 Für den erfolgreichen Abschluss des Bachelorstudiums müssen
@@ -614,7 +578,6 @@ European Credit Transfer and Accumulation System richtet. Sie müssen
 außerdem die Modulprüfungen nach den Bestimmungen der kooperierenden
 Hochschuleinrichtung sowie die Teilprüfungen der Laufbahnprüfung
 bestehen.
-
 
 ### § 20 Praktische Ausbildung
 
@@ -640,7 +603,6 @@ Ausbildungsrahmenplan.
 allen Teilprüfungen und in allen Bewertungen nach § 21 mindestens fünf
 Rangpunkte nach § 32 erreicht worden sind.
 
-
 ### § 21 Bewertungen während der praktischen Ausbildung
 
 (1) Die Ausbildungsstellen haben unverzüglich nach Abschluss einer
@@ -655,9 +617,7 @@ oder dem Anwärter zu besprechen.
 (2) Für die Bewertungen sind die Anforderungen der kooperierenden
 Hochschuleinrichtung zu berücksichtigen.
 
-
 ## Kapitel 5 - Prüfungen
-
 
 ### § 22 Prüfungsamt
 
@@ -676,7 +636,6 @@ des Bachelorstudiums nach § 18 Absatz 2 durch, bewertet die
 Bachelorarbeit und bildet das Gesamtergebnis. Für die Studieneinheiten
 innerhalb der praktischen Ausbildung gilt dies nur, soweit sie nicht
 berufspraktische Studienzeiten entsprechend § 10 sind.
-
 
 ### § 23 Prüfungskommissionen
 
@@ -751,7 +710,6 @@ beschlussfähig, wenn alle Mitglieder anwesend sind. Sie entscheidet
 mit Stimmenmehrheit. Bei Stimmengleichheit gibt die Stimme der oder
 des Vorsitzenden den Ausschlag. Stimmenthaltung ist nicht zulässig.
 
-
 ### § 24 Laufbahnprüfung
 
 (1) In der Laufbahnprüfung ist festzustellen, ob die Anwärterinnen und
@@ -788,14 +746,12 @@ Studien- und Prüfungsordnungen die Einzelheiten über Zeitpunkt, Dauer,
 Inhalt, Ablauf und Bewertung der Prüfungen und der Bachelorarbeit und
 führen diese in eigener Zuständigkeit durch.
 
-
 ### § 25 Prüfungsort, Prüfungstermin
 
 Das Prüfungsamt setzt Ort und Zeit der schriftlichen
 Aufsichtsarbeiten, der Praxisarbeit und der mündlichen Prüfung fest
 und sorgt dafür, dass die Anwärterinnen und Anwärter hierüber
 rechtzeitig informiert werden.
-
 
 ### § 26 Schriftliche Aufsichtsarbeiten
 
@@ -862,7 +818,6 @@ und Anwärtern spätestens einen Monat nach dem Prüfungstag durch die
 Erstprüferin oder den Erstprüfer im Auftrag des Prüfungsamtes
 schriftlich bekannt zu geben.
 
-
 ### § 27 Praxisarbeit
 
 (1) Die Praxisarbeit soll erkennen lassen, dass die Anwärterin oder
@@ -908,7 +863,6 @@ spätestens einen Monat nach Abgabetermin durch die Erstprüferin oder
 den Erstprüfer im Auftrag des Prüfungsamtes schriftlich bekannt zu
 geben.
 
-
 ### § 28 Zulassung zur mündlichen Prüfung
 
 (1) Das Prüfungsamt lässt Anwärterinnen und Anwärter zur mündlichen
@@ -922,7 +876,6 @@ vorschreibt, bestanden worden sein.
 (2) Die Ausbildungsleitung teilt den Anwärterinnen und Anwärtern im
 Auftrag des Prüfungsamtes die Zulassung oder Nichtzulassung
 rechtzeitig vor der mündlichen Prüfung mit.
-
 
 ### § 29 Mündliche Prüfung
 
@@ -949,7 +902,6 @@ Durchschnittsrangpunktzahl 5 erreicht worden ist.
 (5) Die Mitglieder der Prüfungskommission haben den Ablauf der Prüfung
 schriftlich zu dokumentieren.
 
-
 ### § 30 Verhinderung, Rücktritt, Säumnis
 
 (1) Wer durch eine Erkrankung oder sonstige nicht zu vertretende
@@ -975,7 +927,6 @@ teilweise, entscheidet das Prüfungsamt, ob die nicht erbrachte
 Prüfungsleistung nachgeholt werden kann oder mit „ungenügend (0
 Rangpunkte)“ bewertet wird oder ob die gesamte Prüfung für nicht
 bestanden erklärt wird.
-
 
 ### § 31 Täuschung, Ordnungsverstoß
 
@@ -1013,7 +964,6 @@ Rechtsbehelfsbelehrung zu versehen.
 
 (5) Betroffene sind vor der Entscheidung nach den Absätzen 2 bis 4 zu
 hören
-
 
 ### § 32 Bewertung von Prüfungsleistungen
 
@@ -1173,10 +1123,6 @@ wie folgt zugeordnet:
 
     *   0
 
-
-
-
-
 ### § 33 Gesamtergebnis
 
 (1) Im Anschluss an die mündliche Prüfung setzt die Prüfungskommission
@@ -1209,7 +1155,6 @@ Rangpunkte mit und erläutert sie auf Wunsch kurz mündlich.
 
 (3) Das Gesamtergebnis der Laufbahnprüfung ist schriftlich zu
 dokumentieren.
-
 
 ### § 34 Zeugnis, Ende des Beamtenverhältnisses
 
@@ -1247,7 +1192,6 @@ werden durch das Prüfungsamt berichtigt. Fehlerhafte Prüfungszeugnisse
 sind zurückzugeben. In den Fällen des § 31 Absatz 3 Satz 1 ist das
 Prüfungszeugnis zurückzugeben.
 
-
 ### § 35 Prüfungsakten, Einsichtnahme
 
 (1) Eine Ausfertigung des Laufbahnprüfungszeugnisses ist mit den
@@ -1261,7 +1205,6 @@ nach Beendigung des Vorbereitungsdienstes zu vernichten.
 (2) Die Anwärterinnen und Anwärter können nach Abschluss der
 mündlichen Prüfung Einsicht in die sie betreffenden Teile der
 Prüfungsakten nehmen.
-
 
 ### § 36 Wiederholung
 
@@ -1283,9 +1226,7 @@ Ablauf der Wiederholungsfrist verlängert.
 Hochschuleinrichtung richtet sich nach der Studien- und
 Prüfungsordnung.
 
-
 ## Kapitel 6 - Aufstieg
-
 
 ### § 37 Aufstiegsverfahren
 
@@ -1302,9 +1243,7 @@ Auswahlverfahrens zu berücksichtigen.
 (2) Die Einstellungsbehörde gestaltet die berufspraktische Einführung
 nach § 39 Absatz 2 der Bundeslaufbahnverordnung.
 
-
 ## Kapitel 7 - Sonstige Vorschriften
-
 
 ### § 38 Übergangsregelung
 
@@ -1321,7 +1260,6 @@ für den gehobenen technischen Dienst in der Bundeswehrverwaltung –
 Fachrichtung Wehrtechnik – vom 6. März 2002 (BGBl. I S. 1097), die
 zuletzt durch Artikel 3 Absatz 27 der Verordnung vom 12. Februar 2009
 (BGBl. I S. 320) geändert worden ist, weiter anzuwenden.
-
 
 ### § 39 Inkrafttreten, Außerkrafttreten
 

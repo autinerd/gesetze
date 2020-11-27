@@ -25,7 +25,6 @@ Fundstelle
     1430/2007 der Kommission vom 5. Dezember 2007 (ABl. EU Nr. L 320 S.
     3).
 
-
 ## Eingangsformel
 
 Auf Grund des § 9 Abs. 1 Satz 1 Nr. 1 und 2 der Handwerksordnung in
@@ -34,9 +33,7 @@ der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S.
 September 2007 (BGBl. I S. 2246) neu gefasst worden ist, verordnet das
 Bundesministerium für Wirtschaft und Technologie:
 
-
 ## Abschnitt 1 - Eintragung in die Handwerksrolle
-
 
 ### § 1 Ausnahmebewilligung zur Eintragung in die Handwerksrolle
 
@@ -51,7 +48,6 @@ Handwerksrolle nach § 9 Abs. 1 Satz 1 Nr. 1 in Verbindung mit § 7 Abs.
 3 der Handwerksordnung für ein Handwerk der Anlage A zur
 Handwerksordnung erteilt. Die Möglichkeit einer Ausnahmebewilligung
 nach § 8 Abs. 1 der Handwerksordnung bleibt unberührt.
-
 
 ### § 2 Anerkennung von Berufserfahrung
 
@@ -113,10 +109,6 @@ sind:
 
 3.  in leitender Stellung mit kaufmännischen oder technischen Aufgaben und
     mit der Verantwortung für mindestens eine Abteilung des Unternehmens.
-
-
-
-
 
 ### § 3 Anerkennung von Ausbildungs- und Befähigungsnachweisen
 
@@ -191,10 +183,6 @@ Qualifikation verfügt:
     durch Rechts- oder Verwaltungsvorschriften festgelegt sein oder von
     einer zuständigen Behörde überwacht oder genehmigt werden.
 
-
-
-
-
 ### § 4 Gleichgestellte Ausbildungen
 
 (1) Ausbildungen, die in einem anderen Mitgliedstaat der Europäischen
@@ -222,10 +210,6 @@ genannten beruflichen Qualifikationen gleichgestellt, wenn
 
 2.  die Antragstellerin oder der Antragsteller diesen Beruf mindestens
     drei Jahre lang auf dem Gebiet des betreffenden Staates ausgeübt hat.
-
-
-
-
 
 ### § 5 Ausgleichsmaßnahmen
 
@@ -271,10 +255,6 @@ wenn
     nach Artikel 15 Abs. 2 der Richtlinie 2005/36/EG auf der Grundlage
     gemeinsamer Plattformen von der Kommission der Europäischen
     Gemeinschaft beschlossen worden sind.
-
-
-
-
 
 ### § 6 Anerkennungsverfahren und Fristen
 
@@ -342,9 +322,7 @@ zuständige Behörde durch Nachfrage bei der zuständigen Behörde oder
 Stelle des Herkunftsstaates die Echtheit oder die dadurch verliehenen
 Rechte überprüfen; der Fristablauf ist so lange gehemmt.
 
-
 ## Abschnitt 2 - Grenzüberschreitende Erbringung von Dienstleistungen
-
 
 ### § 7 Voraussetzungen der Dienstleistungserbringung
 
@@ -370,7 +348,6 @@ Dienstleistungserbringers nachprüfen, wenn unter Berücksichtigung der
 konkret beabsichtigten Tätigkeit bei unzureichender Qualifikation eine
 schwere Gefahr für die Gesundheit oder Sicherheit der
 Dienstleistungsempfänger bestünde.
-
 
 ### § 8 Anzeige vor Dienstleistungserbringung
 
@@ -404,7 +381,6 @@ Voraussetzungen für die Dienstleistungserbringung betreffen, ist die
 nach § 7 durch Unterlagen nachzuweisen. Ansonsten ist die Anzeige
 formlos alle zwölf Monate seit der letzten Anzeige zu wiederholen,
 solange die weitere Erbringung von Dienstleistungen beabsichtigt ist.
-
 
 ### § 9 Nachprüfung der Berufsqualifikation
 
@@ -443,9 +419,7 @@ Die Bescheinigung kann auf einen wesentlichen Teil der Tätigkeiten
 beschränkt werden, die zu einem Handwerk der Nummern 12 oder 33 bis 37
 der Anlage A zur Handwerksordnung gehören.
 
-
 ## Abschnitt 3 - Ordnungswidrigkeiten, Inkrafttreten, Außerkrafttreten
-
 
 ### § 10 Ordnungswidrigkeiten
 
@@ -454,11 +428,9 @@ handelt, wer entgegen § 8 Abs. 1 eine Anzeige nicht, nicht richtig,
 nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht
 rechtzeitig erstattet.
 
-
 ### § 11 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ### Schlussformel
 

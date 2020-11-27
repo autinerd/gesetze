@@ -15,15 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 732
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 15 Abs. 1 des Infektionsschutzgesetzes vom 20. Juli
 2000 (BGBl. I S. 1045), der zuletzt durch Artikel 57 Nr. 1 der
 Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist,
 verordnet das Bundesministerium für Gesundheit:
-
 
 ## § 1
 
@@ -50,11 +47,9 @@ berücksichtigen.
 
 (2) § 7 des Infektionsschutzgesetzes bleibt unberührt.
 
-
 ## § 2
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Schlussformel
 

@@ -47,13 +47,7 @@ Dieses Gesetz dient der Umsetzung
     sowie in Bezug auf die Definition bestimmter Begriffe für die Zwecke
     der genannten Richtlinie (ABl. EU Nr. L 241 S. 26).
 
-
-
-
-
 ## Abschnitt 1 - Allgemeine Bestimmungen über die Börsen und ihre Organe
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -72,7 +66,6 @@ Gemeinschaft (ABl. L 302 vom 18.11.2010, S. 1) durchzuführen, gelten
 hinsichtlich dieser Versteigerungen die Vorschriften dieses Gesetzes,
 soweit in der Verordnung (EU) Nr. 1031/2010 in der jeweils geltenden
 Fassung nichts anderes bestimmt ist.
-
 
 ### § 2 Börsen
 
@@ -104,7 +97,6 @@ beziehenden Vorschriften anzuwenden.
 
 (5) In verwaltungsgerichtlichen Verfahren kann die Börse unter ihrem
 Namen klagen und verklagt werden.
-
 
 ### § 3 Aufgaben und Befugnisse der Börsenaufsichtsbehörde
 
@@ -254,7 +246,6 @@ gesetzlichen Verschwiegenheitspflicht unterliegen, von diesen
 Maßnahmen oder von einem daraufhin eingeleiteten Ermittlungsverfahren
 nicht in Kenntnis setzen.
 
-
 ### § 4 Erlaubnis
 
 (1) Die Errichtung einer Börse bedarf der schriftlichen Erlaubnis der
@@ -365,7 +356,6 @@ den Personen der Geschäftsleitung sowie wesentliche Änderungen
 hinsichtlich der nach Absatz 2 Satz 2 Nr. 1 bis 5 gemachten Angaben
 unverzüglich anzuzeigen. Absatz 2 Satz 3 und 4 gilt entsprechend.
 
-
 ### § 5 Pflichten des Börsenträgers
 
 (1) Mit Erteilung der Erlaubnis wird der Antragsteller als Träger der
@@ -417,7 +407,6 @@ ihren Vollzug der Börsenaufsichtsbehörde unverzüglich anzuzeigen.
 eine ordnungsgemäße Durchführung des Börsenbetriebs verfügen, wobei
 Art, Umfang und Risikostruktur der an der Börse getätigten Geschäfte
 zu berücksichtigen sind.
-
 
 ### § 6 Inhaber bedeutender Beteiligungen
 
@@ -563,7 +552,6 @@ Absätzen 1, 5 und 6 vorgesehenen Anzeigen zu erlassen. Die
 Landesregierung kann die Ermächtigung durch Rechtsverordnung auf die
 Börsenaufsichtsbehörde übertragen.
 
-
 ### § 7 Handelsüberwachungsstelle
 
 (1) Die Börse hat unter Beachtung von Maßgaben der
@@ -649,7 +637,6 @@ Wertpapierhandelsgesetzes erforderlich ist.
 zugewiesenen Aufgaben und Befugnisse nur im öffentlichen Interesse
 wahr.
 
-
 ### § 8 Zusammenarbeit
 
 (1) Die Börsenaufsichtsbehörden und die Bundesanstalt arbeiten eng
@@ -662,7 +649,6 @@ unverzüglich von Handelsaussetzungen und -einstellungen nach § 3 Abs.
 5 Satz 3 Nr. 1, vom Erlöschen einer Erlaubnis nach § 4 Absatz 4 und
 von der Aufhebung einer Erlaubnis nach § 4 Absatz 5 oder den
 Vorschriften der Verwaltungsverfahrensgesetze der Länder.
-
 
 ### § 9 Anwendbarkeit kartellrechtlicher Vorschriften
 
@@ -678,7 +664,6 @@ Anhaltspunkten für Verstöße gegen das Gesetz gegen
 Wettbewerbsbeschränkungen. Diese unterrichtet die
 Börsenaufsichtsbehörde nach Abschluss ihrer Ermittlungen über das
 Ergebnis der Ermittlungen.
-
 
 ### § 10 Verschwiegenheitspflicht
 
@@ -746,7 +731,6 @@ bezeichneten Personen durch eine Stelle eines anderen Staates im Sinne
 des Absatzes 1 Satz 3 Nr. 2 oder durch von dieser Stelle beauftragte
 Personen mitgeteilt worden sind.
 
-
 ### § 11 Untersagung der Preisfeststellung für ausländische Währungen
 
 Das Bundesministerium der Finanzen kann im Einvernehmen mit dem
@@ -756,7 +740,6 @@ Preisermittlung für ausländische Währungen vorübergehend zu
 untersagen, wenn eine erhebliche Marktstörung droht, die
 schwerwiegende Gefahren für die Gesamtwirtschaft oder das Publikum
 erwarten lässt.
-
 
 ### § 12 Börsenrat
 
@@ -837,7 +820,6 @@ Dauer eines Jahres.
 (6) Der Börsenrat nimmt die ihm nach diesem Gesetz zugewiesenen
 Aufgaben und Befugnisse nur im öffentlichen Interesse wahr.
 
-
 ### § 13 Wahl des Börsenrates
 
 (1) Die Mitglieder des Börsenrates werden für die Dauer von bis zu
@@ -866,11 +848,9 @@ ein Nachfolger für die restliche Amtsdauer aus der Mitte der
 jeweiligen Gruppe durch die übrigen Mitglieder des Börsenrates
 hinzugewählt wird.
 
-
 ### § 14 (weggefallen)
 
 -
-
 
 ### § 15 Leitung der Börse
 
@@ -919,7 +899,6 @@ regulierten Markt oder im Freiverkehr dieser Börse gehandelt werden. §
 (6) Die Geschäftsführung nimmt die ihr nach diesem Gesetz zugewiesenen
 Aufgaben und Befugnisse nur im öffentlichen Interesse wahr.
 
-
 ### § 16 Börsenordnung
 
 (1) Die Börsenordnung soll sicherstellen, dass die Börse die ihr
@@ -962,7 +941,6 @@ Börsenaufsichtsbehörde. Diese kann die Aufnahme bestimmter
 Vorschriften in die Börsenordnung verlangen, wenn und soweit sie zur
 Erfüllung der der Börse oder der Börsenaufsichtsbehörde obliegenden
 gesetzlichen Aufgaben notwendig sind.
-
 
 ### § 17 Gebühren und Entgelte
 
@@ -1008,14 +986,12 @@ Börsenträger für Dienstleistungen, welche er im Rahmen des
 Börsenbetriebs für Handelsteilnehmer oder Dritte erbringt, separate
 Entgelte verlangen.
 
-
 ### § 18 Sonstige Benutzung von Börseneinrichtungen
 
 Die Börsenordnung kann für einen anderen als den nach § 16 Abs. 1 Satz
 2 Nr. 1 zu bezeichnenden Geschäftszweig die Benutzung von
 Börseneinrichtungen zulassen. Ein Anspruch auf die Benutzung erwächst
 in diesem Falle für die Beteiligten nicht.
-
 
 ### § 19 Zulassung zur Börse
 
@@ -1147,7 +1123,6 @@ handelt.
 Börsenaufsichtsbehörde regelmäßig ein aktuelles Verzeichnis der an der
 Börse zugelassenen Handelsteilnehmer.
 
-
 ### § 20 Sicherheitsleistungen
 
 (1) Die Börsenordnung kann bestimmen, dass die zur Teilnahme am
@@ -1197,7 +1172,6 @@ und die getroffenen Anordnungen unverzüglich zu unterrichten.
 (5) Widerspruch und Anfechtungsklage gegen Maßnahmen nach Absatz 4
 haben keine aufschiebende Wirkung.
 
-
 ### § 21 Externe Abwicklungssysteme
 
 (1) Die Börsenordnung kann die Anbindung von externen
@@ -1226,7 +1200,6 @@ zulässig, sofern sichergestellt ist, dass
 (2) Sind nach Absatz 1 mehrere alternative Abwicklungssysteme
 verfügbar, ist es den Handelsteilnehmern freizustellen, welches der
 Systeme sie zur Erfüllung der Börsengeschäfte nutzen.
-
 
 ### § 22 Sanktionsausschuss
 
@@ -1270,10 +1243,7 @@ Geschäftsführung das Verfahren übernommen und erweist sich, dass die
 Zulassung nicht zurückzunehmen oder zu widerrufen ist, so verweist sie
 das Verfahren an den Sanktionsausschuss zurück.
 
-
 ## Abschnitt 2 - Börsenhandel und Börsenpreisfeststellung
-
-
 
 ### § 23 Zulassung von Wirtschaftsgütern und Rechten
 
@@ -1297,7 +1267,6 @@ festzusetzen. Diese müssen so ausgestaltet sein, dass ein
 ordnungsgemäßer Börsenhandel und eine wirksame
 Börsengeschäftsabwicklung möglich sind. Absatz 1 Satz 3 gilt
 entsprechend.
-
 
 ### § 24 Börsenpreis
 
@@ -1331,7 +1300,6 @@ Kenntnis gegeben werden muss.
 Eingabe in das Geschäftsabwicklungssystem der Börse besonders zu
 kennzeichnen.
 
-
 ### § 25 Aussetzung und Einstellung des Handels
 
 (1) Die Geschäftsführung kann den Handel von Wirtschaftsgütern oder
@@ -1357,7 +1325,6 @@ haben keine aufschiebende Wirkung.
 (3) Für Maßnahmen nach Artikel 23 Absatz 1 der Verordnung (EU) Nr.
 236/2012 gelten Absatz 1 Satz 2 und Absatz 2 entsprechend.
 
-
 ### § 26 Verleitung zu Börsenspekulationsgeschäften
 
 (1) Es ist verboten, gewerbsmäßig andere unter Ausnutzung ihrer
@@ -1381,10 +1348,7 @@ die darauf gerichtet sind, aus dem Unterschied zwischen dem für die
 Lieferzeit festgelegten Preis und dem zur Lieferzeit vorhandenen
 Börsen- oder Marktpreis einen Gewinn zu erzielen.
 
-
 ## Abschnitt 3 - Skontroführung und Transparenzanforderungen an Wertpapierbörsen
-
-
 
 ### § 27 Zulassung zum Skontroführer
 
@@ -1425,7 +1389,6 @@ unterrichten, wenn sie Maßnahmen zur Sicherung der Erfüllung der
 Verbindlichkeiten des Skontroführers gegenüber dessen Gläubigern
 ergriffen hat.
 
-
 ### § 28 Pflichten des Skontroführers
 
 (1) Der Skontroführer und die skontroführenden Personen haben im
@@ -1443,7 +1406,6 @@ Zeitpunkt der Preisfeststellung vorliegenden Aufträge bei ihrer
 Ausführung unter Beachtung der an der Börse bestehenden besonderen
 Regelungen gleich zu behandeln. Das Nähere regelt die Börsenordnung.
 
-
 ### § 29 Verteilung der Skontren
 
 Über die Verteilung der Skontren unter den für die Skontroführung
@@ -1453,7 +1415,6 @@ Skontren kann befristet erfolgen. Das Nähere regelt die Börsenordnung.
 Die Börsenordnung kann als Kriterien für die Zuteilung der Skontren
 insbesondere die fachliche und wirtschaftliche Leistungsfähigkeit des
 Antragstellers vorsehen.
-
 
 ### § 30 Vorhandelstransparenz bei Aktien und Aktien vertretenden Zertifikaten
 
@@ -1475,7 +1436,6 @@ nach Absatz 1 verwenden.
 (3) Die Einzelheiten der Veröffentlichungspflichten nach Absatz 1
 regelt die Verordnung (EG) Nr. 1287/2006 und die Börsenordnung.
 
-
 ### § 31 Nachhandelstransparenz bei Aktien und Aktien vertretenden Zertifikaten
 
 (1) Für Aktien und Aktien vertretende Zertifikate, die zum Handel im
@@ -1493,10 +1453,7 @@ Verzögerung ist nach Maßgabe von Kapitel IV Abschnitt 4 der Verordnung
 regelt Kapitel IV Abschnitt 1, 3 und 4 der Verordnung (EG) Nr.
 1287/2006 und die Börsenordnung.
 
-
 ## Abschnitt 4 - Zulassung von Wertpapieren zum Börsenhandel
-
-
 
 ### § 32 Zulassungspflicht
 
@@ -1543,7 +1500,6 @@ Zeitungen mit überregionaler Verbreitung zu Bekanntmachungsblättern
 für die vorgeschriebenen Veröffentlichungen (überregionale
 Börsenpflichtblätter). Die Bestimmung kann zeitlich begrenzt werden;
 sie ist durch Börsenbekanntmachung zu veröffentlichen.
-
 
 ### § 33 Einbeziehung von Wertpapieren in den regulierten Markt
 
@@ -1599,7 +1555,6 @@ Einbeziehung.
 Börsenpreises gilt § 25 entsprechend. Für den Widerruf der
 Einbeziehung gilt § 39 Abs. 1 entsprechend.
 
-
 ### § 34 Ermächtigungen
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
@@ -1633,7 +1588,6 @@ ordnungsgemäßen Börsenhandel erforderlichen Vorschriften über
 
 zu erlassen.
 
-
 ### § 35 Verweigerung der Zulassung
 
 (1) Lehnt die Geschäftsführung einen Zulassungsantrag ab, so hat sie
@@ -1653,7 +1607,6 @@ die über den Antrag zu entscheiden haben, zugelassen werden. Die
 Zustimmung darf nicht aus Rücksicht auf örtliche Verhältnisse
 verweigert werden.
 
-
 ### § 36 Zusammenarbeit in der Europäischen Union
 
 (1) Beantragt ein Emittent mit Sitz in einem anderen Mitgliedstaat der
@@ -1672,7 +1625,6 @@ Vertragsstaates einzuholen.
 (2) Die Vorschriften über die Zusammenarbeit nach dem
 Wertpapierprospektgesetz bleiben unberührt.
 
-
 ### § 37 Staatliche Schuldverschreibungen
 
 Schuldverschreibungen des Bundes, seiner Sondervermögen oder eines
@@ -1682,7 +1634,6 @@ Schuldverschreibungen, die von einem anderen Mitgliedstaat der
 Europäischen Union oder von einem anderen Vertragsstaat des Abkommens
 über den Europäischen Wirtschaftsraum ausgegeben werden, sind an jeder
 inländischen Börse zum Handel im regulierten Markt zugelassen.
-
 
 ### § 38 Einführung
 
@@ -1706,7 +1657,6 @@ Zulassung. Die Geschäftsführung kann die Frist auf Antrag angemessen
 verlängern, wenn ein berechtigtes Interesse des Emittenten der
 zugelassenen Wertpapiere an der Verlängerung dargetan wird.
 
-
 ### § 39 Widerruf der Zulassung bei Wertpapieren
 
 (1) Die Geschäftsführung kann die Zulassung von Wertpapieren zum
@@ -1725,7 +1675,6 @@ Zeitraum zwischen der Veröffentlichung und der Wirksamkeit des
 Widerrufs darf zwei Jahre nicht überschreiten. Nähere Bestimmungen
 über den Widerruf sind in der Börsenordnung zu treffen.
 
-
 ### § 40 Pflichten des Emittenten
 
 (1) Der Emittent zugelassener Aktien ist verpflichtet, für später
@@ -1736,7 +1685,6 @@ Markt zu beantragen.
 Zustimmung des Bundesrates Vorschriften darüber zu erlassen, wann und
 unter welchen Voraussetzungen die Verpflichtung nach Absatz 1
 eintritt.
-
 
 ### § 41 Auskunftserteilung
 
@@ -1755,7 +1703,6 @@ Emittent dem Verlangen der Geschäftsführung nicht nach, kann die
 Geschäftsführung nach Anhörung des Emittenten auf dessen Kosten diese
 Auskünfte selbst veröffentlichen.
 
-
 ### § 42 Teilbereiche des regulierten Marktes mit besonderen Pflichten für Emittenten
 
 (1) Die Börsenordnung kann für Teilbereiche des regulierten Marktes
@@ -1771,7 +1718,6 @@ Frist zusätzliche Pflichten nach § 42 nicht, kann die Geschäftsführung
 den Emittent aus dem entsprechenden Teilbereich des regulierten
 Marktes ausschließen. § 25 Abs. 1 Satz 2 und 3 gilt bei Maßnahmen der
 Geschäftsführung nach diesem Absatz entsprechend.
-
 
 ### § 43 Verpflichtung des Insolvenzverwalters
 
@@ -1789,13 +1735,9 @@ Verpflichteten ein allgemeines Verfügungsverbot auferlegt wurde, indem
 er die Mittel aus dem von ihm verwalteten Vermögen zur Verfügung
 stellt.
 
-
 ### (XXXX) §§ 44 bis 47
 
-
 ## Abschnitt 5 - Freiverkehr
-
-
 
 ### § 48 Freiverkehr
 
@@ -1822,10 +1764,7 @@ der Börsenaufsichtsbehörde. Auf den Betrieb des Freiverkehrs sind die
 Vorschriften dieses Gesetzes mit Ausnahme der §§ 27 bis 29 und 32 bis
 43 entsprechend anzuwenden.
 
-
 ## Abschnitt 6 - Straf- und Bußgeldvorschriften; Schlussvorschriften
-
-
 
 ### § 49 Strafvorschriften
 
@@ -1833,7 +1772,6 @@ Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
 bestraft, wer entgegen § 26 Abs. 1 andere zu
 Börsenspekulationsgeschäften oder zu einer Beteiligung an einem
 solchen Geschäft verleitet.
-
 
 ### § 50 Bußgeldvorschriften
 
@@ -1903,7 +1841,6 @@ Fällen des Absatzes 1 Nr. 3 Buchstabe a und Nr. 4 und 6 mit einer
 Geldbuße bis zu hunderttausend Euro, in den übrigen Fällen mit einer
 Geldbuße bis zu fünfzigtausend Euro geahndet werden.
 
-
 ### § 51 Geltung für Wechsel und ausländische Zahlungsmittel
 
 (1) Die §§ 24 und 27 bis 29 gelten auch für den Börsenhandel mit
@@ -1911,7 +1848,6 @@ Wechseln und ausländischen Zahlungsmitteln.
 
 (2) Als Zahlungsmittel im Sinne des Absatzes 1 gelten auch
 Auszahlungen, Anweisungen und Schecks.
-
 
 ### § 52 Übergangsregelungen
 

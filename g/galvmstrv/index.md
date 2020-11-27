@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1984, 768
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 45 der Handwerksordnung in der Fassung der
@@ -26,10 +24,7 @@ durch Artikel 24 Nr. 1 des Gesetzes vom 18. März 1975 (BGBl. I S. 705)
 geändert worden ist, wird im Einvernehmen mit dem Bundesminister für
 Bildung und Wissenschaft verordnet:
 
-
 ## 1. Abschnitt - Berufsbild
-
-
 
 ### § 1 Berufsbild
 
@@ -159,13 +154,7 @@ Kenntnisse und Fertigkeiten zuzurechnen:
 29. Pflegen und Instandhalten von Bädern, Vorrichtungen, Werkzeugen,
     Geräten, Maschinen und Anlagen.
 
-
-
-
-
 ## 2. Abschnitt - Prüfungsanforderungen in den Teilen I und II der Meisterprüfung
-
-
 
 ### § 2 Gliederung, Dauer und Bestehen der praktischen Prüfung (Teil I)
 
@@ -181,7 +170,6 @@ acht Stunden dauern.
 (3) Mindestvoraussetzung für das Bestehen des Teils I sind jeweils
 ausreichende Leistungen in der Meisterprüfungsarbeit und in der
 Arbeitsprobe.
-
 
 ### § 3 Meisterprüfungsarbeit
 
@@ -225,10 +213,6 @@ anzufertigen:
     200 mm, einem Innendurchmesser von 50 mm und einer Höhe von 40 mm
     sowie 4 gleichmäßig angeordneten Gewindebohrungen M 8 x 30 mm. Der
     Stahlring ist vorher allseitig zu schleifen und zu polieren.
-
-
-
-
 
 ### § 4 Arbeitsprobe
 
@@ -282,7 +266,6 @@ jedem Fall die nach den Nummern 1, 2 und 3, auszuführen:
 (2) In der Arbeitsprobe sind die wichtigsten Fertigkeiten und
 Kenntnisse zu prüfen, die in der Meisterprüfungsarbeit nicht oder nur
 unzureichend nachgewiesen werden konnten.
-
 
 ### § 5 Prüfung der fachtheoretischen Kenntnisse (Teil II)
 
@@ -391,15 +374,11 @@ Stunden geprüft werden.
 ausreichende Leistungen in den Prüfungsfächern nach Absatz 1 Nr. 1, 3,
 4 und 5.
 
-
 ## 3. Abschnitt - Übergangs- und Schlußvorschriften
-
-
 
 ### § 6
 
 -
-
 
 ### § 7 Weitere Anforderungen
 
@@ -408,12 +387,10 @@ der Verordnung über gemeinsame Anforderungen in der Meisterprüfung im
 Handwerk vom 12. Dezember 1972 (BGBl. I S. 2381) in der jeweils
 geltenden Fassung.
 
-
 ### § 8 Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 128 der Handwerksordnung auch im Land Berlin.
-
 
 ### § 9 Inkrafttreten
 
@@ -422,7 +399,6 @@ Verbindung mit § 128 der Handwerksordnung auch im Land Berlin.
 (2) Die auf Grund des § 122 der Handwerksordnung weiter anzuwendenden
 Vorschriften sind, soweit sie Gegenstände dieser Verordnung regeln,
 nicht mehr anzuwenden.
-
 
 ### Schlußformel
 

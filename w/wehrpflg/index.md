@@ -21,14 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 8 G v. 21.7.2012 I 1583
 
-
 ## Abschnitt 1 - Wehrpflicht
 
-
-
 ### Unterabschnitt 1 - Umfang der Wehrpflicht
-
-
 
 #### § 1 Allgemeine Wehrpflicht
 
@@ -75,16 +70,11 @@ Aufenthalt
 3.  aus der Bundesrepublik Deutschland hinausverlegen, ohne sie zu
     verlassen.
 
-
-
-
-
 #### § 2 Geltung der folgenden Vorschriften
 
 Die §§ 3 bis 53 gelten im Spannungs- oder Verteidigungsfall. Im
 Übrigen gelten sie nur, soweit dies in Abschnitt 7 bestimmt ist.
 Abschnitt 7 gilt nicht im Spannungs- oder Verteidigungsfall.
-
 
 #### § 3 Inhalt und Dauer der Wehrpflicht
 
@@ -124,10 +114,7 @@ Ablauf des Jahres, in dem sie das 60. Lebensjahr vollenden.
 Ablauf des Jahres, in dem der Wehrpflichtige das 60. Lebensjahr
 vollendet.
 
-
 ### Unterabschnitt 2 - Wehrdienst
-
-
 
 #### § 4 Arten des Wehrdienstes
 
@@ -166,7 +153,6 @@ Wehrpflicht Wehrdienst leistet. Das gilt auch für eine besondere
 Auslandsverwendung nach § 6a, den freiwilligen zusätzlichen Wehrdienst
 im Anschluss an den Grundwehrdienst nach § 6b, die Hilfeleistung im
 Innern nach § 6c und die Hilfeleistung im Ausland nach § 6d.
-
 
 #### § 5 Grundwehrdienst
 
@@ -266,7 +252,6 @@ Person liegen, während des Vollzuges bei der Bundeswehr nicht zu
 dienstlichen Aufgaben außerhalb der Vollzugseinrichtung herangezogen
 wird.
 
-
 #### § 6 Wehrübungen
 
 (1) Eine Wehrübung dauert grundsätzlich höchstens drei Monate. Über
@@ -296,7 +281,6 @@ der Verteidigung kann eine Anrechnung anordnen.
 die zu Wehrübungen herangezogen werden sollen, die
 Verwendungsfähigkeit allgemein oder für den Einzelfall abweichend von
 § 8a Absatz 2 Satz 1 bestimmen.
-
 
 #### § 6a Besondere Auslandsverwendung
 
@@ -341,7 +325,6 @@ Wehrdienst nach der Entlassung rechtfertigen, nicht bedarf.
 
 (6) § 6 Absatz 7 ist entsprechend anzuwenden.
 
-
 #### § 6b Freiwilliger zusätzlicher Wehrdienst im Anschluss an den Grundwehrdienst
 
 (1) Wehrpflichtige können im Anschluss an den Grundwehrdienst
@@ -372,7 +355,6 @@ Eignungs- und Leistungsanforderungen, die an einen Soldaten zu stellen
 sind, der freiwilligen zusätzlichen Wehrdienst leistet, nicht oder
 nicht mehr erfüllt. Absatz 2 Satz 3 gilt sinngemäß.
 
-
 #### § 6c Hilfeleistung im Innern
 
 (1) Zu Verwendungen der Streitkräfte im Rahmen der Amtshilfe oder zur
@@ -396,7 +378,6 @@ anzuwenden.
 (5) Als Hilfeleistung im Innern gelten auch vorbereitende Übungen im
 Rahmen der zivil-militärischen Zusammenarbeit.
 
-
 #### § 6d Hilfeleistung im Ausland
 
 (1) Zu Verwendungen der Streitkräfte im Rahmen von humanitären
@@ -416,7 +397,6 @@ Arbeitgebers oder seiner Dienstbehörde Ausnahmen zulassen.
 (4) Im Übrigen sind § 6 Absatz 7 und § 6a Absatz 3 bis 5 entsprechend
 anzuwenden.
 
-
 #### § 7 Anrechnung von freiwillig geleistetem Wehrdienst und von geleistetem Zivildienst
 
 (1) Der auf Grund freiwilliger Verpflichtung in der Bundeswehr
@@ -431,7 +411,6 @@ sie Zivildienst von der in § 24 Absatz 2 des Zivildienstgesetzes
 bestimmten Dauer geleistet haben. Wird der Zivildienst vorzeitig
 beendet, ist die im Zivildienst zurückgelegte Zeit auf den Wehrdienst
 anzurechnen.
-
 
 #### § 8 Wehrdienst außerhalb der Bundeswehr; Anrechnung von Wehrdienst und anderen Diensten außerhalb der Bundeswehr
 
@@ -460,7 +439,6 @@ Nachweis des Wehrdienstes außerhalb der Bundeswehr oder des anstelle
 des Wehrdienstes geleisteten anderen Dienstes eine Versicherung des
 Wehrpflichtigen an Eides statt verlangen.
 
-
 #### § 8a Tauglichkeitsgrade; Verwendungsgrade
 
 (1) Folgende Tauglichkeitsgrade werden festgesetzt:
@@ -482,15 +460,11 @@ für bestimmte Tätigkeiten. Im Rahmen ihrer Verwendungsfähigkeit stehen
 sie für den Wehrdienst zur Verfügung, soweit dieses Gesetz nichts
 anderes bestimmt.
 
-
 ### Unterabschnitt 3 - Wehrdienstausnahmen
-
-
 
 #### § 9 Wehrdienstunfähigkeit
 
 Zum Wehrdienst wird nicht herangezogen, wer nicht wehrdienstfähig ist.
-
 
 #### § 10 Ausschluss vom Wehrdienst
 
@@ -513,10 +487,6 @@ Vom Wehrdienst ist ausgeschlossen,
 3.  wer einer Maßregel der Besserung und Sicherung nach den §§ 64, 66, 66a
     oder 66b des Strafgesetzbuches unterworfen ist, solange die Maßregel
     nicht erledigt ist.
-
-
-
-
 
 #### § 11 Befreiung vom Wehrdienst
 
@@ -609,7 +579,6 @@ Abschluss der Musterung schriftlich, elektronisch oder zur
 Niederschrift beim Kreiswehrersatzamt zu stellen, es sei denn, der
 Befreiungsgrund tritt erst später ein oder wird später bekannt. Er ist
 zu begründen.
-
 
 #### § 12 Zurückstellung vom Wehrdienst
 
@@ -733,7 +702,6 @@ Zurückstellung bedarf der Zustimmung des Wehrpflichtigen. Die
 Einberufung des Wehrpflichtigen ist bis zur Entscheidung über den
 Antrag auszusetzen.
 
-
 #### § 13 Unabkömmlichstellung
 
 (1) Zum Ausgleich des personellen Kräftebedarfs für die Aufgaben der
@@ -766,7 +734,6 @@ verpflichtet, den Wegfall der Voraussetzungen für die
 Unabkömmlichstellung der zuständigen Wehrersatzbehörde anzuzeigen.
 Wehrpflichtige, die in keinem Arbeits- oder Dienstverhältnis stehen,
 haben den Wegfall der Voraussetzungen selbst anzuzeigen.
-
 
 #### § 13a Zivilschutz oder Katastrophenschutz
 
@@ -803,7 +770,6 @@ Wehrersatzbehörde das Vorliegen sowie den Wegfall der Voraussetzungen
 für die Nichtheranziehung von Wehrpflichtigen zum Wehrdienst
 anzuzeigen.
 
-
 #### § 13b Entwicklungsdienst
 
 (1) Wehrpflichtige werden bis zur Vollendung des 28. Lebensjahres
@@ -832,10 +798,7 @@ Vorliegen sowie den Wegfall der Voraussetzungen für die
 Nichtheranziehung von Wehrpflichtigen der zuständigen
 Wehrersatzbehörde anzuzeigen.
 
-
 ## Abschnitt 2 - Wehrersatzwesen
-
-
 
 ### § 14 Wehrersatzbehörden
 
@@ -864,7 +827,6 @@ kann durch allgemeine Verwaltungsvorschriften die örtliche
 Zuständigkeit für Musterungsentscheidungen nach § 16 Absatz 2 Satz 1
 und für die Anhörung nach § 29 Absatz 4 Nummer 1 abweichend von den
 Vorschriften des Verwaltungsverfahrensgesetzes regeln.
-
 
 ### § 15 Erfassung
 
@@ -965,7 +927,6 @@ Wehrpflichtigen tragen die Länder.
 Lebensjahres erfasst werden. Die Absätze 1 bis 5 und § 17 Absatz 3
 Satz 2 Halbsatz 1 gelten entsprechend.
 
-
 ### § 16 Zweck der Musterung
 
 (1) Ungediente Wehrpflichtige werden vor der Heranziehung zum
@@ -985,7 +946,6 @@ Grundwehrdienst herangezogen zu werden, bereits ein halbes Jahr vor
 Vollendung des 17. Lebensjahres gemustert werden; von diesem Zeitpunkt
 an finden auf diese männlichen Personen die Absätze 1 und 2, §§ 17,
 19, 20a, 21, 24, 24b und 25 Anwendung.
-
 
 ### § 17 Durchführung der Musterung
 
@@ -1050,11 +1010,9 @@ scheitert eine polizeiliche Vorführung oder verspricht diese keinen
 Erfolg, ist nach Aktenlage zu entscheiden. Dies gilt auch dann, wenn
 sich der Wehrpflichtige nicht untersuchen lässt.
 
-
 ### § 18 (weggefallen)
 
 -
-
 
 ### § 19 Verfahrensgrundsätze
 
@@ -1093,7 +1051,6 @@ die Bestellung eines Vertreters entstehen, erstattet. Das Nähere über
 die Erstattung von notwendigen Auslagen, Verdienstausfall und
 Vertretungskosten regelt eine Rechtsverordnung.
 
-
 ### § 20 Zurückstellungsanträge
 
 Anträge auf Zurückstellung nach § 12 Absatz 2 und 4 sind frühestens
@@ -1102,7 +1059,6 @@ nach Mitteilung der Erfassung durch die Erfassungsbehörde (§ 15 Absatz
 elektronisch oder zur Niederschrift beim Kreiswehrersatzamt zu
 stellen, es sei denn, der Zurückstellungsgrund tritt erst später ein
 oder wird später bekannt. Sie sind zu begründen.
-
 
 ### § 20a Eignungsuntersuchung und Eignungsfeststellung nach der Musterung
 
@@ -1114,7 +1070,6 @@ getroffenen Feststellungen nicht ausreichen.
 
 (2) § 17 Absatz 8 Satz 2 bis 4 und § 19 Absatz 5 Satz 1 bis 5 finden
 entsprechende Anwendung.
-
 
 ### § 20b Überprüfungsuntersuchung; Anhörung
 
@@ -1134,7 +1089,6 @@ Tauglichkeitsüberprüfungsbescheid mitzuteilen. Das gilt auch dann,
 wenn eine beantragte Überprüfung des Tauglichkeitsgrades ohne
 ärztliche Untersuchung durchgeführt wird. § 19 Absatz 5 Satz 1 bis 5
 gilt entsprechend.
-
 
 ### § 21 Einberufung
 
@@ -1172,14 +1126,9 @@ ohne Einhaltung einer Frist einberufen werden, wenn
 
 5.  eine Hilfeleistung im Innern oder im Ausland zu erbringen ist.
 
-
-
-
-
 ### § 22 (weggefallen)
 
 -
-
 
 ### § 23 Heranziehung von gedienten Wehrpflichtigen
 
@@ -1197,7 +1146,6 @@ die Kreiswehrersatzämter vorzustellen und ärztlich untersuchen zu
 lassen. Sie haben sich entsprechend dem Einberufungsbescheid zum
 Wehrdienst in der Bundeswehr zu stellen. § 21 Absatz 3 gilt
 entsprechend.
-
 
 ### § 24 Wehrüberwachung; Haftung
 
@@ -1332,10 +1280,6 @@ oder mündlich zu melden
     Qualifikation; hierüber in ihrem Besitz befindliche Nachweise haben
     die Wehrpflichtigen auf Aufforderung unverzüglich vorzulegen.
 
-
-
-
-
 ### § 24a Änderungsdienst
 
 Für Zwecke der Musterungsvorbereitung und der Wehrüberwachung teilt
@@ -1373,10 +1317,6 @@ vollendet haben, mit:
 
 
 10. Sterbetag und -ort.
-
-
-
-
 
 ### § 24b Aufenthaltsfeststellungsverfahren
 
@@ -1445,25 +1385,18 @@ unterrichten sind.
 übermittelt, haben die in Absatz 2 Satz 1 Nummer 1 bis 4 genannten
 Stellen die ihnen zuvor übermittelte Datei zu löschen.
 
-
 ## Abschnitt 3 - Personalakten
-
-
 
 ### § 25 Personalakten ungedienter Wehrpflichtiger
 
 Für die Führung der Personalakten ungedienter Wehrpflichtiger gelten
 die §§ 29 und 93 Absatz 2 Nummer 3 des Soldatengesetzes entsprechend.
 
-
 ### (XXXX) §§ 26 und 27 (weggefallen)
 
 -
 
-
 ## Abschnitt 4 - Beendigung des Wehrdienstes und Verlust des Dienstgrades
-
-
 
 ### § 28 Beendigungsgründe
 
@@ -1483,10 +1416,6 @@ Der Wehrdienst endet
 
 
 4.  durch Ausschluss (§ 30).
-
-
-
-
 
 ### § 29 Entlassung
 
@@ -1619,7 +1548,6 @@ verfolgte Zweck entfallen ist und eine andere Verwendung im Hinblick
 auf die Ausbildung für die bestehende oder künftige Verwendung in
 einem Spannungs- oder Verteidigungsfall nicht erfolgen kann.
 
-
 ### § 29a Verlängerung des Wehrdienstes bei stationärer truppenärztlicher Behandlung
 
 Befindet sich ein Soldat, der nach Maßgabe dieses Gesetzes Wehrdienst
@@ -1638,7 +1566,6 @@ Behandlung, so endet der Wehrdienst, zu dem er einberufen wurde,
 
 Das Wehrdienstverhältnis des Soldaten bleibt hiervon unberührt.
 
-
 ### § 29b Verlängerung des Wehrdienstes aus sonstigen Gründen
 
 Ist ein Soldat während einer besonderen Auslandsverwendung wegen
@@ -1648,7 +1575,6 @@ Einflussbereich des Dienstherrn entzogen, so ist er mit Ablauf des auf
 die Beendigung dieses Zustandes folgenden Monats zu entlassen. Das
 gilt auch bei anderen Verwendungen im Ausland mit vergleichbarer
 Gefährdungslage.
-
 
 ### § 30 Ausschluss aus der Bundeswehr und Verlust des Dienstgrades
 
@@ -1678,7 +1604,6 @@ Kriegsdienstverweigerer anerkannt wird. Leistet er in diesem Zeitpunkt
 nach Maßgabe dieses Gesetzes Wehrdienst, tritt der Verlust des
 Dienstgrades mit dem Ende des Wehrdienstes ein.
 
-
 ### § 31 Wiederaufnahme des Verfahrens
 
 Wird ein Urteil mit den Folgen des § 30 im Wiederaufnahmeverfahren
@@ -1687,16 +1612,12 @@ Verlust des Dienstgrades als nicht eingetreten. Die Beendigung des
 Wehrdienstes durch einen Ausschluss darf für die Erfüllung der
 Wehrpflicht nicht zum Nachteil des Betroffenen geltend gemacht werden.
 
-
 ## Abschnitt 5 - Rechtsbehelfe; Rechtsmittel
-
-
 
 ### § 32 Rechtsweg
 
 Für Rechtsstreitigkeiten bei der Ausführung dieses Gesetzes ist der
 Verwaltungsrechtsweg gegeben.
-
 
 ### § 33 Besondere Vorschriften für das Vorverfahren
 
@@ -1724,7 +1645,6 @@ Rechtsbehelf gegen den Einberufungsbescheid nur insoweit zulässig, als
 eine Rechtsverletzung durch den Einberufungsbescheid selbst geltend
 gemacht wird.
 
-
 ### § 34 Rechtsmittel gegen Entscheidungen des Verwaltungsgerichts
 
 Die Berufung gegen ein Urteil und die Beschwerde gegen eine andere
@@ -1736,7 +1656,6 @@ Beschwerde gegen Beschlüsse über den Rechtsweg nach § 17a Absatz 2 und
 über den Rechtsweg findet § 17a Absatz 4 Satz 4 bis 6 des
 Gerichtsverfassungsgesetzes entsprechende Anwendung.
 
-
 ### § 35 Besondere Vorschriften für die Anfechtungsklage
 
 Die Anfechtungsklage gegen den Musterungsbescheid, die
@@ -1747,15 +1666,11 @@ keine aufschiebende Wirkung. Das Gericht kann auf Antrag die
 aufschiebende Wirkung anordnen. Vor der Anordnung ist die
 Wehrbereichsverwaltung zu hören.
 
-
 ## Abschnitt 6 - Einschränkung von Grundrechten, Sonder-, Bußgeld- und Übergangsvorschriften
-
-
 
 ### (XXXX) §§ 36 bis 41 (weggefallen)
 
 -
-
 
 ### § 42 Sondervorschriften für Angehörige des Polizeivollzugsdienstes
 
@@ -1772,7 +1687,6 @@ Vollzugsdienst der Polizei nicht antreten.
 (3) Für die Heranziehung von Wehrpflichtigen, die im Vollzugsdienst
 der Polizei Dienst geleistet haben, gilt § 23 entsprechend.
 
-
 ### § 42a Grenzschutzdienstpflicht
 
 Männer, die nach dem Bundesgrenzschutzgesetz vom 18. August 1972
@@ -1781,11 +1695,9 @@ verpflichtet sind (Grenzschutzdienstpflichtige), können nicht zum
 Wehrdienst herangezogen werden. Der im Bundesgrenzschutz geleistete
 Dienst ist auf den Grundwehrdienst anzurechnen.
 
-
 ### § 43 (weggefallen)
 
 -
-
 
 ### § 44 Zustellung, Vorführung und Zuführung
 
@@ -1832,7 +1744,6 @@ zuständig, in dessen Bezirk die Durchsuchung vorgenommen werden soll.
 Das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des
 Grundgesetzes) wird insoweit eingeschränkt.
 
-
 ### § 45 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
@@ -1871,11 +1782,9 @@ Grundgesetzes) wird insoweit eingeschränkt.
 (3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des
 Gesetzes über Ordnungswidrigkeiten ist das Kreiswehrersatzamt.
 
-
 ### (XXXX) §§ 46 und 47 (weggefallen)
 
 -
-
 
 ### § 48 Vorschriften für den Bereitschafts-, Spannungs- und Verteidigungsfall
 
@@ -1963,14 +1872,9 @@ Deutschland aufhalten oder sie verlassen.
     Bundeswehr erreichten Dienstgrad eingestellt werden, wenn die
     Einberufung durch das zuständige Kreiswehrersatzamt nicht möglich ist.
 
-
-
-
-
 ### § 49 (weggefallen)
 
 -
-
 
 ### § 50 Zuständigkeit für den Erlass von Rechtsverordnungen
 
@@ -1988,7 +1892,6 @@ Deutschland aufhalten oder sie verlassen.
 (2) Die Rechtsverordnung nach Absatz 1 Nummer 1 bedarf der Zustimmung
 des Bundesrates.
 
-
 ### § 51 Einschränkung von Grundrechten
 
 Die Grundrechte der körperlichen Unversehrtheit (Artikel 2 Absatz 2
@@ -1997,14 +1900,12 @@ Satz 2 des Grundgesetzes), der Freizügigkeit (Artikel 11 Absatz 1 des
 Grundgesetzes) und der Unverletzlichkeit der Wohnung (Artikel 13 des
 Grundgesetzes) werden nach Maßgabe dieses Gesetzes eingeschränkt.
 
-
 ### § 52 Übergangsvorschrift
 
 Auf Wehrpflichtige, die vor dem Inkrafttreten des Gesetzes vom 31.
 Juli 2008 (BGBl. I S. 1629) unabkömmlich gestellt worden sind, ist §
 13 Absatz 1 Satz 1 in der bis dahin gültigen Fassung weiterhin
 anzuwenden.
-
 
 ### § 53 Übergangsvorschrift aus Anlass des Wehrrechtsänderungsgesetzes 2010
 
@@ -2025,10 +1926,7 @@ neu festzusetzen. Absatz 1 Satz 2 gilt entsprechend.
 Dezember 2010 auf Antrag zu entpflichten, wenn sie die von diesem Tage
 an vorgesehene Verpflichtungszeit abgeleistet haben.
 
-
 ## Abschnitt 7 - Freiwilliger Wehrdienst
-
-
 
 ### § 54 Freiwilliger Wehrdienst
 
@@ -2040,7 +1938,6 @@ Probezeit und bis zu 17 Monaten anschließendem freiwilligem
 zusätzlichem Wehrdienst.
 
 (2) § 10 gilt entsprechend.
-
 
 ### § 55 Verpflichtung
 
@@ -2058,7 +1955,6 @@ nach Absatz 1 Satz 2 entbunden werden. Dem Antrag ist stattzugeben,
 wenn die besondere Verwendung im Ausland wegen persönlicher oder
 familiärer Gründe eine besondere Härte bedeuten würde.
 
-
 ### § 56 Status
 
 Regelungen in anderen Gesetzen oder Rechtsverordnungen, die an die
@@ -2068,13 +1964,11 @@ anknüpfen, sind auf Personen, die Wehrdienst nach diesem Abschnitt
 leisten, soweit keine ausdrückliche Regelung vorhanden ist,
 entsprechend anzuwenden.
 
-
 ### § 57 Wehrersatzbehörden
 
 Die Aufgaben nach diesem Abschnitt werden in bundeseigener Verwaltung
 wahrgenommen. § 14 Absatz 1 gilt bis zur Neuregelung der
 Bundeswehrverwaltung entsprechend.
-
 
 ### § 58 Erhebung personenbezogener Daten bei den Meldebehörden
 
@@ -2102,7 +1996,6 @@ werden. Sie sind zu löschen, wenn die Betroffenen dies verlangen,
 spätestens jedoch nach Ablauf eines Jahres nach der erstmaligen
 Speicherung der Daten beim Bundesamt für Wehrverwaltung.
 
-
 ### § 59 Beratung und Untersuchung
 
 (1) Die Wehrersatzbehörden bieten Personen, die Interesse an einem
@@ -2123,7 +2016,6 @@ Untersuchung zu löschen.
 (5) Für die Erstattung von Aufwendungen gilt § 11 Absatz 2 des
 Bundesreisekostengesetzes entsprechend.
 
-
 ### § 60 Dienstantritt
 
 (1) Die zuständige Behörde fordert zum Antritt des freiwilligen
@@ -2136,7 +2028,6 @@ gegeben werden.
 (2) Regelungen in anderen Gesetzen oder Rechtsverordnungen, die an die
 Einberufung zum Wehrdienst anknüpfen, sind auf den Bescheid zum
 Dienstantritt nach Absatz 1 entsprechend anzuwenden.
-
 
 ### § 61 Beendigung des freiwilligen Wehrdienstes
 
@@ -2157,7 +2048,6 @@ entlassen werden, wenn eine anderweitige Verwendung nicht möglich ist.
 (4) Die §§ 29a, 29b sowie 30 Absatz 1 Satz 2, Absatz 2 und 3 gelten
 entsprechend.
 
-
 ### § 62 Übergangsvorschrift
 
 (1) Soldaten, die zu einem Grundwehrdienst (§ 5) einberufen worden
@@ -2173,7 +2063,6 @@ Oktober 2011 die Daten zu Personen mit deutscher Staatsangehörigkeit,
 die im Jahr 2012 volljährig werden, übermittelt werden, soweit die
 Betroffenen nicht nach § 18 Absatz 7 Satz 1 in Verbindung mit § 25 des
 Melderechtsrahmengesetzes der Übermittlung widersprochen haben.
-
 
 ### Anhang EV Auszug aus EinigVtr Anlage I Kapitel XIX Sachgebiet B Abschnitt III (BGBl. II 1990, 889, 1146) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 

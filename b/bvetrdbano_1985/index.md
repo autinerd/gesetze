@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1985, 646
 
-
-
 ## I.
 
 Auf Grund des § 174 Abs. 3 des Bundesbeamtengesetzes in der Fassung
@@ -43,11 +41,9 @@ Wir behalten uns im Einzelfall die gerichtliche Vertretung der
 Deutschen Bundesbahn in den Fällen der Nummer 1 Satz 1 und der Nummer
 2 dieser Allgemeinen Anordnung vor.
 
-
 ## II.
 
 Diese Anordnung tritt am 1. Mai 1985 in Kraft.
-
 
 ## Schlußformel
 

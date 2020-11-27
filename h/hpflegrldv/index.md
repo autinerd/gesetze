@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 30.8.2012 I 1888
 
-
 ## Eingangsformel
 
 Auf Grund der §§ 7a, 8 Abs. 2 und § 8a Abs. 1 des Gesetzes über die
@@ -29,13 +28,9 @@ Kraftfahrzeuganhänger vom 24. Juli 1956 (Bundesgesetzbl. I S. 667,
 Strafgesetzbuch vom 2. März 1974 (Bundesgesetzbl. I S. 469), wird nach
 Anhörung der obersten Landesbehörden verordnet:
 
-
 ## Art 1
 
-
-
 ### Erster Abschnitt - Wegfall des Versicherungsnachweises bei Fahrzeugen aus den anderen Mitgliedstaaten der Europäischen Union
-
 
 ### § 1
 
@@ -147,19 +142,13 @@ Kraftfahrzeuganhänger ist nicht erforderlich für
 
     hat.
 
-
-
-
-
 ### § 2
 
 Die Befreiung nach § 1 Nr. 1 erstreckt sich nicht auf die in der
 Anlage zu dieser Verordnung aufgeführten Kraftfahrzeuge und
 Kraftfahrzeuganhänger.
 
-
 ### Zweiter Abschnitt - Bestimmungen für Fahrzeuge aus Nicht-EU-Mitgliedstaaten und Nicht-EWR-Vertragsstaaten
-
 
 ### § 3 Erweiterter Versicherungsschutz für das Gebiet der Mitgliedstaaten der Europäischen Union und für die Gebiete der anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
 
@@ -188,7 +177,6 @@ Fahrzeugführer seinen gesetzlichen Wohnsitz hat.
 (3) Absatz 1 gilt nicht für Fahrzeuge der ausländischen Streitkräfte,
 die zum Aufenthalt im Geltungsbereich dieser Verordnung befugt sind.
 
-
 ### § 4 Nachweis des EU-Versicherungsschutzes
 
 Der Führer des Fahrzeugs hat das Bestehen der Haftpflichtversicherung
@@ -197,14 +185,12 @@ oder durch eine Bescheinigung über den Abschluß einer
 Grenzversicherung nachzuweisen. Der Nachweis ist mitzuführen und
 zuständigen Personen auf Verlangen zur Prüfung auszuhändigen.
 
-
 ### § 5 Abschluß der Grenzversicherung für den EU-Versicherungsschutz
 
 Für den im Geltungsbereich dieser Verordnung vorgenommenen Abschluß
 der Grenzversicherung sind die Vorschriften der §§ 2 bis 5 des
 Gesetzes über die Haftpflichtversicherung für ausländische
 Kraftfahrzeuge und Kraftfahrzeuganhänger entsprechend anzuwenden.
-
 
 ### § 6 Verpflichtung des Fahrzeughalters hinsichtlich des EU-Versicherungsschutzes
 
@@ -213,7 +199,6 @@ des Fahrzeugs die nach § 4 erforderliche Versicherungsbescheinigung
 nicht mit, so darf der Halter nicht anordnen oder zulassen, daß das
 Fahrzeug im Geltungsbereich dieser Verordnung auf öffentlichen Straßen
 oder Plätzen gebraucht wird.
-
 
 ### § 7 Kontrolle
 
@@ -243,7 +228,6 @@ Kraftfahrzeuge und Kraftfahrzeuganhänger nur mit der Maßgabe
 anzuwenden, daß beim Fehlen der erforderlichen
 Versicherungsbescheinigung die Grenzzollstellen solche Fahrzeuge
 zurückweisen können.
-
 
 ### § 8 Wegfall des Versicherungsnachweises
 
@@ -316,7 +300,6 @@ Zugmaschinen, ihre Anhänger sowie landwirtschaftliche Arbeitsgeräte.
 
 (3) (weggefallen)
 
-
 ### § 9 Bußgeldvorschriften für EU-Versicherungsschutz
 
 Ordnungswidrig im Sinne des § 9a Abs. 1 Nr. 2 des Gesetzes über die
@@ -354,31 +337,19 @@ Kraftfahrzeuganhänger handelt, wer vorsätzlich oder fahrlässig
     b)  der Führer den nach § 4 Satz 2 erforderlichen Nachweis nicht mit sich
         führt.
 
-
-
-
-
-
-
-
 ## Art 2
-
-
 
 ## Art 3
 
 (weggefallen)
 
-
 ## Art 4 - Inkrafttreten
 
 Diese Verordnung tritt am 15. Mai 1974 in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesminister für Verkehr
-
 
 ## Anlage (zu § 2)
 

@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 636
 
-
 ## Eingangsformel
 
 Auf Grund des § 30h Absatz 3 Satz 1 Nummer 1 und des § 30j Absatz 4
@@ -28,14 +27,12 @@ für Finanzdienstleistungsaufsicht, der zuletzt durch die Verordnung
 vom 11. Oktober 2010 (BGBl. I S. 1392) geändert worden ist, verordnet
 die Bundesanstalt für Finanzdienstleistungsaufsicht:
 
-
 ## § 1 Anwendungsbereich
 
 Diese Verordnung ist anzuwenden auf die Anzeigepflichten nach § 30h
 Absatz 2 Satz 3 und § 30j Absatz 3 Satz 2 des
 Wertpapierhandelsgesetzes gegenüber der Bundesanstalt für
 Finanzdienstleistungsaufsicht (Bundesanstalt).
-
 
 ## § 2 Inhalt der Erstanzeige
 
@@ -93,10 +90,6 @@ Wertpapierhandelsgesetzes haben die folgenden Angaben zu enthalten:
     Änderungen der Angaben nach Satz 1 Nummer 2 und 3 sind der
     Bundesanstalt unverzüglich mitzuteilen.
 
-
-
-
-
 ## § 3 Art und Form der Anzeige
 
 Die Anzeigen nach § 2 sind der Bundesanstalt unverzüglich schriftlich
@@ -113,7 +106,6 @@ Separated-Values-Format (CSV-Format), unter Nutzung der auf der
 Internetseite der Bundesanstalt zur Verfügung gestellten Formulare, an
 die dort angegebene E-Mail-Adresse zu übermitteln.
 
-
 ## § 4 Änderungs- und Bestandsanzeigen
 
 (1) Änderungen in Bezug auf die Angaben nach § 2 Satz 1 Nummer 6 sind
@@ -126,7 +118,6 @@ enthalten.
 letzen Anzeige eingetreten sind, so ist die Aktualität der bereits
 übermittelten Angaben nach § 2 Satz 1 Nummer 6 unverzüglich nach
 Ablauf jeden Quartals schriftlich zu bestätigen (Bestandsanzeige).
-
 
 ## § 5 Inkrafttreten
 

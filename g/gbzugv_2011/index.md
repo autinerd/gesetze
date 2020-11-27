@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 3120
 
-
 ## Eingangsformel
 
 Auf Grund des § 3 Absatz 6 und des § 23 Absatz 3 des
@@ -26,12 +25,10 @@ Artikel 1 Nummer 24 Buchstabe b des Gesetzes vom 22. November 2011
 (BGBl. I S. 2272) geändert worden ist, verordnet das Bundesministerium
 für Verkehr, Bau und Stadtentwicklung:
 
-
 ## § 1 Anwendungsbereich
 
 Diese Verordnung regelt den Zugang zum Beruf des Unternehmers im
 Güterkraftverkehr.
-
 
 ## § 2 Persönliche Zuverlässigkeit
 
@@ -122,13 +119,11 @@ Auszüge aus Registern, in denen derartige Verstöße registriert sind,
 von dem Antragsteller verlangen oder mit dessen Einverständnis
 anfordern.
 
-
 ## § 3 Finanzielle Leistungsfähigkeit
 
 Der Unternehmer besitzt die erforderliche finanzielle
 Leistungsfähigkeit, wenn er die Voraussetzungen des Artikels 7 der
 Verordnung (EG) Nr. 1071/2009 erfüllt.
-
 
 ## § 4 Fachliche Eignung
 
@@ -138,7 +133,6 @@ die zur ordnungsgemäßen Führung eines Güterkraftverkehrsunternehmens
 erforderlich sind, und zwar auf den jeweiligen Sachgebieten, die im
 Anhang I Teil I der Verordnung (EG) Nr. 1071/2009 in der jeweils
 geltenden Fassung aufgeführt sind.
-
 
 ## § 5 Fachkundeprüfung
 
@@ -189,7 +183,6 @@ die Spezialfasern im Papier enthält, die unter UV-Licht sichtbar
 werden, ist mit einer Seriennummer und einer Ausgabenummer zu
 versehen.
 
-
 ## § 6 Prüfungsausschuss
 
 (1) Die Prüfung wird vor der zuständigen Industrie- und Handelskammer
@@ -220,7 +213,6 @@ Handelskammer verwiesen werden, wenn innerhalb eines Vierteljahrs
 weniger als drei Bewerber zur Prüfung anstehen oder dem Bewerber
 andernfalls wirtschaftliche Nachteile entstehen.
 
-
 ## § 7 Gleichwertige Abschlussprüfungen
 
 (1) Als Prüfungen der fachlichen Eignung gelten auch die in der Anlage
@@ -243,7 +235,6 @@ stellt dem Inhaber eines nach Absatz 1 anerkannten Abschlusses auf
 Antrag eine Bescheinigung nach dem Muster des Anhangs III der
 Verordnung (EG) Nr. 1071/2009 in der jeweils geltenden Fassung aus.
 
-
 ## § 8 Übergangsregelung für die Anerkennung leitender Tätigkeit
 
 (1) Die fachliche Eignung für den Güterkraftverkehr kann auch durch
@@ -265,7 +256,6 @@ Hält die Kammer den Bewerber für fachlich geeignet, so stellt sie eine
 Bescheinigung nach dem Muster des Anhangs III der Verordnung (EG) Nr.
 1071/2009 in der jeweils geltenden Fassung aus.
 
-
 ## § 9 Geltungsumfang beschränkter Fachkundebescheinigungen
 
 (1) Bescheinigungen über den Nachweis der fachlichen Eignung, die bis
@@ -279,7 +269,6 @@ uneingeschränkte Fachkundebescheinigungen.
 einer Bescheinigung nach Absatz 1 auf Antrag eine Bescheinigung nach
 dem Muster des Anhangs III der Verordnung (EG) Nr. 1071/2009 in der
 jeweils geltenden Fassung aus.
-
 
 ## § 10 Erlaubnisverfahren
 
@@ -420,7 +409,6 @@ mitzuteilen und auf Verlangen nachzuweisen. Ist eine Änderung der
 Erlaubnisurkunde erforderlich, so hat das Unternehmen die
 Erlaubnisurkunde und deren Ausfertigungen unverzüglich vorzulegen.
 
-
 ## § 11 Kontrolle
 
 (1) Die nach Landesrecht zuständigen Behörden kontrollieren die
@@ -440,7 +428,6 @@ Güterkraftverkehrsgesetz ersetzen die Kontrolle nach Absatz 1, soweit
 dabei zugleich der Nachweis geführt wird, dass die
 Berufszulassungsvoraussetzungen insgesamt erfüllt sind.
 
-
 ## § 12 Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 19 Absatz 1 Nummer 2 des
@@ -459,10 +446,6 @@ Güterkraftverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig
 3.  entgegen § 11 Absatz 1 Satz 3 einen Nachweis nicht, nicht richtig,
     nicht vollständig oder nicht rechtzeitig vorlegt.
 
-
-
-
-
 ## § 13 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
@@ -471,11 +454,9 @@ Güterkraftverkehr vom 21. Juni 2000 (BGBl. I S. 918), die durch
 Artikel 485 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407)
 geändert worden ist, außer Kraft.
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage 1 (zu § 10 Absatz 4)
 

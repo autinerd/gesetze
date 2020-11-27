@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 378 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Auf Grund des § 1 Abs. 1 Satz 1 Nr. 1, 2, 5 bis 8, der §§ 3 und 5 Abs.
@@ -29,10 +28,7 @@ Nr. 2 durch das Zuständigkeitsanpassungs-Gesetz vom 18. März 1975
 (BGBl. I S. 705) geändert worden sind, verordnet die Bundesregierung
 mit Zustimmung des Bundesrates:
 
-
 ## I. Abschnitt - Eingriffsvorbehalte
-
-
 
 ### § 1 Produkte
 
@@ -67,7 +63,6 @@ oder in sonstiger Weise für ihre Unternehmenszwecke einsetzen, stehen
 bezüglich der bei ihnen lagernden Produkte dem Unternehmer nach Absatz
 1 gleich.
 
-
 ### § 2 Anlagen
 
 Unternehmer nach § 1 Abs. 1 können von der zuständigen Behörde
@@ -78,7 +73,6 @@ oder Verwendung von Produkten erforderlich sind oder vorgehalten
 werden, instandzuhalten, instandzusetzen, abzugeben, zu verbringen,
 zur Herstellung bestimmter Produkte zu verwenden oder dieses zu
 unterlassen.
-
 
 ### § 3 Umfang der Verpflichtung
 
@@ -98,10 +92,7 @@ Verpflichtungen nach den §§ 1 und 2 sind nur zulässig,
 
 Sie sind auf das unerläßliche Maß zu beschränken.
 
-
 ## II. Abschnitt - Allgemeine Bewirtschaftung
-
-
 
 ### § 4 Allgemeine Verbrauchseinschränkung
 
@@ -128,7 +119,6 @@ verwenden, soweit
 
 (2) Die Entnahme von Produkten durch den Unternehmer für eigene Zwecke
 steht der Verfügung nach Absatz 1 gleich.
-
 
 ### § 5 Genehmigungen
 
@@ -185,7 +175,6 @@ In der Rechtsverordnung ist zu bestimmen, ob und inwieweit die Abgabe
 dem Halter des Kraftfahrzeugs auf seine Zuteilung nach § 6 anzurechnen
 ist.
 
-
 ### § 6 Bezugscheine
 
 (1) Für den Bezug von nach § 4 Abs. 1 bewirtschafteten Produkten
@@ -223,10 +212,7 @@ bestimmter Bezugscheininhaber verpflichten.
 einen Vermerk zu entwerten, ein Jahr aufzubewahren und innerhalb
 dieser Frist der zuständigen Behörde auf Anforderung vorzulegen.
 
-
 ## III. Abschnitt - Meldepflichten
-
-
 
 ### § 7 Meldung des Aufkommens und der Verarbeitung
 
@@ -322,7 +308,6 @@ genannten Zwecke nicht benötigt.
 für Wirtschaft und Technologie weiterleiten, soweit dieses sie zur
 Erfüllung der in Absatz 1 genannten Zwecke benötigt.
 
-
 ### § 8 Besondere Meldepflichten
 
 (1) Für die in § 7 Abs. 1 genannten Zwecke haben Unternehmer, die eine
@@ -350,10 +335,7 @@ erstatten und müssen folgende Angaben enthalten:
 (3) Die zuständige Behörde kann bestimmen, daß und zu welchem
 Zeitpunkt erneut Meldungen abzugeben sind.
 
-
 ## IV. Abschnitt - Zuständigkeiten und Schlußbestimmungen
-
-
 
 ### § 9 Zuständige Behörde
 
@@ -445,7 +427,6 @@ von der übergeordneten Behörde wahrzunehmen.
 Vorschriften dieser Verordnung über die Zuständigkeit von Behörden dem
 besonderen Verwaltungsaufbau ihrer Länder anzupassen.
 
-
 ### § 10 Zuwiderhandlungen
 
 (1) Wer vorsätzlich oder fahrlässig
@@ -495,7 +476,6 @@ und Schiffahrtsverwaltung des Bundes, im übrigen die Behörden der
 allgemeinen Verwaltung auf der Kreisstufe. Die übergeordnete Behörde
 ist in den Fällen des § 9 Abs. 4 zuständig.
 
-
 ### § 11 Inkrafttreten und Anwendbarkeit
 
 (1) Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
@@ -506,7 +486,6 @@ angewandt werden, wenn es das Bundesministerium für Wirtschaft und
 Technologie durch Rechtsverordnung bestimmt.
 
 (3) § 9 Abs. 2 und 5 ist mit dem Inkrafttreten anwendbar.
-
 
 ### Anlage zur Mineralölbewirtschaftungs-Verordnung Liste der Produkte gemäß § 1 Abs. 1
 

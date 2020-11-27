@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 22.6.2010 I 824
 
-
 ## Eingangsformel
 
 Auf Grund des § 10 Abs. 3 des Rindfleischetikettierungsgesetzes vom
@@ -28,7 +27,6 @@ und dem Organisationserlass vom 22. Januar 2001 (BGBl. I S. 127), § 10
 des Rindfleischetikettierungsgesetzes geändert durch Artikel 1 Nr. 7
 des Gesetzes vom 17. November 2000 (BGBl. I S. 1510), verordnet das
 Bundesministerium für Verbraucherschutz, Ernährung und Landwirtschaft:
-
 
 ## § 1 Durchsetzung der Angaben bei der obligatorischen Etikettierung von Rindfleisch
 
@@ -88,7 +86,6 @@ S. 1), geändert durch die Verordnung (EG) Nr. 1791/2006 des Rates vom
 handelt nach § 11 Abs. 1 des Rindfleischetikettierungsgesetzes
 ordnungswidrig.
 
-
 ## § 2 Durchsetzung der Angaben bei der freiwilligen Etikettierung von Rindfleisch
 
 (1) Nach § 10 Abs. 1 des Rindfleischetikettierungsgesetzes wird
@@ -109,7 +106,6 @@ er
 (2) Wer eine in Absatz 1 bezeichnete Handlung fahrlässig begeht,
 handelt nach § 11 Abs. 1 des Rindfleischetikettierungsgesetzes
 ordnungswidrig.
-
 
 ## § 2a Durchsetzung der Angaben bei der Etikettierung von Fleisch von bis zu zwölf Monate alten Rindern
 
@@ -157,7 +153,6 @@ oder anbringen lässt.
 (3) Wer eine in Absatz 1 oder Absatz 2 bezeichnete Handlung fahrlässig
 begeht, handelt nach § 11 Absatz 1 des
 Rindfleischetikettierungsgesetzes ordnungswidrig.
-
 
 ## § 3 Inkrafttreten
 

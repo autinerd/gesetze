@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 27 G v. 2.8.1994 I 2018
 
-
 ## Eingangsformel
 
 Auf Grund des § 28 Abs. 2b des Außenwirtschaftsgesetzes in der im
@@ -28,7 +27,6 @@ bereinigten Fassung, der zuletzt durch das Gesetz über die
 Neuorganisation der Marktordnungsstellen vom 23. Juni 1976 (BGBl. I S.
 1608) geändert worden ist, wird im Einvernehmen mit dem Bundesminister
 für Wirtschaft verordnet:
-
 
 ## § 1
 
@@ -41,16 +39,13 @@ Sicherung der Regelungen einer gemeinsamen Marktorganisation
 Vorschriften erläßt, sind ausschließlich die Bundesanstalt für
 Landwirtschaft und Ernährung zuständig.
 
-
 ## § 2
 
 -
 
-
 ## § 3
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlußformel
 

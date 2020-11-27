@@ -22,7 +22,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 16 G v. 8.11.2011 I 2178
 
-
 ## § 1 Anwendungsbereich
 
 (1) Diese Verordnung gilt für das Bereitstellen von neuen persönlichen
@@ -98,7 +97,6 @@ Rates vom 29. Oktober 1993 (ABl. EG Nr. L 276 S. 11) und durch die
 Richtlinie 96/58/EG des Europäischen Parlaments und des Rates vom 3.
 September 1996 (ABl. EG Nr. L 236 S. 44), dienen.
 
-
 ## § 2 Sicherheitsanforderungen
 
 Persönliche Schutzausrüstungen dürfen nur auf dem Markt bereitgestellt
@@ -108,7 +106,6 @@ und bei bestimmungsgemäßer Benutzung und angemessener Wartung Leben
 und Gesundheit der Benutzer schützen, ohne die Gesundheit oder
 Sicherheit von anderen Personen und die Sicherheit von Haustieren und
 Gütern zu gefährden.
-
 
 ## § 3 Voraussetzungen für die Bereitstellung auf dem Markt
 
@@ -182,11 +179,9 @@ Rechtsvorschriften zugrundeliegenden Gemeinschaftsrichtlinien
 entsprechend ihrer Veröffentlichung im Amtsblatt der Europäischen
 Gemeinschaften aufgeführt sein.
 
-
 ## § 4
 
 (weggefallen)
-
 
 ## § 5 CE-Kennzeichnung
 
@@ -223,17 +218,12 @@ vorlegen kann:
     Buchstabe c bei persönlichen Schutzausrüstungen, die der
     Baumusterprüfung nach § 6 unterliegen.
 
-
-
-
-
 ## § 6 EG-Baumusterprüfung
 
 Persönliche Schutzausrüstungen, mit Ausnahme der in Artikel 8 Abs. 3
 der Richtlinie 89/686/EWG genannten einfachen Schutzausrüstungen,
 unterliegen einer EG-Baumusterprüfung nach Artikel 10 dieser
 Richtlinie.
-
 
 ## § 7 EG-Qualitätssicherung
 
@@ -242,18 +232,15 @@ genannten komplexen persönlichen Schutzausrüstungen unterliegen der
 Qualitätssicherung nach Artikel 11 dieser Richtlinie durch eine
 notifizierte Stelle.
 
-
 ## § 8
 
 (weggefallen)
-
 
 ## § 9 Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 39 Absatz 1 Nummer 7 Buchstabe a des
 Produktsicherheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 entgegen § 3 Absatz 1 eine persönliche Schutzausrüstung bereitstellt.
-
 
 ## § 10 (weggefallen)
 

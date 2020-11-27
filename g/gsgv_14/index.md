@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 24 G v. 8.11.2011 I 2178
 
-
 ## § 1 Anwendungsbereich
 
 (1) Diese Verordnung gilt für die Bereitstellung auf dem Markt von
@@ -197,10 +196,6 @@ von über 0,5 bar.
 21. Behälter für Flüssigkeiten mit einem Gasdruck über der Flüssigkeit von
     höchstens 0,5 bar.
 
-
-
-
-
 ## § 2 Begriffsbestimmungen
 
 Im Sinne dieser Verordnung gelten die folgenden Begriffsbestimmungen:
@@ -299,10 +294,6 @@ Im Sinne dieser Verordnung gelten die folgenden Begriffsbestimmungen:
     Verwendung zur Herstellung von Druckgeräten bestimmt sind und nicht in
     einer harmonisierten Norm geregelt werden.
 
-
-
-
-
 ## § 3 Sicherheitsanforderungen
 
 (1) Druckgeräte nach Artikel 3 Abs. 1 der Richtlinie 97/23/EG des
@@ -325,7 +316,6 @@ werden, wenn sie bei angemessener Installierung und Wartung und bei
 bestimmungsgemäßer Verwendung die Sicherheit und die Gesundheit von
 Personen und gegebenenfalls von Haustieren oder Gütern nicht
 gefährden.
-
 
 ## § 4 Voraussetzungen für die Bereitstellung auf dem Markt
 
@@ -421,7 +411,6 @@ angewandten Rechtsvorschriften zugrunde liegenden
 Gemeinschaftsrichtlinien entsprechend ihrer Veröffentlichung im
 Amtsblatt der Europäischen Gemeinschaften aufgeführt sein.
 
-
 ## § 5 CE-Kennzeichnung
 
 (1) Die nach § 4 Abs. 1 Nr. 1 erforderliche CE-Kennzeichnung muss
@@ -473,7 +462,6 @@ und Baugruppen, die mit der CE-Kennzeichnung und der EG-
 Konformitätserklärung nach Anhang VII der Richtlinie 97/23/EG versehen
 sind, die Anforderungen dieser Verordnung erfüllen.
 
-
 ## § 6 Europäische Werkstoffzulassung
 
 (1) Für Werkstoffe, für die eine europäische Werkstoffzulassung gemäß
@@ -486,7 +474,6 @@ feststellt, dass die Zulassung nicht hätte erteilt werden dürfen oder
 wenn der Werkstofftyp von einer harmonisierten Norm erfasst wird. Sie
 unterrichtet umgehend die übrigen Mitgliedstaaten, die notifizierten
 Stellen und die Kommission über jeden Entzug einer Zulassung.
-
 
 ## § 7 Betreiberprüfstellen
 
@@ -528,7 +515,6 @@ Unternehmensgruppe verwendet werden, der die Prüfstelle angehört.
 (4) Betreiberprüfstellen dürfen nur die
 Konformitätsbewertungsverfahren der Module A1, C1, F und G nach Anhang
 III der Richtlinie 97/23/EG anwenden.
-
 
 ## § 8 Ordnungswidrigkeiten
 

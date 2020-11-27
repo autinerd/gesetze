@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 29.6.2012 I 1454
 
-
 ## Eingangsformel
 
 Auf Grund des § 22 Abs. 2 des Güterkraftverkehrsgesetzes vom 22. Juni
@@ -30,7 +29,6 @@ verordnet das Bundesministerium für Verkehr, Bau- und Wohnungswesen im
 Einvernehmen mit dem Bundesministerium der Finanzen und dem
 Bundesministerium für Wirtschaft und Technologie:
 
-
 ## § 1
 
 (1) Die zuständigen Behörden erheben für die in § 22 Abs. 1 des
@@ -38,7 +36,6 @@ Güterkraftverkehrsgesetzes genannten Amtshandlungen Gebühren nach der
 Anlage zu dieser Verordnung.
 
 (2) Auslagen werden gesondert erhoben.
-
 
 ## § 2
 
@@ -51,16 +48,13 @@ bestimmt sind.
 (2) Bei Unternehmen, die ihren Sitz im Ausland haben, kann von der
 Erhebung von Kosten abgesehen werden, soweit Gegenseitigkeit besteht.
 
-
 ## § 3
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage (zu § 1 Abs. 1) Gebührenverzeichnis
 

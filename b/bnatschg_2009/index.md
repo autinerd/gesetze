@@ -18,9 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 5 G v. 6.2.2012 I 148
 
-
 ## Kapitel 1 - Allgemeine Vorschriften
-
 
 ### § 1 Ziele des Naturschutzes und der Landschaftspflege
 
@@ -153,7 +151,6 @@ Gewässer, Naturerfahrungsräume sowie gartenbau- und landwirtschaftlich
 genutzte Flächen, sind zu erhalten und dort, wo sie nicht in
 ausreichendem Maße vorhanden sind, neu zu schaffen.
 
-
 ### § 2 Verwirklichung der Ziele
 
 (1) Jeder soll nach seinen Möglichkeiten zur Verwirklichung der Ziele
@@ -190,7 +187,6 @@ Bedeutung von Natur und Landschaft, über deren Bewirtschaftung und
 Nutzung sowie über die Aufgaben des Naturschutzes und der
 Landschaftspflege auf und wecken das Bewusstsein für einen
 verantwortungsvollen Umgang mit Natur und Landschaft.
-
 
 ### § 3 Zuständigkeiten, Aufgaben und Befugnisse, vertragliche Vereinbarungen, Zusammenarbeit der Behörden
 
@@ -246,7 +242,6 @@ interessierten Öffentlichkeit über ihre Planungen und Maßnahmen.
 Gemeindeverband nur, wenn der Gemeinde oder dem Gemeindeverband die
 Aufgaben durch Landesrecht übertragen worden sind.
 
-
 ### § 4 Funktionssicherung bei Flächen für öffentliche Zwecke
 
 Bei Maßnahmen des Naturschutzes und der Landschaftspflege ist auf
@@ -280,7 +275,6 @@ dienen oder in einem verbindlichen Plan für die genannten Zwecke
 ausgewiesen sind, die bestimmungsgemäße Nutzung zu gewährleisten. Die
 Ziele des Naturschutzes und der Landschaftspflege sind zu
 berücksichtigen.
-
 
 ### § 5 Land-, Forst- und Fischereiwirtschaft
 
@@ -344,7 +338,6 @@ Teichwirtschaften der Binnenfischerei sind Beeinträchtigungen der
 heimischen Tier- und Pflanzenarten auf das zur Erzielung eines
 nachhaltigen Ertrages erforderliche Maß zu beschränken.
 
-
 ### § 6 Beobachtung von Natur und Landschaft
 
 (1) Der Bund und die Länder beobachten im Rahmen ihrer Zuständigkeiten
@@ -394,7 +387,6 @@ Rechtsvorschriften nichts anderes bestimmt ist.
 (6) Rechtsvorschriften über die Geheimhaltung, über den Schutz
 personenbezogener Daten sowie über den Schutz von Betriebs- und
 Geschäftsgeheimnissen bleiben unberührt.
-
 
 ### § 7 Begriffsbestimmungen
 
@@ -718,9 +710,7 @@ Vorschriften ergibt. Entsprechendes gilt für die streng geschützten
 Arten, soweit sie nach den bis zum 8. Mai 1998 geltenden Vorschriften
 als vom Aussterben bedroht bezeichnet waren.
 
-
 ## Kapitel 2 - Landschaftsplanung
-
 
 ### § 8 Allgemeiner Grundsatz
 
@@ -728,7 +718,6 @@ Die Ziele des Naturschutzes und der Landschaftspflege werden als
 Grundlage vorsorgenden Handelns im Rahmen der Landschaftsplanung
 überörtlich und örtlich konkretisiert und die Erfordernisse und
 Maßnahmen zur Verwirklichung dieser Ziele dargestellt und begründet.
-
 
 ### § 9 Aufgaben und Inhalte der Landschaftsplanung; Ermächtigung zum Erlass von Rechtsverordnungen
 
@@ -822,7 +811,6 @@ und 82 des Wasserhaushaltsgesetzes heranzuziehen. Soweit den Inhalten
 der Landschaftsplanung in den Entscheidungen nicht Rechnung getragen
 werden kann, ist dies zu begründen.
 
-
 ### § 10 Landschaftsprogramme und Landschaftsrahmenpläne
 
 (1) Die überörtlichen konkretisierten Ziele, Erfordernisse und
@@ -845,7 +833,6 @@ berücksichtigen.
 (4) Die Zuständigkeit, das Verfahren der Aufstellung und das
 Verhältnis von Landschaftsprogrammen und Landschaftsrahmenplänen zu
 Raumordnungsplänen richten sich nach Landesrecht.
-
 
 ### § 11 Landschaftspläne und Grünordnungspläne
 
@@ -886,7 +873,6 @@ Landschaftspläne.
 Landschaftspläne und Grünordnungspläne sowie deren Durchführung
 richten sich nach Landesrecht.
 
-
 ### § 12 Zusammenwirken der Länder bei der Planung
 
 Bei der Aufstellung und Fortschreibung von Programmen und Plänen nach
@@ -894,9 +880,7 @@ den §§ 10 und 11 für Gebiete, die an andere Länder angrenzen, sind
 deren entsprechende Programme und Pläne zu berücksichtigen. Soweit
 dies erforderlich ist, stimmen sich die Länder untereinander ab.
 
-
 ## Kapitel 3 - Allgemeiner Schutz von Natur und Landschaft
-
 
 ### § 13 Allgemeiner Grundsatz
 
@@ -905,7 +889,6 @@ Verursacher vorrangig zu vermeiden. Nicht vermeidbare erhebliche
 Beeinträchtigungen sind durch Ausgleichs- oder Ersatzmaßnahmen oder,
 soweit dies nicht möglich ist, durch einen Ersatz in Geld zu
 kompensieren.
-
 
 ### § 14 Eingriffe in Natur und Landschaft
 
@@ -939,10 +922,6 @@ eingeschränkt oder unterbrochen war
 2.  auf Grund der Durchführung von vorgezogenen Kompensationsmaßnahmen,
     die vorgezogene Maßnahme aber nicht für eine Kompensation in Anspruch
     genommen wird.
-
-
-
-
 
 ### § 15 Verursacherpflichten, Unzulässigkeit von Eingriffen; Ermächtigung zum Erlass von Rechtsverordnungen
 
@@ -1046,7 +1025,6 @@ richtet sich das Nähere zur Kompensation von Eingriffen nach
 Landesrecht, soweit dieses den vorstehenden Absätzen nicht
 widerspricht.
 
-
 ### § 16 Bevorratung von Kompensationsmaßnahmen
 
 (1) Maßnahmen des Naturschutzes und der Landschaftspflege, die im
@@ -1080,7 +1058,6 @@ Ersatzmaßnahmen in Ökokonten, deren Genehmigungsbedürftigkeit und
 Handelbarkeit sowie der Übergang der Verantwortung nach § 15 Absatz 4
 auf Dritte, die vorgezogene Ausgleichs- und Ersatzmaßnahmen
 durchführen, richtet sich nach Landesrecht.
-
 
 ### § 17 Verfahren; Ermächtigung zum Erlass von Rechtsverordnungen
 
@@ -1187,7 +1164,6 @@ einschließlich des Kompensationsverzeichnisses zu bestimmen. Sie
 können die Ermächtigung nach Satz 1 durch Rechtsverordnung auf andere
 Landesbehörden übertragen.
 
-
 ### § 18 Verhältnis zum Baurecht
 
 (1) Sind auf Grund der Aufstellung, Änderung, Ergänzung oder Aufhebung
@@ -1227,7 +1203,6 @@ Landschaftspflege zuständigen Behörde die Entscheidungen nach § 15 zu
 treffen, soweit sie der Vermeidung, dem Ausgleich oder dem Ersatz von
 Schädigungen nach § 19 Absatz 1 Satz 1 dienen; in diesen Fällen gilt §
 19 Absatz 1 Satz 2. Im Übrigen bleibt Absatz 2 Satz 1 unberührt.
-
 
 ### § 19 Schäden an bestimmten Arten und natürlichen Lebensräumen
 
@@ -1304,15 +1279,9 @@ liegt dabei in der Regel nicht vor bei
     Zustand erreicht wird, der im Vergleich zum Ausgangszustand als
     gleichwertig oder besser zu bewerten ist.
 
-
-
-
-
 ## Kapitel 4 - Schutz bestimmter Teile von Natur und Landschaft
 
-
 ### Abschnitt 1 - Biotopverbund und Biotopvernetzung; geschützte Teile von Natur und Landschaft
-
 
 #### § 20 Allgemeine Grundsätze
 
@@ -1347,7 +1316,6 @@ das mindestens 10 Prozent der Fläche eines jeden Landes umfassen soll.
 
 (3) Die in Absatz 2 genannten Teile von Natur und Landschaft sind,
 soweit sie geeignet sind, Bestandteile des Biotopverbunds.
-
 
 #### § 21 Biotopverbund, Biotopvernetzung
 
@@ -1402,7 +1370,6 @@ lineare und punktförmige Elemente, insbesondere Hecken und Feldraine
 sowie Trittsteinbiotope, zu erhalten und dort, wo sie nicht in
 ausreichendem Maße vorhanden sind, zu schaffen (Biotopvernetzung).
 
-
 #### § 22 Erklärung zum geschützten Teil von Natur und Landschaft
 
 (1) Die Unterschutzstellung von Teilen von Natur und Landschaft
@@ -1442,7 +1409,6 @@ einschließlich ihrer Änderung ergeht im Benehmen mit dem
 Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit und
 dem Bundesministerium für Verkehr, Bau und Stadtentwicklung.
 
-
 #### § 23 Naturschutzgebiete
 
 (1) Naturschutzgebiete sind rechtsverbindlich festgesetzte Gebiete, in
@@ -1469,7 +1435,6 @@ Veränderung des Naturschutzgebiets oder seiner Bestandteile oder zu
 einer nachhaltigen Störung führen können, sind nach Maßgabe näherer
 Bestimmungen verboten. Soweit es der Schutzzweck erlaubt, können
 Naturschutzgebiete der Allgemeinheit zugänglich gemacht werden.
-
 
 #### § 24 Nationalparke, Nationale Naturmonumente
 
@@ -1518,7 +1483,6 @@ Gebiete, die
 von herausragender Bedeutung sind. Nationale Naturmonumente sind wie
 Naturschutzgebiete zu schützen.
 
-
 #### § 25 Biosphärenreservate
 
 (1) Biosphärenreservate sind einheitlich zu schützende und zu
@@ -1557,7 +1521,6 @@ Naturschutzgebiete oder Landschaftsschutzgebiete zu schützen.
 (4) Biosphärenreservate können auch als Biosphärengebiete oder
 Biosphärenregionen bezeichnet werden.
 
-
 #### § 26 Landschaftsschutzgebiete
 
 (1) Landschaftsschutzgebiete sind rechtsverbindlich festgesetzte
@@ -1584,7 +1547,6 @@ erforderlich ist
 des § 5 Absatz 1 und nach Maßgabe näherer Bestimmungen alle Handlungen
 verboten, die den Charakter des Gebiets verändern oder dem besonderen
 Schutzzweck zuwiderlaufen.
-
 
 #### § 27 Naturparke
 
@@ -1622,7 +1584,6 @@ Zwecken unter Beachtung der Ziele des Naturschutzes und der
 Landschaftspflege geplant, gegliedert, erschlossen und
 weiterentwickelt werden.
 
-
 #### § 28 Naturdenkmäler
 
 (1) Naturdenkmäler sind rechtsverbindlich festgesetzte
@@ -1641,7 +1602,6 @@ Hektar, deren besonderer Schutz erforderlich ist
 (2) Die Beseitigung des Naturdenkmals sowie alle Handlungen, die zu
 einer Zerstörung, Beschädigung oder Veränderung des Naturdenkmals
 führen können, sind nach Maßgabe näherer Bestimmungen verboten.
-
 
 #### § 29 Geschützte Landschaftsbestandteile
 
@@ -1677,7 +1637,6 @@ oder zur Leistung von Ersatz in Geld vorgesehen werden.
 
 (3) Vorschriften des Landesrechts über den gesetzlichen Schutz von
 Alleen bleiben unberührt.
-
 
 #### § 30 Gesetzlich geschützte Biotope
 
@@ -1762,9 +1721,7 @@ Landesrecht.
 (8) Weiter gehende Schutzvorschriften einschließlich der Bestimmungen
 über Ausnahmen und Befreiungen bleiben unberührt.
 
-
 ### Abschnitt 2 - Netz „Natura 2000“
-
 
 #### § 31 Aufbau und Schutz des Netzes „Natura 2000“
 
@@ -1772,7 +1729,6 @@ Der Bund und die Länder erfüllen die sich aus den Richtlinien
 92/43/EWG und 79/409/EWG ergebenden Verpflichtungen zum Aufbau und
 Schutz des zusammenhängenden europäischen ökologischen Netzes „Natura
 2000“ im Sinne des Artikels 3 der Richtlinie 92/43/EWG.
-
 
 #### § 32 Schutzgebiete
 
@@ -1821,7 +1777,6 @@ Wirtschaftszone und des Festlandsockels zu geschützten Teilen von
 Natur und Landschaft im Sinne des § 20 Absatz 2 richten sich nach §
 57\.
 
-
 #### § 33 Allgemeine Schutzvorschriften
 
 (1) Alle Veränderungen und Störungen, die zu einer erheblichen
@@ -1837,7 +1792,6 @@ Sinne des § 32 Absatz 3 zulassen.
 Beschlussfassung des Rates Absatz 1 Satz 1 im Hinblick auf die in ihm
 vorkommenden prioritären natürlichen Lebensraumtypen und prioritären
 Arten entsprechend. Die §§ 34 und 36 finden keine Anwendung.
-
 
 #### § 34 Verträglichkeit und Unzulässigkeit von Projekten; Ausnahmen
 
@@ -1926,7 +1880,6 @@ des Baugesetzbuches in Gebieten mit Bebauungsplänen nach § 30 des
 Baugesetzbuches und während der Planaufstellung nach § 33 des
 Baugesetzbuches.
 
-
 #### § 35 Gentechnisch veränderte Organismen
 
 Auf
@@ -1945,7 +1898,6 @@ Auf
 
 
 ist § 34 Absatz 1 und 2 entsprechend anzuwenden.
-
 
 #### § 36 Pläne
 
@@ -1966,12 +1918,9 @@ Raumordnungsgesetzes und bei Bauleitplänen und Satzungen nach § 34
 Absatz 4 Satz 1 Nummer 3 des Baugesetzbuches findet § 34 Absatz 1 Satz
 1 keine Anwendung.
 
-
 ## Kapitel 5 - Schutz der wild lebenden Tier- und Pflanzenarten, ihrer Lebensstätten und Biotope
 
-
 ### Abschnitt 1 - Allgemeine Vorschriften
-
 
 #### § 37 Aufgaben des Artenschutzes
 
@@ -2006,7 +1955,6 @@ werden, sind vorbehaltlich der Rechte der Jagdausübungs- oder
 Fischereiberechtigten die Vorschriften dieses Kapitels und die auf
 Grund dieses Kapitels erlassenen Rechtsvorschriften anzuwenden.
 
-
 #### § 38 Allgemeine Vorschriften für den Arten-, Lebensstätten- und Biotopschutz
 
 (1) Zur Vorbereitung und Durchführung der Aufgaben nach § 37 Absatz 1
@@ -2029,9 +1977,7 @@ die streng geschützten Arten haben.
 Arbeiten im Sinne des Artikels 18 der Richtlinie 92/43/EWG und des
 Artikels 10 der Richtlinie 79/409/EWG werden gefördert.
 
-
 ### Abschnitt 2 - Allgemeiner Artenschutz
-
 
 #### § 39 Allgemeiner Schutz wild lebender Tiere und Pflanzen; Ermächtigung zum Erlass von Rechtsverordnungen
 
@@ -2146,7 +2092,6 @@ touristisch erschlossene oder stark genutzte Bereiche.
 des Abschnitts 3 des Kapitels 5 einschließlich der Bestimmungen über
 Ausnahmen und Befreiungen bleiben unberührt.
 
-
 #### § 40 Nichtheimische, gebietsfremde und invasive Arten
 
 (1) Es sind geeignete Maßnahmen zu treffen, um einer Gefährdung von
@@ -2214,7 +2159,6 @@ Natur ausbreitende Pflanzen sowie dorthin entkommene Tiere beseitigt
 werden, soweit es zur Abwehr einer Gefährdung von Ökosystemen,
 Biotopen oder Arten erforderlich ist.
 
-
 #### § 41 Vogelschutz an Energiefreileitungen
 
 Zum Schutz von Vogelarten sind neu zu errichtende Masten und
@@ -2225,7 +2169,6 @@ Mittelspannungsleitungen mit hoher Gefährdung von Vögeln sind bis zum
 31\. Dezember 2012 die notwendigen Maßnahmen zur Sicherung gegen
 Stromschlag durchzuführen. Satz 2 gilt nicht für die
 Oberleitungsanlagen von Eisenbahnen.
-
 
 #### § 42 Zoos
 
@@ -2359,7 +2302,6 @@ Tiere ist nur in Übereinstimmung mit den arten- und
 tierschutzrechtlichen Bestimmungen zulässig, wenn keine andere
 zumutbare Alternative für die Unterbringung der Tiere besteht.
 
-
 #### § 43 Tiergehege
 
 (1) Tiergehege sind dauerhafte Einrichtungen, in denen Tiere wild
@@ -2410,9 +2352,7 @@ nicht gelten für Gehege,
 
 (5) Weiter gehende Vorschriften der Länder bleiben unberührt.
 
-
 ### Abschnitt 3 - Besonderer Artenschutz
-
 
 #### § 44 Vorschriften für besonders geschützte und bestimmte andere Tier- und Pflanzenarten
 
@@ -2533,7 +2473,6 @@ von europäischen Vogelarten und Arten der in Anhang IV Buchstabe a der
 Richtlinie 92/43/EWG aufgeführten Tierarten ist von der fachkundigen
 Person der für Naturschutz und Landschaftspflege zuständigen Behörde
 jährlich mitzuteilen.
-
 
 #### § 45 Ausnahmen; Ermächtigung zum Erlass von Rechtsverordnungen
 
@@ -2677,7 +2616,6 @@ vernünftige Nutzung von Tieren und Pflanzen bestimmter Arten im Sinne
 des § 7 Absatz 2 Nummer 13 Buchstabe b sowie für gezüchtete und
 künstlich vermehrte Tiere oder Pflanzen dieser Arten zu ermöglichen.
 
-
 #### § 46 Nachweispflicht
 
 (1) Diejenige Person, die
@@ -2722,7 +2660,6 @@ ist oder für den Nachweis bestimmte Dokumente vorgeschrieben sind, ist
 der Nachweis in der in der genannten Verordnung vorgeschriebenen Weise
 zu führen.
 
-
 #### § 47 Einziehung
 
 Tiere oder Pflanzen, für die der erforderliche Nachweis oder die
@@ -2732,9 +2669,7 @@ werden. § 51 gilt entsprechend; § 51 Absatz 1 Satz 2 gilt mit der
 Maßgabe, dass auch die Vorlage einer Bescheinigung einer sonstigen
 unabhängigen sachverständigen Stelle oder Person verlangt werden kann.
 
-
 ### Abschnitt 4 - Zuständige Behörden, Verbringen von Tieren und Pflanzen
-
 
 #### § 48 Zuständige Behörden
 
@@ -2816,7 +2751,6 @@ Artenschutzübereinkommens sind
 (2) Wissenschaftliche Behörde im Sinne des Artikels 13 Absatz 2 der
 Verordnung (EG) Nr. 338/97 ist das Bundesamt für Naturschutz.
 
-
 #### § 49 Mitwirkung der Zollbehörden; Ermächtigung zum Erlass von Rechtsverordnungen
 
 (1) Das Bundesministerium der Finanzen und die von ihm bestimmten
@@ -2847,7 +2781,6 @@ Einvernehmen mit dem Bundesministerium der Finanzen im Bundesanzeiger
 bekannt gegeben. Auf Zollstellen, bei denen lebende Tiere und Pflanzen
 anzumelden sind, ist besonders hinzuweisen.
 
-
 #### § 50 Anmeldepflicht bei der Ein-, Durch- und Ausfuhr oder dem Verbringen aus Drittstaaten
 
 (1) Wer Tiere oder Pflanzen, die einer von der Europäischen
@@ -2870,7 +2803,6 @@ entgegenstehen.
 Ankunftszeit lebender Tiere der abfertigenden Zollstelle unter Angabe
 der Art und Zahl der Tiere mindestens 18 Stunden vor der Ankunft
 mitzuteilen.
-
 
 #### § 51 Inverwahrungnahme, Beschlagnahme und Einziehung durch die Zollbehörden
 
@@ -2928,9 +2860,7 @@ werden sie dem Absender, Beförderer oder Besteller auferlegt, wenn
 diesem die Umstände, die die Beschlagnahme oder Einziehung veranlasst
 haben, bekannt waren oder hätten bekannt sein müssen.
 
-
 ### Abschnitt 5 - Auskunfts- und Zutrittsrecht; Gebühren und Auslagen
-
 
 #### § 52 Auskunfts- und Zutrittsrecht
 
@@ -2954,7 +2884,6 @@ die geschäftlichen Unterlagen auf Verlangen vorzulegen.
 (3) Für die zur Auskunft verpflichtete Person gilt § 55 der
 Strafprozessordnung entsprechend.
 
-
 #### § 53 Gebühren und Auslagen; Ermächtigung zum Erlass von Rechtsverordnungen
 
 (1) Das Bundesamt für Naturschutz erhebt für seine Amtshandlungen nach
@@ -2971,9 +2900,7 @@ die Auslagenerstattung zu bestimmen und dabei feste Sätze und
 Rahmensätze vorzusehen. Die zu erstattenden Auslagen können abweichend
 vom Verwaltungskostengesetz geregelt werden.
 
-
 ### Abschnitt 6 - Ermächtigungen
-
 
 #### § 54 Ermächtigung zum Erlass von Rechtsverordnungen
 
@@ -3191,10 +3118,6 @@ insbesondere über
 3.  die zur Sicherung des Zusammenhangs des Netzes „Natura 2000“
     notwendigen Maßnahmen im Sinne des § 34 Absatz 5.
 
-
-
-
-
 #### § 55 Durchführung gemeinschaftsrechtlicher oder internationaler Vorschriften; Ermächtigung zum Erlass von Rechtsverordnungen
 
 (1) Rechtsverordnungen nach § 54 können auch zur Durchführung von
@@ -3209,9 +3132,7 @@ Rechtsakten der Europäischen Gemeinschaft in diesem Gesetz oder in
 Rechtsverordnungen auf Grund des § 54 zu ändern, soweit Änderungen
 dieser Rechtsakte es erfordern.
 
-
 ## Kapitel 6 - Meeresnaturschutz
-
 
 ### § 56 Geltungs- und Anwendungsbereich
 
@@ -3231,7 +3152,6 @@ repräsentative Netze geschützter Meeresgebiete im Sinne des Artikels
 (3) Auf die Errichtung und den Betrieb von Windkraftanlagen in der
 deutschen ausschließlichen Wirtschaftszone, die bis zum 1. Januar 2017
 genehmigt worden sind, findet § 15 keine Anwendung.
-
 
 ### § 57 Geschützte Meeresgebiete im Bereich der deutschen ausschließlichen Wirtschaftszone und des Festlandsockels; Ermächtigung zum Erlass von Rechtsverordnungen
 
@@ -3292,10 +3212,6 @@ anzuwenden:
     sowie bei der Aufsuchung und Gewinnung von Bodenschätzen sind nur nach
     § 34 zulässig.
 
-
-
-
-
 ### § 58 Zuständige Behörden; Gebühren und Auslagen; Ermächtigung zum Erlass von Rechtsverordnungen
 
 (1) Die Durchführung der Vorschriften dieses Gesetzes, der auf Grund
@@ -3331,9 +3247,7 @@ und die Auslagenerstattung zu bestimmen und dabei feste Sätze und
 Rahmensätze vorzusehen. Die zu erstattenden Auslagen können abweichend
 vom Verwaltungskostengesetz geregelt werden. § 53 bleibt unberührt.
 
-
 ## Kapitel 7 - Erholung in Natur und Landschaft
-
 
 ### § 59 Betreten der freien Landschaft
 
@@ -3352,14 +3266,12 @@ Erholungsuchenden, zur Vermeidung erheblicher Schäden oder zur Wahrung
 anderer schutzwürdiger Interessen des Grundstücksbesitzers
 einschränken.
 
-
 ### § 60 Haftung
 
 Das Betreten der freien Landschaft erfolgt auf eigene Gefahr. Durch
 die Betretungsbefugnis werden keine zusätzlichen Sorgfalts- oder
 Verkehrssicherungspflichten begründet. Es besteht insbesondere keine
 Haftung für typische, sich aus der Natur ergebende Gefahren.
-
 
 ### § 61 Freihaltung von Gewässern und Uferzonen
 
@@ -3407,10 +3319,6 @@ zugelassen werden, wenn
     einschließlich solcher sozialer oder wirtschaftlicher Art, notwendig
     ist; in diesem Fall gilt § 15 entsprechend.
 
-
-
-
-
 ### § 62 Bereitstellen von Grundstücken
 
 Der Bund, die Länder und sonstige juristische Personen des
@@ -3423,9 +3331,7 @@ Nutzung und den sonstigen Zielen von Naturschutz und Landschaftspflege
 vereinbar ist und eine öffentliche Zweckbindung dem nicht
 entgegensteht.
 
-
 ## Kapitel 8 - Mitwirkung von anerkannten Naturschutzvereinigungen
-
 
 ### § 63 Mitwirkungsrechte
 
@@ -3521,7 +3427,6 @@ unberührt.
 auf Natur und Landschaft nicht oder nur im geringfügigen Umfang zu
 erwarten sind, von einer Mitwirkung abgesehen werden kann.
 
-
 ### § 64 Rechtsbehelfe
 
 (1) Eine anerkannte Naturschutzvereinigung kann neben den
@@ -3557,9 +3462,7 @@ Rechtsbehelfsgesetzes gelten entsprechend.
 Naturschutzvereinigungen auch in anderen Fällen zulassen, in denen
 nach § 63 Absatz 2 Nummer 8 eine Mitwirkung vorgesehen ist.
 
-
 ## Kapitel 9 - Eigentumsbindung, Befreiungen
-
 
 ### § 65 Duldungspflicht
 
@@ -3577,7 +3480,6 @@ geeigneter Weise zu benachrichtigen.
 (3) Die Befugnis der Bediensteten und Beauftragten der
 Naturschutzbehörden, zur Erfüllung ihrer Aufgaben Grundstücke zu
 betreten, richtet sich nach Landesrecht.
-
 
 ### § 66 Vorkaufsrecht
 
@@ -3622,7 +3524,6 @@ anerkannten Naturschutzvereinigungen ausgeübt werden.
 
 (5) Abweichende Vorschriften der Länder bleiben unberührt.
 
-
 ### § 67 Befreiungen
 
 (1) Von den Geboten und Verboten dieses Gesetzes, in einer
@@ -3655,7 +3556,6 @@ Absatz 1 bis 4 und Absatz 6 sowie § 17 Absatz 5 und 7 finden auch dann
 Anwendung, wenn kein Eingriff in Natur und Landschaft im Sinne des §
 14 vorliegt.
 
-
 ### § 68 Beschränkungen des Eigentums; Entschädigung und Ausgleich
 
 (1) Führen Beschränkungen des Eigentums, die sich auf Grund von
@@ -3686,9 +3586,7 @@ Entschädigung nach den Absätzen 1 bis 3 zu leisten ist, auf Antrag ein
 angemessener Ausgleich nach Maßgabe des jeweiligen Haushaltsgesetzes
 gezahlt werden kann.
 
-
 ## Kapitel 10 - Bußgeld- und Strafvorschriften
-
 
 ### § 69 Bußgeldvorschriften
 
@@ -3918,7 +3816,6 @@ oder Rechtsvorschriften verstoßen, die auf Grund dieses Gesetzes
 erlassen worden sind oder fortgelten, als Ordnungswidrigkeiten
 geahndet werden können.
 
-
 ### § 70 Verwaltungsbehörde
 
 Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes
@@ -3956,10 +3853,6 @@ Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes
 
 
 3.  in allen übrigen Fällen die nach Landesrecht zuständige Behörde.
-
-
-
-
 
 ### § 71 Strafvorschriften
 
@@ -4000,7 +3893,6 @@ zu fünf Jahren bestraft.
 nicht, dass sich die Handlung auf ein Tier oder eine Pflanze einer
 dort genannten Art bezieht, so ist die Strafe Freiheitsstrafe bis zu
 einem Jahr oder Geldstrafe.
-
 
 ### § 71a Strafvorschriften
 
@@ -4064,7 +3956,6 @@ oder Absatz 3 strafbar, wenn die Handlung eine unerhebliche Menge der
 Exemplare betrifft und unerhebliche Auswirkungen auf den
 Erhaltungszustand der Art hat.
 
-
 ### § 72 Einziehung
 
 Ist eine Ordnungswidrigkeit nach § 69 Absatz 1 bis 5 oder eine
@@ -4082,7 +3973,6 @@ Straftat nach § 71 oder § 71a begangen worden, so können
 eingezogen werden. § 23 des Gesetzes über Ordnungswidrigkeiten und §
 74a des Strafgesetzbuches sind anzuwenden.
 
-
 ### § 73 Befugnisse der Zollbehörden
 
 Die zuständigen Verwaltungsbehörden und die Staatsanwaltschaft können
@@ -4092,9 +3982,7 @@ Hauptzollämter oder die Behörden des Zollfahndungsdienstes und deren
 Beamte vornehmen lassen. § 37 Absatz 2 bis 4 des
 Außenwirtschaftsgesetzes gilt entsprechend.
 
-
 ## Kapitel 11 - Übergangs- und Überleitungsvorschrift
-
 
 ### § 74 Übergangs- und Überleitungsregelungen
 

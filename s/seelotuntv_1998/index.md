@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 20.10.2004 I 2652
 
-
 ## Eingangsformel
 
 Auf Grund
@@ -33,10 +32,6 @@ Auf Grund
     3 Nr. 9 des Gesetzes vom 15. Juli 1994 geändert worden ist, verordnet
     das Bundesministerium für Verkehr im Einvernehmen mit dem
     Bundesministerium der Finanzen:
-
-
-
-
 
 ## § 1
 
@@ -63,7 +58,6 @@ Grunde lag.
 
 (4) Die Kosten der Untersuchung trägt der Untersuchte.
 
-
 ## § 2
 
 (1) Einer seeärztlichen Untersuchung haben sich zu unterziehen:
@@ -86,7 +80,6 @@ unterziehen, wenn kein Untersuchungsanlass nach Satz 1 gegeben ist.
 (2) Die Untersuchungen nach Absatz 1 Nr. 1 sind in den eigenen
 seeärztlichen Dienststellen der See-Berufsgenossenschaft
 durchzuführen.
-
 
 ## § 3
 
@@ -114,7 +107,6 @@ nach den Bewertungsstufen "gut geeignet", "befriedigend geeignet",
 "geeignet" oder "nicht geeignet" und ist dem Zeugnis nach § 1 Abs. 3
 Satz 1 beizufügen.
 
-
 ## § 4
 
 (1) Bei Seelotsenbewerbern und Seelotsenanwärtern gilt das
@@ -129,7 +121,6 @@ schlechteren und auf fünf Meter Entfernung auf dem besseren Ohr
 verstanden wird. Sprache gewöhnlicher Lautstärke muß auf fünf Meter
 Entfernung mit dem jeweils dem Untersucher zugewandten Ohr verstanden
 werden.
-
 
 ## § 5
 
@@ -181,7 +172,6 @@ mehr den Anforderungen dieser Verordnung entspricht, sind weiterhin
 zum Seelotsenberuf geeignet, wenn ihr Sehvermögen noch den
 Anforderungen der ersten Untersuchung entspricht.
 
-
 ## § 6
 
 (1) Die Farbtüchtigkeit ist mit dem Anomaloskop und bei natürlichem
@@ -198,12 +188,10 @@ und die gezeigten Farbtafeln schnell und richtig erkannt werden.
 vorhanden, wenn die gezeigten Farbtafeln schnell und richtig erkannt
 werden.
 
-
 ## § 7
 
 Für Seelotsen außerhalb der Seelotsreviere gelten die §§ 1 bis 6
 entsprechend.
-
 
 ## § 8
 
@@ -311,7 +299,6 @@ für ärztliche Leistungen an:
 
 (3) Notwendige Ergänzungsuntersuchungen und fachärztliche Gutachten
 nach § 1 Abs. 2 sind gesondert in Rechnung zu stellen.
-
 
 ## § 9
 

@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 15 G v. 29.7.2009 I 2424
 
-
 ## Eingangsformel
 
 Auf Grund der §§ 65, 66 und 67 Nr. 1 und 8 sowie des § 68 Abs. 2 Nr. 2
@@ -45,20 +44,14 @@ Zuständigkeitsanpassungs-Verordnung vom 26. November 1986 (BGBl. I S.
 
 verordnet.
 
-
 ## 1. Abschnitt - Anwendungsbereich
-
-
 
 ### § 1 Räumliche und sachliche Anwendung
 
 Diese Verordnung gilt für die Aufsuchung, Gewinnung und Aufbereitung
 von Bodenschätzen im Bereich des Festlandsockels.
 
-
 ## 2. Abschnitt - Arbeitsschutz, Plattformen
-
-
 
 ### § 2 Arbeitsmedizinische Vorsorgeuntersuchungen, Beschäftigungseinschränkungen
 
@@ -90,7 +83,6 @@ gelten als arbeitsmedizinische Vorsorgeuntersuchungen im Sinne des
 Absatzes 1.
 
 (4) Jugendliche dürfen vom Unternehmer nicht beschäftigt werden.
-
 
 ### § 3 Betriebsaufsicht, Anweisungen
 
@@ -129,7 +121,6 @@ nächsterreichbare verantwortliche Person benachrichtigen.
 (4) In den Betriebsanlagen und der zugehörigen Landbasis hat der
 Unternehmer Listen zu führen, in denen Anzahl und Namen der in jeder
 Betriebsanlage anwesenden Personen enthalten sind.
-
 
 ### § 4 Sicherheitstechnischer und arbeitsmedizinischer Dienst
 
@@ -191,7 +182,6 @@ Arbeitssicherheit und den Betriebsärzten hat der Unternehmer unter
 Berücksichtigung der betrieblichen Belange die zur Wahrnehmung ihrer
 Aufgaben erforderliche Fortbildung zu ermöglichen.
 
-
 ### § 5 Vorkehrungen zur Ersten Hilfe
 
 Der Unternehmer hat in den Betriebsanlagen dafür zu sorgen, daß
@@ -217,10 +207,6 @@ Der Unternehmer hat in den Betriebsanlagen dafür zu sorgen, daß
     werden können und bei schweren Unfällen oder Erkrankungen ein Arzt
     hinzugezogen werden kann.
 
-
-
-
-
 ### § 6 Belehrung, sprachliche Verständigung
 
 (1) Der Unternehmer hat die Beschäftigten vor Aufnahme ihrer Tätigkeit
@@ -238,7 +224,6 @@ gegebene Weisungen richtig auffassen und sich in dieser Sprache
 eindeutig verständlich machen können. Weisungsbefugnisse darf er nur
 solchen Personen übertragen, die die festgelegte Verkehrssprache in
 Wort und Schrift hinreichend beherrschen.
-
 
 ### § 7 Persönliche Schutzausrüstungen, Wetterschutzkleidung
 
@@ -266,7 +251,6 @@ Gesundheitsschäden oder Verletzungen ausgesetzt sind.
 
 
 zur Verfügung zu stellen.
-
 
 ### § 8 Arbeitsplätze und Arbeitsräume, technische Arbeitseinrichtungen
 
@@ -305,10 +289,6 @@ elektrische Betriebsmittel
 
 
 2.  entsprechend den vorstehend aufgeführten Regeln betrieben werden.
-
-
-
-
 
 ### § 9 Unterkünfte, sanitäre Einrichtungen
 
@@ -417,7 +397,6 @@ Arbeiten von kurzer Dauer je Schlafraum bis zu vier Personen
 unterbringen. Die Länge toter Gänge in Unterkünften soll 7 m nicht
 überschreiten.
 
-
 ### § 10 Verwendung von Plattformen
 
 (1) Der Unternehmer darf Plattformen für die dieser Verordnung
@@ -492,7 +471,6 @@ Tätigkeiten nach § 1 und zur Unterbringung der Beschäftigten mit einem
 schwimmenden oder auf dem Meeresgrund abgestützten Tragwerk; hierzu
 zählen nicht Betriebseinrichtungen, die Bestandteil der Bohrung sind.
 
-
 ### § 11 Sprech- und Sprechfunkverbindungen
 
 (1) Der Unternehmer hat auf jeder Plattform eine Sprechverbindung
@@ -540,7 +518,6 @@ zwischen Kranführer und dem Beschäftigten an den
 Lastaufnahmeeinrichtungen erforderlich, für eine Sprechverbindung zu
 sorgen.
 
-
 ### § 12 Alarm bei Gefahr
 
 (1) Der Unternehmer hat jede Plattform mit einem akustischen
@@ -564,7 +541,6 @@ Inanspruchnahme der Seenotleitung Bremen mit deren Rettungsmitteln und
 Einsatzmöglichkeiten aufzunehmen. Den Alarmplan hat er auf der
 Plattform an geeigneter Stelle zur Einsichtnahme auszuhängen und in
 Kurzfassung allen Beschäftigten auszuhändigen.
-
 
 ### § 13 Rettungsmittel
 
@@ -590,7 +566,6 @@ sie sich im Seenot- und Gefahrenfall richtig zu verhalten haben.
 Rettungsboote und Rettungskapseln müssen bei den Übungen mindestens
 einmal vierteljährlich mit der ihnen zugeteilten Besatzung ausgesetzt
 und im Wasser manövriert werden.
-
 
 ### § 14 Brand-, Explosions- und Gasschutz
 
@@ -693,10 +668,6 @@ Pläne aufzustellen, in denen insbesondere festzulegen sind:
 4.  die im einzelnen beim Ausbruch eines Brandes oder beim Auftreten von
     schädlichen Gasen zu treffenden Maßnahmen.
 
-
-
-
-
 ### § 15 Umgang mit brennbaren und wassergefährdenden Stoffen
 
 (1) Der Unternehmer hat Behälter und Behältnisse zur Lagerung von
@@ -747,7 +718,6 @@ Schiffe vergleichbarer Größe gestellt werden.
 (5) Die Absätze 1 bis 3 gelten entsprechend für die Lagerung von Erdöl
 und von nicht brennbaren wassergefährdenden Flüssigkeiten, soweit
 diese das Meer gefährden können.
-
 
 ### § 16 Umgang mit Sprengstoffen und Zündmitteln
 
@@ -829,7 +799,6 @@ Nr. 1 unverzüglich zu melden. Gefundene Sprengstoffe oder
 sprengkräftige Zündmittel sind der nächsterreichbaren verantwortlichen
 Person abzuliefern.
 
-
 ### § 17 Umgang mit Gefahrstoffen, radioaktiven Stoffen und ionisierenden Strahlen
 
 (1) Der Unternehmer hat dafür zu sorgen, daß Behältnisse oder
@@ -863,7 +832,6 @@ Nachweis nach Satz 2 nicht erbracht wird oder die erforderlichen
 Schutzmaßnahmen während des Umgangs mit radioaktiven Stoffen oder des
 Betriebs von Anlagen zur Erzeugung ionisierender Strahlen nicht
 eingehalten werden.
-
 
 ### § 18 Taucherarbeiten, Arbeiten in Unterwasserdruckkammern
 
@@ -1020,10 +988,7 @@ und Dauer seiner Taucherausbildung, seine abgeleisteten Tauchgänge und
 die Bescheinigungen über seine jährlichen ärztlichen Untersuchungen
 einzutragen sind.
 
-
 ## 3. Abschnitt - Aufsuchung und Gewinnung durch Bohrungen
-
-
 
 ### § 19 Niederbringen von Bohrungen
 
@@ -1115,7 +1080,6 @@ entsprechend; Absatz 5 findet entsprechende Anwendung, soweit das
 Bohrloch bei der Aufwältigung zur Verhütung von Ausbrüchen mit Spülung
 gesichert wird.
 
-
 ### § 20 Überwachung des Bohrlochverlaufs, Bohrbericht
 
 (1) Bei den Bohrungen nach § 19 Abs. 1 hat der Unternehmer den
@@ -1149,7 +1113,6 @@ Gewinnung von Erdöl oder Erdgas genutzten Bohrungen mindestens ein
 Jahr über den Zeitpunkt ihrer Inbetriebnahme als Gewinnungs- oder
 Hilfsbohrung, bei allen anderen Bohrungen mindestens ein Jahr über den
 Zeitpunkt ihrer Verfüllung hinaus aufzubewahren.
-
 
 ### § 21 Bohrungen zur Gewinnung von Erdöl und Erdgas
 
@@ -1208,7 +1171,6 @@ Unternehmer anfallendes Erdgas sowie Erdöl, das nicht in geeigneten
 Behältern aufgefangen wird, über eine Fackelanlage gefahrlos zu
 verbrennen.
 
-
 ### § 22 Hilfsbohrungen
 
 (1) Bei Bohrungen, die sekundären oder tertiären Fördermaßnahmen
@@ -1244,7 +1206,6 @@ besonders korrosiv sind, hat der Unternehmer den Förderringraum gegen
 den Förderstrang abzusperren und mit einem geeigneten Schutzmedium
 voll aufzufüllen.
 
-
 ### § 23 Verhütung und Bekämpfung von Ausbrüchen
 
 (1) Die Beaufsichtigung von Bohrungen, bei denen ein Ausbruch nicht
@@ -1260,7 +1221,6 @@ Zeitabständen Übungen zur Bohrlochsicherung durchführen.
 ereignet sich ein Ausbruch, sind unverzüglich Maßnahmen zur Verhütung
 oder Bekämpfung des Ausbruchs sowie zur Warnung und zum Schutz
 gefährdeter Personen zu treffen.
-
 
 ### § 24 Rohrleitungen
 
@@ -1351,7 +1311,6 @@ wasserfrei zu trocknen. Das zu befördernde schwefelwasserstoffhaltige
 Erdgas hat er soweit zu trocknen, daß der Wassertaupunkt nicht
 unterschritten wird.
 
-
 ### § 25 Zusätzliche sicherheitliche Überwachungsmaßnahmen
 
 (1) In Erdöl- und Erdgasgewinnungsbetrieben sowie in
@@ -1381,10 +1340,7 @@ gegen unbefugte Eingriffe zu sichern. Stehen diese Bohrungen unter
 Druck oder kann sich in ihnen ein Druck aufbauen, hat er die Dichtheit
 des Bohrlochverschlusses und das Druckverhalten zu überwachen.
 
-
 ## 4. Abschnitt - Besondere Maßnahmen zum Schutz des Meeres einschließlich des Meeresgrundes
-
-
 
 ### § 26 Grundsätzliche Anforderungen
 
@@ -1413,7 +1369,6 @@ Umständen erforderliche Sorgfalt anzuwenden, um eine Verunreinigung
 des Meeres und des Meeresgrundes oder eine sonstige nachteilige
 Veränderung ihrer Eigenschaften zu verhüten.
 
-
 ### § 27 Abwasser, Abfall
 
 (1) Der Unternehmer hat ölhaltiges Abwasser, das im Zusammenhang mit
@@ -1433,7 +1388,6 @@ Vollreinigung). Zurückgehaltene Feststoffe müssen an Land entsorgt
 werden. Einzuleitendes Abwasser darf nicht gechlort werden.
 
 (3) Es ist verboten, Abfall in das Meer einzubringen.
-
 
 ### § 28 Bohrspülung, Bohrklein
 
@@ -1466,7 +1420,6 @@ bezogen auf trockene Substanz nicht mehr als 10 g/kg betragen. Die
 störungsfreie Betriebsweise der Reinigungsanlage hat der Unternehmer
 sicherzustellen.
 
-
 ### § 29 Entledigung und Bergung von Gegenständen
 
 Arbeitsgeräte, Kabel, Trossen oder sonstige Gegenstände, die ein
@@ -1477,7 +1430,6 @@ Unkontrolliert treibende, festgekommene oder gesunkene Gegenstände
 nach Satz 1 hat der Unternehmer unverzüglich zu bergen. Bei
 Einstellung des Betriebes hat er nachzuweisen, daß der Meeresgrund in
 den genutzten Bereichen von Gegenständen nach Satz 1 frei ist.
-
 
 ### § 30 Sonstige Vorsorge- und Schutzmaßnahmen
 
@@ -1492,7 +1444,6 @@ und Beseitigung des Öls erforderlichen Geräte und Mittel, wie
 Ölsperren mit zugehörigen Aussetz- und Befestigungseinrichtungen,
 unverzüglich eingesetzt werden können.
 
-
 ### § 31 Verfüllen nicht mehr genutzter Bohrungen
 
 Bohrungen, die für eine Nutzung nicht in Betracht kommen oder nicht
@@ -1503,7 +1454,6 @@ ausgehen können, besonders abzudichten. Die Bohrungen hat er,
 unbeschadet der sich aus § 55 Abs. 2 Satz 1 Nr. 3 des
 Bundesberggesetzes ergebenden Verpflichtung, so herzurichten, daß der
 Meeresgrund wieder als natürlicher Lebensraum zur Verfügung steht.
-
 
 ### § 32 Störfallpläne
 
@@ -1552,10 +1502,6 @@ Plan muß mindestens folgende Angaben enthalten:
     Buchstabe a und über die Durchführung der Störfallübungen nach Nummer
     2\.
 
-
-
-
-
 ### § 33 Überwachung der Schutzmaßnahmen
 
 Der Unternehmer hat die Überwachung der zum Schutze des Meeres
@@ -1567,7 +1513,6 @@ erforderliche Fachkunde und berufliche Erfahrung besitzen. Sie sind
 bei der Wahrnehmung ihrer Aufgaben nach Satz 1 weisungsfrei. Das
 Vorliegen der Voraussetzungen nach Satz 2 hat der Unternehmer der
 zuständigen Behörde nachzuweisen.
-
 
 ### § 34 Maßnahmen bei der Gewinnung von Lockersedimenten
 
@@ -1581,10 +1526,7 @@ Unebenheiten des Meeresgrundes hat er zu vermeiden. Bei der Gewinnung
 freiwerdende größere Steine, die den Fischfang beeinträchtigen können,
 darf er nicht zurücklassen.
 
-
 ## 5. Abschnitt - Maßnahmen zur Abwehr von Gefahren für die Sicherheit und Leichtigkeit des Schiffsverkehrs, des Luftverkehrs und zum Schutz von Unterwasserkabeln
-
-
 
 ### § 35 Schiffahrtszeichen, Kennzeichnung für Luftfahrt
 
@@ -1634,7 +1576,6 @@ hat der Unternehmer dafür zu sorgen, daß Störungen in der Funktion und
 Stromversorgung der Schiffahrts- und Hinderniskennzeichnung in den
 Kontrollräumen der Plattform akustisch oder optisch angezeigt werden.
 
-
 ### § 36 Verbot der Beeinträchtigung von Schiffahrtszeichen
 
 (1) Es ist verboten, Schiffahrtszeichen im Zusammenhang mit
@@ -1646,7 +1587,6 @@ oder Arbeitsbeleuchtungen benutzt werden, die mit Schiffahrtszeichen
 verwechselt werden, die Sichtbarkeit solcher Schiffahrtszeichen
 beeinträchtigen oder durch Blendwirkung oder Spiegelung Schiffsführer
 irreführen oder behindern können.
-
 
 ### § 37 Schiffe im Nahbereich, Sicherheitszonen
 
@@ -1665,7 +1605,6 @@ vom 7. Dezember 1994 (BGBl. I S. 3744), in der jeweils geltenden
 Fassung hat der Unternehmer dem Bundesamt für Seeschiffahrt und
 Hydrographie zur Eintragung in die Seekarten rechtzeitig mitzuteilen.
 
-
 ### § 38 Sicherung des Hubschrauberverkehrs
 
 Der Unternehmer darf Geräte zur Flugsicherung, insbesondere
@@ -1683,7 +1622,6 @@ Wetterbeobachtungen nach Satz 2 mit zugehöriger Zeitangabe hat der
 Unternehmer möglichst umgehend der Landbasis zu übermitteln und von
 dieser dem Deutschen Wetterdienst auf Anforderung zur Verfügung zu
 stellen.
-
 
 ### § 39 Schutz von Unterwasserkabeln
 
@@ -1707,10 +1645,7 @@ Unternehmer unabhängig von der vorgesehenen Verlegetechnik vor
 Aufnahme der Arbeiten das Einverständnis der Eigentümer des bereits
 vorhandenen Unterwasser-Fernmeldekabels herbeizuführen.
 
-
 ## 6. Abschnitt - Schlußvorschriften
-
-
 
 ### § 40 Prüfung von Betriebsanlagen und -einrichtungen
 
@@ -1806,7 +1741,6 @@ und mindestens drei Jahre aufzubewahren. Die Prüfberichte von
 Sachverständigen hat er der zuständigen Behörde auf Verlangen
 vorzulegen.
 
-
 ### § 41 Betriebsanweisungen
 
 (1) Der Unternehmer hat zur Regelung wiederkehrender und
@@ -1865,7 +1799,6 @@ erforderlichenfalls auf ihre Aufgaben hin zu unterweisen. Die
 Betriebsanweisungen hat er darüber hinaus an geeigneter Stelle im
 Betrieb auszuhängen oder zur Einsicht auszulegen.
 
-
 ### § 42 Sicherheitliche Unterlagen
 
 Die für den Betrieb und die Überwachung der Betriebsanlagen und
@@ -1922,10 +1855,6 @@ Unterlagen und Aufzeichnungen nach Satz 1 zählen insbesondere:
     Betriebsanlagen und -einrichtungen aufgetretenen besonderen
     Vorkommnisse und damit im Zusammenhang getroffene Maßnahmen.
 
-
-
-
-
 ### § 43 Anzeige von besonderen Ereignissen und Unfällen
 
 Der Unternehmer hat der zuständigen Behörde und in den Fällen der
@@ -1966,10 +1895,6 @@ anzuzeigen:
     explosionsgefährlichen und radioaktiven Stoffen sowie den Verlust oder
     den Fund solcher Stoffe.
 
-
-
-
-
 ### § 44 Ausnahmebewilligungen
 
 Die zuständige Behörde kann im Einzelfall Ausnahmen von den
@@ -1981,7 +1906,6 @@ Leben oder Gesundheit von Personen sowie von Sachgütern durch neue
 technische Entwicklungen oder auf eine andere Weise mindestens
 gleichwertig sichergestellt ist.
 
-
 ### § 45 Bekanntmachung der Verordnung
 
 Der Unternehmer hat allen Beschäftigten die Vorschriften dieser
@@ -1989,7 +1913,6 @@ Verordnung, soweit sie davon betroffen sind, zur Kenntnis zu bringen.
 Einen vollständigen Abdruck der Verordnung hat er den verantwortlichen
 Personen auszuhändigen und in jeder Betriebsanlage an geeigneter
 Stelle zur Einsichtnahme für jedermann bereitzuhalten.
-
 
 ### § 46 Übertragung der Verantwortlichkeit
 
@@ -2030,7 +1953,6 @@ verantwortliche Personen, im übrigen, mit Ausnahme der Pflichten aus §
 und 2, § 26 Abs. 1 Satz 1 und § 33 Satz 1, 2 und 4, auch auf zur
 Beaufsichtigung des Betriebes bestellte verantwortliche Personen
 übertragen.
-
 
 ### § 47 Ordnungswidrigkeiten
 
@@ -2127,16 +2049,13 @@ zuwiderhandelt.
 Absätze 1 und 2 auch für zur Leitung oder zur Beaufsichtigung des
 Betriebes bestellte verantwortliche Personen.
 
-
 ### § 48
 
 (weggefallen)
 
-
 ### § 49 Inkrafttreten
 
 Diese Verordnung tritt am 1. Juli 1989 in Kraft.
-
 
 ### Schlußformel
 

@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2003, 3100
 
-
-
 ## Eingangsformel
 
 Auf Grund
@@ -45,7 +43,6 @@ jeweils in Verbindung mit § 1 des Zuständigkeitsanpassungsgesetzes vom
 Oktober 2002 (BGBl. I S. 4206) verordnet das Bundesministerium für
 Wirtschaft und Arbeit:
 
-
 ## § 1
 
 Für das Jahr 2004 ergeben sich die Leistungsentgelte für das
@@ -53,18 +50,15 @@ Arbeitslosengeld, das Teilarbeitslosengeld, das Unterhaltsgeld und die
 Arbeitslosenhilfe aus der dieser Verordnung als Anlage 1 beigefügten
 Tabelle.
 
-
 ## § 2
 
 Für das Jahr 2004 ergeben sich die pauschalierten Nettoentgelte für
 das Kurzarbeitergeld und das Winterausfallgeld aus der dieser
 Verordnung als Anlage 2 beigefügten Tabelle.
 
-
 ## § 3
 
 Diese Verordnung tritt am 1. Januar 2004 in Kraft.
-
 
 ## Anlage 1 Leistungsentgelt
 
@@ -3225,10 +3219,6 @@ Fundstelle des Originaltextes: BGBl. I 2003, 3101 - 3106
 
 
 *    *   und mehr
-
-
-
-
 
 ## Anlage 2 Pauschaliertes Nettoentgelt
 

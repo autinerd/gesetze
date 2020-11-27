@@ -19,10 +19,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 15 Abs. 54 G v. 5.2.2009 I 160
 
-
 ## Abschnitt 1 - Allgemeine Bestimmungen
-
-
 
 ### § 1 Ziel des Gesetzes
 
@@ -40,7 +37,6 @@ Rechnung getragen.
 Gleichstellung von Frauen und Männern auch sprachlich zum Ausdruck
 bringen. Dies gilt auch für den dienstlichen Schriftverkehr.
 
-
 ### § 2 Verpflichtete
 
 Alle Beschäftigten, insbesondere auch solche mit Vorgesetzten- und
@@ -48,7 +44,6 @@ Leitungsaufgaben, sind verpflichtet, die Gleichstellung von Frauen und
 Männern zu fördern. Diese Verpflichtung ist als durchgängiges
 Leitprinzip in allen Aufgabenbereichen der Dienststelle sowie auch bei
 der Zusammenarbeit von Dienststellen zu berücksichtigen.
-
 
 ### § 3 Geltungsbereich
 
@@ -70,7 +65,6 @@ durch vertragliche Vereinbarungen sichergestellt werden, dass die
 Leistungsempfänger die Grundzüge dieses Gesetzes anwenden. Dies gilt
 auch für Einrichtungen, die mit Bundesmitteln im Wege der Zuweisung
 institutionell gefördert werden.
-
 
 ### § 4 Begriffsbestimmungen
 
@@ -109,17 +103,13 @@ Stellen, Planstellen und Dienstposten, für die nach
 haushaltsrechtlichen Vorgaben lediglich finanzielle Mittel benötigt
 werden.
 
-
 ## Abschnitt 2 - Maßnahmen zur Gleichstellung von Frauen und Männern
-
-
 
 ### § 5 Grundsatz; entsprechende Anwendung von Vorschriften
 
 Die Vorschriften dieses Abschnitts finden Anwendung, soweit nicht ein
 bestimmtes Geschlecht unverzichtbare Voraussetzung für die auszuübende
 Tätigkeit ist.
-
 
 ### § 6 Arbeitsplatzausschreibung
 
@@ -146,7 +136,6 @@ künftige Funktionen der Bewerberinnen und Bewerber auch das
 vorausgesetzte Anforderungs- und Qualifikationsprofil der Laufbahn
 oder der Funktionsbereiche enthalten.
 
-
 ### § 7 Bewerbungsgespräche
 
 (1) Bei der Besetzung von Arbeitsplätzen in Bereichen, in denen Frauen
@@ -164,7 +153,6 @@ pflegebedürftigen Angehörigen neben der Berufstätigkeit unzulässig.
 (3) Auswahlkommissionen sollen zu gleichen Teilen mit Frauen und
 Männern besetzt sein. Ist dies aus triftigen Gründen nicht möglich,
 sind die Gründe aktenkundig zu machen.
-
 
 ### § 8 Auswahlentscheidungen bei Einstellung, beruflichem Aufstieg, Vergabe von Ausbildungsplätzen
 
@@ -192,7 +180,6 @@ Die Ausnahmeregelung in Satz 2 Nr. 1 gilt entsprechend für die Stellen
 von Mitgliedern des Bundesrechnungshofes, für deren Ernennung gemäß §
 5 Abs. 2 Satz 2 des Bundesrechnungshofgesetzes der Ständige Ausschuss
 des Großen Senats des Bundesrechnungshofes zu hören ist.
-
 
 ### § 9 Qualifikation; Benachteiligungsverbote
 
@@ -223,10 +210,6 @@ berücksichtigen:
 3.  zeitliche Belastungen durch die Betreuung von Kindern oder
     pflegebedürftigen Angehörigen und die Absicht, von der Möglichkeit der
     Arbeitsreduzierung Gebrauch zu machen.
-
-
-
-
 
 ### § 10 Fortbildung
 
@@ -262,7 +245,6 @@ Organisations- und Haushaltsrechts zu geben.
 
 (6) Frauen sind verstärkt als Leiterinnen und Referentinnen für
 Fortbildungsveranstaltungen einzusetzen.
-
 
 ### § 11 Gleichstellungsplan
 
@@ -309,10 +291,7 @@ Gleichstellungsplan gesondert zur Verfügung zu stellen.
 worden sind, sind die Gründe im nächsten Gleichstellungsplan
 darzulegen sowie zusätzlich der höheren Dienststelle mitzuteilen.
 
-
 ## Abschnitt 3 - Vereinbarkeit von Familie und Erwerbstätigkeit für Frauen und Männer
-
-
 
 ### § 12 Familiengerechte Arbeitszeiten und Rahmenbedingungen
 
@@ -320,7 +299,6 @@ Die Dienststelle hat Arbeitszeiten und sonstige Rahmenbedingungen
 anzubieten, die Frauen und Männern die Vereinbarkeit von Familie und
 Erwerbstätigkeit erleichtern, soweit zwingende dienstliche Belange
 nicht entgegenstehen.
-
 
 ### § 13 Teilzeitbeschäftigung, Telearbeit und familienbedingte Beurlaubung
 
@@ -342,7 +320,6 @@ Dienststelle hat darauf zu achten, dass die Beschäftigten eine ihrer
 ermäßigten Arbeitszeit entsprechende Entlastung von ihren dienstlichen
 Aufgaben erhalten und dass sich daraus für die anderen Beschäftigten
 der Dienststelle keine dienstlichen Mehrbelastungen ergeben.
-
 
 ### § 14 Wechsel zur Vollzeitbeschäftigung, beruflicher Wiedereinstieg
 
@@ -369,7 +346,6 @@ Beurlaubung Beratungsgespräche zu führen, in denen sie über die
 Möglichkeiten ihrer Beschäftigung nach der Beurlaubung informiert
 werden.
 
-
 ### § 15 Benachteiligungsverbot bei Teilzeitbeschäftigung, Telearbeit und familienbedingter Beurlaubung
 
 (1) Teilzeitbeschäftigung darf das berufliche Fortkommen nicht
@@ -393,10 +369,7 @@ vorzeitige Anstellung geschehen ist.
 Beförderungsreihenfolge und die Möglichkeiten einer Höhergruppierung
 oder Höherreihung auswirken.
 
-
 ## Abschnitt 4 - Gleichstellungsbeauftragte
-
-
 
 ### § 16 Wahl der Gleichstellungsbeauftragten und der Stellvertreterin
 
@@ -465,7 +438,6 @@ Gleichstellungsbeauftragten und die Vertrauensfrau. Die Bestellung der
 Gleichstellungsbeauftragten und ihrer Stellvertreterin erfolgt für die
 volle Amtszeit, sofern beide Ämter neu zu besetzen sind.
 
-
 ### § 17 Koordination, Stufenbeteiligung
 
 (1) Die Gleichstellungsbeauftragte der obersten Bundesbehörde ist für
@@ -480,7 +452,6 @@ an dem bei ihr anhängigen Teilverfahren zu beteiligen. Das
 schriftliche Votum der Gleichstellungsbeauftragten der nachgeordneten
 Dienststelle ist zusammen mit den weiteren Unterlagen der höheren
 Dienststelle und der dortigen Gleichstellungsbeauftragten vorzulegen.
-
 
 ### § 18 Rechtsstellung
 
@@ -542,7 +513,6 @@ Angelegenheiten in der Dienststelle über die Zeit ihrer Bestellung
 hinaus zum Stillschweigen verpflichtet. Die Verschwiegenheitspflicht
 gilt auch für Vertrauensfrauen.
 
-
 ### § 19 Aufgaben
 
 (1) Die Gleichstellungsbeauftragte hat die Aufgabe, den Vollzug dieses
@@ -587,7 +557,6 @@ Gleichstellung von Frauen und Männern eingerichtet ist.
 (3) Die Gleichstellungsbeauftragte ist verpflichtet, die
 Fortbildungsangebote der Dienststelle nach § 10 Abs. 5 wahrzunehmen.
 
-
 ### § 20 Information und Mitwirkung
 
 (1) Die Gleichstellungsbeauftragte ist zur Durchführung ihrer Aufgaben
@@ -624,7 +593,6 @@ Soweit dabei die Übermittlung personenbezogener Daten von
 Beschäftigten erforderlich ist, bedarf dies der Einwilligung der
 Betroffenen.
 
-
 ### § 21 Einspruchsrecht
 
 (1) Bei Verstößen der Dienststelle gegen den Gleichstellungsplan,
@@ -646,7 +614,6 @@ weiteren vergleichbaren Fällen zu berücksichtigen.
 sie diesen der nächsthöheren Dienststellenleitung, bei selbständigen
 bundesunmittelbaren Körperschaften, Anstalten und Stiftungen deren
 Vorstand unverzüglich vor. Absatz 2 gilt entsprechend.
-
 
 ### § 22 Gerichtliches Verfahren; außergerichtliche Einigung
 
@@ -678,7 +645,6 @@ Verwaltungsgerichtsordnung gilt entsprechend.
 
 (4) Die Dienststelle trägt die der Gleichstellungsbeauftragten
 entstehenden Kosten.
-
 
 ### § 23 Sonderregelungen für den Bundesnachrichtendienst
 
@@ -722,13 +688,7 @@ Abweichungen:
     von der Leitung des Bundesnachrichtendienstes im Einvernehmen mit dem
     Chef oder der Chefin des Bundeskanzleramtes festgestellt.
 
-
-
-
-
 ## Abschnitt 5 - Statistische Angaben, Bericht
-
-
 
 ### § 24 Statistische Angaben
 
@@ -756,7 +716,6 @@ unter Berücksichtigung der Personalstandsstatistik nach dem Finanz-
 und Personalstatistikgesetz. Die Rechtsverordnung beschränkt den Kreis
 der mitteilungspflichtigen Dienststellen auf das Notwendige.
 
-
 ### § 25 Bericht
 
 Die Bundesregierung legt dem Deutschen Bundestag alle vier Jahre einen
@@ -768,10 +727,7 @@ Bericht hat vorbildhafte Gleichstellungsmaßnahmen einzelner
 Dienststellen und institutioneller Leistungsempfänger besonders
 hervorzuheben. Er darf keine personenbezogenen Daten enthalten.
 
-
 ## Abschnitt 6 - Schlussbestimmungen
-
-
 
 ### § 26 Übergangsbestimmung
 

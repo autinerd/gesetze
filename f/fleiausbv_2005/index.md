@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 898
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 der
@@ -30,7 +28,6 @@ zuletzt durch Artikel 184 Nr. 1 der Verordnung vom 25. November 2003
 27 des Gesetzes vom 20. Juli 2000 (BGBl. I S. 1045) verordnet das
 Bundesministerium für Wirtschaft und Arbeit im Einvernehmen mit dem
 Bundesministerium für Bildung und Forschung:
-
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
@@ -46,7 +43,6 @@ Der Ausbildungsberuf Fleischer/Fleischerin wird
 
 staatlich anerkannt.
 
-
 ## § 2 Ausbildungsdauer
 
 (1) Die Ausbildung dauert drei Jahre.
@@ -57,7 +53,6 @@ einer Verordnung gemäß § 27a Abs. 1 der Handwerksordnung und § 29 Abs.
 1 des Berufsbildungsgesetzes als erstes Jahr der Berufsausbildung
 anzurechnen ist, beginnen die betriebliche Ausbildung im zweiten
 Ausbildungsjahr.
-
 
 ## § 3 Struktur und Zielsetzung der Berufsausbildung
 
@@ -87,7 +82,6 @@ Planen, Durchführen und Kontrollieren sowie das Handeln im
 betrieblichen Gesamtzusammenhang einschließt. Die in Satz 2
 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 8 und 9
 nachzuweisen.
-
 
 ## § 4 Ausbildungsberufsbild
 
@@ -171,10 +165,6 @@ Fertigkeiten und Kenntnisse:
 
 6.  Verpacken von Produkten.
 
-
-
-
-
 ## § 5 Ausbildungsrahmenplan
 
 Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der Anlage
@@ -184,12 +174,10 @@ dem Ausbildungsrahmenplan abweichende sachliche und zeitliche
 Gliederung des Ausbildungsinhalts ist insbesondere zulässig, soweit
 betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
 ## § 6 Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans
 für die Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 7 Berichtsheft
 
@@ -197,7 +185,6 @@ Die Auszubildenden haben ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden
 haben das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 8 Zwischenprüfung
 
@@ -241,7 +228,6 @@ der Prüfling zeigen, dass er Arbeitsschritte planen, Arbeitsmittel
 festlegen, Rohstoffe beurteilen, Mengen bestimmen sowie
 lebensmittelrechtliche Vorschriften und Maßnahmen der
 Qualitätssicherung berücksichtigen kann.
-
 
 ## § 9 Gesellenprüfung/Abschlussprüfung
 
@@ -398,7 +384,6 @@ und im schriftlichen Teil der Prüfung jeweils mindestens ausreichende
 Leistungen erbracht wurden. In keiner der Aufgaben der Prüfungsteile
 dürfen ungenügende Leistungen erbracht worden sein.
 
-
 ## § 10 Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
@@ -406,11 +391,9 @@ Verordnung bestehen, sind die bisherigen Vorschriften weiter
 anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
 Anwendung der Vorschriften dieser Verordnung.
 
-
 ## § 11 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2005 in Kraft.
-
 
 ## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Fleischer/zur Fleischerin
 

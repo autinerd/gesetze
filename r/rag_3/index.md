@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1960, 1013
 
-
-
 ## § 1
 
 (1) In den gesetzlichen Rentenversicherungen werden aus Anlaß der
@@ -37,7 +35,6 @@ Versichertenrenten von Berechtigten, die das 65. Lebensjahr im Jahre
 1960 vollendet haben.
 
 (3) Absatz 1 findet auf den Knappschaftssold keine Anwendung.
-
 
 ## § 2
 
@@ -78,7 +75,6 @@ in den Fällen des Satzes 1 bei der Berechnung einer Versicherten- und
 einer Hinterbliebenenrente desselben Berechtigten ein Sonderzuschuß zu
 berücksichtigen gewesen, so gilt als Sonderzuschuß der Betrag von 21
 Deutsche Mark.
-
 
 ## § 3
 
@@ -202,12 +198,10 @@ Artikel 2 § 11 oder Artikel 2 § 25 des
 Knappschaftsrentenversicherungs-Neuregelungsgesetzes
 berechnet worden sind.
 
-
 ## § 4
 
 Ergibt die Anpassung keinen höheren als den bisherigen Zahlbetrag, so
 ist dieser weiterzuzahlen.
-
 
 ## § 5
 
@@ -227,7 +221,6 @@ Erhöhungsbeträge für den in Satz 1 genannten Zeitraum sind ferner bei
 der Gewährung von Leistungen aus der Arbeitslosenversicherung und der
 Arbeitslosenhilfe nicht zu berücksichtigen.
 
-
 ## § 6
 
 (1) Dem Berechtigten ist über die Anpassung eine schriftliche
@@ -242,7 +235,6 @@ zum 31. Dezember 1961 zulässig.
 § 1300 der Reichsversicherungsordnung, § 79 des
 Angestelltenversicherungsgesetzes und § 93 Abs. 1 des
 Reichsknappschaftsgesetzes bleiben unberührt.
-
 
 ## § 7
 
@@ -265,13 +257,11 @@ und das Bundesentschädigungsgesetz sowie das Lastenausgleichsgesetz
 unter Berücksichtigung ihrer im Saarland geltenden Fassung anzuwenden
 sind.
 
-
 ## § 8
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
 im Land Berlin.
-
 
 ## § 9
 

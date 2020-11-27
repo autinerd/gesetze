@@ -18,13 +18,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1988, 445
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -38,7 +35,6 @@ Auswärtigen Amt (Politisches Archiv), beim Innenminister des Landes
 Nordrhein-Westfalen in Düsseldorf, beim Regierungspräsidenten Köln
 sowie beim Oberkreisdirektor des Kreises Aachen zur Einsicht bereit.
 
-
 ## Art 2
 
 In den Gebietsteilen, die nach den Artikeln 1 und 2 des Vertrags der
@@ -46,7 +42,6 @@ Bundesrepublik Deutschland zufallen, treten mit dem Zeitpunkt des
 Inkrafttretens des Vertrags die geltenden Vorschriften des
 Bundesrechts in Kraft. Gleichzeitig tritt das belgische Recht in
 diesen Gebietsteilen außer Kraft.
-
 
 ## Art 3
 
@@ -69,15 +64,10 @@ Recht
     Warenmengen, die den üblichen persönlichen Bedarf übersteigen, gelten
     als zum Handel bestimmt.
 
-
-
-
-
 ## Art 4
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
-
 
 ## Art 5
 

@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 1764
 
-
 ## (XXXX)
 
 Auf Grund des § 187 Absatz 3 Satz 2 und des § 281a Absatz 3 Satz 3 des
@@ -70,13 +69,6 @@ Beitragssatzes für das Jahr 2011 berechneten Faktoren betragen im Jahr
 
         *   0,0001251447,
             0,0001430278.
-
-
-
-
-
-
-
 
 ## Schlussformel
 

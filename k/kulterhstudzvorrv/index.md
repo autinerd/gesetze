@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1964, 1321
 
-
-
 ## Eingangsformel
 
 Auf Grund des Artikels 3 des Gesetzes vom 22. Juni 1954 über den
@@ -29,7 +27,6 @@ und Befreiungen an andere zwischenstaatliche Organisationen
 Änderungsgesetzes vom 28. Februar 1964 (Bundesgesetzbl. II S. 187)
 verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
-
 ## § 1
 
 Die Bestimmungen des Artikels II des Abkommens über die Vorrechte und
@@ -39,7 +36,6 @@ und Restaurierung von Kulturgut" in Rom nach Maßgabe ihrer Satzung
 Anwendung. Die Satzung der Internationalen Studienzentrale für die
 Erhaltung und Restaurierung von Kulturgut wird nachstehend
 veröffentlicht.
-
 
 ## § 2
 
@@ -51,7 +47,6 @@ Sonderorganisationen der Vereinten Nationen vom 21. November 1947 und
 über die Gewährung von Vorrechten und Befreiungen an andere
 zwischenstaatliche Organisationen in der Fassung des Zweiten
 Änderungsgesetzes vom 28. Februar 1964 auch im Land Berlin.
-
 
 ## § 3
 

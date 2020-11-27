@@ -28,7 +28,6 @@ Bundesministerium für Bildung und Forschung nach Anhörung des
 Hauptausschusses des Bundesinstituts für Berufsbildung im Einvernehmen
 mit dem Bundesministerium für Wirtschaft und Technologie:
 
-
 ## § 1 Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
 
 (1) Die zuständige Stelle kann berufliche Fortbildungsprüfungen zum
@@ -119,7 +118,6 @@ Meisterin für Veranstaltungstechnik wahrnehmen zu können:
 Fortbildungsabschluss Geprüfter Meister für
 Veranstaltungstechnik/Geprüfte Meisterin für Veranstaltungstechnik.
 
-
 ## § 2 Umfang der Meisterqualifikation und Gliederung der Prüfung
 
 (1) Die Qualifikation zum Geprüften Meister für
@@ -142,7 +140,6 @@ vergleichbare Prüfung vor einer öffentlichen oder staatlich
 anerkannten Bildungseinrichtung oder vor einem staatlichen
 Prüfungsausschuss nachzuweisen. Der Nachweis ist bis spätestens vor
 Beginn der letzten Prüfungsleistung zu erbringen.
-
 
 ## § 3 Zulassungsvoraussetzungen
 
@@ -187,7 +184,6 @@ Voraussetzungen ist zur Prüfung auch zuzulassen, wer durch Vorlage von
 Zeugnissen oder auf andere Weise glaubhaft macht, Fertigkeiten,
 Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit) erworben zu
 haben, die die Zulassung zur Prüfung rechtfertigen.
-
 
 ## § 4 Prüfungsteil „Situative Aufgabe“
 
@@ -472,7 +468,6 @@ Prüfungsleistung und die der mündlichen Ergänzungsprüfung werden zu
 einer Prüfungsleistung zusammengefasst. Dabei wird die Bewertung der
 schriftlichen Prüfungsleistung doppelt gewichtet.
 
-
 ## § 5 Prüfungsteil „Prüfungsprojekt“
 
 (1) Im Prüfungsteil „Prüfungsprojekt“ sollen die folgenden Fähigkeiten
@@ -544,7 +539,6 @@ mehr als 40 Minuten dauern.
 (4) Projektbericht, Präsentation und Fachgespräch sind nach den
 Fähigkeiten nach Absatz 1 zu bewerten.
 
-
 ## § 6 Bewerten der Prüfungsteile und Bestehen der Prüfung
 
 (1) Die Prüfungsleistungen in den Handlungsbereichen des Prüfungsteils
@@ -568,7 +562,6 @@ Prüfungsgremiums der anderweitig abgelegten Prüfung anzugeben. Der
 Nachweis über den Erwerb der berufs- und arbeitspädagogischen Eignung
 nach § 2 Absatz 2 ist im Zeugnis einzutragen.
 
-
 ## § 7 Anrechnung anderer Prüfungsleistungen
 
 Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin ist auf Antrag
@@ -578,7 +571,6 @@ Stelle zu befreien, wenn eine andere vergleichbare Prüfung vor einer
 einem staatlichen Prüfungsausschuss erfolgreich abgelegt wurde und die
 Anmeldung zur Fortbildungsprüfung innerhalb von fünf Jahren nach der
 Bekanntgabe des Bestehens der anderen Prüfung erfolgt.
-
 
 ## § 8 Wiederholung der Prüfung
 
@@ -598,19 +590,16 @@ Wiederholungsprüfung angemeldet hat.
 Prüfungsteil „Situative Aufgabe“ können auf Antrag einmal wiederholt
 werden. In diesem Fall gilt das Ergebnis der letzten Prüfung.
 
-
 ## § 9 Anwendungsregelung
 
 Für Fortbildungsprüfungsverfahren, die bis zum Ablauf des 31. Dezember
 2015 begonnen werden, sind die Vorschriften dieser Verordnung bis zum
 Ablauf des 31. Dezember 2017 weiter anzuwenden.
 
-
 ## § 10 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. September 2009 in Kraft und am 31.
 Dezember 2015 außer Kraft.
-
 
 ## Anlage 1 (zu § 6 Absatz 4) Muster
 
@@ -618,8 +607,6 @@ Dezember 2015 außer Kraft.
 
 *    *   ...........................
         (Bezeichnung der zuständigen Stelle)
-
-
 
 ## Zeugnis
 
@@ -638,8 +625,6 @@ Dezember 2015 außer Kraft.
 *    *   hat am ...........................
 
     *   die Prüfung zum anerkannten Fortbildungsabschluss
-
-
 
 ## Geprüfter Meister für Veranstaltungstechnik/Geprüfte Meisterin für
 Veranstaltungstechnik
@@ -675,17 +660,12 @@ Veranstaltungstechnik/Geprüfte Meisterin für Veranstaltungstechnik vom
 
 *    *   (Siegel der zuständigen Stelle)
 
-
-
-
 ## Anlage 2 (zu § 6 Absatz 4) Muster
 
 (Fundstelle: BGBl. 2009, 2926)
 
 *    *   ...........................
         (Bezeichnung der zuständigen Stelle)
-
-
 
 ## Zeugnis
 
@@ -705,8 +685,6 @@ Veranstaltungstechnik
 *    *   hat am ...........................
 
     *   die Prüfung zum anerkannten Fortbildungsabschluss
-
-
 
 ## Geprüfter Meister für Veranstaltungstechnik/Geprüfte Meisterin für
 Veranstaltungstechnik

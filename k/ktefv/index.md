@@ -16,14 +16,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 1155
 
-
 ## Eingangsformel
 
 Auf Grund des § 6a Absatz 3 des Zweiten Buches Sozialgesetzbuch –
 Grundsicherung für Arbeitsuchende –, der durch Artikel 1 Nummer 3 des
 Gesetzes vom 3. August 2010 (BGBl. I S. 1112) neu gefasst worden ist,
 verordnet das Bundesministerium für Arbeit und Soziales:
-
 
 ## § 1 Zulassungsverfahren
 
@@ -56,7 +54,6 @@ Absatz 4 des Zweiten Buches Sozialgesetzbuch zum 1. Januar 2017 erneut
 kommunale Träger zur Aufgabenwahrnehmung anstelle der Agentur für
 Arbeit zugelassen werden.
 
-
 ## § 2 Voraussetzungen der Eignungsfeststellung
 
 (1) Zur Feststellung der Eignung und Bestimmung der Reihenfolge haben
@@ -76,7 +73,6 @@ obersten Landesbehörde zu bestimmende Mindestpunktzahl ergeben. Die
 erreichte Punktzahl ist auch maßgeblich für die Platzierung in der für
 das jeweilige Land von der zuständigen obersten Landesbehörde zu
 erstellenden Reihenfolge.
-
 
 ## § 3 Eignungskriterien
 
@@ -143,11 +139,9 @@ tatsächlichen Abwicklung der bestehenden Trägerform sowie zur
 Überführung des Daten- und Aktenbestandes und des Eigentums in die
 zugelassene kommunale Trägerschaft.
 
-
 ## § 4 Inkrafttreten
 
 Diese Verordnung tritt am 23. August 2010 in Kraft.
-
 
 ## Schlussformel
 

@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 5 V v. 5.11.1997 I 2642
 
-
 ## Eingangsformel
 
 Auf Grund des § 12 in Verbindung mit § 3 Abs. 3 und § 6 Abs. 2 Satz 1
@@ -27,7 +26,6 @@ des Marktstrukturgesetzes in der Fassung der Bekanntmachung vom 26.
 September 1990 (BGBl. I S. 2134) verordnet der Bundesminister für
 Ernährung, Landwirtschaft und Forsten im Einvernehmen mit dem
 Bundesminister für Wirtschaft:
-
 
 ## § 1
 
@@ -73,16 +71,13 @@ bestimmen und die Mindestanbaufläche oder Mindesterzeugungsmenge nach
 eines Liefervertrages nach § 6 Abs. 1 Nr. 4 und 5 des Gesetzes
 festzulegen.
 
-
 ## § 2
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## § 2a
 

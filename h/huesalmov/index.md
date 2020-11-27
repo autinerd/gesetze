@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 17 V v. 13.12.2011 I 2720
 
-
 ## Inhaltsverzeichnis
 
 Abschnitt 1
@@ -256,11 +255,7 @@ Anlage
 
 *    *   Anforderungen an gewerbsmäßige Geflügelhaltungen (zu § 2 Absatz 1)
 
-
-
-
 ## Abschnitt 1 - Allgemeines
-
 
 ### § 1 Begriffsbestimmungen
 
@@ -352,10 +347,6 @@ Anlage
     2, wenn diese durch eine betriebseigene Untersuchung festgestellt
     worden ist.
 
-
-
-
-
 ### § 2 Hygiene
 
 (1) Der Besitzer eines Zuchtbetriebes, eines Aufzuchtbetriebes, eines
@@ -375,7 +366,6 @@ hat. Der Hersteller des Futtermittels hat die Ergebnisse der
 Untersuchungen nach Satz 1 drei Jahre lang, gerechnet vom Tag der
 Untersuchung, aufzubewahren.
 
-
 ### § 3 Impfung
 
 Die zuständige Behörde kann für einen Betrieb, in dem
@@ -394,7 +384,6 @@ gehalten werden, die Impfung gegen Salmonellen der Kategorie 1 oder 2
 anordnen, wenn dies aus Gründen der Tierseuchenbekämpfung erforderlich
 ist. § 13 bleibt unberührt.
 
-
 ### § 4 Mitteilungspflicht
 
 Der Besitzer eines Zuchtbetriebes oder einer Brüterei hat den Verdacht
@@ -404,7 +393,6 @@ eines Legehennenbetriebes oder eines Masthähnchenbetriebes hat den
 Verdacht auf eine Infektion mit Salmonellen der Kategorie 1 oder mit
 Salmonella Gallinarum Pullorum unverzüglich der zuständigen Behörde
 mitzuteilen.
-
 
 ### § 5 Untersuchungseinrichtung
 
@@ -443,7 +431,6 @@ eine Untersuchung, die im Auftrage
 
 durchgeführt wird.
 
-
 ### § 6 Ursachenermittlung im Betrieb
 
 Der Besitzer eines Zuchtbetriebes, eines Aufzuchtbetriebes, eines
@@ -456,7 +443,6 @@ oder durchführen zu lassen. Satz 1 gilt im Falle des Verdachtes auf
 eine Infektion mit Salmonellen der Kategorie 2 oder einer Infektion
 mit Salmonellen der Kategorie 2 in einem Zuchtbetrieb oder in einer
 Brüterei entsprechend.
-
 
 ### § 7 Reinigung und Desinfektion
 
@@ -551,9 +537,7 @@ Infektion mit Salmonellen der Kategorie 2 oder einer Infektion mit
 Salmonellen der Kategorie 2 in einem Zuchtbetrieb oder in einer
 Brüterei entsprechend.
 
-
 ## Abschnitt 2 - Zuchtbetriebe
-
 
 ### § 8 Betriebseigene Kontrollen, sonstige Mitteilungspflichten
 
@@ -674,7 +658,6 @@ ferner die durchgeführten Impfungen unter Angabe
 
 spätestens 30 Tage nach Abschluss der Impfung mitzuteilen.
 
-
 ### § 9 Maßregeln vor amtlicher Feststellung
 
 Ergeben die Untersuchungen nach § 8 Absatz 1 oder 2 Nummer 1 oder 3
@@ -727,7 +710,6 @@ und Eier nicht verbracht werden. Satz 1 gilt nicht, soweit
 
 verbracht werden.
 
-
 ### § 10 Amtliche Untersuchung
 
 Im Falle der Mitteilung des Verdachtes auf eine Infektion mit
@@ -737,7 +719,6 @@ begründen, führt die zuständige Behörde eine Untersuchung der
 betroffenen Herde nach Maßgabe der Nummer 2.2.2.2 Buchstabe a, der
 Nummern 3.1.2, 3.1.3, 3.2 und 3.3 des Anhangs der Verordnung (EG) Nr.
 1003/2005 durch.
-
 
 ### § 11 Maßregeln nach amtlicher Feststellung
 
@@ -807,7 +788,6 @@ Satz 1 Nummer 1 gilt nicht, soweit die Hühner unverzüglich
 
 verbracht werden.
 
-
 ### § 12 Aufhebung der Schutzmaßregeln
 
 (1) Die Maßnahmen nach den §§ 9 und 11 sind nicht mehr anzuwenden,
@@ -859,9 +839,7 @@ worden sind.
 oder 2 gilt als beseitigt, soweit eine Untersuchung nach § 10 mit
 negativem Ergebnis auf Salmonellen durchgeführt worden ist.
 
-
 ## Abschnitt 3 - Aufzuchtbetriebe
-
 
 ### § 13 Impfungen
 
@@ -890,7 +868,6 @@ Aufzuchtbetriebes, soweit die Tiere nicht bereits gegen Salmonella
 Typhimurium geimpft worden sind, die Küken und Junghennen des
 betroffenen Betriebes oder der betroffenen Betriebsabteilung gegen
 Salmonella Typhimurium zu impfen oder impfen zu lassen.
-
 
 ### § 14 Betriebseigene Kontrollen
 
@@ -944,12 +921,10 @@ wird.
 (2) § 8 Absatz 3 und 4 gilt für die Untersuchungen nach Absatz 1
 entsprechend.
 
-
 ### § 15 Maßregeln vor amtlicher Feststellung
 
 Ergeben die Untersuchungen nach § 14 Absatz 1 Satz 1 den Verdacht auf
 eine Infektion mit Salmonellen der Kategorie 1, gilt § 9 entsprechend.
-
 
 ### § 16 Amtliche Untersuchung
 
@@ -961,13 +936,11 @@ der betroffenen Herde nach Maßgabe der Nummer 2.1 Satz 3 Buchstabe d
 und e, der Nummern 2.2, 3.1, 3.2, 3.3 und 3.5 des Anhangs der
 Verordnung (EG) Nr. 1168/2006 durch.
 
-
 ### § 17 Maßregeln nach amtlicher Feststellung
 
 Ist in einem Aufzuchtbetrieb auf Grund einer Untersuchung nach § 16
 eine Infektion mit Salmonellen der Kategorie 1 amtlich festgestellt
 worden, gilt § 11 Absatz 1 entsprechend.
-
 
 ### § 18 Aufhebung der Schutzmaßregeln
 
@@ -994,9 +967,7 @@ soweit
 gilt als beseitigt, soweit eine Untersuchung nach § 16 mit negativem
 Ergebnis auf Salmonellen durchgeführt worden ist.
 
-
 ## Abschnitt 4 - Legehennenbetriebe
-
 
 ### § 19 Einstallen von Junghennen
 
@@ -1014,7 +985,6 @@ einer Herde stammen, die
 
 Satz 1 gilt auch für Betriebe, in denen weniger als 350 Legehennen
 erwerbsmäßig gehalten werden.
-
 
 ### § 20 Betriebseigene Kontrollen
 
@@ -1040,14 +1010,12 @@ Aufzeichnung, aufzubewahren.
 (2) § 8 Absatz 3 gilt für die Untersuchungen nach Absatz 1
 entsprechend.
 
-
 ### § 21 Maßregeln vor amtlicher Feststellung
 
 Ergeben die Untersuchungen nach § 20 Absatz 1 Satz 1 den Verdacht auf
 eine Infektion mit Salmonellen der Kategorie 1, gilt § 9 entsprechend.
 Satz 1 ist auch auf Betriebe anzuwenden, in denen weniger als
 1 000 Legehennen              erwerbsmäßig gehalten werden.
-
 
 ### § 22 Amtliche Untersuchung
 
@@ -1071,7 +1039,6 @@ Nummer 4 der Verordnung (EG) Nr. 2160/2003,
 eine Untersuchung der betroffenen Herde nach Maßgabe der Nummer 2.1
 Satz 3 Buchstabe d und e, der Nummern 2.2, 3.1, 3.2, 3.3 und 3.5 des
 Anhangs der Verordnung (EG) Nr. 1168/2006 durch.
-
 
 ### § 23 Maßregeln nach amtlicher Feststellung
 
@@ -1118,7 +1085,6 @@ Satz 1 gilt im Falle einer Untersuchung, die nach Maßgabe der Nummer
 2\.1 Satz 4 des Anhangs der Verordnung (EG) Nr. 1168/2006 durchgeführt
 wird, entsprechend.
 
-
 ### § 24 Aufhebung der Schutzmaßregeln
 
 (1) Die Maßnahmen nach § 21 oder § 23 sind nicht mehr anzuwenden,
@@ -1144,9 +1110,7 @@ soweit
 gilt als beseitigt, soweit eine Untersuchung nach § 22 mit negativem
 Ergebnis auf Salmonellen durchgeführt worden ist.
 
-
 ## Abschnitt 5 - Masthähnchenbetriebe
-
 
 ### § 25 Betriebseigene Kontrollen
 
@@ -1167,13 +1131,11 @@ Aufzeichnung, aufzubewahren.
 
 (2) § 8 Absatz 3 gilt für Untersuchungen nach Absatz 1 entsprechend.
 
-
 ### § 26 Maßregeln vor amtlicher Feststellung
 
 Ergeben die Untersuchungen nach § 25 Absatz 1 Satz 1 den Verdacht auf
 eine Infektion mit Salmonellen der Kategorie 1, gilt § 9 Satz 1 und 2
 Nummer 1 und 2 entsprechend.
-
 
 ### § 27 Amtliche Untersuchung
 
@@ -1184,13 +1146,11 @@ Kategorie 1 begründen, führt die zuständige Behörde eine Untersuchung
 der betroffenen Herde nach Maßgabe der Nummern 1, 2 und 3.1 bis 3.3
 des Anhangs der Verordnung (EG) Nr. 646/2007 durch.
 
-
 ### § 28 Maßregeln nach amtlicher Feststellung
 
 Ist in einem Masthähnchenbetrieb auf Grund einer Untersuchung nach §
 27 eine Infektion mit Salmonellen der Kategorie 1 amtlich festgestellt
 worden, gilt § 11 Absatz 1 entsprechend.
-
 
 ### § 29 Aufhebung der Schutzmaßregeln
 
@@ -1217,9 +1177,7 @@ soweit
 gilt als beseitigt, soweit eine Untersuchung nach § 27 mit negativem
 Ergebnis auf Salmonellen durchgeführt worden ist.
 
-
 ## Abschnitt 6 - Brütereien
-
 
 ### § 30 Betriebseigene Kontrollen
 
@@ -1268,7 +1226,6 @@ Wissenschaft und Technik durchgeführt wird.
 (3) § 8 Absatz 3 Nummer 1 und 3 gilt für die Untersuchungen nach
 Absatz 1 entsprechend.
 
-
 ### § 31 Maßregeln vor amtlicher Feststellung
 
 Ergeben die Untersuchungen nach § 30 Absatz 1 den Verdacht auf eine
@@ -1304,7 +1261,6 @@ soweit sichergestellt ist, dass die Küken in diesem Betrieb nach § 11
 Absatz 2 Nummer 1 Buchstabe a behandelt oder nach § 11 Absatz 2 Nummer
 1 Buchstabe b geimpft werden.
 
-
 ### § 32 Amtliche Untersuchung
 
 Im Falle der Mitteilung des Verdachtes auf eine Infektion mit
@@ -1318,13 +1274,11 @@ des betroffenen Brüters nach Maßgabe der Nummer 2.2.2.2 Buchstabe b
 oder c, der Nummern 3.1, 3.2, 3.3 und 3.4 des Anhangs der Verordnung
 (EG) Nr. 1003/2005 durch.
 
-
 ### § 33 Maßregeln nach amtlicher Feststellung
 
 Ist in einer Brüterei auf Grund einer Untersuchung nach § 32 eine
 Infektion mit Salmonellen der Kategorie 1 oder 2 amtlich festgestellt
 worden, gilt § 31 entsprechend.
-
 
 ### § 34 Aufhebung der Schutzmaßregeln
 
@@ -1371,9 +1325,7 @@ Infektion ferner als erloschen, soweit
 
 worden sind.
 
-
 ## Abschnitt 7 - Weitergehende Maßnahmen
-
 
 ### § 35 Schutzmaßregeln bei Salmonella Gallinarum Pullorum
 
@@ -1385,7 +1337,6 @@ Infektion mit Salmonella Gallinarum Pullorum festgestellt worden ist.
 (2) Impfungen gegen Salmonella Gallinarum Pullorum sind verboten. Die
 zuständige Behörde kann im Einzelfall Ausnahmen von Satz 1 zulassen,
 soweit Belange der Tierseuchenbekämpfung nicht entgegenstehen.
-
 
 ### § 36 Mitteilungen der Länder
 
@@ -1406,9 +1357,7 @@ Jahres die nach der jeweiligen Nummer 4 des Anhangs
 
 erforderlichen Angaben.
 
-
 ## Abschnitt 8 - Ordnungswidrigkeiten, Schlussvorschriften
-
 
 ### § 37 Ordnungswidrigkeiten
 
@@ -1517,16 +1466,11 @@ vorsätzlich oder fahrlässig
     entgegen Anhang II Buchstabe C Nummer 4 Satz 1 einen dort genannten
     Vogel nicht schlachtet oder nicht vernichtet.
 
-
-
-
-
 ### § 38 Übergangsbestimmungen
 
 (1) § 2 Absatz 1 ist ab dem 1. Januar 2010 anzuwenden.
 
 (2) Die §§ 26 und 28 sind ab dem 13. Dezember 2010 anzuwenden.
-
 
 ### Anlage (zu § 2 Absatz 1) Anforderungen an gewerbsmäßige Geflügelhaltungen
 
@@ -1603,9 +1547,6 @@ vorsätzlich oder fahrlässig
     Tränkung des Geflügels ausschließlich in einer Qualität angeboten
     wird, die eine Infektion der Herde mit Salmonellen nicht befürchten
     lässt.
-
-
-
 
 ## Abschnitt 2
 

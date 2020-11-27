@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 15 Abs. 103 G v. 5.2.2009 I 160
 
-
 ## § 1 Errichtung der Aktiengesellschaften durch Umwandlung
 
 (1) Die Unternehmen der Deutschen Bundespost werden in
@@ -34,7 +33,6 @@ Aktiengesellschaften ist möglich.
 (3) Soweit sich aus den folgenden Vorschriften nichts anderes ergibt,
 finden auf die Gründung der Aktiengesellschaften der Erste und Zweite
 Teil des Ersten Buches des Aktiengesetzes entsprechende Anwendung.
-
 
 ## § 2 Rechtsnachfolge, Vermögensübergang und Haftung
 
@@ -101,7 +99,6 @@ mündelsichere Forderungen im Sinne des § 1807 Abs. 1 Nr. 3 des
 Bürgerlichen Gesetzbuchs, wenn sie in das Bundesschuldbuch eingetragen
 sind.
 
-
 ## § 3 Aktien
 
 (1) Bei der Gründung der Aktiengesellschaften stehen die Aktien dem
@@ -119,7 +116,6 @@ Aufsichtsrats auch an Arbeitnehmer der jeweiligen Aktiengesellschaft
 ausgegeben werden; § 186 Abs. 3 Satz 1 des Aktiengesetzes findet
 insoweit keine Anwendung.
 
-
 ## § 4 Eröffnungsbilanzen
 
 (1) Die handelsrechtlichen Eröffnungsbilanzen der Aktiengesellschaften
@@ -136,7 +132,6 @@ Folgezeit als Anschaffungs- oder Herstellungskosten, die bei
 abnutzbaren Vermögensgegenständen jeweils über die Restnutzungsdauer
 abgeschrieben werden.
 
-
 ## § 5 Bewertung zu Buchwerten
 
 Bei der Aufstellung der handelsrechtlichen Eröffnungsbilanzen werden
@@ -146,7 +141,6 @@ Teilsondervermögens übernommen (Buchwertverknüpfung). Für die
 Aufstellung der Schlußbilanzen der Teilsondervermögen und der
 Eröffnungsbilanzen der Aktiengesellschaften gelten die Vorschriften
 des Handelsrechts.
-
 
 ## § 6 Bewertung zu Verkehrswerten
 
@@ -163,7 +157,6 @@ Handelsgesetzbuchs fortgeführt.
 anzuwenden, daß auch Forderungen und Wertpapiere einschließlich der
 Beteiligungen neu bewertet werden dürfen.
 
-
 ## § 7 Abwicklung von Anspruchsverrechnung
 
 Die nach § 37 Abs. 3 des Postverfassungsgesetzes in der Bilanz per 31.
@@ -179,7 +172,6 @@ Verlusten aus Satz 1, die größer sind als die Kreditübernahmen nach §
 2 Abs. 2, kann der Unterschiedsbetrag nicht als Ausgleichsforderung
 gegenüber der Deutsche Telekom AG geltend gemacht werden.
 
-
 ## § 8 Bilanzansatz übergegangener Verpflichtungen
 
 Auf übergegangene Verpflichtungen aus § 2 Abs. 3 und § 14 Abs. 4 des
@@ -191,7 +183,6 @@ Einführungsgesetzes zum Handelsgesetzbuche mit der Maßgabe anzuwenden,
 daß an die Stelle des Stichtages 1. Januar 1987 der Stichtag 1. Januar
 1990 und an die Stelle des Stichtages 31. Dezember 1986 der Stichtag
 31\. Dezember 1989 tritt.
-
 
 ## § 9 Vorstand und Aufsichtsrat
 
@@ -208,7 +199,6 @@ Arbeitern, Angestellten und leitenden Angestellten unterscheiden, sind
 die Beamten diesen Gruppen nach ihrer jeweiligen Beschäftigung
 zuzuordnen.
 
-
 ## § 10 Steuer- und Gebührenbefreiung
 
 (1) Die Aktiengesellschaften sind von Steuerpflichten befreit, die bei
@@ -219,7 +209,6 @@ Amtshandlungen sind Gerichtskosten nach dem Ersten Teil der
 Kostenordnung nicht zu erheben. Notarkosten sind auch zugunsten der
 bisherigen Teilsondervermögen und der Aktiengesellschaften gemäß § 144
 der Kostenordnung zu ermäßigen.
-
 
 ## § 11 Satzungen
 
@@ -238,7 +227,6 @@ Anwendung.
 
 (4) Satzungsänderungen erfolgen nach den Vorschriften des
 Aktiengesetzes.
-
 
 ## § 12 Grundbuchvollzug
 
@@ -274,7 +262,6 @@ dem Vermögensgesetz oder aus Restitution (§ 11 Abs. 1 Satz 1 des
 Vermögenszuordnungsgesetzes) sowie das Wohnungsgenossenschafts-
 Vermögensgesetz unberührt.
 
-
 ## § 13 Vermögenszuweisung
 
 (1) Soweit im Bundesanstalt Post-Gesetz, im
@@ -309,7 +296,6 @@ erhoben.
 (4) Der Bescheid ist zwischen den aus dem Sondervermögen Deutsche
 Bundespost hervorgehenden Rechtsträgern endgültig. Gerichte können
 durch diese gegen den Bescheid nicht angerufen werden.
-
 
 ## § 14 Verhältnis zum Vermögenszuordnungsgesetz
 
@@ -347,7 +333,6 @@ Vermögenszuordnungsgesetzes entgegen den Grundsätzen einer
 ordnungsgemäßen postalischen Wirtschaft abgegangen sind, erfolgt nach
 dem Vermögenszuordnungsgesetz.
 
-
 ## § 15 Übergangsvorschriften
 
 (1) Die Aktiengesellschaften werden nach Maßgabe des § 19 des
@@ -367,7 +352,6 @@ jeweilige Teilsondervermögen.
 werden die Gründungsprüfer durch das Bundesministerium für Post und
 Telekommunikation bestellt. Eine öffentliche Ausschreibung findet
 nicht statt.
-
 
 ## § 16 Überleitungsvorschrift
 
@@ -392,7 +376,6 @@ Rechtsverordnungen die Bezeichnung Deutsche Bundespost POSTDIENST
 durch Deutsche Post AG, die Bezeichnung Deutsche Bundespost POSTBANK
 durch Deutsche Postbank AG und die Bezeichnung Deutsche Bundespost
 TELEKOM durch Deutsche Telekom AG zu ersetzen.
-
 
 ## Anhang zu § 11 Abs. 2
 

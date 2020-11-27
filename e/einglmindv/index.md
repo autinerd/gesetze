@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 2768
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 18 Abs. 4 in Verbindung mit § 18 Abs. 3 des Zweiten
@@ -27,7 +25,6 @@ denen § 18 Abs. 3 durch Artikel 1 des Gesetzes vom 30. Juli 2004
 (BGBl. I S. 2014) geändert worden ist, verordnet das Bundesministerium
 für Wirtschaft und Arbeit:
 
-
 ## § 1 Grundsatz
 
 Die Agenturen für Arbeit sollen mit Gemeinden, Kreisen und Bezirken
@@ -36,7 +33,6 @@ Grundsicherung für Arbeitsuchende Vereinbarungen über das Erbringen
 von Leistungen zur Eingliederung in Arbeit mit Ausnahme der Leistungen
 nach § 16 Abs. 1 des Zweiten Buches Sozialgesetzbuch schließen, wenn
 die Vereinbarungen den Mindestanforderungen des § 2 entsprechen.
-
 
 ## § 2 Mindestanforderungen
 
@@ -60,7 +56,6 @@ mindestens
 sowie Regelungen über Mitteilungspflicht, Befristung und Kündigung
 beinhalten.
 
-
 ## § 3 Leistungsvereinbarung
 
 Die Leistungsvereinbarung muss die wesentlichen Leistungsmerkmale
@@ -81,17 +76,12 @@ festlegen. Dies sind mindestens
 5.  die Verpflichtung, im Rahmen des Leistungsangebotes
     Leistungsberechtigte aufzunehmen.
 
-
-
-
-
 ## § 4 Vergütungsvereinbarung
 
 Die Vergütungsvereinbarung muss den Grundsätzen der Wirtschaftlichkeit
 und Sparsamkeit entsprechen. Die Gemeinde, der Kreis oder der Bezirk
 haben jeweils nach längstens sechs Monaten die Kosten für die
 erbrachten Leistungen abzurechnen.
-
 
 ## § 5 Prüfungsvereinbarung
 
@@ -114,7 +104,6 @@ durchgeführt werden; sie muss insbesondere das Recht auf
 
 zur Prüfung der Leistungen umfassen.
 
-
 ## § 6 Mitteilungspflicht
 
 Eine Vereinbarung über das Erbringen von Eingliederungsleistungen muss
@@ -123,7 +112,6 @@ Bezirkes enthalten, der Agentur für Arbeit alle Tatsachen mitzuteilen,
 von denen sie oder er Kenntnis erhält und die für die in § 31 des
 Zweiten Buches Sozialgesetzbuch vorgesehenen Rechtsfolgen erheblich
 sind.
-
 
 ## § 7 Befristung
 
@@ -141,10 +129,6 @@ Vereinbarung darf nur abgeschlossen werden, wenn
     Berücksichtigung regionaler Besonderheiten wenigstens
     durchschnittliche Ergebnisse erzielt haben.
 
-
-
-
-
 ## § 8 Kündigung
 
 Eine Vereinbarung über das Erbringen von Eingliederungsleistungen muss
@@ -160,7 +144,6 @@ vorsehen, dass die Vereinbarung
 
 
 gekündigt werden kann.
-
 
 ## § 9 Inkrafttreten
 

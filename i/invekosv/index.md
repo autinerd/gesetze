@@ -20,8 +20,6 @@ Stand: Zuletzt geändert Art. 2 V v. 15.12.2011 eBAnz AT144 V1
 
 ## Abschnitt 1 - Allgemeines
 
-
-
 ### § 1 Anwendungsbereich
 
 (1) Die Vorschriften dieser Verordnung gelten für die Durchführung
@@ -114,7 +112,6 @@ oder Rechtsakte der Europäischen Union, das Direktzahlungen-
 Verpflichtungengesetz, die Direktzahlungen-Verpflichtungenverordnung
 und das InVeKoS-Daten-Gesetz nicht entgegenstehen, bleibt unberührt.
 
-
 ### § 2 Zuständigkeit
 
 (1) Soweit in dieser Verordnung oder den in § 1 Absatz 1 Nummer 3 bis
@@ -168,10 +165,7 @@ bezieht auf
 
 (7) (weggefallen)
 
-
 ### § 2a (weggefallen)
-
-
 
 ### § 3 Flächenidentifizierungssystem
 
@@ -213,7 +207,6 @@ bei der Bestimmung der Referenzparzellen als landwirtschaftliche
 Flächen zu behandeln. Zur Durchführung des Flächendatenabgleichs ist
 der in der Anlage 1 bezeichnete Flächenidentifikator zu verwenden.
 
-
 ### § 4 Begriff der landwirtschaftlichen Parzelle
 
 (1) Landwirtschaftliche Parzelle ist ein Schlag. § 3 Satz 2 gilt
@@ -243,7 +236,6 @@ der Stützungsregelung für den Weinsektor (ABl. L 316 vom 2.12.2009, S.
 getrennt angegeben werden müssen, als eine landwirtschaftliche
 Parzelle gelten.
 
-
 ### § 5 Muster, Vordrucke und Formulare
 
 (1) Die zuständigen Stellen können für Anträge, Verträge, Erklärungen
@@ -252,7 +244,6 @@ auch in elektronischer Form, bereithalten.
 
 (2) Soweit die zuständigen Stellen Muster bekannt geben oder Vordrucke
 oder Formulare bereithalten, sind diese zu verwenden.
-
 
 ### § 6 Elektronische Kommunikation
 
@@ -299,17 +290,13 @@ oder nicht elektronisch übermittelt werden können, sind die geltenden
 Fristen gleichermaßen wie bei nicht elektronischer Übermittlung zu
 beachten.
 
-
 ## Abschnitt 2 - Gemeinsame Vorschriften
-
-
 
 ### § 6a Betriebsnummer
 
 Die zuständige Landesstelle teilt jedem Betriebsinhaber zu Zwecken der
 Identifizierung eine Nummer für alle in § 1 Absatz 1 Nummer 1 bis
 Nummer 2a genannten Stützungsregelungen zu (Betriebsnummer).
-
 
 ### § 7 Sammelantrag
 
@@ -524,7 +511,6 @@ den Absätzen 2, 3, 5 und 7 ergebenden Angaben einzureichen.
 (9) Die zuständigen Landesstellen können weitere Angaben fordern,
 soweit dies zur Überprüfung der Antragsangaben erforderlich ist.
 
-
 ### § 8 Mindestgröße einer landwirtschaftlichen Parzelle
 
 (1) Die Mindestgröße einer landwirtschaftlichen Parzelle, für die ein
@@ -534,7 +520,6 @@ Antrag gestellt werden kann, beträgt 0,3 Hektar.
 Rechtsverordnung eine kleinere Mindestgröße festlegen, soweit dies
 erforderlich ist, um besonderen regionalen Gegebenheiten Rechnung zu
 tragen.
-
 
 ### § 8a Landschaftselemente
 
@@ -559,7 +544,6 @@ Rechtsverordnung weitere Landschaftselemente als Teil der genutzten
 Fläche anerkennen, soweit dies erforderlich ist, um besonderen
 regionalen Gegebenheiten Rechnung zu tragen.
 
-
 ### § 9 Gewährung von Zahlungen bei Übertragung des Betriebes
 
 Wird ein Betrieb nach Einreichung eines Antrags auf Gewährung von
@@ -569,17 +553,13 @@ vollständig von einem Betriebsinhaber an einen anderen Betriebsinhaber
 der Verordnung (EG) Nr. 1122/2009 dem Übergeber gewährt, soweit alle
 Voraussetzungen für die Gewährung der Zahlungen erfüllt sind.
 
-
 ## Abschnitt 3 - Einheitliche Betriebsprämie
-
-
 
 ### § 10 Nichtgewährung von Zahlungen
 
 Zahlungen für die einheitliche Betriebsprämie werden im Fall des
 Artikels 28 Absatz 1 Buchstabe b der Verordnung (EG) Nr. 73/2009 nicht
 gewährt.
-
 
 ### § 11 Antrag auf Erhöhung von Zahlungsansprüchen durch den Stärkekartoffelerhöhungsbetrag
 
@@ -588,7 +568,6 @@ Stärkekartoffelerhöhungsbetrag nach § 5b Absatz 1 des
 Betriebsprämiendurchführungsgesetzes ist bis zum 15. Mai 2012
 schriftlich bei der Landesstelle zu beantragen. § 13 Absatz 5 gilt
 entsprechend.
-
 
 ### § 12 Höhere Gewalt und außergewöhnliche Umstände
 
@@ -601,7 +580,6 @@ den Antrag auf Festsetzung fristgerecht zu stellen, hat er dies der
 Landesstelle unter Beifügung geeigneter Nachweise innerhalb von zehn
 Arbeitstagen nach dem Zeitpunkt, ab dem er hierzu in der Lage ist,
 unter Nachholung des Antrags schriftlich mitzuteilen.
-
 
 ### § 13 Besondere Antragsfristen
 
@@ -632,10 +610,7 @@ wenn der Betrieb eine landwirtschaftliche Fläche im Sinne des Artikels
 2 Buchstabe h der Verordnung (EG) Nr. 73/2009 mit einer Größe von
 mindestens einem Hektar umfasst.
 
-
 ### (XXXX) §§ 13a und 14 (weggefallen)
-
-
 
 ### § 15 Übertragung von Zahlungsansprüchen
 
@@ -691,10 +666,7 @@ Artikels 7 der Verordnung (EG) Nr. 1122/2009 ist keine Entscheidung
 der zuständigen Landesstelle über die Wirksamkeit der Übertragung nach
 der Verordnung (EG) Nr. 73/2009.
 
-
 ## Abschnitt 4 - Zahlungen an anerkannte Erzeugerorganisationen des Hopfensektors
-
-
 
 ### § 16 Antrag
 
@@ -705,7 +677,6 @@ gewährt.
 (2) Der Antrag ist schriftlich bis zu dem 30. September eines Jahres
 für das jeweilige Erntejahr zu stellen. Für das Erntejahr 2010 tritt
 an die Stelle des 30. September der 15. Januar 2011.
-
 
 ### § 17 Meldung über Hopfenflächen
 
@@ -722,28 +693,17 @@ Erzeugerorganisationen im Hopfensektor (ABl. L 216 vom 17.08.2010, S.
 11) in der jeweils geltenden Fassung hinsichtlich der Gewährung von
 Zahlungen nach Artikel 102a der Verordnung (EG) Nr. 1234/2007.
 
-
 ### (XXXX) §§ 18 bis 23a (weggefallen)
-
-
 
 ## Abschnitt 4a - (weggefallen)
 
-
 ### (XXXX) §§ 23b bis 23k (weggefallen)
-
-
 
 ## Abschnitt 5 - (weggefallen)
 
-
-
 ### § 24 (weggefallen)
 
-
-
 ## Abschnitt 6 - Hanf
-
 
 ### § 25 Erntetermin, Kontrollen
 
@@ -768,42 +728,23 @@ Tetrahydrocannabinolgehaltes des Hanfs genommen hat. Die Bundesanstalt
 teilt den Betriebsinhabern das Ergebnis der Kontrolle des
 Tetrahydrocannabinolgehaltes mit.
 
-
 ### Abschnitt 7 - (weggefallen)
-
-
 
 #### (XXXX) §§ 26 und 26a (weggefallen)
 
-
-
 ## Abschnitt 8 - (weggefallen)
-
-
 
 ### § 27 (weggefallen)
 
-
-
 ## Abschnitt 8a - (weggefallen)
-
-
 
 ### (XXXX) §§ 27a bis 27k (weggefallen)
 
-
-
 ## Abschnitt 9 - (weggefallen)
-
-
 
 ### (XXXX) §§ 28 und 28a (weggefallen)
 
-
-
 ## Abschnitt 10 - Duldungs-, Mitwirkungs- und Meldepflichten
-
-
 
 ### § 29 Duldungs- und Mitwirkungspflichten
 
@@ -853,7 +794,6 @@ nach Satz 1 vorgeschriebenen Verpflichtungen zum Zwecke der
 Wirtschaftsjahres an einen anderen übertragen, so gelten die
 Vorschriften der Absätze 1 und 2 auch für den Rechtsnachfolger.
 
-
 ### § 30 Nachweis- und Meldepflichten des Betriebsinhabers
 
 (1) Zum Nachweis der Großvieheinheiten nach § 3 Abs. 2 Satz 2 der
@@ -893,7 +833,6 @@ zuständigen Stelle zu melden. Die Veränderungen sind unverzüglich
 schriftlich anzuzeigen, wenn nicht nach anderen Rechtsvorschriften für
 die Anzeige eine andere Form oder eine andere Frist vorgeschrieben
 ist.
-
 
 ### § 31 Mitteilungspflichten der Länder und der Bundesstellen
 
@@ -966,10 +905,7 @@ Hopfenerzeuger. Die Bundesanstalt und die Landesstellen unterrichten
 sich gegenseitig über das Verfahren und die Ergebnisse der im Bereich
 des Anbaus von Hopfen durchgeführten Kontrollen.
 
-
 ## Abschnitt 10a - Absehen von Kürzungen und Ausschlüssen bei Verstößen gegen anderweitige Verpflichtungen
-
-
 
 ### § 31a Absehen von Kürzungen und Ausschlüssen bei Verstößen gegen anderweitige Verpflichtungen
 
@@ -997,13 +933,7 @@ absehen, wenn
 2.  keine direkte Gefährdung der Gesundheit von Mensch oder Tier mit dem
     Verstoß verbunden war.
 
-
-
-
-
 ## Abschnitt 11 - Ordnungswidrigkeiten
-
-
 
 ### § 32 Ordnungswidrigkeiten
 
@@ -1011,7 +941,6 @@ Ordnungswidrig im Sinne des § 36 Absatz 3 Nummer 3 des
 Marktorganisationsgesetzes handelt, wer vorsätzlich oder leichtfertig
 entgegen § 7 Absatz 3 Nummer 3 eine Angabe nicht oder nicht
 vollständig macht.
-
 
 ### § 33 Zuständige Verwaltungsbehörde
 
@@ -1032,14 +961,9 @@ Verordnung von den Ländern durchgeführt werden, vorbehaltlich einer
 Regelung nach § 38 Absatz 3 Satz 4 des Marktorganisationsgesetzes die
 zuständige oberste Landesbehörde.
 
-
 ## Abschnitt 12 - Schlussbestimmungen
 
-
-
 ### § 34 (weggefallen)
-
-
 
 ### § 35 Aufhebung von Verordnungen, Übergangsregelungen
 
@@ -1089,7 +1013,6 @@ ersetzten oder geänderten Vorschriften dieser Verordnung sind
 
 
 in der am 31. Dezember 2011 geltenden Fassung weiter anzuwenden.
-
 
 ### Anlage 1 (zu § 3 Satz 3 und § 7 Absatz 8a) Flächenidentifikator (16 Stellen)
 

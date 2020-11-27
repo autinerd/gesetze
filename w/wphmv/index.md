@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 18.12.2007 I 3014
 
-
 ## Eingangsformel
 
 Auf Grund des § 9 Abs. 3 und 4 und des § 41 Abs. 1 des
@@ -28,10 +27,7 @@ Erlaß von Rechtsverordnungen auf das Bundesaufsichtsamt für den
 Wertpapierhandel vom 16. März 1995 (BGBl. I S. 390) verordnet das
 Bundesaufsichtsamt für den Wertpapierhandel:
 
-
 ## Abschnitt 1 - Anwendungsbereich
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -39,10 +35,7 @@ Diese Verordnung gilt für die Mitteilungen nach § 9 des
 Wertpapierhandelsgesetzes an die Bundesanstalt für
 Finanzdienstleistungsaufsicht (Bundesanstalt).
 
-
 ## Abschnitt 2 - Form und Inhalt der Mitteilung
-
-
 
 ### § 2 Meldesatz
 
@@ -62,7 +55,6 @@ laufenden Nummer zu versehen.
 Datum ist achtstellig in der Reihenfolge Jahrhundert, Jahr, Monat und
 Tag, die Uhrzeit sechsstellig in der Reihenfolge Stunden, Minuten und
 Sekunden anzugeben.
-
 
 ### § 3 Bezeichnung des Wertpapiers oder Derivats und Wertpapierkennummer
 
@@ -122,7 +114,6 @@ Derivaten sind zusätzlich anzugeben:
 
 (3) (weggefallen)
 
-
 ### § 4 Datum und Uhrzeit
 
 (1) Das Kalenderdatum des Geschäftsabschlusses oder der maßgeblichen
@@ -140,7 +131,6 @@ Uhrzeit des Geschäftsabschlusses in die jeweils im Inland geltende
 Zeit (mitteleuropäische Zeit oder mitteleuropäische Sommerzeit)
 umzusetzen.
 
-
 ### § 5 Preis, Stückzahl, Nennbetrag der Wertpapiere oder Derivate
 
 (1) Die Menge, auf die der ausgeführte Auftrag oder das Geschäft
@@ -156,7 +146,6 @@ der Verordnung (EG) Nr. 1287/2006) ist unter Angabe der Einheit der
 Effektennotiz (Feld-Nr. 36) und der Handelswährung (Feld-Nr. 26 in
 Verbindung mit Anhang I Tabelle 1 Feld Nr. 17 der Verordnung (EG) Nr.
 1287/2006) anzugeben.
-
 
 ### § 6 Identifikation der Beteiligten
 
@@ -204,7 +193,6 @@ kennzeichnen (Feld-Nr.: 4). Dabei muss eine eindeutige Zuordnung des
 verwendeten Kennzeichens zu einem bestimmten Depotinhaber oder Depot
 gewährleistet sein.
 
-
 ### § 7 Angaben zum Handel
 
 Es ist anzugeben, ob das Geschäft zu einem Börsenpreis abgeschlossen
@@ -213,7 +201,6 @@ das Geschäft abgeschlossen wurde (Feld-Nr.: 23 in Verbindung mit
 Anhang I Tabelle 1 Feld Nr. 21 der Verordnung (EG) Nr. 1287/2006) und
 gegebenenfalls in welchem Staat das Geschäft abgeschlossen worden ist
 (Feld-Nr.: 22).
-
 
 ### § 8 Kennzeichen zur Identifikation des Geschäfts
 
@@ -246,10 +233,6 @@ Zur Identifikation des Geschäfts sind anzugeben:
 5.  das Valutadatum durch Bezeichnung des Kalendertages, an dem
     vereinbarungsgemäß die Geldverrechnung vorzunehmen ist (Feld-Nr. 51).
 
-
-
-
-
 ### § 9 Kennzeichen für Geschäfte auf eigene Rechnung
 
 Es ist zu kennzeichnen, ob bei dem Geschäft der Eigenbestand betroffen
@@ -257,7 +240,6 @@ ist (Feld-Nr. 19 in Verbindung mit Anhang I Tabelle 1 Feld Nr. 5 der
 Verordnung (EG) Nr. 1287/2006). Zudem ist anzugeben, ob es sich um ein
 Kunden- oder Eigengeschäft handelt (Feld-Nr. 20 in Verbindung mit
 Anhang I Tabelle 1 Feld Nr. 5 der Verordnung (EG) Nr. 1287/2006).
-
 
 ### § 10 Zusätzliche Angaben
 
@@ -280,7 +262,6 @@ enthalten:
 Melder im Sinne des Satzes 1 Nr. 2 ist derjenige, der den Meldesatz
 erstellt hat.
 
-
 ### § 11 Fehlerhafte Mitteilungen
 
 Stellt der Meldepflichtige einen Fehler in der abgegebenen Mitteilung
@@ -293,10 +274,7 @@ muß die interne Meldenummer von dem unmittelbar zuvor gemeldeten
 Geschäft und Storno abweichen. Satz 2 gilt auch für weitere Meldungen
 eines Geschäfts.
 
-
 ## Abschnitt 3 - Übermittlung der Mitteilungen
-
-
 
 ### § 12 Technisches Übermittlungsformat
 
@@ -320,7 +298,6 @@ trennen (ASCII-Code 13 und 10). Der Nachsatz endet ohne
 Zeilenschaltung. Ein leerer Datensatz am Ende einer Datei ist nicht
 zulässig.
 
-
 ### § 13 Zulässige Datenträger und Übertragungswege
 
 (1) Die Übertragungsdatei kann über eine Festverbindung oder über eine
@@ -337,7 +314,6 @@ Dritten eingerichtet werden. Die Bundesanstalt kann die Einrichtung
 einer Festverbindung oder eines Mailbox-Verfahrens ablehnen, wenn sich
 aus diesen Übertragungswegen für die Bundesanstalt unverhältnismäßige
 Kosten ergeben würden.
-
 
 ### § 14 Mitteilung über Dritte
 
@@ -356,15 +332,11 @@ gegenüber der Bundesanstalt mit dem vollständig und richtig erstellten
 Meldesatz innerhalb der in § 9 Abs. 1 Satz 1 des
 Wertpapierhandelsgesetzes vorgeschriebenen Frist abgegeben hat.
 
-
 ### § 15 (weggefallen)
 
 -
 
-
 ## Abschnitt 4 - Zusammenfassung von Mitteilungen, Befreiungen
-
-
 
 ### § 16 Zusammenfassung von Mitteilungen
 
@@ -383,15 +355,11 @@ auch für ausländische Meldepflichtige, die für einen nicht nach § 9
 des Wertpapierhandelsgesetzes meldepflichtigen Kunden mit Sitz im
 Ausland tätig werden.
 
-
 ### § 17 (weggefallen)
 
 -
 
-
 ## Abschnitt 5 - Schlußvorschriften
-
-
 
 ### § 18 Erstmalige Mitteilungs- und Anzeigepflicht
 
@@ -400,11 +368,9 @@ Ausland tätig werden.
 
 (2) (weggefallen)
 
-
 ### § 19 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ### Anlage
 

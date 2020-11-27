@@ -20,12 +20,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 Abs. 105 G v. 22.12.2011 I 3044
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit der Mehrheit seiner Mitglieder und mit
 Zustimmung des Bundesrates das folgende Gesetz beschlossen:
-
 
 ## § 1 Aufgabenübertragung
 
@@ -56,7 +54,6 @@ obliegt die Durchführung
 (2) Im Übrigen obliegt die Durchführung der Vorschriften der in Absatz
 1 bezeichneten Rechtsakte der Europäischen Union den nach Landesrecht
 zuständigen Behörden (Landesbehörden).
-
 
 ## § 2 Eingriffsbefugnisse
 
@@ -101,7 +98,6 @@ anderer Rechtsvorschriften bleiben unberührt.
 
 (3) Widerspruch und Anfechtungsklage gegen Maßnahmen nach Absatz 1
 Satz 2 haben keine aufschiebende Wirkung.
-
 
 ## § 3 Auskunfts- und Duldungspflichten
 
@@ -150,7 +146,6 @@ besteht, dass es sich um ein Katzen- oder Hundefell oder ein Produkt,
 das solche Felle enthält, oder ein Robbenerzeugnis handelt, auf seine
 Kosten untersuchen zu lassen und das Ergebnis der Untersuchung
 vorzulegen hat.
-
 
 ## § 4 Mitwirkung der Zollbehörden
 
@@ -201,10 +196,6 @@ vorzulegen hat.
     mit in Nummer 1 bezeichneten Produkten oder Erzeugnissen auf Kosten
     und Gefahr des Verfügungsberechtigten der nach § 1 jeweils zuständigen
     Behörde vorgelegt werden.
-
-
-
-
 
 ## § 5 Bußgeldvorschriften
 
@@ -261,7 +252,6 @@ oder Absatz 2 bezieht, können eingezogen werden.
 (5) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes
 über Ordnungswidrigkeiten ist die Bundesanstalt, soweit das Gesetz
 durch diese ausgeführt wird.
-
 
 ## § 6 Verordnungsermächtigungen
 
@@ -320,7 +310,6 @@ unentgeltlicher Proben vorgesehen werden.
 (4) Rechtsverordnungen bedürfen abweichend von Absatz 1 der Zustimmung
 des Bundesrates, wenn den Landesbehörden die Durchführung obliegt.
 
-
 ## § 7 Gebühren und Auslagen
 
 (1) Die nach § 1 jeweils zuständige Behörde erhebt für Amtshandlungen
@@ -348,13 +337,11 @@ Auslagen abweichend vom Verwaltungskostengesetz geregelt werden.
 (3) Für die Amtshandlungen der Landesbehörden werden die Bestimmungen
 nach Absatz 2 durch Landesrecht getroffen.
 
-
 ## § 8 Verkündung von Rechtsverordnungen
 
 Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz
 1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger
 verkündet werden.
-
 
 ## § 9 Inkrafttreten
 

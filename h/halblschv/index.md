@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 5 V v. 17.12.2004 I 3532
 
-
 ## Eingangsformel
 
 Auf Grund des § 3 Abs. 3 des Halbleiterschutzgesetzes vom 22. Oktober
@@ -28,10 +27,7 @@ Artikel 28 des Gesetzes vom 16. Juli 1998 (BGBl. I S. 1827) sowie in
 Verbindung mit § 1 Abs. 2 der DPMA-Verordnung vom 1. April 2004 (BGBl.
 I S. 514) verordnet das Deutsche Patent- und Markenamt:
 
-
 ## Abschnitt 1 - Allgemeines
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -39,10 +35,7 @@ Für die Anmeldung einer Topografie gelten ergänzend zu den
 Bestimmungen des Halbleiterschutzgesetzes und der DPMA-Verordnung die
 Bestimmungen dieser Verordnung.
 
-
 ## Abschnitt 2 - Anmeldung einer Topografie
-
-
 
 ### § 2 Form der Einreichung
 
@@ -61,7 +54,6 @@ Bestimmungen dieser Verordnung.
 (2) Die Anmeldung zur Eintragung des Schutzes der Topografie muss
 unter Verwendung des vom Deutschen Patent- und Markenamt
 herausgegebenen Formblatts eingereicht werden.
-
 
 ### § 3 Eintragungsantrag
 
@@ -171,7 +163,6 @@ Geschäftsgeheimnisse kennzeichnen will, kann der Eintragungsantrag
 entsprechende Angaben enthalten (§ 4 Abs. 3 des
 Halbleiterschutzgesetzes).
 
-
 ### § 4 Unterlagen zur Identifizierung oder Veranschaulichung
 
 (1) Zur Identifizierung oder Veranschaulichung der Topografie sind
@@ -196,7 +187,6 @@ Datenträger oder Ausdrucke davon oder das Halbleitererzeugnis, für
 dessen Topografie Schutz beantragt wird, oder eine erläuternde
 Beschreibung eingereicht werden.
 
-
 ### § 5 Betriebs- oder Geschäftsgeheimnisse
 
 Werden Unterlagen als Betriebs- oder Geschäftsgeheimnisse
@@ -208,7 +198,6 @@ wird für die Akteneinsicht in Löschungs-, Rechtsgültigkeits- und
 Verletzungsverfahren (§ 4 Abs. 3 Satz 1 des Halbleiterschutzgesetzes),
 das Zweitexemplar für die allgemeine Akteneinsicht zur Verfügung
 gehalten.
-
 
 ### § 6 Deutsche Übersetzungen
 
@@ -243,10 +232,7 @@ bestellten Übersetzer angefertigt sein. Wird die Übersetzung nicht
 fristgerecht eingereicht, so gilt das fremdsprachige Schriftstück als
 zum Zeitpunkt des Eingangs der Übersetzung zugegangen.
 
-
 ## Abschnitt 3 - Schlussvorschriften
-
-
 
 ### § 7 Übergangsregelung aus Anlass des Inkrafttretens dieser Verordnung
 
@@ -256,13 +242,11 @@ Halbleiterschutzanmeldeverordnung vom 4. November 1987 (BGBl. I S.
 2361), geändert durch Artikel 24 des Gesetzes vom 16. Juli 1998 (BGBl.
 I S. 1827).
 
-
 ### § 8 Übergangsregelung für künftige Änderungen
 
 Für Anmeldungen einer Topografie, die vor Inkrafttreten von Änderungen
 dieser Verordnung eingereicht worden sind, gelten die Vorschriften
 dieser Verordnung in ihrer bis dahin geltenden Fassung.
-
 
 ### § 9 Inkrafttreten, Außerkrafttreten
 

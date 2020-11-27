@@ -17,7 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 232
 
-
 ## Eingangsformel
 
 Auf Grund des § 53 Absatz 3 in Verbindung mit Absatz 2 des
@@ -28,9 +27,7 @@ Landwirtschaft und Verbraucherschutz im Einvernehmen mit dem
 Bundesministerium für Bildung und Forschung nach Anhörung des
 Hauptausschusses des Bundesinstituts für Berufsbildung:
 
-
 ## Abschnitt 1 - Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Klauenpfleger und Geprüfte Klauenpflegerin
-
 
 ### § 1 Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
 
@@ -88,7 +85,6 @@ reagieren zu können:
 Fortbildungsabschluss „Geprüfter Klauenpfleger“ oder „Geprüfte
 Klauenpflegerin“.
 
-
 ### § 2 Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer
@@ -120,7 +116,6 @@ Zeugnissen oder auf andere Weise glaubhaft macht, dass Fertigkeiten,
 Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit) erworben
 worden sind, die die Zulassung zur Prüfung rechtfertigen.
 
-
 ### § 3 Gliederung der Prüfung
 
 (1) Die Prüfung beinhaltet die Prüfungsteile:
@@ -138,7 +133,6 @@ worden sind, die die Zulassung zur Prüfung rechtfertigen.
 
 (2) Die Prüfung ist nach den §§ 4 bis 6 durchzuführen.
 
-
 ### § 4 Prüfungsteil „Tiergesundheit und Tierschutz“
 
 (1) Der Prüfling soll nachweisen, dass er den Zustand von Klauen und
@@ -151,7 +145,6 @@ Tierseuchen darstellen und begründen kann.
 (2) Die Prüfung ist schriftlich durchzuführen. Dabei sind komplexe
 Fragestellungen aus den in Absatz 1 aufgeführten Inhalten zu
 bearbeiten. Die Prüfungszeit beträgt 120 Minuten.
-
 
 ### § 5 Prüfungsteil „Funktionelle Klauenpflege“
 
@@ -211,7 +204,6 @@ auf die in Absatz 2 aufgeführten Inhalte. Die Prüfungszeit beträgt
 insgesamt 90 Minuten; in dieser Zeit soll das Fachgespräch in
 höchstens 20 Minuten geführt werden.
 
-
 ### § 6 Prüfungsteil „Rechtsgrundlagen, Wirtschafts- und Sozialkunde“
 
 (1) Der Prüfling soll nachweisen, dass er wirtschaftliche, rechtliche
@@ -244,7 +236,6 @@ analysieren und beurteilen kann.
 praxisbezogene Fragestellungen aus den in Absatz 2 aufgeführten
 Inhalten zu bearbeiten. Die Prüfungszeit beträgt 60 Minuten.
 
-
 ### § 7 Anrechnung anderer Prüfungsleistungen
 
 Auf Antrag kann die zuständige Stelle den Prüfling von der Prüfung
@@ -254,7 +245,6 @@ einer öffentlichen oder staatlich anerkannten Bildungseinrichtung oder
 vor einem staatlichen Prüfungsausschuss eine Prüfung mit Erfolg
 abgelegt wurde, die den Anforderungen der entsprechenden
 Prüfungsinhalte nach dieser Verordnung entspricht.
-
 
 ### § 8 Bestehen der Prüfung
 
@@ -303,7 +293,6 @@ Anlage 1 und der Anlage 2 auszustellen. Im Fall der Freistellung nach
 § 7 sind Ort und Datum sowie das Prüfungsgremium und die Bezeichnung
 der anderweitig abgelegten Prüfung im Zeugnis anzugeben.
 
-
 ### § 9 Wiederholung der Prüfung
 
 (1) Eine Prüfung, die nicht bestanden ist, kann zweimal wiederholt
@@ -316,9 +305,7 @@ mit der Note „ausreichend“ bewertet worden sind und der Prüfling sich
 innerhalb von zwei Jahren, gerechnet vom Tag der Beendigung der nicht
 bestandenen Prüfung an, zur Wiederholungsprüfung anmeldet.
 
-
 ## Abschnitt 2 - Prüfung zum anerkannten Fortbildungsabschluss Fachagrarwirt Klauenpflege und Fachagrarwirtin Klauenpflege
-
 
 ### § 10 Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
 
@@ -382,7 +369,6 @@ und Rahmenbedingungen zu reagieren:
 Fortbildungsabschluss „Fachagrarwirt Klauenpflege“ oder
 „Fachagrarwirtin Klauenpflege“.
 
-
 ### § 11 Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer einen Fortbildungsabschluss
@@ -395,7 +381,6 @@ Prüfung zuzulassen, wer durch Vorlage von Zeugnissen oder auf andere
 Weise glaubhaft macht, dass Fertigkeiten, Kenntnisse und Fähigkeiten
 (berufliche Handlungsfähigkeit) erworben worden sind, die die
 Zulassung zur Prüfung rechtfertigen.
-
 
 ### § 12 Gliederung und Inhalt der Prüfung
 
@@ -414,7 +399,6 @@ Zulassung zur Prüfung rechtfertigen.
 
 (2) Die Prüfung ist nach den §§ 13 bis 15 durchzuführen.
 
-
 ### § 13 Prüfungsteil „Rechtliche Bestimmungen“
 
 (1) Der Prüfling soll nachweisen, dass er die berufsbezogenen
@@ -427,7 +411,6 @@ kann.
 (2) Die Prüfung ist schriftlich durchzuführen. Dabei sind komplexe
 Fragestellungen aus den in Absatz 1 aufgeführten Inhalten zu
 bearbeiten. Die Prüfungszeit beträgt 120 Minuten.
-
 
 ### § 14 Prüfungsteil „Betriebs- und Unternehmensführung“
 
@@ -505,7 +488,6 @@ Arbeitsprojekts und soll nicht länger als 30 Minuten dauern.
 aufgeführten Inhalten schriftlich bearbeiten. Die Prüfungszeit beträgt
 120 Minuten.
 
-
 ### § 15 Prüfungsteil „Mitarbeiterführung und Qualifizierung“
 
 (1) Der Prüfling soll nachweisen, dass er Mitarbeiter eines
@@ -551,7 +533,6 @@ Verfügung. Das Fachgespräch soll nicht länger als 15 Minuten dauern.
 aufgeführten Inhalten schriftlich bearbeiten. Die Prüfungszeit beträgt
 120 Minuten.
 
-
 ### § 16 Anrechnung anderer Prüfungsleistungen
 
 Auf Antrag kann die zuständige Stelle den Prüfling von der Prüfung
@@ -562,7 +543,6 @@ staatlich anerkannten Bildungseinrichtung oder vor einem staatlichen
 Prüfungsausschuss eine Prüfung mit Erfolg abgelegt wurde, die den
 Anforderungen der entsprechenden Prüfungsinhalte nach dieser
 Verordnung entspricht.
-
 
 ### § 17 Bestehen der Prüfung
 
@@ -624,7 +604,6 @@ Anlage 3 und der Anlage 4 auszustellen. Im Fall der Freistellung nach
 § 16 sind Ort und Datum sowie das Prüfungsgremium und die Bezeichnung
 der anderweitig abgelegten Prüfung im Zeugnis anzugeben.
 
-
 ### § 18 Wiederholung der Prüfung
 
 (1) Eine Prüfung, die nicht bestanden ist, kann zweimal wiederholt
@@ -638,11 +617,9 @@ der Note „ausreichend“ bewertet worden sind und der Prüfling sich
 innerhalb von zwei Jahren, gerechnet vom Tag der Beendigung der nicht
 bestandenen Prüfung an, zur Wiederholungsprüfung anmeldet.
 
-
 ### § 19 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ### Anlage 1 (zu § 8 Absatz 5) Muster
 

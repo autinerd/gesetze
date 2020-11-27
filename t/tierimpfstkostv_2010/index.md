@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 2 V v. 29.9.2011 I 1976
 
-
 ## Eingangsformel
 
 Auf Grund des § 5 Absatz 2 des Tierseuchengesetzes in der Fassung der
@@ -29,7 +28,6 @@ Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821) verordnet
 das Bundesministerium für Ernährung, Landwirtschaft und
 Verbraucherschutz im Einvernehmen mit dem Bundesministerium für
 Wirtschaft und Technologie:
-
 
 ## § 1 Anwendungsbereich
 
@@ -48,15 +46,10 @@ Verordnung Kosten (Gebühren und Auslagen) für
 
 3.  andere Prüfungen und Untersuchungen nach dem Tierseuchengesetz.
 
-
-
-
-
 ## § 2 Gebührenverzeichnis
 
 Die gebührenpflichtigen Tatbestände und die Höhe der Gebühren ergeben
 sich aus dem Gebührenverzeichnis der Anlage.
-
 
 ## § 3 Ermäßigung und Befreiung
 
@@ -98,7 +91,6 @@ Kosten insgesamt nicht mehr als 30 Euro, so kann aus Gründen der
 Wirtschaftlichkeit des Verwaltungshandelns auf die Erhebung der Kosten
 verzichtet werden.
 
-
 ## § 4 Kosten für Amtshandlungen vor Inkrafttreten
 
 Die Vorschriften dieser Verordnung sind auch anzuwenden auf Fälle, in
@@ -108,14 +100,12 @@ Amtshandlung vorgenommen worden ist, soweit eine Kostenerhebung
 vorbehalten und der Antragsteller vor Abschluss der Amtshandlung über
 die voraussichtliche Gebührenhöhe informiert worden ist.
 
-
 ## § 5 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Tierimpfstoff-Kostenverordnung vom 15. Mai 1998
 (BGBl. I S. 941), die zuletzt durch Artikel 3 § 8 des Gesetzes vom 22.
 Juni 2004 (BGBl. I S. 1248) geändert worden ist, außer Kraft.
-
 
 ## Anlage (zu § 2) Gebührenverzeichnis
 

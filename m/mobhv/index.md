@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 2097
 
-
 ## § 1 Anwendungsbereich, Grundsatz der Verwendung
 
 (1) Diese Verordnung gilt für Fahrzeuge mit elektrischem Antrieb und
@@ -57,7 +56,6 @@ Kraftfahrzeuge im Sinne der Straßenverkehrs-Ordnung. Sie dürfen nur
 nach Maßgabe der folgenden Vorschriften auf öffentlichen Straßen
 verwendet werden.
 
-
 ## § 2 Anforderungen an das Inbetriebsetzen
 
 (1) Eine Mobilitätshilfe darf auf öffentlichen Straßen nur in Betrieb
@@ -93,14 +91,12 @@ sind.
 (3) § 4 Absatz 5 Satz 1 und Absatz 6 der Fahrzeug-Zulassungsverordnung
 gilt für den Führer und den Halter einer Mobilitätshilfe entsprechend.
 
-
 ## § 3 Berechtigung zum Führen
 
 Für das Führen einer Mobilitätshilfe gilt die Fahrerlaubnis-Verordnung
 in der jeweils geltenden Fassung mit der Maßgabe, dass für das Führen
 einer Mobilitätshilfe mindestens die Berechtigung zum Führen eines
 Mofas nachzuweisen ist.
-
 
 ## § 4 Anforderung an die Verzögerungseinrichtung
 
@@ -114,10 +110,6 @@ ausgerüstet ist, die
 
 2.  mindestens einen Verzögerungswert von 3,5 m/s
     2                    erreicht.
-
-
-
-
 
 ## § 5 Anforderung an die lichttechnischen Einrichtungen
 
@@ -153,12 +145,10 @@ Lichtmaschine, über das Bordnetz der Mobilitätshilfe oder
 ausschließlich über Batterie- oder Akku-Versorgung betrieben werden,
 wenn dem Fahrzeugführer deren Ladezustand ständig angezeigt wird.
 
-
 ## § 6 Anforderung an die Schalleinrichtung
 
 Eine Mobilitätshilfe darf nur in Betrieb gesetzt werden, wenn sie mit
 einer Glocke ausgerüstet ist.
-
 
 ## § 7 Zulässige Verkehrsflächen, Anforderungen an die Teilnahme am Straßenverkehr
 
@@ -197,7 +187,6 @@ mit elektronischen Mobilitätshilfen.
 Straßenverkehrsbehörden Ausnahmen für das Fahren mit elektronischen
 Mobilitätshilfen auf anderen Verkehrsflächen für bestimmte Einzelfälle
 oder allgemein für bestimmte Antragsteller zulassen.
-
 
 ## § 8 Ordnungswidrigkeiten
 

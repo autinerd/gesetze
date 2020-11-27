@@ -15,18 +15,13 @@ Ausfertigungsdatum
 Fundstelle
 :   RGBl I: 1938, 955
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 3 des Gesetzes über die Zulassung öffentlicher
 Spielbanken vom 14. Juli 1933 (Reichsgesetzbl. I S. 480) wird im
 Einvernehmen mit dem Reichsminister der Finanzen folgendes verordnet:
 
-
 ## (XXXX) §§ 1 bis 5
-
-
 
 ## § 6
 
@@ -41,10 +36,7 @@ auch von Landes- und Gemeindesteuern zu befreien ist, bestimmt der
 Reichsminister der Finanzen              im Einvernehmen mit dem
 Reichsminister des Innern.
 
-
 ## (XXXX) §§ 7 bis 10
-
-
 
 ## § 11
 
@@ -54,7 +46,6 @@ Reichsminister des Innern.
 folgenden Tag in Kraft.
 
 (3)
-
 
 ## Schlußformel
 

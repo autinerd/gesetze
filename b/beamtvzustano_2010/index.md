@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   AnO v. 14.1.2011 I 51
 
-
 ## Eingangsformel
 
 Nach § 49 Absatz 1 Satz 2 des Beamtenversorgungsgesetzes ordnet das
@@ -130,7 +129,6 @@ F.  der Entscheidung über Widersprüche und der Vertretung des Dienstherrn
 
 Folgendes an:
 
-
 ## A. Festsetzung der Versorgungsbezüge
 
 
@@ -191,10 +189,6 @@ Staatssekretäre.
     Geltungsbereich des Beamtenversorgungsgesetzes, ist das Service-Center
     Köln (Versorgung) auch für die Empfänger zuständig, die ihren Wohnsitz
     im Geltungsbereich des Beamtenversorgungsgesetzes haben.
-
-
-
-
 
 ## B. Versorgungsausgleich und Durchführung des Bundesversorgungsteilungsgesetzes
 
@@ -366,7 +360,6 @@ Versorgungsträger in den Fällen des § 219 Nummer 2 und 3 des Gesetzes
 freiwilligen Gerichtsbarkeit sind die Service-Center, soweit sie nach
 dieser Anordnung sachlich und örtlich zuständig sind.
 
-
 ## C. Anteilige Erstattung und Geltendmachung von Versorgungslasten bei Wechsel des Dienstherrn
 
 C. Versorgungslastenteilung ****
@@ -467,7 +460,6 @@ Betrag, so hat das Service-Center der obersten Dienstbehörde zu
 berichten, in deren Geschäftsbereich der Beamte oder Richter
 gewechselt ist.
 
-
 ## D. Versorgungsangelegenheiten nach dem G 131
 
 Hinsichtlich der Zuständigkeit für Versorgungsempfänger nach dem G
@@ -478,7 +470,6 @@ zuständig.
 
 Für Versorgungsempfänger nach dem G 131, die ihren Hauptwohnsitz im
 Ausland haben, ist das Service-Center Köln (Versorgung) zuständig.
-
 
 ## E. Weitere Aufgaben, die im Zusammenhang mit den Aufgaben nach den Abschnitten A bis D stehen
 
@@ -528,7 +519,6 @@ versetzt worden sind (BMI-Erlass vom 18. Dezember 1997 – Z 4a-002
 160/4 und 002 104/29 –), ist das für den Sitz der anfordernden
 Landesbehörde zuständige Service-Center zuständig.
 
-
 ## F. Entscheidungen über Widersprüche und Vertretung des Dienstherrn bei Klagen aus den in den Abschnitten A bis E genannten Bereichen
 
 
@@ -563,7 +553,6 @@ sind.
 Die obersten Dienstbehörden behalten sich vor, im Einzelfall oder in
 Gruppen von Fällen die Vertretung abweichend zu regeln oder die
 Vertretung selbst zu übernehmen.
-
 
 ## G. Sonstige Regelungen
 
@@ -705,14 +694,12 @@ von allgemeinem Interesse auch für die Versorgungsempfänger aus dem
 Geschäftsbereich des Bundesministeriums der Finanzen sind, ist das
 Bundesministerium der Finanzen nachrichtlich zu beteiligen.
 
-
 ## H. Inkrafttreten, Außerkrafttreten
 
 Diese Anordnung tritt am 1. August 2010 in Kraft. Gleichzeitig tritt
 die BMF-Zuständigkeitsanordnung – Versorgung vom 27. Januar 2000
 (BGBl. I S. 1213), die zuletzt durch die Anordnung vom 23. Mai 2008
 (BGBl. I S. 973) geändert worden ist, außer Kraft.
-
 
 ## Anlage 1
 
@@ -2588,7 +2575,6 @@ Ruhestand getreten oder versetzt worden sind, und aktuell für die
 Angehörigen des Bundesministeriums für Verkehr, Bau und
 Stadtentwicklung ist die Wasser- und Schifffahrtsdirektion West
 zuständig.
-
 
 ## Anlage 2
 

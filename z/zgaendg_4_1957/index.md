@@ -15,11 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1957, 1331
 
-
-
 ## (XXXX) Art 1 bis 4
-
-
 
 ## Art 5
 
@@ -37,7 +33,6 @@ Zollkleiderkasse aus. Er wird ermächtigt, die Satzung der
 Zollkleiderkasse zu bestimmen und die zur Durchführung erforderlichen
 Verwaltungsvorschriften zu erlassen.
 
-
 ## Art 6
 
 Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 des Dritten
@@ -46,11 +41,9 @@ im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes
 erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 Überleitungsgesetzes.
 
-
 ## Art 7
 
 -
-
 
 ## Art 8
 

@@ -21,10 +21,7 @@ Zuletzt geändert durch
 Hinweis: mittelbare änderung durch
 :   Art. 6 Nr. 3 Buchst. a G v. 7.12.2011 I 2576 ist berücksichtigt
 
-
 ## Abschnitt 1 - Allgemeine Bestimmungen
-
-
 
 ### § 1 Gegenstand des Gesetzes
 
@@ -53,7 +50,6 @@ unterliegenden Sendungen zu öffnen und einzusehen.
 durchgeführt werden, unterliegen sie der Kontrolle durch das
 Parlamentarische Kontrollgremium und durch eine besondere Kommission
 (G 10-Kommission).
-
 
 ### § 2 Pflichten der Anbieter von Post- und Telekommunikationsdiensten
 
@@ -122,10 +118,7 @@ höherwertige Sicherheitsüberprüfung nach Bundes- oder Landesrecht
 durchgeführt worden ist, soll von einer erneuten
 Sicherheitsüberprüfung abgesehen werden.
 
-
 ## Abschnitt 2 - Beschränkungen in Einzelfällen
-
-
 
 ### § 3 Voraussetzungen
 
@@ -205,7 +198,6 @@ Abgeordnetenpost von Mitgliedern des Deutschen Bundestages und der
 Parlamente der Länder darf nicht in eine Maßnahme einbezogen werden,
 die sich gegen einen Dritten richtet.
 
-
 ### § 3a Schutz des Kernbereichs privater Lebensgestaltung
 
 Beschränkungen nach § 1 Abs. 1 Nr. 1 sind unzulässig, soweit
@@ -234,7 +226,6 @@ dokumentieren. Die Dokumentation darf ausschließlich für Zwecke der
 Datenschutzkontrolle verwendet werden. Sie ist zu löschen, wenn sie
 für diese Zwecke nicht mehr erforderlich ist, spätestens jedoch am
 Ende des Kalenderjahres, das dem Jahr der Dokumentation folgt.
-
 
 ### § 3b Schutz zeugnisverweigerungsberechtigter Personen
 
@@ -270,7 +261,6 @@ Abs. 2 Satz 2 ist oder tatsächliche Anhaltspunkte den Verdacht
 begründen, dass sie dessen in § 3 Abs. 1 bezeichnete Bestrebungen
 durch Entgegennahme oder Weitergabe von Mitteilungen bewusst
 unterstützt.
-
 
 ### § 4 Prüf-, Kennzeichnungs- und Löschungspflichten, Übermittlungen, Zweckbindung
 
@@ -352,10 +342,7 @@ sind. Absatz 1 Satz 2 und 3 gilt entsprechend. Der Empfänger
 unterrichtet die übermittelnde Stelle unverzüglich über die erfolgte
 Löschung.
 
-
 ## Abschnitt 3 - Strategische Beschränkungen
-
-
 
 ### § 5 Voraussetzungen
 
@@ -440,7 +427,6 @@ dürfen ausschließlich zu Zwecken der Datenschutzkontrolle verwendet
 werden. Sie sind am Ende des Kalenderjahres, das dem Jahr der
 Protokollierung folgt, zu löschen.
 
-
 ### § 5a Schutz des Kernbereichs privater Lebensgestaltung
 
 Durch Beschränkungen nach § 1 Abs. 1 Nr. 2 dürfen keine
@@ -456,7 +442,6 @@ der Durchführung der Datenschutzkontrolle verwendet werden. Sie sind
 zu löschen, wenn sie für diese Zwecke nicht mehr erforderlich sind,
 spätestens jedoch am Ende des Kalenderjahres, das dem Jahr der
 Protokollierung folgt.
-
 
 ### § 6 Prüf-, Kennzeichnungs- und Löschungspflichten, Zweckbindung
 
@@ -500,7 +485,6 @@ für die Verwendung der für den Abgleich genutzten Daten sind zu
 protokollieren. Die Protokolldaten dürfen ausschließlich zu Zwecken
 der Datenschutzkontrolle verwendet werden. Sie sind am Ende des
 Kalenderjahres, das dem Jahr der Protokollierung folgt, zu vernichten.
-
 
 ### § 7 Übermittlungen durch den Bundesnachrichtendienst
 
@@ -611,7 +595,6 @@ und sodann in Abständen von höchstens sechs Monaten, ob die
 übermittelten Daten für diese Zwecke erforderlich sind. § 4 Abs. 6
 Satz 4 und § 6 Abs. 1 Satz 2 und 3 gelten entsprechend.
 
-
 ### § 7a Übermittlungen durch den Bundesnachrichtendienst an ausländische öffentliche Stellen
 
 (1) Der Bundesnachrichtendienst darf durch Beschränkungen nach § 5
@@ -679,7 +662,6 @@ G10-Kommission über Übermittlungen nach Absatz 1 und 2.
 höchstens sechs Monaten über die vorgenommenen Übermittlungen nach
 Absatz 1 und 2 zu unterrichten.
 
-
 ### § 8 Gefahr für Leib oder Leben einer Person im Ausland
 
 (1) Auf Antrag des Bundesnachrichtendienstes dürfen Beschränkungen
@@ -735,10 +717,7 @@ dass jemand eine in Satz 1 bezeichnete Straftat begeht oder begangen
 hat. § 7 Abs. 5 und 6 sowie § 7a Abs. 1 und 3 bis 6 gelten
 entsprechend.
 
-
 ## Abschnitt 4 - Verfahren
-
-
 
 ### § 9 Antrag
 
@@ -767,7 +746,6 @@ alle für die Anordnung erforderlichen Angaben enthalten. In den Fällen
 der §§ 3 und 8 hat der Antragsteller darzulegen, dass die Erforschung
 des Sachverhalts auf andere Weise aussichtslos oder wesentlich
 erschwert wäre.
-
 
 ### § 10 Anordnung
 
@@ -810,7 +788,6 @@ getroffenen Beschränkungsanordnungen. Die Landesbehörden für
 Verfassungsschutz teilen dem Bundesamt für Verfassungsschutz die in
 ihrem Bereich getroffenen Beschränkungsanordnungen mit.
 
-
 ### § 11 Durchführung
 
 (1) Die aus der Anordnung sich ergebenden Beschränkungsmaßnahmen sind
@@ -831,7 +808,6 @@ worden sind, sind dem Postverkehr unverzüglich wieder zuzuführen.
 Telegramme dürfen dem Postverkehr nicht entzogen werden. Der zur
 Einsichtnahme berechtigten Stelle ist eine Abschrift des Telegramms zu
 übergeben.
-
 
 ### § 12 Mitteilungen an Betroffene
 
@@ -869,17 +845,13 @@ der personenbezogenen Daten.
 ergangen ist. Wurden personenbezogene Daten übermittelt, erfolgt die
 Mitteilung im Benehmen mit dem Empfänger.
 
-
 ### § 13 Rechtsweg
 
 Gegen die Anordnung von Beschränkungsmaßnahmen nach den §§ 3 und 5
 Abs. 1 Satz 3 Nr. 1 und ihren Vollzug ist der Rechtsweg vor der
 Mitteilung an den Betroffenen nicht zulässig.
 
-
 ## Abschnitt 5 - Kontrolle
-
-
 
 ### § 14 Parlamentarisches Kontrollgremium
 
@@ -897,7 +869,6 @@ Kontrollgremiums und seinen Stellvertreter vorläufig erteilt werden.
 Die Zustimmung des Parlamentarischen Kontrollgremiums ist unverzüglich
 einzuholen. Die vorläufige Zustimmung tritt spätestens nach zwei
 Wochen außer Kraft.
-
 
 ### § 15 G 10-Kommission
 
@@ -972,7 +943,6 @@ die Kommission eine Mitteilung für geboten, ist diese unverzüglich
 vorzunehmen. § 12 Abs. 3 Satz 2 bleibt unberührt, soweit das Benehmen
 einer Landesbehörde erforderlich ist.
 
-
 ### § 16 Parlamentarische Kontrolle in den Ländern
 
 Durch den Landesgesetzgeber wird die parlamentarische Kontrolle der
@@ -983,10 +953,7 @@ dürfen nur dann an Landesbehörden übermittelt werden, wenn die
 Kontrolle ihrer Verarbeitung und Nutzung durch den Landesgesetzgeber
 geregelt ist.
 
-
 ## Abschnitt 6 - Straf- und Bußgeldvorschriften
-
-
 
 ### § 17 Mitteilungsverbote
 
@@ -1006,12 +973,10 @@ erteilten Auskunft von Personen, die zur Beantwortung verpflichtet
 oder mit der Beantwortung betraut sind oder hieran mitwirken, anderen
 nicht mitgeteilt werden.
 
-
 ### § 18 Straftaten
 
 Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird
 bestraft, wer entgegen § 17 eine Mitteilung macht.
-
 
 ### § 19 Ordnungswidrigkeiten
 
@@ -1036,10 +1001,7 @@ fünfzehntausend Euro geahndet werden.
 (3) Bußgeldbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über
 Ordnungswidrigkeiten ist die nach § 10 Abs. 1 zuständige Stelle.
 
-
 ## Abschnitt 7 - Schlussvorschriften
-
-
 
 ### § 20 Entschädigung
 
@@ -1048,7 +1010,6 @@ Die nach § 1 Abs. 1 berechtigten Stellen haben für die Leistungen nach
 des Justizvergütungs- und -entschädigungsgesetzes bemisst. In den
 Fällen der §§ 5 und 8 ist eine Entschädigung zu vereinbaren, deren
 Höhe sich an den nachgewiesenen tatsächlichen Kosten orientiert.
-
 
 ### § 21 Einschränkung von Grundrechten
 

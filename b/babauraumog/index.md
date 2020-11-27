@@ -20,7 +20,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 26 V v. 31.10.2006 I 2407
 
-
 ## § 1 Errichtung und Sitz des Bundesamtes für Bauwesen und Raumordnung
 
 (1) Im Geschäftsbereich des Bundesministeriums für Verkehr, Bau und
@@ -31,7 +30,6 @@ errichtet.
 
 (2) Das Bundesamt für Bauwesen und Raumordnung hat seinen Sitz in
 Bonn.
-
 
 ## § 2 Aufgaben
 
@@ -99,7 +97,6 @@ obersten Bundesbehörden kann die Bundesregierung im Einvernehmen mit
 dem betroffenen Verfassungsorgan einer Gesellschaft des privaten
 Rechts übertragen.
 
-
 ## § 3 Fachaufsicht
 
 Das Bundesamt für Bauwesen und Raumordnung untersteht der Fachaufsicht
@@ -111,7 +108,6 @@ Bundesministeriums für Verkehr, Bau und Stadtentwicklung nach § 2 Abs.
 5 untersteht das Bundesamt den fachlichen Weisungen der sachlich
 zuständigen obersten Bundesbehörde, soweit diese nicht baufachlicher
 Art sind.
-
 
 ## § 4 Überleitungsvorschriften
 

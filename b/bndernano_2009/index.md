@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 386
 
-
 ## I.
 
 Nach Artikel 1 der Anordnung des Bundespräsidenten über die Ernennung
@@ -27,17 +26,14 @@ und Beamten des Bundes des einfachen, mittleren und gehobenen Dienstes
 dem Präsidenten des Bundesnachrichtendienstes für seinen
 Geschäftsbereich.
 
-
 ## II.
 
 Für besondere Fälle behalte ich mir die Ernennung und Entlassung der
 unter Abschnitt I genannten Beamtinnen und Beamten vor.
 
-
 ## III.
 
 Diese Anordnung tritt am Tage nach ihrer Veröffentlichung in Kraft.
-
 
 ## Schlussformel
 

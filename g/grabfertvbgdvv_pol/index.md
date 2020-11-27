@@ -23,7 +23,6 @@ Fundstelle
 
 Stand: vgl. nur noch Fundstellennachweis B
 
-
 ## Eingangsformel
 
 Auf Grund des Artikels 2 des Gesetzes vom 3. Februar 1994 zu dem
@@ -31,7 +30,6 @@ Abkommen vom 29. Juli 1992 zwischen der Bundesrepublik Deutschland und
 der Republik Polen über Erleichterungen der Grenzabfertigung (BGBl.
 1994 II S. 265) verordnen das Bundesministerium der Finanzen und das
 Bundesministerium des Innern:
-
 
 ## § 1
 
@@ -46,7 +44,6 @@ die polnischen Grenzabfertigungsstellen auf deutschem Gebiet
 festgelegt und die Strecken für die gemeinsame Grenzabfertigung
 während der Fahrt in Reisezügen bestimmt. Die Vereinbarung wird
 nachstehend veröffentlicht.
-
 
 ## § 2
 

@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 1579
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 53 Abs. 1 in Verbindung mit Abs. 2 des
@@ -28,7 +26,6 @@ Verbindung mit § 1 des Zuständigkeitsanpassungsgesetzes vom 16. August
 Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für
 Berufsbildung im Einvernehmen mit dem Bundesministerium für Wirtschaft
 und Technologie:
-
 
 ## § 1 Ziel der Prüfung
 
@@ -72,7 +69,6 @@ können:
 (3) Die erfolgreich abgelegte Prüfung führt zum anerkannten Abschluss
 "Geprüfter Controller/Geprüfte Controllerin".
 
-
 ## § 2 Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer
@@ -109,7 +105,6 @@ wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft
 macht, dass Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche
 Handlungsfähigkeit) erworben worden sind, die die Zulassung zur
 Prüfung rechtfertigen.
-
 
 ## § 3 Gliederung und Durchführung der Prüfung
 
@@ -194,7 +189,6 @@ der Regel nicht länger als 20 Minuten dauern. Die Bewertung der
 schriftlichen Prüfungsleistung und die der mündlichen
 Ergänzungsprüfung werden zu einer Note zusammengefasst. Dabei wird die
 Bewertung der schriftlichen Prüfungsleistung doppelt gewichtet.
-
 
 ## § 4 Inhalt der Prüfung
 
@@ -319,10 +313,6 @@ nachgewiesen werden, fachliche Führungs- und Organisationsaufgaben
 
 2.  Moderation, Kommunikation und Konfliktmanagement beherrschen.
 
-
-
-
-
 ## § 5 Anrechnung anderer Prüfungsleistungen
 
 Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin kann auf Antrag
@@ -333,7 +323,6 @@ vor einem staatlichen Prüfungsausschuss eine Prüfung mit Erfolg
 abgelegt wurde, die den Anforderungen der entsprechenden
 Prüfungsinhalte nach dieser Verordnung entspricht. Eine Freistellung
 von den Prüfungsleistungen gemäß § 3 Abs. 4 bis 7 ist nicht zulässig.
-
 
 ## § 6 Bestehen der Prüfung
 
@@ -347,7 +336,6 @@ bewerten.
 und der Anlage 2 auszustellen. Im Falle der Freistellung gemäß § 5
 sind Ort und Datum der anderweitig abgelegten Prüfung sowie die
 Bezeichnung des Prüfungsgremiums anzugeben.
-
 
 ## § 7 Wiederholen der Prüfung
 
@@ -367,7 +355,6 @@ gilt das Ergebnis der letzten Prüfung.
 (3) Ist die mündliche Prüfungsleistung nicht bestanden muss auch die
 Projektarbeit wiederholt werden.
 
-
 ## § 8 Übergangsvorschriften
 
 Begonnene Prüfungsverfahren können bis zum 31. Dezember 2009 nach den
@@ -378,11 +365,9 @@ Anwendung. Im Übrigen kann bei der Anmeldung zur Prüfung bis zum 30.
 Juni 2008 die Anwendung der bisherigen Vorschriften bis zum 31.
 Dezember 2009 beantragt werden.
 
-
 ## § 9 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2006 in Kraft.
-
 
 ## Anlage 1 (zu § 6 Abs. 3)
 
@@ -408,7 +393,6 @@ bestanden.
 Datum ............................................
 Unterschrift(en) .................................
 (Siegel der zuständigen Stelle)
-
 
 ## Anlage 2 (zu § 6 Abs. 3)
 

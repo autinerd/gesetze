@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 264
 
-
 ## Eingangsformel
 
 Auf Grund des § 25 Absatz 1 Satz 1 der Handwerksordnung, der zuletzt
@@ -24,12 +23,10 @@ durch Artikel 146 der Verordnung vom 31. Oktober 2006 (BGBl. I S.
 Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium
 für Bildung und Forschung:
 
-
 ## § 1 Aufhebung der Anerkennung des Ausbildungsberufes Handschuhmacher und Handschuhmacherin
 
 Die Anerkennung des Ausbildungsberufes des Handschuhmachers und der
 Handschuhmacherin wird aufgehoben.
-
 
 ## § 2 Besitzstandswahrung
 
@@ -38,7 +35,6 @@ genannten Ausbildungsberuf ausgebildet worden sind oder im Zeitpunkt
 des Inkrafttretens dieser Verordnung darin ausgebildet werden und
 diese Berufsausbildung nach § 25 Absatz 4 der Handwerksordnung
 fortsetzen, bleiben in ihrem Ausbildungsstatus unberührt.
-
 
 ## § 3 Inkrafttreten
 

@@ -18,7 +18,6 @@ Fundstelle
 G aufgeh. mit Ausnahme der §§ 7 u. 12 Abs. 3 durch Art. 7 Abs. 2 Nr. 3
 G v. 25.3.1997 I 726 mWv 4.4.1997
 
-
 ## § 7 Steuerliche Behandlung der Aufwendungen für Schutzräume
 
 (1) Werden Schutzräume nach § 2 errichtet, so können von den für die
@@ -85,7 +84,6 @@ nach dem 31. Dezember 1974 fertiggestellt worden sind und mit deren
 Herstellung vor dem 1. Januar 1992 begonnen worden ist. Als Beginn der
 Herstellung gilt bei Baumaßnahmen, für die eine Baugenehmigung
 erforderlich ist, der Zeitpunkt, in dem der Bauantrag gestellt wird.
-
 
 ## § 12 Förderung bei freiwilliger Errichtung
 

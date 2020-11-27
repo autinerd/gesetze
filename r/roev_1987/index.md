@@ -31,10 +31,7 @@ von Personen gegen die Gefahren ionisierender Strahlung bei
 medizinischer Exposition und zur Aufhebung der Richtlinie
 84/466/EURATOM (ABl. EG Nr. L 180 S. 22).
 
-
 ## Abschnitt 1 - Allgemeine Vorschriften
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -43,7 +40,6 @@ denen Röntgenstrahlung mit einer Grenzenergie von mindestens fünf
 Kiloelektronvolt durch beschleunigte Elektronen erzeugt werden kann
 und bei denen die Beschleunigung der Elektronen auf eine Energie von
 einem Megaelektronvolt begrenzt ist.
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -429,13 +425,7 @@ Im Sinne dieser Verordnung sind:
     beruflich strahlenexponierter Personen durch einen Arzt nach § 41 Abs.
     1 Satz 1.
 
-
-
-
-
 ## Abschnitt 1a - Strahlenschutzgrundsätze
-
-
 
 ### § 2a Rechtfertigung
 
@@ -460,13 +450,11 @@ Einzelnen.
 (3) Die in Anlage 5 genannten Tätigkeitsarten sind nicht
 gerechtfertigt.
 
-
 ### § 2b Dosisbegrenzung
 
 Wer eine Tätigkeit nach dieser Verordnung plant, ausübt oder ausüben
 lässt, ist verpflichtet, dafür zu sorgen, dass die Dosisgrenzwerte
 dieser Verordnung nicht überschritten werden.
-
 
 ### § 2c Vermeidung unnötiger Strahlenexposition und Dosisreduzierung
 
@@ -480,14 +468,9 @@ und Umwelt unter Beachtung des Standes der Technik und unter
 Berücksichtigung aller Umstände des Einzelfalles auch unterhalb der
 Grenzwerte so gering wie möglich zu halten.
 
-
 ## Abschnitt 2 - Überwachungsvorschriften
 
-
-
 ### Unterabschnitt 1 - Betrieb von Röntgeneinrichtungen und Störstrahlern
-
-
 
 #### § 3 Genehmigungsbedürftiger Betrieb von Röntgeneinrichtungen
 
@@ -749,7 +732,6 @@ Unterlagen beizufügen, insbesondere
 (8) Wer den Betrieb einer Röntgeneinrichtung beendet, hat dies den
 zuständigen Stellen unverzüglich mitzuteilen.
 
-
 #### § 4 Anzeigebedürftiger Betrieb von Röntgeneinrichtungen
 
 (1) Einer Genehmigung nach § 3 Abs. 1 bedarf nicht, wer eine
@@ -875,7 +857,6 @@ die Zuverlässigkeit des Strahlenschutzverantwortlichen ergeben.
 
 (7) § 3 Abs. 8 gilt entsprechend.
 
-
 #### § 4a Sachverständige
 
 (1) Die zuständige Behörde bestimmt Sachverständige für die technische
@@ -895,7 +876,6 @@ Störstrahlern beteiligt sind.
 (2) Für Sachverständige nach Absatz 1 gelten § 15 Abs. 1 Nr. 1 und 2,
 § 18 Abs. 1 Satz 1 Nr. 4, §§ 21, 31 bis 31c, 35 Abs. 1 und 4 bis 11
 sowie §§ 35a bis 43 entsprechend.
-
 
 #### § 5 Betrieb von Störstrahlern
 
@@ -955,10 +935,7 @@ Störstrahlers, dessen Betrieb nicht der Genehmigung nach Absatz 1
 bedarf und der nicht bauartzugelassen ist, prüfen lässt, bevor er den
 Störstrahler einem anderen überlässt.
 
-
 ### Unterabschnitt 2 - Sonstige Tätigkeiten im Zusammenhang mit Röntgeneinrichtungen und Störstrahlern
-
-
 
 #### § 6 Prüfung, Erprobung, Wartung, Instandsetzung und Beschäftigung
 
@@ -1026,7 +1003,6 @@ Anordnungen befolgt werden. Das Gleiche gilt für den
 Strahlenschutzbeauftragten, soweit ihm diese Aufgaben und Pflichten
 nach § 13 Absatz 2 Satz 2 übertragen worden sind.
 
-
 #### § 7 Untersagung
 
 (1) Die zuständige Behörde kann Tätigkeiten nach § 6 Abs. 1 Satz 1 Nr.
@@ -1053,10 +1029,7 @@ nach § 13 Absatz 2 Satz 2 übertragen worden sind.
 nachgewiesen wird oder später wegfällt. Absatz 1 Nr. 1 gilt
 entsprechend.
 
-
 ### Unterabschnitt 3 - Bauartzulassung
-
-
 
 #### § 8 Verfahren der Bauartzulassung
 
@@ -1115,7 +1088,6 @@ diese Vorrichtung nicht weiter betrieben werden darf.
 (6) Für die Erteilung der Bauartzulassung ist das Bundesamt für
 Strahlenschutz zuständig.
 
-
 #### § 9 Pflichten des Inhabers einer Bauartzulassung
 
 Der Zulassungsinhaber hat
@@ -1150,7 +1122,6 @@ Die Zulassungsbehörde kann auf Antrag des Zulassungsinhabers Ausnahmen
 von Satz 1 zulassen, wenn ein ausreichender Schutz vor Strahlenschäden
 gewährleistet ist.
 
-
 #### § 10 Zulassungsschein
 
 Wird die Bauart nach § 8 Abs. 1 zugelassen, so hat die
@@ -1178,10 +1149,6 @@ aufzunehmen
 6.  ein Hinweis auf die Pflichten des Inhabers einer bauartzugelassenen
     Vorrichtung nach § 12.
 
-
-
-
-
 #### § 11 Bekanntmachung im Bundesanzeiger
 
 Der wesentliche Inhalt der Bauartzulassung und ihrer Änderungen, ihre
@@ -1189,7 +1156,6 @@ Rücknahme, ihr Widerruf, die Verlängerung der Zulassungsfrist und die
 Erklärung, dass eine bauartzugelassene Vorrichtung nicht weiter
 betrieben werden darf, sind durch die Zulassungsbehörde im
 Bundesanzeiger bekannt zu machen.
-
 
 #### § 12 Pflichten des Inhabers einer bauartzugelassenen Vorrichtung
 
@@ -1213,17 +1179,9 @@ unverzüglich einzustellen, wenn
 2.  die bauartzugelassene Vorrichtung nicht mehr den im Zulassungsschein
     bezeichneten Merkmalen entspricht.
 
-
-
-
-
 ## Abschnitt 3 - Vorschriften für den Betrieb
 
-
-
 ### Unterabschnitt 1 - Allgemeine Vorschriften
-
-
 
 #### § 13 Strahlenschutzverantwortliche und Strahlenschutzbeauftragte
 
@@ -1271,7 +1229,6 @@ Strahlenschutz nach § 18a Abs. 1 beizufügen. Dem
 Strahlenschutzbeauftragten und dem Betriebsrat oder dem Personalrat
 ist eine Abschrift der Mitteilung zu übermitteln.
 
-
 #### § 14 Stellung des Strahlenschutzverantwortlichen und des Strahlenschutzbeauftragten
 
 (1) Dem Strahlenschutzbeauftragten obliegen die ihm durch diese
@@ -1310,7 +1267,6 @@ Angelegenheiten des Strahlenschutzes zu beraten.
 
 (5) Der Strahlenschutzbeauftragte darf bei Erfüllung seiner Pflichten
 nicht behindert und wegen deren Erfüllung nicht benachteiligt werden.
-
 
 #### § 15 Pflichten des Strahlenschutzverantwortlichen und des Strahlenschutzbeauftragten
 
@@ -1373,7 +1329,6 @@ eingehalten werden. Soweit ihm Aufgaben übertragen worden sind, hat
 der Strahlenschutzbeauftragte die Strahlenschutzgrundsätze des
 Absatzes 1 Nr. 1 und 2 zu beachten.
 
-
 #### § 15a Strahlenschutzanweisung
 
 Die zuständige Behörde kann den Strahlenschutzverantwortlichen
@@ -1413,7 +1368,6 @@ Zu diesen Maßnahmen gehören in der Regel
 Die Strahlenschutzanweisung kann Bestandteil sonstiger erforderlicher
 Betriebsanweisungen nach immissionsschutz- oder
 arbeitsschutzrechtlichen Vorschriften sein.
-
 
 #### § 16 Qualitätssicherung bei Röntgeneinrichtungen zur Untersuchung von Menschen
 
@@ -1472,7 +1426,6 @@ den Sätzen 1 und 2 sind den zuständigen Stellen auf Verlangen
 vorzulegen. Die zuständige Behörde kann Abweichungen von den Fristen
 nach Satz 1 oder 2 festlegen.
 
-
 #### § 17 Qualitätssicherung bei Röntgeneinrichtungen zur Behandlung von Menschen
 
 (1) Es ist dafür zu sorgen, dass bei Röntgeneinrichtungen zur
@@ -1511,7 +1464,6 @@ Aufzeichnung zwei Jahre lang aufzubewahren. Die Aufzeichnungen nach
 den Sätzen 1 und 2 sind den zuständigen Stellen auf Verlangen
 vorzulegen. Die zuständige Behörde kann Abweichungen von den Fristen
 nach Satz 1 oder 2 festlegen.
-
 
 #### § 17a Qualitätssicherung durch ärztliche und zahnärztliche Stellen
 
@@ -1579,7 +1531,6 @@ haben, übermitteln, soweit dies zur Erfüllung der Aufgaben der
 erforderlich ist. Gesundheitsdaten von Patienten dürfen nur mit
 Einwilligung des Betroffenen übermittelt werden. Im Übrigen bleiben
 die Bestimmungen zum Schutz personenbezogener Daten unberührt.
-
 
 #### § 18 Sonstige Pflichten beim Betrieb einer Röntgeneinrichtung oder eines Störstrahlers nach § 5 Abs. 1
 
@@ -1661,10 +1612,6 @@ einzustellen, wenn
 2.  die zuständige Behörde festgestellt hat, dass ein ausreichender Schutz
     vor Strahlenschäden nicht gewährleistet ist.
 
-
-
-
-
 #### § 18a Erforderliche Fachkunde und Kenntnisse im Strahlenschutz
 
 (1) Die erforderliche Fachkunde im Strahlenschutz wird in der Regel
@@ -1728,7 +1675,6 @@ erforderliche Wissen im Strahlenschutz zu vermitteln und die
 Qualifikation des Lehrpersonals und die Ausstattung der Kursstätte
 eine ordnungsgemäße Wissensvermittlung gewährleisten.
 
-
 #### § 19 Strahlenschutzbereiche
 
 (1) Bei genehmigungs- und anzeigebedürftigen Tätigkeiten nach dieser
@@ -1774,7 +1720,6 @@ dass unbeteiligte Personen diesen nicht unbeabsichtigt betreten
 können. Kann ausgeschlossen werden, dass unbeteiligte Personen den
 Kontrollbereich unbeabsichtigt betreten können, ist die Abgrenzung
 nicht erforderlich.
-
 
 #### § 20 Röntgenräume
 
@@ -1825,7 +1770,6 @@ Körperteilen, nicht unkontrolliert hineingelangen können. Es muss eine
 geeignete Ausstattung zur Überwachung des Patienten im
 Bestrahlungsraum vorhanden sein.
 
-
 #### § 21 Schutzvorkehrungen
 
 (1) Der Schutz beruflich strahlenexponierter Personen vor Strahlung
@@ -1841,7 +1785,6 @@ Umkleidekabinen nur liegen, wenn sichergestellt ist, dass sich dort
 während der Einschaltzeit Personen nicht aufhalten. Dies gilt nicht
 für Arbeitsplätze, die aus Gründen einer ordnungsgemäßen Anwendung der
 Röntgenstrahlen nicht außerhalb des Kontrollbereichs liegen können.
-
 
 #### § 22 Zutritt zu Strahlenschutzbereichen
 
@@ -1911,10 +1854,7 @@ Frauen darf der Zutritt zu Kontrollbereichen als Tierbegleitperson
 abweichend von Absatz 1 Satz 1 Nummer 2 Buchstabe b nicht gestattet
 werden.
 
-
 ### Unterabschnitt 2 - Anwendung von Röntgenstrahlen am Menschen
-
-
 
 #### § 23 Rechtfertigende Indikation
 
@@ -1947,7 +1887,6 @@ erforderlichenfalls in Zusammenarbeit mit dem überweisenden Arzt, zu
 befragen, ob eine Schwangerschaft besteht oder bestehen könnte. Bei
 bestehender oder nicht auszuschließender Schwangerschaft ist die
 Dringlichkeit der Anwendung besonders zu prüfen.
-
 
 #### § 24 Berechtigte Personen
 
@@ -2013,7 +1952,6 @@ Personen ausschließlich
 
 erlaubt.
 
-
 #### § 25 Anwendungsgrundsätze
 
 (1) Röntgenstrahlung darf am Menschen nur in Ausübung der Heilkunde
@@ -2068,7 +2006,6 @@ von Röntgenstrahlung am Menschen bestimmten Einrichtungen nur in dem
 Umfang vorhanden sind, wie es für die ordnungsgemäße Durchführung der
 radiologischen Diagnostik erforderlich ist.
 
-
 #### § 26 Röntgendurchleuchtung
 
 Bei der Röntgendurchleuchtung von Menschen ist zur Gewährleistung des
@@ -2077,7 +2014,6 @@ Bildverstärkung mit Fernsehkette und automatischer
 Dosisleistungsregelung oder eine andere, mindestens gleichwertige
 Einrichtung zu verwenden. Der Röntgenstrahler darf nur während der
 Durchleuchtung oder zum Anfertigen einer Aufnahme eingeschaltet sein.
-
 
 #### § 27 Röntgenbehandlung
 
@@ -2112,7 +2048,6 @@ zu überprüfen.
 (3) Über die Röntgenbehandlung ist ein Bestrahlungsprotokoll zu
 erstellen. Hierzu gehören auch Aufzeichnungen über die Überprüfung der
 Filterung.
-
 
 #### § 28 Aufzeichnungspflichten, Röntgenpass
 
@@ -2263,10 +2198,7 @@ in geeigneter Weise hinzuweisen.
 medizinische Strahlenexposition der Bevölkerung und ausgewählter
 Bevölkerungsgruppen.
 
-
 ### Unterabschnitt 2a - Medizinische Forschung
-
-
 
 #### § 28a Genehmigung zur Anwendung von Röntgenstrahlung am Menschen in der medizinischen Forschung
 
@@ -2275,7 +2207,6 @@ Menschen anwendet, bedarf der Genehmigung.
 
 (2) Für die Erteilung der Genehmigung ist das Bundesamt für
 Strahlenschutz zuständig.
-
 
 #### § 28b Genehmigungsvoraussetzungen für die Anwendung von Röntgenstrahlung am Menschen in der medizinischen Forschung
 
@@ -2404,7 +2335,6 @@ Fall einer Genehmigung nach Absatz 2 bedarf es keiner
 Deckungsvorsorge, die über die Probandenversicherung nach dem
 Arzneimittelgesetz oder nach dem Medizinproduktegesetz hinausgeht.
 
-
 #### § 28c Besondere Schutz-, Aufklärungs- und Aufzeichnungspflichten
 
 (1) Die Anwendung von Röntgenstrahlung am Menschen in der
@@ -2463,7 +2393,6 @@ und auf Verlangen der zuständigen Behörde vorzulegen. Für die
 Aufzeichnungen gilt § 28 Abs. 2, 3 Satz 4 und 5 und Abs. 4 bis 7
 entsprechend.
 
-
 #### § 28d Anwendungsverbote und Anwendungsbeschränkungen für einzelne Personengruppen
 
 (1) An schwangeren Frauen darf Röntgenstrahlung in der medizinischen
@@ -2508,7 +2437,6 @@ ist die Anwendung von Röntgenstrahlung nur zulässig, wenn
 Für die Erklärungen nach Satz 1 Nr. 3 gilt § 28c Abs. 1 bis 3
 entsprechend.
 
-
 #### § 28e Mitteilungs- und Berichtspflichten
 
 (1) Der zuständigen Aufsichtsbehörde und der Genehmigungsbehörde sind
@@ -2529,7 +2457,6 @@ nach Beendigung der Anwendung je ein Abschlussbericht vorzulegen, aus
 dem die im Einzelfall ermittelte Körperdosis oder die zur Berechnung
 der Körperdosen relevanten Daten hervorgehen.
 
-
 #### § 28f Schutzanordnung
 
 Ist zu besorgen, dass ein Proband auf Grund einer Überschreitung der
@@ -2537,7 +2464,6 @@ genehmigten Dosiswerte für die Anwendung von Röntgenstrahlung in der
 medizinischen Forschung an der Gesundheit geschädigt wird, so ordnet
 die zuständige Aufsichtsbehörde an, dass er durch einen Arzt nach § 41
 Abs. 1 Satz 1 untersucht wird.
-
 
 #### § 28g Ethikkommission
 
@@ -2559,10 +2485,7 @@ aufgeführt sind. Veränderungen der Zusammensetzung der Kommission, des
 Verfahrens oder der übrigen Festlegungen der Verfahrensordnung sind
 der Behörde unverzüglich mitzuteilen.
 
-
 ### Unterabschnitt 3 - Anwendung von Röntgenstrahlung in der Tierheilkunde oder in sonstigen Fällen
-
-
 
 #### § 29 Berechtigte Personen in der Tierheilkunde
 
@@ -2620,7 +2543,6 @@ sind Maßnahmen zu ergreifen, um ihre Strahlenexposition zu
 beschränken. § 25 Absatz 4, § 35 Absatz 1 Satz 1 und Absatz 9 Satz 1
 gelten für Tierbegleitpersonen entsprechend.
 
-
 #### § 30 Berechtigte Personen in sonstigen Fällen
 
 In anderen Fällen als zur Anwendung am Menschen oder in der
@@ -2639,10 +2561,7 @@ oder die Anwendung technisch durchführen, die
 Satz 1 gilt nicht für den Betrieb eines Vollschutzgerätes nach § 2
 Nummer 25.
 
-
 ### Unterabschnitt 4 - Vorschriften über die Strahlenexposition
-
-
 
 #### § 31 Kategorien beruflich strahlenexponierter Personen
 
@@ -2667,10 +2586,6 @@ und arbeitsmedizinischen Vorsorge folgenden Kategorien zugeordnet:
     Augenlinse oder 50 Millisievert für die Haut, die Hände, die
     Unterarme, die Füße und Knöchel führen kann, ohne in die Kategorie A
     zu fallen.
-
-
-
-
 
 #### § 31a Dosisgrenzwerte bei beruflicher Strahlenexposition
 
@@ -2738,7 +2653,6 @@ einzubeziehen. Die natürliche Strahlenexposition, die medizinische
 Strahlenexposition und die Exposition als helfende Person oder
 Tierbegleitperson sind nicht zu berücksichtigen.
 
-
 #### § 31b Berufslebensdosis
 
 Die Summe der in allen Kalenderjahren ermittelten effektiven Dosen
@@ -2748,7 +2662,6 @@ Benehmen mit dem Arzt nach § 41 Abs. 1 Satz 1 eine weitere berufliche
 Strahlenexposition zulassen, wenn diese 10 Millisievert effektive
 Dosis im Kalenderjahr nicht überschreitet und die beruflich
 strahlenexponierte Person schriftlich einwilligt.
-
 
 #### § 31c Dosisbegrenzung bei Überschreitung
 
@@ -2764,7 +2677,6 @@ Beschäftigung nicht fortgesetzt werden kann, kann die zuständige
 Behörde im Benehmen mit einem Arzt nach § 41 Abs. 1 Satz 1 Ausnahmen
 von Satz 1 zulassen.
 
-
 #### § 32 Begrenzung der Strahlenexposition der Bevölkerung
 
 (1) Für Einzelpersonen der Bevölkerung darf die effektive Dosis den
@@ -2774,7 +2686,6 @@ Grenzwert von 1 Millisievert im Kalenderjahr nicht überschreiten.
 den Grenzwert von 15 Millisievert im Kalenderjahr und die Organdosis
 für die Haut den Grenzwert von 50 Millisievert im Kalenderjahr nicht
 überschreiten.
-
 
 #### § 33 Anordnung von Maßnahmen und behördliche Ausnahmen
 
@@ -2842,10 +2753,6 @@ der Dosisgrenzwertregelungen abgewichen wird, wenn
     Tätigkeit durch die Abweichung nicht beeinträchtigt werden und der
     Strahlenschutz gewährleistet ist.
 
-
-
-
-
 #### § 34 Messung von Ortsdosis, Ortsdosisleistung und Personendosis
 
 (1) Soweit es aus Gründen des Strahlenschutzes erforderlich ist, ist
@@ -2883,7 +2790,6 @@ nach Absatz 3 Satz 2 Nummer 3 sind aufzuzeichnen. Die Aufzeichnungen
 sind zehn Jahre ab dem Zeitpunkt der Funktionsprüfung oder Wartung
 aufzubewahren und der zuständigen Behörde auf Verlangen vorzulegen
 oder bei einer von ihr zu bestimmenden Stelle zu hinterlegen.
-
 
 #### § 35 Zu überwachende Personen und Ermittlung der Körperdosis
 
@@ -3038,7 +2944,6 @@ betroffenen Person ist unverzüglich die Körperdosis mitzuteilen.
 durch regelmäßige interne Prüfungen sicherzustellen. Die Ergebnisse
 der Prüfungen sind der zuständigen Behörde auf Verlangen mitzuteilen.
 
-
 #### § 35a Strahlenschutzregister
 
 (1) In das Strahlenschutzregister nach § 12c des Atomgesetzes werden
@@ -3135,7 +3040,6 @@ löschen.
 bestimmt. Das Bundesamt für Strahlenschutz bestimmt das Datenformat
 und das Verfahren der Übermittlung.
 
-
 #### § 36 Unterweisung
 
 (1) Personen, denen nach § 22 Abs. 1 Nr. 2 Buchstabe a und c der
@@ -3167,10 +3071,7 @@ Absatzes 1 fünf Jahre, in denen des Absatzes 2 ein Jahr lang nach der
 Unterweisung aufzubewahren und der zuständigen Behörde auf Verlangen
 vorzulegen.
 
-
 ## Abschnitt 4 - Arbeitsmedizinische Vorsorge
-
-
 
 ### § 37 Erfordernis der arbeitsmedizinischen Vorsorge
 
@@ -3223,7 +3124,6 @@ Betroffene vor Abgabe der Einwilligung schriftlich hinzuweisen.
 Vorsorge unterliegen, haben die erforderlichen ärztlichen
 Untersuchungen zu dulden.
 
-
 ### § 38 Ärztliche Bescheinigung
 
 (1) Der Arzt nach § 41 Abs. 1 Satz 1 muss zur Erteilung der ärztlichen
@@ -3272,7 +3172,6 @@ Bescheinigung in den Strahlenpass ersetzt werden.
 (4) Die ärztliche Bescheinigung kann durch die Entscheidung der
 zuständigen Behörde nach § 39 ersetzt werden.
 
-
 ### § 39 Behördliche Entscheidung
 
 (1) Hält der Strahlenschutzverantwortliche oder die beruflich
@@ -3285,7 +3184,6 @@ eines Arztes einholen, der über die für arbeitsmedizinische Vorsorge
 strahlenexponierter Personen erforderliche Fachkunde im Strahlenschutz
 verfügt. Die Kosten des ärztlichen Gutachtens sind vom
 Strahlenschutzverantwortlichen zu tragen.
-
 
 ### § 40 Besondere arbeitsmedizinische Vorsorge
 
@@ -3314,7 +3212,6 @@ Untersuchungen zu dulden.
 
 (5) Für die Ergebnisse der besonderen arbeitsmedizinischen Vorsorge
 nach Absatz 1 gilt § 39 entsprechend.
-
 
 ### § 41 Ermächtigte Ärzte
 
@@ -3357,10 +3254,7 @@ wahren.
 (5) Der Arzt nach Absatz 1 Satz 1 hat der untersuchten Person auf ihr
 Verlangen Einsicht in ihre Gesundheitsakte zu gewähren.
 
-
 ## Abschnitt 5 - Außergewöhnliche Ereignisabläufe oder Betriebszustände
-
-
 
 ### § 42 Meldepflicht
 
@@ -3384,10 +3278,7 @@ Medizinprodukt oder Zubehör im Sinne des Medizinproduktegesetzes ist,
 sind zusätzlich unverzüglich dem Bundesinstitut für Arzneimittel und
 Medizinprodukte zu melden.
 
-
 ## Abschnitt 6 - Formvorschriften
-
-
 
 ### § 43 Elektronische Kommunikation
 
@@ -3415,10 +3306,7 @@ diesem Fall ist das elektronische Dokument mit einer dauerhaft
 überprüfbaren Signatur nach § 37 Absatz 4 des
 Verwaltungsverfahrensgesetzes zu versehen.
 
-
 ## Abschnitt 7 - Ordnungswidrigkeiten
-
-
 
 ### § 44 Ordnungswidrigkeiten
 
@@ -3536,13 +3424,7 @@ handelt, wer vorsätzlich oder fahrlässig
 19. entgegen § 41 Abs. 5 Einsicht in die Gesundheitsakte nicht oder nicht
     rechtzeitig gewährt.
 
-
-
-
-
 ## Abschnitt 8 - Schlussvorschriften
-
-
 
 ### § 45 Übergangsvorschriften
 
@@ -3649,21 +3531,17 @@ Verordnung in der zum Zeitpunkt der Herstellung des Röntgenstrahlers
 geltenden Fassung in Betrieb genommen wurde und wenn dies durch eine
 Bescheinigung des Herstellers bestätigt wird.
 
-
 ### § 46
 
 (weggefallen)
-
 
 ### § 47 Berlin-Klausel
 
 (gegenstandslos)
 
-
 ### § 48
 
 (Inkrafttreten, abgelöste Vorschrift)
-
 
 ### Anlage 1 (zu § 8 Abs. 1 Satz 1) Vorschriften über die Bauart von Röntgenstrahlern, die zur Anwendung von Röntgenstrahlung am Tier bestimmt sind (Röntgenstrahler in Röntgeneinrichtungen für tiermedizinische Zwecke, soweit sie nicht nach den Vorschriften des Medizinproduktegesetzes erstmalig in Verkehr gebracht sind)
 
@@ -3684,10 +3562,6 @@ Einführer angegebenen maximalen Betriebsbedingungen
     das Strahlenaustrittsfenster befindet, 100 Mikrosievert durch Stunde
     nicht überschreiten, sofern die Röntgenstrahler für eine Anwendung aus
     der Hand geeignet sind.
-
-
-
-
 
 ### Anlage 2 (zu § 8 Abs. 1 Satz 1) Vorschriften über die Bauart von Röntgenstrahlern und Röntgeneinrichtungen, die zur Anwendung in den in § 30 bezeichneten Fällen bestimmt sind (Röntgeneinrichtungen für nichtmedizinische Zwecke), und von Störstrahlern (§ 5 Abs. 3)
 
@@ -3858,13 +3732,6 @@ Fußnote)
         geöffneten Schutzgehäuses 10 Mikrosievert durch Stunde nicht
         überschreitet.
 
-
-
-
-
-
-
-
 ### Anlage 3 (zu § 31a) Gewebe-Wichtungsfaktoren
 
 Fundstelle des Originaltextes: BGBl. I 2003, 634
@@ -3953,10 +3820,6 @@ Fundstelle des Originaltextes: BGBl. I 2003, 634
     oder Gewebe und ein Wichtungsfaktor von 0,025 für die mittlere
     Organdosis der restlichen anderen Organe oder Gewebe gesetzt werden.
 
-
-
-
-
 ### Anlage 4 (zu § 38 Abs. 1 Satz 3) Ärztliche Bescheinigung nach § 38 der Röntgenverordnung
 
 (Fundstelle: BGBl. I 2003, 635; bzgl. einzelner Änderungen vgl.
@@ -4006,7 +3869,6 @@ Nächste Beurteilung oder Untersuchung:
 Ort, Datum            Unterschrift           Stempel mit Anschrift des
 Arztes
 nach § 41 Abs. 1 Satz 1 RöV
-
 
 ### Anlage 5 (zu § 2a Absatz 3)
 

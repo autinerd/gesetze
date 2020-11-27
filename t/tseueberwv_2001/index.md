@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 V v. 19.10.2011 I 2091
 
-
 ## § 1 Überwachungsprogramm
 
 (1) Zusätzlich zum Überwachungsprogramm nach Artikel 6 Abs. 1 in
@@ -56,14 +55,12 @@ bezeichneten Rinder, soweit sie in einem der in der Anlage
 aufgeführten Mitgliedstaaten geboren worden sind, erst bei den über 48
 Monate alten Tieren durchzuführen.
 
-
 ## § 2 Mitwirkungspflichten
 
 Der Besitzer von Tierkörpern und die nach § 3 des Tierische
 Nebenprodukte-Beseitigungsgesetzes zur Beseitigung Verpflichteten
 haben bei der Probennahme für die Untersuchungen die erforderliche
 Hilfe zu leisten.
-
 
 ## § 3 Weitergehende Maßnahmen der zuständigen Behörde
 
@@ -76,7 +73,6 @@ den Bestand des betreffenden Tieres bezogene Maßnahmen nach § 79 Abs.
 4 in Verbindung mit den §§ 18 bis 30, jeweils auch in Verbindung mit §
 79a Abs. 2, des Tierseuchengesetzes anzuordnen, unberührt.
 
-
 ## § 4 Durchführung des Anhangs V Nummer 3 der Verordnung (EG) Nr. 999/2001
 
 Die Färbung von spezifiziertem Risikomaterial nach Anhang V Nr. 3 der
@@ -84,7 +80,6 @@ Verordnung (EG) Nr. 999/2001 hat mit dem Farbstoff Brillantblau FCF zu
 erfolgen, der in Anlage 1 Teil B der Zusatzstoff-Zulassungsverordnung
 mit der E-Nummer „E 133“ aufgeführt ist. Die Färbung hat so zu
 erfolgen, dass diese deutlich zu erkennen ist.
-
 
 ## Anlage (zu § 1 Absatz 2)
 

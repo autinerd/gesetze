@@ -18,16 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 54 G v. 6.12.2011 I 2515
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## I. Abschnitt - Erlaubnis
-
-
 
 ### § 1
 
@@ -44,7 +40,6 @@ Meldepflicht und Nachprüfung nach diesem Gesetz. Gleiches gilt für
 Drittstaaten und Drittstaatsangehörige, soweit sich hinsichtlich der
 Anerkennung von Ausbildungsnachweisen nach dem Recht der Europäischen
 Gemeinschaften eine Gleichstellung ergibt.
-
 
 ### § 2
 
@@ -187,7 +182,6 @@ wahrgenommen werden.
 Anerkennungsverfahren nach diesem Gesetz und berichtet nach Ablauf von
 drei Jahren dem Deutschen Bundestag.
 
-
 ### § 2a
 
 (1) Die zuständigen Behörden des Landes, in dem der Beruf des
@@ -223,10 +217,7 @@ die Europäische Kommission für den nach Artikel 60 Abs. 1 der
 Richtlinie 2005/36/EG erforderlichen Bericht benötigt, zur
 Weiterleitung an die Kommission.
 
-
 ## II. Abschnitt - Ausbildung
-
-
 
 ### § 3
 
@@ -235,14 +226,12 @@ befähigen, insbesondere bei der Prävention, Diagnose und Therapie von
 Störungen des ein- und beidäugigen Sehens bei Schielerkrankungen,
 Sehschwächen und Augenzittern mitzuwirken (Ausbildungsziel).
 
-
 ### § 4
 
 Die Ausbildung besteht aus theoretischem und praktischem Unterricht
 und einer praktischen Ausbildung. Sie wird durch staatlich anerkannte
 Schulen für Orthoptisten an Krankenhäusern vermittelt. Die Ausbildung
 schließt mit der staatlichen Prüfung ab und dauert drei Jahre.
-
 
 ### § 5
 
@@ -256,10 +245,6 @@ Voraussetzung für den Zugang zur Ausbildung ist
     Hauptschulabschluß erweitert, oder eine nach Hauptschulabschluß oder
     einem gleichwertigen Abschluß abgeschlossene Berufsausbildung von
     mindestens zweijähriger Dauer.
-
-
-
-
 
 ### § 6
 
@@ -279,14 +264,12 @@ Auf Antrag können auch darüber hinausgehende Fehlzeiten berücksichtigt
 werden, soweit eine besondere Härte vorliegt und das Ausbildungsziel
 durch die Anrechnung nicht gefährdet wird.
 
-
 ### § 7
 
 Die zuständige Behörde kann auf Antrag eine andere Ausbildung im
 Umfang ihrer Gleichwertigkeit auf die Dauer der Ausbildung anrechnen,
 wenn die Durchführung der Ausbildung und die Erreichung des
 Ausbildungsziels dadurch nicht gefährdet werden.
-
 
 ### § 8
 
@@ -334,7 +317,6 @@ Verbindung mit § 2 Abs. 3 oder 4 beantragen, zu regeln:
 (3) Abweichungen von den in den Absätzen 1 und 2 sowie der auf dieser
 Grundlage erlassenen Rechtsverordnung enthaltenen Regelungen des
 Verwaltungsverfahrens durch Landesrecht sind ausgeschlossen.
-
 
 ### § 8a
 
@@ -430,7 +412,6 @@ Bescheinigungen darüber auszustellen, dass
 
 § 1 Abs. 2 Satz 3 gilt entsprechend.
 
-
 ### § 8b
 
 Die zuständigen Behörden sind berechtigt, für jede
@@ -446,7 +427,6 @@ und die gute Führung des Dienstleisters sowie Informationen darüber,
 dass keine berufsbezogenen disziplinarischen oder strafrechtlichen
 Sanktionen vorliegen, zu übermitteln.
 
-
 ### § 8c
 
 Orthoptistinnen oder Orthoptisten im Sinne des § 8a haben beim
@@ -456,10 +436,7 @@ Wird gegen diese Pflichten verstoßen, so hat die zuständige Behörde
 unverzüglich die zuständige Behörde des Niederlassungsmitgliedstaats
 dieses Dienstleistungserbringers hierüber zu unterrichten.
 
-
 ## III. Abschnitt - Zuständigkeiten
-
-
 
 ### § 9
 
@@ -482,10 +459,7 @@ erbracht worden ist. Die Bescheinigungen nach § 8a Abs. 4 stellt die
 zuständige Behörde des Landes aus, in dem der Antragsteller den Beruf
 des Orthoptisten ausübt.
 
-
 ## IV. Abschnitt - Bußgeldvorschriften
-
-
 
 ### § 10
 
@@ -495,10 +469,7 @@ Berufsbezeichnung "Orthoptistin" oder "Orthoptist" führt.
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
 zweitausendfünfhundert Euro geahndet werden.
 
-
 ## V. Abschnitt - Übergangsvorschriften
-
-
 
 ### § 11
 
@@ -525,7 +496,6 @@ Voraussetzungen des § 2 Abs. 1 Nr. 2 und 3 die Erlaubnis nach § 1,
 wenn er innerhalb von fünf Jahren nach Inkrafttreten dieses Gesetzes
 die staatliche Prüfung nach diesem Gesetz ablegt.
 
-
 ### § 11a
 
 (1) Eine vor dem 1. September 1991 nach der Anordnung über die
@@ -542,15 +512,11 @@ bisher geltenden Regeln abgeschlossen werden. Nach Abschluß der
 Ausbildung erhält der Antragsteller, wenn die Voraussetzungen des § 2
 Abs. 1 Nr. 2 und 3 vorliegen, eine Erlaubnis nach § 1.
 
-
 ## VI. Abschnitt - Schlußvorschriften
-
-
 
 ### § 12 (weggefallen)
 
 -
-
 
 ### § 13
 

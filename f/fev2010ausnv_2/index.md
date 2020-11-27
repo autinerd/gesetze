@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 3113
 
-
 ## Eingangsformel
 
 Auf Grund des § 6 Absatz 1 Nummer 1 Buchstabe w in Verbindung mit § 6
@@ -24,7 +23,6 @@ Buchstabe w durch Artikel 1 Buchstabe a Doppelbuchstabe cc des
 Gesetzes vom 3. Mai 2005 (BGBl. I S. 1221) geändert worden ist,
 verordnet das Bundesministerium für Verkehr, Bau und Stadtentwicklung
 nach Anhörung der zuständigen obersten Landesbehörden:
-
 
 ## § 1
 
@@ -43,11 +41,9 @@ das zuletzt durch Artikel 2 des Gesetzes vom 6. Juni 2009 (BGBl. I S.
 1226) geändert worden ist, oder den Polizeien der Länder eingesetzt
 werden und die in der Anlage aufgeführten Anforderungen erfüllt sind.
 
-
 ## § 2
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Anlage (zu § 1)
 
@@ -89,9 +85,6 @@ c)  Der erfolgreiche Abschluss der zusätzlichen Fahrausbildung ist durch
 d)  Nach erfolgreichem Abschluss der zusätzlichen Fahrausbildung hat der
     Fahrer einmal im Jahr an einem Wiederholungs- und Vertiefungskurs
     teilzunehmen.
-
-
-
 
 ## 3. Anforderungen an die Fahrzeuge
 

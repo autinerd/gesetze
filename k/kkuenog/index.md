@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 39 G v. 26.3.2007 I 378
 
-
 ## § 1 Durchführung von Organisationsänderungen bei einzelnen Kassenärztlichen Vereinigungen
 
 Die zu vereinigenden Kassenärztlichen Vereinigungen haben die nach §
@@ -28,7 +27,6 @@ Januar 2005 geltenden Fassung erforderlichen Organisationsänderungen
 im Einvernehmen mit den für die Sozialversicherung zuständigen
 obersten Verwaltungsbehörden der Länder bis zum 30. Juni 2004
 durchzuführen.
-
 
 ## § 2 Wahl der Vertreterversammlung der Kassenärztlichen Vereinigungen
 
@@ -42,7 +40,6 @@ anzuwenden.
 
 (2) Die Vertreterversammlung wählt aus ihrer Mitte die Vorsitzende
 oder den Vorsitzenden und deren Stellvertreter.
-
 
 ## § 3 Wahl des Vorstandes der Kassenärztlichen Vereinigungen
 
@@ -58,7 +55,6 @@ durch Zusammenlegung gebildet werden, kann die Anzahl der
 Vorstandsmitglieder durch Satzungsbeschluss für die Übergangszeit
 einer Wahlperiode auf bis zu fünf Mitglieder erweitert werden.
 
-
 ## § 4 Wahl der Vertreterversammlung der Kassenärztlichen Bundesvereinigungen
 
 Die Mitglieder der Vertreterversammlung nach § 2 Abs. 1 Satz 1 wählen
@@ -68,7 +64,6 @@ Kassenärztlichen Bundesvereinigungen. Hierbei sind § 79 Abs. 2 und §
 Januar 2005 geltenden Fassung anzuwenden Die konstituierende Sitzung
 hat im Dezember 2004 stattzufinden.
 
-
 ## § 5 Wahl des Vorstandes der Kassenärztlichen Bundesvereinigungen
 
 Die Vertreterversammlung nach § 4 wählt bis zum 31. März 2005 den
@@ -76,7 +71,6 @@ Vorstand sowie aus seiner Mitte die Vorsitzende oder den Vorsitzenden
 des Vorstandes und deren Stellvertreter. § 3 Satz 2 gilt entsprechend.
 In der konstituierenden Sitzung nach § 4 Satz 3 ist zu bestimmen, wer
 die Vorstandsaufgaben bis zur Wahl nach Satz 1 wahrnimmt.
-
 
 ## § 6 Gemeinsamer Bundesausschuss
 
@@ -115,7 +109,6 @@ nach § 137 des Fünften Buches Sozialgesetzbuch.
 Inkrafttreten dieses Gesetzes geltenden Fassung bleiben bestehen; sie
 können vom Gemeinsamen Bundesausschuss geändert und aufgehoben werden.
 
-
 ## § 7 Moratorium für die Öffnung neu errichteter Betriebs- und Innungskrankenkassen
 
 Neu errichtete Betriebs- und Innungskrankenkassen, bei denen die
@@ -124,7 +117,6 @@ Sozialgesetzbuch am 9. September 2003 noch nicht durchgeführt worden
 ist, können bis zum 31. Dezember 2008 in ihren Satzungen keine
 Regelungen nach § 173 Abs. 2 Satz 1 Nr. 4 des Fünften Buches
 Sozialgesetzbuch vorsehen.
-
 
 ## § 8 Weitergeltung des Gesetzes zur Stabilisierung des Mitgliederkreises von Bundesknappschaft und See-Krankenkasse
 

@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 V v. 28.3.2011 I 521
 
-
 ## I. - Besondere Anspruchsvoraussetzungen
-
-
 
 ### § 1 Nachweis des Todes
 
@@ -43,11 +40,9 @@ verstorben ist (§ 180 Abs. 1 BEG), es sei denn, daß nach den Umständen
 des Einzelfalles ein anderer Zeitpunkt des Todes wahrscheinlich ist (§
 180 Abs. 2 BEG). § 176 BEG findet Anwendung.
 
-
 ### § 2 Tod im unmittelbaren Anschluß an Deportation oder Freiheitsentziehung
 
 (Entfällt)
-
 
 ### § 3 Anspruchsvoraussetzung nach § 4 BEG
 
@@ -58,16 +53,12 @@ den die Voraussetzungen des § 4 BEG zutreffen; es genügt nicht, daß
 die Anspruchsvoraussetzungen des § 4 BEG in der Person eines anderen
 Hinterbliebenen erfüllt sind.
 
-
 ## II. - Kreis der Hinterbliebenen
-
-
 
 ### § 4 Witwer
 
 Der Anspruch des Witwers auf Rente besteht auch dann, wenn der
 Unterhalt von der verfolgten Ehefrau überwiegend bestritten wurde.
-
 
 ### § 5 Kinder und ihnen Gleichgestellte
 
@@ -154,11 +145,9 @@ den §§ 15 bis 26 BEG wie den Kindern eines Verfolgten zu.
 Verfolgte sie auf seine Kosten anderweit untergebracht hat, ohne daß
 dadurch die häusliche Verbindung mit ihm aufgehoben werden sollte.
 
-
 ### § 6
 
 (weggefallen)
-
 
 ### § 7 Gewährung der Rente bei Kindern über 18 Jahre
 
@@ -254,7 +243,6 @@ gezahlt.
 
 (3) (weggefallen)
 
-
 ### § 8 Elternlose Enkel
 
 (1) Den elternlosen Enkeln eines Verfolgten stehen Ansprüche nach den
@@ -270,21 +258,15 @@ Es kommt nur darauf an, daß der Unterhalt von dem Verfolgten
 
 (3) § 7 findet entsprechende Anwendung.
 
-
 ### § 9 Verwandte der aufsteigenden Linie und Adoptiveltern
 
 Der Anspruch auf Rente steht den Eltern oder Adoptiveltern vor den
 Großeltern zu. An die Stelle eines verstorbenen Elternteils treten
 dessen Eltern.
 
-
 ## III. - Rente
 
-
-
 ### 1. - Berechnung und Zahlung der Rente
-
-
 
 #### § 10 Art der Berechnung
 
@@ -294,7 +276,6 @@ gehobenen und höheren Dienstes gegliederte Besoldungsübersicht
 zugrunde zu legen, welche die durchschnittlichen ruhegehaltfähigen
 Dienstbezüge dieser Beamtengruppen, die bis zum Erreichen der
 Altersgrenze erreichbar sind, ausweist.
-
 
 #### § 11 Einreihung in eine vergleichbare Beamtengruppe
 
@@ -346,7 +327,6 @@ Regel nach der wirtschaftlichen oder, sofern dies günstiger ist, nach
 der sozialen Stellung des Elternteils oder Großelternteils, der den
 Unterhalt des Verfolgten überwiegend bestritten hat.
 
-
 #### § 12 Hundertsatz des Unfallruhegehalts und der Versorgungsbezüge
 
 (1) Das Unfallruhegehalt im Sinne dieser Verordnung beträgt 66 2/3 vom
@@ -357,7 +337,6 @@ für jedes Kind und für jeden elternlosen Enkel 30 vom Hundert und der
 Rente für einen Verwandten der aufsteigenden Linie oder einen
 Adoptivelternteil oder mehrere zusammen 30 vom Hundert des
 Unfallruhegehalts zugrunde zu legen.
-
 
 #### § 13 Hundertsatz der Rente
 
@@ -530,11 +509,9 @@ zu einer Ermäßigung des Hundertsatzes um 10 vom Hundert, höchstens
 jedoch zu einer Kürzung des Monatsbetrages der Rente um 50 Deutsche
 Mark, ab dem 1. Januar 2002 um 26 Euro.
 
-
 #### § 13a Zusammentreffen von Renten für Schaden an Leben mit Renten für Schaden an Körper oder Gesundheit oder mit Renten für Schaden im beruflichen Fortkommen
 
 (Entfällt)
-
 
 #### § 14 Mindestrente
 
@@ -542,14 +519,12 @@ Der monatliche Mindestbetrag der Rente nach § 19 BEG darf nicht
 unterschritten werden, soweit sich aus dem Bundesentschädigungsgesetz
 und dieser Verordnung nichts anderes ergibt.
 
-
 #### § 15 Verteilung von anzurechnenden Leistungen
 
 Bei der Anrechnung von Leistungen auf laufende Renten gemäß § 10 BEG
 soll der anzurechnende Betrag derart verteilt werden, daß dem
 Hinterbliebenen mindestens die Hälfte des ihm gesetzlich zustehenden
 Mindestbetrages der Rente verbleibt.
-
 
 #### § 16 Zahlung der Rente
 
@@ -562,10 +537,7 @@ an.
 jeweils auf volle Deutsche Mark, ab 1. Januar 2002 auf volle Euro
 aufzurunden.
 
-
 ### 2. - Ruhen und Erlöschen der Rente
-
-
 
 #### § 17 Ruhen der Rente
 
@@ -578,7 +550,6 @@ der dem Monat folgt, in den das für das Ruhen der Rente maßgebende
 Ereignis gefallen ist. Dabei sind die errechneten und die
 auszuzahlenden Beträge der Rente jeweils auf volle Deutsche Mark
 aufzurunden.
-
 
 #### § 18 Erlöschen der Rente
 
@@ -668,18 +639,11 @@ Die Rente erlischt
 5.  für Verwandte der aufsteigenden Linie und für Adoptiveltern auch mit
     dem Ende des Monats, in dem die Bedürftigkeit weggefallen ist.
 
-
-
-
-
 #### § 18a Wiederaufleben der Rente
 
 (Entfällt)
 
-
 ### 3. - Anzeigepflicht und Änderung der Verhältnisse
-
-
 
 #### § 19 Anzeigepflicht
 
@@ -849,7 +813,6 @@ amtlichen Melderegister erreicht werden kann.
 (3) Hat der Hinterbliebene einen gesetzlichen Vertreter, so obliegen
 diesem die Pflichten aus den Absätzen 1 und 2.
 
-
 #### § 20 Verletzung der Anzeigepflicht
 
 Kommt der Hinterbliebene oder sein gesetzlicher Vertreter den nach §
@@ -857,7 +820,6 @@ Kommt der Hinterbliebene oder sein gesetzlicher Vertreter den nach §
 ganz oder teilweise eingestellt werden. Dies gilt nur, wenn der
 Hinterbliebene oder sein gesetzlicher Vertreter auf diese Rechtsfolgen
 vorher hingewiesen worden ist.
-
 
 #### § 21 Neufestsetzung der Rente bei Änderung der Verhältnisse
 
@@ -870,7 +832,6 @@ die Zustellung des Bescheides folgenden Monats wirksam. Hat der
 Hinterbliebene den Erlaß des Bescheides schuldhaft verhindert oder
 verzögert, so kann die Rückzahlung der überzahlten Rente angeordnet
 werden.
-
 
 #### § 21a
 
@@ -1937,10 +1898,7 @@ einen überlebenden
 Eltern- oder
 Adoptivelternteil .. 420         453         463
 
-
 ## IV. - Kapitalentschädigung
-
-
 
 ### § 22 Berechnung der Kapitalentschädigung
 
@@ -1970,10 +1928,7 @@ oder des Witwers erloschen, und dem Zeitpunkt, in dem sie wieder
 aufgelebt wäre, unberücksichtigt. § 23 Satz 3 BEG findet entsprechende
 Anwendung.
 
-
 ## V. - Bewertung der im Ausland erzielten Einkünfte
-
-
 
 ### § 22a
 
@@ -1995,10 +1950,7 @@ Ehe erworbenen Versorgungs- oder Unterhaltsanspruchs in ausländischer
 Währung zustehen, so findet für die Bewertung dieser Leistungen Absatz
 1 entsprechende Anwendung.
 
-
 ## VI. - Schlußbestimmungen
-
-
 
 ### § 22b Stichtag für Neufestsetzung der Renten
 
@@ -2006,7 +1958,6 @@ Renten, die auf Grund des Bundesentschädigungsgesetzes oder dieser
 Verordnung vom 18. September 1965 an zu gewähren oder neu festzusetzen
 sind oder deren Ruhen von diesem Zeitpunkt an entfällt, werden mit
 Wirkung vom 1. September 1965 an gewährt oder neu festgesetzt.
-
 
 ### § 22c Übergangsvorschriften für Änderungen dieser Verordnung
 
@@ -2035,11 +1986,9 @@ Berechtigten durch unanfechtbaren Bescheid oder durch rechtskräftige
 gerichtliche Entscheidung vorbehaltlos festgesetzt worden sind, behält
 es hierbei zugunsten der Berechtigten sein Bewenden.
 
-
 ### § 23
 
 (weggefallen)
-
 
 ### § 24 Zeitlicher Anwendungsbereich
 
@@ -2083,7 +2032,6 @@ es hierbei zugunsten der Berechtigten sein Bewenden.
 
 (2) Es treten außer Kraft
 die §§ 2, 13a und 18a mit Wirkung vom 18. September 1965.
-
 
 ### Anlage 1 (zu § 10 der 1. DV-BEG) Besoldungsübersicht
 
@@ -4419,10 +4367,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   8 448
 
     *   11 052
-
-
-
-
 
 ### Anlage 2 (zu § 11 der 1.DV-BEG) Besoldungsübersicht
 

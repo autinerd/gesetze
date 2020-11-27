@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 3 G v. 19.10.2012 I 2192
 
-
 ## Erster Abschnitt - Die Erlaubnis
-
-
 
 ### § 1
 
@@ -37,7 +34,6 @@ bedarf der Erlaubnis der zuständigen Behörde.
 
 (3) Die Erlaubnis gilt nur für den Apotheker, dem sie erteilt ist, und
 für die in der Erlaubnisurkunde bezeichneten Räume.
-
 
 ### § 2
 
@@ -157,7 +153,6 @@ vor der Änderung schriftlich anzuzeigen. Bei einem unvorhergesehenen
 Wechsel der Person des Verantwortlichen muss die Änderungsanzeige nach
 Satz 2 unverzüglich erfolgen.
 
-
 ### § 3
 
 Die Erlaubnis erlischt
@@ -180,10 +175,6 @@ Die Erlaubnis erlischt
 
 5.  (weggefallen)
 
-
-
-
-
 ### § 4
 
 (1) Die Erlaubnis ist zurückzunehmen, wenn bei ihrer Erteilung eine
@@ -195,19 +186,16 @@ Die Erlaubnis kann widerrufen werden, wenn der Erlaubnisinhaber
 nachträglich Vereinbarungen getroffen hat, die gegen § 8 Satz 2 auch
 in Verbindung mit Satz 4, § 9 Abs. 1, § 10 oder § 11 verstoßen.
 
-
 ### § 5
 
 Wird eine Apotheke ohne Erlaubnis betrieben, so hat die zuständige
 Behörde die Apotheke zu schließen.
-
 
 ### § 6
 
 Eine Apotheke darf erst eröffnet werden, nachdem die zuständige
 Behörde bescheinigt hat, daß die Apotheke den gesetzlichen
 Anforderungen entspricht (Abnahme).
-
 
 ### § 7
 
@@ -217,7 +205,6 @@ Betreiber nach § 2 Abs. 5 Nr. 2 benannten Apotheker die Pflichten
 entsprechend Satz 1; die Verpflichtungen des Betreibers bleiben
 unberührt. Die persönliche Leitung einer Krankenhausapotheke obliegt
 dem angestellten Apotheker.
-
 
 ### § 8
 
@@ -233,7 +220,6 @@ sind unzulässig. Pachtverträge über Apotheken nach § 9, bei denen die
 Pacht vom Umsatz oder Gewinn abhängig ist, gelten nicht als
 Vereinbarungen im Sinne des Satzes 2. Die Sätze 1 bis 3 gelten für
 Apotheken nach § 2 Abs. 4 entsprechend.
-
 
 ### § 9
 
@@ -290,7 +276,6 @@ ihrer Erteilung eine der Voraussetzungen nach Absatz 1 nicht
 vorgelegen hat; sie ist zu widerrufen, wenn nachträglich eine dieser
 Voraussetzungen weggefallen ist. § 4 bleibt unberührt.
 
-
 ### § 10
 
 Der Erlaubnisinhaber darf sich nicht verpflichten, bestimmte
@@ -298,7 +283,6 @@ Arzneimittel ausschließlich oder bevorzugt anzubieten oder abzugeben
 oder anderweitig die Auswahl der von ihm abzugebenden Arzneimittel auf
 das Angebot bestimmter Hersteller oder Händler oder von Gruppen von
 solchen zu beschränken.
-
 
 ### § 11
 
@@ -343,10 +327,6 @@ a)  findet Absatz 1 keine Anwendung auf Arzneimittel, die von den
 b)  gilt Absatz 3 Satz 1 und 2 entsprechend für Zubereitungen aus von den
     Gesundheitsbehörden des Bundes oder der Länder oder von diesen
     benannten Stellen bevorrateten Wirkstoffen.
-
-
-
-
 
 ### § 11a
 
@@ -427,7 +407,6 @@ Im Falle des elektronischen Handels mit apothekenpflichtigen
 Arzneimitteln gilt Satz 1 mit der Maßgabe, dass die Apotheke auch über
 die dafür geeigneten Einrichtungen und Geräte verfügen wird.
 
-
 ### § 11b
 
 (1) Die Erlaubnis nach § 11a ist zurückzunehmen, wenn bei ihrer
@@ -444,12 +423,10 @@ entsprechend betreibt.
 (3) Wird der Versandhandel ohne Erlaubnis betrieben, gilt § 5
 entsprechend.
 
-
 ### § 12
 
 Rechtsgeschäfte, die ganz oder teilweise gegen § 8 Satz 2, § 9 Abs. 1,
 § 10 oder § 11 verstoßen, sind nichtig.
-
 
 ### § 12a
 
@@ -501,7 +478,6 @@ Behörde anzuzeigen.
 apothekenpflichtigen Medizinprodukten aus öffentlichen Apotheken
 versorgen, bedarf es keines Vertrages nach Absatz 1.
 
-
 ### § 13
 
 (1) Nach dem Tode des Erlaubnisinhabers dürfen die Erben die Apotheke
@@ -524,10 +500,7 @@ Approbation als Apotheker besitzt. § 4 ist entsprechend anzuwenden.
 und der Vorschriften über die Herstellung von Arzneimitteln und den
 Verkehr mit diesen verantwortlich.
 
-
 ## Zweiter Abschnitt - Krankenhausapotheken, Bundeswehrapotheken, Zweigapotheken, Notapotheken
-
-
 
 ### § 14
 
@@ -711,7 +684,6 @@ Gesundheitsbehörden des Bundes oder der Länder oder von diesen
 benannten Stellen nach § 47 Abs. 1 Satz 1 Nr. 3c bevorratet oder nach
 § 21 Absatz 2 Nummer 1c des Arzneimittelgesetzes hergestellt wurden.
 
-
 ### § 15
 
 (1) Im Geschäftsbereich des Bundesministeriums der Verteidigung
@@ -725,7 +697,6 @@ der Bundeswehr hinsichtlich der Arzneimittelversorgung und der
 Arzneimittelsicherheit nicht anders gestellt sind als Zivilpersonen.
 
 (3) (weggefallen)
-
 
 ### § 16
 
@@ -743,7 +714,6 @@ als eine Zweigapotheke erteilt werden.
 (4) Die Erlaubnis wird für einen Zeitraum von fünf Jahren erteilt; sie
 kann erneut erteilt werden.
 
-
 ### § 17
 
 Ergibt sich sechs Monate nach öffentlicher Bekanntmachung eines
@@ -756,15 +726,11 @@ diese die nach diesem Gesetz vorgeschriebenen Räume und Einrichtungen
 nachweisen. Der Apotheker muß die Voraussetzungen des § 2 Abs. 1 Nr. 1
 bis 4 und 7 erfüllen.
 
-
 ## Dritter Abschnitt - Apothekenbetriebsordnung und Ausnahmeregelungen für Bundespolizei und Bereitschaftspolizei
-
-
 
 ### (XXXX) §§ 18 bis 20 (weggefallen)
 
 -
-
 
 ### § 21
 
@@ -931,7 +897,6 @@ Apothekenbetrieb die Apothekenbetriebsordnung, für den
 Herstellungsbetrieb die entsprechenden Vorschriften des
 Arzneimittelrechts.
 
-
 ### § 22
 
 Einrichtungen, die der Arzneimittelversorgung der Angehörigen der
@@ -939,10 +904,7 @@ Bundespolizei und der Bereitschaftspolizeien der Länder im Rahmen der
 freien Heilfürsorge sowie ihrer Tierbestände dienen, unterliegen nicht
 den Vorschriften dieses Gesetzes.
 
-
 ## Vierter Abschnitt - Straf- und Bußgeldbestimmungen
-
-
 
 ### § 23
 
@@ -951,11 +913,9 @@ Genehmigung eine Apotheke, Krankenhausapotheke oder Zweigapotheke
 betreibt oder verwaltet, wird mit Freiheitsstrafe bis zu sechs Monaten
 oder mit Geldstrafe bis zu einhundertachtzig Tagessätzen bestraft.
 
-
 ### § 24
 
 (weggefallen)
-
 
 ### § 25
 
@@ -992,10 +952,7 @@ einer Geldbuße bis zu zwanzigtausend Euro, in den Fällen des Absatzes
 1 Nr. 1, 3 und 4 und des Absatzes 2 mit einer Geldbuße bis zu
 fünftausend Euro geahndet werden.
 
-
 ## Fünfter Abschnitt - Schluß- und Übergangsbestimmungen
-
-
 
 ### § 26
 
@@ -1009,7 +966,6 @@ Apotheken können verpachtet werden; § 9 findet keine Anwendung.
 Krankenhausapotheke gelten in ihrem bisherigen Umfange weiter. Die
 nach bisherigem Recht erteilten Erlaubnisse zum Betrieb einer
 Zweigapotheke gelten als Erlaubnisse im Sinne des § 16.
-
 
 ### § 27
 
@@ -1030,7 +986,6 @@ erfolgen; § 9 findet keine Anwendung; § 13 bleibt unberührt.
 Betrieb einer anderen Apotheke, die keine Zweigapotheke ist, nur
 erteilt, wenn sie auf die bisherige Berechtigung verzichten.
 
-
 ### § 28
 
 (1) Bei verpachteten Apotheken gilt die dem Pächter verliehene
@@ -1042,16 +997,13 @@ Verwaltung einer Apotheke, die den §§ 9 und 13 nicht entsprechen,
 bleiben bis zum Ablauf der vereinbarten Vertragsdauer in Kraft, wenn
 sie nicht zu einem früheren Zeitpunkt ihre Gültigkeit verlieren.
 
-
 ### § 28a
 
 (weggefallen)
 
-
 ### § 29
 
 (weggefallen)
-
 
 ### § 30
 
@@ -1059,21 +1011,17 @@ Auf ärztliche und tierärztliche Abgabestellen für Arzneimittel
 (Hausapotheken) finden die Vorschriften dieses Gesetzes keine
 Anwendung.
 
-
 ### § 31 (Außerkrafttreten)
 
 -
-
 
 ### § 32
 
 (weggefallen)
 
-
 ### § 33 (Inkrafttreten)
 
 -
-
 
 ### Anlage
 

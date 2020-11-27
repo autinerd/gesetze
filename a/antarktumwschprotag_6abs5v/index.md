@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1999, 1660
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 6 Abs. 5 des Umweltschutzprotokoll-Ausführungsgesetzes
@@ -30,13 +28,11 @@ Oktober 1998 (BGBl. I S. 3288) verordnet das Bundesministerium für
 Umwelt, Naturschutz und Reaktorsicherheit im Einvernehmen mit dem
 Auswärtigen Amt und dem Bundesministerium für Bildung und Forschung:
 
-
 ## § 1 Zweck
 
 Es wird eine Kommission unabhängiger Sachverständiger zur Beurteilung
 der Umweltauswirkungen von Forschungstätigkeiten in der Antarktis
 gebildet.
-
 
 ## § 2 Zusammensetzung
 
@@ -50,12 +46,10 @@ praktische Erfahrung in der Antarktis verfügen.
 (2) Für jedes Mitglied wird ein stellvertretendes Mitglied berufen;
 Absatz 1 gilt entsprechend.
 
-
 ## § 3 Unabhängigkeit
 
 Die Mitglieder der Kommission und ihre stellvertretenden Mitglieder
 sind unabhängig und nicht an Weisungen gebunden.
-
 
 ## § 4 Berufung der Mitglieder
 
@@ -84,7 +78,6 @@ Einvernehmen mit den in Absatz 1 genannten Bundesministerien
 unverzüglich durch Berufung eines neuen stellvertretenden Mitglieds
 für den Rest der Berufungszeit besetzt.
 
-
 ## § 5 Aufgabe
 
 (1) Die Kommission hat die Aufgabe, Tätigkeiten der wissenschaftlichen
@@ -102,7 +95,6 @@ Grundsätze.
 (3) Die Beurteilung berücksichtigt den Stand der internationalen
 Entwicklung. Eine Prüfung der wissenschaftlichen Notwendigkeit der
 Forschungstätigkeit erfolgt nicht.
-
 
 ## § 6 Beteiligung anderer Personen und Stellen
 
@@ -126,7 +118,6 @@ lassen.
 (4) Die Kommission gibt dem Antragsteller bei Bedarf Gelegenheit zur
 Äußerung.
 
-
 ## § 7 Vorsitzender und Geschäftsordnung
 
 (1) Die Mitglieder der Kommission wählen aus ihrer Mitte ein
@@ -137,7 +128,6 @@ Dauer von drei Jahren. Einmalige Wiederwahl ist möglich.
 Zustimmung des Bundesministeriums für Umwelt, Naturschutz und
 Reaktorsicherheit im Einvernehmen mit dem Auswärtigen Amt und dem
 Bundesministerium für Bildung und Forschung.
-
 
 ## § 8 Sitzungen
 
@@ -150,7 +140,6 @@ stellvertretenden Mitglieder.
 (3) Ist ein Mitglied an der Teilnahme verhindert, unterrichtet es
 unverzüglich sein stellvertretendes Mitglied und das Vorsitzende
 Mitglied der Kommission.
-
 
 ## § 9 Beschlußfassung
 
@@ -168,7 +157,6 @@ herbeigeführt werden. Weiteres regelt die Geschäftsordnung.
 unterschiedlichen Meinungen im Ergebnisprotokoll, in der Beurteilung
 und im Tätigkeitsbericht schriftlich dargelegt. Das Minderheitsvotum
 ist zu begründen.
-
 
 ## § 10 Zusammenarbeit mit dem Umweltbundesamt
 
@@ -189,13 +177,11 @@ Ausführungsgesetzes genannten Schutzgüter sind dem Umweltbundesamt
 innerhalb eines Monats nach Eingang der Unterlagen bei der Kommission
 zuzuleiten.
 
-
 ## § 11 Tätigkeitsbericht
 
 Die Kommission erstellt einen jährlichen Tätigkeitsbericht. Der
 Bericht wird durch das Bundesministerium für Umwelt, Naturschutz und
 Reaktorsicherheit veröffentlicht.
-
 
 ## § 12 Kosten
 
@@ -205,7 +191,6 @@ Richtlinien des Bundesministeriums des Innern für die Abfindung der
 Mitglieder von Beiräten, Ausschüssen, Kommissionen und ähnlichen
 Einrichtungen im Bereich des Bundes vom 12. November 1981 (GMBl. S.
 515) in ihrer jeweils geltenden Fassung.
-
 
 ## § 13 Inkrafttreten
 

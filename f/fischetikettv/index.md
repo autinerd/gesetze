@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 3 § 16 G v. 13.12.2007 I 2930
 
-
 ## Eingangsformel
 
 Das Bundesministerium für Verbraucherschutz, Ernährung und
@@ -39,10 +38,6 @@ Landwirtschaft verordnet
     der durch Artikel 1 Nr. 5 des Gesetzes vom 26. Januar 1998 (BGBl. I S.
     165) geändert worden ist:
 
-
-
-
-
 ## § 1 Anwendungsbereich
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung der
@@ -50,7 +45,6 @@ Verordnungen des Rates und der Kommission der Europäischen
 Gemeinschaft über die gemeinsame Marktorganisation für Erzeugnisse der
 Fischerei und der Aquakultur hinsichtlich der Etikettierung von
 Fischen und Fischereierzeugnissen.
-
 
 ## § 2 Begriffsbestimmung
 
@@ -60,7 +54,6 @@ die gemeinsame Marktorganisation für Erzeugnisse der Fischerei und der
 Aquakultur (ABl. EG Nr. L 17 S. 22) in der jeweils geltenden Fassung
 erfassten Fische, Krebs- und Weichtiere sowie die daraus gewonnenen
 Erzeugnisse.
-
 
 ## § 3 Handelsbezeichnungen
 
@@ -138,7 +131,6 @@ jede Neuaufnahme oder Änderung des Verzeichnisses im Bundesanzeiger.
 Gemeinschaft unverzüglich die Aufstellung des Verzeichnisses, jede
 Neuaufnahme in das Verzeichnis oder Änderung des Verzeichnisses mit.
 
-
 ## § 4 Mittelbare Angabe der Produktionsmethode
 
 Bei der Etikettierung von Fischen oder Fischereierzeugnissen aus der
@@ -152,7 +144,6 @@ Fassung entbehrlich, wenn sich aus der Angabe der Handelsbezeichnung
 im Zusammenhang mit der Angabe des Fanggebietes ergibt, dass es sich
 um eine im Meer gefangene Fischart handelt.
 
-
 ## § 5 Angabe mehrerer Fanggebiete bei Erzeugnissen der Aquakultur
 
 Jeder Marktbeteiligte kann, wenn die Entwicklung von Erzeugnissen der
@@ -160,14 +151,12 @@ Aquakultur in mehreren Fanggebieten im Sinne von Artikel 5 Abs. 1
 Buchstabe c der Verordnung (EG) Nr. 2065/2001 stattgefunden hat, bei
 der Etikettierung entsprechende Angaben machen.
 
-
 ## § 6 Ausnahme von der Etikettierungspflicht
 
 Eine kleine Menge von Fischen oder Fischereierzeugnissen im Sinne von
 Artikel 7 Satz 1 der Verordnung (EG) Nr. 2065/2001 ist gegeben, wenn
 der Wert des Gegenstandes des Veräußerungsgeschäftes den dort
 genannten Betrag nicht übersteigt.
-
 
 ## § 7 Aufbewahrung von Belegen
 
@@ -177,7 +166,6 @@ Etikettierung vorgeschriebenen Angaben ergibt, zwei Jahre
 aufzubewahren. Die Pflicht zur Aufbewahrung beginnt mit dem Zeitpunkt
 der Erstellung des jeweiligen Belegs. Andere Vorschriften, nach denen
 eine längere Aufbewahrungsfrist besteht, bleiben unberührt.
-
 
 ## § 8 Ordnungswidrigkeiten
 
@@ -200,7 +188,6 @@ vorgeschriebenen Weise macht oder den wissenschaftlichen Namen der
 betreffenden Art nicht, nicht richtig, nicht vollständig oder nicht in
 der vorgeschriebenen Weise angibt.
 
-
 ## § 9 Zuständige Verwaltungsbehörde
 
 Die Zuständigkeit für die Verfolgung und Ahndung von
@@ -209,11 +196,9 @@ Ordnungswidrigkeiten nach § 8 des Fischetikettierungsgesetzes und nach
 sie nach § 4 Satz 1 Nr. 1 des Fischetikettierungsgesetzes für die
 Überwachung zuständig ist.
 
-
 ## § 10 Inkrafttreten
 
 Die Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlussformel
 

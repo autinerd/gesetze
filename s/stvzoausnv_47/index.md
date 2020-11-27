@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 19.12.1996 I 2158
 
-
 ## Eingangsformel
 
 Auf Grund
@@ -47,11 +46,9 @@ Auf Grund
 
 nach Anhörung der zuständigen obersten Landesbehörden:
 
-
 ## § 1
 
 -
-
 
 ## § 2
 
@@ -60,7 +57,6 @@ Ordnung dürfen Auspuffanlagen, die mit der Betriebserlaubnis des
 Kraftrades (§§ 20, 21 der Straßenverkehrs-Zulassungs-Ordnung)
 genehmigt wurden, auch ohne EWG-Betriebserlaubniszeichen verwendet
 oder zur Verwendung feilgeboten und veräußert werden.
-
 
 ## § 3
 

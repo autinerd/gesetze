@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 522 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Auf Grund des durch Artikel 2 Nr. 4 des Gesetzes vom 28. April 1980
@@ -31,7 +30,6 @@ Ordnungswidrigkeiten in der Fassung der Bekanntmachung vom 2. Januar
 1975 (BGBl. I S. 80, 520) wird, hinsichtlich des § 8 im Einvernehmen
 mit dem Bundesminister der Finanzen, verordnet:
 
-
 ## § 1 Anwendungsbereich
 
 Diese Verordnung gilt für Schiffe unter fremder Flagge, die dem Erwerb
@@ -40,7 +38,6 @@ Gewässer der Bundesrepublik Deutschland befahren; sie gilt nicht für
 Schiffe, die zur Fischerei oder zu ähnlichen Zwecken verwendet werden.
 Die völkerrechtlichen Regeln über die friedliche Durchfahrt durch das
 Küstenmeer bleiben unberührt.
-
 
 ## § 2 Mindestbesatzung und ihre Mindestbefähigung auf Schiffen unter fremder Flagge
 
@@ -61,7 +58,6 @@ das mindestens den Vorschriften des Übereinkommens vom 7. Juli 1978
 Befähigungszeugnissen und den Wachdienst von Seeleuten (BGBl. 1982 II
 S. 297) entspricht.
 
-
 ## § 3 Sicherheit und Gesundheit von Seeleuten auf Schiffen unter fremder Flagge
 
 Schiffe unter fremder Flagge müssen hinsichtlich Sicherheit und
@@ -69,7 +65,6 @@ Gesundheit der Seeleute zumindest den Anforderungen nach Artikel 2
 Buchstabe a des Übereinkommens Nr. 147 der Internationalen
 Arbeitsorganisation vom 29. Oktober 1976 über Mindestnormen auf
 Handelsschiffen (BGBl. 1980 II S. 606) entsprechen.
-
 
 ## § 4 Aufgaben der See-Berufsgenossenschaft
 
@@ -91,7 +86,6 @@ Abwehr der Gefahren kann die See-Berufsgenossenschaft auch anordnen,
 daß das Auslaufen oder die Weiterfahrt verboten oder von der Erfüllung
 bestimmter Voraussetzungen abhängig ist.
 
-
 ## § 5 Unterrichtung über Mängel und Maßnahmen
 
 Über Mängel nach den §§ 2 oder 3 sowie über Anordnungen unterrichtet
@@ -110,17 +104,12 @@ die See-Berufsgenossenschaft unverzüglich
 
 4.  das Bundesministerium für Verkehr, Bau und Stadtentwicklung.
 
-
-
-
-
 ## § 6 Verantwortlichkeit
 
 Der Eigentümer, der Besitzer und der Schiffsführer eines Schiffes
 unter fremder Flagge sind dafür verantwortlich, daß das Schiff den §§
 2 und 3 entspricht und daß Anordnungen der See-Berufsgenossenschaft
 erfüllt werden.
-
 
 ## § 7 Ordnungswidrigkeiten
 
@@ -133,21 +122,17 @@ Abs. 2 Satz 2 zuwiderhandelt.
 Ordnungswidrigkeiten nach Absatz 1 wird auf die See-
 Berufsgenossenschaft übertragen.
 
-
 ## § 8
 
 -
-
 
 ## § 9 (weggefallen)
 
 -
 
-
 ## § 10 Inkrafttreten
 
 Diese Verordnung tritt am 28. November 1981 in Kraft.
-
 
 ## Schlußformel
 

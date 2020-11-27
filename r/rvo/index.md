@@ -18,357 +18,203 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 7 G v. 23.10.2012 I 2246
 
-
 ## Erstes Buch - Gemeinsame Vorschriften
-
-
 
 ### Erster Abschnitt - Umfang der Reichsversicherung
 
-
-
 #### (XXXX) §§ 1 u. 2 (weggefallen)
-
-
 
 ### Zweiter Abschnitt - Träger der Reichsversicherung
 
-
-
 #### I. - Bezeichnung
-
-
 
 ##### § 3
 
 -
 
-
 #### II. - Rechtsfähigkeit
-
-
 
 ##### § 4
 
 -
 
-
 #### III. - Organe
-
-
 
 ##### (XXXX) §§ 5 bis 11 (weggefallen)
 
-
-
 #### IV. - Ehrenämter
-
-
 
 ##### (XXXX) §§ 12 bis 24 (weggefallen)
 
-
-
 #### V. - Vermögen
 
-
-
 ##### (XXXX) §§ 25 bis 27f (weggefallen)
-
 
 ##### § 27g
 
 -
 
-
 ##### § 28
 
 -
-
 
 ##### § 29
 
 -
 
-
 #### VI. - Aufsicht
-
-
 
 ##### (XXXX) §§ 30 bis 34 (weggefallen)
 
-
-
 ### Dritter Abschnitt - Versicherungsbehörden
 
-
-
 #### I. - Allgemeines
-
-
 
 ##### § 35
 
 -
 
-
 #### II. - Versicherungsämter
-
-
 
 ##### 1. - Errichtung
 
-
-
 ###### (XXXX) §§ 36 bis 38 (weggefallen)
 
-
-
 ##### 2. - Zusammensetzung
-
-
 
 ###### § 39
 
 -
 
-
 ###### (XXXX) §§ 40 bis 55 (weggefallen)
-
-
 
 ##### 3.
 
-
-
 ###### (XXXX) §§ 56 bis 58 (weggefallen)
-
-
 
 ##### 4. - Kosten
 
-
-
 ###### (XXXX) §§ 59 u. 60 (weggefallen)
-
-
 
 #### III.
 
-
-
 ##### (XXXX) §§ 61 bis 82 (weggefallen)
 
-
-
 #### IV.
-
-
 
 ##### (XXXX) §§ 83 bis 109 (weggefallen)
 
-
-
 ### Vierter Abschnitt - Sonstige gemeinsame Vorschriften
-
-
 
 #### I. - Behörden
 
-
-
 ##### (XXXX) §§ 110 bis 114 (weggefallen)
-
-
 
 #### II. - Rechtshilfe
 
-
-
 ##### (XXXX) §§ 115 bis 117 (weggefallen)
-
-
 
 #### III. - Leistungen
 
-
-
 ##### (XXXX) §§ 118 bis 121 (weggefallen)
-
-
 
 #### IV.
 
-
-
 ##### (XXXX) §§ 122 und 123 (weggefallen)
-
-
 
 #### V. - Fristen
 
-
-
 ##### (XXXX) §§ 124 bis 134 (weggefallen)
-
-
 
 #### VI. - Zustellungen
 
-
-
 ##### (XXXX) §§ 135 u. 136 (weggefallen)
-
-
 
 #### VII. - Gebühren und Stempel
 
-
-
 ##### (XXXX) §§ 137 u. 138 (weggefallen)
-
-
 
 #### VIII. - Verbots- und Bußgeldvorschriften, Zwangs- und Ordnungsgelder
 
-
-
 ##### (XXXX) §§ 139 bis 148 (weggefallen)
-
-
 
 #### IX. - Ortslohn
 
-
-
 ##### (XXXX) §§ 149 bis 152 (weggefallen)
-
-
 
 #### X. - Beschäftigungsort
 
-
-
 ##### (XXXX) §§ 153 bis 156 (weggefallen)
-
-
 
 #### XI. - Ausländische Gesetzgebung
 
-
-
 ##### (XXXX) §§ 157 u. 158 (weggefallen)
-
-
 
 #### XII. - Gemeinsame Begriffsbestimmungen
 
-
-
 ##### 1.
-
-
 
 ###### § 159
 
 -
 
-
 ##### 2. - Entgelt
-
-
 
 ###### § 160
 
 -
 
-
 ##### 3. - Landwirtschaft
-
-
 
 ###### § 161
 
 -
 
-
 ##### 4. - Hausgewerbetreibende
-
-
 
 ###### § 162
 
 -
 
-
 ##### 5. - Deutsche Seeschiffahrt
-
-
 
 ###### § 163
 
 -
 
-
 ##### 6. - Geschäftsjahr
-
-
 
 ###### § 164
 
 -
 
-
 ## Zweites Buch - Krankenversicherung
-
-
 
 ### Erster Abschnitt
 
-
-
 #### (XXXX) §§ 165 bis 178 (weggefallen)
-
-
 
 ### Zweiter Abschnitt - Gegenstand der Versicherung
 
 (weggefallen)
 
-
 #### I. - Leistungen im allgemeinen
-
-
 
 ##### § 179 (weggefallen)
 
-
-
 ##### (XXXX) §§ 180 und 180a (weggefallen)
-
 
 #### I a.
 
-
-
 ##### (XXXX) §§ 181 bis 181b (weggefallen)
-
 
 #### II.
 
-
-
 ##### (XXXX) §§ 182 bis 194 (weggefallen)
-
-
 
 #### III. - Leistungen bei Schwangerschaft und Mutterschaft
 
-
-
 ##### (XXXX) §§ 195 bis 200b (weggefallen)
-
-
 
 ##### § 197
 
@@ -378,72 +224,39 @@ auch Anspruch auf Unterkunft, Pflege und Verpflegung. Für diese Zeit
 besteht kein Anspruch auf Krankenhausbehandlung. § 39 Abs. 2 des
 Fünften Buches Sozialgesetzbuch gilt entsprechend.
 
-
 #### IIIa. - Sonstige Hilfen
-
-
 
 #### IV.
 
-
-
 ##### (XXXX) §§ 201 bis 204 (weggefallen)
-
-
 
 #### V.
 
-
-
 ##### (XXXX) §§ 205 bis 205d (weggefallen)
-
 
 #### VI.
 
-
-
 ##### (XXXX) §§ 206 bis 224 (weggefallen)
-
-
 
 ### Dritter Abschnitt
 
-
-
 #### (XXXX) §§ 225 bis 305 (weggefallen)
-
-
 
 ### Vierter Abschnitt - Verfassung
 
-
-
 #### I.
-
-
 
 ##### (XXXX) §§ 306 bis 319a (weggefallen)
 
-
 #### II.
-
-
 
 ##### (XXXX) §§ 320 bis 326 (weggefallen)
 
-
-
 #### III.
-
-
 
 ##### (XXXX) §§ 327 bis 348 (weggefallen)
 
-
-
 #### IV. - Angestellte und Beamte
-
-
 
 ##### § 349
 
@@ -452,13 +265,11 @@ Stellen der Beamten und derjenigen Angestellten, für welche die
 Dienstordnung (§ 351) gilt, mit zwei Drittel Mehrheit durch den
 Vorstand besetzt.
 
-
 ##### § 350
 
 Kommt kein Anstellungsbeschluß zustande, so bestellt die
 Aufsichtsbehörde auf Kosten der Kasse widerruflich die für die
 Geschäfte der Stelle erforderlichen Personen.
-
 
 ##### § 351
 
@@ -471,7 +282,6 @@ Dienstleistung oder zur Vorbereitung beschäftigt werden oder die das
 Amt ohne Entgelt nebenher ausüben, gilt die Dienstordnung nur, soweit
 sie es ausdrücklich vorsieht.
 
-
 ##### § 352
 
 Die Dienstordnung regelt die Rechts- und die allgemeinen
@@ -480,7 +290,6 @@ fachlichen Befähigung, ihre Zahl, die Art der Anstellung, die
 Kündigung oder Entlassung und die Folgen der Nichterfüllung von
 Pflichten. Hierbei dürfen keine weitergehenden Rechtsnachteile
 vorgesehen werden, als sie das Disziplinarrecht für Beamte zuläßt.
-
 
 ##### § 353
 
@@ -502,7 +311,6 @@ vorgesehen werden, als sie das Disziplinarrecht für Beamte zuläßt.
 
 (2) Sie regelt ferner, unter welchen Voraussetzungen Beförderung
 stattfindet.
-
 
 ##### § 354
 
@@ -530,7 +338,6 @@ dürfen, soweit sie nicht gegen die Gesetze verstoßen, nicht gehindert
 werden und gelten an sich nicht als Gründe zur Kündigung oder
 Entlassung.
 
-
 ##### § 355
 
 (1) Vor Aufstellung der Dienstordnung hat der Vorstand die
@@ -544,14 +351,12 @@ ihren Aufgaben steht.
 
 (3) Das gleiche gilt für Änderung der Dienstordnung.
 
-
 ##### § 356
 
 Reicht eine Kasse trotz Aufforderung in der gesetzten Frist keine
 Dienstordnung ein, so stellt die Aufsichtsbehörde die Dienstordnung
 rechtsverbindlich fest. Das gleiche gilt für angeordnete Änderungen
 und Ergänzungen.
-
 
 ##### § 357
 
@@ -568,7 +373,6 @@ Aufsichtsbehörde dazu anhalten.
 (3) Läuft eine Bestimmung des Anstellungsvertrags der Dienstordnung
 zuwider, so ist sie nichtig.
 
-
 ##### § 358
 
 Verträge mit Angestellten, die der Dienstordnung unterstehen sollen
@@ -576,11 +380,9 @@ Verträge mit Angestellten, die der Dienstordnung unterstehen sollen
 abgeschlossen werden, es sei denn, der Angestellte unterstand am 31.
 Dezember 1992 bereits einer Dienstordnung.
 
-
 ##### § 359
 
 -
-
 
 ##### § 360
 
@@ -592,71 +394,45 @@ Landesregierung die zu diesem Zwecke für die Körperschaften und ihre
 Angestellten geltenden Vorschriften auf Orts- und Innungskrankenkassen
 und deren Angestellte ausdehnen.
 
-
 ##### § 361
 
 -
-
 
 ##### § 362
 
 -
 
-
 #### V.
-
-
 
 ##### (XXXX) §§ 363 bis 367e (weggefallen)
 
-
 #### VI. - Verhältnis zu Ärzten, Zahnärzten, Krankenhäusern, Apotheken, Hebammen und Einrichtungen für Haushaltshilfe
-
-
 
 ##### (XXXX) §§ 368 bis 376d (weggefallen)
 
-
 ### Fünfter Abschnitt - Aufsicht
-
-
 
 #### (XXXX) §§ 377 bis 379 (weggefallen)
 
-
-
 ### Sechster Abschnitt
-
-
 
 #### (XXXX) §§ 380 bis 405 (weggefallen)
 
-
-
 ### Abschnitt Sechs A
-
-
 
 #### § 405a
 
 -
 
-
 ### Siebenter Abschnitt - Kassenverbände, Sektionen
-
-
 
 #### § 406
 
 -
 
-
 #### (XXXX) §§ 407 bis 413 (weggefallen)
 
-
-
 #### (XXXX) §§ 414 und 414a (weggefallen)
-
 
 #### § 414b
 
@@ -666,119 +442,67 @@ aufgestellt. Die Dienstordnung und der Stellenplan bedürfen der
 Zustimmung der Vertreterversammlung und der Genehmigung der
 Aufsichtsbehörde.
 
-
 #### (XXXX) §§ 414c bis 415c (weggefallen)
-
 
 ### Achter Abschnitt
 
-
-
 #### (XXXX) §§ 416 bis 502 (weggefallen)
-
-
 
 ### Neunter Abschnitt
 
-
-
 #### (XXXX) §§ 503 bis 525c (weggefallen)
-
 
 ### Zehnter Abschnitt
 
-
-
 #### (XXXX) §§ 526 bis 532 (weggefallen)
-
-
 
 ### Elfter Abschnitt
 
-
-
 #### (XXXX) §§ 533 bis 536a (weggefallen)
-
 
 ## Drittes Buch
 
-
-
 ### (XXXX) §§ 537 bis 1160 (weggefallen)
-
-
 
 #### Zehnter Abschnitt - Bußgeldvorschriften
 
-
-
 ##### (XXXX) §§ 1161 bis 1225
-
-
 
 ##### Anlage 1 (zu § 646 Abs. 1)
 
 -
 
-
 ##### Anlage 2 (zu § 790 Abs. 1)
 
 -
 
-
 ## Viertes Buch
-
-
 
 ### (XXXX) §§ 1226 bis 1500 (weggefallen)
 
-
-
 ## Fünftes Buch
-
-
 
 ### (XXXX) §§ 1501 bis 1543e (weggefallen)
 
-
 ### Fünfter Abschnitt
-
-
 
 #### (XXXX) §§ 1544 bis 1544n (weggefallen)
 
-
 ## Sechstes Buch
-
-
 
 ### (XXXX) §§ 1545 bis 1773 (weggefallen)
 
-
-
 ### B.
-
-
 
 #### (XXXX) §§ 1774 bis 1779 (weggefallen)
 
-
-
 ### C.
-
-
 
 #### (XXXX) §§ 1780 bis 1801 (weggefallen)
 
-
-
 ### D.
 
-
-
 #### (XXXX) §§ 1802 bis 1805 (weggefallen)
-
-
 
 #### Anhang EV Auszug aus EinigVtr Anlage I Kapitel VIII - Sachgebiet G Abschnitt II (Änderungen oder Ergänzungen) - Sachgebiet H Abschnitt I (vom Inkrafttreten ausgenommene Vorschriften) - Sachgebiet I Abschnitt III (Maßgaben für das beigetretene Gebiet) (BGBl. II 1990, 889, 1055, 1057, 1062)
 

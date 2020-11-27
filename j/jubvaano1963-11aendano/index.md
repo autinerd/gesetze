@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BAnz: 1992, Nr 62, 2705
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 8 Abs. 1 der Verordnung über die Gewährung von
@@ -27,11 +25,9 @@ Ausführungsanordnung zur Verordnung über die Gewährung von
 Jubiläumszuwendungen an Beamte und Richter des Bundes vom 4. November
 1963 (BAnz. Nr. 215 vom 16. November 1963) wie folgt geändert:
 
-
 ## I.
 
 -
-
 
 ## II.
 
@@ -41,11 +37,9 @@ dieser Anordnung den Präsidenten der Grenzschutzpräsidien zugewiesene
 Vertretungsbefugnis den mit der Leitung der Grenzschutzpräsidien
 betrauten Beamten übertragen.
 
-
 ## III.
 
 Die Anordnung tritt zum 1. April 1992 in Kraft.
-
 
 ## Schlußformel
 

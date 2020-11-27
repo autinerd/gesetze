@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 § 15 V v. 19.12.2008 I 2868; 2010, 380
 
-
 ## Eingangsformel
 
 Auf Grund des § 9 Abs. 4 des Seeaufgabengesetzes in der Fassung der
@@ -31,7 +30,6 @@ des Gesetzes vom 26. Januar 1998 (BGBl. I S. 156, 340) geändert worden
 ist, verordnet das Bundesministerium für Verkehr, Bau- und
 Wohnungswesen:
 
-
 ## § 1
 
 Küstenschifffahrt im Sinne dieser Verordnung betreibt, wer Fahrgäste
@@ -42,7 +40,6 @@ Seeweges sind die Vorschriften der Flaggenrechtsverordnung vom 4. Juli
 1990 (BGBl. I S. 1389), zuletzt geändert durch Artikel 442 der
 Verordnung vom 29. Oktober 2001 (BGBl. I S. 2785), entsprechend
 anzuwenden.
-
 
 ## § 2
 
@@ -88,7 +85,6 @@ feststellt, dass der Flaggenstaat Schiffen unter der Bundesflagge auf
 der Grundlage der Gegenseitigkeit innerstaatliche Beförderungen im
 Sinne des § 1 eröffnet.
 
-
 ## § 3
 
 (1) Schiffe, die im Königreich Norwegen registriert sind und unter
@@ -100,14 +96,12 @@ für die Zulassung zur Seekabotage im eigenen Land erfüllt.
 Schiffssicherheitsverordnung vom 18. September 1998 (BGBl. I S. 3013,
 3023) in der jeweils geltenden Fassung anzuwenden.
 
-
 ## § 4
 
 Der Antrag muss spätestens zwei Wochen vor dem Transporttermin bei der
 zuständigen Wasser- und Schifffahrtsdirektion eingegangen sein. Später
 gestellte Anträge werden nur in begründeten und auf Verlangen
 nachweisbaren Ausnahmefällen bearbeitet.
-
 
 ## § 5
 
@@ -116,7 +110,6 @@ Vornahme einer einzelnen Handlung für eine bestimmte Zeitdauer erteilt
 werden (Dauergenehmigung), wenn es wegen der mehrfachen Wiederholung
 von Handlungen der gleichen Art zweckmäßig ist und öffentliche
 Interessen nicht gefährdet werden.
-
 
 ## § 6
 
@@ -128,7 +121,6 @@ durchführt.
 (2) Die Zuständigkeit für die Verfolgung und Ahndung von
 Ordnungswidrigkeiten nach Absatz 1 wird auf die Wasser- und
 Schifffahrtsdirektion übertragen.
-
 
 ## § 7
 

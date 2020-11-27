@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 180
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
@@ -27,12 +25,10 @@ zuletzt durch Artikel 184 Nr. 1 der Verordnung vom 25. November 2003
 für Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium
 für Bildung und Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Verfahrensmechaniker/Verfahrensmechanikerin in
 der Steine- und Erdenindustrie wird staatlich anerkannt.
-
 
 ## § 2 Ausbildungsdauer, Fachrichtungen
 
@@ -59,7 +55,6 @@ zwischen den Fachrichtungen
 
 
 gewählt werden.
-
 
 ## § 3 Ausbildungsberufsbild
 
@@ -243,13 +238,6 @@ mindestens die folgenden Fertigkeiten und Kenntnisse:
 
     d)  Probenehmen und Durchführen von Maßnahmen zur Qualitätssicherung.
 
-
-
-
-
-
-
-
 ## § 4 Ausbildungsrahmenplan
 
 (1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach der in der
@@ -266,13 +254,11 @@ Berufsbildungsgesetzes befähigt werden, die insbesondere selbständiges
 Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung
 ist auch in den Prüfungen nach den §§ 7 und 8 nachzuweisen.
 
-
 ## § 5 Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des
 Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan
 zu erstellen.
-
 
 ## § 6 Berichtsheft
 
@@ -280,7 +266,6 @@ Die Auszubildenden haben ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden
 haben das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 7 Zwischenprüfung
 
@@ -345,10 +330,6 @@ beziehen sollen, aus folgenden Gebieten schriftlich lösen:
 
 
 7.  Grundlagen der Elektro-, Mess-, Steuerungs- und Regelungstechnik.
-
-
-
-
 
 ## § 8 Abschlussprüfung
 
@@ -645,7 +626,6 @@ gegenüber jedem der übrigen Prüfungsfächer das doppelte Gewicht.
 Kenntnisprüfung sowie innerhalb der Kenntnisprüfung im Prüfungsfach
 Technologie mindestens ausreichende Leistungen erbracht sind.
 
-
 ## § 9 Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
@@ -653,11 +633,9 @@ Verordnung bestehen, sind die bisherigen Vorschriften anzuwenden, es
 sei denn, die Vertragsparteien vereinbaren die Anwendung der
 Vorschriften dieser Verordnung.
 
-
 ## § 10 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2004 in Kraft.
-
 
 ## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Verfahrensmechaniker/zur Verfahrensmechanikerin in der Steine- und Erdenindustrie
 

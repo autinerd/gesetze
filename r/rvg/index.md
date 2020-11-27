@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 6 G v. 5.12.2012 I 2425
 
-
 ## Abschnitt 1 - Allgemeine Vorschriften
-
-
 
 ### § 1 Geltungsbereich
 
@@ -40,7 +37,6 @@ Gläubigerausschusses, Nachlassverwalter, Zwangsverwalter, Treuhänder
 oder Schiedsrichter oder für eine ähnliche Tätigkeit. § 1835 Abs. 3
 des Bürgerlichen Gesetzbuchs bleibt unberührt.
 
-
 ### § 2 Höhe der Vergütung
 
 (1) Die Gebühren werden, soweit dieses Gesetz nichts anderes bestimmt,
@@ -51,7 +47,6 @@ hat (Gegenstandswert).
 Vergütungsverzeichnis der Anlage 1 zu diesem Gesetz. Gebühren werden
 auf den nächstliegenden Cent auf- oder abgerundet; 0,5 Cent werden
 aufgerundet.
-
 
 ### § 3 Gebühren in sozialrechtlichen Angelegenheiten
 
@@ -66,7 +61,6 @@ berechnet.
 
 (2) Absatz 1 gilt entsprechend für eine Tätigkeit außerhalb eines
 gerichtlichen Verfahrens.
-
 
 ### § 3a Vergütungsvereinbarung
 
@@ -99,7 +93,6 @@ ungerechtfertigte Bereicherung bleiben unberührt.
 
 (4) § 8 des Beratungshilfegesetzes bleibt unberührt.
 
-
 ### § 4 Erfolgsunabhängige Vergütung
 
 (1) In außergerichtlichen Angelegenheiten kann eine niedrigere als die
@@ -123,7 +116,6 @@ Ist die Festsetzung der Vergütung dem Ermessen eines Vertragsteils
 überlassen, gilt die gesetzliche Vergütung als vereinbart.
 
 (4) bis (6)(weggefallen)
-
 
 ### § 4a Erfolgshonorar
 
@@ -157,7 +149,6 @@ Einfluss auf die gegebenenfalls vom Auftraggeber zu zahlenden
 Gerichtskosten, Verwaltungskosten und die von ihm zu erstattenden
 Kosten anderer Beteiligter hat.
 
-
 ### § 4b Fehlerhafte Vergütungsvereinbarung
 
 Aus einer Vergütungsvereinbarung, die nicht den Anforderungen des § 3a
@@ -165,7 +156,6 @@ Abs. 1 Satz 1 und 2 oder des § 4a Abs. 1 und 2 entspricht, kann der
 Rechtsanwalt keine höhere als die gesetzliche Vergütung fordern. Die
 Vorschriften des bürgerlichen Rechts über die ungerechtfertigte
 Bereicherung bleiben unberührt.
-
 
 ### § 5 Vergütung für Tätigkeiten von Vertretern des Rechtsanwalts
 
@@ -175,13 +165,11 @@ Rechtsanwalt durch einen Rechtsanwalt, den allgemeinen Vertreter,
 einen Assessor bei einem Rechtsanwalt oder einen zur Ausbildung
 zugewiesenen Referendar vertreten wird.
 
-
 ### § 6 Mehrere Rechtsanwälte
 
 Ist der Auftrag mehreren Rechtsanwälten zur gemeinschaftlichen
 Erledigung übertragen, erhält jeder Rechtsanwalt für seine Tätigkeit
 die volle Vergütung.
-
 
 ### § 7 Mehrere Auftraggeber
 
@@ -195,7 +183,6 @@ Vergütungsverzeichnisses schuldet er auch insoweit, wie diese nur
 durch die Unterrichtung mehrerer Auftraggeber entstanden ist. Der
 Rechtsanwalt kann aber insgesamt nicht mehr als die nach Absatz 1
 berechneten Gebühren und die insgesamt entstandenen Auslagen fordern.
-
 
 ### § 8 Fälligkeit, Hemmung der Verjährung
 
@@ -212,13 +199,11 @@ anderweitigen Beendigung des Verfahrens. Ruht das Verfahren, endet die
 Hemmung drei Monate nach Eintritt der Fälligkeit. Die Hemmung beginnt
 erneut, wenn das Verfahren weiter betrieben wird.
 
-
 ### § 9 Vorschuss
 
 Der Rechtsanwalt kann von seinem Auftraggeber für die entstandenen und
 die voraussichtlich entstehenden Gebühren und Auslagen einen
 angemessenen Vorschuss fordern.
-
 
 ### § 10 Berechnung
 
@@ -239,7 +224,6 @@ Angabe des Gesamtbetrags.
 erhalten zu haben, kann er die Mitteilung der Berechnung noch fordern,
 solange der Rechtsanwalt zur Aufbewahrung der Handakten verpflichtet
 ist.
-
 
 ### § 11 Festsetzung der Vergütung
 
@@ -295,7 +279,6 @@ der Gebühren ausdrücklich zugestimmt hat. Die Festsetzung auf Antrag
 des Rechtsanwalts ist abzulehnen, wenn er die Zustimmungserklärung des
 Auftraggebers nicht mit dem Antrag vorlegt.
 
-
 ### § 12 Anwendung von Vorschriften für die Prozesskostenhilfe
 
 Die Vorschriften dieses Gesetzes für im Wege der Prozesskostenhilfe
@@ -305,7 +288,6 @@ des § 11a des Arbeitsgerichtsgesetzes und des § 4a der
 Insolvenzordnung entsprechend anzuwenden. Der Bewilligung von
 Prozesskostenhilfe steht die Stundung nach § 4a der Insolvenzordnung
 gleich.
-
 
 ### § 12a Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör
 
@@ -348,7 +330,6 @@ Verfahren fortführt, soweit dies aufgrund der Rüge geboten ist.
 
 (6) Kosten werden nicht erstattet.
 
-
 ### § 12b Elektronische Akte, elektronisches Dokument
 
 (1) Die Vorschriften über die elektronische Akte und das gerichtliche
@@ -371,10 +352,7 @@ mitzuteilen.
 (3) Ein elektronisches Dokument ist eingereicht, sobald die für den
 Empfang bestimmte Einrichtung des Gerichts es aufgezeichnet hat.
 
-
 ## Abschnitt 2 - Gebührenvorschriften
-
-
 
 ### § 13 Wertgebühren
 
@@ -451,7 +429,6 @@ Gesetz als Anlage 2 beigefügt.
 
 (2) Der Mindestbetrag einer Gebühr ist 10 Euro.
 
-
 ### § 14 Rahmengebühren
 
 (1) Bei Rahmengebühren bestimmt der Rechtsanwalt die Gebühr im
@@ -470,7 +447,6 @@ unbillig ist.
 Rechtsanwaltskammer einzuholen, soweit die Höhe der Gebühr streitig
 ist; dies gilt auch im Verfahren nach § 495a der Zivilprozessordnung.
 Das Gutachten ist kostenlos zu erstatten.
-
 
 ### § 15 Abgeltungsbereich der Gebühren
 
@@ -512,7 +488,6 @@ beauftragt, erhält er nicht mehr an Gebühren als der mit der gesamten
 Angelegenheit beauftragte Rechtsanwalt für die gleiche Tätigkeit
 erhalten würde.
 
-
 ### § 15a Anrechnung einer Gebühr
 
 (1) Sieht dieses Gesetz die Anrechnung einer Gebühr auf eine andere
@@ -525,10 +500,7 @@ den Anspruch auf eine der beiden Gebühren erfüllt hat, wegen eines
 dieser Ansprüche gegen ihn ein Vollstreckungstitel besteht oder beide
 Gebühren in demselben Verfahren gegen ihn geltend gemacht werden.
 
-
 ## Abschnitt 3 - Angelegenheit
-
-
 
 ### § 16 Dieselbe Angelegenheit
 
@@ -614,10 +586,6 @@ Dieselbe Angelegenheit sind
 
 13. das erstinstanzliche Prozessverfahren und der erste Rechtszug des
     Musterverfahrens nach dem Kapitalanleger-Musterverfahrensgesetz.
-
-
-
-
 
 ### § 17 Verschiedene Angelegenheiten
 
@@ -720,10 +688,6 @@ Verschiedene Angelegenheiten sind
 12. das Wiederaufnahmeverfahren und das wiederaufgenommene Verfahren, wenn
     sich die Gebühren nach Teil 4 oder 5 des Vergütungsverzeichnisses
     richten.
-
-
-
-
 
 ### § 18 Besondere Angelegenheiten
 
@@ -838,7 +802,6 @@ Verschiedene Angelegenheiten sind
 nach den Vorschriften des Gesetzes über das Verfahren in
 Familiensachen und in den Angelegenheiten der freiwilligen
 Gerichtsbarkeit.
-
 
 ### § 19 Rechtszug; Tätigkeiten, die mit dem Verfahren zusammenhängen
 
@@ -984,10 +947,6 @@ ferner insbesondere
 
 6.  die Aufhebung einer Vollstreckungsmaßnahme.
 
-
-
-
-
 ### § 20 Verweisung, Abgabe
 
 Soweit eine Sache an ein anderes Gericht verwiesen oder abgegeben
@@ -995,7 +954,6 @@ wird, sind die Verfahren vor dem verweisenden oder abgebenden und vor
 dem übernehmenden Gericht ein Rechtszug. Wird eine Sache an ein
 Gericht eines niedrigeren Rechtszugs verwiesen oder abgegeben, ist das
 weitere Verfahren vor diesem Gericht ein neuer Rechtszug.
-
 
 ### § 21 Zurückverweisung, Fortführung einer Folgesache als selbständige Familiensache
 
@@ -1014,10 +972,7 @@ Familiengericht mit dem früheren einen Rechtszug.
 sind das fortgeführte Verfahren und das frühere Verfahren dieselbe
 Angelegenheit.
 
-
 ## Abschnitt 4 - Gegenstandswert
-
-
 
 ### § 22 Grundsatz
 
@@ -1029,7 +984,6 @@ Euro, soweit durch Gesetz kein niedrigerer Höchstwert bestimmt ist.
 Sind in derselben Angelegenheit mehrere Personen Auftraggeber, beträgt
 der Wert für jede Person höchstens 30 Millionen Euro, insgesamt jedoch
 nicht mehr als 100 Millionen Euro.
-
 
 ### § 23 Allgemeine Wertvorschrift
 
@@ -1067,7 +1021,6 @@ nichtvermögensrechtlichen Gegenständen ist der Gegenstandswert mit 4
 000 Euro, nach Lage des Falles niedriger oder höher, jedoch nicht über
 500 000 Euro anzunehmen.
 
-
 ### § 23a Gegenstandswert im Musterverfahren nach dem Kapitalanleger-Musterverfahrensgesetz
 
 Im Musterverfahren nach dem Kapitalanleger-Musterverfahrensgesetz
@@ -1075,18 +1028,15 @@ bestimmt sich der Gegenstandswert nach der Höhe des von dem
 Auftraggeber oder gegen diesen im Ausgangsverfahren geltend gemachten
 Anspruchs, soweit dieser Gegenstand des Musterverfahrens ist.
 
-
 ### § 24 (weggefallen)
 
 -
-
 
 ### § 24 Gegenstandswert im Sanierungs- und Reorganisationsverfahren nach dem Kreditinstitute-Reorganisationsgesetz
 
 Ist der Auftrag im Sanierungs- und Reorganisationsverfahren von einem
 Gläubiger erteilt, bestimmt sich der Wert nach dem Nennwert der
 Forderung.
-
 
 ### § 25 Gegenstandswert in der Zwangsvollstreckung
 
@@ -1125,7 +1075,6 @@ Forderung.
 (2) In Verfahren über Anträge des Schuldners ist der Wert nach dem
 Interesse des Antragstellers nach billigem Ermessen zu bestimmen.
 
-
 ### § 26 Gegenstandswert in der Zwangsversteigerung
 
 In der Zwangsversteigerung bestimmt sich der Gegenstandswert
@@ -1156,10 +1105,6 @@ In der Zwangsversteigerung bestimmt sich der Gegenstandswert
     solches Gebot nicht abgegeben ist, nach dem Wert des Gegenstands der
     Zwangsversteigerung.
 
-
-
-
-
 ### § 27 Gegenstandswert in der Zwangsverwaltung
 
 In der Zwangsverwaltung bestimmt sich der Gegenstandswert bei der
@@ -1170,7 +1115,6 @@ eines Jahres maßgebend. Bei der Vertretung des Schuldners bestimmt
 sich der Gegenstandswert nach dem zusammengerechneten Wert aller
 Ansprüche, wegen derer das Verfahren beantragt ist, bei der Vertretung
 eines sonstigen Beteiligten nach § 23 Abs. 3 Satz 2.
-
 
 ### § 28 Gegenstandswert im Insolvenzverfahren
 
@@ -1191,13 +1135,11 @@ mitzurechnen.
 Berücksichtigung des wirtschaftlichen Interesses, das der Auftraggeber
 im Verfahren verfolgt, nach § 23 Abs. 3 Satz 2 zu bestimmen.
 
-
 ### § 29 Gegenstandswert im Verteilungsverfahren nach der Schifffahrtsrechtlichen Verteilungsordnung
 
 Im Verfahren nach der Schifffahrtsrechtlichen Verteilungsordnung gilt
 § 28 entsprechend mit der Maßgabe, dass an die Stelle des Werts der
 Insolvenzmasse die festgesetzte Haftungssumme tritt.
-
 
 ### § 30 Gegenstandswert in gerichtlichen Verfahren nach dem Asylverfahrensgesetz
 
@@ -1213,7 +1155,6 @@ Werts der Hauptsache. Sind mehrere natürliche Personen an demselben
 Verfahren beteiligt, erhöht sich der Wert für jede weitere Person in
 Klageverfahren um 900 Euro und in Verfahren des vorläufigen
 Rechtsschutzes um 600 Euro.
-
 
 ### § 31 Gegenstandswert in gerichtlichen Verfahren nach dem Spruchverfahrensgesetz
 
@@ -1234,7 +1175,6 @@ die auf die einzelnen Antragsteller entfallenden Werte
 zusammenzurechnen; Nummer 1008 des Vergütungsverzeichnisses ist
 insoweit nicht anzuwenden.
 
-
 ### § 31a Ausschlussverfahren nach dem Wertpapiererwerbs- und Übernahmegesetz
 
 Vertritt der Rechtsanwalt im Ausschlussverfahren nach § 39b des
@@ -1242,7 +1182,6 @@ Wertpapiererwerbs- und Übernahmegesetzes einen Antragsgegner, bestimmt
 sich der Gegenstandswert nach dem Wert der Aktien, die dem
 Auftraggeber im Zeitpunkt der Antragstellung gehören. § 31 Abs. 1 Satz
 2 bis 4 und Abs. 2 gilt entsprechend.
-
 
 ### § 32 Wertfestsetzung für die Gerichtsgebühren
 
@@ -1254,7 +1193,6 @@ Rechtsanwalts maßgebend.
 beantragen und Rechtsmittel gegen die Festsetzung einlegen.
 Rechtsbehelfe, die gegeben sind, wenn die Wertfestsetzung unterblieben
 ist, kann er aus eigenem Recht einlegen.
-
 
 ### § 33 Wertfestsetzung für die Rechtsanwaltsgebühren
 
@@ -1330,10 +1268,7 @@ werden.
 (9) Das Verfahren über den Antrag ist gebührenfrei. Kosten werden
 nicht erstattet; dies gilt auch im Verfahren über die Beschwerde.
 
-
 ## Abschnitt 5 - Außergerichtliche Beratung und Vertretung
-
-
 
 ### § 34 Beratung, Gutachten und Mediation
 
@@ -1354,7 +1289,6 @@ Beratungsgespräch beträgt die Gebühr jedoch höchstens 190 Euro.
 Beratung auf eine Gebühr für eine sonstige Tätigkeit, die mit der
 Beratung zusammenhängt, anzurechnen.
 
-
 ### § 35 Hilfeleistung in Steuersachen
 
 Für die Hilfeleistung bei der Erfüllung allgemeiner Steuerpflichten
@@ -1362,7 +1296,6 @@ und bei der Erfüllung steuerlicher Buchführungs- und
 Aufzeichnungspflichten gelten die §§ 23 bis 39 der
 Steuerberatergebührenverordnung in Verbindung mit den §§ 10 und 13 der
 Steuerberatergebührenverordnung entsprechend.
-
 
 ### § 36 Schiedsrichterliche Verfahren und Verfahren vor dem Schiedsgericht
 
@@ -1381,10 +1314,7 @@ folgenden außergerichtlichen Verfahren entsprechend anzuwenden:
 Terminsgebühr auch, wenn der Schiedsspruch ohne mündliche Verhandlung
 erlassen wird.
 
-
 ## Abschnitt 6 - Gerichtliche Verfahren
-
-
 
 ### § 37 Verfahren vor den Verfassungsgerichten
 
@@ -1419,7 +1349,6 @@ entsprechend. Der Gegenstandswert ist unter Berücksichtigung der in §
 14 Abs. 1 genannten Umstände nach billigem Ermessen zu bestimmen; er
 beträgt mindestens 4.000 Euro.
 
-
 ### § 38 Verfahren vor dem Gerichtshof der Europäischen Gemeinschaften
 
 (1) In Vorabentscheidungsverfahren vor dem Gerichtshof der
@@ -1441,7 +1370,6 @@ Europäischen Gemeinschaften angerechnet, wenn nicht eine im
 Verfahrensrecht vorgesehene schriftliche Stellungnahme gegenüber dem
 Gerichtshof der Europäischen Gemeinschaften abgegeben wird.
 
-
 ### § 39 In Scheidungs- und Lebenspartnerschaftssachen beigeordneter Rechtsanwalt
 
 Der Rechtsanwalt, der nach § 138 des Gesetzes über das Verfahren in
@@ -1452,14 +1380,12 @@ freiwilligen Gerichtsbarkeit, dem Antragsgegner beigeordnet ist, kann
 von diesem die Vergütung eines zum Prozessbevollmächtigten bestellten
 Rechtsanwalts und einen Vorschuss verlangen.
 
-
 ### § 40 Als gemeinsamer Vertreter bestellter Rechtsanwalt
 
 Der Rechtsanwalt kann von den Personen, für die er nach § 67a Abs. 1
 Satz 2 der Verwaltungsgerichtsordnung bestellt ist, die Vergütung
 eines von mehreren Auftraggebern zum Prozessbevollmächtigten
 bestellten Rechtsanwalts und einen Vorschuss verlangen.
-
 
 ### § 41 Prozesspfleger
 
@@ -1468,7 +1394,6 @@ Beklagten als Vertreter bestellt ist, kann von diesem die Vergütung
 eines zum Prozessbevollmächtigten bestellten Rechtsanwalts verlangen.
 Er kann von diesem keinen Vorschuss fordern. § 126 der
 Zivilprozessordnung ist entsprechend anzuwenden.
-
 
 ### § 41a Vertreter des Musterklägers
 
@@ -1505,10 +1430,7 @@ ist unanfechtbar.
 (4) Die Gebühr ist einschließlich der anfallenden Umsatzsteuer aus der
 Landeskasse zu zahlen. Ein Vorschuss kann nicht gefordert werden.
 
-
 ## Abschnitt 7 - Straf- und Bußgeldsachen
-
-
 
 ### § 42 Feststellung einer Pauschgebühr
 
@@ -1554,7 +1476,6 @@ Verwaltungsbehörde. Gegen die Entscheidung kann gerichtliche
 Entscheidung beantragt werden. Für das Verfahren gilt § 62 des
 Gesetzes über Ordnungswidrigkeiten.
 
-
 ### § 43 Abtretung des Kostenerstattungsanspruchs
 
 Tritt der Beschuldigte oder der Betroffene den Anspruch gegen die
@@ -1567,10 +1488,7 @@ Aufrechnung eine Urkunde über die Abtretung oder eine Anzeige des
 Beschuldigten oder des Betroffenen über die Abtretung in den Akten
 vorliegt.
 
-
 ## Abschnitt 8 - Beigeordneter oder bestellter Rechtsanwalt, Beratungshilfe
-
-
 
 ### § 44 Vergütungsanspruch bei Beratungshilfe
 
@@ -1580,7 +1498,6 @@ für die Tätigkeit in Beratungsstellen nach § 3 Abs. 1 des
 Beratungshilfegesetzes besondere Vereinbarungen getroffen sind. Die
 Beratungshilfegebühr (Nummer 2500 des Vergütungsverzeichnisses)
 schuldet nur der Rechtsuchende.
-
 
 ### § 45 Vergütungsanspruch des beigeordneten oder bestellten Rechtsanwalts
 
@@ -1623,7 +1540,6 @@ Bußgeldverfahren (§ 85 Abs. 1 des Gesetzes über Ordnungswidrigkeiten).
 entsprechend anzuwenden. An die Stelle des Gerichts tritt die
 Verwaltungsbehörde.
 
-
 ### § 46 Auslagen und Aufwendungen
 
 (1) Auslagen, insbesondere Reisekosten, werden nicht vergütet, wenn
@@ -1648,7 +1564,6 @@ oder wenn das Gericht die Feststellung nach § 364b Abs. 1 Satz 2 der
 Strafprozessordnung getroffen hat. Dies gilt auch im gerichtlichen
 Bußgeldverfahren (§ 85 Abs. 1 des Gesetzes über Ordnungswidrigkeiten).
 
-
 ### § 47 Vorschuss
 
 (1) Wenn dem Rechtsanwalt wegen seiner Vergütung ein Anspruch gegen
@@ -1665,7 +1580,6 @@ verlangen, wenn der zur Zahlung Verpflichtete (§ 39 oder § 40) mit der
 Zahlung des Vorschusses im Verzug ist.
 
 (2) Bei Beratungshilfe kann der Rechtsanwalt keinen Vorschuss fordern.
-
 
 ### § 48 Umfang des Anspruchs und der Beiordnung
 
@@ -1731,7 +1645,6 @@ Zeitpunkt seiner Bestellung. Werden Verfahren verbunden, kann das
 Gericht die Wirkungen des Satzes 1 auch auf diejenigen Verfahren
 erstrecken, in denen vor der Verbindung keine Beiordnung oder
 Bestellung erfolgt war.
-
 
 ### § 49 Wertgebühren aus der Staatskasse
 
@@ -1823,10 +1736,6 @@ Abs. 1 folgende Gebühren vergütet:
 
     *   391
 
-
-
-
-
 ### § 50 Weitere Vergütung bei Prozesskostenhilfe
 
 (1) Nach Deckung der in § 122 Abs. 1 Nr. 1 der Zivilprozessordnung
@@ -1849,7 +1758,6 @@ einzelnen Rechtsanwälte entfallenden Beträge nach dem Verhältnis der
 jeweiligen Unterschiedsbeträge zwischen den Gebühren nach § 49 und den
 Regelgebühren; dabei sind Zahlungen, die nach § 58 auf den
 Unterschiedsbetrag anzurechnen sind, von diesem abzuziehen.
-
 
 ### § 51 Festsetzung einer Pauschgebühr in Straf- und Bußgeldsachen
 
@@ -1883,7 +1791,6 @@ hören. § 42 Abs. 3 ist entsprechend anzuwenden.
 (3) Absatz 1 gilt im Bußgeldverfahren vor der Verwaltungsbehörde
 entsprechend. Über den Antrag nach Absatz 1 Satz 1 bis 3 entscheidet
 die Verwaltungsbehörde gleichzeitig mit der Festsetzung der Vergütung.
-
 
 ### § 52 Anspruch gegen den Beschuldigten oder den Betroffenen
 
@@ -1924,7 +1831,6 @@ der Entscheidung des Gerichts über den Antrag.
 Im Bußgeldverfahren vor der Verwaltungsbehörde tritt an die Stelle des
 Gerichts die Verwaltungsbehörde.
 
-
 ### § 53 Anspruch gegen den Auftraggeber, Anspruch des zum Beistand bestellten Rechtsanwalts gegen den Verurteilten
 
 (1) Für den Anspruch des dem Privatkläger, dem Nebenkläger, dem
@@ -1950,14 +1856,12 @@ gerichtlich anhängig geworden, entscheidet das Gericht, das den
 Rechtsanwalt als Beistand bestellt hat. § 52 Absatz 3 bis 5 gilt
 entsprechend.
 
-
 ### § 54 Verschulden eines beigeordneten oder bestellten Rechtsanwalts
 
 Hat der beigeordnete oder bestellte Rechtsanwalt durch schuldhaftes
 Verhalten die Beiordnung oder Bestellung eines anderen Rechtsanwalts
 veranlasst, kann er Gebühren, die auch für den anderen Rechtsanwalt
 entstehen, nicht fordern.
-
 
 ### § 55 Festsetzung der aus der Staatskasse zu zahlenden Vergütungen und Vorschüsse
 
@@ -2004,7 +1908,6 @@ Ansprüche gegen die Staatskasse.
 Verwaltungsbehörde entsprechend. An die Stelle des Urkundsbeamten der
 Geschäftsstelle tritt die Verwaltungsbehörde.
 
-
 ### § 56 Erinnerung und Beschwerde
 
 (1) Über Erinnerungen des Rechtsanwalts und der Staatskasse gegen die
@@ -2020,14 +1923,12 @@ die Erinnerung § 33 Abs. 3 bis 8 entsprechend. Das Verfahren über die
 Erinnerung und über die Beschwerde ist gebührenfrei. Kosten werden
 nicht erstattet.
 
-
 ### § 57 Rechtsbehelf in Bußgeldsachen vor der Verwaltungsbehörde
 
 Gegen Entscheidungen der Verwaltungsbehörde im Bußgeldverfahren nach
 den Vorschriften dieses Abschnitts kann gerichtliche Entscheidung
 beantragt werden. Für das Verfahren gilt § 62 des Gesetzes über
 Ordnungswidrigkeiten.
-
 
 ### § 58 Anrechnung von Vorschüssen und Zahlungen
 
@@ -2053,7 +1954,6 @@ verpflichtet. Die Anrechnung oder Rückzahlung erfolgt nur, soweit der
 Rechtsanwalt durch die Zahlungen insgesamt mehr als den doppelten
 Betrag der ihm ohne Berücksichtigung des § 51 aus der Staatskasse
 zustehenden Gebühren erhalten würde.
-
 
 ### § 59 Übergang von Ansprüchen auf die Staatskasse
 
@@ -2081,10 +1981,7 @@ entsprechend.
 
 (3) Absatz 1 gilt entsprechend bei Beratungshilfe.
 
-
 ## Abschnitt 9 - Übergangs- und Schlussvorschriften
-
-
 
 ### § 59a Bekanntmachung von Neufassungen
 
@@ -2101,10 +1998,6 @@ angeben
 
 
 3.  das Inkrafttreten der Änderungen.
-
-
-
-
 
 ### § 60 Übergangsvorschrift
 
@@ -2124,7 +2017,6 @@ Vorschriften geändert werden, auf die dieses Gesetz verweist.
 Gegenstände zu bemessen, gilt für die gesamte Vergütung das bisherige
 Recht auch dann, wenn dies nach Absatz 1 nur für einen der Gegenstände
 gelten würde.
-
 
 ### § 61 Übergangsvorschrift aus Anlass des Inkrafttretens dieses Gesetzes
 
@@ -2147,12 +2039,10 @@ Bundesgebührenordnung für Rechtsanwälte weiterhin anzuwenden und die
 Willenserklärungen beider Parteien nach dem 1. Juli 2004 abgegeben
 worden sind.
 
-
 ### § 62 Verfahren nach dem Therapieunterbringungsgesetz
 
 Die Regelungen des Therapieunterbringungsgesetzes zur
 Rechtsanwaltsvergütung bleiben unberührt.
-
 
 ### Anlage 1 (zu § 2 Abs. 2) Vergütungsverzeichnis
 
@@ -6945,10 +6835,6 @@ Auslagen
         bleibt.
 
     *   in voller Höhe
-
-
-
-
 
 ### Anlage 2 (zu § 13 Abs. 1)
 

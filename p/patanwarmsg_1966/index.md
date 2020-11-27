@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 Abs. 49 G v. 5.5.2004 I 718
 
-
 ## § 1
 
 (1) Wird in einem Rechtsstreit, in dem ein Anspruch aus einem der im
@@ -45,7 +44,6 @@ Bedeutung ist.
 (3) Die Vorschriften des § 117 Abs. 1, des § 119 Abs. 1 Satz 1, des §
 121 Abs. 2 und 3, des § 122 Abs. 1 Nr. 1 Buchstabe b und Nr. 3 und der
 §§ 124, 126 und 127 der Zivilprozeßordnung gelten entsprechend.
-
 
 ## § 2
 

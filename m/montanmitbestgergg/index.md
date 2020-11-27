@@ -20,10 +20,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 Abs. 112 G v. 22.12.2011 I 3044
 
-
 ## Art 1 - Mitbestimmung in herrschenden Unternehmen
-
-
 
 ### § 1
 
@@ -38,7 +35,6 @@ des Bergbaus und der Eisen und Stahl erzeugenden Industrie vom 21. Mai
 Mitbestimmungsrecht haben, regelt sich nach den Vorschriften dieses
 Gesetzes.
 
-
 ### § 2
 
 Liegen bei dem herrschenden Unternehmen nach seinem eigenen
@@ -47,7 +43,6 @@ Montan-Mitbestimmungsgesetzes vor, so gilt für das herrschende
 Unternehmen das Montan-Mitbestimmungsgesetz. Dies gilt auch, solange
 in dem herrschenden Unternehmen das Mitbestimmungsrecht nach § 1 Abs.
 3 des Montan-Mitbestimmungsgesetzes fortbesteht.
-
 
 ### § 3
 
@@ -80,7 +75,6 @@ Soweit Konzernunternehmen und abhängige Unternehmen Umsätze erzielen,
 die nicht auf der Veräußerung selbsterzeugter, bearbeiteter oder
 verarbeiteter Waren beruhen, ist ein Fünftel der unverminderten
 Umsätze anzurechnen.
-
 
 ### § 4
 
@@ -116,7 +110,6 @@ Spitzenorganisationen der Gewerkschaften mitzuteilen.
 
 (6) Die Absätze 1 bis 5 sind nicht anzuwenden, wenn die
 Voraussetzungen des § 3 Abs. 2 Satz 1 Nr. 2 vorliegen.
-
 
 ### § 5
 
@@ -161,7 +154,6 @@ Arbeitnehmer im Sinne dieses Gesetzes.
 Betriebsverfassungsgesetzes. § 4 Abs. 2 des
 Betriebsverfassungsgesetzes ist anzuwenden.
 
-
 ### § 6
 
 (1) Unter den Aufsichtsratsmitgliedern der Arbeitnehmer müssen sich
@@ -184,7 +176,6 @@ berechtigt sind. Die weiteren Wählbarkeitsvoraussetzungen des § 8 Abs.
 
 (3) Die in Absatz 1 bezeichneten Gewerkschaften müssen im Konzern
 vertreten sein.
-
 
 ### § 7
 
@@ -209,7 +200,6 @@ Absatz 1 oder 2 kann nur unter Beteiligung von mindestens der Hälfte
 der wahlberechtigten Arbeitnehmer und nur mit der Mehrheit der
 abgegebenen Stimmen gefaßt werden.
 
-
 ### § 8
 
 (1) Sind nach § 7 die Aufsichtsratsmitglieder der Arbeitnehmer durch
@@ -228,7 +218,6 @@ Betriebsverfassungsgesetzes erfüllen.
 (4) Wird für einen Wahlgang nur ein Wahlvorschlag gemacht, so gelten
 die darin aufgeführten Arbeitnehmer in der angegebenen Reihenfolge als
 gewählt.
-
 
 ### § 9
 
@@ -288,7 +277,6 @@ gelten diese für die Wahl der Delegierten als Arbeitnehmer des nach
 der Zahl der wahlberechtigten Arbeitnehmer größten Betriebs der
 Konzernunternehmen.
 
-
 ### § 10
 
 (1) Zur Wahl der Delegierten können die wahlberechtigten Arbeitnehmer
@@ -298,7 +286,6 @@ des Betriebs unterzeichnet sein.
 
 (2) Jeder Wahlvorschlag soll mindestens doppelt so viele Bewerber
 enthalten, wie in dem Wahlgang Delegierte zu wählen sind.
-
 
 ### § 10a
 
@@ -334,7 +321,6 @@ Gesamtzahl der Delegierten des Betriebs unter die im Zeitpunkt ihrer
 Wahl vorgeschriebene Zahl der auf den Betrieb entfallenden Delegierten
 gesunken ist.
 
-
 ### § 10b
 
 (1) Die Amtszeit eines Delegierten endet vor dem in § 10a bezeichneten
@@ -358,7 +344,6 @@ Ersatzdelegierten werden der Reihe nach aus den nicht gewählten
 Arbeitnehmern derjenigen Wahlvorschläge entnommen, denen die zu
 ersetzenden Delegierten angehören.
 
-
 ### § 10c
 
 (1) Die Delegierten wählen die Aufsichtsratsmitglieder, die nach § 6
@@ -377,7 +362,6 @@ Wahlvorschlag gemacht wird. In diesem Fall muss der Wahlvorschlag
 mindestens doppelt so viele Bewerber enthalten, wie
 Aufsichtsratsmitglieder auf die Arbeitnehmer entfallen.
 
-
 ### § 10d
 
 (1) Die Delegierten wählen die Aufsichtsratsmitglieder, die nach § 6
@@ -391,7 +375,6 @@ findet abweichend von Absatz 1 Mehrheitswahl statt. In diesem Falle
 muß der Wahlvorschlag mindestens doppelt so viele Bewerber enthalten,
 wie Vertreter von Gewerkschaften in den Aufsichtsrat zu wählen sind.
 
-
 ### § 10e
 
 (1) In jedem Wahlvorschlag kann zusammen mit jedem Bewerber für diesen
@@ -400,7 +383,6 @@ Bewerber kann nicht zugleich als Ersatzmitglied vorgeschlagen werden.
 
 (2) Wird ein Bewerber als Aufsichtsratsmitglied gewählt, so ist auch
 das zusammen mit ihm vorgeschlagene Ersatzmitglied gewählt.
-
 
 ### § 10f
 
@@ -412,7 +394,6 @@ Daneben ist in jedem abhängigen Konzernunternehmen das zur
 gesetzlichen Vertretung berufene Organ zur Bekanntmachung in dessen
 Betrieben verpflichtet.
 
-
 ### § 10g
 
 Sind nach § 7 die Aufsichtsratsmitglieder der Arbeitnehmer in
@@ -422,7 +403,6 @@ wahlberechtigt. § 7 Satz 2 des Betriebsverfassungsgesetzes gilt
 entsprechend. Für die Wahl sind die §§ 10c bis 10f mit der Maßgabe
 anzuwenden, daß an die Stelle der Delegierten die wahlberechtigten
 Arbeitnehmer der Konzernunternehmen treten.
-
 
 ### § 10h
 
@@ -450,7 +430,6 @@ entsprechend anzuwenden.
 
 (5) (weggefallen)
 
-
 ### § 10i
 
 (1) Niemand darf die Wahlen nach den §§ 8, 10c, 10d und 10g behindern.
@@ -465,7 +444,6 @@ beeinflussen.
 Versäumnis von Arbeitszeit, die zur Ausübung des Wahlrechts oder der
 Betätigung im Wahlvorstand erforderlich ist, berechtigt den
 Arbeitgeber nicht zur Minderung des Arbeitsentgelts.
-
 
 ### § 10k
 
@@ -492,7 +470,6 @@ Verstoß das Wahlergebnis nicht geändert oder beeinflußt werden konnte.
 
 Die Anfechtung ist nur binnen einer Frist von zwei Wochen, vom Tage
 der Bekanntgabe des Wahlergebnisses an gerechnet, zulässig.
-
 
 ### § 10l
 
@@ -540,7 +517,6 @@ geändert oder beeinfluß werden konnte.
 Die Anfechtung ist nur binnen einer Frist von zwei Wochen, vom Tage
 der Veröffentlichung im Bundesanzeiger an gerechnet, zulässig.
 
-
 ### § 10m
 
 (1) Ein Aufsichtsratsmitglied der Arbeitnehmer kann vor Ablauf der
@@ -571,7 +547,6 @@ Vierteln der abgegebenen Stimmen.
 (4) Die Absätze 1 bis 3 sind für die Abberufung von Ersatzmitgliedern
 entsprechend anzuwenden.
 
-
 ### § 10n
 
 (1) Verliert ein Aufsichtsratsmitglied, das nach § 6 Abs. 1
@@ -580,7 +555,6 @@ erlischt sein Amt.
 
 (2) (weggefallen)
 
-
 ### § 11
 
 Der Aufsichtsrat ist beschlußfähig, wenn mindestens die Hälfte der
@@ -588,11 +562,9 @@ Mitglieder, aus denen er nach diesem Gesetz oder der Satzung insgesamt
 zu bestehen hat, an der Beschlußfassung teilnimmt. § 108 Abs. 2 Satz 4
 des Aktiengesetzes findet Anwendung.
 
-
 ### § 12
 
 -
-
 
 ### § 13
 
@@ -602,11 +574,9 @@ Abs. 3 und § 84 des Aktiengesetzes und § 13 Abs. 1 Satz 1 des Montan-
 Mitbestimmungsgesetzes. § 13 Abs. 2 des Montan-Mitbestimmungsgesetzes
 findet Anwendung.
 
-
 ### § 14
 
 -
-
 
 ### § 15
 
@@ -626,7 +596,6 @@ sind für das zur gesetzlichen Vertretung berufene Organ verbindlich.
 
 (2) Absatz 1 gilt nicht, wenn die Beteiligung des Unternehmens an dem
 anderen Unternehmen weniger als ein Viertel beträgt.
-
 
 ### § 16
 
@@ -655,10 +624,6 @@ anzuwenden, wenn in sechs aufeinanderfolgenden Geschäftsjahren
 2.  kein Unternehmen, in dem die Arbeitnehmer nach den Vorschriften des
     Montan-Mitbestimmungsgesetzes ein Mitbestimmungsrecht haben,
     beherrscht wird.
-
-
-
-
 
 ### § 17
 
@@ -707,13 +672,7 @@ Aufsichtsratsmitgliedern der Arbeitnehmer zu erlassen, insbesondere
 
 11. die Aufbewahrung der Wahlakten und der Abstimmungsakten.
 
-
-
-
-
 ## Art 2 - Anwendung und Änderung des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit
-
-
 
 ### § 18
 
@@ -728,19 +687,13 @@ Rechtsmittel nicht statt.
 Unternehmen Gebühren nach § 121 der Kostenordnung erhoben. § 8 der
 Kostenordnung ist nicht anzuwenden.
 
-
 ### (XXXX) §§ 19 u. 20 (weggefallen)
 
-
-
 ## Art 3 - Übergangs- und Schlußvorschriften
-
-
 
 ### § 21
 
 -
-
 
 ### § 22
 
@@ -772,7 +725,6 @@ eingeleitet werden, ist das Mitbestimmungsergänzungsgesetz in der
 durch Artikel 2 des Zweiten Gesetzes zur Vereinfachung der Wahl der
 Arbeitnehmervertreter in den Aufsichtsrat vom 18. Mai 2004 (BGBl. I S.
 974) geänderten Fassung maßgeblich.
-
 
 ### § 23
 

@@ -19,14 +19,12 @@ Fundstelle
 Zuletzt geändert durch
 :   § 1 V v. 10.4.1978 I 470
 
-
 ## Eingangsformel
 
 Auf Grund des § 15 Abs. 3 des Fremdrentengesetzes in der Fassung des
 Fremdrenten- und Auslandsrenten-Neuregelungsgesetzes vom 25. Februar
 1960 (Bundesgesetzbl. I S. 93) verordnet die Bundesregierung mit
 Zustimmung des Bundesrates:
-
 
 ## § 1
 
@@ -101,10 +99,6 @@ Als gesetzliche Rentenversicherungen werden anerkannt
     durch den Ministerratsbeschluß Nr. 198 vom 15. März 1951 genehmigten
     Satzung des Literaturfonds.
 
-
-
-
-
 ## § 2
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
@@ -112,16 +106,13 @@ Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 § 1 des Fremdrenten- und Auslandsrenten-Neuregelungsgesetzes auch im
 Land Berlin.
 
-
 ## § 3
 
 -
 
-
 ## § 4
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 1959 in Kraft.
-
 
 ## Schlußformel
 

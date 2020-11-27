@@ -21,12 +21,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 69 G v. 9.12.2004 I 3242
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -49,7 +47,6 @@ zwischenstaatlichen Übereinkünften wird zugestimmt:
 
 Das Zweite Zusatzabkommen und die Zusatzvereinbarung werden
 nachstehend veröffentlicht.
-
 
 ## Art 2
 
@@ -82,7 +79,6 @@ Strahlenbehandlung für Krebskranke, solange die Strahlenbehandlung
 nicht im Rahmen des Abkommens erbracht werden kann. § 13 Abs. 1 des
 Fünften Buches Sozialgesetzbuch gilt nicht.
 
-
 ## Art 2a
 
 (1) Für die Anwendung der Rechtsvorschriften über die
@@ -107,12 +103,10 @@ Studenten in der deutschen gesetzlichen Krankenversicherung, die an
 einer staatlichen oder staatlich anerkannten Hochschule in der Schweiz
 eingeschrieben sind oder waren, entsprechend.
 
-
 ## Art 3
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
-
 
 ## Art 4
 

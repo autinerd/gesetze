@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. XIII § 1 Abs. 2 iVm § 2 Abs. 1 G v. 26.5.1972
 
-
 ## Art 1
 
 Auf Grund des § 76 in Verbindung mit § 189 des Bundesbeamtengesetzes
@@ -54,15 +53,10 @@ b)  die Vorsitzenden Richter am Bundesarbeitsgericht und die Vorsitzenden
 c)  die Richter am Bundesarbeitsgericht und die Richter am
     Bundessozialgericht zwei karmesinrote Schnüre in Seide.
 
-
-
-
-
 ## Art 2
 
 Rechtsanwälte und Verwaltungsrechtsräte tragen als Bevollmächtigte der
 Parteien die bei den Gerichten für sie vorgeschriebene Amtstracht.
-
 
 ## Art 3
 

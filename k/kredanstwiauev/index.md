@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1994, 2554
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 2 Abs. 1 des Gesetzes über die Überleitung der
@@ -27,7 +25,6 @@ August 1990 (BGBl. 1990 II S. 885, 896) verordnet das
 Bundesministerium der Finanzen nach Anhörung der Leitungs- und
 Aufsichtsorgane der Staatsbank Berlin und der Kreditanstalt für
 Wiederaufbau:
-
 
 ## § 1
 
@@ -54,7 +51,6 @@ Geschäfte der Staatsbank Berlin. Die Filialen der Staatsbank Berlin
 können zur Durchführung von Mandataraufgaben beibehalten werden; sie
 können kein eigenes Kreditgeschäft betreiben.
 
-
 ## § 2
 
 Die Gewährträgerhaftung des Bundes für die Verbindlichkeiten der
@@ -65,7 +61,6 @@ Staatsbank Berlin nicht ausreicht, um die Verbindlichkeiten zu decken,
 die auf dem übernommenen Geschäft der Staatsbank Berlin beruhen, wird
 der Bund eine Belastung bei der Kreditanstalt für Wiederaufbau durch
 geeignete Maßnahmen ausgleichen.
-
 
 ## § 3
 
@@ -99,7 +94,6 @@ Altersversorgung und von Fristen des Gesetzes zur Verbesserung der
 betrieblichen Altersversorgung können nach dem 1. Juli 1990 bei der
 Staatsbank Berlin verbrachte Beschäftigungszeiten angerechnet werden.
 
-
 ## § 4
 
 (1) Der Vorstand der Kreditanstalt für Wiederaufbau stellt zum 30.
@@ -124,7 +118,6 @@ Staatsbank Berlin übernommene Eigenkapital als gesonderte
 Eigenkapitaleinlage des Bundes unter den Kapitalrücklagen. Das Nähere
 werden der Bund, vertreten durch das Bundesministerium der Finanzen,
 und die Kreditanstalt für Wiederaufbau vertraglich regeln.
-
 
 ## § 5
 

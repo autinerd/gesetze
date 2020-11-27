@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1994, 3667
 
-
-
 ## (XXXX)
 
 Nachstehend mache ich den Organisationserlaß des Bundeskanzlers vom

@@ -19,12 +19,10 @@ Fundstelle
 Geändert durch
 :   Art. 2 Nr. 13 G v. 27. 4.2002 I 1464
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -44,11 +42,9 @@ zwischenstaatlichen Übereinkünften wird zugestimmt:
 Das Abkommen und die Durchführungsvereinbarung werden nachstehend
 veröffentlicht.
 
-
 ## Art 2
 
 (weggefallen)
-
 
 ## Art 3
 
@@ -79,10 +75,6 @@ insbesondere über folgende Gegenstände Regelungen getroffen werden:
 
 5.  die gegenseitige Umrechnung von Versicherungszeiten nach den
     Rechtsvorschriften beider Vertragsstaaten.
-
-
-
-
 
 ## Art 4
 

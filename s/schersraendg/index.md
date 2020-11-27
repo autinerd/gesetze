@@ -15,11 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1977, 1577
 
-
-
 ## (XXXX) Art 1 bis 4
-
-
 
 ## Art 5
 
@@ -41,18 +37,15 @@ Im übrigen findet Artikel 7 des Gesetzes über Maßnahmen auf dem Gebiet
 des Verkehrsrechts und Verkehrshaftpflichtrechts vom 16. Juli 1957
 (BGBl. I S. 710) sinngemäße Anwendung.
 
-
 ## Art 6
 
 -
-
 
 ## Art 7
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin. Die Beschränkungen der
 Lufthoheit im Land Berlin bleiben unberührt.
-
 
 ## Art 8
 

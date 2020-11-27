@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1957, 607
 
-
-
 ## (XXXX)
 
 Auf Grund des § 7 des Gesetzes über die Haftung des Reichs für seine

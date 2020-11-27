@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 5 G v. 24.2.2012 I 206
 
-
 ## Eingangsformel
 
 Auf Grund des § 3a Absatz 6 des
@@ -28,12 +27,10 @@ Nummer 4 Buchstabe f des Gesetzes vom 9. Dezember 2010 (BGBl. I S.
 Restrukturierungsfondsgesetzes vom 9. Dezember 2010 (BGBl. I S. 1900,
 1921) verordnet das Bundesministerium der Finanzen:
 
-
 ## § 1
 
 Die Bundesanstalt für Finanzmarktstabilisierung erhält die anliegende
 Satzung.
-
 
 ## § 2
 
@@ -41,7 +38,6 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Verordnung über die Satzung der Bundesanstalt
 für Finanzmarktstabilisierung vom 5. Juli 2010 (BGBl. I S. 874) außer
 Kraft.
-
 
 ## Anlage (zu § 1) Satzung der Bundesanstalt für Finanzmarktstabilisierung
 

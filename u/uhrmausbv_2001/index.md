@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 1476 (3230)
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
@@ -31,7 +29,6 @@ Oktober 1998 (BGBl. I S. 3288), verordnet das Bundesministerium für
 Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium
 für Bildung und Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Uhrmacher/Uhrmacherin wird
@@ -42,14 +39,9 @@ Der Ausbildungsberuf Uhrmacher/Uhrmacherin wird
 
 2.  gemäß § 25 des Berufsbildungsgesetzes staatlich anerkannt.
 
-
-
-
-
 ## § 2 Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Ausbildungsberufsbild
 
@@ -127,10 +119,6 @@ Fertigkeiten und Kenntnisse:
 
 21. Instandhalten von industriell gefertigtem Schmuck.
 
-
-
-
-
 ## § 4 Ausbildungsrahmenplan
 
 (1) Die in § 3 genannten Fertigkeiten und Kenntnisse sollen nach der
@@ -148,12 +136,10 @@ Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges
 Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung
 ist auch in den Prüfungen nach den §§ 7 und 8 nachzuweisen.
 
-
 ## § 5 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegen des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 6 Berichtsheft
 
@@ -161,7 +147,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 7 Zwischenprüfung
 
@@ -194,7 +179,6 @@ Fachgespräch soll der Prüfling zeigen, dass er fachbezogene Probleme
 und deren Lösungen darstellen, die für die Arbeitsaufgabe relevanten
 fachlichen Hintergründe aufzeigen sowie die Vorgehensweise bei der
 Durchführung der Arbeitsaufgabe begründen kann.
-
 
 ## § 8 Abschlussprüfung/Gesellenprüfung
 
@@ -343,7 +327,6 @@ Werden die Prüfungsleistungen in der Arbeitsaufgabe einschließlich
 Dokumentation, im Fachgespräch oder in einem der drei Prüfungsbereiche
 mit ungenügend bewertet, so ist die Prüfung nicht bestanden.
 
-
 ## § 9 Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
@@ -351,11 +334,9 @@ Verordnung bestehen, sind die bisherigen Vorschriften weiter
 anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
 Anwendung der Vorschriften dieser Verordnung.
 
-
 ## § 10 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2001 in Kraft.
-
 
 ## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Uhrmacher/zur Uhrmacherin
 

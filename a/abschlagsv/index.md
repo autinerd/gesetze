@@ -18,15 +18,12 @@ Fundstelle
 Geändert durch
 :   Art. 4 Nr. 1 G v. 23.10.2008 I 2022
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 27a des AGB-Gesetzes in der Fassung der Bekanntmachung
 vom 29. Juni 2000 (BGBl. I S. 946) verordnet das Bundesministerium der
 Justiz im Einvernehmen mit dem Bundesministerium für Wirtschaft und
 Technologie:
-
 
 ## § 1 Zulässige Abschlagszahlungsvereinbarungen
 
@@ -42,7 +39,6 @@ Bauträgerverordnung kann der Besteller auch abweichend von ihrem § 3
 Abs. 1 und 2 zur Leistung von Abschlagszahlungen verpflichtet werden.
 § 632a Abs. 3 des Bürgerlichen Gesetzbuchs findet Anwendung.
 
-
 ## § 2 Betroffene Verträge
 
 Diese Verordnung ist auch auf zwischen dem 1. Mai 2000 und dem 29. Mai
@@ -50,13 +46,11 @@ Diese Verordnung ist auch auf zwischen dem 1. Mai 2000 und dem 29. Mai
 zwischen den Vertragsparteien ein rechtskräftiges Urteil ergangen oder
 ein verbindlich gewordener Vergleich abgeschlossen worden ist.
 
-
 ## § 2a Übergangsregelung
 
 Die Verordnung ist in ihrer vom 1. Januar 2009 an geltenden Fassung
 nur auf Schuldverhältnisse anzuwenden, die seit diesem Tag entstanden
 sind.
-
 
 ## § 3 Inkrafttreten
 

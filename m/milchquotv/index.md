@@ -21,9 +21,7 @@ Neugefasst durch
 Geändert durch
 :   Art. 2 Abs. 98 G v. 22.12.2011 I 3044
 
-
 ## Abschnitt 1 - Allgemeine Vorschriften
-
 
 ### § 1 Anwendungsbereich
 
@@ -31,7 +29,6 @@ Diese Verordnung dient der Durchführung der Rechtsakte der
 Europäischen Gemeinschaft oder der Europäischen Union über das
 Quotensystem für Milch und andere Milcherzeugnisse (EU-
 Milchquotenregelung).
-
 
 ### § 2 Zuständigkeiten
 
@@ -47,7 +44,6 @@ Milchquotenregelung (Milcherzeuger) zuständigen Stellen nach dem
 Betriebssitz des Milcherzeugers. Ist der Inhaber einer Quote kein
 Milcherzeuger, ist der Betriebssitz oder vormalige Betriebssitz, von
 dem aus die Quote zuletzt genutzt werden konnte, maßgeblich.
-
 
 ### § 3 Betriebssitz
 
@@ -65,7 +61,6 @@ Verlagerung derjenigen Landesstelle, die in Bezug auf den vormaligen
 Betriebssitz für besondere Übertragungen (§§ 21 bis 30) zuständig war,
 anzuzeigen.
 
-
 ### § 4 Unschädliche Beseitigung
 
 Soweit Milchmengen einen Betrieb zum Zwecke der unschädlichen
@@ -77,7 +72,6 @@ unter Angabe der beseitigten Milchmengen dem für ihn zuständigen
 Hauptzollamt unverzüglich anzuzeigen. Der Anzeige sind eine
 Durchschrift der amtlichen Anordnung und ein Nachweis, dass die
 Beseitigung vorgenommen wurde, beizufügen.
-
 
 ### § 5 Bundes- und Landesreserven
 
@@ -91,7 +85,6 @@ Einvernehmen mit dem Bundesministerium für Ernährung, Landwirtschaft
 und Verbraucherschutz (Bundesministerium) und die Landesreserven
 werden von den jeweils zuständigen Stellen der Länder (Landesstellen)
 verwaltet.
-
 
 ### § 6 Einziehung und Zuteilung
 
@@ -119,7 +112,6 @@ Einziehung von Direktverkaufsquoten den zuständigen Landesstellen und
 die Zuteilung von Direktverkaufsquoten den Hauptzollämtern. Eine
 eingezogene Direktverkaufsquote überweist das Land der Bundesreserve.
 
-
 ### § 7 Überschussabgabe
 
 Soweit nach der EU-Milchquotenregelung und unter Berücksichtigung der
@@ -137,15 +129,9 @@ wird die Überschussabgabe
     und Milcherzeugnismengen erhoben, die er direkt verkauft hat und seine
     Direktverkaufsquote überschreiten.
 
-
-
-
-
 ## Abschnitt 2 - Übertragungen
 
-
 ### Unterabschnitt 1 - Allgemeine Regelungen
-
 
 #### § 8 Grundsätze
 
@@ -221,7 +207,6 @@ jede Übertragung einer amtlichen Bescheinigung
 (Übertragungsbescheinigung), ohne die der Übernehmer das Innehaben der
 Quote nicht geltend machen kann.
 
-
 #### § 9 Pflicht zur Weiterübertragung
 
 (1) Soweit der Übernehmer in den in § 8 Absatz 2 Satz 2 genannten
@@ -253,7 +238,6 @@ um höchstens zwei Übertragungsstellentermine verlängert werden.
 Dritten angefochten, tritt an die Stelle der Bekanntgabe im Sinne des
 Absatzes 1 Satz 1 der Zeitpunkt der Unanfechtbarkeit der Übernahme.
 
-
 #### § 10 Umgehungen
 
 (1) Die Bestimmungen der EU-Milchquotenregelung, nach denen ein im
@@ -274,9 +258,7 @@ eine den gegebenen Tatsachen und Verhältnissen unangemessene
 Gestaltungsmöglichkeit benutzt, um die Voraussetzungen für die
 Übertragung von Quoten zu schaffen.
 
-
 ### Unterabschnitt 2 - Übertragungsstellenverfahren für Anlieferungsquoten
-
 
 #### § 11 Grundsätze
 
@@ -309,7 +291,6 @@ Eingang bei der Übertragungsstelle gebunden ist.
 (5) Übertragen und übernommen werden Quoten zu einem
 Standardfettgehalt von 4 vom Hundert (Standardfettgehalt). Angebotene
 Quoten werden auf den Standardfettgehalt umgerechnet.
-
 
 #### § 12 Angebote
 
@@ -398,7 +379,6 @@ Quoten im Rahmen eines Übertragungsstellenverfahrens erworben hat. Die
 Anerkennung als Härtefall ist im Rahmen des Absatzes 4 unter Beifügung
 entsprechender Nachweise zu beantragen.
 
-
 #### § 13 Nachfragegebote
 
 (1) Nachfragegebote müssen folgende Angaben enthalten:
@@ -438,7 +418,6 @@ der in § 19 Absatz 5 Satz 2 bestimmten Zahlungsfrist, tritt die
 Sicherheit in Höhe des Entgelts an die Stelle des Entgelts und wird im
 Übrigen freigegeben.
 
-
 #### § 14 Einreichung und Bestätigung der Gebote
 
 (1) Die Gebote sind für den Übertragungsstellentermin
@@ -468,7 +447,6 @@ Gebotes und den Anbietern zudem die Höhe der auf den
 Standardfettgehalt umgerechneten Quote. Unzulässige Gebote werden vor
 dem Übertragungsstellentermin durch Bescheid zurückgewiesen.
 
-
 #### § 15 Übertragungsbereiche
 
 (1) Das Übertragungsstellenverfahren wird für jeden der in Absatz 2
@@ -477,7 +455,6 @@ genannten Übertragungsbereiche getrennt durchgeführt.
 (2) Die Länder Berlin, Brandenburg, Mecklenburg-Vorpommern, Sachsen,
 Sachsen-Anhalt und Thüringen bilden den Übertragungsbereich Ost; die
 übrigen Länder bilden den Übertragungsbereich West.
-
 
 #### § 16 Übertragungsstellen
 
@@ -522,7 +499,6 @@ hat. Hat ein Anbieter seinen Betriebssitz in einen anderen
 Zwölfmonatszeitraum der Verlagerung und dem folgenden
 Zwölfmonatszeitraum der Betriebssitz im vorherigen Übertragungsbereich
 maßgeblich.
-
 
 #### § 17 Gleichgewichtspreis
 
@@ -583,7 +559,6 @@ Absatz 1 Satz 3 findet entsprechende Anwendung. Vor der Bekanntgabe
 ist Stillschweigen über den Gleichgewichtspreis und alle sonstigen mit
 dem Übertragungsstellenverfahren verbundenen Daten zu wahren.
 
-
 #### § 18 Festlegung der Übertragungen
 
 (1) Quoten von Anbietern, deren geforderter Angebotspreis niedriger
@@ -608,7 +583,6 @@ berechnet, indem die Differenz zwischen den zum Gleichgewichtspreis
 angebotenen und nachgefragten Mengen in das Verhältnis zu der zum
 Gleichgewichtspreis angebotenen Menge gesetzt wird. Der Kürzungssatz
 wird auf drei Nachkommastellen berechnet.
-
 
 #### § 19 Durchführung der Übertragungen
 
@@ -650,7 +624,6 @@ der Grundlage der Übertragungsbescheinigung erfolgt eine Neuberechnung
 nach § 35. Die Übertragungsstelle zahlt innerhalb von 14 Tagen nach
 Eingang sämtlicher Entgelte aller Nachfrager das Entgelt für die
 jeweils übertragene Quote an die Anbieter.
-
 
 #### § 20 Aufzeichnungen
 
@@ -703,9 +676,7 @@ die in Absatz 2 Nummer 3 bis 5 genannten Aufzeichnungen. Die
 Aufzeichnungen der Übertragungsstelle Ost werden nachrichtlich den
 Ländern des Übertragungsbereichs Ost übermittelt.
 
-
 ### Unterabschnitt 3 - Besondere Übertragungen
-
 
 #### § 21 Erbfolge, Verwandte und Ehegatten
 
@@ -718,7 +689,6 @@ Dauerhaftigkeit der Übertragung nicht.
 
 (2) Eine Quote kann zwischen Verwandten in gerader Linie, Ehegatten
 oder eingetragenen Lebenspartnern übertragen werden.
-
 
 #### § 22 Betriebsübertragung
 
@@ -803,7 +773,6 @@ Nr. 1290/2005, (EG) Nr. 247/2006, (EG) Nr. 387/2007 sowie zur
 Aufhebung der Verordnung (EG) Nr. 1782/2003 (ABl. L 30 vom 31.1.2009,
 S. 16) in ihrer jeweils geltenden Fassung ausgeübt wird.
 
-
 #### § 23 Gesellschafterstellung
 
 (1) Handelt es sich im Falle einer Übertragung nach § 22 Absatz 1 Satz
@@ -830,7 +799,6 @@ erforderlich ist, haben Gesellschaften, die über eine Quote verfügen,
 auf Verlangen der zuständigen Landesstelle oder zuständigen Stelle der
 Bundesfinanzverwaltung die Aufteilung und Inhaberschaft der
 Gesellschaftsanteile mitzuteilen und nachzuweisen.
-
 
 #### § 24 Beschränkungen zur Abgrenzung der Übertragungsbereiche
 
@@ -879,7 +847,6 @@ Hauptzollamt.
 (5) § 23 Absatz 4 findet auf die Überwachung der Einhaltung der
 Absätze 2 bis 4 entsprechende Anwendung.
 
-
 #### § 25 Ausscheiden eines Gesellschafters; Auflösung einer Gesellschaft
 
 (1) Scheidet ein Gesellschafter aus einer Gesellschaft, die Inhaber
@@ -905,7 +872,6 @@ folgende Zwölfmonatszeitraum abgelaufen ist, kann nur auf denjenigen
 Gesellschafter rückübertragen werden, der die jeweilige Quote auf die
 Gesellschaft übertragen hat.
 
-
 #### § 26 Zwangsweise Übertragung
 
 Die zwangsweise Übertragung einer Quote zur wirtschaftlichen
@@ -918,7 +884,6 @@ der Quote über keinen Milcherzeugungsbetrieb verfügt oder sein
 Milcherzeugungsbetrieb im Rahmen der wirtschaftlichen Verwertung
 aufgelöst oder zusammen mit der Quote nach § 22 Absatz 1 Satz 1
 übertragen wird.
-
 
 #### § 27 Verfahren der Übertragungsbescheinigung
 
@@ -1023,7 +988,6 @@ Verhältnisse offenzulegen.
 Übertragenden und den Übernehmer zuständigen Käufern übermittelt
 werden.
 
-
 #### § 28 Inhalt der Übertragungsbescheinigung
 
 (1) Die Übertragungsbescheinigung nach § 27 enthält
@@ -1053,7 +1017,6 @@ werden.
 (2) Die zuständige Landesstelle kann soweit erforderlich weitere
 Angaben in die Übertragungsbescheinigung aufnehmen.
 
-
 #### § 29 Spätere Antragstellung
 
 (1) Erfolgt die Antragstellung nach § 27 Absatz 1 in einem dem
@@ -1065,7 +1028,6 @@ bescheinigt werden.
 
 (2) Absatz 1 findet im Falle der Beendigung einer zeitweiligen
 Übertragung nach § 22 Absatz 2 keine Anwendung.
-
 
 #### § 30 Zeitweilige Übertragung im Falle verendeter oder getöteter Milchkühe
 
@@ -1144,9 +1106,7 @@ entgeltlich bezieht, soweit es sich bei dieser Person ebenfalls um
 einen Käufer handelt. In der Registrierung nach Absatz 3 Satz 1 ist
 auf ein Vorliegen des Satzes 1 hinzuweisen.
 
-
 ## Abschnitt 3 - Kürzung, Einziehung, Umwandlung und Saldierung
-
 
 ### § 31 Kürzung von Quoten und Referenzfettgehalten
 
@@ -1170,7 +1130,6 @@ Zwölfmonatszeitraum, der auf den Zwölfmonatszeitraum folgt, in dem die
 Zwölfmonatszeitraums, in dem sie wirksam wird, in Form einer
 Neuberechnung nach § 35 sämtlichen von der Kürzung betroffenen
 Inhabern von Quoten mitzuteilen.
-
 
 ### § 32 Einziehung nicht genutzter Quoten
 
@@ -1227,7 +1186,6 @@ Direktverkaufsquoten mit der Maßgabe Anwendung, dass das für den
 Inhaber der Quote zuständige Hauptzollamt die Quote in die
 Bundesreserve einzieht.
 
-
 ### § 33 Umwandlung von Quoten
 
 (1) Soll nach der EU-Milchquotenregelung eine noch nicht für die
@@ -1279,7 +1237,6 @@ Anlieferungen oder Direktverkäufen und seiner jeweiligen Anlieferungs-
 oder Direktverkaufsquote während eines der in Satz 2 genannten
 Zwölfmonatszeiträume, kann das Hauptzollamt die Umwandlung widerrufen.
 
-
 ### § 34 Saldierung nicht genutzter Quoten
 
 (1) Soweit die einzelstaatliche Anlieferungsquote der Bundesrepublik
@@ -1330,9 +1287,7 @@ ausgeschlossen.
 Direktverkaufsquoten, die in einem Zwölfmonatszeitraum nicht genutzt
 worden sind, entsprechend den Absätzen 2 bis 5 vor.
 
-
 ## Abschnitt 4 - Durchführung und Kontrolle
-
 
 ### § 35 Neuberechnung von Quoten und Referenzfettgehalten
 
@@ -1378,7 +1333,6 @@ Neuberechnung erst vornehmen, wenn ihm die Neuberechnung des für den
 (8) Die Absätze 1 bis 6 gelten vorbehaltlich der besonderen
 Bestimmungen des § 19 Absatz 4 und 6.
 
-
 ### § 36 Beförderungsdokumente
 
 Soweit nach der EU-Milchquotenregelung während der Beförderung von
@@ -1388,7 +1342,6 @@ in elektronischer Form vorliegen, ist der jeweilige Käufer
 verpflichtet, auf seine Kosten unmittelbar nach der Ankunft im Betrieb
 des Käufers den zuständigen Stellen auf deren Verlangen Ausdrucke der
 Dokumente zur Verfügung zu stellen.
-
 
 ### § 37 Zulassung der Käufer
 
@@ -1404,7 +1357,6 @@ Hauptzollamt erteilt die Zulassung durch Bescheid.
 
 (2) Milcherzeuger dürfen Milch nur an Käufer liefern, die zugelassen
 sind.
-
 
 ### § 38 Käuferwechsel
 
@@ -1436,7 +1388,6 @@ Lieferungsentgelt einbehalten, hat er dieses Entgelt dem neuen Käufer
 zu übermitteln. Der neue Käufer hat das übermittelte Entgelt bei der
 Erhebung der Überschussabgabe zu berücksichtigen. Ist keine
 Überschussabgabe zu erheben, ist das Entgelt von ihm auszuzahlen.
-
 
 ### § 39 Erhebung der Überschussabgabe bei Anlieferungen
 
@@ -1481,7 +1432,6 @@ auch in Verbindung mit § 23 Absatz 1, vorgenommen wird.
 (4) Erhobene Überschussabgaben und Vorauszahlungen sind vom Käufer im
 Rahmen seiner Buchführung auf einem gesonderten Konto
 (Milchabgabenkonto) zu verbuchen.
-
 
 ### § 40 Mitteilungen der Käufer
 
@@ -1649,7 +1599,6 @@ Anlieferungsquote betreffen. Durch die Mitteilung wird die Erhebung
 der Überschussabgabe für den jeweiligen Zwölfmonatszeitraum dem
 Milcherzeuger bekannt gegeben.
 
-
 ### § 41 Mehrere Käufer
 
 (1) Liefert ein Milcherzeuger Milch gleichzeitig an mehrere Käufer,
@@ -1670,7 +1619,6 @@ Angaben durch urschriftliche Belege nachzuweisen. Soweit er nicht über
 solche Belege verfügt, hat ihm diese der andere Käufer auf Antrag
 unverzüglich zu übermitteln.
 
-
 ### § 42 Erhebung der Überschussabgabe bei Direktverkäufen
 
 (1) Die Abgabeanmeldung, die ein Milcherzeuger im Falle von
@@ -1684,7 +1632,6 @@ eine Meldung entsprechend Satz 1 abgeben.
 (2) Der Betrag der Überschussabgabe ist von dem in Absatz 1 Satz 1
 genannten Milcherzeuger innerhalb von sechs Monaten nach Ablauf des
 jeweiligen Zwölfmonatszeitraums an die Bundeskasse Kiel abzuführen.
-
 
 ### § 43 Äquivalenzmengen für Käse
 
@@ -1758,7 +1705,6 @@ Kilogramm Käse wie folgt festgesetzt:
 (2) Für die Rahmmengen, die bei der Käseherstellung zusätzlich
 anfallen, erfolgt keine erneute Äquivalenzmengenberechnung.
 
-
 ### § 44 Mitwirkungspflichten
 
 Soweit es für die Durchführung der Milchquotenregelung einschließlich
@@ -1770,7 +1716,6 @@ Bücher, Aufzeichnungen, Belege und sonstigen Unterlagen zur Einsicht
 vorzulegen, Auskunft zu erteilen und die erforderliche Unterstützung
 zu gewähren. Elektronisch gespeicherte Daten sind auf Verlangen
 auszudrucken.
-
 
 ### § 45 Aufbewahrungsfristen
 
@@ -1799,7 +1744,6 @@ den jeweils neuen Käufern in einem geordneten Zustand zu übergeben.
 Mit der Übergabe gehen die Pflichten nach Absatz 1 Satz 1 und Absatz 2
 auf die neuen Käufer über.
 
-
 ### § 46 Mitteilungen der Länder
 
 Die Länder teilen der vom Bundesministerium der Finanzen bekannt zu
@@ -1826,12 +1770,7 @@ Zwölfmonatszeitraums Folgendes mit:
 2.  die Höhe der zum Ablauf des Zwölfmonatszeitraums vorhandenen
     Landesreserven.
 
-
-
-
-
 ## Abschnitt 5 - Übergangs- und Schlussvorschriften
-
 
 ### § 47 Ordnungswidrigkeiten
 
@@ -1855,10 +1794,6 @@ Direktzahlungen handelt, wer vorsätzlich oder fahrlässig
 
 5.  entgegen § 45 Absatz 3 Satz 1 eine Unterlage nicht oder nicht
     ordnungsgemäß übergibt.
-
-
-
-
 
 ### § 48 Behandlung laufender Pachtverträge
 
@@ -1919,7 +1854,6 @@ oder Flächenbindung der Quote besteht, ist diese mit dem Ende des
 Pachtvertrages sowie der zugehörigen Betriebs- oder Flächenrückgabe
 aufgehoben.
 
-
 ### § 49 Übernahmerecht des Pächters
 
 (1) Soweit Quoten nach § 48 Absatz 3 Satz 1 bei Beendigung des
@@ -1972,7 +1906,6 @@ Landesstelle im Rahmen des Nachweises nach Absatz 6 vorzulegen.
 Landesstelle die rechtzeitige Geltendmachung des Übernahmerechts und
 die rechtzeitige Zahlung des Entgelts nachweist.
 
-
 ### § 50 Übertragung übernommener Quoten
 
 (1) Übt der Pächter sein Übernahmerecht aus, darf er innerhalb eines
@@ -1986,7 +1919,6 @@ Absatz 2 besteht.
 
 (2) In Fällen besonderer Härte kann von einer Einziehung ganz oder
 teilweise abgesehen werden.
-
 
 ### § 51 Ausnahmen
 
@@ -2039,13 +1971,11 @@ Satz 3 auf eine Gesellschaft im Sinne des § 23 Absatz 1 übertragen
 wird und der Übertragende die in § 23 Absatz 2 bestimmte Pflicht
 erfüllt.
 
-
 ### § 52 Übertragungsbescheinigungen bei Beendigung von Pachtverträgen
 
 Übertragungen nach den §§ 48 bis 51 werden durch eine
 Übertragungsbescheinigung bescheinigt. Soweit die §§ 48 bis 51 nichts
 anderes bestimmen, gelten die §§ 27 bis 29 Absatz 1 entsprechend.
-
 
 ### § 53 Zuteilung von Quoten in den Zwölfmonatszeiträumen 2009/10 bis 2013/14
 
@@ -2119,7 +2049,6 @@ einschließlich 2013/14 jeweils erhöht, nicht für den jeweiligen
 Zwölfmonatszeitraum nach Absatz 1 zugeteilt werden, fallen diese
 Quoten als Anlieferungsquoten in die Bundesreserve.
 
-
 ### § 54 Neuberechnung auf Grund einer Erhöhung nach § 53
 
 (1) Die von einer Erhöhung nach § 53 Absatz 1 Satz 1 betroffenen
@@ -2138,7 +2067,6 @@ eine Neuberechnung ihrer Quote, die diese Erhöhung gesondert ausweist.
 
 vor.
 
-
 ### § 55 Erhöhung von zeitweilig übertragenen Quoten
 
 (1) Soweit es sich bei der nach § 53 Absatz 1 Satz 1 der Erhöhung
@@ -2154,14 +2082,12 @@ dauerhafte Übertragung der nach Absatz 1 Satz 1 verbleibenden Quote
 auf den zeitweilig Übertragenden mit Wirkung ab dem Ende der
 zeitweiligen Übertragung schriftlich vereinbaren.
 
-
 ### § 56 Abweichung durch Landesrecht
 
 Von den Bestimmungen über das Verwaltungsverfahren in § 2 Absatz 2, §§
 3 und 12 Absatz 4, § 13 Absatz 3 Satz 1, § 14 Absatz 3, §§ 16 und 17
 Absatz 5, §§ 19, 20 und 24 Absatz 4 sowie §§ 27, 28, 44 und 52 kann
 durch Landesrecht nicht abgewichen werden.
-
 
 ### § 57 Übergangsregelungen
 
@@ -2250,10 +2176,6 @@ Ist eine vormalige Beschränkung Inhalt einer amtlichen Bescheinigung
 6.  zeitliche Übertragungsbeschränkungen nach der Ausübung des
     Übernahmerechts.
 
-
-
-
-
 ### § 58 Aufhebung von Vorschriften
 
 (1) Die Milchabgabenverordnung vom 7. März 2007 (BGBl. I S. 295) wird
@@ -2266,7 +2188,6 @@ Garantiemengen-Verordnung in der Fassung der Bekanntmachung vom 21.
 März 1994 (BGBl. I S. 586), zuletzt geändert durch die Verordnung vom
 25\. März 1996 (BGBl. I S. 535), anordnet, gelten diese Bestimmungen
 auch nach dieser Verordnung fort.
-
 
 ### § 59 (Inkrafttreten)
 

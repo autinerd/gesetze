@@ -22,7 +22,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 14 u. 18 Nr. 2 G v. 23.12.2007 I 3254
 
-
 ## § 1 Reihenfolge der Tilgung
 
 (1) Darlehen nach dem Ausbildungsförderungsgesetz vom 19. September
@@ -69,18 +68,15 @@ jüngeren zu tilgen.
 
 (6) (Aufgehoben)
 
-
 ## § 2 Dauer der Verzinsung
 
 Das Darlehen nach § 17 Abs. 4 des Gesetzes in der bis 31. März 1976
 geltenden Fassung ist von Beginn des Jahres an zu verzinsen, das auf
 die Auszahlung des Betrages folgt.
 
-
 ## § 3
 
 (Aufgehoben)
-
 
 ## § 4 Teilerlaß
 
@@ -97,11 +93,9 @@ schriftlich mit.
 
 (2) (weggefallen)
 
-
 ## § 5 Freistellung von der Rückzahlungsverpflichtung
 
 -
-
 
 ## § 6 Vorzeitige Rückzahlung
 
@@ -117,13 +111,11 @@ nur dann gewährt, wenn sich der Darlehensnehmer damit einverstanden
 erklärt, daß der Ablösungsbetrag auf die zuletzt fällig werdenden
 Rückzahlungsraten angerechnet wird.
 
-
 ## § 7 Vergleiche, Veränderungen von Ansprüchen
 
 Der Abschluß von Vergleichen sowie die Stundung, Niederschlagung und
 der Erlaß von Ansprüchen richten sich nach den §§ 58 und 59 der
 Bundeshaushaltsordnung.
-
 
 ## § 8 Zahlungsrückstand
 
@@ -149,7 +141,6 @@ Abweichend von Satz 1 treten die Rechtsfolgen nicht ein, solange der
 Bescheid dem Darlehensnehmer aus von ihm nicht zu vertretenden Gründen
 nicht zugegangen ist. Ist der Bescheid dem Darlehensnehmer zugegangen,
 werden Zinsen nur von der darin genannten Darlehensschuld berechnet.
-
 
 ## § 9 Datenermittlung
 
@@ -187,7 +178,6 @@ war. Sie sind dem Bundesverwaltungsamt auf Anforderung zu überlassen.
 
 (6) (Aufgehoben)
 
-
 ## § 10 Rückzahlungsbescheid
 
 Unbeschadet der nach § 18 Abs. 3 des Gesetzes eintretenden Fälligkeit
@@ -196,7 +186,6 @@ Darlehensnehmer einen Bescheid, in dem der Zeitpunkt des Beginns der
 Rückzahlung des Darlehens, die Höhe der monatlichen oder
 vierteljährlichen Raten sowie gegebenenfalls die Gesamthöhe des
 Zinsbetrages festgestellt werden.
-
 
 ## § 11 Rückzahlungsbedingungen
 
@@ -212,7 +201,6 @@ Einrichtung eines solchen Kontos nicht zugemutet werden, ist die
 unbare Zahlung auf ein vom Bundesverwaltungsamt bestimmtes Konto der
 Bundeskasse zuzulassen. Die Zahlung gilt mit Eingang des
 Rückzahlungsbetrages bei der Bundeskasse als geleistet.
-
 
 ## § 12 Mitteilungspflichten
 
@@ -251,7 +239,6 @@ Darlehensnehmers im Zeitpunkt der Notwendigkeit der
 Anschriftenermittlung keinen Zahlungsrückstand aufweist. § 8 Abs. 3
 Nr. 1 gilt entsprechend.
 
-
 ## § 13 Aufteilung der eingezogenen Beträge
 
 (1) Das Bundesverwaltungsamt übermittelt den Ländern nach Ablauf eines
@@ -266,11 +253,9 @@ gemäß Satz 1 zusteht.
 (2) Kostenerstattungen nach § 8 Abs. 3 Nr. 1 und § 12 Abs. 2 sowie
 Bußgelder nach § 14 verbleiben in voller Höhe dem Bund.
 
-
 ## § 13a
 
 (weggefallen)
-
 
 ## § 14 Ordnungswidrigkeiten
 
@@ -278,13 +263,11 @@ Ordnungswidrig im Sinne des § 58 Abs. 1 Nr. 3 des Gesetzes handelt,
 wer vorsätzlich oder fahrlässig entgegen § 12 Abs. 1 Nr. 4 eine
 Änderung nicht unverzüglich schriftlich mitteilt.
 
-
 ## § 15 Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 67 des Bundesausbildungsförderungsgesetzes auch im
 Land Berlin.
-
 
 ## Anlage (zu § 6 Abs. 1)
 

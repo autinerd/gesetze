@@ -16,23 +16,18 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1992, 2145
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art 1
 
 -
 
-
 ## Art 2
 
 -
-
 
 ## Art 3 Übergangsregelung
 
@@ -45,7 +40,6 @@ Familie und Senioren setzt im Einvernehmen mit dem Bundesminister der
 Finanzen durch Rechtsverordnung mit Zustimmung des Bundesrates die auf
 die einzelnen Länder entfallenden Pauschalen sowie deren
 Verwendungszweck jährlich fest.
-
 
 ## Art 4 Inkrafttreten
 

@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 9 G v. 1.11.2011 I 2131
 
-
 ## Erster Abschnitt - Gegenstand der Steuer
-
-
 
 ### § 1 Erwerbsvorgänge
 
@@ -170,7 +167,6 @@ Rechtsvorgang die Steuer berechnet worden ist.
 
 (7) (weggefallen)
 
-
 ### § 2 Grundstücke
 
 (1) Unter Grundstücken im Sinne dieses Gesetzes sind Grundstücke im
@@ -209,10 +205,7 @@ als ein Grundstück behandelt. Bezieht sich ein Rechtsvorgang auf einen
 oder mehrere Teile eines Grundstücks, so werden diese Teile als ein
 Grundstück behandelt.
 
-
 ## Zweiter Abschnitt - Steuervergünstigungen
-
-
 
 ### § 3 Allgemeine Ausnahmen von der Besteuerung
 
@@ -271,10 +264,6 @@ Von der Besteuerung sind ausgenommen:
     oder das Eigentum an dem Grundstück erlangt hatte, die Steuer
     entrichtet worden ist. Die Anwendung der Vorschrift des § 16 Abs. 2
     bleibt unberührt.
-
-
-
-
 
 ### § 4 Besondere Ausnahmen von der Besteuerung
 
@@ -357,10 +346,6 @@ Von der Besteuerung sind ausgenommen:
     Grundstücks verzichtet oder das Grundstück nicht mehr für einen
     öffentlichen Dienst oder Gebrauch genutzt wird.
 
-
-
-
-
 ### § 5 Übergang auf eine Gesamthand
 
 (1) Geht ein Grundstück von mehreren Miteigentümern auf eine
@@ -376,7 +361,6 @@ Veräußerer am Vermögen der Gesamthand beteiligt ist.
 Anteil des Veräußerers am Vermögen der Gesamthand innerhalb von fünf
 Jahren nach dem Übergang des Grundstücks auf die Gesamthand
 vermindert.
-
 
 ### § 6 Übergang von einer Gesamthand
 
@@ -413,7 +397,6 @@ die vom Beteiligungsverhältnis abweichende Auseinandersetzungsquote
 innerhalb der letzten fünf Jahre vor der Auflösung der Gesamthand
 vereinbart worden ist.
 
-
 ### § 6a Steuervergünstigung bei Umstrukturierungen im Konzern
 
 Für einen nach § 1 Absatz 1 Nummer 3, Absatz 2a oder 3 steuerbaren
@@ -433,7 +416,6 @@ Gesellschaftsvermögen das herrschende Unternehmen innerhalb von fünf
 Jahren vor dem Rechtsvorgang und fünf Jahren nach dem Rechtsvorgang
 unmittelbar oder mittelbar oder teils unmittelbar, teils mittelbar zu
 mindestens 95 vom Hundert ununterbrochen beteiligt ist.
-
 
 ### § 7 Umwandlung von gemeinschaftlichem Eigentum in Flächeneigentum
 
@@ -462,10 +444,7 @@ Beteiligungsverhältnis abweichende Auseinandersetzungsquote innerhalb
 der letzten fünf Jahre vor der Auflösung der Gesamthand vereinbart
 worden ist.
 
-
 ## Dritter Abschnitt - Bemessungsgrundlage
-
-
 
 ### § 8 Grundsatz
 
@@ -492,7 +471,6 @@ Abs. 2a auf einem vorgefaßten Plan zur Bebauung eines Grundstücks, ist
 der Wert des Grundstücks abweichend von § 138 Abs. 1 Satz 1 des
 Bewertungsgesetzes nach den tatsächlichen Verhältnissen im Zeitpunkt
 der Fertigstellung des Gebäudes maßgebend.
-
 
 ### § 9 Gegenleistung
 
@@ -581,22 +559,17 @@ der Fertigstellung des Gebäudes maßgebend.
 zu entrichten ist, wird der Gegenleistung weder hinzugerechnet noch
 von ihr abgezogen.
 
-
 ### § 10
 
 (weggefallen)
 
-
 ## Vierter Abschnitt - Steuerberechnung
-
-
 
 ### § 11 Steuersatz, Abrundung
 
 (1) Die Steuer beträgt 3,5 vom Hundert.
 
 (2) Die Steuer ist auf volle Euro nach unten abzurunden.
-
 
 ### § 12 Pauschbesteuerung
 
@@ -605,10 +578,7 @@ genauen Ermittlung des Steuerbetrags absehen und die Steuer in einem
 Pauschbetrag festsetzen, wenn dadurch die Besteuerung vereinfacht und
 das steuerliche Ergebnis nicht wesentlich geändert wird.
 
-
 ## Fünfter Abschnitt - Steuerschuld
-
-
 
 ### § 13 Steuerschuldner
 
@@ -654,10 +624,6 @@ Steuerschuldner sind
 
     die Personengesellschaft.
 
-
-
-
-
 ### § 14 Entstehung der Steuer in besonderen Fällen
 
 Die Steuer entsteht,
@@ -668,19 +634,12 @@ Die Steuer entsteht,
 
 2.  wenn ein Erwerbsvorgang einer Genehmigung bedarf, mit der Genehmigung.
 
-
-
-
-
 ### § 15 Fälligkeit der Steuer
 
 Die Steuer wird einen Monat nach der Bekanntgabe des Steuerbescheids
 fällig. Das Finanzamt darf eine längere Zahlungsfrist setzen.
 
-
 ## Sechster Abschnitt - Nichtfestsetzung der Steuer, Aufhebung oder Änderung der Steuerfestsetzung
-
-
 
 ### § 16
 
@@ -746,10 +705,7 @@ vor Ablauf eines Jahres nach dem Eintritt des Ereignisses.
 in § 1 Abs. 2, 2a und 3 bezeichneten Erwerbsvorgänge rückgängig
 gemacht wird, der nicht ordnungsmäßig angezeigt (§§ 18, 19) war.
 
-
 ## Siebenter Abschnitt - Örtliche Zuständigkeit, Feststellung von Besteuerungsgrundlagen, Anzeigepflichten und Erteilung der Unbedenklichkeitsbescheinigung
-
-
 
 ### § 17 Örtliche Zuständigkeit, Feststellung von Besteuerungsgrundlagen
 
@@ -808,7 +764,6 @@ der Nummer 2 die anteilige Besteuerungsgrundlage denen der anderen für
 die Besteuerung zuständigen Finanzämter nach dem Verhältnis ihrer
 Anteile hinzuzurechnen.
 
-
 ### § 18 Anzeigepflicht der Gerichte, Behörden und Notare
 
 (1) Gerichte, Behörden und Notare haben dem zuständigen Finanzamt
@@ -865,7 +820,6 @@ beglaubigten Abschrift zu vermerken.
 (5) Die Anzeigen sind an das für die Besteuerung, in den Fällen des §
 17 Abs. 2 und 3 an das für die gesonderte Feststellung zuständige
 Finanzamt zu richten.
-
 
 ### § 19 Anzeigepflicht der Beteiligten
 
@@ -969,7 +923,6 @@ Abschrift der Urkunde beizufügen.
 Sie sind schriftlich abzugeben. Sie können gemäß § 87a der
 Abgabenordnung in elektronischer Form übermittelt werden.
 
-
 ### § 20 Inhalt der Anzeigen
 
 (1) Die Anzeigen müssen enthalten:
@@ -1013,17 +966,12 @@ müssen außerdem enthalten:
 
 2.  die Bezeichnung des oder der Gesellschaftsanteile.
 
-
-
-
-
 ### § 21 Urkundenaushändigung
 
 Die Gerichte, Behörden und Notare dürfen Urkunden, die einen
 anzeigepflichtigen Vorgang betreffen, den Beteiligten erst aushändigen
 und Ausfertigungen oder beglaubigte Abschriften den Beteiligten erst
 erteilen, wenn sie die Anzeige an das Finanzamt abgesandt haben.
-
 
 ### § 22 Unbedenklichkeitsbescheinigung
 
@@ -1044,10 +992,7 @@ Steuerforderung nicht gefährdet ist. Das Finanzamt hat die
 Bescheinigung schriftlich zu erteilen. Eine elektronische Übermittlung
 der Bescheinigung ist ausgeschlossen.
 
-
 ## Achter Abschnitt - Durchführung
-
-
 
 ### § 22a Ermächtigung
 
@@ -1062,10 +1007,7 @@ Dokuments sind sicherzustellen. Soweit von dieser Ermächtigung nicht
 Gebrauch gemacht wurde, ist die elektronische Übermittlung der Anzeige
 und der Abschrift der Urkunde im Sinne des § 18 ausgeschlossen.
 
-
 ## Neunter Abschnitt - Übergangs- und Schlußvorschriften
-
-
 
 ### § 23 Anwendungsbereich
 
@@ -1132,10 +1074,7 @@ anzuwenden, die nach dem 13. Dezember 2010 verwirklicht werden.
 Juni 2011 (BGBl. I S. 1126) ist erstmals auf Erwerbsvorgänge
 anzuwenden, die nach dem 31. Dezember 2009 verwirklicht werden.
 
-
 ### (XXXX) §§ 24 bis 27 (weggefallen)
-
-
 
 ### § 28
 

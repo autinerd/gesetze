@@ -22,21 +22,15 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 14 G v. 6.12.2011 I 2515
 
-
 ## Erster Teil - Die Ausbildung auf dem Gebiet des gewerblichen Rechtsschutzes (§ 7 der Patentanwaltsordnung)
 
-
-
 ### Erster Abschnitt - Zulassung zur Ausbildung
-
-
 
 #### § 1 Voraussetzung für die Zulassung zur Ausbildung
 
 Zur Ausbildung auf dem Gebiet des gewerblichen Rechtsschutzes kann ein
 Bewerber nur zugelassen werden, wenn er die Voraussetzungen des § 6
 der Patentanwaltsordnung erfüllt.
-
 
 #### § 2 Zulassungsgesuch
 
@@ -109,13 +103,11 @@ sind Nachweise dafür beizufügen, auf welche andere Weise der Bewerber
 die praktische technische Erfahrung erworben hat; einer Bescheinigung
 nach Absatz 2 Nr. 5 bedarf es in diesem Fall nicht.
 
-
 #### § 3 Entscheidung über die Zulassung
 
 Über die Zulassung zur Ausbildung auf dem Gebiet des gewerblichen
 Rechtsschutzes entscheidet der Präsident des Deutschen Patent- und
 Markenamts durch schriftlichen Bescheid.
-
 
 #### § 4 Widerruf der Zulassung zur Ausbildung
 
@@ -140,10 +132,6 @@ vorliegt.
 4.  der Bewerber schuldhaft die ihm während seiner Ausbildung obliegenden
     Pflichten verletzt oder seine Ausbildung bewußt verzögert.
 
-
-
-
-
 #### § 5 Ausscheiden aus der Ausbildung
 
 Wird ein Bewerber, der auf eigenen Wunsch aus der Ausbildung
@@ -155,14 +143,9 @@ Anrechnung erfolgt nur, soweit das Ausbildungsziel gleichwohl erreicht
 werden kann. Über die Anrechnung entscheidet der Präsident des
 Deutschen Patent- und Markenamts.
 
-
 ### Zweiter Abschnitt - Die Ausbildung
 
-
-
 #### 1. - Allgemeines
-
-
 
 ##### § 6 Ziel der Ausbildung
 
@@ -176,7 +159,6 @@ obliegt.
 (2) Das Ziel der Ausbildung, nicht die Nutzbarmachung seiner
 Arbeitskraft, bestimmt Maß und Art der dem Bewerber zu übertragenden
 Arbeiten.
-
 
 ##### § 7 Ausbildungsgang
 
@@ -205,7 +187,6 @@ Absatz 1 Nr. 2 abgeschlossen sein.
 so kann der Präsident des Deutschen Patent- und Markenamts den
 Ausbildungsabschnitt einmal bis zur Dauer von sechs Monaten
 verlängern.
-
 
 ##### § 8 Beurteilungen
 
@@ -238,7 +219,6 @@ Patentanwaltskammer berechtigt, von dem Patentanwalt Berichte über den
 Stand der Ausbildung des Bewerbers und Abschriften der Beurteilungen
 zu verlangen.
 
-
 ##### § 9 Anrechnung von Urlaub und Krankheit
 
 (1) Ein dem Bewerber gewährter Erholungsurlaub wird bis zu 24
@@ -254,10 +234,7 @@ während dieses Jahres einen Zeitraum von zwei Monaten nicht
 Sonderurlaub bis zu einem Monat ohne Anrechnung auf die
 Ausbildungszeit gewährt werden.
 
-
 #### 2. - Die Ausbildung bei einem Patentanwalt oder bei einem Patentassessor
-
-
 
 ##### § 10 Persönliche Voraussetzungen der Ausbildungsbefugnis, Aufsicht über ausbildende Patentassessoren
 
@@ -275,7 +252,6 @@ und Markenamts. Sie haben dem Präsidenten des Deutschen Patent- und
 Markenamts alle zur Ausübung der Aufsicht erforderlichen Auskünfte zu
 geben und auf Verlangen die über die Ausbildung geführten Unterlagen
 vorzulegen.
-
 
 ##### § 11 Entziehung der Ausbildungsbefugnis
 
@@ -306,7 +282,6 @@ wenn
 Entscheidung über die Entziehung der Ausbildungsbefugnis ist zu
 begründen und dem Patentassessor zuzustellen.
 
-
 ##### § 12 Pflichten des Ausbilders
 
 (1) Patentanwälte und Patentassessoren haben die Ausbildungstätigkeit
@@ -319,7 +294,6 @@ ausreichend Zeit zu geben.
 (2) Mehr als zwei Bewerber soll ein Ausbilder nicht gleichzeitig
 ausbilden.
 
-
 ##### § 13 Folgen des Verlustes der Ausbildungsbefugnis
 
 Die Ausbildung bei einem Patentanwalt, die ein Bewerber bis zur
@@ -331,7 +305,6 @@ Gesamtausbildung auch dann wirksam, wenn der Verlust der Zulassung auf
 Umständen beruht, die den Patentanwalt als ungeeignet für die Ausübung
 der Ausbildungsbefugnis erscheinen lassen. Das gleiche gilt im Falle
 der Entziehung der Ausbildungsbefugnis eines Patentassessors.
-
 
 ##### § 14 Beginn und Ende der Ausbildung
 
@@ -349,7 +322,6 @@ Ausbildungszeit maßgebend.
 (3) Der Ausbilder hat das Ende der Ausbildung dem Präsidenten des
 Deutschen Patent- und Markenamts anzuzeigen.
 
-
 ##### § 15 Wechsel des Ausbilders
 
 (1) Der Bewerber darf seinen Ausbilder während des
@@ -357,7 +329,6 @@ Ausbildungsabschnitts beim Patentanwalt oder Patentassessor wechseln.
 
 (2) Die Ausbildung soll jedoch bei jedem Ausbilder nicht weniger als
 sechs Monate betragen.
-
 
 ##### § 16 Inhalt der Ausbildung
 
@@ -406,11 +377,9 @@ Erledigung der im Büro des Patentanwalts oder Patentassessors
 auszuführenden Arbeiten sowie beim Verkehr mit den Auftraggebern
 herangezogen werden.
 
-
 ##### § 17
 
 (weggefallen)
-
 
 ##### § 18 Ausbildung außerhalb des Geltungsbereichs der Patentanwaltsordnung
 
@@ -425,7 +394,6 @@ des Deutschen Patent- und Markenamts eine Beurteilung des
 ausländischen Ausbilders vorzulegen, aus der sich ergibt, ob er mit
 Erfolg ausgebildet worden ist. Die Beurteilung soll den Erfordernissen
 des § 8 entsprechen.
-
 
 ##### § 19 Arbeitsgemeinschaften
 
@@ -460,7 +428,6 @@ Dabei sollen auch Fragen behandelt werden, die bei der Berufsausübung
 eines Patentanwalts oder Patentassessors nicht regelmäßig
 wiederkehren.
 
-
 ##### § 19a Ausbildung beim Gericht für Patentstreitsachen
 
 Der Präsident des Deutschen Patent- und Markenamts gestattet dem
@@ -470,10 +437,7 @@ dieser nachweist, daß die nach Landesrecht zuständige Behörde die
 für Patentstreitsachen soll frühestens nach einem Jahr der Ausbildung
 beim Patentanwalt oder Patentassessor beginnen.
 
-
 #### 2a. - Die Ausbildung im allgemeinen Recht an einer Universität
-
-
 
 ##### § 19b Ausbildung im allgemeinen Recht an einer Universität
 
@@ -503,10 +467,7 @@ Aufsichtsarbeiten sollen Fragen aus unterschiedlichen Rechtsgebieten
 zum Gegenstand haben; die Bearbeitungsdauer muß jeweils mindestens
 zwei Stunden betragen.
 
-
 #### 3. - Die Ausbildung beim Deutschen Patent- und Markenamt und Patentgericht
-
-
 
 ##### § 20 Antrag auf Ausbildung beim Deutschen Patent- und Markenamt und Patentgericht
 
@@ -535,7 +496,6 @@ Patent- und Markenamts einzureichen.
 beim Patentanwalt oder Patentassessor voraussichtlich mit Erfolg
 ableisten wird.
 
-
 ##### § 20a Bearbeitung von Vorgängen
 
 Dem Bewerber können dienstliche Vorgänge insoweit zugänglich gemacht
@@ -544,14 +504,12 @@ erforderlich ist. Verschlußsachen dürfen dem Bewerber nur zur Kenntnis
 gebracht werden, soweit er nach der Verschlußsachenanweisung für die
 Bundesbehörden zum Zugang zu Verschlußsachen ermächtigt ist.
 
-
 ##### § 21 Verschwiegenheitspflicht
 
 Die Bewerber haben über die ihnen bei ihrer Ausbildung beim Deutschen
 Patent- und Markenamt und Patentgericht bekanntgewordenen
 Angelegenheiten Verschwiegenheit zu bewahren. Sie sind vor Beginn
 ihrer Ausbildung zur Verschwiegenheit besonders zu verpflichten.
-
 
 ##### § 21a Fernbleiben von der Ausbildung
 
@@ -563,7 +521,6 @@ Krankheit hat er auf Verlangen des Ausbilders nachzuweisen.
 entschuldigte Fernbleiben, das länger als drei Tage dauert, teilt der
 Ausbilder unverzüglich dem Präsidenten des Deutschen Patent- und
 Markenamts mit.
-
 
 ##### § 21b Urlaub
 
@@ -581,7 +538,6 @@ Bundesbeamten und Richter im Bundesdienst in der jeweils geltenden
 Fassung sind entsprechend anzuwenden.
 
 (3) § 9 bleibt unberührt.
-
 
 ##### § 21c Nebentätigkeit
 
@@ -612,10 +568,6 @@ Tätigkeit
     oder das Vertrauen der Allgemeinheit in deren Unparteilichkeit oder
     Unbefangenheit beeinträchtigt wird.
 
-
-
-
-
 ##### § 22 Ausbildung beim Deutschen Patent- und Markenamt
 
 (1) Der Präsident des Deutschen Patent- und Markenamts stellt einen
@@ -630,7 +582,6 @@ Beurteilung nach § 8. Aus diesen Beurteilungen bildet der Präsident
 des Deutschen Patent- und Markenamts eine zusammenfassende
 Beurteilung.
 
-
 ##### § 23 Ausbildung beim Patentgericht
 
 (1) Nach Abschluß der Ausbildung beim Patentamt überweist der
@@ -643,7 +594,6 @@ Bewerber den Ausbildungsstellen beim Patentgericht zu.
 Ausbildung beim Patentgericht auf.
 
 (3) Für die Beurteilung des Bewerbers gilt § 22 Abs. 3 entsprechend.
-
 
 ##### § 24 Arbeitsgemeinschaften
 
@@ -662,19 +612,13 @@ Patentamts oder des Patentgerichts geleitet.
 (3) Die Leiter der Arbeitsgemeinschaften geben über die ihnen
 zugewiesenen Bewerber eine Beurteilung nach § 8 ab.
 
-
 ##### § 25
 
 (weggefallen)
 
-
 ## Zweiter Teil - Die Prüfung (§ 8 der Patentanwaltsordnung)
 
-
-
 ### Erster Abschnitt - Allgemeines
-
-
 
 #### § 26 Prüfungskommission
 
@@ -702,7 +646,6 @@ Gesetzes über das Bundesverfassungsgericht bleibt unberührt.
 (4) Die Aufsicht über die Mitglieder der Prüfungskommission führt der
 Vorsitzende der Prüfungskommission, der der Aufsicht des Präsidenten
 des Deutschen Patent- und Markenamts unterliegt.
-
 
 #### § 27 Zulassung zur Prüfung
 
@@ -734,7 +677,6 @@ Aufsichtsarbeiten bekanntzugeben.
 Zulassung zur Prüfung widerrufen, wenn sich nachträglich herausstellt,
 daß der Prüfling nicht zur Prüfung hätte zugelassen werden dürfen.
 
-
 #### § 28 Rücktritt von der Prüfung
 
 Der Prüfling kann jederzeit von der Prüfung zurücktreten. Erfolgt der
@@ -742,7 +684,6 @@ Rücktritt aus einem triftigen Grund, so gilt der Prüfungsantrag als
 nicht gestellt. Liegt ein triftiger Grund nicht vor, so gilt die
 Prüfung als nicht bestanden. Ob ein Grund als triftig anzusehen ist,
 entscheidet der Prüfungsausschuß.
-
 
 #### § 29 Prüfungsausschuß
 
@@ -762,7 +703,6 @@ Aufsichtsarbeiten zu denselben Terminen anzufertigen. Der Vorsitzende
 der Prüfungskommission bestimmt ferner die Termine für die mündliche
 Prüfung. Er lädt die Prüflinge zur mündlichen Prüfung und teilt ihnen
 gleichzeitig die Mitglieder des Prüfungsausschusses mit.
-
 
 #### § 30 Prüfungsgebühr
 
@@ -790,7 +730,6 @@ des Absatzes 1 erneut zu laufen. Werden diese Fristen wieder versäumt,
 so gilt der Prüfungsantrag als zurückgenommen. Die Ausbildung ist für
 beendet zu erklären (§ 27 Abs. 2).
 
-
 #### § 31 Die Prüfung im allgemeinen
 
 (1) Die Prüfung besteht aus zwei unter Aufsicht anzufertigenden
@@ -812,14 +751,12 @@ die sich im letzten Ausbildungsabschnitt befinden oder den Antrag auf
 Zulassung zur Prüfung gestellt haben, auf Antrag gestatten, bei der
 mündlichen Prüfung zuzuhören.
 
-
 #### § 32 Entscheidungen über die Prüfungsleistungen
 
 Die Entscheidungen über die Prüfungsleistungen werden, soweit nichts
 anderes bestimmt ist, von dem Prüfungsausschuß getroffen. Der Ausschuß
 entscheidet mit einfacher Stimmenmehrheit. § 196 Abs. 2 des
 Gerichtsverfassungsgesetzes gilt entsprechend.
-
 
 #### § 33 Prüfungsnoten
 
@@ -892,10 +829,7 @@ die die Lösung einer praktischen Aufgabe zum Gegenstand hat, wird von
 dem Vorsitzenden des Prüfungsausschusses, einem Patentanwalt und einem
 weiteren Patentanwalt oder Patentassessor bewertet.
 
-
 ### Zweiter Abschnitt - Der Prüfungsgang
-
-
 
 #### § 34 Aufsichtsarbeiten
 
@@ -949,7 +883,6 @@ unentschuldigt keine Folge oder liefert er eine Arbeit nicht oder
 nicht fristgemäß ab, so gilt die Prüfung als nicht bestanden. Die
 Entscheidung trifft der Prüfungsausschuß.
 
-
 #### § 35 Bewertung der Aufsichtsarbeiten
 
 (1) Die Aufsichtsarbeiten werden von den Mitgliedern des
@@ -976,7 +909,6 @@ Mitwirkung nicht entgegen.
 
 (5) Der arithmetische Mittelwert jeder schriftlichen Arbeit wird dem
 Prüfling mit der Ladung zur mündlichen Prüfung mitgeteilt.
-
 
 #### § 36 Mündliche Prüfung
 
@@ -1038,7 +970,6 @@ Täuschung oder Benutzung nicht zugelassener Hilfsmittel zu eigenem
 oder fremdem Vorteil zu beeinflussen, gilt § 34 Abs. 5 Satz 2 bis 4
 entsprechend.
 
-
 #### § 37 Schlußberatung
 
 (1) Im Anschluß an die mündliche Prüfung setzt der Prüfungsausschuß
@@ -1048,7 +979,6 @@ die Ergebnisse der mündlichen Prüfungsleistungen fest und entscheidet
 (2) Die Bewertung der schriftlichen Arbeiten, die Gegenstände und das
 Ergebnis der mündlichen Prüfung sowie das Gesamtergebnis der Prüfung
 sind in einer Niederschrift festzuhalten.
-
 
 #### § 38 Gesamtergebnis
 
@@ -1115,7 +1045,6 @@ Prüfungsteilnehmer, die die Prüfung nicht bestanden haben, erhalten
 darüber einen mit Rechtsmittelbelehrung versehenen schriftlichen
 Bescheid.
 
-
 #### § 39 Wiederholung der Prüfung
 
 (1) Hat ein Prüfling die Prüfung nicht bestanden, so darf er sie
@@ -1149,10 +1078,7 @@ Wiederholung der Prüfung ist eine nochmalige weitere Ausbildung von
 wenigstens einem Jahr beim Deutschen Patent- und Markenamt und beim
 Patentgericht abzuleisten.
 
-
 ### Dritter Abschnitt - Die erleichterte Zulassung zur Prüfung
-
-
 
 #### § 40 Erleichterte Zulassung zur Prüfung
 
@@ -1181,14 +1107,9 @@ wissenschaftlichen Hochschule im Ausland anzuerkennen.
 Ausbildung in § 39 Abs. 2 und Abs. 4 Satz 5 tritt eine Fortsetzung der
 praktischen Tätigkeit auf dem Gebiet des gewerblichen Rechtsschutzes.
 
-
 #### (XXXX) §§ 41 bis 43 (weggefallen)
 
-
-
 ## Dritter Teil - Die Sicherung des Unterhalts der Bewerber
-
-
 
 ### § 43a Unterhaltsbeihilfe
 
@@ -1226,7 +1147,6 @@ nicht
 an, an dem der Bewerber wegen einer Erkrankung sechs Wochen lang
 ununterbrochen vom Ausbildungsdienst befreit war, bis zu dem Tage, an
 dem er seinen Ausbildungsdienst wieder aufnimmt.
-
 
 ### § 43b Entstehen und Erlöschen des Anspruchs auf Unterhaltsbeihilfe
 
@@ -1278,7 +1198,6 @@ der erneuten Prüfung.
 (5) Verzichtet der Bewerber oder Prüfling auf Zahlung der
 Unterhaltsbeihilfe, so erlischt der Anspruch.
 
-
 ### § 43c Höhe der Unterhaltsbeihilfe
 
 Die Unterhaltsbeihilfe setzt sich zusammen aus 80 vom Hundert des
@@ -1293,14 +1212,12 @@ Allgemeinen Ortskrankenkasse am Sitz des Deutschen Patent- und
 Markenamts. Lebenspartner erhalten einen Familienzuschlag entsprechend
 den §§ 39 bis 41 des Bundesbesoldungsgesetzes.
 
-
 ### § 43d Zahlungsweise
 
 Die Unterhaltsbeihilfe wird monatlich im voraus gezahlt. Besteht der
 Anspruch auf Unterhaltsbeihilfe nicht für einen vollen Kalendermonat,
 so wird nur der Teil der Unterhaltsbeihilfe gezahlt, der auf den
 Anspruchszeitraum entfällt.
-
 
 ### § 43e Anrechenbares Einkommen
 
@@ -1316,7 +1233,6 @@ Eingangsbesoldungsgruppe der Laufbahn des höheren Dienstes
 seines Ehegatten oder Lebenspartners gelten die §§ 21 und 22 des
 Bundesausbildungsförderungsgesetzes entsprechend.
 
-
 ### § 43f Vermögensanrechnung
 
 (1) Vermögen des Bewerbers und seines Ehegatten oder Lebenspartners
@@ -1325,7 +1241,6 @@ wird angerechnet.
 (2) Für die Ermittlung des anrechenbaren Vermögens gelten § 26 Abs. 2
 und die §§ 27 bis 30 des Bundesausbildungsförderungsgesetzes
 entsprechend.
-
 
 ### § 43g Änderung maßgeblicher Umstände
 
@@ -1337,7 +1252,6 @@ des Bundesausbildungsförderungsgesetzes ist entsprechend anzuwenden.
 (2) Der Bewerber und sein Ehegatte oder Lebenspartner sind
 verpflichtet, über ihre Einkommens- und Vermögensverhältnisse Auskunft
 zu geben; § 60 des Ersten Buches Sozialgesetzbuch gilt entsprechend.
-
 
 ### § 43h Darlehensbedingungen
 
@@ -1372,12 +1286,10 @@ Tage überschritten hat; die Verzinsung beginnt am 31. Tage nach dem
 Zahlungstermin. Aufwendungen für die Geltendmachung der
 Darlehensforderung sind hierdurch nicht abgegolten.
 
-
 ### § 43i Freistellung von der Rückzahlung des Darlehens
 
 Für die Freistellung von der Rückzahlung des Darlehens ist § 18a des
 Bundesausbildungsförderungsgesetzes entsprechend anzuwenden.
-
 
 ### § 43j Verfügungen über die Unterhaltsbeihilfe
 
@@ -1390,7 +1302,6 @@ Aufrechnungs- oder Zurückbehaltungsrecht gegenüber Ansprüchen auf
 Unterhaltsbeihilfe nur insoweit geltend machen, als sie pfändbar sind.
 Diese Einschränkung gilt nicht, soweit gegen den Bewerber ein Anspruch
 auf Schadensersatz wegen vorsätzlicher unerlaubter Handlung besteht.
-
 
 ### § 43k Rückforderungen
 
@@ -1409,7 +1320,6 @@ ganz oder teilweise abgesehen werden.
 ihrer ungerechtfertigten Auszahlung an mit 6 vom Hundert jährlich zu
 verzinsen.
 
-
 ### § 43l Zuständigkeit des Präsidenten des Deutschen Patent- und Markenamts
 
 Der Präsident des Deutschen Patent- und Markenamts ist zuständig für
@@ -1419,10 +1329,7 @@ treffenden Entscheidungen. Die Unterhaltsbeihilfe wird durch den
 Präsidenten des Deutschen Patent- und Markenamts ausgezahlt, er nimmt
 Zahlungen entgegen.
 
-
 ## Vierter Teil - Prüfung nach § 1 des Gesetzes über die Eignungsprüfung für die Zulassung zur Patentanwaltschaft
-
-
 
 ### § 44 Zulassung zur Eignungsprüfung
 
@@ -1469,7 +1376,6 @@ vorzulegen.
 für die Anfertigung der Aufsichtsarbeiten sind dem Antragsteller
 spätestens einen Monat vorher mitzuteilen.
 
-
 ### § 44a Prüfungsausschuß
 
 (1) Die Prüfungskommission nimmt die Eignungsprüfung in der Besetzung
@@ -1481,12 +1387,10 @@ einem Patentanwalt und einem rechtskundigen Mitglied des
 Patentgerichts oder des Deutschen Patent- und Markenamts. § 29 Abs. 3
 gilt entsprechend.
 
-
 ### § 44b Prüfungsgebühr
 
 Für die Prüfungsgebühr (§ 9 des Gesetzes über die Eignungsprüfung für
 die Zulassung zur Patentanwaltschaft) gilt § 30 entsprechend.
-
 
 ### § 44c Nichtöffentlichkeit der Eignungsprüfung
 
@@ -1496,11 +1400,9 @@ die Zulassung zur Patentanwaltschaft) gilt § 30 entsprechend.
 Eignungsprüfung zugelassenen Antragstellern auf Antrag gestatten, bei
 der mündlichen Prüfung zuzuhören.
 
-
 ### § 44d Rücktritt von der Eignungsprüfung
 
 § 28 gilt entsprechend.
-
 
 ### § 44e Gang der Eignungsprüfung
 
@@ -1512,7 +1414,6 @@ Satz 1 genügt die Aufsichtsarbeit den Anforderungen nicht.
 (2) Die mündliche Prüfung besteht aus einem auf die Lösung von
 Aufgaben aus der beruflichen Praxis eines Patentanwalts gerichteten
 Prüfungsgespräch. § 36 Abs. 1, 2, 4 bis 6 gilt entsprechend.
-
 
 ### § 44f Bewertung der Prüfungsleistungen
 
@@ -1533,7 +1434,6 @@ mit Stimmenmehrheit die mündliche Prüfung.
 
 (4) § 37 Abs. 2, § 38 Abs. 6, Abs. 7 Satz 1, 3 gelten entsprechend.
 
-
 ### § 44g Wiederholung der Eignungsprüfung
 
 Hat der Antragsteller die Eignungsprüfung nicht bestanden, darf er sie
@@ -1547,20 +1447,15 @@ Prüfung mitzuteilen. Gilt die Prüfung nach § 6 Abs. 4 des Gesetzes
 nicht bestanden, ist die Mitteilung nach Satz 3 mit dem nach § 44f
 Abs. 4 zu erteilenden Bescheid zu verbinden.
 
-
 ## Fünfter Teil - (weggefallen)
-
-
 
 ### § 45 (weggefallen)
 
 -
 
-
 ### § 46 (weggefallen)
 
 -
-
 
 ### § 47 (Inkrafttreten)
 

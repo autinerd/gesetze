@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 2366
 
-
 ## § 1 Befriedete Bezirke
 
 Für den Deutschen Bundestag, den Bundesrat und das
@@ -23,13 +22,11 @@ Bundesverfassungsgericht werden befriedete Bezirke gebildet. Die
 Abgrenzung der befriedeten Bezirke ergibt sich aus der Anlage zu
 diesem Gesetz.
 
-
 ## § 2 Schutz von Verfassungsorganen
 
 Öffentliche Versammlungen unter freiem Himmel und Aufzüge sind
 innerhalb der befriedeten Bezirke nach § 1 verboten. Ebenso ist es
 verboten, zu Versammlungen oder Aufzügen nach Satz 1 aufzufordern.
-
 
 ## § 3 Zulassung von Versammlungen unter freiem Himmel und Aufzügen
 
@@ -57,7 +54,6 @@ Die Entscheidung nach Satz 2 ergeht schriftlich oder elektronisch.
 Württemberg jeweils geltenden versammlungsrechtlichen Vorschriften
 nicht berührt.
 
-
 ## § 4 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer entgegen § 2 an einer öffentlichen
@@ -67,12 +63,10 @@ einer solchen Versammlung oder zu einem Aufzug auffordert.
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
 zwanzigtausend Euro geahndet werden.
 
-
 ## § 5 Einschränkung des Grundrechts der Versammlungsfreiheit
 
 Das Grundrecht der Versammlungsfreiheit (Artikel 8 des Grundgesetzes)
 wird durch dieses Gesetz eingeschränkt.
-
 
 ## Anlage (zu § 1 Satz 2)
 

@@ -23,7 +23,6 @@ Fundstelle
     Deutschland beschlossene Rahmenlehrplan für die Berufsschule werden
     demnächst als Beilage im Bundesanzeiger veröffentlicht.
 
-
 ## Eingangsformel
 
 Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 und auf Grund des § 6
@@ -38,7 +37,6 @@ Oktober 2006 (BGBl. I S. 2407) und § 26 zuletzt durch Artikel 2 Nr. 4
 des Gesetzes vom 23. März 2005 (BGBl. I S. 931) geändert worden sind,
 verordnet das Bundesministerium für Wirtschaft und Technologie im
 Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
-
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
@@ -55,11 +53,9 @@ und Elektronikerin für Maschinen und Antriebstechnik wird
 
 staatlich anerkannt.
 
-
 ## § 2 Ausbildungsdauer
 
 Die Ausbildung dauert dreieinhalb Jahre.
-
 
 ## § 3 Ausbildungsrahmenplan und Ausbildungsberufsbild
 
@@ -123,10 +119,6 @@ Abweichung erfordern.
 
 17. Geschäftsprozesse und Qualitätsmanagement.
 
-
-
-
-
 ## § 4 Durchführung der Berufsausbildung
 
 (1) Die in § 3 genannten Fertigkeiten, Kenntnisse und Fähigkeiten
@@ -145,7 +137,6 @@ zu erstellen.
 zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
 Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
 Ausbildenden haben den Ausbildungsnachweis regelmäßig durchzusehen.
-
 
 ## § 5 Abschlussprüfung/Gesellenprüfung
 
@@ -166,7 +157,6 @@ Berufsbefähigung erforderlich ist.
 (2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der
 Abschlussprüfung/Gesellenprüfung mit 40 Prozent und Teil 2 der
 Abschlussprüfung/Gesellenprüfung mit 60 Prozent gewichtet.
-
 
 ## § 6 Teil 1 der Abschlussprüfung/Gesellenprüfung
 
@@ -226,10 +216,6 @@ Prüfungsbereich Arbeitsauftrag.
     Gesprächsphasen insgesamt höchstens zehn Minuten umfassen sollen; die
     schriftlichen Aufgabenstellungen sollen einen zeitlichen Umfang von
     höchstens zwei Stunden haben.
-
-
-
-
 
 ## § 7 Teil 2 der Abschlussprüfung
 
@@ -346,7 +332,6 @@ in einer Stunde praxisbezogene handlungsorientierte Aufgaben
 bearbeiten und dabei zeigen, dass er allgemeine wirtschaftliche und
 gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen
 und beurteilen kann.
-
 
 ## § 8 Teil 2 der Gesellenprüfung
 
@@ -519,10 +504,6 @@ folgende Vorgaben:
 
 3.  die Prüfungszeit beträgt eine Stunde.
 
-
-
-
-
 ## § 9 Gewichtungs- und Bestehensregelung
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
@@ -586,7 +567,6 @@ Leistungen
 
 bewertet worden sind.
 
-
 ## § 10 Mündliche Ergänzungsprüfung
 
 Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der
@@ -599,7 +579,6 @@ des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis
 und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2
 : 1 zu gewichten.
 
-
 ## § 11 Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
@@ -610,11 +589,9 @@ Vereinbarung nicht zustande, sind auf Berufsausbildungsverhältnisse,
 die bis zum 31. Juli 2008 begonnen wurden, die Vorschriften der in §
 12 Satz 2 genannten Verordnungen weiter anzuwenden.
 
-
 ## § 12 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2008 in Kraft.
-
 
 ## Anlage (zu § 3) Ausbildungsrahmenplan für die Berufsausbildung zum Elektroniker für Maschinen und Antriebstechnik/zur Elektronikerin für Maschinen und Antriebstechnik
 

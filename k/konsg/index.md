@@ -18,16 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 20 G v. 17.12.2008 I 2586
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## 1. Abschnitt - Allgemeine Vorschriften
-
-
 
 ### § 1 Die konsularischen Aufgaben im allgemeinen
 
@@ -40,7 +36,6 @@ Beziehungen, des Verkehrs, der Kultur und der Rechtspflege
 mitzuwirken,
 -   Deutschen sowie inländischen juristischen Personen nach
 pflichtgemäßem Ermessen Rat und Beistand zu gewähren.
-
 
 ### § 2 Übertragene konsularische Aufgaben
 
@@ -95,10 +90,6 @@ Gebieten,
 
     *   Überwachung der Einhaltung von Verträgen.
 
-
-
-
-
 ### § 3 Wahrnehmung konsularischer Aufgaben
 
 (1) Für die Wahrnehmung konsularischer Aufgaben gelten die allgemeinen
@@ -114,7 +105,6 @@ Wahrnehmung ihrer Aufgaben in Rechtsangelegenheiten des Rates und der
 Hilfe eines im Empfangsstaat zugelassenen Anwaltes ihres Vertrauens
 bedienen.
 
-
 ### § 4 Schranken der konsularischen Tätigkeit
 
 Bei ihrer Amtstätigkeit haben die Konsularbeamten die Schranken zu
@@ -124,10 +114,7 @@ April 1963 über konsularische Beziehungen (Bundesgesetzbl. II 1969 S.
 1585) und sonstige Verträge zu beachten, soweit diese zwischen der
 Bundesrepublik Deutschland und dem Empfangsstaat in Kraft sind.
 
-
 ## 2. Abschnitt - Einzelne Konsularische Aufgaben und Befugnisse
-
-
 
 ### § 5 Hilfeleistung an einzelne
 
@@ -173,7 +160,6 @@ daß der Hilfesuchende frühere Hilfen mißbraucht hat, es sei denn, daß
 er im Falle der Ablehnung einen ernsten Nachteil an Leib, Leben oder
 Gesundheit erleiden würde.
 
-
 ### § 6 Hilfe in Katastrophenfällen
 
 (1) Wenn im Konsularbezirk Naturkatastrophen, kriegerische oder
@@ -197,13 +183,11 @@ können, sollen die Konsularbeamten eine Liste der in ihrem
 Konsularbezirk ansässigen Deutschen und anderer Schutzbefohlener sowie
 ihrer Familienangehörigen erstellen und auf dem laufenden halten.
 
-
 ### § 7 Hilfe für Gefangene
 
 Die Konsularbeamten sollen in ihrem Konsularbezirk deutsche
 Untersuchungs- und Strafgefangene auf deren Verlangen betreuen und
 ihnen insbesondere Rechtsschutz vermitteln.
-
 
 ### § 8 Antrag auf Beurkundung der Geburt oder des Todes eines Deutschen
 
@@ -212,7 +196,6 @@ oder des Todes eines Deutschen entgegenzunehmen, wenn sich der
 Personenstandsfall im Ausland ereignet hat. Der Antrag ist mit den
 vorgelegten Unterlagen dem nach § 36 Abs. 2 des Personenstandsgesetzes
 zuständigen Standesamt zu übersenden.
-
 
 ### § 9 Überführung Verstorbener und Nachlaßfürsorge
 
@@ -238,7 +221,6 @@ können Nachlaßgegenstände oder Erlös aus deren Veräußerung an das
 Gericht des letzten Wohnsitzes des Erblassers im Inland oder - wenn
 sich ein solcher Wohnsitz nicht feststellen läßt - an das Amtsgericht
 Schöneberg in Berlin als Nachlaßgericht übergeben werden.
-
 
 ### § 10 Beurkundungen im allgemeinen
 
@@ -289,10 +271,6 @@ mit folgenden Abweichungen:
     erteilen. Vollstreckbare Ausfertigungen können nur von dem Amtsgericht
     erteilt werden, das die Urschrift verwahrt.
 
-
-
-
-
 ### § 11 Besonderheiten für Verfügungen von Todes wegen
 
 (1) Testamente und Erbverträge sollen die Konsularbeamten nur
@@ -314,7 +292,6 @@ und 350 des Gesetzes über das Verfahren in Familiensachen und in den
 Angelegenheiten der freiwilligen Gerichtsbarkeit sind entsprechend
 anzuwenden.
 
-
 ### § 12 Entgegennahme von Erklärungen
 
 Die Konsularbeamten sind befugt,
@@ -332,10 +309,6 @@ Die Konsularbeamten sind befugt,
     nach dem Recht eines ausländischen Staates oder nach den Bestimmungen
     einer ausländischen Behörde oder sonst zur Wahrnehmung von Rechten im
     Ausland erforderlich ist.
-
-
-
-
 
 ### § 13 Legalisation ausländischer öffentlicher Urkunden
 
@@ -363,7 +336,6 @@ Ausstellungsorts entsprechenden Form aufgenommen worden ist
 Übereinkunft von der Legalisation befreit sind, sollen nicht
 legalisiert werden.
 
-
 ### § 14 Bestätigung der Echtheit inländischer öffentlicher Urkunden
 
 (1) Die Konsularbeamten sind befugt, zur Verwendung in ihrem
@@ -374,7 +346,6 @@ Urkunden zu bestätigen.
 keinen Zweifel an der Echtheit hat. Von der Echtheit kann er in der
 Regel ausgehen, wenn die Urkunde ihm von der Stelle, die sie
 aufgenommen hat, zugeleitet worden ist.
-
 
 ### § 15 Vernehmungen und Anhörungen
 
@@ -401,7 +372,6 @@ und Behörden gleich.
 (5) Die Vorschriften für Vernehmungen gelten für Anhörungen
 entsprechend.
 
-
 ### § 16 Zustellungen
 
 Die Konsularbeamten sind berufen, auf Ersuchen deutscher Gerichte und
@@ -410,15 +380,11 @@ Schriftstücke jeder Art zuzustellen. Über die erfolgte Zustellung ist
 ein schriftliches Zeugnis auszustellen und der ersuchenden Stelle zu
 übersenden.
 
-
 ### § 17 Aufnahme von Verklarungen
 
 Die Konsularbeamten sind befugt, Verklarungen aufzunehmen.
 
-
 ## 3. Abschnitt - Die Berufskonsularbeamten
-
-
 
 ### § 18 Kreis der Berufskonsularbeamten
 
@@ -438,7 +404,6 @@ Amtsgeschäfte besitzt.
 und 2, die, ohne Honorarkonsularbeamte zu sein, vom Auswärtigen Amt
 zur Wahrnehmung konsularischer Aufgaben einem Honorarkonsularbeamten
 zugeteilt werden.
-
 
 ### § 19 Erfordernisse einer besonderen Ermächtigung
 
@@ -484,16 +449,12 @@ sachgemäße Erledigung der ihm anzuvertrauenden Amtsgeschäfte besitzt.
 (4) Die Ermächtigung kann auf die Wahrnehmung einzelner der in Absatz
 2 genannten Amtsgeschäfte beschränkt werden.
 
-
 ## 4. Abschnitt - Die Honorarkonsularbeamten
-
-
 
 ### § 20 Kreis der Honorarkonsularbeamten
 
 Honorarkonsularbeamte sind Ehrenbeamte im Sinne des Beamtenrechts, die
 mit der Wahrnehmung konsularischer Aufgaben beauftragt sind.
-
 
 ### § 21 Ernennung
 
@@ -511,10 +472,6 @@ Wird ein Ausländer ernannt, so hat er folgendes Gelöbnis zu leisten:
     Bundesrepublik Deutschland nach den für mein Amt maßgebenden Gesetzen
     und Weisungen treu und gewissenhaft zu erfüllen."
 
-
-
-
-
 ### § 22 Besondere Pflichten
 
 (1) Der Honorarkonsularbeamte darf auch ohne Urlaub seinen Amtssitz
@@ -528,13 +485,11 @@ einem anderen Staat, einer anderen staatlichen Einrichtung oder einer
 Auswärtigen Amt anzuzeigen. Anzeigepflichtig ist auch der Erwerb einer
 anderen Staatsangehörigkeit.
 
-
 ### § 23 Verabschiedung
 
 Honorarkonsularbeamte können jederzeit verabschiedet werden. Sie sind
 zu verabschieden, wenn die Voraussetzungen für die Versetzung eines
 Beamten in den Ruhestand gegeben sind.
-
 
 ### § 24 Erfordernis einer besonderen Ermächtigung
 
@@ -549,16 +504,12 @@ Voraussetzungen erteilt werden.
 zur Wahrnehmung konsularischer Aufgaben weiteren Einschränkungen
 unterwerfen.
 
-
 ## 5. Abschnitt - Gebühren und Auslagen
-
-
 
 ### § 25 Besondere gesetzliche Regelung
 
 Für konsularische Amtshandlungen werden Kosten (Gebühren und Auslagen)
 nach besonderer gesetzlicher Regelung erhoben.
-
 
 ### § 26 Gebühren und Auslagen der Honorarkonsularbeamten
 
@@ -575,26 +526,20 @@ werden.
 dienstlichen Auftrags besondere, den Umständen nach erforderliche
 Auslagen, so kann er deren Erstattung beanspruchen.
 
-
 ## 6. Abschnitt - Übergangs- und Schlußvorschriften
-
-
 
 ### § 27 Begriffsbestimmung
 
 Der Begriff "Deutscher" bestimmt sich nach Artikel 116 Abs. 1 des
 Grundgesetzes.
 
-
 ### § 28
 
 -
 
-
 ### § 29
 
 -
-
 
 ### § 30 Berlin-Klausel
 
@@ -603,7 +548,6 @@ Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes
 erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 Überleitungsgesetzes.
-
 
 ### § 31 Inkrafttreten
 

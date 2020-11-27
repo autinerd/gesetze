@@ -21,7 +21,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 9 Abs. 1 G v. 9.1.1978 II 13
 
-
 ## Art 1
 
 Dem Beitritt der Bundesrepublik Deutschland zu den auf der Währungs-
@@ -31,7 +30,6 @@ den Internationalen Währungsfonds (International Monetary Fund) und
 über die Internationale Bank für Wiederaufbau und Entwicklung
 (International Bank for Reconstruction and Development) wird
 zugestimmt.
-
 
 ## Art 2
 
@@ -43,11 +41,9 @@ dreihunderttausend US-Dollar übernimmt, wird der Bundesminister der
 Finanzen ermächtigt, einen Kredit bis zum Nennwert von vier Milliarden
 fünfhundertdreißig Millionen Deutsche Mark aufzunehmen.
 
-
 ## Art 3
 
 -
-
 
 ## Art 4
 
@@ -58,11 +54,9 @@ Abkommens über die Internationale Bank für Wiederaufbau und
 Entwicklung ab. Sie ist Hinterlegungsstelle nach Artikel V Abschnitt
 11 des Abkommens.
 
-
 ## Art 4a
 
 -
-
 
 ## Art 5
 
@@ -71,14 +65,12 @@ Gesetzeskraft veröffentlicht.
 
 (2)
 
-
 ## Art 6
 
 Dieses Gesetz gilt nach Maßgabe des § 13 des Gesetzes über die
 Stellung des Landes Berlin im Finanzsystem des Bundes (Drittes
 Überleitungsgesetz) vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
 in Berlin-West.
-
 
 ## Art 7
 

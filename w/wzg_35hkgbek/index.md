@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1962, 600
 
-
-
 ## (XXXX)
 
 Auf Grund des § 35 Abs. 1 des Warenzeichengesetzes in der Fassung vom
@@ -25,7 +23,6 @@ Kolonialsekretärs der britischen Kronkolonie Hongkong bekanntgemacht:
 Deutsche Warenbezeichnungen werden in der britischen Kronkolonie
 Hongkong in demselben Umfang wie inländische zum gesetzlichen Schutz
 zugelassen.
-
 
 ## Schlussformel
 

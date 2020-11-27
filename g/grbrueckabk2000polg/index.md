@@ -17,13 +17,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 2002, 2331
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -35,7 +32,6 @@ Grenzbrücken in der Bundesrepublik Deutschland im Zuge von
 der Republik Polen im Zuge von öffentlichen Straßen außerhalb des
 Netzes der Landesstraßen, wird zugestimmt. Das Abkommen wird
 nachstehend veröffentlicht.
-
 
 ## Art 2
 
@@ -71,13 +67,11 @@ Verwaltungsvorschriften vorgesehen sind.
 (6) Die in Artikel 19 des Abkommens vorgesehenen steuerlichen
 Bestimmungen sind mit Wirkung vom 21. November 2000 anzuwenden.
 
-
 ## Art 3
 
 Die Bundesregierung wird ermächtigt, Notenwechsel gemäß Artikel 25
 Abs. 2 des Abkommens durch Rechtsverordnung, die der Zustimmung des
 Bundesrates bedarf, in Kraft zu setzen.
-
 
 ## Art 4
 

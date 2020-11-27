@@ -19,8 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 2.3.2011 I 378
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 16 Abs. 1 Satz 4 des Versorgungsrücklagegesetzes vom
@@ -28,7 +26,6 @@ Auf Grund des § 16 Abs. 1 Satz 4 des Versorgungsrücklagegesetzes vom
 Gesetzes vom 21. Dezember 2006 (BGBl. I S. 3288) eingefügt worden ist,
 verordnet das Bundesministerium des Innern im Einvernehmen mit dem
 Bundesministerium der Finanzen:
-
 
 ## § 1 Höhe der Zuweisungssätze
 
@@ -72,7 +69,6 @@ Bekanntmachung vom 27. März 2007 (BGBl. I S. 482), das durch Artikel 4
 des Gesetzes vom 22. Dezember 2007 (BGBl. I S. 3245) geändert worden
 ist.
 
-
 ## § 2 Zahlverfahren
 
 Die die Bezügezahlungen anordnenden Dienststellen leisten die
@@ -82,7 +78,6 @@ für das zweite Halbjahr bis zum 31. März des nächsten Jahres auf dem
 vom Bundesministerium des Innern benannten Sonderkonto eingehen
 müssen.
 
-
 ## § 3 Überprüfung der Höhe der Zuweisungssätze
 
 Die Höhe der Zuweisungssätze ist vom Bundesministerium des Innern im
@@ -90,7 +85,6 @@ Einvernehmen mit dem Bundesministerium der Finanzen spätestens alle
 drei Jahre auf der Grundlage versicherungsmathematischer Berechnungen
 und unter Berücksichtigung der jeweiligen Änderungen des Besoldungs-
 und Versorgungsrechts zu überprüfen und bei Bedarf anzupassen.
-
 
 ## § 4 Inkrafttreten
 

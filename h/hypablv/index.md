@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 209 Abs. 9 G v. 19.4.2006 I 866
 
-
 ## Eingangsformel
 
 Auf Grund des § 40 des Vermögensgesetzes in der Fassung der
@@ -35,10 +34,7 @@ dieses Gesetzes verordnet das Bundesministerium der Justiz im
 Einvernehmen mit den Bundesministerien der Finanzen und für
 Raumordnung, Bauwesen und Städtebau und für Wirtschaft:
 
-
 ## Abschnitt 1 - Verfahren
-
-
 
 ### § 1 Mitteilung
 
@@ -54,7 +50,6 @@ des Vermögensgesetzes und § 3 Abs. 1 dieser Verordnung hingewiesen
 werden, wenn das Amt zur Regelung offener Vermögensfragen eine solche
 Bereinigung im Einzelfall für zweckdienlich hält. Eine Abschrift der
 Mitteilung ist dem betroffenen Kreditinstitut zu übersenden.
-
 
 ### § 2 Umrechnung
 
@@ -83,10 +78,6 @@ Demokratischen Republik vom 18. September 1970 (GBl. Sonderdruck Nr.
     Demokratischen Republik vom 18. September 1970 (GBl. Sonderdruck Nr.
     674) ist auch im Bundesanzeiger Nr. 117a vom 27. Juni 1995 abgedruckt.
 
-
-
-
-
 ### § 3 Kürzung und Entfallen von Einzelbeträgen
 
 (1) In den Fällen des § 18 Abs. 1 Satz 4 des Vermögensgesetzes darf
@@ -113,7 +104,6 @@ belastet wurde und die zugrundeliegende Kreditaufnahme dem
 Gesamtgrundstück zugute kam. Die Sätze 1 und 2 gelten für die
 Bestimmung des zu übernehmenden Teils von Grundpfandrechten gemäß § 16
 Abs. 5 bis 9 des Vermögensgesetzes entsprechend.
-
 
 ### § 4 Verfahren bei Veräußerung des Grundstücks und bei Ablösung von Rechten
 
@@ -227,7 +217,6 @@ Vermögensgesetzes als erloschen oder als nicht entstanden, so bedarf
 es zum Vollzug der Löschung im Grundbuch nicht der Vorlage des
 Briefes.
 
-
 ### § 5 Zustellung
 
 (1) Entscheidungen, durch die ein Ablösebetrag gemäß § 18 des
@@ -250,10 +239,7 @@ Absendung einer Abschrift des Bescheides durch Aufgabe des Bescheides
 zur Post mit Einschreiben; die Zustellung gilt nach Ablauf von zwei
 Wochen ab der Aufgabe zur Post als erfolgt.
 
-
 ## Abschnitt 2 - Sicherheitsleistung
-
-
 
 ### § 6 Grundsatz
 
@@ -265,14 +251,12 @@ Zahlungsversprechens eines Kreditinstitutes geleistet werden.
 (2) Sicherheit ist in Höhe des in der angefochtenen Entscheidung
 festgesetzten Betrages zu leisten.
 
-
 ### § 7 Hinterlegung
 
 Leistet der Berechtigte für einen festgesetzten Betrag Sicherheit
 durch Hinterlegung, kann er die Differenz zwischen dem hinterlegten
 und dem bestandskräftig festgesetzten Betrag von der
 Hinterlegungsstelle herausverlangen.
-
 
 ### § 8 Garantie oder sonstiges Zahlungsversprechen
 
@@ -306,15 +290,11 @@ Lastenausgleichsgesetzes gelten die Absätze 2 und 3 mit der Maßgabe
 entsprechend, daß an die Stelle des Amtes zur Regelung offener
 Vermögensfragen das zuständige Ausgleichsamt tritt.
 
-
 ### § 9
 
 (weggefallen)
 
-
 ## Abschnitt 3 - Schlußvorschriften
-
-
 
 ### § 10 Überleitungsvorschrift
 
@@ -324,7 +304,6 @@ entschieden sind. Entscheidungen, deren Zustellung vor Inkrafttreten
 dieser Verordnung entsprechend § 5 betrieben worden ist, gelten als am
 1\. August 1994 zugestellt.
 
-
 ### § 11 Inkrafttreten, Außerkrafttreten
 
 (1) Diese Verordnung tritt am 4. Juli 1994 in Kraft.
@@ -332,7 +311,6 @@ dieser Verordnung entsprechend § 5 betrieben worden ist, gelten als am
 (2)
 
 (3)
-
 
 ### Schlußformel
 

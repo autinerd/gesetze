@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1978, 1030
 
-
-
 ## (XXXX)
 
 (1) Auf Grund des § 6 des Gesetzes über die Ausprägung von
@@ -68,11 +66,9 @@ zwischen Rumpf und Schwinge des Adlers.
 
 (9) Dies wird namens der Bundesregierung bekanntgemacht.
 
-
 ## Schlußformel
 
 Der Bundesminister der Finanzen
-
 
 ## (XXXX) Abbildung der Münze
 

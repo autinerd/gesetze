@@ -20,7 +20,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 72 G v. 9.12.2004 I 3242
 
-
 ## Eingangsformel
 
 Auf Grund des § 292a des Sechsten Buches Sozialgesetzbuch, der durch
@@ -28,7 +27,6 @@ Artikel 1 des Gesetzes vom 25. Juli 1991 (BGBl. I S. 1606) eingefügt
 worden ist, verordnet der Bundesminister für Arbeit und Sozialordnung
 im Einvernehmen mit dem Bundesminister des Innern und dem
 Bundesminister der Finanzen:
-
 
 ## § 1 Grundsätze
 
@@ -46,12 +44,10 @@ Erstattungsbetrag festgesetzt.
 (3) Für die Folgezeit werden die pauschalen Erstattungsbeträge nach
 Maßgabe des § 3 vom Bundesversicherungsamt festgesetzt.
 
-
 ## § 2 Pauschaler Erstattungsbetrag für das erste Halbjahr 1992
 
 Der pauschale Erstattungsbetrag beträgt für das erste Halbjahr 1992 98
 Millionen DM.
-
 
 ## § 3 Pauschale Erstattungsbeträge für die Folgezeit
 
@@ -137,7 +133,6 @@ sind erst bei der Festsetzung des Erstattungsbetrages für das nächste
 Halbjahr zu berücksichtigen. Das Bundesversicherungsamt kann die
 pauschalen Erstattungsbeträge auf volle 500 Euro aufrunden.
 
-
 ## § 4 Fälligkeit der pauschalen Erstattungsbeträge
 
 (1) Die pauschalen Erstattungsbeträge für das jeweilige Halbjahr sind
@@ -150,7 +145,6 @@ Rentenversicherung Bund und den auf die knappschaftliche
 Rentenversicherung entfallenden Anteil an die Deutsche
 Rentenversicherung Knappschaft-Bahn-See als Träger der
 knappschaftlichen Rentenversicherung aus.
-
 
 ## § 5 Aufteilung der pauschalen Erstattungsbeträge
 
@@ -171,11 +165,9 @@ Rentenversicherung entsprechend ihrem Anteil an den Beitragseinnahmen
 aufgeteilt. Diese Aufteilung führt die Deutsche Rentenversicherung
 Bund durch.
 
-
 ## § 6 Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 1992 in Kraft.
-
 
 ## Schlußformel
 

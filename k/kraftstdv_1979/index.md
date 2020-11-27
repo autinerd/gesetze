@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 3 G v. 29.5.2009 I 1170
 
-
 ## Abschnitt 1 - Allgemeine Bestimmungen
-
-
 
 ### § 1 Örtliche Zuständigkeit
 
@@ -60,7 +57,6 @@ Zuletzt geändert durch
 (2) Landesrechtliche Vorschriften über die örtliche Zuständigkeit auf
 Grund der Ermächtigung des § 15 Abs. 2 des Gesetzes bleiben unberührt.
 
-
 ### § 2 Mitwirkung der Zollbehörden
 
 Für die Verwaltung der Kraftfahrzeugsteuer bei ausländischen
@@ -74,10 +70,7 @@ innergemeinschaftlichen Straßenverkehr in das Inland eingehen, sind
 von den Bundesfinanzdirektionen unter Angabe des
 Zuständigkeitsbereichs amtlich bekannt zu geben.
 
-
 ## Abschnitt 2 - Inländische Fahrzeuge
-
-
 
 ### § 3 Steuererklärung
 
@@ -114,10 +107,6 @@ sie den Hinweis enthält, dass sie zugleich als Steuererklärung gilt.
 3.  bei Fahrzeugen, deren Halten nach § 3 Nr. 12 des Gesetzes von der
     Steuer befreit ist.
 
-
-
-
-
 ### § 4 Verfahrensvorschriften zu § 10 Abs. 2 des Gesetzes
 
 Der Antrag nach § 10 Abs. 2 des Gesetzes, eine um den Anhängerzuschlag
@@ -130,7 +119,6 @@ Abgabenordnung und kann nach § 87a der Abgabenordnung in
 elektronischer Form übermittelt werden. Antrag im Sinne des § 10 Abs.
 2 des Gesetzes ist auch der Antrag, den Anhängerzuschlag nicht mehr zu
 erheben.
-
 
 ### § 5 Mitwirkung der Zulassungsbehörden
 
@@ -235,14 +223,12 @@ Behörde oder die von ihr bestimmte Datenverarbeitungsstelle
 übermittelt werden. Voraussetzung ist, dass die Richtigkeit der
 Datenübermittlung sichergestellt ist.
 
-
 ### § 6 Prüfung von Unterlagen
 
 Zur Aufklärung von Zweifeln oder Unstimmigkeiten kann sich die für die
 Ausübung der Verwaltung der Kraftfahrzeugsteuer zuständige Behörde das
 Fahrzeug vorführen und den Fahrzeugbrief, den Fahrzeugschein sowie den
 Steuerbescheid vorlegen lassen.
-
 
 ### § 7 Steuervergünstigungen
 
@@ -278,7 +264,6 @@ Kraftfahrzeugsteuer zuständigen Behörde zu löschen, wenn die
 Voraussetzungen für die Steuervergünstigung nicht nur vorübergehend
 wegfallen.
 
-
 ### § 8 Halterwechsel
 
 Stellt die bisher für die Ausübung der Verwaltung der
@@ -290,7 +275,6 @@ Kraftfahrzeugsteuer zuständig gewordenen Behörde mit, damit der
 zutreffende Beginn der Steuerpflicht für den Erwerber festgesetzt
 werden kann. Dies gilt nur, wenn auf Grund dieser Mitteilung eine
 steuerliche Auswirkung von mindestens 10 Euro eintreten würde.
-
 
 ### § 9 Abrechnungsverfahren
 
@@ -317,17 +301,13 @@ einem Gesamtbetrag fest. Deckt sich die Steuer mit der vom
 Steuerschuldner festgestellten Summe, so genügt eine Mitteilung
 hierüber.
 
-
 ## Abschnitt 3 - Ausländische Fahrzeuge
-
-
 
 ### § 10 Grundsatz
 
 Für die steuerliche Behandlung ausländischer Fahrzeuge gelten, soweit
 in den §§ 11 bis 15 nichts anderes bestimmt ist, die §§ 3 bis 8
 entsprechend.
-
 
 ### § 11 Steuererklärung
 
@@ -347,7 +327,6 @@ In den Fällen der Nummer 2 kann die Steuererklärung vor dem Eingang
 des Fahrzeugs in das Inland auch auf dem Postwege abgegeben werden;
 die Steuer ist dann gleichzeitig zu entrichten.
 
-
 ### § 12 Steuerfestsetzung, Steuerkarte
 
 (1) Die Zollstelle setzt die Steuer fest und gibt dem Steuerschuldner
@@ -359,7 +338,6 @@ erhält der Steuerschuldner eine mit Quittung versehene Steuerkarte.
 entrichtet ist. Sie verliert jedoch in den Fällen, in denen die Steuer
 tageweise entrichtet ist (§ 11 Abs. 3 des Gesetzes) ihre Gültigkeit
 spätestens nach Ablauf eines Jahres.
-
 
 ### § 13 Weiterversteuerung
 
@@ -374,7 +352,6 @@ befasst ist.
 (2) Für die Steuererklärung, die Steuerfestsetzung und die Erteilung
 der Steuerkarte gelten die §§ 11 und 12 entsprechend.
 
-
 ### § 14 Steuererstattung
 
 (1) Ansprüche auf Erstattung der Steuer, die sich auf Grund des § 12
@@ -386,17 +363,13 @@ festgesetzt hat. Elektronische Übermittlungen sind ausgeschlossen.
 Steuerschuldner die Steuerkarte zurückgibt. § 5 Abs. 4 Satz 2 des
 Gesetzes gilt sinngemäß.
 
-
 ### § 15 Überwachung
 
 Der Steuerschuldner hat die Steuerkarte mitzuführen und auf Verlangen
 den Zollbeamten und Polizeibeamten vorzuzeigen. Er hat die Steuerkarte
 in den Fällen des § 11 Nr. 1 bei jedem Grenzübertritt vorzulegen.
 
-
 ## Abschnitt 4 - Widerrechtliche Benutzung
-
-
 
 ### § 16
 
@@ -412,10 +385,7 @@ zuständigen Behörden. Dies gilt auch in den Fällen des Absatzes 1,
 soweit über die Festsetzung und Erhebung der Steuer hinaus Maßnahmen
 erforderlich werden.
 
-
 ## Abschnitt 5 - Kennzeichen im Sinne des § 1 Abs. 1 Nr. 4 des Gesetzes
-
-
 
 ### § 17
 

@@ -19,8 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 7 G v. 21.7.2011 I 1475
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 22 Satz 3 des Treibhausgas-Emissionshandelsgesetzes
@@ -29,7 +27,6 @@ vom 8. Juli 2004 (BGBl. I S. 1578) und des § 23 des Zuteilungsgesetzes
 Abschnitt des Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S.
 821) verordnet das Bundesministerium für Umwelt, Naturschutz und
 Reaktorsicherheit:
-
 
 ## § 1 Gebühren und Auslagen
 
@@ -50,10 +47,6 @@ Anlage zu dieser Verordnung.
     Vergütungen von Sachverständigen im Rahmen von Überprüfungen nach § 17
     Satz 2 des Zuteilungsgesetzes 2007.
 
-
-
-
-
 ## § 2 Kostenermäßigung und Kostenbefreiung
 
 Die nach § 20 Abs. 1 Satz 2 des Treibhausgas-Emissionshandelsgesetzes
@@ -64,7 +57,6 @@ Berechtigungen für eine Anlage die Gebühr nach Nummer 1 des
 Gebührenverzeichnisses aus Gründen der Billigkeit ermäßigen oder von
 der Erhebung der Gebühr absehen.
 
-
 ## § 3 Widerspruch
 
 Im Falle des Widerspruchs gegen eine Zuteilungsentscheidung oder gegen
@@ -72,11 +64,9 @@ deren Kostenentscheidung wird eine Gebühr nach Nummer 4 des
 Gebührenverzeichnisses erhoben, soweit der Widerspruch zurückgewiesen
 oder nach Beginn der sachlichen Bearbeitung zurückgenommen wird.
 
-
 ## § 4 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Anhang (zu § 1 Abs. 1) Gebührenverzeichnis
 

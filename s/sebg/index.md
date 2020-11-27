@@ -15,11 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 3675, 3686
 
-
-
 ## Teil 1 - Allgemeine Vorschriften
-
-
 
 ### § 1 Zielsetzung des Gesetzes
 
@@ -48,7 +44,6 @@ sicherzustellen, gefördert werden.
 (4) Die Grundsätze der Absätze 1 bis 3 gelten auch für strukturelle
 Änderungen einer gegründeten SE sowie für deren Auswirkungen auf die
 betroffenen Gesellschaften und ihre Arbeitnehmer.
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -142,10 +137,6 @@ Angelegenheiten einer Gesellschaft durch
     Mitglieder des Aufsichts- oder Verwaltungsorgans der Gesellschaft zu
     empfehlen oder abzulehnen.
 
-
-
-
-
 ### § 3 Geltungsbereich
 
 (1) Dieses Gesetz gilt für eine SE mit Sitz im Inland. Es gilt
@@ -157,14 +148,9 @@ Tochtergesellschaften und betroffene Betriebe mit Sitz im Inland.
 der Europäischen Union und die anderen Vertragsstaaten des Abkommens
 über den Europäischen Wirtschaftsraum.
 
-
 ## Teil 2 - Besonderes Verhandlungsgremium
 
-
-
 ### Kapitel 1 - Bildung und Zusammensetzung
-
-
 
 #### § 4 Information der Leitungen
 
@@ -207,7 +193,6 @@ Vereinbarung eines Plans zur Gründung einer Tochtergesellschaft.
 
 (4) Maßgeblicher Zeitpunkt für die Ermittlung der Zahl der
 Arbeitnehmer ist der Zeitpunkt der Information nach Absatz 2.
-
 
 #### § 5 Zusammensetzung des besonderen Verhandlungsgremiums
 
@@ -253,7 +238,6 @@ zusammenzusetzen. Über solche Änderungen haben die zuständigen
 Leitungen unverzüglich das besondere Verhandlungsgremium zu
 informieren. § 4 Abs. 2 bis 4 gilt entsprechend.
 
-
 #### § 6 Persönliche Voraussetzungen der auf das Inland entfallenden Mitglieder des besonderen Verhandlungsgremiums
 
 (1) Die persönlichen Voraussetzungen der Mitglieder des besonderen
@@ -274,7 +258,6 @@ Unternehmen vertreten ist.
 (4) Gehören dem besonderen Verhandlungsgremium mehr als sechs
 Mitglieder aus dem Inland an, ist mindestens jedes siebte Mitglied ein
 leitender Angestellter.
-
 
 #### § 7 Verteilung der auf das Inland entfallenden Sitze des besonderen Verhandlungsgremiums
 
@@ -305,10 +288,7 @@ Höchstzahlenverfahren auf die beteiligten Gesellschaften zu verteilen.
 SE beteiligt, sondern von ihr nur Betriebe ausländischer
 Gesellschaften betroffen, gelten die Absätze 2 bis 4 entsprechend.
 
-
 ### Kapitel 2 - Wahlgremium
-
-
 
 #### § 8 Zusammensetzung des Wahlgremiums; Urwahl
 
@@ -388,7 +368,6 @@ unterzeichnet sein; in Betrieben mit in der Regel bis zu 20
 wahlberechtigten Arbeitnehmern genügt die Unterzeichnung durch zwei
 Wahlberechtigte. § 8 Abs. 1 Satz 2 bis 6 gilt entsprechend.
 
-
 #### § 9 Einberufung des Wahlgremiums
 
 (1) Auf der Grundlage der von den Leitungen erhaltenen Informationen
@@ -412,7 +391,6 @@ eine solche nicht besteht, auf Betriebsebene
 die Verpflichtungen nach Absatz 1 den Vorsitzenden der
 Arbeitnehmervertretung, die die meisten Arbeitnehmer vertritt.
 
-
 #### § 10 Wahl der Mitglieder des besonderen Verhandlungsgremiums
 
 (1) Bei der Wahl müssen mindestens zwei Drittel der Mitglieder des
@@ -434,10 +412,7 @@ vertretenen Arbeitnehmer bestehenden Stimmenanteile gleichmäßig
 aufgeteilt. Dies gilt auch für die nach § 8 Abs. 5 Satz 3 gewählten
 Mitglieder des Wahlgremiums.
 
-
 ### Kapitel 3 - Verhandlungsverfahren
-
-
 
 #### § 11 Information über die Mitglieder des besonderen Verhandlungsgremiums
 
@@ -458,7 +433,6 @@ Arbeitnehmer zu vertreten haben, überschritten wird. Nach Ablauf der
 Frist gewählte oder bestellte Mitglieder können sich jederzeit an dem
 Verhandlungsverfahren beteiligen.
 
-
 #### § 12 Sitzungen; Geschäftsordnung
 
 (1) Die Leitungen laden unverzüglich nach Benennung der Mitglieder
@@ -470,7 +444,6 @@ Vorsitzenden und mindestens zwei Stellvertreter. Es kann sich eine
 schriftliche Geschäftsordnung geben.
 
 (2) Der Vorsitzende kann weitere Sitzungen einberufen.
-
 
 #### § 13 Zusammenarbeit zwischen besonderem Verhandlungsgremium und Leitungen
 
@@ -487,7 +460,6 @@ Verfahrens bis zur Eintragung der SE zu unterrichten. Zeitpunkt,
 Häufigkeit und Ort der Verhandlungen werden zwischen den Leitungen und
 dem besonderen Verhandlungsgremium einvernehmlich festgelegt.
 
-
 #### § 14 Sachverständige und Vertreter von geeigneten außenstehenden Organisationen
 
 (1) Das besondere Verhandlungsgremium kann bei den Verhandlungen
@@ -501,7 +473,6 @@ Funktion teilnehmen.
 (2) Das besondere Verhandlungsgremium kann beschließen, die Vertreter
 von geeigneten außenstehenden Organisationen vom Beginn der
 Verhandlungen zu unterrichten.
-
 
 #### § 15 Beschlussfassung im besonderen Verhandlungsgremium
 
@@ -557,7 +528,6 @@ Dies gilt
 (5) Wird eine SE durch Umwandlung gegründet, kann ein Beschluss nach
 Absatz 3 nicht gefasst werden.
 
-
 #### § 16 Nichtaufnahme oder Abbruch der Verhandlungen
 
 (1) Das besondere Verhandlungsgremium kann beschließen, keine
@@ -579,7 +549,6 @@ keine Anwendung.
 Absatz 1 nicht gefasst werden, wenn den Arbeitnehmern der
 umzuwandelnden Gesellschaft Mitbestimmungsrechte zustehen.
 
-
 #### § 17 Niederschrift
 
 In eine Niederschrift, die vom Vorsitzenden und einem weiteren
@@ -599,7 +568,6 @@ aufzunehmen
 
 
 Eine Abschrift der Niederschrift ist den Leitungen zu übermitteln.
-
 
 #### § 18 Wiederaufnahme der Verhandlungen
 
@@ -635,7 +603,6 @@ Mitbestimmung kraft Gesetzes anzuwenden.
 Teils 2 mit der Maßgabe, dass an die Stelle der Leitungen die Leitung
 der SE tritt.
 
-
 #### § 19 Kosten des besonderen Verhandlungsgremiums
 
 Die durch die Bildung und Tätigkeit des besonderen
@@ -646,7 +613,6 @@ Umfang Räume, sachliche Mittel, Dolmetscher und Büropersonal zur
 Verfügung zu stellen sowie die erforderlichen Reise- und
 Aufenthaltskosten der Mitglieder des besonderen Verhandlungsgremiums
 zu tragen.
-
 
 #### § 20 Dauer der Verhandlungen
 
@@ -660,14 +626,9 @@ des besonderen Verhandlungsgremiums eingeladen haben.
 Jahr ab der Einsetzung des besonderen Verhandlungsgremiums
 fortzusetzen.
 
-
 ## Teil 3 - Beteiligung der Arbeitnehmer in der SE
 
-
-
 ### Kapitel 1 - Beteiligung der Arbeitnehmer kraft Vereinbarung
-
-
 
 #### § 21 Inhalt der Vereinbarung
 
@@ -743,18 +704,11 @@ die in eine SE umgewandelt werden soll. Dies gilt auch bei einem
 Wechsel der Gesellschaft von einer dualistischen zu einer monistischen
 Organisationsstruktur und umgekehrt.
 
-
 ### Kapitel 2 - Beteiligung der Arbeitnehmer kraft Gesetzes
-
-
 
 #### Abschnitt 1 - SE-Betriebsrat kraft Gesetzes
 
-
-
 ##### Unterabschnitt 1 - Bildung und Geschäftsführung
-
-
 
 ###### § 22 Voraussetzung
 
@@ -772,7 +726,6 @@ Gesetzes finden ab dem Zeitpunkt der Eintragung der SE Anwendung, wenn
 
 
 (2) Absatz 1 gilt entsprechend im Fall des § 18 Abs. 3.
-
 
 ###### § 23 Errichtung des SE-Betriebsrats
 
@@ -811,7 +764,6 @@ drei Mitgliedern, dem neben dem Vorsitzenden zwei weitere zu wählende
 Mitglieder angehören. Der Ausschuss führt die laufenden Geschäfte des
 SE-Betriebsrats (geschäftsführender Ausschuss).
 
-
 ###### § 24 Sitzungen und Beschlüsse
 
 (1) Der SE-Betriebsrat soll sich eine schriftliche Geschäftsordnung
@@ -829,7 +781,6 @@ seiner Mitglieder anwesend ist. Die Beschlüsse des SE-Betriebsrats
 werden, soweit in diesem Gesetz nichts anderes bestimmt ist, mit der
 Mehrheit der anwesenden Mitglieder gefasst.
 
-
 ###### § 25 Prüfung der Zusammensetzung des SE-Betriebsrats
 
 Alle zwei Jahre, vom Tage der konstituierenden Sitzung des SE-
@@ -845,7 +796,6 @@ bestellt werden. Mit der neuen Wahl oder Bestellung endet die
 Mitgliedschaft der bisherigen Arbeitnehmervertreter aus diesen
 Mitgliedstaaten.
 
-
 ###### § 26 Beschluss zur Aufnahme von Neuverhandlungen
 
 (1) Vier Jahre nach seiner Einsetzung hat der SE-Betriebsrat mit der
@@ -859,10 +809,7 @@ der Maßgabe, dass an die Stelle des besonderen Verhandlungsgremiums
 der SE-Betriebsrat tritt. Kommt keine Vereinbarung zustande, findet
 die bisherige Regelung weiter Anwendung.
 
-
 ##### Unterabschnitt 2 - Aufgaben
-
-
 
 ###### § 27 Zuständigkeiten des SE-Betriebsrats
 
@@ -871,7 +818,6 @@ selbst, eine ihrer Tochtergesellschaften oder einen ihrer Betriebe in
 einem anderen Mitgliedstaat betreffen oder die über die Befugnisse der
 zuständigen Organe auf der Ebene des einzelnen Mitgliedstaats
 hinausgehen.
-
 
 ###### § 28 Jährliche Unterrichtung und Anhörung
 
@@ -935,7 +881,6 @@ von Absatz 1 gehören insbesondere
 (3) Die Leitung der SE informiert die Leitungen über Ort und Tag der
 Sitzung.
 
-
 ###### § 29 Unterrichtung und Anhörung über außergewöhnliche Umstände
 
 (1) Über außergewöhnliche Umstände, die erhebliche Auswirkungen auf
@@ -974,7 +919,6 @@ Stellungnahme zu handeln, hat der SE-Betriebsrat das Recht, ein
 weiteres Mal mit der Leitung der SE zusammenzutreffen, um eine
 Einigung herbeizuführen.
 
-
 ###### § 30 Information durch den SE-Betriebsrat
 
 Der SE-Betriebsrat informiert die Arbeitnehmervertreter der SE, ihrer
@@ -982,10 +926,7 @@ Tochtergesellschaften und Betriebe über den Inhalt und die Ergebnisse
 der Unterrichtungs- und Anhörungsverfahren. Sind keine
 Arbeitnehmervertreter vorhanden, sind die Arbeitnehmer zu informieren.
 
-
 ##### Unterabschnitt 3 - Freistellung und Kosten
-
-
 
 ###### § 31 Fortbildung
 
@@ -996,7 +937,6 @@ Betriebsrat hat die Teilnahme und die zeitliche Lage rechtzeitig der
 Leitung der SE mitzuteilen. Bei der Festlegung der zeitlichen Lage
 sind die betrieblichen Notwendigkeiten zu berücksichtigen.
 
-
 ###### § 32 Sachverständige
 
 Der SE-Betriebsrat oder der geschäftsführende Ausschuss können sich
@@ -1004,17 +944,13 @@ durch Sachverständige ihrer Wahl unterstützen lassen, soweit dies zur
 ordnungsgemäßen Erfüllung ihrer Aufgaben erforderlich ist.
 Sachverständige können auch Vertreter von Gewerkschaften sein.
 
-
 ###### § 33 Kosten und Sachaufwand
 
 Die durch die Bildung und Tätigkeit des SE-Betriebsrats und des
 geschäftsführenden Ausschusses entstehenden erforderlichen Kosten
 trägt die SE. Im Übrigen gilt § 19 Satz 2 entsprechend.
 
-
 #### Abschnitt 2 - Mitbestimmung kraft Gesetzes
-
-
 
 ##### § 34 Besondere Voraussetzungen
 
@@ -1087,7 +1023,6 @@ Gesellschaften beschäftigten Arbeitnehmer erstreckt.
 die Beschlüsse, die es nach Absatz 1 Nr. 2 Buchstabe b und Nr. 3
 Buchstabe b und Absatz 2 Satz 1 gefasst hat.
 
-
 ##### § 35 Umfang der Mitbestimmung
 
 (1) Liegen die Voraussetzungen des § 34 Abs. 1 Nr. 1 (Gründung einer
@@ -1104,7 +1039,6 @@ oder abzulehnen. Die Zahl dieser Arbeitnehmervertreter im Aufsichts-
 oder Verwaltungsorgan der SE bemisst sich nach dem höchsten Anteil an
 Arbeitnehmervertretern, der in den Organen der beteiligten
 Gesellschaften vor der Eintragung der SE bestanden hat.
-
 
 ##### § 36 Sitzverteilung und Bestellung
 
@@ -1142,7 +1076,6 @@ Sprecherausschüssen und Gewerkschaften mitzuteilen.
 (4) Die nach den Absätzen 2 und 3 ermittelten Arbeitnehmervertreter
 werden der Hauptversammlung der SE zur Bestellung vorgeschlagen. Die
 Hauptversammlung ist an diese Vorschläge gebunden.
-
 
 ##### § 37 Abberufung und Anfechtung
 
@@ -1184,7 +1117,6 @@ Genannten, der SE-Betriebsrat und die Leitung der SE. Die Klage muss
 innerhalb eines Monats nach dem Bestellungsbeschluss der
 Hauptversammlung erhoben werden.
 
-
 ##### § 38 Rechtsstellung; Innere Ordnung
 
 (1) Die Arbeitnehmervertreter im Aufsichts- oder Verwaltungsorgan der
@@ -1202,10 +1134,7 @@ einem weiteren Mitglied, so ist auch im Aufsichts- oder
 Verwaltungsorgan der SE ein weiteres Mitglied auf gemeinsamen
 Vorschlag der Anteilseigner- und der Arbeitnehmervertreter zu wählen.
 
-
 #### Abschnitt 3 - Tendenzschutz
-
-
 
 ##### § 39 Tendenzunternehmen
 
@@ -1229,10 +1158,7 @@ Gegenstände des § 28 Abs. 2 Nr. 5 bis 10 und des § 29 und erfolgt nur
 die den Arbeitnehmern infolge der Unternehmens- oder Betriebsänderung
 entstehen.
 
-
 ## Teil 4 - Grundsätze der Zusammenarbeit und Schutzbestimmungen
-
-
 
 ### § 40 Vertrauensvolle Zusammenarbeit
 
@@ -1240,7 +1166,6 @@ Die Leitung der SE und der SE-Betriebsrat oder die
 Arbeitnehmervertreter im Rahmen eines Verfahrens zur Unterrichtung und
 Anhörung arbeiten zum Wohl der Arbeitnehmer und des Unternehmens oder
 der Unternehmensgruppe vertrauensvoll zusammen.
-
 
 ### § 41 Geheimhaltung; Vertraulichkeit
 
@@ -1317,10 +1242,6 @@ Die Pflicht zur Vertraulichkeit gilt ferner nicht für
     der Unterrichtungen und die Ergebnisse der Anhörung zu unterrichten
     sind.
 
-
-
-
-
 ### § 42 Schutz der Arbeitnehmervertreter
 
 Bei der Wahrnehmung ihrer Aufgaben genießen die
@@ -1355,10 +1276,6 @@ beschäftigt sind. Dies gilt insbesondere für
 
 3.  die Entgeltfortzahlung.
 
-
-
-
-
 ### § 43 Missbrauchsverbot
 
 Eine SE darf nicht dazu missbraucht werden, den Arbeitnehmern
@@ -1367,7 +1284,6 @@ vermutet, wenn ohne Durchführung eines Verfahrens nach § 18 Abs. 3
 innerhalb eines Jahres nach Gründung der SE strukturelle Änderungen
 stattfinden, die bewirken, dass den Arbeitnehmern Beteiligungsrechte
 vorenthalten oder entzogen werden.
-
 
 ### § 44 Errichtungs- und Tätigkeitsschutz
 
@@ -1393,13 +1309,7 @@ Niemand darf
     oder einen Arbeitnehmervertreter im Aufsichts- oder Verwaltungsorgan
     wegen seiner Tätigkeit benachteiligen oder begünstigen.
 
-
-
-
-
 ## Teil 5 - Straf- und Bußgeldvorschriften; Schlussbestimmung
-
-
 
 ### § 45 Strafvorschriften
 
@@ -1446,7 +1356,6 @@ Anhörung, jedes Mitglied des Aufsichts- oder Verwaltungsorgans, eine
 im Unternehmen vertretene Gewerkschaft sowie die Leitungen
 antragsberechtigt.
 
-
 ### § 46 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer
@@ -1465,7 +1374,6 @@ antragsberechtigt.
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
 zwanzigtausend Euro geahndet werden.
-
 
 ### § 47 Geltung nationalen Rechts
 

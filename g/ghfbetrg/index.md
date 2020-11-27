@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 75 G v. 23.12.2003 I 2848
 
-
 ## § 1
 
 (1) Durch schriftliche Vereinbarung von zuständigen
@@ -39,7 +38,6 @@ bestimmten Stelle im Durchschnitt des dem Abschluß der Vereinbarung
 vorangegangenen Kalendervierteljahrs insgesamt nicht weniger als 50
 vom Hundert der Hafenarbeiter beschäftigt haben.
 
-
 ## § 2
 
 (1) Der Gesamthafenbetrieb bestimmt nach Maßgabe der geltenden Gesetze
@@ -55,7 +53,6 @@ oberste Arbeitsbehörde des Landes; die Genehmigung ist widerruflich.
 nichtgewerbsmäßige Arbeitsvermittlung durchzuführen hat, ist er der
 Aufsicht der Bundesagentur für Arbeit unterstellt und an deren
 Weisungen gebunden.
-
 
 ## § 3
 

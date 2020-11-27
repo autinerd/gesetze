@@ -23,8 +23,6 @@ Geändert durch
 Die v tritt gem. § 4 satz 2 am 13.3.2004 außer kraft, sofern nicht mit zustimmung des bundesrates etwas anderes verordnet wird. § 4 satz 2 aufgeh. mit zustimmung des bundesrates durch
 :   Art. 1 V v. 2.3.2004 I 331; dadurch ist die Geltung der V über den 13.3.2004 hinaus verlängert worden.
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 6 Abs. 1 Nr. 7 und 19 und der §§ 15 und 16, jeweils in
@@ -40,7 +38,6 @@ S. 3165) und dem Organisationserlass vom 22. Oktober 2002 (BGBl. I S.
 Ernährung und Landwirtschaft im Einvernehmen mit den Bundesministerien
 der Finanzen und für Wirtschaft und Arbeit:
 
-
 ## § 1 Anwendungsbereich
 
 Im Wirtschaftsjahr 2003/2004 kommt die in Artikel 2 Abs. 6 der
@@ -49,7 +46,6 @@ einer Stützungsregelung für Erzeuger bestimmter landwirtschaftlicher
 Kulturpflanzen (ABl. EG Nr. L 160 S. 1), die zuletzt durch Verordnung
 (EG) Nr. 1038/2001 des Rates vom 22. Mai 2001 (ABl. EG Nr. L 145 S.
 16) geändert worden ist, vorgesehene Regelung zur Anwendung.
-
 
 ## § 2 Definitionen
 
@@ -79,17 +75,12 @@ die in Anhang VI der Verordnung (EG) Nr. 2316/99 ausgewiesenen
 
 2.  Grundflächen für Mais im Falle des Absatzes 1 Nr. 2.
 
-
-
-
-
 ## § 3 Konzentration der Sanktionen
 
 Im Falle der Überschreitung einer nationalen Grundfläche sind die in
 Artikel 2 Abs. 4 der Verordnung (EG) Nr. 1251/99 vorgesehenen
 Maßnahmen auf die Teilgrundflächen anzuwenden, deren Überschreitung
 festgestellt wurde.
-
 
 ## § 4 Inkrafttreten, Außerkrafttreten
 

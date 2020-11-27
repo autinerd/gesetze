@@ -23,7 +23,6 @@ Stand: Die V tritt mit Ausnahme des § 10 nach ihrem § 11 am 31. Juli 2013 auß
     Deutschland beschlossene Rahmenlehrplan für die Berufsschule werden
     demnächst als Beilage im Bundesanzeiger veröffentlicht.
 
-
 ## Eingangsformel
 
 Auf Grund des § 6 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl.
@@ -36,13 +35,11 @@ verordnet das Bundesministerium für Wirtschaft und Technologie nach
 Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung im
 Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
 ## § 1 Ausnahmeregelung
 
 Abweichend von § 4 Abs. 3 des Berufsbildungsgesetzes und des § 25 Abs.
 3 der Handwerksordnung dürfen Jugendliche unter 18 Jahren nach den
 nachfolgenden Vorschriften ausgebildet werden.
-
 
 ## § 2 Gegenstand und Struktur der Erprobung
 
@@ -50,7 +47,6 @@ Zur Vorbereitung einer Ausbildungsordnung nach § 4 des
 Berufsbildungsgesetzes und § 25 der Handwerksordnung sollen
 insbesondere die Struktur und Inhalte eines neuen Ausbildungsberufs in
 der Speiseeisherstellung erprobt werden.
-
 
 ## § 3 Sachverständigenbeirat
 
@@ -65,12 +61,10 @@ Wirtschaft für Berufsbildung angehören. Dieser kann auch an der
 Vorbereitung einer Ausbildungsverordnung nach § 4 des
 Berufsbildungsgesetzes und § 25 der Handwerksordnung beteiligt werden.
 
-
 ## § 4 Dauer der Berufsausbildung
 
 Die Ausbildung dauert zwei Jahre und führt zu dem Abschluss
 Speiseeishersteller/Speiseeisherstellerin.
-
 
 ## § 5 Ausbildungsrahmenplan, Ausbildungsberufsbild
 
@@ -137,10 +131,6 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 11. Betriebsführung.
 
-
-
-
-
 ## § 6 Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
@@ -176,7 +166,6 @@ zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
 Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
 Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
 durchzusehen.
-
 
 ## § 7 Zwischenprüfung
 
@@ -257,10 +246,6 @@ Vorschriften bestehen folgende Vorgaben:
 
 
 3.  die Prüfungszeit beträgt 90 Minuten.
-
-
-
-
 
 ## § 8 Abschlussprüfung
 
@@ -449,7 +434,6 @@ kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich
 sind das bisherige Ergebnis und das Ergebnis der mündlichen
 Ergänzungsprüfung im Verhältnis von 2 : 1 zu gewichten.
 
-
 ## § 9 Fortsetzung der Berufsausbildung
 
 Die Berufsausbildung im Ausbildungsberuf
@@ -472,19 +456,16 @@ Ausbildungsberufe fortgesetzt werden:
 Dabei kann die Abschlussprüfung nach § 8 als Zwischenprüfung
 angerechnet werden.
 
-
 ## § 10 Bestehende Berufsausbildungsverhältnisse
 
 Die bei Außerkrafttreten dieser Verordnung bestehenden
 Berufsausbildungsverhältnisse können nach den Vorschriften dieser
 Verordnung zu Ende geführt werden.
 
-
 ## § 11 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2008 in Kraft und mit Ausnahme des
 § 10 am 31. Juli 2013 außer Kraft.
-
 
 ## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Speiseeishersteller/zur Speiseeisherstellerin
 
@@ -748,9 +729,6 @@ Fähigkeiten
 
     *
     *   5
-
-
-
 
 ## Abschnitt B: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten
 

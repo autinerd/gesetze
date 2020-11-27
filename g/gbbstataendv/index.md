@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 342 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Auf Grund der Anlage II Kapitel IV Abschnitt III Nr. 5 des
@@ -27,18 +26,15 @@ Einigungsvertrages vom 31. August 1990 in Verbindung mit Artikel 1 des
 Gesetzes vom 23. September 1990 (BGBl. 1990 II S. 885, 1199) verordnet
 der Bundesminister der Finanzen:
 
-
 ## § 1
 
 Die Genossenschaftsbank Berlin erhält den Namen "GBB Genossenschafts-
 Holding Berlin".
 
-
 ## § 2
 
 Das Statut der GBB Genossenschafts-Holding Berlin erhält die Fassung
 der Anlage zu dieser Verordnung.
-
 
 ## § 3
 
@@ -56,7 +52,6 @@ Aktiengesetzes entsprechend anzuwenden.
 (2) Die Satzung der Aktiengesellschaft wird durch Beschluß der
 Hauptversammlung der GBB Genossenschafts-Holding Berlin festgestellt.
 Absatz 1 Satz 3 und 4 ist entsprechend anzuwenden.
-
 
 ## § 4
 

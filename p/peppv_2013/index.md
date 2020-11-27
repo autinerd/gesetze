@@ -26,7 +26,6 @@ der durch Artikel 1 Nummer 5 des Gesetzes vom 17. März 2009 (BGBl. I
 S. 534) eingefügt worden ist, verordnet das Bundesministerium für
 Gesundheit:
 
-
 ## § 1 Abrechnungsgrundsätze
 
 (1) Die pauschalierenden Entgelte für die Psychiatrie und
@@ -115,7 +114,6 @@ von 1,0000 und für jeden teilstationären Berechnungstag eine
 Bewertungsrelation in Höhe von 0,7500 herangezogen wird; § 8 Absatz 5
 Satz 2 der Bundespflegesatzverordnung bleibt unberührt.
 
-
 ## § 2 Wiederaufnahmen in dasselbe Krankenhaus
 
 (1) Das Krankenhaus hat eine Zusammenfassung der Aufenthaltsdaten zu
@@ -153,7 +151,6 @@ Bewertungsrelationen bewertete Entgelte nach den Anlagen 1a und 2a.
 Eine Zusammenfassung von voll- und teilstationär bewerteten Leistungen
 erfolgt nicht.
 
-
 ## § 3 Verlegung
 
 (1) Im Falle der Verlegung in ein anderes Krankenhaus rechnet jedes
@@ -184,7 +181,6 @@ teilstationären Behandlungsfällen erfolgt nicht. Innerhalb der
 Bereiche finden die Regelungen zur Wiederaufnahme nach § 2 und zur
 Verlegung nach den Absätzen 1 bis 3 Anwendung.
 
-
 ## § 4 Jahreswechsel
 
 Sofern ein im Vorjahr aufgenommener Patient oder eine im Vorjahr
@@ -195,7 +191,6 @@ dabei ebenfalls ein Berechnungstag. Eine Fallzusammenfassung nach § 2
 Absatz 1 und 2 findet nicht statt. Die Sätze 1 und 2 finden auch für
 vor dem Umstiegszeitpunkt aufgenommene Patienten oder Patientinnen
 Anwendung.
-
 
 ## § 5 Zusatzentgelte
 
@@ -222,7 +217,6 @@ Einzelfall auf der Grundlage von § 8 Absatz 1 Satz 3 der
 Bundespflegesatzverordnung für jedes Zusatzentgelt 600 Euro
 abzurechnen.
 
-
 ## § 6 Teilstationäre Leistungen
 
 (1) Für teilstationäre Leistungen können für den Aufnahmetag und jeden
@@ -244,7 +238,6 @@ des Krankenhauses von einer teilstationären Behandlung in eine
 vollstationäre Behandlung verlegt, kann für den Verlegungstag kein
 teilstationäres Entgelt abgerechnet werden.
 
-
 ## § 7 Sonstige Entgelte
 
 Für die unbewerteten Entgelte der Anlagen 1b und 2b gilt § 15 Absatz 1
@@ -263,14 +256,12 @@ Bundespflegesatzverordnung für jeden vollstationären Berechnungstag
 250 Euro und für jeden teilstationären Berechnungstag 190 Euro
 abzurechnen.
 
-
 ## § 8 Kostenträgerwechsel
 
 Tritt während der voll- oder teilstationären Behandlung ein
 Zuständigkeitswechsel des Kostenträgers ein, wird der gesamte
 Krankenhausfall mit dem Kostenträger abgerechnet, der am Tag der
 Aufnahme leistungspflichtig ist.
-
 
 ## § 9 Laufzeit der Entgelte
 
@@ -284,7 +275,6 @@ Bundespflegesatzverordnung zu vereinbarenden Entgelte werden nach
 Maßgabe des § 15 Absatz 1 Satz 3 der Bundespflegesatzverordnung die
 für diese Leistungen bisher vereinbarten Entgelte weiter abgerechnet.
 
-
 ## § 10 Vorschlagsverfahren
 
 Für die Entwicklung des Entgeltkatalogs 2014 hat das Institut für das
@@ -294,7 +284,6 @@ eröffnen. Mit dem Vorschlagsverfahren sollen Änderungsvorschläge zu
 dem Entgeltkatalog 2013 strukturiert zur Weiterentwicklung des
 Entgeltsystems berücksichtigt werden. Das Vorschlagsverfahren steht
 allen Beteiligten offen.
-
 
 ## § 11 Inkrafttreten, Außerkrafttreten, Übergangsregelung
 
@@ -308,7 +297,6 @@ Dezember 2013 außer Kraft. Kann der Entgeltkatalog 2014 erst nach dem
 der Anlagen zu dieser Verordnung bis zum Inkrafttreten einer
 Vereinbarung nach § 17d Absatz 3 des Krankenhausfinanzierungsgesetzes
 entsprechend weiter anzuwenden.
-
 
 ## (XXXX) Anlagen
 
@@ -358,10 +346,6 @@ entsprechend weiter anzuwenden.
 *    *   Anlage 4
 
     *   Zusatzentgelte-Katalog – unbewertete Entgelte
-
-
-
-
 
 ## Anlage 1a PEPP-Version 2013
 
@@ -1530,8 +1514,6 @@ entsprechend weiter anzuwenden.
     *
     *
 
-
-
 ## Anlage 1b PEPP-Version 2013
 
    ## PEPP-Entgeltkatalog
@@ -1666,10 +1648,6 @@ dürfen.
 
     *   Keine neuropsychiatrische Neben- oder Hauptdiagnose
 
-
-
-
-
 ## Anlage 2a PEPP-Version 2013
 
 ## PEPP-Entgeltkatalog
@@ -1764,9 +1742,6 @@ dürfen.
     *   Psychosomatische oder psychiatrische Störungen
 
     *   0,7561
-
-
-
 
 ## Anlage 2b PEPP-Version 2013
 
@@ -1869,10 +1844,6 @@ dürfen.
 *    *   TP99Z
 
     *   Keine neuropsychiatrische Neben- oder Hauptdiagnose
-
-
-
-
 
 ## Anlage 3 PEPP-Version 2013
 

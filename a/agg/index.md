@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 15 Abs. 66 G v. 5.2.2009 I 160
 
-
 ## Abschnitt 1 - Allgemeiner Teil
-
-
 
 ### § 1 Ziel des Gesetzes
 
@@ -29,7 +26,6 @@ Ziel des Gesetzes ist, Benachteiligungen aus Gründen der Rasse oder
 wegen der ethnischen Herkunft, des Geschlechts, der Religion oder
 Weltanschauung, einer Behinderung, des Alters oder der sexuellen
 Identität zu verhindern oder zu beseitigen.
-
 
 ### § 2 Anwendungsbereich
 
@@ -89,7 +85,6 @@ Personengruppen dienen.
 (4) Für Kündigungen gelten ausschließlich die Bestimmungen zum
 allgemeinen und besonderen Kündigungsschutz.
 
-
 ### § 3 Begriffsbestimmungen
 
 (1) Eine unmittelbare Benachteiligung liegt vor, wenn eine Person
@@ -133,7 +128,6 @@ Person zu einem Verhalten bestimmt, das einen Beschäftigten oder eine
 Beschäftigte wegen eines in § 1 genannten Grundes benachteiligt oder
 benachteiligen kann.
 
-
 ### § 4 Unterschiedliche Behandlung wegen mehrerer Gründe
 
 Erfolgt eine unterschiedliche Behandlung wegen mehrerer der in § 1
@@ -142,7 +136,6 @@ genannten Gründe, so kann diese unterschiedliche Behandlung nach den
 Rechtfertigung auf alle diese Gründe erstreckt, derentwegen die
 unterschiedliche Behandlung erfolgt.
 
-
 ### § 5 Positive Maßnahmen
 
 Ungeachtet der in den §§ 8 bis 10 sowie in § 20 benannten Gründe ist
@@ -150,14 +143,9 @@ eine unterschiedliche Behandlung auch zulässig, wenn durch geeignete
 und angemessene Maßnahmen bestehende Nachteile wegen eines in § 1
 genannten Grundes verhindert oder ausgeglichen werden sollen.
 
-
 ## Abschnitt 2 - Schutz der Beschäftigten vor Benachteiligung
 
-
-
 ### Unterabschnitt 1 - Verbot der Benachteiligung
-
-
 
 #### § 6 Persönlicher Anwendungsbereich
 
@@ -192,7 +180,6 @@ sowie den beruflichen Aufstieg betrifft, gelten die Vorschriften
 dieses Abschnitts für Selbstständige und Organmitglieder, insbesondere
 Geschäftsführer oder Geschäftsführerinnen und Vorstände, entsprechend.
 
-
 #### § 7 Benachteiligungsverbot
 
 (1) Beschäftigte dürfen nicht wegen eines in § 1 genannten Grundes
@@ -206,7 +193,6 @@ Benachteiligungsverbot des Absatzes 1 verstoßen, sind unwirksam.
 (3) Eine Benachteiligung nach Absatz 1 durch Arbeitgeber oder
 Beschäftigte ist eine Verletzung vertraglicher Pflichten.
 
-
 #### § 8 Zulässige unterschiedliche Behandlung wegen beruflicher Anforderungen
 
 (1) Eine unterschiedliche Behandlung wegen eines in § 1 genannten
@@ -219,7 +205,6 @@ rechtmäßig und die Anforderung angemessen ist.
 gleichwertige Arbeit wegen eines in § 1 genannten Grundes wird nicht
 dadurch gerechtfertigt, dass wegen eines in § 1 genannten Grundes
 besondere Schutzvorschriften gelten.
-
 
 #### § 9 Zulässige unterschiedliche Behandlung wegen der Religion oder Weltanschauung
 
@@ -242,7 +227,6 @@ gemeinschaftliche Pflege einer Religion oder Weltanschauung zur
 Aufgabe machen, von ihren Beschäftigten ein loyales und aufrichtiges
 Verhalten im Sinne ihres jeweiligen Selbstverständnisses verlangen zu
 können.
-
 
 #### § 10 Zulässige unterschiedliche Behandlung wegen des Alters
 
@@ -297,19 +281,12 @@ einschließen:
     wirtschaftlich abgesichert sind, weil sie, gegebenenfalls nach Bezug
     von Arbeitslosengeld, rentenberechtigt sind.
 
-
-
-
-
 ### Unterabschnitt 2 - Organisationspflichten des Arbeitgebers
-
-
 
 #### § 11 Ausschreibung
 
 Ein Arbeitsplatz darf nicht unter Verstoß gegen § 7 Abs. 1
 ausgeschrieben werden.
-
 
 #### § 12 Maßnahmen und Pflichten des Arbeitgebers
 
@@ -343,10 +320,7 @@ geeigneter Stelle oder den Einsatz der im Betrieb oder der
 Dienststelle üblichen Informations- und Kommunikationstechnik
 erfolgen.
 
-
 ### Unterabschnitt 3 - Rechte der Beschäftigten
-
-
 
 #### § 13 Beschwerderecht
 
@@ -360,7 +334,6 @@ der oder dem beschwerdeführenden Beschäftigten mitzuteilen.
 
 (2) Die Rechte der Arbeitnehmervertretungen bleiben unberührt.
 
-
 #### § 14 Leistungsverweigerungsrecht
 
 Ergreift der Arbeitgeber keine oder offensichtlich ungeeignete
@@ -369,7 +342,6 @@ Belästigung am Arbeitsplatz, sind die betroffenen Beschäftigten
 berechtigt, ihre Tätigkeit ohne Verlust des Arbeitsentgelts
 einzustellen, soweit dies zu ihrem Schutz erforderlich ist. § 273 des
 Bürgerlichen Gesetzbuchs bleibt unberührt.
-
 
 #### § 15 Entschädigung und Schadensersatz
 
@@ -405,7 +377,6 @@ Beschäftigungsverhältnisses, Berufsausbildungsverhältnisses oder einen
 beruflichen Aufstieg, es sei denn, ein solcher ergibt sich aus einem
 anderen Rechtsgrund.
 
-
 #### § 16 Maßregelungsverbot
 
 (1) Der Arbeitgeber darf Beschäftigte nicht wegen der Inanspruchnahme
@@ -421,10 +392,7 @@ Absatz 1 Satz 2 gilt entsprechend.
 
 (3) § 22 gilt entsprechend.
 
-
 ### Unterabschnitt 4 - Ergänzende Vorschriften
-
-
 
 #### § 17 Soziale Verantwortung der Beteiligten
 
@@ -442,7 +410,6 @@ die dort genannten Rechte gerichtlich geltend machen; § 23 Abs. 3 Satz
 2 bis 5 des Betriebsverfassungsgesetzes gilt entsprechend. Mit dem
 Antrag dürfen nicht Ansprüche des Benachteiligten geltend gemacht
 werden.
-
 
 #### § 18 Mitgliedschaft in Vereinigungen
 
@@ -465,10 +432,7 @@ sowie deren jeweiligen Zusammenschlüssen.
 des § 7 Abs. 1 darstellt, besteht ein Anspruch auf Mitgliedschaft oder
 Mitwirkung in den in Absatz 1 genannten Vereinigungen.
 
-
 ## Abschnitt 3 - Schutz vor Benachteiligung im Zivilrechtsverkehr
-
-
 
 ### § 19 Zivilrechtliches Benachteiligungsverbot
 
@@ -515,7 +479,6 @@ vorübergehenden Gebrauch ist in der Regel kein Geschäft im Sinne des
 Absatzes 1 Nr. 1, wenn der Vermieter insgesamt nicht mehr als 50
 Wohnungen vermietet.
 
-
 ### § 20 Zulässige unterschiedliche Behandlung
 
 (1) Eine Verletzung des Benachteiligungsverbots ist nicht gegeben,
@@ -560,7 +523,6 @@ Kalkulation beruht, insbesondere auf einer versicherungsmathematisch
 ermittelten Risikobewertung unter Heranziehung statistischer
 Erhebungen.
 
-
 ### § 21 Ansprüche
 
 (1) Der Benachteiligte kann bei einem Verstoß gegen das
@@ -585,10 +547,7 @@ von zwei Monaten geltend gemacht werden. Nach Ablauf der Frist kann
 der Anspruch nur geltend gemacht werden, wenn der Benachteiligte ohne
 Verschulden an der Einhaltung der Frist verhindert war.
 
-
 ## Abschnitt 4 - Rechtsschutz
-
-
 
 ### § 22 Beweislast
 
@@ -596,7 +555,6 @@ Wenn im Streitfall die eine Partei Indizien beweist, die eine
 Benachteiligung wegen eines in § 1 genannten Grundes vermuten lassen,
 trägt die andere Partei die Beweislast dafür, dass kein Verstoß gegen
 die Bestimmungen zum Schutz vor Benachteiligung vorgelegen hat.
-
 
 ### § 23 Unterstützung durch Antidiskriminierungsverbände
 
@@ -620,10 +578,7 @@ die Besorgung von Rechtsangelegenheiten Benachteiligter gestattet.
 (4) Besondere Klagerechte und Vertretungsbefugnisse von Verbänden zu
 Gunsten von behinderten Menschen bleiben unberührt.
 
-
 ## Abschnitt 5 - Sonderregelungen für öffentlich-rechtliche Dienstverhältnisse
-
-
 
 ### § 24 Sonderregelung für öffentlich-rechtliche Dienstverhältnisse
 
@@ -642,13 +597,7 @@ besonderen Rechtsstellung entsprechend für
 3.  Zivildienstleistende sowie anerkannte Kriegsdienstverweigerer, soweit
     ihre Heranziehung zum Zivildienst betroffen ist.
 
-
-
-
-
 ## Abschnitt 6 - Antidiskriminierungsstelle
-
-
 
 ### § 25 Antidiskriminierungsstelle des Bundes
 
@@ -663,7 +612,6 @@ Erfüllung ihrer Aufgaben notwendige Personal- und Sachausstattung zur
 Verfügung zu stellen. Sie ist im Einzelplan des Bundesministeriums für
 Familie, Senioren, Frauen und Jugend in einem eigenen Kapitel
 auszuweisen.
-
 
 ### § 26 Rechtsstellung der Leitung der Antidiskriminierungsstelle des Bundes
 
@@ -716,7 +664,6 @@ Amtsverschwiegenheit und des Verbots der Annahme von Belohnungen oder
 Geschenken. Bei unfallverletzten Beamtinnen oder Beamten bleiben die
 gesetzlichen Ansprüche auf das Heilverfahren und einen Unfallausgleich
 unberührt.
-
 
 ### § 27 Aufgaben
 
@@ -777,7 +724,6 @@ Zuständigkeitsbereich betroffenen Beauftragten der Bundesregierung und
 des Deutschen Bundestages sollen bei Benachteiligungen aus mehreren
 der in § 1 genannten Gründe zusammenarbeiten.
 
-
 ### § 28 Befugnisse
 
 (1) Die Antidiskriminierungsstelle des Bundes kann in Fällen des § 27
@@ -791,7 +737,6 @@ Bundes bei der Erfüllung ihrer Aufgaben zu unterstützen, insbesondere
 die erforderlichen Auskünfte zu erteilen. Die Bestimmungen zum Schutz
 personenbezogener Daten bleiben unberührt.
 
-
 ### § 29 Zusammenarbeit mit Nichtregierungsorganisationen und anderen Einrichtungen
 
 Die Antidiskriminierungsstelle des Bundes soll bei ihrer Tätigkeit
@@ -799,7 +744,6 @@ Nichtregierungsorganisationen sowie Einrichtungen, die auf
 europäischer, Bundes-, Landes- oder regionaler Ebene zum Schutz vor
 Benachteiligungen wegen eines in § 1 genannten Grundes tätig sind, in
 geeigneter Form einbeziehen.
-
 
 ### § 30 Beirat
 
@@ -831,22 +775,17 @@ ehrenamtlich aus. Sie haben Anspruch auf Aufwandsentschädigung sowie
 Reisekostenvergütung, Tagegelder und Übernachtungsgelder. Näheres
 regelt die Geschäftsordnung.
 
-
 ## Abschnitt 7 - Schlussvorschriften
-
-
 
 ### § 31 Unabdingbarkeit
 
 Von den Vorschriften dieses Gesetzes kann nicht zu Ungunsten der
 geschützten Personen abgewichen werden.
 
-
 ### § 32 Schlussbestimmung
 
 Soweit in diesem Gesetz nicht Abweichendes bestimmt ist, gelten die
 allgemeinen Bestimmungen.
-
 
 ### § 33 Übergangsbestimmungen
 

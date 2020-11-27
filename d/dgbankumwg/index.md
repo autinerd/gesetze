@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 9 G v. 22. 5.2005 I 1373
 
-
 ## § 1 Errichtung durch Umwandlung
 
 (1) Die Deutsche Genossenschaftsbank, Körperschaft des öffentlichen
@@ -42,7 +41,6 @@ Aufbewahrung beim Gericht zu zeichnen.
 das Handelsregister einzutragen. § 39 des Aktiengesetzes ist
 anzuwenden.
 
-
 ## § 2 Wirkungen der Umwandlung für die Anteilsinhaber
 
 (1) Die Anteilsinhaber der Deutschen Genossenschaftsbank übernehmen
@@ -56,19 +54,16 @@ nominal einer Million Deutsche Mark zustehenden 200 Stück vinkulierte
 Namensaktien im Nennbetrag von jeweils fünftausend Deutsche Mark gehen
 auf die Aktiengesellschaft über.
 
-
 ## § 3 Aktien
 
 Die Aktien der Aktiengesellschaft lauten vorbehaltlich künftiger
 Satzungsänderungen auf den Namen.
-
 
 ## § 4 Satzung
 
 Die Satzung der Aktiengesellschaft wird im Anhang 2 zu diesem Gesetz
 festgestellt. Sie kann nach Maßgabe des Aktiengesetzes geändert
 werden.
-
 
 ## § 5 Aufgabe
 
@@ -78,14 +73,12 @@ Förderung der genossenschaftlichen Primärstufe und der
 genossenschaftlichen Zentralbanken. Die Aufgabe kann durch
 Satzungsänderung aufgehoben werden.
 
-
 ## § 6 Vorstand
 
 Die Vorstandsmitglieder der Deutschen Genossenschaftsbank gelten bis
 zum Ablauf der Amtszeit, für die sie berufen sind, als bestellt im
 Sinne des § 84 des Aktiengesetzes. Ihre Abberufung nach § 84 des
 Aktiengesetzes ist zulässig.
-
 
 ## § 7 Aufsichtsrat
 
@@ -98,7 +91,6 @@ einzuberufende Hauptversammlung.
 das Mitbestimmungsgesetz finden auf den ersten Aufsichtsrat keine
 Anwendung.
 
-
 ## § 8 Erste Hauptversammlung
 
 Der Vorstand beruft die erste Hauptversammlung innerhalb von drei
@@ -106,7 +98,6 @@ Monaten nach Inkrafttreten dieses Gesetzes ein. Diese Hauptversammlung
 wählt die Mitglieder des Aufsichtsrats, soweit sie nicht kraft Satzung
 entsandt werden und nicht als Aufsichtsratsmitglieder der Arbeitnehmer
 nach dem Mitbestimmungsgesetz zu wählen sind.
-
 
 ## § 9 Ausgabe gedeckter Schuldverschreibungen
 
@@ -148,7 +139,6 @@ Anwendung, wenn andere Kreditinstitute Darlehen aus dem ihnen zur
 Verfügung gestellten Erlös der von der Aktiengesellschaft ausgegebenen
 gedeckten Schuldverschreibungen gewähren.
 
-
 ## § 10 Erlöschen des Emissionsrechts nach § 9
 
 (1) Das Recht zur Ausgabe von gedeckten Schuldverschreibungen
@@ -170,7 +160,6 @@ Geschäftsjahres, in dem das Recht zur Ausgabe gedeckter
 Schuldverschreibungen nach Absatz 1 erloschen ist, diese Tatsache im
 Bundesanzeiger bekanntzumachen.
 
-
 ## § 11 Zwangsvollstreckung und Insolvenz
 
 (1) Auf Arreste und Zwangsvollstreckungen in die in das
@@ -179,7 +168,6 @@ Pfandbriefgesetzes entsprechend anzuwenden.
 
 (2) Im Falle der Eröffnung des Insolvenzverfahrens sind die §§ 30 bis
 37 des Pfandbriefgesetzes entsprechend anzuwenden.
-
 
 ## § 12 Anlagesicherheit, Deckungsstockfähigkeit
 
@@ -198,7 +186,6 @@ Anlegung von Geldern oder die Hinterlegung von Wertpapieren bei der
 Deutschen Zentralgenossenschaftskasse oder der Deutschen
 Genossenschaftsbank betreffen, gelten auch für die Aktiengesellschaft.
 
-
 ## § 13 Übergangsregelung für gedeckte Schuldverschreibungen, Gewährleistungen der Deutschen Genossenschaftsbank sowie ihr gewährte Darlehen
 
 (1) Die von der Deutschen Genossenschaftsbank begebenen gedeckten
@@ -211,7 +198,6 @@ sowie die von ihr übernommenen Gewährleistungen gelten auch nach dem
 Inkrafttreten dieses Gesetzes als Darlehen an eine inländische
 Körperschaft des öffentlichen Rechts und Gewährleistungen einer
 solchen Körperschaft.
-
 
 ## § 14 Übergangsregelungen für betriebliche Interessenvertretung sowie für ehemalige Beamte
 
@@ -246,11 +232,9 @@ Verpflichtungen, insbesondere Versorgungsansprüche aus früheren
 Beamten- und Dienstverhältnissen, die am 31. Dezember 1997 gegenüber
 der Deutschen Genossenschaftsbank bestanden haben.
 
-
 ## § 15 Inkrafttreten, Außerkrafttreten
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Anhang 1 Anteilseigner der DG BANK (Stand 31. Dezember 1997)
 
@@ -3610,10 +3594,6 @@ Fundstelle des Originaltextes: BGBl. I 1998, 2106 - 2113
     *   2.533.920.000
 
     *   100,0000
-
-
-
-
 
 ## Anhang 2 Satzung DG Bank AG
 

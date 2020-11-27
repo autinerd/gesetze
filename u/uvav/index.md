@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 459 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Auf Grund des § 193 Abs. 8 und des § 202 Satz 1 des Siebten Buches
@@ -28,13 +27,11 @@ durch Artikel 1 Nr. 7 des Gesetzes vom 17. Juli 2001 (BGBl. I S. 1600)
 geändert worden ist, verordnet das Bundesministerium für Arbeit und
 Sozialordnung:
 
-
 ## § 1 Anwendungsbereich
 
 Die Anzeige von Unfällen und Berufskrankheiten, die nach den §§ 193
 und 202 des Siebten Buches Sozialgesetzbuch zu erstatten ist, richtet
 sich nach den Bestimmungen dieser Verordnung.
-
 
 ## § 2 Anzeige von Unfällen
 
@@ -51,7 +48,6 @@ Schulhoheitsträger nicht Unternehmer ist, von den Schulhoheitsträgern
 (§ 193 Abs. 3 Satz 1 des Siebten Buches Sozialgesetzbuch) auf
 Vordrucken nach dem Muster der Anlage 2 zu erstatten.
 
-
 ## § 3 Anzeige von Berufskrankheiten
 
 (1) Die Ärzte und Zahnärzte haben bei begründetem Verdacht auf das
@@ -64,7 +60,6 @@ Berufskrankheit die Anzeige nach § 193 Abs. 2 des Siebten Buches
 Sozialgesetzbuch auf Vordrucken nach dem Muster der Anlage 4 zu
 erstatten.
 
-
 ## § 4 Gestaltung der Vordrucke, Erläuterungen, Hinweise
 
 (1) Die Größe der Vordrucke beträgt 297 x 210 mm (Format DIN A4).
@@ -76,7 +71,6 @@ Erläuterungen erstellen.
 
 (3) Die anzeigepflichtigen Unternehmer haben die Versicherten auf ihr
 Recht hinzuweisen, eine Kopie der Anzeige zu verlangen.
-
 
 ## § 5 Anzeige durch Datenübertragung
 
@@ -95,36 +89,30 @@ Sicherstellung von Datenschutz und Datensicherheit nach dem jeweiligen
 Stand der Technik vorzusehen; bei der Nutzung allgemein zugänglicher
 Netze sind Verschlüsselungsverfahren anzuwenden.
 
-
 ## § 6 Inkrafttreten, Außerkrafttreten
 
 (1) Diese Verordnung tritt am 1. August 2002 in Kraft.
 
 (2)
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage 1 Unfallanzeige
 
 (Inhalt: nicht darstellbares Formular;
 Fundstelle: BGBl. I 2002, 555)
 
-
 ## Anlage 2 Unfallanzeige für Kinder in Tageseinrichtungen, Schüler, Studierende
 
 (Inhalt: nicht darstellbares Formular;
 Fundstelle: BGBl. I 2002, 556)
 
-
 ## Anlage 3 Ärztliche Anzeige bei Verdacht auf eine Berufskrankheit
 
 (Inhalt: nicht darstellbares Formular;
 Fundstelle: BGBl. I 2002, 557)
-
 
 ## Anlage 4 Anzeige des Unternehmers bei Anhaltspunkten für eine Berufskrankheit
 

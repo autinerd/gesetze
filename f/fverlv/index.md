@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 1680
 
-
 ## Eingangsformel
 
 Auf Grund des § 1 Abs. 3 Satz 13 des Außensteuergesetzes vom 8.
@@ -24,9 +23,7 @@ September 1972 (BGBl. I S. 1713), der durch Artikel 7 des Gesetzes vom
 14\. August 2007 (BGBl. I S. 1912) eingefügt worden ist, verordnet das
 Bundesministerium der Finanzen:
 
-
 ## Abschnitt 1 - Allgemeine Vorschriften
-
 
 ### § 1 Begriffsbestimmungen
 
@@ -108,7 +105,6 @@ wird, ohne dass eine Funktion mit übergeht, oder wenn der Vorgang
 zwischen voneinander unabhängigen Dritten nicht als Veräußerung oder
 Erwerb einer Funktion angesehen würde.
 
-
 ### § 2 Anwendung der Regelungen zum Transferpaket
 
 (1)
@@ -159,9 +155,7 @@ nur angesetzt werden, wenn sie im Einigungsbereich liegt und der
 Steuerpflichtige glaubhaft macht, dass sie dem
 Fremdvergleichsgrundsatz entspricht.
 
-
 ## Abschnitt 2 - Wert des Transferpakets und Ansatz der Verrechnungspreise für seine Bestandteile
-
 
 ### § 3 Wert des Transferpakets
 
@@ -191,7 +185,6 @@ beteiligten Unternehmen, angemessene Kapitalisierungszinssätze (§ 5)
 und ein von den Umständen der Funktionsausübung abhängiger
 Kapitalisierungszeitraum (§ 6) zu Grunde zu legen.
 
-
 ### § 4 Bestandteile des Transferpakets
 
 (1) Werden für einzelne Teile des Transferpakets unterschiedliche
@@ -214,7 +207,6 @@ entsprechend so anzusetzen, dass sie zusammen mit den ursprünglich
 bestimmten Verrechnungspreisen dem nach § 3 Abs. 1 bestimmten Wert des
 Transferpakets als Ganzes entsprechen.
 
-
 ### § 5 Kapitalisierungszinssatz
 
 1             Zur Bestimmung des jeweils angemessenen
@@ -229,14 +221,12 @@ voraussichtlich ausgeübt wird.
 vergleichbaren Fällen jeweils unternehmensübliche Risikobeurteilung
 berücksichtigt.
 
-
 ### § 6 Kapitalisierungszeitraum
 
 Werden keine Gründe für einen bestimmten, von den Umständen der
 Funktionsausübung abhängigen Kapitalisierungszeitraum glaubhaft
 gemacht oder sind solche Gründe nicht ersichtlich, ist ein
 unbegrenzter Kapitalisierungszeitraum zu Grunde zu legen.
-
 
 ### § 7 Bestimmung des Einigungsbereichs
 
@@ -288,7 +278,6 @@ nach § 1 Abs. 3 Satz 9 in Verbindung mit § 1 Abs. 3 Satz 7 des
 Außensteuergesetzes bereit wäre, einen Preis für die Übernahme der
 Funktion zu bezahlen.
 
-
 ### § 8 Schadenersatz-, Entschädigungs- und Ausgleichsansprüche
 
 1             Gesetzliche oder vertragliche Schadenersatz-,
@@ -305,9 +294,7 @@ dass keine wesentlichen immateriellen Wirtschaftsgüter und Vorteile
 Übertragung oder Überlassung ist zwingende Folge von Ansprüchen im
 Sinne des Satzes 1.
 
-
 ## Abschnitt 3 - Einzelheiten in Fällen nachträglicher Anpassungen
-
 
 ### § 9 Anpassungsregelung des Steuerpflichtigen
 
@@ -318,7 +305,6 @@ auf wesentliche immaterielle Wirtschaftsgüter und Vorteile
 Lizenzvereinbarungen getroffen werden, die die zu zahlende Lizenz vom
 Umsatz oder Gewinn des Lizenznehmers abhängig machen oder für die Höhe
 der Lizenz Umsatz und Gewinn berücksichtigen.
-
 
 ### § 10 Erhebliche Abweichung
 
@@ -334,7 +320,6 @@ Unternehmens begrenzt.
 ermittelte Höchstpreis niedriger ist als der ursprüngliche
 Mindestpreis des verlagernden Unternehmens.
 
-
 ### § 11 Angemessene Anpassung
 
 Eine Anpassung im Sinne des § 1 Abs. 3 Satz 12 des Außensteuergesetzes
@@ -346,20 +331,16 @@ Verrechnungspreis und dem Mittelwert zwischen dem neuen Höchstpreis
 des übernehmenden Unternehmens und dem ursprünglichen Mindestpreis des
 verlagernden Unternehmens entspricht.
 
-
 ## Abschnitt 4 - Schlussvorschriften
-
 
 ### § 12 Anwendungsvorschrift
 
 Diese Verordnung ist erstmals für den Veranlagungszeitraum 2008
 anzuwenden.
 
-
 ### § 13 Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 2008 in Kraft.
-
 
 ### Schlussformel
 

@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 7 G v. 7.12.2011 I 2592
 
-
 ## Abschnitt 1 - Unmittelbare Steuerberechtigung
-
-
 
 ### § 1 Unmittelbare Steuerberechtigung
 
@@ -60,7 +57,6 @@ Ort der Leitung des Schuldners der Kapitalerträge befindet.
 (4) Die Vorschriften über die Zerlegung der Körperschaftsteuer (§§ 2
 bis 6) und über die Zerlegung der Lohnsteuer (§ 7) bleiben unberührt.
 
-
 ### § 1a Unmittelbare Steuerberechtigung für die Einkommensteuer auf Einkünfte im Sinne des § 49 Abs. 1 Nr. 7 und 10 des Einkommensteuergesetzes nach Maßgabe der zu § 19 Abs. 6 der Abgabenordnung erlassenen Rechtsverordnung
 
 (1) Der Anspruch auf die Einkommensteuer auf Einkünfte im Sinne des §
@@ -80,10 +76,7 @@ hatte.
 Überweisungen erfolgen monatlich und sind am 15. des Folgemonats zu
 leisten.
 
-
 ## Abschnitt 2 - Zerlegung der Körperschaftsteuer
-
-
 
 ### § 2 Grundlagen der Zerlegung der Körperschaftsteuer
 
@@ -144,7 +137,6 @@ zerlegt die Beträge im Sinne des Satzes 1 unverzüglich nach dem
 Zeitpunkt der Zahlung und setzt die Zerlegungsanteile der einzelnen
 Länder fest.
 
-
 ### § 3 Zerlegung der verbleibenden Körperschaftsteuer
 
 (1) Das Erhebungsfinanzamt zerlegt die verbleibende Körperschaftsteuer
@@ -186,7 +178,6 @@ worden ist, oder ist bei der Zerlegung der verbleibenden
 Körperschaftsteuer ein Fehler unterlaufen, so ist die Zerlegung der
 verbleibenden Körperschaftsteuer zu ändern.
 
-
 ### § 4 Zerlegung der Körperschaftsteuer-Vorauszahlungen
 
 (1) Sofern die Voraussetzungen für eine Zerlegung der
@@ -211,7 +202,6 @@ eingegangenen Körperschaftsteuer-Vorauszahlungen für denselben
 Veranlagungszeitraum zu verrechnen. Der sich als Saldo ergebende
 Betrag ist nach den vorstehenden Grundsätzen zu zerlegen.
 
-
 ### § 5 Abrechnung der Zerlegung
 
 (1) Das Erhebungsfinanzamt rechnet mit Ablauf des
@@ -232,7 +222,6 @@ Absatz 1 wie Vorauszahlungen berücksichtigt.
 
 (3) In den Fällen, in denen die Zerlegung aufgehoben oder geändert
 wird, gilt Absatz 1 entsprechend.
-
 
 ### § 6 Verfahrensrechtliche Vorschriften
 
@@ -284,10 +273,7 @@ auch dann verpflichtet eine Erklärung zur Zerlegung der
 Körperschaftsteuer zu übermitteln, wenn sie hierzu vom zuständigen
 Finanzamt aufgefordert wird.
 
-
 ## Abschnitt 3 - Zerlegung der Lohnsteuer
-
-
 
 ### § 7 Zerlegung der Lohnsteuer
 
@@ -378,10 +364,7 @@ einem Clearingverfahren.
 (8) Die Vorschriften der § 185 bis 189 der Abgabenordnung sind auf das
 Verfahren bei der Zerlegung der Lohnsteuer nicht anzuwenden.
 
-
 ## Abschnitt 4 - Zerlegung des Zinsabschlags
-
-
 
 ### § 8 Zerlegung der Kapitalertragsteuer
 
@@ -412,10 +395,7 @@ Bundesministerium der Finanzen mitzuteilen. Dieses stellt die Anteile
 der einzelnen Länder am Aufkommen nach Absatz 1 fest. Die Abrechnung
 erfolgt im Rahmen eines Clearingverfahrens.
 
-
 ## Abschnitt 4a - Zerlegung der Einkommensteuer auf Einkünfte im Sinne des § 49 Abs. 1 Nr. 7 und 10 des Einkommensteuergesetzes, soweit durch Rechtsverordnung zu § 19 Abs. 6 der Abgabenordnung für die Einkommensbesteuerung von Personen, die beschränkt steuerpflichtig oder nach § 1 Abs. 3 des Einkommensteuergesetzes unbeschränkt steuerpflichtig sind und ausschließlich mit Einkünften im Sinne des § 49 Abs. 1 Nr. 7 und 10 des Einkommensteuergesetzes zu veranlagen sind, einer Finanzbehörde die örtliche Zuständigkeit übertragen wird
-
-
 
 ### § 8a Zerlegung der Einkommensteuer auf Einkünfte im Sinne des § 49 Abs. 1 Nr. 7 und 10 des Einkommensteuergesetzes nach Maßgabe der zu § 19 Abs. 6 der Abgabenordnung erlassenen Rechtsverordnung
 
@@ -553,10 +533,7 @@ Abweichungsbeträge zu den Zahlungen auf der Grundlage der vorläufigen
 Zerlegungen für die Jahre 2009 bis 2011 sind am 15. Januar 2012
 auszugleichen.
 
-
 ## Abschnitt 5 - Gemeinsame Vorschriften
-
-
 
 ### § 9 Zahlungen im Clearingverfahren
 
@@ -564,7 +541,6 @@ Die sich im Rahmen der Clearingverfahren ergebenden Zahlungen sind von
 den zahlungspflichtigen Ländern bis zum Ende des auf das jeweilige
 Kalendervierteljahr folgenden Monats an die obersten Finanzbehörden
 der empfangsberechtigten Länder zu überweisen.
-
 
 ### § 10 Erlöschen der Ansprüche
 
@@ -576,12 +552,10 @@ Kalenderjahres geltend gemacht werden.
 des vierten auf die Vereinnahmung der Steuer folgenden Kalenderjahres
 geltend gemacht werden.
 
-
 ### § 11 Rechtsweg
 
 Für die Entscheidung von Rechtsstreitigkeiten auf Grund dieses
 Gesetzes ist der Finanzrechtsweg gegeben.
-
 
 ### § 12 Anwendung
 

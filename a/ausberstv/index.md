@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 3322
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 16 Abs. 1b Satz 2 des Zweiten Buches Sozialgesetzbuch
@@ -26,7 +24,6 @@ Dezember 2003, BGBl. I S. 2954, 2955), der durch Artikel 1 Nr. 14 des
 Gesetzes vom 20. Juli 2006 (BGBl. I S. 1706) eingefügt worden ist,
 verordnet das Bundesministerium für Arbeit und Soziales:
 
-
 ## § 1 Pauschalierung
 
 Lässt die Agentur für Arbeit als Träger der Grundsicherung für
@@ -34,7 +31,6 @@ Arbeitsuchende als Auftraggeber die Ausbildungsvermittlung durch die
 für die Arbeitsförderung zuständige Stelle der Bundesagentur für
 Arbeit als Auftragnehmer wahrnehmen, erstattet sie dieser die
 notwendigen Aufwendungen in einem monatlichen Pauschalbetrag.
-
 
 ## § 2 Berechnungsgrundlage
 
@@ -65,7 +61,6 @@ Bundesagentur für Arbeit neu festzusetzen. Die Festsetzung erfolgt bis
 zum 30. Juni eines jeden Jahres und gilt jeweils ab dem 1. Juli des
 betreffenden Jahres.
 
-
 ## § 3 Fälligkeit des Erstattungsbetrages
 
 Die Kostenpauschale im Sinne von § 2 Abs. 3 wird erstmalig für den
@@ -73,7 +68,6 @@ Monat fällig, in dem der zugewiesene Jugendliche Bewerberstatus hat
 bzw. erhält. Die Abrechnung erfolgt monatlich nachträglich für die
 Gesamtzahl der Personen, die im Vormonat vom Auftragnehmer im Rahmen
 des Auftrags als Bewerber geführt wurden.
-
 
 ## § 4 Inkrafttreten
 

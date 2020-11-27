@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 14.12.2011 I 3110
 
-
 ## Eingangsformel
 
 Auf Grund des § 22 Abs. 2 des Elektro- und Elektronikgerätegesetzes
@@ -26,7 +25,6 @@ vom 16. März 2005 (BGBl. I S. 762) in Verbindung mit dem 2. Abschnitt
 des Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821)
 verordnet das Bundesministerium für Umwelt, Naturschutz und
 Reaktorsicherheit:
-
 
 ## § 1 Gebühren und Auslagen
 
@@ -42,7 +40,6 @@ Umsatzsteuer erhoben.
 
 (2) Für Amtshandlungen nach Absatz 1 Satz 1 werden Auslagen nach § 10
 des Verwaltungskostengesetzes erhoben.
-
 
 ## § 2 Kostenermäßigung und Kostenbefreiung
 
@@ -83,14 +80,12 @@ Meldepflichten nach § 13 des Elektro- und Elektronikgerätegesetzes
 nicht oder nur unvollständig nach, so gilt die Bedingung als nicht
 eingetreten.
 
-
 ## § 3 Widerruf und Rücknahme einer Amtshandlung, Ablehnung und Zurücknahme von Anträgen
 
 Für den Widerruf oder die Rücknahme einer Amtshandlung, die Ablehnung
 eines Antrags auf Vornahme einer Amtshandlung sowie in den Fällen der
 Zurücknahme eines Antrags auf Vornahme einer Amtshandlung werden
 Gebühren nach Maßgabe des § 15 des Verwaltungskostengesetzes erhoben.
-
 
 ## § 4 Widerspruchsgebühr
 
@@ -116,7 +111,6 @@ nur deshalb keinen Erfolg hat, weil die Verletzung einer Verfahrens-
 oder Formvorschrift nach § 45 des Verwaltungsverfahrensgesetzes
 unbeachtlich ist.
 
-
 ## § 5 Übergangsvorschriften
 
 Für Anträge nach § 2 Absatz 2 Satz 1 dieser Verordnung, die sich auf
@@ -125,11 +119,9 @@ zugrunde liegt, die in Anhang 2 nicht verzeichnet ist, gilt Anhang 2
 in der Fassung der Verordnung, welche im Zeitpunkt der Beantragung der
 Amtshandlung galt.
 
-
 ## § 6 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Anhang 1 (zu § 1 Absatz 1) Gebührenverzeichnis
 
@@ -285,9 +277,6 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
     *   bis zu 75 Prozent der
         Gebühr nach Nummer 1
-
-
-
 
 ## Anhang 2 (zu § 2 Absatz 2)
 

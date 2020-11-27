@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 35 G v. 6.12.2011 I 2515
 
-
 ## Abschnitt 1 - Erlaubnis zum Führen von Berufsbezeichnungen
-
-
 
 ### § 1 Führen der Berufsbezeichnungen
 
@@ -63,7 +60,6 @@ Meldepflicht und Nachprüfung nach diesem Gesetz.
 Drittstaatsangehörige, soweit sich hinsichtlich der Diplomanerkennung
 nach dem Recht der Europäischen Gemeinschaften eine Gleichstellung
 ergibt.
-
 
 ### § 2 Voraussetzungen für die Erteilung der Erlaubnis
 
@@ -298,7 +294,6 @@ wahrgenommen werden.
 Anerkennungsverfahren nach diesem Gesetz und berichtet nach Ablauf von
 drei Jahren dem Deutschen Bundestag.
 
-
 ### § 2a Unterrichtungspflichten
 
 (1) Die zuständigen Behörden des Landes, in dem der Beruf des
@@ -336,10 +331,7 @@ die Europäische Kommission für den nach Artikel 60 Abs. 1 der
 Richtlinie 2005/36/EG erforderlichen Bericht benötigt, zur
 Weiterleitung an die Kommission.
 
-
 ## Abschnitt 2 - Ausbildung
-
-
 
 ### § 3 Ausbildungsziel
 
@@ -408,7 +400,6 @@ zur Ausübung heilkundlicher Tätigkeiten erprobt werden, hat sich die
 Ausbildung auch auf die Befähigung zur Ausübung der Tätigkeiten zu
 erstrecken, für die das Modellvorhaben qualifizieren soll. Das Nähere
 regeln die Ausbildungspläne der Ausbildungsstätten.
-
 
 ### § 4 Dauer und Struktur der Ausbildung
 
@@ -507,7 +498,6 @@ erforderliche Qualifikation zu vermitteln. § 4 Abs. 1 Satz 1 erster
 Halbsatz gilt mit der Maßgabe, dass die staatliche Prüfung sich auch
 auf die mit der Ausbildung erworbenen erweiterten Kompetenzen zu
 erstrecken hat.
-
 
 ### § 4a Staatliche Prüfung bei Ausbildungen nach § 4 Abs. 7
 
@@ -622,7 +612,6 @@ einen Ausbildungsnachweis verfügen, der eine einem Modellvorhaben nach
 § 4 Abs. 7 entsprechende Ausbildung bestätigt und zur Ausübung
 heilkundlicher Tätigkeit berechtigt.
 
-
 ### § 5 Voraussetzungen für den Zugang zur Ausbildung
 
 Voraussetzung für den Zugang zu einer Ausbildung nach § 4 Abs. 1 ist,
@@ -652,13 +641,6 @@ Voraussetzung für den Zugang zu einer Ausbildung nach § 4 Abs. 1 ist,
         Ausbildung von mindestens einjähriger Dauer in der Krankenpflegehilfe
         oder Altenpflegehilfe.
 
-
-
-
-
-
-
-
 ### § 6 Anrechnung gleichwertiger Ausbildungen
 
 Die zuständige Behörde kann auf Antrag eine andere Ausbildung im
@@ -666,7 +648,6 @@ Umfange ihrer Gleichwertigkeit bis zu zwei Dritteln der Gesamtstunden
 der Ausbildung nach Maßgabe der nach § 8 erlassenen Ausbildungs- und
 Prüfungsverordnung für die Berufe in der Krankenpfleger auf die Dauer
 einer Ausbildung nach § 4 Abs. 1 anrechnen.
-
 
 ### § 7 Anrechnung von Fehlzeiten
 
@@ -695,7 +676,6 @@ das Erreichen des Ausbildungsziels durch die Anrechnung nicht
 gefährdet wird. Freistellungsansprüche nach dem
 Betriebsverfassungsgesetz, dem Bundespersonalvertretungsgesetz oder
 den Landespersonalvertretungsgesetzen bleiben unberührt.
-
 
 ### § 8 Verordnungsermächtigung
 
@@ -754,10 +734,7 @@ Verbindung mit § 2 Absatz 3, 3a, 4, 5 oder 6 beantragen, zu regeln:
 Grundlage erlassenen Rechtsverordnung enthaltenen Regelungen des
 Verwaltungsverfahrens durch Landesrecht sind ausgeschlossen.
 
-
 ## Abschnitt 3 - Ausbildungsverhältnis
-
-
 
 ### § 9 Ausbildungsvertrag
 
@@ -807,7 +784,6 @@ gesetzlichen Vertretern auszuhändigen.
 
 (4) Änderungen des Ausbildungsvertrages bedürfen der Schriftform.
 
-
 ### § 10 Pflichten des Trägers der Ausbildung
 
 (1) Der Träger der Ausbildung hat
@@ -830,7 +806,6 @@ gesetzlichen Vertretern auszuhändigen.
 werden, die dem Ausbildungszweck und dem Ausbildungsstand entsprechen;
 sie sollen ihren physischen und psychischen Kräften angemessen sein.
 
-
 ### § 11 Pflichten der Schülerin und des Schülers
 
 Die Schülerin und der Schüler haben sich zu bemühen, die in § 3
@@ -847,10 +822,6 @@ Ausbildungsziel zu erreichen. Sie sind insbesondere verpflichtet,
 3.  die für Beschäftigte in Einrichtungen nach § 4 Abs. 2 Satz 3 geltenden
     Bestimmungen über die Schweigepflicht einzuhalten und über
     Betriebsgeheimnisse Stillschweigen zu wahren.
-
-
-
-
 
 ### § 12 Ausbildungsvergütung
 
@@ -869,14 +840,12 @@ Sachbezugswerten abzugelten.
 Ausbildungszeit hinausgehende Beschäftigung ist nur ausnahmsweise
 zulässig und besonders zu vergüten.
 
-
 ### § 13 Probezeit
 
 Das Ausbildungsverhältnis beginnt mit der Probezeit. Die Probezeit
 beträgt bei Gesundheits- und Krankenpflegerinnen, Gesundheits- und
 Krankenpflegern, Gesundheits- und Kinderkrankenpflegerinnen und
 Gesundheits- und Kinderkrankenpflegern sechs Monate.
-
 
 ### § 14 Ende des Ausbildungsverhältnisses
 
@@ -890,7 +859,6 @@ nicht oder kann sie oder er ohne eigenes Verschulden die staatliche
 Prüfung vor Ablauf der Ausbildungszeit nicht ablegen, so verlängert
 sich das Ausbildungsverhältnis auf ihren schriftlichen Antrag bis zur
 nächstmöglichen Wiederholungsprüfung, höchstens jedoch um ein Jahr.
-
 
 ### § 15 Kündigung des Ausbildungsverhältnisses
 
@@ -928,14 +896,12 @@ als zwei Wochen bekannt sind. Ist ein vorgesehenes Güteverfahren vor
 einer außergerichtlichen Stelle eingeleitet, so wird bis zu dessen
 Beendigung der Lauf dieser Frist gehemmt.
 
-
 ### § 16 Beschäftigung im Anschluss an das Ausbildungsverhältnis
 
 Werden die Schülerin und der Schüler im Anschluss an das
 Ausbildungsverhältnis beschäftigt, ohne dass hierüber ausdrücklich
 etwas vereinbart worden ist, so gilt ein Arbeitsverhältnis auf
 unbestimmte Zeit als begründet.
-
 
 ### § 17 Nichtigkeit von Vereinbarungen
 
@@ -963,16 +929,11 @@ Arbeitsverhältnis auf unbestimmte Zeit eingeht.
 
 4.  die Festsetzung der Höhe eines Schadenersatzes in Pauschbeträgen.
 
-
-
-
-
 ### § 18 Mitglieder geistlicher Gemeinschaften, Diakonissen, Diakonieschwestern
 
 Die §§ 9 bis 17 finden keine Anwendung auf Schülerinnen und Schüler,
 die Mitglieder geistlicher Gemeinschaften oder Diakonissen oder
 Diakonieschwestern sind.
-
 
 ### § 18a Modellvorhaben nach § 4 Abs. 7
 
@@ -987,10 +948,7 @@ Rahmen von Modellvorhaben nach § 4 Abs. 7 die Ausbildung an einer
 Schule ableisten, soweit die nach § 4 Abs. 1 Satz 1 vorgesehene
 Ausbildungsdauer überschritten ist.
 
-
 ## Abschnitt 4 - Erbringen von Dienstleistungen
-
-
 
 ### § 19 Dienstleistungserbringer
 
@@ -1125,7 +1083,6 @@ Gleiches gilt für Drittstaaten und Drittstaatsangehörige, soweit sich
 hinsichtlich der Anerkennung von Ausbildungsnachweisen nach dem Recht
 der Europäischen Gemeinschaften eine Gleichstellung ergibt.
 
-
 ### § 19a Verwaltungszusammenarbeit
 
 Die zuständigen Behörden sind berechtigt, für jede
@@ -1141,7 +1098,6 @@ und die gute Führung des Dienstleisters sowie Informationen darüber,
 dass keine berufsbezogenen disziplinarischen oder strafrechtlichen
 Sanktionen vorliegen, zu übermitteln.
 
-
 ### § 19b Pflichten des Dienstleistungserbringers
 
 Gesundheits- und Krankenpflegerinnen, Gesundheits- und Krankenpfleger,
@@ -1153,10 +1109,7 @@ diese Pflichten verstoßen, so hat die zuständige Behörde unverzüglich
 die zuständige Behörde des Niederlassungsmitgliedstaats dieses
 Dienstleistungserbringers hierüber zu unterrichten.
 
-
 ## Abschnitt 5 - Zuständigkeiten
-
-
 
 ### § 20 Aufgaben der zuständigen Behörden
 
@@ -1185,10 +1138,7 @@ Gesundheits- und Kinderkrankenpflegers ausübt.
 (3) Die Länder bestimmen die zur Durchführung dieses Gesetzes
 zuständigen Behörden.
 
-
 ## Abschnitt 6 - Bußgeldvorschriften
-
-
 
 ### § 21 Ordnungswidrigkeiten
 
@@ -1226,16 +1176,12 @@ zuständigen Behörden.
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu dreitausend
 Euro geahndet werden.
 
-
 ## Abschnitt 7 - Anwendungsvorschriften
-
-
 
 ### § 22 Nichtanwendung des Berufsbildungsgesetzes
 
 Für die Ausbildung zu den in diesem Gesetz geregelten Berufen findet
 das Berufsbildungsgesetz keine Anwendung.
-
 
 ### § 23 Weitergeltung der Erlaubnis zur Führung der Berufsbezeichnungen
 
@@ -1273,7 +1219,6 @@ Krankenpflegegesetzes vom 4. Juni 1985 (BGBl. I S. 893), das zuletzt
 durch Artikel 20 des Gesetzes vom 27. April 2002 (BGBl. I S. 1467)
 geändert worden ist.
 
-
 ### § 24 Weitergeltung staatlicher Anerkennungen von Schulen
 
 (1) Schulen entsprechend § 4 Abs. 2 Satz 1, die vor Inkrafttreten
@@ -1304,10 +1249,6 @@ werden, die bei Inkrafttreten dieses Gesetzes
 3.  an einer für die in Nummer 1 genannten Tätigkeiten nach dem in Nummer
     2 genannten Gesetz erforderlichen Weiterbildung teilnehmen und diese
     erfolgreich abschließen.
-
-
-
-
 
 ### § 25 Erlaubnis bei Vorlage von Nachweisen anderer EWR-Vertragsstaaten
 
@@ -1452,18 +1393,15 @@ die dort genannten Voraussetzungen mit Ausnahme der geforderten Dauer
 der Berufserfahrung erfüllen, wird das Anerkennungsverfahren nach § 2
 Absatz 3a durchgeführt.
 
-
 ### § 26 Befristung
 
 § 5 Nummer 2a tritt am 31. Dezember 2017 außer Kraft.
-
 
 ### § 27 Evaluation
 
 Das Bundesministerium für Gesundheit erstattet dem Deutschen Bundestag
 bis zum 31. Dezember 2015 über die Erfahrungen, die mit der Anwendung
 des § 5 Nummer 2a gemacht wurden, Bericht.
-
 
 ### Anlage (zu § 2 Abs. 4 Satz 1)
 

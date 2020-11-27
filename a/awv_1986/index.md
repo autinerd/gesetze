@@ -24,7 +24,6 @@ Zuletzt geändert durch
 Ausfuhrliste neugefasst durch
 :   V v. 31.3.2010 BAnz. Nr. 58, 1351
 
-
 ## Eingangsformel
 
 Auf Grund des § 27 Abs. 1 Satz 1 und 2 in Verbindung mit § 2 Abs. 1,
@@ -41,10 +40,7 @@ Bundesregierung und auf Grund des § 27 Abs. 1 Satz 1 und 2 in
 Verbindung mit § 2 Abs. 1 und § 5 der Bundesminister für Wirtschaft im
 Einvernehmen mit den Bundesministern des Auswärtigen und der Finanzen:
 
-
 ## Kapitel I - Allgemeine Vorschriften
-
-
 
 ### § 1 Antrag
 
@@ -58,13 +54,11 @@ Vornahme der Handlung geltend macht.
 (2) Genehmigungen in der Form der Allgemeinverfügung (§ 35 Satz 2
 Verwaltungsverfahrensgesetz) werden von Amts wegen erteilt.
 
-
 ### § 1a Verfahren über eine einheitliche Stelle
 
 Verfahren nach den §§ 41, 41a, 45c und 45d können über eine
 einheitliche Stelle nach den Vorschriften des
 Verwaltungsverfahrensgesetzes abgewickelt werden.
-
 
 ### § 2 Sammelgenehmigungen
 
@@ -72,7 +66,6 @@ Dem Antragsteller kann eine befristete Genehmigung für eine
 unbestimmte Anzahl gleichartiger Rechtsgeschäfte oder Handlungen
 (Sammelgenehmigung) erteilt werden, wenn dies wegen der beabsichtigten
 Wiederholung der Rechtsgeschäfte oder Handlungen zweckmäßig erscheint.
-
 
 ### § 2a Zertifikate nach § 2a des Außenwirtschaftsgesetzes
 
@@ -185,7 +178,6 @@ der Regel erforderlich:
 (3) Die Gültigkeitsdauer des Zertifikats darf höchstens fünf Jahre
 betragen.
 
-
 ### § 2b Formerfordernisse
 
 Soweit nichts anderes bestimmt ist, bedürfen Verwaltungsakte im
@@ -199,7 +191,6 @@ im Bundesanzeiger festlegen, von welchem Zeitpunkt an und unter
 welchen Voraussetzungen Anträge auf Erlass eines Verwaltungsakts im
 Außenwirtschaftsverkehr elektronisch gestellt und Verwaltungsakte
 elektronisch erlassen werden können.
-
 
 ### § 3 Rückgabe von Genehmigungsbescheiden
 
@@ -221,14 +212,12 @@ zurückzugeben, wenn
 (2) Die Rückgabepflicht auf Grund von Verordnungen der Europäischen
 Gemeinschaft bleibt unberührt.
 
-
 ### § 3a Aufbewahrung von Genehmigungsbescheiden
 
 Genehmigungsbescheide sind, soweit sie nicht zurückgegeben werden
 müssen, für die Dauer von fünf Jahren nach Ablauf der Gültigkeit
 aufzubewahren. Ein vollständig ausgenutzter Genehmigungsbescheid kann
 auch auf Datenträger aufbewahrt werden.
-
 
 ### § 4 Warenwert, Wertgrenzen
 
@@ -243,18 +232,15 @@ einheitlichen wirtschaftlichen Gesamtvorganges dar, so ist bei
 Anwendung der Wertgrenzen dieser Verordnung der Wert des
 Gesamtvorganges zugrunde zu legen.
 
-
 ### § 4a Beschränkung nach § 7 Abs. 1 Nr. 3 AWG
 
 Die Abgabe einer Erklärung im Außenwirtschaftsverkehr, durch die sich
 ein Gebietsansässiger an einem Boykott gegen einen anderen Staat
 beteiligt (Boykott-Erklärung), ist verboten.
 
-
 ### § 4b (weggefallen)
 
 -
-
 
 ### § 4c Begriffsbestimmungen
 
@@ -354,21 +340,11 @@ Im Sinne dieser Verordnung sind
     Rechtsgeschäfte gleich, bei denen diese Güter vor der Veräußerung an
     Gebietsfremde an andere Gebietsansässige veräußert werden.
 
-
-
-
-
 ## Kapitel II - Warenausfuhr
-
-
 
 ### 1. Titel - Beschränkungen
 
-
-
 #### 1. Untertitel - Genehmigungsbedürftige Ausfuhr in Gebiete außerhalb des Gemeinschaftsgebietes und Ausfuhrverbote
-
-
 
 ##### § 5 Beschränkung nach § 7 Abs. 1 AWG
 
@@ -385,16 +361,13 @@ für Güter des Teils I Abschnitt C Nummer 5A901 der Ausfuhrliste. Satz
 1 gilt ebenfalls nicht für Technologieunterlagen und
 Datenverarbeitungsprogramme.
 
-
 ##### § 5a (weggefallen)
 
 -
 
-
 ##### § 5b (weggefallen)
 
 -
-
 
 ##### § 5c Beschränkung nach § 7 Abs. 1 AWG
 
@@ -445,7 +418,6 @@ zugrunde liegenden Vertrag derartige Güter im Werte von nicht mehr als
 2 500 Euro geliefert werden sollen. Satz 1 gilt nicht für
 Datenverarbeitungsprogramme und Technologie.
 
-
 ##### § 5d Beschränkung nach § 7 Abs. 1 AWG
 
 (1) Die Ausfuhr von Gütern, die nicht in der Ausfuhrliste (Anlage AL)
@@ -477,16 +449,13 @@ zugrunde liegenden Vertrag derartige Güter im Werte von nicht mehr als
 2 500 Euro geliefert werden sollen. Satz 1 gilt nicht für
 Datenverarbeitungsprogramme und Technologie.
 
-
 ##### § 5e (weggefallen)
 
 -
 
-
 ##### § 6
 
 (weggefallen)
-
 
 ##### § 6a Beschränkung nach § 5 AWG
 
@@ -511,10 +480,7 @@ jeweils geltenden Fassung durch Verordnungen der Kommission
 festgesetzten Mindestpreise nicht unterschreiten oder wenn keine
 Mindestpreise festgesetzt sind.
 
-
 #### 2. Untertitel - Genehmigungsbedürftige Verbringung in Mitgliedstaaten der Europäischen Union
-
-
 
 ##### § 7 Beschränkung nach Artikel 22 Absatz 2 der Verordnung (EG) Nr. 428/2009 und nach § 7 Abs. 1 AWG
 
@@ -614,15 +580,11 @@ sollen. Satz 1 gilt nicht für Güter des Teils I Abschnitt C, Nummern
 der Kategorie O, Nummern 1C350, 1C450 und 5A901 sowie für
 Datenverarbeitungsprogramme und Technologie.
 
-
 ### 2. Titel - Verfahrens- und Meldevorschriften nach den §§ 26 und 46 Abs. 3 AWG
-
-
 
 #### § 8 (weggefallen)
 
 -
-
 
 #### 1. Untertitel - Genehmigungsfreie Ausfuhr und Wiederausfuhr aus dem Gemeinschaftsgebiet
 
@@ -639,7 +601,6 @@ Recht in den Europäischen Gemeinschaften. Die
 Außenwirtschaftsverordnung enthält ergänzende nationale Vorschriften
 zum Ausfuhrverfahren und zur Regelung der Wiederausfuhr der
 Europäischen Gemeinschaften.
-
 
 ##### § 9 Gestellung und Anmeldung
 
@@ -702,7 +663,6 @@ Art der Ausfuhrsendung oder aus sonstigen Umständen. Die Erklärung ist
 der Ausfuhrsendung beizufügen; sie kann auch auf einem Begleitpapier
 oder dem Packstück abgegeben werden.
 
-
 ##### § 10 Verfahren bei der zollamtlichen Behandlung
 
 (1) Die Zollstelle prüft die Zulässigkeit der Ausfuhr. Sie kann zu
@@ -729,7 +689,6 @@ Ausfuhrzollstelle entfernen.
 Ausgangszollstelle vom Ort der Gestellung oder vom zugelassenen Ort
 entfernt oder verladen werden.
 
-
 ##### § 11 Unvollständige Anmeldung und vereinfachtes Anmeldeverfahren
 
 (1) (weggefallen)
@@ -744,7 +703,6 @@ einer Ausfuhrsendung ausgeführt worden sind.
 (3) Zuständig für die Bewilligung des vereinfachten Anmeldeverfahrens
 nach Artikel 253 Abs. 2 und Artikel 282 der Verordnung (EWG) Nr.
 2454/93 ist das Hauptzollamt.
-
 
 ##### § 12 Anschreibeverfahren
 
@@ -761,7 +719,6 @@ angegeben werden.
 Hauptzollamt.
 
 (3) (weggefallen)
-
 
 ##### § 13 Einstufiges Ausfuhrverfahren für vertrauenswürdige Ausführer
 
@@ -841,11 +798,9 @@ elektronischen Ausfuhranmeldung nach Absatz 2 Nr. 6 befreit.
 
 (5) u. (6) (weggefallen)
 
-
 ##### § 14 (weggefallen)
 
 -
-
 
 ##### § 15 Erhebung von Ausfuhrdaten bei der Mineralölausfuhr
 
@@ -868,11 +823,9 @@ Marktbeobachtung an das Bundesamt für Wirtschaft und Ausfuhrkontrolle
 Frist beginnt mit dem Ende des Jahres, in dem die Daten von der
 zuständigen Zollstelle übermittelt worden sind.
 
-
 ##### § 16 (weggefallen)
 
 -
-
 
 ##### § 16a Ausfuhr von Obst und Gemüse
 
@@ -949,7 +902,6 @@ Ausfuhranmeldung eine Konformitätsbescheinigung oder
 Verzichtserklärung der Bundesanstalt für Landwirtschaft und Ernährung
 vorzulegen. Absatz 1 Satz 2 und 3 gelten entsprechend.
 
-
 ##### § 16b Wiederausfuhren
 
 Soweit Wiederausfuhren nach Artikel 182 Abs. 3 Satz 3 der Verordnung
@@ -958,10 +910,7 @@ Zollkodex der Gemeinschaften (ABl. EG Nr. L 302 S. 1) einer
 Ausfuhranmeldung bedürfen, gelten die Vorschriften dieses Untertitels
 entsprechend.
 
-
 #### 2. Untertitel - Genehmigungsbedürftige Ausfuhr aus dem Gemeinschaftsgebiet
-
-
 
 ##### § 17 Ausfuhrgenehmigung
 
@@ -977,7 +926,6 @@ Ausfuhrkontrolle (BAFA) eine Internationale Einfuhrbescheinigung
 (International Import Certificate) des Bestimmungslandes anerkennen.
 Das Nähere bestimmt das Bundesamt für Wirtschaft und Ausfuhrkontrolle
 (BAFA) durch Bekanntmachung im Bundesanzeiger.
-
 
 ##### § 17a Informations- und Buchführungspflichten
 
@@ -1016,7 +964,6 @@ den folgenden Angaben enthalten:
 Die Register oder Aufzeichnungen nach Satz 1 sind nach Ende des
 Kalenderjahres, in dem die Ausfuhr erfolgt ist, für die Dauer von fünf
 Jahren aufzubewahren.
-
 
 ##### § 18 Besondere Verfahrensvorschriften
 
@@ -1115,7 +1062,6 @@ beziehungsweise das Bundesamt für Wirtschaft und Ausfuhrkontrolle
 (7) Im Fall des § 9 Absatz 1 Satz 4 hat der Anmelder die
 Ausfuhrgenehmigung mit der schriftlichen Ausfuhranmeldung der
 zuständigen Zollstelle zu übermitteln.
-
 
 ##### § 19 Befreiungen von der Genehmigungsbedürftigkeit
 
@@ -1382,13 +1328,9 @@ Fällen:
 für die nach Artikel 182 Abs. 3 Satz 3 der Verordnung (EWG) Nr.
 2913/92 oder § 16b eine Ausfuhranmeldung erforderlich ist.
 
-
 ##### (XXXX) §§ 20 bis 20e (weggefallen)
 
-
 #### 3. Untertitel - Genehmigungsbedürftige Verbringung in Mitgliedstaaten der Europäischen Union
-
-
 
 ##### § 21 Anzuwendende Vorschriften
 
@@ -1401,11 +1343,9 @@ entsprechend.
 entsprechend mit Ausnahme der in Teil I Abschnitt A der Ausfuhrliste
 (Anlage AL) genannten Güter.
 
-
 ##### § 21a (weggefallen)
 
 -
-
 
 ##### § 21a Zertifizierungsverfahren
 
@@ -1423,18 +1363,11 @@ Europäischen Kommission mit, die auf ihrer Webseite ein
 Zentralregister der von den Mitgliedstaaten zertifizierten Empfänger
 öffentlich zugänglich macht.
 
-
 ## Kapitel III - Wareneinfuhr
-
-
 
 ### 1. Titel - Einfuhr in das Wirtschaftsgebiet
 
-
-
 #### 1. Untertitel - Begriffsbestimmungen
-
-
 
 ##### § 21b
 
@@ -1458,10 +1391,7 @@ Verfügungsberechtigte Person, die die Waren in das Wirtschaftsgebiet
 verbringt oder verbringen läßt, im Wirtschaftsgebiet ansässig, so gilt
 als Einkaufsland das Versendungsland.
 
-
 #### 2. Untertitel - Beschränkungen
-
-
 
 ##### § 22 Beschränkung nach § 11 AWG
 
@@ -1527,13 +1457,7 @@ Genehmigung, wenn
 
 4.  elektrischem Strom.
 
-
-
-
-
 #### 3. Untertitel - Verfahrens- und Meldevorschriften nach § 26 AWG
-
-
 
 ##### § 22a Verfahrensvorschriften nach den §§ 7 und 26 AWG
 
@@ -1565,11 +1489,9 @@ Bescheinigung zu erwirken, die dieses andere Land nennt.
 (4) § 3 Abs. 1 und 2 Satz 1 des Außenwirtschaftsgesetzes ist
 entsprechend anwendbar.
 
-
 ##### § 22b (weggefallen)
 
 -
-
 
 ### 2. Titel - Verfahrens- und Meldevorschriften nach § 26 AWG bei der Einfuhr in das Wirtschaftsgebiet aus Drittländern
 
@@ -1585,13 +1507,7 @@ entsprechend anwendbar.
     Die Außenwirtschaftsverordnung enthält ergänzende nationale
     Vorschriften zum Einfuhrverfahren der Europäischen Gemeinschaften.
 
-
-
-
-
 #### 1. Untertitel - Begriffsbestimmungen
-
-
 
 ##### § 23 Begriffsbestimmungen
 
@@ -1615,14 +1531,9 @@ gilt als Einkaufsland das Versendungsland.
 demselben Lieferer an denselben Einführer abgesandt worden ist und von
 derselben Zollstelle abgefertigt wird.
 
-
 #### 2. Untertitel - Genehmigungsfreie Einfuhr
 
-
-
 ##### (XXXX) §§ 24 bis 26 (weggefallen)
-
-
 
 ##### § 27 Antrag auf Einfuhrabfertigung
 
@@ -1730,7 +1641,6 @@ Einfuhrabfertigung.
 geltende Gemeinschaftsvorschriften über die Anwendung
 handelspolitischer Maßnahmen abweichende Regelungen treffen.
 
-
 ##### § 27a Einfuhrkontrollmeldung – Erhebung von Einfuhrdaten
 
 (1) Bei der Einfuhr von Waren, die in Spalte 5 der Einfuhrliste mit
@@ -1823,7 +1733,6 @@ spätestens nach Ablauf von zwei Jahren. Die Frist beginnt mit dem Ende
 des Jahres, in dem die Daten von der zuständigen Zollstelle
 übermittelt worden sind.
 
-
 ##### § 28 Verfahren bei der Einfuhrabfertigung
 
 (1) Die Zollstelle prüft die Zulässigkeit der Einfuhr. Sie lehnt die
@@ -1846,7 +1755,6 @@ vorgenommen werden.
 (3) (weggefallen)
 
 (4) (weggefallen)
-
 
 ##### § 28a Vorherige Einfuhrüberwachung
 
@@ -1978,10 +1886,6 @@ dies in Spalte 4 der Einfuhrliste verlangt wird.
     Kommission vom 18. Dezember 2006 (ABl. EU Nr. L 365 S. 76) –
     Verlängerung –.
 
-
-
-
-
 ##### § 29 Ursprungszeugnis und Ursprungserklärung
 
 (1) Bei der Einfuhrabfertigung von Waren, die in Spalte 5 der
@@ -2018,20 +1922,15 @@ Sinne der Artikel 22 bis 26 der Verordnung (EWG) Nr. 2913/92 in
 Verbindung mit den Artikeln 36 bis 38 der Verordnung (EWG) Nr. 2454/93
 in der jeweils geltenden Fassung in dem angegebenen Drittland haben.
 
-
 ##### § 29a (weggefallen)
 
 -
-
 
 ##### § 29b (weggefallen)
 
 -
 
-
 #### 3. Untertitel - Genehmigungsbedürftige Einfuhr
-
-
 
 ##### § 30 Einfuhrgenehmigung
 
@@ -2113,10 +2012,6 @@ Veröffentlichung im Bundesanzeiger bekannt.
     bestimmten Stahlerzeugnissen zwischen der Europäischen Gemeinschaft
     und der Republik Kasachstan (ABl. EU Nr. L 348 S. 1).
 
-
-
-
-
 ##### § 31 Einfuhrabfertigung
 
 (1) Für die genehmigungsbedürftige Einfuhr gelten die §§ 27, 27a, § 28
@@ -2144,15 +2039,11 @@ Ausfuhrkontrolle (BAFA) im Bundesanzeiger bestimmt. Außerhalb des
 Wirtschaftsgebiets erteilte Einfuhrgenehmigungen müssen in Papierform
 vorgelegt und abgeschrieben werden.
 
-
 #### 4. Untertitel - Sonderregelungen nach § 10 Abs. 4 und § 26 AWG
-
-
 
 ##### § 31a (weggefallen)
 
 -
-
 
 ##### § 32 Erleichtertes Verfahren
 
@@ -2488,21 +2379,17 @@ Behältern zum Eigenbetrieb mitgeführt werden.
 
 (3) (weggefallen)
 
-
 ##### § 33 (weggefallen)
 
 -
-
 
 ##### § 34 (weggefallen)
 
 -
 
-
 ##### § 35 (weggefallen)
 
 -
-
 
 ##### § 35a Einfuhr von Gartenbauerzeugnissen
 
@@ -2561,11 +2448,9 @@ Mindestanforderungen entsprechen.
 (4) Absatz 2 ist nicht anwendbar, soweit für die Einfuhr der Ware das
 erleichterte Verfahren nach § 32 gilt.
 
-
 ##### § 35b (weggefallen)
 
 -
-
 
 ##### § 36 Zwangsvollstreckung
 
@@ -2576,19 +2461,13 @@ Einfuhrabfertigung beantragen. Im Antrag auf Überwachungsdokument oder
 im Antrag auf Einfuhrgenehmigung ist zu vermerken:
 "Zwangsvollstreckung".
 
-
 ##### § 37 (weggefallen)
 
 -
 
-
 ## Kapitel IV - Sonstiger Warenverkehr
 
-
-
 ### 1. Titel - Warendurchfuhr
-
-
 
 #### § 38 Beschränkung nach § 7 Absatz 1 Nummer 1, 2 und 3 AWG
 
@@ -2632,7 +2511,6 @@ mit § 13 des Zollverwaltungsgesetzes vom 21. Dezember 1992 (BGBl. I S.
 2125; 1993, 2493), das zuletzt durch Artikel 17 Nr. 1 des Gesetzes vom
 17\. März 2009 (BGBl. I S. 550) geändert wurde, findet Anwendung.
 
-
 #### § 39 Durchfuhrverfahren
 
 (1) Die Zulässigkeit der Durchfuhr wird bei Annahme der summarischen
@@ -2650,10 +2528,7 @@ auch die Vorlage der Verladescheine verlangen.
 
 (4) (weggefallen)
 
-
 ### 2. Titel - Handels- und Vermittlungsgeschäfte
-
-
 
 #### § 40 Beschränkung nach § 5 AWG
 
@@ -2666,7 +2541,6 @@ anderes Drittland ausgeführt werden sollen, bedarf der Genehmigung.
 (2) Eine Genehmigung nach Absatz 1 ist nicht erforderlich, wenn das
 Handels- und Vermittlungsgeschäft nach § 4a des Gesetzes über die
 Kontrolle von Kriegswaffen genehmigungspflichtig ist.
-
 
 #### § 41 Beschränkung nach § 7 Absatz 1 Nummer 1, 2 und 3 AWG
 
@@ -2703,7 +2577,6 @@ Genehmigung nicht bedarf.
 
 (3) § 5 Abs. 3 gilt entsprechend.
 
-
 #### § 41a Weitere Beschränkung nach § 7 Absatz 1 Nummer 1, 2 und 3 AWG
 
 (1) Wer ein Handels- und Vermittlungsgeschäft über in Anhang IV der
@@ -2734,7 +2607,6 @@ und Vermittlungsgeschäft genehmigt oder entschieden hat, dass es einer
 Genehmigung nicht bedarf.
 
 (3) § 5 Abs. 3 gilt entsprechend.
-
 
 #### § 42 Beschränkung nach § 7 Absatz 1 und 3 AWG
 
@@ -2811,11 +2683,9 @@ das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) das Handels-
 und Vermittlungsgeschäft genehmigt oder entschieden hat, dass es einer
 Genehmigung nicht bedarf.
 
-
 #### § 43 (weggefallen)
 
 -
-
 
 #### § 43a Verfahrensvorschrift nach den §§ 7 und 26 AWG
 
@@ -2827,14 +2697,9 @@ Wirtschaft und Ausfuhrkontrolle (BAFA) zu beantragen. § 22a gilt
 entsprechend mit der Maßgabe, daß die Einfuhr in das im Antrag
 bezeichnete Käufer- oder Bestimmungsland nachzuweisen ist.
 
-
 ## Kapitel V - Dienstleistungsverkehr
 
-
-
 ### 1. Titel - Beschränkungen des aktiven Dienstleistungsverkehrs
-
-
 
 #### § 44 Beschränkung nach § 6 AWG
 
@@ -2842,16 +2707,13 @@ bezeichnete Käufer- oder Bestimmungsland nachzuweisen ist.
 
 (2) (weggefallen)
 
-
 #### § 44a (weggefallen)
 
 -
 
-
 #### § 44b (weggefallen)
 
 -
-
 
 #### § 45 Beschränkung nach § 5 AWG
 
@@ -2892,10 +2754,6 @@ Unterstützung
     Abschnitt A Nummer 0022 oder Abschnitt C Nummern der Gattung E der
     Ausfuhrliste (Anlage AL) genannt ist.
 
-
-
-
-
 #### § 45a Beschränkung nach § 7 Abs. 1 AWG
 
 (1) Technische Unterstützung außerhalb des Gemeinschaftsgebietes durch
@@ -2928,10 +2786,6 @@ Unterstützung
 2.  mündlich erfolgt und nicht Technologie betrifft, die in Teil I
     Abschnitt A Nummer 0022 oder Abschnitt C Nummern der Gattung E der
     Ausfuhrliste (Anlage AL) genannt ist.
-
-
-
-
 
 #### § 45b Beschränkung nach § 7 Abs. 1 AWG
 
@@ -2993,7 +2847,6 @@ natürlichen Personen anzusehen, deren Wohnsitz oder gewöhnlicher
 Aufenthalt im Wirtschaftsgebiet auf höchstens fünf Jahre befristet
 ist.
 
-
 #### § 45c Beschränkung nach § 7 Abs. 1 AWG
 
 (1) Technische Unterstützung durch Gebietsansässige bedarf der
@@ -3025,15 +2878,10 @@ Unterstützung
 2.  nicht Technologie betrifft, die in Teil I Abschnitt C Nummern der
     Kategorie O der Ausfuhrliste (Anlage AL) genannt ist.
 
-
-
-
-
 #### § 45d Beschränkung nach § 7 Abs. 3 AWG
 
 Die §§ 45, 45a, 45b und 45c gelten auch für technische Unterstützung,
 die durch nicht gebietsansässige Deutsche erbracht wird.
-
 
 #### § 45e Befreiungen von der Genehmigungsbedürftigkeit
 
@@ -3056,47 +2904,29 @@ technischer Unterstützung in folgenden Fällen:
 4.  die erstmalige Herstellung der Betriebsbereitschaft von Gütern, deren
     Ausfuhr oder Verbringung genehmigt worden ist.
 
-
-
-
-
 ### 2. Titel - (weggefallen)
 
-
-
 #### (XXXX) §§ 46 und 47 (weggefallen)
-
-
 
 #### § 48 (weggefallen)
 
 -
 
-
 #### § 49 (weggefallen)
 
 -
-
 
 #### § 50 (weggefallen)
 
 -
 
-
 ### 3. Titel - (weggefallen)
-
-
 
 #### (XXXX) §§ 50a und 50b (weggefallen)
 
-
 ## Kapitel VI - Kapitalverkehr
 
-
-
 ### 1. Titel - Beschränkungen
-
-
 
 #### § 51 Beschränkung nach § 5 AWG zur Erfüllung des Abkommens über deutsche Auslandsschulden
 
@@ -3126,7 +2956,6 @@ Leistungen verboten, wenn sie
 
 (2) Die in Artikel 3 des Abkommens enthaltenen Begriffsbestimmungen
 gelten auch für Absatz 1.
-
 
 #### § 52 Beschränkung nach § 7 Abs. 1 und 2 Nr. 5 AWG
 
@@ -3171,7 +3000,6 @@ soweit dies erforderlich ist, um wesentliche Sicherheitsinteressen der
 Bundesrepublik Deutschland zu gewährleisten. Die zu übermittelnden
 Unterlagen bestimmt das Bundesministerium für Wirtschaft und
 Technologie durch Bekanntmachung im Bundesanzeiger.
-
 
 #### § 53 Beschränkung nach § 7 Abs. 1 und 2 Nr. 6 AWG
 
@@ -3252,30 +3080,21 @@ anordnen. Insbesondere kann es
 2.  einen Treuhänder bestellen, der die Rückabwicklung eines vollzogenen
     Erwerbs herbeiführt.
 
-
-
-
-
 #### § 54 (weggefallen)
 
 -
 
-
 ### 2. Titel - Meldevorschriften nach § 26 AWG
-
-
 
 #### § 55 (weggefallen)
 
 -
-
 
 #### § 56 Anwendungsbereich
 
 Für Zwecke der Meldung nach diesem Titel gelten die österreichischen
 Gebiete Jungholz und Mittelberg nicht als Teil des
 Wirtschaftsgebietes.
-
 
 #### § 56a Vermögen Gebietsansässiger in fremden Wirtschaftsgebieten
 
@@ -3322,7 +3141,6 @@ dem Gebietsansässigen Unterlagen, die er zur Erfüllung seiner
 Meldepflicht benötigt, aus tatsächlichen oder rechtlichen Gründen
 nicht zugänglich sind.
 
-
 #### § 56b Abgabe der Meldungen nach § 56a
 
 (1) Die Meldungen sind einmal jährlich nach dem Stand des
@@ -3354,10 +3172,7 @@ unmittelbar oder über ein abhängiges gebietsfremdes Unternehmen am
 Bilanzstichtag des Gebietsansässigen oder, soweit er nicht bilanziert,
 am 31. Dezember jeweils zuzurechnen ist.
 
-
 #### (XXXX) §§ 57 und 58 (weggefallen)
-
-
 
 #### § 58a Vermögen Gebietsfremder im Wirtschaftsgebiet
 
@@ -3444,7 +3259,6 @@ Unternehmen, an dem wirtschaftlich verbundene Gebietsfremde beteiligt
 sind, nicht erkennen kann, daß es sich bei den Gebietsfremden im Sinne
 des Absatzes 2 um wirtschaftlich verbundene Gebietsfremde handelt.
 
-
 #### § 58b Abgabe der Meldungen nach § 58a
 
 (1) Die Meldungen sind einmal jährlich nach dem Stand des
@@ -3480,10 +3294,6 @@ Bundesbank abzugeben.
 3.  in den Fällen des § 58a Abs. 1 Nr. 3 die gebietsansässige
     Zweigniederlassung oder Betriebsstätte.
 
-
-
-
-
 #### § 58c Ausnahmen
 
 (1) Die Deutsche Bundesbank kann für einzelne Meldepflichtige oder für
@@ -3499,22 +3309,13 @@ Form abgegeben werden, sofern dies bei der Meldestelle beantragt wird
 und die von der Meldestelle erlassenen Formvorschriften beachtet
 werden.
 
-
 ## Kapitel VII - Zahlungsverkehr
-
-
 
 ### 1. Titel - Beschränkungen (weggefallen)
 
-
-
 ### 2. Titel - Meldevorschriften nach § 26 AWG
 
-
-
 #### 1. Untertitel - Allgemeine Vorschriften
-
-
 
 ##### § 59 Meldung von Zahlungen
 
@@ -3556,13 +3357,11 @@ die Verrechnung sowie Zahlungen, die mittels Lastschriftverfahren
 abgewickelt werden. Als Zahlung gilt ferner das Einbringen von Sachen
 und Rechten in Unternehmen, Zweigniederlassungen und Betriebsstätten.
 
-
 ##### § 59a Anwendungsbereich
 
 Für Zwecke der Meldung nach diesem Titel gelten die österreichischen
 Gebiete Jungholz und Mittelberg nicht als Teil des
 Wirtschaftsgebietes.
-
 
 ##### § 60 Form der Meldung
 
@@ -3616,7 +3415,6 @@ Abgabe einer Durchschrift der Empfangsbestätigung der Truppen oder des
 zivilen Gefolges nach dem auf Grund der Abgabenvorschriften
 vorgeschriebenen Muster erstattet werden.
 
-
 ##### § 61 Meldefrist
 
 Die Meldungen sind abzugeben
@@ -3642,10 +3440,6 @@ Die Meldungen sind abzugeben
 
 4.  bei Zahlungen nach § 60 Abs. 4 bis zum fünften Tage eines jeden Monats
     für den vorausgegangenen Monat; Sammelmeldungen sind zulässig.
-
-
-
-
 
 ##### § 62 Meldung von Forderungen und Verbindlichkeiten
 
@@ -3688,7 +3482,6 @@ Unterschreitens der in Absatz 1 genannten Betragsgrenze die
 Meldepflicht, so hat er dies bis zum zwanzigsten Tage des darauf
 folgenden Monats der Meldestelle schriftlich anzuzeigen.
 
-
 ##### § 63 Meldestellen
 
 (1) Die Meldungen sind der Deutschen Bundesbank zu erstatten.
@@ -3696,20 +3489,15 @@ folgenden Monats der Meldestelle schriftlich anzuzeigen.
 (2) Die Meldung auf Vordruck Anlage Z 1 ist bei dem beauftragten
 Geldinstitut zur Weiterleitung an die Deutsche Bundesbank abzugeben.
 
-
 ##### § 64 Ausnahmen
 
 § 58c gilt entsprechend.
 
-
 #### 2. Untertitel - Ergänzende Meldevorschriften
-
-
 
 ##### § 65 (weggefallen)
 
 -
-
 
 ##### § 66 Zahlungen im Transithandel
 
@@ -3731,7 +3519,6 @@ Ware, die zweistellige Kapitelnummer des Warenverzeichnisses für die
 Außenhandelsstatistik und das Einkaufsland im Sinne des § 21b Abs. 2
 anzugeben.
 
-
 ##### § 67 Zahlungen der Seeschiffahrtsunternehmen
 
 Gebietsansässige, die ein Seeschiffahrtsunternehmen betreiben, haben
@@ -3741,15 +3528,11 @@ Vordruck "Einnahmen und Ausgaben der Seeschiffahrt" (Anlage Z 8)
 monatlich bis zum siebenten Tage des auf die Zahlung folgenden Monats
 der Deutschen Bundesbank zu melden.
 
-
 ##### § 68 (weggefallen)
 
 -
 
-
 #### 3. Untertitel - Meldevorschriften für Geldinstitute
-
-
 
 ##### § 69 Meldungen der Geldinstitute
 
@@ -3830,10 +3613,7 @@ Nennbetrag oder Stückzahl anzugeben.
 
 (6) Die Meldungen sind der Deutschen Bundesbank zu erstatten.
 
-
 ### Kapitel VIIa - Besondere Beschränkungen gegen Somalia
-
-
 
 #### § 69a Beschränkungen auf Grund der Resolutionen 733 (1992) vom 23. Januar 1992, 1907 (2009) vom 23. Dezember 2009 und 1916 (2010) vom 19. März 2010 des Sicherheitsrats der Vereinten Nationen (Kapitel VII der Charta)
 
@@ -3902,10 +3682,7 @@ in Anhang I der Verordnung (EU) Nr. 356/2010 des Rates vom 26. April
 Organisationen oder Einrichtungen verkaufen, ausführen oder ausführen
 lassen, durchführen oder durchführen lassen.
 
-
 ### Kapitel VIIb - Besondere Beschränkungen gegen Eritrea
-
-
 
 #### § 69b Beschränkungen auf Grund der Resolution 1907 (2009) vom 23. Dezember 2009 des Sicherheitsrats der Vereinten Nationen (Kapitel VII der Charta)
 
@@ -3930,18 +3707,11 @@ ausführen oder ausführen lassen, durchführen oder durchführen lassen,
 aus Eritrea einführen oder einführen lassen, erwerben oder erwerben
 lassen, befördern oder befördern lassen.
 
-
 ### Kapitel VIIc - (weggefallen)
-
-
 
 #### § 69c (weggefallen)
 
-
-
 ### Kapitel VIId - Besondere Beschränkungen zur Bekämpfung des Terrorismus
-
-
 
 #### § 69d Beschränkungen aufgrund der Resolutionen 1373 (2001) vom 28. September 2001, 1988 (2011) vom 17. Juni 2011 und 1989 (2011) vom 17. Juni 2011 des Sicherheitsrats der Vereinten Nationen (Kapitel VII der Charta)
 
@@ -3989,10 +3759,7 @@ die die genannten Güter zu in Absatz 1 genannten natürlichen oder
 juristischen Personen, Gruppen oder Organisationen verkaufen,
 ausführen oder ausführen lassen, durchführen oder durchführen lassen.
 
-
 ### Kapitel VIIe - Besondere Beschränkungen gegen Irak
-
-
 
 #### § 69e Beschränkungen aufgrund der Resolutionen 1483 (2003) vom 7. Juli 2003 und 1546 (2004) vom 8. Juni 2004 des Sicherheitsrats der Vereinten Nationen (Kapitel VII der Charta)
 
@@ -4018,10 +3785,7 @@ ausführen oder ausführen lassen, durchführen oder durchführen lassen.
 
 (5) (weggefallen)
 
-
 ### Kapitel VIIf - Besondere Beschränkungen gegen die Demokratische Republik Kongo
-
-
 
 #### § 69f Beschränkungen aufgrund der Resolution 1493 (2003) des Sicherheitsrats der Vereinten Nationen vom 28. Juli 2003 (Kapital VII der Charta)
 
@@ -4083,10 +3847,7 @@ Republik Kongo verkaufen, ausführen oder ausführen lassen, durchführen
 oder durchführen lassen oder Handels- und Vermittlungsgeschäfte in
 Bezug auf die genannten Güter vornehmen.
 
-
 ### Kapitel VIIg - Besondere Beschränkungen gegen Liberia
-
-
 
 #### § 69g Beschränkungen aufgrund der Resolutionen 1521 (2003) vom 22. Dezember 2003, 1683 (2006) vom 13. Juni 2006, 1731 (2006) vom 20. Dezember 2006 und 1903 (2009) vom 17. Dezember 2009 des Sicherheitsrats der Vereinten Nationen (Kapitel VII der Charta)
 
@@ -4131,10 +3892,7 @@ Güter vornehmen.
 
 (7) (weggefallen)
 
-
 ### Kapitel VIIh - Besondere Beschränkungen gegen Simbabwe
-
-
 
 #### § 69h Beschränkungen aufgrund des Beschlusses 2011/101/GASP des Rates vom 15. Februar 2011 über restriktive Maßnahmen gegen Simbabwe
 
@@ -4180,10 +3938,7 @@ ausführen oder ausführen lassen, durchführen oder durchführen lassen
 oder Handels- und Vermittlungsgeschäfte in Bezug auf die genannten
 Güter vornehmen.
 
-
 ### Kapitel VIIi - Besondere Beschränkungen gegen Birma/Myanmar
-
-
 
 #### § 69i Beschränkungen auf Grund des Gemeinsamen Standpunkts 2006/318/GASP des Rates vom 27. April 2006 zur Verlängerung der restriktiven Maßnahmen gegen Birma/Myanmar
 
@@ -4239,10 +3994,7 @@ genannten Güter vornehmen.
 
 (8) (weggefallen)
 
-
 ### Kapitel VIIj - Besondere Beschränkungen gegen *A Cote d'Ivoire
-
-
 
 #### § 69j Beschränkungen auf Grund der Resolutionen 1572 (2004) vom 15. November 2004 und 1946 (2010) vom 15. Oktober 2010 des Sicherheitsrats der Vereinten Nationen (Kapitel VII der Charta) sowie auf Grund des Beschlusses 2010/656/GASP des Rates vom 29. Oktober 2010 zur Verlängerung der restriktiven Maßnahmen gegen Côte d’Ivoire
 
@@ -4320,10 +4072,7 @@ verkaufen, ausführen oder ausführen lassen, durchführen oder
 durchführen lassen oder Handels- und Vermittlungsgeschäfte in Bezug
 auf die genannten Güter vornehmen.
 
-
 ### Kapitel VIIk - Besondere Beschränkungen gegen Sudan und Südsudan
-
-
 
 #### § 69k Beschränkungen aufgrund der Resolution 1591 (2005) des Sicherheitsrats der Vereinten Nationen vom 29. März 2005 (Kapitel VII der Charta) und des Beschlusses 2011/423/GASP des Rates vom 18. Juli 2011 über restriktive Maßnahmen gegen Sudan und Südsudan und zur Aufhebung des Gemeinsamen Standpunkts 2005/411/GASP
 
@@ -4388,10 +4137,7 @@ verkaufen, ausführen oder ausführen lassen, durchführen oder
 durchführen lassen oder Handels- und Vermittlungsgeschäfte in Bezug
 auf die genannten Güter vornehmen.
 
-
 ### Kapitel VIIm - Besondere Beschränkungen gegen Libanon
-
-
 
 #### § 69m Beschränkungen auf Grund des Gemeinsamen Standpunkts 2006/625/GASP des Rates vom 15. September 2006, betreffend das Verbot des Verkaufs oder der Lieferung von Rüstungsgütern und zugehörigen Gütern und die Erbringung damit zusammenhängender Dienstleistungen an Einrichtungen oder Einzelpersonen im Libanon im Sinne der Resolution 1701 (2006) des Sicherheitsrats der Vereinten Nationen
 
@@ -4438,10 +4184,7 @@ ausführen oder ausführen lassen, durchführen oder durchführen lassen
 oder Handels- und Vermittlungsgeschäfte in Bezug auf die genannten
 Güter vornehmen.
 
-
 ### Kapitel VIIn - Besondere Beschränkungen gegen Nordkorea
-
-
 
 #### § 69n Beschränkungen auf Grund der Resolution 1718 (2006) des Sicherheitsrats der Vereinten Nationen vom 14. Oktober 2006 (Kapitel VII der Charta) und auf Grund von § 7 Abs. 1 in Verbindung mit § 2 Abs. 1 und 4 AWG
 
@@ -4486,10 +4229,7 @@ Wertzeichen, Banknoten- oder Wertzeichenspezialpapieren bedarf der
 Genehmigung durch das Bundesamt für Wirtschaft und Ausfuhrkontrolle
 (BAFA), wenn Käufer- oder Bestimmungsland Nordkorea ist.
 
-
 ### Kapitel VIIo - Besondere Beschränkungen gegen Iran
-
-
 
 #### § 69o Beschränkungen auf Grund der Resolutionen 1737 (2006) vom 23. Dezember 2006 und 1747 (2007) vom 24. März 2007 des Sicherheitsrats der Vereinten Nationen (Kapitel VII der Charta) sowie auf Grund des Beschlusses 2010/413/GASP des Rates vom 26. Juli 2010 über restriktive Maßnahmen gegen Iran und zur Aufhebung des Gemeinsamen Standpunkts 2007/140/GASP
 
@@ -4542,10 +4282,7 @@ Vermittlungsgeschäfte in Bezug auf die genannten Güter vornehmen.
 
 (9) (weggefallen)
 
-
 ### Kapitel VIIp - Besondere Beschränkungen gegen die Republik Guinea
-
-
 
 #### § 69p Beschränkungen auf Grund des Beschlusses 2010/638/GASP des Rates vom 25. Oktober 2010 über restriktive Maßnahmen gegen die Republik Guinea
 
@@ -4610,9 +4347,7 @@ Wirtschaftsgebieten, die die genannten Güter in die Republik Guinea
 verkaufen, ausführen oder ausführen lassen, durchführen oder
 durchführen lassen.
 
-
 ### Kapitel VIIq - Besondere Beschränkungen gegen Libyen
-
 
 #### § 69q Beschränkungen auf Grund der Resolution 1970 (2011) des Sicherheitsrats der Vereinten Nationen vom 26. Februar 2011 (Kapitel VII der Charta) sowie auf Grund des Beschlusses 2011/137/GASP des Rates vom 28. Februar 2011 über restriktive Maßnahmen angesichts der Lage in Libyen
 
@@ -4678,10 +4413,7 @@ aus Libyen einführen oder einführen lassen, erwerben oder erwerben
 lassen, befördern oder befördern lassen oder Handels- und
 Vermittlungsgeschäfte in Bezug auf die genannten Güter vornehmen.
 
-
 ### Kapitel VIIr - Besondere Beschränkungen gegen Syrien
-
-
 
 #### § 69r Beschränkungen auf Grund des Beschlusses 2011/782/GASP des Rates vom 1. Dezember 2011 über restriktive Maßnahmen gegen Syrien
 
@@ -4736,10 +4468,7 @@ ausführen oder ausführen lassen, durchführen oder durchführen lassen,
 oder Handels- und Vermittlungsgeschäfte in Bezug auf die genannten
 Güter vornehmen.
 
-
 ### Kapitel VIIs - Besondere Beschränkungen gegen Belarus
-
-
 
 #### § 69s Beschränkungen auf Grund des Beschlusses 2010/639/GASP des Rates vom 25. Oktober 2010 über restriktive Maßnahmen gegen Belarus
 
@@ -4789,10 +4518,7 @@ ausführen oder ausführen lassen, durchführen oder durchführen lassen,
 oder Handels- und Vermittlungsgeschäfte in Bezug auf die genannten
 Güter vornehmen.
 
-
 ### Kapitel VIIt - Besondere Kostenregelungen
-
-
 
 #### § 69t Gebührenregelungen für die Ausstellung und Nachprüfung von Zertifikaten für Diamanten
 
@@ -4809,13 +4535,7 @@ Gebühren erhoben. Die Gebühr beträgt:
 
 2.  für die Nachprüfung von Zertifikaten 10,53 Euro.
 
-
-
-
-
 ## Kapitel VIII - Ordnungswidrigkeiten und Straftaten
-
-
 
 ### § 70 Ordnungswidrigkeiten
 
@@ -5737,7 +5457,6 @@ durch die Verordnung (EU) Nr. 263/2012 (ABl. L 87 vom 24. 3.2012, S.
 1) geändert worden ist, eine Information nicht, nicht richtig, nicht
 vollständig oder nicht rechtzeitig übermittelt.
 
-
 ### § 70a Straftaten
 
 (1) (weggefallen)
@@ -5838,28 +5557,19 @@ wird bestraft, wer vorsätzlich oder fahrlässig
     einführen lässt, erwirbt oder erwerben lässt oder befördert oder
     befördern lässt.
 
-
-
-
-
 ## Kapitel IX - Übergangs- und Schlußvorschriften
-
-
 
 ### § 71 (weggefallen)
 
 -
 
-
 ### § 72 (Inkrafttreten, Außerkrafttreten)
 
 -
 
-
 ### Anlage AL Ausfuhrliste - zur Außenwirtschaftsverordnung -
 
 (Fundstelle: BAnz. 2010 Nr. 58a (Beilage)
-
 
 ### Anlage L
 
@@ -5892,7 +5602,6 @@ Länderliste K
 Kuba
 Länderliste L
 (weggefallen)
-
 
 ### Anlage A 1 Anleitung zu Angaben in der elektronischen Ausfuhranmeldung
 
@@ -5928,47 +5637,38 @@ Der Vordruck darf nur Waren umfassen, die von einem Ausführer/Anmelder
 nach einem Bestimmungsland gleichzeitig mit demselben
 Beförderungsmittel über dieselbe Ausgangszollstelle ausgehen.
 
-
 ### Anlage A 2 (weggefallen)
 
 -
-
 
 ### Anlage A 3 (weggefallen)
 
 -
 
-
 ### Anlage A ErgBl. (weggefallen)
 
 -
 
-
 ### Anlage A 4 (weggefallen)
 
 -
-
 
 ### Anlage A 5
 
 (Inhalt: nicht darstellbares Formular, Fundstelle: Anlageband zum
 BGBl. I 1993 Nr. 56 S. 8 - 14)
 
-
 ### Anlage A 6 (weggefallen)
 
 -
-
 
 ### Anlage A 7 (weggefallen)
 
 -
 
-
 ### Anlage A 9 (weggefallen)
 
 -
-
 
 ### Anlage A 10
 
@@ -5976,31 +5676,25 @@ BGBl. I 1993 Nr. 56 S. 8 - 14)
 BGBl. I Nr. 70 vom 31.12.1986, S. 37 - wegen der einzelnen Änderungen
 vgl. Fußnote)
 
-
 ### Anlage E 1 (weggefallen)
 
 -
-
 
 ### Anlage E 2 (weggefallen)
 
 -
 
-
 ### Anlage E 3 (weggefallen)
 
 -
-
 
 ### Anlage E 3a (weggefallen)
 
 -
 
-
 ### Anlage E 3b (weggefallen)
 
 -
-
 
 ### Anlage E 4
 
@@ -6008,11 +5702,9 @@ vgl. Fußnote)
 BGBl. I Nr. 70 vom 31.12.1986, S. 54 - wegen der einzelnen Änderungen
 vgl. Fußnote)
 
-
 ### Anlage E 5 (weggefallen)
 
 -
-
 
 ### Anlage E 6
 
@@ -6133,10 +5825,6 @@ Fundstelle: Beilage zum BAnz. 2002 Nr. 59a v. 26.3.2002, S. 7 bis 12)
     gesonderten Blatt (weißes Schreibmaschinenpapier, vierfach)
     fortzuführen.
 
-
-
-
-
 ### Anlage E 7
 
 (Inhalt: nicht darstellbares Formular,
@@ -6188,53 +5876,39 @@ Fundstelle des Originaltextes: Beilage zum BAnz. 2002 Nr. 59a v.
     regelmäßig nur für die gesamte Gütermenge bzw. den gesamten Warenwert
     gestellt werden. Anträge für Teilsendungen werden zurückgewiesen.
 
-
-
-
-
 ### Anlage T 1 (weggefallen)
 
 -
 
-
 ### (XXXX) Anlagen S 1 bis S 3
-
-
 
 ### Anlage K 1 (weggefallen)
 
 -
 
-
 ### Anlage K 2 (weggefallen)
 
 -
-
 
 ### Anlage K 3 zur AWV Vermögen Gebietsansässiger in fremden Wirtschaftsgebieten Blatt 1 Meldung nach § 56a der Außenwirtschaftsverordnung Blatt 2 Stand und Zusammensetzung des Vermögens
 
 (Fundstelle: BAnz. 2009 Nr. 195, S. 4433 - 4434)
 
-
 ### Anlage K 4 zur AWV Vermögen Gebietsfremder im Wirtschaftsgebiet Blatt 1 Meldung nach § 58a der Außenwirtschaftsverordnung Blatt 2 Stand und Zusammensetzung des Vermögens
 
 (Fundstelle: BAnz. 2009 Nr. 195, S. 4435 - 4436)
-
 
 ### Anlage Z 1 Zahlungsauftrag im Außenwirtschaftsverkehr Meldung nach §§ 59 ff. der Außenwirtschaftsverordnung (AWV)
 
 (Fundstelle: BAnz. 2009 Nr. 164 v. 30.10.2009, S. 3738 - 3740)
 
-
 ### Anlage Z 2 (weggefallen)
 
 -
 
-
 ### Anlage Z 3 (weggefallen)
 
 -
-
 
 ### Anlage Z 4 Zahlungen im Außenwirtschaftsverkehr Meldung nach §§ 59 ff. Außenwirtschaftsverordnung (AWV)
 
@@ -6242,23 +5916,19 @@ Fundstelle des Originaltextes: Beilage zum BAnz. 2002 Nr. 59a v.
 Fundstelle: Beilage zum BAnz. 2005 Nr. 244a v. 24.12.2005, S. 11 u.
 12)
 
-
 ### Anlage Z 5 Forderungen und Verbindlichkeiten aus Finanzbeziehungen mit gebietsfremden Banken Meldung nach § 62 Abs. 1, 2 und 5 der Außenwirtschaftsverordnung (AWV)
 
 (Inhalt: nicht darstellbares Formular,
 Fundstelle: Beilage zum BAnz. 2004 Nr. 119b v. 30.6.2004, S. 14)
-
 
 ### Anlage Z 5a Forderungen und Verbindlichkeiten aus Finanzbeziehungen mit gebietsfremden Nichtbanken Meldung nach § 62 Abs. 1, 3 und 5 der Außenwirtschaftsverordnung (AWV)
 
 (Inhalt: nicht darstellbares Formular,
 Fundstelle: Beilage zum BAnz. 2004 Nr. 119b v. 30.6.2004, S. 15 - 18)
 
-
 ### Anlage Z 5b zur AWV Forderungen und Verbindlichkeiten gegenüber Gebietsfremden aus derivativen Finanzinstrumenten Meldung nach § 62 Abs. 1 und 4 der Außenwirtschaftsverordnung
 
 (Fundstelle: BAnz. 2009 Nr. 195, S. 4437)
-
 
 ### Anlage Z 8 Einnahmen und Ausgaben der Seeschifffahrt Meldung nach § 67 der Außenwirtschaftsverordnung (AWV)
 
@@ -6266,40 +5936,33 @@ Fundstelle: Beilage zum BAnz. 2004 Nr. 119b v. 30.6.2004, S. 15 - 18)
 Fundstelle: Beilage zum BAnz. 2005 Nr. 244a v. 24.12.2005, S. 13 u.
 14)
 
-
 ### Anlage Z 10 Wertpapiergeschäfte und Finanzderivate im Außenwirtschaftsverkehr Meldung nach § 59 Abs. 1 und § 69 Abs. 2 Nr. 1 der Außenwirtschaftsverordnung (AWV)
 
 (Inhalt: nicht darstellbares Formular,
 Fundstelle: Beilage zum BAnz. 2004 Nr. 119b v. 30.6.2004, S. 21 - 22)
-
 
 ### Anlage Z 11 zur AWV Meldungen der Geldinstitute Zahlungen für Wertpapier-Erträge im Außenwirtschaftsverkehr Meldung nach § 69 Abs. 2 Nr. 2 der Außenwirtschaftsverordnung (AWV)
 
 (Fundstelle des Originaltextes: Beilage zum BAnz. 2007 Nr. 242b v.
 29\.12.2007, S. 8 bis 9;
 
-
 ### Anlage Z 12 zur AWV Meldungen der Geldinstitute Zahlungseingänge/Zahlungsausgänge im Reiseverkehr: Karten-Umsätze Meldung nach § 69 Abs. 2 Nr. 4a der Außenwirtschaftsverordnung (AWV)
 
 (Fundstelle: BAnz. 2009 Nr. 195, S. 4438)
 
-
 ### Anlage Z 13 zur AWV Zahlungseingänge/Zahlungsausgänge im Reiseverkehr: Sorten und Fremdwährungsreiseschecks Meldung nach § 69 Abs. 2 Nr. 4b der Außenwirtschaftsverordnung (AWV)
 
 (Fundstelle: BAnz. 2009 Nr. 195, S. 4439)
-
 
 ### Anlage Z 14 zur AWV Meldungen der Geldinstitute Zinseinnahmen und zinsähnliche Erträge im Außenwirtschaftsverkehr (ohne Wertpapierzinsen) Meldung nach § 69 Abs. 2 Nr. 3 der Außenwirtschaftsverordnung (AWV)
 
 (Fundstelle des Originaltextes: Beilage zum BAnz. 2007 Nr. 242b v.
 29\.12.2007, S. 11 bis 12;
 
-
 ### Anlage Z 15 zur AWV Meldungen der Geldinstitute Zinsausgaben und zinsähnliche Aufwendungen im Außenwirtschaftsverkehr (ohne Wertpapierzinsen) Meldung nach § 69 Abs. 2 Nr. 3 der Außenwirtschaftsverordnung (AWV)
 
 (Fundstelle des Originaltextes: Beilage zum BAnz. 2007 Nr. 242b v.
 29\.12.2007, S. 13 bis 14;
-
 
 ### Anlage LV zur Außenwirtschaftsverordnung Leistungsverzeichnis der Deutschen Bundesbank für die Zahlungsbilanz
 

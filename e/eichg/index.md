@@ -22,8 +22,6 @@ Stand: zuletzt geändert Art. 1 G v. 7.3.2011 I 338
 
 ## Erster Abschnitt - Zweckbestimmung, Zulassung, Eichung und andere Prüfungen von Meßgeräten
 
-
-
 ### § 1 Zweck des Gesetzes
 
 Zweck dieses Gesetzes ist es,
@@ -40,10 +38,6 @@ Zweck dieses Gesetzes ist es,
 
 
 3.  das Vertrauen in amtliche Messungen zu stärken.
-
-
-
-
 
 ### § 2 Eichpflicht und andere Maßnahmen zur Gewährleistung der Meßsicherheit
 
@@ -78,7 +72,6 @@ vom Hersteller vorgenommen werden (Eichung durch den Hersteller).
 
 (5) Vor Erlaß von Rechtsverordnungen nach den Absätzen 2 und 3 sind
 die betroffenen Kreise zu hören.
-
 
 ### § 3 Erlaß von Ausführungsvorschriften
 
@@ -206,13 +199,11 @@ mit Zustimmung des Bundesrates
 (3) Vor dem Erlaß von Rechtsverordnungen nach den Absätzen 1 bis 2
 sind die betroffenen Kreise zu hören.
 
-
 ### § 4 Zusatzeinrichtungen
 
 Soweit in den auf Grund dieses Gesetzes erlassenen Rechtsverordnungen
 nichts anderes bestimmt ist, stehen Zusatzeinrichtungen den Meßgeräten
 gleich.
-
 
 ### § 5 Mitwirkung der Gemeinden
 
@@ -234,10 +225,7 @@ erforderlich, haben sie insbesondere
 (2) Die Gemeinden können von der zuständigen Behörde die Erstattung
 ihrer baren Auslagen verlangen.
 
-
 ## Zweiter Abschnitt - Fertigpackungen und Ausschankmaße
-
-
 
 ### § 6 Begriffsbestimmungen für Fertigpackungen
 
@@ -258,10 +246,6 @@ verändert werden kann.
 3.  Inverkehrbringen das Anbieten, Vorrätighalten zum Verkauf oder zur
     sonstigen Abgabe, Feilhalten und jedes Abgeben an andere.
 
-
-
-
-
 ### § 7 Anforderungen an Fertigpackungen
 
 (1) Fertigpackungen dürfen nur hergestellt, in den Geltungsbereich
@@ -271,7 +255,6 @@ Anforderungen entspricht.
 
 (2) Fertigpackungen müssen so gestaltet und befüllt sein, daß sie
 keine größere Füllmenge vortäuschen, als in ihnen enthalten ist.
-
 
 ### § 8 Erlaß von Ausführungsvorschriften
 
@@ -347,7 +330,6 @@ andere Verkaufseinheiten zu erlassen.
 auszuwählender Kreis von Sachkennern aus der Verbraucherschaft und der
 beteiligten Wirtschaft gehört werden.
 
-
 ### § 9 Ausschankmaße
 
 (1) Ausschankmaße sind Gefäße, die zum gewerbsmäßigen Ausschank von
@@ -374,13 +356,7 @@ Europäischen Gemeinschaften
 
 3.  Ausnahmen von Absatz 2 zuzulassen.
 
-
-
-
-
 ## Dritter Abschnitt - Öffentliche Waagen
-
-
 
 ### § 10 Öffentliche Waagen
 
@@ -412,13 +388,7 @@ Bundesrates zu erlassen über
 
 5.  das Verfahren im Zusammenhang mit den Nummern 1 bis 4.
 
-
-
-
-
 ## Vierter Abschnitt - Zuständigkeiten
-
-
 
 ### § 11 Behörden
 
@@ -431,11 +401,9 @@ auf Grund dieses Gesetzes etwas anderes bestimmt ist.
 Meßgeräten an der Amtsstelle ist jede nach Absatz 1 sachlich
 zuständige Behörde, bei der eine solche Amtshandlung beantragt wird.
 
-
 ### § 12 (weggefallen)
 
 -
-
 
 ### § 13 Aufgaben der Physikalisch-Technischen Bundesanstalt
 
@@ -469,13 +437,7 @@ Einheitlichkeit des gesetzlichen Meßwesens
 2.  Prüfungen und Untersuchungen auf dem Gebiet des physikalisch-
     technischen Meßwesens vorzunehmen.
 
-
-
-
-
 ## Fünfter Abschnitt - Kosten, Auskunft und Nachschau
-
-
 
 ### § 13a Kostenerhebung
 
@@ -497,7 +459,6 @@ Für
 
 werden Kosten (Gebühren und Auslagen) erhoben.
 
-
 ### § 14 Kostenverordnung für Amtshandlungen
 
 Das Bundesministerium für Wirtschaft und Technologie wird ermächtigt,
@@ -509,11 +470,9 @@ erhoben werden kann, die nicht begonnen worden ist, wenn die Gründe
 hierfür von demjenigen zu vertreten sind, der die Amtshandlung
 veranlaßt hat.
 
-
 ### § 15 (weggefallen)
 
 -
-
 
 ### § 16 Auskunft und Nachschau
 
@@ -559,7 +518,6 @@ verweigern, deren Beantwortung ihn selbst oder einen der in § 383 Abs.
 Gefahr strafgerichtlicher Verfolgung oder eines Verfahrens nach dem
 Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
-
 ### § 17 Befugnis zur Auskunftserteilung
 
 Die Zolldienststellen sind befugt, den Eichaufsichtsbehörden der
@@ -571,7 +529,6 @@ sonstige Verbringen in den Geltungsbereich des Gesetzes gleich. Das
 Postgeheimnis (Artikel 10 Abs. 1 des Grundgesetzes) wird insoweit
 eingeschränkt.
 
-
 ### § 18 Abwehr und Unterbindung von Zuwiderhandlungen
 
 Zur Abwehr oder Unterbindung von Zuwiderhandlungen gegen dieses Gesetz
@@ -581,10 +538,7 @@ Polizeibeamten. Die Landesregierungen können diese Befugnisse durch
 Rechtsverordnung einschränken. Sie können diese Ermächtigung durch
 Rechtsverordnung auf andere Behörden übertragen.
 
-
 ## Sechster Abschnitt - Bußgeldvorschriften
-
-
 
 ### § 19 Ordnungswidrigkeiten
 
@@ -644,7 +598,6 @@ die von der Landesregierung durch Rechtsverordnung bestimmt wird. Die
 Landesregierung kann die Ermächtigung auf die zuständige oberste
 Landesbehörde übertragen.
 
-
 ### § 20 Einziehung
 
 (1) Ist eine in § 19 bezeichnete Ordnungswidrigkeit begangen worden,
@@ -655,10 +608,7 @@ bezieht, eingezogen werden.
 
 (2) § 23 des Gesetzes über Ordnungswidrigkeiten ist anzuwenden.
 
-
 ## Siebenter Abschnitt - Schlußvorschriften
-
-
 
 ### § 21 EG-Verordnungen
 
@@ -674,11 +624,9 @@ Satz 1 genannten Rechtsakte der Europäischen Gemeinschaften und der zu
 ihrer Ausführung erlassenen Rechtsverordnungen entsprechende
 Anwendung.
 
-
 ### § 22 (weggefallen)
 
 -
-
 
 ### § 23 Bezugnahme auf technische Regeln
 
@@ -687,7 +635,6 @@ Rechtsverordnungen auf Grund dieses Gesetzes auf Veröffentlichungen
 sachverständiger Stellen verwiesen werden. Hierbei sind in der
 Rechtsverordnung das Datum der Veröffentlichung und die Bezugsquelle
 anzugeben.
-
 
 ### § 24 Allgemeine Übergangsvorschriften
 
@@ -722,7 +669,6 @@ Elektrizität, Gas, Wasser und Wärme gelten als Befugnis zur Eichung.
 (6) Soweit Prüfstellen vor dem 2. März 1985 staatlich anerkannt worden
 sind, kann die Anerkennung auch nachträglich mit einer Auflage
 verbunden werden.
-
 
 ### § 25 Fortbestehen von Eichpflichten
 
@@ -833,21 +779,15 @@ betrifft, und Nummern 2 und 3 gelten nicht für Meßgerätearten, die am
 2.  Zusatzeinrichtungen zur Ermittlung des Preises in offenen
     Verkaufsstellen.
 
-
-
-
-
 ### § 26
 
 (weggefallen)
-
 
 ### § 27 Bezugnahme auf Vorschriften
 
 Soweit in Gesetzen oder Verordnungen des Bundesrechts auf Vorschriften
 des Maß- und Gewichtsgesetzes verwiesen wird, beziehen sich diese
 Verweisungen auf die entsprechenden Vorschriften dieses Gesetzes.
-
 
 ### Anhang EV Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet C Abschnitt III (BGBl. II 1990, 889, 1001) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 

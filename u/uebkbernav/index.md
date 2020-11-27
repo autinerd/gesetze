@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   RGBl: 1897, 787
 
-
-
 ## Eingangsformel
 
 Wir Wilhelm, ... Deutscher Kaiser, König von Preußen usw.
@@ -28,7 +26,6 @@ abgeschlossenen Übereinkunft wegen Bildung eines internationalen
 Verbandes zum Schutze von Werken der Literatur und Kunst
 (Reichsgesetzbl. S. 139), nach erfolgter Zustimmung des Bundesrats,
 was folgt:\*
-
 
 ## § 1
 
@@ -64,10 +61,6 @@ nachstehenden Einschränkungen:
     erlaubterweise öffentlich aufgeführt sind, genießen den Schutz gegen
     unerlaubte Aufführung im Original oder in einer Übersetzung nicht.
 
-
-
-
-
 ## § 2
 
 Die in § 1 Nr. 1 gewährte Befugnis zur Verbreitung und zum Verkaufe
@@ -76,7 +69,6 @@ Bedingung, daß die Exemplare und Vorrichtungen mit einem besonderen
 Stempel versehen sind. Die Abstempelung ist nur bis zum Ablaufe dreier
 Monate zulässig; diese Frist beginnt mit dem Schlusse des Monats, in
 welchem das Abkommen aufgehoben worden ist. ...
-
 
 ## § 3
 

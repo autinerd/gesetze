@@ -16,17 +16,13 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1990, 823
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat das folgende Gesetz beschlossen:
 
-
 ## Art 1
 
 -
-
 
 ## Art 2 Neubildung der Rundfunkräte
 
@@ -40,7 +36,6 @@ bilden. Bis zum ersten Zusammentritt der neugebildeten Rundfunkräte
 nehmen die bisher bestehenden Rundfunkräte die Aufgaben nach dem
 Gesetz über die Errichtung von Rundfunkanstalten des Bundesrechts mit
 den sich daraus ergebenden Rechten und Pflichten wahr.
-
 
 ## Art 3 Neubildung der Verwaltungsräte
 
@@ -60,12 +55,10 @@ bisher bestehenden Verwaltungsräte die Aufgaben nach dem Gesetz über
 die Errichtung von Rundfunkanstalten des Bundesrechts mit den sich
 daraus ergebenden Rechten und Pflichten wahr.
 
-
 ## Art 4 Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 13 des Dritten
 Überleitungsgesetzes auch im Land Berlin.
-
 
 ## Art 5 Inkrafttreten
 

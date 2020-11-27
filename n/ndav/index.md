@@ -19,11 +19,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 V v. 3.9.2010 I 1261
 
-
-
 ## Teil 1 - Allgemeine Vorschriften
-
-
 
 ### § 1 Anwendungsbereich, Begriffsbestimmungen
 
@@ -53,7 +49,6 @@ zur Entnahme von Gas nutzt.
 (4) Netzbetreiber im Sinne dieser Verordnung ist der Betreiber eines
 Gasversorgungsnetzes der allgemeinen Versorgung im Sinne des § 18 Abs.
 1 Satz 1 des Energiewirtschaftsgesetzes.
-
 
 ### § 2 Netzanschlussverhältnis
 
@@ -93,7 +88,6 @@ Bestätigung nach Satz 1 ist auf die Allgemeinen Bedingungen
 einschließlich der ergänzenden Bedingungen des Netzbetreibers
 hinzuweisen.
 
-
 ### § 3 Anschlussnutzungsverhältnis
 
 (1) Inhalt der Anschlussnutzung ist das Recht zur Nutzung des
@@ -131,7 +125,6 @@ Anschlussnutzer die Mitteilung unverzüglich in Textform zu bestätigen.
 In der Bestätigung ist auf die Allgemeinen Bedingungen einschließlich
 der ergänzenden Bedingungen und auf die Haftung des Netzbetreibers
 nach § 18 hinzuweisen.
-
 
 ### § 4 Inhalt des Vertrages und der Bestätigung des Netzbetreibers
 
@@ -178,10 +171,7 @@ die Regulierungsbehörde wirksam. Der Netzbetreiber ist verpflichtet,
 die Änderungen am Tage der öffentlichen Bekanntgabe auf seiner
 Internetseite zu veröffentlichen.
 
-
 ## Teil 2 - Netzanschluss
-
-
 
 ### § 5 Netzanschluss
 
@@ -194,7 +184,6 @@ Isolierstück, Hauptabsperreinrichtung und gegebenenfalls Haus-
 Druckregelgerät. Auf ein Druckregelgerät sind die Bestimmungen über
 den Netzanschluss auch dann anzuwenden, wenn es hinter dem Ende des
 Netzanschlusses innerhalb des Bereichs der Kundenanlage eingebaut ist.
-
 
 ### § 6 Herstellung des Netzanschlusses
 
@@ -228,7 +217,6 @@ Errichtung des Netzanschlusses zu schaffen; für die
 Hauptabsperreinrichtung ist ein nach den anerkannten Regeln der
 Technik geeigneter Platz zur Verfügung zu stellen.
 
-
 ### § 7 Art des Netzanschlusses
 
 (1) Der Brennwert mit der sich aus den Erzeugungs- oder
@@ -242,7 +230,6 @@ Netzanschlussbedingungen.
 technischen Gründen zwingend notwendig ist. Der Kunde ist davon
 unverzüglich zu unterrichten. Bei der Umstellung der Gasart sind die
 Belange des Kunden, soweit möglich, angemessen zu berücksichtigen.
-
 
 ### § 8 Betrieb des Netzanschlusses
 
@@ -263,7 +250,6 @@ Plomben, ist dem Netzbetreiber unverzüglich mitzuteilen.
 (3) Änderungen des Netzanschlusses werden nach Anhörung des
 Anschlussnehmers und unter Wahrung seiner berechtigten Interessen vom
 Netzbetreiber bestimmt.
-
 
 ### § 9 Kostenerstattung für die Herstellung oder Änderung des Netzanschlusses
 
@@ -303,7 +289,6 @@ dadurch teilweise zum Bestandteil des Verteilernetzes, so hat der
 Netzbetreiber die Kosten neu aufzuteilen und dem Anschlussnehmer einen
 zu viel gezahlten Betrag zu erstatten.
 
-
 ### § 10 Druckregelgeräte, besondere Einrichtungen
 
 (1) Muss zum Netzanschluss eines Grundstücks ein besonderes
@@ -323,7 +308,6 @@ andere geeignete Stelle verlangen, wenn ihm ihr Verbleiben an der
 bisherigen Stelle nicht mehr zugemutet werden kann. Die Kosten der
 Verlegung hat der Netzbetreiber zu tragen; dies gilt nicht, soweit die
 Anlage ausschließlich der Anschlussnutzung des Grundstücks dient.
-
 
 ### § 11 Baukostenzuschüsse
 
@@ -356,7 +340,6 @@ Netzanschlusskosten sind getrennt zu errechnen und dem Anschlussnehmer
 aufgegliedert auszuweisen.
 
 (5) § 9 Abs. 2 gilt entsprechend.
-
 
 ### § 12 Grundstücksbenutzung
 
@@ -405,7 +388,6 @@ werden kann.
 Verkehrsflächen sowie für Grundstücke, die durch Planfeststellung für
 den Bau von öffentlichen Verkehrswegen und Verkehrsflächen bestimmt
 sind.
-
 
 ### § 13 Gasanlage
 
@@ -461,7 +443,6 @@ vom Netzbetreiber plombiert werden. Die dafür erforderliche
 Ausstattung der Anlage ist nach den Angaben des Netzbetreibers vom
 Anschlussnehmer zu veranlassen.
 
-
 ### § 14 Inbetriebsetzung der Gasanlage
 
 (1) Der Netzbetreiber oder dessen Beauftragter hat die Anlage über den
@@ -483,7 +464,6 @@ Kosten pauschal berechnet werden. Die Kosten sind so darzustellen,
 dass der Anschlussnehmer die Anwendung des pauschalierten
 Berechnungsverfahrens einfach nachvollziehen kann.
 
-
 ### § 15 Überprüfung der Gasanlage
 
 (1) Der Netzbetreiber ist berechtigt, die Anlage vor und, um
@@ -504,10 +484,7 @@ keine Haftung für die Mängelfreiheit der Anlage. Dies gilt nicht, wenn
 er bei einer Überprüfung Mängel festgestellt hat, die eine Gefahr für
 Leib oder Leben darstellen.
 
-
 ## Teil 3 - Anschlussnutzung
-
-
 
 ### § 16 Nutzung des Anschlusses
 
@@ -531,7 +508,6 @@ treffen.
 (3) Zwischen Anschlussnutzer und Netzbetreiber gelten die §§ 7, 8, 12
 und 13 Abs. 1 und 2, § 14 Abs. 1 Satz 1, Abs. 2 und 3 sowie § 15
 entsprechend.
-
 
 ### § 17 Unterbrechung der Anschlussnutzung
 
@@ -560,7 +536,6 @@ Unterrichtung
 In den Fällen des Satzes 3 ist der Netzbetreiber verpflichtet, dem
 Anschlussnutzer auf Nachfrage nachträglich mitzuteilen, aus welchem
 Grund die Unterbrechung vorgenommen worden ist.
-
 
 ### § 18 Haftung bei Störungen der Anschlussnutzung
 
@@ -663,14 +638,9 @@ vorsätzlich noch grob fahrlässig verursacht worden sind.
 Netzbetreiber oder, wenn dieses feststeht, dem ersatzpflichtigen
 Unternehmen mitzuteilen.
 
-
 ## Teil 4 - Gemeinsame Vorschriften
 
-
-
 ### Abschnitt 1 - Anlagenbetrieb und Rechte des Netzbetreibers
-
-
 
 #### § 19 Betrieb von Gasanlagen und Verbrauchsgeräten, Eigenerzeugung
 
@@ -694,7 +664,6 @@ mit dem Netzbetreiber abzustimmen. Dieser kann den Anschluss von der
 Einhaltung der von ihm nach § 20 festzulegenden Maßnahmen zum Schutz
 vor Rückwirkungen abhängig machen.
 
-
 #### § 20 Technische Anschlussbedingungen
 
 Der Netzbetreiber ist berechtigt, in Form von Technischen
@@ -708,7 +677,6 @@ entsprechen. Der Anschluss bestimmter Verbrauchsgeräte kann von der
 vorherigen Zustimmung des Netzbetreibers abhängig gemacht werden. Die
 Zustimmung darf nur verweigert werden, wenn der Anschluss eine sichere
 und störungsfreie Versorgung gefährden würde.
-
 
 #### § 21 Zutrittsrecht
 
@@ -726,7 +694,6 @@ Haus erfolgen. Im Falle der Ablesung der Messeinrichtungen muss die
 Benachrichtigung mindestens drei Wochen vor dem Betretungstermin
 erfolgen; mindestens ein Ersatztermin ist anzubieten. Eine vorherige
 Benachrichtigung ist in den Fällen des § 24 Abs. 1 nicht erforderlich.
-
 
 #### § 22 Messeinrichtungen
 
@@ -757,10 +724,7 @@ die Mess- und Steuereinrichtungen zugänglich sind. Er hat den Verlust,
 Beschädigungen und Störungen von Messeinrichtungen dem Netzbetreiber
 und dem Messstellenbetreiber unverzüglich mitzuteilen.
 
-
 ### Abschnitt 2 - Fälligkeit, Folgen von Zuwiderhandlungen, Beendigung der Rechtsverhältnisse
-
-
 
 #### § 23 Zahlung, Verzug
 
@@ -784,7 +748,6 @@ Berechnungsgrundlage nachzuweisen.
 (3) Gegen Ansprüche des Netzbetreibers kann vom Anschlussnehmer oder
 -nutzer nur mit unbestrittenen oder rechtskräftig festgestellten
 Gegenansprüchen aufgerechnet werden.
-
 
 #### § 24 Unterbrechung des Anschlusses und der Anschlussnutzung
 
@@ -849,7 +812,6 @@ nach dem gewöhnlichen Lauf der Dinge zu erwartenden Kosten nicht
 nachzuweisen. Der Nachweis geringerer Kosten ist dem Kunden zu
 gestatten.
 
-
 #### § 25 Kündigung des Netzanschlussverhältnisses
 
 (1) Das Netzanschlussverhältnis kann mit einer Frist von einem Monat
@@ -866,7 +828,6 @@ bekannt zu machen und den Anschlussnehmern mitzuteilen.
 
 (3) Die Kündigung bedarf der Textform.
 
-
 #### § 26 Beendigung des Anschlussnutzungsverhältnisses
 
 (1) Das Anschlussnutzungsverhältnis besteht, bis der Anschlussnutzer
@@ -876,7 +837,6 @@ Netzbetreiber unverzüglich mitzuteilen.
 (2) Im Falle einer Kündigung des Netzanschlussvertrages nach § 25 oder
 § 27 endet das Anschlussnutzungsverhältnis mit der Beendigung des
 Netzanschlussvertrages.
-
 
 #### § 27 Fristlose Kündigung oder Beendigung
 
@@ -888,16 +848,12 @@ wiederholten Zuwiderhandlungen nach § 24 Abs. 2 ist der Netzbetreiber
 zur fristlosen Kündigung berechtigt, wenn sie zwei Wochen vorher
 angedroht wurde; § 24 Abs. 2 Satz 2 gilt entsprechend.
 
-
 ## Teil 5 - Schlussbestimmungen
-
-
 
 ### § 28 Gerichtsstand
 
 Gerichtsstand ist der Ort des Netzanschlusses und der
 Anschlussnutzung.
-
 
 ### § 29 Übergangsregelung
 

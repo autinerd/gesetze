@@ -16,13 +16,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1993, 1225
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -30,7 +27,6 @@ Dem in Bonn am 5. März 1993 unterzeichneten Abkommen zwischen der
 Bundesrepublik Deutschland und der Republik Chile über
 Rentenversicherung wird zugestimmt. Das Abkommen wird nachstehend
 veröffentlicht.
-
 
 ## Art 2
 
@@ -60,10 +56,6 @@ Regelungen getroffen werden:
 
 5.  die gegenseitige Umrechnung von Versicherungszeiten nach den
     Rechtsvorschriften beider Vertragsstaaten.
-
-
-
-
 
 ## Art 3
 

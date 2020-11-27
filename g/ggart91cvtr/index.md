@@ -123,9 +123,7 @@ des Grundgesetzes
 
 folgende Vereinbarung:
 
-
 ## Abschnitt I - Der IT-Planungsrat
-
 
 ### § 1 Einrichtung, Aufgaben, Beschlussfassung
 
@@ -212,7 +210,6 @@ sicherstellen, dass, sofern erforderlich, eine Kabinettsbehandlung
 oder andere notwendige Abstimmungen über einen im IT-Planungsrat
 vorgesehenen Beschluss rechtzeitig durchgeführt werden können.
 
-
 ### § 2 Geschäftsstelle
 
 (1)
@@ -233,9 +230,7 @@ von Informationen nach § 5 des Vertrages an die Vertragspartner.
 (4) Der Geschäftsstelle können weitere Aufgaben durch Beschluss des
 IT-Planungsrats übertragen werden.
 
-
 ## Abschnitt II - Gemeinsame Standards und Sicherheitsanforderungen, Informationsaustausch
-
 
 ### § 3 Festlegung von IT-Interoperabilitäts- und IT-Sicherheitsstandards
 
@@ -275,13 +270,11 @@ Wissenschaft, einbeziehen.
 Ergebnisse der Prüfung; er ist dabei nicht an die Ergebnisse der
 Prüfung gebunden.
 
-
 ### § 4 Aufgaben im Bereich Verbindungsnetz
 
 Der IT-Planungsrat nimmt die Aufgaben des Koordinierungsgremiums nach
 Maßgabe des aufgrund von Artikel 91c Absatz 4 Grundgesetz ergangenen
 Bundesgesetzes wahr.
-
 
 ### § 5 Informationsaustausch
 
@@ -290,9 +283,7 @@ beabsichtigte Vorhaben zur Einrichtung und Entwicklung
 informationstechnischer Systeme, um eine bedarfsgerechte
 Zusammenarbeit zu ermöglichen.
 
-
 ## Abschnitt III - Schlussbestimmungen
-
 
 ### § 6 Änderung, Kündigung
 
@@ -313,7 +304,6 @@ Vertrages geschlossenen Vereinbarungen.
 auf der Grundlage dieses Vertrages geschlossenen Vereinbarungen für
 die übrigen Vertragspartner vorbehaltlich der Regelung des § 7 Absatz
 2 unberührt.
-
 
 ### § 7 Inkrafttreten, Außerkrafttreten, Übergangsregelung
 
@@ -351,7 +341,6 @@ Vertrages soweit sie diesen nicht widersprechen nicht berührt.
 2             Mit dem Außerkrafttreten bereits bestehender
 Vereinbarungen werden die Bestimmungen dieses Vertrages auf sie
 anwendbar.
-
 
 ### Schlussformel
 
@@ -557,9 +546,6 @@ anwendbar.
 *    *   Erfurt, den 20. November 2009
 
     *   Christine Lieberknecht
-
-
-
 
 ### Anhang „Gemeinsames Grundverständnis der technischen und organisatorischen Ausgestaltung der Bund/Länder-Zusammenarbeit bei dem Verbindungsnetz und der IT-Steuerung“
 

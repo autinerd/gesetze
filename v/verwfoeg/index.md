@@ -18,16 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   § 56 Abs. 39 V v. 12.2.2009 I 284
 
-
 ## -
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art 1 - Förderung der anderweitigen Verwendung von Berufssoldaten und Beamten des Geschäftsbereichs des Bundesministers der Verteidigung
-
-
 
 ## § 1 Anwendungsbereich
 
@@ -58,10 +54,6 @@ Die folgenden Bestimmungen gelten für
     BwBAnpG) vom 20. Dezember 1991 (BGBl. I S. 2378) betroffen sind und
     vor dem 1. Januar 1998 in einen anderen Geschäftsbereich oder in den
     Bereich eines anderen Dienstherrn versetzt werden.
-
-
-
-
 
 ## § 2 Laufbahnrechtliche Regelungen
 
@@ -172,7 +164,6 @@ in ein Beamtenverhältnis berufen werden:
 
 (2) (weggefallen)
 
-
 ## § 2 Laufbahnrechtliche Regelungen
 
 (1) Die in § 1 Nr. 1 Buchstabe a bezeichneten Berufssoldaten können
@@ -282,7 +273,6 @@ nicht unterschreiten.
 
 (2) (weggefallen)
 
-
 ## § 3 Besoldungsrechtliche Regelungen
 
 (1) Die in § 1 Nr. 1 Buchstabe a bezeichneten Berufssoldaten erhalten
@@ -307,7 +297,6 @@ die anderweitige Verwendung außerhalb des Einzugsgebiets (§ 3 Abs. 1
 Nr. 1 Buchstabe c des Bundesumzugskostengesetzes) des bisherigen
 dienstlichen Wohnsitzes erfolgt. Absatz 1 Satz 2 gilt entsprechend;
 maßgebend für die Frist ist das Wirksamwerden der Versetzung.
-
 
 ## § 4 Versorgungsrechtliche Regelungen
 
@@ -350,10 +339,7 @@ liegt auch vor, wenn eine Einstellung als Arbeitnehmer im öffentlichen
 Dienst bis zum ersten Werktag des dritten Monats nach Beendigung des
 Soldatenverhältnisse erfolgt. Satz 1 gilt nicht für Hinterbliebene.
 
-
 ## Art 2 -
-
-
 
 ## Art 3 - Einmaliges Übergangsgeld für Soldaten auf Zeit im Beitrittsgebiet
 
@@ -369,7 +355,6 @@ Berufssoldat oder als Soldat auf Zeit mit einer längeren Dienstzeit
 als zwei Jahre begründet wird. Satz 1 gilt auch, wenn das
 Dienstverhältnis dieser Soldaten vorzeitig wegen Dienstunfähigkeit,
 die nicht auf eigenes grobes Verschulden zurückzuführen ist, endet.
-
 
 ## Art 4 - Geltungsdauer
 

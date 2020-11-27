@@ -27,7 +27,6 @@ Informationsgesellschaft (ABl. EG Nr. L 204 S. 37), geändert durch die
 Richtlinie 98/48/EG des Europäischen Parlaments und des Rates vom 20.
 Juli 1998 (ABl. EG Nr. L 217 S. 18), sind beachtet worden.
 
-
 ## Eingangsformel
 
 Es verordnen
@@ -61,17 +60,12 @@ Es verordnen
     Juli 2002 (BGBl. I S. 2681) eingefügt worden ist, das
     Bundesministerium der Justiz:
 
-
-
-
-
 ## § 1 Zulassung der elektronischen Kommunikation
 
 Bei den in der Anlage bezeichneten Gerichten können elektronische
 Dokumente in den dort jeweils für sie näher bezeichneten
 Verfahrensarten und ab dem dort für sie angegebenen Datum eingereicht
 werden.
-
 
 ## § 2 Form der Einreichung
 
@@ -153,7 +147,6 @@ auf die ZIP-Datei beziehen.
 Unicode-Zeichensatz UTF 8 (Unicode Transformation Format) codiert
 sein.
 
-
 ## § 3 Bekanntgabe der Betriebsvoraussetzungen
 
 Die Gerichte geben auf den in § 2 Abs. 1 Satz 2 genannten
@@ -187,14 +180,9 @@ Internetseiten bekannt:
     werden sollen, um die Zuordnung innerhalb des adressierten Gerichts
     und die Weiterverarbeitung zu gewährleisten.
 
-
-
-
-
 ## § 4 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. September 2007 in Kraft.
-
 
 ## Anlage (zu § 1)
 

@@ -16,12 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   GBl DDR I: 1990, 1269
 
-
-
 ## § 1
 
 -
-
 
 ## § 2
 
@@ -37,7 +34,6 @@ verursacht werden, vom Versicherungsschutz ausgeschlossen. Unfälle
 durch innere Unruhe sind jedoch dann versichert, wenn der Versicherte
 nicht auf seiten der Unruhestifter teilgenommen hat.
 
-
 ## § 3
 
 Der Versicherungsnehmer und der Versicherer können den
@@ -48,11 +44,9 @@ des jeweiligen Beitragszeitraumes ohne Einhaltung einer
 Kündigungsfrist möglich. Zu Lebensversicherungen sowie zu
 Rentenversicherungen besteht kein Kündigungsrecht des Versicherers.
 
-
 ## § 4
 
 -
-
 
 ## Schlußformel
 

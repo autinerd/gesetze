@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 2800
 
-
 ## Eingangsformel
 
 Auf Grund des § 33 Abs. 1 und der §§ 68, 114 und 120 des Gesetzes über
@@ -25,7 +24,6 @@ die Alterssicherung der Landwirte vom 29. Juli 1994 (BGBl. I S. 1890,
 und 23 geändert und die §§ 114 und 120 durch Artikel 17 Nr. 36 und 38
 des Gesetzes vom 20. April 2007 (BGBl. I S. 554) neu gefasst worden
 sind, wird bekannt gemacht:
-
 
 ## (XXXX)
 
@@ -418,13 +416,6 @@ sind, wird bekannt gemacht:
         *   7
 
         *   Euro.
-
-
-
-
-
-
-
 
 ## Schlussformel
 

@@ -18,13 +18,11 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 20 G v. 2.12.2007 I 2686
 
-
 ## Eingangsformel
 
 Auf Grund des § 10 des Rettungsassistentengesetzes vom 10. Juli 1989
 (BGBl. I S. 1384) wird im Benehmen mit dem Bundesminister für Bildung
 und Wissenschaft verordnet:
-
 
 ## § 1 Lehrgang
 
@@ -38,7 +36,6 @@ aufgeführte theoretische und praktische Ausbildung.
 (3) Die regelmäßige und erfolgreiche Teilnahme an der theoretischen
 und praktischen Ausbildung nach Absatz 1 oder 2 ist durch eine
 Bescheinigung nach dem Muster der Anlage 3 nachzuweisen.
-
 
 ## § 2 Praktische Tätigkeit
 
@@ -80,14 +77,12 @@ folgt ein weiteres Abschlußgespräch. Kann auch nach dem Ergebnis
 dieses Gesprächs die Bescheinigung nach Absatz 2 nicht erteilt werden,
 darf die praktische Tätigkeit nur einmal wiederholt werden.
 
-
 ## § 3 Gleichwertige Tätigkeit
 
 Voraussetzung für die Anerkennung einer Tätigkeit nach § 8 Abs. 2 Satz
 2 des Gesetzes als gleichwertig mit der praktischen Tätigkeit nach § 7
 des Gesetzes ist, daß der Antragsteller während dieser Tätigkeit
 überwiegend auf Rettungs- und Notarztwagen eingesetzt war.
-
 
 ## § 4 Staatliche Prüfung
 
@@ -99,7 +94,6 @@ Lehrgang abschließt. Die zuständige Behörde, in deren Bereich die
 Prüfung abgelegt werden soll, kann aus wichtigem Grund Ausnahmen
 zulassen. Die Vorsitzenden der beteiligten Prüfungsausschüsse sind
 vorher zu hören.
-
 
 ## § 5 Prüfungsausschuß
 
@@ -153,7 +147,6 @@ Fächer.
 (3) Die zuständige Behörde kann Sachverständige und Beobachter zur
 Teilnahme an allen Prüfungsvorgängen entsenden.
 
-
 ## § 6 Zulassung zur Prüfung
 
 (1) Der Vorsitzende entscheidet auf Antrag des Prüflings über die
@@ -183,7 +176,6 @@ werden.
 ihrer Chancengleichheit bei Durchführung der Prüfungen zu
 berücksichtigen.
 
-
 ## § 7 Schriftlicher Teil der Prüfung
 
 (1) Der schriftliche Teil der Prüfung erstreckt sich auf die in Anlage
@@ -197,7 +189,6 @@ des Prüfungsausschusses bestimmt. Die Aufsichtsarbeit ist von
 mindestens zwei Fachprüfern zu benoten. Aus den Noten der Fachprüfer
 bildet der Vorsitzende des Prüfungsausschusses im Benehmen mit den
 Fachprüfern die Prüfungsnote für die Aufsichtsarbeit.
-
 
 ## § 8 Mündlicher Teil der Prüfung
 
@@ -218,7 +209,6 @@ Prüfung.
 Antrag die Anwesenheit von Zuhörern beim mündlichen Teil der Prüfung
 gestatten.
 
-
 ## § 9 Praktischer Teil der Prüfung
 
 (1) Im praktischen Teil der Prüfung hat der Prüfling am Beispiel von
@@ -230,13 +220,11 @@ Demonstration soll nicht länger als 15 Minuten je Fall dauern.
 
 (2) § 8 Abs. 2 und 3 gilt entsprechend.
 
-
 ## § 10 Niederschrift
 
 Über die Prüfung ist eine Niederschrift zu fertigen, aus der
 Gegenstand, Ablauf und Ergebnisse der Prüfung und etwa vorkommende
 Unregelmäßigkeiten hervorgehen.
-
 
 ## § 11 Benotung
 
@@ -256,7 +244,6 @@ können,
 "ungenügend" (6), wenn die Leistung den Anforderungen nicht entspricht
 und selbst die Grundkenntnisse so lückenhaft sind, daß die Mängel in
 absehbarer Zeit nicht behoben werden können.
-
 
 ## § 12 Bestehen und Wiederholung der Prüfung
 
@@ -282,7 +269,6 @@ Wiederholungsprüfung muß spätestens zwölf Monate nach der letzten
 Prüfung abgeschlossen sein; Ausnahmen kann die zuständige Behörde in
 begründeten Fällen zulassen.
 
-
 ## § 13 Rücktritt von der Prüfung
 
 (1) Tritt ein Prüfling nach seiner Zulassung von der Prüfung zurück,
@@ -298,7 +284,6 @@ unterläßt es der Prüfling, die Gründe für seinen Rücktritt
 unverzüglich mitzuteilen, so gilt die Prüfung als nicht bestanden. §
 12 Abs. 3 gilt entsprechend.
 
-
 ## § 14 Versäumnisfolgen
 
 (1) Versäumt ein Prüfling einen Prüfungstermin oder gibt er die
@@ -311,7 +296,6 @@ wichtiger Grund vor, so gilt die Prüfung als nicht unternommen.
 der Vorsitzende des Prüfungsausschusses. § 13 Abs. 1 Satz 1 und 4 gilt
 entsprechend.
 
-
 ## § 15 Ordnungsverstöße und Täuschungsversuche
 
 Der Vorsitzende des Prüfungsausschusses kann bei Prüflingen, die die
@@ -323,7 +307,6 @@ Störung der Prüfung nur bis zum Abschluß der gesamten Prüfung, im
 Falle eines Täuschungsversuchs nur innerhalb von drei Jahren nach
 Abschluß der Prüfung zulässig.
 
-
 ## § 16 Prüfungsunterlagen
 
 Auf Antrag ist dem Prüfungsteilnehmer nach Abschluß der Prüfung
@@ -331,14 +314,12 @@ Einsicht in seine Prüfungsunterlagen zu gewähren. Schriftliche
 Aufsichtsarbeiten sind drei, Anträge auf Zulassung zur Prüfung und
 Prüfungsniederschriften zehn Jahre aufzubewahren.
 
-
 ## § 17 Erlaubnisurkunde
 
 Liegen die Voraussetzungen für die Erteilung der Erlaubnis zur Führung
 der Berufsbezeichnung nach § 1 des Gesetzes vor, so stellt die
 zuständige Behörde die Erlaubnisurkunde nach dem Muster der Anlage 6
 aus.
-
 
 ## § 18 Sonderregelungen für Inhaber von Ausbildungsnachweisen aus einem anderen Vertragsstaat des Europäischen Wirtschaftsraumes
 
@@ -413,17 +394,14 @@ Dienstleistungserbringer innerhalb der in den Sätzen 1 und 2 genannten
 Fristen keine Rückmeldung der zuständigen Behörde, darf die
 Dienstleistung erbracht werden.
 
-
 ## § 19 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlußformel
 
 Der Bundesrat hat zugestimmt.
 Der Bundesminister für Jugend, Familie, Frauen und Gesundheit
-
 
 ## Anlage 1 (zu § 1 Abs. 1) Theoretische und praktische Ausbildung
 
@@ -1126,10 +1104,6 @@ Fundstelle des Originaltextes: BGBl. I 1989, 1969 - 1971
 
     *   420
 
-
-
-
-
 ## Anlage 2 (zu § 1 Abs. 2) Ergänzungslehrgang für Krankenschwestern, Krankenpfleger, Kinderkrankenschwestern, Kinderkrankenpfleger
 
 Fundstelle des Originaltextes: BGBl. I 1989, 1972 - 1973
@@ -1471,10 +1445,6 @@ Fundstelle des Originaltextes: BGBl. I 1989, 1972 - 1973
 
     *   100
 
-
-
-
-
 ## Anlage 3 (zu § 1 Abs. 3)
 
 (Fundstelle des Originaltextes: BGBl. I 1989, 1973)
@@ -1499,7 +1469,6 @@ Ort, Datum
 (Unterschrift(en) der Schulleitung)
 -------------
 \*) Nichtzutreffendes streichen.
-
 
 ## Anlage 4 (zu § 2 Abs. 2)
 
@@ -1528,7 +1497,6 @@ Ort, Datum
 (Stempel)
 .......................................
 (Unterschrift(en) der Leitung)
-
 
 ## Anlage 5 (zu § 12 Abs. 2)
 
@@ -1559,7 +1527,6 @@ Ort, Datum
 .......................................
 (Unterschrift des Vorsitzenden des
 Prüfungsausschusses)
-
 
 ## Anlage 6 (zu § 17)
 

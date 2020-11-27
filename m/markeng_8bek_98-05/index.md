@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1998, 1216
 
-
-
 ## I.
 
 Auf Grund des § 8 Abs. 2 Nr. 7 des Markengesetzes vom 25. Oktober 1994
@@ -26,7 +24,6 @@ der Eintragung als Marke ausgeschlossen ist:
 Konformitätsmarke für obligatorische und freiwillige Zertifikation von
 Waren und Dienstleistungen in dem nationalen Zertifikationssystem der
 Republik Kasachstan (Anlage 1).
-
 
 ## II.
 
@@ -70,20 +67,14 @@ ausgeschlossen sind:
     Harmonisierungsamtes für den Binnenmarkt (Marken, Muster und Modelle)
     (Anlage 8).
 
-
-
-
-
 ## III.
 
 Diese Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom 23.
 März 1998 (BGBl. I S. 632).
 
-
 ## Schlußformel
 
 Bundesministerium der Justiz
-
 
 ## Anlage 1
 
@@ -101,7 +92,6 @@ und "K". Es kann in jedem Kontrast zur Hintergrundfarbe wiedergegeben
 werden und auf dem Produkt mittels Etikett, Gravur oder Abdruck
 angebracht oder auf der Verpackung oder der dazugehörigen
 Dokumentation aufgedruckt werden.
-
 
 ## Anlage 2
 
@@ -151,7 +141,6 @@ Emblem:
 Siegel:
 (... nicht darstellbare Abbildung)
 
-
 ## Anlage 3
 
 (Fundstelle: BGBl. I 1998, 1219)
@@ -167,7 +156,6 @@ schwarz-weiß oder farbig (rot-blau-grün)
 (... nicht darstellbare Abbildung)
 Siegel in Englisch, Französisch und Spanisch:
 (... nicht darstellbare Abbildungen)
-
 
 ## Anlage 4
 
@@ -187,7 +175,6 @@ Abkürzung und Emblem des Hohen Kommissars für Flüchtlinge
 
 Emblem:
 (... nicht darstellbare Abbildung)
-
 
 ## Anlage 5
 
@@ -224,10 +211,6 @@ MERCADO COMUN DO SUL - Portugiesisch -
 
 *    *   (... nicht darstellbare Abbildung)
 
-
-
-
-
 ## Anlage 6
 
 (Fundstelle: BGBl. I 1998, 1222)
@@ -242,7 +225,6 @@ Name:
 The European Agency for the Evaluation of Medicinal Products -
 Englisch -
 Abkürzung: EMEA
-
 
 ## Anlage 7
 
@@ -261,7 +243,6 @@ ORGANISATION POUR L'INTER DICTION DES ARMES CHIMIQUES - Französisch -
 (... nicht darstellbare russische Schriftzeichen)              -
 Russisch -
 ORGANIZACION PARA LA PROHIBICION DE LAS ARMAS QUIMICAS - Spanisch -
-
 
 ## Anlage 8
 

@@ -36,7 +36,6 @@ den Jahren 1986 bis 1990 in Höhe von 215 Millionen Tonnen SKE und in
 den Jahren 1991 bis 1995 in Höhe von 232,5 Millionen Tonnen SKE
 gewährleistet.
 
-
 ## § 2 Ausgleichsfonds zur Sicherung des Steinkohleneinsatzes
 
 (1) Es wird ein unselbständiges Sondervermögen des Bundes mit dem
@@ -97,7 +96,6 @@ Sondervermögens verzinst und getilgt. Für Verbindlichkeiten des
 Sondervermögens haftet der Bund; ihre Abwicklung wird durch Gesetz
 geregelt. Für die Verwaltung des Sondervermögens gelten die
 Vorschriften über die Verwaltung der Bundesschuld entsprechend.
-
 
 ## § 3 Zuschüsse zum Ausgleich der Mehrkosten
 
@@ -218,7 +216,6 @@ Richtlinien zu den Absätzen 1 bis 4.
 gewährt. Rechtsansprüche auf Ausgleich der Mehrkosten werden durch
 dieses Gesetz nicht unmittelbar begründet.
 
-
 ## § 4 Zuschüsse zu Investitionskosten und zu Stromtransportkosten
 
 (1) Wird mit dem Bau eines Kraftwerks über ein Megawatt Nennleistung
@@ -258,7 +255,6 @@ Vereinbarung über den Elektrizitätsbezug geeignet ist, zur Sicherung
 des Einsatzes von Gemeinschaftskohle in diesen Kraftwerken
 beizutragen. Das Nähere bestimmt das Bundesministerium für Wirtschaft
 und Technologie durch Richtlinien.
-
 
 ## § 5 Zuschüsse für Zusatzmengen
 
@@ -393,11 +389,9 @@ Dezember 1977 (BGBl. I S. 2750) werden nach dem 31. Dezember 1980
 nicht mehr gewährt; an ihre Stelle treten die Zuschüsse nach den
 Absätzen 1 bis 9.
 
-
 ## § 6
 
 (weggefallen)
-
 
 ## § 7 Zuschüsse für eine Verstromungsreserve
 
@@ -431,7 +425,6 @@ anzuwenden.
 
 (6) Das Nähere bestimmt das Bundesministerium für Wirtschaft und
 Technologie durch Richtlinien.
-
 
 ## § 8 Ausgleichsabgabe
 
@@ -551,7 +544,6 @@ Ausgleichsabgabe erforderlich wird.
 nach Absatz 4 auf über 4,5 vom Hundert festgesetzt wird, bedürfen der
 Zustimmung des Bundestages.
 
-
 ## § 9 Zahlung, Verzinsung und Beitreibung der Ausgleichsabgabe
 
 (1) Die Ausgleichsabgabe ist für jeden Monat bis zum 16. des folgenden
@@ -580,7 +572,6 @@ Nr. 1 der Abgabenordnung entsprechend anzuwenden.
 Verwaltungs-Vollstreckungsgesetzes vom 27. April 1953 (BGBl. I S.
 157), zuletzt geändert durch das Kostenermächtigungs-Änderungsgesetz
 vom 23. Juni 1970 (BGBl. I S. 805), beigetrieben werden.
-
 
 ## § 10 Weitergabe der Belastung
 
@@ -612,7 +603,6 @@ und der absolute Betrag der Belastung unter der Bezeichnung
 "Ausgleichsabgabe zur Sicherung der Elektrizitätsversorgung nach dem
 Dritten Verstromungsgesetz" in den Rechnungen über
 Elektrizitätslieferungen gesondert auszuweisen.
-
 
 ## § 11 Härteklausel
 
@@ -649,11 +639,9 @@ der von Eigenerzeugern selbst verbrauchten Elektrizität entsprechend
 den Feststellungen des Bundesamtes für Wirtschaft und Ausfuhrkontrolle
 (BAFA) nach Absatz 2 außer Betracht.
 
-
 ## § 12
 
 (weggefallen)
-
 
 ## § 13 Melde- und Auskunftspflichten
 
@@ -766,7 +754,6 @@ entsprechende Unterlagen vorzulegen, so kann das Bundesamt für
 Wirtschaft und Ausfuhrkontrolle (BAFA) die erforderlichen
 Feststellungen im Wege der Schätzung treffen.
 
-
 ## § 14 Beirat
 
 (1) Bei dem Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) wird
@@ -835,7 +822,6 @@ können an den Sitzungen teilnehmen.
 (5) Der Beirat kann mit Zustimmung des Präsidenten des Bundesamtes für
 Wirtschaft und Ausfuhrkontrolle (BAFA) Ausschüsse einsetzen.
 
-
 ## § 15 Ordnungswidrigkeiten
 
 (1) (weggefallen)
@@ -869,11 +855,9 @@ zu zwanzigtausend Deutsche Mark geahndet werden.
 über Ordnungswidrigkeiten ist das Bundesamt für Wirtschaft und
 Ausfuhrkontrolle (BAFA).
 
-
 ## § 16 (weggefallen)
 
 -
-
 
 ## § 17 Begriffsbestimmungen
 
@@ -914,11 +898,9 @@ werden kann.
 Bereichs der Europäischen Gemeinschaft für Kohle und Stahl gewonnene
 Steinkohle.
 
-
 ## § 18 (weggefallen)
 
 -
-
 
 ## § 19
 

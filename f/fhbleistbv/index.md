@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 3550
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 33 Abs. 4 und des § 35 Abs. 2 des
@@ -27,7 +25,6 @@ Innern im Einvernehmen mit den für die jeweiligen Fachbereiche der
 Fachhochschule des Bundes für öffentliche Verwaltung zuständigen
 obersten Dienstbehörden:
 
-
 ## § 1 Regelungsgegenstand
 
 Diese Verordnung regelt die Vergabe von Leistungsbezügen sowie von
@@ -36,7 +33,6 @@ Fachhochschule des Bundes für öffentliche Verwaltung (FH Bund). Die
 Verordnung regelt ferner die Ruhegehaltfähigkeit befristet gewährter
 Leistungsbezüge und die Teilnahme von Leistungsbezügen an den
 regelmäßigen Besoldungsanpassungen.
-
 
 ## § 2 Berufungs- und Bleibe-Leistungsbezüge
 
@@ -63,7 +59,6 @@ regelmäßigen Besoldungsanpassungen nach § 14 des
 Bundesbesoldungsgesetzes mit dem Prozentsatz teil, um den sich das
 Grundgehalt der Besoldungsgruppe verändert, der die Professorin oder
 der Professor angehört.
-
 
 ## § 3 Besondere Leistungsbezüge
 
@@ -92,7 +87,6 @@ Unbefristet vergebene Leistungsbezüge stehen unter dem Vorbehalt des
 Widerrufs für die Zukunft bei erheblichem Leistungsabfall. § 2 Abs. 3
 gilt entsprechend.
 
-
 ## § 4 Funktions-Leistungsbezüge
 
 (1) Für die Zeit der Wahrnehmung von Funktionen oder besonderen
@@ -105,7 +99,6 @@ individuelle Verantwortung oder Belastung zu berücksichtigen.
 
 (2) Berücksichtigungsfähig können auch Aufgaben und Funktionen sein,
 die in einer Nebenfunktion zum Hauptamt wahrgenommen werden.
-
 
 ## § 5 Forschungs- und Lehrzulagen
 
@@ -123,7 +116,6 @@ Einmalzahlung vergeben werden. Sie dürfen jährlich den Betrag des
 Jahresgrundgehalts der Professorin oder des Professors nicht
 überschreiten.
 
-
 ## § 6 Ruhegehaltfähigkeit
 
 (1) Befristet vergebene Leistungsbezüge nach den §§ 2 und 3 sind bei
@@ -137,7 +129,6 @@ Leistungsbezügen nach den §§ 2 und 3 zusammen, gilt für die Höhe des
 ruhegehaltfähigen Betrages der unbefristet und befristet vergebenen
 Leistungsbezüge insgesamt die Begrenzung in § 33 Abs. 3 Satz 1
 Halbsatz 1 des Bundesbesoldungsgesetzes.
-
 
 ## § 7 Sonstige Bestimmungen
 
@@ -187,7 +178,6 @@ und treten nach Zustimmung der für den jeweiligen Fachbereich oder der
 für den Zentralbereich zuständigen obersten Dienstbehörde in Kraft.
 Die Ordnungen sind in den jeweiligen Hochschulbereichen bekannt zu
 machen.
-
 
 ## § 8 Inkrafttreten
 

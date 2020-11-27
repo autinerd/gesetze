@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1982, 1571
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 42 Abs. 2 des Bundesentschädigungsgesetzes in der im
@@ -26,11 +24,9 @@ bereinigten Fassung, der durch Artikel I Nr. 31 des BEG-Schlußgesetzes
 vom 14. September 1965 (BGBl. I S. 1315) eingefügt worden ist,
 verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
-
 ## § 1
 
 -
-
 
 ## § 2
 
@@ -63,13 +59,11 @@ durch unanfechtbaren Bescheid oder durch rechtskräftige gerichtliche
 Entscheidung vorbehaltlos festgesetzt worden sind, behält es hierbei
 zugunsten der Berechtigten sein Bewenden.
 
-
 ## § 3
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 240 Abs. 2 des Bundesentschädigungsgesetzes auch im
 Land Berlin.
-
 
 ## § 4
 

@@ -21,15 +21,11 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 5 G v. 7.12.2011 I 2592
 
-
 ## Abschnitt I - Allgemeines
-
-
 
 ### § 1 Steuerberechtigte
 
 Die Gemeinden erheben eine Gewerbesteuer als Gemeindesteuer.
-
 
 ### § 2 Steuergegenstand
 
@@ -101,10 +97,6 @@ unterliegen nicht der Gewerbesteuer, wenn und soweit
     Abkommens zur Vermeidung der Doppelbesteuerung als solches bestimmt
     ist.
 
-
-
-
-
 ### § 2a Arbeitsgemeinschaften
 
 1             Als Gewerbebetrieb gilt nicht die Tätigkeit der
@@ -112,7 +104,6 @@ Arbeitsgemeinschaften, deren alleiniger Zweck in der Erfüllung eines
 einzigen Werkvertrags oder Werklieferungsvertrags besteht.
 2             Die Betriebsstätten der Arbeitsgemeinschaften gelten
 insoweit anteilig als Betriebsstätten der Beteiligten.
-
 
 ### § 3 Befreiungen
 
@@ -404,10 +395,6 @@ Von der Gewerbesteuer sind befreit
     Körperschaftsteuergesetzes, soweit sie von der Körperschaftsteuer
     befreit ist.
 
-
-
-
-
 ### § 4 Hebeberechtigte Gemeinde
 
 (1)
@@ -432,7 +419,6 @@ grenzüberschreitenden Gewerbegebiets liegt.
 2             Liegt der zur Bundesrepublik Deutschland gehörende Teil
 in mehreren Gemeinden, gilt Absatz 2 entsprechend.
 
-
 ### § 5 Steuerschuldner
 
 (1)
@@ -455,15 +441,11 @@ zum Zeitpunkt des Übergangs Steuerschuldner.
 2             Der andere Unternehmer ist von diesem Zeitpunkt an
 Steuerschuldner.
 
-
 ### § 6 Besteuerungsgrundlage
 
 Besteuerungsgrundlage für die Gewerbesteuer ist der Gewerbeertrag.
 
-
 ## Abschnitt II - Bemessung der Gewerbesteuer
-
-
 
 ### § 7 Gewerbeertrag
 
@@ -511,7 +493,6 @@ Sinne des § 8 Abs. 9 Satz 1 des Körperschaftsteuergesetzes
 ausgeglichen werden.
 6             § 50d Abs. 10 des Einkommensteuergesetzes ist bei der
 Ermittlung des Gewerbeertrags entsprechend anzuwenden.
-
 
 ### § 8 Hinzurechnungen
 
@@ -641,14 +622,9 @@ worden sind:
     die bei der Ermittlung des Gewerbeertrags außer Ansatz gelassen oder
     nach § 9 gekürzt werden.
 
-
-
-
-
 ### § 8a
 
 (weggefallen)
-
 
 ### § 9 Kürzungen
 
@@ -1024,10 +1000,6 @@ Die Summe des Gewinns und der Hinzurechnungen wird gekürzt um
 
 9.  u. 10. (weggefallen)
 
-
-
-
-
 ### § 10 Maßgebender Gewerbeertrag
 
 (1) Maßgebend ist der Gewerbeertrag, der in dem Erhebungszeitraum
@@ -1039,7 +1011,6 @@ Handelsgesetzbuchs zu führen verpflichtet sind, das Wirtschaftsjahr,
 für das sie regelmäßig Abschlüsse machen, vom Kalenderjahr ab, so gilt
 der Gewerbeertrag als in dem Erhebungszeitraum bezogen, in dem das
 Wirtschaftsjahr endet.
-
 
 ### § 10a Gewerbeverlust
 
@@ -1096,7 +1067,6 @@ den Fehlbetrag einer Mitunternehmerschaft, soweit dieser
 
 zuzurechnen ist.
 
-
 ### § 11 Steuermesszahl und Steuermessbetrag
 
 (1)
@@ -1134,18 +1104,11 @@ Heimarbeitsgesetzes gleichgestellten Personen, deren Entgelte (§ 10
 Abs. 1 des Umsatzsteuergesetzes) aus der Tätigkeit unmittelbar für den
 Absatzmarkt im Erhebungszeitraum 25 000 Euro nicht übersteigen.
 
-
 ## Abschnitt III -
-
-
 
 ### (XXXX) §§ 12 und 13 (weggefallen)
 
-
-
 ## Abschnitt IV - Steuermessbetrag
-
-
 
 ### § 14 Festsetzung des Steuermessbetrags
 
@@ -1155,7 +1118,6 @@ dessen Ablauf festgesetzt.
 3             Besteht die Gewerbesteuerpflicht nicht während des
 ganzen Kalenderjahrs, so tritt an die Stelle des Kalenderjahrs der
 Zeitraum der Steuerpflicht (abgekürzter Erhebungszeitraum).
-
 
 ### § 14a Steuererklärungspflicht
 
@@ -1170,7 +1132,6 @@ diesem Fall ist die Erklärung nach amtlich vorgeschriebenem Vordruck
 abzugeben und vom Steuerschuldner oder von den in § 34 der
 Abgabenordnung bezeichneten Personen eigenhändig zu unterschreiben.
 
-
 ### § 14b Verspätungszuschlag
 
 1             Ein nach § 152 der Abgabenordnung zu entrichtender
@@ -1184,7 +1145,6 @@ wirtschaftlich bedeutendste Betriebsstätte befindet.
 4             Auf den Verspätungszuschlag ist der Hebesatz der
 Gemeinde nicht anzuwenden.
 
-
 ### § 15 Pauschfestsetzung
 
 Wird die Einkommensteuer oder die Körperschaftsteuer in einem
@@ -1193,10 +1153,7 @@ Behörde im Einvernehmen mit der Landesregierung oder der von ihr
 bestimmten Behörde auch den Steuermessbetrag in einem Pauschbetrag
 festsetzen.
 
-
 ## Abschnitt V - Entstehung, Festsetzung und Erhebung der Steuer
-
-
 
 ### § 16 Hebesatz
 
@@ -1235,18 +1192,15 @@ Höchstsätze nicht überschritten werden dürfen und inwieweit mit
 Genehmigung der Gemeindeaufsichtsbehörde Ausnahmen zugelassen werden
 können, bleibt einer landesrechtlichen Regelung vorbehalten.
 
-
 ### § 17
 
 (weggefallen)
-
 
 ### § 18 Entstehung der Steuer
 
 Die Gewerbesteuer entsteht, soweit es sich nicht um Vorauszahlungen (§
 21) handelt, mit Ablauf des Erhebungszeitraums, für den die
 Festsetzung vorgenommen wird.
-
 
 ### § 19 Vorauszahlungen
 
@@ -1299,7 +1253,6 @@ Betrag in Euro nach unten abzurunden.
 2             Sie wird nur festgesetzt, wenn sie mindestens 50 Euro
 beträgt.
 
-
 ### § 20 Abrechnung über die Vorauszahlungen
 
 (1) Die für einen Erhebungszeitraum (§ 14) entrichteten
@@ -1317,7 +1270,6 @@ nach Bekanntgabe des Steuerbescheids zu entrichten (Abschlusszahlung).
 Vorauszahlungen, so wird der Unterschiedsbetrag nach Bekanntgabe des
 Steuerbescheids durch Aufrechnung oder Zurückzahlung ausgeglichen.
 
-
 ### § 21 Entstehung der Vorauszahlungen
 
 Die Vorauszahlungen auf die Gewerbesteuer entstehen mit Beginn des
@@ -1325,14 +1277,9 @@ Kalendervierteljahrs, in dem die Vorauszahlungen zu entrichten sind,
 oder, wenn die Steuerpflicht erst im Laufe des Kalendervierteljahrs
 begründet wird, mit Begründung der Steuerpflicht.
 
-
 ### (XXXX) §§ 22 bis 27 (weggefallen)
 
-
-
 ## Abschnitt VI - Zerlegung
-
-
 
 ### § 28 Allgemeines
 
@@ -1369,7 +1316,6 @@ berücksichtigen, in denen
 2             Dies gilt nicht, wenn dadurch auf keine Gemeinde ein
 Zerlegungsanteil oder der Steuermessbetrag entfallen würde.
 
-
 ### § 29 Zerlegungsmaßstab
 
 (1) Zerlegungsmaßstab ist
@@ -1399,7 +1345,6 @@ des Erhebungszeitraums (§ 14) erzielt oder gezahlt worden sind.
 (3) Bei Ermittlung der Verhältniszahlen sind die Arbeitslöhne auf
 volle 1 000 Euro abzurunden.
 
-
 ### § 30 Zerlegung bei mehrgemeindlichen Betriebsstätten
 
 Erstreckt sich die Betriebsstätte auf mehrere Gemeinden, so ist der
@@ -1407,7 +1352,6 @@ Steuermessbetrag oder Zerlegungsanteil auf die Gemeinden zu zerlegen,
 auf die sich die Betriebsstätte erstreckt, und zwar nach der Lage der
 örtlichen Verhältnisse unter Berücksichtigung der durch das
 Vorhandensein der Betriebsstätte erwachsenden Gemeindelasten.
-
 
 ### § 31 Begriff der Arbeitslöhne für die Zerlegung
 
@@ -1438,11 +1382,9 @@ bei dem einzelnen Arbeitnehmer 50.000 Euro übersteigen.
 werden, sind für die im Betrieb tätigen Unternehmer (Mitunternehmer)
 insgesamt 25.000 Euro jährlich anzusetzen.
 
-
 ### § 32
 
 (weggefallen)
-
 
 ### § 33 Zerlegung in besonderen Fällen
 
@@ -1456,7 +1398,6 @@ hinzuweisen, dass bei der Zerlegung Satz 1 angewendet worden ist.
 (2) Einigen sich die Gemeinden mit dem Steuerschuldner über die
 Zerlegung, so ist der Steuermessbetrag nach Maßgabe der Einigung zu
 zerlegen.
-
 
 ### § 34 Kleinbeträge
 
@@ -1485,15 +1426,11 @@ Erhöhung oder Ermäßigung bei dem Zerlegungsanteil der Gemeinde zu
 berücksichtigen, in der sich die Geschäftsleitung befindet.
 2             Absatz 1 Satz 2 ist entsprechend anzuwenden.
 
-
 ### § 35
 
 (weggefallen)
 
-
 ## Abschnitt VII - Gewerbesteuer der Reisegewerbebetriebe
-
-
 
 ### § 35a
 
@@ -1518,10 +1455,7 @@ verlegt worden, so hat das Finanzamt den Steuermessbetrag nach den
 zeitlichen Anteilen (Kalendermonaten) auf die beteiligten Gemeinden zu
 zerlegen.
 
-
 ## Abschnitt VIII - Änderung des Gewerbesteuermessbescheids von Amts wegen
-
-
 
 ### § 35b
 
@@ -1561,10 +1495,7 @@ Schluss der vortragsfähige Gewerbeverlust gesondert festzustellen ist;
 zuständige Finanzbehörde die Feststellung des vortragsfähigen
 Gewerbeverlustes pflichtwidrig unterlassen hat.
 
-
 ## Abschnitt IX - Durchführung
-
-
 
 ### § 35c Ermächtigung
 
@@ -1651,10 +1582,7 @@ in der jeweils geltenden Fassung satzweise nummeriert mit neuem Datum
 und in neuer Paragraphenfolge bekannt zu machen und dabei
 Unstimmigkeiten im Wortlaut zu beseitigen.
 
-
 ## Abschnitt X - Schlussvorschriften
-
-
 
 ### § 36 Zeitlicher Anwendungsbereich
 
@@ -1934,7 +1862,6 @@ Erhebungszeitraum 2008 anzuwenden; § 35c Absatz 1 Nummer 2 Buchstabe f
 Satz 2 in der Fassung des Artikels 3 des Gesetzes vom 8. April 2010
 (BGBl. I S. 386) ist erstmals für den Erhebungszeitraum 2011
 anzuwenden.
-
 
 ### § 37
 

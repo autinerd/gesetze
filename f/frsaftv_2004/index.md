@@ -24,7 +24,6 @@ Mit dieser Verordnung wird die Richtlinie 2001/112/EG des Rates vom
 Erzeugnisse für die menschliche Ernährung (ABl. EG 2002 Nr. L 10 S.
 58) in deutsches Recht umgesetzt.
 
-
 ## Eingangsformel
 
 Das Bundesministerium für Verbraucherschutz, Ernährung und
@@ -49,10 +48,7 @@ von denen § 12 Abs. 3 und § 19 Abs. 1 zuletzt durch Artikel 34 Nr. 1
 der Verordnung vom 25. November 2003 (BGBl. I S. 2304) geändert worden
 sind:
 
-
 ## Abschnitt 1 - Anwendungsbereich
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -63,10 +59,7 @@ gewerbsmäßig in den Verkehr gebracht zu werden.
 (2) Diese Verordnung gilt nach Maßgabe des Abschnitts 3 auch für
 koffeinhaltige Erfrischungsgetränke.
 
-
 ## Abschnitt 2 - Fruchtsaft, einige ähnliche Erzeugnisse und Fruchtnektar
-
-
 
 ### § 2 Zutaten, Herstellungsanforderungen
 
@@ -108,7 +101,6 @@ Mindestgehalte an Fruchtsaft oder Fruchtmark aufweisen.
 
 (8) Unberührt bleiben die Vorschriften über diätetische und
 vitaminisierte Lebensmittel.
-
 
 ### § 3 Kennzeichnung
 
@@ -203,10 +195,7 @@ ursprünglichen Zustandes der in Anlage 1 Nr. 1 Buchstabe b, Nr. 2 und
 3 aufgeführten Erzeugnisse unerlässlichen Zutaten im
 Zutatenverzeichnis nicht erforderlich.
 
-
 ## Abschnitt 3 - Koffeinhaltige Erfrischungsgetränke
-
-
 
 ### § 4 Begriffsbestimmungen
 
@@ -231,7 +220,6 @@ bleibt ein Alkoholgehalt bis zu einer Menge von 2 Gramm pro Liter, der
 zusätzlich einen oder mehrere der in Anlage 8 Teil B aufgeführten
 Stoffe enthalten.
 
-
 ### § 5 Besondere Anforderungen an Herstellung und Inverkehrbringen
 
 (1) Ein koffeinhaltiges Erfrischungsgetränk darf nur so hergestellt
@@ -243,7 +231,6 @@ Gehalte, nicht die in Anlage 8 Teil A festgelegte Höchstmenge
 (2) Ein Energydrink darf nur so hergestellt oder in den Verkehr
 gebracht werden, dass im Enderzeugnis die in Anlage 8 Teil B genannten
 Stoffe nicht die dort jeweils festgesetzten Höchstmengen übersteigen.
-
 
 ### § 6 Kennzeichnung koffeinhaltiger Erfrischungsgetränke
 
@@ -302,10 +289,7 @@ In den Fällen der Nummern 2 und 3 darf die vorgeschriebene Angabe in
 Fußnoten angebracht werden, wenn bei der Verkehrsbezeichnung auf die
 Fußnoten hingewiesen wird.
 
-
 ## Abschnitt 4 - Verkehrsverbote, Straftaten und Ordnungswidrigkeiten, Übergangsregelungen
-
-
 
 ### § 7 Verkehrsverbot
 
@@ -314,7 +298,6 @@ versehen sind, ohne der betreffenden Herstellungsanforderung und den
 Vorschriften des § 2 Absatz 1, 4, 5 Satz 1, Absatz 6 und 7 über die
 Verwendung von Zutaten sowie den weiteren Herstellungsbedingungen zu
 entsprechen, dürfen gewerbsmäßig nicht in den Verkehr gebracht werden.
-
 
 ### § 8 Straftaten und Ordnungswidrigkeiten
 
@@ -336,11 +319,9 @@ Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich
 oder fahrlässig entgegen § 3 Abs. 2 Satz 2 oder Abs. 3 Satz 1 oder § 6
 Absatz 1 ein Erzeugnis in den Verkehr bringt.
 
-
 ### Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ### § 9 Übergangsregelung
 
@@ -359,18 +340,15 @@ gekennzeichnet werden. Nach Satz 1 hergestellte und gekennzeichnete
 Erzeugnisse dürfen noch bis zum Abbau der Vorräte in den Verkehr
 gebracht werden.
 
-
 ### § 10
 
 -
-
 
 ### § 11 Inkrafttreten, Außerkrafttreten
 
 (1) Die Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 (2)
-
 
 ### Anlage 1 (zu § 1 Absatz 1, §§ 2 und 3 Absatz 1 bis 3)
 
@@ -485,10 +463,6 @@ gebracht werden.
         Honig oder gemäß der Zusatzstoff-Zulassungsverordnung zugelassenen
         Süßungsmitteln verwendet werden.
 
-
-
-
-
 ### Anlage 2 (zu § 2 Abs. 1)
 
 Fundstelle des Originaltextes: BGBl. I 2004, 1021
@@ -533,10 +507,6 @@ Fundstelle des Originaltextes: BGBl. I 2004, 1021
     Abtrennung des Saftes gewonnenen Erzeugnisse; bei Zitrusfrüchten sind
     Fruchtfleisch oder Zellen ferner die aus dem Endokarp gewonnen
     Saftsäcke.
-
-
-
-
 
 ### Anlage 3 (zu § 2 Abs. 2)
 
@@ -606,10 +576,6 @@ verboten.
 
 
 4.  Kohlensäure.
-
-
-
-
 
 ### Anlage 4 (zu § 2 Abs. 3 und 5)
 
@@ -697,10 +663,6 @@ folgende Verfahren angewendet werden:
     hierdurch die limonoiden Glukoside, die Säure, die Zucker
     (einschließlich der Oligosaccharide) oder den Mineralgehalt erheblich
     zu vermindern.
-
-
-
-
 
 ### Anlage 5 (zu § 2 Abs. 6)
 
@@ -958,10 +920,6 @@ folgende Verfahren angewendet werden:
 
     *   50
 
-
-
-
-
 ### Anlage 6 (zu § 2 Abs. 7)
 
 Mindestbrixwerte für
@@ -1123,7 +1081,6 @@ gelten die Mindestbrixwerte nur für rückverdünnten Fruchtsaft und
 rückverdünntes Fruchtmark, der bzw. das in der Gemeinschaft
 hergestellt wurde.
 
-
 ### Anlage 7 (zu § 3 Abs. 2 Satz 4)
 
 
@@ -1212,12 +1169,10 @@ hergestellt wurde.
 In den Fällen der Nummern 4 und 5 sind die Verkehrsbezeichnungen durch
 die Angabe der verwendeten Frucht in dänischer Sprache zu ergänzen.
 
-
 ### Anlage 8 (zu den §§ 4 und 5)
 
 **Höchstmengen für bestimmte Stoffe**
 ## **in koffeinhaltigen Erfrischungsgetränken**
-
 
 ## Teil A: Koffeinhaltige Erfrischungsgetränke
 
@@ -1230,9 +1185,6 @@ die Angabe der verwendeten Frucht in dänischer Sprache zu ergänzen.
 *    *   Koffein
 
     *   320
-
-
-
 
 ## Teil B: Energydrinks
 

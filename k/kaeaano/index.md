@@ -18,7 +18,6 @@ Fundstelle
 Ano für strom u. gas aufgeh. durch
 :   § 9 Satz 2 V v. 9.1.1992 I 12 mWv 1.1.1992
 
-
 ## Eingangsformel
 
 Auf Grund des § 2 des Gesetzes zur Durchführung des Vierjahresplans -
@@ -29,7 +28,6 @@ und Betriebe zur Versorgung mit Elektrizität, Gas und Wasser an
 Gemeinden und Gemeindeverbände (Konzessionsabgabenanordnung/Energie-
 KAE) vom 4. März 1941 (Reichsanzeiger Nr. 57 vom 8. März 1941) mit
 Zustimmung des Beauftragten für den Vierjahresplan angeordnet:
-
 
 ## § 1
 
@@ -53,7 +51,6 @@ und Zusammenschlüsse, die Energieversorgungsunternehmen im Sinne des §
 2 des Energiewirtschaftsgesetzes vom 13. Dezember 1935
 (Reichsgesetzbl. I S. 1451) sind oder andere mit Wasser versorgen.
 
-
 ## § 2
 
 (1) Abgrenzungsentschädigungen fallen nicht unter den Begriff der
@@ -69,11 +66,9 @@ KAE). Diese Regelung gilt sowohl im Verhältnis zwischen Gemeinde und
 Versorgungsunternehmen als auch für Versorgungsunternehmen
 untereinander.
 
-
 ## § 3
 
 -
-
 
 ## § 4
 
@@ -85,7 +80,6 @@ Zuteilungszeitraum Brotkarten ausgegeben worden sind, zuzüglich der am
 dergleichen verpflegten Personen sowie der Selbstversorger.
 
 (2)
-
 
 ## § 5
 
@@ -136,16 +130,13 @@ Reichskommissar für die Preisbildung              festgesetzt, es sei
 denn, daß sich die Parteien darüber einigen, welche Lieferungen
 abgabenfrei bleiben.
 
-
 ## § 6
 
 -
 
-
 ## § 7
 
 -
-
 
 ## § 8
 
@@ -157,11 +148,9 @@ bemessen werden. Gewinnausschüttungen nach anderen
 Verteilungsschlüsseln gelten als sonstige Leistungen im Sinne des § 6
 KAE.
 
-
 ## § 9
 
 -
-
 
 ## § 10
 
@@ -180,16 +169,11 @@ b)  monatliche oder vierteljährliche Abschlagszahlungen in Höhe eines
     vorbehaltlich eines am Jahresschluß zu bewirkenden Ausgleichs gezahlt
     werden.
 
-
-
-
-
 ## § 11
 
 Der Eigenverbrauch der Gemeinden, Gemeindeverbände und Zweckverbände
 ist für alle räumlich getrennt liegenden Abnahmestellen gesondert
 abzurechnen.
-
 
 ## § 12
 
@@ -216,16 +200,11 @@ b)  für alle Abnahmestellen einer Gemeinde, deren Verbrauch nach
 c)  von dem nach allgemeinen Tarifpreisen ermittelten Rechnungsbetrag
     sichtbar in Abzug gebracht wird.
 
-
-
-
-
 ## § 13
 
 Als verbilligte Sachleistungen gelten auch Heimfallverpflichtungen.
 Über das Verfahren ihrer Ablösung im Einzelfall entscheidet der
 Reichskommissar für die Preisbildung.
-
 
 ## § 14
 
@@ -237,11 +216,9 @@ eingeräumt worden sind, zu den Preisen abzurechnen, die anderen
 Abnehmern mit gleichen Abnahmeverhältnissen üblicherweise berechnet
 werden.
 
-
 ## § 15
 
 -
-
 
 ## § 16
 
@@ -253,11 +230,9 @@ vereinbart wird. Pachtzinsen dürfen nur nach dem Wert oder Gewinn des
 verpachteten Unternehmens, Zinsen auf das Restkaufgeld nur nach
 Hundertsätzen des Restkaufgelds bemessen werden.
 
-
 ## § 17
 
 -
-
 
 ## § 18
 
@@ -280,22 +255,18 @@ Ergänzung und Ausführung erlassenen Vorschriften abgerechnet. Die
 Vorschriften der Konzessionsabgabenanordnung finden insoweit keine
 Anwendung.
 
-
 ## § 19
 
 -
-
 
 ## § 20
 
 -
 
-
 ## § 21
 
 Durchführungsbestimmungen zur Konzessionsabgabenanordnung und zu
 dieser Anordnung werden im Bundesanzeiger verkündet.
-
 
 ## § 22
 
@@ -304,7 +275,6 @@ dieser Anordnung werden im Bundesanzeiger verkündet.
 Kraft.
 
 (2)
-
 
 ## Schlußformel
 

@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 7 V v. 29.10.2008 I 2155
 
-
 ## Eingangsformel
 
 Auf Grund des § 81 Abs. 4 und des § 80 Abs. 2 des
@@ -28,7 +27,6 @@ geändert worden sind, und unter Berücksichtigung des § 28 des
 Ausbildungsplatzförderungsgesetzes vom 7. September 1976 (BGBl. I S.
 2658) wird im Einvernehmen mit dem Bundesminister für Bildung und
 Wissenschaft verordnet:
-
 
 ## § 1 Ziel der Meisterprüfung und Bezeichnung des Abschlusses
 
@@ -42,7 +40,6 @@ auszuführen und Auszubildende ordnungsgemäß auszubilden.
 Abschluss Pferdewirtschaftsmeister/Pferdewirtschaftsmeisterin -
 Teilbereich Pferdezucht und -haltung, Reitausbildung,
 Galopprenntraining oder Trabrenntraining.
-
 
 ## § 1a Zulassungsvoraussetzungen zur Meisterprüfung
 
@@ -74,7 +71,6 @@ Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche
 Handlungsfähigkeit) erworben hat, die die Zulassung zur Prüfung
 rechtfertigen.
 
-
 ## § 2 Gliederung der Meisterprüfung
 
 (1) Die Meisterprüfung umfasst einen praktischen Teil, einen
@@ -99,7 +95,6 @@ befreien, in dem er eine sehr gute schriftliche Leistung erbracht hat.
 ihre Dauer vom Prüfungsausschuß gekürzt werden.
 
 (5) (weggefallen)
-
 
 ## § 3 Prüfungsanforderungen im praktischen Teil
 
@@ -205,13 +200,6 @@ Teilbereich Fertigkeiten in folgenden Prüfungsfächern nachweisen:
 
 
     e)  Beurteilung, Spezialhufbeschlag und Beschirrung des Trabers.
-
-
-
-
-
-
-
 
 ## § 4 Prüfungsanforderungen im fachtheoretischen Teil
 
@@ -479,7 +467,6 @@ Pferdehaltung in bezug stehen.
 mündliche Prüfung soll für den einzelnen Prüfungsteilnehmer nicht
 länger als 45 Minuten dauern.
 
-
 ## § 5 Prüfungsanforderungen im wirtschaftlichen und rechtlichen Teil
 
 (1) Die Prüfung im wirtschaftlichen und rechtlichen Teil erstreckt
@@ -594,7 +581,6 @@ sich auf folgende Prüfungsfächer:
 (3) Die schriftliche Prüfung soll nicht länger als vier Stunden, die
 mündliche Prüfung für den einzelnen Prüfungsteilnehmer nicht länger
 als 45 Minuten dauern.
-
 
 ## § 6 Prüfungsanforderungen im Teil "Berufsausbildung und Mitarbeiterführung
 
@@ -811,7 +797,6 @@ Prüfung oder für die eindeutige Beurteilung der Prüfungsleistung von
 Bedeutung ist. Die Ergänzungsprüfung soll je Prüfungsteilnehmer nicht
 länger als 30 Minuten dauern.
 
-
 ## § 7 Anrechnung anderer Prüfungsleistungen
 
 Auf Antrag kann die zuständige Stelle den Prüfungsteilnehmer oder die
@@ -822,7 +807,6 @@ zuständigen Stelle, einer öffentlichen oder staatlich anerkannten
 Bildungseinrichtung oder vor einem staatlichen Prüfungsausschuss eine
 Prüfung mit Erfolg abgelegt wurde, die den Anforderungen der
 entsprechenden Prüfungsinhalte nach dieser Verordnung entspricht.
-
 
 ## § 8 Bestehen der Meisterprüfung
 
@@ -851,7 +835,6 @@ den Prüfungen nach § 6 Abs. 4 und 5 mit "ungenügend" oder mehr als
 einer der vorgenannten Prüfungsbestandteile mit "mangelhaft" benotet
 worden ist.
 
-
 ## § 9 Wiederholung der Meisterprüfung
 
 (1) Eine Meisterprüfung, die nicht bestanden ist, kann zweimal
@@ -865,7 +848,6 @@ mindestens mit der Note "ausreichend" bewertet worden sind und er sich
 innerhalb von zwei Jahren, gerechnet vom Tage der Beendigung der nicht
 bestandenen Prüfung an, zur Wiederholungsprüfung anmeldet.
 
-
 ## § 10 Übergangsvorschriften
 
 (1) Die bis zum 30. Dezember 2000 begonnenen Prüfungsverfahren können
@@ -877,11 +859,9 @@ von zwei Jahren ab dem 31. Dezember 2000 zu einer Wiederholungsprüfung
 anmelden, können die Wiederholungsprüfung nach den am 30. Dezember
 2000 geltenden Vorschriften ablegen.
 
-
 ## § 11 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Schlußformel
 

@@ -29,10 +29,7 @@ EG Nr. L 348/62) und der Richtlinie 89/592/EWG des Rates der
 Europäischen Gemeinschaften vom 13. November 1989 zur Koordinierung
 der Vorschriften betreffend Insidergeschäfte (ABl. EG Nr. L 334/30).
 
-
 ## Abschnitt 1 - Anwendungsbereich, Begriffsbestimmungen
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -56,7 +53,6 @@ seiner Sondervermögen, einem Land, der Deutschen Bundesbank, einem
 ausländischen Staat oder dessen Zentralbank oder einer anderen mit
 diesen Geschäften beauftragten Organisation oder mit für deren
 Rechnung handelnden Personen getätigt werden.
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -458,7 +454,6 @@ Unternehmen, das nach Maßgabe des Artikels 21 der Verordnung (EG) Nr.
 Weise Eigenhandel außerhalb organisierter Märkte und multilateraler
 Handelssysteme betreibt.
 
-
 ### § 2a Ausnahmen
 
 (1) Als Wertpapierdienstleistungsunternehmen gelten nicht
@@ -642,7 +637,6 @@ dessen Haftung es seine Tätigkeit erbringt.
 
 (3) (weggefallen)
 
-
 ### § 2b Wahl des Herkunftsstaates
 
 (1) Ein Emittent im Sinne des § 2 Abs. 6 Nr. 3 Buchstabe a bis c kann
@@ -674,15 +668,11 @@ die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen
 zur Veröffentlichung der Wahl des Herkunftsstaates nach Absatz 1 oder
 Absatz 1a treffen.
 
-
 ## Abschnitt 2 - Bundesanstalt für Finanzdienstleistungsaufsicht
-
-
 
 ### § 3
 
 (weggefallen)
-
 
 ### § 4 Aufgaben und Befugnisse
 
@@ -782,7 +772,6 @@ verändern und nutzen.
 Wirtschaftsprüfer oder Sachverständige bei Ermittlungen oder
 Überprüfungen einsetzen.
 
-
 ### § 4a Befugnisse zur Sicherung des Finanzsystems
 
 (1) Die Bundesanstalt kann im Benehmen mit der Deutschen Bundesbank
@@ -834,7 +823,6 @@ Monates nach erfolgter Verlängerung einen Bericht vor. Widerspruch und
 Anfechtungsklage gegen Maßnahmen nach den Absätzen 1 bis 3 haben keine
 aufschiebende Wirkung.
 
-
 ### § 5 Wertpapierrat
 
 (1) Bei der Bundesanstalt wird ein Wertpapierrat gebildet. Er besteht
@@ -873,7 +861,6 @@ sowie über die internationale Zusammenarbeit.
 der Bundesanstalt einberufen. Er ist ferner auf Verlangen von einem
 Drittel seiner Mitglieder einzuberufen. Jedes Mitglied hat das Recht,
 Beratungsvorschläge einzubringen.
-
 
 ### § 6 Zusammenarbeit mit anderen Behörden im Inland
 
@@ -914,7 +901,6 @@ Statistiken, die zu einer erheblichen Einwirkung auf die Finanzmärkte
 geeignet sind, sachgerecht und transparent vorzugehen. Insbesondere
 muss dabei gewährleistet sein, dass hierbei keine
 Informationsvorsprünge Dritter erzeugt werden können.
-
 
 ### § 7 Zusammenarbeit mit zuständigen Stellen im Ausland
 
@@ -1108,7 +1094,6 @@ Bundesministerium der Finanzen kann die Ermächtigung durch
 Rechtsverordnung auf die Bundesanstalt für
 Finanzdienstleistungsaufsicht übertragen.
 
-
 ### § 7a Zusammenarbeit mit der Europäischen Wertpapier- und Marktaufsichtsbehörde
 
 (1) Die Bundesanstalt stellt der Europäischen Wertpapier- und
@@ -1127,7 +1112,6 @@ Absatz 4 des Börsengesetzes und die Aufhebung einer Erlaubnis nach § 4
 Absatz 5 des Börsengesetzes oder nach den Vorschriften der
 Verwaltungsverfahrensgesetze der Länder.
 
-
 ### § 7b Zusammenarbeit mit der Europäischen Kommission im Rahmen des Energiewirtschaftsgesetzes
 
 Die Bundesanstalt übermittelt der Europäischen Kommission auf
@@ -1138,7 +1122,6 @@ worden sind, soweit die Europäische Kommission deren Überlassung gemäß
 mitteilungspflichtigen Unternehmen verlangen könnte und die
 Europäische Kommission diese Informationen zur Erfüllung ihrer im
 Energiewirtschaftsgesetz näher beschriebenen Aufgaben benötigt.
-
 
 ### § 8 Verschwiegenheitspflicht
 
@@ -1211,7 +1194,6 @@ Tatsachen betroffen sind, die den in Absatz 1 Satz 1 oder 2
 bezeichneten Personen durch eine Stelle eines anderen Staates im Sinne
 des Absatzes 1 Satz 3 Nr. 2 oder durch von dieser Stelle beauftragte
 Personen mitgeteilt worden sind.
-
 
 ### § 9 Meldepflichten
 
@@ -1354,7 +1336,6 @@ die nicht der Zustimmung des Bundesrates bedarf,
 Absatz 4 durch Rechtsverordnung auf die Bundesanstalt für
 Finanzdienstleistungsaufsicht übertragen.
 
-
 ### § 10 Anzeige von Verdachtsfällen
 
 (1) Wertpapierdienstleistungsunternehmen, andere Kreditinstitute,
@@ -1397,7 +1378,6 @@ Bundesministerium der Finanzen kann die Ermächtigung durch
 Rechtsverordnung auf die Bundesanstalt für
 Finanzdienstleistungsaufsicht übertragen.
 
-
 ### § 11 Verpflichtung des Insolvenzverwalters
 
 (1) Wird über das Vermögen eines nach diesem Gesetz zu einer Handlung
@@ -1414,10 +1394,7 @@ Verpflichteten ein allgemeines Verfügungsverbot auferlegt wurde, indem
 er die Mittel aus dem von ihm verwalteten Vermögen zur Verfügung
 stellt.
 
-
 ## Abschnitt 3 - Insiderüberwachung
-
-
 
 ### § 12 Insiderpapiere
 
@@ -1442,7 +1419,6 @@ Der Zulassung zum Handel an einem organisierten Markt oder der
 Einbeziehung in den regulierten Markt oder in den Freiverkehr steht
 gleich, wenn der Antrag auf Zulassung oder Einbeziehung gestellt oder
 öffentlich angekündigt ist.
-
 
 ### § 13 Insiderinformation
 
@@ -1475,7 +1451,6 @@ Insiderinformation ist insbesondere auch eine Information über nicht
 Umstände erstellt wird, ist keine Insiderinformation, selbst wenn sie
 den Kurs von Insiderpapieren erheblich beeinflussen kann.
 
-
 ### § 14 Verbot von Insidergeschäften
 
 (1) Es ist verboten,
@@ -1507,7 +1482,6 @@ Kursstabilisierungsmaßnahmen (ABl. EU Nr. L 336 S. 33) erfolgen. Für
 Finanzinstrumente, die in den Freiverkehr oder in den regulierten
 Markt einbezogen sind, gelten die Vorschriften der Verordnung (EG) Nr.
 2273/2003 entsprechend.
-
 
 ### § 15 Mitteilung, Veröffentlichung und Übermittlung von Insiderinformationen an das Unternehmensregister
 
@@ -1616,7 +1590,6 @@ Das Bundesministerium der Finanzen kann die Ermächtigung durch
 Rechtsverordnung auf die Bundesanstalt für
 Finanzdienstleistungsaufsicht übertragen.
 
-
 ### § 15a Mitteilung von Geschäften, Veröffentlichung und Übermittlung an das Unternehmensregister
 
 (1) Personen, die bei einem Emittenten von Aktien Führungsaufgaben
@@ -1684,7 +1657,6 @@ Veröffentlichung nach Absatz 4. Das Bundesministerium der Finanzen
 kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt für
 Finanzdienstleistungsaufsicht übertragen.
 
-
 ### § 15b Führung von Insiderverzeichnissen
 
 (1) Emittenten nach § 15 Abs. 1 Satz 1 oder Satz 2 und in ihrem
@@ -1724,7 +1696,6 @@ Das Bundesministerium der Finanzen kann die Ermächtigung durch
 Rechtsverordnung auf die Bundesanstalt für
 Finanzdienstleistungsaufsicht übertragen.
 
-
 ### § 16 Aufzeichnungspflichten
 
 Wertpapierdienstleistungsunternehmen sowie Unternehmen mit Sitz im
@@ -1737,7 +1708,6 @@ berechtigten oder verpflichteten Personen oder Unternehmen
 festzustellen und diese Angaben aufzuzeichnen. Die Aufzeichnungen nach
 Satz 1 sind mindestens sechs Jahre aufzubewahren. Für die Aufbewahrung
 gilt § 257 Abs. 3 und 5 des Handelsgesetzbuchs entsprechend.
-
 
 ### § 16a Überwachung der Geschäfte der bei der Bundesanstalt Beschäftigten
 
@@ -1757,7 +1727,6 @@ oder für einen anderen abgeschlossen haben, unverzüglich dem
 Dienstvorgesetzten oder der von ihm beauftragten Person schriftlich
 anzuzeigen. Der Dienstvorgesetzte oder die von ihm beauftragte Person
 bestimmt die in Satz 3 genannten Beschäftigten.
-
 
 ### § 16b Aufbewahrung von Verbindungsdaten
 
@@ -1788,9 +1757,7 @@ und die dazu vorhandenen Unterlagen unverzüglich zu vernichten. Die
 Pflicht zur unverzüglichen Vernichtung der vorhandenen Daten gilt auch
 für den Aufbewahrungspflichtigen.
 
-
 ## Abschnitt 3a - Ratingagenturen
-
 
 ### § 17 Überwachung von Ratingagenturen
 
@@ -1820,14 +1787,9 @@ nach Absatz 2, auch in Verbindung mit der Verordnung (EG) Nr.
 
 (7) (weggefallen)
 
-
 ### (XXXX) §§ 18 bis 20 (weggefallen)
 
-
-
 ## Abschnitt 4 - Überwachung des Verbots der Marktmanipulation
-
-
 
 ### § 20a Verbot der Marktmanipulation
 
@@ -1954,15 +1916,11 @@ denn, dass diese Personen aus den unrichtigen oder irreführenden
 Angaben direkt oder indirekt einen Nutzen ziehen oder Gewinne
 schöpfen.
 
-
 ### § 20b
 
 (weggefallen)
 
-
 ## Abschnitt 5 - Mitteilung, Veröffentlichung und Übermittlung von Veränderungen des Stimmrechtsanteils an das Unternehmensregister
-
-
 
 ### § 21 Mitteilungspflichten des Meldepflichtigen
 
@@ -1998,7 +1956,6 @@ zugelassen sind.
 die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen
 erlassen über den Inhalt, die Art, die Sprache, den Umfang und die
 Form der Mitteilung nach Absatz 1 Satz 1 und Absatz 1a.
-
 
 ### § 22 Zurechnung von Stimmrechten
 
@@ -2117,7 +2074,6 @@ eine Unabhängigkeit des Wertpapierdienstleistungsunternehmens vom
 Meldepflichtigen gegeben ist, und über elektronische Hilfsmittel, mit
 denen Weisungen im Sinne des Absatzes 3a erteilt werden können.
 
-
 ### § 23 Nichtberücksichtigung von Stimmrechten
 
 (1) Stimmrechte aus Aktien eines Emittenten, für den die
@@ -2223,10 +2179,6 @@ die nicht der Zustimmung des Bundesrates bedarf,
 3.  nähere Bestimmungen erlassen über elektronische Hilfsmittel, mit denen
     Weisungen nach Absatz 2 Nr. 2 erteilt werden können.
 
-
-
-
-
 ### § 24 Mitteilung durch Konzernunternehmen
 
 Gehört der Meldepflichtige zu einem Konzern, für den nach den §§ 290,
@@ -2234,7 +2186,6 @@ Gehört der Meldepflichtige zu einem Konzern, für den nach den §§ 290,
 muß, so können die Mitteilungspflichten nach § 21 Abs. 1 und 1a durch
 das Mutterunternehmen oder, wenn das Mutterunternehmen selbst ein
 Tochterunternehmen ist, durch dessen Mutterunternehmen erfüllt werden.
-
 
 ### § 25 Mitteilungspflichten beim Halten von Finanzinstrumenten und sonstigen Instrumenten
 
@@ -2267,7 +2218,6 @@ angenommen wurde, gemäß § 23 Absatz 1 des Wertpapiererwerbs- und
 die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen
 erlassen über den Inhalt, die Art, die Sprache, den Umfang und die
 Form der Mitteilung nach Absatz 1.
-
 
 ### § 25a Mitteilungspflichten beim Halten von weiteren Finanzinstrumenten und sonstigen Instrumenten
 
@@ -2355,7 +2305,6 @@ erlassen über
 Das Bundesministerium der Finanzen kann die Ermächtigung durch
 Rechtsverordnung auf die Bundesanstalt übertragen.
 
-
 ### § 26 Veröffentlichungspflichten des Emittenten und Übermittlung an das Unternehmensregister
 
 (1) Ein Inlandsemittent hat Informationen nach § 21 Abs. 1 Satz 1,
@@ -2394,10 +2343,6 @@ erlassen über
 2.  den Inhalt, die Art, die Sprache, den Umfang und die Form der
     Mitteilung nach Absatz 2.
 
-
-
-
-
 ### § 26a Veröffentlichung der Gesamtzahl der Stimmrechte und Übermittlung an das Unternehmensregister
 
 Ein Inlandsemittent hat die Gesamtzahl der Stimmrechte am Ende eines
@@ -2411,14 +2356,12 @@ mitzuteilen. Er übermittelt die Information außerdem unverzüglich,
 jedoch nicht vor ihrer Veröffentlichung dem Unternehmensregister im
 Sinne des § 8b des Handelsgesetzbuchs zur Speicherung.
 
-
 ### § 27 Nachweis mitgeteilter Beteiligungen
 
 Wer eine Mitteilung nach § 21 Abs. 1, 1a oder § 25 Abs. 1 abgegeben
 hat, muß auf Verlangen der Bundesanstalt oder des Emittenten, für den
 die Bundesrepublik Deutschland der Herkunftsstaat ist, das Bestehen
 der mitgeteilten Beteiligung nachweisen.
-
 
 ### § 27a Mitteilungspflichten für Inhaber wesentlicher Beteiligungen
 
@@ -2483,7 +2426,6 @@ die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen
 über den Inhalt, die Art, die Sprache, den Umfang und die Form der
 Mitteilungen nach Absatz 1 erlassen.
 
-
 ### § 28 Rechtsverlust
 
 Rechte aus Aktien, die einem Meldepflichtigen gehören oder aus denen
@@ -2502,7 +2444,6 @@ tatsächlichen Stimmrechtsanteils beträgt und keine Mitteilung über das
 Erreichen, Überschreiten oder Unterschreiten einer der in § 21
 genannten Schwellen unterlassen wird.
 
-
 ### § 29 Richtlinien der Bundesanstalt
 
 Die Bundesanstalt kann Richtlinien aufstellen, nach denen sie für den
@@ -2510,7 +2451,6 @@ Regelfall beurteilt, ob die Voraussetzungen für einen
 mitteilungspflichtigen Vorgang oder eine Befreiung von den
 Mitteilungspflichten nach § 21 Abs. 1 gegeben sind. Die Richtlinien
 sind im Bundesanzeiger zu veröffentlichen.
-
 
 ### § 29a Befreiungen
 
@@ -2566,7 +2506,6 @@ nähere Bestimmungen über die Gleichwertigkeit von Regeln eines
 Drittstaates und die Freistellung von Emittenten nach Absatz 1 und
 Unternehmen nach Absatz 3 zu erlassen.
 
-
 ### § 30 Handelstage
 
 (1) Für die Berechnung der Mitteilungs- und Veröffentlichungsfristen
@@ -2577,10 +2516,7 @@ landeseinheitliche gesetzlich anerkannte Feiertage sind.
 (2) Die Bundesanstalt stellt im Internet unter ihrer Adresse einen
 Kalender der Handelstage zur Verfügung.
 
-
 ## Abschnitt 5a - Notwendige Informationen für die Wahrnehmung von Rechten aus Wertpapieren
-
-
 
 ### § 30a Pflichten der Emittenten gegenüber Wertpapierinhabern
 
@@ -2653,7 +2589,6 @@ Schuldtiteln eingeladen werden:
 (3) Für die Bestimmungen nach Absatz 1 Nr. 1 bis 5 sowie nach § 30b
 Abs. 3 Nr. 1 stehen die Inhaber Aktien vertretender Zertifikate den
 Inhabern der vertretenen Aktien gleich.
-
 
 ### § 30b Veröffentlichung von Mitteilungen und Übermittlung im Wege der Datenfernübertragung
 
@@ -2750,13 +2685,6 @@ Wertpapierinhabern auferlegt werden und
         widersprochen und die dadurch als erteilt geltende Zustimmung nicht zu
         einem späteren Zeitpunkt widerrufen haben.
 
-
-
-
-
-
-
-
 ### § 30c Änderungen der Rechtsgrundlage des Emittenten
 
 Der Emittent zugelassener Wertpapiere, für den die Bundesrepublik
@@ -2770,7 +2698,6 @@ Beschlussorgan, das über die Änderung beschließen soll, vorlegen,
 spätestens aber zum Zeitpunkt der Einberufung des Beschlussorgans
 mitteilen.
 
-
 ### § 30d Vorschriften für Emittenten aus der Europäischen Union und dem Europäischen Wirtschaftsraum
 
 Die Vorschriften der §§ 30a bis 30c finden auch Anwendung auf
@@ -2780,7 +2707,6 @@ Abkommens über den Europäischen Wirtschaftsraum der Herkunftsstaat
 ist, wenn ihre Wertpapiere zum Handel an einem inländischen
 organisierten Markt zugelassen sind und ihr Herkunftsstaat für sie
 keine den §§ 30a bis 30c entsprechenden Vorschriften vorsieht.
-
 
 ### § 30e Veröffentlichung zusätzlicher Angaben und Übermittlung an das Unternehmensregister
 
@@ -2837,7 +2763,6 @@ nähere Bestimmungen zu erlassen über den Mindestinhalt, die Art, die
 Sprache, den Umfang und die Form der Veröffentlichung und der
 Mitteilung nach Absatz 1 Satz 1.
 
-
 ### § 30f Befreiung
 
 (1) Die Bundesanstalt kann Inlandsemittenten mit Sitz in einem
@@ -2864,15 +2789,12 @@ nähere Bestimmungen über die Gleichwertigkeit von Regeln eines
 Drittstaates und die Freistellung von Emittenten nach Absatz 1 zu
 erlassen.
 
-
 ### § 30g Ausschluss der Anfechtung
 
 Die Anfechtung eines Hauptversammlungsbeschlusses kann nicht auf eine
 Verletzung der Vorschriften dieses Abschnitts gestützt werden.
 
-
 ## Abschnitt 5b - Leerverkäufe und Geschäfte in Derivaten
-
 
 ### § 30h Überwachung von Leerverkäufen
 
@@ -2921,14 +2843,9 @@ Das Bundesministerium der Finanzen kann die Ermächtigung des Satzes 1
 durch Rechtsverordnung ohne Zustimmung des Bundesrates auf die
 Bundesanstalt übertragen.
 
-
 ### (XXXX) §§ 30i und 30j (weggefallen)
 
-
-
 ## Abschnitt 6 - Verhaltenspflichten, Organisationspflichten, Transparenzpflichten
-
-
 
 ### § 31 Allgemeine Verhaltensregeln
 
@@ -3157,7 +3074,6 @@ erlassen
 Das Bundesministerium der Finanzen kann die Ermächtigung durch
 Rechtsverordnung auf die Bundesanstalt übertragen.
 
-
 ### § 31a Kunden
 
 (1) Kunden im Sinne dieses Gesetzes sind alle natürlichen oder
@@ -3347,7 +3263,6 @@ der Einstufung nach den Absätzen 6 und 7. Das Bundesministerium der
 Finanzen kann die Ermächtigung durch Rechtsverordnung auf die
 Bundesanstalt übertragen.
 
-
 ### § 31b Geschäfte mit geeigneten Gegenparteien
 
 (1) Wertpapierdienstleistungsunternehmen, die das
@@ -3367,7 +3282,6 @@ erlassen über die Form und den Inhalt einer Vereinbarung nach Absatz 1
 Satz 2 und die Art und Weise der Zustimmung nach § 31a Abs. 4 Satz 2.
 Das Bundesministerium der Finanzen kann die Ermächtigung durch
 Rechtsverordnung auf die Bundesanstalt übertragen.
-
 
 ### § 31c Bearbeitung von Kundenaufträgen
 
@@ -3429,7 +3343,6 @@ Absatz 2 Satz 3 aufheben kann, erlassen. Das Bundesministerium der
 Finanzen kann die Ermächtigung durch Rechtsverordnung auf die
 Bundesanstalt übertragen.
 
-
 ### § 31d Zuwendungen
 
 (1) Ein Wertpapierdienstleistungsunternehmen darf im Zusammenhang mit
@@ -3474,7 +3387,6 @@ und die ihrer Art nach nicht geeignet sind, die Erfüllung der Pflicht
 nach § 31 Abs. 1 Satz 1 Nr. 1 zu gefährden, sind von dem Verbot nach
 Absatz 1 ausgenommen.
 
-
 ### § 31e Erbringung von Wertpapierdienstleistungen und Wertpapiernebendienstleistungen über ein anderes Wertpapierdienstleistungsunternehmen
 
 Erhält ein Wertpapierdienstleistungsunternehmen über ein anderes
@@ -3496,10 +3408,6 @@ Einklang mit den Bestimmungen dieses Abschnitts:
     Wertpapierdienstleistung oder Wertpapiernebendienstleistung dem Kunden
     von dem anderen Wertpapierdienstleistungsunternehmen im Einklang mit
     den gesetzlichen Vorschriften gegeben wurden.
-
-
-
-
 
 ### § 31f Betrieb eines multilateralen Handelssystems
 
@@ -3563,7 +3471,6 @@ multilateralen Handelssystem gehandelten Finanzinstrument ein
 signifikanter Kursverfall im Sinne des Artikels 23 der Verordnung (EU)
 Nr. 236/2012 eintritt.
 
-
 ### § 31g Vor- und Nachhandelstransparenz für multilaterale Handelssysteme
 
 (1) Der Betreiber eines multilateralen Handelssystems hat für in das
@@ -3595,7 +3502,6 @@ veröffentlichen.
 1, 3 und 4 regelt Kapitel IV Abschnitt 1, 3 und 4 der Verordnung (EG)
 Nr. 1287/2006.
 
-
 ### § 31h Veröffentlichungspflichten von Wertpapierdienstleistungsunternehmen nach dem Handel
 
 (1) Wertpapierdienstleistungsunternehmen, die Geschäfte im Rahmen von
@@ -3617,7 +3523,6 @@ Verzögerung nach Satz 1 zu veröffentlichen.
 1 und 2 regelt Kapitel IV Abschnitt 3 und 4 der Verordnung (EG) Nr.
 1287/2006 der Kommission.
 
-
 ### § 32 Systematische Internalisierung
 
 Die §§ 32a bis 32d gelten für systematische Internalisierer, soweit
@@ -3630,7 +3535,6 @@ eine Aktiengattung aus allen Aufträgen, die in der Europäischen Union
 im Hinblick auf diese Aktiengattung ausgeführt werden, ausgenommen
 jene, die im Vergleich zur normalen Marktgröße für diese Aktien ein
 großes Volumen aufweisen.
-
 
 ### § 32a Veröffentlichen von Quotes durch systematische Internalisierer
 
@@ -3658,7 +3562,6 @@ außergewöhnlicher Marktumstände zurückziehen.
 1 und 2 regelt Kapital IV Abschnitt 2 und 4 der Verordnung (EG) Nr.
 1287/2006.
 
-
 ### § 32b Bestimmung der standardmäßigen Marktgröße und Aufgaben der Bundesanstalt
 
 (1) Die Bundesanstalt legt zur Bestimmung der standardmäßigen
@@ -3670,7 +3573,6 @@ unter Liquiditätsaspekten wichtigsten Markt im Inland haben.
 (2) Die Bundesanstalt veröffentlicht die nach Absatz 1 ermittelten
 Klassen auf ihrer Internetseite und übermittelt sie der Europäischen
 Wertpapier- und Marktaufsichtsbehörde.
-
 
 ### § 32c Ausführung von Kundenaufträgen durch systematische Internalisierer
 
@@ -3710,7 +3612,6 @@ Größen veröffentlicht, so kann er einen Kundenauftrag, der zwischen
 diesen Größen liegt, nach Maßgabe der Absätze 1 bis 3 zu einem der
 quotierten Preise ausführen.
 
-
 ### § 32d Zugang zu Quotes, Geschäftsbedingungen bei systematischer Internalisierung
 
 (1) Ein systematischer Internalisierer im Sinne des § 32 Satz 1 hat
@@ -3735,10 +3636,6 @@ in eindeutiger Weise in seinen Geschäftsbedingungen zu regeln.
     gleichzeitig von mehreren Kunden auszuführenden Aufträge in nicht
     diskriminierender Weise beschränkt werden kann, sofern die Anzahl oder
     das Volumen der Aufträge erheblich über der Norm liegt.
-
-
-
-
 
 ### § 33 Organisationspflichten
 
@@ -3845,7 +3742,6 @@ die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen
 zu den organisatorischen Anforderungen nach Absatz 1 Satz 2 erlassen.
 Das Bundesministerium der Finanzen kann die Ermächtigung durch
 Rechtsverordnung auf die Bundesanstalt übertragen.
-
 
 ### § 33a Bestmögliche Ausführung von Kundenaufträgen
 
@@ -3978,7 +3874,6 @@ nach den Absätzen 1 und 8 sowie Art, Umfang und Datenträger der
 Information über die Ausführungsgrundsätze nach Absatz 6. Das
 Bundesministerium der Finanzen kann die Ermächtigung durch
 Rechtsverordnung auf die Bundesanstalt übertragen.
-
 
 ### § 33b Mitarbeiter und Mitarbeitergeschäfte
 
@@ -4200,13 +4095,6 @@ es sei denn,
         Person, für deren Rechnung gehandelt wird, an der Verwaltung des
         Investmentvermögens nicht beteiligt sind.
 
-
-
-
-
-
-
-
 ### § 34 Aufzeichnungs- und Aufbewahrungspflicht
 
 (1) Ein Wertpapierdienstleistungsunternehmen muss, unbeschadet der
@@ -4293,7 +4181,6 @@ Verzeichnis der Mindestaufzeichnungen, die die
 Wertpapierdienstleistungsunternehmen nach diesem Gesetz in Verbindung
 mit einer Rechtsverordnung nach Absatz 4 vorzunehmen haben.
 
-
 ### § 34a Getrennte Vermögensverwahrung
 
 (1) Ein Wertpapierdienstleistungsunternehmen, das über keine Erlaubnis
@@ -4369,7 +4256,6 @@ Verpflichtungen nach den Absätzen 1 bis 4 sowie zu den Anforderungen
 an qualifizierte Geldmarktfonds im Sinne des Absatzes 1 erlassen. Das
 Bundesministerium der Finanzen kann die Ermächtigung durch
 Rechtsverordnung auf die Bundesanstalt übertragen.
-
 
 ### § 34b Analyse von Finanzinstrumenten
 
@@ -4458,7 +4344,6 @@ nach Absatz 5 erlassen. Das Bundesministerium der Finanzen kann die
 Ermächtigung durch Rechtsverordnung auf die Bundesanstalt für
 Finanzdienstleistungsaufsicht übertragen.
 
-
 ### § 34c Anzeigepflicht
 
 Andere Personen als Wertpapierdienstleistungsunternehmen,
@@ -4474,7 +4359,6 @@ vorliegen, die Interessenkonflikte begründen können. Veränderungen der
 angezeigten Daten und Sachverhalte sind innerhalb von vier Wochen der
 Bundesanstalt anzuzeigen. Die Ausnahmevorschrift des § 34b Abs. 4 gilt
 entsprechend.
-
 
 ### § 34d Einsatz von Mitarbeitern in der Anlageberatung, als Vertriebsbeauftragte oder als Compliance-Beauftragte
 
@@ -4614,7 +4498,6 @@ Bundesministerium der Finanzen kann die Ermächtigung durch
 Rechtsverordnung ohne Zustimmung des Bundesrates auf die Bundesanstalt
 übertragen.
 
-
 ### § 35 Überwachung der Meldepflichten und Verhaltensregeln
 
 (1) Die Bundesanstalt kann zur Überwachung der Einhaltung der in
@@ -4651,7 +4534,6 @@ Anforderungen dieses Abschnitts erfüllt sind. Die Deutsche Bundesbank
 sowie die Spitzenverbände der betroffenen Wirtschaftskreise sind vor
 dem Erlass der Richtlinien anzuhören. Die Richtlinien sind im
 Bundesanzeiger zu veröffentlichen.
-
 
 ### § 36 Prüfung der Meldepflichten und Verhaltensregeln
 
@@ -4724,7 +4606,6 @@ Satz 1 unterliegenden Pflichten hinzuwirken und um zu diesem Zweck
 einheitliche Unterlagen zu erhalten. Das Bundesministerium der
 Finanzen kann die Ermächtigung durch Rechtsverordnung auf die
 Bundesanstalt für Finanzdienstleistungsaufsicht übertragen.
-
 
 ### § 36a Unternehmen, organisierte Märkte und multilaterale Handelssysteme mit Sitz in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
 
@@ -4810,7 +4691,6 @@ Absatzes 3 Satz 1 und des Absatzes 5 die Europäische Wertpapier- und
 Marktaufsichtsbehörde nach Maßgabe des Artikels 19 der Verordnung (EU)
 Nr. 1095/2010 um Hilfe ersuchen.
 
-
 ### § 36b Werbung der Wertpapierdienstleistungsunternehmen
 
 (1) Um Mißständen bei der Werbung für Wertpapierdienstleistungen und
@@ -4822,11 +4702,9 @@ untersagen.
 der betroffenen Wirtschaftskreise und des Verbraucherschutzes
 anzuhören.
 
-
 ### § 36c (weggefallen)
 
 -
-
 
 ### § 37 Ausnahmen
 
@@ -4841,15 +4719,11 @@ Wertpapierdienstleistungsunternehmen jedoch den Verpflichtungen des §
 31 Abs. 1 Nr. 1 und Abs. 2 bis 8 sowie der §§ 31c, 31d und 33a
 gegenüber dem Kunden nachkommen.
 
-
 ### § 37a (weggefallen)
 
 -
 
-
 ## Abschnitt 7 - Haftung für falsche und unterlassene Kapitalmarktinformationen
-
-
 
 ### § 37b Schadenersatz wegen unterlassener unverzüglicher Veröffentlichung von Insiderinformationen
 
@@ -4889,7 +4763,6 @@ Handlungen erhoben werden können, bleiben unberührt.
 (6) Eine Vereinbarung, durch die Ansprüche des Emittenten gegen
 Vorstandsmitglieder wegen der Inanspruchnahme des Emittenten nach
 Absatz 1 im Voraus ermäßigt oder erlassen werden, ist unwirksam.
-
 
 ### § 37c Schadenersatz wegen Veröffentlichung unwahrer Insiderinformationen
 
@@ -4933,15 +4806,11 @@ Handlungen erhoben werden können, bleiben unberührt.
 Vorstandsmitglieder wegen der Inanspruchnahme des Emittenten nach
 Absatz 1 im Voraus ermäßigt oder erlassen werden, ist unwirksam.
 
-
 ## Abschnitt 8 - Finanztermingeschäfte
-
-
 
 ### § 37d (weggefallen)
 
 -
-
 
 ### § 37e Ausschluss des Einwands nach § 762 des Bürgerlichen Gesetzbuchs
 
@@ -4955,11 +4824,9 @@ Vermittlung von Finanztermingeschäften betreibt, kann der Einwand des
 Finanztermingeschäfte im Sinne des Satzes 1 und der §§ 37g und 37h
 sind die Derivate im Sinne des § 2 Abs. 2 und Optionsscheine.
 
-
 ### § 37f (weggefallen)
 
 -
-
 
 ### § 37g Verbotene Finanztermingeschäfte
 
@@ -4988,13 +4855,7 @@ gilt entsprechend für
 4.  Vereinigungen zum Zwecke des Abschlusses von verbotenen
     Finanztermingeschäften.
 
-
-
-
-
 ## Abschnitt 9 - Schiedsvereinbarungen
-
-
 
 ### § 37h Schiedsvereinbarungen
 
@@ -5003,10 +4864,7 @@ Wertpapierdienstleistungen, Wertpapiernebendienstleistungen oder
 Finanztermingeschäften sind nur verbindlich, wenn beide Vertragsteile
 Kaufleute oder juristische Personen des öffentlichen Rechts sind.
 
-
 ## Abschnitt 10 - Märkte für Finanzinstrumente mit Sitz außerhalb der Europäischen Union
-
-
 
 ### § 37i Erlaubnis
 
@@ -5066,7 +4924,6 @@ machen.
 
 (4) (weggefallen)
 
-
 ### § 37j Versagung der Erlaubnis
 
 Die Erlaubnis ist zu versagen, wenn
@@ -5088,10 +4945,6 @@ Die Erlaubnis ist zu versagen, wenn
     zuständigen Stellen des Herkunftsstaates nicht gewährleistet
     erscheint.
 
-
-
-
-
 ### § 37k Aufhebung der Erlaubnis
 
 (1) Die Bundesanstalt kann die Erlaubnis außer nach den Vorschriften
@@ -5111,7 +4964,6 @@ des Verwaltungsverfahrensgesetzes aufheben, wenn
 (2) Die Bundesanstalt hat die Aufhebung der Erlaubnis im
 Bundesanzeiger bekannt zu machen.
 
-
 ### § 37l Untersagung
 
 Die Bundesanstalt kann Handelsteilnehmern mit Sitz im Inland, die
@@ -5121,19 +4973,13 @@ Marktes auszuführen, wenn diese Märkte oder ihre Betreiber
 Handelsteilnehmern im Inland einen unmittelbaren Marktzugang über
 dieses elektronische Handelssystem ohne Erlaubnis gewähren.
 
-
 ### § 37m (weggefallen)
 
 -
 
-
 ## Abschnitt 11 - Überwachung von Unternehmensabschlüssen, Veröffentlichung von Finanzberichten
 
-
-
 ### Unterabschnitt 1 - Überwachung von Unternehmensabschlüssen
-
-
 
 #### § 37n Prüfung von Unternehmensabschlüssen und -berichten
 
@@ -5147,7 +4993,6 @@ Zwischenlagebericht von Unternehmen, deren Wertpapiere im Sinne des §
 Markt zugelassen sind, den gesetzlichen Vorschriften einschließlich
 der Grundsätze ordnungsmäßiger Buchführung oder den sonstigen durch
 Gesetz zugelassenen Rechnungslegungsstandards entspricht.
-
 
 #### § 37o Anordnung einer Prüfung der Rechnungslegung und Ermittlungsbefugnisse der Bundesanstalt
 
@@ -5206,7 +5051,6 @@ Grundstücke und Geschäftsräume zu gestatten. § 4 Abs. 4 Satz 2 gilt
 entsprechend. Das Grundrecht der Unverletzlichkeit der Wohnung
 (Artikel 13 des Grundgesetzes) wird insoweit eingeschränkt.
 
-
 #### § 37p Befugnisse der Bundesanstalt im Fall der Anerkennung einer Prüfstelle
 
 (1) Ist nach § 342b Abs. 1 des Handelsgesetzbuchs eine Prüfstelle
@@ -5242,7 +5086,6 @@ Abs. 7, § 256 Abs. 7 Satz 2 und § 261a des Aktiengesetzes in Kenntnis,
 wenn die Prüfstelle die Prüfung eines von der Mitteilung betroffenen
 Unternehmens beabsichtigt oder eingeleitet hat.
 
-
 #### § 37q Ergebnis der Prüfung von Bundesanstalt oder Prüfstelle
 
 (1) Ergibt die Prüfung durch die Bundesanstalt, dass die
@@ -5269,7 +5112,6 @@ Versicherungsunternehmen weit verbreitet ist, zu erfolgen.
 (3) Ergibt die Prüfung durch die Bundesanstalt keine Beanstandungen,
 so teilt die Bundesanstalt dies dem Unternehmen mit.
 
-
 #### § 37r Mitteilungen an andere Stellen
 
 (1) Die Bundesanstalt hat Tatsachen, die den Verdacht einer Straftat
@@ -5284,7 +5126,6 @@ Bundesanstalt der Wirtschaftsprüferkammer. Tatsachen, die auf das
 Vorliegen eines Verstoßes des Unternehmens gegen börsenrechtliche
 Vorschriften schließen lassen, übermittelt sie der zuständigen
 Börsenaufsichtsbehörde. Absatz 1 Satz 2 gilt entsprechend.
-
 
 #### § 37s Internationale Zusammenarbeit
 
@@ -5313,7 +5154,6 @@ in anonymisierter Form zur Verfügung gestellt werden.
 (3) Die internationale Zusammenarbeit durch die Bundesanstalt nach den
 Absätzen 1 und 2 erfolgt im Benehmen mit der Prüfstelle.
 
-
 #### § 37t Widerspruchsverfahren
 
 (1) Vor Einlegung der Beschwerde sind Rechtmäßigkeit und
@@ -5330,7 +5170,6 @@ Abschnitt nichts Abweichendes geregelt ist.
 Abs. 2 und § 37q Abs. 1 sowie Abs. 2 Satz 1 hat keine aufschiebende
 Wirkung.
 
-
 #### § 37u Beschwerde
 
 (1) Gegen Verfügungen der Bundesanstalt nach diesem Abschnitt ist die
@@ -5340,10 +5179,7 @@ Beschwerde statthaft. Die Beschwerde hat keine aufschiebende Wirkung.
 bis 58 des Wertpapiererwerbs- und Übernahmegesetzes gelten
 entsprechend.
 
-
 ### Unterabschnitt 2 - Veröffentlichung und Übermittlung von Finanzberichten an das Unternehmensregister
-
-
 
 #### § 37v Jahresfinanzbericht
 
@@ -5407,10 +5243,6 @@ Zustimmung des Bundesrates bedarf, nähere Bestimmungen erlassen über
 
 3.  wie lange die Informationen nach Absatz 2 im Unternehmensregister
     allgemein zugänglich bleiben müssen und wann sie zu löschen sind.
-
-
-
-
 
 #### § 37w Halbjahresfinanzbericht
 
@@ -5510,10 +5342,6 @@ Zustimmung des Bundesrates bedarf, nähere Bestimmungen erlassen über
 4.  wie lange der Halbjahresfinanzbericht im Unternehmensregister
     allgemein zugänglich bleiben muss und wann er zu löschen ist.
 
-
-
-
-
 #### § 37x Zwischenmitteilung der Geschäftsführung
 
 (1) Ein Unternehmen, das als Inlandsemittent Aktien begibt, hat in
@@ -5565,10 +5393,6 @@ Zustimmung des Bundesrates bedarf, nähere Bestimmungen erlassen über
 2.  den Mindestinhalt, die Art, die Sprache, den Umfang und die Form der
     Mitteilung nach Absatz 1 Satz 3.
 
-
-
-
-
 #### § 37y Konzernabschluss
 
 Ist ein Mutterunternehmen verpflichtet, einen Konzernabschluss und
@@ -5601,10 +5425,6 @@ folgenden Maßgabe:
 3.  Die Angaben nach § 37x Abs. 2 Satz 2 in der Zwischenmitteilung eines
     Mutterunternehmens haben sich auf das Mutterunternehmen und die
     Gesamtheit der einzubeziehenden Tochterunternehmen zu beziehen.
-
-
-
-
 
 #### § 37z Ausnahmen
 
@@ -5673,10 +5493,7 @@ Parlaments und des Rates vom 19. Juli 2002 betreffend die Anwendung
 internationaler Rechnungslegungsstandards (ABl. EG Nr. L 243 S. 1)
 genannten international anerkannten Standards aufstellen.
 
-
 ## Abschnitt 12 - Straf- und Bußgeldvorschriften
-
-
 
 ### § 38 Strafvorschriften
 
@@ -5781,7 +5598,6 @@ bis zu einem Jahr oder Geldstrafe.
 oder 4 oder in Absatz 2 in Verbindung mit § 39 Abs. 1 Nr. 1 oder 2
 oder Abs. 2 Nr. 11 genannten Verbotsvorschrift steht ein
 entsprechendes ausländisches Verbot gleich.
-
 
 ### § 39 Bußgeldvorschriften
 
@@ -6318,12 +6134,10 @@ Buchstabe b, Nr. 15, 16, 18 bis 21, des Absatzes 2a sowie des Absatzes
 Absatz 4, gelten auch für die erlaubnispflichtige Anlageverwaltung im
 Sinne des § 2 Abs. 3 Satz 3.
 
-
 ### § 40 Zuständige Verwaltungsbehörde
 
 Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über
 Ordnungswidrigkeiten ist die Bundesanstalt.
-
 
 ### § 40a Beteiligung der Bundesanstalt und Mitteilungen in Strafsachen
 
@@ -6379,7 +6193,6 @@ erkennbar ist, dass schutzwürdige Interessen des Betroffenen
 überwiegen. Dabei ist zu berücksichtigen, wie gesichert die zu
 übermittelnden Erkenntnisse sind.
 
-
 ### § 40b Bekanntmachung von Maßnahmen
 
 (1) Die Bundesanstalt kann unanfechtbare Maßnahmen, die sie wegen
@@ -6403,10 +6216,7 @@ zu machen, es sei denn, diese Veröffentlichung würde die Finanzmärkte
 erheblich gefährden oder zu einem unverhältnismäßigen Schaden bei den
 Beteiligten führen.
 
-
 ## Abschnitt 13 - Übergangsbestimmungen
-
-
 
 ### § 41 Übergangsregelung für Mitteilungs- und Veröffentlichungspflichten
 
@@ -6550,7 +6360,6 @@ Inlandsemittent diese der Bundesanstalt mitzuteilen.
 (6) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 5 mit einer
 Geldbuße bis zu zweihunderttausend Euro geahndet werden.
 
-
 ### § 41a Übergangsregelung für die Mitteilungs- und Veröffentlichungspflichten zur Herkunftsstaatenwahl
 
 (1) Ein Emittent im Sinne des § 2 Absatz 6 Nummer 1 Buchstabe b, für
@@ -6567,7 +6376,6 @@ vor dem 1. Juli 2012 geltenden Fassung als Herkunftsstaat gewählt und
 die Wahl veröffentlicht hat, muss die Veröffentlichung unverzüglich
 nach dem 30. Juni 2012 der Bundesanstalt mitteilen.
 
-
 ### § 42 Übergangsregelung für die Kostenerstattungspflicht nach § 11
 
 (1) Die nach § 11 Abs. 1 Satz 1 in der Fassung des Gesetzes vom 26.
@@ -6583,13 +6391,11 @@ Finanzdienstleistungsaufsicht vom 22. April 2002 (BGBl. I S. 1310)
 geltenden Fassung auf die angefallenen Kosten des Bundesaufsichtsamtes
 für den Wertpapierhandel anzuwenden.
 
-
 ### § 42a Übergangsregelung für das Verbot ungedeckter Leerverkäufe in Aktien und bestimmten Schuldtiteln nach § 30h
 
 Ausgenommen von dem Verbot des § 30h sind Geschäfte, die bereits vor
 dem 27. Juli 2010 abgeschlossen wurden, sofern diese nicht auf Grund
 einer anderen Regelung verboten sind.
-
 
 ### § 42b Übergangsregelung für die Mitteilungs- und Veröffentlichungspflichten für Inhaber von Netto-Leerverkaufspositionen nach § 30i
 
@@ -6623,7 +6429,6 @@ worden ist.
 (3) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 2 mit einer
 Geldbuße bis zu zweihunderttausend Euro geahndet werden.
 
-
 ### § 42c Übergangsregelung für das Verbot von Kreditderivaten nach § 30j
 
 Ausgenommen von dem Verbot des § 30j sind Geschäfte, die der
@@ -6631,7 +6436,6 @@ Glattstellung von Positionen in einem Kreditderivat im Sinne des § 30j
 Absatz 1 Nummer 1 dienen, aus denen dem Sicherungsnehmer bereits vor
 dem 27. Juli 2010 Rechte und Pflichten erwachsen sind sowie Geschäfte
 in bereits vor dem 27. Juli 2010 emittierten Credit Linked Notes.
-
 
 ### § 42d Übergangsregelung für den Einsatz von Mitarbeitern nach § 34d
 
@@ -6675,7 +6479,6 @@ Anforderungen nach § 34d Absatz 1 Satz 1, Absatz 2 Satz 1 oder Absatz
 3 Satz 1 erfüllen. Für die Anzeigen gilt § 34d Absatz 1 Satz 2, Absatz
 2 Satz 2 oder Absatz 3 Satz 2 entsprechend.
 
-
 ### § 42e Übergangsregelung für wesentliche Anlegerinformationen
 
 § 31 Absatz 3a in der ab dem 1. Juli 2011 geltenden Fassung ist auf
@@ -6688,13 +6491,11 @@ dem 1. Juli 2012. Bis zu diesem Zeitpunkt ist § 31 Absatz 3 Satz 4 in
 der bis zum 30. Juni 2011 geltenden Fassung auf den Vertrieb der
 jeweiligen EU-Investmentanteile weiter anzuwenden.
 
-
 ### § 43 Übergangsregelung für die Verjährung von Ersatzansprüchen nach § 37a
 
 § 37a in der bis zum 4. August 2009 geltenden Fassung ist auf
 Ansprüche anzuwenden, die in der Zeit vom 1. April 1998 bis zum Ablauf
 des 4. August 2009 entstanden sind.
-
 
 ### § 44 Übergangsregelung für ausländische organisierte Märkte
 
@@ -6711,7 +6512,6 @@ elektronisches Handelssystem einen unmittelbaren Marktzugang gewährt
 haben, haben dies und die Absicht, den Marktzugang aufrechtzuerhalten,
 der Bundesanstalt bis zum 31. Dezember 2002 anzuzeigen.
 
-
 ### § 45 Anwendungsbestimmung zum Abschnitt 11
 
 Die Bestimmungen des Abschnitts 11 in der vom 21. Dezember 2004 an
@@ -6719,7 +6519,6 @@ geltenden Fassung finden erstmals auf Abschlüsse des Geschäftsjahres
 Anwendung, das am 31. Dezember 2004 oder später endet. Die
 Bundesanstalt nimmt die ihr in Abschnitt 11 zugewiesenen Aufgaben ab
 dem 1. Juli 2005 wahr.
-
 
 ### § 46 Anwendungsbestimmung für das Transparenzrichtlinie-Umsetzungsgesetz
 
@@ -6748,7 +6547,6 @@ geltenden Fassung findet erstmals auf Informationen Anwendung, die
 nach dem 31. Dezember 2007 übermittelt werden.
 
 (4) (weggefallen)
-
 
 ### § 47 Anwendungsbestimmung für § 34
 

@@ -17,14 +17,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 504
 
-
 ## Eingangsformel
 
 Auf Grund des § 184 des Dritten Buches Sozialgesetzbuch –
 Arbeitsförderung –, der durch Artikel 2 Nummer 18 des Gesetzes vom 20.
 Dezember 2011 (BGBl. I S. 2854) geändert worden ist, verordnet das
 Bundesministerium für Arbeit und Soziales:
-
 
 ## § 1 Akkreditierungsverfahren
 
@@ -35,7 +33,6 @@ von Trägern und Maßnahmen beauftragten Personen umfassende Kenntnisse
 der Fachbereiche nach § 5 Absatz 1 Satz 3 sowie hinsichtlich Inhalt
 und Durchführung von Maßnahmen nach den §§ 45 sowie 81 und 82 des
 Dritten Buches Sozialgesetzbuch haben.
-
 
 ## § 2 Trägerzulassung
 
@@ -200,7 +197,6 @@ bisherigen Tätigkeit machen kann, hat er gegenüber der fachkundigen
 Stelle in geeigneter Weise darzulegen, wie die jeweilige Anforderung
 erfüllt werden wird.
 
-
 ## § 3 Maßnahmezulassung
 
 (1) Eine Maßnahme lässt nach § 179 Absatz 1 Satz 1 Nummer 1 des
@@ -245,7 +241,6 @@ Ausbildungs- und Arbeitsmarktes abgestimmt ist, und sie die
 Voraussetzungen des § 45 oder der §§ 81 und 82 des Dritten Buches
 Sozialgesetzbuch erfüllt.
 
-
 ## § 4 Ergänzende Anforderungen an Maßnahmen der beruflichen Weiterbildung
 
 (1) Soweit Maßnahmen der beruflichen Weiterbildung nach den §§ 81 und
@@ -262,7 +257,6 @@ besonderen arbeitsmarktpolitischen Interesse an der Maßnahme und dem
 Nachweis notwendiger überdurchschnittlicher technischer,
 organisatorischer oder personeller Aufwendungen für die Durchführung
 der Maßnahme abhängig machen.
-
 
 ## § 5 Zulassungsverfahren
 
@@ -348,7 +342,6 @@ Sozialgesetzbuch, ob die ihr gemäß § 183 Absatz 4 des Dritten Buches
 Sozialgesetzbuch mitgeteilten Erkenntnisse Auswirkungen auf die
 Zulassung haben.
 
-
 ## § 6 Zusammenarbeit
 
 (1) Die Akkreditierungsstelle, die fachkundigen Stellen und die
@@ -360,7 +353,6 @@ Umsetzungshinweise zur Verfügung stellen, die diese bei der Prüfung
 berücksichtigen. Sie hat dabei die Empfehlungen des Beirats nach § 182
 des Dritten Buches Sozialgesetzbuch zu beachten.
 
-
 ## § 7 Übergangsregelung
 
 Empfehlungen des Anerkennungsbeirats nach der Anerkennungs- und
@@ -369,7 +361,6 @@ Zulassungsverordnung – Weiterbildung vom 16. Juni 2004 (BGBl. I S.
 Wirksamwerden neuer Empfehlungen fort, sofern sie nicht den
 gesetzlichen Regelungen des Dritten Buches Sozialgesetzbuch und dieser
 Verordnung widersprechen.
-
 
 ## § 8 Inkrafttreten, Außerkrafttreten
 

@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 18.2.1998 I 390
 
-
 ## Eingangsformel
 
 Auf Grund
@@ -46,7 +45,6 @@ Auf Grund
 
 
 nach Anhörung der zuständigen obersten Landesbehörden:
-
 
 ## § 1
 
@@ -115,10 +113,6 @@ Dies gilt nur, wenn
     oder Prüfer für den Kraftfahrzeugverkehr oder durch einen
     Kraftfahrzeugsachverständigen oder Angestellten nach Abschnitt 7.4a
     der Anlage VIII bestätigt worden ist.
-
-
-
-
 
 ## § 2
 

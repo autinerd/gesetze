@@ -21,10 +21,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 26 G v. 27.7.2001 I 1887
 
-
 ## Erster Abschnitt - Vollstreckbarerklärung von gerichtlichen Entscheidungen, Vergleichen und öffentlichen Urkunden
-
-
 
 ### § 1
 
@@ -39,7 +36,6 @@ zuständig sein würde.
 allgemeinen Gerichtsstand hat, und beim Fehlen eines solchen das
 Gericht, in dessen Bezirk sich Vermögen des Schuldners befindet oder
 die Zwangsvollstreckung durchgeführt werden soll.
-
 
 ### § 2
 
@@ -61,7 +57,6 @@ gelten entsprechend.
 
 (5) (weggefallen)
 
-
 ### § 3
 
 Hängt die Vollstreckung nach dem Inhalt des Schuldtitels (§ 1 Abs. 1)
@@ -77,7 +72,6 @@ Nachweis ist durch öffentliche oder öffentlich beglaubigte Urkunden zu
 führen, sofern nicht die Tatsachen bei dem Gericht offenkundig sind.
 Kann er in dieser Form nicht erbracht werden, so ist mündliche
 Verhandlung anzuordnen.
-
 
 ### § 4
 
@@ -107,7 +101,6 @@ die Gründe, auf denen sie beruhen, erst
 
 entstanden sind.
 
-
 ### § 5
 
 Aus den für vollstreckbar erklärten Schuldtiteln (§ 1 Abs. 1) findet
@@ -115,10 +108,7 @@ die Zwangsvollstreckung statt, sofern die Entscheidung über die
 Vollstreckbarkeit rechtskräftig oder für vorläufig vollstreckbar
 erklärt ist.
 
-
 ## Zweiter Abschnitt - Aufhebung oder Abänderung der Vollstreckbarerklärung
-
-
 
 ### § 6
 
@@ -142,17 +132,13 @@ bereits getroffener Vollstreckungsmaßregeln gelten §§ 769, 770 der
 Zivilprozeßordnung entsprechend. Die Aufhebung einer
 Vollstreckungsmaßregel ist auch ohne Sicherheitsleistung zulässig.
 
-
 ## Dritter Abschnitt - Besondere Vorschriften für deutsche gerichtliche Entscheidungen
-
-
 
 ### § 7
 
 Ist zu erwarten, daß ein Versäumnis- oder Anerkenntnisurteil in
 Griechenland geltend gemacht werden soll, so darf das Urteil nicht in
 abgekürzter Form (§ 313b der Zivilprozeßordnung) hergestellt werden.
-
 
 ### § 8
 
@@ -178,13 +164,11 @@ Tatbestandes nicht mitgewirkt haben.
 (4) Für die Vervollständigung des Urteils werden Gerichtsgebühren
 nicht erhoben.
 
-
 ### § 9
 
 Einer einstweiligen Anordnung oder einer einstweiligen Verfügung, die
 in Griechenland geltend gemacht werden soll, ist eine Begründung
 beizufügen. § 8 ist entsprechend anzuwenden.
-
 
 ### § 10
 
@@ -195,17 +179,13 @@ auch dann mit der Vollstreckungsklausel zu versehen, wenn dies für
 eine Zwangsvollstreckung im Inland nach § 796 Abs. 1, §§ 936, 929 Abs.
 1 der Zivilprozeßordnung nicht erforderlich wäre.
 
-
 ## Vierter Abschnitt - Schlußbestimmungen
-
-
 
 ### § 11
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
 im Land Berlin.
-
 
 ### § 12
 

@@ -17,7 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 2838
 
-
 ## I. Widerspruchsverfahren
 
 Nach § 126 Absatz 3 Satz 2 des Bundesbeamtengesetzes vom 5. Februar
@@ -30,7 +29,6 @@ beschäftigten Regierungsinspektoranwärterinnen und -anwärter gegen
 Maßnahmen des Prüfungsausschusses nach der zuvor genannten Verordnung
 zu entscheiden.
 
-
 ## II. Verwaltungsgerichtliches Verfahren
 
 Nach § 127 Absatz 3 Satz 1 des Bundesbeamtengesetzes vom 5. Februar
@@ -41,11 +39,9 @@ und -anwärter übertragen, soweit der nach § 12 Absatz 1 Satz 1 der in
 Abschnitt I genannten Verordnung eingerichtete Prüfungsausschuss über
 den Widerspruch entschieden hat.
 
-
 ## III. Inkrafttreten
 
 Diese Anordnung tritt am Tag nach der Veröffentlichung in Kraft.
-
 
 ## Schlussformel
 

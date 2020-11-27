@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 23.5.1996 I 758
 
-
 ## Eingangsformel
 
 Auf Grund des § 4 Abs. 1 des Gesetzes zum Schutz gegen Fluglärm vom
@@ -29,7 +28,6 @@ des Einführungsgesetzes zum Strafgesetzbuch vom 2. März 1974
 Bundesminister der Verteidigung und mit Zustimmung des Bundesrates
 verordnet:
 
-
 ## § 1
 
 Zum Schutz der Allgemeinheit vor Gefahren, erheblichen Nachteilen und
@@ -37,14 +35,12 @@ erheblichen Belästigungen durch Fluglärm in der Umgebung des
 militärischen Flugplatzes Nörvenich wird der in § 2 bestimmte
 Lärmschutzbereich festgesetzt.
 
-
 ## § 2
 
 Der Lärmschutzbereich mit seinen zwei Schutzzonen wird bestimmt durch
 die interpolierten Verbindungslinien zwischen den in Anlage 1
 genannten Kurvenpunkten, soweit diese Linien außerhalb des
 Flugplatzgeländes verlaufen.
-
 
 ## § 3
 
@@ -55,7 +51,6 @@ dieser Schutzzone gelegen.
 
 (2) Auf die Errichtung einer baulichen Anlage ist Absatz 1
 entsprechend anzuwenden.
-
 
 ## § 4
 
@@ -72,16 +67,13 @@ bis zum Ablauf des 13. November 1982 und nach der bis zum 13. Juni
 1996 geltenden Fassung dieser Verordnung bleiben an gleicher Stelle zu
 jedermanns Einsicht archivmäßig gesichert niedergelegt.
 
-
 ## § 5
 
 Diese Verordnung tritt am Tag nach ihrer Verkündung in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesminister des Innern
-
 
 ## Anlage 1 (zu § 2 der Verordnung über die Festsetzung des Lärmschutzbereichs für den militärischen Flugplatz Nörvenich in der Fassung der Zweiten Änderungsverordnung vom 23. Mai 1996)
 
@@ -3803,9 +3795,6 @@ Der Bundesminister des Innern
     *
     *
     *
-
-
-
 
 ## Anlage 2 (zu § 4 Abs. 1 der Verordnung über die Festsetzung des Lärmschutzbereichs für den militärischen Flugplatz Nörvenich in der Fassung der Zweiten Änderungsverordnung vom 23. Mai 1996)
 

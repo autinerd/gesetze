@@ -22,8 +22,6 @@ Stand: zuletzt geändert Art. 13 Abs. 5 G v. 12.4.2012 I 579
 
 ## Teil 1 - Allgemeine Vorschrift
 
-
-
 ### § 1 Anordnung als Bundesstatistik
 
 Nach Maßgabe dieses Gesetzes werden folgende Agrarstatistiken als
@@ -61,21 +59,11 @@ Bundesstatistiken durchgeführt:
 
 11. die Düngemittelstatistik.
 
-
-
-
-
 ## Teil 2 - Agrarstatistiken
-
-
 
 ### Abschnitt 1 - Bodennutzungserhebung
 
-
-
 #### Unterabschnitt 1 - Allgemeine Vorschrift
-
-
 
 ##### § 2 Einzelerhebungen
 
@@ -101,19 +89,12 @@ Die Bodennutzungserhebung umfasst folgende Einzelerhebungen:
 
 7.  Strauchbeerenerhebung.
 
-
-
-
-
 #### Unterabschnitt 2 - Flächenerhebung
-
-
 
 ##### § 3 Erhebungseinheiten
 
 Erhebungseinheiten der Flächenerhebung sind die Gemeinden und
 gemeindefreien Gebiete.
-
 
 ##### § 4 Erhebungsart, Periodizität, Berichtszeitpunkt, Erhebungsmerkmale
 
@@ -123,15 +104,11 @@ gemeindefreien Gebiete.
 (2) Erhebungsmerkmale sind die Bodenflächen nach der Art der
 tatsächlichen Nutzung.
 
-
 ##### § 5 (weggefallen)
 
 -
 
-
 #### Unterabschnitt 3 - Bodennutzungshaupterhebung
-
-
 
 ##### § 6 Erhebungseinheiten
 
@@ -142,10 +119,6 @@ Erhebungseinheiten der Bodennutzungshaupterhebung sind:
 
 2.  in Bayern: gemeinschaftlich genutzte Flächen von mindestens fünf
     Hektar landwirtschaftlich genutzter Fläche.
-
-
-
-
 
 ##### § 7 Erhebungsart, Periodizität, Erhebungszeitraum, Merkmale
 
@@ -170,7 +143,6 @@ Bremen und Hamburg nicht durchgeführt.
 (3) Die Erhebung nach Absatz 1 ist in den Jahren 2010, 2013 und 2016
 Bestandteil der Agrarstrukturerhebung.
 
-
 ##### § 8 Erhebungsmerkmale und Berichtszeit
 
 (1) Erhebungsmerkmale der Bodennutzungshaupterhebung sind die Nutzung
@@ -184,10 +156,7 @@ Ausnahme des Zwischenfruchtanbaus ist das laufende Kalenderjahr. Der
 Berichtszeitraum für den Zwischenfruchtanbau sind die Monate Juni des
 Vorjahres bis Mai des laufenden Jahres.
 
-
 #### Unterabschnitt 4 - Zierpflanzenerhebung
-
-
 
 ##### § 9 Erhebungseinheiten
 
@@ -197,12 +166,10 @@ deren jeweilige Jungpflanzen angebaut werden, mindestens 0,3 Hektar im
 Freiland oder mindestens 0,1 Hektar unter hohen begehbaren
 Schutzabdeckungen betragen.
 
-
 ##### § 10 Erhebungsart, Periodizität, Erhebungszeitraum
 
 Die Zierpflanzenerhebung wird allgemein alle vier Jahre, beginnend
 2012, in der Zeit von Juli bis Oktober durchgeführt.
-
 
 ##### § 11 Erhebungsmerkmale und Berichtszeit
 
@@ -241,10 +208,7 @@ zur Auskunftserteilung. Der Berichtszeitraum für die Erhebungsmerkmale
 nach Absatz 1 Nummer 1 Buchstabe b bis d sind die Monate Juli des
 Vorjahres bis Juni des laufenden Jahres.
 
-
 #### Unterabschnitt 5 - Gemüseerhebung
-
-
 
 ##### § 11a Erhebungseinheiten
 
@@ -257,10 +221,6 @@ Absatz 1
 
 
 2.  mit Produktionsflächen für Speisepilze von mindestens 0,1 Hektar.
-
-
-
-
 
 ##### § 11b Erhebungsart, Periodizität, Erhebungszeitraum
 
@@ -298,7 +258,6 @@ Oktober bis Dezember durchgeführt.
 
 (4) Erhebungszeitraum bei den Betrieben nach § 11a Nummer 2 sind die
 Monate Januar und Februar des Folgejahres.
-
 
 ##### § 11c Erhebungsmerkmale und Berichtszeit
 
@@ -345,10 +304,7 @@ Erhebungsmerkmale nach Absatz 1 Nummer 1 Buchstabe a Doppelbuchstabe
 bb und Buchstabe b ist der Tag der ersten Aufforderung zur
 Auskunftserteilung.
 
-
 #### Unterabschnitt 6 - Baumschulerhebung
-
-
 
 ##### § 12 Erhebungseinheiten
 
@@ -356,13 +312,11 @@ Erhebungseinheiten der Baumschulerhebung (Baumschulen) sind die
 Betriebe nach § 91 Absatz 1 mit Baumschulflächen von mindestens 0,5
 Hektar; nicht mit einzubeziehen sind Pflanzgärten in Forstbetrieben.
 
-
 ##### § 13 Erhebungsart, Periodizität, Erhebungszeitraum, Merkmale
 
 Die Baumschulerhebung wird allgemein alle vier Jahre, beginnend 2004,
 in der Zeit von Juli bis August durchgeführt. Es werden Merkmale über
 die Nutzung der Baumschulflächen erhoben.
-
 
 ##### § 14 Erhebungsmerkmale und Berichtszeitpunkt
 
@@ -373,23 +327,18 @@ Bestände an Forstpflanzen nach Zahl und Art.
 (2) Der Berichtszeitpunkt ist der Tag der ersten Aufforderung zur
 Auskunftserteilung.
 
-
 #### Unterabschnitt 7 - Baumobstanbauerhebung
-
-
 
 ##### § 15 Erhebungseinheiten
 
 Erhebungseinheiten der Baumobstanbauerhebung sind die Betriebe nach §
 91 Absatz 1, deren Baumobstflächen mindestens 0,5 Hektar betragen.
 
-
 ##### § 16 Erhebungsart, Periodizität, Erhebungszeitraum, Merkmale
 
 Die Baumobstanbauerhebung wird allgemein alle fünf Jahre, beginnend
 1992, in der Zeit von Januar bis Juni durchgeführt. Es werden Merkmale
 über die Nutzung der Baumobstflächen erhoben.
-
 
 ##### § 17 Erhebungsmerkmale und Berichtszeitpunkt
 
@@ -402,10 +351,7 @@ Bäume.
 (2) Der Berichtszeitpunkt ist der Tag der ersten Aufforderung zur
 Auskunftserteilung.
 
-
 #### Unterabschnitt 8 - Strauchbeerenerhebung
-
-
 
 ##### § 17a Erhebungseinheiten
 
@@ -414,13 +360,11 @@ Erhebungseinheiten der Strauchbeerenerhebung sind die Betriebe nach §
 Freiland oder mindestens 0,1 Hektar unter hohen begehbaren
 Schutzabdeckungen.
 
-
 ##### § 17b Erhebungsart, Periodizität, Erhebungszeitraum
 
 Die Strauchbeerenerhebung wird allgemein jährlich, beginnend 2012, in
 der Zeit von September bis Dezember durchgeführt. In den Ländern
 Berlin und Bremen wird die Erhebung nicht durchgeführt.
-
 
 ##### § 17c Erhebungsmerkmale und Berichtszeit
 
@@ -451,10 +395,7 @@ Berichtszeitpunkt für die Erhebungsmerkmale nach Absatz 1 Nummer 1
 Buchstabe b ist der Tag der ersten Aufforderung zur
 Auskunftserteilung.
 
-
 ### Abschnitt 2 - Erhebung über die Viehbestände
-
-
 
 #### § 18 Erhebungseinheiten
 
@@ -467,7 +408,6 @@ genannte Zahl erreichen.
 Schafen, die sich zum Berichtszeitpunkt im unmittelbaren Besitz des
 Betriebsinhabers oder -leiters befinden, ohne Rücksicht auf das
 Eigentum oder die sonstigen Rechtsgründe des Besitzes.
-
 
 #### § 19 Erhebungsart, Periodizität, Berichtszeitpunkt, Merkmale
 
@@ -497,10 +437,6 @@ durchgeführt:
     000 Erhebungseinheiten mit Schweinen und bei höchstens 5 000
     Erhebungseinheiten mit Schafen durchgeführt.
 
-
-
-
-
 #### § 20 Erhebungsmerkmale
 
 Erhebungsmerkmale der Erhebung über die Viehbestände sind:
@@ -512,10 +448,6 @@ Erhebungsmerkmale der Erhebung über die Viehbestände sind:
 2.  bei den Beständen an Schweinen: die Zahl der Tiere nach
     Lebendgewichtsklassen und Nutzungszweck, bei Zuchtschweinen außerdem
     das Geschlecht und bei Zuchtsauen die Trächtigkeit.
-
-
-
-
 
 #### § 20a Besondere Vorschriften zur Erhebung der Rinderbestände
 
@@ -547,25 +479,13 @@ Anwendung:
 3.  Zusätzlich zu den Erhebungsmerkmalen nach § 20 ist Erhebungsmerkmal
     die Rasse der Tiere.
 
-
-
-
-
 ### Abschnitt 3 - (weggefallen)
-
-
 
 #### (XXXX) §§ 21 bis 23 (weggefallen)
 
-
-
 ### Abschnitt 4 - Strukturerhebungen in land- und forstwirtschaftlichen Betrieben
 
-
-
 #### Unterabschnitt 1 - Allgemeine Vorschrift
-
-
 
 ##### § 24 Einzelerhebungen und Periodizität
 
@@ -599,16 +519,12 @@ werden, die bezogen auf eine vorgegebene Kartenprojektion
 rechtwinklig, in der Regel quadratisch, und mindestens 100 Hektar groß
 sind.
 
-
 #### Unterabschnitt 2 - Agrarstrukturerhebung
-
-
 
 ##### § 25 Erhebungseinheiten
 
 Erhebungseinheiten der Agrarstrukturerhebung sind die Betriebe nach §
 91 Absatz 1a.
-
 
 ##### § 26 Erhebungsart und Erhebungsprogramm
 
@@ -646,7 +562,6 @@ in die Erhebung einbezogen. Bei ihnen werden nur die Angaben nach § 27
 Absatz 1 Nummer 1 und 2 sowie nach § 27 Absatz 1 Nummer 3 zu den
 Hauptnutzungsarten einschließlich der Flächen mit schnellwachsenden
 Baumarten erhoben.
-
 
 ##### § 27 Erhebungsmerkmale und Berichtszeit
 
@@ -830,22 +745,17 @@ zur Auskunftserteilung.
 (3) Für die Erhebung der Rinderbestände nach Absatz 1 Nummer 5
 Buchstabe a gilt § 20a Absatz 1 und 2 Nummer 3 entsprechend.
 
-
 #### Unterabschnitt 3 - Haupterhebung der Landwirtschaftszählung
-
-
 
 ##### § 28 Erhebungseinheiten
 
 Erhebungseinheiten der Haupterhebung der Landwirtschaftszählung sind
 die Betriebe nach § 91 Absatz 1a Nummer 1.
 
-
 ##### § 29 Erhebungsart
 
 Es werden die Angaben aus der Agrarstrukturerhebung übernommen und die
 Erhebungsmerkmale nach § 30 Absatz 1 allgemein erhoben.
-
 
 ##### § 30 Erhebungsmerkmale und Berichtszeit
 
@@ -866,16 +776,12 @@ Erhebungsmerkmalen der Agrarstrukturerhebung:
 (2) Der Berichtszeitpunkt für die Erhebungsmerkmale nach Absatz 1 ist
 der Tag der ersten Aufforderung zur Auskunftserteilung.
 
-
 #### Unterabschnitt 4 - Erhebung über landwirtschaftliche Produktionsmethoden
-
-
 
 ##### § 31 Erhebungseinheiten
 
 Erhebungseinheiten der Erhebung über landwirtschaftliche
 Produktionsmethoden sind die Betriebe nach § 91 Absatz 1a Nummer 1.
-
 
 ##### § 32 Erhebungsart, Periodizität, Erhebungsmerkmale, Berichtszeit
 
@@ -969,18 +875,11 @@ Erhebungsmerkmale nach Absatz 2 Nummer 5 ist der 1. März 2010. Der
 Berichtszeitpunkt für das Erhebungsmerkmal nach Absatz 2 Nummer 8 ist
 der Tag der ersten Aufforderung zur Auskunftserteilung.
 
-
 ##### (XXXX) §§ 33 bis 43 (weggefallen)
-
-
 
 ### Abschnitt 5 - (weggefallen)
 
-
-
 ### Abschnitt 6 - Ernteerhebung
-
-
 
 #### § 44 Allgemeine Vorschrift
 
@@ -991,14 +890,9 @@ Die Ernteerhebung umfasst:
 
 2.  Besondere Ernte- und Qualitätsermittlung.
 
-
-
-
-
 #### § 45 (weggefallen)
 
 -
-
 
 #### § 46 Ernte- und Betriebsberichterstattung
 
@@ -1026,7 +920,6 @@ oder landwirtschaftlichen Feldfrüchten, mit Ausnahme der gemäß § 47
 Absatz 2 erfassten landwirtschaftlichen Feldfrüchte, insgesamt jedoch
 nicht mehr als sechs dieser Arten, sowie Weinmost einbezogen werden.
 
-
 #### § 47 Besondere Ernte- und Qualitätsermittlung
 
 (1) Die Besondere Ernte- und Qualitätsermittlung wird in jedem Jahr,
@@ -1053,14 +946,9 @@ zuständigen Stellen der Länder übermitteln dem Max Rubner-Institut zur
 Erfüllung der Aufgabe nach Satz 1 pseudonymisierte Proben der
 einbezogenen Pflanzenarten.
 
-
 ### Abschnitt 7 - Geflügelstatistik
 
-
-
 #### Unterabschnitt 1 - Allgemeine Vorschrift
-
-
 
 ##### § 48 Einzelerhebungen
 
@@ -1074,13 +962,7 @@ Die Geflügelstatistik umfasst folgende Einzelerhebungen:
 
 3.  Erhebung in Geflügelschlachtereien.
 
-
-
-
-
 #### Unterabschnitt 2 - Erhebung in Brütereien
-
-
 
 ##### § 49 Erhebungseinheiten
 
@@ -1090,13 +972,11 @@ Unternehmen geben ihre Meldung untergliedert nach Betrieben ab.
 Unternehmen mit Betrieben in verschiedenen Ländern haben für jedes
 Land, in dem sie einen Betrieb haben, gesondert zu melden.
 
-
 ##### § 50 Erhebungsart, Periodizität, Merkmale
 
 Die Erhebung in Brütereien wird allgemein in jedem Monat durchgeführt.
 Es werden Merkmale über die Bruteiereinlagen und die Kükenerzeugung
 erhoben.
-
 
 ##### § 51 Erhebungsmerkmale und Berichtszeitraum
 
@@ -1117,10 +997,7 @@ erhoben.
 Nummer 1 ist der jeweilige Monat, für das Erhebungsmerkmal nach Absatz
 1 Nummer 2 der Monat Dezember.
 
-
 #### Unterabschnitt 3 - Erhebung in Unternehmen mit Hennenhaltung
-
-
 
 ##### § 52 Erhebungseinheiten
 
@@ -1130,13 +1007,11 @@ untergliedert nach Betrieben ab. Unternehmen mit Betrieben in
 verschiedenen Ländern haben für jedes Land, in dem sie einen Betrieb
 haben, gesondert zu melden.
 
-
 ##### § 53 Erhebungsart, Periodizität, Merkmale
 
 Die Erhebung in Unternehmen mit Hennenhaltung wird allgemein in jedem
 Monat durchgeführt. Es werden Merkmale über Hennenhaltung und
 Eiererzeugung erhoben.
-
 
 ##### § 54 Erhebungsmerkmale und Berichtszeit
 
@@ -1159,10 +1034,7 @@ Monats, für die Erhebungsmerkmale nach Absatz 1 Nummer 2 der 1.
 Dezember. Der Berichtszeitraum für die Zahl der erzeugten Eier ist der
 jeweilige Vormonat.
 
-
 #### Unterabschnitt 4 - Erhebung in Geflügelschlachtereien
-
-
 
 ##### § 55 Erhebungseinheiten
 
@@ -1195,12 +1067,10 @@ Die Unternehmen geben ihre Meldung untergliedert nach Betrieben ab.
 Unternehmen mit Betrieben in verschiedenen Ländern haben für jedes
 Land, in dem sie einen Betrieb haben, gesondert zu melden.
 
-
 ##### § 56 Erhebungsart, Periodizität, Merkmale
 
 Die Erhebung in Geflügelschlachtereien wird allgemein in jedem Monat
 durchgeführt. Es werden Merkmale über Geflügelschlachtungen erhoben.
-
 
 ##### § 57 Erhebungsmerkmale und Berichtszeitraum
 
@@ -1211,14 +1081,9 @@ Herrichtungsform und Angebotszustand.
 (2) Der Berichtszeitraum für die Erhebungsmerkmale nach Absatz 1 ist
 der jeweilige Monat.
 
-
 ### Abschnitt 8 - Schlachtungs- und Schlachtgewichtsstatistik
 
-
-
 #### Unterabschnitt 1 - Allgemeine Vorschrift
-
-
 
 ##### § 58 Einzelerhebungen
 
@@ -1230,13 +1095,7 @@ Einzelerhebungen:
 
 2.  Erhebung der Schlachtgewichte.
 
-
-
-
-
 #### Unterabschnitt 2 - Erhebung über Schlachtungen
-
-
 
 ##### § 59 Erhebungsart, Periodizität, Merkmale
 
@@ -1251,7 +1110,6 @@ zuletzt durch Artikel 1 der Verordnung vom 11. November 2010 (BGBl. I
 S. 1537) geändert worden ist, in der jeweils geltenden Fassung zur
 amtlichen Untersuchung angemeldet worden sind.
 
-
 ##### § 60 Erhebungsmerkmale und Berichtszeitraum
 
 (1) Erhebungsmerkmale der Schlachtungsstatistik sind die Zahl der in §
@@ -1261,10 +1119,7 @@ Schlachtung sowie der Tauglichkeit.
 (2) Der Berichtszeitraum für die Erhebungsmerkmale nach Absatz 1 ist
 der jeweilige Monat.
 
-
 #### Unterabschnitt 3 - Schlachtgewichtsstatistik
-
-
 
 ##### § 61 Erhebungsart, Periodizität, Merkmale
 
@@ -1273,7 +1128,6 @@ durchgeführt. Es werden Merkmale über Schlachtgewichte von Rindern und
 Schweinen auf Grund der nach der Ersten Fleischgesetz-
 Durchführungsverordnung in der jeweils geltenden Fassung zu
 erstattenden Meldungen erhoben.
-
 
 ##### § 62 Erhebungsmerkmale und Berichtszeitraum
 
@@ -1284,10 +1138,7 @@ Kategorien und Handelsklassen.
 (2) Der Berichtszeitraum für die Erhebungsmerkmale nach Absatz 1 ist
 der jeweilige Monat.
 
-
 ### Abschnitt 9 - Milchstatistik
-
-
 
 #### § 63 Erhebungsart, Periodizität, Merkmale
 
@@ -1297,7 +1148,6 @@ Marktordnungswaren-Meldeverordnung vom 24. November 1999 (BGBl. I S.
 2286) in der jeweils geltenden Fassung zu erstattenden Meldungen
 erhoben.
 
-
 #### § 64 Erhebungsmerkmal und Berichtszeitraum
 
 (1) Erhebungsmerkmal der Milchstatistik ist die angelieferte
@@ -1306,21 +1156,15 @@ Milchmenge nach Kreisen.
 (2) Der Berichtszeitraum für das Erhebungsmerkmal nach Absatz 1 ist
 der jeweilige Monat.
 
-
 #### § 65 Ergänzende Schätzung
 
 Die Differenz zwischen angelieferter und erzeugter Milchmenge sowie
 die Verwendung der Milch beim Erzeuger jeweils nach Kreisen werden
 durch die Bundesanstalt für Landwirtschaft und Ernährung geschätzt.
 
-
 ### Abschnitt 10 - Fischerei- und Aquakulturstatistik
 
-
-
 #### Unterabschnitt 1 - Allgemeine Vorschrift
-
-
 
 ##### § 65a Einzelerhebungen
 
@@ -1332,13 +1176,7 @@ Einzelerhebungen:
 
 2.  Aquakulturstatistik.
 
-
-
-
-
 #### Unterabschnitt 2 - Hochsee- und Küstenfischereistatistik
-
-
 
 ##### § 66 Erhebungseinheiten
 
@@ -1347,13 +1185,11 @@ Fischereibetriebe, die Seefischmärkte, die
 Fischverwertungsgenossenschaften sowie die Betriebe von Fischhandel
 und Fischverarbeitung.
 
-
 ##### § 67 Erhebungsart, Periodizität, Merkmale
 
 Die Hochsee- und Küstenfischereistatistik wird allgemein in jedem
 Monat durchgeführt. Es werden Merkmale über die Fangreise und die
 Fangergebnisse von Fischen erhoben.
-
 
 ##### § 68 Erhebungsmerkmale und Berichtszeitraum
 
@@ -1393,10 +1229,7 @@ Geltungsbereiches dieses Gesetzes werden nur die in Absatz 1 Nummer 2,
 (3) Der Berichtszeitraum für die Erhebungsmerkmale nach Absatz 1 ist
 der jeweilige Monat.
 
-
 #### Unterabschnitt 3 - Aquakulturstatistik
-
-
 
 ##### § 68a Erhebungseinheiten
 
@@ -1422,10 +1255,6 @@ Einheiten in die Erhebung einbezogen, die
 3.  einen Antrag auf Genehmigung nach § 4 Absatz 1 der
     Fischseuchenverordnung gestellt haben; dieser Antrag darf nicht
     unanfechtbar abgelehnt worden sein.
-
-
-
-
 
 ##### § 68b Erhebungsart, Periodizität, Erhebungsmerkmale, Berichtszeitraum
 
@@ -1484,14 +1313,9 @@ durchgeführt:
 (3) Der Berichtszeitraum für die Erhebungsmerkmale nach Absatz 2 ist
 das dem Erhebungsjahr vorausgehende Kalenderjahr.
 
-
 ### Abschnitt 11 - Weinstatistik
 
-
-
 #### Unterabschnitt 1 - Allgemeine Vorschrift
-
-
 
 ##### § 69 Einzelerhebungen
 
@@ -1508,18 +1332,11 @@ Die Weinstatistik umfasst folgende Einzelerhebungen:
 
 4.  Bestandserhebung.
 
-
-
-
-
 #### Unterabschnitt 2 - Rebflächenerhebung
-
-
 
 ##### § 70 Erhebungsart und Periodizität
 
 Die Rebflächenerhebung wird allgemein in jedem Jahr durchgeführt.
-
 
 ##### § 71 Erhebungsmerkmale und Berichtszeit
 
@@ -1548,17 +1365,13 @@ Nummer 2 ist jeweils der 31. Juli. Der Berichtszeitraum für die
 Veränderung der Größe der mit Keltertrauben bestockten Rebfläche ist
 das abgelaufene Weinwirtschaftsjahr.
 
-
 #### Unterabschnitt 3 - Ernteerhebung
-
-
 
 ##### § 72 Erhebungsart, Periodizität, Merkmale, Erhebungszeitpunkt
 
 Die Ernteerhebung wird allgemein jährlich durchgeführt. Es werden
 Merkmale über die Traubenernte erhoben. Erhebungszeitpunkt ist
 spätestens der 15. Januar des Folgejahres.
-
 
 ##### § 73 Erhebungsmerkmale und Berichtszeitraum
 
@@ -1579,17 +1392,13 @@ Weinbauerzeugnissen und der Ein- und Ausgangsbücher im Weinsektor
 der Zeitraum zwischen dem Beginn des Weinwirtschaftsjahres und dem
 Erhebungszeitpunkt.
 
-
 #### Unterabschnitt 4 - Erhebung der Erzeugung
-
-
 
 ##### § 74 Erhebungsart, Periodizität, Merkmale, Erhebungszeitpunkt
 
 Die Erhebung der Erzeugung wird allgemein jährlich durchgeführt. Es
 werden Merkmale über die Weinerzeugung erhoben. Erhebungszeitpunkt ist
 spätestens der 15. Januar des Folgejahres.
-
 
 ##### § 75 Erhebungsmerkmale und Berichtszeitraum
 
@@ -1602,10 +1411,7 @@ Bezeichnungsschutzes sowie nach roten und weißen Trauben.
 der Zeitraum zwischen dem Beginn des Weinwirtschaftsjahres und dem
 Erhebungszeitpunkt.
 
-
 #### Unterabschnitt 5 - Bestandserhebung
-
-
 
 ##### § 75a Erhebungseinheiten
 
@@ -1625,13 +1431,11 @@ Erhebungseinheiten der Bestandserhebung sind:
 soweit sie zum Berichtszeitpunkt über einen Weinbestand von mindestens
 100 Hektolitern verfügen.
 
-
 ##### § 76 Erhebungsart, Periodizität, Merkmale, Erhebungszeitpunkt
 
 Die Bestandserhebung wird allgemein in jedem Jahr durchgeführt. Es
 werden Merkmale über Weinbestände erhoben. Erhebungszeitpunkt ist
 spätestens der 7. August eines jeden Jahres.
-
 
 ##### § 77 Erhebungsmerkmale und Berichtszeitpunkt
 
@@ -1650,14 +1454,9 @@ zusätzlich gesondert in der Untergliederung nach Satz 2 anzugeben.
 (2) Der Berichtszeitpunkt für die Erhebungsmerkmale nach Absatz 1 ist
 jeweils der 31. Juli.
 
-
 ### Abschnitt 12 - Holzstatistik
 
-
-
 #### Unterabschnitt 1 - Allgemeine Vorschrift
-
-
 
 ##### § 78 Einzelerhebungen
 
@@ -1668,19 +1467,12 @@ Die Holzstatistik umfasst folgende Einzelerhebungen:
 
 2.  Erhebung in Betrieben der Holzbearbeitung.
 
-
-
-
-
 #### Unterabschnitt 2 - Erhebung in forstlichen Erzeugerbetrieben
-
-
 
 ##### § 79 Erhebungseinheiten
 
 Erhebungseinheiten der Erhebung in forstlichen Erzeugerbetrieben sind
 die Betriebe, die Rohholz erzeugen.
-
 
 ##### § 80 Erhebungsart, Periodizität, Merkmale
 
@@ -1692,7 +1484,6 @@ werden Merkmale über Rohholz erhoben.
 Personen des privaten Rechts können von den Ländern durch die von
 ihnen zu bestimmenden Stellen geschätzt werden.
 
-
 ##### § 81 Erhebungsmerkmale und Berichtszeitraum
 
 (1) Erhebungsmerkmale der Erhebung in forstlichen Erzeugerbetrieben
@@ -1702,10 +1493,7 @@ sind der Einschlag und die Einschlagsursache nach Holzarten und
 (2) Berichtszeitraum für die Erhebungsmerkmale nach Absatz 1 ist das
 jeweilige Kalenderjahr.
 
-
 #### Unterabschnitt 3 - Erhebung in Betrieben der Holzbearbeitung
-
-
 
 ##### § 82 Erhebungseinheiten
 
@@ -1714,13 +1502,11 @@ denen Erzeugnisse des holzbearbeitenden Gewerbes hergestellt werden.
 Bei Sägewerken liegt die Erhebungsgrenze bei mindestens zehn
 Beschäftigten.
 
-
 ##### § 83 Erhebungsart, Periodizität, Merkmale
 
 Die Erhebung in Betrieben der Holzbearbeitung wird allgemein jährlich
 durchgeführt. Es werden Merkmale über Rohholz und Erzeugnisse des
 holzbearbeitenden Gewerbes erhoben.
-
 
 ##### § 84 Erhebungsmerkmale und Berichtszeit
 
@@ -1732,30 +1518,21 @@ holzbearbeitenden Gewerbes nach der Herkunft und Holzart.
 ist das jeweilige Kalenderjahr. Der Berichtszeitpunkt für die Bestände
 ist das Ende des jeweiligen Kalenderjahres.
 
-
 ### Abschnitt 13 - (weggefallen)
-
-
 
 #### (XXXX) §§ 85 bis 87 (weggefallen)
 
-
-
 ### Abschnitt 14 - Düngemittelstatistik
-
-
 
 #### § 88 Erhebungseinheiten
 
 Erhebungseinheiten der Düngemittelstatistik sind die Unternehmen, die
 Düngemittel erstmals in Verkehr bringen.
 
-
 #### § 89 Erhebungsart, Periodizität, Merkmale
 
 Die Düngemittelstatistik wird allgemein vierteljährlich durchgeführt.
 Es werden Merkmale über den Inlandsabsatz von Düngemitteln erhoben.
-
 
 #### § 90 Erhebungsmerkmale und Berichtszeitraum
 
@@ -1766,10 +1543,7 @@ Absatzgebieten jeweils nach der Menge.
 (2) Der Berichtszeitraum für die Erhebungsmerkmale nach Absatz 1 ist
 das jeweilige Kalendervierteljahr.
 
-
 ## Teil 3 - Gemeinsame Vorschriften
-
-
 
 ### § 91 Erhebungseinheiten
 
@@ -1866,7 +1640,6 @@ einen Betrieb haben, gesondert zu melden.
 Stichprobenerhebungen durchgeführt, erfolgt die Auswahl der
 Erhebungseinheiten nach mathematisch-statistischen Auswahlverfahren.
 
-
 ### § 92 Hilfsmerkmale
 
 Hilfsmerkmale sind:
@@ -1907,10 +1680,6 @@ Hilfsmerkmale sind:
 
 9.  der Name und die Registriernummer des Fischereifahrzeugs bei der
     Erhebung nach § 67.
-
-
-
-
 
 ### § 93 Auskunftspflicht
 
@@ -2031,7 +1800,6 @@ Landesrecht für das Vermessungswesen zuständigen Stellen
 auskunftspflichtig. Die Auskunftspflicht umfasst die Adressen aller
 Gebäude im jeweiligen Land unter Angabe der amtlichen Hauskoordinaten.
 
-
 ### § 94 Durchführung von Bundesstatistiken
 
 (1) Die für die Quotenüberwachung zuständige Bundesbehörde übernimmt
@@ -2051,7 +1819,6 @@ Veröffentlichung und Darstellung der Ergebnisse.
 
 (4) Die statistischen Ämter der Länder übermitteln dem Statistischen
 Bundesamt auf Anforderung die von ihnen erhobenen Einzelangaben.
-
 
 ### § 94a Verordnungsermächtigung
 
@@ -2118,10 +1885,6 @@ Zustimmung des Bundesrates
     Wirtschaftsdüngern und Biogas-Gärresten sowie über Haltungs- und
     Fütterungsverfahren landwirtschaftlicher Nutztiere anzuordnen.
 
-
-
-
-
 ### § 95 Erhebungsstellen, Erhebungsbeauftragte
 
 (1) Zur Durchführung der Erhebungen nach § 1 können Erhebungsstellen
@@ -2143,7 +1906,6 @@ Einkommensteuergesetzes.
 den Erhebungsbeauftragten die Entnahme der erforderlichen Ernteproben
 während der üblichen Betriebs- und Geschäftszeiten zu gestatten.
 
-
 ### § 96 Fortschreibeverfahren
 
 Die Bodennutzungshaupterhebung (§ 2 Nummer 2) und die
@@ -2153,7 +1915,6 @@ durchgeführt, ist es bei allen zu Befragenden eines Bundeslandes
 anzuwenden. Dabei werden dem zu Befragenden die von ihm bei
 vorangegangenen Erhebungen angegebenen, bei den statistischen Ämtern
 der Länder gespeicherten Angaben zur Fortschreibung vorgelegt.
-
 
 ### § 97 Betriebsregister
 
@@ -2343,7 +2104,6 @@ Identifikation darf für Zuordnungszwecke im Betriebsregister
 gespeichert werden. Es ist spätestens zu löschen, wenn es fünf Jahre
 lang nicht mehr zu Zuordnungszwecken verwendet worden ist.
 
-
 ### § 97a Feststellung der Grundgesamtheit
 
 (1) Zur Vorbereitung der Landwirtschaftszählung (§ 24 Absatz 1 Nummer
@@ -2376,7 +2136,6 @@ Betrieben mit einer Produktionsfläche für Speisepilze von mindestens
 Absatz 5 und 6 gilt entsprechend. Für die Erhebung der Rinderbestände
 nach Absatz 1 Nummer 4 gilt § 20a Absatz 1 und 2 Nummer 3
 entsprechend.
-
 
 ### § 98 Übermittlung, Verwendung und Veröffentlichung von Einzelangaben
 
@@ -2452,7 +2211,6 @@ Bundesanstalt gespeichert und genutzt werden. Diese
 Organisationseinheiten müssen von den mit Vollzugsaufgaben befassten
 Organisationseinheiten der Bundesanstalt räumlich, organisatorisch und
 personell getrennt sein.
-
 
 ### § 99 Übergangsvorschriften
 

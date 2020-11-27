@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 2074
 
-
-
 ## § 1 Anwendungsbereich
 
 (1) Dieses Gesetz gilt für Zeiten der Beschäftigung von Verfolgten in
@@ -59,7 +57,6 @@ Berechnung der Rente nicht vorliegt.
 (4) Die auf Grund dieses Gesetzes gezahlten Renten gelten nicht als
 Leistungen der sozialen Sicherheit.
 
-
 ## § 2 Fiktion der Beitragszahlung
 
 (1) Für Zeiten der Beschäftigung von Verfolgten in einem Ghetto gelten
@@ -80,7 +77,6 @@ Beiträge als gezahlt, und zwar
 (2) Zusätzliche Entgeltpunkte für Beitragszeiten außerhalb des
 Bundesgebiets sind auf Grund von Ghetto-Beitragszeiten nicht zu
 ermitteln.
-
 
 ## § 3 Besonderheiten beim Rentenbeginn
 

@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 2 Abs. 60 G v. 22.12.2011 I 3044
 
-
 ## § 1 Enteignung zur Sicherung der Finanzmarktstabilität
 
 (1) Zur Sicherung der Finanzmarktstabilität können Enteignungen nach
@@ -112,13 +111,6 @@ nachrangig gegenüber anderen Mitteln.
         Hauptversammlung die erforderliche Mehrheit nicht erreicht worden ist
         oder der Beschluss nicht rechtzeitig eingetragen wird.
 
-
-
-
-
-
-
-
 ## § 2 Enteignungsakt
 
 (1) Die Enteignung erfolgt durch Erlass einer Rechtsverordnung der
@@ -171,7 +163,6 @@ gesetzlichen Entschädigungseinrichtung nach dem Einlagensicherungs-
 und Anlegerentschädigungsgesetz bleibt durch den Übergang der Anteile
 unberührt.
 
-
 ## § 3 Verfahren
 
 (1) Zuständig für die Durchführung des Enteignungsverfahrens ist das
@@ -194,7 +185,6 @@ Enteignung betroffenen Enteignungsgegenstandes an und gibt in
 geeigneter Form Gelegenheit zur Stellungnahme. Sie kann von einer
 Anhörung absehen, soweit diese mit unverhältnismäßigem Aufwand
 verbunden wäre oder den Zweck der Enteignung gefährden würde.
-
 
 ## § 4 Entschädigung
 
@@ -266,7 +256,6 @@ Bundesministerium der Finanzen gesondert bekannt gemacht.
 Basiszinssatz nach § 247 des Bürgerlichen Gesetzbuchs jährlich von dem
 Übergangszeitpunkt an zu verzinsen.
 
-
 ## § 5 Rechtsschutz
 
 (1) Das Bundesverwaltungsgericht entscheidet im ersten und letzten
@@ -324,7 +313,6 @@ unberührt.
 über Streitigkeiten wegen der Höhe der nach § 4 zu gewährenden
 Entschädigung.
 
-
 ## § 6 Befristung und Reprivatisierung
 
 (1) Eine Entscheidung nach § 3 Absatz 2 Satz 1 kann nur bis zum 30.
@@ -354,7 +342,6 @@ sodann jährlich durchzuführen. Über das Ergebnis der Evaluierung ist
 das Gremium nach § 10a des Finanzmarktstabilisierungsfondsgesetzes
 durch das Bundesministerium der Finanzen zu unterrichten.
 
-
 ## § 7 Rechte des Gremiums nach § 10a des Finanzmarktstabilisierungsfondsgesetzes und Unterrichtung des Finanz- und des Haushaltsausschusses
 
 (1) Das Gremium nach § 10a des Finanzmarktstabilisierungsfondsgesetzes
@@ -370,7 +357,6 @@ den Inhalt der Rechtsverordnung zu informieren. Die Rechte des
 Gremiums nach § 10a des Finanzmarktstabilisierungsfondsgesetzes
 bleiben unberührt.
 
-
 ## § 8 Verordnungsermächtigung
 
 Die Bundesregierung kann durch Rechtsverordnung, die nicht der
@@ -385,10 +371,6 @@ Zustimmung des Bundesrates bedarf, nähere Bestimmungen erlassen über
 3.  sonstige Maßnahmen, die zur Sicherstellung des Zweckes dieses Gesetzes
     im Rahmen einer Enteignung zur Sicherung der Finanzmarktstabilität
     nach § 1 erforderlich sind.
-
-
-
-
 
 ## § 9 Verkündung von Rechtsverordnungen
 

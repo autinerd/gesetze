@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 G v. 11.7.1977 I 1213
 
-
 ## Eingangsformel
 
 Auf Grund des § 51 Abs. 2 des Einkommensteuergesetzes in der Fassung
@@ -28,7 +27,6 @@ Ermittlung des Gewinns aus Land- und Forstwirtschaft nach
 Durchschnittsätzen und des Einkommensteuergesetzes vom 8. Mai 1972
 (Bundesgesetzbl. I S. 761), verordnet die Bundesregierung mit
 Zustimmung des Bundestages und des Bundesrates:
-
 
 ## § 1 Vorübergehender Ausschluß der Absetzung für Abnutzung in fallenden Jahresbeträgen bei beweglichen Wirtschaftsgütern des Anlagevermögens und der erhöhten Absetzungen für Einfamilienhäuser, Zweifamilienhäuser und Eigentumswohnungen
 
@@ -68,14 +66,12 @@ die Eigentumswohnung durch nach dem 31. Dezember 1976 rechtswirksam
 abgeschlossenen obligatorischen Vertrag oder gleichstehenden Rechtsakt
 angeschafft hat.
 
-
 ## § 2 Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit Artikel 10
 des Steueränderungsgesetzes 1966 vom 23. Dezember 1966
 (Bundesgesetzbl. I S. 702) auch im Land Berlin.
-
 
 ## § 3 Inkrafttreten
 

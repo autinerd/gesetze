@@ -23,7 +23,6 @@ derLänder in der Bundesrepublik Deutschland beschlossene
 Rahmenlehrplanfür die Berufsschule werden als Beilage
 zumBundesanzeiger veröffentlicht.
 
-
 ## Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 der
@@ -36,14 +35,12 @@ von dem Absatz 1 zuletzt durch Artikel 135 Nr. 3 der Verordnung vom
 Bundesministerium für Wirtschaft und Arbeit im Einvernehmen mit dem
 Bundesministerium für Bildung und Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Steinmetz und Steinbildhauer/Steinmetzin und
 Steinbildhauerin wird für die Ausbildung für das Gewerbe Nr. 11,
 Steinmetzen und Steinbildhauer, der Anlage A der Handwerksordnung
 staatlich anerkannt.
-
 
 ## § 2 Ausbildungsdauer, Fachrichtungen
 
@@ -57,7 +54,6 @@ Die Ausbildung dauert drei Jahre. Es kann zwischen den Fachrichtungen
 
 
 gewählt werden.
-
 
 ## § 3 Ausbildungsberufsbild
 
@@ -153,13 +149,6 @@ mindestens die folgenden Fertigkeiten und Kenntnisse:
 
     c)  In Stand setzen und Restaurieren von Bildhauerarbeiten.
 
-
-
-
-
-
-
-
 ## § 4 Ausbildungsrahmenplan
 
 (1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach der in der
@@ -175,7 +164,6 @@ einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Abs. 2 des
 Berufsbildungsgesetzes befähigt werden, die insbesondere selbständiges
 Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung
 ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
-
 
 ## § 5 Berufsausbildung in überbetrieblichen Ausbildungsstätten
 
@@ -209,19 +197,11 @@ Die Berufsausbildung ist entsprechend dem Ausbildungsrahmenplan
         Buchstaben b und c, laufende Nummer 2 Buchstaben a und b und laufende
         Nummer 3 Buchstaben b, c und g.
 
-
-
-
-
-
-
-
 ## § 6 Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des
 Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan
 zu erstellen.
-
 
 ## § 7 Berichtsheft
 
@@ -229,7 +209,6 @@ Die Auszubildenden haben ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden
 haben das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 8 Zwischenprüfung
 
@@ -252,7 +231,6 @@ Dabei soll der Prüfling zeigen, dass er die Arbeitsschritte planen,
 Arbeitsmittel festlegen, technische Unterlagen nutzen, Vorgehensweisen
 dokumentieren sowie den Umweltschutz, die Sicherheit und den
 Gesundheitsschutz bei der Arbeit beachten kann.
-
 
 ## § 9 Gesellenprüfung
 
@@ -454,7 +432,6 @@ oder in einem der Prüfungsbereiche Arbeitsplanung und Gestaltung sowie
 Fertigungstechnik und Versetzarbeiten mit ungenügend bewertet, ist die
 Prüfung nicht bestanden.
 
-
 ## § 10 Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
@@ -462,11 +439,9 @@ Verordnung bestehen, sind die bisherigen Vorschriften weiter
 anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
 Anwendung der Vorschriften dieser Verordnung.
 
-
 ## § 11 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2003 in Kraft.
-
 
 ## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Steinmetz und Steinbildhauer/zur Steinmetzin und Steinbildhauerin
 

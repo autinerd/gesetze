@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 14.4.2010 I 434
 
-
 ## Eingangsformel
 
 Auf Grund des § 15 Abs. 1 Nr. 2 des Bundesbeamtengesetzes in der
@@ -29,10 +28,7 @@ der Bekanntmachung vom 2. Juli 2002 (BGBl. I S. 2459, 2671) verordnet
 das Auswärtige Amt im Einvernehmen mit dem Bundesministerium des
 Innern:
 
-
 ## Kapitel 1 - Laufbahn und Ausbildung
-
-
 
 ### § 1 Laufbahnämter
 
@@ -162,7 +158,6 @@ und Amtsbezeichnung:
 (3) Die Ämter der Bundesbesoldungsordnung A sind regelmäßig zu
 durchlaufen.
 
-
 ### § 2 Ziel und Inhalt der Ausbildung
 
 (1) Die Beamtinnen und Beamten werden auf ihre Verantwortung im
@@ -183,7 +178,6 @@ interkulturelle Kompetenz sind zu fördern.
 (2) Die Beamtinnen und Beamten werden befähigt, sich eigenständig
 weiterzubilden. Sie sind zum Selbststudium verpflichtet.
 
-
 ### § 3 Einstellungsbehörde
 
 Einstellungsbehörde ist das Auswärtige Amt. Ihm obliegen die
@@ -193,7 +187,6 @@ Anwärter; es trifft die Entscheidungen über Verkürzung und
 Verlängerung des Vorbereitungsdienstes und der Aufstiegsausbildung.
 Das Auswärtige Amt ist die für die beamtenrechtlichen Entscheidungen
 zuständige Dienstbehörde.
-
 
 ### § 4 Einstellungsvoraussetzungen
 
@@ -240,10 +233,6 @@ In den Vorbereitungsdienst kann eingestellt werden, wer
     Lebenspartnerin oder Lebenspartner und Kinder diese Voraussetzungen
     erfüllen müssen.
 
-
-
-
-
 ### § 5 Ausschreibung, Bewerbung
 
 (1) Bewerberinnen und Bewerber werden durch Stellenausschreibung
@@ -276,10 +265,6 @@ sind beizufügen:
 
 6.  gegebenenfalls eine Ablichtung des Schwerbehindertenausweises oder des
     Bescheids über die Gleichstellung als schwerbehinderter Mensch.
-
-
-
-
 
 ### § 6 Auswahlverfahren
 
@@ -395,7 +380,6 @@ Vorsitzenden den Ausschlag. Stimmenthaltung ist nicht zulässig.
 Schwerbehindertenvertretung sowie die Gleichstellungsbeauftragte des
 Auswärtigen Amts wirken im Rahmen ihrer gesetzlichen Aufgaben mit.
 
-
 ### § 7 Einstellung in den Vorbereitungsdienst
 
 (1) Die Staatssekretärin oder der Staatssekretär des Auswärtigen Amts
@@ -441,7 +425,6 @@ nachzuweisen, durch den oder in dessen Auftrag die Untersuchung
 durchgeführt wird. Die Kosten der Untersuchung trägt das Auswärtige
 Amt.
 
-
 ### § 8 Rechtsstellung während des Vorbereitungsdienstes
 
 (1) Mit ihrer Einstellung werden - unter Berufung in das
@@ -452,7 +435,6 @@ Amts.
 
 (2) Bei der Gewährung von Urlaub sind Ausbildungsbelange zu
 berücksichtigen. Urlaub wird auf den Vorbereitungsdienst angerechnet.
-
 
 ### § 9 Dauer des Vorbereitungsdienstes
 
@@ -495,7 +477,6 @@ Zeitpunkt eingestellt worden sind, abgelegt werden kann.
 
 (5) Bei Nichtbestehen der Laufbahnprüfung richtet sich die
 Verlängerung des Vorbereitungsdienstes nach § 22.
-
 
 ### § 10 Gliederung des Vorbereitungsdienstes
 
@@ -561,10 +542,7 @@ durchgeführt werden.
 Anwärterinnen und Anwärter an der Planung und Durchführung der
 Ausbildungsinhalte.
 
-
 ## Kapitel 2 - Laufbahnprüfung
-
-
 
 ### § 11 Allgemeines
 
@@ -582,7 +560,6 @@ das Bestehen der Fach- und Sprachprüfungen voraus.
 
 (3) Die Prüfung ist nicht öffentlich. Ausnahmen bestimmt die
 Prüfungskommission. § 6 Abs. 8 gilt entsprechend.
-
 
 ### § 12 Durchführung
 
@@ -620,10 +597,6 @@ Fortbildungsstätte des Auswärtigen Amts. Diese
 9.  bewahrt die Prüfungsakten auf und entscheidet über Anträge auf
     Einsichtnahme.
 
-
-
-
-
 ### § 13 Prüfungskommission
 
 (1) Die Prüfungskommission besteht in der Regel aus vier Mitgliedern.
@@ -657,7 +630,6 @@ der Aus- und Fortbildungsstätte des Auswärtigen Amts ist eine
 Bestellung nicht erforderlich.
 
 (3) § 6 Abs. 7 gilt entsprechend.
-
 
 ### § 14 Fach- und Sprachprüfungen
 
@@ -730,7 +702,6 @@ mindestens die Note "ausreichend" erzielt hat und mindestens die
 Hälfte der erbrachten Einzelleistungen mit "ausreichend" bewertet
 wurde.
 
-
 ### § 15 Abschlussprüfung
 
 (1) Die Abschlussprüfung besteht aus
@@ -757,7 +728,6 @@ mündlichen Prüfung im Verhältnis 1:2 gewertet.
 (3) Die Abschlussprüfung ist bestanden, wenn eine Anwärterin oder ein
 Anwärter mindestens die Note "ausreichend" erzielt hat.
 
-
 ### § 16 Verhinderung, Rücktritt, Säumnis
 
 (1) Wer durch eine Erkrankung oder sonstige nicht zu vertretende
@@ -782,7 +752,6 @@ Mitteilung.
 Prüfungen ganz oder teilweise ohne ausreichende Entschuldigung, ist
 die nicht erbrachte Leistung mit "ungenügend" (0 Rangpunkte) zu
 werten.
-
 
 ### § 17 Täuschung, Ordnungsverstoß
 
@@ -813,7 +782,6 @@ bestanden erklären.
 (4) Betroffene sind vor der Entscheidung nach den Absätzen 2 und 3 zu
 hören. Bescheide der Prüfungskommission nach den Absätzen 2 und 3 sind
 mit einer Rechtsbehelfsbelehrung zu versehen.
-
 
 ### § 18 Bewertung der Prüfungsleistungen
 
@@ -884,7 +852,6 @@ Dezimalstellen nach dem Komma ohne Auf- oder Abrundung berechnet.
 (3) Die Note "ausreichend" setzt voraus, dass der Anteil der
 erreichten Punkte 50 Prozent der erreichbaren Gesamtpunktzahl beträgt.
 
-
 ### § 19 Gesamtergebnis
 
 (1) Im Anschluss an die mündliche Prüfung ermittelt die
@@ -914,10 +881,6 @@ Teilprüfungen wie folgt gewertet:
 
     *   28 Prozent.
 
-
-
-
-
 ### § 20 Zeugnis
 
 (1) Die Prüfungskommission erteilt den Anwärterinnen und Anwärtern,
@@ -936,7 +899,6 @@ Mitteilung der Prüfungsergebnisse werden durch die Prüfungskommission
 berichtigt. Unrichtige Prüfungszeugnisse sind zurückzugeben. In den
 Fällen des § 17 Abs. 3 ist das Prüfungszeugnis zurückzugeben.
 
-
 ### § 21 Prüfungsakten, Einsichtnahme
 
 (1) Jeweils eine Ausfertigung der Niederschriften über die
@@ -947,7 +909,6 @@ werden beim Auswärtigen Amt mindestens fünf Jahre aufbewahrt.
 (2) Die Anwärterinnen und Anwärter können nach Abschluss der
 Laufbahnprüfung Einsicht in die sie betreffenden Teile der
 Prüfungsakten nehmen.
-
 
 ### § 22 Wiederholung
 
@@ -966,10 +927,7 @@ nicht überschreiten. Die bei der Wiederholung erreichten Rangpunkte
 und Noten ersetzen die bisherigen. Der Vorbereitungsdienst wird bis
 zum Ablauf der Wiederholungsfrist verlängert.
 
-
 ## Kapitel 3 - Aufstieg
-
-
 
 ### § 23 Allgemeine Aufstiegsregelungen
 
@@ -1026,7 +984,6 @@ Rechtsstellung. Aufstiegsbeamtinnen und Aufstiegsbeamte, die die
 Befähigung für die Laufbahn des höheren Auswärtigen Dienstes endgültig
 nicht erwerben, verbleiben in ihrer bisherigen Laufbahn.
 
-
 ### § 24 Ausbildungsaufstieg
 
 (1) Zum Ausbildungsaufstieg in die Laufbahn des höheren Auswärtigen
@@ -1062,7 +1019,6 @@ Laufbahnprüfung ab. Die Vorschriften der Kapitel 1 und 2 über den
 Vorbereitungsdienst und die Laufbahnprüfung sind entsprechend
 anzuwenden, soweit nicht in Kapitel 3 anderweitige Regelungen
 getroffen wurden.
-
 
 ### § 25 Praxisaufstieg
 
@@ -1150,10 +1106,7 @@ verlängern. Mit der Feststellung der erfolgreichen Einführung wird die
 Befähigung für die Laufbahn des höheren Auswärtigen Dienstes
 zuerkannt.
 
-
 ## Kapitel 4 - Sonstige Vorschriften
-
-
 
 ### § 26 Schwerbehinderte Menschen
 
@@ -1189,7 +1142,6 @@ Mensch eine Beteiligung ablehnt.
 Auswahlausschuss oder die Prüfungskommission auf Vorschlag der
 Ausbildungsleitung.
 
-
 ### § 27 Übergangsregelungen
 
 (1) Für Beamtinnen und Beamte, die vor dem 12. Februar 2009 in ein
@@ -1200,7 +1152,6 @@ der bis dahin geltenden Fassung weiter anzuwenden.
 Aufstiegsbeamte, die ihre Ausbildung vor dem 29. April 2010
 aufgenommen haben, ist § 9 Absatz 1 in der bis dahin geltenden Fassung
 weiter anzuwenden.
-
 
 ### § 28 Inkrafttreten, Außerkrafttreten
 

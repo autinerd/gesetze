@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 11 G v. 5.12.2012 I 2418
 
-
 ## Abschnitt 1 - Allgemeine Vorschriften
-
-
 
 ### § 1 Geltungsbereich
 
@@ -31,7 +28,6 @@ Auslagen) nur nach diesem Gesetz erhoben.
 
 (2) Landesrechtliche Vorschriften über die Kosten der Vollstreckung im
 Verwaltungszwangsverfahren bleiben unberührt.
-
 
 ### § 2 Kostenfreiheit
 
@@ -62,7 +58,6 @@ gewähren, bleiben unberührt.
 
 (4) Die Befreiung von der Zahlung der Kosten oder der Gebühren steht
 der Entnahme der Kosten aus dem Erlös (§ 15) nicht entgegen.
-
 
 ### § 3 Auftrag
 
@@ -136,7 +131,6 @@ und 2 der geforderte Vorschuss nicht bis zum Ablauf des auf die
 Absendung der Vorschussanforderung folgenden Kalendermonats beim
 Gerichtsvollzieher eingegangen ist.
 
-
 ### § 4 Vorschuss
 
 (1) Der Auftraggeber ist zur Zahlung eines Vorschusses verpflichtet,
@@ -163,7 +157,6 @@ eingegangen ist.
 (3) In den Fällen des § 3 Abs. 4 Satz 2 bis 5 bleibt die Verpflichtung
 zur Zahlung der vorzuschießenden Beträge bestehen.
 
-
 ### § 5 Zuständigkeit für den Kostenansatz, Erinnerung, Beschwerde
 
 (1) Die Kosten werden von dem Gerichtsvollzieher angesetzt, der den
@@ -186,14 +179,12 @@ Aufrechterhaltung einer Vollstreckungsmaßnahme von der Zahlung eines
 Vorschusses abhängig zu machen, und auf die Beschwerde ist Absatz 2
 entsprechend anzuwenden.
 
-
 ### § 6 Nachforderung
 
 Wegen unrichtigen Ansatzes dürfen Kosten nur nachgefordert werden,
 wenn der berichtigte Ansatz vor Ablauf des nächsten Kalenderjahres
 nach Durchführung des Auftrags dem Zahlungspflichtigen mitgeteilt
 worden ist.
-
 
 ### § 7 Nichterhebung von Kosten wegen unrichtiger Sachbehandlung
 
@@ -205,7 +196,6 @@ entsprechend anzuwenden. Solange nicht das Gericht entschieden hat,
 kann eine Anordnung nach Absatz 1 im Verwaltungsweg erlassen werden.
 Eine im Verwaltungsweg getroffene Anordnung kann nur im Verwaltungsweg
 geändert werden.
-
 
 ### § 8 Verjährung, Verzinsung
 
@@ -231,16 +221,12 @@ ihr Ablauf gehemmt.
 (4) Ansprüche auf Zahlung und Rückerstattung von Kosten werden nicht
 verzinst.
 
-
 ### § 9 Höhe der Kosten
 
 Kosten werden nach dem Kostenverzeichnis der Anlage zu diesem Gesetz
 erhoben, soweit nichts anderes bestimmt ist.
 
-
 ## Abschnitt 2 - Gebührenvorschriften
-
-
 
 ### § 10 Abgeltungsbereich der Gebühren
 
@@ -278,13 +264,11 @@ bestimmten Gebühren, wenn Amtshandlungen der in den Nummern 205, 260
 und 270 des Kostenverzeichnisses genannten Art nicht erledigt worden
 sind.
 
-
 ### § 11 Tätigkeit zur Nachtzeit, an Sonnabenden, Sonn- und Feiertagen
 
 Wird der Gerichtsvollzieher auf Verlangen zur Nachtzeit (§ 758a Abs. 4
 Satz 2 der Zivilprozessordnung) oder an einem Sonnabend, Sonntag oder
 Feiertag tätig, so werden die doppelten Gebühren erhoben.
-
 
 ### § 12 Siegelungen, Vermögensverzeichnisse, Proteste und ähnliche Geschäfte
 
@@ -300,10 +284,7 @@ Kostenordnung zu erhebende Wegegebühr angerechnet.
 Wechselgesetzes, Artikel 55 Abs. 3 des Scheckgesetzes) wird die in §
 149 der Kostenordnung bestimmte Gebühr erhoben.
 
-
 ## Abschnitt 3 - Kostenzahlung
-
-
 
 ### § 13 Kostenschuldner
 
@@ -326,13 +307,11 @@ Wechselgesetzes, Artikel 55 Abs. 3 des Scheckgesetzes) wird die in §
 (3) Wird der Auftrag vom Gericht erteilt, so gelten die Kosten als
 Auslagen des gerichtlichen Verfahrens.
 
-
 ### § 14 Fälligkeit
 
 Gebühren werden fällig, wenn der Auftrag durchgeführt ist oder länger
 als zwölf Kalendermonate ruht. Auslagen werden sofort nach ihrer
 Entstehung fällig.
-
 
 ### § 15 Entnahmerecht
 
@@ -360,13 +339,11 @@ vorliegen. Die Sätze 1 und 2 stehen einer Entnahme aus dem Erlös auch
 nicht entgegen, wenn der Erlös höher ist als die Summe der Forderungen
 aller Auftraggeber.
 
-
 ### § 16 Verteilung der Verwertungskosten
 
 Reicht der Erlös einer Verwertung nicht aus, um die in § 15 Abs. 1
 bezeichneten Kosten zu decken, oder wird ein Erlös nicht erzielt, sind
 diese Kosten im Verhältnis der Forderungen zu verteilen.
-
 
 ### § 17 Verteilung der Auslagen bei der Durchführung mehrerer Aufträge
 
@@ -378,10 +355,7 @@ Das Wegegeld (Nummer 711 des Kostenverzeichnisses) und die
 Auslagenpauschale (Nummer 713 des Kostenverzeichnisses) sind für jeden
 Auftrag gesondert zu erheben.
 
-
 ## Abschnitt 4 - Übergangs- und Schlussvorschriften
-
-
 
 ### § 18 Übergangsvorschrift
 
@@ -395,7 +369,6 @@ Vollstreckungsauftrag erteilt ist.
 
 (2) Absatz 1 gilt auch, wenn Vorschriften geändert werden, auf die
 dieses Gesetz verweist.
-
 
 ### § 19 Übergangsvorschrift aus Anlass des Inkrafttretens dieses Gesetzes
 
@@ -414,11 +387,9 @@ erheben.
 erheben, soweit sie nach dem Inkrafttreten dieses Gesetzes entstanden
 sind.
 
-
 ### § 20
 
 (weggefallen)
-
 
 ### Anlage (zu § 9) Kostenverzeichnis
 

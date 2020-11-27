@@ -15,14 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1986, 1333
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 2 des Gesetzes über Kostenstrukturstatistik in der im
 Bundesgesetzblatt Teil III, Gliederungsnummer 708-3, veröffentlichten
 bereinigten Fassung wird verordnet:
-
 
 ## § 1
 
@@ -34,18 +31,15 @@ Steuerberatern, Steuerbevollmächtigten und Wirtschaftsprüfern sowie
 Architekten und Beratenden Ingenieuren im gleichen Erhebungsjahr wie
 die Erhebungen nach § 1 Nr. 1 des Gesetzes durchgeführt.
 
-
 ## § 2
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 8 des Gesetzes über Kostenstrukturstatistik auch im
 Land Berlin.
 
-
 ## § 3
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlußformel
 

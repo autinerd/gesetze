@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1997, 1019
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 25 der Handwerksordnung in der Fassung der
@@ -29,17 +27,14 @@ verordnet das Bundesministerium für Wirtschaft im Einvernehmen mit dem
 Bundesministerium für Bildung, Wissenschaft, Forschung und
 Technologie:
 
-
 ## § 1 Anwendungsbereich
 
 Diese Verordnung gilt für die Berufsausbildung in dem Ausbildungsberuf
 Hörgeräteakustiker/Hörgeräteakustikerin nach der Handwerksordnung.
 
-
 ## § 2 Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Ausbildungsberufsbild
 
@@ -117,10 +112,6 @@ Fertigkeiten und Kenntnisse:
 
 23. vorbeugender Gehörschutz.
 
-
-
-
-
 ## § 4 Ausbildungsrahmenplan
 
 (1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach der in der
@@ -138,12 +129,10 @@ Planen, Durchführen und Kontrollieren einschließt. Die in Satz 1
 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 7 und 8
 nachzuweisen.
 
-
 ## § 5 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 6 Berichtsheft
 
@@ -151,7 +140,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 7 Zwischenprüfung
 
@@ -232,7 +220,6 @@ schriftlich lösen:
 (5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere
 unterschritten werden, soweit die schriftliche Prüfung in
 programmierter Form durchgeführt wird.
-
 
 ## § 8 Gesellenprüfung
 
@@ -393,7 +380,6 @@ schriftlichen Prüfung und innerhalb der schriftlichen Prüfung im
 Prüfungsbereich Angewandte Audiologie mindestens ausreichende
 Leistungen erbracht sind.
 
-
 ## § 9 Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
@@ -401,11 +387,9 @@ Verordnung bestehen, sind die bisherigen Vorschriften weiter
 anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
 Anwendung der Vorschriften dieser Verordnung.
 
-
 ## § 10 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 1997 in Kraft.
-
 
 ## Anlage (zu § 4) Ausbildungsrahmenplan für die Ausbildung zum Hörgeräteakustiker/zur Hörgeräteakustikerin
 

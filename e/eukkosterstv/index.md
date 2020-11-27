@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 38 G v. 19.9.2006 I 2146
 
-
 ## Eingangsformel
 
 Auf Grund des § 13 Abs. 3 Satz 4 des Gesetzes zur Zusammenführung und
@@ -30,7 +29,6 @@ Neugliederung der Bundeseisenbahnen vom 27. Dezember 1993 (BGBl. I S.
 705) und dem Organisationserlass vom 27. Oktober 1998 (BGBl. I S.
 3288) verordnet das Bundesministerium für Verkehr, Bau- und
 Wohnungswesen:
-
 
 ## § 1 Kostenerstattung für übertragene Aufgaben
 
@@ -53,7 +51,6 @@ Verhältnis der von den Mitgliedsunternehmen im Jahresdurchschnitt
 beschäftigten Versicherten zu den im Jahresdurchschnitt beschäftigten
 Beamten aufzuteilen.
 
-
 ## § 2 Meldung der Beschäftigtenzahlen
 
 (1) Die Mitgliedsunternehmen melden innerhalb von sechs Wochen nach
@@ -65,7 +62,6 @@ beschäftigten Beamten.
 Grund einer Beurlaubung ruht, zählen zu den beschäftigten
 Versicherten.
 
-
 ## § 3 Säumniszuschläge
 
 Für Kostenforderungen der Eisenbahn-Unfallkasse, die nicht bis zu dem
@@ -76,7 +72,6 @@ rückständigen, auf 50 Euro nach unten abgerundeten Betrages, zu
 zahlen. Bei einem rückständigen Betrag unter 100 Euro ist der
 Säumniszuschlag nicht zu erheben, wenn dieser gesondert schriftlich
 anzufordern wäre.
-
 
 ## § 4 Inkrafttreten
 

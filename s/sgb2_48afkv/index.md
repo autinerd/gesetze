@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 10 G v. 24.3.2011 I 453
 
-
 ## Eingangsformel
 
 Auf Grund des § 48a Absatz 2 des Zweiten Buches Sozialgesetzbuch –
@@ -26,14 +25,12 @@ Grundsicherung für Arbeitsuchende –, der durch Artikel 1 Nummer 14 des
 Gesetzes vom 3. August 2010 (BGBl. I S. 1112) eingefügt worden ist,
 verordnet das Bundesministerium für Arbeit und Soziales:
 
-
 ## § 1 Ziele
 
 Zur Erstellung der Kennzahlenvergleiche nach § 48a Absatz 1 des
 Zweiten Buches Sozialgesetzbuch werden Kennzahlen und Ergänzungsgrößen
 für die Ziele nach § 48b Absatz 3 des Zweiten Buches Sozialgesetzbuch
 festgelegt.
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -71,7 +68,6 @@ die in Bezug auf Rahmenbedingungen, die sich auf ihre
 Leistungsfähigkeit auswirken, jedoch von ihnen mittelfristig nicht
 beeinflusst werden können, ähnlich sind.
 
-
 ## § 3 Umsetzung
 
 Die Kennzahlen und Ergänzungsgrößen werden monatlich für alle
@@ -79,7 +75,6 @@ Jobcenter gebildet. Berechnungsgrundlage sind die Daten nach § 51b
 Absatz 1 Satz 2 des Zweiten Buches Sozialgesetzbuch. Die Kennzahlen
 und Ergänzungsgrößen sollen geschlechtsspezifisch ausgewiesen werden.
 Alle Kennzahlen und Ergänzungsgrößen werden in Prozent abgebildet.
-
 
 ## § 4 Verringerung der Hilfebedürftigkeit
 
@@ -161,10 +156,6 @@ Leistungen für Unterkunft und Heizung)“:
 
 
     es wird ein Durchschnitt der vergangenen zwölf Monate gebildet.
-
-
-
-
 
 ## § 5 Verbesserung der Integration in Erwerbstätigkeit
 
@@ -248,10 +239,6 @@ eine Integration gezählt.
     die Ergänzungsgröße wird mit Bezug auf die Alleinerziehenden
     entsprechend Absatz 1 gebildet.
 
-
-
-
-
 ## § 6 Vermeidung von langfristigem Leistungsbezug
 
 (1) Kennzahl ist die „Veränderung des Bestands an
@@ -303,10 +290,6 @@ waren.
     die Ergänzungsgröße wird mit Bezug auf die Langzeitleistungsbezieher
     entsprechend § 4 Absatz 2 Nummer 4 gebildet.
 
-
-
-
-
 ## § 7 Form der Veröffentlichung
 
 Das Bundesministerium für Arbeit und Soziales veröffentlicht monatlich
@@ -315,7 +298,6 @@ Berechnungsgrundlagen für alle Jobcenter. Die Ergebnisse werden nach
 verschiedenen Ordnungsmerkmalen dargestellt. Insbesondere sind die
 Ergebnisse nach Vergleichstypen auszuweisen.
 
-
 ## § 8 Verfahren zur Weiterentwicklung dieser Rechtsverordnung
 
 Der Bund-Länder-Ausschuss nach § 18c des Zweiten Buches
@@ -323,11 +305,9 @@ Sozialgesetzbuch begleitet die Umsetzung dieser Rechtsverordnung und
 macht Vorschläge zu deren Weiterentwicklung. Hierzu kann er eine
 Arbeitsgruppe einrichten.
 
-
 ## § 9 Inkrafttreten
 
 Diese Verordnung tritt am 23. August 2010 in Kraft.
-
 
 ## Schlussformel
 

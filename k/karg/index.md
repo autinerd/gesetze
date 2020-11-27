@@ -19,11 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 17 G v. 20.12.1988 I 2477
 
-
 ## Art 1 u. 2
 
 -
-
 
 ## Art 3 - Geltung im Land Berlin
 
@@ -47,10 +45,7 @@ im Land Berlin mit folgenden Besonderheiten:
 (2) Rechtsverordnungen, die auf Grund dieses Gesetzes erlassen werden,
 gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes.
 
-
 ## Art 4 - Übergangs- und Schlußvorschriften
-
-
 
 ## § 1
 
@@ -61,7 +56,6 @@ landesrechtlichen Vorschriften über das Kassenarztrecht außer Kraft,
 soweit in den folgenden Vorschriften nichts Abweichendes bestimmt ist.
 Landesrechtliche Regelungen über die Altersversorgung der Kassenärzte
 bleiben unberührt.
-
 
 ## § 2
 
@@ -79,7 +73,6 @@ beteiligten Länder.
 
 (3)
 
-
 ## § 3
 
 (1) Die Kassenärztliche Bundesvereinigung und die Kassenzahnärztliche
@@ -88,11 +81,9 @@ Bundesvereinigungen im Sinne des § 368k Abs. 2.
 
 (2)
 
-
 ## § 4
 
 -
-
 
 ## § 5
 
@@ -126,7 +117,6 @@ bleibt unberührt. Dingliche Rechte an Grundstücken und sonstigen
 Sachen und Rechten bleiben bestehen. Rückerstattungsansprüche bleiben
 unberührt.
 
-
 ## § 6
 
 (1) Die Verbindlichkeiten der Kassenärztlichen Vereinigung
@@ -147,14 +137,12 @@ Ansprüche gegen einen Bürgen, sowie seine Rechte aus einem Pfandrecht,
 einer Hypothek oder einer sonstigen Sicherheit, nicht berührt; § 418
 des Bürgerlichen Gesetzbuchs findet keine Anwendung.
 
-
 ## § 7
 
 Soweit Eigentum an einem Grundstück nach § 5 übergeht, genügt zum
 Nachweis des Übergangs des Eigentums gegenüber dem Grundbuchamt eine
 Bescheinigung der Aufsichtsbehörde. Dies gilt für sonstige im
 Grundbuch eingetragene Rechte entsprechend.
-
 
 ## § 8
 
@@ -164,7 +152,6 @@ erhoben; bare Auslagen bleiben außer Ansatz.
 
 (2)
 
-
 ## § 9
 
 Die Kassenzahnärztliche Vereinigung Deutschlands und die
@@ -172,7 +159,6 @@ Kassendentistische Vereinigung Deutschlands werden aufgelöst. Das
 Eigentum geht auf die Kassenzahnärztliche Bundesvereinigung und die
 Kassenzahnärztlichen Vereinigungen über; die §§ 5 bis 8 gelten
 entsprechend.
-
 
 ## § 10
 
@@ -182,7 +168,6 @@ Deutschlands, der Kassenzahnärztlichen Vereinigung Deutschlands und
 der Kassendentistischen Vereinigung Deutschlands erlischt mit dem
 Inkrafttreten dieses Gesetzes.
 
-
 ## § 11
 
 (1) Die bis zum Inkrafttreten dieses Gesetzes auf Grund der bisherigen
@@ -190,7 +175,6 @@ Bestimmungen ausgesprochenen Zulassungen zur kassenärztlichen
 Tätigkeit gelten als Zulassungen im Sinne dieses Gesetzes; ...
 
 (2) u. (3)
-
 
 ## § 12
 
@@ -201,7 +185,6 @@ bleiben in Kraft. Mit der Errichtung der Kassenärztlichen
 Bundesvereinigungen und der Kassenärztlichen Vereinigungen treten
 diese entsprechend ihrer Zuständigkeit nach § 368g Abs. 2 und 3 in die
 Verträge ein.
-
 
 ## § 13
 
@@ -217,7 +200,6 @@ Abs. 2 Satz 2)              ersetzt werden.
 Bestimmungen und Richtlinien durch Stellen erlassen sind, welche die
 Aufgaben des früheren Reichsausschusses für Ärzte und Krankenkassen
 übernommen haben.
-
 
 ## § 14
 

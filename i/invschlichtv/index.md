@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 2 Abs. 77 G v. 22.12.2011 I 3044
 
-
 ## Eingangsformel
 
 Auf Grund des § 143c Absatz 5 Satz 1 bis 3 und Absatz 6 Satz 1 des
@@ -31,7 +30,6 @@ Verordnung vom 26. Juni 2011 (BGBl. I S. 1197) geändert worden ist,
 verordnet die Bundesanstalt für Finanzdienstleistungsaufsicht im
 Einvernehmen mit dem Bundesministerium der Justiz und dem
 Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz:
-
 
 ## § 1 Besetzung der Schlichtungsstelle und Tätigkeitsbericht
 
@@ -54,7 +52,6 @@ Geschäftsjahres nur aus besonderem Grund zulässig.
 
 (4) Die Schlichtungsstelle hat einmal im Jahr einen Tätigkeitsbericht
 zu veröffentlichen.
-
 
 ## § 2 Auswahl und Rechtsstellung der Schlichter
 
@@ -82,7 +79,6 @@ Unparteilichkeit zu rechtfertigen.
 
 (4) Die Schlichter und die in der Geschäftsstelle tätigen Personen
 sind zur Verschwiegenheit verpflichtet.
-
 
 ## § 3 Antrag auf Durchführung eines Schlichtungsverfahrens
 
@@ -113,7 +109,6 @@ Antragsteller mit und fordert ihn auf, innerhalb eines Monats die
 Mängel des Antrags zu beheben. Werden die Mängel nicht fristgerecht
 behoben, teilt die Geschäftsstelle dem Antragsteller mit, dass ein
 Schlichtungsverfahren nicht durchgeführt werden kann.
-
 
 ## § 4 Ablehnung einer Schlichtung
 
@@ -149,10 +144,6 @@ Mitteilung an den Antragsteller ab, wenn
 7.  der Anspruch bei Einreichung des Antrags bereits verjährt ist und der
     Antragsgegner sich auf die Verjährung beruft.
 
-
-
-
-
 ## § 5 Eröffnung des Schlichtungsverfahrens
 
 (1) Wird eine Schlichtung nicht nach § 4 abgelehnt, leitet die
@@ -183,7 +174,6 @@ auf, die Mängel innerhalb eines Monats zu beheben. Nach Ablauf der
 Fristen nach den Sätzen 3 und 4 legt die Geschäftsstelle den Vorgang
 dem zuständigen Schlichter vor, sofern sich der Schlichtungsantrag
 nicht in sonstiger Weise erledigt hat.
-
 
 ## § 6 Schlichtungsvorschlag
 
@@ -219,7 +209,6 @@ Absatz 3 Satz 3 des Gesetzes betreffend die Einführung der
 Zivilprozessordnung zu bezeichnen; die Namen der Beteiligten sind
 anzugeben.
 
-
 ## § 7 Kosten des Verfahrens und der Schlichtungsstelle
 
 (1) Das Verfahren vor der Schlichtungsstelle ist für den Antragsteller
@@ -233,7 +222,6 @@ wenn die Erhebung der Gebühr ganz oder teilweise unangemessen wäre.
 (3) Absatz 2 gilt nicht für Antragsgegner, für welche die Übertragung
 nach § 10 wirksam geworden ist.
 
-
 ## § 8 Zusammenarbeit mit ausländischen Stellen zur außergerichtlichen Streitbeilegung
 
 Die Schlichtungsstelle erteilt auf Antrag den Stellen, die in einem
@@ -243,7 +231,6 @@ außergerichtliche Beilegung vergleichbarer Streitigkeiten zuständig
 sind, für deren Verfahren Auskünfte über das in Deutschland geltende
 Recht.
 
-
 ## § 9 Bekanntmachung der Anschrift der Schlichtungsstelle
 
 Die Bundesanstalt macht auf ihrer Internetseite und im Bundesanzeiger
@@ -251,7 +238,6 @@ die Anschrift der Schlichtungsstelle bekannt. Sie weist im Rahmen
 ihrer Beschwerdebearbeitung auf das Schlichtungsverfahren nach § 143c
 des Investmentgesetzes als Möglichkeit zur außergerichtlichen
 Streitbeilegung hin.
-
 
 ## § 10 Übertragung auf private Stellen
 
@@ -318,13 +304,11 @@ veröffentlichen.
 Management e. V. hat der Bundesanstalt auf Verlangen Auskünfte zu
 erteilen und Unterlagen vorzulegen.
 
-
 ## § 11 Abgabe bei Unzuständigkeit
 
 Wird eine Schlichtung bei der nach dieser Verordnung unzuständigen
 Schlichtungsstelle beantragt, gibt diese sie unter Benachrichtigung
 des Antragstellers an die zuständige Schlichtungsstelle ab.
-
 
 ## § 12 Zuständigkeit bei grenzüberschreitenden Sachverhalten
 
@@ -333,7 +317,6 @@ betrifft, können Verbraucher immer auch die Schlichtungsstelle bei der
 Bundesanstalt anrufen, sofern nicht die Schlichtungsstelle beim BVI
 Bundesverband Investment und Asset Management e. V. angerufen werden
 kann.
-
 
 ## § 13 Inkrafttreten
 

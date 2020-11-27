@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 2046
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 19 Abs. 6 Satz 4 des Gerätesicherheitsgesetzes in der
@@ -25,7 +23,6 @@ Fassung der Bekanntmachung vom 11. Mai 2001 (BGBl. I S. 866) in
 Verbindung mit dem 2. Abschnitt des Verwaltungskostengesetzes vom 23.
 Juni 1970 (BGBl. I S. 821) verordnet das Bundesministerium für Arbeit
 und Sozialordnung nach Anhörung der beteiligten Kreise:
-
 
 ## § 1
 
@@ -37,16 +34,13 @@ Gerätesicherheitsgesetzes in der Fassung der Bekanntmachung vom 11.
 Mai 2001 (BGBl. I S. 866), bestimmen sich die zu erhebenden Gebühren
 nach den Anhängen I bis VI dieser Verordnung.
 
-
 ## § 2
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anhang I Gebühren für die Prüfung von Dampfkesselanlagen
 
@@ -773,13 +767,6 @@ wobei t die Teilung der Rohre in der Rohrwand bedeutet.
         werden, so ist die Reisezeit anteilig nach den Nummern 6.2 und 6.3 zu
         berechnen.
 
-
-
-
-
-
-
-
 ## Anhang II Gebühren für die Prüfung von Druckbehältern, Druckgasbehältern und Füllanlagen
 
 (Fundstelle des Originaltextes: BGBl. I 2001, 2052 - 2056)
@@ -1477,13 +1464,6 @@ wobei t die Teilung der Rohre in der Rohrwand bedeutet.
         werden, so ist die Reisezeit anteilig nach den Nummern 4.4.2 und 4.4.3
         zu berechnen.
 
-
-
-
-
-
-
-
 ## Anhang III Gebühren für die Prüfung von Aufzugsanlagen
 
 Fundstelle des Originaltextes: BGBl. I 2001, 2057 - 2059
@@ -2087,13 +2067,6 @@ folgende Gebühren erhoben:
         werden, so ist die Reisezeit anteilig nach den Nummern 5.2.1 und 5.2.2
         zu berechnen.
 
-
-
-
-
-
-
-
 ## Anhang IV Gebühren für die Prüfung von Acetylenanlagen
 
 Fundstelle des Originaltextes: BGBl. I 2001, 2060
@@ -2143,13 +2116,6 @@ Für die Prüfung von Acetylenanlagen werden folgende Gebühren erhoben:
 
         Werden mehrere Prüfungen miteinander verbunden, ist die Reisezeit
         anteilig zu berechnen.
-
-
-
-
-
-
-
 
 ## Anhang V Gebühren für die Prüfung von Anlagen zur Lagerung, Abfüllung und Beförderung brennbarer Flüssigkeiten
 
@@ -3604,13 +3570,6 @@ Für die Prüfung von Acetylenanlagen werden folgende Gebühren erhoben:
         Festgebühren und für einen Teil Gebühren nach dem Zeitaufwand erhoben
         werden, so ist die Reisezeit anteilig nach den Nummern 13.2 und 13.3
         zu berechnen.
-
-
-
-
-
-
-
 
 ## Anhang VI Gebühren für die Prüfung elektrischer Anlagen in explosionsgefährdeten Bereichen
 

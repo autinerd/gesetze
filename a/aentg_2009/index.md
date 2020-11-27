@@ -19,15 +19,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1c G v. 25.11.2012 II 1381
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit der Mehrheit seiner Mitglieder und mit
 Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
 ## Abschnitt 1 - Zielsetzung
-
 
 ### § 1 Zielsetzung
 
@@ -39,9 +36,7 @@ Wettbewerbsbedingungen. Dadurch sollen zugleich
 sozialversicherungspflichtige Beschäftigung erhalten und die Ordnungs-
 und Befriedungsfunktion der Tarifautonomie gewahrt werden.
 
-
 ## Abschnitt 2 - Allgemeine Arbeitsbedingungen
-
 
 ### § 2 Allgemeine Arbeitsbedingungen
 
@@ -78,9 +73,7 @@ finden auch auf Arbeitsverhältnisse zwischen einem im Ausland
 ansässigen Arbeitgeber und seinen im Inland beschäftigten
 Arbeitnehmern und Arbeitnehmerinnen zwingend Anwendung.
 
-
 ## Abschnitt 3 - Tarifvertragliche Arbeitsbedingungen
-
 
 ### § 3 Tarifvertragliche Arbeitsbedingungen
 
@@ -94,7 +87,6 @@ vorliegt. Eines bundesweiten Tarifvertrages bedarf es nicht, soweit
 Arbeitsbedingungen im Sinne des § 5 Nr. 2 oder 3 Gegenstand
 tarifvertraglicher Regelungen sind, die zusammengefasst räumlich den
 gesamten Geltungsbereich dieses Gesetzes abdecken.
-
 
 ### § 4 Einbezogene Branchen
 
@@ -129,10 +121,6 @@ gesamten Geltungsbereich dieses Gesetzes abdecken.
 8.  für Aus- und Weiterbildungsdienstleistungen nach dem Zweiten oder
     Dritten Buch Sozialgesetzbuch.
 
-
-
-
-
 ### § 5 Arbeitsbedingungen
 
 Gegenstand eines Tarifvertrages nach § 3 können sein
@@ -160,10 +148,6 @@ Gegenstand eines Tarifvertrages nach § 3 können sein
 
 
 4.  Arbeitsbedingungen im Sinne des § 2 Nr. 3 bis 7.
-
-
-
-
 
 ### § 6 Besondere Regelungen
 
@@ -229,7 +213,6 @@ dem Zweiten oder Dritten Buch Sozialgesetzbuch durchführt. Ausgenommen
 sind Einrichtungen der beruflichen Rehabilitation im Sinne des § 35
 Abs. 1 Satz 1 des Neunten Buches Sozialgesetzbuch.
 
-
 ### § 7 Rechtsverordnung
 
 (1) Ist für einen Tarifvertrag im Sinne dieses Abschnitts ein
@@ -286,7 +269,6 @@ oder drei Ausschussmitglieder für den Antrag, kann eine
 Rechtsverordnung nur von der Bundesregierung erlassen werden. Die
 Sätze 1 bis 3 gelten nicht für Tarifverträge nach § 4 Nr. 1 bis 3.
 
-
 ### § 8 Pflichten des Arbeitgebers zur Gewährung von Arbeitsbedingungen
 
 (1) Arbeitgeber mit Sitz im In- oder Ausland, die unter den
@@ -319,7 +301,6 @@ Rechtsverordnung vorgeschriebenen Arbeitsbedingungen zu gewähren sowie
 die der gemeinsamen Einrichtung nach diesem Tarifvertrag zustehenden
 Beiträge zu leisten.
 
-
 ### § 9 Verzicht, Verwirkung
 
 Ein Verzicht auf das Mindestentgelt nach § 8 ist nur durch
@@ -331,9 +312,7 @@ Tarifvertrag nach den §§ 4 bis 6 oder dem der Rechtsverordnung nach §
 7 zugrunde liegenden Tarifvertrag geregelt werden; die Frist muss
 mindestens sechs Monate betragen.
 
-
 ## Abschnitt 4 - Arbeitsbedingungen in der Pflegebranche
-
 
 ### § 10 Anwendungsbereich
 
@@ -351,7 +330,6 @@ Rehabilitation, zur Teilhabe am Arbeitsleben oder am Leben in der
 Gemeinschaft, die schulische Ausbildung oder die Erziehung kranker
 oder behinderter Menschen im Vordergrund des Zweckes der Einrichtung
 stehen, sowie Krankenhäuser.
-
 
 ### § 11 Rechtsverordnung
 
@@ -378,7 +356,6 @@ Rechts Arbeitsbedingungen für den Bereich kirchlicher Arbeitgeber in
 der Pflegebranche festlegen, Gelegenheit zur schriftlichen
 Stellungnahme innerhalb von drei Wochen ab dem Tag der Bekanntmachung
 des Entwurfs der Rechtsverordnung.
-
 
 ### § 12 Kommission
 
@@ -442,15 +419,12 @@ Mehrheit von drei Vierteln der Mitglieder
 (6) Mit Beschlussfassung über Empfehlungen nach Absatz 4 wird die
 Kommission aufgelöst.
 
-
 ### § 13 Rechtsfolgen
 
 Eine Rechtsverordnung nach § 11 steht für die Anwendung der §§ 8 und 9
 sowie der Abschnitte 5 und 6 einer Rechtsverordnung nach § 7 gleich.
 
-
 ## Abschnitt 4a - Arbeitsbedingungen im Gewerbe des grenzüberschreitenden Straßentransports von Euro-Bargeld
-
 
 ### § 13a Gleichstellung
 
@@ -461,9 +435,7 @@ Mitgliedstaaten des Euroraums (ABl. L 316 vom 29.11.2011, S. 1) steht
 für die Anwendung der §§ 8 und 9 sowie der Abschnitte 5 und 6 einer
 Rechtsverordnung nach § 7 gleich.
 
-
 ## Abschnitt 5 - Zivilrechtliche Durchsetzung
-
 
 ### § 14 Haftung des Auftraggebers
 
@@ -480,7 +452,6 @@ zur Sozialversicherung und zur Arbeitsförderung oder entsprechender
 Aufwendungen zur sozialen Sicherung an Arbeitnehmer oder
 Arbeitnehmerinnen auszuzahlen ist (Nettoentgelt).
 
-
 ### § 15 Gerichtsstand
 
 Arbeitnehmer und Arbeitnehmerinnen, die in den Geltungsbereich dieses
@@ -491,15 +462,12 @@ erheben. Diese Klagemöglichkeit besteht auch für eine gemeinsame
 Einrichtung der Tarifvertragsparteien nach § 5 Nr. 3 in Bezug auf die
 ihr zustehenden Beiträge.
 
-
 ## Abschnitt 6 - Kontrolle und Durchsetzung durch staatliche Behörden
-
 
 ### § 16 Zuständigkeit
 
 Für die Prüfung der Einhaltung der Pflichten eines Arbeitgebers nach §
 8 sind die Behörden der Zollverwaltung zuständig.
-
 
 ### § 17 Befugnisse der Behörden der Zollverwaltung und anderer Behörden
 
@@ -525,7 +493,6 @@ entsprechende Anwendung. Für die Datenverarbeitung, die dem in § 16
 genannten Zweck oder der Zusammenarbeit mit den Behörden des
 Europäischen Wirtschaftsraums nach § 20 Abs. 2 dient, findet § 67 Abs.
 2 Nr. 4 des Zehnten Buches Sozialgesetzbuch keine Anwendung.
-
 
 ### § 18 Meldepflicht
 
@@ -641,7 +608,6 @@ Zustimmung des Bundesrates bestimmen,
 ohne Zustimmung des Bundesrates die zuständige Behörde nach Absatz 1
 Satz 1 und Absatz 3 Satz 1 bestimmen.
 
-
 ### § 19 Erstellen und Bereithalten von Dokumenten
 
 (1) Soweit die Rechtsnormen eines für allgemeinverbindlich erklärten
@@ -667,7 +633,6 @@ Werk- oder Dienstleistung, insgesamt jedoch nicht länger als zwei
 Jahre in deutscher Sprache bereitzuhalten. Auf Verlangen der
 Prüfbehörde sind die Unterlagen auch am Ort der Beschäftigung
 bereitzuhalten, bei Bauleistungen auf der Baustelle.
-
 
 ### § 20 Zusammenarbeit der in- und ausländischen Behörden
 
@@ -696,7 +661,6 @@ erforderlich sind, soweit dadurch nicht überwiegende schutzwürdige
 Interessen des Betroffenen oder anderer Verfahrensbeteiligter
 erkennbar beeinträchtigt werden. Dabei ist zu berücksichtigen, wie
 gesichert die zu übermittelnden Erkenntnisse sind.
-
 
 ### § 21 Ausschluss von der Vergabe öffentlicher Aufträge
 
@@ -738,7 +702,6 @@ Zuschlagserteilung eine Auskunft aus dem Gewerbezentralregister nach §
 (5) Vor der Entscheidung über den Ausschluss ist der Bewerber oder die
 Bewerberin zu hören.
 
-
 ### § 22 Zustellung
 
 Für die Anwendung dieses Gesetzes gilt der im Inland gelegene Ort der
@@ -746,7 +709,6 @@ Werk- oder Dienstleistung sowie das vom Arbeitgeber eingesetzte
 Fahrzeug als Geschäftsraum im Sinne des § 5 Abs. 2 des
 Verwaltungszustellungsgesetzes in Verbindung mit § 178 Abs. 1 Nr. 2
 der Zivilprozessordnung.
-
 
 ### § 23 Bußgeldvorschriften
 
@@ -846,9 +808,7 @@ Ordnungswidrigkeiten die notwendigen Auslagen; sie ist auch
 ersatzpflichtig im Sinne des § 110 Abs. 4 des Gesetzes über
 Ordnungswidrigkeiten.
 
-
 ## Abschnitt 7 - Schlussvorschriften
-
 
 ### § 24 Evaluation
 
@@ -857,7 +817,6 @@ ihre Beschäftigungswirkungen, insbesondere auf
 sozialversicherungspflichtige Beschäftigung sowie die Schaffung
 angemessener Mindestarbeitsbedingungen, fünf Jahre nach Inkrafttreten
 des Gesetzes zu überprüfen.
-
 
 ### § 25 Inkrafttreten, Außerkrafttreten
 

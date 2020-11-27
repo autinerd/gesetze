@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 V v. 17.6.2009 I 1337
 
-
 ## Eingangsformel
 
 Das Bundesministerium für Ernährung, Landwirtschaft und Forsten
@@ -27,16 +26,12 @@ verordnet auf Grund des § 17b Abs. 1 Nr. 4 und Abs. 2, des § 17h Nr.
 Nr. 1, 11, 12 und 13 des Tierseuchengesetzes in der Fassung der
 Bekanntmachung vom 20. Dezember 1995 (BGBl. I S. 2038):
 
-
 ## Abschnitt 1 - Allgemeine Bestimmungen
-
-
 
 ### § 1 Geltungsbereich
 
 Diese Verordnung gilt für alle Betriebe, die Schweine zu Zucht- oder
 Mastzwecken halten.
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -118,13 +113,7 @@ Im Sinne dieser Verordnung sind
     Haltung von Schweinen in Ställen, wobei für die Tiere die Möglichkeit
     besteht, sich zeitweilig im Freien aufzuhalten.
 
-
-
-
-
 ## Abschnitt 2 - Anforderungen an die Schweinehaltung
-
-
 
 ### § 3 Anforderungen an die Stallhaltung
 
@@ -169,7 +158,6 @@ Tierbesitzer in
 
 
 die Schweine nach den Anforderungen der Anlage 3 zu halten.
-
 
 ### § 4 Anforderungen an die Freilandhaltung
 
@@ -227,12 +215,10 @@ durch Tierseuchen bei Wildtieren oder Schweinepest bei Hausschweinen
 dienen, für die Einrichtung oder den Betrieb einer Freilandhaltung
 anordnen, soweit tierseuchenrechtliche Gründe nicht entgegenstehen.
 
-
 ### § 5 Beförderung von Schweinen
 
 Zucht- oder Nutzschweine dürfen nicht gemeinsam mit Schlachtschweinen
 aus einem anderen Betrieb befördert werden.
-
 
 ### § 6 Betriebseigene Kontrollen
 
@@ -243,7 +229,6 @@ betriebseigene Kontrollen und durch Hygienemaßnahmen das
 seuchenhygienische Risiko für die Schweine seines Bestandes niedrig zu
 halten. Der Tierbesitzer kontrolliert jede Ein- und Ausstallung und
 stellt eine tierärztliche Bestandsbetreuung sicher.
-
 
 ### § 7 Tierärztliche Bestandsbetreuung
 
@@ -314,7 +299,6 @@ aufzubewahren ist,
 unverzüglich einzutragen; die Eintragung muß mit dem Namenszeichen des
 Tierarztes versehen sein.
 
-
 ### § 8 Besondere Untersuchungen
 
 (1) Bei
@@ -346,7 +330,6 @@ Tierseuche zu untersuchen.
 (2) Gehäuftes Auftreten von Todesfällen, gehäuftes Auftreten von
 Kümmerern, gehäufte fieberhafte Erkrankungen im Sinne von Absatz 1
 liegen vor, wenn die Kriterien der Anlage 6 erfüllt werden.
-
 
 ### § 9 Zusätzliche Anforderungen an Zuchtbetriebe
 
@@ -395,12 +378,10 @@ Zahl der Belegungen einschließlich der Umrauschbelegungen
 Anzahl aller geborenen Würfe einschließlich Aborte nach
 dem 110. Tag + Aborte vor dem 110. Tag
 
-
 ### § 10 Amtliche Beaufsichtigung
 
 Jeder Betrieb unterliegt der Beaufsichtigung durch den beamteten
 Tierarzt.
-
 
 ### § 11 Ermächtigung für die zuständige Behörde
 
@@ -420,13 +401,7 @@ Die zuständige Behörde kann
 3.  für Schweinehaltungen Ausnahmen zulassen, wenn auf andere Weise
     sichergestellt ist, daß der Schutzzweck der Verordnung erfüllt wird.
 
-
-
-
-
 ## Abschnitt 3 - Ordnungswidrigkeiten und Schlußvorschriften
-
-
 
 ### § 12 Ordnungswidrigkeiten
 
@@ -464,10 +439,6 @@ Tierseuchengesetzes handelt, wer vorsätzlich oder fahrlässig
 8.  entgegen § 9 Abs. 1 Satz 1 die vorgeschriebene Dokumentation nicht,
     nicht richtig, nicht vollständig oder nicht rechtzeitig vornimmt.
 
-
-
-
-
 ### § 13 Übergangsregelungen
 
 (1) Bis zum 11. Juni 2002 sind am 11. Juni 1999 bestehende Betriebe
@@ -486,16 +457,13 @@ Eintritt der Unanfechtbarkeit der Entscheidung über den Antrag.
 besondere Fachwissen im Bereich der Schweinegesundheit nach § 7 Abs. 2
 als vorhanden.
 
-
 ### § 14 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 12. Juni 1999 in Kraft.
 
-
 ### Schlußformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ### Anlage 1 (zu § 3 Abs. 1) Allgemeine Anforderungen an Schweinehaltungen gemäß § 3 Abs. 1
 
@@ -539,10 +507,6 @@ Anforderungen an den Betrieb
 3.  Im Stall oder in den dazugehörigen Nebenräumen muß sich eine
     Einrichtung, an der Schuhzeug gereinigt und desinfiziert werden kann,
     sowie ein Wasserabfluß befinden.
-
-
-
-
 
 ### Anlage 2 (zu § 3 Abs. 2) Zusätzliche Anforderungen an Schweinehaltungen gemäß § 3 Abs. 2
 
@@ -695,13 +659,6 @@ Dung und flüssige Abgänge
         technischen oder biologischen Aufarbeitung von Dung oder flüssigen
         Abgängen einem Verfahren unterzogen werden, durch das
         Tierseuchenerreger abgetötet werden.
-
-
-
-
-
-
-
 
 ### Anlage 3 (zu § 3 Abs. 3) Zusätzliche Anforderungen an Schweinehaltungen gemäß § 3 Abs. 3
 
@@ -869,10 +826,6 @@ Der Tierbesitzer hat sicherzustellen, daß
     oder eine sonstige Bestandsdokumentation zusätzlich Beginn, Verlauf
     und Ende der Absonderung im Isolierstall eingetragen werden.
 
-
-
-
-
 ### Anlage 4 (zu § 4 Abs. 1) Allgemeine Anforderungen an Freilandhaltungen gemäß § 4 Abs. 1
 
 Fundstelle des Originaltextes: BGBl. I 1999, S. 1258;
@@ -1008,10 +961,6 @@ Reinigung und Desinfektion
 5.  Im Rahmen der Reinigung und Desinfektion anfallende Flüssigkeiten sind
     schadlos zu entsorgen.
 
-
-
-
-
 ### Anlage 5 (zu § 4 Abs. 2) Zusätzliche Anforderungen an Freilandhaltungen mit Betriebsgrößen nach § 4 Abs. 2
 
 Fundstelle des Originaltextes: BGBl. I 1999, S. 1259
@@ -1107,13 +1056,6 @@ Ausstallung/Einstallung von Schweinen; Absonderung
 
     c)  bereits auf das Transportfahrzeug verladene Tiere nicht in die
         Freilandhaltung zurücklaufen können.
-
-
-
-
-
-
-
 
 ### Anlage 6 (zu § 8 Abs. 2) Grenzwerte für besondere Untersuchungen
 

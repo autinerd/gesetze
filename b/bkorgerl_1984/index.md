@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1984, 1689
 
-
-
 ## I.
 
 Der Staatssekretär beim Bundeskanzler wird zum Beauftragten für die
@@ -26,12 +24,10 @@ Sein Vertreter ist ein Abteilungsleiter im Bundeskanzleramt.
 Dem Beauftragten ist zur Erfüllung seiner Aufgaben eine Abteilung des
 Bundeskanzleramtes fachaufsichtlich unterstellt.
 
-
 ## II.
 
 Dem Staatssekretär beim Bundeskanzler und Beauftragten für die
 Nachrichtendienste ist der Bundesnachrichtendienst unterstellt.
-
 
 ## III.
 
@@ -100,10 +96,6 @@ Zusammenarbeit mit anderen Behörden und Dienststellen.
     Den dienstaufsichtsführenden Ressorts ist von allen an die Dienste
     gerichteten Auskunftsersuchen und dem sonstigen Schriftwechsel
     mindestens gleichzeitig Kenntnis zu geben.
-
-
-
-
 
 ## IV.
 

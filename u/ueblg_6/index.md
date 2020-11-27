@@ -18,12 +18,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## § 1 Grundsatz
 
@@ -34,7 +32,6 @@ soweit sich aus den §§ 2 und 3 nicht etwas anderes ergibt.
 Entsprechendes gilt auch für bereits verkündetes, jedoch noch nicht in
 Kraft getretenes Bundesrecht vom Zeitpunkt des jeweils bestimmten
 Inkrafttretens an.
-
 
 ## § 2 Sonderregelungen
 
@@ -113,10 +110,6 @@ worden ist, treten in Berlin (West) mit folgenden Maßgaben in Kraft:
 3.  Die Erstattung der Kosten für bauliche Schallschutzmaßnahmen wird nach
     den bisher geltenden Vorschriften vorgenommen, wenn die Maßnahmen vor
     Inkrafttreten dieses Gesetzes ins Werk gesetzt worden sind.
-
-
-
-
 
 ## § 3 Ausnahmen
 
@@ -255,10 +248,6 @@ Anwendung:
     Reichweite mit Verordnung vom 30. Mai 1988 (BGBl. 1988 II S. 534) -
     Verordnung über Inspektionen nach dem INF-Vertrag -.
 
-
-
-
-
 ## § 4 Außerkrafttretende Sondervorschriften
 
 (1) Mit dem Inkrafttreten dieses Gesetzes treten außer Kraft:
@@ -314,10 +303,6 @@ räumlichen Geltungsbereich hiervon erfaßt worden wären.
 
 
 (3) bis (5)
-
-
-
-
 
 ## § 5 Inkrafttreten
 

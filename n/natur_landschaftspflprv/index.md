@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1998, 435
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August
@@ -28,7 +26,6 @@ Bildung, Wissenschaft, Forschung und Technologie nach Anhörung des
 Ständigen Ausschusses des Bundesinstituts für Berufsbildung im
 Einvernehmen mit den Bundesministerien für Ernährung, Landwirtschaft
 und Forsten sowie Umwelt, Naturschutz und Reaktorsicherheit:
-
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
 
@@ -81,7 +78,6 @@ eigenverantwortlich wahrzunehmen:
 "Geprüfter Natur- und Landschaftspfleger/Geprüfte Natur- und
 Landschaftspflegerin".
 
-
 ## § 2 Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer eine mit Erfolg abgelegte
@@ -96,7 +92,6 @@ Berufspraxis in einem der genannten Berufe nachweist.
 wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft
 macht, daß er Kenntnisse, Fertigkeiten und Erfahrungen erworben hat,
 die die Zulassung zur Prüfung rechtfertigen.
-
 
 ## § 3 Gliederung und Inhalt der Prüfung
 
@@ -118,7 +113,6 @@ die die Zulassung zur Prüfung rechtfertigen.
 
 (2) Die Prüfung ist nach Maßgabe der §§ 4 bis 7 praktisch, schriftlich
 und mündlich durchzuführen.
-
 
 ## § 4 Prüfungsteil Grundlagen des Naturschutzes und der Landschaftspflege
 
@@ -178,7 +172,6 @@ ist. Die mündliche Ergänzungsprüfung soll je Prüfungsteilnehmer nicht
 länger als 15 Minuten dauern. Das Ergebnis geht in die Bewertung der
 schriftlichen Prüfungsleistung ein.
 
-
 ## § 5 Prüfungsteil Informationstätigkeit und Besucherbetreuung
 
 (1) Der Prüfungsteilnehmer soll nachweisen, daß er Informationen über
@@ -209,7 +202,6 @@ vorzutragen und zu erläutern. Bei der Auswahl des Themas sollen
 Vorschläge des Prüfungsteilnehmers berücksichtigt werden. Die
 Präsentation der Informationsmaßnahme soll nicht länger als 30 Minuten
 und die Erläuterung nicht länger als 15 Minuten dauern.
-
 
 ## § 6 Prüfungsteil Maßnahmen des Naturschutzes und der Landschaftspflege
 
@@ -242,7 +234,6 @@ Arbeitseinsatz zu planen, durchzuführen und in einem Prüfungsgespräch
 zu erläutern ist. Die Planung und Durchführung des Arbeitseinsatzes
 soll nicht länger als drei Stunden und das Prüfungsgespräch nicht
 länger als 30 Minuten dauern.
-
 
 ## § 7 Prüfungsteil Wirtschaft, Recht und Soziales
 
@@ -298,7 +289,6 @@ ist. Die mündliche Ergänzungsprüfung soll nicht länger als 15 Minuten
 dauern. Das Ergebnis geht in die Bewertung der schriftlichen
 Prüfungsleistung ein.
 
-
 ## § 8 Anrechnung anderer Prüfungsleistungen
 
 Von der Ablegung einzelner Prüfungsleistungen kann der
@@ -309,7 +299,6 @@ staatlich anerkannten Bildungseinrichtung oder vor einem staatlichen
 Prüfungsausschuß mit Erfolg abgelegt hat, deren Inhalt den
 Anforderungen der Prüfungsleistungen nach dieser Verordnung
 entspricht. Eine vollständige Freistellung ist nicht zulässig.
-
 
 ## § 9 Bestehen der Prüfung
 
@@ -332,7 +321,6 @@ benotet worden ist.
 sie ist als arithmetisches Mittel aus den Noten der vier Prüfungsteile
 zu errechnen.
 
-
 ## § 10 Wiederholung der Prüfung
 
 (1) Die Prüfung, die nicht bestanden ist, kann zweimal wiederholt
@@ -348,7 +336,6 @@ Prüfung an, zur Wiederholungsprüfung angemeldet hat. Der
 Prüfungsteilnehmer kann beantragen auch bestandene Prüfungsleistungen
 zu wiederholen. In diesem Fall ist das bessere Ergebnis für das
 Bestehen zu berücksichtigen.
-
 
 ## § 11 Übergangsvorschriften
 
@@ -366,7 +353,6 @@ Wiederholungsprüfung gemäß dieser Verordnung durchführen; § 10 Abs. 2
 findet in diesem Fall keine Anwendung. Im übrigen können die
 Vertragsparteien bis zum 31. Dezember 1998 die Anwendung der
 bisherigen Vorschriften vereinbaren.
-
 
 ## § 12 Inkrafttreten
 

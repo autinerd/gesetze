@@ -22,7 +22,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 V v. 18.5.2011 I 892
 
-
 ## § 1 Straftaten nach der Verordnung (EG) Nr. 1005/2009
 
 Nach § 27 Absatz 1 Nummer 3 Satzteil vor Satz 2, Absatz 2 bis 4 des
@@ -77,10 +76,7 @@ Erkrankung dient und ein gleichwertiges, nach dem Arzneimittelgesetz
 zugelassenes oder als zugelassen geltendes Arzneimittel nicht
 verfügbar ist.
 
-
 ## § 2 (weggefallen)
-
-
 
 ## § 2a Straftaten nach der Verordnung (EG) Nr. 850/2004 über persistente organische Schadstoffe
 
@@ -91,7 +87,6 @@ persistente organische Schadstoffe und zur Änderung der Richtlinie
 79/117/EWG (ABl. EU Nr. L 158 S. 7, Nr. L 229 S. 5) verstößt, indem er
 vorsätzlich oder fahrlässig entgegen Artikel 3 Abs. 1 einen dort
 genannten Stoff herstellt, in Verkehr bringt oder verwendet.
-
 
 ## § 2b Straftaten nach der Verordnung (EG) Nr. 842/2006 über bestimmte fluorierte Treibhausgase
 
@@ -108,10 +103,6 @@ vorsätzlich oder fahrlässig
 2.  entgegen Artikel 9 Abs. 1 ein dort genanntes Erzeugnis oder eine dort
     genannte Einrichtung, die ein dort genanntes Treibhausgas enthalten
     oder benötigen, in den Verkehr bringt.
-
-
-
-
 
 ## § 3 Ordnungswidrigkeiten nach der Verordnung (EG) Nr. 1005/2009
 
@@ -156,10 +147,6 @@ Ordnungswidrig im Sinne des § 26 Absatz 1 Nummer 11 Satzteil vor Satz
     Menge oder die dort genannte Menge an Produkten und Einrichtungen
     nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen
     Weise oder nicht rechtzeitig berichtet.
-
-
-
-
 
 ## § 4 Ordnungswidrigkeiten nach der Verordnung (EG) Nr. 304/2003 über die Aus- und Einfuhr gefährlicher Chemikalien
 
@@ -260,11 +247,9 @@ Anhänge verwiesen wird, sind diese in der auf Grund des Artikels 22
 der genannten Verordnung aktualisierten und im Amtsblatt der
 Europäischen Union veröffentlichten Fassung maßgeblich.
 
-
 ## § 5 (weggefallen)
 
 -
-
 
 ## § 6 Ordnungswidrigkeiten nach der Verordnung (EG) Nr. 850/2004 über persistente organische Schadstoffe
 
@@ -276,7 +261,6 @@ Richtlinie 79/117/EWG (ABl. EU Nr. L 158 S. 7, Nr. L 229 S. 5)
 verstößt, indem er vorsätzlich oder fahrlässig entgegen Artikel 5 Abs.
 2 Unterabs. 1 eine Unterrichtung nicht, nicht richtig, nicht
 vollständig oder nicht rechtzeitig vornimmt. q
-
 
 ## § 6a Ordnungswidrigkeiten nach der Verordnung (EG) Nr. 842/2006 über bestimmte fluorierte Treibhausgase
 
@@ -302,10 +286,6 @@ verstößt, indem er vorsätzlich oder fahrlässig
     vollständig, nicht in der vorgeschriebenen Weise oder nicht
     rechtzeitig zuleitet.
 
-
-
-
-
 ## § 7 Übergangsregelungen
 
 § 4 Abs. 1 Nr. 3 gilt bis zum 30. September 2008 nicht, sofern eine
@@ -316,7 +296,6 @@ ausführenden Landes eingegangen ist und nachweisbar feststeht, dass
 die Chemikalie im einführenden Land als erlaubt registriert oder die
 Verwendung oder Einfuhr der Chemikalie durch eine andere Maßnahme des
 einführenden Landes erlaubt worden ist.
-
 
 ## § 8
 

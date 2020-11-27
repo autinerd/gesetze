@@ -15,14 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   GBl DDR I: 1975, 717
 
-
-
 ## Eingangsformel
 
 Gemäß § 27 der Verordnung vom 16. Oktober 1975 über die Schüler- und
 Kinderspeisung (GBl. I Nr. 44 S. 713) wird im Einvernehmen mit den
 Leitern der zuständigen zentralen Staatsorgane folgendes bestimmt:
-
 
 ## § 1
 
@@ -54,7 +51,6 @@ Stadtschulen einzusetzen.
 -----
 \*) Wird als Ergänzung zum Rezepturenkatalog für die Schüler- und
 Kinderspeisung, Staatsverlag der DDR 1976, veröffentlicht.
-
 
 ## § 2
 
@@ -167,7 +163,6 @@ verwenden.
 \*) Anordnung Nr. Pr. 79 vom 2. Dezember 1971 - Preise für Gaststätten
 - (Sonderdruck Nr. 718 des Gesetzblattes)
 
-
 ## § 3
 
 (1) Sofern die Schülerspeisung noch nicht in voller Höhe des Bedarfs
@@ -239,10 +234,6 @@ einheitliche Grundsätze zu berücksichtigen:
     Fällen nicht in Anspruch genommen werden konnten, sind für alle Tage
     zu verrechnen bzw. zurückzuerstatten.
 
-
-
-
-
 ## § 4
 
 (1) Bei der Planung der Kapazitäten für die Betriebe und Einrichtungen
@@ -263,7 +254,6 @@ die Volkswirtschaftspläne einzuordnen.
 unabhängig von ihrer Unterstellung und Eigentumsform, Auflagen zur
 Nutzung vorhandener Kapazitäten für die Verbesserung der Schüler- und
 Kinderspeisung zu erteilen.
-
 
 ## § 5
 
@@ -287,7 +277,6 @@ Orientierungen für Aufgabenstellungen zur sozialistischen
 Rationalisierung und Grundlage für Leistungsvergleiche zwischen den
 Betrieben und Einrichtungen der Schüler- und Kinderspeisung und
 entsprechend anzuwenden.
-
 
 ## § 6
 
@@ -325,10 +314,6 @@ b)  Einrichtungen der Schüler- und Kinderspeisung, die ausschließlich für
     können von Betrieben des volkseigenen Einzelhandels oder
     Konsumgenossenschaften bewirtschaftet werden.
 
-
-
-
-
 ## § 7
 
 (1) Die Aufgaben auf dem Gebiet der Schüler- und Kinderspeisung sind
@@ -347,7 +332,6 @@ und entsprechend der Entscheidung des Rates in ihre Pläne aufzunehmen.
 (4) Die örtlichgeleiteten Betriebe erhalten Planaufgaben und
 Planauflagen für die Schüler- und Kinderspeisung durch ihr
 übergeordnetes Organ.
-
 
 ## § 8
 
@@ -397,7 +381,6 @@ Unterstützung bei der Speisenplangestaltung auf der Grundlage der
 Rezepturen, bei der Qualifizierung am Arbeitsplatz und der
 Rationalisierung der Arbeit in den Küchen und Ausgabestellen.
 
-
 ## § 9
 
 (1) Zur Organisation und Durchführung der Trinkmilchversorgung haben
@@ -418,7 +401,6 @@ einheitlich je 1/4 Liter Milch bzw. Milchmischgetränk -,03 M.
 (4) Die Direktoren der Schulen haben die Durchführung des
 Trinkmilchverkaufs vor allem durch Bereitstellung geeigneter Räume in
 den Schulen und bei der Gewinnung von Verkaufskräften zu unterstützen.
-
 
 ## § 10
 
@@ -445,7 +427,6 @@ Elternbeirates, der Elternaktive, der Lehrer, Erzieher und Schüler
 bzw. Lehrlinge. Die Ergebnisse der Kontrollen sind regelmäßig mit den
 Leitern der Betriebe und Einrichtungen der Schüler- und Kinderspeisung
 auszuwerten.
-
 
 ## § 11
 
@@ -481,14 +462,12 @@ für diese Leistungen in Abstimmung mit der Staatsbank der Deutschen
 Demokratischen Republik auf Antrag der Betriebe durch Zusatzkredite zu
 einem Zinssatz von 1,8%.
 
-
 ## § 12
 
 Die Berichterstattung über die Schüler- und Kinderspeisung erfolgt für
 die Kennziffern der Schüler- und Kinderspeisung durch die Betriebe und
 Einrichtungen der Schüler- und Kinderspeisung entsprechend dem
 bestätigten Kennziffernprogramm.
-
 
 ## § 13
 
@@ -518,14 +497,9 @@ Gleichzeitig treten außer Kraft:
     Nr. 54/63 und Anlage dazu (Verfügungen und Mitteilungen des
     Ministeriums für Handel und Versorgung vom 21. Januar 1966 Nr. 8).
 
-
-
-
-
 ## Schlußformel
 
 **Der Minister für Handel und Versorgung**
-
 
 ## Anlage 1
 
@@ -852,10 +826,6 @@ III. **Allgemeine Hinweise**
 
 12. Vor Einfüllen der Speisen in die Speisentransportbehälter sind die
     Gefäße heiß auszuspülen.
-
-
-
-
 
 ## Anlage 2
 
@@ -1318,10 +1288,6 @@ Einrichtungen, die im Speisenferntransport beliefert werden**
     Küche **sofort**                    durch die ausgebende Einrichtung
     zu informieren.
 
-
-
-
-
 ## Anlage 3
 
 (Fundstelle: GBl. I 1975, Nr. 44, 721)
@@ -1471,7 +1437,6 @@ zu berechnen.
 11 gemäß der Planungsordnung vom 20. November 1974
 (Sonderdruck Nr. 775a des Gesetzblattes S. 59).
 
-
 ## Anlage 4
 
 Fundstelle des Originaltextes: GBl. I 1975, Nr. 44, 721 - 722
@@ -1612,10 +1577,6 @@ Maschinenbauhandel.
     kann bei den Räten der Kreises, Abteilung Handel und Versorgung,
     eingesehen werden.
 
-
-
-
-
 ## Anlage 5
 
 Fundstelle des Originaltextes: GBl. I 1975, Nr. 44, 722
@@ -1676,10 +1637,6 @@ hergestellt werden
     *   250
 
     *   5
-
-
-
-
 
 ## Anlage 6
 

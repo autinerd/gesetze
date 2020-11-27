@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 511
 
-
 ## Eingangsformel
 
 Auf Grund des § 42 der Handwerksordnung, der zuletzt durch Artikel 146
@@ -25,7 +24,6 @@ geändert worden ist, verordnet das Bundesministerium für Bildung und
 Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für
 Berufsbildung im Einvernehmen mit dem Bundesministerium für Wirtschaft
 und Technologie:
-
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
 
@@ -78,7 +76,6 @@ eines nachhaltigen Wirtschaftens zu berücksichtigen.
 Fortbildungsabschluss Geprüfter Betriebswirt nach der Handwerksordnung
 oder Geprüfte Betriebswirtin nach der Handwerksordnung.
 
-
 ## § 2 Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer
@@ -110,7 +107,6 @@ Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht,
 Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche
 Handlungsfähigkeit) erworben zu haben, die die Zulassung zur Prüfung
 rechtfertigen.
-
 
 ## § 3 Gliederung der Prüfung
 
@@ -183,7 +179,6 @@ werden, wenn in den Prüfungsteilen nach Absatz 1 Nummer 1 bis 3
 mindestens ausreichende Leistungen erbracht wurden. Der erfolgreiche
 Abschluss dieser Prüfungsteile soll dabei nicht länger als ein Jahr
 zurückliegen.
-
 
 ## § 4 Inhalt der Prüfung im Prüfungsteil „Unternehmensstrategie“
 
@@ -263,10 +258,6 @@ können folgende Qualifikationsinhalte geprüft werden:
 
 
 7.  Erfolgsfaktoren für die Strategieplanung bestimmen.
-
-
-
-
 
 ## § 5 Inhalt der Prüfung im Prüfungsteil „Unternehmensführung“
 
@@ -390,10 +381,6 @@ Qualifikationsinhalte geprüft werden:
 7.  Methoden zur Überprüfung der Leistungsfähigkeit von Prozessen
     beurteilen.
 
-
-
-
-
 ## § 6 Inhalt der Prüfung im Prüfungsteil „Personalmanagement“
 
 (1) Im Handlungsbereich „Personal planen und gewinnen“ soll die
@@ -441,10 +428,6 @@ können folgende Qualifikationsinhalte geprüft werden:
     nachhaltige Personalentwicklung sowie Planung und Organisation von
     Weiterbildung realisieren.
 
-
-
-
-
 ## § 7 Inhalte des Prüfungsteils „Innovationsmanagement“
 
 Im Prüfungsteil „Innovationsmanagement“ soll eine komplexe
@@ -455,7 +438,6 @@ Unternehmensstrategie, die Auswirkungen auf die operative
 Unternehmensführung haben und einen Innovationsbedarf zur Umsetzung
 einer Unternehmensstrategie beinhalten, sind darzustellen. Die
 Themenstellung ist entsprechend § 11 zu entwickeln.
-
 
 ## § 8 Durchführung der Prüfung im Prüfungsteil „Unternehmensstrategie“
 
@@ -475,7 +457,6 @@ Ergänzungsprüfung werden zu einem Gesamtergebnis zusammengefasst.
 Dabei wird die Bewertung der schriftlichen Prüfungsleistung doppelt
 gewichtet.
 
-
 ## § 9 Durchführung der Prüfung im Prüfungsteil „Unternehmensführung“
 
 (1) Es ist schriftlich anhand einer komplexen Situationsaufgabe
@@ -489,7 +470,6 @@ schriftlichen Prüfungsleistung und die der mündlichen
 Ergänzungsprüfung werden zu einem Gesamtergebnis zusammengefasst.
 Dabei wird die Bewertung der schriftlichen Prüfungsleistung doppelt
 gewichtet.
-
 
 ## § 10 Durchführung der Prüfung im Prüfungsteil „Personalmanagement“
 
@@ -509,7 +489,6 @@ Prüfungsleistung in diesem Handlungsbereich und die der mündlichen
 Ergänzungsprüfung werden zu einem Gesamtergebnis zusammengefasst.
 Dabei wird die Bewertung der schriftlichen Prüfungsleistung doppelt
 gewichtet.
-
 
 ## § 11 Durchführung der Prüfung im Prüfungsteil „Innovationsmanagement“
 
@@ -535,7 +514,6 @@ Projektarbeit mindestens als ausreichende Leistung bewertet wurde.
 (Projektarbeit) und der mündlichen Prüfungsleistung (Präsentation und
 Fachgespräch) wird aus dem arithmetischen Mittel gebildet.
 
-
 ## § 12 Anrechnung anderer Prüfungsleistungen
 
 Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin ist auf Antrag
@@ -545,7 +523,6 @@ oder staatlich anerkannten Bildungseinrichtung oder vor einem
 staatlichen Prüfungsausschuss eine Prüfung mit Erfolg abgelegt wurde,
 die den Anforderungen der entsprechenden Prüfungsinhalte nach dieser
 Verordnung entspricht.
-
 
 ## § 13 Bestehen der Prüfung
 
@@ -561,7 +538,6 @@ zusammenzufassen sind.
 und 2 auszustellen. Im Falle der Befreiung gemäß § 12 sind Ort und
 Datum der anderweitig abgelegten Prüfung sowie die Bezeichnung des
 Prüfungsgremiums anzugeben.
-
 
 ## § 14 Wiederholen der Prüfung
 
@@ -582,7 +558,6 @@ der letzten Prüfung.
 Prüfungsleistung nicht bestanden, so ist auch die Projektarbeit nach §
 11 Absatz 1 zu wiederholen.
 
-
 ## § 15 Übergangsvorschriften
 
 Begonnene Prüfungsverfahren zum Betriebswirt (HWK) und zur
@@ -594,11 +569,9 @@ Absatz 2 findet in diesem Fall keine Anwendung. Im Übrigen kann bei
 der Anmeldung zur Prüfung bis zum Ablauf des 30. Juni 2014 die
 Anwendung der bisherigen Vorschriften vereinbart werden.
 
-
 ## § 16 Inkrafttreten
 
 Diese Verordnung tritt am 1. April 2011 in Kraft.
-
 
 ## Anlage 1 (zu § 13 Absatz 3) Muster
 
@@ -666,9 +639,6 @@ und Geprüfte Betriebswirtin nach der Handwerksordnung vom 13. März
 
 *    *   (Siegel der zuständigen Stelle)
 
-
-
-
 ## Anlage 2 (zu § 13 Absatz 3) Muster
 
 (Fundstelle: BGBl. I 2011, 517)
@@ -682,8 +652,6 @@ und Geprüfte Betriebswirtin nach der Handwerksordnung vom 13. März
 
 
 *    *   (Bezeichnung der zuständigen Stelle)
-
-
 
 ## Zeugnis
 

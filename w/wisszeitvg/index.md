@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 506
 
-
-
 ## § 1 Befristung von Arbeitsverträgen
 
 (1) Für den Abschluss von Arbeitsverträgen für eine bestimmte Zeit
@@ -39,7 +37,6 @@ widersprechen.
 bezeichnete Personal auch in unbefristeten oder nach Maßgabe des
 Teilzeit- und Befristungsgesetzes befristeten Arbeitsverhältnissen zu
 beschäftigen.
-
 
 ## § 2 Befristungsdauer; Befristung wegen Drittmittelfinanzierung
 
@@ -121,7 +118,6 @@ zulässige Befristungsdauer angerechnet. Sie soll in den Fällen des
 Satzes 1 Nr. 1, 2 und 5 die Dauer von jeweils zwei Jahren nicht
 überschreiten.
 
-
 ## § 3 Privatdienstvertrag
 
 Für einen befristeten Arbeitsvertrag, den ein Mitglied einer
@@ -132,7 +128,6 @@ abschließt, gelten die Vorschriften der §§ 1, 2 und 6 entsprechend.
 Für nichtwissenschaftliches und nichtkünstlerisches Personal gilt § 2
 Abs. 2 Satz 2 und Abs. 4 Satz 1 und 2 entsprechend.
 
-
 ## § 4 Wissenschaftliches Personal an staatlich anerkannten Hochschulen
 
 Für den Abschluss befristeter Arbeitsverträge mit wissenschaftlichem
@@ -140,7 +135,6 @@ und künstlerischem Personal an nach Landesrecht staatlich anerkannten
 Hochschulen gelten die Vorschriften der §§ 1 bis 3 und 6 entsprechend.
 Für nichtwissenschaftliches und nichtkünstlerisches Personal gilt § 2
 Abs. 2 Satz 2 und Abs. 4 Satz 1 und 2 entsprechend.
-
 
 ## § 5 Wissenschaftliches Personal an Forschungseinrichtungen
 
@@ -151,7 +145,6 @@ Grundlage von Artikel 91b des Grundgesetzes finanzierten
 Forschungseinrichtungen gelten die Vorschriften der §§ 1 bis 3 und 6
 entsprechend. Für nichtwissenschaftliches Personal gilt § 2 Abs. 2
 Satz 2 und Abs. 4 Satz 1 und 2 entsprechend.
-
 
 ## § 6 Rechtsgrundlage für bereits abgeschlossene Verträge; Übergangsregelung
 

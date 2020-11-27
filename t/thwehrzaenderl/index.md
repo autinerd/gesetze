@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1990, 1437
 
-
-
 ## (XXXX)
 
 Der Bundesminister des Innern hat am 13. Juni 1990 den Erlaß vom 17.

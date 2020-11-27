@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 2 V v. 4.7.2007 I 1252
 
-
 ## Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
@@ -31,10 +30,7 @@ und dem Organisationserlass vom 27. Oktober 1998 (BGBl. I S. 3288)
 verordnet das Bundesministerium für Wirtschaft und Technologie im
 Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
 ## Erster Teil - Gemeinsame Vorschriften
-
-
 
 ### § 1 Staatliche Anerkennung der Ausbildungsberufe
 
@@ -52,11 +48,9 @@ Die Ausbildungsberufe
 
 werden staatlich anerkannt.
 
-
 ### § 2 Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
-
 
 ### § 3 Struktur und Zielsetzung der Berufsausbildung
 
@@ -91,10 +85,7 @@ Planen, Durchführen und Kontrollieren einschließt. Die in Satz 1
 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 8 und 9
 sowie 20 und 21 nachzuweisen.
 
-
 ## Zweiter Teil - Vorschriften für den Ausbildungsberuf Kaufmann im Gesundheitswesen/Kauffrau im Gesundheitswesen
-
-
 
 ### § 4 Ausbildungsberufsbild
 
@@ -200,10 +191,6 @@ Fertigkeiten und Kenntnisse:
 
 12. Qualitätsmanagement im Gesundheitswesen.
 
-
-
-
-
 ### § 5 Ausbildungsrahmenplan
 
 Die in § 4 genannten Fertigkeiten und Kenntnisse sollen nach den in
@@ -214,12 +201,10 @@ zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
 zulässig, soweit eine berufsfeldbezogene Grundbildung vorausgegangen
 ist oder betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
 ### § 6 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ### § 7 Berichtsheft
 
@@ -227,7 +212,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 ### § 8 Zwischenprüfung
 
@@ -252,10 +236,6 @@ Prüfungsgebieten durchzuführen:
 
 
 3.  Wirtschafts- und Sozialkunde.
-
-
-
-
 
 ### § 9 Abschlussprüfung
 
@@ -378,17 +358,11 @@ Prüfungsleistungen erbracht werden. Werden die Prüfungsleistungen in
 einem Prüfungsbereich mit "ungenügend" bewertet, so ist die Prüfung
 nicht bestanden.
 
-
 ## Dritter Teil - (weggefallen)
-
 
 ### (XXXX) §§ 10 bis 15 (weggefallen)
 
-
-
 ## Vierter Teil - Vorschriften für den Ausbildungsberuf Veranstaltungskaufmann/Veranstaltungskauffrau
-
-
 
 ### § 16 Ausbildungsberufsbild
 
@@ -532,10 +506,6 @@ Fertigkeiten und Kenntnisse:
 
 14. Anwenden von Fremdsprachen bei Fachaufgaben.
 
-
-
-
-
 ### § 17 Ausbildungsrahmenplan
 
 Die in § 16 genannten Fertigkeiten und Kenntnisse sollen nach den in
@@ -546,12 +516,10 @@ zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
 zulässig, soweit eine berufsfeldbezogene Grundbildung vorausgegangen
 ist oder betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
 ### § 18 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ### § 19 Berichtsheft
 
@@ -559,7 +527,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 ### § 20 Zwischenprüfung
 
@@ -584,10 +551,6 @@ Prüfungsgebieten durchzuführen:
 
 
 3.  Wirtschafts- und Sozialkunde.
-
-
-
-
 
 ### § 21 Abschlussprüfung
 
@@ -710,15 +673,11 @@ Prüfungsleistungen erbracht werden. Werden die Prüfungsleistungen in
 einem Prüfungsbereich mit "ungenügend" bewertet, so ist die Prüfung
 nicht bestanden.
 
-
 ## Fünfter Teil - Schlussvorschriften
-
-
 
 ### § 22 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2001 in Kraft.
-
 
 ### Anlage 1 (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann im Gesundheitswesen/zur Kauffrau im Gesundheitswesen
 
@@ -1861,11 +1820,9 @@ Kenntnisse der Berufsbildpositionen
 
 fortzuführen.
 
-
 ### Anlage 2 (weggefallen)
 
 -
-
 
 ### Anlage 3 (zu § 17) Ausbildungsrahmenplan für die Berufsausbildung zum Veranstaltungskaufmann/zur Veranstaltungskauffrau
 

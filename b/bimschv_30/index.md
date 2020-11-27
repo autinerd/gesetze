@@ -18,10 +18,7 @@ Fundstelle
 Geändert durch
 :   Art. 3 V v. 27.4.2009 I 900
 
-
 ## Erster Teil - Allgemeine Vorschriften
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -68,7 +65,6 @@ bestimmt sind.
 Abs. 1 Nr. 2 des Bundes-Immissionsschutzgesetzes bei der Errichtung
 und beim Betrieb der Anlagen zur Vorsorge gegen schädliche
 Umwelteinwirkungen durch Luftverunreinigungen zu erfüllen sind.
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -245,20 +241,13 @@ Im Sinne dieser Verordnung sind:
     insbesondere Hausmüll, Sperrmüll, hausmüllartige Gewerbeabfälle,
     Garten- und Parkabfälle, Marktabfälle und Straßenreinigungsabfälle.
 
-
-
-
-
 ## Zweiter Teil - Anforderungen an die Errichtung, die Beschaffenheit und den Betrieb
-
-
 
 ### § 3 Mindestabstand
 
 Bei der Errichtung von biologischen Abfallbehandlungsanlagen soll ein
 Mindestabstand von 300 Meter zur nächsten vorhandenen oder in einem
 Bebauungsplan festgesetzten Wohnbebauung nicht unterschritten werden.
-
 
 ### § 4 Emissionsbezogene Anforderungen für Anlieferung, Aufbereitung, Stofftrennung und Lagerung und Transport
 
@@ -295,7 +284,6 @@ erhebliche Verschmutzungen durch Fahrzeuge nach Verlassen des
 Anlagenbereichs vermieden oder beseitigt werden, zum Beispiel durch
 Reifenwaschanlagen oder regelmäßiges Säubern der Fahrwege.
 
-
 ### § 5 Emissionsbezogene Anforderungen für biologische Behandlung, Prozesswässer und Brüdenkondensate
 
 (1) Einrichtungen zur biologischen Behandlung von Einsatzstoffen oder
@@ -328,7 +316,6 @@ schlammförmiger Rückstände zu mindern, sind auszuschöpfen.
 Behandlungseinrichtungen für Prozesswässer und Brüdenkondensate sind
 so auszulegen und zu betreiben, dass hiervon keine relevanten diffusen
 Emissionen ausgehen können.
-
 
 ### § 6 Emissionsgrenzwerte
 
@@ -429,10 +416,6 @@ Satz 2 und § 5 Abs. 1 Satz 2 und Abs. 2
 
     *   0,1 ng/cbm.
 
-
-
-
-
 ### § 7 Ableitbedingungen für Abgase
 
 Der Betreiber hat die Abgasströme nach § 4 Abs. 1 Satz 2 und Abs. 2
@@ -440,10 +423,7 @@ Satz 2 und § 5 Abs. 1 Satz 2 und Abs. 2 so abzuleiten, dass ein
 ungestörter Abtransport mit der freien Luftströmung erfolgt; eine
 Ableitung über Schornsteine ist erforderlich.
 
-
 ## Dritter Teil - Messung und Überwachung
-
-
 
 ### § 8 Messverfahren und Messeinrichtungen
 
@@ -473,7 +453,6 @@ der Kalibrierung und der Prüfung der Funktionsfähigkeit sind der
 zuständigen Behörde innerhalb von acht Wochen nach Eingang der
 Berichte vorzulegen.
 
-
 ### § 9 Kontinuierliche Messungen
 
 Der Betreiber hat
@@ -495,7 +474,6 @@ kontinuierlich zu ermitteln, zu registrieren und gemäß § 10 Abs. 1 und
 2 auszuwerten. Messeinrichtungen für den Feuchtegehalt an Wasserdampf
 sind nicht notwendig, soweit das Abgas vor der Ermittlung der
 Massenkonzentration der Emissionen getrocknet wird.
-
 
 ### § 10 Auswertung und Beurteilung von kontinuierlichen Messungen
 
@@ -535,7 +513,6 @@ Tagesmittelwert nach § 6 Nr. 1, kein Halbstundenmittelwert nach § 6
 Nr. 2 und kein Monatsmittelwert nach § 6 Nr. 3 den jeweiligen
 Emissionsgrenzwert überschreitet.
 
-
 ### § 11 Einzelmessungen
 
 (1) Der Betreiber hat nach Errichtung oder wesentlicher Änderung der
@@ -569,7 +546,6 @@ vorgenommen werden, wenn die Anlagen mit der höchsten Leistung
 betrieben werden, für die sie bei den während der Messung verwendeten
 Einsatzstoffen für den Dauerbetrieb zugelassen sind.
 
-
 ### § 12 Berichte und Beurteilung von Einzelmessungen
 
 (1) Über die Ergebnisse der Messungen nach § 11 hat der Betreiber
@@ -582,7 +558,6 @@ Messergebnisse von Bedeutung sind, enthalten.
 (2) Die Emissionsgrenzwerte nach § 6 Nr. 4 und 5 gelten als
 eingehalten, wenn kein Ergebnis einer Einzelmessung diese
 Emissionsgrenzwerte überschreitet.
-
 
 ### § 13 Störungen des Betriebes
 
@@ -610,10 +585,7 @@ als acht Stunden zu erwarten, hat der Betreiber zusätzliche Maßnahmen
 zu treffen und die zuständige Behörde hierüber unverzüglich zu
 unterrichten.
 
-
 ## Vierter Teil - Anforderungen an Altanlagen
-
-
 
 ### § 14 Übergangsregelungen
 
@@ -629,10 +601,7 @@ Behandlungseinrichtungen nach den Vorschriften des zweiten und dritten
 Teils und die Anforderungen für die vorhandenen Einrichtungen nach den
 Vorschriften des vierten Teils dieser Verordnung.
 
-
 ## Fünfter Teil - Gemeinsame Vorschriften
-
-
 
 ### § 15 Unterrichtung der Öffentlichkeit
 
@@ -654,7 +623,6 @@ Unterrichtung der Öffentlichkeit durch Dokumente ersetzen, die im
 Rahmen des Umweltmanagementsystems erarbeitet wurden, sofern die
 erforderlichen Angaben enthalten sind.
 
-
 ### § 16 Zulassung von Ausnahmen
 
 Abweichend von der in § 5 Abs. 1 Satz 1 festgelegten Kapselung von
@@ -673,14 +641,12 @@ I S. 900), unterschreitet und durch sonstige betriebliche Maßnahmen
 sichergestellt wird, dass der Vorsorge gegen schädliche
 Umwelteinwirkungen auf andere Weise Genüge getan ist.
 
-
 ### § 17 Weitergehende Anforderungen
 
 Die Befugnis der zuständigen Behörde, andere oder weitergehende
 Anforderungen, insbesondere zur Vermeidung schädlicher
 Umwelteinwirkungen nach § 5 Abs. 1 Nr. 1 des Bundes-
 Immissionsschutzgesetzes zu treffen, bleibt unberührt.
-
 
 ### § 18 Ordnungswidrigkeiten
 

@@ -18,13 +18,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1993, 1886
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -37,7 +34,6 @@ Oktober 1989 (BGBl. 1990 II S. 766) und dem Verhandlungsprotokoll vom
 18\. Dezember 1991 wird zugestimmt. Das Protokoll und das
 Verhandlungsprotokoll werden nachstehend veröffentlicht.
 
-
 ## Art 2
 
 Zur Anwendung des Artikels 4 Absatz 5 des Abkommens gilt folgendes:
@@ -49,7 +45,6 @@ Zeitpunkt vorzunehmen, der dem Tage folgt, an dem die unbeschränkte
 Vermögensteuerpflicht endet. Die auf die Dauer der unbeschränkten und
 der beschränkten Steuerpflicht entfallende Vermögensteuer ist nach der
 jeweiligen Jahressteuer zeitanteilig zu berechnen.
-
 
 ## Art 3
 
@@ -96,7 +91,6 @@ Lohnzahlung noch nicht erhobene Lohnsteuer nachträglich einzubehalten.
 Einkommensteuererklärung die Bescheinigung des Arbeitgebers über den
 Lohnausweis (nach schweizerischem Muster) und über die erhobene
 Abzugssteuer beizufügen.
-
 
 ## Art 4
 

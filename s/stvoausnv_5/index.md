@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1994, 623
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 6 Abs. 1 Nr. 3 und Abs. 3 des Straßenverkehrsgesetzes
@@ -29,7 +27,6 @@ vom 26. November 1986 (BGBl. I S. 2089), verordnet das
 Bundesministerium für Verkehr nach Anhörung der zuständigen obersten
 Landesbehörden:
 
-
 ## § 1
 
 Abweichend von § 21 Abs. 1a der Straßenverkehrs-Ordnung vom 16.
@@ -41,7 +38,6 @@ sind, Rückhalteeinrichtungen für Kinder bis zum vollendeten zwölften
 Lebensjahr, die kleiner als 150 cm sind, benutzt werden, die nach den
 nationalen Vorschriften des Heimatlandes geprüft und für die Sicherung
 von Kindern zugelassen worden sind.
-
 
 ## § 2
 

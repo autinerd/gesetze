@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1976, 2054
 
-
-
 ## I.
 
 Auf Grund des § 55 Abs. 1 des Gesetzes über den Bundesgrenzschutz vom
@@ -42,13 +40,11 @@ den Kommandeuren der Grenzschutzkommandos,
 dem Kommandeur der Grenzschutzschule,
 jeweils für ihren Geschäftsbereich.
 
-
 ## II.
 
 Für besondere Fälle behalte ich mir die Ernennung und Entlassung der
 in Abschnitt I Genannten vor.
 Diese Anordnung tritt am Tage nach ihrer Verkündung in Kraft.
-
 
 ## Schlußformel
 

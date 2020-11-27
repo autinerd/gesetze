@@ -18,8 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 2.12.2011 I 2634
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 15 Abs. 1 in Verbindung mit Abs. 2 des Gesetzes über
@@ -30,7 +28,6 @@ I S. 705) und dem Organisationserlass vom 27. Oktober 1998 (BGBl. I S.
 3288) verordnet das Bundesministerium für Ernährung, Landwirtschaft
 und Forsten im Einvernehmen mit dem Bundesministerium für Wirtschaft
 und Technologie:
-
 
 ## § 1 Begriffsbestimmungen
 
@@ -150,13 +147,6 @@ Im Sinne dieser Verordnung sind:
 
 
     b)  der Meldepflichten nach den §§ 4 und 5 das Kalenderjahr.
-
-
-
-
-
-
-
 
 ## § 2 Meldepflichten der Getreide-, Stärke- und Futtermittelwirtschaft
 
@@ -472,7 +462,6 @@ Unternehmen nach Satz 1 Nummer 2 für Kalenderhalbjahre nach Maßgabe
 des § 7 Nummer 1 den Bestand des jeweiligen Erzeugnisses in Tonnen am
 Ende des Meldezeitraums sowie eine Bestandskorrektur.
 
-
 ## § 3 Meldepflichten der Zuckerwirtschaft
 
 (1) Die Unternehmen nach
@@ -583,10 +572,6 @@ nach Maßgabe des § 7 Nummer 2 mit folgenden Angaben abzugeben:
 
 4.  den durchschnittlichen Schmutzanhang der angelieferten Rüben in
     Prozent mit zwei Nachkommastellen.
-
-
-
-
 
 ## § 4 Meldepflichten der Fettwirtschaft
 
@@ -772,10 +757,6 @@ Erzeugniskategorie zu machen:
 
 2.  der Rohstoffeinsatz nach Kategorien der Rohstoffe in Tonnen Reinfett.
 
-
-
-
-
 ## § 5 Meldepflichten der Milchwirtschaft
 
 (1) Abnehmer von Milch haben monatliche Meldungen nach Maßgabe des § 6
@@ -923,7 +904,6 @@ nach Satz 1 Nummer 7 jährlich für das Kalenderjahr im Rahmen der
 Meldung für den Berichtsmonat Dezember abzugeben. Für die Meldung über
 die Herstellung von Mischfetterzeugnissen gilt § 4 Absatz 5.
 
-
 ## § 6 Meldepflichtige, Gesamtmeldung
 
 (1) Unternehmen mit mehreren Betrieben haben für jeden Betrieb
@@ -969,7 +949,6 @@ Absatz 2 bis 5 oder § 5 Abs. 1 oder 2 meldepflichtigen Tatbestände
 vorliegen, haben die jeweils Betroffenen dies nach Maßgabe des § 7 zu
 melden.
 
-
 ## § 7 Zeitpunkt der Meldungen
 
 Bei der
@@ -982,10 +961,6 @@ zuständige              Stelle haben einzugehen:
 2.  die nach den §§ 2 bis 4 und § 5 Absatz 1 und 2 abzugebenden
     monatlichen Meldungen spätestens am 20. Tag nach Ablauf des
     Berichtsmonats.
-
-
-
-
 
 ## § 8 Form der Meldungen
 
@@ -1001,7 +976,6 @@ unbilligen Härten auf eine elektronische Übermittlung verzichten. In
 diesem Fall hat das Unternehmen eine Meldung auf Formblättern
 abzugeben, die von der zuständigen Stelle bereitgestellt werden.
 
-
 ## § 9 Aufzeichnungspflichten
 
 Die Meldepflichtigen haben die für die Meldungen nach § 2 Absatz 1, §
@@ -1010,7 +984,6 @@ Aufzeichnungen fortlaufend zu führen. Die Aufzeichnungen sind für
 einen Zeitraum von drei Jahren ab dem Zeitpunkt des Erstellens der
 Aufzeichnung aufzubewahren. Längere Aufbewahrungsfristen nach anderen
 Vorschriften bleiben unberührt.
-
 
 ## § 10 Ordnungswidrigkeiten
 
@@ -1026,10 +999,6 @@ fahrlässig
 
 2.  entgegen § 9 Satz 1 oder 2 eine Aufzeichnung nicht, nicht richtig oder
     nicht vollständig führt oder nicht mindestens drei Jahre aufbewahrt.
-
-
-
-
 
 ## § 11 Übergangsregelung
 
@@ -1053,19 +1022,13 @@ Fassung weiter:
 4.  Meldepflichten nach den §§ 4 und 5 für vor dem 1. Januar 2012 endende
     Meldezeiträume.
 
-
-
-
-
 ## § 12 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## (XXXX) Anlage G 1 bis M 6 (weggefallen)
 

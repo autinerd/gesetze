@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2003, 364
 
-
-
 ## (XXXX)
 
 Auf Grund des § 1 Abs. 2 des Auslandsunterhaltsgesetzes vom 19.

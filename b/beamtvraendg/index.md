@@ -18,21 +18,17 @@ Fundstelle
 Geändert durch
 :   § 103 G v. 24.8.1976 I 2485
 
-
 ## Art 1
 
 -
-
 
 ## Art 2
 
 -
 
-
 ## Art 3
 
 -
-
 
 ## Art 4 Erstattung von Aufwendungen
 
@@ -41,11 +37,9 @@ Bundesrates das Nähere über die Berechnung und Durchführung der
 Erstattung nach § 1304b Abs. 2 Satz 2 der Reichsversicherungsordnung
 und § 83b Abs. 2 Satz 2 des Angestelltenversicherungsgesetzes.
 
-
 ## Art 5
 
 -
-
 
 ## Art 6 Berlin-Klausel
 
@@ -53,7 +47,6 @@ Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. dieses
 Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 Überleitungsgesetzes.
-
 
 ## Art 7 Inkrafttreten
 

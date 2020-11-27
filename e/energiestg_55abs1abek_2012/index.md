@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 2423
 
-
 ## (XXXX)
 
 Nach § 55 Absatz 1a Satz 2 Nummer 3 Buchstabe c des
@@ -25,7 +24,6 @@ die nach § 55 Absatz 1a Satz 2 Nummer 3 Buchstabe b des
 Energiesteuergesetzes erforderliche Feststellung am 30. November 2011
 getroffen hat und dass die Steuerentlastung nach § 55 des
 Energiesteuergesetzes damit bis zum 31. Dezember 2012 gewährt wird.
-
 
 ## Schlussformel
 

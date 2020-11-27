@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 167 V v. 31.10.2006 I 2407
 
-
 ## § 1 Abwicklung des Ausgleichsfonds
 
 (1) Der Ausgleichsfonds zur Sicherung des Steinkohleneinsatzes nach
@@ -68,7 +67,6 @@ eintretende Erlöskorrekturen bleiben abgaberechtlich ohne
 Auswirkungen. Dies gilt nicht, wenn die verspätete Anzeige einer sich
 ergebenden Nachzahlung vom Abgabeschuldner zu vertreten ist.
 
-
 ## § 2 Verwaltung des Ausgleichsfonds
 
 (1) Der Ausgleichsfonds ist ein Sondervermögen im Sinne des Artikels
@@ -91,7 +89,6 @@ Zahlungen aus dem Bundeshaushalt geleistet.
 (4) Der Ausgleichsfonds ist nicht rechtsfähig. Er kann unter seinem
 Namen im rechtsgeschäftlichen Verkehr handeln, klagen und verklagt
 werden.
-
 
 ## § 3 Auflösung des Ausgleichsfonds
 

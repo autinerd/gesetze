@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 5 V v. 8.5.2008 I 797
 
-
 ## Eingangsformel
 
 Der Bundesminister für Jugend, Familie, Frauen und Gesundheit
@@ -31,7 +30,6 @@ und Forsten und für Wirtschaft sowie
 auf Grund des Artikels 4 Abs. 1 Nr. 8 und 9 und Abs. 2 des Gesetzes
 zur Gesamtreform des Lebensmittelrechts vom 15. August 1974 (BGBl. I
 S. 1945) auch im Einvernehmen mit dem Bundesminister der Finanzen:
-
 
 ## § 1 Schutz der Bezeichnung Bier
 
@@ -57,11 +55,9 @@ Lebensmittel- und Futtermittelgesetzbuch getroffen worden ist.
 (3) Ein Getränk, bei dem die Gärung unterbrochen ist, gilt ebenfalls
 als gegoren.
 
-
 ## § 2
 
 -
-
 
 ## § 3 Kenntlichmachung der Biergattungen
 
@@ -79,11 +75,9 @@ beträgt.
 
 (3)
 
-
 ## § 4
 
 (weggefallen)
-
 
 ## § 5 Straftaten und Ordnungswidrigkeiten
 
@@ -105,16 +99,13 @@ gewerbsmäßig in den Verkehr bringt.
 handelt nach § 60 Abs. 1 des Lebensmittel- und
 Futtermittelgesetzbuches ordnungswidrig.
 
-
 ## § 6 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
 ## § 7
 
 -
-
 
 ## Schlußformel
 

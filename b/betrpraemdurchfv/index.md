@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 Abs. 103 G v. 22.12.2011 I 3044
 
-
 ## Abschnitt 1 - Allgemeine Vorschriften
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -32,7 +29,6 @@ Die Vorschriften dieser Verordnung gelten für die Durchführung der
 Rechtsakte der Europäischen Gemeinschaften oder der Europäischen Union
 über die Betriebsprämienregelung und des
 Betriebsprämiendurchführungsgesetzes.
-
 
 ### § 2 Regionaler Durchschnitt
 
@@ -46,7 +42,6 @@ sowie zur Aufhebung der Verordnung (EG) Nr. 1782/2003 (ABl. L 30 vom
 Durchschnitt des Werts der Zahlungsansprüche der jeweiligen Region
 gleich dem regionalen Zielwert nach § 6 Absatz 1 des
 Betriebsprämiendurchführungsgesetzes.
-
 
 ### § 3 Verfügbarkeit der beihilfefähigen Fläche, landwirtschaftliche Mindesttätigkeit
 
@@ -72,7 +67,6 @@ Stichtagen 3. Mai und 15. August des jeweiligen Antragsjahres anhand
 seines Bestandsregisters nach Maßgabe der InVeKoS-Verordnung
 nachzuweisen.
 
-
 ### § 3a Niederwald mit Kurzumtrieb
 
 Die Liste der für Niederwald mit Kurzumtrieb bei der Betriebsprämie
@@ -80,30 +74,17 @@ geeigneten Arten und deren maximale Erntezyklen wird von der
 Bundesanstalt für Landwirtschaft und Ernährung im Bundesanzeiger
 bekannt gemacht.
 
-
 ### § 3b (weggefallen)
-
-
 
 ## Abschnitt 2 - (weggefallen)
 
-
-
 ### (XXXX) §§ 4 bis 9a (weggefallen)
-
-
 
 ## Abschnitt 3 - (weggefallen)
 
-
-
 ### (XXXX) §§ 10 und 11 (weggefallen)
 
-
-
 ## Abschnitt 4 - Härtefälle, Betriebsinhaber in besonderer Lage, Neueinsteiger
-
-
 
 ### § 12 Flächenbezogene Beträge für Dauergrünland und sonstige beihilfefähige Flächen
 
@@ -125,10 +106,7 @@ Rechtsverordnung nach § 5 Abs. 3 Satz 2 des
 Betriebsprämiendurchführungsgesetzes für sonstige beihilfefähige
 Flächen angewendet wurde.
 
-
 ### § 13 (weggefallen)
-
-
 
 ### § 14 Übertragung verpachteter Flächen im Falle des Artikels 20 der Verordnung (EG) Nr. 1120/2009
 
@@ -316,10 +294,7 @@ Betriebsprämiendurchführungsgesetzes.
 
 (9) (weggefallen)
 
-
 ### § 15 (weggefallen)
-
-
 
 ### § 16 Pacht oder Kauf eines Betriebes oder Betriebsteiles im Falle des Artikels 22 der Verordnung (EG) Nr. 1120/2009
 
@@ -424,29 +399,15 @@ Betriebsprämiendurchführungsgesetzes ergebenden Betrages ermittelt.
     Landpachtverkehrsgesetzes bis spätestens zum 15. Juni 2004 durch
     inhaltliche Mitteilung des Pachtvertrages angezeigt worden sind.
 
-
-
-
-
 ### (XXXX) §§ 17 und 18 (weggefallen)
-
-
 
 ## Abschnitt 4a - (weggefallen)
 
-
-
 ### (XXXX) §§ 18a bis 18c (weggefallen)
-
-
 
 ## Abschnitt 5 - Schlussbestimmungen
 
-
-
 ### § 19 (weggefallen)
-
-
 
 ### § 20 Zuständige Verwaltungsbehörde
 
@@ -457,7 +418,6 @@ Marktorganisationsgesetz und diese Verordnung von den Ländern
 durchgeführt werden, vorbehaltlich einer Regelung nach § 38 Absatz 3
 Satz 4 des Marktorganisationsgesetzes die zuständige oberste
 Landesbehörde.
-
 
 ### § 21 Übergangsregelung
 
@@ -474,10 +434,7 @@ geänderten Vorschriften dieser Verordnung sind
 
 in der am 10. Mai 2010 geltenden Fassung weiter anzuwenden.
 
-
 ### § 22 (Inkrafttreten)
-
-
 
 ### (XXXX) Anlage 1 bis 3 (weggefallen)
 

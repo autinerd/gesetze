@@ -18,27 +18,22 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 9 G v. 22.4.2005 I 1106
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## (XXXX) Art 1 bis Art 7 (weggefallen)
 
 -
-
 
 ## Art 8
 
 -
 
-
 ## Art 9
 
 -
-
 
 ## Art 10 Wegfall der Dynamisierung von Stellenzulagen
 
@@ -46,11 +41,9 @@ Stellenzulagen werden bei allgemeinen Anpassungen der Besoldung nicht
 erhöht, soweit sie nicht als das Grundgehalt ergänzend ausgewiesen
 sind.
 
-
 ## (XXXX) Art 11 bis Art 17 (weggefallen)
 
 -
-
 
 ## Art 18 Regelungen für den mittleren Dienst bei Justizvollzugsanstalten
 
@@ -61,11 +54,9 @@ Dienst bei den Justizvollzugsanstalten abweichend von § 26 des
 Bundesbesoldungsgesetzes und den dazu erlassenen Rechtsverordnungen
 zur sachgerechten Bewertung der Funktionen festzusetzen.
 
-
 ## Art 19
 
 -
-
 
 ## Art 20 Übergangsvorschriften
 
@@ -91,7 +82,6 @@ Unfällen im Sinne des § 63a Abs. 4 und des § 63d in Verbindung mit §
 63a Abs. 4 des Soldatenversorgungsgesetzes um fünfzig vom Hundert
 erhöht.
 
-
 ## Art 21 Neubekanntmachungserlaubnisse
 
 (1) Das Bundesministerium des Innern kann den Wortlaut des
@@ -112,19 +102,16 @@ Bundesgesetzblatt bekanntmachen.
 Richtergesetzes in der vom Inkrafttreten dieses Gesetzes an geltenden
 Fassung im Bundesgesetzblatt bekanntmachen.
 
-
 ## Art 22 Rückkehr zum einheitlichen Verordnungsrang
 
 Die auf Artikel 15, 16, 17 und 19 Abs. 6 beruhenden Teile der dort
 geänderten Rechtsverordnungen können auf Grund der jeweils
 einschlägigen Ermächtigung durch Rechtsverordnung geändert werden.
 
-
 ## Art 23 Umsetzungspflicht
 
 Die Verpflichtung der Länder aus Artikel 75 Abs. 3 des Grundgesetzes
 ist bis zum 1. Januar 2000 zu erfüllen.
-
 
 ## Art 24 Inkrafttreten
 

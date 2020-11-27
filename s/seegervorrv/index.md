@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1996, 2517
 
-
-
 ## Eingangsformel
 
 Auf Grund des Artikels 3 Nr. 1 Buchstabe b und Nr. 2 des Gesetzes vom
@@ -27,7 +25,6 @@ von Vorrechten und Befreiungen an andere zwischenstaatliche
 Organisationen (BGBl. 1954 II S. 639), der durch Artikel 4 des
 Gesetzes vom 16. August 1980 (BGBl. 1980 II S. 941) neu gefaßt worden
 ist, verordnet die Bundesregierung:
-
 
 ## Art 1
 
@@ -56,7 +53,6 @@ Internationalen Seegerichtshofs oder einem System, dem sich der
 Internationale Seegerichtshof angeschlossen hat, angehören, das
 ausreichende Leistungen vorsieht.
 
-
 ## Art 2
 
 (1) Diese Verordnung tritt am Tage nach der Verkündung mit Wirkung vom
@@ -71,7 +67,6 @@ tritt.
 
 (3) Der Tag des Außerkrafttretens der Verordnung ist im
 Bundesgesetzblatt bekanntzugeben.
-
 
 ## Schlußformel
 

@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Bek. v. 12. 7.2005 I 2512 iVm Bek. v. 18.10.2005 I 3007
 
-
 ## § 1 Anzeigepflicht
 
 (1) Ein Mitglied des Bundestages ist verpflichtet, dem Präsidenten aus
@@ -117,7 +116,6 @@ drei Monaten nach Erwerb der Mitgliedschaft im Deutschen Bundestag
 sowie nach Eintritt von Änderungen oder Ergänzungen während der
 Wahlperiode dem Präsidenten einzureichen.
 
-
 ## § 2 Rechtsanwälte
 
 (1) Mitglieder des Bundestages, die gegen Entgelt gerichtlich oder
@@ -136,7 +134,6 @@ außergerichtlichem Auftreten insbesondere für oder gegen
 bundesunmittelbare Körperschaften, Anstalten oder Stiftungen des
 öffentlichen Rechts.
 
-
 ## § 3 Veröffentlichung
 
 Die Angaben gemäß § 1 Abs. 1 Nr. 1 und Abs. 2 Nr. 1 bis 6 werden im
@@ -152,7 +149,6 @@ solche gekennzeichnet. Werden innerhalb eines Kalenderjahres
 unregelmäßige Einkünfte zu einer Tätigkeit angezeigt, wird die
 Jahressumme gebildet und die Einkommensstufe mit der Jahreszahl
 veröffentlicht.
-
 
 ## § 4 Spenden
 
@@ -198,12 +194,10 @@ b)  Geldwerte Zuwendungen, die ein Mitglied des Bundestages als
 Verwendung angezeigter Gastgeschenke und rechtswidrig angenommener
 Spenden.
 
-
 ## § 5 Hinweise auf Mitgliedschaft
 
 Hinweise auf die Mitgliedschaft im Bundestag in beruflichen oder
 geschäftlichen Angelegenheiten sind unzulässig.
-
 
 ## § 6 Interessenverknüpfung im Ausschuß
 
@@ -213,13 +207,11 @@ ansteht, hat als Mitglied dieses Ausschusses vor der Beratung eine
 Interessenverknüpfung offenzulegen, soweit sie nicht aus den gemäß § 3
 veröffentlichten Angaben ersichtlich ist.
 
-
 ## § 7 Rückfrage
 
 In Zweifelsfragen ist das Mitglied des Bundestages verpflichtet, sich
 durch Rückfragen beim Präsidenten über den Inhalt seiner Pflichten
 nach diesen Verhaltensregeln zu vergewissern.
-
 
 ## § 8 Verfahren
 
@@ -288,7 +280,6 @@ weiterer Sanktionen nach § 44a des Abgeordnetengesetzes als Drucksache
 veröffentlicht. Die Feststellung, dass eine Verletzung nicht vorliegt,
 wird auf Wunsch des Mitglieds des Bundestages veröffentlicht. Absatz 3
 gilt entsprechend.
-
 
 ## § 9
 

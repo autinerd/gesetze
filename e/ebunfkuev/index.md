@@ -18,13 +18,11 @@ Fundstelle
 Geändert durch
 :   Bek. v. 20.2.1995 I 264
 
-
 ## Eingangsformel
 
 Auf Grund des Artikels 7 § 1 Abs. 1 des Eisenbahnneuordnungsgesetzes
 vom 27. Dezember 1993 (BGBl. I S. 2378) verordnet das
 Bundesministerium für Verkehr:
-
 
 ## § 1 Zeitpunkt des Übergangs, vorläufiger Sitz
 
@@ -36,11 +34,9 @@ Unfallversicherung wahrgenommen wurden.
 
 (2)
 
-
 ## § 2
 
 -
-
 
 ## § 3 Kostenerstattung für übergegangene Entschädigungsansprüche
 
@@ -54,11 +50,9 @@ oder Deutschen Reichsbahn standen.
 (2) Innerhalb der Umlagegruppen II und III (§ 2 Abs. 2 Nr. 2 und 3)
 werden die in Absatz 1 genannten Kosten durch die Beiträge gedeckt.
 
-
 ## § 4
 
 -
-
 
 ## § 5 Inkrafttreten, Außerkrafttreten vorläufiger Regelungen
 

@@ -19,13 +19,11 @@ Fundstelle
 Geändert durch
 :   Art. 15 Abs. 40 G v. 5.2.2009 I 160
 
-
 ## Eingangsformel
 
 Auf Grund des § 72a Abs. 2 Satz 1 des Bundesbesoldungsgesetzes in der
 Fassung der Bekanntmachung vom 6. August 2002 (BGBl. I S. 3020)
 verordnet die Bundesregierung:
-
 
 ## § 1 Gewährung eines Zuschlags bei begrenzter Dienstfähigkeit
 
@@ -35,7 +33,6 @@ mindestens 20 Prozent verkürzt wird, erhalten einen Zuschlag zu den
 laufenden Dienstbezügen nach § 72a Abs. 1 des
 Bundesbesoldungsgesetzes. Satz 1 gilt entsprechend bei einer erneuten
 Berufung in ein Beamtenverhältnis.
-
 
 ## § 2 Höhe und Berechnung des Zuschlags
 
@@ -81,17 +78,12 @@ Satz 1 Buchstabe a.
     2764), zuletzt geändert durch Artikel 350 der Verordnung vom 31.
     Oktober 2006 (BGBl. I S. 2407).
 
-
-
-
-
 ## § 3 Ausschluss des Zuschlags
 
 Der Zuschlag wird nicht neben einem Zuschlag aufgrund der
 Altersteilzeitzuschlagsverordnung in der Fassung der Bekanntmachung
 vom 23. August 2001 (BGBl. I S. 2239), zuletzt geändert durch Artikel
 9 des Gesetzes vom 10. September 2003 (BGBl. I S. 1798), gezahlt.
-
 
 ## § 4 Übergangsregelung
 
@@ -102,7 +94,6 @@ nicht bestandskräftig entschieden worden ist, erhalten ab dem 1.
 Januar des Jahres, in dem der Antrag gestellt wurde, längstens ab dem
 Tag, an dem ihre Arbeitszeit wegen begrenzter Dienstfähigkeit verkürzt
 wurde, einen Zuschlag nach den §§ 1 bis 3.
-
 
 ## § 5 Inkrafttreten
 

@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1959, 335
 
-
-
 ## § 1 Geltung des Ersten Überleitungsgesetzes im Saarland
 
 Das Erste Gesetz zur Überleitung von Lasten und Deckungsmitteln auf
@@ -198,7 +196,6 @@ Minderung der in Absatz 1 bezeichneten Aufwendungen, sind die
 Pauschbeträge durch Rechtsverordnung der Bundesregierung, die der
 Zustimmung des Bundesrates bedarf, dieser Änderung anzupassen."
 
-
 ## § 2 Geltung des Zweiten Überleitungsgesetzes im Saarland
 
 (1) Von dem Zweiten Gesetz zur Überleitung von Lasten und
@@ -217,7 +214,6 @@ Wirkung vom 1. Januar 1960 an vom Saarland zu tragen.
 Beamten der früheren staatlichen Bergbetriebsverwaltung im Saarland ab
 1\. Januar 1960.
 
-
 ## § 3 Aufwendungen für ehemalige Kriegsgefangene und Heimkehrer
 
 Der Bund übernimmt mit Wirkung vom 1. Januar 1960 die Aufwendungen auf
@@ -231,7 +227,6 @@ saarländischen Gesetzes zur Einführung des Gesetzes über
 Arbeitsvermittlung und Arbeitslosenversicherung im Saarland vom 18.
 Juni 1958 (Amtsblatt des Saarlandes S. 1249), soweit sie nicht im
 Rahmen der Kriegsfolgenhilfe abgegolten werden.
-
 
 ## § 4 Einnahmen aus Finanzmonopolen und Steuern
 
@@ -267,7 +262,6 @@ erhoben werden:
 Deutschland und der französischen Republik zur Regelung der Saarfrage
 vom 22. Dezember 1956 (Bundesgesetzbl. II S. 1587) bleibt unberührt.
 
-
 ## § 5 Sonstige Einnahmen und Ausgaben
 
 (1) Die Regelung des § 10 Nr. 1 des Gesetzes über die Eingliederung
@@ -282,7 +276,6 @@ Grund des Truppen- oder Finanzvertrages gelten ab Ende der
 (2) Soweit das Saarland auf Grund anderer Gesetze verpflichtet ist,
 bestimmte Lasten bis zum Ende der Übergangszeit nach Artikel 3 des
 Saarvertrages zu tragen, gilt Absatz 1 entsprechend.
-
 
 ## § 6 Entschädigungslast nach dem Bundesentschädigungsgesetz
 
@@ -302,7 +295,6 @@ mit Wirkung vom 1. Januar 1961 in Kraft; mit Wirkung von diesem
 Zeitpunkt an wird in § 172 Abs. 1 hinter dem Wort "Rheinland-Pfalz"
 das Wort "Saarland" eingefügt.
 
-
 ## § 7 Versorgungslasten nach Artikel 3 der Anlage 1 zum Saarvertrag
 
 Der Bund erstattet dem Saarland mit Wirkung vom 1. Januar 1960 an die
@@ -313,7 +305,6 @@ bis zum Ende des Monats, in dem sie sterben; das gilt auch für die
 entsprechenden Versorgungsbezüge der auf Antrag ausgeschiedenen, unter
 Artikel 3 Abs. 3 der Anlage 1 zum Saarvertrag fallenden Angestellten
 und Arbeiter.
-
 
 ## § 8 Übergangsbestimmungen
 
@@ -364,7 +355,6 @@ Saarland abgewickelt. Einnahmen der Regie, die nach ihrer Aufhebung
 fällig werden, stehen dem Saarland zu. Ausgaben, die zur Abwicklung
 von Verpflichtungen der Regie zu leisten sind, trägt das Saarland.
 
-
 ## § 9 Finanzausgleich
 
 (1) Für die Zeit vom Ablauf der Übergangszeit nach Artikel 3 des
@@ -385,7 +375,6 @@ Rechnungsjahr 1958 an (Länderfinanzausgleichsgesetz 1958) vom 5. März
 1959 (Bundesgesetzbl. I S. 73) ist erstmals für das Rechnungsjahr 1961
 auf das Saarland anzuwenden.
 
-
 ## § 10 Geltung von Vorschriften des Dritten und Vierten Überleitungsgesetzes im Saarland
 
 § 1 Abs. 1 des Gesetzes über die Stellung des Landes Berlin im
@@ -396,7 +385,6 @@ finanzieller Beziehungen zwischen dem Bund und den Ländern (Viertes
 treten im Saarland mit dem Ablauf der Übergangszeit nach Artikel 3 des
 Saarvertrages in Kraft.
 
-
 ## § 11 Auskunftspflicht
 
 Die zuständigen Behörden des Bundes und des Saarlandes sind
@@ -405,7 +393,6 @@ erforderlichen Auskünfte zu erteilen und auf Verlangen die sachliche
 Richtigkeit der Auskünfte von der obersten Rechnungsprüfungsbehörde
 bestätigen zu lassen.
 
-
 ## § 12 Geltung in Berlin
 
 Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 und des § 13 Abs. 1
@@ -413,7 +400,6 @@ des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I
 S. 1) auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses
 Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 Überleitungsgesetzes.
-
 
 ## § 13 Inkrafttreten
 

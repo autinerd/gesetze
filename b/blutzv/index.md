@@ -20,7 +20,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 26.6.1995 I 854
 
-
 ## § 1
 
 Die Vorschriften über die staatliche Chargenprüfung werden auf
@@ -28,14 +27,12 @@ Blutzubereitungen ausgedehnt, die aus Mischungen von humanem
 Blutplasma hergestellt werden und die Blutbestandteile als arzneilich
 wirksame Bestandteile enthalten.
 
-
 ## § 2
 
 Die zuständige Bundesoberbehörde hat eine Entscheidung über die
 Freigabe der Charge innerhalb einer Frist von zwei Monaten nach
 Eingang der zu prüfenden Chargenprobe zu treffen. § 27 Abs. 2 des
 Arzneimittelgesetzes findet entsprechende Anwendung.
-
 
 ## § 3
 
@@ -48,7 +45,6 @@ Kontrollmethoden, die dem jeweiligen Stand der wissenschaftlichen
 Erkenntnisse entsprechen, hergestellt und geprüft worden ist und daß
 sie die erforderliche Qualität, Wirksamkeit und Unbedenklichkeit
 aufweist.
-
 
 ## § 4
 

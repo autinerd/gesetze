@@ -16,17 +16,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 954
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## (XXXX) Art 1 u. 2
-
-
 
 ## Art 3 Übergangsvorschrift
 
@@ -37,7 +32,6 @@ Inkrafttreten dieses Gesetzes nicht geändert werden, ist auf diese
 Bußgeldvorschriften § 8 Abs. 1 Nr. 1 und 2 sowie Abs. 2 des
 Fahrpersonalgesetzes in der bis zum 19. Mai 2004 geltenden Fassung
 weiter anzuwenden.
-
 
 ## Art 4 Inkrafttreten
 

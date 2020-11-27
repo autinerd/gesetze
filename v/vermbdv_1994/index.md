@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 14 G v. 20.12.2008 I 2850
 
-
 ## Eingangsformel
 
 Auf Grund des § 14 Abs. 5 und des § 15 Abs. 2 des Fünften
@@ -29,7 +28,6 @@ des § 156 Abs. 1 der Abgabenordnung vom 16. März 1976 (BGBl. I S.
 S. 2310) geändert worden ist, verordnet das Bundesministerium der
 Finanzen:
 
-
 ## § 1 Verfahren
 
 Auf das Verfahren bei der Festsetzung, Auszahlung und Rückzahlung der
@@ -37,7 +35,6 @@ Arbeitnehmer-Sparzulage sind neben den in § 14 Abs. 2 des Gesetzes
 bezeichneten Vorschriften die für die Einkommensteuer und Lohnsteuer
 geltenden Regelungen sinngemäß anzuwenden, soweit sich aus den
 nachstehenden Vorschriften nichts anderes ergibt.
-
 
 ## § 2 Mitteilungspflichten des Arbeitgebers, des Kreditinstituts oder des Unternehmens
 
@@ -114,7 +111,6 @@ Wertpapiere vor Ablauf der Sperrfrist verfügt worden ist, hat dies das
 Kreditinstitut oder die Kapitalanlagegesellschaft dem Arbeitgeber
 unverzüglich mitzuteilen.
 
-
 ## § 3 Aufzeichnungspflichten des Beteiligungsunternehmens
 
 (1) Das Unternehmen, an dem eine nichtverbriefte Vermögensbeteiligung
@@ -132,7 +128,6 @@ Vermögensbeteiligung im Sinne des § 2 Abs. 1 Nr. 1 Buchstabe g bis l
 des Gesetzes auf Grund eines Vertrags im Sinne des § 6 Abs. 1 oder des
 § 7 Abs. 1 des Gesetzes mit vermögenswirksamen Leistungen begründet
 oder erworben wird.
-
 
 ## § 4 Festlegung von Wertpapieren
 
@@ -202,7 +197,6 @@ Bescheinigung des Kreditinstituts oder der Kapitalanlagegesellschaft
 darüber vorzulegen, daß die Wertpapiere entsprechend Absatz 1 in
 Verwahrung genommen worden sind.
 
-
 ## § 5 Bescheinigung vermögenswirksamer Leistungen
 
 (1) Die Bescheinigung nach § 15 Abs. 1 des Gesetzes ist nach amtlich
@@ -257,7 +251,6 @@ Leistungen, die nach § 2 Abs. 1 Nr. 1 oder 4 des Gesetzes oder nach §
 Januar 1989 geltenden Fassung (BGBl. I S. 137) bei Kreditinstituten,
 Kapitalanlagegesellschaften oder Versicherungsunternehmen angelegt
 worden sind, darf eine Bescheinigung nicht erteilt werden.
-
 
 ## § 6 Festsetzung der Arbeitnehmer-Sparzulage, Mitteilungspflichten der Finanzämter
 
@@ -327,7 +320,6 @@ zurückgezahlt:
 Maßgebend sind die bis zum Ablauf des Kalenderjahres, das dem
 Kalenderjahr der Veräußerung vorangeht, angelegten Beträge.
 
-
 ## § 7 Auszahlung der Arbeitnehmer-Sparzulage
 
 (1) Die festgesetzte Arbeitnehmer-Sparzulage ist vom Finanzamt an den
@@ -372,7 +364,6 @@ in den Fällen des § 14 Abs. 4 Satz 4 Buchstabe c und d des Gesetzes
 bis zum Ende des Kalendermonats vorzunehmen, der auf den Kalendermonat
 folgt, in dem die Zuteilung oder die unschädliche vorzeitige Verfügung
 angezeigt worden ist.
-
 
 ## § 8 Anzeigepflichten des Kreditinstituts, des Unternehmens oder des Arbeitgebers
 
@@ -491,7 +482,6 @@ Anzeigen um ihre Aufzeichnungen zu ergänzen und zur Auswertung dem
 Finanzamt zu übermitteln, das nach Kenntnis der Zentralstelle zuletzt
 eine Arbeitnehmer-Sparzulage für den Arbeitnehmer festgesetzt hat.
 
-
 ## § 9 Rückforderung der Arbeitnehmer-Sparzulage durch das Finanzamt
 
 Das für die Besteuerung des Arbeitnehmers nach dem Einkommen
@@ -500,14 +490,12 @@ gezahlte Arbeitnehmer-Sparzulage vom Arbeitnehmer zurückzufordern. Die
 Rückforderung unterbleibt, wenn der zurückzufordernde Betrag fünf Euro
 nicht übersteigt.
 
-
 ## § 10 Anwendungszeitraum
 
 § 8 dieser Verordnung ist auf vermögenswirksame Leistungen, über die
 nach dem 31. Dezember 1994 vorzeitig verfügt worden ist, anzuwenden.
 Im übrigen ist diese Verordnung auf vermögenswirksame Leistungen, die
 nach dem 31. Dezember 1993 angelegt werden, anzuwenden.
-
 
 ## § 11 Inkrafttreten, weiter anzuwendende Vorschriften
 
@@ -525,7 +513,6 @@ vorzeitig verfügt worden ist, weiter anzuwenden. Im übrigen ist die
 Verordnung zur Durchführung des Fünften Vermögensbildungsgesetzes vom
 4\. Dezember 1991 auf vermögenswirksame Leistungen, die nach dem 31.
 Dezember 1993 angelegt worden sind, nicht mehr anzuwenden.
-
 
 ## Schlußformel
 

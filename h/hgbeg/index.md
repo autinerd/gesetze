@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 G v. 20.12.2012 I 2751
 
-
 ## Erster Abschnitt - Einführung des Handelsgesetzbuchs
-
-
 
 ### Art 1
 
@@ -33,7 +30,6 @@ tritt mit Ausnahme des § 65 am 1. Januar 1898 in Kraft.
 
 (3)
 
-
 ### Art 2
 
 (1) In Handelssachen kommen die Vorschriften des Bürgerlichen
@@ -42,11 +38,9 @@ oder in diesem Gesetz ein anderes bestimmt ist.
 
 (2) (weggefallen)
 
-
 ### Art 3
 
 -
-
 
 ### Art 4
 
@@ -64,13 +58,11 @@ Hauptniederlassung.
 (2) Wird die Niederlassung verlegt, so finden die Vorschriften des §
 1559 des Bürgerlichen Gesetzbuchs entsprechende Anwendung.
 
-
 ### Art 5
 
 Auf Bergwerksgesellschaften, die nach den Vorschriften der
 Landesgesetze nicht die Rechte einer juristischen Person besitzen,
 findet § 1 des Handelsgesetzbuchs keine Anwendung.
-
 
 ### Art 6
 
@@ -125,7 +117,6 @@ Deutschland außer Kraft tritt. Der Tag, an dem die in Satz 1 genannten
 Vorschriften außer Kraft treten, ist im Bundesgesetzblatt
 bekanntzugeben.
 
-
 ### Art 7
 
 (1) Folgende Vorschriften des Handelsgesetzbuchs finden auch
@@ -166,7 +157,6 @@ des Übereinkommens für die Bundesrepublik Deutschland kann nach den
 bis zu dem Zeitpunkt des jeweiligen Vorfalls geltenden Bestimmungen
 beschränkt werden.
 
-
 ### Art 8
 
 (1) Die §§ 740 bis 746, 748 bis 750, 753, 753a, 902 Nr. 3 in
@@ -190,10 +180,7 @@ unterliegt auch der Anspruch des Bergers auf Zinsen deutschem Recht.
 Verpflichtungen zwischen den Parteien das Recht des Staates maßgebend,
 in dem sich die Behörde befindet.
 
-
 ### (XXXX) Art 9 bis 14
-
-
 
 ### Art 15
 
@@ -204,16 +191,13 @@ Handelsgesetzbuch auf die Landesgesetze verwiesen ist.
 (2) Soweit die Landesgesetze unberührt bleiben, können auch neue
 landesgesetzliche Vorschriften erlassen werden.
 
-
 ### Art 16
 
 -
 
-
 ### Art 17
 
 -
-
 
 ### Art 18
 
@@ -222,9 +206,7 @@ zwischen dem Brauer und dem Wirt über die Lieferung von Bier, soweit
 sie das aus dem Vertrag sich ergebende Schuldverhältnis für den Fall
 regeln, daß nicht besondere Vereinbarungen getroffen werden.
 
-
 ### (XXXX) Art 19 bis 21 (weggefallen)
-
 
 ### Art 22
 
@@ -234,10 +216,7 @@ soweit sie nach den bisherigen Vorschriften geführt werden durften.
 
 (2)
 
-
 ## Zweiter Abschnitt - Übergangsvorschriften zum Bilanzrichtlinien-Gesetz
-
-
 
 ### Art 23
 
@@ -295,7 +274,6 @@ beschränkter Haftung hinsichtlich der Anwendung des Gesetzes über die
 Rechnungslegung von bestimmten Unternehmen und Konzernen entsprechend
 anzuwenden.
 
-
 ### Art 24
 
 (1) Waren Vermögensgegenstände des Anlagevermögens im Jahresabschluß
@@ -337,7 +315,6 @@ entsprechend auf die Darstellung des Postens "Aufwendungen für die
 Ingangsetzung und Erweiterung des Geschäftsbetriebs" angewendet
 werden. Kapitalgesellschaften müssen die Anwendung der Sätze 1 und 2
 im Anhang angeben.
-
 
 ### Art 25
 
@@ -397,7 +374,6 @@ Buchs des Handelsgesetzbuchs verpflichtet, so ist der Prüfungsverband,
 dem das Unternehmen angehört, auch Abschlußprüfer des
 Konzernabschlusses.
 
-
 ### Art 26
 
 (1) Abschlußprüfer nach § 319 Abs. 1 Satz 1 des Handelsgesetzbuchs
@@ -414,7 +390,6 @@ im Aufsichtsrat des zu prüfenden Unternehmens außer Betracht, wenn sie
 spätestens mit der Beendigung der ersten Versammlung der Aktionäre
 oder Gesellschafter der zu prüfenden Gesellschaft, die nach
 Inkrafttreten des Bilanzrichtlinien-Gesetzes stattfindet, endet.
-
 
 ### Art 27
 
@@ -448,7 +423,6 @@ Ergebnisses, so kann der Unterschiedsbetrag in die Gewinnrücklagen
 eingestellt oder mit diesen offen verrechnet werden; dieser Betrag ist
 nicht Bestandteil des Jahresergebnisses.
 
-
 ### Art 28
 
 (1) Für eine laufende Pension oder eine Anwartschaft auf eine Pension
@@ -467,10 +441,7 @@ der Bilanz nicht ausgewiesenen Rückstellungen für laufende Pensionen,
 Anwartschaften auf Pensionen und ähnliche Verpflichtungen jeweils im
 Anhang und im Konzernanhang in einem Betrag angeben.
 
-
 ## Dritter Abschnitt - Übergangsvorschrift zum Gesetz zur Durchführung der EG-Richtlinie zur Koordinierung des Rechts der Handelsvertreter vom 23. Oktober 1989 (BGBl. I S. 1910)
-
-
 
 ### Art 29
 
@@ -480,7 +451,6 @@ begründet sind und an diesem Tag noch bestehen, sind die §§ 86, 86a,
 Dezember 1989 geltenden Fassung bis zum Ablauf des Jahres 1993
 weiterhin anzuwenden.
 
-
 ### Art 29a
 
 § 90a Abs. 2 und 3 des Handelsgesetzbuches in der ab dem 1. Juli 1998
@@ -488,10 +458,7 @@ geltenden Fassung ist auch auf Ansprüche aus vor dem 1. Juli 1998
 begründeten Handelsvertretervertragsverhältnissen anzuwenden, über die
 noch nicht rechtskräftig entschieden worden ist.
 
-
 ## Vierter Abschnitt - Übergangsvorschriften zum Bankbilanzrichtlinie-Gesetz
-
-
 
 ### Art 30
 
@@ -532,7 +499,6 @@ der am 1. Januar 1986 geltenden Fassung freiwillig angewendet, so gilt
 Satz 1 mit der Maßgabe, daß diese Vorschriften anzuwenden sind. Sind
 auf den Konzernabschluß Vorschriften über den Jahresabschluß
 anzuwenden, ist Absatz 3 entsprechend anzuwenden.
-
 
 ### Art 31
 
@@ -579,10 +545,7 @@ werden. Satz 1 darf entsprechend auf die Darstellung des Postens
 Geschäftsbetriebs" angewendet werden. Die Anwendung der Sätze 1 und 2
 ist im Anhang anzugeben.
 
-
 ## Fünfter Abschnitt - Übergangsvorschriften zum Versicherungsbilanzrichtlinie-Gesetz
-
-
 
 ### Art 32
 
@@ -633,7 +596,6 @@ anzuwenden. § 341b Abs. 2 des Handelsgesetzbuchs in der am 3. April
 Konzernabschluss für das vor dem 30. September 2001 endende
 Geschäftsjahr anzuwenden.
 
-
 ### Art 33
 
 (1) Waren wie Anlagevermögen behandelte Vermögensgegenstände im
@@ -662,10 +624,7 @@ worden ist.
 
 (5) (weggefallen)
 
-
 ## Sechster Abschnitt - Übergangsvorschriften zum Gesetz zur Durchführung der Elften gesellschaftsrechtlichen Richtlinie vom 22. Juli 1993
-
-
 
 ### Art 34
 
@@ -692,10 +651,7 @@ Zweigniederlassungen weitere inländische Zweigniederlassungen, so ist
 November 1993 geltenden Fassung sind erstmals auf das nach dem 31.
 Dezember 1992 beginnende Geschäftsjahr anzuwenden.
 
-
 ## Siebenter Abschnitt - Übergangsvorschriften zum Nachhaftungsbegrenzungsgesetz
-
-
 
 ### Art 35
 
@@ -717,7 +673,6 @@ Auf später fällig werdende Verbindlichkeiten im Sinne des Satzes 1 ist
 das bisher geltende Recht mit der Maßgabe anwendbar, daß die
 Verjährungsfrist ein Jahr beträgt.
 
-
 ### Art 36
 
 (1) Abweichend von Artikel 35 gilt § 160 Abs. 3 Satz 2 des
@@ -732,7 +687,6 @@ März 1994 als in das Handelsregister eingetragen gilt.
 Arbeitsentgelt, für die der Arbeitnehmer bei Zahlungsunfähigkeit der
 Gesellschaft keinen Anspruch auf Insolvenzgeld hat. Insoweit bleibt es
 bei dem bisher anwendbaren Recht.
-
 
 ### Art 37
 
@@ -765,9 +719,7 @@ Arbeitsentgelt, für die der Arbeitnehmer bei Zahlungsunfähigkeit der
 Gesellschaft keinen Anspruch auf Insolvenzgeld hat. Insoweit bleibt es
 bei dem bisher anwendbaren Recht.
 
-
 ## Achter Abschnitt - Übergangsvorschrift zum Handelsrechtsreformgesetz
-
 
 ### Art 38
 
@@ -777,14 +729,9 @@ Abs. 1 des Handelsgesetzbuchs in der ab dem 1. Juli 1998 geltenden
 Fassung vorgeschriebenen Bezeichnung zum Gegenstand, bedarf diese
 Änderung nicht der Anmeldung zur Eintragung in das Handelsregister.
 
-
 ### (XXXX) Art 39 bis 41 (weggefallen)
 
-
-
 ## Neunter Abschnitt - Übergangsvorschriften zur Einführung des Euro
-
-
 
 ### Art 42
 
@@ -825,7 +772,6 @@ ergebende Betrag in der Hauptspalte ausgewiesen wird. Statt des
 Ausweises in der Vorspalte darf das gezeichnete Kapital auch im Anhang
 angegeben werden.
 
-
 ### Art 43
 
 (1) Ausleihungen, Forderungen und Verbindlichkeiten, die auf
@@ -851,7 +797,6 @@ eingestellt werden, die sich aus der Aktivierung von
 Vermögensgegenständen aufgrund der unwiderruflichen Festlegung der
 Wechselkurse ergeben. Absatz 1 Satz 3 gilt entsprechend.
 
-
 ### Art 44
 
 (1) Die Aufwendungen für die Währungsumstellung auf den Euro dürfen
@@ -873,7 +818,6 @@ entsprechen.
 (2) Absatz 1 ist erstmals auf das nach dem 31. Dezember 1997 endende
 Geschäftsjahr anzuwenden.
 
-
 ### Art 45
 
 (1) Anmeldungen zur Eintragung in das Handelsregister, die nur die
@@ -894,10 +838,7 @@ zum Handelsregister ist die Hälfte des sich aus § 41a Abs. 1 Nr. 3
 oder 4 der Kostenordnung ergebenden Wertes als Geschäftswert zugrunde
 zu legen.
 
-
 ## Zehnter Abschnitt - Übergangsvorschriften zum Gesetz zur Kontrolle und Transparenz im Unternehmensbereich
-
-
 
 ### Art 46
 
@@ -919,10 +860,7 @@ Vorschriften nach Absatz 1 Satz 1 nicht freiwillig angewendet, so ist
 für das Geschäftsjahr die am 30. April 1998 geltende Fassung der
 geänderten Vorschriften anzuwenden.
 
-
 ## Elfter Abschnitt - Übergangsvorschriften zum Gesetz zur Verlängerung der steuerlichen und handelsrechtlichen Aufbewahrungsfristen
-
-
 
 ### Art 47
 
@@ -932,10 +870,7 @@ Unterlagen, deren Aufbewahrungsfrist nach § 257 Abs. 4 des
 Handelsgesetzbuchs in der bis zum 23. Dezember 1998 geltenden Fassung
 noch nicht abgelaufen ist.
 
-
 ## Zwölfter Abschnitt - Übergangsvorschriften zum Kapitalgesellschaften- und Co-Richtlinie-Gesetz
-
-
 
 ### Art 48
 
@@ -1006,10 +941,7 @@ Handelsgesetzbuchs haben bei Anwendung des Artikels 28 Abs. 1 die in
 Artikel 28 Abs. 2 vorgeschriebenen Angaben erstmals für das nach dem
 31\. Dezember 1999 beginnende Geschäftsjahr zu machen.
 
-
 ## Dreizehnter Abschnitt - Übergangsvorschrift zur Anpassung der Abgrenzungsmerkmale für größenabhängige Befreiungen bei der Aufteilung des Konzernabschlusses nach den §§ 290 bis 293 des Handelsgesetzbuchs
-
-
 
 ### Art 49
 
@@ -1047,16 +979,7 @@ enden, mit folgenden Maßgaben anzuwenden:
     c)  in Buchstabe c an die Stelle der Arbeitnehmerzahl "250" die
         Arbeitnehmerzahl "500".
 
-
-
-
-
-
-
-
 ## Vierzehnter Abschnitt - Übergangsvorschrift zum Gesetz zur Änderung von Vorschriften über die Tätigkeit der Wirtschaftsprüfer
-
-
 
 ### Art 50
 
@@ -1066,10 +989,7 @@ Aktiengesellschaft, die Aktien mit amtlicher Notierung ausgegeben hat,
 erstmals auf die Prüfung des Abschlusses für das nach dem 31. Dezember
 2002 beginnende Geschäftsjahr anzuwenden.
 
-
 ## Fünfzehnter Abschnitt - Übergangsvorschriften zum Euro-Bilanzgesetz
-
-
 
 ### Art 51
 
@@ -1098,10 +1018,7 @@ Dezember 2000 endet, bisher nicht erfolgt ist und das Unternehmen
 diesen Umstand nicht zu vertreten hat, können auf die Offenlegung die
 Vorschriften des Satzes 1 angewendet werden.
 
-
 ## Sechzehnter Abschnitt - Übergangsvorschrift zum Gesetz über elektronische Register und Justizkosten für Telekommunikation
-
-
 
 ### Art 52
 
@@ -1117,10 +1034,7 @@ zur Eintragung angemeldet und eingetragen werden. Das Registergericht
 kann die Eintragung einer dem gesetzlichen Regelfall entsprechenden
 Vertretungsmacht auch von Amts wegen vornehmen.
 
-
 ## Siebzehnter Abschnitt - Übergangsvorschriften zum Altfahrzeug-Gesetz
-
-
 
 ### Art 53
 
@@ -1144,10 +1058,7 @@ Bilanz unter der Bezeichnung "Ausgleichsbetrag nach dem Altfahrzeug-
 Gesetz" vor dem Anlagevermögen auszuweisen. Artikel 44 Abs. 1 Satz 4
 und 5 gilt entsprechend.
 
-
 ## Achtzehnter Abschnitt - Übergangsvorschriften zum Transparenz- und Publizitätsgesetz
-
-
 
 ### Art 54
 
@@ -1171,10 +1082,7 @@ Ergebnisses, so ist der Unterschiedsbetrag in die Gewinnrücklagen
 einzustellen oder offen mit diesen zu verrechnen; dieser Betrag ist
 nicht Bestandteil des Jahresergebnisses.
 
-
 ## Neunzehnter Abschnitt - Übergangsvorschriften zum Wirtschaftsprüfungsexamens-Reformgesetz
-
-
 
 ### Art 55
 
@@ -1191,10 +1099,7 @@ Abs. 5 des Handelsgesetzbuchs früher als die Verjährungsfrist nach §
 der in § 323 Abs. 5 des Handelsgesetzbuchs in der bis zum 31. Dezember
 2003 geltenden Fassung bestimmten Verjährungsfrist vollendet.
 
-
 ## Zwanzigster Abschnitt - Übergangsvorschriften zum Bilanzkontrollgesetz
-
-
 
 ### Art 56
 
@@ -1211,10 +1116,7 @@ Kosten zu berücksichtigen, die zur Errichtung der Prüfstelle
 erforderlich waren, auch wenn sie bereits vor Anerkennung der
 Prüfstelle entstanden sind.
 
-
 ## Einundzwanzigster Abschnitt - Übergangsvorschriften zur Verordnung (EG) Nr. 1606/2002 sowie zum Bilanzrechtsreformgesetz
-
-
 
 ### Art 57
 
@@ -1245,7 +1147,6 @@ das nach dem 31. Dezember 2006 beginnt. Drittstaat im Sinne des Satzes
 1 Nr. 2 ist ein Staat, der weder Mitgliedstaat der Europäischen Union
 noch Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
 ist.
-
 
 ### Art 58
 
@@ -1332,10 +1233,7 @@ Satz 2 weiterhin Anwendung findet, ist auch § 331 Nr. 3 des
 Handelsgesetzbuchs in der bis zum 9. Dezember 2004 geltenden Fassung
 weiter anzuwenden.
 
-
 ## Zweiundzwanzigster Abschnitt - Übergangsvorschriften zum Vorstandsvergütungs-Offenlegungsgesetz
-
-
 
 ### Art 59
 
@@ -1350,10 +1248,7 @@ Dezember 2005 beginnende Geschäftsjahr anzuwenden. Die in Satz 1
 genannten Bestimmungen sind auch auf Gesellschaften im Sinne des
 Artikels 57 Satz 1 Nr. 2 anzuwenden.
 
-
 ## Dreiundzwanzigster Abschnitt - Übergangsvorschriften zum Übernahmerichtlinie-Umsetzungsgesetz
-
-
 
 ### Art 60
 
@@ -1363,10 +1258,7 @@ Nr. 3 und 4 sowie § 341n Abs. 1 Nr. 3 und 4 in der Fassung des
 Konzernabschlüsse für das nach dem 31. Dezember 2005 beginnende
 Geschäftsjahr anzuwenden.
 
-
 ## Vierundzwanzigster Abschnitt - Übergangsvorschriften zum Gesetz über elektronische Handelsregister und Genossenschaftsregister sowie das Unternehmensregister
-
-
 
 ### Art 61
 
@@ -1482,10 +1374,7 @@ nicht.
 
 (8) (weggefallen)
 
-
 ## Fünfundzwanzigster Abschnitt - Übergangsvorschriften zum Transparenzrichtlinie-Umsetzungsgesetz
-
-
 
 ### Art 62
 
@@ -1499,10 +1388,7 @@ Halbjahresfinanzberichte sowie Zwischenabschlüsse und
 Konzernzwischenabschlüsse für das nach dem 31. Dezember 2006
 beginnende Geschäftsjahr anzuwenden.
 
-
 ## Sechsundzwanzigster Abschnitt - Übergangsvorschrift zum Gesetz zur Reform des Versicherungsvertragsrechts
-
-
 
 ### Art 63
 
@@ -1512,10 +1398,7 @@ Inkrafttreten des Versicherungsvertragsgesetzes vom 23. November 2007
 (BGBl. I S. 2631) am 1. Januar 2008 entstanden sind, bis zum 31.
 Dezember 2008 anzuwenden.
 
-
 ## Siebenundzwanzigster Abschnitt - Übergangsvorschrift zum Risikobegrenzungsgesetz
-
-
 
 ### Art 64
 
@@ -1523,10 +1406,7 @@ Dezember 2008 anzuwenden.
 geltenden Fassung nur auf Vereinbarungen anzuwenden, die nach 18.
 August 2008 geschlossen werden.
 
-
 ## Achtundzwanzigster Abschnitt - Übergangsvorschriften zum Gesetz zur Modernisierung des GmbH-Rechts und zur Bekämpfung von Missbräuchen
-
-
 
 ### Art 65
 
@@ -1565,10 +1445,7 @@ Weise bekannt gewordene inländische Anschrift von einer früher nach §
 Anschrift abweicht. Eintragungen nach den Sätzen 3 bis 5 werden
 abweichend von § 10 des Handelsgesetzbuchs nicht bekannt gemacht.
 
-
 ## Neunundzwanzigster Abschnitt - Übergangsvorschriften zum Bilanzrechtsmodernisierungsgesetz
-
-
 
 ### Art 66
 
@@ -1674,7 +1551,6 @@ Vermögensgegenstände des Anlagevermögens Anwendung, mit deren
 Entwicklung in Geschäftsjahren begonnen wird, die nach dem 31.
 Dezember 2009 beginnen.
 
-
 ### Art 67
 
 (1) Soweit auf Grund der geänderten Bewertung der laufenden Pensionen
@@ -1769,10 +1645,7 @@ Außerdem brauchen die Vorjahreszahlen bei erstmaliger Anwendung nicht
 angepasst zu werden; hierauf ist im Anhang und Konzernanhang
 hinzuweisen.
 
-
 ## Dreißigster Abschnitt - Übergangsvorschriften zum Gesetz zur Angemessenheit der Vorstandsvergütung
-
-
 
 ### Art 68
 
@@ -1788,9 +1661,7 @@ Absatz 2 Nummer 5, § 314 Absatz 1 Nummer 6, Absatz 2 und § 315 Absatz
 Konzernabschlüsse für das vor dem 1. Januar 2010 beginnende
 Geschäftsjahr anzuwenden.
 
-
 ## Einunddreißigster Abschnitt - Übergangsvorschrift zum Gesetz zur Umsetzung der geänderten Bankenrichtlinie und der geänderten Kapitaladäquanzrichtlinie
-
 
 ### Art 69
 
@@ -1804,10 +1675,7 @@ Geschäftsjahre anzuwenden.
 geltenden Fassung ist letztmals auf Jahres- und Konzernabschlüsse für
 vor dem 1. Januar 2011 beginnende Geschäftsjahre anzuwenden.
 
-
 ## Zweiunddreißigster Abschnitt - Übergangsvorschrift zum Kleinstkapitalgesellschaften-Bilanzrechtsänderungsgesetz
-
-
 
 ### Art 70
 

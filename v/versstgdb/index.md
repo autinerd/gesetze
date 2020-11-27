@@ -21,15 +21,11 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 11 G v. 10.8.2009 I 2702
 
-
 ## A. - Allgemeine Bestimmungen
-
-
 
 ### § 1 (weggefallen)
 
 -
-
 
 ### § 2 Anmeldungspflicht
 
@@ -56,16 +52,13 @@ Wochen dem Bundeszentralamt für Steuern anzuzeigen.
 Geschäftsstelle eines ausländischen Versicherers, der die Leitung des
 Geschäfts im Inland übertragen ist.
 
-
 ### § 3
 
 (weggefallen)
 
-
 ### § 4
 
 (aufgehoben)
-
 
 ### § 5 Ausnahme von der Besteuerung bei Viehversicherungen
 
@@ -76,18 +69,11 @@ Höchstbetrag der Ersatzpflicht des Versicherers gegenüber einem
 Versicherungsnehmer im Zeitpunkt der Zahlung des Versicherungsentgelts
 4\.000 Euro nicht übersteigt.
 
-
 ## B. - Besteuerungsverfahren
-
-
 
 ### I. - Entrichtung der Steuer durch den Versicherer
 
-
-
 #### (XXXX) §§ 6 bis 9 (weggefallen)
-
-
 
 #### § 10 Entrichtung der Steuer im Pauschverfahren
 
@@ -96,10 +82,7 @@ Feststellung der Unterlagen für die Steuerfestsetzung
 unverhältnismäßig schwierig sein würde, die Berechnung und Entrichtung
 der Steuer im Pauschverfahren zulassen.
 
-
 ### II. - Entrichtung der Steuer durch den Versicherungsnehmer
-
-
 
 #### § 11
 

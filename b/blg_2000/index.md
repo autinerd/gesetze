@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1999, 2534, 2544
 
-
-
 ## § 1 Beitrag in der Alterssicherung der Landwirte
 
 (1) Der Beitrag in der Alterssicherung der Landwirte beträgt für das
@@ -25,7 +23,6 @@ Kalenderjahr 2000 monatlich 342 Deutsche Mark.
 
 (2) Der Beitrag in der Alterssicherung der Landwirte beträgt für das
 Beitrittsgebiet für das Kalenderjahr 2000 monatlich 282 Deutsche Mark.
-
 
 ## § 2 Beitragszuschuss in der Alterssicherung der Landwirte
 

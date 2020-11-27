@@ -18,12 +18,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 G v. 25.6.2005 I 1860
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## § 1 Zweck
 
@@ -34,7 +32,6 @@ eine Bundesstatistik durchgeführt.
 die Ergebnisse für Zwecke der Gesetzgebung sowie der Planung in Bund,
 Ländern und Hochschulen im Rahmen der jeweiligen Zuständigkeiten
 Verwendung finden können.
-
 
 ## § 2 Erhebungsbereich
 
@@ -54,7 +51,6 @@ Die Erhebungen erstrecken sich auf:
 
 
 4\.
-
 
 ## § 3 Erhebungsmerkmale und Berichtszeit
 
@@ -183,10 +179,6 @@ Gesamtnote.
     20\.11.1996 I 1804 (StatÄndV) werden die Erhebungen nach Abs. 3 mWv
     27\.11.1996 bis zum 30.6.2000 ausgesetzt.
 
-
-
-
-
 ## § 4 Hilfsmerkmale
 
 (1) Hilfsmerkmale sind:
@@ -206,7 +198,6 @@ Gesamtnote.
 
 (2) § 12 Abs. 2 des Bundesstatistikgesetzes findet auf die
 Hilfsmerkmale nach Abs. 1 Nr. 2 keine Anwendung.
-
 
 ## § 5 Auskunftserteilung
 
@@ -234,7 +225,6 @@ der in § 2 Nr. 1 und 2 genannten Einrichtungen zu erteilen.
 
 (5)
 
-
 ## § 6 Veröffentlichung
 
 (1) Ergebnisse der Hochschulstatistik dürfen auf die einzelne
@@ -248,7 +238,6 @@ für die Regelung von Einzelfällen, vom Statistischen Bundesamt und den
 statistischen Ämtern der Länder Tabellen mit statistischen Ergebnissen
 übermittelt werden, auch soweit Tabellenfelder nur einen einzigen Fall
 ausweisen.
-
 
 ## § 7 Ausschuß für die Hochschulstatistik
 
@@ -306,13 +295,11 @@ auf Vorschlag der in Frage kommenden Einrichtungen berufen; das
 Bundesministerium für Bildung und Forschung bestimmt die
 vorschlagsberechtigten Einrichtungen.
 
-
 ## § 8 Übergangsvorschrift
 
 Für die Jahre 2004 und 2005 werden die Erhebungen nach § 3 Abs. 1 Nr.
 6 Buchstabe a nach der bis zum 31. Dezember 2004 geltenden Fassung
 dieser Vorschrift durchgeführt.
-
 
 ## § 9 Inkrafttreten
 

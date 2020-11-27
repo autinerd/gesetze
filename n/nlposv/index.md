@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 454
 
-
 ## Eingangsformel
 
 Auf Grund des § 30i Absatz 5 Satz 1 des Wertpapierhandelsgesetzes, der
@@ -29,9 +28,7 @@ Finanzdienstleistungsaufsicht, die zuletzt durch Artikel 1 der
 Verordnung vom 2. Januar 2012 (BGBl. I S. 35) geändert worden ist,
 verordnet die Bundesanstalt für Finanzdienstleistungsaufsicht:
 
-
 ## Abschnitt 1 - Anwendungsbereich und Berechnung der Netto-Leerverkaufsposition
-
 
 ### § 1 Anwendungsbereich
 
@@ -43,7 +40,6 @@ Wertpapierhandelsgesetzes.
 
 (2) Handelstage im Sinne dieser Verordnung sind die Handelstage gemäß
 § 30 des Wertpapierhandelsgesetzes.
-
 
 ### § 2 Berechnung der Netto-Leerverkaufsposition
 
@@ -76,9 +72,7 @@ maßgeblich. Soweit nur mit Stimmrechten verbundene Aktien ausgegeben
 wurden, kann zur Bestimmung dieser Anzahl die letzte Veröffentlichung
 nach § 26a des Wertpapierhandelsgesetzes herangezogen werden.
 
-
 ## Abschnitt 2 - Form und Inhalt der Mitteilungen
-
 
 ### § 3 Allgemeine Bestimmungen zur Mitteilungspflicht
 
@@ -93,7 +87,6 @@ bis 7 an die Bundesanstalt für Finanzdienstleistungsaufsicht
 dessen ausgegebenen Aktien eine Netto-Leerverkaufsposition besteht,
 nur eine Mitteilung je Handelstag abgeben. § 10 bleibt unberührt.
 
-
 ### § 4 Bezeichnung des Emittenten
 
 Das Unternehmen, in dessen ausgegebenen Aktien eine Netto-
@@ -106,7 +99,6 @@ zuerst an einer inländischen Börse zum Handel im regulierten Markt
 zugelassen wurden. Sind nur Vorzugsaktien zugelassen worden, ist die
 ISIN derjenigen Vorzugsaktien anzugeben, die zuerst an einer
 inländischen Börse zum Handel im regulierten Markt zugelassen wurden.
-
 
 ### § 5 Angaben zur Netto-Leerverkaufsposition
 
@@ -131,10 +123,6 @@ Leerverkaufsposition enthalten:
 
 5.  die Anzahl der durch den Emittenten ausgegebenen Aktien, die der
     Berechnung der Netto-Leerverkaufsposition zugrunde gelegt wurde.
-
-
-
-
 
 ### § 6 Angaben zur Person des Mitteilungspflichtigen
 
@@ -208,7 +196,6 @@ Satz 1 Nummer 1 bis 3 genannten Angaben ist der Bundesanstalt
 unverzüglich, spätestens im Anschluss an die nächste Mitteilung,
 schriftlich mitzuteilen.
 
-
 ### § 7 Benennung eines Ansprechpartners
 
 (1) Der Mitteilungspflichtige hat eine natürliche Person zu benennen,
@@ -257,9 +244,7 @@ Vollmachtsurkunde ist nach Maßgabe des § 9 Absatz 1 Satz 2 Nummer 4 zu
 Bundesanstalt mit der nächsten Mitteilung unverzüglich unter Nutzung
 des elektronischen Meldeverfahrens mitzuteilen.
 
-
 ## Abschnitt 3 - Übermittlung der Mitteilungen
-
 
 ### § 8 Art und Weise der Übermittlung
 
@@ -271,7 +256,6 @@ Nutzung eines der dort zur Verfügung gestellten Verfahren zu
 (2) Bei technischen Problemen hat die Mitteilung fristwahrend per Fax
 zu erfolgen. Die elektronische Mitteilung ist unverzüglich
 nachzuholen, sobald die technischen Schwierigkeiten behoben sind.
-
 
 ### § 9 Zulassung zur Teilnahme am elektronischen Meldeverfahren
 
@@ -321,7 +305,6 @@ die Mitteilung durch einen externen Dritten im Sinne des § 18 Absatz
 Mitteilungspflichtigen und dem Ansprechpartner dieses Dritten
 übermittelt.
 
-
 ### § 10 Fehlerhafte Mitteilungen
 
 Stellt der Mitteilungspflichtige oder sein Ansprechpartner einen
@@ -350,7 +333,6 @@ Wird die Mitteilung infolge der Stornierung erneut abgegeben, ist dies
 im gewählten Übermittlungsverfahren an der vorgegebenen Stelle
 entsprechend zu kennzeichnen.
 
-
 ### § 11 Dauer der Speicherung
 
 Wird der Bundesanstalt eine Veränderung einer zuvor mitgeteilten
@@ -358,9 +340,7 @@ Netto-Leerverkaufsposition übermittelt, hat sie die vorhergehende
 Mitteilung fünf Jahre nach Ablauf des Jahres, in welchem diese
 Veränderung übermittelt wurde, aus ihrer Datenbank zu löschen.
 
-
 ## Abschnitt 4 - Veröffentlichung im elektronischen Bundesanzeiger
-
 
 ### § 12 Allgemeine Bestimmungen zur Veröffentlichungspflicht
 
@@ -376,7 +356,6 @@ Bundesanzeigers nach Maßgabe des § 15 zu übermitteln.
 nur eine Veröffentlichung je Handelstag vornehmen. § 17 bleibt
 unberührt.
 
-
 ### § 13 Angaben zum Emittenten und zur Netto-Leerverkaufsposition
 
 (1) Der betroffene Emittent ist mit den Angaben nach § 4 zu
@@ -385,7 +364,6 @@ bezeichnen.
 (2) Zur Netto-Leerverkaufsposition sind die relevante Schwelle gemäß §
 30i Absatz 1 Satz 2 oder 3 des Wertpapierhandelsgesetzes sowie die
 Angaben gemäß § 5 Nummer 2 bis 5 zu übermitteln.
-
 
 ### § 14 Identifikation des Veröffentlichungspflichtigen und eines Ansprechpartners; Auftragsnummer der Veröffentlichung
 
@@ -411,7 +389,6 @@ können für die Identifizierung nach Absatz 1 verwendet werden.
 Bundesanzeigers eine Auftragsnummer und übermittelt diese dem
 Ansprechpartner.
 
-
 ### § 15 Übermittlung der Daten
 
 (1) Für die Übermittlung der Daten stellt der Betreiber des
@@ -424,7 +401,6 @@ bleiben leer.
 (2) Anstelle der Nutzung des Formulars können die Daten im XML-Format
 mittels eines vom Betreiber des elektronischen Bundesanzeigers
 vorgegebenen Schemas übermittelt werden.
-
 
 ### § 16 Inhalt der Veröffentlichung
 
@@ -439,10 +415,6 @@ zum Veröffentlichungspflichtigen veröffentlicht:
 2.  bei einer juristischen Person oder einem sonstigen Rechtsträger die
     Firma oder sonstige Bezeichnung, der Hauptsitz sowie der Staat, in
     welchem sich der Hauptsitz befindet.
-
-
-
-
 
 ### § 17 Fehlerhafte Veröffentlichung
 
@@ -461,9 +433,7 @@ Veröffentlichungstag der fehlerhaften Veröffentlichung anzugeben.
 bei der fehlerhaften Veröffentlichung als auch bei der neuen korrekten
 Mitteilung, dass eine Berichtigung vorgenommen wurde.
 
-
 ## Abschnitt 5 - Mitteilung und Veröffentlichung durch Dritte
-
 
 ### § 18 Zulässigkeit der Mitteilung und Veröffentlichung durch Dritte
 
@@ -499,7 +469,6 @@ einzuräumen.
 Feststellung nach Absatz 2 Satz 2 und den Widerruf der Zulassung
 unverzüglich zu informieren.
 
-
 ### § 19 Pflichterfüllung bei Einschaltung eines externen Dritten
 
 Bei Einschaltung eines externen Dritten hat ein Mitteilungs- oder
@@ -510,9 +479,7 @@ elektronischen Bundesanzeiger vollständig und richtig innerhalb der in
 § 30i Absatz 1 des Wertpapierhandelsgesetzes vorgeschriebenen Fristen
 vorgenommen hat.
 
-
 ## Abschnitt 6 - Schlussvorschriften
-
 
 ### § 20 Inkrafttreten
 

@@ -19,20 +19,14 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 G v. 19.1.1996 I 58
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art 1 bis 3 -
 
-
-
 ## Art 4 - Kronzeugenregelung bei terroristischen Straftaten
-
-
 
 ## § 1
 
@@ -60,7 +54,6 @@ dessen, was der Täter oder Teilnehmer offenbart hat, insbesondere im
 Hinblick auf die Verhinderung künftiger Straftaten, dies im Verhältnis
 zu der eigenen Tat rechtfertigt.
 
-
 ## § 2
 
 In den Fällen des § 1 kann das Gericht im Urteil von Strafe absehen
@@ -70,7 +63,6 @@ auf Freiheitsstrafe auf Geldstrafe erkennen. Beabsichtigt das Gericht,
 das Verfahren nach § 153b Abs. 2 der Strafprozeßordnung einzustellen,
 so ist die nach dieser Vorschrift erforderliche Zustimmung der
 Staatsanwaltschaft vom Generalbundesanwalt zu erteilen.
-
 
 ## § 3
 
@@ -84,18 +76,15 @@ anderer, mit einer solchen Tat zusammenhängender Straftaten nach den
 unberührt. Satz 2 findet in den Fällen des Versuchs, der Anstiftung
 oder der Beihilfe keine Anwendung.
 
-
 ## § 4
 
 Ein Dritter im Sinne des § 1 ist nicht verpflichtet anzuzeigen, was
 ihm in seiner Eigenschaft als Vermittler anvertraut worden ist.
 
-
 ## § 5
 
 Die §§ 1 bis 3 sind nur anzuwenden, wenn das Wissen über die Tatsachen
 bis zum 31. Dezember 1999 offenbart worden ist.
-
 
 ## Art 5 - Kronzeugenregelung bei organisiert begangenen Straftaten
 
@@ -108,7 +97,6 @@ gerichtet sind, bei denen der Erweiterte Verfall (§ 73d des
 Strafgesetzbuches) angeordnet werden kann. Gemäß Artikel 4 §§ 1 und 2
 Satz 2 zuständig sind die Staatsanwaltschaft und das Gericht, das für
 die Hauptverhandlung zuständig wäre.
-
 
 ## Art 6 - Inkrafttreten
 

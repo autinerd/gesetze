@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 22 V v. 13.12.2011 I 2720
 
-
 ## Eingangsformel
 
 Mit Zustimmung des Bundesrates verordnen
@@ -43,7 +42,6 @@ und 3 des Lebensmittelgesetzes der Bundesminister für Jugend, Familie
 und Gesundheit im Einvernehmen mit dem Bundesminister für Ernährung,
 Landwirtschaft und Forsten und dem Bundesminister für Wirtschaft:
 
-
 ## § 1 Anwendungsbereich
 
 (1) Milcherzeugnisse im Sinne dieser Verordnung sind die in der Anlage
@@ -62,7 +60,6 @@ werden.
 20\. Juni 1963 (Bundesgesetzbl. I S. 415) in der jeweiligen Fassung
 bleiben unberührt.
 
-
 ## § 1a Begriffsbestimmungen
 
 (1) Milchretentat im Sinne dieser Verordnung ist das Erzeugnis, das
@@ -72,7 +69,6 @@ Milch, teilentrahmter Milch oder Magermilch gewonnen wird.
 (2) Milchpermeat im Sinne dieser Verordnung ist das Erzeugnis, das
 durch Entzug von Milcheiweißen und Milchfett aus Milch, teilentrahmter
 Milch oder Magermilch mit Hilfe der Ultrafiltration entsteht.
-
 
 ## § 2 Anforderungen an die Herstellung und Verpackung
 
@@ -158,11 +154,9 @@ Trockenmilcherzeugnisse dürfen nur in Behältnissen in den Verkehr
 gebracht werden, die fest verschlossen sind und die Erzeugnisse vor
 nachteiliger Beeinflussung schützen.
 
-
 ## § 2a (weggefallen)
 
 -
-
 
 ## § 3 Allgemeine Kennzeichnungsvorschriften
 
@@ -341,7 +335,6 @@ leicht lesbarer Schrift anzugeben
 Dies gilt nicht für Milcherzeugnisse, die unverpackt zum unmittelbaren
 Verzehr an Ort und Stelle abgegeben werden.
 
-
 ## § 4 Besondere Kennzeichnungsvorschriften
 
 (1) Die Kennzeichnung muß ferner enthalten
@@ -412,7 +405,6 @@ Verzehr an Ort und Stelle abgegeben werden.
 
 (2) (weggefallen)
 
-
 ## § 5 Zulassung von Zusatzstoffen
 
 (1) Als Zusatz beim Herstellen von Milcherzeugnissen werden die in
@@ -439,11 +431,9 @@ zu machen. § 3 Abs. 2 Nr. 3 bleibt unberührt.
 (4) Die Vorschriften der Zusatzstoff-Zulassungsverordnung sind
 anzuwenden.
 
-
 ## § 5a
 
 -
-
 
 ## § 5b Analysenmethoden
 
@@ -454,7 +444,6 @@ erforderlich sind, nach den dort vorgesehenen Methoden durchzuführen.
 (2) Sofern in Anlage 3 für eine einzelne Bestimmung Methoden wahlweise
 vorgesehen sind, ist die angewandte Methode in dem Prüfbericht
 anzugeben.
-
 
 ## § 6 Ausländische Erzeugnisse
 
@@ -483,7 +472,6 @@ der Europäischen Union oder einem anderen Vertragsstaat des Abkommens
 über den Europäischen Wirtschaftsraum rechtmäßig im Verkehr befinden,
 nicht, es sei denn, daß trotz einer Angabe im Zutatenverzeichnis eine
 Irreführung des Verbrauchers nicht ausgeschlossen werden kann.
-
 
 ## § 7 Straftaten und Ordnungswidrigkeiten
 
@@ -546,10 +534,6 @@ Margarinegesetzes handelt, wer vorsätzlich oder fahrlässig
     nicht in der vorgeschriebenen Weise gekennzeichnet sind, in den
     Verkehr bringt.
 
-
-
-
-
 ## § 7a Besondere Zubereitungen
 
 § 2 Abs. 2, § 3 Abs. 3 und § 4 Abs. 1 gelten nicht für Zubereitungen
@@ -557,7 +541,6 @@ aus Sauermilch-, Joghurt- und Kefirerzeugnissen, die in Griechenland
 unter Verwendung von Öl und sonstigen typischen Zusätzen, insbesondere
 Gurken, hergestellt werden oder solchen griechischen Erzeugnissen nach
 Herstellungsweise und Zusammensetzung entsprechen.
-
 
 ## § 7b Übergangsvorschrift
 
@@ -572,11 +555,9 @@ bis zum 24. November 2005 nach den bis zum 12. November 2004 geltenden
 Vorschriften gekennzeichnet und auch nach dem 24. November 2005 noch
 bis zum Aufbrauchen der Bestände in den Verkehr gebracht werden.
 
-
 ## § 8 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Anlage 1 (zu § 1 Abs. 1)
 
@@ -1783,15 +1764,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   mindestens 99,8
 
-
-
-
-
 ## Anlage 1a (weggefallen)
 
 - Anlage 1a: Aufgeh. durch Art. 18 Nr. 6 V v. 8.8.2007 I 1816 mWv
 15\.8.2007
-
 
 ## Anlage 2 (zu § 5 Abs. 1) Zugelassene Zusatzstoffe
 
@@ -1817,13 +1793,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   bis zu insgesamt 12,5 Mikrogramm auf ein Kilogramm, berechnet als
         Calciferol.
-
-
-
-
-
-
-
 
 ## Anlage 3 (zu § 5b Abs. 1) Analysenmethoden
 

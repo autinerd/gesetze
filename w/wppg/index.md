@@ -26,10 +26,7 @@ den Prospekt, der beim öffentlichen Angebot von Wertpapieren oder bei
 deren Zulassung zum Handel zu veröffentlichen ist, und zur Änderung
 der Richtlinie 2001/34/EG (ABl. EU Nr. L 345 S. 64).
 
-
 ## Abschnitt 1 - Anwendungsbereich und Begriffsbestimmungen
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -90,7 +87,6 @@ werden sollen.
 oder Zulassungsantragsteller berechtigt, einen Prospekt im Sinne
 dieses Gesetzes zu erstellen, wenn Wertpapiere öffentlich angeboten
 oder zum Handel an einem organisierten Markt zugelassen werden.
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -296,10 +292,6 @@ Im Sinne dieses Gesetzes ist oder sind
     unbeschadet des § 5 Absatz 2b Nummer 2 zu entscheiden, welchen
     Wertpapierangeboten er weiter nachgehen sollte.
 
-
-
-
-
 ### § 3 Pflicht zur Veröffentlichung eines Prospekts und Ausnahmen im Hinblick auf die Art des Angebots
 
 (1) Sofern sich aus den Absätzen 2 und 3 oder aus § 4 Absatz 1 nichts
@@ -349,7 +341,6 @@ eingewilligt haben.
 Markt zugelassen werden sollen, muss der Zulassungsantragsteller einen
 Prospekt veröffentlichen, sofern sich aus § 4 Absatz 2 nichts anderes
 ergibt.
-
 
 ### § 4 Ausnahmen von der Pflicht zur Veröffentlichung eines Prospekts im Hinblick auf bestimmte Wertpapiere
 
@@ -528,10 +519,7 @@ die Gleichwertigkeit gegeben ist. Das Bundesministerium der Finanzen
 kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt für
 Finanzdienstleistungsaufsicht übertragen.
 
-
 ## Abschnitt 2 - Erstellung des Prospekts
-
-
 
 ### § 5 Prospekt
 
@@ -642,7 +630,6 @@ tätige Unternehmen, mit dem der Emittent zusammen die Zulassung der
 Wertpapiere beantragt, die Verantwortung zu übernehmen und muss der
 Prospekt dessen Erklärung nach Satz 1 enthalten.
 
-
 ### § 6 Basisprospekt
 
 (1) Für die folgenden Wertpapierarten kann der Anbieter oder der
@@ -700,7 +687,6 @@ nachzuholen. § 8 Abs. 1 Satz 1 und 2 ist in den in Satz 1 genannten
 Fällen entsprechend anzuwenden. Die endgültigen Bedingungen des
 Angebots bedürfen nicht der Unterzeichnung.
 
-
 ### § 7 Mindestangaben
 
 Die Mindestangaben, die in einen Prospekt aufzunehmen sind, bestimmen
@@ -711,7 +697,6 @@ Informationen sowie das Format, die Aufnahme von Informationen mittels
 Verweis und die Veröffentlichung solcher Prospekte und die Verbreitung
 von Werbung (ABl. EU Nr. L 149 S. 1, Nr. L 215 S. 3) in der jeweils
 geltenden Fassung.
-
 
 ### § 8 Nichtaufnahme von Angaben
 
@@ -781,7 +766,6 @@ enthalten, die den geforderten Angaben gleichwertig sind.
 Garantie für ein Wertpapier, so muss der Prospekt keine Angaben über
 diesen Garantiegeber enthalten.
 
-
 ### § 9 Gültigkeit des Prospekts, des Basisprospekts und des Registrierungsformulars
 
 (1) Ein Prospekt ist nach seiner Billigung zwölf Monate lang für
@@ -810,11 +794,9 @@ anzusehen.
 
 (5) (weggefallen)
 
-
 ### § 10 (weggefallen)
 
 -
-
 
 ### § 11 Angaben in Form eines Verweises
 
@@ -866,7 +848,6 @@ im Wege des Verweises in den Prospekt aufgenommen worden sind, um
 welche Angaben es sich handelt und wo die im Wege des Verweises
 einbezogenen Angaben veröffentlicht sind.
 
-
 ### § 12 Prospekt aus einem oder mehreren Einzeldokumenten
 
 (1) Der Prospekt kann als ein einziges Dokument oder in mehreren
@@ -899,10 +880,7 @@ Zusammenfassung werden von der Bundesanstalt gesondert gebilligt.
 hinterlegt, so bedürfen alle Dokumente der Billigung der
 Bundesanstalt.
 
-
 ## Abschnitt 3 - Billigung und Veröffentlichung des Prospekts
-
-
 
 ### § 13 Billigung des Prospekts
 
@@ -937,7 +915,6 @@ Internetseite für jeweils zwölf Monate zugänglich.
 Zusammenfassung ist der Bundesanstalt sowohl in Papierform als auch
 elektronisch über das Melde- und Veröffentlichungssystem der
 Bundesanstalt oder auf einem Datenträger zu übermitteln.
-
 
 ### § 14 Hinterlegung und Veröffentlichung des Prospekts
 
@@ -1040,7 +1017,6 @@ Verlangen eine Papierversion kostenlos zur Verfügung gestellt werden.
 aufbewahrt. Die Aufbewahrungsfrist beginnt mit dem Schluss des
 Kalenderjahres, in dem der Prospekt hinterlegt worden ist.
 
-
 ### § 15 Werbung
 
 (1) Jede Art von Werbung, die sich auf ein öffentliches Angebot von
@@ -1085,7 +1061,6 @@ sind, über den Umfang der Prüfung nach § 13 oder § 16 irrezuführen.
 Vor allgemeinen Maßnahmen nach Satz 2 sind die Spitzenverbände der
 betroffenen Wirtschaftskreise und des Verbraucherschutzes zu hören.
 
-
 ### § 16 Nachtrag zum Prospekt; Widerrufsrecht des Anlegers
 
 (1) Jeder wichtige neue Umstand oder jede wesentliche Unrichtigkeit in
@@ -1122,10 +1097,7 @@ Satz 1 enthalten; die Widerrufsfrist ist anzugeben. § 8 Absatz 1 Satz
 Stelle der im Prospekt als Empfänger des Widerrufs bezeichneten Person
 die im Nachtrag als Empfänger des Widerrufs bezeichnete Person tritt.
 
-
 ## Abschnitt 4 - Grenzüberschreitende Angebote und Zulassung zum Handel
-
-
 
 ### § 17 Grenzüberschreitende Geltung gebilligter Prospekte
 
@@ -1157,7 +1129,6 @@ die Zulassung zum Handel gültig, sofern die Bundesanstalt nach den §
 18 entsprechenden Vorschriften des Herkunftsstaates unterrichtet wird
 und die Sprache des Prospekts die Anforderungen des § 19 Abs. 4 und 5
 erfüllt.
-
 
 ### § 18 Bescheinigung der Billigung
 
@@ -1195,10 +1166,7 @@ organisierten Marktes. Die Bundesanstalt hält die Liste nach Satz 1
 stets auf dem aktuellen Stand und sorgt dafür, dass jeder Eintrag für
 mindestens zwölf Monate zugänglich ist.
 
-
 ## Abschnitt 5 - Sprachenregelung und Emittenten mit Sitz in Drittstaaten
-
-
 
 ### § 19 Sprachenregelung
 
@@ -1257,7 +1225,6 @@ zuständigen Behörden der Aufnahmestaaten anerkannten Sprache oder in
 einer in internationalen Finanzkreisen gebräuchlichen Sprache erstellt
 werden.
 
-
 ### § 20 Drittstaatemittenten
 
 (1) Die Bundesanstalt kann einen Prospekt, der von einem Emittenten
@@ -1290,10 +1257,7 @@ Gleichwertigkeit gegeben ist. Das Bundesministerium der Finanzen kann
 die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt für
 Finanzdienstleistungsaufsicht übertragen.
 
-
 ## Abschnitt 6 - Prospekthaftung
-
-
 
 ### § 21 Haftung bei fehlerhaftem Börsenzulassungsprospekt
 
@@ -1342,7 +1306,6 @@ erbrachten Wertpapierdienstleistung erworben wurden.
 Grund deren Veröffentlichung der Emittent von der Pflicht zur
 Veröffentlichung eines Prospekts befreit wurde.
 
-
 ### § 22 Haftung bei sonstigem fehlerhaften Prospekt
 
 Sind in einem nach § 3 Absatz 1 Satz 1 veröffentlichten Prospekt, der
@@ -1359,10 +1322,6 @@ entsprechend anzuwenden mit der Maßgabe, dass
 
 2.  § 21 Absatz 3 auf diejenigen Emittenten mit Sitz im Ausland anzuwenden
     ist, deren Wertpapiere auch im Ausland öffentlich angeboten werden.
-
-
-
-
 
 ### § 23 Haftungsausschluss
 
@@ -1400,10 +1359,6 @@ auf grober Fahrlässigkeit beruht.
     gemäß § 5 Absatz 2 Satz 1 in Verbindung mit Absatz 2a erforderlichen
     Schlüsselinformationen.
 
-
-
-
-
 ### § 24 Haftung bei fehlendem Prospekt
 
 (1) Ist ein Prospekt entgegen § 3 Absatz 1 Satz 1 nicht veröffentlicht
@@ -1434,7 +1389,6 @@ erbrachten Wertpapierdienstleistung erworben wurden.
 Erwerber die Pflicht, einen Prospekt zu veröffentlichen, beim Erwerb
 kannte.
 
-
 ### § 25 Unwirksame Haftungsbeschränkung; sonstige Ansprüche
 
 (1) Eine Vereinbarung, durch die Ansprüche nach §§ 21, 23 oder 24 im
@@ -1444,10 +1398,7 @@ Voraus ermäßigt oder erlassen werden, ist unwirksam.
 bürgerlichen Rechts auf Grund von Verträgen oder unerlaubten
 Handlungen erhoben werden können, bleiben unberührt.
 
-
 ## Abschnitt 7 - Zuständige Behörde und Verfahren
-
-
 
 ### § 26 Befugnisse der Bundesanstalt
 
@@ -1535,7 +1486,6 @@ Börse und inländischen sowie ausländischen Zulassungsstellen
 übermitteln, soweit diese Informationen zur Erfüllung deren Aufgaben
 erforderlich sind.
 
-
 ### § 27 Verschwiegenheitspflicht
 
 (1) Die bei der Bundesanstalt Beschäftigten und die nach § 4 Abs. 3
@@ -1594,7 +1544,6 @@ Besteuerungsverfahrens benötigen, an deren Verfolgung ein zwingendes
 die den in Absatz 1 Satz 1 oder 2 bezeichneten Personen durch eine
 Stelle eines anderen Staates im Sinne des Absatzes 1 Satz 3 Nr. 2 oder
 durch von dieser Stelle beauftragte Personen mitgeteilt worden sind.
-
 
 ### § 28 Zusammenarbeit mit zuständigen Stellen in anderen Staaten des Europäischen Wirtschaftsraums
 
@@ -1673,14 +1622,12 @@ Zusammenarbeit mit den entsprechenden zuständigen Stellen anderer
 Staaten sowie die Regelungen über die internationale Rechtshilfe in
 Strafsachen bleiben unberührt.
 
-
 ### § 28a Zusammenarbeit mit der Europäischen Wertpapier- und Marktaufsichtsbehörde
 
 Die Bundesanstalt stellt der Europäischen Wertpapier- und
 Marktaufsichtsbehörde gemäß Artikel 35 der Verordnung (EU) Nr.
 1095/2010 auf Verlangen unverzüglich alle für die Erfüllung ihrer
 Aufgaben erforderlichen Informationen zur Verfügung.
-
 
 ### § 29 Vorsichtsmaßnahmen
 
@@ -1709,7 +1656,6 @@ Europäische Kommission und die Europäische Wertpapier- und
 Marktaufsichtsbehörde sind zum frühestmöglichen Zeitpunkt über
 derartige Maßnahmen zu unterrichten.
 
-
 ### § 30 Bekanntmachung von Maßnahmen
 
 Die Bundesanstalt kann unanfechtbare Maßnahmen, die sie wegen
@@ -1719,7 +1665,6 @@ Beseitigung oder Verhinderung von Missständen geboten ist, es sei
 denn, diese Veröffentlichung würde die Finanzmärkte erheblich
 gefährden oder zu einem unverhältnismäßigen Schaden bei den
 Beteiligten führen.
-
 
 ### § 31 Sofortige Vollziehung
 
@@ -1732,13 +1677,7 @@ Keine aufschiebende Wirkung haben
 2.  Widerspruch und Anfechtungsklage gegen die Androhung oder Festsetzung
     von Zwangsmitteln.
 
-
-
-
-
 ## Abschnitt 8 - Sonstige Vorschriften
-
-
 
 ### § 32 Auskunftspflicht von Wertpapierdienstleistungsunternehmen
 
@@ -1747,7 +1686,6 @@ haben Wertpapierdienstleistungsunternehmen im Sinne des § 2 Absatz 4
 des Wertpapierhandelsgesetzes Emittenten oder Anbietern auf Anfrage
 unverzüglich ihre Einstufung dieses Kunden nach § 31a des
 Wertpapierhandelsgesetzes mitzuteilen.
-
 
 ### § 33 Gebühren und Auslagen
 
@@ -1766,14 +1704,12 @@ angemessenes Verhältnis besteht. Das Bundesministerium der Finanzen
 kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt für
 Finanzdienstleistungsaufsicht übertragen.
 
-
 ### § 34 Benennungspflicht
 
 Ist für einen Emittenten mit Sitz im Ausland gemäß § 2 Nr. 13
 Buchstabe b oder c die Bundesanstalt zuständig, so hat er im Inland
 einen Bevollmächtigten zu benennen. § 15 Satz 2 und 3 des
 Verwaltungsverfahrensgesetzes gilt entsprechend.
-
 
 ### § 35 Bußgeldvorschriften
 
@@ -1839,7 +1775,6 @@ mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
 (4) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes
 über Ordnungswidrigkeiten ist die Bundesanstalt.
 
-
 ### § 36 Übergangsbestimmungen
 
 (1) Drittstaatemittenten, deren Wertpapiere bereits zum Handel an
@@ -1875,7 +1810,6 @@ weiter öffentlich angeboten werden.
 vor dem 1. Juli 2012 zu veröffentlichenden Jahresabschlusses zu
 erstellen, dem Publikum zur Verfügung zu stellen und bei der
 Bundesanstalt zu hinterlegen.
-
 
 ### § 37 Übergangsbestimmungen zur Aufhebung des Verkaufsprospektgesetzes
 

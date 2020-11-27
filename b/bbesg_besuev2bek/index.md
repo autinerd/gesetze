@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2003, 1843 (2638)
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 77 Abs. 5 des Bundesbesoldungsgesetzes in der Fassung
@@ -62,14 +60,9 @@ werden bekannt gemacht:
     Bundesbesoldungsgesetzes und Grundgehaltssätze der fortgeltenden
     Bundesbesoldungsordnung C.
 
-
-
-
-
 ## Schlussformel
 
 Der Bundesminister des Innern
-
 
 ## Anlage 1 (Bundesbesoldungsordnung C - Grundgehaltssätze zum 1. Juli 2003, 1. April 2004 bzw. 1. August 2004)
 
@@ -1094,13 +1087,6 @@ Der Bundesminister des Innern
 *    *
         \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18.
             Dezember 1975 (BGBl. I S. 3091).
-
-
-
-
-
-
-
 
 ## Anlage 2 (Anlagen IV, V, VIII und IX des Bundesbesoldungsgesetzes (BBesG) und Grundgehaltssätze der Bundesbesoldungsordnung C (BBesO C) - Sätze jeweils zum 1. Januar 2003)
 
@@ -3424,13 +3410,6 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 *    *
         \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18.
             Dezember 1975 (BGBl. I S. 3091).
-
-
-
-
-
-
-
 
 ## Anlage 3 (Anlagen IV, V, VIII und IX des Bundesbesoldungsgesetzes (BBesG) und Grundgehaltssätze der Bundesbesoldungsordnung C (BBesO C) - Sätze jeweils zum 1. April 2003 bzw. 1. Juli 2003)
 
@@ -5849,13 +5828,6 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 *    *
         \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18.
             Dezember 1975 (BGBl. I S. 3091).
-
-
-
-
-
-
-
 
 ## Anlage 4 (Anlagen IV, V, VIII und IX des Bundesbesoldungsgesetzes (BBesG) und Grundgehaltssätze der Bundesbesoldungsordnung C (BBesO C) - Sätze jeweils zum 1. Januar 2004)
 
@@ -8281,13 +8253,6 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
         \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18.
             Dezember 1975 (BGBl. I S. 3091).
 
-
-
-
-
-
-
-
 ## Anlage 5 (Anlagen IV, V, VIII und IX des Bundesbesoldungsgesetzes (BBesG) und Grundgehaltssätze der Bundesbesoldungsordnung C (BBesO C) - Sätze jeweils zum 1. April 2004)
 
 (Fundstelle des Originaltextes: BGBl. I 2003, 1874 - 1882)
@@ -10662,13 +10627,6 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 *    *
         \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18.
             Dezember 1975 (BGBl. I S. 3091).
-
-
-
-
-
-
-
 
 ## Anlage 6 (Anlagen IV, V, VIII und IX des Bundesbesoldungsgesetzes (BBesG) und Grundgehaltssätze der Bundesbesoldungsordnung C (BBesO C) - Sätze jeweils zum 1. August 2004)
 

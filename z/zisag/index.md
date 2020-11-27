@@ -24,12 +24,10 @@ Geändert durch
 
 Stand: Zum Inkrafttreten vgl. § 7
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## § 1
 
@@ -47,7 +45,6 @@ geändert worden ist, haftet die Bundesrepublik Deutschland. Ansprüche
 nach Satz 1 sind gegenüber der Bundesrepublik Deutschland, vertreten
 durch das Zollkriminalamt, geltend zu machen.
 
-
 ## § 2
 
 Das Verzeichnis der Zuwiderhandlungen im Sinne des Artikels 15 Absatz
@@ -58,7 +55,6 @@ einer die Freiheit beschränkenden Maßnahme der Sicherung und Besserung
 mit einem Höchstmaß von mindestens zwölf Monaten bedroht sind. Das
 Bundesministerium der Finanzen erstellt durch Rechtsverordnung das
 Verzeichnis nach Satz 1.
-
 
 ## § 3
 
@@ -73,13 +69,11 @@ des mit diesen Datenbanken verfolgten Ziels erforderlich ist und eine
 Gefährdung des Untersuchungszwecks nicht zu besorgen ist. § 478 Absatz
 1 Satz 1 und 2 der Strafprozessordnung findet Anwendung.
 
-
 ## § 4
 
 Das Bundeskriminalamt ist berechtigt, Daten aus dem
 Aktennachweissystem für Zollzwecke im automatisierten Verfahren
 abzurufen, soweit dies zur Erfüllung seiner Aufgaben erforderlich ist.
-
 
 ## § 5
 
@@ -118,7 +112,6 @@ vorläufig eingestellt, sind seine Daten unverzüglich zu löschen.
 (3) Bei einer Einstellung nach den §§ 153a, 153c der
 Strafprozessordnung kann eine Löschung nach Absatz 2 unterbleiben.
 Absatz 1 Satz 1 Nummer 3 und Satz 2 gilt entsprechend.
-
 
 ## § 6
 
@@ -170,7 +163,6 @@ wird. Im Übrigen sind die Daten zu löschen nach Ablauf
 
 
 § 5 Absatz 1 Satz 2 gilt entsprechend.
-
 
 ## § 7
 

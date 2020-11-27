@@ -19,10 +19,7 @@ Stand: Neufassung vom 16. 1.1989 I 76;
 Zuletzt geändert durch
 :   Art. 434 V v. 31.10.2006 I 2407
 
-
 ## Erster Abschnitt - Tarifausschuß
-
-
 
 ### § 1
 
@@ -33,7 +30,6 @@ Arbeitgeber und der Arbeitnehmer als Mitglieder sowie mindestens je
 drei weitere als stellvertretende Mitglieder auf Grund von Vorschlägen
 dieser Organisationen.
 
-
 ### § 2
 
 (1) Die Verhandlungen und Beratungen des Tarifausschusses leitet ein
@@ -42,7 +38,6 @@ Verhandlungen sind öffentlich, die Beratungen nicht öffentlich.
 
 (2) Der Tarifausschuß ist beschlußfähig, wenn alle Mitglieder anwesend
 sind.
-
 
 ### § 3
 
@@ -56,10 +51,7 @@ unterschreiben. Ist ein Mitglied verhindert, seine Unterschrift
 beizufügen, so ist dies von dem lebensältesten Mitglied der Seite, der
 das verhinderte Mitglied angehört, unter dem Beschluß zu vermerken.
 
-
 ## Zweiter Abschnitt - Allgemeinverbindlicherklärung und Aufhebung der Allgemeinverbindlichkeit
-
-
 
 ### § 4
 
@@ -80,7 +72,6 @@ Bundesministerium für Arbeit und Soziales einen Antrag auf
 Allgemeinverbindlicherklärung abweisen, wenn die Voraussetzungen des §
 5 Abs. 1 TVG offensichtlich nicht vorliegen.
 
-
 ### § 5
 
 Ist ein Antrag auf Allgemeinverbindlicherklärung bekanntgemacht
@@ -92,7 +83,6 @@ Allgemeinverbindlicherklärung eines Änderungstarifvertrages beantragt
 worden, so ist auch eine Abschrift des geänderten Tarifvertrages zu
 übersenden. Selbstkosten sind die Papier- und Vervielfältigungs- oder
 Druckkosten sowie das Übersendungsporto.
-
 
 ### § 6
 
@@ -111,7 +101,6 @@ zur Äußerung zu geben; der Tarifausschuß kann Äußerungen anderer
 zulassen. Die Äußerung in der Verhandlung setzt eine vorherige
 schriftliche Stellungnahme nicht voraus.
 
-
 ### § 7
 
 Die Allgemeinverbindlicherklärung bedarf des Einvernehmens mit dem
@@ -123,7 +112,6 @@ eines bereits für allgemeinverbindlich erklärten Tarifvertrages
 handelt, in aller Regel nicht vor dem Tage der Bekanntmachung des
 Antrages.
 
-
 ### § 8
 
 Das Bundesministerium für Arbeit und Soziales teilt seine Entscheidung
@@ -131,7 +119,6 @@ Das Bundesministerium für Arbeit und Soziales teilt seine Entscheidung
 den Mitgliedern des Tarifausschusses, die bei der Verhandlung über den
 Antrag mitgewirkt haben, mit. Die ablehnende Entscheidung ist zu
 begründen.
-
 
 ### § 9
 
@@ -145,7 +132,6 @@ entsprechend.
 allgemeinverbindlich erklärten Tarifverträge an geeigneter Stelle im
 Betrieb auszulegen.
 
-
 ### § 10
 
 Erwägt das Bundesministerium für Arbeit und Soziales die Aufhebung der
@@ -154,7 +140,6 @@ Tarifvertragsparteien und den obersten Arbeitsbehörden der Länder, auf
 deren Bereich sich der Tarifvertrag erstreckt, innerhalb einer
 bestimmten Frist Gelegenheit zur schriftlichen Stellungnahme. § 4 Abs.
 1 und die §§ 6 bis 8 gelten sinngemäß.
-
 
 ### § 11
 
@@ -169,7 +154,6 @@ nicht bekanntgemacht zu werden, wenn der Tarifvertrag nur für eine
 bestimmte Zeit abgeschlossen war und diese Tatsache mit der
 Allgemeinverbindlicherklärung bekanntgemacht worden ist.
 
-
 ### § 12
 
 Das Bundesministerium für Arbeit und Soziales kann der obersten
@@ -179,10 +163,7 @@ Allgemeinverbindlichkeit eines Tarifvertrages mit regional begrenztem
 Geltungsbereich übertragen. Die Vorschriften der §§ 1 bis 11 gelten
 sinngemäß.
 
-
 ## Dritter Abschnitt - Aufhebung von Tarifordnungen und Anordnungen
-
-
 
 ### § 13
 
@@ -192,10 +173,7 @@ Arbeitsbehörden der Länder, auf deren Bereich sich die Tarifordnung
 oder Anordnung erstreckt, sowie den Tarifausschuß hören. Es macht die
 Aufhebung im Bundesanzeiger bekannt.
 
-
 ## Vierter Abschnitt - Tarifregister
-
-
 
 ### § 14
 
@@ -203,7 +181,6 @@ Bei der Eintragung des Abschlusses von Tarifverträgen in das
 Tarifregister werden die Tarifverträge durch die Angabe der
 Tarifvertragsparteien, des Geltungsbereichs sowie des Zeitpunktes
 ihres Abschlusses und ihres Inkrafttretens bezeichnet.
-
 
 ### § 15
 
@@ -217,17 +194,13 @@ Tarifverträge.
 (2) Die Bekanntmachungen nach § 4 Abs. 1 und § 11 sollen im
 Tarifregister vermerkt werden.
 
-
 ### § 16
 
 Die Einsicht des Tarifregisters sowie der registrierten Tarifverträge
 ist jedem gestattet. Das Bundesministerium für Arbeit und Soziales
 erteilt auf Anfrage Auskunft über die Eintragungen.
 
-
 ## Fünfter Abschnitt - Kosten
-
-
 
 ### § 17
 
@@ -235,10 +208,7 @@ Das Verfahren bei der Allgemeinverbindlicherklärung und bei der
 Beendigung der Allgemeinverbindlichkeit von Tarifverträgen ist
 kostenfrei.
 
-
 ## Sechster Abschnitt - Schlußbestimmungen
-
-
 
 ### § 18
 

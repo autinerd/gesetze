@@ -19,12 +19,10 @@ Fundstelle
 
 Stand: vgl. nur noch Fundstellennachweis B
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -34,13 +32,11 @@ Herstellung, Lagerung und des Einsatzes chemischer Waffen und über die
 Vernichtung solcher Waffen wird zugestimmt. Das Übereinkommen wird
 nachstehend mit einer amtlichen deutschen Übersetzung veröffentlicht.
 
-
 ## Art 2
 
 Die Bundesregierung wird ermächtigt, Modifikationen verwaltungsmäßiger
 oder technischer Art nach Artikel XV Abs. 4 des Übereinkommens durch
 Rechtsverordnung in Kraft zu setzen.
-
 
 ## Art 3
 

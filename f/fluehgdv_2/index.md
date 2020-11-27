@@ -17,15 +17,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1965, 1816
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 23 des Gesetzes über Hilfsmaßnahmen für Deutsche aus
 der sowjetischen Besatzungszone Deutschlands und dem sowjetisch
 besetzten Sektor von Berlin vom 15. Juli 1965 (Bundesgesetzbl. I S.
 612) verordnet die Bundesregierung mit Zustimmung des Bundesrates:
-
 
 ## § 1 Personenkreis
 
@@ -52,7 +49,6 @@ des Inkrafttretens dieser Verordnung.
 (2) § 1 Abs. 1 Satz 2 und § 2 des Gesetzes sowie § 6 des
 Bundesvertriebenengesetzes sind anzuwenden.
 
-
 ## § 2 Leistungen und Vergünstigungen
 
 (1) Berechtigte nach § 1 erhalten Einrichtungshilfe und Beihilfe zum
@@ -71,7 +67,6 @@ des Gesetzes aufhalten, sofern der Angehörige in den in § 1 Abs. 1 Nr.
 § 10 Abs. 1 des Gesetzes erlitten hat und außerstande ist, für den
 Berechtigten zu sorgen.
 
-
 ## § 3 Anwendung in Berlin
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
@@ -79,7 +74,6 @@ Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 Gesetzes über Hilfsmaßnahmen für Deutsche aus der sowjetischen
 Besatzungszone Deutschlands und dem sowjetisch besetzten Sektor von
 Berlin auch im Land Berlin.
-
 
 ## § 4 Inkrafttreten
 

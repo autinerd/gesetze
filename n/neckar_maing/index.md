@@ -20,7 +20,6 @@ Fundstelle
 Geändert durch
 :   Art. 60 G v. 19.9.2006 I 2146
 
-
 ## § 1
 
 Der Bund erhält das Recht zur Entziehung und Beschränkung des
@@ -32,7 +31,6 @@ Schaltanlagen, verbindenden Hochspannungsleitungen und Umspannwerke,
 zur Entnahme der für diese Arbeiten erforderlichen Baustoffe sowie zur
 Ablagerung von Baustoffen und Abraum. 7601 § 1: IdF d. Art. 60 Nr. 1 G
 v. 19.9.2006 I 2146 mWv 1.10.2006
-
 
 ## § 2
 
@@ -54,7 +52,6 @@ Gemeinden oder gemeinnützigen Vereinigungen Gebrauch zu machen.
 weiterveräußert werden, die einen spekulativen Mißbrauch wirksam
 ausschließen.
 
-
 ## § 3
 
 (1) Gesetzliche Vorschriften, die die Veräußerung oder Teilbarkeit
@@ -65,7 +62,6 @@ nicht entgegen.
 (2) Bei der Wiederveräußerung von Grundstücken, die auf Grund der §§ 1
 und 2 des Gesetzes erworben sind, findet kein gesetzliches
 Vorkaufsrecht irgendwelcher Art statt.
-
 
 ## § 4
 
@@ -78,7 +74,6 @@ berücksichtigt werden.
 für die Durchführung der Enteignung die Vorschriften des
 landesrechtlichen Enteignungsgesetzes.
 
-
 ## § 5
 
 Die Heranziehung der Eigentümer und Benutzer von Grundstücken oder
@@ -87,13 +82,11 @@ Wasserstraßen durch den Bund andere als verkehrswirtschaftliche
 Vorteile zufließen, zur Deckung der dem Bund entstehenden Kosten wird
 durch besonderes Bundesgesetz geregelt werden.
 
-
 ## § 6
 
 Die zur Ausführung des Gesetzes erforderlichen Bestimmungen erlassen
 der Bundesminister für Verkehr, Bau und Stadtentwicklung und der
 Bundesfinanzminister mit Zustimmung des Bundesrates.
-
 
 ## § 7
 

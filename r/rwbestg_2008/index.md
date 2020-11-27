@@ -15,14 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 1076
 
-
 ## § 1 Festsetzung des aktuellen Rentenwerts und des aktuellen Rentenwerts (Ost)
 
 (1) Der aktuelle Rentenwert beträgt ab dem 1. Juli 2008 26,56 Euro.
 
 (2) Der aktuelle Rentenwert (Ost) beträgt ab dem 1. Juli 2008 23,34
 Euro.
-
 
 ## § 2 Festsetzung des allgemeinen Rentenwerts und des allgemeinen Rentenwerts (Ost) in der Alterssicherung der Landwirte
 
@@ -32,13 +30,11 @@ beträgt ab dem 1. Juli 2008 12,26 Euro.
 (2) Der allgemeine Rentenwert (Ost) in der Alterssicherung der
 Landwirte beträgt ab dem 1. Juli 2008 10,78 Euro.
 
-
 ## § 3 Ausgleichsbedarf und Ausgleichsbedarf (Ost) zum 30. Juni 2009
 
 (1) Der Ausgleichsbedarf beträgt zum 30. Juni 2009 0,9825.
 
 (2) Der Ausgleichsbedarf (Ost) beträgt zum 30. Juni 2009 0,9870.
-
 
 ## § 4 Anpassungsfaktor in der Unfallversicherung
 
@@ -52,7 +48,6 @@ Pflegegeld der gesetzlichen Unfallversicherung im Sinne des § 215 Abs.
 5 des Siebten Buches Sozialgesetzbuch für Versicherungsfälle, die vor
 dem 1. Juli 2008 eingetreten sind, werden zum 1. Juli 2008 angepasst.
 Der Anpassungsfaktor beträgt 1,0110.
-
 
 ## § 5 Pflegegeld in der Unfallversicherung
 

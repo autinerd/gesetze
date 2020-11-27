@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 4.5.2007 I 672
 
-
 ## Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
@@ -29,7 +28,6 @@ für Wirtschaft und Technologie und das Bundesministerium für Verkehr,
 Bau- und Wohnungswesen im Einvernehmen mit dem Bundesministerium für
 Bildung und Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Straßenwärter/Straßenwärterin wird staatlich
@@ -39,11 +37,9 @@ gewerblichen Wirtschaft. Soweit die Ausbildung im Bereich des
 öffentlichen Dienstes. Im Übrigen ist er Ausbildungsberuf der
 gewerblichen Wirtschaft.
 
-
 ## § 2 Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Berufsausbildung in überbetrieblichen Ausbildungsstätten
 
@@ -54,7 +50,6 @@ laufenden Nummern 8 Buchstaben d und g, 10 Buchstaben c, d, e und f,
 und c, 15 Buchstabe e, 16 Buchstaben b, d und f sowie 18 Buchstabe c
 der Anlage in überbetrieblichen oder in betrieblichen
 Ausbildungsstätten zu vermitteln.
-
 
 ## § 4 Ausbildungsberufsbild
 
@@ -122,10 +117,6 @@ Fertigkeiten und Kenntnisse:
 
 19. Qualitätssichernde Maßnahmen und Kundenorientierung.
 
-
-
-
-
 ## § 5 Ausbildungsrahmenplan
 
 (1) Die in § 4 genannten Fertigkeiten und Kenntnisse sollen nach der
@@ -143,12 +134,10 @@ Berufsbildungsgesetzes befähigt wird, die insbesondere selbstständiges
 Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung
 ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
 
-
 ## § 6 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 7 Berichtsheft
 
@@ -156,7 +145,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 8 Zwischenprüfung
 
@@ -206,10 +194,6 @@ beziehen sollen, aus folgenden Gebieten lösen:
 
 
 4.  Verkehrs- und Wegerecht.
-
-
-
-
 
 ## § 9 Abschlussprüfung
 
@@ -376,7 +360,6 @@ Prüfungsleistungen in einer der praktischen Aufgaben oder in einem der
 fachbezogenen Prüfungsbereiche mit ungenügend bewertet, so ist die
 Prüfung nicht bestanden.
 
-
 ## § 10 Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
@@ -384,18 +367,15 @@ Verordnung bestehen, sind die bisherigen Vorschriften weiter
 anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
 Anwendung der Vorschriften dieser Verordnung.
 
-
 ## § 10a Weitere Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bis zum Ablauf des 14. Mai 2007
 begründet worden sind, ist § 9 Abs. 2 in der bis dahin geltenden
 Fassung weiter anzuwenden.
 
-
 ## § 11 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2002 in Kraft.
-
 
 ## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Straßenwärter/zur Straßenwärterin
 

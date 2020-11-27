@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1822
 
-
 ## Eingangsformel
 
 Auf Grund des § 758a Absatz 6 und des § 829 Absatz 4 der
@@ -23,12 +22,10 @@ Zivilprozessordnung in der Fassung der Bekanntmachung vom 5. Dezember
 2005 (BGBl. I S. 3202; 2006 I S. 431; 2007 I S. 1781) verordnet das
 Bundesministerium der Justiz:
 
-
 ## § 1 Formular für den Antrag auf Erlass einer richterlichen Durchsuchungsanordnung
 
 Für den Antrag nach § 758a Absatz 1 der Zivilprozessordnung wird das
 in der Anlage 1 bestimmte Formular eingeführt.
-
 
 ## § 2 Formulare für den Antrag auf Erlass eines Pfändungs- und Überweisungsbeschlusses
 
@@ -43,25 +40,18 @@ eingeführt:
 
 2.  in allen anderen Fällen das in der Anlage 2 bestimmte Formular.
 
-
-
-
-
 ## § 3 Verbindlichkeit
 
 Vom 1. März 2013 an sind die gemäß den §§ 1 und 2 eingeführten
 Formulare verbindlich zu nutzen.
 
-
 ## § 4 Inkrafttreten
 
 Diese Verordnung tritt am 1. September 2012 in Kraft.
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage 1 (zu § 1) Antrag auf Erlass einer richterlichen Durchsuchungsanordnung
 

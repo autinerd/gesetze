@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1990, 437
 
-
-
 ## I.
 
 Auf Grund des Artikels 1 der Anordnung des Bundespräsidenten über die
@@ -48,20 +46,14 @@ sowie den Rektoren/den Rektorinnen
 
 *   der Fachhochschulen der Deutschen Bundespost.
 
-
-
-
-
 ## II.
 
 Für besondere Fälle behalten wir uns die Ernennung und Entlassung der
 in Abschnitt I genannten Beamten und Beamtinnen vor.
 
-
 ## III.
 
 Diese Anordnung tritt mit Wirkung vom 1. März 1990 in Kraft.
-
 
 ## Schlußformel
 

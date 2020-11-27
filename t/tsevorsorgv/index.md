@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 3618
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 79a Abs. 2 Nr. 4 in Verbindung mit den §§ 18, 20 Abs.
@@ -32,7 +30,6 @@ Abs. 1 Satz 1 durch Artikel 2 § 3 Abs. 5 des Gesetzes vom 1. September
 3165) und dem Organisationserlass vom 22. November 2005 (BGBl. I S.
 3197) verordnet das Bundesministerium Ernährung, Landwirtschaft und
 Verbraucherschutz:
-
 
 ## § 1 Ausnahmen von der Tötung bei Rindern
 
@@ -69,7 +66,6 @@ nicht entgegenstehen.
 Sorge zu tragen, dass jede Abgabe eines Bullen, für den eine
 Ausnahmegenehmigung erteilt worden ist, der zuständigen Behörde unter
 Angabe des Empfängers anzuzeigen ist.
-
 
 ## § 2 Ausnahmen von der Tötung bei Schafen und Ziegen
 
@@ -129,11 +125,9 @@ Nr. 999/2001 vorgesehenen Fälle hinaus genehmigen, sofern
 Ausnahmen nach Satz 1 Nr. 2 dürfen längstens bis zum 1. Januar 2006
 genehmigt werden.
 
-
 ## § 3 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlussformel
 

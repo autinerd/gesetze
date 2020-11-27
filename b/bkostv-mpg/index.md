@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 V v. 10.5.2010 I 542
 
-
 ## Eingangsformel
 
 Auf Grund des § 37 Abs. 9, 11 Satz 1 und Abs. 12 Satz 3 des
@@ -30,14 +29,12 @@ Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821),
 verordnet das Bundesministerium für Gesundheit im Einvernehmen mit dem
 Bundesministerium für Wirtschaft und Technologie:
 
-
 ## § 1 Anwendungsbereich
 
 Die zuständige Bundesoberbehörde erhebt für ihre Amtshandlungen nach
 dem Medizinproduktegesetz und den zur Durchführung dieses Gesetzes
 erlassenen Rechtsverordnungen Gebühren und Auslagen nach Maßgabe
 folgender Vorschriften.
-
 
 ## § 2 Zulassung, Verlängerung und Änderung der Zulassung
 
@@ -79,14 +76,12 @@ Medizinprodukte zu einem geringeren Prüfaufwand geführt hat, der die
 Ermäßigung rechtfertigt. Mindestens ist jedoch eine Gebühr von 1.100
 Euro für jede weitere Entscheidung über die Zulassung zu erheben.
 
-
 ## § 3 Klassifizierung und Abgrenzung von Produkten
 
 Die Gebühr für eine Entscheidung nach § 13 Absatz 2 und 3 des
 Medizinproduktegesetzes zur Klassifizierung eines Medizinproduktes und
 zur Abgrenzung von Medizinprodukten zu anderen Produkten beträgt 200
 bis 1 000 Euro.
-
 
 ## § 4 Konsultationsverfahren
 
@@ -129,7 +124,6 @@ zu einem geringeren Prüfaufwand geführt hat, der die Ermäßigung
 rechtfertigt. Mindestens ist jedoch eine Gebühr von 1.250 Euro für
 jede weitere Konsultation zu erheben.
 
-
 ## § 5 Amtshandlungen im Rahmen klinischer Prüfungen
 
 (1) Die Gebühr für die Genehmigung einer klinischen Prüfung nach § 20
@@ -147,13 +141,11 @@ Medizinproduktegesetzes in Verbindung mit § 7 Absatz 1 und 2 der
 Verordnung über klinische Prüfungen von Medizinprodukten vom 10. Mai
 2010 (BGBl. I S. 555) beträgt 400 bis 700 Euro.
 
-
 ## § 6 Beratungen
 
 Die Gebühr für die Beratung des Verantwortlichen nach § 5 des
 Medizinproduktegesetzes, von Benannten Stellen und von Sponsoren nach
 § 32 des Medizinproduktegesetzes beträgt 500 bis 2 800 Euro.
-
 
 ## § 7 Gebühren in besonderen Fällen
 
@@ -207,7 +199,6 @@ höchstens 100 Euro.
 den Absätzen 3 und 5 entsprechend dem Anteil der Stattgabe zu
 ermäßigen; die Mindestgebühr nach den Absätzen 3 und 5 darf nicht
 unterschritten werden.
-
 
 ## § 8 Sonstige Gebühren
 
@@ -270,13 +261,11 @@ an Gebühren zu erheben für
 Der Antragsteller ist auf die Gebührenpflichtigkeit der Amtshandlung
 nach Satz 1 hinzuweisen.
 
-
 ## § 9 Gebührenbemessung
 
 Soweit diese Verordnung Gebührenrahmensätze vorsieht, richtet sich die
 Bemessung der konkreten Gebühr nach § 9 Abs. 1 des
 Verwaltungskostengesetzes.
-
 
 ## § 10 Gebührenermäßigung und -befreiung auf Antrag
 
@@ -288,7 +277,6 @@ selten sind oder die Zielgruppe, für die das Medizinprodukt bestimmt
 ist, klein ist. Von der Erhebung der Gebühren kann ganz abgesehen
 werden, wenn der zu erwartende wirtschaftliche Nutzen im Verhältnis zu
 den Gebühren besonders gering ist.
-
 
 ## § 11 Gebührenerhöhung und -ermäßigung
 
@@ -302,12 +290,10 @@ gebührenpflichtige Amtshandlung nach Satz 1 im Einzelfall einen
 außergewöhnlich niedrigen Aufwand, so kann die Gebühr bis auf 50 Euro
 reduziert werden.
 
-
 ## § 12 Auslagen
 
 Auslagen sind nach den Vorschriften des Verwaltungskostengesetzes zu
 erstatten.
-
 
 ## § 13 Übergangsregelung
 
@@ -316,7 +302,6 @@ vorgenommen worden sind, können Kosten nach Maßgabe der vorstehenden
 Vorschriften erhoben werden, soweit bei den Amtshandlungen unter
 Hinweis auf den bevorstehenden Erlass dieser Verordnung eine
 Kostenentscheidung ausdrücklich vorbehalten worden ist.
-
 
 ## § 14 Inkrafttreten
 

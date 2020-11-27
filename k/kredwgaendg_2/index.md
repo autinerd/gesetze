@@ -18,19 +18,13 @@ Fundstelle
 Geändert durch
 :   Art. 6 G v. 20.12.1984 I 1693
 
-
 ## Art 1
 
-
-
 ## Art 2 - Übergangsvorschriften
-
-
 
 ## § 1
 
 -
-
 
 ## § 2
 
@@ -39,11 +33,9 @@ sind, ist § 18 des Gesetzes über das Kreditwesen in der Fassung dieses
 Gesetzes von dem Zeitpunkt an anzuwenden, zu dem der Kredit frühestens
 von dem Kreditinstitut gekündigt werden kann oder fällig wird.
 
-
 ## § 3
 
 -
-
 
 ## § 4
 
@@ -54,19 +46,13 @@ dieses Gesetzes Inhaber eines derartigen Kreditinstituts ist.
 
 (2)
 
-
 ## § 5
 
 -
 
-
 ## Art 3
 
-
-
 ## Art 4
-
-
 
 ## Art 5 - Berlin-Klausel
 
@@ -75,7 +61,6 @@ Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes
 erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 Überleitungsgesetzes.
-
 
 ## Art 6 - Inkrafttreten
 

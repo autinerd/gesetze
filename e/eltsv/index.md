@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 Abs. 47 G v. 7. 7.2005 I 1970
 
-
 ## Eingangsformel
 
 Auf Grund des § 1 Abs. 1 und 3, des § 2 Abs. 3, des § 3 Abs. 1 und 3
@@ -26,7 +25,6 @@ sowie des § 16 Nr. 2 Buchstabe a des Energiesicherungsgesetzes 1975
 vom 20. Dezember 1974 (BGBl. I S. 3681), das durch Gesetz vom 19.
 Dezember 1979 (BGBl. I S. 2305) zuletzt geändert worden ist, verordnet
 die Bundesregierung mit Zustimmung des Bundesrates:
-
 
 ## § 1
 
@@ -104,7 +102,6 @@ Satz 3 begründet worden sind. Verträge, die auf Grund oder durch
 Verfügung nach Absatz 2 geändert worden sind, leben mit ihrem
 ursprünglichen Inhalt wieder auf.
 
-
 ## § 2
 
 Unternehmen und Betriebe, die über Anlagen zur Erzeugung von
@@ -120,7 +117,6 @@ Eisenbahnen und die nach Landesrecht zuständige Stelle können diese
 Meldungen in kürzeren Zeitabständen verlangen, wenn dies zur Sicherung
 der Energieversorgung notwendig ist.
 
-
 ## § 3
 
 Ordnungswidrig im Sinne des § 15 Abs. 1 Nr. 1 des
@@ -133,21 +129,15 @@ fahrlässig
 2.  eine Meldung nach § 2 nicht richtig, nicht vollständig oder nicht
     rechtzeitig erstattet.
 
-
-
-
-
 ## § 4
 
 Verwaltungsbehörde im Sinne des § 16 Nr. 2 Buchstabe a des
 Energiesicherungsgesetzes 1975 ist die Bundesnetzagentur für
 Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen.
 
-
 ## § 5
 
 (weggefallen)
-
 
 ## § 6
 
@@ -161,10 +151,6 @@ Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen.
 
 
 2.  die Anwendbarkeit durch Verordnung bestimmt.
-
-
-
-
 
 ## Anlage (zu § 2)
 

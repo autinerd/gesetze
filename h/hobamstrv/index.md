@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1891
 
-
 ## Eingangsformel
 
 Auf Grund des § 51a Absatz 2 der Handwerksordnung, der zuletzt durch
@@ -24,14 +23,12 @@ S. 1341) geändert worden ist, verordnet das Bundesministerium für
 Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium
 für Bildung und Forschung:
 
-
 ## § 1 Gegenstand
 
 Die Meisterprüfung besteht aus vier selbstständigen Prüfungsteilen.
 Diese Verordnung regelt das Meisterprüfungsberufsbild sowie die
 Prüfung in den Teilen I und II der Meisterprüfung im Holz- und
 Bautenschutzgewerbe.
-
 
 ## § 2 Meisterprüfungsberufsbild
 
@@ -148,10 +145,6 @@ Handlungskompetenz zu berücksichtigen:
     Abrechnungserstellung sowie eine Nachkalkulation durchführen und die
     Auftragsabwicklung auswerten.
 
-
-
-
-
 ## § 3 Ziel und Gliederung des Teils I
 
 (1) Durch die Prüfung in Teil I hat der Prüfling seine berufliche
@@ -161,7 +154,6 @@ Bautenschutzgewerbes meisterhaft verrichten kann.
 
 (2) Der Teil I der Meisterprüfung umfasst ein Meisterprüfungsprojekt
 und ein darauf bezogenes Fachgespräch.
-
 
 ## § 4 Meisterprüfungsprojekt
 
@@ -192,7 +184,6 @@ Kalkulation, werden mit 30 Prozent, die durchgeführten Arbeiten mit 50
 Prozent und die Kontroll- und Dokumentationsunterlagen, bestehend aus
 Messprotokollen und Prüfberichten, mit 20 Prozent gewichtet.
 
-
 ## § 5 Fachgespräch
 
 Über das abgeschlossene Meisterprüfungsprojekt hat der Prüfling in
@@ -209,10 +200,6 @@ einem Fachgespräch nachzuweisen, dass er befähigt ist,
     sowie deren Lösungen darzustellen und dabei neue Entwicklungen zu
     berücksichtigen.
 
-
-
-
-
 ## § 6 Prüfungsdauer und Bestehen des Teils I
 
 (1) Das Meisterprüfungsprojekt dauert drei Arbeitstage. Das
@@ -227,7 +214,6 @@ gebildet.
 Meisterprüfung ist eine insgesamt ausreichende Prüfungsleistung, wobei
 die Prüfung weder im Meisterprüfungsprojekt noch im Fachgespräch mit
 weniger als 30 Punkten bewertet worden sein darf.
-
 
 ## § 7 Ziel, Gliederung und Inhalt des Teils II
 
@@ -402,13 +388,6 @@ auch handlungsfeldübergreifend verknüpft werden können.
         Konsequenzen, insbesondere für die betriebsinterne Organisation sowie
         das betriebliche Personalwesen, aufzeigen und bewerten.
 
-
-
-
-
-
-
-
 ## § 8 Prüfungsdauer und Bestehen des Teils II
 
 (1) Die Prüfung in Teil II ist schriftlich durchzuführen und dauert in
@@ -435,10 +414,6 @@ Prüfung des Teils II ist nicht bestanden, wenn
 2.  nach durchgeführter Ergänzungsprüfung zwei Handlungsfelder jeweils mit
     weniger als 50 Punkten bewertet worden sind.
 
-
-
-
-
 ## § 9 Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
 
 (1) Die Vorschriften der Meisterprüfungsverfahrensverordnung vom 17.
@@ -448,7 +423,6 @@ bleiben unberührt.
 (2) Die Prüfung in den Teilen III und IV der Meisterprüfung bestimmt
 sich nach der Allgemeinen Meisterprüfungsverordnung vom 26. Oktober
 2011 (BGBl. I S. 2149) in der jeweils geltenden Fassung.
-
 
 ## § 10 Inkrafttreten
 

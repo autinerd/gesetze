@@ -16,12 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   GBl DDR I: 1990, 274
 
-
-
 ## (XXXX) §§ 1 bis 3 (weggefallen)
 
 -
-
 
 ## § 4 Entschädigung
 
@@ -35,10 +32,7 @@ Entschädigung von 3.600 M.
 (3) Die Entschädigung der Abgeordneten und die Amtszulage des
 Präsidenten sowie der Stellvertreter werden besteuert.
 
-
 ## (XXXX) §§ 5 bis 7 (weggefallen)
-
-
 
 ## § 8 Übergangsgeld
 
@@ -58,11 +52,9 @@ monatlich zum halben Betrag für den doppelten Zeitraum zu zahlen. Bei
 der Anrechnung nach Abs. 2 verbleibt es bei den Zahlungszeiträumen
 nach Abs. 1.
 
-
 ## § 9
 
 -
-
 
 ## § 10 Anrechnung
 
@@ -76,16 +68,12 @@ nicht übersteigen.
 Angestellten und freiwilligen zusätzlichen Altersversorgung werden
 neben der Entschädigung nach § 4 nur zu Hälfte gezahlt.
 
-
 ## (XXXX) §§ 11 bis 15 (weggefallen)
-
-
 
 ## Schlußformel
 
 **Die Präsidentin der Volkskammer der Deutschen Demokratischen
 Republik**
-
 
 ## Anhang EV Auszug aus EinigVtrVbg Art 3 (BGBl. II 1990, 1239)
 

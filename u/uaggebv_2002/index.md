@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 V v. 13.12.2011 I 2727
 
-
 ## Eingangsformel
 
 Auf Grund des § 36 Abs. 2 des Umweltauditgesetzes in der Fassung der
@@ -28,7 +27,6 @@ mit dem 2. Abschnitt des Verwaltungskostengesetzes vom 23. Juni 1970
 (BGBl. I S. 821) verordnet das Bundesministerium für Umwelt,
 Naturschutz und Reaktorsicherheit nach Anhörung des
 Umweltgutachterausschusses:
-
 
 ## § 1 Gebühren und Auslagen
 
@@ -46,7 +44,6 @@ die Auslagen für die externen Beauftragten im Rahmen der Aufsicht
 (Nummer 13 und 14 des Gebührenverzeichnisses) sowie Aufwendungen für
 Telekommunikationsdienstleistungen sind mit der Gebühr abgegolten.
 
-
 ## § 2 Widerspruch
 
 Für die vollständige oder teilweise Zurückweisung eines Widerspruchs
@@ -61,7 +58,6 @@ Widerspruch nach Beginn seiner sachlichen Bearbeitung, jedoch vor
 deren Beendigung zurückgenommen, beträgt die Gebühr höchstens 75 vom
 Hundert der Widerspruchsgebühr.
 
-
 ## § 3 Zurückweisung oder Zurücknahme eines ausschließlich gegen eine Festsetzung von Gebühren oder Auslagen gerichteten Widerspruchs
 
 (1) Für die vollständige oder teilweise Zurückweisung und bei
@@ -70,7 +66,6 @@ oder Auslagen gerichteten Widerspruchs wird eine Gebühr in Höhe von 10
 vom Hundert des streitigen Betrags erhoben.
 
 (2) Die Gebühr im Fall des Absatzes 1 beträgt mindestens 15 Euro.
-
 
 ## § 4 Widerruf und Rücknahme einer Amtshandlung, Ablehnung und Rücknahme von Anträgen
 
@@ -93,18 +88,15 @@ festzusetzenden Gebühr erhoben. Sie kann bis zu einem Viertel der
 vorgesehenen Gebühr ermäßigt oder es kann von ihrer Erhebung abgesehen
 werden, wenn dies der Billigkeit entspricht.
 
-
 ## § 5 Zulassungsentscheidungen ohne mündliche Prüfung
 
 Für Zulassungsentscheidungen, die ohne mündliche Prüfung ergehen,
 ermäßigt sich die vorgesehene Gebühr um ein Viertel; sie kann bis zu
 einem Viertel der vorgesehenen Gebühr ermäßigt werden.
 
-
 ## § 6 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Anlage (zu § 1 Absatz 1) Gebührenverzeichnis
 

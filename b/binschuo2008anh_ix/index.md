@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 2450 (Anlageband S. 574 - 682)
 
-
 ## Inhaltsverzeichnis
 
 
@@ -66,11 +65,7 @@ Fundstelle
     *   Vorschriften für den Einbau von Kompassen auf Magnetbasis und
         Steuerkurstransmitter auf Magnetbasis
 
-
-
-
 ## Teil I - Vorschriften über die Farbe und Lichtstärke der Bordlichter sowie die Zulassung von Signalleuchten in der Binnenschifffahrt
-
 
 ## Inhaltsverzeichnis
 
@@ -188,11 +183,7 @@ Anlage
     *   Muster des Zulassungszeugnisses für Signalleuchten in der
         Binnenschifffahrt
 
-
-
-
 ### Kapitel 1 - Begriffe
-
 
 ### § 1.01 Signalleuchten
 
@@ -205,10 +196,6 @@ Anlage
 
 2.  Leuchten zur Signalgebung an Wasserfahrzeugen werden als
     „Signalleuchten“ bezeichnet.
-
-
-
-
 
 ### § 1.02 Signallichter
 
@@ -270,18 +257,10 @@ Anlage
 
     c)  starkes Licht.
 
-
-
-
-
-
-
-
 ### § 1.03 Lichtquellen
 
 „Lichtquellen“ sind elektrische oder nicht elektrische Einrichtungen,
 die zur Lichterzeugung in Signalleuchten bestimmt sind.
-
 
 ### § 1.04 Optik
 
@@ -300,10 +279,6 @@ die zur Lichterzeugung in Signalleuchten bestimmt sind.
 3.  Die „neutrale Optik“ ist eine Optik, die die Stärke des
     durchgelassenen Lichtes ändert.
 
-
-
-
-
 ### § 1.05 Filter
 
 
@@ -313,10 +288,6 @@ die zur Lichterzeugung in Signalleuchten bestimmt sind.
 
 2.  Das „Neutralfilter“ ist ein aselektives Filter, das die Stärke des
     durchgelassenen Lichtes ändert.
-
-
-
-
 
 ### § 1.06 Beziehungen zwischen I, IB und t
 
@@ -356,7 +327,6 @@ B              = 0,2 · t
 
 Der atmosphärische Transmissionsfaktor q wird mit 0,76 angenommen, was
 einer meteorologischen Sichtweite von 14,3 km entspricht.
-
 
 ### § 2.01 Farbe der Signallichter
 
@@ -518,7 +488,6 @@ einer meteorologischen Sichtweite von 14,3 km entspricht.
 
 
 (Inhalt: nicht darstellbare Farbtafel)
-
 
 ### § 2.02 Stärke und Tragweite der Signallichter
 
@@ -759,7 +728,6 @@ Für den Tagbetrieb der gelben Funkellichter gilt jedoch eine
 Mindestlichtstärke I
 O              von 900 cd.
 
-
 ### § 2.03 Verteilung der Lichtstärken der Signallichter
 
 
@@ -807,12 +775,7 @@ O              von 900 cd.
     Hierbei darf das 1,2fache der bei 0° vorhandenen Lichtstärke nicht
     überschritten werden.
 
-
-
-
-
 ### Kapitel 3 - Anforderungen an die Signalleuchten
-
 
 ### § 3.01 Technische Anforderungen
 
@@ -832,12 +795,7 @@ O              von 900 cd.
 
 4.  Leichtes Auswechseln der Lichtquelle muss sichergestellt sein.
 
-
-
-
-
 ### Kapitel 4 - Prüfung, Zulassung und Kennzeichnung
-
 
 ### § 4.01 Typprüfung
 
@@ -845,7 +803,6 @@ In einer Typprüfung nach den "Prüfungs- und Zulassungsbedingungen für
 Signalleuchten in der Binnenschifffahrt" wird festgestellt, ob die
 Signalleuchte und deren Lichtquelle den Anforderungen dieser
 Vorschrift genügen.
-
 
 ### § 4.02 Prüfungsverfahren
 
@@ -863,10 +820,6 @@ Vorschrift genügen.
 
 3.  Der Hersteller muss gegenüber der Prüfbehörde erklären, dass die
     Serienanfertigung in allen Bauteilen dem Baumuster entspricht.
-
-
-
-
 
 ### § 4.03 Zulassungszeugnis
 
@@ -893,13 +846,6 @@ Vorschrift genügen.
         erteilte Zulassungszeugnis nur zu ergänzen ist oder die
         Zulassungsprüfung neu beantragt werden muss.
 
-
-
-
-
-
-
-
 ### § 4.04 Kontrollprüfung
 
 
@@ -909,10 +855,6 @@ Vorschrift genügen.
 
 2.  Ergeben sich bei der Kontrollprüfung schwerwiegende Mängel, kann die
     Zulassung ent-zogen werden.
-
-
-
-
 
 ### § 4.05 Kennzeichnung
 
@@ -1127,10 +1069,6 @@ Vorschrift genügen.
 
 5.  Die Prüfbehörde teilt die Kennzeichnung umgehend dem Ausschuss mit.
 
-
-
-
-
 #### Anlage Muster des Zulassungszeugnisses für Signalleuchten in der Binnenschifffahrt
 
 
@@ -1208,11 +1146,7 @@ Vorschrift genügen.
 *    *   ............
         Unterschrift
 
-
-
-
 ## Teil II - Vorschriften über die Prüf- und Zulassungsbedingungen für Signalleuchten in der Binnenschifffahrt
-
 
 ## Inhaltsverzeichnis
 
@@ -1382,18 +1316,13 @@ Anlage
 
     *   Prüfung auf Salzwasser- und Witterungsbeständigkeit (Salznebelprüfung)
 
-
-
-
 ### Kapitel 1 - Allgemeine Bestimmungen
-
 
 ### § 1.01 Nennspannungen
 
 Nennspannungen für Signalleuchten in der Binnenschifffahrt sind die
 Spannungen 230 V, 115 V, 110 V, 24 V und 12 V. Vorrangig sollen Geräte
 für 24 V verwendet werden.
-
 
 ### § 1.02 Funktionsanforderungen
 
@@ -1403,14 +1332,12 @@ beeinträchtigt werden. Im Besonderen müssen alle optisch wirksamen und
 zu deren Halterung und Justierung wichtigen Teile so gefertigt sein,
 dass sich deren festgelegte Lage im Betrieb nicht verändern kann.
 
-
 ### § 1.03 Befestigung
 
 Die Teile der Signalleuchte, die der Befestigung an Bord dienen,
 müssen so gefertigt sein, dass sich nach der Justierung der
 Signalleuchte an Bord die einmal festgesetzte Lage im Betrieb nicht
 verändern kann.
-
 
 ### § 1.04 Lichtmesstechnische Anforderungen
 
@@ -1419,12 +1346,10 @@ die Farberkennbarkeit muss sichergestellt sein, und die geforderten
 Lichtstärken müssen unmittelbar nach dem Einschalten der
 Signalleuchten erreicht werden.
 
-
 ### § 1.05 Bauteile
 
 In den Signalleuchten dürfen nur die nach ihrer Bauart dafür
 bestimmten lichttechnischen Bauteile verwendet werden.
-
 
 ### § 1.06 Instandhaltung
 
@@ -1432,13 +1357,11 @@ Die Bauweise der Signalleuchten und ihrer Zusatzeinrichtungen muss die
 ordnungsgemäße Instandhaltung ermöglichen, gegebenenfalls durch
 einfaches Austauschen der Lichtquelle auch bei Dunkelheit.
 
-
 ### § 1.07 Anforderungen an die Sicherheit
 
 Signalleuchten und ihre Zusatzeinrichtungen müssen so gebaut und
 bemessen sein, dass bei ihrem Betrieb, ihrer Bedienung und ihrer
 Wartung keine Gefahr für Personen entstehen kann.
-
 
 ### § 1.08 Zusatzeinrichtungen
 
@@ -1447,14 +1370,12 @@ hergestellt sein, dass durch ihren Anbau, Einbau oder Anschluss der
 ordnungsgemäße Betrieb und die Wirksamkeit der Signalleuchten nicht
 beeinträchtigt werden.
 
-
 ### § 1.09 Nichtelektrische Signalleuchten
 
 Nichtelektrisch betriebene Signalleuchten müssen nach den §§ 1.02 bis
 1\.08 und den Anforderungen nach Kapitel 3 entsprechend konstruiert und
 gefertigt sein. Die Anforderungen nach Kapitel 2 dieser Prüfungs- und
 Zulassungsbedingungen gelten entsprechend.
-
 
 ### § 1.10 Doppelstock-Signalleuchten
 
@@ -1463,9 +1384,7 @@ Zwei in einem Gehäuse übereinander gebaute Signalleuchten
 verwendet werden können. In keinem Fall dürfen in Doppelstock-
 Signalleuchten beide Lichtquellen gleichzeitig betrieben werden.
 
-
 ### Kapitel 2 - Licht- und Farbmesstechische Anforderungen
-
 
 ### § 2.01 Lichtmesstechnische Anforderungen
 
@@ -1486,10 +1405,6 @@ Signalleuchten beide Lichtquellen gleichzeitig betrieben werden.
 
 4.  Für nichtelektrisch betriebene Signalleuchten gelten diese
     Anforderungen entsprechend.
-
-
-
-
 
 ### § 2.02 Farbmesstechnische Anforderungen
 
@@ -1543,12 +1458,7 @@ Signalleuchten beide Lichtquellen gleichzeitig betrieben werden.
     Farbtemperatur der nichtelektrischen Lichtquelle so bemessen sein,
     dass die geforderten Lichtstärken erreicht werden.
 
-
-
-
-
 ### Kapitel 3 - Bautechnische Anforderungen
-
 
 ### § 3.01 Elektrisch betriebene Signalleuchten
 
@@ -2137,7 +2047,6 @@ Signalleuchten beide Lichtquellen gleichzeitig betrieben werden.
     Sollwerte. Es können auch Spannungs- und/oder Frequenzbereiche genannt
     werden.
 
-
 ### § 3.02 Gürtellinsen, Gläser und Einsatzgläser
 
 
@@ -2171,10 +2080,6 @@ Signalleuchten beide Lichtquellen gleichzeitig betrieben werden.
     lesbar und dauerhaft verzeichnet sein. Durch diese Aufschriften dürfen
     die licht- und farbmesstechnischen Mindestanforderungen nicht
     unterschritten werden.
-
-
-
-
 
 ### § 3.03 Elektrische Lichtquellen
 
@@ -2448,26 +2353,11 @@ Signalleuchten beide Lichtquellen gleichzeitig betrieben werden.
                 verwendet, so gelten für diese die Anforderungen an die Glühlampen
                 entsprechend.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Kapitel 4 - Verfahren der Prüfung und Zulassung
-
 
 ### § 4.01 Allgemeine Verfahrensregeln
 
 Für das Verfahren der Prüfung und Zulassung gilt Teil I.
-
 
 ### § 4.02 Antrag
 
@@ -2600,10 +2490,6 @@ Für das Verfahren der Prüfung und Zulassung gilt Teil I.
 7.  Teilkreisleuchten müssen grundsätzlich in einem kompletten Satz
     eingereicht werden.
 
-
-
-
-
 ### § 4.03 Prüfung
 
 
@@ -2633,10 +2519,6 @@ Für das Verfahren der Prüfung und Zulassung gilt Teil I.
 5.  Prüfungen anderer Stellen zum Nachweis der Erfüllung der Anforderungen
     nach Kapitel 3 können, sofern ihre Gleichwertigkeit nach der Anlage
     nachgewiesen wird, auf Antrag anerkannt werden.
-
-
-
-
 
 ### § 4.04 Zulassung
 
@@ -2678,10 +2560,6 @@ Für das Verfahren der Prüfung und Zulassung gilt Teil I.
 
 7.  Von jedem zugelassenen Signalleuchtentyp ist der zulassenden
     Prüfbehörde ein Baumuster zu überlassen.
-
-
-
-
 
 ### § 4.05 Erlöschen der Zulassung
 
@@ -2728,10 +2606,6 @@ Für das Verfahren der Prüfung und Zulassung gilt Teil I.
 5.  Nach dem Erlöschen der Zulassung ist das Zulassungszeugnis der
     zulassenden Prüfbehörde zur Eintragung eines Vermerks über das
     Erlöschen vorzulegen.
-
-
-
-
 
 #### Anlage Umweltprüfungen
 
@@ -4068,7 +3942,6 @@ Für alle Baumuster nach § 3.01 Nummer 10 Buchstabe a gilt:
 
 ## Teil III - Vorschriften über die Mindestanforderungen und Prüfbedingungen für Navigationsradaranlagen in der Binnenschifffahrt
 
-
 ## Inhaltsverzeichnis
 
 Kapitel 1
@@ -4329,11 +4202,7 @@ Kapitel 5
 
     *   Messfeld zur Ermittlung des Auflösungsvermögens von Radaranlagen
 
-
-
-
 ### Kapitel 1 - Allgemeines
-
 
 ### § 1.01 Anwendungsbereich
 
@@ -4344,7 +4213,6 @@ Mindestanforderungen überprüft wird. Inland-ECDIS-Geräte, die im
 Navigationsmodus betrieben werden können, sind Navigationsradaranlagen
 im Sinne dieser Vorschriften.
 
-
 ### § 1.02 Aufgabe der Radaranlage
 
 Die Radaranlage muss ein für die Führung des Schiffes verwertbares
@@ -4353,13 +4221,11 @@ und die für die Schifffahrt wesentlichen Bauwerke geben sowie andere
 Schiffe und über die Wasseroberfläche hinausragende Hindernisse im
 Fahrwasser sicher und rechtzeitig erkennen lassen.
 
-
 ### § 1.03 Baumusterprüfung
 
 Radaranlagen sind zum Einbau an Bord von Schiffen nur dann zugelassen,
 wenn anhand einer Baumusterprüfung nachgewiesen wurde, dass sie die in
 diesen Vorschriften festgelegten Mindestanforderungen erfüllen.
-
 
 ### § 1.04 Antrag auf Baumusterprüfung
 
@@ -4403,10 +4269,6 @@ diesen Vorschriften festgelegten Mindestanforderungen erfüllen.
     Baumusterprüfung angemeldete Anlage hergestellt oder gewerblich
     vertrieben wird.
 
-
-
-
-
 ### § 1.05 Baumusterzulassung
 
 
@@ -4426,10 +4288,6 @@ diesen Vorschriften festgelegten Mindestanforderungen erfüllen.
 
 3.  Die Baumusterzulassung hat eine Gültigkeitsdauer von zehn Jahren und
     kann auf Antrag verlängert werden.
-
-
-
-
 
 ### § 1.06 Kennzeichnung der Geräte, Zulassungsnummer
 
@@ -4652,17 +4510,12 @@ diesen Vorschriften festgelegten Mindestanforderungen erfüllen.
 4.  Die zuständige Behörde teilt dem Ausschuss die erteilte
     Zulassungsnummer umgehend mit.
 
-
-
-
-
 ### § 1.07 Erklärung des Herstellers
 
 Zu jeder Anlage muss eine Erklärung des Herstellers mitgeliefert
 werden, in der zugesichert ist, dass die Anlage die bestehenden
 Mindestanforderungen erfüllt und ohne Einschränkungen dem bei der
 Prüfung vorgestellten Baumuster baugleich ist.
-
 
 ### § 1.08 Änderungen an zugelassenen Anlagen
 
@@ -4677,12 +4530,7 @@ Prüfung vorgestellten Baumuster baugleich ist.
     notwendig ist. Im Falle einer neuen Zulassung wird eine neue
     Zulassungsnummer erteilt.
 
-
-
-
-
 ### Kapitel 2 - Allgmeine Mindestanforderungen an Radaranlagen
-
 
 ### § 2.01 Konstruktion, Ausführung
 
@@ -4707,10 +4555,6 @@ Prüfung vorgestellten Baumuster baugleich ist.
     müssen bei Umgebungstemperaturen des Sichtgeräts von 0 °C bis 40 °C
     erfüllt werden.
 
-
-
-
-
 ### § 2.02 Abgestrahlte Funkstörungen und elektromagnetische Verträglichkeit
 
 
@@ -4725,10 +4569,6 @@ Prüfung vorgestellten Baumuster baugleich ist.
 2.  Die Anlagen müssen bei elektromagnetischen Feldstärken bis zu 15 V/m
     in unmittelbarer Umgebung vom untersuchten Gerät im Frequenzbereich
     von 30 MHz bis 2000 MHz die Mindestanforderungen erfüllen.
-
-
-
-
 
 ### § 2.03 Bedienung
 
@@ -4762,10 +4602,6 @@ Prüfung vorgestellten Baumuster baugleich ist.
     dass die Anlage unter allen Bedingungen die Mindestanforderungen
     erfüllt.
 
-
-
-
-
 ### § 2.04 Bedienungsanleitungen
 
 
@@ -4797,17 +4633,11 @@ Prüfung vorgestellten Baumuster baugleich ist.
     Ausführung zu liefern. Diese muss in deutscher, englischer,
     französischer und niederländischer Sprache erhältlich sein.
 
-
-
-
-
 ### § 2.05 Einbau und Funktionsprüfung
 
 Für den Einbau, den Austausch und die Funktionsprüfung gilt Teil V.
 
-
 ### Kapitel 3 - Operationelle Mindestanforderungen an Radaranlagen
-
 
 ### § 3.01 Zugriff auf die Radaranlage
 
@@ -4831,10 +4661,6 @@ Für den Einbau, den Austausch und die Funktionsprüfung gilt Teil V.
     Sehhilfsvorrichtungen müssen auch von Brillenträgern benutzt werden
     können.
 
-
-
-
-
 ### § 3.02 Bildauflösung
 
 
@@ -4857,10 +4683,6 @@ Für den Einbau, den Austausch und die Funktionsprüfung gilt Teil V.
 3.  Bedienungsmöglichkeiten, die eine Verschlechterung der Auflösung
     verursachen können, dürfen in Entfernungsbereichen unter 2000 m nicht
     schaltbar sein.
-
-
-
-
 
 ### § 3.03 Entfernungsbereiche
 
@@ -4914,10 +4736,6 @@ Für den Einbau, den Austausch und die Funktionsprüfung gilt Teil V.
 5.  Teilbereichsdarstellungen und Ausschnittsvergrößerungen sind nicht
     erlaubt.
 
-
-
-
-
 ### § 3.04 Variabler Entfernungsmessring
 
 
@@ -4936,10 +4754,6 @@ Für den Einbau, den Austausch und die Funktionsprüfung gilt Teil V.
     Die Ablesegenauigkeit muss einschließlich des 2000-m-Bereichs 10 m
     betragen. Der Radius des Messrings muss mit der numerischen Anzeige
     übereinstimmen.
-
-
-
-
 
 ### § 3.05 Vorauslinie
 
@@ -4961,10 +4775,6 @@ Für den Einbau, den Austausch und die Funktionsprüfung gilt Teil V.
 4.  Nachdem der Einbauwinkelfehler korrigiert worden ist, darf nach dem
     Einschalten der Radaranlage die Abweichung der Vorauslinie von der
     Kiellinie nicht größer als 0,5 Grad sein.
-
-
-
-
 
 ### § 3.06 Asymmetrische Bilddarstellung
 
@@ -4989,10 +4799,6 @@ Für den Einbau, den Austausch und die Funktionsprüfung gilt Teil V.
     nach § 3.08 möglich ist. Die Möglichkeit der Dezentrierung nach Nummer
     1 ist dann nicht erforderlich.
 
-
-
-
-
 ### § 3.07 Pfeilskala
 
 
@@ -5011,10 +4817,6 @@ Für den Einbau, den Austausch und die Funktionsprüfung gilt Teil V.
     beziffert sein. Die Bezifferung ist in arabischen Ziffern, alle 10
     Grad oder alle 30 Grad, anzubringen. Die Zahl 000 darf durch eine
     deutliche Pfeilmarke ersetzt werden.
-
-
-
-
 
 ### § 3.08 Pfeilvorrichtung
 
@@ -5066,13 +4868,6 @@ Für den Einbau, den Austausch und die Funktionsprüfung gilt Teil V.
 
     d)  so ausgeführt sein, dass Echoanzeigen nicht unnötig abgedeckt werden.
 
-
-
-
-
-
-
-
 ### § 3.09 Einrichtungen zur Unterdrückung unerwünschter Echos von Seegang und Regen
 
 
@@ -5088,10 +4883,6 @@ Für den Einbau, den Austausch und die Funktionsprüfung gilt Teil V.
 3.  Die Radaranlage darf nicht mit automatisch wirkenden Einrichtungen zur
     Unterdrückung von Seegang- und Regenechos ausgerüstet sein.
 
-
-
-
-
 ### § 3.10 Unterdrückung von Störungen durch andere Radaranlagen
 
 
@@ -5102,16 +4893,11 @@ Für den Einbau, den Austausch und die Funktionsprüfung gilt Teil V.
 2.  Der Betrieb dieser Einrichtung darf nicht dazu führen, dass Nutzziele
     unterdrückt werden.
 
-
-
-
-
 ### § 3.11 Kompatibilität von Radarantwortbaken
 
 Signale von Radarantwortbaken entsprechend der IMO-Resolution A.423
 (XI) müssen bei abgeschalteter Regenechounterdrückung (FTC)
 einwandfrei dargestellt werden.
-
 
 ### § 3.12 Verstärkungseinstellung
 
@@ -5121,7 +4907,6 @@ Rauschen gerade sichtbar zu machen und anderseits kräftige Radarechos
 mit einer äquivalenten Rückstrahlfläche in der Größenordnung von 10000
 m², in beliebigen Entfernungen, nicht sichtbar zu machen.
 
-
 ### § 3.13 Frequenzabstimmung
 
 Am Radarsichtgerät muss eine Abstimmanzeige vorhanden sein. Das
@@ -5130,7 +4915,6 @@ allen Entfernungsbereichen funktionieren, auch wenn keine Radarechos
 vorhanden sind. Die Anzeige muss ebenso funktionieren, wenn die
 Verstärkung oder die Nahechodämpfung betätigt wird. Ein manuelles
 Bedienelement zur Korrektur der Abstimmung muss vorhanden sein.
-
 
 ### § 3.14 Nautische Hilfslinien und Informationen auf dem Bildschirm
 
@@ -5171,10 +4955,6 @@ Bedienelement zur Korrektur der Abstimmung muss vorhanden sein.
 4.  Die Anforderungen an die Darstellung und Genauigkeit von nautischen
     Informationen sind dieselben wie die für Hauptgeräte.
 
-
-
-
-
 ### § 3.15 Systemempfindlichkeit
 
 Die Systemempfindlichkeit muss so dimensioniert sein, dass ein
@@ -5186,7 +4966,6 @@ Zeitraum und der Zahl aller Antennenumdrehungen im selben Zeitraum auf
 der Basis von 100 Umdrehungen (Blip-Scan-Verhältnis) nicht schlechter
 als 0,8 sein.
 
-
 ### § 3.16 Zielspur
 
 Die Zielpositionen eines vergangenen Umlaufs müssen als Zielspur
@@ -5197,15 +4976,12 @@ darf den operationellen Anforderungen angepasst werden können, darf
 aber nicht länger als zwei Antennenumdrehungen dauern. Das Radarbild
 darf durch die Zielspur nicht beeinträchtigt werden.
 
-
 ### § 3.17 Tochtergeräte
 
 Tochtergeräte müssen alle Anforderungen erfüllen, die an
 Navigationsradaranlagen gestellt werden.
 
-
 ### Kapitel 4 - Technische Mindestanforderungen an Radaranlagen
-
 
 ### § 4.01 Bedienung
 
@@ -5342,10 +5118,6 @@ Navigationsradaranlagen gestellt werden.
 12. Die Enttrübungseinrichtungen müssen sich stufenlos ab Null einstellen
     lassen.
 
-
-
-
-
 ### § 4.02 Bilddarstellung
 
 
@@ -5374,10 +5146,6 @@ Navigationsradaranlagen gestellt werden.
     Darstellung des Radarbildes aus einer ganzen Antennenumdrehung in der
     Art eines Fernsehbildes.
 
-
-
-
-
 ### § 4.03 Eigenschaften des Radarbildes
 
 
@@ -5393,10 +5161,6 @@ Navigationsradaranlagen gestellt werden.
 3.  In allen Entfernungsbereichen muss die Position im Radarbild, die der
     Antennenposition entspricht, sichtbar sein.
 
-
-
-
-
 ### § 4.04 Darstellungsfarbe
 
 Die Darstellungsfarbe soll nach physiologischen Erkenntnissen gewählt
@@ -5404,7 +5168,6 @@ werden. Wenn auf dem Bildschirm mehrere Farben dargestellt werden
 können, ist das Radarbild monochrom darzustellen. Andersfarbige
 Anzeigen dürfen in keinem Bildschirmbereich zu Mischfarben durch
 Überlagerung führen.
-
 
 ### § 4.05 Bilderneuerungsrate und -speicherung
 
@@ -5425,10 +5188,6 @@ Anzeigen dürfen in keinem Bildschirmbereich zu Mischfarben durch
     seinem Nachleuchten innerhalb der Zeit einer Antennenumdrehung soll
     möglichst gering sein.
 
-
-
-
-
 ### § 4.06 Linearität der Bilddarstellung
 
 
@@ -5438,10 +5197,6 @@ Anzeigen dürfen in keinem Bildschirmbereich zu Mischfarben durch
 2.  In allen Bereichen bis 2000 m muss eine befestigte gerade Uferlinie im
     Abstand von 30 m zur Radarantenne ohne wahrnehmbare Verzerrungen als
     gerade zusammenhängende Echostruktur dargestellt werden.
-
-
-
-
 
 ### § 4.07 Genauigkeit der Entfernungs- und Azimutmessung
 
@@ -5453,10 +5208,6 @@ Anzeigen dürfen in keinem Bildschirmbereich zu Mischfarben durch
 
 2.  Der Winkelwert, unter dem ein Objekt gepeilt wird, darf nicht mehr als
     1 Grad vom wirklichen Wert abweichen.
-
-
-
-
 
 ### § 4.08 Antenneneigenschaften und Sendespektrum
 
@@ -5519,12 +5270,7 @@ Anzeigen dürfen in keinem Bildschirmbereich zu Mischfarben durch
 7.  Das Frequenzspektrum der von der Antenne abgestrahlten
     Hochfrequenzenergie muss den ITU Radio Regulations entsprechen.
 
-
-
-
-
 ### Kapitel 5 - Prüfbedingungen und Prüfverfahren für Radaranlagen
-
 
 ### § 5.01 Sicherheit, Belastungsfähigkeit und Störemission
 
@@ -5533,7 +5279,6 @@ Beeinflussung von Bordgeräten, des Kompassschutzabstandes, der
 klimatischen Belastbarkeit, der mechanischen Belastbarkeit, der
 Umweltbelastbarkeit und der Lärmemission erfolgt entsprechend der „IEC
 Publication 945 Marine Navigational Equipment General Requirements“.
-
 
 ### § 5.02 Abgestrahlte Funkstörungen und elektromagnetische Verträglichkeit
 
@@ -5546,10 +5291,6 @@ Publication 945 Marine Navigational Equipment General Requirements“.
 
 2.  Die Anforderungen nach § 2.02 Nr. 2 an die elektromagnetische
     Verträglichkeit müssen erfüllt sein.
-
-
-
-
 
 ### § 5.03 Prüfverfahren
 
@@ -5622,28 +5363,20 @@ Publication 945 Marine Navigational Equipment General Requirements“.
     10 m erfüllt werden, wobei eventuell erforderliche Einstellungen nur
     an den Bedienorganen der Radaranlage erlaubt sind.
 
-
-
-
-
 ### § 5.04 Antennenmessungen
 
 Die Messung der Antenneneigenschaften muss nach der Methode „IEC
 Publication 936 Shipborne Radar“ durchgeführt werden.
 
-
 #### Anlage 1 Azimutale Auflösung in den Bereichen bis einschließlich 1200 m
 
 Text in Bearbeitung
-
 
 #### Anlage 2 Messfeld zur Ermittlung des Auflösungsvermögens von Radaranlagen
 
 Text in Bearbeitung
 
-
 ## Teil IV - Vorschriften über die Mindestanforderungen und Prüfbedingungen für Wendeanzeiger in der Binnenschifffahrt
-
 
 ## Inhaltsverzeichnis
 
@@ -5815,8 +5548,6 @@ Kapitel 5
 
     *   Prüfverfahren
 
-
-
 ## **Anlage**
 
 
@@ -5824,11 +5555,7 @@ Kapitel 5
 
     *   Fehlergrenzen für Wendeanzeiger
 
-
-
-
 ### Kapitel I - Allgemeines
-
 
 ### § 1.01 Anwendungsbereich
 
@@ -5837,13 +5564,11 @@ Mindestanforderungen an Geräte zur Anzeige der Wendegeschwindigkeit
 (Wendeanzeiger) in der Binnenschifffahrt fest sowie die Bedingungen,
 unter denen die Erfüllung der Mindestanforderungen überprüft wird.
 
-
 ### § 1.02 Aufgabe des Wendanzeigers
 
 Der Wendeanzeiger hat die Aufgabe, zur Unterstützung der
 Radarnavigation die Wendegeschwindigkeit des Schiffes nach Backbord
 und Steuerbord zu messen und anzuzeigen.
-
 
 ### § 1.03 Baumusterprüfung
 
@@ -5851,7 +5576,6 @@ Wendeanzeiger sind zum Einbau an Bord von Schiffen nur dann
 zugelassen, wenn anhand einer Baumusterprüfung nachgewiesen wurde,
 dass sie die in diesen Vorschriften festgelegten Mindestanforderungen
 erfüllen.
-
 
 ### § 1.04 Antrag auf Baumusterprüfung
 
@@ -5891,10 +5615,6 @@ erfüllen.
     Baumusterprüfung angemeldete Anlage hergestellt oder gewerblich
     vertrieben wird.
 
-
-
-
-
 ### § 1.05 Baumusterzulassung
 
 
@@ -5915,10 +5635,6 @@ erfüllen.
 
 3.  Die Baumusterzulassung hat eine Gültigkeitsdauer von zehn Jahren und
     kann auf Antrag verlängert werden.
-
-
-
-
 
 ### § 1.06 Kennzeichnung der Geräte, Zulassungsnummer
 
@@ -6161,17 +5877,12 @@ erfüllen.
     Zulassungsnummer umgehend mit. Für die Anfertigung und das Anbringen
     der Zulassungsnummer hat der Antragsteller zu sorgen.
 
-
-
-
-
 ### § 1.07 Erklärung des Herstellers
 
 Zu jeder Anlage muss eine Erklärung des Herstellers mitgeliefert
 werden, in der zugesichert ist, dass die Anlage die bestehenden
 Mindestanforderungen erfüllt und ohne Einschränkungen dem bei der
 Prüfung vorgestellten Baumuster baugleich ist.
-
 
 ### § 1.08 Änderungen an zugelassenen Anlagen
 
@@ -6186,12 +5897,7 @@ Prüfung vorgestellten Baumuster baugleich ist.
     notwendig ist. Im Falle einer neuen Zulassung wird eine neue
     Zulassungsnummer erteilt.
 
-
-
-
-
 ### Kapitel 2 - Allgemeine Mindestanforderungen an Wendeanzeiger
-
 
 ### § 2.01 Konstruktion, Ausführung
 
@@ -6215,10 +5921,6 @@ Prüfung vorgestellten Baumuster baugleich ist.
     müssen bei Umgebungstemperaturen der Anlagen von 0 °C bis 40 °C
     erfüllt werden.
 
-
-
-
-
 ### § 2.02 Abgestrahlte Funkstörungen und elektromagnetische Verträglichkeit
 
 
@@ -6233,10 +5935,6 @@ Prüfung vorgestellten Baumuster baugleich ist.
 2.  Die Anlagen müssen bei elektromagnetischen Feldstärken bis zu 15 V/m
     in unmittelbarer Umgebung vom untersuchten Gerät im Frequenzbereich
     von 30 MHz bis 2000 MHz die Mindestanforderungen erfüllen.
-
-
-
-
 
 ### § 2.03 Bedienung
 
@@ -6268,10 +5966,6 @@ Prüfung vorgestellten Baumuster baugleich ist.
     dass die Anlage unter allen Bedingungen die Mindestanforderungen
     erfüllt.
 
-
-
-
-
 ### § 2.04 Bedienungsanleitung
 
 Zu jeder Anlage muss eine ausführliche Bedienungsanleitung geliefert
@@ -6287,10 +5981,6 @@ b)  Wartung und Pflege;
 
 c)  allgemeine Sicherheitsvorschriften.
 
-
-
-
-
 ### § 2.05 Einbau und Funktionsprüfung
 
 
@@ -6302,12 +5992,7 @@ c)  allgemeine Sicherheitsvorschriften.
     möglichst geringen Empfindlichkeit gegen andere typische
     Schiffsbewegungen sind mitzuliefern.
 
-
-
-
-
 ### Kapitel 3 - Operationelle Mindestanforderungen an Wendeanzeiger
-
 
 ### § 3.01 Zugriff auf den Wendeanzeiger
 
@@ -6322,10 +6007,6 @@ c)  allgemeine Sicherheitsvorschriften.
 
 
 3.  Drahtlose Fernbedienungen sind nicht erlaubt.
-
-
-
-
 
 ### § 3.02 Anzeige der Wendegeschwindigkeit
 
@@ -6343,10 +6024,6 @@ c)  allgemeine Sicherheitsvorschriften.
 
 
 3.  Ausschließlich numerische Anzeigen sind nicht erlaubt.
-
-
-
-
 
 ### § 3.03 Messbereiche
 
@@ -6378,21 +6055,16 @@ ausgestattet sein. Folgende Messbereiche werden empfohlen:
 
     *
 
-
-
-
 ### § 3.04 Genauigkeit der angezeigten Wendegeschwindigkeit
 
    Der angezeigte Wert darf nicht mehr als 2 % des Bereichsendwertes oder
 nicht mehr als 10 % vom wahren Wert abweichen. Der jeweils größere
 Wert ist zulässig (s. Anlage).
 
-
 ### § 3.05 Empfindlichkeit
 
 Die Ansprechschwelle darf eine Winkelgeschwindigkeitsänderung von 1 %
 des eingestellten Bereiches nicht überschreiten.
-
 
 ### § 3.06 Funktionsüberwachung
 
@@ -6406,10 +6078,6 @@ des eingestellten Bereiches nicht überschreiten.
     eine Änderung der Kreiseldrehzahl, die 10 % Rückgang der Genauigkeit
     bewirkt.
 
-
-
-
-
 ### § 3.07 Unempfindlichkeit gegen andere Schiffsbewegungen
 
 
@@ -6422,24 +6090,17 @@ des eingestellten Bereiches nicht überschreiten.
     können, dürfen keine bleibenden, über die Toleranzgrenzen
     hinausgehenden, Anzeigefehler verursachen.
 
-
-
-
-
 ### § 3.08 Unempfindlichkeit gegen magnetische Felder
 
 Der Wendeanzeiger muss unempfindlich sein gegen Magnetfelder, die
 üblicherweise an Bord von Schiffen auftreten können.
-
 
 ### § 3.09 Tochtergeräte
 
 Tochtergeräte müssen alle Anforderungen erfüllen, die an Wendeanzeiger
 gestellt werden.
 
-
 ### Kapitel 4 - Technische Mindestanforderungen an Wendeanzeiger
-
 
 ### § 4.01 Bedienung
 
@@ -6464,10 +6125,6 @@ gestellt werden.
     sie auch durch Ertasten gefunden und betätigt werden können. Außerdem
     müssen sie einen deutlich spürbaren Druckpunkt haben.
 
-
-
-
-
 ### § 4.02 Dämpfungseinrichtung
 
 
@@ -6480,10 +6137,6 @@ gestellt werden.
     zusätzlichen Vergrößerung der Anzeigebedämpfung vorhanden sein.
     Keinesfalls darf die Dämpfungszeitkonstante fünf Sekunden
     überschreiten.
-
-
-
-
 
 ### § 4.03 Anschluss von Zusatzgeräten
 
@@ -6520,15 +6173,7 @@ gestellt werden.
     c)  die Funktionsüberwachung wegen eines unzulässig hohen Fehlers (§ 3.06)
         angesprochen hat.
 
-
-
-
-
-
-
-
 ### Kapitel 5 - Prüfbedingungen und Prüfverfahren für Wendeanzeiger
-
 
 ### § 5.01 Sicherheit, Belastungsfähigkeit und Störemission
 
@@ -6537,7 +6182,6 @@ Beeinflussung von Bordgeräten, des Kompassschutzabstandes, der
 klimatischen Belastbarkeit, der mechanischen Belastbarkeit, der
 Umweltbelastbarkeit und der Lärmemission erfolgt entsprechend der „IEC
 Publication 945 Marine Navigational Equipment General Requirements“.
-
 
 ### § 5.02 Abgestrahlte Funkstörungen und elektromagnetische Verträglichkeit
 
@@ -6550,10 +6194,6 @@ Publication 945 Marine Navigational Equipment General Requirements“.
 
 2.  Die Anforderungen nach § 2.02 Nummer 2 an die elektromagnetische
     Verträglichkeit müssen erfüllt sein.
-
-
-
-
 
 ### § 5.03 Prüfverfahren
 
@@ -6570,17 +6210,11 @@ Publication 945 Marine Navigational Equipment General Requirements“.
     der in der Anlage dargestellten Toleranzgrenzen liegen. Alle anderen
     Anforderungen müssen erfüllt sein.
 
-
-
-
-
 #### Anlage Fehlergrenzen für Wendeanzeiger
 
 ## (nicht darstellbare Anlage)
 
-
 ## Teil V - Vorschriften für den Einbau und die Funktionsprüfung von Navigationsradaranlagen und Wendeanzeigern in der Binnenschifffahrt
-
 
 ## Inhaltsverzeichnis
 
@@ -6638,9 +6272,6 @@ Publication 945 Marine Navigational Equipment General Requirements“.
 
     *   Bescheinigung über Einbau und Funktion
 
-
-
-
 ## **Anlage**
 
 
@@ -6648,9 +6279,6 @@ Publication 945 Marine Navigational Equipment General Requirements“.
 
     *   Muster der Bescheinigung über Einbau und Funktion von Radaranlagen und
         Wendeanzeigers
-
-
-
 
 ## § 1 Ziel dieser Vorschrift
 
@@ -6663,14 +6291,12 @@ Funktionsprüfung erfolgt. Inland-ECDIS-Geräte, die im Navigationsmodus
 betrieben werden können, sind Navigationsradaranlagen im Sinne dieser
 Vorschriften.
 
-
 ## § 2 Zulassung der Geräte
 
 Für die Radarfahrt auf den Binnenwasserstraßen der Gemeinschaft dürfen
 nur Geräte eingebaut werden, die eine Zulassung nach den geltenden
 Vorschriften dieser Richtlinie oder der Zentralkommission für die
 Rheinschifffahrt besitzen und die eine Zulassungsnummer tragen.
-
 
 ## § 3 Anerkannte Fachfirmen
 
@@ -6689,15 +6315,10 @@ Rheinschifffahrt besitzen und die eine Zulassungsnummer tragen.
 3.  Die zuständige Behörde teilt die von ihr anerkannten Fachfirmen dem
     Ausschuss umgehend mit.
 
-
-
-
-
 ## § 4 Anforderungen an die Bordstromversorgung
 
 Die Stromzuführungen für Radaranlagen und Wendeanzeiger müssen jeweils
 eine eigene Absicherung haben und möglichst ausfallsicher sein.
-
 
 ## § 5 Einbau der Radarantenne
 
@@ -6714,10 +6335,6 @@ eine eigene Absicherung haben und möglichst ausfallsicher sein.
 2.  Nachdem der Einbauwinkelfehler korrigiert worden ist, darf nach dem
     Einstellen des Radarbildes die Abweichung zwischen Vorauslinie und
     Schiffslängsachse nicht größer als 1 Grad sein.
-
-
-
-
 
 ## § 6 Einbau des Radarsichtgeräts und des Bedienteils
 
@@ -6743,10 +6360,6 @@ eine eigene Absicherung haben und möglichst ausfallsicher sein.
 4.  Falls Tochtergeräte eingebaut werden, unterliegen sie den
     Vorschriften, die für Navigationsradaranlagen gelten.
 
-
-
-
-
 ## § 7 Einbau des Wendeanzeigers
 
 
@@ -6760,16 +6373,11 @@ eine eigene Absicherung haben und möglichst ausfallsicher sein.
 2.  Falls Tochtergeräte eingebaut werden, unterliegen sie den
     Vorschriften, die für Wendeanzeiger gelten.
 
-
-
-
-
 ## § 8 Einbau des Positionssensors
 
 Der Positionssensor (z. B. DGPS-Antenne) muss so eingebaut werden,
 dass er die bestmögliche Genauigkeit erzielt und durch Aufbauten und
 Sendeanlagen an Bord möglichst wenig beeinträchtigt wird.
-
 
 ## § 9 Einbau- und Funktionsprüfung
 
@@ -6863,10 +6471,6 @@ u)  Der statistische Positionsfehler der Karte darf 2 m nicht
 v)  der statistische Winkelfehler der Karte darf 1 Grad nicht
     überschreiten.
 
-
-
-
-
 ## § 10 Bescheinigung über Einbau und Funktion
 
 Nach erfolgreicher Prüfung nach § 8 stellt die zuständige Behörde oder
@@ -6875,7 +6479,6 @@ aus. Diese Bescheinigung ist ständig an Bord mitzuführen. Bei
 Nichterfüllung der Prüfbedingungen wird eine Mängelliste ausgestellt.
 Eine eventuell noch vorhandene Bescheinigung wird eingezogen oder
 durch die anerkannte Fachfirma der zuständigen Behörde übersandt.
-
 
 ### Anlage Muster der Bescheinigung über Einbau und Funktion von Radaranlagen und Wendeanzeigern
 
@@ -7084,17 +6687,11 @@ durch die anerkannte Fachfirma der zuständigen Behörde übersandt.
 
     *   ............
 
-
-
-
-
 ## Teil VI - Muster der Zusammenstellung der Prüfinstitute, der zugelassenen Geräte sowie der zugelassenen Einbaufirmen nach Teil IV und Teil V
-
 
 ## A. Zuständige Prüfbehörden
 
 ## nach Teil 1 § 1.04 Nummer 1
-
 
 ## B. Zugelassene Radargeräte
 
@@ -7176,8 +6773,6 @@ durch die anerkannte Fachfirma der zuständigen Behörde übersandt.
     *
     *
 
-
-
 ## C. Zugelassene Wendegeschwindigkeitsanzeiger
 
    ## nach Teil IV § 1.06 Nummer 4
@@ -7257,8 +6852,6 @@ durch die anerkannte Fachfirma der zuständigen Behörde übersandt.
     *
     *
     *
-
-
 
 ## D. Anerkannte Fachfirmen für den Einbau oder Austausch von Radaranlagen und Wendeanzeigern nach Teil V § 3
 
@@ -7370,10 +6963,7 @@ durch die anerkannte Fachfirma der zuständigen Behörde übersandt.
     *
     *
 
-
-
 ## Teil VII - Anforderungen an Kompasse und Steuerkurstransmitter
-
 
 ## § 1 Anforderungen an Kompasse und Steuerkurstransmitter
 
@@ -7448,9 +7038,7 @@ Ein Steuerkurstransmitter (THD) nach Nr. 4, 5 oder 6 muss mit einer
 analogen Anzeige, die die Anforderungen an eine Kompass-Anzeige nach
 ISO 2269 Nr. 2.2.6.1.2 und EN 60945 erfüllt, ausgerüstet sein.
 
-
 ## Teil VIII - Vorschriften für den Einbau von Kompassen auf Magnetbasis (hier Magnetkompasse genannt) und Steuerkurstransmitter auf Magnetbasis
-
 
 ## Inhaltsverzeichnis
 
@@ -7472,9 +7060,6 @@ ISO 2269 Nr. 2.2.6.1.2 und EN 60945 erfüllt, ausgerüstet sein.
 *    *   3
 
     *   Haltevorrichtungen und Kompensiermittel
-
-
-
 
 ## § 1 Allgemeines
 
@@ -7498,10 +7083,6 @@ ISO 2269 Nr. 2.2.6.1.2 und EN 60945 erfüllt, ausgerüstet sein.
 
 4.  Der Magnetkompass für Binnenschiffe muss in der Mittschiffsebene
     aufgestellt sein.
-
-
-
-
 
 ## § 2 Schutzabstände von magnetischen Störquellen
 
@@ -7562,10 +7143,6 @@ ISO 2269 Nr. 2.2.6.1.2 und EN 60945 erfüllt, ausgerüstet sein.
     (Mindestabstände) vom Magnet-Regel- und Magnet-Steuerkompass gelten
     die dort als verminderte Schutzabstände (reduzierte Mindestabstände)
     angeführten Werte.
-
-
-
-
 
 ## § 3 Haltevorrichtungen und Kompensiermittel
 

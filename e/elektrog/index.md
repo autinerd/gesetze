@@ -37,16 +37,12 @@ Informationsgesellschaft (ABl. EG Nr. L 104 S. 37), geändert durch die
 Richtlinie 98/48/EG des Europäischen Parlaments und des Rates vom 20.
 Juli 1998 (ABl. EG Nr. L 217 S. 18), sind beachtet worden.
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Abschnitt 1 - Allgemeine Vorschriften
-
-
 
 ### § 1 Abfallwirtschaftliche Ziele
 
@@ -65,7 +61,6 @@ privaten Haushalten pro Einwohner pro Jahr getrennt gesammelt werden.
 der Regelungen der §§ 9 bis 13 spätestens fünf Jahre nach
 Inkrafttreten dieses Gesetzes. Die Bundesregierung berichtet über das
 Ergebnis ihrer Prüfung dem Deutschen Bundestag und dem Bundesrat.
-
 
 ### § 2 Anwendungsbereich
 
@@ -130,7 +125,6 @@ Elektronikgeräten, bleiben diese Rechtsvorschriften unberührt. Die
 Nachweispflichten nach § 50 Absatz 1 des Kreislaufwirtschaftsgesetzes
 gelten nicht für die Überlassung von Altgeräten an Einrichtungen zur
 Sammlung und Erstbehandlung von Altgeräten.
-
 
 ### § 3 Begriffsbestimmungen
 
@@ -264,10 +258,7 @@ Kaufvertrages gerichtete Präsentieren oder öffentliche
 Zugänglichmachen von Elektro- und Elektronikgeräten; dies umfasst auch
 die Aufforderung, ein Angebot abzugeben.
 
-
 ## Abschnitt 2 - Pflichten beim Inverkehrbringen von Elektro- und Elektronikgeräten
-
-
 
 ### § 4 Produktkonzeption
 
@@ -291,7 +282,6 @@ der Vollständigkeit von Daten eine ununterbrochene Stromversorgung
 notwendig und eine ständige Verbindung zwischen dem Gerät und der
 Batterie oder dem Akkumulator erforderlich ist.
 
-
 ### § 5 Stoffverbote
 
 (1) Es ist verboten, neue Elektro- und Elektronikgeräte in Verkehr zu
@@ -311,7 +301,6 @@ des Europäischen Parlaments und des Rates vom 27. Januar 2003 zur
 Beschränkung der Verwendung bestimmter gefährlicher Stoffe in Elektro-
 und Elektronikgeräten (ABl. EU Nr. L 37 S. 19) in der jeweils
 geltenden Fassung aufgeführten Verwendungszwecke.
-
 
 ### § 6 Einrichten der Gemeinsamen Stelle, Registrierung, Finanzierungsgarantie
 
@@ -363,7 +352,6 @@ tatsächlich entstandenen Kosten überschreiten. Eine Ausweisung der
 Kosten für die Entsorgung von Elektro- und Elektronikgeräten, die nach
 dem 13. August 2005 in Verkehr gebracht werden, ist nicht zulässig.
 
-
 ### § 7 Kennzeichnung
 
 Elektro- und Elektronikgeräte, die nach dem 13. August 2005 in einem
@@ -378,7 +366,6 @@ erforderlich ist, ist das Symbol auf die Verpackung, die
 Gebrauchsanweisung oder den Garantieschein für das Elektro- oder
 Elektronikgerät aufzudrucken.
 
-
 ### § 8 Vertrieb mit Hilfe der Fernkommunikationstechnik
 
 Die Anforderungen des § 6 Abs. 2, 3 und 4 sowie der §§ 7 und 13 Abs. 1
@@ -387,10 +374,7 @@ oder Elektronikgeräte mit Hilfe der Fernkommunikationstechnik
 unmittelbar an Nutzer in privaten Haushalten in einem anderen
 Mitgliedstaat der Europäischen Union vertreiben.
 
-
 ## Abschnitt 3 - Sammlung, Rücknahme, Behandlungs- und Verwertungspflichten
-
-
 
 ### § 9 Getrennte Sammlung
 
@@ -521,7 +505,6 @@ und hat so zu erfolgen, dass eine spätere Wiederverwendung, Demontage
 und Verwertung, insbesondere stoffliche Verwertung, nicht behindert
 werden. § 20 gilt entsprechend.
 
-
 ### § 10 Rücknahmepflicht der Hersteller
 
 (1) Jeder Hersteller ist verpflichtet, die nach § 9 Abs. 4
@@ -545,7 +528,6 @@ wiederzuverwenden oder nach § 11 zu behandeln und nach § 12 zu
 entsorgen sowie die Kosten der Entsorgung zu tragen.
 
 (3) § 9 Abs. 2 gilt für Hersteller entsprechend.
-
 
 ### § 11 Behandlung
 
@@ -640,10 +622,6 @@ Einhaltung der Anforderungen dieses Gesetzes geprüft und im
     Berufsqualifikation vor Aufnahme der Tätigkeit entsprechend den §§ 13a
     und 13b der Gewerbeordnung hat nachprüfen lassen; Verfahren nach
     dieser Nummer können über eine einheitliche Stelle abgewickelt werden.
-
-
-
-
 
 ### § 12 Verwertung
 
@@ -746,13 +724,6 @@ Anteile berücksichtigt werden, wenn
         L 201 vom 30.7.2008, S. 36) geändert worden ist, in der jeweils
         geltenden Fassung.
 
-
-
-
-
-
-
-
 ### § 13 Mitteilungs- und Informationspflichten der Hersteller
 
 (1) Jeder Hersteller ist verpflichtet, der Gemeinsamen Stelle (§ 14)
@@ -832,10 +803,7 @@ Akkumulator enthalten, sind Angaben beizufügen, welche den Nutzer über
 den Typ und das chemische System der Batterie oder des Akkumulators
 und über deren sichere Entnahme informieren.
 
-
 ## Abschnitt 4 - Gemeinsame Stelle, zuständige Behörde
-
-
 
 ### § 14 Aufgaben der Gemeinsamen Stelle
 
@@ -945,7 +913,6 @@ Kosten verlangen, die ihr für Leistungen nach § 14 Abs. 3, 5 und 6
 entstehen. Dieser Anspruch richtet sich im Falle der Beleihung gegen
 die Beliehene.
 
-
 ### § 15 Organisation der Gemeinsamen Stelle
 
 (1) Die Gemeinsame Stelle muss durch Satzung, Gesellschaftsvertrag
@@ -982,7 +949,6 @@ Entsorgungsträger, des Bundes und der Länder sowie der
 Entsorgungswirtschaft und der Umwelt- und Verbraucherschutzverbände
 angehören. Der Beirat gibt sich eine Geschäftsordnung.
 
-
 ### § 16 Aufgaben der zuständigen Behörde
 
 (1) Zuständige Behörde ist das Umweltbundesamt.
@@ -1012,10 +978,7 @@ Anordnungen zur zügigen Abholung der bereitgestellten Behältnisse
 unter Berücksichtigung der von ihr geprüften Berechnungen der
 Gemeinsamen Stelle nach § 14 Abs. 5 und 6.
 
-
 ## Abschnitt 5 - Beleihung
-
-
 
 ### § 17 Ermächtigung zur Beleihung
 
@@ -1051,7 +1014,6 @@ ihre Tätigkeit Gebühren und Auslagen zu erheben.
 
 (3) Die Beleihung ist im Bundesanzeiger bekannt zu machen.
 
-
 ### § 18 Aufsicht
 
 (1) Die Beliehene untersteht der Rechts- und Fachaufsicht der
@@ -1068,7 +1030,6 @@ Kosten verlangen, die ihr für die Rechts- und Fachaufsicht nach Absatz
 Bundes für die Durchführung der Rechts- und Fachaufsicht
 veranschlagten Einnahmen nicht übersteigen.
 
-
 ### § 19 Beendigung der Beleihung
 
 (1) Die Beleihung endet, wenn die Beliehene aufgelöst ist.
@@ -1082,17 +1043,13 @@ schriftlich verlangen. Dem Begehren ist innerhalb einer angemessenen
 Frist zu entsprechen, die zur Fortführung der Aufgabenerfüllung nach §
 16 erforderlich ist.
 
-
 ## Abschnitt 6 - Schlussbestimmungen
-
-
 
 ### § 20 Beauftragung Dritter
 
 Soweit sich die nach diesem Gesetz Verpflichteten zur Erfüllung ihrer
 Pflichten Dritter bedienen, gilt § 22 Satz 2 und 3 des
 Kreislaufwirtschaftsgesetzes.
-
 
 ### § 21 Widerspruch und Klage
 
@@ -1101,7 +1058,6 @@ Kreislaufwirtschaftsgesetzes.
 
 (2) Die Klage gegen eine Anordnung nach § 9 Abs. 5 Satz 4 oder nach §
 16 Abs. 5 hat keine aufschiebende Wirkung.
-
 
 ### § 22 Kosten
 
@@ -1124,7 +1080,6 @@ der Rechtsverordnung eine Verminderung des maßgeblichen Gebührensatzes
 erfolgt, findet bei nur auf Antrag vorzunehmenden, kostenpflichtigen
 Amtshandlungen die jeweils im Zeitpunkt der Beendigung der
 Amtshandlung geltende Rechtsverordnung Anwendung.
-
 
 ### § 23 Bußgeldvorschriften
 
@@ -1190,7 +1145,6 @@ Verfahren angeordneten Geldbußen und die Geldbeträge, deren Verfall
 gerichtlich angeordnet wurde, der Bundeskasse zu, die auch die der
 Staatskasse auferlegten Kosten trägt.
 
-
 ### § 24 Übergangsvorschriften
 
 Die Wahrnehmung der Rechte und Pflichten nach § 6 Abs. 2 und 3, § 9
@@ -1200,7 +1154,6 @@ November 2005, die Wahrnehmung der Rechte und Pflichten nach §§ 7 und
 8, § 9 Abs. 1 bis 4, Abs. 7 und 8, §§ 10 und 11, § 13 Abs. 1 Nr. 2 bis
 7, Abs. 3 Satz 5 und 6 sowie Abs. 4 bis 6, § 14 Abs. 3, 7 und 8 sowie
 § 16 Abs. 5 bis zum 23. März 2006 ausgesetzt.
-
 
 ### § 25 Inkrafttreten
 
@@ -1212,7 +1165,6 @@ November 2005, die Wahrnehmung der Rechte und Pflichten nach §§ 7 und
 (3) § 12 tritt am 31. Dezember 2006 in Kraft.
 
 (4) Im Übrigen tritt dieses Gesetz am 13. August 2005 in Kraft.
-
 
 ### Anhang I Liste der Kategorien und Geräte
 
@@ -1697,10 +1649,6 @@ Fundstelle des Originaltextes: BGBl. I 2005, 771 - 772
 *    *
     *   Jegliche Geräte zur automatischen Abgabe von Produkten
 
-
-
-
-
 ### Anhang II Symbol zur Kennzeichnung von Elektro- und Elektronikgeräten nach § 7
 
 Fundstelle des Originaltextes: BGBl. I 2005, 772
@@ -1711,7 +1659,6 @@ dar (siehe unten). Dieses Symbol ist sichtbar, erkennbar und dauerhaft
 anzubringen.
 (... nicht darstellbare Abbildung eines durchgestrichenen
 Abfallbehälters)
-
 
 ### Anhang III Selektive Behandlung von Werkstoffen und Bauteilen von Elektro- und Elektronik-Altgeräten nach § 11 Abs. 2
 
@@ -1854,10 +1801,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 8.  Gasentladungslampen sind ausreichend gegen Bruch gesichert zu lagern
     und zu transportieren.
-
-
-
-
 
 ### Anhang IV Technische Anforderungen nach § 11 Abs. 2 Satz 4
 

@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 26.5.2003 BAnz. 2003 Nr. 100, 11853
 
-
 ## Eingangsformel
 
 Auf Grund des § 13 Abs. 2 des Seeaufgabengesetzes in der Fassung der
@@ -26,14 +25,12 @@ Bekanntmachung vom 21. Januar 1987 (BGBl. I S. 541) verordnet das
 Bundesministerium für Verkehr im Einvernehmen mit dem
 Bundesministerium der Finanzen und nach Anhörung der Küstenländer:
 
-
 ## § 1
 
 Für Wasserfahrzeuge, die den Nord-Ostsee-Kanal befahren, sind
 Befahrungsabgaben nach der Anlage zu dieser Verordnung zu entrichten.
 Die Befahrungsabgaben werden von der Wasser- und Schiffahrtsdirektion
 Nord erhoben und eingezogen.
-
 
 ## § 2
 
@@ -48,7 +45,6 @@ Zur Zahlung der Befahrungsabgaben sind verpflichtet:
 
 Mehrere Zahlungspflichtige haften als Gesamtschuldner.
 
-
 ## § 3
 
 (1) Die Zahlungspflicht für die Befahrungsabgaben entsteht mit dem
@@ -57,7 +53,6 @@ Antritt der Reise durch den Nord-Ostsee-Kanal.
 (2) Die Befahrungsabgaben werden mit Rechnungserteilung fällig. Sie
 sind vom 15. Tage nach Rechnungsdatum mit fünf Prozent über dem
 Basiszinssatz nach § 247 des Bürgerlichen Gesetzbuchs zu verzinsen.
-
 
 ## § 4
 
@@ -83,7 +78,6 @@ beginnt eine neue Verjährung.
 angefochten, so erlöschen Ansprüche aus ihr nicht vor Ablauf von sechs
 Monaten, nachdem die Entscheidung unanfechtbar geworden ist oder das
 Verfahren sich auf andere Weise erledigt hat.
-
 
 ## § 5
 
@@ -128,7 +122,6 @@ aufgerundet. Für die Abwicklung des bargeldlosen Zahlungsverkehrs kann
 die Wasser- und Schifffahrtsdirektion Nord eine Verwaltungsgebühr in
 Höhe der dadurch entstandenen Kosten erheben.
 
-
 ## § 6
 
 (1) Von der Zahlung der Befahrungsabgaben sind befreit:
@@ -151,7 +144,6 @@ Höhe der dadurch entstandenen Kosten erheben.
 Schiffahrtsdirektion Nord im Einzelfall zulassen, wenn das öffentliche
 Interesse es erfordert.
 
-
 ## § 7
 
 (1) Für Fahrzeuge im Durchgangsverkehr über 3.000 BRZ, die
@@ -172,11 +164,9 @@ Antrag die Ermäßigung auch nach Ablauf des Kalenderjahres erfolgen.
 Der Antrag ist bis zum 31. März des folgenden Jahres bei der Wasser-
 und Schiffahrtsdirektion Nord zu stellen.
 
-
 ## § 8
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Anlage zu § 1
 

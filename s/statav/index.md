@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1991, 846
 
-
-
 ## Eingangsformel
 
 Auf Grund der Anlage I Kapitel XVIII Abschnitt II Nr. 1 des
@@ -30,7 +28,6 @@ Bundesminister der Finanzen, der Bundesminister für Frauen und Jugend,
 der Bundesminister für Bildung und Wissenschaft, der Bundesminister
 für Verkehr, der Bundesminister des Innern und der Bundesminister für
 Ernährung, Landwirtschaft und Forsten:
-
 
 ## Art 1 - Gesetz über die Preisstatistik
 
@@ -57,10 +54,6 @@ Ernährung, Landwirtschaft und Forsten:
     1\. Januar 1995 bei höchstens 38.000 Auskunftspflichtigen
     durchgeführt."
 
-
-
-
-
 ## Art 2 - Gesetz über die Statistik der Wirtschaftsrechnungen privater Haushalte
 
 Abweichend von § 3 Abs. 1 des Gesetzes über die Statistik der
@@ -71,10 +64,7 @@ Fassung, das zuletzt durch Artikel 10 des Gesetzes vom 14. März 1980
 "(1) Die Erhebungen nach § 1 Nr. 1 erstrecken sich auf höchstens 6.000
 Haushalte, ab 1. Januar 1993 auf 2.000 Haushalte in jedem Monat."
 
-
 ## Art 3 - Gesetz über die Statistik im Produzierenden Gewerbe
-
-
 
 ## § 1
 
@@ -124,18 +114,11 @@ Produzierenden Gewerbe in der Fassung der Bekanntmachung vom 30. Mai
     1\.700, ab 1. Januar 1993 bei höchstens 1.400 der nach Ziffer I
     erfaßten Unternehmen" ersetzt.
 
-
-
-
-
 ## (XXXX) §§ 2 und 3 (weggefallen)
 
 -
 
-
 ## Art 4 - Handelsstatistikgesetz
-
-
 
 ## § 1
 
@@ -154,18 +137,11 @@ Abweichend von § 2 des Handelsstatistikgesetzes vom 10. November 1978
 
 4.  In Nummer 4 wird die Zahl "8.000" durch die Zahl "11.500" ersetzt.
 
-
-
-
-
 ## § 2
 
 -
 
-
 ## Art 5 - Gesetz über die Durchführung laufender Statistiken im Handwerk
-
-
 
 ## § 1
 
@@ -174,15 +150,11 @@ Statistiken im Handwerk in der Fassung der Bekanntmachung vom 30. Mai
 1980 (BGBl. I S. 648) gilt:
 In § 2 Abs. 3 wird die Zahl "35.000" durch die Zahl "50.000" ersetzt.
 
-
 ## § 2
 
 -
 
-
 ## Art 6 - Gesetz über Kostenstrukturstatistik
-
-
 
 ## § 1
 
@@ -223,11 +195,9 @@ diesem Gebiet ansässigen Unternehmen nach § 1 Nr. 1 bis 4 erhöht.
 
 (2) Diese Regelung tritt am 31. Dezember 1993 außer Kraft."
 
-
 ## (XXXX) §§ 2 und 3 (weggefallen)
 
 -
-
 
 ## Art 7 - Gesetz über Umweltstatistiken
 
@@ -237,10 +207,7 @@ Artikel 10 der Verordnung vom 26. November 1986 (BGBl. I S. 2089)
 geändert worden ist, gilt:
 In § 4 Abs. 1 wird die Zahl "80.000" durch die Zahl "90.000" ersetzt.
 
-
 ## Art 8 - Gesetz über die Lohnstatistik
-
-
 
 ## § 1
 
@@ -284,25 +251,17 @@ gilt:
     zur Gewinnung einer zuverlässigen statistischen Grundlage erforderlich
     ist."
 
-
-
-
-
 ## (XXXX) §§ 2 bis 4 (weggefallen)
 
 -
 
-
 ## Art 9 bis 21 -
-
-
 
 ## Art 22 - Außerkrafttreten
 
 Mit Ablauf des 2. Oktober 1992 treten Artikel 3 §§ 2 und 3, Artikel 4
 § 2, Artikel 5 § 2, Artikel 6 §§ 2 und 3, Artikel 8 §§ 2 bis 4 sowie
 die Artikel 9 bis 21 außer Kraft.
-
 
 ## Art 23 - Inkrafttreten
 

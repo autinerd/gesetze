@@ -23,7 +23,6 @@ Geändert durch
 V mit ausnahme d. § 3 satz 2 aufgeh. durch
 :   § 4 Satz 3 V 105-3-10-4 v. 27.9.1996 I 1488 mWv 1.10.1996
 
-
 ## § 3 Hebammenhilfe-Gebührenverordnung
 
 Für Leistungen, die in dem Teil des Landes Berlin, in dem das

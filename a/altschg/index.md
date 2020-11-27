@@ -19,10 +19,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 V v. 31.10.2006 I 2407
 
-
 ## Erster Teil - Allgemeine Grundsätze
-
-
 
 ### § 1 Zweck der Altschuldenhilfen
 
@@ -34,7 +31,6 @@ Investitionsfähigkeit, auf Antrag Altschuldenhilfen (§§ 4 und 7)
 gewährt. Damit werden gleichzeitig die Voraussetzungen für die
 Privatisierung und Bildung individuellen Wohneigentums für Mieter
 verbessert.
-
 
 ### § 2 Antragberechtigte
 
@@ -82,7 +78,6 @@ genommen hat, ist eine Rückforderung des Schuldanerkenntnisses
 entsprechend den Vorschriften des Bürgerlichen Gesetzbuches über die
 Herausgabe einer ungerechtfertigten Bereicherung ausgeschlossen.
 
-
 ### § 3 Altverbindlichkeiten
 
 (1) Altverbindlichkeiten sind die Verpflichtungen der in § 2 Abs. 1
@@ -115,10 +110,7 @@ worden sind.
 Wohnungsunternehmen bis zum 31. Dezember 1993 gestundeten Zinsen und
 Bürgschaftsgebühren.
 
-
 ## Zweiter Teil - Teilentlastung durch Schuldübernahme
-
-
 
 ### § 4 Teilentlastung
 
@@ -262,7 +254,6 @@ Voraussetzungen des Absatzes 1 gewährt werden, wenn die Belastung mit
 Altverbindlichkeiten nach dem 30. Juni 1995 zu einer erheblichen
 Beeinträchtigung der Wirtschaftlichkeit des Hausbesitzes führen würde.
 
-
 ### § 5 Privatisierungs- und Veräußerungspflicht, Abführung von Erlösen
 
 (1) Das Wohnungsunternehmen hat mindestens 15 vom Hundert seines
@@ -377,7 +368,6 @@ sind entsprechend anzuwenden.
 (4) Die Verpflichtung zur Privatisierung nach Artikel 22 Abs. 4 des
 Einigungsvertrages bleibt unberührt.
 
-
 ### § 6 Steuern vom Einkommen und Ertrag
 
 Erhöhungen des Betriebsvermögens, die durch eine Teilentlastung im
@@ -388,7 +378,6 @@ Aufhebung der Teilentlastung nach § 4 Abs. 4 oder 7 oder nach § 5 Abs.
 3 oder durch die Pflicht zur Abführung von Erlösen nach § 5 Abs. 2
 entstehen, bleiben bei der Einkommensteuer, Körperschaftsteuer und
 Gewerbesteuer außer Ansatz.
-
 
 ### § 6a Ermächtigung zum Erlass von Vorschriften über zusätzliche Entlastung (Härtefallregelung)
 
@@ -404,10 +393,7 @@ Sanierungskonzeptes für das Unternehmen erreicht wird. Voraussetzung
 für die Gewährung ist, dass sich das Land an dem Sanierungskonzept in
 mindestens der Höhe der Entlastung durch den Bund beteiligt.
 
-
 ## Dritter Teil - Gewährung einer Zinshilfe
-
-
 
 ### § 7 Zinshilfe
 
@@ -426,24 +412,19 @@ begründen.
 nach dem 1. Januar 1994, beschränkt sich der Anspruch auf Zinshilfe
 auf den Zeitraum, in dem ihre Verfügungsbefugnis besteht.
 
-
 ### § 8 Kostentragung
 
 Der Bund und die in Artikel 1 Abs. 1 des Einigungsvertrages genannten
 Länder sowie das Land Berlin tragen jeweils die Hälfte der Kosten der
 Zinshilfe.
 
-
 ## Vierter Teil - Verfahrens- und Schlußvorschriften
-
-
 
 ### § 9 Antrag
 
 Die Anträge auf Teilentlastung nach § 4 und auf Zahlung einer
 Zinshilfe nach § 7 sind bei der kreditgebenden Bank spätestens bis zum
 31\. Dezember 1993 zu stellen.
-
 
 ### § 10 Auskunftspflicht
 
@@ -454,7 +435,6 @@ Entscheidungen zuständigen Stelle auf Verlangen Auskunft über die für
 die Gewährung von Leistungen nach diesem Gesetz maßgeblichen Umstände
 zu erteilen und Einsicht in ihre Unterlagen zu gewähren sowie die
 Besichtigung von Grundstücken, Gebäuden und Wohnungen zu gestatten.
-
 
 ### § 11 Entscheidungen
 
@@ -473,7 +453,6 @@ Einvernehmen mit dem Bund auf die nach Absatz 1 zuständige Stelle
 Leistungen nach § 4 wird ein Lenkungsausschuß gebildet. Dieser spricht
 Empfehlungen aus. Die Mitglieder des Lenkungsausschusses werden vom
 Bund und den Ländern im Einvernehmen bestellt.
-
 
 ### § 12 Ermächtigung
 
@@ -517,7 +496,6 @@ gewährt werden. Dabei sind nähere Vorschriften zu erlassen über
 Den Belegungsbindungen unterliegen nicht die nach § 5 privatisierten
 oder veräußerten und die nach dem Vermögensgesetz rückgegebenen oder
 rückübertragenen Wohnungen.
-
 
 ### § 13 Überleitungsvorschrift zum Wohnraumförderungsgesetz
 

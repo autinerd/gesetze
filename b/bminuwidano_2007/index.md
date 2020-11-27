@@ -19,8 +19,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 496
 
-
-
 ## I. Erlass von Widerspruchsbescheiden
 
 (1) Aufgrund des § 126 Abs. 3 Nr. 2 Satz 2 des
@@ -36,7 +34,6 @@ Reaktorsicherheit bleibt die Entscheidung über Widersprüche
 vorbehalten, wenn der Behördenleiter des Umweltbundesamtes selbst
 betroffen ist.
 
-
 ## II. Vertretung bei Klagen aus dem Beamtenverhältnis
 
 (1) Aufgrund des § 174 Abs. 3 des Bundesbeamtengesetzes übertrage ich
@@ -46,7 +43,6 @@ Anordnung für den Erlass von Widerspruchsbescheiden zuständig ist.
 
 (2) Für besondere Fälle behalte ich mir die Vertretung des Dienstherrn
 vor.
-
 
 ## III. Schlussvorschriften
 
@@ -63,7 +59,6 @@ I genannten Behörde erweitert werden, bleibt es für Widersprüche, die
 vor dem Inkrafttreten dieser Anordnung eingelegt, und Klagen, die vor
 dem Inkrafttreten dieser Anordnung erhoben worden sind, bei der
 bisherigen Regelung.
-
 
 ## Schlussformel
 

@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 1109
 
-
 ## (XXXX)
 
 Nach § 1 Absatz 1 Satz 2 in Verbindung mit Satz 1 Nummer 3 des
@@ -429,9 +428,6 @@ Geltendmachung von Unterhaltsansprüchen festgestellt ist:
 
     *   4. November 1987
         (BGBl. I S. 2381).
-
-
-
 
 ## Schlussformel
 

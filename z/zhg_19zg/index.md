@@ -19,12 +19,10 @@ Fundstelle
 Geändert durch
 :   Art. 49 G v. 20.12.1988 I 2477
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## § 1
 
@@ -36,7 +34,6 @@ Zahnheilkunde zur Behandlung von Versicherten der gesetzlichen
 Krankenversicherung und deren Angehörigen nach Maßgabe der folgenden
 Vorschriften zuzulassen.
 
-
 ## § 2
 
 Die für Zahnärzte geltenden Vorschriften des Fünften Buches
@@ -46,7 +43,6 @@ veröffentlichten bereinigten Fassung, zuletzt geändert durch Artikel
 19 des Gesetzes vom 20. Dezember 1988 (BGBl. I S. 2477), gelten
 sinngemäß für die in § 1 genannten Personen, soweit sich aus den
 nachstehenden Vorschriften nicht etwas anderes ergibt.
-
 
 ## § 3
 
@@ -63,12 +59,10 @@ Zahnheilkundegesetzes bis zur Stellung des Antrags auf Eintragung in
 das Verzeichnis nach Absatz 2 mindestens fünf Jahre selbständig
 ausgeübt haben.
 
-
 ## § 4
 
 Der Umfang, in welchem die Zahnheilkunde ausgeübt werden darf, ist
 auch in den Beschluß über die Zulassung aufzunehmen.
-
 
 ## § 5
 
@@ -80,13 +74,11 @@ Umfang zu erbringen; insoweit sind für diese Personen die
 vertraglichen Bestimmungen über die kassenzahnärztliche Versorgung
 verbindlich.
 
-
 ## § 6
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
 im Land Berlin.
-
 
 ## § 7
 

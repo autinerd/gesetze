@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 10 G v. 29.7.2009 I 2424
 
-
 ## 1. Abschnitt - Rechtsform, Aufsicht
-
-
 
 ### § 1 Rechtsform, Aufbau, Sitz
 
@@ -35,7 +32,6 @@ durch den Vorstand in einer Organisationsverfügung bestimmt.
 
 (3) Der Deutsche Wetterdienst hat seinen Sitz in Offenbach am Main.
 
-
 ### § 2 Aufsicht
 
 Der Deutsche Wetterdienst untersteht der Dienst- und Fachaufsicht des
@@ -44,7 +40,6 @@ der Fachaufsicht erfolgt die Steuerung des Deutschen Wetterdienstes
 durch das Bundesministerium für Verkehr, Bau und Stadtentwicklung
 durch Zielvorgaben und Erfolgskontrollen. Die haushaltsrechtlichen
 Bestimmungen bleiben unberührt.
-
 
 ### § 3 Zusammenarbeit
 
@@ -64,10 +59,7 @@ Wetterdienst zu erwarten, bedarf eine entsprechende Regelung der
 vorherigen Zustimmung durch das Bundesministerium für Verkehr, Bau und
 Stadtentwicklung.
 
-
 ## 2. Abschnitt - Aufgaben, Befugnisse
-
-
 
 ### § 4 Aufgaben
 
@@ -140,7 +132,6 @@ S. 1505), zuletzt geändert durch Artikel 1 des Gesetzes vom 2. Mai
 Bundesamtes für Strahlenschutz vom 9. Oktober 1989 (BGBl. I S. 1830)
 bleiben unberührt.
 
-
 ### § 5 Befugnisse
 
 (1) Der Deutsche Wetterdienst erbringt seine Dienstleistungen in
@@ -176,7 +167,6 @@ Dezember 1994 (BGBl. I S. 3858), zuletzt geändert durch Artikel 6 des
 Gesetzes vom 24. März 1997 (BGBl. I S. 590, 592), ist von der Erhebung
 eines Versorgungszuschlages seitens des betreffenden Unternehmens
 abhängig zu machen.
-
 
 ### § 6 Vergütungen
 
@@ -233,7 +223,6 @@ Länder-Beirates festgelegt.
 Abständen die Einhaltung der Verpflichtungen nach den Absätzen 2 und 4
 durch einen unabhängigen Wirtschaftsprüfer nachzuweisen.
 
-
 ### § 7 Quellenschutz
 
 Die Verbreitung meteorologischer Daten, Produkte und
@@ -244,10 +233,7 @@ zulässig. Ein weitergehender Schutz nach dem Urheberrechtsgesetz vom
 des Gesetzes vom 19. Juli 1996 (BGBl. I S. 1014, 1017), bleibt davon
 unberührt.
 
-
 ## 3. Abschnitt - Geschäftsführung
-
-
 
 ### § 8 Geschäftsführendes Organ
 
@@ -266,10 +252,7 @@ der Vorstandsmitglieder werden durch eine Satzung geregelt. Die
 Satzung und deren Änderung bedürfen der Genehmigung durch das
 Bundesministerium für Verkehr, Bau und Stadtentwicklung.
 
-
 ## 4. Abschnitt - Beiräte
-
-
 
 ### § 9 Wissenschaftlicher Beirat
 
@@ -293,7 +276,6 @@ und verwandten Gebieten angemessen vertreten sein.
 (3) Der Wissenschaftliche Beirat gibt sich eine Geschäftsordnung, die
 der Genehmigung des Vorstandes des Deutschen Wetterdienstes bedarf.
 
-
 ### § 10 Bund-Länder-Beirat
 
 (1) Der Bund-Länder-Beirat berät den Vorstand des Deutschen
@@ -309,10 +291,7 @@ Der Bund-Länder-Beirat gibt sich eine Geschäftsordnung, die der
 Genehmigung des Bundesministeriums für Verkehr, Bau und
 Stadtentwicklung bedarf.
 
-
 ## 5. Abschnitt - Personalwesen
-
-
 
 ### § 11 Reise- und umzugskostenrechtliche Sonderregelungen
 
@@ -323,10 +302,7 @@ Beamten beim Deutschen Wetterdienst erlassen, soweit dies auf Grund
 der Eigenart des Deutschen Wetterdienstes oder seiner Stellung im
 Wettbewerb erforderlich ist.
 
-
 ## 6. Abschnitt - Übergangs- und Schlußvorschriften
-
-
 
 ### § 12 Übergang von Rechten und Pflichten
 
@@ -344,7 +320,6 @@ Geschäftsordnung nach § 10 Abs. 2 die für den Verwaltungsbeirat gemäß
 § 5 des Gesetzes über den Deutschen Wetterdienst beschlossene
 Geschäftsordnung sinngemäß auf den Bund-Länder-Beirat anzuwenden.
 
-
 ### § 13 Gebührenordnung
 
 Bis zum Inkrafttreten der Preisliste gemäß § 6 werden die Entgelte
@@ -352,7 +327,6 @@ nach Maßgabe der Gebührenordnung des Deutschen Wetterdienstes vom 24.
 November 1975 (BAnz. Nr. 233 vom 16. Dezember 1975) und ihrer Anlage
 in der zum Zeitpunkt des Inkrafttretens dieses Gesetzes geltenden
 Fassung erhoben.
-
 
 ### § 14 Inkrafttreten, Außerkrafttreten
 

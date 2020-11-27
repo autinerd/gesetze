@@ -22,15 +22,11 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 15 Abs. 21 G v. 5.2.2009 I 160
 
-
 ## Erster Abschnitt - Ausübung von Nebentätigkeiten
-
-
 
 ### § 1 (weggefallen)
 
 -
-
 
 ### § 2 Nebentätigkeit im öffentlichen Dienst
 
@@ -60,10 +56,6 @@ Nebentätigkeit für
     einer juristischen Person oder eines Verbandes im Sinne des Absatzes 1
     Halbsatz 1 dient.
 
-
-
-
-
 ### § 3 Zulässigkeit von Nebentätigkeiten im Bundesdienst
 
 Aufgaben, die für den Bund oder bundesunmittelbare Körperschaften,
@@ -71,7 +63,6 @@ Anstalten oder Stiftungen des öffentlichen Rechts wahrgenommen werden,
 sind grundsätzlich in ein Hauptamt einzuordnen. Sie sollen nicht als
 Nebentätigkeit zugelassen werden, wenn sie mit dem Hauptamt in
 Zusammenhang stehen.
-
 
 ### § 4 Vergütung
 
@@ -98,7 +89,6 @@ besteht.
 und Übernachtungsgelder insoweit, als sie die Beträge nach Absatz 2
 Nr. 1 übersteigen, als Vergütung anzusehen.
 
-
 ### § 5 Allgemeine Erteilung, Widerruf der Genehmigung
 
 (1) Die zur Übernahme einer oder mehrerer Nebenbeschäftigungen gegen
@@ -122,7 +112,6 @@ Nebenbeschäftigung oder eine nicht genehmigungspflichtige
 Nebentätigkeit untersagt, so soll dem Beamten eine angemessene Frist
 zur Abwicklung der Nebentätigkeit eingeräumt werden, soweit die
 dienstlichen Interessen dies gestatten.
-
 
 ### § 6 Vergütungen für Nebentätigkeiten und Ablieferungspflicht
 
@@ -212,7 +201,6 @@ Ruhestandsbeamte und frühere Beamte insoweit, als die Vergütungen für
 vor der Beendigung des Beamtenverhältnisses ausgeübte Nebentätigkeiten
 gewährt sind.
 
-
 ### § 7 Ausnahmen von § 6
 
 § 6 ist mit Ausnahme des Absatzes 1 Satz 3 nicht anzuwenden auf
@@ -238,10 +226,6 @@ Vergütungen für
 5.  Tätigkeiten, die während eines unter Wegfall der Besoldung gewährten
     Urlaubs ausgeübt werden.
 
-
-
-
-
 ### § 8 Abrechnung über die Vergütung aus Nebentätigkeiten
 
 Die Beamten haben nach Ablauf eines jeden Kalenderjahres ihrem
@@ -250,10 +234,7 @@ Vergütungen im Sinne des § 6 vorzulegen, wenn die Vergütungen 500 Euro
 (brutto) im Kalenderjahr übersteigen. In den Fällen des § 6 Abs. 5
 sind auch Ruhestandsbeamte und frühere Beamte hierzu verpflichtet.
 
-
 ## Zweiter Abschnitt - Inanspruchnahme von Einrichtungen, Personal oder Material des Dienstherrn
-
-
 
 ### § 9 Genehmigungspflicht
 
@@ -281,7 +262,6 @@ erteilt werden, daß ein Entgelt für die Inanspruchnahme von
 Einrichtungen, Personal oder Material gezahlt wird; § 10 Abs. 1 Satz 2
 bleibt unberührt.
 
-
 ### § 10 Grundsätze für die Bemessung des Entgelts
 
 (1) Für die Inanspruchnahme von Einrichtungen, Personal oder Material
@@ -306,7 +286,6 @@ Kostendeckung und des Vorteilsausgleichs.
 (3) Nehmen mehrere Beamte Einrichtungen, Personal oder Material des
 Dienstherrn gemeinschaftlich in Anspruch, sind sie als Gesamtschuldner
 zur Entrichtung des Entgelts verpflichtet.
-
 
 ### § 11 Allgemeines Entgelt
 
@@ -376,7 +355,6 @@ festzusetzen. Der Beamte muß den Nachweis innerhalb einer
 Ausschlußfrist von drei Monaten nach Festsetzung des Entgelts
 erbringen. Die Entscheidung trifft die oberste Dienstbehörde.
 
-
 ### § 12 Entgelt für ärztliche und zahnärztliche Nebentätigkeiten
 
 (1) Das Entgelt (Kostenerstattung und Vorteilsausgleich) für ärztliche
@@ -403,7 +381,6 @@ verbleiben, und 30 vom Hundert von dem darüber hinausgehenden
 Mehrbetrag. Bei einem Honorarverzicht ist ein Vorteilsausgleich nicht
 zu entrichten.
 
-
 ### § 13 Festsetzung des Entgelts
 
 (1) Das zu zahlende Entgelt wird von der für die Genehmigung nach § 9
@@ -423,21 +400,16 @@ unverzüglich nach Beendigung, bei fortlaufender Inanspruchnahme
 mindestens halbjährlich vorzulegen. Diese Unterlagen sind fünf Jahre,
 vom Tage der Festsetzung des Entgelts an gerechnet, aufzubewahren.
 
-
 ## Dritter Abschnitt - Geltungsbereich, Berlinklausel, Inkrafttreten
-
-
 
 ### § 14 Geltung für Berufssoldaten und Soldaten auf Zeit
 
 Diese Verordnung gilt für Berufssoldaten und Soldaten auf Zeit
 entsprechend.
 
-
 ### § 15 (weggefallen)
 
 -
-
 
 ### § 16
 

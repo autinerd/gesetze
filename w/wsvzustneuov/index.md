@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1976, 9
 
-
-
 ## Eingangsformel
 
 Auf Grund
@@ -85,14 +83,9 @@ Auf Grund
     Buchstabe b nach Anhörung der Verbände der Binnenschiffahrt -
     verordnet:
 
-
-
-
-
 ## Art 1
 
 -
-
 
 ## Art 2
 
@@ -102,7 +95,6 @@ Regensburg, Stuttgart und Freiburg auf Grund von Rechtsverordnungen
 erlassenen Verordnungen und Anordnungen vorübergehender Art bleiben in
 Kraft, bis ihre Geltung durch Zeitablauf endet oder bis die nunmehr
 zuständige Wasser- und Schiffahrtsdirektion sie aufhebt.
-
 
 ## Art 3
 
@@ -122,13 +114,11 @@ des Gesetzes zu dem Vertrag vom 26. Mai 1972 zwischen der
 Bundesrepublik Deutschland und der Deutschen Demokratischen Republik
 über Fragen des Verkehrs auch im Land Berlin.
 
-
 ## Art 4
 
 (1) Diese Verordnung tritt am 1. Januar 1976 in Kraft.
 
 (2)
-
 
 ## Schlußformel
 

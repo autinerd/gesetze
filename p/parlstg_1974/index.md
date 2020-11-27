@@ -18,12 +18,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 15 Abs. 3 G v. 5.2.2009 I 160
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## § 1
 
@@ -40,14 +38,12 @@ ihrer Regierungsaufgaben.
 (3) Die Parlamentarischen Staatssekretäre stehen nach Maßgabe dieses
 Gesetzes zum Bund in einem öffentlich-rechtlichen Amtsverhältnis.
 
-
 ## § 2
 
 Die Parlamentarischen Staatssekretäre werden vom Bundespräsidenten
 ernannt. Der Bundeskanzler schlägt dem Bundespräsidenten die Ernennung
 im Einvernehmen mit dem Bundesminister vor, für den der
 Parlamentarische Staatssekretär tätig werden soll.
-
 
 ## § 3
 
@@ -63,7 +59,6 @@ Mitglied der Bundesregierung folgenden Eid zu leisten:
 
 
 Der Eid kann auch ohne religiöse Beteuerung geleistet werden.
-
 
 ## § 4
 
@@ -84,7 +79,6 @@ geändert durch das Einführungsgesetz zum Strafgesetzbuch vom 2. März
 1974 (Bundesgesetzblatt I S. 469),              ist entsprechend
 anzuwenden.
 
-
 ## § 5
 
 (1) Die Parlamentarischen Staatssekretäre erhalten vom Beginn des
@@ -98,7 +92,6 @@ Dienstaufwandsentschädigung eines Bundesministers betragen.
 (2) Die für Bundesminister geltenden beihilferechtlichen, reise- und
 umzugskostenrechtlichen Vorschriften sind entsprechend anzuwenden.
 
-
 ## § 6
 
 Die Parlamentarischen Staatssekretäre und ihre Hinterbliebenen
@@ -106,7 +99,6 @@ erhalten Versorgung in entsprechender Anwendung der §§ 13 bis 17 des
 Bundesministergesetzes mit der Maßgabe, daß eine Zeit im Amt eines
 Parlamentarischen Staatssekretärs vom 15. Dezember 1972 an
 berücksichtigt wird.
-
 
 ## § 7
 
@@ -116,7 +108,6 @@ anzuwenden; bei Anwendung des § 5 Abs. 1 Satz 3 entscheidet die
 Bundesregierung, des § 5 Abs. 3 das zuständige Mitglied der
 Bundesregierung.
 
-
 ## § 8
 
 Auf Vorschlag des Bundeskanzlers im Einvernehmen mit dem zuständigen
@@ -125,17 +116,14 @@ Staatssekretär für die Dauer seines Amtsverhältnisses oder für die
 Wahrnehmung einer bestimmten Aufgabe das Recht verleihen, die
 Bezeichnung "Staatsminister" zu führen.
 
-
 ## § 9
 
 § 6 gilt nicht für ehemalige Parlamentarische Staatssekretäre, die vor
 seinem Inkrafttreten ausgeschieden sind, und ihre Hinterbliebenen.
 
-
 ## § 10
 
 -
-
 
 ## § 11
 
@@ -148,13 +136,11 @@ Beamtenverhältnis zurückgelegten Dienstzeit entsprechend
 
 (3)
 
-
 ## § 12
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
 im Land Berlin.
-
 
 ## § 13
 

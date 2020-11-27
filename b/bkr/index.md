@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BAnz: 1950, Nr 4
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 9 Abs. 1 der 33. Durchführungsverordnung zum
@@ -27,14 +25,9 @@ Länder die folgenden Richtlinien zur Erstellung des
 Reichsmarkabschlusses und der Umstellungsrechnung der Bausparkassen
 erlassen:
 
-
 ## I. - Allgemeines
 
-
-
 ### (XXXX) 1. bis 6. (weggefallen)
-
-
 
 ### 7. Allgemeine Grundsätze für den Ansatz der Aktiven und Passiven in der Reichsmarkschlußbilanz
 
@@ -189,16 +182,6 @@ Passiven
             Wertberichtigungen und Rückstellungen in der Reichsmarkschlußbilanz
             ergebenden Beträge mitberücksichtigt worden sind.
 
-
-
-
-
-
-
-
-
-
-
 ### 7a. Grundstücke, Inventar, Warenvorräte
 
 Die bisherigen Ansätze für Grundstücke und Gebäude, Betriebs- und
@@ -219,7 +202,6 @@ jedoch in der Reichsmarkschlußbilanz nur zulässig, soweit beide Posten
 zusammen nicht mehr als eine Reichsmark für je eine Deutsche Mark des
 Ansatzes für das Grundstück in der Umstellungsrechnung ergeben.
 
-
 ### 7b. Kriegssachschäden
 
 (1) Kriegssachschädenforderungen dürfen in der Reichsmarkschlußbilanz
@@ -237,7 +219,6 @@ wiederhergestellt worden ist.
 Gegenstandes oder den gesonderten Ausweis von Wiederaufbaukosten in
 der Reichsmarkschlußbilanz gilt Ziffer 7 Buchstabe A.
 
-
 ### 7c. Zinsansprüche
 
 Zinsansprüche für die Zeit bis zum 20. Juni 1948 dürfen mit der sich
@@ -253,7 +234,6 @@ Schuldbuchforderungen. Der Ansatz von Zinsansprüchen, die abweichend
 von diesen Grundsätzen bisher als Aktivposten ausgewiesen wurden, ist
 in der Reichsmarkschlußbilanz durch Abschreibung oder Wertberichtigung
 diesen Grundsätzen anzupassen.
-
 
 ### 7d. Anleiheablösungsforderungen mit Auslosungsrechten, Reichsschatzanweisungen 1944, Folge III
 
@@ -296,7 +276,6 @@ Prozent ein Zinssatz von 5 Prozent gilt.
 Anschaffungspreis zuzüglich 3,5 Prozent Zinsen auf den Nennbetrag für
 die Zeit vom Anschaffungsstichtag bis zum 8. Mai 1945 erhöht werden.
 
-
 ### 7e. Bilanztechnische Behandlung
 
 Erhöhungen bisheriger Ansätze der Aktivseite und Verminderungen
@@ -307,7 +286,6 @@ Juni 1948 endende Geschäftsjahr oder unmittelbar zugunsten oder zu
 Lasten von Eigenkapitalposten erfolgen. Nach Ziffer 7b erforderliche
 Abschreibungen auf Kriegssachschadenforderungen sind zu Lasten der
 Rücklage für Ersatzbeschaffung vorzunehmen.
-
 
 ### 7f. Berichtigungen der Reichsmarkschlußbilanz
 
@@ -351,7 +329,6 @@ sie sind gemeinsam mit dem ersten vorläufigen Abschluß der
 Umstellungsrechnung oder jeweils in Verbindung mit einer Berichtigung
 dieses Abschlusses zu prüfen.
 
-
 ### 7g. Weitergeltung bisheriger Grundsätze
 
 Soweit in den Vorschriften zur Neuordnung des Geldwesens und in diesen
@@ -361,14 +338,9 @@ maßgebenden Grundsätze, insbesondere auch die von den
 Aufsichtsbehörden für die Bilanzen ab 1945 erlassenen
 Bilanzierungsrichtlinien.
 
-
 ### (XXXX) 8. bis 17. (weggefallen)
 
-
-
 ## II. bis V.
-
-
 
 ### (XXXX) 18. bis 53. (weggefallen)
 

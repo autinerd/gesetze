@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2003, 718
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
@@ -28,17 +26,14 @@ und dem Organisationserlass vom 22. Oktober 2002 (BGBl. I S. 4206)
 verordnet das Bundesministerium für Wirtschaft und Arbeit im
 Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Investmentfondskaufmann/Investmentfondskauffrau
 wird staatlich anerkannt.
 
-
 ## § 2 Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Ausbildungsberufsbild
 
@@ -129,10 +124,6 @@ Fertigkeiten und Kenntnisse:
 
 6.3 Meldewesen und Statistik.
 
-
-
-
-
 ## § 4 Ausbildungsrahmenplan
 
 (1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach den in den
@@ -150,12 +141,10 @@ Berufsbildungsgesetzes befähigt werden, die insbesondere selbständiges
 Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung
 ist auch in den Prüfungen nach den §§ 7 und 8 nachzuweisen.
 
-
 ## § 5 Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans
 für die Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 6 Berichtsheft
 
@@ -163,7 +152,6 @@ Die Auszubildenden haben ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden
 haben das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 7 Zwischenprüfung
 
@@ -188,10 +176,6 @@ durchzuführen:
 
 
 3.  Wirtschafts- und Sozialkunde.
-
-
-
-
 
 ## § 8 Abschlussprüfung
 
@@ -334,11 +318,9 @@ erbracht wurden. Werden die Prüfungsleistungen in einem
 Prüfungsbereich mit "ungenügend" bewertet, so ist die Prüfung nicht
 bestanden.
 
-
 ## § 9 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2003 in Kraft.
-
 
 ## Anlage 1 (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Investmentfondskaufmann/zur Investmentfondskauffrau - Sachliche Gliederung -
 
@@ -1152,10 +1134,6 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 *    *   b)
 
     *   interne und externe Statistiken anfertigen
-
-
-
-
 
 ## Anlage 2 (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Investmentfondskaufmann/zur Investmentfondskauffrau - Zeitliche Gliederung -
 

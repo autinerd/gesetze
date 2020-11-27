@@ -20,8 +20,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 G v. 19.11.2010 I 1592
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 4 Abs. 6 des Pfandbriefgesetzes vom 22. Mai 2005
@@ -33,7 +31,6 @@ Mai 2005 (BGBl. I S. 1373) geändert worden ist, verordnet die
 Bundesanstalt für Finanzdienstleistungsaufsicht im Einvernehmen mit
 dem Bundesministerium der Justiz nach Anhörung der Spitzenverbände der
 Kreditwirtschaft:
-
 
 ## § 1 Begriffsbestimmungen
 
@@ -53,7 +50,6 @@ Bei der Umrechnung von Währungen, für die kein Euro-Referenzkurs
 veröffentlicht wird, sind die aktuellen Mittelkurse aus feststellbaren
 An- und Verkaufskursen zugrunde zu legen.
 
-
 ## § 2 Barwertdeckungsrechnung
 
 Die Barwerte der im Umlauf befindlichen Hypothekenpfandbriefe,
@@ -65,7 +61,6 @@ befindlichen Pfandbriefe einer Gattung vom Barwert der zu ihrer
 Deckung verwendeten Werte vorzunehmen. Ergibt sich hieraus ein
 negativer Betrag, ist dieser unverzüglich in Form zusätzlicher
 Deckungswerte barwertig auszugleichen.
-
 
 ## § 3 Ermittlung der aktuellen Barwerte
 
@@ -79,7 +74,6 @@ zu ermitteln ist.
 
 (2) Die Barwerte von Fremdwährungspositionen sind zum jeweils
 aktuellen Wechselkurs in Euro umzurechnen.
-
 
 ## § 4 Stresstest
 
@@ -97,7 +91,6 @@ resultierende barwertige Fehlbetrag unverzüglich zusätzlich in die
 Deckungsmasse einzustellen. Eine Verminderung der Deckungsmasse darf
 nur vorgenommen werden, falls das Ergebnis des Stresstests auch danach
 keine barwertige Unterdeckung ausweist.
-
 
 ## § 5 Simulation der Auswirkung von Zinsveränderungen auf die Barwerte
 
@@ -170,7 +163,6 @@ mit den folgenden Maßgaben entsprechend:
 (3) Das einmal gewählte Verfahren ist durchgehend für alle
 Berechnungen anzuwenden.
 
-
 ## § 6 Simulation der Auswirkung von Währungsveränderungen auf die Barwerte
 
 (1) Für Fremdwährungspositionen gleicher Währung ist ein Nettobarwert
@@ -219,10 +211,6 @@ Berechnungen anzuwenden.
     Ergebnis entspricht dem Abschlag oder Aufschlag, der auf den aktuellen
     Wechselkurs vorzunehmen ist.
 
-
-
-
-
 ## § 7 Dokumentationspflichten
 
 (1) Jede Pfandbriefbank ist verpflichtet,
@@ -249,7 +237,6 @@ zu dokumentieren.
 (2) Die Dokumentationen sind von der Pfandbriefbank dauerhaft
 aufzubewahren.
 
-
 ## § 8 Methodenwechsel
 
 Die Pfandbriefbank darf das von ihr einmal gewählte
@@ -263,7 +250,6 @@ eine Zustimmung nur hinsichtlich des Wechsels der in § 5 Abs. 2
 genannten Parameter erforderlich ist. Die Zustimmung kann nur erteilt
 werden, wenn die Pfandbriefbank nachvollziehbar darlegt, dass die
 geänderte Methode zu einer Verbesserung der Ergebnisqualität führt.
-
 
 ## § 9 Übergangsbestimmungen
 
@@ -282,7 +268,6 @@ haben, dürfen die nach § 4 Abs. 2 Satz 1 des Pfandbriefgesetzes
 erforderliche Berechnung zur Sicherstellung der jederzeitigen Deckung
 dieser Pfandbriefe nach dem Barwert noch bis zum 30. November 2005
 nach einem anderen geeigneten Verfahren durchführen.
-
 
 ## § 10 Inkrafttreten, Außerkrafttreten
 

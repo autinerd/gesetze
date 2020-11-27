@@ -30,22 +30,17 @@ Nr. 2 des Luftverkehrsgesetzes in der vorgenannten Fassung, zuletzt
 geändert durch das Gesetz vom 30. Juli 1992 (BGBl. I S. 1370),
 verordnet der Bundesminister für Verkehr:
 
-
 ## 1. Abschnitt - Allgemeine Regeln
-
-
 
 ### § 1 Grundlagen
 
 Flugsicherung ist nach Maßgabe dieser Verordnung durchzuführen.
-
 
 ### § 2 Betriebszeiten
 
 Die Betriebszeiten für die Flugverkehrsdienste sind von der
 Flugsicherungsorganisation festzulegen und in den Nachrichten für
 Luftfahrer bekanntzumachen.
-
 
 ### § 3 Zusammenarbeit mit den Haltern von Luftfahrzeugen
 
@@ -56,10 +51,7 @@ Flugbetriebsabwicklung zu unterstützen. Zu diesem Zweck stellen sie
 den Haltern und Führern von Luftfahrzeugen auf Anforderung die
 vorhandenen notwendigen Informationen zur Verfügung.
 
-
 ## 2. Abschnitt - Flugverkehrskontrolle
-
-
 
 ### § 4 Aufgabe
 
@@ -74,10 +66,6 @@ des Luftverkehrs. Die Flugverkehrskontrolle soll insbesondere
 
 2.  Zusammenstöße zwischen Luftfahrzeugen und anderen Fahrzeugen sowie
     sonstigen Hindernissen auf den Rollfeldern der Flugplätze verhindern.
-
-
-
-
 
 ### § 5 Umfang
 
@@ -101,7 +89,6 @@ dies zur Abwehr von Gefahren für die Sicherheit des Luftverkehrs sowie
 für die öffentliche Sicherheit oder Ordnung durch die Luftfahrt
 erforderlich ist.
 
-
 ### § 6 Arten der Flugverkehrskontrolle
 
 Die Flugverkehrskontrolle ist durchzuführen als
@@ -114,10 +101,6 @@ Die Flugverkehrskontrolle ist durchzuführen als
 
 3.  Bezirkskontrolle.
 
-
-
-
-
 ### § 7 Zuständigkeit der Flugverkehrskontrollstellen
 
 (1) Die Flugverkehrskontrollstellen führen ihre Dienste in den ihnen
@@ -126,7 +109,6 @@ Bereiche sind von der Flugsicherungsorganisation festzulegen.
 
 (2) Für die Kontrolle eines Luftfahrzeuges ist zu jedem Zeitpunkt nur
 eine Flugverkehrskontrollstelle zuständig.
-
 
 ### § 8 Durchführung
 
@@ -147,10 +129,7 @@ eine Flugverkehrskontrollstelle zuständig.
 (2) Die Durchführung der Flugverkehrskontrolle hat Vorrang vor der
 Herausgabe von Verkehrsinformationen.
 
-
 ## 3. Abschnitt - Verkehrsflußregelung, Steuerung der Luftraumnutzung und Vorrang
-
-
 
 ### § 9 Verkehrsflußregelung
 
@@ -165,7 +144,6 @@ hinaus sind bei grenzüberschreitenden Flügen die Vorgaben der
 Organisation EUROCONTROL im Rahmen der zentralen europäischen
 Verkehrsflußregelung zu beachten.
 
-
 ### § 10 Steuerung der Luftraumnutzung
 
 Besondere Nutzungen des Luftraumes, insbesondere überregionale
@@ -175,7 +153,6 @@ sind in enger Zusammenarbeit mit den zuständigen Behörden und Stellen
 zu koordinieren. Die zur Abwehr von Gefahren für die Sicherheit oder
 Ordnung erforderlichen Mitteilungen sind rechtzeitig zu
 veröffentlichen.
-
 
 ### § 11 Vorrang
 
@@ -201,20 +178,13 @@ der angegebenen Reihenfolge Vorrang einzuräumen:
     Bestimmungen des Bundesministeriums für Verkehr, Bau und
     Stadtentwicklung.
 
-
-
-
-
 ## 4. Abschnitt - Fluginformationsdienst
-
-
 
 ### § 12 Aufgabe
 
 Der Fluginformationsdienst gibt den Führern von Luftfahrzeugen
 Informationen und Hinweise, die für die sichere, geordnete und
 flüssige Durchführung von Flügen erforderlich sind.
-
 
 ### § 13 Umfang
 
@@ -223,7 +193,6 @@ Flüge, die der Flugverkehrskontrolle unterliegen, sowie für andere
 Flüge, bei denen Sprechfunkverbindung besteht, durchzuführen. Die
 Durchführung des Fluginformationsdienstes hat hinter der Durchführung
 der Flugverkehrskontrolle zurückzustehen.
-
 
 ### § 14 Flugverkehrsberatungsdienst
 
@@ -236,10 +205,7 @@ Flugverkehrsberatungsdienstes werden der Flugsicherung bekannte
 Luftfahrzeuge, die Flüge nach Instrumentenflugregeln im
 unkontrollierten Luftraum durchführen, untereinander gestaffelt.
 
-
 ## 5. Abschnitt - Flugalarmdienst
-
-
 
 ### § 15 Aufgabe
 
@@ -247,7 +213,6 @@ Der Flugalarmdienst benachrichtigt die für die Durchführung des Such-
 und Rettungsdienstes für Luftfahrzeuge zuständigen Stellen über den
 notwendigen Einsatz des Such- und Rettungsdienstes und unterstützt
 diese Stellen.
-
 
 ### § 16 Alarmstufen
 
@@ -337,10 +302,7 @@ c)  für die Notstufe: DETRESFA.
 bekannt wird, daß das Luftfahrzeug weder von schwerer unmittelbarer
 Gefahr bedroht ist noch sofortiger Hilfeleistung bedarf.
 
-
 ## 6. Abschnitt - Flugberatungsdienst
-
-
 
 ### § 17 Aufgabe
 
@@ -359,15 +321,10 @@ Der Flugberatungsdienst umfaßt
 
 4.  die Herstellung und Veröffentlichung von Luftfahrtkarten.
 
-
-
-
-
 ### § 18 Flugberatungsstellen
 
 Die Flugberatungsstellen werden in den Nachrichten für Luftfahrer
 bekanntgegeben.
-
 
 ### § 19 Nachrichten für die Luftfahrt
 
@@ -425,7 +382,6 @@ Verbreitung jedoch auf Grund der internationalen Verflechtung auf dem
 Gebiete der Luftfahrt im rechtlichen, betrieblichen und technischen
 Bereich oder im Interesse der Flugsicherheit zweckdienlich erscheint.
 
-
 ### § 20 Internationale Verbreitung
 
 Nachrichten für die Luftfahrt mit Ausnahme der NfL nach § 19 Abs. 1
@@ -434,17 +390,13 @@ für Verkehr, Bau und Stadtentwicklung zu veröffentlichen und zur
 Gewährleistung einer sicheren, geordneten und flüssigen Durchführung
 des Flugbetriebs international zu verbreiten.
 
-
 ## 7. Abschnitt - Flugfernmeldedienst
-
-
 
 ### § 21 Aufgabe
 
 Der Flugfernmeldedienst hat die für eine sichere, geordnete und
 flüssige Abwicklung des Flugverkehrs erforderlichen
 Flugsicherungsinformationen zu übermitteln.
-
 
 ### § 22 Arten der Übermittlung, Flugfernmeldestellen
 
@@ -462,7 +414,6 @@ Informationen für die Luftfahrt.
 erforderlich, von der Flugsicherungsorganisation Flugfernmeldestellen
 einzurichten.
 
-
 ### § 23 Durchführung
 
 (1) Zur Durchführung des Festen Flugfernmeldedienstes sind von der
@@ -473,10 +424,7 @@ zu schaffen und zu betreiben.
 Flugrundfunkdienst werden von dem Bundesaufsichtsamt für Flugsicherung
 festgelegt.
 
-
 ## 8. Abschnitt - Dokumentation von Betriebsdaten
-
-
 
 ### § 24 Aufzeichnung des Flugfernmeldeverkehrs und der Radardaten
 
@@ -491,10 +439,7 @@ Aufzeichnungen, deren Inhalt Gegenstand einer behördlichen oder
 gerichtlichen Untersuchung ist, sind bis zum Abschluß der Untersuchung
 aufzubewahren.
 
-
 ## 9. Abschnitt - Schlußvorschriften
-
-
 
 ### § 25 Betriebsanweisungen
 
@@ -502,13 +447,11 @@ Die zur Durchführung der §§ 1 bis 24 dieser Verordnung notwendigen
 Einzelheiten sind von der Flugsicherungsorganisation in
 Betriebsanweisungen zu regeln.
 
-
 ### § 26 Ordnungswidrigkeiten
 
 Verwaltungsbehörde im Sinne des § 36 des Gesetzes über
 Ordnungswidrigkeiten ist das Luftfahrt-Bundesamt für die
 Flugsicherungsaufgaben nach § 27c des Luftverkehrsgesetzes.
-
 
 ### § 27 Inkrafttreten
 

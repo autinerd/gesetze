@@ -24,7 +24,6 @@ Verband der Verkehrsgewerkschaften in der Europäischen Union
 getroffenen Vereinbarung über die Regelung der Arbeitszeit von
 Seeleuten (ABl. EG Nr. L 167 S. 33).
 
-
 ## Eingangsformel
 
 Auf Grund des § 143 Abs. 1 Nr. 11 und des § 101 des Seemannsgesetzes
@@ -38,7 +37,6 @@ Verbindung mit Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom
 Zuständigkeitsanpassungs-Verordnung vom 29. Oktober 2001 (BGBl. I S.
 2785) verordnen das Bundesministerium für Arbeit und Sozialordnung und
 das Bundesministerium für Verkehr, Bau- und Wohnungswesen:
-
 
 ## § 1 Übersicht über die Arbeitsorganisation
 
@@ -73,10 +71,6 @@ anzubringen.
 4.  für jedes Besatzungsmitglied die Gesamtstundenzahl der geplanten
     Arbeitszeit.
 
-
-
-
-
 ## § 2 Arbeitszeitnachweise
 
 (1) Die Arbeitszeitnachweise nach § 101 Abs. 2 des Seemannsgesetzes
@@ -103,13 +97,11 @@ bestätigen der Kapitän oder die nach § 101 Abs. 3 des Seemannsgesetzes
 beauftragte Person und das Besatzungsmitglied die Übereinstimmung mit
 der Urschrift.
 
-
 ## § 3 Sprachenvorschrift
 
 Die Übersicht über die Arbeitsorganisation nach § 1 sowie die
 Arbeitszeitnachweise nach § 2 sind in deutscher und englischer Sprache
 und in den weiteren Arbeitssprachen des Schiffes zu führen.
-
 
 ## § 4 Aufbewahrung
 
@@ -131,7 +123,6 @@ die Arbeitsorganisation und die Arbeitszeitnachweise unverzüglich dem
 Reeder abzuliefern und von diesem für die verbleibende Verwahrungszeit
 aufzubewahren.
 
-
 ## § 5 Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 126 Nr. 8 des Seemannsgesetzes
@@ -146,16 +137,13 @@ handelt, wer als Reeder vorsätzlich oder fahrlässig entgegen § 4 Satz
 Arbeitszeitnachweis nicht oder nicht für die vorgeschriebene Dauer
 aufbewahrt.
 
-
 ## § 6 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anhang I
 
@@ -360,13 +348,6 @@ Abschnitt B-VIII/1 des STCW-Codes (Anleitung)
     3.  die Vorschriften für Schiffe, die sich auf kurzen Seereisen befinden,
         können variiert werden, vorausgesetzt, dass besondere
         Sicherheitsvorkehrungen getroffen werden.
-
-
-
-
-
-
-
 
 ## Anhang II Standardmuster für die Übersicht über die Arbeitszeiten und Ruhezeiten von Seeleuten 1)
 

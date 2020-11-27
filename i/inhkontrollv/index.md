@@ -27,9 +27,7 @@ Geändert durch
     aufsichtsrechtliche Beurteilung des Erwerbs und der Erhöhung von
     Beteiligungen im Finanzsektor (ABl. L 247 vom 21.9.2007, S. 1).
 
-
 ## Abschnitt 1 - Allgemeine Vorschriften
-
 
 ### § 1 Zielunternehmen
 
@@ -55,7 +53,6 @@ Zielunternehmen im Sinne dieser Verordnung ist
 an dem oder an der eine bedeutende Beteiligung erworben, eine
 bestehende bedeutende Beteiligung verändert oder eine bedeutende
 Beteiligung aufgegeben werden soll.
-
 
 ### § 2 Anzeigenexemplare, Einreichungsweg und Übersetzungen
 
@@ -83,7 +80,6 @@ verfasst sind, hat der Anzeigepflichtige in amtlich beglaubigter
 Landesaufsichtsbehörde kann im Einzelfall auf amtlich beglaubigte
 Übersetzungen verzichten.
 
-
 ### § 3 Angaben zum Empfangsbevollmächtigten im Inland
 
 Anzeigepflichtige ohne Wohnsitz oder gewöhnlichen Aufenthalt, Sitz
@@ -92,7 +88,6 @@ Satz 1 und § 17 Absatz 1 Satz 1 den Namen und die Anschrift eines
 Empfangsbevollmächtigten im Inland angeben. Die Bevollmächtigung ist
 durch die Beifügung einer amtlich beglaubigten Kopie der
 entsprechenden Urkunde nachzuweisen.
-
 
 ### § 4 Angaben zu Personen, Personenhandelsgesellschaften, Gesellschaften anderer Rechtsform und Zweckvermögen
 
@@ -144,7 +139,6 @@ Gesellschaften anderer Rechtsform sowie Zweckvermögen sind mit
 
 zu benennen.
 
-
 ### § 5 Kapital- und Stimmrechtsanteile
 
 (1) Bei der Berechnung der Kapital- oder Stimmrechtsanteile nach § 8
@@ -166,9 +160,7 @@ den Fällen einer Stimmrechtszurechnung sind auch diejenigen, die die
 betreffenden Stimmrechte halten, sowie der Grund der
 Stimmrechtszurechnung anzugeben.
 
-
 ## Abschnitt 2 - Anzeige der Absicht des Erwerbs oder der Erhöhung einer bedeutenden Beteiligung
-
 
 ### § 6 Anzeigeformulare, Vollständigkeit der Anzeige
 
@@ -219,7 +211,6 @@ vollständig.
 Kreditwesengesetzes als vollständig eingegangen, wenn sie bei der
 Bundesanstalt vollständig eingegangen ist.
 
-
 ### § 7 Änderung der angezeigten Absicht und der angezeigten Angaben
 
 (1) Gibt der Anzeigepflichtige die Absicht, eine bedeutende
@@ -253,7 +244,6 @@ geht die Aktualisierung der Angaben so spät ein, dass der Behörde für
 deren Prüfung innerhalb des Beurteilungszeitraums nicht mehr fünf
 Arbeitstage zur Verfügung stehen, gelten die Angaben in den
 eingereichten Unterlagen und Erklärungen als nicht richtig.
-
 
 ### § 8 Allgemeine Unterlagen und Erklärungen
 
@@ -323,10 +313,6 @@ beizufügen:
 
 7.  eine Erklärung, ob und durch welche Personen beabsichtigt ist,
     Geschäftsleiter des Zielunternehmens auszutauschen.
-
-
-
-
 
 ### § 9 Erklärungen und Unterlagen zur Zuverlässigkeit
 
@@ -401,7 +387,6 @@ und 2 können Prüfungen unberücksichtigt bleiben, die vor mehr als
 einem Jahr vor dem Beginn des Jahres, in dem die Anzeige eingereicht
 wird, abgeschlossen worden sind.
 
-
 ### § 10 Lebenslauf
 
 (1) Den Absichtsanzeigen sind ein Lebenslauf des Anzeigepflichtigen,
@@ -464,7 +449,6 @@ Angaben enthalten:
 
 
 Alle Zeitangaben müssen monatsgenau erfolgen.
-
 
 ### § 11 Beteiligungsverhältnisse und Konzernzugehörigkeit sowie sonstige Einflussmöglichkeiten
 
@@ -534,10 +518,6 @@ sonstigen Einflussmöglichkeiten des Anzeigepflichtigen enthalten:
     an der Verteilung dessen Gewinns in Höhe von mindestens 10 Prozent
     teilnehmen; bestehende Stimmrechtsvereinbarungen sind zu erläutern.
 
-
-
-
-
 ### § 12 Erwerbsinteressen
 
 (1) Den Absichtsanzeigen ist eine ausführliche Darstellung der
@@ -600,7 +580,6 @@ Interessen des Zielunternehmens an einer soliden und umsichtigen
 Geschäftsführung entgegenstehen könnten, ist gesondert einzugehen und
 zu erklären, wie verhindert werden soll, dass sich diese Interessen
 negativ auf das Zielunternehmen auswirken.
-
 
 ### § 13 Finanzlage und Bonität des Anzeigepflichtigen
 
@@ -690,7 +669,6 @@ ist, Kontrolle hat oder deren Geschäfte er führt. Liegen dem
 Anzeigepflichtigen die Unterlagen nach Satz 1 nicht vor, hat er dies
 zu begründen.
 
-
 ### § 14 Finanzierung des Erwerbs, Offenlegung sämtlicher Vereinbarungen
 
 Den Absichtsanzeigen sind eine aussagekräftige, lückenlose Darstellung
@@ -699,7 +677,6 @@ wirtschaftliche Herkunft der Eigen- und Fremdmittel, die für den
 Erwerb eingesetzt werden sollen, sowie sämtliche im Zusammenhang mit
 dem beabsichtigten Erwerb getroffenen Vereinbarungen und Verträge
 beizufügen.
-
 
 ### § 15 Geschäftsplan, Darstellung strategischer Ziele und Pläne
 
@@ -833,10 +810,6 @@ Dokumente beizufügen, die folgende Informationen beinhalten:
     Zielunternehmen zukünftig weiteres Kapital, sofern dies notwendig
     wird, zur Verfügung zu stellen.
 
-
-
-
-
 ### § 16 Abweichende Vorlage- und Nachweispflichten
 
 (1) Der Anzeigepflichtige muss Unterlagen und Erklärungen nicht erneut
@@ -938,9 +911,7 @@ des Konzerns stehen. Die Bundesanstalt oder die zuständige
 Landesaufsichtsbehörde unterrichtet den Anzeigepflichtigen schriftlich
 über diese Entscheidung.
 
-
 ## Abschnitt 3 - Weitere Anzeige- und Mitteilungspflichten; Übergangsvorschrift
-
 
 ### § 17 Anzeige der Absicht der Verringerung oder Aufgabe einer bedeutenden Beteiligung
 
@@ -974,7 +945,6 @@ möglich, hat er dies in der Anlage zu begründen.
 
 (3) Für alle Absichtsanzeigen nach Absatz 1 gilt § 16 Absatz 3
 entsprechend.
-
 
 ### § 18 Anzeige von Änderungen beim Inhaber einer bedeutenden Beteiligung
 
@@ -1016,10 +986,6 @@ Inhaber der bedeutenden Beteiligung
     Union oder eines anderen Vertragsstaates des Abkommens über den
     Europäischen Wirtschaftsraum oder die Europäische Zentralbank ist.
 
-
-
-
-
 ### § 19 Ergänzende Mitteilungen bei nachträglichen Änderungen beim Inhaber einer bedeutenden Beteiligung zur Sicherung der Zusammenarbeit mit den zuständigen Stellen im Europäischen Wirtschaftsraum
 
 Ist der Inhaber einer bedeutenden Beteiligung kein Kreditinstitut oder
@@ -1060,14 +1026,12 @@ Rückversicherungsunternehmen nach Satz 1 Nummer 2 und 3 ist auch mit
 der Identitätsnummer, unter der es bei der zuständigen
 Aufsichtsbehörde geführt wird, anzugeben.
 
-
 ### § 20 Übergangsvorschrift
 
 Auf Anzeigen nach § 2c des Kreditwesengesetzes in der bis zum 17. März
 2009 geltenden Fassung und auf Anzeigen nach § 104 des
 Versicherungsaufsichtsgesetzes in der bis zum 17. März 2009 geltenden
 Fassung sind die Vorschriften dieser Verordnung nicht anzuwenden.
-
 
 ### Anlage (zu § 6 Absatz 1 Satz 1 und 2, § 9 Absatz 1 Satz 1 und § 17 Absatz 1)
 

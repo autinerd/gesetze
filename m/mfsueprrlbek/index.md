@@ -20,7 +20,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Bek. v. 21.10.2005 I 3094
 
-
 ## (XXXX)
 
 Gemäß § 44c des Abgeordnetengesetzes werden die folgenden Richtlinien
@@ -101,10 +100,6 @@ erlassen:
     veröffentlicht. In die Bundestagsdrucksache ist auf Verlangen eine
     Erklärung des betroffenen Mitgliedes des Bundestages in angemessenem
     Umfang aufzunehmen.
-
-
-
-
 
 ## Schlussformel
 

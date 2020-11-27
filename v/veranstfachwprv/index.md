@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 8 V v. 23.7.2010 I 1010
 
-
 ## Eingangsformel
 
 Auf Grund des § 53 Abs. 1 in Verbindung mit Abs. 2 und des § 30 Abs. 5
@@ -29,7 +28,6 @@ vom 31. Oktober 2006 (BGBl. I S. 2407, 2007 I S. 2149) geändert worden
 ist, verordnet das Bundesministerium für Bildung und Forschung nach
 Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung im
 Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie:
-
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
 
@@ -98,7 +96,6 @@ und verantwortlich wahrgenommen werden können:
 (3) Die erfolgreich abgelegte Prüfung führt zum anerkannten Abschluss
 „Geprüfter Veranstaltungsfachwirt/Geprüfte Veranstaltungsfachwirtin“.
 
-
 ## § 2 Zulassungsvoraussetzungen
 
 (1) Zur Prüfung in dem Prüfungsteil „Wirtschaftsbezogene
@@ -146,7 +143,6 @@ Prüfung auch zugelassen werden, wer durch Vorlage von Zeugnissen oder
 auf andere Weise glaubhaft macht, Fertigkeiten, Kenntnisse und
 Fähigkeiten (berufliche Handlungsfähigkeit) erworben zu haben, die die
 Zulassung zur Prüfung rechtfertigen.
-
 
 ## § 3 Gliederung und Durchführung der Prüfung
 
@@ -226,7 +222,6 @@ Fachgespräch soll in der Regel 20 Minuten nicht überschreiten.
 (9) Die mündliche Prüfung nach Absatz 5 ist nur durchzuführen, wenn in
 den Prüfungsleistungen nach Absatz 4 mindestens ausreichende
 Leistungen erbracht wurden.
-
 
 ## § 4 Wirtschaftsbezogene Qualifikationen
 
@@ -348,7 +343,6 @@ der Regel nicht länger als 15 Minuten dauern. Die Bewertungen der
 schriftlichen Prüfungsleistung und der mündlichen Ergänzungsprüfung
 werden zu einer Note zusammengefasst. Dabei wird die Bewertung der
 schriftlichen Prüfungsleistung doppelt gewichtet.
-
 
 ## § 5 Handlungsfeldspezifische Qualifikationen
 
@@ -588,7 +582,6 @@ Prüfungsleistung und der mündlichen Ergänzungsprüfung werden zu einer
 Note zusammengefasst. Dabei wird die Bewertung der schriftlichen
 Prüfungsleistung doppelt gewichtet.
 
-
 ## § 6 Anrechnung anderer Prüfungsleistungen
 
 Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin ist auf Antrag
@@ -598,7 +591,6 @@ vor einer öffentlichen oder staatlich anerkannten Bildungseinrichtung
 oder vor einem staatlichen Prüfungsausschuss erfolgreich abgelegt hat
 und die Anmeldung zur Fortbildungsprüfung innerhalb von fünf Jahren
 nach der Bekanntgabe des Bestehens der anderen Prüfung erfolgt.
-
 
 ## § 7 Bewerten der Prüfungsleistungen und Bestehen der Prüfung
 
@@ -615,7 +607,6 @@ gesondert zu bewerten.
 sowie ein Zeugnis nach der Anlage 2 auszustellen. Im Falle der
 Freistellung nach § 6 sind Ort und Datum der anderweitig abgelegten
 Prüfung sowie die Bezeichnung des Prüfungsgremiums anzugeben.
-
 
 ## § 8 Wiederholung der Prüfung
 
@@ -635,7 +626,6 @@ Prüfung an, zur Wiederholungsprüfung angemeldet hat.
 Prüfungsleistungen einmal zu wiederholen. Werden bestandene
 Prüfungsleistungen erneut geprüft, gilt in diesem Fall das Ergebnis
 der letzten Prüfung.
-
 
 ## § 9 Ausbildereignung
 
@@ -662,7 +652,6 @@ Prüfungsteilnehmerin ist ein Zeugnis auszustellen, aus dem hervorgeht,
 dass die berufs- und arbeitspädagogischen Qualifikationen nach § 30
 des Berufsbildungsgesetzes nachgewiesen wurden.
 
-
 ## § 10 Übergangsvorschriften
 
 (1) Begonnene Prüfungsverfahren zum Fachwirt Tagungs-, Kongress- und
@@ -679,11 +668,9 @@ Anwendung. Im Übrigen kann bei der Anmeldung zur Prüfung bis zum
 Ablauf des 30. Juni 2010 die Anwendung der bisherigen Vorschriften
 beantragt werden.
 
-
 ## § 11 Inkrafttreten
 
 Diese Verordnung tritt am 1. Februar 2008 in Kraft.
-
 
 ## Anlage 1 (zu § 7 Abs. 3) Muster
 
@@ -693,8 +680,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *
 
 *    *   (Bezeichnung der zuständigen Stelle)
-
-
 
 ## Zeugnis
 
@@ -713,8 +698,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   hat am
 
     *   die Prüfung zum anerkannten Abschluss
-
-
 
 ## Geprüfter Veranstaltungsfachwirt/Geprüfte Veranstaltungsfachwirtin
 
@@ -734,9 +717,6 @@ bestanden.
 
 *    *   (Siegel der zuständigen Stelle)
 
-
-
-
 ## Anlage 2 (zu § 7 Abs. 3) Muster
 
 (Fundstelle: BGBl. I 2008, 115 - 116,
@@ -745,8 +725,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *
 
 *    *   (Bezeichnung der zuständigen Stelle)
-
-
 
 ## Zeugnis
 
@@ -765,8 +743,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   hat am
 
     *   die Prüfung zum anerkannten Abschluss
-
-
 
 ## Geprüfter Veranstaltungsfachwirt/Geprüfte Veranstaltungsfachwirtin
 

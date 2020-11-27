@@ -17,13 +17,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1998, 1592
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -32,7 +29,6 @@ Bundesrepublik Deutschland und der Republik Kasachstan zur Vermeidung
 der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom
 Vermögen wird zugestimmt. Das Abkommen wird nachstehend
 veröffentlicht.
-
 
 ## Art 2
 
@@ -48,7 +44,6 @@ Besteuerung in der Bundesrepublik Deutschland und in der Republik
 Kasachstan insgesamt eine höhere Belastung ergibt, als sie nach den
 Rechtsvorschriften vor dem Inkrafttreten des Abkommens bestand, wird
 der Steuermehrbetrag nicht festgesetzt.
-
 
 ## Art 3
 

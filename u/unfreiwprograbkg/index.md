@@ -17,13 +17,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1996, 903
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -33,7 +30,6 @@ Sitz des Freiwilligenprogramms der Vereinten Nationen, dem
 Notenwechsel vom selben Tag und der einseitigen deutschen Erklärung zu
 Artikel 8 des Abkommens wird zugestimmt. Das Abkommen, der
 Notenwechsel und die Erklärung werden nachstehend veröffentlicht.
-
 
 ## Art 2
 
@@ -48,7 +44,6 @@ Vereinbarungen gemäß Artikel 4 Abs. 2 und 3 des Abkommens durch
 Rechtsverordnung mit Zustimmung des Bundesrates in Kraft zu setzen und
 dabei zu bestimmen, in welchem Umfang Artikel 3 dieses Gesetzes
 anzuwenden ist.
-
 
 ## Art 3
 
@@ -69,7 +64,6 @@ Pflichtmitgliedschaft und Pflichtbeiträge in bezug auf die Systeme der
 Sozialen Sicherheit der Bundesrepublik Deutschland ist keine Regelung
 im Sinne der deutschen Rechtsvorschriften, die die Anrechnung von
 Kindererziehungszeiten und Berücksichtigungszeiten ausschließt.
-
 
 ## Art 4
 

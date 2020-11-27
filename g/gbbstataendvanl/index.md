@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 342 V v. 31.10.2006 I 2407
 
-
 ## § 1 Rechtsform, Sitz und Kapital
 
 (1) Die GBB Genossenschafts-Holding Berlin (Holding) ist eine
@@ -30,7 +29,6 @@ in Berlin.
 zweihundertfünfzig Millionen) Deutsche Mark. Die Anteile werden von
 der Bundesrepublik Deutschland gehalten. Das Grundkapital ist voll
 eingezahlt.
-
 
 ## § 2 Gegenstand
 
@@ -48,12 +46,10 @@ Aufsichtsbehörde vertraglich gegen Entgelt Dritten übertragen.
 (3) Die Holding ist befugt, alle mit dem Gegenstand der Holding
 zusammenhängenden Geschäfte zu betreiben.
 
-
 ## § 3 Organe
 
 Organe der Holding sind der Vorstand, der Verwaltungsrat und die
 Hauptversammlung.
-
 
 ## § 4 Vorstand
 
@@ -66,7 +62,6 @@ Verwaltungsrat kann einen Sprecher des Vorstands bestellen.
 Eine wiederholte Bestellung, jeweils für höchstens fünf Jahre, ist
 zulässig. Der Verwaltungsrat kann die Bestellung zum Vorstandsmitglied
 widerrufen, wenn ein wichtiger Grund vorliegt.
-
 
 ## § 5 Geschäftsführung
 
@@ -99,7 +94,6 @@ Person unverzüglich vom Vorstand im Bundesanzeiger bekannt zu machen.
 (5) Der Verwaltungsrat erläßt eine Geschäftsordnung für den Vorstand,
 die der Zustimmung der Aufsichtsbehörde bedarf.
 
-
 ## § 6 Vertretung
 
 (1) Der Vorstand vertritt die Holding gerichtlich und
@@ -111,7 +105,6 @@ gemeinschaftlich mit einem durch den Vorstand bevollmächtigten
 Vertreter abgegeben werden. Ist eine Willenserklärung der Holding
 gegenüber abzugeben, so genügt die Abgabe gegenüber einem
 Vorstandsmitglied.
-
 
 ## § 7 Verwaltungsrat
 
@@ -147,7 +140,6 @@ Amtszeit. Wiederwahl ist zulässig.
 
 (4) Der Verwaltungsrat kann sich eine Geschäftsordnung geben. Sie
 bedarf der Zustimmung der Aufsichtsbehörde.
-
 
 ## § 8 Aufgaben und Befugnisse des Verwaltungsrats
 
@@ -232,7 +224,6 @@ Verwaltungsrats insbesondere:
 Der Verwaltungsrat kann weitere Geschäfte von seiner Zustimmung
 abhängig machen.
 
-
 ## § 9 Beschlüsse und Sitzungen des Verwaltungsrats
 
 (1) Der Verwaltungsrat soll in der Regel einmal im
@@ -281,7 +272,6 @@ geführt. Die Niederschrift soll neben den Beschlüssen den wesentlichen
 Verlauf der Verhandlungen festhalten. Sie ist vom Vorsitzenden oder
 dessen Stellvertreter zu unterzeichnen.
 
-
 ## § 10 Aufwandsentschädigung für den Verwaltungsrat
 
 Die Verwaltungsratsmitglieder erhalten den Ersatz der bei der Ausübung
@@ -289,7 +279,6 @@ ihrer Tätigkeit erwachsenden baren Auslagen und der Auslagen, die
 ihnen auf die durch ihre Tätigkeit etwa entfallende Umsatzsteuer
 entstehen. Im übrigen beschließt die Hauptversammlung über eine
 eventuelle Vergütung.
-
 
 ## § 11 Hauptversammlung
 
@@ -302,7 +291,6 @@ Mark eingezahlte Beteiligung eine Stimme.
 (3) Die Anteilseigner werden in der Hauptversammlung durch ihre
 gesetzlichen Vertreter oder durch zur Stimmabgabe Bevollmächtigte
 vertreten.
-
 
 ## § 12 Befugnisse der Hauptversammlung
 
@@ -338,10 +326,6 @@ Die Hauptversammlung beschließt über:
 
 
 10. die Auflösung der Holding.
-
-
-
-
 
 ## § 13 Sitzungen und Beschlüsse der Hauptversammlung
 
@@ -381,7 +365,6 @@ Anteilseigner im Verhältnis ihrer Anteile zu verteilen.
 Verwaltungsratsmitglieder teilnehmen. Die Aufsichtsbehörde kann an der
 Hauptversammlung teilnehmen.
 
-
 ## § 14 Jahresabschluß und Lagebericht
 
 (1) Der Vorstand hat den Jahresabschluß und den Lagebericht für das
@@ -396,17 +379,14 @@ der Lagebericht sowie der Prüfungsbericht mit dem Vorschlag des
 Vorstands für den Beschluß der Hauptversammlung über die Verwendung
 des Jahresüberschusses dem Verwaltungsrat vorzulegen.
 
-
 ## § 15 Geschäftsjahr
 
 Das Geschäftsjahr ist das Kalenderjahr.
-
 
 ## § 16 Verwendung des Jahresüberschusses
 
 Soweit die Hauptversammlung nicht etwas anderes beschließt, ist der
 Jahresüberschuß an die Anteilseigner auszuschütten.
-
 
 ## § 17 Staatsaufsicht
 
@@ -417,13 +397,11 @@ Anordnungen zu treffen, um den Geschäftsbetrieb der Holding mit den
 Gesetzen, dem Statut und den sonstigen Bestimmungen in Einklang zu
 halten.
 
-
 ## § 18 Prüfungsrecht
 
 Den zuständigen Stellen der Bundesrepublik Deutschland stehen die in §
 55 Abs. 2 des Haushaltsgrundsätzegesetzes und in § 112 Abs. 2 der
 Bundeshaushaltsordnung aufgeführten Rechte zu.
-
 
 ## § 19 Übergangs- und Schlußbestimmung
 

@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1554
 
-
 ## Eingangsformel
 
 Auf Grund des § 26 Absatz 1 Nummer 2 des Bundesbeamtengesetzes vom 5.
@@ -24,9 +23,7 @@ Februar 2009 (BGBl. I S. 160) in Verbindung mit § 10 der
 Bundeslaufbahnverordnung vom 12. Februar 2009 (BGBl. I S. 284)
 verordnet das Bundesministerium des Innern:
 
-
 ## Abschnitt 1 - Allgemeines
-
 
 ### § 1 Vorbereitungsdienst
 
@@ -34,7 +31,6 @@ Die Ausbildung und Prüfung nach dieser Verordnung sind der
 fachspezifische Vorbereitungsdienst für den mittleren nichttechnischen
 Dienst in der allgemeinen und inneren Verwaltung des Bundes. Der
 Vorbereitungsdienst dauert in der Regel 24 Monate.
-
 
 ### § 2 Ziele der Ausbildung
 
@@ -47,7 +43,6 @@ demokratischen und sozialen Rechtsstaat befähigt werden. Hierzu gehört
 auch die Fähigkeit zur Zusammenarbeit im föderalen und europäischen
 Raum.
 
-
 ### § 3 Dienstbehörden, Dienstaufsicht
 
 (1) Das Bundesverwaltungsamt ist Ausbildungsbehörde.
@@ -57,7 +52,6 @@ Bundesverwaltungsamts (§ 7) unterstehen die Anwärterinnen und Anwärter
 neben der Dienstaufsicht der Präsidentin oder des Präsidenten des
 Bundesverwaltungsamts auch der Dienstaufsicht der Leitungen dieser
 Behörden.
-
 
 ### § 4 Auswahlverfahren
 
@@ -122,7 +116,6 @@ Stimmenthaltung ist nicht zulässig.
 (7) Bei Bedarf können mehrere Auswahlkommissionen eingerichtet werden.
 In diesem Fall ist sicherzustellen, dass alle Kommissionen die
 gleichen Auswahlmaßstäbe anlegen.
-
 
 ### § 5 Bewertung der Leistungen
 
@@ -237,16 +230,13 @@ dieser Verordnung nichts anderes bestimmt ist, wie folgt bewertet:
 in dieser Verordnung nichts anderes bestimmt ist, Rangpunktzahlen auf
 zwei Nachkommastellen ohne Rundung berechnet.
 
-
 ### § 6 Urlaub
 
 Erholungsurlaub soll nur während der berufspraktischen Ausbildung (§
 10) gewährt werden. Die Zeiten des Erholungsurlaubs bestimmt das
 Bundesverwaltungsamt.
 
-
 ## Abschnitt 2 - Ausbildung
-
 
 ### § 7 Aufbau und Dauer der Ausbildung
 
@@ -317,10 +307,6 @@ Behörden des Bundes und der Kommunen unterstützt.
     *   Bundesverwaltungsamt
 
     *   5 Monate
-
-
-
-
 
 ### § 8 Inhalt der fachtheoretischen Ausbildung
 
@@ -412,7 +398,6 @@ Lerninhalte der Fachgebiete, die Stundenzahl und die Art der zu
 erbringenden Leistungstests festgelegt werden. Die Lerninhalte sind
 nach Intensitätsstufen zu beschreiben.
 
-
 ### § 9 Leistungstests
 
 (1) Während der fachtheoretischen Ausbildung sind folgende
@@ -446,7 +431,6 @@ Gelegenheit, ihn nachzuholen. Wird der Leistungstest ohne wichtigen
 Grund nicht bis zum ersten Tag der schriftlichen Abschlussprüfung (§
 18) erbracht, gilt er als mit null Rangpunkten bewertet.
 
-
 ### § 10 Berufspraktische Ausbildung
 
 (1) Das Bundesverwaltungsamt bestimmt und überwacht die Gestaltung und
@@ -471,7 +455,6 @@ zugewiesen werden, als sie mit Sorgfalt ausbilden können. Sie werden
 von anderen Dienstgeschäften entlastet, soweit dies erforderlich ist.
 Die Ausbildenden informieren die Ausbildungsverantwortlichen
 regelmäßig über den erreichten Ausbildungsstand.
-
 
 ### § 11 Inhalt der berufspraktischen Ausbildung
 
@@ -500,7 +483,6 @@ ihr Zusammenwirken mit anderen Behörden vermittelt.
 Verwendung in der Bundesverwaltung vorgesehen sind, können während des
 Praktikums III fachbezogen ausgebildet werden.
 
-
 ### § 12 Bewertungen während der berufspraktischen Ausbildung
 
 (1) Am Ende jedes Praktikums oder Praktikumteils erstellt der oder die
@@ -514,7 +496,6 @@ arithmetische Mittel der Bewertungen gebildet.
 
 (2) Die Bewertung ist der Anwärterin oder dem Anwärter bekannt zu
 geben und mit ihr oder ihm zu besprechen.
-
 
 ### § 13 Zusammenfassendes Zeugnis
 
@@ -532,9 +513,7 @@ die Bewertungen in den Praktika.
 (3) Die Anwärterinnen und Anwärter erhalten eine Ausfertigung des
 zusammenfassenden Zeugnisses.
 
-
 ## Abschnitt 3 - Prüfungen
-
 
 ### § 14 Prüfungsamt
 
@@ -570,10 +549,6 @@ das insbesondere
 8.  die Zeugnisse für die Zwischenprüfung und die Abschlusszeugnisse
     erstellt.
 
-
-
-
-
 ### § 15 Prüfungskommission, Prüfende
 
 (1) Eine Prüfungskommission besteht aus:
@@ -606,7 +581,6 @@ die Bewertungen voneinander ab, ist zunächst eine Einigung zwischen
 den Prüfenden anzustreben; einigen sich die Prüfenden nicht,
 entscheidet die Prüfungskommission mit Stimmenmehrheit.
 
-
 ### § 16 Laufbahnprüfung
 
 Die Laufbahnprüfung dient dazu, die Eignung und Befähigung der
@@ -624,10 +598,6 @@ besteht aus:
 
 
 4.  der schriftlichen und der mündlichen Abschlussprüfung.
-
-
-
-
 
 ### § 17 Zwischenprüfung
 
@@ -660,7 +630,6 @@ enthält. Wer die Zwischenprüfung nicht bestanden hat, erhält vom
 Prüfungsamt einen Bescheid über die nicht bestandene Zwischenprüfung
 und eine Bescheinigung über die erbrachten Ausbildungsleistungen.
 
-
 ### § 18 Schriftliche Abschlussprüfung
 
 (1) Zur schriftlichen Abschlussprüfung wird zugelassen, wer die
@@ -679,7 +648,6 @@ Klausur geschrieben.
 rechtzeitig abgegeben, gilt diese als mit null Rangpunkten bewertet.
 
 (5) § 17 Absatz 4 und 5 gilt entsprechend.
-
 
 ### § 19 Mündliche Abschlussprüfung
 
@@ -727,7 +695,6 @@ unterschreiben.
 (7) Die mündliche Abschlussprüfung muss bis zum Ende des
 Vorbereitungsdienstes abgeschlossen sein.
 
-
 ### § 20 Fernbleiben, Rücktritt
 
 (1) Bei Fernbleiben oder Rücktritt von einer Prüfung oder einem
@@ -747,7 +714,6 @@ Bundesverwaltungsamt beauftragt worden ist.
 (3) Das Prüfungsamt bestimmt, wann die Prüfung oder der Prüfungsteil
 nachgeholt wird; es entscheidet, ob und inwieweit bereits abgegebene
 Klausuren gewertet werden.
-
 
 ### § 21 Täuschung, Ordnungsverstoß
 
@@ -782,7 +748,6 @@ für nicht bestanden erklären.
 (5) Die Betroffenen sind vor der Entscheidung nach den Absätzen 2 bis
 4 anzuhören.
 
-
 ### § 22 Wiederholung von Prüfungen
 
 (1) Eine nicht bestandene Zwischenprüfung und eine nicht bestandene
@@ -806,7 +771,6 @@ Vorbereitungsdienst wird bis zum Ablauf der Wiederholungsfrist
 verlängert.
 
 (4) Eine bestandene Prüfung kann nicht wiederholt werden.
-
 
 ### § 23 Bestehen der Laufbahnprüfung, Abschlussnote
 
@@ -880,7 +844,6 @@ abgerundet.
 Anwärterinnen und Anwärtern die erreichten Rangpunkte mit und
 erläutert die Bewertungen auf Wunsch kurz mündlich.
 
-
 ### § 24 Abschlusszeugnis
 
 (1) Wer die Laufbahnprüfung bestanden hat, erhält ein
@@ -901,7 +864,6 @@ Abschlusszeugnis.
 (3) Wer die Laufbahnprüfung nicht bestanden hat, erhält vom
 Prüfungsamt einen Bescheid über die nicht bestandene Laufbahnprüfung
 und eine Bescheinigung über die erbrachten Ausbildungsleistungen.
-
 
 ### § 25 Prüfungsakten, Einsichtnahme
 
@@ -933,9 +895,7 @@ nehmen. Satz 1 gilt entsprechend, wenn die Zwischen- oder
 Laufbahnprüfung nicht bestanden wurde oder wenn keine Übernahme in das
 Beamtenverhältnis erfolgt ist.
 
-
 ## Abschnitt 4 - Schlussvorschriften
-
 
 ### § 26 Übergangsvorschriften
 
@@ -946,7 +906,6 @@ Dienst in der allgemeinen und inneren Verwaltung des Bundes vom 8.
 Oktober 2001 (BGBl. I S. 2612), die zuletzt durch Artikel 3 Absatz 7
 der Verordnung vom 12. Februar 2009 (BGBl. I S. 320) geändert worden
 ist, weiter anzuwenden.
-
 
 ### § 27 Inkrafttreten, Außerkrafttreten
 

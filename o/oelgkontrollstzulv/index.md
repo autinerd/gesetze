@@ -22,20 +22,17 @@ Fundstelle
     Parlaments und des Rates vom 7. September 2005 über die Anerkennung
     von Berufsqualifikationen (ABl. L 255 vom 30.9.2005, S. 22).
 
-
 ## Eingangsformel
 
 Auf Grund des § 11 Absatz 1 Nummer 6 des Öko-Landbaugesetzes vom 7.
 Dezember 2008 (BGBl. I S. 2358) verordnet das Bundesministerium für
 Ernährung, Landwirtschaft und Verbraucherschutz:
 
-
 ## § 1 Anwendungsbereich
 
 Diese Verordnung regelt die näheren Einzelheiten über die
 Voraussetzungen sowie das Verfahren der Zulassung privater
 Kontrollstellen nach § 4 Absatz 1 bis 4 des Öko-Landbaugesetzes.
-
 
 ## § 2 Antrag auf Zulassung
 
@@ -53,7 +50,6 @@ Durchführungsverordnung (EU) Nr. 203/2012 (ABl. L 71 vom 9.3.2012, S.
 42) geändert worden ist, in der jeweils geltenden Fassung die
 Zulassung beantragt wird.
 
-
 ## § 3 Antragsinhalt
 
 (1) Dem Antrag auf Zulassung als Kontrollstelle sind alle zur Prüfung
@@ -69,7 +65,6 @@ erforderlichen Unterlagen nach Maßgabe der §§ 4 bis 11 beizufügen.
 (2) Dem Antrag ist eine Erklärung beizufügen, dass die Kontrollstelle
 sich zur Durchführung der Kontrollen nach Maßgabe der §§ 5 bis 10
 verpflichtet.
-
 
 ## § 4 Qualitätsmanagement
 
@@ -145,7 +140,6 @@ Nr. 889/2008 einträgt.
 
 (7) Dem Antrag ist ein Muster für den Kontrollvertrag beizufügen, den
 die Kontrollstelle mit den Unternehmern abzuschließen beabsichtigt.
-
 
 ## § 6 Risikoanalyse
 
@@ -230,7 +224,6 @@ ein Erzeugnis einzuleiten, die durch die Kontrollstelle abzuschließen
 sind, mit der der Lieferant oder Abnehmer des Erzeugnisses einen
 Kontrollvertrag abgeschlossen hat.
 
-
 ## § 7 Durchführung von Probenahmen und Analysen
 
 (1) Dem Antrag ist nach Maßgabe der folgenden Bestimmungen eine
@@ -259,7 +252,6 @@ risikoorientierte Probenahme mit Analyse und Bewertung vorzusehen.
 
 (6) Vor Beginn eines jeden Kalenderjahres ist ein Plan für
 voraussichtliche Probenahmen im Kalenderjahr zu erstellen.
-
 
 ## § 8 Informationspflichten
 
@@ -302,7 +294,6 @@ Landesbehörde erst nach Bestätigung der Angaben und Zuteilung der
 alphanumerischen Identifikationsnummer nach Maßgabe der Anlage 2 durch
 die Kontrollstelle vornimmt.
 
-
 ## § 9 Kontrollbesuche
 
 (1) Mit dem Antrag ist nach Maßgabe der folgenden Bestimmungen eine
@@ -326,7 +317,6 @@ um die erforderlichen Auskünfte erteilen zu können.
 Landesbehörde von der Kontrollstelle unverzüglich zu informieren,
 soweit dies von der zuständigen Landesbehörde gefordert wird.
 
-
 ## § 10 Maßnahmenkatalog
 
 (1) Mit dem Antrag hat die Kontrollstelle eine Verfahrensanweisung
@@ -341,7 +331,6 @@ Kontrollstelle einen Kontrollvertrag abgeschlossen hat, vorsieht.
 darzulegen, wie die Kontrollstelle im Falle der Feststellung von
 Abweichungen die gegebenenfalls getroffenen Abhilfemaßnahmen auferlegt
 und überprüft.
-
 
 ## § 11 Anforderungen an das Kontrollstellenpersonal
 
@@ -401,7 +390,6 @@ bei Antragstellung im Original oder in Kopie vorzulegen. Eine
 Beglaubigung der Kopie sowie eine beglaubigte deutsche Übersetzung
 können verlangt werden.
 
-
 ## § 12 Zulassung
 
 (1) Die Entscheidung über den Antrag der Kontrollstelle ergeht durch
@@ -448,7 +436,6 @@ Bundesanstalt durch schriftlichen Bescheid. Das Ausscheiden von für
 die Kontrolle vorgesehenen Personen wird ebenfalls durch schriftlichen
 Bescheid festgestellt.
 
-
 ## § 13 Verfahrensvorschriften
 
 Über einen Antrag auf Erteilung der Zulassung ist innerhalb einer
@@ -458,7 +445,6 @@ vollständigen Antragsunterlagen bei der Bundesanstalt, zu entscheiden;
 § 42a Absatz 2 Satz 2 bis 4 des Verwaltungsverfahrensgesetzes findet
 Anwendung. Für das Verfahren nach Satz 1 gelten die §§ 71a bis 71e des
 Verwaltungsverfahrensgesetzes über eine einheitliche Stelle.
-
 
 ## § 14 Muster und Vordrucke
 
@@ -472,12 +458,10 @@ verwendendes Format vorgeben.
 (2) Soweit die Bundesanstalt Muster veröffentlicht oder Vordrucke
 bereithält, sind diese zu verwenden.
 
-
 ## § 15 Unterrichtung der Länder
 
 Die Bundesanstalt unterrichtet die zuständigen Landesbehörden über die
 Erteilung einer Zulassung sowie über deren Änderung.
-
 
 ## § 16 Übergangsvorschrift
 
@@ -513,22 +497,13 @@ Unterlagen vorzulegen:
 
     e)  zum Maßnahmenkatalog nach § 10.
 
-
-
-
-
-
-
-
 ## § 17 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage 1 (zu § 2) Kontrollbereiche nach Titel IV Kapitel 2 bis 7 der Verordnung (EG) Nr. 889/2008, für die eine Zulassung nach § 2 Satz 2 beantragt wird
 
@@ -589,10 +564,6 @@ Der Bundesrat hat zugestimmt.
 
     Der Kontrollbereich umfasst Einheiten zur Aufbereitung von
     Futtermitteln.
-
-
-
-
 
 ## Anlage 2 (zu § 8) Zuteilung der alphanumerischen Identifikationsnummer
 
@@ -717,10 +688,6 @@ zuzuteilen:
     tätig ist und von der Kontrollstelle kontrolliert wird. Für
     Unternehmen, die ökologische/biologische Erzeugnisse ausschließlich
     lagern oder handeln, ist das Kürzel H zu verwenden.
-
-
-
-
 
 ## Anlage 3 (zu § 10) Maßnahmenkatalog zur Anwendung bei Abweichungen von den einschlägigen Vorschriften
 
@@ -2414,10 +2381,6 @@ zuzuteilen:
 
     *   Entfernung des Hinweises auf den ökologischen Landbau von der
         betreffenden Partie.
-
-
-
-
 
 ## Anlage 4 (zu § 11) Anforderungen an das Kontrollstellenpersonal
 

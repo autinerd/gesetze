@@ -18,20 +18,17 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 9 V v. 10.10.2012 I 2113
 
-
 ## Eingangsformel
 
 Auf Grund des § 42 Satz 1 in Verbindung mit § 3 Abs. 1 Nr. 1, 2, 3, 6,
 11 Buchstabe a, Nr. 12, 13 und 14 des Pflanzenschutzgesetzes vom 15.
 September 1986 (BGBl. I S. 1505) wird verordnet:
 
-
 ## § 1 Anzeigepflicht
 
 Verfügungsberechtigte und Besitzer von Reben sind verpflichtet, der
 zuständigen Behörde das Auftreten und den Verdacht des Auftretens der
 Reblaus unter Angabe des Standorts der Reben unverzüglich anzuzeigen.
-
 
 ## § 2 Bekämpfungspflicht
 
@@ -60,10 +57,6 @@ zuständige Behörde es zur Bekämpfung der Reblaus anordnet,
 
 6.  die Reblaus auf andere Weise zu bekämpfen oder bekämpfen zu lassen.
 
-
-
-
-
 ## § 3 Verkehr mit Pflanzgut von Rebe
 
 (1) Aus von der Reblaus befallenen Gemeinden und Ortsteilen darf
@@ -75,7 +68,6 @@ bescheinigt hat.
 (2) Die weinbautreibenden Länder geben die nicht von der Reblaus
 befallenen Gemeinden und Ortsteile des Weinanbaugebietes im
 Bundesanzeiger bekannt.
-
 
 ## § 4 Beschränkung des Anbaus von Wurzelreben
 
@@ -110,10 +102,6 @@ gelten, im Bundesanzeiger bekannt.
     hierdurch die Bekämpfung der Reblaus nicht beeinträchtigt wird und
     keine Gefahr einer Ausbreitung entsteht.
 
-
-
-
-
 ## § 5 Verbot des Züchtens und Haltens
 
 (1) Das Züchten und das Halten der Reblaus sowie das Arbeiten mit
@@ -124,13 +112,11 @@ Untersuchungen und Versuche und für Züchtungsvorhaben Ausnahmen von
 diesem Verbot genehmigen, soweit hierdurch die Bekämpfung der Reblaus
 nicht beeinträchtigt wird und keine Gefahr einer Ausbreitung entsteht.
 
-
 ## § 6 Länderbefugnisse
 
 Unberührt bleiben die Befugnisse der Länder nach § 3 Abs. 3 und § 42
 Satz 2 Nr. 1 des Pflanzenschutzgesetzes, weitergehende Regelungen zur
 Bekämpfung der Reblaus zu treffen.
-
 
 ## § 7 Ordnungswidrigkeiten
 
@@ -159,14 +145,9 @@ Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 5.  einer mit einer Genehmigung nach § 5 Absatz 2 verbundenen
     vollziehbaren Auflage zuwiderhandelt.
 
-
-
-
-
 ## § 8 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlußformel
 

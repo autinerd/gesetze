@@ -15,25 +15,20 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1997, 158
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art 1
 
 -
-
 
 ## Art 2 Neufassung des Heimgesetzes
 
 Das Bundesministerium für Familie, Senioren, Frauen und Jugend kann
 den Wortlaut des Heimgesetzes in der vom Inkrafttreten dieses Gesetzes
 an geltenden Fassung im Bundesgesetzblatt bekanntmachen.
-
 
 ## Art 3 Übergangsvorschriften
 
@@ -49,11 +44,9 @@ Inkrafttreten dieses Gesetzes aufgenommen wird.
 Inkrafttreten dieses Gesetzes geschlossen worden sind, richten sich
 von diesem Zeitpunkt an nach dem neuen Recht.
 
-
 ## Art 4
 
 -
-
 
 ## Art 5 Inkrafttreten
 

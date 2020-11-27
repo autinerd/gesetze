@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 775
 
-
-
 ## § 1 Grundsatz
 
 (1) Dieses Gesetz regelt Form und Ausmaß der Beteiligung des
@@ -27,7 +25,6 @@ Ausland. Artikel 115a des Grundgesetzes bleibt davon unberührt.
 (2) Der Einsatz bewaffneter deutscher Streitkräfte außerhalb des
 Geltungsbereichs des Grundgesetzes bedarf der Zustimmung des
 Bundestages.
-
 
 ## § 2 Begriffsbestimmung
 
@@ -43,7 +40,6 @@ Streitkräfte, bei denen Waffen lediglich zum Zweck der
 Selbstverteidigung mitgeführt werden, wenn nicht zu erwarten ist, dass
 die Soldatinnen oder Soldaten in bewaffnete Unternehmungen einbezogen
 werden.
-
 
 ## § 3 Antrag
 
@@ -78,7 +74,6 @@ Einsatzes.
 
 (3) Der Bundestag kann dem Antrag zustimmen oder ihn ablehnen.
 Änderungen des Antrags sind nicht zulässig.
-
 
 ## § 4 Vereinfachtes Zustimmungsverfahren
 
@@ -119,10 +114,6 @@ Tragweite vor, wenn
     der NATO, der EU oder einer Organisation, die einen VN-Auftrag
     erfüllt, verwendet werden.
 
-
-
-
-
 ## § 5 Nachträgliche Zustimmung
 
 (1) Einsätze bei Gefahr im Verzug, die keinen Aufschub dulden,
@@ -138,7 +129,6 @@ geeigneter Weise zu unterrichten.
 nachzuholen. Lehnt der Bundestag den Antrag ab, ist der Einsatz zu
 beenden.
 
-
 ## § 6 Unterrichtungspflicht
 
 (1) Die Bundesregierung unterrichtet den Bundestag regelmäßig über den
@@ -147,7 +137,6 @@ Verlauf der Einsätze und über die Entwicklung im Einsatzgebiet.
 (2) In Fällen des § 4 Abs. 1 (Vereinfachtes Zustimmungsverfahren)
 unterrichtet die Bundesregierung die zuständigen Ausschüsse und die
 Obleute unverzüglich.
-
 
 ## § 7 Verlängerung von Einsätzen
 
@@ -164,12 +153,10 @@ er bis zum Ablauf der auf das Verlangen auf Befassung folgenden
 Sitzungswoche als genehmigt. Die Geltungsdauer der ursprünglichen
 Genehmigung bleibt durch die Regelungen der Sätze 1 und 2 unberührt.
 
-
 ## § 8 Rückholrecht
 
 Der Bundestag kann die Zustimmung zu einem Einsatz bewaffneter
 Streitkräfte widerrufen.
-
 
 ## § 9 Inkrafttreten
 

@@ -18,8 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 2 Abs. 45 G v. 22.12.2011 I 3044
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 20a Abs. 5 Satz 1 des Wertpapierhandelsgesetzes, der
@@ -27,10 +25,7 @@ durch Artikel 1 Nr. 7 des Gesetzes vom 28. Oktober 2004 (BGBl. I S.
 2630) neu gefasst worden ist, verordnet das Bundesministerium der
 Finanzen:
 
-
 ## Teil 1 - Anwendungsbereich
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -60,13 +55,7 @@ Die Vorschriften dieser Verordnung sind anzuwenden auf
     und das Verfahren zur Anerkennung einer zulässigen Marktpraxis im
     Sinne des § 20a Abs. 2 des Wertpapierhandelsgesetzes.
 
-
-
-
-
 ## Teil 2 - Bewertungserhebliche Umstände, falsche oder irreführende Signale oder künstliches Preisniveau und sonstige Täuschungshandlungen
-
-
 
 ### § 2 Bewertungserhebliche Umstände
 
@@ -129,10 +118,6 @@ insbesondere auch sein:
 
 
 4.  Kapital- und Finanzierungsmaßnahmen.
-
-
-
-
 
 ### § 3 Falsche oder irreführende Signale oder künstliches Preisniveau
 
@@ -211,10 +196,6 @@ gegeben,
 3.  die den unzutreffenden Eindruck wirtschaftlich begründeter Umsätze
     erwecken.
 
-
-
-
-
 ### § 4 Sonstige Täuschungshandlungen
 
 (1) Sonstige Täuschungshandlungen im Sinne des § 20a Abs. 1 Satz 1 Nr.
@@ -261,13 +242,7 @@ stehende Personen vorab oder im Nachhinein
     eingegangen worden sind, ohne dass dieser Interessenkonflikt zugleich
     mit der Kundgabe in angemessener und wirksamer Weise offenbart wird.
 
-
-
-
-
 ## Teil 3 - Handlungen, die in keinem Fall einen Verstoß gegen das Verbot der Marktmanipulation darstellen
-
-
 
 ### § 5 Handlungen im Einklang mit europäischem Recht
 
@@ -279,7 +254,6 @@ Durchführung der Richtlinie 2003/6/EG des Europäischen Parlaments und
 des Rates - Ausnahmeregelungen für Rückkaufprogramme und
 Kursstabilisierungsmaßnahmen (ABl. EU Nr. L 336 S. 33) stellen in
 keinem Fall einen Verstoß gegen das Verbot der Marktmanipulation dar.
-
 
 ### § 6 Anerkennung ausländischer Stabilisierungsregeln
 
@@ -294,10 +268,7 @@ ausländischen Märkten bestehenden Regeln über zulässige
 Stabilisierungsmaßnahmen getätigt werden, sofern diese Regeln den
 Regeln dieser Verordnung gleichwertig sind.
 
-
 ## Teil 4 - Zulässige Marktpraxis
-
-
 
 ### § 7 Verfahren zur Anerkennung einer zulässigen Marktpraxis
 
@@ -325,7 +296,6 @@ Beteiligung von Marktteilnehmern, anderen Behörden und zuständigen
 ausländischen Stellen nach § 9 sowie gegebenenfalls die Bekanntgabe
 der Anerkennung nach § 10 sind nachzuholen. Die Befugnisse der
 Staatsanwaltschaft bleiben unberührt.
-
 
 ### § 8 Kriterien
 
@@ -371,7 +341,6 @@ Marktmissbrauchsrecht und den Verhaltensregeln des betreffenden
 Marktes oder mit diesem in Beziehung stehenden Märkten innerhalb der
 Europäischen Union und dem Europäischen Wirtschaftsraum.
 
-
 ### § 9 Beteiligung von Marktteilnehmern, Behörden und ausländischen Stellen
 
 (1) Soweit für eine sachgerechte Entscheidung erforderlich, sind vor
@@ -391,7 +360,6 @@ zuständig sind.
 Stellungnahmen nach Absatz 1. Fristgemäß abgegebene Stellungnahmen
 werden bei der Entscheidung über die Anerkennung berücksichtigt.
 
-
 ### § 10 Bekanntgabe
 
 (1) Die Bundesanstalt gibt die Anerkennung einer zulässigen
@@ -407,15 +375,11 @@ unverzüglich dem Ausschuss der Europäischen
 Wertpapierregulierungsbehörden zum Zweck der Veröffentlichung auf
 dessen Website.
 
-
 ## Teil 5 - Schlussvorschriften
-
-
 
 ### § 11 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ### Schlussformel
 

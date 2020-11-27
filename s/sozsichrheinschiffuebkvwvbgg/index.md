@@ -19,12 +19,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 241 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -33,7 +31,6 @@ Deutschland unterzeichneten Verwaltungsvereinbarung zur Durchführung
 des Übereinkommens vom 30. November 1979 über die Soziale Sicherheit
 der Rheinschiffer wird zugestimmt. Die Verwaltungsvereinbarung wird
 nachstehend veröffentlicht.
-
 
 ## Art 2
 
@@ -60,17 +57,12 @@ Kraft zu setzen über die
     Bezugszeiträume der Familienbeihilfen im Falle eines Wohnortwechsels
     der Berechtigten.
 
-
-
-
-
 ## Art 3
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt. Rechtsverordnungen, die auf
 Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14
 des Dritten Überleitungsgesetzes.
-
 
 ## Art 4
 

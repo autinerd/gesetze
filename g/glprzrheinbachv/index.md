@@ -23,8 +23,6 @@ Zuletzt geändert durch
 V aufgeh. durch
 :   § 3 Abs. 1 idF Art. 1 Nr. 2 V v. 20.6.2012 I 1386 mWv 1.10.2016
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 50 Abs. 1 des Berufsbildungsgesetzes vom 23. März 2005
@@ -37,7 +35,6 @@ durch Artikel 146 der Verordnung vom 31. Oktober 2006 (BGBl. I S.
 Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium
 für Bildung und Forschung nach Anhörung des Hauptausschusses des
 Bundesinstituts für Berufsbildung:
-
 
 ## § 1 Gleichstellung von Prüfungszeugnissen
 
@@ -94,7 +91,6 @@ nachstehenden Aufstellung gleichgestellt:
 Soweit zu der Ausbildungsberufsbezeichnung eine Fachrichtung angegeben
 ist, beschränkt sich die Gleichstellung auf diese Fachrichtung.
 
-
 ## § 2 Fortgeltung von Gleichstellungen
 
 Die Gleichstellungen auf Grund der Verordnung zur Gleichstellung von
@@ -107,14 +103,12 @@ September 2006 von dem Staatlichen Berufskolleg Glas-Keramik-
 Gestaltung des Landes Nordrhein-Westfalen in Rheinbach erteilt worden
 sind.
 
-
 ## § 3 Inkrafttreten, Außerkrafttreten
 
 (1) Diese Verordnung tritt mit Wirkung vom 1. Oktober 2006 in Kraft
 und am 1. Oktober 2016 außer Kraft .
 
 (2)
-
 
 ## Schlussformel
 

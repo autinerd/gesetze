@@ -22,7 +22,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 7 V v. 2.10.2012 I 2102
 
-
 ## § 1 Anwendungsbereich
 
 (1) Führer von Yachten und Traditionsschiffen können als Nachweis
@@ -102,7 +101,6 @@ Funkbetriebszeugnis (Short Range Certificate, SRC) oder ein anderes
 nach § 13 Abs. 4a in Verbindung mit Anlage 3 der
 Schiffssicherheitsverordnung anerkanntes und gültiges Seefunkzeugnis.
 
-
 ## § 2 Beauftragung
 
 Der Deutsche Motoryachtverband e.V. und der Deutsche Segler-Verband e.
@@ -130,7 +128,6 @@ Fachaufsicht des Bundesministeriums für Verkehr, Bau und
 Stadtentwicklung, das sich bei der Fachaufsicht über die Zentrale
 Verwaltungsstelle insoweit des Bundesamtes für Seeschifffahrt und
 Hydrographie bedient.
-
 
 ## § 3 Zuständigkeit
 
@@ -167,7 +164,6 @@ Bei Entscheidungen, welche die Traditionsschiffahrt nach den dazu
 erlassen Durchführungsrichtlinien (Traditionsschiffahrt) betreffen,
 wirkt der Vorsitzende dieser Arbeitsgruppe mit Sitz und Stimme im
 Lenkungsausschuß mit.
-
 
 ## § 4 Prüfungskommissionen
 
@@ -218,7 +214,6 @@ weiteren Prüfer. Die Bestellung der Vorsitzenden und der Prüfer
 erfolgt auf Vorschlag der GSHW gemäß Absatz 2. Ihre Qualifikation wird
 in den Durchführungsrichtlinien (Traditionsschiffahrt) geregelt.
 
-
 ## § 4a Prüfungsausschüsse und Abnahme der Prüfung zum Sportküstenschifferschein
 
 (1) Für die Zulassung zur Prüfung und deren Abnahme sowie für die
@@ -246,7 +241,6 @@ eingesetzt wird. Die Prüfungskommission besteht
 (3) Mitglieder der Prüfungskommission werden auf Vorschlag der
 Verbände vom Lenkungsausschuß bestellt und müssen Inhaber des
 Sportsee- oder Sporthochseeschifferscheins sein.
-
 
 ## § 5 Antrag
 
@@ -292,10 +286,6 @@ Angaben und Unterlagen gemäß Absatz 1 Nr. 1 und 2 folgendes enthalten:
 
 2.  den Erfahrungsnachweis Traditionsschiffahrt für die beantragte
     Qualifikation im Original.
-
-
-
-
 
 ## § 6 Voraussetzungen zum Erwerb des Sportküsten-, Sportsee- und Sporthochseeschifferscheins
 
@@ -384,7 +374,6 @@ Anlage 2 erhalten, wenn er
 in den Sportküstenschifferschein, den Sportseeschifferschein und den
 Sporthochseeschifferschein aufzunehmen.
 
-
 ## § 7 Prüfungsanforderungen zum Erwerb des Sportküsten-, Sportsee- und Sporthochseeschifferscheins
 
 (1) Die Prüfung zum Erwerb des Sportküstenschifferscheins soll zeigen,
@@ -436,7 +425,6 @@ Sporthochseeschifferscheins werden in Durchführungsrichtlinien für den
 Sportküstenschifferschein und den Sportsee-/Sporthochseeschifferschein
 geregelt.
 
-
 ## § 8 Durchführung der Prüfungen zum Erwerb des Sportküsten-, Sportsee- und Sporthochseeschifferscheins
 
 (1) Die theoretische Prüfung zum Erwerb des Sportküstenschifferscheins
@@ -459,7 +447,6 @@ Teilprüfung ist frühestens nach Ablauf von zwei Monaten möglich.
 Sportküsten-, des Sportsee- und des Sporthochseeschifferscheins werden
 in Durchführungsrichtlinien nach § 7 Abs. 4 geregelt.
 
-
 ## § 9 Prüfungsanforderungen zum Erwerb der Zusatzeinträge für die Traditionsschiffahrt und zum Erwerb des Befähigungsnachweises zum Maschinisten
 
 (1) Die Feststellung einer Befähigung als Schiffer im Sinne des § 1
@@ -470,7 +457,6 @@ Erfahrungsnachweis vorliegen.
 (2) Die Einzelheiten des Inhalts und des Feststellungsverfahrens zu
 der Befähigung zum Schiffer oder Maschinisten werden in den
 Durchführungsrichtlinien (Traditionsschiffahrt) geregelt.
-
 
 ## § 10 Voraussetzungen zum Erwerb der Zusatzeinträge für die Traditionsschiffahrt und zum Erwerb des Befähigungsnachweises zum Maschinisten
 
@@ -499,7 +485,6 @@ zum Betrieb einer Maschinenanlage verfügt (Erfahrungsnachweis).
 Hinsichtlich der Art der Maschinenanlage ist in der Beurteilung und
 bei der Ausstellung des Befähigungsnachweises für Maschinisten
 zwischen Dampfmaschine und Motor zu unterscheiden.
-
 
 ## § 11 Grundsätze für die Besetzung von Traditionsschiffen
 
@@ -547,11 +532,9 @@ Ausbildungsverordnung für den jeweiligen Geltungsbereich gleich.
 Ausnahme von Absatz 2 Satz 1 erteilen, wenn eine mit der
 Regelbesatzung vergleichbare Sicherheit gewährleistet ist.
 
-
 ## § 11a
 
 (weggefallen)
-
 
 ## § 12 Ersatzausfertigung, Ausstellung in anderen Fällen
 
@@ -612,7 +595,6 @@ und den Eintrag einer entsprechenden Berechtigung in das Zeugnis durch
 die Zentrale Verwaltungsstelle werden in den Durchführungsrichtlinien
 (Traditionsschiffahrt) geregelt.
 
-
 ## § 13 Rücknahme und Entzug
 
 (1) Wird eine Fahrerlaubnis nach § 8 Abs. 2
@@ -649,7 +631,6 @@ vorliegen oder der Inhaber in gefährdender Weise gegen Vorschriften
 des Seefunkdienstes verstoßen hat. Das Funkbetriebszeugnis ist vom
 Inhaber bei der Zentralen Verwaltungsstelle abzuliefern.
 
-
 ## § 14 Verzeichnis
 
 (1) Die Zentrale Verwaltungsstelle führt für Zwecke der Rücknahme
@@ -674,7 +655,6 @@ des jeweiligen Scheins oder Zeugnisses einzutragen.
 (2) Auskünfte aus dem Verzeichnis dürfen nur an Gerichte und
 Strafverfolgungsbehörden für Zwecke der Verfolgung von Straftaten oder
 an Seeämter für Zwecke der Seeunfalluntersuchung erteilt werden.
-
 
 ## § 15 Gebühren und Auslagen
 
@@ -941,7 +921,6 @@ Verwaltungsstelle im Auftrag des Bundesministeriums für Verkehr, Bau
 und Stadtentwicklung nach Maßgabe der Durchführungsrichtlinien erhoben
 und eingezogen.
 
-
 ## § 15a Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 15 Abs. 1 Nr. 2 des
@@ -970,22 +949,18 @@ Seeaufgabengesetzes handelt, wer vorsätzlich oder fahrlässig
 Ordnungswidrigkeiten nach Absatz 1 wird auf die Wasser- und
 Schifffahrtsdirektionen Nord und Nordwest übertragen.
 
-
 ## § 16 Übergangsregelung
 
 § 15a Abs. 1 Nr. 3 ist erst ab dem 1. Januar 2010 anzuwenden.
-
 
 ## § 17
 
 (Inkrafttreten, Aufhebung von Vorschriften)
 
-
 ## Anlage 1 (zu § 2 Satz 1)
 
 (Inhalt: Nicht darstellbares Muster des Sportsee-Schifferscheins;
 Fundstelle: BGBl. I 1998, 400)
-
 
 ## Anlage 1
 
@@ -1070,7 +1045,6 @@ Ermächtigt durch/Authorized by
 BUNDESMINISTERIUM FÜR VERKEHR, BAU- UND WOHNUNGSWESEN
 Auflagen nach § 6 Abs. 4 Sportseeschifferscheinverordnung/Conditions:
 
-
 ## Anlage 1a
 
 Fundstelle des Originaltextes: BGBl. I 1999, 1946 - 1947
@@ -1143,12 +1117,10 @@ Ermächtigt durch/Authorized by
 BUNDESMINISTERIUM FÜR VERKEHR, BAU- UND WOHNUNGSWESEN
 Auflagen nach § 6 Abs. 4 Sportseeschifferscheinverordnung/Conditions:
 
-
 ## Anlage 2 (zu § 2 Satz 1)
 
 (Inhalt: Nicht darstellbares Muster des Sporthochsee-Schifferscheins;
 Fundstelle: BGBl. I 1998, 401)
-
 
 ## Anlage 2
 
@@ -1215,7 +1187,6 @@ Ermächtigt durch/Authorized by
 BUNDESMINISTERIUM FÜR VERKEHR, BAU- UND WOHNUNGSWESEN
 Auflagen nach § 6 Abs. 4 Sportseeschifferscheinverordnung/CONDITIONS:
 
-
 ## Anlage 2a
 
 Fundstelle des Originaltextes: BGBl. I 2002, 3738
@@ -1278,7 +1249,6 @@ UND WOHNUNGSWESEN
 Eigenhändige Unterschrift des Inhabers/
 Signature of the Holder
 
-
 ## Anlage 2b
 
 Fundstelle des Originaltextes: BGBl. I 2002, 3739
@@ -1339,7 +1309,6 @@ UND WOHNUNGSWESEN
 ---------------------------------------
 Eigenhändige Unterschrift des Inhabers/
 Signature of the Holder
-
 
 ## Anlage 3 (zu § 2 Abs. 1)
 
@@ -1508,7 +1477,6 @@ I
 -----------------------------------
 ------------------------------------
 
-
 ## Anlage 4 (zu § 11 Abs. 2) Regelbesatzung von Traditionsschiffen mit Inhabern von nautischen und technischen Befähigungsnachweisen
 
 Fundstelle des Originaltextes: BGBl. I 1998, 403;
@@ -1660,9 +1628,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 
 *    *
-
-
-
 
 ## Anlage 5 (zu § 11a)
 

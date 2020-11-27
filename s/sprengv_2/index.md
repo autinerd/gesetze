@@ -21,7 +21,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 V v. 26.11.2010 I 1643
 
-
 ## § 1 Anwendungsbereich
 
 (1) Die Verordnung gilt für die Aufbewahrung von
@@ -47,10 +46,6 @@ explosionsgefährliche Stoffe).
 
 5.  die als Fertig- oder Zwischenprodukte kurzzeitig abgestellt werden.
 
-
-
-
-
 ## § 2 Allgemeine Anforderungen
 
 (1) Explosionsgefährliche Stoffe sind nach den Vorschriften des
@@ -65,7 +60,6 @@ Leben, Gesundheit und Sachgütern Beschäftigter und Dritter
 gewährleistet ist. Dies ist der zuständigen Behörde auf Verlangen
 nachzuweisen.
 
-
 ## § 3 Ausnahmen
 
 Die zuständige Behörde kann auf schriftlichen Antrag Ausnahmen von den
@@ -78,10 +72,6 @@ Vorschriften des Anhangs zu dieser Verordnung zulassen, wenn
     unverhältnismäßigen Härte führen würde und die Abweichung mit dem
     Schutz der Arbeitnehmer und Dritter sowie mit den Belangen der
     öffentlichen Sicherheit vereinbar ist.
-
-
-
-
 
 ## § 4 Lager- und Verträglichkeitsgruppenzuordnung
 
@@ -143,7 +133,6 @@ zuständige Stelle der Bundeswehr.
 der Bundesanstalt oder von der zuständigen Stelle der Bundeswehr
 bestimmte Lager- und Verträglichkeitsgruppe zugrunde zu legen.
 
-
 ## § 5 Bauartzulassung
 
 (1) Der Antrag auf Erteilung der Bauartzulassung für Bauteile oder
@@ -184,14 +173,12 @@ Zulassungsbescheid. Dieser muss folgende Angaben enthalten:
 (5) Der Inhaber der Zulassung hat dauerhaft und deutlich sichtbar auf
 jedem nachgebauten Stück das Zulassungszeichen anzubringen.
 
-
 ## § 6 Freistellung vom Genehmigungsvorbehalt
 
 Kleine Mengen von explosionsgefährlichen Stoffen nach Nummer 4 des
 Anhangs dürfen ohne Genehmigung nach § 17 des Gesetzes aufbewahrt
 werden. Die Erlaubnisvorbehalte nach den §§ 7 und 27 des Gesetzes
 bleiben unberührt.
-
 
 ## § 7 Ordnungswidrigkeiten
 
@@ -200,21 +187,17 @@ handelt, wer vorsätzlich oder fahrlässig entgegen § 5 Abs. 5 das
 Zulassungszeichen nicht oder nicht in der vorgeschriebenen Weise
 anbringt.
 
-
 ## § 8 (weggefallen)
 
 -
-
 
 ## § 9 (Berlin-Klausel)
 
 -
 
-
 ## § 10 (Inkrafttreten, Außerkrafttreten von Rechtsvorschriften)
 
 -
-
 
 ## Anhang Zu § 2 der Zweiten Verordnung zum Sprengstoffgesetz (2. SprengV)
 
@@ -1784,13 +1767,6 @@ Anlagenverzeichnis
         sind Maßnahmen zu treffen, dass der Inhalt nicht beeinträchtigt wird
         und die Stoffe nicht nach außen gelangen können.
 
-
-
-
-
-
-
-
 ## Anlage 1 zum Anhang Schutzabstände nach Nummer 2.2.2 des Anhangs für Lager mit Explosivstoffen der Lagergruppen 1.1 bis 1.4
 
 (Fundstelle des Originaltextes: BGBl. I 2002, 3555;
@@ -1964,10 +1940,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *   M = Nettoexplosivstoffmasse in Kilogramm.
-
-
-
-
 
 ## Anlage 2 zum Anhang Sicherheitsabstände nach Nummer 2.2.2 des Anhangs für Lager mit Explosivstoffen der Lagergruppen 1.1 bis 1.4
 
@@ -3779,10 +3751,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 2)  E = Abstand in m, M = Nettomasse in kg.
 
-
-
-
-
 ## Anlage 4 zum Anhang Sicherheitsabstände nach Nummer 3.2.2 des Anhangs für Lager mit sonstigen explosionsgefährlichen Stoffen der Lagergruppen I bis III
 
 (Fundstelle des Originaltextes: BGBl. I 2002, 3565;
@@ -3900,10 +3868,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 2)  E = Abstand in m, M = Nettomasse in kg.
-
-
-
-
 
 ## Anlage 5 zum Anhang Verträglichkeitsgruppen nach Nummer 2.7 des Anhangs
 
@@ -4390,7 +4354,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 [^F774705_33_BJNR021890977BJNE001805377]:     Klasse T                            1              nach § 6 Absatz 4
     der Ersten Verordnung zum Sprengstoffgesetz in der bis zum 30.
     September 2009 geltenden Fassung.
-
 
 ## Anlage 7 zum Anhang Aufbewahrung kleiner Mengen im nicht gewerblichen Bereich nach Nummer 4 des Anhangs Maximal zulässige Nettoexplosivstoffmassen/Nettomassen in kg
 

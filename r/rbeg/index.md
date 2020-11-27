@@ -15,14 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 453
 
-
 ## § 1 Grundsatz
 
 Auf der Grundlage von Sonderauswertungen zur Einkommens- und
 Verbrauchsstichprobe 2008 nach § 28 des Zwölften Buches
 Sozialgesetzbuch werden die Regelbedarfsstufen nach den §§ 2 bis 8
 dieses Gesetzes ermittelt.
-
 
 ## § 2 Bestimmung der Referenzhaushalte
 
@@ -35,10 +33,6 @@ zugrunde von
 
 
 2.  Haushalten, in denen Paare mit einem Kind leben (Familienhaushalte).
-
-
-
-
 
 ## § 3 Abgrenzung der Referenzhaushalte
 
@@ -79,10 +73,6 @@ Erhebungszeitraum
 4.  Anspruch auf eine Eigenheimzulage nach dem Eigenheimzulagengesetz
     gehabt haben.
 
-
-
-
-
 ## § 4 Abgrenzung untere Einkommensschichten
 
 Der Abgrenzung der Referenzhaushalte nach § 2 liegen die nach ihrem
@@ -97,10 +87,6 @@ Referenzhaushalte für die Ermittlung der Regelbedarfe berücksichtigt:
 
 2.  von den Familienhaushalten nach § 2 Nummer 2 die unteren 20 Prozent
     der Haushalte.
-
-
-
-
 
 ## § 5 Regelbedarfsrelevante Verbrauchsausgaben der Einpersonenhaushalte
 
@@ -168,7 +154,6 @@ den Regelbedarf berücksichtigt (regelbedarfsrelevant):
 
 (2) Die Summe der regelbedarfsrelevanten Verbrauchsausgaben der
 Einpersonenhaushalte nach Absatz 1 beträgt 361,81 Euro.
-
 
 ## § 6 Regelbedarfsrelevante Verbrauchsausgaben der Familienhaushalte
 
@@ -373,10 +358,6 @@ Familienhaushalt Kindern und Jugendlichen zugerechnet werden, beträgt
 3.  nach Absatz 1 Nummer 3 für Jugendliche vom Beginn des 15. bis zur
     Vollendung des 18. Lebensjahres 273,62 Euro.
 
-
-
-
-
 ## § 7 Fortschreibung der regelbedarfsrelevanten Verbrauchsausgaben
 
 (1) Die Summen der für das Jahr 2008 ermittelten
@@ -406,10 +387,6 @@ Verbrauchsausgaben für Kinder und Jugendliche nach
 
 
 3.  § 6 Absatz 2 Nummer 3 auf 275 Euro.
-
-
-
-
 
 ## § 8 Regelbedarfsstufen
 
@@ -464,10 +441,6 @@ Beträge nach Absatz 1 Nummer 4 bis 6
 
 3.  für die Regelbedarfsstufe 6 der Betrag von 215 Euro.
 
-
-
-
-
 ## § 9 Eigenanteil für die gemeinschaftliche Mittagsverpflegung
 
 Für die gemeinschaftliche Mittagsverpflegung für Schülerinnen und
@@ -476,7 +449,6 @@ zur Ermittlung der Mehraufwendungen je Schultag für die ersparten
 häuslichen Verbrauchsausgaben für ein Mittagessen (Eigenanteil) ein
 Betrag von einem Euro berücksichtigt. Für Kinder, die eine
 Kindertageseinrichtung besuchen, gilt Satz 1 entsprechend.
-
 
 ## § 10 Weiterentwicklung der Regelbedarfs-Ermittlung
 

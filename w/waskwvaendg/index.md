@@ -15,12 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1957, 807
 
-
-
 ## § 1
 
 -
-
 
 ## § 2
 
@@ -31,11 +28,9 @@ Verordnung geänderten Rechtsverhältnissen anzupassen sowie die Geltung
 im Land Berlin
 und die Nichtgeltung im Saarland auszusprechen.
 
-
 ## § 3
 
 -
-
 
 ## § 4
 
@@ -45,11 +40,9 @@ im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes
 erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 Überleitungsgesetzes.
 
-
 ## § 5
 
 -
-
 
 ## § 6
 

@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 63 G v. 21.8.2002 I 3322
 
-
 ## Eingangsformel
 
 Auf Grund der §§ 9a und 12 Abs. 2 des Gesetzes über die Aufgaben des
@@ -38,10 +37,7 @@ mit dem 2. Abschnitt des Verwaltungskostengesetzes vom 23. Juni 1970
 (BGBl. I S. 821) wird, hinsichtlich des § 15 im Einvernehmen mit dem
 Bundesminister der Finanzen, verordnet:
 
-
 ## (XXXX) §§ 1 bis 4 (weggefallen)
-
-
 
 ## § 5 Vermessung von Schiffsbehältern und Laderäumen
 
@@ -50,11 +46,9 @@ nach der Richtlinie 71/349/EWG durchzuführen.
 
 (2) u. (3) (weggefallen)
 
-
 ## § 6
 
 (weggefallen)
-
 
 ## § 7 Berechnungsverfahren
 
@@ -64,11 +58,9 @@ die Richtlinie 71/349/EWG oder diese Verordnung keine Bestimmungen
 anerkannten Berechnungsverfahren anzuwenden. Das Bundesamt für
 Schiffsvermessung kann dazu Richtlinien erlassen.
 
-
 ## § 8
 
 (weggefallen)
-
 
 ## § 9 Meßbriefe, Meßbescheinigungen
 
@@ -110,10 +102,7 @@ Ergebnis der Vermessung
 
 (2) u. (3) (weggefallen)
 
-
 ## (XXXX) §§ 10 bis 15 (weggefallen)
-
-
 
 ## § 16
 
@@ -123,20 +112,15 @@ deren Ausstellung schriftlich zu beantragen ist, sie auszuhändigen,
 vorzulegen oder mitzuführen sind, ist die elektronische Form
 ausgeschlossen.
 
-
 ## § 17
 
 (weggefallen)
-
 
 ## Schlußformel
 
 Der Bundesminister für Verkehr
 
-
 ## (XXXX) Anlagen 1 bis 6 (weggefallen)
-
-
 
 ## Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet D Abschnitt III (BGBl. II 1990, 889, 1108)
 

@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 2587
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 25 Abs. 1 des Berufsbildungsgesetzes vom 14. August
@@ -27,7 +25,6 @@ Verbindung mit Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom
 Oktober 1998 (BGBl. I S. 3288) verordnet das Bundesministerium für
 Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium
 für Bildung und Forschung:
-
 
 ## § 1 Aufhebung der Anerkennung von Ausbildungsberufen
 
@@ -56,10 +53,6 @@ Die Anerkennung folgender Ausbildungsberufe wird aufgehoben:
 
 8.  Zahnlagerist.
 
-
-
-
-
 ## § 2 Besitzstandswahrung
 
 Personen, die vor Inkrafttreten der Verordnung in einem der in § 1
@@ -67,7 +60,6 @@ genannten Ausbildungsberufe ausgebildet worden sind oder im Zeitpunkt
 des Inkrafttretens der Verordnung darin ausgebildet werden und diese
 Berufsausbildung gemäß § 25 Abs. 3 des Berufsbildungsgesetzes
 fortsetzen, bleiben in ihrem Ausbildungsstatus unberührt.
-
 
 ## § 3 Inkrafttreten
 

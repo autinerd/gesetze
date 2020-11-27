@@ -18,23 +18,18 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 G v. 27.5.2010 I 671
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Teil I - Vorschriften für die Gesetzgebung des Bundes und der Länder
-
-
 
 ### § 1 Gesetzgebungsauftrag
 
 Die Vorschriften dieses Teils enthalten Grundsätze für die
 Gesetzgebung des Bundes und der Länder. Bund und Länder sind
 verpflichtet, ihr Haushaltsrecht nach diesen Grundsätzen zu regeln.
-
 
 ### § 1a Haushaltswirtschaft
 
@@ -65,10 +60,7 @@ durch Gesetz oder den Haushaltsplan verbindlich festzulegen. Für die
 Bereiche, für die ein Produkthaushalt aufgestellt wird, ist
 grundsätzlich eine Kosten- und Leistungsrechnung einzuführen.
 
-
 ### Abschnitt I - Allgemeine Vorschriften zum Haushaltsplan
-
-
 
 #### § 2 Bedeutung des Haushaltsplans
 
@@ -80,7 +72,6 @@ ist die Grundlage für die Haushalts- und Wirtschaftsführung. Bei
 seiner Aufstellung und Ausführung ist den Erfordernissen des
 gesamtwirtschaftlichen Gleichgewichts Rechnung zu tragen.
 
-
 #### § 3 Wirkungen des Haushaltsplans
 
 (1) Der Haushaltsplan ermächtigt die Verwaltung, Ausgaben zu leisten
@@ -89,13 +80,11 @@ und Verpflichtungen einzugehen.
 (2) Durch den Haushaltsplan werden Ansprüche oder Verbindlichkeiten
 weder begründet noch aufgehoben.
 
-
 #### § 4 Haushaltsjahr
 
 Rechnungsjahr (Haushaltsjahr) ist das Kalenderjahr. Das für die
 Finanzen zuständige Ministerium kann für einzelne Bereiche etwas
 anderes bestimmen.
-
 
 #### § 5 Notwendigkeit der Ausgaben und Verpflichtungsermächtigungen
 
@@ -104,7 +93,6 @@ Ausgaben und die Ermächtigungen zum Eingehen von Verpflichtungen zur
 Leistung von Ausgaben in künftigen Jahren
 (Verpflichtungsermächtigungen) zu berücksichtigen, die zur Erfüllung
 der Aufgaben des Bundes oder des Landes notwendig sind.
-
 
 #### § 6 Wirtschaftlichkeit und Sparsamkeit, Kosten- und Leistungsrechnung
 
@@ -116,7 +104,6 @@ Wirtschaftlichkeitsuntersuchungen durchzuführen.
 
 (3) In geeigneten Bereichen soll eine Kosten- und Leistungsrechnung
 eingeführt werden.
-
 
 #### § 6a Budgetierung
 
@@ -135,14 +122,12 @@ den Haushaltsplan festzulegen.
 Haushaltsplan für die jeweilige Organisationseinheit Regelungen zur
 Zweckbindung, Übertragbarkeit und Deckungsfähigkeit getroffen werden.
 
-
 #### § 7 Grundsatz der Gesamtdeckung
 
 Alle Einnahmen dienen als Deckungsmittel für alle Ausgaben. Auf die
 Verwendung für bestimmte Zwecke dürfen Einnahmen beschränkt werden,
 soweit dies durch Gesetz vorgeschrieben oder im Haushaltsplan
 zugelassen ist.
-
 
 #### § 7a Grundsätze der staatlichen Doppik
 
@@ -190,10 +175,7 @@ Besonderheiten der öffentlichen Haushaltswirtschaft erforderlich sind,
 werden von Bund und Ländern in dem Gremium nach § 49a Absatz 1
 erarbeitet.
 
-
 ### Abschnitt II - Aufstellung des Haushaltsplans
-
-
 
 #### § 8 Vollständigkeit und Einheit, Fälligkeitsprinzip
 
@@ -209,10 +191,6 @@ erarbeitet.
 
 3.  voraussichtlich benötigten Verpflichtungsermächtigungen.
 
-
-
-
-
 #### § 9 Geltungsdauer der Haushaltspläne
 
 (1) Der Haushaltsplan kann für zwei Haushaltsjahre, nach Jahren
@@ -223,7 +201,6 @@ Finanzhaushalt gegliedert werden; beide können jeweils für zwei
 Haushaltsjahre, nach Jahren getrennt, aufgestellt werden. Die
 Bewilligungszeiträume für beide Haushalte können in
 aufeinanderfolgenden Haushaltsjahren beginnen.
-
 
 #### § 10 Gliederung von Einzelplänen und Gesamtplan
 
@@ -322,7 +299,6 @@ daraus ergebenden zahlungswirksamen Veränderungen des
 Zahlungsmittelbestandes (doppischer Finanzplan) und eine Übersicht
 über den Finanzierungssaldo.
 
-
 #### § 11 Übersichten zum Haushaltsplan
 
 (1) Der Haushaltsplan hat folgende Anlagen:
@@ -364,7 +340,6 @@ Nummer 1b durch eine Produktübersicht zu ersetzen. Die
 Produktübersicht richtet sich nach Verwaltungsvorschriften über die
 funktionale Gliederung des Produkthaushalts (Produktrahmen).
 
-
 #### § 12 Bruttoveranschlagung, Einzelveranschlagung, Selbstbewirtschaftungsmittel, Erläuterungen, Planstellen
 
 (1) Die Einnahmen und Ausgaben in kameralen Haushalten, Aufwendungen
@@ -403,7 +378,6 @@ veranschlagt werden.
 (6) Planstellen sind nach Besoldungsgruppen und Amtsbezeichnungen im
 Haushaltsplan auszubringen.
 
-
 #### § 13 Kreditermächtigungen
 
 (1) Das Haushaltsgesetz bestimmt, bis zu welcher Höhe das für die
@@ -432,7 +406,6 @@ verkündet wird, bis zur Verkündung dieses Haushaltsgesetzes.
 
 (3) (weggefallen)
 
-
 #### § 14 Zuwendungen
 
 Ausgaben und Verpflichtungsermächtigungen für Leistungen an Stellen
@@ -441,7 +414,6 @@ bestimmter Zwecke (Zuwendungen) dürfen nur veranschlagt werden, wenn
 der Bund oder das Land an der Erfüllung durch solche Stellen ein
 erhebliches Interesse hat, das ohne die Zuwendungen nicht oder nicht
 im notwendigen Umfang befriedigt werden kann.
-
 
 #### § 15 Übertragbarkeit, Deckungsfähigkeit
 
@@ -464,7 +436,6 @@ und Verpflichtungsermächtigungen, die ohne nähere Angabe des
 Verwendungszweckes veranschlagt sind, dürfen nicht für deckungsfähig
 erklärt werden.
 
-
 #### § 16 Baumaßnahmen, größere Beschaffungen, größere Entwicklungsvorhaben
 
 (1) Ausgaben und Verpflichtungsermächtigungen für Baumaßnahmen dürfen
@@ -485,14 +456,12 @@ Einzelfall nicht möglich ist, die Unterlagen rechtzeitig
 fertigzustellen, und aus einer späteren Veranschlagung dem Bund oder
 dem Land ein Nachteil erwachsen würde.
 
-
 #### § 17 Fehlbetrag
 
 Ein finanzieller Fehlbetrag ist spätestens in den Haushaltsplan für
 das zweitnächste Haushaltsjahr einzustellen. Er darf durch Kredite nur
 gedeckt werden, soweit die Möglichkeiten einer Kreditaufnahme nicht
 ausgeschöpft sind.
-
 
 #### § 18 Betriebe, Sondervermögen
 
@@ -511,10 +480,7 @@ Verpflichtungsermächtigungen der Sondervermögen sind Übersichten dem
 Haushaltsplan als Anlagen beizufügen oder in die Erläuterungen
 aufzunehmen.
 
-
 ### Abschnitt III - Ausführung des Haushaltsplans
-
-
 
 #### § 19 Bewirtschaftung der Ansätze des Haushaltsplans
 
@@ -533,7 +499,6 @@ Landesstellen sind die Bewirtschaftungserfordernisse des Bundes zu
 berücksichtigen, soweit in Rechtsvorschriften des Bundes oder
 Vereinbarungen nicht etwas anderes bestimmt ist.
 
-
 #### § 20 Bruttonachweis, Einzelnachweis
 
 (1) Alle Einnahmen und Ausgaben sind mit ihrem vollen Betrag bei dem
@@ -544,11 +509,9 @@ hierfür vorgesehenen Titel zu buchen, soweit sich aus § 12 Abs. 1 Satz
 geleistet werden, soweit der Haushaltsplan dies zuläßt. Entsprechendes
 gilt für die Inanspruchnahme von Verpflichtungsermächtigungen.
 
-
 #### § 21 (weggefallen)
 
 -
-
 
 #### § 22 Verpflichtungsermächtigungen
 
@@ -581,7 +544,6 @@ Das Nähere regelt das für die Finanzen zuständige Ministerium.
 (5) Die Absätze 1 bis 4 sind auf Verträge im Sinne von Artikel 59 Abs.
 2 Satz 1 des Grundgesetzes nicht anzuwenden.
 
-
 #### § 23 Gewährleistungen, Kreditzusagen
 
 (1) Die Übernahme von Bürgschaften, Garantien oder sonstigen
@@ -602,7 +564,6 @@ Verpflichtung notwendig ist. Von der Ausbedingung eines Prüfungsrechts
 kann ausnahmsweise mit Einwilligung des für die Finanzen zuständigen
 Ministeriums abgesehen werden.
 
-
 #### § 24 Andere Maßnahmen von finanzieller Bedeutung
 
 Der Erlaß von Verwaltungsvorschriften, der Abschluß von Tarifverträgen
@@ -617,14 +578,12 @@ wenn sie zu Einnahmeminderungen im laufenden Haushaltsjahr oder in
 künftigen Haushaltsjahren oder zu zusätzlichen Ausgaben im laufenden
 Haushaltsjahr führen können.
 
-
 #### § 25 Haushaltswirtschaftliche Sperre
 
 Wenn die Entwicklung der Einnahmen oder Ausgaben es erfordert, kann es
 das für die Finanzen zuständige Ministerium von seiner Einwilligung
 abhängig machen, ob Verpflichtungen eingegangen oder Ausgaben
 geleistet werden.
-
 
 #### § 26 Zuwendungen, Verwaltung von Mitteln oder Vermögensgegenständen
 
@@ -636,7 +595,6 @@ zuständigen Dienststelle oder ihrer Beauftragten festzulegen.
 (2) Sollen Mittel oder Vermögensgegenstände des Bundes oder des Landes
 von Stellen außerhalb der Verwaltung des Bundes oder des Landes
 verwaltet werden, ist Absatz 1 entsprechend anzuwenden.
-
 
 #### § 27 Sachliche und zeitliche Bindung
 
@@ -666,7 +624,6 @@ Haushaltsjahr zu leisten sind.
 bedürfen der Einwilligung des für die Finanzen zuständigen
 Ministeriums.
 
-
 #### § 28 Personalwirtschaftliche Grundsätze
 
 (1) Ein Amt darf nur zusammen mit der Einweisung in eine besetzbare
@@ -675,7 +632,6 @@ Planstelle verliehen werden.
 (2) Personalausgaben, die nicht auf Gesetz oder Tarifvertrag beruhen,
 dürfen nur geleistet werden, wenn dafür Ausgabemittel besonders zur
 Verfügung gestellt sind.
-
 
 #### § 29 Baumaßnahmen, größere Beschaffungen, größere Entwicklungsvorhaben
 
@@ -691,13 +647,11 @@ Ministeriums.
 ausreichende Unterlagen zugrunde zu legen. Absatz 1 Satz 2 gilt
 entsprechend.
 
-
 #### § 30 Öffentliche Ausschreibung
 
 Dem Abschluß von Verträgen über Lieferungen und Leistungen muß eine
 öffentliche Ausschreibung vorausgehen, sofern nicht die Natur des
 Geschäfts oder besondere Umstände eine Ausnahme rechtfertigen.
-
 
 #### § 31 Änderung von Verträgen, Veränderung von Ansprüchen
 
@@ -732,10 +686,7 @@ verzichtet.
 
 (4) Andere Regelungen in Rechtsvorschriften bleiben unberührt.
 
-
 ### Abschnitt IV - Zahlungen, Buchführung und Rechnungslegung
-
-
 
 #### § 32 Zahlungen
 
@@ -745,7 +696,6 @@ Ministerium oder die von ihm ermächtigte Dienststelle schriftlich oder
 auf elektronischem Wege erteilt werden. Das für die Finanzen
 zuständige Ministerium kann Ausnahmen zulassen.
 
-
 #### § 33 Buchführung, Belegpflicht
 
 Über Zahlungen ist nach der im Haushaltsplan oder sonst vorgesehenen
@@ -754,11 +704,9 @@ zuständige Ministerium kann für eingegangene Verpflichtungen,
 Geldforderungen und andere Bewirtschaftungsvorgänge die Buchführung
 anordnen. Alle Buchungen sind zu belegen.
 
-
 #### § 33a (weggefallen)
 
 -
-
 
 #### § 34 Buchung nach Haushaltsjahren
 
@@ -801,14 +749,12 @@ Kosten.
 
 (6) Ausnahmen von den Absätzen 2 bis 4 können zugelassen werden.
 
-
 #### § 35 Vermögensbuchführung, integrierte Buchführung
 
 Über das Vermögen und die Schulden ist Buch zu führen oder ein anderer
 Nachweis zu erbringen. Die Buchführung über das Vermögen und die
 Schulden kann mit der Buchführung über die Einnahmen und Ausgaben
 verbunden werden.
-
 
 #### § 36 Abschluß der Bücher
 
@@ -817,7 +763,6 @@ zuständige Ministerium bestimmt den Zeitpunkt des Abschlusses.
 
 (2) Nach dem Abschluß der Bücher dürfen Einnahmen oder Ausgaben nicht
 mehr für den abgelaufenen Zeitraum gebucht werden.
-
 
 #### § 37 Rechnungslegung
 
@@ -839,7 +784,6 @@ Absatz 4 Satz 2 und die Vermögenrechnung (Bilanz).
 (4) Bei Produkthaushalten ist über die nach Produkten strukturierte
 Mittelzuweisung sowie über Art und Umfang der erbrachten Leistungen
 Rechnung zu legen.
-
 
 #### § 38 Gliederung der Haushaltsrechnung
 
@@ -929,7 +873,6 @@ ist die Höhe der eingegangenen Verpflichtungen und Geldforderungen
 besonders anzugeben, soweit sie nach § 33 Satz 2 der Buchführung
 unterliegen.
 
-
 #### § 39 Kassenmäßiger Abschluß
 
 In kameralen Haushalten sind in dem kassenmäßigen Abschluss
@@ -977,7 +920,6 @@ nachzuweisen:
 Für doppisch basierte Haushalte sind die §§ 7a, 37 Absatz 3 und 4
 sowie § 49a entsprechend anzuwenden.
 
-
 #### § 40 Haushaltsabschluß
 
 In kameralen Haushalten sind in dem Haushaltsabschluss nachzuweisen:
@@ -1022,16 +964,12 @@ In kameralen Haushalten sind in dem Haushaltsabschluss nachzuweisen:
 Für doppisch basierte Haushalte sind die §§ 7a, 37 Absatz 3 und 4
 sowie § 49a entsprechend anzuwenden.
 
-
 #### § 41 Abschlußbericht
 
 Der kassenmäßige Abschluß und der Haushaltsabschluß sind in einem
 Bericht zu erläutern.
 
-
 ### Abschnitt V - Prüfung und Entlastung
-
-
 
 #### § 42 Aufgaben des Rechnungshofes
 
@@ -1060,7 +998,6 @@ kann gesetzlich besonders geregelt werden.
 
 (5) Auf Grund von Prüfungserfahrungen kann der Rechnungshof beraten.
 Das Nähere wird durch Gesetz geregelt.
-
 
 #### § 43 Prüfung bei Stellen außerhalb der Verwaltung
 
@@ -1096,7 +1033,6 @@ prüfen, ob sie ausreichende Vorkehrungen gegen Nachteile für den Bund
 oder das Land getroffen oder ob die Voraussetzungen für eine
 Inanspruchnahme des Bundes oder des Landes vorgelegen haben.
 
-
 #### § 44 Prüfung staatlicher Betätigung bei privatrechtlichen Unternehmen
 
 (1) Der Rechnungshof prüft die Betätigung des Bundes oder des Landes
@@ -1107,7 +1043,6 @@ Beachtung kaufmännischer Grundsätze.
 (2) Absatz 1 gilt entsprechend bei Genossenschaften, in denen der Bund
 oder das Land Mitglied ist.
 
-
 #### § 45 Gemeinsame Prüfung
 
 Sind für die Prüfung mehrere Rechnungshöfe zuständig, so soll
@@ -1115,7 +1050,6 @@ gemeinsam geprüft werden. Soweit nicht die Prüfung durch einen
 bestimmten Rechnungshof verfassungsrechtlich vorgeschrieben ist,
 können die Rechnungshöfe einander durch Vereinbarung Prüfungsaufgaben
 übertragen.
-
 
 #### § 46 Ergebnis der Prüfung
 
@@ -1130,7 +1064,6 @@ frühere Haushaltsjahre aufgenommen werden.
 Rechnungshof die gesetzgebenden Körperschaften und die Regierung
 jederzeit unterrichten.
 
-
 #### § 47 Entlastung, Rechnung des Rechnungshofes
 
 (1) Die gesetzgebenden Körperschaften beschließen auf Grund der
@@ -1140,10 +1073,7 @@ Entlastung der Regierung.
 (2) Die Rechnung des Rechnungshofes wird von den gesetzgebenden
 Körperschaften geprüft, die auch die Entlastung erteilen.
 
-
 ### Abschnitt VI - Sondervermögen des Bundes oder des Landes und bundesunmittelbare oder landesunmittelbare juristische Personen des öffentlichen Rechts
-
-
 
 #### § 48 Grundsatz
 
@@ -1164,16 +1094,12 @@ privaten Rechts, an denen die in Absatz 2 Satz 1 genannten Unternehmen
 unmittelbar oder mittelbar mit Mehrheit beteiligt sind, gelten die §§
 53 und 54 entsprechend.
 
-
 ## Teil II - Vorschriften, die einheitlich und unmittelbar gelten
-
-
 
 ### § 49 Grundsatz
 
 Die Vorschriften dieses Teils gelten einheitlich und unmittelbar für
 den Bund und die Länder.
-
 
 ### § 49a Gremium zur Standardisierung des staatlichen Rechnungswesens
 
@@ -1201,7 +1127,6 @@ für Produkthaushalte, insbesondere zum Gruppierungs- und
 Funktionenplan, zum Verwaltungskontenrahmen und Produktrahmen sowie zu
 den Standards nach § 7a Absatz 2 für die staatliche Doppik.
 
-
 ### § 49b Finanzstatistische Berichtspflichten
 
 Bund und Länder stellen unabhängig von der Art ihrer
@@ -1211,7 +1136,6 @@ Gesamtrechnungen sowie für sonstige Berichtspflichten die Plan- und
 IstDaten weiterhin nach dem Gruppierungs- und Funktionenplan
 mindestens auf Ebene der dreistelligen Gliederung bereitgestellt
 werden.
-
 
 ### § 50 Verfahren bei der Finanzplanung
 
@@ -1250,7 +1174,6 @@ Haushaltsentwicklung unter Berücksichtigung des voraussichtlichen
 gesamtwirtschaftlichen Leistungsvermögens in den einzelnen
 Planungsjahren zu sichern.
 
-
 ### § 51 Koordinierende Beratung der Grundannahmen der Haushalts- und Finanzplanungen; Einhaltung der Haushaltsdisziplin im Rahmen der Europäischen Wirtschafts- und Währungsunion
 
 (1) Zur Koordinierung der Haushalts- und Finanzplanungen des Bundes,
@@ -1270,11 +1193,9 @@ Einrichtungen sollen in die Beratungen und Empfehlungen einbezogen
 werden, soweit sie nicht schon in den Finanzplanungen des Bundes, der
 Länder und der Gemeinden und Gemeindeverbände enthalten sind.
 
-
 ### § 51a (weggefallen)
 
 -
-
 
 ### § 52 Auskunftspflicht
 
@@ -1307,7 +1228,6 @@ erforderlichen Auskünfte über das Bundesministerium für Arbeit und
 Soziales; landesunmittelbare Körperschaften leiten die Auskünfte über
 die für die Sozialversicherung zuständige oberste Verwaltungsbehörde
 des Landes zu.
-
 
 ### § 53 Rechte gegenüber privatrechtlichen Unternehmen
 
@@ -1352,7 +1272,6 @@ Gebietskörperschaft gehören. Als Anteile der Gebietskörperschaft
 gelten ferner Anteile, die Unternehmen gehören, bei denen die Rechte
 aus Absatz 1 der Gebietskörperschaft zustehen.
 
-
 ### § 54 Unterrichtung der Rechnungsprüfungsbehörde
 
 (1) In den Fällen des § 53 kann in der Satzung (im
@@ -1365,7 +1284,6 @@ Betrieb, die Bücher und die Schriften des Unternehmens einsehen kann.
 (2) Ein vor dem Inkrafttreten dieses Gesetzes begründetes Recht der
 Rechnungsprüfungsbehörde auf unmittelbare Unterrichtung bleibt
 unberührt.
-
 
 ### § 55 Prüfung von juristischen Personen des öffentlichen Rechts
 
@@ -1388,7 +1306,6 @@ Bundes oder des Landes § 53 entsprechend anzuwenden, soweit die
 Unternehmen nicht von der Rechnungsprüfung freigestellt sind (§ 48
 Abs. 2 Satz 2 und 3).
 
-
 ### § 56 Rechte der Rechnungsprüfungsbehörde, gegenseitige Unterrichtung
 
 (1) Erlassen oder erläutern die obersten Behörden einer
@@ -1409,7 +1326,6 @@ Gebietskörperschaft zu hören.
 zuständig, so unterrichten sie sich gegenseitig über Arbeitsplanung
 und Prüfungsergebnisse.
 
-
 ### § 57 Bundeskassen, Landeskassen
 
 (1) Die Aufgaben der Kassen bei der Annahme und der Leistung von
@@ -1425,13 +1341,9 @@ anderes bestimmt ist.
 
 (3) (weggefallen)
 
-
 ### (XXXX) §§ 57a bis 57c (weggefallen)
 
-
 ## Teil III - Übergangs- und Schlußbestimmungen
-
-
 
 ### § 58 Öffentlich-rechtliche Dienst- oder Amtsverhältnisse, Zuständigkeitsregelungen
 
@@ -1452,11 +1364,9 @@ bedarf, bleiben unberührt.
 
 (3) (weggefallen)
 
-
 ### § 59 (weggefallen)
 
 -
-
 
 ### § 60 Inkrafttreten
 

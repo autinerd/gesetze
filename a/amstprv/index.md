@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 2149
 
-
 ## Eingangsformel
 
 Auf Grund des § 45 Absatz 1 und des § 51a Absatz 2 der
@@ -25,7 +24,6 @@ Juli 2011 (BGBl. I S. 1341) geändert worden sind, verordnet das
 Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit
 dem Bundesministerium für Bildung und Forschung:
 
-
 ## § 1 Gegenstand
 
 Die Meisterprüfung besteht aus vier selbstständigen Prüfungsteilen.
@@ -33,7 +31,6 @@ Diese Verordnung regelt die betriebswirtschaftliche, kaufmännische und
 rechtliche Prüfung (Teil III) sowie die berufs- und
 arbeitspädagogische Prüfung (Teil IV) in der Meisterprüfung im
 Handwerk und in handwerksähnlichen Gewerben.
-
 
 ## § 2 Ziel, Gliederung und Inhalt des Teils III
 
@@ -201,13 +198,6 @@ mindestens eine komplexe fallbezogene Aufgabe zu bearbeiten.
         Unternehmensdaten prüfen; insolvenzrechtliche Konsequenzen für die
         Weiterführung oder Liquidation eines Unternehmens aufzeigen.
 
-
-
-
-
-
-
-
 ## § 3 Prüfungsdauer und Bestehen des Teils III
 
 (1) Die Prüfung in Teil III ist schriftlich durchzuführen und dauert
@@ -232,10 +222,6 @@ Prüfung des Teils III ist nicht bestanden, wenn
 
 2.  nach durchgeführter Ergänzungsprüfung zwei Handlungsfelder jeweils mit
     weniger als 50 Punkten bewertet worden sind.
-
-
-
-
 
 ## § 4 Ziel, Gliederung und Inhalt des Teils IV
 
@@ -436,7 +422,6 @@ Für die Präsentation oder die praktische Durchführung wählt der
 Prüfling eine berufstypische Ausbildungssituation aus. Die Auswahl und
 Gestaltung der Ausbildungssituation sind im Fachgespräch zu erläutern.
 
-
 ## § 5 Prüfungsdauer und Bestehen des Teils IV
 
 (1) Der schriftliche Teil der Prüfung dauert drei Stunden. Der
@@ -459,7 +444,6 @@ schriftlichen Prüfung des Teils IV der Meisterprüfung ermöglicht.
 die Bewertung des schriftlichen und des praktischen Teils der Prüfung
 mit jeweils mindestens 50 Punkten.
 
-
 ## § 6 Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
 
 (1) Die Vorschriften der Meisterprüfungsverfahrensverordnung vom 17.
@@ -471,7 +455,6 @@ sich nach den für die einzelnen Gewerbe der Anlagen A und B zur
 Handwerksordnung erlassenen Rechtsverordnungen oder nach den gemäß §
 119 Absatz 5 und § 122 der Handwerksordnung weiter anzuwendenden
 Vorschriften.
-
 
 ## § 7 Übergangsvorschriften
 
@@ -485,7 +468,6 @@ geltenden Vorschriften nicht bestanden haben und sich bis zum 31.
 Dezember 2014 zu einer Wiederholungsprüfung anmelden, können auf
 Verlangen die Wiederholungsprüfung nach den bis zum 31. Dezember 2011
 geltenden Vorschriften ablegen.
-
 
 ## § 8 Inkrafttreten, Außerkrafttreten
 

@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 1638
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
@@ -27,17 +25,14 @@ für Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium
 für Bildung und Forschung und dem Bundesministerium für
 Verbraucherschutz, Ernährung und Landwirtschaft:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Schädlingsbekämpfer/Schädlingsbekämpferin wird
 staatlich anerkannt.
 
-
 ## § 2 Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Zielsetzung der Berufsausbildung
 
@@ -47,7 +42,6 @@ qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des
 Berufsbildungsgesetzes befähigt werden, die insbesondere selbständiges
 Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung
 ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
-
 
 ## § 4 Ausbildungsberufsbild
 
@@ -101,10 +95,6 @@ Fertigkeiten und Kenntnisse:
 
 15. Qualitätssichernde Maßnahmen.
 
-
-
-
-
 ## § 5 Ausbildungsrahmenplan
 
 Die in § 3 genannten Fertigkeiten und Kenntnisse sollen nach der in
@@ -115,13 +105,11 @@ zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
 zulässig, soweit betriebspraktische Besonderheiten die Abweichung
 erfordern.
 
-
 ## § 6 Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des
 Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan
 zu erstellen.
-
 
 ## § 7 Berichtsheft
 
@@ -129,7 +117,6 @@ Die Auszubildenden haben ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden
 haben das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 8 Zwischenprüfung
 
@@ -161,7 +148,6 @@ Dabei soll der Prüfling zeigen, dass er Maßnahmen zur Sicherheit und
 zum Gesundheitsschutz bei der Arbeit sowie zum Umweltschutz
 einbeziehen und berufsspezifische Rechtsvorschriften und Normen
 beachten kann.
-
 
 ## § 9 Abschlussprüfung
 
@@ -362,11 +348,9 @@ ausreichende Leistungen erbracht sind. Werden die Prüfungsleistungen
 in einem der Prüfungsbereiche mit ungenügend bewertet, so ist die
 Prüfung nicht bestanden.
 
-
 ## § 10 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2004 in Kraft.
-
 
 ## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Schädlingsbekämpfer/zur Schädlingsbekämpferin
 

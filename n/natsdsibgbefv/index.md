@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1991, 1974
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 5 Satz 3 des Bundeswasserstraßengesetzes in der
@@ -25,14 +23,12 @@ Fassung der Bekanntmachung vom 23. August 1990 (BGBl. I S. 1818)
 verordnet der Bundesminister für Verkehr im Einvernehmen mit dem
 Bundesminister für Umwelt, Naturschutz und Reaktorsicherheit:
 
-
 ## § 1
 
 Zur Erreichung des Schutzzweckes wird das Befahren der
 Bundeswasserstraßen in dem Naturschutzgebiet "Dassower See, Inseln
 Buchhorst und Graswerder (Plönswerder)" mit Wasserfahrzeugen und
 Sportfahrzeugen nach dieser Verordnung geregelt.
-
 
 ## § 2
 
@@ -56,7 +52,6 @@ Absatz 1 Befreiungen gewähren, wenn
 
 Eine Befreiung nach Nummer 1 darf nur gewährt werden, wenn dies mit
 dem Schutzzweck der Verordnung vereinbar ist.
-
 
 ## § 3
 
@@ -92,7 +87,6 @@ oder sonst von der Wasser- und Schiffahrtsverwaltung des Bundes
 festgelegte und bekanntgemachte Fahrwasser benutzen und dabei eine
 Höchstgeschwindigkeit von 8 km/h nicht überschreiten.
 
-
 ## § 4
 
 Ordnungswidrig im Sinne des § 50 Abs. 1 Nr. 2 des
@@ -111,14 +105,9 @@ fahrlässig
     bekanntgemachte Fahrwasser nicht benutzt oder die zulässige
     Höchstgeschwindigkeit überschreitet.
 
-
-
-
-
 ## § 5
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Anlage (zu § 2 Abs. 1)
 

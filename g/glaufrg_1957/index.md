@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1957, 569
 
-
-
 ## § 1
 
 (1) Zur Beschleunigung der Abwicklung der I.G. Farbenindustrie
@@ -40,18 +38,15 @@ Schulden oder um Ansprüche handelt, die aus den Unterlagen der
 Gesellschaft ersichtlich sind oder waren oder sonst der Gesellschaft
 bekannt sind oder waren.
 
-
 ## § 2
 
 -
-
 
 ## § 3
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
 im Land Berlin.
-
 
 ## § 4
 

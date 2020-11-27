@@ -16,18 +16,14 @@ Ausfertigungsdatum
 Fundstelle
 :   RGBl II: 1930, 987
 
-
-
 ## § 1
 
 -
-
 
 ## § 2
 
 ... Für die Durchführung des Übereinkommens ist die
 Seemannsordnung              maßgebend. ...
-
 
 ## § 3
 

@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 17.6.2009 I 1334
 
-
 ## Eingangsformel
 
 Auf Grund
@@ -36,14 +35,12 @@ Auf Grund
 
 verordnet die Bundesregierung:
 
-
 ## § 1
 
 Die Zuständigkeit, die nach § 332a Abs. 3 und § 335b Abs. 2 des
 Lastenausgleichsgesetzes im Rahmen des Aufgebotsverfahrens
 erforderliche Veröffentlichung im Bundesanzeiger zu veranlassen, wird
 auf das Bundesausgleichsamt übertragen.
-
 
 ## § 2
 
@@ -54,11 +51,9 @@ Bundesausgleichsamt übertragen; bei Schäden einer Personengesellschaft
 des Handelsrechts gilt dies nur, soweit die Ausgleichsverwaltung nach
 dem 30. Juni 2009 Kenntnis vom Rückforderungstatbestand erlangt hat.
 
-
 ## § 3
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlussformel
 

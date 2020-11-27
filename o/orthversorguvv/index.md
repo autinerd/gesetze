@@ -18,12 +18,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 23 G v. 7.8.1996 I 1254
 
-
 ## Eingangsformel
 
 Auf Grund des § 564 der Reichsversicherungsordnung verordnet die
 Bundesregierung mit Zustimmung des Bundesrates:
-
 
 ## § 1
 
@@ -36,7 +34,6 @@ Versicherungsfall geschaffene Lage des Verletzten zu verbessern.
 (2) Bei der Versorgung sind Art und Schwere der Verletzungsfolgen
 sowie die beruflichen und persönlichen Verhältnisse des Verletzten zu
 berücksichtigen.
-
 
 ## § 2
 
@@ -60,7 +57,6 @@ Blindenführhunde.
 erhalten zum Unterhalt eines Blindenführhunds oder zu den Aufwendungen
 für fremde Führung einen monatlichen Zuschuß in Höhe des in § 14 des
 Bundesversorgungsgesetzes jeweils festgesetzten Betrags.
-
 
 ## § 3
 
@@ -103,12 +99,10 @@ Ausstattung des Körperersatzstücks oder Hilfsmittels, die durch die
 Bedürfnisse seines Berufs nicht gerechtfertigt ist, so hat er die
 Mehrkosten selbst zu tragen.
 
-
 ## § 4
 
 Der Träger der Unfallversicherung kann sich an wertvollen Hilfsmitteln
 das Eigentum vorbehalten.
-
 
 ## § 5
 
@@ -116,7 +110,6 @@ Die Lieferung des Körperersatzstücks oder Hilfsmittels kann davon
 abhängig gemacht werden, daß der Verletzte sich, um mit dem Gebrauch
 vertraut zu werden, auf Kosten des Trägers der Unfallversicherung
 einer dazu erforderlichen Ausbildung unterzieht.
-
 
 ## § 6
 
@@ -156,7 +149,6 @@ festgesetzten Beträgen auszugehen.
 
 (8) § 4 gilt entsprechend.
 
-
 ## § 7
 
 Für Voraussetzungen und Höhe der Entschädigung für Kleider- und
@@ -165,7 +157,6 @@ Bundesversorgungsgesetzes und der Verordnung zur Durchführung des § 15
 des Bundesversorgungsgesetzes vom 31. Januar 1972 (Bundesgesetzbl. I
 S. 105) in der jeweils geltenden Fassung entsprechend.
 
-
 ## § 8
 
 Um eine gleichmäßige Versorgung der Unfallverletzten zu sichern,
@@ -173,12 +164,10 @@ sollen die Träger der Unfallversicherung gemeinsame Richtlinien über
 Einzelheiten der Gewährung, des Gebrauchs und des Ersatzes von
 Körperersatzstücken und Hilfsmitteln vereinbaren.
 
-
 ## § 9
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzblatt I S. 1) auch im Land Berlin.
-
 
 ## § 10
 

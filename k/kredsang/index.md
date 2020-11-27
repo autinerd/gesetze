@@ -32,17 +32,14 @@ zur Änderung der Richtlinie 73/239/EWG des Rates hinsichtlich der
 Bestimmungen über die Solvabilitätsspanne für
 Schadenversicherungsunternehmen (ABl. EG Nr. L 77 S. 17)
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art 1 bis 4a
 
 -
-
 
 ## Art 5 - Rückkehr zum einheitlichen Verordnungsrang
 
@@ -50,10 +47,7 @@ Die auf Artikel 4 beruhenden Teile der dort geänderten
 Kapitalausstattungs-Verordnung können auf Grund des § 53c des
 Versicherungsaufsichtsgesetzes durch Rechtsverordnung geändert werden.
 
-
 ## Art 6 - Übergangsbestimmungen
-
-
 
 ## § 1
 
@@ -62,7 +56,6 @@ Deutschland betrieben haben, haben die geänderten Anforderungen des §
 53c Abs. 1 bis 3c und der Kapitalausstattungs-Verordnung spätestens
 bis zum 1. März 2007 zu erfüllen. Diese Frist verlängert sich für
 Pensions- und Sterbekassen bis zum 31. Dezember 2007.
-
 
 ## § 2
 
@@ -75,7 +68,6 @@ und Sterbekassen kann diese Fristverlängerung gewährt werden, wenn die
 geforderte Solvabilitätsspanne am 31. Dezember 2007 noch nicht voll
 erreicht ist.
 
-
 ## § 3
 
 § 54 Abs. 5 ist mit der Maßgabe anzuwenden, dass der Teil der
@@ -83,7 +75,6 @@ Rückstellung für Beitragsrückerstattung, der nicht zum Mindestumfang
 des Sicherungsvermögens gehört, erst ab dem 31. Dezember 2012 bei der
 Berechnung des Umfangs des sonstigen gebundenen Vermögens zu
 berücksichtigen ist.
-
 
 ## § 4
 
@@ -95,7 +86,6 @@ einschlägigen gesetzlichen Regelungen Stellung und macht unter
 Berücksichtigung der dann bestehenden oder in Vorbereitung
 befindlichen Regelungen des Europäischen Gemeinschaftsrechts
 Vorschläge zu deren Verbesserung.
-
 
 ## Art 7 - Inkrafttreten
 

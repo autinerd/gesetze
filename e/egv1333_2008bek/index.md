@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 2254
 
-
 ## (XXXX)
 
 
@@ -51,10 +50,6 @@ Fundstelle
     in § 75 Absatz 3 Nummer 2 bezeichnete Gemeinschaftsliste ab dem 2.
     Dezember 2011 anzuwenden. Die in § 59 Absatz 2 Nummer 5 Buchstabe b
     bezeichnete Vorschrift ist ab dem 2. Dezember 2011 anzuwenden.
-
-
-
-
 
 ## Schlussformel
 

@@ -19,12 +19,10 @@ Fundstelle
 Geändert durch
 :   Art. 1 G v. 25.8.1992 I 1547
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1 Aufhebung des Strukturhilfegesetzes
 
@@ -88,10 +86,7 @@ Strukturhilfegesetz gewährt worden sind, sowie auf die als pauschale
 Vorschriften des Strukturhilfegesetzes auch nach dem 31. Dezember 1991
 anzuwenden.
 
-
 ## (XXXX) Art 2 und 3
-
-
 
 ## Art 4 Inkrafttreten
 

@@ -17,7 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 2177
 
-
 ## Eingangsformel
 
 Auf Grund des § 35 Abs. 1 Nr. 2 und Abs. 2 sowie des § 80 Satz 1 Nr. 1
@@ -25,7 +24,6 @@ und 2 des Arzneimittelgesetzes in der Fassung der Bekanntmachung des
 Gesetzes vom 12. Dezember 2005 (BGBl. I S. 3394) verordnet das
 Bundesministerium für Gesundheit im Einvernehmen mit dem
 Bundesministerium für Wirtschaft und Technologie:
-
 
 ## § 1 Zulassungspflicht
 
@@ -35,14 +33,12 @@ Personen auf Grund einer Rezeptur aus vorgefertigten Gebinden
 hergestellt werden und eines oder mehrere der im Anhang aufgeführten
 Allergene enthalten.
 
-
 ## § 2 Staatliche Chargenprüfung
 
 § 32 des Arzneimittelgesetzes wird auf Therapieallergene nach § 1 mit
 der Maßgabe angewandt, dass Gegenstand der staatlichen Chargenprüfung
 und Freigabe die Charge des vorgefertigten Gebindes ist, unmittelbar
 bevor daraus die Therapieallergene abgefüllt oder gemischt werden.
-
 
 ## § 3 Übergangsvorschrift
 
@@ -85,16 +81,13 @@ wegen der Eigenart der Therapieallergene erforderlich ist. Wird den
 Mängeln nicht innerhalb der in den Sätzen 1 und 2 genannten Fristen
 abgeholfen, ist die Zulassung zu versagen.
 
-
 ## § 4 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anhang Liste der Therapieallergene (Erläuterungen in Klammern)
 

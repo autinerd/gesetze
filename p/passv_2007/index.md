@@ -18,9 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 25.10.2010 I 1440
 
-
 ## Kapitel 1 - Passmuster
-
 
 ### § 1 Muster für den Reisepass
 
@@ -28,20 +26,17 @@ Der Reisepass der Bundesrepublik Deutschland ist nach dem in der
 Anlage 1 oder Anlage 1a abgedruckten Muster auszustellen. Für die
 einzutragenden Daten gelten die formalen Anforderungen der Anlage 11.
 
-
 ### § 2 Muster für den Kinderreisepass
 
 Der Kinderreisepass der Bundesrepublik Deutschland ist nach dem in der
 Anlage 2 abgedruckten Muster auszustellen. Für die einzutragenden
 Daten gelten die formalen Anforderungen der Anlage 11.
 
-
 ### § 3 Muster für den vorläufigen Reisepass
 
 Der vorläufige Reisepass der Bundesrepublik Deutschland ist nach dem
 in der Anlage 3 abgedruckten Muster auszustellen. Für die
 einzutragenden Daten gelten die formalen Anforderungen der Anlage 11.
-
 
 ### § 4 Muster für den amtlichen Pass
 
@@ -62,7 +57,6 @@ Anlage 11. Für die Änderung des Dienstortes und der Dienstbezeichnung
 kann ein Änderungsaufkleber nach dem in der Anlage 7a abgedruckten
 Muster verwendet werden.
 
-
 ### § 5 Lichtbild
 
 Bei der Beantragung eines Passes ist vom Passbewerber ein aktuelles
@@ -76,9 +70,7 @@ Anforderungen aus medizinischen Gründen, die nicht nur vorübergehender
 Art sind, Ausnahmen zulassen. Weitere zulässige Abweichungen bei
 Lichtbildern von Kindern regelt Anlage 8.
 
-
 ## Kapitel 2 - Befreiung von der Passpflicht und Passersatzpapiere
-
 
 ### § 6 Befreiung von der Passpflicht
 
@@ -105,10 +97,6 @@ Von der Passpflicht sind befreit:
 
 5.  Deutsche, die zum Flug- oder Begleitpersonal von Rettungsflügen
     gehören.
-
-
-
-
 
 ### § 7 Passersatz
 
@@ -174,7 +162,6 @@ werden, gelten – sofern dies nach den bestehenden zwischenstaatlichen
 Vereinbarungen nicht formlos zu geschehen hat – die für diesen Zweck
 ausgestellten Bescheinigungen als Passersatz.
 
-
 ### § 8 Muster der amtlichen Ausweise als Passersatz
 
 (1) Der Ausweis, der von den für die polizeiliche Kontrolle des
@@ -186,12 +173,10 @@ abgedruckten Muster auszustellen.
 Deutschland berechtigt (§ 7 Abs. 1 Nr. 8), ist nach dem in der Anlage
 10 abgedruckten Muster auszustellen.
 
-
 ### § 9 Lichtbilder für den Passersatz
 
 Sofern auf einem Passersatz die Anbringung eines Lichtbildes
 vorgesehen ist, gilt § 5 entsprechend.
-
 
 ### § 10 Gültigkeitsdauer des Passersatzes
 
@@ -211,7 +196,6 @@ ist nach der Dauer der beabsichtigten Reise zu bemessen. Ein Ausweis
 nach Nummer 1 darf nicht länger als drei Monate, ein Ausweis nach
 Nummer 2 nicht länger als einen Monat gültig sein.
 
-
 ### § 11 Andere Regelungen für einen Passersatz
 
 Die in anderen Rechtsvorschriften oder in zwischenstaatlichen
@@ -219,9 +203,7 @@ Vereinbarungen festgelegten Muster amtlicher Ausweise als Passersatz
 sowie die dort getroffenen Regelungen über Lichtbilder und
 Gültigkeitsdauer bleiben von dieser Rechtsverordnung unberührt.
 
-
 ## Kapitel 3 - Amtliche Pässe
-
 
 ### § 12 Ausstellung
 
@@ -238,7 +220,6 @@ wahrgenommen wird, die für die Passausstellung erforderlichen
 Unterlagen einschließlich des Lichtbildes und der Fingerabdrücke
 übermittelt.
 
-
 ### § 13 Gültigkeitsdauer
 
 (1) Die Gültigkeitsdauer eines amtlichen Passes ist nach der Dauer der
@@ -250,7 +231,6 @@ zehn Jahren nicht überschritten werden.
 wird für eine Gültigkeitsdauer von bis zu einem Jahr ausgestellt.
 
 (3) Eine Verlängerung der Gültigkeitsdauer ist nicht zulässig.
-
 
 ### § 14 Rückgabe
 
@@ -277,9 +257,7 @@ zurückzugeben, wenn
 zulassen, wenn ein besonderes Interesse der Bundesrepublik Deutschland
 an der Belassung des amtlichen Passes vorliegt.
 
-
 ## Kapitel 4 - Gebühren
-
 
 ### § 15 Gebühren
 
@@ -417,25 +395,18 @@ die Gebühren nach Absatz 1 Nummer 2 um 12 Euro anzuheben.
     Reisepass, im Kinderreisepass oder in einem anderen in Absatz 1 Nr. 1
     genannten Ausweis.
 
-
-
-
-
 ### § 16 Erstattung von Auslagen
 
 Als Auslagen erhebt die Passbehörde von der die Gebühren schuldenden
 Person die in § 10 Abs. 1 Nr. 1 des Verwaltungskostengesetzes
 bezeichneten Aufwendungen.
 
-
 ### § 17 Ermäßigung und Befreiung von Gebühren
 
 Die Gebühr kann ermäßigt oder von ihrer Erhebung kann abgesehen
 werden, wenn die Person, die die Gebühren schuldet, bedürftig ist.
 
-
 ## Kapitel 5 - Schlussvorschrift
-
 
 ### § 18 Übergangsregelung
 
@@ -456,7 +427,6 @@ geltenden Fassung entsprechen und Vordrucke für vorläufige
 Diplomatenpässe, die der Anlage 7 in der bis zum 31. Oktober 2010
 geltenden Fassung entsprechen, können bis zum 31. Oktober 2011
 weiterverwendet werden.
-
 
 ### Anlage 1
 
@@ -531,9 +501,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *        ![bgbl1_2007_j23860_0070.jpg](bgbl1_2007_j23860_0070.jpg)
 
-
-
-
 ### Anlage 1a
 
    (Fundstelle: BGBl. I 2007, 2397 - 2403;
@@ -606,9 +573,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *        ![bgbl1_2007_j23860_0140.jpg](bgbl1_2007_j23860_0140.jpg)
-
-
-
 
 ### Anlage 2
 
@@ -701,9 +665,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *        ![bgbl1_2010_j1440-1_0070.jpg](bgbl1_2010_j1440-1_0070.jpg)
 
-
-
-
 ### Anlage 3
 
    (Fundstelle: BGBl. I 2007, 2413 - 2420;
@@ -785,9 +746,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *        ![bgbl1_2010_j1440-1_0090.jpg](bgbl1_2010_j1440-1_0090.jpg)
-
-
-
 
 ### Anlage 4
 
@@ -871,9 +829,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *        ![bgbl1_2007_j23860_0390.jpg](bgbl1_2007_j23860_0390.jpg)
 
-
-
-
 ### Anlage 5
 
    (Fundstelle: BGBl. I 2007, 2429 - 2436;
@@ -955,9 +910,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *        ![bgbl1_2007_j23860_0470.jpg](bgbl1_2007_j23860_0470.jpg)
-
-
-
 
 ### Anlage 6
 
@@ -1041,9 +993,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *        ![bgbl1_2010_j1440-1_0150.jpg](bgbl1_2010_j1440-1_0150.jpg)
 
-
-
-
 ### Anlage 7
 
    (Fundstelle: BGBl. I 2007, 2445 - 2452
@@ -1125,9 +1074,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *        ![bgbl1_2010_j1440-1_0170.jpg](bgbl1_2010_j1440-1_0170.jpg)
-
-
-
 
 ### Anlage 7a Aufkleber Dienstort- und Dienstbezeichnungsänderung
 
@@ -1260,8 +1206,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *        ![bgbl1_2007_j23860_0750.jpg](bgbl1_2007_j23860_0750.jpg)
 
-
-
 ### Anlage 9
 
    ( Fundstelle: BGBl. I 2007, 2456 - 2457 )
@@ -1281,9 +1225,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *        ![bgbl1_2007_j23860_0770.jpg](bgbl1_2007_j23860_0770.jpg)
-
-
-
 
 ### Anlage 10
 
@@ -1307,13 +1248,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *        ![bgbl1_2007_j23860_0790.jpg](bgbl1_2007_j23860_0790.jpg)
 
-
-
-
 ### Anlage 11
 
    (Fundstelle: BGBl. I 2010, 1452 - 1454)
-
 
 ## Formale Anforderungen an die Einträge im Reisepass
 

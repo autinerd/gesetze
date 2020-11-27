@@ -16,13 +16,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1974, 1069
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -30,7 +27,6 @@ Dem in Rom am 7. Juni 1969 unterzeichneten Vertrag zwischen der
 Bundesrepublik Deutschland und der Italienischen Republik über den
 Verzicht auf die Legalisation von Urkunden wird zugestimmt. Der
 Vertrag wird nachstehend veröffentlicht.
-
 
 ## Art 2
 
@@ -42,7 +38,6 @@ Gerichts bestimmt werden.
 
 (2) Rechtsverordnungen der Bundesregierung nach Absatz 1 bedürfen
 nicht der Zustimmung des Bundesrates.
-
 
 ## Art 3
 
@@ -82,13 +77,6 @@ durch
 
         Stempel
 
-
-
-
-
-
-
-
 ## Art 4
 
 (1) Die Auskunft nach Artikel 4 Abs. 1 des Vertrages erteilt das
@@ -100,7 +88,6 @@ herbei, welche die Urkunde errichtet haben soll, und übermittelt diese
 Äußerung der ersuchenden Stelle. Die Person, Stelle oder Behörde ist
 verpflichtet, eine Äußerung abzugeben.
 
-
 ## Art 5
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
@@ -108,7 +95,6 @@ Anwendung dieses Gesetzes feststellt. Rechtsverordnungen, die auf
 Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14
 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I
 S. 1).
-
 
 ## Art 6
 

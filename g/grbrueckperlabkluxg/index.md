@@ -17,13 +17,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1996, 215
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -32,7 +29,6 @@ der Bundesrepublik Deutschland und dem Großherzogtum Luxemburg über
 den Autobahnzusammenschluß und den Bau einer Grenzbrücke über die
 Mosel im Raum Perl und Schengen wird zugestimmt. Das Abkommen wird
 nachstehend veröffentlicht.
-
 
 ## Art 2
 
@@ -48,7 +44,6 @@ für die Anwendung des deutschen Umsatzsteuer- und
 Verbrauchsteuerrechts auf die in Artikel 9 Abs. 2 des Abkommens
 bezeichneten Umsätze und Warenbewegungen als deutsches Hoheitsgebiet.
 Sie ist insoweit als Inland und Steuergebiet anzusehen.
-
 
 ## Art 3
 

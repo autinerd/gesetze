@@ -18,20 +18,14 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 7 G v. 5.2.2009 I 160
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Erster Teil - Personalvertretungen im Bundesdienst
 
-
-
 ### Erstes Kapitel - Allgemeine Vorschriften
-
-
 
 #### § 1
 
@@ -40,7 +34,6 @@ Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts sowie
 in den Gerichten des Bundes werden Personalvertretungen gebildet. Zu
 den Verwaltungen im Sinne dieses Gesetzes gehören auch die
 Betriebsverwaltungen.
-
 
 #### § 2
 
@@ -62,12 +55,10 @@ entgegenstehen.
 Arbeitgeber, insbesondere die Wahrnehmung der Interessen ihrer
 Mitglieder, werden durch dieses Gesetz nicht berührt.
 
-
 #### § 3
 
 Durch Tarifvertrag kann das Personalvertretungsrecht nicht abweichend
 von diesem Gesetz geregelt werden.
-
 
 #### § 4
 
@@ -96,15 +87,10 @@ Beschäftigte, die sich in einer beruflichen Ausbildung befinden.
 2.  Personen, die überwiegend zu ihrer Heilung, Wiedereingewöhnung,
     sittlichen Besserung oder Erziehung beschäftigt werden.
 
-
-
-
-
 #### § 5
 
 Die Beamten und Arbeitnehmer bilden je eine Gruppe. Die in § 4 Abs. 1
 bezeichneten Richter treten zur Gruppe der Beamten.
-
 
 #### § 6
 
@@ -130,7 +116,6 @@ Amtszeit der aus ihr hervorgehenden Personalvertretung wirksam.
 Körperschaften gelten nur die im Bundesdienst Beschäftigten als zur
 Dienststelle gehörig.
 
-
 #### § 7
 
 Für die Dienststelle handelt ihr Leiter. Er kann sich bei Verhinderung
@@ -142,14 +127,12 @@ entsprechenden Abteilungsleiter zu seinem Vertreter bestimmen. Das
 gleiche gilt für sonstige Beauftragte, sofern der Personalrat sich mit
 dieser Beauftragung einverstanden erklärt.
 
-
 #### § 8
 
 Personen, die Aufgaben oder Befugnisse nach diesem Gesetz wahrnehmen,
 dürfen darin nicht behindert und wegen ihrer Tätigkeit nicht
 benachteiligt oder begünstigt werden; dies gilt auch für ihre
 berufliche Entwicklung.
-
 
 #### § 9
 
@@ -197,7 +180,6 @@ Auszubildendenvertretung auch diese beteiligt.
 (5) Die Absätze 2 bis 4 sind unabhängig davon anzuwenden, ob der
 Arbeitgeber seiner Mitteilungspflicht nach Absatz 1 nachgekommen ist.
 
-
 #### § 10
 
 (1) Personen, die Aufgaben oder Befugnisse nach diesem Gesetz
@@ -216,7 +198,6 @@ für die Anrufung der Einigungsstelle.
 Tatsachen, die offenkundig sind oder ihrer Bedeutung nach keiner
 Geheimhaltung bedürfen.
 
-
 #### § 11
 
 Erleidet ein Beamter anläßlich der Wahrnehmung von Rechten oder
@@ -224,14 +205,9 @@ Erfüllung von Pflichten nach diesem Gesetz einen Unfall, der im Sinne
 der beamtenrechtlichen Unfallfürsorgevorschriften ein Dienstunfall
 wäre, so sind diese Vorschriften entsprechend anzuwenden.
 
-
 ### Zweites Kapitel - Personalrat, Stufenvertretung, Gesamtpersonalrat, Personalversammlung
 
-
-
 #### Erster Abschnitt - Wahl und Zusammensetzung des Personalrates
-
-
 
 ##### § 12
 
@@ -243,7 +219,6 @@ Personalräte gebildet.
 gegeben sind, werden von der übergeordneten Dienststelle im
 Einvernehmen mit der Stufenvertretung einer benachbarten Dienststelle
 zugeteilt.
-
 
 ##### § 13
 
@@ -269,7 +244,6 @@ arbeitsvertraglicher Vereinbarung.
 (3) Beamte im Vorbereitungsdienst und Beschäftigte in entsprechender
 Berufsausbildung sind nur bei ihrer Stammbehörde wahlberechtigt.
 
-
 ##### § 14
 
 (1) Wählbar sind alle Wahlberechtigten, die am Wahltage
@@ -294,7 +268,6 @@ die in § 7 genannten Personen sowie Beschäftigte, die zu selbständigen
 Entscheidungen in Personalangelegenheiten der Dienststelle befugt
 sind.
 
-
 ##### § 15
 
 (1) Besteht die oberste Dienstbehörde oder die Dienststelle weniger
@@ -304,7 +277,6 @@ des § 14 Abs. 1 Nr. 1.
 (2) Die Voraussetzung des § 14 Abs. 1 Nr. 2 entfällt, wenn nicht
 mindestens fünfmal soviel wählbare Beschäftigte jeder Gruppe vorhanden
 wären, als nach den §§ 16 und 17 zu wählen sind.
-
 
 ##### § 16
 
@@ -365,7 +337,6 @@ Die Zahl der Mitglieder erhöht sich in Dienststellen mit 1.001 bis
 2\.000.
 
 (2) Die Höchstzahl der Mitglieder beträgt einunddreißig.
-
 
 ##### § 17
 
@@ -449,7 +420,6 @@ Beschäftigungsarten zusammensetzen.
 (7) Die Geschlechter sollen im Personalrat entsprechend dem
 Zahlenverhältnis vertreten sein.
 
-
 ##### § 18
 
 (1) Die Verteilung der Mitglieder des Personalrates auf die Gruppen
@@ -460,7 +430,6 @@ der Neuwahl in getrennter geheimer Abstimmung beschließt.
 vorgeschlagen werden. Die Gewählten gelten als Vertreter derjenigen
 Gruppe, für die sie vorgeschlagen worden sind. Satz 2 gilt auch für
 Ersatzmitglieder.
-
 
 ##### § 19
 
@@ -514,7 +483,6 @@ Gewerkschaft angehören. Bei Zweifeln an der Beauftragung kann der
 Wahlvorstand verlangen, daß die Gewerkschaft die Beauftragung
 bestätigt.
 
-
 ##### § 20
 
 (1) Spätestens acht Wochen vor Ablauf der Amtszeit bestellt der
@@ -534,14 +502,12 @@ vertretenen Gewerkschaft eine Personalversammlung zur Wahl des
 Wahlvorstandes ein. Absatz 1 gilt entsprechend. Die
 Personalversammlung wählt sich einen Versammlungsleiter.
 
-
 ##### § 21
 
 Besteht in einer Dienststelle, die die Voraussetzungen des § 12
 erfüllt, kein Personalrat, so beruft der Leiter der Dienststelle eine
 Personalversammlung zur Wahl des Wahlvorstandes ein. § 20 Abs. 2 Satz
 3 gilt entsprechend.
-
 
 ##### § 22
 
@@ -550,7 +516,6 @@ wählt die Personalversammlung keinen Wahlvorstand, so bestellt ihn der
 Leiter der Dienststelle auf Antrag von mindestens drei
 Wahlberechtigten oder einer in der Dienststelle vertretenen
 Gewerkschaft.
-
 
 ##### § 23
 
@@ -569,7 +534,6 @@ durch Aushang bekannt. Dem Dienststellenleiter und den in der
 Dienststelle vertretenen Gewerkschaften ist eine Abschrift der
 Niederschrift zu übersenden.
 
-
 ##### § 24
 
 (1) Niemand darf die Wahl des Personalrates behindern oder in einer
@@ -585,7 +549,6 @@ Betätigung im Wahlvorstand hat keine Minderung der Dienstbezüge oder
 des Arbeitsentgeltes zur Folge. Für die Mitglieder des Wahlvorstandes
 gelten § 44 Abs. 1 Satz 2 und § 46 Abs. 2 Satz 2 entsprechend.
 
-
 ##### § 25
 
 Mindestens drei Wahlberechtigte, jede in der Dienststelle vertretene
@@ -597,10 +560,7 @@ Wählbarkeit oder das Wahlverfahren verstoßen worden und eine
 Berichtigung nicht erfolgt ist, es sei denn, daß durch den Verstoß das
 Wahlergebnis nicht geändert oder beeinflußt werden konnte.
 
-
 #### Zweiter Abschnitt - Amtszeit des Personalrates
-
-
 
 ##### § 26
 
@@ -609,7 +569,6 @@ Amtszeit beginnt mit dem Tage der Wahl oder, wenn zu diesem Zeitpunkt
 noch ein Personalrat besteht, mit dem Ablauf seiner Amtszeit. Sie
 endet spätestens am 31. Mai des Jahres, in dem nach § 27 Abs. 1 die
 regelmäßigen Personalratswahlen stattfinden.
-
 
 ##### § 27
 
@@ -656,7 +615,6 @@ festgelegten Zeitraumes noch nicht ein Jahr betragen, so ist der
 Personalrat in dem übernächsten Zeitraum der regelmäßigen
 Personalratswahlen neu zu wählen.
 
-
 ##### § 28
 
 (1) Auf Antrag eines Viertels der Wahlberechtigten oder einer in der
@@ -675,7 +633,6 @@ Fachkammer des Verwaltungsgerichtes einen Wahlvorstand ein. Dieser hat
 unverzüglich eine Neuwahl einzuleiten. Bis zur Neuwahl nimmt der
 Wahlvorstand die dem Personalrat nach diesem Gesetz zustehenden
 Befugnisse und Pflichten wahr.
-
 
 ##### § 29
 
@@ -709,13 +666,11 @@ Befugnisse und Pflichten wahr.
 Gruppenzugehörigkeit eines Mitgliedes nicht berührt; dieses bleibt
 Vertreter der Gruppe, die es gewählt hat.
 
-
 ##### § 30
 
 Die Mitgliedschaft eines Beamten im Personalrat ruht, solange ihm die
 Führung der Dienstgeschäfte verboten oder er wegen eines gegen ihn
 schwebenden Disziplinarverfahrens vorläufig des Dienstes enthoben ist.
-
 
 ##### § 31
 
@@ -736,10 +691,7 @@ Personalrat.
 
 (4) Im Falle des § 27 Abs. 2 Nr. 4 treten Ersatzmitglieder nicht ein.
 
-
 #### Dritter Abschnitt - Geschäftsführung des Personalrates
-
-
 
 ##### § 32
 
@@ -760,7 +712,6 @@ betreffen, vertritt der Vorsitzende, wenn er nicht selbst dieser
 Gruppe angehört, gemeinsam mit einem der Gruppe angehörenden
 Vorstandsmitglied den Personalrat.
 
-
 ##### § 33
 
 Hat der Personalrat elf oder mehr Mitglieder, so wählt er aus seiner
@@ -771,7 +722,6 @@ Mitglieder aus derjenigen Liste nicht vertreten, die die zweitgrößte
 Anzahl, mindestens jedoch ein Drittel aller von den Angehörigen der
 Dienststelle abgegebenen Stimmen erhalten hat, so ist eines der
 weiteren Vorstandsmitglieder aus dieser Liste zu wählen.
-
 
 ##### § 34
 
@@ -803,7 +753,6 @@ Tagesordnung zu setzen.
 Verlangen anberaumt sind, und an den Sitzungen, zu denen er
 ausdrücklich eingeladen ist, teil.
 
-
 ##### § 35
 
 Die Sitzungen des Personalrates sind nicht öffentlich; sie finden in
@@ -812,7 +761,6 @@ Anberaumung seiner Sitzungen auf die dienstlichen Erfordernisse
 Rücksicht zu nehmen. Der Leiter der Dienststelle ist vom Zeitpunkt der
 Sitzung vorher zu verständigen.
 
-
 ##### § 36
 
 Auf Antrag von einem Viertel der Mitglieder oder der Mehrheit einer
@@ -820,7 +768,6 @@ Gruppe des Personalrates kann ein Beauftragter einer im Personalrat
 vertretenen Gewerkschaft an den Sitzungen beratend teilnehmen; in
 diesem Falle sind der Zeitpunkt der Sitzung und die Tagesordnung der
 Gewerkschaft rechtzeitig mitzuteilen.
-
 
 ##### § 37
 
@@ -831,7 +778,6 @@ als Ablehnung. Bei Stimmengleichheit ist ein Antrag abgelehnt.
 (2) Der Personalrat ist nur beschlußfähig, wenn mindestens die Hälfte
 seiner Mitglieder anwesend ist; Stellvertretung durch Ersatzmitglieder
 ist zulässig.
-
 
 ##### § 38
 
@@ -845,7 +791,6 @@ für eine Gruppe, die im Personalrat nicht vertreten ist.
 
 (3) Absatz 2 gilt entsprechend für Angelegenheiten, die lediglich die
 Angehörigen zweier Gruppen betreffen.
-
 
 ##### § 39
 
@@ -869,7 +814,6 @@ Schwerbehindertenvertretung einen Beschluß des Personalrates als eine
 erhebliche Beeinträchtigung wichtiger Interessen der
 Schwerbeschädigten erachtet.
 
-
 ##### § 40
 
 (1) Ein Vertreter der Jugend- und Auszubildendenvertretung, der von
@@ -884,7 +828,6 @@ betreffen, haben die Jugend- und Auszubildendenvertreter Stimmrecht.
 (2) An der Behandlung von Angelegenheiten, die besonders die
 nichtständig Beschäftigten betreffen, können die in § 65 Abs. 1
 bezeichneten Vertreter mit beratender Stimme teilnehmen.
-
 
 ##### § 41
 
@@ -901,20 +844,17 @@ entsprechende Teil der Niederschrift abschriftlich zuzuleiten.
 Einwendungen gegen die Niederschrift sind unverzüglich schriftlich zu
 erheben und der Niederschrift beizufügen.
 
-
 ##### § 42
 
 Sonstige Bestimmungen über die Geschäftsführung können in einer
 Geschäftsordnung getroffen werden, die der Personalrat mit der
 Mehrheit der Stimmen seiner Mitglieder beschließt.
 
-
 ##### § 43
 
 Der Personalrat kann Sprechstunden während der Arbeitszeit einrichten.
 Zeit und Ort bestimmt er im Einvernehmen mit dem Leiter der
 Dienststelle.
-
 
 ##### § 44
 
@@ -930,16 +870,12 @@ den Geschäftsbedarf und Büropersonal zur Verfügung zu stellen.
 (3) Dem Personalrat werden in allen Dienststellen geeignete Plätze für
 Bekanntmachungen und Anschläge zur Verfügung gestellt.
 
-
 ##### § 45
 
 Der Personalrat darf für seine Zwecke von den Beschäftigten keine
 Beiträge erheben oder annehmen.
 
-
 #### Vierter Abschnitt - Rechtsstellung der Personalratsmitglieder
-
-
 
 ##### § 46
 
@@ -1064,7 +1000,6 @@ Beschäftigte, die erstmals das Amt eines Personalratsmitgliedes
 übernehmen und nicht zuvor Jugend- und Auszubildendenvertreter gewesen
 sind, haben einen Anspruch nach Satz 1 für insgesamt vier Wochen.
 
-
 ##### § 47
 
 (1) Die außerordentliche Kündigung von Mitgliedern des Personalrates,
@@ -1096,10 +1031,7 @@ ruht unbeschadet des § 29, solange sie entsprechend den Erfordernissen
 ihrer Ausbildung zu einer anderen Dienststelle versetzt oder
 abgeordnet sind.
 
-
 #### Fünfter Abschnitt - Personalversammlung
-
-
 
 ##### § 48
 
@@ -1110,7 +1042,6 @@ Sie ist nicht öffentlich.
 (2) Kann nach den dienstlichen Verhältnissen eine gemeinsame
 Versammlung aller Beschäftigten nicht stattfinden, so sind
 Teilversammlungen abzuhalten.
-
 
 ##### § 49
 
@@ -1128,7 +1059,6 @@ der Personalrat vor Ablauf von zwölf Arbeitstagen nach Eingang des
 Antrages eine Personalversammlung nach Absatz 1 einberufen, wenn im
 vorhergegangenen Kalenderhalbjahr keine Personalversammlung und keine
 Teilversammlung durchgeführt worden sind.
-
 
 ##### § 50
 
@@ -1148,7 +1078,6 @@ Bundesreisekostengesetzes erstattet.
 statt. Hiervon kann im Einvernehmen mit dem Leiter der Dienststelle
 abgewichen werden.
 
-
 ##### § 51
 
 Die Personalversammlung kann dem Personalrat Anträge unterbreiten und
@@ -1158,7 +1087,6 @@ betreffen, insbesondere Tarif-, Besoldungs- und Sozialangelegenheiten
 sowie Fragen der Frauenförderung und der Vereinbarkeit von Familie und
 Beruf. § 66 Abs. 2 und § 67 Abs. 1 Satz 3 gelten für die
 Personalversammlung entsprechend.
-
 
 ##### § 52
 
@@ -1176,10 +1104,7 @@ Personalversammlung teilnehmen.
 teilnehmen. An Versammlungen, die auf seinen Wunsch einberufen sind
 oder zu denen er ausdrücklich eingeladen ist, hat er teilzunehmen.
 
-
 #### Sechster Abschnitt - Stufenvertretungen und Gesamtpersonalrat
-
-
 
 ##### § 53
 
@@ -1214,7 +1139,6 @@ Vertreter. Besteht die Stufenvertretung aus mehr als neun Mitgliedern,
 erhält jede Gruppe mindestens zwei Vertreter. § 17 Abs. 5 gilt
 entsprechend.
 
-
 ##### § 54
 
 (1) Für die Stufenvertretungen gelten die §§ 26 bis 39, 40 Abs. 1, §§
@@ -1225,22 +1149,17 @@ in Absatz 2 nichts anderes bestimmt ist.
 Stufenvertretung spätestens zwölf Arbeitstage nach dem Wahltag
 einzuberufen sind.
 
-
 ##### § 55
 
 In den Fällen des § 6 Abs. 3 wird neben den einzelnen Personalräten
 ein Gesamtpersonalrat gebildet.
-
 
 ##### § 56
 
 Für den Gesamtpersonalrat gelten § 53 Abs. 2 und 3 und § 54 Abs. 1
 Halbsatz 1 entsprechend.
 
-
 ### Drittes Kapitel - Jugend- und Auszubildendenvertretung, Jugend- und Auszubildendenversammlung
-
-
 
 #### § 57
 
@@ -1251,7 +1170,6 @@ die sich in einer beruflichen Ausbildung befinden und das 25.
 Lebensjahr noch nicht vollendet haben, werden Jugend- und
 Auszubildendenvertretungen gebildet.
 
-
 #### § 58
 
 (1) Wahlberechtigt sind alle in § 57 genannten Beschäftigten. § 13
@@ -1260,7 +1178,6 @@ Abs. 1 gilt entsprechend.
 (2) Wählbar sind Beschäftigte, die am Wahltage noch nicht das 26.
 Lebensjahr vollendet haben. § 14 Abs. 1 Satz 1 Nr. 1, Satz 2, Abs. 2
 und 3 gilt entsprechend.
-
 
 #### § 59
 
@@ -1355,7 +1272,6 @@ angehörenden in § 57 genannten Beschäftigten zusammensetzen.
 Auszubildendenvertretung entsprechend ihrem Zahlenverhältnis vertreten
 sein.
 
-
 #### § 60
 
 (1) Der Personalrat bestimmt den Wahlvorstand und seinen Vorsitzenden.
@@ -1379,7 +1295,6 @@ mehr Mitgliedern, so wählt sie aus ihrer Mitte einen Vorsitzenden und
 dessen Stellvertreter.
 
 (4) Die §§ 28 bis 31 gelten entsprechend.
-
 
 #### § 61
 
@@ -1426,7 +1341,6 @@ des Personalrates Sitzungen abhalten; § 34 Abs. 1, 2 gilt sinngemäß.
 An den Sitzungen der Jugend- und Auszubildendenvertretung kann ein vom
 Personalrat beauftragtes Personalratsmitglied teilnehmen.
 
-
 #### § 62
 
 Für die Jugend- und Auszubildendenvertretung gelten die §§ 43 bis 45,
@@ -1436,7 +1350,6 @@ außerordentliche Kündigung, die Versetzung und die Abordnung von
 Mitgliedern der Jugend- und Auszubildendenvertretung der Zustimmung
 des Personalrates bedürfen. Für Mitglieder des Wahlvorstandes und
 Wahlbewerber gilt § 47 Abs. 1, 2 Satz 1 und 2 entsprechend.
-
 
 #### § 63
 
@@ -1452,7 +1365,6 @@ Außer der in Satz 1 bezeichneten Jugend- und Auszubildendenversammlung
 kann eine weitere, nicht auf Wunsch des Leiters der Dienststelle
 einberufene Versammlung während der Arbeitszeit stattfinden.
 
-
 #### § 64
 
 (1) Für den Geschäftsbereich mehrstufiger Verwaltungen werden, soweit
@@ -1466,10 +1378,7 @@ Für die Jugend- und Auszubildendenstufenvertretungen gelten § 53 Abs.
 Auszubildendenvertretungen eine Gesamt-Jugend- und
 Auszubildendenvertretung gebildet. Absatz 1 Satz 2 gilt entsprechend.
 
-
 ### Viertes Kapitel - Vertretung der nichtständig Beschäftigten
-
-
 
 #### § 65
 
@@ -1523,14 +1432,9 @@ gelten entsprechend.
 (4) An den Sitzungen des Personalrates nehmen die in Absatz 1
 bezeichneten Vertreter nach Maßgabe des § 40 Abs. 2 teil.
 
-
 ### Fünftes Kapitel - Beteiligung der Personalvertretung
 
-
-
 #### Erster Abschnitt - Allgemeines
-
-
 
 ##### § 66
 
@@ -1551,7 +1455,6 @@ nicht berührt.
 
 (3) Außenstehende Stellen dürfen erst angerufen werden, wenn eine
 Einigung in der Dienststelle nicht erzielt worden ist.
-
 
 ##### § 67
 
@@ -1576,7 +1479,6 @@ Dienststelle nicht beschränkt.
 
 (3) Die Personalvertretung hat sich für die Wahrung der
 Vereinigungsfreiheit der Beschäftigten einzusetzen.
-
 
 ##### § 68
 
@@ -1627,10 +1529,7 @@ Mitgliedern der Personalvertretung eingesehen werden. Dienstliche
 Beurteilungen sind auf Verlangen des Beschäftigten der
 Personalvertretung zur Kenntnis zu bringen.
 
-
 #### Zweiter Abschnitt - Formen und Verfahren der Mitbestimmung und Mitwirkung
-
-
 
 ##### § 69
 
@@ -1682,7 +1581,6 @@ vorläufige Regelungen treffen. Er hat dem Personalrat die vorläufige
 Regelung mitzuteilen und zu begründen und unverzüglich das Verfahren
 nach den Absätzen 2 bis 4 einzuleiten oder fortzusetzen.
 
-
 ##### § 70
 
 (1) Beantragt der Personalrat eine Maßnahme, die nach § 75 Abs. 3 Nr.
@@ -1697,7 +1595,6 @@ unterliegt, so hat er sie schriftlich dem Leiter der Dienststelle
 vorzuschlagen. Entspricht dieser dem Antrag nicht, so bestimmt sich
 das weitere Verfahren nach § 69 Abs. 3; die oberste Dienstbehörde
 entscheidet endgültig.
-
 
 ##### § 71
 
@@ -1726,7 +1623,6 @@ Rechtsvorschriften, insbesondere des Haushaltsgesetzes, halten.
 (4) Der Beschluß ist den Beteiligten zuzustellen. Er bindet, abgesehen
 von den Fällen des § 69 Abs. 4 Sätze 3, 5 die Beteiligten, soweit er
 eine Entscheidung im Sinne des Absatzes 3 enthält.
-
 
 ##### § 72
 
@@ -1759,7 +1655,6 @@ auszusetzen.
 
 (6) § 69 Abs. 5 gilt entsprechend.
 
-
 ##### § 73
 
 (1) Dienstvereinbarungen sind zulässig, soweit sie dieses Gesetz
@@ -1770,7 +1665,6 @@ Seiten zu unterzeichnen und in geeigneter Weise bekanntzumachen.
 (2) Dienstvereinbarungen, die für einen größeren Bereich gelten, gehen
 den Dienstvereinbarungen für einen kleineren Bereich vor.
 
-
 ##### § 74
 
 (1) Entscheidungen, an denen der Personalrat beteiligt war, führt die
@@ -1780,10 +1674,7 @@ vereinbart ist.
 (2) Der Personalrat darf nicht durch einseitige Handlungen in den
 Dienstbetrieb eingreifen.
 
-
 #### Dritter Abschnitt - Angelegenheiten, in denen der Personalrat zu beteiligen ist
-
-
 
 ##### § 75
 
@@ -1933,7 +1824,6 @@ nicht Gegenstand einer Dienstvereinbarung (Absatz 3) sein. Dies gilt
 nicht, wenn ein Tarifvertrag den Abschluß ergänzender
 Dienstvereinbarungen ausdrücklich zuläßt.
 
-
 ##### § 76
 
 (1) Der Personalrat hat mitzubestimmen in Personalangelegenheiten der
@@ -2025,7 +1915,6 @@ In den Fällen der Nummer 9 bestimmt der Personalrat nur auf Antrag des
 Beschäftigten mit; dieser ist von der beabsichtigten Maßnahme
 rechtzeitig vorher in Kenntnis zu setzen.
 
-
 ##### § 77
 
 (1) In Personalangelegenheiten der in § 14 Abs. 3 bezeichneten
@@ -2054,10 +1943,6 @@ Abs. 1 seine Zustimmung verweigern, wenn
 3.  die durch Tatsachen begründete Besorgnis besteht, daß der Beschäftigte
     oder Bewerber den Frieden in der Dienststelle durch unsoziales oder
     gesetzwidriges Verhalten stören werde.
-
-
-
-
 
 ##### § 78
 
@@ -2106,7 +1991,6 @@ von Diensträumen.
 
 (5) Vor grundlegenden Änderungen von Arbeitsverfahren und
 Arbeitsabläufen ist der Personalrat anzuhören.
-
 
 ##### § 79
 
@@ -2179,13 +2063,11 @@ mitzuteilen.
 (4) Eine Kündigung ist unwirksam, wenn der Personalrat nicht beteiligt
 worden ist.
 
-
 ##### § 80
 
 An Prüfungen, die eine Dienststelle von den Beschäftigten ihres
 Bereichs abnimmt, kann ein Mitglied des für diesen Bereich zuständigen
 Personalrates, das von diesem benannt ist, beratend teilnehmen.
-
 
 ##### § 81
 
@@ -2220,10 +2102,7 @@ nach § 193 Abs. 5 des Siebten Buches Sozialgesetzbuch vom Personalrat
 zu unterschreibenden Unfallanzeige oder des nach beamtenrechtlichen
 Vorschriften zu erstattenden Berichts auszuhändigen.
 
-
 #### Vierter Abschnitt - Beteiligung der Stufenvertretungen und des Gesamtpersonalrates
-
-
 
 ##### § 82
 
@@ -2249,10 +2128,7 @@ vorgesehen ist, so ist die Stufenvertretung bei der nächsthöheren
 Dienststelle, zu deren Geschäftsbereich die entscheidende Dienststelle
 und die von der Entscheidung Betroffenen gehören, zu beteiligen.
 
-
 ### Sechstes Kapitel - Gerichtliche Entscheidungen
-
-
 
 #### § 83
 
@@ -2279,7 +2155,6 @@ Bundesverwaltungsgericht, entscheiden außer in den Fällen der §§ 9,
 
 (2) Die Vorschriften des Arbeitsgerichtsgesetzes über das
 Beschlußverfahren gelten entsprechend.
-
 
 #### § 84
 
@@ -2310,10 +2185,7 @@ und je zwei nach Absatz 2 Satz 3 Nr. 1 und 2 berufenen Besitzern.
 Unter den in Absatz 2 Satz 3 Nr. 1 bezeichneten Beisitzern muß sich je
 ein Beamter und ein Arbeitnehmer befinden.
 
-
 ### Siebentes Kapitel - Vorschriften für besondere Verwaltungszweige und die Behandlung von Verschlußsachen
-
-
 
 #### § 85
 
@@ -2432,7 +2304,6 @@ eine gesundheitliche Schädigung, die eine
 Grenzschutzdienstbeschädigung wäre, so sind die dafür geltenden
 Vorschriften entsprechend anzuwenden.
 
-
 #### § 86
 
 Für den Bundesnachrichtendienst gilt dieses Gesetz mit folgenden
@@ -2529,10 +2400,6 @@ Abweichungen:
     gerichtlichen Verfahren ist § 99 der Verwaltungsgerichtsordnung
     entsprechend anzuwenden.
 
-
-
-
-
 #### § 87
 
 Für das Bundesamt für Verfassungsschutz gilt dieses Gesetz mit
@@ -2554,10 +2421,6 @@ folgenden Abweichungen:
     Verfassungsschutz betreffen, wie Verschlußsachen des
     Geheimhaltungsgrades "VS-VERTRAULICH" zu behandeln (§ 93), soweit
     nicht die zuständige Stelle etwas anderes bestimmt.
-
-
-
-
 
 #### § 88
 
@@ -2582,10 +2445,6 @@ Arbeit gilt dieses Gesetz mit folgenden Abweichungen:
 3.  Als oberste Dienstbehörde im Sinne des § 69 Abs. 3, 4 und des § 71
     gilt der Vorstand. § 69 Abs. 3 Satz 2 ist nicht anzuwenden.
 
-
-
-
-
 #### § 89
 
 Für die Deutsche Bundesbank gilt dieses Gesetz mit folgenden
@@ -2604,14 +2463,9 @@ Abweichungen:
     Landeszentralbank können sich durch eines oder mehrere ihrer
     Mitglieder vertreten lassen. § 7 Satz 2 bleibt unberührt.
 
-
-
-
-
 #### § 89a
 
 -
-
 
 #### § 90
 
@@ -2694,13 +2548,6 @@ Gesetz mit folgenden Abweichungen:
         Fällen des § 75 Abs. 1 nur mit, wenn sie dies beantragen. § 69 Abs. 4
         Satz 3 und 4 gilt entsprechend.
 
-
-
-
-
-
-
-
 #### § 91
 
 (1) Für Dienststellen des Bundes im Ausland gilt dieses Gesetz mit
@@ -2755,7 +2602,6 @@ wesentlich berühren, hat der Personalrat dem Vertrauensmann
 Gelegenheit zur Äußerung zu geben. Für den Vertrauensmann gelten die
 §§ 43 bis 45, 46 Abs. 1, 2, 3 Satz 1 und § 67 Abs. 1 Satz 3 sinngemäß.
 
-
 #### § 92
 
 Für den Geschäftsbereich des Bundesministeriums der Verteidigung gilt
@@ -2778,10 +2624,6 @@ Für den Geschäftsbereich des Bundesministeriums der Verteidigung gilt
     Dienststellen übergeordneten Dienststelle zu beraten. Dieses Mitglied
     ist von der Stufenvertretung zu benennen. Nummer 1 ist nicht
     anzuwenden.
-
-
-
-
 
 #### § 93
 
@@ -2824,20 +2666,14 @@ Deutschland oder eines ihrer Länder oder auf Grund internationaler
 Verpflichtungen geboten ist. Im Verfahren nach § 83 sind die
 gesetzlichen Voraussetzungen für die Anordnung glaubhaft zu machen.
 
-
 ## Zweiter Teil - Personalvertretungen in den Ländern
 
-
-
 ### Erstes Kapitel - Rahmenvorschriften für die Landesgesetzgebung
-
-
 
 #### § 94
 
 Für die Gesetzgebung der Länder sind die §§ 95 bis 106
 Rahmenvorschriften.
-
 
 #### § 95
 
@@ -2863,19 +2699,16 @@ einzuräumen ist.
 (3) Der Schwerbehindertenvertretung ist die Teilnahme an allen
 Sitzungen der Personalvertretung zu gestatten.
 
-
 #### § 96
 
 Die Aufgaben der Gewerkschaften und der Vereinigungen der Arbeitgeber
 werden durch das Personalvertretungsrecht nicht berührt.
-
 
 #### § 97
 
 Durch Tarifvertrag oder Dienstvereinbarung darf eine von den
 gesetzlichen Vorschriften abweichende Regelung des
 Personalvertretungsrechts nicht zugelassen werden.
-
 
 #### § 98
 
@@ -2897,7 +2730,6 @@ Gruppe beschließen.
 Jugend- und Auszubildendenvertretungen entsprechend dem
 Zahlenverhältnis vertreten sein.
 
-
 #### § 99
 
 (1) Wahl und Tätigkeit der Personalvertretungen und der
@@ -2913,7 +2745,6 @@ der Personalvertretung oder der Jugendvertretung sowie der Jugend- und
 Auszubildendenvertretung unvermeidbar ist und die Personalvertretung
 zustimmt.
 
-
 #### § 100
 
 (1) Die Mitglieder der Personalvertretungen führen ihr Amt
@@ -2924,7 +2755,6 @@ den Beschäftigten wirtschaftliche Nachteile nicht entstehen.
 
 (3) Die durch die Wahl und die Tätigkeit der Personalvertretungen
 entstehenden Kosten trägt die Verwaltung.
-
 
 #### § 101
 
@@ -2940,7 +2770,6 @@ ihrer Aufgaben erforderlichen Unterlagen zur Verfügung zu stellen.
 Personalakten dürfen Mitgliedern der Personalvertretungen nur mit
 Zustimmung des Beschäftigten vorgelegt werden.
 
-
 #### § 102
 
 (1) Die Personalvertretungen sind in angemessenen Zeitabständen neu zu
@@ -2951,13 +2780,11 @@ ihrer gesetzlichen Befugnisse oder wegen grober Verletzung ihrer
 gesetzlichen Pflichten durch gerichtliche Entscheidung aufgelöst
 werden. Das gleiche gilt für den Ausschluß einzelner Mitglieder.
 
-
 #### § 103
 
 Die Personalvertretungen haben darauf hinzuwirken, daß die zugunsten
 der Beschäftigten geltenden Vorschriften und Bestimmungen durchgeführt
 werden.
-
 
 #### § 104
 
@@ -2985,7 +2812,6 @@ insbesondere Entscheidungen
 dürfen jedoch nicht den Stellen entzogen werden, die der
 Volksvertretung verantwortlich sind.
 
-
 #### § 105
 
 Die Personalvertretungen haben gemeinsam mit dem Leiter der
@@ -3000,15 +2826,11 @@ Betätigung in der Dienststelle zu unterlassen; die Behandlung von
 Tarif-, Besoldungs- und Sozialangelegenheiten wird hierdurch nicht
 berührt.
 
-
 #### § 106
 
 Zu gerichtlichen Entscheidungen sind die Verwaltungsgerichte berufen.
 
-
 ### Zweites Kapitel - Unmittelbar für die Länder geltende Vorschriften
-
-
 
 #### § 107
 
@@ -3016,7 +2838,6 @@ Personen, die Aufgaben oder Befugnisse nach dem
 Personalvertretungsrecht wahrnehmen, dürfen darin nicht behindert und
 wegen ihrer Tätigkeit nicht benachteiligt oder begünstigt werden; dies
 gilt auch für ihre berufliche Entwicklung. § 9 gilt entsprechend.
-
 
 #### § 108
 
@@ -3036,7 +2857,6 @@ Verwaltungsgericht ist der betroffene Arbeitnehmer Beteiligter.
 Arbeitsverhältnisses eines Beschäftigten ist unwirksam, wenn die
 Personalvertretung nicht beteiligt worden ist.
 
-
 #### § 109
 
 Erleidet ein Beamter anläßlich der Wahrnehmung von Rechten oder
@@ -3045,19 +2865,13 @@ Unfall, der im Sinne der beamtenrechtlichen Unfallfürsorgevorschriften
 ein Dienstunfall wäre, so finden diese Vorschriften entsprechende
 Anwendung.
 
-
 ## Dritter Teil - Strafvorschriften
-
-
 
 ### (XXXX) §§ 110 und 111 (weggefallen)
 
 -
 
-
 ## Vierter Teil - Schlußvorschriften
-
-
 
 ### § 112
 
@@ -3066,11 +2880,9 @@ ihre karitativen und erzieherischen Einrichtungen ohne Rücksicht auf
 ihre Rechtsform; ihnen bleibt die selbständige Ordnung eines
 Personalvertretungsrechtes überlassen.
 
-
 ### (XXXX) §§ 113 und 114 (weggefallen)
 
 -
-
 
 ### § 115
 
@@ -3102,14 +2914,9 @@ des Bundesrates bedarf, Vorschriften zu erlassen über
 
 7.  die Aufbewahrung der Wahlakten.
 
-
-
-
-
 ### § 116
 
 -
-
 
 ### § 116a
 
@@ -3153,7 +2960,6 @@ entsprechender Anwendung des § 28 Abs. 2 Satz 3 endet mit dem Beginn
 der Amtszeit der erstmals gewählten Jugend- und
 Auszubildendenvertretung.
 
-
 ### § 116b
 
 § 26 und § 27 Abs. 1 finden in der auf eine Amtszeit des Personalrats
@@ -3165,14 +2971,12 @@ Personalräte finden - unbeschadet des § 27 Abs. 5 - die Vorschriften
 des § 26, des § 27 Abs. 1 und Abs. 2 Nr. 1 in der Fassung des Gesetzes
 vom 15. März 1974 (BGBl I S. 693) Anwendung.
 
-
 ### § 117
 
 Soweit in anderen Vorschriften auf Vorschriften verwiesen wird oder
 Bezeichnungen verwendet werden, die durch dieses Gesetz aufgehoben
 oder geändert werden, treten an ihre Stelle die entsprechenden
 Vorschriften dieses Gesetzes
-
 
 ### § 118
 
@@ -3182,11 +2986,9 @@ im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes
 erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 Überleitungsgesetzes.
 
-
 ### § 119
 
 Dieses Gesetz tritt am 1. April 1974 in Kraft.
-
 
 ### Schlußformel
 

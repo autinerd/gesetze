@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1998, 1870
 
-
-
 ## I.
 
 Auf Grund des § 8 Abs. 2 Nr. 7 des Markengesetzes vom 25. Oktober 1994
@@ -27,16 +25,6 @@ ausgeschlossen ist:
 *
     *
         *   Konformitätsmarke der Republik Guinea (Anlage 1)
-
-
-
-
-
-
-
-
-
-
 
 ## II.
 
@@ -57,7 +45,6 @@ Mai 1998 (BGBl. I S. 1216).
 
 Bundesministerium der Justiz
 
-
 ## Anlage 1
 
 (Fundstelle: BGBl. I 1998, 1871)
@@ -65,7 +52,6 @@ Bundesministerium der Justiz
 Konformitätsmarke der Republik Guinea
 (... nicht darstellbare Abbildung)
 Farben: weiße Schrift auf grünem Grund
-
 
 ## Anlage 2
 

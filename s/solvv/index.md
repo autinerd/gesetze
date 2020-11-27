@@ -27,7 +27,6 @@ des Europäischen Parlaments und des Rates vom 14. Juni 2006 über die
 angemessene Eigenkapitalausstattung von Wertpapierfirmen und
 Kreditinstituten (Neufassung) (ABl. EU Nr. L 177 S. 201).
 
-
 ## Eingangsformel
 
 Das Bundesministerium der Finanzen verordnet
@@ -58,10 +57,7 @@ Das Bundesministerium der Finanzen verordnet
 jeweils im Benehmen mit der Deutschen Bundesbank und nach Anhörung der
 Spitzenverbände der Institute:
 
-
 ## Teil 1 - Allgemeine Vorschriften
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -90,7 +86,6 @@ Diese Verordnung ist anzuwenden auf
 
 
 Die §§ 298 bis 307 gelten nicht für Nichthandelsbuchinstitute.
-
 
 ### § 2 Angemessenheit der Eigenmittel eines Instituts
 
@@ -185,7 +180,6 @@ Wohnungsunternehmen mit Spareinrichtung gilt Satz 1 mit der Maßgabe,
 dass die Gesamtkennziffer zum Ende eines jeden Kalenderjahres zu
 ermitteln ist.
 
-
 ### § 3 Angemessenheit der zusammengefassten Eigenmittel
 
 (1) Die Anforderungen nach § 2 Abs. 2 bis 4 und 6 gelten entsprechend
@@ -246,7 +240,6 @@ geltende Marktrisikoregelung
 
 
 gleichwertig ist.
-
 
 ### § 4 Anrechnungspflichtige Positionen, Schuldnergesamtheit
 
@@ -363,7 +356,6 @@ beherrschenden Einfluss auf eine oder mehrere andere Personen ausüben,
 darf das Institut nur in begründeten Fällen von der Bildung einer
 Schuldnergesamtheit nach Satz 1 absehen.
 
-
 ### § 5 Auf fremde Währung lautende Positionen
 
 (1) Eine auf eine fremde Währung lautende Position ist zu dem von der
@@ -382,7 +374,6 @@ Verkaufskursen des Stichtages zugrunde zu legen.
 den §§ 313 bis 318 verwenden und die dort verwendeten internen
 Fremdwährungsumrechnungskurse konsistent auf alle auf fremde Währung
 lautende Positionen anwenden.
-
 
 ### § 6 Meldungen zur Eigenmittelausstattung
 
@@ -423,7 +414,6 @@ Handelstage vorzuhalten. Sowohl die Bundesanstalt als auch die
 Deutsche Bundesbank können verlangen, dass die Angaben nach Satz 5 und
 6 spätestens nach 15 Geschäftstagen eingereicht werden.
 
-
 ### § 7 Anzeigen bei Nichteinhaltung der Eigenmittelanforderungen
 
 (1) Institute müssen
@@ -451,10 +441,7 @@ Deutschen Bundesbank unverzüglich schriftlich anzeigen. Absatz 1 Satz
 übergeordnete Unternehmen einer Institutsgruppe oder Finanzholding-
 Gruppe.
 
-
 ## Teil 2 - Adressrisiken
-
-
 
 ### § 8 Ermittlung des Gesamtanrechnungsbetrags für Adressrisiken
 
@@ -494,10 +481,7 @@ multiplizierte Summe aus
 Der Gesamtanrechnungsbetrag für Adressrisiken erhöht sich um den
 Gesamtanrechnungsbetrag für Abwicklungsrisiken nach § 16.
 
-
 ### Kapitel 1 - Risikopositionen
-
-
 
 #### § 9 Adressenausfallrisikopositionen
 
@@ -571,7 +555,6 @@ Anrechnungsbeträge für die Marktrisikopositionen und, im Falle des §
 des Instituts andererseits höher ist als im Falle einer
 Berücksichtigung als Adressenausfallrisikoposition.
 
-
 #### § 10 Bilanzielle Adressenausfallrisikopositionen
 
 Zu den bilanziellen Adressenausfallrisikopositionen gehören
@@ -594,10 +577,6 @@ Zu den bilanziellen Adressenausfallrisikopositionen gehören
     Umlaufvermögens der zum Verkauf bestimmten Grundstücke und anderer
     Vorräte, mit Ausnahme der unfertigen Leistungen aus noch nicht mit den
     Mietern abgerechneten Betriebskosten.
-
-
-
-
 
 #### § 11 Derivative Adressenausfallrisikopositionen
 
@@ -660,10 +639,6 @@ ein Geschäft gebildet wird, bei dem
     das Minimum aus fünf Geschäftstagen und der für diese Art von
     Geschäften marktüblichen Anzahl von Geschäftstagen.
 
-
-
-
-
 #### § 12 Aufrechnungspositionen
 
 (1) Eine Aufrechnungsposition aus Derivaten ist die Position, die aus
@@ -704,7 +679,6 @@ erhalten hat.
 (5) Für Adressenausfallrisikopositionen, die in zu berücksichtigende
 Aufrechnungspositionen einbezogen sind, sind keine gesonderten
 risikogewichteten Positionswerte zu berücksichtigen.
-
 
 #### § 13 Außerbilanzielle Adressenausfallrisikopositionen
 
@@ -750,7 +724,6 @@ Adressenausfallrisikopositionen nach Absatz 1 Nr. 1 bis 6 gehören,
 bilden sowohl eine derivative Adressenausfallrisikoposition als auch
 eine außerbilanzielle Adressenausfallrisikoposition.
 
-
 #### § 14 Vorleistungsrisikopositionen
 
 (1) Eine Vorleistungsrisikoposition ist jeder Anspruch aus einem
@@ -785,7 +758,6 @@ Verrechnungssystemen entstandene Vorleistungen können auf Antrag mit
 Zustimmung der Bundesanstalt bis zur Wiederherstellung der
 Funktionsfähigkeit der Systeme unberücksichtigt bleiben.
 
-
 #### § 15 Abwicklungsrisikopositionen
 
 (1) Eine Abwicklungsrisikoposition ist jeder Liefer- oder
@@ -799,7 +771,6 @@ Abnahmezeitpunktes beidseitig noch nicht erfüllt worden ist.
 Verrechnungssystemen entstandene Abwicklungsrisikopositionen können
 auf Antrag mit Zustimmung der Bundesanstalt bis zur Wiederherstellung
 der Funktionsfähigkeit der Systeme unberücksichtigt bleiben.
-
 
 #### § 16 Gesamtanrechnungsbetrag für Abwicklungsrisiken
 
@@ -825,10 +796,7 @@ Wertpapiere, Fremdwährungen oder Waren, die mit
 
 nach dem vereinbarten Abrechnungstermin zu multiplizieren sind.
 
-
 ### Kapitel 2 - Bemessungsgrundlage für derivative Adressenausfallrisikopositionen und Adressenausfallrisikopositionen aus nichtderivativen Geschäften mit Sicherheitennachschüssen sowie aus sonstigen Pensions-, Darlehens- oder vergleichbaren Geschäften über Wertpapiere oder Waren
-
-
 
 #### § 17 Bemessungsgrundlage für derivative Adressenausfallrisikopositionen und Adressenausfallrisikopositionen aus nichtderivativen Geschäften mit Sicherheitennachschüssen sowie aus sonstigen Pensions-, Darlehens- oder vergleichbaren Geschäften über Wertpapiere oder Waren
 
@@ -906,10 +874,6 @@ Geschäfte, bei denen
     Marktwertänderungen der Geschäfte Sicherheitennachschüsse
     einzufordern.
 
-
-
-
-
 #### § 18 Marktbewerteter Wiedereindeckungsaufwand
 
 Der marktbewertete Wiedereindeckungsaufwand ist
@@ -922,15 +886,10 @@ Der marktbewertete Wiedereindeckungsaufwand ist
     Wiedereindeckungsaufwands nach § 20, wenn es sich nicht um einen
     währungsgleichen Zinsswap ohne Festzinsteil handelt.
 
-
-
-
-
 #### § 19 Gegenwärtiger potenzieller Wiedereindeckungsaufwand
 
 Der gegenwärtige potenzielle Wiedereindeckungsaufwand ist der höhere
 Wert aus Null und dem aktuellen Marktwert des Derivates.
-
 
 #### § 20 Künftig zu erwartende Erhöhung des gegenwärtigen potenziellen Wiedereindeckungsaufwands
 
@@ -986,7 +945,6 @@ Institut Gewährleistungsgeber ist und die nicht unter Satz 1 Nummer 1
 fallen, ist auf den noch ausstehenden Betrag der Prämienzahlungen
 begrenzt.
 
-
 #### § 21 Marktbewerteter Anspruch aus einem Derivat
 
 Der marktbewertete Anspruch aus einem Derivat ist bei
@@ -1001,10 +959,6 @@ Der marktbewertete Anspruch aus einem Derivat ist bei
     tatsächlicher Lieferung oder Abnahme des Geschäftsgegenstandes
     bestehende, zum aktuellen Marktkurs umgerechnete Anspruch des
     Instituts auf Lieferung oder Abnahme des Geschäftsgegenstands.
-
-
-
-
 
 #### § 22 Für den Wiedereindeckungsaufwand maßgebliche Laufzeit
 
@@ -1023,10 +977,6 @@ Adressenausfallrisikoposition begründet,
 
 3.  sonst die Laufzeit des Derivats.
 
-
-
-
-
 #### § 23 Laufzeitbewerteter Wiedereindeckungsaufwand
 
 Der laufzeitbewertete Wiedereindeckungsaufwand für eine derivative
@@ -1035,10 +985,7 @@ Anspruch aus dem Derivat und der sich in Abhängigkeit von der
 maßgeblichen Laufzeit des Geschäfts ergebenden Volatilitätsrate nach
 Tabelle 2 der Anlage 1.
 
-
 ### Kapitel 3 - Kreditrisiko-Standardansatz
-
-
 
 #### § 24 Ermittlung der risikogewichteten KSA-Positionswerte
 
@@ -1057,7 +1004,6 @@ Gegenleistung fünf Geschäftstage nach deren Fälligkeit noch nicht
 wirksam erbracht worden ist, ihr risikogewichteter KSA-Positionswert
 als das Produkt aus einem KSA-Risikogewicht von 1 250 Prozent und
 ihrem KSA-Positionswert nach den §§ 48 bis 51 zu bestimmen.
-
 
 #### § 25 Zuordnung von KSA-Positionen zu KSA-Forderungsklassen
 
@@ -1476,10 +1422,7 @@ dieser KSA-Forderungsklasse darf ein Institut anstelle von Satz 1 die
 Regelungen nach § 125 verwenden. Die Sätze 1 und 2 gelten nicht für
 KSA-Verbriefungspositionen.
 
-
 #### Abschnitt 1 - KSA-Risikogewichte
-
-
 
 ##### § 26 KSA-Risikogewicht für Zentralregierungen
 
@@ -1544,10 +1487,6 @@ Zentralregierungen ist wie folgt zu bestimmen:
 
 5.  Sonst beträgt das KSA-Risikogewicht 100 Prozent.
 
-
-
-
-
 ##### § 27 KSA-Risikogewicht für Regionalregierungen und örtliche Gebietskörperschaften
 
 Das KSA-Risikogewicht für eine KSA-Position der KSA-Forderungsklasse
@@ -1593,10 +1532,6 @@ zu bestimmen:
 
 4.  Sonst erfolgt die Risikogewichtung nach den Regeln für Institute nach
     § 31; § 31 Nr. 4 findet keine Anwendung.
-
-
-
-
 
 ##### § 28 KSA-Risikogewicht für sonstige öffentliche Stellen
 
@@ -1655,10 +1590,6 @@ sonstige öffentliche Stellen ist wie folgt zu bestimmen:
 
 4.  Sonst beträgt das KSA-Risikogewicht 100 Prozent.
 
-
-
-
-
 ##### § 29 KSA-Risikogewicht für multilaterale Entwicklungsbanken
 
 Das KSA-Risikogewicht für eine KSA-Position der KSA-Forderungsklasse
@@ -1686,15 +1617,10 @@ multilaterale Entwicklungsbanken ist wie folgt zu bestimmen:
 
 4.  Sonst beträgt das KSA-Risikogewicht 50 Prozent.
 
-
-
-
-
 ##### § 30 KSA-Risikogewicht für internationale Organisationen
 
 Das KSA-Risikogewicht für eine KSA-Position der KSA-Forderungsklasse
 internationale Organisationen beträgt 0 Prozent.
-
 
 ##### § 31 KSA-Risikogewicht für Institute
 
@@ -1756,10 +1682,6 @@ Institute ist wie folgt zu bestimmen:
 
 6.  Sonst beträgt das KSA-Risikogewicht 100 Prozent.
 
-
-
-
-
 ##### § 32 KSA-Risikogewicht für von Kreditinstituten emittierte gedeckte Schuldverschreibungen
 
 Das KSA-Risikogewicht für eine KSA-Position der KSA-Forderungsklasse
@@ -1767,7 +1689,6 @@ von Kreditinstituten emittierte gedeckte Schuldverschreibungen ist in
 Abhängigkeit von dem nach § 31 Nr. 2 oder 6 bestimmten KSA-
 Risikogewicht für Positionen, die vom emittierenden Kreditinstitut
 geschuldet werden, nach Tabelle 7 der Anlage 1 zu bestimmen.
-
 
 ##### § 33 KSA-Risikogewicht für Unternehmen
 
@@ -1796,15 +1717,10 @@ Unternehmen ist wie folgt zu bestimmen:
     Risikogewicht nach § 26 für die Zentralregierung des Sitzstaates des
     Schuldners.
 
-
-
-
-
 ##### § 34 KSA-Risikogewicht für das Mengengeschäft
 
 Das KSA-Risikogewicht für eine KSA-Position der KSA-Forderungsklasse
 Mengengeschäft beträgt 75 Prozent.
-
 
 ##### § 35 KSA-Risikogewicht für durch Immobilien besicherte Positionen
 
@@ -1984,7 +1900,6 @@ hat. Institute, Institutsgruppen und Finanzholding-Gruppen haben der
 Bundesanstalt jährlich die für diese Feststellung notwendigen Angaben
 einzureichen.
 
-
 ##### § 36 KSA-Risikogewicht für Investmentanteile
 
 (1) Das KSA-Risikogewicht für eine KSA-Position der KSA-
@@ -2085,12 +2000,10 @@ bestätigen.
 hohen Risiken verbunden sind, ein KSA-Risikogewicht von 150 Prozent
 oder höher festlegen.
 
-
 ##### § 37 KSA-Risikogewicht für Beteiligungen
 
 Das KSA-Risikogewicht für eine KSA-Position der KSA-Forderungsklasse
 Beteiligungen beträgt 100 Prozent.
-
 
 ##### § 38 KSA-Risikogewicht für sonstige Positionen
 
@@ -2143,10 +2056,6 @@ für
     bei der Addition die KSA-Risikogewichte der n-1 Adressen mit den
     niedrigsten risikogewichteten KSA-Positionswerten auszunehmen sind.
 
-
-
-
-
 ##### § 39 KSA-Risikogewicht für überfällige Positionen
 
 Das KSA-Risikogewicht für eine KSA-Position der KSA-Forderungsklasse
@@ -2173,10 +2082,6 @@ besicherte Positionen zuzuordnen und hatte
 
 2.  ein KSA-Risikogewicht von 50 Prozent, so beträgt das KSA-Risikogewicht
     bei Überfälligkeit 100 Prozent.
-
-
-
-
 
 ##### § 40 Berücksichtigung von Gewährleistungen, Lebensversicherungen und finanziellen Sicherheiten mit ihrem KSA-Risikogewicht
 
@@ -2300,10 +2205,7 @@ Sicherheiten, die dieser KSA-Position zugeordnet sind, verbleibenden
 nichtsubstituierten Bemessungsgrundlage dieser KSA-Position und dem
 KSA-Konversionsfaktor für diese KSA-Position nach § 50.
 
-
 #### Abschnitt 2 - Verwendung von externen Bonitätsbeurteilungen und Länderklassifizierungen
-
-
 
 ##### § 41 Benennung anerkannter Ratingagenturen und Exportversicherungsagenturen
 
@@ -2340,7 +2242,6 @@ Zustimmung nur verweigern, wenn konkrete Anhaltspunkte dafür
 vorliegen, dass durch die Rücknahme der Benennung eine Verminderung
 der Eigenkapitalanforderungen beabsichtigt ist.
 
-
 ##### § 42 Verwendung von Bonitätsbeurteilungen und Länderklassifizierungen
 
 (1) Ein Institut, das für eine bonitätsbeurteilungsbezogene
@@ -2352,7 +2253,6 @@ Ratingagentur vorhanden ist, anwenden.
 
 (2) Absatz 1 gilt entsprechend für Länderklassifizierungen von
 Exportversicherungsagenturen.
-
 
 ##### § 43 Maßgebliche Bonitätsbeurteilung
 
@@ -2369,7 +2269,6 @@ maßgeblichen Bonitätsbeurteilung stehen nach § 47 verwendungsfähige
 Länderklassifizierungen der vom Institut benannten
 Exportversicherungsagenturen den Schuldnerbonitätsbeurteilungen
 gleich.
-
 
 ##### § 44 Maßgebliche Bonitätsbeurteilung einer beurteilten KSA-Position
 
@@ -2388,7 +2287,6 @@ Bonitätsbeurteilungskategorien zu Bonitätsstufen zu den beiden
 niedrigsten KSA-Risikogewichten führen; unterscheiden sich die beiden
 niedrigsten KSA-Risikogewichte, ist die Bonitätsbeurteilung
 maßgeblich, die zum höheren KSA-Risikogewicht führt.
-
 
 ##### § 45 Maßgebliche Bonitätsbeurteilung einer unbeurteilten KSA-Position
 
@@ -2460,7 +2358,6 @@ gleichrangig zu erstrangigen unbesicherten Forderungen desselben
 Schuldners ist. Bestehen keine Schuldnerbonitätsbeurteilungen, liegt
 keine maßgebliche Bonitätsbeurteilung vor.
 
-
 ##### § 46 Verwendungsfähige Bonitätsbeurteilungen
 
 Eine Bonitätsbeurteilung, die von einer vom Institut benannten
@@ -2497,7 +2394,6 @@ auszuüben, einen Auftrag für eine Bonitätsbeurteilung oder für andere
 Dienstleistungen zu erteilen. Soll die Bonitätsbeurteilung für eine
 Verbriefungsposition verwendet werden, gilt § 237 Abs. 2.
 
-
 ##### § 47 Verwendungsfähige Länderklassifizierungen von Exportversicherungsagenturen
 
 Für eine KSA-Position der bonitätsbeurteilungsbezogenen
@@ -2515,20 +2411,13 @@ Exportversicherungsagentur jede
     anwendet, ihre Länderklassifizierungen veröffentlicht und den Mindest-
     Exportversicherungsprämien nach dieser Methodik zuordnet.
 
-
-
-
-
 #### Abschnitt 3 - KSA-Positionswert
-
-
 
 ##### § 48 KSA-Positionswert
 
 Der KSA-Positionswert einer KSA-Position ist das Produkt aus ihrer
 KSA-Bemessungsgrundlage nach § 49 Abs. 1 und ihrem KSA-
 Konversionsfaktor nach § 50.
-
 
 ##### § 49 KSA-Bemessungsgrundlage
 
@@ -2680,7 +2569,6 @@ als besicherte Teilbemessungsgrundlage abzuspalten. Der Marktwert der
 finanziellen Sicherheit ist um den nach Satz 3 der KSA-Position
 zugeordneten Teil zu verringern.
 
-
 ##### § 50 KSA-Konversionsfaktor
 
 (1) Der KSA-Konversionsfaktor beträgt für
@@ -2742,7 +2630,6 @@ beiden KSA-Konversionsfaktoren anzuwenden.
 Verbriefungspositionen nach § 227 Abs. 3 sind, finden die KSA-
 Konversionsfaktoren nach § 239 Abs. 2 oder 3 Anwendung.
 
-
 ##### § 51 Unmittelbar kündbare Kreditlinie
 
 Für die Bestimmung des KSA-Konversionsfaktors gilt eine Kreditlinie
@@ -2759,10 +2646,7 @@ Institut muss die finanzielle Situation des Schuldners aktiv
 verfügen, um Bonitätsverschlechterungen des Schuldners unverzüglich zu
 erkennen.
 
-
 #### Abschnitt 4 - Anerkennung von Ratingagenturen und Zuordnung von Bonitätsbeurteilungskategorien zu Bonitätsstufen
-
-
 
 ##### § 52 Anerkennung von Ratingagenturen
 
@@ -2828,7 +2712,6 @@ Marktsegmente sind
 
 Die Bundesanstalt kann die Einreichung weiterer für das
 Anerkennungsverfahren erforderlicher Angaben verlangen.
-
 
 ##### § 53 Voraussetzungen für die Anerkennung von Ratingagenturen
 
@@ -2930,7 +2813,6 @@ Die Ratingagentur muss die Bundesanstalt umgehend über wesentliche
 Änderungen der von ihr angewandten Methodik zur Vergabe von
 Bonitätsbeurteilungen unterrichten.
 
-
 ##### § 54 Zuordnung von Bonitätsbeurteilungskategorien zu Bonitätsstufen
 
 (1) Die Bundesanstalt ordnet jede Bonitätsbeurteilungskategorie, die
@@ -2986,14 +2868,9 @@ Nachweis erbracht hat, dass die realisierten Ausfallraten für ihre
 Bonitätsbeurteilungskategorie nicht länger wesentlich und systematisch
 höher sind als diejenigen des Vergleichsmaßstabes.
 
-
 ### Kapitel 4 - Auf internen Ratings basierender Ansatz (IRBA)
 
-
-
 #### Abschnitt 1 - Grundlagen des IRBA
-
-
 
 ##### § 55 Struktur des IRBA
 
@@ -3026,14 +2903,9 @@ Risikogewicht 1.250 Prozent beträgt, muss das Institut nach seiner
 Entscheidung nach § 266 für § 10 Abs. 6a Nr. 3 des Kreditwesengesetzes
 den Abzugsbetrag für IRBA-Verbriefungspositionen nach § 265 bestimmen.
 
-
 #### Abschnitt 2 - Nutzung des IRBA
 
-
-
 ##### Unterabschnitt 1 - Nutzungsvoraussetzungen
-
-
 
 ###### § 56 Nutzungsvoraussetzungen für den IRBA
 
@@ -3159,7 +3031,6 @@ Bundesanstalt ist es zulässig,
 Eine Zustimmung nach Satz 2 ist vom Institut unter Angabe der Gründe
 bei der Bundesanstalt zu beantragen.
 
-
 ###### § 57 Verwendung des IRBA durch Institutsgruppen oder Finanzholding-Gruppen
 
 (1) Für die Ermittlung risikogewichteter Positionswerte für
@@ -3191,10 +3062,7 @@ Zwecke des Nachweises der angemessenen Eigenmittelausstattung nach §
 unabhängig von einem IRBA-Zulassungsantrag der Institutsgruppe oder
 Finanzholding-Gruppe, der es angehört, stellen.
 
-
 ##### Unterabschnitt 2 - Zulassung zum IRBA
-
-
 
 ###### § 58 IRBA-Zulassung
 
@@ -3244,7 +3112,6 @@ aber der Bundesanstalt und der Deutschen Bundesbank schriftlich
 anzuzeigen. Bedeutende Änderungen sind vor Verwendung des geänderten
 Ratingsystems oder Beteiligungsrisikomodells für den IRBA mit der
 Bundesanstalt abzustimmen.
-
 
 ###### § 59 IRBA-Zulassungsantrag
 
@@ -3312,10 +3179,7 @@ Mitgliedsstaat ist, der für die Aufsicht über dieses EU-Mutterinstitut
 oder diese EU-Mutterfinanzholding-Gesellschaft auf konsolidierter
 Basis zuständigen Stelle weiter.
 
-
 ###### Titel 1 - Definition und Eignung von Ratingsystemen und Beteiligungsrisikomodellen
-
-
 
 ###### § 60 Definition von Ratingsystemen und Beteiligungsrisikomodellen im IRBA
 
@@ -3338,13 +3202,11 @@ zwischen den Quartalserträgen und einem geeigneten, über einen
 langfristigen Beobachtungszeitraum berechneten risikofreien Zinssatz
 abgeleitet wird.
 
-
 ###### § 61 Eignung von Ratingsystemen und Beteiligungsrisikomodellen
 
 Geeignet zur Verwendung für den IRBA sind Ratingsysteme und
 Beteiligungsrisikomodelle, die den Anforderungen dieser Verordnung,
 insbesondere den Nutzungsvoraussetzungen nach § 56 genügen.
-
 
 ###### § 62 Eignungsprüfung
 
@@ -3372,7 +3234,6 @@ Nutzungsvoraussetzungen für den IRBA einhalten wird. Im Rahmen einer
 nach Zulassung zum IRBA vorgenommenen Eignungsprüfung beurteilt die
 Bundesanstalt auch, ob das Institut den genehmigten Umsetzungsplan
 einhält.
-
 
 ###### § 63 Verwendungs- und Erfahrungsanforderungen für Ratingsysteme und Beteiligungsrisikomodelle
 
@@ -3416,10 +3277,7 @@ risikogewichteten IRBA-Positionswerte und der erwarteten
 Verlustbeträge zu verwendende Ratingsystem oder
 Beteiligungsrisikomodell für seine Einsatzzwecke konkret geeignet ist.
 
-
 ###### Titel 2 - Anwendbarkeit des IRBA
-
-
 
 ###### § 64 Eintrittsschwelle
 
@@ -3428,7 +3286,6 @@ Abdeckungsgrad für IRBA-Positionswerte nach § 67 Abs. 3 Satz 1 als
 auch der Abdeckungsgrad für risikogewichtete IRBA-Positionswerte nach
 § 67 Abs. 3 Satz 2 mit geeigneten Ratingsystemen und
 Beteiligungsrisikomodellen jeweils mindestens 50 Prozent beträgt.
-
 
 ###### § 65 Aufsichtlicher Referenzpunkt
 
@@ -3455,7 +3312,6 @@ Referenzpunkt erreicht hat, die risikogewichteten IRBA-Positionswerte
 unter der Annahme zu ermitteln, dass sämtliche IRBA-Positionen des
 Instituts nicht unter § 59 Abs. 1 Satz 2 Nr. 1 Buchstabe b fallen.
 
-
 ###### § 66 Austrittsschwelle
 
 Die Austrittsschwelle beendet die Umsetzungsphase und wird erreicht,
@@ -3464,7 +3320,6 @@ wenn der Abdeckungsgrad für IRBA-Positionswerte nach § 67 Abs. 3 Satz
 § 67 Abs. 3 Satz 2 mit geeigneten Ratingsystemen jeweils mindestens 92
 Prozent beträgt. Die Bundesanstalt kann diesen Wert für ein Institut
 auf Antrag absenken, wenn das Institut wichtige Gründe geltend macht.
-
 
 ###### § 67 Abdeckungsgrad
 
@@ -3699,7 +3554,6 @@ im Zähler und im Nenner für den Abdeckungsgrad die IRBA-Risikogewichte
 und risikogewichteten IRBA-Positionswerte nach Satz 1 statt der KSA-
 Risikogewichte oder risikogewichteten KSA-Positionswerte verwenden.
 
-
 ###### § 68 Neugeschäft, ausnahmefähiges Bestandsgeschäft, zu berücksichtigendes Bestandsgeschäft
 
 (1) Zum Neugeschäft für einen Geschäftsbereich, der kein auslaufender
@@ -3738,14 +3592,12 @@ einen nicht auslaufenden Geschäftsbereich, wenn
 (4) Zu berücksichtigendes Bestandsgeschäft ist das Bestandsgeschäft,
 das kein ausnahmefähiges Bestandsgeschäft ist.
 
-
 ###### § 69 Auslaufende Geschäftsbereiche
 
 Ein auslaufender Geschäftsbereich eines Instituts ist ein
 Geschäftsbereich nach § 108 Satz 1, in dem es weder neue
 Adressrisikopositionen durch den Abschluss neuer Geschäfte eingeht
 noch einzugehen beabsichtigt.
-
 
 ###### § 70 Zeitlich unbeschränkte Ausnahme von der Anwendung des IRBA
 
@@ -3893,10 +3745,7 @@ Adressrisikopositionen der IRBA-Forderungsklasse Institute zuzuordnen
 wären, ohne die Schuldner der Adressenausfallrisikopositionen nach
 Nummer 6, insgesamt nicht größer als 40 ist.
 
-
 #### Abschnitt 3 - Risikogewichtete IRBA-Positionswerte
-
-
 
 ##### § 71 IRBA-Positionen
 
@@ -3953,7 +3802,6 @@ verwenden.
 nicht nach Absatz 1 bis 4 IRBA-Positionen sind, sind als KSA-
 Positionen nach § 24 Satz 1 zu berücksichtigen.
 
-
 ##### § 72 Ermittlung der risikogewichteten IRBA-Positionswerte
 
 Für jede IRBA-Position ist nach Zuordnung zu einer der IRBA-
@@ -3963,10 +3811,7 @@ nach § 227 Abs. 4 ist, ist ihr risikogewichteter IRBA-Positionswert
 nach § 84 zu ermitteln. Für jede IRBA-Verbriefungsposition ist ihr
 risikogewichteter IRBA-Positionswert nach § 253 zu ermitteln.
 
-
 ##### Unterabschnitt 1 - IRBA-Forderungsklassen
-
-
 
 ###### § 73 Zuordnung einer IRBA-Position zu einer IRBA-Forderungsklasse
 
@@ -4015,7 +3860,6 @@ des Instituts der Forderungsklasse Institute zuzuordnen wären; in
 allen anderen Fällen ist sie der Forderungsklasse Unternehmen
 zuzuordnen.
 
-
 ###### § 74 IRBA-Forderungsklasse Zentralregierungen
 
 Der IRBA-Forderungsklasse Zentralregierungen nach § 73 Satz 1 Nr. 1
@@ -4041,7 +3885,6 @@ ist eine IRBA-Position zuzuordnen, deren Erfüllung von
 
 
 geschuldet wird.
-
 
 ###### § 75 IRBA-Forderungsklasse Institute
 
@@ -4100,7 +3943,6 @@ IRBA-Position zuzuordnen, deren Erfüllung von
 
 geschuldet wird.
 
-
 ###### § 76 IRBA-Forderungsklasse Mengengeschäft
 
 (1) Der IRBA Forderungsklasse Mengengeschäft nach § 73 Satz 1 Nr. 3
@@ -4144,7 +3986,6 @@ Ankauf von Forderungen gebildeten Adressenausfallrisikopositionen
 zuzuordnen, die die Anforderungen für die Nutzung nach den §§ 142 bis
 146 und zusätzlich die Kriterien für die Zuordnung zum Mengengeschäft
 nach Absatz 1 erfüllen.
-
 
 ###### § 77 Unterklassen des Mengengeschäfts
 
@@ -4213,7 +4054,6 @@ berücksichtigt.
 (4) Eine IRBA-Position im Sinne von § 76, die nicht unter die
 Bestimmungen der Absätze 2 und 3 fällt, ist der Unterklasse nach
 Absatz 1 Nr. 3 zuzuordnen.
-
 
 ###### § 78 IRBA-Forderungsklasse Beteiligungen
 
@@ -4287,12 +4127,10 @@ unterscheiden zwischen
 Nebendienstleistungen abweichend von Absatz 1 Satz 1 der IRBA-
 Forderungsklasse sonstige kreditunabhängige Aktiva zuordnen.
 
-
 ###### § 79 IRBA-Forderungsklasse Verbriefungen
 
 Der IRBA-Forderungsklasse Verbriefungen nach § 73 Nr. 5 ist jede IRBA-
 Verbriefungsposition nach § 227 Abs. 4 zuzuordnen.
-
 
 ###### § 80 IRBA-Forderungsklasse Unternehmen
 
@@ -4301,7 +4139,6 @@ Positionen zuzuordnen, die keiner der IRBA-Forderungsklassen
 Zentralregierungen, Institute, Mengengeschäft, Beteiligungen oder
 Verbriefungen zugeordnet werden können und die keine sonstigen
 kreditunabhängigen Aktiva im Sinne des § 82 sind.
-
 
 ###### § 81 Spezialfinanzierungen
 
@@ -4323,10 +4160,6 @@ IRBA-Forderungsklasse Unternehmen,
     betriebenen Objekt erzeugte Einkommen und weniger durch das
     eigenständige Leistungsvermögen eines auf breiterer Basis agierenden
     wirtschaftlichen Unternehmens gewährleistet ist.
-
-
-
-
 
 ###### § 82 Forderungsklasse sonstige kreditunabhängige Aktiva
 
@@ -4363,10 +4196,6 @@ Nr. 7 sind zuzuordnen:
 
 
 5.  Kassenbestand und gleichwertige Positionen.
-
-
-
-
 
 ###### § 83 Zuordnung von Investmentanteilen zu Forderungsklassen
 
@@ -4457,10 +4286,7 @@ Forderungsklasse unterliegt diese unter Berücksichtigung abweichender
 Vorgaben in Absatz 2 bis 5 sämtlichen für die jeweilige
 Forderungsklasse zutreffenden Vorgaben dieser Verordnung.
 
-
 ##### Unterabschnitt 2 - Ermittlung der risikogewichteten IRBA-Positionswerte
-
-
 
 ###### § 84 Übersicht über die risikogewichteten IRBA-Positionswerte
 
@@ -4608,16 +4434,7 @@ Vertrag beendet, ist der risikogewichtete IRBA-Positionswert,
     b)  des Produkts aus IRBA-Risikogewicht und IRBA-Positionswert für diese
         IRBA-Position.
 
-
-
-
-
-
-
-
 ##### Unterabschnitt 3 - Ermittlung des IRBA-Risikogewichts
-
-
 
 ###### § 85 Ermittlung des IRBA-Risikogewichts
 
@@ -4706,10 +4523,7 @@ zugeordneten Geschäft resultieren, solange die Gegenleistung fünf
 Geschäftstage nach deren Fälligkeit noch nicht wirksam erbracht worden
 ist, ein IRBA-Risikogewicht von 1 250 Prozent anzuwenden.
 
-
 ###### Titel 1 - Ermittlung des ausfallwahrscheinlichkeitsbasierten IRBA-Risikogewichts
-
-
 
 ###### § 86 Ausfallwahrscheinlichkeitsbasiertes IRBA-Risikogewicht
 
@@ -4831,16 +4645,12 @@ Position gegenüber dem Gewährleistungsgeber wird
 
 (4) Der aufsichtliche Skalierungsfaktor beträgt 1,06.
 
-
 ###### Titel 2 - Ermittlung der bedingten Ausfallwahrscheinlichkeit
-
-
 
 ###### § 87 Bedingte Ausfallwahrscheinlichkeit
 
 Die bedingte Ausfallwahrscheinlichkeit ist für eine IRBA-Position nach
 der Formel 1 der Anlage 2 zu ermitteln.
-
 
 ###### § 88 Prognostizierte Ausfallwahrscheinlichkeit
 
@@ -4935,7 +4745,6 @@ beträgt der Mindestwert 0 Prozent. Wenn für eine IRBA-Position der
 Ausfall des Schuldners eingetreten ist, beträgt die prognostizierte
 Ausfallwahrscheinlichkeit 100 Prozent.
 
-
 ###### § 89 Ermittlung der Korrelation mit dem ökonomischen Faktor
 
 (1) Die Korrelation mit dem ökonomischen Faktor für IRBA-Positionen in
@@ -4966,10 +4775,6 @@ der IRBA-Forderungsklasse Mengengeschäft beträgt,
 
 2.  wenn sie eine qualifizierte revolvierende IRBA-Position ist, konstant
     0,04.
-
-
-
-
 
 ###### § 90 Aufsichtliche Parameter für die Ermittlung der Korrelationen
 
@@ -5006,10 +4811,6 @@ Parameter zugrunde zu legen:
 
 3.  der Anstiegskoeffizient K gleich 35.
 
-
-
-
-
 ###### § 91 Korrelationsabschlag für kleine oder mittlere Unternehmen
 
 (1) Für Unternehmen, bei denen der Größenindikator nach Absatz 2 den
@@ -5035,10 +4836,7 @@ Risikopositionen gewichteter Durchschnitt der Größenindikatoren für
 sämtliche Unternehmen, die Schuldner der angekauften Forderungen des
 Pools sind, ermittelt werden.
 
-
 ###### Titel 3 - Ermittlung der prognostizierten Verlustquote bei Ausfall
-
-
 
 ###### § 92 Prognostizierte Verlustquote bei Ausfall
 
@@ -5101,7 +4899,6 @@ einheitlicher Wahl als IRBA-Positionen behandeln, für die es nach
 Absatz 1 Satz 2 die aufsichtliche Verlustquote bei Ausfall verwenden
 muss.
 
-
 ###### § 93 Aufsichtliche Verlustquote bei Ausfall
 
 (1) Für eine IRBA-Position in den IRBA-Forderungsklassen
@@ -5148,7 +4945,6 @@ diversifizierten Beteiligungsportfolio gehört, beträgt die
 aufsichtliche Verlustquote bei Ausfall 65 Prozent. Für alle anderen
 IRBA-Beteiligungspositionen beträgt die aufsichtliche Verlustquote bei
 Ausfall 90 Prozent.
-
 
 ###### § 94 Berücksichtigung vorhandener Sicherheiten in der aufsichtlichen Verlustquote bei Ausfall
 
@@ -5301,10 +5097,7 @@ wenn der Quotient aus
 die erforderliche Mindestabdeckung in Höhe von 30 Prozent nicht
 unterschreitet.
 
-
 ###### Titel 4 - Ermittlung des IRBA-Restlaufzeitkorrekturfaktors
-
-
 
 ###### § 95 IRBA-Restlaufzeitkorrekturfaktor
 
@@ -5316,7 +5109,6 @@ Berücksichtigung von Gewährleistungen ist oder die eine unter
 Berücksichtigung der Ausfallwahrscheinlichkeit gesteuerte IRBA-
 Beteiligungsposition ist, ist nach der Formel 4 der Anlage 2 zu
 ermitteln.
-
 
 ###### § 96 Maßgebliche Restlaufzeit
 
@@ -5485,13 +5277,7 @@ berücksichtigen und in Jahren angegeben wie folgt zu berechnen:
     Erfüllung sämtlicher mit der IRBA-Position verbundenen Ansprüche oder
     Eventualansprüche eingeräumt worden ist.
 
-
-
-
-
 ###### Titel 5 - Einfaches IRBA-Risikogewicht für Spezialfinanzierungen
-
-
 
 ###### § 97 Einfaches IRBA-Risikogewicht für Spezialfinanzierungen
 
@@ -5536,10 +5322,7 @@ Die Bundesanstalt veröffentlicht im Internet Leitlinien für die
 Zuordnung von IRBA-Spezialfinanzierungspositionen zu den
 Risikogewichtsklassen für Spezialfinanzierungen nach Satz 1.
 
-
 ###### Titel 6 - Einfaches IRBA-Risikogewicht für Beteiligungen
-
-
 
 ###### § 98 Einfaches IRBA-Risikogewicht für Beteiligungen
 
@@ -5573,10 +5356,7 @@ Eventualanspruch aus der Gewährleistung, dessen Erfüllung von diesem
 Gewährleistungsgeber geschuldet wird, als IRBA-Position zu bestimmen
 wäre.
 
-
 ##### Unterabschnitt 4 - Bestimmung des IRBA-Positionswertes
-
-
 
 ###### § 99 IRBA-Positionswert
 
@@ -5586,7 +5366,6 @@ bei Sachanlagen oder eines Kontrahentenrisikos einem Verlustrisiko
 ausgesetzt ist. Der IRBA-Positionswert für eine IRBA-Position ist das
 Produkt aus dem IRBA-Konversionsfaktor nach § 101 und der IRBA-
 Bemessungsgrundlage nach § 100.
-
 
 ###### § 100 IRBA-Bemessungsgrundlage
 
@@ -5854,7 +5633,6 @@ Bemessungsgrundlage um 8 Prozent des risikogewichteten Positionswerts
 für die Adressenausfallrisikoposition in Bezug auf den Emittenten der
 Credit Linked Note reduziert werden.
 
-
 ###### § 101 Ermittlung des IRBA-Konversionsfaktors
 
 (1) Das Institut muss für IRBA-Positionen, deren aufsichtlicher IRBA-
@@ -5954,7 +5732,6 @@ IRBA-Konversionsfaktor verwenden.
 einzugehen, so ist der niedrigere der für jede dieser Verpflichtungen
 geltenden Konversionsfaktoren zu verwenden.
 
-
 ###### § 102 IRBA-Nettobeteiligungsposition und Beteiligungsanteile
 
 (1) Eine IRBA-Nettobeteiligungsposition darf nach Entscheidung des
@@ -5998,10 +5775,6 @@ nachgeordnete Residualanspruch bestimmt sich
 3.  für bestandsverringernde Beteiligungspositionen aus der zu liefernden
     anteiligen Beteiligung, bei bedingten Abnahmeansprüchen entsprechend
     des Deltaäquivalents für den Bedingungseintritt.
-
-
-
-
 
 ###### § 103 IRBA-Nettobeteiligungsbemessungsgrundlage
 
@@ -6055,13 +5828,7 @@ folgenden Verfahren ergeben:
     verrechneten Beteiligungsanteile und der ursprünglichen Anzahl der
     Beteiligungsanteile für diese Beteiligungsposition.
 
-
-
-
-
 #### Abschnitt 4 - Wertberichtigungsvergleich und erwarteter Verlustbetrag
-
-
 
 ##### § 104 Erwarteter Verlustbetrag
 
@@ -6167,7 +5934,6 @@ Bemessungsgrundlage dieser IRBA-Position nach § 100 berücksichtigt
 hat, darf es mit Zustimmung der Bundesanstalt für diese IRBA-Position
 eine erwartete Verlustrate von 0 Prozent verwenden.
 
-
 ##### § 105 Wertberichtigungsvergleich
 
 Ein IRBA-Institut muss die Differenz zwischen der Summe der erwarteten
@@ -6190,10 +5956,7 @@ verwenden darf, Beträge für eine eingetretene oder potenzielle
 Verschlechterung der Bonität des Kontrahenten gebildet, dann darf es
 diese nicht bei den Beträgen nach Satz 1 berücksichtigen.
 
-
 #### Abschnitt 5 - Mindestanforderungen an die Nutzung des IRBA
-
-
 
 ##### § 106 Mindestanforderungen an die Nutzung des IRBA
 
@@ -6240,10 +6003,7 @@ Bundesanstalt, als durch das Institut erfüllt, wenn diese
 Anforderungen durch das Institut im Zusammenwirken mit anderen
 gruppenangehörigen Unternehmen erfüllt werden.
 
-
 ##### Unterabschnitt 1 - Ratingsysteme
-
-
 
 ###### § 107 Ratingsysteme
 
@@ -6255,7 +6015,6 @@ angemessen widerspiegeln; dies ist zu dokumentieren.
 Abständen zu überprüfen, um festzustellen, ob sie für das aktuelle
 Portfolio und die aktuellen äußeren Bedingungen weiterhin geeignet
 sind.
-
 
 ###### § 108 Anwendungsbereich eines Ratingsystems
 
@@ -6269,10 +6028,7 @@ Unternehmen beschränkt werden, wenn dieselbe Art von
 Adressrisikopositionen in verschiedenen gruppenangehörigen Unternehmen
 unterschiedlich gesteuert wird.
 
-
 ###### Titel 1 - Aufbau von Ratingsystemen
-
-
 
 ###### § 109 Unmittelbare Schätzung von Risikoparametern
 
@@ -6280,7 +6036,6 @@ Soweit ein Institut unmittelbar für einzelne Schuldner oder IRBA-
 Positionen geschätzte Risikoparameter verwendet, dürfen diese als
 Schätzungen des Risikoparameters für Ratingstufen auf einer
 kontinuierlichen Risikoeinstufungsskala betrachtet werden.
-
 
 ###### § 110 Anforderungen für die Forderungsklassen Zentralregierungen, Institute oder Unternehmen und bestimmte IRBA-Beteiligungspositionen
 
@@ -6365,7 +6120,6 @@ Absatz 5 muss dieses Institut für solche IRBA-Positionen mindestens
 vier Ratingstufen für nicht ausgefallene und mindestens eine
 Ratingstufe für ausgefallene Schuldner haben.
 
-
 ###### § 111 Anforderungen für die Forderungsklasse Mengengeschäft
 
 (1) Die Ratingsysteme für IRBA-Positionen in der IRBA-Forderungsklasse
@@ -6412,10 +6166,7 @@ von IRBA-Positionen zu Ratingstufen oder Risikopools berücksichtigen:
 Die vom Institut zu treffenden Festlegungen nach Satz 1 Nr. 2 müssen
 gewährleisten, dass Sicherheiten nicht mehrfach angerechnet werden.
 
-
 ###### Titel 2 - Zuordnung zu Ratingstufen oder Risikopools
-
-
 
 ###### § 112 Zuordnung zu Ratingstufen oder Risikopools
 
@@ -6460,10 +6211,7 @@ einen primären bestimmenden Faktor für die interne Zuordnung zu einer
 Ratingstufe oder einem Risikopool verwendet, muss es sicherstellen,
 dass es auch andere relevante Informationen berücksichtigt.
 
-
 ###### Titel 3 - Zuordnung von IRBA-Positionen
-
-
 
 ###### § 113 Anforderungen für die Forderungsklassen Zentralregierungen, Institute oder Unternehmen und bestimmte IRBA-Beteiligungspositionen
 
@@ -6512,16 +6260,11 @@ Geschäfts. Etwas anderes gilt, wenn
 3.  das Bankgeheimnis oder gesetzliche Regelungen den Austausch von
     Schuldnerdaten verbieten.
 
-
-
-
-
 ###### § 114 Anforderungen für die Forderungsklasse Mengengeschäft
 
 Jede IRBA-Position in der IRBA-Forderungsklasse Mengengeschäft muss im
 Rahmen des Kreditprüfungsprozesses einer Ratingstufe oder einem
 Risikopool zugeordnet werden.
-
 
 ###### § 115 Anpassungen
 
@@ -6549,10 +6292,7 @@ derjenigen IRBA-Positionen einschließen, deren Risikoeinstufung durch
 dieselbe Person abgeändert wurde, wobei jeder der für Abänderungen
 verantwortlichen Mitarbeiter zu berücksichtigen ist.
 
-
 ###### Titel 4 - Integrität des Zuordnungsprozesses
-
-
 
 ###### § 116 Anforderungen für die Forderungsklassen Zentralregierungen, Institute, Unternehmen und bestimmte IRBA-Beteiligungspositionen
 
@@ -6587,7 +6327,6 @@ relevante Informationen
 neu zu gewinnen und um Informationen nach Nummer 1 und 2 aktuell zu
 halten.
 
-
 ###### § 117 Anforderungen für die Forderungsklasse Mengengeschäft
 
 Das Institut muss für IRBA-Positionen in der IRBA-Forderungsklasse
@@ -6601,10 +6340,7 @@ jährlich anhand einer repräsentativen Stichprobe den Status der
 einzelnen IRBA-Positionen innerhalb jedes Risikopools überprüfen oder
 vergleichbar wirksame Maßnahmen ergreifen.
 
-
 ###### Titel 5 - Verwendung von mathematisch-statistischen Verfahren in Ratingsystemen
-
-
 
 ###### § 118 Verwendung von mathematisch-statistischen Verfahren in Ratingsystemen
 
@@ -6651,13 +6387,7 @@ Vorgaben einzuhalten:
     individuelle Beurteilung und Modellergebnisse miteinander zu
     kombinieren sind.
 
-
-
-
-
 ###### Titel 6 - Dokumentation von Ratingsystemen
-
-
 
 ###### § 119 Dokumentation von Ratingsystemen
 
@@ -6730,17 +6460,13 @@ Ausnahme von den Dokumentationsanforderungen oder von irgendeiner der
 anderen der Anforderungen an Ratingsysteme. Das Institut bleibt für
 die Erfüllung dieser Anforderungen verantwortlich.
 
-
 ###### Titel 7 - Erhebung und Verwendung von Daten
-
-
 
 ###### § 120 Anforderungen für alle IRBA-Positionen
 
 Das Institut muss die für die Offenlegung nach den §§ 319 bis 337
 erforderlichen Daten über Aspekte seiner internen Risikoeinstufungen
 erheben und speichern.
-
 
 ###### § 121 Anforderungen für die Forderungsklassen Zentralregierungen, Institute, Unternehmen und bestimmte IRBA-Beteiligungspositionen
 
@@ -6827,10 +6553,6 @@ folgende Informationen erheben und speichern:
 
 7.  Daten über die Verlustkomponenten für jede ausgefallene IRBA-Position.
 
-
-
-
-
 ###### § 122 Anforderungen für die Forderungsklasse Mengengeschäft
 
 Das Institut muss für IRBA-Positionen in der IRBA-Forderungsklasse
@@ -6860,13 +6582,7 @@ Mengengeschäft folgende Informationen erheben und speichern:
     qualifizierte revolvierende IRBA-Positionen des Mengengeschäfts
     zugeordnet sind.
 
-
-
-
-
 ###### Titel 8 - Verwendung von Stresstests bei der Einschätzung der Angemessenheit der Kapitalausstattung
-
-
 
 ###### § 123 Verwendung von Stresstests bei der Einschätzung der Angemessenheit der Kapitalausstattung
 
@@ -6899,10 +6615,7 @@ gilt insbesondere für solche Bonitätsverschlechterungen, die dazu
 führen, dass die Voraussetzungen nach § 163 Absatz 5 Nummer 3 nicht
 mehr erfüllt werden.
 
-
 ##### Unterabschnitt 2 - Risikoquantifizierung
-
-
 
 ###### § 124 Vorgaben zur Schätzung der Risikoparameter
 
@@ -6910,10 +6623,7 @@ Bei der Schätzung der Risikoparameter, die den Ratingstufen oder
 Risikopools durch das Institut zuzuordnen sind, gelten die §§ 125 bis
 146\.
 
-
 ###### Titel 1 - Begriffsbestimmungen
-
-
 
 ###### § 125 Ausfall
 
@@ -7031,14 +6741,12 @@ Wirtschaftsraums ansässig sind, die dort von den zuständigen Behörden
 festgelegte Anzahl von Tagen der Überfälligkeit für das
 Ausfallkriterium nach Absatz 1 Satz 1 Nr. 2 angewandt werden.
 
-
 ###### § 126 Verlust
 
 Unter Verlust ist ökonomischer Verlust zu verstehen, einschließlich
 erheblicher Diskontierungseffekte sowie erheblicher direkter und
 indirekter Kosten, die mit der Rückerlangung außenstehender Beträge
 für das Geschäft verbunden sind.
-
 
 ###### § 127 Selbstgeschätzte erwartete Verlustrate
 
@@ -7054,10 +6762,7 @@ von eigenen Schätzungen einzuhalten. Bei unmittelbarer Zuordnung der
 selbstgeschätzten erwarteten Verlustrate zu dieser IRBA-Position gilt
 § 109.
 
-
 ###### Titel 2 - Übergreifende Anforderungen für Schätzungen
-
-
 
 ###### § 128 Übergreifende Anforderungen für alle Schätzungen
 
@@ -7155,10 +6860,7 @@ Verständnis seiner Ratingsysteme verfügt, einschließlich der
 effektiven Fähigkeit, den Prozess der Risikoeinstufung zu überwachen
 und zu überprüfen.
 
-
 ###### Titel 3 - Spezifische Anforderungen für die Schätzung der Ausfallwahrscheinlichkeit
-
-
 
 ###### § 129 Anforderungen für alle IRBA-Positionen
 
@@ -7171,7 +6873,6 @@ geschätzten Ausfallwahrscheinlichkeiten gilt § 109. Die
 Jahresausfallrate für eine Gesamtheit von Schuldnern ist das
 Verhältnis der Anzahl der innerhalb eines Jahres aufgetretenen
 Ausfälle von Schuldnern zur Gesamtzahl der Schuldner.
-
 
 ###### § 130 Anforderungen für die Forderungsklassen Zentralregierungen, Institute, Unternehmen und bestimmte IRBA-Beteiligungspositionen
 
@@ -7279,7 +6980,6 @@ Absatz gilt auch für die Ermittlung der Risikogewichte für
 Beteiligungspositionen mittels Ausfallwahrscheinlichkeit und
 Verlustquote bei Ausfall.
 
-
 ###### § 131 Anforderungen für die Forderungsklasse Mengengeschäft
 
 (1) Das Institut muss für IRBA-Positionen in der IRBA-Forderungsklasse
@@ -7347,10 +7047,7 @@ Ausfallwahrscheinlichkeiten besitzen.
 (6) Das Institut muss erwartete Schwankungen von Risikoparametern über
 die Laufzeit von IRBA-Positionen identifizieren und analysieren.
 
-
 ###### Titel 4 - Spezifische Anforderungen für eigene Schätzungen der Verlustquote bei Ausfall
-
-
 
 ###### § 132 Anforderungen für alle IRBA-Positionen
 
@@ -7425,7 +7122,6 @@ Jahresabschluss des Instituts kapitalisiert wurden, müssen sie der
 Messung des Instituts für den Positionswert der IRBA-Position und den
 Verlust hinzugerechnet werden.
 
-
 ###### § 133 Anforderungen für die Forderungsklassen Zentralregierungen, Institute oder Unternehmen
 
 Schätzungen der Verlustquote bei Ausfall für IRBA-Positionen in den
@@ -7439,7 +7135,6 @@ bis er die Länge von sieben Jahren erreicht hat. Wenn der
 Beobachtungszeitraum, der für irgendeine der Datenquellen verfügbar
 ist, eine längere Zeitspanne umfasst und diese Daten relevant sind,
 ist diese längere Zeitspanne zu verwenden.
-
 
 ###### § 134 Anforderungen für die Forderungsklasse Mengengeschäft
 
@@ -7477,10 +7172,7 @@ Mengengeschäfts nach § 77 Abs. 1 Nr. 1 zugeordnet ist, dürfen bei der
 Schätzung der Verlustquote bei Ausfall für diese IRBA-Position nicht
 berücksichtigt werden.
 
-
 ###### Titel 5 - Spezielle Anforderungen für eigene Schätzungen des IRBA-Konversionsfaktors
-
-
 
 ###### § 135 Anforderungen für alle IRBA-Positionen
 
@@ -7544,7 +7236,6 @@ eines IRBA-Konversionsfaktors nach Absatz 1 oder 2 verwendet, muss
 dies dokumentiert und gegenüber der Bundesanstalt die Angemessenheit
 der Schätzungen und ihrer Verwendung nachgewiesen werden.
 
-
 ###### § 136 Anforderungen für die Forderungsklassen Zentralregierungen, Institute oder Unternehmen
 
 Die Schätzung eines IRBA-Konversionsfaktors nach § 135 Abs. 1 oder 2
@@ -7558,7 +7249,6 @@ einem Jahr um ein weiteres Jahr, bis er die Länge von sieben Jahren
 erreicht hat. Wenn der Beobachtungszeitraum, der für irgendeine der
 Datenquellen verfügbar ist, eine längere Zeitspanne umfasst und diese
 Daten relevant sind, ist diese längere Zeitspanne zu verwenden.
-
 
 ###### § 137 Anforderungen für die Forderungsklasse Mengengeschäft
 
@@ -7579,10 +7269,7 @@ historischen Daten nicht das gleiche Gewicht beizumessen, wenn es
 nachweisen kann, dass die aktuelleren Daten eine bessere Prognosekraft
 für Inanspruchnahmen besitzen.
 
-
 ###### Titel 6 - Mindestanforderungen für die Einschätzung der Auswirkungen von Garantien und Kreditderivaten
-
-
 
 ###### § 138 Anforderungen für IRBA-Positionen, für die selbstgeschätzte Verlustquoten bei Ausfall verwendet werden
 
@@ -7622,7 +7309,6 @@ IRBA-Forderungsklasse Mengengeschäft zugeordnet sind, gelten die §§
 139 bis 141 auch für die Zuordnung von IRBA-Positionen zu Ratingstufen
 oder Risikopools und für die Schätzung der Ausfallwahrscheinlichkeit.
 
-
 ###### § 139 Berücksichtigungsfähige Garantiegeber und Garantien
 
 (1) Das Institut muss klar spezifizierte Kriterien für die Arten von
@@ -7657,7 +7343,6 @@ Leistungpflicht befreien, können nur mit Zustimmung der Bundesanstalt
 anerkannt werden. Das Institut muss nachweisen, dass die
 Zuordnungskriterien jede mögliche Reduzierung des risikomindernden
 Effekts angemessen berücksichtigen.
-
 
 ###### § 140 Anpassungskriterien
 
@@ -7695,7 +7380,6 @@ Intuition entsprechen. Sie müssen
 
 berücksichtigen.
 
-
 ###### § 141 Kreditderivate
 
 (1) Die Mindestanforderungen für Garantien nach § 139 gelten auch für
@@ -7718,10 +7402,7 @@ Beträge und deren zeitliches Eintreten konservativ einschätzen. Das
 Institut muss das Ausmaß, in dem andere Arten von Restrisiken
 verbleiben, berücksichtigen.
 
-
 ###### Titel 7 - Mindestanforderungen für angekaufte Forderungen
-
-
 
 ###### § 142 Rechtssicherheit
 
@@ -7741,7 +7422,6 @@ Beschränkungen unterliegen, die zu einer wesentlichen Verzögerung der
 Fähigkeit des Kreditgebers führen können, die Forderungen einzuziehen
 oder abzutreten oder die Kontrolle über die Zahlungseingänge zu
 behalten.
-
 
 ###### § 143 Überwachungssysteme
 
@@ -7796,10 +7476,6 @@ Forderungsverwalters überwachen. Insbesondere gilt:
     die Verkaufskonditionen des Verkäufers sowie dessen Konditionen in
     Bezug auf das Veritätsrisiko überwacht und bestätigt werden.
 
-
-
-
-
 ###### § 144 Bearbeitungssysteme
 
 Das Institut muss über Systeme und Verfahren verfügen, um
@@ -7811,7 +7487,6 @@ Vertragsverletzungen feststellen zu können, und über eindeutige und
 wirksame Grundsätze und Verfahren verfügen, um gegebenenfalls
 rechtliche Schritte zu veranlassen und problembehaftete angekaufte
 Forderungen angemessen zu behandeln.
-
 
 ###### § 145 Systeme zur Überwachung von Sicherheiten, Kreditverfügbarkeit und Zahlungen
 
@@ -7831,7 +7506,6 @@ müssen sicherstellen, dass Geldmittel nur gegen genau bestimmte
 unterstützende Sicherheiten und unter genauer Dokumentation
 vorgeschossen werden.
 
-
 ###### § 146 Übereinstimmung mit den institutsinternen Grundsätzen und Verfahren
 
 Das Institut muss ein wirksames internes Verfahren zur Überprüfung der
@@ -7850,10 +7524,7 @@ beinhalten, insbesondere in Bezug auf Qualifikation, Erfahrung und
 Anzahl der eingesetzten Mitarbeiter, und die unterstützenden
 maschinellen Systeme.
 
-
 ##### Unterabschnitt 3 - Validierung eigener Schätzungen
-
-
 
 ###### § 147 Validierung eigener Schätzungen
 
@@ -7905,10 +7576,7 @@ Wenn die realisierten Werte beständig höher sind als die erwarteten
 Werte, muss das Institut seine Schätzungen nach oben korrigieren, um
 seine Erfahrungen hinsichtlich Ausfall und Verlust widerzuspiegeln.
 
-
 ##### Unterabschnitt 4 - Berechnung der risikogewichteten IRBA-Positionswerte für modellgesteuerte IRBA-Beteiligungsportfolien
-
-
 
 ###### § 148 Risikoquantifizierung
 
@@ -7988,10 +7656,6 @@ folgenden Standards einhalten:
 7.  Das Institut muss ein strenges und umfassendes Programm für
     Stresstests eingerichtet haben.
 
-
-
-
-
 ###### § 149 Risikosteuerungsprozess und -regelungen
 
 Hinsichtlich der Entwicklung und der Verwendung von
@@ -8046,10 +7710,6 @@ müssen Folgendes einschließen:
     die Modellierung hinreichend ausgebildete und kompetente Mitarbeiter
     zuordnen.
 
-
-
-
-
 ###### § 150 Validierung und Dokumentation
 
 (1) Das Institut muss ein robustes System zur Validierung der
@@ -8103,10 +7763,7 @@ dokumentiert werden, einschließlich der Verantwortlichkeiten der
 Stellen, die in die Modellierung und die Modellbestätigungs- und
 Modellüberprüfungsprozesse eingebunden sind.
 
-
 ##### Unterabschnitt 5 - Unternehmensführung und -aufsicht
-
-
 
 ###### § 151 Unternehmensführung
 
@@ -8145,7 +7802,6 @@ bei Ausfall und der IRBA-Konversionsfaktoren mit den Erwartungen sowie
 Ergebnisse der Stresstests beinhalten. Die Häufigkeit der
 Berichterstattung muss von der Bedeutung und der Art der Information
 und der Hierarchiestufe des Empfängers abhängen.
-
 
 ###### § 152 Adressrisikoüberwachung
 
@@ -8241,7 +7897,6 @@ Mindestanforderungen erforderlich sind, und dass die Bundesanstalt
 Vor-Ort-Prüfungen im selben Ausmaß wie innerhalb des Instituts
 durchführen kann.
 
-
 ###### § 153 Interne Revision
 
 Die interne Revision oder eine andere vergleichbar unabhängige
@@ -8252,14 +7907,9 @@ Verlustquoten bei Ausfall, erwarteten Verlustraten und IRBA-
 Konversionsfaktoren überprüfen. Die Überprüfung muss die Einhaltung
 aller anwendbaren Mindestanforderungen einschließen.
 
-
 ### Kapitel 5 - Kreditrisikominderungstechniken
 
-
-
 #### Abschnitt 1 - Sicherungsinstrumente
-
-
 
 ##### § 154 Berücksichtigungsfähige Sicherungsinstrumente
 
@@ -8301,14 +7951,9 @@ Sicherungsinstrument besteht, werden mit zurückbehaltenen
 Erstverlustpositionen gleichgesetzt und als Risikotransfer in Tranchen
 betrachtet.
 
-
 ##### Unterabschnitt 1 - Berücksichtigungsfähige Sicherheiten
 
-
-
 ###### Titel 1 - Finanzielle Sicherheiten
-
-
 
 ###### § 155 Allgemein berücksichtigungsfähige finanzielle Sicherheiten
 
@@ -8509,7 +8154,6 @@ Verbindlichkeiten oder Eventualverbindlichkeiten, die durch das
 Eigentum an diesem Vermögensgegenstand begründet sind, einen negativen
 Wert aufweisen kann.
 
-
 ###### § 156 Nur mit ihrem schwankungsbereinigten Wert berücksichtigungsfähige finanzielle Sicherheiten
 
 Wendet ein Institut die umfassende Methode für finanzielle
@@ -8564,7 +8208,6 @@ Verbindlichkeiten oder Eventualverbindlichkeiten, die durch das
 Eigentum an diesem Vermögensgegenstand begründet sind, einen negativen
 Wert aufweisen kann.
 
-
 ###### § 157 Berücksichtigungsfähige Handelsbuchsicherheiten
 
 Für Adressenausfallrisikopositionen aus Pensions-, Darlehens- sowie
@@ -8585,10 +8228,7 @@ für diese Adressenausfallrisikopositionen nur Waren, die nach § 1a
 Abs. 1 des Kreditwesengesetzes dem Handelsbuch zurechenbar sind, als
 Handelsbuchsicherheit berücksichtigt werden dürfen.
 
-
 ###### Titel 2 - Sonstige berücksichtigungsfähige IRBA-Sicherheiten
-
-
 
 ###### § 158 Sonstige berücksichtigungsfähige IRBA-Sicherheit
 
@@ -8610,7 +8250,6 @@ Diese dürfen für IRBA-Positionen der IRBA-Forderungsklassen
 Zentralregierungen, Institute und Unternehmen, für die das Institut
 die aufsichtliche Verlustquote bei Ausfall verwenden muss,
 anrechnungsmindernd berücksichtigt werden.
-
 
 ###### § 159 Grundpfandrechtliche IRBA-Sicherheit
 
@@ -8696,7 +8335,6 @@ IRBA-Position berücksichtigen, wenn das Grundpfandrecht
 
 § 35 Abs. 4 Satz 2 gilt entsprechend.
 
-
 ###### § 160 Berücksichtigungsfähige IRBA-Sicherungsabtretung von Forderungen
 
 Als IRBA-Sicherungsabtretung berücksichtigungsfähig sind dem
@@ -8735,7 +8373,6 @@ Verwendung von Kreditrisikominderungstechniken nach § 172 und die
 Mindestanforderungen an IRBA-Sicherungsabtretungen von Forderungen
 nach § 174 erfüllt.
 
-
 ###### § 161 Berücksichtigungsfähige sonstige IRBA-Sachsicherheit
 
 Als sonstige IRBA-Sachsicherheit berücksichtigungsfähig ist eine
@@ -8766,10 +8403,7 @@ zu den sonstigen IRBA-Sachsicherheiten im Sinne des Satzes 1 auch das
 Eigentum an der Sache zählen, die Leasinggegenstand des Geschäfts ist,
 das die IRBA-Position begründet.
 
-
 ##### Unterabschnitt 2 - Berücksichtigungsfähige Gewährleistungen
-
-
 
 ###### § 162 Berücksichtigungsfähige Gewährleistung
 
@@ -8836,7 +8470,6 @@ Kreditderivat ist, die Mindestanforderungen an Kreditderivate nach §
 §§ 169 und 171 berücksichtigungsfähig, wenn das sicherungsnehmende
 Institut die allgemeinen Anforderungen an die Verwendung von
 Kreditrisikominderungstechniken nach § 172 erfüllt.
-
 
 ###### § 163 Berücksichtigungsfähiger Gewährleistungsgeber
 
@@ -9001,10 +8634,7 @@ Zwecke des § 86 Abs. 3 berücksichtigungsfähig, wenn
 
 (6) (weggefallen)
 
-
 ###### Titel 1 - Garantien und Kreditderivate
-
-
 
 ###### § 164 Als Gewährleistung berücksichtigungsfähige Garantie
 
@@ -9085,10 +8715,6 @@ Dies gilt jedoch nur unter der Voraussetzung, dass
     Zahlungen effektiv absichert, einschließlich geschuldeter Zinsen und
     sonstiger geschuldeter Zahlungen.
 
-
-
-
-
 ###### § 165 Als Gewährleistung berücksichtigungsfähiges Kreditderivat
 
 Ein als Credit Default Swap, Total Return Swap oder Credit Linked Note
@@ -9133,10 +8759,6 @@ berücksichtigungsfähig,
     und das sicherungsnehmende Institut berechtigt ist, dem
     Gewährleistungsgeber den Eintritt eines Kreditereignisses für ein
     Kreditderivat anzuzeigen.
-
-
-
-
 
 ###### § 166 Als Gewährleistung berücksichtigungsfähige Garantien und Kreditderivate für die Behandlung gemäß § 86 Abs. 3
 
@@ -9234,10 +8856,6 @@ Voraussetzungen erfüllt werden:
     systematischen Risikofaktor hinaus auf eine Abhängigkeit ihrer
     Bonitäten von weiteren gemeinsamen Faktoren zurückzuführen ist.
 
-
-
-
-
 ###### § 167 Position, für die ein Kreditderivat berücksichtigungsfähig ist
 
 (1) Ein als Gewährleistung berücksichtigungsfähiges Kreditderivat darf
@@ -9284,7 +8902,6 @@ einen Korb zum n-ten Mal ein Kreditereignis eingetreten ist und
 beendet dies den Vertrag, müssen die Anforderungen der Absätze 3 und 4
 für jede der im Korb enthaltenen Positionen erfüllt werden.
 
-
 ###### § 168 Position, für die ein nth-to-default-Kreditderivat berücksichtigungsfähig ist
 
 Für ein Kreditderivat, das in Anspruch genommen werden kann, sobald
@@ -9308,16 +8925,7 @@ ist und für den,
 
     b)  die ersten n-1 Kreditereignisse bereits eingetreten sind.
 
-
-
-
-
-
-
-
 ###### Titel 2 - Als Gewährleistung berücksichtigungsfähige sonstige Ansprüche sowie Lebensversicherungen
-
-
 
 ###### § 169 Bareinlage bei einem Drittinstitut
 
@@ -9343,10 +8951,6 @@ berücksichtigt werden, wenn
 4.  das Drittinstitut aufgrund dieser Mitteilung Zahlungen nur an das
     sicherungsnehmende Institut oder mit dessen vorheriger Zustimmung an
     andere vornehmen darf.
-
-
-
-
 
 ###### § 170 Lebensversicherung
 
@@ -9416,7 +9020,6 @@ sich wie der inkongruenzbereinigte Betrag für eine Gewährleistung nach
 Lebensversicherung und als Restlaufzeit die Restlaufzeit der
 abzusichernden Position zu verwenden ist.
 
-
 ###### § 171 Schuldverschreibungen, die auf Verlangen vom emittierenden Drittinstitut zurückerworben werden müssen
 
 Schuldverschreibungen, deren Erfüllung von anderen Unternehmen, deren
@@ -9426,7 +9029,6 @@ keine allgemein berücksichtigungsfähigen finanziellen Sicherheiten
 sind und die auf Verlangen des Inhabers vom Emittenten zurückerworben
 werden müssen, dürfen wie eine Gewährleistung durch den Emittenten
 berücksichtigt werden.
-
 
 ###### § 171a Zahlungszusagen für den Restwert von Leasinggegenständen
 
@@ -9440,10 +9042,7 @@ ist, darf diese Verpflichtung wie eine Garantie für die durch den
 Restwert des Leasinggegenstands gebildete Adressrisikoposition
 berücksichtigt werden.
 
-
 #### Abschnitt 2 - Mindestanforderungen an Kreditrisikominderungstechniken
-
-
 
 ##### § 172 Allgemeine Anforderungen an die Verwendung von Kreditrisikominderungstechniken
 
@@ -9463,7 +9062,6 @@ Kreditrisikobeurteilung den saldierten Wert der Positionen betreffen.
 (3) Ein Institut hat die rechtliche Wirksamkeit und Durchsetzbarkeit
 nach § 154 Abs. 1 Satz 2 festzustellen und diese durch anlassbezogene
 Überprüfung fortwährend sicherzustellen.
-
 
 ##### § 173 Mindestanforderungen an berücksichtigungsfähige finanzielle Sicherheiten
 
@@ -9532,7 +9130,6 @@ wesentlich gesunken ist, zu Marktwerten bewerten.
 muss ein Institut angemessene Maßnahmen ergriffen haben, um
 sicherzustellen, dass der Dritte die finanzielle Sicherheit dem
 rechtlichen Zugriff seiner Gläubiger entzogen hat.
-
 
 ##### § 174 Mindestanforderungen an die Berücksichtigung von IRBA-Sicherungsabtretungen von Forderungen
 
@@ -9621,10 +9218,6 @@ und an die Risikosteuerung nach Absatz 3 erfüllt sein.
     Institut grundsätzlich die Einziehung durch den Zedenten oder
     Verpfänder vornehmen lässt.
 
-
-
-
-
 ##### § 175 Mindestanforderungen an die Berücksichtigung sonstiger IRBA-Sachsicherheiten
 
 Für die Berücksichtigung sonstiger IRBA-Sachsicherheiten müssen
@@ -9692,10 +9285,6 @@ folgende Anforderungen erfüllt sein:
     eine berücksichtigte Sachsicherheit angemessen gegen Schäden
     versichert ist.
 
-
-
-
-
 ##### § 176 Mindestanforderungen für die Behandlung von Leasingforderungen als durch den Leasinggegenstand besichert
 
 Um eine Leasingforderung als durch den Leasinggegenstand besichert
@@ -9719,10 +9308,6 @@ berücksichtigen zu dürfen, müssen folgende Anforderungen erfüllt sein:
 4.  Die Leasingvereinbarung muss für das leasinggebende Institut Eigentum
     an dem Leasinggegenstand begründen und es berechtigen, seine
     Eigentumsrechte an dem Leasinggegenstand zeitnah auszuüben.
-
-
-
-
 
 ##### § 177 Mindestanforderungen für Gewährleistungen
 
@@ -9768,7 +9353,6 @@ Rückgewährleistungsverpflichtung dieser Rückgewährleistungsgeber
 ihrerseits über eine Gewährleistung eines Rückgewährleistungsgebers
 gemäß § 164 Abs. 3 Nr. 2 verfügt.
 
-
 ##### § 178 Mindestanforderungen für Kreditderivate
 
 Um ein Kreditderivat, das einen Barausgleich vorsieht, berücksichtigen
@@ -9777,10 +9361,7 @@ zuverlässige Verlustschätzung aus einem Kreditereignis anwenden. Das
 Institut muss innerhalb einer bestimmten Zeitspanne nach dem
 Kreditereignis Schätzwerte für die gewährleistete Position einholen.
 
-
 #### Abschnitt 3 - Berechnung der Kreditrisikominderungseffekte
-
-
 
 ##### § 179 Durch ein Sicherungsinstrument besicherte Position
 
@@ -9795,10 +9376,6 @@ Sicherungsinstrument
 
 2.  nicht bereits anderweitig als Sicherungsinstrument berücksichtigt
     wird.
-
-
-
-
 
 ##### § 180 Methodenwahl für finanzielle Sicherheiten
 
@@ -9882,7 +9459,6 @@ seiner Adressenausfallrisikopositionen, die es seinem Handelsbuch
 zuordnet, zusätzlich berücksichtigungsfähige Handelsbuchsicherheiten
 nach § 157 berücksichtigen.
 
-
 ##### § 181 Institutsinterne Sicherungsgeschäfte
 
 Sichert ein Institut eine Adressenausfallrisikoposition des
@@ -9893,7 +9469,6 @@ der Besicherungswirkung erreicht wird. Ist das Kreditrisiko aus dem
 Handelsbuch an berücksichtigungsfähige Gewährleistungsgeber
 übertragen, kann die Besicherung für die Adressenausfallrisikoposition
 des Anlagebuchs als Gewährleistung berücksichtigt werden.
-
 
 ##### § 182 Für Absicherungszwecke zu berücksichtigende Restlaufzeit von Adressenausfallrisikopositionen und Sicherungsinstrumenten
 
@@ -9921,7 +9496,6 @@ Zahlungsverzugs bei der gewährleisteten Position verstrichen sein
 muss, so ist die Restlaufzeit dieses Sicherungsinstruments um diesen
 Karenzzeitraum zu vermindern.
 
-
 ##### § 183 Für ein Sicherungsinstrument laufzeitgeeignete Position
 
 Eine für ein Sicherungsinstrument laufzeitgeeignete Position ist
@@ -9937,10 +9511,6 @@ Eine für ein Sicherungsinstrument laufzeitgeeignete Position ist
 2.  sonst nur eine solche Adressenausfallrisikoposition, deren für
     Absicherungszwecke zu berücksichtigende Restlaufzeit nicht länger als
     die des Sicherungsinstruments ist.
-
-
-
-
 
 ##### § 184 Bei Laufzeitunterschreitung berücksichtigungsfähiges Sicherungsinstrument
 
@@ -9959,10 +9529,7 @@ ist, wenn seine Ursprungslaufzeit mindestens ein Jahr und seine für
 Absicherungszwecke zu berücksichtigende Restlaufzeit nach § 182 Absatz
 2 mindestens drei Monate beträgt.
 
-
 ##### Unterabschnitt 1 - Einfache Methode für finanzielle Sicherheiten
-
-
 
 ###### § 185 Besicherungswirkung der einfachen Methode
 
@@ -10084,17 +9651,9 @@ Voraussetzungen erfüllt ist:
     2 bezeichneten Emittenten und wird zu nicht mehr als 80 Prozent ihres
     Marktwerts als finanzielle Sicherheit berücksichtigt.
 
-
-
-
-
 ##### Unterabschnitt 2 - Umfassende Methode für finanzielle Sicherheiten
 
-
-
 ###### Titel 1 - Anrechnungsverfahren
-
-
 
 ###### § 186 Laufzeitanpassungsfaktor für ein Sicherungsinstrument
 
@@ -10114,10 +9673,6 @@ auf eine abzusichernde Position
     Restlaufzeit der abzusichernden Position TS als Nenner:
     (TP-0,25)/(TS-0,25).
 
-
-
-
-
 ###### § 187 Schwankungsbereinigter Wert für finanzielle Sicherheiten
 
 Der schwankungsbereinigte Wert für finanzielle Sicherheiten ist das
@@ -10125,7 +9680,6 @@ Produkt aus dem Marktwert der finanziellen Sicherheit und der
 Differenz aus Eins und der Summe aus Wertschwankungsfaktor nach § 188
 und Währungsschwankungsfaktor nach § 189 für diese finanzielle
 Sicherheit (CVA = C x [1-(HC+HFX)]).
-
 
 ###### § 188 Wertschwankungsfaktor für finanzielle Sicherheiten und Adressenausfallrisikopositionen
 
@@ -10152,7 +9706,6 @@ Der Wertschwankungsfaktor HE für
 
 ist Null.
 
-
 ###### § 189 Währungsschwankungsfaktor für finanzielle Sicherheiten und Gewährleistungen
 
 Der Währungsschwankungsfaktor HFX für eine berücksichtigungsfähige
@@ -10163,7 +9716,6 @@ entweder dem aufsichtlich vorgegebenen Währungsschwankungsfaktor nach
 § 195 oder dem vom Institut selbstgeschätzten Schwankungsfaktor nach §
 196 für die Währung der finanziellen Sicherheit oder Gewährleistung
 und dem Anpassungsfaktor für nichttägliche Neubewertungen nach § 194.
-
 
 ###### § 190 Entscheidung für die Verwendung selbstgeschätzter Schwankungsfaktoren
 
@@ -10218,7 +9770,6 @@ verfügt.
 Schwankungsfaktoren darf ein unwesentlicher Teil der Gesamtheit der in
 Absatz 1 genannten Positionen ausgenommen werden.
 
-
 ###### § 191 Ausnahmeregelung für Pensions-, Darlehens- oder vergleichbare Geschäfte über Wertpapiere
 
 Wenn die in § 185 Abs. 3 genannten Bedingungen erfüllt sind, dürfen
@@ -10230,10 +9781,7 @@ Prozent ansetzen. Satz 1 gilt nicht für Aufrechnungspositionen aus
 nichtderivativen Geschäften mit Sicherheitennachschüssen, für die
 modellbasierte Schwankungszuschläge nach § 203 verwendet werden.
 
-
 ###### Titel 2 - Aufsichtlich vorgegebene Wertschwankungsfaktoren
-
-
 
 ###### § 192 Vorgegebener Wertschwankungsfaktor
 
@@ -10302,7 +9850,6 @@ ist der vorgegebene Wertschwankungsfaktor derselbe, wie derjenige für
 Aktien, die nicht in einen gängigen Aktienindex einbezogen sind, aber
 an einer Wertpapier- oder Terminbörse gehandelt werden.
 
-
 ###### § 193 Zugrunde zu legende Liquidationsdauer
 
 (1) Die zugrunde zu legende Liquidationsdauer für eine besicherte
@@ -10317,7 +9864,6 @@ Wird die besicherte Adressenausfallrisikoposition durch eine andere
 Kapitalmarkttransaktion begründet, für die Sicherheitennachschüsse
 verlangt werden können, beträgt die zugrunde zu legende
 Liquidationsdauer zehn Geschäftstage.
-
 
 ###### § 194 Anpassungsfaktor für nichttägliche Neubewertung
 
@@ -10343,7 +9889,6 @@ zugrunde zu legenden Liquidationsdauer als Nenner.
 für eine Neubewertung für jede Position nach Absatz 1 Nr. 1 bis 3 seit
 dem Tag der vorhergehenden Neubewertung vergangen ist.
 
-
 ###### § 195 Vorgegebener Währungsschwankungsfaktor
 
 Der aufsichtlich vorgegebene Währungsschwankungsfaktor ist für die
@@ -10367,10 +9912,7 @@ Geschäftstagen 8 Prozent, von fünf Geschäftstagen der Quotient aus 8
 Prozent und der Quadratwurzel aus Zwei, und von 20 Geschäftstagen das
 Produkt aus 8 Prozent und der Quadratwurzel aus Zwei.
 
-
 ###### Titel 3 - Selbstgeschätzte Schwankungsfaktoren
-
-
 
 ###### § 196 Selbstgeschätzter Schwankungsfaktor
 
@@ -10384,10 +9926,6 @@ das Produkt aus
 
 2.  dem Anpassungsfaktor für selbstgeschätzte Schwankungsfaktoren an die
     verwendete Liquidationsdauer nach § 197.
-
-
-
-
 
 ###### § 197 Anpassungsfaktor für selbstgeschätzte Schwankungsfaktoren an die verwendete Liquidationsdauer
 
@@ -10404,10 +9942,6 @@ verwendete Liquidationsdauer ist,
 2.  sonst die Quadratwurzel aus dem Quotienten aus der vom Institut in
     seiner internen Risikosteuerung genutzten Liquidationsdauer als Zähler
     und der für die Schätzung herangezogenen Liquidationsdauer als Nenner.
-
-
-
-
 
 ###### § 198 Geeignetes Verfahren für die Schätzung von Schwankungsfaktoren
 
@@ -10483,13 +10017,7 @@ jedenfalls folgende Punkte zu überprüfen:
 
 4.  die Richtigkeit und Angemessenheit der Volatilitätsannahmen.
 
-
-
-
-
 ###### Titel 4 - Modellbasierte Schwankungszuschläge
-
-
 
 ###### § 199 Entscheidung für die Verwendung modellbasierter Schwankungszuschläge
 
@@ -10517,7 +10045,6 @@ vorgegebener Wert- und Währungsschwankungsfaktoren wechseln. Die
 Zustimmung zum beabsichtigten Wechsel ist vom Institut unter Angabe
 der Gründe bei der Bundesanstalt zu beantragen.
 
-
 ###### § 200 Geeignetes Modell zur Ermittlung modellbasierter Schwankungszuschläge
 
 (1) Ein in seiner Eignung bestätigtes eigenes Risikomodell im Sinne
@@ -10539,7 +10066,6 @@ einer Prüfung nach § 44 Abs. 1 Satz 2 des Kreditwesengesetzes die
 Eignung für ein solches Modell. Hält ein in seiner Eignung bestätigtes
 Modell die Mindestanforderungen nach den §§ 201 und 202 nicht mehr
 ein, kann die Bundesanstalt die Eignungsbestätigung widerrufen.
-
 
 ###### § 201 Qualitative Mindestanforderungen für ein geeignetes Modell zur Ermittlung von Schwankungszuschlägen
 
@@ -10606,10 +10132,6 @@ muss es die folgenden Bedingungen erfüllen:
 10. Die Modelle des Instituts müssen die Anforderungen nach § 224 Abs. 6
     und § 317 Abs. 4 erfüllen.
 
-
-
-
-
 ###### § 202 Quantitative Mindestanforderungen für ein geeignetes Modell zur Ermittlung von Schwankungszuschlägen
 
 Für die Ermittlung des potenziellen Risikobetrags gelten folgende
@@ -10647,16 +10169,12 @@ Die Bundesanstalt kann einen kürzeren historischen
 Beobachtungszeitraum festschreiben, wenn sie dies aufgrund einer
 signifikanten Zunahme der Kursvolatilität für gerechtfertigt hält.
 
-
 ###### § 203 Modellbasierter Schwankungszuschlag
 
 Der modellbasierte Schwankungszuschlag ist der Schätzwert für den
 potenziellen Risikobetrag des vorangegangenen Geschäftstages.
 
-
 ##### Unterabschnitt 3 - Anrechnungsverfahren für Gewährleistungen
-
-
 
 ###### § 204 Inkongruenzenbereinigter Betrag einer Gewährleistung
 
@@ -10675,10 +10193,6 @@ Produkt aus
 3.  wenn für diese Gewährleistung eine Währungsinkongruenz in Bezug auf
     diese Position besteht, der Differenz aus Eins und dem
     Währungsschwankungsfaktor nach § 189.
-
-
-
-
 
 ###### § 205 Betrag einer berücksichtigungsfähigen Gewährleistung
 
@@ -10743,14 +10257,9 @@ Der Betrag einer berücksichtigungsfähigen Gewährleistung ist, wenn sie
 In allen anderen Fällen ist der bei Eintritt des Gewährleistungsfalls
 an das sicherungsnehmende Institut zu zahlende Betrag maßgeblich.
 
-
 #### Abschnitt 4 - Aufrechnungsvereinbarungen
 
-
-
 ##### Unterabschnitt 1 - Berücksichtigungsfähige Aufrechnungsvereinbarungen
-
-
 
 ###### § 206 Berücksichtigungsfähige Aufrechnungsvereinbarungen
 
@@ -10818,7 +10327,6 @@ nach Absatz 2 oder 3 oder nach den §§ 207 bis 210 nicht erfüllt sind
 oder begründete Zweifel an der Rechtswirksamkeit der zweiseitigen
 Aufrechnungsvereinbarung bestehen.
 
-
 ###### § 207 Berücksichtigungsfähige Aufrechnungsvereinbarung über Derivate
 
 (1) Eine berücksichtigungsfähige Aufrechnungsvereinbarung über
@@ -10845,7 +10353,6 @@ eine von einem öffentlich bestellten Übersetzer angefertigte
 Übersetzung einzureichen. § 23 des Verwaltungsverfahrensgesetzes
 bleibt unberührt. Das Rechtsgutachten nach § 206 Abs. 3 Satz 1 hat das
 Institut der Bundesanstalt auf deren Verlangen vorzulegen.
-
 
 ###### § 208 Berücksichtigungsfähige Aufrechnungsvereinbarung über wechselseitige Geldforderungen und -schulden
 
@@ -10887,10 +10394,6 @@ und -schulden ist nur dann berücksichtigungsfähig, wenn das Institut
 
 3.  es die Geldbeträge, die in der Aufrechnungsvereinbarung erfasst
     werden, jederzeit identifizieren kann.
-
-
-
-
 
 ###### § 209 Berücksichtigungsfähige Aufrechnungsvereinbarung über nichtderivative Geschäfte mit Sicherheitennachschüssen
 
@@ -10940,7 +10443,6 @@ nichtderivative Geschäfte mit Sicherheitennachschüssen nach § 215
 unter Berücksichtigung einer bestimmten Art von
 Aufrechungsvereinbarung zu ermitteln, gilt § 207 Abs. 2 entsprechend.
 
-
 ###### § 210 Berücksichtigungsfähige produktübergreifende Aufrechnungsvereinbarung
 
 (1) Eine produktübergreifende Aufrechnungsvereinbarung ohne
@@ -10970,10 +10472,7 @@ Aufrechnungspositionen nach § 217 unter Berücksichtigung einer
 bestimmten Art von Aufrechungsvereinbarung zu ermitteln, gilt § 208
 Abs. 2 entsprechend.
 
-
 ##### Unterabschnitt 2 - Nettobemessungsgrundlagen für Aufrechnungsvereinbarungen
-
-
 
 ###### § 211 Nettobemessungsgrundlage für Derivate
 
@@ -11054,7 +10553,6 @@ der Aufrechnungsposition erfassten derivativen
 Adressenausfallrisikopositionen. Die Marktwerte sind geschäftstäglich
 zu ermitteln.
 
-
 ###### § 212 Nettobemessungsgrundlage für Geldforderungen und -schulden
 
 Die Nettobemessungsgrundlage für Geldforderungen und -schulden einer
@@ -11062,7 +10560,6 @@ zu berücksichtigenden Aufrechnungsposition aus Geldforderungen und
 -schulden ist die Summe aus der laufzeitbereinigten
 Nettobemessungsgrundlage nach § 213 und dem
 Währungsinkongruenzzuschlag nach § 214 für diese Aufrechnungsposition.
-
 
 ###### § 213 Laufzeitbereinigte Nettobemessungsgrundlage für eine Aufrechnungsposition
 
@@ -11132,7 +10629,6 @@ Nettobemessungsgrundlage für die Aufrechnungsposition ist die Summe
 der Nettobemessungsgrundlagen der verbleibenden zu besichernden
 Positionen mit positiver Nettobemessungsgrundlage.
 
-
 ###### § 214 Währungsinkongruenzzuschlag für eine Aufrechnungsposition
 
 (1) Für eine Aufrechnungsposition aus Geldforderungen und -schulden
@@ -11165,7 +10661,6 @@ nach § 189 für diese Währung ergibt den Zuschlag für diese Währung.
 Aufrechnungsvereinbarung festgelegte Währung, in der die bei
 Aufrechnung entstehende Nettoforderung oder -verbindlichkeit zu
 erfüllen ist.
-
 
 ###### § 215 Nettobemessungsgrundlage für nichtderivative Geschäfte mit Sicherheitennachschüssen
 
@@ -11214,7 +10709,6 @@ berücksichtigungsfähige Handelsbuchsicherheiten nach § 157
 berücksichtigt werden, wenn sich die Aufrechnungsvereinbarung
 ausschließlich auf Geschäfte bezieht, die dem Handelsbuch eines
 Handelsbuchinstituts zuzurechnen sind.
-
 
 ###### § 216 Wertschwankungszuschlag für die Wertpapiere einer Aufrechnungsposition
 
@@ -11268,16 +10762,11 @@ Sicherheitennachschüssen
     Institut in seiner internen Risikosteuerung genutzte Liquidationsdauer
     nach § 197 haben.
 
-
-
-
-
 ###### § 217 Nettobemessungsgrundlage für produktübergreifende Aufrechnungspositionen
 
 Sobald ein Institut eine produktübergreifende Aufrechnungsposition in
 Ansatz bringt, ist deren Nettobemessungsgrundlage nach Zustimmung der
 Bundesanstalt nach der IMM zu ermitteln.
-
 
 ###### § 218 Nettobemessungsgrundlage nach der SM
 
@@ -11324,7 +10813,6 @@ berücksichtigen.
 mit ihren maßgeblichen Beträgen zu Absicherungsgruppen nach § 221
 zusammenzufassen.
 
-
 ###### § 219 Aufspaltung in SM-Risikopositionen
 
 (1) SM-Risikopositionen sind die den derivativen
@@ -11347,7 +10835,6 @@ Zahlungsanspruch gegenüber dem Vertragspartner darstellt. Gestellte
 finanzielle Sicherheiten werden als eine SM-Risikoposition
 berücksichtigt, die eine sofort fällige Liefer- oder
 Zahlungsverpflichtung gegenüber dem Vertragspartner darstellt.
-
 
 ###### § 220 Maßgebliche Beträge der SM-Risikopositionen
 
@@ -11380,7 +10867,6 @@ derivative Adressenausfallrisikoposition nach der
 Marktbewertungsmethode zu bestimmen. Diese SM-Risikopositionen dürfen
 nicht in berücksichtigungsfähige Aufrechnungsvereinbarungen einbezogen
 werden.
-
 
 ###### § 221 Zuordnung der SM-Risikopositionen zu Absicherungsgruppen
 
@@ -11460,7 +10946,6 @@ dürfen nicht mit den darin enthaltenen Finanzinstrumenten, Waren oder
 Edelmetallen zu einer Absicherungsgruppe zusammengefasst werden,
 sondern sind jeweils einer eigenen Absicherungsgruppe zuzuordnen.
 
-
 ###### § 222 Anwendung der IMM
 
 (1) Ein Institut darf die IMM nur nach Zustimmung durch die
@@ -11514,7 +10999,6 @@ verwendet, darf für diese Positionen nur bei Vorliegen wesentlicher
 Gründe und nur nach Zustimmung der Bundesanstalt zu einem anderen
 Ansatz wechseln. Die Zustimmung zum beabsichtigten Wechsel ist vom
 Institut unter Angabe der Gründe bei der Bundesanstalt zu beantragen.
-
 
 ###### § 223 Nettobemessungsgrundlage nach der IMM
 
@@ -11652,7 +11136,6 @@ muss seine Schätzung zumindest vierteljährlich überprüfen. Die
 Zusammensetzung der Aufrechnungspositionen im Zeitablauf verändert.
 Das Institut hat eine Einschätzung des Modellrisikos vorzunehmen.
 
-
 ###### § 224 Mindestanforderungen an die Nutzung der IMM
 
 (1) Das Institut hat vor der Nutzung der IMM nachzuweisen, dass es zur
@@ -11739,14 +11222,9 @@ Geschäfte besteht.
 regelmäßig, zumindest aber einmal jährlich, durch die interne Revision
 zu prüfen.
 
-
 ### Kapitel 6 - Verbriefungen
 
-
-
 #### Abschnitt 1 - Anwendungsbereich der Verbriefungsregelungen, Begriffsdefinitionen
-
-
 
 ##### § 225 Adressaten
 
@@ -11766,7 +11244,6 @@ Anrechnungserleichterung in Anspruch nimmt.
 (2) Ein Institut hat für jede nach Absatz 1 von ihm berücksichtigte
 Verbriefungstransaktion die Offenlegungsbestimmungen nach § 334
 einzuhalten.
-
 
 ##### § 226 Verbriefungstransaktion
 
@@ -11808,7 +11285,6 @@ sind.
 Verbriefungstransaktion, die keine KSA-Verbriefungstransaktion ist und
 für die es als Originator, Sponsor oder Investor gilt.
 
-
 ##### § 227 KSA- und IRBA-Verbriefungspositionen
 
 (1) Ein Institut, das Verbriefungspositionen vollständig oder nicht
@@ -11849,7 +11325,6 @@ Gewährleistungen und mit ihrem schwankungsbereinigten Wert für
 finanzielle Sicherheiten zu berücksichtigenden finanziellen
 Sicherheiten ein unbesicherter Teilpositionswert nach § 254 Abs. 5
 Satz 2 verbleibt.
-
 
 ##### § 228 Verbrieftes Portfolio
 
@@ -11968,13 +11443,7 @@ lassen:
     eine nach der aufsichtlichen Formel berücksichtigte IRBA-
     Verbriefungsposition.
 
-
-
-
-
 ##### § 229 (weggefallen)
-
-
 
 ##### § 230 Verbriefungs-Liquiditätsfazilität
 
@@ -12019,10 +11488,6 @@ lassen:
     beendet, sobald die durchschnittliche Kreditqualität des verbrieften
     Portfolios unter Investmentqualität sinkt.
 
-
-
-
-
 ##### § 231 Sonstige Begriffsbestimmungen für Verbriefungen
 
 (1) (weggefallen)
@@ -12039,10 +11504,7 @@ Rechte uneingeschränkt zu verpfänden oder auszutauschen. Die
 Aktivitäten der Verbriefungszweckgesellschaft sind auf die Tätigkeiten
 begrenzt, die zur Erreichung des Zwecks erforderlich sind.
 
-
 #### Abschnitt 2 - Anforderungen an Institute, die als Originator oder Sponsor von Verbriefungstransaktionen gelten
-
-
 
 ##### § 232 Mindestanforderungen an einen wesentlichen und wirksamen Risikotransfer
 
@@ -12273,7 +11735,6 @@ für die von ihm gehaltenen Verbriefungspositionen dieser
 Verbriefungstransaktion keine risikogewichteten Positionswerte zu
 berücksichtigen.
 
-
 ##### § 233 Berücksichtigung einer Laufzeitunterdeckung der Besicherung beim Originator
 
 (1) Ein Institut, das als Originator einer Verbriefungstransaktion
@@ -12302,7 +11763,6 @@ unbesichert sind und deren Risikogewicht 1.250 Prozent beträgt. Diese
 Verbriefungspositionen sind mit ihrem nach den §§ 238 bis 268
 ermittelten risikogewichteten Positionswert oder als abzuziehende
 Verbriefungspositionen nach § 265 zu berücksichtigen.
-
 
 ##### § 234 Verbot der impliziten Unterstützung von Verbriefungstransaktionen
 
@@ -12336,10 +11796,7 @@ Ermittlung risikogewichteter Positionswerte nicht erforderlich.
 Verbriefungstransaktion gilt und dieser implizite Unterstützung
 leistet.
 
-
 #### Abschnitt 3 - Nutzung von Bonitätsbeurteilungen für Verbriefungen
-
-
 
 ##### § 235 Benennung von Ratingagenturen für Verbriefungen
 
@@ -12351,7 +11808,6 @@ Die Bundesanstalt erkennt nur solche Ratingagenturen nach § 52 für
 Verbriefungen aufsichtlich an, die für am Kapitalmarkt platzierte
 Verbriefungstransaktionen von den Marktteilnehmern anerkannt werden.
 
-
 ##### § 236 Anforderungen an die Verwendung von Bonitätsbeurteilungen für Verbriefungen
 
 Maßgebliche Bonitätsbeurteilungen benannter Ratingagenturen sind
@@ -12361,7 +11817,6 @@ Ratingagenturen vorliegenden Bonitätsbeurteilungen nicht selektiv
 verwendet werden, auch dann nicht, wenn nicht für jede dieser
 Verbriefungspositionen eine Bonitätsbeurteilung einer benannten
 Ratingagentur vorliegt.
-
 
 ##### § 237 Für Verbriefungen maßgebliche Bonitätsbeurteilung
 
@@ -12427,10 +11882,7 @@ Bonitätsbeurteilung nicht verwendungsfähig; die Regelungen der §§ 154
 bis 224 zur anrechnungsmindernden Berücksichtigung von
 Sicherungsinstrumenten bleiben unberührt.
 
-
 #### Abschnitt 4 - Anrechnung von KSA-Verbriefungstransaktionen
-
-
 
 ##### § 238 KSA-Bemessungsgrundlage einer KSA-Verbriefungsposition
 
@@ -12459,7 +11911,6 @@ Besicherung ist nach § 233 Abs. 1 Satz 1 zu berücksichtigen.
 der es sich um einen vom Originator zu berücksichtigenden
 Investorenanteil aus Verbriefungstransaktionen handelt, ist nach § 248
 zu ermitteln. Die Absätze 1 und 2 finden keine Anwendung.
-
 
 ##### § 239 KSA-Positionswert einer KSA-Verbriefungsposition
 
@@ -12498,7 +11949,6 @@ Konversionsfaktor nach Absatz 2.
 es sich um einen vom Originator zu berücksichtigenden Investorenanteil
 aus Verbriefungstransaktionen handelt, ist nach § 247 zu bestimmen.
 
-
 ##### § 240 Risikogewichteter KSA-Positionswert einer KSA-Verbriefungsposition
 
 (1) Der risikogewichtete KSA-Positionswert einer KSA-
@@ -12528,7 +11978,6 @@ höchsten risikogewichteten KSA-Positionswert aufweist. Satz 1 gilt
 entsprechend, wenn eine oder mehrere der sich überschneidenden
 Verbriefungspositionen IRBA-Verbriefungspositionen sind.
 
-
 ##### § 241 Berücksichtigung von Gewährleistungen und finanziellen Sicherheiten mit ihrem KSA-Risikogewicht
 
 (1) Für eine KSA-Verbriefungsposition, die durch eine
@@ -12551,10 +12000,7 @@ ein Laufzeitanpassungsfaktor von Eins verwendet wird. Die in Bezug auf
 diese Gewährleistung bestehende Laufzeitunterdeckung der Besicherung
 ist nach § 233 Abs. 1 Satz 1 zu berücksichtigen.
 
-
 ##### Unterabschnitt 1 - KSA-Verbriefungsrisikogewicht von KSA-Verbriefungspositionen
-
-
 
 ###### § 242 KSA-Verbriefungsrisikogewicht für beurteilte KSA-Verbriefungspositionen
 
@@ -12563,7 +12009,6 @@ die eine maßgebliche Bonitätsbeurteilung vorliegt, ergibt sich in
 Abhängigkeit von der Bonitätsstufe, der die
 Bonitätsbeurteilungskategorie der maßgeblichen Bonitätsbeurteilung
 aufsichtlich zugewiesen ist, nach Tabelle 11 der Anlage 1.
-
 
 ###### § 243 KSA-Verbriefungsrisikogewicht für unbeurteilte KSA-Verbriefungspositionen
 
@@ -12652,7 +12097,6 @@ dass sie sich überschneidende Positionen nach § 240 Absatz 3 bilden,
 und dass die im Rahmen des ABCP-Programms begebenen Geldmarktpapiere
 zu 100 Prozent von Verbriefungs-Liquiditätsfazilitäten gedeckt sind.
 
-
 ###### § 244 KSA-Verbriefungsrisikogewicht für teilbesicherte KSA-Verbriefungspositionen
 
 (1) Das KSA-Verbriefungsrisikogewicht für den unbesicherten Teil einer
@@ -12699,10 +12143,7 @@ teilbesicherten KSA-Verbriefungsposition wie folgt zu bestimmen:
 beträgt das KSA-Verbriefungsrisikogewicht für den unbesicherten Teil
 einer teilbesicherten KSA-Verbriefungsposition 1.250 Prozent.
 
-
 ##### Unterabschnitt 2 - Besondere Regelungen für Originatoren von KSA-Verbriefungstransaktionen, zu denen ein vom Originator zu berücksichtigender Investorenanteil aus Verbriefungstransaktionen gehört
-
-
 
 ###### § 245 Ermittlung risikogewichteter KSA-Positionswerte für von Originatoren zu berücksichtigende Investorenanteile aus Verbriefungstransaktionen
 
@@ -12751,7 +12192,6 @@ Originators geknüpften Ereignisses mit der Tilgung der
 Verbriefungspositionen von Investoren vor dem vertraglich geplanten
 Laufzeitende der emittierten Wertpapiere begonnen wird.
 
-
 ###### § 246 Risikogewichteter KSA-Positionswert eines vom Originator zu berücksichtigenden Investorenanteils aus Verbriefungstransaktionen
 
 (1) Der nach § 245 Abs. 1 für einen vom Originator zu
@@ -12772,7 +12212,6 @@ Verbriefungstransaktion zur Summe der KSA-Bemessungsgrundlagen nach §
 49 oder IRBA-Bemessungsgrundlagen nach § 100 für sämtliche
 revolvierenden Adressenausfallrisikopositionen des verbrieften
 Portfolios dieser Verbriefungstransaktion.
-
 
 ###### § 247 KSA-Konversionsfaktoren für vom Originator zu berücksichtigende Investorenanteile aus Verbriefungstransaktionen
 
@@ -12864,7 +12303,6 @@ erfolgter Information an und gegebenenfalls notwendiger Konsultation
 mit den zuständigen Behörden aller anderen Mitgliedstaaten der
 Europäischen Union.
 
-
 ###### § 248 KSA-Bemessungsgrundlage eines vom Originator zu berücksichtigenden Investorenanteils aus Verbriefungstransaktionen
 
 Die KSA-Bemessungsgrundlage für eine KSA-Verbriefungsposition, die ein
@@ -12920,13 +12358,7 @@ Portfolios ist das Verhältnis aus
     Verbriefungstransaktion gewidmeten Portfolio gehörenden bilanziellen
     Adressenausfallrisikopositionen.
 
-
-
-
-
 ##### Unterabschnitt 3 - Obergrenzen für die Anrechnung von KSA-Verbriefungstransaktionen
-
-
 
 ###### § 249 Maximaler risikogewichteter KSA-Positionswert einer KSA-Verbriefungstransaktion
 
@@ -12968,7 +12400,6 @@ verbrieften Portfolios maßgeblichen Mindestanforderungen an die
 Nutzung des IRBA nach den §§ 106 bis 153 nicht ein, finden die Absätze
 1 und 2 keine Anwendung.
 
-
 ###### § 250 Maximaler risikogewichteter KSA-Positionswert für Originatoren von KSA-Verbriefungstransaktionen, zu denen ein vom Originator zu berücksichtigender Investorenanteil aus Verbriefungstransaktionen gehört
 
 (1) Ein Institut, das als Originator einer KSA-Verbriefungstransaktion
@@ -13001,10 +12432,7 @@ Nettogewinne aus der Kapitalisierung der künftigen Erträge der
 Adressenausfallrisikopositionen des verbrieften Portfolios sind für
 die Vergleichsrechnung nach Absatz 1 unberücksichtigt zu lassen.
 
-
 #### Abschnitt 5 - Anrechnung von IRBA-Verbriefungstransaktionen
-
-
 
 ##### § 251 Bemessungsgrundlage einer IRBA-Verbriefungsposition
 
@@ -13064,7 +12492,6 @@ der es sich um einen vom Originator zu berücksichtigenden
 Investorenanteil aus Verbriefungstransaktionen handelt, ist nach § 262
 Satz 2 zu ermitteln. Die Absätze 1 und 2 finden keine Anwendung.
 
-
 ##### § 252 IRBA-Positionswert einer IRBA-Verbriefungsposition
 
 (1) Der IRBA-Positionswert einer IRBA-Verbriefungsposition ist das
@@ -13090,7 +12517,6 @@ Konversionsfaktor nach Absatz 2.
 der es sich um einen vom Originator zu berücksichtigenden
 Investorenanteil aus Verbriefungstransaktionen handelt, ist
 entsprechend § 247 zu bestimmen.
-
 
 ##### § 253 Risikogewichteter IRBA-Positionswert einer IRBA-Verbriefungsposition
 
@@ -13133,7 +12559,6 @@ Verbriefungsposition berücksichtigt, die den höchsten
 risikogewichteten IRBA-Positionswert aufweist. Satz 1 gilt
 entsprechend, wenn eine oder mehrere der sich überschneidenden
 Verbriefungspositionen KSA-Verbriefungspositionen sind.
-
 
 ##### § 254 Berücksichtigung von Gewährleistungen mit ihrem IRBA-Risikogewicht
 
@@ -13214,10 +12639,7 @@ Berücksichtigung sämtlicher Gewährleistungen, die dieser IRBA-
 Verbriefungsposition zugeordnet sind, verbleibt, und dem IRBA-
 Konversionsfaktor für diese IRBA-Verbriefungsposition.
 
-
 ##### Unterabschnitt 1 - IRBA-Verbriefungsrisikogewicht von IRBA-Verbriefungspositionen
-
-
 
 ###### § 255 Verfahren zur Bestimmung des IRBA-Verbriefungsrisikogewichts
 
@@ -13274,7 +12696,6 @@ dass sie sich überschneidende Positionen nach § 253 Absatz 5 bilden,
 und dass die im Rahmen des ABCP-Programms begebenen Geldmarktpapiere
 zu 100 Prozent von Verbriefungs-Liquiditätsfazilitäten gedeckt sind.
 
-
 ###### § 256 Abgeleitete Bonitätsbeurteilung
 
 (1) Ein Institut hat für eine IRBA-Verbriefungsposition, die Anteil an
@@ -13301,7 +12722,6 @@ aufsichtlich der niedrigsten Bonitätsstufe nach § 257 zugewiesen ist.
 als auch eine nach einem internen Einstufungsverfahren nach § 259
 bestimmte Bonitätsbeurteilung vorliegt, darf die nach dem internen
 Einstufungsverfahren bestimmte Bonitätsbeurteilung angewendet werden.
-
 
 ###### § 257 Ratingbasierter Ansatz
 
@@ -13368,7 +12788,6 @@ vorgehen.
 
 (5) (weggefallen)
 
-
 ###### § 258 Aufsichtlicher Formel-Ansatz
 
 (1) Ein Institut darf den aufsichtlichen Formel-Ansatz auf jede IRBA-
@@ -13429,7 +12848,6 @@ Forderungsklasse Mengengeschäft zuzuordnen wären, dürfen für die
 Bestimmung des Risikogewichts nach Absatz 2 Nr. 2 in Verbindung mit
 Formel 13 der Anlage 2 für h und v jeweils Werte von Null verwendet
 werden.
-
 
 ###### § 259 Internes Einstufungsverfahren
 
@@ -13685,7 +13103,6 @@ Programms oder dem verfügbaren Datenumfang, von diesem internen
 Einstufungsverfahren erfassbare Art von IRBA-Verbriefungspositionen
 gebildet.
 
-
 ###### § 260 Nach der Rückfalllösung für qualifizierte Verbriefungs-Liquiditätsfazilitäten ermitteltes IRBA-Verbriefungsrisikogewicht
 
 Auf eine unbeurteilte IRBA-Verbriefungsposition,
@@ -13738,7 +13155,6 @@ In dieser Anzeige sind
 
 
 anzugeben.
-
 
 ###### § 261 IRBA-Verbriefungsrisikogewicht für teilbesicherte IRBA-Verbriefungspositionen
 
@@ -13800,10 +13216,7 @@ teilbesicherten IRBA-Verbriefungsposition wie folgt zu bestimmen:
 beträgt das IRBA-Verbriefungsrisikogewicht für den unbesicherten Teil
 einer teilbesicherten IRBA-Verbriefungsposition 1 250 Prozent.
 
-
 ##### Unterabschnitt 2 - Besondere Regelungen für Originatoren von IRBA-Verbriefungstransaktionen, zu denen ein vom Originator zu berücksichtigender Investorenanteil aus Verbriefungstransaktionen gehört
-
-
 
 ###### § 262 Ermittlung risikogewichteter IRBA-Positionswerte für von Originatoren zu berücksichtigende Investorenanteile aus Verbriefungstransaktionen
 
@@ -13843,13 +13256,7 @@ folgenden Maßgaben:
 
     zu erhöhen.
 
-
-
-
-
 ##### Unterabschnitt 3 - Obergrenzen für die Anrechnung von IRBA-Verbriefungstransaktionen
-
-
 
 ###### § 263 Maximaler risikogewichteter IRBA-Positionswert einer IRBA-Verbriefungstransaktion
 
@@ -13880,7 +13287,6 @@ Ermittlung risikogewichteter IRBA-Positionswerte und erwarteter
 Verlustbeträge für die IRBA-fähigen Forderungen des verbrieften
 Portfolios die Mindestanforderungen an die Nutzung des IRBA nach den
 §§ 106 bis 153 nicht erfüllt, keine Anwendung.
-
 
 ###### § 264 Maximaler risikogewichteter IRBA-Positionswert für Originatoren von IRBA-Verbriefungstransaktionen, zu denen ein vom Originator zu berücksichtigender Investorenanteil aus Verbriefungstransaktionen gehört
 
@@ -13916,10 +13322,7 @@ Nettogewinne aus der Kapitalisierung der künftigen Erträge der
 Forderungen des verbrieften Portfolios sind für die Vergleichsrechnung
 nach Absatz 1 unberücksichtigt zu lassen.
 
-
 #### Abschnitt 6 - Abzugsbeträge für Verbriefungspositionen
-
-
 
 ##### § 265 Abzugsbetrag für Verbriefungspositionen
 
@@ -13931,7 +13334,6 @@ Institut den Abzug nach § 10 Absatz 6a Nummer 3 des
 Kreditwesengesetzes gewählt hat, ist die Summe aus dem Abzugsbetrag
 für KSA-Verbriefungspositionen nach § 267 und dem Abzugsbetrag für
 IRBA-Verbriefungspositionen nach § 268 Absatz 1.
-
 
 ##### § 266 Berücksichtigung von Verbriefungspositionen durch Kapitalabzug
 
@@ -14020,17 +13422,12 @@ ist wie folgt vorzunehmen:
     Buchstabe b ermittelte Wert von L 2 und als Wert von T der nach Nummer
     2 Buchstabe b ermittelte Wert von T 2 verwendet wird.
 
-
-
-
-
 ##### § 267 Abzugsbetrag für KSA-Verbriefungspositionen
 
 Der Abzugsbetrag für KSA-Verbriefungspositionen ist die Summe der KSA-
 Positionswerte derjenigen KSA-Verbriefungspositionen, die nach § 266
 Abs. 1 als Abzugsbetrag bei der Ermittlung des modifizierten
 verfügbaren Eigenkapitals berücksichtigt werden.
-
 
 ##### § 268 Abzugsbetrag für IRBA-Verbriefungspositionen
 
@@ -14063,20 +13460,9 @@ abzuziehende Verbriefungsteilposition ist
         9 des Kreditwesengesetzes zählen und nicht nach § 253 Abs. 4
         berücksichtigt wurden.
 
-
-
-
-
-
-
-
 ## Teil 3 - Operationelles Risiko
 
-
-
 ### Kapitel 1 - Allgemeine Vorschriften
-
-
 
 #### § 269 Ansätze zur Bestimmung des Anrechnungsbetrags für das operationelle Risiko
 
@@ -14126,10 +13512,7 @@ nur nach Zustimmung der Bundesanstalt zu einem einfacheren Ansatz
 wechseln. Die Zustimmung zum beabsichtigten Wechsel ist vom Institut
 unter Angabe der Gründe bei der Bundesanstalt zu beantragen.
 
-
 ### Kapitel 2 - Basisindikatoransatz
-
-
 
 #### § 270 Berechnung des Anrechnungsbetrags
 
@@ -14147,7 +13530,6 @@ Indikators sind nur Jahreswerte mit positivem Wert zu berücksichtigen.
 Der Dreijahresdurchschnitt des relevanten Indikators berechnet sich
 als Summe der positiven Jahreswerte geteilt durch die Anzahl der
 positiven Jahreswerte.
-
 
 #### § 271 Definition des relevanten Indikators
 
@@ -14229,10 +13611,7 @@ Spareinrichtung berücksichtigen. Die Ableitung der Erträge und
 Aufwendungen der Spareinrichtung aus dem Rechnungswesen ist angemessen
 zu dokumentieren.
 
-
 ### Kapitel 3 - Standardansatz
-
-
 
 #### § 272 Anwendung des Standardansatzes
 
@@ -14251,7 +13630,6 @@ dokumentiert vorhalten.
 (3) Die Bundesanstalt kann die Nutzung des Standardansatzes
 untersagen, wenn das Institut die für den Standardansatz
 qualifizierenden Anforderungen nicht einhält.
-
 
 #### § 273 Berechnung des Anrechnungsbetrags
 
@@ -14338,10 +13716,6 @@ folgende Betafaktoren zugeordnet:
 
     *   12 Prozent.
 
-
-
-
-
 #### § 274 Verwendung eines alternativen Indikators
 
 (1) Für die Berechnung der Teilanrechnungsbeträge in den
@@ -14377,7 +13751,6 @@ Absatz 3 multipliziert mit dem Faktor 0,035.
 Firmenkundengeschäft entspricht der gesamten Kreditinanspruchnahme in
 den jeweiligen Kreditportfolien. Im Firmenkundengeschäft sind die im
 Anlagebuch gehaltenen Wertpapiere einzubeziehen.
-
 
 #### § 275 Geschäftsfeldzuordnung
 
@@ -14433,10 +13806,6 @@ Kriterien müssen den folgenden Anforderungen genügen:
 7.  der Zuordnungsprozess muss durch interne oder externe Prüfer geprüft
     werden.
 
-
-
-
-
 #### § 276 Qualitative Anforderungen
 
 (1) Ein Institut, welches den Standardansatz verwendet, muss über ein
@@ -14462,7 +13831,6 @@ Informationen über die operationellen Risiken zur Verfügung stellt.
 Das Institut muss Entscheidungskompetenzen und -wege festlegen, um
 angemessen auf diese Informationen zu reagieren.
 
-
 #### § 277 Kombination mit dem Basisindikatoransatz
 
 (1) Eine Kombination des Standardansatzes mit dem Basisindikatoransatz
@@ -14475,14 +13843,9 @@ solche übergangsweise Zulassung ist die Verpflichtung des betreffenden
 Instituts, in absehbarer Zeit den Standardansatz zur Bestimmung des
 gesamten Anrechnungsbetrags für das operationelle Risiko anzuwenden.
 
-
 ### Kapitel 4 - Fortgeschrittene Messansätze
 
-
-
 #### Abschnitt 1 - Allgemeine Vorschriften
-
-
 
 ##### § 278 Begriffsbestimmung
 
@@ -14533,10 +13896,7 @@ Zulassungsantrag der Gruppe zusätzlich folgende Angaben umfassen:
 Kombination mit dem Basisindikatoransatz oder Standardansatz ist nur
 nach Zulassung durch die Bundesanstalt nach § 293 zulässig.
 
-
 #### Abschnitt 2 - Qualitative Anforderungen
-
-
 
 ##### § 279 Risikomanagementsystem und Rahmenwerk
 
@@ -14548,7 +13908,6 @@ operationellen Risikos eingeführt haben.
 welches die Grundsätze der Identifizierung, Messung, Überwachung,
 Berichterstattung und Steuerung des operationellen Risikos enthält und
 die diesbezüglichen Verantwortlichkeiten klar zuordnet.
-
 
 ##### § 280 Risikomanagementeinheit und Ressourcen
 
@@ -14568,7 +13927,6 @@ operationellen Risiken, in den wesentlichen institutsinternen
 Geschäftsfeldern und in der internen Revision über ausreichende
 Ressourcen verfügen, um seinen fortgeschrittenen Messansatz zu
 verwenden.
-
 
 ##### § 281 Integration des Risikomesssystems und Berichtswesen
 
@@ -14590,7 +13948,6 @@ Verlustereignisse informiert werden. Das Institut muss
 Entscheidungskompetenzen und -wege festlegen, um angemessen auf diese
 Informationen zu reagieren.
 
-
 ##### § 282 Dokumentation und Einhaltung des Risikomanagementsystems
 
 (1) Das System zum Management operationeller Risiken muss angemessen
@@ -14600,7 +13957,6 @@ dokumentiert sein.
 dokumentierten Systems zum Management operationeller Risiken
 sicherzustellen. Dazu gehören auch Grundsätze zum Umgang mit Verstößen
 gegen bankinterne Regelungen.
-
 
 ##### § 283 Prüfung
 
@@ -14615,14 +13971,9 @@ Management operationeller Risiken umfassen.
 Prozesse des Messsystems operationeller Risiken für interne und
 externe Überprüfungen zeitnah zugänglich sind.
 
-
 #### Abschnitt 3 - Anforderungen an die Bestimmung des Anrechnungsbetrags für das operationelle Risiko
 
-
-
 ##### Unterabschnitt 1 - Modellrahmen
-
-
 
 ###### § 284 Güte des Messsystems
 
@@ -14657,7 +14008,6 @@ Modells zur Messung seiner operationellen Risiken und zur Überprüfung
 dieses Modells anwenden. Die Überprüfungsprozesse, -verfahren und
 -ergebnisse sind zu dokumentieren.
 
-
 ###### § 285 Korrelationen
 
 Einzeln ermittelte Risikomessgrößen für operationelle Risiken dürfen
@@ -14679,13 +14029,7 @@ sein:
 3.  Das Institut muss seine Korrelationsannahmen mit quantitativen und
     qualitativen Verfahren überprüfen und bei Bedarf anpassen.
 
-
-
-
-
 ##### Unterabschnitt 2 - Daten
-
-
 
 ###### § 286 Interne Schadensdaten
 
@@ -14731,7 +14075,6 @@ Alle Änderungen und Anpassungen der Schadensdaten sind nachvollziehbar
 zu dokumentieren. Die Zuständigkeiten für diese Anpassungen,
 insbesondere wer in welchen Situationen und in welchem Ausmaß dazu
 berechtigt ist, sind klar zu regeln.
-
 
 ###### § 287 Zuordnung interner Schadensdaten
 
@@ -14786,10 +14129,6 @@ verwenden:
 
 7.  Ausführung, Lieferung und Prozessmanagement.
 
-
-
-
-
 ###### § 288 Verluste im Kreditrisikobereich
 
 Durch operationelles Risiko verursachte Verluste im Zusammenhang mit
@@ -14797,7 +14136,6 @@ dem Kreditrisiko müssen identifiziert, in einer Verlustdatenbank als
 operationelle Risiken erfasst und dort besonders gekennzeichnet
 werden. Solche Verluste werden nicht zur Bestimmung des
 Anrechnungsbetrags für das operationelle Risiko herangezogen.
-
 
 ###### § 289 Externe Daten
 
@@ -14813,10 +14151,7 @@ werden. Die Bedingungen und Verfahren zur Nutzung externer Daten
 müssen dokumentiert, bei Bedarf angepasst und regelmäßig von einer
 unabhängigen Stelle überprüft werden.
 
-
 ##### Unterabschnitt 3 - Szenario-Analysen, Geschäftsumfeld und internes Kontrollsystem
-
-
 
 ###### § 290 Szenario-Analysen
 
@@ -14827,7 +14162,6 @@ Risikoereignisse zu beurteilen. Im Zeitablauf muss das Institut die
 Ergebnisse dieser Szenario-Analysen überprüfen und diese im Hinblick
 auf aktuelle Verlusterfahrungen anpassen, um ihre Plausibilität
 sicherzustellen.
-
 
 ###### § 291 Geschäftsumfeld und internes Kontrollsystem
 
@@ -14860,13 +14194,7 @@ Anforderungen müssen erfüllt werden:
     Geschäftsumfeldfaktoren müssen dokumentiert und durch eine unabhängige
     Stelle überprüft werden.
 
-
-
-
-
 ##### Unterabschnitt 4 - Instrumente zur Risikoverlagerung
-
-
 
 ###### § 292 Versicherungen und andere Instrumente zur Risikoverlagerung
 
@@ -14943,10 +14271,7 @@ zulässig, wenn das Institut nachweisen kann, dass diese zu einer
 erkennbaren und verlässlichen Minderung des operationellen Risikos
 führen.
 
-
 #### Abschnitt 4 - Teilweise Anwendung
-
-
 
 ##### § 293 Kombination mit dem Basisindikator- oder Standardansatz
 
@@ -15009,14 +14334,9 @@ Geschäftsfeldern, in denen der fortgeschrittene Messansatz bereits
 angewandt wird, sind der Bundesanstalt, unter Einreichung eines neuen
 Zeitplans, mitzuteilen.
 
-
 ## Teil 4 - Marktrisikopositionen
 
-
-
 ### Kapitel 1 - Währungsgesamtposition
-
-
 
 #### § 294 Ermittlung und Anrechnung der Währungsgesamtposition
 
@@ -15111,7 +14431,6 @@ sind die aus dem Investmentanteil entstandenen
 Fremdwährungsrisikopositionen aus dem eigenen Risikomodell auszunehmen
 und bei der Ermittlung des Anrechnungsbetrags für die
 Währungsgesamtposition nach den Sätzen 4 bis 8 zu berücksichtigen.
-
 
 #### § 295 Aktiv- und Passivpositionen
 
@@ -15220,10 +14539,7 @@ Nimmt ein Institut das Verfahren nach Satz 1 in Anspruch, ist dies bei
 erstmaliger Anwendung der Bundesanstalt und der Deutschen Bundesbank
 anzuzeigen.
 
-
 ### Kapitel 2 - Rohwarenposition
-
-
 
 #### § 296 Ermittlung und Anrechnung der Rohwarenposition
 
@@ -15302,7 +14618,6 @@ gewichten. Die Beträge der Aktiv- und Passivpositionen sind ungeachtet
 ihrer aktivischen oder passivischen Ausrichtung zusammenzufassen und
 in Höhe von 3 Prozent der Summe nach Satz 1 hinzuzurechnen.
 
-
 #### § 297 Zeitfächermethode
 
 (1) Ein Institut darf nach dauerhafter Wahl den Anrechnungsbetrag für
@@ -15344,10 +14659,7 @@ Absatz 2 Satz 2 hinzuzurechnen. Die verbleibende offene
 Bereichsposition ist mit 15 Prozent zu gewichten und dem
 Teilanrechnungsbetrag nach Absatz 2 Satz 2 hinzuzurechnen.
 
-
 ### Kapitel 3 - Handelsbuch-Risikopositionen
-
-
 
 #### § 298 Handelsbuch-Risikopositionen
 
@@ -15396,7 +14708,6 @@ Anrechnungsbeträge für die Marktrisikopositionen und, im Falle des §
 308 Absatz 2 und 3, der Anrechnungsbeträge für die Optionsgeschäfte
 des Instituts andererseits nicht höher ist als im Falle einer
 Berücksichtigung als Adressenausfallrisikoposition.
-
 
 #### § 299 Nettopositionen
 
@@ -15602,7 +14913,6 @@ ausgerichtete Position nach Absatz 5 Satz 4 sowie Absatz 6 und Absatz
 7, jeweils mit Ausnahme der dort geregelten Total Return Swaps, ist
 die Laufzeit des Kreditderivats, das diese Position erzeugt.
 
-
 #### § 300 Allgemeines Kursrisiko Zinsnettoposition
 
 (1) Zur Ermittlung des Teilanrechnungsbetrags für das allgemeine
@@ -15615,7 +14925,6 @@ bestimmte Laufzeitbänder einzustellen und zu gewichten.
 (2) Ein Institut darf nach einheitlicher und dauerhafter Wahl, die für
 bestimmte eindeutig abgrenzbare Teilbereiche erfolgen muss, statt der
 Jahresbandmethode die Durationmethode verwenden.
-
 
 #### § 301 Jahresbandmethode
 
@@ -15707,10 +15016,6 @@ ermitteln als Summe aus der
 
 8.  verbleibenden offenen Zonensaldoposition.
 
-
-
-
-
 #### § 302 Durationmethode
 
 (1) Bei der Durationmethode sind die Zinsnettopositionen entsprechend
@@ -15727,7 +15032,6 @@ modifizierten Duration zu multiplizieren.
 (3) § 301 Abs. 2 bis 5 und 6 Nr. 2 bis 8 gilt entsprechend. Die
 Gesamtsumme der ausgeglichenen Bandpositionen ist mit 5 Prozent zu
 gewichten.
-
 
 #### § 303 Besonderes Kursrisiko Zinsnettoposition
 
@@ -16158,10 +15462,6 @@ berücksichtigen muss. § 234 Absatz 3 Satz 2 gilt entsprechend.
     das Kreditderivat bei der Ermittlung des Teilanrechnungsbetrags für
     das besondere Kursrisiko zu berücksichtigen.
 
-
-
-
-
 #### § 304 Allgemeines Kursrisiko Aktiennettoposition
 
 Der Unterschiedsbetrag zwischen den entsprechend ihrer aktivischen
@@ -16170,7 +15470,6 @@ zusammengefassten Aktiennettopositionen ist getrennt für jeden
 nationalen Aktienmarkt in Höhe von 8 Prozent als Teilanrechnungsbetrag
 für das allgemeine Kursrisiko zu berücksichtigen. Nicht zu
 berücksichtigen sind im Bestand gehaltene eigene Aktien des Instituts.
-
 
 #### § 305 Besonderes Kursrisiko Aktiennettoposition
 
@@ -16186,10 +15485,6 @@ gewichten. Nicht zu berücksichtigen sind:
 
 2.  Aktien nach § 304 Satz 2.
 
-
-
-
-
 #### § 306 Aktienindexpositionen
 
 Zur Ermittlung der Aktiennettopositionen dürfen nach einheitlicher und
@@ -16199,7 +15494,6 @@ Indexzusammensetzung in Nettopositionen in den dem Aktienindex
 zugrunde liegenden einzelnen Aktien vollständig aufgeschlüsselt
 werden. Das Wahlrecht nach Satz 1 kann für jeden Aktienindex gesondert
 ausgeübt werden.
-
 
 #### § 307 Investmentanteile
 
@@ -16357,10 +15651,7 @@ Wirtschaftsprüfer muss spätestens drei Monate nach Ablauf des
 Geschäftsjahres des Investmentvermögens die Richtigkeit der Berechnung
 nach Satz 1 bestätigen.
 
-
 ### Kapitel 4 - Optionsposition
-
-
 
 #### § 308 Berücksichtigung von Optionsgeschäften
 
@@ -16440,7 +15731,6 @@ Struktur der Optionsgeschäfte des Instituts zur adäquaten Erfassung
 und Eigenmittelunterlegung der mit diesen Geschäften verbundenen
 Risiken geboten erscheint.
 
-
 #### § 309 Anrechnungsbetrag für das Gammafaktorrisiko
 
 (1) Ist das Optionsgeschäft auf die Lieferung oder Abnahme von Aktien,
@@ -16504,7 +15794,6 @@ der Absolutwert der Summe aller nach den Absätzen 1 bis 4 ermittelten
 und nach Absatz 5 zusammengefassten Gammafaktorrisiken, die ein
 negatives Vorzeichen aufweisen.
 
-
 #### § 310 Anrechnungsbetrag für das Vegafaktorrisiko
 
 Das Vegafaktorrisiko ist für jedes Optionsgeschäft unter
@@ -16516,7 +15805,6 @@ gleichartige Optionsgegenstände lautende Optionsgeschäfte
 zusammenzufassen. Der Anrechnungsbetrag für das Vegafaktorrisiko ist
 als der Absolutbetrag der nach Satz 2 zusammengefassten
 Vegafaktorrisiken zu ermitteln.
-
 
 #### § 311 Szenario-Matrix-Methode
 
@@ -16580,10 +15868,7 @@ Verlusts zu ermitteln. Zur Bestimmung des Anrechnungsbetrags für alle
 Optionsgeschäfte sind die Anrechnungsbeträge für die einzelnen
 Optionsgeschäftsklassen zusammenzufassen.
 
-
 ### Kapitel 5 - Andere Marktrisikopositionen
-
-
 
 #### § 312 Ermittlung und Anrechnung der anderen Marktrisikopositionen
 
@@ -16666,10 +15951,7 @@ monatlich, durchzuführen. Das Institut hat nachweislich und in
 angemessener Weise die Ergebnisse der Krisenszenarien in das System
 der risikobegrenzenden Limite einzubeziehen.
 
-
 ### Kapitel 6 - Eigene Risikomodelle
-
-
 
 #### § 313 Verwendung von Risikomodellen
 
@@ -16747,7 +16029,6 @@ Teilanrechnungsbeträge für die Marktrisikopositionen nur bei Vorliegen
 wesentlicher Gründe und nur nach Zustimmung der Bundesanstalt wieder
 nach den §§ 294 bis 312 ermitteln. Die Zustimmung ist vom Institut
 unter Angabe der Gründe bei der Bundesanstalt zu beantragen.
-
 
 #### § 314 Bestimmung der Anrechnungsbeträge
 
@@ -16870,7 +16151,6 @@ Weise zusätzlich für die Feststellung der Einhaltung der
 Eigenmittelanforderungen für Marktrisiken nach § 2 Absatz 3 Satz 1
 berücksichtigt.
 
-
 #### § 315 Quantitative Vorgaben
 
 (1) Bei der Ermittlung der potenziellen Risikobeträge und potenziellen
@@ -16921,7 +16201,6 @@ die Gründe für die Wahl der Beobachtungsperiode zeitnah dokumentieren.
 (4) Die Berechnung des potenziellen Krisen-Risikobetrags ist
 mindestens wöchentlich durchzuführen.
 
-
 #### § 316 Zu erfassende Risikofaktoren
 
 (1) Bei der Bestimmung der potenziellen Risikobeträge und der
@@ -16962,7 +16241,6 @@ angemessener Weise zu berücksichtigen, unabhängig von der Zuordnung
 zum allgemeinen oder besonderen Kursrisiko.
 
 (4) und (5) (weggefallen)
-
 
 #### § 317 Qualitative Anforderungen
 
@@ -17047,7 +16325,6 @@ Prüfungsergebnisse nach Absatz 9 nachweislich informiert wird. Sie hat
 diese Informationen in angemessener Weise bei der Festlegung des
 Geschäftsverhaltens des Instituts zu berücksichtigen.
 
-
 #### § 317a Zusätzliche Anforderungen – Besonderes Kursrisiko
 
 (1) Ein eigenes Risikomodell für die Ermittlung eines
@@ -17104,7 +16381,6 @@ Risiken in konservativer Weise abbilden.
 hinsichtlich der Risikomodellierung für sein eigenes Risikomodell
 zunutze machen.
 
-
 #### § 318 Prognosegüte
 
 (1) Die Prognosegüte eines Risikomodells ist mittels eines täglichen
@@ -17138,7 +16414,6 @@ Zahl der Ausnahmen zugrunde. Die Bundesanstalt kann bei der Bemessung
 des Faktors einzelne Ausnahmen unberücksichtigt lassen, wenn das
 Institut nachweist, dass die Ausnahme nicht auf eine mangelhafte
 Prognosegüte des Risikomodells zurückzuführen ist.
-
 
 #### § 318a Zusätzliches Ausfall- und Migrationsrisiko
 
@@ -17220,7 +16495,6 @@ Maßgabe, dass die Einhaltung der Anforderungen nach § 317 Absatz 1 und
 2 sowie 4 bis 8 und die Anforderungen nach den Absätzen 4 und 6 sowie
 § 318d durch die Innenrevision zu überprüfen sind.
 
-
 #### § 318b Zusätzliches Ausfall- und Migrationsrisiko – Parameter
 
 (1) Bei Ermittlung der potenziellen Verluste aufgrund von Ausfällen
@@ -17290,7 +16564,6 @@ Schätzung von Preisrisiken für die genannten Finanzinstrumente muss
 das Institut das Ausmaß des zugrunde liegenden Modellrisikos
 angemessen beachten.
 
-
 #### § 318c Zusätzliches Ausfall- und Migrationsrisiko – Absicherungsgeschäfte
 
 (1) Soweit ein Institut über aktivisch und passivisch ausgerichtete
@@ -17327,7 +16600,6 @@ gewährleisten. Verbleibende Risiken im Rahmen dynamischer
 Absicherungsstrategien müssen bei der Quantifizierung des zusätzlichen
 Ausfall- und Migrationsrisikos berücksichtigt werden.
 
-
 #### § 318d Zusätzliches Ausfall- und Migrationsrisiko – Validierung
 
 (1) Das Institut muss über geeignete Verfahren zur Validierung des
@@ -17352,7 +16624,6 @@ Ansatzes nach § 318a Absatz 1 verfügen. Insbesondere muss es
 
 (2) Der Ansatz nach § 318a Absatz 1 muss mit den Methoden des
 institutsinternen Risikomanagements im Einklang stehen.
-
 
 #### § 318e Berücksichtigung aller Wertänderungsrisiken beim Correlation Trading
 
@@ -17452,14 +16723,9 @@ mindestens wöchentlich berechnen.
 
 (7) § 318a Absatz 7 gilt entsprechend.
 
-
 ## Teil 5 - Offenlegung
 
-
-
 ### Kapitel 1 - Allgemeine Vorschriften zum Anwendungsbereich, zum Offenlegungsmedium und zum Offenlegungsintervall
-
-
 
 #### § 319 Anwendungsbereich Offenlegung
 
@@ -17485,7 +16751,6 @@ gleichwertig sind.
 (4) Die Offenlegungsvorschriften dieses Teils finden auf
 Wohnungsunternehmen mit Spareinrichtung keine Anwendung.
 
-
 #### § 320 Offenlegungsmedium
 
 (1) Die Offenlegungspflichtigen haben die nach diesem Teil unter
@@ -17505,7 +16770,6 @@ Bekanntmachung zu unterrichten. Eine Übermittlung der offenzulegenden
 Informationen erfolgt nur auf schriftliches Verlangen der
 Bundesanstalt.
 
-
 #### § 321 Offenlegungsintervall
 
 (1) Die Offenlegung nach diesem Teil hat jährlich zu erfolgen. Die
@@ -17516,10 +16780,7 @@ Geschäfte sowie der Marktaktivität des Instituts angemessen ist.
 (2) Die Offenlegung soll nach Maßgabe der Verfügbarkeit der Daten und
 der externen Rechnungslegung zeitnah erfolgen.
 
-
 ### Kapitel 2 - Allgemeine inhaltliche Anforderungen der Offenlegung
-
-
 
 #### § 322 Risikomanagementbeschreibung in Bezug auf einzelne Risiken
 
@@ -17541,10 +16802,6 @@ Grundsätze des Risikomanagements zu beschreiben:
 4.  Grundzüge der Absicherung oder Minderung von Risiken sowie die
     Strategien und Prozesse zur Überwachung der laufenden Wirksamkeit der
     zur Risikoabsicherung und -minderung getroffenen Maßnahmen.
-
-
-
-
 
 #### § 323 Angaben zum Anwendungsbereich dieser Verordnung
 
@@ -17593,7 +16850,6 @@ Zusammenfassung nach § 10a des Kreditwesengesetzes einbezogen sind,
 sondern deren Beteiligung vom haftenden Eigenkapital abgezogen wurde,
 offenzulegen; diese Tochtergesellschaften sind namentlich aufzuführen.
 
-
 #### § 324 Eigenmittelstruktur
 
 (1) In qualitativer Hinsicht sind zusammenfassende Angaben zu den
@@ -17625,10 +16881,6 @@ insbesondere über Kapital, für das ein Tilgungsanreiz vereinbart ist.
 4.  der Gesamtbetrag des modifizierten verfügbaren Eigenkapitals nach § 10
     Abs. 1d des Kreditwesengesetzes und der anrechenbaren Drittrangmittel
     nach § 10 Abs. 2c des Kreditwesengesetzes.
-
-
-
-
 
 #### § 325 Angemessenheit der Eigenmittelausstattung
 
@@ -17670,10 +16922,6 @@ offenzulegen.
     nach § 2 Absatz 6 Satz 2 der signifikanten
     Institutstochtergesellschaften auf Einzelebene oder
     unterkonsolidierter Ebene.
-
-
-
-
 
 #### § 326 Offenlegungsanforderungen zu derivativen Adressenausfallrisikopositionen und Aufrechnungspositionen
 
@@ -17725,10 +16973,6 @@ offenzulegen.
 5.  der Faktor nach § 223 Abs. 6 für den Fall, dass dem Kreditinstitut von
     den zuständigen Behörden die Erlaubnis zur Schätzung dieses Faktors
     erteilt worden ist.
-
-
-
-
 
 #### § 327 Adressenausfallrisiko: Allgemeine Ausweispflichten für alle Institute
 
@@ -17794,10 +17038,6 @@ erfolgt.
     wechselkursbedingten und sonstigen Veränderungen sowie des Endbestands
     der Berichtsperiode.
 
-
-
-
-
 #### § 328 Adressenausfallrisiko: Offenlegung bei KSA-Forderungsklassen
 
 (1) In qualitativer Hinsicht sind offenzulegen:
@@ -17824,7 +17064,6 @@ aufsichtsrechtlichen Zuordnung von Bonitätsbeurteilungen zu
 Bonitätsstufen einer bestimmten Bonitätsstufe zugeordnet sind oder von
 den Eigenmitteln abgezogen wurden, offenzulegen.
 
-
 #### § 329 Adressenausfallrisiko: Weitere Offenlegungsanforderungen
 
 (1) Institute, die ihre risikogewichteten Positionswerte für IRBA-
@@ -17838,7 +17077,6 @@ Positionswerten für IRBA-Beteiligungspositionen das einfache IRBA-
 Risikogewicht für Beteiligungen verwenden, haben die Positionswerte
 offenzulegen, die jeweils den einfachen IRBA-Risikogewichtskategorien
 nach § 98 zugeordnet sind.
-
 
 #### § 330 Offenlegungsanforderungen zum Marktrisiko
 
@@ -17938,7 +17176,6 @@ zusätzlich der höchste, der niedrigste und der letzte dieser Beträge
 sowie der Durchschnitt dieser Beträge über diesen Zeitraum
 offenzulegen. Absatz 4 Satz 2 gilt entsprechend.
 
-
 #### § 331 Offenlegungsanforderungen zum operationellen Risiko
 
 (1) Das Verfahren zur Bestimmung des bankaufsichtlichen
@@ -17948,7 +17185,6 @@ Anrechnungsbetrags für das operationelle Risiko ist offenzulegen.
 dieses Verfahren und die darin berücksichtigten internen und externen
 Faktoren zu erläutern. Im Falle der teilweisen Anwendung verschiedener
 Verfahren sind die jeweiligen Anwendungsbereiche offenzulegen.
-
 
 #### § 332 Offenlegungsanforderungen für Beteiligungen im Anlagebuch
 
@@ -17985,13 +17221,6 @@ Im Bezug auf die Beteiligungen im Anlagebuch sind offenzulegen:
         die latenten Neubewertungsgewinne oder -verluste und die davon im
         Kern- oder Ergänzungskapital berücksichtigten Beträge.
 
-
-
-
-
-
-
-
 #### § 333 Offenlegung des Zinsänderungsrisikos im Anlagebuch
 
 (1) In qualitativer Hinsicht sind die Art des Zinsänderungsrisikos im
@@ -18006,7 +17235,6 @@ Unternehmensleitung zur Messung des Zinsänderungsrisikos im Anlagebuch
 der Zuwachs oder der Rückgang der Erträge oder des ökonomischen Wertes
 oder einer anderen relevanten Bezugsgröße im Falle eines Zinsschocks,
 gegebenenfalls aufgeteilt nach Währungen, offenzulegen.
-
 
 #### § 334 Offenlegungsanforderungen bei Verbriefungen
 
@@ -18226,13 +17454,7 @@ offenzulegen:
     ob sie Teil von Verbriefungstransaktionen mit oder ohne
     Forderungsübertragung sind und nach Art der verbrieften Forderungen.
 
-
-
-
-
 ### Kapitel 3 - Qualifizierende Anforderungen bei der Nutzung besonderer Instrumente oder Methoden
-
-
 
 #### § 335 Adressenausfallrisiko: Offenlegung bei Forderungsklassen, für die der IRBA verwendet wird
 
@@ -18377,10 +17599,6 @@ offenzulegen:
     Vergleich zu den jeweiligen Schätzwerten, die nach Nummer 2
     offenzulegen sind, anzugeben.
 
-
-
-
-
 #### § 336 Kreditrisikominderungstechniken: Offenlegung für KSA- und IRBA-Positionen
 
 (1) Institute, die Kreditrisikominderungstechniken für die Ermittlung
@@ -18451,7 +17669,6 @@ folgenden Informationen offenzulegen:
 Für IRBA-Beteiligungspositionen ist dies getrennt für alle drei der in
 § 78 Absatz 2 aufgeführten Ansätze offenzulegen.
 
-
 #### § 337 Instrumente zur Verlagerung operationeller Risiken
 
 Institute, die fortgeschrittene Messansätze zur Berechnung des
@@ -18460,10 +17677,7 @@ Beschreibung der Nutzung von Versicherungen und anderen Instrumenten
 zur Risikoverlagerung zum Zwecke der Verringerung des operationellen
 Risikos offenzulegen.
 
-
 ## Teil 6 - Übergangs- und Schlussbestimmungen
-
-
 
 ### § 338 Übergangsbestimmungen für die Parameterschätzung
 
@@ -18547,7 +17761,6 @@ Land, welches das Wahlrecht nach Artikel 154 Abs. 7 der Richtlinie
 2006/48/EG ausübt, bei der Definition des Ausfalls anstelle der in §
 125 Abs. 1 Satz 1 Nr. 2 genannten Frist von 90 Kalendertagen auf die
 von den zuständigen Behörden vorgegebene Frist abstellen.
-
 
 ### § 339 Übergangsbestimmungen für die Eigenmittelausstattung und -berechnung
 
@@ -18794,11 +18007,9 @@ Art ihrer Referenzverbindlichkeiten gruppieren und der Deutschen
 Bundesbank für jede Gruppe die Summe der Berücksichtigungsbeträge über
 alle Verbriefungspositionen melden, die der Gruppe zugerechnet sind.
 
-
 ### § 340 Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2007 in Kraft.
-
 
 ### Anlage 1
 
@@ -21186,10 +20397,6 @@ Variablen N und ELGD sind wie folgt zu bestimmen:
     Bemessungsgrundlage, die sich für diese Verbriefungsposition ergäbe,
     wenn sie einen vollständigen Anteil an dieser Verbriefungstranche
     hätte.
-
-
-
-
 
 ### Anlage 3 (zu § 6)
 

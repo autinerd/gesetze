@@ -26,7 +26,6 @@ in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die
 Berufsschule werden demnächst als Beilage im Bundesanzeiger
 veröffentlicht.
 
-
 ## Eingangsformel
 
 Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des
@@ -37,18 +36,15 @@ Verbindung mit § 1 des Zuständigkeitsanpassungsgesetzes vom 16. August
 und Technologie im Einvernehmen mit dem Bundesministerium für Bildung
 und Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Verfahrensmechaniker für Kunststoff- und
 Kautschuktechnik/Verfahrensmechanikerin für Kunststoff- und
 Kautschuktechnik wird staatlich anerkannt.
 
-
 ## § 2 Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Ausbildungsberufsbild
 
@@ -130,10 +126,6 @@ Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 24. Qualitätsmanagement.
 
-
-
-
-
 ## § 4 Ausbildungsrahmenplan
 
 (1) Die Fertigkeiten, Kenntnisse und Fähigkeiten nach § 3 sollen unter
@@ -154,13 +146,11 @@ selbstständiges Planen, Durchführen und Kontrollieren einschließt.
 Diese Befähigung ist auch in den Prüfungen nach den §§ 7 und 8
 nachzuweisen.
 
-
 ## § 5 Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des
 Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan
 zu erstellen.
-
 
 ## § 6 Schriftlicher Ausbildungsnachweis
 
@@ -169,7 +159,6 @@ führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
 Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
 Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
 durchzusehen.
-
 
 ## § 7 Zwischenprüfung
 
@@ -218,10 +207,6 @@ beziehen sollen, aus folgenden Gebieten schriftlich lösen:
 
 
 6.  Eigenschaften und Verwendung von Werk- und Hilfsstoffen.
-
-
-
-
 
 ## § 8 Abschlussprüfung
 
@@ -400,14 +385,12 @@ der Prüfung im Durchschnitt der Prüfungsbereiche Verfahrenstechnik und
 Technische Kommunikation mindestens ausreichende Leistungen erbracht
 sind.
 
-
 ## § 9 Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
 bestehen, können unter Anrechnung der bisher zurückgelegten
 Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt
 werden, wenn die Vertragsparteien dies vereinbaren.
-
 
 ## § 10 Inkrafttreten, Außerkrafttreten
 

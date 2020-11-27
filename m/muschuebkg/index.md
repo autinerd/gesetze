@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   RGBl II: 1927, 497
 
-
-
 ## § 1
 
 ... Für die Durchführung des Übereinkommens sind das Zweite Gesetz
@@ -25,7 +23,6 @@ Fundstelle
 9\. Juli 1926 (Reichsgesetzbl. I S. 407) sowie das
 Gesetz über die Beschäftigung vor und nach der Niederkunft
 maßgebend.
-
 
 ## § 2
 

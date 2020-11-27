@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1980, 1446
 
-
-
 ## Eingangsformel
 
 Auf Grund des Artikels 3 des Gesetzes vom 22. Juni 1954 über den
@@ -28,7 +26,6 @@ und Befreiungen an andere zwischenstaatliche Organisationen (BGBl.
 1954 II S. 639), der durch das Gesetz vom 16. August 1980 (BGBl. II S.
 941) neugefaßt wurde, verordnet die Bundesregierung mit Zustimmung des
 Bundesrates:
-
 
 ## § 1
 
@@ -42,7 +39,6 @@ Sicherung der Luftfahrt "EUROCONTROL" (BGBl. 1972 II S. 814) von der
 Einkommensteuer befreit. Das Protokoll wird nachstehend
 veröffentlicht.
 
-
 ## § 2
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
@@ -53,7 +49,6 @@ Nationen vom 21. November 1947 und über die Gewährung von Vorrechten
 und Befreiungen an andere zwischenstaatliche Organisationen, der durch
 das Gesetz vom 28. Februar 1964 (BGBl. II S. 187) neugefaßt wurde,
 auch im Land Berlin.
-
 
 ## § 3
 

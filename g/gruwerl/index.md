@@ -18,18 +18,15 @@ Fundstelle
 Geändert durch
 :   Erlass v. 8.12.1965 I 1898
 
-
 ## § 1
 
 Als Anerkennung für besondere persönliche Verdienste im
 Grubenrettungswesen stifte ich das Grubenwehr-Ehrenzeichen.
 
-
 ## § 2
 
 Diese Auszeichnung wird als Grubenwehr-Ehrenzeichen in Silber und
 Grubenwehr-Ehrenzeichen in Gold verliehen.
-
 
 ## § 3
 
@@ -72,13 +69,6 @@ b)  Mit dem Grubenwehr-Ehrenzeichen in Gold können ausgezeichnet werden:
         Rettungstat eine Auszeichnung mit dem Verdienstorden der
         Bundesrepublik Deutschland rechtfertigt.
 
-
-
-
-
-
-
-
 ## § 4
 
 (1) Das Grubenwehr-Ehrenzeichen besteht aus einer runden silbernen
@@ -103,7 +93,6 @@ Gold handelt.
 (3) Gestaltung und Größe der Medaillen sowie Breite der Bänder werden
 auf einer Mustertafel (s. Anlage) festgelegt.
 
-
 ## § 5
 
 (1) Über die Verleihung des Grubenwehr-Ehrenzeichens erhält der
@@ -113,13 +102,11 @@ Bundespräsidenten.
 (2) Das Grubenwehr-Ehrenzeichen geht in das Eigentum des Beliehenen
 über. Eine Rückgabepflicht seiner Hinterbliebenen besteht nicht.
 
-
 ## § 6
 
 Einzelheiten über die Einreichung und Behandlung der Vorschläge für
 das Grubenwehr-Ehrenzeichen werden in besonderen
 Durchführungsbestimmungen geregelt.
-
 
 ## Schlußformel
 

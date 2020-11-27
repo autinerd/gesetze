@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1981, 88
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
@@ -25,17 +23,14 @@ August 1976 (BGBl. I S. 2525) geändert worden ist, wird im
 Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft
 verordnet:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufs
 
 Der Ausbildungsberuf Fotolaborant/Fotolaborantin wird staatlich
 anerkannt.
 
-
 ## § 2 Ausbildungsdauer
 
 Die Ausbildung dauert zwei Jahre.
-
 
 ## § 3 Ausbildungsberufsbild
 
@@ -81,10 +76,6 @@ Fertigkeiten und Kenntnisse:
 
 13. Fertigmachen der Aufträge.
 
-
-
-
-
 ## § 4 Ausbildungsrahmenplan
 
 Die in § 3 genannten Fertigkeiten und Kenntnisse sollen nach der in
@@ -95,12 +86,10 @@ zeitliche Gliederung des Ausbildungsinhalts ist insbesondere zulässig,
 soweit eine berufsfeldbezogene Grundbildung vorausgegangen ist oder
 betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
 ## § 5 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 6 Berichtsheft
 
@@ -108,7 +97,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 7 Zwischenprüfung
 
@@ -172,7 +160,6 @@ beziehen.
 (5) Soweit die schriftliche Prüfung in programmierter Form
 durchgeführt wird, kann die in Absatz 4 genannte Prüfungsdauer
 unterschritten werden.
-
 
 ## § 8 Abschlußprüfung
 
@@ -311,27 +298,22 @@ der Kenntnisprüfung sowie innerhalb der Kenntnisprüfung im
 Prüfungsfach Technologie mindestens ausreichende Leistungen erbracht
 sind.
 
-
 ## § 9
 
 -
-
 
 ## § 10 Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 112 des Berufsbildungsgesetzes auch im Land Berlin.
 
-
 ## § 11 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 1981 in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesminister für Wirtschaft
-
 
 ## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Fotolaboranten/zur Fotolaborantin
 
@@ -861,10 +843,6 @@ Der Bundesminister für Wirtschaft
 *    *   g)
 
     *   Filme und Bilder verpacken
-
-
-
-
 
 ## Anhang EV Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III (BGBl. II 1990, 889, 1135)
 

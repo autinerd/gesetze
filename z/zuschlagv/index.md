@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 2 V v. 20.12.1984 I 1727
 
-
 ## Eingangsformel
 
 Auf Grund des § 10 Abs. 2 Nr. 3 des Gesetzes über das Kreditwesen vom
@@ -28,7 +27,6 @@ Verordnung zur Übertragung der Befugnis zum Erlaß von
 Rechtsverordnungen auf das Bundesaufsichtsamt für das Kreditwesen vom
 19\. Januar 1962 (Bundesgesetzbl. I S. 17) wird nach Anhörung der
 Deutschen Bundesbank verordnet:
-
 
 ## § 1
 
@@ -109,10 +107,6 @@ Eigenkapitals (§ 10 Abs. 2 Satz 1 Nr. 3, Abs. 3 und 7 des Gesetzes
 
     *   25,0 vom Hundert.
 
-
-
-
-
 ## § 2
 
 Für Zentralkassen in der Rechtsform der eingetragenen Genossenschaft
@@ -121,18 +115,15 @@ Haftsummen, jedoch nicht mehr als ein Viertel des ohne den Zuschlag
 vorhandenen haftenden Eigenkapitals (§ 10 Abs. 2 Satz 1 Nr. 3, Abs. 3
 und 7 des Gesetzes über das Kreditwesen). § 1 Abs. 2 ist anzuwenden.
 
-
 ## § 3
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit § 64 des
 Gesetzes über das Kreditwesen auch im Land Berlin.
 
-
 ## § 4
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
-
 
 ## Schlußformel
 

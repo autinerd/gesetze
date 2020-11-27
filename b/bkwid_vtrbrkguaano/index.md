@@ -18,7 +18,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 552
 
-
 ## I.
 
 Nach § 126 Absatz 3 Satz 2 des Bundesbeamtengesetzes wird dem
@@ -31,7 +30,6 @@ Widerspruch angefochtenen Verwaltungsakt erlassen hat. Das
 Bundeskanzleramt behält sich vor, im Einzelfall über Widersprüche
 selbst zu entscheiden.
 
-
 ## II.
 
 Nach § 127 Absatz 3 Satz 1 des Bundesbeamtengesetzes wird dem
@@ -40,11 +38,9 @@ verwaltungsgerichtlichen Verfahren in Angelegenheiten nach der Nummer
 I dieser Anordnung übertragen. Das Bundeskanzleramt behält sich vor,
 im Einzelfall die Prozessvertretung selbst wahrzunehmen.
 
-
 ## III.
 
 Diese Anordnung ist mit Wirkung vom 1. April 2011 anzuwenden.
-
 
 ## Schlussformel
 

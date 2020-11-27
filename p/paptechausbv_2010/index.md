@@ -25,7 +25,6 @@ Geändert durch
     Berufsschule werden demnächst als Beilage im Bundesanzeiger
     veröffentlicht.
 
-
 ## Eingangsformel
 
 Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des
@@ -35,17 +34,14 @@ geändert worden ist, verordnet das Bundesministerium für Wirtschaft
 und Technologie im Einvernehmen mit dem Bundesministerium für Bildung
 und Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Papiertechnologe/Papiertechnologin wird nach § 4
 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
-
 ## § 2 Dauer der Berufsausbildung
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Struktur der Berufsausbildung
 
@@ -56,10 +52,6 @@ Die Berufsausbildung gliedert sich in
 
 2.  zwei im Ausbildungsvertrag festzulegende Wahlqualifikationen nach § 4
     Absatz 2 Abschnitt B.
-
-
-
-
 
 ## § 4 Ausbildungsrahmenplan, Ausbildungsberufsbild
 
@@ -221,10 +213,6 @@ gliedert sich wie folgt (Ausbildungsberufsbild):
 
     *   Qualitätssicherung.
 
-
-
-
-
 ## § 5 Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
@@ -245,7 +233,6 @@ Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
 Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
 durchzusehen.
 
-
 ## § 6 Abschlussprüfung
 
 (1) Die Abschlussprüfung besteht aus den zeitlich auseinanderfallenden
@@ -264,7 +251,6 @@ Feststellung der Berufsbefähigung erforderlich ist.
 (2) Bei der Ermittlung des Gesamtergebnisses werden Teil 1 der
 Abschlussprüfung mit 30 Prozent und Teil 2 der Abschlussprüfung mit 70
 Prozent gewichtet.
-
 
 ## § 7 Teil 1 der Abschlussprüfung
 
@@ -347,10 +333,6 @@ folgende Vorgaben:
 
 
 3.  die Prüfungszeit beträgt 60 Minuten.
-
-
-
-
 
 ## § 8 Teil 2 der Abschlussprüfung
 
@@ -463,10 +445,6 @@ folgende Vorgaben:
 
 3.  die Prüfungszeit beträgt 60 Minuten.
 
-
-
-
-
 ## § 9 Gewichtungs- und Bestehensregelung
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
@@ -539,7 +517,6 @@ Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und
 das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu
 gewichten.
 
-
 ## § 10 Fortsetzung der Berufsausbildung
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
@@ -548,14 +525,12 @@ Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt
 werden, wenn die Vertragsparteien dies vereinbaren und noch keine
 Zwischenprüfung abgelegt wurde.
 
-
 ## § 11 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2010 in Kraft. Gleichzeitig tritt
 die Verordnung über die Berufsausbildung zum Papiertechnologen/zur
 Papiertechnologin vom 26. Mai 2005 (BGBl. I S. 1454, 2261; 2006 I S.
 1293) außer Kraft.
-
 
 ## Anlage (zu § 4 Absatz 1 Satz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Papiertechnologen/zur Papiertechnologin
 
@@ -1224,9 +1199,6 @@ und Fähigkeiten in den Wahlqualifikationen
 
     *
     *   13
-
-
-
 
 ## Abschnitt C: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten
 

@@ -16,11 +16,7 @@ Ausfertigungsdatum
 Fundstelle
 :   RGBl II: 1929, 759
 
-
-
 ## (XXXX) §§ 1 und 2
-
-
 
 ## § 3
 
@@ -28,7 +24,6 @@ Fundstelle
 Seemannsordnung              und das Handelsgesetzbuch maßgebend.
 
 (2)
-
 
 ## § 4
 

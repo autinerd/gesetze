@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 Abs. 85 G v. 22.12.2011 I 3044
 
-
 ## Abschnitt 1 - Allgemeine Bestimmungen
-
-
 
 ### § 1 Anwendungsbereich des Gesetzes
 
@@ -62,10 +59,6 @@ zu fördern, dass
 
 
 4.  eine genetische Vielfalt erhalten wird.
-
-
-
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -192,13 +185,7 @@ Im Sinne dieses Gesetzes sind
 
 19. Drittland: Staat, der nicht Mitgliedstaat oder Vertragsstaat ist.
 
-
-
-
-
 ## Abschnitt 2 - Zuchtorganisationen, Leistungsprüfungen und Zuchtwertschätzung
-
-
 
 ### § 3 Anerkennung
 
@@ -264,10 +251,6 @@ diese Rasse
 2.  mindestens seit 1949 auf Grund dort vorhandener Tierbestände in
     Deutschland ein Zuchtbuch geführt und ein eigenständiges Zuchtprogramm
     durchgeführt wird.
-
-
-
-
 
 ### § 4 Verfahren
 
@@ -368,7 +351,6 @@ auf das Gebiet eines anderen Landes, eines anderen Mitgliedstaates
 oder eines anderen Vertragsstaates erstreckt, gilt Absatz 4
 entsprechend.
 
-
 ### § 5 Befristung, Entzug der Anerkennung, Mitteilungen und besondere Regelungen
 
 (1) Die Anerkennung endet zehn Jahre nach Ablauf des Jahres, in dem
@@ -420,7 +402,6 @@ Zuchtprogramms und ihrer Zuchtbuchordnung oder Zuchtregisterordnung zu
 beachten, die nach § 4 Abs. 1 Satz 1 Nr. 4, 6, 7 und 8 Buchstabe a
 Gegenstand der Anerkennung sind.
 
-
 ### § 6 Recht auf Mitgliedschaft und Eintragung
 
 (1) Jeder Züchter, der zur Mitwirkung an einwandfreier züchterischer
@@ -441,7 +422,6 @@ Mitgliedschaft. Jeder Züchter muss jedoch mindestens die Möglichkeit
 haben, ein von ihm gezüchtetes Pferd in das Zuchtbuch eintragen und
 darin vermerken und an den Leistungsprüfungen teilnehmen zu lassen
 sowie Zuchtbescheinigungen von der Züchtervereinigung zu erhalten.
-
 
 ### § 7 Leistungsprüfungen, Zuchtwertschätzung
 
@@ -504,13 +484,6 @@ Zuchtwertschätzungen
 
     b)  den jeweiligen Anforderungen der in Anlage 3 genannten Rechtsakte der
         Europäischen Gemeinschaft oder der Europäischen Union entsprechen.
-
-
-
-
-
-
-
 
 ### § 8 Ermächtigungen
 
@@ -620,10 +593,7 @@ In der Rechtsverordnung nach Satz 1 Nr. 1 kann bestimmt werden, dass
 soweit diese die Gewähr für eine ordnungsgemäße Erfüllung der Aufgaben
 bieten.
 
-
 ## Abschnitt 3 - Erhaltung der genetischen Vielfalt
-
-
 
 ### § 9 Monitoring
 
@@ -662,7 +632,6 @@ Personenbezogene Daten dürfen nicht übermittelt werden. Die
 Bundesanstalt für Landwirtschaft und Ernährung veröffentlicht die
 Ergebnisse des Monitoring.
 
-
 ### § 10 Ermächtigungen
 
 Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit
@@ -689,7 +658,6 @@ regeln, unter denen genetisches Material einer nationalen Sammlung zur
 Langzeitlagerung zuzurechnen ist und als solches verwendet werden
 darf.
 
-
 ### § 11 Erlass von Verwaltungsvorschriften
 
 Die zur Durchführung des Monitoring erforderlichen Vorschriften
@@ -699,10 +667,7 @@ im Benehmen mit einem Beirat aus Vertretern der Länder, der Verbände
 und der beteiligten Wirtschaftskreise vorbereitet werden. Der Beirat
 wird vom Bundesministerium berufen.
 
-
 ## Abschnitt 4 - Anbieten, Abgabe und Verwendung von Zuchttieren, Samen, Eizellen und Embryonen
-
-
 
 ### § 12 Zuchttiere
 
@@ -729,10 +694,6 @@ Abweichend von
 2.  Satz 1 Nr. 2 muss ein weibliches Zuchttier bei der Abgabe im Inland
     nicht von einer Zucht- oder Herkunftsbescheinigung begleitet sein,
     wenn der Abnehmer auf die Bescheinigung verzichtet hat.
-
-
-
-
 
 ### § 13 Abgabe von Samen
 
@@ -816,7 +777,6 @@ auch außerhalb der Besamungsstation gewonnen werden darf, wenn
 nachgewiesen ist, dass die tierseuchenhygienischen Untersuchungen nach
 § 17 Abs. 7 Satz 2 durchgeführt worden sind.
 
-
 ### § 14 Verwendung des Samens
 
 (1) Samen darf zur Besamung nur verwendet werden durch
@@ -877,7 +837,6 @@ Verlangen des Tierhalters entweder diesem eine Abschrift der Zucht-
 oder Herkunftsbescheinigung auszuhändigen oder diese Abschrift sowie
 die Daten der in Satz 1 sowie Absatz 3 Satz 1 benannten Aufzeichnungen
 an eine vom Tierhalter benannte Zuchtorganisation zu übermitteln.
-
 
 ### § 15 Abgabe von Eizellen und Embryonen
 
@@ -951,7 +910,6 @@ erfüllt.
 Fachagrarwirten für Besamungswesen und nur im Auftrag einer Embryo-
 Entnahmeeinheit gewonnen oder behandelt werden.
 
-
 ### § 16 Verwendung von Eizellen und Embryonen
 
 (1) Eizellen und Embryonen dürfen nur von Tierärzten, Fachagrarwirten
@@ -989,7 +947,6 @@ drei Jahre aufbewahrt werden.
 (3) Die Embryo-Entnahmeeinheit händigt dem Halter des Empfängertieres
 die Zucht- oder Herkunftsbescheinigung oder eine Abschrift der Zucht-
 oder Herkunftsbescheinigung aus.
-
 
 ### § 17 Besamungsstationen und Embryo-Entnahmeeinheiten
 
@@ -1080,7 +1037,6 @@ Embryo-Entnahmeeinheit hat über die Abgabe der jeweiligen Erzeugnisse
 unverzüglich Aufzeichnungen nach Maßgabe einer Rechtsverordnung nach §
 18 Abs. 1 Nr. 4 zu machen, sofern eine solche Verpflichtung nicht
 bereits nach tierseuchenrechtlichen Vorschriften besteht.
-
 
 ### § 18 Ermächtigungen
 
@@ -1177,13 +1133,7 @@ Zustimmung des Bundesrates
     für Lehrgänge und Kurzlehrgänge über künstliche Besamung und
     Prüfungsordnungen für Lehrgänge über Embryotransfer zu erlassen.
 
-
-
-
-
 ## Abschnitt 5 - Innergemeinschaftliches Verbringen, Einfuhr, Ausfuhr
-
-
 
 ### § 19 Drittlandseinfuhr
 
@@ -1235,7 +1185,6 @@ Vorschriften dieses Gesetzes zur Abgabe von Zuchttieren, Samen,
 Eizellen oder Embryonen erforderlichen Zucht- oder
 Herkunftsbescheinigungen gleich.
 
-
 ### § 20 Ermächtigungen
 
 Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit
@@ -1258,10 +1207,6 @@ und dabei insbesondere
     Einvernehmen mit dem Bundesministerium der Finanzen bekannt gemacht
     hat.
 
-
-
-
-
 ### § 21 Mitwirkung des Bundesministeriums der Finanzen und der Zollbehörden
 
 (1) Das Bundesministerium der Finanzen und die von ihm bestimmten
@@ -1278,10 +1223,7 @@ Geschäftspapiere und sonstige Unterlagen sowie zur Duldung von
 Besichtigungen und Entnahmen unentgeltlicher Muster und Proben
 vorsehen.
 
-
 ## Abschnitt 6 - Überwachung, Außenverkehr, Bußgeldvorschriften
-
-
 
 ### § 22 Überwachung, Ausnahmen
 
@@ -1375,10 +1317,6 @@ Rechtsverordnungen genehmigen
 
 3.  für Maßnahmen zur Erhaltung von Genreserven.
 
-
-
-
-
 ### § 23 Auskünfte zwischen den Behörden, Datenübermittlung und Außenverkehr
 
 (1) Die zuständigen Behörden
@@ -1420,7 +1358,6 @@ Landesbehörde dieser die Befugnis übertragen. Die obersten
 Landesbehörden können die Befugnis nach den Sätzen 2 und 3 auf andere
 Behörden übertragen.
 
-
 ### § 24 Bekanntmachung
 
 Die zuständigen Behörden teilen dem Bundesministerium zum Zwecke der
@@ -1431,7 +1368,6 @@ erteilt worden ist, mit. Das Bundesministerium macht auf Grund der
 Mitteilungen der zuständigen Behörden die in Satz 1 bezeichneten
 Zuchtorganisationen, Besamungsstationen und Embryo-Entnahmeeinheiten
 im Bundesanzeiger bekannt.
-
 
 ### § 25 Schiedsverfahren
 
@@ -1453,7 +1389,6 @@ Sinne des § 1065 der Zivilprozessordnung das zuständige
 Oberverwaltungsgericht. Abweichend von § 1059 Abs. 3 Satz 1 der
 Zivilprozessordnung muss der Aufhebungsantrag innerhalb eines Monats
 bei Gericht eingereicht werden.
-
 
 ### § 26 Bußgeldvorschriften
 
@@ -1541,10 +1476,7 @@ Ordnungswidrigkeit nach Absatz 1 Nr. 4, 6, 11, 13 oder 14 bezieht,
 können eingezogen werden. § 23 des Gesetzes über Ordnungswidrigkeiten
 ist anzuwenden.
 
-
 ## Abschnitt 7 - Schlussvorschriften
-
-
 
 ### § 27 Rechtsverordnungen in besonderen Fällen
 
@@ -1566,7 +1498,6 @@ Zustimmung des Bundesrates verlängert werden.
 Landesregierungen zum Erlass von Rechtsverordnungen befugt sind,
 können sie die Ermächtigungen durch Rechtsverordnung auf die
 zuständigen obersten Landesbehörden übertragen.
-
 
 ### § 28 Übergangsvorschriften
 
@@ -1620,7 +1551,6 @@ Artikel 194 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407)
 geändert worden ist, erteilte Ausnahmen gelten als Erlaubnisse im
 Sinne des § 22 Abs. 6 dieses Gesetzes.
 
-
 ### § 29 Befreiung vom Preisbindungsverbot nach dem Gesetz gegen Wettbewerbsbeschränkungen
 
 Nach diesem Gesetz anerkannte Zuchtorganisationen dürfen Abnehmer von
@@ -1631,7 +1561,6 @@ die gleiche Bindung bei der Weiterveräußerung aufzuerlegen. § 1 des
 Gesetzes gegen Wettbewerbsbeschränkungen gilt insoweit nicht. Im
 Übrigen bleiben die Vorschriften des Gesetzes gegen
 Wettbewerbsbeschränkungen unberührt.
-
 
 ### § 30 Ermächtigung zur Aufhebung von Rechtsvorschriften und zur Anpassung an das Unionsrechts
 
@@ -1652,13 +1581,11 @@ Zustimmung des Bundesrates Verweisungen auf Vorschriften des
 Unionsrechts in diesem Gesetz zu ändern, soweit es zur Anpassung an
 Änderungen dieser Vorschriften erforderlich ist.
 
-
 ### § 31 Verkündung von Rechtsverordnungen
 
 Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz
 1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger
 verkündet werden.
-
 
 ### Anlage 1 (zu § 3 Abs. 1 und § 8 Abs. 1 Nr. 1) Anforderungen an die Anerkennung von Zuchtorganisationen
 
@@ -1742,9 +1669,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote )
 
 
 *    *
-
-
-
 
 ### Anlage 2 (zu § 4 Abs. 1 Nr. 7 Buchstabe b sowie Nr. 8 Buchstabe a und § 6 Abs. 2) Anforderungen an Zuchtbücher und Zuchtregister und an die Eintragung in Zuchtbücher und Zuchtregister
 
@@ -1863,9 +1787,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote )
 
     *
 
-
-
-
 ### Anlage 3 (zu § 7 Abs. 1 und 4 Nr. 2, § 8 Abs. 1 Nr. 2, § 13 Abs. 3 Satz 1 Nr. 2 Buchstabe a und § 19 Abs. 1 Satz 3) Anforderungen an Leistungsprüfungen und Zuchtwertschätzung
 
    (Fundstelle des Originaltextes: BGBl. I 2006, 3309)
@@ -1946,9 +1867,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote )
 
     *
     *
-
-
-
 
 ### Anlage 4 (zu § 12 Satz 1 Nr. 2, § 13 Abs. 3 Satz 1 Nr. 4 und § 15 Abs. 4) Anforderungen an Zuchtbescheinigungen und Herkunftsbescheinigungen
 
@@ -2070,10 +1988,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote )
         Kommission 96/79/EG vom 12. Januar 1996 mit Zuchtbescheinigungen für
         Sperma, Eizellen und Embryonen von eingetragenen Equiden (ABl. EG Nr.
         L 19 S. 41).
-
-
-
-
 
 ### Anlage 5 (zu § 19 Abs. 1 Nr. 1 sowie Nr. 2 Buchstabe b) Anforderungen an Bescheinigungen für Tiere, Samen, Eizellen und Embryonen bei der Drittlandseinfuhr
 

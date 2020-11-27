@@ -15,19 +15,15 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1986, 993
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 26 Abs. 4 Nr. 2 des Bundesbesoldungsgesetzes in der
 Fassung der Bekanntmachung vom 13. November 1980 (BGBl. I S. 2081)
 verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
-
 ## Art 1
 
 -
-
 
 ## Art 2
 
@@ -37,12 +33,10 @@ dieser Verordnung in der jeweils höchsten Besoldungsgruppe ergibt,
 darf bis zu einer Anpassung der in dieser Verordnung bestimmten
 Bewertungsmerkmale nicht überschritten werden.
 
-
 ## Art 3
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 82 des Bundesbesoldungsgesetzes auch im Land Berlin.
-
 
 ## Art 4
 

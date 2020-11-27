@@ -21,10 +21,7 @@ Neugefasst durch
 Geändert durch
 :   Art. 12 V v. 13.12.2011 I 2720
 
-
 ## I. - Begriffsbestimmungen
-
-
 
 ### § 1
 
@@ -74,13 +71,7 @@ freier Schweinebestand ein Bestand mit Schweinen, der
     Verbraucherschutz (Bundesministerium) im Bundesanzeiger bekannt
     gemacht worden ist, als frei von Aujeszkyscher Krankheit gilt.
 
-
-
-
-
 ## Ia. - Freiheit von Aujeszkyscher Krankheit
-
-
 
 ### § 2
 
@@ -88,14 +79,9 @@ Zur Aufrechterhaltung des Status als frei von Aujeszkyscher Krankheit
 geltendes Gebiet im Sinne des § 1 Abs. 2 Nr. 2 sind die Untersuchungen
 nach Anlage 2 vorzunehmen.
 
-
 ## II. - Schutzmaßregeln gegen die Aujeszkysche Krankheit bei Schweinen
 
-
-
 ### 1. - Allgemeine Schutzmaßregeln
-
-
 
 #### § 3
 
@@ -147,7 +133,6 @@ Seuchenbekämpfung erforderlich ist, für Schweine eines bestimmten
 Bestandes oder Gebietes eine amtstierärztliche Untersuchung
 einschließlich der Entnahme von Blutproben anordnen.
 
-
 #### § 3a
 
 Der Besitzer hat Zucht- und Nutzschweine im Abstand von längstens 12
@@ -160,14 +145,12 @@ unter Berücksichtigung des seuchenhygienischen Risikos des jeweiligen
 Bestandes und der Seuchensituation des betroffenen Gebietes Belange
 der Seuchenbekämpfung nicht entgegenstehen.
 
-
 #### § 3b
 
 Die zuständige Behörde kann, wenn es aus Gründen der Seuchenbekämpfung
 erforderlich ist, anordnen, dass Dung und flüssige Stallabgänge aus
 Schweineställen oder sonstigen Standorten der Schweine nur mit ihrer
 Genehmigung ausgebracht werden dürfen.
-
 
 #### § 4
 
@@ -194,19 +177,13 @@ werden, die von einer amtstierärztlichen Bescheinigung begleitet sind,
 aus der sich ergibt, dass die Tiere den Bestimmungen des Rechtsaktes
 genügen.
 
-
 #### § 4a
 
 (weggefallen)
 
-
 ### 2. - Besondere Schutzmaßregeln
 
-
-
 #### A. - Vor amtlicher Feststellung der Aujeszkyschen Krankheit oder des Seuchenverdachts
-
-
 
 ##### § 5
 
@@ -251,19 +228,12 @@ sonstigen Standort gilt vor der amtlichen Feststellung Folgendes:
     Gegenstände, die mit Schweinen in Berührung gekommen sind, dürfen aus
     dem Gehöft oder sonstigen Standort nicht entfernt werden.
 
-
-
-
-
 #### B. - Nach amtlicher Feststellung der Aujeszkyschen Krankheit oder des Seuchenverdachts
-
-
 
 ##### § 5a
 
 Die zuständige Behörde macht den Ausbruch der Seuche öffentlich
 bekannt.
-
 
 ##### § 6
 
@@ -355,10 +325,6 @@ der Sperre:
 13. Hunde und Katzen sind von Ställen oder sonstigen Standorten, in oder
     an denen sich Schweine befinden, fernzuhalten.
 
-
-
-
-
 ##### § 7
 
 (1) Ist die Aujeszkysche Krankheit in einem Gehöft oder an einem
@@ -378,10 +344,7 @@ seuchenverdächtigen Schweine anordnen. Sie kann ferner die Tötung der
 übrigen Schweine anordnen, sofern dies aus Gründen der
 Seuchenbekämpfung erforderlich ist.
 
-
 ##### (XXXX) §§ 8 und 9 (weggefallen)
-
-
 
 ##### § 10
 
@@ -395,15 +358,11 @@ Krankheit im Sperrbezirk anordnen. Sie kann ferner anordnen, dass
 Schweine nur mit Genehmigung aus dem Sperrbezirk entfernt werden
 dürfen.
 
-
 ##### § 10a
 
 (weggefallen)
 
-
 #### C. - Bei Ansteckungsverdacht
-
-
 
 ##### § 11
 
@@ -424,10 +383,7 @@ worden sein kann, für die Dauer von drei Wochen der behördlichen
 Beobachtung. Die zuständige Behörde kann die Tötung der
 ansteckungsverdächtigen Schweine anordnen.
 
-
 #### D. - Desinfektion
-
-
 
 ##### § 12
 
@@ -464,10 +420,7 @@ oder Lagerung auf landwirtschaftlich genutzte Flächen nur ausgebracht
 werden, wenn sie bodennah ausgebracht und unverzüglich untergepflügt
 werden.
 
-
 ### 3. - Schutzmaßregeln auf Schweineausstellungen
-
-
 
 #### § 13
 
@@ -477,10 +430,7 @@ Aujeszkysche Krankheit amtlich festgestellt oder liegt ein Seuchen-
 oder Ansteckungsverdacht vor, so kann die zuständige Behörde die
 sinngemäße Anwendung der Maßregeln nach den §§ 6 bis 12 anordnen.
 
-
 ### 4. - Aufhebung der Schutzmaßregeln
-
-
 
 #### § 14
 
@@ -530,16 +480,7 @@ a)  keine auf Aujeszkysche Krankheit hindeutenden klinischen Erscheinungen
         eine serologische Untersuchung nach Abschnitt I Nr. 1 Buchstabe b der
         Anlage 1 mit negativem Ergebnis durchgeführt worden ist.
 
-
-
-
-
-
-
-
 ## III. - Schutzmaßregeln gegen die Aujeszkysche Krankheit bei anderen Tieren
-
-
 
 ### § 15
 
@@ -547,10 +488,7 @@ Wird bei anderen für die Aujeszkysche Krankheit empfänglichen Tieren
 der Ausbruch oder der Verdacht des Ausbruchs der Seuche amtlich
 festgestellt, so gelten die §§ 5a bis 14 entsprechend.
 
-
 ## IV. - Ordnungswidrigkeiten
-
-
 
 ### § 16
 
@@ -622,18 +560,11 @@ Tierseuchengesetzes handelt, wer vorsätzlich oder fahrlässig
 
 9.  entgegen § 6 Nr. 13 Hunde und Katzen nicht fernhält.
 
-
-
-
-
 ## V. - Schlussvorschriften
-
-
 
 ### § 17
 
 (Inkrafttreten)
-
 
 ### Anlage 1 (zu § 1 Abs. 2 Nr. 1 und § 14 Abs. 3) Voraussetzungen, unter denen ein Schweinebestand als frei von Aujeszkyscher Krankheit gilt
 
@@ -865,10 +796,6 @@ aufrechterhalten, wenn die nachfolgenden Anforderungen erfüllt sind:
 
 
 7.  Abschnitt I Nr. 4 und 5 gilt entsprechend.
-
-
-
-
 
 ### Anlage 2 (zu § 2) Untersuchungen zur Aufrechterhaltung des Status des Gebiets Deutschlands als frei von der Aujeszkyschen Krankheit
 

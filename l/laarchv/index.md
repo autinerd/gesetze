@@ -16,20 +16,16 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1988, 161
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 1 Abs. 3 des Gesetzes über die zentrale Archivierung
 von Unterlagen aus dem Bereich des Kriegsfolgenrechts vom 6. Januar
 1988 (BGBl. I S. 65) wird mit Zustimmung des Bundesrates verordnet:
 
-
 ## § 1
 
 Das Lastenausgleichsarchiv übernimmt die Unterlagen aus dem Bereich
 des Lastenausgleichs nach Maßgabe der §§ 3 bis 5.
-
 
 ## § 2
 
@@ -40,7 +36,6 @@ des Lastenausgleichs nach Maßgabe der §§ 3 bis 5.
 forstwirtschaftlichen Vermögen, zum Grundvermögen und zum
 Betriebsvermögen im Sinne des Bewertungsgesetzes gehören, als
 Einheitswertvermögen bezeichnet.
-
 
 ## § 3
 
@@ -74,7 +69,6 @@ Einheitswertvermögen nach dem Feststellungsgesetz abgelehnt oder
 sonstwie abgeschlossen wurden, soweit die Schäden in den in § 11 Abs.
 2 Nr. 3 des Lastenausgleichsgesetzes bezeichneten Gebieten mit
 Ausnahme Chinas entstanden sind.
-
 
 ## § 4
 
@@ -119,7 +113,6 @@ für die einheitliche Feststellung von Schäden an Anteilsrechten an
 Kapitalgesellschaften zuständig sind, geben die für die Bewertung der
 einzelnen Anteilsrechte maßgebenden Akten (Hauptakten, Stammakten,
 Leitakten) ab.
-
 
 ## § 5
 
@@ -193,7 +186,6 @@ Dabei ist neben der Arbeitsweise der Ausgleichsverwaltung insbesondere
 die wirtschaftliche und gesellschaftliche Eingliederung des
 begünstigten Personenkreises darzustellen.
 
-
 ## § 6
 
 (1) Die Ausgleichsämter haben vor Abgabe der in § 3 Abs. 1
@@ -207,14 +199,12 @@ nach Anlage 2 dieser Verordnung, die nach den §§ 4 und 5 abzugebenden
 Unterlagen sind in ein Verzeichnis nach Anlage 3 zu dieser Verordnung
 aufzunehmen.
 
-
 ## § 7
 
 Die abzugebenden Akten und Unterlagen sind zusammen mit den
 Verzeichnissen (§ 6) dem Lastenausgleichsarchiv nach vorheriger
 Ankündigung erst dann zu übersenden, wenn es die Abnahmebereitschaft
 mitgeteilt hat.
-
 
 ## § 8
 
@@ -223,22 +213,18 @@ Diese Verordnung gilt nach Maßgabe des § 14 des Dritten
 zentrale Archivierung von Unterlagen aus dem Bereich des
 Kriegsfolgenrechts auch im Land Berlin.
 
-
 ## § 9
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlußformel
 
 Der Bundesminister des Innern
 
-
 ## Anlage 1 (zu § 6 Abs. 1)
 
 (Inhalt: nicht darstellbarer Vordruck,
 Fundstelle: BGBl. I 1988, 163)
-
 
 ## Anlage 2 (zu § 6 Abs. 2) Abgabeliste für negativ beschiedene oder sonstwie abgeschlossene FG-Akten
 
@@ -263,9 +249,6 @@ Fundstelle des Originaltextes: BGBl. I 1988, 164
     *
     *
     *
-
-
-
 
 ## Anlage 3 (zu § 6 Abs. 2) Abgabeliste für Sachakten
 

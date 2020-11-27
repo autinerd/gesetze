@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 3540
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 8 Abs. 3 Satz 1, 2 und 5 des Finanzverwaltungsgesetzes
@@ -30,7 +28,6 @@ Bundesministerium der Finanzen im Benehmen mit den für die
 Finanzverwaltung zuständigen obersten Landesbehörden der Länder
 Rheinland-Pfalz und Baden-Württemberg:
 
-
 ## § 1
 
 Die Aufgaben der Zoll- und Verbrauchsteuerabteilung der
@@ -38,7 +35,6 @@ Oberfinanzdirektion Koblenz im Sinne von § 8 Abs. 4 des
 Finanzverwaltungsgesetzes werden für den Bezirk der kreisfreien Stadt
 und des Landkreises Ludwigshafen sowie der kreisfreien Städte Worms
 und Frankenthal auf die Oberfinanzdirektion Karlsruhe übertragen.
-
 
 ## § 2
 

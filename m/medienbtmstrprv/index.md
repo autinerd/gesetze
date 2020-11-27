@@ -17,7 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1467
 
-
 ## Eingangsformel
 
 Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 des
@@ -27,7 +26,6 @@ geändert worden ist, verordnet das Bundesministerium für Bildung und
 Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für
 Berufsbildung im Einvernehmen mit dem Bundesministerium für Wirtschaft
 und Technologie:
-
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
 
@@ -121,7 +119,6 @@ II. Projektmanagement
 Fortbildungsabschluss „Geprüfter Meister Medienproduktion Bild und
 Ton“ oder „Geprüfte Meisterin Medienproduktion Bild und Ton“.
 
-
 ## § 2 Umfang der Meisterqualifikation und Gliederung der Prüfung
 
 (1) Die Qualifikation zum Geprüften Meister Medienproduktion Bild und
@@ -166,7 +163,6 @@ zu prüfen.
 einer mehrteiligen Situationsaufgabe und mündlich in einem
 Fachgespräch nach § 5 zu prüfen.
 
-
 ## § 3 Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer
@@ -195,7 +191,6 @@ Voraussetzungen ist zur Prüfung auch zuzulassen, wer durch Vorlage von
 Zeugnissen oder auf andere Weise glaubhaft macht, Fertigkeiten,
 Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit) erworben zu
 haben, die die Zulassung zur Prüfung rechtfertigen.
-
 
 ## § 4 Prüfungsteil „Betriebsmanagement“
 
@@ -351,7 +346,6 @@ mündlichen Ergänzungsprüfung werden zu einer Bewertung der
 Prüfungsleistung zusammengefasst. Dabei wird die Bewertung der
 schriftlichen Prüfungsleistung doppelt gewichtet.
 
-
 ## § 5 Prüfungsteil „Projektmanagement“
 
 (1) Im Prüfungsteil „Projektmanagement“ soll die Befähigung
@@ -477,7 +471,6 @@ entfallen.
 schriftlichen Situationsaufgabe mindestens ausreichende Leistungen
 erbracht wurden.
 
-
 ## § 6 Anrechnung anderer Prüfungsleistungen
 
 Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin ist auf Antrag
@@ -487,7 +480,6 @@ Stelle zu befreien, wenn eine andere vergleichbare Prüfung vor einer
 einem staatlichen Prüfungsausschuss erfolgreich abgelegt wurde und die
 Anmeldung zur Fortbildungsprüfung innerhalb von fünf Jahren nach der
 Bekanntgabe des Bestehens der anderen Prüfung erfolgt.
-
 
 ## § 7 Bewerten der Prüfungsleistungen und Bestehen der Prüfung
 
@@ -526,7 +518,6 @@ Prüfung anzugeben. Der Nachweis über den Erwerb der berufs- und
 arbeitspädagogischen Qualifikationen nach § 2 Absatz 2 ist im Zeugnis
 einzutragen.
 
-
 ## § 8 Wiederholung der Prüfung
 
 (1) Ein Prüfungsteil, der nicht bestanden ist, kann zweimal wiederholt
@@ -547,11 +538,9 @@ bestanden, muss für die Wiederholungsprüfung die mehrteilige
 schriftliche Situationsaufgabe ebenfalls als neue Aufgabe gestellt
 werden.
 
-
 ## § 9 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2012 in Kraft.
-
 
 ## Anlage 1 (zu § 7 Absatz 6) Muster
 
@@ -564,8 +553,6 @@ Diese Verordnung tritt am 1. August 2012 in Kraft.
 
 
 *    *   (Bezeichnung der zuständigen Stelle)
-
-
 
 ## Zeugnis
 
@@ -610,9 +597,6 @@ und Geprüfte Meisterin Medienproduktion Bild und Ton vom 4. Juli 2012
 
 *    *   (Siegel der zuständigen Stelle)
 
-
-
-
 ## Anlage 2 (zu § 7 Absatz 6) Muster
 
 (Fundstelle: BGBl. I 2012, 1472 - 1473)
@@ -623,8 +607,6 @@ und Geprüfte Meisterin Medienproduktion Bild und Ton vom 4. Juli 2012
 
 
 *    *   (Bezeichnung der zuständigen Stelle)
-
-
 
 ## Zeugnis
 

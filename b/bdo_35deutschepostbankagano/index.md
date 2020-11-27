@@ -18,7 +18,6 @@ Fundstelle
 
 Stand: Die AnO tritt gem. Abschn. II am Tage nach der Eintragung der Deutschen Postbank AG in das Handelsregister in Kraft; diese ist am 2.1.1995 erfolgt\*.
 
-
 ## I.
 
 Auf Grund des § 1 Abs. 5 Satz 2 des Postpersonalrechtsgesetzes vom 14.
@@ -30,12 +29,10 @@ Besoldungsgruppen A 1 bis A 13 (gehobener Dienst) übertragen.
 Wir behalten uns vor, diese Befugnis im Einzelfall wieder an uns zu
 ziehen.
 
-
 ## II.
 
 Diese Anordnung tritt am Tage nach der Eintragung der Deutschen
 Postbank AG in das Handelsregister in Kraft.
-
 
 ## Schlußformel
 

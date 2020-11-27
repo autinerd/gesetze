@@ -22,7 +22,6 @@ Zuletzt geändert durch
 Die v tritt gem. § 3 satz 2 am 5.8.1998 außer kraft, sofern nicht mit zustimmung des bundesrates etwas anderes verordnet wird. § 3 satz 2 aufgeh. durch
 :   Art. 1 V v. 16.6.1998 I 1354; dadurch ist die Geltung der V über den 5.8.1998 hinaus verlängert.
 
-
 ## Eingangsformel
 
 Auf Grund des § 6 Abs. 1 Nr. 18 und 19 in Verbindung mit Abs. 4 und 5
@@ -32,14 +31,12 @@ der Fassung der Bekanntmachung vom 20. September 1995 (BGBl. I S.
 und Forsten im Einvernehmen mit den Bundesministerien der Finanzen und
 für Wirtschaft:
 
-
 ## § 1
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung der
 Rechtsakte der Europäischen Gemeinschaft über die Gewährung von
 Prämien zur endgültigen Aufgabe von Rebflächen in den
 Weinwirtschaftsjahren 1997/98, 1998/99 und 1999/2000.
-
 
 ## § 2
 
@@ -66,7 +63,6 @@ Rheinland-Pfalz 730 ha jeweils nicht übersteigt.
 Weinwirtschaftsjahren 1998/99 und 1999/2000 gewährt, wenn die
 gerodeten Rebflächen eines Betriebes insgesamt mindestens 10 Ar groß
 sind.
-
 
 ## § 3
 

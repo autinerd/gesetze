@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1962, 24
 
-
-
 ## Eingangsformel
 
 DIE UNTERZEICHNERSTAATEN DIESES ÜBEREINKOMMENS -
@@ -30,7 +28,6 @@ Staat in einen anderen eingeführt werden,
 IN DER ERWÄGUNG, daß es angebracht ist, derartige Vereinbarungen für
 diese Luftfahrzeuge zu treffen -
 HABEN FOLGENDES VEREINBART:
-
 
 ## Art 1
 
@@ -54,10 +51,6 @@ c)  den Betriebsvorschriften des Einfuhrstaates entsprechen können und
 
 d)  allen sonstigen besonderen Bedingungen genügen, die nach Maßgabe des
     Artikels 4 notifiziert werden.
-
-
-
-
 
 ## Art 2
 
@@ -83,13 +76,11 @@ erklären, der sechs Monate oder die Gültigkeitsdauer des
 Lufttüchtigkeitszeugnisses nicht überschreitet, wobei jeweils der
 kürzere Zeitraum zu berücksichtigen ist.
 
-
 ## Art 3
 
 Jedem Antrag auf Ausstellung oder Gültigkeitserklärung eines
 Lufttüchtigkeitszeugnisses gemäß Artikel 2 sind die in der Liste zu
 diesem Übereinkommen aufgeführten Unterlagen beizufügen.
-
 
 ## Art 4
 
@@ -106,10 +97,6 @@ a)  mit dem Staat, der das gültige Lufttüchtigkeitszeugnis des
 
 b)  auf Ersuchen dieses Staates auch mit dem Staat, in dessen
     Hoheitsgebiet das Luftfahrzeug hergestellt wurde.
-
-
-
-
 
 ## Art 5
 
@@ -146,7 +133,6 @@ vorliegende Lufttüchtigkeitszeugnis ausgestellt hat, und, falls dieser
 es verlangt, auch den Staat, in dessen Hoheitsgebiet das Luftfahrzeug
 hergestellt wurde, konsultiert hat.
 
-
 ## Art 6
 
 Ein Vertragsstaat, der ein Lufttüchtigkeitszeugnis gemäß Artikel 2 als
@@ -158,7 +144,6 @@ ausstellen. Nichtsdestoweniger kann sich dieser Staat vorher an den
 Staat, in dessen Hoheitsgebiet das betreffende Luftfahrzeug
 hergestellt wurde, oder an jeden anderen Vertragsstaat wenden, in dem
 das Luftfahrzeug früher eingetragen war.
-
 
 ## Art 7
 
@@ -172,7 +157,6 @@ Möglichkeit Einzelheiten seiner Gesetze und sonstigen die
 Lufttüchtigkeit betreffenden Rechtsvorschriften bekannt, auf Grund
 welcher er ein Lufttüchtigkeitszeugnis ausgestellt oder als gültig
 anerkannt hat.
-
 
 ## Art 8
 
@@ -198,13 +182,6 @@ b)  übermittelt auf Ersuchen eines Vertragsstaates nach Möglichkeit
         Baumuster oder durch den Einbau von Ersatzteilen durchgeführt werden
         können.
 
-
-
-
-
-
-
-
 ## Art 9
 
 Das bei der Anwendung dieses Übereinkommens zu befolgende Verfahren
@@ -216,7 +193,6 @@ Anwendung seiner eigenen Gesetze und sonstigen die Lufttüchtigkeit
 betreffenden Rechtsvorschriften ist für die Zwecke dieses
 Übereinkommens endgültig und für jeden anderen Vertragsstaat bindend.
 
-
 ## Art 10
 
 (1) Dieses Übereinkommen liegt für die Mitgliedstaaten der
@@ -227,7 +203,6 @@ ihrer Genehmigung nach Maßgabe ihrer verfassungsmäßigen Verfahren.
 
 (3) Die Ratifikationsurkunden werden bei der Internationalen
 Zivilluftfahrt-Organisation hinterlegt.
-
 
 ## Art 11
 
@@ -241,7 +216,6 @@ Ratifikationsurkunde in Kraft.
 (2) Sobald dieses Übereinkommen in Kraft getreten ist, wird es durch
 den Generalsekretär der Internationalen Zivilluftfahrt-Organisation
 bei den Vereinten Nationen registriert.
-
 
 ## Art 12
 
@@ -258,7 +232,6 @@ Beitritt aufgelegt.
 Beitrittsurkunde bei der Internationalen Zivilluftfahrt-Organisation
 und wird am dreißigsten Tag nach dem Zeitpunkt der Hinterlegung
 wirksam.
-
 
 ## Art 13
 
@@ -284,10 +257,6 @@ b)  daß die Artikel 1 bis 7 und 9 nach dem Wirksamwerden der Kündigung
     Ausstellung eines Lufttüchtigkeitszeugnisses gemäß diesem
     Übereinkommen gestellt wurde.
 
-
-
-
-
 ## Art 14
 
 (1) Der Generalsekretär der Internationalen Zivilluftfahrt-
@@ -308,7 +277,6 @@ b)  vom Eingang jeder Kündigungsanzeige sowie dem Zeitpunkt des Eingangs.
 Organisation notifiziert auch dem Präsidenten und den Mitgliedstaaten
 der Europäischen Zivilluftfahrt-Konferenz den Zeitpunkt des
 Inkrafttretens des Übereinkommens gemäß Artikel 11 Absatz 1.
-
 
 ## Art 15
 
@@ -332,7 +300,6 @@ haben, nach Ratifikation durch eine auf der vorgenannten Tagung
 festgesetzte Anzahl von Vertragsstaaten oder zu einem späteren,
 gegebenenfalls auf der Tagung festgesetzten Zeitpunkt in Kraft.
 
-
 ## Art 16
 
 Dieses Übereinkommen findet auf alle mutterländischen Hoheitsgebiete
@@ -341,7 +308,6 @@ Hinterlegung seiner Ratifikations- oder Beitrittsurkunde durch eine an
 den Generalsekretär der Internationalen Zivilluftfahrt-Organisation
 gerichtete Erklärung das oder die Hoheitsgebiete bestimmen, die als
 sein Mutterland im Sinne dieses Übereinkommens zu betrachten sind.
-
 
 ## Schlußformel
 
@@ -353,7 +319,6 @@ gleichermaßen verbindlich ist.
 Dieses Übereinkommen wird bei der Internationalen Zivilluftfahrt-
 Organisation hinterlegt; der Generalsekretär der Organisation
 übermittelt allen Mitgliedstaaten beglaubigte Abschriften.
-
 
 ## Anhang des Übereinkommens Liste der Unterlagen
 

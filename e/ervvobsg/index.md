@@ -23,7 +23,6 @@ Informationsgesellschaft (ABl. EG Nr. L 204 S. 37), geändert durch die
 Richtlinie 98/48/EG des Europäischen Parlaments und des Rates vom 20.
 Juli 1998 (ABl. EG Nr. L 217 S. 18), sind beachtet worden.
 
-
 ## Eingangsformel
 
 Auf Grund des § 65a des Sozialgerichtsgesetzes in der Fassung der
@@ -31,12 +30,10 @@ Bekanntmachung vom 23. September 1975 (BGBl. I S. 2535), der durch
 Artikel 4 des Gesetzes vom 22. März 2005 (BGBl. I S. 837) eingefügt
 worden ist, verordnet die Bundesregierung:
 
-
 ## § 1 Zulassung der elektronischen Kommunikation
 
 Beim Bundessozialgericht können ab dem 1. Januar 2007 in allen
 Verfahrensarten elektronische Dokumente eingereicht werden.
-
 
 ## § 2 Art und Weise der Einreichung
 
@@ -100,7 +97,6 @@ entsprechen, können unter den nach § 3 Nr. 5 bekannt zu gebenden
 Voraussetzungen auch in komprimierter Form als ZIP-Datei eingereicht
 werden.
 
-
 ## § 3 Bekanntgabe der Bearbeitungsvoraussetzungen
 
 Das Bundessozialgericht gibt über sein Internetportal bekannt:
@@ -132,10 +128,6 @@ Das Bundessozialgericht gibt über sein Internetportal bekannt:
 
 5.  die Voraussetzungen, unter denen ZIP-Dateien eingereicht werden
     können.
-
-
-
-
 
 ## § 4 Inkrafttreten
 

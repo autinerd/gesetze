@@ -18,8 +18,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 2177
 
-
-
 ## I. Unterrichtung des Deutschen Bundestages
 
 
@@ -207,10 +205,6 @@ Fundstelle
 9.  Die Bundesregierung hat eine geeignete politische Vertretung in den
     Ausschüssen des Deutschen Bundestages sicherzustellen.
 
-
-
-
-
 ## II. Stellungnahme des Deutschen Bundestages
 
 
@@ -254,10 +248,6 @@ Fundstelle
     hierfür dar. Die Unterrichtung hat auch zu erfolgen, wenn die
     Beschlussfassung im Rat nicht zum Abschluss des Verfahrens führt.
 
-
-
-
-
 ## III. Information über europäische Rechtsakte
 
 Nach Erlass eines europäischen Rechtsaktes unterrichtet die
@@ -265,7 +255,6 @@ Bundesregierung den Deutschen Bundestag hierüber. Bei Richtlinien und
 Rahmenbeschlüssen informiert die Bundesregierung über die zu
 berücksichtigenden Fristen für die innerstaatliche Umsetzung und den
 Umsetzungsbedarf.
-
 
 ## IV. Verfahren vor den Europäischen Gerichten
 
@@ -277,7 +266,6 @@ ist. Zu Verfahren, an denen sich die Bundesregierung beteiligt,
 übermittelt sie die entsprechenden Dokumente. Dies gilt auch für
 Urteile zu Verfahren, an denen sich die Bundesregierung beteiligt.
 
-
 ## V. Übergang zu Mehrheitsentscheidungen
 
 Beabsichtigt der Rat, einen Beschluss zum Übergang von der
@@ -285,7 +273,6 @@ Einstimmigkeit zu Mehrheitsentscheidungen zu fassen, informiert die
 Bundesregierung den Deutschen Bundestag und unterrichtet über ihre
 Willensbildung. Der Vorschlag oder die Initiative für diesen Beschluss
 ist ein Vorhaben im Sinne dieser Vereinbarung.
-
 
 ## VI. Beitritt und Vertragsrevision
 
@@ -302,14 +289,12 @@ Deutschen Bundestages aus wichtigen außen- oder
 integrationspolitischen Gründen abweichende Entscheidungen zu treffen,
 bleibt hiervon unberührt.
 
-
 ## VII. Zusammenarbeit zwischen Ständiger Vertretung und Verbindungsbüro des Deutschen Bundestages
 
 Die Bundesregierung unterstützt über die Ständige Vertretung und
 gegebenenfalls die bilaterale Botschaft im Rahmen der gegebenen
 Möglichkeiten und soweit erforderlich das Büro des Deutschen
 Bundestages in Einzelfragen im Hinblick auf seine Aufgaben.
-
 
 ## VIII. Vertraulichkeit
 
@@ -322,7 +307,6 @@ nationale VS-Einstufung wird vor Versendung von der Bundesregierung
 vorgenommen. Die Gründe für die Einstufung sind auf Anforderung zu
 erläutern.
 
-
 ## IX. Schlussbestimmungen
 
 Der Deutsche Bundestag kann auf die Übersendung von oder Unterrichtung
@@ -330,13 +314,11 @@ zu Vorhaben verzichten. Der Verzicht kann nicht gegen den Widerspruch
 einer Fraktion oder 5 Prozent der Mitglieder des Bundestages erklärt
 werden.
 
-
 ## Schlussformel
 
 Der Präsident des Deutschen Bundestages
 
 Die Bundeskanzlerin
-
 
 ## Anlage 1 Vorhaben
 
@@ -379,10 +361,6 @@ der Vereinbarung:
 
 
 -   EU-Haushalt und Finanzplanung.
-
-
-
-
 
 ## Anlage 2 Berichtsbogen
 

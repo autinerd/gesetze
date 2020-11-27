@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 2 Abs. 121 G v. 22.12.2011 I 3044
 
-
 ## § 1 Autobahn- und Bundesstraßenmaut
 
 (1) Für die Benutzung
@@ -141,7 +140,6 @@ Hinweispflicht nach Satz 1 wird durch die Veröffentlichung einer
 Aufstellung mautpflichtiger Abschnitte von Bundesstraßen im
 Bundesanzeiger (Mauttabelle) genügt.
 
-
 ## § 2 Mautschuldner
 
 Mautschuldner ist die Person, die während der mautpflichtigen
@@ -158,7 +156,6 @@ Benutzung von Straßen im Sinne des § 1
 
 
 Mehrere Mautschuldner haften als Gesamtschuldner.
-
 
 ## § 3 Mautsätze
 
@@ -189,7 +186,6 @@ Güterkraftverkehr erforderlich ist. In der in Absatz 2 Satz 1
 genannten Rechtsverordnung kann darüber hinaus die Höhe der Maut pro
 Kilometer auch nach bestimmten Abschnitten mautpflichtiger Straßen im
 Sinne des § 1 und nach der Benutzungszeit bestimmt werden.
-
 
 ## § 4 Mautentrichtung und Mauterstattung
 
@@ -292,7 +288,6 @@ insbesondere gelten Absatz 4 Satz 1 und 2 und die auf Grund des
 Absatzes 4 Satz 3 und des § 5 Satz 2 erlassenen Vorschriften sowie § 7
 Absatz 5 und 6 entsprechend.
 
-
 ## § 5 Nachweis der Mautentrichtung durch den Mautschuldner
 
 Der Mautschuldner hat auf Verlangen des Bundesamtes für Güterverkehr
@@ -301,7 +296,6 @@ Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
 ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
 Einzelheiten über das Verfahren zum Nachweis der Mautentrichtung zu
 regeln.
-
 
 ## § 6 Einrichtungen zur Erhebung der Maut
 
@@ -318,7 +312,6 @@ Aufsicht er insoweit untersteht. Der Betreiber ist berechtigt, die zur
 Mauterhebung erforderlichen Verkehrszeichen und Verkehrseinrichtungen
 nach Maßgabe der Anordnungen der zuständigen Behörden der Länder zu
 betreiben.
-
 
 ## § 7 Kontrolle
 
@@ -412,7 +405,6 @@ späteren Einbringlichkeit der Maut begründen.
 nach anderen gesetzlichen Bestimmungen zur Überwachung der Einhaltung
 der Vorschriften nach diesem Gesetz zustehen, bleiben unberührt.
 
-
 ## § 8 Nachträgliche Mauterhebung
 
 (1) Die Maut kann auch nachträglich durch Bescheid erhoben werden. Dem
@@ -430,7 +422,6 @@ Wegstrecke von 500 Kilometern auf mautpflichtigen Straßen im Sinne des
 § 1 entspricht. Eine nachträgliche Mauterhebung entfällt, soweit der
 Mautschuldner nachweislich die ihm obliegenden Pflichten bei der
 Mautentrichtung erfüllt hat.
-
 
 ## § 9 Datenlöschung, Geschäftsstatistiken
 
@@ -478,7 +469,6 @@ Mautpflicht unterliegt.
 (6) Nach diesem Gesetz gespeicherte Daten dürfen in anonymisierter
 Form zur Erstellung von Geschäftsstatistiken verwendet werden.
 
-
 ## § 10 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
@@ -522,7 +512,6 @@ Fällen mit einer Geldbuße bis zu zehntausend Euro geahndet werden.
 (3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des
 Gesetzes über Ordnungswidrigkeiten ist das Bundesamt für Güterverkehr.
 
-
 ## § 11 Mautaufkommen
 
 (1) Das Mautaufkommen steht dem Bund zu. Ausgaben für Betrieb,
@@ -544,7 +533,6 @@ Durchführung von Programmen des Bundes zur Umsetzung der Ziele
 Beschäftigung, Qualifizierung, Umwelt und Sicherheit in Unternehmen
 des mautpflichtigen Güterkraftverkehrs verwendet.
 
-
 ## § 12 Beginn der Mauterhebung auf Bundesautobahnen
 
 Der Beginn der Erhebung der Maut auf mautpflichtigen Bundesautobahnen
@@ -553,14 +541,12 @@ Nutzfahrzeuge in der Fassung der Bekanntmachung vom 2. Dezember 2004
 (BGBl. I S. 3122), das zuletzt durch Artikel 6 des Gesetzes vom 29.
 Mai 2009 (BGBl. I S. 1170) geändert worden ist.
 
-
 ## § 13 Beginn der Mauterhebung auf Bundesstraßen
 
 Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
 ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates den
 Zeitpunkt des Beginns der Erhebung der Maut auf den in § 1 Absatz 1
 Satz 1 Nummer 2 bezeichneten Bundesstraßen festzulegen.
-
 
 ## § 14 Mauthöhe
 
@@ -569,13 +555,11 @@ Satz 1 bestimmt sich die Maut pro Kilometer nach der Anlage. In der in
 Satz 1 bezeichneten Verordnung ist das Nichtanwenden des Satzes 1 und
 der Anlage festzustellen.
 
-
 ## § 15 Verkündung von Rechtsverordnungen
 
 Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz
 1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger
 verkündet werden.
-
 
 ## Anlage (zu § 14) Mautsätze
 

@@ -18,8 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 V v. 2.4.2008 I 647
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 17 Abs. 2 des Luftsicherheitsgesetzes vom 11. Januar
@@ -31,13 +29,11 @@ Einvernehmen mit dem Bundesministerium der Finanzen, dem
 Bundesministerium für Wirtschaft und Technologie und dem
 Bundesministerium für Verkehr, Bau und Stadtentwicklung:
 
-
 ## § 1 Gebühren
 
 Die gebührenpflichtigen Amtshandlungen und die Gebührensätze ergeben
 sich aus dem anliegenden Gebührenverzeichnis, soweit nichts anderes
 bestimmt ist.
-
 
 ## § 2 Pflichten der Luftfahrtunternehmer und Luftfahrzeughalter
 
@@ -48,7 +44,6 @@ Luftsicherheitsbehörde die Anzahl der durchsuchten oder überprüften
 Fluggäste mitzuteilen. Die Einzelheiten werden von der nach § 5 des
 Luftsicherheitsgesetzes zuständigen Behörde festgelegt und den
 Gebühren- und Auslagenschuldnern (§ 3) bekannt gegeben.
-
 
 ## § 3 Gebühren- und Auslagenschuldnerschaft
 
@@ -79,16 +74,11 @@ Gebühren- und Auslagenschuldner sind
     gemeinsamer Vorschriften für die Sicherheit in der Zivilluftfahrt
     (ABl. EG Nr. L 355 S. 1).
 
-
-
-
-
 ## § 4 Prüfungsgebühren
 
 Für Amtshandlungen nach den Nummern 5 und 6 des Gebührenverzeichnisses
 sind die Gebühren spätestens mit Abgabe der namentlichen Aufstellung
 der Prüfungsteilnehmer zu entrichten.
-
 
 ## § 5 Auslagen
 
@@ -103,13 +93,11 @@ und Telefaxe werden nicht erhoben.
 (3) Die Aufwendungen für den Einsatz von Dienstkraftfahrzeugen bei
 Dienstgeschäften außerhalb der Dienststelle sind gesondert zu erheben.
 
-
 ## § 6 Gebühren- und Auslagenermäßigung und -befreiung
 
 Aus Gründen der Billigkeit oder des öffentlichen Interesses können im
 Einzelfall Gebührenermäßigung und Auslagenermäßigung sowie
 Gebührenbefreiung und Auslagenbefreiung zugelassen werden.
-
 
 ## § 7 Übergangsregelungen
 
@@ -119,16 +107,13 @@ Januar 2005 beantragt waren, durch diese Verordnung eine
 Gebührenpflicht neu begründet worden, so können die Gebühren nach
 dieser Verordnung erhoben werden.
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
 ## § 8 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Anlage (zu § 1) Gebührenverzeichnis
 

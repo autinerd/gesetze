@@ -16,14 +16,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2003, 2162
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 6 Abs. 6 des Kriegsdienstverweigerungsgesetzes vom 9.
 August 2003 (BGBl. I S. 1593) verordnet das Bundesministerium für
 Familie, Senioren, Frauen und Jugend:
-
 
 ## § 1 Fahrkosten, Wegstreckenentschädigung
 
@@ -49,12 +46,10 @@ Parkgebühren werden nicht erstattet.
 für den Zivildienst einen Fahrgutschein der Deutschen Bahn AG,
 entfällt die Kostenerstattung für Fahrten mit der Deutschen Bahn AG.
 
-
 ## § 2 Tagegeld, Übernachtungsgeld
 
 Für das Tage- und Übernachtungsgeld gelten die Bestimmungen des
 Bundesreisekostengesetzes in der jeweils geltenden Fassung.
-
 
 ## § 3 Verdienstausfall, notwendige Aufwendungen
 
@@ -75,7 +70,6 @@ nachgewiesen werden und die Vertretung die beruflichen Aufgaben der
 Antragstellerin oder des Antragstellers in vollem Umfang wahrnehmen
 kann. Erstattungsfähig ist die angemessene und in gleich oder ähnlich
 gelagerten Fällen übliche Vergütung.
-
 
 ## § 4 Inkrafttreten
 

@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 3116
 
-
 ## Eingangsformel
 
 Auf Grund des § 34d Absatz 6 Satz 1 und 2 des
@@ -28,9 +27,7 @@ Finanzdienstleistungsaufsicht, der zuletzt durch die Verordnung vom
 23\. Mai 2011 (BGBl. I S. 938) geändert worden ist, verordnet die
 Bundesanstalt für Finanzdienstleistungsaufsicht:
 
-
 ## Abschnitt 1 - Sachkunde
-
 
 ### § 1 Sachkunde des Mitarbeiters in der Anlageberatung
 
@@ -96,7 +93,6 @@ oder Arbeitszeugnisse, gegebenenfalls in Verbindung mit
 Stellenbeschreibungen, durch Schulungsnachweise oder in anderer
 geeigneter Weise nachgewiesen sein.
 
-
 ### § 2 Sachkunde des Vertriebsbeauftragten
 
 Der Vertriebsbeauftragte im Sinne des § 34d Absatz 2 des
@@ -108,7 +104,6 @@ der Anlageberatung erforderliche Sachkunde haben. § 1 Absatz 1 Satz 2,
 fachlichen Grundlagen nach § 1 Absatz 1 Satz 2 Nummer 3 auf diejenigen
 Finanzinstrumente und Geschäfte abzustellen ist, für die
 Vertriebsvorgaben ausgestaltet, umgesetzt oder überwacht werden.
-
 
 ### § 3 Sachkunde des Compliance-Beauftragten
 
@@ -192,7 +187,6 @@ oder Arbeitszeugnisse, gegebenenfalls in Verbindung mit
 Stellenbeschreibungen, durch Schulungsnachweise oder in anderer
 geeigneter Weise nachgewiesen sein.
 
-
 ### § 4 Berufsqualifikationen als Sachkundenachweis
 
 Die erforderliche Sachkunde gilt insbesondere durch die folgenden
@@ -269,7 +263,6 @@ Berufserfahrung ganz oder teilweise bei Zweigniederlassungen im Sinne
 des § 53b des Kreditwesengesetzes, die die Wertpapierdienstleistung
 der Anlageberatung erbringen, erworben wurde.
 
-
 ### § 5 Anerkennung ausländischer Berufsbefähigungsnachweise im Rahmen der Niederlassungsfreiheit
 
 (1) Als Nachweis der erforderlichen Sachkunde nach den §§ 1, 2 oder 3
@@ -301,7 +294,6 @@ andere geeignete Dokument, insbesondere Abschluss- oder
 Arbeitszeugnisse, gegebenenfalls in Verbindung mit
 Stellenbeschreibungen, nachgewiesen werden.
 
-
 ### § 6 Zuverlässigkeit
 
 Die erforderliche Zuverlässigkeit nach § 34d Absatz 1 Satz 1, Absatz 2
@@ -313,9 +305,7 @@ Urkundenfälschung, Hehlerei, Wuchers, einer Insolvenzstraftat, einer
 Steuerhinterziehung oder aufgrund des § 38 des
 Wertpapierhandelsgesetzes rechtskräftig verurteilt worden ist.
 
-
 ## Abschnitt 2 - Anzeigen
-
 
 ### § 7 Einreichung der Anzeigen
 
@@ -335,7 +325,6 @@ nach Eingang der Anmeldung die zur Verwendung des elektronischen
 Anzeigeverfahrens erforderliche Zugangskennung zu. Unmittelbar nach
 jeder erfolgreichen Übermittlung einer Anzeige erhält das Unternehmen
 eine Bestätigung über deren Eingang bei der Bundesanstalt.
-
 
 ### § 8 Inhalt der Anzeigen
 
@@ -403,9 +392,7 @@ Wertpapierdienstleistungsunternehmen erhoben worden ist, bei der
 Bundesanstalt einzureichen. Mehrere Beschwerden können in
 chronologischer Reihenfolge zu einer Anzeige zusammengefasst werden.
 
-
 ## Abschnitt 3 - Datenbank
-
 
 ### § 9 Inhalt der Datenbank
 
@@ -464,13 +451,6 @@ gespeichert.
     c)  die nach § 8 Absatz 4 angezeigten Beschwerden, die diese frühere
         Tätigkeit betrafen.
 
-
-
-
-
-
-
-
 ### § 10 Verantwortlichkeit
 
 Das Wertpapierdienstleistungsunternehmen trägt die Verantwortung für
@@ -478,7 +458,6 @@ die Vollständigkeit, die Richtigkeit und die Aktualität der von ihm
 angezeigten und automatisiert in die Datenbank eingestellten Angaben.
 Erforderliche Berichtigungen sind unter Verwendung des elektronischen
 Anzeigeverfahrens vorzunehmen.
-
 
 ### § 11 Dauer der Speicherung
 
@@ -491,9 +470,7 @@ Ablauf des Jahres, in dem die Beendigung der Tätigkeit für das
 anzeigende Wertpapierdienstleistungsunternehmen angezeigt worden ist,
 durch die Bundesanstalt aus der Datenbank zu löschen.
 
-
 ## Abschnitt 4 - Schlussvorschriften
-
 
 ### § 12 Inkrafttreten
 

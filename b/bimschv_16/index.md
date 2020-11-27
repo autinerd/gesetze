@@ -18,14 +18,12 @@ Fundstelle
 Geändert durch
 :   Art. 3 G v. 19.9.2006 I 2146
 
-
 ## Eingangsformel
 
 Auf Grund des § 43 Abs. 1 Satz 1 Nr. 1 des
 Bundesimmissionsschutzgesetzes vom 15. März 1974 (BGBl. I S. 721,
 1193) verordnet die Bundesregierung nach Anhörung der beteiligten
 Kreise:
-
 
 ## § 1 Anwendungsbereich
 
@@ -52,7 +50,6 @@ dem zu ändernden Verkehrsweg ausgehenden Verkehrslärms von mindestens
 70 Dezibel (A) am Tage oder 60 Dezibel (A) in der Nacht durch einen
 erheblichen baulichen Eingriff erhöht wird; dies gilt nicht in
 Gewerbegebieten.
-
 
 ## § 2 Immissionsgrenzwerte
 
@@ -131,7 +128,6 @@ Absatz 1, bauliche Anlagen im Außenbereich nach Absatz 1 Nr. 1, 3 und
 ausgeübt, so ist nur der Immissionsgrenzwert für diesen Zeitraum
 anzuwenden.
 
-
 ## § 3 Berechnung des Beurteilungspegels
 
 Der Beurteilungspegel ist für Straßen nach Anlage 1 und für
@@ -141,21 +137,17 @@ vorgesehene Abschlag in Höhe von 5 Dezibel (A) gilt nicht für
 Schienenwege, auf denen in erheblichem Umfang Güterzüge gebildet oder
 zerlegt werden.
 
-
 ## § 4 (weggefallen)
 
 -
-
 
 ## § 5 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage 1 (zu § 3) Berechnung der Beurteilungspegel an Straßen
 

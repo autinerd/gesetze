@@ -19,10 +19,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 108 G v. 17.12.2008 I 2586
 
-
 ## ERSTER ABSCHNITT - Rechtsgeschäftliche Veräußerung
-
-
 
 ### § 1
 
@@ -40,7 +37,6 @@ Fischerei in Binnengewässern.
 
 (3) Grundstück im Sinne dieses Gesetzes ist auch ein Teil eines
 Grundstücks.
-
 
 ### § 2
 
@@ -87,10 +83,6 @@ werden.
     Landesgebietes zur Abwehr einer erheblichen Gefahr für die
     Agrarstruktur zwingend erforderlich ist.
 
-
-
-
-
 ### § 3
 
 (1) Über den Antrag auf Genehmigung entscheidet die nach Landesrecht
@@ -101,7 +93,6 @@ entscheiden hat.
 und derjenige, zu dessen Gunsten der Vertrag geschlossen worden ist,
 berechtigt. Hat ein Notar den Vertrag beurkundet, so gilt dieser als
 ermächtigt, die Genehmigung zu beantragen.
-
 
 ### § 4
 
@@ -135,16 +126,11 @@ Die Genehmigung ist nicht notwendig, wenn
     Anpassung des Landesrechts an den Euro vom 24. April 2001 (GVBl. S.
     140) genehmigt ist.
 
-
-
-
-
 ### § 5
 
 Ist zur Veräußerung die Genehmigung nicht notwendig, so hat die
 Genehmigungsbehörde auf Antrag ein Zeugnis darüber zu erteilen. Das
 Zeugnis steht der Genehmigung gleich.
-
 
 ### § 6
 
@@ -169,7 +155,6 @@ Vorkaufsrechts dem Veräußerer zustellt.
 durch Fristablauf unanfechtbar geworden, so hat die
 Genehmigungsbehörde hierüber auf Antrag ein Zeugnis zu erteilen.
 
-
 ### § 7
 
 (1) Auf Grund einer genehmigungsbedürftigen Veräußerung darf eine
@@ -191,7 +176,6 @@ Rechtsgeschäft als genehmigt, es sei denn, daß vor Ablauf dieser Frist
 ein Widerspruch im Grundbuch eingetragen oder ein Antrag auf
 Berichtigung des Grundbuchs oder ein Antrag oder ein Ersuchen auf
 Eintragung eines Widerspruchs gestellt worden ist.
-
 
 ### § 8
 
@@ -250,13 +234,6 @@ Die Genehmigung ist zu erteilen, wenn
     c)  eine Gemeinde oder ein Gemeindeverband das Ersatzland zur alsbaldigen
         Verpachtung oder Veräußerung an einen bestimmten von ihr oder von ihm
         verdrängten Landwirt benötigt.
-
-
-
-
-
-
-
 
 ### § 9
 
@@ -330,7 +307,6 @@ Grundstoffen (Bodenbestandteile) veräußert werden.
 aufgeführten Gründen entgegenstehen, nicht versagt werden, wenn dies
 eine unzumutbare Härte für den Veräußerer bedeuten würde.
 
-
 ### § 10
 
 (1) Dem Erwerber kann die Auflage gemacht werden,
@@ -362,7 +338,6 @@ Eintritt der Unanfechtbarkeit der Entscheidung vom Vertrage
 zurückzutreten. Auf das Rücktrittsrecht sind die Vorschriften der §§
 346 bis 354 des Bürgerlichen Gesetzbuchs sinngemäß anzuwenden.
 
-
 ### § 11
 
 (1) Die Genehmigung kann unter der Bedingung erteilt werden, daß
@@ -386,7 +361,6 @@ binnen einer bestimmten Frist
 (2) Ist die Bedingung eingetreten, so hat die Genehmigungsbehörde
 hierüber auf Antrag eine Bescheinigung zu erteilen.
 
-
 ### § 12
 
 Liegen die Voraussetzungen vor, unter denen nach dem
@@ -396,10 +370,7 @@ entscheidet, den Vertrag der Siedlungsbehörde zur Herbeiführung einer
 Erklärung über die Ausübung des Vorkaufsrechts durch die
 vorkaufsberechtigte Stelle vorzulegen.
 
-
 ## ZWEITER ABSCHNITT - Gerichtliche Zuweisung eines Betriebes
-
-
 
 ### § 13
 
@@ -425,7 +396,6 @@ auf den Miterben über, dem der Betrieb zugewiesen wird (Erwerber).
 und Rechte gemeinschaftliches Vermögen der Erben sind. Auf
 Reichsheimstätten sind sie nicht anzuwenden.
 
-
 ### § 14
 
 (1) Die Zuweisung ist nur zulässig, wenn der Betrieb mit einer zur
@@ -446,7 +416,6 @@ ausgeschlossen oder ein zu ihrer Bewirkung berechtigter
 Testamentsvollstrecker vorhanden ist oder ein Miterbe ihren Aufschub
 verlangen kann.
 
-
 ### § 15
 
 (1) Der Betrieb ist dem Miterben zuzuweisen, dem er nach dem
@@ -460,7 +429,6 @@ nicht geeignet ist.
 
 (2) Diese Bestimmungen gelten für die Zuweisung von Teilen des
 Betriebes sinngemäß.
-
 
 ### § 16
 
@@ -507,7 +475,6 @@ festsetzen, daß er durch ein beschränktes dingliches Recht an einem
 zugewiesenen Grundstück abzufinden ist. Die Festsetzung ist
 unzulässig, wenn der Erwerber dadurch unangemessen beschwert würde.
 
-
 ### § 17
 
 (1) Zieht der Erwerber binnen fünfzehn Jahren nach dem Erwerb (§ 13
@@ -530,10 +497,7 @@ Eintritt der Voraussetzungen seines Anspruchs Kenntnis erlangt, ohne
 Rücksicht auf diese Kenntnis in fünf Jahren nach dem Schluß des
 Jahres, in dem die Voraussetzungen des Anspruchs erfüllt sind.
 
-
 ## DRITTER ABSCHNITT - Verfahren
-
-
 
 ### § 18
 
@@ -551,7 +515,6 @@ zugestellt, so gilt die Genehmigung als erteilt. Die Abgabeverfügung
 ist für die in ihr bezeichnete Genehmigungsbehörde bindend und für die
 Beteiligten unanfechtbar.
 
-
 ### § 19
 
 Die Genehmigungsbehörde hat vor der Entscheidung über einen
@@ -559,7 +522,6 @@ Genehmigungsantrag die auf Grund des § 32 Abs. 3 des Gesetzes über das
 gerichtliche Verfahren in Landwirtschaftssachen bestimmte land- und
 forstwirtschaftliche Berufsvertretung zu hören. Das Nähere bestimmt
 die Landesregierung.
-
 
 ### § 20
 
@@ -570,7 +532,6 @@ gerichtliche Entscheidung, über die Stelle, bei der er zu stellen ist,
 sowie über Form und Frist des Antrags zu belehren. Die Antragsfrist
 beginnt nicht vor der Belehrung, spätestens aber fünf Monate nach der
 Zustellung der Entscheidung der Genehmigungsbehörde.
-
 
 ### § 21
 
@@ -585,7 +546,6 @@ der Veräußerung nach § 9 zu versagen wäre, und zuzustellen. § 20 Satz
 2 und 3 gilt sinngemäß für die Belehrung über die Zulässigkeit eines
 Antrags auf gerichtliche Entscheidung nach § 10 des
 Reichssiedlungsgesetzes.
-
 
 ### § 22
 
@@ -615,12 +575,10 @@ beantragen, daß das nach dem Gesetz über das gerichtliche Verfahren in
 Landwirtschaftssachen zuständige Gericht die Auflage ändert oder
 aufhebt. Absatz 2 Satz 1 gilt entsprechend.
 
-
 ### § 23
 
 Im Verfahren vor der Genehmigungsbehörde werden Gebühren und Auslagen
 nicht erhoben.
-
 
 ### § 24
 
@@ -651,28 +609,19 @@ muß, bevor es festgesetzt wird, angedroht werden.
 (2) Das einzelne Zwangsgeld darf den Betrag von fünfhundert Euro nicht
 übersteigen.
 
-
 ### § 25
 
 -
-
 
 ### § 26
 
 -
 
-
 ## VIERTER ABSCHNITT - Siedlungsrechtliche Vorschriften
-
-
 
 ### (XXXX) §§ 27 bis 30
 
-
-
 ## FÜNFTER ABSCHNITT - Zusatz-, Übergangs- und Schlußvorschriften
-
-
 
 ### § 31
 
@@ -691,11 +640,9 @@ zuletzt geändert durch Artikel 7 Abs. 13 des Gesetzes vom 27. Juni
 2000 (BGBl. I S. 897) das Gericht über einen Antrag auf Genehmigung zu
 entscheiden hat.
 
-
 ### § 32
 
 (weggefallen)
-
 
 ### § 33
 
@@ -734,10 +681,7 @@ Angelegenheiten der freiwilligen Gerichtsbarkeit gelten entsprechend.
 Inkrafttreten dieses Gesetzes durch gerichtliche Zuweisung erworben
 hat.
 
-
 ### (XXXX) §§ 34 bis 36 (weggefallen)
-
-
 
 ### § 37
 
@@ -752,11 +696,9 @@ Meistbietenden allgemein oder unter bestimmten sachlichen oder
 Genehmigungsbehörde abhängt, sowie das Verfahren einschließlich der
 Kosten zu regeln.
 
-
 ### § 38
 
 (weggefallen)
-
 
 ### § 39
 

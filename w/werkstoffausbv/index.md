@@ -22,7 +22,6 @@ in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die
 Berufsschule werden demnächst als Beilage zum Bundesanzeiger
 veröffentlicht.
 
-
 ## Eingangsformel
 
 Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
@@ -34,12 +33,10 @@ Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975
 Einvernehmen mit dem Bundesministerium für Bildung, Wissenschaft,
 Forschung und Technologie:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Werkstoffprüfer/Werkstoffprüferin wird staatlich
 anerkannt.
-
 
 ## § 2 Ausbildungsdauer
 
@@ -50,7 +47,6 @@ Vorschriften eingeführten schulischen Berufsgrundbildungsjahres nach
 einer Verordnung gemäß § 29 Abs. 1 des Berufsbildungsgesetzes als
 erstes Jahr der Berufsausbildung anzurechnen ist, beginnen die
 betriebliche Ausbildung im zweiten Ausbildungsjahr.
-
 
 ## § 3 Berufsfeldbreite Grundbildung und Zielsetzung der Berufsausbildung
 
@@ -67,7 +63,6 @@ Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges
 Planen, Durchführen und Kontrollieren an seinem Arbeitsplatz
 einschließt. Die in Satz 1 beschriebene Befähigung ist auch in den
 Prüfungen nach den §§ 8 und 9 nachzuweisen.
-
 
 ## § 4 Ausbildungsberufsbild
 
@@ -140,10 +135,6 @@ Fertigkeiten und Kenntnisse:
 21. Untersuchen von fehlerhaften Teilen und Analysieren von
     Fehlerursachen.
 
-
-
-
-
 ## § 5 Ausbildungsrahmenplan
 
 Die Fertigkeiten und Kenntnisse nach § 4 sollen unter Berücksichtigung
@@ -157,12 +148,10 @@ zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
 zulässig, soweit betriebspraktische Besonderheiten die Abweichung
 erfordern.
 
-
 ## § 6 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 7 Berichtsheft
 
@@ -170,7 +159,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 8 Zwischenprüfung
 
@@ -259,7 +247,6 @@ schriftlich lösen:
 (5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere
 unterschritten werden, soweit die schriftliche Prüfung in
 programmierter Form durchgeführt wird.
-
 
 ## § 9 Abschlußprüfung
 
@@ -746,14 +733,12 @@ schriftlichen Prüfung sowie innerhalb der schriftlichen Prüfung im
 Prüfungsfach Technologie mindestens ausreichende Leistungen erbracht
 sind.
 
-
 ## § 10 Aufheben von Vorschriften
 
 Die bisher festgelegten Berufsbilder, Berufsbildungspläne und
 Prüfungsanforderungen für die Ausbildungsberufe
 Werkstoffprüfer/Werkstoffprüferin und
 Universalhärter/Universalhärterin sind nicht mehr anzuwenden.
-
 
 ## § 11 Übergangsregelung
 
@@ -765,11 +750,9 @@ Berufsausbildungsverhältnisse, die bis zum 31. Dezember 1996 beginnen,
 können die Vertragsparteien die Anwendung der bisherigen Vorschriften
 vereinbaren.
 
-
 ## § 12 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 1996 in Kraft.
-
 
 ## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Werkstoffprüfer/zur Werkstoffprüferin
 

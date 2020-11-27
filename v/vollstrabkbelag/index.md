@@ -21,10 +21,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 22 G v. 27.7.2001 I 1887
 
-
 ## Erster Abschnitt - Vollstreckbarerklärung von gerichtlichen Entscheidungen, Schiedssprüchen und öffentlichen Urkunden
-
-
 
 ### § 1
 
@@ -38,7 +35,6 @@ zuständig sein würde.
 allgemeinen Gerichtsstand hat, und beim Fehlen eines solchen das
 Gericht, in dessen Bezirk sich Vermögen des Schuldners befindet oder
 die Zwangsvollstreckung durchgeführt werden soll.
-
 
 ### § 2
 
@@ -60,7 +56,6 @@ gelten entsprechend.
 
 (5) (weggefallen)
 
-
 ### § 3
 
 Für die Vollstreckbarerklärung von Schiedssprüchen (Artikel 13 des
@@ -70,7 +65,6 @@ Maßgabe, daß an die Stelle des Oberlandesgerichts das Amts- oder
 Landgericht tritt, das für die gerichtliche Geltendmachung des
 Anspruchs zuständig wäre. Im übrigen gilt für das Verfahren § 2 Abs. 2
 bis 4 entsprechend.
-
 
 ### § 4
 
@@ -88,7 +82,6 @@ solcher Nachweis ist durch öffentliche oder öffentlich beglaubigte
 Urkunden zu führen, sofern nicht die nachzuweisenden Tatsachen bei dem
 Gericht offenkundig sind. Kann er in dieser Form nicht erbracht
 werden, so ist mündliche Verhandlung anzuordnen.
-
 
 ### § 5
 
@@ -119,10 +112,7 @@ sie beruhen, erst
 
 entstanden sind.
 
-
 ## Zweiter Abschnitt - Aufhebung oder Abänderung der Vollstreckbarerklärung
-
-
 
 ### § 6
 
@@ -147,7 +137,6 @@ bereits getroffener Vollstreckungsmaßregeln gelten §§ 769, 770 der
 Zivilprozeßordnung entsprechend. Die Aufhebung einer
 Vollstreckungsmaßregel ist auch ohne Sicherheitsleistung zulässig.
 
-
 ### § 7
 
 (1) Wird die Vollstreckbarerklärung einer gerichtlichen Entscheidung,
@@ -162,17 +151,13 @@ zur Abwendung der Vollstreckung gemachte Leistung entstanden ist.
 dem Verfahren der Vollstreckbarerklärung im ersten Rechtszug
 entschieden hat.
 
-
 ## Dritter Abschnitt - Besondere Vorschriften für deutsche gerichtliche Entscheidungen
-
-
 
 ### § 8
 
 Ist zu erwarten, daß ein Versäumnis- oder Anerkenntnisurteil in
 Belgien geltend gemacht werden soll, so darf das Urteil nicht in
 abgekürzter Form (§ 313b der Zivilprozeßordnung) hergestellt werden.
-
 
 ### § 9
 
@@ -198,17 +183,13 @@ Tatbestandes nicht mitgewirkt haben.
 (4) Für die Vervollständigung des Urteils werden Gerichtsgebühren
 nicht erhoben. ...
 
-
 ### § 10
 
 Einer einstweiligen Anordnung oder einer einstweiligen Verfügung, die
 in Belgien geltend gemacht werden soll, ist eine Begründung
 beizufügen. § 9 ist entsprechend anzuwenden.
 
-
 ## Vierter Abschnitt - Schlußbestimmungen
-
-
 
 ### § 11
 
@@ -221,11 +202,9 @@ zwischenstaatliche Rechtsverkehr erleichtert oder beschleunigt wird.
 Die Landesregierungen können die Ermächtigung auf die
 Landesjustizverwaltungen übertragen.
 
-
 ### § 12
 
 -
-
 
 ### § 13
 
@@ -233,11 +212,9 @@ Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
 im Land Berlin.
 
-
 ### § 14
 
 -
-
 
 ### § 15
 

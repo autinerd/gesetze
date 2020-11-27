@@ -17,7 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 939
 
-
 ## I.
 
 Nach § 126 Absatz 3 Satz 2 des Bundesbeamtengesetzes vom 5. Februar
@@ -29,7 +28,6 @@ Beschäftigten des Bundessozialgerichts in beamtenrechtlichen und
 richterdienstrechtlichen Angelegenheiten zu entscheiden, soweit das
 Bundesamt für zentrale Dienste und offene Vermögensfragen für die
 getroffene Maßnahme zuständig war.
-
 
 ## II.
 
@@ -45,13 +43,11 @@ Widerspruch befugt war. Das Bundesministerium für Arbeit und Soziales
 behält sich vor, im Einzelfall die Prozessvertretung selbst
 wahrzunehmen.
 
-
 ## III.
 
 Diese Anordnung wird am 1. Juni 2011 wirksam. Die Abschnitte I und II
 sind auch anzuwenden auf bereits laufende Verfahren der Beschäftigten
 des Bundessozialgerichts.
-
 
 ## Schlussformel
 

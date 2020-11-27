@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1958, 69
 
-
-
 ## (XXXX)
 
 Auf Grund des § 35 Abs. 1 und Abs. 3 Satz 2 des Warenzeichengesetzes
@@ -32,7 +30,6 @@ Besitzungen Singapur und Nordborneo oder im Malaiischen Bund anmelden,
 brauchen nicht den Nachweis zu erbringen, daß sie für das Zeichen in
 dem Staat, in dem sich ihre Niederlassung befindet, den Markenschutz
 nachgesucht und erhalten haben.
-
 
 ## Schlussformel
 

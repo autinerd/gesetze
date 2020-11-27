@@ -19,15 +19,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 3.9.2012 I 1875
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 11 Abs. 2 des Kraft-Wärme-Kopplungsgesetzes vom 19.
 März 2002 (BGBl. I S. 1092) in Verbindung mit dem 2. Abschnitt des
 Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821) verordnet
 das Bundesministerium für Wirtschaft und Technologie:
-
 
 ## § 1 Gebühren und Auslagen
 
@@ -50,7 +47,6 @@ zum 31. Dezember 2011 erfolgt ist, ist Anlage 2 anzuwenden.
 (3) Hinsichtlich der Auslagen gilt § 10 des Verwaltungskostengesetzes.
 Auslagen für Telekommunikationsleistungen werden nicht erhoben.
 
-
 ## § 2 Widerspruch
 
 Für die vollständige oder teilweise Zurückweisung eines Widerspruchs
@@ -65,7 +61,6 @@ Widerspruch nach Beginn seiner sachlichen Bearbeitung, jedoch vor
 deren Beendigung zurückgenommen, beträgt die Gebühr höchstens 75 vom
 Hundert der Widerspruchsgebühr.
 
-
 ## § 3 Widerruf, Rücknahme, Ablehnung und Zurücknahme von Anträgen
 
 Für den Widerruf oder die Rücknahme einer Amtshandlung, die Ablehnung
@@ -73,11 +68,9 @@ eines Antrags auf Vornahme einer Amtshandlung sowie in den Fällen der
 Zurücknahme eines Antrags auf Vornahme einer Amtshandlung werden
 Gebühren nach Maßgabe des § 15 des Verwaltungskostengesetzes erhoben.
 
-
 ## § 4 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Anlage 1 (zu § 1 Absatz 2 Satz 1) Gebührenverzeichnis
 

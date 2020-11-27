@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 5 Abs. 14 G v. 24.2.2012 I 212
 
-
 ## Erster Abschnitt - Allgemeine Bestimmungen
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -67,7 +64,6 @@ von Altöl.
 (3) Diese Verordnung gilt nicht für PCB/PCT-haltiges Altöl, das
 zugleich PCB nach § 1 Abs. 2 Nr. 2 der PCB/PCT-Abfallverordnung ist
 und nach den Vorschriften dieser Verordnung zu beseitigen ist.
-
 
 ### § 1a Definitionen
 
@@ -143,7 +139,6 @@ nach Sortengruppen spezifizierten Erzeugnisse:
 (4) PCB im Sinne dieser Verordnung sind die in § 1 Abs. 2 Nr. 1 der
 PCB/PCT-Abfallverordnung bezeichneten Stoffe.
 
-
 ### § 2 Vorrang der Aufbereitung
 
 (1) Der Aufbereitung von Altölen wird Vorrang vor sonstigen
@@ -153,7 +148,6 @@ entgegenstehen.
 
 (2) Altöle der Sammelkategorie 1 der Anlage 1 sind zur Aufbereitung
 geeignet.
-
 
 ### § 3 Grenzwerte
 
@@ -169,7 +163,6 @@ unterhalb der in Satz 1 genannten Grenzwerte liegt.
 (2) Altöle dürfen energetisch oder in sonstiger Weise stofflich
 verwertet werden, soweit sie nicht nach § 2 vorrangig aufzubereiten
 sind.
-
 
 ### § 4 Getrennte Entsorgung, Vermischungsverbote
 
@@ -230,7 +223,6 @@ Nachweisverordnung angeordnet ist.
 
 (7) § 30 der Nachweisverordnung findet entsprechende Anwendung.
 
-
 ### § 5 Entnahme, Untersuchung und Aufbewahrung von Proben
 
 (1) Unternehmen der Altölsammlung haben bei der Übernahme von Altölen
@@ -261,7 +253,6 @@ zuständige Behörde unverzüglich zu unterrichten. Die nach Absatz 1
 Satz 2 und Absatz 3 Satz 2 zur Aufbewahrung von Rückstellproben
 Verpflichteten haben die Rückstellproben der zuständigen Behörde auf
 Verlangen zu überlassen.
-
 
 ### § 6 Ergänzende Erklärungen zur Nachweisführung
 
@@ -308,10 +299,7 @@ Nachweisverordnung zur elektronischen Führung von Nachweisen
 entsprechende Anwendung, einschließlich der §§ 30 und 31 der
 Nachweisverordnung.
 
-
 ## Zweiter Abschnitt - Anforderungen an die Abgabe von Verbrennungsmotoren- oder Getriebeölen
-
-
 
 ### § 7 Kennzeichnung der Gebinde
 
@@ -322,7 +310,6 @@ folgendermaßen gekennzeichnet sind:
 Unsachgemäße Beseitigung von Altöl gefährdet die Umwelt! Jede
 Beimischung von Fremdstoffen wie Lösemitteln, Brems- und
 Kühlflüssigkeiten ist verboten."
-
 
 ### § 8 Altölannahmestelle bei Abgabe an Endverbraucher
 
@@ -347,7 +334,6 @@ ihre Inanspruchnahme für den Käufer zumutbar ist.
 (3) Die Absätze 1 bis 2 gelten sinngemäß auch für Ölfilter und beim
 Ölwechsel regelmäßig anfallende ölhaltige Abfälle.
 
-
 ### § 9 Ausnahmen für gewerbliche Endverbraucher, Schiffahrt
 
 (1) Soweit gewerbliche oder sonstige wirtschaftliche Unternehmen oder
@@ -363,10 +349,7 @@ die Einrichtungen der Bilgenentölung oder die Auffanganlagen gemäß des
 Internationalen Übereinkommens zur Verhütung der Meeresverschmutzung
 durch den Schiffsbetrieb (MARPOL) in Anspruch nimmt.
 
-
 ## Dritter Abschnitt - Schlussbestimmungen
-
-
 
 ### § 10 Ordnungswidrigkeiten
 
@@ -409,25 +392,18 @@ Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 2.  entgegen § 7 Verbrennungsmotorenöle oder Getriebeöle in Gebinden in
     den Verkehr bringt.
 
-
-
-
-
 ### § 11 Ablösung von Vorschriften
 
 Die §§ 5a und 5b des Abfallgesetzes werden durch diese Verordnung
 abgelöst.
 
-
 ### (XXXX) §§ 12 und 13 (weggefallen)
 
 -
 
-
 ### § 14
 
 (Inkrafttreten)
-
 
 ### Anlage 1 (zu § 2 Abs. 2 und § 4 Abs. 3 und 6) Zuordnung von Abfallschlüsseln zu einer Sammelkategorie
 
@@ -559,10 +535,6 @@ Fundstelle des Originaltextes: BGBl. I 2002, 1372
 *    *   13 07 01
 
     *   Heizöl und Diesel
-
-
-
-
 
 ### Anlage 2 (zu § 5 Abs. 3) Probenahme und Untersuchung von Altöl
 
@@ -833,13 +805,6 @@ Fundstelle des Originaltextes: BGBl. I 2002, 1372
         sachverständiger Stellen sind beim Deutschen Patent- und Markenamt in
         München archivmäßig gesichert niedergelegt. Die DIN-Normen sind in der
         Beuth-Verlag GmbH, Berlin und Köln erschienen.
-
-
-
-
-
-
-
 
 ### Anlage 3 (zu § 6 Abs. 1 und 2) Erklärung über die Entsorgung von Altölen
 

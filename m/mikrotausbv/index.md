@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1998, 477
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
@@ -26,17 +24,14 @@ Bundesministerium für Wirtschaft im Einvernehmen mit dem
 Bundesministerium für Bildung, Wissenschaft, Forschung und
 Technologie:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Mikrotechnologe/Mikrotechnologin wird staatlich
 anerkannt.
 
-
 ## § 2 Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Ausbildungsberufsbild
 
@@ -94,10 +89,6 @@ Fertigkeiten und Kenntnisse:
 
 
 17. Sichern von Prozeßabläufen im Einsatzgebiet.
-
-
-
-
 
 ## § 4 Ausbildungsrahmenplan
 
@@ -170,12 +161,10 @@ Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges
 Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung
 ist auch in den Prüfungen nach den §§ 7 und 8 nachzuweisen.
 
-
 ## § 5 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 6 Berichtsheft
 
@@ -183,7 +172,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 7 Zwischenprüfung
 
@@ -210,7 +198,6 @@ Chemikalien und anderen Arbeitsstoffen; Produktionsorganisation,
 insbesondere Zusammenhänge von Technik, Arbeitsorganisation,
 Sicherheit und Gesundheitsschutz bei der Arbeit, Umweltschutz und
 Wirtschaftlichkeit.
-
 
 ## § 8 Abschlußprüfung
 
@@ -383,11 +370,9 @@ Dokumentation insgesamt, in dem Fachgespräch oder in einem der drei
 Prüfungsbereiche mit ungenügend bewertet, so ist die Prüfung nicht
 bestanden.
 
-
 ## § 9 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 1998 in Kraft.
-
 
 ## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Mikrotechnologen/zur Mikrotechnologin
 

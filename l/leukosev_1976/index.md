@@ -21,10 +21,7 @@ Neugefasst durch
 Geändert durch
 :   Art. 2 V v. 20.12.2005 I 3499
 
-
 ## I. - Begriffsbestimmungen
-
-
 
 ### § 1
 
@@ -174,26 +171,19 @@ beim innergemeinschaftlichen Handelsverkehr mit Rindern und Schweinen
 die zur Erzeugung von Milch, zur Zucht, zur Mast oder zur Verwendung
 als Zugtiere bestimmt sind.
 
-
 ### § 2
 
 (weggefallen)
 
-
 ## II. - Schutzmaßregeln
 
-
-
 ### 1. - Allgemeine Schutzmaßregeln
-
-
 
 #### § 3
 
 Impfungen gegen die Leukose der Rinder und Heilversuche sind verboten.
 Die zuständige Behörde kann Ausnahmen für wissenschaftliche Versuche
 zulassen, wenn Belange der Seuchenbekämpfung nicht entgegenstehen.
-
 
 #### § 3a
 
@@ -208,11 +198,9 @@ Abstand von mindestens fünf und höchstens sieben Monaten vorgenommenen
 serologischen Untersuchung der Einzel-, Kannen- oder Tankmilch nach §
 1 Abs. 3 untersucht worden sind.
 
-
 #### § 4
 
 (weggefallen)
-
 
 #### § 5
 
@@ -236,11 +224,9 @@ und eine Verbreitung der Seuche dadurch nicht zu befürchten ist.
 
 (3) (weggefallen)
 
-
 #### § 6
 
 (weggefallen)
-
 
 #### § 7
 
@@ -249,10 +235,7 @@ amtliche Beobachtung von Rindern anordnen, wenn dies aus Gründen der
 Seuchenbekämpfung erforderlich ist. Sie kann die Art der Untersuchung
 anordnen.
 
-
 ### 2. - Besondere Schutzmaßregeln nach amtlicher Feststellung der Leukose oder des Verdachts auf Leukose der Rinder
-
-
 
 #### § 8
 
@@ -299,7 +282,6 @@ sonstige Standort nach Maßgabe folgender Vorschriften der Sperre:
 Nr. 2 und 6 zulassen, wenn Belange der Seuchenbekämpfung nicht
 entgegenstehen.
 
-
 #### § 9
 
 Die zuständige Behörde ordnet die Tötung von Rindern an, bei denen
@@ -310,10 +292,7 @@ worden sind, sowie von ansteckungsverdächtigen Rindern eines
 verseuchten Bestandes, wenn dies aus Gründen der Seuchenbekämpfung
 erforderlich ist.
 
-
 ### 3. - Desinfektion
-
-
 
 #### § 10
 
@@ -332,10 +311,7 @@ sind, sind
 nach näherer Anweisung des beamteten Tierarztes zu reinigen und zu
 desinfizieren.
 
-
 ## III. - Aufhebung der Schutzmaßregeln
-
-
 
 ### § 11
 
@@ -391,13 +367,7 @@ beseitigt ist oder sich als unbegründet erwiesen hat.
 
 3.  die Desinfektion nach Absatz 2 Nr. 3 durchgeführt worden ist.
 
-
-
-
-
 ## IV. - Ordnungswidrigkeiten
-
-
 
 ### § 12
 
@@ -454,23 +424,15 @@ Tierseuchengesetzes handelt, wer vorsätzlich oder fahrlässig
 
     zuwiderhandelt.
 
-
-
-
-
 ## V. - Schlußvorschriften
-
-
 
 ### § 13
 
 (weggefallen)
 
-
 ### § 14
 
 (Inkrafttreten, Außerkrafttreten)
-
 
 ### (XXXX) Anlagen 1 und 2 (weggefallen)
 

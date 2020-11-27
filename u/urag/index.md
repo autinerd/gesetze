@@ -18,15 +18,11 @@ Fundstelle
 Geändert durch
 :   Art. 12 G v. 22.3.1991 I 766, 1928
 
-
 ## Art 1 - Immissionsschutz
-
-
 
 ## § 1
 
 -
-
 
 ## § 2 Übernahme von Vorschriften
 
@@ -47,11 +43,9 @@ Republik in Kraft.
 
 (2)
 
-
 ## § 3
 
 -
-
 
 ## § 4 Altanlagen
 
@@ -93,22 +87,13 @@ Schadensersatzansprüche.
 \*) (G v. 22.3.1991 I 766, 1928; nach seinem Art. 15 am 29.3.1991 in Kraft
     getreten)
 
-
-
-
-
 ## (XXXX) §§ 5 bis 7 (weggefallen)
 
-
-
 ## Art 2 - Kerntechnische Sicherheit und Strahlenschutz
-
-
 
 ## § 1
 
 -
-
 
 ## § 2 Übernahme und Außerkrafttreten von Vorschriften
 
@@ -124,19 +109,13 @@ Verwaltungsvorschrift in Kraft.
 
 (2)
 
-
 ## (XXXX) §§ 3 bis 5 (weggefallen)
 
-
-
 ## Art 3 - Wasserwirtschaft
-
-
 
 ## § 1
 
 -
-
 
 ## § 2 Übernahme von Vorschriften
 
@@ -155,15 +134,11 @@ Republik wie folgt in Kraft:
 
 (2)
 
-
 ## Art 4 - Abfallwirtschaft
-
-
 
 ## § 1
 
 -
-
 
 ## § 2 Übernahme von Vorschriften
 
@@ -182,41 +157,26 @@ Bundesrepublik Deutschland geltenden abfallrechtlichen Vorschriften
 in der jeweiligen Rechtsform als Gesetz, Rechtsverordnung oder
 allgemeine Verwaltungsvorschrift in Kraft.
 
-
 ## § 3 Altanlagen
 
 Auf Altanlagen findet Artikel 1 § 4 Abs. 3 entsprechende Anwendung.
 
-
 ## (XXXX) §§ 4 bis 6 (weggefallen)
-
-
 
 ## Art 5 - Chemikalienrecht
 
-
-
 ## Art 6 - Naturschutz und Landschaftspflege
-
-
 
 ## Art 7 - Umweltverträglichkeitsprüfung
 
-
-
 ## Art 8 - Schlußbestimmungen
 
-
-
 ## Art 9 - Inkrafttreten
-
-
 
 ## Schlußformel
 
 **Die Präsidentin der Volkskammer der Deutschen Demokratischen
 Republik**
-
 
 ## Anlage 1
 
@@ -397,7 +357,6 @@ Republik**
 -------
 \*) Gewässer-Rahmen-Abwasser Verwaltungsvorschrift
 
-
 ## Anlage 2
 
 
@@ -470,19 +429,6 @@ Republik**
     *
         *
             Zu Artikel 5 Chemikalienrecht
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## Anhang EV Auszug aus EinigVtr Anlage II Kapitel XII Abschnitt III (BGBl. II 1990, 885, 1226)
 

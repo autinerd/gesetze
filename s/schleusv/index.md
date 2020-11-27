@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 1.12.2009 VkBl 2009, 821
 
-
 ## Eingangsformel
 
 Auf Grund des § 46 Nr. 1 des Bundeswasserstraßengesetzes (WaStrG) in
@@ -30,7 +29,6 @@ Ermächtigung zum Erlass von Rechtsverordnungen nach dem
 Bundeswasserstraßengesetz über die Regelung des Betriebs von Anlagen
 vom 31. März 1970 (BGBl. I S. 315) verordnet die Wasser- und
 Schifffahrtsdirektion Nord:
-
 
 ## § 1 Geltungsbereich
 
@@ -108,10 +106,6 @@ Eider-Sperrwerk (Eider).
 
     westlich durch die Verbindungslinie vom Kopfdalben des Leitdammes Nord
     bis zum Kopf des Leitdammes Süd; ausgenommen ist die Landesstraße.
-
-
-
-
 
 ## § 2 Betriebszeiten
 
@@ -339,7 +333,6 @@ Schleusenaufsicht und für die Schleuse Strohbrück beim Außenbezirk
 Rendsburg des Wasser- und Schifffahrtsamtes Kiel-Holtenau angemeldet
 worden ist.
 
-
 ## § 3 Verhalten in den Schleusenbereichen
 
 (1) Jedermann hat sich in den Schleusenbereichen so zu verhalten, dass
@@ -392,11 +385,6 @@ benutzen.
     der Schleusenliegezeit in Nullstellung eine geringst mögliche Strömung
     in der Schleuse verursacht.
 
-
-
-
-
-
 ## § 3a Belegung der Schleusen am Nord-Ostsee-Kanal mit Fahrgastschiffen und Tankfahrzeugen zu gleicher Zeit
 
 (1) Ein Fahrgastschiff darf nur dann zusammen mit einem Öl-, Gas- oder
@@ -408,7 +396,6 @@ befördert.
 (2) Bei gleichzeitiger Schleusung eines Fahrgastschiffes und eines
 Tankschiffes in unterschiedlichen Kammern dürfen das Fahrgastschiff
 und Tankschiff nicht zugleich an die Mittelmauer gelegt werden.
-
 
 ## § 4 Brandverhütung
 
@@ -458,7 +445,6 @@ Schleusenbereich ein Fahrzeug befindet, das am Tage eine rote Flagge
 (Flagge "B" des Internationalen Signalbuches) und nachts ein festes
 rotes Rundumlicht gesetzt hat.
 
-
 ## § 5 Anmeldung in den Schleusen
 
 (1) Nach dem Einlaufen in die Schleusen Strohbrück, Lexfähr, Nordfeld
@@ -469,7 +455,6 @@ Fahrzeug bei der Schleusenaufsicht anzumelden.
 beauftragte Makler ist unabhängig von der Verantwortlichkeit des
 Fahrzeugführers dafür verantwortlich, dass die Anmeldung unverzüglich
 nach dem Einlaufen des Fahrzeuges erfolgt.
-
 
 ## § 6 Grenzen und Benutzung der Yachthäfen Brunsbüttel und Kiel-Holtenau
 
@@ -521,7 +506,6 @@ Brunsbüttel und nur für eine Übernachtung genutzt werden. Die
 Außenliegestellen am Außensteg in Kiel-Holtenau sowie andere
 Liegestellen außerhalb der genannten Yachthäfen dürfen von
 Sportfahrzeugen nicht benutzt werden.
-
 
 ## § 7 Betreten der Schleusenbereiche
 
@@ -608,7 +592,6 @@ Werkstätten nur zu dienstlichen Zwecken gestattet.
 (9) In allen Schleusenbereichen sind Ausweise auf Verlangen
 vorzuzeigen.
 
-
 ## § 8 Befahren der Landflächen im Schleusenbereich
 
 (1) Das Befahren der Landflächen ist nur den im § 7 Abs. 1 Nr. 1
@@ -622,7 +605,6 @@ Fahrzeugen einschließlich Mopeds und Fahrrädern verboten. Die
 besonders gekennzeichneten Parkplätze dürfen nur von den dazu
 Berechtigten benutzt werden.
 
-
 ## § 9 Übernahme von Proviant oder Ausrüstung
 
 (1) Bei der Übernahme von Proviant oder Ausrüstung hat der
@@ -634,18 +616,15 @@ beendet ist.
 dafür verantwortlich, dass durch seine Tätigkeit der Schleusenvorgang
 nicht verzögert oder sonst beeinträchtigt wird.
 
-
 ## § 10 Haftungsausschluss
 
 Das Betreten und Befahren der Landflächen sowie die Ausübung
 gewerblicher Tätigkeit erfolgen auf eigene Gefahr.
 
-
 ## § 11 Schadensmeldung
 
 Wer in den Schleusenbereichen Schaden verursacht, hat dies
 unverzüglich der Schleusenaufsicht anzuzeigen.
-
 
 ## § 12 Durchführungsregelung
 
@@ -654,7 +633,6 @@ der Wasser- und Schifffahrtsverwaltung des Bundes. Sie können zur
 Aufrechterhaltung eines ordnungsgemäßen Betriebsablaufs
 Einzelweisungen erteilen. Sie sind ermächtigt, von Vorschriften dieser
 Verordnung im Einzelfall zu befreien.
-
 
 ## § 13 Ordnungswidrigkeiten
 
@@ -684,10 +662,6 @@ Bundeswasserstraßengesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 5.  entgegen § 12 den Einzelweisungen nicht Folge leistet.
-
-
-
-
 
 ## § 14 Inkrafttreten
 

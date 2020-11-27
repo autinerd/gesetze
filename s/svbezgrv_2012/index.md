@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 2421
 
-
 ## Eingangsformel
 
 Auf Grund
@@ -50,7 +49,6 @@ verordnet die Bundesregierung und auf Grund
 
 verordnet das Bundesministerium für Arbeit und Soziales:
 
-
 ## § 1 Durchschnittsentgelt in der Rentenversicherung
 
 (1) Das Durchschnittsentgelt für das Jahr 2010 beträgt 31 144 Euro.
@@ -61,7 +59,6 @@ verordnet das Bundesministerium für Arbeit und Soziales:
 (3) Die Anlage 1 zum Sechsten Buch Sozialgesetzbuch wird entsprechend
 ergänzt.
 
-
 ## § 2 Bezugsgröße in der Sozialversicherung
 
 (1) Die Bezugsgröße im Sinne des § 18 Absatz 1 des Vierten Buches
@@ -71,7 +68,6 @@ monatlich 2 625 Euro.
 (2) Die Bezugsgröße (Ost) im Sinne des § 18 Absatz 2 des Vierten
 Buches Sozialgesetzbuch beträgt im Jahr 2012 jährlich 26 880 Euro und
 monatlich 2 240 Euro.
-
 
 ## § 3 Beitragsbemessungsgrenzen in der Rentenversicherung
 
@@ -103,7 +99,6 @@ Die Anlage 2 zum Sechsten Buch Sozialgesetzbuch wird für den Zeitraum
 Die Anlage 2a zum Sechsten Buch Sozialgesetzbuch wird für den Zeitraum
 „1. 1. 2012 – 31. 12. 2012“ um die Jahresbeträge ergänzt.
 
-
 ## § 4 Jahresarbeitsentgeltgrenze in der Krankenversicherung
 
 (1) Die Jahresarbeitsentgeltgrenze nach § 6 Absatz 6 des Fünften
@@ -111,7 +106,6 @@ Buches Sozialgesetzbuch für das Jahr 2012 beträgt 50 850 Euro.
 
 (2) Die Jahresarbeitsentgeltgrenze nach § 6 Absatz 7 des Fünften
 Buches Sozialgesetzbuch für das Jahr 2012 beträgt 45 900 Euro.
-
 
 ## § 5 Werte zur Umrechnung der Beitragsbemessungsgrundlagen des Beitrittsgebiets
 
@@ -138,14 +132,9 @@ ergänzt:
     *   1,1754”
         .
 
-
-
-
-
 ## § 6 Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2012 in Kraft.
-
 
 ## Schlussformel
 

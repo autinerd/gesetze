@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   RGBl I: 1943, 674
 
-
-
 ## Eingangsformel
 
 In den Versorgungsgesetzen und in der Reichsversicherungsordnung sind
@@ -32,7 +30,6 @@ zu beseitigen und den Schutz der Verletzten und ihrer Hinterbliebenen
 zu verstärken, hat die Reichsregierung das folgende Gesetz
 beschlossen, das hiermit verkündet wird:
 
-
 ## § 1
 
 (1) Ist ein Dienstunfall bei der Teilnahme am allgemeinen Verkehr
@@ -43,7 +40,6 @@ Vorschriften des Versorgungsrechts bisher ausgeschlossen waren.
 
 (2) ...
 
-
 ## § 2
 
 § 1 gilt nicht, wenn der Schaden im Zusammenhang mit einer
@@ -51,13 +47,11 @@ Kampfhandlung entstanden
 oder sonst ein Personenschaden im Sinne des § 2 der
 Personenschädenverordnung              ist.
 
-
 ## § 3
 
 Die Leistungen, die der Verletzte oder seine Hinterbliebenen nach den
 Vorschriften des Versorgungs-...rechts erhalten, sind auf den
 Schadenersatzanspruch (§ 1) anzurechnen.
-
 
 ## § 4
 
@@ -68,11 +62,9 @@ Schadenersatz verpflichtet ist.
 
 (2) ...
 
-
 ## (XXXX) §§ 5 bis 7 (weggefallen)
 
 -
-
 
 ## § 8
 
@@ -84,11 +76,9 @@ Gesetzes zu erlassen.
 
 (2) ...
 
-
 ## § 9
 
 Das Gesetz tritt mit Wirkung vom 26. August 1939 in Kraft.
-
 
 ## § 10
 

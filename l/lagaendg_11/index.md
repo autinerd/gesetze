@@ -15,19 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1959, 545
 
-
-
 ## Art I - Änderung von Gesetzen
-
-
 
 ### (XXXX) §§ 1 bis 5
 
-
-
 ## Art II - Überleitungs- und Schlußvorschriften
-
-
 
 ### § 6 Übergangsregelung bei der Kriegsschadenrente
 
@@ -43,7 +35,6 @@ Abs. 3 LAG - 8. ÄndG LAG) vom 26. Juli 1957 (BGBl. I S. 809) steht der
 Gewährung eines Mindesterfüllungsbetrages nach § 278a Abs. 4 des
 Lastenausgleichsgesetzes nicht entgegen.
 
-
 ### § 7 Anwendung in Berlin
 
 Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 und des § 13 Abs. 1
@@ -52,12 +43,10 @@ auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes
 erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 Überleitungsgesetzes.
 
-
 ### § 8 Anwendung im Saarland
 
 Die Vorschriften dieses Gesetzes gelten mit Ausnahme der §§ 4 und 5
 nicht im Saarland.
-
 
 ### § 9 Inkrafttreten
 

@@ -19,12 +19,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 250 V v. 25.11.2003 I 2304
 
-
 ## Eingangsformel
 
 Auf Grund des Artikels 4 des Einigungsvertragsgesetzes vom 23.
 September 1990 (BGBl. 1990 II S. 885) verordnet die Bundesregierung:
-
 
 ## § 1
 
@@ -32,7 +30,6 @@ Die in Anlage 1 dieser Verordnung genannten unmittelbar anwendbaren
 Rechtsakte der Europäischen Gemeinschaften sind mit den dort
 aufgeführten Maßgaben in dem in Artikel 3 des Einigungsvertrages
 genannten Gebiet anzuwenden.
-
 
 ## § 2
 
@@ -50,10 +47,6 @@ folgendes:
 
 2.  Die in der Anlage 3 aufgeführten Rechtsvorschriften sind mit den dort
     genannten Maßgaben anzuwenden.
-
-
-
-
 
 ## § 3
 
@@ -94,10 +87,6 @@ Allgemeinverfügung erteilt werden.
 
 2.  im übrigen das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA).
 
-
-
-
-
 ## § 4
 
 (1) In Anlage 4 aufgeführte Erzeugnisse, die in Anwendung der
@@ -112,7 +101,6 @@ sonstiger Abgabe, Feilhalten und jedes Abgeben an andere.
 daß Erzeugnisse nach Absatz 1 nur in dem in Artikel 3 des
 Einigungsvertrages genannten Gebiet in den Verkehr gebracht werden.
 
-
 ## § 5
 
 Ordnungswidrig im Sinne des Artikels 4 Abs. 2 des
@@ -125,25 +113,18 @@ Einigungsvertragsgesetzes handelt, wer vorsätzlich oder fahrlässig
 2.  entgegen Anlage 3 Kapitel I Nr. 8 Buchstabe d Satz 1 vorgeschriebene
     Angaben nicht, nicht richtig oder nicht vollständig macht.
 
-
-
-
-
 ## § 6
 
 Anpassungen durch den Einigungsvertrag sowie auf Grund von
 Verordnungsermächtigungen in anderen Vorschriften bleiben unberührt.
 
-
 ## § 7
 
 Diese Verordnung tritt am 1. Januar 1991 in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage 1 (zu § 1) Liste der Rechtsakte der Europäischen Gemeinschaften, die nach § 1 in dem in Artikel 3 des Einigungsvertrages genannten Gebiet gemäß den von den zuständigen Organen der Europäischen Gemeinschaften erlassenen Ausnahmeregelungen mit folgenden Maßgaben anzuwenden sind:
 
@@ -327,10 +308,6 @@ folgende Kontrollmittel zu verwenden:
 
 4.  sonstige Fahrtschreiber, mit denen mindestens die Dauer der Lenkzeit
     aufgezeichnet wird.
-
-
-
-
 
 ## Anlage 2 (zu § 2 Nr. 1) Liste des Bundesrechts, das gemäß § 2 Nr. 1 in dem in Artikel 3 des Einigungsvertrages genannten Gebiet zeitlichen Maßgaben unterliegt
 
@@ -536,10 +513,6 @@ folgende Kontrollmittel zu verwenden:
 15. Kosmetik-Verordnung in der Fassung der Bekanntmachung vom 19. Juni
     1985 (BGBl. I S. 1082), zuletzt geändert durch Verordnung vom 21. März
     1990 (BGBl. I S. 589).
-
-
-
-
 
 ## Anlage 3 (zu § 2 Nr. 2) Liste des Bundesrechts, das gemäß § 2 Nr. 2 in dem in Artikel 3 des Einigungsvertrages genannten Gebiet mit folgenden Maßgaben anzuwenden ist
 
@@ -1373,7 +1346,6 @@ bedeuten würde. Sie darf nur für einen Schwefelgehalt bis zu höchstens
 Dezember 1994 zu befristen. Die Bewilligung ist im Hinblick auf eine
 rasche Verwirklichung des Verordnungsziels mit Auflagen zu versehen.
 
-
 ## Anlage 4 (zu § 4 Abs. 1 Satz 1) Liste der Erzeugnisse gemäß § 4 Abs. 1 Satz 1
 
 Erzeugnisse im Sinne des § 4 Abs. 1 Satz 1 sind die Erzeugnisse, die
@@ -1405,10 +1377,6 @@ unterliegen:
 
 
 *    *   Kapitel III
-
-
-
-
 
 ## Anhang 1 zu Anlage 1 Anordnung über die Liefermengen von Kuhmilch für den Zeitraum vom 1. Juli 1990 bis 31. März 1991 Vom 22. August 1990
 
@@ -1542,10 +1510,6 @@ Berlin den 22. August 1990
 *    *   DDR gesamt
 
     *   5.365
-
-
-
-
 
 ## Anhang 2 zu Anlage 1 Zweite Durchführungsbestimmung über die Bildung der Landeskontrollverbände und Erhebung einer Mitverantwortungsabgabe für Milch und Milcherzeugnisse Vom 21. September 1990
 

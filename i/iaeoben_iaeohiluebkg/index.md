@@ -17,13 +17,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1989, 434
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -42,7 +39,6 @@ Deutschland unterzeichneten Übereinkommen, wird zugestimmt:
 Die Übereinkommen werden nachstehend mit einer amtlichen deutschen
 Übersetzung veröffentlicht.
 
-
 ## Art 2
 
 Soweit die Bundesrepublik Deutschland als ersuchender Staat nach
@@ -58,12 +54,10 @@ oder gegen denjenigen, der aus einer sonstigen Tätigkeit nach Artikel
 1 Abs. 2 des IAEO-Übereinkommens über die frühzeitige Benachrichtigung
 bei nuklearen Unfällen haftbar ist, auf sie über.
 
-
 ## Art 3
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
-
 
 ## Art 4
 

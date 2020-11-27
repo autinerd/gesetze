@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 17.11.2005 I 3188
 
-
 ## Eingangsformel
 
 Auf Grund des § 43 Abs. 2 des Berufsbildungsgesetzes vom 14. August
@@ -33,7 +32,6 @@ Berufsbildung gemäß § 19 Nr. 1 des Berufsbildungsförderungsgesetzes
 vom 23. Dezember 1981 (BGBl. I S. 1692) wird im Einvernehmen mit dem
 Bundesminister für Bildung und Wissenschaft verordnet:
 
-
 ## § 1 Zweck der Verordnung
 
 Diese Verordnung dient der Umsetzung des Abkommens zwischen der
@@ -43,7 +41,6 @@ und über die gegenseitige Anerkennung der Gleichwertigkeit von
 beruflichen Prüfungszeugnissen vom 27. November 1989 (BGBl. II 1991 S.
 712).
 
-
 ## § 2 Gleichstellung von Prüfungszeugnissen
 
 Österreichische Zeugnisse über das Bestehen der Lehrabschlußprüfung
@@ -51,12 +48,10 @@ werden den Zeugnissen über das Bestehen der Abschlußprüfung oder
 Gesellenprüfung in anerkannten Ausbildungsberufen nach Maßgabe der in
 der Anlage enthaltenen Aufstellung gleichgestellt.
 
-
 ## Schlußformel
 
 Der Bundesrat hat zugestimmt.
 Der Bundesminister für Wirtschaft
-
 
 ## Anlage (zu § 2)
 
@@ -3678,13 +3673,6 @@ Der Bundesminister für Wirtschaft
         1)  Sofern zu der Ausbildungsberufsbezeichnung eine Fachrichtungs- oder
             Schwerpunktbezeichnung aufgeführt ist, beschränkt sich die
             Gleichstellung auf diese Fachrichtung oder diesen Schwerpunkt.
-
-
-
-
-
-
-
 
 ## Anhang EV Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet B Abschnitt III und Kapitel XVI Sachgebiet C Abschnitt III (BGBl. II 1990, 889, 998, 1135)
 

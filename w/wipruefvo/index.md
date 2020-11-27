@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 25 u. 25a G v. 26.3.2007 I 378
 
-
 ## Eingangsformel
 
 Auf Grund des § 106 Abs. 4a Satz 9 des Fünften Buches Sozialgesetzbuch
@@ -28,7 +27,6 @@ Dezember 1988, BGBl. I S. 2477, 2482), der durch Artikel 1 Nr. 82
 Buchstabe h des Gesetzes vom 14. November 2003 (BGBl. I S. 2190)
 eingefügt worden ist, verordnet das Bundesministerium für Gesundheit
 und Soziale Sicherung:
-
 
 ## § 1 Prüfungsstelle und Beschwerdeausschuss
 
@@ -70,7 +68,6 @@ werden.
 Beratung der Ärzte über Fragen der Wirtschaftlichkeit und Qualität der
 Versorgung. Qualifizierte Berater können an der Durchführung der
 Beratung beteiligt werden.
-
 
 ## § 2 Aufgaben und Entschädigung des Vorsitzenden
 
@@ -117,7 +114,6 @@ Bedeutung der Aufgabe und dem zu erwartenden Aufwand angemessen sein.
 hierfür mit den in Absatz 3 Satz 3 genannten Vertragspartnern eine
 gesonderte Vergütung vereinbaren.
 
-
 ## § 3 Pflichten der Mitglieder, Abberufung, Datenschutz
 
 (1) Die Mitglieder des Ausschusses sind verpflichtet, an den Sitzungen
@@ -136,7 +132,6 @@ Satz 3 genannten Vertragspartner sind vor der Abberufung zu hören.
 (3) Die Mitglieder des Ausschusses und ihre Stellvertreter dürfen
 personenbezogene Daten, die ihnen bei der Ausübung ihrer Tätigkeit im
 Ausschuss zur Kenntnis gelangen, nicht unbefugt offenbaren.
-
 
 ## § 4 Aufgaben und Personal der Prüfungsstelle
 
@@ -202,7 +197,6 @@ Geschäftsjahr ist das Kalenderjahr. Für die Planung und Ausführung von
 Einnahmen und Ausgaben gelten die Grundsätze der Wirtschaftlichkeit
 und Sparsamkeit.
 
-
 ## § 5 Kostentragung
 
 (1) Die mit der Tätigkeit des Vorsitzenden des Beschwerdeausschusses
@@ -217,11 +211,9 @@ Sozialgesetzbuch.
 Verbände der Krankenkassen tragen die Kosten für die von ihnen
 entsandten Vertreter selbst.
 
-
 ## § 6 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlussformel
 

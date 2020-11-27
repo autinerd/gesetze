@@ -23,7 +23,6 @@ in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die
 Berufsschule werden demnächst als Beilage zum Bundesanzeiger
 veröffentlicht.
 
-
 ## Eingangsformel
 
 Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
@@ -32,12 +31,10 @@ August 1976 (BGBl. I S. 2525) geändert worden ist, wird im
 Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft
 verordnet:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Milchwirtschaftlicher
 Laborant/Milchwirtschaftliche Laborantin wird staatlich anerkannt.
-
 
 ## § 2 Ausbildungsdauer
 
@@ -48,7 +45,6 @@ Berufsgrundbildungsjahres nach einer Rechtsverordnung gemäß § 29 Abs.
 anzurechnen ist, beginnen die betriebliche Ausbildung im zweiten
 Ausbildungsjahr.
 
-
 ## § 3 Berufsfeldbreite Grundbildung
 
 Die Ausbildung im ersten Ausbildungsjahr vermittelt eine
@@ -56,7 +52,6 @@ berufsfeldbreite Grundbildung, wenn die betriebliche Ausbildung nach
 dieser Verordnung und die Ausbildung in der Berufsschule nach den
 landesrechtlichen Vorschriften über das Berufsgrundbildungsjahr
 erfolgen.
-
 
 ## § 4 Ausbildungsberufsbild
 
@@ -105,10 +100,6 @@ Fertigkeiten und Kenntnisse:
 
 14. Durchführen von Produktkontrollen zur Qualitätssicherung.
 
-
-
-
-
 ## § 5 Ausbildungsrahmenplan
 
 Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der Anlage
@@ -121,7 +112,6 @@ zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
 zulässig, soweit betriebspraktische Besonderheiten die Abweichung
 erfordern.
 
-
 ## § 6 Berufsausbildung in überbetrieblichen Ausbildungsstätten
 
 Die zuständige Stelle für die Berufsbildung in der Landwirtschaft
@@ -130,12 +120,10 @@ Grundlage des Ausbildungsrahmenplanes (Anlage zu § 5, Abschnitt III),
 soweit die erforderlichen Fertigkeiten und Kenntnisse nicht in vollem
 Umfang in der Ausbildungsstätte vermittelt werden können.
 
-
 ## § 7 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 8 Berichtsheft
 
@@ -143,7 +131,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 9 Zwischenprüfung
 
@@ -199,7 +186,6 @@ berücksichtigen.
 (5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere
 unterschritten werden, soweit die schriftliche Prüfung in
 programmierter Form durchgeführt wird.
-
 
 ## § 10 Abschlußprüfung
 
@@ -353,7 +339,6 @@ Ist ein Prüfungsfach mit ungenügend oder sind zwei Prüfungsfächer mit
 mangelhaft bewertet worden, so ist die Prüfung insgesamt nicht
 bestanden.
 
-
 ## § 11 Aufhebung von Vorschriften
 
 Die bisher festgelegten Berufsbilder, Berufsbildungspläne und
@@ -362,7 +347,6 @@ vergleichbar geregelten Ausbildungsberufe, die in dieser
 Rechtsverordnung geregelt sind, sind vorbehaltlich des § 12 nicht mehr
 anzuwenden.
 
-
 ## § 12 Übergangsregelung
 
 Auf Ausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
@@ -370,22 +354,18 @@ bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei
 denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften
 dieser Verordnung.
 
-
 ## § 13 Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 112 des Berufsbildungsgesetzes auch im Land Berlin.
 
-
 ## § 14 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 1988 in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesminister für Ernährung, Landwirtschaft und Forsten
-
 
 ## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Milchwirtschaftlichen Laboranten/zur Milchwirtschaftlichen Laborantin
 
@@ -1292,9 +1272,6 @@ zweiten und dritten Ausbildungsjahr -
     *   Maßnahmen zur Qualitätssicherung und Beseitigung von Qualitätsmängeln
         einleiten
 
-
-
-
 ## Abschnitt III:
 
 *    *   Zur Ergänzung der betrieblichen Ausbildung können insbesondere aus den
@@ -1303,10 +1280,6 @@ zweiten und dritten Ausbildungsjahr -
         überbetrieblichen Ausbildungsstätten vermittelt werden. Die
         überbetriebliche Ausbildung ist unter Beachtung der Pflicht der
         Auszubildenden zum Besuch des Berufsschulunterrichts zu organisieren.
-
-
-
-
 
 ## Anhang EV Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III (BGBl. II 1990, 889, 1135)
 

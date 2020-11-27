@@ -19,8 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 11 G v. 17.7.2009 I 1990
 
-
-
 ## Eingangsformel
 
 Es verordnen
@@ -65,13 +63,6 @@ Es verordnen
         vom 22. Januar 2001 (BGBl. I S. 127) im Einvernehmen mit dem
         Bundesministerium für Wirtschaft und Technologie und dem
         Bundesministerium für Gesundheit:
-
-
-
-
-
-
-
 
 ## § 1 Verbot der Verwendung bestimmter Stoffe, bestimmter Zubereitungen aus Stoffen oder bestimmter Gegenstände
 
@@ -161,10 +152,6 @@ c)  soweit die Hilfsstoffe oder Produktionshilfsstoffe von im Vereinigten
     Bescheinigung versehen sind, in der angegeben wird, wie oft amtliche
     Überprüfungen im Herstellungsbetrieb durchgeführt worden sind.
 
-
-
-
-
 ## § 2 Erklärung für das Verbringen aus Mitgliedstaaten der Europäischen Union und die Einfuhr aus Drittstaaten
 
 Für Fertigarzneimittel, die in den Geltungsbereich dieser Verordnung
@@ -179,7 +166,6 @@ arzneilich wirksamen Bestandteile tierischer Herkunft enthalten und
 die, sofern sie unter Verwendung von Hilfsstoffen oder
 Produktionshilfsstoffen im Sinne von § 1 Abs. 1 und 2 hergestellt
 worden sind, die Voraussetzungen von § 1 Abs. 5 erfüllen.
-
 
 ## § 3 Straftaten und Ordnungswidrigkeiten
 
@@ -198,17 +184,14 @@ handelt nach § 97 Abs. 1 des Arzneimittelgesetzes ordnungswidrig.
 Arzneimittelgesetzes handelt, wer entgegen § 2 Satz 1 eine Erklärung
 nicht oder nicht rechtzeitig vorlegt.
 
-
 ## § 4 Übergangsregelung
 
 § 1 Abs. 2 ist für Volumenersatzmittel erst ab dem 14. Mai 2002
 anzuwenden.
 
-
 ## § 5 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 15. Mai 2001 in Kraft.
-
 
 ## Schlussformel
 

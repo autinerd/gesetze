@@ -21,7 +21,6 @@ Geändert durch
 
 Die V tritt gem. § 5 Abs. 2 am 31.12.2016 außer Kraft.
 
-
 ## Eingangsformel
 
 Auf Grund des § 9a Abs. 1 des Handelsgesetzbuchs, der durch Artikel 1
@@ -31,13 +30,11 @@ Handelsgesetzbuch, der durch Artikel 2 des Gesetzes vom 10. November
 2006 (BGBl. I S. 2553) eingefügt worden ist, verordnet das
 Bundesministerium der Justiz:
 
-
 ## § 1 Übertragung der Führung des Unternehmensregisters
 
 Der Bundesanzeiger Verlagsgesellschaft mit beschränkter Haftung
 (Beliehene), eingetragen im Handelsregister beim Amtsgericht Köln, HRB
 31248, wird die Führung des Unternehmensregisters übertragen.
-
 
 ## § 2 Führung eines Dienstsiegels
 
@@ -45,7 +42,6 @@ Die Beliehene ist berechtigt, das kleine Bundessiegel zu führen. Es
 wird vom Bundesministerium der Justiz zur Verfügung gestellt. Das
 Dienstsiegel darf ausschließlich zur Beglaubigung von Ausdrucken aus
 dem Unternehmensregister genutzt werden.
-
 
 ## § 3 Kündigungsrechte
 
@@ -94,7 +90,6 @@ unverzüglich schriftlich mitteilen.
 die Übertragung der Führung des Unternehmensregisters nach § 1 und die
 Berechtigung zur Führung eines Dienstsiegels nach § 2 aufgehoben.
 
-
 ## § 4 Einreichung von Dokumenten beim Betreiber des Bundesanzeigers
 
 Die auf der Grundlage von § 325 des Handelsgesetzbuchs oder anderen
@@ -105,14 +100,12 @@ Publizitätsgesetzes beim Betreiber des Bundesanzeigers elektronisch
 einzureichenden Dokumente können bis zum 31. Dezember 2009 alternativ
 auch in Papierform eingereicht werden.
 
-
 ## § 5 Inkrafttreten, Außerkrafttreten
 
 (1) § 4 tritt am 1. Januar 2007 in Kraft. Im Übrigen tritt diese
 Verordnung am Tag nach der Verkündung in Kraft.
 
 (2) Diese Verordnung tritt am 31. Dezember 2016 außer Kraft.
-
 
 ## Schlussformel
 

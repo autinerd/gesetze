@@ -15,26 +15,18 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1996, 1674
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## (XXXX) Art 1 u. 2
-
-
 
 ## Art 3 Gesetz über einen Ausgleich für Dienstbeschädigungen im Beitrittsgebiet
 
 -
 
-
 ## (XXXX) Art 4 u. 5
-
-
 
 ## Art 6 Übergangsvorschriften
 
@@ -59,7 +51,6 @@ wenn für sie Zeiten der Zugehörigkeit zu einem Versorgungssystem bei
 Wiedereinbeziehung in das Versorgungssystem (§ 5 Abs. 2a des
 Anspruchs- und Anwartschaftsüberführungsgesetzes) zu berücksichtigen
 sind. Die Sätze 2 bis 5 sind anzuwenden.
-
 
 ## Art 7 Inkrafttreten
 

@@ -20,12 +20,10 @@ Fundstelle
 Geändert durch
 :   Art. 36 G v. 25.7.1991 I 1606
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1 - Zustimmung zum Vertrag
 
@@ -37,7 +35,6 @@ Gemeinsamen Protokolls, der Anlagen I bis IX und der bei der
 Unterzeichnung des Vertrages abgegebenen Protokollerklärungen wird
 zugestimmt. Der Vertrag und die vorgenannten weiteren Urkunden werden
 nachstehend veröffentlicht.
-
 
 ## Art 2 - Durchführung der Wirtschaftsunion
 
@@ -90,14 +87,9 @@ und der Handwerksordnung in der Bundesrepublik Deutschland geltenden
 Ausbildungsordnungen und vor allem eine umgehende Sicherstellung der
 Ausbildung der Jugendlichen.
 
-
 ## Art 3 bis 20 -
 
-
-
 ## Art 21 - Erleichterung der Tätigkeit von Rechtsanwälten und Patentanwälten aus der Deutschen Demokratischen Republik in der Bundesrepublik Deutschland
-
-
 
 ## § 1
 
@@ -123,7 +115,6 @@ Republik vorbehalten. Diese wird von den Gerichten,
 Staatsanwaltschaften oder Rechtsanwaltskammern von dem Verdacht einer
 solchen Pflichtverletzung unterrichtet.
 
-
 ## § 2
 
 In der Deutschen Demokratischen Republik einschließlich Berlin (Ost)
@@ -131,7 +122,6 @@ zugelassene Patentanwälte dürfen im grenzüberschreitenden Verkehr im
 Geltungsbereich dieses Gesetzes die Tätigkeit eines Patentanwalts
 ausüben, der im Geltungsbereich dieses Gesetzes zugelassen ist. § 1
 Abs. 2 ist entsprechend anzuwenden.
-
 
 ## § 3
 
@@ -152,10 +142,7 @@ Für die Anwendung der Vorschriften des Strafgesetzbuches über
 stehen die in § 1 Abs. 1 Satz 1 und § 2 Abs. 1 bezeichneten Personen
 den Rechtsanwälten, Anwälten und Patentanwälten gleich.
 
-
 ## Art 22 - Sonderregelungen zu den Gemeinsamen Vorschriften für die Sozialversicherung
-
-
 
 ## § 1 Befreiung von der Versicherungspflicht in besonderen Fällen
 
@@ -174,7 +161,6 @@ Versicherungs- und Beitragspflicht beantragt wird, sonst ab Eingang
 des Antrags.
 
 (4)
-
 
 ## § 2 Versicherungspflicht auf Antrag in besonderen Fällen
 
@@ -216,7 +202,6 @@ tatsächlich erzielten Arbeitsentgelt zu bemessen. Die antragstellende
 Stelle hat auch die Beiträge in den Fällen des Absatzes 1 Satz 2 zu
 tragen.
 
-
 ## § 3 Mitteilungspflichten
 
 Die Einzugsstelle hat die Betroffenen und die für die Entscheidung
@@ -224,11 +209,9 @@ Die Einzugsstelle hat die Betroffenen und die für die Entscheidung
 zuständige Stelle über Beginn und Ende der Versicherungspflicht nach §
 2 zu unterrichten.
 
-
 ## § 4 Entsprechende Anwendung des Sozialgesetzbuchs
 
 Das Erste und das Zehnte Buch Sozialgesetzbuch gelten entsprechend.
-
 
 ## § 5 Zusammenarbeit der Versicherungsträger
 
@@ -238,10 +221,7 @@ organisatorischen Aufbau eines leistungsfähigen, gegliederten
 Sozialversicherungssystems im Einvernehmen mit der Aufsichtsbehörde zu
 unterstützen und dabei eigene Mittel einzusetzen.
 
-
 ## Art 23 - Gesetzliche Rentenversicherung
-
-
 
 ## § 1 Ausschluß der Anwendung des Fremdrentenrechts
 
@@ -260,7 +240,6 @@ nicht, wenn am 18. Mai 1990 ein gewöhnlicher Aufenthalt im Ausland
 vorlag und unmittelbar vor Beginn des Auslandsaufenthalts ein
 gewöhnlicher Aufenthalt im Geltungsbereich dieses Gesetzes vorhanden
 war.
-
 
 ## § 2 Rentenrechtliche Zeiten im Bundesgebiet und in der Deutschen Demokratischen Republik
 
@@ -388,7 +367,6 @@ pauschalen Ausfallzeit werden die in Absatz 2 aufgeführten
 rentenrechtlichen Zeiten zugrunde gelegt, soweit sie
 berücksichtigungsfähig sind.
 
-
 ## § 3 Rentenleistungen in die Deutsche Demokratische Republik
 
 (1) Berechtigte im Sinne der Vorschriften der gesetzlichen
@@ -408,7 +386,6 @@ Geltungsbereich dieses Gesetzes zurückgelegten Zeiten.
 (3) Zu der nach Absatz 1 und 2 zu zahlenden Rente wird ein Zuschuß zur
 Krankenversicherung geleistet.
 
-
 ## § 4 Rentenleistungen ins Ausland
 
 Berechtigte Deutsche, die nach dem 18. Mai 1990 ihren gewöhnlichen
@@ -420,7 +397,6 @@ für Bezieher von Renten, die ihren gewöhnlichen Aufenthalt im
 Geltungsbereich dieses Gesetzes bis zum 18. Mai 1990 genommen haben
 und bis zum 31. Dezember 1990 ins Ausland verlegen.
 
-
 ## § 5 Übergangsregelung für besondere Personengruppen
 
 Bei Personen, die am 18. Mai 1990 ihren gewöhnlichen Aufenthalt im
@@ -430,10 +406,7 @@ Entgelte in Deutsche Mark erhalten haben, finden für die Berechnung
 ihrer Rente die bis zum 30. Juni 1990 maßgeblichen Tabellenentgelte
 Anwendung, wenn der Leistungsbezug vor dem 1. Januar 1996 beginnt.
 
-
 ## Art 24 - Gesetzliche Unfallversicherung
-
-
 
 ## § 1 Ausschluß der Anwendung des Fremdrentenrechts
 
@@ -455,7 +428,6 @@ gewöhnlicher Aufenthalt im Geltungsbereich dieses Gesetzes vorhanden
 war; § 12 Abs. 1
 Fremdrentenrecht              bleibt unberührt.
 
-
 ## § 2 Gefährdende Beschäftigungszeiten
 
 (1) Haben Personen, die ihren gewöhnlichen Aufenthalt im
@@ -473,7 +445,6 @@ dieses Gesetzes nach dem 18. Mai 1990 begründet haben, gilt § 581 Abs.
 3 Satz 3 der Reichsversicherungsordnung auch hinsichtlich der in der
 Deutschen Demokratischen Republik einschließlich Berlin (Ost)
 eingetretenen Arbeitsunfälle und entsprechenden Entschädigungsfälle.
-
 
 ## § 3 Unfallversicherungsleistungen in die Deutsche Demokratische Republik
 
@@ -497,7 +468,6 @@ S. 253), das zuletzt geändert worden ist durch das Gesetz vom 30.
 April 1963 (BGBl. I S. 241), ist für Personen nach den Absätzen 1 und
 2 nach dem 18. Mai 1990 nicht mehr anzuwenden.
 
-
 ## § 4 Zusammenarbeit in der Unfallverhütung
 
 Zur Vorbereitung der Tätigkeitsaufnahme von Unfallversicherungsträgern
@@ -510,10 +480,7 @@ sicherheitstechnischen und arbeitsmedizinischen Fachkräften für die
 Technischen Aufsichtsdienste zu unterstützen und dabei eigene Mittel
 einzusetzen.
 
-
 ## Art 25 - Gesetzliche Krankenversicherung
-
-
 
 ## § 1
 
@@ -541,11 +508,9 @@ entstanden wären.
 
 (4) § 16 Abs. 5 des Fünften Buches Sozialgesetzbuch wird aufgehoben.
 
-
 ## § 2
 
 -
-
 
 ## § 3
 
@@ -553,7 +518,6 @@ Beim Tod eines Versicherten wird Sterbegeld nach § 58 des Fünften
 Buches Sozialgesetzbuch auch dann gezahlt, wenn der Verstorbene am 1.
 Januar 1989 in der Sozialversicherung der Deutschen Demokratischen
 Republik versichert war.
-
 
 ## § 4
 
@@ -569,10 +533,7 @@ die Bundesversicherungsanstalt für Angestellte zu zahlen hat; für
 freiwillig versicherte Mitglieder gilt § 240 Abs. 3 des Fünften Buches
 Sozialgesetzbuch entsprechend.
 
-
 ## Art 26 und 27 -
-
-
 
 ## Art 28 - Umstellungsrechnung von Geldinstituten und Außenhandelsbetrieben
 
@@ -592,18 +553,11 @@ der Umstellungsrechnung und über deren Prüfung; diese Vorschriften
 sind im Einvernehmen mit dem Bundesminister der Finanzen und nach
 Anhörung der Deutschen Bundesbank zu erlassen.
 
-
 ## Art 29 und 30 -
-
-
 
 ## Art 31 - Errichtung eines Fonds "Deutsche Einheit"
 
-
-
 ## Art 32 und 33 -
-
-
 
 ## Art 34 - Verteilungsregelung über Schulden nach Beitritt
 
@@ -616,7 +570,6 @@ Länder, die sich auf dem Gebiet der Deutschen Demokratischen Republik
 neu gebildet haben, aufgeteilt. Von den Ländern und Gemeinden
 aufgenommene Kredite verbleiben bei diesen. Die Regelung nach Satz 1
 wird in einem Bundesgesetz mit Zustimmung des Bundesrates getroffen.
-
 
 ## Art 35 - Ermächtigungen
 
@@ -700,14 +653,12 @@ setzen; diese Rechtsverordnung tritt außer Kraft, wenn der Bundesrat
 in der auf die Unterzeichnung des Abkommens folgenden Sitzung nicht
 zustimmt.
 
-
 ## Art 36 - Berlin-Klausel
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt. Rechtsverordnungen, die auf
 Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14
 des Dritten Überleitungsgesetzes.
-
 
 ## Art 37 - Inkrafttreten
 

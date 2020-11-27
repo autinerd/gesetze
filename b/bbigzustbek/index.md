@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1971, 1599
 
-
-
 ## (XXXX)
 
 Auf Grund des § 84 Abs. 1 des Berufsbildungsgesetzes vom 14. August

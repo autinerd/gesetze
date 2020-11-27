@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 7 V v. 25.4.2006 I 988
 
-
 ## Eingangsformel
 
 Auf Grund des § 6 Abs. 1 Nr. 3 Buchstabe a in Verbindung mit Abs. 3
@@ -30,7 +29,6 @@ durch § 70 Abs. 1 Nr. 3 des Gesetzes vom 15. März 1974 (BGBl. I S.
 721) und geändert gemäß Artikel 22 Nr. 3 der Verordnung vom 26.
 November 1986 (BGBl. I S. 2089), verordnet der Bundesminister für
 Verkehr nach Anhörung der zuständigen obersten Landesbehörden:
-
 
 ## § 1
 
@@ -84,10 +82,6 @@ angebracht werden. Dies gilt nur, wenn
     Verlangen zur Prüfung aushändigt oder der Anbau der seitlichen
     Schutzvorrichtungen in den Fahrzeugpapieren vermerkt ist.
 
-
-
-
-
 ## § 2
 
 Abweichend von § 13 Abs. 1 der Fahrzeug-Zulassungsverordnung sind
@@ -95,7 +89,6 @@ Abweichend von § 13 Abs. 1 der Fahrzeug-Zulassungsverordnung sind
 Schutzvorrichtungen nicht melde- oder eintragungspflichtig. Auf das
 Ausmaß der Änderungen ist im Teilegutachten deutlich sichtbar
 hinzuweisen.
-
 
 ## § 3
 
@@ -115,14 +108,9 @@ Straßenverkehrs-Zulassungs-Ordnung amtlich anerkannte
 3.  der Aufsichtsbehörde nach Abschnitt 7.8 der Anlage VIII zur
     Straßenverkehrs-Zulassungs-Ordnung benannt worden ist.
 
-
-
-
-
 ## § 4
 
 -
-
 
 ## § 5
 

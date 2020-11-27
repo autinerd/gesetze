@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 1358
 
-
 ## Eingangsformel
 
 Auf Grund des § 4 Absatz 2 des Gesetzes über die vorläufige
@@ -26,7 +25,6 @@ Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz
 im Einvernehmen mit den Bundesministerien der Finanzen und für
 Wirtschaft und Technologie und für Umwelt, Naturschutz und
 Reaktorsicherheit:
-
 
 ## § 1 Erhebung von Gebühren und Auslagen
 
@@ -47,10 +45,6 @@ Gebühren und Auslagen nach dieser Verordnung:
     Pflanzenschutzmitteln und zur Aufhebung der Richtlinien 79/117/EWG und
     91/414/EWG (ABl. L 309 vom 24.11.2009, S. 1).
 
-
-
-
-
 ## § 2 Berechnung der Gebühren
 
 (1) Die gebührenpflichtigen Tatbestände und die Höhe der Gebühren
@@ -60,7 +54,6 @@ ergeben sich aus dem anliegenden Gebührenverzeichnis.
 Gebühren im Einzelfall außer den in § 9 Absatz 1 des
 Verwaltungskostengesetzes bezeichneten Umständen der Nutzen des
 Pflanzenschutzmittels für die Allgemeinheit zu berücksichtigen.
-
 
 ## § 3 Rücknahme, Widerruf, Widerspruch
 
@@ -82,7 +75,6 @@ richtet, beträgt die Gebühr höchstens 10 Prozent des streitigen
 Betrages. Wird ein Widerspruch nach Beginn seiner sachlichen
 Bearbeitung, jedoch vor deren Beendigung zurückgenommen, beträgt die
 Gebühr höchstens 75 Prozent der Widerspruchsgebühr.
-
 
 ## § 4 Auslagen
 
@@ -134,13 +126,6 @@ Zusammenhang mit der
 
     d)  Verbrauchsmaterial.
 
-
-
-
-
-
-
-
 ## § 5 Ermäßigung und Befreiung von Gebühren und Auslagen
 
 (1) Die nach Maßgabe der §§ 1 und 2 berechneten Gebühren sind auf
@@ -191,11 +176,9 @@ der Verordnung (EG) Nr. 1107/2009 oder Artikel 53 der Verordnung (EG)
 Nr. 1107/2009 kann auf Antrag von der Erhebung einer Gebühr und von
 Auslagen abgesehen werden, wenn ihre Erhebung unbillig wäre.
 
-
 ## § 6 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Anlage (zu § 2 Absatz 1) Gebührenverzeichnis
 
@@ -471,9 +454,6 @@ beteiligter Mitgliedstaat ist
 
     *   5 000 bis  20 000
 
-
-
-
 ## Änderungen der Zulassungen nach Artikel 44 oder Artikel 45 der
 Verordnung (EG) Nr. 1107/2009
 
@@ -626,9 +606,6 @@ bestehenden Zulassung
         1107/2009
 
     *   2 500 bis  10 000
-
-
-
 
 ## Genehmigungsverfahren
 

@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 2172
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 27 Abs. 3 des Berufsbildungsgesetzes vom 23. März 2005
@@ -25,7 +23,6 @@ Auf Grund des § 27 Abs. 3 des Berufsbildungsgesetzes vom 23. März 2005
 Verbraucherschutz, Ernährung und Landwirtschaft im Einvernehmen mit
 dem Bundesministerium für Bildung und Forschung nach Anhörung des
 Hauptausschusses des Bundesinstituts für Berufsbildung:
-
 
 ## § 1 Mindestanforderungen an die Einrichtung und den wirtschaftlichen Zustand
 
@@ -84,7 +81,6 @@ die zeitgemäß beschaffen und ausgestattet ist.
 Inhabers oder der Inhaberin ein Insolvenz- oder Vergleichsverfahren
 eröffnet worden ist.
 
-
 ## § 2 Fachrichtungsspezifische Anforderungen
 
 (1) Die Ausbildungsstätte in der Fachrichtung Rinderhaltung muss über
@@ -123,7 +119,6 @@ Trachtangeboten verfügen. Insbesondere müssen Einrichtungen zur
 Bienenwanderung, zur Honiggewinnung, -lagerung und -vermarktung
 vorhanden sein.
 
-
 ## § 3 Ausnahmeregelungen
 
 Eine Ausbildungsstätte, in der die erforderlichen beruflichen
@@ -133,7 +128,6 @@ dass diese durch Ausbildungsmaßnahmen außerhalb der Ausbildungsstätte
 in einer anderen anerkannten Ausbildungsstätte, in Form von
 Ausbildungsverbünden oder in Form überbetrieblicher Ausbildung
 vermittelt werden können.
-
 
 ## § 4 Inkrafttreten
 

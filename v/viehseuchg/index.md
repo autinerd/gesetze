@@ -21,7 +21,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 Abs. 87 G v. 22.12.2011 I 3044
 
-
 ## § 1
 
 (1) Dieses Gesetz regelt die Bekämpfung von Tierseuchen. § 79a bleibt
@@ -144,10 +143,6 @@ unberührt.
 
     Verbringen aus dem Inland in ein Drittland.
 
-
-
-
-
 ## § 2
 
 (1) Die Durchführung der Vorschriften dieses Gesetzes und der auf
@@ -172,7 +167,6 @@ erlassenden Anordnungen abhängt, über die Zuständigkeit der Behörden
 und Beamten und über die Bestreitung der durch das Verfahren
 entstehenden Kosten sind von den Ländern zu treffen.
 
-
 ## § 2a
 
 (1) Das Bundesministerium der Finanzen und die von ihm bestimmten
@@ -192,7 +186,6 @@ Anzeigen, Anmeldungen, Auskünften und zur Leistung von Hilfsdiensten
 sowie zur Duldung der Einsichtnahme in Geschäftspapiere und sonstige
 Unterlagen und zur Duldung von Besichtigungen und von Entnahmen
 unentgeltlicher Muster und Proben vorsehen.
-
 
 ## § 3
 
@@ -242,7 +235,6 @@ entgegenstehen.
 haben den Ausbruch oder den Verdacht des Ausbruchs einer Tierseuche,
 die nicht Gegenstand ihrer wissenschaftlichen Versuche ist, der
 zuständigen Behörde unverzüglich anzuzeigen.
-
 
 ## § 4
 
@@ -312,7 +304,6 @@ ist auf dem neuesten Stand zu halten.
 der Länder jährlich einen Bericht über die Entwicklung der
 Tiergesundheit (Tiergesundheitsjahresbericht).
 
-
 ## § 5
 
 (1) Das Friedrich-Loeffler-Institut und das Paul-Ehrlich-Institut
@@ -328,10 +319,7 @@ Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die
 gebührenpflichtigen Tatbestände und die Gebührenhöhe näher zu
 bestimmen.
 
-
 ## I. - Bekämpfung von Tierseuchen beim innergemeinschaftlichen Verbringen sowie bei der Einfuhr und Ausfuhr
-
-
 
 ### § 6
 
@@ -364,7 +352,6 @@ Mitgliedstaaten ist verboten, wenn sie Vorschriften des
 Bestimmungsmitgliedstaates nicht entsprechen, die strengere
 Anforderungen als das deutsche Recht stellen und die das
 Bundesministerium im Bundesanzeiger bekannt gemacht hat.
-
 
 ### § 7
 
@@ -489,11 +476,9 @@ ausgeschlossen und eine Einschleppung von Tierseuchen nicht zu
 befürchten ist. Die Landesregierungen können diese Ermächtigung durch
 Rechtsverordnung auf andere Stellen übertragen.
 
-
 ### § 7a
 
 (weggefallen)
-
 
 ### § 7b
 
@@ -507,7 +492,6 @@ abgefertigt werden, sowie die diesen Zollstellen zugeordneten
 Abs. 1 oder 1a geregelt ist. Das Bundesministerium der Finanzen kann
 die Erteilung des Einvernehmens nach Satz 1 auf Mittelbehörden seines
 Geschäftsbereichs übertragen.
-
 
 ### § 7c
 
@@ -539,7 +523,6 @@ oder 1a die Einfuhr geregelt ist.
 (3) Die Landesregierungen können ihre Befugnisse nach Absatz 1 durch
 Rechtsverordnung auf andere Stellen übertragen.
 
-
 ### § 8
 
 Ist beim innergemeinschaftlichen Verbringen oder bei der Einfuhr
@@ -551,18 +534,11 @@ Maßregeln nach den §§ 19 bis 30 angeordnet werden; im Falle der
 Einfuhr gelten solche Tiere als verdächtig, solche Teile, Erzeugnisse,
 Rohstoffe und Abfälle als von verdächtigten Tieren stammend.
 
-
 ## II. - Bekämpfung von Tierseuchen im Inland
-
-
 
 ### 1. - Allgemeine Vorschriften
 
-
-
 #### a) - Anzeigepflicht
-
-
 
 ##### § 9
 
@@ -600,7 +576,6 @@ behördliches Einschreiten stattgefunden hat, von dem Ausbruch einer
 anzeigepflichtigen Tierseuche oder von Erscheinungen, die den Ausbruch
 einer solchen Tierseuche befürchten lassen, Kenntnis erhalten.
 
-
 ##### § 10
 
 (1) Das Bundesministerium wird ermächtigt, soweit es zum Schutz gegen
@@ -614,10 +589,7 @@ einschränken.
 
 (2) § 7 Abs. 2 gilt entsprechend.
 
-
 #### b) - Ermittlung der Tierseuchenausbrüche
-
-
 
 ##### § 11
 
@@ -654,7 +626,6 @@ zu machen.
 für die vorläufige Bewachung der erkrankten und verdächtigen Tiere
 sowie für die Durchführung der dringlichen Maßregeln zu sorgen.
 
-
 ##### § 12
 
 Wenn über den Ausbruch einer Tierseuche nach dem Gutachten des
@@ -671,7 +642,6 @@ Untersuchungsmaterial tierischen Ursprungs nach Verfahren
 durchzuführen, die in der amtlichen Sammlung des Friedrich-Loeffler-
 Instituts veröffentlicht worden sind.
 
-
 ##### § 13
 
 Auf die gutachtliche Erklärung des beamteten Tierarztes, dass der
@@ -681,11 +651,9 @@ Behörde die erforderlichen Schutzmaßregeln nach diesem Gesetz und den
 zu dessen Ausführung erlassenen Vorschriften (§ 79) zu treffen und
 wirksam durchzuführen.
 
-
 ##### § 14
 
 (weggefallen)
-
 
 ##### § 15
 
@@ -713,10 +681,7 @@ der Angaben des beamteten Tierarztes bestehen, sofort ein
 tierärztliches Obergutachten einzuziehen und dementsprechend das
 Verfahren zu regeln.
 
-
 #### c) - Schutzmaßnahmen gegen die allgemeine Gefahr von Tierseuchen
-
-
 
 ##### § 16
 
@@ -735,7 +700,6 @@ Tierschauen, auf die durch behördliche Anordnung veranlasste
 Zusammenziehung von Vieh, auf Tierhaltungen, auf Tierkliniken und auf
 sonstige Betriebe und Einrichtungen, von denen die Gefahr einer
 Tierseuche ausgehen kann, ausgedehnt werden.
-
 
 ##### § 17
 
@@ -934,10 +898,6 @@ Tierseuchen können folgende Maßregeln angeordnet werden:
 8.  Regelung der Einrichtung und des Betriebs von Ausstellungen, Märkten,
     Sammelbehältern und ähnlichen Einrichtungen.
 
-
-
-
-
 ##### § 17a
 
 (1) Zum Schutz gegen eine Tierseuche können Gebiete, in denen die
@@ -975,7 +935,6 @@ sowie der von diesen Tieren stammenden Teile oder Erzeugnisse
 beschränkt werden. Ferner kann das Verbringen solcher Tiere oder der
 von ihnen stammenden Teile oder Erzeugnisse in Schutzgebiete verboten
 oder beschränkt werden.
-
 
 ##### § 17b
 
@@ -1049,7 +1008,6 @@ der Haustier- und Fischbestände durch Tierseuchen
 (2) Das Bundesministerium kann in der Rechtsverordnung nach Absatz 1
 Befugnisse auf die Landesregierungen übertragen. Die Landesregierungen
 können ihre Befugnisse auf andere Behörden übertragen.
-
 
 ##### § 17c
 
@@ -1196,7 +1154,6 @@ wenn
 
 Die Sätze 1 und 2 Nr. 1 bis 4 gelten für Nachweismethoden nach Absatz
 1 Satz 2 entsprechend.
-
 
 ##### § 17d
 
@@ -1381,13 +1338,6 @@ Zustimmung des Bundesrates
     d)  Informationsmittel und -wege zu bestimmen und hierfür einen Stufenplan
         zu erstellen.
 
-
-
-
-
-
-
-
 ##### § 17e
 
 Betriebe und Einrichtungen, in denen Mittel nach § 17c Abs. 1 Satz 1
@@ -1399,7 +1349,6 @@ Kliniken und Institute der tierärztlichen Lehranstalten oder andere
 der wissenschaftlichen Erforschung oder Bekämpfung von Tierseuchen
 dienende Institute von der Überwachung freistellen.
 
-
 ##### § 17f
 
 Das Bundesministerium wird ermächtigt, durch Rechtsverordnung, die
@@ -1407,7 +1356,6 @@ nicht der Zustimmung des Bundesrates bedarf, Mittel und Verfahren zu
 bestimmen, die bei tierseuchenrechtlich vorgeschriebenen
 Desinfektionen und Entwesungen verwendet werden dürfen, um
 sicherzustellen, dass Krankheitserreger unwirksam gemacht werden.
-
 
 ##### § 17g
 
@@ -1448,13 +1396,6 @@ Zustimmung des Bundesrates
     b)  Aufzeichnungen betreffend Aufnahme oder Erwerb und Abgabe der Tiere
         sowie ihre Behandlung gegen Psittakose.
 
-
-
-
-
-
-
-
 ##### § 17h
 
 Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit
@@ -1476,10 +1417,7 @@ von einer Zulassung oder Registrierung des Betriebs abhängig zu machen
 sowie das Nähere über die Zulassung oder Registrierung einschließlich
 des Verfahrens und des Ruhens der Zulassung zu regeln.
 
-
 #### d) - Schutzmaßnahmen gegen die besondere Gefahr einer Tierseuche
-
-
 
 ##### § 18
 
@@ -1487,7 +1425,6 @@ Zum Schutz gegen eine besondere Gefahr einer Tierseuche und für deren
 Dauer können unter Berücksichtigung der beteiligten Wirtschafts- und
 Verkehrsinteressen die nachstehenden Maßregeln (§§ 19 bis 30)
 angeordnet werden.
-
 
 ##### § 19
 
@@ -1526,7 +1463,6 @@ Gemeinschaft mit anderen für die Tierseuche empfänglichen Tieren
 bleiben. Auch dürfen die Körper abgesonderter, bewachter oder
 behördlich beobachteter Tiere nicht ohne behördliche Genehmigung
 geöffnet oder beseitigt werden.
-
 
 ##### § 20
 
@@ -1572,7 +1508,6 @@ zur Zucht, Haltung oder Hälterung von Fischen.
 oder in Anlagen oder Einrichtungen zur Zucht, Haltung oder Hälterung
 von Fischen.
 
-
 ##### § 21
 
 (1) Verbot oder Beschränkung
@@ -1601,7 +1536,6 @@ lebende oder tote Fische abschwimmen oder abtreiben zu lassen.
 (3) Verbot, Wasser aus fischereilich genutzten Anlagen oder
 Einrichtungen zur Zucht, Haltung oder Hälterung von Fischen ablaufen
 zu lassen.
-
 
 ##### § 22
 
@@ -1638,7 +1572,6 @@ der Tiere oder den Betreiber der Anlage oder Einrichtung, die zur
 wirksamen Durchführung der Sperre vorgeschriebenen Vorkehrungen zu
 treffen.
 
-
 ##### § 23
 
 Durchführung oder Verbot bestimmter Impfungen oder Maßnahmen
@@ -1649,7 +1582,6 @@ Tierhalter oder dem Jagdausübungsberechtigten kann die Verpflichtung
 auferlegt werden, die erforderliche Hilfe zu leisten sowie die in Satz
 1 genannten Maßnahmen zu dulden oder, soweit die Maßnahmen dem
 Verpflichteten zuzumuten sind, durchzuführen.
-
 
 ##### § 24
 
@@ -1715,7 +1647,6 @@ zum Zwecke der angeordneten Tötung Transporte zu einer Schlachtstätte
 durchzuführen. Absatz 5 Satz 2 und 3 gilt für den einem
 Transportunternehmer hierdurch entstehenden Aufwand entsprechend.
 
-
 ##### § 25
 
 Tötung von Tieren, die bestimmten Verkehrs- oder
@@ -1724,14 +1655,12 @@ verbotswidriger Benutzung oder außerhalb der ihnen angewiesenen
 Räumlichkeit oder an Orten angetroffen werden, zu denen der Zutritt
 verboten ist.
 
-
 ##### § 26
 
 Unschädliche Beseitigung der Tierkörper, Tierkörperteile und
 Erzeugnisse tierischer Herkunft, der Streu, des Dunges und der
 flüssigen Abgänge sowie anderer Abfälle von kranken oder verdächtigen
 Tieren.
-
 
 ##### § 27
 
@@ -1768,7 +1697,6 @@ anzunehmen ist, dass sie Ansteckungsstoff enthalten.
 etwaiger Anordnungen des beamteten Tierarztes und unter behördlicher
 Überwachung.
 
-
 ##### § 28
 
 Einstellung oder Beschränkung der Viehmärkte, der Jahr- und
@@ -1777,7 +1705,6 @@ Tierschauen sowie des Betriebes von Viehsammelstellen oder ähnlichen
 Einrichtungen oder von Viehhandelsunternehmen oder
 Transportunternehmen.
 
-
 ##### § 29
 
 Amtstierärztliche oder tierärztliche Untersuchung der für die
@@ -1785,24 +1712,17 @@ Tierseuche empfänglichen Tiere, ihrer Körper, Teile von Tieren, der
 von ihnen stammenden Erzeugnisse und der Gegenstände, die Träger von
 Ansteckungsstoffen sein können.
 
-
 ##### § 30
 
 Öffentliche Bekanntmachung des Ausbruchs der Tierseuche. Ist diese
 Bekanntmachung erfolgt, so muss auch das Erlöschen der Tierseuche
 unverzüglich öffentlich bekannt gemacht werden.
 
-
 ### 2. - (weggefallen)
-
-
 
 #### (XXXX) §§ 31 bis 61e (weggefallen)
 
-
 ### 3. - Besondere Vorschriften für Tiermärkte, Viehhöfe, Tierausstellungen, Viehsammelstellen und Schlachtstätten
-
-
 
 #### § 62
 
@@ -1810,7 +1730,6 @@ Auf Tiermärkte, Viehhöfe, Tierausstellungen oder Veranstaltungen
 ähnlicher Art, Viehsammelstellen und Schlachtstätten und auf die dort
 jeweils aufgestellten Tiere finden die §§ 18 bis 30 Anwendung, soweit
 nicht in den §§ 63 bis 65 etwas anderes bestimmt ist.
-
 
 #### § 63
 
@@ -1820,7 +1739,6 @@ des beamteten Tierarztes den Ausbruch einer Tierseuche befürchten
 lassen, so sind die erkrankten und verdächtigen Tiere abzusondern und
 unterliegen der behördlichen Beobachtung.
 
-
 #### § 64
 
 Ist der Ausbruch oder der Verdacht des Ausbruchs einer Tierseuche
@@ -1828,7 +1746,6 @@ festgestellt, so können Tiermärkte, Viehhöfe, Tierausstellungen oder
 Veranstaltungen ähnlicher Art, Viehsammelstellen und Schlachtstätten
 ganz oder teilweise für die Dauer der Tierseuchengefahr gegen den
 Abtrieb oder das sonstige Entfernen von Tieren gesperrt werden.
-
 
 #### § 65
 
@@ -1846,10 +1763,7 @@ Tierseuche empfängliche Schlachtvieh ausgedehnt werden. Den Besitzern
 der so geschlachteten Tiere ist unverzüglich von der Schlachtung
 Mitteilung zu machen.
 
-
 ### 4. - Entschädigung für Tierverluste
-
-
 
 #### § 66
 
@@ -1891,10 +1805,6 @@ Entschädigung in Geld geleistet
     Schlachtung auf Grund einer tierseuchenrechtlichen Vorschrift oder
     einer auf eine solche Vorschrift gestützten behördlichen Anordnung
     gemaßregelt worden ist.
-
-
-
-
 
 #### § 67
 
@@ -1990,7 +1900,6 @@ Tötung des Tieres entstehenden Kosten zählen nicht zur Entschädigung,
 sie sind zusätzlich zu erstatten. Bei der Festsetzung der
 Entschädigung werden Steuern nicht berücksichtigt.
 
-
 #### § 68
 
 (1) Keine Entschädigung wird gewährt für
@@ -2041,7 +1950,6 @@ Entschädigung werden Steuern nicht berücksichtigt.
 innergemeinschaftliche Verbringen gleich.
 
 (2) (weggefallen)
-
 
 #### § 69
 
@@ -2119,14 +2027,12 @@ der Tierbesitzer schuldhaft
 (4) Die Absätze 1 bis 3 gelten in den Fällen des § 67 Abs. 4 Satz 2
 entsprechend.
 
-
 #### § 70
 
 Die Entschädigung kann in den Fällen des § 69 Abs. 1 Satz 1 und Abs. 3
 teilweise gewährt werden, wenn die Schuld gering ist oder die
 Versagung der Entschädigung für den Besitzer eine unbillige Härte
 bedeuten würde.
-
 
 #### § 71
 
@@ -2153,12 +2059,10 @@ Beiträge erhoben, dürfen für Tiere, die dem Bund oder einem Land
 gehören, oder für das Viehhöfen oder Schlachtstätten zugeführte
 Schlachtvieh keine Beiträge erhoben werden.
 
-
 #### § 71a
 
 Für die Anwendung der §§ 69 bis 71 stehen Fischereiberechtigte und
 Fischereiausübungsberechtigte den Tierbesitzern gleich.
-
 
 #### § 72
 
@@ -2168,7 +2072,6 @@ das Tier zur Zeit des Todes befand.
 
 (2) Mit der Zahlung ist jeder Entschädigungsanspruch Dritter
 erloschen.
-
 
 #### § 72a
 
@@ -2188,12 +2091,10 @@ Familienangehörigen, so ist der Übergang ausgeschlossen; der Anspruch
 geht jedoch über, wenn der Angehörige den Schaden vorsätzlich
 verursacht hat.
 
-
 #### § 72b
 
 Für Streitigkeiten über Ansprüche auf Entschädigung ist der Rechtsweg
 vor den Verwaltungsgerichten gegeben.
-
 
 #### § 72c
 
@@ -2204,16 +2105,12 @@ gelten die §§ 66 bis 72b hinsichtlich der Entschädigungen für
 Tierverluste auf Grund einer Vorschrift eines solchen Rechtsaktes
 entsprechend.
 
-
 #### § 72d
 
 In den Fällen des § 67 Abs. 4 Satz 2 gelten die §§ 70 bis 72c
 entsprechend.
 
-
 ## II a. - Überwachung
-
-
 
 ### § 73
 
@@ -2297,7 +2194,6 @@ verweigern, deren Beantwortung ihn selbst oder einen der in § 383 Abs.
 Gefahr strafgerichtlicher Verfolgung oder eines Verfahrens nach dem
 Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
-
 ### § 73a
 
 Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit
@@ -2337,10 +2233,7 @@ Zustimmung des Bundesrates zur Bekämpfung von Tierseuchen die
 
 regeln.
 
-
 ## III. - Straf- und Bußgeldvorschriften
-
-
 
 ### § 74
 
@@ -2372,7 +2265,6 @@ von sechs Monaten bis zu fünf Jahren.
 begeht, wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe
 bestraft.
 
-
 ### § 75
 
 Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
@@ -2385,10 +2277,6 @@ bestraft, wer
 
 2.  Sera, Impfstoffe oder Antigene ohne Erlaubnis nach § 17d Abs. 1
     herstellt.
-
-
-
-
 
 ### § 76
 
@@ -2460,7 +2348,6 @@ Ordnungswidrigkeiten nach Absatz 2 Nr. 6 geahndet werden können,
 soweit dies zur Durchführung des betreffenden Rechtsaktes erforderlich
 ist.
 
-
 ### § 77
 
 Gegenstände, auf die sich eine Straftat nach § 74 Abs. 1 Nr. 2 oder 3
@@ -2468,15 +2355,11 @@ oder § 75 oder eine Ordnungswidrigkeit nach § 76 Abs. 2 Nr. 2 in
 Verbindung mit einer Rechtsverordnung nach § 7 Abs. 1 oder 1a Nr. 2
 bezieht, können eingezogen werden.
 
-
 ### § 77a
 
 (weggefallen)
 
-
 ## IV. - Schlussbestimmungen
-
-
 
 ### § 78
 
@@ -2509,7 +2392,6 @@ bezeichneten Maßregeln können
 
 
 vorgeschrieben werden.
-
 
 ### § 78a
 
@@ -2545,10 +2427,6 @@ Zustimmung des Bundesrates zur Erlangung einer umfassenden Übersicht
     verpflichtet werden, wer im Rahmen seiner Aufgaben von den in Nummer 1
     bezeichneten Sachverhalten Kenntnis erhält.
 
-
-
-
-
 ### § 78b
 
 Sehen Rechtsakte der Europäischen Gemeinschaft oder der Europäischen
@@ -2561,7 +2439,6 @@ die erforderlichen Maßnahmen, um sicherzustellen, dass der für eine
 notwendige Impfung erforderliche Impfstoff in ausreichender Menge zur
 Verfügung steht.
 
-
 ### § 78c
 
 Sehen Rechtsakte der Europäischen Gemeinschaft oder der Europäischen
@@ -2571,7 +2448,6 @@ so treffen der Bund und die Länder im Rahmen ihrer jeweiligen
 Zuständigkeit die erforderlichen Maßnahmen, damit die
 Tierseuchenbekämpfungszentren bei Ausbruch der Tierseuche unverzüglich
 einsatzbereit sind.
-
 
 ### § 79
 
@@ -2625,7 +2501,6 @@ von Tierseuchen Verfügungen nach Maßgabe der §§ 16, 17, 17b Abs. 1 Nr.
 getroffen worden ist oder eine durch Rechtsverordnung getroffene
 Regelung nicht entgegensteht.
 
-
 ### § 79a
 
 (1) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit
@@ -2675,13 +2550,11 @@ zu erlassen und hierbei insbesondere im Falle des Ausbruchs der
 Bovinen Spongiformen Enzephalopathie die Tötung von Rindern
 vorzuschreiben; § 79 Abs. 1a, 3 und 4 gilt entsprechend.
 
-
 ### § 79b
 
 Rechtsverordnungen nach diesem Gesetz kann das Bundesministerium auch
 zur Durchführung von Rechtsakten der Europäischen Gemeinschaft oder
 der Europäischen Union im Anwendungsbereich dieses Gesetzes erlassen.
-
 
 ### § 80
 
@@ -2721,7 +2594,6 @@ Anordnung keine aufschiebende Wirkung, wenn die Anordnung auf eine
 Rechtsverordnung nach § 79 Abs. 1 gestützt ist und Maßnahmen nach Satz
 1 Nr. 1, 2 oder 3 bis 5 angeordnet worden sind.
 
-
 ### § 81
 
 (1) Die zuständigen Behörden
@@ -2752,7 +2624,6 @@ haben, den zuständigen Behörden anderer Länder und anderer
 Mitgliedstaaten, dem Bundesministerium und der Europäischen Kommission
 mitteilen.
 
-
 ### § 82
 
 Der Verkehr mit den zuständigen Behörden anderer Mitgliedstaaten und
@@ -2765,13 +2636,11 @@ Einzelfall im Benehmen mit der zuständigen obersten Landesbehörde
 dieser die Befugnis übertragen. Die obersten Landesbehörden können die
 Befugnisse nach den Sätzen 3 und 4 auf andere Behörden übertragen.
 
-
 ### § 82a
 
 Die §§ 81 und 82 gelten entsprechend für Drittländer, die
 Vertragsparteien des Abkommens über den Europäischen Wirtschaftsraum
 sind.
-
 
 ### § 83
 
@@ -2796,7 +2665,6 @@ Oberverwaltungsgericht. Abweichend von § 1059 Abs. 3 Satz 1 der
 Zivilprozessordnung muss der Aufhebungsantrag innerhalb eines Monats
 bei Gericht eingereicht werden.
 
-
 ### § 84
 
 Das Bundesministerium erlässt die allgemeinen Verwaltungsvorschriften,
@@ -2804,7 +2672,6 @@ die zur Durchführung dieses Gesetzes durch Behörden des Bundes
 erforderlich sind. Soweit sich die allgemeinen Verwaltungsvorschriften
 an Behörden der Bundesfinanzverwaltung richten, bedürfen diese des
 Einvernehmens des Bundesministeriums der Finanzen.
-
 
 ### § 85
 
@@ -2814,13 +2681,11 @@ Dezember 1976 geltenden Rechts erteilt worden ist und am 1. Juni 1991
 rechtsgültig besteht, gilt im bisherigen Umfang als Erlaubnis im Sinne
 des § 17d Abs. 1 fort.
 
-
 ### § 86
 
 Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz
 1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger
 verkündet werden.
-
 
 ### § 87 (weggefallen)
 

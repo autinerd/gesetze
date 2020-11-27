@@ -18,14 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 12 G v. 26.5.2005 I 1418
 
-
 ## Eingangsformel
 
 Auf Grund des § 20 Abs. 3 des Bundesreisekostengesetzes in der Fassung
 der Bekanntmachung vom 13. November 1973 (BGBl. I S. 1621), der durch
 Artikel 2 Nr. 2 des Gesetzes vom 11. Dezember 1990 (BGBl. I S. 2682)
 geändert worden ist, verordnet der Bundesminister des Innern:
-
 
 ## § 1 Geltung des Bundesreisekostengesetzes, Dienstreiseanordnung und -genehmigung
 
@@ -39,7 +37,6 @@ Dienstbehörde oder die von ihr ermächtigte Behörde, es sei denn, daß
 eine Anordnung oder Genehmigung nach dem Amt des
 Auslandsdienstreisenden oder dem Wesen des Dienstgeschäfts nicht in
 Betracht kommt.
-
 
 ## § 2 Kostenerstattung
 
@@ -59,7 +56,6 @@ abweichende Regelung getroffen hat.
 
 (3) Bei Schiffsreisen werden neben dem Fahrpreis die Kosten für das
 Benutzen einer Zwei-Bett-Kabine im Zwischen- oder Oberdeck erstattet.
-
 
 ## § 3 Auslandstagegeld, Auslandsübernachtungsgeld
 
@@ -88,7 +84,6 @@ Absatz 1 gilt entsprechend.
 
 (3) (weggefallen)
 
-
 ## § 4 Grenzübertritt
 
 (1) Das Auslandstage- und Auslandsübernachtungsgeld oder Inlandstage-
@@ -113,7 +108,6 @@ oder Inlandstagegeld maßgebend.
 bezogenen Vorschriften sind auch für Orte anzuwenden, für die
 besondere Auslandstage- und Auslandsübernachtungsgelder nach § 3 Abs.
 1 Satz 1 festgesetzt worden sind.
-
 
 ## § 5 Reisekostenvergütung bei längerem Aufenthalt am Geschäftsort, Kostenerstattung für das Beschaffen klimabedingter Bekleidung
 
@@ -141,7 +135,6 @@ beschafft zu werden braucht.
 nachgewiesenen notwendigen Kosten für die Reinigung der Bekleidung
 erstattet.
 
-
 ## § 6 Erkrankung während der Auslandsdienstreise
 
 Erkrankt ein Auslandsdienstreisender und kann er deswegen nicht an
@@ -157,7 +150,6 @@ Abs. 1 des Bundesreisekostengesetzes in Verbindung mit § 4 Abs. 5 Satz
 1 Nr. 5 Satz 2 erster Halbsatz Buchstabe a des
 Einkommensteuergesetzes.
 
-
 ## § 7 Übergangsvorschrift
 
 Bei Auslandsdienstreisebeginn vor und Auslandsdienstreiseende nach dem
@@ -165,11 +157,9 @@ Inkrafttreten dieser Verordnung wird Reisekostenvergütung nach den vor
 dem Inkrafttreten geltenden Vorschriften gezahlt, wenn dies für den
 Auslandsdienstreisenden günstiger ist.
 
-
 ## § 8 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 1991 in Kraft.
-
 
 ## Anlage
 
@@ -1783,12 +1773,7 @@ a)  Bei Unterbringung in Gästewohnungen der Deutschen Botschaft in Moskau
     Allgemeinen Verwaltungsvorschrift ist in diesen Fällen nicht
     anzuwenden.
 
-
-
-
-
 ## Anlage 2
-
 
 ## (Fundstelle des Originaltextes: GMBl. 2001, 10 - 16; bzgl. der
 einzelnen Änderungen vgl. Fußnote )

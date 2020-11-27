@@ -22,10 +22,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 6 Abs. 10 G v. 21.7.2004 I 1763
 
-
 ## I. - Allgemeines
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -64,13 +61,6 @@ das bestimmt ist
     b)  nach Verarbeitung zu bestimmten Erzeugnissen oder
         Zwischenerzeugnissen.
 
-
-
-
-
-
-
-
 ### § 2 Zuständigkeit
 
 (1) Vorbehaltlich der Regelung in Absatz 2 ist für die Durchführung
@@ -83,10 +73,7 @@ die Ausstellung und Erledigung der Kontrollexemplare. Im Falle der
 Verbringung nach § 8 Abs. 2 ist die Bundesanstalt für die Ausstellung
 und Erledigung der Kontrollexemplare zuständig.
 
-
 ## II. - Überwachung der Versendung und der Ausfuhr in unverändertem Zustand
-
-
 
 ### § 3 Grundsatz
 
@@ -111,7 +98,6 @@ mitzuführen.
 (4) Soweit es der Überwachungszweck erfordert, kann die Bundesanstalt
 für unter amtliche Überwachung gestelltes Getreide im Einzelfall
 besondere Auflagen erteilen.
-
 
 ### § 4 Überwachungsverfahren
 
@@ -315,7 +301,6 @@ tatsächlichen Ablauf sind der Bundesanstalt unverzüglich mitzuteilen.
 Die Pflichten nach den Sätzen 1 bis 3 gelten für jeden Fall einer
 weiteren Einschaltung eines anerkannten Umschlagsbetriebes.
 
-
 ### § 5 Probenahme und Untersuchung des Getreides
 
 (1) Die Probenahme und die Untersuchung des Getreides zur Feststellung
@@ -335,7 +320,6 @@ schriftliches Einverständnis erteilt hat.
 
 (3) Die Bundesanstalt kann zum Zwecke der Überprüfung jederzeit selbst
 Proben entnehmen und selbstgezogene Proben untersuchen.
-
 
 ### § 6 Freigabe der Sicherheiten
 
@@ -374,10 +358,7 @@ der Deutschen Bahn Aktiengesellschaft. Im Falle der Ausfuhr ist der
 letzte Kontrollschein mit dem Sichtvermerk der Ausfuhrzollstelle gemäß
 § 4 Abs. 8 Satz 3 beizufügen.
 
-
 ## III. - Überwachung der Verarbeitung
-
-
 
 ### § 7 Grundsatz
 
@@ -423,7 +404,6 @@ bestimmten Verarbeitungserzeugnisse auszuführen, so sind diese bis zur
 Ausstellung des Kontrollexemplares und der Annahme der
 Ausfuhranmeldung getrennt von anderen Verarbeitungserzeugnissen zu
 transportieren und zu lagern.
-
 
 ### § 8 Überwachung der Verarbeitung
 
@@ -559,10 +539,7 @@ mitteilen:
 Die vorstehenden Pflichten gelten auch für jeden weiteren Verarbeiter.
 § 4 Abs. 9 Satz 2 und 3 gilt entsprechend.
 
-
 ### (XXXX) §§ 9 und 10 (weggefallen)
-
-
 
 ### § 11 Ausfuhr und Versendung der Verarbeitungserzeugnisse
 
@@ -582,11 +559,9 @@ Verarbeitungserzeugnisse nach Art und Zusammensetzung einzutragen.
 
 (3) § 5 Abs. 1 Satz 2 und Abs. 2 bis 3 gilt entsprechend.
 
-
 ### § 12
 
 (weggefallen)
-
 
 ### § 13 Freigabe der Sicherheit
 
@@ -598,10 +573,7 @@ festgestellt hat, daß die ordnungsgemäße Verarbeitung unter
 Berücksichtigung der §§ 7 bis 11 oder zusätzlich die Versendung oder
 die Ausfuhr erfolgt ist. § 6 Abs. 2 gilt entsprechend.
 
-
 ## IV. - Schlußbestimmungen
-
-
 
 ### § 14 Kosten
 
@@ -610,7 +582,6 @@ Warenuntersuchungen veranlaßt werden, sind den zuständigen Stellen die
 entstandenen Auslagen für die Entnahme, Verpackung und Beförderung der
 Proben sowie für die Warenuntersuchungen zu erstatten, sofern in den
 in § 1 genannten Rechtsakten keine abweichende Regelung getroffen ist.
-
 
 ### § 15 Aufzeichnungs- und Aufbewahrungspflichten
 
@@ -673,7 +644,6 @@ Kalenderjahr der Abgabe des Getreides aus den Interventionsbeständen
 folgt, aufzubewahren, soweit nicht nach anderen Rechtsvorschriften
 längere Aufbewahrungspflichten bestehen.
 
-
 ### § 16 Duldungs- und Mitwirkungspflichten
 
 Soweit es zu der Überwachung der Einhaltung der Verpflichtungen nach
@@ -690,7 +660,6 @@ erforderliche Unterstützung zu gewähren. Bei automatischer Buchführung
 sind die nach Satz 1 Auskunftspflichtigen verpflichtet, auf ihre
 Kosten Listen mit den erforderlichen Angaben auszudrucken, soweit die
 Bundesanstalt dies verlangt.
-
 
 ### § 17 Muster, Vordrucke
 
@@ -714,7 +683,6 @@ Muster im Bundesanzeiger bekanntgeben oder Vordrucke bereithalten.
 
 (2) Soweit von den zuständigen Stellen Muster bekanntgemacht oder
 Vordrucke bereitgehalten worden sind, sind diese zu verwenden.
-
 
 ### § 18 Ordnungswidrigkeiten
 
@@ -774,19 +742,13 @@ Direktzahlungen handelt, wer vorsätzlich oder leichtfertig
 
 8.  entgegen § 9 Abs. 1 Satz 2 erster Halbsatz Getreide weitergibt.
 
-
-
-
-
 ### § 19
 
 (Inkrafttreten)
 
-
 ### Anlage 1
 
 (weggefallen)
-
 
 ### Anlage 2 (zu § 4 Abs. 3) Voraussetzungen für die Anerkennung von Umschlagsbetrieben bei der Ausfuhr von Getreide in unverarbeitetem Zustand
 
@@ -834,10 +796,6 @@ Direktzahlungen handelt, wer vorsätzlich oder leichtfertig
 10. Bei Verwendung einer mobilen Verladeeinrichtung darf das Verladen nur
     über eine geeichte Waage, die Bestandteil dieser Verladeeinrichtung
     sein muß, möglich sein.
-
-
-
-
 
 ### Anlage 3 (zu § 8 Abs. 4) Voraussetzungen für die Anerkennung von Verarbeitungsbetrieben
 

@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1961, 597
 
-
-
 ## § 1 Bundesvermögen
 
 (1) Eigentum und sonstige Vermögensrechte, die dem Deutschen Reich am
@@ -37,7 +35,6 @@ unmittelbaren Vermögen des Landes gehörten, unterliegen den
 Vorschriften dieses Gesetzes; sie sind auf den Bund zu übertragen,
 soweit sie nach diesem Gesetz nicht dem Land zustehen.
 
-
 ## § 2 Den Aufgabennachfolgern zustehendes Reichsvermögen
 
 Vermögensrechte des Deutschen Reichs (§ 1), die am 8. Mai 1945
@@ -46,7 +43,6 @@ Verwaltungsaufgabe bestimmt waren, für den bei Inkrafttreten dieses
 Gesetzes nach dem Grundgesetz ein anderer Rechtsträger als der Bund
 zuständig ist, stehen diesem Rechtsträger zu.
 
-
 ## § 3 Für Aufgaben eines Landes benutztes Reichsvermögen
 
 Vermögensrechte des Deutschen Reichs (§ 1), auf welche die
@@ -54,7 +50,6 @@ Voraussetzungen des § 2 nicht zutreffen und die bei Inkrafttreten
 dieses Gesetzes überwiegend und nicht nur vorübergehend für eine
 grundgesetzliche Verwaltungsaufgabe eines Landes benutzt werden,
 stehen dem Land zu, dem diese Verwaltungsaufgabe obliegt.
-
 
 ## § 4 Oberfinanzdirektionen
 
@@ -65,7 +60,6 @@ Dienstwohnungen der Angehörigen dieser Dienststellen benutzt werden,
 steht zur Hälfte dem Land als Miteigentum zu, in welchem die
 Grundstücke belegen sind. Die §§ 2 und 3 sind insoweit nicht
 anzuwenden.
-
 
 ## § 5 Rückfallvermögen
 
@@ -127,7 +121,6 @@ stehen diese dem Land zu, dem das Grundvermögen des nicht mehr
 bestehenden Landes nach Artikel 135 Abs. 3 des Grundgesetzes
 zugefallen ist.
 
-
 ## § 6 Sonderregelung bei vereinbarter Verwaltungszuständigkeit
 
 (1) Ist nach dem 31. Juli 1951 und vor Inkrafttreten dieses Gesetzes
@@ -160,7 +153,6 @@ Erklärung gegenüber dem Bund darauf beruft.
 (3) Der Absatz 1 gilt nicht für Beteiligungen an Unternehmen des
 privaten Rechts.
 
-
 ## § 7 Übertragung der Rechte
 
 Vermögensrechte des Deutschen Reichs (§ 1), die nach den §§ 2 bis 6
@@ -168,13 +160,11 @@ dieses Gesetzes einem Land, einer Gemeinde (Gemeindeverband) oder
 einem anderen Rechtsträger zustehen, sind auf diesen zu übertragen und
 von diesem zu übernehmen.
 
-
 ## § 8 Unübertragbare Vermögensrechte
 
 Unter die §§ 1 bis 6 fallen auch Vermögensrechte, die durch Gesetz für
 unübertragbar oder nur auf Grund besonderer Vereinbarung für
 übertragbar erklärt worden sind.
-
 
 ## § 9 Feststellung der vom Bund auf andere Rechtsträger zu übertragenden Rechte an Grundstücken
 
@@ -193,7 +183,6 @@ oder Rückfallvermögen geltend und übt er bei Inkrafttreten dieses
 Gesetzes die Verwaltung aus, so verbleibt ihm die Verwaltung, bis über
 seinen Anspruch entschieden ist.
 
-
 ## § 10 Formvorschriften für die Übertragung von Rechten
 
 Für die Übertragung (§ 1 Abs. 3, § 7) des Eigentums oder eines anderen
@@ -209,10 +198,6 @@ Rechts an einem Grundstück gilt folgendes:
 3.  § 39 Abs. 1 der Grundbuchordnung ist nicht anzuwenden, wenn als
     Berechtigter das Deutsche Reich eingetragen ist.
 
-
-
-
-
 ## § 11 Formvorschriften für eine Berichtigung des Grundbuchs
 
 Ist als Eigentümer eines Grundstücks oder als Berechtigter eines
@@ -222,7 +207,6 @@ Eigentümer oder sonstiger Berechtigter der Bund, so ist zum Nachweis
 der Unrichtigkeit des Grundbuchs eine Erklärung des Landes, in dem das
 betreffende Grundstück liegt, darüber erforderlich und genügend, daß
 Eigentümer oder sonstiger Berechtigter der Bund ist.
-
 
 ## § 12 Übergang von Beteiligungsrechten auf die Länder
 
@@ -238,7 +222,6 @@ Westfalen über.
 (3) Die Beteiligung, die dem ehemaligen Land Preußen an der
 Nürburgring GmbH, Adenau (Eifel), zustand, geht auf das Land
 Rheinland-Pfalz über.
-
 
 ## § 13 Übertragung von Beteiligungsrechten auf die Länder
 
@@ -278,7 +261,6 @@ Haftung oder nach dem Gesellschaftsvertrag erforderlichen
 Genehmigungen zur Übertragung von Geschäftsanteilen oder von Teilen
 von Geschäftsanteilen der in den Absätzen 1 bis 3 bezeichneten
 Gesellschaften gelten als erteilt.
-
 
 ## § 14 Ausgleich zwischen Bund, Ländern und sonstigen Verwaltungsträgern
 
@@ -320,7 +302,6 @@ Vermögensgegenstand nach diesem Gesetz zusteht, so ist der letztere
 verpflichtet, die notwendigen Aufwendungen zu ersetzen, die nach
 Inkrafttreten dieses Gesetzes zur Erfüllung des Anspruchs gemacht
 werden.
-
 
 ## § 15 Bundesgesetzliche Vorabregelungen
 
@@ -373,7 +354,6 @@ es sei denn, daß es sich um Vermögensrechte im Sinne des § 10 Satz 2
 des bezeichneten Gesetzes handelt und daß diese Vermögensrechte nach
 den §§ 2, 3, 5 oder 6 einem Land zustehen.
 
-
 ## § 16 Besatzungs- und Stationierungsschäden
 
 (1) Besatzungsschäden, die nach dem 31. März 1950 an Sachen verursacht
@@ -399,13 +379,11 @@ beginnt mit dem Tag der Übertragung der in § 7 bezeichneten Rechte.
 
 (3) Absatz 2 gilt nicht im Land Berlin.
 
-
 ## § 17 Kosten anhängiger Gerichtsverfahren
 
 Soweit sich ein anhängiger Rechtsstreit durch dieses Gesetz erledigt,
 trägt jede Partei ihre außergerichtlichen Kosten und die Hälfte der
 gerichtlichen Auslagen. Gerichtsgebühren werden nicht erhoben.
-
 
 ## § 18 Kosten der Durchführung des Gesetzes
 
@@ -418,7 +396,6 @@ Auslagen bleiben außer Ansatz.
 (§ 13) haben die Rechtsträger zu tragen, auf welche die Rechte
 übertragen werden.
 
-
 ## § 19 Sondervorschriften für Berlin
 
 (1) § 5 gilt nicht im Land Berlin. Eine besondere Regelung bleibt
@@ -429,7 +406,6 @@ Vermögensrechte (§ 1), soweit die Rechtsverhältnisse derartiger
 Vermögensrechte im übrigen Geltungsbereich dieses Gesetzes durch in §
 15 bezeichnete, im Land Berlin bisher nicht in Kraft getretene Gesetze
 geregelt sind.
-
 
 ## § 20 Sondervorschriften für das Saarland
 
@@ -451,16 +427,11 @@ geregelt sind.
 3.  In § 16 Abs. 2 tritt an Stelle des 5. Mai 1955, 12 Uhr mittags, der 6.
     Juli 1959, 0 Uhr.
 
-
-
-
-
 ## § 21 Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 und des § 13 Abs. 1
 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I
 S. 1) auch im Land Berlin.
-
 
 ## § 22 Inkrafttreten
 
@@ -469,7 +440,6 @@ folgenden dritten Kalendermonats in Kraft.
 
 (2) Im Saarland tritt dieses Gesetz am ersten Tage des auf die
 Verkündung folgenden zwölften Kalendermonats in Kraft.
-
 
 ## Anlage (zu § 12 Abs. 1)
 

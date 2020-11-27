@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 129 V v. 31.10.2006 I 2407
 
-
 ## Art 1 - Errichtung eines Bundesamtes für Wirtschaft und Ausfuhrkontrolle (BAFA)
-
-
 
 ## § 1 Errichtung
 
@@ -32,7 +29,6 @@ Technologie wird ein Bundesamt für Wirtschaft und Ausfuhrkontrolle
 (2) Der Präsident des Bundesamtes für Wirtschaft und Ausfuhrkontrolle
 (BAFA) wird vom Bundespräsidenten auf Vorschlag des Bundesministeriums
 für Wirtschaft und Technologie ernannt.
-
 
 ## § 2 Aufgaben
 
@@ -57,17 +53,13 @@ durch Artikel 62 des Gesetzes vom 14. Dezember 1976 (BGBl. I S. 3341),
 soweit die Durchführung durch das Bundesamt für Wirtschaft und
 Ausfuhrkontrolle (BAFA) in den Rechtsverordnungen vorgesehen ist.
 
-
 ## Art 2 bis 6
-
-
 
 ## Art 7 - Rückkehr zum einheitlichen Verordnungsrang
 
 Die auf Artikel 3 und 4 beruhenden Teile der dort geänderten
 Rechtsverordnungen können auf Grund der jeweils einschlägigen
 Ermächtigung durch Rechtsverordnung geändert werden.
-
 
 ## Art 8 - Inkrafttreten
 

@@ -21,7 +21,6 @@ Neugefasst durch
 Geändert durch
 :   Art. 2 Abs. 99 G v. 22.12.2011 I 3044
 
-
 ## § 1 Anwendungsbereich
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung der
@@ -33,14 +32,12 @@ Teils des Gesetzes über das Branntweinmonopol und die zu ihrer
 Ausführung erlassenen Vorschriften in der jeweils geltenden Fassung
 bleiben unberührt.
 
-
 ## § 2 Zuständigkeit
 
 Zuständig für die Durchführung dieser Verordnung und der in § 1
 genannten Rechtsakte ist die Bundesanstalt für Landwirtschaft und
 Ernährung (Bundesanstalt), soweit nicht nach Maßgabe dieser Verordnung
 die Bundesfinanzverwaltung zuständig ist.
-
 
 ## § 2a Zulassungsverfahren für den Absatz im Kraftstoffsektor
 
@@ -90,10 +87,6 @@ deren Beauftragte
 
 4.  die erforderlichen Auskünfte verlangen.
 
-
-
-
-
 ## § 3 Überwachung
 
 (1) Der Alkohol wird vom Zeitpunkt der Abgabe aus dem
@@ -113,7 +106,6 @@ Interventionslager gelegen ist. Absatz 1 Satz 2 bleibt unberührt.
 genannten Rechtsakten vorgeschriebenen Verwendung oder Verarbeitung,
 im Falle der Ausfuhr in unverändertem Zustand oder nach Verarbeitung
 bis zum Verlassen des Zollgebiets der Gemeinschaft.
-
 
 ## § 4 Verwendung oder Verarbeitung
 
@@ -177,7 +169,6 @@ ist.
 Verarbeiter weitere Auflagen erteilen, soweit es der Überwachungszweck
 erfordert.
 
-
 ## § 5 Aufzeichnungspflichten, Aufbewahrungsfristen, Inventur
 
 (1) Soweit sich dies nicht bereits aus dem Zweiten Teil des Gesetzes
@@ -228,7 +219,6 @@ Bestandsaufnahmen für Alkohol und daraus hergestellte
 Verarbeitungserzeugnisse gelten die §§ 17 und 28 der
 Branntweinsteuerverordnung sinngemäß.
 
-
 ## § 6 Anzeigepflichten
 
 Der Verwender oder Verarbeiter hat der überwachenden Stelle nach § 3
@@ -258,7 +248,6 @@ anzugeben
 Die überwachende Stelle nach § 3 Abs. 2 kann, soweit im Einzelfall
 erforderlich, weitere Angaben fordern.
 
-
 ## § 7 Duldungs- und sonstige Mitwirkungspflichten
 
 Zum Zwecke der Überwachung hat der Beteiligte den überwachenden
@@ -272,7 +261,6 @@ Unterstützung zu gewähren. Bei elektronischer Buchführung hat der
 Beteiligte auf Verlangen der überwachenden Stellen nach § 3 Abs. 2 auf
 seine Kosten Listen mit den erforderlichen Angaben auszudrucken.
 
-
 ## § 8 Verpflichtete Person
 
 Der Beteiligte hat die Verpflichtungen, die ihm gegenüber der
@@ -281,7 +269,6 @@ hierfür einen oder mehrere geeignete Beauftragte zu bestellen. Die
 Bestellung ist der überwachenden Stelle nach § 3 Abs. 2 schriftlich in
 doppelter Ausfertigung anzuzeigen. Die bestellten Personen haben die
 Anzeige ebenfalls zu unterzeichnen.
-
 
 ## § 9 Verwendung oder Verarbeitung von Alkohol aus anderen Mitgliedstaaten
 
@@ -304,7 +291,6 @@ Anwendung, dass an die Stelle des in § 4 Abs. 1 Satz 2 und des in § 6
 Nr. 2 genannten Abholscheins der Antrag auf amtliche Überwachung
 tritt.
 
-
 ## § 10 Verwendung oder Verarbeitung in einem anderen Mitgliedstaat
 
 Soll Alkohol aus einem Interventionslager in einen anderen
@@ -317,7 +303,6 @@ gestellen und ein Kontrollexemplar T5 in der jeweils geltenden Fassung
 in zwei Stücken unter Angabe der übernommenen Menge des Alkohols, der
 Nummer des Abholscheins sowie mit den nach den in § 1 genannten
 Rechtsakten vorgeschriebenen Eintragungen vorzulegen.
-
 
 ## § 11 Ausfuhr
 
@@ -341,10 +326,6 @@ dem Kontrollexemplar T5 anzugeben
 2.  die Nummer des Abholscheins oder im Falle des § 9 Nummer und Datum des
     Antrags auf amtliche Überwachung.
 
-
-
-
-
 ## § 12 Muster, Vordrucke
 
 Für die Mitteilung nach § 4 Abs. 1, die Anzeige nach § 6 Abs. 1 sowie
@@ -354,7 +335,6 @@ Bundesfinanzverwaltung" bekannt geben oder Vordrucke bei den
 überwachenden Stellen nach § 3 Abs. 2 bereithalten . Soweit Muster
 bekannt gegeben oder Vordrucke bereitgehalten werden, sind diese zu
 verwenden.
-
 
 ## § 13 (Inkrafttreten)
 

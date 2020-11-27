@@ -27,7 +27,6 @@ des Europäischen Parlaments und des Rates vom 14. Juni 2006 über die
 angemessene Eigenkapitalausstattung von Wertpapierfirmen und
 Kreditinstituten (Neufassung) (ABl. EU Nr. L 177 S. 201).
 
-
 ## Eingangsformel
 
 Das Bundesministerium der Finanzen verordnet auf Grund des § 22 Satz 1
@@ -39,10 +38,7 @@ Gesetzes vom 22. April 2002 (BGBl. I S. 1310), jeweils im Benehmen mit
 der Deutschen Bundesbank und nach Anhörung der Spitzenverbände der
 Institute:
 
-
 ## Teil 1 - Gemeinsame Bestimmungen für Groß- und Millionenkredite
-
-
 
 ### § 1 Begriffsbestimmungen
 
@@ -65,7 +61,6 @@ Vermögensgegenstände und die Weiterleitung von Leistungen beschränkt.
 
 (4) Derivate im Sinne dieser Verordnung sind solche nach § 19 Abs. 1a
 des Kreditwesengesetzes.
-
 
 ### § 2 Bemessungsgrundlage
 
@@ -166,10 +161,7 @@ der Begriff der IRBA-Position dem Begriff des Kredits im Sinne des §
 
 (7) § 5 der Solvabilitätsverordnung ist entsprechend anzuwenden.
 
-
 ### § 3 (weggefallen)
-
-
 
 ### § 4 Bestimmung des Kreditnehmers
 
@@ -214,16 +206,11 @@ darstellt. Grundsätzlich ist Kreditnehmer bei
     Stillhalterverpflichtungen, die kommissionsweise abgeschlossen oder
     übernommen werden, der Kommittent.
 
-
-
-
-
 ### § 5 Treuhandvermögen
 
 Bei Treuhandvermögen berücksichtigt nur der Treugeber den Kredit für
 die Zwecke der §§ 13 bis 13b und 14 des Kreditwesengesetzes, und zwar
 als Kredit an den Endkreditnehmer.
-
 
 ### § 6 Adressenausfallrisiken aus zugrunde liegenden Geschäften
 
@@ -329,13 +316,11 @@ Wahlrechts nach Absatz 2 insgesamt ausschließen, wenn bei dem Institut
 bei Anwendung des Verfahrens wiederholt Unregelmäßigkeiten aufgetreten
 sind.
 
-
 ### § 7 Kreditnehmerfiktion durch Einzelfallentscheidung der Bundesanstalt
 
 Die Bundesanstalt kann auf Antrag eines Instituts in besonders
 gelagerten Ausnahmefällen widerruflich für Kredite an bestimmte
 Kreditnehmer einen Dritten als Kreditnehmer bestimmen.
-
 
 ### § 8 Verfahren zur Einreichung der Anzeigen
 
@@ -405,18 +390,11 @@ aufzubewahren. § 25a Absatz 1 Satz 6 Nummer 2 des Kreditwesengesetzes
 gilt für die Daten, die den Anlagen 4 bis 7 zugrunde liegen,
 entsprechend.
 
-
 ## Teil 2 - Sondervorschriften für Großkredite
-
-
 
 ### Kapitel 1 - Gemeinsame Bestimmungen für Handelsbuch- und Nichthandelsbuchinstitute
 
-
-
 #### Abschnitt 1 - Allgemeine Bestimmungen für Anrechnungen auf die Großkreditobergrenzen
-
-
 
 ##### § 9 Null-Anrechnungen
 
@@ -597,10 +575,6 @@ Großkreditobergrenzen anzurechnen, wenn
 2.  die Voraussetzungen des § 10c Absatz 2 des Kreditwesengesetzes
     entsprechend erfüllt sind.
 
-
-
-
-
 ##### § 10 20-Prozent-Anrechnungen
 
 Mit 20 Prozent ihrer Bemessungsgrundlage sind auf die
@@ -629,7 +603,6 @@ Großkreditobergrenzen anzurechnen:
 Die Gewährleistungen im Sinne des Satzes 1 Nummer 1 unterliegen den §§
 162, 172, 177, 183 und 184 der Solvabilitätsverordnung.
 
-
 ##### § 11 50-Prozent-Anrechnungen
 
 Mit 50 Prozent ihrer Bemessungsgrundlage sind auf die
@@ -642,13 +615,7 @@ Großkreditobergrenzen anzurechnen:
 2.  noch nicht in Anspruch genommene Kreditzusagen, die eine
     Ursprungslaufzeit von bis zu einem Jahr haben.
 
-
-
-
-
 #### Abschnitt 2 - Kreditrisikominderungsbestimmungen
-
-
 
 ##### § 12 Besicherungswirkung von finanziellen Sicherheiten
 
@@ -790,7 +757,6 @@ Marktpreis als bei Anwendung des Absatzes 1 oder 2 zulässig ist, ist
 für die Berechnung des Kreditbetrags nach Absatz 1 oder 2 der
 Marktpreis der Sicherheit unverzüglich entsprechend herabzusetzen.
 
-
 ##### § 13 Wechsel des Kreditnehmers aufgrund der Bestellung von Sicherheiten
 
 (1) Wird ein Kredit ganz oder teilweise durch eine nach § 154 Absatz 1
@@ -830,7 +796,6 @@ Zwecke der Solvabilitätsverordnung zwischen der einfachen Methode nach
 Verwendung der umfassenden Methode für Zwecke der
 Solvabilitätsverordnung nicht zur Verwendung der Methode nach § 12
 Absatz 1 verpflichtet.
-
 
 ##### § 14 Besicherung mit Grundpfandrechten auf Wohn- und Gewerbeimmobilien
 
@@ -892,10 +857,7 @@ gesetzlicher Form oder seinen bankaufsichtlichen Regelungen festgelegt
 hat, der auf Grundlage der in diesem Staat gültigen Grundsätze
 ermittelte Beleihungswert.
 
-
 ### Kapitel 2 - Abgrenzung zwischen Handelsbuch- und Nichthandelsbuchinstituten
-
-
 
 #### § 15 Bemessung der Gesamtsumme der bilanz- und außerbilanzmäßigen Geschäfte
 
@@ -914,7 +876,6 @@ ihrem Nominalwert oder dem Marktpreis der ihnen zugrunde liegenden
 Instrumente. Die Wahl nach Satz 2 hat für Absatz 1 und § 16
 einheitlich zu erfolgen.
 
-
 #### § 16 Bemessung der Gesamtsumme der Positionen des Handelsbuchs
 
 Die Gesamtsumme der Positionen des Handelsbuchs ist zu bilden aus der
@@ -922,17 +883,13 @@ Gesamtsumme der bilanz- und außerbilanzmäßigen Geschäfte im Sinne des
 § 2 Absatz 11 Satz 1 des Kreditwesengesetzes, die dem Handelsbuch
 zugerechnet werden.
 
-
 #### § 17 Anzeigen nach § 2 Absatz 11 Satz 4 des Kreditwesengesetzes
 
 Anzeigen nach § 2 Absatz 11 Satz 4 des Kreditwesengesetzes sind
 unverzüglich der Bundesanstalt und der Deutschen Bundesbank jeweils in
 einfacher Ausfertigung einzureichen.
 
-
 ### Kapitel 3 - Sonderbestimmungen für Nichthandelsbuchinstitute
-
-
 
 #### § 18 Organisatorische Maßnahmen
 
@@ -943,7 +900,6 @@ festgestellt wird. Es hat eine Beschreibung der Verfahren, eine
 Aufstellung der Berechnungsergebnisse und eine Aufschlüsselung der
 Positionen für die Bundesanstalt und die Deutsche Bundesbank auf Abruf
 vorzuhalten.
-
 
 #### § 19 Quartalsmäßige Meldungen der Positionen des Handelsbuchs
 
@@ -959,7 +915,6 @@ Berichtszeitraum keine Positionen und keine Bewegungen aufwies,
 brauchen nach der ersten Abgabe einer Fehlanzeige zu den nachfolgenden
 Meldestichtagen keine erneute Fehlanzeige abzugeben.
 
-
 #### § 20 Ausnahmen von den Beschlussfassungspflichten nach § 13 Abs. 2 und § 13b Absatz 6 des Kreditwesengesetzes
 
 Sofern die Geschäftsleiter bereits über einen Großkredit nach § 13
@@ -971,7 +926,6 @@ Kreditwesengesetzes unterschreitet und sie später wieder erreicht oder
 überschreitet, sofern der zuvor beschlossene Höchstbetrag für den
 Kredit nicht überschritten wird.
 
-
 #### § 21 Kenntnisnahme der Geschäftsleiter
 
 Die Geschäftsleiter haben sich zu den Terminen für die Abgabe der
@@ -980,13 +934,11 @@ zum Meldestichtag in Kenntnis zu setzen. Die Pflicht, über einen
 Großkredit vor Erreichen oder Überschreiten der
 Großkreditdefinitionsgrenze zu beschließen, bleibt unberührt.
 
-
 #### § 22 Beschlussfassungspflichten bei Überschreiten der Großkreditobergrenze
 
 Die Geschäftsleiter haben über einen Großkredit einstimmig zu
 beschließen, bevor er über die Großkreditobergrenze erhöht wird
 (Übergroßkredit).
-
 
 #### § 23 Anzeigen nach § 13 Abs. 1 Satz 1 des Kreditwesengesetzes
 
@@ -999,7 +951,6 @@ Kreditwesengesetzes ist der Stand der Geschäfte täglich bei
 Geschäftsschluss maßgeblich. § 6 Absatz 2 Satz 3 bleibt unberührt.
 
 (3) (weggefallen)
-
 
 #### § 24 Abrufbereitschaft
 
@@ -1019,11 +970,9 @@ einreicht, aufsichtlich festlegt. Das Institut kann sich jederzeit von
 dem Verfahren nach Satz 1 lösen, indem es der Deutschen Bundesbank
 eine Gegenanzeige in zweifacher Ausfertigung einreicht.
 
-
 #### § 25 (weggefallen)
 
 —
-
 
 #### § 26 Anzeige der unerlaubten Überschreitung der Großkreditobergrenze
 
@@ -1040,7 +989,6 @@ zurückgeführt wird.
 
 (2) Absatz 1 gilt für die unerlaubte Überschreitung einer
 Großkreditobergrenze durch die Gruppe entsprechend.
-
 
 #### § 27 Anzeigen von Kreditrahmenkontingenten
 
@@ -1060,17 +1008,13 @@ Unternehmen für seine Gruppe nach § 13 Abs. 4 des Kreditwesengesetzes
 in Verbindung mit § 13b Abs. 1 des Kreditwesengesetzes einzureichen
 hat.
 
-
 #### § 28 Freistellung von Wohnungsgenossenschaften mit Spareinrichtung
 
 Wohnungsgenossenschaften mit Spareinrichtung brauchen keine
 Großkreditanzeigen einzureichen, solange kein Großkredit die
 Großkreditobergrenze überschreitet.
 
-
 ### Kapitel 4 - Sonderbestimmungen für Handelsbuchinstitute
-
-
 
 #### § 29 Tägliche Bewertung; Bewertungsrichtlinien
 
@@ -1078,7 +1022,6 @@ Das Institut hat täglich zum Geschäftsschluss die Positionen des
 Handelsbuchs zum Marktpreis zu bewerten und seine Großkredite zu
 berechnen. § 24 Absatz 1 ist sinngemäß, § 24 Absatz 2 ist nicht
 anzuwenden.
-
 
 #### § 30 Handelsbuch-Gesamtposition
 
@@ -1213,7 +1156,6 @@ Satz 1 kann auf ein Investmentvermögen, das nicht unter Satz 1 Nummer
 1 bis 3 und 5 bis 9 erfüllt sind und die Bundesanstalt ihre Zustimmung
 erteilt hat.
 
-
 #### § 31 Unterlegung von Überschreitungen der Gesamtbuch-Großkreditobergrenze
 
 (1) Die Überschreitung der Gesamtbuch-Großkreditobergrenze ist nach
@@ -1264,7 +1206,6 @@ betreffenden Handelsgeschäfte, insbesondere durch die kurze Haltedauer
 bei Aufgabegeschäften, gerechtfertigt ist. Bei unerlaubten
 Überschreitungen kann sie höhere Unterlegungssätze festsetzen.
 
-
 #### § 32 Unterlegung der Grenzen nach § 13a Absatz 5 Satz 1 oder 3 des Kreditwesengesetzes
 
 Wenn ein Handelsbuchinstitut bei der kreditnehmerbezogenen
@@ -1277,7 +1218,6 @@ unerlaubten Überschreitungen kann die Bundesanstalt höhere
 Unterlegungssätze festsetzen; bei erlaubten Überschreitungen kann sie
 niedrigere Unterlegungssätze festsetzen.
 
-
 #### § 33 Beschlussfassungspflichten bei Anlagebuch- und Gesamtbuch-Großkrediten
 
 Für die Beschlussfassungspflichten nach § 13a Absatz 2 und § 13b
@@ -1285,20 +1225,17 @@ Absatz 6 des Kreditwesengesetzes gelten die §§ 20 bis 22 entsprechend.
 § 20 gilt entsprechend auch bei Änderungen von Positionen des
 Handelsbuchs.
 
-
 #### § 34 Anzeigen nach § 13a Abs. 1 des Kreditwesengesetzes
 
 Auf Anzeigen nach § 13a Abs. 1 Satz 1 des Kreditwesengesetzes, auch in
 Verbindung mit § 13b Abs. 1 des Kreditwesengesetzes, sind die §§ 8 und
 23 anzuwenden.
 
-
 #### § 35 Anzeigen nach § 13a Abs. 2 des Kreditwesengesetzes
 
 Anzeigen nach § 13a Abs. 2 des Kreditwesengesetzes in Verbindung mit §
 13 Abs. 2 Satz 5 oder 8 des Kreditwesengesetzes sind der Deutschen
 Bundesbank in zweifacher Ausfertigung einzureichen.
-
 
 #### § 36 Anzeige der unerlaubten Überschreitung der Großkreditobergrenze
 
@@ -1314,16 +1251,12 @@ hält.
 (3) Absatz 1 gilt für die unerlaubte Überschreitung der
 Großkreditobergrenze durch die Gruppe entsprechend.
 
-
 #### § 37 Anzeige von Kreditrahmenkontingenten
 
 Für die Anzeige von Kreditrahmenkontingenten von Handelsbuchinstituten
 gilt § 27 entsprechend.
 
-
 ## Teil 3 - Sondervorschriften für Millionenkredite
-
-
 
 ### § 38 Anzeigen nach § 14 Abs. 1 des Kreditwesengesetzes
 
@@ -1384,7 +1317,6 @@ Absatz 4 entsprechend.
 
 (6) Wohnungsgenossenschaften mit Spareinrichtung brauchen keine
 Millionenkreditanzeigen einzureichen.
-
 
 ### § 39 Benachrichtigung über die Verschuldung der Kreditnehmer
 
@@ -1448,10 +1380,7 @@ den Absätzen 1 und 2 aufzugliedern.
 (5) Die Deutsche Bundesbank stellt den Kreditgebern die Angaben zu den
 Absätzen 1 bis 4 ausschließlich in papierloser Form zur Verfügung.
 
-
 ## Teil 4 - Übergangs- und Schlussvorschriften
-
-
 
 ### § 40 Inkrafttreten, Außerkrafttreten
 
@@ -1469,7 +1398,6 @@ die Anlagen 1 und 2 der Großkredit- und Millionenkreditverordnung vom
 des Gesetzes vom 15. August 2003 (BGBl. I S. 1657), außer Kraft.
 
 (3) (weggefallen)
-
 
 ### Anlage 1
 
@@ -1638,12 +1566,7 @@ Tabellen 1 bis 6 (weggefallen)
 
     *   9
 
-
-
-
 ### Anlage 2 (weggefallen)
-
-
 
 ### Anlage 3
 
@@ -1652,7 +1575,6 @@ Tabellen 1 bis 6 (weggefallen)
 Handelsbuchpositionen gemäß § 1a KWG in Verbindung mit § 48 GroMiKV"
 Fundstelle: BGBl. I 2006, 3104;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
-
 
 ### Anlage 4 EA, GBR, MKNE
 
@@ -1671,7 +1593,6 @@ eines Kreditnehmers zu mehreren Kreditnehmereinheiten für Groß- und
 Millionenkreditanzeigen nach §§ 13 bis 13b sowie 14 KWG"
 Fundstelle: BGBl. I 2006, 3109 - 3110)
 - Bezüglich der einzelnen Änderungen der Anlage 4 vgl. Fußnote -
-
 
 ### Anlage 5 BA, BAS, BA6, BAS6, BA7, BAS7
 
@@ -2117,7 +2038,6 @@ Abgabe der Groß- und Millionenkreditanzeigen nach §§ 13 bis 13b sowie
 zu entnehmen.
 \* Entsprechend den Vorgaben der PrüfBV.
 
-
 ### Anlage 6
 
 ...
@@ -2125,7 +2045,6 @@ zu entnehmen.
 Kreditnehmereinheit für Großkreditanzeigen nach §§ 13 bis 13b KWG"
 Fundstelle: BGBl. I 2006, 3114 - 3115;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
-
 
 ### Anlage 7
 

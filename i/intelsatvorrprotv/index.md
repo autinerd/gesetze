@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1980, 705
 
-
-
 ## Eingangsformel
 
 Auf Grund des Artikels 3 des Gesetzes vom 22. Juni 1954 über den
@@ -28,7 +26,6 @@ und Befreiungen an andere zwischenstaatliche Organisationen (BGBl.
 1954 II S. 639), der durch das Gesetz vom 28. Februar 1964 (BGBl. II
 S. 187) neu gefaßt wurde, verordnet die Bundesregierung mit Zustimmung
 des Bundesrates:
-
 
 ## § 1
 
@@ -42,7 +39,6 @@ Grundgesetzes sowie Personen mit ständigem Aufenthalt in der
 Bundesrepublik Deutschland genießen nach Maßgabe des Artikels 7 Absatz
 5 des Protokolls keine Vorrechte, Befreiungen und Immunitäten.
 
-
 ## § 2
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
@@ -52,7 +48,6 @@ Vorrechte und Befreiungen der Sonderorganisationen der Vereinten
 Nationen vom 21. November 1947 und über die Gewährung von Vorrechten
 und Befreiungen an andere zwischenstaatliche Organisationen, der durch
 das Gesetz vom 28. Februar 1964 neu gefaßt wurde, auch im Land Berlin.
-
 
 ## § 3
 

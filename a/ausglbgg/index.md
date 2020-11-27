@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 6 Abs. 1 G v. 20.6.2011 I 1114
 
-
 ## § 1 Anspruch
 
 (1) Anspruch auf einen Dienstbeschädigungsausgleich haben vom 1. März
@@ -50,7 +49,6 @@ erlitten haben, haben Anspruch auf Dienstbeschädigungsausgleich, wenn
 der anspruchsbegründende Zustand nach Schließung des
 Sonderversorgungssystems eingetreten ist.
 
-
 ## § 1a Leistungsversagung und -entziehung
 
 (1) Leistungen sind zu versagen, wenn der Berechtigte bei einer
@@ -74,7 +72,6 @@ Verhalten gegen Grundsätze der Menschlichkeit oder Rechtsstaatlichkeit
 verstoßen hat, können sich insbesondere aus einer Zugehörigkeit des
 Berechtigten zu dem ehemaligen Ministerium für Staatssicherheit/Amt
 für Nationale Sicherheit der DDR ergeben.
-
 
 ## § 2 Höhe
 
@@ -135,7 +132,6 @@ Einkommen unberücksichtigt, wenn bei Sozialleistungen aufgrund von
 Rechtsvorschriften die Gewährung oder die Höhe dieser Leistungen von
 anderen Einkommen abhängt.
 
-
 ## § 3 Verfahren, Erstattung, Rechtsweg
 
 Für die Feststellung der Anspruchsvoraussetzungen, das
@@ -145,7 +141,6 @@ Dienstbeschädigungsteilrenten geltenden Regelungen des Anspruchs- und
 Anwartschaftsüberführungsgesetzes und der AAÜG-Erstattungsverordnung
 entsprechend. Die Vorschriften des Ersten und Zehnten Buches
 Sozialgesetzbuch sind anzuwenden.
-
 
 ## § 4 Leistungen für die Zeit vom 1. August 1991 bis 28. Februar 2002
 

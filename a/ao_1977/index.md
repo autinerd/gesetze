@@ -21,14 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 9 G v. 21.7.2012 I 1566
 
-
 ## Erster Teil - Einleitende Vorschriften
 
-
-
 ### Erster Abschnitt - Anwendungsbereich
-
-
 
 #### § 1 Anwendungsbereich
 
@@ -84,7 +79,6 @@ Gesetzes vorbehaltlich des Rechts der Europäischen Gemeinschaften
 sinngemäß anwendbar. Der Dritte bis Sechste Abschnitt des Vierten
 Teils gilt jedoch nur, soweit dies besonders bestimmt wird.
 
-
 #### § 2 Vorrang völkerrechtlicher Vereinbarungen
 
 (1) Verträge mit anderen Staaten im Sinne des Artikels 59 Abs. 2 Satz
@@ -103,10 +97,7 @@ Ziel, Einzelheiten der Durchführung eines solchen Abkommens zu regeln,
 insbesondere Schwierigkeiten oder Zweifel, die bei der Auslegung oder
 Anwendung des jeweiligen Abkommens bestehen, zu beseitigen.
 
-
 ### Zweiter Abschnitt - Steuerliche Begriffsbestimmungen
-
-
 
 #### § 3 Steuern, steuerliche Nebenleistungen
 
@@ -138,18 +129,15 @@ Sinne des § 178a steht dem Bund und den jeweils verwaltenden
 Körperschaften je zur Hälfte zu. Die übrigen steuerlichen
 Nebenleistungen fließen den verwaltenden Körperschaften zu.
 
-
 #### § 4 Gesetz
 
 Gesetz ist jede Rechtsnorm.
-
 
 #### § 5 Ermessen
 
 Ist die Finanzbehörde ermächtigt, nach ihrem Ermessen zu handeln, hat
 sie ihr Ermessen entsprechend dem Zweck der Ermächtigung auszuüben und
 die gesetzlichen Grenzen des Ermessens einzuhalten.
-
 
 #### § 6 Behörden, Finanzbehörden
 
@@ -193,10 +181,6 @@ Landesfinanzbehörden:
 8.  die Deutsche Rentenversicherung Knappschaft-Bahn-See/Verwaltungsstelle
     Cottbus (§ 40a Abs. 6 des Einkommensteuergesetzes).
 
-
-
-
-
 #### § 7 Amtsträger
 
 Amtsträger ist, wer nach deutschem Recht
@@ -211,16 +195,11 @@ Amtsträger ist, wer nach deutschem Recht
     Stelle oder in deren Auftrag Aufgaben der öffentlichen Verwaltung
     wahrzunehmen.
 
-
-
-
-
 #### § 8 Wohnsitz
 
 Einen Wohnsitz hat jemand dort, wo er eine Wohnung unter Umständen
 innehat, die darauf schließen lassen, dass er die Wohnung beibehalten
 und benutzen wird.
-
 
 #### § 9 Gewöhnlicher Aufenthalt
 
@@ -234,18 +213,15 @@ unberücksichtigt. Satz 2 gilt nicht, wenn der Aufenthalt
 ausschließlich zu Besuchs-, Erholungs-, Kur- oder ähnlichen privaten
 Zwecken genommen wird und nicht länger als ein Jahr dauert.
 
-
 #### § 10 Geschäftsleitung
 
 Geschäftsleitung ist der Mittelpunkt der geschäftlichen Oberleitung.
-
 
 #### § 11 Sitz
 
 Den Sitz hat eine Körperschaft, Personenvereinigung oder
 Vermögensmasse an dem Ort, der durch Gesetz, Gesellschaftsvertrag,
 Satzung, Stiftungsgeschäft oder dergleichen bestimmt ist.
-
 
 #### § 12 Betriebstätte
 
@@ -293,10 +269,6 @@ insbesondere anzusehen:
 
     länger als sechs Monate dauern.
 
-
-
-
-
 #### § 13 Ständiger Vertreter
 
 Ständiger Vertreter ist eine Person, die nachhaltig die Geschäfte
@@ -310,10 +282,6 @@ Unternehmen nachhaltig
 2.  einen Bestand von Gütern oder Waren unterhält und davon Auslieferungen
     vornimmt.
 
-
-
-
-
 #### § 14 Wirtschaftlicher Geschäftsbetrieb
 
 Ein wirtschaftlicher Geschäftsbetrieb ist eine selbständige
@@ -323,7 +291,6 @@ Vermögensverwaltung hinausgeht. Die Absicht, Gewinn zu erzielen, ist
 nicht erforderlich. Eine Vermögensverwaltung liegt in der Regel vor,
 wenn Vermögen genutzt, zum Beispiel Kapitalvermögen verzinslich
 angelegt oder unbewegliches Vermögen vermietet oder verpachtet wird.
-
 
 #### § 15 Angehörige
 
@@ -372,13 +339,7 @@ wenn
     sofern die Personen weiterhin wie Eltern und Kind miteinander
     verbunden sind.
 
-
-
-
-
 ### Dritter Abschnitt - Zuständigkeit der Finanzbehörden
-
-
 
 #### § 16 Sachliche Zuständigkeit
 
@@ -386,12 +347,10 @@ Die sachliche Zuständigkeit der Finanzbehörden richtet sich, soweit
 nichts anderes bestimmt ist, nach dem Gesetz über die
 Finanzverwaltung.
 
-
 #### § 17 Örtliche Zuständigkeit
 
 Die örtliche Zuständigkeit richtet sich, soweit nichts anderes
 bestimmt ist, nach den folgenden Vorschriften.
-
 
 #### § 18 Gesonderte Feststellungen
 
@@ -443,7 +402,6 @@ Finanzamt auf Grund einer Verordnung nach § 17 Abs. 2 Satz 3 und 4 des
 Finanzverwaltungsgesetzes sachlich nicht für die gesonderte
 Feststellung zuständig ist, tritt an seine Stelle das sachlich
 zuständige Finanzamt.
-
 
 #### § 19 Steuern vom Einkommen und Vermögen natürlicher Personen
 
@@ -506,7 +464,6 @@ Finanzbehörde die örtliche Zuständigkeit für den Geltungsbereich des
 Gesetzes übertragen. Satz 1 gilt auch in den Fällen, in denen ein
 Antrag nach § 1 Abs. 3 des Einkommensteuergesetzes gestellt wird.
 
-
 #### § 20 Steuern vom Einkommen und Vermögen der Körperschaften, Personenvereinigungen, Vermögensmassen
 
 (1) Für die Besteuerung von Körperschaften, Personenvereinigungen und
@@ -530,7 +487,6 @@ Vermögen der Steuerpflichtigen im Geltungsbereich des Gesetzes, so ist
 das Finanzamt örtlich zuständig, in dessen Bezirk die Tätigkeit im
 Geltungsbereich des Gesetzes vorwiegend ausgeübt oder verwertet wird
 oder worden ist.
-
 
 #### § 20a Steuern vom Einkommen bei Bauleistungen
 
@@ -556,7 +512,6 @@ Absatzes 1 oder 2 im Inland beschäftigt werden, kann abweichend von §
 Zustimmung des Bundesrates die örtliche Zuständigkeit einem Finanzamt
 für den Geltungsbereich des Gesetzes übertragen.
 
-
 #### § 21 Umsatzsteuer
 
 (1) Für die Umsatzsteuer mit Ausnahme der Einfuhrumsatzsteuer ist das
@@ -574,7 +529,6 @@ das Finanzamt zuständig, das auch für die Besteuerung nach dem
 Einkommen zuständig ist (§§ 19 und 20); in den Fällen des § 180 Abs. 1
 Nr. 2 Buchstabe a ist das Finanzamt für die Umsatzsteuer zuständig,
 das auch für die gesonderte Feststellung zuständig ist (§ 18).
-
 
 #### § 22 Realsteuern
 
@@ -602,7 +556,6 @@ vorhanden wären.
 (3) Absatz 2 gilt sinngemäß, soweit einem Land nach Artikel 106 Abs. 6
 Satz 3 des Grundgesetzes das Aufkommen der Realsteuern zusteht.
 
-
 #### § 23 Einfuhr- und Ausfuhrabgaben und Verbrauchsteuern
 
 (1) Für die Einfuhr- und Ausfuhrabgaben im Sinne des Artikels 4 Nr. 10
@@ -623,13 +576,11 @@ Steuerstraftat oder einer Steuerordnungswidrigkeit geschuldet, so ist
 auch das Hauptzollamt örtlich zuständig, das für die Strafsache oder
 die Bußgeldsache zuständig ist.
 
-
 #### § 24 Ersatzzuständigkeit
 
 Ergibt sich die örtliche Zuständigkeit nicht aus anderen Vorschriften,
 so ist die Finanzbehörde zuständig, in deren Bezirk der Anlass für die
 Amtshandlung hervortritt.
-
 
 #### § 25 Mehrfache örtliche Zuständigkeit
 
@@ -641,7 +592,6 @@ Aufsichtsbehörde bestimmt, dass eine andere örtlich zuständige
 Finanzbehörde zu entscheiden hat. Fehlt eine gemeinsame
 Aufsichtsbehörde, so treffen die fachlich zuständigen
 Aufsichtsbehörden die Entscheidung gemeinsam.
-
 
 #### § 26 Zuständigkeitswechsel
 
@@ -664,10 +614,6 @@ nach Satz 1 tritt so lange nicht ein, wie
 3.  sich eine Personengesellschaft oder eine juristische Person in
     Liquidation befindet.
 
-
-
-
-
 #### § 27 Zuständigkeitsvereinbarung
 
 Im Einvernehmen mit der Finanzbehörde, die nach den Vorschriften der
@@ -679,7 +625,6 @@ gilt als erteilt, wenn der Betroffene nicht innerhalb dieser Frist
 widerspricht. Der Betroffene ist auf die Wirkung seines Schweigens
 ausdrücklich hinzuweisen.
 
-
 #### § 28 Zuständigkeitsstreit
 
 (1) Die gemeinsame fachlich zuständige Aufsichtsbehörde entscheidet
@@ -690,7 +635,6 @@ anderen Gründen zweifelhaft ist. § 25 Satz 2 gilt entsprechend.
 (2) § 5 Abs. 1 Nr. 7 des Gesetzes über die Finanzverwaltung bleibt
 unberührt.
 
-
 #### § 29 Gefahr im Verzug
 
 Bei Gefahr im Verzug ist für unaufschiebbare Maßnahmen jede
@@ -698,10 +642,7 @@ Finanzbehörde örtlich zuständig, in deren Bezirk der Anlass für die
 Amtshandlung hervortritt. Die sonst örtlich zuständige Behörde ist
 unverzüglich zu unterrichten.
 
-
 ### Vierter Abschnitt - Steuergeheimnis
-
-
 
 #### § 30 Steuergeheimnis
 
@@ -841,7 +782,6 @@ nicht der Zustimmung des Bundesrates, sowie sie Einfuhr- und
 Ausfuhrabgaben und Verbrauchsteuern, mit Ausnahme der Biersteuer,
 betreffen.
 
-
 #### § 30a Schutz von Bankkunden
 
 (1) Bei der Ermittlung des Sachverhalts (§ 88) haben die
@@ -872,7 +812,6 @@ auch im Verfahren nach § 208 Abs. 1 Satz 1 ein Kreditinstitut erst um
 Auskunft und Vorlage von Urkunden gebeten werden, wenn ein
 Auskunftsersuchen an den Steuerpflichtigen nicht zum Ziele führt oder
 keinen Erfolg verspricht.
-
 
 #### § 31 Mitteilung von Besteuerungsgrundlagen
 
@@ -910,7 +849,6 @@ sonstiger öffentlicher Aufgaben zu verwenden oder den hierfür
 zuständigen Gerichten, Behörden oder juristischen Personen des
 öffentlichen Rechts auf Ersuchen mitzuteilen, soweit nicht
 überwiegende schutzwürdige Interessen des Betroffenen entgegenstehen.
-
 
 #### § 31a Mitteilungen zur Bekämpfung der illegalen Beschäftigung und des Leistungsmissbrauchs
 
@@ -956,7 +894,6 @@ Mitteilung auch auf Antrag des Betroffenen. Die Mitteilungspflicht
 nach den Sätzen 1 und 2 besteht nicht, soweit deren Erfüllung mit
 einem unverhältnismäßigen Aufwand verbunden wäre.
 
-
 #### § 31b Mitteilungen zur Bekämpfung der Geldwäsche und der Terrorismusfinanzierung
 
 Die Offenbarung der nach § 30 geschützten Verhältnisse des Betroffenen
@@ -981,10 +918,7 @@ Sinne des § 2 Absatz 1 Nummer 9 bis 12 des Geldwäschegesetzes begangen
 wurde oder wird, sind unverzüglich der zuständigen Verwaltungsbehörde
 mitzuteilen.
 
-
 ### Fünfter Abschnitt - Haftungsbeschränkung für Amtsträger
-
-
 
 #### § 32 Haftungsbeschränkung für Amtsträger
 
@@ -1005,14 +939,9 @@ Wird infolge der Amts- oder Dienstpflichtverletzung eines Amtsträgers
 so kann er nur in Anspruch genommen werden, wenn die Amts- oder
 Dienstpflichtverletzung mit einer Strafe bedroht ist.
 
-
 ## Zweiter Teil - Steuerschuldrecht
 
-
-
 ### Erster Abschnitt - Steuerpflichtiger
-
-
 
 #### § 33 Steuerpflichtiger
 
@@ -1026,7 +955,6 @@ Steuergesetze auferlegte Verpflichtungen zu erfüllen hat.
 Auskunft zu erteilen, Urkunden vorzulegen, ein
 Sachverständigengutachten zu erstatten oder das Betreten von
 Grundstücken, Geschäfts- und Betriebsräumen zu gestatten hat.
-
 
 #### § 34 Pflichten der gesetzlichen Vertreter und der Vermögensverwalter
 
@@ -1049,13 +977,11 @@ Eigentümern des Vermögens oder deren gesetzlichen Vertretern zu, so
 haben die Vermögensverwalter die in Absatz 1 bezeichneten Pflichten,
 soweit ihre Verwaltung reicht.
 
-
 #### § 35 Pflichten des Verfügungsberechtigten
 
 Wer als Verfügungsberechtigter im eigenen oder fremden Namen auftritt,
 hat die Pflichten eines gesetzlichen Vertreters (§ 34 Abs. 1), soweit
 er sie rechtlich und tatsächlich erfüllen kann.
-
 
 #### § 36 Erlöschen der Vertretungsmacht
 
@@ -1065,10 +991,7 @@ den Zeitraum betreffen, in dem die Vertretungsmacht oder
 Verfügungsmacht bestanden hat und soweit der Verpflichtete sie
 erfüllen kann.
 
-
 ### Zweiter Abschnitt - Steuerschuldverhältnis
-
-
 
 #### § 37 Ansprüche aus dem Steuerschuldverhältnis
 
@@ -1088,13 +1011,11 @@ später wegfällt. Im Fall der Abtretung, Verpfändung oder Pfändung
 richtet sich der Anspruch auch gegen den Abtretenden, Verpfänder oder
 Pfändungsschuldner.
 
-
 #### § 38 Entstehung der Ansprüche aus dem Steuerschuldverhältnis
 
 Die Ansprüche aus dem Steuerschuldverhältnis entstehen, sobald der
 Tatbestand verwirklicht ist, an den das Gesetz die Leistungspflicht
 knüpft.
-
 
 #### § 39 Zurechnung
 
@@ -1115,16 +1036,11 @@ knüpft.
     Beteiligten anteilig zugerechnet, soweit eine getrennte Zurechnung für
     die Besteuerung erforderlich ist.
 
-
-
-
-
 #### § 40 Gesetz- oder sittenwidriges Handeln
 
 Für die Besteuerung ist es unerheblich, ob ein Verhalten, das den
 Tatbestand eines Steuergesetzes ganz oder zum Teil erfüllt, gegen ein
 gesetzliches Gebot oder Verbot oder gegen die guten Sitten verstößt.
-
 
 #### § 41 Unwirksame Rechtsgeschäfte
 
@@ -1138,7 +1054,6 @@ aus den Steuergesetzen etwas anderes ergibt.
 unerheblich. Wird durch ein Scheingeschäft ein anderes Rechtsgeschäft
 verdeckt, so ist das verdeckte Rechtsgeschäft für die Besteuerung
 maßgebend.
-
 
 #### § 42 Missbrauch von rechtlichen Gestaltungsmöglichkeiten
 
@@ -1158,13 +1073,11 @@ nicht vorgesehenen Steuervorteil führt. Dies gilt nicht, wenn der
 Steuerpflichtige für die gewählte Gestaltung außersteuerliche Gründe
 nachweist, die nach dem Gesamtbild der Verhältnisse beachtlich sind.
 
-
 #### § 43 Steuerschuldner, Steuervergütungsgläubiger
 
 Die Steuergesetze bestimmen, wer Steuerschuldner oder Gläubiger einer
 Steuervergütung ist. Sie bestimmen auch, ob ein Dritter die Steuer für
 Rechnung des Steuerschuldners zu entrichten hat.
-
 
 #### § 44 Gesamtschuldner
 
@@ -1181,7 +1094,6 @@ Gesamtschuldner, in dessen Person sie eintreten. Die Vorschriften der
 §§ 268 bis 280 über die Beschränkung der Vollstreckung in den Fällen
 der Zusammenveranlagung bleiben unberührt.
 
-
 #### § 45 Gesamtrechtsnachfolge
 
 (1) Bei Gesamtrechtsnachfolge gehen die Forderungen und Schulden aus
@@ -1193,7 +1105,6 @@ nach den Vorschriften des bürgerlichen Rechts über die Haftung des
 Erben für Nachlassverbindlichkeiten einzustehen. Vorschriften, durch
 die eine steuerrechtliche Haftung der Erben begründet wird, bleiben
 unberührt.
-
 
 #### § 46 Abtretung, Verpfändung, Pfändung
 
@@ -1237,14 +1148,12 @@ Finanzbehörde, die über den Anspruch entschieden oder zu entscheiden
 hat, als Drittschuldner im Sinne der §§ 829, 845 der
 Zivilprozessordnung.
 
-
 #### § 47 Erlöschen
 
 Ansprüche aus dem Steuerschuldverhältnis erlöschen insbesondere durch
 Zahlung (§§ 224, 224a, 225), Aufrechnung (§ 226), Erlass (§§ 163,
 227), Verjährung (§§ 169 bis 171, §§ 228 bis 232), ferner durch
 Eintritt der Bedingung bei auflösend bedingten Ansprüchen.
-
 
 #### § 48 Leistung durch Dritte, Haftung Dritter
 
@@ -1254,13 +1163,11 @@ Finanzbehörde können auch durch Dritte bewirkt werden.
 (2) Dritte können sich vertraglich verpflichten, für Leistungen im
 Sinne des Absatzes 1 einzustehen.
 
-
 #### § 49 Verschollenheit
 
 Bei Verschollenheit gilt für die Besteuerung der Tag als Todestag, mit
 dessen Ablauf der Beschluss über die Todeserklärung des Verschollenen
 rechtskräftig wird.
-
 
 #### § 50 Erlöschen und Unbedingtwerden der Verbrauchsteuer, Übergang der bedingten Verbrauchsteuerschuld
 
@@ -1287,13 +1194,7 @@ weitergegeben werden.
 
 2.  in sonstigen gesetzlich bestimmten Fällen.
 
-
-
-
-
 ### Dritter Abschnitt - Steuerbegünstigte Zwecke
-
-
 
 #### § 51 Allgemeines
 
@@ -1326,7 +1227,6 @@ Verdacht von Bestrebungen im Sinne des § 4 des
 Bundesverfassungsschutzgesetzes oder des Zuwiderhandelns gegen den
 Gedanken der Völkerverständigung begründen, der
 Verfassungsschutzbehörde mit.
-
 
 #### § 52 Gemeinnützige Zwecke
 
@@ -1453,7 +1353,6 @@ Länder haben jeweils eine Finanzbehörde im Sinne des
 Finanzverwaltungsgesetzes zu bestimmen, die für Entscheidungen nach
 Satz 2 zuständig ist.
 
-
 #### § 53 Mildtätige Zwecke
 
 Eine Körperschaft verfolgt mildtätige Zwecke, wenn ihre Tätigkeit
@@ -1491,10 +1390,6 @@ darauf gerichtet ist, Personen selbstlos zu unterstützen,
     Leistungen zur Sicherung des Lebensunterhalts nach dem Zweiten Buch
     Sozialgesetzbuch hätten. Unterhaltsansprüche sind zu berücksichtigen.
 
-
-
-
-
 #### § 54 Kirchliche Zwecke
 
 (1) Eine Körperschaft verfolgt kirchliche Zwecke, wenn ihre Tätigkeit
@@ -1509,7 +1404,6 @@ die Pflege des Andenkens der Toten, ferner die Verwaltung des
 Kirchenvermögens, die Besoldung der Geistlichen, Kirchenbeamten und
 Kirchendiener, die Alters- und Behindertenversorgung für diese
 Personen und die Versorgung ihrer Witwen und Waisen.
-
 
 #### § 55 Selbstlosigkeit
 
@@ -1574,12 +1468,10 @@ Satz 4 des Einkommensteuergesetzes aus einem Betriebsvermögen zum
 Buchwert entnommen worden sind, an die Stelle des gemeinen Werts der
 Buchwert der Entnahme tritt.
 
-
 #### § 56 Ausschließlichkeit
 
 Ausschließlichkeit liegt vor, wenn eine Körperschaft nur ihre
 steuerbegünstigten satzungsmäßigen Zwecke verfolgt.
-
 
 #### § 57 Unmittelbarkeit
 
@@ -1594,7 +1486,6 @@ Körperschaft anzusehen ist.
 (2) Eine Körperschaft, in der steuerbegünstigte Körperschaften
 zusammengefasst sind, wird einer Körperschaft, die unmittelbar
 steuerbegünstigte Zwecke verfolgt, gleichgestellt.
-
 
 #### § 58 Steuerlich unschädliche Betätigungen
 
@@ -1694,10 +1585,6 @@ Die Steuervergünstigung wird nicht dadurch ausgeschlossen, dass
     aus wirtschaftlichen Geschäftsbetrieben (§ 14) ganz oder teilweise
     ihrem Vermögen zuführt.
 
-
-
-
-
 #### § 59 Voraussetzung der Steuervergünstigung
 
 Die Steuervergünstigung wird gewährt, wenn sich aus der Satzung, dem
@@ -1706,7 +1593,6 @@ dieser Vorschriften) ergibt, welchen Zweck die Körperschaft verfolgt,
 dass dieser Zweck den Anforderungen der §§ 52 bis 55 entspricht und
 dass er ausschließlich und unmittelbar verfolgt wird; die tatsächliche
 Geschäftsführung muss diesen Satzungsbestimmungen entsprechen.
-
 
 #### § 60 Anforderungen an die Satzung
 
@@ -1720,7 +1606,6 @@ Festlegungen enthalten.
 Körperschaftsteuer und bei der Gewerbesteuer während des ganzen
 Veranlagungs- oder Bemessungszeitraums, bei den anderen Steuern im
 Zeitpunkt der Entstehung der Steuer entsprechen.
-
 
 #### § 61 Satzungsmäßige Vermögensbindung
 
@@ -1742,11 +1627,9 @@ soweit sie Steuern betreffen, die innerhalb der letzten zehn
 Kalenderjahre vor der Änderung der Bestimmung über die
 Vermögensbindung entstanden sind.
 
-
 #### § 62 (weggefallen)
 
 -
-
 
 #### § 63 Anforderungen an die tatsächliche Geschäftsführung
 
@@ -1770,7 +1653,6 @@ eine Frist für die Verwendung der Mittel setzen. Die tatsächliche
 Geschäftsführung gilt als ordnungsgemäß im Sinne des Absatzes 1, wenn
 die Körperschaft die Mittel innerhalb der Frist für steuerbegünstigte
 Zwecke verwendet.
-
 
 #### § 64 Steuerpflichtige wirtschaftliche Geschäftsbetriebe
 
@@ -1816,10 +1698,6 @@ Einnahmen zugrunde gelegt werden:
 
 3.  Zweite Fraktionierungsstufe der Blutspendedienste.
 
-
-
-
-
 #### § 65 Zweckbetrieb
 
 Ein Zweckbetrieb ist gegeben, wenn
@@ -1838,10 +1716,6 @@ Ein Zweckbetrieb ist gegeben, wenn
     tritt, als es bei Erfüllung der steuerbegünstigten Zwecke unvermeidbar
     ist.
 
-
-
-
-
 #### § 66 Wohlfahrtspflege
 
 (1) Eine Einrichtung der Wohlfahrtspflege ist ein Zweckbetrieb, wenn
@@ -1856,7 +1730,6 @@ Vorbeugung oder Abhilfe bezwecken.
 (3) Eine Einrichtung der Wohlfahrtspflege dient in besonderem Maße den
 in § 53 genannten Personen, wenn diesen mindestens zwei Drittel ihrer
 Leistungen zugute kommen. Für Krankenhäuser gilt § 67.
-
 
 #### § 67 Krankenhäuser
 
@@ -1874,7 +1747,6 @@ ist ein Zweckbetrieb, wenn mindestens 40 Prozent der jährlichen
 Belegungstage oder Berechnungstage auf Patienten entfallen, bei denen
 für die Krankenhausleistungen kein höheres Entgelt als nach Absatz 1
 berechnet wird.
-
 
 #### § 67a Sportliche Veranstaltungen
 
@@ -1911,7 +1783,6 @@ wirtschaftlicher Geschäftsbetrieb. Dieser schließt die
 Steuervergünstigung nicht aus, wenn die Vergütungen oder andere
 Vorteile ausschließlich aus wirtschaftlichen Geschäftsbetrieben, die
 nicht Zweckbetriebe sind, oder von Dritten geleistet werden.
-
 
 #### § 68 Einzelne Zweckbetriebe
 
@@ -2007,13 +1878,7 @@ Zweckbetriebe sind auch:
     Erkenntnisse beschränken, die Übernahme von Projektträgerschaften
     sowie wirtschaftliche Tätigkeiten ohne Forschungsbezug.
 
-
-
-
-
 ### Vierter Abschnitt - Haftung
-
-
 
 #### § 69 Haftung der Vertreter
 
@@ -2024,7 +1889,6 @@ nicht rechtzeitig festgesetzt oder erfüllt oder soweit infolgedessen
 Steuervergütungen oder Steuererstattungen ohne rechtlichen Grund
 gezahlt werden. Die Haftung umfasst auch die infolge der
 Pflichtverletzung zu zahlenden Säumniszuschläge.
-
 
 #### § 70 Haftung des Vertretenen
 
@@ -2042,13 +1906,11 @@ denjenigen, der die Steuerhinterziehung oder die leichtfertige
 Steuerverkürzung begangen hat, sorgfältig ausgewählt und beaufsichtigt
 haben.
 
-
 #### § 71 Haftung des Steuerhinterziehers und des Steuerhehlers
 
 Wer eine Steuerhinterziehung oder eine Steuerhehlerei begeht oder an
 einer solchen Tat teilnimmt, haftet für die verkürzten Steuern und die
 zu Unrecht gewährten Steuervorteile sowie für die Zinsen nach § 235.
-
 
 #### § 72 Haftung bei Verletzung der Pflicht zur Kontenwahrheit
 
@@ -2056,14 +1918,12 @@ Wer vorsätzlich oder grob fahrlässig der Vorschrift des § 154 Abs. 3
 zuwiderhandelt, haftet, soweit dadurch die Verwirklichung von
 Ansprüchen aus dem Steuerschuldverhältnis beeinträchtigt wird.
 
-
 #### § 73 Haftung bei Organschaft
 
 Eine Organgesellschaft haftet für solche Steuern des Organträgers, für
 welche die Organschaft zwischen ihnen steuerlich von Bedeutung ist.
 Den Steuern stehen die Ansprüche auf Erstattung von Steuervergütungen
 gleich.
-
 
 #### § 74 Haftung des Eigentümers von Gegenständen
 
@@ -2084,7 +1944,6 @@ beherrschenden Einfluss ausübt und durch sein Verhalten dazu beiträgt,
 dass fällige Steuern im Sinne des Absatzes 1 Satz 1 nicht entrichtet
 werden.
 
-
 #### § 75 Haftung des Betriebsübernehmers
 
 (1) Wird ein Unternehmen oder ein in der Gliederung eines Unternehmens
@@ -2100,7 +1959,6 @@ Erstattung von Steuervergütungen gleich.
 
 (2) Absatz 1 gilt nicht für Erwerbe aus einer Insolvenzmasse und für
 Erwerbe im Vollstreckungsverfahren.
-
 
 #### § 76 Sachhaftung
 
@@ -2129,7 +1987,6 @@ verbrauchsteuerpflichtigen Waren in einen Herstellungsbetrieb
 aufgenommen oder die einfuhr- und ausfuhrabgabenpflichtigen Waren eine
 zollrechtliche Bestimmung erhalten.
 
-
 #### § 77 Duldungspflicht
 
 (1) Wer kraft Gesetzes verpflichtet ist, eine Steuer aus Mitteln, die
@@ -2143,18 +2000,11 @@ solcher im Grundbuch eingetragen ist. Das Recht des nicht
 eingetragenen Eigentümers, die ihm gegen die öffentliche Last
 zustehenden Einwendungen geltend zu machen, bleibt unberührt.
 
-
 ## Dritter Teil - Allgemeine Verfahrensvorschriften
-
-
 
 ### Erster Abschnitt - Verfahrensgrundsätze
 
-
-
 #### 1. Unterabschnitt - Beteiligung am Verfahren
-
-
 
 ##### § 78 Beteiligte
 
@@ -2169,10 +2019,6 @@ Beteiligte sind
 
 3.  diejenigen, mit denen die Finanzbehörde einen öffentlich-rechtlichen
     Vertrag schließen will oder geschlossen hat.
-
-
-
-
 
 ##### § 79 Handlungsfähigkeit
 
@@ -2205,7 +2051,6 @@ des Betreuers handeln kann oder durch Vorschriften des öffentlichen
 Rechts als handlungsfähig anerkannt ist.
 
 (3) Die §§ 53 und 55 der Zivilprozessordnung gelten entsprechend.
-
 
 ##### § 80 Bevollmächtigte und Beistände
 
@@ -2251,7 +2096,6 @@ Beteiligten, dessen Bevollmächtigter oder Beistand zurückgewiesen
 wird, mitzuteilen. Verfahrenshandlungen des zurückgewiesenen
 Bevollmächtigten oder Beistands, die dieser nach der Zurückweisung
 vornimmt, sind unwirksam.
-
 
 ##### § 81 Bestellung eines Vertreters von Amts wegen
 
@@ -2304,10 +2148,7 @@ Vertreters in den Fällen des Absatzes 1 Nr. 4 die Vorschriften über
 die Betreuung, in den übrigen Fällen die Vorschriften über die
 Pflegschaft entsprechend.
 
-
 #### 2. Unterabschnitt - Ausschließung und Ablehnung von Amtsträgern und anderen Personen
-
-
 
 ##### § 82 Ausgeschlossene Personen
 
@@ -2355,7 +2196,6 @@ entscheidet über den Ausschluss. Der Betroffene darf an dieser
 Entscheidung nicht mitwirken. Das ausgeschlossene Mitglied darf bei
 der weiteren Beratung und Beschlussfassung nicht zugegen sein.
 
-
 ##### § 83 Besorgnis der Befangenheit
 
 (1) Liegt ein Grund vor, der geeignet ist, Misstrauen gegen die
@@ -2369,7 +2209,6 @@ der Behördenleiter nicht selbst einer Mitwirkung enthält.
 
 (2) Bei Mitgliedern eines Ausschusses ist sinngemäß nach § 82 Abs. 3
 zu verfahren.
-
 
 ##### § 84 Ablehnung von Mitgliedern eines Ausschusses
 
@@ -2385,14 +2224,9 @@ Abs. 3 Sätze 2 bis 4. Die Entscheidung über das Ablehnungsgesuch kann
 nur zusammen mit der Entscheidung angefochten werden, die das
 Verfahren vor dem Ausschuss abschließt.
 
-
 #### 3. Unterabschnitt - Besteuerungsgrundsätze, Beweismittel
 
-
-
 ##### I. - Allgemeines
-
-
 
 ###### § 85 Besteuerungsgrundsätze
 
@@ -2401,7 +2235,6 @@ gleichmäßig festzusetzen und zu erheben. Insbesondere haben sie
 sicherzustellen, dass Steuern nicht verkürzt, zu Unrecht erhoben oder
 Steuererstattungen und Steuervergütungen nicht zu Unrecht gewährt oder
 versagt werden.
-
 
 ###### § 86 Beginn des Verfahrens
 
@@ -2413,10 +2246,6 @@ die Finanzbehörde auf Grund von Rechtsvorschriften
 
 
 2.  nur auf Antrag tätig werden darf und ein Antrag nicht vorliegt.
-
-
-
-
 
 ###### § 87 Amtssprache
 
@@ -2453,7 +2282,6 @@ Frist eine Übersetzung vorgelegt wird. Andernfalls ist der Zeitpunkt
 des Eingangs der Übersetzung maßgebend, soweit sich nicht aus
 zwischenstaatlichen Vereinbarungen etwas anderes ergibt. Auf diese
 Rechtsfolge ist bei der Fristsetzung hinzuweisen.
-
 
 ###### § 87a Elektronische Kommunikation
 
@@ -2512,7 +2340,6 @@ des Bundesrates bedarf es nicht, soweit Kraftfahrzeugsteuer,
 Versicherungsteuer und Verbrauchsteuern mit Ausnahme der Biersteuer
 betroffen sind.
 
-
 ###### § 88 Untersuchungsgrundsatz
 
 (1) Die Finanzbehörde ermittelt den Sachverhalt von Amts wegen. Sie
@@ -2531,7 +2358,6 @@ automatischer Einrichtungen bestimmen. Einer Zustimmung des
 Bundesrates bedarf es nicht, soweit Verbrauchsteuern mit Ausnahme der
 Biersteuer betroffen sind.
 
-
 ###### § 88a Sammlung von geschützten Daten
 
 Soweit es zur Sicherstellung einer gleichmäßigen Festsetzung und
@@ -2541,7 +2367,6 @@ Erhebung der Steuern erforderlich ist, dürfen die Finanzbehörden nach
 Vergleichswerten, in Dateien oder Akten sammeln und verwenden. Eine
 Verwendung ist nur für Verfahren im Sinne des § 30 Abs. 2 Nr. 1
 Buchstabe a und b zulässig.
-
 
 ###### § 89 Beratung, Auskunft
 
@@ -2606,7 +2431,6 @@ kann insbesondere ermäßigt werden, wenn ein Antrag auf Erteilung einer
 verbindlichen Auskunft vor Bekanntgabe der Entscheidung der
 Finanzbehörde zurückgenommen wird.
 
-
 ###### § 90 Mitwirkungspflichten der Beteiligten
 
 (1) Die Beteiligten sind zur Mitwirkung bei der Ermittlung des
@@ -2667,7 +2491,6 @@ erfolgen. Soweit Aufzeichnungen über außergewöhnliche
 Geschäftsvorfälle vorzulegen sind, beträgt die Frist 30 Tage. In
 begründeten Einzelfällen kann die Vorlagefrist verlängert werden.
 
-
 ###### § 91 Anhörung Beteiligter
 
 (1) Bevor ein Verwaltungsakt erlassen wird, der in Rechte eines
@@ -2706,7 +2529,6 @@ Umständen des Einzelfalls nicht geboten ist, insbesondere wenn
 (3) Eine Anhörung unterbleibt, wenn ihr ein zwingendes öffentliches
 Interesse entgegensteht.
 
-
 ###### § 92 Beweismittel
 
 Die Finanzbehörde bedient sich der Beweismittel, die sie nach
@@ -2724,13 +2546,7 @@ erforderlich hält. Sie kann insbesondere
 
 4.  den Augenschein einnehmen.
 
-
-
-
-
 ##### II. - Beweis durch Auskünfte und Sachverständigengutachten
-
-
 
 ###### § 93 Auskunftspflicht der Beteiligten und anderer Personen
 
@@ -2874,7 +2690,6 @@ gesetzlich nichts anderes bestimmt ist.
 (10) Ein Abrufersuchen nach Absatz 7 oder Absatz 8 und dessen Ergebnis
 sind vom Ersuchenden zu dokumentieren.
 
-
 ###### § 93a Allgemeine Mitteilungspflichten
 
 (1) Zur Sicherung der Besteuerung (§ 85) kann die Bundesregierung
@@ -2921,7 +2736,6 @@ das Verfahren der Mitteilung zu regeln. In der Rechtsverordnung können
 Ausnahmen von der Mitteilungspflicht, insbesondere für Fälle geringer
 steuerlicher Bedeutung, zugelassen werden.
 
-
 ###### § 93b Automatisierter Abruf von Kontoinformationen
 
 (1) Kreditinstitute haben die nach § 24c Abs. 1 des
@@ -2938,7 +2752,6 @@ Datenübermittlung trägt der Ersuchende.
 
 (4) § 24c Abs. 1 Satz 2 bis 6, Abs. 4 bis 8 des Kreditwesengesetzes
 gilt entsprechend.
-
 
 ###### § 94 Eidliche Vernehmung
 
@@ -2961,7 +2774,6 @@ stellen.
 
 (3) Das Gericht entscheidet über die Rechtmäßigkeit der Verweigerung
 des Zeugnisses oder der Eidesleistung.
-
 
 ###### § 95 Versicherung an Eides statt
 
@@ -3009,7 +2821,6 @@ hat, sowie von dem Schriftführer zu unterschreiben.
 
 (6) Die Versicherung an Eides statt kann nicht nach § 328 erzwungen
 werden.
-
 
 ###### § 96 Hinzuziehung von Sachverständigen
 
@@ -3062,10 +2873,7 @@ auf den geleisteten Eid; sie kann auch in einem schriftlichen
 Gutachten erklärt werden. Anderenfalls gilt für die Beeidigung § 94
 sinngemäß.
 
-
 ##### III. - Beweis durch Urkunden und Augenschein
-
-
 
 ###### § 97 Vorlage von Urkunden
 
@@ -3091,7 +2899,6 @@ Urkunden an Amtsstelle verlangen oder sie bei dem Vorlagepflichtigen
 einsehen, wenn dieser einverstanden ist oder die Urkunden für eine
 Vorlage an Amtsstelle ungeeignet sind. § 147 Abs. 5 gilt entsprechend.
 
-
 ###### § 98 Einnahme des Augenscheins
 
 (1) Führt die Finanzbehörde einen Augenschein durch, so ist das
@@ -3099,7 +2906,6 @@ Ergebnis aktenkundig zu machen.
 
 (2) Bei der Einnahme des Augenscheins können Sachverständige zugezogen
 werden.
-
 
 ###### § 99 Betreten von Grundstücken und Räumen
 
@@ -3117,7 +2923,6 @@ und Ordnung betreten werden.
 (2) Maßnahmen nach Absatz 1 dürfen nicht zu dem Zweck angeordnet
 werden, nach unbekannten Gegenständen zu forschen.
 
-
 ###### § 100 Vorlage von Wertsachen
 
 (1) Der Beteiligte und andere Personen haben der Finanzbehörde auf
@@ -3129,10 +2934,7 @@ Feststellungen über ihre Beschaffenheit und ihren Wert zu treffen. §
 (2) Die Vorlage von Wertsachen darf nicht angeordnet werden, um nach
 unbekannten Gegenständen zu forschen.
 
-
 ##### IV. - Auskunfts- und Vorlageverweigerungsrechte
-
-
 
 ###### § 101 Auskunfts- und Eidesverweigerungsrecht der Angehörigen
 
@@ -3146,7 +2948,6 @@ Belehrung ist aktenkundig zu machen.
 (2) Die in Absatz 1 genannten Personen haben ferner das Recht, die
 Beeidigung ihrer Auskunft zu verweigern. Absatz 1 Sätze 2 und 3 gelten
 entsprechend.
-
 
 ###### § 102 Auskunftsverweigerungsrecht zum Schutz bestimmter Berufsgeheimnisse
 
@@ -3212,7 +3013,6 @@ jeweils geltenden Fassung bleiben unberührt. Soweit die
 Anzeigepflichten bestehen, sind die Notare auch zur Vorlage von
 Urkunden und zur Erteilung weiterer Auskünfte verpflichtet.
 
-
 ###### § 103 Auskunftsverweigerungsrecht bei Gefahr der Verfolgung wegen einer Straftat oder einer Ordnungswidrigkeit
 
 Personen, die nicht Beteiligte und nicht für einen Beteiligten
@@ -3222,7 +3022,6 @@ verweigern, deren Beantwortung sie selbst oder einen ihrer Angehörigen
 nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde. Über das
 Recht, die Auskunft zu verweigern, sind sie zu belehren. Die Belehrung
 ist aktenkundig zu machen.
-
 
 ###### § 104 Verweigerung der Erstattung eines Gutachtens und der Vorlage von Urkunden
 
@@ -3236,7 +3035,6 @@ Beteiligte bei eigenem Gewahrsam zur Vorlage verpflichtet wäre. Für
 den Beteiligten aufbewahrt werden auch die für ihn geführten
 Geschäftsbücher und sonstigen Aufzeichnungen.
 
-
 ###### § 105 Verhältnis der Auskunfts- und Vorlagepflicht zur Schweigepflicht öffentlicher Stellen
 
 (1) Die Verpflichtung der Behörden oder sonstiger öffentlicher Stellen
@@ -3249,7 +3047,6 @@ gegenüber den Finanzbehörden.
 postdienstlichen Verrichtungen betrauten Personen gesetzlich
 verpflichtet sind, das Brief-, Post- und Fernmeldegeheimnis zu wahren.
 
-
 ###### § 106 Beschränkung der Auskunfts- und Vorlagepflicht bei Beeinträchtigung des staatlichen Wohls
 
 Eine Auskunft oder die Vorlage von Urkunden darf nicht gefordert
@@ -3257,10 +3054,7 @@ werden, wenn die zuständige oberste Bundes- oder Landesbehörde
 erklärt, dass die Auskunft oder Vorlage dem Wohl des Bundes oder eines
 Landes erhebliche Nachteile bereiten würde.
 
-
 ##### V. - Entschädigung der Auskunftspflichtigen und der Sachverständigen
-
-
 
 ###### § 107 Entschädigung der Auskunftspflichtigen und der Sachverständigen
 
@@ -3271,10 +3065,7 @@ oder Vergütung in entsprechender Anwendung des Justizvergütungs- und
 die Personen, die für die Beteiligten die Auskunftspflicht zu erfüllen
 haben.
 
-
 #### 4. Unterabschnitt - Fristen, Termine, Wiedereinsetzung
-
-
 
 ##### § 108 Fristen und Termine
 
@@ -3301,7 +3092,6 @@ wenn er auf einen Sonntag, gesetzlichen Feiertag oder Sonnabend fällt.
 (6) Ist eine Frist nach Stunden bestimmt, so werden Sonntage,
 gesetzliche Feiertage oder Sonnabende mitgerechnet.
 
-
 ##### § 109 Verlängerung von Fristen
 
 (1) Fristen zur Einreichung von Steuererklärungen und Fristen, die von
@@ -3313,7 +3103,6 @@ Fristablauf eingetretenen Rechtsfolgen bestehen zu lassen.
 (2) Die Finanzbehörde kann die Verlängerung der Frist von einer
 Sicherheitsleistung abhängig machen oder sonst nach § 120 mit einer
 Nebenbestimmung verbinden.
-
 
 ##### § 110 Wiedereinsetzung in den vorigen Stand
 
@@ -3337,10 +3126,7 @@ Jahresfrist infolge höherer Gewalt unmöglich war.
 (4) Über den Antrag auf Wiedereinsetzung entscheidet die
 Finanzbehörde, die über die versäumte Handlung zu befinden hat.
 
-
 #### 5. Unterabschnitt - Rechts- und Amtshilfe
-
-
 
 ##### § 111 Amtshilfepflicht
 
@@ -3371,7 +3157,6 @@ Bundesministerium der Finanzen als Zollhilfsorgane besonders bestellt
 hat, und auf die Bediensteten dieser Unternehmen.
 
 (5) Die §§ 105 und 106 sind entsprechend anzuwenden.
-
 
 ##### § 112 Voraussetzungen und Grenzen der Amtshilfe
 
@@ -3432,14 +3217,12 @@ zur Amtshilfe die gemeinsame fachlich zuständige Aufsichtsbehörde
 oder, sofern eine solche nicht besteht, die für die ersuchte Behörde
 fachlich zuständige Aufsichtsbehörde.
 
-
 ##### § 113 Auswahl der Behörde
 
 Kommen für die Amtshilfe mehrere Behörden in Betracht, so soll nach
 Möglichkeit eine Behörde der untersten Verwaltungsstufe des
 Verwaltungszweigs ersucht werden, dem die ersuchende Finanzbehörde
 angehört.
-
 
 ##### § 114 Durchführung der Amtshilfe
 
@@ -3453,7 +3236,6 @@ die Verantwortung für die Rechtmäßigkeit der zu treffenden Maßnahme.
 Die ersuchte Behörde ist für die Durchführung der Amtshilfe
 verantwortlich.
 
-
 ##### § 115 Kosten der Amtshilfe
 
 (1) Die ersuchende Finanzbehörde hat der ersuchten Behörde für die
@@ -3466,7 +3248,6 @@ Amtshilfe, so werden die Auslagen nicht erstattet.
 kostenpflichtige Amtshandlung vor, so stehen ihr die von einem Dritten
 hierfür geschuldeten Kosten (Verwaltungsgebühren, Benutzungsgebühren
 und Auslagen) zu.
-
 
 ##### § 116 Anzeige von Steuerstraftaten
 
@@ -3484,7 +3265,6 @@ Mitteilung an das Bundeszentralamt für Steuern, soweit dieses nicht
 bereits erkennbar unmittelbar in Kenntnis gesetzt worden ist.
 
 (2) § 105 Abs. 2 gilt entsprechend.
-
 
 ##### § 117 Zwischenstaatliche Rechts- und Amtshilfe in Steuersachen
 
@@ -3552,7 +3332,6 @@ gegenseitige Rechts- und Amtshilfe auf dem Gebiete des Zollwesens in
 Kraft zu setzen, wenn sich die darin übernommenen Verpflichtungen im
 Rahmen der nach diesem Gesetz zulässigen zwischenstaatlichen Rechts-
 und Amtshilfe halten.
-
 
 ##### § 117a Übermittlung personenbezogener Daten an Mitgliedstaaten der Europäischen Union
 
@@ -3678,7 +3457,6 @@ Straftaten zuständige öffentliche Stellen eines Schengen-assoziierten
 Staates im Sinne von § 91 Absatz 3 des Gesetzes über die
 internationale Rechtshilfe in Strafsachen.
 
-
 ##### § 117b Verwendung von den nach dem Rahmenbeschluss 2006/960/JI des Rates übermittelten Daten
 
 (1) Daten, die nach dem Rahmenbeschluss 2006/960/JI an die mit der
@@ -3696,10 +3474,7 @@ Finanzbehörden erteilen dem übermittelnden Staat auf dessen Ersuchen
 zu Zwecken der Datenschutzkontrolle Auskunft darüber, wie die
 übermittelten Daten verwendet wurden.
 
-
 ### Zweiter Abschnitt - Verwaltungsakte
-
-
 
 #### § 118 Begriff des Verwaltungsakts
 
@@ -3711,7 +3486,6 @@ Verwaltungsakt, der sich an einen nach allgemeinen Merkmalen
 bestimmten oder bestimmbaren Personenkreis richtet oder die
 öffentlich-rechtliche Eigenschaft einer Sache oder ihre Benutzung
 durch die Allgemeinheit betrifft.
-
 
 #### § 119 Bestimmtheit und Form des Verwaltungsakts
 
@@ -3732,7 +3506,6 @@ eine Schriftform angeordnet, so muss bei einem elektronischen
 Verwaltungsakt auch das der Signatur zugrunde liegende qualifizierte
 Zertifikat oder ein zugehöriges qualifiziertes Attributzertifikat die
 erlassende Behörde erkennen lassen.
-
 
 #### § 120 Nebenbestimmungen zum Verwaltungsakt
 
@@ -3773,7 +3546,6 @@ oder verbunden werden mit
 (3) Eine Nebenbestimmung darf dem Zweck des Verwaltungsakts nicht
 zuwiderlaufen.
 
-
 #### § 121 Begründung des Verwaltungsakts
 
 (1) Ein schriftlicher, elektronischer sowie ein schriftlich oder
@@ -3801,10 +3573,6 @@ versehen, soweit dies zu seinem Verständnis erforderlich ist.
 
 
 5.  wenn eine Allgemeinverfügung öffentlich bekannt gegeben wird.
-
-
-
-
 
 #### § 122 Bekanntgabe des Verwaltungsakts
 
@@ -3866,7 +3634,6 @@ Verwaltungsakte sind den Beteiligten einzeln bekannt zu geben, soweit
 sie dies beantragt haben oder soweit der Finanzbehörde bekannt ist,
 dass zwischen ihnen ernstliche Meinungsverschiedenheiten bestehen.
 
-
 #### § 123 Bestellung eines Empfangsbevollmächtigten
 
 Ein Beteiligter ohne Wohnsitz oder gewöhnlichen Aufenthalt, Sitz oder
@@ -3880,7 +3647,6 @@ oder das elektronische Dokument den Empfänger nicht oder zu einem
 späteren Zeitpunkt erreicht hat. Auf die Rechtsfolgen der Unterlassung
 ist der Beteiligte hinzuweisen.
 
-
 #### § 124 Wirksamkeit des Verwaltungsakts
 
 (1) Ein Verwaltungsakt wird gegenüber demjenigen, für den er bestimmt
@@ -3893,7 +3659,6 @@ zurückgenommen, widerrufen, anderweitig aufgehoben oder durch
 Zeitablauf oder auf andere Weise erledigt ist.
 
 (3) Ein nichtiger Verwaltungsakt ist unwirksam.
-
 
 #### § 125 Nichtigkeit des Verwaltungsakts
 
@@ -3950,7 +3715,6 @@ nicht erlassen hätte.
 feststellen; auf Antrag ist sie festzustellen, wenn der Antragsteller
 hieran ein berechtigtes Interesse hat.
 
-
 #### § 126 Heilung von Verfahrens- und Formfehlern
 
 (1) Eine Verletzung von Verfahrens- oder Formvorschriften, die nicht
@@ -3987,7 +3751,6 @@ der Einspruchsfrist als nicht verschuldet. Das für die
 Wiedereinsetzungsfrist nach § 110 Abs. 2 maßgebende Ereignis tritt im
 Zeitpunkt der Nachholung der unterlassenen Verfahrenshandlung ein.
 
-
 #### § 127 Folgen von Verfahrens- und Formfehlern
 
 Die Aufhebung eines Verwaltungsakts, der nicht nach § 125 nichtig ist,
@@ -3995,7 +3758,6 @@ kann nicht allein deshalb beansprucht werden, weil er unter Verletzung
 von Vorschriften über das Verfahren, die Form oder die örtliche
 Zuständigkeit zustande gekommen ist, wenn keine andere Entscheidung in
 der Sache hätte getroffen werden können.
-
 
 #### § 128 Umdeutung eines fehlerhaften Verwaltungsakts
 
@@ -4018,7 +3780,6 @@ werden.
 
 (4) § 91 ist entsprechend anzuwenden.
 
-
 #### § 129 Offenbare Unrichtigkeiten beim Erlass eines Verwaltungsakts
 
 Die Finanzbehörde kann Schreibfehler, Rechenfehler und ähnliche
@@ -4028,7 +3789,6 @@ des Beteiligten ist zu berichtigen. Wird zu einem schriftlich
 ergangenen Verwaltungsakt die Berichtigung begehrt, ist die
 Finanzbehörde berechtigt, die Vorlage des Schriftstücks zu verlangen,
 das berichtigt werden soll.
-
 
 #### § 130 Rücknahme eines rechtswidrigen Verwaltungsakts
 
@@ -4069,7 +3829,6 @@ Zuständigkeit zuständige Finanzbehörde; dies gilt auch dann, wenn der
 zurückzunehmende Verwaltungsakt von einer anderen Finanzbehörde
 erlassen worden ist; § 26 Satz 2 bleibt unberührt.
 
-
 #### § 131 Widerruf eines rechtmäßigen Verwaltungsakts
 
 (1) Ein rechtmäßiger nicht begünstigender Verwaltungsakt kann, auch
@@ -4109,7 +3868,6 @@ Zuständigkeit zuständige Finanzbehörde; dies gilt auch dann, wenn der
 zu widerrufende Verwaltungsakt von einer anderen Finanzbehörde
 erlassen worden ist.
 
-
 #### § 132 Rücknahme, Widerruf, Aufhebung und Änderung im Rechtsbehelfsverfahren
 
 Die Vorschriften über Rücknahme, Widerruf, Aufhebung und Änderung von
@@ -4119,7 +3877,6 @@ während eines finanzgerichtlichen Verfahrens. § 130 Abs. 2 und 3 und §
 Dritten angefochtenen begünstigenden Verwaltungsakts während des
 Einspruchsverfahrens oder des finanzgerichtlichen Verfahrens nicht
 entgegen, soweit dadurch dem Einspruch oder der Klage abgeholfen wird.
-
 
 #### § 133 Rückgabe von Urkunden und Sachen
 
@@ -4137,18 +3894,11 @@ nicht bei Sachen, bei denen eine solche Kennzeichnung nicht oder nicht
 mit der erforderlichen Offensichtlichkeit oder Dauerhaftigkeit möglich
 ist.
 
-
 ## Vierter Teil - Durchführung der Besteuerung
-
-
 
 ### Erster Abschnitt - Erfassung der Steuerpflichtigen
 
-
-
 #### 1. Unterabschnitt - Personenstands- und Betriebsaufnahme
-
-
 
 ##### § 134 Personenstands- und Betriebsaufnahme
 
@@ -4172,7 +3922,6 @@ für ihre Zwecke besondere Erhebungen verbinden, soweit für diese
 Erhebungen eine Rechtsgrundlage besteht. Für solche Erhebungen gilt
 Absatz 1 Satz 2 nicht.
 
-
 ##### § 135 Mitwirkungspflicht bei der Personenstands- und Betriebsaufnahme
 
 (1) Die Grundstückseigentümer sind verpflichtet, bei der Durchführung
@@ -4194,17 +3943,13 @@ wird, die Angaben zu machen, die für die Betriebsaufnahme notwendig
 sind und in den amtlichen Vordrucken verlangt werden, insbesondere
 über Art und Größe des Betriebs und über die Betriebsinhaber.
 
-
 ##### § 136 Änderungsmitteilungen für die Personenstandsaufnahme
 
 Die Meldebehörden haben die ihnen nach den Vorschriften über das
 Meldewesen der Länder bekannt gewordenen Änderungen in den Angaben
 nach § 135 dem zuständigen Finanzamt mitzuteilen.
 
-
 #### 2. Unterabschnitt - Anzeigepflichten
-
-
 
 ##### § 137 Steuerliche Erfassung von Körperschaften, Vereinigungen und Vermögensmassen
 
@@ -4217,7 +3962,6 @@ Verlegung der Geschäftsleitung oder des Sitzes und die Auflösung.
 
 (2) Die Mitteilungen sind innerhalb eines Monats seit dem
 meldepflichtigen Ereignis zu erstatten.
-
 
 ##### § 138 Anzeigen über die Erwerbstätigkeit
 
@@ -4280,7 +4024,6 @@ nach Absatz 2 sind innerhalb von fünf Monaten nach Ablauf des
 Kalenderjahres zu erstatten, in dem das meldepflichtige Ereignis
 eingetreten ist.
 
-
 ##### § 139 Anmeldung von Betrieben in besonderen Fällen
 
 (1) Wer Waren gewinnen oder herstellen will, an deren Gewinnung,
@@ -4297,10 +4040,7 @@ Verkehrsteuern handelt, im Übrigen das Bundesministerium der Finanzen.
 Die Rechtsverordnung des Bundesministeriums der Finanzen bedarf der
 Zustimmung des Bundesrates nur, soweit sie die Biersteuer betrifft.
 
-
 #### 3. Unterabschnitt - Identifikationsmerkmal
-
-
 
 ##### § 139a Identifikationsmerkmal
 
@@ -4328,10 +4068,6 @@ nach einem Steuergesetz steuerpflichtig ist.
 
 
 3.  Personenvereinigungen.
-
-
-
-
 
 ##### § 139b Identifikationsnummer
 
@@ -4508,7 +4244,6 @@ Vorläufigen Bearbeitungsmerkmals mit.
 (9) Das Bundeszentralamt für Steuern unterrichtet die Meldebehörden,
 wenn ihm konkrete Anhaltspunkte für die Unrichtigkeit der ihm von den
 Meldebehörden übermittelten Daten vorliegen.
-
 
 ##### § 139c Wirtschafts-Identifikationsnummer
 
@@ -4719,7 +4454,6 @@ erfolgt, um
 genannten Zwecke verwendet werden, es sei denn, eine Rechtsvorschrift
 sieht eine andere Verwendung ausdrücklich vor.
 
-
 ##### § 139d Verordnungsermächtigung
 
 Die Bundesregierung bestimmt durch Rechtsverordnung mit Zustimmung des
@@ -4741,17 +4475,9 @@ Bundesrates:
 4.  die Form und das Verfahren der Datenübermittlungen nach § 139b Abs. 6
     bis 9.
 
-
-
-
-
 ### Zweiter Abschnitt - Mitwirkungspflichten
 
-
-
 #### 1. Unterabschnitt - Führung von Büchern und Aufzeichnungen
-
-
 
 ##### § 140 Buchführungs- und Aufzeichnungspflichten nach anderen Gesetzen
 
@@ -4759,7 +4485,6 @@ Wer nach anderen Gesetzen als den Steuergesetzen Bücher und
 Aufzeichnungen zu führen hat, die für die Besteuerung von Bedeutung
 sind, hat die Verpflichtungen, die ihm nach den anderen Gesetzen
 obliegen, auch für die Besteuerung zu erfüllen.
-
 
 ##### § 141 Buchführungspflicht bestimmter Steuerpflichtiger
 
@@ -4816,7 +4541,6 @@ Buchführungspflicht ist nicht erforderlich.
 (4) Absatz 1 Nr. 5 in der vorstehenden Fassung ist erstmals auf den
 Gewinn des Kalenderjahrs 1980 anzuwenden.
 
-
 ##### § 142 Ergänzende Vorschriften für Land- und Forstwirte
 
 Land- und Forstwirte, die nach § 141 Abs. 1 Nr. 1, 3 oder 5 zur
@@ -4825,7 +4549,6 @@ Bestandsaufnahmen und den jährlichen Abschlüssen ein Anbauverzeichnis
 zu führen. In dem Anbauverzeichnis ist nachzuweisen, mit welchen
 Fruchtarten die selbstbewirtschafteten Flächen im abgelaufenen
 Wirtschaftsjahr bestellt waren.
-
 
 ##### § 143 Aufzeichnung des Wareneingangs
 
@@ -4858,10 +4581,6 @@ werden.
 
 
 5.  einen Hinweis auf den Beleg.
-
-
-
-
 
 ##### § 144 Aufzeichnung des Warenausgangs
 
@@ -4918,7 +4637,6 @@ werden.
 (5) Die Absätze 1 bis 4 gelten auch für Land- und Forstwirte, die nach
 § 141 buchführungspflichtig sind.
 
-
 ##### § 145 Allgemeine Anforderungen an Buchführung und Aufzeichnungen
 
 (1) Die Buchführung muss so beschaffen sein, dass sie einem
@@ -4929,7 +4647,6 @@ und Abwicklung verfolgen lassen.
 
 (2) Aufzeichnungen sind so vorzunehmen, dass der Zweck, den sie für
 die Besteuerung erfüllen sollen, erreicht wird.
-
 
 ##### § 146 Ordnungsvorschriften für die Buchführung und für Aufzeichnungen
 
@@ -5022,7 +4739,6 @@ Abs. 6. Absätze 1 bis 4 gelten sinngemäß.
 Bücher und Aufzeichnungen, die für die Besteuerung von Bedeutung sind,
 führt, ohne hierzu verpflichtet zu sein.
 
-
 ##### § 147 Ordnungsvorschriften für die Aufbewahrung von Unterlagen
 
 (1) Die folgenden Unterlagen sind geordnet aufzubewahren:
@@ -5107,7 +4823,6 @@ oder ihr die gespeicherten Unterlagen und Aufzeichnungen auf einem
 maschinell verwertbaren Datenträger zur Verfügung gestellt werden. Die
 Kosten trägt der Steuerpflichtige.
 
-
 ##### § 147a Vorschriften für die Aufbewahrung von Aufzeichnungen und Unterlagen bestimmter Steuerpflichtiger
 
 Steuerpflichtige, bei denen die Summe der positiven Einkünfte nach § 2
@@ -5131,7 +4846,6 @@ der in Satz 1 genannten Aufzeichnungen und Unterlagen verpflichtet,
 weil er seinen Mitwirkungspflichten nach § 90 Absatz 2 Satz 3 nicht
 nachgekommen ist.
 
-
 ##### § 148 Bewilligung von Erleichterungen
 
 Die Finanzbehörden können für einzelne Fälle oder für bestimmte
@@ -5142,10 +4856,7 @@ durch die Erleichterung nicht beeinträchtigt wird. Erleichterungen
 nach Satz 1 können rückwirkend bewilligt werden. Die Bewilligung kann
 widerrufen werden.
 
-
 #### 2. Unterabschnitt - Steuererklärungen
-
-
 
 ##### § 149 Abgabe der Steuererklärungen
 
@@ -5165,7 +4876,6 @@ Forstwirtschaft nach einem vom Kalenderjahr abweichenden
 Wirtschaftsjahr ermitteln, endet die Frist nicht vor Ablauf des
 fünften Monats, der auf den Schluss des in dem Kalenderjahr begonnenen
 Wirtschaftsjahrs folgt.
-
 
 ##### § 150 Form und Inhalt der Steuererklärungen
 
@@ -5273,7 +4983,6 @@ Steuerpflichtige nach seinen individuellen Kenntnissen und Fähigkeiten
 nicht oder nur eingeschränkt in der Lage ist, die Möglichkeiten der
 Datenfernübertragung zu nutzen.
 
-
 ##### § 151 Aufnahme der Steuererklärung an Amtsstelle
 
 Steuererklärungen, die schriftlich abzugeben sind, können bei der
@@ -5282,7 +4991,6 @@ Schriftform dem Steuerpflichtigen nach seinen persönlichen
 Verhältnissen nicht zugemutet werden kann, insbesondere, wenn er nicht
 in der Lage ist, eine gesetzlich vorgeschriebene Selbstberechnung der
 Steuer vorzunehmen oder durch einen Dritten vornehmen zu lassen.
-
 
 ##### § 152 Verspätungszuschlag
 
@@ -5320,7 +5028,6 @@ Verspätungszuschlags abgesehen werden soll. Die allgemeinen
 Verwaltungsvorschriften bedürfen nicht der Zustimmung des Bundesrates,
 soweit sie Einfuhr- und Ausfuhrabgaben und Verbrauchsteuern betreffen.
 
-
 ##### § 153 Berichtigung von Erklärungen
 
 (1) Erkennt ein Steuerpflichtiger nachträglich vor Ablauf der
@@ -5350,10 +5057,7 @@ Steuervergünstigung nachträglich ganz oder teilweise wegfallen.
 gewährt worden ist, in einer Weise verwenden will, die der Bedingung
 nicht entspricht, hat dies vorher der Finanzbehörde anzuzeigen.
 
-
 #### 3. Unterabschnitt - Kontenwahrheit
-
-
 
 ##### § 154 Kontenwahrheit
 
@@ -5375,18 +5079,11 @@ Wertsachen und der Inhalt eines Schließfachs nur mit Zustimmung des
 für die Einkommen- und Körperschaftsteuer des Verfügungsberechtigten
 zuständigen Finanzamts herausgegeben werden.
 
-
 ### Dritter Abschnitt - Festsetzungs- und Feststellungsverfahren
-
-
 
 #### 1. Unterabschnitt - Steuerfestsetzung
 
-
-
 ##### I. - Allgemeine Vorschriften
-
-
 
 ###### § 155 Steuerfestsetzung
 
@@ -5412,7 +5109,6 @@ Beteiligten zu tragen sind.
 (4) Die für die Steuerfestsetzung geltenden Vorschriften sind auf die
 Festsetzung einer Steuervergütung sinngemäß anzuwenden.
 
-
 ###### § 156 Absehen von Steuerfestsetzung
 
 (1) Das Bundesministerium der Finanzen kann zur Vereinfachung der
@@ -5430,7 +5126,6 @@ unterbleiben, wenn feststeht, dass die Einziehung keinen Erfolg haben
 wird, oder wenn die Kosten der Einziehung einschließlich der
 Festsetzung außer Verhältnis zu dem Betrag stehen.
 
-
 ###### § 157 Form und Inhalt der Steuerbescheide
 
 (1) Steuerbescheide sind schriftlich zu erteilen, soweit nichts
@@ -5445,14 +5140,12 @@ Rechtsbehelfen nicht selbständig anfechtbaren Teil des
 Steuerbescheids, soweit die Besteuerungsgrundlagen nicht gesondert
 festgestellt werden.
 
-
 ###### § 158 Beweiskraft der Buchführung
 
 Die Buchführung und die Aufzeichnungen des Steuerpflichtigen, die den
 Vorschriften der §§ 140 bis 148 entsprechen, sind der Besteuerung
 zugrunde zu legen, soweit nach den Umständen des Einzelfalls kein
 Anlass ist, ihre sachliche Richtigkeit zu beanstanden.
-
 
 ###### § 159 Nachweis der Treuhänderschaft
 
@@ -5465,7 +5158,6 @@ Sachverhalt zu ermitteln, wird dadurch nicht eingeschränkt.
 
 (2) § 102 bleibt unberührt.
 
-
 ###### § 160 Benennung von Gläubigern und Zahlungsempfängern
 
 (1) Schulden und andere Lasten, Betriebsausgaben, Werbungskosten und
@@ -5476,7 +5168,6 @@ Recht der Finanzbehörde, den Sachverhalt zu ermitteln, bleibt
 unberührt.
 
 (2) § 102 bleibt unberührt.
-
 
 ###### § 161 Fehlmengen bei Bestandsaufnahmen
 
@@ -5489,7 +5180,6 @@ auf Umstände zurückzuführen sind, die eine Steuer nicht begründen oder
 eine bedingte Steuer nicht unbedingt werden lassen. Die Steuer gilt im
 Zweifel im Zeitpunkt der Bestandsaufnahme als entstanden oder
 unbedingt geworden.
-
 
 ###### § 162 Schätzung von Besteuerungsgrundlagen
 
@@ -5561,7 +5251,6 @@ der Außenprüfung festzusetzen.
 Grundlagenbescheid festzustellenden Besteuerungsgrundlagen geschätzt
 werden.
 
-
 ###### § 163 Abweichende Festsetzung von Steuern aus Billigkeitsgründen
 
 Steuern können niedriger festgesetzt werden, und einzelne
@@ -5574,7 +5263,6 @@ bei der Steuerfestsetzung erst zu einer späteren Zeit und, soweit sie
 die Steuer mindern, schon zu einer früheren Zeit berücksichtigt
 werden. Die Entscheidung über die abweichende Festsetzung kann mit der
 Steuerfestsetzung verbunden werden.
-
 
 ###### § 164 Steuerfestsetzung unter Vorbehalt der Nachprüfung
 
@@ -5601,7 +5289,6 @@ ergeben.
 (4) Der Vorbehalt der Nachprüfung entfällt, wenn die Festsetzungsfrist
 abläuft. § 169 Abs. 2 Satz 2 und § 171 Abs. 7, 8 und 10 sind nicht
 anzuwenden.
-
 
 ###### § 165 Vorläufige Steuerfestsetzung, Aussetzung der Steuerfestsetzung
 
@@ -5649,7 +5336,6 @@ wenn sie nicht aufzuheben oder zu ändern ist.
 (3) Die vorläufige Steuerfestsetzung kann mit einer Steuerfestsetzung
 unter Vorbehalt der Nachprüfung verbunden werden.
 
-
 ###### § 166 Drittwirkung der Steuerfestsetzung
 
 Ist die Steuer dem Steuerpflichtigen gegenüber unanfechtbar
@@ -5657,7 +5343,6 @@ festgesetzt, so hat dies neben einem Gesamtrechtsnachfolger auch gegen
 sich gelten zu lassen, wer in der Lage gewesen wäre, den gegen den
 Steuerpflichtigen erlassenen Bescheid als dessen Vertreter,
 Bevollmächtigter oder kraft eigenen Rechts anzufechten.
-
 
 ###### § 167 Steueranmeldung, Verwendung von Steuerzeichen oder Steuerstemplern
 
@@ -5676,7 +5361,6 @@ Steueranmeldung gleich.
 sie fristgerecht bei der zuständigen Kasse eingehen. Dies gilt nicht
 für Einfuhr- und Ausfuhrabgaben und Verbrauchsteuern.
 
-
 ###### § 168 Wirkung einer Steueranmeldung
 
 Eine Steueranmeldung steht einer Steuerfestsetzung unter Vorbehalt der
@@ -5685,10 +5369,7 @@ der bisher zu entrichtenden Steuer oder zu einer Steuervergütung, so
 gilt Satz 1 erst, wenn die Finanzbehörde zustimmt. Die Zustimmung
 bedarf keiner Form.
 
-
 ##### II. - Festsetzungsverjährung
-
-
 
 ###### § 169 Festsetzungsfrist
 
@@ -5734,7 +5415,6 @@ nach, dass er durch die Tat keinen Vermögensvorteil erlangt hat und
 dass sie auch nicht darauf beruht, dass er die im Verkehr
 erforderlichen Vorkehrungen zur Verhinderung von Steuerverkürzungen
 unterlassen hat.
-
 
 ###### § 170 Beginn der Festsetzungsfrist
 
@@ -5795,7 +5475,6 @@ Festsetzungsfrist nach den Absätzen 1 oder 2
 
 (6) Für die Wechselsteuer beginnt die Festsetzungsfrist nicht vor
 Ablauf des Kalenderjahrs, in dem der Wechsel fällig geworden ist.
-
 
 ###### § 171 Ablaufhemmung
 
@@ -5915,10 +5594,7 @@ Beendigung des Insolvenzverfahrens ab.
 soweit ein damit zusammenhängender Erstattungsanspruch nach § 37 Abs.
 2 noch nicht verjährt ist (§ 228).
 
-
 ##### III. - Bestandskraft
-
-
 
 ###### § 172 Aufhebung und Änderung von Steuerbescheiden
 
@@ -5977,7 +5653,6 @@ diesen Gerichten nicht entsprochen werden kann, können durch
 Allgemeinverfügung insoweit zurückgewiesen werden. § 367 Abs. 2b Satz
 2 bis 6 gilt entsprechend.
 
-
 ###### § 173 Aufhebung oder Änderung von Steuerbescheiden wegen neuer Tatsachen oder Beweismittel
 
 (1) Steuerbescheide sind aufzuheben oder zu ändern,
@@ -6002,7 +5677,6 @@ Grund einer Außenprüfung ergangen sind, nur aufgehoben oder geändert
 werden, wenn eine Steuerhinterziehung oder eine leichtfertige
 Steuerverkürzung vorliegt. Dies gilt auch in den Fällen, in denen eine
 Mitteilung nach § 202 Abs. 1 Satz 3 ergangen ist.
-
 
 ###### § 174 Widerstreitende Steuerfestsetzungen
 
@@ -6052,7 +5726,6 @@ zur Aufhebung oder Änderung des fehlerhaften Steuerbescheids geführt
 hat, beteiligt waren. Ihre Hinzuziehung oder Beiladung zu diesem
 Verfahren ist zulässig.
 
-
 ###### § 175 Aufhebung oder Änderung von Steuerbescheiden in sonstigen Fällen
 
 (1) Ein Steuerbescheid ist zu erlassen, aufzuheben oder zu ändern,
@@ -6078,7 +5751,6 @@ die Grundlage für die Gewährung der Steuervergünstigung bildet. Die
 nachträgliche Erteilung oder Vorlage einer Bescheinigung oder
 Bestätigung gilt nicht als rückwirkendes Ereignis.
 
-
 ###### § 175a Umsetzung von Verständigungsvereinbarungen
 
 Ein Steuerbescheid ist zu erlassen, aufzuheben oder zu ändern, soweit
@@ -6087,7 +5759,6 @@ Schiedsspruchs nach einem Vertrag im Sinne des § 2 geboten ist. Die
 Festsetzungsfrist endet insoweit nicht vor Ablauf eines Jahres nach
 dem Wirksamwerden der Verständigungsvereinbarung oder des
 Schiedsspruchs.
-
 
 ###### § 176 Vertrauensschutz bei der Aufhebung und Änderung von Steuerbescheiden
 
@@ -6122,7 +5793,6 @@ Bundes- oder Landesbehörde von einem obersten Gerichtshof des Bundes
 als nicht mit dem geltenden Recht in Einklang stehend bezeichnet
 worden ist.
 
-
 ###### § 177 Berichtigung von materiellen Fehlern
 
 (1) Liegen die Voraussetzungen für die Aufhebung oder Änderung eines
@@ -6144,10 +5814,7 @@ entstandenen Steuer abweicht.
 
 (4) § 164 Abs. 2, § 165 Abs. 2 und § 176 bleiben unberührt.
 
-
 ##### IV. - Kosten
-
-
 
 ###### § 178 Kosten bei besonderer Inanspruchnahme der Zollbehörden
 
@@ -6223,7 +5890,6 @@ ganz oder teilweise abgesehen werden kann.
 geltenden Vorschriften entsprechend anzuwenden. Die §§ 18 bis 22 des
 Verwaltungskostengesetzes gelten für diese Kosten nicht.
 
-
 ###### § 178a Kosten bei besonderer Inanspruchnahme der Finanzbehörden
 
 (1) Das Bundeszentralamt für Steuern erhebt für die Bearbeitung eines
@@ -6281,14 +5947,9 @@ ist unzulässig.
 Vorabverständigungsverfahren scheitert, wird die unanfechtbar
 festgesetzte Gebühr nicht erstattet.
 
-
 #### 2. Unterabschnitt - Gesonderte Feststellung von Besteuerungsgrundlagen, Festsetzung von Steuermessbeträgen
 
-
-
 ##### I. - Gesonderte Feststellungen
-
-
 
 ###### § 179 Feststellung von Besteuerungsgrundlagen
 
@@ -6307,7 +5968,6 @@ insoweit eine besondere gesonderte Feststellung vorgenommen werden.
 
 (3) Soweit in einem Feststellungsbescheid eine notwendige Feststellung
 unterblieben ist, ist sie in einem Ergänzungsbescheid nachzuholen.
-
 
 ###### § 180 Gesonderte Feststellung von Besteuerungsgrundlagen
 
@@ -6418,10 +6078,6 @@ soweit
 2.  Steuerabzugsbeträge und Körperschaftsteuer auf die festgesetzte Steuer
     anzurechnen sind.
 
-
-
-
-
 ###### § 181 Verfahrensvorschriften für die gesonderte Feststellung, Feststellungsfrist, Erklärungspflicht
 
 (1) Für die gesonderte Feststellung gelten die Vorschriften über die
@@ -6491,7 +6147,6 @@ abgelaufen ist; hierbei bleibt § 171 Abs. 10 außer Betracht. Hierauf
 ist im Feststellungsbescheid hinzuweisen. § 169 Abs. 1 Satz 3 gilt
 sinngemäß.
 
-
 ###### § 182 Wirkungen der gesonderten Feststellung
 
 (1) Feststellungsbescheide sind, auch wenn sie noch nicht unanfechtbar
@@ -6523,7 +6178,6 @@ Beteiligten einheitlich (§ 179 Abs. 2 Satz 2) und ist ein Beteiligter
 im Feststellungsbescheid unrichtig bezeichnet worden, weil
 Rechtsnachfolge eingetreten ist, kann dies durch besonderen Bescheid
 gegenüber dem Rechtsnachfolger berichtigt werden.
-
 
 ###### § 183 Empfangsbevollmächtigte bei der einheitlichen Feststellung
 
@@ -6574,10 +6228,7 @@ bestellt, so gelten für die Bekanntgabe von Feststellungsbescheiden
 über den Einheitswert die Regelungen über zusammengefasste Bescheide
 in § 122 Abs. 7 entsprechend.
 
-
 ##### II. - Festsetzung von Steuermessbeträgen
-
-
 
 ###### § 184 Festsetzung von Steuermessbeträgen
 
@@ -6602,10 +6253,7 @@ Grundlage für die Festsetzung des Gewerbesteuermessbetrags.
 die nach Absatz 2 getroffenen Maßnahmen den Gemeinden mit, denen die
 Steuerfestsetzung (der Erlass des Realsteuerbescheids) obliegt.
 
-
 #### 3. Unterabschnitt - Zerlegung und Zuteilung
-
-
 
 ##### § 185 Geltung der allgemeinen Vorschriften
 
@@ -6613,7 +6261,6 @@ Auf die in den Steuergesetzen vorgesehene Zerlegung von
 Steuermessbeträgen sind die für die Steuermessbeträge geltenden
 Vorschriften entsprechend anzuwenden, soweit im folgenden nichts
 anderes bestimmt ist.
-
 
 ##### § 186 Beteiligte
 
@@ -6627,16 +6274,11 @@ Am Zerlegungsverfahren sind beteiligt:
     Festsetzung der Steuer dem Steuerberechtigten nicht obliegt, tritt an
     seine Stelle die für die Festsetzung der Steuer zuständige Behörde.
 
-
-
-
-
 ##### § 187 Akteneinsicht
 
 Die beteiligten Steuerberechtigten können von der zuständigen
 Finanzbehörde Auskunft über die Zerlegungsgrundlagen verlangen und
 durch ihre Amtsträger Einsicht in die Zerlegungsunterlagen nehmen.
-
 
 ##### § 188 Zerlegungsbescheid
 
@@ -6648,7 +6290,6 @@ sie betroffen sind.
 Steuermessbetrags angeben und bestimmen, welche Anteile den
 beteiligten Steuerberechtigten zugeteilt werden. Er muss ferner die
 Zerlegungsgrundlagen angeben.
-
 
 ##### § 189 Änderung der Zerlegung
 
@@ -6666,7 +6307,6 @@ Steuermessbescheid unanfechtbar geworden ist, es sei denn, dass der
 übergangene Steuerberechtigte die Änderung oder Nachholung der
 Zerlegung vor Ablauf des Jahres beantragt hatte.
 
-
 ##### § 190 Zuteilungsverfahren
 
 Ist ein Steuermessbetrag in voller Höhe einem Steuerberechtigten
@@ -6676,10 +6316,7 @@ Antrag eines Beteiligten durch Zuteilungsbescheid. Die für das
 Zerlegungsverfahren geltenden Vorschriften sind entsprechend
 anzuwenden.
 
-
 #### 4. Unterabschnitt - Haftung
-
-
 
 ##### § 191 Haftungsbescheide, Duldungsbescheide
 
@@ -6737,21 +6374,15 @@ Dies gilt nicht, wenn die Haftung darauf beruht, dass der
 Haftungsschuldner Steuerhinterziehung oder Steuerhehlerei begangen
 hat.
 
-
 ##### § 192 Vertragliche Haftung
 
 Wer sich auf Grund eines Vertrags verpflichtet hat, für die Steuer
 eines anderen einzustehen, kann nur nach den Vorschriften des
 bürgerlichen Rechts in Anspruch genommen werden.
 
-
 ### Vierter Abschnitt - Außenprüfung
 
-
-
 #### 1. Unterabschnitt - Allgemeine Vorschriften
-
-
 
 ##### § 193 Zulässigkeit einer Außenprüfung
 
@@ -6775,10 +6406,6 @@ eine Außenprüfung zulässig,
 
 3.  wenn ein Steuerpflichtiger seinen Mitwirkungspflichten nach § 90
     Absatz 2 Satz 3 nicht nachkommt.
-
-
-
-
 
 ##### § 194 Sachlicher Umfang einer Außenprüfung
 
@@ -6809,7 +6436,6 @@ Besteuerung dieser anderen Personen von Bedeutung ist oder die
 Feststellungen eine unerlaubte Hilfeleistung in Steuersachen
 betreffen.
 
-
 ##### § 195 Zuständigkeit
 
 Außenprüfungen werden von den für die Besteuerung zuständigen
@@ -6818,13 +6444,11 @@ Außenprüfung beauftragen. Die beauftragte Finanzbehörde kann im Namen
 der zuständigen Finanzbehörde die Steuerfestsetzung vornehmen und
 verbindliche Zusagen (§§ 204 bis 207) erteilen.
 
-
 ##### § 196 Prüfungsanordnung
 
 Die Finanzbehörde bestimmt den Umfang der Außenprüfung in einer
 schriftlich zu erteilenden Prüfungsanordnung mit
 Rechtsbehelfsbelehrung (§ 356).
-
 
 ##### § 197 Bekanntgabe der Prüfungsanordnung
 
@@ -6842,13 +6466,11 @@ insoweit auch diesen Personen bekannt zu geben.
 auf einen anderen Zeitpunkt verlegt werden, wenn dafür wichtige Gründe
 glaubhaft gemacht werden.
 
-
 ##### § 198 Ausweispflicht, Beginn der Außenprüfung
 
 Die Prüfer haben sich bei Erscheinen unverzüglich auszuweisen. Der
 Beginn der Außenprüfung ist unter Angabe von Datum und Uhrzeit
 aktenkundig zu machen.
-
 
 ##### § 199 Prüfungsgrundsätze
 
@@ -6861,7 +6483,6 @@ zuungunsten des Steuerpflichtigen zu prüfen.
 festgestellten Sachverhalte und die möglichen steuerlichen
 Auswirkungen zu unterrichten, wenn dadurch Zweck und Ablauf der
 Prüfung nicht beeinträchtigt werden.
-
 
 ##### § 200 Mitwirkungspflichten des Steuerpflichtigen
 
@@ -6893,7 +6514,6 @@ Betriebsräume zu betreten und zu besichtigen. Bei der
 Betriebsbesichtigung soll der Betriebsinhaber oder sein Beauftragter
 hinzugezogen werden.
 
-
 ##### § 201 Schlussbesprechung
 
 (1) Über das Ergebnis der Außenprüfung ist eine Besprechung abzuhalten
@@ -6910,7 +6530,6 @@ Steuerpflichtige darauf hingewiesen werden, dass die straf- oder
 bußgeldrechtliche Würdigung einem besonderen Verfahren vorbehalten
 bleibt.
 
-
 ##### § 202 Inhalt und Bekanntgabe des Prüfungsberichts
 
 (1) Über das Ergebnis der Außenprüfung ergeht ein schriftlicher
@@ -6924,7 +6543,6 @@ schriftlich mitgeteilt wird.
 (2) Die Finanzbehörde hat dem Steuerpflichtigen auf Antrag den
 Prüfungsbericht vor seiner Auswertung zu übersenden und ihm
 Gelegenheit zu geben, in angemessener Zeit dazu Stellung zu nehmen.
-
 
 ##### § 203 Abgekürzte Außenprüfung
 
@@ -6941,10 +6559,7 @@ Prüfungsfeststellungen sind dem Steuerpflichtigen spätestens mit den
 Steuerbescheiden schriftlich mitzuteilen. § 201 Abs. 1 und § 202 Abs.
 2 gelten nicht.
 
-
 #### 2. Unterabschnitt - Verbindliche Zusagen auf Grund einer Außenprüfung
-
-
 
 ##### § 204 Voraussetzung der verbindlichen Zusage
 
@@ -6954,7 +6569,6 @@ Vergangenheit geprüfter und im Prüfungsbericht dargestellter
 Sachverhalt in Zukunft steuerrechtlich behandelt wird, wenn die
 Kenntnis der künftigen steuerrechtlichen Behandlung für die
 geschäftlichen Maßnahmen des Steuerpflichtigen von Bedeutung ist.
-
 
 ##### § 205 Form der verbindlichen Zusage
 
@@ -6973,10 +6587,6 @@ verbindlich gekennzeichnet.
 3.  eine Angabe darüber, für welche Steuern und für welchen Zeitraum die
     verbindliche Zusage gilt.
 
-
-
-
-
 ##### § 206 Bindungswirkung
 
 (1) Die verbindliche Zusage ist für die Besteuerung bindend, wenn sich
@@ -6985,7 +6595,6 @@ zugrunde gelegten Sachverhalt deckt.
 
 (2) Absatz 1 gilt nicht, wenn die verbindliche Zusage zuungunsten des
 Antragstellers dem geltenden Recht widerspricht.
-
 
 ##### § 207 Außerkrafttreten, Aufhebung und Änderung der verbindlichen Zusage
 
@@ -7000,10 +6609,7 @@ Zukunft aufheben oder ändern.
 ist nur zulässig, falls der Steuerpflichtige zustimmt oder wenn die
 Voraussetzungen des § 130 Abs. 2 Nr. 1 oder 2 vorliegen.
 
-
 ### Fünfter Abschnitt - Steuerfahndung (Zollfahndung)
-
-
 
 #### § 208 Steuerfahndung (Zollfahndung)
 
@@ -7046,10 +6652,7 @@ zuständig
 (3) Die Aufgaben und Befugnisse der Finanzämter (Hauptzollämter)
 bleiben unberührt.
 
-
 ### Sechster Abschnitt - Steueraufsicht in besonderen Fällen
-
-
 
 #### § 209 Gegenstand der Steueraufsicht
 
@@ -7074,7 +6677,6 @@ zollamtlichen Überwachung (Steueraufsicht).
 
 (3) Andere Sachverhalte unterliegen der Steueraufsicht, wenn es
 gesetzlich bestimmt ist.
-
 
 #### § 210 Befugnisse der Finanzbehörde
 
@@ -7124,7 +6726,6 @@ berechtigt. Ein Ersuchen ist nicht erforderlich, wenn die Nachschau in
 Räumen vorzunehmen ist, die ausschließlich von anderen Personen als
 Soldaten bewohnt werden.
 
-
 #### § 211 Pflichten des Betroffenen
 
 (1) Wer von einer Maßnahme der Steueraufsicht betroffen wird, hat den
@@ -7144,7 +6745,6 @@ geliefert worden sind.
 
 (3) Vorkehrungen, die die Ausübung der Steueraufsicht hindern oder
 erschweren, sind unzulässig.
-
 
 #### § 212 Durchführungsvorschriften
 
@@ -7198,7 +6798,6 @@ Pflichten anordnen, dass
 (2) Die Rechtsverordnung bedarf, außer wenn sie die Biersteuer
 betrifft, nicht der Zustimmung des Bundesrates.
 
-
 #### § 213 Besondere Aufsichtsmaßnahmen
 
 Betriebe oder Unternehmen, deren Inhaber oder deren leitende
@@ -7211,7 +6810,6 @@ Anschreibungen und Meldepflichten, der sichere Verschluss von Räumen,
 Behältnissen und Geräten sowie ähnliche Maßnahmen vorgeschrieben
 werden.
 
-
 #### § 214 Beauftragte
 
 Wer sich zur Erfüllung steuerlicher Pflichten, die ihm auf Grund eines
@@ -7223,7 +6821,6 @@ Einfuhrabgabensachen im Sinne von Artikel 4 Nr. 10 des Zollkodexes und
 § 1 Abs. 1 Satz 3 des Zollverwaltungsgesetzes im Zusammenhang mit dem
 Erhalt einer zollrechtlichen Bestimmung im Sinne von Artikel 4 Nr. 15
 des Zollkodexes.
-
 
 #### § 215 Sicherstellung im Aufsichtsweg
 
@@ -7265,7 +6862,6 @@ Verfügung gestellt worden sind.
 (2) Über die Sicherstellung ist eine Niederschrift aufzunehmen. Die
 Sicherstellung ist den betroffenen Personen (Eigentümer, Besitzer)
 mitzuteilen, soweit sie bekannt sind.
-
 
 #### § 216 Überführung in das Eigentum des Bundes
 
@@ -7312,7 +6908,6 @@ sind, werden aus dem Erlös der Sachen angemessen entschädigt. Im
 Übrigen kann eine Entschädigung gewährt werden, soweit es eine
 unbillige Härte wäre, sie zu versagen.
 
-
 #### § 217 Steuerhilfspersonen
 
 Zur Feststellung von Tatsachen, die zoll- oder
@@ -7320,18 +6915,11 @@ verbrauchsteuerrechtlich erheblich sind, kann die Finanzbehörde
 Personen, die vom Ergebnis der Feststellung nicht selbst betroffen
 werden, als Steuerhilfspersonen bestellen.
 
-
 ## Fünfter Teil - Erhebungsverfahren
-
-
 
 ### Erster Abschnitt - Verwirklichung, Fälligkeit und Erlöschen von Ansprüchen aus dem Steuerschuldverhältnis
 
-
-
 #### 1. Unterabschnitt - Verwirklichung und Fälligkeit von Ansprüchen aus dem Steuerschuldverhältnis
-
-
 
 ##### § 218 Verwirklichung von Ansprüchen aus dem Steuerschuldverhältnis
 
@@ -7348,7 +6936,6 @@ des Absatzes 1 betreffen, entscheidet die Finanzbehörde durch
 Verwaltungsakt. Dies gilt auch, wenn die Streitigkeit einen
 Erstattungsanspruch (§ 37 Abs. 2) betrifft.
 
-
 ##### § 219 Zahlungsaufforderung bei Haftungsbescheiden
 
 Wenn nichts anderes bestimmt ist, darf ein Haftungsschuldner auf
@@ -7359,7 +6946,6 @@ Diese Einschränkung gilt nicht, wenn die Haftung darauf beruht, dass
 der Haftungsschuldner Steuerhinterziehung oder Steuerhehlerei begangen
 hat oder gesetzlich verpflichtet war, Steuern einzubehalten und
 abzuführen oder zu Lasten eines anderen zu entrichten.
-
 
 ##### § 220 Fälligkeit
 
@@ -7374,7 +6960,6 @@ Fällen des Satzes 1 aus der Festsetzung von Ansprüchen aus dem
 Steuerschuldverhältnis, so tritt die Fälligkeit nicht vor Bekanntgabe
 der Festsetzung ein.
 
-
 ##### § 221 Abweichende Fälligkeitsbestimmung
 
 Hat ein Steuerpflichtiger eine Verbrauchsteuer oder die Umsatzsteuer
@@ -7388,7 +6973,6 @@ kann auch Sicherheitsleistung verlangt werden. In den Fällen des
 Satzes 1 ist die Vorverlegung der Fälligkeit nur zulässig, wenn sie
 dem Steuerpflichtigen für den Fall erneuter nicht rechtzeitiger
 Entrichtung angekündigt worden ist.
-
 
 ##### § 222 Stundung
 
@@ -7405,7 +6989,6 @@ gegen den Entrichtungspflichtigen ist ausgeschlossen, soweit er
 Steuerabzugsbeträge einbehalten oder Beträge, die eine Steuer
 enthalten, eingenommen hat.
 
-
 ##### § 223 Zahlungsaufschub
 
 Bei Einfuhr- und Ausfuhrabgaben und Verbrauchsteuern kann die Zahlung
@@ -7413,10 +6996,7 @@ fälliger Beträge auf Antrag des Steuerschuldners gegen
 Sicherheitsleistung hinausgeschoben werden, soweit die Steuergesetze
 dies bestimmen.
 
-
 #### 2. Unterabschnitt - Zahlung, Aufrechnung, Erlass
-
-
 
 ##### § 224 Leistungsort, Tag der Zahlung
 
@@ -7468,7 +7048,6 @@ solche am Ort der Kasse nicht bestehen, ein oder mehrere
 Kreditinstitute ermächtigt werden, für die Kasse Zahlungsmittel gegen
 Quittung anzunehmen.
 
-
 ##### § 224a Hingabe von Kunstgegenständen an Zahlungs statt
 
 (1) Schuldet ein Steuerpflichtiger Erbschaft- oder Vermögensteuer,
@@ -7499,7 +7078,6 @@ Steueranspruch nach § 222 gestundet werden. Kommt ein Vertrag
 zustande, ist für die Dauer der Stundung auf die Erhebung von
 Stundungszinsen zu verzichten.
 
-
 ##### § 225 Reihenfolge der Tilgung
 
 (1) Schuldet ein Steuerpflichtiger mehrere Beträge und reicht bei
@@ -7523,7 +7101,6 @@ derentwegen die Vollstreckung oder die Verwertung der Sicherheiten
 erfolgt ist, so bestimmt die Finanzbehörde die Reihenfolge der
 Tilgung.
 
-
 ##### § 226 Aufrechnung
 
 (1) Für die Aufrechnung mit Ansprüchen aus dem Steuerschuldverhältnis
@@ -7543,7 +7120,6 @@ festgestellten Gegenansprüchen aufrechnen.
 Anspruchs aus dem Steuerschuldverhältnis auch die Körperschaft, die
 die Steuer verwaltet.
 
-
 ##### § 227 Erlass
 
 Die Finanzbehörden können Ansprüche aus dem Steuerschuldverhältnis
@@ -7551,16 +7127,12 @@ ganz oder zum Teil erlassen, wenn deren Einziehung nach Lage des
 einzelnen Falls unbillig wäre; unter den gleichen Voraussetzungen
 können bereits entrichtete Beträge erstattet oder angerechnet werden.
 
-
 #### 3. Unterabschnitt - Zahlungsverjährung
-
-
 
 ##### § 228 Gegenstand der Verjährung, Verjährungsfrist
 
 Ansprüche aus dem Steuerschuldverhältnis unterliegen einer besonderen
 Zahlungsverjährung. Die Verjährungsfrist beträgt fünf Jahre.
-
 
 ##### § 229 Beginn der Verjährung
 
@@ -7575,13 +7147,11 @@ eine Steueranmeldung steht einer Steuerfestsetzung gleich.
 beginnt die Verjährung mit Ablauf des Kalenderjahrs, in dem der
 Haftungsbescheid wirksam geworden ist.
 
-
 ##### § 230 Hemmung der Verjährung
 
 Die Verjährung ist gehemmt, solange der Anspruch wegen höherer Gewalt
 innerhalb der letzten sechs Monate der Verjährungsfrist nicht verfolgt
 werden kann.
-
 
 ##### § 231 Unterbrechung der Verjährung
 
@@ -7626,20 +7196,14 @@ hat, beginnt eine neue Verjährungsfrist.
 (4) Die Verjährung wird nur in Höhe des Betrags unterbrochen, auf den
 sich die Unterbrechungshandlung bezieht.
 
-
 ##### § 232 Wirkung der Verjährung
 
 Durch die Verjährung erlöschen der Anspruch aus dem
 Steuerschuldverhältnis und die von ihm abhängenden Zinsen.
 
-
 ### Zweiter Abschnitt - Verzinsung, Säumniszuschläge
 
-
-
 #### 1. Unterabschnitt - Verzinsung
-
-
 
 ##### § 233 Grundsatz
 
@@ -7647,7 +7211,6 @@ Ansprüche aus dem Steuerschuldverhältnis (§ 37) werden nur verzinst,
 soweit dies gesetzlich vorgeschrieben ist. Ansprüche auf steuerliche
 Nebenleistungen (§ 3 Abs. 4) und die entsprechenden
 Erstattungsansprüche werden nicht verzinst.
-
 
 ##### § 233a Verzinsung von Steuernachforderungen und Steuererstattungen
 
@@ -7714,7 +7277,6 @@ Dies gilt auch, wenn zuvor innerhalb derselben Zinsberechnung Zinsen
 auf einen Teil-Unterschiedsbetrag zuungunsten des Steuerpflichtigen
 berechnet worden sind.
 
-
 ##### § 234 Stundungszinsen
 
 (1) Für die Dauer einer gewährten Stundung von Ansprüchen aus dem
@@ -7727,7 +7289,6 @@ ihre Erhebung nach Lage des einzelnen Falls unbillig wäre.
 
 (3) Zinsen nach § 233a, die für denselben Zeitraum festgesetzt wurden,
 sind anzurechnen.
-
 
 ##### § 235 Verzinsung von hinterzogenen Steuern
 
@@ -7752,7 +7313,6 @@ die bis dahin entstandenen Zinsen unberührt.
 
 (4) Zinsen nach § 233a, die für denselben Zeitraum festgesetzt wurden,
 sind anzurechnen.
-
 
 ##### § 236 Prozesszinsen auf Erstattungsbeträge
 
@@ -7799,7 +7359,6 @@ sind anzurechnen.
 Steuerbescheid nach Abschluss des Rechtsbehelfsverfahrens aufgehoben,
 geändert oder nach § 129 berichtigt wird.
 
-
 ##### § 237 Zinsen bei Aussetzung der Vollziehung
 
 (1) Soweit ein Einspruch oder eine Anfechtungsklage gegen einen
@@ -7834,7 +7393,6 @@ Gewerbesteuerbescheids ausgesetzt wird.
 Steuerbescheid nach Abschluss des Rechtsbehelfsverfahrens aufgehoben,
 geändert oder nach § 129 berichtigt wird.
 
-
 ##### § 238 Höhe und Berechnung der Zinsen
 
 (1) Die Zinsen betragen für jeden Monat einhalb Prozent. Sie sind von
@@ -7845,7 +7403,6 @@ Schuld des Aufrechnenden fällig wird, als Tag der Zahlung.
 
 (2) Für die Berechnung der Zinsen wird der zu verzinsende Betrag jeder
 Steuerart auf den nächsten durch 50 Euro teilbaren Betrag abgerundet.
-
 
 ##### § 239 Festsetzung der Zinsen
 
@@ -7886,10 +7443,7 @@ Berichtigung nach § 129 noch zulässig ist.
 gerundet festzusetzen. Sie werden nur dann festgesetzt, wenn sie
 mindestens 10 Euro betragen.
 
-
 #### 2. Unterabschnitt - Säumniszuschläge
-
-
 
 ##### § 240 Säumniszuschläge
 
@@ -7919,10 +7473,7 @@ gegenüber jedem säumigen Gesamtschuldner. Insgesamt ist jedoch kein
 höherer Säumniszuschlag zu entrichten als verwirkt worden wäre, wenn
 die Säumnis nur bei einem Gesamtschuldner eingetreten wäre.
 
-
 ### Dritter Abschnitt - Sicherheitsleistung
-
-
 
 #### § 241 Art der Sicherheitsleistung
 
@@ -8016,7 +7567,6 @@ erbringen
 (3) Ein unter Steuerverschluss befindliches Lager steuerpflichtiger
 Waren gilt als ausreichende Sicherheit für die darauf lastende Steuer.
 
-
 #### § 242 Wirkung der Hinterlegung von Zahlungsmitteln
 
 Zahlungsmittel, die nach § 241 Abs. 1 Nr. 1 hinterlegt werden, gehen
@@ -8026,7 +7576,6 @@ nicht zu verzinsen. Mit der Hinterlegung erwirbt die Körperschaft,
 deren Forderung durch die Hinterlegung gesichert werden soll, ein
 Pfandrecht an der Forderung auf Rückerstattung der hinterlegten
 Zahlungsmittel.
-
 
 #### § 243 Verpfändung von Wertpapieren
 
@@ -8049,10 +7598,6 @@ Haftung dafür,
     Namen ausgestellt sind, mit Blankoindossament versehen und auch sonst
     nicht gesperrt sind, und dass die Zinsscheine und die
     Erneuerungsscheine bei den Stücken sind.
-
-
-
-
 
 #### § 244 Taugliche Steuerbürgen
 
@@ -8106,7 +7651,6 @@ Wechselverpflichtungen, die der Steuerbürge gegenüber der
 Finanzverwaltung übernommen hat, dürfen nicht über die
 Bürgschaftssumme hinausgehen.
 
-
 #### § 245 Sicherheitsleistung durch andere Werte
 
 Andere als die in § 241 bezeichneten Sicherheiten kann die
@@ -8114,7 +7658,6 @@ Finanzbehörde nach ihrem Ermessen annehmen. Vorzuziehen sind
 Vermögensgegenstände, die größere Sicherheit bieten oder bei Eintritt
 auch außerordentlicher Verhältnisse ohne erhebliche Schwierigkeit und
 innerhalb angemessener Frist verwertet werden können.
-
 
 #### § 246 Annahmewerte
 
@@ -8127,27 +7670,20 @@ die nach § 245 als Sicherheit angenommen werden, nicht unter den in §
 234 Abs. 3, § 236 und § 237 Satz 1 des Bürgerlichen Gesetzbuchs
 genannten Werten liegen.
 
-
 #### § 247 Austausch von Sicherheiten
 
 Wer nach den §§ 241 bis 245 Sicherheit geleistet hat, ist berechtigt,
 die Sicherheit oder einen Teil davon durch eine andere nach den §§ 241
 bis 244 geeignete Sicherheit zu ersetzen.
 
-
 #### § 248 Nachschusspflicht
 
 Wird eine Sicherheit unzureichend, so ist sie zu ergänzen oder es ist
 anderweitige Sicherheit zu leisten.
 
-
 ## Sechster Teil - Vollstreckung
 
-
-
 ### Erster Abschnitt - Allgemeine Vorschriften
-
-
 
 #### § 249 Vollstreckungsbehörden
 
@@ -8165,7 +7701,6 @@ Nebenleistungen verwenden darf, auch bei der Vollstreckung wegen
 anderer Geldleistungen als Steuern und steuerlicher Nebenleistungen
 verwenden.
 
-
 #### § 250 Vollstreckungsersuchen
 
 (1) Soweit eine Vollstreckungsbehörde auf Ersuchen einer anderen
@@ -8180,7 +7715,6 @@ so teilt sie ihre Bedenken der ersuchenden Vollstreckungsbehörde mit.
 Besteht diese auf der Ausführung des Ersuchens und lehnt die ersuchte
 Vollstreckungsbehörde die Ausführung ab, so entscheidet die
 Aufsichtsbehörde der ersuchten Vollstreckungsbehörde.
-
 
 #### § 251 Vollstreckbare Verwaltungsakte
 
@@ -8203,18 +7737,15 @@ dem Steuerschuldverhältnis als Insolvenzforderung geltend, so stellt
 sie erforderlichenfalls die Insolvenzforderung durch schriftlichen
 Verwaltungsakt fest.
 
-
 #### § 252 Vollstreckungsgläubiger
 
 Im Vollstreckungsverfahren gilt die Körperschaft als Gläubigerin der
 zu vollstreckenden Ansprüche, der die Vollstreckungsbehörde angehört.
 
-
 #### § 253 Vollstreckungsschuldner
 
 Vollstreckungsschuldner ist derjenige, gegen den sich ein
 Vollstreckungsverfahren nach § 249 richtet.
-
 
 #### § 254 Voraussetzungen für den Beginn der Vollstreckung
 
@@ -8235,7 +7766,6 @@ es nicht, wenn sie zusammen mit der Steuer beigetrieben werden. Dies
 gilt sinngemäß für die Vollstreckungskosten, wenn sie zusammen mit dem
 Hauptanspruch beigetrieben werden.
 
-
 #### § 255 Vollstreckung gegen juristische Personen des öffentlichen Rechts
 
 (1) Gegen den Bund oder ein Land ist die Vollstreckung nicht zulässig.
@@ -8248,13 +7778,11 @@ Vermögensgegenstände, in die vollstreckt werden kann.
 (2) Gegenüber öffentlich-rechtlichen Kreditinstituten gelten die
 Beschränkungen des Absatzes 1 nicht.
 
-
 #### § 256 Einwendungen gegen die Vollstreckung
 
 Einwendungen gegen den zu vollstreckenden Verwaltungsakt sind
 außerhalb des Vollstreckungsverfahrens mit den hierfür zugelassenen
 Rechtsbehelfen zu verfolgen.
-
 
 #### § 257 Einstellung und Beschränkung der Vollstreckung
 
@@ -8283,21 +7811,15 @@ Entscheidung ein neuer Verwaltungsakt zu erlassen ist. Im Übrigen
 bleiben die Vollstreckungsmaßnahmen bestehen, soweit nicht ihre
 Aufhebung ausdrücklich angeordnet worden ist.
 
-
 #### § 258 Einstweilige Einstellung oder Beschränkung der Vollstreckung
 
 Soweit im Einzelfall die Vollstreckung unbillig ist, kann die
 Vollstreckungsbehörde sie einstweilen einstellen oder beschränken oder
 eine Vollstreckungsmaßnahme aufheben.
 
-
 ### Zweiter Abschnitt - Vollstreckung wegen Geldforderungen
 
-
-
 #### 1. Unterabschnitt - Allgemeine Vorschriften
-
-
 
 ##### § 259 Mahnung
 
@@ -8308,12 +7830,10 @@ es nicht, wenn der Vollstreckungsschuldner vor Eintritt der Fälligkeit
 an die Zahlung erinnert wird. An die Zahlung kann auch durch
 öffentliche Bekanntmachung allgemein erinnert werden.
 
-
 ##### § 260 Angabe des Schuldgrundes
 
 Im Vollstreckungsauftrag oder in der Pfändungsverfügung ist für die
 beizutreibenden Geldbeträge der Schuldgrund anzugeben.
-
 
 ##### § 261 Niederschlagung
 
@@ -8321,7 +7841,6 @@ Ansprüche aus dem Steuerschuldverhältnis dürfen niedergeschlagen
 werden, wenn feststeht, dass die Einziehung keinen Erfolg haben wird,
 oder wenn die Kosten der Einziehung außer Verhältnis zu dem Betrag
 stehen.
-
 
 ##### § 262 Rechte Dritter
 
@@ -8344,13 +7863,11 @@ Bezirk die Vollstreckung erfolgt. Wird die Klage gegen die
 Körperschaft, der die Vollstreckungsbehörde angehört, und gegen den
 Vollstreckungsschuldner gerichtet, so sind sie Streitgenossen.
 
-
 ##### § 263 Vollstreckung gegen Ehegatten
 
 Für die Vollstreckung gegen Ehegatten sind die Vorschriften der §§
 739, 740, 741, 743, 744a und 745 der Zivilprozessordnung entsprechend
 anzuwenden.
-
 
 ##### § 264 Vollstreckung gegen Nießbraucher
 
@@ -8358,14 +7875,12 @@ Für die Vollstreckung in Gegenstände, die dem Nießbrauch an einem
 Vermögen unterliegen, ist die Vorschrift des § 737 der
 Zivilprozessordnung entsprechend anzuwenden.
 
-
 ##### § 265 Vollstreckung gegen Erben
 
 Für die Vollstreckung gegen Erben sind die Vorschriften der §§ 1958,
 1960 Abs. 3, § 1961 des Bürgerlichen Gesetzbuchs sowie der §§ 747,
 748, 778, 779, 781 bis 784 der Zivilprozessordnung entsprechend
 anzuwenden.
-
 
 ##### § 266 Sonstige Fälle beschränkter Haftung
 
@@ -8375,7 +7890,6 @@ Haftung, die Vorschrift des § 781 der Zivilprozessordnung ist auf die
 nach den §§ 1480, 1504 und 2187 des Bürgerlichen Gesetzbuchs
 eintretende beschränkte Haftung entsprechend anzuwenden.
 
-
 ##### § 267 Vollstreckungsverfahren gegen nicht rechtsfähige Personenvereinigungen
 
 Bei nicht rechtsfähigen Personenvereinigungen, die als solche
@@ -8384,10 +7898,7 @@ ein vollstreckbarer Verwaltungsakt gegen die Personenvereinigung. Dies
 gilt entsprechend für Zweckvermögen und sonstige einer juristischen
 Person ähnliche steuerpflichtige Gebilde.
 
-
 #### 2. Unterabschnitt - Aufteilung einer Gesamtschuld
-
-
 
 ##### § 268 Grundsatz
 
@@ -8396,7 +7907,6 @@ Einkommen oder zur Vermögensteuer veranlagt worden sind, so kann jeder
 von ihnen beantragen, dass die Vollstreckung wegen dieser Steuern
 jeweils auf den Betrag beschränkt wird, der sich nach Maßgabe der §§
 269 bis 278 bei einer Aufteilung der Steuern ergibt.
-
 
 ##### § 269 Antrag
 
@@ -8410,7 +7920,6 @@ ist der Antrag nicht mehr zulässig. Der Antrag muss alle Angaben
 enthalten, die zur Aufteilung der Steuer erforderlich sind, soweit
 sich diese Angaben nicht aus der Steuererklärung ergeben.
 
-
 ##### § 270 Allgemeiner Aufteilungsmaßstab
 
 Die rückständige Steuer ist nach dem Verhältnis der Beträge
@@ -8420,7 +7929,6 @@ sind die tatsächlichen und rechtlichen Feststellungen maßgebend, die
 der Steuerfestsetzung bei der Zusammenveranlagung zugrunde gelegt
 worden sind, soweit nicht die Anwendung der Vorschriften über die
 Einzelveranlagung zu Abweichungen führt.
-
 
 ##### § 271 Aufteilungsmaßstab für die Vermögensteuer
 
@@ -8446,10 +7954,6 @@ Die Vermögensteuer ist wie folgt aufzuteilen:
     abgesetzt, soweit sich ein bestimmter Schuldner nicht feststellen
     lässt.
 
-
-
-
-
 ##### § 272 Aufteilungsmaßstab für Vorauszahlungen
 
 (1) Die rückständigen Vorauszahlungen sind im Verhältnis der Beträge
@@ -8470,7 +7974,6 @@ erstatten.
 so wird der für die veranlagte Steuer geltende Aufteilungsmaßstab
 angewendet.
 
-
 ##### § 273 Aufteilungsmaßstab für Steuernachforderungen
 
 (1) Führt die Änderung einer Steuerfestsetzung oder ihre Berichtigung
@@ -8482,7 +7985,6 @@ Einzelveranlagungen mit den früheren Einzelveranlagungen ergeben.
 (2) Der in Absatz 1 genannte Aufteilungsmaßstab ist nicht anzuwenden,
 wenn die bisher festgesetzte Steuer noch nicht getilgt ist.
 
-
 ##### § 274 Besonderer Aufteilungsmaßstab
 
 Abweichend von den §§ 270 bis 273 kann die rückständige Steuer nach
@@ -8492,14 +7994,12 @@ gemeinschaftliche Vorschlag ist schriftlich einzureichen oder zur
 Niederschrift zu erklären; er ist von allen Gesamtschuldnern zu
 unterschreiben.
 
-
 ##### § 275 Abrundung
 
 Der aufzuteilende Betrag ist auf volle Euro abzurunden. Die
 errechneten aufgeteilten Beträge sind so auf den nächsten durch 10
 Cent teilbaren Betrag auf- oder abzurunden, dass ihre Summe mit dem
 der Aufteilung zugrunde liegenden Betrag übereinstimmt.
-
 
 ##### § 276 Rückständige Steuer, Einleitung der Vollstreckung
 
@@ -8529,14 +8029,12 @@ der sie geleistet hat oder für den sie geleistet worden sind. Ergibt
 sich dabei eine Überzahlung gegenüber dem Aufteilungsbetrag, so ist
 der überzahlte Betrag zu erstatten.
 
-
 ##### § 277 Vollstreckung
 
 Solange nicht über den Antrag auf Beschränkung der Vollstreckung
 unanfechtbar entschieden ist, dürfen Vollstreckungsmaßnahmen nur
 soweit durchgeführt werden, als dies zur Sicherung des Anspruchs
 erforderlich ist.
-
 
 ##### § 278 Beschränkung der Vollstreckung
 
@@ -8552,7 +8050,6 @@ Aufteilungsbescheids über den sich nach Absatz 1 ergebenden Betrag
 hinaus bis zur Höhe des gemeinen Werts dieser Zuwendung für die Steuer
 in Anspruch genommen werden. Dies gilt nicht für gebräuchliche
 Gelegenheitsgeschenke.
-
 
 ##### § 279 Form und Inhalt des Aufteilungsbescheids
 
@@ -8586,10 +8083,6 @@ und bei welcher Behörde er einzulegen ist. Er soll ferner enthalten:
 5.  die Beträge, die auf die aufgeteilte Steuer des Gesamtschuldners
     anzurechnen sind.
 
-
-
-
-
 ##### § 280 Änderung des Aufteilungsbescheids
 
 (1) Der Aufteilungsbescheid kann außer in den Fällen des § 129 nur
@@ -8611,14 +8104,9 @@ geändert werden, wenn
 Aufteilungsbescheids oder seine Berichtigung nach § 129 nicht mehr
 zulässig.
 
-
 #### 3. Unterabschnitt - Vollstreckung in das bewegliche Vermögen
 
-
-
 ##### I. - Allgemeines
-
-
 
 ###### § 281 Pfändung
 
@@ -8632,7 +8120,6 @@ Vollstreckung erforderlich ist.
 (3) Die Pfändung unterbleibt, wenn die Verwertung der pfändbaren
 Gegenstände einen Überschuss über die Kosten der Vollstreckung nicht
 erwarten lässt.
-
 
 ###### § 282 Wirkung der Pfändung
 
@@ -8648,13 +8135,11 @@ Insolvenzverfahren diesem Pfandrecht nicht gleichgestellt sind.
 (3) Das durch eine frühere Pfändung begründete Pfandrecht geht
 demjenigen vor, das durch eine spätere Pfändung begründet wird.
 
-
 ###### § 283 Ausschluss von Gewährleistungsansprüchen
 
 Wird ein Gegenstand auf Grund der Pfändung veräußert, so steht dem
 Erwerber wegen eines Mangels im Recht oder wegen eines Mangels der
 veräußerten Sache ein Anspruch auf Gewährleistung nicht zu.
-
 
 ###### § 284 Vermögensauskunft des Vollstreckungsschuldners
 
@@ -8820,10 +8305,7 @@ der Eintragungsanordnung nach Absatz 10 Satz 1 und 2 sowie der
 Entscheidung nach Satz 1 haben den Vorgaben der Verordnung nach § 882h
 Abs. 3 der Zivilprozessordnung zu entsprechen.
 
-
 ##### II. - Vollstreckung in Sachen
-
-
 
 ###### § 285 Vollziehungsbeamte
 
@@ -8834,7 +8316,6 @@ Sachen durch Vollziehungsbeamte aus.
 Vollziehungsbeamte zur Vollstreckung durch schriftlichen oder
 elektronischen Auftrag der Vollstreckungsbehörde ermächtigt; der
 Auftrag ist auf Verlangen vorzuzeigen.
-
 
 ###### § 286 Vollstreckung in Sachen
 
@@ -8853,7 +8334,6 @@ Pfändung mitzuteilen.
 
 (4) Diese Vorschriften gelten auch für die Pfändung von Sachen im
 Gewahrsam eines Dritten, der zu ihrer Herausgabe bereit ist.
-
 
 ###### § 287 Befugnisse des Vollziehungsbeamten
 
@@ -8883,7 +8363,6 @@ Mitgewahrsaminhabern sind zu vermeiden.
 
 (6) Die Anordnung nach Absatz 4 ist bei der Vollstreckung vorzuzeigen.
 
-
 ###### § 288 Zuziehung von Zeugen
 
 Wird bei einer Vollstreckungshandlung Widerstand geleistet oder ist
@@ -8892,7 +8371,6 @@ Vollstreckungsschuldners weder der Vollstreckungsschuldner noch eine
 Person, die zu seiner Familie gehört oder bei ihm beschäftigt ist,
 gegenwärtig, so hat der Vollziehungsbeamte zwei Erwachsene oder einen
 Gemeinde- oder Polizeibeamten als Zeugen zuzuziehen.
-
 
 ###### § 289 Zeit der Vollstreckung
 
@@ -8904,7 +8382,6 @@ elektronischer Erlaubnis der Vollstreckungsbehörde vorgenommen werden.
 (2) Die Erlaubnis ist auf Verlangen bei der Vollstreckungshandlung
 vorzuzeigen.
 
-
 ###### § 290 Aufforderungen und Mitteilungen des Vollziehungsbeamten
 
 Die Aufforderungen und die sonstigen Mitteilungen, die zu den
@@ -8913,7 +8390,6 @@ mündlich zu erlassen und vollständig in die Niederschrift aufzunehmen;
 können sie mündlich nicht erlassen werden, so hat die
 Vollstreckungsbehörde demjenigen, an den die Aufforderung oder
 Mitteilung zu richten ist, eine Abschrift der Niederschrift zu senden.
-
 
 ###### § 291 Niederschrift
 
@@ -8947,7 +8423,6 @@ werden können, so ist der Grund anzugeben.
 (4) Die Niederschrift kann auch elektronisch erstellt werden. Absatz 2
 Nr. 4 und 5 sowie § 87a Abs. 4 Satz 2 gelten nicht.
 
-
 ###### § 292 Abwendung der Pfändung
 
 (1) Der Vollstreckungsschuldner kann die Pfändung nur abwenden, wenn
@@ -8960,7 +8435,6 @@ Entscheidung vorlegt, aus der sich die Unzulässigkeit der
 vorzunehmenden Pfändung ergibt oder wenn er eine Post- oder
 Bankquittung vorlegt, aus der sich ergibt, dass er den geschuldeten
 Betrag eingezahlt hat.
-
 
 ###### § 293 Pfand- und Vorzugsrechte Dritter
 
@@ -8976,7 +8450,6 @@ ist. Wird die Klage gegen die Körperschaft, der die
 Vollstreckungsbehörde angehört, und gegen den Vollstreckungsschuldner
 gerichtet, so sind sie Streitgenossen.
 
-
 ###### § 294 Ungetrennte Früchte
 
 (1) Früchte, die vom Boden noch nicht getrennt sind, können gepfändet
@@ -8989,7 +8462,6 @@ hat, kann der Pfändung nach § 262 widersprechen, wenn nicht für einen
 Anspruch gepfändet ist, der bei der Vollstreckung in das Grundstück
 vorgeht.
 
-
 ###### § 295 Unpfändbarkeit von Sachen
 
 Die §§ 811 bis 812 und 813 Abs. 1 bis 3 der Zivilprozessordnung sowie
@@ -8997,7 +8469,6 @@ die Beschränkungen und Verbote, die nach anderen gesetzlichen
 Vorschriften für die Pfändung von Sachen bestehen, gelten
 entsprechend. An die Stelle des Vollstreckungsgerichts tritt die
 Vollstreckungsbehörde.
-
 
 ###### § 296 Verwertung
 
@@ -9019,13 +8490,11 @@ Die Versteigerung erfolgt in der Regel durch den Vollziehungsbeamten.
 (2) Bei Pfändung von Geld gilt die Wegnahme als Zahlung des
 Vollstreckungsschuldners.
 
-
 ###### § 297 Aussetzung der Verwertung
 
 Die Vollstreckungsbehörde kann die Verwertung gepfändeter Sachen unter
 Anordnung von Zahlungsfristen zeitweilig aussetzen, wenn die
 alsbaldige Verwertung unbillig wäre.
-
 
 ###### § 298 Versteigerung
 
@@ -9047,7 +8516,6 @@ nach § 296 Absatz 1 Satz 2 Nummer 2.
 entsprechend; bei der Versteigerung vor Ort (§ 296 Absatz 1 Satz 2
 Nummer 1) ist auch § 1239 Absatz 2 des Bürgerlichen Gesetzbuchs
 entsprechend anzuwenden.
-
 
 ###### § 299 Zuschlag
 
@@ -9081,7 +8549,6 @@ ist. Soweit der Gläubiger von der Verpflichtung zur baren Zahlung
 befreit ist, gilt der Betrag als von dem Schuldner an den Gläubiger
 gezahlt.
 
-
 ###### § 300 Mindestgebot
 
 (1) Der Zuschlag darf nur auf ein Gebot erteilt werden, das mindestens
@@ -9103,7 +8570,6 @@ Vollstreckungsbehörde aus freier Hand verkauft werden. Der
 Verkaufspreis darf den Gold- oder Silberwert und die Hälfte des
 gewöhnlichen Verkaufswerts nicht unterschreiten.
 
-
 ###### § 301 Einstellung der Versteigerung
 
 (1) Die Versteigerung wird eingestellt, sobald der Erlös zur Deckung
@@ -9116,13 +8582,11 @@ hinterlegt wird (§ 308 Abs. 4). Als Zahlung im Sinne von Satz 1 gilt
 bei einer Versteigerung im Internet auch der Eingang des Erlöses auf
 dem Konto der Finanzbehörde.
 
-
 ###### § 302 Wertpapiere
 
 Gepfändete Wertpapiere, die einen Börsen- oder Marktpreis haben, sind
 aus freier Hand zum Tageskurs zu verkaufen; andere Wertpapiere sind
 nach den allgemeinen Vorschriften zu versteigern.
-
 
 ###### § 303 Namenspapiere
 
@@ -9133,13 +8597,11 @@ Inhaberpapier handelt, die Rückverwandlung in ein Inhaberpapier zu
 erwirken und die hierzu erforderlichen Erklärungen an Stelle des
 Vollstreckungsschuldners abzugeben.
 
-
 ###### § 304 Versteigerung ungetrennter Früchte
 
 Gepfändete Früchte, die vom Boden noch nicht getrennt sind, dürfen
 erst nach der Reife versteigert werden. Der Vollziehungsbeamte hat sie
 abernten zu lassen, wenn er sie nicht vor der Trennung versteigert.
-
 
 ###### § 305 Besondere Verwertung
 
@@ -9148,7 +8610,6 @@ Zweckmäßigkeitsgründen kann die Vollstreckungsbehörde anordnen, dass
 eine gepfändete Sache in anderer Weise oder an einem anderen Ort, als
 in den vorstehenden Paragraphen bestimmt ist, zu verwerten oder durch
 eine andere Person als den Vollziehungsbeamten zu versteigern sei.
-
 
 ###### § 306 Vollstreckung in Ersatzteile von Luftfahrzeugen
 
@@ -9163,7 +8624,6 @@ das Recht an einem ausländischen Luftfahrzeug erstreckt, mit der
 Maßgabe, dass die Vorschriften des § 106 Abs. 1 Nr. 2 und Abs. 4 des
 Gesetzes über Rechte an Luftfahrzeugen zu berücksichtigen sind.
 
-
 ###### § 307 Anschlusspfändung
 
 (1) Zur Pfändung bereits gepfändeter Sachen genügt die in die
@@ -9177,7 +8637,6 @@ Vollstreckungsbehörde oder dem Gerichtsvollzieher eine Abschrift der
 Niederschrift zu übersenden. Die gleiche Pflicht hat ein
 Gerichtsvollzieher, der eine Sache pfändet, die bereits im Auftrag
 einer Vollstreckungsbehörde gepfändet ist.
-
 
 ###### § 308 Verwertung bei mehrfacher Pfändung
 
@@ -9205,10 +8664,7 @@ Zivilprozessordnung.
 die Vorschriften der Absätze 2 bis 4 mit der Maßgabe Anwendung, dass
 der Erlös nach dem Verhältnis der Forderungen verteilt wird.
 
-
 ##### III. - Vollstreckung in Forderungen und andere Vermögensrechte
-
-
 
 ###### § 309 Pfändung einer Geldforderung
 
@@ -9233,7 +8689,6 @@ Zivilprozessordnung gilt mit der Maßgabe, dass Anträge bei dem nach §
 828 Abs. 2 der Zivilprozessordnung zuständigen Vollstreckungsgericht
 zu stellen sind.
 
-
 ###### § 310 Pfändung einer durch Hypothek gesicherten Forderung
 
 (1) Zur Pfändung einer Forderung, für die eine Hypothek besteht, ist
@@ -9252,7 +8707,6 @@ gilt die Pfändung diesem gegenüber mit der Zustellung als bewirkt.
 1159 des Bürgerlichen Gesetzbuchs bezeichneten Leistungen gepfändet
 werden. Das Gleiche gilt bei einer Sicherungshypothek im Fall des §
 1187 des Bürgerlichen Gesetzbuchs von der Pfändung der Hauptforderung.
-
 
 ###### § 311 Pfändung einer durch Schiffshypothek oder Registerpfandrecht an einem Luftfahrzeug gesicherten Forderung
 
@@ -9281,13 +8735,11 @@ die Hauptforderung gepfändet ist.
 ausländischen Luftfahrzeug besteht, gilt § 106 Abs. 1 Nr. 3 und Abs. 5
 des Gesetzes über Rechte an Luftfahrzeugen.
 
-
 ###### § 312 Pfändung einer Forderung aus indossablen Papieren
 
 Forderungen aus Wechseln und anderen Papieren, die durch Indossament
 übertragen werden können, werden dadurch gepfändet, dass der
 Vollziehungsbeamte die Papiere in Besitz nimmt.
-
 
 ###### § 313 Pfändung fortlaufender Bezüge
 
@@ -9305,7 +8757,6 @@ hat. Dies gilt nicht bei Wechsel des Dienstherrn.
 Vollstreckungsschuldner und Drittschuldner innerhalb von neun Monaten
 ein solches neu, so erstreckt sich die Pfändung auf die Forderung aus
 dem neuen Arbeits- oder Dienstverhältnis.
-
 
 ###### § 314 Einziehungsverfügung
 
@@ -9325,7 +8776,6 @@ zahlbaren Vergütung eines Vollstreckungsschuldners, der eine
 natürliche Person ist, für persönlich geleistete Arbeiten oder Dienste
 oder sonstige Einkünfte, die kein Arbeitslohn sind, angeordnet, so
 gilt § 835 Absatz 5 der Zivilprozessordnung entsprechend.
-
 
 ###### § 315 Wirkung der Einziehungsverfügung
 
@@ -9359,7 +8809,6 @@ gilt entsprechend.
 (4) Hat ein Dritter die Urkunde, so kann die Vollstreckungsbehörde
 auch den Anspruch des Vollstreckungsschuldners auf Herausgabe geltend
 machen.
-
 
 ###### § 316 Erklärungspflicht des Drittschuldners
 
@@ -9401,7 +8850,6 @@ ein Zwangsgeld angehalten werden; § 334 ist nicht anzuwenden.
 
 (3) Die §§ 841 bis 843 der Zivilprozessordnung sind anzuwenden.
 
-
 ###### § 317 Andere Art der Verwertung
 
 Ist die gepfändete Forderung bedingt oder betagt oder ihre Einziehung
@@ -9410,7 +8858,6 @@ anderer Weise zu verwerten ist; § 315 Abs. 1 gilt entsprechend. Der
 Vollstreckungsschuldner ist vorher zu hören, sofern nicht eine
 Bekanntgabe außerhalb des Geltungsbereichs des Gesetzes oder eine
 öffentliche Bekanntmachung erforderlich ist.
-
 
 ###### § 318 Ansprüche auf Herausgabe oder Leistung von Sachen
 
@@ -9451,13 +8898,11 @@ festzusetzende Vergütung nicht übersteigen.
 \*)
 Muss richtig lauten: "Zwangsverwaltungsverordnung"
 
-
 ###### § 319 Unpfändbarkeit von Forderungen
 
 Beschränkungen und Verbote, die nach §§ 850 bis 852 der
 Zivilprozessordnung und anderen gesetzlichen Bestimmungen für die
 Pfändung von Forderungen und Ansprüchen bestehen, gelten sinngemäß.
-
 
 ###### § 320 Mehrfache Pfändung einer Forderung
 
@@ -9471,7 +8916,6 @@ Zivilprozessordnung zuständig wäre, so ist bei dem Amtsgericht zu
 hinterlegen, in dessen Bezirk die Vollstreckungsbehörde ihren Sitz
 hat, deren Pfändungsverfügung dem Drittschuldner zuerst zugestellt
 worden ist.
-
 
 ###### § 321 Vollstreckung in andere Vermögensrechte
 
@@ -9504,10 +8948,7 @@ Forderung, für die eine Hypothek besteht.
 
 (7) Die §§ 858 bis 863 der Zivilprozessordnung gelten sinngemäß.
 
-
 #### 4. Unterabschnitt - Vollstreckung in das unbewegliche Vermögen
-
-
 
 ##### § 322 Verfahren
 
@@ -9558,7 +8999,6 @@ Rechten am Grundstück im Rang vorgeht, kann eine Sicherungshypothek
 unter der aufschiebenden Bedingung in das Grundbuch eingetragen
 werden, dass das Vorrecht wegfällt.
 
-
 ##### § 323 Vollstreckung gegen den Rechtsnachfolger
 
 Ist nach § 322 eine Sicherungshypothek, eine Schiffshypothek oder ein
@@ -9569,10 +9009,7 @@ Eigentumswechsel eingetreten ist. Satz 1 gilt sinngemäß für die
 Zwangsverwaltung aus einer nach § 322 eingetragenen
 Sicherungshypothek.
 
-
 #### 5. Unterabschnitt - Arrest
-
-
 
 ##### § 324 Dinglicher Arrest
 
@@ -9606,13 +9043,11 @@ Vollziehungsbeamte. Soweit auf die Vorschriften über die Pfändung
 verwiesen wird, sind die entsprechenden Vorschriften dieses Gesetzes
 anzuwenden.
 
-
 ##### § 325 Aufhebung des dinglichen Arrestes
 
 Die Arrestanordnung ist aufzuheben, wenn nach ihrem Erlass Umstände
 bekannt werden, die die Arrestanordnung nicht mehr gerechtfertigt
 erscheinen lassen.
-
 
 ##### § 326 Persönlicher Sicherheitsarrest
 
@@ -9634,10 +9069,7 @@ Sicherheitsarrestes gelten § 128 Abs. 4 und die §§ 922 bis 925, 927,
 
 (4) Für Zustellungen gelten die Vorschriften der Zivilprozessordnung.
 
-
 #### 6. Unterabschnitt - Verwertung von Sicherheiten
-
-
 
 ##### § 327 Verwertung von Sicherheiten
 
@@ -9650,14 +9082,9 @@ erfolgen, wenn dem Vollstreckungsschuldner die Verwertungsabsicht
 bekannt gegeben und seit der Bekanntgabe mindestens eine Woche
 verstrichen ist.
 
-
 ### Dritter Abschnitt - Vollstreckung wegen anderer Leistungen als Geldforderungen
 
-
-
 #### 1. Unterabschnitt - Vollstreckung wegen Handlungen, Duldungen oder Unterlassungen
-
-
 
 ##### § 328 Zwangsmittel
 
@@ -9672,11 +9099,9 @@ Pflichtige und die Allgemeinheit am wenigsten beeinträchtigt werden.
 Das Zwangsmittel muss in einem angemessenen Verhältnis zu seinem Zweck
 stehen.
 
-
 ##### § 329 Zwangsgeld
 
 Das einzelne Zwangsgeld darf 25.000 Euro nicht übersteigen.
-
 
 ##### § 330 Ersatzvornahme
 
@@ -9685,13 +9110,11 @@ durch einen anderen möglich ist (vertretbare Handlung), nicht erfüllt,
 so kann die Vollstreckungsbehörde einen anderen mit der Vornahme der
 Handlung auf Kosten des Pflichtigen beauftragen.
 
-
 ##### § 331 Unmittelbarer Zwang
 
 Führen das Zwangsgeld oder die Ersatzvornahme nicht zum Ziel oder sind
 sie untunlich, so kann die Finanzbehörde den Pflichtigen zur Handlung,
 Duldung oder Unterlassung zwingen oder die Handlung selbst vornehmen.
-
 
 ##### § 332 Androhung der Zwangsmittel
 
@@ -9715,14 +9138,12 @@ das Zwangsmittel für jeden Fall der Zuwiderhandlung angedroht werden.
 (4) Soll die Handlung durch Ersatzvornahme ausgeführt werden, so ist
 in der Androhung der Kostenbetrag vorläufig zu veranschlagen.
 
-
 ##### § 333 Festsetzung der Zwangsmittel
 
 Wird die Verpflichtung innerhalb der Frist, die in der Androhung
 bestimmt ist, nicht erfüllt oder handelt der Pflichtige der
 Verpflichtung zuwider, so setzt die Finanzbehörde das Zwangsmittel
 fest.
-
 
 ##### § 334 Ersatzzwangshaft
 
@@ -9748,16 +9169,12 @@ des Strafvollzugsgesetzes.
 (4) Ist der Anspruch auf das Zwangsgeld verjährt, so darf die Haft
 nicht mehr vollstreckt werden.
 
-
 ##### § 335 Beendigung des Zwangsverfahrens
 
 Wird die Verpflichtung nach Festsetzung des Zwangsmittels erfüllt, so
 ist der Vollzug einzustellen.
 
-
 #### 2. Unterabschnitt - Erzwingung von Sicherheiten
-
-
 
 ##### § 336 Erzwingung von Sicherheiten
 
@@ -9767,10 +9184,7 @@ erfüllt, so kann die Finanzbehörde geeignete Sicherheiten pfänden.
 (2) Der Erzwingung der Sicherheit muss eine schriftliche Androhung
 vorausgehen. Die §§ 262 bis 323 sind entsprechend anzuwenden.
 
-
 ### Vierter Abschnitt - Kosten
-
-
 
 #### § 337 Kosten der Vollstreckung
 
@@ -9781,12 +9195,10 @@ erhoben. Schuldner dieser Kosten ist der Vollstreckungsschuldner.
 Vollstreckungsschuldner die Kosten zu tragen, die durch einen
 Postnachnahmeauftrag (§ 259 Satz 2) entstehen.
 
-
 #### § 338 Gebührenarten
 
 Im Vollstreckungsverfahren werden Pfändungsgebühren (§ 339),
 Wegnahmegebühren (§ 340) und Verwertungsgebühren (§ 341) erhoben.
-
 
 #### § 339 Pfändungsgebühr
 
@@ -9829,7 +9241,6 @@ sind, von Forderungen und von anderen Vermögensrechten.
 Wird die Pfändung auf andere Weise abgewendet, wird keine Gebühr
 erhoben.
 
-
 #### § 340 Wegnahmegebühr
 
 (1) Die Wegnahmegebühr wird für die Wegnahme beweglicher Sachen
@@ -9846,7 +9257,6 @@ sind.
 
 (4) (weggefallen)
 
-
 #### § 341 Verwertungsgebühr
 
 (1) Die Verwertungsgebühr wird für die Versteigerung und andere
@@ -9861,7 +9271,6 @@ unternommen hat.
 (4) Wird die Verwertung abgewendet (§ 296 Abs. 1 Satz 4), ist eine
 Gebühr von 20 Euro zu erheben.
 
-
 #### § 342 Mehrheit von Schuldnern
 
 (1) Wird gegen mehrere Schuldner vollstreckt, so sind die Gebühren,
@@ -9874,11 +9283,9 @@ Gelegenheit vollstreckt, so werden Pfändungs-, Wegnahme- und
 Verwertungsgebühren nur einmal erhoben. Die in Satz 1 bezeichneten
 Personen schulden die Gebühren als Gesamtschuldner.
 
-
 #### § 343
 
 (weggefallen)
-
 
 #### § 344 Auslagen
 
@@ -9946,13 +9353,11 @@ Vollstreckungsschuldner verteilt. Dabei sind die besonderen Umstände
 des einzelnen Falls, vor allem Wert, Umfang und Gewicht der
 Gegenstände, zu berücksichtigen.
 
-
 #### § 345 Reisekosten und Aufwandsentschädigungen
 
 Im Vollstreckungsverfahren sind die Reisekosten des
 Vollziehungsbeamten und Auslagen, die durch Aufwandsentschädigungen
 abgegolten werden, von dem Vollstreckungsschuldner nicht zu erstatten.
-
 
 #### § 346 Unrichtige Sachbehandlung, Festsetzungsfrist
 
@@ -9965,14 +9370,9 @@ des Kalenderjahrs, in dem die Kosten entstanden sind. Einem vor Ablauf
 der Frist gestellten Antrag auf Aufhebung oder Änderung kann auch nach
 Ablauf der Frist entsprochen werden.
 
-
 ## Siebenter Teil - Außergerichtliches Rechtsbehelfsverfahren
 
-
-
 ### Erster Abschnitt - Zulässigkeit
-
-
 
 #### § 347 Statthaftigkeit des Einspruchs
 
@@ -10016,7 +9416,6 @@ die Angelegenheiten der Verwaltung der Finanzmonopole gleich.
 (3) Die Vorschriften des Siebenten Teils finden auf das Straf- und
 Bußgeldverfahren keine Anwendung.
 
-
 #### § 348 Ausschluss des Einspruchs
 
 Der Einspruch ist nicht statthaft
@@ -10040,20 +9439,14 @@ Der Einspruch ist nicht statthaft
 
 6.  in den Fällen des § 172 Abs. 3.
 
-
-
-
-
 #### § 349
 
 (weggefallen)
-
 
 #### § 350 Beschwer
 
 Befugt, Einspruch einzulegen, ist nur, wer geltend macht, durch einen
 Verwaltungsakt oder dessen Unterlassung beschwert zu sein.
-
 
 #### § 351 Bindungswirkung anderer Verwaltungsakte
 
@@ -10065,7 +9458,6 @@ Verwaltungsakten etwas anderes ergibt.
 (2) Entscheidungen in einem Grundlagenbescheid (§ 171 Abs. 10) können
 nur durch Anfechtung dieses Bescheids, nicht auch durch Anfechtung des
 Folgebescheids, angegriffen werden.
-
 
 #### § 352 Einspruchsbefugnis bei der einheitlichen Feststellung
 
@@ -10116,7 +9508,6 @@ Feststellungserklärung oder in der Aufforderung zur Benennung eines
 Empfangsbevollmächtigten über die Einspruchsbefugnis des
 Empfangsbevollmächtigten belehrt worden sind.
 
-
 #### § 353 Einspruchsbefugnis des Rechtsnachfolgers
 
 Wirkt ein Feststellungsbescheid, ein Grundsteuermessbescheid oder ein
@@ -10125,7 +9516,6 @@ gegenüber dem Rechtsnachfolger, ohne dass er diesem bekannt gegeben
 worden ist (§ 182 Abs. 2, § 184 Abs. 1 Satz 4, §§ 185 und 190), so
 kann der Rechtsnachfolger nur innerhalb der für den Rechtsvorgänger
 maßgebenden Einspruchsfrist Einspruch einlegen.
-
 
 #### § 354 Einspruchsverzicht
 
@@ -10146,10 +9536,7 @@ schriftlich oder zur Niederschrift zu erklären; er darf keine weiteren
 Erklärungen enthalten. Wird nachträglich die Unwirksamkeit des
 Verzichts geltend gemacht, so gilt § 110 Abs. 3 sinngemäß.
 
-
 ### Zweiter Abschnitt - Verfahrensvorschriften
-
-
 
 #### § 355 Einspruchsfrist
 
@@ -10160,7 +9547,6 @@ Steueranmeldung bei der Finanzbehörde, in den Fällen des § 168 Satz 2
 innerhalb eines Monats nach Bekanntwerden der Zustimmung, einzulegen.
 
 (2) Der Einspruch nach § 347 Abs. 1 Satz 2 ist unbefristet.
-
 
 #### § 356 Rechtsbehelfsbelehrung
 
@@ -10176,7 +9562,6 @@ Verwaltungsakts zulässig, es sei denn, dass die Einlegung vor Ablauf
 der Jahresfrist infolge höherer Gewalt unmöglich war oder schriftlich
 oder elektronisch darüber belehrt wurde, dass ein Einspruch nicht
 gegeben sei. § 110 Abs. 2 gilt für den Fall höherer Gewalt sinngemäß.
-
 
 #### § 357 Einlegung des Einspruchs
 
@@ -10205,7 +9590,6 @@ der Verwaltungsakt angefochten und seine Aufhebung beantragt wird.
 Ferner sollen die Tatsachen, die zur Begründung dienen, und die
 Beweismittel angeführt werden.
 
-
 #### § 358 Prüfung der Zulässigkeitsvoraussetzungen
 
 Die zur Entscheidung über den Einspruch berufene Finanzbehörde hat zu
@@ -10213,7 +9597,6 @@ prüfen, ob der Einspruch zulässig, insbesondere in der
 vorgeschriebenen Form und Frist eingelegt ist. Mangelt es an einem
 dieser Erfordernisse, so ist der Einspruch als unzulässig zu
 verwerfen.
-
 
 #### § 359 Beteiligte
 
@@ -10223,10 +9606,6 @@ Beteiligte am Verfahren sind:
 
 
 2.  wer zum Verfahren hinzugezogen worden ist.
-
-
-
-
 
 #### § 360 Hinzuziehung zum Verfahren
 
@@ -10264,7 +9643,6 @@ Für die Wiedereinsetzung in den vorigen Stand wegen Versäumung der
 Frist gilt § 110 entsprechend. Die Finanzbehörde soll Personen, die
 von der Entscheidung erkennbar in besonderem Maße betroffen werden,
 auch ohne Antrag hinzuziehen.
-
 
 #### § 361 Aussetzung der Vollziehung
 
@@ -10310,7 +9688,6 @@ schriftlich zu begründen. § 367 Abs. 1 Satz 2 gilt sinngemäß.
 Gericht nur nach § 69 Abs. 3 und 5 Satz 3 der Finanzgerichtsordnung
 angerufen werden.
 
-
 #### § 362 Rücknahme des Einspruchs
 
 (1) Der Einspruch kann bis zur Bekanntgabe der Entscheidung über den
@@ -10324,7 +9701,6 @@ werden. § 354 Abs. 1a Satz 2 gilt entsprechend.
 (2) Die Rücknahme hat den Verlust des eingelegten Einspruchs zur
 Folge. Wird nachträglich die Unwirksamkeit der Rücknahme geltend
 gemacht, so gilt § 110 Abs. 3 sinngemäß.
-
 
 #### § 363 Aussetzung und Ruhen des Verfahrens
 
@@ -10356,13 +9732,11 @@ oder die Aussetzung oder das Ruhen des Verfahrens widerrufen, kann die
 Rechtswidrigkeit der Ablehnung oder des Widerrufs nur durch Klage
 gegen die Einspruchsentscheidung geltend gemacht werden.
 
-
 #### § 364 Mitteilung der Besteuerungsunterlagen
 
 Den Beteiligten sind, soweit es noch nicht geschehen ist, die
 Unterlagen der Besteuerung auf Antrag oder, wenn die Begründung des
 Einspruchs dazu Anlass gibt, von Amts wegen mitzuteilen.
-
 
 #### § 364a Erörterung des Sach- und Rechtsstands
 
@@ -10383,7 +9757,6 @@ lassen. Sie können auch persönlich zur Erörterung geladen werden, wenn
 die Finanzbehörde dies für sachdienlich hält.
 
 (4) Das Erscheinen kann nicht nach § 328 erzwungen werden.
-
 
 #### § 364b Fristsetzung
 
@@ -10410,7 +9783,6 @@ die Finanzbehörde dies für sachdienlich hält.
 (3) Der Einspruchsführer ist mit der Fristsetzung über die
 Rechtsfolgen nach Absatz 2 zu belehren.
 
-
 #### § 365 Anwendung von Verfahrensvorschriften
 
 (1) Für das Verfahren über den Einspruch gelten im Übrigen die
@@ -10432,16 +9804,11 @@ wird der neue Verwaltungsakt Gegenstand des Einspruchsverfahrens. Satz
 2.  ein Verwaltungsakt an die Stelle eines angefochtenen unwirksamen
     Verwaltungsakts tritt.
 
-
-
-
-
 #### § 366 Form, Inhalt und Bekanntgabe der Einspruchsentscheidung
 
 Die Einspruchsentscheidung ist schriftlich zu erteilen, zu begründen,
 mit einer Rechtsbehelfsbelehrung zu versehen und den Beteiligten
 bekannt zu geben.
-
 
 #### § 367 Entscheidung über den Einspruch
 
@@ -10486,19 +9853,13 @@ Finanzbehörde über den Einspruch. Auch die für die zuständige
 Finanzbehörde handelnde Behörde ist berechtigt, dem Einspruch
 abzuhelfen.
 
-
 #### § 368
 
 (weggefallen)
 
-
 ## Achter Teil - Straf- und Bußgeldvorschriften, Straf- und Bußgeldverfahren
 
-
-
 ### Erster Abschnitt - Strafvorschriften
-
-
 
 #### § 369 Steuerstraftaten
 
@@ -10523,7 +9884,6 @@ abzuhelfen.
 (2) Für Steuerstraftaten gelten die allgemeinen Gesetze über das
 Strafrecht, soweit die Strafvorschriften der Steuergesetze nichts
 anderes bestimmen.
-
 
 #### § 370 Steuerhinterziehung
 
@@ -10607,11 +9967,9 @@ Europäischen Union verwaltet werden.
 auch für Taten, die außerhalb des Geltungsbereiches dieses Gesetzes
 begangen werden.
 
-
 #### § 370a (weggefallen)
 
 -
-
 
 #### § 371 Selbstanzeige bei Steuerhinterziehung
 
@@ -10669,7 +10027,6 @@ Straf- oder Bußgeldverfahrens wegen der Tat bekannt gegeben worden
 ist. Hat der Dritte zum eigenen Vorteil gehandelt, so gilt Absatz 3
 entsprechend.
 
-
 #### § 372 Bannbruch
 
 (1) Bannbruch begeht, wer Gegenstände entgegen einem Verbot einführt,
@@ -10679,7 +10036,6 @@ ausführt oder durchführt.
 in anderen Vorschriften als Zuwiderhandlung gegen ein Einfuhr-,
 Ausfuhr- oder Durchfuhrverbot mit Strafe oder mit Geldbuße bedroht
 ist.
-
 
 #### § 373 Gewerbsmäßiger, gewaltsamer und bandenmäßiger Schmuggel
 
@@ -10714,7 +10070,6 @@ Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe.
 
 (4) § 370 Abs. 6 Satz 1 und Abs. 7 gilt entsprechend.
 
-
 #### § 374 Steuerhehlerei
 
 (1) Wer Erzeugnisse oder Waren, hinsichtlich deren Verbrauchsteuern
@@ -10734,7 +10089,6 @@ zu fünf Jahren oder Geldstrafe.
 (3) Der Versuch ist strafbar.
 
 (4) § 370 Abs. 6 Satz 1 und Abs. 7 gilt entsprechend.
-
 
 #### § 375 Nebenfolgen
 
@@ -10773,7 +10127,6 @@ die Fähigkeit, Rechte aus öffentlichen Wahlen zu erlangen, aberkennen
 
 eingezogen werden. § 74a des Strafgesetzbuchs ist anzuwenden.
 
-
 #### § 376 Verfolgungsverjährung
 
 (1) In den in § 370 Abs. 3 Satz 2 Nr. 1 bis 5 genannten Fällen
@@ -10785,10 +10138,7 @@ dadurch unterbrochen, dass dem Beschuldigten die Einleitung des
 Bußgeldverfahrens bekannt gegeben oder diese Bekanntgabe angeordnet
 wird.
 
-
 ### Zweiter Abschnitt - Bußgeldvorschriften
-
-
 
 #### § 377 Steuerordnungswidrigkeiten
 
@@ -10799,7 +10149,6 @@ werden können.
 (2) Für Steuerordnungswidrigkeiten gelten die Vorschriften des Ersten
 Teils des Gesetzes über Ordnungswidrigkeiten, soweit die
 Bußgeldvorschriften der Steuergesetze nichts anderes bestimmen.
-
 
 #### § 378 Leichtfertige Steuerverkürzung
 
@@ -10817,7 +10166,6 @@ unvollständigen Angaben ergänzt oder die unterlassenen Angaben
 nachholt, bevor ihm oder seinem Vertreter die Einleitung eines Straf-
 oder Bußgeldverfahrens wegen der Tat bekannt gegeben worden ist. § 371
 Absatz 3 und 4 gilt entsprechend.
-
 
 #### § 379 Steuergefährdung
 
@@ -10871,7 +10219,6 @@ Verwaltungsakt für Zwecke der besonderen Steueraufsicht (§§ 209 bis
 Euro geahndet werden, wenn die Handlung nicht nach § 378 geahndet
 werden kann.
 
-
 #### § 380 Gefährdung der Abzugsteuern
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig seiner
@@ -10881,7 +10228,6 @@ nicht, nicht vollständig oder nicht rechtzeitig nachkommt.
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
 fünfundzwanzigtausend Euro geahndet werden, wenn die Handlung nicht
 nach § 378 geahndet werden kann.
-
 
 #### § 381 Verbrauchsteuergefährdung
 
@@ -10910,7 +10256,6 @@ diese Bußgeldvorschrift verweisen.
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünftausend
 Euro geahndet werden, wenn die Handlung nicht nach § 378 geahndet
 werden kann.
-
 
 #### § 382 Gefährdung der Einfuhr- und Ausfuhrabgaben
 
@@ -10958,7 +10303,6 @@ Erklärungen oder Anzeigen, zur Aufnahme von Niederschriften sowie zur
 Ausfüllung oder Vorlage von Zolldokumenten oder zur Aufnahme von
 Vermerken in solchen Dokumenten betreffen.
 
-
 #### § 383 Unzulässiger Erwerb von Steuererstattungs- und Vergütungsansprüchen
 
 (1) Ordnungswidrig handelt, wer entgegen § 46 Abs. 4 Satz 1
@@ -10966,7 +10310,6 @@ Erstattungs- oder Vergütungsansprüche erwirbt.
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
 fünfzigtausend Euro geahndet werden.
-
 
 #### § 383a Zweckwidrige Verwendung des Identifikationsmerkmals nach § 139a
 
@@ -10981,20 +10324,14 @@ als die zugelassenen Zwecke ordnet oder für den Zugriff erschließt.
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu zehntausend
 Euro geahndet werden.
 
-
 #### § 384 Verfolgungsverjährung
 
 Die Verfolgung von Steuerordnungswidrigkeiten nach den §§ 378 bis 380
 verjährt in fünf Jahren.
 
-
 ### Dritter Abschnitt - Strafverfahren
 
-
-
 #### 1. Unterabschnitt - Allgemeine Vorschriften
-
-
 
 ##### § 385 Geltung von Verfahrensvorschriften
 
@@ -11009,7 +10346,6 @@ Verdacht einer Straftat, die unter Vorspiegelung eines steuerlich
 erheblichen Sachverhalts gegenüber der Finanzbehörde oder einer
 anderen Behörde auf die Erlangung von Vermögensvorteilen gerichtet ist
 und kein Steuerstrafgesetz verletzt, entsprechend anzuwenden.
-
 
 ##### § 386 Zuständigkeit der Finanzbehörde bei Steuerstraftaten
 
@@ -11041,7 +10377,6 @@ jederzeit an sich ziehen. In beiden Fällen kann die Staatsanwaltschaft
 im Einvernehmen mit der Finanzbehörde die Strafsache wieder an die
 Finanzbehörde abgeben.
 
-
 ##### § 387 Sachlich zuständige Finanzbehörde
 
 (1) Sachlich zuständig ist die Finanzbehörde, welche die betroffene
@@ -11058,7 +10393,6 @@ Rechtsverordnung des Bundesministeriums der Finanzen bedarf nicht der
 Zustimmung des Bundesrates. Die Landesregierung kann die Ermächtigung
 auf die für die Finanzverwaltung zuständige oberste Landesbehörde
 übertragen.
-
 
 ##### § 388 Örtlich zuständige Finanzbehörde
 
@@ -11087,14 +10421,12 @@ die Zuständigkeit der Finanzbehörde für die Abgabenangelegenheit
 keinen Wohnsitz, so wird die Zuständigkeit auch durch den gewöhnlichen
 Aufenthaltsort bestimmt.
 
-
 ##### § 389 Zusammenhängende Strafsachen
 
 Für zusammenhängende Strafsachen, die einzeln nach § 388 zur
 Zuständigkeit verschiedener Finanzbehörden gehören würden, ist jede
 dieser Finanzbehörden zuständig. § 3 der Strafprozessordnung gilt
 entsprechend.
-
 
 ##### § 390 Mehrfache Zuständigkeit
 
@@ -11106,7 +10438,6 @@ Strafverfahren eingeleitet hat.
 Finanzbehörde die Strafsache zu übernehmen, wenn dies für die
 Ermittlungen sachdienlich erscheint. In Zweifelsfällen entscheidet die
 Behörde, der die ersuchte Finanzbehörde untersteht.
-
 
 ##### § 391 Zuständiges Gericht
 
@@ -11133,7 +10464,6 @@ dieselbe Handlung eine Straftat nach dem Betäubungsmittelgesetz
 darstellt, und nicht für Steuerstraftaten, welche die
 Kraftfahrzeugsteuer betreffen.
 
-
 ##### § 392 Verteidigung
 
 (1) Abweichend von § 138 Abs. 1 der Strafprozessordnung können auch
@@ -11145,7 +10475,6 @@ Rechtslehrer an einer deutschen Hochschule im Sinne des
 Hochschulrahmengesetzes mit Befähigung zum Richteramt führen.
 
 (2) § 138 Abs. 2 der Strafprozessordnung bleibt unberührt.
-
 
 ##### § 393 Verhältnis des Strafverfahrens zum Besteuerungsverfahren
 
@@ -11179,7 +10508,6 @@ eigener strafrechtlicher Ermittlungen gewonnen hat oder soweit nach
 den Vorschriften der Strafprozessordnung Auskunft an die
 Finanzbehörden erteilt werden darf.
 
-
 ##### § 394 Übergang des Eigentums
 
 Hat ein Unbekannter, der bei einer Steuerstraftat auf frischer Tat
@@ -11194,7 +10522,6 @@ dass anstelle einer Benachrichtigung der Hinweis nach Satz 1 bekannt
 gemacht oder veröffentlicht wird. Die Frist beginnt mit dem Aushang
 der Bekanntmachung.
 
-
 ##### § 395 Akteneinsicht der Finanzbehörde
 
 Die Finanzbehörde ist befugt, die Akten, die dem Gericht vorliegen
@@ -11202,7 +10529,6 @@ oder im Fall der Erhebung der Anklage vorzulegen wären, einzusehen
 sowie beschlagnahmte oder sonst sichergestellte Gegenstände zu
 besichtigen. Die Akten werden der Finanzbehörde auf Antrag zur
 Einsichtnahme übersandt.
-
 
 ##### § 396 Aussetzung des Verfahrens
 
@@ -11218,14 +10544,9 @@ das Gericht, das mit der Sache befasst ist.
 
 (3) Während der Aussetzung des Verfahrens ruht die Verjährung.
 
-
 #### 2. Unterabschnitt - Ermittlungsverfahren
 
-
-
 ##### I. - Allgemeines
-
-
 
 ###### § 397 Einleitung des Strafverfahrens
 
@@ -11242,7 +10563,6 @@ spätestens mitzuteilen, wenn er dazu aufgefordert wird, Tatsachen
 darzulegen oder Unterlagen vorzulegen, die im Zusammenhang mit der
 Straftat stehen, derer er verdächtig ist.
 
-
 ###### § 398 Einstellung wegen Geringfügigkeit
 
 Die Staatsanwaltschaft kann von der Verfolgung einer
@@ -11254,7 +10574,6 @@ anzusehen wäre und kein öffentliches Interesse an der Verfolgung
 besteht. Dies gilt für das Verfahren wegen einer Steuerhehlerei nach §
 374 und einer Begünstigung einer Person, die eine der in § 375 Abs. 1
 Nr. 1 bis 3 genannten Taten begangen hat, entsprechend.
-
 
 ###### § 398a Absehen von Verfolgung in besonderen Fällen
 
@@ -11269,13 +10588,7 @@ Täter innerhalb einer ihm bestimmten angemessenen Frist
 2.  einen Geldbetrag in Höhe von 5 Prozent der hinterzogenen Steuer
     zugunsten der Staatskasse zahlt.
 
-
-
-
-
 ##### II. - Verfahren der Finanzbehörde bei Steuerstraftaten
-
-
 
 ###### § 399 Rechte und Pflichten der Finanzbehörde
 
@@ -11293,7 +10606,6 @@ Durchsuchungen, Untersuchungen und sonstige Maßnahmen nach den für
 Ermittlungspersonen der Staatsanwaltschaft geltenden Vorschriften der
 Strafprozessordnung anordnen.
 
-
 ###### § 400 Antrag auf Erlass eines Strafbefehls
 
 Bieten die Ermittlungen genügenden Anlass zur Erhebung der
@@ -11301,7 +10613,6 @@ Bieten die Ermittlungen genügenden Anlass zur Erhebung der
 Erlass eines Strafbefehls, wenn die Strafsache zur Behandlung im
 Strafbefehlsverfahren geeignet erscheint; ist dies nicht der Fall, so
 legt die Finanzbehörde die Akten der Staatsanwaltschaft vor.
-
 
 ###### § 401 Antrag auf Anordnung von Nebenfolgen im selbständigen Verfahren
 
@@ -11311,10 +10622,7 @@ juristische Person oder eine Personenvereinigung selbständig
 festzusetzen (§§ 440, 442 Abs. 1, § 444 Abs. 3 der
 Strafprozessordnung).
 
-
 ##### III. - Stellung der Finanzbehörde im Verfahren der Staatsanwaltschaft
-
-
 
 ###### § 402 Allgemeine Rechte und Pflichten der Finanzbehörde
 
@@ -11326,7 +10634,6 @@ sowie die Befugnisse nach § 399 Abs. 2 Satz 2.
 (2) Ist einer Finanzbehörde nach § 387 Abs. 2 die Zuständigkeit für
 den Bereich mehrerer Finanzbehörden übertragen, so gilt Absatz 1 für
 jede dieser Finanzbehörden.
-
 
 ###### § 403 Beteiligung der Finanzbehörde
 
@@ -11346,10 +10653,7 @@ der Antrag auf Erlass eines Strafbefehls mitzuteilen.
 (4) Erwägt die Staatsanwaltschaft, das Verfahren einzustellen, so hat
 sie die sonst zuständige Finanzbehörde zu hören.
 
-
 ##### IV. - Steuer- und Zollfahndung
-
-
 
 ###### § 404 Steuer- und Zollfahndung
 
@@ -11363,10 +10667,7 @@ der Papiere des von der Durchsuchung Betroffenen (§ 110 Abs. 1 der
 Strafprozessordnung); ihre Beamten sind Ermittlungspersonen der
 Staatsanwaltschaft.
 
-
 ##### V. - Entschädigung der Zeugen und der Sachverständigen
-
-
 
 ###### § 405 Entschädigung der Zeugen und der Sachverständigen
 
@@ -11375,10 +10676,7 @@ Beweiszwecken herangezogen, so erhalten sie eine Entschädigung oder
 Vergütung nach dem Justizvergütungs- und -entschädigungsgesetz. Dies
 gilt auch in den Fällen des § 404.
 
-
 #### 3. Unterabschnitt - Gerichtliches Verfahren
-
-
 
 ##### § 406 Mitwirkung der Finanzbehörde im Strafbefehlsverfahren und im selbständigen Verfahren
 
@@ -11395,7 +10693,6 @@ festzusetzen (§ 401), so nimmt sie die Rechte und Pflichten der
 Staatsanwaltschaft wahr, solange nicht mündliche Verhandlung beantragt
 oder vom Gericht angeordnet wird.
 
-
 ##### § 407 Beteiligung der Finanzbehörde in sonstigen Fällen
 
 (1) Das Gericht gibt der Finanzbehörde Gelegenheit, die Gesichtspunkte
@@ -11411,10 +10708,7 @@ richten.
 (2) Das Urteil und andere das Verfahren abschließende Entscheidungen
 sind der Finanzbehörde mitzuteilen.
 
-
 #### 4. Unterabschnitt - Kosten des Verfahrens
-
-
 
 ##### § 408 Kosten des Verfahrens
 
@@ -11426,10 +10720,7 @@ vereidigten Buchprüfers. Sind Gebühren und Auslagen gesetzlich nicht
 geregelt, so können sie bis zur Höhe der gesetzlichen Gebühren und
 Auslagen eines Rechtsanwalts erstattet werden.
 
-
 ### Vierter Abschnitt - Bußgeldverfahren
-
-
 
 #### § 409 Zuständige Verwaltungsbehörde
 
@@ -11437,7 +10728,6 @@ Bei Steuerordnungswidrigkeiten ist zuständige Verwaltungsbehörde im
 Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten die
 nach § 387 Abs. 1 sachlich zuständige Finanzbehörde. § 387 Abs. 2 gilt
 entsprechend.
-
 
 #### § 410 Ergänzende Vorschriften für das Bußgeldverfahren
 
@@ -11491,7 +10781,6 @@ Gesetzes über Ordnungswidrigkeiten), so kann sie in den Fällen des §
 400 beantragen, den Strafbefehl auf die Steuerordnungswidrigkeit zu
 erstrecken.
 
-
 #### § 411 Bußgeldverfahren gegen Rechtsanwälte, Steuerberater, Steuerbevollmächtigte, Wirtschaftsprüfer oder vereidigte Buchprüfer
 
 Bevor gegen einen Rechtsanwalt, Steuerberater, Steuerbevollmächtigten,
@@ -11501,7 +10790,6 @@ Beratung in Steuersachen begangen hat, ein Bußgeldbescheid erlassen
 wird, gibt die Finanzbehörde der zuständigen Berufskammer Gelegenheit,
 die Gesichtspunkte vorzubringen, die von ihrem Standpunkt für die
 Entscheidung von Bedeutung sind.
-
 
 #### § 412 Zustellung, Vollstreckung, Kosten
 
@@ -11525,10 +10813,7 @@ Landesfinanzbehörde den Bußgeldbescheid erlassen hat; an Stelle des §
 19 des Verwaltungskostengesetzes gelten § 227 Abs. 1 und § 261 dieses
 Gesetzes.
 
-
 ## Neunter Teil - Schlussvorschriften
-
-
 
 ### § 413 Einschränkung von Grundrechten
 
@@ -11538,16 +10823,13 @@ Post- und Fernmeldegeheimnisses (Artikel 10 des Grundgesetzes) und der
 Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) werden
 nach Maßgabe dieses Gesetzes eingeschränkt.
 
-
 ### § 414
 
 (gegenstandslos)
 
-
 ### § 415
 
 (Inkrafttreten)
-
 
 ### Anlage 1 (zu § 60) Mustersatzung für Vereine, Stiftungen, Betriebe gewerblicher Art von juristischen Personen des öffentlichen Rechts, geistliche Genossenschaften und Kapitalgesellschaften (nur aus steuerlichen Gründen notwendige Bestimmungen)
 

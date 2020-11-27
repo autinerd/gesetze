@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 V v. 27.10.2006 I 2403
 
-
 ## Eingangsformel
 
 Auf Grund des § 143 Abs. 1 Nr. 1 bis 3 des Seemannsgesetzes in der im
@@ -29,10 +28,7 @@ Nr. 147 der Internationalen Arbeitsorganisation vom 29. Oktober 1976
 über Mindestnormen auf Handelsschiffen vom 28. April 1980 (BGBl. II S.
 606) wird mit Zustimmung des Bundesrates verordnet:
 
-
 ## Erster Abschnitt - Allgemeine Vorschriften
-
-
 
 ### § 1 Zuständiges Seemannsamt
 
@@ -65,25 +61,17 @@ ergibt, sind zuständig
     Zusammenhang mit der Begründung eines Heuerverhältnisses auf Schiffen
     unter fremder Flagge erhoben werden, jedes darum ersuchte Seemannsamt.
 
-
-
-
-
 ## Zweiter Abschnitt - Seefahrtbuch
-
-
 
 ### § 2 Form des Seefahrtbuches
 
 Seefahrtbücher werden nach dem Muster der Anlage 1 ausgestellt.
-
 
 ### § 3 Verbot der Ausstellung eines Seefahrtbuches
 
 Für Personen, die das fünfzehnte Lebensjahr noch nicht vollendet haben
 oder der Vollzeitschulpflicht unterliegen, darf ein Seefahrtbuch nicht
 ausgestellt werden.
-
 
 ### § 4 Voraussetzungen der Ausstellung des Seefahrtbuches
 
@@ -121,7 +109,6 @@ sind, welche die Versagung eines Reisepasses rechtfertigen.
 Einwilligung des gesetzlichen Vertreters nachzuweisen. Der Nachweis
 ist gegeben, wenn ein gültiger Ausbildungsvertrag vorgelegt wird.
 
-
 ### § 5 Geltungsdauer des Seefahrtbuches
 
 (1) Das Seefahrtbuch wird vorbehaltlich des Absatzes 2 ohne Angabe
@@ -139,7 +126,6 @@ Fassung der Bekanntmachung vom 29. Juni 1976 (BGBl. I S. 1717),
 zuletzt geändert durch Verordnung vom
 11\. Juli 1980 (BGBl. I S. 960),              nicht aufgeführt sind.
 
-
 ### § 6 Bescheinigung früherer Fahrt- und Beschäftigungszeiten
 
 Wird nach § 11 Abs. 3 des Seemannsgesetzes ein neues Seefahrtbuch
@@ -147,7 +133,6 @@ wegen Verlustes des alten ausgestellt, so hat das Seemannsamt auf
 Antrag nachgewiesene frühere Fahrt- oder Beschäftigungszeiten und
 bisherige Rang- und Dienstverhältnisse in dem neuen Seefahrtbuch zu
 bescheinigen.
-
 
 ### § 7 Schließung des Seefahrtbuches
 
@@ -159,15 +144,11 @@ belassen.
 (2) Fallen die Gründe des § 12 Abs. 1 Nr. 2 des Seemannsgesetzes fort,
 so ist auf Antrag ein neues Seefahrtbuch auszustellen.
 
-
 ## Dritter Abschnitt - Musterung und Musterrolle
-
-
 
 ### § 8 Form der Musterrolle
 
 Musterrollen werden nach dem Muster der Anlage 2 ausgestellt.
-
 
 ### § 9 Ausstellung der Musterrolle
 
@@ -185,15 +166,10 @@ Bei der Ausstellung der Musterrolle sind dem Seemannsamt vorzulegen
 
 3.  der Fahrterlaubnisschein der See-Berufsgenossenschaft.
 
-
-
-
-
 ### § 10 Eintragung des Kapitäns in die Musterrolle
 
 Bei der Eintragung des Kapitäns in die Musterrolle hat der Kapitän das
 erforderliche Befähigungszeugnis vorzulegen.
-
 
 ### § 11 Anmusterung
 
@@ -227,23 +203,18 @@ kann die Anmusterung in einer Beilage zur Musterrolle nach dem Muster
 der Anlage 3 bescheinigt werden. Der Kapitän hat die Beilage
 unverzüglich der Musterrolle beizufügen.
 
-
 ### § 12 Ummusterung
 
 Bei einer Ummusterung ist die Berechtigung der Änderung der
 Dienststellung des Besatzungsmitgliedes nachzuweisen. Im übrigen sind
 die in § 11 Abs. 1 genannten Unterlagen vorzulegen.
 
-
 ### § 13 Generalmusterung
 
 Bei einer Generalmusterung sind die §§ 8 bis 11 entsprechend
 anzuwenden.
 
-
 ## Vierter Abschnitt - Verfahren vor dem Seemannsamt bei Entscheidungen
-
-
 
 ### § 14 Allgemeines
 
@@ -253,7 +224,6 @@ die Eignung eines Ersatzmannes nach § 68 und über Beschwerden nach §
 113 des Seemannsgesetzes hat das Seemannsamt nach den §§ 15 bis 19 zu
 verfahren.
 
-
 ### § 15 Mündliche Verhandlung
 
 Das Seemannsamt entscheidet vorbehaltlich des Satzes 2 auf Grund einer
@@ -261,7 +231,6 @@ mündlichen Verhandlung. In den Fällen des § 49 Abs. 1, der §§ 68 und
 113 des Seemannsgesetzes kann das Seemannsamt von einer mündlichen
 Verhandlung absehen, wenn sie den Umständen nach nicht möglich oder
 nicht tunlich ist.
-
 
 ### § 16 Gütlicher Ausgleich
 
@@ -274,7 +243,6 @@ dies sofort erfolgen kann.
 (2) Über einen erzielten Ausgleich ist eine von dem Verhandlungsleiter
 zu unterschreibende Niederschrift zu fertigen und den Parteien auf
 Verlangen eine Abschrift auszuhändigen.
-
 
 ### § 17 Verfahren zur Vorbereitung der Entscheidung des Seemannsamts
 
@@ -303,7 +271,6 @@ Bevollmächtigten vertreten lassen oder eine solche Person als Beistand
 zuziehen. Das Seemannsamt kann das persönliche Erscheinen der Parteien
 anordnen.
 
-
 ### § 18 Verfahren bei der Aufnahme von Beweisen
 
 (1) Die Parteien sind berechtigt, der Beweisaufnahme beizuwohnen.
@@ -319,7 +286,6 @@ Grundgesetzes (§ 9 Nr. 2 des Seemannsgesetzes) sind befugt, Parteien,
 Zeugen und Sachverständige zu beeidigen.
 
 (4) Über die Beweisaufnahme ist eine Niederschrift aufzunehmen.
-
 
 ### § 19 Entscheidung des Seemannsamts
 
@@ -352,10 +318,7 @@ unterschreiben. Die Entscheidung enthält
 (2) Kann die Entscheidung den Parteien nicht unmittelbar übergeben
 werden, ist sie durch die Post zuzustellen.
 
-
 ## Fünfter Abschnitt - Beschwerden im Zusammenhang mit der Begründung eines Heuerverhältnisses auf Schiffen unter fremder Flagge
-
-
 
 ### § 20 Beschwerden deutscher Staatsangehöriger
 
@@ -370,7 +333,6 @@ unverzüglich die zuständige Stelle des Flaggenstaates über die
 Beschwerde und das Ergebnis der Untersuchung. Eine Abschrift ist dem
 Generaldirektor des Internationalen Arbeitsamtes zuzuleiten.
 
-
 ### § 21 Beschwerden ausländischer Staatsangehöriger
 
 Beschwert sich ein Besatzungsmitglied, das nicht Deutscher im Sinne
@@ -383,15 +345,11 @@ an die zuständige Stelle des Flaggenstaates weiterzuleiten. Eine
 Abschrift der Beschwerde ist dem Generaldirektor des Internationalen
 Arbeitsamtes zuzuleiten.
 
-
 ## Sechster Abschnitt - Schlußvorschriften
-
-
 
 ### § 22
 
 (weggefallen)
-
 
 ### § 23 Inkrafttreten
 
@@ -401,18 +359,15 @@ bestimmt.
 
 (2) Die §§ 20 und 21 treten am 28. November 1981 in Kraft.
 
-
 ### Schlußformel
 
 Der Bundesminister für Verkehr
 Der Bundesminister für Arbeit und Sozialordnung
 
-
 ### Anlage 1 (zu § 2) Muster des Seefahrtbuches im Format DIN A 6
 
 (Inhalt: nicht darstellbares Muster,
 Fundstelle: BGBl. I 1981, 1150 - 1153)
-
 
 ### Anlage 2 (zu § 8) Muster der Musterrolle im Format DIN A 4
 
@@ -555,7 +510,6 @@ I                  I                     I         I
 einzutragen. Vollendet das Besatzungsmitglied das 18. Lebensjahr, so
 ist der
 Zusatz zu streichen.
-
 
 ### Anlage 3 (zu § 11 Abs. 3) Muster einer Beilage zur Musterrolle im Format DIN A 4
 

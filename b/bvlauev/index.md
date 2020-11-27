@@ -19,14 +19,12 @@ Fundstelle
 Geändert durch
 :   Art. 6 V v. 29.9.2011 I 1996
 
-
 ## Eingangsformel
 
 Auf Grund des § 65 Satz 1 Nr. 3 des Lebensmittel- und
 Futtermittelgesetzbuches in der Fassung der Bekanntmachung vom 26.
 April 2006 (BGBl. I S. 945) verordnet das Bundesministerium für
 Ernährung, Landwirtschaft und Verbraucherschutz:
-
 
 ## § 1 Aufgabenübertragung
 
@@ -80,14 +78,9 @@ Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit ist
     Lebensmittelzusatzstoffe, -enzyme und -aromen (ABl. L 354 vom
     31\.12.2008, S. 1) in der jeweils geltenden Fassung.
 
-
-
-
-
 ## § 2 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Schlussformel
 

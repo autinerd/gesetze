@@ -19,20 +19,14 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 61 G v. 9.12.2004 I 3242
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art 1 u. 2
 
-
-
 ## Art 3 - Vereinigung der Holz-Berufsgenossenschaften
-
-
 
 ## § 1
 
@@ -41,11 +35,9 @@ Berufsgenossenschaft werden zu einer Berufsgenossenschaft vereinigt.
 Die Berufsgenossenschaft trägt den Namen "Holz-Berufsgenossenschaft"
 und hat ihren Sitz vorläufig in München.
 
-
 ## § 2
 
 -
-
 
 ## § 3
 
@@ -61,7 +53,6 @@ Grundstück zum Vermögen der Holz-Berufsgenossenschaft gehört.
 (2) Absatz 1 gilt für andere im Grundbuch eingetragene Rechte
 entsprechend.
 
-
 ## § 4
 
 (1) Geschäfte und Verhandlungen, die der Durchführung des § 651 der
@@ -74,7 +65,6 @@ für die Kosten eines Rechtsstreites.
 zuständigen Behörde ohne Nachprüfung anzuerkennen, wenn die Holz-
 Berufsgenossenschaft bestätigt, daß die Maßnahme der Durchführung des
 § 651 der Reichsversicherungsordnung dient.
-
 
 ## § 5
 
@@ -124,14 +114,12 @@ Süddeutschen Holz-Berufsgenossenschaft nehmen gemeinsam die Aufgaben
 und Befugnisse des Vorstands der Holz-Berufsgenossenschaft wahr, bis
 dieser zu seiner ersten Sitzung zusammentritt.
 
-
 ## § 6
 
 Bis zur Wahl des Geschäftsführers der Holz-Berufsgenossenschaft nehmen
 die Geschäftsführer der Norddeutschen Holz-Berufsgenossenschaft und
 der Süddeutschen Holz-Berufsgenossenschaft jeweils für ihren Bereich
 die Aufgaben des Geschäftsführers der Holz-Berufsgenossenschaft wahr.
-
 
 ## § 7
 
@@ -142,7 +130,6 @@ dieser Vorschriften gelten die Vorschriften der Norddeutschen Holz-
 Berufsgenossenschaft und der Süddeutschen Holz-Berufsgenossenschaft in
 ihren Bereichen weiter.
 
-
 ## § 8
 
 Die im Zeitpunkt der Vereinigung im Amt befindlichen Personalräte der
@@ -152,10 +139,7 @@ Personalvertretungsgesetz durchzuführenden Wahl der
 Personalvertretung, längstens jedoch sechs Monate nach der
 Vereinigung, im Amt.
 
-
 ## Art 4 - Übergangs- und Schlußvorschriften
-
-
 
 ## § 1
 
@@ -164,11 +148,9 @@ Rentenversicherung der Arbeiter bei Inkrafttreten dieses Gesetzes
 Körperschaftsbeamte sind, verbleibt es vorbehaltlich einer
 landesgesetzlichen Regelung hierbei.
 
-
 ## § 2
 
 -
-
 
 ## § 3
 
@@ -177,7 +159,6 @@ Durchführung erlassenen Vorschriften gelten im Saarland in der im
 übrigen Bundesgebiet geltenden Fassung; entgegenstehende und
 inhaltsgleiche Vorschriften treten außer Kraft.
 
-
 ## § 4
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
@@ -185,7 +166,6 @@ Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes
 erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 Überleitungsgesetzes.
-
 
 ## § 5
 

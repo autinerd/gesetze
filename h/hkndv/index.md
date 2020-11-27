@@ -22,7 +22,6 @@ Fundstelle
     anschließenden Aufhebung der Richtlinie 2001/77/EG und 2003/30/EG
     (ABl. L 140 vom 5.6.2009, S. 16).
 
-
 ## Eingangsformel
 
 Auf Grund des § 64d Nummer 1 bis 4 des Erneuerbare-Energien-Gesetzes,
@@ -36,9 +35,7 @@ Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und
 Reaktorsicherheit und dem Bundesministerium für Wirtschaft und
 Technologie:
 
-
 ## Abschnitt 1 - Allgemeine Vorschriften
-
 
 ### § 1 Registerführung
 
@@ -47,7 +44,6 @@ elektronische Datenbank, in der die Ausstellung inländischer
 Herkunftsnachweise, die Anerkennung ausländischer Herkunftsnachweise
 sowie die Übertragung und Entwertung in- und ausländischer
 Herkunftsnachweise registriert werden.
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -113,13 +109,6 @@ Im Sinne dieser Verordnung bedeutet:
         Bereichen verfügen, nach Maßgabe von § 18 Absatz 1 und 2 des
         Umweltauditgesetzes.
 
-
-
-
-
-
-
-
 ### § 3 Betrieb des Registers
 
 (1) Registerteilnehmerinnen und Registerteilnehmer sind verpflichtet,
@@ -151,7 +140,6 @@ Herkunftsnachweisen auftreten, sowie Fehler in Anlagen- und
 Registerteilnehmerdaten zu korrigieren. Die Registerverwaltung ist
 zudem berechtigt, die notwendigen Maßnahmen zu ergreifen, um künftige
 Fehler im Sinne von Satz 1 zu verhindern.
-
 
 ### § 4 Kontoeröffnung
 
@@ -243,7 +231,6 @@ abzulehnen, wenn der Antragsteller von der Teilnahme am Register nach
 wenn die Voraussetzungen für eine Sperrung des Kontos nach § 30 Absatz
 2 oder für eine Schließung des Kontos nach § 31 Absatz 2 vorliegen.
 
-
 ### § 5 Dienstleister
 
 (1) Die Kontoinhaberin oder der Kontoinhaber ist berechtigt, entweder
@@ -275,12 +262,9 @@ Registerverwaltung wiederholt falsche Angaben gemacht hat. Der
 Dienstleister wird auf Antrag wieder zugelassen, wenn die den
 Ausschluss rechtfertigenden Gründe entfallen sind.
 
-
 ## Abschnitt 2 - Ausstellung von Herkunftsnachweisen und Registrierung von Anlagen
 
-
 ### Unterabschnitt 1 - Ausstellung von Herkunftsnachweisen
-
 
 #### § 6 Ausstellung von Herkunftsnachweisen
 
@@ -380,7 +364,6 @@ Anlagenbetreiber keine Entwertung gemäß § 17 Absatz 6 beantragt hat,
 die Ausstellung von Herkunftsnachweisen in entsprechendem Umfang
 verweigern.
 
-
 #### § 7 Ausstellung von Herkunftsnachweisen für Strom aus Pumpspeicherkraftwerken
 
 (1) Für Strom aus erneuerbaren Energien, der in
@@ -409,7 +392,6 @@ die sich gemäß den Absätzen 1 und 2 ergebende, für die Ausstellung von
 Herkunftsnachweisen relevante Strommenge anzugeben und durch einen
 Umweltgutachter oder eine Umweltgutachterorganisation bestätigen zu
 lassen.
-
 
 #### § 8 Inhalt des Herkunftsnachweises
 
@@ -467,7 +449,6 @@ und abschließende Vorgaben zum Inhalt der von der Anlagenbetreiberin
 oder dem Anlagenbetreiber nach den Absätzen 2 und 3 beantragten
 Aufnahme von zusätzlichen Angaben zu machen.
 
-
 #### § 9 Festlegung des Erzeugungszeitraums
 
 (1) Auf dem Herkunftsnachweis sind der Beginn und das Ende der
@@ -485,9 +466,7 @@ des Erzeugungszeitraums der erste Tag nach der vorletzten Ablesung der
 Stromerzeugungsdaten und als Ende des Erzeugungszeitraums der Tag der
 letzten Ablesung der Stromerzeugungsdaten anzugeben.
 
-
 ### Unterabschnitt 2 - Registrierung von Anlagen
-
 
 #### § 10 Erstmalige Anlagenregistrierung
 
@@ -602,7 +581,6 @@ Registerverwaltung die folgenden Daten elektronisch übermittelt:
 übereinstimmen, die der Netzbetreiber gemäß § 22 Absatz 1 und 3
 übermittelt hat.
 
-
 #### § 11 Umweltgutachtereinsatz bei Anlagenregistrierung
 
 (1) Folgende Anlagen mit einer Leistung über
@@ -658,7 +636,6 @@ registriert werden (vorläufige Anlagenregistrierung). Die Bestätigung
 ist spätestens zwölf Monate nach der Inbetriebnahme nachzureichen,
 anderenfalls erlischt die vorläufige Anlagenregistrierung.
 
-
 #### § 12 Änderung von Anlagendaten
 
 (1) Sofern sich die nach § 10 Absatz 2 mitgeteilten Daten ändern, ist
@@ -684,7 +661,6 @@ aber nicht mit den vom Netzbetreiber gemäß § 22 Absatz 1 und 3
 übermittelten Daten übereinstimmen, werden keine Herkunftsnachweise
 für die in der betreffenden Anlage erzeugte Strommenge ausgestellt.
 
-
 #### § 13 Registrierung mehrerer Anlagen als eine Anlage
 
 (1) Werden mehrere Anlagen im Sinne des § 3 Nummer 1 des Erneuerbare-
@@ -699,7 +675,6 @@ Daten nur für die Gesamtanlage zu übermitteln.
 Anlage, die gemäß Absatz 1 Satz 1 registriert wurde, wird als
 Inbetriebnahmezeitpunkt der Zeitpunkt der Inbetriebnahme der ältesten
 Anlage gemäß § 3 Nummer 1 des Erneuerbare-Energien-Gesetzes angegeben.
-
 
 #### § 14 Gültigkeitsdauer der Anlagenregistrierung; erneute Anlagenregistrierung
 
@@ -717,7 +692,6 @@ ursprünglichen Anlagenregistrierung beantragt werden. Wird die erneute
 Registrierung der Anlage nicht innerhalb von zwei Monaten nach Ablauf
 der Gültigkeitsdauer der ursprünglichen Anlagenregistrierung
 beantragt, so kann eine neue Registrierung nur gemäß § 10 erfolgen.
-
 
 #### § 15 Erlöschen der Anlagenregistrierung und Wechsel der Anlagenbetreiberin oder des Anlagenbetreibers
 
@@ -750,9 +724,7 @@ Registerverwaltung mitzuteilen, dass sie oder er nicht mehr
 Betreiberin oder Betreiber der Anlage sein wird. Dies ist unverzüglich
 nach Bekanntwerden mitzuteilen.
 
-
 ## Abschnitt 3 - Übertragung und Entwertung von Herkunftsnachweisen
-
 
 ### § 16 Übertragung von Herkunftsnachweisen
 
@@ -784,7 +756,6 @@ Kontoinhaberin oder eines anderen Kontoinhabers ist unzulässig, wenn
 der Erwerberin oder dem Erwerber beim Erwerb des Herkunftsnachweises
 bekannt war, dass die für die Ausstellung erforderliche Strommenge aus
 erneuerbaren Energien nicht erzeugt wurde.
-
 
 ### § 17 Verwendung und Entwertung von Herkunftsnachweisen
 
@@ -838,9 +809,7 @@ schwerwiegenden und offensichtlichen Fehler leiden. Im Antrag ist der
 Entwertungszweck entsprechend anzugeben. Eine Verwendung dieser
 Herkunftsnachweise ist unzulässig.
 
-
 ## Abschnitt 4 - Anerkennung ausländischer Herkunftsnachweise
-
 
 ### § 18 Anerkennung ausländischer Herkunftsnachweise
 
@@ -889,7 +858,6 @@ mit und begründet ihre Entscheidung.
 Registers ausgestellt worden sind, erkennt die Registerverwaltung an,
 soweit sie den Vorgaben des Absatzes 1 entsprechen.
 
-
 ### § 19 Übertragung anerkannter Herkunftsnachweise
 
 (1) Die Registerverwaltung überträgt nach § 18 anerkannte ausländische
@@ -919,9 +887,7 @@ Herkunftsnachweises ab, da die Voraussetzungen des Absatzes 1 oder des
 § 18 Absatz 1 nicht vorliegen, teilt sie die Ablehnung der ins Inland
 übertragenden registerführenden Stelle mit.
 
-
 ## Abschnitt 5 - Pflichten von Registerteilnehmerinnen und Registerteilnehmern sowie von Nutzerinnen und Nutzern
-
 
 ### § 20 Allgemeine Mitteilungs- und Mitwirkungspflichten
 
@@ -930,7 +896,6 @@ und Nutzer haben, wenn sich Daten geändert haben, zu deren
 Übermittlung an die Registerverwaltung sie verpflichtet sind, diese
 Änderungen vollständig und unverzüglich der Registerverwaltung zu
 übermitteln.
-
 
 ### § 21 Mitteilungs- und Mitwirkungspflichten von Kontoinhaberinnen und Kontoinhabern
 
@@ -960,7 +925,6 @@ zu korrigieren.
 Registerverwaltung das Erlöschen einer gegenüber der
 Registerverwaltung erklärten Bevollmächtigung unverzüglich
 mitzuteilen.
-
 
 ### § 22 Übermittlungs- und Mitteilungspflichten der Netzbetreiber
 
@@ -1040,7 +1004,6 @@ Daten zu den beim Register registrierten oder zu registrierenden
 Anlagen zu übermitteln sind, sofern die Daten für die Registerführung
 erforderlich sind.
 
-
 ### § 23 Mitteilungspflichten von Anlagenbetreiberinnen und Anlagenbetreibern
 
 (1) Anlagenbetreiberinnen und Anlagenbetreiber, denen gemäß § 6
@@ -1079,7 +1042,6 @@ nach den Absätzen 1 bis 3 nicht nach, kann die Registerverwaltung die
 ihnen auf Basis der nicht bestätigten Daten ausgestellten
 Herkunftsnachweise ohne Antrag entwerten. Eine Verwendung dieser
 entwerteten Herkunftsnachweise ist unzulässig.
-
 
 ### § 24 Tätigkeit von Umweltgutachtern und Umweltgutachterorganisationen
 
@@ -1134,7 +1096,6 @@ Umweltgutachtern und Umweltgutachterorganisationen hinsichtlich von
 ihnen im Register ausgelöster Prozesse für Verfahren der
 diesbezüglichen Authentifizierung zu erheben.
 
-
 ### § 25 Vorlage weiterer Unterlagen
 
 (1) Zur stichprobenartigen Überprüfung darf die Registerverwaltung von
@@ -1164,9 +1125,7 @@ Kosten für den Umweltgutachter oder die Umweltgutachterorganisation
 eine unzumutbare Härte für die betroffene Anlagenbetreiberin oder den
 betroffenen Anlagenbetreiber darstellen würde.
 
-
 ## Abschnitt 6 - Datenschutz
-
 
 ### § 26 Datenerhebung
 
@@ -1175,7 +1134,6 @@ Die Registerverwaltung ist befugt, die Daten nach § 4 Absatz 3 bis 5,
 Absatz 1, § 14 Absatz 2, § 17 Absatz 6, § 18 Absatz 1, § 21, § 22, §
 24 und § 25 Absatz 1 zu erheben, zu speichern und zu nutzen, soweit
 dies zur Registerführung erforderlich ist.
-
 
 ### § 27 Datenübermittlung
 
@@ -1254,15 +1212,12 @@ zulässig. Die Übermittlung dieser Daten an die Stellen nach Absatz 1
 Nummer 2 Buchstabe b ist nur bei Vorliegen der Voraussetzungen des §
 4c des Bundesdatenschutzgesetzes zulässig.
 
-
 ### § 28 Löschung von Daten
 
 Im Register gespeicherte Daten sind unverzüglich zu löschen, wenn sie
 für das Führen des Registers nicht mehr erforderlich sind.
 
-
 ## Abschnitt 7 - Sonstige Vorschriften
-
 
 ### § 29 Ordnungswidrigkeiten
 
@@ -1310,10 +1265,6 @@ fahrlässig
 
 10. entgegen § 25 Absatz 1 Satz 4 eine dort genannte Bestätigung nicht
     oder nicht rechtzeitig übermittelt.
-
-
-
-
 
 ### § 30 Sperrung des Kontos
 
@@ -1375,7 +1326,6 @@ danach.
 mehr besteht. Die Registerverwaltung unterrichtet die Kontoinhaberin
 oder den Kontoinhaber über die Entsperrung.
 
-
 ### § 31 Schließung des Kontos
 
 (1) Die Registerverwaltung schließt das Konto, wenn für die Führung
@@ -1411,7 +1361,6 @@ dem Konto zugeordnet ist,
 
 (3) Mit der Schließung des Kontos werden noch vorhandene
 Herkunftsnachweise entwertet.
-
 
 ### § 32 Ausschluss von der Teilnahme am Register
 
@@ -1449,12 +1398,10 @@ autorisierten oder einer missbräuchlichen Verwendung des
 Authentifizierungsinstruments besteht. § 30 Absatz 2 und 5 ist
 entsprechend anzuwenden.
 
-
 ### § 33 Ausschluss des Widerspruchsverfahrens
 
 Gegen Maßnahmen und Entscheidungen der Registerverwaltung nach dieser
 Rechtsverordnung findet kein Widerspruchsverfahren statt.
-
 
 ### § 34 Nutzungsbedingungen
 
@@ -1462,7 +1409,6 @@ Die Registerverwaltung ist berechtigt, im Rahmen ihrer Kompetenz zur
 Registerführung durch Allgemeinverfügung weitere konkretisierende
 Bedingungen und Spezifikationen zur Nutzung des Registers zu erlassen.
 Die Allgemeinverfügung kann öffentlich bekannt gemacht werden.
-
 
 ### § 35 Inkrafttreten
 

@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   GBl DDR I: 1990, 1611
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 81 Abs. 1 Nr. 1, 3 und 4 sowie der Absätze 2 und 3 des
@@ -24,7 +22,6 @@ Gesetzes vom 20. Juli 1990 über die Bauordnung (BauO) (GBl. I Nr. 50
 S. 929) in Verbindung mit § 2 Abs. 2 des Gesetzes vom 20. Juli 1990
 zur Einführung des Gesetzes vom 20. Juli 1990 über die Bauordnung
 (BauO) (GBl. I Nr. 50 S. 950) wird folgendes angeordnet:
-
 
 ## (XXXX)
 
@@ -188,13 +185,7 @@ zur Einführung des Gesetzes vom 20. Juli 1990 über die Bauordnung
 
     *   Inkrafttreten
 
-
-
-
-
 ## Teil I - Allgemeine Vorschriften
-
-
 
 ### § 1 Begriffe
 
@@ -238,13 +229,7 @@ anderes bestimmt ist.
 3.  über 1.000
     qm Großgaragen.
 
-
-
-
-
 ## Teil II - Bauvorschriften
-
-
 
 ### § 2 Zu- und Abfahrten
 
@@ -279,7 +264,6 @@ die dazugehörigen Verkehrsflächen der Nutzfläche zuzurechnen.
 (7) Für Zu- und Abfahrten von Stellplätzen gelten die Absätze 2 bis 5
 sinngemäß.
 
-
 ### § 3 Rampen
 
 (1) Rampen von Mittel- und Großgaragen dürfen nicht mehr als 15 v.H.
@@ -300,7 +284,6 @@ Fußgängern nicht benutzt werden dürfen, ist auf das Verbot
 hinzuweisen.
 
 (4) Für Rampen von Stellplätzen gelten die Absätze 1 bis 3 sinngemäß.
-
 
 ### § 4 Einstellplätze und Verkehrsflächen
 
@@ -382,13 +365,11 @@ können Ausnahmen von den Absätzen 1 und 2 gestattet werden, wenn die
 Verkehrssicherheit nicht beeinträchtigt wird und eine Breite der
 Fahrgasse von mindestens 2,75 m erhalten bleibt.
 
-
 ### § 5 Lichte Höhe
 
 Mittel- und Großgaragen müssen in zum Begehen bestimmten Bereichen,
 auch unter Unterzügen, Lüftungsleitungen und sonstigen Bauteilen eine
 lichte Höhe von mindestens 2 m haben.
-
 
 ### § 6 Tragende Wände, Decken, Dächer
 
@@ -452,10 +433,6 @@ Garagen müssen
 
 2.  bei Mittelgaragen mindestens schwerentflammbar sein.
 
-
-
-
-
 ### § 7 Außenwände
 
 (1) Außenwände von Mittel- und Großgaragen müssen aus nichtbrennbaren
@@ -476,7 +453,6 @@ soweit sich aus § 27 BauO nichts anderes ergibt.
 
 (3) Auf Außenwände von offenen Kleingaragen findet § 6 Abs. 7 BauO
 keine Anwendung.
-
 
 ### § 8 Trennwände
 
@@ -505,10 +481,6 @@ soweit sich aus § 28 BauO keine weitergehenden Anforderungen ergeben.
 2.  zwischen offenen Kleingaragen und anders genutzten Räumen oder
     Gebäuden.
 
-
-
-
-
 ### § 9 Brandwände
 
 (1) Anstelle von Brandwänden nach § 29 Abs. 1 Nr. 1 BauO genügen
@@ -529,11 +501,9 @@ soweit sich aus § 28 BauO keine weitergehenden Anforderungen ergeben.
 (2) § 29 Abs. 1 Nr. 1 BauO gilt nicht für Abschlußwände von offenen
 Kleingaragen.
 
-
 ### § 10 Pfeiler und Stützen
 
 Für Pfeiler und Stützen gelten die §§ 6 bis 9 sinngemäß.
-
 
 ### § 11 Rauchabschnitte
 
@@ -561,7 +531,6 @@ Raucheinwirkung ein selbsttätiges Schließen bewirken; sie müssen auch
 von Hand geschlossen werden können.
 
 (3) § 29 Abs. 1 Nr. 2 BauO gilt nicht für Garagen.
-
 
 ### § 12 Verbindungen zu Garagen und zwischen Garagengeschossen
 
@@ -601,7 +570,6 @@ selbstschließenden und mindestens feuerhemmenden Türen verbunden sein.
 verbinden, müssen selbstschließend, mindestens feuerhemmend und aus
 nichtbrennbaren Baustoffen sein.
 
-
 ### § 13 Rettungswege
 
 (1) Jede Mittel- und Großgarage muß in jedem Geschoß mindestens zwei
@@ -636,7 +604,6 @@ sowie an den Wänden durch beleuchtete Hinweise gekennzeichnet sein.
 
 (4) Für Dacheinstellplätze gelten die Absätze 1 bis 3 sinngemäß.
 
-
 ### § 14 Beleuchtung
 
 (1) In Mittel- und Großgaragen muß eine allgemeine elektrische
@@ -654,7 +621,6 @@ selbsttätig innerhalb von 15 Sekunden einschaltende Ersatzstromquelle
 haben, die für einen mindestens einstündigen Betrieb ausgelegt ist.
 Die Beleuchtungsstärke der Sicherheitsbeleuchtung muß mindestens 1 Lux
 betragen.
-
 
 ### § 15 Lüftung
 
@@ -743,7 +709,6 @@ Während dieses Zeitraumes müssen die Garagenausfahrten ständig offen
 gehalten werden. Die CO-Warnanlagen müssen an eine Ersatzstromquelle
 angeschlossen sein.
 
-
 ### § 16 Feuerlöschanlagen
 
 (1) Mittel- und Großgaragen müssen in Geschossen, deren Fußboden im
@@ -758,17 +723,13 @@ wenn das Gebäude nicht allein der Garagennutzung dient. Das gilt
 nicht, wenn die Großgarage zu Geschossen mit anderer Nutzung in keiner
 Verbindung steht.
 
-
 ### § 17 Brandmeldeanlagen
 
 Geschlossene Mittel- und Großgaragen müssen Brandmeldeanlagen haben,
 wenn sie in Verbindung stehen mit baulichen Anlagen oder Räumen, für
 die Brandmeldeanlagen erforderlich sind.
 
-
 ## Teil III - Betriebsvorschriften
-
-
 
 ### § 18 Betriebsvorschriften für Garagen
 
@@ -787,7 +748,6 @@ werden, daß sie ständig betriebsbereit sind.
 Kraftfahrzeugen nicht aufbewahrt werden. In Kleingaragen dürfen bis zu
 200 l Dieselkraftstoff und bis zu 20 l Benzin in dicht verschlossenen,
 bruchsicheren Behältern aufbewahrt werden.
-
 
 ### § 19 Abstellen von Kraftfahrzeugen in anderen Räumen als Garagen
 
@@ -812,13 +772,7 @@ nur abgestellt werden, wenn
 
 4.  die Kraftfahrzeuge Arbeitsmaschinen sind.
 
-
-
-
-
 ## Teil IV - Zusätzliche Bauvorlagen, Prüfungen
-
-
 
 ### § 20 Zusätzliche Bauvorlagen
 
@@ -838,10 +792,6 @@ Die Bauvorlagen müssen zusätzliche Angaben enthalten über:
 
 
 5.  die Sicherheitsbeleuchtung.
-
-
-
-
 
 ### § 21 Prüfungen
 
@@ -873,10 +823,7 @@ zu treffen hat.
 Jahre aufzubewahren und der Bauaufsichtsbehörde auf Verlagen
 vorzulegen.
 
-
 ## Teil V - Schlußvorschriften
-
-
 
 ### § 22 Ausnahmen und weitergehende Anforderungen
 
@@ -891,7 +838,6 @@ Betriebssicherheit und des Brandschutzes Bedenken nicht bestehen.
 Erfüllung des § 3 BauO gestellt werden, soweit Garagen oder
 Stellplätze für Kraftfahrzeuge bestimmt sind, deren Länge mehr als 5 m
 und deren Breite mehr als 2 m beträgt.
-
 
 ### § 23 Ordnungswidrigkeiten
 
@@ -909,21 +855,15 @@ fahrlässig
 3.  entgegen § 21 Abs. 1 die vorgeschriebenen Prüfungen nicht oder nicht
     rechtzeitig durchführen läßt.
 
-
-
-
-
 ### § 24 Übergangsvorschriften
 
 Auf die zum Zeitpunkt des Inkrafttretens dieser Anordnung bestehenden
 Garagen sind die Betriebsvorschriften (§ 18) sowie die Vorschriften
 über Prüfungen (§ 21) entsprechend anzuwenden.
 
-
 ### § 25 Inkrafttreten
 
 Diese Anordnung tritt am Tage nach der Veröffentlichung in Kraft.
-
 
 ### Schlußformel
 

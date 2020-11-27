@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1989, 701
 
-
-
 ## Eingangsformel
 
 Auf Grund des Artikels 3 des Gesetzes vom 22. Juni 1954 über den
@@ -27,7 +25,6 @@ Nationen vom 21. November 1947 und über die Gewährung von Vorrechten
 und Befreiungen an andere zwischenstaatliche Organisationen (BGBl.
 1954 II S. 639), der durch das Gesetz vom 16. August 1980 (BGBl. II S.
 941) neu gefaßt wurde, verordnet die Bundesregierung:
-
 
 ## Art 1
 
@@ -40,7 +37,6 @@ Nutzung von meteorologischen Satelliten (EUMETSAT), in folgendem
 Protokoll genannt. Das Protokoll wird nachstehend mit einer amtlichen
 deutschen Übersetzung veröffentlicht.
 
-
 ## Art 2
 
 Deutsche im Sinne des Artikels 116 Abs. 1 des Grundgesetzes, die
@@ -50,14 +46,12 @@ sowie Personen mit ständigem Aufenthalt im Geltungsbereich dieser
 Verordnung genießen nach Maßgabe des Artikels 20 des Protokolls keine
 Vorrechte und Immunitäten.
 
-
 ## Art 3
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit Artikel 4 des in der Eingangsformel genannten Gesetzes
 vom 22. Juni 1954, der durch das Gesetz vom 28. Februar 1964 (BGBl. II
 S. 187) neu gefaßt wurde, auch im Land Berlin.
-
 
 ## Art 4
 
@@ -69,13 +63,11 @@ das Protokoll in Bezug auf Steuern für die Zeit vor Inkrafttreten
 dieser Verordnung anzuwenden ist, sind bereits ergangene
 Steuerfestsetzungen aufzuheben oder zu ändern.
 
-
 ## Art 5
 
 Diese Verordnung tritt an dem Tage außer Kraft, an dem das Protokoll
 für die Bundesrepublik Deutschland außer Kraft tritt. Der Tag des
 Außerkrafttretens ist im Bundesgesetzblatt bekanntzugeben.
-
 
 ## Schlußformel
 

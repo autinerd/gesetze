@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 2424
 
-
 ## § 1 Bundesaufsichtsamt für Flugsicherung
 
 (1) Es wird ein Bundesaufsichtsamt für Flugsicherung als nationale
@@ -91,7 +90,6 @@ diesen Bereichen Anhaltspunkte für einen Verstoß gegen ein
 gesetzliches Verbot oder Gebot im Zusammenhang mit der
 privatrechtlichen Betätigung vorliegen. Das Grundrecht der
 Unverletzlichkeit der Wohnung wird insoweit eingeschränkt.
-
 
 ## § 2 Übergangsregelungen
 

@@ -19,14 +19,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 12.12.2011 I 2684
 
-
 ## Eingangsformel
 
 Auf Grund des § 8 Abs. 3 Satz 1 und 2 des Einlagensicherungs- und
 Anlegerentschädigungsgesetzes vom 16. Juli 1998 (BGBl. I S. 1842)
 verordnet das Bundesministerium der Finanzen nach Anhörung der
 Entschädigungseinrichtung deutscher Banken GmbH:
-
 
 ## § 1 Jahresbeitrag
 
@@ -146,7 +144,6 @@ sind oder zugeordnet waren, unabhängig von der Dauer der Zuordnung.
 seines haftenden Eigenkapitals nach § 10 Absatz 2 Satz 2 des
 Kreditwesengesetzes.
 
-
 ## § 2 Einmalige Zahlung
 
 (1) Institute, die nach dem 1. August 1998 der
@@ -198,7 +195,6 @@ Aufforderung durch die Entschädigungseinrichtung die zugrunde zu
 legende Bilanz der Entschädigungseinrichtung unverzüglich, spätestens
 innerhalb von zwei Wochen, zur Verfügung zu stellen.
 
-
 ## § 3 Modifikation der einmaligen Zahlung
 
 (1) Der Entschädigungseinrichtung zugeordnete Institute, die durch
@@ -220,10 +216,7 @@ die im Wege der Spaltung oder sonst durch Übertragung des Vermögens
 entstanden sind. Im Fall der Spaltung ist die Zahlung nach Absatz 2
 von den beteiligten Instituten anteilig zu leisten.
 
-
 ## § 4 (weggefallen)
-
-
 
 ## § 4 Ermittlung des Bonitätsfaktors
 
@@ -285,7 +278,6 @@ maßgebliche Bonitätsfaktor des jeweiligen Instituts sodann wie folgt:
 Geschäftsjahren abweichend von den Absätzen 1 und 2 der Bonitätsfaktor
 1,1. Die §§ 5 bis 7 sind insoweit nicht anzuwenden.
 
-
 ## § 5 Bonitätseinschätzung auf Grundlage von Kennzahlen
 
 (1) Die Entschädigungseinrichtung nimmt die Bonitätseinschätzung auf
@@ -325,7 +317,6 @@ der Entschädigungseinrichtung nur berücksichtigt, wenn sich die
 Einwendungen des Abschlussprüfers nicht auf die für die
 Bonitätseinschätzung maßgeblichen Kennzahlen nach Anlage 1 Nummer 1
 beziehen.
-
 
 ## § 6 Bonitätseinschätzung auf Grundlage von Ratings
 
@@ -382,7 +373,6 @@ im Sinne des § 53 Absatz 1 Satz 1 des Kreditwesengesetzes, die ein
 Rating ihres Unternehmens mit Sitz im Ausland vorlegen, wenn dieses
 Rating die Anforderungen des Absatzes 2 Satz 1 und 2 erfüllt.
 
-
 ## § 7 Vorlagepflicht, vorläufige Festsetzung und Ausschlussfrist
 
 (1) Die Institute sind verpflichtet, der Entschädigungseinrichtung die
@@ -418,7 +408,6 @@ Bonitätseinschätzung bis zum Ablauf der Frist nicht nachgereicht hat.
 
 (3) Die in Absatz 2 Satz 1 genannte Frist ist eine Ausschlussfrist.
 
-
 ## § 8 Übergangsvorschrift
 
 (1) § 1 in der ab dem 26. August 2009 geltenden Fassung ist erstmals
@@ -437,11 +426,9 @@ Entschädigungseinrichtung vor dem 16. Dezember 2011 zugeordnet worden
 sind, weiter nach den §§ 2 und 3 dieser Verordnung in der bis zum 15.
 Dezember 2011 geltenden Fassung zu erheben.
 
-
 ## § 9 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Anlage 1 (zu § 5 Absatz 1 und 2 Satz 3)
 
@@ -676,10 +663,6 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
     Verfahren (Diskriminanz-Analyse) zu einer optimierten Funktion
     entwickelt, die im Rahmen regelmäßiger Validierungs- und Backtesting-
     Verfahren soweit erforderlich angepasst und weiterentwickelt wird.
-
-
-
-
 
 ## Anlage 2 (zu § 6 Absatz 1)
 

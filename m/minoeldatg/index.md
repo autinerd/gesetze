@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 G v. 16.1.2012 I 74
 
-
 ## § 1 Erhebungszweck, Zuständigkeit
 
 Zur Sicherstellung des Vollzugs des Gesetzes zu dem Übereinkommen vom
@@ -32,7 +31,6 @@ ausreichenden Versorgung mit Erdöl und Erdölerzeugnissen zu
 Wettbewerbspreisen, erhebt das Bundesamt für Wirtschaft und
 Ausfuhrkontrolle (BAFA) von den Unternehmen der Mineralölwirtschaft
 Meldungen.
-
 
 ## § 2 Meldepflichtige
 
@@ -80,7 +78,6 @@ Erdölerzeugnissen im Geltungsbereich dieses Gesetzes, kann das
 Bundesamt für Wirtschaft und Ausfuhrkontrolle auch denjenigen, der von
 dem Gebietsfremden mit der Lagerung seiner Bestände beauftragt worden
 ist, zur Abgabe von Meldungen verpflichten.
-
 
 ## § 3 Meldepflichten
 
@@ -153,7 +150,6 @@ und Betriebsgrundstücken und Einsicht in Unterlagen und
 Aufzeichnungen, die im Zusammenhang mit der Meldepflicht stehen, zu
 gewähren.
 
-
 ## § 4 Verordnungsermächtigung
 
 Das Bundesministerium für Wirtschaft und Technologie wird ermächtigt,
@@ -161,7 +157,6 @@ durch Rechtsverordnung die Meldepflichten nach § 3 Abs. 1 zu ändern
 oder auszuweiten, soweit es zur zeitnahen Erfassung von Erdöl und
 Erdölerzeugnissen nach Art und Menge für die in § 1 bestimmten Zwecke
 erforderlich ist.
-
 
 ## § 5 Geheimhaltung, Weiterleitung
 
@@ -179,7 +174,6 @@ Europäischen Union und die Internationale Energie-Agentur
 weitergeleitet werden, soweit dies zur Erfüllung dieses Gesetzes
 erforderlich ist.
 
-
 ## § 6 Bußgeldvorschrift
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig als nach §
@@ -195,16 +189,13 @@ Euro geahndet werden.
 über Ordnungswidrigkeiten ist das Bundesamt für Wirtschaft und
 Ausfuhrkontrolle (BAFA).
 
-
 ## § 7
 
 -
 
-
 ## § 8
 
 (weggefallen)
-
 
 ## § 9 Inkrafttreten
 

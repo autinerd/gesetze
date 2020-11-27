@@ -23,7 +23,6 @@ Geändert durch
 Die v tritt gem. § 4 satz 2 am 15.3.2001 außer kraft, sofern nicht mit zustimmung des bundesrates etwas anderes verordnet wird. § 4 satz 2 aufgeh. mit zustimmung des bundesrates durch
 :   V v. 8.3.2001 BAnz. Nr. 50, 3829; dadurch ist die Geltung der V über den 15.3.2001 hinaus verlängert worden.
 
-
 ## Eingangsformel
 
 Auf Grund des § 6 Abs. 1 Nr. 7 und 19 und der §§ 15 und 16, jeweils in
@@ -37,7 +36,6 @@ des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S.
 und Forsten im Einvernehmen mit den Bundesministerien der Finanzen und
 für Wirtschaft und Technologie:
 
-
 ## § 1 Anwendungsbereich
 
 Im Wirtschaftsjahr 2000/2001 kommt die in Artikel 2 Abs. 6 der
@@ -45,7 +43,6 @@ Verordnung (EG) Nr. 1251/1999 des Rates vom 17. Mai 1999 zur
 Einführung einer Stützungsregelung für Erzeuger bestimmter
 landwirtschaftlicher Kulturpflanzen (ABl. EG Nr. L 160 S. 1)
 vorgesehene Regelung zur Anwendung.
-
 
 ## § 2 Definitionen
 
@@ -74,10 +71,6 @@ die in Anhang VI der Verordnung (EG) Nr. 2316/1999 ausgewiesenen
 
 2.  Grundflächen für Mais im Falle des Absatzes 1 Nr. 2.
 
-
-
-
-
 ## § 3 Konzentration der Sanktionen
 
 Im Falle der Überschreitung einer nationalen Grundfläche sind die in
@@ -85,11 +78,9 @@ Artikel 2 Abs. 4 der Verordnung (EG) Nr. 1251/1999 vorgesehenen
 Maßnahmen auf die Teilgrundflächen anzuwenden, deren Überschreitung
 festgestellt wurde.
 
-
 ## § 4 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlussformel
 

@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. Art. 5 G v. 17.3.2008 I 399
 
-
 ## § 1 Zweck, Umfang
 
 (1) Zur Darstellung der Entwicklung der wirtschaftlichen Tätigkeit im
@@ -29,7 +28,6 @@ Bundesstatistik durchgeführt.
 höchstens 15 Prozent aller Erhebungseinheiten nach § 2 Abs. 2
 durchgeführt werden. Die Erhebungseinheiten werden nach mathematisch-
 statistischen Verfahren ausgewählt.
-
 
 ## § 2 Erhebungsbereiche, Erhebungseinheiten
 
@@ -72,7 +70,6 @@ nach Absatz 1 tätig sind.
 (3) Zu der freiberuflichen Tätigkeit nach Absatz 2 gehört die
 selbständige Berufstätigkeit von Angehörigen der in § 18 Abs. 1 Nr. 1
 Satz 2 des Einkommensteuergesetzes bezeichneten Berufe.
-
 
 ## § 3 Erhebungsmerkmale, Berichtszeitraum, Berichtszeitpunkt
 
@@ -240,7 +237,6 @@ Berichtsjahr insgesamt und zu den Erhebungsmerkmalen nach Absatz 1 Nr.
 3 Buchstabe e nach dem Stand zu Beginn und zum Ende des Berichtsjahres
 erfasst.
 
-
 ## § 4 Hilfsmerkmale
 
 Hilfsmerkmale sind:
@@ -251,10 +247,6 @@ Hilfsmerkmale sind:
 
 2.  Name, Rufnummern und Adressen für elektronische Post der Personen, die
     für Rückfragen zur Verfügung stehen.
-
-
-
-
 
 ## § 5 Auskunftspflicht
 
@@ -273,7 +265,6 @@ Unternehmen im letzten abgeschlossenen Geschäftsjahr Umsätze zusammen
 mit Einnahmen aus selbständiger Arbeit in Höhe von weniger als 500.000
 Euro erwirtschaftet hat.
 
-
 ## § 6 Übermittlungsregelung
 
 An die obersten Bundes- und Landesbehörden dürfen für die Verwendung
@@ -282,7 +273,6 @@ Planung, jedoch nicht für die Regelung von Einzelfällen vom
 Statistischen Bundesamt und den statistischen Ämtern der Länder
 Tabellen mit statistischen Ergebnissen übermittelt werden, auch soweit
 Tabellenfelder nur einen einzigen Fall ausweisen.
-
 
 ## § 7 Verordnungsermächtigung
 

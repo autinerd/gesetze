@@ -31,7 +31,6 @@ Zweiten Buches Sozialgesetzbuch beträgt für die Zeit ab 1. Juli 2009
 für Personen, die alleinstehend oder alleinerziehend sind oder deren
 Partner minderjährig ist, 359 Euro.
 
-
 ## Schlussformel
 
 Bundesministerium für Arbeit und Soziales

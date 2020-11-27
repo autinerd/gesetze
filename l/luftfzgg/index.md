@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 32 G v. 8.12.2010 I 1864
 
-
 ## Inhaltsverzeichnis
 
 
@@ -154,17 +153,9 @@ Zuletzt geändert durch
 
     *   §§ 107 bis 115
 
-
-
-
-
 ## Erster Teil - Vorschriften für Luftfahrzeuge, die in die Luftfahrzeugrolle eingetragen sind
 
-
-
 ### Erster Abschnitt - Allgemeine Vorschriften über das Registerpfandrecht an einem Luftfahrzeug
-
-
 
 #### § 1
 
@@ -173,12 +164,10 @@ Sicherung einer Forderung in der Weise belastet werden, daß der
 Gläubiger berechtigt ist, wegen einer bestimmten Geldsumme
 Befriedigung aus dem Luftfahrzeug zu suchen (Registerpfandrecht).
 
-
 #### § 2
 
 Ein Registerpfandrecht kann auch für eine zukünftige oder eine
 bedingte Forderung bestellt werden.
-
 
 #### § 3
 
@@ -188,12 +177,10 @@ im übrigen die Feststellung der Forderung vorbehalten wird. Ist die
 Forderung verzinslich, so werden die Zinsen in den Höchstbetrag
 eingerechnet.
 
-
 #### § 4
 
 Das Recht des Gläubigers aus dem Registerpfandrecht bestimmt sich nur
 nach der Forderung.
-
 
 #### § 5
 
@@ -213,13 +200,11 @@ in der Verfügung beschränkt wird, nachdem die Erklärung für ihn
 bindend geworden und der Antrag auf Eintragung bei dem Registergericht
 gestellt worden ist.
 
-
 #### § 6
 
 Ein Bruchteil des Eigentums an einem Luftfahrzeug kann mit einem
 Registerpfandrecht nur belastet werden, wenn er in dem Anteil eines
 Miteigentümers besteht.
-
 
 #### § 7
 
@@ -227,14 +212,12 @@ Die Bestellung eines Registerpfandrechts ist unzulässig, solange das
 Luftfahrzeug mit einem Registerpfandrecht belastet ist, das im Wege
 der Zwangsvollstreckung oder der Arrestvollziehung eingetragen ist.
 
-
 #### § 8
 
 Für die Forderung aus einer Schuldverschreibung auf den Inhaber, aus
 einem Wechsel oder aus einem anderen Papier, das durch Indossament
 übertragen werden kann, kann ein Registerpfandrecht nicht bestellt
 werden.
-
 
 #### § 9
 
@@ -246,7 +229,6 @@ anzuwenden.
 (2) Das gleiche gilt, wenn das Luftfahrzeug in der Luftfahrzeugrolle
 gelöscht, aber im Register für Pfandrechte an Luftfahrzeugen noch
 eingetragen ist.
-
 
 #### § 10
 
@@ -270,7 +252,6 @@ ist, bestimmt sich nach der Eintragung der Vormerkung.
 der Erbe des Verpflichteten nicht auf die Beschränkung seiner Haftung
 berufen.
 
-
 #### § 11
 
 (1) Die Vormerkung wird auf Grund einer einstweiligen Verfügung oder
@@ -283,7 +264,6 @@ glaubhaft gemacht zu werden.
 Anspruchs auf die einstweilige Verfügung oder die
 Eintragungsbewilligung Bezug genommen werden.
 
-
 #### § 12
 
 Steht dem, dessen Luftfahrzeug oder dessen Recht von der Vormerkung
@@ -291,7 +271,6 @@ betroffen wird, eine Einrede zu, durch welche die Geltendmachung des
 durch die Vormerkung gesicherten Anspruchs dauernd ausgeschlossen
 wird, so kann er von dem Gläubiger die Beseitigung der Vormerkung
 verlangen.
-
 
 #### § 13
 
@@ -313,7 +292,6 @@ Luftfahrzeug verlangen kann, sofern er für seinen Anspruch einen
 vollstreckbaren Titel erlangt hat. Das Aufgebot ist dem Eigentümer des
 Luftfahrzeugs von Amts wegen zuzustellen.
 
-
 #### § 14
 
 (1) Soweit der Erwerb eines Registerpfandrechts oder des Rechts an
@@ -325,7 +303,6 @@ die Vormerkung gesicherten Anspruchs erforderlich ist.
 (2) Das gleiche gilt, wenn der Anspruch durch ein Veräußerungsverbot
 gesichert ist.
 
-
 #### § 15
 
 (1) Ist im Register für jemanden ein Registerpfandrecht oder ein Recht
@@ -334,7 +311,6 @@ zusteht.
 
 (2) Ist ein eingetragenes Recht gelöscht, so wird vermutet, daß es
 nicht mehr besteht.
-
 
 #### § 16
 
@@ -353,7 +329,6 @@ Register ersichtlich oder dem Erwerber bekannt ist.
 Antrags auf Eintragung oder, wenn die Einigung erst später zustande
 kommt, die Zeit der Einigung maßgebend.
 
-
 #### § 17
 
 § 16 gilt sinngemäß, wenn an den, für den ein Recht (§ 16 Abs. 1 Satz
@@ -361,7 +336,6 @@ kommt, die Zeit der Einigung maßgebend.
 bewirkt oder wenn zwischen ihm und einem anderen ein nicht unter § 16
 fallendes Rechtsgeschäft vorgenommen wird, das eine Verfügung über das
 Recht enthält.
-
 
 #### § 18
 
@@ -378,7 +352,6 @@ von dem verlangen, dessen Recht durch die Berichtigung betroffen wird.
 nach Absatz 1 Verpflichteten eingetragen worden ist, so hat dieser auf
 Verlangen sein Recht eintragen zu lassen.
 
-
 #### § 19
 
 Wer die Berichtigung verlangt, hat die Kosten der Berichtigung des
@@ -386,11 +359,9 @@ Registers und der dazu erforderlichen Erklärungen zu tragen, sofern
 sich nicht aus einem zwischen ihm und dem Verpflichteten bestehenden
 Rechtsverhältnis etwas anderes ergibt.
 
-
 #### § 20
 
 Die in § 18 bestimmten Ansprüche unterliegen nicht der Verjährung.
-
 
 #### § 21
 
@@ -403,14 +374,12 @@ Betroffenen eingetragen. Die einstweilige Verfügung kann erlassen
 werden, ohne daß eine Gefährdung des Rechts des Widersprechenden
 glaubhaft gemacht wird.
 
-
 #### § 22
 
 Ist eine Vormerkung oder ein Widerspruch auf Grund einer einstweiligen
 Verfügung eingetragen, so erlischt die Vormerkung oder der
 Widerspruch, wenn die einstweilige Verfügung durch eine vollstreckbare
 Entscheidung aufgehoben wird.
-
 
 #### § 23
 
@@ -421,10 +390,7 @@ wiederkehrender Leistungen oder auf Schadensersatz gerichtet sind.
 (2) Ein Recht, wegen dessen ein Widerspruch gegen die Richtigkeit des
 Registers eingetragen ist, steht dem eingetragenen Recht gleich.
 
-
 ### Zweiter Abschnitt - Eintragung und Inhalt des Registerpfandrechts an einem Luftfahrzeug
-
-
 
 #### § 24
 
@@ -442,7 +408,6 @@ bekanntgemacht worden ist, so genügt zur Bezeichnung der außer den
 Zinsen satzungsgemäß zu entrichtenden Nebenleistungen die Bezugnahme
 auf die Satzung.
 
-
 #### § 25
 
 (1) Ist ein Luftfahrzeug mit mehreren Registerpfandrechten belastet,
@@ -453,7 +418,6 @@ erforderliche Einigung erst nach der Eintragung zustande gekommen ist.
 
 (2) Eine abweichende Bestimmung des Rangverhältnisses muß in das
 Register eingetragen werden.
-
 
 #### § 26
 
@@ -479,7 +443,6 @@ zurücktretende Registerpfandrecht erlischt.
 dem vortretenden Registerpfandrecht haben, werden durch die
 Rangänderung nicht berührt.
 
-
 #### § 27
 
 (1) Der Eigentümer kann sich bei der Belastung des Luftfahrzeugs mit
@@ -499,7 +462,6 @@ einen entsprechenden Vorbehalt belastet worden, so hat der Vorrang
 keine Wirkung, soweit das mit dem Vorbehalt eingetragene
 Registerpfandrecht infolge der Zwischenbelastung eine über den
 Vorbehalt hinausgehende Beeinträchtigung erleiden würde.
-
 
 #### § 28
 
@@ -521,14 +483,12 @@ belastet, so ist zur Verteilung seine Zustimmung erforderlich; die
 Zustimmung ist dem Registergericht oder dem gegenüber zu erklären, zu
 dessen Gunsten sie erfolgt; sie ist unwiderruflich.
 
-
 #### § 29
 
 Kraft des Registerpfandrechts haftet das Luftfahrzeug auch für die
 gesetzlichen Zinsen der Forderung sowie für die Kosten der Kündigung
 und der die Befriedigung aus dem Luftfahrzeug bezweckenden
 Rechtsverfolgung.
-
 
 #### § 30
 
@@ -540,7 +500,6 @@ Hundert haftet.
 
 (2) Zu einer Änderung der Zahlungszeit und des Zahlungsorts ist die
 Zustimmung dieser Berechtigten gleichfalls nicht erforderlich.
-
 
 #### § 31
 
@@ -567,7 +526,6 @@ Aufhebung der Zubehöreigenschaft die Trennung und Entfernung von dem
 Luftfahrzeug tritt, sofern nicht die Entfernung nur zu einem
 vorübergehenden Zweck erfolgt.
 
-
 #### § 32
 
 (1) Hat der Eigentümer oder für seine Rechnung ein anderer für das
@@ -587,7 +545,6 @@ Frist von dem Zeitpunkt an gerechnet, in dem die Entschädigungssumme
 fällig ist. Der Gläubiger kann bis zum Ablauf der Frist dem
 Versicherer gegenüber der Zahlung widersprechen.
 
-
 #### § 33
 
 (1) Eine Zahlung des Versicherers auf die Versicherungsforderung ist
@@ -603,7 +560,6 @@ das Luftfahrzeug wiederhergestellt oder für Zubehörstücke Ersatz
 beschafft worden ist. Das gleiche gilt, soweit Verpflichtungen des
 Eigentümers erfüllt worden sind, die von der Versicherung umfaßt waren
 und für die ein in § 75 bezeichnetes Recht bestand.
-
 
 #### § 34
 
@@ -640,7 +596,6 @@ jedoch dem Gläubiger gegenüber mit dem Ablauf von zwei Wochen, nachdem
 der Versicherer ihm die Unwirksamkeit mitgeteilt oder der Gläubiger
 sie in anderer Weise erfahren hat.
 
-
 #### § 35
 
 (1) Ist das Luftfahrzeug bei mehreren Versicherern gemeinschaftlich
@@ -656,7 +611,6 @@ Versicherer bekannten Wohnung des Gläubigers. Die Mitteilung wird mit
 dem Zeitpunkt wirksam, in dem sie ohne die Wohnungsänderung bei
 regelmäßiger Beförderung dem Gläubiger zugegangen sein würde.
 
-
 #### § 36
 
 Ist der Versicherer wegen eines Verhaltens des Versicherungsnehmers
@@ -667,7 +621,6 @@ gleichwohl seine Verpflichtung gegenüber dem Gläubiger bestehen. Dies
 gilt nicht, wenn der Versicherer von der Verpflichtung zur Leistung
 deshalb frei ist, weil eine Prämie nicht rechtzeitig gezahlt ist.
 
-
 #### § 37
 
 Soweit der Versicherer auf Grund des § 34 Abs. 2 bis 4, § 36 den
@@ -676,7 +629,6 @@ Gläubiger befriedigt, geht das Registerpfandrecht auf ihn über. Der
 oder nachstehenden Gläubigers eines Registerpfandrechts, dem gegenüber
 die Verpflichtung des Versicherers zur Leistung bestehengeblieben ist,
 geltend gemacht werden.
-
 
 #### § 38
 
@@ -690,7 +642,6 @@ Anspruch des Gläubigers auf Erstattung der Beträge und ihrer Zinsen,
 die der Gläubiger zur Entrichtung von Prämien oder sonstigen dem
 Versicherer auf Grund des Versicherungsvertrags gebührenden Zahlungen
 verwendet hat.
-
 
 #### § 39
 
@@ -719,13 +670,11 @@ Zubehörstücke, auf welche das Registerpfandrecht sich erstreckt,
 verschlechtert oder den Regeln einer ordnungsmäßigen Wirtschaft
 zuwider von dem Luftfahrzeug entfernt werden.
 
-
 #### § 40
 
 Ist infolge der Einwirkung eines Dritten eine die Sicherheit des
 Registerpfandrechts gefährdende Verschlechterung des Luftfahrzeugs zu
 besorgen, so kann der Gläubiger gegen ihn nur auf Unterlassung klagen.
-
 
 #### § 41
 
@@ -742,7 +691,6 @@ Schuld nur beschränkt haftet.
 (2) Ist der Eigentümer nicht der Schuldner, so verliert er eine
 Einrede nicht dadurch, daß der Schuldner auf sie verzichtet.
 
-
 #### § 42
 
 (1) Hängt die Fälligkeit der Forderung von einer Kündigung ab, so ist
@@ -758,7 +706,6 @@ einen Vertreter zu bestellen, dem gegenüber der Gläubiger kündigen
 kann; das gleiche gilt, wenn sein Aufenthalt unbekannt ist oder der
 Gläubiger ohne Fahrlässigkeit nicht weiß, wer der Eigentümer ist.
 
-
 #### § 43
 
 (1) Der Eigentümer ist berechtigt, den Gläubiger zu befriedigen, wenn
@@ -767,7 +714,6 @@ zur Leistung berechtigt ist.
 
 (2) Der Eigentümer kann den Gläubiger auch durch Hinterlegung oder
 durch Aufrechnung befriedigen.
-
 
 #### § 44
 
@@ -780,13 +726,11 @@ Rechtsverhältnis bleiben unberührt.
 (2) Besteht für die Forderung ein Gesamtregisterpfandrecht, so gelten
 für dieses die Vorschriften des § 64.
 
-
 #### § 45
 
 Der Eigentümer kann gegen Befriedigung des Gläubigers die Aushändigung
 der zur Berichtigung des Registers oder zur Löschung des
 Registerpfandrechts erforderlichen Urkunden verlangen.
-
 
 #### § 46
 
@@ -794,10 +738,7 @@ Liegen dem Eigentümer gegenüber die Voraussetzungen vor, unter denen
 ein Schuldner in Verzug kommt, so gebühren dem Gläubiger Verzugszinsen
 aus dem Luftfahrzeug.
 
-
 ### Dritter Abschnitt - Die Geltendmachung des Registerpfandrechts an einem Luftfahrzeug
-
-
 
 #### § 47
 
@@ -809,7 +750,6 @@ Wege der Zwangsvollstreckung suchen.
 Befriedigung aus jedem der Luftfahrzeuge ganz oder zu einem Teil
 suchen.
 
-
 #### § 48
 
 Bei der Verfolgung des Rechts aus dem Registerpfandrecht gilt
@@ -818,7 +758,6 @@ Eigentümer eingetragen ist. Das Recht des nicht eingetragenen
 Eigentümers, die ihm gegen das Registerpfandrecht zustehenden
 Einwendungen geltend zu machen, bleibt unberührt.
 
-
 #### § 49
 
 Solange die Forderung dem Eigentümer gegenüber nicht fällig geworden
@@ -826,7 +765,6 @@ ist, kann dieser dem Gläubiger nicht das Recht einräumen, zum Zweck
 der Befriedigung die Übertragung des Eigentums an dem Luftfahrzeug zu
 verlangen oder das Luftfahrzeug auf andere Weise als im Wege der
 Zwangsvollstreckung zu veräußern.
-
 
 #### § 50
 
@@ -846,10 +784,7 @@ dem Dritten bestehenden Rechtsverhältnis bleiben unberührt.
 
 (3) § 45 gilt sinngemäß.
 
-
 ### Vierter Abschnitt - Übertragung, Änderung und Erlöschen des Registerpfandrechts an einem Luftfahrzeug
-
-
 
 #### § 51
 
@@ -869,7 +804,6 @@ erforderlich; § 5 Abs. 2, 3 gilt sinngemäß.
 übertragen werden. Wird sie nach diesen Vorschriften übertragen, so
 ist der Übergang des Registerpfandrechts ausgeschlossen.
 
-
 #### § 52
 
 (1) Eine Einrede, die dem Eigentümer auf Grund eines zwischen ihm und
@@ -884,7 +818,6 @@ der Eigentümer von der Übertragung Kenntnis erlangt, oder dem
 folgenden Vierteljahr fällig werden, kann sich der Gläubiger gegenüber
 den in Absatz 1 bezeichneten Einreden nicht auf § 16 berufen.
 
-
 #### § 53
 
 (1) Soweit die Forderung auf Rückstände von Zinsen oder anderen
@@ -898,7 +831,6 @@ Vorschriften.
 (2) Die Vorschriften des § 16 über den öffentlichen Glauben des
 Registers gelten für die im Absatz 1 bezeichneten Ansprüche nicht.
 
-
 #### § 54
 
 (1) Zur Änderung des Inhalts des Registerpfandrechts ist die Einigung
@@ -910,7 +842,6 @@ erforderlich; § 5 Abs. 2, 3, § 24 gelten sinngemäß.
 so ist seine Zustimmung erforderlich. Die Zustimmung ist dem
 Registergericht oder dem gegenüber zu erklären, zu dessen Gunsten sie
 erfolgt; sie ist unwiderruflich.
-
 
 #### § 55
 
@@ -924,7 +855,6 @@ gelten sinngemäß.
 treten soll, nicht dem bisherigen Gläubiger des Registerpfandrechts
 zu, so ist seine Zustimmung erforderlich; § 54 Abs. 2, § 56 Abs. 2, 3
 gelten sinngemäß.
-
 
 #### § 56
 
@@ -947,7 +877,6 @@ gestellt worden ist.
 
 (4) § 54 Abs. 2 gilt auch hier.
 
-
 #### § 57
 
 Das Registerpfandrecht erlischt vorbehaltlich der Fälle des § 59 mit
@@ -956,13 +885,11 @@ Gläubiger aus dem Luftfahrzeug und soweit er aus den sonstigen
 Gegenständen, auf die sich das Registerpfandrecht erstreckt, im Wege
 der Zwangsvollstreckung befriedigt wird.
 
-
 #### § 58
 
 Steht dem Eigentümer eine Einrede zu, durch welche die Geltendmachung
 des Registerpfandrechts dauernd ausgeschlossen wird, so kann er
 verlangen, daß der Gläubiger das Registerpfandrecht aufgibt.
-
 
 #### § 59
 
@@ -982,14 +909,12 @@ dem Gläubiger verbleibende Teil des Registerpfandrechts den Vorrang.
 (4) Der Befriedigung des Gläubigers steht es gleich, wenn sich
 Forderung und Schuld in einer Person vereinigen.
 
-
 #### § 60
 
 Gibt der Gläubiger das Registerpfandrecht auf oder räumt er einem
 anderen Registerpfandrecht den Vorrang ein, so wird der Schuldner
 frei, soweit er ohne diese Verfügung nach § 59 aus dem
 Registerpfandrecht hätte Ersatz verlangen können.
-
 
 #### § 61
 
@@ -1001,7 +926,6 @@ Ausfalls bei der Zwangsversteigerung verweigern, soweit er infolge der
 Unterlassung der Benachrichtigung einen Schaden erleidet. Die
 Benachrichtigung darf unterbleiben, wenn sie untunlich ist.
 
-
 #### § 62
 
 Hat der Schuldner dadurch, daß er den Gläubiger befriedigt hat, das
@@ -1009,7 +933,6 @@ Registerpfandrecht erworben oder hat er aus demselben Grund ein
 sonstiges rechtliches Interesse an der Berichtigung des Registers, so
 kann er verlangen, daß der Gläubiger die zur Berichtigung des
 Registers erforderlichen Urkunden ihm aushändigt.
-
 
 #### § 63
 
@@ -1021,7 +944,6 @@ besteht oder zugunsten eines Dritten als bestehend gilt. Der
 Eigentümer kann als Gläubiger nicht die Zwangsvollstreckung in das
 Luftfahrzeug betreiben; Zinsen aus dem Luftfahrzeug gebühren ihm
 nicht.
-
 
 #### § 64
 
@@ -1049,7 +971,6 @@ Forderung und Schuld in der Person des Eigentümers vereinigen.
 mit einem Gesamtregisterpfandrecht belasteten Luftfahrzeuge
 befriedigt, so gilt Absatz 2 sinngemäß.
 
-
 #### § 65
 
 (1) Ist ein Registerpfandrecht im Register zu Unrecht gelöscht, so
@@ -1058,7 +979,6 @@ verjährt ist.
 
 (2) Das gleiche gilt, wenn ein kraft Gesetzes entstandenes
 Registerpfandrecht nicht in das Register eingetragen worden ist.
-
 
 #### § 66
 
@@ -1083,7 +1003,6 @@ Registerpfandrecht.
 Verfahren in Familiensachen und in den Angelegenheiten der
 freiwilligen Gerichtsbarkeit sinngemäß. Zuständig ist das Gericht, bei
 dem das Register für Pfandrechte an Luftfahrzeugen geführt wird.
-
 
 #### § 67
 
@@ -1113,10 +1032,7 @@ Familiensachen und in den Angelegenheiten der freiwilligen
 Gerichtsbarkeit sinngemäß. Zuständig ist das Gericht, bei dem das
 Register für Pfandrechte an Luftfahrzeugen geführt wird.
 
-
 ### Fünfter Abschnitt - Die Erweiterung des Registerpfandrechts auf Ersatzteile von Luftfahrzeugen
-
-
 
 #### § 68
 
@@ -1135,7 +1051,6 @@ Gläubigers sowie die Eintragung der Erweiterung in das Register für
 Pfandrechte an Luftfahrzeugen erforderlich. § 5 Abs. 2, 3 gilt
 sinngemäß.
 
-
 #### § 69
 
 Der Eigentümer des belasteten Luftfahrzeugs ist gegenüber dem
@@ -1144,7 +1059,6 @@ verpflichtet, an dem Ersatzteillager die Erweiterung durch eine
 Bekanntmachung kenntlich zu machen, die das Registerpfandrecht unter
 Bezeichnung der Stelle des Registers, an der es eingetragen ist, sowie
 den Namen und die Anschrift des Gläubigers angibt.
-
 
 #### § 70
 
@@ -1155,7 +1069,6 @@ der Erweiterung ergibt, gelten die Vorschriften der §§ 6, 10 bis 23,
 (2) Wird das Registerpfandrecht an dem Luftfahrzeug aufgehoben, so
 gilt auch das Recht, das sich aus der Erweiterung ergibt, als
 aufgehoben.
-
 
 #### § 71
 
@@ -1169,7 +1082,6 @@ sind.
 aus dem Ersatzteillager entfernt werden, bevor sie in Beschlag
 genommen worden sind.
 
-
 #### § 72
 
 Erstrecken sich nach § 71 mehrere Registerpfandrechte auf dieselben
@@ -1177,14 +1089,12 @@ Ersatzteile, so bestimmt sich ihr Rangverhältnis hinsichtlich der
 Ersatzteile nach der Reihenfolge, in der die Erweiterungen in das
 Register eingetragen sind. § 25 Abs. 1 Satz 2, Abs. 2 gilt sinngemäß.
 
-
 #### § 73
 
 Werden Ersatzteile, auf welche das Registerpfandrecht sich nach § 71
 erstreckt, verschlechtert oder den Regeln einer ordnungsmäßigen
 Wirtschaft zuwider aus dem Lager entfernt, so steht dies einer
 Verschlechterung des Luftfahrzeugs gleich.
-
 
 #### § 74
 
@@ -1195,10 +1105,7 @@ belasteten Luftfahrzeugs, so besteht es hinsichtlich der vorher in das
 Ersatzteillager eingebrachten Ersatzteile fort, soweit nicht die
 gesicherte Forderung erloschen ist.
 
-
 ### Sechster Abschnitt - Rechte aus Bergungs- und Erhaltungsmaßnahmen
-
-
 
 #### § 75
 
@@ -1212,7 +1119,6 @@ Vorschriften der §§ 76, 77, sofern der Vorrang des Rechtes nach
 Artikel IV des Genfer Abkommens vom 19. Juni 1948 (Bundesgesetzbl.
 1959 II S. 129) anzuerkennen ist.
 
-
 #### § 76
 
 Das Recht gewährt dem Berechtigten im Verhältnis zu anderen Rechten an
@@ -1223,7 +1129,6 @@ Luftfahrzeug, so bestimmt sich ihr Rangverhältnis untereinander nach
 der umgekehrten Reihenfolge der Ereignisse, durch die sie entstanden
 sind; sind sie durch dasselbe Ereignis entstanden, so haben sie
 untereinander den gleichen Rang.
-
 
 #### § 77
 
@@ -1239,17 +1144,13 @@ Schutzvermerk eingetragen ist, die Löschung des Vermerks bewilligt.
 Der gleiche Anspruch steht dem zu, für den ein Recht an dem
 Luftfahrzeug oder eine Vormerkung in das Register eingetragen ist.
 
-
 ### Siebenter Abschnitt - Register für Pfandrechte an Luftfahrzeugen, Verfahren
-
-
 
 #### § 78
 
 Das Register für Pfandrechte an Luftfahrzeugen wird von dem
 Amtsgericht, in dessen Bezirk das Luftfahrt-Bundesamt seinen Sitz hat,
 als Registergericht geführt.
-
 
 #### § 79
 
@@ -1260,7 +1161,6 @@ der Luftfahrzeugrolle eingetragen ist oder auf Grund eines
 vollstreckbaren Titels eine Eintragung in das Register verlangen kann,
 sowie der, zu dessen Gunsten ein Schutzvermerk nach § 77 einzutragen
 ist.
-
 
 #### § 80
 
@@ -1290,7 +1190,6 @@ Eintragungen in der Luftfahrzeugrolle übereinstimmen. Wer das
 Luftfahrzeug als Eigentümer zur Eintragung anmeldet, hat glaubhaft zu
 machen, daß er Eigentümer des Luftfahrzeugs ist.
 
-
 #### § 81
 
 (1) Jedes Luftfahrzeug erhält bei der Eintragung eine besondere Stelle
@@ -1299,7 +1198,6 @@ Register für Pfandrechte an Luftfahrzeugen anzusehen.
 
 (2) Die Eintragung des Luftfahrzeugs hat die in § 80 Abs. 1
 bezeichneten Angaben und den Tag der Eintragung zu enthalten.
-
 
 #### § 82
 
@@ -1320,14 +1218,12 @@ Eigentümer des Luftfahrzeugs sei, so kann das Registergericht bei der
 Eintragung des Luftfahrzeugs zugunsten des anderen einen Widerspruch
 gegen die Richtigkeit der Eigentumseintragung eintragen.
 
-
 #### § 83
 
 Das Registergericht soll die Eintragung des Luftfahrzeugs in das
 Register dem Luftfahrt-Bundesamt, dem Anmeldenden, dem als Eigentümer
 Eingetragenen und dem, der nach § 82 Abs. 2 der Eintragung
 widersprochen hat, bekanntmachen.
-
 
 #### § 84
 
@@ -1349,7 +1245,6 @@ Eintragung. Eine Vormerkung oder ein Widerspruch wird auf dem
 Registerblatt für das Ersatzteillager nur eingetragen, wenn auch die
 endgültige Eintragung hier vorzunehmen ist.
 
-
 #### § 85
 
 (1) Das Register ist öffentlich; die Einsicht in das Register ist
@@ -1363,7 +1258,6 @@ einer Eintragung Bezug genommen ist.
 nicht erledigten Eintragungsanträge nur gestattet, soweit ein
 berechtigtes Interesse glaubhaft gemacht wird. Absatz 1 Satz 2 gilt
 sinngemäß.
-
 
 #### § 86
 
@@ -1380,7 +1274,6 @@ mit der Eintragung in der Luftfahrzeugrolle übereinstimmt, oder wenn
 die Eintragung des Luftfahrzeugs in der Luftfahrzeugrolle gelöscht
 ist.
 
-
 #### § 87
 
 Wird für eine Forderung, die auf ausländische Währung lautet und deren
@@ -1389,7 +1282,6 @@ dieses Gesetzes hat, ein Registerpfandrecht in das Register
 eingetragen, so kann der Geldbetrag der Forderung und etwaiger
 Nebenleistungen oder der Höchstbetrag, bis zu dem das Luftfahrzeug
 haften soll, in ausländischer Währung angegeben werden.
-
 
 #### § 88
 
@@ -1414,7 +1306,6 @@ erkennbar zu machen. Das Erlöschen der Erweiterung ist dort von Amts
 wegen zu vermerken, soweit die Eintragung der Erweiterung auf dem
 Registerblatt des Ersatzteillagers gelöscht wird.
 
-
 #### § 89
 
 (1) Der Schutzvermerk nach § 77 wird von Amts wegen eingetragen, wenn
@@ -1434,7 +1325,6 @@ bewilligt oder wenn dem Registergericht nachgewiesen wird, daß das
 Recht erloschen oder nicht entstanden oder im Geltungsbereich dieses
 Gesetzes nicht mehr anzuerkennen ist.
 
-
 #### § 90
 
 (1) Werden nach der Eintragung des Luftfahrzeugs in das Register
@@ -1447,13 +1337,11 @@ Eintragung des Luftfahrzeugs im Register zu berichtigen.
 anderen Eigentümers, so gilt § 82 Abs. 1 sinngemäß, wenn nicht der als
 Eigentümer im Register Eingetragene der Berichtigung zustimmt.
 
-
 #### § 91
 
 Wird die Eintragung eines im Register eingetragenen Luftfahrzeugs in
 der Luftfahrzeugrolle gelöscht, so hat das Luftfahrt-Bundesamt das
 Registergericht zu ersuchen, dies in das Register einzutragen.
-
 
 #### § 92
 
@@ -1462,7 +1350,6 @@ Luftfahrzeugrolle gelöscht ist, erneut in die Luftfahrzeugrolle
 eingetragen, so hat das Luftfahrt-Bundesamt das Registergericht zu
 ersuchen, die auf Grund des Ersuchens nach § 91 vorgenommene
 Eintragung zu löschen. § 90 gilt sinngemäß.
-
 
 #### § 93
 
@@ -1476,7 +1363,6 @@ Luftfahrzeugs in der Luftfahrzeugrolle betreffen.
 soll das Registergericht dies dem Luftfahrt-Bundesamt und dem als
 Eigentümer des Luftfahrzeugs Eingetragenen bekanntmachen.
 
-
 #### § 94
 
 (1) Die Eintragung des Ersatzteillagers kann von Amts wegen gelöscht
@@ -1487,7 +1373,6 @@ sind.
 Registergericht dies demjenigen bekanntmachen, der bei der letzten
 Eintragung der Erweiterung eines Registerpfandrechts als Eigentümer
 des belasteten Luftfahrzeugs eingetragen war.
-
 
 #### § 95
 
@@ -1508,7 +1393,6 @@ nicht der Zustimmung des Bundesrates. Die Landesregierung kann die
 Ermächtigungen durch Rechtsverordnung auf die Landesjustizverwaltung
 übertragen. Die Zulassung der elektronischen Akte und der
 elektronischen Form kann auf einzelne Verfahren beschränkt werden.
-
 
 #### § 96
 
@@ -1540,7 +1424,6 @@ zu bestimmen und die Ermächtigung auf die Landesjustizverwaltung zu
 (2) Die sachliche Zuständigkeit der Registerbeamten bestimmt die
 Landesjustizverwaltung.
 
-
 #### § 97
 
 Der Bundesminister der Justiz wird ermächtigt, mit Zustimmung des
@@ -1553,10 +1436,7 @@ Rechtsverordnung kann auch bestimmt werden, in welcher Weise bis zur
 Wiederherstellung des Registers für Pfandrechte an Luftfahrzeugen die
 zu einer Rechtsänderung erforderliche Eintragung ersetzt wird.
 
-
 ### Achter Abschnitt - Anwendbarkeit der Vorschriften anderer Gesetze
-
-
 
 #### § 98
 
@@ -1581,7 +1461,6 @@ dessen Eintragung in der Luftfahrzeugrolle gelöscht ist, einem in der
 Luftfahrzeugrolle eingetragenen Luftfahrzeug gleich.
 
 (3) (weggefallen)
-
 
 #### § 99
 
@@ -1617,7 +1496,6 @@ auf Eintragung des Registerpfandrechts gilt im Sinne des § 929 Abs. 2,
 sinngemäß anzuwenden, daß die einstweilige Verfügung von dem
 Amtsgericht erlassen werden kann, in dessen Bezirk das Luftfahrt-
 Bundesamt seinen Sitz hat.
-
 
 #### § 100
 
@@ -1682,10 +1560,6 @@ mit folgenden Maßgaben:
     Betrag oder der Höchstbetrag zugrunde gelegt, der aus dem Register
     ersichtlich ist.
 
-
-
-
-
 #### § 101
 
 Für das Verfahren des Vollstreckungsgerichts auf Festsetzung des
@@ -1695,7 +1569,6 @@ Sache, für die das Mindestgebot festgesetzt werden soll. Die
 Aufforderung an die Gläubiger, die Berechnung ihrer Forderungen
 einzureichen, soll erst nach Zahlung der Gebühr erlassen werden. Im
 übrigen gelten die Vorschriften des Gerichtskostengesetzes.
-
 
 #### § 102
 
@@ -1732,10 +1605,7 @@ Erweiterung beantragt, so wird die Gebühr nach Satz 1 nicht erhoben.
 
 (5)
 
-
 ## Zweiter Teil - Vorschriften für ausländische Luftfahrzeuge
-
-
 
 ### § 103
 
@@ -1760,7 +1630,6 @@ Begründung des Rechts als staatszugehörig eingetragen war, gültig
 entstanden und in einem öffentlichen Register dieses Staates
 eingetragen ist.
 
-
 ### § 104
 
 Besteht an einem ausländischen Luftfahrzeug ein Recht wegen
@@ -1774,7 +1643,6 @@ Rangverhältnis untereinander nach der umgekehrten Reihenfolge der
 Ereignisse, durch die sie entstanden sind; sind sie durch dasselbe
 Ereignis entstanden, so haben sie untereinander den gleichen Rang.
 
-
 ### § 105
 
 Erstreckt sich ein zur Sicherung einer Forderung eingetragenes Recht,
@@ -1784,7 +1652,6 @@ Ersatzteile nur geltend gemacht werden, wenn an dem Lagerungsplatz
 eine Bekanntmachung angebracht ist, die das Recht, das Register, in
 dem es eingetragen ist, sowie den Namen und die Anschrift des
 Berechtigten angibt.
-
 
 ### § 106
 
@@ -1834,10 +1701,7 @@ verfügt und ist die Verfügung nach Artikel IV des Genfer Abkommens vom
 sie dem Gläubiger gegenüber wirksam, es sei denn, daß der Schuldner im
 Zeitpunkt der Verfügung Kenntnis von der Beschlagnahme hatte.
 
-
 ## Dritter Teil - Übergangs- und Schlußbestimmungen
-
-
 
 ### § 107
 
@@ -1856,21 +1720,17 @@ Satz 1 bleibt unberührt.
 wird die Zwangsvollstreckung nach Maßgabe der Vorschriften des § 99
 fortgesetzt.
 
-
 ### (XXXX) §§ 108 und 109
 
 -
-
 
 ### § 110
 
 -
 
-
 ### (XXXX) §§ 111 bis 113
 
 -
-
 
 ### § 114
 
@@ -1879,7 +1739,6 @@ Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 im Land Berlin. Rechtsverordnungen, die auf Grund der in diesem Gesetz
 enthaltenen Ermächtigungen erlassen werden, gelten im Land Berlin nach
 § 14 des Dritten Überleitungsgesetzes.
-
 
 ### § 115
 

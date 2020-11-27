@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 11 G v. 9.12.2010 I 1885
 
-
 ## § 1 Rechtsform, Name, Sitz
 
 Im Geschäftsbereich des Bundesministeriums für Ernährung,
@@ -28,7 +27,6 @@ Zusammenlegung der Bundesanstalt für landwirtschaftliche Marktordnung
 und des Bundesamtes für Ernährung und Forstwirtschaft errichtet. Die
 Anstalt trägt die Bezeichnung "Bundesanstalt für Landwirtschaft und
 Ernährung" (Bundesanstalt). Sie hat ihren Sitz in Bonn.
-
 
 ## § 2 Aufgaben
 
@@ -86,7 +84,6 @@ gehören:
 (2) Bei der Durchführung ihrer kaufmännischen und technischen Aufgaben
 soll sich die Bundesanstalt der Einrichtungen der Wirtschaft bedienen.
 
-
 ## § 3 Organe
 
 (1) Organe der Bundesanstalt sind der Präsident und der
@@ -94,7 +91,6 @@ Verwaltungsrat.
 
 (2) Aufgaben und Befugnisse der Organe bestimmt die Satzung, soweit
 sie nicht durch dieses Gesetz geregelt sind.
-
 
 ## § 4 Präsident
 
@@ -104,7 +100,6 @@ der Satzung und den Weisungen des Bundesministeriums. Er vertritt die
 Bundesanstalt gerichtlich und außergerichtlich.
 
 (2) Der Präsident hat einen ständigen Vertreter (Vizepräsident).
-
 
 ## § 5 Verwaltungsrat
 
@@ -167,7 +162,6 @@ Bundesrat bestellt und abberufen.
 (4) Der Vertreter des Bundesministeriums führt den Vorsitz im
 Verwaltungsrat.
 
-
 ## § 6 Rechte und Aufgaben des Verwaltungsrats
 
 (1) Der Verwaltungsrat
@@ -202,7 +196,6 @@ Gewissen zu versehen.
 (4) Der Verwaltungsrat gibt sich eine Geschäftsordnung, die der
 Genehmigung des Bundesministeriums bedarf.
 
-
 ## § 7 Fachbeiräte
 
 (1) Für die fachlichen Bereiche können Fachbeiräte gebildet werden.
@@ -220,7 +213,6 @@ steht ihnen gegenüber dem Präsidenten und dem Verwaltungsrat ein Recht
 auf Auskunftserteilung und auf Anhörung zu.
 
 (3) § 6 Abs. 2 bis 4 gilt entsprechend.
-
 
 ## § 8 Satzungsgebung und Aufsicht
 
@@ -265,7 +257,6 @@ ihm die Unterlagen der Bundesanstalt vorzulegen.
 so ist das Bundesministerium befugt, die Aufgaben selbst durchzuführen
 oder durch einen besonderen Beauftragten durchführen zu lassen.
 
-
 ## § 9 Verwaltungshaushaltsplan
 
 (1) Die Bundesanstalt weist die im Verwaltungsbereich zu erwartenden
@@ -286,7 +277,6 @@ nicht gedeckten Verwaltungsausgaben.
 und Ausgaben im Verwaltungsbereich aufzustellen. Die Rechnung ist vom
 Bundesministerium zu prüfen. Das Bundesministerium erteilt die
 Entlastung.
-
 
 ## § 10 Wirtschaftsplan, Kreditermächtigung
 
@@ -325,7 +315,6 @@ erforderlichen Ausgaben zu leisten, soweit entsprechende Mittel aus
 dem Haushalt der Europäischen Union noch nicht zur Verfügung gestellt
 sind.
 
-
 ## § 11 Beamte
 
 (1) Die Bundesanstalt hat Dienstherrenfähigkeit. Ihre Beamten sind
@@ -339,17 +328,13 @@ Beamten.
 der Bundesanstalt ist das Bundesministerium. Für die übrigen Beamten
 ist oberste Dienstbehörde der Präsident der Bundesanstalt.
 
-
 ## § 12 Angestellte, Arbeiter
 
 Auf die Angestellten und Arbeiter der Bundesanstalt sind die für
 Arbeitnehmer des Bundes jeweils geltenden Tarifverträge und sonstigen
 Bestimmungen anzuwenden.
 
-
 ## (XXXX) §§ 13 bis 15 (weggefallen)
-
-
 
 ## § 16 Berichtigung von Bezeichnungen
 

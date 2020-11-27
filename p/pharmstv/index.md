@@ -18,13 +18,11 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 8.7.2009 I 1768
 
-
 ## § 1
 
 Die in Anlage 1 aufgeführten Stoffe dürfen den in dieser Anlage
 bezeichneten Tieren für die dort genannten Anwendungsgebiete nicht
 zugeführt werden.
-
 
 ## § 2
 
@@ -42,10 +40,6 @@ werden, sofern sie
 2.  entsprechend der dem Fertigarzneimittel beiliegenden
     Gebrauchsinformation angewendet werden.
 
-
-
-
-
 ## § 3
 
 (1) Lebensmittel, die von Tieren gewonnen wurden, denen Stoffe
@@ -60,13 +54,11 @@ in den Verkehr gebracht werden, soweit sie zur Anwendung bei den in
 dieser Anlage bezeichneten Tieren und für die dort genannten
 Anwendungsgebiete bestimmt sind.
 
-
 ## § 4
 
 Die in Anlage 1 aufgeführten Stoffe werden, soweit sie nicht Stoffe
 mit pharmakologischer Wirkung sind, den Stoffen mit pharmakologischer
 Wirkung gleichgestellt.
-
 
 ## § 5
 
@@ -90,23 +82,19 @@ Futtermittelgesetzbuches wird bestraft, wer
 Wer eine in Satz 1 bezeichnete Handlung fahrlässig begeht, ist nach §
 58 Abs. 6 des Lebensmittel- und Futtermittelgesetzbuches strafbar.
 
-
 ## § 6
 
 Unberührt bleiben futtermittelrechtliche Vorschriften, nach denen
 Stoffe als Futtermittel oder als Zusatzstoffe zu Futtermitteln in den
 Verkehr gebracht oder verwendet werden dürfen.
 
-
 ## § 7 (weggefallen)
 
 -
 
-
 ## § 8 (Inkrafttreten)
 
 -
-
 
 ## Anlage 1 (zu den §§ 1, 3 und 4)
 
@@ -181,13 +169,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *
         \*) Amtlicher Hinweis: Stoff im Sinne des § 41 Abs. 3 Satz 1 Nr. 2 LFGB.
 
-
-
-
-
-
-
-
 ## Anlage 2 (zu den §§ 2 und 3)
 
 (Fundstelle des Originaltextes: BGBl. I 2005, 732;
@@ -249,13 +230,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnoten)
 
 *    *
         \*) Amtlicher Hinweis: Stoff im Sinne des § 41 Abs. 3 Satz 1 Nr. 2 LFGB.
-
-
-
-
-
-
-
 
 ## Anlage 3 (zu den §§ 2 und 3 Abs. 1)
 

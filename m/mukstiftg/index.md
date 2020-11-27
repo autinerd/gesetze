@@ -22,7 +22,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 7 Abs. 6 G v. 7.7.2009 I 1707
 
-
 ## § 1 Errichtung und Sitz
 
 (1) Es wird eine rechtsfähige Stiftung des öffentlichen Rechts "Mutter
@@ -30,7 +29,6 @@ und Kind - Schutz des ungeborenen Lebens" errichtet. Die Stiftung
 entsteht mit dem Inkrafttreten dieses Gesetzes.
 
 (2) Der Sitz der Stiftung ist Bonn.
-
 
 ## § 2 Stiftungszweck
 
@@ -43,7 +41,6 @@ der Schwangerschaft zu erleichtern.
 (2) Auf Leistungen auf Grund dieses Gesetzes besteht kein
 Rechtsanspruch.
 
-
 ## § 3 Zuwendungsempfänger
 
 Die Stiftung vergibt die Mittel nach Maßgabe des Satzes 2 an
@@ -52,7 +49,6 @@ Abs. 1) landesweit tätig sind und dabei keine hoheitlichen Befugnisse
 wahrnehmen. Die auf die einzelnen Länder entfallenden Mittel erhält
 entweder ein Zusammenschluß solcher Einrichtungen aus mehreren Ländern
 oder eine Einrichtung je Land.
-
 
 ## § 4 Verwendung der Stiftungsmittel
 
@@ -81,7 +77,6 @@ rechtzeitig möglich ist oder nicht ausreicht.
 
 (3) Nähere Einzelheiten regeln die Richtlinien.
 
-
 ## § 5 Pfändungsfreiheit, Verhältnis zu anderen Sozialleistungen
 
 (1) Leistungen, die dem in § 2 Abs. 1 genannten Personenkreis aus
@@ -98,7 +93,6 @@ des Kontos § 850k Abs. 6 der Zivilprozessordnung entsprechend.
 als Einkommen unberücksichtigt, wenn bei Sozialleistungen auf Grund
 von Rechtsvorschriften die Gewährung oder die Höhe dieser Leistungen
 von anderem Einkommen abhängig ist.
-
 
 ## § 6 Stiftungsvermögen
 
@@ -117,18 +111,15 @@ für den Aufbau des Stiftungsvermögens zu verwenden.
 (3) Die Stiftung ist berechtigt, Zuwendungen von dritter Seite
 anzunehmen.
 
-
 ## § 7 Satzung
 
 Die Stiftung kann eine Satzung erlassen, die vom Stiftungsrat
 beschlossen wird.
 
-
 ## § 8 Stiftungsorgane
 
 Organe der Stiftung sind der Stiftungsrat, der Geschäftsführer und das
 Kuratorium.
-
 
 ## § 9 Stiftungsrat
 
@@ -177,7 +168,6 @@ seiner Mitglieder anwesend ist.
 (7) Der Stiftungsrat faßt seine Beschlüsse mit einfacher Mehrheit; bei
 Stimmengleichheit entscheidet die Stimme des Vorsitzenden.
 
-
 ## § 10 Geschäftsführer
 
 (1) Der Vorsitzende des Stiftungsrates bestellt einen Geschäftsführer.
@@ -188,7 +178,6 @@ ferner für die Vergabe der Stiftungsmittel und für die Überwachung
 ihrer zweckentsprechenden und wirtschaftlichen Verwendung
 verantwortlich. Er vertritt die Stiftung gerichtlich und
 außergerichtlich.
-
 
 ## § 11 Kuratorium
 
@@ -229,18 +218,15 @@ wählt aus seiner Mitte den Vorsitzenden.
 (3) Das Kuratorium berät den Stiftungsrat bei der Erfüllung seiner
 Aufgaben.
 
-
 ## § 12 Aufsicht
 
 Die Stiftung untersteht der Rechtsaufsicht des Bundesministeriums für
 Familie, Senioren, Frauen und Jugend.
 
-
 ## § 13 Inkrafttreten im Beitrittsgebiet
 
 Dieses Gesetz tritt am 1. Januar 1993 in dem in Artikel 3 des
 Einigungsvertrages genannten Gebiet in Kraft.
-
 
 ## § 14 (Inkrafttreten)
 

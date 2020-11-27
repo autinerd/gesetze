@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BAnz: 1960, Nr 3
 
-
-
 ## I.
 
 Auf Grund der §§ 9 Abs. 2 Satz 2, 62 Abs. 1 des Gesetzes zur Regelung
@@ -31,12 +29,10 @@ Einleitungsbehörde und oberster Dienstbehörde im Sinne der
 Bundesdisziplinarordnung zustehen, soweit ich mir nicht für bestimmte
 Fälle die Ausübung dieser Befugnisse vorbehalte.
 
-
 ## II.
 
 Ich behalte mir außerdem vor, in Einzelfällen die Befugnisse in jeder
 Lage des Verfahrens wieder an mich zu ziehen.
-
 
 ## III.
 
@@ -46,18 +42,15 @@ Rundschreiben vom 19. Juni 1952 (Gemeinsames Ministerialblatt S. 166)
 erfolgte entsprechende Übertragung für ihren Geschäftsbereich bleibt
 unberührt.
 
-
 ## IV.
 
 -
-
 
 ## V.
 
 Diese Anordnung tritt zugleich mit dem Gesetz über die Errichtung des
 Bundesverwaltungsamtes vom 28. Dezember 1959 (Bundesgesetzbl. I S.
 829) in Kraft.
-
 
 ## Schlußformel
 

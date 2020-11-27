@@ -17,13 +17,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1998, 1178
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -32,7 +29,6 @@ der Bundesrepublik Deutschland und der Republik Polen über die
 gegenseitige Hilfeleistung bei Katastrophen oder schweren
 Unglücksfällen wird zugestimmt. Das Abkommen wird nachstehend
 veröffentlicht.
-
 
 ## Art 2
 
@@ -55,7 +51,6 @@ Hilfeleistungen in der Republik Polen entstehen, trägt
 den Fällen des Artikels 9 Abs. 3 entstehen, richtet sich die
 Kostenträgerschaft danach, ob die jeweilige Hilfsmaßnahme in den
 Aufgabenbereich des Bundes oder eines Landes fällt.
-
 
 ## Art 3
 

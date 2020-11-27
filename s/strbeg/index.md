@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1988, 1093, 1128
 
-
-
 ## § 1 Strafbefreiende Erklärung
 
 (1) Wer bis 31. Dezember 1990 bei der Finanzbehörde für die
@@ -72,7 +70,6 @@ Abgabenordnung) durch unvollständige oder unrichtige Angabe der
 Einkünfte aus Kapitalvermögen oder des Kapitalvermögens, aus dem die
 Einkünfte geflossen sind, gelten die Absätze 1 bis 3 entsprechend.
 
-
 ## § 2 Absehen von Steuerfestsetzung
 
 (1) Im Fall einer strafbefreienden Erklärung nach § 1 Abs. 1 werden
@@ -96,7 +93,6 @@ Steuererklärungen für solche Veranlagungszeiträume unrichtig oder
 unvollständig angegeben worden sind, hat die Finanzbehörde für die
 strafbefreiende Erklärung nach § 1 Abs. 1 eine angemessene Frist zu
 setzen.
-
 
 ## § 3 Berlin-Klausel
 

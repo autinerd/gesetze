@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 Abs. 91 G v. 22.12.2011 I 3044
 
-
 ## § 1 Geltungsbereich
 
 Dieses Gesetz dient der Durchführung der Verordnung (EG) Nr. 1774/2002
@@ -29,7 +28,6 @@ durch die Verordnung (EG) Nr. 777/2008 vom 4. August 2008 (ABl. L 207
 vom 5.8.2008, S. 9), und der zu ihrer Durchführung ergangenen
 Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union.
 
-
 ## § 2 Zuständigkeit
 
 Die Durchführung der in § 1 genannten unmittelbar geltenden Rechtsakte
@@ -38,7 +36,6 @@ Vorschriften dieses Gesetzes und der auf Grund dieses Gesetzes
 erlassenen Rechtsvorschriften obliegt den zuständigen Landesbehörden,
 im Bereich der Bundeswehr den zuständigen Dienststellen der
 Bundeswehr, soweit gesetzlich nichts anderes bestimmt ist.
-
 
 ## § 3 Verpflichtung zur Verarbeitung und Beseitigung
 
@@ -132,7 +129,6 @@ nichts anderes bestimmt ist. Im gleichen Umfange ist die
 Beseitigungspflichtige nach Absatz 1 Satz 1 von ihrer Verpflichtung
 entbunden.
 
-
 ## § 4 Ausnahmen
 
 Die zuständige Behörde kann Ausnahmen von § 3 Abs. 1 Satz 1 und 2
@@ -171,7 +167,6 @@ Verordnung (EG) Nr. 1774/2002, das an in Artikel 23 Abs. 2 Buchstabe c
 der Verordnung (EG) Nr. 1774/2002 genannte Tiere verfüttert werden
 oder zu den in Satz 1 Nr. 1 genannten Zwecken verwendet werden soll.
 
-
 ## § 5 Probenahme
 
 (1) Soweit es zur Durchführung der in § 1 genannten unmittelbar
@@ -184,7 +179,6 @@ anzufordern.
 
 (2) Für Proben, die im Rahmen der amtlichen Überwachung nach diesem
 Gesetz entnommen werden, wird keine Entschädigung geleistet.
-
 
 ## § 6 Einzugsbereiche
 
@@ -199,7 +193,6 @@ bezeichnete Material auch in Verarbeitungsbetrieben,
 Verbrennungsanlagen oder Mitverbrennungsanlagen außerhalb des
 Einzugsbereichs nach Absatz 1 behandelt, verarbeitet oder beseitigt
 werden darf.
-
 
 ## § 7 Meldepflicht
 
@@ -257,7 +250,6 @@ unverzüglich zu melden.
 (4) Der Besitzer des in § 3 Abs. 1 Satz 1 bezeichneten Materials hat
 dieses der Beseitigungspflichtigen zu überlassen.
 
-
 ## § 8 Abholungspflicht
 
 (1) Die Beseitigungspflichtige hat das in § 3 Abs. 1 Satz 1
@@ -280,7 +272,6 @@ Heranschaffung der tierischen Nebenprodukte aus besonders
 verkehrsungünstig gelegenem Gelände bis zur nächsten befahrbaren
 Straße.
 
-
 ## § 9 Ablieferungspflicht
 
 (1) Soweit eine Verarbeitung und Beseitigung des in § 3 Abs. 1 Satz 1
@@ -295,7 +286,6 @@ abzuliefern.
 (2) Die Pflicht nach Absatz 1 besteht nicht, wenn der Besitzer
 sichergestellt hat, dass die Beseitigungspflichtige die tierischen
 Nebenprodukte abholt.
-
 
 ## § 10 Aufbewahrungspflicht
 
@@ -314,7 +304,6 @@ gilt nicht für Zerlegungen durch den beamteten Tierarzt oder die
 beamtete Tierärztin oder - im Falle seiner oder ihrer Verhinderung -
 durch einen beauftragten anderen Tierarzt oder eine beauftragte andere
 Tierärztin.
-
 
 ## § 11 Gebührenerhebung
 
@@ -340,7 +329,6 @@ Kosten (Gebühren und Auslagen) zu erheben sind.
 (4) Bei umhüllten oder verpackten tierischen Nebenprodukten trägt
 derjenige, bei dem die tierischen Nebenprodukte angefallen sind, die
 Kosten der Öffnung und der Entfernung der Umhüllung oder Verpackung.
-
 
 ## § 12 Überwachung
 
@@ -401,7 +389,6 @@ des Grundgesetzes) wird insoweit eingeschränkt.
 Maßnahmen nach den Absätzen 4 bis 6 zu dulden, die mit diesen
 Maßnahmen beauftragten Personen zu unterstützen und auf deren
 Verlangen die geschäftlichen Unterlagen vorzulegen.
-
 
 ## § 13 Ermächtigung zum Erlass von Rechtsverordnungen
 
@@ -531,10 +518,6 @@ Zustimmung des Bundesrates
     Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union
     unanwendbar geworden sind.
 
-
-
-
-
 ## § 14 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
@@ -631,13 +614,11 @@ werden können.
 Absätzen 1 und 2 bezieht, können eingezogen werden. § 23 des Gesetzes
 über Ordnungswidrigkeiten ist anzuwenden.
 
-
 ## § 15 Begriffsbestimmungen
 
 Für die in diesem Gesetz verwendeten Begriffe gelten die
 Begriffsbestimmungen des Artikels 2 Abs. 1 und des Anhangs I der
 Verordnung (EG) Nr. 1774/2002.
-
 
 ## § 16 Übergangsvorschriften
 
@@ -740,7 +721,6 @@ fort.
 Tierkörperbeseitigungsgesetzes in der bis zum 28. Januar 2004
 geltenden Fassung erlassenen landesrechtlichen Vorschriften über
 Entgelte und Kosten fort.
-
 
 ## § 17 Bekanntmachungen
 

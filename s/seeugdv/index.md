@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 6 V v. 8.3.2012 I 483
 
-
 ## Eingangsformel
 
 Auf Grund des § 5 Abs. 3 und des § 8 Abs. 3 des
@@ -27,10 +26,7 @@ wird vom Bundesminister für Verkehr, auf Grund des § 22 Abs. 5 dieses
 Gesetzes wird vom Bundesminister für Verkehr im Einvernehmen mit dem
 Bundesminister der Finanzen verordnet:
 
-
 ## Abschnitt 1 - Örtliche Zuständigkeit der Seeämter
-
-
 
 ### § 1 Zuständigkeit des Seeamtes Kiel
 
@@ -42,7 +38,6 @@ Sicherheit der Seefahrt im Zuständigkeitsbereich der Wasser- und
 Schifffahrtsämter Lübeck, Kiel-Holtenau, Brunsbüttel oder Tönning oder
 in den angrenzenden Häfen berührt ist.
 
-
 ### § 2 Zuständigkeit des Seeamtes Hamburg
 
 Das Seeamt Hamburg ist zuständig im Sinne des § 43 des Seesicherheits-
@@ -52,7 +47,6 @@ Sicherheit der Seefahrt im Zuständigkeitsbereich der Wasser- und
 Schifffahrtsämter Hamburg oder Cuxhaven oder in den angrenzenden Häfen
 berührt ist.
 
-
 ### § 3 Zuständigkeit des Seeamtes Bremerhaven
 
 Das Seeamt Bremerhaven ist zuständig im Sinne des § 43 des
@@ -61,7 +55,6 @@ Befugnis vom oder im Land Bremen erteilt worden ist oder wenn in
 besonderem Maße die Sicherheit der Seefahrt im Zuständigkeitsbereich
 der Wasser- und Schifffahrtsämter Bremen oder Bremerhaven oder in den
 angrenzenden Häfen berührt ist.
-
 
 ### § 4 Zuständigkeit des Seeamtes Emden
 
@@ -73,7 +66,6 @@ Sicherheit der Seefahrt im Zuständigkeitsbereich der Wasser- und
 Schifffahrtsämter Emden oder Wilhelmshaven oder in den angrenzenden
 Häfen berührt ist.
 
-
 ### § 4a Zuständigkeit des Seeamtes Rostock
 
 Das Seeamt Rostock ist zuständig im Sinne des § 43 des Seesicherheits-
@@ -84,7 +76,6 @@ wenn in besonderem Maße die Sicherheit der Seefahrt im
 Zuständigkeitsbereich des Wasser- und Schifffahrtsamts Stralsund oder
 in den angrenzenden Häfen berührt ist.
 
-
 ### § 4b Mehrere Zuständigkeiten
 
 Mehrere Verfahren, denen ein gleicher Sachverhalt zugrunde liegt,
@@ -92,10 +83,7 @@ sollen nicht von unterschiedlichen Seeämtern durchgeführt werden.
 Zuständig ist das Seeamt, das als erstes den Sachverhalt zugrunde
 gelegt hat, sonst das Seeamt, das der Vorsitzende bestimmt.
 
-
 ## Abschnitt 2 - Auswahl der ehrenamtlichen Beisitzer
-
-
 
 ### § 5 Personengruppen
 
@@ -168,7 +156,6 @@ fachliche Erfahrung im Sinne des Absatzes 1 verfügen.
 (3) Personen, die das 61. Lebensjahr vollendet haben, sollen nicht zum
 Beisitzer bestellt werden.
 
-
 ### § 6 Beisitzerliste
 
 Die Beisitzerliste muß enthalten:
@@ -189,10 +176,7 @@ Befähigungszeugnisse, Bestallungen als Seelotse und Fahrerlaubnisse
 sind zu bezeichnen. Die Stelle, die den Beisitzer benannt hat, ist
 anzugeben.
 
-
 ## Abschnitt 3 - Kosten der Seeunfalluntersuchung
-
-
 
 ### § 7 Gebühren
 
@@ -200,20 +184,15 @@ Die Seeämter erheben für Amtshandlungen auf dem Gebiet der
 Untersuchung von Seeunfällen Gebühren nach der Anlage zu dieser
 Verordnung.
 
-
 ## Abschnitt 4 - Schlußvorschriften
-
-
 
 ### § 8
 
 (weggefallen)
 
-
 ### § 9 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ### Anlage (zu § 7) Gebührenverzeichnis
 
@@ -253,10 +232,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         Satz 2 SUG)
 
     *   75
-
-
-
-
 
 ### Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet D Abschnitt III (BGBl. II 1990, 889, 1107)
 

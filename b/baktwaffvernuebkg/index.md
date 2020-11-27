@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1983, 132
 
-
-
 ## Art 1
 
 Dem in London, Moskau und Washington am 10. April 1972 von der
@@ -27,7 +25,6 @@ Verbot der Entwicklung, Herstellung und Lagerung bakteriologischer
 (biologischer) Waffen und von Toxinwaffen sowie über die Vernichtung
 solcher Waffen wird zugestimmt. Das Übereinkommen wird nachstehend
 veröffentlicht.
-
 
 ## Art 2
 
@@ -51,7 +48,6 @@ erwerben oder zurückzubehalten.
 (2) Soweit andere Rechtsvorschriften dies ebenfalls verbieten und mit
 Strafe oder Geldbuße bedrohen oder von einer Genehmigung abhängig
 machen, bleiben sie unberührt.
-
 
 ## Art 3
 

@@ -16,15 +16,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1971, 693
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 19 des Gesetzes zur Förderung der Stabilität und des
 Wachstums der Wirtschaft vom 8. Juni 1967 (Bundesgesetzbl. I S. 582)
 verordnet die Bundesregierung nach Anhörung des Konjunkturrats für die
 öffentliche Hand mit Zustimmung des Bundesrates:
-
 
 ## § 1
 
@@ -111,7 +108,6 @@ Gesetzes zur Förderung der Stabilität und des Wachstums der Wirtschaft
 bezeichneten Stellen sowie Kreditaufnahmen gemäß § 20 Abs. 3 des
 Gesetzes bleiben außer Betracht.
 
-
 ## § 2
 
 Im Rahmen der sich aus § 1 ergebenden Höchstbeträge dürfen Anleihen
@@ -122,14 +118,12 @@ aufgenommen werden. Dies gilt nicht für Schuldscheindarlehen des
 Bundes und der Länder, soweit sie im Einzelfall 20 Mill. DM nicht
 übersteigen.
 
-
 ## § 3
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit § 32 des
 Gesetzes zur Förderung der Stabilität und des Wachstums der Wirtschaft
 auch im Land Berlin.
-
 
 ## § 4
 

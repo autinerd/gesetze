@@ -16,13 +16,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1976, 37
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -32,7 +29,6 @@ in der nachstehend veröffentlichten Neufassung sowie den Allgemeinen
 Vorschriften für die Aufnahme nichtregionaler Staaten als Mitglieder
 der Bank wird zugestimmt. Das Übereinkommen sowie die Allgemeinen
 Vorschriften werden nachstehend veröffentlicht.
-
 
 ## Art 2
 
@@ -55,19 +51,16 @@ zum jeweiligen DM-Gegenwert von bis zu dreiundvierzig Millionen
 sechshundertsiebzigtausend US-Dollar zum Gewicht und Feingehalt des
 Goldes vom 1. Januar 1959 aufzunehmen.
 
-
 ## Art 3
 
 Die Deutsche Bundesbank ist Hinterlegungsstelle für die
 Interamerikanische Entwicklungsbank nach Artikel XIV Abschnitt 4 des
 Übereinkommens.
 
-
 ## Art 4
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
-
 
 ## Art 5
 

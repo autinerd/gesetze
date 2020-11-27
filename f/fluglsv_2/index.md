@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 2992
 
-
 ## Eingangsformel
 
 Auf Grund des § 3 Absatz 2 und der §§ 7 und 9 Absatz 4 Satz 2 des
@@ -23,7 +22,6 @@ Gesetzes zum Schutz gegen Fluglärm in der Fassung der Bekanntmachung
 vom 31. Oktober 2007 (BGBl. I S. 2550), hinsichtlich des § 3 Absatz 2
 und des § 7 nach Anhörung der beteiligten Kreise, verordnet die
 Bundesregierung:
-
 
 ## § 1 Anwendungsbereich
 
@@ -37,7 +35,6 @@ bauliche Schallschutzmaßnahmen an schutzbedürftigen Einrichtungen und
 Wohnungen, die bei der Festsetzung des Lärmschutzbereichs errichtet
 sind oder deren Errichtung nach § 5 Absatz 4 des Gesetzes zum Schutz
 gegen Fluglärm zulässig ist.
-
 
 ## § 2 Aufenthaltsräume
 
@@ -59,10 +56,6 @@ Aufenthaltsräume sind
     schutzbedürftigen Einrichtungen: Gemeinschaftsräume, Unterrichts- und
     Vortragsräume, Leseräume in Bibliotheken sowie wissenschaftliche
     Arbeitsräume.
-
-
-
-
 
 ## § 3 Schallschutzanforderungen
 
@@ -218,7 +211,6 @@ sonstiger erforderlicher Belüftungseinrichtungen in Schlafräumen ist
 unter Beachtung des Standes der Schallschutztechnik im Hochbau zu
 bemessen.
 
-
 ## § 4 Einhaltung der Anforderungen
 
 (1) Die Anforderungen nach § 3 gelten vorbehaltlich des § 3 Absatz 5
@@ -235,7 +227,6 @@ Ausgabe November 1989, bestimmt. Entsprechen die Umfassungsbauteile
 nicht den Ausführungsbeispielen, ist für die Bestimmung der
 Bauschalldämm-Maße auf die Erkenntnisse nach dem Stand der
 Schallschutztechnik zurückzugreifen.
-
 
 ## § 5 Erstattung von Aufwendungen für bauliche Schallschutzmaßnahmen
 
@@ -287,18 +278,15 @@ Schallschutzmaßnahmen ist die tatsächliche oder zu erwartende
 Raumnutzung zum Zeitpunkt der Entscheidung über den Erstattungsantrag
 maßgeblich.
 
-
 ## § 6 Zugänglichkeit der Normblätter
 
 DIN-Normen, auf die in dieser Verordnung verwiesen wird, sind bei der
 Beuth Verlag GmbH, Berlin, zu beziehen und beim Deutschen Patent- und
 Markenamt in München archivmäßig gesichert niedergelegt.
 
-
 ## § 7 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Schlussformel
 

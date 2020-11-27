@@ -19,8 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 Erlass v. 29.8.2011 I 1832
 
-
-
 ## Art 1
 
 Auf Grund von § 3 Abs. 1 des Gesetzes über Titel, Orden und
@@ -31,10 +29,6 @@ Ordensgesetz - genehmige ich die Stiftung und Verleihung des
     merite
 
     für Wissenschaften und Künste.
-
-
-
-
 
 ## Art 2
 
@@ -53,15 +47,10 @@ und Verleihung der folgenden Ehrenzeichen:
 
 4.  Ehrenzeichen der Bundesverkehrswacht in zwei Klassen.
 
-
-
-
-
 ## Art 3
 
 Ich genehmige die Stiftungsbestimmungen und die Verleihungsbedingungen
 der in den Artikeln 1 und 2 genannten Orden und Ehrenzeichen.
-
 
 ## Art 4
 
@@ -73,7 +62,6 @@ Auf Grund von § 3 Abs. 2 des Ordensgesetzes erkenne ich das
 
 als Ehrenzeichen an.
 
-
 ## Art 5
 
 Die Stiftungsbestimmungen und die Verleihungsbedingungen sowie die
@@ -81,7 +69,6 @@ Abbildungen und die Beschreibungen der nach den Artikeln 1 und 2
 genehmigten Orden und Ehrenzeichen und der nach Artikel 4 als
 Ehrenzeichen anerkannten Auszeichnung werden vom Bundesminister des
 Innern im Bundesanzeiger veröffentlicht.
-
 
 ## Art 6
 
@@ -93,7 +80,6 @@ bedarf meiner Genehmigung.
 (2) Jede Änderung der Verleihungsbedingungen der nach Artikel 4 als
 Ehrenzeichen anerkannten Auszeichnung und jede Änderung ihrer Form und
 ihrer Benennung ist mir vor dem Inkraftsetzen anzuzeigen.
-
 
 ## Schlußformel
 

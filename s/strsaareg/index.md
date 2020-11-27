@@ -19,10 +19,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 58 G v. 8.12.2010 I 1864
 
-
 ## Erster Teil - Allgemeine Grundsätze Allgemeines Abgabenrecht
-
-
 
 ### § 1 Allgemeine Grundsätze
 
@@ -56,7 +53,6 @@ anzuwenden, soweit nicht etwas anderes bestimmt wird; dabei sind die
 Beträge nach dem amtlichen Umrechnungskurs am Tage nach Ablauf der
 Übergangszeit (Eingliederungstag) auf Deutsche Mark umzustellen.
 
-
 ### § 2 Finanzgerichtsbarkeit
 
 (1) Bis zum Inkrafttreten einer bundeseinheitlichen Regelung der
@@ -69,7 +65,6 @@ in Widerspruch steht.
 (2) Das Oberverwaltungsgericht des Saarlandes entscheidet noch über
 diejenigen Rechtsmittel in Steuersachen, die im Zeitpunkt des Ablaufs
 der Übergangszeit bei ihm anhängig sind.
-
 
 ### § 3 Steuerberatung
 
@@ -85,49 +80,31 @@ Steuersachen vom 30. Juli 1949 (Amtsblatt des Saarlandes S. 779) vom
 bundesgesetzlichen Regelung der Rechtsverhältnisse der Steuerberater
 und Helfer in Steuersachen in Kraft.
 
-
 ### § 4 (weggefallen)
-
-
 
 ## Zweiter Teil - (weggefallen)
 
 -
 
-
 ### (XXXX) §§ 5 bis 8 (weggefallen)
-
-
 
 ## Dritter Teil - (weggefallen)
 
 -
 
-
 ### (XXXX) §§ 9 bis 41 (weggefallen)
-
-
 
 ## Vierter Teil - Besitz- und Verkehrsteuern
 
-
-
 ### Erster Abschnitt - Einkommensteuer
 
-
-
 #### Erster Unterabschnitt - Änderung des Einkommensteuergesetzes
-
-
 
 ##### § 42
 
 -
 
-
 #### Zweiter Unterabschnitt - Übergangsvorschriften
-
-
 
 ##### § 43 Personenkreis
 
@@ -160,7 +137,6 @@ die Veranlagungszeiträume 1959 und 1960 noch im übrigen Bundesgebiet
 oder in Berlin (West) nach den für diese Gebiete geltenden
 Vorschriften zur Einkommensteuer veranlagt.
 
-
 ##### § 44 Erster Veranlagungszeitraum, Wirtschaftsjahr
 
 (1) Erster Veranlagungszeitraum ist die Zeit vom Eingliederungstag bis
@@ -170,7 +146,6 @@ dem Einkommen, das der Steuerpflichtige in diesem Veranlagungszeitraum
 bezogen hat.
 
 (2) Mit dem Eingliederungstag beginnt ein neues Wirtschaftsjahr.
-
 
 ##### § 45 Umrechnung von Jahresbeträgen
 
@@ -340,7 +315,6 @@ voller Monat anzusetzen ist:
 (2) Bei der Umrechnung sich ergebende Pfennigbeträge bleiben
 unberücksichtigt.
 
-
 ##### § 46 Maßgeblicher Gewinn bei Land- und Forstwirten
 
 Bei Land- und Forstwirten werden die Gewinne der Wirtschaftsjahre, die
@@ -350,7 +324,6 @@ Umfang bei der Ermittlung des Einkommens für den Veranlagungszeitraum
 1959/60 berücksichtigt. Für Wirtschaftsjahre, die nach dem 31.
 Dezember 1959 beginnen, gilt § 2 Abs. 6 Ziff. 1 des
 Einkommensteuergesetzes.
-
 
 ##### § 47 Zusammenfassung von Wirtschaftsjahren
 
@@ -362,7 +335,6 @@ Gewinnermittlung für die einzelnen Wirtschaftsjahre in Anspruch
 genommen werden; das gilt auch, wenn die Geschäftsjahre nach § 7 des
 D-Markbilanzgesetzes für das Saarland vom 30. Juni 1959
 (Bundesgesetzbl. I S. 372) verbunden werden.
-
 
 ##### § 48 Ermittlung der Einkommensteuer bei Gewerbetreibenden mit einem vom Kalenderjahr abweichenden Wirtschaftsjahr
 
@@ -395,7 +367,6 @@ Veranlagungszeitraum das mit dem Kalenderjahr übereinstimmende
 Wirtschaftsjahr auf einen vom Kalenderjahr abweichenden Zeitraum nach
 § 2 Abs. 5 Ziff. 2 des Einkommensteuergesetzes umgestellt hat.
 
-
 ##### § 49 Gewinnzuschläge und Gewinnabschläge wegen Schwankungen im Betriebsvermögen
 
 Sind bei der Ermittlung des Gewinns für Wirtschaftsjahre, die vor dem
@@ -408,14 +379,12 @@ Betriebsvermögen ausgeglichen haben. Hierbei sind die bis zum Ablauf
 der Übergangszeit vorgenommenen Zuschläge und Abschläge nach § 1 Abs.
 3 auf Deutsche Mark umzurechnen.
 
-
 ##### § 50 Rückstellung für Pensionsanwartschaften
 
 Die Vorschriften des § 6a des Einkommensteuergesetzes können bei
 Pensionsverpflichtungen, die vor dem 20. Januar 1947 entstanden sind,
 unter der Annahme einer erst am 20. November 1947 gegebenen
 Pensionszusage angewendet werden.
-
 
 ##### § 51 Absetzung für Abnutzung oder Substanzverringerung
 
@@ -467,7 +436,6 @@ des Wirtschaftsguts zu bemessen.
 (5) Für die Umrechnung von Frankenwerten in Deutsche Mark gilt § 1
 Abs. 3 entsprechend.
 
-
 ##### § 52 Erhöhte Absetzungen für Wohngebäude
 
 (1) Die Vorschriften des § 7b des Einkommensteuergesetzes sind
@@ -501,14 +469,12 @@ werden. Nach Ablauf dieser zehn Jahre bemessen sich die Absetzungen
 für Abnutzung nach dem dann noch vorhandenen Restwert und der
 Restnutzungsdauer des Gebäudes.
 
-
 ##### § 53 Weitergeltung des § 8 der Dritten Verordnung über Steuer- und Gebührenerleichterungen für den Wohnungsbau
 
 § 8 der Dritten Verordnung über Steuer- und Gebührenerleichterungen
 für den Wohnungsbau ist weiter anzuwenden; für die Umrechnung des
 übertragungsfähigen Steuererleichterungsbetrags in Deutsche Mark gilt
 § 1 Abs. 3 entsprechend.
-
 
 ##### § 54 Überleitungsvorschriften zu § 10 des Einkommensteuergesetzes
 
@@ -565,7 +531,6 @@ Nachsteuerschuld auf Veranlagungszeiträume bezieht, die bis zum Ablauf
 der Übergangszeit enden, ist sie auf Deutsche Mark umzurechnen; § 1
 Abs. 3 findet entsprechend Anwendung.
 
-
 ##### § 55 Verlustabzug
 
 (1) Die Vorschriften des § 10d des Einkommensteuergesetzes sind
@@ -590,7 +555,6 @@ Abnutzung von Wirtschaftsgütern, die bis zum Ablauf der Übergangszeit
 angeschafft oder hergestellt worden sind, nur die bei Anwendung des §
 51 Abs. 2 Ziff. 2 und 3 in Betracht kommenden Werte zugrunde legt.
 
-
 ##### § 56 Nutzungswert der Wohnung im Sinn des § 21 Abs. 2 des Einkommensteuergesetzes
 
 (1) Bei der Ermittlung des Nutzungswerts der Wohnung nach § 21 Abs. 2
@@ -602,7 +566,6 @@ aufgewendet worden sind, bleibt unberührt.
 
 (2) (weggefallen)
 
-
 ##### § 57 Einkommensteuertabelle für den Veranlagungszeitraum 1959/60
 
 Die Einkommensteuertabelle (Anlage zu § 32a des
@@ -613,7 +576,6 @@ Veranlagung nach § 44 auf den Zeitraum vom Eingliederungstag bis zum
 Eingliederungstag fällt, als voller Monat anzusetzen. Der
 Bundesminister der Finanzen wird ermächtigt, die sich hiernach
 ergebenden Einkommensteuertabellen bekanntzumachen.
-
 
 ##### § 58 Einkünfte aus mehrjähriger Tätigkeit
 
@@ -629,7 +591,6 @@ Einkommensteuergesetzes zu besteuernden außerordentlichen Einkünfte
 gekürzt wird. Der anzuwendende Steuersatz darf jedoch nicht weniger
 als 15 und nicht mehr als 40 vom Hundert betragen.
 
-
 ##### § 59 Entrichtung und Anrechnung von Vorauszahlungen
 
 (1) Die nach § 42 des Einkommensteuergesetzes (Saar), § 57 der
@@ -643,7 +604,6 @@ zwei Wochen nach dem Eingliederungstag fällig.
 (2) Auf die Einkommensteuerschuld für den Veranlagungszeitraum 1959/60
 (§ 44) werden nur die entrichteten Vorauszahlungen angerechnet, die in
 diesem Veranlagungszeitraum fällig geworden sind.
-
 
 ##### § 60 Steuerabzug vom Arbeitslohn (Lohnsteuer)
 
@@ -693,7 +653,6 @@ Erhebungszeitraums einbehaltene Lohnsteuer die Lohnsteuer, die auf den
 in diesem Erhebungszeitraum bezogenen Arbeitslohn nach der in Absatz 1
 Satz 3 bezeichneten Lohnsteuertabelle entfällt, übersteigt.
 
-
 ##### § 61 Begünstigung der Anschaffung oder Herstellung bestimmter Wirtschaftsgüter und der Vornahme bestimmter Baumaßnahmen durch Land- und Forstwirte
 
 (1) Die Vorschriften der §§ 76 bis 78 der Einkommensteuer-
@@ -710,7 +669,6 @@ anzuwenden, daß die Abschreibungen nach den in Deutsche Mark
 umgerechneten Anschaffungs- oder Herstellungskosten zu bemessen sind;
 für die Umrechnung gilt § 1 Abs. 3 entsprechend.
 
-
 ##### § 62 Bewertungsfreiheit für Abwasserbehandlungs- und Luftreinigungsanlagen
 
 (1) Die Vorschriften der §§ 79 und 82 der Einkommensteuer-
@@ -725,7 +683,6 @@ anzuwenden, daß die Abschreibungen nach den in Deutsche Mark
 umgerechneten Anschaffungs- oder Herstellungskosten zu bemessen sind;
 für die Umrechnung gilt § 1 Abs. 3 entsprechend.
 
-
 ##### § 63 Bewertungsfreiheit für bestimmte Wirtschaftsgüter des Anlagevermögens im Kohlen- und Erzbergbau
 
 Die Vorschriften des § 81 der Einkommensteuer-Durchführungsverordnung
@@ -735,14 +692,12 @@ Durchführungsverordnung (Saar) in Anspruch genommenen, in Deutsche
 Mark umgerechneten Abschreibungen anzurechnen sind; für die Umrechnung
 gilt § 1 Abs. 3 entsprechend.
 
-
 ##### § 64 Steuerfreiheit von Familienzulagen
 
 Nachzahlungen von Familienzulagen im Sinn des § 5 Ziff. 9 des
 Einkommensteuergesetzes (Saar) für vor dem Eingliederungstag liegende
 Zeiträume sowie Zahlungen von Familienzulagen zur Abwicklung der Kasse
 für Familienzulagen des Saarlandes sind steuerfrei.
-
 
 ##### § 65 Ermäßigung der veranlagten Einkommensteuer und der Lohnsteuer
 
@@ -796,7 +751,6 @@ bekanntzumachen; bei der Aufstellung der Einkommensteuertabellen und
 der Jahreslohnsteuertabellen sich ergebende Pfennigbeträge bleiben
 unberücksichtigt.
 
-
 ##### § 66 Ermäßigung der veranlagten Einkommensteuer bei Vorliegen einer Betriebstätte
 
 Bei Steuerpflichtigen, die, ohne die Voraussetzungen des § 65 zu
@@ -819,7 +773,6 @@ so wird die Ermäßigung nur insoweit gewährt, als in den Betriebstätten
 des einzelnen Gewerbebetriebs die in Satz 1 bezeichnete Mindestzahl
 von Arbeitnehmern beschäftigt worden ist.
 
-
 ##### § 67 Behandlung von Organgesellschaften
 
 Besteht zwischen einer Organgesellschaft mit Sitz und Geschäftsleitung
@@ -833,7 +786,6 @@ Durchschnitt regelmäßig insgesamt mindestens 25 Arbeitnehmer
 beschäftigt worden sind. Satz 1 gilt auch für beherrschende
 Personenunternehmen, soweit deren Inhaber nicht zu den in § 65 Abs. 1
 bezeichneten Personen gehören.
-
 
 ##### § 68 Berechnung der Ermäßigung der veranlagten Einkommensteuer
 
@@ -864,10 +816,7 @@ Bestimmungen darüber getroffen werden, wie in den Fällen der §§ 66 und
 67 die Abgrenzung und Ermittlung der im Saarland erzielten Gewinne
 vorzunehmen sind.
 
-
 ### Zweiter Abschnitt - Körperschaftsteuer
-
-
 
 #### § 69 Personenkreis
 
@@ -902,7 +851,6 @@ verlegen, werden für die Veranlagungszeiträume 1959 und 1960 noch im
 übrigen Bundesgebiet oder in Berlin (West) nach den für diese Gebiete
 geltenden Vorschriften zur Körperschaftsteuer veranlagt.
 
-
 #### § 70 Persönliche Befreiungen
 
 Von der Körperschaftsteuer sind befreit
@@ -916,10 +864,6 @@ Von der Körperschaftsteuer sind befreit
 
 3.  die Saarland-Sport-Toto-GmbH, soweit sich ihr Geschäftsbereich auf
     Sportwetten und Lotto erstreckt.
-
-
-
-
 
 #### § 71 Erster Veranlagungszeitraum, Wirtschaftsjahr, Zusammenfassung von Wirtschaftsjahren
 
@@ -939,12 +883,10 @@ Gewinnermittlung für die einzelnen Wirtschaftsjahre in Anspruch
 genommen werden. Das gilt auch, wenn die Geschäftsjahre nach § 7 des
 D-Markbilanzgesetzes für das Saarland verbunden werden.
 
-
 #### § 72 Anwendung von Vorschriften des Ersten Abschnitts
 
 Die Vorschriften des Ersten Abschnitts sind für Körperschaften,
 Personenvereinigungen und Vermögensmassen entsprechend anzuwenden.
-
 
 #### § 73 Schachtelgesellschaften
 
@@ -953,12 +895,10 @@ Fassung vom 18. November 1958 (Bundesgesetzbl. I S. 747) -
 Körperschaftsteuergesetz - bleibt § 23b Abs. 1 des
 Körperschaftsteuergesetzes außer Betracht.
 
-
 #### § 74 Nichtabzugsfähige Ausgaben
 
 Bei der Ermittlung des Einkommens sind die Wiederaufbauabgabe und die
 Gemeinschaftshilfeabgabe nicht abzugsfähig.
-
 
 #### § 75 Körperschaftsteuertarif für personenbezogene Kapitalgesellschaften für den Veranlagungszeitraum 1959/60
 
@@ -968,7 +908,6 @@ Körperschaftsteuergesetzes sind die in dieser Vorschrift und die in §
 Einkommensstufen auf den Zeitraum vom Eingliederungstag bis zum 31.
 Dezember 1960 umzurechnen, wobei der Monat, in den der
 Eingliederungstag fällt, als voller Monat anzusetzen ist.
-
 
 #### § 76 Körperschaftsteuertarif für personenbezogene Kapitalgesellschaften mit einem vom Kalenderjahr abweichenden Wirtschaftsjahr
 
@@ -992,7 +931,6 @@ Steuerpflichtige in diesem Veranlagungszeitraum das mit dem
 Kalenderjahr übereinstimmende Wirtschaftsjahr auf einen vom
 Kalenderjahr abweichenden Zeitraum nach § 5 Abs. 2 Satz 3 des
 Körperschaftsteuergesetzes umgestellt hat.
-
 
 #### § 77 Ermäßigung der veranlagten Körperschaftsteuer
 
@@ -1019,7 +957,6 @@ Sitz und Geschäftsleitung im übrigen Geltungsbereich dieses Gesetzes
 ein steuerrechtlich anerkannter Ergebnisabführungsvertrag besteht,
 gelten die Vorschriften der §§ 66 bis 68 entsprechend.
 
-
 #### § 78 Landwirtschaftliche Nutzungs- und Verwertungsgenossenschaften
 
 Auf landwirtschaftliche Genossenschaften, die am Eingliederungstag im
@@ -1028,10 +965,7 @@ Ziff. 4 des saarländischen Körperschaftsteuergesetzes in der Fassung
 der Bekanntmachung vom 5. März 1958 (Amtsblatt des Saarlandes S. 273)
 bis zum Veranlagungszeitraum 1961 anzuwenden.
 
-
 ### Dritter Abschnitt - Gewerbesteuer
-
-
 
 #### § 79 Erhebungszeitraum 1959
 
@@ -1045,7 +979,6 @@ Ablauf der Übergangszeit. Bei der Umrechnung des Gewerbeertrags nach §
 Steuermeßbeträge nach § 11 Abs. 5 und § 13 Abs. 4 des
 Gewerbesteuergesetzes bleibt der Monat, in den der Eingliederungstag
 fällt, außer Betracht.
-
 
 #### § 80 Erhebungszeitraum 1959/60
 
@@ -1111,7 +1044,6 @@ nach dem Gewerbeertrag (Absatz 1 Satz 2 und Absatz 3 Ziff. 3) und dem
 Gewerbekapital auf so viel Zwölftel, wie die Steuerpflicht volle oder
 angefangene Kalendermonate im Erhebungszeitraum bestanden hat.
 
-
 #### § 81 Gewerbeverlust
 
 (1) Die Vorschrift des § 10a des Gewerbesteuergesetzes ist
@@ -1131,7 +1063,6 @@ Gesetzes über steuerliche Maßnahmen im Saarland (StMG) vom 12. Juni
 1957 (Amtsblatt des Saarlandes S. 905) entstanden sind. Für die
 Umrechnung der Fehlbeträge in Deutsche Mark gilt § 1 Abs. 3
 entsprechend.
-
 
 #### § 82 Steuerbefreiungen
 
@@ -1159,10 +1090,6 @@ entsprechend.
 2.  bei der Lohnsummensteuer für die Lohnsumme des Monats, in den der
     Eingliederungstag fällt.
 
-
-
-
-
 #### § 83 Entrichtung und Anrechnung von Vorauszahlungen
 
 (1) Die nach § 22 des saarländischen Gewerbesteuergesetzes in der
@@ -1178,10 +1105,7 @@ Eingliederungstag fällig.
 80) werden die entrichteten Vorauszahlungen angerechnet, die in diesem
 Erhebungszeitraum fällig geworden sind.
 
-
 ### Vierter Abschnitt - Gesetz über Steuererleichterungen bei der Umwandlung von Kapitalgesellschaften und bergrechtlichen Gewerkschaften (Umwandlungs-Steuergesetz)
-
-
 
 #### § 84 Umwandlung
 
@@ -1218,10 +1142,7 @@ Sitz, einen Wohnsitz oder ihren gewöhnlichen Aufenthalt im
 Geltungsbereich dieses Gesetzes außerhalb des Saarlandes haben,
 sinngemäß anzuwenden.
 
-
 ### Fünfter Abschnitt - Wohnungsbau-Prämien
-
-
 
 #### § 85 Inkrafttreten, Übergangsvorschriften
 
@@ -1257,10 +1178,7 @@ Wohnsitzes - seinen gewöhnlichen Aufenthalt gehabt hat.
 (3) Die Aufbringung der für die Auszahlung der Prämien erforderlichen
 Mittel wird durch besonderes Gesetz geregelt.
 
-
 ### Sechster Abschnitt - Bergmannsprämien
-
-
 
 #### § 86 Inkrafttreten
 
@@ -1278,10 +1196,7 @@ Mit dem Ablauf der Übergangszeit treten im Saarland in Kraft
 mit der Maßgabe, daß die Bergmannsprämie für jede volle Schicht
 gewährt wird, die nach Ablauf der Übergangszeit verfahren wird.
 
-
 ### Siebenter Abschnitt - Umsatzsteuer
-
-
 
 #### § 87 Übergangsvorschriften
 
@@ -1306,19 +1221,13 @@ der Besteuerung nach vereinnahmten Entgelten auf den Betrag, der nach
 deutschem Umsatzsteuerrecht festzusetzen wäre, wenn dieser niedriger
 ist.
 
-
 ### Achter Abschnitt - Beförderungsteuer
-
-
 
 #### § 88 Änderung des Beförderungsteuergesetzes 1955
 
 -
 
-
 ### Neunter Abschnitt - Kraftfahrzeugsteuer
-
-
 
 #### § 89 Überleitung
 
@@ -1329,10 +1238,7 @@ zu entrichten ist. Die Steuer beträgt in diesem Fall für jeden
 Kalendertag ein Hundertstel der für ein Vierteljahr zu entrichtenden
 Steuer einschließlich des Aufgeldes.
 
-
 ### Zehnter Abschnitt - Bewertung
-
-
 
 #### § 90 Umrechnung der Einheitswerte
 
@@ -1348,7 +1254,6 @@ der Apothekenrechte, deren Einheitswerte seit dem 20. November 1947
 auf der Grundlage ihres Frankenumsatzes fortgeschrieben worden sind.
 Diese Einheitswerte sind nach dem amtlichen Umrechnungskurs vom
 Eingliederungstag auf Deutsche Mark umzustellen.
-
 
 #### § 91 Fortschreibungen und Nachfeststellungen
 
@@ -1368,7 +1273,6 @@ Einheitswert nachträglich festgestellt, wenn in der Zeit vom 1. Januar
 die Voraussetzungen für eine Nachfeststellung nach § 23 des
 Bewertungsgesetzes eintreten.
 
-
 #### § 92 Wertverhältnisse bei Grundbesitz im Saarland
 
 Bei Fortschreibungen und bei Nachfeststellungen der Einheitswerte für
@@ -1377,7 +1281,6 @@ tatsächliche Zustand des Grundbesitzes (Bestand, bauliche Verhältnisse
 usw.) im Fortschreibungszeitpunkt oder im Nachfeststellungszeitpunkt
 und die Wertverhältnisse im letzten Hauptfeststellungszeitpunkt
 zugrunde zu legen.
-
 
 #### § 93 Hauptfeststellung der Einheitswerte für das Betriebsvermögen im Saarland
 
@@ -1403,23 +1306,18 @@ Betrieb zugeführt worden, so wird das Wirtschaftsgut bei der
 Vermögensteuer-Hauptveranlagung 1960 so behandelt, als ob es noch zum
 übrigen Vermögen gehören würde.
 
-
 #### § 94 Lastenausgleichsansprüche
 
 Ansprüche auf Leistungen aus einer saarländischen Einrichtung, die dem
 im § 68 Ziff. 4a des Bewertungsgesetzes genannten Lastenausgleich
 entspricht, gehören nicht zum sonstigen Vermögen.
 
-
 ### Elfter Abschnitt - Vermögensteuer
-
-
 
 #### § 95 Steuerbefreiung
 
 Die Saarländische Rediskontbank ist von der Vermögensteuer befreit,
 soweit sie Aufgaben staatswirtschaftlicher Art erfüllt.
-
 
 #### § 96 Steuervergünstigung für Aktien und Anteile
 
@@ -1431,7 +1329,6 @@ Kapitalgesellschaften entfällt, nur die Hälfte angesetzt wird.
 (2) Die Steuervergünstigung des Absatzes 1 gilt bis zu der nächsten
 nach dem Kalenderjahr 1960 durchzuführenden Hauptveranlagung der
 Vermögensteuer.
-
 
 #### § 97 Steuererleichterungen für den Wiederaufbau und Wohnungsbau
 
@@ -1460,7 +1357,6 @@ bestehen.
 (2) Die Vorschriften der §§ 10 bis 15 der in Absatz 1 genannten
 Verordnungen sind weiterhin anzuwenden.
 
-
 #### § 98 Vorauszahlungen
 
 (1) Auf die Jahressteuerschuld, die sich auf Grund der
@@ -1485,10 +1381,7 @@ in Berlin (West) belegenen steuerpflichtigen Vermögens bei der
 Hauptveranlagung 1960 voraussichtlich ergeben wird. Absatz 1 bleibt
 unberührt.
 
-
 ### Zwölfter Abschnitt - Grundsteuer
-
-
 
 #### § 99 Erhebungszeitraum
 
@@ -1497,7 +1390,6 @@ Kalenderjahr. In allen Fällen, in denen es auf den Beginn oder das
 Ende eines Rechnungsjahres ankommt, tritt an die Stelle des
 Rechnungsjahres das Kalenderjahr, in das der Beginn des
 Rechnungsjahres fällt.
-
 
 #### § 100 Neuveranlagung und Nachveranlagung des Steuermeßbetrages im Saarland
 
@@ -1526,7 +1418,6 @@ auf den 1. Januar 1960 durchgeführt. Dabei werden zugrunde gelegt
 Steuermeßbetrag gilt vom Kalenderjahr 1960 an.
 Der letzte vor dem Eingliederungstag veranlagte Steuermeßbetrag tritt
 mit Ablauf des Kalenderjahres 1959 außer Kraft.
-
 
 #### § 101 Steuererleichterungen für den Wiederaufbau und Wohnungsbau
 
@@ -1570,13 +1461,11 @@ des Zweiten Wohnungsbaugesetzes vom 26. September 1957
 (Bundesgesetzbl. I S. 1393) einer Regelung durch Gesetz des Bundes
 oder des Saarlandes vorbehalten.
 
-
 #### § 102 Arbeiterwohnstätten
 
 Grundsteuerbeihilfen, die im Saarland gewährt worden sind, werden vom
 Rechnungsjahr 1960 an für den Rest des Beihilfezeitraums vom Bund
 übernommen.
-
 
 #### § 103 Überleitungsvorschriften zu § 33 des Grundsteuergesetzes
 
@@ -1589,13 +1478,7 @@ Im Saarland finden keine Anwendung
 2.  die Vorschriften der §§ 58 bis 60 der Grundsteuer-
     Durchführungsverordnung.
 
-
-
-
-
 ### Dreizehnter Abschnitt - Erbschaftsteuer
-
-
 
 #### § 104 Entstehung der Steuerschuld
 
@@ -1608,7 +1491,6 @@ Schenkungsteuergesetz vom 6. Juli 1950 (Amtsblatt des Saarlandes S.
 991) oder nach dem saarländischen Erbschaft- und Schenkungsteuergesetz
 vom 12. Juni 1957 (Amtsblatt des Saarlandes S. 905) vor dem
 Eingliederungstag entstanden ist.
-
 
 #### § 105 Berücksichtigung von früheren Erwerben und Steuerfestsetzungen
 
@@ -1630,10 +1512,7 @@ Schenkungsteuergesetze durchgeführt worden ist. Die in Franken
 festgestellten Steuerbeträge sind dabei nach dem amtlichen
 Umrechnungskurs vom Eingliederungstag auf Deutsche Mark umzustellen.
 
-
 ### Vierzehnter Abschnitt - Lastenausgleichsabgaben
-
-
 
 #### § 106 Überleitung
 
@@ -1665,10 +1544,6 @@ ergangenen Rechtsverordnungen gelten im Saarland nur:
 3.  die Vorschriften über die Abzugsfähigkeit der Ausgleichsabgaben (§§
     207, 209, 211 und 212 des Lastenausgleichsgesetzes).
 
-
-
-
-
 #### § 107 Ermächtigung zu Übergangsbestimmungen, Wegfall der Gemeinschaftshilfeabgabe
 
 (1)
@@ -1681,15 +1556,11 @@ Gesetzes Nr. 450 zur Änderung steuerlicher Vorschriften vom 27. Januar
 Gesetzes bleiben jedoch maßgebend, soweit Beträge an
 Gemeinschaftshilfeabgabe noch nachzuerheben sind.
 
-
 ## Fünfter Teil - Schlußvorschriften
-
-
 
 ### § 108 (weggefallen)
 
 -
-
 
 ### § 109 Inkrafttreten
 

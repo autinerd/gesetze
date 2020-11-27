@@ -25,10 +25,7 @@ Diese Verordnung dient der Umsetzung der Richtlinie 98/83/EG des
 Rates über die Qualität von Wasser für den menschlichen Gebrauch
 vom 3. November 1998 (ABl. EG Nr. L 330 S. 32).
 
-
 ## 1. Abschnitt - Allgemeine Vorschriften
-
-
 
 ### § 1 Zweck der Verordnung
 
@@ -37,7 +34,6 @@ nachteiligen Einflüssen, die sich aus der Verunreinigung von Wasser
 ergeben, das für den menschlichen Gebrauch bestimmt ist, durch
 Gewährleistung seiner Genusstauglichkeit und Reinheit nach Maßgabe der
 folgenden Vorschriften zu schützen.
-
 
 ### § 2 Anwendungsbereich
 
@@ -79,7 +75,6 @@ von Wasser bestimmt sind, das nicht die Qualität von Trinkwasser hat,
 und die zusätzlich zu den Wasserversorgungsanlagen nach § 3 Nummer 2
 installiert werden können, gilt diese Verordnung nur, soweit sie
 darauf ausdrücklich Bezug nimmt.
-
 
 ### § 3 Begriffsbestimmungen
 
@@ -220,10 +215,7 @@ darauf ausdrücklich Bezug nimmt.
 festgelegten Werte, die einzuhalten sind, berücksichtigen die
 Messunsicherheiten der Analyse- und Probennahmeverfahren.
 
-
 ## 2. Abschnitt - Beschaffenheit des Trinkwassers
-
-
 
 ### § 4 Allgemeine Anforderungen
 
@@ -247,7 +239,6 @@ Wasserversorgungsanlage dürfen Wasser, das den Anforderungen des § 7
 oder den nach § 9 Absatz 5 und 6 geduldeten Abweichungen von den in
 Anlage 3 festgelegten Grenzwerten nicht entspricht, nicht als
 Trinkwasser abgeben und anderen nicht zur Verfügung stellen.
-
 
 ### § 5 Mikrobiologische Anforderungen
 
@@ -288,7 +279,6 @@ Chlor, Chlordioxid oder andere geeignete Desinfektionsmittel oder
 -verfahren, die gemäß § 11 in einer Liste des Umweltbundesamtes
 aufgeführt sind, vorhalten.
 
-
 ### § 6 Chemische Anforderungen
 
 (1) Im Trinkwasser dürfen chemische Stoffe nicht in Konzentrationen
@@ -306,7 +296,6 @@ können, sollen so niedrig gehalten werden, wie dies nach den allgemein
 anerkannten Regeln der Technik mit vertretbarem Aufwand unter
 Berücksichtigung von Einzelfällen möglich ist.
 
-
 ### § 7 Indikatorparameter
 
 (1) Im Trinkwasser müssen die in Anlage 3 festgelegten Grenzwerte und
@@ -315,7 +304,6 @@ Anforderungen für Indikatorparameter eingehalten sein.
 (2) Im Trinkwasser, das zur Abgabe in verschlossenen Behältnissen
 bestimmt ist, darf der in Anlage 3 Teil I laufende Nummer 5
 festgelegte Grenzwert nicht überschritten werden.
-
 
 ### § 8 Stelle der Einhaltung
 
@@ -342,10 +330,6 @@ sowie die nach § 7 festgelegten Grenzwerte und Anforderungen gelten
 
 4.  bei Trinkwasser, das zur Abgabe in verschlossenen Behältnissen
     bestimmt ist, am Punkt der Abfüllung.
-
-
-
-
 
 ### § 9 Maßnahmen im Falle der Nichteinhaltung von Grenzwerten, der Nichterfüllung von Anforderungen sowie des Erreichens oder der Überschreitung von technischen Maßnahmenwerten
 
@@ -482,7 +466,6 @@ gegebenenfalls an.
 
 (9) Für Wasserversorgungsanlagen nach § 3 Nummer 2 Buchstabe c gelten
 die Absätze 1 bis 7 entsprechend.
-
 
 ### § 10 Zulassung der Abweichung von Grenzwerten für chemische Parameter
 
@@ -621,10 +604,7 @@ hingewiesen werden.
 (9) Die Absätze 1 bis 3 und 5 bis 7 gelten für
 Wasserversorgungsanlagen nach § 3 Nummer 2 Buchstabe c entsprechend.
 
-
 ## 3. Abschnitt - Aufbereitung und Desinfektion
-
-
 
 ### § 11 Aufbereitungsstoffe und Desinfektionsverfahren
 
@@ -736,15 +716,11 @@ Absatz 1 Satz 1 zu erfüllen. Sie dürfen Wasser, dem entgegen Absatz 1
 Aufbereitungsstoffe zugesetzt worden sind, nicht als Trinkwasser
 abgeben und anderen nicht zur Verfügung stellen.
 
-
 ### § 12 (weggefallen)
 
 -
 
-
 ## 4. Abschnitt - Pflichten des Unternehmers und des sonstigen Inhabers einer Wasserversorgungsanlage
-
-
 
 ### § 13 Anzeigepflichten
 
@@ -843,7 +819,6 @@ haben, sofern aus dieser Trinkwasser im Rahmen einer öffentlichen oder
 gewerblichen Tätigkeit abgegeben wird, den Bestand unverzüglich dem
 Gesundheitsamt anzuzeigen. Im Übrigen gelten die Anzeigepflichten nach
 Absatz 1 Nummer 2 und 3 entsprechend.
-
 
 ### § 14 Untersuchungspflichten
 
@@ -946,7 +921,6 @@ Wasserversorgungsanlage haben die Untersuchungen nach den Absätzen 1,
 in einer aktuell bekannt gemachten Landesliste nach § 15 Absatz 4 Satz
 2 gelistet ist.
 
-
 ### § 15 Untersuchungsverfahren und Untersuchungsstellen
 
 (1) Bei den Untersuchungen nach § 14 sind die in Anlage 5 bezeichneten
@@ -1018,7 +992,6 @@ Trinkwasser nach Satz 1 gilt bundesweit.
 zuständigen obersten Landesbehörde bestimmt wird, überprüft
 regelmäßig, ob die Voraussetzungen des Absatzes 4 Satz 1 bei den im
 jeweiligen Land niedergelassenen Untersuchungsstellen erfüllt sind.
-
 
 ### § 16 Besondere Anzeige- und Handlungspflichten
 
@@ -1144,7 +1117,6 @@ verwenden oder einheitliche EDV-Verfahren anzuwenden sind.
 (6) Besondere Anzeige- und Handlungspflichten in Anlage 3 Teil I
 laufende Nummer 2, 10, 11 und 18 bleiben unberührt.
 
-
 ### § 17 Anforderungen an Anlagen für die Gewinnung, Aufbereitung oder Verteilung von Trinkwasser
 
 (1) Für die Neuerrichtung oder die Instandhaltung von Anlagen für die
@@ -1177,10 +1149,7 @@ solche zu kennzeichnen oder kennzeichnen zu lassen und
 erforderlichenfalls gegen nicht bestimmungsgemäßen Gebrauch zu
 sichern.
 
-
 ## 5. Abschnitt - Überwachung
-
-
 
 ### § 18 Überwachung durch das Gesundheitsamt
 
@@ -1266,7 +1235,6 @@ verweigern, deren Beantwortung ihn selbst oder einen der in § 383
 Absatz 1 Nummer 1 bis 3 der Zivilprozessordnung bezeichneten
 Angehörigen der Gefahr strafgerichtlicher Verfolgung oder eines
 Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
-
 
 ### § 19 Umfang der Überwachung
 
@@ -1375,7 +1343,6 @@ Installation nachteilig verändern können. Zur Durchführung richtet das
 Gesundheitsamt ein Überwachungsprogramm auf der Grundlage geeigneter
 stichprobenartiger Kontrollen ein.
 
-
 ### § 20 Anordnungen des Gesundheitsamtes
 
 (1) Wenn es unter Berücksichtigung der Umstände des Einzelfalles zum
@@ -1439,7 +1406,6 @@ nach Buchstabe a oder Buchstabe b abgegeben, so kann das
 Gesundheitsamt regeln, welcher Unternehmer und sonstige Inhaber die
 Untersuchungen nach § 14 durchzuführen oder durchführen zu lassen hat.
 
-
 ### § 21 Information der Verbraucher und Berichtspflichten
 
 (1) Der Unternehmer und der sonstige Inhaber einer
@@ -1489,10 +1455,7 @@ mitgeteilten Form zu entsprechen. Darüber hinausgehende Formatvorgaben
 durch das Bundesministerium für Gesundheit, insbesondere für
 einheitliche EDV-Verfahren, bedürfen der Zustimmung des Bundesrates.
 
-
 ## 6. Abschnitt - Sondervorschriften
-
-
 
 ### § 22 Vollzug im Bereich der Bundeswehr
 
@@ -1500,7 +1463,6 @@ Der Vollzug dieser Verordnung obliegt im Bereich der Bundeswehr sowie
 im Bereich der auf Grund völkerrechtlicher Verträge in der
 Bundesrepublik stationierten Truppen den zuständigen Stellen der
 Bundeswehr.
-
 
 ### § 23 Vollzug im Bereich der Eisenbahnen des Bundes
 
@@ -1516,10 +1478,7 @@ Bekanntmachung vom 19. Februar 1987 (BGBl. I S. 602), das zuletzt
 durch Artikel 2 des Gesetzes vom 29. Juli 2009 (BGBl. I S. 2353)
 geändert worden ist.
 
-
 ## 7. Abschnitt - Straftaten und Ordnungswidrigkeiten
-
-
 
 ### § 24 Straftaten
 
@@ -1537,7 +1496,6 @@ Trinkwasser abgibt oder anderen zur Verfügung stellt.
 oder einen in § 7 des Infektionsschutzgesetzes genannten
 Krankheitserreger verbreitet, ist nach § 74 des
 Infektionsschutzgesetzes strafbar.
-
 
 ### § 25 Ordnungswidrigkeiten
 
@@ -1631,10 +1589,6 @@ Infektionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 17. entgegen § 21 Absatz 1 Satz 4 eine Information nicht, nicht richtig,
     nicht vollständig oder nicht rechtzeitig bekannt macht.
 
-
-
-
-
 ### Anlage 1 (zu § 5 Absatz 2 und 3) Mikrobiologische Parameter
 
 (Fundstelle: BGBl. I 2011, 2384)
@@ -1663,8 +1617,6 @@ Infektionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
     *   Enterokokken
 
     *   0/100 ml
-
-
 
 ## Teil II
 
@@ -1698,9 +1650,6 @@ Anforderungen an Trinkwasser,
     *   Pseudomonas aeruginosa
 
     *   0/250 ml
-
-
-
 
 ### Anlage 2 (zu § 6 Absatz 2) Chemische Parameter
 
@@ -2038,9 +1987,6 @@ Chemische Parameter, deren Konzentration im Verteilungsnetz
 
     *   Voraussetzung für die Summenbildung ist mindestens das jeweilige
         Erreichen der Bestimmungsgrenze des analytischen Verfahrens.
-
-
-
 
 ### Anlage 3 (zu § 7) Indikatorparameter
 
@@ -2426,9 +2372,6 @@ Installation
 
     *   100/100 ml
 
-
-
-
 ### Anlage 4 (zu den §§ 14 und 19) Umfang und Häufigkeit von Untersuchungen
 
 (Fundstelle: BGBl. I 2011, 2391 - 2393)
@@ -2516,9 +2459,6 @@ Installation
     gefährden könnten. Satz 1 gilt nicht für die Parameter für
     Radioaktivität, die vorbehaltlich der Anmerkungen 3 bis 5 in Anlage 3
     Teil I überwacht werden.
-
-
-
 
 ## Teil II
 
@@ -2698,13 +2638,6 @@ Installation
         *   Für die Berechnung der Mengen werden Durchschnittswerte – ermittelt
             über ein Kalenderjahr – zugrunde gelegt.
 
-
-
-
-
-
-
-
 ### Anlage 5 (zu § 15 Absatz 1, 2 und 4) Spezifikationen für die Analyse der Parameter
 
 (Fundstelle: BGBl. I 2011, 2394 - 2396)
@@ -2870,9 +2803,6 @@ f)  Legionellen: Die Untersuchung auf Legionella spec. ist entsprechend
     *   Es ist destilliertes oder deionisiertes Wasser zu verwenden, das frei
         von Substanzen ist, die das Wachstum der Bakterien unter den
         Untersuchungsbedingungen hemmen, und das der DIN ISO 3696 entspricht.
-
-
-
 
 ## Teil II
 
@@ -3379,8 +3309,6 @@ zu messen.
         Konzentration des Parameters oder
         – die fünffache relative Standardabweichung (innerhalb einer
         Messwertreihe) einer Blindprobe.
-
-
 
 ## Teil III
 

@@ -18,17 +18,13 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 20.12.2010 I 2194
 
-
 ## Eingangsformel
 
 Auf Grund des § 23 Abs. 1 des Bundes-Immissionsschutzgesetzes in der
 Fassung der Bekanntmachung vom 14. Mai 1990 (BGBl. I S. 880) verordnet
 die Bundesregierung nach Anhörung der beteiligten Kreise:
 
-
 ## Erster Abschnitt - Allgemeine Vorschriften
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -65,7 +61,6 @@ enthalten,
 (2) Diese Verordnung gilt nicht für Anlagen, bei denen Lösemittel mit
 einem Massegehalt an leichtflüchtigen halogenierten organischen
 Verbindungen bis zu 1 vom Hundert eingesetzt werden.
-
 
 ### § 2 Einsatzstoffe
 
@@ -140,10 +135,7 @@ krebserzeugend eingestuft oder bekannt gegeben, dürfen sie abweichend
 von Satz 3 noch bis zum Ablauf von einem Jahr nach der Einstufung oder
 Bekanntgabe eingesetzt werden.
 
-
 ## Zweiter Abschnitt - Errichtung und Betrieb
-
-
 
 ### § 3 Oberflächenbehandlungsanlagen
 
@@ -220,7 +212,6 @@ denen keine anderen leichtflüchtigen halogenierten organischen
 Verbindungen als Hydrofluorether eingesetzt werden, auch als erfüllt,
 soweit die Emissionen an Hydrofluorether einen durchschnittlichen
 Massenstrom von 30 Gramm je Stunde nicht überschreiten.
-
 
 ### § 4 Chemischreinigungs- und Textilausrüstungsanlagen
 
@@ -299,7 +290,6 @@ Textilausrüstungsmaschinen keine leichtflüchtigen eingesetzt werden.
 dürfen nur in Anwesenheit von sachkundigem Bedienungspersonal
 betrieben werden.
 
-
 ### § 5 Extraktionsanlagen
 
 Extraktionsanlagen sind so zu errichten und zu betreiben, daß die
@@ -328,19 +318,13 @@ vorhanden sein, die einen Anstieg der Massenkonzentration auf mehr als
 Zwangsabschaltung der an den Abscheider angeschlossenen
 Extraktionsanlagen auslösen.
 
-
 ## Dritter Abschnitt - Anforderungen an Altanlagen
-
-
 
 ### (XXXX) §§ 6 bis 9 (weggefallen)
 
 -
 
-
 ## Vierter Abschnitt - Eigenkontrolle und Überwachung
-
-
 
 ### § 10 Meßöffnungen
 
@@ -351,7 +335,6 @@ geeignete dicht verschließbare Meßöffnungen einzurichten oder
 einrichten zu lassen. Die Einrichtung der Meßöffnungen muß für die
 Durchführung der Messungen geeignet sein und gefahrlose Messungen
 ermöglichen.
-
 
 ### § 11 Eigenkontrolle
 
@@ -389,7 +372,6 @@ Abscheiders der Kontrolle durch ein kontinuierlich aufzeichnendes
 Meßgerät oder einer automatischen Abschaltung unterliegt. Die
 Aufzeichnungen sind am Betriebsort drei Jahre lang aufzubewahren und
 der zuständigen Behörde auf Verlangen vorzulegen.
-
 
 ### § 12 Überwachung
 
@@ -483,10 +465,7 @@ Behörde trägt durch entsprechende Maßnahmen dafür Sorge, dass der
 Betreiber seinen Pflichten nachkommt oder die Anlage außer Betrieb
 nimmt.
 
-
 ## Fünfter Abschnitt - Gemeinsame Vorschriften
-
-
 
 ### § 13 Umgang mit leichtflüchtigen halogenierten organischen Verbindungen
 
@@ -512,7 +491,6 @@ Vorrichtung entnommen werden.
 Verbindungen enthaltende Rückstände dürfen nur in geschlossenen
 Behältnissen gelagert, transportiert und gehandhabt werden.
 
-
 ### § 14 Ableitung der Abgase
 
 Die abgesaugten Abgase sind durch eine Abgasleitung, die gegen
@@ -520,7 +498,6 @@ leichtflüchtige halogenierte organische Verbindungen beständig ist, so
 abzuleiten, daß ein Abtransport mit der freien Luftströmung
 gewährleistet ist. Satz 1 gilt entsprechend für die Abluft von
 lüftungstechnischen Einrichtungen.
-
 
 ### § 15 Allgemeine Anforderungen
 
@@ -549,7 +526,6 @@ Raumluftkonzentration von 0,1 Milligramm je Kubikmeter nicht
 überschritten wird.
 
 (3) (weggefallen)
-
 
 ### § 15a Berichterstattung an die Europäische Kommission, Unterrichtung der Öffentlichkeit
 
@@ -583,13 +559,11 @@ der Öffentlichkeit zugänglich zu machen. Satz 1 gilt nicht für solche
 Angaben, aus denen Rückschlüsse auf Betriebs- oder
 Geschäftsgeheimnisse gezogen werden können.
 
-
 ### § 16 Weitergehende Anforderungen
 
 Die Befugnis der zuständigen Behörde, auf Grund des Bundes-
 Immissionsschutzgesetzes andere oder weitergehende Anordnungen zu
 treffen, bleibt unberührt.
-
 
 ### § 17 Zulassung von Ausnahmen
 
@@ -623,7 +597,6 @@ Behandlungsgutes aus dem Entnahmebereich erst erfolgen kann, wenn die
 Massenkonzentration an leichtflüchtigen halogenierten organischen
 Verbindungen in der Anlagenluft im Entnahmebereich 1 Gramm je
 Kubikmeter nicht mehr überschreitet.
-
 
 ### § 18 Ordnungswidrigkeiten
 
@@ -755,10 +728,7 @@ Immissionsschutzgesetzes handelt, wer entgegen § 11 Abs. 1 Satz 3 oder
 Abs. 2 Satz 2, § 12 Abs. 6 Satz 3 oder Abs. 7 Satz 3 die dort
 genannten Unterlagen nicht aufbewahrt.
 
-
 ## Sechster Abschnitt - Schlußvorschriften
-
-
 
 ### § 19 Übergangsregelung
 
@@ -779,7 +749,6 @@ August 2001 errichteten Anlagen, in denen andere leichtflüchtige
 halogenierte organische Verbindungen als die in § 2 Abs. 2 Satz 1
 genannten leichtflüchtigen Halogenkohlenwasserstoffe eingesetzt
 werden, spätestens bis zum 31. Oktober 2007 einzuhalten.
-
 
 ### Schlußformel
 

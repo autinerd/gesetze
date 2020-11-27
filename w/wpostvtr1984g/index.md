@@ -15,12 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1986, 201
 
-
-
 ## Art 1
 
 -
-
 
 ## Art 2
 
@@ -41,12 +38,10 @@ Tageskursen des Sonderziehungsrechts der zwölf Monate berechnet, die
 am 30. September vor der jeweiligen Festsetzung enden. Der jeweils
 festgesetzte Durchschnittswert ist im Bundesanzeiger bekanntzugeben.
 
-
 ## Art 3
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
-
 
 ## Art 4
 

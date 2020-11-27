@@ -16,21 +16,14 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1973, 525
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art 1
 
-
-
 ### Erster Abschnitt - Anpassung der Renten aus den gesetzlichen Rentenversicherungen
-
-
 
 ### § 1
 
@@ -50,7 +43,6 @@ des Sozialversicherungs-Angleichungsgesetzes Saar vom 15. Juni 1963
 (Bundesgesetzbl. I S. 402).
 
 (3) Absatz 1 findet auf den Knappschaftssold keine Anwendung.
-
 
 ### § 2
 
@@ -92,7 +84,6 @@ worden ist.
 Rentenversicherung, die nach
 Artikel 2 § 24 Abs. 5 des Knappschaftsrentenversicherungs-
 Neuregelungsgesetzes              gezahlt werden.
-
 
 ### § 3
 
@@ -214,7 +205,6 @@ von 1.472,70 Deutsche Mark und in § 3 Abs. 2 der Verordnung an die
 Stelle des Betrags von 4.281 Deutsche Mark der Betrag von 13.371
 Deutsche Mark tritt.
 
-
 ### § 4
 
 (1) Die übrigen Renten sind so anzupassen, daß sich eine Rente ergibt,
@@ -247,7 +237,6 @@ b)  bei den übrigen Renten aus Versicherungsfällen vor dem 1. Januar 1957,
 
 angepaßt werden würden.
 
-
 ### § 5
 
 (1) Anpassungsbetrag ist in den Fällen des § 4 dieses Artikels der
@@ -269,7 +258,6 @@ tritt an die Stelle des Rentenzahlbetrags im Sinne des Absatzes 1 der
 Betrag, der für Juli 1973 zu zahlen gewesen wäre, wenn die
 Voraussetzungen für die Erfüllung des Anspruchs damals bestanden
 hätten.
-
 
 ### § 6
 
@@ -313,7 +301,6 @@ die in den §§ 55, 56 des Angestelltenversicherungsgesetzes genannten
 Grenzbeträge, die bei der Berechnung der Rente nach § 3 dieses
 Artikels zu berücksichtigen sind, nicht überschreiten.
 
-
 ### § 7
 
 Leistungen nach den §§ 27 und 28 des Sozialversicherungs-
@@ -323,7 +310,6 @@ Anwendung des Saarländischen Gesetzes Nr. 345 in der Fassung der
 Bekanntmachung vom 29. Juli 1953 (Amtsblatt des Saarlandes S. 520) und
 der Vorschriften dieses Gesetzes unter Zugrundelegung der bisherigen
 Versicherungszeiten ergeben würde.
-
 
 ### § 8
 
@@ -340,10 +326,7 @@ Gesetzes Nr. 635 zur Einführung des Reichsknappschaftsgesetzes und des
 Knappschaftsrentenversicherungs-Neuregelungsgesetzes im Saarland vom
 18\. Juni 1958 (Amtsblatt des Saarlandes S. 1099) gewährt werden.
 
-
 ### Zweiter Abschnitt - Anpassung der Geldleistungen und des Pflegegeldes aus der gesetzlichen Unfallversicherung
-
-
 
 ### § 9
 
@@ -376,7 +359,6 @@ des Rechts der gesetzlichen Unfallversicherung vom 30. April 1963
 (Bundesgesetzbl. I S. 241) gilt als Unfalljahr das Jahr, für das der
 Jahresarbeitsverdienst zuletzt festgelegt worden ist.
 
-
 ### § 10
 
 (1) Die Geldleistungen werden in der Weise angepaßt, daß sie nach
@@ -391,7 +373,6 @@ S. 520) der Geldleistung zugrunde liegt.
 (2) Das Pflegegeld wird in der Weise angepaßt, daß der für Januar 1974
 zu zahlende Betrag mit 1,094 zu vervielfältigen ist.
 
-
 ### § 11
 
 Der vervielfältigte Jahresarbeitsverdienst darf den Betrag von 36.000
@@ -400,10 +381,7 @@ Satz 2 und 3 der Reichsversicherungsordnung ein höherer Betrag
 bestimmt worden ist. In diesem Fall tritt an die Stelle des Betrags
 von 36.000 Deutsche Mark der höhere Betrag.
 
-
 ### Dritter Abschnitt - Gemeinsame Vorschriften
-
-
 
 ### § 12
 
@@ -435,7 +413,6 @@ oder hätte festgestellt werden müssen, höher, als sie bei der
 Anpassung nach dem Zweiten Abschnitt sein würde, so ist dem
 Berechtigten die höhere Leistung zu gewähren.
 
-
 ### § 13
 
 (1) Jedem Rentenempfänger ist eine schriftliche Mitteilung über die
@@ -456,27 +433,17 @@ Die §§ 627 und 1300 der Reichsversicherungsordnung, § 79 des
 Angestelltenversicherungsgesetzes und § 93 Abs. 1 des
 Reichsknappschaftsgesetzes bleiben unberührt.
 
-
 ### Vierter Abschnitt
-
-
 
 ### § 14
 
 -
 
-
 ## Art 2
-
-
 
 ## (XXXX) §§ 1 bis 3
 
-
-
 ## Art 3 - Schlußvorschriften
-
-
 
 ## § 1
 
@@ -486,13 +453,11 @@ unberücksichtigt, wenn bei Sozialleistungen auf Grund eines Gesetzes
 oder anderer Vorschriften die Gewährung oder die Höhe der Leistungen
 von anderem Einkommen abhängig ist.
 
-
 ## § 2
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
 im Land Berlin.
-
 
 ## § 3
 

@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 648
 
-
-
 ## (XXXX)
 
 Auf Grund des Artikels 4 Abs. 3 des Bundesbesoldungs- und
@@ -53,7 +51,6 @@ werden bekanntgemacht
 
 
 Der Bundesminister des Innern
-
 
 ## Anlage 1 (Anlage IV des BBesG) Gültig ab 1. Januar 2001
 
@@ -893,10 +890,6 @@ Der Bundesminister des Innern
 
     *   19.043,76
 
-
-
-
-
 ## Anlage 2 (Anlage V des BBesG) Gültig ab 1. Januar 2001
 
 (Fundstelle des Originaltextes: BGBl. I 2001, 652)
@@ -962,10 +955,6 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 *    *   \*) Nach Maßgabe des Artikels 5 des Gesetzes zur Neuordnung der
         Versorgungsabschläge vom 19. Dezember 2000 (BGBl. I S. 1786) ist der
         Betrag für das Jahr 2001 um 203,60 DM zu erhöhen.
-
-
-
-
 
 ## Anlage 3a (Anlage VIa des BBesG) Gültig ab 1. Januar 2001
 
@@ -1327,10 +1316,6 @@ Auslandszuschlag (§ 55 Abs. 2)
 
     *   10.778
 
-
-
-
-
 ## Anlage 3b (Anlage VIb des BBesG) Gültig ab 1. Januar 2001
 
 Fundstelle des Originaltextes: BGBl. I 2001, 653
@@ -1691,10 +1676,6 @@ Auslandszuschlag (§ 55 Abs. 3)
 
     *   9.162
 
-
-
-
-
 ## Anlage 3c (Anlage VIc des BBesG) Gültig ab 1. Januar 2001
 
 Fundstelle des Originaltextes: BGBl. I 2001, 654
@@ -2054,10 +2035,6 @@ Auslandszuschlag (§ 55 Abs. 4)
     *   7.138
 
     *   7.545
-
-
-
-
 
 ## Anlage 3d (Anlage VId des BBesG) Gültig ab 1. Januar 2001
 
@@ -2420,10 +2397,6 @@ Auslandszuschlag (§ 55 Abs. 4)
 
     *   5.282
 
-
-
-
-
 ## Anlage 3e (Anlage VIe des BBesG) Gültig ab 1. Januar 2001
 
 Fundstelle des Originaltextes: BGBl. I 2001, 655
@@ -2785,10 +2758,6 @@ Auslandszuschlag (§ 55 Abs. 4)
 
     *   6.414
 
-
-
-
-
 ## Anlage 3f (Anlage VIf des BBesG) Gültig ab 1. Januar 2001
 
 Fundstelle des Originaltextes: BGBl. I 2001, 655
@@ -3147,9 +3116,6 @@ Auslandszuschlag (§ 55 Abs. 5)
 
     *
     *
-
-
-
 
 ## Anlage 3g (Anlage VIg des BBesG) Gültig ab 1. Januar 2001
 
@@ -3510,9 +3476,6 @@ Auslandszuschlag (§ 55 Abs. 5)
     *
     *
 
-
-
-
 ## Anlage 3h (Anlage VIh des BBesG) Gültig ab 1. Januar 2001
 
    Fundstelle des Originaltextes: BGBl. I 2001, 656
@@ -3872,9 +3835,6 @@ Auslandszuschlag (§ 55 Abs. 5)
     *
     *
 
-
-
-
 ## Anlage 3i (Anlage VIi des BBesG) Gültig ab 1. Januar 2001
 
    Fundstelle des Originaltextes: BGBl. I 2001, 657
@@ -3948,10 +3908,6 @@ Auslandskinderzuschlag (§ 56)
 
 *    *   B 1 bis B 11
 
-
-
-
-
 ## Anlage 4 (Anlage VIII des BBesG) Gültig ab 1. Januar 2001
 
 Fundstelle des Originaltextes: BGBl. I 2001, 657
@@ -3994,10 +3950,6 @@ Anwärtergrundbetrag
         Bundesbesoldungsordnungen A und B)  oder R 1
 
     *   1.927,44
-
-
-
-
 
 ## Anlage 5 (Anlage IX des BBesG) Gültig ab 1. Januar 2001
 
@@ -5131,13 +5083,6 @@ Anwärtergrundbetrag
         \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18.
             Dezember 1975 (BGBl. I S. 3091).
 
-
-
-
-
-
-
-
 ## Anlage 6 (Anlage IV des BBesG) Gültig ab 1. Januar 2002
 
 Fundstelle des Originaltextes: BGBl. I 2001, 661 - 663
@@ -6047,9 +5992,6 @@ Grundgehaltssätze
     *
     *
 
-
-
-
 ## Anlage 7 (Anlage V des BBesG) Gültig ab 1. Januar 2002
 
    Fundstelle des Originaltextes: BGBl. I 2001, 664
@@ -6112,10 +6054,6 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 *    *   - in den Besoldungsgruppen A 9 bis A 12:
 
     *   94,70 Euro.
-
-
-
-
 
 ## Anlage 8a (Anlage VIa des BBesG) Gültig ab 1. Januar 2002
 
@@ -6477,10 +6415,6 @@ Auslandszuschlag (§ 55 Abs. 2)
 
     *   5.613,98
 
-
-
-
-
 ## Anlage 8b (Anlage VIb des BBesG) Gültig ab 1. Januar 2002
 
 Fundstelle des Originaltextes: BGBl. I 2001, 665
@@ -6841,10 +6775,6 @@ Auslandszuschlag (§ 55 Abs. 3)
 
     *   4.771,89
 
-
-
-
-
 ## Anlage 8c (Anlage VIc des BBesG) Gültig ab 1. Januar 2002
 
 Fundstelle des Originaltextes: BGBl. I 2001, 666
@@ -7204,10 +7134,6 @@ Auslandszuschlag (§ 55 Abs. 4)
     *   3.717,60
 
     *   3.929,79
-
-
-
-
 
 ## Anlage 8d (Anlage VId des BBesG) Gültig ab 1. Januar 2002
 
@@ -7570,10 +7496,6 @@ Auslandszuschlag (§ 55 Abs. 4)
 
     *   2.751,26
 
-
-
-
-
 ## Anlage 8e (Anlage VIe des BBesG) Gültig ab 1. Januar 2002
 
 Fundstelle des Originaltextes: BGBl. I 2001, 667
@@ -7935,10 +7857,6 @@ Auslandszuschlag (§ 55 Abs. 4)
 
     *   3.340,78
 
-
-
-
-
 ## Anlage 8f (Anlage VIf des BBesG) Gültig ab 1. Januar 2002
 
 Fundstelle des Originaltextes: BGBl. I 2001, 667
@@ -8297,9 +8215,6 @@ Auslandszuschlag (§ 55 Abs. 5)
 
     *
     *
-
-
-
 
 ## Anlage 8g (Anlage VIg des BBesG) Gültig ab 1. Januar 2002
 
@@ -8660,9 +8575,6 @@ Auslandszuschlag (§ 55 Abs. 5)
     *
     *
 
-
-
-
 ## Anlage 8h (Anlage VIh des BBesG) Gültig ab 1. Januar 2002
 
    Fundstelle des Originaltextes: BGBl. I 2001, 668
@@ -9022,9 +8934,6 @@ Auslandszuschlag (§ 55 Abs. 5)
     *
     *
 
-
-
-
 ## Anlage 8i (Anlage VIi des BBesG) Gültig ab 1. Januar 2002
 
    Fundstelle des Originaltextes: BGBl. I 2001, 669
@@ -9098,10 +9007,6 @@ Auslandskinderzuschlag (§ 56)
 
 *    *   B 1 bis B 11
 
-
-
-
-
 ## Anlage 9 (Anlage VIII des BBesG) Gültig ab 1. Januar 2002
 
 Fundstelle des Originaltextes: BGBl. I 2001, 669
@@ -9144,10 +9049,6 @@ Anwärtergrundbetrag
         Bundesbesoldungsordnungen A und B) oder R 1
 
     *   1.007,16
-
-
-
-
 
 ## Anlage 10 (Anlage IX des BBesG) Gültig ab 1. Januar 2002
 
@@ -10283,13 +10184,6 @@ Anwärtergrundbetrag
         \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18.
             Dezember 1975 (BGBl. I S. 3091).
 
-
-
-
-
-
-
-
 ## Anlage 11 (Anlage IV des BBesG) (Zweite Besoldungs-Übergangsverordnung) Gültig ab 1. August 2000
 
 Fundstelle des Originaltextes: BGBl. I 2001, 673 - 675
@@ -11199,9 +11093,6 @@ Grundgehaltssätze
     *
     *
 
-
-
-
 ## Anlage 12 (Anlage V des BBesG) (Zweite Besoldungs-Übergangsverordnung) Gültig ab 1. August 2000
 
    Fundstelle des Originaltextes: BGBl. I 2001, 676
@@ -11253,10 +11144,6 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
     *   154,88 DM.
 
-
-
-
-
 ## Anlage 13 (Anlage VIII des BBesG) (Zweite Besoldungs-Übergangsverordnung) Gültig ab 1. August 2000
 
 (Fundstelle des Originaltextes: BGBl. I 2001, 677)
@@ -11305,10 +11192,6 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
         oder R 1
 
     *   1.647,22
-
-
-
-
 
 ## Anlage 14 (Anlage IX des BBesG) (Zweite Besoldungs-Übergangsverordnung) Gültig ab 1. August 2000
 
@@ -12466,13 +12349,6 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
             Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S.
             1345).
 
-
-
-
-
-
-
-
 ## Anlage 15 (Anlage IV des BBesG) (Zweite Besoldungs-Übergangsverordnung) Gültig ab 1. Januar 2001
 
 Fundstelle des Originaltextes: BGBl. I 2001, 681 - 683
@@ -13382,9 +13258,6 @@ Grundgehaltssätze
     *
     *
 
-
-
-
 ## Anlage 16 (Anlage V des BBesG) (Zweite Besoldungs-Übergangsverordnung) Gültig ab 1. Januar 2001
 
    (Fundstelle des Originaltextes: BGBl. I 2001, 684)
@@ -13458,10 +13331,6 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
         Versorgungsabschläge vom 19. Dezember 2000 (BGBl. I S. 1786) ist der
         Betrag für das Jahr 2001 um 180,19 DM zu erhöhen.
 
-
-
-
-
 ## Anlage 17 (Anlage VIII des BBesG) (Zweite Besoldungs-Übergangsverordnung) Gültig ab 1. Januar 2001
 
 Fundstelle des Originaltextes: BGBl. I 2001, 685
@@ -13504,10 +13373,6 @@ Anwärtergrundbetrag
         Bundesbesoldungsordnungen A und B) oder R 1
 
     *   1.705,78
-
-
-
-
 
 ## Anlage 18 (Anlage IX des BBesG) (Zweite Besoldungs-Übergangsverordnung) Gültig ab 1. Januar 2001
 
@@ -14642,13 +14507,6 @@ Anwärtergrundbetrag
             Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S.
             1345).
 
-
-
-
-
-
-
-
 ## Anlage 19 (Anlage IV des BBesG) (Zweite Besoldungs-Übergangsverordnung) Gültig ab 1. Januar 2002
 
 Fundstelle des Originaltextes: BGBl. I 2001, 689 - 691
@@ -15558,9 +15416,6 @@ Grundgehaltssätze
     *
     *
 
-
-
-
 ## Anlage 20 (Anlage V des BBesG) (Zweite Besoldungs-Übergangsverordnung) Gültig ab 1. Januar 2002
 
    Fundstelle des Originaltextes: BGBl. I 2001, 692
@@ -15613,10 +15468,6 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
     *   85,23 Euro.
 
-
-
-
-
 ## Anlage 21 (Anlage VIII des BBesG) (Zweite Besoldungs-Übergangsverordnung) Gültig ab 1. Januar 2002
 
 Fundstelle des Originaltextes: BGBl. I 2001, 693
@@ -15659,10 +15510,6 @@ Anwärtergrundbetrag
         Bundesbesoldungsordnungen A und B) oder R 1
 
     *   906,44
-
-
-
-
 
 ## Anlage 22 (Anlage IX des BBesG) (Zweite Besoldungs-Übergangsverordnung) Gültig ab 1. Januar 2002
 

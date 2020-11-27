@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 2797
 
-
 ## (XXXX)
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
@@ -55,11 +54,9 @@ Der glatte Münzrand enthält in vertiefter Prägung die Inschrift:
 
 Der Entwurf der Münze stammt von dem Künstler Erich Ott aus München.
 
-
 ## Schlussformel
 
 Der Bundesminister der Finanzen
-
 
 ## (XXXX)
 

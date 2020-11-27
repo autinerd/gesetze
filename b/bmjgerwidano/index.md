@@ -17,7 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 415
 
-
 ## I.
 
 Nach § 172 des Bundesbeamtengesetzes in der Fassung der Bekanntmachung
@@ -40,13 +39,11 @@ worden ist, wird
 die Befugnis übertragen, in beamtenrechtlichen Angelegenheiten über
 Widersprüche gegen die von ihnen getroffenen Maßnahmen zu entscheiden.
 
-
 ## II.
 
 Diese Anordnung tritt am ersten Tag des ersten auf die
 Veröffentlichung im Bundesgesetzblatt folgenden Kalendermonats in
 Kraft.
-
 
 ## Schlussformel
 

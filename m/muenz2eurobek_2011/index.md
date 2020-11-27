@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 2172
 
-
 ## (XXXX)
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
@@ -45,11 +44,9 @@ Das Münzzeichen der jeweiligen Prägestätte („A“, „D“, „F“, „G�
 Der Entwurf der nationalen Seite der Gedenkmünze stammt von Herrn
 Erich Ott aus München.
 
-
 ## Schlussformel
 
 Der Bundesminister der Finanzen
-
 
 ## (XXXX)
 

@@ -18,12 +18,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2a G v. 13.9.2012 I 1914
 
-
 ## § 1 Errichtung des Fonds
 
 Es wird ein Fonds des Bundes unter der Bezeichnung
 „Finanzmarktstabilisierungsfonds – FMS“ errichtet.
-
 
 ## § 2 Zweck des Fonds
 
@@ -47,7 +45,6 @@ auch wenn die Träger keine Finanzholding-Gesellschaften sind.
 (2) Der Fonds ist ein Sondervermögen im Sinne des Artikels 110 Absatz
 1 des Grundgesetzes.
 
-
 ## § 3 Stellung im Rechtsverkehr
 
 Der Fonds ist nicht rechtsfähig. Er kann unter seinem Namen im
@@ -56,7 +53,6 @@ Arrest oder andere Maßnahmen der Zwangsvollstreckung in den Fonds
 finden nicht statt. § 394 Satz 1 des Bürgerlichen Gesetzbuchs ist
 entsprechend anzuwenden. Der allgemeine Gerichtsstand des Fonds ist
 der in § 3a Absatz 1 Satz 3 genannte Sitz der Anstalt.
-
 
 ## § 3a Finanzmarktstabilisierungsanstalt
 
@@ -141,7 +137,6 @@ des Versicherungsaufsichtsgesetzes.
 Bundestages sind über Erlass und Änderungen der Rechtsverordnungen
 nach Absatz 6 unverzüglich zu unterrichten.
 
-
 ## § 3b Verschwiegenheitspflicht; Zusammenarbeit mit der Bundesanstalt für Finanzdienstleistungsaufsicht
 
 (1) Die Mitglieder des Leitungsausschusses, die Mitarbeiterinnen und
@@ -207,7 +202,6 @@ Absatz 1 Satz 1 des Kreditwesengesetzes, in § 32 Satz 1 des Gesetzes
 § 84 Absatz 1 Satz 1 des Versicherungsaufsichtsgesetzes und in Absatz
 1 genannten Personen sind insoweit von ihren jeweiligen
 Verschwiegenheitspflichten befreit.
-
 
 ## § 3c Rechtsstellung der Mitglieder des Leitungsausschusses
 
@@ -300,7 +294,6 @@ anzuwenden.
 (9) Die Absätze 7 und 8 gelten für Richter und für Berufssoldaten
 entsprechend.
 
-
 ## § 4 Entscheidung über Stabilisierungsmaßnahmen; Verwaltung
 
 (1) Über vom Fonds gemäß den §§ 5a, 6, 7 und 8 vorzunehmende
@@ -348,14 +341,12 @@ Deutschen Bundestages sind über Erlass und Änderungen der
 Rechtsverordnungen nach Satz 1 und Absatz 2 unverzüglich zu
 unterrichten.
 
-
 ## § 5 Vermögenstrennung, Bundeshaftung
 
 Der Fonds ist von dem übrigen Vermögen des Bundes, seinen Rechten und
 Verbindlichkeiten zu trennen. Der Bund haftet unmittelbar für die
 Verbindlichkeiten des Fonds; dieser haftet nicht für die sonstigen
 Verbindlichkeiten des Bundes.
-
 
 ## § 5a Anteilserwerb
 
@@ -369,7 +360,6 @@ wirtschaftlicher auf andere Weise erreichen lässt. Die §§ 65 bis 69
 der Bundeshaushaltsordnung finden keine Anwendung. § 5 Absatz 2 und 5
 bis 9 der Finanzmarktstabilisierungsfonds-Verordnung in der am 1. März
 2012 geltenden Fassung gilt für Maßnahmen nach Satz 1 entsprechend.
-
 
 ## § 6 Garantieermächtigung
 
@@ -455,7 +445,6 @@ Zustimmung des Bundesrates bedarf, nähere Bestimmungen erlassen über
 (5) Der Haushaltsausschuss und der Finanzausschuss des Deutschen
 Bundestages sind über Erlass und Änderungen der Rechtsverordnung nach
 Absatz 4 unverzüglich zu unterrichten.
-
 
 ## § 6a Garantien an Zweckgesellschaften
 
@@ -599,7 +588,6 @@ Finanzmarktstabilisierungsfonds-Verordnung findet jedoch vorbehaltlich
 der Zahlung der Ausgleichsbeträge nach den §§ 6b und 6c auf Dividenden
 und Gewinnausschüttungen an die Anteilseigner keine Anwendung.
 
-
 ## § 6b Verpflichtung zur Zahlung eines Ausgleichsbetrags
 
 (1) Übertragende Unternehmen zahlen für die Dauer der Laufzeit der
@@ -657,7 +645,6 @@ sowie die sich aus den Absätzen 1 und 2 ergebenden Folgen sind im
 Lagebericht und Konzernlagebericht des übertragenden Unternehmens
 anzugeben.
 
-
 ## § 6c Verpflichtung zum weiteren Verlustausgleich
 
 (1) Ist das übertragende Unternehmen in der Rechtsform einer
@@ -696,10 +683,7 @@ unterliegen nicht der Verjährung.
 Lagebericht und Konzernlagebericht des übertragenden Unternehmens
 anzugeben.
 
-
 ## § 6d (weggefallen)
-
-
 
 ## § 7 Rekapitalisierung
 
@@ -742,7 +726,6 @@ Zustimmung des Bundesrates bedarf, nähere Bestimmungen erlassen über
 Bundestages sind über Erlass und Änderungen der Rechtsverordnung nach
 Absatz 3 unverzüglich zu unterrichten.
 
-
 ## § 8 Risikoübernahme
 
 (1) Der Fonds kann von Unternehmen des Finanzsektors vor dem 1.
@@ -784,7 +767,6 @@ Zustimmung des Bundesrates bedarf, nähere Bestimmungen erlassen über
 (3) Der Haushaltsausschuss und der Finanzausschuss des Deutschen
 Bundestages sind über Erlass und Änderungen der Rechtsverordnung nach
 Absatz 2 unverzüglich zu unterrichten.
-
 
 ## § 8a Bundesrechtliche Abwicklungsanstalten
 
@@ -1187,7 +1169,6 @@ Geschäftsbereiche durch eine Maßnahme nach dem Umwandlungsgesetz auf
 eine Abwicklungsanstalt übertragen werden sollen, gilt § 7c des
 Finanzmarktstabilisierungsbeschleunigungsgesetzes entsprechend.
 
-
 ## § 8b Landesrechtliche Abwicklungsanstalten
 
 (1) Eine landesrechtliche Abwicklungsanstalt ist eine Anstalt des
@@ -1233,7 +1214,6 @@ landesrechtliche Abwicklungsanstalten die Bestimmungen des § 3a Absatz
 4 Satz 1 und 4 bis 6 sowie § 8a Absatz 5 bis 7 und 9 entsprechend. Die
 Aufsicht nach § 8a Absatz 5 Satz 3 erstreckt sich auch auf die
 Bedingungen nach Absatz 1 Nummer 1.
-
 
 ## § 9 Kreditermächtigung
 
@@ -1285,7 +1265,6 @@ worden ist. Die Tilgung hat binnen eines angemessenen Zeitraums zu
 erfolgen. Nach Maßgabe dieses Tilgungsplans verringert sich in den
 jeweiligen Jahren die nach der Schuldenregel zulässige
 Nettokreditaufnahme des Bundes.
-
 
 ## § 10 Bedingungen für Stabilisierungsmaßnahmen
 
@@ -1380,7 +1359,6 @@ gilt nicht für Ansprüche, die vor dem 1. Januar 2011 entstanden sind.
 Bundestages sind über Erlass und Änderungen der Rechtsverordnung nach
 Absatz 2 unverzüglich zu unterrichten.
 
-
 ## § 10a Gremium zum Finanzmarktstabilisierungsfonds
 
 (1) Der Deutsche Bundestag wählt für die Dauer einer Legislaturperiode
@@ -1403,7 +1381,6 @@ Geheimhaltung aller Angelegenheiten verpflichtet, die ihnen bei ihrer
 Tätigkeit bekannt geworden sind. Dies gilt für alle Teilnehmerinnen
 und Teilnehmer der Sitzungen.
 
-
 ## § 11 Jahresrechnung und parlamentarische Unterrichtung
 
 (1) Das Bundesministerium der Finanzen stellt am Schluss eines jeden
@@ -1420,11 +1397,9 @@ sind regelmäßig über den aktuellen Sachstand zu unterrichten. Das
 Gremium nach § 10a dieses Gesetzes ist in allen Fällen von
 wesentlicher Bedeutung unverzüglich zu unterrichten.
 
-
 ## § 12 Verwaltungskosten
 
 Die Kosten für die Verwaltung des Fonds trägt der Bund.
-
 
 ## § 13 Befristung und Länderbeteiligung
 
@@ -1480,7 +1455,6 @@ des Gremiums nach § 10a und des Bundesrates bedarf.
 Bundestages sind über Erlass und Änderungen der Rechtsverordnungen
 nach Absatz 4 unverzüglich zu unterrichten.
 
-
 ## § 14 Steuern
 
 (1) Der Fonds unterliegt nicht der Gewerbesteuer oder der
@@ -1524,7 +1498,6 @@ der Ermittlung des Vomhundertsatzes des § 1 Absatz 2a des
 Grunderwerbsteuergesetzes bleiben Erwerbe von Anteilen durch den Fonds
 außer Betracht.
 
-
 ## § 14a Steuerrechtliche Sonderregelungen im Zusammenhang mit Vermögensübertragungen nach den §§ 6a und 8a
 
 (1) Beim übertragenden Unternehmen sind die Schuldtitel im Sinne des §
@@ -1564,7 +1537,6 @@ entsprechend.
 (4) Für den steuerlichen Übertragungsstichtag gilt § 8a Absatz 8
 Nummer 6.
 
-
 ## § 14b Steuerrechtliche Sonderregelungen zu Zweckgesellschaften und Abwicklungsanstalten nach den §§ 6a und 8a
 
 (1) Die Zweckgesellschaft im Sinne des § 6a Absatz 1 gilt als
@@ -1597,7 +1569,6 @@ Abwicklungsanstalt, auf die nur Risikopositionen im Sinne des § 8a
 Absatz 1 Satz 1 übertragen worden sind, ist Absatz 1 entsprechend
 anzuwenden; für übrige Abwicklungsanstalten ist § 19 Absatz 1 und 2
 der Gewerbesteuer-Durchführungsverordnung entsprechend anzuwenden.
-
 
 ## § 14c Steuerrechtliche Behandlung von Zahlungen in die Zweckgesellschaft oder die Abwicklungsanstalt und Auskehrungen der Zweckgesellschaft oder der Abwicklungsanstalt
 
@@ -1700,14 +1671,12 @@ Höhe dieser Zahlungen zunächst Satz 2 Nummer 2 anzuwenden. Dies ist
 vom Anteilseigner nachzuweisen; Absatz 3 ist vom Anteilseigner
 entsprechend anzuwenden.
 
-
 ## § 14d Steuerrechtliche Sonderregelungen im Zusammenhang mit landesrechtlichen Abwicklungsanstalten
 
 § 14a Absatz 2 bis 4 gilt im Zusammenhang mit Vermögensübertragungen
 in die landesrechtliche Abwicklungsanstalten im Sinne des § 8b
 entsprechend. § 14b Absatz 2 bis 4 ist auf die landesrechtlichen
 Abwicklungsanstalten im Sinne des § 8b entsprechend anzuwenden.
-
 
 ## § 14e Anwendungsvorschrift für die §§ 14 bis 14d
 
@@ -1720,13 +1689,11 @@ anzuwenden.
 sind erstmals für den Veranlagungszeitraum 2009 und den
 Erhebungszeitraum 2009 anzuwenden.
 
-
 ## § 15 Sofortige Vollziehbarkeit
 
 Ein Widerspruch ist ausgeschlossen. Die Anfechtungsklage gegen
 Maßnahmen nach diesem Gesetz und den auf diesem Gesetz beruhenden
 Rechtsverordnungen hat keine aufschiebende Wirkung.
-
 
 ## § 16 Rechtsweg
 
@@ -1736,13 +1703,11 @@ verfassungsrechtlicher Art nach diesem Gesetz. Im Übrigen bleibt die
 Zuständigkeit der ordentlichen Gerichte unberührt. Dabei entscheidet
 der Bundesgerichtshof in erster und letzter Instanz.
 
-
 ## § 17 Verkündung von Rechtsverordnungen
 
 Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz
 1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger
 verkündet werden.
-
 
 ## § 18 Übergangsregelungen
 

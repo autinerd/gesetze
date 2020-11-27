@@ -22,7 +22,6 @@ in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die
 Berufsschule werden demnächst als Beilage zum Bundesanzeiger
 veröffentlicht.
 
-
 ## Eingangsformel
 
 Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des
@@ -32,17 +31,14 @@ Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), von denen §
 für Wirtschaft und Technologie im Einvernehmen mit dem
 Bundesministerium für Bildung und Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Sportfachmann/Sportfachfrau wird nach § 4 Abs. 1
 des Berufsbildungsgesetzes staatlich anerkannt.
 
-
 ## § 2 Dauer der Berufsausbildung
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Ausbildungsrahmenplan, Ausbildungsberufsbild
 
@@ -139,13 +135,6 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
     2.4 Kundenorientierte Kommunikation.
 
-
-
-
-
-
-
-
 ## § 4 Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
@@ -165,7 +154,6 @@ zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
 Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
 Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
 durchzusehen.
-
 
 ## § 5 Zwischenprüfung
 
@@ -197,7 +185,6 @@ kann.
 (4) Im Prüfungsbereich Leistungsprozesse im Sport- und Fitnessbereich
 soll der Prüfling praxisbezogene schriftliche Aufgaben bearbeiten. Die
 Prüfungszeit beträgt 120 Minuten.
-
 
 ## § 6 Abschlussprüfung
 
@@ -407,11 +394,9 @@ kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich
 sind das bisherige Ergebnis und das Ergebnis der mündlichen
 Ergänzungsprüfung im Verhältnis von 2 : 1 zu gewichten.
 
-
 ## § 7 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2007 in Kraft.
-
 
 ## Anlage 1 (zu § 3 Abs. 1 Satz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Sportfachmann/zur Sportfachfrau - Sachliche Gliederung -
 
@@ -1047,13 +1032,6 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
 
 
         g)  zur Vermeidung von Konflikten beitragen
-
-
-
-
-
-
-
 
 ## Anlage 2 (zu § 3 Abs. 1 Satz 2) Ausbildungsrahmenplan für die Berufsausbildung zum Sportfachmann/zur Sportfachfrau - Zeitliche Gliederung -
 

@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 G v. 17.8.2012 I 1726
 
-
 ## Teil 1 - Allgemeine Vorschriften für die Umweltprüfungen
-
-
 
 ### § 1 Zweck des Gesetzes
 
@@ -49,10 +46,6 @@ Programmen zur wirksamen Umweltvorsorge nach einheitlichen Grundsätzen
 
 
     so früh wie möglich berücksichtigt werden.
-
-
-
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -164,7 +157,6 @@ Aufgabenbereich durch eine Entscheidung im Sinne des Absatzes 3 oder
 einen Plan oder ein Programm im Sinne des Absatzes 5 berührt wird,
 darunter auch Vereinigungen zur Förderung des Umweltschutzes.
 
-
 ### § 3 Anwendungsbereich
 
 (1) Dieses Gesetz gilt für die in der Anlage 1 aufgeführten Vorhaben.
@@ -230,14 +222,9 @@ das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit
 jährlich über die Anwendung der auf Grund von Satz 1 erlassenen
 Rechtsverordnung.
 
-
 ## Teil 2 - Umweltverträglichkeitsprüfung (UVP)
 
-
-
 ### Abschnitt 1 - Voraussetzungen für eine Umweltverträglichkeitsprüfung
-
-
 
 #### § 3a Feststellung der UVP-Pflicht
 
@@ -259,7 +246,6 @@ Behörde in einem gerichtlichen Verfahren betreffend die Entscheidung
 über die Zulässigkeit des Vorhabens nur darauf zu überprüfen, ob die
 Vorprüfung entsprechend den Vorgaben von § 3c durchgeführt worden ist
 und ob das Ergebnis nachvollziehbar ist.
-
 
 #### § 3b UVP-Pflicht aufgrund Art, Größe und Leistung der Vorhaben
 
@@ -311,7 +297,6 @@ Anlage 1 Nr. 14.4 und 14.5 aufgeführten Vorhaben mit der Maßgabe, dass
 neben einem engen räumlichen Zusammenhang auch ein enger zeitlicher
 Zusammenhang besteht.
 
-
 #### § 3c UVP-Pflicht im Einzelfall
 
 Sofern in der Anlage 1 für ein Vorhaben eine allgemeine Vorprüfung des
@@ -336,11 +321,9 @@ erstmalige Erreichen oder Überschreiten und jedes weitere
 Satz 1 und 2 und Abs. 3 entsprechend. Die Durchführung und das
 Ergebnis der Vorprüfung sind zu dokumentieren.
 
-
 #### § 3d (weggefallen)
 
 -
-
 
 #### § 3e Änderungen und Erweiterungen UVP-pflichtiger Vorhaben
 
@@ -370,7 +353,6 @@ gilt Absatz 1 Nr. 2 mit der Maßgabe, dass der dort jeweils für den Bau
 des entsprechenden Vorhabens einschlägige Prüfwert erreicht oder
 überschritten wird.
 
-
 #### § 3f UVP-pflichtige Entwicklungs- und Erprobungsvorhaben
 
 (1) Sofern ein in der Anlage 1 Spalte 1 aufgeführtes Vorhaben
@@ -386,7 +368,6 @@ nachteilige Umweltauswirkungen des Vorhabens nicht zu besorgen sind.
 Entwicklungs- und Erprobungsvorhaben ist, gilt die allgemeine Regelung
 des § 3c.
 
-
 #### § 4 Vorrang anderer Rechtsvorschriften bei der UVP
 
 Dieses Gesetz findet Anwendung, soweit Rechtsvorschriften des Bundes
@@ -394,10 +375,7 @@ oder der Länder die Prüfung der Umweltverträglichkeit nicht näher
 bestimmen oder in ihren Anforderungen diesem Gesetz nicht entsprechen.
 Rechtsvorschriften mit weitergehenden Anforderungen bleiben unberührt.
 
-
 ### Abschnitt 2 - Verfahrensschritte der Umweltverträglichkeitsprüfung
-
-
 
 #### § 5 Unterrichtung über voraussichtlich beizubringende Unterlagen
 
@@ -420,7 +398,6 @@ zuständige Behörde oder die zu beteiligenden Behörden über
 Informationen, die für die Beibringung der Unterlagen nach § 6
 zweckdienlich sind, sollen sie diese Informationen dem Träger des
 Vorhabens zur Verfügung stellen.
-
 
 #### § 6 Unterlagen des Trägers des Vorhabens
 
@@ -506,7 +483,6 @@ Nummern 1 und 2 genannten Angaben erstrecken.
 zuständige Behörde für diejenige öffentlich-rechtliche Körperschaft
 tätig wird, die Träger des Vorhabens ist.
 
-
 #### § 7 Beteiligung anderer Behörden
 
 Die zuständige Behörde unterrichtet die Behörden, deren
@@ -514,7 +490,6 @@ umweltbezogener Aufgabenbereich durch das Vorhaben berührt wird, über
 das Vorhaben, übermittelt ihnen die Unterlagen nach § 6 und holt ihre
 Stellungnahmen ein. § 73 Abs. 3a des Verwaltungsverfahrensgesetzes
 findet entsprechende Anwendung.
-
 
 #### § 8 Grenzüberschreitende Behördenbeteiligung
 
@@ -552,7 +527,6 @@ sie eine Übersetzung der Zulässigkeitsentscheidung beifügen.
 
 (4) Weitergehende Regelungen zur Umsetzung völkerrechtlicher
 Verpflichtungen von Bund und Ländern bleiben unberührt.
-
 
 #### § 9 Beteiligung der Öffentlichkeit
 
@@ -650,10 +624,6 @@ vorgelagerten Verfahren dadurch beteiligt, dass
     der Entscheidung mit Begründung und einer Information über
     Rechtsbehelfe der Öffentlichkeit zugänglich gemacht wird.
 
-
-
-
-
 #### § 9a Grenzüberschreitende Öffentlichkeitsbeteiligung
 
 (1) Wenn ein Vorhaben erhebliche Umweltauswirkungen in einem anderen
@@ -695,7 +665,6 @@ Gleichwertigkeit erfüllt sind.
 (3) Weitergehende Regelungen zur Umsetzung völkerrechtlicher
 Verpflichtungen von Bund und Ländern bleiben unberührt.
 
-
 #### § 9b Grenzüberschreitende Behörden- und Öffentlichkeitsbeteiligung bei ausländischen Vorhaben
 
 (1) Wenn ein in einem anderen Staat geplantes Vorhaben erhebliche
@@ -729,12 +698,10 @@ angemessener Frist die Unterlagen einzusehen.
 (3) § 8 Abs. 2 und 4, § 9 Abs. 2 sowie § 9a Abs. 3 gelten
 entsprechend.
 
-
 #### § 10 Geheimhaltung und Datenschutz
 
 Die Rechtsvorschriften über Geheimhaltung und Datenschutz bleiben
 unberührt.
-
 
 #### § 11 Zusammenfassende Darstellung der Umweltauswirkungen
 
@@ -754,7 +721,6 @@ zusammenfassende Darstellung kann in der Begründung der Entscheidung
 erforderlichenfalls die Darstellung der Vermeidungs-, Verminderungs-,
 Ausgleichs- und Ersatzmaßnahmen.
 
-
 #### § 12 Bewertung der Umweltauswirkungen und Berücksichtigung des Ergebnisses bei der Entscheidung
 
 Die zuständige Behörde bewertet die Umweltauswirkungen des Vorhabens
@@ -763,7 +729,6 @@ berücksichtigt diese Bewertung bei der Entscheidung über die
 Zulässigkeit des Vorhabens im Hinblick auf eine wirksame
 Umweltvorsorge im Sinne der §§ 1, 2 Abs. 1 Satz 2 und 4 nach Maßgabe
 der geltenden Gesetze.
-
 
 #### § 13 Vorbescheid und Teilzulassungen
 
@@ -782,7 +747,6 @@ und bei den Unterlagen nach § 6 Rechnung zu tragen.
 soll die Prüfung der Umweltverträglichkeit auf zusätzliche oder andere
 erhebliche Umweltauswirkungen des Vorhabens beschränkt werden. Absatz
 1 gilt entsprechend.
-
 
 #### § 14 Zulassung eines Vorhabens durch mehrere Behörden
 
@@ -806,14 +770,9 @@ Umweltauswirkungen des Vorhabens vorzunehmen und diese nach § 12 bei
 den Entscheidungen zu berücksichtigen. Die federführende Behörde hat
 das Zusammenwirken der Zulassungsbehörden sicherzustellen.
 
-
 ## Teil 3 - Strategische Umweltprüfung (SUP)
 
-
-
 ### Abschnitt 1 - Voraussetzungen für eine Strategische Umweltprüfung
-
-
 
 #### § 14a Feststellung der SUP-Pflicht
 
@@ -828,7 +787,6 @@ den Zugang zu Umweltinformationen zugänglich zu machen; soll eine
 Strategische Umweltprüfung unterbleiben, ist dies einschließlich der
 dafür wesentlichen Gründe bekannt zu geben. Die Feststellung ist nicht
 selbständig anfechtbar.
-
 
 #### § 14b SUP-Pflicht in bestimmten Plan- oder Programmbereichen und im Einzelfall
 
@@ -872,13 +830,11 @@ offensichtlich ausgeschlossen werden. Die in § 14h genannten Behörden
 sind bei der Vorprüfung nach Satz 1 zu beteiligen. Die Durchführung
 und das Ergebnis der Vorprüfung sind zu dokumentieren.
 
-
 #### § 14c SUP-Pflicht aufgrund einer Verträglichkeitsprüfung
 
 Eine Strategische Umweltprüfung ist durchzuführen bei Plänen und
 Programmen, die einer Verträglichkeitsprüfung nach § 36 Satz 1 Nummer
 2 des Bundesnaturschutzgesetzes unterliegen.
-
 
 #### § 14d Ausnahmen von der SUP-Pflicht
 
@@ -890,10 +846,7 @@ dass der Plan oder das Programm voraussichtlich erhebliche
 Umweltauswirkungen hat. Die §§ 13 und 13a des Baugesetzbuchs sowie § 9
 Abs. 2 des Raumordnungsgesetzes bleiben unberührt.
 
-
 ### Abschnitt 2 - Verfahrensschritte der Strategischen Umweltprüfung
-
-
 
 #### § 14e Vorrang anderer Rechtsvorschriften bei der SUP
 
@@ -902,7 +855,6 @@ Anwendung, soweit Rechtsvorschriften des Bundes und der Länder die
 Strategische Umweltprüfung nicht näher bestimmen oder in ihren
 Anforderungen diesem Gesetz nicht entsprechen. Rechtsvorschriften mit
 weitergehenden Anforderungen bleiben unberührt.
-
 
 #### § 14f Festlegung des Untersuchungsrahmens
 
@@ -947,7 +899,6 @@ die nach Absatz 1 zu treffenden Festlegungen. Sachverständige und
 Dritte können hinzugezogen werden. Verfügen die zu beteiligenden
 Behörden über Informationen, die für den Umweltbericht zweckdienlich
 sind, übermitteln sie diese der zuständigen Behörde.
-
 
 #### § 14g Umweltbericht
 
@@ -1020,7 +971,6 @@ Tätigkeiten vorliegen, können in den Umweltbericht aufgenommen werden,
 wenn sie für den vorgesehenen Zweck geeignet und hinreichend aktuell
 sind.
 
-
 #### § 14h Beteiligung anderer Behörden
 
 Die zuständige Behörde übermittelt den Behörden, deren umwelt- und
@@ -1029,7 +979,6 @@ berührt wird, den Entwurf des Plans oder Programms sowie den
 Umweltbericht und holt die Stellungnahmen dieser Behörden ein. Die
 zuständige Behörde setzt für die Abgabe der Stellungnahmen eine
 angemessene Frist von mindestens einem Monat.
-
 
 #### § 14i Beteiligung der Öffentlichkeit
 
@@ -1051,7 +1000,6 @@ Monat. Ein Erörterungstermin ist durchzuführen, soweit
 Rechtsvorschriften des Bundes dies für bestimmte Pläne und Programme
 vorsehen.
 
-
 #### § 14j Grenzüberschreitende Behörden- und Öffentlichkeitsbeteiligung
 
 (1) Für die grenzüberschreitende Behördenbeteiligung gilt § 8
@@ -1070,7 +1018,6 @@ sich am Verfahren nach § 14i Abs. 1 bis 3 beteiligen.
 (3) Für die Beteiligung der deutschen Behörden und Öffentlichkeit bei
 Plänen und Programmen eines anderen Staates gilt § 9b entsprechend.
 
-
 #### § 14k Abschließende Bewertung und Berücksichtigung
 
 (1) Nach Abschluss der Behörden- und Öffentlichkeitsbeteiligung
@@ -1081,7 +1028,6 @@ gelten die in § 14g Abs. 3 bestimmten Maßstäbe.
 
 (2) Das Ergebnis der Überprüfung nach Absatz 1 ist im Verfahren zur
 Aufstellung oder Änderung des Plans oder Programms zu berücksichtigen.
-
 
 #### § 14l Bekanntgabe der Entscheidung über die Annahme des Plans oder Programms
 
@@ -1104,10 +1050,6 @@ zur Einsicht auszulegen:
 
 
 3.  eine Aufstellung der Überwachungsmaßnahmen nach § 14m.
-
-
-
-
 
 #### § 14m Überwachung
 
@@ -1136,16 +1078,12 @@ Plans oder Programms zu berücksichtigen.
 Überwachungsmechanismen, Daten- und Informationsquellen genutzt
 werden. § 14g Abs. 4 gilt entsprechend.
 
-
 #### § 14n Gemeinsame Verfahren
 
 Die Strategische Umweltprüfung kann mit anderen Prüfungen zur
 Ermittlung oder Bewertung von Umweltauswirkungen verbunden werden.
 
-
 ## Teil 4 - Besondere Verfahrensvorschriften für die Umweltprüfungen
-
-
 
 ### § 15 Linienbestimmung und Genehmigung von Flugplätzen
 
@@ -1184,7 +1122,6 @@ Bundeswasserstraßengesetzes kann nur im Rahmen des
 Rechtsbehelfsverfahrens gegen die nachfolgende Zulassungsentscheidung
 überprüft werden.
 
-
 ### § 16 Raumordnungspläne; Raumordnungsverfahren
 
 (1) Für das Raumordnungsverfahren bei in der Anlage 1 aufgeführten
@@ -1210,7 +1147,6 @@ Gesetz eine Verpflichtung zur Durchführung einer Strategischen
 Umweltprüfung, wird hierfür eine Umweltprüfung einschließlich der
 Überwachung nach den Vorschriften des Raumordnungsgesetzes
 durchgeführt.
-
 
 ### § 17 Aufstellung von Bauleitplänen
 
@@ -1239,14 +1175,12 @@ Umweltverträglichkeitsprüfung im nachfolgenden Zulassungsverfahren auf
 zusätzliche oder andere erhebliche Umweltauswirkungen des Vorhabens
 beschränkt werden.
 
-
 ### § 18 Bergrechtliche Verfahren
 
 Bei bergbaulichen Vorhaben, die in der Anlage 1 aufgeführt sind, wird
 die Umweltverträglichkeitsprüfung nach § 2 Abs. 1 Satz 1 bis 3 im
 Planfeststellungsverfahren nach dem Bundesberggesetz durchgeführt. Die
 §§ 5 bis 14 finden keine Anwendung.
-
 
 ### § 19 Flurbereinigungsverfahren
 
@@ -1255,12 +1189,10 @@ landschaftspflegerischem Begleitplan nach § 41 des
 Flurbereinigungsgesetzes ist die Öffentlichkeit entsprechend den
 Bestimmungen des § 9 Abs. 3 einzubeziehen.
 
-
 ### § 19a Strategische Umweltprüfung bei Landschaftsplanungen
 
 Bei Landschaftsplanungen richten sich die Erforderlichkeit und die
 Durchführung einer Strategischen Umweltprüfung nach Landesrecht.
-
 
 ### § 19b Strategische Umweltprüfung bei Verkehrswegeplanungen auf Bundesebene
 
@@ -1320,10 +1252,7 @@ Anlage 3 bestimmte vorbereitende Prüfungen vorzunehmen und deren
 Ergebnisse oder sonstigen Angaben beizubringen haben, die für die
 Durchführung der Strategischen Umweltprüfung notwendig sind.
 
-
 ## Teil 5 - Vorschriften für bestimmte Leitungsanlagen und andere Anlagen (Anlage 1 Nr. 19)
-
-
 
 ### § 20 Planfeststellung; Plangenehmigung
 
@@ -1344,7 +1273,6 @@ entsprechend. Die Sätze 2 und 3 gelten nicht für Errichtung, Betrieb
 und Änderung von Rohrleitungsanlagen zum Befördern wassergefährdender
 Stoffe sowie für die Änderung ihres Betriebs, ausgenommen Änderungen
 von unwesentlicher Bedeutung.
-
 
 ### § 21 Entscheidung; Nebenbestimmungen
 
@@ -1465,7 +1393,6 @@ dieses Gesetzes und der auf Grund der Absätze 4 und 5 erlassenen
 Rechtsverordnungen bei Anlagen, die der Verteidigung dienen,
 Bundesbehörden obliegt.
 
-
 ### § 22 Verfahren
 
 Für die Durchführung des Planfeststellungsverfahrens und des
@@ -1474,7 +1401,6 @@ Verwaltungsverfahrensgesetzes. Die Bundesregierung wird ermächtigt,
 durch Rechtsverordnung mit Zustimmung des Bundesrates weitere
 Einzelheiten des Planfeststellungsverfahrens, insbesondere zu Art und
 Umfang der Antragsunterlagen, zu regeln.
-
 
 ### § 23 Bußgeldvorschriften
 
@@ -1510,10 +1436,7 @@ Buchstabe b mit einer Geldbuße bis zu zwanzigtausend Euro, in den
 übrigen Fällen mit einer Geldbuße bis zu fünfzigtausend Euro geahndet
 werden.
 
-
 ## Teil 6 - Schlussvorschriften
-
-
 
 ### § 24 Verwaltungsvorschriften
 
@@ -1546,13 +1469,11 @@ Verwaltungsvorschriften über
 
 erlassen.
 
-
 ### § 24a Bestimmungen zum Verwaltungsverfahren
 
 Von den in diesem Gesetz und auf Grund dieses Gesetzes getroffenen
 Regelungen des Verwaltungsverfahrens kann durch Landesrecht nur in dem
 durch die §§ 4 und 14e bestimmten Umfang abgewichen werden.
-
 
 ### § 25 Übergangsvorschrift
 
@@ -1675,7 +1596,6 @@ Zulässigkeit von Vorhaben nach den Nummern 3.15, 13.1 bis 13.2.1.3,
 13\.3 bis 13.18 und 17 der Anlage 1 dienen und die vor dem 1. März 2010
 eingeleitet worden sind, sind nach der bis zu diesem Tag geltenden
 Fassung des Gesetzes zu Ende zu führen.
-
 
 ### Anlage 1 Liste "UVP-pflichtige Vorhaben"
 
@@ -5769,10 +5689,6 @@ und 2.
     *
     *   **S**
 
-
-
-
-
 ### Anlage 2 Kriterien für die Vorprüfung des Einzelfalls im Rahmen einer Umweltverträglichkeitsprüfung
 
 (Fundstelle des Originaltextes: BGBl. I 2010, 126;
@@ -5897,10 +5813,6 @@ wird.
 
 
 3.5 der Dauer, Häufigkeit und Reversibilität der Auswirkungen.
-
-
-
-
 
 ### Anlage 3 Liste "SUP-pflichtiger Pläne und Programme"
 
@@ -6048,10 +5960,6 @@ Anwendungsbereich dieses Gesetzes.
 *    *   2.6
 
     *   Abfallvermeidungsprogramme nach § 33 des Kreislaufwirtschaftsgesetzes
-
-
-
-
 
 ### Anlage 4 Kriterien für die Vorprüfung des Einzelfalls im Rahmen einer Strategischen Umweltprüfung
 

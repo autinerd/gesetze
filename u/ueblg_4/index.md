@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1955, 189
 
-
-
 ## § 1 Finanzverwaltung
 
 (1) Auf dem Gebiet der Steuer- und Zollverwaltung fallen die
@@ -36,7 +34,6 @@ Beteiligung des Bundes an den Ausgaben der Länder und Gemeinden
 
 (3) ...
 
-
 ## § 2 Kriegsfolgelasten
 
 (1) ...
@@ -53,16 +50,13 @@ anfallenden Fürsorgekosten trägt, gilt § 21a des Ersten
 
 (5) ...
 
-
 ## § 3 Behörden der Kriegsopferversorgung
 
 -
 
-
 ## § 4 Bundesstatistiken
 
 -
-
 
 ## § 5 Ablieferung von Steuereinnahmen
 
@@ -80,7 +74,6 @@ Finanzbehörden der Länder können zur Vereinfachung des
 Verwaltungsverfahrens die Ablieferung der Einnahmen anderweitig
 regeln.
 
-
 ## § 6 Auskunftspflicht
 
 Die zuständigen Bundesbehörden und Landesbehörden sind verpflichtet,
@@ -88,7 +81,6 @@ sich gegenseitig die zur Durchführung dieses Gesetzes erforderlichen
 Auskünfte zu erteilen und auf Verlangen die sachliche Richtigkeit der
 Auskünfte von der obersten Rechnungsprüfungsbehörde bestätigen zu
 lassen.
-
 
 ## § 7 Überleitung
 
@@ -98,16 +90,13 @@ Länder und von den Ländern auf den Bund übergehen, stehen die nach dem
 und fallen die nach dem 31. März 1955 zu leistenden Ausgaben dem neuen
 Ausgabenträger zur Last.
 
-
 ## § 8 Außerkrafttreten von Gesetzen
 
 -
 
-
 ## § 9 Neufassung von Gesetzen
 
 -
-
 
 ## § 10 Geltung in Berlin
 
@@ -116,7 +105,6 @@ des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I
 S. 1) auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses
 Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 Überleitungsgesetzes.
-
 
 ## § 11 Inkrafttreten
 

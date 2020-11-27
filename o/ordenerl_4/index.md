@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1975, 1857
 
-
-
 ## Art 1
 
 Auf Grund des § 3 Abs. 1 des Gesetzes über Titel, Orden und
@@ -33,12 +31,10 @@ Stiftung und Verleihung der
 des Goethe-Instituts zur Pflege deutscher Sprache und Kultur im
 Ausland e.V.
 
-
 ## Art 2
 
 Ich genehmige die Stiftungsbestimmungen und die Verleihungsbedingungen
 (Statut und Ausführungsbestimmungen zum Statut) der Goethe-Medaille.
-
 
 ## Art 3
 
@@ -46,13 +42,11 @@ Das Statut und die Ausführungsbestimmungen zum Statut sowie die
 Abbildung der Goethe-Medaille werden vom Bundesminister des Innern im
 Bundesanzeiger veröffentlicht.
 
-
 ## Art 4
 
 Jede Änderung der Stiftungsbestimmungen und der Verleihungsbedingungen
 der Goethe-Medaille und jede Änderung ihrer Form und ihrer Benennung
 bedarf meiner Genehmigung.
-
 
 ## Schlußformel
 

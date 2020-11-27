@@ -23,7 +23,6 @@ Informationsgesellschaft (ABl. EG Nr. L 204 S. 37), geändert durch die
 Richtlinie 98/48/EG des Europäischen Parlaments und des Rates vom 20.
 Juli 1998 (ABl. EG Nr. L 217 S. 18), sind beachtet worden.
 
-
 ## Eingangsformel
 
 Auf Grund des § 46b Abs. 2 Satz 1 des Arbeitsgerichtsgesetzes in der
@@ -31,12 +30,10 @@ Fassung der Bekanntmachung vom 2. Juli 1979 (BGBl. I S. 853, 1036),
 der durch Artikel 6b des Gesetzes vom 13. Juli 2001 (BGBl. I S. 1542)
 eingefügt worden ist, verordnet die Bundesregierung:
 
-
 ## § 1 Zulassung der elektronischen Kommunikation
 
 Beim Bundesarbeitsgericht können ab dem 1. April 2006 in allen
 Verfahrensarten elektronische Dokumente eingereicht werden.
-
 
 ## § 2 Form der Einreichung
 
@@ -115,7 +112,6 @@ entsprechen, können auch in komprimierter Form als ZIP-Datei
 eingereicht werden. Beim Einsatz von Dokumentensignaturen muss sich
 die Signatur auf das Dokument und nicht auf die ZIP-Datei beziehen.
 
-
 ## § 3 Bekanntgabe der Bearbeitungsvoraussetzungen
 
 Das Bundesarbeitsgericht gibt auf der Internetseite
@@ -161,10 +157,6 @@ bekannt:
     Bezeichnung des einzureichenden elektronischen Dokuments gemacht
     werden sollen, um die Zuordnung innerhalb des Gerichts und die
     Weiterverarbeitung durch das Gericht zu gewährleisten.
-
-
-
-
 
 ## § 4 Inkrafttreten
 

@@ -15,14 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1982, 1553, 1558
 
-
-
 ## § 1 Anwendungsbereich
 
 Einwirkungsbereiche untertägiger Gewinnungsbetriebe der in der Anlage
 bezeichneten Bergbauzweige und -bezirke sind nach dieser Verordnung
 festzulegen.
-
 
 ## § 2 Räumliche Begrenzung des Einwirkungsbereichs
 
@@ -41,7 +38,6 @@ einer Bodensenkung von 10 cm durchdringen wird.
 Verbindungslinie der Punkte, in denen die freien Schenkel der
 Einwirkungswinkel die Oberfläche durchdringen.
 
-
 ## § 3 Zeitliche Begrenzung des Einwirkungsbereichs
 
 Die räumliche Begrenzung des Einwirkungsbereichs gilt von dem
@@ -50,7 +46,6 @@ oder, soweit eine meßtechnische Feststellung nicht vorgenommen wird,
 von der Aufnahme der Gewinnung an. Sie gilt bis zu dem Zeitpunkt, zu
 dem Bodensenkungen meßtechnisch nicht mehr nachweisbar oder nach
 allgemeiner Erfahrung nicht mehr zu erwarten sind.
-
 
 ## § 4 Nachweis eines anderen Einwirkungswinkels
 
@@ -77,7 +72,6 @@ Veröffentlichung an.
 
 (4) Die Veröffentlichung im Bundesanzeiger ist kostenfrei.
 
-
 ## § 5 Vorschrift für besondere Anlagen
 
 (1) Können einzelne Anlagen oder Einrichtungen wegen ihrer Bau- oder
@@ -95,7 +89,6 @@ der Fachwissenschaft entsprechenden Winkel (Grenzwinkel) festzulegen.
 von der Aufnahme der Gewinnung bis zu dem Zeitpunkt, zu dem
 Bodensenkungen meßtechnisch nicht mehr nachweisbar sind.
 
-
 ## § 6 Zeichnerische Darstellungen zum Betriebsplan
 
 Dem Betriebsplan hat der Unternehmer zeichnerische Darstellungen
@@ -107,15 +100,10 @@ beizufügen, in denen einzutragen sind
 2.  in den Fällen des § 5 der Bereich, in dem die Maßnahmen sich im Sinne
     dieser Vorschrift auswirken werden.
 
-
-
-
-
 ## § 7 Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 177 des Bundesberggesetzes auch im Land Berlin.
-
 
 ## Anlage Liste der Einwirkungswinkel nach § 2 Abs. 1
 

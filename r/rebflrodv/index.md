@@ -21,7 +21,6 @@ Geändert durch
 Die v tritt gem. § 6 satz 2 am 17.5.2001 außer kraft, sofern nicht mit zustimmung des bundesrates etwas anderes verordnet wird. § 6 satz 2 aufgeh. mit zustimmung des bundesrates durch
 :   Art. 1 V v. 2.5.2001 I 837; dadurch ist die Geltung der V über den 17.5.2001 hinaus verlängert worden.
 
-
 ## Eingangsformel
 
 Auf Grund des § 6 Abs. 1 Nr. 18 und 19 in Verbindung mit Abs. 4 und 5
@@ -34,7 +33,6 @@ Oktober 1998 (BGBl. I S. 3288) verordnet das Bundesministerium für
 Ernährung, Landwirtschaft und Forsten im Einvernehmen mit den
 Bundesministerien der Finanzen und für Wirtschaft und Technologie:
 
-
 ## § 1 Anwendungsbereich
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung von
@@ -46,14 +44,12 @@ Verordnung (EG) Nr. 1493/1999 des Rates über die gemeinsame
 Marktorganisation für Wein hinsichtlich des Produktionspotentials
 (ABl. EG Nr. L 143 S. 1) in der jeweils geltenden Fassung.
 
-
 ## § 2 Bestimmung der Rebflächen
 
 Die Landesregierungen können durch Rechtsverordnung bestimmen, dass
 für bestimmte Rebflächen eine Prämie für die endgültige Aufgabe des
 Weinbaus nach Maßgabe der in § 1 genannten Bestimmungen gewährt werden
 kann.
-
 
 ## § 3 Verfahren und Höhe der Prämie
 
@@ -69,10 +65,6 @@ machen, haben sie in der Rechtsverordnung
     der in Artikel 8 Abs. 4 und 5 der Verordnung (EG) Nr. 1227/2000
     aufgestellten Obergrenzen festzusetzen.
 
-
-
-
-
 ## § 4 Bedingungen und Mindestrodungsfläche
 
 Soweit die Landesregierungen von der Ermächtigung des § 2 Gebrauch
@@ -87,10 +79,6 @@ machen, können sie in der Rechtsverordnung
 2.  bestimmen, dass die Prämie auch für Flächen von mindestens 10 Ar und
     höchstens 25 Ar gewährt werden kann, wenn es sich bei der betreffenden
     Fläche nicht um die gesamte Weinbaufläche des Betriebs handelt.
-
-
-
-
 
 ## § 5 Duldungs- und Mitwirkungspflichten
 
@@ -109,7 +97,6 @@ gestatten und die für die Überprüfung der Prämiengewährung in Betracht
 kommenden Aufzeichnungen, Belege und sonstige Schriftstücke auf
 Verlangen zur Einsicht vorzulegen, Auskunft zu erteilen und die
 erforderliche Unterstützung zu gewähren.
-
 
 ## § 6 Inkrafttreten, Außerkrafttreten
 

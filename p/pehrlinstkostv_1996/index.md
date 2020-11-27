@@ -21,7 +21,6 @@ Neugefasst durch
 Geändert durch
 :   Art. 1 V v. 5.4.2011 I 557
 
-
 ## § 1
 
 (1) Das Paul-Ehrlich-Institut erhebt für seine Entscheidungen über die
@@ -35,7 +34,6 @@ Verordnung.
 sowie in den Fällen der Zurücknahme eines Antrags auf Vornahme einer
 Amtshandlung werden Gebühren nach Maßgabe des § 15 des
 Verwaltungskostengesetzes erhoben.
-
 
 ## § 2
 
@@ -267,7 +265,6 @@ erhoben.
 des Arzneimittelgesetzes wird eine Gebühr in Höhe von 800 Euro
 erhoben.
 
-
 ## § 2a
 
 (1) Für die Genehmigung von Gewebezubereitungen und
@@ -330,7 +327,6 @@ erfordert, so kann die Gebühr bis auf ein Viertel der Gebühr nach
 Absatz 1 und im Falle des Absatzes 2 bis auf ein Viertel der in Absatz
 2 genannten Gebühr ermäßigt werden.
 
-
 ## § 2b
 
 (1) Für die Genehmigung von Arzneimitteln für neuartige Therapien nach
@@ -339,7 +335,6 @@ Absatz 1 und im Falle des Absatzes 2 bis auf ein Viertel der in Absatz
 
 (2) Hat die Genehmigung einen außergewöhnlich hohen Aufwand gefordert,
 gilt § 2 Absatz 4 entsprechend.
-
 
 ## § 3
 
@@ -359,7 +354,6 @@ so ist die Gebühr nach dem tatsächlichen Aufwand und anteilig nach der
 Anzahl der betroffenen pharmazeutischen Unternehmer zu bemessen. In
 diesen Fällen beträgt die Gebühr, abweichend von Satz 1, mindestens
 jeweils 100 Euro.
-
 
 ## § 4
 
@@ -740,7 +734,6 @@ die Änderungsanzeige veranlasste Bearbeitungsaufwand besonders gering
 ist und deshalb die vorgesehene Gebühr oder Mindestgebühr nicht
 angemessen ist.
 
-
 ## § 4a
 
 (1) Für Amtshandlungen im Zusammenhang mit der klinischen Prüfung sind
@@ -963,10 +956,6 @@ Anwendungsbedingungen geprüft werden soll, beantragt wird.
 
     *   85 Euro.
 
-
-
-
-
 ## § 4b
 
 (1) Für die Bewertung des regelmäßigen, aktualisierten Berichts über
@@ -1056,7 +1045,6 @@ folgende Gebühren erhoben:
 Satz 5 des Arzneimittelgesetzes wird eine Gebühr in Höhe von 400 Euro
 erhoben.
 
-
 ## § 4c
 
 Wird zur Prüfung von zulassungsbezogenen Angaben nach § 25 Absatz 5
@@ -1072,7 +1060,6 @@ die Gebühr nach dem Personalaufwand; sie beträgt höchstens 25 000
 Euro. Der Gebührenschuldner ist zu hören, wenn eine solche Inspektion
 beabsichtigt ist, wenn die voraussichtliche Gebühr 5 000 Euro
 überschreitet.
-
 
 ## § 5
 
@@ -1310,14 +1297,12 @@ Wirtschaftsraum erteilt, oder wurde die Charge vom Paul-Ehrlich-
 Institut im Sinne des § 8 Nummer 5 zertifiziert, so beträgt die Gebühr
 100 Euro.
 
-
 ## § 6
 
 Die nach den §§ 2 bis 5 zu erhebenden Gebühren können bis auf die
 Hälfte ermäßigt werden, wenn die Bedeutung, der wirtschaftliche Wert
 oder der sonstige Nutzen der Amtshandlung für den Gebührenschuldner
 sowie dessen wirtschaftliche Verhältnisse dies rechtfertigen.
-
 
 ## § 7
 
@@ -1330,7 +1315,6 @@ Entwicklungsaufwand angemessenen wirtschaftlichen Nutzen nicht
 erwarten kann. Von der Erhebung der Gebühren kann ganz abgesehen
 werden, wenn der zu erwartende wirtschaftliche Nutzen im Verhältnis zu
 den Entwicklungskosten besonders gering ist.
-
 
 ## § 8
 
@@ -1427,10 +1411,6 @@ an Gebühren zu erheben für
 
     *   200 Euro.
 
-
-
-
-
 ## § 9
 
 (1) Für die klinische Prüfung von Arzneimitteln, für die vor dem 6.
@@ -1478,7 +1458,6 @@ Oktober 2003 und dem Inkrafttreten der Zweiten Verordnung zur Änderung
 der Kostenverordnung für Amtshandlungen des Paul-Ehrlich-Instituts
 nach dem Arzneimittelgesetz angezeigt worden sind.
 
-
 ## § 10
 
 (1) Wird ein Widerspruch gegen eine
@@ -1525,12 +1504,10 @@ begonnen worden ist, vor deren Beendigung zurückgenommen, so beträgt
 die zu erhebende Gebühr höchstens 75 Prozent der in Absatz 1
 vorgesehenen Gebühr.
 
-
 ## § 11
 
 Auslagen werden nach Maßgabe des § 10 des Verwaltungskostengesetzes
 erhoben.
-
 
 ## § 12
 

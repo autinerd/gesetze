@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 1002
 
-
-
 ## § 1 Anwendungsbereich
 
 Dieses Gesetz gilt für Betriebseinrichtungen im Sinne von Artikel 2
@@ -28,7 +26,6 @@ der Richtlinien 91/689/EWG und 96/61/EG des Rates (ABl. EU Nr. L 33 S.
 1) in der jeweils geltenden Fassung, in denen eine oder mehrere der in
 Anhang I der Verordnung (EG) Nr. 166/2006 genannten Tätigkeiten
 ausgeübt werden.
-
 
 ## § 2 Errichtung eines Schadstofffreisetzungs- und -verbringungsregisters
 
@@ -120,7 +117,6 @@ Register ein. Zehn Jahre nach der erstmaligen Einstellung der
 Informationen in das Register kann das Umweltbundesamt ihre Löschung
 vornehmen.
 
-
 ## § 3 Erhebung der Informationen
 
 (1) Der Betreiber übermittelt die in Artikel 5 der Verordnung (EG) Nr.
@@ -141,7 +137,6 @@ Europäische Kommission nicht erschwert. Der Verlängerungsantrag muss
 spätestens bis zum 30. April des dem jeweiligen Berichtsjahr folgenden
 Jahres gestellt werden.
 
-
 ## § 4 Informantenschutz
 
 (1) Der Betreiber einer Betriebseinrichtung darf einen
@@ -154,7 +149,6 @@ anzeigt.
 benachteiligen, weil er ihr konkrete Anhaltspunkte für die Verletzung
 einer Bestimmung dieses Gesetzes oder der Verordnung (EG) Nr. 166/2006
 anzeigt.
-
 
 ## § 5 Übermittlung der Informationen an das Umweltbundesamt
 
@@ -239,12 +233,10 @@ Deutschland stationierten Truppen entscheidet das Bundesministerium
 der Verteidigung oder eine von ihm beauftragte Stelle über die
 Schutzbedürftigkeit nach Absatz 2 Nr. 1.
 
-
 ## § 6 Übermittlung der Informationen an die Europäische Kommission
 
 Zuständig für die Durchführung von Artikel 7 Abs. 2 der Verordnung
 (EG) Nr. 166/2006 ist das Umweltbundesamt.
-
 
 ## § 7 Bußgeldvorschriften
 
@@ -271,7 +263,6 @@ Zuständig für die Durchführung von Artikel 7 Abs. 2 der Verordnung
 
 (2) Die Ordnungswidrigkeiten nach Absatz 1 können mit einer Geldbuße
 bis zu zehntausend Euro geahndet werden.
-
 
 ## § 8 Übergangsvorschriften
 

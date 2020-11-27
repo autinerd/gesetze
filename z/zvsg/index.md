@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 247 V v. 31.10.2006 I 2407
 
-
 ## § 1 Geltungsbereich
 
 (1) Dieses Gesetz gilt für Ansprüche und Anwartschaften nach dem
@@ -48,7 +47,6 @@ unverzüglich die Antragstellung mit. Er erfüllt gegenüber den
 Berechtigten die Aufgaben des Leistungsträgers nach § 14 des Ersten
 Buches Sozialgesetzbuch.
 
-
 ## § 2 Versorgungsträger
 
 (1) Versorgungsträger im Sinne dieses Gesetzes ist die Ernst-Abbe-
@@ -63,7 +61,6 @@ ihrer Obliegenheiten zu verpflichten.
 
 (3) Verwaltungsbehörde im Sinne des § 36 Abs. 1 des Gesetzes über
 Ordnungswidrigkeiten ist das Bundesversicherungsamt.
-
 
 ## § 3 Gleichstellung
 
@@ -121,7 +118,6 @@ nach Absatz 3 ist zusammen mit dem Antrag auf Gleichstellung
 schriftlich zu erklären. Sie kann nicht widerrufen werden und ist auch
 für Hinterbliebene bindend.
 
-
 ## § 4 Rentenberechnung in Fällen ohne Gleichstellung
 
 (1) Wird ein Antrag auf Gleichstellung nicht gestellt und hatte der
@@ -153,7 +149,6 @@ ist für Zeiten vom 1. März 1971 an nur der in der
 Sozialpflichtversicherung des Beitrittsgebiets versicherte Verdienst
 zugrunde zu legen.
 
-
 ## § 5 Geltung von Regelungen
 
 Auf die nach diesem Gesetz gleichgestellten Ansprüche und
@@ -165,7 +160,6 @@ anderes ergibt. Die Vorschriften des Ersten Abschnitts des Dritten
 Kapitels des Sechsten Buches Sozialgesetzbuch sind anzuwenden; § 8
 Abs. 6 Satz 5 des Anspruchs- und Anwartschaftsüberführungsgesetzes ist
 entsprechend anzuwenden.
-
 
 ## § 6 Zeitpunkt und Art der Gleichstellung
 
@@ -223,7 +217,6 @@ Rentenanpassungen ergibt, wird solange nicht ausgezahlt, bis die neu
 berechnete Rente den nach Satz 1 jeweils maßgebenden Monatsbetrag
 erreicht.
 
-
 ## § 7 Verfahren zur Datenmitteilung
 
 (1) Der Versorgungsträger nimmt die Aufgaben nach § 1 Abs. 4 sowie
@@ -259,7 +252,6 @@ gestellten Daten.
 (3) Der zuständige Rentenversicherungsträger teilt dem
 Versorgungsträger den Beginn des Kalendermonats mit, in dem die
 laufende Zahlung der neu berechneten Rente aufgenommen wird.
-
 
 ## § 8 Abrechnung der Aufwendungen
 

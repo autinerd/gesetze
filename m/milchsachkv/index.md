@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 19 V v. 8.8.2007 I 1816
 
-
 ## Eingangsformel
 
 Mit Zustimmung des Bundesrates verordnen
@@ -39,10 +38,7 @@ Bundesminister für Ernährung, Landwirtschaft und Forsten im
 Einvernehmen mit den Bundesministern für Wirtschaft und für Jugend,
 Familie und Gesundheit:
 
-
 ## Erster Abschnitt - Sachkunde zum Betrieb eines Unternehmens der Be- oder Verarbeitung von Milch
-
-
 
 ### § 1
 
@@ -75,10 +71,6 @@ Margarinegesetzes, wer
 
 
 2.  eine Sachkundeprüfung nach § 4a bestanden hat.
-
-
-
-
 
 ### § 1a
 
@@ -134,7 +126,6 @@ Abschlußprüfung im Beruf Molkereifachmann/ Molkereifachfrau oder
 Milchwirtschaftlicher Laborant/ Milchwirtschaftliche Laborantin
 erbringen.
 
-
 ### § 2
 
 Als Nachweis der beruflichen Befähigung im Sinne des § 1 Abs. 1 gilt
@@ -173,10 +164,7 @@ Vertragsstaat anerkanntes Zeugnis bestätigt oder von einer zuständigen
 Berufsinstitution des anderen Mitgliedstaates oder des Vertragsstaates
 als vollwertig anerkannt worden ist.
 
-
 ## Zweiter Abschnitt - Sachkunde zum Betrieb eines Unternehmens zur Abgabe von Milch und Milcherzeugnissen
-
-
 
 ### § 3
 
@@ -184,7 +172,6 @@ Wer den Nachweis der beruflichen Befähigung nach den §§ 1a oder 2
 erbringt, besitzt auch die notwendige Sachkunde für die Abgabe von
 Milch und Milcherzeugnissen durch ein Unternehmen der Be- oder
 Verarbeitung von Milch oder Milcherzeugnissen.
-
 
 ### § 4
 
@@ -210,7 +197,6 @@ Einigungsvertrages genannten Gebiet eine Ausbildung als
 Molkereifacharbeiter/Molkereifacharbeiterin, als Facharbeiter/
 Facharbeiterin für Milchwirtschaft oder als Milchindustrielaborant/
 Milchindustrielaborantin erfolgreich abgeschlossen hat.
-
 
 ### § 4a
 
@@ -266,7 +252,6 @@ Prüfungsergebnis.
 zuständige Behörde oder die nach Landesrecht beauftragte Stelle weist
 in ihrem Bescheid darauf hin.
 
-
 ### § 5
 
 Die zum Betrieb eines Einzelhandelsunternehmens mit Milch und
@@ -315,10 +300,6 @@ Vertragsstaates auch als gegeben, wenn der Betreffende
     Mitgliedstaates oder des Vertragsstaates als vollwertig anerkannt
     worden ist.
 
-
-
-
-
 ### § 6
 
 Die zum Betrieb eines Großhandelsunternehmens mit Milch und
@@ -338,10 +319,6 @@ Vertragsstaates auch als gegeben, wenn
     des Milchgesetzes nicht vor mehr als zwei Jahren beendet worden ist
     und durch eine Bescheinigung der zuständigen Stelle des anderen
     Mitgliedstaates oder des Vertragsstaates nachgewiesen wird.
-
-
-
-
 
 ### § 7
 
@@ -375,16 +352,7 @@ Eine Tätigkeit in leitender Stellung hat ausgeübt
         Unternehmens, sofern mit dieser Stellung eine Verantwortung verbunden
         war, die der des vertretenen Unternehmers oder Leiters entsprach.
 
-
-
-
-
-
-
-
 ## Dritter Abschnitt - Schlußvorschriften
-
-
 
 ### § 8
 

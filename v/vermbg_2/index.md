@@ -21,7 +21,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 13 G v. 7.12.2011 I 2592
 
-
 ## § 1 Persönlicher Geltungsbereich
 
 (1) Die Vermögensbildung der Arbeitnehmer durch vereinbarte
@@ -49,7 +48,6 @@ Beschäftigten.
 
 (4) Für Beamte, Richter, Berufssoldaten und Soldaten auf Zeit gelten
 die nachstehenden Vorschriften dieses Gesetzes entsprechend.
-
 
 ## § 2 Vermögenswirksame Leistungen, Anlageformen
 
@@ -311,7 +309,6 @@ Arbeitgeber den zur Deckung erforderlichen Betrag zu zahlen.
 Lohns oder Gehalts. Der Anspruch auf die vermögenswirksame Leistung
 ist nicht übertragbar.
 
-
 ## § 3 Vermögenswirksame Leistungen für Angehörige, Überweisung durch den Arbeitgeber, Kennzeichnungs-, Bestätigungs- und Mitteilungspflichten
 
 (1) Vermögenswirksame Leistungen können auch angelegt werden
@@ -356,7 +353,6 @@ vorgelegt hat, daß die Anlage bei ihm die Voraussetzungen des § 2 Abs.
 hat die Richtigkeit der Bestätigung nicht zu prüfen.
 
 (4)
-
 
 ## § 4 Sparvertrag über Wertpapiere oder andere Vermögensbeteiligungen
 
@@ -468,7 +464,6 @@ gleiche gilt, wenn mindestens alle Einzahlungen eines Kalenderjahrs
 zurückgezahlt oder die Rückzahlungsansprüche aus dem Vertrag
 abgetreten oder beliehen werden.
 
-
 ## § 5 Wertpapier-Kaufvertrag
 
 (1) Ein Wertpapier-Kaufvertrag im Sinne des § 2 Abs. 1 Nr. 2 ist ein
@@ -492,10 +487,6 @@ angelegten vermögenswirksamen Leistungen setzt voraus, daß
     anderer Weise verfügt wird; die Sperrfrist beginnt am 1. Januar des
     Kalenderjahrs, in dem das Wertpapier erworben worden ist; § 4 Abs. 4
     Nr. 1 bis 5 gilt entsprechend.
-
-
-
-
 
 ## § 6 Beteiligungs-Vertrag
 
@@ -543,10 +534,6 @@ angelegten vermögenswirksamen Leistungen setzt voraus, daß
     Sperrfrist beginnt am 1. Januar des Kalenderjahrs, in dem das Recht
     begründet worden ist; § 4 Abs. 4 Nr. 1 bis 5 gilt entsprechend.
 
-
-
-
-
 ## § 7 Beteiligungs-Kaufvertrag
 
 (1) Ein Beteiligungs-Kaufvertrag im Sinne des § 2 Abs. 1 Nr. 3 ist ein
@@ -568,7 +555,6 @@ zahlen zu lassen oder mit anderen Beträgen zu zahlen.
 (3) Für die Förderung der auf Grund eines Vertrags nach Absatz 1 oder
 2 angelegten vermögenswirksamen Leistungen gilt § 6 Abs. 3
 entsprechend.
-
 
 ## § 8 Sparvertrag
 
@@ -669,7 +655,6 @@ zuletzt durch Artikel 6 des Gesetzes vom 29. Juli 2008 (BGBl. I S.
 unschädlich ist. Satz 1 gilt für vor dem 1. Januar 2009 und nach dem
 31\. Dezember 2008 abgeschlossene Bausparverträge.
 
-
 ## § 9 Kapitalversicherungsvertrag
 
 (1) Ein Kapitalversicherungsvertrag im Sinne des § 2 Abs. 1 Nr. 7 ist
@@ -703,10 +688,6 @@ erstattet oder der Berechnung der prämienfreien Versicherungsleistung
     die Arbeitslosigkeit mindestens ein Jahr lang ununterbrochen bestanden
     hat und im Zeitpunkt der Verrechnung noch besteht.
 
-
-
-
-
 ## § 10 Vereinbarung zusätzlicher vermögenswirksamer Leistungen
 
 (1) Vermögenswirksame Leistungen können in Verträgen mit
@@ -720,7 +701,6 @@ werden.
 vermögenswirksame Leistungen die betrieblichen Sozialleistungen
 anrechnen, die dem Arbeitnehmer in dem Kalenderjahr bisher schon als
 vermögenswirksame Leistungen erbracht worden sind.
-
 
 ## § 11 Vermögenswirksame Anlage von Teilen des Arbeitslohns
 
@@ -777,7 +757,6 @@ abzuschließen.
 (6) In Tarifverträgen oder Betriebsvereinbarungen kann von den
 Absätzen 3 bis 5 abgewichen werden.
 
-
 ## § 12 Freie Wahl der Anlage
 
 Vermögenswirksame Leistungen werden nur dann nach den Vorschriften
@@ -788,7 +767,6 @@ nicht entgegen, daß durch Tarifvertrag die Anlage auf die Formen des §
 2 Abs. 1 Nr. 1 bis 5, Abs. 2 bis 4 beschränkt wird. Eine Anlage im
 Unternehmen des Arbeitgebers nach § 2 Abs. 1 Nr. 1 Buchstabe g bis l
 und Abs. 4 ist nur mit Zustimmung des Arbeitgebers zulässig.
-
 
 ## § 13 Anspruch auf Arbeitnehmer-Sparzulage
 
@@ -852,10 +830,6 @@ entfällt nicht, wenn die Sperrfrist nicht eingehalten wird, weil
 3.  der Arbeitnehmer über nach § 2 Abs. 1 Nr. 4 angelegte
     vermögenswirksame Leistungen nach Maßgabe des § 4 Abs. 4 Nr. 4 in Höhe
     von mindestens 30 Euro verfügt.
-
-
-
-
 
 ## § 14 Festsetzung der Arbeitnehmer-Sparzulage, Anwendung der Abgabenordnung, Verordnungsermächtigung, Rechtsweg
 
@@ -934,7 +908,6 @@ Arbeitnehmers überwiesen wird.
 Gesetzes ergehenden Verwaltungsakte der Finanzbehörden ist der
 Finanzrechtsweg gegeben.
 
-
 ## § 15 Bescheinigungspflichten, Haftung, Verordnungsermächtigung, Anrufungsauskunft
 
 (1) Das Unternehmen, das Institut oder der in § 3 Abs. 3 genannte
@@ -1009,11 +982,9 @@ diese mit der Anlage vermögenswirksamer Leistungen nach § 2 Abs. 1 Nr.
 1 bis 5, Abs. 2 bis 4 zusammenhängen, erfüllt haben. Die §§ 195 bis
 202 der Abgabenordnung gelten entsprechend.
 
-
 ## § 16 Berlin-Klausel
 
 (gegenstandslos)
-
 
 ## § 17 Anwendungsvorschriften
 
@@ -1106,7 +1077,6 @@ vermögenswirksame Leistungen anzuwenden, die nach dem 31. Dezember
 vom 7. Dezember 2011 (BGBl. I S. 2592) ist erstmals für
 vermögenswirksame Leistungen anzuwenden, die nach dem 31. Dezember
 2011 angelegt werden.
-
 
 ## § 18 Kündigung eines vor 1994 abgeschlossenen Anlagevertrags und der Mitgliedschaft in einer Genossenschaft oder Gesellschaft mit beschränkter Haftung
 

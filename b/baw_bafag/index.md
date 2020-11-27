@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2000, 1956, 1957
 
-
-
 ## § 1 Eingliederung
 
 (1) Im Geschäftsbereich des Bundesministeriums für Wirtschaft und
@@ -27,7 +25,6 @@ eingegliedert.
 Bundesamt für Wirtschaft wahrgenommenen Aufgaben gehen auf das
 Bundesausfuhramt über.
 
-
 ## § 2 Übergang von Rechten und Pflichten
 
 Das vom Bundesamt für Wirtschaft genutzte bewegliche
@@ -36,12 +33,10 @@ Bundesausfuhramt übertragen. Rechte und Pflichten, die das Bundesamt
 für Wirtschaft mit Wirkung für und gegen die Bundesrepublik
 Deutschland begründet hat, gehen auf das Bundesausfuhramt über.
 
-
 ## § 3 Bezeichnung des Bundesausfuhramtes
 
 Das Bundesausfuhramt erhält die Bezeichnung "Bundesamt für Wirtschaft
 und Ausfuhrkontrolle (BAFA)".
-
 
 ## § 4 Anpassung von Bezeichnungen
 

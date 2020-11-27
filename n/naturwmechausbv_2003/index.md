@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2003, 700
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
@@ -28,13 +26,11 @@ und dem Organisationserlass vom 22. Oktober 2002 (BGBl. I S. 4206)
 verordnet das Bundesministerium für Wirtschaft und Arbeit im
 Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf
 Naturwerksteinmechaniker/Naturwerksteinmechanikerin wird staatlich
 anerkannt.
-
 
 ## § 2 Ausbildungsdauer, Fachrichtungen
 
@@ -51,7 +47,6 @@ Die Ausbildung dauert drei Jahre. Es kann zwischen den Fachrichtungen
 
 
 gewählt werden.
-
 
 ## § 3 Ausbildungsberufsbild
 
@@ -133,16 +128,6 @@ mindestens die folgenden Fertigkeiten und Kenntnisse:
         b)  Montage von Naturwerksteinfassaden, Naturwerksteinbelägen und massiven
             Bauelementen.
 
-
-
-
-
-
-
-
-
-
-
 ## § 4 Ausbildungsrahmenplan
 
 (1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach der in der
@@ -159,13 +144,11 @@ Berufsbildungsgesetzes befähigt werden, die insbesondere selbständiges
 Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung
 ist auch in den Prüfungen nach den §§ 7 und 8 nachzuweisen.
 
-
 ## § 5 Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des
 Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan
 zu erstellen.
-
 
 ## § 6 Berichtsheft
 
@@ -173,7 +156,6 @@ Die Auszubildenden haben ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden
 haben das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 7 Zwischenprüfung
 
@@ -197,7 +179,6 @@ Betracht. Dabei soll der Prüfling zeigen, dass er die Arbeitsschritte
 planen, Arbeitsmittel festlegen, technische Unterlagen nutzen sowie
 Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum
 Umweltschutz sowie qualitätssichernde Maßnahmen ergreifen kann.
-
 
 ## § 8 Abschlussprüfung
 
@@ -358,13 +339,11 @@ erbracht sind. Wird die Prüfungsleistung in einem der Prüfungsbereiche
 Arbeitsplanung sowie Fertigungstechnik mit ungenügend bewertet, ist
 die Prüfung nicht bestanden.
 
-
 ## § 9 Nichtanwendung von Vorschriften
 
 Die bisher festgelegten Berufsbilder, Berufsbildungspläne und
 Prüfungsanforderungen für den Ausbildungsberuf Steinmetz sind
 vorbehaltlich des § 10 nicht mehr anzuwenden.
-
 
 ## § 10 Übergangsregelung
 
@@ -373,11 +352,9 @@ Verordnung bestehen, sind die bisherigen Vorschriften weiter
 anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
 Anwendung der Vorschriften dieser Verordnung.
 
-
 ## § 11 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2003 in Kraft.
-
 
 ## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Naturwerksteinmechaniker/zur Naturwerksteinmechanikerin
 

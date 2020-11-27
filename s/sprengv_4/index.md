@@ -21,7 +21,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 4 G v. 15. 6.2005 I 1626
 
-
 ## § 1
 
 Die Gebühren für Amtshandlungen, Prüfungen und Untersuchungen nach dem
@@ -29,7 +28,6 @@ Sprengstoffgesetz (Gesetz) und nach den auf dem Gesetz beruhenden
 Rechtsverordnungen bestimmen sich nach dem Gebührenverzeichnis der
 Anlage, sofern die Gebühr nicht gemäß § 2 nach dem Verwaltungsaufwand
 berechnet wird.
-
 
 ## § 2
 
@@ -121,7 +119,6 @@ Sinne des Absatzes 2 ist die Hälfte der Stundensätze zugrunde zu
 legen. Für jede angefangene Viertelstunde ist ein Viertel der
 Stundensätze nach Satz 1 oder 2 zu berechnen.
 
-
 ## § 3
 
 Die Gebühr für die Abnahme der Prüfung
@@ -140,7 +137,6 @@ Die Gebühr für die Abnahme der Prüfung
 wird auch erhoben, wenn die Prüfung ohne Verschulden der Prüfbehörde
 und ohne ausreichende Entschuldigung des Bewerbers am festgesetzten
 Termin nicht stattfinden konnte oder abgebrochen werden mußte.
-
 
 ## § 4
 
@@ -174,7 +170,6 @@ Verwaltungskostengesetzes.
 Verwaltungsaufwand in keinem angemessenen Verhältnis zu der Höhe der
 Auslagen steht.
 
-
 ## § 5
 
 (1) (weggefallen)
@@ -182,21 +177,17 @@ Auslagen steht.
 (2) Von der Erhebung von Kosten kann auf Antrag abgesehen werden,
 soweit dies aus Gründen der Billigkeit geboten ist.
 
-
 ## § 6
 
 (gegenstandslos)
-
 
 ## § 7
 
 (Inkrafttreten, Außerkrafttreten von Rechtsvorschriften)
 
-
 ## Schlußformel
 
 Der Bundesminister des Innern
-
 
 ## Anlage Gebührenverzeichnis
 

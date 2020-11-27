@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 2 Abs. 14 G v. 22.12.2011 I 3044
 
-
 ## Eingangsformel
 
 Das Bundesministerium für Ernährung, Landwirtschaft und
@@ -34,10 +33,6 @@ Verbraucherschutz verordnet auf Grund
     der Bekanntmachung vom 19. Februar 1987 (BGBl. I S. 602), der zuletzt
     durch Artikel 1 des Gesetzes vom 26. Januar 1998 (BGBl. I S. 156, 340)
     geändert worden ist:
-
-
-
-
 
 ## § 1 Erhebung der Abgabe (zu § 44 Abs. 2 des Weingesetzes)
 
@@ -94,13 +89,11 @@ rückständige Abgabebetrag auf volle 50 Euro nach unten gerundet.
 (9) Die Abgabeschuld verjährt am Ende des fünften Jahres nach Ablauf
 des Jahres, in dem die Zahlung fällig geworden ist.
 
-
 ## § 2 Sammlung der Belege und Aufbewahrungsfrist (zu § 44 Abs. 2 des Weingesetzes)
 
 Der Abgabeschuldner ist verpflichtet, die Verkaufs- und Abgabebelege
 vollständig zu sammeln und bis zum Ende des fünften Jahres nach Ablauf
 des Jahres aufzubewahren, in dem die Zahlung fällig geworden ist.
-
 
 ## § 3 Mitteilungspflicht (zu § 44 Abs. 2 des Weingesetzes)
 
@@ -108,7 +101,6 @@ Der Abgabeschuldner ist verpflichtet, dem Deutschen Weinfonds auf
 Verlangen mitzuteilen, in welcher Menge er die in § 43 Abs. 1 Satz 1
 Nr. 2 des Weingesetzes genannten Erzeugnisse abgegeben hat, und
 insoweit seine Bücher und Geschäftspapiere zur Einsicht vorzulegen.
-
 
 ## § 4 Ordnungswidrigkeiten
 
@@ -128,16 +120,11 @@ handelt, wer vorsätzlich oder fahrlässig
     rechtzeitig macht oder Bücher oder Geschäftspapiere nicht oder nicht
     rechtzeitig zur Einsicht vorlegt.
 
-
-
-
-
 ## § 5 Zuständigkeiten
 
 Die Zuständigkeit für die Verfolgung und Ahndung von
 Ordnungswidrigkeiten nach § 4 wird auf die Bundesanstalt für
 Landwirtschaft und Ernährung übertragen.
-
 
 ## § 6 Aufhebung von Rechtsvorschriften
 
@@ -146,7 +133,6 @@ geändert durch Artikel 2 des Gesetzes vom 25. Juni 2001 (BGBl. I S.
 1215), wird aufgehoben. Auf Abgabeschulden, die bis zum 30. März 2008
 entstanden sind, ist die in Satz 1 genannte Verordnung weiter
 anzuwenden.
-
 
 ## § 7 Inkrafttreten
 

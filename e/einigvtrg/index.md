@@ -17,13 +17,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1990, 885
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen; Artikel 79 Abs. 2 des Grundgesetzes ist eingehalten:
-
 
 ## Art 1 Zustimmung zum Vertrag
 
@@ -34,7 +31,6 @@ Protokolls und der Anlagen I bis III sowie der in Bonn und Berlin am
 18\. September 1990 unterzeichneten Vereinbarung wird zugestimmt. Der
 Vertrag und die vorgenannten weiteren Urkunden sowie die dazu gehörige
 Vereinbarung werden nachstehend veröffentlicht.
-
 
 ## Art 2 Verordnungsermächtigung (Verträge der Bundesrepublik Deutschland im Bereich der sozialen Sicherheit)
 
@@ -76,7 +72,6 @@ Regelungen getroffen werden über
 (2) Die Rechtsverordnung bedarf der Zustimmung des Bundesrates, soweit
 darin Regelungen getroffen werden, die bei einem Gesetz die
 Zustimmungsbedürftigkeit begründen würden.
-
 
 ## Art 3 Verordnungsermächtigung (Verträge der Deutschen Demokratischen Republik im Bereich der sozialen Sicherheit)
 
@@ -124,7 +119,6 @@ Zur Durchführung können insbesondere Regelungen getroffen werden über
 darin Regelungen getroffen werden, die bei einem Gesetz die
 Zustimmungsbedürftigkeit begründen würden.
 
-
 ## Art 4 Verordnungsermächtigung (EG-Recht und EG-bedingtes Recht)
 
 (1) Die Bundesregierung wird ermächtigt, in Ausübung von
@@ -149,7 +143,6 @@ für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
 (3) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu zehntausend
 Deutsche Mark geahndet werden.
 
-
 ## Art 5 Verordnungsermächtigung (Anmeldung vermögensrechtlicher Ansprüche)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne
@@ -161,7 +154,6 @@ Anmeldung vermögensrechtlicher Ansprüche vom 21. August 1990
 oder zu ergänzen, die Anmeldung bisher nicht erfaßter Vermögenswerte
 zu ermöglichen, das Anmeldeverfahren teilweise oder insgesamt zu
 vereinfachen und die Anmeldefrist zu ändern.
-
 
 ## Art 6 Rückkehr zum einheitlichen Verordnungsrang, Aufhebung und Änderung von Verwaltungsvorschriften
 
@@ -179,14 +171,12 @@ Republik nach Artikel 9 Abs. 2 in Verbindung mit Anlage II zu dem
 Vertrag fortbestehen, können sie durch Verwaltungsvorschrift geändert
 oder aufgehoben werden.
 
-
 ## Art 7 Neufassung der durch den Vertrag geänderten Gesetze
 
 Der jeweils zuständige Bundesminister kann den Wortlaut eines durch
 den Vertrag geänderten Gesetzes in der am Tage nach der Verkündung
 dieses Gesetzes oder der am Tage des Inkrafttretens der Änderung
 geltenden Fassung im Bundesgesetzblatt bekanntmachen.
-
 
 ## Art 8
 
@@ -257,17 +247,12 @@ Einigungsvertrages genannten Gebiet" und wie folgt geändert:
 
     "Dieses Gesetz tritt zum 31. Dezember 1995 außer Kraft."
 
-
-
-
-
 ## Art 9 Berlin-Klausel
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt. Rechtsverordnungen, die auf
 Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14
 des Dritten Überleitungsgesetzes.
-
 
 ## Art 10 Inkrafttreten
 

@@ -22,7 +22,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 4 G v. 29.7.2009 I 2355
 
-
 ## § 1 Einrichtung der Schlichtungsstelle und Tätigkeitsbericht
 
 (1) Die Deutsche Bundesbank macht im Bundesanzeiger die Anschrift der
@@ -41,7 +40,6 @@ aus besonderem Grund zulässig.
 
 (4) Die Schlichtungsstelle veröffentlicht einmal im Jahr einen
 Tätigkeitsbericht.
-
 
 ## § 2 Auswahl und Unabhängigkeit der Schlichter
 
@@ -70,7 +68,6 @@ Vertretung.
 
 (4) Die Schlichter und die in der Geschäftsstelle tätigen Personen
 sind zur Verschwiegenheit verpflichtet.
-
 
 ## § 3 Ablehnung einer Schlichtung
 
@@ -103,7 +100,6 @@ Mitteilung an den Beschwerdeführer ab, wenn
 Der Schlichter soll die Schlichtung ablehnen, wenn die Schlichtung die
 Klärung einer grundsätzlichen Rechtsfrage beeinträchtigen würde.
 
-
 ## § 4 Erhebung und Behandlung der Kundenbeschwerde
 
 (1) Die Kundenbeschwerde ist schriftlich unter kurzer Schilderung des
@@ -132,7 +128,6 @@ Gelegenheit, den Mangel innerhalb eines Monats abzustellen.
 bezeichneten Fristen dem zuständigen Schlichter vor, sofern der
 Beschwerdegegner der Kundenbeschwerde nicht abhilft oder sich diese
 nicht in sonstiger Weise erledigt.
-
 
 ## § 5 Schlichtungsvorschlag
 
@@ -166,7 +161,6 @@ einen erfolglosen Einigungsversuch nach § 15a Abs. 3 Satz 3 des
 Gesetzes betreffend die Einführung der Zivilprozessordnung zu
 bezeichnen; die Namen der Beteiligten sind anzugeben.
 
-
 ## § 6 Kosten des Verfahrens und der Schlichtungsstelle
 
 (1) Das Verfahren vor der Schlichtungsstelle ist kostenfrei. Auslagen
@@ -183,7 +177,6 @@ Erhebung der Gebühr ganz oder teilweise unangemessen wäre.
 (3) Absatz 2 gilt nicht für Unternehmen, für welche die Übertragung
 nach § 7 wirksam geworden ist.
 
-
 ## § 6a Zusammenarbeit mit ausländischen Stellen zur außergerichtlichen Streitbeilegung
 
 Die Schlichtungsstelle erteilt auf Antrag den Stellen, die in einem
@@ -191,7 +184,6 @@ anderen Vertragsstaat des Abkommens über den Europäischen
 Wirtschaftsraum für die außergerichtliche Beilegung vergleichbarer
 Streitigkeiten zuständig sind, für deren Verfahren Auskünfte über das
 in Deutschland geltende Recht.
-
 
 ## § 7 Übertragung auf private Stellen
 
@@ -281,7 +273,6 @@ folgende Abweichungen vorgesehen werden:
 Schlichtungsverfahren jeweils teilnehmenden Unternehmen zu führen und
 in geeigneter Weise allgemein zugänglich zu machen.
 
-
 ## § 8 Abgabe bei Unzuständigkeit
 
 (1) Wird eine Schlichtung bei einer unzuständigen Schlichtungsstelle
@@ -296,7 +287,6 @@ außergerichtlichen Streitbeilegung in diesem Vertragsstaat. Auf Antrag
 des Beschwerdeführers leitet die Schlichtungsstelle die Beschwerde an
 eine für außergerichtliche Streitbeilegung zuständige Stelle in dem
 anderen Vertragsstaat weiter.
-
 
 ## § 9 Übergangsregelung zum Gesetz zur Umsetzung der Verbraucherkreditrichtlinie, des zivilrechtlichen Teils der Zahlungsdiensterichtlinie sowie zur Neuordnung der Vorschriften über das Widerrufs- und Rückgaberecht vom 29. Juli 2009
 

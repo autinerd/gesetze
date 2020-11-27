@@ -19,8 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 8 Abs. 8 G v. 29.7.2009 I 2355
 
-
-
 ## § 1 Preisklauselverbot
 
 (1) Der Betrag von Geldschulden darf nicht unmittelbar und selbsttätig
@@ -57,7 +55,6 @@ Gesetzbuches und über die Zulässigkeit von Preisklauseln in
 Wärmelieferungsverträgen nach der Verordnung über Allgemeine
 Bedingungen für die Versorgung mit Fernwärme bleiben unberührt.
 
-
 ## § 2 Ausnahmen vom Verbot
 
 (1) Von dem Verbot nach § 1 Abs. 1 ausgenommen sind die in den §§ 3
@@ -92,10 +89,6 @@ welche Preise oder Werte bestimmend sein sollen.
 
 3.  der geschuldete Betrag sich gegenüber der Entwicklung der Bezugsgröße
     unverhältnismäßig ändern kann.
-
-
-
-
 
 ## § 3 Langfristige Verträge
 
@@ -179,7 +172,6 @@ der künftigen Einzel- oder Durchschnittsentwicklung von Preisen oder
 Werten von Grundstücken abhängig sein soll und das Schuldverhältnis
 auf die land- oder forstwirtschaftliche Nutzung beschränkt ist.
 
-
 ## § 4 Erbbaurechtsverträge
 
 Zulässig sind Preisklauseln in Erbbaurechtsbestellungsverträgen und
@@ -188,7 +180,6 @@ der Verordnung über das Erbbaurecht, § 46 des
 Sachenrechtsbereinigungsgesetzes und § 4 des
 Erholungsnutzungsrechtsgesetzes bleiben unberührt.
 
-
 ## § 5 Geld- und Kapitalverkehr
 
 Zulässig sind Preisklauseln im Geld- und Kapitalverkehr,
@@ -196,12 +187,10 @@ einschließlich der Finanzinstrumente im Sinne des § 1 Abs. 11 des
 Kreditwesengesetzes sowie die hierauf bezogenen Pensions- und
 Darlehensgeschäfte.
 
-
 ## § 6 Verträge mit Gebietsfremden
 
 Zulässig sind Preisklauseln in Verträgen von gebietsansässigen
 Unternehmern (§ 14 des Bürgerlichen Gesetzbuches) mit Gebietsfremden.
-
 
 ## § 7 Verträge zur Deckung des Bedarfs der Streitkräfte
 
@@ -211,7 +200,6 @@ der Streitkräfte dienen, wenn der geschuldete Betrag durch die
 Landesamt oder dem Statistischen Amt der Europäischen Gemeinschaften
 ermittelten Preisindex bestimmt wird.
 
-
 ## § 8 Unwirksamkeit der Preisklausel
 
 Die Unwirksamkeit der Preisklausel tritt zum Zeitpunkt des
@@ -219,7 +207,6 @@ rechtskräftig festgestellten Verstoßes gegen dieses Gesetz ein, soweit
 nicht eine frühere Unwirksamkeit vereinbart ist. Die Rechtswirkungen
 der Preisklausel bleiben bis zum Zeitpunkt der Unwirksamkeit
 unberührt.
-
 
 ## § 9 Übergangsvorschrift
 

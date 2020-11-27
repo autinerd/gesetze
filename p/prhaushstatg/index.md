@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 10 G v. 14.3.1980 I 294
 
-
 ## § 1
 
 Im Geltungsbereich dieses Gesetzes werden bei privaten Haushalten
@@ -36,10 +35,6 @@ Bundesstatistik durchgeführt:
     fünfjährigen Abstand um ein Jahr zu verkürzen oder zu verlängern,
     falls dies zur Verbesserung des Erkenntniswerts der Statistik oder zur
     rationellen Gestaltung des Arbeitsablaufs erforderlich ist.
-
-
-
-
 
 ## § 2
 
@@ -81,7 +76,6 @@ der Haushalte mit technischen Gebrauchsgütern, soweit diese Angaben
 für die statistische Zuordnung der Haushalte und für die Darstellung
 der Ergebnisse erforderlich sind.
 
-
 ## § 3
 
 (1) Die Erhebungen nach § 1 Nr. 1 erstrecken sich auf höchstens
@@ -97,21 +91,15 @@ vom Hundert aller Haushalte.
     "(1) Die Erhebungen nach § 1 Nr. 1 erstrecken sich auf höchstens 6.000
     Haushalte, ab 1. Januar 1993 auf 2.000 Haushalte in jedem Monat."
 
-
-
-
-
 ## § 4
 
 Die Erteilung der Auskunft durch die Haushalte zu den Erhebungen nach
 § 1 ist freiwillig.
 
-
 ## § 5
 
 Die Aufbereitung der Erhebungen nach § 1 Nr. 2 obliegt dem
 Statistischen Bundesamt.
-
 
 ## § 6
 
@@ -120,7 +108,6 @@ Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes
 erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 Überleitungsgesetzes.
-
 
 ## § 7
 

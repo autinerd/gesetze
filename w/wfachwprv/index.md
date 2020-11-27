@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 34 V v. 25.8.2009 I 2960
 
-
 ## Eingangsformel
 
 Auf Grund des § 53 Abs. 1 in Verbindung mit Abs. 2 und des § 30 Abs. 5
@@ -29,7 +28,6 @@ vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnet
 das Bundesministerium für Bildung und Forschung nach Anhörung des
 Hauptausschusses des Bundesinstituts für Berufsbildung im Einvernehmen
 mit dem Bundesministerium für Wirtschaft und Technologie:
-
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
 
@@ -65,7 +63,6 @@ Führungsaufgaben wahrnehmen zu können und damit die Befähigung,
 
 (3) Die erfolgreich abgelegte Prüfung führt zum anerkannten Abschluss
 „Geprüfter Wirtschaftsfachwirt/Geprüfte Wirtschaftsfachwirtin“.
-
 
 ## § 2 Zulassungsvoraussetzungen
 
@@ -116,7 +113,6 @@ zugelassen werden, wer durch Vorlage von Zeugnissen oder auf andere
 Weise glaubhaft macht, dass Fertigkeiten, Kenntnisse und Fähigkeiten
 (berufliche Handlungsfähigkeit) erworben worden sind, die eine
 Zulassung zur Prüfung rechtfertigen.
-
 
 ## § 3 Gliederung und Durchführung der Prüfung
 
@@ -188,7 +184,6 @@ gewähren. Die Präsentation geht mit einem Drittel in die Bewertung der
 mündlichen Prüfung ein. Die mündliche Prüfung wird erst nach dem
 erfolgreichen Abschluss der schriftlichen Teilprüfungen nach den
 Absätzen 4 und 5 durchgeführt.
-
 
 ## § 4 Wirtschaftsbezogene Qualifikationen
 
@@ -320,7 +315,6 @@ der Regel nicht länger als 15 Minuten dauern. Die Bewertungen der
 schriftlichen Prüfungsleistung und der mündlichen Ergänzungsprüfung
 werden zu einer Note zusammengefasst. Dabei wird die Bewertung der
 schriftlichen Prüfungsleistung doppelt gewichtet.
-
 
 ## § 5 Handlungsspezifische Qualifikationen
 
@@ -474,7 +468,6 @@ Punktebewertung für das Ergebnis der schriftlichen Prüfungsleistung
 ist aus den beiden gleichgewichtigen schriftlichen Teilergebnissen zu
 bilden.
 
-
 ## § 6 Anrechnung anderer Prüfungsleistungen
 
 Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin ist auf Antrag
@@ -484,7 +477,6 @@ Stelle zu befreien, wenn eine andere vergleichbare Prüfung vor einer
 einem staatlichen Prüfungsausschuss erfolgreich abgelegt wurde und die
 Anmeldung zur Fortbildungsprüfung innerhalb von fünf Jahren nach der
 Bekanntgabe des Bestehens der anderweitig abgelegten Prüfung erfolgt.
-
 
 ## § 7 Bewerten der Prüfungsteile und Bestehen der Prüfung
 
@@ -512,7 +504,6 @@ und 2 auszustellen. Im Fall der Freistellung nach § 6 sind Ort, Datum,
 Abschlussbezeichnung der Prüfung und die Bezeichnung des
 Prüfungsgremiums der anderweitig abgelegten Prüfung anzugeben.
 
-
 ## § 8 Wiederholung der Prüfung
 
 (1) Eine Teilprüfung, die nicht bestanden ist, kann zweimal wiederholt
@@ -528,7 +519,6 @@ zwei Jahren, gerechnet vom Tage der Beendigung der nicht bestandenen
 Prüfung an, zur Wiederholungsprüfung angemeldet hat. Bestandene
 Prüfungsleistungen können auf Antrag einmal wiederholt werden. In
 diesem Fall gilt das Ergebnis der letzten Prüfung.
-
 
 ## § 9 Ausbildereignung
 
@@ -557,7 +547,6 @@ auszustellen, aus dem hervorgeht, dass die berufs- und
 arbeitspädagogische Qualifikation nach § 30 Abs. 5 des
 Berufsbildungsgesetzes nachgewiesen wurde.
 
-
 ## § 10 Übergangsvorschriften
 
 (1) Begonnene Prüfungsverfahren zum Geprüften Wirtschaftsfachwirt/zur
@@ -573,11 +562,9 @@ Anwendung der bisherigen Vorschriften beantragt werden.
 auch nach dieser Verordnung durchführen; § 8 Abs. 2 findet in diesem
 Fall keine Anwendung.
 
-
 ## § 11 Inkrafttreten
 
 Diese Verordnung tritt am 1. September 2008 in Kraft.
-
 
 ## Anlage 1 (zu § 7 Abs. 6) Muster
 
@@ -591,8 +578,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         .................. .
         ...................................................................
         (Bezeichnung der zuständigen Stelle)
-
-
 
 ## Zeugnis
 
@@ -619,8 +604,6 @@ Prüfung zum anerkannten Abschluss
 
     *   die Prüfung zum anerkannten Abschluss
 
-
-
 ## Geprüfter Wirtschaftsfachwirt/Geprüfte Wirtschaftsfachwirtin
 
 nach der Verordnung über die Prüfung zum anerkannten Abschluss
@@ -638,9 +621,6 @@ August 2008 (BGBl. I S. 1752), die durch Artikel 34 der Verordnung vom
 
 
 *    *   (Siegel der zuständigen Stelle)
-
-
-
 
 ## Anlage 2 (zu § 7 Abs. 6) Muster
 

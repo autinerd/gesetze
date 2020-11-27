@@ -18,8 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 19.10.2011 I 2098
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 45 Abs. 4 Satz 2 des
@@ -27,7 +25,6 @@ Bundesausbildungsförderungsgesetzes in der Fassung der Bekanntmachung
 vom 6. Juni 1983 (BGBl. I S. 645, 1680), der zuletzt durch Artikel 1
 Nr. 12 des Gesetzes vom 7. Mai 1999 (BGBl. I S. 850) geändert worden
 ist, verordnet das Bundesministerium für Bildung und Forschung:
-
 
 ## § 1 Örtliche Zuständigkeit
 
@@ -129,7 +126,6 @@ eine auf seinem Gebiet gelegene Ausbildungsstätte besuchen, die
 örtliche Zuständigkeit des nach Absatz 1 bestimmten Amtes für
 Ausbildungsförderung fort.
 
-
 ## § 2 Zeitlicher Anwendungsbereich
 
 Diese Verordnung gilt bei Entscheidungen über Bewilligungszeiträume,
@@ -138,11 +134,9 @@ die in der Zeit zwischen dem 31. März 2004 und dem 1. Januar 2012
 begonnen haben, gilt diese Verordnung in der bis zum 31. Dezember 2011
 geltenden Fassung.
 
-
 ## § 3 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. April 2004 in Kraft.
-
 
 ## Schlussformel
 

@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 13 Abs. 18 G v. 25.5.2009 I 1102
 
-
 ## Eingangsformel
 
 Auf Grund des durch Artikel 4 Nr. 9 des Gesetzes vom 24. Juni 1994
@@ -33,10 +32,7 @@ im Benehmen mit den Aufsichtsbehörden der Länder und nach Anhörung des
 Versicherungsbeirats gemäß § 55a Abs. 2 des
 Versicherungsaufsichtsgesetzes:
 
-
 ## Erster Abschnitt - Allgemeine Vorschriften
-
-
 
 ### § 1 Art und Umfang der Berichterstattung
 
@@ -77,7 +73,6 @@ oder Ablichtung der unterschriebenen Vollständigkeitserklärung
 beizufügen, soweit der Abschlußprüfer eine solche vom geprüften
 Unternehmen eingeholt hat.
 
-
 ### § 2 Berichtszeitraum
 
 (1) Der Zeitraum, auf den sich die Prüfung erstreckt
@@ -94,7 +89,6 @@ eingetreten sind, sind im Prüfungsbericht eingehend darzulegen.
 sich aus dem Zusammenhang nichts anderes ergibt, unbeschadet des
 Absatzes 2, auf den Bilanzstichtag zu beziehen.
 
-
 ### § 3 Vergleiche und Verweisungen
 
 Die geschäftliche Entwicklung des Versicherungsunternehmens oder
@@ -104,10 +98,7 @@ Verlustrechnung sowie der sonstigen sie kennzeichnenden Zahlen zu
 erläutern. Verweisungen auf den Inhalt vorausgegangener
 Prüfungsberichte sind grundsätzlich zu vermeiden.
 
-
 ## Zweiter Abschnitt - Allgemeiner Teil des Prüfungsberichtes
-
-
 
 ### § 4 Rechtliche, wirtschaftliche und organisatorische Grundlagen des Versicherungsunternehmens
 
@@ -143,10 +134,6 @@ insbesondere zu berichten über
 
 7.  die Ausgestaltung der Innenrevision.
 
-
-
-
-
 ### § 5 Beziehungen zu verbundenen und anderen Unternehmen
 
 (1) Die finanziellen Auswirkungen der Beziehungen zu verbundenen und
@@ -162,7 +149,6 @@ Aktiengesetzes aufgestellt wird.
 (2) Wurde bei verbundenen Unternehmen ein Konzernabschluß oder
 Abhängigkeitsbericht nicht erstellt oder ein Tochterunternehmen nicht
 in den Konzernabschluß einbezogen, sind die Gründe hierfür darzulegen.
-
 
 ### § 6 Rückversicherung
 
@@ -186,7 +172,6 @@ berichten.
 proportionale Rückversicherungsverträge, bei denen der Rückversicherer
 in Höhe des übernommenen Anteils an allen Risiken beteiligt wird.
 
-
 ### § 7 Organisation des Rechnungswesens
 
 Im Rahmen der Berichterstattung nach § 4 Nr. 6 ist über die
@@ -195,7 +180,6 @@ berichten. Beim Einsatz von elektronischen Datenverarbeitungsanlagen
 ist Stellung zu nehmen, ob eine Verfahrensdokumentation vorliegt und
 das angewandte Verfahren ausreichende Kontrollmaßnahmen enthält. Auf
 wesentliche Mängel im Rechnungswesen ist hinzuweisen.
-
 
 ### § 8 Vermögenslage
 
@@ -240,7 +224,6 @@ Vermögenslage von Bedeutung sind, zu berichten und zwar insbesondere
 (3) Bei Pensionskassen ist über Konditionen, Umfang und Sicherheit von
 Anlagen bei Mitglieds- oder Trägerunternehmen zu berichten.
 
-
 ### § 9 Kostenverteilung
 
 Bei Unternehmensverbindungen ist die Kostenverteilung auf die
@@ -253,12 +236,10 @@ Verwaltung von Kapitalanlagen sowie auf die sonstigen Aufwendungen
 unter Aufteilung auf die einzelnen Versicherungszweige und
 gegebenenfalls -arten darzustellen.
 
-
 ### § 10 Währungsgeschäfte
 
 Es ist über die Methoden der Bewertung der Fremdwährungsdispositionen
 des Jahresabschlusses zu berichten.
-
 
 ### § 11 Derivate
 
@@ -289,7 +270,6 @@ erläutern, ob das Kontrollsystem jederzeit einen Überblick über diese
 Geschäfte erlaubt. Über die Einhaltung der Anforderungen an
 Mitarbeitergeschäfte in Derivaten ist zu berichten.
 
-
 ### § 12 Liquiditätslage
 
 (1) Die Art der Liquiditätsvorsorge ist darzustellen. Ergeben sich
@@ -301,7 +281,6 @@ ist darauf einzugehen.
 gegebenenfalls zu berichten. Hierzu gehören auch Angaben über
 Kreditaufnahmen und über dem Unternehmen zur Verfügung stehende
 Kreditrahmen.
-
 
 ### § 13 Ertragslage
 
@@ -327,7 +306,6 @@ Zuführung zur Rückstellung für erfolgsabhängige Beitragsrückerstattung
 und zur Schwankungsrückstellung über die Ertragslage zu berichten; auf
 wesentliche Ertrags- und Aufwandsfaktoren ist einzugehen.
 
-
 ### § 14 Zusammenfassende Schlußbemerkung
 
 In einer zusammenfassenden Schlußbemerkung ist insbesondere auf die
@@ -341,10 +319,7 @@ haben, sofern deren Kenntnis für den Berichtsempfänger von Bedeutung
 sein kann. Der Schlußbemerkung ist der zu unterzeichnende
 Bestätigungsvermerk mit Siegel anzufügen.
 
-
 ## Dritter Abschnitt - Besonderer Teil des Prüfungsberichtes
-
-
 
 ### § 15 Allgemeine Erläuterungen
 
@@ -356,7 +331,6 @@ enthalten.
 (2) Die jeweiligen Bewertungsmethoden sind darzustellen. Auf stille
 Reserven in den Kapitalanlagen je Bilanzposten ist hinzuweisen, soweit
 die entsprechenden Zeitwerte im Anhang anzugeben sind.
-
 
 ### § 16 Forderungen aus dem selbst abgeschlossenen Versicherungsgeschäft
 
@@ -373,7 +347,6 @@ Berechnungsmethode aufzuführen.
 Versicherungsgeschäft an Versicherungsvermittler ist auch darüber zu
 berichten, ob die gestellten Sicherheiten für Provisionsvorschüsse und
 andere Forderungen ausreichend sind.
-
 
 ### § 17 Versicherungstechnische Rückstellungen
 
@@ -399,7 +372,6 @@ Hinblick auf deren Angemessenheit, Stellung zu nehmen.
 versicherungstechnischen Rückstellungen einen unabhängigen
 Sachverständigen heranzieht, hat er dessen Namen im Prüfungsbericht zu
 nennen.
-
 
 ### § 18 Rückstellung für noch nicht abgewickelte Versicherungsfälle
 
@@ -450,7 +422,6 @@ Versicherungsunternehmen darzustellen und zu beurteilen. Wurde von den
 Aufgaben des Vorversicherers abgewichen, so ist hierzu Stellung zu
 nehmen. Absatz 1 Satz 5 gilt entsprechend.
 
-
 ### § 19 Schwankungsrückstellungen und ähnliche Rückstellungen
 
 Es ist darüber zu berichten, ob die in § 341h des Handelsgesetzbuchs,
@@ -460,13 +431,11 @@ Rechnungslegung von Versicherungsunternehmen ergangenen Bestimmungen
 sind. Ferner ist anzugeben, in welchem Umfang und auf welche Art eine
 Nachprüfung erfolgt ist.
 
-
 ### § 20 Einzelne Posten der Gewinn- und Verlustrechnung
 
 Über die bei den sonstigen Aufwendungen und Erträgen ausgewiesenen
 Aufwendungen und Erträge für erbrachte Dienstleistungen ist gesondert
 zu berichten.
-
 
 ### § 21 Anhangangaben
 
@@ -475,10 +444,7 @@ Nr. 3 in Verbindung mit § 341a Abs. 2 Satz 4 des Handelsgesetzbuchs im
 Anhang anzugeben ist, sind zu erläutern, sofern diese Angaben für die
 Beurteilung der Finanzlage von Bedeutung sind.
 
-
 ## Vierter Abschnitt - Schlußvorschrift
-
-
 
 ### § 22 Inkrafttreten und erstmalige Anwendung
 

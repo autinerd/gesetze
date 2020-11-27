@@ -19,15 +19,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 11 G v. 12.4.2012 I 579
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 65 des Gesetzes über die Alterssicherung der Landwirte
 vom 29. Juli 1994 (BGBl. I S. 1890, 1891) verordnet das
 Bundesministerium für Arbeit und Sozialordnung im Einvernehmen mit dem
 Bundesministerium für Ernährung, Landwirtschaft und Forsten:
-
 
 ## § 1 Vergabe der Mitgliedsnummer
 
@@ -55,7 +52,6 @@ eine Mitgliedsnummer vergeben worden, sind alle bis auf eine als nicht
 mehr verwendbar zu kennzeichnen, wobei eine Verbindung zwischen den
 Mitgliedsnummern herzustellen ist.
 
-
 ## § 2 Zusammensetzung der Mitgliedsnummer
 
 (1) Die Mitgliedsnummer setzt sich zusammen aus
@@ -81,16 +77,13 @@ die Versicherten.
 (4) Die elfte Stelle der Mitgliedsnummer enthält die Prüfziffer. Sie
 wird gemäß der Anlage 2 berechnet.
 
-
 ## § 3 Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 1999 in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage 1 Bereichsnummern
 
@@ -187,10 +180,6 @@ Bereichsnummern für das Gebiet
         des § 1 Absatz 1 Satz 3)
 
     *   22
-
-
-
-
 
 ## Anlage 2 Prüfziffer
 

@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 2098, 2104
 
-
-
 ## § 1 Gegenstand
 
 Dieses Gesetz regelt die innerstaatliche Aufteilung von
@@ -32,7 +30,6 @@ Anteil an Sanktionszahlungen. Die Zahlungspflicht der Länder gegenüber
 dem Bund entsteht mit der Bekanntgabe eines Beschlusses des Rates über
 Sanktionszahlungen gemäß Artikel 104 Abs. 11 des Vertrags zur Gründung
 der Europäischen Gemeinschaft an die Bundesrepublik Deutschland.
-
 
 ## § 2 Aufteilung
 
@@ -67,7 +64,6 @@ Vorleistung getreten ist, durch das betroffene Land unverzüglich zu
 erstatten. Die gestundeten Beträge sind bis zu ihrer Rückzahlung nach
 dem Refinanzierungszins des Bundes zu verzinsen.
 
-
 ## § 3 Grundlagen
 
 (1) Für die Berechnung des Länderanteils an Sanktionszahlungen gemäß §
@@ -82,7 +78,6 @@ Satz 3 ist, bei Geldbußen gemäß § 1 Satz 1 vorbehaltlich der
 endgültigen Ergebnisse der amtlichen Rechnungsstatistik, das Ergebnis
 der amtlichen Vierteljahresstatistik des Statistischen Bundesamtes zu
 den öffentlichen Haushalten zum 31. Dezember des Anlastungsjahres.
-
 
 ## § 4 Rückerstattungen; Einlagen anderer Mitgliedstaaten
 
@@ -99,7 +94,6 @@ aufgeteilt. Für die Berechnung der Anteile der einzelnen Länder sind
 die Einwohnerzahlen maßgebend, die das Statistische Bundesamt zum 30.
 Juni des dem Eingang dieser Gelder vorausgehenden Kalenderjahres
 festgestellt hat.
-
 
 ## § 5 Verordnungsermächtigung
 

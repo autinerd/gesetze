@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1969, 1088
 
-
-
 ## (XXXX)
 
 Auf Grund des § 35 Abs. 1 des Warenzeichengesetzes in der Fassung der
@@ -26,7 +24,6 @@ wird gemäß einer Erklärung des kuwaitischen Außenministeriums
 bekanntgemacht:
 Deutsche Warenbezeichnungen werden im Staat Kuwait in demselben Umfang
 wie inländische zum gesetzlichen Schutz zugelassen.
-
 
 ## Schlussformel
 

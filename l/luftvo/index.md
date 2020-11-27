@@ -18,10 +18,7 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 27.3.1999 I 580; zuletzt geändert durch Art. 3 G v. 8.5..2012 I 1032
 
-
 ## Erster Abschnitt - Pflichten der Teilnehmer am Luftverkehr
-
-
 
 ### § 1 Grundregeln für das Verhalten im Luftverkehr
 
@@ -39,7 +36,6 @@ berauschender Mittel oder infolge geistiger oder körperlicher Mängel
 in der Wahrnehmung der Aufgaben als Führer eines Luftfahrzeugs oder
 sonst als Mitglied der Besatzung behindert ist, darf kein Luftfahrzeug
 führen und nicht als anderes Besatzungsmitglied tätig sein.
-
 
 ### § 2 Verantwortlicher Luftfahrzeugführer
 
@@ -85,7 +81,6 @@ bezeichnet, gilt
 
 als der Sitz des verantwortlichen Luftfahrzeugführers.
 
-
 ### § 3 Rechte und Pflichten des Luftfahrzeugführers
 
 (1) Der Luftfahrzeugführer hat das Entscheidungsrecht über die Führung
@@ -97,7 +92,6 @@ treffen.
 dieser Verordnung und sonstiger Verordnungen über den Betrieb von
 Luftfahrzeugen sowie die in Ausübung der Luftaufsicht zur Durchführung
 des Flugs ergangenen Verfügungen eingehalten werden.
-
 
 ### § 3a Flugvorbereitung
 
@@ -122,7 +116,6 @@ ist eine Flugberatung bei einer Flugberatungsstelle einzuholen. Absatz
 der Luftfahrzeugführer den Verkehr in der Platzrunde nicht mehr
 beobachten kann.
 
-
 ### § 3b Mitführung von Urkunden und Ausweisen
 
 Die Verpflichtung, die für den Betrieb erforderlichen Urkunden und
@@ -132,7 +125,6 @@ nach dem Recht des Eintragungsstaates des Luftfahrzeugs sowie bei
 Besatzungsmitgliedern nach dem Recht des diese Papiere ausstellenden
 Staates. In jedem Falle sind diese Unterlagen auch in englischer
 Sprache mitzuführen.
-
 
 ### § 4 Anwendung der Flugregeln
 
@@ -163,7 +155,6 @@ Verkehrslage zuläßt und die Sicherheit des Luftverkehrs nicht
 beeinträchtigt wird, kann die zuständige Flugverkehrskontrollstelle im
 Einzelfall Ausnahmen zulassen.
 
-
 ### § 4a Luftsportgerät und unbemanntes Luftfahrtgerät
 
 Auf den Betrieb von Luftsportgerät und unbemanntem Luftfahrtgerät
@@ -172,7 +163,6 @@ aus den Besonderheiten dieser Luftfahrtgeräte, insbesondere der
 Freistellung von der Verkehrszulassung und dem Flugplatzzwang, der
 besonderen Betriebsform oder der fehlenden Besatzung die
 Unanwendbarkeit einzelner Vorschriften ergibt.
-
 
 ### § 5 Anzeige von Flugunfällen und Störungen
 
@@ -253,7 +243,6 @@ entsprechend.
 Gesetzes über die Untersuchung von Unfällen und Störungen bei dem
 Betrieb ziviler Luftfahrzeuge.
 
-
 ### § 5a Startverbote, Übermittlung an ausländische Stellen
 
 (1) Wird anläßlich des Ergebnisses einer luftaufsichtlichen
@@ -305,7 +294,6 @@ Europäischen Gemeinschaften über die getroffenen Maßnahmen und die
 Ergebnisse der durchgeführten Untersuchung. Die Übermittlung der
 Daten, auf die sich die Entscheidung stützt, richtet sich nach § 29
 Abs. 5 und 6 des Luftverkehrsgesetzes.
-
 
 ### § 5b Meldung von sicherheitsrelevanten Ereignissen
 
@@ -381,7 +369,6 @@ andere Pflichten zur Abgabe von Meldungen an das Luftfahrt-Bundesamt
 und an andere Luftfahrtbehörden aufgrund anderer Vorschriften oder
 Auflagen bleiben unberührt.
 
-
 ### § 5c Register für Ereignisse nach § 5b
 
 (1) Das Luftfahrt-Bundesamt führt ein Register zur Erfassung,
@@ -418,10 +405,7 @@ Gemeinschaft eingerichtet und von den Mitgliedstaaten benannt sind,
 sowie der Europäischen Kommission den Zugriff auf die in der Ereignis-
 Datei gespeicherten Informationen.
 
-
 ## Zweiter Abschnitt - Allgemeine Regeln
-
-
 
 ### § 6 Sicherheitsmindesthöhe, Mindesthöhe bei Überlandflügen nach Sichtflugregeln
 
@@ -500,7 +484,6 @@ zugelassen, ist der Luftfahrzeugführer verpflichtet:
 Einsatzflüge der Bundespolizei, des Zivil- und Katastrophenschutzes
 und der Polizeien der Länder.
 
-
 ### § 7 Abwerfen von Gegenständen
 
 (1) Das Abwerfen oder Ablassen von Gegenständen oder sonstigen Stoffen
@@ -518,7 +501,6 @@ Personen oder Sachen nicht besteht.
 und Technologie oder die von ihm bestimmte Stelle im Einvernehmen mit
 der zuständigen Luftfahrtbehörde des Landes.
 
-
 ### § 8 Kunstflug
 
 (1) Kunstflüge dürfen nur bei Flugverhältnissen, bei denen nach
@@ -535,7 +517,6 @@ Landes kann im Einzelfall Ausnahmen zulassen.
 ohne Flugverkehrskontrollstelle durchgeführt werden, unbeschadet einer
 nach § 26 erforderlichen Flugverkehrskontrollfreigabe der Zustimmung
 der Luftaufsichtsstelle. Absatz 2 bleibt unberührt.
-
 
 ### § 9 Schlepp- und Reklameflüge
 
@@ -580,7 +561,6 @@ Luftfahrzeugs besteht, bedürfen keiner Erlaubnis.
 
 (5) Flüge zur Reklame mit akustischen Mitteln sind verboten.
 
-
 ### § 9a Uhrzeit und Maßeinheiten
 
 (1) Im Flugbetrieb sind die Koordinierte Weltzeit (UTC = Universal
@@ -592,7 +572,6 @@ Luftfahrer bekannt.
 (2) Für Ortsbestimmungen im Luftverkehr ist als Bezugssystem das
 Geodätische Welt-System 84 (WGS-84 = World Geodetic System - 1984)
 anzuwenden.
-
 
 ### § 10 Luftraumordnung
 
@@ -631,7 +610,6 @@ Verordnung abweichen. Einzelheiten zur Festlegung von Gebieten zur
 Durchführung von militärischem Flugverkehr gibt die
 Flugsicherungsorganisation in den Nachrichten für Luftfahrer bekannt.
 
-
 ### § 11 Luftsperrgebiete und Flugbeschränkungen
 
 (1) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung legt
@@ -650,12 +628,10 @@ im Einzelfall den Durchflug genehmigt hat.
 zulassen, daß in Luftsperrgebieten und Gebieten mit Flugbeschränkungen
 von den Vorschriften dieser Verordnung abgewichen wird.
 
-
 ### § 11a Flüge mit Überschallgeschwindigkeit
 
 Flüge ziviler Luftfahrzeuge mit Überschallgeschwindigkeit (größer als
 Mach 1) sind im Geltungsbereich dieser Verordnung untersagt.
-
 
 ### § 11b Zugelassene Ausnahmen
 
@@ -682,7 +658,6 @@ Versicherungsschutz in Höhe der nach § 37 des Luftverkehrsgesetzes für
 die Haftung des Luftfahrzeughalters geltenden Summen für Personen-
 oder Sachschäden, die durch den Betrieb des Luftfahrzeugs verursacht
 werden, nachgewiesen ist.
-
 
 ### § 11c Beschränkungen der Starts und Landungen von Flugzeugen mit Strahltriebwerken
 
@@ -820,7 +795,6 @@ die Beschränkungen nach Absatz 3 ganz oder teilweise bereits vor dem
 verfügt werden. Die Ausnahmen nach den Absätzen 4 bis 6 und 8 gelten
 dann nicht an den Verkehrsflughäfen Berlin-Tegel und Berlin-Tempelhof.
 
-
 ### § 12 Vermeidung von Zusammenstößen
 
 (1) Der Luftfahrzeugführer hat zur Vermeidung von Zusammenstößen zu
@@ -836,7 +810,6 @@ wenn eine Flugverkehrskontrollstelle tätig ist, nicht berührt.
 
 (2) Luftfahrzeuge dürfen im Verband nur nach vorangegangener
 Vereinbarung der Luftfahrzeugführer geflogen werden.
-
 
 ### § 13 Ausweichregeln
 
@@ -910,7 +883,6 @@ Luftfahrzeug nur in einem Abstand überfliegen, unterfliegen oder vor
 diesem vorbeifliegen, der eine Gefährdung oder Behinderung dieses
 Luftfahrzeugs ausschließt.
 
-
 ### § 14 Wolkenflüge mit Segelflugzeugen und Luftsportgeräten
 
 Wolkenflüge mit Segelflugzeugen können von der
@@ -918,7 +890,6 @@ Flugsicherungsorganisation erlaubt werden, wenn die Sicherheit der
 Luftfahrt durch geeignete Maßnahmen aufrechterhalten werden kann. Die
 Erlaubnis kann mit Auflagen verbunden werden. Wolkenflüge mit
 Luftsportgeräten sind nicht erlaubt.
-
 
 ### § 15 Erlaubnisbedürftige Außenstarts und Außenlandungen nach § 25 des Luftverkehrsgesetzes
 
@@ -936,7 +907,6 @@ entsprechend.
 Hängegleitern und Gleitsegeln, die sich auf einem Überlandflug
 befinden, sowie von bemannten Freiballonen bedürfen keiner Erlaubnis
 nach § 25 Abs. 1 des Luftverkehrsgesetzes.
-
 
 ### § 15a Verbotene Nutzung des Luftraums
 
@@ -1000,7 +970,6 @@ Absatz 2 oder Absatz 3 Satz 3 enthalten muss.
 
 (5) Landesrechtliche Regelungen, die Aufstiege von ballonartigen
 Leuchtkörpern verbieten, bleiben unberührt.
-
 
 ### § 16 Erlaubnisbedürftige Nutzung des Luftraums
 
@@ -1078,7 +1047,6 @@ dem der Flugbetrieb stattfinden soll, verlangen.
 Grundstückseigentümers oder sonstigen Nutzungsberechtigten abhängig
 gemacht werden.
 
-
 ### § 16a Besondere Benutzung des kontrollierten Luftraums
 
 (1) Bei Inanspruchnahme des kontrollierten Luftraums ist von der
@@ -1134,7 +1102,6 @@ ist
 (3) Landesrechtliche Regelungen, die Aufstiege von ballonartigen
 Leuchtkörpern verbieten, bleiben unberührt.
 
-
 ### § 17 Von Luftfahrzeugen zu führende Lichter
 
 (1) Von Sonnenuntergang bis Sonnenaufgang haben im Betrieb befindliche
@@ -1155,7 +1122,6 @@ Absätze 1 und 2 sind nicht anzuwenden.
 
 (3) Für die Lichterführung auf dem Wasser gilt § 19 Abs. 2 und 3.
 
-
 ### § 18 Übungsflüge unter angenommenen Instrumentenflug-Bedingungen
 
 Ein Luftfahrzeug darf unter angenommenen Instrumentenflug-Bedingungen
@@ -1169,10 +1135,6 @@ nur geflogen werden, wenn
     Der zweite Luftfahrzeugführer muß den Luftraum beobachten,
     nötigenfalls muß er sich der Hilfe eines Beobachters bedienen, der in
     Sprechverbindung mit ihm steht.
-
-
-
-
 
 ### § 19 Luftfahrzeuge auf dem Wasser
 
@@ -1216,7 +1178,6 @@ See (Anhang B des Internationalen Schiffssicherheitsvertrages -
 Seestraßenordnung) und die besonderen Vorschriften für einzelne
 Gewässer bleiben unberührt.
 
-
 ### § 20 Gefahrenmeldung
 
 Der Luftfahrzeugführer hat Beobachtungen über Gefahren für den
@@ -1224,7 +1185,6 @@ Luftverkehr unverzüglich der für ihn zuständigen
 Flugverkehrskontrollstelle zu melden. Die Meldungen sollen alle
 Einzelheiten enthalten, die für die Gewährleistung der Sicherheit des
 Luftverkehrs wesentlich sind.
-
 
 ### § 21 Signale und Zeichen
 
@@ -1248,7 +1208,6 @@ Stadtentwicklung legt die von militärischen oder polizeilichen
 Luftfahrzeugen bei der Ansteuerung zu gebenden Signale und Zeichen
 sowie die von den Führern angesteuerter Luftfahrzeuge zu treffenden
 Maßnahmen fest und gibt sie in den Nachrichten für Luftfahrer bekannt.
-
 
 ### § 21a Regelung des Flugplatzverkehrs
 
@@ -1278,7 +1237,6 @@ Luftaufsichtsstelle oder der Flugleitung.
 Luftsportgeräten dienen, gelten die Regelungen der Flugbetriebsordnung
 für Luftsportgeräte des Beauftragten. Absatz 3 ist sinngemäß
 anzuwenden.
-
 
 ### § 22 Flugbetrieb auf einem Flugplatz und in dessen Umgebung
 
@@ -1416,7 +1374,6 @@ Luftstrom trifft und Personen nicht verletzt werden können. Bei
 laufendem Motor darf sich niemand vor dem Luftfahrzeug oder in einem
 für die Sicherheit nicht ausreichenden Abstand von diesem aufhalten.
 
-
 ### § 22a Flugbetrieb mit Flugzeugen zur gewerbsmäßigen Beförderung von Personen oder Sachen
 
 (1) Der Führer eines Flugzeugs mit einer Höchstabflugmasse von mehr
@@ -1437,7 +1394,6 @@ Bundesrepublik Deutschland nur starten oder landen, wenn
 einzelne Flüge Ausnahmen von Absatz 1 zulassen, wenn eine Gefahr für
 die Sicherheit des Luftverkehrs nicht zu erwarten ist. Die Ausnahmen
 können eingeschränkt, befristet oder mit Auflagen verbunden werden.
-
 
 ### § 23 Flugbetrieb auf einem Flugplatz mit Flugverkehrskontrollstelle
 
@@ -1478,7 +1434,6 @@ Zeichen erlassenen Verfügungen ist Folge zu leisten.
 Flugverkehrskontrollfreigabe durch die zuständige
 Flugverkehrskontrollstelle.
 
-
 ### § 24 Prüfung der Flugvorbereitung und der vorgeschriebenen Ausweise
 
 Auf Verlangen der für die Wahrnehmung der Luftaufsicht zuständigen
@@ -1491,10 +1446,6 @@ Personen oder Stellen hat
 2.  das Luftfahrtpersonal die vorgeschriebenen Ausweise, insbesondere die
     Scheine und Zeugnisse für die Besatzung und das Luftfahrzeug, zur
     Prüfung auszuhändigen.
-
-
-
-
 
 ### § 25 Flugplanabgabe
 
@@ -1538,7 +1489,6 @@ erleichtern.
 Bundesaufsichtsamt für Flugsicherung festgelegt und in den Nachrichten
 für Luftfahrer bekanntgemacht.
 
-
 ### § 26 Flugverkehrskontrollfreigabe
 
 (1) Über die in § 4 Abs. 3 Satz 2, § 16a Abs. 1, § 23 Abs. 4 und § 28
@@ -1579,7 +1529,6 @@ Luftfahrzeugführer unverzüglich die zuständige
 Flugverkehrskontrollstelle zu benachrichtigen und eine neue
 Flugverkehrskontrollfreigabe einzuholen.
 
-
 ### § 26a Funkverkehr
 
 (1) Der Funkverkehr wird als Sprechfunkverkehr im Flugfunkdienst
@@ -1602,7 +1551,6 @@ Ausfall der Funkverbindung werden von dem Bundesaufsichtsamt für
 Flugsicherung festgelegt und in den Nachrichten für Luftfahrer
 bekanntgemacht.
 
-
 ### § 26b Standortmeldungen
 
 (1) Der Luftfahrzeugführer hat in den Fällen des § 26a Abs. 2 beim
@@ -1617,11 +1565,9 @@ Standortmeldungen verzichten.
 von dem Bundesaufsichtsamt für Flugsicherung festgelegt und in den
 Nachrichten für Luftfahrer bekanntgemacht.
 
-
 ### § 26c
 
 (weggefallen)
-
 
 ### § 26d Startmeldung
 
@@ -1637,7 +1583,6 @@ und Übermittlungsart der Startmeldungen werden von dem
 Bundesaufsichtsamt für Flugsicherung festgelegt und in den Nachrichten
 für Luftfahrer bekanntgemacht.
 
-
 ### § 27 Landemeldung
 
 (1) Der Luftfahrzeugführer hat bei Flügen, für die ein Flugplan
@@ -1649,7 +1594,6 @@ Bundesaufsichtsamt für Flugsicherung kann Ausnahmen zulassen.
 (2) Einzelheiten über Inhalt, Form und Übermittlungsart der
 Landemeldungen werden von dem Bundesaufsichtsamt für Flugsicherung
 festgelegt und in den Nachrichten für Luftfahrer bekanntgemacht.
-
 
 ### § 27a Flugverfahren
 
@@ -1676,10 +1620,7 @@ Festlegung des Flugverfahrens von der Flugsicherungsorganisation
 aufzuheben. Die Dauer der Festlegung eines Flugverfahrens nach Satz 2
 oder 3 darf drei Monate nicht überschreiten.
 
-
 ## Dritter Abschnitt - Sichtflugregeln
-
-
 
 ### § 28 Flüge nach Sichtflugregeln in den Lufträumen mit der Klassifizierung B bis G
 
@@ -1718,16 +1659,13 @@ Voraussetzungen für die Erteilung der Flugverkehrskontrollfreigabe
 werden von dem Bundesaufsichtsamt für Flugsicherung festgelegt und in
 den Nachrichten für Luftfahrer bekanntgemacht.
 
-
 ### § 29
 
 (weggefallen)
 
-
 ### § 30
 
 (weggefallen)
-
 
 ### § 31 Höhenmessereinstellung und Reiseflughöhen bei Flügen nach Sichtflugregeln
 
@@ -1770,7 +1708,6 @@ erteilt. Die Flugsicherungsorganisation kann Ausnahmen zulassen,
 soweit die öffentliche Sicherheit oder Ordnung, insbesondere die
 Sicherheit des Luftverkehrs, dadurch nicht beeinträchtigt werden.
 
-
 ### § 32 Flüge nach Sichtflugregeln über Wolkendecken
 
 Bei Flügen nach Sichtflugregeln dürfen Wolkendecken nur dann
@@ -1794,10 +1731,6 @@ Bei Flügen nach Sichtflugregeln dürfen Wolkendecken nur dann
 4.  der Luftfahrzeugführer die Berechtigung zur Ausübung des
     Flugfunkverkehrs hat.
 
-
-
-
-
 ### § 33 Flüge nach Sichtflugregeln bei Nacht
 
 Für Flüge nach Sichtflugregeln bei Nacht gelten die §§ 28 bis 32. Als
@@ -1806,22 +1739,17 @@ Sonnenuntergang und einer halben Stunde vor Sonnenaufgang. Flüge nach
 Sichtflugregeln bei Nacht mit Luftsportgeräten, ausgenommen einsitzige
 Sprungfallschirme, sind nicht erlaubt.
 
-
 ### § 34 Such- und Rettungsflüge
 
 Bei Flügen im Such- und Rettungseinsatz oder zur Hilfeleistung bei
 einer Gefahr für Leib und Leben einer Person kann von den §§ 28 bis 33
 abgewichen werden.
 
-
 ## Vierter Abschnitt - Instrumentenflugregeln
-
-
 
 ### § 35
 
 (weggefallen)
-
 
 ### § 36 Sicherheitsmindesthöhe bei Flügen nach Instrumentenflugregeln
 
@@ -1829,7 +1757,6 @@ Die Sicherheitsmindesthöhe beträgt - außer bei Start und Landung - für
 Luftfahrzeuge, die nach Instrumentenflugregeln fliegen, abweichend von
 § 6 Abs. 1 mindestens 300 m (1.000 Fuß) über dem höchsten Hindernis,
 von dem sie weniger als 8 km entfernt sind.
-
 
 ### § 37 Höhenmessereinstellung und Reiseflughöhen bei Flügen nach Instrumentenflugregeln
 
@@ -1855,16 +1782,13 @@ Sicherheit des Luftverkehrs, dadurch nicht beeinträchtigt werden.
 Bundesaufsichtsamt für Flugsicherung festgelegt und in den Nachrichten
 für Luftfahrer bekanntgemacht.
 
-
 ### § 38
 
 (weggefallen)
 
-
 ### § 39
 
 (weggefallen)
-
 
 ### § 40 Übergang vom Flug nach Instrumentenflugregeln zum Flug nach Sichtflugregeln
 
@@ -1879,11 +1803,9 @@ Instrumentenflugregeln auf einen Flug nach Sichtflugregeln nur
 bei denen nach Sichtflugregeln geflogen werden darf, beendet oder
 während eines längeren Zeitraums fortgesetzt werden kann.
 
-
 ### § 41
 
 (weggefallen)
-
 
 ### § 42 Abbruch von Landeanflügen
 
@@ -1893,10 +1815,7 @@ benutzte Instrumentenanflugverfahren festgelegten Werte für den
 Abbruch von Landeanflügen erreicht hat, er den Landeanflug aber nicht
 nach Sicht beenden kann.
 
-
 ## Fünfter Abschnitt - Bußgeld- und Schlußvorschriften
-
-
 
 ### § 43 Ordnungswidrigkeiten
 
@@ -2069,31 +1988,23 @@ Luftverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig
     Satz 1, § 31 Abs. 1, 2 oder 4, § 32 oder § 33 über Flüge nach
     Sichtflugregeln zuwiderhandelt.
 
-
-
-
-
 ### § 44 Inkrafttreten
 
 (1) (Inkrafttreten)
 
 (2) (vollzogene Aufhebungen)
 
-
 ### § 45
 
 (weggefallen)
-
 
 ### Anlage 1 (zu §§ 17 und 19 Abs. 7 LuftVO) Vorschriften über die von Luftfahrzeugen zu führenden Lichter
 
 (Text: siehe LuftVOAnl 1)
 
-
 ### Anlage 2 (zu § 21 LuftVO) Signale und Zeichen
 
 (Text: siehe LuftVOAnl 2)
-
 
 ### Anlage 3 (zu §§ 31 und 37) Halbkreis-Flughöhen
 
@@ -2774,10 +2685,6 @@ jeweiligen mißweisenden Kurs über Grund entsprechen:
 
     *   -
 
-
-
-
-
 ### Anlage 4 (zu § 10 Abs. 2 LuftVO) Luftraumklassifizierung und Flugverkehrsdienste
 
 
@@ -3083,17 +2990,9 @@ jeweiligen mißweisenden Kurs über Grund entsprechen:
 
         +++) IAS = Angezeigte Fluggeschwindigkeit.
 
-
-
-
-
-
-
-
 ### Anlage 6
 
 (weggefallen)
-
 
 ### Anlage 6 (zu § 5b LuftVO) Verzeichnis von meldepflichtigen Ereignissen bei Betrieb, Instandhaltung und Herstellung von Luftfahrzeugen
 
@@ -4322,13 +4221,6 @@ spezifische Systeme nach Abschnitt B Nr. 2 meldepflichtig sind
 
 
     c)  Ausfall des Nebenluftleck-Meldesystems.
-
-
-
-
-
-
-
 
 ### Anlage 7 (zu § 5b LuftVO) Verzeichnis der meldepflichtigen Ereignisse im Zusammenhang mit Flugnavigationsdiensten
 

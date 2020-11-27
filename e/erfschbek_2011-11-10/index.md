@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 2253
 
-
 ## (XXXX)
 
 Auf Grund des § 3 Absatz 5 Satz 3 des Patentgesetzes, der durch
@@ -31,10 +30,6 @@ gemacht:
 
 2.  „EXPO 2012 – The Living Ocean and Coast“
     vom 12. Mai bis 12. August 2012 in Yeosu/Republik Korea
-
-
-
-
 
 ## Schlussformel
 

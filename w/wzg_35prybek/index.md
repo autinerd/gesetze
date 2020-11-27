@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1955, 271
 
-
-
 ## (XXXX)
 
 Auf Grund des § 35 Abs. 1 des Warenzeichengesetzes in der Fassung vom
@@ -24,7 +22,6 @@ Auf Grund des § 35 Abs. 1 des Warenzeichengesetzes in der Fassung vom
 der Regierung der Republik Paraguay bekanntgemacht:
 Deutsche Warenbezeichnungen werden in der Republik Paraguay in
 demselben Umfang wie inländische zum gesetzlichen Schutz zugelassen.
-
 
 ## Schlussformel
 

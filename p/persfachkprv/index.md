@@ -19,8 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 7 V v. 23.7.2010 I 1010
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August
@@ -30,7 +28,6 @@ verordnet das Bundesministerium für Bildung und Forschung nach
 Anhörung des Ständigen Ausschusses des Bundesinstituts für
 Berufsbildung im Einvernehmen mit dem Bundesministerium für Wirtschaft
 und Technologie:
-
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
 
@@ -56,7 +53,6 @@ und Managementkompetenzen aus.
 
 (3) Die erfolgreich abgelegte Prüfung führt zum anerkannten Abschluss
 Geprüfter Personalfachkaufmann/ Geprüfte Personalfachkauffrau.
-
 
 ## § 2 Zulassungsvoraussetzungen
 
@@ -96,7 +92,6 @@ zu den in § 1 Abs. 2 genannten Funktionen haben.
 wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft
 macht, dass er/sie Kenntnisse, Fertigkeiten und Erfahrungen erworben
 hat, die die Zulassung zur Prüfung rechtfertigen.
-
 
 ## § 3 Gliederung und Durchführung der Prüfung
 
@@ -155,7 +150,6 @@ der Prüfungsteilnehmer/die Prüfungsteilnehmerin mit geeigneten Medien
 seine/ihre Lösungsvorschläge dem Prüfungsausschuss vor. Davon
 ausgehend führt der Prüfungsausschuss in der verbleibenden Zeit ein
 Prüfungsgespräch.
-
 
 ## § 4 Anforderungen und Inhalte der Prüfung
 
@@ -302,7 +296,6 @@ sprachlich kommunizieren kann und dabei argumentations- und
 präsentationstechnische Instrumente sach- und personenorientiert
 einzusetzen versteht.
 
-
 ## § 5 Anrechnung anderer Prüfungsleistungen
 
 Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin ist auf Antrag
@@ -312,7 +305,6 @@ Stelle zu befreien, wenn eine andere vergleichbare Prüfung vor einer
 einem staatlichen Prüfungsausschuss erfolgreich abgelegt wurde und die
 Anmeldung zur Fortbildungsprüfung innerhalb von fünf Jahren nach der
 Bekanntgabe des Bestehens der anderen Prüfung erfolgt.
-
 
 ## § 6 Bestehen der Prüfung
 
@@ -328,7 +320,6 @@ erbracht hat.
 und der Anlage 2 auszustellen. Im Falle der Freistellung gemäß § 5
 sind Ort und Datum der anderweitig abgelegten Prüfung sowie die
 Bezeichnung des Prüfungsgremiums anzugeben.
-
 
 ## § 7 Wiederholung der Prüfung
 
@@ -346,17 +337,14 @@ Prüfungsteilnehmerin kann beantragen, auch bestandene
 Prüfungsleistungen zu wiederholen. In diesem Fall gilt das Ergebnis
 der letzten Prüfung.
 
-
 ## § 8 Übergangsvorschrift
 
 Die bis zum Ablauf des 31. August 2009 begonnenen Prüfungsverfahren
 können nach den bisherigen Vorschriften zu Ende geführt werden.
 
-
 ## § 9 Inkrafttreten
 
 Diese Verordnung tritt am 1. Juni 2002 in Kraft.
-
 
 ## Anlage 1 (zu § 6 Abs. 3)
 
@@ -388,7 +376,6 @@ bestanden.
 Datum .............................................
 Unterschrift(en) ..................................
 (Siegel der zuständigen Stelle)
-
 
 ## Anlage 2 (zu § 6 Abs. 3)
 

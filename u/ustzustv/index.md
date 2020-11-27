@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 5 G v. 8.12.2010 I 1768
 
-
 ## § 1
 
 (1) Für die Umsatzsteuer der Unternehmer im Sinne des § 21 Abs. 1 Satz
@@ -175,7 +174,6 @@ Bundeszentralamt für Steuern zuständig.
 (3) Die örtliche Zuständigkeit nach § 61 Abs. 1 Satz 1 der
 Umsatzsteuer-Durchführungsverordnung für die Vergütung der abziehbaren
 Vorsteuerbeträge an im Ausland ansässige Unternehmer bleibt unberührt.
-
 
 ## § 2
 

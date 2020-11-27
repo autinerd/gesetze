@@ -18,16 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 G v. 8.4.2008 I 686
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit der Mehrheit seiner Mitglieder und mit
 Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
 ## Abschnitt 1 - Allgemeines
-
-
 
 ### § 1 Zweckbestimmung
 
@@ -42,13 +38,7 @@ Zum Schutz der Bevölkerung ist
     Wissenschaft und unter Berücksichtigung aller Umstände durch
     angemessene Maßnahmen so gering wie möglich zu halten.
 
-
-
-
-
 ## Abschnitt 2 - Überwachung der Umweltradioaktivität
-
-
 
 ### § 2 Aufgaben des Bundes
 
@@ -113,7 +103,6 @@ unberührt.
 (4) Die Messstellen nach Absatz 1 Nr. 1 legt der Bund im Benehmen mit
 der zuständigen Landesbehörde fest.
 
-
 ### § 3 Aufgaben der Länder
 
 (1) Die Länder ermitteln die Radioaktivität insbesondere
@@ -143,7 +132,6 @@ der zuständigen Landesbehörde fest.
 (2) Die Länder übermitteln die gemäß Absatz 1 gewonnenen Daten an die
 Zentralstelle des Bundes für die Überwachung der Umweltradioaktivität.
 
-
 ### § 4 Informationssystem des Bundes
 
 (1) Die nach den §§ 2 und 3 ermittelten Daten werden im integrierten
@@ -153,7 +141,6 @@ Strahlenschutz als Zentralstelle des Bundes betrieben wird.
 
 (2) Die im Informationssystem nach Absatz 1 erfassten Daten stehen den
 zuständigen Landesbehörden direkt zur Verfügung.
-
 
 ### § 5 Bewertung der Daten, Unterrichtung des Deutschen Bundestages und des Bundesrates
 
@@ -168,10 +155,7 @@ Reaktorsicherheit leitet dem Deutschen Bundestag und dem Bundesrat
 jeweils einmal im Jahr einen Bericht über die Entwicklung der
 Radioaktivität in der Umwelt zu.
 
-
 ## Abschnitt 3 - Maßnahmen
-
-
 
 ### § 6 Bestimmung von Dosiswerten und Kontaminationswerten
 
@@ -210,7 +194,6 @@ Zustimmung des Bundesrates und im Einvernehmen mit den zu
 beteiligenden Bundesministerien verlängert werden. Rechtsverordnungen
 nach Satz 2, die bestehende Regelungen ändern, sind unverzüglich
 aufzuheben, wenn es der Bundesrat verlangt.
-
 
 ### § 7 Verbote und Beschränkungen bei Lebensmitteln, Futtermitteln, Arzneimitteln und sonstigen Stoffen
 
@@ -284,7 +267,6 @@ gilt § 6 Abs. 2 entsprechend.
 Vereinbarungen oder von bindenden Beschlüssen der Europäischen
 Gemeinschaften sind die Absätze 1 bis 4 entsprechend anwendbar.
 
-
 ### § 8 Befugnisse im grenzüberschreitenden Verkehr
 
 (1) Die mit der polizeilichen Kontrolle des grenzüberschreitenden
@@ -329,7 +311,6 @@ werden.
 
 (3) (weggefallen)
 
-
 ### § 9 Empfehlungen des Bundesministeriums für Umwelt, Naturschutz und Reaktorsicherheit
 
 (1) Zur Erreichung des in § 1 Nr. 2 genannten Zwecks kann das
@@ -353,10 +334,7 @@ Gesetzes festgelegt ist.
 ausschließlich örtlichen Auswirkungen handelt, kann die zuständige
 oberste Landesbehörde Empfehlungen an die Bevölkerung richten.
 
-
 ## Abschnitt 4 - Auftragsverwaltung, Verwaltungsbehörden des Bundes, Betretungsrecht und Probenahme
-
-
 
 ### § 10 Auftragsverwaltung
 
@@ -373,7 +351,6 @@ Gemeinschaften, die Sachbereiche dieses Gesetzes betreffen, soweit die
 Überwachung ihrer Durchführung den Mitgliedstaaten obliegt.
 
 (3) (weggefallen)
-
 
 ### § 11 Verwaltungsbehörden des Bundes
 
@@ -523,17 +500,13 @@ Abs. 1 Satz 2 anderen selbständigen Bundesoberbehörden und
 bundesunmittelbaren Körperschaften und Anstalten des öffentlichen
 Rechts übertragen.
 
-
 ### § 12 Betretungsrecht und Probenahme
 
 Die Beauftragten der zuständigen Behörden sind berechtigt, Grundstücke
 und Betriebs- und Geschäftsräume während der Betriebs- und Arbeitszeit
 zu betreten, die Radioaktivität zu ermitteln und Proben zu nehmen.
 
-
 ## Abschnitt 5 - Straf- und Bußgeldvorschriften
-
-
 
 ### § 13 Strafvorschriften
 
@@ -576,10 +549,6 @@ bestraft, wer
     (ABl. EU Nr. L 122 S. 1, Nr. L 138 S. 49), ein dort genanntes
     Erzeugnis in den freien Verkehr verbringt.
 
-
-
-
-
 ### § 14 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer eine der in § 13 bezeichneten
@@ -592,14 +561,12 @@ zuwiderhandelt.
 (3) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
 fünfzigtausend Euro geahndet werden.
 
-
 ### § 15 Einziehung
 
 Gegenstände, auf die sich eine Straftat nach § 13 oder eine
 Ordnungswidrigkeit nach § 14 bezieht, können eingezogen werden. § 74a
 des Strafgesetzbuches und § 23 des Gesetzes über Ordnungswidrigkeiten
 sind anzuwenden.
-
 
 ### (XXXX) §§ 16 bis 18 (weggefallen)
 

@@ -20,12 +20,10 @@ Fundstelle
 Geändert durch
 :   Art. 231 V v. 29.10.2001 I 2785
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -41,7 +39,6 @@ Konvention und die Erklärungen und Vorbehalte vom 14. Oktober 1994
 werden nachstehend mit einer amtlichen deutschen Übersetzung
 veröffentlicht.
 
-
 ## Art 2
 
 Das Bundesministerium für Wirtschaft und Technologie wird ermächtigt,
@@ -53,7 +50,6 @@ weltweiten Konferenzen für internationale Fernmeldedienste der
 Internationalen Fernmeldeunion beschließen, in Kraft zu setzen und
 Regelungen über die Verkündung der Vollzugsordnungen sowie ihrer
 Änderungen zu treffen.
-
 
 ## Art 3
 

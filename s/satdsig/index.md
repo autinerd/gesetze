@@ -16,9 +16,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 2590
 
-
 ## Teil 1 - Anwendungsbereich
-
 
 ### § 1 Anwendungsbereich
 
@@ -75,7 +73,6 @@ Drittstaates die Voraussetzungen des Satzes 2 erfüllen und eine
 völkerrechtliche Vereinbarung zwischen dem Drittstaat und der
 Bundesrepublik Deutschland besteht, in der die Vergleichbarkeit der
 Regelungen und Schutzinteressen festgestellt ist.
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -161,9 +158,7 @@ wesentlichen Sicherheitsinteressen der Bundesrepublik Deutschland, das
 friedliche Zusammenleben der Völker und die auswärtigen Beziehungen
 der Bundesrepublik Deutschland hat.
 
-
 ## Teil 2 - Betrieb eines hochwertigen Erdfernerkundungssystems
-
 
 ### § 3 Genehmigung
 
@@ -184,7 +179,6 @@ so hat die zuständige Behörde dies auf Antrag des Betreibers
 festzustellen. Entfällt nachträglich das Genehmigungserfordernis durch
 Änderung der Bestimmungen nach § 2 Abs. 2, so erlischt die
 Genehmigung.
-
 
 ### § 4 Genehmigungsvoraussetzungen
 
@@ -242,7 +236,6 @@ solcher Systeme haben, durch die zuständige Behörde einer einfachen
 Sicherheitsüberprüfung nach dem Sicherheitsüberprüfungsgesetz
 unterziehen zu lassen.
 
-
 ### § 5 Dokumentationspflicht
 
 (1) Der Betreiber eines hochwertigen Erdfernerkundungssystems ist
@@ -268,7 +261,6 @@ aufzuzeichnen.
 (2) Die Aufzeichnungen nach Absatz 1 sind mindestens fünf Jahre nach
 Ausführung der jeweiligen Befehlsfolge aufzubewahren und zur
 Einsichtnahme durch die zuständige Behörde bereitzuhalten.
-
 
 ### § 6 Anzeigepflicht
 
@@ -308,7 +300,6 @@ unverzüglich schriftlich anzuzeigen.
 zuständigen Behörde unverzüglich schriftlich anzuzeigen, an welche
 nach § 11 zugelassenen Personen er Daten übermittelt.
 
-
 ### § 7 Auskunftspflicht
 
 (1) Der Betreiber eines hochwertigen Erdfernerkundungssystems hat der
@@ -323,7 +314,6 @@ verweigern, deren Beantwortung sie selbst oder einen der in § 383 Abs.
 Gefahr einer strafrechtlichen Verfolgung oder eines Verfahrens nach
 dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
-
 ### § 8 Betretens- und Prüfungsrechte
 
 Die Beauftragten der zuständigen Behörde sind befugt, zu den üblichen
@@ -332,7 +322,6 @@ Betreibers eines hochwertigen Erdfernerkundungssystems zu betreten und
 die zur Erfüllung ihrer Aufgaben erforderlichen Prüfungen vorzunehmen;
 die §§ 196, 197 Abs. 1 Satz 1 und 2 und Abs. 2, §§ 198, 199 Abs. 2 und
 §§ 200 bis 202 der Abgabenordnung gelten entsprechend.
-
 
 ### § 9 Maßnahmen der zuständigen Behörde
 
@@ -357,7 +346,6 @@ erforderlich sind.
 Kosten einschließlich der diesem zu gewährenden Vergütung trägt der
 Betreiber des hochwertigen Erdfernerkundungssystems. Die zuständige
 Behörde setzt die Höhe der Vergütung fest.
-
 
 ### § 10 Erwerb von Unternehmen und Unternehmensbeteiligungen; Betriebsübernahme
 
@@ -398,12 +386,9 @@ weitere Betrieb des hochwertigen Erdfernerkundungssystems oder von
 Teilen des hochwertigen Erdfernerkundungssystems die wesentlichen
 Sicherheitsinteressen der Bundesrepublik Deutschland nicht gefährdet.
 
-
 ## Teil 3 - Verbreiten von Daten
 
-
 ### Kapitel 1 - Allgemeine Voraussetzungen
-
 
 #### § 11 Zulassung
 
@@ -414,7 +399,6 @@ Zulassung.
 erforderlich ist, um die Einhaltung der Zulassungsvoraussetzungen im
 Falle nachträglich eingetretener Tatsachen oder einer geänderten
 Rechtsvorschrift sicherzustellen.
-
 
 #### § 12 Zulassungsvoraussetzungen
 
@@ -450,7 +434,6 @@ hochwertigen Erdfernerkundungssystems haben, durch die zuständige
 Behörde einer einfachen Sicherheitsüberprüfung nach dem
 Sicherheitsüberprüfungsgesetz unterziehen zu lassen.
 
-
 #### § 13 Anzeigepflicht
 
 Der Datenanbieter hat der zuständigen Behörde
@@ -482,7 +465,6 @@ Der Datenanbieter hat der zuständigen Behörde
 
 unverzüglich schriftlich anzuzeigen.
 
-
 #### § 14 Auskunftspflicht
 
 (1) Der Datenanbieter hat der zuständigen Behörde auf Verlangen
@@ -496,7 +478,6 @@ deren Beantwortung ihn selbst oder einen der in § 383 Abs. 1 Nr. 1 bis
 strafrechtlichen Verfolgung oder eines Verfahrens nach dem Gesetz über
 Ordnungswidrigkeiten aussetzen würde.
 
-
 #### § 15 Betretens- und Prüfungsrechte
 
 Die Beauftragten der zuständigen Behörde sind befugt, zu den üblichen
@@ -505,7 +486,6 @@ Datenanbieters zu betreten und die zur Erfüllung ihrer Aufgaben
 erforderlichen Prüfungen durchzuführen; die §§ 196, 197 Abs. 1 Satz 1
 und 2 und Abs. 2, §§ 198, 199 Abs. 2 und §§ 200 bis 202 der
 Abgabenordnung gelten entsprechend.
-
 
 #### § 16 Maßnahmen der zuständigen Behörde
 
@@ -519,12 +499,7 @@ seiner Pflichten erforderlich sind. Sie kann insbesondere
 
 2.  vorübergehend das Verbreiten von Daten untersagen.
 
-
-
-
-
 ### Kapitel 2 - Verfahren des Verbreitens von Daten
-
 
 #### § 17 Sensitivitätsprüfung
 
@@ -590,7 +565,6 @@ Ermächtigung durch Rechtsverordnung ohne Zustimmung des Bundesrates
 ganz oder teilweise auf das Bundesamt für Wirtschaft und
 Ausfuhrkontrolle übertragen.
 
-
 #### § 18 Dokumentationspflicht
 
 (1) Der Datenanbieter ist verpflichtet, alle Anfragen auf Verbreiten
@@ -655,7 +629,6 @@ Erdfernerkundungssystems einsetzt. Absatz 2 gilt entsprechend.
 (4) Der Datenanbieter hat dem Anfragenden die Aufbewahrung der Daten
 und die Möglichkeit der behördlichen Einsichtnahme mitzuteilen.
 
-
 #### § 19 Erlaubnis
 
 (1) Will ein Datenanbieter eine sensitive Anfrage bedienen, bedarf er
@@ -672,7 +645,6 @@ Bundesrepublik Deutschland nicht erheblich stört.
 spätestens einen Monat nach Eingang entscheiden.
 
 (4) Die Erlaubnis wird unbeschadet privater Rechte Dritter erteilt.
-
 
 #### § 20 Sammelerlaubnis
 
@@ -696,9 +668,7 @@ Informationsgehalt die Daten höchstens haben dürfen. Eine
 Sammelerlaubnis nach Satz 1 Nr. 2 darf nur für eine bestimmte Frist
 erteilt werden, die drei Jahre nicht überschreiten soll.
 
-
 ## Teil 4 - Vorrangige Bedienung von Anfragen der Bundesrepublik Deutschland
-
 
 ### § 21 Verpflichtung des Datenanbieters
 
@@ -729,10 +699,6 @@ bedienen:
     Beeinträchtigung der äußeren Sicherheit der Bundesrepublik Deutschland
     entgegenwirken, gegenwärtig gefährdet sind.
 
-
-
-
-
 ### § 22 Verpflichtung des Betreibers
 
 Der Betreiber eines hochwertigen Erdfernerkundungssystems ist
@@ -745,7 +711,6 @@ erfolgen. Erfolgt diese dennoch bei dem Betreiber eines hochwertigen
 Erdfernerkundungssystems, bedarf dieser zum Verbreiten dieser Daten
 keiner Zulassung nach § 11.
 
-
 ### § 23 Vergütung
 
 (1) Unbeschadet der Verpflichtungen aus diesem Teil kann für die
@@ -756,9 +721,7 @@ durchschnittlichen Marktpreis entsprechen.
 (2) Weitergehende Ansprüche gegen die Bundesrepublik Deutschland sind
 ausgeschlossen.
 
-
 ## Teil 5 - Durchführungsvorschriften
-
 
 ### § 24 Zuständigkeit
 
@@ -775,7 +738,6 @@ Bundesministerium für Wirtschaft und Technologie ist im Einvernehmen
 mit dem Auswärtigen Amt und dem Bundesministerium der Verteidigung
 zuständig für eine Untersagung des Erwerbs von Unternehmen oder
 Unternehmensbeteiligungen nach § 10 Abs. 1 Satz 4.
-
 
 ### § 25 Verfahren
 
@@ -795,7 +757,6 @@ Unterlagen zum Umfang und Ablauf der Prüfung zur Verfügung.
 (3) Verwaltungsakte nach diesem Gesetz sind schriftlich zu erlassen
 und zuzustellen.
 
-
 ### § 26 Gebühren und Auslagen
 
 Für Amtshandlungen nach diesem Gesetz erhebt die zuständige Behörde
@@ -807,7 +768,6 @@ Rahmensätze vorzusehen. Die Gebührensätze sind so zu bemessen, dass
 die mit den Amtshandlungen verbundenen Kosten gedeckt sind. Die
 Bedeutung, der wirtschaftliche Wert oder sonstige Nutzen der
 Amtshandlung für den Begünstigten werden angemessen berücksichtigt.
-
 
 ### § 27 Übermittlung von personenbezogenen Daten, Betriebs- und Geschäftsgeheimnissen
 
@@ -854,9 +814,7 @@ Strafverfahrens nicht gefährdet werden kann.
 (3) Betriebs- und Geschäftsgeheimnisse stehen personenbezogenen Daten
 gleich.
 
-
 ## Teil 6 - Bußgeldvorschriften, Strafvorschriften
-
 
 ### § 28 Ordnungswidrigkeiten
 
@@ -930,7 +888,6 @@ Absatzes 1 Nr. 6 bis 8 mit einer Geldbuße bis zu fünfzigtausend Euro
 und in den Fällen des Absatzes 2 mit einer Geldbuße von bis zu
 fünfundzwanzigtausend Euro geahndet werden.
 
-
 ### § 29 Straftaten
 
 (1) Mit Freiheitsstrafe bis fünf Jahren oder mit Geldstrafe wird
@@ -951,12 +908,10 @@ zu gefährden.
 
 (2) Der Versuch ist strafbar.
 
-
 ### § 30 Auslandstaten Deutscher
 
 § 29 gilt, unabhängig vom Recht des Tatorts, auch im Ausland, wenn der
 Täter zur Zeit der Tat Deutscher ist.
-
 
 ### § 31 Straf- und Bußgeldverfahren
 
@@ -969,19 +924,15 @@ sowie § 76 Abs. 1 und 4 des Gesetzes über Ordnungswidrigkeiten über
 die Beteiligung der Verwaltungsbehörden im Verfahren der
 Staatsanwaltschaft und im gerichtlichen Verfahren entsprechend.
 
-
 ## Teil 7 - Übergangs- und Schlussbestimmungen
-
 
 ### § 32
 
 -
 
-
 ### § 33
 
 -
-
 
 ### § 34 Übergangsregelung
 
@@ -995,7 +946,6 @@ Inkrafttreten dieses Gesetzes gestellt wird.
 Die Pflichten des Datenanbieters nach § 17 Abs. 1 und § 19 Abs. 1
 gelten bis zum Inkrafttreten der Rechtsverordnung nach § 17 Abs. 3 als
 erfüllt.
-
 
 ### § 35 Inkrafttreten
 

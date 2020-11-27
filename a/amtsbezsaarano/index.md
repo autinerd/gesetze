@@ -16,15 +16,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1958, 460
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 37 Abs. 1 des Deutschen Beamtengesetzes in der im
 Saarland geltenden Fassung in Verbindung mit § 13 Abs. 4 des Gesetzes
 über die Eingliederung des Saarlandes vom 23. Dezember 1956
 (Bundesgesetzbl. I S. 1011) ordne ich an:
-
 
 ## I.
 
@@ -35,11 +32,9 @@ Bundesbesoldungsordnungen A und B - Anlage I zum
 Bundesbesoldungsgesetz vom 27. Juli 1957 (Bundesgesetzbl. I S. 993) -
 festzusetzen.
 
-
 ## II.
 
 Diese Anordnung tritt mit ihrer Verkündung in Kraft.
-
 
 ## Schlußformel
 

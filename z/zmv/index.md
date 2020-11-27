@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 215
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 191a Abs. 2 des Gerichtsverfassungsgesetzes in der
@@ -29,7 +27,6 @@ Abs. 8 des Gesetzes über Ordnungswidrigkeiten in der Fassung der
 Bekanntmachung vom 19. Februar 1987 (BGBl. I S. 602), der durch
 Artikel 1 Nr. 2 des Gesetzes vom 26. Juli 2002 (BGBl. I S. 2864, 3516)
 eingefügt worden ist, verordnet das Bundesministerium der Justiz:
-
 
 ## § 1 Anwendungsbereich
 
@@ -50,7 +47,6 @@ Verfolgungsbehörde und in den mit diesen Verfahren in Zusammenhang
 stehenden Vollstreckungsverfahren gegenüber der jeweils zuständigen
 Vollstreckungsbehörde.
 
-
 ## § 2 Gegenstand der Zugänglichmachung
 
 (1) Der Anspruch auf Zugänglichmachung nach § 191a Abs. 1 Satz 1 und
@@ -69,7 +65,6 @@ Dokumenten bleiben unberührt.
 berechtigte Personen aus anderen Rechtsvorschriften ergeben, bleiben
 unberührt.
 
-
 ## § 3 Formen der Zugänglichmachung
 
 (1) Die Dokumente können der berechtigten Person schriftlich,
@@ -87,7 +82,6 @@ eines elektronischen Dokuments. Dabei sind die Standards von § 3 der
 Barrierefreie Informationstechnikverordnung maßgebend. Das Dokument
 ist gegen unbefugte Kenntnisnahme zu schützen.
 
-
 ## § 4 Umfang des Anspruchs
 
 (1) Der Anspruch auf Zugänglichmachung besteht, soweit der
@@ -103,7 +97,6 @@ Person auf ihren Anspruch hinzuweisen.
 Verfahrens geltend gemacht werden. Es ist aktenkundig zu machen und im
 weiteren Verfahren von Amts wegen zu berücksichtigen.
 
-
 ## § 5 Mitwirkung der berechtigten Person
 
 Die berechtigte Person ist verpflichtet, bei der Wahrnehmung ihres
@@ -113,14 +106,12 @@ die nach § 1 Abs. 3 verpflichtete Stelle unverzüglich über ihre
 Blindheit oder Sehbehinderung in Kenntnis setzen und mitteilen, in
 welcher Form ihr die Dokumente zugänglich gemacht werden können.
 
-
 ## § 6 Ausführung der Zugänglichmachung
 
 Die berechtigte Person hat ein Wahlrecht zwischen den in § 3 genannten
 Formen der Zugänglichmachung. Die nach § 1 Abs. 3 verpflichtete Stelle
 hat die Zugänglichmachung in der von der berechtigten Person gewählten
 Form auszuführen.
-
 
 ## § 7 Zeitpunkt der Zugänglichmachung
 
@@ -131,7 +122,6 @@ Verzögerung ist unter Berücksichtigung der berechtigten Interessen der
 übrigen Verfahrensbeteiligten oder des Verfahrenszwecks nicht
 hinnehmbar.
 
-
 ## § 8 Organisation
 
 Die nach § 1 Abs. 3 verpflichtete Stelle kann die Übertragung der
@@ -139,12 +129,10 @@ Dokumente in eine Form, die die berechtigte Person wahrnehmen kann,
 und die Übermittlung der Dokumente an diese Person einer anderen
 Stelle übertragen.
 
-
 ## § 9 Inkrafttreten
 
 Die Verordnung tritt am ersten Tag des dritten auf die Verkündung
 folgenden Kalendermonats in Kraft.
-
 
 ## Schlussformel
 

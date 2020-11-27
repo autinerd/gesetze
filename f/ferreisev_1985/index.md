@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 18.6.2012 I 1300
 
-
 ## Eingangsformel
 
 Auf Grund des § 6 Abs. 1 Nr. 3 des Straßenverkehrsgesetzes in der im
@@ -26,7 +25,6 @@ Bundesgesetzblatt Teil III, Gliederungsnummer 9231-1, veröffentlichten
 bereinigten Fassung, der zuletzt durch das Gesetz von 6. April 1980
 (BGBl. I S. 413) geändert worden ist, wird mit Zustimmung des
 Bundesrates verordnet:
-
 
 ## § 1
 
@@ -235,10 +233,6 @@ außerhalb geschlossener Ortschaften in beiden Fahrtrichtungen:
 
     *   Neubrandenburger Ring bis Berlin.
 
-
-
-
-
 ## § 2
 
 (1) § 1 gilt nicht für Fahrzeuge
@@ -289,7 +283,6 @@ zur Prüfung auszuhändigen.
 Berücksichtigung der öffentlichen Sicherheit und Ordnung in Anspruch
 genommen werden.
 
-
 ## § 3
 
 (1) § 1 gilt ferner nicht für
@@ -330,7 +323,6 @@ genommen werden.
 Begleitpapiere mitzuführen und zuständigen Personen auf Verlangen zur
 Prüfung auszuhändigen.
 
-
 ## § 4
 
 (1) Die Straßenverkehrsbehörden können Ausnahmen vom Verbot des § 1 in
@@ -358,7 +350,6 @@ Stadtentwicklung zuständig.
 über die Erteilung der Ausnahmegenehmigung ist mitzuführen und auf
 Verlangen zuständigen Personen zur Prüfung auszuhändigen.
 
-
 ## § 5
 
 Ordnungswidrig im Sinne des § 24 des Straßenverkehrsgesetzes handelt,
@@ -374,10 +365,6 @@ wer vorsätzlich oder fahrlässig
     Ausnahmegenehmigung nicht mitführt oder zuständigen Personen auf
     Verlangen zur Prüfung nicht aushändigt.
 
-
-
-
-
 ## § 6
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
@@ -385,12 +372,10 @@ Verbindung mit Artikel 33 Abs. 2 des Kostenermächtigungs-
 Änderungsgesetzes vom 23. Juni 1970 (BGBl. I S. 805) auch im Land
 Berlin.
 
-
 ## § 7
 
 Diese Verordnung tritt am ersten Tage des auf die Verkündung folgenden
 Kalendermonats in Kraft.
-
 
 ## Schlußformel
 

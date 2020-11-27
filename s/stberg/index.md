@@ -21,18 +21,11 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 19 G v. 6.12.2011 I 2515
 
-
 ## Erster Teil - Vorschriften über die Hilfeleistung in Steuersachen
-
-
 
 ### Erster Abschnitt - Ausübung der Hilfe in Steuersachen
 
-
-
 #### Erster Unterabschnitt - Anwendungsbereich
-
-
 
 ##### § 1 Anwendungsbereich
 
@@ -86,10 +79,7 @@ Zulassung von Bevollmächtigten und Beiständen bleiben unberührt.
 (4) Das Berufsqualifikationsfeststellungsgesetz findet mit Ausnahme
 des § 17 keine Anwendung.
 
-
 #### Zweiter Unterabschnitt - Befugnis
-
-
 
 ##### § 2 Geschäftsmäßige Hilfeleistung
 
@@ -97,7 +87,6 @@ Die Hilfeleistung in Steuersachen darf geschäftsmäßig nur von Personen
 und Vereinigungen ausgeübt werden, die hierzu befugt sind. Dies gilt
 ohne Unterschied für hauptberufliche, nebenberufliche, entgeltliche
 oder unentgeltliche Tätigkeit.
-
 
 ##### § 3 Befugnis zu unbeschränkter Hilfeleistung in Steuersachen
 
@@ -117,10 +106,6 @@ Zur geschäftsmäßigen Hilfeleistung in Steuersachen sind befugt:
 
 
 4.  (weggefallen)
-
-
-
-
 
 ##### § 3a Befugnis zu vorübergehender und gelegentlicher Hilfeleistung in Steuersachen
 
@@ -313,7 +298,6 @@ und in der Schweiz zusammen und übermitteln auf Anfrage:
 § 83 dieses Gesetzes und § 30 der Abgabenordnung stehen dem nicht
 entgegen.
 
-
 ##### § 4 Befugnis zu beschränkter Hilfeleistung in Steuersachen
 
 Zur geschäftsmäßigen Hilfeleistung in Steuersachen sind ferner befugt:
@@ -480,13 +464,7 @@ Zur geschäftsmäßigen Hilfeleistung in Steuersachen sind ferner befugt:
     Vertrages oder der Antragstellung nach § 89 des
     Einkommensteuergesetzes Hilfe leisten.
 
-
-
-
-
 #### Dritter Unterabschnitt - Verbot und Untersagung
-
-
 
 ##### § 5 Verbot der unbefugten Hilfeleistung in Steuersachen, Missbrauch von Berufsbezeichnungen
 
@@ -519,7 +497,6 @@ das Bußgeldverfahren oder ein berufsaufsichtliches Verfahren
 zuständigen Stelle mitzuteilen; § 83 dieses Gesetzes und § 30 der
 Abgabenordnung stehen dem nicht entgegen.
 
-
 ##### § 6 Ausnahmen vom Verbot der unbefugten Hilfeleistung in Steuersachen
 
 Das Verbot des § 5 gilt nicht für
@@ -544,10 +521,6 @@ Das Verbot des § 5 gilt nicht für
     Erwerb einer gleichwertigen Vorbildung mindestens drei Jahre auf dem
     Gebiet des Buchhaltungswesens in einem Umfang von mindestens 16
     Wochenstunden praktisch tätig gewesen sind.
-
-
-
-
 
 ##### § 7 Untersagung der Hilfeleistung in Steuersachen
 
@@ -579,10 +552,7 @@ Person oder Vereinigung, deren Tätigkeit untersagt werden soll, ihre
 Geschäftsleitung hat, hilfsweise in deren Bezirk die Tätigkeit
 vorwiegend ausgeübt wird.
 
-
 #### Vierter Unterabschnitt - Sonstige Vorschriften
-
-
 
 ##### § 8 Werbung
 
@@ -607,14 +577,12 @@ Bilanzbuchhalter/Geprüfte Bilanzbuchhalterin“ oder
 Bezeichnung werben. Die genannten Personen dürfen dabei nicht gegen
 das Gesetz gegen den unlauteren Wettbewerb verstoßen.
 
-
 ##### § 9 Vergütung
 
 Die Abgabe oder Entgegennahme eines Teils der Gebühren oder sonstiger
 Vorteile für die Vermittlung von Aufträgen, gleichviel ob im
 Verhältnis zu einem Steuerberater oder Steuerbevollmächtigten oder zu
 einem Dritten gleich welcher Art, ist unzulässig.
-
 
 ##### § 9a Erfolgshonorar
 
@@ -668,7 +636,6 @@ Steuerbevollmächtigte keine höhere als die gesetzliche Vergütung
 fordern. Die Vorschriften des bürgerlichen Rechts über die
 ungerechtfertigte Bereicherung bleiben unberührt.
 
-
 ##### § 10 Mitteilungen über Pflichtverletzungen und andere Informationen
 
 (1) Werden den Finanzbehörden oder den Steuerberaterkammern Tatsachen
@@ -716,14 +683,12 @@ Maßgabe dieser Vorschrift auch an andere zuständige Stellen
 übermitteln, soweit ihre Kenntnis aus der Sicht der übermittelnden
 Stelle für die Verwirklichung der Rechtsfolgen erforderlich ist.
 
-
 ##### § 11 Erhebung und Verwendung personenbezogener Daten
 
 Soweit es zur Erfüllung der Aufgaben nach diesem Gesetz erforderlich
 ist, dürfen personenbezogene Daten erhoben und auch für Zwecke
 künftiger Verfahren verarbeitet und genutzt werden; § 83 dieses
 Gesetzes und § 30 der Abgabenordnung stehen dem nicht entgegen.
-
 
 ##### § 12 Hilfeleistung im Abgabenrecht fremder Staaten
 
@@ -733,14 +698,9 @@ geschäftsmäßigen Hilfe in Steuersachen befugt. Die entsprechenden
 Befugnisse Dritter auf Grund anderer Rechtsvorschriften bleiben
 unberührt.
 
-
 ### Zweiter Abschnitt - Lohnsteuerhilfevereine
 
-
-
 #### Erster Unterabschnitt - Aufgaben
-
-
 
 ##### § 13 Zweck und Tätigkeitsbereich
 
@@ -751,10 +711,7 @@ nach § 4 Nr. 11 für ihre Mitglieder.
 (2) Lohnsteuerhilfevereine bedürfen für ihre Tätigkeit der
 Anerkennung.
 
-
 #### Zweiter Unterabschnitt - Anerkennung
-
-
 
 ##### § 14 Voraussetzungen für die Anerkennung, Aufnahme der Tätigkeit
 
@@ -814,7 +771,6 @@ Haftpflichtgefahren (§ 25 Abs. 2) nachgewiesen wird.
 Nr. 11 darf erst nach der Anerkennung als Lohnsteuerhilfeverein
 aufgenommen werden.
 
-
 ##### § 15 Anerkennungsbehörde, Satzung
 
 (1) Für die Entscheidung über den Antrag auf Anerkennung als
@@ -829,25 +785,21 @@ Sitz des Vereins zuständigen Aufsichtsbehörde innerhalb eines Monats
 nach der Beschlußfassung anzuzeigen. Der Änderungsanzeige ist eine
 öffentlich beglaubigte Abschrift der jeweiligen Urkunde beizufügen.
 
-
 ##### § 16 Gebühren für die Anerkennung
 
 Für die Bearbeitung des Antrags auf Anerkennung als
 Lohnsteuerhilfeverein hat der Verein eine Gebühr von dreihundert Euro
 an die Aufsichtsbehörde zu zahlen.
 
-
 ##### § 17 Urkunde
 
 Über die Anerkennung als Lohnsteuerhilfeverein stellt die
 Aufsichtsbehörde eine Urkunde aus.
 
-
 ##### § 18 Bezeichnung "Lohnsteuerhilfeverein"
 
 Der Verein ist verpflichtet, die Bezeichnung "Lohnsteuerhilfeverein"
 in den Namen des Vereins aufzunehmen.
-
 
 ##### § 19 Erlöschen der Anerkennung
 
@@ -866,7 +818,6 @@ in den Namen des Vereins aufzunehmen.
 
 (2) Der Verzicht ist schriftlich gegenüber der Aufsichtsbehörde zu
 erklären.
-
 
 ##### § 20 Rücknahme und Widerruf der Anerkennung
 
@@ -911,10 +862,7 @@ nach der Anerkennung ergibt, daß sie hätte versagt werden müssen.
 (3) Vor der Rücknahme oder dem Widerruf ist der Lohnsteuerhilfeverein
 zu hören.
 
-
 #### Dritter Unterabschnitt - Pflichten
-
-
 
 ##### § 21 Aufzeichnungspflicht
 
@@ -941,7 +889,6 @@ Belegen und sonstigen Unterlagen entsprechend.
 
 (5) Sonstige Vorschriften über Aufzeichnungs- und
 Buchführungspflichten bleiben unberührt.
-
 
 ##### § 22 Geschäftsprüfung
 
@@ -1000,10 +947,6 @@ berichten.
 2.  innerhalb von sechs Monaten nach Erhalt des Prüfungsberichts den
     wesentlichen Inhalt der Prüfungsfeststellungen den Mitgliedern
     schriftlich bekanntzugeben.
-
-
-
-
 
 ##### § 23 Ausübung der Hilfeleistung in Steuersachen im Rahmen der Befugnis nach § 4 Nr. 11, Beratungsstellen
 
@@ -1068,7 +1011,6 @@ der Beratungsstellenleiter nach Überprüfung der in Absatz 3 genannten
 Voraussetzungen bei der zuständigen Aufsichtsbehörde (§ 27 Abs. 2) im
 Verzeichnis der Lohnsteuerhilfevereine eingetragen sind.
 
-
 ##### § 24 Abwicklung der schwebenden Steuersachen im Rahmen der Befugnis nach § 4 Nr. 11
 
 (1) Ist die Anerkennung als Lohnsteuerhilfeverein erloschen,
@@ -1085,7 +1027,6 @@ Monaten erteilt werden; sie kann jederzeit widerrufen werden.
 
 (4) § 70 Abs. 2 und 3 gilt sinngemäß.
 
-
 ##### § 25 Haftungsausschluß, Haftpflichtversicherung
 
 (1) Bei der Hilfeleistung in Steuersachen im Rahmen der Befugnis nach
@@ -1100,7 +1041,6 @@ Stelle im Sinne des § 117 Abs. 2 des Versicherungsvertragsgesetzes ist
 die Aufsichtsbehörde.
 
 (3) (weggefallen)
-
 
 ##### § 26 Allgemeine Pflichten der Lohnsteuerhilfevereine
 
@@ -1122,10 +1062,7 @@ Befugnis nach § 4 Nr. 11 sind auf die Dauer von zehn Jahren nach
 Abschluß der Tätigkeit des Vereins in der Steuersache des Mitgliedes
 aufzubewahren. § 66 ist sinngemäß anzuwenden.
 
-
 #### Vierter Unterabschnitt - Aufsicht
-
-
 
 ##### § 27 Aufsichtsbehörde
 
@@ -1143,7 +1080,6 @@ Lohnsteuerhilfevereins zuständigen Aufsichtsbehörde mitzuteilen.
 ihnen bekannten Tatsachen mit, die den Verdacht begründen, daß ein
 Lohnsteuerhilfeverein gegen Vorschriften dieses Gesetzes verstoßen
 hat.
-
 
 ##### § 28 Pflicht zum Erscheinen vor der Aufsichtsbehörde, Befugnisse der Aufsichtsbehörde
 
@@ -1167,7 +1103,6 @@ Einhaltung der in § 26 bezeichneten Pflichten nicht gewährleistet, so
 kann die Aufsichtsbehörde die Schließung dieser Beratungsstelle
 anordnen.
 
-
 ##### § 29 Teilnahme der Aufsichtsbehörde an Mitgliederversammlungen
 
 (1) Von bevorstehenden Mitgliederversammlungen ist die
@@ -1175,7 +1110,6 @@ Aufsichtsbehörde spätestens zwei Wochen vorher zu unterrichten.
 
 (2) Die Aufsichtsbehörde ist berechtigt, zur Teilnahme an der
 Mitgliederversammlung Vertreter zu entsenden.
-
 
 ##### § 30 Verzeichnis der Lohnsteuerhilfevereine
 
@@ -1193,10 +1127,7 @@ Mitgliederversammlung Vertreter zu entsenden.
 (2) Die Einsicht in das Verzeichnis ist jedem gestattet, der ein
 berechtigtes Interesse darlegt.
 
-
 #### Fünfter Unterabschnitt - Verordnungsermächtigung
-
-
 
 ##### § 31 Durchführungsbestimmungen zu den Vorschriften über die Lohnsteuerhilfevereine
 
@@ -1237,14 +1168,9 @@ Landesregierungen können die Ermächtigung durch Rechtsverordnung auf
 die jeweils für die Finanzverwaltung zuständige oberste Landesbehörde
 übertragen.
 
-
 ## Zweiter Teil - Steuerberaterordnung
 
-
-
 ### Erster Abschnitt - Allgemeine Vorschriften
-
-
 
 #### § 32 Steuerberater, Steuerbevollmächtigte und Steuerberatungsgesellschaften
 
@@ -1259,7 +1185,6 @@ sie üben einen freien Beruf aus. Ihre Tätigkeit ist kein Gewerbe.
 Anerkennung setzt den Nachweis voraus, daß die Gesellschaft von
 Steuerberatern verantwortlich geführt wird.
 
-
 #### § 33 Inhalt der Tätigkeit
 
 Steuerberater, Steuerbevollmächtigte und Steuerberatungsgesellschaften
@@ -1272,7 +1197,6 @@ Steuerordnungswidrigkeit sowie die Hilfeleistung bei der Erfüllung von
 Buchführungspflichten, die auf Grund von Steuergesetzen bestehen,
 insbesondere die Aufstellung von Steuerbilanzen und deren
 steuerrechtliche Beurteilung.
-
 
 #### § 34 Berufliche Niederlassung, weitere Beratungsstellen
 
@@ -1302,14 +1226,9 @@ Beratungsstelle zuständige Steuerberaterkammer zu hören. Eine
 Ausnahmegenehmigung ist nur für eine weitere Beratungsstelle des
 Steuerberaters oder Steuerbevollmächtigten zulässig.
 
-
 ### Zweiter Abschnitt - Voraussetzungen für die Berufsausübung
 
-
-
 #### Erster Unterabschnitt - Persönliche Voraussetzungen
-
-
 
 ##### § 35 Zulassung zur Prüfung, Befreiung von der Prüfung, organisatorische Durchführung der Prüfung, Abnahme der Prüfung, Wiederholung der Prüfung und Besetzung des Prüfungsausschusses
 
@@ -1336,7 +1255,6 @@ von der zuständigen Steuerberaterkammer schriftlich zu bescheinigen.
 organisatorische Durchführung der Prüfung sind Aufgaben der
 zuständigen Steuerberaterkammer. Die Abnahme der Prüfung ist Aufgabe
 des Prüfungsausschusses.
-
 
 ##### § 36 Voraussetzungen für die Zulassung zur Prüfung
 
@@ -1393,7 +1311,6 @@ Vordrucks zu erbringen, der gemäß § 158 Nr. 1 Buchstabe a eingeführt
 worden ist. Der Bewerber hat diese Unterlagen seinem Antrag auf
 Zulassung zur Prüfung beizufügen.
 
-
 ##### § 37 Steuerberaterprüfung
 
 (1) Mit der Prüfung hat der Bewerber darzutun, daß er in der Lage ist,
@@ -1439,7 +1356,6 @@ bundeseinheitlich bestimmt werden.
 
 Nicht erforderlich ist, dass sämtliche Gebiete Gegenstand der Prüfung
 sind.
-
 
 ##### § 37a Prüfung in Sonderfällen
 
@@ -1541,7 +1457,6 @@ die Berufsausübung der Betroffenen haben. § 83 dieses Gesetzes und §
 (5) Für die Prüfung in verkürzter Form und für die Eignungsprüfung
 gelten im Übrigen die Vorschriften für die Steuerberaterprüfung.
 
-
 ##### § 37b Zuständigkeit für die Zulassung zur Prüfung, für die Befreiung von der Prüfung, für die organisatorische Durchführung der Prüfung, für die Abnahme der Prüfung und für die Berufung und Abberufung des Prüfungsausschusses
 
 (1) Für die Zulassung zur Prüfung, für die Befreiung von der Prüfung
@@ -1583,7 +1498,6 @@ die Finanzverwaltung zuständigen obersten Landesbehörde einvernehmlich
 Mitglieder des Prüfungsausschusses und ihrer Stellvertreter erfolgt
 durch die für die Finanzverwaltung zuständige oberste Landesbehörde.
 Es können mehrere Prüfungsausschüsse gebildet werden.
-
 
 ##### § 38 Voraussetzungen für die Befreiung von der Prüfung
 
@@ -1656,7 +1570,6 @@ für den öffentlichen Dienst können erst nach dem Ausscheiden aus dem
 öffentlichen Dienst oder dem Dienstverhältnis als Angestellter einer
 Fraktion des Deutschen Bundestages von der Prüfung befreit werden.
 
-
 ##### § 38a Verbindliche Auskunft
 
 (1) Auf Antrag erteilt die zuständige Steuerberaterkammer eine
@@ -1665,7 +1578,6 @@ die Zulassung zur Prüfung oder für die Befreiung von der Prüfung.
 
 (2) Für die örtliche Zuständigkeit gilt § 37b Abs. 1 bis 3
 entsprechend.
-
 
 ##### § 39 Gebühren für Zulassung, Prüfung, Befreiung und verbindliche Auskunft, Kostenerstattung
 
@@ -1701,7 +1613,6 @@ von ihrer Zahlungsverpflichtung gegenüber den Mitgliedern des
 Prüfungsausschusses befreit. Für die Zahlungen nach den Sätzen 1 und 2
 kann die zuständige Steuerberaterkammer keinen Ersatz von der für die
 Finanzverwaltung zuständigen obersten Landesbehörde verlangen.
-
 
 ##### § 39a Rücknahme von Entscheidungen
 
@@ -1740,10 +1651,7 @@ Verfahrens.
 
 (3) Vor der Rücknahme ist der Betroffene zu hören.
 
-
 #### Zweiter Unterabschnitt - Bestellung
-
-
 
 ##### § 40 Bestellende Steuerberaterkammer, Bestellungsverfahren
 
@@ -1814,7 +1722,6 @@ eine Gebühr von fünfzig Euro an die zuständige Steuerberaterkammer zu
 zahlen, soweit nicht durch eine Gebührenordnung nach § 79 Abs. 2 etwas
 anderes bestimmt ist.
 
-
 ##### § 41 Berufsurkunde
 
 (1) Der Bewerber wird durch Aushändigung einer Urkunde als
@@ -1824,14 +1731,12 @@ Steuerberater bestellt.
 zuständigen Steuerberaterkammer die Versicherung abzugeben, daß er die
 Pflichten eines Steuerberaters gewissenhaft erfüllen wird.
 
-
 ##### § 42 Steuerbevollmächtigter
 
 Steuerbevollmächtigter ist, wer nach den Vorschriften dieses Gesetzes
 als solcher bestellt ist. Die Vorschriften für die Bestellung als
 Steuerberater sind bei der Bestellung als Steuerbevollmächtigter
 sinngemäß anzuwenden.
-
 
 ##### § 43 Berufsbezeichnung
 
@@ -1855,7 +1760,6 @@ dazu berechtigt ist. Es ist unzulässig, zum Hinweis auf eine
 steuerberatende Tätigkeit andere Bezeichnungen zu verwenden. Satz 2
 findet auf Rechtsanwälte, niedergelassene europäische Rechtsanwälte
 und Rechtsanwaltsgesellschaften keine Anwendung.
-
 
 ##### § 44 Bezeichnung "Landwirtschaftliche Buchstelle"
 
@@ -1920,7 +1824,6 @@ Euro an die zuständige Steuerberaterkammer zu zahlen, soweit nicht
 durch eine Gebührenordnung nach § 79 Abs. 2 etwas anderes bestimmt
 ist.
 
-
 ##### § 45 Erlöschen der Bestellung
 
 (1) Die Bestellung als Steuerberater oder Steuerbevollmächtigter
@@ -1949,7 +1852,6 @@ Steuerberaterkammer abgegeben.
 
 (2) Die Bestellung als Steuerbevollmächtigter erlischt ferner durch
 die Bestellung als Steuerberater.
-
 
 ##### § 46 Rücknahme und Widerruf der Bestellung
 
@@ -2023,7 +1925,6 @@ hören.
 
 (5) (weggefallen)
 
-
 ##### § 47 Erlöschen der Befugnis zur Führung der Berufsbezeichnung
 
 (1) Mit dem Erlöschen, der Rücknahme oder dem Widerruf der Bestellung
@@ -2046,7 +1947,6 @@ oder den Widerruf der Bestellung nach sich ziehen würden oder zur
 Ablehnung der Erlaubnis nach Absatz 2 Satz 1 hätten führen können. Vor
 der Rücknahme oder dem Widerruf der Erlaubnis ist der Betroffene zu
 hören.
-
 
 ##### § 48 Wiederbestellung
 
@@ -2080,10 +1980,7 @@ Bewerber eine Gebühr von einhundertfünfundzwanzig Euro an die
 zuständige Steuerberaterkammer zu zahlen, soweit nicht durch eine
 Gebührenordnung nach § 79 Abs. 2 etwas anderes bestimmt ist.
 
-
 #### Dritter Unterabschnitt - Steuerberatungsgesellschaft
-
-
 
 ##### § 49 Rechtsform der Gesellschaft, anerkennende Steuerberaterkammer, Gesellschaftsvertrag
 
@@ -2121,7 +2018,6 @@ beglaubigte Abschrift der jeweiligen Urkunde vor, reicht es aus, wenn
 nach Eintragung der Änderung im Handelsregister oder
 Partnerschaftsregister ein einfacher Ausdruck der Eintragung oder eine
 Kopie des Ausdrucks bei der Steuerberaterkammer eingereicht wird.
-
 
 ##### § 50 Voraussetzungen für die Anerkennung
 
@@ -2162,7 +2058,6 @@ beschränkter Haftung.
 (6) Die Anerkennung darf nicht erteilt werden, solange nicht die
 vorläufige Deckungszusage auf den Antrag zum Abschluß einer
 Berufshaftpflichtversicherung vorliegt.
-
 
 ##### § 50a Kapitalbindung
 
@@ -2218,7 +2113,6 @@ Steuerberatungsgesellschaft tätiger Personen und ihrer Hinterbliebenen
 dienen und die zur gesetzlichen Vertretung berufenen Organe der
 Regelung in § 50 Abs. 4 entsprechen.
 
-
 ##### § 51 Gebühren für die Anerkennung
 
 (1) Für die Bearbeitung des Antrags auf Anerkennung als
@@ -2234,12 +2128,10 @@ eine Gebührenordnung nach § 79 Abs. 2 etwas anderes bestimmt ist.
 
 (3)
 
-
 ##### § 52 Urkunde
 
 Über die Anerkennung als Steuerberatungsgesellschaft stellt die
 zuständige Steuerberaterkammer eine Urkunde aus.
-
 
 ##### § 53 Bezeichnung "Steuerberatungsgesellschaft"
 
@@ -2249,7 +2141,6 @@ Für eine Partnerschaftsgesellschaft entfällt die Pflicht nach § 2 Abs.
 1 des Partnerschaftsgesellschaftsgesetzes vom 25. Juli 1994 (BGBl. I
 S. 1744), zusätzlich die Berufsbezeichnungen aller in der
 Partnerschaft vertretenen Berufe in den Namen aufzunehmen.
-
 
 ##### § 54 Erlöschen der Anerkennung
 
@@ -2273,7 +2164,6 @@ bieten, einen oder mehrere Steuerberater oder Steuerbevollmächtigte
 insoweit zum Abwickler bestellen.
 
 (4) § 70 Abs. 1 bis 4 gilt entsprechend.
-
 
 ##### § 55 Rücknahme und Widerruf der Anerkennung
 
@@ -2317,10 +2207,7 @@ Gesellschafter bekanntgegeben werden.
 
 (5) § 54 Abs. 3 und § 70 Abs. 1 bis 4 gelten entsprechend.
 
-
 ### Dritter Abschnitt - Rechte und Pflichten
-
-
 
 #### § 56 Weitere berufliche Zusammenschlüsse
 
@@ -2366,7 +2253,6 @@ Berufsausübungsgemeinschaften eingehen (Kooperation). Sie sind
 verpflichtet sicherzustellen, dass bei der Kooperation ihre
 Berufspflichten eingehalten werden. Ist dies nicht gewährleistet, muss
 die Kooperation unverzüglich beendet werden.
-
 
 #### § 57 Allgemeine Berufspflichten
 
@@ -2431,16 +2317,11 @@ Steuerbevollmächtigten nicht vereinbar sind, gelten insbesondere
     Finanzverwaltung ist stets mit dem Beruf des Steuerberaters oder
     Steuerbevollmächtigten unvereinbar.
 
-
-
-
-
 #### § 57a Werbung
 
 Werbung ist nur erlaubt, soweit sie über die berufliche Tätigkeit in
 Form und Inhalt sachlich unterrichtet und nicht auf die Erteilung
 eines Auftrags im Einzelfall gerichtet ist.
-
 
 #### § 58 Tätigkeit als Angestellter
 
@@ -2513,10 +2394,6 @@ ausüben. Sie dürfen ferner tätig werden
     alle Mitglieder Angehörige europäischer steuerberatender,
     wirtschaftsprüfender oder rechtsberatender Berufe sind.
 
-
-
-
-
 #### § 59 Steuerberater oder Steuerbevollmächtigte im öffentlich-rechtlichen Dienst- oder Amtsverhältnis
 
 Ist ein Steuerberater oder Steuerbevollmächtigter ein öffentlich-
@@ -2528,7 +2405,6 @@ Die zuständige Steuerberaterkammer kann dem Steuerberater oder
 Steuerbevollmächtigten auf seinen Antrag einen Vertreter bestellen
 oder ihm gestatten, seinen Beruf selbst auszuüben, wenn die Einhaltung
 der allgemeinen Berufspflichten dadurch nicht gefährdet wird.
-
 
 #### § 60 Eigenverantwortlichkeit
 
@@ -2552,7 +2428,6 @@ Nr. 2 und 3 übt nicht aus, wer sich als zeichnungsberechtigter
 Vertreter oder als Angestellter an Weisungen zu halten hat, durch die
 ihm die Freiheit zu pflichtmäßigem Handeln (§ 57) genommen wird.
 
-
 #### § 61 Ehemalige Angehörige der Finanzverwaltung
 
 Ehemalige Beamte und Angestellte der Finanzverwaltung dürfen während
@@ -2561,13 +2436,11 @@ eines Zeitraums von drei Jahren nach dem Ausscheiden aus dem
 Steuerangelegenheiten sie innerhalb der letzten drei Jahre vor dem
 Ausscheiden materiell befaßt waren.
 
-
 #### § 62 Verschwiegenheitspflicht der Gehilfen
 
 Steuerberater und Steuerbevollmächtigte haben ihre Gehilfen, die nicht
 selbst Steuerberater oder Steuerbevollmächtigte sind, zur
 Verschwiegenheit zu verpflichten.
-
 
 #### § 63 Mitteilung der Ablehnung eines Auftrags
 
@@ -2576,7 +2449,6 @@ Anspruch genommen werden und den Auftrag nicht annehmen wollen, haben
 die Ablehnung unverzüglich zu erklären. Sie haben den Schaden zu
 ersetzen, der aus einer schuldhaften Verzögerung dieser Erklärung
 entsteht.
-
 
 #### § 64 Gebührenordnung
 
@@ -2612,7 +2484,6 @@ aufzuklären. Der neue Gläubiger oder Einziehungsermächtigte ist in
 gleicher Weise zur Verschwiegenheit verpflichtet wie der beauftragte
 Steuerberater oder Steuerbevollmächtigte.
 
-
 #### § 65 Pflicht zur Übernahme einer Prozeßvertretung
 
 Steuerberater haben im Verfahren vor den Gerichten der
@@ -2621,7 +2492,6 @@ wenn sie diesem zur vorläufig unentgeltlichen Wahrnehmung der Rechte
 auf Grund des § 142 der Finanzgerichtsordnung beigeordnet sind. Der
 Steuerberater kann beantragen, die Beiordnung aufzuheben, wenn hierfür
 wichtige Gründe vorliegen.
-
 
 #### § 66 Handakten
 
@@ -2653,7 +2523,6 @@ elektronischen Datenverarbeitung bedient. Die in anderen Gesetzen
 getroffenen Regelungen über die Pflicht zur Aufbewahrung von
 Geschäftsunterlagen bleiben unberührt.
 
-
 #### § 67 Berufshaftpflichtversicherung
 
 Selbständige Steuerberater und Steuerbevollmächtigte müssen gegen die
@@ -2668,7 +2537,6 @@ Steuerberatungsgesellschaft, soweit der Steuerberater,
 Steuerbevollmächtigte oder die Steuerberatungsgesellschaft kein
 überwiegendes schutzwürdiges Interesse an der Nichterteilung der
 Auskunft hat.
-
 
 #### § 67a Vertragliche Begrenzung von Ersatzansprüchen
 
@@ -2694,10 +2562,7 @@ beruflichen Befugnisse bearbeiten und namentlich bezeichnet sind. Die
 Zustimmungserklärung zu einer solchen Beschränkung darf keine anderen
 Erklärungen enthalten und muß vom Auftraggeber unterschrieben sein.
 
-
 #### § 68 (weggefallen)
-
-
 
 #### § 69 Bestellung eines allgemeinen Vertreters
 
@@ -2765,7 +2630,6 @@ hat. Das Gleiche gilt für Rechtshandlungen, die vor Eintragung der
 Löschung des verstorbenen Berufsangehörigen in das Berufsregister dem
 Vertreter gegenüber noch vorgenommen worden sind.
 
-
 #### § 70 Bestellung eines Praxisabwicklers
 
 (1) Ist ein Steuerberater oder Steuerbevollmächtigter gestorben, kann
@@ -2810,7 +2674,6 @@ nur für Rechnung der Erben.
 schriftliche Einwilligung der Erben oder des früheren Steuerberaters
 oder Steuerbevollmächtigten vor.
 
-
 #### § 71 Bestellung eines Praxistreuhänders
 
 (1) Soll die Praxis eines verstorbenen Steuerberaters oder
@@ -2837,7 +2700,6 @@ Bestellung verzichtet hat.
 
 (5) § 69 Abs. 6 gilt entsprechend.
 
-
 #### § 72 Steuerberatungsgesellschaften
 
 (1) Die §§ 34, 56 Abs. 2, §§ 57, 57a, 62 bis 64 und 66 bis 71 gelten
@@ -2850,10 +2712,7 @@ Steuerberater oder Steuerbevollmächtigte sind.
 oder Gesellschaftsvertrag vorgesehenen Aufsichtsorgane der
 Gesellschaften sind zur Verschwiegenheit verpflichtet.
 
-
 ### Vierter Abschnitt - Organisation des Berufs
-
-
 
 #### § 73 Steuerberaterkammer
 
@@ -2870,7 +2729,6 @@ bleiben die bisher gebildeten Kammern bestehen. Der vormalige
 Geschäftsbereich einer aufgelösten Oberfinanzdirektion gilt als
 Kammerbezirk fort, soweit die Landesregierung nichts anderes bestimmt.
 
-
 #### § 74 Mitgliedschaft
 
 (1) Mitglieder der Steuerberaterkammer sind außer Steuerberatern und
@@ -2885,7 +2743,6 @@ Steuerberater oder Steuerbevollmächtigte sind, die Mitglieder des
 Vorstandes, Geschäftsführer oder persönlich haftende Gesellschafter
 einer Steuerberatungsgesellschaft, die ihren Sitz im Kammerbezirk hat.
 
-
 #### § 75 Gemeinsame Steuerberaterkammer
 
 (1) Die Steuerberaterkammern können sich durch einen übereinstimmenden
@@ -2896,7 +2753,6 @@ Kammerbezirk gebildeten Steuerberaterkammern werden damit aufgelöst.
 
 (2) Ein Zusammenschluß für mehrere Länder ist nur zulässig, wenn eine
 Vereinbarung der beteiligten Länder vorliegt.
-
 
 #### § 76 Aufgaben der Steuerberaterkammer
 
@@ -2989,13 +2845,11 @@ Absatz 2 des Gesetzes über Ordnungswidrigkeiten die notwendigen
 Auslagen. Sie ist auch ersatzpflichtig im Sinne des § 110 Absatz 4 des
 Gesetzes über Ordnungswidrigkeiten.
 
-
 #### § 77 Vorstand
 
 Der Vorstand der Steuerberaterkammer wird von den Mitgliedern gewählt.
 Zum Mitglied des Vorstandes kann nur gewählt werden, wer persönliches
 Mitglied der Kammer ist.
-
 
 #### § 77a Abteilungen des Vorstandes
 
@@ -3023,12 +2877,10 @@ und Pflichten des Vorstandes.
 angemessen hält oder wenn die Abteilung oder ihr Vorsitzender es
 beantragt.
 
-
 #### § 78 Satzung
 
 Jede Steuerberaterkammer gibt sich ihre Satzung selbst. Die Satzung
 bedarf der Genehmigung der Aufsichtsbehörde.
-
 
 #### § 79 Beiträge und Gebühren
 
@@ -3053,7 +2905,6 @@ das jeweilige Verwaltungsgebührenrecht des Landes.
 
 (3) (weggefallen)
 
-
 #### § 80 Pflicht zum Erscheinen vor der Steuerberaterkammer
 
 (1) In Aufsichts- und Beschwerdesachen haben Mitglieder der
@@ -3074,7 +2925,6 @@ hinzuweisen.
 Kammerbezirk haben, nicht oder nicht mehr durch persönliche Mitglieder
 der Steuerberaterkammer vertreten sind, gilt Absatz 1 auch für deren
 gesetzliche Vertreter, die keine persönlichen Mitglieder sind.
-
 
 #### § 80a Zwangsgeld bei Verletzung von Mitwirkungspflichten
 
@@ -3110,7 +2960,6 @@ Festsetzungsbescheides nach den Vorschriften beigetrieben, die für die
 Vollstreckung von Urteilen in bürgerlichen Rechtsstreitigkeiten
 gelten.
 
-
 #### § 81 Rügerecht des Vorstands
 
 (1) Der Vorstand kann das Verhalten eines Mitglieds der
@@ -3139,7 +2988,6 @@ Steuerbevollmächtigtensachen besteht (§ 96).
 (5) Gegen den Bescheid kann das Mitglied binnen eines Monats nach der
 Zustellung bei dem Vorstand Einspruch erheben. Über den Einspruch
 entscheidet der Vorstand; Absatz 4 ist entsprechend anzuwenden.
-
 
 #### § 82 Antrag auf berufsgerichtliche Entscheidung
 
@@ -3192,7 +3040,6 @@ bis zum rechtskräftigen Abschluß des berufsgerichtlichen Verfahrens
 ausgesetzt. In den Fällen des § 91 Abs. 2 stellt das Landgericht nach
 Beendigung der Aussetzung fest, daß die Rüge unwirksam ist.
 
-
 #### § 83 Pflicht der Vorstandsmitglieder zur Verschwiegenheit
 
 (1) Die Mitglieder des Vorstandes haben - auch nach dem Ausscheiden
@@ -3220,7 +3067,6 @@ oder berechtigte Belange der Personen, über welche die Tatsachen
 bekanntgeworden sind, es unabweisbar fordern. § 28 Abs. 2 des Gesetzes
 über das Bundesverfassungsgericht bleibt unberührt.
 
-
 #### § 84 Arbeitsgemeinschaft
 
 (1) Mehrere Steuerberaterkammern können sich zu einer nicht
@@ -3236,7 +3082,6 @@ Angelegenheiten mitteilen, die zum Aufgabengebiet der
 Arbeitsgemeinschaft gehören. § 83 Abs. 1 gilt sinngemäß für die
 Personen, die für die Arbeitsgemeinschaft tätig werden.
 
-
 #### § 85 Bundessteuerberaterkammer
 
 (1) Die Steuerberaterkammern bilden eine Bundeskammer. Diese führt die
@@ -3251,7 +3096,6 @@ Bundessteuerberaterkammer ihre Satzung selbst. Die Satzung bedarf der
 Genehmigung der Aufsichtsbehörde.
 
 (4) Die Vorschrift des § 83 ist sinngemäß anzuwenden.
-
 
 #### § 86 Aufgaben der Bundessteuerberaterkammer
 
@@ -3369,10 +3213,6 @@ nähere Regelungen enthalten, insbesondere hinsichtlich
 
 17. der Ausbildung von Steuerfachgehilfen.
 
-
-
-
-
 #### § 86a Zusammensetzung und Arbeitsweise der Satzungsversammlung
 
 (1) Der Satzungsversammlung gehören als Mitglieder an: der Präsident
@@ -3423,14 +3263,12 @@ Bundessteuerberaterkammer zu verwahren ist.
 (8) Die Satzungsversammlung kann weitere Einzelheiten des Verfahrens
 in einer Geschäftsordnung regeln.
 
-
 #### § 87 Beiträge zur Bundessteuerberaterkammer
 
 Die Bundessteuerberaterkammer erhebt von den Steuerberaterkammern
 Beiträge nach Maßgabe einer Beitragsordnung. Die Beitragsordnung
 bedarf der Genehmigung durch die Aufsichtsbehörde. Die Höhe der
 Beiträge wird von der Mitgliederversammlung festgesetzt.
-
 
 #### § 87a Wirtschaftsplan, Rechnungslegung
 
@@ -3453,7 +3291,6 @@ der Anwendung der Vorschriften der Bundeshaushaltsordnung zuzulassen.
 (4) Für das Prüfungsrecht des Bundesrechnungshofes gilt § 111 Abs. 1
 der Bundeshaushaltsordnung.
 
-
 #### § 88 Staatsaufsicht
 
 (1) Die für die Finanzverwaltung zuständige oberste Landesbehörde
@@ -3468,14 +3305,9 @@ beachtet, insbesondere die den Steuerberaterkammern übertragenen
 Aufgaben erfüllt werden. Die Aufsichtsbehörden können die hierzu
 erforderlichen Anordnungen und Maßnahmen treffen.
 
-
 ### Fünfter Abschnitt - Berufsgerichtsbarkeit
 
-
-
 #### Erster Unterabschnitt - Die berufsgerichtliche Ahndung von Pflichtverletzungen
-
-
 
 ##### § 89 Ahndung einer Pflichtverletzung
 
@@ -3494,7 +3326,6 @@ bedeutsamen Weise zu beeinträchtigen.
 (3) Eine berufsgerichtliche Maßnahme kann nicht verhängt werden, wenn
 der Steuerberater oder Steuerbevollmächtigte zur Zeit der Tat der
 Berufsgerichtsbarkeit nicht unterstand.
-
 
 ##### § 90 Berufsgerichtliche Maßnahmen
 
@@ -3520,7 +3351,6 @@ Berufsgerichtsbarkeit nicht unterstand.
 (2) Die berufsgerichtlichen Maßnahmen des Verweises und der Geldbuße
 können nebeneinander verhängt werden.
 
-
 ##### § 91 Rüge und berufsgerichtliche Maßnahme
 
 (1) Der Einleitung eines berufsgerichtlichen Verfahrens gegen einen
@@ -3541,7 +3371,6 @@ unwirksam, wenn rechtskräftig die Eröffnung des Hauptverfahrens
 abgelehnt ist, weil eine schuldhafte Pflichtverletzung nicht
 festzustellen ist.
 
-
 ##### § 92 Anderweitige Ahndung
 
 Ist durch ein Gericht oder eine Behörde eine Strafe, eine
@@ -3554,7 +3383,6 @@ Steuerbevollmächtigten zur Erfüllung seiner Pflichten anzuhalten und
 das Ansehen des Berufs zu wahren. Der Ausschließung steht eine
 anderweitig verhängte Strafe oder Maßnahme nicht entgegen.
 
-
 ##### § 93 Verjährung der Verfolgung einer Pflichtverletzung
 
 (1) Die Verfolgung einer Pflichtverletzung, die nicht die
@@ -3565,7 +3393,6 @@ Strafgesetzbuchs gelten entsprechend.
 (2) Ist vor Ablauf der Verjährungsfrist nach Absatz 1 Satz 1 wegen
 desselben Sachverhalts ein Strafverfahren eingeleitet worden, ist der
 Ablauf der Verjährungsfrist für die Dauer des Strafverfahrens gehemmt.
-
 
 ##### § 94 Vorschriften für Mitglieder der Steuerberaterkammer, die nicht Steuerberater oder Steuerbevollmächtigte sind
 
@@ -3582,10 +3409,7 @@ führen.
 ehrenamtlicher Richter vorgesehen ist, entscheiden die Berufsgerichte
 in der gleichen Besetzung wie in Steuerberatersachen.
 
-
 #### Zweiter Unterabschnitt - Die Gerichte
-
-
 
 ##### § 95 Kammer für Steuerberater- und Steuerbevollmächtigtensachen beim Landgericht
 
@@ -3612,7 +3436,6 @@ Mitgliedern des Landgerichts mit Einschluß des Vorsitzenden. In der
 Hauptverhandlung ist sie mit dem Vorsitzenden und zwei Steuerberatern
 oder Steuerbevollmächtigten als Beisitzern besetzt.
 
-
 ##### § 96 Senat für Steuerberater- und Steuerbevollmächtigtensachen beim Oberlandesgericht
 
 (1) In dem berufsgerichtlichen Verfahren entscheidet im zweiten
@@ -3629,7 +3452,6 @@ Mitgliedern des Oberlandesgerichts mit Einschluß des Vorsitzenden. In
 der Hauptverhandlung wirken außerdem als Beisitzer zwei Steuerberater
 oder Steuerbevollmächtigte mit.
 
-
 ##### § 97 Senat für Steuerberater- und Steuerbevollmächtigtensachen beim Bundesgerichtshof
 
 (1) In dem berufsgerichtlichen Verfahren entscheidet im dritten
@@ -3641,10 +3463,7 @@ besteht aus einem Vorsitzenden sowie zwei Mitgliedern des
 Bundesgerichtshofs und zwei Steuerberatern oder Steuerbevollmächtigten
 als Beisitzern.
 
-
 ##### § 98 (weggefallen)
-
-
 
 ##### § 99 Steuerberater oder Steuerbevollmächtigte als Beisitzer
 
@@ -3679,7 +3498,6 @@ Landesjustizverwaltung das Bundesministerium der Justiz treten.
 (7) Die Landesjustizverwaltung kann die Befugnisse, die ihr nach den
 Absätzen 2 und 3 zustehen, auf nachgeordnete Behörden übertragen.
 
-
 ##### § 100 Voraussetzungen für die Berufung zum Beisitzer und Recht zur Ablehnung
 
 (1) Zum ehrenamtlichen Richter kann nur ein Steuerberater oder
@@ -3704,10 +3522,6 @@ Nebenberuf tätig sein.
 
 
 3.  wer in gesundheitlicher Hinsicht beeinträchtigt ist.
-
-
-
-
 
 ##### § 101 Enthebung vom Amt des Beisitzers
 
@@ -3739,7 +3553,6 @@ mitwirken.
 (3) Vor der Entscheidung ist der Steuerberater oder
 Steuerbevollmächtigte zu hören.
 
-
 ##### § 102 Stellung der ehrenamtlichen Richter und Pflicht zur Verschwiegenheit
 
 (1) Die Steuerberater oder Steuerbevollmächtigten haben in der
@@ -3752,7 +3565,6 @@ Richter bekanntwerden, Verschwiegenheit gegen jedermann zu bewahren. §
 83 Abs. 2 und 3 ist entsprechend anzuwenden. Die Genehmigung zur
 Aussage erteilt der Präsident des Gerichts.
 
-
 ##### § 103 Reihenfolge der Teilnahme an den Sitzungen
 
 Die ehrenamtlichen Richter sind zu den einzelnen Sitzungen in der
@@ -3760,26 +3572,19 @@ Reihenfolge einer Liste heranzuziehen, die der Präsident des Gerichts
 nach Anhörung der beiden ältesten ehrenamtlichen Richter vor Beginn
 des Geschäftsjahres aufstellt.
 
-
 ##### § 104 Entschädigung der ehrenamtlichen Richter
 
 Die ehrenamtlichen Richter erhalten eine Entschädigung nach dem
 Justizvergütungs- und -entschädigungsgesetz.
 
-
 #### Dritter Unterabschnitt - Verfahrensvorschriften
 
-
-
 ##### 1. - Allgemeines
-
-
 
 ###### § 105 Vorschriften für das Verfahren
 
 Für das berufsgerichtliche Verfahren gelten die nachstehenden
 Vorschriften.
-
 
 ###### § 106 Keine Verhaftung des Steuerberaters oder Steuerbevollmächtigten
 
@@ -3788,7 +3593,6 @@ berufsgerichtlichen Verfahrens weder vorläufig festgenommen noch
 verhaftet oder vorgeführt werden. Er kann nicht zur Vorbereitung eines
 Gutachtens über seinen psychischen Zustand in ein psychiatrisches
 Krankenhaus gebracht werden.
-
 
 ###### § 107 Verteidigung
 
@@ -3800,7 +3604,6 @@ oder Steuerbevollmächtigte gewählt werden.
 (2) § 140 Abs. 1 Nr. 1 bis 3, 6 und 7 der Strafprozeßordnung ist auf
 die Verteidigung im berufsgerichtlichen Verfahren nicht anzuwenden.
 
-
 ###### § 108 Akteneinsicht des Steuerberaters oder Steuerbevollmächtigten
 
 Der Vorstand der Steuerberaterkammer und der Steuerberater oder
@@ -3809,7 +3612,6 @@ vorliegen oder diesem im Falle der Einreichung einer
 Anschuldigungsschrift vorzulegen wären, einzusehen sowie amtlich
 verwahrte Beweisstücke zu besichtigen. § 147 Abs. 2 Satz 1, Abs. 3, 5
 und 6 der Strafprozeßordnung ist insoweit entsprechend anzuwenden.
-
 
 ###### § 109 Verhältnis des berufsgerichtlichen Verfahrens zum Straf- oder Bußgeldverfahren
 
@@ -3855,7 +3657,6 @@ Wiederaufnahme des Verfahrens kann die Staatsanwaltschaft, der
 Steuerberater oder der Steuerbevollmächtigte binnen eines Monats nach
 Rechtskraft des Urteils im strafgerichtlichen Verfahren stellen.
 
-
 ###### § 110 Verhältnis des berufsgerichtlichen Verfahrens zu den Verfahren anderer Berufsgerichtsbarkeiten
 
 (1) Über eine Pflichtverletzung eines Steuerberaters oder
@@ -3892,7 +3693,6 @@ Steuerbevollmächtigte, die in einem öffentlich-rechtlichen Dienst-
 oder Amtsverhältnis stehen und ihren Beruf als Steuerberater oder
 Steuerbevollmächtigter nicht ausüben dürfen (§ 59), nicht anzuwenden.
 
-
 ###### § 111 Aussetzung des berufsgerichtlichen Verfahrens
 
 Das berufsgerichtliche Verfahren kann ausgesetzt werden, wenn in einem
@@ -3900,10 +3700,7 @@ anderen gesetzlich geordneten Verfahren über eine Frage zu entscheiden
 ist, deren Beurteilung für die Entscheidung im berufsgerichtlichen
 Verfahren von wesentlicher Bedeutung ist.
 
-
 ##### 2. - Das Verfahren im ersten Rechtszug
-
-
 
 ###### § 112 Örtliche Zuständigkeit
 
@@ -3914,7 +3711,6 @@ Verfahrens angehört. Die Verlegung der beruflichen Niederlassung nach
 diesem Zeitpunkt in einen anderen Kammerbezirk führt nicht zu einem
 Wechsel der Zuständigkeit.
 
-
 ###### § 113 Mitwirkung der Staatsanwaltschaft
 
 Die Staatsanwaltschaft bei dem Oberlandesgericht, bei dem der Senat
@@ -3922,13 +3718,11 @@ für Steuerberater- und Steuerbevollmächtigtensachen besteht, nimmt in
 den Verfahren vor der Kammer für Steuerberater- und
 Steuerbevollmächtigtensachen die Aufgaben der Staatsanwaltschaft wahr.
 
-
 ###### § 114 Einleitung des berufsgerichtlichen Verfahrens
 
 Das berufsgerichtliche Verfahren wird dadurch eingeleitet, daß die
 Staatsanwaltschaft eine Anschuldigungsschrift bei dem Landgericht
 einreicht.
-
 
 ###### § 115 Gerichtliche Entscheidung über die Einleitung des Verfahrens
 
@@ -3949,7 +3743,6 @@ Verfahrens begründen sollen, und die Beweismittel angeben.
 Strafprozeßordnung entsprechend anzuwenden.
 
 (4) § 172 der Strafprozeßordnung ist nicht anzuwenden.
-
 
 ###### § 116 Antrag des Steuerberaters oder Steuerbevollmächtigten auf Einleitung des berufsgerichtlichen Verfahrens
 
@@ -3989,7 +3782,6 @@ Beweismittel wegen desselben Verhaltens ein Antrag auf Einleitung des
 berufsgerichtlichen Verfahrens gestellt oder eine Rüge durch den
 Vorstand der Steuerberaterkammer erteilt werden.
 
-
 ###### § 117 Inhalt der Anschuldigungsschrift
 
 In der Anschuldigungsschrift (§ 114 dieses Gesetzes sowie § 207 Abs. 3
@@ -4001,7 +3793,6 @@ der Hauptverhandlung Beweise erhoben werden sollen. Die
 Anschuldigungsschrift enthält den Antrag, das Hauptverfahren vor der
 Kammer für Steuerberater- und Steuerbevollmächtigtensachen beim
 Landgericht zu eröffnen.
-
 
 ###### § 118 Entscheidung über die Eröffnung des Hauptverfahrens
 
@@ -4017,7 +3808,6 @@ angefochten werden.
 abgelehnt wird, ist zu begründen. Gegen den Beschluß steht der
 Staatsanwaltschaft die sofortige Beschwerde zu.
 
-
 ###### § 119 Rechtskraftwirkung eines ablehnenden Beschlusses
 
 Ist die Eröffnung des Hauptverfahrens durch einen nicht mehr
@@ -4026,14 +3816,12 @@ berufsgerichtlichen Verfahrens nur auf Grund neuer Tatsachen oder
 Beweismittel und nur innerhalb von fünf Jahren, seitdem der Beschluß
 rechtskräftig geworden ist, erneut gestellt werden.
 
-
 ###### § 120 Zustellung des Eröffnungsbeschlusses
 
 Der Beschluß über die Eröffnung des Hauptverfahrens ist dem
 Steuerberater oder Steuerbevollmächtigten spätestens mit der Ladung
 zuzustellen. Entsprechendes gilt in den Fällen des § 207 Abs. 3 der
 Strafprozeßordnung für die nachgereichte Anschuldigungsschrift.
-
 
 ###### § 121 Hauptverhandlung trotz Ausbleibens des Steuerberaters oder Steuerbevollmächtigten
 
@@ -4042,7 +3830,6 @@ Steuerbevollmächtigten, der nicht erschienen ist, durchgeführt werden,
 wenn er ordnungsmäßig geladen und in der Ladung darauf hingewiesen
 ist, daß in seiner Abwesenheit verhandelt werden kann. Eine
 öffentliche Ladung ist nicht zulässig.
-
 
 ###### § 122 Nichtöffentliche Hauptverhandlung
 
@@ -4063,7 +3850,6 @@ sind als Zuhörer zugelassen. Die Kammer für Steuerberater- und
 Steuerbevollmächtigtensachen beim Landgericht kann nach Anhörung der
 Beteiligten auch andere Personen als Zuhörer zulassen.
 
-
 ###### § 123 Beweisaufnahme durch einen ersuchten Richter
 
 Die Kammer für Steuerberater- und Steuerbevollmächtigtensachen beim
@@ -4074,7 +3860,6 @@ Steuerbevollmächtigten in der Hauptverhandlung zu vernehmen, es sei
 denn, daß er voraussichtlich am Erscheinen in der Hauptverhandlung
 verhindert ist oder ihm das Erscheinen wegen großer Entfernung nicht
 zugemutet werden kann.
-
 
 ###### § 124 Verlesen von Protokollen
 
@@ -4100,7 +3885,6 @@ Steuerbevollmächtigte kann jedoch der Verlesung widersprechen, wenn
 ein Antrag gemäß § 123 Satz 2 abgelehnt worden ist und Gründe für die
 Ablehnung des Antrags jetzt nicht mehr bestehen.
 
-
 ###### § 125 Entscheidung
 
 (1) Die Hauptverhandlung schließt mit der auf die Beratung folgenden
@@ -4118,20 +3902,13 @@ des Verfahrens.
 
 2.  wenn nach § 92 von einer berufsgerichtlichen Ahndung abzusehen ist.
 
-
-
-
-
 ##### 3. - Rechtsmittel
-
-
 
 ###### § 126 Beschwerde
 
 Für die Verhandlungen und Entscheidungen über Beschwerden ist der
 Senat für Steuerberater- und Steuerbevollmächtigtensachen beim
 Oberlandesgericht zuständig.
-
 
 ###### § 127 Berufung
 
@@ -4158,13 +3935,11 @@ Steuerberater oder Steuerbevollmächtigte ordnungsgemäß geladen und in
 der Ladung ausdrücklich auf die sich aus seiner Abwesenheit ergebende
 Rechtsfolge hingewiesen wurde.
 
-
 ###### § 128 Mitwirkung der Staatsanwaltschaft im zweiten Rechtszug
 
 Die Aufgaben der Staatsanwaltschaft im zweiten Rechtszug werden von
 der Staatsanwaltschaft bei dem Oberlandesgericht wahrgenommen, bei dem
 der Senat für Steuerberater- und Steuerbevollmächtigtensachen besteht.
-
 
 ###### § 129 Revision
 
@@ -4207,7 +3982,6 @@ Bundesgerichtshof wird das Urteil rechtskräftig. Wird der Beschwerde
 stattgegeben, so beginnt mit Zustellung des Beschwerdebescheides die
 Revisionsfrist.
 
-
 ###### § 130 Einlegung der Revision und Verfahren
 
 (1) Die Revision ist binnen einer Woche bei dem Oberlandesgericht
@@ -4226,16 +4000,12 @@ und 125 Abs. 3 dieses Gesetzes sinngemäß anzuwenden. In den Fällen des
 § 354 Abs. 2 der Strafprozeßordnung kann die Sache auch an das
 Oberlandesgericht eines anderen Landes zurückverwiesen werden.
 
-
 ###### § 131 Mitwirkung der Staatsanwaltschaft vor dem Bundesgerichtshof
 
 Die Aufgaben der Staatsanwaltschaft in den Verfahren vor dem
 Bundesgerichtshof werden von dem Generalbundesanwalt wahrgenommen.
 
-
 ##### 4. - Die Sicherung von Beweisen
-
-
 
 ###### § 132 Anordnung der Beweissicherung
 
@@ -4251,7 +4021,6 @@ nicht angefochten werden.
 Steuerbevollmächtigtensachen beim Landgericht aufgenommen. Die Kammer
 für Steuerberater- und Steuerbevollmächtigtensachen kann eines ihrer
 berufsrichterlichen Mitglieder mit der Beweisaufnahme beauftragen.
-
 
 ###### § 133 Verfahren
 
@@ -4274,10 +4043,7 @@ Beweissicherung anberaumt werden, steht dem früheren Steuerberater
 oder Steuerbevollmächtigten nur zu, wenn er sich im Inland aufhält und
 seine Anschrift dem Landgericht angezeigt hat.
 
-
 ##### 5. - Das Berufs- und Vertretungsverbot
-
-
 
 ###### § 134 Voraussetzung des Verbots
 
@@ -4296,7 +4062,6 @@ wird, sowie die Beweismittel anzugeben.
 das über die Eröffnung des Hauptverfahrens gegen den Steuerberater
 oder Steuerbevollmächtigten zu entscheiden hat oder vor dem das
 berufsgerichtliche Verfahren anhängig ist.
-
 
 ###### § 135 Mündliche Verhandlung
 
@@ -4319,12 +4084,10 @@ Anschuldigungsschrift bereits mitgeteilt worden ist.
 pflichtmäßigem Ermessen, ohne an Anträge der Staatsanwaltschaft oder
 des Steuerberaters oder Steuerbevollmächtigten gebunden zu sein.
 
-
 ###### § 136 Abstimmung über das Verbot
 
 Zur Verhängung des Berufs- oder Vertretungsverbots ist eine Mehrheit
 von zwei Dritteln der Stimmen erforderlich.
-
 
 ###### § 137 Verbot im Anschluß an die Hauptverhandlung
 
@@ -4334,12 +4097,10 @@ Verhängung des Berufs- oder Vertretungsverbots verhandeln und
 entscheiden. Dies gilt auch dann, wenn der Steuerberater oder
 Steuerbevollmächtigte zu der Hauptverhandlung nicht erschienen ist.
 
-
 ###### § 138 Zustellung des Beschlusses
 
 Der Beschluß ist mit Gründen zu versehen. Er ist dem Steuerberater
 oder Steuerbevollmächtigten zuzustellen.
-
 
 ###### § 139 Wirkungen des Verbots
 
@@ -4364,7 +4125,6 @@ Steuerbevollmächtigten wird durch das Berufs- oder Vertretungsverbot
 nicht berührt. Das gleiche gilt für Rechtshandlungen, die ihm
 gegenüber vorgenommen werden.
 
-
 ###### § 140 Zuwiderhandlungen gegen das Verbot
 
 (1) Der Steuerberater oder Steuerbevollmächtigte, der einem gegen ihn
@@ -4376,7 +4136,6 @@ erscheint.
 (2) Gerichte oder Behörden sollen einen Steuerberater oder
 Steuerbevollmächtigten, der entgegen einem Berufs- oder
 Vertretungsverbot vor ihnen auftritt, zurückweisen.
-
 
 ###### § 141 Beschwerde
 
@@ -4396,7 +4155,6 @@ Bundesgerichtshof. Für das Verfahren gelten neben den Vorschriften der
 Strafprozeßordnung über die Beschwerde § 135 Abs. 1, 2 und 4 sowie die
 §§ 136 und 138 dieses Gesetzes entsprechend.
 
-
 ###### § 142 Außerkrafttreten des Verbots
 
 Das Berufs- oder Vertretungsverbot tritt außer Kraft,
@@ -4406,10 +4164,6 @@ Das Berufs- oder Vertretungsverbot tritt außer Kraft,
 
 2.  wenn die Eröffnung des Hauptverfahrens vor der Kammer für
     Steuerberater- und Steuerbevollmächtigtensachen abgelehnt wird.
-
-
-
-
 
 ###### § 143 Aufhebung des Verbots
 
@@ -4427,7 +4181,6 @@ sofortige Beschwerde des Beschuldigten nach § 141 Abs. 1 noch nicht
 entschieden ist. Gegen den Beschluß, durch den der Antrag abgelehnt
 wird, ist eine Beschwerde nicht zulässig.
 
-
 ###### § 144 Mitteilung des Verbots
 
 (1) Der Beschluß, durch den ein Berufs- oder Vertretungsverbot
@@ -4436,7 +4189,6 @@ Steuerberaterkammer in beglaubigter Abschrift mitzuteilen.
 
 (2) Tritt das Berufs- oder Vertretungsverbot außer Kraft oder wird es
 aufgehoben oder abgeändert, so ist Absatz 1 entsprechend anzuwenden.
-
 
 ###### § 145 Bestellung eines Vertreters
 
@@ -4455,10 +4207,7 @@ Bestellung zu hören; er kann einen geeigneten Vertreter vorschlagen.
 
 (5)
 
-
 #### Vierter Unterabschnitt - Die Kosten in dem berufsgerichtlichen und in dem Verfahren bei Anträgen auf berufsgerichtliche Entscheidung über die Rüge. Die Vollstreckung der berufsgerichtlichen Maßnahmen und der Kosten. Die Tilgung.
-
-
 
 ##### § 146 Gerichtskosten
 
@@ -4467,7 +4216,6 @@ Entscheidung des Landgerichts über die Rüge (§ 82 Abs. 1) werden
 Gebühren nach dem Gebührenverzeichnis der Anlage zu diesem Gesetz
 erhoben. Im Übrigen sind die für Kosten in Strafsachen geltenden
 Vorschriften des Gerichtskostengesetzes entsprechend anzuwenden.
-
 
 ##### § 147 Kosten bei Anträgen auf Einleitung des berufsgerichtlichen Verfahrens
 
@@ -4480,7 +4228,6 @@ Verfahren entstandenen Kosten aufzuerlegen.
 gerichtliche Entscheidung in dem Fall des § 115 Abs. 2 verworfen, so
 sind die durch das Verfahren über den Antrag veranlaßten Kosten der
 Steuerberaterkammer aufzuerlegen.
-
 
 ##### § 148 Kostenpflicht des Verurteilten
 
@@ -4506,7 +4253,6 @@ angemessener Teil dieser Kosten auferlegt werden.
 durch ein rechtskräftiges Urteil abgeschlossenen Verfahrens verursacht
 worden sind, ist Absatz 2 entsprechend anzuwenden.
 
-
 ##### § 149 Kostenpflicht in dem Verfahren bei Anträgen auf berufsgerichtliche Entscheidung über die Rüge
 
 (1) Wird der Antrag auf berufsgerichtliche Entscheidung über die Rüge
@@ -4530,7 +4276,6 @@ Satz 2 festgestellt (§ 82 Abs. 5 Satz 2), so sind die notwendigen
 Auslagen des Steuerberaters oder Steuerbevollmächtigten der
 Steuerberaterkammer aufzuerlegen.
 
-
 ##### § 150 Haftung der Steuerberaterkammer
 
 Auslagen, die weder dem Steuerberater oder Steuerbevollmächtigten noch
@@ -4538,7 +4283,6 @@ einem Dritten auferlegt oder von dem Steuerberater oder
 Steuerbevollmächtigten nicht eingezogen werden können, fallen der
 Steuerberaterkammer zur Last, welcher der Steuerberater oder
 Steuerbevollmächtigte angehört.
-
 
 ##### § 151 Vollstreckung der berufsgerichtlichen Maßnahmen und der Kosten
 
@@ -4557,7 +4301,6 @@ Steuerbevollmächtigte nach rechtskräftigem Abschluß des Verfahrens aus
 dem Beruf ausgeschieden ist. Werden zusammen mit einer Geldbuße die
 Kosten beigetrieben, so gelten auch für die Kosten die Vorschriften
 über die Vollstreckung der Geldbuße.
-
 
 ##### § 152 Tilgung
 
@@ -4588,10 +4331,7 @@ betroffen.
 (5) Die Absätze 1 bis 4 gelten für Rügen des Vorstandes der
 Steuerberaterkammer entsprechend. Die Frist beträgt fünf Jahre.
 
-
 #### Fünfter Unterabschnitt - Für die Berufsgerichtsbarkeit anzuwendende Vorschriften
-
-
 
 ##### § 153
 
@@ -4599,10 +4339,7 @@ Für die Berufsgerichtsbarkeit sind ergänzend das
 Gerichtsverfassungsgesetz und die Strafprozeßordnung sinngemäß
 anzuwenden.
 
-
 ### Sechster Abschnitt - Übergangsvorschriften
-
-
 
 #### § 154 Bestehende Gesellschaften
 
@@ -4649,10 +4386,6 @@ der Anwendung des Satzes 1 abgesehen werden, wenn
     auf einen Strukturwandel im landwirtschaftlichen Bereich
     zurückzuführen ist.
 
-
-
-
-
 #### § 155 Übergangsvorschriften aus Anlass des Vierten Gesetzes zur Änderung des Steuerberatungsgesetzes
 
 (1) Gesellschaften und Personenvereinigungen, die nach § 4 Nr. 8 in
@@ -4681,7 +4414,6 @@ diese Bezeichnung als Zusatz zur Berufsbezeichnung zu führen.
 der Vorbildungsvoraussetzungen gilt nicht für Tätigkeiten, die vor dem
 16\. Juni 1989 ausgeübt worden sind.
 
-
 #### § 156 Übergangsvorschriften aus Anlass des Sechsten Gesetzes zur Änderung des Steuerberatungsgesetzes
 
 § 36 Abs. 1 Nr. 2 und Abs. 3 gilt für Bewerber, die in dem in Artikel
@@ -4689,7 +4421,6 @@ der Vorbildungsvoraussetzungen gilt nicht für Tätigkeiten, die vor dem
 erworben und mit der Fachschulausbildung vor dem 1. Januar 1991
 begonnen haben, mit der Maßgabe, dass sie nach dem Fachschulabschluss
 vier Jahre praktisch tätig gewesen sind.
-
 
 #### § 157 Übergangsvorschriften aus Anlass des Gesetzes zur Änderung von Vorschriften über die Tätigkeit der Steuerberater
 
@@ -4727,7 +4458,6 @@ Finanzverwaltung wahrgenommen.
 
 (7) (weggefallen)
 
-
 #### § 157a Übergangsvorschriften anlässlich des Achten Gesetzes zur Änderung des Steuerberatungsgesetzes
 
 (1) Die Vorschriften dieses Gesetzes in der ab 12. April 2008
@@ -4761,7 +4491,6 @@ den zu diesem Zeitpunkt anhängigen Rechtsstreitigkeiten wegen
 Prüfungsentscheidungen die für die Finanzverwaltung zuständige oberste
 Landesbehörde durch die zuständige Steuerberaterkammer vertreten.
 
-
 #### § 157b Anwendungsvorschrift
 
 § 154 Absatz 2 Satz 2 Nummer 2 in der Fassung des Artikels 14 des
@@ -4769,10 +4498,7 @@ Gesetzes vom 16. Juli 2009 (BGBl. I S. 1959) ist auf alle bei
 Inkrafttreten dieser Vorschrift nicht bestandskräftig abgeschlossenen
 Verfahren anzuwenden.
 
-
 ### Siebenter Abschnitt - Verordnungsermächtigung
-
-
 
 #### § 158 Durchführungsbestimmungen zu den Vorschriften über Steuerberater, Steuerbevollmächtigte und Steuerberatungsgesellschaften
 
@@ -4824,26 +4550,15 @@ Rechtsverordnung Bestimmungen zu erlassen
     des Versicherungsvertrages sowie über die Mindesthöhe der
     Deckungssummen.
 
-
-
-
-
 ## Dritter Teil - Zwangsmittel, Ordnungswidrigkeiten
 
-
-
 ### Erster Abschnitt - Vollstreckung wegen Handlungen und Unterlassungen
-
-
 
 #### § 159 Zwangsmittel
 
 Die Anwendung von Zwangsmitteln richtet sich nach der Abgabenordnung.
 
-
 ### Zweiter Abschnitt - Ordnungswidrigkeiten
-
-
 
 #### § 160 Unbefugte Hilfeleistung in Steuersachen
 
@@ -4854,7 +4569,6 @@ Steuersachen leistet.
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünftausend
 Euro geahndet werden.
 
-
 #### § 161 Schutz der Bezeichnungen "Steuerberatungsgesellschaft", "Lohnsteuerhilfeverein" und "Landwirtschaftliche Buchstelle"
 
 (1) Ordnungswidrig handelt, wer unbefugt die Bezeichnung
@@ -4864,7 +4578,6 @@ Verwechseln ähnliche Bezeichnung benutzt.
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünftausend
 Euro geahndet werden.
-
 
 #### § 162 Verletzung der den Lohnsteuerhilfevereinen obliegenden Pflichten
 
@@ -4918,7 +4631,6 @@ einer Geldbuße bis zu fünftausend Euro, die Ordnungswidrigkeit nach
 Absatz 1 Nr. 2, 7 und 9 mit einer Geldbuße bis zu eintausend Euro
 geahndet werden.
 
-
 #### § 163 Pflichtverletzung von Personen, deren sich der Verein bei der Hilfeleistung in Steuersachen im Rahmen der Befugnis nach § 4 Nr. 11 bedient
 
 (1) Ordnungswidrig handelt, wer entgegen § 26 Abs. 2 in Verbindung mit
@@ -4928,7 +4640,6 @@ der Hilfeleistung in Steuersachen im Rahmen der Befugnis nach § 4 Nr.
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
 fünfundzwanzigtausend Euro geahndet werden.
 
-
 #### § 164 Verfahren
 
 Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über
@@ -4937,10 +4648,7 @@ Abgabenordnung ist entsprechend anzuwenden. Im übrigen gelten für das
 Bußgeldverfahren § 410 Abs. 1 Nr. 1, 2, 6 bis 11 und Abs. 2 sowie §
 412 der Abgabenordnung entsprechend.
 
-
 ## Vierter Teil - Schlußvorschriften
-
-
 
 ### § 164a Verwaltungsverfahren und finanzgerichtliches Verfahren
 
@@ -4976,7 +4684,6 @@ Aufwendungen in Verfahren nach Satz 1 und für die Zahlung nach Satz 2
 keinen Ersatz von der für die Finanzverwaltung zuständigen obersten
 Landesbehörde verlangen.
 
-
 ### § 164b Gebühren
 
 (1) Soweit dieses Gesetz für die Bearbeitung von Anträgen Gebühren
@@ -4985,7 +4692,6 @@ vorsieht, sind diese bei der Antragstellung zu entrichten.
 (2) Wird ein Antrag vor der Entscheidung zurückgenommen, ist die
 Gebühr zur Hälfte zu erstatten.
 
-
 ### § 165 Ermächtigung
 
 Das Bundesministerium der Finanzen wird ermächtigt, den Wortlaut
@@ -4993,7 +4699,6 @@ dieses Gesetzes und der zu diesem Gesetz erlassenen
 Durchführungsverordnungen in der jeweils geltenden Fassung mit neuem
 Datum und in neuer Paragraphenfolge bekanntzumachen und dabei
 Unstimmigkeiten des Wortlauts zu beseitigen.
-
 
 ### § 166 Fortgeltung bisheriger Vorschriften
 
@@ -5006,13 +4711,11 @@ Versorgungswerkes, insbesondere in der Form einer Körperschaft des
 Steuerbevollmächtigten, über die Satzung und über die Dienstaufsicht
 zu erlassen.
 
-
 ### § 167 Freie und Hansestadt Hamburg
 
 Der Senat der Freien und Hansestadt Hamburg wird ermächtigt, die
 Vorschriften dieses Gesetzes über die Zuständigkeit der Behörden dem
 besonderen Verwaltungsaufbau in Hamburg anzupassen.
-
 
 ### § 168 Inkrafttreten des Gesetzes
 
@@ -5022,7 +4725,6 @@ Kraft.
 
 (2) § 166 Abs. 2 tritt am Tage nach der Verkündung des Gesetzes in
 Kraft.
-
 
 ### Anlage (zu § 146 Satz 1) Gebührenverzeichnis
 

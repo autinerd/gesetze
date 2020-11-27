@@ -21,7 +21,6 @@ Stand: Diese V tritt gem. § 11 Absatz 1 am 31.7.2015 außer Kraft
 Geändert durch
 :   Art. 1 V v. 25.5.2009 I 1166
 
-
 ## Eingangsformel
 
 Auf Grund des § 6 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl.
@@ -30,7 +29,6 @@ Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnet das
 Bundesministerium für Wirtschaft und Technologie nach Anhörung des
 Hauptausschusses des Bundesinstituts für Berufsbildung im Einvernehmen
 mit dem Bundesministerium für Bildung und Forschung:
-
 
 ## § 1 Struktur und Gegenstand der Erprobung
 
@@ -53,7 +51,6 @@ März 2005 (BGBl. I S. 895) geändert worden ist, mit der Maßgabe
 zugrunde zu legen, dass § 4 Absatz 2, die §§ 12 bis 15 und die Anlage
 2 nicht anzuwenden sind.
 
-
 ## § 2 Struktur der Berufsausbildung
 
 Die Ausbildung gliedert sich im Ausbildungsberuf Kaufmann im
@@ -69,10 +66,6 @@ Einzelhandel/Kauffrau im Einzelhandel in
 3.  drei im Ausbildungsvertrag festzulegende Wahlqualifikationseinheiten
     nach § 3 Absatz 3, wobei § 3 Absatz 1 Nummer 11 zu berücksichtigen
     ist.
-
-
-
-
 
 ## § 3 Ausbildungsberufsbild
 
@@ -342,10 +335,6 @@ Wahlqualifikationseinheiten:
 
 8.  Grundlagen unternehmerischer Selbstständigkeit.
 
-
-
-
-
 ## § 4 Ausbildungsrahmenplan
 
 Die Fertigkeiten, Kenntnisse und Fähigkeiten sollen nach den in der
@@ -354,7 +343,6 @@ Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt
 werden. Eine von dem Ausbildungsrahmenplan abweichende Organisation
 der Ausbildung ist insbesondere zulässig, soweit betriebspraktische
 Besonderheiten die Abweichung erfordern.
-
 
 ## § 5 Gestreckte Abschlussprüfung
 
@@ -374,7 +362,6 @@ erforderlich ist.
 (2) Bei der Ermittlung des Gesamtergebnisses werden Teil 1 der
 Abschlussprüfung mit 35 Prozent und Teil 2 der Abschlussprüfung mit 65
 Prozent gewichtet.
-
 
 ## § 6 Teil 1 der Abschlussprüfung
 
@@ -448,7 +435,6 @@ Fälle schriftlich bearbeiten und dabei zeigen, dass er wirtschaftliche
 und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt
 darstellen kann.
 
-
 ## § 7 Teil 2 der Abschlussprüfung
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf die in der Anlage
@@ -504,7 +490,6 @@ sowie über warenspezifische Kenntnisse des jeweiligen Warenbereichs
 verfügt. Dem Prüfling ist eine Vorbereitungszeit von höchstens 15
 Minuten einzuräumen; das Fachgespräch soll die Dauer von 20 Minuten
 nicht überschreiten.
-
 
 ## § 8 Gewichtungs- und Bestehensregelung
 
@@ -574,7 +559,6 @@ Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das
 bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung
 im Verhältnis von 2 : 1 zu gewichten.
 
-
 ## § 9 Fortsetzung der Berufsausbildung
 
 (1) Die nach § 11 der Verordnung über die Berufsausbildung im
@@ -594,7 +578,6 @@ erzielten Leistungen in den Prüfungsbereichen „Verkauf und Marketing“,
 Sozialkunde“ als Teil 1 der Abschlussprüfung nach § 6 dieser
 Verordnung.
 
-
 ## § 10 Bestehende Berufsausbildungsverhältnisse
 
 (1) Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
@@ -607,12 +590,10 @@ Zwischenprüfung abgelegt worden ist.
 2015 begonnen werden, sind die Vorschriften dieser Verordnung weiter
 anzuwenden.
 
-
 ## § 11 Inkrafttreten, Außerkrafttreten
 
 (1) Diese Verordnung tritt am 1. Juli 2009 in Kraft und mit Ablauf des
 31\. Juli 2015 außer Kraft.
-
 
 ## Anlage (zu § 4 ) Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann im Einzelhandel/zur Kauffrau im Einzelhandel – Sachliche Gliederung –
 

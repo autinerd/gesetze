@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 11 G v. 20.04.2007 I 554
 
-
 ## § 1 Umwandlung der Pensionskasse Deutscher Eisenbahnen und Straßenbahnen
 
 (1) Die Pensionskasse Deutscher Eisenbahnen und Straßenbahnen (Kasse),
@@ -57,7 +56,6 @@ Dezember 2007 noch nicht voll erreicht, kann die Aufsichtsbehörde der
 Kasse eine Frist von längstens zwei Jahren gewähren, wenn die Kasse
 einen Solvabilitätsplan gemäß § 81b Abs. 1 vorgelegt hat.
 
-
 ## § 2 Fortführung von Versorgungsleistungen
 
 (1) Die Versicherungsverhältnisse der Abteilungen D, E, F der Kasse
@@ -89,7 +87,6 @@ ihrer Rückerstattung oder ihrem Wiederaufleben an den Bund.
 (4) Die Höhe der Bundeszuschüsse setzt der Bundesminister der Finanzen
 fest.
 
-
 ## § 3 Nachweise über die Verwendung der Zuschüsse
 
 Der Bundesminister der Finanzen bestimmt im Benehmen mit dem
@@ -97,10 +94,7 @@ Bundesrechnungshof, welche Nachweise die Deutschen Rentenversicherung
 Knappschaft-Bahn-See über die Verwendung der Zuschüsse zu erbringen
 hat.
 
-
 ## (XXXX) §§ 4 und 5 (weggefallen)
-
-
 
 ## § 6 Neuregelung der Versorgungsleistungen
 
@@ -128,7 +122,6 @@ des Saarlandes geändert, so hat die Deutschen Rentenversicherung
 Knappschaft-Bahn-See die Versorgungsleistungen aus den Abteilungen E
 und F jeweils entsprechend neu zu regeln.
 
-
 ## § 6a
 
 Die Vorschriften des Gesetzes zur Regelung von Ansprüchen aus Lebens-
@@ -137,10 +130,7 @@ in der Fassung vom 15. Juli 1959 (Bundesgesetzbl. I S. 433)
 finden auf die Versicherungsverhältnisse der Pensionskasse keine
 Anwendung.
 
-
 ## (XXXX) §§ 7 bis 9 (weggefallen)
-
-
 
 ## Anhang EV Auszug aus EinigVtr Anlage I Kapitel IV Sachgebiet B Abschnitt III (BGBl. II 1990, 889, 995) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 

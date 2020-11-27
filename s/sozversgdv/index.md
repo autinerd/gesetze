@@ -15,14 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   GBl DDR I: 1990, 1075
 
-
-
 ## Eingangsformel
 
 Auf der Grundlage des § 52 des Gesetzes vom 28. Juni 1990 über die
 Sozialversicherung - SVG - (GBl. I Nr. 38 S. 486) wird folgendes
 verordnet:
-
 
 ## § 1
 
@@ -39,7 +36,6 @@ auch berechtigt sind, Geldleistungen der Sozialversicherung
 auszuzahlen, haben sie gleichzeitig den Nachweis der Einnahmen und
 Ausgaben für Zwecke der Sozialversicherung zu übergeben.
 
-
 ## § 2
 
 Die Verwaltungen der Sozialversicherung gewährleisten in
@@ -49,11 +45,9 @@ Sozialversicherungsbeiträge. Die Finanzämter gewährleisten die
 Auskunftspflicht sowie die Einsichtnahme in die entsprechenden
 Unterlagen durch die Verwaltungen der Sozialversicherung.
 
-
 ## § 3
 
 Die Verordnung tritt mit Wirkung vom 15. August 1990 in Kraft.
-
 
 ## Schlußformel
 

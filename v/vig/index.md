@@ -18,7 +18,6 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 17.10.2012 I 2166, 2725
 
-
 ## § 1 Anwendungsbereich
 
 Durch dieses Gesetz erhalten Verbraucherinnen und Verbraucher freien
@@ -39,7 +38,6 @@ Verbraucherinnen und Verbraucher vor gesundheitsschädlichen oder sonst
 unsicheren Erzeugnissen und Verbraucherprodukten sowie vor Täuschung
 beim Verkehr mit Erzeugnissen und Verbraucherprodukten verbessert
 wird.
-
 
 ## § 2 Anspruch auf Zugang zu Informationen
 
@@ -160,7 +158,6 @@ diesen vorgesetzte Dienststellen.
 (4) Die Vorschriften dieses Gesetzes gelten nicht, soweit in anderen
 Rechtsvorschriften entsprechende oder weitergehende Vorschriften
 vorgesehen sind.
-
 
 ## § 3 Ausschluss- und Beschränkungsgründe
 
@@ -287,7 +284,6 @@ die Anschrift des Herstellers, Bevollmächtigten, Einführers, Händlers
 sowie jedes Gliedes der Liefer- und Vertriebskette; Satz 1 Nummer 2
 Buchstabe a ist nicht anzuwenden.
 
-
 ## § 4 Antrag
 
 (1) Die Information wird auf Antrag erteilt. Der Antrag muss
@@ -360,7 +356,6 @@ eine behördliche Auskunftserteilung gebeten oder es bestehen
 Anhaltspunkte dafür, dass die Information durch die Person nicht,
 nicht rechtzeitig oder nicht vollständig erfolgen wird.
 
-
 ## § 5 Entscheidung über den Antrag
 
 (1) Das Verfahren einschließlich der Beteiligung Dritter, deren
@@ -413,7 +408,6 @@ Verwaltungsgerichtsordnung auch dann statt, wenn die Entscheidung von
 einer obersten Bundesbehörde erlassen worden ist. Widerspruchsbehörde
 ist die oberste Bundesbehörde.
 
-
 ## § 6 Informationsgewährung
 
 (1) Die informationspflichtige Stelle kann den Informationszugang
@@ -446,7 +440,6 @@ unverzüglich richtig zu stellen, sofern der oder die Dritte dies
 beantragt oder dies zur Wahrung erheblicher Belange des Gemeinwohls
 erforderlich ist. Die Richtigstellung soll in derselben Weise
 erfolgen, in der die Information zugänglich gemacht wurde.
-
 
 ## § 7 Gebühren und Auslagen
 

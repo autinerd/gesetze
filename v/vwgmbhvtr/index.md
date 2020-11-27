@@ -18,8 +18,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1960, 302
 
-
-
 ## Eingangsformel
 
 Der Bund und das Land Niedersachsen sind übereingekommen, die zwischen
@@ -31,11 +29,9 @@ Bundes, und das Land Niedersachsen, vertreten durch den
 Niedersächsischen Ministerpräsidenten, dieser wiederum vertreten durch
 den Niedersächsischen Minister der Finanzen, folgenden Vertrag:
 
-
 ## § 1
 
 Die Volkswagenwerk GmbH wird in eine Aktiengesellschaft umgewandelt.
-
 
 ## § 2
 
@@ -47,7 +43,6 @@ Die restlichen 60 vom Hundert des Grundkapitals werden in Form von
 Kleinaktien in noch im Benehmen mit dem Land Niedersachsen
 festzulegenden Raten veräußert werden. Bis zur Veräußerung werden die
 Aktien vom Bund im Benehmen mit dem Land Niedersachsen verwaltet.
-
 
 ## § 3
 
@@ -68,10 +63,6 @@ b)  der Erlös aus den zu veräußernden Kleinaktien mit der Maßgabe, daß die
 
 c)  diejenigen Gewinne, die auf die vom Bund gemäß § 2 Abs. 2 zu
     verwaltenden Aktien entfallen.
-
-
-
-
 
 ## § 4
 
@@ -101,7 +92,6 @@ b)  dem Land Niedersachsen zufließen
 Diese Mittel sind vom Land Niedersachsen im Sinne des § 3 dieses
 Vertrages zu verwenden.
 
-
 ## § 5
 
 Die Höhe des Grundkapitals der Volkswagenwerk Aktiengesellschaft wird
@@ -118,19 +108,16 @@ Einen Vorschlag des Bundes, einen seiner Vertreter im Aufsichtsrat zum
 Vorsitzer zu wählen, werden die Vertreter des Landes Niedersachsen
 unterstützen.
 
-
 ## § 6
 
 Der Bund und das Land Niedersachsen verpflichten sich, alle Maßnahmen
 zu treffen, die notwendig und geeignet sind, das mit diesem Vertrag
 angestrebte Ziel zu erreichen.
 
-
 ## § 7
 
 Der Vertrag tritt nach Billigung durch die gesetzgebenden
 Körperschaften des Bundes und des Landes Niedersachsen in Kraft.
-
 
 ## Schlußformel
 

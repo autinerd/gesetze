@@ -19,13 +19,11 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 510 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Auf Grund des § 11 des Gesetzes über die Aufgaben des Bundes auf dem
 Gebiet der Seeschiffahrt vom 24. Mai 1965 (Bundesgesetzbl. II S. 833)
 wird verordnet:
-
 
 ## § 1
 
@@ -59,7 +57,6 @@ Auskünften über das Schiffahrtsgeschäft, ohne Rücksicht darauf, ob die
 Auskunft schriftlich, mündlich oder in sonstiger Weise erteilt werden
 soll.
 
-
 ## § 2
 
 (1) Genehmigungen können auch befristet für eine unbestimmte Anzahl
@@ -72,7 +69,6 @@ Widerrufsvorbehalten verbunden werden.
 der Widerruf einer Genehmigung bedürfen der Schriftform. Versagung,
 Rücknahme und Widerruf sind zu begründen.
 
-
 ## § 3
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
@@ -80,16 +76,13 @@ Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 Gesetzes über die Aufgaben des Bundes auf dem Gebiet der Seeschiffahrt
 auch im Land Berlin.
 
-
 ## § 4
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesminister für Verkehr
-
 
 ## Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet D Abschnitt III (BGBl. II 1990, 889, 1110)
 

@@ -15,14 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1981, 889
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 32 Abs. 6 Satz 3 des Filmförderungsgesetzes vom 25.
 Juni 1979 (BGBl. I S. 803) wird nach Anhörung der
 Filmförderungsanstalt verordnet:
-
 
 ## § 1 Art und Höhe der Förderungshilfe
 
@@ -44,7 +41,6 @@ gleicher Höhe auch von französischer Seite gefördert wird.
 (4) Im übrigen richtet sich die Förderung der Filmvorhaben nach den
 Vorschriften des Filmförderungsgesetzes.
 
-
 ## § 2 Art und Zahl der Filmvorhaben
 
 Gefördert werden jährlich bis zu sechs Filmvorhaben. Die Anzahl der im
@@ -59,20 +55,14 @@ mit Mehrheitsbeteiligung behandelt, wenn
 
 2.  die Voraussetzungen des Satzes 2 sonst nicht erfüllt werden könnten.
 
-
-
-
-
 ## § 3 Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 76 des Filmförderungsgesetzes auch im Land Berlin.
 
-
 ## § 4 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlußformel
 

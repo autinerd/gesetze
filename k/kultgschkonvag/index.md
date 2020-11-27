@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 757, 762, 2547
 
-
 ## § 1 Rückgabepflicht
 
 (1) Kulturgut im Sinne von Artikel 1 der Konvention zum Schutz von
@@ -55,7 +54,6 @@ besetzten Gebiet verbracht oder zu Schutzzwecken deponiert wurde.
 (5) Ist das zurückzugebende Kulturgut dem Rückgabeschuldner geschenkt,
 vererbt oder vermacht worden, so fallen ihm die
 Sorgfaltsverpflichtungen des Schenkers oder Erblassers zur Last.
-
 
 ## § 2 Verbringungsverbot und Beschlagnahme
 
@@ -117,7 +115,6 @@ in Kenntnis setzen.
 
 (8) Die besetzten Gebiete der Vertragsstaaten werden vom Auswärtigen
 Amt im Bundesanzeiger bekannt gegeben.
-
 
 ## § 3 Durchführung der Rückgabe und Sicherstellung
 

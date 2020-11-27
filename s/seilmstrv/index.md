@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1997, 1257
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 45 der Handwerksordnung in der Fassung der
@@ -30,10 +28,7 @@ verordnet das Bundesministerium für Wirtschaft im Einvernehmen mit dem
 Bundesministerium für Bildung, Wissenschaft, Forschung und
 Technologie:
 
-
 ## 1. Abschnitt - Berufsbild
-
-
 
 ### § 1 Berufsbild
 
@@ -148,13 +143,7 @@ zuzurechnen:
 25. Pflegen und Instandhalten der berufsbezogenen Werkzeuge, Geräte und
     Maschinen.
 
-
-
-
-
 ## 2. Abschnitt - Prüfungsanforderungen in den Teilen I und II der Meisterprüfung
-
-
 
 ### § 2 Gliederung, Dauer und Bestehen der praktischen Prüfung (Teil I)
 
@@ -170,7 +159,6 @@ acht Stunden dauern.
 (3) Mindestvoraussetzung für das Bestehen des Teils I sind jeweils
 ausreichende Leistungen in der Meisterprüfungsarbeit und in der
 Arbeitsprobe.
-
 
 ### § 3 Meisterprüfungsarbeit
 
@@ -224,7 +212,6 @@ Vorkalkulation zur Genehmigung vorzulegen.
 
 (3) Die Skizzen mit Maßangaben sowie die Vor- und Nachkalkulation sind
 bei der Bewertung der Meisterprüfungsarbeit zu berücksichtigen.
-
 
 ### § 4 Arbeitsprobe
 
@@ -285,7 +272,6 @@ auszuführen:
 (2) In der Arbeitsprobe sind die wichtigsten Fertigkeiten und
 Kenntnisse zu prüfen, die in der Meisterprüfungsarbeit nicht oder nur
 unzureichend nachgewiesen werden konnten.
-
 
 ### § 5 Prüfung der fachtheoretischen Kenntnisse (Teil II)
 
@@ -356,16 +342,12 @@ Leistungen erbracht hat.
 (5) Mindestvoraussetzung für das Bestehen des Teils II sind
 ausreichende Leistungen in dem Prüfungsfach nach Absatz 1 Nr. 2.
 
-
 ## 3. Abschnitt - Übergangs- und Schlußvorschriften
-
-
 
 ### § 6 Übergangsvorschrift
 
 Die bei Inkrafttreten dieser Verordnung laufenden Prüfungsverfahren
 werden nach den bisherigen Vorschriften zu Ende geführt.
-
 
 ### § 7 Weitere Anforderungen
 
@@ -373,7 +355,6 @@ Die weiteren Anforderungen in der Meisterprüfung bestimmen sich nach
 der Verordnung über gemeinsame Anforderungen in der Meisterprüfung im
 Handwerk vom 12. Dezember 1972 (BGBl. I S. 2381) in der jeweils
 geltenden Fassung.
-
 
 ### § 8 Inkrafttreten
 

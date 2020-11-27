@@ -31,14 +31,12 @@ Republik Malta, der Republik Polen, der Republik Slowenien und der
 Slowakischen Republik und die Anpassungen der die Europäische Union
 begründenden Verträge (ABl. EU 2003 Nr. L 236 S. 33).
 
-
 ## Eingangsformel
 
 Auf Grund des § 38 Abs. 3 in Verbindung mit Abs. 1, § 33 Abs. 2 und 3,
 § 22 Abs. 1 und 2 und § 23 Abs. 2 des Bundesnaturschutzgesetzes vom
 25\. März 2002 (BGBl. I S. 1193) verordnet das Bundesministerium für
 Umwelt, Naturschutz und Reaktorsicherheit:
-
 
 ## § 1 Erklärung zum Naturschutzgebiet
 
@@ -56,7 +54,6 @@ Malta, der Republik Polen, der Republik Slowenien und der Slowakischen
 Republik und die Anpassungen der die Europäische Union begründenden
 Verträge (ABl. EU 2003 Nr. L 236 S. 33), bei der Kommission der
 Europäischen Gemeinschaften unter der Nummer DE 1011-401 registriert.
-
 
 ## § 2 Schutzgegenstand
 
@@ -99,7 +96,6 @@ dieser Verordnung.
 
 (4) Die Bestimmungen nach Absatz 2 haben Vorrang gegenüber den
 Darstellungen in der Übersichtskarte nach der Anlage 2.
-
 
 ## § 3 Schutzzweck
 
@@ -150,10 +146,6 @@ insbesondere erforderlich die Erhaltung und Wiederherstellung
     vor Verschmutzungen und Beeinträchtigungen sowie der Schutz der
     Vogelbestände vor erheblichen Belästigungen.
 
-
-
-
-
 ## § 4 Verbote
 
 (1) Vorbehaltlich des § 5 sind verboten
@@ -197,10 +189,6 @@ insbesondere erforderlich die Erhaltung und Wiederherstellung
 3.  Vorhaben und Maßnahmen, die unmittelbar der Verwaltung des
     Naturschutzgebietes dienen.
 
-
-
-
-
 ## § 5 Bestimmte Vorhaben und Maßnahmen; Pläne
 
 (1) Vorhaben und Maßnahmen
@@ -232,7 +220,6 @@ Grundsätzen nach § 18a des Raumordnungsgesetzes erfolgt die
 Verträglichkeitsprüfung nach Maßgabe des § 7 Abs. 7 des
 Raumordnungsgesetzes.
 
-
 ## § 6 Ausnahmen und Befreiungen
 
 (1) Von den Verboten des § 4 Abs. 1 und 2 kann das Bundesamt für
@@ -263,7 +250,6 @@ Naturschutz auf Antrag Befreiung gewähren, wenn
 und die Voraussetzungen des § 34 Abs. 3 bis 5 des
 Bundesnaturschutzgesetzes vorliegen.
 
-
 ## § 7 Pflege- und Entwicklungsplan
 
 Das Bundesamt für Naturschutz erstellt unter Beteiligung der
@@ -279,7 +265,6 @@ Entwicklungsplan durch. Der Pflege- und Entwicklungsplan wird im
 Bundesanzeiger bekannt gemacht. Der Pflege- und Entwicklungsplan wird
 regelmäßig aktualisiert und entsprechend Satz 4 bekannt gemacht.
 
-
 ## § 8 Aufgaben und Befugnisse des Bundesamtes für Naturschutz
 
 (1) Das Bundesamt für Naturschutz überwacht in Zusammenarbeit mit
@@ -290,11 +275,9 @@ Verordnung.
 Entwicklungs- und Wiederherstellungsmaßnahmen durchführen sowie die
 dafür erforderlichen Anordnungen treffen.
 
-
 ## § 9 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Anlage 1 (zu § 2 Abs. 2)
 
@@ -834,10 +817,6 @@ Geographische KoordinatenNaturschutzgebiet "Östliche Deutsche Bucht"
     *   7 Grad 20' 10,0"
 
     *   54 Grad 44' 01,0"
-
-
-
-
 
 ## Anlage 2 (zu § 2 Abs. 3)
 

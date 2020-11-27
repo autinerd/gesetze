@@ -20,12 +20,10 @@ Fundstelle
 Geändert durch
 :   Art. 3 G v. 19.9.2002 II 2482
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1 Zustimmung
 
@@ -41,7 +39,6 @@ zugestimmt.
 
 (2) Der Notenwechsel, die Erklärungen zur Strafgerichtsbarkeit und die
 Vereinbarte Niederschrift werden nachstehend veröffentlicht.
-
 
 ## Art 2 Schadensabwicklung
 
@@ -60,14 +57,12 @@ Ausübung des Dienstes begangen wurden, werden gemäß Artikel 2 Satz 1
 mit § 16 Abs. 5 des Streitkräfteaufenthaltsgesetzes vom 20. Juli 1995
 (BGBl. 1995 II S. 554) abgewickelt.
 
-
 ## Art 3 Gerichtsbarkeit
 
 Der Verzicht auf die Ausübung der deutschen Gerichtsbarkeit wird von
 der Staatsanwaltschaft erklärt. Im übrigen gilt Artikel 4a des
 Gesetzes zum NATO-Truppenstatut und zu den Zusatzvereinbarungen in der
 jeweils geltenden Fassung.
-
 
 ## Art 4 Inkrafttreten
 

@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1994, 3010
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 63 Nr. 2 des Luftverkehrsgesetzes in der Fassung der
@@ -30,7 +28,6 @@ Luftfahrt-Bundesamt in der im Bundesgesetzblatt Teil III,
 Gliederungsnummer 96-4, veröffentlichten bereinigten Fassung,
 verordnet das Bundesministerium für Verkehr:
 
-
 ## § 1
 
 Die Zuständigkeit für die Verfolgung und Ahndung von
@@ -38,7 +35,6 @@ Ordnungswidrigkeiten im Bereich der nach § 31c des
 Luftverkehrsgesetzes den Beauftragten übertragenen Aufgaben im
 Zusammenhang mit der Benutzung des Luftraums durch Luftsportgeräte
 wird auf das Luftfahrt-Bundesamt übertragen.
-
 
 ## § 2
 

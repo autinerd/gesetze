@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1990, 2504
 
-
-
 ## (XXXX)
 
 Auf Grund des § 5 Abs. 4 des Gesetzes über die Errichtung eines Fonds

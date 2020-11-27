@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 23.6.1988 I 911
 
-
 ## Eingangsformel
 
 Auf Grund des § 2 des Gesetzes über das Verwaltungsverfahren der
@@ -26,7 +25,6 @@ Kriegsopferversorgung vom 2. Mai 1955 (Bundesgesetzbl. I S. 202),
 geändert durch das Gesetz zur Änderung und Ergänzung des
 Kriegsopferrechts vom 27. Juni 1960 (Bundesgesetzbl. I S. 453), wird
 mit Zustimmung des Bundesrates verordnet:
-
 
 ## § 1
 
@@ -46,10 +44,6 @@ c)  Geltendmachung der in § 81a des Bundesversorgungsgesetzes genannten
     entstehenden bürgerlich-rechtlichen Ansprüche. Die Zuständigkeit der
     Versorgungsämter in den Ländern Bayern, Hessen und Schleswig-Holstein
     bleibt unberührt.
-
-
-
-
 
 ## § 2
 
@@ -71,10 +65,6 @@ b)  den mit der orthopädischen Versorgung oder mit den Ersatzleistungen
     Bundesversorgungsgesetzes und § 65a des Ersten Buches
     Sozialgesetzbuch.
 
-
-
-
-
 ## § 3
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
@@ -82,11 +72,9 @@ Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 1 des Gesetzes über das Verwaltungsverfahren der Kriegsopferversorgung
 auch im Land Berlin.
 
-
 ## § 4
 
 Diese Verordnung tritt am Tag nach ihrer Verkündung in Kraft.
-
 
 ## Schlußformel
 

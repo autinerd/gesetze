@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 3694
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 5 Abs. 1 Nr. 11 Satz 5 in Verbindung mit Satz 6 des
@@ -24,7 +22,6 @@ Finanzverwaltungsgesetzes vom 30. August 1971 (BGBl. I S. 1426, 1427),
 von denen Satz 5 und 6 durch Artikel 6 des Gesetzes vom 22. Dezember
 1999 (BGBl. I S. 2552) eingefügt worden sind, verordnet das
 Bundesministerium der Finanzen:
-
 
 ## § 1 Einrichtung, Zuständigkeit
 
@@ -38,7 +35,6 @@ Kindergeld an die in § 72 Abs. 1 Nr. 1 bis 3 des
 Einkommensteuergesetzes bezeichneten Angehörigen der
 Bundesfinanzverwaltung. Der Bundesfamilienkasse können weitere
 Aufgaben übertragen werden.
-
 
 ## § 2 Aufgabenübertragung
 
@@ -72,7 +68,6 @@ unberührt.
 geschlossene Vereinbarungen zur Aufgabenübertragung gehen zum 1.
 Januar 2006 auf die Bundesfamilienkasse beim Bundesamt für zentrale
 Dienste und offene Vermögensfragen über.
-
 
 ## § 3
 

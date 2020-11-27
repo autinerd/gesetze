@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 70 G v. 2.8.1994 I 2018
 
-
 ## Eingangsformel
 
 Auf Grund des § 7 Abs. 3 und des § 9 des Gesetzes zur Durchführung der
@@ -30,7 +29,6 @@ die durch Artikel 38 Nr. 1 des Gesetzes vom 18. März 1975 (BGBl. I S.
 Marktorganisationen wird im Einvernehmen mit den Bundesministern der
 Finanzen und für Wirtschaft verordnet:
 
-
 ## § 1 Anwendungsbereich
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung der
@@ -39,7 +37,6 @@ Marktorganisation für Rindfleisch hinsichtlich des Verkaufs von zur
 Ausfuhr bestimmtem Rindfleisch mit Knochen aus Beständen bestimmter
 Interventionsstellen zu pauschal im voraus festgesetzten Preisen im
 Falle des Entbeinens vor der Ausfuhr.
-
 
 ## § 2 Zuständigkeit
 
@@ -65,7 +62,6 @@ Verarbeitungsbetrieb im Geltungsbereich dieser Verordnung.
 (3) Im übrigen gelten hinsichtlich der Zuständigkeit und des
 Verfahrens bei der Ausfuhrerstattung die Vorschriften der
 Verordnung Ausfuhrerstattung (EWG) vom 19. März 1980 (BGBl. I S. 323).
-
 
 ## § 3 Antrag
 
@@ -95,12 +91,10 @@ fristgerechten Verwendung. Der Beteiligte hat das Rindfleisch
 unverzüglich nach der Überlassung in den im Antrag benannten
 Verarbeitungsbetrieb zu verbringen.
 
-
 ## § 4 Entbeinung
 
 Das Rindfleisch wird unter Überwachung der Bundesanstalt entladen,
 aufgetaut, verwogen, entbeint und verpackt.
-
 
 ## § 5 Bescheinigung
 
@@ -109,7 +103,6 @@ Entbeinung die den Vorschriften der in § 1 genannten Rechtsakte
 entsprechende Durchführung der Entbeinung. Die Bescheinigung ist der
 für die Ausfuhrabfertigung des entbeinten Rindfleisches zuständigen
 Zollstelle vorzulegen.
-
 
 ## § 6 Aufzeichnungs- und Aufbewahrungspflichten
 
@@ -121,7 +114,6 @@ Entbeinen anfallenden Abschnitte und der hergestellten Teilstücke
 getrennt auszuweisen. Weitergehende Aufzeichnungs- und
 Aufbewahrungspflichten nach anderen Rechtsvorschriften bleiben
 unberührt.
-
 
 ## § 7 Entbeinung in einem anderen Mitgliedstaat
 
@@ -139,11 +131,9 @@ Verkaufsrechnung der Bundesanstalt und des Abholscheines sowie mit den
 nach den in § 1 genannten Rechtsakten vorgeschriebenen Eintragungen
 vorzulegen.
 
-
 ## § 8 Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 13. Mai 1985 in Kraft.
-
 
 ## Schlußformel
 

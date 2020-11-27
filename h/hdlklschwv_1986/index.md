@@ -21,7 +21,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 V v. 26.9.2011 I 1914
 
-
 ## § 1 Gesetzliche Handelsklassen
 
 Für ganze und halbe Schlachtkörper von Schweinen gelten die in Anhang
@@ -32,7 +31,6 @@ Sondervorschriften für bestimmte landwirtschaftliche Erzeugnisse
 zuletzt durch die Verordnung (EU) Nr. 1234/2010 vom 15. Dezember 2010
 (ABl. L 346 vom 30.12.2010, S. 11) geändert worden ist, sowie die in
 Anlage 1 bezeichneten Handelsklassen.
-
 
 ## § 2 Einstufung in Handelsklassen
 
@@ -84,7 +82,6 @@ Klassifizierungsverfahren im Sinne des Satzes 1 zur Anwendung kommen.
 Das festgestellte Klassifizierungsergebnis behält bis zur Zerlegung
 des Schlachtkörpers seine Gültigkeit.
 
-
 ## § 3 Protokoll
 
 (1) Unverzüglich nach der Ermittlung des Muskelfleischanteils ist für
@@ -102,7 +99,6 @@ vom Klassifizierer zu unterzeichnen und mindestens sechs Monate lang,
 beginnend jeweils mit dem Tag der Aufzeichnung, geordnet
 aufzubewahren.
 
-
 ## § 4 Kennzeichnung
 
 (1) Schweineschlachtkörper dürfen nur unzerlegt in einen anderen
@@ -114,7 +110,6 @@ nach § 2 Abs. 5 ermittelten Muskelfleischanteils gekennzeichnet sind.
 45 Minuten nach dem Stechen des Tieres deutlich lesbar mit Farbe oder
 mit von der zuständigen Landesbehörde anerkannten Etiketten, die ohne
 Beschädigung nicht entfernbar sind, erfolgen.
-
 
 ## § 5 Ordnungswidrigkeiten
 
@@ -155,10 +150,6 @@ Handelsklassengesetzes handelt, wer vorsätzlich oder fahrlässig
     nicht, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig
     gekennzeichnet sind, in einem anderen Mitgliedstaat in den Handel
     verbringt.
-
-
-
-
 
 ## Anlage 1 (zu § 1, § 2 Absatz 1 und § 4 Absatz 1)
 
@@ -227,9 +218,6 @@ Handelsklassengesetzes handelt, wer vorsätzlich oder fahrlässig
 *    *   V
 
     *   Schlachtkörper von zur Zucht verwendeten Ebern und Altschneidern
-
-
-
 
 ## Anlage 2 (zu § 2 Absatz 5 Nummer 2) Verfahren zur Ermittlung des Muskelfleischanteils von Schweineschlachtkörpern nach § 2 Absatz 5 Nummer 2
 

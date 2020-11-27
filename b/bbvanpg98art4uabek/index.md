@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1998, 2399
 
-
-
 ## (XXXX)
 
 Auf Grund des Artikels 4 Abs. 2 des Bundesbesoldungs- und
@@ -43,7 +41,6 @@ worden ist, werden bekanntgemacht
 
 
 Der Bundesminister des Innern
-
 
 ## Anlage 1 (Anlage IV des BBesG) Gültig ab 1. Januar 1998
 
@@ -948,9 +945,6 @@ Der Bundesminister des Innern
     *
     *
 
-
-
-
 ## Anlage 2 (Anlage V des BBesG) Gültig ab 1. Januar 1998
 
    Fundstelle des Originaltextes: BGBl. I 1998, 2403
@@ -1001,10 +995,6 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 *    *   - in den Besoldungsgruppen A 9 bis A 12:
 
     *   173,00 DM
-
-
-
-
 
 ## Anlage 3a (Anlage VIa des BBesG) Gültig ab 1. Januar 1998
 
@@ -1365,10 +1355,6 @@ Fundstelle des Originaltextes: BGBl. I 1998, 2404
 
     *   10.361
 
-
-
-
-
 ## Anlage 3b (Anlage VIb des BBesG) Gültig ab 1. Januar 1998
 
 Fundstelle des Originaltextes: BGBl. I 1998, 2404
@@ -1728,10 +1714,6 @@ Fundstelle des Originaltextes: BGBl. I 1998, 2404
 
     *   8.807
 
-
-
-
-
 ## Anlage 3c (Anlage VIc des BBesG) Gültig ab 1. Januar 1998
 
 Fundstelle des Originaltextes: BGBl. I 1998, 2405
@@ -2090,10 +2072,6 @@ Fundstelle des Originaltextes: BGBl. I 1998, 2405
     *   6.861
 
     *   7.253
-
-
-
-
 
 ## Anlage 3d (Anlage VId des BBesG) Gültig ab 1. Januar 1998
 
@@ -2455,10 +2433,6 @@ Fundstelle des Originaltextes: BGBl. I 1998, 2405
 
     *   5.077
 
-
-
-
-
 ## Anlage 3e (Anlage VIe des BBesG) Gültig ab 1. Januar 1998
 
 Fundstelle des Originaltextes: BGBl. I 1998, 2406
@@ -2819,10 +2793,6 @@ Fundstelle des Originaltextes: BGBl. I 1998, 2406
 
     *   6.165
 
-
-
-
-
 ## Anlage 3f (Anlage VIf des BBesG) Gültig ab 1. Januar 1998
 
 Fundstelle des Originaltextes: BGBl. I 1998, 2406
@@ -3180,9 +3150,6 @@ Fundstelle des Originaltextes: BGBl. I 1998, 2406
 
     *
     *
-
-
-
 
 ## Anlage 3g (Anlage VIg des BBesG) Gültig ab 1. Januar 1998
 
@@ -3542,9 +3509,6 @@ Fundstelle des Originaltextes: BGBl. I 1998, 2406
     *
     *
 
-
-
-
 ## Anlage 3h (Anlage VIh des BBesG) Gültig ab 1. Januar 1998
 
    Fundstelle des Originaltextes: BGBl. I 1998, 2407
@@ -3903,9 +3867,6 @@ Fundstelle des Originaltextes: BGBl. I 1998, 2406
     *
     *
 
-
-
-
 ## Anlage 3i (Anlage VIi des BBesG) Gültig ab 1. Januar 1998
 
    Fundstelle des Originaltextes: BGBl. I 1998, 2408
@@ -3978,10 +3939,6 @@ Fundstelle des Originaltextes: BGBl. I 1998, 2406
 
 
 *    *   B 1 bis B 11
-
-
-
-
 
 ## Anlage 4 (Anlage VIII des BBesG) Gültig ab 1. Januar 1998
 
@@ -4072,10 +4029,6 @@ in DM)
     *   522
 
     *   116
-
-
-
-
 
 ## Anlage 5 (Anlage IX des BBesG) Gültig ab 1. Januar 1998
 
@@ -5409,13 +5362,6 @@ in DM)
         \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18.
             Dezember 1975 (BGBl. I S. 3091).
 
-
-
-
-
-
-
-
 ## Anlage 6 (Anlage IV des BBesG) Gültig ab 1. Januar 1998
 
 (Fundstelle des Originaltextes: BGBl. I 1998, 2412 - 2414)
@@ -6412,10 +6358,6 @@ in DM)
 
     *   8.182,01
 
-
-
-
-
 ## Anlage 7 (Anlage V des BBesG) Gültig ab 1. Januar 1998
 
 (Fundstelle des Originaltextes: BGBl. I 1998, 2415)
@@ -6470,10 +6412,6 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 *    *   - in den Besoldungsgruppen A 9 bis A 12:
 
     *   147,05 DM
-
-
-
-
 
 ## Anlage 8 (Anlage VIII des BBesG) Gültig ab 1. Januar 1998
 
@@ -6566,10 +6504,6 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
     *   444
 
     *   99
-
-
-
-
 
 ## Anlage 9 (Anlage IX des BBesG) Gültig ab 1. Januar 1998
 
@@ -7847,13 +7781,6 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
             Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S.
             1345).
 
-
-
-
-
-
-
-
 ## Anlage 10 (Anlage IV des BBesG) Gültig ab 1. September 1998
 
 Fundstelle des Originaltextes: BGBl. I 1998, 2419 - 2421
@@ -8848,10 +8775,6 @@ Fundstelle des Originaltextes: BGBl. I 1998, 2419 - 2421
 
     *   8.326,39
 
-
-
-
-
 ## Anlage 11 (Anlage V des BBesG) Gültig ab 1. September 1998
 
 Fundstelle des Originaltextes: BGBl. I 1998, 2422
@@ -8908,10 +8831,6 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 *    *   - in den Besoldungsgruppen A 9 bis A 12:
 
     *   149,65 DM
-
-
-
-
 
 ## Anlage 12 (Anlage VIII des BBesG) Gültig ab 1. September 1998
 
@@ -9008,10 +8927,6 @@ Fundstelle des Originaltextes: BGBl. I 1998, 2422
     *   452
 
     *   100
-
-
-
-
 
 ## Anlage 13 (Anlage IX des BBesG) Gültig ab 1. September 1998
 

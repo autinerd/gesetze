@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 2092
 
-
 ## Eingangsformel
 
 Auf Grund des § 63c Absatz 2a in Verbindung mit Absatz 5 des
@@ -27,7 +26,6 @@ desselben Gesetzes geändert worden ist, verordnet das
 Bundesministerium der Verteidigung im Einvernehmen mit dem
 Bundesministerium für Gesundheit und dem Bundesministerium für Arbeit
 und Soziales:
-
 
 ## § 1 Einsatzunfall als Ursache einer psychischen Störung
 
@@ -73,10 +71,6 @@ Auslandsverwendung
 
 3.  einer vergleichbaren Belastung ausgesetzt waren.
 
-
-
-
-
 ## § 2 Bewaffnete Auseinandersetzung
 
 (1) Von einer bewaffneten Auseinandersetzung betroffen waren Personen,
@@ -89,7 +83,6 @@ Personen eingesetzt worden sind.
 Personen, die während der Auslandsverwendung im Rahmen ihres
 dienstlichen Auftrags in Kampfhandlungen eingegriffen haben oder darin
 verwickelt worden sind.
-
 
 ## § 3 Inkrafttreten
 

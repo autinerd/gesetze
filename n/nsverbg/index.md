@@ -19,14 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 Abs. 17 G v. 12. 8.2005 I 2354
 
-
 ## Erster Teil - Ansprüche gegen die Nationalsozialistische Deutsche Arbeiterpartei (NSDAP) und ihre Einrichtungen
 
-
-
 ### Erster Abschnitt - Allgemeine Vorschriften
-
-
 
 #### § 1 Dem Gesetz unterliegende Ansprüche
 
@@ -50,14 +45,9 @@ Einrichtungen im Sinne dieses Gesetzes sind
     sämtlichen Übertragungsbehörden einheitlich als Vermögen einer
     nationalsozialistischen Einrichtung behandelt worden ist.
 
-
-
-
-
 #### § 2 Auflösung
 
 Die Einrichtungen (§ 1) sind aufgelöst.
-
 
 #### § 3 Dem Gesetz nicht unterliegende Ansprüche
 
@@ -106,20 +96,13 @@ dieser Direktive sind nur folgende Ansprüche:
 4.  Ansprüche auf Ersatz von Verwendungen auf das Grundstück, soweit
     dessen Wert dadurch erhöht worden ist.
 
-
-
-
-
 #### § 4 Erlöschen von Ansprüchen
 
 Ansprüche (§ 1) erlöschen, soweit dieses Gesetz nichts anderes
 bestimmt. Ansprüche, die durch Rechte an Sachen oder an Rechten
 gesichert sind, gelten jedoch für diese Rechte als fortbestehend.
 
-
 ### Zweiter Abschnitt - Zu erfüllende Ansprüche
-
-
 
 #### § 5 Ansprüche aus der Nachkriegszeit
 
@@ -138,10 +121,6 @@ Zu erfüllen sind
 3.  die nach dem 31. Juli 1945 entstandenen Ansprüche (§ 1) auf Zahlung
     einer Enteignungsentschädigung für im Geltungsbereich dieses Gesetzes
     belegene Grundstücke und grundstücksgleiche Rechte.
-
-
-
-
 
 #### § 6 Schadensersatzansprüche
 
@@ -182,7 +161,6 @@ Vorbereitung oder Ausführung einer nationalsozialistischen
 Gewaltmaßnahme, an der sich der Verletzte beteiligt hatte, oder
 unmittelbar danach entstanden war.
 
-
 #### § 7 Versorgungsansprüche
 
 (1) Zu erfüllen sind Ansprüche (§ 1) auf Zahlung von Renten, die der
@@ -207,7 +185,6 @@ aufgerundet.
 dem 8. Mai 1945 begründeten Altersversorgung, die auf einem Arbeits-
 oder Dienstverhältnis beruht, anzurechnen, soweit sie 250 Deutsche
 Mark im Monat übersteigen.
-
 
 #### § 8 Ausgeschlossene Gläubigergruppen
 
@@ -237,7 +214,6 @@ sowie von Rechtsnachfolgern und Hinterbliebenen dieser Personen.
 (2) § 7 findet ferner keine Anwendung, wenn und soweit die Erfüllung
 des Anspruchs (§ 1) nur wegen der engen Verbindung des Gläubigers zum
 Nationalsozialismus von einer Einrichtung (§ 1) übernommen worden ist.
-
 
 #### § 9 Wohnsitzvoraussetzungen
 
@@ -321,7 +297,6 @@ oder zum gemeinschaftlichen Vermögen einer Erbengemeinschaft gehören,
 können auch dann geltend gemacht werden, wenn die Voraussetzungen des
 Absatzes 1 in der Person nur eines der Mitberechtigten gegeben sind.
 
-
 #### § 10 Ansprüche aus Grundstücksübereignungen
 
 Zu erfüllen sind Ansprüche (§ 1) auf Leistung eines Kaufpreises, einer
@@ -335,13 +310,11 @@ Vertragsabschlusses oder der Rechtskraft des Entschädigungsbeschlusses
 maßgeblich. Die Sätze 1 bis 3 gelten entsprechend für
 grundstücksgleiche Rechte.
 
-
 #### § 11 Ansprüche aus dinglichen Rechten
 
 Ansprüche (§ 1) aus dem Eigentum oder anderen Rechten an einer Sache
 oder an einem Recht mit Ausnahme der in den §§ 987 bis 992 des
 Bürgerlichen Gesetzbuchs geregelten Ansprüche sind zu erfüllen.
-
 
 #### § 12 Gesetzeskonkurrenz
 
@@ -350,13 +323,11 @@ so steht dieser Erfüllungsverpflichtung nicht entgegen, daß der
 Anspruch nach einer anderen Vorschrift dieses Teils nicht oder nur in
 geringerem Umfang zu erfüllen ist.
 
-
 #### § 13 Zulässigkeit von Aufrechnungen
 
 Die Vorschriften dieses Gesetzes stehen der Aufrechnung mit einem
 Anspruch (§ 1), dessen Erfüllung in diesem Gesetz nicht vorgesehen
 ist, nicht entgegen.
-
 
 #### § 14 Umstellung von Reichsmarkansprüchen
 
@@ -365,13 +336,11 @@ und 10 bezeichneten, bisher nicht umgestellten Ansprüche außer Kraft.
 Das gleiche gilt für die in § 4 Satz 2 bezeichneten, als fortbestehend
 geltenden Ansprüche.
 
-
 #### § 15 Anspruchsschuldner
 
 Anspruchsschuldner der nach den §§ 5, 6, 7 und 10 zu erfüllenden
 Ansprüche ist der Bund. Dies gilt nicht, wenn der Gläubiger von einem
 Dritten Befriedigung für seinen Anspruch verlangen kann.
-
 
 #### § 16 Anmeldung
 
@@ -379,13 +348,11 @@ Auf Grund der nach diesem Gesetz zu erfüllenden Ansprüche können
 Leistungen vom Bund nur verlangt werden, soweit die Ansprüche bei der
 Anmeldestelle (§ 17) fristgerecht (§ 18) angemeldet worden sind.
 
-
 #### § 17 Anmeldestelle
 
 Anmeldestelle für die nach diesem Gesetz vom Bund zu erfüllenden
 Ansprüche ist das Bundesministerium der Finanzen oder eine von ihm zu
 bestimmende Behörde oder Anstalt seines Geschäftsbereichs.
-
 
 #### § 18 Anmeldefrist, Nachsichtgewährung
 
@@ -420,7 +387,6 @@ gerechnet, kann Nachsichtgewährung nicht mehr beantragt werden.
 (3) Ablehnende Entscheidungen der Oberfinanzdirektion München sind
 nach den Vorschriften des Verwaltungszustellungsgesetzes zuzustellen.
 
-
 #### § 19 Klagefrist
 
 Lehnt die Anmeldestelle (§ 17) die Erfüllung eines nach § 16
@@ -433,10 +399,7 @@ des Ablehnungsbescheides; § 58 der Verwaltungsgerichtsordnung gilt
 entsprechend. Die Frist gilt auch dann als gewahrt, wenn der Anspruch
 bei einem unzuständigen Gericht geltend gemacht wird.
 
-
 ### Dritter Abschnitt - Sozialversicherungsrechtliche Ansprüche
-
-
 
 #### § 20 Nachversicherung
 
@@ -478,7 +441,6 @@ rentenversicherungspflichtige Beschäftigung entrichtet sind.
 (5) Die Gewährung von Leistungen richtet sich nach den Vorschriften,
 die für den nach Absatz 2 zuständigen Versicherungszweig gelten.
 
-
 #### § 21 Beginn des Rentenanspruchs
 
 Wird erst durch § 20 ein Anspruch auf Rente begründet oder übersteigt
@@ -487,7 +449,6 @@ bisherige Leistung, so ist im ersten Fall die Rente, im zweiten Fall
 der höhere Betrag frühestens vom Tag des Inkrafttreten dieses Gesetzes
 an zu gewähren.
 
-
 #### § 22 Rentenfeststellung
 
 Soweit bei Versicherungsfällen vor Inkrafttreten dieses Gesetzes
@@ -495,13 +456,11 @@ bereits über den Rentenanspruch entschieden ist, ist die Leistung
 unter Berücksichtigung des § 20 auf Antrag neu festzustellen, wenn
 dies für den Berechtigten günstiger ist. § 21 findet Anwendung.
 
-
 #### § 23 Erstattungspflicht
 
 Den Trägern der gesetzlichen Rentenversicherung werden die Leistungen,
 die auf die in § 20 Abs. 1 bezeichneten Zeiten entfallen, vom Bund
 erstattet.
-
 
 #### § 23a Nachversicherung in Sonderfällen
 
@@ -533,10 +492,7 @@ der allgemeinen Rentenversicherung.
 
 (4) § 20 Abs. 4 und §§ 21 bis 23 gelten entsprechend.
 
-
 ## Zweiter Teil - Vermögenswerte der NSDAP und ihrer Einrichtungen
-
-
 
 ### § 24 Vermögensübergang
 
@@ -573,17 +529,13 @@ des Kontrollrats zuständigen Stellen noch verfügen können.
 
 sind Vermögen des Landes.
 
-
 ## Dritter Teil - Schlußbestimmungen
-
-
 
 ### § 25 Hypothekengewinnabgabe
 
 Bei Anwendung des § 91 des Lastenausgleichsgesetzes auf
 Verbindlichkeit einer Einrichtung (§ 1) gilt diese als am 20. Juni
 1948 noch bestehend.
-
 
 ### § 26 Umstellung und Hypothekengewinnabgabe in Sonderfällen
 
@@ -596,7 +548,6 @@ nationalsozialistischen Einrichtung behandelt worden ist (§ 1 Nr. 2).
 Bei Anwendung der §§ 91 und 92 des Lastenausgleichsgesetzes auf diese
 Ansprüche gilt die in Satz 1 bezeichnete Einrichtung als am 20. Juni
 1948 noch bestehend.
-
 
 ### § 27 Verpflichtungen der Erwerber von Vermögen
 
@@ -627,13 +578,11 @@ nach den für § 92 des Lastenausgleichsgesetzes geltenden Grundsätzen
 ein Zusammenhang der Schuld mit dem auf den einzelnen Erwerber
 übergegangenen Grundbesitz anzunehmen sein würde.
 
-
 ### § 28 Außerkrafttreten von Vorschriften des Allgemeinen Kriegsfolgengesetzes
 
 Mit Inkrafttreten dieses Gesetzes findet § 3 Abs. 2 des Allgemeinen
 Kriegsfolgengesetzes keine Anwendung auf die in dessen § 3 Abs. 1 Nr.
 4 bezeichneten Ansprüche.
-
 
 ### § 29 Londoner Schuldenabkommen
 
@@ -641,19 +590,16 @@ Das Abkommen vom 27. Februar 1953 über deutsche Auslandsschulden und
 die zu seiner Ausführung ergangenen Vorschriften werden durch die
 Vorschriften dieses Gesetzes nicht berührt.
 
-
 ### § 30 Kosten anhängiger Gerichtsverfahren
 
 Soweit sich ein anhängiger Rechtsstreit durch dieses Gesetz erledigt,
 trägt jede Partei ihre außergerichtlichen Kosten und die Hälfte der
 gerichtlichen Auslagen. Gerichtsgebühren werden nicht erhoben.
 
-
 ### § 31 Freistellung von Verwaltungsgebühren
 
 Meldebehördliche Aufenthalts- und Wohnsitzbescheinigungen für Zwecke
 dieses Gesetzes sind gebührenfrei auszustellen.
-
 
 ### § 32 Amts- und Rechtshilfe
 
@@ -664,14 +610,12 @@ Gesetzes befaßten Behörden Amts- und Rechtshilfe zu leisten. Für
 Rechtshilfe der Gerichte gelten die §§ 156 bis 168 des
 Gerichtsverfassungsgesetzes entsprechend.
 
-
 ### § 33 Geltung in Berlin
 
 Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 und des § 13 Abs. 1
 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I
 S. 1) auch im Land Berlin; hierbei tritt in den §§ 25, 26 und 27 Abs.
 3 und 4 an die Stelle des 20. Juni 1948 jeweils der 24. Juni 1948.
-
 
 ### § 34 Inkrafttreten
 

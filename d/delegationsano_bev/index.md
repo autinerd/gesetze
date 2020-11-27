@@ -18,8 +18,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 2515
 
-
-
 ## I. Ernennung und Entlassung von Beamtinnen und Beamten
 
 Nach Abschnitt A. I. b) der Delegationsanordnung BMVBW vom 6. Februar
@@ -29,7 +27,6 @@ des Rechtes zur Ernennung und Entlassung der Beamtinnen und Beamten
 bis zur Besoldungsgruppe A 13 (gehobener Dienst) und der
 entsprechenden Beamtinnen und Beamten bis zur Anstellung auf die
 Leiterinnen und Leiter der Dienststellen des Bundeseisenbahnvermögens.
-
 
 ## II. Übertragung von Befugnissen nach dem Bundesbeamtengesetz und der Bundesnebentätigkeitsverordnung
 
@@ -70,10 +67,6 @@ Befugnis,
     die Inanspruchnahme von Einrichtungen, Personal oder Material des
     Dienstherrn zu erteilen.
 
-
-
-
-
 ## III. Übertragung von Befugnissen nach dem Bundesdisziplinargesetz
 
 Ich übertrage den Leiterinnen und Leitern der Dienststellen des
@@ -100,10 +93,6 @@ Bundeseisenbahnvermögens
 2.  die Ausübung der Disziplinarbefugnisse gegenüber den
     Ruhestandsbeamtinnen und Ruhestandsbeamten des einfachen, mittleren
     und gehobenen Dienstes nach § 84 Satz 1 des Bundesdisziplinargesetzes.
-
-
-
-
 
 ## IV. Übertragung von Befugnissen nach dem Bundesbesoldungsgesetz und ergänzender Bestimmungen
 
@@ -159,7 +148,6 @@ ihrer Tätigkeit im Grenzverkehr ihren dienstlichen Wohnsitz in einem
 ausländischen Ort in Grenznähe haben (§ 52 Abs. 3 des
 Bundesbesoldungsgesetzes), zu entscheiden.
 
-
 ## V. Übertragung von Befugnissen nach dem Bundesreisekostengesetz, Bundesumzugskostengesetz und anderen Vorschriften
 
 Ich ermächtige die Dienststellen des Bundeseisenbahnvermögens,
@@ -187,7 +175,6 @@ Ich ermächtige die Dienststellen des Bundeseisenbahnvermögens,
 
 Die Gewährung von Trennungsgeld nach der Trennungsgeldverordnung
 obliegt den Dienststellen des Bundeseisenbahnvermögens.
-
 
 ## VI. Übertragung von Befugnissen nach dem Beamtenversorgungsgesetz (BeamtVG) und ergänzenden Vorschriften
 
@@ -287,10 +274,6 @@ obliegt den Dienststellen des Bundeseisenbahnvermögens.
 2.  Entscheidungen nach § 29 Abs. 1 und § 31 Abs. 5 des
     Beamtenversorgungsgesetzes.
 
-
-
-
-
 ## VII. Übertragung von Befugnissen nach anderen Vorschriften
 
 Ich übertrage den Dienststellen des Bundeseisenbahnvermögens die
@@ -345,10 +328,6 @@ Befugnis,
     und gehobenen Dienstes und vergleichbare Arbeitnehmerinnen und
     Arbeitnehmer zu entscheiden.
 
-
-
-
-
 ## VIII. Regelung von Zuständigkeiten in Widerspruchsverfahren in Beamtenangelegenheiten
 
 Ich übertrage den Leiterinnen und Leitern der Dienststellen des
@@ -362,7 +341,6 @@ soweit sie oder Stellen der privatisierten Unternehmen im
 Bahnreformbereich zum Erlass oder zur Ablehnung des Verwaltungsaktes
 zuständig waren.
 
-
 ## IX. Vertretung bei Klagen aus dem Beamtenverhältnis
 
 Nach § 174 Abs. 3 des Bundesbeamtengesetzes übertrage ich die
@@ -370,12 +348,10 @@ Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis den
 Dienststellen des Bundeseisenbahnvermögens, soweit sie nach dieser
 Anordnung für die Entscheidung über Widersprüche zuständig sind.
 
-
 ## X. Vorbehaltsklausel
 
 Ich behalte mir im Einzelfall die Zuständigkeit nach den Abschnitten I
 bis IX dieser Anordnung vor.
-
 
 ## XI. Schlussvorschriften
 

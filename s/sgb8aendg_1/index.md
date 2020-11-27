@@ -15,17 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1993, 239
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## (XXXX) Art 1 bis 4
-
-
 
 ## Art 5 Überleitungsvorschriften
 
@@ -35,7 +30,6 @@ Jugendhilfegesetzes und vor Inkrafttreten dieses Gesetzes vorgenommen
 worden sind, sind nicht allein deswegen unwirksam, weil die tätig
 gewordenen Personen nicht die Befähigung zum höheren oder gehobenen
 Verwaltungsdienst besessen haben.
-
 
 ## Art 6 Schlußvorschriften
 
@@ -47,7 +41,6 @@ geändert werden.
 (2) Das Bundesministerium für Frauen und Jugend kann den Wortlaut des
 Achten Buches Sozialgesetzbuch in der vom Inkrafttreten dieses
 Gesetzes an geltenden Fassung im Bundesgesetzblatt bekanntmachen.
-
 
 ## Art 7 Inkrafttreten
 

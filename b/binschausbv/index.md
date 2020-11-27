@@ -21,7 +21,6 @@ abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder
 in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die
 Berufsschule werden als Beilage zum Bundesanzeiger veröffentlicht.
 
-
 ## Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
@@ -31,17 +30,14 @@ zuletzt durch Artikel 184 Nr. 1 der Verordnung vom 25. November 2003
 für Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium
 für Bildung und Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Binnenschiffer/Binnenschifferin wird gemäß § 25
 des Berufsbildungsgesetzes staatlich anerkannt.
 
-
 ## § 2 Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Zielsetzung der Berufsausbildung
 
@@ -52,7 +48,6 @@ Tätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes befähigt
 werden, die insbesondere selbständiges Planen, Durchführen und
 Kontrollieren einschließt. Die in Satz 1 beschriebene Befähigung ist
 auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
-
 
 ## § 4 Ausbildungsberufsbild
 
@@ -105,10 +100,6 @@ Fertigkeiten und Kenntnisse:
 
 15. Verhalten unter besonderen Umständen, Havarien und Betriebsstörungen.
 
-
-
-
-
 ## § 5 Ausbildungsrahmenplan
 
 Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der Anlage
@@ -118,13 +109,11 @@ dem Ausbildungsrahmenplan abweichende sachliche und zeitliche
 Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit
 betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
 ## § 6 Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des
 Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan
 zu erstellen.
-
 
 ## § 7 Berichtsheft
 
@@ -132,7 +121,6 @@ Die Auszubildenden haben ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden
 haben das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 8 Zwischenprüfung
 
@@ -168,7 +156,6 @@ das Fachgespräch soll der Prüfling zeigen, dass er fachbezogene
 Probleme und deren Lösungen darstellen, die für die Arbeitsaufgaben
 relevanten fachlichen Hintergründe aufzeigen sowie die Vorgehensweise
 bei der Durchführung der Arbeitsaufgaben begründen kann.
-
 
 ## § 9 Abschlussprüfung
 
@@ -362,7 +349,6 @@ mindestens ausreichende Leistungen, in dem weiteren Prüfungsbereich
 des Prüfungsteils B dürfen keine ungenügenden Leistungen erbracht
 worden sein.
 
-
 ## § 10 Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
@@ -370,11 +356,9 @@ Verordnung bestehen, sind die bisherigen Vorschriften weiter
 anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
 Anwendung der Vorschriften dieser Verordnung.
 
-
 ## § 11 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2005 in Kraft.
-
 
 ## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Binnenschiffer/zur Binnenschifferin
 

@@ -21,7 +21,6 @@ Neugefaßt durch
 Zuletzt geändert durch
 :   Art. 77 V v. 31.10.2006 I 2407
 
-
 ## § 9 Rechtsverhältnisse der Helfer im Katastrophenschutz
 
 (1) (weggefallen)

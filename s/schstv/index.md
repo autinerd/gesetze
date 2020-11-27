@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 5 G v. 22.12.2010 I 2262
 
-
 ## Eingangsformel
 
 Auf Grund des § 129 Absatz 10 und des § 130b Absatz 6 des Fünften
@@ -28,7 +27,6 @@ Dezember 1991 (BGBl. I S. 2325) geändert worden ist und § 130b Absatz
 6 durch Artikel 1 Nummer 17 des Gesetzes vom 22. Dezember 2010 (BGBl.
 I S. 2262) eingefügt worden ist, verordnet das Bundesministerium für
 Gesundheit:
-
 
 ## § 1 Zusammensetzung und Bestellung
 
@@ -57,14 +55,12 @@ Mitglieder eine Frist setzen. Erfolgt die Bestellung der Mitglieder
 bis zum Ablauf der Frist nicht, bestellt das Bundesministerium für
 Gesundheit die Mitglieder.
 
-
 ## § 2 Amtsperiode
 
 (1) Die Amtsdauer der Mitglieder beträgt vier Jahre, unbeschadet der
 Vorschrift des § 89 Abs. 3 Satz 6 des Fünften Buches Sozialgesetzbuch.
 Die Amtsdauer der während einer Amtsperiode neu bestellten Mitglieder
 endet mit dem Ablauf dieser Amtsperiode.
-
 
 ## § 3 Abberufung und Amtsniederlegung
 
@@ -81,19 +77,16 @@ Gesundheit zu erklären.
 der Nachfolge von während einer Amtsperiode Ausgeschiedenen gilt § 1
 entsprechend.
 
-
 ## § 4 Teilnahme an Sitzungen
 
 Die Mitglieder sind verpflichtet, an den Sitzungen teilzunehmen oder
 bei Verhinderung ihre Stellvertreter zu benachrichtigen. Satz 1 gilt
 entsprechend für die Stellvertreter.
 
-
 ## § 5 Geschäftsstelle
 
 Die Geschäfte der Schiedsstelle werden beim Spitzenverband Bund der
 Krankenkassen geführt. Sie ist an Weisungen des Vorsitzenden gebunden.
-
 
 ## § 6 Einleitung des Schiedsverfahrens, Fristen
 
@@ -126,13 +119,11 @@ anzuzeigen.
 Frist von mindestens zwei Wochen ein. Der Einladung sind
 Sitzungsunterlagen beizufügen, die Gegenstand der Beratung sind.
 
-
 ## § 7 Vorlagepflicht
 
 Auf Verlangen der Schiedsstelle haben die Vertragsparteien der
 Schiedsstelle die für die Entscheidung erforderlichen Unterlagen
 vorzulegen.
-
 
 ## § 8 Beratung und Beschlußfassung
 
@@ -177,7 +168,6 @@ jeweils unverzüglich schriftlich über die Einleitung eines
 Schiedsverfahrens nach § 6 Abs. 1 oder 2, die Verhandlungstermine der
 Schiedsstelle und die Entscheidung nach § 8 Abs. 2.
 
-
 ## § 9 Entschädigung und Kosten
 
 (1) Der Vorsitzende und die zwei weiteren unparteiischen Mitglieder
@@ -202,11 +192,9 @@ unparteiischen Mitglieder oder ihre Stellvertreter tragen zur Hälfte
 der Spitzenverband Bund der Krankenkassen und zur Hälfte die anderen
 an der Schiedsstelle beteiligten Verbände.
 
-
 ## § 10 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlußformel
 

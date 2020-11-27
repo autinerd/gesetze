@@ -18,13 +18,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1994, 686
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -36,7 +33,6 @@ gegenseitigen Beistands bei den Steuern (Deutsch-schwedisches
 Steuerabkommen) wird zugestimmt. Das Abkommen wird nachstehend
 veröffentlicht.
 
-
 ## Art 2
 
 Soweit das Abkommen auf Grund seines Artikels 46 Abs. 3 für die Zeit
@@ -45,7 +41,6 @@ Steuerfestsetzungen zu ändern oder aufzuheben. Die vierjährige Frist
 für die Anträge auf Erstattung von Kapitalertragsteuer
 (Festsetzungsfrist) beginnt mit Ablauf des Kalenderjahrs, in dem das
 Abkommen in Kraft getreten ist.
-
 
 ## Art 3
 

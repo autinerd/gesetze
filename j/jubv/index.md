@@ -22,13 +22,11 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 15 Abs. 19 G v. 5.2.2009 I 160
 
-
 ## § 1
 
 Bundesbeamte erhalten bei Vollendung einer Dienstzeit von
 fünfundzwanzig, vierzig und fünfzig Jahren nach den folgenden
 Bestimmungen eine Jubiläumszuwendung mit einer Dankurkunde.
-
 
 ## § 2
 
@@ -58,7 +56,6 @@ Berufung in das Beamtenverhältnis schon eine Dienstzeit nach § 1
 vollendet, die Jubiläumszuwendung aber nach tarifrechtlichen
 Bestimmungen noch nicht erhalten, so erhält er sie nach seiner
 Ernennung.
-
 
 ## § 3
 
@@ -117,7 +114,6 @@ Belangen dient, oder für Zeiten einer Kinderbetreuung im Sinne des §
 
 (3) Derselbe Zeitraum darf nur einmal angerechnet werden.
 
-
 ## § 4
 
 Bei Anwendung des § 3 werden auch berücksichtigt
@@ -133,15 +129,10 @@ Bei Anwendung des § 3 werden auch berücksichtigt
 2.  die Zeit, die auf Grund gewährter Wiedergutmachung
     nationalsozialistischen Unrechts anzurechnen ist.
 
-
-
-
-
 ## § 5
 
 Die Jubiläumszuwendung entfällt, wenn aus demselben Anlaß eine
 Jubiläumszuwendung aus öffentlichen Mitteln gewährt worden ist.
-
 
 ## § 6
 
@@ -156,7 +147,6 @@ Zeit der Beurlaubung eine Dienstzeit nach § 1, so wird ihm bei
 Vorliegen der Voraussetzungen des § 3 Abs. 2 Satz 2 bei Wiederaufnahme
 des Dienstes die Jubiläumszuwendung für die zuletzt vollendete
 Dienstzeit gewährt.
-
 
 ## § 7
 
@@ -189,7 +179,6 @@ Disziplinarklage abgewiesen wird, es sei denn, dass eine Kürzung des
 Ruhegehaltes nur im Hinblick auf § 14 des Bundesdisziplinargesetzes
 nicht verhängt worden ist.
 
-
 ## § 8
 
 (1) Die Jubiläumszuwendung wird von der obersten Dienstbehörde
@@ -202,23 +191,19 @@ Jubiläumszuwendung anderer Art gewährt wurde, kann bestimmen, daß eine
 solche Zuwendung unter Anrechnung auf die Jubiläumszuwendung nach § 2
 Abs. 1 weiterhin gewährt wird.
 
-
 ## § 9
 
 Für Richter des Bundes gelten die Vorschriften dieser Verordnung
 entsprechend.
-
 
 ## § 10
 
 Die zur Durchführung dieser Verordnung erforderlichen Bestimmungen
 erläßt der Bundesminister des Innern.
 
-
 ## § 11 (weggefallen)
 
 -
-
 
 ## § 12
 

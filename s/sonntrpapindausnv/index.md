@@ -19,13 +19,11 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 14 G v. 6. 6.1994 I 1170
 
-
 ## Eingangsformel
 
 Auf Grund des § 105d der Gewerbeordnung in Verbindung mit Artikel 129
 Abs. 1 des Grundgesetzes wird mit Zustimmung des Bundesrates für die
 Papierindustrie verordnet:
-
 
 ## § 1
 
@@ -85,10 +83,6 @@ werden können:
 
 3.  Abtransport der Rollen oder Formate zur Lagerung im Zwischenlager.
 
-
-
-
-
 ## § 2
 
 (1) Die Beschäftigung nach § 1 ist an einem Sonn- oder Feiertag in
@@ -116,12 +110,10 @@ b)  nach 10 Uhr am Sonn- oder Feiertag an den Papiermaschinen, die an
 
 nicht vorgenommen werden.
 
-
 ## § 3
 
 Arbeitnehmer dürfen nach § 1 nur unter den in §§ 4 bis 9 vorgesehenen
 Bedingungen beschäftigt werden.
-
 
 ## § 4
 
@@ -138,7 +130,6 @@ Pfingstfeiertagen eine ununterbrochene Ruhezeit von jeweils mindestens
 48 Stunden und am 1. Mai eine ununterbrochene Ruhezeit von mindestens
 40 Stunden zu gewähren.
 
-
 ## § 5
 
 (1) Die Arbeitszeit an einem Sonn- oder Feiertag darf die Dauer von
@@ -147,7 +138,6 @@ acht Stunden nicht überschreiten.
 (2) Den Arbeitnehmern ist für die Beschäftigung an einem Sonntag eine
 ununterbrochene Ersatzruhezeit von mindestens 24 Stunden in derselben
 oder in der vorhergehenden Woche zu gewähren.
-
 
 ## § 6
 
@@ -165,14 +155,9 @@ a)  die in § 4 Abs. 1 Satz 1 vorgeschriebene Dauer der Ruhezeit für
 b)  die in § 5 Abs. 1 vorgeschriebene Dauer der Arbeitszeit an Sonntagen
     auf höchstens 12 Stunden verlängert werden.
 
-
-
-
-
 ## § 7
 
 -
-
 
 ## § 8
 
@@ -195,18 +180,15 @@ Ablauf von zwei Jahren nach der letzten Eintragung aufzubewahren. Die
 Landesregierungen können durch Rechtsverordnung eine einheitliche Form
 für das Verzeichnis vorschreiben.
 
-
 ## § 9
 
 Wer Arbeitnehmer nach § 1 beschäftigt, hat einen Abdruck dieser
 Verordnung an geeigneter Stelle im Betrieb zur Einsicht auszulegen
 oder auszuhängen.
 
-
 ## § 10
 
 -
-
 
 ## § 11
 
@@ -215,7 +197,6 @@ oder auszuhängen.
 (2)
 
 (3)
-
 
 ## Schlußformel
 

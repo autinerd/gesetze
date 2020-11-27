@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 2262, 2275
 
-
 ## § 1 Anspruch auf Abschläge
 
 Die pharmazeutischen Unternehmer haben den Unternehmen der privaten
@@ -33,7 +32,6 @@ Die Abschläge nach Satz 1 dürfen von den Unternehmen der privaten
 Krankenversicherung ausschließlich zur Vermeidung oder Begrenzung von
 Prämienerhöhungen oder zur Prämienermäßigung bei den
 Versichertenbeständen verwendet werden.
-
 
 ## § 2 Nachweis
 
@@ -59,7 +57,6 @@ Abschläge entweder selbst durchzuführen oder durch die zentrale Stelle
 unter angemessener Beteiligung an den Kosten durchführen zu lassen.
 Sie können den Vereinbarungen nach Satz 4 beitreten.
 
-
 ## § 3 Prüfung durch Treuhänder
 
 Die pharmazeutischen Unternehmer können in begründeten Fällen sowie in
@@ -71,7 +68,6 @@ Verordnungsblättern vorgelegt werden. Der Treuhänder darf die ihm
 übermittelten Daten nur zum Zwecke der Überprüfung der Abrechnung der
 Abschläge verarbeiten und nutzen. Weitere Einzelheiten der Prüfung
 können in der Vereinbarung nach § 2 Satz 4 geregelt werden.
-
 
 ## § 4 Angaben auf dem Verordnungsblatt
 
@@ -91,7 +87,6 @@ werden, dass die Apotheken einen Beleg in maschinenlesbarer Form über
 die Pharmazentralnummer des abgegebenen Arzneimittels, den Kaufpreis
 und das Abgabedatum ausstellen. Sonstige Träger nach § 1 Satz 2 können
 der Vereinbarung nach Satz 2 beitreten.
-
 
 ## § 5 Datenübermittlung durch pharmazeutische Unternehmer
 

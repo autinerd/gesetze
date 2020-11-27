@@ -19,13 +19,11 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 Abs. 6 G v. 12.8.2005 I 2354
 
-
 ## Eingangsformel
 
 Auf Grund der §§ 64, 65 des Bereinigungsgesetzes für deutsche
 Auslandsbonds vom 25. August 1952 (Bundesgesetzbl. I S. 553) verordnet
 die Bundesregierung mit Zustimmung des Bundesrates:
-
 
 ## § 1 Höhe der Verwaltungsabgabe
 
@@ -101,17 +99,12 @@ Umrechnungssätze anzuwenden:
 
     *   20,40 DM.
 
-
-
-
-
 ## § 2 Anrechnung früherer Leistungen
 
 Auf die Verwaltungsabgabe nach § 1 werden die Beträge angerechnet, die
 als Abschlag auf die Verwaltungsabgabe für das Bereinigungsverfahren
 nach § 1 der Fünften Durchführungsverordnung vom 28. Juli 1953
 geleistet worden sind.
-
 
 ## § 3 Erhebung der Verwaltungsabgabe
 
@@ -138,19 +131,16 @@ Aussteller.
 (5) Die allgemeinen Vorschriften des Zweiten Teils der Abgabenordnung
 gelten sinngemäß, soweit nichts anderes bestimmt ist.
 
-
 ## § 4 Befreiungen
 
 Der Bund, die Länder sowie die Konversionskasse für deutsche
 Auslandsschulden sind von den Zahlungen nach § 1 befreit.
-
 
 ## § 5 Land Berlin
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit § 78 des
 Bereinigungsgesetzes für deutsche Auslandsbonds auch im Land Berlin.
-
 
 ## § 6 Inkrafttreten
 

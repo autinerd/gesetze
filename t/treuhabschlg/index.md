@@ -15,22 +15,17 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1994, 2062
 
-
-
 ## Art 1 Änderung des Treuhandgesetzes
 
 -
-
 
 ## Art 2 Aufhebung der Satzung der Treuhandanstalt
 
 -
 
-
 ## Art 3 Änderung sonstiger Gesetze
 
 -
-
 
 ## Art 4 Übergangsvorschriften
 
@@ -40,7 +35,6 @@ Geschäftsordnung fort.
 
 (2) § 6 des Treuhandgesetzes ist letztmalig auf den Jahresabschluß
 1994 anzuwenden.
-
 
 ## Art 5 Inkrafttreten
 

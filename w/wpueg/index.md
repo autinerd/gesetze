@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2c G v. 28.11.2012 I 2369
 
-
 ## Abschnitt 1 - Allgemeine Vorschriften
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -99,7 +96,6 @@ Inhalt und Form der Mitteilung und der Veröffentlichung nach Satz 2 zu
 erlassen. Das Bundesministerium der Finanzen kann die Ermächtigung
 durch Rechtsverordnung auf die Bundesanstalt übertragen.
 
-
 ### § 2 Begriffsbestimmungen
 
 (1) Angebote sind freiwillige oder auf Grund einer Verpflichtung nach
@@ -175,7 +171,6 @@ anderen Staat des Europäischen Wirtschaftsraums.
 Europäischen Gemeinschaften sowie die Staaten des Abkommens über den
 Europäischen Wirtschaftsraum.
 
-
 ### § 3 Allgemeine Grundsätze
 
 (1) Inhaber von Wertpapieren der Zielgesellschaft, die derselben
@@ -196,10 +191,7 @@ Zeitraum hinaus in ihrer Geschäftstätigkeit behindert werden.
 Bietergesellschaft oder anderer durch das Angebot betroffener
 Gesellschaften dürfen keine Marktverzerrungen geschaffen werden.
 
-
 ## Abschnitt 2 - Zuständigkeit der Bundesanstalt für Finanzdienstleistungsaufsicht
-
-
 
 ### § 4 Aufgaben und Befugnisse
 
@@ -213,7 +205,6 @@ sind, diese Missstände zu beseitigen oder zu verhindern.
 
 (2) Die Bundesanstalt nimmt die ihr nach diesem Gesetz zugewiesenen
 Aufgaben und Befugnisse nur im öffentlichen Interesse wahr.
-
 
 ### § 5 Beirat
 
@@ -271,7 +262,6 @@ von ihm beauftragten Exekutivdirektor oder Beamten geleitet.
 
 (5) Der Beirat gibt sich eine Geschäftsordnung.
 
-
 ### § 6 Widerspruchsausschuss
 
 (1) Bei der Bundesanstalt wird ein Widerspruchsausschuss gebildet.
@@ -308,7 +298,6 @@ Beisitzer, die vorzeitige Beendigung und die Vertretung erlassen. Das
 Bundesministerium der Finanzen kann die Ermächtigung durch
 Rechtsverordnung auf die Bundesanstalt übertragen.
 
-
 ### § 7 Zusammenarbeit mit Aufsichtsbehörden im Inland
 
 (1) Das Bundeskartellamt und die Bundesanstalt haben einander die für
@@ -322,7 +311,6 @@ Angebotsunterlage. Bei der Übermittlung personenbezogener Daten ist §
 
 (2) Die Bundesanstalt kann sich bei der Durchführung ihrer Aufgaben
 nach diesem Gesetz privater Personen und Einrichtungen bedienen.
-
 
 ### § 8 Zusammenarbeit mit zuständigen Stellen im Ausland
 
@@ -356,7 +344,6 @@ Handelsüberwachungsstellen der Börsen mitteilen.
 
 (4) Die Regelungen über die internationale Rechtshilfe in Strafsachen
 bleiben unberührt.
-
 
 ### § 9 Verschwiegenheitspflicht
 
@@ -420,10 +407,7 @@ Widerspruchsausschusses sind nach dem Verpflichtungsgesetz vom 2. März
 von der Bundesanstalt auf eine gewissenhafte Erfüllung ihrer
 Obliegenheiten zu verpflichten.
 
-
 ## Abschnitt 3 - Angebote zum Erwerb von Wertpapieren
-
-
 
 ### § 10 Veröffentlichung der Entscheidung zur Abgabe eines Angebots
 
@@ -505,7 +489,6 @@ mitzuteilen.
 
 (6) § 15 des Wertpapierhandelsgesetzes gilt nicht für Entscheidungen
 zur Abgabe eines Angebots.
-
 
 ### § 11 Angebotsunterlage
 
@@ -600,7 +583,6 @@ die nicht der Zustimmung des Bundesrates bedarf,
 (5) Das Bundesministerium der Finanzen kann die Ermächtigung nach
 Absatz 4 durch Rechtsverordnung auf die Bundesanstalt übertragen.
 
-
 ### § 11a Europäischer Pass
 
 Die von der zuständigen Aufsichtsstelle eines anderen Staates des
@@ -609,7 +591,6 @@ europäisches Angebot zum Erwerb von Wertpapieren einer
 Zielgesellschaft im Sinne des § 2 Abs. 3 Nr. 2, deren Wertpapiere auch
 im Inland zum Handel an einem organisierten Markt zugelassen sind,
 wird im Inland ohne zusätzliches Billigungsverfahren anerkannt.
-
 
 ### § 12 Haftung für die Angebotsunterlage
 
@@ -667,7 +648,6 @@ ermäßigt oder erlassen wird, ist unwirksam.
 bürgerlichen Rechts auf Grund von Verträgen oder vorsätzlichen
 unerlaubten Handlungen erhoben werden können, bleiben unberührt.
 
-
 ### § 13 Finanzierung des Angebots
 
 (1) Der Bieter hat vor der Veröffentlichung der Angebotsunterlage die
@@ -691,7 +671,6 @@ schriftliche Bestätigung erteilt hat, den Ersatz des ihm aus der nicht
 vollständigen Erfüllung entstandenen Schadens verlangen.
 
 (3) § 12 Abs. 2 bis 6 gilt entsprechend.
-
 
 ### § 14 Übermittlung und Veröffentlichung der Angebotsunterlage
 
@@ -742,7 +721,6 @@ zuständigen Betriebsrat oder, sofern ein solcher nicht besteht,
 unmittelbar den Arbeitnehmern unverzüglich nach der Veröffentlichung
 nach Absatz 3 Satz 1 zu übermitteln.
 
-
 ### § 15 Untersagung des Angebots
 
 (1) Die Bundesanstalt untersagt das Angebot, wenn
@@ -774,7 +752,6 @@ Form vornimmt.
 (3) Ist das Angebot nach Absatz 1 oder 2 untersagt worden, so ist die
 Veröffentlichung der Angebotsunterlage verboten. Ein Rechtsgeschäft
 auf Grund eines nach Absatz 1 oder 2 untersagten Angebots ist nichtig.
-
 
 ### § 16 Annahmefristen; Einberufung der Hauptversammlung
 
@@ -822,13 +799,11 @@ bekannt zu machen. Die Zusendung von Mitteilungen kann unterbleiben,
 wenn zur Überzeugung des Vorstands mit Zustimmung des Aufsichtsrats
 der rechtzeitige Eingang bei den Aktionären nicht wahrscheinlich ist.
 
-
 ### § 17 Unzulässigkeit der öffentlichen Aufforderung zur Abgabe von Angeboten
 
 Eine öffentliche auf den Erwerb von Wertpapieren der Zielgesellschaft
 gerichtete Aufforderung des Bieters zur Abgabe von Angeboten durch die
 Inhaber der Wertpapiere ist unzulässig.
-
 
 ### § 18 Bedingungen; Unzulässigkeit des Vorbehalts des Rücktritts und des Widerrufs
 
@@ -841,7 +816,6 @@ ausschließlich selbst herbeiführen können.
 (2) Ein Angebot, das unter dem Vorbehalt des Widerrufs oder des
 Rücktritts abgegeben wird, ist unzulässig.
 
-
 ### § 19 Zuteilung bei einem Teilangebot
 
 Ist bei einem Angebot, das auf den Erwerb nur eines bestimmten Anteils
@@ -850,7 +824,6 @@ oder die Anzahl der Wertpapiere, die der Bieter erwerben kann, höher
 als der Anteil oder die Anzahl der Wertpapiere, die der Bieter zu
 erwerben sich verpflichtet hat, so sind die Annahmeerklärungen
 grundsätzlich verhältnismäßig zu berücksichtigen.
-
 
 ### § 20 Handelsbestand
 
@@ -891,7 +864,6 @@ unverzüglich mitzuteilen. Die Bundesanstalt kann die Befreiung nach
 Absatz 1 außer nach den Vorschriften des Verwaltungsverfahrensgesetzes
 widerrufen, wenn die Verpflichtung nach Satz 1 nicht erfüllt worden
 ist.
-
 
 ### § 21 Änderung des Angebots
 
@@ -936,7 +908,6 @@ Rechtsvorschriften verstößt.
 (6) Eine erneute Änderung des Angebots innerhalb der in Absatz 5
 genannten Frist von zwei Wochen ist unzulässig.
 
-
 ### § 22 Konkurrierende Angebote
 
 (1) Konkurrierende Angebote sind Angebote, die während der
@@ -953,7 +924,6 @@ oder gegen Rechtsvorschriften verstößt.
 angenommen haben, können bis zum Ablauf der Annahmefrist vom Vertrag
 zurücktreten, sofern der Vertragsschluss vor Veröffentlichung der
 Angebotsunterlage des konkurrierenden Angebots erfolgte.
-
 
 ### § 23 Veröffentlichungspflichten des Bieters nach Abgabe des Angebots
 
@@ -997,7 +967,6 @@ jeden Anteil gewährten Gegenleistung unverzüglich gemäß § 14 Abs. 3
 Satz 1 zu veröffentlichen und der Bundesanstalt mitzuteilen. § 31 Abs.
 6 gilt entsprechend.
 
-
 ### § 24 Grenzüberschreitende Angebote
 
 Hat der Bieter bei grenzüberschreitenden Angeboten zugleich die
@@ -1008,14 +977,12 @@ Bieter auf Antrag gestatten, bestimmte Inhaber von Wertpapieren mit
 Wohnsitz, Sitz oder gewöhnlichem Aufenthalt in dem Staat von dem
 Angebot auszunehmen.
 
-
 ### § 25 Beschluss der Gesellschafterversammlung des Bieters
 
 Hat der Bieter das Angebot unter der Bedingung eines Beschlusses
 seiner Gesellschafterversammlung abgegeben, hat er den Beschluss
 unverzüglich, spätestens bis zum fünften Werktag vor Ablauf der
 Annahmefrist, herbeizuführen.
-
 
 ### § 26 Sperrfrist
 
@@ -1031,7 +998,6 @@ Sätze 1 und 2 gelten nicht, wenn der Bieter zur Veröffentlichung nach
 (2) Die Bundesanstalt kann den Bieter auf schriftlichen Antrag von dem
 Verbot des Absatzes 1 Satz 1 und 2 befreien, wenn die Zielgesellschaft
 der Befreiung zustimmt.
-
 
 ### § 27 Stellungnahme des Vorstands und Aufsichtsrats der Zielgesellschaft
 
@@ -1072,7 +1038,6 @@ unmittelbar den Arbeitnehmern zu übermitteln. Der Vorstand und der
 Aufsichtsrat der Zielgesellschaft haben der Bundesanstalt unverzüglich
 die Veröffentlichung gemäß § 14 Abs. 3 Satz 1 Nr. 2 mitzuteilen.
 
-
 ### § 28 Werbung
 
 (1) Um Missständen bei der Werbung im Zusammenhang mit Angeboten zum
@@ -1081,10 +1046,7 @@ Arten der Werbung untersagen.
 
 (2) Vor allgemeinen Maßnahmen nach Absatz 1 ist der Beirat zu hören.
 
-
 ## Abschnitt 4 - Übernahmeangebote
-
-
 
 ### § 29 Begriffsbestimmungen
 
@@ -1093,7 +1055,6 @@ gerichtet sind.
 
 (2) Kontrolle ist das Halten von mindestens 30 Prozent der Stimmrechte
 an der Zielgesellschaft.
-
 
 ### § 30 Zurechnung von Stimmrechten
 
@@ -1194,7 +1155,6 @@ die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen
 Unabhängigkeit des Wertpapierdienstleistungsunternehmens vom Bieter
 gegeben ist.
 
-
 ### § 31 Gegenleistung
 
 (1) Der Bieter hat den Aktionären der Zielgesellschaft eine
@@ -1258,13 +1218,11 @@ Ermittlung des Unterschiedsbetrages nach den Absätzen 4 und 5
 erlassen. Das Bundesministerium der Finanzen kann die Ermächtigung
 durch Rechtsverordnung auf die Bundesanstalt übertragen.
 
-
 ### § 32 Unzulässigkeit von Teilangeboten
 
 Ein Übernahmeangebot, das sich nur auf einen Teil der Aktien der
 Zielgesellschaft erstreckt, ist unbeschadet der Vorschrift des § 24
 unzulässig.
-
 
 ### § 33 Handlungen des Vorstands der Zielgesellschaft
 
@@ -1291,7 +1249,6 @@ Handlungen des Vorstands auf Grund einer Ermächtigung nach Satz 1
 bedürfen der Zustimmung des Aufsichtsrats.
 
 (3) (weggefallen)
-
 
 ### § 33a Europäisches Verhinderungsverbot
 
@@ -1330,7 +1287,6 @@ denen Wertpapiere der Gesellschaft zum Handel an einem organisierten
 Markt zugelassen sind, unverzüglich davon zu unterrichten, dass die
 Zielgesellschaft eine Satzungsbestimmung nach Absatz 1 Satz 1
 beschlossen hat.
-
 
 ### § 33b Europäische Durchbrechungsregel
 
@@ -1385,7 +1341,6 @@ Zielgesellschaft bekannt sind. Der Anspruch auf Entschädigung nach
 Satz 1 kann nur bis zum Ablauf von zwei Monaten seit dem Entzug der
 Rechte gerichtlich geltend gemacht werden.
 
-
 ### § 33c Vorbehalt der Gegenseitigkeit
 
 (1) Die Hauptversammlung einer Zielgesellschaft, deren Satzung die
@@ -1409,7 +1364,6 @@ unverzüglich von der Ermächtigung zu unterrichten. Die Ermächtigung
 ist unverzüglich auf der Internetseite der Zielgesellschaft zu
 veröffentlichen.
 
-
 ### § 33d Verbot der Gewährung ungerechtfertigter Leistungen
 
 Dem Bieter und mit ihm gemeinsam handelnden Personen ist es verboten,
@@ -1418,16 +1372,12 @@ Zusammenhang mit dem Angebot ungerechtfertigte Geldleistungen oder
 andere ungerechtfertigte geldwerte Vorteile zu gewähren oder in
 Aussicht zu stellen.
 
-
 ### § 34 Anwendung der Vorschriften des Abschnitts 3
 
 Für Übernahmeangebote gelten die Vorschriften des Abschnitts 3, soweit
 sich aus den vorstehenden Vorschriften nichts anderes ergibt.
 
-
 ## Abschnitt 5 - Pflichtangebote
-
-
 
 ### § 35 Verpflichtung zur Veröffentlichung und zur Abgabe eines Angebots
 
@@ -1457,7 +1407,6 @@ Zielgesellschaft gehalten werden.
 Übernahmeangebots erworben, besteht keine Verpflichtung nach Absatz 1
 Satz 1 und Absatz 2 Satz 1.
 
-
 ### § 36 Nichtberücksichtigung von Stimmrechten
 
 Die Bundesanstalt lässt auf schriftlichen Antrag zu, dass Stimmrechte
@@ -1475,10 +1424,6 @@ wurden durch
 
 
 3.  Umstrukturierungen innerhalb eines Konzerns.
-
-
-
-
 
 ### § 37 Befreiung von der Verpflichtung zur Veröffentlichung und zur Abgabe eines Angebots
 
@@ -1498,7 +1443,6 @@ die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen
 Abs.2 Satz 1 erlassen. Das Bundesministerium der Finanzen kann die
 Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
 
-
 ### § 38 Anspruch auf Zinsen
 
 Der Bieter ist den Aktionären der Zielgesellschaft für die Dauer des
@@ -1517,20 +1461,13 @@ nach § 247 des Bürgerlichen Gesetzbuchs verpflichtet, wenn
 3.  ihm ein Angebot im Sinne des § 35 Abs. 2 Satz 1 nach § 15 Abs. 1 Nr.
     1, 2 oder 3 untersagt worden ist.
 
-
-
-
-
 ### § 39 Anwendung der Vorschriften des Abschnitts 3 und 4
 
 Für Angebote nach § 35 Abs. 2 Satz 1 gelten mit Ausnahme von § 10 Abs.
 1 Satz 1, § 14 Abs. 1 Satz 1, § 16 Abs. 2, § 18 Abs. 1, §§ 19, 25, 26
 und 34 die Vorschriften der Abschnitte 3 und 4 sinngemäß.
 
-
 ## Abschnitt 5a - Ausschluss, Andienungsrecht
-
-
 
 ### § 39a Ausschluss der übrigen Aktionäre
 
@@ -1569,7 +1506,6 @@ Frankfurt am Main.
 (6) Die §§ 327a bis 327f des Aktiengesetzes finden nach Stellung eines
 Antrags bis zum rechtskräftigen Abschluss des Ausschlussverfahrens
 keine Anwendung.
-
 
 ### § 39b Ausschlussverfahren
 
@@ -1626,7 +1562,6 @@ zweckentsprechenden Erledigung der Angelegenheit notwendig waren, ganz
 oder zum Teil vom Antragsteller zu erstatten sind, wenn dies der
 Billigkeit entspricht.
 
-
 ### § 39c Andienungsrecht
 
 Nach einem Übernahme- oder Pflichtangebot können die Aktionäre einer
@@ -1637,10 +1572,7 @@ Erfüllt der Bieter seine Verpflichtungen nach § 23 Abs. 1 Satz 1 Nr. 4
 oder Satz 2 nicht, beginnt die in Satz 1 genannte Dreimonatsfrist erst
 mit der Erfüllung der Verpflichtungen zu laufen.
 
-
 ## Abschnitt 6 - Verfahren
-
-
 
 ### § 40 Ermittlungsbefugnisse der Bundesanstalt
 
@@ -1676,7 +1608,6 @@ Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 Der Verpflichtete ist über sein Recht zur Verweigerung der Auskunft zu
 belehren.
 
-
 ### § 41 Widerspruchsverfahren
 
 (1) Vor Einlegung der Beschwerde sind Rechtmäßigkeit und
@@ -1706,13 +1637,11 @@ zulässig, sofern die Sache keine wesentlichen Schwierigkeiten in
 tatsächlicher und rechtlicher Hinsicht aufweist und die Entscheidung
 nicht von grundsätzlicher Bedeutung sein wird.
 
-
 ### § 42 Sofortige Vollziehbarkeit
 
 Der Widerspruch gegen Maßnahmen der Bundesanstalt nach § 4 Abs. 1 Satz
 3, § 15 Abs. 1 oder 2, § 28 Abs. 1 oder § 40 Abs. 1 und 2 hat keine
 aufschiebende Wirkung.
-
 
 ### § 43 Bekanntgabe und Zustellung
 
@@ -1730,7 +1659,6 @@ Bevollmächtigte benannt wurde. Ist kein Bevollmächtigter benannt, so
 erfolgt die Zustellung durch öffentliche Bekanntmachung im
 Bundesanzeiger.
 
-
 ### § 44 Veröffentlichungsrecht der Bundesanstalt
 
 Die Bundesanstalt kann ihre Verfügungen nach § 4 Abs. 1 Satz 3, § 10
@@ -1739,14 +1667,12 @@ Abs. 2 Satz 3, § 15 Abs. 1 und 2, § 20 Abs. 1, § 28 Abs. 1, § 36 oder
 2, auf Kosten des Adressaten der Verfügung im Bundesanzeiger
 veröffentlichen.
 
-
 ### § 45 Mitteilungen an die Bundesanstalt
 
 Anträge und Mitteilungen an die Bundesanstalt haben in schriftlicher
 Form zu erfolgen. Eine Übermittlung im Wege der elektronischen
 Datenfernübertragung ist zulässig, sofern der Absender zweifelsfrei zu
 erkennen ist.
-
 
 ### § 46 Zwangsmittel
 
@@ -1758,7 +1684,6 @@ Beschwerde gegen die Androhung und Festsetzung der Zwangsmittel nach
 den §§ 13 und 14 des Verwaltungs-Vollstreckungsgesetzes haben keine
 aufschiebende Wirkung. Die Höhe des Zwangsgeldes beträgt abweichend
 von § 11 des Verwaltungs-Vollstreckungsgesetzes bis zu 500.000 Euro.
-
 
 ### § 47 Kosten
 
@@ -1772,10 +1697,7 @@ der Zustimmung des Bundesrates bedarf. Das Bundesministerium der
 Finanzen kann die Ermächtigung durch Rechtsverordnung auf die
 Bundesanstalt übertragen.
 
-
 ## Abschnitt 7 - Rechtsmittel
-
-
 
 ### § 48 Statthaftigkeit, Zuständigkeit
 
@@ -1795,7 +1717,6 @@ Die Unterlassung ist dann einer Ablehnung gleich zu erachten.
 (4) Über die Beschwerde entscheidet ausschließlich das für den Sitz
 der Bundesanstalt in Frankfurt am Main zuständige Oberlandesgericht.
 
-
 ### § 49 Aufschiebende Wirkung
 
 Die Beschwerde hat aufschiebende Wirkung, soweit durch die
@@ -1803,7 +1724,6 @@ angefochtene Verfügung eine Befreiung nach § 10 Abs. 1 Satz 3 oder §
 37 Abs. 1, auch in Verbindung mit einer Rechtsverordnung nach Abs. 2,
 oder eine Nichtberücksichtigung von Stimmrechtsanteilen nach § 36
 widerrufen wird.
-
 
 ### § 50 Anordnung der sofortigen Vollziehung
 
@@ -1845,7 +1765,6 @@ gemacht werden. Sie kann auch befristet werden.
 oder aufgehoben werden. Soweit durch sie den Anträgen entsprochen ist,
 sind sie unanfechtbar.
 
-
 ### § 51 Frist und Form
 
 (1) Die Beschwerde ist binnen einer Notfrist von einem Monat bei dem
@@ -1870,15 +1789,10 @@ Beschwerdegerichts verlängert werden.
 2.  die Angabe der Tatsachen und Beweismittel, auf die sich die Beschwerde
     stützt.
 
-
-
-
-
 ### § 52 Beteiligte am Beschwerdeverfahren
 
 An dem Verfahren vor dem Beschwerdegericht sind der Beschwerdeführer
 und die Bundesanstalt beteiligt.
-
 
 ### § 53 Anwaltszwang
 
@@ -1889,7 +1803,6 @@ Bevollmächtigten vertreten lassen. Die Bundesanstalt kann sich durch
 einen Beamten auf Lebenszeit mit Befähigung zum Richteramt vertreten
 lassen.
 
-
 ### § 54 Mündliche Verhandlung
 
 (1) Das Beschwerdegericht entscheidet über die Beschwerde auf Grund
@@ -1899,7 +1812,6 @@ mündliche Verhandlung entschieden werden.
 (2) Sind die Beteiligten in dem Verhandlungstermin trotz rechtzeitiger
 Benachrichtigung nicht erschienen oder gehörig vertreten, so kann
 gleichwohl in der Sache verhandelt und entschieden werden.
-
 
 ### § 55 Untersuchungsgrundsatz
 
@@ -1917,7 +1829,6 @@ Punkte zu äußern, Beweismittel zu bezeichnen und in ihren Händen
 befindliche Urkunden sowie andere Beweismittel vorzulegen. Bei
 Versäumung der Frist kann nach Lage der Sache ohne Berücksichtigung
 der nicht beigebrachten Beweismittel entschieden werden.
-
 
 ### § 56 Beschwerdeentscheidung; Vorlagepflicht
 
@@ -1958,7 +1869,6 @@ Oberlandesgerichts oder des Bundesgerichtshofs abweichen, so legt es
 die Sache dem Bundesgerichtshof vor. Der Bundesgerichtshof entscheidet
 anstelle des Oberlandesgerichts.
 
-
 ### § 57 Akteneinsicht
 
 (1) Die in § 52 bezeichneten Beteiligten können die Akten des
@@ -1987,7 +1897,6 @@ Betroffenen an der Geheimhaltung überwiegt. Der Beschluss ist zu
 begründen. In dem Verfahren nach Satz 4 muss sich der Betroffene nicht
 anwaltlich vertreten lassen.
 
-
 ### § 58 Geltung von Vorschriften des Gerichtsverfassungsgesetzes und der Zivilprozessordnung
 
 Im Verfahren vor dem Beschwerdegericht gelten, soweit nichts anderes
@@ -2007,13 +1916,7 @@ bestimmt ist, entsprechend
     Beweisverfahrens, über die Wiedereinsetzung in den vorigen Stand gegen
     die Versäumung einer Frist.
 
-
-
-
-
 ## Abschnitt 8 - Sanktionen
-
-
 
 ### § 59 Rechtsverlust
 
@@ -2026,7 +1929,6 @@ oder 2 nicht erfüllt werden. Dies gilt nicht für Ansprüche nach § 58
 Abs. 4 des Aktiengesetzes und § 271 des Aktiengesetzes, wenn die
 Veröffentlichung oder das Angebot nach § 35 Abs. 1 Satz 1 oder Abs. 2
 Satz 1 nicht vorsätzlich unterlassen wurde und nachgeholt worden ist.
-
 
 ### § 60 Bußgeldvorschriften
 
@@ -2131,12 +2033,10 @@ a und Nr. 4 mit einer Geldbuße bis zu fünfhunderttausend Euro, in den
 übrigen Fällen mit einer Geldbuße bis zu zweihunderttausend Euro
 geahndet werden.
 
-
 ### § 61 Zuständige Verwaltungsbehörde
 
 Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über
 Ordnungswidrigkeiten ist die Bundesanstalt.
-
 
 ### § 62 Zuständigkeit des Oberlandesgerichts im gerichtlichen Verfahren
 
@@ -2152,7 +2052,6 @@ Gesetzes über Ordnungswidrigkeiten findet keine Anwendung.
 (2) Das Oberlandesgericht entscheidet in der Besetzung von drei
 Mitgliedern mit Einschluss des vorsitzenden Mitglieds.
 
-
 ### § 63 Rechtsbeschwerde zum Bundesgerichtshof
 
 Über die Rechtsbeschwerde (§ 79 des Gesetzes über
@@ -2161,13 +2060,11 @@ angefochtene Entscheidung auf, ohne in der Sache selbst zu
 entscheiden, so verweist er die Sache an das Oberlandesgericht, dessen
 Entscheidung aufgehoben wird, zurück.
 
-
 ### § 64 Wiederaufnahme gegen Bußgeldbescheid
 
 Im Wiederaufnahmeverfahren gegen den Bußgeldbescheid der Bundesanstalt
 (§ 85 Abs. 4 des Gesetzes über Ordnungswidrigkeiten) entscheidet das
 nach § 62 Abs. 1 zuständige Gericht.
-
 
 ### § 65 Gerichtliche Entscheidung bei der Vollstreckung
 
@@ -2175,10 +2072,7 @@ Die bei der Vollstreckung notwendig werdenden gerichtlichen
 Entscheidungen (§ 104 des Gesetzes über Ordnungswidrigkeiten) werden
 von dem nach § 62 Abs. 1 zuständigen Gericht erlassen.
 
-
 ## Abschnitt 9 - Gerichtliche Zuständigkeit; Übergangsregelungen
-
-
 
 ### § 66 Gerichte für Wertpapiererwerbs und Übernahmesachen
 
@@ -2212,13 +2106,11 @@ Länder begründet werden.
 
 (4) (weggefallen)
 
-
 ### § 67 Senat für Wertpapiererwerbs- und Übernahmesachen beim Oberlandesgericht
 
 In den ihm nach § 48 Abs. 4, § 62 Abs. 1, §§ 64 und 65 zugewiesenen
 Rechtssachen entscheidet das Oberlandesgericht durch einen
 Wertpapiererwerbs- und Übernahmesenat.
-
 
 ### § 68 Übergangsregelungen
 

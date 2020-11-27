@@ -18,13 +18,11 @@ Fundstelle
 Geändert durch
 :   § 1 V v. 10.5.1971 I 450
 
-
 ## Eingangsformel
 
 Auf Grund des § 6 Abs. 2 und des § 7 Abs. 3 Satz 2 des
 Eignungsübungsgesetzes vom 20. Januar 1956 (Bundesgesetzbl. I S. 13)
 verordnet die Bundesregierung:
-
 
 ## § 1 Urlaub für Arbeitnehmer bei Ausscheiden aus den Streitkräften
 
@@ -55,7 +53,6 @@ angerechnet.
 die Absätze 1 bis 5 keine Anwendung. Die Urlaubsmarken werden für die
 Dauer der Eignungsübung von den Streitkräften geklebt.
 
-
 ## § 2 Urlaub für Arbeitnehmer bei Verbleiben in den Streitkräften
 
 (1) Ein Arbeitnehmer, der nach Teilnahme an einer Eignungsübung als
@@ -69,7 +66,6 @@ Erwerb des Urlaubsanspruchs vorgesehene Wartezeit noch nicht erfüllt,
 so ist der Urlaub so zu bemessen, als ob das Arbeitsverhältnis zu
 diesem Zeitpunkt geendet hätte.
 
-
 ## § 3 Urlaubsbescheinigung
 
 Der Arbeitgeber hat dem Arbeitnehmer vor Beginn der Eignungsübung eine
@@ -82,12 +78,10 @@ sein bisheriges Arbeitsverhältnis fortsetzt, erhält von den
 Streitkräften eine Bescheinigung über den gewährten oder abgegoltenen
 Urlaub.
 
-
 ## § 4 Urlaub für Beamte und Richter
 
 Für Beamte und Richter gelten die §§ 1 bis 3 mit Ausnahme des § 1 Abs.
 4 Satz 2 und Abs. 6 sinngemäß.
-
 
 ## § 5 Zusätzliche Alters- und Hinterbliebenenversorgung für Arbeitnehmer im öffentlichen Dienst
 
@@ -122,7 +116,6 @@ für die Zeit der Eignungsübung nachzuentrichtenden Beitragsanteile.
 Überversicherung (Höherversicherung) oder auf andere Weise gewährt,
 gelten die Absätze 1 bis 4 sinngemäß.
 
-
 ## § 6 Betriebliche und überbetriebliche Alters- und Hinterbliebenenversorgung
 
 (1) Für Betriebe, für die Pensionskassen bestehen, gilt § 5 Abs. 1 und
@@ -144,12 +137,10 @@ nachzuentrichtenden Beitragsanteile.
 überbetrieblichen Alters- und Hinterbliebenenversorgung gelten die
 Absätze 1 bis 3 sinngemäß.
 
-
 ## § 7 Urlaubskassen
 
 Beiträge für Urlaubskassen brauchen für die Dauer der Eignungsübung
 nicht entrichtet zu werden. § 1 Abs. 6 bleibt unberührt.
-
 
 ## § 8 Anrechnung der Wehrdienstzeit
 
@@ -160,7 +151,6 @@ Dienst gilt sie als Dienstzeit im Sinne von Tarifordnungen und
 Tarifverträgen des öffentlichen Dienstes. Auf Ausbildungs- und
 Probezeiten wird die Zeit der Teilnahme an einer Eignungsübung nicht
 angerechnet.
-
 
 ## § 9 Geltungsdauer der Verordnung
 

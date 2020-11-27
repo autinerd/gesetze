@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 V v. 14.8.2012 I 1712
 
-
 ## Eingangsformel
 
 Auf Grund des § 33 Abs. 1 Nr. 4 des Bundes-Immissionsschutzgesetzes in
@@ -29,7 +28,6 @@ Verbindung mit dem 2. Abschnitt des Verwaltungskostengesetzes vom 23.
 Juni 1970 (BGBl. I S. 821) verordnet die Bundesregierung nach Anhörung
 der beteiligten Kreise:
 
-
 ## § 1 Gebührentarif
 
 Für Amtshandlungen nach der Verordnung über Emissionsgrenzwerte für
@@ -37,7 +35,6 @@ Verbrennungsmotoren werden Gebühren nach dieser Verordnung erhoben.
 Die gebührenpflichtigen Tatbestände und die Gebührensätze ergeben sich
 aus dem Gebührentarif für Maßnahmen bei Typprüfungen von
 Verbrennungsmotoren (Anlage).
-
 
 ## § 2 Auslagen
 
@@ -71,7 +68,6 @@ Verbrennungsmotoren (Anlage).
 Erstattung auch verlangt werden, wenn der Kostenschuldner seinerseits
 von den Kosten befreit ist.
 
-
 ## § 3 Widerspruch
 
 Für die vollständige oder teilweise Zurückweisung eines Widerspruchs
@@ -86,7 +82,6 @@ Widerspruch nach Beginn einer sachlichen Bearbeitung, jedoch vor deren
 Beendigung zurückgenommen, beträgt die Gebühr höchstens 75 vom Hundert
 der Widerspruchsgebühr.
 
-
 ## § 4 Widerruf, Rücknahme, Ablehnung und Zurücknahme von Anträgen
 
 Für den Widerruf oder die Rücknahme einer Amtshandlung, die Ablehnung
@@ -94,16 +89,13 @@ eines Antrags auf Vornahme einer Amtshandlung sowie in den Fällen der
 Zurücknahme eines Antrags auf Vornahme einer Amtshandlung werden
 Gebühren nach Maßgabe des § 15 des Verwaltungskostengesetzes erhoben.
 
-
 ## § 5 Inkrafttreten
 
 Die Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage (zu § 1)
 

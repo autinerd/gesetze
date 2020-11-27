@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1969, 22
 
-
-
 ## I.
 
 Auf Grund der §§ 172 und 174 Abs. 3 des Bundesbeamtengesetzes in der
@@ -31,11 +29,9 @@ I S. 848), übertrage ich dem Bundesversicherungsamt die Entscheidung
 Gebiete des Reisekostenrechts und die Vertretung des Dienstherrn bei
 Klagen wegen dieser Verwaltungsakte.
 
-
 ## II.
 
 Diese Anordnung tritt am Tage nach ihrer Veröffentlichung in Kraft.
-
 
 ## Schlußformel
 

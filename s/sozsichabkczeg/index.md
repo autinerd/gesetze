@@ -16,13 +16,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 2002, 1126
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -41,7 +38,6 @@ Folgenden in Prag am 27. Juli 2001 unterzeichneten zwischenstaatlichen
 
 Das Abkommen und die Durchführungsvereinbarung werden nachstehend
 veröffentlicht.
-
 
 ## Art 2
 
@@ -72,10 +68,6 @@ insbesondere über folgende Gegenstände Regelungen getroffen werden:
 
 5.  die gegenseitige Umrechnung von Versicherungszeiten nach den
     Rechtsvorschriften beider Vertragsstaaten.
-
-
-
-
 
 ## Art 3
 

@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 G v. 5.12.2012 I 2425
 
-
 ## Erster Teil - Anwendungsbereich
-
-
 
 ### § 1 Persönlicher und sachlicher Anwendungsbereich
 
@@ -35,7 +32,6 @@ Strafe bedroht ist.
 (2) Jugendlicher ist, wer zur Zeit der Tat vierzehn, aber noch nicht
 achtzehn, Heranwachsender, wer zur Zeit der Tat achtzehn, aber noch
 nicht einundzwanzig Jahre alt ist.
-
 
 ### § 2 Ziel des Jugendstrafrechts; Anwendung des allgemeinen Strafrechts
 
@@ -48,18 +44,11 @@ Erziehungsgedanken auszurichten.
 (2) Die allgemeinen Vorschriften gelten nur, soweit in diesem Gesetz
 nichts anderes bestimmt ist.
 
-
 ## Zweiter Teil - Jugendliche
-
-
 
 ### Erstes Hauptstück - Verfehlungen Jugendlicher und ihre Folgen
 
-
-
 #### Erster Abschnitt - Allgemeine Vorschriften
-
-
 
 ##### § 3 Verantwortlichkeit
 
@@ -70,13 +59,11 @@ handeln. Zur Erziehung eines Jugendlichen, der mangels Reife
 strafrechtlich nicht verantwortlich ist, kann der Richter dieselben
 Maßnahmen anordnen wie das Familiengericht.
 
-
 ##### § 4 Rechtliche Einordnung der Taten Jugendlicher
 
 Ob die rechtswidrige Tat eines Jugendlichen als Verbrechen oder
 Vergehen anzusehen ist und wann sie verjährt, richtet sich nach den
 Vorschriften des allgemeinen Strafrechts.
-
 
 ##### § 5 Die Folgen der Jugendstraftat
 
@@ -90,7 +77,6 @@ Jugendstrafe geahndet, wenn Erziehungsmaßregeln nicht ausreichen.
 Unterbringung in einem psychiatrischen Krankenhaus oder einer
 Entziehungsanstalt die Ahndung durch den Richter entbehrlich macht.
 
-
 ##### § 6 Nebenfolgen
 
 (1) Auf Unfähigkeit, öffentliche Ämter zu bekleiden, Rechte aus
@@ -101,7 +87,6 @@ der Verurteilung darf nicht angeordnet werden.
 (2) Der Verlust der Fähigkeit, öffentliche Ämter zu bekleiden und
 Rechte aus öffentlichen Wahlen zu erlangen (§ 45 Abs. 1 des
 Strafgesetzbuches), tritt nicht ein.
-
 
 ##### § 7 Maßregeln der Besserung und Sicherung
 
@@ -164,7 +149,6 @@ der Unterbringung in der Sicherungsverwahrung zur Bewährung
 auszusetzen ist (§ 67e des Strafgesetzbuches), beträgt in den Fällen
 der Absätze 2 und 3 ein Jahr.
 
-
 ##### § 8 Verbindung von Maßnahmen und Jugendstrafe
 
 (1) Erziehungsmaßregeln und Zuchtmittel, ebenso mehrere
@@ -181,10 +165,7 @@ bestehende Erziehungsbeistandschaft bis zum Ablauf der Bewährungszeit.
 Jugendstrafe auf die nach diesem Gesetz zulässigen Nebenstrafen und
 Nebenfolgen erkennen.
 
-
 #### Zweiter Abschnitt - Erziehungsmaßregeln
-
-
 
 ##### § 9 Arten
 
@@ -195,10 +176,6 @@ Erziehungsmaßregeln sind
 
 2.  die Anordnung, Hilfe zur Erziehung im Sinne des § 12 in Anspruch zu
     nehmen.
-
-
-
-
 
 ##### § 10 Weisungen
 
@@ -247,7 +224,6 @@ oder einer Entziehungskur zu unterziehen. Hat der Jugendliche das
 sechzehnte Lebensjahr vollendet, so soll dies nur mit seinem
 Einverständnis geschehen.
 
-
 ##### § 11 Laufzeit und nachträgliche Änderung von Weisungen; Folgen der Zuwiderhandlung
 
 (1) Der Richter bestimmt die Laufzeit der Weisungen. Die Laufzeit darf
@@ -267,7 +243,6 @@ Wochen nicht überschreiten. Der Richter sieht von der Vollstreckung
 des Jugendarrestes ab, wenn der Jugendliche nach Verhängung des
 Arrestes der Weisung nachkommt.
 
-
 ##### § 12 Hilfe zur Erziehung
 
 Der Richter kann dem Jugendlichen nach Anhörung des Jugendamts auch
@@ -286,10 +261,7 @@ Voraussetzungen Hilfe zur Erziehung
 
 in Anspruch zu nehmen.
 
-
 #### Dritter Abschnitt - Zuchtmittel
-
-
 
 ##### § 13 Arten und Anwendung
 
@@ -313,12 +285,10 @@ Unrecht einzustehen hat.
 
 (3) Zuchtmittel haben nicht die Rechtswirkungen einer Strafe.
 
-
 ##### § 14 Verwarnung
 
 Durch die Verwarnung soll dem Jugendlichen das Unrecht der Tat
 eindringlich vorgehalten werden.
-
 
 ##### § 15 Auflagen
 
@@ -360,7 +330,6 @@ gilt § 11 Abs. 3 entsprechend. Ist Jugendarrest vollstreckt worden, so
 kann der Richter die Auflagen ganz oder zum Teil für erledigt
 erklären.
 
-
 ##### § 16 Jugendarrest
 
 (1) Der Jugendarrest ist Freizeitarrest, Kurzarrest oder Dauerarrest.
@@ -377,10 +346,7 @@ Freizeit gleich.
 (4) Der Dauerarrest beträgt mindestens eine Woche und höchstens vier
 Wochen. Er wird nach vollen Tagen oder Wochen bemessen.
 
-
 #### Vierter Abschnitt - Die Jugendstrafe
-
-
 
 ##### § 17 Form und Voraussetzungen
 
@@ -391,7 +357,6 @@ vorgesehenen Einrichtung.
 Neigungen des Jugendlichen, die in der Tat hervorgetreten sind,
 Erziehungsmaßregeln oder Zuchtmittel zur Erziehung nicht ausreichen
 oder wenn wegen der Schwere der Schuld Strafe erforderlich ist.
-
 
 ##### § 18 Dauer der Jugendstrafe
 
@@ -404,20 +369,15 @@ Jahre. Die Strafrahmen des allgemeinen Strafrechts gelten nicht.
 (2) Die Jugendstrafe ist so zu bemessen, daß die erforderliche
 erzieherische Einwirkung möglich ist.
 
-
 ##### § 19
 
 -
 
-
 #### Fünfter Abschnitt - Aussetzung der Jugendstrafe zur Bewährung
-
-
 
 ##### § 20
 
 (weggefallen)
-
 
 ##### § 21 Strafaussetzung
 
@@ -442,7 +402,6 @@ beschränkt werden. Sie wird durch eine Anrechnung von
 Untersuchungshaft oder einer anderen Freiheitsentziehung nicht
 ausgeschlossen.
 
-
 ##### § 22 Bewährungszeit
 
 (1) Der Richter bestimmt die Dauer der Bewährungszeit. Sie darf drei
@@ -453,7 +412,6 @@ Jahre nicht überschreiten und zwei Jahre nicht unterschreiten.
 ein Jahr verkürzt oder vor ihrem Ablauf bis auf vier Jahre verlängert
 werden. In den Fällen des § 21 Abs. 2 darf die Bewährungszeit jedoch
 nur bis auf zwei Jahre verkürzt werden.
-
 
 ##### § 23 Weisungen und Auflagen
 
@@ -468,7 +426,6 @@ oder erbietet er sich zu angemessenen Leistungen, die der Genugtuung
 für das begangene Unrecht dienen, so sieht der Richter in der Regel
 von entsprechenden Weisungen oder Auflagen vorläufig ab, wenn die
 Erfüllung der Zusagen oder des Anerbietens zu erwarten ist.
-
 
 ##### § 24 Bewährungshilfe
 
@@ -494,7 +451,6 @@ Zutritt zu dem Jugendlichen. Er kann von dem Erziehungsberechtigten,
 dem gesetzlichen Vertreter, der Schule, dem Ausbildenden Auskunft über
 die Lebensführung des Jugendlichen verlangen.
 
-
 ##### § 25 Bestellung und Pflichten des Bewährungshelfers
 
 Der Bewährungshelfer wird vom Richter bestellt. Der Richter kann ihm
@@ -503,7 +459,6 @@ Bewährungshelfer berichtet über die Lebensführung des Jugendlichen in
 Zeitabständen, die der Richter bestimmt. Gröbliche oder beharrliche
 Verstöße gegen Weisungen, Auflagen, Zusagen oder Anerbieten teilt er
 dem Richter mit.
-
 
 ##### § 26 Widerruf der Strafaussetzung
 
@@ -553,17 +508,13 @@ widerruft, Leistungen, die der Jugendliche zur Erfüllung von Auflagen
 oder entsprechenden Anerbieten erbracht hat, auf die Jugendstrafe
 anrechnen.
 
-
 ##### § 26a Erlaß der Jugendstrafe
 
 Widerruft der Richter die Strafaussetzung nicht, so erläßt er die
 Jugendstrafe nach Ablauf der Bewährungszeit. § 26 Abs. 3 Satz 1 ist
 anzuwenden.
 
-
 #### Sechster Abschnitt - Aussetzung der Verhängung der Jugendstrafe
-
-
 
 ##### § 27 Voraussetzungen
 
@@ -575,7 +526,6 @@ Jugendlichen feststellen, die Entscheidung über die Verhängung der
 Jugendstrafe aber für eine von ihm zu bestimmende Bewährungszeit
 aussetzen.
 
-
 ##### § 28 Bewährungszeit
 
 (1) Die Bewährungszeit darf zwei Jahre nicht überschreiten und ein
@@ -586,14 +536,12 @@ die Schuld des Jugendlichen festgestellt wird. Sie kann nachträglich
 bis auf ein Jahr verkürzt oder vor ihrem Ablauf bis auf zwei Jahre
 verlängert werden.
 
-
 ##### § 29 Bewährungshilfe
 
 Der Jugendliche wird für die Dauer oder einen Teil der Bewährungszeit
 der Aufsicht und Leitung eines Bewährungshelfers unterstellt. Die §§
 23, 24 Abs. 1 Satz 1 und 2, Abs. 2 und 3 und die §§ 25, 28 Abs. 2 Satz
 1 sind entsprechend anzuwenden.
-
 
 ##### § 30 Verhängung der Jugendstrafe; Tilgung des Schuldspruchs
 
@@ -608,10 +556,7 @@ ausgesprochen hätte.
 (2) Liegen die Voraussetzungen des Absatzes 1 nach Ablauf der
 Bewährungszeit nicht vor, so wird der Schuldspruch getilgt.
 
-
 #### Siebenter Abschnitt - Mehrere Straftaten
-
-
 
 ##### § 31 Mehrere Straftaten eines Jugendlichen
 
@@ -637,7 +582,6 @@ davon absehen, schon abgeurteilte Straftaten in die neue Entscheidung
 einzubeziehen. Dabei kann er Erziehungsmaßregeln und Zuchtmittel für
 erledigt erklären, wenn er auf Jugendstrafe erkennt.
 
-
 ##### § 32 Mehrere Straftaten in verschiedenen Alters- und Reifestufen
 
 Für mehrere Straftaten, die gleichzeitig abgeurteilt werden und auf
@@ -647,14 +591,9 @@ bei den Straftaten liegt, die nach Jugendstrafrecht zu beurteilen
 wären. Ist dies nicht der Fall, so ist einheitlich das allgemeine
 Strafrecht anzuwenden.
 
-
 ### Zweites Hauptstück - Jugendgerichtsverfassung und Jugendstrafverfahren
 
-
-
 #### Erster Abschnitt - Jugendgerichtsverfassung
-
-
 
 ##### § 33 Jugendgerichte
 
@@ -672,7 +611,6 @@ den Bezirk mehrerer Amtsgerichte eingerichtet wird. Die
 Landesregierungen können die Ermächtigung durch Rechtsverordnung auf
 die Landesjustizverwaltungen übertragen.
 
-
 ##### § 33a Besetzung des Jugendschöffengerichts
 
 (1) Das Jugendschöffengericht besteht aus dem Jugendrichter als
@@ -681,7 +619,6 @@ jeder Hauptverhandlung ein Mann und eine Frau herangezogen werden.
 
 (2) Bei Entscheidungen außerhalb der Hauptverhandlung wirken die
 Jugendschöffen nicht mit.
-
 
 ##### § 33b Besetzung der Jugendkammer
 
@@ -750,7 +687,6 @@ Besetzung beschließen.
 
 (7) § 33a Abs. 1 Satz 2, Abs. 2 gilt entsprechend.
 
-
 ##### § 34 Aufgaben des Jugendrichters
 
 (1) Dem Jugendrichter obliegen alle Aufgaben, die ein Richter beim
@@ -773,10 +709,6 @@ mehrerer Amtsgerichte bestellt ist, kann hiervon abgewichen werden.
 
 
 3.  (weggefallen)
-
-
-
-
 
 ##### § 35 Jugendschöffen
 
@@ -811,18 +743,15 @@ getrennt zu führende Schöffenlisten aufgenommen.
 (6) Die Wahl der Jugendschöffen erfolgt gleichzeitig mit der Wahl der
 Schöffen für die Schöffengerichte und die Strafkammern.
 
-
 ##### § 36 Jugendstaatsanwalt
 
 Für Verfahren, die zur Zuständigkeit der Jugendgerichte gehören,
 werden Jugendstaatsanwälte bestellt.
 
-
 ##### § 37 Auswahl der Jugendrichter und Jugendstaatsanwälte
 
 Die Richter bei den Jugendgerichten und die Jugendstaatsanwälte sollen
 erzieherisch befähigt und in der Jugenderziehung erfahren sein.
-
 
 ##### § 38 Jugendgerichtshilfe
 
@@ -855,10 +784,7 @@ der Jugendgerichtshilfe stets zu hören; kommt eine Betreuungsweisung
 in Betracht, sollen sie sich auch dazu äußern, wer als
 Betreuungshelfer bestellt werden soll.
 
-
 #### Zweiter Abschnitt - Zuständigkeit
-
-
 
 ##### § 39 Sachliche Zuständigkeit des Jugendrichters
 
@@ -875,7 +801,6 @@ gilt entsprechend.
 (2) Der Jugendrichter darf auf Jugendstrafe von mehr als einem Jahr
 nicht erkennen; die Unterbringung in einem psychiatrischen Krankenhaus
 darf er nicht anordnen.
-
 
 ##### § 40 Sachliche Zuständigkeit des Jugendschöffengerichts
 
@@ -896,7 +821,6 @@ Beweiserhebungen vor der Hauptverhandlung beantragen will.
 (4) Der Beschluß, durch den die Jugendkammer die Sache übernimmt oder
 die Übernahme ablehnt, ist nicht anfechtbar. Der Übernahmebeschluß ist
 mit dem Eröffnungsbeschluß zu verbinden.
-
 
 ##### § 41 Sachliche Zuständigkeit der Jugendkammer
 
@@ -936,7 +860,6 @@ Jugendrichters und des Jugendschöffengerichts. Sie trifft auch die in
 § 73 Abs. 1 des Gerichtsverfassungsgesetzes bezeichneten
 Entscheidungen.
 
-
 ##### § 42 Örtliche Zuständigkeit
 
 (1) Neben dem Richter, der nach dem allgemeinen Verfahrensrecht oder
@@ -969,14 +892,9 @@ dessen Bezirk sich der Angeklagte aufhält. Hat der Richter, an den das
 Verfahren abgegeben worden ist, gegen die Übernahme Bedenken, so
 entscheidet das gemeinschaftliche obere Gericht.
 
-
 #### Dritter Abschnitt - Jugendstrafverfahren
 
-
-
 ##### Erster Unterabschnitt - Das Vorverfahren
-
-
 
 ###### § 43 Umfang der Ermittlungen
 
@@ -997,13 +915,11 @@ für das Verfahren wesentlicher Eigenschaften, herbeizuführen. Nach
 Möglichkeit soll ein zur Untersuchung von Jugendlichen befähigter
 Sachverständiger mit der Durchführung der Anordnung beauftragt werden.
 
-
 ###### § 44 Vernehmung des Beschuldigten
 
 Ist Jugendstrafe zu erwarten, so soll der Staatsanwalt oder der
 Vorsitzende des Jugendgerichts den Beschuldigten vernehmen, ehe die
 Anklage erhoben wird.
-
 
 ###### § 45 Absehen von der Verfolgung
 
@@ -1029,7 +945,6 @@ jedoch nur, nachdem der Jugendliche ihnen nachgekommen ist. § 11 Abs.
 3 und § 15 Abs. 3 Satz 2 sind nicht anzuwenden. § 47 Abs. 3 findet
 entsprechende Anwendung.
 
-
 ###### § 46 Wesentliches Ergebnis der Ermittlungen
 
 Der Staatsanwalt soll das wesentliche Ergebnis der Ermittlungen in der
@@ -1037,10 +952,7 @@ Anklageschrift (§ 200 Abs. 2 der Strafprozeßordnung) so darstellen,
 daß die Kenntnisnahme durch den Beschuldigten möglichst keine
 Nachteile für seine Erziehung verursacht.
 
-
 ##### Zweiter Unterabschnitt - Das Hauptverfahren
-
-
 
 ###### § 47 Einstellung des Verfahrens durch den Richter
 
@@ -1083,14 +995,12 @@ Erziehung zu befürchten sind.
 (3) Wegen derselben Tat kann nur auf Grund neuer Tatsachen oder
 Beweismittel von neuem Anklage erhoben werden.
 
-
 ###### § 47a Vorrang der Jugendgerichte
 
 Ein Jugendgericht darf sich nach Eröffnung des Hauptverfahrens nicht
 für unzuständig erklären, weil die Sache vor ein für allgemeine
 Strafsachen zuständiges Gericht gleicher oder niedrigerer Ordnung
 gehöre. § 103 Abs. 2 Satz 2, 3 bleibt unberührt.
-
 
 ###### § 48 Nichtöffentlichkeit
 
@@ -1113,11 +1023,9 @@ angeklagt, so ist die Verhandlung öffentlich. Die Öffentlichkeit kann
 ausgeschlossen werden, wenn dies im Interesse der Erziehung
 jugendlicher Angeklagter geboten ist.
 
-
 ###### § 49
 
 (weggefallen)
-
 
 ###### § 50 Anwesenheit in der Hauptverhandlung
 
@@ -1138,7 +1046,6 @@ teil, so soll er zu der Entwicklung des Jugendlichen in der
 Bewährungszeit gehört werden. Satz 1 gilt für einen bestellten
 Betreuungshelfer und den Leiter eines sozialen Trainingskurses, an dem
 der Jugendliche teilnimmt, entsprechend.
-
 
 ###### § 51 Zeitweilige Ausschließung von Beteiligten
 
@@ -1205,7 +1112,6 @@ ihrer Abwesenheit ausgesagt oder sonst verhandelt worden ist.
 Vertretern nach den Absätzen 2 und 3 ist auch zulässig, wenn sie zum
 Beistand (§ 69) bestellt sind.
 
-
 ###### § 52 Berücksichtigung von Untersuchungshaft bei Jugendarrest
 
 Wird auf Jugendarrest erkannt und ist dessen Zweck durch
@@ -1213,7 +1119,6 @@ Untersuchungshaft oder eine andere wegen der Tat erlittene
 Freiheitsentziehung ganz oder teilweise erreicht, so kann der Richter
 im Urteil aussprechen, daß oder wieweit der Jugendarrest nicht
 vollstreckt wird.
-
 
 ###### § 52a Anrechnung von Untersuchungshaft bei Jugendstrafe
 
@@ -1229,7 +1134,6 @@ erzieherische Einwirkung auf den Angeklagten nicht gewährleistet ist.
 
 (2) (weggefallen)
 
-
 ###### § 53 Überweisung an das Familiengericht
 
 Der Richter kann dem Familiengericht im Urteil die Auswahl und
@@ -1237,7 +1141,6 @@ Anordnung von Erziehungsmaßregeln überlassen, wenn er nicht auf
 Jugendstrafe erkennt. Das Familiengericht muß dann eine
 Erziehungsmaßregel anordnen, soweit sich nicht die Umstände, die für
 das Urteil maßgebend waren, verändert haben.
-
 
 ###### § 54 Urteilsgründe
 
@@ -1252,10 +1155,7 @@ werden.
 (2) Die Urteilsgründe werden dem Angeklagten nicht mitgeteilt, soweit
 davon Nachteile für die Erziehung zu befürchten sind.
 
-
 ##### Dritter Unterabschnitt - Rechtsmittelverfahren
-
-
 
 ###### § 55 Anfechtung von Entscheidungen
 
@@ -1284,7 +1184,6 @@ einer Entscheidung gehindert ist oder nach Absatz 2 kein Rechtsmittel
 gegen die Berufungsentscheidung einlegen kann, gilt § 356a der
 Strafprozessordnung entsprechend.
 
-
 ###### § 56 Teilvollstreckung einer Einheitsstrafe
 
 (1) Ist ein Angeklagter wegen mehrerer Straftaten zu einer
@@ -1300,10 +1199,7 @@ beanstandet worden sind.
 
 (2) Gegen den Beschluß ist sofortige Beschwerde zulässig.
 
-
 ##### Vierter Unterabschnitt - Verfahren bei Aussetzung der Jugendstrafe zur Bewährung
-
-
 
 ###### § 57 Entscheidung über die Aussetzung
 
@@ -1334,7 +1230,6 @@ Einwilligung gibt.
 (4) § 260 Abs. 4 Satz 4 und § 267 Abs. 3 Satz 4 der Strafprozeßordnung
 gelten entsprechend.
 
-
 ###### § 58 Weitere Entscheidungen
 
 (1) Entscheidungen, die infolge der Aussetzung erforderlich werden (§§
@@ -1351,7 +1246,6 @@ Maßnahmen nach § 453c der Strafprozeßordnung.
 kann die Entscheidungen ganz oder teilweise dem Jugendrichter
 übertragen, in dessen Bezirk sich der Jugendliche aufhält. § 42 Abs. 3
 Satz 2 gilt entsprechend.
-
 
 ###### § 59 Anfechtung
 
@@ -1380,7 +1274,6 @@ der Jugendstrafe zur Bewährung bezieht, Beschwerde eingelegt, so ist
 das Revisionsgericht auch zur Entscheidung über die Beschwerde
 zuständig.
 
-
 ###### § 60 Bewährungsplan
 
 (1) Der Vorsitzende stellt die erteilten Weisungen und Auflagen in
@@ -1400,7 +1293,6 @@ eingetragen.
 den Bewährungsplan gelesen hat, und versprechen, daß er den Weisungen
 und Auflagen nachkommen will. Auch der Erziehungsberechtigte und der
 gesetzliche Vertreter sollen den Bewährungsplan unterzeichnen.
-
 
 ###### § 61 Vorbehalt der nachträglichen Entscheidung über die Aussetzung
 
@@ -1446,7 +1338,6 @@ des Urteils ist der Jugendliche über die Bedeutung des Vorbehalts und
 seines Verhaltens in der Zeit bis zu der nachträglichen Entscheidung
 zu belehren.
 
-
 ###### § 61a Frist und Zuständigkeit für die vorbehaltene Entscheidung
 
 (1) Die vorbehaltene Entscheidung ergeht spätestens sechs Monate nach
@@ -1459,7 +1350,6 @@ Rechtskraft des Urteils verlängert werden.
 (2) Zuständig für die vorbehaltene Entscheidung ist das Gericht, in
 dessen Urteil die zugrunde liegenden tatsächlichen Feststellungen
 letztmalig geprüft werden konnten.
-
 
 ###### § 61b Weitere Entscheidungen bei Vorbehalt der Entscheidung über die Aussetzung
 
@@ -1499,10 +1389,7 @@ andernfalls das Maß der Schuld übersteigen würden.
 Im Hinblick auf Jugendarrest, der nach § 16a verhängt wurde (§ 61
 Absatz 3 Satz 1), gilt § 26 Absatz 3 Satz 3 entsprechend.
 
-
 ##### Fünfter Unterabschnitt - Verfahren bei Aussetzung der Verhängung der Jugendstrafe
-
-
 
 ###### § 62 Entscheidungen
 
@@ -1524,7 +1411,6 @@ Verhängung der Strafe ausgesetzt bleibt.
 Verhängung der Jugendstrafe erforderlich werden, gilt § 58 Abs. 1 Satz
 1, 2 und 4 und Abs. 3 Satz 1 sinngemäß.
 
-
 ###### § 63 Anfechtung
 
 (1) Ein Beschluß, durch den der Schuldspruch nach Ablauf der
@@ -1534,7 +1420,6 @@ nicht anfechtbar.
 
 (2) Im übrigen gilt § 59 Abs. 2 und 5 sinngemäß.
 
-
 ###### § 64 Bewährungsplan
 
 § 60 gilt sinngemäß. Der Jugendliche ist über die Bedeutung der
@@ -1543,10 +1428,7 @@ Auflagen sowie darüber zu belehren, daß er die Festsetzung einer
 Jugendstrafe zu erwarten habe, wenn er sich während der Bewährungszeit
 schlecht führe.
 
-
 ##### Sechster Unterabschnitt - Ergänzende Entscheidungen
-
-
 
 ###### § 65 Nachträgliche Entscheidungen über Weisungen und Auflagen
 
@@ -1568,7 +1450,6 @@ Beschluß nicht anfechtbar. Hat er Jugendarrest verhängt, so ist gegen
 den Beschluß sofortige Beschwerde zulässig. Diese hat aufschiebende
 Wirkung.
 
-
 ###### § 66 Ergänzung rechtskräftiger Entscheidungen bei mehrfacher Verurteilung
 
 (1) Ist die einheitliche Festsetzung von Maßnahmen oder Jugendstrafe
@@ -1588,10 +1469,7 @@ einer Gesamtstrafe nach den allgemeinen Vorschriften. Ist eine
 Jugendstrafe teilweise verbüßt, so ist der Richter zuständig, dem die
 Aufgaben des Vollstreckungsleiters obliegen.
 
-
 ##### Siebenter Unterabschnitt - Gemeinsame Verfahrensvorschriften
-
-
 
 ###### § 67 Stellung des Erziehungsberechtigten und des gesetzlichen Vertreters
 
@@ -1629,7 +1507,6 @@ anwesenden vertreten angesehen. Sind Mitteilungen oder Ladungen
 vorgeschrieben, so genügt es, wenn sie an einen Erziehungsberechtigten
 gerichtet werden.
 
-
 ###### § 68 Notwendige Verteidigung
 
 Der Vorsitzende bestellt dem Beschuldigten einen Verteidiger, wenn
@@ -1658,10 +1535,6 @@ Der Vorsitzende bestellt dem Beschuldigten einen Verteidiger, wenn
     achtzehnte Lebensjahr nicht vollendet hat; der Verteidiger wird
     unverzüglich bestellt.
 
-
-
-
-
 ###### § 69 Beistand
 
 (1) Der Vorsitzende kann dem Beschuldigten in jeder Lage des
@@ -1675,7 +1548,6 @@ die Erziehung zu erwarten wäre.
 (3) Dem Beistand kann Akteneinsicht gewährt werden. Im übrigen hat er
 in der Hauptverhandlung die Rechte eines Verteidigers.
 
-
 ###### § 70 Mitteilungen
 
 Die Jugendgerichtshilfe, in geeigneten Fällen auch das Familiengericht
@@ -1687,7 +1559,6 @@ Staatsanwalt ferner familiengerichtliche Maßnahmen sowie ihre Änderung
 und Aufhebung mit, soweit nicht für das Familiengericht erkennbar ist,
 daß schutzwürdige Interessen des Beschuldigten oder des sonst von der
 Mitteilung Betroffenen an dem Ausschluß der Übermittlung überwiegen.
-
 
 ###### § 70a Belehrungen
 
@@ -1709,7 +1580,6 @@ Erziehungsmaßregeln oder Zuchtmitteln verurteilt werden, soll die
 Belehrung auch ihnen ein Verständnis von der Bedeutung der
 Entscheidung vermitteln.
 
-
 ###### § 71 Vorläufige Anordnungen über die Erziehung
 
 (1) Bis zur Rechtskraft des Urteils kann der Richter vorläufige
@@ -1726,7 +1596,6 @@ Unterbringung gelten die §§ 114 bis 115a, 117 bis 118b, 120, 125 und
 126 der Strafprozeßordnung sinngemäß. Die Ausführung der einstweiligen
 Unterbringung richtet sich nach den für das Heim der Jugendhilfe
 geltenden Regelungen.
-
 
 ###### § 72 Untersuchungshaft
 
@@ -1773,7 +1642,6 @@ Verfahren mit besonderer Beschleunigung durchzuführen.
 betreffen, kann der zuständige Richter aus wichtigen Gründen sämtlich
 oder zum Teil einem anderen Jugendrichter übertragen.
 
-
 ###### § 72a Heranziehung der Jugendgerichtshilfe in Haftsachen
 
 Die Jugendgerichtshilfe ist unverzüglich von der Vollstreckung eines
@@ -1783,7 +1651,6 @@ Jugendlichen ist die Jugendgerichtshilfe zu unterrichten, wenn nach
 dem Stand der Ermittlungen zu erwarten ist, daß der Jugendliche gemäß
 § 128 der Strafprozeßordnung dem Richter vorgeführt wird.
 
-
 ###### § 72b Verkehr mit Vertretern der Jugendgerichtshilfe, dem Betreuungshelfer und dem Erziehungsbeistand
 
 Befindet sich ein Jugendlicher in Untersuchungshaft, so ist auch den
@@ -1792,7 +1659,6 @@ in demselben Umfang wie einem Verteidiger gestattet. Entsprechendes
 gilt, wenn der Beschuldigte der Betreuung und Aufsicht eines
 Betreuungshelfers untersteht oder für ihn ein Erziehungsbeistand
 bestellt ist, für den Helfer oder den Erziehungsbeistand.
-
 
 ###### § 73 Unterbringung zur Beobachtung
 
@@ -1809,21 +1675,16 @@ aufschiebende Wirkung.
 (3) Die Verwahrung in der Anstalt darf die Dauer von sechs Wochen
 nicht überschreiten.
 
-
 ###### § 74 Kosten und Auslagen
 
 Im Verfahren gegen einen Jugendlichen kann davon abgesehen werden, dem
 Angeklagten Kosten und Auslagen aufzuerlegen.
 
-
 ##### Achter Unterabschnitt - Vereinfachtes Jugendverfahren
-
-
 
 ###### § 75
 
 (weggefallen)
-
 
 ###### § 76 Voraussetzungen des vereinfachten Jugendverfahrens
 
@@ -1836,7 +1697,6 @@ nicht mehr als zwei Jahren festsetzen oder den Verfall oder die
 Einziehung aussprechen wird. Der Antrag des Staatsanwalts steht der
 Anklage gleich.
 
-
 ###### § 77 Ablehnung des Antrags
 
 (1) Der Jugendrichter lehnt die Entscheidung im vereinfachten
@@ -1848,7 +1708,6 @@ des Urteils ergehen. Er ist nicht anfechtbar.
 
 (2) Lehnt der Jugendrichter die Entscheidung im vereinfachten
 Verfahren ab, so reicht der Staatsanwalt eine Anklageschrift ein.
-
 
 ###### § 78 Verfahren und Entscheidung
 
@@ -1872,10 +1731,7 @@ Bleibt der Beschuldigte der mündlichen Verhandlung fern und ist sein
 Fernbleiben nicht genügend entschuldigt, so kann die Vorführung
 angeordnet werden, wenn dies mit der Ladung angedroht worden ist.
 
-
 ##### Neunter Unterabschnitt - Ausschluß von Vorschriften des allgemeinen Verfahrensrechts
-
-
 
 ###### § 79 Strafbefehl und beschleunigtes Verfahren
 
@@ -1883,7 +1739,6 @@ angeordnet werden, wenn dies mit der Ladung angedroht worden ist.
 
 (2) Das beschleunigte Verfahren des allgemeinen Verfahrensrechts ist
 unzulässig.
-
 
 ###### § 80 Privatklage und Nebenklage
 
@@ -1907,17 +1762,13 @@ Strafgesetzbuchs, verletzt worden ist. Im Übrigen gelten § 395 Absatz
 2 Nummer 1, Absatz 4 und 5 und §§ 396 bis 402 der Strafprozessordnung
 entsprechend.
 
-
 ###### § 81 Entschädigung des Verletzten
 
 Die Vorschriften der Strafprozeßordnung über die Entschädigung des
 Verletzten (§§ 403 bis 406c der Strafprozeßordnung) werden im
 Verfahren gegen einen Jugendlichen nicht angewendet.
 
-
 ##### Zehnter Unterabschnitt - Anordnung der Sicherungsverwahrung
-
-
 
 ###### § 81a Verfahren und Entscheidung
 
@@ -1938,18 +1789,11 @@ freiheitsentziehenden Maßregel der Besserung und Sicherung gegen den
 Betroffenen endet. Sie übergibt die Akten mit ihrem Antrag
 unverzüglich dem Vorsitzenden des Gerichts.
 
-
 ### Drittes Hauptstück - Vollstreckung und Vollzug
-
-
 
 #### Erster Abschnitt - Vollstreckung
 
-
-
 ##### Erster Unterabschnitt - Verfassung der Vollstreckung und Zuständigkeit
-
-
 
 ###### § 82 Vollstreckungsleiter
 
@@ -1965,7 +1809,6 @@ Vorschriften des Achten Buches Sozialgesetzbuch.
 der Unterbringung und die Zuständigkeit hierfür nach den Vorschriften
 der Strafprozessordnung, wenn der Betroffene das einundzwanzigste
 Lebensjahr vollendet hat.
-
 
 ###### § 83 Entscheidungen im Vollstreckungsverfahren
 
@@ -1992,7 +1835,6 @@ Anordnung ist die Jugendkammer in den Fällen zuständig, in denen
 anderes bestimmt ist, mit sofortiger Beschwerde angefochten werden.
 Die §§ 67 bis 69 gelten sinngemäß.
 
-
 ###### § 84 Örtliche Zuständigkeit
 
 (1) Der Jugendrichter leitet die Vollstreckung in allen Verfahren ein,
@@ -2010,7 +1852,6 @@ Volljährigkeit oblägen.
 
 (3) In den Fällen der Absätze 1 und 2 führt der Jugendrichter die
 Vollstreckung durch, soweit § 85 nichts anderes bestimmt.
-
 
 ###### § 85 Abgabe und Übergang der Vollstreckung
 
@@ -2069,17 +1910,13 @@ Gerichtsverfassungsgesetzes über die Strafvollstreckung anzuwenden.
 Vollstreckungsverfahren gilt § 451 Abs. 3 der Strafprozeßordnung
 entsprechend.
 
-
 ##### Zweiter Unterabschnitt - Jugendarrest
-
-
 
 ###### § 86 Umwandlung des Freizeitarrestes
 
 Der Vollstreckungsleiter kann Freizeitarrest in Kurzarrest umwandeln,
 wenn die Voraussetzungen des § 16 Abs. 3 nachträglich eingetreten
 sind.
-
 
 ###### § 87 Vollstreckung des Jugendarrestes
 
@@ -2108,10 +1945,7 @@ Vertreter der Jugendgerichtshilfe.
 (4) Die Vollstreckung des Jugendarrestes ist unzulässig, wenn seit
 Eintritt der Rechtskraft ein Jahr verstrichen ist.
 
-
 ##### Dritter Unterabschnitt - Jugendstrafe
-
-
 
 ###### § 88 Aussetzung des Restes der Jugendstrafe
 
@@ -2154,7 +1988,6 @@ entsprechend anzuwenden. Die Beschwerde der Staatsanwaltschaft gegen
 den Beschluß, der die Aussetzung des Strafrestes anordnet, hat
 aufschiebende Wirkung.
 
-
 ###### § 89 Jugendstrafe bei Vorbehalt der Entscheidung über die Aussetzung
 
 Hat das Gericht die Entscheidung über die Aussetzung der Jugendstrafe
@@ -2162,7 +1995,6 @@ einem nachträglichen Beschluss vorbehalten, darf die Jugendstrafe vor
 Ablauf der nach § 61a Absatz 1 maßgeblichen Frist nicht vollstreckt
 werden. Dies gilt nicht, wenn die Aussetzung zuvor in einem auf Grund
 des Vorbehalts ergangenen Beschluss abgelehnt wurde.
-
 
 ###### § 89a Unterbrechung und Vollstreckung der Jugendstrafe neben Freiheitsstrafe
 
@@ -2194,7 +2026,6 @@ Maßgabe, daß der Vollstreckungsleiter die Vollstreckung der
 Jugendstrafe abgeben kann, wenn der Verurteilte das einundzwanzigste
 Lebensjahr vollendet hat.
 
-
 ###### § 89b Ausnahme vom Jugendstrafvollzug
 
 (1) An einem Verurteilten, der das 18. Lebensjahr vollendet hat und
@@ -2208,10 +2039,7 @@ werden.
 (2) Über die Ausnahme vom Jugendstrafvollzug entscheidet der
 Vollstreckungsleiter.
 
-
 ##### Vierter Unterabschnitt - Untersuchungshaft
-
-
 
 ###### § 89c Vollstreckung der Untersuchungshaft
 
@@ -2225,10 +2053,7 @@ diesen Vorschriften und in diesen Einrichtungen vollzogen werden. Die
 Entscheidung trifft das Gericht. Die für die Aufnahme vorgesehene
 Einrichtung ist vor der Entscheidung zu hören.
 
-
 #### Zweiter Abschnitt - Vollzug
-
-
 
 ##### § 90 Jugendarrest
 
@@ -2243,11 +2068,9 @@ beigetragen haben.
 Freizeitarresträumen der Landesjustizverwaltung vollzogen.
 Vollzugsleiter ist der Jugendrichter am Ort des Vollzugs.
 
-
 ##### § 91 (weggefallen)
 
 -
-
 
 ##### § 92 Rechtsbehelfe im Vollzug des Jugendarrestes, der Jugendstrafe und der Unterbringung in einem psychiatrischen Krankenhaus oder einer Entziehungsanstalt
 
@@ -2298,11 +2121,9 @@ das vierundzwanzigste Lebensjahr vollendet, sind die Absätze 1 bis 5
 nicht anzuwenden. Für den Antrag auf gerichtliche Entscheidung gelten
 die Vorschriften der §§ 109 bis 121 des Strafvollzugsgesetzes.
 
-
 ##### § 93 (weggefallen)
 
 -
-
 
 ##### § 93a Unterbringung in einer Entziehungsanstalt
 
@@ -2314,14 +2135,9 @@ sozialen Hilfen zur Verfügung stehen.
 (2) Um das angestrebte Behandlungsziel zu erreichen, kann der Vollzug
 aufgelockert und weitgehend in freien Formen durchgeführt werden.
 
-
 ### Viertes Hauptstück - Beseitigung des Strafmakels
 
-
-
 #### (XXXX) §§ 94 bis 96 (weggefallen)
-
-
 
 #### § 97 Beseitigung des Strafmakels durch Richterspruch
 
@@ -2341,7 +2157,6 @@ Strafe ergehen, es sei denn, daß der Verurteilte sich der Beseitigung
 des Strafmakels besonders würdig gezeigt hat. Während des Vollzugs
 oder während einer Bewährungszeit ist die Anordnung unzulässig.
 
-
 #### § 98 Verfahren
 
 (1) Zuständig ist der Jugendrichter des Amtsgerichts, dem die
@@ -2358,7 +2173,6 @@ Vertreter, ferner die Schule und die zuständige Verwaltungsbehörde.
 
 (3) Nach Abschluß der Ermittlungen ist der Staatsanwalt zu hören.
 
-
 #### § 99 Entscheidung
 
 (1) Der Jugendrichter entscheidet durch Beschluß.
@@ -2369,7 +2183,6 @@ Jahre aufschieben.
 
 (3) Gegen den Beschluß ist sofortige Beschwerde zulässig.
 
-
 #### § 100 Beseitigung des Strafmakels nach Erlaß einer Strafe oder eines Strafrestes
 
 Wird die Strafe oder ein Strafrest bei Verurteilung zu nicht mehr als
@@ -2377,7 +2190,6 @@ zwei Jahren Jugendstrafe nach Aussetzung zur Bewährung erlassen, so
 erklärt der Richter zugleich den Strafmakel als beseitigt. Dies gilt
 nicht, wenn es sich um eine Verurteilung nach den §§ 174 bis 180 oder
 182 des Strafgesetzbuches handelt.
-
 
 #### § 101 Widerruf
 
@@ -2388,10 +2200,7 @@ widerruft der Richter in dem Urteil oder nachträglich durch Beschluß
 die Beseitigung des Strafmakels. In besonderen Fällen kann er von dem
 Widerruf absehen.
 
-
 ### Fünftes Hauptstück - Jugendliche vor Gerichten, die für allgemeine Strafsachen zuständig sind
-
-
 
 #### § 102 Zuständigkeit
 
@@ -2403,7 +2212,6 @@ Gerichtsverfassungsgesetzes) entscheidet der Bundesgerichtshof auch
 über Beschwerden gegen Entscheidungen dieser Oberlandesgerichte, durch
 welche die Aussetzung der Jugendstrafe zur Bewährung angeordnet oder
 abgelehnt wird (§ 59 Abs. 1).
-
 
 #### § 103 Verbindung mehrerer Strafsachen
 
@@ -2429,7 +2237,6 @@ höherer Ordnung gleichstehen.
 (3) Beschließt der Richter die Trennung der verbundenen Sachen, so
 erfolgt zugleich Abgabe der abgetrennten Sache an den Richter, der
 ohne die Verbindung zuständig gewesen wäre.
-
 
 #### § 104 Verfahren gegen Jugendliche
 
@@ -2517,17 +2324,9 @@ sind folgende Entscheidungen zu übertragen:
     Entscheidung über die Aussetzung der Jugendstrafe erforderlich werden,
     mit Ausnahme der vorbehaltenen Entscheidung selbst (§ 61a).
 
-
-
-
-
 ## Dritter Teil - Heranwachsende
 
-
-
 ### Erster Abschnitt - Anwendung des sachlichen Strafrechts
-
-
 
 #### § 105 Anwendung des Jugendstrafrechts auf Heranwachsende
 
@@ -2556,7 +2355,6 @@ nach allgemeinem Strafrecht verurteilt worden ist.
 Jahre. Handelt es sich bei der Tat um Mord und reicht das Höchstmaß
 nach Satz 1 wegen der besonderen Schwere der Schuld nicht aus, so ist
 das Höchstmaß 15 Jahre.
-
 
 #### § 106 Milderung des allgemeinen Strafrechts für Heranwachsende; Sicherungsverwahrung
 
@@ -2648,16 +2446,12 @@ Unterbringung in der Sicherungsverwahrung nachträglich anordnen, wenn
 
 (7) (weggefallen)
 
-
 ### Zweiter Abschnitt - Gerichtsverfassung und Verfahren
-
-
 
 #### § 107 Gerichtsverfassung
 
 Von den Vorschriften über die Jugendgerichtsverfassung gelten die §§
 33 bis 34 Abs. 1 und §§ 35 bis 38 für Heranwachsende entsprechend.
-
 
 #### § 108 Zuständigkeit
 
@@ -2680,7 +2474,6 @@ Besetzung in der Hauptverhandlung (§ 33b) ist nicht zulässig, wenn die
 Anordnung der Unterbringung in der Sicherungsverwahrung, deren
 Vorbehalt oder die Anordnung der Unterbringung in einem
 psychiatrischen Krankenhaus zu erwarten ist.
-
 
 #### § 109 Verfahren
 
@@ -2708,10 +2501,7 @@ Strafprozessordnung nicht anzuwenden.
 (3) In einem Verfahren gegen einen Heranwachsenden findet § 407 Abs. 2
 Satz 2 der Strafprozeßordnung keine Anwendung.
 
-
 ### Dritter Abschnitt - Vollstreckung, Vollzug und Beseitigung des Strafmakels
-
-
 
 #### § 110 Vollstreckung und Vollzug
 
@@ -2724,17 +2514,13 @@ hat.
 (2) Für die Vollstreckung von Untersuchungshaft an zur Tatzeit
 Heranwachsenden gilt § 89c entsprechend.
 
-
 #### § 111 Beseitigung des Strafmakels
 
 Die Vorschriften über die Beseitigung des Strafmakels (§§ 97 bis 101)
 gelten für Heranwachsende entsprechend, soweit der Richter
 Jugendstrafe verhängt hat.
 
-
 ### Vierter Abschnitt - Heranwachsende vor Gerichten, die für allgemeine Strafsachen zuständig sind
-
-
 
 #### § 112 Entsprechende Anwendung
 
@@ -2746,10 +2532,7 @@ Richter die Erteilung von Weisungen für erforderlich, so überläßt er
 die Auswahl und Anordnung dem Jugendrichter, in dessen Bezirk sich der
 Heranwachsende aufhält.
 
-
 ## Vierter Teil - Sondervorschriften für Soldaten der Bundeswehr
-
-
 
 ### § 112a Anwendung des Jugendstrafrechts
 
@@ -2779,13 +2562,7 @@ folgenden Abweichungen:
     Vorgesetzten des Jugendlichen oder Heranwachsenden zu sorgen haben.
     Maßnahmen des Disziplinarvorgesetzten haben den Vorrang.
 
-
-
-
-
 ### § 112b (weggefallen)
-
-
 
 ### § 112c Vollstreckung
 
@@ -2798,7 +2575,6 @@ einen Aufschub der Vollstreckung Rechnung getragen werden kann.
 (2) Die Entscheidung des Vollstreckungsleiters nach Absatz 1 ist eine
 jugendrichterliche Entscheidung im Sinne des § 83.
 
-
 ### § 112d Anhörung des Disziplinarvorgesetzten
 
 Bevor der Richter oder der Vollstreckungsleiter einem Soldaten der
@@ -2807,17 +2583,13 @@ Jugendarrestes nach § 112c Absatz 1 absieht oder einen Soldaten als
 Bewährungshelfer bestellt, soll er den nächsten
 Disziplinarvorgesetzten des Jugendlichen oder Heranwachsenden hören.
 
-
 ### § 112e Verfahren vor Gerichten, die für allgemeine Strafsachen zuständig sind
 
 In Verfahren gegen Jugendliche oder Heranwachsende vor den für
 allgemeine Strafsachen zuständigen Gerichten (§ 104) sind die §§ 112a
 und 112d anzuwenden.
 
-
 ## Fünfter Teil - Schluß- und Übergangsvorschriften
-
-
 
 ### § 113 Bewährungshelfer
 
@@ -2828,7 +2600,6 @@ geringen Anfalls von Strafsachen unverhältnismäßig hohe Aufwendungen
 entstehen würden. Das Nähere über die Tätigkeit des Bewährungshelfers
 ist durch Landesgesetz zu regeln.
 
-
 ### § 114 Vollzug von Freiheitsstrafe in der Einrichtung für den Vollzug der Jugendstrafe
 
 In der Einrichtung für den Vollzug der Jugendstrafe dürfen an
@@ -2837,20 +2608,14 @@ vollendet haben und sich für den Jugendstrafvollzug eignen, auch
 Freiheitsstrafen vollzogen werden, die nach allgemeinem Strafrecht
 verhängt worden sind.
 
-
 ### § 115 (weggefallen)
-
-
 
 ### § 116 Zeitlicher Geltungsbereich
 
 Das Gesetz wird auch auf Verfehlungen angewendet, die vor seinem
 Inkrafttreten begangen worden sind.
 
-
 ### (XXXX) §§ 117 bis 120 (weggefallen)
-
-
 
 ### § 121 Übergangsvorschrift
 
@@ -2873,15 +2638,11 @@ des zuständigen Gerichts vor dem 1. Januar 2012 übergeben, ist § 74f
 des Gerichtsverfassungsgesetzes in der bis zum 31. Dezember 2011
 geltenden Fassung entsprechend anzuwenden.
 
-
 ### (XXXX) §§ 122 bis 124 (weggefallen)
-
-
 
 ### § 125 Inkrafttreten
 
 Dieses Gesetz tritt am 1. Oktober 1953 in Kraft.
-
 
 ### Anhang EV Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet C Abschnitt III (BGBl. II 1990, 889, 957)
 

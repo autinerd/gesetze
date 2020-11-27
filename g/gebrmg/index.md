@@ -21,7 +21,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 14 G v. 24.11.2011 I 2302
 
-
 ## § 1
 
 (1) Als Gebrauchsmuster werden Erfindungen geschützt, die neu sind,
@@ -55,7 +54,6 @@ werden insbesondere nicht angesehen:
 entgegen, als für die genannten Gegenstände oder Tätigkeiten als
 solche Schutz begehrt wird.
 
-
 ## § 2
 
 Als Gebrauchsmuster werden nicht geschützt:
@@ -70,10 +68,6 @@ Als Gebrauchsmuster werden nicht geschützt:
 
 
 3.  Verfahren.
-
-
-
-
 
 ## § 3
 
@@ -90,7 +84,6 @@ Anmelders oder seines Rechtsvorgängers beruht.
 (2) Der Gegenstand eines Gebrauchsmusters gilt als gewerblich
 anwendbar, wenn er auf irgendeinem gewerblichen Gebiet einschließlich
 der Landwirtschaft hergestellt oder benutzt werden kann.
-
 
 ## § 4
 
@@ -156,7 +149,6 @@ Fachmann die Erfindung danach ausführen kann (Absatz 3). Es kann diese
 Ermächtigung durch Rechtsverordnung auf das Deutsche Patent- und
 Markenamt übertragen.
 
-
 ## § 4a
 
 (1) Ist die Anmeldung ganz oder teilweise nicht in deutscher Sprache
@@ -192,7 +184,6 @@ nach, so wird der Tag des Eingangs der Zeichnungen beim Patentamt
 Anmeldetag; anderenfalls gilt eine Bezugnahme auf die Zeichnungen als
 nicht erfolgt.
 
-
 ## § 5
 
 (1) Hat der Anmelder mit Wirkung für die Bundesrepublik Deutschland
@@ -213,7 +204,6 @@ anzugeben und eine Abschrift der Patentanmeldung einzureichen. Werden
 diese Angaben nicht rechtzeitig gemacht, so wird das Recht nach Absatz
 1 Satz 1 verwirkt.
 
-
 ## § 6
 
 (1) Dem Anmelder steht innerhalb einer Frist von zwölf Monaten nach
@@ -228,7 +218,6 @@ zurückgenommen gilt.
 
 (2) Die Vorschriften des Patentgesetzes über die ausländische
 Priorität (§ 41) sind entsprechend anzuwenden.
-
 
 ## § 6a
 
@@ -250,7 +239,6 @@ Nachweis für die Zurschaustellung einzureichen.
 (4) Die Ausstellungspriorität nach Absatz 1 verlängert die
 Prioritätsfristen nach § 6 Abs. 1 nicht.
 
-
 ## § 7
 
 (1) Das Patentamt ermittelt auf Antrag die öffentlichen
@@ -262,7 +250,6 @@ Betracht zu ziehen sind (Recherche).
 Eingetragenen und jedem Dritten gestellt werden. Er ist schriftlich
 einzureichen. § 28 ist entsprechend anzuwenden. § 43 Abs. 3, 5, 6 und
 7 Satz 1 des Patentgesetzes ist entsprechend anzuwenden.
-
 
 ## § 8
 
@@ -293,7 +280,6 @@ jedermann frei. Im übrigen gewährt das Patentamt jedermann auf Antrag
 Einsicht in die Akten, wenn und soweit ein berechtigtes Interesse
 glaubhaft gemacht wird.
 
-
 ## § 9
 
 (1) Wird ein Gebrauchsmuster angemeldet, dessen Gegenstand ein
@@ -312,7 +298,6 @@ entsprechender Anwendung von § 50 Abs. 2 des Patentgesetzes zu
 treffenden Entscheidungen und für die in entsprechender Anwendung von
 § 50 Abs. 3 und § 53 Abs. 2 des Patentgesetzes vorzunehmenden
 Handlungen zuständig.
-
 
 ## § 10
 
@@ -349,7 +334,6 @@ einzelner der Gebrauchsmusterstelle oder den
 Gebrauchsmusterabteilungen obliegender Geschäfte betraut worden sind.
 § 27 Abs. 6 Satz 3 des Patentgesetzes gilt entsprechend.
 
-
 ## § 11
 
 (1) Die Eintragung eines Gebrauchsmusters hat die Wirkung, daß allein
@@ -376,7 +360,6 @@ und 2 genannten Handlungen vornehmen, gelten im Sinne des Satzes 1
 nicht als Personen, die zur Benutzung des Gegenstands des
 Gebrauchsmusters berechtigt sind.
 
-
 ## § 12
 
 Die Wirkung des Gebrauchsmusters erstreckt sich nicht auf
@@ -392,16 +375,11 @@ Die Wirkung des Gebrauchsmusters erstreckt sich nicht auf
 3.  Handlungen der in § 11 Nr. 4 bis 6 des Patentgesetzes bezeichneten
     Art.
 
-
-
-
-
 ## § 12a
 
 Der Schutzbereich des Gebrauchsmusters wird durch den Inhalt der
 Schutzansprüche bestimmt. Die Beschreibung und die Zeichnungen sind
 jedoch zur Auslegung der Schutzansprüche heranzuziehen.
-
 
 ## § 13
 
@@ -420,13 +398,11 @@ der Schutz des Gesetzes nicht ein.
 (§ 12) und über die staatliche Benutzungsanordnung (§ 13) sind
 entsprechend anzuwenden.
 
-
 ## § 14
 
 Soweit ein später angemeldetes Patent in ein nach § 11 begründetes
 Recht eingreift, darf das Recht aus diesem Patent ohne Erlaubnis des
 Inhabers des Gebrauchsmusters nicht ausgeübt werden.
-
 
 ## § 15
 
@@ -455,14 +431,12 @@ Löschung zu.
 so erfolgt die Löschung nur in diesem Umfang. Die Beschränkung kann in
 Form einer Änderung der Schutzansprüche vorgenommen werden.
 
-
 ## § 16
 
 Die Löschung des Gebrauchsmusters nach § 15 ist beim Patentamt
 schriftlich zu beantragen. Der Antrag muß die Tatsachen angeben, auf
 die er gestützt wird. Die Vorschriften des § 81 Abs. 6 und des § 125
 des Patentgesetzes gelten entsprechend.
-
 
 ## § 17
 
@@ -488,7 +462,6 @@ die Zustellung des Beschlusses zulässig.
 (4) Das Patentamt hat zu bestimmen, zu welchem Anteil die Kosten des
 Verfahrens den Beteiligten zur Last fallen. § 62 Abs. 2 und § 84 Abs.
 2 Satz 2 und 3 des Patentgesetzes sind entsprechend anzuwenden.
-
 
 ## § 18
 
@@ -527,7 +500,6 @@ Beschwerdesenat in dem Beschluß die Rechtsbeschwerde zugelassen hat. §
 100 Abs. 2 und 3 sowie die §§ 101 bis 109 des Patentgesetzes sind
 anzuwenden.
 
-
 ## § 19
 
 Ist während des Löschungsverfahrens ein Rechtsstreit anhängig, dessen
@@ -539,7 +511,6 @@ Löschungsantrag zurückgewiesen worden, so ist das Gericht an diese
 Entscheidung nur dann gebunden, wenn sie zwischen denselben Parteien
 ergangen ist.
 
-
 ## § 20
 
 Die Vorschriften des Patentgesetzes über die Erteilung oder
@@ -547,7 +518,6 @@ Zurücknahme einer Zwangslizenz oder wegen der Anpassung der durch
 Urteil festgesetzten Vergütung für eine Zwangslizenz (§ 24) und über
 das Verfahren (§§ 81 bis 99, 110 bis 122a) gelten für eingetragene
 Gebrauchsmuster entsprechend.
-
 
 ## § 21
 
@@ -567,7 +537,6 @@ Verfahrenskostenhilfe (§§ 129 bis 138) sind in Gebrauchsmustersachen
 entsprechend anzuwenden, § 135 Abs. 3 mit der Maßgabe, daß dem nach §
 133 beigeordneten Vertreter ein Beschwerderecht zusteht.
 
-
 ## § 22
 
 (1) Das Recht auf das Gebrauchsmuster, der Anspruch auf seine
@@ -584,7 +553,6 @@ geltend gemacht werden.
 
 (3) Ein Rechtsübergang oder die Erteilung einer Lizenz berührt nicht
 Lizenzen, die Dritten vorher erteilt worden sind.
-
 
 ## § 23
 
@@ -606,10 +574,6 @@ bewirkt. Die Aufrechterhaltung wird im Register vermerkt.
 2.  die Aufrechterhaltungsgebühr nicht rechtzeitig (§ 7 Abs. 1, § 13 Abs.
     3 oder § 14 Abs. 2 und 5 des Patentkostengesetzes) gezahlt wird.
 
-
-
-
-
 ## § 24
 
 (1) Wer entgegen den §§ 11 bis 14 ein Gebrauchsmuster benutzt, kann
@@ -625,7 +589,6 @@ werden. Der Schadensersatzanspruch kann auch auf der Grundlage des
 Betrages berechnet werden, den der Verletzer als angemessene Vergütung
 hätte entrichten müssen, wenn er die Erlaubnis zur Nutzung der
 Erfindung eingeholt hätte.
-
 
 ## § 24a
 
@@ -646,7 +609,6 @@ Vertriebswegen in Anspruch genommen werden.
 die Inanspruchnahme im Einzelfall unverhältnismäßig ist. Bei der
 Prüfung der Verhältnismäßigkeit sind auch die berechtigten Interessen
 Dritter zu berücksichtigen.
-
 
 ## § 24b
 
@@ -740,7 +702,6 @@ Schutz personenbezogener Daten bleiben im Übrigen unberührt.
 (10) Durch Absatz 2 in Verbindung mit Absatz 9 wird das Grundrecht des
 Fernmeldegeheimnisses (Artikel 10 des Grundgesetzes) eingeschränkt.
 
-
 ## § 24c
 
 (1) Wer mit hinreichender Wahrscheinlichkeit entgegen den §§ 11 bis 14
@@ -775,7 +736,6 @@ Verletzer von demjenigen, der die Vorlage oder Besichtigung nach
 Absatz 1 begehrt hat, den Ersatz des ihm durch das Begehren
 entstandenen Schadens verlangen.
 
-
 ## § 24d
 
 (1) Der Verletzte kann den Verletzer bei einer in gewerblichem Ausmaß
@@ -804,7 +764,6 @@ wird.
 (4) § 811 des Bürgerlichen Gesetzbuchs sowie § 24b Abs. 8 gelten
 entsprechend.
 
-
 ## § 24e
 
 Ist eine Klage auf Grund dieses Gesetzes erhoben worden, kann der
@@ -816,7 +775,6 @@ wenn von ihr nicht innerhalb von drei Monaten nach Eintritt der
 Rechtskraft des Urteils Gebrauch gemacht wird. Der Ausspruch nach Satz
 1 ist nicht vorläufig vollstreckbar.
 
-
 ## § 24f
 
 Auf die Verjährung der Ansprüche wegen Verletzung des Schutzrechts
@@ -825,11 +783,9 @@ Gesetzbuchs entsprechende Anwendung. Hat der Verpflichtete durch die
 Verletzung auf Kosten des Berechtigten etwas erlangt, findet § 852 des
 Bürgerlichen Gesetzbuchs entsprechende Anwendung.
 
-
 ## § 24g
 
 Ansprüche aus anderen gesetzlichen Vorschriften bleiben unberührt.
-
 
 ## § 25
 
@@ -868,7 +824,6 @@ nicht anzuwenden.
 und ein berechtigtes Interesse daran dartut, anzuordnen, daß die
 Verurteilung auf Verlangen öffentlich bekanntgemacht wird. Die Art der
 Bekanntmachung ist im Urteil zu bestimmen.
-
 
 ## § 25a
 
@@ -939,7 +894,6 @@ sind. Im Rechtsmittelverfahren ist der Antragsteller zu hören. Gegen
 die Entscheidung des Amtsgerichts ist die sofortige Beschwerde
 zulässig; über sie entscheidet das Oberlandesgericht.
 
-
 ## § 26
 
 (1) Macht in bürgerlichen Rechtsstreitigkeiten, in denen durch Klage
@@ -967,7 +921,6 @@ angenommene oder festgesetzte Streitwert später durch das Gericht
 heraufgesetzt wird. Vor der Entscheidung über den Antrag ist der
 Gegner zu hören.
 
-
 ## § 27
 
 (1) Für alle Klagen, durch die ein Anspruch aus einem der in diesem
@@ -988,7 +941,6 @@ insgesamt oder teilweise dem zuständigen Gericht eines anderen Landes
 einer Gebrauchsmusterstreitsache entstehen, sind die Gebühren nach §
 13 des Rechtsanwaltsvergütungsgesetzes und außerdem die notwendigen
 Auslagen des Patentanwalts zu erstatten.
-
 
 ## § 28
 
@@ -1025,7 +977,6 @@ nach Absatz 1 wird erst wirksam, wenn sowohl diese Beendigung als auch
 die Bestellung eines anderen Vertreters gegenüber dem Patentamt oder
 dem Patentgericht angezeigt wird.
 
-
 ## § 29
 
 Das Bundesministerium der Justiz regelt durch Rechtsverordnung, die
@@ -1033,7 +984,6 @@ nicht der Zustimmung des Bundesrates bedarf, die Einrichtung und den
 Geschäftsgang des Patentamts sowie die Form des Verfahrens in
 Gebrauchsmusterangelegenheiten, soweit nicht durch Gesetz Bestimmungen
 darüber getroffen sind.
-
 
 ## § 30
 
@@ -1046,7 +996,6 @@ ist verpflichtet, jedem, der ein berechtigtes Interesse an der
 Kenntnis der Rechtslage hat, auf Verlangen Auskunft darüber zu geben,
 auf welches Gebrauchsmuster sich die Verwendung der Bezeichnung
 stützt.
-
 
 ## § 31
 

@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 G v. 23.8.2011 I 1748
 
-
 ## Erster Abschnitt - Allgemeine Bestimmungen
-
-
 
 ### § 1 Verfassungsrechtliche Stellung und Aufgaben der Parteien
 
@@ -50,7 +47,6 @@ lebendige Verbindung zwischen dem Volk und den Staatsorganen sorgen.
 
 (4) Die Parteien verwenden ihre Mittel ausschließlich für die ihnen
 nach dem Grundgesetz und diesem Gesetz obliegenden Aufgaben.
-
 
 ### § 2 Begriff der Partei
 
@@ -78,16 +74,11 @@ Landtagswahl mit eigenen Wahlvorschlägen teilgenommen hat.
 2.  ihr Sitz oder ihre Geschäftsleitung sich außerhalb des
     Geltungsbereichs dieses Gesetzes befindet.
 
-
-
-
-
 ### § 3 Aktiv- und Passivlegitimation
 
 Die Partei kann unter ihrem Namen klagen und verklagt werden. Das
 gleiche gilt für ihre Gebietsverbände der jeweils höchsten Stufe,
 sofern die Satzung der Partei nichts anderes bestimmt.
-
 
 ### § 4 Name
 
@@ -106,7 +97,6 @@ Wahlwerbung kann der Zusatz weggelassen werden.
 Recht, den Namen der Partei weiterzuführen. Ein neu gewählter Name
 darf nicht in einem bloßen Zusatz zu dem bisherigen Namen bestehen.
 Entsprechendes gilt für Kurzbezeichnungen.
-
 
 ### § 5 Gleichbehandlung
 
@@ -130,10 +120,7 @@ werden.
 
 (4) Der Vierte Abschnitt bleibt unberührt.
 
-
 ## Zweiter Abschnitt - Innere Ordnung
-
-
 
 ### § 6 Satzung und Programm
 
@@ -216,7 +203,6 @@ erteilen.
 beschränkt (Landesparteien), gelten die in diesem Gesetz für die
 Partei getroffenen Regelungen für den Landesverband.
 
-
 ### § 7 Gliederung
 
 (1) Die Parteien gliedern sich in Gebietsverbände. Größe und Umfang
@@ -233,7 +219,6 @@ zulässig.
 (2) Soweit in einer Partei Landesverbände nicht bestehen, gelten die
 in diesem Gesetz für Landesverbände getroffenen Regelungen für die der
 Partei folgenden nächstniedrigen Gebietsverbände.
-
 
 ### § 8 Organe
 
@@ -252,7 +237,6 @@ räumlicher Ausdehnung gebildet werden.
 (2) Die Satzung kann weitere der Willensbildung des jeweiligen
 Gebietsverbandes dienende Einrichtungen (Organe) vorsehen. Sie sind in
 der Satzung ausdrücklich als solche zu bezeichnen.
-
 
 ### § 9 Mitglieder- und Vertreterversammlung (Parteitag, Hauptversammlung)
 
@@ -286,7 +270,6 @@ zugelassen ist.
 Tätigkeitsbericht des Vorstandes entgegen und faßt über ihn Beschluß.
 Der finanzielle Teil des Berichts ist vor der Berichterstattung durch
 Rechnungsprüfer, die von dem Parteitag gewählt werden, zu überprüfen.
-
 
 ### § 10 Rechte der Mitglieder
 
@@ -331,7 +314,6 @@ Eingreifen erfordern, kann der Vorstand der Partei oder eines
 Gebietsverbandes ein Mitglied von der Ausübung seiner Rechte bis zur
 Entscheidung des Schiedsgerichts ausschließen.
 
-
 ### § 11 Vorstand
 
 (1) Der Vorstand wird mindestens in jedem zweiten Kalenderjahr
@@ -358,7 +340,6 @@ geschäftsführender Vorstand (Präsidium) gebildet werden. Seine
 Mitglieder können auch vom Vorstand gewählt oder durch die Satzung
 bestimmt werden.
 
-
 ### § 12 Allgemeine Parteiausschüsse
 
 (1) Die Mitglieder von allgemeinen Parteiausschüssen und ähnlichen
@@ -377,7 +358,6 @@ dann noch unter der Hälfte der Gesamtmitgliederzahl des Organs liegen.
 (3) Das Amt der gewählten Mitglieder der in Absatz 1 genannten Organe
 dauert höchstens zwei Jahre.
 
-
 ### § 13 Zusammensetzung der Vertreterversammlungen
 
 Die Zusammensetzung einer Vertreterversammlung oder eines sonstigen
@@ -391,7 +371,6 @@ Wahlen zu Volksvertretungen erzielten Wählerstimmen auf die
 Gebietsverbände aufgeschlüsselt wird. Die Ausübung des Stimmrechts
 kann von der Erfüllung der Beitragspflicht des Gebietsverbandes
 abhängig gemacht werden.
-
 
 ### § 14 Parteischiedsgerichte
 
@@ -417,7 +396,6 @@ Schiedsgerichtsordnung zu erlassen, die den Beteiligten rechtliches
 Gehör, ein gerechtes Verfahren und die Ablehnung eines Mitglieds des
 Schiedsgerichts wegen Befangenheit gewährleistet.
 
-
 ### § 15 Willensbildung in den Organen
 
 (1) Die Organe fassen ihre Beschlüsse mit einfacher Stimmenmehrheit,
@@ -436,7 +414,6 @@ Versammlungen höherer Gebietsverbände ist mindestens den Vertretern
 der Gebietsverbände der beiden nächstniedrigen Stufen ein Antragsrecht
 einzuräumen. Bei Wahlen und Abstimmungen ist eine Bindung an
 Beschlüsse anderer Organe unzulässig.
-
 
 ### § 16 Maßnahmen gegen Gebietsverbände
 
@@ -462,10 +439,7 @@ nicht auf dem nächsten Parteitag ausgesprochen wird.
 (3) Gegen Maßnahmen nach Absatz 1 ist die Anrufung eines
 Schiedsgerichts zuzulassen.
 
-
 ## Dritter Abschnitt - Aufstellung von Wahlbewerbern
-
-
 
 ### § 17 Aufstellung von Wahlbewerbern
 
@@ -473,10 +447,7 @@ Die Aufstellung von Bewerbern für Wahlen zu Volksvertretungen muß in
 geheimer Abstimmung erfolgen. Die Aufstellung regeln die Wahlgesetze
 und die Satzungen der Parteien.
 
-
 ## Vierter Abschnitt - Staatliche Finanzierung
-
-
 
 ### § 18 Grundsätze und Umfang der staatlichen Finanzierung
 
@@ -551,7 +522,6 @@ Sachverständiger zu Fragen der Parteienfinanzierung berufen.
 (7) Löst sich eine Partei auf oder wird sie verboten, scheidet sie ab
 dem Zeitpunkt der Auflösung aus der staatlichen Teilfinanzierung aus.
 
-
 ### § 19 Antragstellung für die staatliche Teilfinanzierung
 
 (1) Die Festsetzung und die Auszahlung der staatlichen Mittel für das
@@ -574,7 +544,6 @@ Präsidenten des Deutschen Bundestages bis zum 15. des jeweils der
 nächsten Abschlagszahlung vorangehenden Monats zu stellen. Er kann für
 mehrere Abschläge des Jahres gleichzeitig gestellt werden. Absatz 1
 Sätze 5 bis 7 gilt entsprechend.
-
 
 ### § 19a Festsetzungsverfahren
 
@@ -638,7 +607,6 @@ Auszahlungen (§ 21 Abs. 1 Satz 1 Alternative 2) vorgenommen werden
 können. Die Auszahlung der übrigen staatlichen Mittel erfolgt an den
 Bundesverband der Partei, bei Landesparteien an den Landesverband.
 
-
 ### § 20 Abschlagszahlungen
 
 (1) Den anspruchsberechtigten Parteien sind Abschlagszahlungen auf den
@@ -661,7 +629,6 @@ Verwaltungsakt fest und verrechnet diesen Betrag unmittelbar.
 
 (3) § 19a Abs. 6 gilt entsprechend.
 
-
 ### § 21 Bereitstellung von Bundesmitteln und Auszahlungsverfahren sowie Prüfung durch den Bundesrechnungshof
 
 (1) Die Mittel nach den §§ 18 und 20 werden im Falle des § 19a Abs. 6
@@ -676,16 +643,12 @@ entsprechend den Vorschriften dieses Abschnitts festgesetzt und
 ausgezahlt hat, sowie die ordnungsgemäße Durchführung der Verfahren
 gemäß § 23a.
 
-
 ### § 22 Parteiinterner Finanzausgleich
 
 Die Bundesverbände der Parteien haben für einen angemessenen
 Finanzausgleich für ihre Landesverbände Sorge zu tragen.
 
-
 ## Fünfter Abschnitt - Rechenschaftslegung
-
-
 
 ### § 23 Pflicht zur öffentlichen Rechenschaftslegung
 
@@ -741,7 +704,6 @@ sowie über die Rechenschaftsberichte der Parteien Bericht. Zusätzlich
 erstellt er vergleichende jährliche Kurzübersichten über die Einnahmen
 und Ausgaben sowie über die Vermögensverhältnisse der Parteien. Die
 Berichte werden als Bundestagsdrucksache verteilt.
-
 
 ### § 23a Prüfung des Rechenschaftsberichts
 
@@ -800,7 +762,6 @@ veröffentlicht oder anderen staatlichen Stellen der Bundesrepublik
 Deutschland zugeleitet werden. Sie müssen vom Präsidenten nach
 Beendigung der Prüfung unverzüglich vernichtet werden.
 
-
 ### § 23b Anzeigepflicht bei Unrichtigkeiten im Rechenschaftsbericht
 
 (1) Erlangt eine Partei Kenntnis von Unrichtigkeiten in ihrem bereits
@@ -819,7 +780,6 @@ Finanzvorteile sind innerhalb einer vom Präsidenten des Deutschen
 Bundestages gesetzten Frist an diesen abzuführen.
 
 (3) § 23a Abs. 5 und 6 gilt entsprechend.
-
 
 ### § 24 Rechenschaftsbericht
 
@@ -1100,7 +1060,6 @@ Rechenschaftsbericht der jeweiligen Partei nachrichtlich auszuweisen
 und bleiben bei der Einnahme- und Ausgaberechnung der Partei
 unberücksichtigt.
 
-
 ### § 25 Spenden
 
 (1) Parteien sind berechtigt, Spenden anzunehmen. Bis zu einem Betrag
@@ -1196,7 +1155,6 @@ unverzüglich, spätestens mit Einreichung des Rechenschaftsberichts für
 das betreffende Jahr (§ 19a Abs. 3) an den Präsidenten des Deutschen
 Bundestages weiterzuleiten.
 
-
 ### § 26 Begriff der Einnahme
 
 (1) Einnahme ist, soweit für einzelne Einnahmearten (§ 24 Abs. 4)
@@ -1226,7 +1184,6 @@ schlüsselmäßige Verteilung unter mehrere Gebietsverbände bestimmt
 sind, werden bei der Stelle ausgewiesen, bei der sie endgültig
 verbleiben.
 
-
 ### § 26a Begriff der Ausgabe
 
 (1) Ausgabe ist, soweit für einzelne Ausgabearten (§ 24 Abs. 5) nichts
@@ -1244,7 +1201,6 @@ ihrem Buchwert als Ausgaben zu erfassen.
 (4) Ausgaben aus der internen Verrechnung zwischen Gliederungen sind
 bei der Gliederung zu erfassen, von der sie wirtschaftlich getragen
 werden.
-
 
 ### § 27 Einzelne Einnahmearten
 
@@ -1267,7 +1223,6 @@ Erbschaften und Vermächtnisse sind unter Angabe ihrer Höhe, des Namens
 und der letzten Anschrift des Erblassers im Rechenschaftsbericht zu
 verzeichnen, soweit der Gesamtwert 10.000 Euro übersteigt.
 
-
 ### § 28 Vermögensbilanz
 
 (1) In der Vermögensbilanz sind Vermögensgegenstände mit einem
@@ -1285,7 +1240,6 @@ wenn die jeweiligen Forderungen beziehungsweise Verbindlichkeiten
 bereits im Vorjahr entstanden sind. Die §§ 249 bis 251 des
 Handelsgesetzbuchs können für die Aufstellung der
 Rechenschaftsberichte dieser Gliederungen unbeachtet bleiben.
-
 
 ### § 29 Prüfung des Rechenschaftsberichts
 
@@ -1311,7 +1265,6 @@ sind. Auf die Versicherung der Vorstände nachgeordneter
 Gebietsverbände kann Bezug genommen werden. Es genügt die Versicherung
 des für die Finanzangelegenheiten zuständigen Vorstandsmitgliedes.
 
-
 ### § 30 Prüfungsbericht und Prüfungsvermerk
 
 (1) Das Ergebnis der Prüfung ist in einem schriftlichen
@@ -1331,7 +1284,6 @@ Gebietsverbände sind im Prüfungsvermerk namhaft zu machen.
 (3) Der Prüfungsvermerk ist auf dem einzureichenden
 Rechenschaftsbericht anzubringen und in vollem Wortlaut nach § 23 Abs.
 2 Satz 3 mit zu veröffentlichen.
-
 
 ### § 31 Prüfer
 
@@ -1381,10 +1333,7 @@ gewissenhafter und unparteiischer Wahrnehmung ihrer Aufgaben und zur
 Verschwiegenheit verpflichtet. § 323 des Handelsgesetzbuchs gilt
 entsprechend.
 
-
 ## Sechster Abschnitt - Verfahren bei unrichtigen Rechenschaftsberichten sowie Strafvorschriften
-
-
 
 ### § 31a Rückforderung der staatlichen Finanzierung
 
@@ -1413,7 +1362,6 @@ unverändert.
 aufnehmen, dass Maßnahmen nach Absatz 1 durch Landesverbände oder
 diesen nachgeordnete Gebietsverbände verursacht werden.
 
-
 ### § 31b Unrichtigkeit des Rechenschaftsberichts
 
 Stellt der Präsident des Deutschen Bundestages im Rahmen seiner
@@ -1426,7 +1374,6 @@ Unternehmen, beträgt der Anspruch 10 vom Hundert der nicht
 aufgeführten oder der unrichtig angegebenen Vermögenswerte. Der
 Präsident stellt die Verpflichtung der Partei zur Zahlung des Betrages
 durch Verwaltungsakt fest. § 31a Abs. 2 bis 5 gilt entsprechend.
-
 
 ### § 31c Rechtswidrig erlangte oder nicht veröffentlichte Spenden
 
@@ -1447,7 +1394,6 @@ dem Präsidium des Deutschen Bundestages die innerhalb eines
 Kalenderjahres eingegangenen Mittel zu Beginn des nächsten
 Kalenderjahres an Einrichtungen weiter, die mildtätigen, kirchlichen,
 religiösen oder wissenschaftlichen Zwecken dienen.
-
 
 ### § 31d Strafvorschriften
 
@@ -1484,10 +1430,7 @@ Entgelt oder in der Absicht, sich oder einen anderen zu bereichern
 oder einen anderen zu schädigen, so ist die Strafe Freiheitsstrafe bis
 zu fünf Jahren oder Geldstrafe.
 
-
 ## Siebter Abschnitt - Vollzug des Verbots verfassungswidriger Parteien
-
-
 
 ### § 32 Vollstreckung
 
@@ -1525,7 +1468,6 @@ Vereinsgesetzes vom 5. August 1964 (BGBl. I S. 593) entsprechend
 angewendet. Verbotsbehörde ist die oberste Landesbehörde, im Fall des
 Absatzes 2 der Bundesminister des Innern.
 
-
 ### § 33 Verbot von Ersatzorganisationen
 
 (1) Es ist verboten, Organisationen zu bilden, die verfassungswidrige
@@ -1546,31 +1488,24 @@ Bundesverfassungsgericht und § 32 dieses Gesetzes gelten entsprechend.
 Vereinsgesetzes, die Ersatzorganisationen einer verbotenen Partei
 sind, wird § 8 Abs. 2 des Vereinsgesetzes entsprechend angewandt.
 
-
 ## Achter Abschnitt - Schlußbestimmungen
-
-
 
 ### § 34
 
 (Änderung des Einkommensteuergesetzes)
 
-
 ### § 35
 
 (Änderung des Körperschaftsteuergesetzes)
-
 
 ### § 36
 
 (Anwendung steuerrechtlicher Vorschriften)
 
-
 ### § 37 Nichtanwendbarkeit einer Vorschrift des Bürgerlichen Gesetzbuchs
 
 § 54 Satz 2 des Bürgerlichen Gesetzbuchs wird bei Parteien nicht
 angewandt.
-
 
 ### § 38 Zwangsmittel des Bundeswahlleiters
 
@@ -1580,7 +1515,6 @@ Vorschriften des Verwaltungs-Vollstreckungsgesetzes gelten sinngemäß;
 der Bundeswahlleiter handelt insoweit als Vollstreckungs- und
 Vollzugsbehörde. Die Höhe des Zwangsgeldes beträgt mindestens 250 Euro
 und höchstens 1.500 Euro.
-
 
 ### § 39 Abschluss- und Übergangsregelungen
 
@@ -1613,11 +1547,9 @@ Abschreibungen vorzunehmen sind, sofern die Buchwerte nach
 handelsrechtlichen Grundlagen ermittelt worden sind. Im
 Erläuterungsteil ist hierauf hinzuweisen.
 
-
 ### § 40
 
 (weggefallen)
-
 
 ### § 41
 

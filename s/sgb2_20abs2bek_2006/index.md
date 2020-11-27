@@ -18,7 +18,6 @@ Fundstelle
 
 Stand: Nach Maßgabe der Entscheidungsformel mit GG unvereinbar gem. BVerfGE v. 9.2.2010 I 193 - 1 BvL 1/09, 1 BvL 3/09,1 BvL 4/09 -
 
-
 ## (XXXX)
 
 Nach § 20 Abs. 4 Satz 3 des Zweiten Buches Sozialgesetzbuch (Artikel 1
@@ -29,7 +28,6 @@ Die Höhe der monatlichen Regelleistung nach § 20 Abs. 2 des Zweiten
 Buches Sozialgesetzbuch beträgt für die Zeit ab 1. Juli 2006 für
 Personen, die allein stehend oder allein erziehend sind oder deren
 Partner minderjährig ist, 345 Euro.
-
 
 ## Schlussformel
 

@@ -15,13 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 2821
 
-
 ## § 1 Bundesamt für Sicherheit in der Informationstechnik
 
 Der Bund unterhält ein Bundesamt für Sicherheit in der
 Informationstechnik als Bundesoberbehörde. Es untersteht dem
 Bundesministerium des Innern.
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -95,7 +93,6 @@ Protokolle übertragenen Daten. Der Datenverkehr kann
 Telekommunikationsinhalte nach § 88 Absatz 1 des
 Telekommunikationsgesetzes und Nutzungsdaten nach § 15 Absatz 1 des
 Telemediengesetzes enthalten.
-
 
 ## § 3 Aufgaben des Bundesamtes
 
@@ -217,7 +214,6 @@ Hierzu nimmt es folgende Aufgaben wahr:
 (2) Das Bundesamt kann die Länder auf Ersuchen bei der Sicherung ihrer
 Informationstechnik unterstützen.
 
-
 ## § 4 Zentrale Meldestelle für die Sicherheit in der Informationstechnik
 
 (1) Das Bundesamt ist die zentrale Meldestelle für die Zusammenarbeit
@@ -260,7 +256,6 @@ unberührt.
 (6) Das Bundesministerium des Innern erlässt nach Zustimmung durch den
 Rat der IT-Beauftragten der Bundesregierung allgemeine
 Verwaltungsvorschriften zur Durchführung des Absatzes 3.
-
 
 ## § 5 Abwehr von Schadprogrammen und Gefahren für die Kommunikationstechnik des Bundes
 
@@ -471,7 +466,6 @@ zum 30. Juni des dem Berichtsjahr folgenden Jahres über
 Juni des dem Berichtsjahr folgenden Jahres den Innenausschuss des
 Deutschen Bundestages über die Anwendung dieser Vorschrift.
 
-
 ## § 6 Löschung
 
 Soweit das Bundesamt im Rahmen seiner Befugnisse personenbezogene
@@ -482,7 +476,6 @@ die Löschung lediglich für eine etwaige gerichtliche Überprüfung von
 Maßnahmen nach § 5 Absatz 3 zurückgestellt ist, dürfen die Daten ohne
 Einwilligung des Betroffenen nur zu diesem Zweck verwendet werden; sie
 sind für andere Zwecke zu sperren. § 5 Absatz 7 bleibt unberührt.
-
 
 ## § 7 Warnungen
 
@@ -514,7 +507,6 @@ hiervon ausgehen. Stellen sich die an die Öffentlichkeit gegebenen
 Informationen im Nachhinein als falsch oder die zugrunde liegenden
 Umstände als unzutreffend wiedergegeben heraus, ist dies unverzüglich
 öffentlich bekannt zu machen.
-
 
 ## § 8 Vorgaben des Bundesamtes
 
@@ -555,7 +547,6 @@ Bundesbehörden sind in diesem Fall nur zulässig, wenn das spezifische
 Anforderungsprofil den Einsatz abweichender Produkte erfordert. Die
 Sätze 5 und 6 gelten nicht für die in § 2 Absatz 3 Satz 2 genannten
 Gerichte und Verfassungsorgane.
-
 
 ## § 9 Zertifizierung
 
@@ -617,7 +608,6 @@ soweit sie eine den Sicherheitszertifikaten des Bundesamtes
 gleichwertige Sicherheit ausweisen und die Gleichwertigkeit vom
 Bundesamt festgestellt worden ist.
 
-
 ## § 10 Ermächtigung zum Erlass von Rechtsverordnungen
 
 (1) Das Bundesministerium des Innern bestimmt nach Anhörung der
@@ -634,12 +624,10 @@ Bundesministerium des Innern bestimmt im Einvernehmen mit dem
 Bundesministerium der Finanzen durch Rechtsverordnung die
 gebührenpflichtigen Tatbestände, die Gebührensätze und die Auslagen.
 
-
 ## § 11 Einschränkung von Grundrechten
 
 Das Fernmeldegeheimnis (Artikel 10 des Grundgesetzes) wird durch § 5
 eingeschränkt.
-
 
 ## § 12 Rat der IT-Beauftragten der Bundesregierung
 

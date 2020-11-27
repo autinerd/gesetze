@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1812
 
-
 ## Eingangsformel
 
 Es verordnen
@@ -37,9 +36,7 @@ Es verordnen
 
 des Luftverkehrsteuergesetzes vom 9. Dezember 2010 (BGBl. I S. 1885):
 
-
 ## Abschnitt 1 - Zu § 2 des Gesetzes
-
 
 ### § 1 Ergänzende Begriffsbestimmungen zum Gesetz
 
@@ -52,9 +49,7 @@ gemeinsame Vorschriften für die Durchführung von Luftverkehrsdiensten
 in der Gemeinschaft (ABl. L 293 vom 31.10.2008, S. 3) in der jeweils
 geltenden Fassung bedarf.
 
-
 ## Abschnitt 2 - Zu § 8 des Gesetzes
-
 
 ### § 2 Erteilung der Erlaubnis als steuerlicher Beauftragter
 
@@ -64,9 +59,7 @@ geltenden Fassung bedarf.
 (2) Die Erlaubnis kann mit sämtlichen in § 120 Absatz 2 der
 Abgabenordnung aufgezählten Nebenbestimmungen verbunden werden.
 
-
 ## Abschnitt 3 - Zu § 9 des Gesetzes
-
 
 ### § 3 Anzeichen für eine Gefährdung der Steuer
 
@@ -161,12 +154,7 @@ Voraussetzungen erfüllt sind:
 12. der Steuerschuldner stellt einen Antrag auf Stundung nach § 222 der
     Abgabenordnung.
 
-
-
-
-
 ## Abschnitt 4 - Zu den §§ 12 und 18 Absatz 3 des Gesetzes
-
 
 ### § 4 Elektronische Datenübermittlung im Besteuerungsverfahren, Allgemeines
 
@@ -192,7 +180,6 @@ Authentizität, Vertraulichkeit und Integrität der Daten gewährleisten.
 Werden allgemein zugängliche Netze genutzt, sind
 Verschlüsselungsverfahren einzusetzen.
 
-
 ### § 5 Schnittstellen
 
 (1) Bei der elektronischen Datenübermittlung sind die hierfür vom
@@ -204,7 +191,6 @@ gestellt.
 (2) Werden Mängel festgestellt, die eine ordnungsgemäße Übernahme der
 Daten beeinträchtigen, kann die Übernahme der Daten abgelehnt werden.
 Der Absender ist über die Mängel zu unterrichten.
-
 
 ### § 6 Authentifizierung, Datenübermittlung im Auftrag
 
@@ -253,9 +239,7 @@ der Dritte die Daten dem Auftraggeber unverzüglich in leicht
 nachprüfbarer Form zur Überprüfung zur Verfügung zu stellen. Der
 Auftraggeber hat die Daten unverzüglich zu überprüfen.
 
-
 ## Abschnitt 5 - Inkrafttreten
-
 
 ### § 7 Inkrafttreten
 

@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 382
 
-
-
 ## Eingangsformel
 
 Auf Grund des Artikels 9 Nr. 16 des Gesetzes zur Einführung einer
@@ -32,7 +30,6 @@ bundesunmittelbaren Körperschaften mit Dienstherrnfähigkeit im
 Geschäftsbereich des Bundesministeriums für Gesundheit und Soziale
 Sicherung vom 24. Februar 2003 (BGBl. I S. 300) wird folgende
 Anordnung erlassen:
-
 
 ## I. Übertragung von Befugnissen
 
@@ -67,18 +64,15 @@ Bundes die Befugnis,
 Die Befugnisse des Vorstandes nach den §§ 35 und 43 des
 Bundesdisziplinargesetzes bleiben hiervon unberührt.
 
-
 ## II. Vorbehaltsklausel
 
 Der Vorstand der Unfallkasse des Bundes behält sich vor, die nach
 Abschnitt I erteilten Befugnisse im Einzelfall und in jedem Stadium
 des Verfahrens selbst wahrzunehmen.
 
-
 ## III. Inkrafttreten
 
 Die vorstehende Anordnung tritt am 1. Januar 2004 in Kraft.
-
 
 ## Schlussformel
 

@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 7 V v. 8.3.2012 I 483
 
-
 ## § 1 Geltungsbereich
 
 (1) Schiffe, die aus Seegebieten seewärts der Grenze des deutschen
@@ -65,7 +64,6 @@ bekannt zu machen.
 (4) Diese Verordnung gilt ferner nicht für Bunker auf Schiffen unter 1
 000 BRZ, Bordvorräte und Schiffsausrüstung.
 
-
 ## § 2 Folgen von Verstößen
 
 (1) Ein Schiff, dessen Schiffsführer, Betreiber oder Agent die in der
@@ -84,7 +82,6 @@ Artikels 14 der Richtlinie 2009/16/EG des Europäischen Parlaments und
 des Rates vom 23. April 2009 über die Hafenstaatkontrolle (Neufassung)
 (ABl. L 131 vom 28.5.2009, S. 57) in der jeweils geltenden Fassung
 unterzogen.
-
 
 ## § 3 Ordnungswidrigkeiten
 
@@ -120,7 +117,6 @@ fahrlässig
 (2) Die Zuständigkeit für die Verfolgung und Ahndung von
 Ordnungswidrigkeiten nach Absatz 1 und Absatz 1a wird auf die Wasser-
 und Schifffahrtsdirektionen Nord und Nordwest übertragen.
-
 
 ## Anlage (zu § 1 Abs. 1)
 
@@ -869,10 +865,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     einem späteren Zeitpunkt statt, hat er die Eintragung in das
     Schiffstagebuch unmittelbar danach vorzunehmen und die durchgeführte
     Eintragung unverzüglich nachzumelden.
-
-
-
-
 
 ## Anhang (zu Nummer 1.17 der Anlage)
 

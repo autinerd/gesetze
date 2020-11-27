@@ -22,7 +22,6 @@ Die V dient der Durchführung von Rechtsakten der Europäischen
 Gemeinschaft hinsichtlich der Erstattungen bei der Ausfuhr,
 insbesondern der EWGV 3665/87
 
-
 ## Eingangsformel
 
 Auf Grund des § 6 Abs. 1 Nr. 1, des § 13 Abs. 1 Satz 1 sowie des § 15
@@ -36,14 +35,12 @@ August 1971 (BGBl. I S. 1426, 1427), der durch Artikel 1 Nr. 4
 Buchstabe b des Gesetzes vom 14. Dezember 1984 (BGBl. I S. 1493)
 geändert worden ist, verordnet das Bundesministerium der Finanzen:
 
-
 ## § 1 Anwendungsbereich
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung der
 Rechtsakte der Europäischen Gemeinschaft, die im Rahmen der
 gemeinsamen Marktorganisationen und Handelsregelungen hinsichtlich der
 Erstattungen bei der Ausfuhr erlassen worden sind.
-
 
 ## § 2 Zuständigkeit
 
@@ -72,7 +69,6 @@ Landwirtschaft und Ernährung (Bundesanstalt). Zuständig für
 
 
 ist das Hauptzollamt Hamburg-Jonas.
-
 
 ## § 3 Abfertigung zur Ausfuhr
 
@@ -128,7 +124,6 @@ sind, kann das Hauptzollamt, in dessen Bezirk die Feststellung
 getroffen werden soll, Personen, die vom Ergebnis der Feststellung
 nicht selbst betroffen werden, als Zollhilfspersonen bestellen.
 
-
 ## § 4 Überwachung und Bestätigung der Ausfuhr
 
 (1) Die Bestätigung über den Ausgang der Warensendung aus dem
@@ -155,7 +150,6 @@ Geltungsbereich dieser Verordnung im Kontrollexemplar T 5 erteilt.
 Ausgangsbestätigung nur erteilt, wenn ein Beförderungspapier vorgelegt
 wird, in dem ein Bestimmungsort außerhalb des Zollgebiets der
 Gemeinschaft angegeben ist.
-
 
 ## § 5 Lieferungen, die der Ausfuhr gleichgestellt sind
 
@@ -217,7 +211,6 @@ zugelassener Versender nach Artikel 912g der Verordnung (EWG) Nr.
 2454/93 ist. Das Hauptzollamt kann dem Antragsteller Auflagen
 erteilen, soweit es der Überwachungszweck erfordert.
 
-
 ## § 6 Vorratslager für Schiffs- und Luftfahrzeugbedarf
 
 (1) Als Vorratslager für Schiffs- und Luftfahrzeugbedarf im Sinne des
@@ -272,10 +265,7 @@ von diesem bestimmte Überwachungszollstelle können dem Inhaber des
 Vorratslagers Auflagen erteilen, soweit es der Überwachungszweck
 erfordert.
 
-
 ## (XXXX) §§ 7 bis 11 (weggefallen)
-
-
 
 ## § 11a Zolllagerverfahren bei der Sondererstattung Rindfleisch
 
@@ -291,7 +281,6 @@ Lagerung/-Veredelung“ zu streichen und im gleichen Feld oder im Feld
 (EG) Nr. 1741/2006“ zu ersetzen. Für das Beifügen von Unterlagen und
 die Gestellung der angemeldeten Grunderzeugnisse gilt § 3 Abs. 2
 entsprechend.
-
 
 ## § 12 Zusätzliche Bestimmungen für Malz
 
@@ -374,7 +363,6 @@ berichtigt werden soll, gelten folgende zusätzliche Bestimmungen:
 zu Beginn des Wirtschaftsjahres lagert. Die Oberfinanzdirektion kann
 eine andere Zollstelle als örtlich zuständige Zollstelle bestimmen.
 
-
 ## § 13 Melde- und Aufbewahrungspflichten
 
 (1) Ist eine Ware zum Verfahren nach den Artikeln 412 bis 442 der
@@ -397,7 +385,6 @@ Herstellungsanweisungen und -berichte, Laboraufzeichnungen, Stück-,
 Packstück- und Wiegelisten, auch wenn ihre Ergebnisse in andere
 geschäftliche Unterlagen übernommen worden sind.
 
-
 ## § 13a Duldungs- und sonstige Mitwirkungspflichten
 
 Zum Zwecke der Überwachung haben die nach § 33 Abs. 2 des Gesetzes zur
@@ -411,7 +398,6 @@ zu erteilen und die erforderliche Unterstützung zu gewähren. Bei IT-
 gestützter Buchführung haben die in Satz 1 genannten Beteiligten auf
 ihre Kosten Listen mit den erforderlichen Angaben auszudrucken, soweit
 es die zuständige Stelle verlangt.
-
 
 ## § 14 Kontroll- und Überwachungsgesellschaften; Schutz lebender Rinder beim Transport
 
@@ -446,11 +432,9 @@ unverzüglich schriftlich anzuzeigen.
 639/2003, die von der nach § 2 zuständigen Stelle durchgeführt wird,
 trägt der Ausführer die Auslagen.
 
-
 ## § 14a
 
 (weggefallen)
-
 
 ## § 15 Antragsteller und Antrag
 
@@ -483,7 +467,6 @@ betreffenden zollamtlichen Abschreibung enthalten. Sofern ein
 Zusatzblatt kopiert wird, ist auf diesem die Nummer und das Datum der
 dazugehörenden Ausfuhrlizenz zu vermerken.
 
-
 ## § 16 Gewährung der Ausfuhrerstattung, Nachweise
 
 (1) Das Hauptzollamt Hamburg-Jonas setzt die Erstattung durch Bescheid
@@ -496,7 +479,6 @@ Abgabenordnung sinngemäß.
 (2) Ausfuhrerstattungen werden nicht gezahlt, wenn der
 Erstattungsanspruch aus einem Antrag auf Erstattung höchstens 60 Euro
 beträgt.
-
 
 ## § 17 Vorauszahlung der Erstattung
 
@@ -511,16 +493,11 @@ als Vorauszahlung gezahlt werden, so hat der Antragsteller
     dem Abfertigungsbefund zurückgegebene zusätzliche Durchschrift der
     Ausfuhranmeldung für Erstattungszwecke einzureichen.
 
-
-
-
-
 ## § 18 Sicherheitsleistung
 
 Soll die Erstattung als Vorauszahlung gezahlt werden, so ist die nach
 den in § 1 genannten Rechtsakten vorgeschriebene Sicherheit beim
 Hauptzollamt Hamburg-Jonas zu leisten.
-
 
 ## § 19 Inkrafttreten, Außerkrafttreten
 

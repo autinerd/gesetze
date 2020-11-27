@@ -17,7 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 1948
 
-
 ## I.
 
 Nach § 126 Absatz 3 Satz 2 des Bundesbeamtengesetzes vom 5. Februar
@@ -33,7 +32,6 @@ die Ablehnung eines Anspruchs in Angelegenheiten nach der
 Bundesbeihilfeverordnung zu entscheiden, soweit die Bundesnetzagentur
 für den Erlass des Verwaltungsaktes oder die Ablehnung des Anspruchs
 zuständig war.
-
 
 ## II.
 
@@ -52,13 +50,11 @@ dieser Anordnung zur Entscheidung über den Widerspruch befugt war. Das
 Bundesministerium für Arbeit und Soziales behält sich vor, im
 Einzelfall die Prozessvertretung selbst wahrzunehmen.
 
-
 ## III.
 
 Diese Anordnung wird am 1. Dezember 2010 wirksam. Die Abschnitte I und
 II sind auch anzuwenden auf bereits laufende Verfahren der
 Beschäftigten des Bundesarbeitsgerichts.
-
 
 ## Schlussformel
 

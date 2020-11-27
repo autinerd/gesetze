@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1997, 161
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
@@ -28,11 +26,9 @@ Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975
 Landwirtschaft und Forsten im Einvernehmen mit dem Bundesministerium
 für Bildung, Wissenschaft, Forschung und Technologie:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Winzer/Winzerin wird staatlich anerkannt.
-
 
 ## § 2 Ausbildungsdauer
 
@@ -43,7 +39,6 @@ Vorschriften eingeführten schulischen Berufsgrundbildungsjahres nach
 einer Verordnung gemäß § 29 Abs. 1 des Berufsbildungsgesetzes als
 erstes Jahr der Berufsausbildung anzurechnen ist, beginnen die
 betriebliche Ausbildung im zweiten Ausbildungsjahr.
-
 
 ## § 3 Berufsfeldbreite Grundbildung und Zielsetzung der Berufsausbildung
 
@@ -59,7 +54,6 @@ qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des
 Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges
 Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung
 ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
-
 
 ## § 4 Ausbildungsberufsbild
 
@@ -131,10 +125,6 @@ Fertigkeiten und Kenntnisse:
 
 5.2 Beraten und Verkaufen.
 
-
-
-
-
 ## § 5 Ausbildungsrahmenplan
 
 Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in den
@@ -147,12 +137,10 @@ abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes
 ist insbesondere zulässig, soweit betriebspraktische Besonderheiten
 die Abweichung erfordern.
 
-
 ## § 6 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 7 Berichtsheft
 
@@ -160,7 +148,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 8 Zwischenprüfung
 
@@ -235,10 +222,6 @@ insbesondere aus folgenden Gebieten zu bearbeiten:
 
 
 6.  qualitätsorientiertes und umweltschonendes Bereiten von Wein.
-
-
-
-
 
 ## § 9 Abschlußprüfung
 
@@ -422,7 +405,6 @@ Prüfungsaufgaben in der praktischen Prüfung oder eines der
 Prüfungsfächer in der schriftlichen Prüfung mit ungenügend bewertet
 worden ist.
 
-
 ## § 10 Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
@@ -430,11 +412,9 @@ Verordnung bestehen, sind die bisherigen Vorschriften weiter
 anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
 Anwendung der Vorschriften dieser Verordnung.
 
-
 ## § 11 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 1997 in Kraft.
-
 
 ## Anlage I (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Winzer/zur Winzerin - sachliche Gliederung -
 
@@ -1327,10 +1307,6 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 *    *   d)
 
     *   Verkauf betrieblicher Erzeugnisse durchführen
-
-
-
-
 
 ## Anlage II (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Winzer/zur Winzerin - zeitliche Gliederung -
 

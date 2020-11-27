@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 8 G v. 19.12.1997 I 3158
 
-
 ## § 1
 
 (1) Auf dem Gebiet der Kriegsopferfürsorge werden statistische
@@ -28,11 +27,9 @@ Erhebungen als Bundesstatistik durchgeführt.
 Zustimmung des Bundesrates höchstens einmal in zwei Jahren
 Zusatzstatistiken über Sonderfragen auf diesem Gebiet anzuordnen.
 
-
 ## § 2
 
 -
-
 
 ## § 3
 
@@ -45,14 +42,9 @@ zweijährlich erfragt
 
 2.  die Einnahmen im Berichtsjahr, aufgegliedert nach Einnahmearten.
 
-
-
-
-
 ## § 4
 
 -
-
 
 ## § 5
 
@@ -65,11 +57,9 @@ Zusatzstatistiken auf einen Teilbereich dieser Hilfen beschränkt, kann
 von dem bezeichneten Auswahlsatz abgewichen werden, wenn dies für die
 Gewinnung zuverlässiger Ergebnisse notwendig ist.
 
-
 ## § 6
 
 -
-
 
 ## § 7
 

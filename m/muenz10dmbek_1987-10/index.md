@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1987, 2288
 
-
-
 ## (XXXX)
 
 (1) Auf Grund des § 6 des Gesetzes über die Ausprägung von
@@ -74,7 +72,6 @@ SCHUMAN und SPAAK.
 
 (9) Der Entwurf der Münze stammt von Reinhart Heinsdorff, Ottmaring.
 Der Bundesminister der Finanzen
-
 
 ## (XXXX) Abbildung der Münze
 

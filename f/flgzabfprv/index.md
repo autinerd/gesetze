@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 15.7.1980 I 1014
 
-
 ## Eingangsformel
 
 Auf Grund des § 47 Abs. 2 in Verbindung mit § 46 Abs. 2 des
@@ -28,7 +27,6 @@ geändert worden ist, und unter Berücksichtigung des § 28 des
 Ausbildungsplatzförderungsgesetzes vom 7. September 1976 (BGBl. I S.
 2658) wird im Einvernehmen mit den Bundesministern für Wirtschaft und
 für Verkehr verordnet:
-
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
 
@@ -41,7 +39,6 @@ Flugzeugabfertigers hat.
 
 (2) Die erfolgreich abgelegte Prüfung führt zum anerkannten Abschluß
 Geprüfter Flugzeugabfertiger.
-
 
 ## § 2 Zulassungsvoraussetzungen
 
@@ -70,7 +67,6 @@ Zeugnissen oder auf andere Weise glaubhaft macht, daß er Kenntnisse,
 Fertigkeiten und Erfahrungen erworben hat, die die Zulassung zur
 Prüfung rechtfertigen.
 
-
 ## § 3 Inhalt und Gliederung der Prüfung
 
 (1) Die Prüfung gliedert sich in
@@ -87,7 +83,6 @@ Prüfung rechtfertigen.
 verschiedenen Prüfungsterminen geprüft werden; dabei ist mit dem
 letzten Prüfungsteil spätestens ein Jahr nach dem ersten Prüfungstag
 des bereits abgelegten Prüfungsteils zu beginnen.
-
 
 ## § 4 Fachpraktischer Teil
 
@@ -313,7 +308,6 @@ durchzuführen.
 oder Übungen durchzuführen. Die Prüfungsdauer soll mindestens 4,
 jedoch nicht mehr als 6 Stunden je Prüfungsteilnehmer betragen.
 
-
 ## § 5 Fachtheoretische Prüfung
 
 (1) Im fachtheoretischen Teil ist in folgenden Fächern zu prüfen:
@@ -446,7 +440,6 @@ oder nach Ermessen des Prüfungsausschusses durch eine mündliche
 Prüfung mit einer Prüfungsdauer von in der Regel 10 Minuten je
 Prüfungsfach und Prüfungsteilnehmer ergänzt werden.
 
-
 ## § 6 Anrechnung anderer Prüfungsleistungen
 
 Von der Ablegung der Prüfung im fachpraktischen Teil werden auf Antrag
@@ -465,7 +458,6 @@ freigestellt:
 
 
 3\.
-
 
 ## § 7 Bestehen der Prüfung
 
@@ -488,7 +480,6 @@ erzielten Noten hervorgehen müssen. Im Falle der Freistellung gemäß §
 6 sind Ort und Datum sowie Bezeichnung des Prüfungsgremiums der
 anderweitig abgelegten Prüfung anzugeben.
 
-
 ## § 8 Wiederholung der Prüfung
 
 (1) Eine Prüfung, die nicht bestanden ist, kann zweimal wiederholt
@@ -501,22 +492,18 @@ ausgereicht haben und er sich innerhalb von 2 Jahren, gerechnet vom
 Tag der Beendigung der nicht bestandenen Prüfung an, zur
 Wiederholungsprüfung anmeldet.
 
-
 ## § 9 Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 112 des Berufsbildungsgesetzes auch im Land Berlin.
 
-
 ## § 10 Inkrafttreten
 
 Diese Verordnung tritt am 1. Oktober 1977 in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesminister für Bildung und Wissenschaft
-
 
 ## Anlage 1
 
@@ -546,7 +533,6 @@ Unterschrift
 .............................................................
 (Vorsitzender des Prüfungsausschusses)
 (Siegel der zuständigen Stelle)
-
 
 ## Anlage 2
 
@@ -606,7 +592,6 @@ Unterschrift
 .............................................................
 (Vorsitzender des Prüfungsausschusses)
 (Siegel der zuständigen Stelle)
-
 
 ## Anhang EV Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III (BGBl. II 1990, 889, 1135)
 

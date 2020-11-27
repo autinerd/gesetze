@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 2863
 
-
 ## I.
 
 Nach Artikel 1 der Anordnung des Bundespräsidenten über die Ernennung
@@ -70,11 +69,9 @@ b)  der Besoldungsgruppen A 2 bis A 13 (gehobener Dienst)
 
 jeweils für ihren Geschäftsbereich.
 
-
 ## II.
 
 Diese Anordnung wird am Tag nach der Veröffentlichung wirksam.
-
 
 ## Schlussformel
 

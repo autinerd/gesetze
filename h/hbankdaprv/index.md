@@ -16,9 +16,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1858
 
-
 ## Abschnitt 1 - Allgemeines
-
 
 ### § 1 Vorbereitungsdienst
 
@@ -27,7 +25,6 @@ Vorbereitungsdienst für die Laufbahn des höheren Bankdienstes der
 Deutschen Bundesbank. Der Vorbereitungsdienst setzt sich aus einer
 fachtheoretischen und einer berufspraktischen Ausbildung zusammen. Er
 dauert in der Regel 18 Monate.
-
 
 ### § 2 Ausbildungsziele
 
@@ -39,7 +36,6 @@ Personalführung. Die Referendarinnen und Referendare sollen zu
 verantwortlichem Handeln in einem freiheitlichen, demokratischen und
 sozialen Rechtsstaat sowie zur Zusammenarbeit im europäischen und
 internationalen Raum befähigt werden.
-
 
 ### § 3 Auswahlverfahren
 
@@ -82,12 +78,10 @@ eine von ihr bestimmte Stelle stellt sicher, dass in allen
 Auswahlverfahren die gleichen Bewertungs- und Auswahlmaßstäbe angelegt
 werden.
 
-
 ### § 4 Erholungsurlaub
 
 Erholungsurlaub wird nur während der berufspraktischen Ausbildung (§
 10) gewährt.
-
 
 ### § 5 Nachteilsausgleich
 
@@ -107,7 +101,6 @@ Stelle. Bei Leistungstests entscheidet die Ausbildungsleiterin oder
 der Ausbildungsleiter. In der schriftlichen Abschlussprüfung
 entscheidet das Prüfungsamt, in der mündlichen Abschlussprüfung die
 oder der Vorsitzende der Prüfungskommission.
-
 
 ### § 6 Bewertung der Leistungen
 
@@ -208,9 +201,7 @@ und das Ausdrucksvermögen zu berücksichtigen.
 (3) Soweit in dieser Verordnung nichts anderes bestimmt ist, werden
 Rangpunktzahlen auf zwei Nachkommastellen ohne Rundung berechnet.
 
-
 ## Abschnitt 2 - Ausbildung
-
 
 ### § 7 Ausbildungsleitung, Ausbildungsbeauftragte, Ausbildende
 
@@ -242,7 +233,6 @@ Sorgfalt ausbilden können. Soweit erforderlich, sind die
 Ausbildungsbeauftragten und Ausbildenden von anderen Dienstgeschäften
 zu entlasten.
 
-
 ### § 8 Ausbildungsrahmenplan, Lehrpläne, Ausbildungspläne
 
 (1) Die oberste Dienstbehörde oder eine von ihr bestimmte Stelle
@@ -261,10 +251,6 @@ Ausbildungsleiterin oder der Ausbildungsleiter
     Ausbildungslehrgänge und der Phasen der berufspraktischen Ausbildung
     enthalten sind, und gibt ihn der Referendarin oder dem Referendar
     bekannt.
-
-
-
-
 
 ### § 9 Fachtheoretische Ausbildung
 
@@ -300,7 +286,6 @@ setzt die Ausbildungsleiterin oder der Ausbildungsleiter fest. Die §§
 Entscheidungen die Ausbildungsleiterin oder der Ausbildungsleiter
 trifft.
 
-
 ### § 10 Berufspraktische Ausbildung
 
 (1) Während der berufspraktischen Ausbildung werden die
@@ -326,7 +311,6 @@ Note bewertet wird.
 (5) Die dienstliche Bewertung ist der Referendarin oder dem Referendar
 bekannt zu geben und mit ihr oder ihm zu besprechen.
 
-
 ### § 11 Zusammenfassendes Zeugnis, Ausbildungsrangpunktzahl
 
 Über den Erfolg der Ausbildung erstellt die Ausbildungsleiterin oder
@@ -338,9 +322,7 @@ Referendar erhält spätestens zwei Wochen vor Beginn der schriftlichen
 Abschlussprüfung (§ 15) eine Ausfertigung des zusammenfassenden
 Zeugnisses.
 
-
 ## Abschnitt 3 - Laufbahnprüfung
-
 
 ### § 12 Zweck, Bestandteile
 
@@ -351,7 +333,6 @@ erfüllen.
 
 (2) Die Laufbahnprüfung besteht aus einer schriftlichen und einer
 mündlichen Abschlussprüfung.
-
 
 ### § 13 Prüfungsamt
 
@@ -391,7 +372,6 @@ Angehörigen des höheren Dienstes zur Geschäftsführerin oder zum
 Geschäftsführer des Prüfungsamts und eine Vertretung. Die Bestellung
 endet mit dem Ausscheiden aus dem Hauptamt.
 
-
 ### § 14 Prüfungskommission
 
 (1) Für die Bewertung der schriftlichen Abschlussprüfung sowie für die
@@ -410,7 +390,6 @@ Ausscheiden aus dem Hauptamt.
 
 (3) Die Mitglieder der Prüfungskommissionen sind in dieser Funktion
 unabhängig und nicht weisungsgebunden.
-
 
 ### § 15 Schriftliche Abschlussprüfung
 
@@ -443,7 +422,6 @@ Prüfenden zustimmt.
 (4) Hat eine Referendarin oder ein Referendar die Klausur nicht oder
 nicht rechtzeitig abgegeben, gilt diese als mit null Rangpunkten
 bewertet.
-
 
 ### § 16 Mündliche Abschlussprüfung
 
@@ -510,7 +488,6 @@ Das Protokoll ist von allen Mitgliedern der Prüfungskommission und der
 Geschäftsführerin oder dem Geschäftsführer des Prüfungsamts zu
 unterschreiben.
 
-
 ### § 17 Fernbleiben, Rücktritt
 
 (1) Bei Fernbleiben oder Rücktritt von einem Teil der Abschlussprüfung
@@ -531,7 +508,6 @@ Abschlussprüfung nachgeholt werden kann oder ob die schriftliche
 Abschlussprüfung oder die mündliche Abschlussprüfung insgesamt
 nachzuholen ist. Den Zeitpunkt der Nachholung setzt das Prüfungsamt
 fest.
-
 
 ### § 18 Täuschung, Ordnungsverstoß
 
@@ -559,7 +535,6 @@ Tag der mündlichen Abschlussprüfung für nicht bestanden erklären.
 
 (4) Die Betroffenen sind vor Entscheidungen nach den Absätzen 2 und 3
 anzuhören.
-
 
 ### § 19 Bestehen der Laufbahnprüfung
 
@@ -605,7 +580,6 @@ Referendarinnen und Referendaren die Rangpunktzahl der Laufbahnprüfung
 und die Ergebnisse der Einzelleistungen mit und erläutert die
 Bewertungen auf Wunsch kurz mündlich.
 
-
 ### § 20 Abschlusszeugnis
 
 (1) Wer die Laufbahnprüfung bestanden hat, erhält vom Prüfungsamt ein
@@ -615,7 +589,6 @@ der Laufbahnprüfung und die Abschlussnote enthält.
 
 (2) Wer die Laufbahnprüfung nicht bestanden hat, erhält vom
 Prüfungsamt einen Bescheid über die nicht bestandene Laufbahnprüfung.
-
 
 ### § 21 Prüfungsakten, Einsichtnahme
 
@@ -631,7 +604,6 @@ Vorbereitungsdienstes zu vernichten.
 die nicht bestandene Laufbahnprüfung können die Betroffenen auf Antrag
 Einsicht in ihre Prüfungsakten nehmen. Die Einsichtnahme ist in der
 jeweiligen Akte zu vermerken.
-
 
 ### § 22 Wiederholung der Laufbahnprüfung
 
@@ -654,9 +626,7 @@ Ausbildungsleiterin oder der Ausbildungsleiter ein neues
 zusammenfassendes Zeugnis nach § 11, das die in der Wiederholungsfrist
 erbrachten Leistungen einschließt.
 
-
 ## Abschnitt 4 - Schlussvorschrift
-
 
 ### § 23 Übergangsregelung
 

@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 8 V v. 29.10.2008 I 2155
 
-
 ## Eingangsformel
 
 Auf Grund des § 81 Abs. 4 und des § 80 Abs. 2 des
@@ -30,7 +29,6 @@ Berufsbildungsförderungsgesetzes vom 23. Dezember 1981 (BGBl. I S.
 1692) im Einvernehmen mit dem Bundesminister für Bildung und
 Wissenschaft verordnet:
 
-
 ## § 1 Ziel der Meisterprüfung und Bezeichnung des Abschlusses
 
 (1) Durch die Meisterprüfung ist festzustellen, ob der
@@ -41,7 +39,6 @@ auszubilden.
 
 (2) Die erfolgreich abgelegte Meisterprüfung führt zum anerkannten
 Abschluss Revierjagdmeister/Revierjagdmeisterin.
-
 
 ## § 1a Zulassungsvoraussetzungen zur Meisterprüfung
 
@@ -73,7 +70,6 @@ Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche
 Handlungsfähigkeit) erworben hat, die die Zulassung zur Prüfung
 rechtfertigen.
 
-
 ## § 2 Gliederung der Meisterprüfung
 
 (1) Die Meisterprüfung umfasst einen praktischen Teil, einen
@@ -96,7 +92,6 @@ befreien, in dem er eine sehr gute schriftliche Leistung erbracht hat.
 
 (4) Wird die schriftliche Prüfung programmiert durchgeführt, so kann
 ihre Dauer vom Prüfungsausschuß gekürzt werden.
-
 
 ## § 3 Prüfungsanforderungen im praktischen Teil
 
@@ -124,10 +119,6 @@ folgenden Prüfungsfächern nachweisen:
 
 
 5.  Arbeiten mit einem Jagdhund.
-
-
-
-
 
 ## § 4 Prüfungsanforderungen im fachtheoretischen Teil
 
@@ -272,7 +263,6 @@ Prüfungsteilnehmers berücksichtigt werden.
 mündliche Prüfung soll für den einzelnen Prüfungsteilnehmer nicht
 länger als 45 Minuten dauern.
 
-
 ## § 5 Prüfungsanforderungen im wirtschaftlichen und rechtlichen Teil
 
 (1) Die Prüfung im wirtschaftlichen und rechtlichen Teil erstreckt
@@ -372,7 +362,6 @@ sich auf folgende Prüfungsfächer:
 (3) Die schriftliche Prüfung soll nicht länger als vier Stunden, die
 mündliche Prüfung für den einzelnen Prüfungsteilnehmer nicht länger
 als 45 Minuten dauern.
-
 
 ## § 6 Prüfungsanforderungen im Teil "Berufsausbildung und Mitarbeiterführung"
 
@@ -589,7 +578,6 @@ Prüfung oder für die eindeutige Beurteilung der Prüfungsleistung von
 Bedeutung ist. Die Ergänzungsprüfung soll je Prüfungsteilnehmer nicht
 länger als 30 Minuten dauern.
 
-
 ## § 7 Anrechnung anderer Prüfungsleistungen
 
 Auf Antrag kann die zuständige Stelle den Prüfungsteilnehmer oder die
@@ -600,7 +588,6 @@ zuständigen Stelle, einer öffentlichen oder staatlich anerkannten
 Bildungseinrichtung oder vor einem staatlichen Prüfungsausschuss eine
 Prüfung mit Erfolg abgelegt wurde, die den Anforderungen der
 entsprechenden Prüfungsinhalte nach dieser Verordnung entspricht.
-
 
 ## § 8 Bestehen der Meisterprüfung
 
@@ -629,7 +616,6 @@ den Prüfungen nach § 6 Abs. 4 und 5 mit "ungenügend" oder mehr als
 einer der vorgenannten Prüfungsbestandteile mit "mangelhaft" benotet
 worden ist.
 
-
 ## § 9 Wiederholung der Meisterprüfung
 
 (1) Eine Meisterprüfung, die nicht bestanden ist, kann zweimal
@@ -643,7 +629,6 @@ mindestens mit der Note "ausreichend" bewertet worden sind und er sich
 innerhalb von zwei Jahren, gerechnet vom Tage der Beendigung der nicht
 bestandenen Prüfung an, zur Wiederholungsprüfung anmeldet.
 
-
 ## § 10 Übergangsvorschriften
 
 (1) Die bis zum 30. Dezember 2000 begonnenen Prüfungsverfahren können
@@ -655,11 +640,9 @@ von zwei Jahren ab dem 31. Dezember 2000 zu einer Wiederholungsprüfung
 anmelden, können die Wiederholungsprüfung nach den am 30. Dezember
 2000 geltenden Vorschriften ablegen.
 
-
 ## § 13 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Schlußformel
 

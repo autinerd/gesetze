@@ -20,7 +20,6 @@ Stand: G ersetzt G 2121-6-26 v. 7.10.1994 I 2835 (GÜG) mWv 19.3.2008
 
 ## Abschnitt 1 - Allgemeine Vorschriften
 
-
 ### § 1 Begriffsbestimmungen
 
 Im Sinne dieses Gesetzes ist
@@ -72,10 +71,6 @@ Im Sinne dieses Gesetzes ist
     (EG) Nr. 273/2004 oder in Artikel 2 Buchstabe f der Verordnung (EG)
     Nr. 111/2005 bezeichnete natürliche oder juristische Person.
 
-
-
-
-
 ### § 2 Anwendung der Verordnungen (EG) Nr. 111/2005 und Nr. 1277/2005
 
 Soweit die Verordnung (EG) Nr. 111/2005 und die Verordnung (EG) Nr.
@@ -90,7 +85,6 @@ Bezug nehmen, sind sie auch auf den nicht zum Zollgebiet der
 Gemeinschaft gehörenden Teil des Hoheitsgebietes der Bundesrepublik
 Deutschland anzuwenden.
 
-
 ### § 3 Verbote
 
 Es ist verboten, einen Grundstoff, der zur unerlaubten Herstellung von
@@ -101,7 +95,6 @@ befördern, zu veräußern, abzugeben oder in sonstiger Weise einem
 anderen die Möglichkeit zu eröffnen, die tatsächliche Verfügung über
 ihn zu erlangen, zu erwerben oder sich in sonstiger Weise zu
 verschaffen.
-
 
 ### § 4 Allgemeine Vorkehrungen gegen Abzweigung
 
@@ -129,9 +122,7 @@ nach § 19 schließen lassen, kann wegen dieser Mitteilung nicht
 verantwortlich gemacht werden, es sei denn, die Mitteilung ist
 vorsätzlich oder grob fahrlässig unrichtig erstattet worden.
 
-
 ## Abschnitt 2 - Zuständigkeit und Zusammenarbeit der Behörden
-
 
 ### § 5 Zuständige Behörden
 
@@ -182,7 +173,6 @@ Entgegennahme von Informationen zu strafrechtlichen und anderen
 Ermittlungen ist die Gemeinsame Grundstoffüberwachungsstelle nach § 6
 zuständig.
 
-
 ### § 6 Gemeinsame Grundstoffüberwachungsstelle des Zollkriminalamtes und des Bundeskriminalamtes beim Bundeskriminalamt
 
 (1) Die Gemeinsame Grundstoffüberwachungsstelle des Zollkriminalamtes
@@ -230,7 +220,6 @@ Gesetz erforderlich ist.
 den Mitteilungen nach Absatz 2 enthaltenen personenbezogenen Daten nur
 zu den in § 4 Abs. 2 Satz 3 genannten Zwecken verwenden.
 
-
 ### § 7 Mitwirkung der Bundespolizei
 
 Das Bundesministerium der Finanzen kann im Einvernehmen mit dem
@@ -240,7 +229,6 @@ sind, mit der Wahrnehmung von Aufgaben betrauen, die nach § 5 Abs. 2
 den Zollbehörden obliegen. In diesem Fall gilt § 67 Abs. 2 des
 Bundespolizeigesetzes entsprechend.
 
-
 ### § 8 Befugnisse der Zollbehörden
 
 Bei Straftaten und Ordnungswidrigkeiten nach den §§ 19 und 20 kann die
@@ -249,7 +237,6 @@ Strafprozessordnung, § 46 Abs. 1 des Gesetzes über
 Ordnungswidrigkeiten) auch durch die Hauptzollämter oder die Behörden
 des Zollfahndungsdienstes und deren Beamte vornehmen lassen. § 37 Abs.
 2 bis 4 des Außenwirtschaftsgesetzes gilt entsprechend.
-
 
 ### § 9 Daten beim Bundesinstitut für Arzneimittel und Medizinprodukte
 
@@ -276,10 +263,6 @@ Meldungen nach den Artikeln 17 und 18 der Verordnung (EG) Nr.
 3.  die zuständige Zollbehörde zur Erfüllung ihrer Aufgaben nach § 5 Abs.
     2 und zur Verhinderung und Verfolgung von Straftaten und
     Ordnungswidrigkeiten.
-
-
-
-
 
 ### § 10 Automatisierter Datenabruf
 
@@ -309,7 +292,6 @@ der für den Abruf verantwortlichen Person ermöglichen. Die
 Protokolldaten dürfen ohne Einwilligung des Betroffenen nur für die
 Kontrolle der Zulässigkeit der Abrufe verwendet werden und sind nach
 sechs Monaten zu löschen.
-
 
 ### § 11 Gegenseitige Unterrichtung
 
@@ -365,7 +347,6 @@ zu dem Zweck verwenden, für den sie übermittelt worden sind. Eine
 Verwendung für andere Zwecke ist zulässig, soweit die Daten auch für
 diese Zwecke hätten übermittelt werden dürfen.
 
-
 ### § 12 Berichterstattung
 
 (1) Die Gemeinsame Grundstoffüberwachungsstelle berichtet dem
@@ -392,9 +373,7 @@ Arzneimittel und Medizinprodukte.
 vorgeschriebene Berichterstattung obliegt der Gemeinsamen
 Grundstoffüberwachungsstelle.
 
-
 ## Abschnitt 3 - Verkehr mit Grundstoffen
-
 
 ### § 13 Versagung der Erlaubnis nach Artikel 6 Abs. 1 der Verordnung (EG) Nr. 111/2005
 
@@ -402,14 +381,12 @@ Für die Versagung der Erlaubnis nach Artikel 6 Abs. 1 der Verordnung
 (EG) Nr. 111/2005 gilt Artikel 3 Abs. 4 Satz 2 der Verordnung (EG) Nr.
 273/2004 entsprechend.
 
-
 ### § 14 Registrierung
 
 Das Bundesinstitut für Arzneimittel und Medizinprodukte bestätigt dem
 Anzeigenden innerhalb eines Monats die Registrierung nach Artikel 3
 Abs. 6 der Verordnung (EG) Nr. 273/2004 oder Artikel 7 Abs. 1 der
 Verordnung (EG) Nr. 111/2005.
-
 
 ### § 15 Gebühren und Auslagen
 
@@ -428,9 +405,7 @@ vorzusehen. Das Verwaltungskostengesetz ist nach Maßgabe von Artikel 3
 Abs. 7 der Verordnung (EG) Nr. 273/2004 und Artikel 26 Abs. 5 der
 Verordnung (EG) Nr. 111/2005 anzuwenden.
 
-
 ## Abschnitt 4 - Überwachung
-
 
 ### § 16 Überwachungsmaßnahmen
 
@@ -526,7 +501,6 @@ Grundstoffüberwachungsstelle übermitteln, soweit aus ihrer Sicht die
 Kenntnis der Informationen für die in § 4 Abs. 2 Satz 3 genannten
 Zwecke erforderlich ist.
 
-
 ### § 17 Probenahmen
 
 (1) Soweit es zur Durchführung dieses Gesetzes, der Verordnung (EG)
@@ -544,7 +518,6 @@ zurückzulassen.
 versiegeln. Sie sind mit dem Datum der Probenahme und dem Datum des
 Tages zu versehen, nach dessen Ablauf der Verschluss oder die
 Versiegelung als aufgehoben gelten.
-
 
 ### § 18 Duldungs- und Mitwirkungspflichten
 
@@ -564,9 +537,7 @@ dem Gesetz über Ordnungswidrigkeiten aussetzen würde. Der zur Auskunft
 Verpflichtete ist vor der Auskunft über sein Recht zur
 Auskunftsverweigerung zu belehren.
 
-
 ## Abschnitt 5 - Straf- und Bußgeldvorschriften
-
 
 ### § 19 Strafvorschriften
 
@@ -627,7 +598,6 @@ die Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
 (5) Soweit auf die Verordnung (EG) Nr. 273/2004 oder die Verordnung
 (EG) Nr. 111/2005 Bezug genommen wird, ist jeweils die am 18. August
 2005 geltende Fassung maßgeblich.
-
 
 ### § 20 Bußgeldvorschriften
 
@@ -767,7 +737,6 @@ Medizinprodukte.
 Nr. 111/2005 oder die Verordnung (EG) Nr. 1277/2005 Bezug genommen
 wird, ist jeweils die am 18. August 2005 geltende Fassung maßgeblich.
 
-
 ### § 21 Einziehung
 
 Gegenstände, auf die sich eine Straftat nach § 19 oder eine
@@ -775,9 +744,7 @@ Ordnungswidrigkeit nach § 20 bezieht, können eingezogen werden. § 74a
 des Strafgesetzbuchs und § 23 des Gesetzes über Ordnungswidrigkeiten
 sind anzuwenden.
 
-
 ## Abschnitt 6 - Schlussbestimmungen
-
 
 ### § 22 Bundeswehr
 

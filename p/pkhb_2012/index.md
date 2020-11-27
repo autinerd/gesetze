@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 2796
 
-
 ## (XXXX)
 
 Auf Grund des § 115 Absatz 1 Satz 5 der Zivilprozessordnung in der
@@ -52,13 +51,6 @@ Einkommen der Partei abzusetzen sind, betragen
 
 
     d)  Kinder bis zur Vollendung des sechsten Lebensjahres 241 Euro.
-
-
-
-
-
-
-
 
 ## Schlussformel
 

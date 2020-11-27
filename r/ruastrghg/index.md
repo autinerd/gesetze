@@ -19,12 +19,10 @@ Fundstelle
 Geändert durch
 :   Art. 8 G v. 21.6.2002 I 2144
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## § 1 Pflicht zur Zusammenarbeit
 
@@ -45,7 +43,6 @@ verantwortlich sind, welche in demselben Zeitraum im Hoheitsgebiet von
 Nachbarstaaten begangen wurden, einschließlich seiner Kammern, seiner
 Anklagebehörde und der Angehörigen des Gerichts und der
 Anklagebehörde.
-
 
 ## § 2 Verhältnis zu nationalen Strafverfahren
 
@@ -90,7 +87,6 @@ Betroffenen durch Beschluß. Die Sätze 1 bis 3 gelten sinngemäß für die
 nach dem Gesetz über die Entschädigung für Strafverfolgungsmaßnahmen
 zu treffenden Entscheidungen.
 
-
 ## § 3 Überstellung und Durchbeförderung
 
 (1) Auf Ersuchen des Gerichtshofes werden Personen, die sich im
@@ -116,7 +112,6 @@ gehalten.
 (4) Für das Verfahren gelten § 43 Abs. 3 Nr. 2 Satz 2, §§ 44, 45 Abs.
 2 bis 7, § 47 Abs. 1 bis 5, 7 bis 8 des Gesetzes über die
 internationale Rechtshilfe in Strafsachen entsprechend.
-
 
 ## § 4 Sonstige Rechtshilfe
 
@@ -157,7 +152,6 @@ und Durchführung von Zwangsmaßnahmen bleibt auch in diesem Falle den
 zuständigen deutschen Behörden vorbehalten und richtet sich nach
 deutschem Recht.
 
-
 ## § 5 Rechtshilfe durch Vollstreckung
 
 (1) Rechtshilfe kann durch Vollstreckung einer rechtskräftigen, vom
@@ -170,7 +164,6 @@ verhängten Freiheitsstrafe finden die §§ 41, 42, 46 Abs. 1 des IStGH-
 Gesetzes mit der Maßgabe entsprechende Anwendung, dass zeitige
 Freiheitsstrafe bis zu einer Höchstdauer von 30 Jahren vollstreckt
 wird.
-
 
 ## § 6 Vorrechte und Immunitäten
 
@@ -190,7 +183,6 @@ Abschnitt 22 des Übereinkommens vom 13. Februar 1946 über die
 Vorrechte und Immunitäten der Vereinten Nationen (BGBl. 1980 II S.
 941) entsprechende Anwendung, soweit dies für die reibungslose
 Wahrnehmung der Aufgaben des Gerichtshofes erforderlich ist.
-
 
 ## § 7 Inkrafttreten
 

@@ -19,8 +19,6 @@ Fundstelle
 V aufgeh. durch
 :   § 10 Satz 2 V 806-22-6-35 v. 9.2.2012 I 268 mWv 1.7.2012
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August
@@ -32,7 +30,6 @@ Oktober 1998 (BGBl. I S. 3288) verordnet das Bundesministerium für
 Bildung und Forschung nach Anhörung des Ständigen Ausschusses des
 Bundesinstituts für Berufsbildung im Einvernehmen mit dem
 Bundesministerium für Wirtschaft und Technologie:
-
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
 
@@ -56,7 +53,6 @@ seinem/ihrem speziellen Funktionsbereich wahrzunehmen.
 Geprüfter Fachkaufmann für Büromanagement/Geprüfte Fachkauffrau für
 Büromanagement.
 
-
 ## § 2 Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer
@@ -79,7 +75,6 @@ Fachkauffrau für Büromanagement gemäß § 1 Abs. 2 haben.
 wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft
 macht, dass er/sie Kenntnisse, Fertigkeiten und Erfahrungen erworben
 hat, die die Zulassung zur Prüfung rechtfertigen.
-
 
 ## § 3 Gliederung und Durchführung der Prüfung
 
@@ -115,7 +110,6 @@ hat, die die Zulassung zur Prüfung rechtfertigen.
 ist mit der Prüfung des situationsbezogenen Fachgesprächs, das die
 gesamte Prüfung abschließt, spätestens ein Jahr nach dem ersten
 Prüfungstag im ersten Prüfungsbereich zu beginnen.
-
 
 ## § 4 Anforderungen und Inhalte der Prüfung
 
@@ -286,7 +280,6 @@ dauern. Die Bewertung der schriftlichen Prüfungsleistung und die der
 Ergänzungsprüfung werden zu einer Note zusammengefasst. Dabei wird die
 schriftliche Prüfungsleistung doppelt gewichtet.
 
-
 ## § 5 Anrechnung anderer Prüfungsleistungen
 
 Von der Prüfung in den einzelnen Prüfungsbereichen gemäß § 3 Nr. 1 bis
@@ -299,7 +292,6 @@ deren Inhalt den Anforderungen dieser Prüfungsbereiche entspricht.
 Eine Freistellung vom situationsbezogenen Fachgespräch ist nicht
 möglich.
 
-
 ## § 6 Bestehen der Prüfung
 
 (1) Die Prüfungsleistungen sind einzeln zu bewerten. Die Prüfung ist
@@ -311,7 +303,6 @@ hat.
 und ein Zeugnis gemäß der Anlage 2 auszustellen. Im Fall der
 Freistellung gemäß § 5 sind Ort und Datum sowie die Bezeichnung des
 Prüfungsgremiums der anderweitig abgelegten Prüfung anzugeben.
-
 
 ## § 7 Wiederholung der Prüfung
 
@@ -328,7 +319,6 @@ zur Wiederholungsprüfung angemeldet hat. Der Prüfungsteilnehmer/die
 Prüfungsteilnehmerin kann beantragen, auch bestandene Prüfungsbereiche
 zu wiederholen. In diesem Fall gilt das Ergebnis der letzten Prüfung.
 
-
 ## § 8 Übergangsvorschriften
 
 (1) Die bei Inkrafttreten dieser Verordnung laufenden
@@ -340,13 +330,11 @@ Prüfungsteilnehmerin die Wiederholungsprüfung auch gemäß dieser
 Verordnung durchführen; § 7 Abs. 2 findet in diesem Fall keine
 Anwendung.
 
-
 ## § 9 Inkrafttreten/Außerkrafttreten
 
 (1) Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 (2)
-
 
 ## Anlage 1 (zu § 6 Abs. 2)
 
@@ -377,7 +365,6 @@ bestanden.
 Datum ..........................................
 Unterschrift(en) ...............................
 (Siegel der zuständigen Stelle)
-
 
 ## Anlage 2 (zu § 6 Abs. 2)
 

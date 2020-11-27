@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 15 Abs. 109 G v. 5.2.2009 I 160
 
-
 ## § 1 Überleitungsmaßnahmen für die Bediensteten
 
 (1) Die Bediensteten des Bundesministeriums für Post und
@@ -34,7 +33,6 @@ Behörde versetzt oder ihr Beamtenverhältnis endet mit Ablauf des 31.
 Dezember 1997. Für Arbeitnehmer des Bundesamtes für Post und
 Telekommunikation gilt diese Regelung entsprechend.
 
-
 ## § 2 Stellenplan und Ämterbewertung
 
 Im Stellenplan der Bundesnetzagentur für Elektrizität, Gas,
@@ -48,7 +46,6 @@ Bonn - zunächst der Stellenschlüssel für oberste Bundesbehörden
 zugrunde gelegt werden und § 26 Abs. 6 des Bundesbesoldungsgesetzes
 mit der Maßgabe entsprechend angewendet werden, daß die Umwandlung
 dieser Planstellen für einen Zeitraum von fünf Jahren ausgesetzt wird.
-
 
 ## § 3 Soziales
 
@@ -68,7 +65,6 @@ Versorgungsanstalt der Deutschen Bundespost versichert sind, werden
 zum Zeitpunkt des Inkrafttretens dieses Gesetzes von der
 Versorgungsanstalt des Bundes und der Länder entsprechend deren
 Satzungen übernommen.
-
 
 ## § 4 Personalvertretung
 
@@ -96,7 +92,6 @@ zur Wahl des Vorstandes bestellt hat.
 (3) Die Wahlvorstände für die erstmaligen Wahlen nach Absatz 1 werden
 vom Übergangspersonalrat bestellt.
 
-
 ## § 5 Schwerbehindertenvertretung
 
 (1) Die erstmaligen Wahlen zu der Schwerbehindertenvertretung in der
@@ -119,7 +114,6 @@ Tagesordnung die Mitglieder nach Satz 2 zur ersten Sitzung ein.
 (3) Die Wahlvorstände für die erstmaligen Wahlen nach Absatz 1 werden
 von der Übergangsschwerbehindertenvertretung bestellt.
 
-
 ## § 6 Frauenbeauftragte
 
 (1) Die Frauenbeauftragte ist frühestens nach Ablauf des dritten
@@ -131,7 +125,6 @@ Frauenfördergesetzes zu bestellen.
 (2) Die Aufgaben der Frauenbeauftragten nimmt bis zur Neubestellung
 die bisherige Frauenbeauftragte des Bundesministeriums für Post und
 Telekommunikation wahr.
-
 
 ## § 7 Besoldungs- und tarifrechtliche Sonderregelungen
 
@@ -161,11 +154,9 @@ Inkrafttreten dieses Gesetzes eine Zulage nach den tarifvertraglichen
 Regelungen über Zulagen an Angestellte und Arbeiter bei obersten
 Bundes- und Landesbehörden erhalten.
 
-
 ## § 8
 
 (weggefallen)
-
 
 ## § 9
 

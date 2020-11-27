@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 2882
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August
@@ -29,7 +27,6 @@ Oktober 1998 (BGBl. I S. 3288) verordnet das Bundesministerium für
 Bildung und Forschung nach Anhörung des Ständigen Ausschusses des
 Bundesinstituts für Berufsbildung im Einvernehmen mit dem
 Bundesministerium für Wirtschaft und Technologie:
-
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
 
@@ -64,7 +61,6 @@ Aufgaben wahrzunehmen:
 (3) Die erfolgreich abgelegte Prüfung führt zum anerkannten Abschluss
 Geprüfter Fachberater im Vertrieb/ Geprüfte Fachberaterin im Vertrieb.
 
-
 ## § 2 Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer
@@ -97,7 +93,6 @@ zu den in § 1 Abs. 2 genannten Aufgaben haben.
 wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft
 macht, dass er/sie Kenntnisse, Fertigkeiten und Erfahrungen erworben
 hat, die die Zulassung zur Prüfung rechtfertigen.
-
 
 ## § 3 Gliederung und Durchführung der Prüfung
 
@@ -146,7 +141,6 @@ einschließlich Visualisierungstechniken handeln. Der
 Prüfungsteilnehmer/die Prüfungsteilnehmerin hat Anspruch auf höchstens
 30 Minuten Vorbereitungszeit. Die Prüfungszeit beträgt höchstens
 30Minuten.
-
 
 ## § 4 Anforderungen und Inhalte der Prüfung
 
@@ -278,10 +272,6 @@ folgende Qualifikationsschwerpunkte geprüft werden:
 
 5.  Kundenreklamationen aufnehmen und bearbeiten.
 
-
-
-
-
 ## § 5 Anrechnung anderer Prüfungsleistungen
 
 Der Prüfungsteilnehmer/die Prüfungsteilnehmerin kann auf Antrag von
@@ -292,7 +282,6 @@ Bildungseinrichtung oder vor einem staatlichen Prüfungsausschuss eine
 Prüfung mit Erfolg abgelegt hat, die den Anforderungen der
 entsprechenden Prüfungsinhalte nach dieser Verordnung entspricht. Eine
 Freistellung vom situationsbezogenen Fachgespräch ist nicht zulässig.
-
 
 ## § 6 Bestehen der Prüfung
 
@@ -306,7 +295,6 @@ mindestens ausreichende Leistungen erbracht wurden.
 und ein Zeugnis gemäß der Anlage 2 auszustellen. Im Fall der
 Freistellung gemäß § 5 sind Ort und Datum der anderweitig abgelegten
 Prüfung sowie die Bezeichnung des Prüfungsgremiums anzugeben.
-
 
 ## § 7 Wiederholung der Prüfung
 
@@ -324,7 +312,6 @@ Prüfungsteilnehmerin kann beantragen, auch bestandene
 Prüfungsleistungen zu wiederholen. In diesem Fall gilt das Ergebnis
 der letzten Prüfung.
 
-
 ## § 8 Übergangsvorschriften
 
 (1) Die bei Inkrafttreten dieser Verordnung laufenden
@@ -336,11 +323,9 @@ Prüfungsteilnehmerin die Wiederholungsprüfung auch gemäß dieser
 Verordnung durchführen; § 7 Abs. 2 findet in diesem Fall keine
 Anwendung.
 
-
 ## § 9 Inkrafttreten
 
 (1) Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Anlage 1 (zu § 6 Abs. 3)
 
@@ -369,7 +354,6 @@ bestanden.
 Datum ..................................
 Unterschrift(en) .......................
 (Siegel der zuständigen Stelle)
-
 
 ## Anlage 2 (zu § 6 Abs. 3)
 

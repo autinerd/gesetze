@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 Abs. 2 V v. 12.2.2009 I 320
 
-
 ## Eingangsformel
 
 Auf Grund des § 3 Abs. 2 Satz 2 des Bundespolizeibeamtengesetzes vom
@@ -27,10 +26,7 @@ Auf Grund des § 3 Abs. 2 Satz 2 des Bundespolizeibeamtengesetzes vom
 vom 29. Juni 1998 (BGBl. I S. 1666) neu gefasst worden ist, verordnet
 das Bundesministerium des Innern:
 
-
 ## Kapitel 1 - Allgemeine Vorschriften
-
-
 
 ### § 1 Geltungsbereich
 
@@ -43,7 +39,6 @@ Polizeivollzugsbeamte, die zum Ausbildungsaufstieg vom mittleren in
 den gehobenen Polizeivollzugsdienst der Bundespolizei nach § 29 Abs. 1
 Satz 1 der Bundespolizei-Laufbahnverordnung zugelassen worden sind. §
 2a findet keine Anwendung.
-
 
 ### § 2 Ziel des Vorbereitungsdienstes
 
@@ -67,16 +62,12 @@ wirtschaftlichen Handeln sowie soziale Kompetenz sind zu fördern.
 weiterzubilden. Sie sind zum Selbststudium verpflichtet; das
 Selbststudium ist zu fördern.
 
-
 ## Kapitel 2 - Ausbildung
-
-
 
 ### § 2a Einstellungsbehörde
 
 Die Bundespolizeiakademie ist zuständig für die Einstellung der
 Anwärterinnen und Anwärter.
-
 
 ### § 3 Dauer des Vorbereitungsdienstes
 
@@ -117,7 +108,6 @@ Zeitpunkt eingestellt worden sind, abgelegt werden kann.
 
 (5) Bei Nichtbestehen der Laufbahnprüfung richtet sich die
 Verlängerung des Vorbereitungsdienstes nach § 31 Abs. 2.
-
 
 ### § 4 Gliederung des Vorbereitungsdienstes
 
@@ -228,7 +218,6 @@ praxisbezogenen Lehrveranstaltungen durchgeführt.
 
 (4) Das Grundstudium schließt mit der Zwischenprüfung ab.
 
-
 ### § 5 Fachhochschule des Bundes für öffentliche Verwaltung
 
 Die Fachstudien werden an der Fachhochschule des Bundes für
@@ -236,7 +225,6 @@ Die Fachstudien werden an der Fachhochschule des Bundes für
 Einstellungsbehörde weist die Anwärterinnen und Anwärter zum
 Grundstudium der Fachhochschule und zum Hauptstudium dem Fachbereich
 Bundespolizei der Fachhochschule zu.
-
 
 ### § 6 Grundsätze der Fachstudien
 
@@ -255,7 +243,6 @@ Lernziele der Studienfächer, die ihnen und ihren Intensitätsstufen
 entsprechenden Lerninhalte, die Stundenzahlen und die Art der
 Leistungsnachweise. Auf der Grundlage des Studienplans werden
 Lehrveranstaltungspläne erstellt.
-
 
 ### § 7 Grundstudium
 
@@ -295,10 +282,6 @@ Aufgabenbereichen des gehobenen Polizeivollzugsdienstes:
 
 6.  laufbahntypische Bereiche der Aufgabenerfüllung.
 
-
-
-
-
 ### § 8 Hauptstudium
 
 (1) Das Hauptstudium vermittelt den Anwärterinnen und Anwärtern
@@ -328,7 +311,6 @@ Fähigkeiten in den Studiengebieten
 
 ergänzt, erweitert und vertieft. Näheres regelt der Studienplan.
 
-
 ### § 9 Ziel der Praktika
 
 Während der Praktika erwerben die Anwärterinnen und Anwärter
@@ -336,7 +318,6 @@ berufliche Kenntnisse und Erfahrungen als Grundlage für die
 Fachstudien, vertiefen die in den Fachstudien erworbenen
 wissenschaftlichen Kenntnisse und lernen, sie in der Praxis
 anzuwenden.
-
 
 ### § 10 Einsatzpraktika
 
@@ -360,7 +341,6 @@ der Praxis anzuwenden.
 
 (2) Tätigkeiten, die nicht dem Ziel der Ausbildung entsprechen, dürfen
 den Anwärterinnen und Anwärtern nicht übertragen werden.
-
 
 ### § 11 Praxisbezogene Lehrveranstaltungen
 
@@ -399,10 +379,6 @@ insbesondere
 
 9.  Berufsethik.
 
-
-
-
-
 ### § 12 Organisation und Durchführung der Praktika
 
 (1) Die Bundespolizeiakademie organisiert in Abstimmung mit den
@@ -429,7 +405,6 @@ Tätigkeitsfeldern der Bundespolizei vorgesehen sind, können während
 eines Praktikumsabschnitts entsprechend fachbezogen ausgebildet
 werden. Dazu dürfen Teile der Praktika auch außerhalb des öffentlichen
 Dienstes oder im Ausland durchgeführt werden.
-
 
 ### § 13 Zuständigkeiten während der Praktika
 
@@ -463,7 +438,6 @@ Soweit erforderlich, werden sie von anderen Dienstgeschäften
 entlastet. Für die Anleitung in Führungsfunktionen sind Beamtinnen und
 Beamte des gehobenen Polizeivollzugsdienstes mit voller
 Ämterreichweite als Ausbilderinnen und Ausbilder vorzusehen.
-
 
 ### § 14 Leistungsnachweise während der Fachstudien
 
@@ -534,7 +508,6 @@ Ordnungsverstößen sind die §§ 25 und 26 entsprechend anzuwenden. Über
 die Folgen entscheidet die Stelle, die die Aufgabe des
 Leistungsnachweises bestimmt hat.
 
-
 ### § 15 Bewertungen während der Praktika
 
 (1) Über die Leistungen und den Befähigungsstand der Anwärterinnen und
@@ -558,10 +531,7 @@ nach den Absätzen 1 und 2 aufführt. Die Durchschnittsrangpunktzahl
 ergibt sich aus dem Mittel der Bewertungen für die Praktika I bis IV.
 Die Anwärterinnen und Anwärter erhalten eine Ausfertigung.
 
-
 ## Kapitel 3 - Prüfungen
-
-
 
 ### § 16 Zwischenprüfung
 
@@ -626,7 +596,6 @@ Rechtsbehelfsbelehrung versehen.
 
 (9) § 30 Abs. 2 gilt entsprechend.
 
-
 ### § 17 Prüfungsamt
 
 Dem bei der Bundespolizeiakademie des Innern eingerichteten
@@ -634,7 +603,6 @@ Prüfungsamt obliegt die Durchführung der Laufbahnprüfung; es trägt
 Sorge für die Entwicklung und gleichmäßige Anwendung der
 Bewertungsmaßstäbe und vollzieht die Entscheidungen der
 Prüfungskommission.
-
 
 ### § 18 Prüfungskommission
 
@@ -691,7 +659,6 @@ entscheidet mit Stimmenmehrheit. Bei Stimmengleichheit gibt die Stimme
 der oder des Vorsitzenden den Ausschlag. Stimmenthaltung ist nicht
 zulässig.
 
-
 ### § 19 Laufbahnprüfung
 
 (1) In der Laufbahnprüfung ist festzustellen, ob die Anwärterinnen und
@@ -723,7 +690,6 @@ den Beratungen der Prüfungskommission dürfen nur deren Mitglieder
 anwesend sein. Die Protokollführerin oder der Protokollführer darf
 anwesend sein.
 
-
 ### § 20 Prüfungsort, Prüfungstermin
 
 (1) Das Prüfungsamt setzt den Zeitpunkt der Ausgabe der Diplomarbeit
@@ -737,7 +703,6 @@ Wochen vor Beginn der mündlichen Prüfung abgeschlossen sein.
 Zeitpunkt der Ausgabe der Diplomarbeit sowie Ort und Zeit der
 schriftlichen und der mündlichen Prüfung mindestens sechs Wochen
 vorher mit.
-
 
 ### § 21 Diplomarbeit
 
@@ -788,7 +753,6 @@ Durchschnitt gebildet; bei größeren Abweichungen bestimmt das
 Prüfungsamt eine Drittprüferin oder einen Drittprüfer. Die
 abschließende Rangpunktzahl setzt das Prüfungsamt durch Bildung der
 Durchschnittsrangpunktzahl der drei Bewertungen fest.
-
 
 ### § 22 Schriftliche Prüfung
 
@@ -851,7 +815,6 @@ Niederschrift.
 Aufsichtsarbeit und wird nicht nach § 25 verfahren, gilt die versäumte
 Zeit als Bearbeitungszeit.
 
-
 ### § 23 Zulassung zur mündlichen Prüfung
 
 (1) Das Prüfungsamt lässt Anwärterinnen und Anwärter zur mündlichen
@@ -866,7 +829,6 @@ von ihnen in der Diplomarbeit und in den einzelnen schriftlichen
 Aufsichtsarbeiten erzielten Rangpunkte mit, wenn sie dies beantragen.
 Die Nichtzulassung bedarf der Schriftform; sie wird mit einer
 Rechtsbehelfsbelehrung versehen.
-
 
 ### § 24 Mündliche Prüfung
 
@@ -898,7 +860,6 @@ Rangpunkte, geteilt durch die Anzahl der Einzelbewertungen, ergibt.
 
 (6) Über den Ablauf der Prüfung wird eine Niederschrift gefertigt, die
 die Mitglieder der Prüfungskommission unterschreiben.
-
 
 ### § 25 Verhinderung, Rücktritt, Säumnis
 
@@ -933,7 +894,6 @@ Prüfungsamt, ob die nicht erbrachte Prüfungsleistung nachgeholt werden
 kann, mit "ungenügend" (Rangpunkt 0) bewertet oder die gesamte Prüfung
 für nicht bestanden erklärt wird. Die Entscheidung ist mit einer
 Rechtsbehelfsbelehrung zu versehen.
-
 
 ### § 26 Täuschung, Ordnungsverstoß
 
@@ -970,7 +930,6 @@ einer Rechtsbehelfsbelehrung zu versehen.
 
 (4) Betroffene sind vor der Entscheidung nach den Absätzen 2 und 3 zu
 hören.
-
 
 ### § 27 Bewertung von Prüfungsleistungen
 
@@ -1167,7 +1126,6 @@ aus wird die Erteilung des der Leistung entsprechenden Rangpunktes
 begründet. Für die Bewertung mündlicher Leistungen gelten diese
 Grundsätze sinngemäß.
 
-
 ### § 28 Gesamtergebnis
 
 (1) Im Anschluss an die mündliche Prüfung setzt die Prüfungskommission
@@ -1214,7 +1172,6 @@ der Vorsitzende den Prüfungsteilnehmerinnen und Prüfungsteilnehmern
 die erreichten Rangpunkte mit und erläutert das Prüfungsergebnis auf
 Wunsch kurz mündlich.
 
-
 ### § 29 Zeugnis
 
 (1) Das Prüfungsamt erteilt den Anwärterinnen und Anwärtern, die die
@@ -1237,7 +1194,6 @@ Mitteilung der Prüfungsergebnisse werden durch das Prüfungsamt
 berichtigt. Unrichtige Prüfungszeugnisse sind zurückzugeben. In den
 Fällen des § 26 Abs. 3 Satz 1 ist das Prüfungszeugnis zurückzugeben.
 
-
 ### § 30 Prüfungsakten, Einsichtnahme
 
 (1) Jeweils eine Ausfertigung der Zeugnisse über die Zwischenprüfung,
@@ -1251,7 +1207,6 @@ mindestens fünf Jahre aufbewahrt.
 (2) Die Anwärterinnen und Anwärter können nach Abschluss der
 Laufbahnprüfung Einsicht in die sie betreffenden Teile der
 Prüfungsakten nehmen.
-
 
 ### § 31 Wiederholung
 
@@ -1275,7 +1230,6 @@ erreichten Rangpunkte und Noten ersetzen die bisherigen. Der
 Vorbereitungsdienst wird bis zum Ablauf der Wiederholungsfrist
 verlängert.
 
-
 ### § 32 Zuerkennung der Befähigung für eine Laufbahn des mittleren Polizeivollzugsdienstes
 
 (1) Hat eine Anwärterin oder ein Anwärter die Laufbahnprüfung nach
@@ -1289,10 +1243,7 @@ die nachgewiesenen Kenntnisse ausreichen.
 Laufbahnprüfung des mittleren Polizeivollzugsdienstes in der
 Bundespolizei gleich.
 
-
 ## Kapitel 4 - Sonstige Vorschriften
-
-
 
 ### § 33 Übergangsregelung
 
@@ -1303,7 +1254,6 @@ zum Ausbildungsaufstieg in den gehobenen Polizeivollzugsdienst
 zugelassen worden sind, gilt diese Verordnung mit der Maßgabe, dass
 abweichend von § 14 Abs. 3 sechs schriftliche Aufsichtsarbeiten zu
 fertigen sind.
-
 
 ### § 34 Inkrafttreten
 

@@ -19,15 +19,9 @@ Stand: Zuletzt geändert Art. 15 Abs. 33 G v. 5.2.2009 I 160
 
 ## Art I -
 
-
-
 ## Art II -
 
-
-
 ## Art III - Überleitungsvorschriften
-
-
 
 ## § 1
 
@@ -35,7 +29,6 @@ Mit Inkrafttreten dieses Gesetzes werden die Richter der
 Bundesdisziplinarkammern Richter des Bundesdisziplinargerichts und die
 Richter des Bundesdisziplinarhofs Richter des
 Bundesverwaltungsgerichts.
-
 
 ## § 2
 
@@ -47,7 +40,6 @@ bisherigen Vorschriften. Entsprechendes gilt, wenn während der in Satz
 1 genannten Amtszeit die Bestellung neuer Beamtenbeisitzer für den
 Rest der Amtszeit erforderlich wird.
 
-
 ## § 3
 
 Innerhalb von zehn Jahren nach Inkrafttreten dieses Gesetzes ist der
@@ -56,7 +48,6 @@ eines Richters von Disziplinarsenaten zu anderen Senaten, ausgenommen
 Wehrdienstsenaten, und umgekehrt nur wirksam, wenn ihm die Mehrheit
 der dem Präsidium angehörenden Mitglieder der beiden Senatsgruppen
 zugestimmt hat.
-
 
 ## § 4
 
@@ -76,7 +67,6 @@ die Frist gemäß § 57 Abs. 2 des Deutschen Richtergesetzes erst mit der
 Neubildung des Präsidialrats beim Bundesverwaltungsgericht, spätestens
 einen Monat nach Inkrafttreten dieses Gesetzes.
 
-
 ## § 5
 
 (1) Mit Inkrafttreten dieses Gesetzes gehen bei den
@@ -88,7 +78,6 @@ Gerichte über.
 oder einen Rechtsbehelf vor Inkrafttreten dieses Gesetzes begonnen
 hat, richtet sich die Frist nach den bisherigen Vorschriften.
 
-
 ## § 6
 
 Beamte, die vor Inkrafttreten dieses Gesetzes mit der Einstufung in
@@ -97,7 +86,6 @@ derselben Laufbahn mit geringerem Endgrundgehalt bestraft worden sind,
 gelten als am Ersten des Monats, in dem das Urteil rechtskräftig
 geworden ist, in die Dienstaltersstufe zurückgetreten, in die sie
 zurückgestuft worden sind.
-
 
 ## § 7
 
@@ -142,7 +130,6 @@ Hinterbliebenen ist Absatz 1 mit der Maßgabe anzuwenden, daß ein
 Unterhaltsbeitrag auch zu bewilligen ist, wenn dem Verurteilten durch
 Urteil oder Beschluß ein Unterhaltsbeitrag nicht bewilligt worden war.
 
-
 ## § 8
 
 Die gegen einen Beamten verhängte Disziplinarmaßnahme der Einstufung
@@ -153,10 +140,7 @@ tilgen, die für die Tilgung einer Gehaltskürzung gelten. Die Tilgung
 erstreckt sich nicht auf die Vorgänge, die der Festsetzung und dem
 Nachweis der Dienstbezüge dienen.
 
-
 ## Art IV -
-
-
 
 ## Art V - Sonderregelung für Berlin
 
@@ -167,7 +151,6 @@ Wehrdienstsenate, Truppendienstgerichte, Richter eines
 Wehrdienstsenats, Richter der Truppendienstgerichte, Berufssoldaten
 oder Soldaten auf Zeit beziehen.
 
-
 ## Art VI - Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
@@ -175,7 +158,6 @@ Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes
 erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 Überleitungsgesetzes.
-
 
 ## Art VII - Inkrafttreten
 

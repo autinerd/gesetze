@@ -19,15 +19,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 7 G v. 15.3.2012 I 462
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 29 Abs. 9 und des § 72 Abs. 2 Nr. 3 des
 Soldatengesetzes, die durch Artikel 5 Nr. 3 des Gesetzes vom 11. Juni
 1992 (BGBl. I S. 1030) eingefügt worden sind, verordnet das
 Bundesministerium der Verteidigung:
-
 
 ## § 1
 
@@ -36,7 +33,6 @@ Anlehnung an §§ 106 bis 114 des Bundesbeamtengesetzes Einzelheiten zum
 Personalaktenrecht der Soldaten. Sie gilt für die Personalakten der
 Bewerber für das Dienstverhältnis eines Berufssoldaten oder Soldaten
 auf Zeit, der Soldaten sowie der ehemaligen Soldaten.
-
 
 ## § 2
 
@@ -64,7 +60,6 @@ und nimmt dies in das Verzeichnis nach Absatz 3 auf.
 Soldatenversorgungsgesetz sind Sachakten, die nicht zu den
 Personalakten gehören.
 
-
 ## § 3
 
 Kindergeldakten können mit Besoldungs- und Versorgungsakten verbunden
@@ -73,7 +68,6 @@ und von einer von der personalbearbeitenden Stelle getrennten
 Organisationseinheit bearbeitet werden; § 35 des Ersten Buches
 Sozialgesetzbuch und die §§ 67 bis 78 des Zehnten Buches
 Sozialgesetzbuch bleiben unberührt.
-
 
 ## § 4
 
@@ -128,7 +122,6 @@ Stelle des Bundes übertragen werden. Dieser Stelle dürfen
 personenbezogene Daten, einschließlich Gesundheitsangaben, übermittelt
 werden, soweit deren Kenntnis für die Beihilfebearbeitung erforderlich
 ist. Die Absätze 4 und 5 finden für diese Stelle Anwendung.
-
 
 ## § 5
 
@@ -205,7 +198,6 @@ Bundesarchiv-Militärarchiv zur Übernahme anzubieten. Personalakten,
 die nicht archiviert werden, sind zu vernichten, sofern nicht nach
 anderen Bestimmungen eine längere Aufbewahrungsfrist vorgesehen ist.
 
-
 ## § 6
 
 Mitteilungen in Strafsachen, soweit sie nicht Bestandteil einer
@@ -218,7 +210,6 @@ als unbegründet oder als falsch heraus, gilt die Frist als nicht
 unterbrochen. Die Auskunft aus dem Bundeszentralregister über
 ehemalige Soldaten ist zu vernichten, wenn der damit beabsichtigte
 Zweck erfüllt ist.
-
 
 ## § 7
 
@@ -248,7 +239,6 @@ dokumentieren und einschließlich des jeweiligen Verwendungszwecks
 sowie der regelmäßigen Empfänger und des Inhalts automatisierter
 Datenübermittlung allgemein bekanntzugeben.
 
-
 ## § 8
 
 (1) Einsicht in die Personalakten wird grundsätzlich nur bei einer
@@ -271,7 +261,6 @@ gilt für Beihilfeakten mit der Maßgabe, daß auch die Einwilligung des
 bei der Beihilfegewährung berücksichtigten Angehörigen erforderlich
 ist.
 
-
 ## § 9
 
 Personenbezogene medizinische Daten, die im Rahmen der unentgeltlichen
@@ -280,7 +269,6 @@ oder von zivilen Ärzten erhoben werden, dürfen dem Truppenarzt und der
 Zahlung leistenden Stelle offenbart werden, soweit dies insbesondere
 zur Beurteilung der Verwendungs- oder Dienstfähigkeit des Soldaten
 oder zur Kostenabrechnung erforderlich ist.
-
 
 ## § 10
 

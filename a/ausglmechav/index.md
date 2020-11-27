@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 G v. 17.8.2012 I 1754
 
-
 ## Eingangsformel
 
 Auf Grund des § 64 Absatz 3 Nummer 7 des Erneuerbare-Energien-Gesetzes
@@ -30,7 +29,6 @@ die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post
 und Eisenbahnen im Einvernehmen mit dem Bundesministerium für Umwelt,
 Naturschutz und Reaktorsicherheit und dem Bundesministerium für
 Wirtschaft und Technologie:
-
 
 ## § 1 Vortägige und untertägige Vermarktung
 
@@ -55,7 +53,6 @@ nach dem Stand von Wissenschaft und Technik zu erstellen.
 Ausgleichsmechanismusverordnung schließt die Möglichkeit ein,
 Vermarktungstätigkeiten auf einen anderen Übertragungsnetzbetreiber im
 Rahmen eines Dienstleistungsverhältnisses zu übertragen.
-
 
 ## § 2 Transparenz der Vermarktungstätigkeiten
 
@@ -85,10 +82,6 @@ Format in nicht personenbezogener Form zu veröffentlichen:
 4.  die in Anspruch genommene Ausgleichsenergie zum Ausgleich des EEG-
     Bilanzkreises in viertelstündlicher Auflösung; sie ist unverzüglich
     nach Vorlage der Bilanzkreisabrechnung zu veröffentlichen.
-
-
-
-
 
 ## § 3 Transparenz der EEG-Umlage
 
@@ -180,7 +173,6 @@ gemeinsamen Internetseite in einheitlichem Format vorzunehmen. Eine
 Veröffentlichung zusammengefasster Werte mehrerer
 Übertragungsnetzbetreiber ist zulässig.
 
-
 ## § 4 Mitteilungspflichten
 
 (1) Die Pflicht zur Mitteilung der jeweils aufgeschlüsselten Einnahmen
@@ -209,7 +201,6 @@ bereitstellt, sind sie verpflichtet, die Daten in dieser Form zu
 übermitteln. Die Angaben müssen einen sachkundigen Dritten in die Lage
 versetzen, ohne weitere Informationen die Ermittlung vollständig
 nachzuvollziehen.
-
 
 ## § 5 Gesonderte Buchführung und Rechnungslegung sowie Führung gesonderter Bankkonten
 
@@ -244,7 +235,6 @@ Informationstechnologie und Zuführungen zu Pensionsrückstellungen.
 (3) Die Kontoauszüge und die Daten der gesonderten Buchführung und
 Rechnungslegung sind der Bundesnetzagentur auf Anforderung vorzulegen.
 § 4 Absatz 4 gilt entsprechend.
-
 
 ## § 6 Einnahmen und Ausgaben im Sinne der EEG-Umlage
 
@@ -345,7 +335,6 @@ soweit sie aufgrund der Ausgleichsmechanismusverordnung zusätzlich
 entstehen. Zusätzliche Einnahmen und Ausgaben im Sinne von Satz 2 sind
 gegenüber der Bundesnetzagentur nachzuweisen. § 4 Absatz 4 gilt
 entsprechend.
-
 
 ## § 7 Anreize zur bestmöglichen Vermarktung
 
@@ -494,7 +483,6 @@ nachweisen. § 4 Absatz 4 gilt entsprechend.
 verteilten Monatsraten. Sie beginnt zum Anfang des übernächsten Jahres
 bezogen auf das Anreizjahr.
 
-
 ## § 8 Preislimitierung in Ausnahmefällen
 
 (1) Der Übertragungsnetzbetreiber kann für diejenigen Stunden des
@@ -590,7 +578,6 @@ dann in die EEG-Umlage einkalkuliert werden, wenn die in den
 vorstehenden Absätzen enthaltenen Vorschriften oder die in
 Aufsichtsmaßnahmen der Bundesnetzagentur enthalten Maßgaben
 eingehalten wurden.
-
 
 ## § 9 Inkrafttreten, Außerkrafttreten
 

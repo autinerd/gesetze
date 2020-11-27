@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 3 V v. 17.11.2010 I 1544
 
-
 ## - - Zu § 5 Abs. 1 Nr. 3 des Gesetzes
-
-
 
 ### § 1 Allgemeines
 
@@ -48,10 +45,6 @@ erfüllen:
 3.  Außerdem müssen bei Kassen mit Rechtsanspruch der Leistungsempfänger
     die Voraussetzungen des § 2, bei Kassen ohne Rechtsanspruch der
     Leistungsempfänger die Voraussetzungen des § 3 erfüllt sein.
-
-
-
-
 
 ### § 2 Kassen mit Rechtsanspruch der Leistungsempfänger
 
@@ -129,10 +122,6 @@ Beträge nicht übersteigen:
 
     *   jährlich für jede Vollwaise.
 
-
-
-
-
 ### § 3 Kassen ohne Rechtsanspruch der Leistungsempfänger
 
 Rechtsfähige Unterstützungskassen, die den Leistungsempfängern keinen
@@ -152,13 +141,7 @@ erfüllen:
 3.  Die laufenden Leistungen und das Sterbegeld dürfen die in § 2
     bezeichneten Beträge nicht übersteigen.
 
-
-
-
-
 ## - - Zu § 5 Abs. 1 Nr. 4 des Gesetzes
-
-
 
 ### § 4 Kleinere Versicherungsvereine
 
@@ -186,21 +169,11 @@ zuletzt geändert durch das Gesetz vom 18. Dezember 1975 (BGBl. I S.
 2.  sich ihr Geschäftsbetrieb auf die Sterbegeldversicherung beschränkt
     und sie im übrigen die Voraussetzungen des § 1 erfüllen.
 
-
-
-
-
 ## - - Zu § 26 Abs. 3 des Gesetzes
-
-
 
 ### § 5 (weggefallen)
 
-
-
 ## - - Schlußvorschrift
-
-
 
 ### § 6 Anwendungszeitraum
 
@@ -208,11 +181,9 @@ Die Körperschaftsteuer-Durchführungsverordnung in der Fassung des
 Artikels 5 des Gesetzes vom 19. Dezember 2000 (BGBl. I S. 1790) ist
 erstmals für den Veranlagungszeitraum 2002 anzuwenden.
 
-
 ### § 7
 
 (Inkrafttreten)
-
 
 ### Anlage (zu § 5)
 

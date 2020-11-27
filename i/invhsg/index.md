@@ -15,28 +15,17 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1955, 69
 
-
-
 ## Erster Abschnitt - Beendigung der Aufbringung der Investitionshilfe
-
-
 
 ### (XXXX) §§ 1 bis 4 (weggefallen)
 
-
-
 ## Zweiter Abschnitt - Ermäßigung der Verzugszuschläge
-
-
 
 ### § 5
 
 -
 
-
 ## Dritter Abschnitt - Behandlung des eine Milliarde Deutsche Mark übersteigenden Aufkommens aus der Investitionshilfe
-
-
 
 ### § 6
 
@@ -51,7 +40,6 @@ die Ausstattung der Schuldverschreibungen gilt § 31 Abs. 1 Satz 1 des
 Investitionshilfegesetzes sinngemäß.
 
 (2) und (3)
-
 
 ### § 7
 
@@ -70,19 +58,13 @@ Abs. 3 bis 5 und § 46a Satz 2 und 3 des Einkommensteuergesetzes und §
 20 Satz 2 des Körperschaftsteuergesetzes in der Fassung vom 13. April
 1954 (Bundesgesetzbl. I S. 97) sind entsprechend anzuwenden.
 
-
 ## Vierter Abschnitt - Erlöschen des Sondervermögens
-
-
 
 ### § 8
 
 -
 
-
 ## Fünfter Abschnitt - Begriffsbestimmung
-
-
 
 ### § 9
 
@@ -100,10 +82,7 @@ steuerlicher Vorschriften und zur Sicherung der Haushaltsführung vom
 Änderung des Gesetzes über die Investitionshilfe der gewerblichen
 Wirtschaft vom 19. Dezember 1954 (Bundesgesetzbl. I S. 437).
 
-
 ## Sechster Abschnitt - Inkrafttreten
-
-
 
 ### § 10
 

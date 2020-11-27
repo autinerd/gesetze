@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 G v. 19.10.2012 I 2192
 
-
 ## Erster Abschnitt - Zweck des Gesetzes und Begriffsbestimmungen, Anwendungsbereich
-
-
 
 ### § 1 Zweck des Gesetzes
 
@@ -33,7 +30,6 @@ Arzneimittelversorgung von Mensch und Tier für die Sicherheit im
 Verkehr mit Arzneimitteln, insbesondere für die Qualität, Wirksamkeit
 und Unbedenklichkeit der Arzneimittel nach Maßgabe der folgenden
 Vorschriften zu sorgen.
-
 
 ### § 2 Arzneimittelbegriff
 
@@ -147,7 +143,6 @@ zuständige Bundesoberbehörde die Zulassung oder Registrierung eines
 Mittels mit der Begründung abgelehnt, dass es sich um kein
 Arzneimittel handelt, so gilt es nicht als Arzneimittel.
 
-
 ### § 3 Stoffbegriff
 
 Stoffe im Sinne dieses Gesetzes sind
@@ -167,10 +162,6 @@ Stoffe im Sinne dieses Gesetzes sind
 
 4.  Mikroorganismen einschließlich Viren sowie deren Bestandteile oder
     Stoffwechselprodukte.
-
-
-
-
 
 ### § 4 Sonstige Begriffsbestimmungen
 
@@ -476,7 +467,6 @@ auf dem Behältnis nicht den tatsächlichen Inhalt angibt oder dessen
 Begleitdokumentation nicht alle beteiligten Hersteller oder nicht den
 tatsächlichen Vertriebsweg widerspiegelt.
 
-
 ### § 4a Ausnahmen vom Anwendungsbereich
 
 Dieses Gesetz findet keine Anwendung auf
@@ -497,7 +487,6 @@ Dieses Gesetz findet keine Anwendung auf
 
 
 Satz 1 Nr. 1 gilt nicht für § 55.
-
 
 ### § 4b Sondervorschriften für Arzneimittel für neuartige Therapien
 
@@ -564,10 +553,7 @@ nicht mehr gegeben ist. § 22 Absatz 4 gilt entsprechend.
 neuartige Therapien entscheidet die zuständige Behörde im Benehmen mit
 der zuständigen Bundesoberbehörde. § 21 Absatz 4 gilt entsprechend.
 
-
 ## Zweiter Abschnitt - Anforderungen an die Arzneimittel
-
-
 
 ### § 5 Verbot bedenklicher Arzneimittel
 
@@ -579,7 +565,6 @@ der wissenschaftlichen Erkenntnisse der begründete Verdacht besteht,
 dass sie bei bestimmungsgemäßem Gebrauch schädliche Wirkungen haben,
 die über ein nach den Erkenntnissen der medizinischen Wissenschaft
 vertretbares Maß hinausgehen.
-
 
 ### § 6 Ermächtigung zum Schutz der Gesundheit
 
@@ -601,7 +586,6 @@ die zur Anwendung bei Tieren bestimmt sind.
 Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit,
 soweit es sich um radioaktive Arzneimittel und um Arzneimittel
 handelt, bei deren Herstellung ionisierende Strahlen verwendet werden.
-
 
 ### § 6a Verbote von Arzneimitteln zu Dopingzwecken im Sport, Hinweispflichten
 
@@ -657,7 +641,6 @@ bestimmen, auf die Absatz 1 Anwendung findet, soweit dies geboten ist,
 um eine unmittelbare oder mittelbare Gefährdung der Gesundheit des
 Menschen durch Doping im Sport zu verhüten.
 
-
 ### § 7 Radioaktive und mit ionisierenden Strahlen behandelte Arzneimittel
 
 (1) Es ist verboten, radioaktive Arzneimittel oder Arzneimittel, bei
@@ -680,7 +663,6 @@ für Ernährung, Landwirtschaft und Verbraucherschutz im Einvernehmen
 mit dem Bundesministerium und dem Bundesministerium für Umwelt,
 Naturschutz und Reaktorsicherheit erlassen, soweit es sich um
 Arzneimittel handelt, die zur Anwendung bei Tieren bestimmt sind.
-
 
 ### § 8 Verbote zum Schutz vor Täuschung
 
@@ -723,7 +705,6 @@ ihnen Handel zu treiben.
 (3) Es ist verboten, Arzneimittel, deren Verfalldatum abgelaufen ist,
 in den Verkehr zu bringen.
 
-
 ### § 9 Der Verantwortliche für das Inverkehrbringen
 
 (1) Arzneimittel, die im Geltungsbereich dieses Gesetzes in den
@@ -739,7 +720,6 @@ Mitgliedstaat der Europäischen Union oder in einem anderen
 Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum hat.
 Bestellt der pharmazeutische Unternehmer einen örtlichen Vertreter,
 entbindet ihn dies nicht von seiner rechtlichen Verantwortung.
-
 
 ### § 10 Kennzeichnung
 
@@ -1120,7 +1100,6 @@ bei Menschen bestimmt sind, dürfen nur mit einer Kennzeichnung
 abgegeben werden, die mindestens den Anforderungen nach Absatz 8 Satz
 1 entspricht. Absatz 1b findet keine Anwendung.
 
-
 ### § 11 Packungsbeilage
 
 (1) Fertigarzneimittel, die Arzneimittel im Sinne des § 2 Abs. 1 oder
@@ -1458,7 +1437,6 @@ Ausfertigungen der für die jeweiligen Fertigarzneimittel
 vorgeschriebenen Packungsbeilagen erst dann erneut beigefügt werden,
 wenn sich diese gegenüber den zuletzt beigefügten geändert haben.
 
-
 ### § 11a Fachinformation
 
 (1) Der pharmazeutische Unternehmer ist verpflichtet, Ärzten,
@@ -1703,7 +1681,6 @@ durch Aufnahme der Angaben nach Absatz 1 Satz 2 in der Packungsbeilage
 erfüllt werden. Die Packungsbeilage muss mit der Überschrift
 "Gebrauchsinformation und Fachinformation" versehen werden.
 
-
 ### § 12 Ermächtigung für die Kennzeichnung, die Packungsbeilage und die Packungsgrößen
 
 (1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem
@@ -1803,13 +1780,7 @@ Dreiteilung auszugehen:
 
 3.  Packungen für längere Anwendungsdauer.
 
-
-
-
-
 ## Dritter Abschnitt - Herstellung von Arzneimitteln
-
-
 
 ### § 13 Herstellungserlaubnis
 
@@ -1984,7 +1955,6 @@ oder die auf gentechnischem Wege hergestellt werden, ergeht die
 Entscheidung über die Erlaubnis im Benehmen mit der zuständigen
 Bundesoberbehörde.
 
-
 ### § 14 Entscheidung über die Herstellungserlaubnis
 
 (1) Die Erlaubnis darf nur versagt werden, wenn
@@ -2084,7 +2054,6 @@ Absatz 1 Nummer 1 ihre Verantwortung wahrnehmen kann.
 Antragsteller Gelegenheit zu geben, Mängeln innerhalb einer
 angemessenen Frist abzuhelfen. Wird den Mängeln nicht abgeholfen, so
 ist die Erteilung der Erlaubnis zu versagen.
-
 
 ### § 15 Sachkenntnis
 
@@ -2224,7 +2193,6 @@ vereinbart ist.
 von Fütterungsarzneimitteln aus Arzneimittel-Vormischungen; Absatz 2
 findet keine Anwendung.
 
-
 ### § 16 Begrenzung der Herstellungserlaubnis
 
 Die Erlaubnis wird dem Antragsteller für eine bestimmte Betriebsstätte
@@ -2233,7 +2201,6 @@ Fällen des § 14 Abs. 4 auch für eine bestimmte Betriebsstätte des
 beauftragten oder des anderen Betriebes. Soweit die Erlaubnis die
 Prüfung von Arzneimitteln oder Wirkstoffen umfasst, ist die Art der
 Prüfung aufzuführen.
-
 
 ### § 17 Fristen für die Erteilung
 
@@ -2255,7 +2222,6 @@ oder bis zum Ablauf der nach § 14 Abs. 5 gesetzten Frist gehemmt. Die
 Hemmung beginnt mit dem Tage, an dem dem Antragsteller die
 Aufforderung zur Behebung der Mängel zugestellt wird.
 
-
 ### § 18 Rücknahme, Widerruf, Ruhen
 
 (1) Die Erlaubnis ist zurückzunehmen, wenn nachträglich bekannt wird,
@@ -2271,7 +2237,6 @@ die für die Herstellung und Prüfung zu führenden Nachweise nicht
 vorlegt. Die vorläufige Anordnung kann auf eine Charge beschränkt
 werden.
 
-
 ### § 19 Verantwortungsbereiche
 
 Die sachkundige Person nach § 14 ist dafür verantwortlich, dass jede
@@ -2281,7 +2246,6 @@ Einhaltung dieser Vorschriften für jede Arzneimittelcharge in einem
 fortlaufenden Register oder einem vergleichbaren Dokument vor deren
 Inverkehrbringen zu bescheinigen.
 
-
 ### § 20 Anzeigepflichten
 
 Der Inhaber der Erlaubnis hat jede Änderung einer der in § 14 Abs. 1
@@ -2290,14 +2254,12 @@ vorher anzuzeigen. Bei einem unvorhergesehenen Wechsel der
 sachkundigen Person nach § 14 hat die Anzeige unverzüglich zu
 erfolgen.
 
-
 ### § 20a Geltung für Wirkstoffe und andere Stoffe
 
 § 13 Abs. 2 und 4 und die §§ 14 bis 20 gelten entsprechend für
 Wirkstoffe und für andere zur Arzneimittelherstellung bestimmte Stoffe
 menschlicher Herkunft, soweit ihre Herstellung oder Prüfung nach § 13
 Abs. 1 einer Erlaubnis bedarf.
-
 
 ### § 20b Erlaubnis für die Gewinnung von Gewebe und die Laboruntersuchungen
 
@@ -2384,7 +2346,6 @@ die Änderung erst vornehmen, wenn die zuständige Behörde eine
 schriftliche Erlaubnis erteilt hat. Bei einem unvorhergesehenen
 Wechsel der angemessen ausgebildeten Person nach § 20b hat die Anzeige
 unverzüglich zu erfolgen.
-
 
 ### § 20c Erlaubnis für die Be- oder Verarbeitung, Konservierung, Prüfung, Lagerung oder das Inverkehrbringen von Gewebe oder Gewebezubereitungen
 
@@ -2488,7 +2449,6 @@ Verarbeiter oder Vertreiber mit einer Erlaubnis nach Absatz 1 oder §
 über die Be- oder Verarbeitung, die für die Rückverfolgung dieser
 Gewebezubereitungen und Gewebe benötigt werden.
 
-
 ### § 20d Ausnahme von der Erlaubnispflicht für Gewebe und Gewebezubereitungen
 
 Einer Erlaubnis nach § 20b Absatz 1 und § 20c Absatz 1 bedarf nicht
@@ -2498,10 +2458,7 @@ des Inverkehrbringens ausübt, um das Gewebe oder die Gewebezubereitung
 persönlich bei ihren Patienten anzuwenden. Dies gilt nicht für
 Arzneimittel, die zur klinischen Prüfung bestimmt sind.
 
-
 ## Vierter Abschnitt - Zulassung der Arzneimittel
-
-
 
 ### § 21 Zulassungspflicht
 
@@ -2675,7 +2632,6 @@ Arzneimittels, die Genehmigungspflicht einer Gewebezubereitung oder
 die zuständige Landesbehörde eine begründete Stellungnahme zur
 Einstufung des Arzneimittels oder der klinischen Prüfung beizufügen.
 
-
 ### § 21a Genehmigung von Gewebezubereitungen
 
 (1) Gewebezubereitungen, die nicht mit industriellen Verfahren be-
@@ -2822,7 +2778,6 @@ anzuzeigen. Die Bescheinigung ist zurückzunehmen, wenn eine der
 Voraussetzungen nach Satz 2 nicht vorgelegen hat; sie ist zu
 widerrufen, wenn eine der Voraussetzungen nach Satz 2 nachträglich
 weggefallen ist.
-
 
 ### § 22 Zulassungsunterlagen
 
@@ -3075,7 +3030,6 @@ Prüfung des Arzneimittels verwendet werden, in einer für die
 Untersuchung ausreichenden Menge und in einem für die Untersuchung
 geeigneten Zustand vorgelegt werden.
 
-
 ### § 23 Besondere Unterlagen bei Arzneimitteln für Tiere
 
 (1) Bei Arzneimitteln, die zur Anwendung bei Tieren bestimmt sind, die
@@ -3132,7 +3086,6 @@ Art, Umfang und Zeitpunkt der Prüfungen hervorgehen. An Stelle der
 Unterlagen, Nachweise und Prüfungsergebnisse nach Satz 1 kann anderes
 wissenschaftliches Erkenntnismaterial vorgelegt werden.
 
-
 ### § 24 Sachverständigengutachten
 
 (1) Den nach § 22 Abs. 1 Nr. 15, Abs. 2 und 3 und § 23 erforderlichen
@@ -3182,7 +3135,6 @@ Beziehung zum Antragsteller beigefügt werden. Die Sachverständigen
 haben mit Unterschrift unter Angabe des Datums zu bestätigen, dass das
 Gutachten von ihnen erstellt worden ist.
 
-
 ### § 24a Verwendung von Unterlagen eines Vorantragstellers
 
 Der Antragsteller kann auf Unterlagen nach § 22 Abs. 2, 3, 3c und § 23
@@ -3194,7 +3146,6 @@ die Bezug genommen wird, die Anforderungen der
 Arzneimittelprüfrichtlinien nach § 26 erfüllen. Der Vorantragsteller
 hat sich auf eine Anfrage auf Zustimmung innerhalb einer Frist von
 drei Monaten zu äußern. Eine teilweise Bezugnahme ist nicht zulässig.
-
 
 ### § 24b Zulassung eines Generikums, Unterlagenschutz
 
@@ -3325,7 +3276,6 @@ wird eine Ausschließlichkeitsfrist von drei Jahren nach der Erteilung
 der Zulassung für die Daten gewährt, für die die genannten Versuche
 durchgeführt wurden.
 
-
 ### § 24c Nachforderungen
 
 Müssen von mehreren Zulassungsinhabern inhaltlich gleiche Unterlagen
@@ -3346,7 +3296,6 @@ die Nutzer von Standardzulassungen sowie, wenn inhaltlich gleiche
 Unterlagen von mehreren Antragstellern in laufenden
 Zulassungsverfahren gefordert werden.
 
-
 ### § 24d Allgemeine Verwertungsbefugnis
 
 Die zuständige Bundesoberbehörde kann bei Erfüllung ihrer Aufgaben
@@ -3358,7 +3307,6 @@ Europäischen Union länger als acht Jahre zurückliegt oder ein
 Verfahren nach § 24c noch nicht abgeschlossen ist oder soweit nicht
 die §§ 24a und 24b speziellere Vorschriften für die Bezugnahme auf
 Unterlagen eines Vorantragstellers enthalten.
-
 
 ### § 25 Entscheidung über die Zulassung
 
@@ -3598,7 +3546,6 @@ umfassende Zulassung.
 (10) Die Zulassung lässt die zivil- und strafrechtliche
 Verantwortlichkeit des pharmazeutischen Unternehmers unberührt.
 
-
 ### § 25a Vorprüfung
 
 (1) Die zuständige Bundesoberbehörde kann den Zulassungsantrag durch
@@ -3627,7 +3574,6 @@ findet.
 sich ein Antrag auf ein in einem anderen Mitgliedstaat der
 Europäischen Union bereits zugelassenes Arzneimittel bezieht, lehnt
 sie den Antrag ab, es sei denn, er wurde nach § 25b eingereicht.
-
 
 ### § 25b Verfahren der gegenseitigen Anerkennung und dezentralisiertes Verfahren
 
@@ -3681,14 +3627,12 @@ sofern diese Arzneimittel dem Artikel 16 Abs. 2 der Richtlinie
 2001/83/EG oder dem Artikel 19 Abs. 2 der Richtlinie 2001/82/EG
 unterliegen.
 
-
 ### § 25c Maßnahmen der zuständigen Bundesoberbehörde zu Entscheidungen oder Beschlüssen der Europäischen Gemeinschaft oder der Europäischen Union
 
 Die zuständige Bundesoberbehörde trifft die zur Durchführung von
 Entscheidungen oder Beschlüssen der Europäischen Gemeinschaft oder der
 Europäischen Union nach Artikel 127a der Richtlinie 2001/83/EG oder
 nach Artikel 95b der Richtlinie 2001/82/EG erforderlichen Maßnahmen.
-
 
 ### § 26 Arzneimittelprüfrichtlinien
 
@@ -3720,7 +3664,6 @@ Arzneimittel zu berücksichtigen sind. Als wissenschaftliches
 Erkenntnismaterial gilt auch das nach wissenschaftlichen Methoden
 aufbereitete medizinische Erfahrungsmaterial.
 
-
 ### § 27 Fristen für die Erteilung
 
 (1) Die zuständige Bundesoberbehörde hat eine Entscheidung über den
@@ -3743,7 +3686,6 @@ Sachverständigen, Stellung zu nehmen.
 Abschluss des Verfahrens entsprechend den Vorschriften in Artikel 28
 der Richtlinie 2001/83/EG und Artikel 32 der Richtlinie 2001/82/EG um
 drei Monate.
-
 
 ### § 28 Auflagenbefugnis
 
@@ -3995,7 +3937,6 @@ in § 27 Abs. 1 vorgesehene Frist bis zum Ablauf einer dem
 Antragsteller gewährten Frist zur Stellungnahme gehemmt. § 27 Abs. 2
 findet entsprechende Anwendung.
 
-
 ### § 29 Anzeigepflicht, Neuzulassung
 
 (1) Der Antragsteller hat der zuständigen Bundesoberbehörde unter
@@ -4195,10 +4136,6 @@ geltenden Fassung unterliegen. Die Absätze 2a bis 3 gelten
 3.  für nach § 21 zugelassene Gewebezubereitungen, es sei denn, es kommt
     bei ihrer Herstellung ein industrielles Verfahren zur Anwendung.
 
-
-
-
-
 ### § 30 Rücknahme, Widerruf, Ruhen
 
 (1) Die Zulassung ist zurückzunehmen, wenn nachträglich bekannt wird,
@@ -4295,7 +4232,6 @@ widerrufen oder ruht die Zulassung, so darf es
 Die Rückgabe des Arzneimittels an den pharmazeutischen Unternehmer ist
 unter entsprechender Kenntlichmachung zulässig. Die Rückgabe kann von
 der zuständigen Behörde angeordnet werden.
-
 
 ### § 31 Erlöschen, Verlängerung
 
@@ -4395,7 +4331,6 @@ Bundesoberbehörde feststellt, dass eine Voraussetzung für die
 Rücknahme oder den Widerruf nach § 30 vorgelegen hat; § 30 Abs. 4
 findet Anwendung.
 
-
 ### § 32 Staatliche Chargenprüfung
 
 (1) Die Charge eines Serums, eines Impfstoffes oder eines Allergens
@@ -4441,7 +4376,6 @@ zuständige Bundesoberbehörde nach Absatz 4 ist zurückzunehmen, wenn
 eine ihrer Voraussetzungen nicht vorgelegen hat; sie ist zu
 widerrufen, wenn eine der Voraussetzungen nachträglich weggefallen
 ist.
-
 
 ### § 33 Kosten
 
@@ -4507,7 +4441,6 @@ findet Absatz 2 Satz 3 entsprechende Anwendung.
 Bundesoberbehörde die dieser im Rahmen der Mitwirkungshandlungen nach
 diesem Gesetz entstehenden Kosten zu erstatten, soweit diese Kosten
 vom Verursacher getragen werden.
-
 
 ### § 34 Information der Öffentlichkeit
 
@@ -4642,7 +4575,6 @@ Verwaltungsverfahrensgesetzes gegeben wird, können gleichfalls im
 Bundesanzeiger bekannt gemacht werden, wenn mehr als 50 Adressaten
 davon betroffen sind. Satz 2 gilt entsprechend.
 
-
 ### § 35 Ermächtigungen zur Zulassung und Freistellung
 
 (1) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit
@@ -4683,7 +4615,6 @@ im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und
 Reaktorsicherheit und, soweit es sich um Arzneimittel handelt, die zur
 Anwendung bei Tieren bestimmt sind, im Einvernehmen mit dem
 Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz.
-
 
 ### § 36 Ermächtigung für Standardzulassungen
 
@@ -4737,7 +4668,6 @@ positiven Nutzen-Risiko-Verhältnisses, für die von der Pflicht zur
 Zulassung freigestellten Arzneimittel, weiterhin als erwiesen gelten
 können.
 
-
 ### § 37 Genehmigung der Europäischen Gemeinschaft oder der Europäischen Union für das Inverkehrbringen, Zulassungen von Arzneimitteln aus anderen Staaten
 
 (1) Die von der Europäischen Gemeinschaft oder der Europäischen Union
@@ -4760,10 +4690,7 @@ Einvernehmen mit dem Bundesministerium für Ernährung, Landwirtschaft
 und Verbraucherschutz, soweit es sich um Arzneimittel handelt, die zur
 Anwendung bei Tieren bestimmt sind.
 
-
 ## Fünfter Abschnitt - Registrierung von Arzneimitteln
-
-
 
 ### § 38 Registrierung homöopathischer Arzneimittel
 
@@ -4801,7 +4728,6 @@ Unterlagen über die pharmakologisch-toxikologische Prüfung sind
 vorzulegen, soweit sich die Unbedenklichkeit des Arzneimittels nicht
 anderweitig, insbesondere durch einen angemessen hohen Verdünnungsgrad
 ergibt. § 22 Absatz 1a gilt entsprechend.
-
 
 ### § 39 Entscheidung über die Registrierung homöopathischer Arzneimittel, Verfahrensvorschriften
 
@@ -4935,7 +4861,6 @@ Arzneimittel handelt, die zur Anwendung bei Tieren bestimmt sind. § 36
 Abs. 4 gilt für die Änderung einer Rechtsverordnung über die
 Freistellung von der Registrierung entsprechend.
 
-
 ### § 39a Registrierung traditioneller pflanzlicher Arzneimittel
 
 Fertigarzneimittel, die pflanzliche Arzneimittel und Arzneimittel im
@@ -4946,7 +4871,6 @@ pflanzliche Arzneimittel, die Vitamine oder Mineralstoffe enthalten,
 sofern die Vitamine oder Mineralstoffe die Wirkung der traditionellen
 pflanzlichen Arzneimittel im Hinblick auf das Anwendungsgebiet oder
 die Anwendungsgebiete ergänzen.
-
 
 ### § 39b Registrierungsunterlagen für traditionelle pflanzliche Arzneimittel
 
@@ -5023,7 +4947,6 @@ genannten Angaben für die Kombination vorzulegen. Sind die einzelnen
 Wirkstoffe nicht hinreichend bekannt, so sind auch Angaben zu den
 einzelnen Wirkstoffen zu machen.
 
-
 ### § 39c Entscheidung über die Registrierung traditioneller pflanzlicher Arzneimittel
 
 (1) Die zuständige Bundesoberbehörde hat das traditionelle pflanzliche
@@ -5095,7 +5018,6 @@ Erteilung, es sei denn, dass spätestens neun Monate vor Ablauf der
 Frist ein Antrag auf Verlängerung gestellt wird. Für das Erlöschen und
 die Verlängerung der Registrierung gilt § 31 entsprechend mit der
 Maßgabe, dass die Versagungsgründe nach Absatz 2 Anwendung finden.
-
 
 ### § 39d Sonstige Verfahrensvorschriften für traditionelle pflanzliche Arzneimittel
 
@@ -5171,10 +5093,7 @@ ergeht im Einvernehmen mit dem Bundesministerium für Ernährung,
 Landwirtschaft und Verbraucherschutz, soweit es sich um Arzneimittel
 handelt, die zur Anwendung bei Tieren bestimmt sind.
 
-
 ## Sechster Abschnitt - Schutz des Menschen bei der klinischen Prüfung
-
-
 
 ### § 40 Allgemeine Voraussetzungen der klinischen Prüfung
 
@@ -5441,7 +5360,6 @@ Bedeutung für die Durchführung einer klinischen Prüfung beizumessen
 ist, eingeholt werden können. Die Kontaktstelle ist bei der jeweils
 zuständigen Bundesoberbehörde einzurichten.
 
-
 ### § 41 Besondere Voraussetzungen der klinischen Prüfung
 
 (1) Auf eine klinische Prüfung bei einer volljährigen Person, die an
@@ -5548,10 +5466,6 @@ folgender Maßgabe Anwendung:
 
 4.  Vorteile mit Ausnahme einer angemessenen Entschädigung dürfen nicht
     gewährt werden.
-
-
-
-
 
 ### § 42 Verfahren bei der Ethik-Kommission, Genehmigungsverfahren bei der Bundesoberbehörde
 
@@ -5769,7 +5683,6 @@ dass Unterlagen auf elektronischen Speichermedien eingereicht werden.
 In der Rechtsverordnung sind für zugelassene Arzneimittel Ausnahmen
 entsprechend der Richtlinie 2001/20/EG vorzusehen.
 
-
 ### § 42a Rücknahme, Widerruf und Ruhen der Genehmigung oder der zustimmenden Bewertung
 
 (1) Die Genehmigung ist zurückzunehmen, wenn bekannt wird, dass ein
@@ -5849,7 +5762,6 @@ Sponsor, so ist dieser von der Anordnung zu unterrichten. Maßnahmen
 der zuständigen Überwachungsbehörde gemäß § 69 bleiben davon
 unberührt.
 
-
 ### § 42b Veröffentlichung der Ergebnisse klinischer Prüfungen
 
 (1) Pharmazeutische Unternehmer, die im Geltungsbereich dieses
@@ -5886,10 +5798,7 @@ Der Bericht kann in deutscher oder englischer Sprache verfasst sein. §
 des geistigen Eigentums und zum Schutz von Betriebs- und
 Geschäftsgeheimnissen bleiben ebenso wie die §§ 24a und 24b unberührt.
 
-
 ## Siebter Abschnitt - Abgabe von Arzneimitteln
-
-
 
 ### § 43 Apothekenpflicht, Inverkehrbringen durch Tierärzte
 
@@ -5955,7 +5864,6 @@ Hausapotheken bleiben unberührt.
 Praxis an den Nachfolger im Betrieb der tierärztlichen Hausapotheke
 abgegeben werden.
 
-
 ### § 44 Ausnahme von der Apothekenpflicht
 
 (1) Arzneimittel, die von dem pharmazeutischen Unternehmer
@@ -6020,10 +5928,6 @@ freigegeben.
 2.  durch Rechtsverordnung nach § 46 vom Verkehr außerhalb der Apotheken
     ausgeschlossen sind.
 
-
-
-
-
 ### § 45 Ermächtigung zu weiteren Ausnahmen von der Apothekenpflicht
 
 (1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem
@@ -6067,7 +5971,6 @@ Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit,
 soweit es sich um radioaktive Arzneimittel und um Arzneimittel
 handelt, bei deren Herstellung ionisierende Strahlen verwendet werden.
 
-
 ### § 46 Ermächtigung zur Ausweitung der Apothekenpflicht
 
 (1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem
@@ -6090,7 +5993,6 @@ Anwendungsgebiete oder Darreichungsformen beschränkt werden.
 Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit,
 soweit es sich um radioaktive Arzneimittel und um Arzneimittel
 handelt, bei deren Herstellung ionisierende Strahlen verwendet werden.
-
 
 ### § 47 Vertriebsweg
 
@@ -6325,7 +6227,6 @@ und Zeitpunkt der Abgabe von Mustern sind gesondert für jeden
 Empfänger Nachweise zu führen und auf Verlangen der zuständigen
 Behörde vorzulegen.
 
-
 ### § 47a Sondervertriebsweg, Nachweispflichten
 
 (1) Pharmazeutische Unternehmer dürfen ein Arzneimittel, das zur
@@ -6353,7 +6254,6 @@ sichern.
 (3) Die §§ 43 und 47 finden auf die in Absatz 1 Satz 1 genannten
 Arzneimittel keine Anwendung.
 
-
 ### § 47b Sondervertriebsweg Diamorphin
 
 (1) Pharmazeutische Unternehmer dürfen ein diamorphinhaltiges
@@ -6365,7 +6265,6 @@ dürfen die in Satz 1 genannten Arzneimittel nicht in Verkehr bringen.
 
 (2) Die §§ 43 und 47 finden auf die in Absatz 1 Satz 1 genannten
 Arzneimittel keine Anwendung.
-
 
 ### § 48 Verschreibungspflicht
 
@@ -6524,11 +6423,9 @@ Verschreibungspflicht auszunehmen, soweit die auf Grund des Artikels
 67 Doppelbuchstabe aa der Richtlinie 2001/82/EG festgelegten
 Anforderungen eingehalten sind.
 
-
 ### § 49
 
 (weggefallen)
-
 
 ### § 50 Einzelhandel mit freiverkäuflichen Arzneimitteln
 
@@ -6583,10 +6480,6 @@ Fertigarzneimittel im Einzelhandel in den Verkehr bringt, die
 
 5.  Sauerstoff sind.
 
-
-
-
-
 ### § 51 Abgabe im Reisegewerbe
 
 (1) Das Feilbieten von Arzneimitteln und das Aufsuchen von
@@ -6618,7 +6511,6 @@ auf Arzneimittel, deren Abgabe den Apotheken vorbehalten ist,
 aufgesucht werden. Dies gilt auch für Handlungsreisende und andere
 Personen, die im Auftrag und im Namen eines Gewerbetreibenden tätig
 werden.
-
 
 ### § 52 Verbot der Selbstbedienung
 
@@ -6657,7 +6549,6 @@ werden.
 (3) Absatz 1 Nr. 2 gilt ferner nicht für Arzneimittel, die für den
 Verkehr außerhalb der Apotheken freigegeben sind, wenn eine Person,
 die die Sachkenntnis nach § 50 besitzt, zur Verfügung steht.
-
 
 ### § 52a Großhandel mit Arzneimitteln
 
@@ -6737,7 +6628,6 @@ Behörde vorher anzuzeigen. Bei einem unvorhergesehenen Wechsel der
 verantwortlichen Person nach Absatz 2 Nr. 3 hat die Anzeige
 unverzüglich zu erfolgen.
 
-
 ### § 52b Bereitstellung von Arzneimitteln
 
 (1) Pharmazeutische Unternehmer und Betreiber von
@@ -6778,7 +6668,6 @@ vorgehaltenen Arzneimittel.
 (4) Die Vorschriften des Gesetzes gegen Wettbewerbsbeschränkungen
 bleiben unberührt.
 
-
 ### § 52c Arzneimittelvermittlung
 
 (1) Ein Arzneimittelvermittler darf im Geltungsbereich dieses Gesetzes
@@ -6802,7 +6691,6 @@ hat.
 oder die nach einer auf Grund dieses Gesetzes erlassenen Verordnung
 vorgegebenen Anforderungen, kann die zuständige Behörde die
 Registrierung in der Datenbank versagen oder löschen.
-
 
 ### § 53 Anhörung von Sachverständigen
 
@@ -6829,10 +6717,7 @@ sollen. Die Vertreter der medizinischen und pharmazeutischen Praxis
 und der pharmazeutischen Industrie nehmen ohne Stimmrecht an den
 Sitzungen teil.
 
-
 ## Achter Abschnitt - Sicherung und Kontrolle der Qualität
-
-
 
 ### § 54 Betriebsverordnungen
 
@@ -6919,7 +6804,6 @@ ausüben.
 über das Apothekenwesen, soweit diese einer Erlaubnis nach § 13, § 52a
 oder § 72 bedürfen.
 
-
 ### § 55 Arzneibuch
 
 (1) Das Arzneibuch ist eine vom Bundesinstitut für Arzneimittel und
@@ -6980,7 +6864,6 @@ Einvernehmen mit dem Bundesinstitut für Arzneimittel und
 Medizinprodukte und dem Paul-Ehrlich-Institut, soweit es sich um
 Arzneimittel handelt, die zur Anwendung bei Tieren bestimmt sind.
 
-
 ### § 55a Amtliche Sammlung von Untersuchungsverfahren
 
 Die zuständige Bundesoberbehörde veröffentlicht eine amtliche Sammlung
@@ -6990,10 +6873,7 @@ Sachkennern aus den Bereichen der Überwachung, der Wissenschaft und
 der pharmazeutischen Unternehmer festgelegt. Die Sammlung ist laufend
 auf dem neuesten Stand zu halten.
 
-
 ## Neunter Abschnitt - Sondervorschriften für Arzneimittel, die bei Tieren angewendet werden
-
-
 
 ### § 56 Fütterungsarzneimittel
 
@@ -7101,7 +6981,6 @@ nach Satz 2 zu decken bestimmt sind.
 § 56a Abs. 2 gilt für die Verschreibung von Fütterungsarzneimitteln
 entsprechend. Im Falle der Verschreibung von Fütterungsarzneimitteln
 nach Satz 1 Nr. 4 gilt zusätzlich § 56a Abs. 1 Satz 2 entsprechend.
-
 
 ### § 56a Verschreibung, Abgabe und Anwendung von Arzneimitteln durch Tierärzte
 
@@ -7299,7 +7178,6 @@ veterinärmedizinischen Wissenschaft im Sinne des Absatzes 1 Satz 1 Nr.
 der Tierarzneimittelanwendungskommission nach Absatz 5 Satz 2 beachtet
 worden sind.
 
-
 ### § 56b Ausnahmen
 
 Das Bundesministerium für Ernährung, Landwirtschaft und
@@ -7307,7 +7185,6 @@ Verbraucherschutz wird ermächtigt, im Einvernehmen mit dem
 Bundesministerium durch Rechtsverordnung mit Zustimmung des
 Bundesrates Ausnahmen von § 56a zuzulassen, soweit die notwendige
 arzneiliche Versorgung der Tiere sonst ernstlich gefährdet wäre.
-
 
 ### § 57 Erwerb und Besitz durch Tierhalter, Nachweise
 
@@ -7368,14 +7245,12 @@ diesem Gebiet erforderlich ist. In der Rechtsverordnung können Art,
 Form und Inhalt der Register und Nachweise sowie die Dauer ihrer
 Aufbewahrung geregelt werden.
 
-
 ### § 57a Anwendung durch Tierhalter
 
 Tierhalter und andere Personen, die nicht Tierärzte sind, dürfen
 verschreibungspflichtige Arzneimittel bei Tieren nur anwenden, soweit
 die Arzneimittel von dem Tierarzt verschrieben oder abgegeben worden
 sind, bei dem sich die Tiere in Behandlung befinden.
-
 
 ### § 58 Anwendung bei Tieren, die der Gewinnung von Lebensmitteln dienen
 
@@ -7416,7 +7291,6 @@ Tieren bestimmt sind, die der Gewinnung von Lebensmitteln dienen, für
 bestimmte Anwendungsgebiete oder -bereiche in den Verkehr gebracht
 oder zu diesen Zwecken angewendet werden, soweit es geboten ist, um
 eine mittelbare Gefährdung der Gesundheit des Menschen zu verhüten.
-
 
 ### § 59 Klinische Prüfung und Rückstandsprüfung bei Tieren, die der Lebensmittelgewinnung dienen
 
@@ -7476,7 +7350,6 @@ Anzeige nach § 67 Abs. 1 Satz 1 zusätzlich folgende Angaben enthalten:
 (4) Über die durchgeführten Prüfungen sind Aufzeichnungen zu führen,
 die der zuständigen Behörde auf Verlangen vorzulegen sind.
 
-
 ### § 59a Verkehr mit Stoffen und Zubereitungen aus Stoffen
 
 (1) Personen, Betriebe und Einrichtungen, die in § 47 Abs. 1
@@ -7510,7 +7383,6 @@ einen anderen Zweck als zur Anwendung bei Tieren bestimmt sind.
 
 (3) Die futtermittelrechtlichen Vorschriften bleiben unberührt.
 
-
 ### § 59b Stoffe zur Durchführung von Rückstandskontrollen
 
 Der pharmazeutische Unternehmer hat für Arzneimittel, die zur
@@ -7524,7 +7396,6 @@ nach Satz 1 bis zum Ablauf von drei Jahren nach dem Zeitpunkt des
 letztmaligen Inverkehrbringens durch den pharmazeutischen Unternehmer,
 höchstens jedoch bis zu dem nach § 10 Abs. 7 angegebenen Verfalldatum
 der zuletzt in Verkehr gebrachten Charge.
-
 
 ### § 59c Nachweispflichten für Stoffe, die als Tierarzneimittel verwendet werden können
 
@@ -7546,7 +7417,6 @@ eines Registers zu führen, in dem die hergestellten oder erworbenen
 Mengen sowie die zur Herstellung von Arzneimitteln veräußerten oder
 verwendeten Mengen chronologisch unter Angabe des Vorlieferanten und
 Empfängers erfasst werden.
-
 
 ### § 59d Verabreichung pharmakologisch wirksamer Stoffe an Tiere, die der Lebensmittelgewinnung dienen
 
@@ -7570,7 +7440,6 @@ nicht verabreicht werden. Satz 1 gilt nicht in den Fällen des § 56a
 Absatz 2a und des Artikels 16 Absatz 2 der Verordnung (EG) Nr.
 470/2009 sowie für die Verabreichung von Futtermitteln, die
 zugelassene Futtermittelzusatzstoffe enthalten.
-
 
 ### § 60 Heimtiere
 
@@ -7598,7 +7467,6 @@ oder Tier zu verhüten.
 zulassen, soweit es sich um die Arzneimittelversorgung der in Absatz 1
 genannten Tiere handelt.
 
-
 ### § 61 Befugnisse tierärztlicher Bildungsstätten
 
 Einrichtungen der tierärztlichen Bildungsstätten im Hochschulbereich,
@@ -7607,10 +7475,7 @@ von einem Tierarzt oder Apotheker geleitet werden, haben die Rechte
 und Pflichten, die ein Tierarzt nach den Vorschriften dieses Gesetzes
 hat.
 
-
 ## Zehnter Abschnitt - Pharmakovigilanz
-
-
 
 ### § 62 Organisation des Pharmakovigilanz-Systems der zuständigen Bundesoberbehörde
 
@@ -7713,7 +7578,6 @@ Anwendung beim Menschen herstellen, in Verkehr bringen oder prüfen,
 die zuständigen Behörden anderer Mitgliedstaaten, die Europäische
 Arzneimittel-Agentur und die Europäische Kommission.
 
-
 ### § 63 Stufenplan
 
 Die Bundesregierung erstellt durch allgemeine Verwaltungsvorschrift
@@ -7726,7 +7590,6 @@ Patientinnen und Patienten näher geregelt und die jeweils nach den
 Vorschriften dieses Gesetzes zu ergreifenden Maßnahmen bestimmt. In
 dem Stufenplan können ferner Informationsmittel und -wege bestimmt
 werden.
-
 
 ### § 63a Stufenplanbeauftragter
 
@@ -7758,7 +7621,6 @@ nach § 14 oder verantwortliche Person nach § 20c sein.
 der zuständigen Bundesoberbehörde den Stufenplanbeauftragten und jeden
 Wechsel vorher mitzuteilen. Bei einem unvorhergesehenen Wechsel des
 Stufenplanbeauftragten hat die Mitteilung unverzüglich zu erfolgen.
-
 
 ### § 63b Allgemeine Pharmakovigilanz-Pflichten des Inhabers der Zulassung
 
@@ -7813,7 +7675,6 @@ Anwendung bei Menschen bestimmt sind, auch an die Europäische
 Arzneimittel-Agentur und die Europäische Kommission öffentlich bekannt
 machen. Er stellt sicher, dass solche Informationen in objektiver und
 nicht irreführender Weise dargelegt werden.
-
 
 ### § 63c Dokumentations- und Meldepflichten des Inhabers der Zulassung für Arzneimittel, die zur Anwendung bei Menschen bestimmt sind, für Verdachtsfälle von Nebenwirkungen
 
@@ -7900,7 +7761,6 @@ die Verantwortung für die Analyse und Überwachung aller Verdachtsfälle
 schwerwiegender Nebenwirkungen, die in der Europäischen Union
 auftreten; dies gilt auch für Arzneimittel, die im dezentralisierten
 Verfahren zugelassen worden sind.
-
 
 ### § 63d Regelmäßige aktualisierte Unbedenklichkeitsberichte
 
@@ -8014,13 +7874,11 @@ dem pharmazeutischen Unternehmer, der nicht Inhaber der Zulassung ist,
 ganz oder teilweise auf den Inhaber der Zulassung übertragen werden.
 Die Absätze 1 bis 5 gelten nicht für einen Parallelimporteur.
 
-
 ### § 63e Europäisches Verfahren
 
 In den Fällen von Artikel 107i der Richtlinie 2001/83/EG ergreift die
 zuständige Bundesoberbehörde die dort vorgesehenen Maßnahmen. Für das
 Verfahren gelten die Artikel 107i bis 107k der Richtlinie 2001/83/EG.
-
 
 ### § 63f Allgemeine Voraussetzungen für nichtinterventionelle Unbedenklichkeitsprüfungen
 
@@ -8063,7 +7921,6 @@ Leistungen zu Lasten der gesetzlichen Krankenversicherung erbringen,
 sind bei Anzeigen nach Satz 1 auch die Art und die Höhe der an sie
 geleisteten Entschädigungen anzugeben und ist jeweils eine
 Ausfertigung der mit ihnen geschlossenen Verträge zu übermitteln.
-
 
 ### § 63g Besondere Voraussetzungen für angeordnete nichtinterventionelle Unbedenklichkeitsprüfungen
 
@@ -8130,7 +7987,6 @@ vorzulegen, wenn nicht durch die nach Satz 1 Nummer 1 oder 2
 zuständige Stelle auf die Vorlage verzichtet worden ist. Der
 Abschlussbericht ist zusammen mit einer Kurzdarstellung der
 Prüfungsergebnisse elektronisch zu übermitteln.
-
 
 ### § 63h Dokumentations- und Meldepflichten für Arzneimittel, die zur Anwendung bei Tieren bestimmt sind
 
@@ -8282,7 +8138,6 @@ schwerwiegender Nebenwirkungen, die in der Europäischen Union
 auftreten; dies gilt auch für Arzneimittel, die im dezentralisierten
 Verfahren zugelassen worden sind.
 
-
 ### § 63i Dokumentations- und Meldepflichten bei Blut- und Gewebezubereitungen und Gewebe
 
 (1) Der Inhaber einer Zulassung oder Genehmigung für Blutzubereitungen
@@ -8368,7 +8223,6 @@ verläuft, eine Behinderung oder einen Fähigkeitsverlust zur Folge hat
 oder einen Krankenhausaufenthalt erforderlich macht oder verlängert
 oder zu einer Erkrankung führt oder diese verlängert.
 
-
 ### § 63j Ausnahmen
 
 (1) Die Regelungen des Zehnten Abschnitts finden keine Anwendung auf
@@ -8379,10 +8233,7 @@ eingesetzt werden.
 63g finden keine Anwendung auf Arzneimittel, die zur Anwendung bei
 Tieren bestimmt sind.
 
-
 ## Elfter Abschnitt - Überwachung
-
-
 
 ### § 64 Durchführung der Überwachung
 
@@ -8576,7 +8427,6 @@ Landwirtschaft und Verbraucherschutz im Einvernehmen mit dem
 Bundesministerium erlassen, soweit es sich um Arzneimittel handelt,
 die zur Anwendung bei Tieren bestimmt sind.
 
-
 ### § 65 Probenahme
 
 (1) Soweit es zur Durchführung der Vorschriften über den Verkehr mit
@@ -8623,10 +8473,6 @@ wer
 3.  über geeignete Räume und Einrichtungen für die beabsichtigte
     Untersuchung und Begutachtung von Arzneimitteln verfügt.
 
-
-
-
-
 ### § 66 Duldungs- und Mitwirkungspflicht
 
 (1) Wer der Überwachung nach § 64 Abs. 1 unterliegt, ist verpflichtet,
@@ -8645,7 +8491,6 @@ Bundesoberbehörde.
 (2) Die Duldungs- und Mitwirkungspflicht nach Absatz 1 findet
 entsprechende Anwendung auf Maßnahmen der Bundesoberbehörden nach § 25
 Absatz 5 Satz 4 oder Absatz 8 Satz 2 und 3 oder nach § 62 Absatz 6.
-
 
 ### § 67 Allgemeine Anzeigepflicht
 
@@ -8750,7 +8595,6 @@ Genehmigungen für das Inverkehrbringen festgelegt sind, zu entrichten;
 die Bemessung der Gebühr richtet sich nach den unionsrechtlichen
 Rechtsvorschriften.
 
-
 ### § 67a Datenbankgestütztes Informationssystem
 
 (1) Die für den Vollzug dieses Gesetzes zuständigen Behörden des
@@ -8823,7 +8667,6 @@ handelt, bei deren Herstellung ionisierende Strahlen verwendet werden.
 Information ergreift die notwendigen Maßnahmen, damit Daten nur den
 dazu befugten Personen übermittelt werden und nur diese Zugang zu
 diesen Daten erhalten.
-
 
 ### § 68 Mitteilungs- und Unterrichtungspflichten
 
@@ -8923,7 +8766,6 @@ gewährleistet ist. Personenbezogene Daten dürfen auch dann übermittelt
 werden, wenn beim Empfänger kein angemessener Datenschutzstandard
 gewährleistet ist, soweit dies aus Gründen des Gesundheitsschutzes
 erforderlich ist.
-
 
 ### § 69 Maßnahmen der zuständigen Behörden
 
@@ -9057,7 +8899,6 @@ Arzneimittel behandelt werden, während einer Übergangszeit gestatten,
 wenn dies medizinisch vertretbar und für die betroffene Person
 angezeigt ist.
 
-
 ### § 69a Überwachung von Stoffen, die als Tierarzneimittel verwendet werden können
 
 Die §§ 64 bis 69 gelten entsprechend für die in § 59c genannten
@@ -9068,7 +8909,6 @@ der Verordnung (EU) Nr. 37/2010 der Kommission vom 22. Dezember 2009
 der Rückstandshöchstmengen in Lebensmitteln tierischen Ursprungs (ABl.
 L 15 vom 20.1.2010, S. 1) in der jeweils geltenden Fassung aufgeführt
 sind, herstellen, lagern, einführen oder in den Verkehr bringen.
-
 
 ### § 69b Verwendung bestimmter Daten
 
@@ -9084,10 +8924,7 @@ Die Frist beginnt mit Ablauf desjenigen Jahres, in dem die Daten
 löschen, sofern sie nicht auf Grund anderer Vorschriften länger
 aufbewahrt werden dürfen.
 
-
 ## Zwölfter Abschnitt - Sondervorschriften für Bundeswehr, Bundespolizei, Bereitschaftspolizei, Zivilschutz
-
-
 
 ### § 70 Anwendung und Vollzug des Gesetzes
 
@@ -9104,7 +8941,6 @@ Bundespolizei. Im Bereich der Arzneimittelbevorratung für den
 Zivilschutz obliegt er den vom Bundesministerium des Innern bestimmten
 Stellen; soweit Landesstellen bestimmt werden, bedarf es hierzu der
 Zustimmung des Bundesrates.
-
 
 ### § 71 Ausnahmen
 
@@ -9137,10 +8973,7 @@ Bereich der Bereitschaftspolizeien der Länder oder des
 Katastrophenschutzes berührt, ergeht sie im Einvernehmen mit dem
 Bundesministerium des Innern mit Zustimmung des Bundesrates.
 
-
 ## Dreizehnter Abschnitt - Einfuhr und Ausfuhr
-
-
 
 ### § 72 Einfuhrerlaubnis
 
@@ -9192,10 +9025,6 @@ vorhanden sind.
 4.  Wirkstoffe, die für die Herstellung von nach einer im Homöopathischen
     Teil des Arzneibuches beschriebenen Verfahrenstechnik herzustellenden
     Arzneimitteln bestimmt sind.
-
-
-
-
 
 ### § 72a Zertifikate
 
@@ -9318,7 +9147,6 @@ nach § 14 durchzuführenden Prüfungen und der Möglichkeit einer
 
 (4) (weggefallen)
 
-
 ### § 72b Einfuhrerlaubnis und Zertifikate für Gewebe und bestimmte Gewebezubereitungen
 
 (1) Wer Gewebe im Sinne von § 1a Nr. 4 des Transplantationsgesetzes
@@ -9381,7 +9209,6 @@ geregelt ist.
 
 (5) Die Absätze 1 bis 4 gelten entsprechend für autologes Blut für die
 Herstellung von biotechnologisch bearbeiteten Gewebeprodukten.
-
 
 ### § 73 Verbringungsverbot
 
@@ -9671,7 +9498,6 @@ ausgestellt hat.
 ist oder eine Apotheke betreibt, das Bestehen der Deckungsvorsorge
 nach § 94 nachzuweisen.
 
-
 ### § 73a Ausfuhr
 
 (1) Abweichend von den §§ 5 und 8 Abs. 1 dürfen die dort bezeichneten
@@ -9691,7 +9517,6 @@ Arzneimittelgesetzes hat, ein Zertifikat entsprechend dem
 Zertifikatsystem der Weltgesundheitsorganisation aus. Wird der Antrag
 von der zuständigen Behörde des Bestimmungslandes gestellt, ist vor
 Erteilung des Zertifikats die Zustimmung des Herstellers einzuholen.
-
 
 ### § 74 Mitwirkung von Zolldienststellen
 
@@ -9735,10 +9560,7 @@ Ernährung, Landwirtschaft und Verbraucherschutz, soweit es sich um
 Arzneimittel und Wirkstoffe handelt, die zur Anwendung bei Tieren
 bestimmt sind.
 
-
 ## Vierzehnter Abschnitt - Informationsbeauftragter, Pharmaberater
-
-
 
 ### § 74a Informationsbeauftragter
 
@@ -9768,7 +9590,6 @@ Stufenplanbeauftragter sein.
 Informationsbeauftragten und jeden Wechsel vorher mitzuteilen. Bei
 einem unvorhergesehenen Wechsel des Informationsbeauftragten hat die
 Mitteilung unverzüglich zu erfolgen.
-
 
 ### § 75 Sachkenntnis
 
@@ -9802,7 +9623,6 @@ abgeschlossene Ausbildung als ausreichend anerkennen, die einer der
 Ausbildungen der in Absatz 2 genannten Personen mindestens
 gleichwertig ist.
 
-
 ### § 76 Pflichten
 
 (1) Der Pharmaberater hat, soweit er Angehörige der Heilberufe über
@@ -9819,10 +9639,7 @@ Mustern sowie über Art, Umfang und Zeitpunkt der Abgabe von Mustern
 Nachweise zu führen und auf Verlangen der zuständigen Behörde
 vorzulegen.
 
-
 ## Fünfzehnter Abschnitt - Bestimmung der zuständigen Bundesoberbehörden und sonstige Bestimmungen
-
-
 
 ### § 77 Zuständige Bundesoberbehörde
 
@@ -9853,7 +9670,6 @@ Arzneimittel und Medizinprodukte und des Paul-Ehrlich-Instituts zu
 Entwicklungen Rechnung zu tragen oder wenn Gründe der gleichmäßigen
 Arbeitsauslastung eine solche Änderung erfordern.
 
-
 ### § 77a Unabhängigkeit und Transparenz
 
 (1) Die zuständigen Bundesoberbehörden und die zuständigen Behörden
@@ -9870,7 +9686,6 @@ machen die zuständigen Bundesoberbehörden und die zuständigen Behörden
 die Geschäftsordnungen ihrer Ausschüsse, die Tagesordnungen sowie die
 Ergebnisprotokolle ihrer Sitzungen öffentlich zugänglich; dabei sind
 Betriebs-, Dienst- und Geschäftsgeheimnisse zu wahren.
-
 
 ### § 78 Preise
 
@@ -9948,7 +9763,6 @@ Arzneimittel, die aus für diesen Zweck entsprechend bevorrateten
 Wirkstoffen in Apotheken hergestellt und in diesen Fällen abgegeben
 werden. In diesen Fällen gilt Absatz 2 Satz 2 auf Länderebene.
 
-
 ### § 79 Ausnahmeermächtigungen für Krisenzeiten
 
 (1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem
@@ -10006,7 +9820,6 @@ Umwelt, Naturschutz und Reaktorsicherheit, soweit es sich um
 radioaktive Arzneimittel und um Arzneimittel handelt, bei deren
 Herstellung ionisierende Strahlen verwendet werden.
 
-
 ### § 80 Ermächtigung für Verfahrens- und Härtefallregelungen
 
 Das Bundesministerium wird ermächtigt, durch Rechtsverordnung, die
@@ -10061,12 +9874,10 @@ dem Bundesministerium für Ernährung, Landwirtschaft und
 Verbraucherschutz, soweit es sich um Arzneimittel handelt, die zur
 Anwendung bei Tieren bestimmt sind.
 
-
 ### § 81 Verhältnis zu anderen Gesetzen
 
 Die Vorschriften des Betäubungsmittel- und Atomrechts und des
 Tierschutzgesetzes bleiben unberührt.
-
 
 ### § 82 Allgemeine Verwaltungsvorschriften
 
@@ -10080,7 +9891,6 @@ Einvernehmen mit dem Bundesministerium für Ernährung, Landwirtschaft
 und Verbraucherschutz, soweit es sich um Arzneimittel handelt, die zur
 Anwendung bei Tieren bestimmt sind.
 
-
 ### § 83 Angleichung an das Recht der Europäischen Union
 
 (1) Rechtsverordnungen oder allgemeine Verwaltungsvorschriften nach
@@ -10092,7 +9902,6 @@ Gemeinschaft oder der Europäischen Union, die Sachbereiche dieses
 Gesetzes betreffen, erforderlich ist.
 
 (2) (weggefallen)
-
 
 ### § 83a Rechtsverordnungen in bestimmten Fällen
 
@@ -10107,10 +9916,7 @@ sind, tritt an die Stelle des Bundesministeriums das Bundesministerium
 für Ernährung, Landwirtschaft und Verbraucherschutz, das die
 Rechtsverordnung im Einvernehmen mit dem Bundesministerium erlässt.
 
-
 ## Sechzehnter Abschnitt - Haftung für Arzneimittelschäden
-
-
 
 ### § 84 Gefährdungshaftung
 
@@ -10159,7 +9965,6 @@ Satz 2 Nr. 1 ist ausgeschlossen, wenn nach den Umständen davon
 auszugehen ist, dass die schädlichen Wirkungen des Arzneimittels ihre
 Ursache nicht im Bereich der Entwicklung und Herstellung haben.
 
-
 ### § 84a Auskunftsanspruch
 
 (1) Liegen Tatsachen vor, die die Annahme begründen, dass ein
@@ -10187,12 +9992,10 @@ einem überwiegenden Interesse des pharmazeutischen Unternehmers oder
 eines Dritten entspricht. Ansprüche nach dem
 Informationsfreiheitsgesetz bleiben unberührt.
 
-
 ### § 85 Mitverschulden
 
 Hat bei der Entstehung des Schadens ein Verschulden des Geschädigten
 mitgewirkt, so gilt § 254 des Bürgerlichen Gesetzbuchs.
-
 
 ### § 86 Umfang der Ersatzpflicht bei Tötung
 
@@ -10214,7 +10017,6 @@ zur Gewährung des Unterhalts verpflichtet gewesen sein würde. Die
 Ersatzpflicht tritt auch dann ein, wenn der Dritte zur Zeit der
 Verletzung erzeugt, aber noch nicht geboren war.
 
-
 ### § 87 Umfang der Ersatzpflicht bei Körperverletzung
 
 Im Falle der Verletzung des Körpers oder der Gesundheit ist der
@@ -10225,7 +10027,6 @@ Erwerbsfähigkeit aufgehoben oder gemindert oder eine Vermehrung seiner
 Bedürfnisse eingetreten ist. In diesem Fall kann auch wegen des
 Schadens, der nicht Vermögensschaden ist, eine billige Entschädigung
 in Geld verlangt werden.
-
 
 ### § 88 Höchstbeträge
 
@@ -10248,7 +10049,6 @@ zu leistenden Entschädigungen die dort vorgesehenen Höchstbeträge, so
 verringern sich die einzelnen Entschädigungen in dem Verhältnis, in
 welchem ihr Gesamtbetrag zu dem Höchstbetrag steht.
 
-
 ### § 89 Schadensersatz durch Geldrenten
 
 (1) Der Schadensersatz wegen Aufhebung oder Minderung der
@@ -10267,11 +10067,9 @@ Vermögensverhältnisse des Verpflichteten sich erheblich verschlechtert
 haben; unter der gleichen Voraussetzung kann er eine Erhöhung der in
 dem Urteil bestimmten Sicherheit verlangen.
 
-
 ### § 90
 
 (weggefallen)
-
 
 ### § 91 Weitergehende Haftung
 
@@ -10280,13 +10078,11 @@ Ersatzpflichtiger im weiteren Umfang als nach den Vorschriften dieses
 Abschnitts haftet oder nach denen ein anderer für den Schaden
 verantwortlich ist.
 
-
 ### § 92 Unabdingbarkeit
 
 Die Ersatzpflicht nach diesem Abschnitt darf im Voraus weder
 ausgeschlossen noch beschränkt werden. Entgegenstehende Vereinbarungen
 sind nichtig.
-
 
 ### § 93 Mehrere Ersatzpflichtige
 
@@ -10295,7 +10091,6 @@ Verhältnis der Ersatzpflichtigen zueinander hängt die Verpflichtung
 zum Ersatz sowie der Umfang des zu leistenden Ersatzes von den
 Umständen, insbesondere davon ab, inwieweit der Schaden vorwiegend von
 dem einen oder dem anderen Teil verursacht worden ist.
-
 
 ### § 94 Deckungsvorsorge
 
@@ -10351,7 +10146,6 @@ Versicherungsvertragsgesetzes ist die für die Durchführung der
 (5) Die Bundesrepublik Deutschland und die Länder sind zur
 Deckungsvorsorge gemäß Absatz 1 nicht verpflichtet.
 
-
 ### § 94a Örtliche Zuständigkeit
 
 (1) Für Klagen, die auf Grund des § 84 oder des § 84a Abs. 1 erhoben
@@ -10363,10 +10157,7 @@ solchen seinen gewöhnlichen Aufenthaltsort hat.
 Zuständigkeit der Gerichte eines ausländischen Staates nach § 328 Abs.
 1 Nr. 1 der Zivilprozessordnung außer Betracht.
 
-
 ## Siebzehnter Abschnitt - Straf- und Bußgeldvorschriften
-
-
 
 ### § 95 Strafvorschriften
 
@@ -10491,7 +10282,6 @@ der Regel vor, wenn der Täter
 
 (4) Handelt der Täter in den Fällen des Absatzes 1 fahrlässig, so ist
 die Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
-
 
 ### § 96 Strafvorschriften
 
@@ -10658,13 +10448,6 @@ bestraft, wer
         Richtlinie 2004/28/EG des Europäischen Parlaments und des Rates vom
         31\. März 2004 (ABl. EU Nr. L 136 S. 58), eine Angabe nicht richtig
         oder nicht vollständig beifügt.
-
-
-
-
-
-
-
 
 ### § 97 Bußgeldvorschriften
 
@@ -11052,14 +10835,12 @@ Satz 1, § 63c Absatz 2, § 63h Absatz 2, 3 und 4, § 63i Absatz 2 Satz
 1, des Absatzes 2 Nummer 7a, 9a und 24e bis 24q und der Absätze 2a bis
 2c die nach § 77 zuständige Bundesoberbehörde.
 
-
 ### § 98 Einziehung
 
 Gegenstände, auf die sich eine Straftat nach § 95 oder § 96 oder eine
 Ordnungswidrigkeit nach § 97 bezieht, können eingezogen werden. § 74a
 des Strafgesetzbuches und § 23 des Gesetzes über Ordnungswidrigkeiten
 sind anzuwenden.
-
 
 ### § 98a Erweiterter Verfall
 
@@ -11070,21 +10851,15 @@ anzuwenden, wenn der Täter gewerbsmäßig oder als Mitglied einer Bande,
 die sich zur fortgesetzten Begehung solcher Taten verbunden hat,
 handelt.
 
-
 ## Achtzehnter Abschnitt - Überleitungs- und Übergangsvorschriften
 
-
-
 ### Erster Unterabschnitt - Überleitungsvorschriften aus Anlass des Gesetzes zur Neuordnung des Arzneimittelrechts
-
-
 
 #### § 99 Arzneimittelgesetz 1961
 
 Arzneimittelgesetz 1961 im Sinne dieses Gesetzes ist das Gesetz über
 den Verkehr mit Arzneimitteln vom 16. Mai 1961 (BGBl. I S. 533),
 zuletzt geändert durch das Gesetz vom 2. Juli 1975 (BGBl. I S. 1745).
-
 
 #### § 100
 
@@ -11106,11 +10881,9 @@ seit mindestens drei Jahren befugt ausübt, jedoch nur, soweit die
 Herstellung auf bisher hergestellte oder nach der Zusammensetzung
 gleichartige Arzneimittel beschränkt bleibt.
 
-
 #### § 101
 
 (weggefallen)
-
 
 #### § 102
 
@@ -11134,11 +10907,9 @@ Jahre lang eine Tätigkeit nach § 15 Abs. 1 und 3 ausgeübt hat. Absatz
 (4) Die Absätze 2 und 3 gelten entsprechend für eine Person, die die
 Tätigkeit als Kontrollleiter ausüben will.
 
-
 #### § 102a
 
 (weggefallen)
-
 
 #### § 103
 
@@ -11152,11 +10923,9 @@ eine Zulassung nach § 25 als erteilt. Auf die Zulassung finden die §§
 
 (2) (weggefallen)
 
-
 #### § 104
 
 (weggefallen)
-
 
 #### § 105
 
@@ -11413,7 +11182,6 @@ bestimmte Arzneimittel, die keine Fertigarzneimittel sind, soweit sie
 der Pflicht zur Zulassung oder Registrierung unterliegen und sich am
 1\. Januar 1978 im Verkehr befinden.
 
-
 #### § 105a
 
 (1) (weggefallen)
@@ -11432,7 +11200,6 @@ Arzneimittel durch Auflage nach § 28 Abs. 2 Nr. 3 angeordnet ist.
 Anwendung bei Tieren bestimmt sind oder die in die Zuständigkeit des
 Paul-Ehrlich-Instituts fallen.
 
-
 #### § 105b
 
 Der Anspruch auf Zahlung von Kosten, die nach § 33 Abs. 1 in
@@ -11443,21 +11210,17 @@ zu erheben sind, verjährt mit Ablauf des vierten Jahres nach der
 Bekanntgabe der abschließenden Entscheidung über die Verlängerung der
 Zulassung oder die Registrierung an den Antragsteller.
 
-
 #### § 106
 
 (weggefallen)
-
 
 #### § 107
 
 (weggefallen)
 
-
 #### § 108
 
 (weggefallen)
-
 
 #### § 108a
 
@@ -11469,11 +11232,9 @@ freigegeben ist, gilt in dem in Artikel 3 des Einigungsvertrages
 genannten Gebiet als freigegeben im Sinne des § 32 Abs. 1 Satz 1. Auf
 die Freigabe findet § 32 Abs. 5 entsprechende Anwendung.
 
-
 #### § 108b
 
 (weggefallen)
-
 
 #### § 109
 
@@ -11524,7 +11285,6 @@ Rahmen einer Zulassung nach § 25 Abs. 1 oder eines nach § 25 Abs. 7
 Satz 1 in der vor dem 17. August 1994 geltenden Fassung bekannt
 gemachten Ergebnisses halten.
 
-
 #### § 109a
 
 (1) Für die in § 109 Abs. 3 genannten Arzneimittel sowie für
@@ -11573,7 +11333,6 @@ Zulassung zu versagen wäre, weil ein nach § 25 Abs. 7 Satz 1 in der
 vor dem 17. August 1994 geltenden Fassung bekannt gemachtes Ergebnis
 zum Nachweis der Wirksamkeit nicht mehr anerkannt werden kann.
 
-
 #### § 110
 
 Bei Arzneimitteln, die nach § 21 der Pflicht zur Zulassung oder nach §
@@ -11583,11 +11342,9 @@ Auflagen Warnhinweise anordnen, soweit es erforderlich ist, um bei der
 Anwendung des Arzneimittels eine unmittelbare oder mittelbare
 Gefährdung von Mensch oder Tier zu verhüten.
 
-
 #### § 111
 
 (weggefallen)
-
 
 #### § 112
 
@@ -11599,7 +11356,6 @@ Berufsausübung im Einzelhandel vom 5. August 1957 (BGBl. I S. 1121),
 geändert durch Artikel 150 Abs. 2 Nr. 15 des Gesetzes vom 24. Mai 1968
 (BGBl. I S. 503), dazu berechtigt war.
 
-
 #### § 113
 
 Arzneimittel dürfen abweichend von § 58 Abs. 1 angewendet werden, wenn
@@ -11607,18 +11363,15 @@ aus der Kennzeichnung oder den Begleitpapieren hervorgeht, dass das
 Arzneimittel nach § 105 Abs. 1 weiter in den Verkehr gebracht werden
 darf.
 
-
 #### § 114
 
 (weggefallen)
-
 
 #### § 115
 
 Eine Person, die am 1. Januar 1978 die Tätigkeit eines Pharmaberaters
 nach § 75 ausübt, bedarf des dort vorgeschriebenen
 Ausbildungsnachweises nicht.
-
 
 #### § 116
 
@@ -11627,17 +11380,14 @@ Herstellung sowie zur Abgabe von Arzneimitteln an die von ihnen
 behandelten Personen berechtigt sind, dürfen diese Tätigkeit im
 bisherigen Umfang weiter ausüben. § 78 findet Anwendung.
 
-
 #### § 117
 
 (weggefallen)
-
 
 #### § 118
 
 § 84 gilt nicht für Schäden, die durch Arzneimittel verursacht werden,
 die vor dem 1. Januar 1978 abgegeben worden sind.
-
 
 #### § 119
 
@@ -11653,18 +11403,15 @@ anordnen, soweit es erforderlich ist, um bei der Anwendung des
 Arzneimittels eine unmittelbare oder mittelbare Gefährdung von Mensch
 oder Tier zu verhüten.
 
-
 #### § 120
 
 Bei einer klinischen Prüfung, die bei Wirksamwerden des Beitritts in
 dem in Artikel 3 des Einigungsvertrages genannten Gebiet durchgeführt
 wird, ist die Versicherung nach § 40 Abs. 1 Nr. 8 abzuschließen.
 
-
 #### § 121
 
 (weggefallen)
-
 
 #### § 122
 
@@ -11673,7 +11420,6 @@ und für Personen in dem in Artikel 3 des Einigungsvertrages genannten
 Gebiet, die bereits bei Wirksamwerden des Beitritts eine Tätigkeit im
 Sinne jener Vorschrift ausüben.
 
-
 #### § 123
 
 Die erforderliche Sachkenntnis als Pharmaberater nach § 75 Abs. 2 Nr.
@@ -11681,17 +11427,13 @@ Die erforderliche Sachkenntnis als Pharmaberater nach § 75 Abs. 2 Nr.
 genannten Gebiet eine Ausbildung als Pharmazieingenieur,
 Apothekenassistent oder Veterinäringenieur abgeschlossen hat.
 
-
 #### § 124
 
 Die §§ 84 bis 94a sind nicht auf Arzneimittel anwendbar, die in dem in
 Artikel 3 des Einigungsvertrages genannten Gebiet vor Wirksamwerden
 des Beitritts an den Verbraucher abgegeben worden sind.
 
-
 ### Zweiter Unterabschnitt - Übergangsvorschriften aus Anlass des Ersten Gesetzes zur Änderung des Arzneimittelgesetzes
-
-
 
 #### § 125
 
@@ -11711,7 +11453,6 @@ Kontrollmethode nach Absatz 1 bestimmt worden und werden Unterlagen
 nicht vorgelegt oder entsprechen sie nicht den Anforderungen des § 23
 Abs. 2 Satz 3, kann die Zulassung widerrufen werden.
 
-
 #### § 126
 
 Für Arzneimittel, die zur Anwendung bei Tieren bestimmt sind und die
@@ -11719,10 +11460,7 @@ bei Wirksamwerden des Beitritts in dem in Artikel 3 des
 Einigungsvertrages genannten Gebiet zugelassen sind, gilt § 125 Abs. 1
 und 3 entsprechend.
 
-
 ### Dritter Unterabschnitt - Übergangsvorschriften aus Anlass des Zweiten Gesetzes zur Änderung des Arzneimittelgesetzes
-
-
 
 #### § 127
 
@@ -11745,7 +11483,6 @@ den Kennzeichnungsvorschriften des § 10 Abs. 1a unterliegen, dürfen
 vom pharmazeutischen Unternehmer noch bis zum 31. Dezember 1988, von
 Groß- und Einzelhändlern auch nach diesem Zeitpunkt ohne die Angaben
 nach § 10 Abs. 1a in den Verkehr gebracht werden.
-
 
 #### § 128
 
@@ -11770,7 +11507,6 @@ den Verkehr gebracht werden, bei denen die Packungsbeilage nicht den
 Vorschriften des § 11 Abs. 1 in der Fassung des Zweiten Gesetzes zur
 Änderung des Arzneimittelgesetzes entspricht.
 
-
 #### § 129
 
 § 11 Abs. 1a findet auf Arzneimittel, die sich am 1. Februar 1987 im
@@ -11778,13 +11514,11 @@ Verkehr befinden, mit der Maßgabe Anwendung, dass ihre Packungsbeilage
 nach der nächsten Verlängerung der Zulassung oder Registrierung der
 zuständigen Behörde zu übersenden ist.
 
-
 #### § 130
 
 Wer am 1. Februar 1987 als privater Sachverständiger zur Untersuchung
 von Proben nach § 65 Abs. 2 bestellt ist, darf diese Tätigkeit im
 bisherigen Umfang weiter ausüben.
-
 
 #### § 131
 
@@ -11793,10 +11527,7 @@ Fachinformation nach § 11a gilt § 128 für Arzneimittel, die sich bei
 Wirksamwerden des Beitritts in dem in Artikel 3 des Einigungsvertrages
 genannten Gebiet in Verkehr befinden, entsprechend.
 
-
 ### Vierter Unterabschnitt - Übergangsvorschriften aus Anlass des Fünften Gesetzes zur Änderung des Arzneimittelgesetzes
-
-
 
 #### § 132
 
@@ -11852,10 +11583,7 @@ Arzneimittel, deren Verdünnungsgrad die sechste Dezimalpotenz
 unterschreitet, sofern sie gemäß Satz 1 oder 2 registriert worden oder
 sie von der Registrierung freigestellt sind.
 
-
 ### Fünfter Unterabschnitt - Übergangsvorschrift aus Anlass des Siebten Gesetzes zur Änderung des Arzneimittelgesetzes
-
-
 
 #### § 133
 
@@ -11864,10 +11592,7 @@ Die Anzeigepflicht nach § 67 in Verbindung mit § 69a gilt für die in §
 März 1998 eine Tätigkeit im Sinne des § 59c ausüben mit der Maßgabe,
 dass die Anzeige spätestens bis zum 1. April 1998 zu erfolgen hat.
 
-
 ### Sechster Unterabschnitt - Übergangsvorschriften aus Anlass des Transfusionsgesetzes
-
-
 
 #### § 134
 
@@ -11882,10 +11607,7 @@ Separation von Blutstammzellen oder anderen Blutbestandteilen nach dem
 Stand von Wissenschaft und Technik ausübt, darf diese Tätigkeit weiter
 ausüben.
 
-
 ### Siebter Unterabschnitt - Übergangsvorschriften aus Anlass des Achten Gesetzes zur Änderung des Arzneimittelgesetzes
-
-
 
 #### § 135
 
@@ -11921,10 +11643,7 @@ Vorschriften entsprechen.
 Einwilligungserklärungen, die vor dem 11. September 1998 abgegeben
 worden sind.
 
-
 ### Achter Unterabschnitt - Übergangsvorschriften aus Anlass des Zehnten Gesetzes zur Änderung des Arzneimittelgesetzes
-
-
 
 #### § 136
 
@@ -11960,10 +11679,7 @@ Arzneibuches beschriebenen Verfahrenstechnik hergestellt worden sind,
 gilt § 105 Abs. 5c weiter in der vor dem 12. Juli 2000 geltenden
 Fassung.
 
-
 ### Neunter Unterabschnitt - Übergangsvorschriften aus Anlass des Elften Gesetzes zur Änderung des Arzneimittelgesetzes
-
-
 
 #### § 137
 
@@ -11993,10 +11709,7 @@ Abweichend von Satz 2 Nr. 2 darf im Fütterungsarzneimittel nur eine
 antibiotikahaltige Arzneimittel-Vormischung enthalten sein, sofern
 diese zwei oder mehr antibiotisch wirksame Stoffe enthält.
 
-
 ### Zehnter Unterabschnitt - Übergangsvorschriften aus Anlass des Zwölften Gesetzes zur Änderung des Arzneimittelgesetzes
-
-
 
 #### § 138
 
@@ -12056,10 +11769,7 @@ die von pharmazeutischen Unternehmern gemäß Satz 1 in den Verkehr
 gebracht worden sind, dürfen abweichend von § 10 Abs. 1b von Groß- und
 Einzelhändlern weiterhin in den Verkehr gebracht werden.
 
-
 ### Elfter Unterabschnitt - Übergangsvorschriften aus Anlass des Ersten Gesetzes zur Änderung des Transfusionsgesetzes und arzneimittelrechtlicher Vorschriften
-
-
 
 #### § 139
 
@@ -12071,10 +11781,7 @@ Blutstammzellenzubereitungen ausübt und die Voraussetzungen des § 15
 Abs. 3 in der bis zu diesem Zeitpunkt geltenden Fassung erfüllt, darf
 diese Tätigkeit weiter ausüben.
 
-
 ### Zwölfter Unterabschnitt - Übergangsvorschriften aus Anlass des Dreizehnten Gesetzes zur Änderung des Arzneimittelgesetzes
-
-
 
 #### § 140
 
@@ -12084,10 +11791,7 @@ Tieren, die nicht der Gewinnung von Lebensmitteln dienen, noch bis zum
 Regelungen in den Geltungsbereich dieses Gesetzes verbracht,
 verschrieben, abgegeben und angewandt werden.
 
-
 ### Dreizehnter Unterabschnitt - Übergangsvorschriften aus Anlass des Vierzehnten Gesetzes zur Änderung des Arzneimittelgesetzes
-
-
 
 #### § 141
 
@@ -12201,10 +11905,7 @@ Entscheidung über den Antrag auf Zulassung oder Registrierung nach §
 39a. Nach der Entscheidung darf das Arzneimittel noch zwölf Monate in
 der bisherigen Form in den Verkehr gebracht werden.
 
-
 ### Vierzehnter Unterabschnitt -
-
-
 
 #### § 142 Übergangsvorschriften aus Anlass des Gewebegesetzes
 
@@ -12228,10 +11929,7 @@ von § 20b Abs. 1 oder § 20c Abs. 1 eine Herstellungserlaubnis nach §
 Zulassung nach § 21 Abs. 1 besitzt, muss keinen neuen Antrag nach §
 20b Abs. 1, § 20c Abs. 1 oder § 21a Abs. 1 stellen.
 
-
 ### Fünfzehnter Unterabschnitt -
-
-
 
 #### § 143 Übergangsvorschriften aus Anlass des Gesetzes zur Verbesserung der Bekämpfung des Dopings im Sport
 
@@ -12264,10 +11962,7 @@ gebracht werden.
 (4) Die in Absatz 1 und 2 genannten Fristen gelten entsprechend für
 die Anpassung des Wortlauts der Fachinformation.
 
-
 ### Sechzehnter Unterabschnitt - Übergangsvorschriften aus Anlass des Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften
-
-
 
 #### § 144
 
@@ -12321,10 +12016,7 @@ nach den §§ 13, 20b oder § 20c bedarf, und bis zum 1. August 2011 die
 Erlaubnis beantragt hat, darf diese Tätigkeit bis zur Entscheidung
 über den Antrag weiter ausüben.
 
-
 ### Siebzehnter Unterabschnitt -
-
-
 
 #### § 145 Übergangsvorschriften aus Anlass des Gesetzes zur Neuordnung des Arzneimittelmarktes
 
@@ -12336,10 +12028,7 @@ Bundesoberbehörde zur Verfügung zu stellen. Satz 1 findet Anwendung
 für klinische Prüfungen, für die die §§ 40 bis 42 in der ab dem 6.
 August 2004 geltenden Fassung Anwendung gefunden haben.
 
-
 ### Achtzehnter Unterabschnitt - Übergangsvorschrift
-
-
 
 #### § 146 Übergangsvorschriften aus Anlass des Zweiten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften
 

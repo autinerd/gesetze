@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 2703
 
-
 ## Eingangsformel
 
 Auf Grund des § 63a Absatz 1 und 2 Nummer 3 des Erneuerbare-Energien-
@@ -27,7 +26,6 @@ der zuletzt durch Artikel 4 des Gesetzes vom 17. August 2012 (BGBl. I
 S. 1754) geändert worden ist, und dem 2. und 3. Abschnitt des
 Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821),
 verordnet das Umweltbundesamt:
-
 
 ## § 1 Gebühren und Auslagen
 
@@ -53,11 +51,9 @@ gesamten Kalendermonate, in denen die Registerteilnehmerin oder der
 Registerteilnehmer kein Konto bei der Registerverwaltung geführt hat,
 zu zwölf Kalendermonaten.
 
-
 ## § 2 Inkrafttreten
 
 Diese Verordnung tritt am 31. Dezember 2012 in Kraft.
-
 
 ## Anlage (zu § 1 Absatz 1) Gebührenverzeichnis
 

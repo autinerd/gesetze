@@ -19,8 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 35 G v. 17.12.2008 I 2586
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 44 der Verordnung über Maßnahmen auf dem Gebiete der
@@ -28,7 +26,6 @@ Gerichtsverfassung und der Rechtspflege vom 1. September 1939
 (Reichsgesetzbl. I S. 1658) und des § 10 der Verordnung über weitere
 Maßnahmen auf dem Gebiete der Zwangsvollstreckung vom 31. Oktober 1939
 (Reichsgesetzbl. I S. 2139) wird verordnet:
-
 
 ## § 1
 
@@ -47,14 +44,12 @@ Notar unter Angabe von Ort und Zeit zu unterschreiben. Wird die
 Ersatzurkunde den Beteiligten ausgehändigt, so ist sie überdies mit
 dem Siegel oder Stempel des Gerichts oder Notars zu versehen.
 
-
 ## § 2
 
 Das Gericht kann von Amts wegen oder auf Ersuchen eines Notars, bei
 dem ein Verfahren nach § 1 schwebt, dem Besitzer von Ausfertigungen
 oder beglaubigten Abschriften aufgeben, diese dem Gericht zur Einsicht
 vorzulegen.
-
 
 ## § 3
 
@@ -74,7 +69,6 @@ ersuchen. Dem Amtsgericht ist auch die Entscheidung darüber
 vorbehalten, ob die Verweigerung der Aussage oder der Abgabe eines
 Gutachtens gerechtfertigt ist.
 
-
 ## § 4
 
 (1) Für die Ersetzung der Urschrift nach den §§ 1 und 3 ist das
@@ -86,7 +80,6 @@ verwahrt werden.
 (2) Hat ein Urkundsbeamter der Geschäftsstelle die Urkunde aufgenommen
 oder ausgestellt oder die Entscheidung erlassen, so ist er auch für
 die Ersetzung der Urschrift zuständig.
-
 
 ## § 5
 
@@ -101,7 +94,6 @@ zuzustellen.
 
 (3) Wer Beteiligter ist, bestimmt das Gericht oder der Notar nach
 freiem Ermessen.
-
 
 ## § 6
 
@@ -131,7 +123,6 @@ entsprechen will, dem Beschwerdegericht vorzulegen.
 (4) Gegen die Entscheidung des Beschwerdegerichts ist ein weiteres
 Rechtsmittel nicht zulässig.
 
-
 ## § 7
 
 (1) Das Verfahren nach den §§ 1 und 3 ist gebührenfrei. Für die den
@@ -148,7 +139,6 @@ Notargebühren nur in Höhe eines Drittels erhoben. Dies gilt nicht,
 soweit die ursprünglichen Erklärungen in wesentlichen Punkten ergänzt
 oder geändert werden.
 
-
 ## § 8
 
 Das Amtsgericht ist auch zuständig, Urkunden, die von Dienststellen
@@ -157,17 +147,14 @@ oder ausgestellt sind und sich in dauernder gerichtlicher Verwahrung
 befinden, in gleicher Weise wie Urkunden, die das Amtsgericht selbst
 aufgenommen oder ausgestellt hat, wiederherzustellen.
 
-
 ## § 9
 
 Die Vorschriften zur Ausführung dieser Verordnung werden im
 Verwaltungsweg erlassen.
 
-
 ## § 10
 
 -
-
 
 ## Schlußformel
 

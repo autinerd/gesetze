@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1991, 1926
 
-
-
 ## (XXXX)
 
 

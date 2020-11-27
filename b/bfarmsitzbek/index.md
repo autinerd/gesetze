@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1999, 2073
 
-
-
 ## (XXXX)
 
 Das Bundesministerium für Gesundheit gibt gemäß § 9 Nr. 3 des Berlin

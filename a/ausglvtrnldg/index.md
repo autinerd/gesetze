@@ -17,13 +17,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1963, 458
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -33,7 +30,6 @@ Regelung von Grenzfragen und anderen zwischen beiden Ländern
 bestehenden Problemen (Ausgleichsvertrag) und den beigefügten
 Briefwechseln wird zugestimmt. Der Vertrag und die beigefügten
 Briefwechsel werden nachstehend veröffentlicht.
-
 
 ## Art 2
 
@@ -52,14 +48,12 @@ die Artikel 24, 25 und 30 des Grenzvertrags sinngemäß Anwendung.
 (3) Mit dem Inkrafttreten des deutschen Rechts nach den Absätzen 1 und
 2 tritt das niederländische Recht außer Kraft.
 
-
 ## Art 3
 
 Die Bundesregierung wird ermächtigt, ohne Zustimmung des Bundesrates
 die Rechtsverordnungen zu erlassen, die zur Durchführung der in
 Artikel 2 des Grenzvertrags und in § 33 der Anlage A zum Grenzvertrag
 vorgesehenen späteren Änderungen des Grenzverlaufs erforderlich sind.
-
 
 ## Art 4
 
@@ -94,7 +88,6 @@ Rechtsverordnung
 
 (2) Die Landesregierung kann die Ermächtigung auf die
 Landesjustizverwaltung übertragen.
-
 
 ## Art 5
 
@@ -209,14 +202,12 @@ den nach Artikel 2 des Grenzvertrags und nach § 33 der Anlage A des
 Grenzvertrags einzugliedernden Gebietsteilen befinden, gelten die
 Absätze 1 bis 3 entsprechend.
 
-
 ## Art 6
 
 Für die Ausfuhr der Gegenstände, die auf Grund des Artikels 10 Abs. 3
 des Grenzvertrags aus abgabenfrei eingeführten Rohstoffen und
 Halberzeugnissen hergestellt worden sind, beträgt der Vergütungssatz
 für die Ausfuhrvergütung 0,5 v.H.
-
 
 ## Art 7
 
@@ -226,7 +217,6 @@ den in Artikel 55 Abs. 2 des Grenzvertrags bezeichneten
 Steinkohlenfeldern gewonnen worden sind, so werden
 Umsatzsteuervergütungen wegen Ausfuhr nicht gewährt.
 
-
 ## Art 8
 
 Die in Artikel 50 Abs. 2 Satz 3 des Grenzvertrags genannten Bauten und
@@ -234,11 +224,9 @@ Anlagen jeder Art in einer Entfernung von 40 Metern von den
 Kronenkanten der Straße bedürfen auch der Genehmigung des zuständigen
 Hauptzollamts.
 
-
 ## Art 9
 
 -
-
 
 ## Art 10
 
@@ -247,7 +235,6 @@ Anwendung dieses Gesetzes feststellt. Rechtsverordnungen, die auf
 Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14
 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I
 S. 1).
-
 
 ## Art 11
 

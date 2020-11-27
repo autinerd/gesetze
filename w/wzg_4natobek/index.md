@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1966, 390
 
-
-
 ## (XXXX)
 
 (1) Auf Grund des § 4 Abs. 2 Nr. 3a des Warenzeichengesetzes in der
@@ -57,20 +55,14 @@ Bekanntmachung vom 1. April 1964 (Bundesgesetzbl. I S. 288) und die
 
 Bekanntmachung vom 25. Juni 1964 (Bundesgesetzbl. I S. 485).
 
-
-
-
-
 ## Schlussformel
 
 Der Bundesminister der Justiz
-
 
 ## Anlage 1
 
 (Fundstelle: BGBl. I 1966, 391 - 392)
 (Inhalt: nicht darstellbare Kennzeichen)
-
 
 ## Anlage 2
 

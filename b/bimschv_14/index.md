@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1986, 380
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 59 des Bundes-Immissionsschutzgesetzes vom 15. März
@@ -24,7 +22,6 @@ Auf Grund des § 59 des Bundes-Immissionsschutzgesetzes vom 15. März
 des § 10 Abs. 11 des Bundes-Immissionsschutzgesetzes vom
 Bundesminister der Verteidigung im Einvernehmen mit dem Bundesminister
 des Innern, jeweils mit Zustimmung des Bundesrates, verordnet:
-
 
 ## § 1 Zuständigkeit
 
@@ -57,7 +54,6 @@ Landesverteidigung dienen und von den auf Grund völkerrechtlicher
 Verträge in der Bundesrepublik Deutschland stationierten Truppen
 genutzt werden.
 
-
 ## § 2 Besonderheiten des Genehmigungsverfahrens
 
 (1) Ein Genehmigungsantrag für Anlagen, die der militärischen
@@ -72,7 +68,6 @@ zwingend erforderlich ist, soll die Genehmigungsbehörde auf die
 Vorlage dieser Unterlagen ganz oder teilweise verzichten; in diesen
 Fällen gilt § 10 Abs. 2 Satz 2 des Bundes-Immissionsschutzgesetzes
 entsprechend.
-
 
 ## § 3 Inkrafttreten
 

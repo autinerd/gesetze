@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 1695
 
-
-
 ## I.
 
 Auf Grund des § 73 Abs. 1 des Berufsbildungsgesetzes vom 23. März 2005
@@ -42,7 +40,6 @@ ich im Einvernehmen mit dem Bundesministerium des Innern
 
 
 zur zuständigen Stelle für das Sekretariat des Bundesrates.
-
 
 ## II.
 

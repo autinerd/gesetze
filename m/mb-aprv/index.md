@@ -21,7 +21,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 47 G v. 6.12.2011 I 2515
 
-
 ## § 1 Ausbildung
 
 (1) Der zweijährige Lehrgang der Masseure und medizinischen
@@ -65,7 +64,6 @@ Bademeister, Krankengymnasten oder Physiotherapeuten zu
 unterschreiben, unter dessen Aufsicht die praktische Tätigkeit
 abgeleistet wurde.
 
-
 ## § 2 Staatliche Prüfung
 
 (1) Die staatliche Prüfung für den Lehrgang nach § 1 Abs. 1 umfaßt
@@ -78,7 +76,6 @@ abschließt. Die zuständige Behörde, in deren Bereich die Prüfung oder
 ein Teil der Prüfung abgelegt werden soll, kann aus wichtigem Grund
 Ausnahmen zulassen. Die Vorsitzenden der beteiligten
 Prüfungsausschüsse sind vorher zu hören.
-
 
 ## § 3 Prüfungsausschuß
 
@@ -130,7 +127,6 @@ und deren Stellvertreter für die einzelnen Fächer.
 (4) Die zuständige Behörde kann Sachverständige und Beobachter zur
 Teilnahme an allen Prüfungsvorgängen entsenden.
 
-
 ## § 4 Zulassung zur Prüfung
 
 (1) Der Vorsitzende entscheidet auf Antrag des Prüflings über die
@@ -157,7 +153,6 @@ werden.
 (4) Die besonderen Belange behinderter Prüflinge sind zur Wahrung
 ihrer Chancengleichheit bei Durchführung der Prüfungen zu
 berücksichtigen.
-
 
 ## § 5 Schriftlicher Teil der Prüfung
 
@@ -191,7 +186,6 @@ Prüfung. Der schriftliche Teil der Prüfung ist bestanden, wenn jede
 der beiden Aufsichtsarbeiten mindestens mit "ausreichend" benotet
 wird.
 
-
 ## § 6 Mündlicher Teil der Prüfung
 
 (1) Der mündliche Teil der Prüfung erstreckt sich auf folgende Fächer:
@@ -218,7 +212,6 @@ mindestens mit "ausreichend" benotet wird.
 (3) Der Vorsitzende des Prüfungsausschusses kann auf begründeten
 Antrag die Anwesenheit von Zuhörern beim mündlichen Teil der Prüfung
 gestatten.
-
 
 ## § 7 Praktischer Teil der Prüfung
 
@@ -267,13 +260,11 @@ Fächergruppe des Absatzes 1 mindestens mit "ausreichend" und dabei
 kein Fach schlechter als "mangelhaft" sowie die Prüfung nach Absatz 2
 mindestens mit "ausreichend" benotet werden.
 
-
 ## § 8 Niederschrift
 
 Über die Prüfung ist eine Niederschrift zu fertigen, aus der
 Gegenstand, Ablauf und Ergebnisse der Prüfung und etwa vorkommende
 Unregelmäßigkeiten hervorgehen.
-
 
 ## § 9 Benotung
 
@@ -305,10 +296,6 @@ mündlichen und in der praktischen Prüfung werden wie folgt benotet:
     und selbst die Grundkenntnisse so lückenhaft sind, daß die Mängel in
     absehbarer Zeit nicht behoben werden können.
 
-
-
-
-
 ## § 10 Bestehen und Wiederholung der Prüfung
 
 (1) Die Prüfung ist bestanden, wenn jeder der nach § 2 Abs. 1
@@ -339,7 +326,6 @@ Wiederholungsprüfung muß spätestens zwölf Monate nach der letzten
 Prüfung abgeschlossen sein; in begründeten Fällen kann die zuständige
 Behörde Ausnahmen zulassen.
 
-
 ## § 11 Rücktritt von der Prüfung
 
 (1) Tritt ein Prüfling nach seiner Zulassung von der Prüfung zurück,
@@ -355,7 +341,6 @@ unterläßt es der Prüfling, die Gründe für seinen Rücktritt
 unverzüglich mitzuteilen, so gilt die Prüfung als nicht bestanden. §
 10 Abs. 3 gilt entsprechend.
 
-
 ## § 12 Versäumnisfolgen
 
 (1) Versäumt ein Prüfling einen Prüfungstermin oder gibt er eine
@@ -368,7 +353,6 @@ wichtiger Grund vor, so gilt die Prüfung als nicht unternommen.
 der Vorsitzende des Prüfungsausschusses. § 11 Abs. 1 Satz 1 und 4 gilt
 entsprechend.
 
-
 ## § 13 Ordnungsverstöße und Täuschungsversuche
 
 Der Vorsitzende des Prüfungsausschusses kann bei Prüflingen, die die
@@ -380,14 +364,12 @@ Störung der Prüfung nur bis zum Abschluß der gesamten Prüfung, im
 Falle eines Täuschungsversuches nur innerhalb von drei Jahren nach
 Abschluß der Prüfung zulässig.
 
-
 ## § 14 Prüfungsunterlagen
 
 Auf Antrag ist dem Prüfungsteilnehmer nach Abschluß der Prüfung
 Einsicht in seine Prüfungsunterlagen zu gewähren. Schriftliche
 Aufsichtsarbeiten sind drei, Anträge auf Zulassung zur Prüfung und
 Prüfungsniederschriften zehn Jahre aufzubewahren.
-
 
 ## § 15 Erlaubnisurkunde
 
@@ -396,7 +378,6 @@ Physiotherapeutengesetzes für die Erteilung der Erlaubnis zur Führung
 der Berufsbezeichnung nach § 1 Nr. 1 des Gesetzes vor, so stellt die
 zuständige Behörde die Erlaubnisurkunde nach dem Muster der Anlage 5
 aus.
-
 
 ## § 16 Sonderregelungen für Inhaber von Ausbildungsnachweisen aus einem anderen Vertragsstaat des Europäischen Wirtschaftsraumes
 
@@ -468,7 +449,6 @@ Dienstleistungserbringer innerhalb der in den Sätzen 1 und 2 genannten
 Fristen keine Rückmeldung der zuständigen Behörde, darf die
 Dienstleistung erbracht werden.
 
-
 ## § 16a Frist
 
 Die zuständige Behörde bestätigt dem Antragsteller binnen eines Monats
@@ -482,7 +462,6 @@ tritt für Anträge, denen ein Ausbildungsnachweis aus einem Drittstaat,
 der nicht in einem anderen Mitgliedstaat der Europäischen Union, des
 Europäischen Wirtschaftsraums oder der Schweiz anerkannt wurde,
 zugrunde liegt, am 1. Dezember 2012 in Kraft.
-
 
 ## Anlage 1 (zu § 1 Abs. 1)
 
@@ -1723,10 +1702,6 @@ Fundstelle des Originaltextes: BGBl. I 1994, 3777 - 3781
 
     *   800
 
-
-
-
-
 ## Anlage 2 (zu § 1 Abs. 3)
 
 (Fundstelle des Originaltextes: BGBl. I 1994, 3782)
@@ -1758,7 +1733,6 @@ Ort, Datum
 (Unterschrift(en) der Schulleitung)
 ...........
 \*) Nichtzutreffendes streichen
-
 
 ## Anlage 3 (zu § 1 Abs. 6)
 
@@ -1794,7 +1768,6 @@ Krankengymnasten oder Physiotherapeuten)
 ...........
 \*) Nichtzutreffendes streichen
 
-
 ## Anlage 4 (zu § 10 Abs. 2)
 
 (Fundstelle des Originaltextes: BGBl. I 1994, 3784)
@@ -1828,7 +1801,6 @@ Ort, Datum
 ............................................
 (Unterschrift des Vorsitzenden des
 Prüfungsausschusses)
-
 
 ## Anlage 5 (zu § 15)
 

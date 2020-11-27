@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 Abs. 4 G v. 25.6.2009 I 1574
 
-
 ## Art 1 Altverträge, Allgemeine Versicherungsbedingungen
 
 (1) Auf Versicherungsverhältnisse, die bis zum Inkrafttreten des
@@ -46,10 +45,7 @@ Versicherungsvertrag, die vor dem 1. Januar 2008 begonnen haben, ist §
 12 Abs. 3 des Gesetzes über den Versicherungsvertrag auch nach dem 1.
 Januar 2008 anzuwenden.
 
-
 ## (XXXX) Art 7 bis 15 (weggefallen)
-
-
 
 ## Art 2 Vollmacht des Versicherungsvertreters, Krankenversicherung
 
@@ -66,10 +62,6 @@ Versicherungsvertragsgesetzes bereits ab 1. Januar 2008 anzuwenden:
     Kenntlichmachung der Unterschiede spätestens einen Monat vor dem
     Zeitpunkt in Textform mitgeteilt hat, zu dem die Änderungen wirksam
     werden sollen.
-
-
-
-
 
 ## Art 3 Verjährung
 
@@ -96,7 +88,6 @@ ab, ist die Verjährung mit dem Ablauf der längeren Frist vollendet.
 für die Geltendmachung oder den Erwerb oder Verlust eines Rechtes
 maßgebend sind.
 
-
 ## Art 4 Lebensversicherung, Berufsunfähigkeitsversicherung
 
 (1) § 153 des Versicherungsvertragsgesetzes ist auf Altverträge nicht
@@ -113,7 +104,6 @@ Dezember 2007 geltenden Fassung weiter anzuwenden.
 (3) Auf Altverträge über eine Berufsunfähigkeitsversicherung sind die
 §§ 172, 174 bis 177 des Versicherungsvertragsgesetzes nicht
 anzuwenden.
-
 
 ## Art 5 Rechte der Gläubiger von Grundpfandrechten
 
@@ -151,7 +141,6 @@ die Fiktion begründeten Rechte bis spätestens 31. Dezember 2008 beim
 Versicherer anzumelden. Die durch die Verordnung zur Ergänzung und
 Änderung des Gesetzes über den Versicherungsvertrag begründete Fiktion
 erlischt mit Ablauf des 31. Dezember 2008.
-
 
 ## Art 6 Versicherungsverhältnisse nach § 190 des Gesetzes über den Versicherungsvertrag
 

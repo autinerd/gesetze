@@ -18,16 +18,13 @@ Fundstelle
 Geändert durch
 :   Art. 1 G v. 2.12.2006 I 2674
 
-
 ## Art I
 
 -
 
-
 ## Art III
 
 -
-
 
 ## Art V
 

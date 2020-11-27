@@ -19,13 +19,11 @@ Fundstelle
 Geändert durch
 :   Art. 4 Abs. 4 G v. 5.5.2004 I 718
 
-
 ## Eingangsformel
 
 Auf Grund des Artikels 8 Abs. 2 und 3 des Gesetzes vom 10. Februar
 1976 zu dem Übereinkommen vom 2. Dezember 1972 über sichere Container
 (BGBl. 1976 II S. 253) wird mit Zustimmung des Bundesrates verordnet:
-
 
 ## § 1
 
@@ -40,13 +38,11 @@ Rahmen der Sätze des Gebührenverzeichnisses zu halten.
 (3) Auslagen werden gesondert erhoben, insbesondere findet das
 Justizvergütungs- und -entschädigungsgesetz Anwendung.
 
-
 ## § 2
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit Artikel 10 des Gesetzes zu dem Übereinkommen vom 2.
 Dezember 1972 über sichere Container auch im Land Berlin.
-
 
 ## § 3
 
@@ -54,11 +50,9 @@ Diese Verordnung tritt hinsichtlich der Kosten für die Zulassung der
 Container mit Wirkung vom 6. September 1977, im übrigen am Tage nach
 der Verkündung in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesminister für Verkehr
-
 
 ## Anlage zur Kostenordnung für Maßnahmen nach dem Gesetz zu dem Übereinkommen vom 2. Dezember 1972 über sichere Container
 

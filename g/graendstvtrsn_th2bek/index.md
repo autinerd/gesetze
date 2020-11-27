@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1994, 2854
 
-
-
 ## (XXXX)
 
 Zwischen dem Freistaat Sachsen und dem Freistaat Thüringen wurde am

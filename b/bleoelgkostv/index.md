@@ -19,8 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 5.2.2010 I 81
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 9 Abs. 2 Satz 2 des Öko-Landbaugesetzes vom 10. Juli
@@ -29,25 +27,21 @@ Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821) verordnet
 das Bundesministerium für Verbraucherschutz, Ernährung und
 Landwirtschaft im Einvernehmen mit dem Bundesministerium der Finanzen:
 
-
 ## § 1 Erhebung von Kosten
 
 Die Bundesanstalt für Landwirtschaft und Ernährung erhebt für
 Amtshandlungen nach § 2 Abs. 2 des Öko-Landbaugesetzes Kosten
 (Gebühren und Auslagen) nach dieser Verordnung.
 
-
 ## § 2 Gebühren
 
 Die gebührenpflichtigen Amtshandlungen und die Gebührensätze ergeben
 sich aus dem anliegenden Gebührenverzeichnis.
 
-
 ## § 3 Auslagen
 
 Vom Kostenschuldner werden die in § 10 Abs. 1 Nr. 2 bis 7 des
 Verwaltungskostengesetzes aufgeführten Auslagen erhoben.
-
 
 ## § 4 Rücknahme, Widerruf, Widerspruch
 
@@ -70,7 +64,6 @@ Betrages. Wird ein Widerspruch nach Beginn seiner sachlichen
 Bearbeitung, jedoch vor deren Beendigung zurückgenommen, beträgt die
 Gebühr höchstens 75 vom Hundert der Widerspruchsgebühr.
 
-
 ## § 5 Übergangsregelung
 
 Für Amtshandlungen, die vor dem Inkrafttreten dieser Verordnung
@@ -79,11 +72,9 @@ der §§ 3 und 4 erhoben werden, soweit die Bundesanstalt für
 Landwirtschaft und Ernährung die Erhebung der Kosten in einem
 unanfechtbaren Bescheid vorbehalten hat.
 
-
 ## § 6 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Anlage (zu § 2) Verzeichnis der Gebühren für Amtshandlungen der Bundesanstalt für Landwirtschaft und Ernährung nach § 2 Absatz 2 des Öko-Landbaugesetzes
 

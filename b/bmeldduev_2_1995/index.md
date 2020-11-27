@@ -22,13 +22,11 @@ Zuletzt geändert durch
 Mittelbare änderung durch
 :   Art. 2 V v. 23.4.2012 I 609 ist berücksichtigt
 
-
 ## Eingangsformel
 
 Auf Grund des § 20 Abs. 1 in Verbindung mit Abs. 3 und § 18 Abs. 4 des
 Melderechtsrahmengesetzes in der Fassung der Bekanntmachung vom 24.
 Juni 1994 (BGBl. I S. 1430) verordnet die Bundesregierung:
-
 
 ## § 1 Allgemeines
 
@@ -57,7 +55,6 @@ Bundes-/Länderteil - (DSMeld) bezeichnet.
 
 (5) Die §§ 2 und 6 Absatz 2 Nummer 1 gelten im Spannungs- oder
 Verteidigungsfall.
-
 
 ## § 2 Datenübermittlungen an die Kreiswehrersatzämter
 
@@ -235,10 +232,6 @@ Einwohners folgende weitere Daten:
 
     *   1201 - 1206, 1208 - 1213, 1215 - 1222.
 
-
-
-
-
 ## § 2a Datenübermittlung an das Bundesamt für Wehrverwaltung
 
 Die Meldebehörden übermitteln auf Grund des § 58 Absatz 1 des
@@ -271,7 +264,6 @@ nächsten Jahr volljährig werden:
 
 Die Datenübermittlung unterbleibt, wenn die Betroffenen ihr nach § 18
 Absatz 7 des Melderechtsrahmengesetzes widersprochen haben.
-
 
 ## § 3 Datenübermittlungen an die Bundesagentur für Arbeit
 
@@ -384,11 +376,9 @@ der absendenden Stelle oder bei ihr abweichend gespeicherte Daten,
 haben sie hinsichtlich dieser Daten die in Absatz 4 genannten
 Pflichten.
 
-
 ## § 4 (weggefallen)
 
 -
-
 
 ## § 5 Datenübermittlungen an die Datenstelle der Träger der Rentenversicherung
 
@@ -564,10 +554,6 @@ Träger der Rentenversicherung zusätzlich zu den Daten nach Absatz 1:
 
     *   1528 bis 1530.
 
-
-
-
-
 ## § 5a Datenübermittlungen an das Bundeszentralregister
 
 Die Meldebehörden haben aufgrund von § 20a des
@@ -635,10 +621,6 @@ Daten des Einwohners in automatisierter Form zu übermitteln
 
     *   0206, 0305.
 
-
-
-
-
 ## § 5b Datenübermittlungen an das Kraftfahrt-Bundesamt
 
 Die Meldebehörden haben auf Grund des § 64 des Straßenverkehrsgesetzes
@@ -705,10 +687,6 @@ Registermitteilung):
         veranlaßt hat
 
     *   0206, 0305, 1403.
-
-
-
-
 
 ## § 5c Datenübermittlungen an das Bundeszentralamt für Steuern
 
@@ -870,7 +848,6 @@ Kind noch keine Identifikationsnummer zugeteilt, übermittelt die
 Meldebehörde statt der Identifikationsnummer das Vorläufige
 Bearbeitungsmerkmal nach § 139b Absatz 6 Satz 2 der Abgabenordnung
 (2702, 2705, 2706).
-
 
 ## § 5d Datenübermittlungen an das Bundesverwaltungsamt
 
@@ -1066,10 +1043,6 @@ Absatz 3 des Gesetzes zur Europäischen Bürgerinitiative vom 7. März
         1208 bis 1212,
         1216 bis 1221.
 
-
-
-
-
 ## § 6 Verfahren der Datenübermittlungen
 
 (1) Regelmäßige Datenübermittlungen der Meldebehörden erfolgen durch
@@ -1134,7 +1107,6 @@ bekannt gemachten jeweils geltenden Fassung zu Grunde zu legen.
 
 (4) (weggefallen)
 
-
 ## § 7 Übermittlung auf maschinell lesbaren Datenträgern
 
 (1) (weggefallen)
@@ -1177,16 +1149,13 @@ versenden.
 
 (4) (weggefallen)
 
-
 ## § 8 (weggefallen)
 
 -
 
-
 ## § 9 (weggefallen)
 
 -
-
 
 ## § 10 Übermittlung durch Übersendung von CDs oder DVDs
 
@@ -1221,7 +1190,6 @@ Aufkleber mit folgenden Angaben zu versehen:
 Die CD oder DVD ist in einer Schutzpackung zu versenden.
 Zusammengehörende CDs oder DVDs sind zusammen zu versenden.
 
-
 ## § 11 Datenübermittlung durch Datenübertragung
 
 Bei der Datenübermittlung durch Datenübertragung werden die zu
@@ -1233,7 +1201,6 @@ die weiteren Einzelheiten des Verfahrens muß Einvernehmen zwischen der
 Meldebehörde und dem Empfänger bestehen. Dabei sind die allgemein
 anerkannten Regeln der Technik zugrunde zu legen. § 7 Abs. 2 findet
 entsprechende Anwendung.
-
 
 ## § 12 Übergangsvorschrift aus Anlass des Wehrrechtsänderungsgesetzes 2011
 
@@ -1247,11 +1214,9 @@ das Verfahren, die zu verwendende Satzbeschreibung und die zu
 verwendenden Übermittlungswege drei Monate vor Beginn des
 Übermittlungszeitraums im Bundesanzeiger.
 
-
 ## Schlußformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage 1
 
@@ -1740,26 +1705,21 @@ Leerzeichen
 ----------------------------------------------------------------------
 --------
 
-
 ## Anlage 2 (weggefallen)
 
 -
-
 
 ## Anlage 3
 
 (weggefallen)
 
-
 ## Anlage 4
 
 (weggefallen)
 
-
 ## Anlage 4a (weggefallen)
 
 -
-
 
 ## Anlage 4b
 
@@ -1994,36 +1954,29 @@ ist als Inhalt des Feldes Satzart "KB2" anzugeben. Die Angaben zu dem
 Geburtsnamen vor Änderung sind in den Feldern 0203 bis 0206
 einzutragen.
 
-
 ## Anlage 5
 
 (weggefallen)
-
 
 ## Anlage 6
 
 (weggefallen)
 
-
 ## (XXXX) Anlagen 7 bis 9 (weggefallen)
 
 -
-
 
 ## Anlage 10
 
 (weggefallen)
 
-
 ## Anlage 11
 
 (weggefallen)
 
-
 ## Anlage 11a (weggefallen)
 
 -
-
 
 ## Anlage 11b (weggefallen)
 

@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 V v. 23.7.2010 I 1010
 
-
 ## Eingangsformel
 
 Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August
@@ -29,7 +28,6 @@ ist, verordnet das Bundesministerium für Bildung und Forschung nach
 Anhören des Ständigen Ausschusses des Bundesinstituts für
 Berufsbildung im Einvernehmen mit dem Bundesministerium für Wirtschaft
 und Arbeit:
-
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
 
@@ -117,7 +115,6 @@ Fachrichtung Chemie wahrnehmen zu können:
 Geprüfter Industriemeister/Geprüfte Industriemeisterin - Fachrichtung
 Chemie.
 
-
 ## § 2 Umfang der Industriemeisterqualifikation und Gliederung der Prüfung
 
 (1) Die Qualifikation zum Geprüften Industriemeister/zur Geprüften
@@ -162,7 +159,6 @@ prüfen. Die Situationsaufgabe I wird schriftlich geprüft; die
 Situationsaufgabe II besteht aus einer schriftlichen Aufgabenstellung
 und einem Fachgespräch.
 
-
 ## § 3 Zulassungsvoraussetzungen
 
 (1) Zur Prüfung im Prüfungsteil "Fachrichtungsübergreifende
@@ -206,7 +202,6 @@ Voraussetzungen kann zur Prüfung auch zugelassen werden, wer durch
 Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht,
 berufspraktische Qualifikationen erworben zu haben, die die Zulassung
 zur Prüfung rechtfertigen.
-
 
 ## § 4 Fachrichtungsübergreifende Basisqualifikationen
 
@@ -390,7 +385,6 @@ dauern. Die Bewertung der schriftlichen Prüfungsleistung und die der
 mündlichen Ergänzungsprüfung werden zu einer Bewertung der
 Prüfungsleistung zusammengefasst. Dabei wird die Bewertung der
 schriftlichen Prüfungsleistung doppelt gewichtet.
-
 
 ## § 5 Handlungsspezifische Qualifikationen
 
@@ -876,7 +870,6 @@ Ergänzungsprüfung werden zu einer Bewertung der Prüfungsleistung
 zusammengefasst. Dabei wird die Bewertung der schriftlichen
 Prüfungsleistung doppelt gewichtet.
 
-
 ## § 6 Anrechnung anderer Prüfungsleistungen
 
 Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin ist auf Antrag
@@ -886,7 +879,6 @@ Stelle zu befreien, wenn eine andere vergleichbare Prüfung vor einer
 einem staatlichen Prüfungsausschuss erfolgreich abgelegt wurde und die
 Anmeldung zur Fortbildungsprüfung innerhalb von fünf Jahren nach der
 Bekanntgabe des Bestehens der anderen Prüfung erfolgt.
-
 
 ## § 7 Bewerten der Prüfungsteile und Bestehen der Prüfung
 
@@ -936,7 +928,6 @@ anderweitig abgelegten Prüfung anzugeben. Der Nachweis über den Erwerb
 der berufs- und arbeitspädagogischen Qualifikationen gemäß § 2 Abs. 2
 ist im Zeugnis einzutragen.
 
-
 ## § 8 Wiederholung der Prüfung
 
 (1) Jeder nicht bestandene Prüfungsteil kann zweimal wiederholt
@@ -950,7 +941,6 @@ prüfenden Situationsaufgaben I und II und der schriftlichen
 Ausarbeitung zu befreien, wenn die darin in einer vorangegangenen
 Prüfung erbrachten Leistungen ausgereicht haben.
 
-
 ## § 9 Zusatzqualifikationen
 
 Wer die Prüfung nach dieser Verordnung bestanden hat, kann beantragen,
@@ -958,17 +948,14 @@ die Prüfung in weiteren Spezialisierungsgebieten nach § 5 Abs. 4
 abzulegen. Über die bestandene Prüfung ist eine Bescheinigung
 auszustellen. § 8 Abs. 1 gilt entsprechend.
 
-
 ## § 10 Übergangsvorschrift
 
 Die bis zum Ablauf des 31. August 2009 begonnenen Prüfungsverfahren
 können nach den bisherigen Vorschriften zu Ende geführt werden.
 
-
 ## § 11 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Anlage 1 (zu § 7 Abs. 6)
 
@@ -999,7 +986,6 @@ bestanden.
 Datum ...................................
 Unterschrift ............................
 (Siegel der zuständigen Stelle)
-
 
 ## Anlage 2 (zu § 7 Abs. 6)
 

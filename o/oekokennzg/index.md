@@ -30,7 +30,6 @@ Informationsgesellschaft (ABl. EG Nr. L 204 S. 37), zuletzt geändert
 durch die Richtlinie 2006/96/EG des Rates vom 20. November 2006 (ABl.
 EU Nr. L 363 S. 81), sind beachtet worden.
 
-
 ## § 1 Öko-Kennzeichen
 
 (1) Mit einem Kennzeichen nach Maßgabe einer Rechtsverordnung nach § 2
@@ -77,7 +76,6 @@ in den Verkehr zu bringen.
 (3) Sonstige Vorschriften über die Kennzeichnung oder Etikettierung
 von Saatgut, Futtermitteln oder Lebensmitteln bleiben unberührt.
 
-
 ## § 2 Ermächtigungen
 
 (1) Das Bundesministerium für Ernährung, Landwirtschaft und
@@ -118,10 +116,6 @@ Zustimmung des Bundesrates
     Erlass entsprechender Vorschriften in Verordnungen der Europäischen
     Union unanwendbar geworden sind.
 
-
-
-
-
 ## § 3 Strafvorschriften
 
 Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
@@ -134,10 +128,6 @@ bestraft, wer
 
 2.  entgegen § 1 Abs. 2 Nr. 2 ein Erzeugnis oder einen Gegenstand in den
     Verkehr bringt.
-
-
-
-
 
 ## § 4 Bußgeldvorschriften
 
@@ -152,7 +142,6 @@ Tatbestand auf diese Bußgeldvorschrift verweist.
 
 (3) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
 dreißigtausend Euro geahndet werden.
-
 
 ## § 5 Einziehung
 
@@ -170,7 +159,6 @@ begangen worden, so können
 
 eingezogen werden. § 74a des Strafgesetzbuchs und § 23 des Gesetzes
 über Ordnungswidrigkeiten sind anzuwenden.
-
 
 ## § 6 (Inkrafttreten)
 

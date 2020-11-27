@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1993, 292
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
@@ -26,17 +24,14 @@ August 1976 (BGBl. I S. 2525) geändert worden ist, verordnet der
 Bundesminister für Gesundheit im Einvernehmen mit dem Bundesminister
 für Bildung und Wissenschaft:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf pharmazeutisch-kaufmännischer Angestellter
 /pharmazeutisch-kaufmännische Angestellte wird staatlich anerkannt.
 
-
 ## § 2 Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Ausbildungsberufsbild
 
@@ -154,10 +149,6 @@ Fertigkeiten und Kenntnisse:
 
 10. Gesundheitsschutz und Erste Hilfe.
 
-
-
-
-
 ## § 4 Ausbildungsrahmenplan
 
 (1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach den in den
@@ -175,12 +166,10 @@ Abs. 2 des Berufsbildungsgesetzes befähigt wird, die insbesondere
 selbständiges Planen, Durchführen und Kontrollieren einschließt. Diese
 Befähigung ist auch in den Prüfungen nachzuweisen.
 
-
 ## § 5 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 6 Berichtsheft
 
@@ -188,7 +177,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 7 Zwischenprüfung
 
@@ -226,7 +214,6 @@ Prüfungsgebieten durchzuführen:
 (4) Die in Absatz 3 genannte Prüfungsdauer kann insbesondere
 unterschritten werden, soweit die Prüfung in programmierter Form
 durchgeführt wird.
-
 
 ## § 8 Abschlußprüfung
 
@@ -341,14 +328,12 @@ Prüfung mindestens ausreichende Prüfungsleistungen erbracht werden.
 Werden die Prüfungsleistungen in einem Prüfungsfach mit "ungenügend"
 bewertet, ist die Prüfung nicht bestanden.
 
-
 ## § 9 Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
 Verordnung bestehen, sind die bisherigen Vorschriften weiter
 anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
 Anwendung der Vorschriften dieser Verordnung.
-
 
 ## § 10 Inkrafttreten
 

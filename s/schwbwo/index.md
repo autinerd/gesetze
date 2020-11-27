@@ -21,14 +21,9 @@ Neugefasst durch
 Geändert durch
 :   Art. 54 G v. 19.6.2001 I 1046
 
-
 ## Erster Teil - Wahl der Schwerbehindertenvertretung in Betrieben und Dienststellen
 
-
-
 ### Erster Abschnitt - Vorbereitung der Wahl
-
-
 
 #### § 1 Bestellung des Wahlvorstandes
 
@@ -46,7 +41,6 @@ Wahlberechtigte oder der Betriebs- oder Personalrat einladen. Das
 Recht des Integrationsamtes, zu einer solchen Versammlung einzuladen
 (§ 94 Abs. 6 Satz 4 des Neunten Buches Sozialgesetzbuch), bleibt
 unberührt.
-
 
 #### § 2 Aufgaben des Wahlvorstandes
 
@@ -83,7 +77,6 @@ seiner Aufgaben. Er gibt ihm insbesondere alle für die Anfertigung der
 Liste der Wahlberechtigten erforderlichen Auskünfte und stellt die
 notwendigen Unterlagen zur Verfügung.
 
-
 #### § 3 Liste der Wahlberechtigten
 
 (1) Der Wahlvorstand stellt eine Liste der Wahlberechtigten auf. Die
@@ -94,7 +87,6 @@ Reihenfolge aufgeführt werden.
 (2) Die Liste der Wahlberechtigten oder eine Abschrift ist
 unverzüglich nach Einleitung der Wahl bis zum Abschluß der Stimmabgabe
 an geeigneter Stelle zur Einsicht auszulegen.
-
 
 #### § 4 Einspruch gegen die Liste der Wahlberechtigten
 
@@ -119,7 +111,6 @@ Wahlberechtigten nur bei Schreibfehlern, offenbaren Unrichtigkeiten,
 in Erledigung rechtzeitig eingelegter Einsprüche oder bei Eintritt
 oder Ausscheiden eines Wahlberechtigten bis zum Tage vor dem Beginn
 der Stimmabgabe berichtigt oder ergänzt werden.
-
 
 #### § 5 Wahlausschreiben
 
@@ -210,7 +201,6 @@ seines Erlasses bis zum Wahltag an einer oder mehreren geeigneten, den
 Wahlberechtigten zugänglichen Stellen vom Wahlvorstand auszuhängen und
 in gut lesbarem Zustand zu erhalten.
 
-
 #### § 6 Wahlvorschläge
 
 (1) Die Wahlberechtigten können innerhalb von zwei Wochen seit Erlaß
@@ -250,7 +240,6 @@ Zugang der Aufforderung zu erklären, welche Unterschrift er
 aufrechterhält. Gibt der Wahlberechtigte diese Erklärung nicht
 fristgerecht ab, zählt seine Unterschrift auf keinem Wahlvorschlag.
 
-
 #### § 7 Nachfrist für Wahlvorschläge
 
 (1) Ist nach Ablauf der in § 6 Abs. 1 genannten Frist kein gültiger
@@ -272,7 +261,6 @@ wenn die Zahl der für dieses Amt gültig vorgeschlagenen Bewerber oder
 Bewerberinnen nicht der vom Wahlvorstand beschlossenen Zahl der
 stellvertretenden Mitglieder entspricht.
 
-
 #### § 8 Bekanntmachung der Bewerber und Bewerberinnen
 
 Der Wahlvorstand macht spätestens eine Woche vor Beginn der
@@ -282,10 +270,7 @@ Bewerbungen für die Schwerbehindertenvertretung und als
 stellvertretendes Mitglied, bis zum Abschluss der Stimmabgabe in
 gleicher Weise bekannt wie das Wahlausschreiben.
 
-
 ### Zweiter Abschnitt - Durchführung der Wahl
-
-
 
 #### § 9 Stimmabgabe
 
@@ -317,7 +302,6 @@ werden.
 und Bewerberinnen angekreuzt oder die mit einem besonderen Merkmal
 versehen sind oder aus denen sich der Wille des Wählers oder der
 Wählerin nicht zweifelsfrei ergibt, sind ungültig.
-
 
 #### § 10 Wahlvorgang
 
@@ -357,7 +341,6 @@ entsprechend für des Lesens unkundige Wähler und Wählerinnen.
 (5) Nach Abschluß der Wahl ist die Wahlurne zu versiegeln, wenn die
 Stimmenzählung nicht unmittelbar nach Beendigung der Wahl durchgeführt
 wird.
-
 
 #### § 11 Schriftliche Stimmabgabe
 
@@ -415,7 +398,6 @@ Der Wähler oder die Wählerin kann unter den Voraussetzungen des § 10
 Abs. 4 die in den Nummern 1 bis 3 bezeichneten Tätigkeiten durch eine
 andere Person verrichten lassen.
 
-
 #### § 12 Behandlung der schriftlich abgegebenen Stimmen
 
 (1) Unmittelbar vor Abschluß der Wahl öffnet der Wahlvorstand in
@@ -431,7 +413,6 @@ Vermerk über den Zeitpunkt des Eingangs ungeöffnet zu den
 Wahlunterlagen zu nehmen. Sie sind einen Monat nach Bekanntgabe des
 Wahlergebnisses ungeöffnet zu vernichten, wenn die Wahl nicht
 angefochten ist.
-
 
 #### § 13 Feststellung des Wahlergebnisses
 
@@ -458,7 +439,6 @@ die Zahl der abgegebenen gültigen und ungültigen Stimmzettel, die auf
 jeden Bewerber und jede Bewerberin entfallenen Stimmenzahlen sowie die
 Namen der gewählten Bewerber und Bewerberinnen enthalten.
 
-
 #### § 14 Benachrichtigung der Gewählten und Annahme der Wahl
 
 (1) Der Wahlvorstand benachrichtigt die für das Amt der
@@ -476,7 +456,6 @@ stellvertretender Mitglieder mit der Maßgabe, dass jeweils der
 Bewerber oder die Bewerberin mit der nächsthöheren Stimmenzahl
 nachrückt.
 
-
 #### § 15 Bekanntmachung der Gewählten
 
 Sobald die Namen der Personen, die das Amt der
@@ -486,13 +465,11 @@ zweiwöchigen Aushang in gleicher Weise wie das Wahlausschreiben
 bekanntzumachen (§ 5 Abs. 2) sowie unverzüglich dem Arbeitgeber und
 dem Betriebs- oder Personalrat mitzuteilen.
 
-
 #### § 16 Aufbewahrung der Wahlunterlagen
 
 Die Wahlunterlagen, insbesondere die Niederschriften, Bekanntmachungen
 und Stimmzettel, werden von der Schwerbehindertenvertretung mindestens
 bis zur Beendigung der Wahlperiode aufbewahrt.
-
 
 #### § 17 Nachwahl des stellvertretenden Mitglieds
 
@@ -503,10 +480,7 @@ Wahlvorstand hat die Wahl eines oder mehrerer Stellvertreter für den
 Rest der Amtszeit der Schwerbehindertenvertretung unverzüglich
 einzuleiten. Im übrigen gelten die §§ 1 bis 16 entsprechend.
 
-
 ### Dritter Abschnitt - Vereinfachtes Wahlverfahren
-
-
 
 #### § 18 Voraussetzungen
 
@@ -515,7 +489,6 @@ auseinanderliegenden Teilen und sind dort weniger als fünzig
 Wahlberechtigte beschäftigt, ist die Schwerbehindertenvertretung in
 einem vereinfachten Wahlverfahren nach Maßgabe der folgenden
 Vorschriften zu wählen.
-
 
 #### § 19 Vorbereitung der Wahl
 
@@ -527,7 +500,6 @@ sonst in geeigneter Weise zur Wahlversammlung ein.
 Schwerbehindertenvertretung nicht vorhanden, können drei
 Wahlberechtigte, der Betriebs- oder Personalrat oder das
 Integrationsamt zur Wahlversammlung einladen.
-
 
 #### § 20 Durchführung der Wahl
 
@@ -562,7 +534,6 @@ zählt er öffentlich die Stimmen aus und stellt das Ergebnis fest.
 
 (4) § 13 Abs. 2 und 3 sowie die §§ 14 bis 16 gelten entsprechend.
 
-
 #### § 21 Nachwahl des stellvertretenden Mitglieds
 
 Scheidet das einzige stellvertretende Mitglied aus oder ist ein
@@ -571,10 +542,7 @@ Schwerbehindertenvertretung die Wahlberechtigten unverzüglich zur
 Wahlversammlung zur Wahl eines oder mehrerer stellvertretender
 Mitglieder ein. Im übrigen gelten die §§ 18 bis 20 entsprechend.
 
-
 ## Zweiter Teil - Wahl der Konzern-, Gesamt-, Bezirks- und Hauptschwerbehindertenvertretung in Betrieben und Dienststellen
-
-
 
 ### § 22 Wahlverfahren
 
@@ -599,10 +567,7 @@ Bezirks- oder Hauptschwerbehindertenvertretung eine Versammlung nach §
 Wahl abweichend von Absatz 1 im Rahmen dieser Versammlung durchgeführt
 werden. § 20 findet entsprechende Anwendung.
 
-
 ## Dritter Teil - Wahl der Schwerbehindertenvertretung, Bezirks- und Hauptschwerbehindertenvertretung der schwerbehinderten Staatsanwälte und Staatsanwältinnen
-
-
 
 ### § 23 Wahlverfahren
 
@@ -612,10 +577,7 @@ und Staatsanwältinnen in den Fällen des § 94 Abs. 1 Satz 3 des Neunten
 Buches Sozialgesetzbuch gelten die Vorschriften des Ersten und Zweiten
 Teils entsprechend.
 
-
 ## Vierter Teil - Wahl der Schwerbehindertenvertretung, Bezirks- und Hauptschwerbehindertenvertretung der schwerbehinderten Richter und Richterinnen
-
-
 
 ### § 24 Vorbereitung der Wahl der Schwerbehindertenvertretung der Richter und Richterinnen
 
@@ -648,7 +610,6 @@ Präsidialrat zu der Wahlversammlung ein. Das Recht des
 Integrationsamtes, zu einer solchen Versammlung einzuladen (§ 94 Abs.
 6 Satz 4 des Neunten Buches Sozialgesetzbuch), bleibt unberührt.
 
-
 ### § 25 Durchführung der Wahl
 
 (1) Die Wahlversammlung beschließt unter dem Vorsitz des oder der
@@ -659,7 +620,6 @@ stellvertretenden Mitglieder der Schwerbehindertenvertretung.
 ihrer Wahl zu benachrichtigen. § 14 Abs. 1 Satz 2 und Abs. 2 sowie die
 §§ 15 und 16 gelten entsprechend.
 
-
 ### § 26 Nachwahl des stellvertretenden Mitglieds
 
 Scheidet das einzige stellvertretende Mitglied vorzeitig aus dem Amt
@@ -669,23 +629,18 @@ Richterinnen unverzüglich zur Wahlversammlung zur Wahl eines oder
 mehrerer stellvertretender Mitglieder für den Rest ihrer Amtszeit ein.
 Im übrigen gelten die §§ 24 und 25 entsprechend.
 
-
 ### § 27 Wahl der Bezirks- und Hauptschwerbehindertenvertretung der schwerbehinderten Richter und Richterinnen
 
 Für die Wahl der Bezirks- und Hauptschwerbehindertenvertretung der
 schwerbehinderten Richter und Richterinnen gelten die §§ 24 bis 26
 entsprechend.
 
-
 ## Fünfter Teil - Schlußvorschriften
-
-
 
 ### § 28 Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 72 des Schwerbehindertengesetzes auch im Land Berlin.
-
 
 ### § 29 (Inkrafttreten)
 

@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 5 G v. 3.8.1973 I 940
 
-
 ## § 1
 
 Wenn für veredeltes Zollgut oder Ersatzgut in einem Mitgliedstaat der
@@ -29,7 +28,6 @@ Vergünstigungen in Anspruch genommen werden sollen, obwohl zur
 Veredelung Zollgut abgefertigt worden ist, für das diese
 Vergünstigungen nicht gelten (Drittlandszollgut), so wird für das
 Drittlandszollgut ein anteiliger Zoll (Anteilzoll) erhoben.
-
 
 ## § 2
 
@@ -53,7 +51,6 @@ Ersatzguts ist ein Zoll nach den allgemeinen Vorschriften nur insoweit
 zu erheben, als er den Anteilzoll nach Absatz 2 für diese Abfälle
 übersteigt.
 
-
 ## § 3
 
 (1) Der Anteilzoll ist jeweils im Zusammenhang mit den Abrechnungen
@@ -62,14 +59,12 @@ entrichten.
 
 (2) Zahlungsaufschub wird nicht gewährt.
 
-
 ## § 4
 
 Der Anteilzoll kann auf Antrag des Veredelers erlassen, erstattet oder
 angerechnet werden, wenn das nach § 2 Abs. 1 abgefertigte und
 gekennzeichnete Zollgut oder Ersatzgut bei der zuständigen Zollstelle
 vorgeführt wird und diese die Kennzeichnung beseitigt.
-
 
 ## § 5
 
@@ -86,7 +81,6 @@ Vorschriften zu erheben, so wird dieser Zoll nur insoweit erhoben, als
 er den nach Absatz 1 für eine gleiche Menge Nachholgut zu erhebenden
 Anteilzoll übersteigt.
 
-
 ## § 6
 
 (1) Zollvergütungen, die für Freigut bei der Ausfuhr oder Abfertigung
@@ -99,7 +93,6 @@ worden sind, die Drittlandszollgut waren (§ 1).
 Bundesminister der Finanzen kann durch Rechtsverordnung für die
 Bemessung des Kürzungsbetrages Durchschnittssätze festsetzen.
 
-
 ## § 7
 
 Der Bundesminister der Finanzen wird ermächtigt, durch
@@ -110,7 +103,6 @@ Hoheitsgebieten die Vergünstigungen nach Artikel 132 Nr. 2 und Artikel
 133 Abs. 2 und 3 des EWG-Vertrages in Anspruch genommen werden sollen,
 sofern die zuständigen Organe der Europäischen Wirtschaftsgemeinschaft
 einen entsprechenden Beschluß gefaßt haben.
-
 
 ## § 8
 
@@ -132,7 +124,6 @@ sind.
 Gesetzes und der auf Grund dieses Gesetzes erlassenen
 Rechtsverordnungen erforderlichen allgemeinen Verwaltungsvorschriften.
 
-
 ## § 9
 
 Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 des Dritten
@@ -140,7 +131,6 @@ Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 des Dritten
 im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes
 erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 Überleitungsgesetzes.
-
 
 ## § 10
 

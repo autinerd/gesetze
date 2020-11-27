@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 3 G v. 12.7.2012 I 1501
 
-
 ## I. Teil - Verfassung und Zuständigkeit des Bundesverfassungsgerichts
-
-
 
 ### § 1
 
@@ -37,7 +34,6 @@ Gerichtshof des Bundes.
 (3) Das Bundesverfassungsgericht gibt sich eine Geschäftsordnung, die
 das Plenum beschließt.
 
-
 ### § 2
 
 (1) Das Bundesverfassungsgericht besteht aus zwei Senaten.
@@ -48,7 +44,6 @@ das Plenum beschließt.
 obersten Gerichtshöfen des Bundes gewählt. Gewählt werden sollen nur
 Richter, die wenigstens drei Jahre an einem obersten Gerichtshof des
 Bundes tätig gewesen sind.
-
 
 ### § 3
 
@@ -71,7 +66,6 @@ Tätigkeit als die eines Lehrers des Rechts an einer deutschen
 Hochschule unvereinbar. Die Tätigkeit als Richter des
 Bundesverfassungsgerichts geht der Tätigkeit als Hochschullehrer vor.
 
-
 ### § 4
 
 (1) Die Amtszeit der Richter dauert zwölf Jahre, längstens bis zur
@@ -85,7 +79,6 @@ Lebensjahr vollendet.
 
 (4) Nach Ablauf der Amtszeit führen die Richter ihre Amtsgeschäfte bis
 zur Ernennung des Nachfolgers fort.
-
 
 ### § 5
 
@@ -104,7 +97,6 @@ gewählt.
 (3) Scheidet ein Richter vorzeitig aus, so wird der Nachfolger
 innerhalb eines Monats von demselben Bundesorgan gewählt, das den
 ausgeschiedenen Richter gewählt hat.
-
 
 ### § 6
 
@@ -136,12 +128,10 @@ verpflichtet.
 (5) Zum Richter ist gewählt, wer mindestens acht Stimmen auf sich
 vereinigt.
 
-
 ### § 7
 
 Die vom Bundesrat zu berufenden Richter werden mit zwei Dritteln der
 Stimmen des Bundesrates gewählt.
-
 
 ### § 7a
 
@@ -166,7 +156,6 @@ tritt.
 (4) Das Recht des Wahlorgans, einen nicht vom Bundesverfassungsgericht
 Vorgeschlagenen zu wählen, bleibt unberührt.
 
-
 ### § 8
 
 (1) Das Bundesministerium der Justiz stellt eine Liste aller
@@ -183,7 +172,6 @@ und die die Voraussetzungen des § 3 Abs. 1 und 2 erfüllen.
 einer Wahl den Präsidenten des Bundestages und des Bundesrates
 zuzuleiten.
 
-
 ### § 9
 
 (1) Bundestag und Bundesrat wählen im Wechsel den Präsidenten des
@@ -195,11 +183,9 @@ Bundesrat den Vizepräsidenten.
 
 (3) Die Vorschriften der §§ 6 und 7 gelten entsprechend.
 
-
 ### § 10
 
 Der Bundespräsident ernennt die Gewählten.
-
 
 ### § 11
 
@@ -223,13 +209,11 @@ gestattet, so kann er diese gebrauchen.
 (3) Der Eid kann auch ohne religiöse Beteuerungsformel geleistet
 werden.
 
-
 ### § 12
 
 Die Richter des Bundesverfassungsgerichts können jederzeit ihre
 Entlassung aus dem Amt beantragen. Der Bundespräsident hat die
 Entlassung auszusprechen.
-
 
 ### § 13
 
@@ -342,10 +326,6 @@ Das Bundesverfassungsgericht entscheidet
 15. in den ihm sonst durch Bundesgesetz zugewiesenen Fällen (Artikel 93
     Abs. 3 des Grundgesetzes).
 
-
-
-
-
 ### § 14
 
 (1) Der Erste Senat des Bundesverfassungsgerichts ist zuständig für
@@ -381,7 +361,6 @@ Vizepräsidenten und vier Richtern besteht, von denen je zwei von jedem
 Senat für die Dauer des Geschäftsjahres berufen werden. Bei
 Stimmengleichheit gibt die Stimme des Vorsitzenden den Ausschlag.
 
-
 ### § 15
 
 (1) Der Präsident des Bundesverfassungsgerichts und der Vizepräsident
@@ -409,7 +388,6 @@ Senats, soweit nicht das Gesetz etwas anderes bestimmt. Bei
 Stimmengleichheit kann ein Verstoß gegen das Grundgesetz oder
 sonstiges Bundesrecht nicht festgestellt werden.
 
-
 ### § 15a
 
 (1) Die Senate berufen für die Dauer eines Geschäftsjahres mehrere
@@ -422,7 +400,6 @@ Verfassungsbeschwerden nach den §§ 90 und 91 auf die Berichterstatter,
 die Zahl und Zusammensetzung der Kammern sowie die Vertretung ihrer
 Mitglieder.
 
-
 ### § 16
 
 (1) Will ein Senat in einer Rechtsfrage von der in einer Entscheidung
@@ -432,14 +409,9 @@ entscheidet darüber das Plenum des Bundesverfassungsgerichts.
 (2) Es ist beschlußfähig, wenn von jedem Senat zwei Drittel seiner
 Richter anwesend sind.
 
-
 ## II. Teil - Verfassungsgerichtliches Verfahren
 
-
-
 ### Erster Abschnitt - Allgemeine Verfahrensvorschriften
-
-
 
 #### § 17
 
@@ -447,7 +419,6 @@ Soweit in diesem Gesetz nichts anderes bestimmt ist, sind hinsichtlich
 der Öffentlichkeit, der Sitzungspolizei, der Gerichtssprache, der
 Beratung und Abstimmung die Vorschriften der Titel 14 bis 16 des
 Gerichtsverfassungsgesetzes entsprechend anzuwenden.
-
 
 #### § 17a
 
@@ -470,7 +441,6 @@ sowie eines ordnungsgemäßen Ablaufs des Verfahrens kann das
 Bundesverfassungsgericht die Aufnahmen nach Absatz 1 oder deren
 Übertragung ganz oder teilweise ausschließen oder von der Einhaltung
 von Auflagen abhängig machen.
-
 
 #### § 18
 
@@ -502,10 +472,6 @@ Verfahrens interessiert ist.
 2.  die Äußerung einer wissenschaftlichen Meinung zu einer Rechtsfrage,
     die für das Verfahren bedeutsam sein kann.
 
-
-
-
-
 #### § 19
 
 (1) Wird ein Richter des Bundesverfassungsgerichts wegen Besorgnis der
@@ -526,11 +492,9 @@ ein Richter des anderen Senats als Vertreter bestimmt. Die
 Vorsitzenden der Senate können nicht als Vertreter bestimmt werden.
 Das Nähere regelt die Geschäftsordnung.
 
-
 #### § 20
 
 Die Beteiligten haben das Recht der Akteneinsicht.
-
 
 #### § 21
 
@@ -538,7 +502,6 @@ Wenn das Verfahren von einer Personengruppe oder gegen eine
 Personengruppe beantragt wird, kann das Bundesverfassungsgericht
 anordnen, daß sie ihre Rechte, insbesondere das Recht auf Anwesenheit
 im Termin, durch einen oder mehrere Beauftragte wahrnehmen läßt.
-
 
 #### § 22
 
@@ -565,7 +528,6 @@ ausdrücklich auf das Verfahren beziehen.
 (3) Ist ein Bevollmächtigter bestellt, so sind alle Mitteilungen des
 Gerichts an ihn zu richten.
 
-
 #### § 23
 
 (1) Anträge, die das Verfahren einleiten, sind schriftlich beim
@@ -585,7 +547,6 @@ von Abschriften seiner Schriftsätze und der angegriffenen
 Entscheidungen für das Gericht und für die übrigen Beteiligten
 nachzureichen.
 
-
 #### § 24
 
 Unzulässige oder offensichtlich unbegründete Anträge können durch
@@ -593,7 +554,6 @@ einstimmigen Beschluß des Gerichts verworfen werden. Der Beschluß
 bedarf keiner weiteren Begründung, wenn der Antragsteller vorher auf
 die Bedenken gegen die Zulässigkeit oder Begründetheit seines Antrags
 hingewiesen worden ist.
-
 
 #### § 25
 
@@ -609,13 +569,11 @@ Urteil, die Entscheidung ohne mündliche Verhandlung als Beschluß.
 (4) Die Entscheidungen des Bundesverfassungsgerichts ergehen "im Namen
 des Volkes".
 
-
 #### § 25a
 
 Über die mündliche Verhandlung wird ein Protokoll geführt. Darüber
 hinaus wird sie in einer Tonbandaufnahme festgehalten; das Nähere
 regelt die Geschäftsordnung.
-
 
 #### § 26
 
@@ -630,7 +588,6 @@ der Stimmen des Gerichts kann die Beiziehung einzelner Urkunden
 unterbleiben, wenn ihre Verwendung mit der Staatssicherheit
 unvereinbar ist.
 
-
 #### § 27
 
 Alle Gerichte und Verwaltungsbehörden leisten dem
@@ -638,12 +595,10 @@ Bundesverfassungsgericht Rechts- und Amtshilfe. Fordert das
 Bundesverfassungsgericht Akten eines Ausgangsverfahrens an, werden ihm
 diese unmittelbar vorgelegt.
 
-
 #### § 27a
 
 Das Bundesverfassungsgericht kann sachkundigen Dritten Gelegenheit zur
 Stellungnahme geben.
-
 
 #### § 28
 
@@ -660,14 +615,12 @@ Schweigepflicht berufen, wenn das Bundesverfassungsgericht mit einer
 Mehrheit von zwei Dritteln der Stimmen die Verweigerung der
 Aussagegenehmigung für unbegründet erklärt.
 
-
 #### § 29
 
 Die Beteiligten werden von allen Beweisterminen benachrichtigt und
 können der Beweisaufnahme beiwohnen. Sie können an Zeugen und
 Sachverständige Fragen richten. Wird eine Frage beanstandet, so
 entscheidet das Gericht.
-
 
 #### § 30
 
@@ -693,7 +646,6 @@ Stimmenverhältnis mitteilen. Das Nähere regelt die Geschäftsordnung.
 
 (3) Alle Entscheidungen sind den Beteiligten bekanntzugeben.
 
-
 #### § 31
 
 (1) Die Entscheidungen des Bundesverfassungsgerichts binden die
@@ -709,7 +661,6 @@ sonstigem Bundesrecht vereinbar oder unvereinbar oder für nichtig
 erklärt wird, ist die Entscheidungsformel durch das Bundesministerium
 der Justiz im Bundesgesetzblatt zu veröffentlichen. Entsprechendes
 gilt für die Entscheidungsformel in den Fällen des § 13 Nr. 12 und 14.
-
 
 #### § 32
 
@@ -751,7 +702,6 @@ gefaßt wird. Sie tritt nach einem Monat außer Kraft. Wird sie durch
 den Senat bestätigt, so tritt sie sechs Monate nach ihrem Erlaß außer
 Kraft.
 
-
 #### § 33
 
 (1) Das Bundesverfassungsgericht kann sein Verfahren bis zur
@@ -763,7 +713,6 @@ Entscheidung dieses anderen Gerichts von Bedeutung sein können.
 tatsächlichen Feststellungen eines rechtskräftigen Urteils zugrunde
 legen, das in einem Verfahren ergangen ist, in dem die Wahrheit von
 Amts wegen zu erforschen ist.
-
 
 #### § 34
 
@@ -777,7 +726,6 @@ darstellt oder wenn ein Antrag auf Erlaß einer einstweiligen Anordnung
 
 (3) Für die Einziehung der Gebühr gilt § 59 Abs. 1 der
 Bundeshaushaltsordnung entsprechend.
-
 
 #### § 34a
 
@@ -794,17 +742,13 @@ erstatten.
 (3) In den übrigen Fällen kann das Bundesverfassungsgericht volle oder
 teilweise Erstattung der Auslagen anordnen.
 
-
 #### § 35
 
 Das Bundesverfassungsgericht kann in seiner Entscheidung bestimmen,
 wer sie vollstreckt; es kann auch im Einzelfall die Art und Weise der
 Vollstreckung regeln.
 
-
 ### Zweiter Abschnitt - Akteneinsicht außerhalb des Verfahrens
-
-
 
 #### § 35a
 
@@ -813,7 +757,6 @@ oder Einsicht in Akten des Bundesverfassungsgerichts personenbezogene
 Daten, so gelten die Vorschriften des Bundesdatenschutzgesetzes,
 soweit die nachfolgenden Bestimmungen keine abweichende Regelung
 treffen.
-
 
 #### § 35b
 
@@ -858,21 +801,15 @@ Absatz 2 Akteneinsicht gewährt werden kann oder wenn einer
 Privatperson auf Grund besonderer Umstände dort Akteneinsicht gewährt
 werden soll.
 
-
 #### § 35c
 
 Das Bundesverfassungsgericht darf in einem verfassungsgerichtlichen
 Verfahren zu den Akten gelangte personenbezogene Daten für ein anderes
 verfassungsgerichtliches Verfahren nutzen.
 
-
 ## III. Teil - Einzelne Verfahrensarten
 
-
-
 ### Erster Abschnitt - Verfahren in den Fällen des § 13 Nr. 1
-
-
 
 #### § 36
 
@@ -880,14 +817,12 @@ Der Antrag auf Entscheidung gemäß Artikel 18 Satz 2 des Grundgesetzes
 kann vom Bundestag, von der Bundesregierung oder von einer
 Landesregierung gestellt werden.
 
-
 #### § 37
 
 Das Bundesverfassungsgericht gibt dem Antragsgegner Gelegenheit zur
 Äußerung binnen einer zu bestimmenden Frist und beschließt dann, ob
 der Antrag als unzulässig oder als nicht hinreichend begründet
 zurückzuweisen oder ob die Verhandlung durchzuführen ist.
-
 
 #### § 38
 
@@ -899,7 +834,6 @@ Strafprozeßordnung anordnen.
 Verhandlung eine Voruntersuchung anordnen. Die Durchführung der
 Voruntersuchung ist einem Richter des nicht zur Entscheidung in der
 Hauptsache zuständigen Senats zu übertragen.
-
 
 #### § 39
 
@@ -917,7 +851,6 @@ der Verwirkung der Grundrechte das Wahlrecht, die Wählbarkeit und die
 Fähigkeit zur Bekleidung öffentlicher Ämter aberkennen und bei
 juristischen Personen ihre Auflösung anordnen.
 
-
 #### § 40
 
 Ist die Verwirkung zeitlich nicht befristet oder für einen längeren
@@ -929,22 +862,17 @@ Dauer der Verwirkung abkürzen. Der Antrag kann wiederholt werden, wenn
 seit der letzten Entscheidung des Bundesverfassungsgerichts ein Jahr
 verstrichen ist.
 
-
 #### § 41
 
 Hat das Bundesverfassungsgericht über einen Antrag sachlich
 entschieden, so kann er gegen denselben Antragsgegner nur wiederholt
 werden, wenn er auf neue Tatsachen gestützt wird.
 
-
 #### § 42
 
 (weggefallen)
 
-
 ### Zweiter Abschnitt - Verfahren in den Fällen des § 13 Nr. 2
-
-
 
 #### § 43
 
@@ -956,7 +884,6 @@ Bundesrat oder von der Bundesregierung gestellt werden.
 stellen, deren Organisation sich auf das Gebiet ihres Landes
 beschränkt.
 
-
 #### § 44
 
 Die Vertretung der Partei bestimmt sich nach den gesetzlichen
@@ -967,7 +894,6 @@ gewechselt, so gelten als vertretungsberechtigt diejenigen Personen,
 die die Geschäfte der Partei während der Tätigkeit, die den Antrag
 veranlaßt hat, zuletzt tatsächlich geführt haben.
 
-
 #### § 45
 
 Das Bundesverfassungsgericht gibt dem Vertretungsberechtigten (§ 44)
@@ -975,7 +901,6 @@ Gelegenheit zur Äußerung binnen einer zu bestimmenden Frist und
 beschließt dann, ob der Antrag als unzulässig oder als nicht
 hinreichend begründet zurückzuweisen oder ob die Verhandlung
 durchzuführen ist.
-
 
 #### § 46
 
@@ -994,15 +919,11 @@ des Vermögens der Partei oder des selbständigen Teiles der Partei
 zugunsten des Bundes oder des Landes zu gemeinnützigen Zwecken
 aussprechen.
 
-
 #### § 47
 
 Die Vorschriften der §§ 38 und 41 gelten entsprechend.
 
-
 ### Dritter Abschnitt - Verfahren in den Fällen des § 13 Nr. 3
-
-
 
 #### § 48
 
@@ -1028,10 +949,7 @@ Person oder einer Gruppe von wahlberechtigten Personen, dass deren
 Rechte verletzt wurden, stellt das Bundesverfassungsgericht diese
 Verletzung fest, wenn es nicht die Wahl für ungültig erklärt.
 
-
 ### Vierter Abschnitt - Verfahren in den Fällen des § 13 Nr. 4
-
-
 
 #### § 49
 
@@ -1053,13 +971,11 @@ Anklage mit der Mehrheit von zwei Dritteln der gesetzlichen
 Mitgliederzahl des Bundestages oder von zwei Dritteln der Stimmen des
 Bundesrates gefaßt worden ist.
 
-
 #### § 50
 
 Die Anklage kann nur binnen drei Monaten, nachdem der ihr zugrunde
 liegende Sachverhalt der antragsberechtigten Körperschaft bekannt
 geworden ist, erhoben werden.
-
 
 #### § 51
 
@@ -1067,7 +983,6 @@ Die Einleitung und Durchführung des Verfahrens wird durch den
 Rücktritt des Bundespräsidenten, durch sein Ausscheiden aus dem Amt
 oder durch Auflösung des Bundestages oder den Ablauf seiner
 Wahlperiode nicht berührt.
-
 
 #### § 52
 
@@ -1084,13 +999,11 @@ Bundesverfassungsgericht zurückgenommen.
 (3) Die Zurücknahme der Anklage wird unwirksam, wenn ihr der
 Bundespräsident binnen eines Monats widerspricht.
 
-
 #### § 53
 
 Das Bundesverfassungsgericht kann nach Erhebung der Anklage durch
 einstweilige Anordnung bestimmen, daß der Bundespräsident an der
 Ausübung seines Amtes verhindert ist.
-
 
 #### § 54
 
@@ -1100,7 +1013,6 @@ der Vertreter der Anklage oder der Bundespräsident sie beantragt.
 
 (2) Die Durchführung der Voruntersuchung ist einem Richter des nicht
 zur Entscheidung in der Hauptsache zuständigen Senats zu übertragen.
-
 
 #### § 55
 
@@ -1124,7 +1036,6 @@ erklären.
 der Bundespräsident mit seiner Verteidigung gehört. Er hat das letzte
 Wort.
 
-
 #### § 56
 
 (1) Das Bundesverfassungsgericht stellt im Urteil fest, ob der
@@ -1135,16 +1046,12 @@ eines genau zu bezeichnenden Bundesgesetzes schuldig ist.
 Bundespräsidenten seines Amtes für verlustig erklären. Mit der
 Verkündung des Urteils tritt der Amtsverlust ein.
 
-
 #### § 57
 
 Eine Ausfertigung des Urteils samt Gründen ist dem Bundestag, dem
 Bundesrat und der Bundesregierung zu übersenden.
 
-
 ### Fünfter Abschnitt - Verfahren in den Fällen des § 13 Nr. 9
-
-
 
 #### § 58
 
@@ -1169,7 +1076,6 @@ verflossen sind.
 (4) Der Antrag wird vor dem Bundesverfassungsgericht von einem
 Beauftragten des Bundestages vertreten.
 
-
 #### § 59
 
 (1) Das Bundesverfassungsgericht erkennt auf eine der im Artikel 98
@@ -1186,7 +1092,6 @@ Bundesrichters zuständigen Stelle.
 Bundespräsidenten, dem Bundestag und der Bundesregierung zu
 übersenden.
 
-
 #### § 60
 
 Solange ein Verfahren vor dem Bundesverfassungsgericht anhängig ist,
@@ -1195,7 +1100,6 @@ anhängige Verfahren ausgesetzt. Erkennt das Bundesverfassungsgericht
 auf Entlassung aus dem Amt oder auf Anordnung der Versetzung in ein
 anderes Amt oder in den Ruhestand, so wird das Disziplinarverfahren
 eingestellt; im anderen Falle wird es fortgesetzt.
-
 
 #### § 61
 
@@ -1216,7 +1120,6 @@ der Strafprozeßordnung gelten entsprechend.
 aufrechtzuerhalten oder auf eine mildere Maßnahme oder auf Freispruch
 zu erkennen.
 
-
 #### § 62
 
 Soweit gemäß Artikel 98 Abs. 5 Satz 2 des Grundgesetzes fortgeltendes
@@ -1225,10 +1128,7 @@ Vorschriften dieses Abschnitts auch, wenn das Gesetz eines Landes für
 Landesrichter eine dem Artikel 98 Abs. 2 des Grundgesetzes
 entsprechende Regelung trifft.
 
-
 ### Sechster Abschnitt - Verfahren in den Fällen des § 13 Nr. 5
-
-
 
 #### § 63
 
@@ -1236,7 +1136,6 @@ Antragsteller und Antragsgegner können nur sein: der Bundespräsident,
 der Bundestag, der Bundesrat, die Bundesregierung und die im
 Grundgesetz oder in den Geschäftsordnungen des Bundestages und des
 Bundesrates mit eigenen Rechten ausgestatteten Teile dieser Organe.
-
 
 #### § 64
 
@@ -1258,7 +1157,6 @@ gestellt werden.
 ist, kann der Antrag noch binnen drei Monaten nach Inkrafttreten
 gestellt werden.
 
-
 #### § 65
 
 (1) Dem Antragsteller und dem Antragsgegner können in jeder Lage des
@@ -1270,12 +1168,10 @@ Bedeutung ist.
 Verfahrens dem Bundespräsidenten, dem Bundestag, dem Bundesrat und der
 Bundesregierung Kenntnis.
 
-
 #### § 66
 
 Das Bundesverfassungsgericht kann anhängige Verfahren verbinden und
 verbundene trennen.
-
 
 #### § 66a
 
@@ -1288,7 +1184,6 @@ Gleiches gilt bei Anträgen gemäß § 14 des Gesetzes über die
 parlamentarische Kontrolle nachrichtendienstlicher Tätigkeit des
 Bundes in Verbindung mit § 63.
 
-
 #### § 67
 
 Das Bundesverfassungsgericht stellt in seiner Entscheidung fest, ob
@@ -1299,10 +1194,7 @@ Entscheidungsformel zugleich eine für die Auslegung der Bestimmung des
 Grundgesetzes erhebliche Rechtsfrage entscheiden, von der die
 Feststellung gemäß Satz 1 abhängt.
 
-
 ### Siebenter Abschnitt - Verfahren in den Fällen des § 13 Nr. 7
-
-
 
 #### § 68
 
@@ -1310,11 +1202,9 @@ Antragsteller und Antragsgegner können nur sein:
 für den Bund die Bundesregierung,
 für ein Land die Landesregierung.
 
-
 #### § 69
 
 Die Vorschriften der §§ 64 bis 67 gelten entsprechend.
-
 
 #### § 70
 
@@ -1322,10 +1212,7 @@ Der Beschluß des Bundesrates nach Artikel 84 Abs. 4 Satz 1 des
 Grundgesetzes kann nur binnen eines Monats nach der Beschlußfassung
 angefochten werden.
 
-
 ### Achter Abschnitt - Verfahren in den Fällen des § 13 Nr. 8
-
-
 
 #### § 71
 
@@ -1357,7 +1244,6 @@ angefochten werden.
 
 (2) Die Vorschrift des § 64 Abs. 3 gilt entsprechend.
 
-
 #### § 72
 
 (1) Das Bundesverfassungsgericht kann in seiner Entscheidung erkennen
@@ -1381,10 +1267,7 @@ Unterlassung des Antragsgegners gegen eine Bestimmung der
 Landesverfassung verstößt. Die Vorschriften des § 67 Satz 2 und 3
 gelten entsprechend.
 
-
 ### Neunter Abschnitt - Verfahren in den Fällen des § 13 Nr. 10
-
-
 
 #### § 73
 
@@ -1396,23 +1279,18 @@ Rechten ausgestatteten Teile dieser Organe beteiligt sein.
 (2) Die Vorschrift des § 64 Abs. 3 gilt entsprechend, sofern das
 Landesrecht nichts anderes bestimmt.
 
-
 #### § 74
 
 Bestimmt das Landesrecht nicht, welchen Inhalt und welche Wirkung die
 Entscheidung des Bundesverfassungsgerichts haben kann, so gilt § 72
 Abs. 2 entsprechend.
 
-
 #### § 75
 
 Für das Verfahren gelten die allgemeinen Vorschriften des II. Teiles
 dieses Gesetzes entsprechend.
 
-
 ### Zehnter Abschnitt - Verfahren in den Fällen des § 13 Nr. 6 und 6a
-
-
 
 #### § 76
 
@@ -1441,7 +1319,6 @@ gestützt werden, daß der Antragsteller das Bundesgesetz wegen
 Nichterfüllung der Voraussetzungen des Artikels 75 Abs. 2 des
 Grundgesetzes für nichtig hält.
 
-
 #### § 77
 
 Das Bundesverfassungsgericht gibt
@@ -1461,7 +1338,6 @@ Das Bundesverfassungsgericht gibt
 
 binnen einer zu bestimmenden Frist Gelegenheit zur Äußerung.
 
-
 #### § 78
 
 Kommt das Bundesverfassungsgericht zu der Überzeugung, daß Bundesrecht
@@ -1471,7 +1347,6 @@ nichtig. Sind weitere Bestimmungen des gleichen Gesetzes aus denselben
 Gründen mit dem Grundgesetz oder sonstigem Bundesrecht unvereinbar, so
 kann sie das Bundesverfassungsgericht gleichfalls für nichtig
 erklären.
-
 
 #### § 79
 
@@ -1491,10 +1366,7 @@ Vorschriften der Zivilprozeßordnung durchzuführen ist, gilt die
 Vorschrift des § 767 der Zivilprozeßordnung entsprechend. Ansprüche
 aus ungerechtfertigter Bereicherung sind ausgeschlossen.
 
-
 ### Elfter Abschnitt - Verfahren in den Fällen des § 13 Nr. 11 und 11a
-
-
 
 #### § 80
 
@@ -1510,11 +1382,9 @@ beizufügen.
 (3) Der Antrag des Gerichts ist unabhängig von der Rüge der
 Nichtigkeit der Rechtsvorschrift durch einen Prozeßbeteiligten.
 
-
 #### § 81
 
 Das Bundesverfassungsgericht entscheidet nur über die Rechtsfrage.
-
 
 #### § 81a
 
@@ -1522,7 +1392,6 @@ Die Kammer kann durch einstimmigen Beschluß die Unzulässigkeit eines
 Antrages nach § 80 feststellen. Die Entscheidung bleibt dem Senat
 vorbehalten, wenn der Antrag von einem Landesverfassungsgericht oder
 von einem obersten Gerichtshof des Bundes gestellt wird.
-
 
 #### § 82
 
@@ -1547,7 +1416,6 @@ Entscheidung erheblichen Rechtsfrage darzulegen. Das
 Bundesverfassungsgericht gibt den Äußerungsberechtigten Kenntnis von
 der Stellungnahme.
 
-
 #### § 82a
 
 (1) Die §§ 80 bis 82 gelten vorbehaltlich der Absätze 2 und 3
@@ -1567,10 +1435,7 @@ geben, soweit sie von dem Einsetzungsbeschluss berührt sind.
 (3) Das Bundesverfassungsgericht kann ohne mündliche Verhandlung
 entscheiden.
 
-
 ### Zwölfter Abschnitt - Verfahren in den Fällen des § 13 Nr. 12
-
-
 
 #### § 83
 
@@ -1584,15 +1449,11 @@ Bundesrat und der Bundesregierung Gelegenheit zur Äußerung binnen
 einer zu bestimmenden Frist zu geben. Sie können in jeder Lage des
 Verfahrens beitreten.
 
-
 #### § 84
 
 Die Vorschriften der §§ 80 und 82 Abs. 3 gelten entsprechend.
 
-
 ### Dreizehnter Abschnitt - Verfahren in den Fällen des § 13 Nr. 13
-
-
 
 #### § 85
 
@@ -1608,10 +1469,7 @@ Gelegenheit zur Äußerung binnen einer zu bestimmenden Frist.
 
 (3) Das Bundesverfassungsgericht entscheidet nur über die Rechtsfrage.
 
-
 ### Vierzehnter Abschnitt - Verfahren in den Fällen des § 13 Nr. 14
-
-
 
 #### § 86
 
@@ -1622,7 +1480,6 @@ Bundesregierung und die Landesregierungen.
 ob ein Gesetz als Bundesrecht fortgilt, so hat das Gericht in
 sinngemäßer Anwendung des § 80 die Entscheidung des
 Bundesverfassungsgerichts einzuholen.
-
 
 #### § 87
 
@@ -1635,11 +1492,9 @@ der Behörde eines Landes abhängig ist.
 (2) Aus der Begründung des Antrags muß sich das Vorliegen der in
 Absatz 1 bezeichneten Voraussetzung ergeben.
 
-
 #### § 88
 
 Die Vorschrift des § 82 gilt entsprechend.
-
 
 #### § 89
 
@@ -1647,10 +1502,7 @@ Das Bundesverfassungsgericht spricht aus, ob das Gesetz ganz oder
 teilweise in dem gesamten Bundesgebiet oder einem bestimmten Teil des
 Bundesgebiets als Bundesrecht fortgilt.
 
-
 ### Fünfzehnter Abschnitt - Verfahren in den Fällen des § 13 Nr. 8a
-
-
 
 #### § 90
 
@@ -1672,7 +1524,6 @@ falls er zunächst auf den Rechtsweg verwiesen würde.
 Landesverfassungsgericht nach dem Recht der Landesverfassung zu
 erheben, bleibt unberührt.
 
-
 #### § 91
 
 Gemeinden und Gemeindeverbände können die Verfassungsbeschwerde mit
@@ -1683,18 +1534,15 @@ soweit eine Beschwerde wegen Verletzung des Rechtes auf
 Selbstverwaltung nach dem Rechte des Landes beim
 Landesverfassungsgericht erhoben werden kann.
 
-
 #### § 91a
 
 (weggefallen)
-
 
 #### § 92
 
 In der Begründung der Beschwerde sind das Recht, das verletzt sein
 soll, und die Handlung oder Unterlassung des Organs oder der Behörde,
 durch die der Beschwerdeführer sich verletzt fühlt, zu bezeichnen.
-
 
 #### § 93
 
@@ -1734,7 +1582,6 @@ werden.
 (4) Ist ein Gesetz vor dem 1. April 1951 in Kraft getreten, so kann
 die Verfassungsbeschwerde bis zum 1. April 1952 erhoben werden.
 
-
 #### § 93a
 
 (1) Die Verfassungsbeschwerde bedarf der Annahme zur Entscheidung.
@@ -1749,16 +1596,11 @@ b)  wenn es zur Durchsetzung der in § 90 Abs. 1 genannten Rechte angezeigt
     Versagung der Entscheidung zur Sache ein besonders schwerer Nachteil
     entsteht.
 
-
-
-
-
 #### § 93b
 
 Die Kammer kann die Annahme der Verfassungsbeschwerde ablehnen oder
 die Verfassungsbeschwerde im Falle des § 93c zur Entscheidung
 annehmen. Im übrigen entscheidet der Senat über die Annahme.
-
 
 #### § 93c
 
@@ -1774,7 +1616,6 @@ vorbehalten.
 
 (2) Auf das Verfahren finden § 94 Abs. 2 und 3 und § 95 Abs. 1 und 2
 Anwendung.
-
 
 #### § 93d
 
@@ -1793,7 +1634,6 @@ Abs. 3.
 (3) Die Entscheidungen der Kammer ergehen durch einstimmigen Beschluß.
 Die Annahme durch den Senat ist beschlossen, wenn mindestens drei
 Richter ihr zustimmen.
-
 
 #### § 94
 
@@ -1820,7 +1660,6 @@ des Verfahrens zu erwarten ist und die zur Äußerung berechtigten
 Verfassungsorgane, die dem Verfahren beigetreten sind, auf mündliche
 Verhandlung verzichten.
 
-
 #### § 95
 
 (1) Wird der Verfassungsbeschwerde stattgegeben, so ist in der
@@ -1840,15 +1679,11 @@ Verfassungsbeschwerde gemäß Absatz 2 stattgegeben wird, weil die
 aufgehobene Entscheidung auf einem verfassungswidrigen Gesetz beruht.
 Die Vorschrift des § 79 gilt entsprechend.
 
-
 #### § 95a
 
 (weggefallen)
 
-
 ### Sechzehnter Abschnitt - Verfahren in den Fällen des § 13 Nr. 6b
-
-
 
 #### § 96
 
@@ -1863,10 +1698,7 @@ bestimmenden Frist Gelegenheit zur Äußerung.
 (3) Ein Äußerungsberechtigter nach Absatz 2 kann in jeder Lage des
 Verfahrens beitreten.
 
-
 ### Siebzehnter Abschnitt - Verfahren in den Fällen des § 13 Nummer 3a
-
-
 
 #### § 96a
 
@@ -1881,17 +1713,14 @@ begründen.
 
 (3) § 32 findet keine Anwendung.
 
-
 #### § 96b
 
 Dem Bundeswahlausschuss ist Gelegenheit zur Äußerung zu geben.
-
 
 #### § 96c
 
 Das Bundesverfassungsgericht kann ohne Durchführung einer mündlichen
 Verhandlung entscheiden.
-
 
 #### § 96d
 
@@ -1899,10 +1728,7 @@ Das Bundesverfassungsgericht kann seine Entscheidung ohne Begründung
 bekanntgeben. In diesem Fall ist die Begründung der Beschwerdeführerin
 und dem Bundeswahlausschuss gesondert zu übermitteln.
 
-
 ## IV. Teil - Verzögerungsbeschwerde
-
-
 
 ### § 97a
 
@@ -1926,7 +1752,6 @@ gemäß Satz 3 nach den Umständen des Einzelfalles unbillig, kann das
 Bundesverfassungsgericht einen höheren oder niedrigeren Betrag
 festsetzen.
 
-
 ### § 97b
 
 (1) Über Entschädigung und Wiedergutmachung wird auf Grund einer
@@ -1947,7 +1772,6 @@ erheben. Sie ist schriftlich einzulegen und gleichzeitig zu begründen.
 Bis zur rechtskräftigen Entscheidung über die Verzögerungsbeschwerde
 ist der Anspruch nicht übertragbar.
 
-
 ### § 97c
 
 (1) Über die Verzögerungsbeschwerde entscheidet die Beschwerdekammer,
@@ -1963,7 +1787,6 @@ Gewährleistung eines kontinuierlichen Nachrückens für ausscheidende
 Kammermitglieder sowie die Vertretung in der Kammer, regelt die
 Geschäftsordnung.
 
-
 ### § 97d
 
 (1) Der Berichterstatter des beanstandeten Verfahrens soll binnen
@@ -1977,7 +1800,6 @@ Beschluss über die Verzögerungsbeschwerde bedarf keiner Begründung.
 
 (3) Die Entscheidung ist unanfechtbar.
 
-
 ### § 97e
 
 Die §§ 97a bis 97d gelten auch für Verfahren, die am 3. Dezember 2011
@@ -1989,10 +1811,7 @@ bis 5 nicht; § 97b Absatz 2 gilt mit der Maßgabe, dass die
 Verzögerungsbeschwerde sofort erhoben werden kann und spätestens am 3.
 März 2012 erhoben werden muss.
 
-
 ## V. Teil - Schlußvorschriften
-
-
 
 ### § 98
 
@@ -2026,11 +1845,9 @@ gilt für die Hinterbliebenenversorgung.
 
 (6) § 70 des Beamtenversorgungsgesetzes gilt entsprechend.
 
-
 ### § 99
 
 (weggefallen)
-
 
 ### § 100
 
@@ -2046,7 +1863,6 @@ Bundesverfassungsgerichts, der zur Zeit seines Todes Übergangsgeld
 bezog, erhalten Sterbegeld sowie für den Rest der Bezugsdauer des
 Übergangsgeldes Witwen- und Waisengeld; Sterbegeld, Witwen- und
 Waisengeld werden aus dem Übergangsgeld berechnet.
-
 
 ### § 101
 
@@ -2077,7 +1893,6 @@ angerechnet. Der Bund erstattet dem Dienstherrn des Hochschullehrers
 die durch seine Vertretung erwachsenden tatsächlichen Ausgaben bis zur
 Höhe der angerechneten Beträge.
 
-
 ### § 102
 
 (1) Steht einem früheren Richter des Bundesverfassungsgerichts ein
@@ -2107,7 +1922,6 @@ des anrechnungsfreien Betrages nach § 101 Abs. 3 Satz 3 ergibt.
 54 Abs. 3 und Abs. 4 Satz 2 des Beamtenversorgungsgesetzes gilt
 sinngemäß.
 
-
 ### § 103
 
 Soweit in den §§ 98 bis 102 nichts anderes bestimmt ist, finden auf
@@ -2119,7 +1933,6 @@ im Sinne des § 11 Abs. 1 Nr. 3 Buchstabe a des
 Beamtenversorgungsgesetzes. Die versorgungsrechtlichen Entscheidungen
 trifft der Präsident des Bundesverfassungsgerichts.
 
-
 ### § 104
 
 (1) Wird ein Rechtsanwalt zum Richter am Bundesverfassungsgericht
@@ -2128,7 +1941,6 @@ Amtes.
 
 (2) Wird ein Notar zum Richter am Bundesverfassungsgericht ernannt, so
 gilt § 101 Abs. 1 Satz 2 entsprechend.
-
 
 ### § 105
 
@@ -2166,16 +1978,13 @@ bedarf der Zustimmung von zwei Dritteln der Mitglieder des Gerichts.
 (6) Mit der Entlassung nach Absatz 1 Nr. 2 verliert der Richter alle
 Ansprüche aus seinem Amt.
 
-
 ### § 106
 
 (Inkrafttreten)
 
-
 ### § 106
 
 (Inkrafttreten)
-
 
 ### § 107
 

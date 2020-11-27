@@ -19,10 +19,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 13 G v. 22.12.1981 I 1497
 
-
 ## Personenkreis
-
-
 
 ### § 1
 
@@ -44,7 +41,6 @@ dem 26. April 1945 wiedererworben hat.
 (3) Dem Anspruch auf Wiedergutmachung steht nicht entgegen, daß
 Geschädigte oder ihre Hinterbliebenen nicht Deutsche nach Artikel 116
 des Grundgesetzes sind.
-
 
 ### § 2
 
@@ -69,10 +65,6 @@ Anspruch auf Wiedergutmachung besteht, wenn
     Deutschland keine diplomatischen Beziehungen unterhält, so behandelt
     werden, als ob mit ihnen diplomatische Beziehungen unterhalten würden.
 
-
-
-
-
 ### § 3
 
 Von der Wiedergutmachung ist ausgeschlossen, wer Mitglied der NSDAP
@@ -85,10 +77,7 @@ Nationalsozialismus aus Gründen, die den Verfolgungsgründen des § 1
 des Bundesentschädigungsgesetzes entsprechen, bekämpft hat und
 deswegen verfolgt worden ist.
 
-
 ## Umfang der Wiedergutmachung
-
-
 
 ### § 4
 
@@ -101,7 +90,6 @@ Vorschriften etwas anderes ergibt.
 (2) Sofern sich in einzelnen Fällen aus den Vorschriften dieses
 Gesetzes besondere Härten ergeben, ist § 89 des
 Bundesversorgungsgesetzes entsprechend anzuwenden.
-
 
 ### § 5
 
@@ -116,11 +104,9 @@ Ausnahme des Versorgungskrankengelds werden voll erstattet.
 
 (3)
 
-
 ### § 6
 
 -
-
 
 ### § 7
 
@@ -157,7 +143,6 @@ werden in Reichsmark berechnet und im Verhältnis 10:2 in Deutsche Mark
 umgerechnet; bare Auslagen im Sinne des Absatzes 4 werden im
 Verhältnis 1:1 in Deutsche Mark umgestellt.
 
-
 ### § 8
 
 (1) Auf die nach diesem Gesetz zu gewährenden Leistungen werden die
@@ -170,10 +155,7 @@ Umrechnungsverhältnis § 7 Abs. 5 entsprechend.
 (2) Die Grundsätze des bürgerlichen Rechts über die Anrechnung eines
 im Zusammenhang mit dem Schaden erlangten Vorteils gelten sinngemäß.
 
-
 ## Fristen und Verfahren
-
-
 
 ### § 9
 
@@ -199,11 +181,9 @@ versorgungsrechtlichen Wiedergutmachungsanspruch bereits auf Grund der
 bis zum Inkrafttreten dieses Gesetzes geltenden Rechtsvorschriften
 oder Verwaltungsanordnungen angemeldet hat.
 
-
 ### § 10
 
 -
-
 
 ### § 11
 
@@ -220,15 +200,11 @@ Gerichten der Sozialgerichtsbarkeit sind die Vorschriften des
 Sozialgerichtsgesetzes für Angelegenheiten der Kriegsopferversorgung
 maßgebend.
 
-
 ### § 12
 
 -
 
-
 ## Übergangs- und Schlußvorschriften
-
-
 
 ### § 13
 
@@ -240,7 +216,6 @@ Gesetzes geltenden Rechtsvorschriften und Verwaltungsanordnungen über
 die Wiedergutmachung nationalsozialistischen Unrechts, soweit sie die
 Kriegsopferversorgung nach diesem Gesetz betreffen, außer Kraft
 gesetzt.
-
 
 ### § 14
 
@@ -257,7 +232,6 @@ Juni 1950 aus dem Ausland zurückgekehrt sind und ihren Wohnsitz oder
 ständigen Aufenthalt im Land Berlin genommen haben, mit der Maßgabe
 Anwendung, daß die Versorgung frühestens am 1. Juli 1950 beginnt.
 
-
 ### § 15
 
 (1) Die Versorgung eines Berechtigten, der aus dem Ausland in den
@@ -273,7 +247,6 @@ der Maßgabe entsprechende Anwendung, daß eine Entschädigung bis zu dem
 Zeitpunkt gewährt wird, von dem an die Voraussetzungen für eine
 Versorgung nach landesrechtlichen Vorschriften oder nach dem
 Bundesversorgungsgesetz gegeben waren.
-
 
 ### § 16
 

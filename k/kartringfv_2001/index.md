@@ -22,10 +22,7 @@ Diese Verordnung dient der Umsetzung der Richtlinie 98/57/EG desRates
 vom 20. Juli 1998 zur Bekämpfung von Ralstonia solanacearum(Smith)
 Yabuuchi et al. (ABl. EG Nr. L 235 S. 1).
 
-
 ## Abschnitt 1 - Allgemeine Schutzbestimmungen
-
-
 
 ### § 1 Anzeigepflichten
 
@@ -85,7 +82,6 @@ eines Schadorganismus nach Absatz 1 Kenntnis erhalten.
 
 (4) Die Vorschriften dieser Verordnung gelten nicht für Früchte und
 Samen von Tomatenpflanzen.
-
 
 ### § 2 Überwachung
 
@@ -155,7 +151,6 @@ Ringfäule untersuchen.
 Kultursubstrat, Erde oder feste Abfälle industrieller Verarbeitungs-
 und Verpackungsanlagen in die Untersuchungen nach Absatz 4
 einbeziehen.
-
 
 ### § 3 Befallsverdacht
 
@@ -243,7 +238,6 @@ Verfahren in Anhang II Abschnitte IV und V der Richtlinie 98/57/EG.
 
 aufzubewahren.
 
-
 ### § 4 Befallsfeststellung
 
 (1) Die zuständige Behörde stellt fest
@@ -309,7 +303,6 @@ des Schadorganismus sind, um das Ausmaß des Befalls zu bestimmen. Sie
 untersucht auch die Kartoffeln und Tomatenpflanzen, die mit diesem
 Oberflächenwasser oder diesen Abwässern beregnet worden sind.
 
-
 ### § 5 Abgrenzung und Aufhebung der Sicherheitszone
 
 (1) Wird bei der Bakteriellen Ringfäule oder der Schleimkrankheit
@@ -355,7 +348,6 @@ Sicherheitszone ab.
 Bakteriellen Ringfäule oder der Schleimkrankheit an Kartoffeln oder an
 Tomatenpflanzen seit dem letzten Auftreten der Krankheit drei Jahre
 vergangen sind.
-
 
 ### § 6 Schutzmaßnahmen in der Sicherheitszone
 
@@ -480,19 +472,12 @@ Absatz 5 Satz 3 aufzuheben, wenn
     angewandt werden, die die Eliminierung des Schadorganismus
     gewährleisten und seine Verschleppung verhindern.
 
-
-
-
-
 ### § 7 Züchtungs- und Haltungsverbot
 
 Das Züchten und das Halten der Schadorganismen nach § 1 Abs. 1 sowie
 das Arbeiten mit diesen Schadorganismen sind verboten.
 
-
 ## Abschnitt 2 - Besondere Schutzbestimmungen bei Befall
-
-
 
 ### § 8 Verwendung und Behandlung bei Befall an Kartoffeln
 
@@ -559,7 +544,6 @@ Endverbraucher in Verkehr gebracht werden.
 Anordnungen treffen, soweit dies zur Bekämpfung des jeweiligen
 Schadorganismus erforderlich ist.
 
-
 ### § 9 Verwendung und Behandlung bei Befall an Tomatenpflanzen
 
 (1) Verfügungsberechtigte und Besitzer sind verpflichtet,
@@ -611,7 +595,6 @@ die anfallenden Abwässer unverzüglich zu behandeln.
 (3) Die zuständige Behörde kann zu den Absätzen 1 und 2 nähere
 Anordnungen treffen, soweit dies zur Bekämpfung des Schadorganismus
 erforderlich ist.
-
 
 ### § 10 Verbote und Beschränkungen bei Befall mit der Bakteriellen Ringfäule
 
@@ -723,7 +706,6 @@ Anbau, Behandlung und Lagerung der Kartoffeln getrennt in den
 Betriebsteilen erfolgen. Die zuständige Behörde überwacht die
 Betriebsteile und untersucht die in den Betriebsteilen erzeugten
 Kartoffeln.
-
 
 ### § 11 Verbote und Beschränkungen bei Befall mit der Schleimkrankheit
 
@@ -914,15 +896,11 @@ einen anderen Betriebsteil oder andere Betriebe besteht und die
 Kartoffelerzeugung in Betriebsteilen erfolgt, die deutlich voneinander
 getrennt sind. § 10 Abs. 7 Satz 2 bis 5 gilt entsprechend.
 
-
 ### § 12 (weggefallen)
 
 -
 
-
 ## Abschnitt 3 - Ausnahmen, Ordnungswidrigkeiten
-
-
 
 ### § 13 Ausnahmen zu Versuchs- und Züchtungszwecken
 
@@ -974,7 +952,6 @@ verbunden werden. Sie kann eine Befreiung von den Anzeigepflichten
 nach § 1 enthalten, wenn der Antragsteller dies beantragt hat. Die
 Vorschriften des § 14a der Pflanzenbeschauverordnung bleiben
 unberührt.
-
 
 ### § 14 Ordnungswidrigkeiten
 

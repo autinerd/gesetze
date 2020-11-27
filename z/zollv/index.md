@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 8 V v. 5.10.2009 I 3262
 
-
 ## Eingangsformel
 
 Auf Grund der §§ 3, 23, 24, 25, 78 und 79 des Zollgesetzes in der
@@ -26,7 +25,6 @@ Fassung der Bekanntmachung vom 18. Mai 1970 (BGBl. I S. 529), des § 25
 des Zollverwaltungsgesetzes vom 21. Dezember 1992 (BGBl. I S. 2125)
 sowie der §§ 156 und 382 Abs. 4 der Abgabenordnung vom 16. März 1976
 (BGBl. I S. 613) verordnet das Bundesministerium der Finanzen:
-
 
 ## § 1 Warenverkehr über den Bodensee
 
@@ -40,7 +38,6 @@ sind.
 gelten Waren erst als aus dem deutschen Teil des Zollgebiets in die
 Schweiz verbracht, wenn sie in einen schweizerischen Hafen, an das
 schweizerische Ufer oder an damit verbundene Anlagen gelangt sind.
-
 
 ## § 2 Zollstraßen
 
@@ -104,7 +101,6 @@ zuletzt geändert durch das Protokoll Nr. 3 über die Hoheitszonen des
 Vereinigten Königreichs Großbritannien und Nordirland auf Zypern (ABl.
 EU 2003 Nr. L 236 S. 940), in der jeweils geltenden Fassung.
 
-
 ## § 3 Zollflugplätze
 
 (1) Die Zollflugplätze werden im Bundesanzeiger bekanntgegeben.
@@ -124,7 +120,6 @@ gelten und Verbote und Beschränkungen nicht entgegenstehen.
 
 (4) Für die Befreiung vom Zollflugplatzzwang gilt § 2 Abs. 3
 sinngemäß.
-
 
 ## § 4 Zollandungsplätze, Verkehrsgebote und -beschränkungen
 
@@ -173,7 +168,6 @@ und Verbote und Beschränkungen nicht entgegenstehen.
 (5) Für die Befreiung vom Zollandungsplatzzwang gilt § 2 Abs. 3
 sinngemäß.
 
-
 ## § 4a Zollzeichen bei Wasserfahrzeugen
 
 Wasserfahrzeuge haben bei der Einfahrt ab der Seezollgrenze
@@ -183,7 +177,6 @@ beachten. Der Führer des jeweiligen Wasserfahrzeugs hat für die
 Einhaltung der Pflichten nach Satz 1 Sorge zu tragen. Dies gilt
 entsprechend für Wasserfahrzeuge, die auf dem Stettiner Haff in das
 Zollgebiet der Gemeinschaft einfahren.
-
 
 ## § 5 Beförderungspflicht
 
@@ -349,14 +342,12 @@ gewährt werden, soweit dadurch die zollamtliche Überwachung nicht
 beinträchtigt wird und Verbote und Beschränkungen nicht
 entgegenstehen.
 
-
 ## § 6 Gestellungsbefreiung im Postverkehr
 
 Waren im Postverkehr, die durch das Zollgebiet der Gemeinschaft
 durchgeführt werden, sind von der Gestellung befreit. Die Befreiung
 gilt jedoch nicht, wenn die Waren Verboten und Beschränkungen
 unterliegen oder unterliegen können.
-
 
 ## § 7 Zuständige Zollstellen für die Gestellung bei der Einfuhr und beim Verbringen aus einer Freizone des Kontrolltyps I in das übrige Zollgebiet der Gemeinschaft
 
@@ -431,14 +422,12 @@ Landeplatz liegt.
 (3) Beschränkungen der Zuständigkeit aufgrund von Verboten und
 Beschränkungen bleiben unberührt.
 
-
 ## § 8 Form der Gestellungsmitteilung
 
 Die Mitteilung nach Artikel 4 Nr. 19 Zollkodex kann in beliebiger Form
 erfolgen. Hinsichtlich versteckter oder durch besonders angebrachte
 Vorrichtungen verheimlichter Waren bedarf es einer ausdrücklichen
 Mitteilung.
-
 
 ## § 8a Teilnahme an der elektronischen Datenübermittlung
 
@@ -453,7 +442,6 @@ vorherigen Anmeldung bei einer vom Bundesministerium der Finanzen
 bekanntgegebenen Stelle. Der Teilnehmer ist verpflichtet, die in der
 Verfahrensanweisung festgelegten Voraussetzungen und Modalitäten
 einzuhalten.
-
 
 ## § 9 Verbringen von Waren aus dem Zollgebiet der Gemeinschaft
 
@@ -484,7 +472,6 @@ verzichtet die Ausfuhrzollstelle regelmäßig auf eine
 Nachweiserbringung nach Artikel 792b der Durchführungsverordnung zum
 Zollkodex durch den Anmelder oder den Ausführer.
 
-
 ## § 10 Unterlagen zur Zollwertanmeldung
 
 Schriftlichen Zollwertanmeldungen ist eine Rechnung mit einer
@@ -493,7 +480,6 @@ Artikel 181 der Durchführungsverordnung zum Zollkodex beizufügen. Im
 Rahmen vereinfachter Verfahren kann die Zollbehörde auf die Vorlage
 einer Durchschrift oder einer anderen Vervielfältigung der Rechnung
 verzichten.
-
 
 ## § 11 Allgemeine Vorschriften zur Einfuhrabgabenfreiheit
 
@@ -514,16 +500,13 @@ und Reisebedarf abgegeben und bezogen worden sind, in einen anderen
 Mitgliedstaat der Europäischen Gemeinschaft verbracht, so gilt dies
 als Ausfuhr.
 
-
 ## § 12 (weggefallen)
 
 -
 
-
 ## § 13
 
 (weggefallen)
-
 
 ## § 14 Mund- und Schiffsvorrat
 
@@ -614,7 +597,6 @@ des Zollgebiets verwendet werden.
 (9) Die Absätze 1 bis 8 gelten nicht für die in § 20 bezeichneten
 Betriebsstoffe.
 
-
 ## § 15 Speisewagenvorräte
 
 (1)) Frei von Einfuhrabgaben im Sinne des Artikels 4 Nr. 10 Zollkodex
@@ -648,7 +630,6 @@ ausgeschlossen. Bei anderen Getränken hängt die Einfuhrabgabenfreiheit
 davon ab, daß sie in Flaschen oder ähnlichen Behältnissen eingeführt
 werden, die mit dem Zeichen der Speisewagengesellschaft versehen sind.
 
-
 ## § 16 Bordvorräte der Luftfahrzeuge
 
 (1) Frei von Einfuhrabgaben im Sinne des Artikels 4 Nr. 10 Zollkodex
@@ -666,7 +647,6 @@ werden.
 
 (2) Die Einfuhrabgabenfreiheit hängt davon ab, daß das Luftfahrzeug
 Fluggäste nur im internationalen Fluglinienverkehr befördert.
-
 
 ## § 17 Diplomaten- und Konsulargut
 
@@ -724,7 +704,6 @@ nach Ablauf einer bestimmten Frist oder nur an bestimmte Stellen oder
 Personen veräußert werden, so sind die Waren nur unter entsprechenden
 Bedingungen einfuhrabgabenfrei.
 
-
 ## § 18 Ausstattung drittländischer Dienststellen
 
 (1) Frei von Einfuhrabgaben im Sinne des Artikels 4 Nr. 10 Zollkodex
@@ -751,7 +730,6 @@ ergeben.
 
 (3) Für Betriebsstoffe der Schienenfahrzeuge gilt § 19.
 
-
 ## § 19 Betriebsstoffe für Schienenfahrzeuge
 
 Frei von Einfuhrabgaben im Sinne des Artikels 4 Nr. 10 Zollkodex sind
@@ -764,10 +742,6 @@ unmittelbare Verwendung auf diesen Fahrzeugen bestimmt sind:
 
 2.  Kohlen, Schmierstoffe und andere Heiz- und Betriebsstoffe in der für
     das einzelne Fahrzeug vorgesehenen Menge.
-
-
-
-
 
 ## § 20 Betriebsstoffe für Schiffe
 
@@ -841,7 +815,6 @@ Verkehr zur besonderen Verwendung übergeführt. Dies gilt auch für
 Betriebsstoffe, die in einem anderen Mitgliedstaat unter zollamtliche
 Überwachung gestellt worden sind.
 
-
 ## § 21 Betriebsstoffe für Luftfahrzeuge
 
 (1) Frei von Einfuhrabgaben im Sinne des Artikels 4 Nr. 10 Zollkodex
@@ -864,11 +837,9 @@ werden.
 (3) Gase zum Befüllen von Luftschiffen und Ballonen sind keine
 Betriebsstoffe im Sinne des Absatzes 2.
 
-
 ## § 22
 
 (weggefallen)
-
 
 ## § 23 Kleinbeträge
 
@@ -884,7 +855,6 @@ November 2002 (BGBl. I S. 4449) geändert worden ist, in der jeweils
 geltenden Fassung verwarnt worden ist, nicht erhoben und damit auch
 nicht buchmäßig erfasst, wenn sie jeweils weniger als 10 Euro
 betragen. § 11 Abs. 4 des Tabaksteuergesetzes bleibt unberührt.
-
 
 ## § 24 Zuständigkeit für die Bewilligung von Zollverfahren, vereinfachten Verfahren und zugelassenen Wirtschaftsbeteiligten (AEO)
 
@@ -962,13 +932,11 @@ für die Bewilligungen der in Artikel 497 Abs. 3 Buchstabe a bis d der
 Durchführungsverordnung zum Zollkodex aufgeführten Zollverfahren
 zuständig sind.
 
-
 ## § 25 Für die Erteilung von verbindlichen Zolltarifauskünften und verbindlichen Ursprungsauskünften zuständige Zollbehörden
 
 Für die Erteilung von verbindlichen Zolltarifauskünften und
 verbindlichen Ursprungsauskünften ist das Hauptzollamt Hannover
 zuständig.
-
 
 ## § 26 Umfriedung und Überwachung von Freizonen des Kontrolltyps I
 
@@ -1024,7 +992,6 @@ sind.
 
 (7) Der Grenzpfad innerhalb der Freizone des Kontrolltyps I darf nur
 mit Erlaubnis des Hauptzollamts betreten werden.
-
 
 ## § 27 Bezug und Abgabe von Schiffs-, Flugzeug- und Reisebedarf
 
@@ -1224,13 +1191,11 @@ von Energieerzeugnissen im Sinn des § 1 des Energiesteuergesetzes vom
 durch Artikel 1 des Gesetzes vom 17. Juli 2009 (BGBl. I S. 1979)
 geändert worden ist, in der jeweils geltenden Fassung.
 
-
 ## § 28 Halte- und Bordezeichen
 
 Auf Verlangen mittels der in Anlage 3 aufgeführten Zeichen sind
 Schiffsführer verpflichtet, zu halten und Zollbooten das Borden zu
 ermöglichen.
-
 
 ## § 29 Pauschalierte Abgabensätze
 
@@ -1567,7 +1532,6 @@ der Einfuhrabgaben herangezogen wird, ihre Erhebung nach dem Zolltarif
 und nach den in Betracht kommenden Steuergesetzen vor der buchmäßigen
 Erfassung der Einfuhrabgaben beantragt.
 
-
 ## § 29a Mündliche Mitteilung des Abgabenbetrages
 
 (1) Im Falle einer mündlichen Zollanmeldung nach den Artikeln 225, 226
@@ -1582,13 +1546,11 @@ sind, können dem Zollschuldner mündlich mitgeteilt werden.
 Entsprechendes gilt für Zuschläge nach § 32 Abs. 3 des
 Zollverwaltungsgesetzes.
 
-
 ## § 29b Mitteilung des Abgabenbetrages mit Mitteln der elektronischen Datenverarbeitung
 
 Der buchmäßig erfaßte Einfuhr- oder Ausfuhrabgabenbetrag kann dem
 Zollschuldner mit Mitteln der elektronischen Datenverarbeitung
 mitgeteilt werden.
-
 
 ## § 30 Steuerordnungswidrigkeiten
 
@@ -1990,14 +1952,9 @@ zuwiderhandelt, indem er vorsätzlich oder fahrlässig
 31. entgegen Artikel 842 Abs. 1 die Anzeige über die Vernichtung oder
     Zerstörung einer Ware nicht oder nicht rechtzeitig erstattet.
 
-
-
-
-
 ## § 31 Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 1994 in Kraft.
-
 
 ## Anlage 1 (zu § 14 Abs. 3, § 27 Abs. 3 Satz 3) Küstengebiet
 
@@ -2312,10 +2269,6 @@ bestimmt:
 
 *    *   13 Grad 46'08" O-Länge.
 
-
-
-
-
 ## Anlage 2 Zollzeichen
 
 (Fundstelle: BGBl. I 1993, S. 2461; 1994, S. 162;
@@ -2339,7 +2292,6 @@ angebracht sein, daß es ein ununterbrochenes Licht über einen Bogen
 von mindestens 10, höchstens 12 Kompaßstrichen - je 5 oder 6 Strich
 von recht achteraus nach jeder Seite des Schiffes - wirft. Das Licht
 muß auf eine Entfernung von mindestens 1 sm sichtbar sein.
-
 
 ## Anlage 3 (zu § 28) Halte- und Bordezeichen
 

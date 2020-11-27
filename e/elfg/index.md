@@ -21,12 +21,10 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 3 Abs. 2 G v. 12.7.2006 I 1466
 
-
 ## § 1 Errichtung des Fonds
 
 Es wird ein Fonds mit dem Namen "Erblastentilgungsfonds" (Fonds) als
 Sondervermögen des Bundes errichtet.
-
 
 ## § 2 Zweck des Fonds
 
@@ -114,7 +112,6 @@ Finanzierungsaufwendungen in Höhe von zusammen 8.389.768.897,33
 Deutsche Mark und die sich daraus ergebenden Verpflichtungen zur
 Zahlung von Zinsen und Tilgungen.
 
-
 ## § 3 Stellung im Rechtsverkehr, Verwaltung
 
 (1) Der Fonds ist nicht rechtsfähig. Er kann unter seinem Namen im
@@ -124,7 +121,6 @@ Das Bundesministerium der Finanzen verwaltet den Fonds.
 
 (2) Die Schulden des Fonds werden nach den für die Verwaltung der
 allgemeinen Bundesschuld jeweils geltenden Grundsätzen verwaltet.
-
 
 ## § 4 Bundeshaftung
 
@@ -144,11 +140,9 @@ Ausgleichsfonds Währungsumstellung aufzukaufen.
 (4) Die Schuldurkunden des Fonds stehen den Schuldurkunden des Bundes
 gleich.
 
-
 ## § 5
 
 (weggefallen)
-
 
 ## § 6 Zuführungen des Bundes
 
@@ -172,13 +166,11 @@ Abs. 1 Nr. 1 Buchstabe d dürfen die Einnahmen nicht verwendet werden.
 (2) Die dem Fonds in einem Jahr verbleibende Liquidität ist im
 jeweiligen Jahr an den Bundeshaushalt abzuführen.
 
-
 ## § 7 Wirtschaftsplan
 
 Für den Fonds wird ab 1. Januar 1995 für jedes Wirtschaftsjahr ein
 Wirtschaftsplan erstellt, in dem Einnahmen und Ausgaben darzustellen
 sind.
-
 
 ## § 8 Jahresrechnung
 
@@ -190,11 +182,9 @@ als Anhang der Haushaltsrechnung des Bundes bei.
 einschließlich der Forderungen und Verbindlichkeiten sowie die
 Einnahmen und Ausgaben nachzuweisen.
 
-
 ## § 9 Verwaltungskosten
 
 Die Kosten für die Verwaltung des Fonds trägt der Bund.
-
 
 ## § 10 Gleichstellung mit Bundesbehörden
 
@@ -204,13 +194,11 @@ Bundesgesetzen an den Bund, die Länder, die Gemeinden
 entrichten, finden die allgemein für Bundesbehörden geltenden
 Vorschriften Anwendung.
 
-
 ## § 11 Auflösung des Fonds
 
 Der Fonds wird nach Tilgung seiner Verbindlichkeiten durch das
 Bundesministerium der Finanzen aufgelöst. Die Auflösung ist im
 Bundesanzeiger bekanntzumachen.
-
 
 ## § 12 Überleitungsvorschriften
 

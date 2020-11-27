@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   § 9 Abs. 2 G v. 22.3.1991 I 784
 
-
 ## Eingangsformel
 
 Auf der Grundlage
@@ -40,14 +39,12 @@ Auf der Grundlage
 
 wird folgendes Gesetz erlassen:
 
-
 ## § 1 Kommunales Vermögen
 
 Volkseigenes Vermögen, das kommunalen Aufgaben und kommunalen
 Dienstleistungen dient, wird den Gemeinden, Städten und Landkreisen
 kostenlos übertragen. Ausgenommen sind Wohnheime öffentlicher
 Bildungseinrichtungen.
-
 
 ## § 2 Vermögen der Gemeinden und Städte
 
@@ -92,7 +89,6 @@ sofern sie nicht zur Erfüllung der Aufgaben der Republik oder der
 Länder benötigt werden und dazu Beschlüsse des Ministerrates der DDR
 oder der Landesregierungen gefaßt werden.
 
-
 ## § 3 Vermögen der Landkreise
 
 In das Vermögen der Landkreise gehen über
@@ -128,10 +124,6 @@ e)  alle sonstigen Rechte und Forderungen, die den Kreisen sowie deren
     nachgeordneten Betrieben und Einrichtungen zustanden, sofern sie nicht
     in das Vermögen der Gemeinden und Städte übergehen.
 
-
-
-
-
 ## § 4 Sonderregelungen
 
 (1) Die auf der Grundlage des Beschlusses des Präsidiums des
@@ -151,7 +143,6 @@ Gemeinden, Städte und Landkreise 49 vom Hundert des Kapitals einer
 Kapitalgesellschaft für die Versorgung mit leitungsgebundenen Energien
 überschreiten würde, werden diese Beteiligungen anteilig auf diesen
 Anteil gekürzt.
-
 
 ## § 5 Nutzung des kommunalen Vermögens
 
@@ -174,7 +165,6 @@ in Form rechtlich selbständiger Unternehmen auch als Beteiligungs-
 oder Gemeinnützige Gesellschaften organisieren. Kommunales Eigentum
 kann in kommunale Verwaltungsgemeinschaften, Zweckverbände oder
 Kreisverbände eingebracht werden.
-
 
 ## § 6 Kommunale Betriebe und Einrichtungen
 
@@ -220,36 +210,27 @@ Einrichtungen hinaus können den Kommunen weiter übertragen werden:
 -   sonstige Betriebe und Einrichtungen, wie Gaststätten, Lagerhäuser,
     Messehallen u.a.
 
-
-
-
-
 ## § 7
 
 -
 
-
 ## § 8
 
 -
-
 
 ## § 9 Übergangsbestimmung
 
 Bis zur Länderbildung nehmen die Regierungsbevollmächtigten für die
 Bezirke die Befugnisse aus § 2 Absatz 2 und § 8 Absatz 2 wahr.
 
-
 ## § 10 Schlußbestimmung
 
 Dieses Gesetz tritt am Tage seiner Veröffentlichung in Kraft.
-
 
 ## Schlußformel
 
 **Die Präsidentin der Volkskammer der Deutschen Demokratischen
 Republik**
-
 
 ## Anhang EV Auszug aus EinigVtr Anlage II Kapitel IV Abschnitt III (BGBl. II 1990, 889, 1199)
 

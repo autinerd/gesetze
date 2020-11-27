@@ -18,7 +18,6 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 8.7.2009 I 1760
 
-
 ## § 1 Anwendungsbereich
 
 Die Vorschriften dieser Verordnung gelten für den Erwerb, die
@@ -27,14 +26,12 @@ Arzneimitteln durch Tierärzte und durch Apotheken der tierärztlichen
 Bildungsstätten sowie für die Verschreibung und Anwendung von
 Arzneimitteln durch Tierärzte.
 
-
 ## § 1a Regeln der Wissenschaft
 
 Beim Betrieb einer tierärztlichen Hausapotheke sind die Regeln der
 veterinärmedizinischen Wissenschaft zu beachten. Bei der Herstellung,
 Prüfung, Lagerung und Abgabe von Arzneimitteln sind darüber hinaus die
 Regeln der pharmazeutischen Wissenschaft zu beachten.
-
 
 ## § 2 Verantwortlichkeit des Tierarztes
 
@@ -55,7 +52,6 @@ freigegeben sind, dürfen nur vom Tierarzt oder auf dessen
 ausdrückliche Weisung für den betreffenden Einzelfall an Tierhalter
 ausgehändigt werden.
 
-
 ## § 3 Betriebsräume
 
 (1) Wer eine tierärztliche Hausapotheke betreibt, muss über geeigneten
@@ -74,7 +70,6 @@ belüftbar sein.
 (3) Betriebsräume dürfen zu praxisfremden Zwecken nicht verwendet
 werden.
 
-
 ## § 4 Geräte und Rechtsvorschriften
 
 (1) In den Betriebsräumen müssen die Geräte vorhanden sein, die für
@@ -88,21 +83,17 @@ Arzneimittelpreisverordnung und, soweit entsprechend Art und Umfang
 der Tätigkeit erforderlich, die amtliche Ausgabe des Arzneibuches in
 der jeweils aktuellen Fassung verfügbar sein.
 
-
 ## § 5 (weggefallen)
 
 -
-
 
 ## § 6 (weggefallen)
 
 -
 
-
 ## § 6a (weggefallen)
 
 -
-
 
 ## § 7 Verschreibung von Fütterungsarzneimitteln
 
@@ -118,7 +109,6 @@ in einem anderen Vertragsstaat des Abkommens über den Europäischen
 Wirtschaftsraum nur auf einem Formblatt nach dem Muster der Anlage 1a
 in drei Ausfertigungen (Original und zwei Durchschriften) im
 Durchschreibeverfahren verschrieben werden.
-
 
 ## § 8 Prüfung der Arzneimittel
 
@@ -141,7 +131,6 @@ beschaffen ist oder das Verfalldatum abgelaufen ist, so ist es der
 Vernichtung zuzuführen. Bis zur Zuführung zur Vernichtung ist das
 Arzneimittel unter Kenntlichmachung des Erfordernisses der Vernichtung
 gesondert zu lagern.
-
 
 ## § 9 Lagerung der Arzneimittel
 
@@ -178,7 +167,6 @@ angegebenen Bezeichnungen verwendet werden. Für Arzneimittel, die im
 Arzneibuch nicht aufgeführt sind, ist eine gebräuchliche
 wissenschaftliche Bezeichnung zu verwenden.
 
-
 ## § 10 Abgabebehältnisse
 
 (1) Arzneimittel dürfen nur in Behältnissen abgegeben werden, die
@@ -196,7 +184,6 @@ die Arzneimittel zusätzlich mit dem Namen und der Praxisanschrift des
 behandelnden Tierarztes sowie der abgegebenen Menge gekennzeichnet
 sind.
 
-
 ## § 11 In der Außenpraxis mitgeführte Arzneimittel
 
 (1) Arzneimittel dürfen in der Außenpraxis nur in allseits
@@ -211,7 +198,6 @@ entsprechend.
 (2) Der Tierarzt darf Arzneimittel nur in einer solchen Menge und in
 einem solchen Sortiment mit sich führen, dass der regelmäßige tägliche
 Bedarf seiner tierärztlichen Tätigkeit nicht überschritten wird.
-
 
 ## § 12 Abgabe der Arzneimittel an Tierhalter durch Tierärzte
 
@@ -240,7 +226,6 @@ Besitzer, wenn die Tiere gemeinsam gehalten oder auf Weiden
 zusammengebracht werden.
 
 (4) (weggefallen)
-
 
 ## § 12a Informationspflichten
 
@@ -292,7 +277,6 @@ Wirkstoffe enthalten, die in Anhang II der Verordnung (EWG) Nr.
 2377/90 aufgeführt sind, darf auf null Tage festgesetzt werden. Satz 3
 gilt nicht für Arzneimittel, die für den Verkehr außerhalb der
 Apotheken freigegeben sind.
-
 
 ## § 13 Nachweispflicht
 
@@ -460,7 +444,6 @@ verschreibungspflichtiger Arzneimittel in der jeweiligen
 tierärztlichen Hausapotheke aufzurechnen und etwaige Abweichungen
 festzustellen.
 
-
 ## § 13a Verschreibung von Arzneimitteln
 
 (1) Außer im Falle des § 4 Abs. 2 der
@@ -478,7 +461,6 @@ das zweite Doppel beim Tierarzt. Das Doppel ist vom Tierarzt zeitlich
 geordnet mindestens fünf Jahre aufzubewahren und der zuständigen
 Behörde auf Verlangen vorzulegen.
 
-
 ## § 14 Apotheken der tierärztlichen Bildungsstätten
 
 (1) Die Vorschriften dieser Verordnung finden auf die Apotheken der
@@ -493,7 +475,6 @@ vertreten lassen.
 
 (3) Arzneimittel dürfen nur zu den in Absatz 1 bezeichneten Zwecken
 erworben, hergestellt, gelagert oder abgegeben werden.
-
 
 ## § 15 Ordnungswidrigkeiten
 
@@ -540,24 +521,17 @@ Bildungsstätte
 9.  entgegen § 13a Abs. 2 Satz 3 das Doppel nicht oder nicht mindestens
     fünf Jahre aufbewahrt oder nicht oder nicht rechtzeitig vorlegt.
 
-
-
-
-
 ## § 15a (weggefallen)
 
 -
-
 
 ## § 16 (weggefallen)
 
 -
 
-
 ## § 17 (Inkrafttreten)
 
 -
-
 
 ## Anlage 1 (zu § 7)
 
@@ -681,7 +655,6 @@ Durchschrift an Hersteller,
 Hinweis für den **Hersteller:**                  Original verbleibt
 beim Hersteller,
 Durchschrift mit Fütterungsarzneimittel an Tierhalter.
-
 
 ## Anlage 1a (zu § 7)
 

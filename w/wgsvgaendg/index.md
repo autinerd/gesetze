@@ -19,20 +19,14 @@ Fundstelle
 Geändert durch
 :   Art. 21 G v. 25.7.1991 I 1606
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art 1 bis 3
 
-
-
 ## Art 4 - Übergangs- und Schlußvorschriften
-
-
 
 ## § 1
 
@@ -41,7 +35,6 @@ Wiedergutmachung nationalsozialistischen Unrechts in der
 Sozialversicherung gelten nur für Versicherungsfälle, die nach dem
 Inkrafttreten dieses Gesetzes eintreten. Im übrigen gilt dieses Gesetz
 auch für Versicherungsfälle vor seinem Inkrafttreten.
-
 
 ## § 2
 
@@ -58,14 +51,12 @@ Unrechts in der Sozialversicherung nach dem Stand vom 31. Dezember
 Beitragsnachentrichtung folgt, im übrigen frühestens vom Inkrafttreten
 dieses Gesetzes an zu zahlen.
 
-
 ## § 3
 
 Soweit in anderen Vorschriften auf Bestimmungen verwiesen wird oder
 Bezeichnungen verwendet werden, die durch dieses Gesetz geändert
 werden, treten an ihre Stelle die entsprechenden Bestimmungen und
 Bezeichnungen dieses Gesetzes.
-
 
 ## § 4
 
@@ -74,7 +65,6 @@ Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes
 erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 Überleitungsgesetzes.
-
 
 ## § 5
 

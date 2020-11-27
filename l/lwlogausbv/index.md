@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 1887
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
@@ -27,10 +25,7 @@ zuletzt durch Artikel 184 Nr. 1 der Verordnung vom 25. November 2003
 für Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium
 für Bildung und Forschung:
 
-
 ## Erster Teil - Gemeinsame Vorschriften
-
-
 
 ### § 1 Staatliche Anerkennung der Ausbildungsberufe
 
@@ -45,13 +40,11 @@ Die Ausbildungsberufe
 
 werden staatlich anerkannt.
 
-
 ### § 2 Ausbildungsdauer
 
 Die Ausbildung dauert im Ausbildungsberuf Fachlagerist/Fachlageristin
 zwei Jahre und im Ausbildungsberuf Fachkraft für Lagerlogistik drei
 Jahre.
-
 
 ### § 3 Zielsetzung der Berufsausbildung
 
@@ -63,12 +56,10 @@ Planen, Durchführen und Kontrollieren einschließt. Die in Satz 1
 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 9 und 10
 oder 13 und 14 nachzuweisen.
 
-
 ### § 4 Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans
 für die Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ### § 5 Berichtsheft
 
@@ -77,7 +68,6 @@ Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden
 haben das Berichtsheft regelmäßig durchzusehen.
 
-
 ### § 6 Fortsetzung der Berufsausbildung
 
 Die Berufsausbildung im Ausbildungsberuf Fachlagerist/Fachlageristin
@@ -85,10 +75,7 @@ gemäß § 1 Nr. 1 kann nach den Vorschriften dieser Verordnung für das
 dritte Ausbildungsjahr im Ausbildungsberuf Fachkraft für Lagerlogistik
 gemäß § 1 Nr. 2 fortgesetzt werden.
 
-
 ## Zweiter Teil - Vorschriften für den Ausbildungsberuf Fachlagerist/Fachlageristin
-
-
 
 ### § 7 Ausbildungsberufsbild
 
@@ -127,10 +114,6 @@ Fertigkeiten und Kenntnisse:
 
 11. Versand von Gütern.
 
-
-
-
-
 ### § 8 Ausbildungsrahmenplan
 
 Die Fertigkeiten und Kenntnisse nach § 7 sollen nach den in der Anlage
@@ -139,7 +122,6 @@ Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von
 dem Ausbildungsrahmenplan abweichende sachliche und zeitliche
 Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit
 betriebspraktische Besonderheiten die Abweichung erfordern.
-
 
 ### § 9 Zwischenprüfung
 
@@ -170,7 +152,6 @@ Dabei soll der Prüfling auch zeigen, dass er Arbeitsmittel auswählen
 und nach Kontrolle ihrer Funktionsfähigkeit anwenden kann. Darüber
 hinaus soll er zeigen, dass er den Sicherheits- und Gesundheitsschutz
 bei der Arbeit sowie den Umweltschutz berücksichtigen kann.
-
 
 ### § 10 Abschlussprüfung
 
@@ -302,10 +283,7 @@ schriftlichen Prüfungsbereiche müssen mindestens ausreichende
 Leistungen erbracht sein, in dem weiteren Prüfungsbereich dürfen keine
 ungenügenden Leistungen erbracht worden sein.
 
-
 ## Dritter Teil - Vorschriften für den Ausbildungsberuf Fachkraft für Lagerlogistik
-
-
 
 ### § 11 Ausbildungsberufsbild
 
@@ -344,10 +322,6 @@ Fertigkeiten und Kenntnisse:
 
 11. Versand von Gütern.
 
-
-
-
-
 ### § 12 Ausbildungsrahmenplan
 
 Die Fertigkeiten und Kenntnisse nach § 11 sollen nach den in der
@@ -357,7 +331,6 @@ werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und
 zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
 zulässig, soweit betriebspraktische Besonderheiten die Abweichung
 erfordern.
-
 
 ### § 13 Zwischenprüfung
 
@@ -399,10 +372,6 @@ folgende Gebiete in Betracht:
 
 
 3.  Lagerungsprozesse.
-
-
-
-
 
 ### § 14 Abschlussprüfung
 
@@ -589,17 +558,13 @@ oder in einer der Aufgaben des Prüfungsbereiches Praktische
 Arbeitsaufgaben mit "ungenügend" bewertet, so ist die Abschlussprüfung
 nicht bestanden.
 
-
 ## Vierter Teil - Schlussvorschriften
-
-
 
 ### § 15 Nichtanwendung von Vorschriften
 
 Die bisher festgelegten Berufsbilder, Berufsbildungspläne und
 Prüfungsanforderungen für den Ausbildungsberuf Handelsfachpacker sind
 vorbehaltlich des § 17 nicht mehr anzuwenden.
-
 
 ### § 16 Übergangsregelung
 
@@ -608,11 +573,9 @@ Verordnung bestehen, sind die bisherigen Vorschriften weiter
 anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
 Anwendung der Vorschriften dieser Verordnung.
 
-
 ### § 17 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2004 in Kraft.
-
 
 ### Anlage 1 (zu § 8)
 
@@ -1091,7 +1054,6 @@ der Berufsbildpositionen
 
 
 zu vertiefen.
-
 
 ### Anlage 2 (zu § 12)
 

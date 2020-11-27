@@ -18,8 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 15 G v. 30.7.2009 I 2479
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 128 Abs. 6 des Aktiengesetzes vom 6. September 1965
@@ -30,7 +28,6 @@ S. 3165) und dem Organisationserlass vom 22. Oktober 2002 (BGBl. I S.
 4206) verordnet das Bundesministerium der Justiz im Einvernehmen mit
 dem Bundesministerium für Wirtschaft und Arbeit und dem
 Bundesministerium der Finanzen:
-
 
 ## § 1 Höhe des Ersatzes bei Mitteilungen nach den §§ 125, 128 des Aktiengesetzes
 
@@ -99,10 +96,6 @@ folgende Beträge verlangen:
     zentraler Versendung der Mitteilungen kommt es für die
     Gruppenzuordnung auf deren Gesamtzahl an.
 
-
-
-
-
 ## § 2 Vergütung für Vervielfältigungen
 
 Soweit eine Gesellschaft einem Kreditinstitut die nach § 128 Abs. 1
@@ -110,7 +103,6 @@ des Aktiengesetzes an die Aktionäre weiterzugebenden Mitteilungen
 nicht rechtzeitig in der erforderlichen Anzahl zur Verfügung stellt,
 kann das Kreditinstitut für die Vervielfältigung von der Gesellschaft
 die übliche Vergütung verlangen.
-
 
 ## § 3 Angaben bei Namensaktien
 
@@ -167,12 +159,10 @@ Kosten erstattet verlangen, soweit diese 50 vom Hundert der
 Gesamtkosten übersteigen und diese Kosten nicht unangemessen hoch
 sind.
 
-
 ## § 4 Umsatzsteuer
 
 Das Kreditinstitut hat Anspruch auf Ersatz der auf seine
 Kostenerstattung gemäß §§ 1 bis 3 entfallenden Umsatzsteuer.
-
 
 ## § 5 Inkrafttreten, Außerkrafttreten
 

@@ -21,11 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 5 Abs. 3 V v. 9.5.1995 I 630
 
-
 ## (XXXX) §§ 1 bis 21 (weggefallen)
 
 -
-
 
 ## § 22 Mischgetränke (zu § 53 Abs. 3 des Gesetzes)
 
@@ -38,23 +36,19 @@ beträgt; er ist in Raumhundertteilen auf den Behältnissen,
 Getränkekarten und bei Preisangeboten unter Zusatz des Wortes
 "Mischgetränk" kenntlich zu machen.
 
-
 ## (XXXX) §§ 23 und 24 (weggefallen)
 
 -
 
-
 ## § 25
 
 (weggefallen)
-
 
 ## § 26 Straftaten
 
 Nach § 67 Abs. 2 bis 4 des Weingesetzes wird bestraft, wer vorsätzlich
 oder fahrlässig entgegen § 22 Mischgetränke ohne die vorgeschriebene
 Kenntlichmachung in den Verkehr bringt.
-
 
 ## (XXXX) §§ 27 und 28 (weggefallen)
 

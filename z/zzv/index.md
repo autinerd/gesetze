@@ -29,7 +29,6 @@ Artikel 1 Nr. 18 des Gesundheitsstrukturgesetzes vom 21. Dezember 1992
 (BGBl. I S. 2266) eingefügt worden ist, verordnet das
 Bundesministerium für Gesundheit:
 
-
 ## § 1
 
 (1) Fertigarzneimittel nach § 4 Abs. 1 Arzneimittelgesetz, die von
@@ -67,7 +66,6 @@ Satz 3 anzugeben.
 des Fünften Buches Sozialgesetzbuch von der Versorgung nach § 31 des
 Fünften Buches Sozialgesetzbuch ausgeschlossen sind.
 
-
 ## § 2
 
 (1) Fertigarzneimittel nach § 1, deren Packungsgröße die größte in den
@@ -83,7 +81,6 @@ Dezember 1994 eine Zuzahlung entsprechend der der jeweils höchsten in
 der Anlage genannten Zuzahlungsstufe folgenden Zuzahlungsstufe
 erhoben, höchstens jedoch wie für die Zuzahlungsstufe 3, jedoch nicht
 mehr als die Kosten des Mittels.
-
 
 ## § 3
 
@@ -102,14 +99,12 @@ Zuzahlung nach Satz 1 ist von der für die Gesamtmenge des
 Fertigarzneimittels zu leistenden Zuzahlung nach § 1 Abs. 1 oder 2
 auszugehen.
 
-
 ## § 4
 
 Für Fertigarzneimittel nach § 1, für die in den Anlagen keine Meßzahl
 für die Packungsgröße bestimmt ist, wird eine Zuzahlung der
 Zuzahlungsstufe 1 erhoben, jedoch nicht mehr als die Kosten des
 Mittels.
-
 
 ## § 5
 
@@ -133,11 +128,9 @@ ergeben.
 Zuzahlungsstufe nach Absatz 1 oder 2 nicht angegeben haben, dürfen
 nicht zu Lasten der gesetzlichen Krankenversicherung abgegeben werden.
 
-
 ## § 6
 
 Diese Verordnung tritt am 1. Januar 1994 in Kraft.
-
 
 ## Anlage 1 Abgeteilte orale Darreichungsformen (Stückzahl)
 
@@ -1171,13 +1164,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
         5)  Oder entsprechend 3 Zyklen.
-
-
-
-
-
-
-
 
 ## Anlage 2 Nicht abgeteilte Darreichungsformen zur oralen Anwendung*) (Mengenangaben in ml oder g)
 
@@ -2241,7 +2227,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ----- \*) Spezielle Darreichungsformen siehe Anlage 6.
 
-
 ## Anlage 3 Darreichungsformen zur rektalen und vaginalen Anwendung (Stückzahl, soweit nicht anders angegeben)
 
 (Fundstelle: BGBl. I 1993, 1562)
@@ -2495,10 +2480,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   200
 
     *   -
-
-
-
-
 
 ## Anlage 4 Abgeteilte Darreichungsformen zur Injektion oder Infusion*) (Stückzahl, soweit nicht anders angegeben)
 
@@ -3233,10 +3214,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 *    *   \*) Ausgenommen Depot-Zubereitungen; siehe Anlage 6.
 
-
-
-
-
 ## Anlage 5 Dermatika und Topika zur lokalen oder systemischen Anwendung (Mengenangaben in ml oder g, soweit nicht anders angegeben)
 
 Fundstelle des Originaltextes: BGBl. I 1993, 1564;
@@ -3910,10 +3887,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
     *   10 Anw
 
     *   20 Anw
-
-
-
-
 
 ## Anlage 6 Spezielle Darreichungsformen und andere Besonderheiten
 

@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 304 V v. 31.10.2006 I 2407
 
-
 ## § 1 Zweck
 
 (1) Zweck dieses Gesetzes ist die Sicherung von ausreichenden
@@ -51,7 +50,6 @@ Mitteln gedeckt werden kann.
 ist nur bei gemeinsamen Maßnahmen mit deutschen Streitkräften
 zulässig.
 
-
 ## § 2 Anwendung
 
 (1) Leistungen im Sinne dieses Gesetzes dürfen nur angefordert werden,
@@ -68,7 +66,6 @@ Vorschriften des § 1 Abs. 2 sowie der §§ 3 und 4 des Gesetzes über
 vereinfachte Verkündungen und Bekanntgaben vom 18. Juli 1975 (BGBl. I
 S. 1919), das durch Artikel 6 des Gesetzes vom 23. Juli 1992 (BGBl. I
 S. 1370) geändert worden ist, entsprechend anzuwenden.
-
 
 ## § 3 Leistungsarten
 
@@ -109,10 +106,6 @@ angefordert werden:
 4.  Verkehrsinfrastruktur auch die für den Betrieb der Verkehrswege
     notwendigen Einrichtungen.
 
-
-
-
-
 ## § 4 Leistungspflichtige
 
 (1) Zu Leistungen nach diesem Gesetz können verpflichtet werden:
@@ -144,7 +137,6 @@ Bundesministeriums für Verkehr, Bau und Stadtentwicklung zu Leistungen
 herangezogen werden, soweit Rechtsakte der Europäischen Gemeinschaften
 nicht entgegenstehen.
 
-
 ## § 5 Verpflichtungsbescheid
 
 (1) Leistungen nach § 3 werden von der nach § 7 Abs. 2 oder 3
@@ -155,7 +147,6 @@ Verpflichtungsbescheid ist zuzustellen.
 Verpflichtungsbescheid nach Absatz 1 haben keine aufschiebende
 Wirkung.
 
-
 ## § 6 Leistungsdauer
 
 Verkehrsleistungen im Sinne dieses Gesetzes dürfen nur auf bestimmte
@@ -163,7 +154,6 @@ Zeit, längstens für die Dauer von drei Monaten, angefordert werden.
 Wiederholte Anforderungen gleicher Leistungen sind im Anschluss an die
 bisherige Anforderung nur dann zulässig, wenn dies unumgänglich ist;
 Satz 1 gilt entsprechend.
-
 
 ## § 7 Bedarfsträger, zuständige Behörde, Leistungsempfänger
 
@@ -205,7 +195,6 @@ oder für den die Verkehrsleistungen erbracht werden sollen. Im Fall
 des § 1 Abs. 2 ist Leistungsempfänger der ausländische Staat, für
 dessen Streitkräfte die Leistungen angefordert werden.
 
-
 ## § 8 Auskunftspflicht
 
 (1) Wer nach § 4 Abs. 1 zur Leistung verpflichtet werden kann, hat den
@@ -225,7 +214,6 @@ juristische Personen dürfen nur für den in § 1 genannten Zweck und nur
 unter Beachtung der Vorschriften des Bundesdatenschutzgesetzes
 verwendet werden.
 
-
 ## § 9 Entschädigung
 
 Leistungen nach diesem Gesetz sind in entsprechender Anwendung der §§
@@ -235,7 +223,6 @@ ausschließlich gegen den Bedarfsträger. Auf die Festsetzung der
 Entschädigung und die Verjährung von Ansprüchen sind die §§ 34, 49 bis
 65 des Bundesleistungsgesetzes entsprechend anzuwenden.
 
-
 ## § 10 Härteausgleich
 
 (1) Wird durch eine Maßnahme auf Grund dieses Gesetzes dem Betroffenen
@@ -244,7 +231,6 @@ ist, ist eine Entschädigung in Geld zu gewähren. § 9 Satz 3 ist
 entsprechend anzuwenden.
 
 (2) Zur Leistung der Entschädigung ist der Bund verpflichtet.
-
 
 ## § 11 Zustellungen
 
@@ -266,12 +252,10 @@ Maßgabe, dass in dringenden Fällen, soweit es für die Erfüllung der in
 erfolgen kann. In diesen Fällen gilt die Zustellung mit dem auf die
 Bekanntgabe folgenden Tag als bewirkt.
 
-
 ## § 12 Verwaltungsvorschriften
 
 Das Bundesministerium für Verkehr, Bau und Stadtentwicklung erlässt
 die zur Ausführung notwendigen Verwaltungsvorschriften.
-
 
 ## § 13 Bußgeldvorschriften
 
@@ -291,7 +275,6 @@ die zur Ausführung notwendigen Verwaltungsvorschriften.
 einer Geldbuße bis zu dreißigtausend Euro, in den Fällen des Absatzes
 1 Nr. 2 mit einer Geldbuße bis zu zehntausend Euro geahndet werden.
 
-
 ## § 14 Strafvorschriften
 
 Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird
@@ -306,21 +289,15 @@ bestraft, wer
     Verkehrsleistungen ausnutzt, um bedeutende Vermögensvorteile zu
     erlangen.
 
-
-
-
-
 ## § 15 Zuständige Verwaltungsbehörde bei Ordnungswidrigkeiten
 
 Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über
 Ordnungswidrigkeiten ist die in § 7 Abs. 2 und 3 genannte zuständige
 Behörde.
 
-
 ## § 16
 
 -
-
 
 ## § 17 Inkrafttreten
 

@@ -18,28 +18,18 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 12 G v. 22.12.2011 I 3057
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Erster Abschnitt
-
-
 
 ### (XXXX) §§ 1 bis 6 (weggefallen)
 
-
-
 ## Zweiter Abschnitt - Leistungen der Versicherung
 
-
-
 ### I. - Arten der Leistungen
-
-
 
 #### § 7
 
@@ -53,24 +43,15 @@ Leistungen der Versicherung sind
 4\.
 5\. bis 7.
 
-
 ### II.
-
-
 
 #### (XXXX) §§ 8 bis 11a (weggefallen)
 
-
 ### III.
-
-
 
 #### (XXXX) §§ 12 bis 21b (weggefallen)
 
-
 ### IV. - Leistungen bei Schwangerschaft und Mutterschaft
-
-
 
 #### § 22
 
@@ -104,7 +85,6 @@ Mutterschaftsgeld. Bei Anwendung des § 65 Abs. 2 des Fünften Buches
 Sozialgesetzbuch bleiben die Leistungen nach Absatz 1
 unberücksichtigt.
 
-
 #### § 23
 
 (1) Die Versicherte hat während der Schwangerschaft, bei und nach der
@@ -120,7 +100,6 @@ Bestimmung des Übertragungsrisikos von Karies.
 Entbindung gelten die § 31 Abs. 3, § 32 Abs. 2, § 33 Abs. 8 und § 127
 Abs. 4 des Fünften Buches Sozialgesetzbuch nicht.
 
-
 #### § 24
 
 Wird die Versicherte zur Entbindung in ein Krankenhaus oder eine
@@ -129,13 +108,11 @@ auch Anspruch auf Unterkunft, Pflege und Verpflegung. Für diese Zeit
 besteht kein Anspruch auf Krankenhausbehandlung. § 39 Abs. 2 des
 Fünften Buches Sozialgesetzbuch gilt entsprechend.
 
-
 #### § 25
 
 Die Versicherte hat Anspruch auf häusliche Pflege, soweit diese wegen
 Schwangerschaft oder Entbindung erforderlich ist. § 37 Abs. 3 und 4
 des Fünften Buches Sozialgesetzbuch gilt entsprechend.
-
 
 #### § 26
 
@@ -160,10 +137,6 @@ Mutterschutzgesetzes entsprechend anzuwenden.
 3.  Unternehmen, in denen Arbeitnehmer oder versicherungspflichtige
     mitarbeitende Familienangehörige ständig beschäftigt werden.
 
-
-
-
-
 #### § 27
 
 (1) Die Satzung kann bestimmen, daß für landwirtschaftliche
@@ -180,7 +153,6 @@ ihnen wegen Schwangerschaft oder Entbindung die Weiterführung des
 Haushalts nicht möglich ist und eine andere im Haushalt lebende Person
 den Haushalt nicht weiterführen kann.
 
-
 #### § 28
 
 Als Betriebs- oder Haushaltshilfe ist eine Ersatzkraft zu stellen.
@@ -194,7 +166,6 @@ werden keine Kosten erstattet; die Krankenkasse kann jedoch die
 erforderlichen Fahrkosten und den Verdienstausfall erstatten, wenn die
 Erstattung in einem angemessenen Verhältnis zu den sonst für eine
 Ersatzkraft entstehenden Kosten steht.
-
 
 #### § 29
 
@@ -272,117 +243,65 @@ der Geburt entsprechend.
 Mitglied beitragspflichtiges Arbeitsentgelt oder Arbeitseinkommen
 erhält. Dies gilt nicht für einmalig gezahltes Arbeitsentgelt.
 
-
 #### § 30 (weggefallen)
-
-
 
 #### § 31
 
 (weggefallen)
 
-
 #### IVa. - Sonstige Hilfen
-
-
 
 ### V.
 
-
-
 #### (XXXX) §§ 32 und 33 (weggefallen)
-
-
 
 ### VI.
 
-
-
 #### (XXXX) §§ 34 bis 36 (weggefallen)
 
-
-
 ### VII.
-
-
 
 #### § 37
 
 -
 
-
 ### VIII.
-
-
 
 #### (XXXX) §§ 38 bis 43 (weggefallen)
 
-
-
 ## Dritter Abschnitt
-
-
 
 ### (XXXX) §§ 44 bis 55 (weggefallen)
 
-
-
 ## Vierter Abschnitt
-
-
 
 ### (XXXX) §§ 56 bis 60 (weggefallen)
 
-
-
 ## Fünfter Abschnitt
-
-
 
 ### (XXXX) §§ 61 bis 73 (weggefallen)
 
-
-
 ### V.
-
-
 
 #### § 73a
 
 -
 
-
 ## Sechster Abschnitt - Verhältnis zu Ärzten, Zahnärzten, Krankenhäusern, Apotheken, Hebammen und Einrichtungen für Betriebs- sowie Haushaltshilfe
-
-
 
 ### (XXXX) §§ 74 bis 77 (weggefallen)
 
-
-
 ## Siebenter Abschnitt
-
-
 
 ### (XXXX) §§ 78 bis 82 (weggefallen)
 
-
-
 ## Achter Abschnitt
-
-
 
 ### (XXXX) §§ 83 bis 93
 
-
-
 ## Neunter Abschnitt
 
-
-
 ### (XXXX) §§ 94 bis 118 (weggefallen)
-
-
 
 ### Anhang EV Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet G Abschnitt II (BGBl. II 1990, 889, 1055) - Änderungen oder Ergänzungen des Bundesrechts -
 

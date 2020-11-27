@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 55 G v. 8.12.2010 I 1864
 
-
 ## Erster Abschnitt - Ahndung von Zuwiderhandlungen im Bereich des Wirtschaftsrechts
-
-
 
 ### § 1 Strafbare Verstöße gegen Sicherstellungsvorschriften
 
@@ -90,7 +87,6 @@ vor, wenn
 (4) Handelt der Täter fahrlässig, so ist die Strafe Freiheitsstrafe
 bis zu zwei Jahren oder Geldstrafe.
 
-
 ### § 2 Ordnungswidrige Verstöße gegen Sicherstellungsvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig eine der
@@ -115,7 +111,6 @@ wiederholt.
 (3) Die Ordnungswidrigkeit und der Versuch einer Ordnungswidrigkeit
 können mit einer Geldbuße bis zu fünfundzwanzigtausend Euro geahndet
 werden.
-
 
 ### § 3 Verstöße gegen die Preisregelung
 
@@ -144,7 +139,6 @@ Verweisung ist nicht erforderlich, soweit § 16 dies bestimmt.
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
 fünfundzwanzigtausend Euro geahndet werden.
 
-
 ### § 4 Preisüberhöhung in einem Beruf oder Gewerbe
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig in
@@ -157,7 +151,6 @@ sind.
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
 fünfundzwanzigtausend Euro geahndet werden.
-
 
 ### § 5 Mietpreisüberhöhung
 
@@ -181,15 +174,11 @@ auffälligen Missverhältnis zu der Leistung des Vermieters stehen.
 (3) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
 fünfzigtausend Euro geahndet werden.
 
-
 ### § 6
 
 -
 
-
 ## Zweiter Abschnitt - Ergänzende Vorschriften
-
-
 
 ### § 7 Einziehung
 
@@ -205,7 +194,6 @@ können
 
 
 eingezogen werden.
-
 
 ### § 8 Abführung des Mehrerlöses
 
@@ -232,7 +220,6 @@ Ordnungswidrigkeiten). Bei Zuwiderhandlungen im Sinne des § 1 gelten
 die Vorschriften des Strafgesetzbuches über die Verjährung des
 Verfalls entsprechend.
 
-
 ### § 9 Rückerstattung des Mehrerlöses
 
 (1) Statt der Abführung kann auf Antrag des Geschädigten die
@@ -250,7 +237,6 @@ Geschädigte aus dem bereits abgeführten Mehrerlös befriedigt wird.
 Verletzten (§§ 403 bis 406c) sind mit Ausnahme des § 405 Satz 1, §
 406a Abs. 3 und § 406c Abs. 2 entsprechend anzuwenden.
 
-
 ### § 10 Selbständige Abführung des Mehrerlöses
 
 (1) Kann ein Straf- oder Bußgeldverfahren nicht durchgeführt werden,
@@ -265,7 +251,6 @@ juristische Person oder eine Personengesellschaft des Handelsrechts
 ist, auch gegen diese selbständig angeordnet werden, wenn ihnen der
 Mehrerlös zugeflossen ist.
 
-
 ### § 11 Verfahren
 
 (1) Im Strafverfahren ist die Abführung des Mehrerlöses im Urteil
@@ -277,11 +262,9 @@ Bußgeldbescheid auszusprechen. Im selbständigen Verfahren steht der
 von der Verwaltungsbehörde zu erlassende Bescheid einem
 Bußgeldbescheid gleich.
 
-
 ### § 12
 
 (weggefallen)
-
 
 ### § 13 Besondere Vorschriften für das Strafverfahren
 
@@ -300,20 +283,15 @@ Gesetzes über Ordnungswidrigkeiten über die Beteiligung der
 Verwaltungsbehörde im Verfahren der Staatsanwaltschaft und im
 gerichtlichen Verfahren entsprechend.
 
-
 ### § 14
 
 (weggefallen)
 
-
 ## Dritter Abschnitt - Übergangs- und Schlußvorschriften
-
-
 
 ### § 15
 
 (weggefallen)
-
 
 ### § 16 Verweisungen
 
@@ -333,25 +311,19 @@ Fassung nicht erforderlich war, bestimmt sich die Ahndung der
 Zuwiderhandlungen nach § 3 Abs. 1 Satz 1, ohne daß es einer Verweisung
 bedarf.
 
-
 ### § 17
 
 (weggefallen)
-
 
 ### § 18
 
 (weggefallen)
 
-
 ### § 19
 
 (weggefallen)
 
-
 ### (XXXX) §§ 20, 21a, 22 (weggefallen)
-
-
 
 ### § 21 Begriffsbestimmung
 
@@ -368,7 +340,6 @@ Verlängerung des Wirtschaftsstrafgesetzes vom 25. März 1952
 (Bundesgesetzbl. I S. 188) und das Gesetz zur Verlängerung des
 Wirtschaftsstrafgesetzes vom 17. Dezember 1952 (Bundesgesetzbl. I S.
 805) bestimmt sind.
-
 
 ### § 23 Inkrafttreten
 

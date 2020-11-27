@@ -16,15 +16,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1998, 3843, 3848
 
-
-
 ## § 1 Beitragssätze in der Rentenversicherung
 
 Der Beitragssatz beträgt für die Zeit vom 1. April 1999 bis zum 31.
 Dezember 1999 in der Rentenversicherung der Arbeiter und der
 Angestellten 19,5 vom Hundert und in der knappschaftlichen
 Rentenversicherung 25,9 vom Hundert.
-
 
 ## § 2 Beitrag in der Alterssicherung der Landwirte
 
@@ -35,7 +32,6 @@ Deutsche Mark.
 (2) Der Beitrag in der Alterssicherung der Landwirte beträgt für das
 Beitrittsgebiet für die Zeit vom 1. April 1999 bis zum 31. Dezember
 1999 monatlich 276 Deutsche Mark.
-
 
 ## § 3 Beitragszuschuß in der Alterssicherung der Landwirte
 
@@ -307,10 +303,6 @@ vom 1. April 1999 bis zum 31. Dezember 1999 wie folgt festgesetzt:
 *    *   39.001 - 40.000 DM
 
     *   9 DM.
-
-
-
-
 
 ## § 4 Umrechnungsfaktoren für den Versorgungsausgleich in der Rentenversicherung
 

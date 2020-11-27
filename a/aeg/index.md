@@ -21,7 +21,6 @@ Zuletzt geändert durch
 G aufgeh. durch
 :   Art. 8 § 1 Nr. 1 G v. 27.12.1993 I 2378 mWv 1.1.1994; die §§ 6a, 6c, 6e Abs. 1 und die §§ 6f und 6g gelten gemäß Art. 8 § 2 G v. 27.12.1993 I 2378 fort.
 
-
 ## § 6a Ausgleichspflicht
 
 (1) Der Eisenbahn ist für die Beförderung von Personen mit
@@ -65,7 +64,6 @@ nach Satz 2 nicht in vollem Umfang nach, so ist der Ausgleich in dem
 Umfang zu ändern, wie er sich im Falle der Befolgung der Auflagen
 errechnet hätte.
 
-
 ## § 6c Ausgleichspflichtiger
 
 Den Ausgleich nach den §§ 6a und 6b Nr. 1 bis 3 gewährt das Land, in
@@ -73,7 +71,6 @@ dessen Gebiet der Verkehr betrieben wird; den Ausgleich nach § 6b Nr.
 4 gewährt der Bund. Erstreckt sich der Verkehr auch auf das Gebiet
 eines anderen Landes, so wird dem Ausgleich der Teil der Leistungen
 zugrunde gelegt, der in dem jeweiligen Land erbracht wird.
-
 
 ## § 6e Ermittlung des Ausgleichs, Verfahren
 
@@ -86,7 +83,6 @@ anzuwenden ist, welche Angaben der Antrag auf Ausgleich enthalten muß
 und wie die Erträge und die Personen-Kilometer zu ermitteln sind.
 
 (2) (weggefallen)
-
 
 ## § 6f Prüfungsbefugnisse
 
@@ -114,20 +110,17 @@ tätigen Personen haben den Beauftragten bei den Ermittlungen die
 erforderlichen Hilfsmittel zu stellen und die nötigen Hilfsdienste zu
 leisten.
 
-
 ## § 6g Sonderregelung
 
 Die Vorschriften der §§ 6a bis 6f finden auf die Deutsche Bundesbahn
 sowie auf Eisenbahnen, die nicht dem öffentlichen Verkehr dienen,
 keine Anwendung.
 
-
 ## § 6h Ersetzung bundesrechtlicher Vorschriften durch Landesrecht
 
 Die Länder können mit Wirkung ab dem 1. Januar 2007 die Vorschriften
 der §§ 6a, 6c, 6e und 6f sowie die Vorschriften, zu deren Erlass § 6e
 ermächtigt, durch Landesrecht ersetzen.
-
 
 ## Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet A Abschnitt III (BGBl. II 1990, 889, 1098) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 

@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 691
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 21 Abs. 10 Satz 2 des Jugendschutzgesetzes vom 23.
@@ -27,7 +25,6 @@ in Verbindung mit dem 2. Abschnitt des Verwaltungskostengesetzes vom
 23\. Juni 1970 (BGBl. I S. 821), zuletzt geändert durch Artikel 4 des
 Gesetzes vom 5. Oktober 1994 (BGBl. I S. 2911), verordnet das
 Bundesministerium für Familie, Senioren, Frauen und Jugend:
-
 
 ## § 1 Geltungsbereich
 
@@ -46,7 +43,6 @@ gerichtet sind, dass ein Medium
 
 erhebt die Bundesprüfstelle für jugendgefährdende Medien Gebühren.
 
-
 ## § 2 Vorschusszahlung
 
 Die Bundesprüfstelle für jugendgefährdende Medien kann die
@@ -54,22 +50,18 @@ Entscheidung über einen Antrag nach § 1 von der Zahlung eines
 angemessenen Vorschusses bis zur Höhe der voraussichtlich entstehenden
 Gebühren abhängig machen.
 
-
 ## § 3 Höhe der Gebühren
 
 Gebühren werden nach dem Gebührenverzeichnis der Anlage zu dieser
 Verordnung erhoben.
 
-
 ## § 4 Inkrafttreten
 
 Die Verordnung tritt mit Wirkung vom 1. Januar 2004 in Kraft.
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage (zu § 3) Gebührenverzeichnis
 

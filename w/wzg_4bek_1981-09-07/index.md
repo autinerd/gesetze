@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1981, 940
 
-
-
 ## I.
 
 Auf Grund des § 4 Abs. 2 Nr. 3 des Warenzeichengesetzes in der Fassung
@@ -32,7 +30,6 @@ amtliche Prüf- und Gewährzeichen bekanntgemacht, die
 
 
 eingeführt sind.
-
 
 ## II.
 
@@ -51,58 +48,48 @@ bekanntgemacht, daß die Bezeichnungen, Abkürzungen und Kennzeichen
 
 von der Eintragung als Warenzeichen ausgeschlossen sind.
 
-
 ## III.
 
 -
-
 
 ## IV.
 
 Diese Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom 19.
 Dezember 1980 (BGBl. I S. 2352).
 
-
 ## Schlußformel
 
 Der Bundesminister der Justiz
-
 
 ## Anlage 1 Niederländische Prüf- und Gewährzeichen für Eier von freilaufenden Hennen
 
 (Inhalt: Nicht darstellbare Prüf- und Gewährzeichen,
 Fundstelle: BGBl. I 1981, 941)
 
-
 ## Anlage 2 Niederländische Prüf- und Gewährzeichen für Speck
 
 (Inhalt: Nicht darstellbare Prüf- und Gewährzeichen,
 Fundstelle: BGBl. I 1981, 941)
-
 
 ## Anlage 3 Brasilianische Prüf- und Gewährzeichen für Edelmetalle
 
 (Inhalt: Nicht darstellbare Prüf- und Gewährzeichen,
 Fundstelle: BGBl. I 1981, 942)
 
-
 ## Anlage 4 Internationale kriminalpolizeiliche Organisation
 
 (Inhalt: Nicht darstellbare Kennzeichen,
 Fundstelle: BGBl. I 1981, 943 - 944)
-
 
 ## Anlage 5 Internationale Seefunksatelliten-Organisation
 
 (Inhalt: Nicht darstellbare Abkürzung und Kennzeichen,
 Fundstelle: BGBl. I 1981, 945)
 
-
 ## Anlage 6 Weltorganisation für Tourismus
 
 (Inhalt: Nicht darstellbare Kennzeichen,
 Fundstelle: BGBl. I 1981, 946)
-
 
 ## Anlage 7
 

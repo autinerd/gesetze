@@ -18,13 +18,11 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 10 G v. 6.7.2009 I 1696
 
-
 ## Eingangsformel
 
 Auf Grund des § 78a Abs. 3 der Bundesnotarordnung, der durch Artikel
 2b des Gesetzes vom 23. April 2004 (BGBl. I S. 598) eingefügt worden
 ist, verordnet das Bundesministerium der Justiz:
-
 
 ## § 1 Inhalt des Zentralen Vorsorgeregisters
 
@@ -129,7 +127,6 @@ Notars und die Anschrift seiner Geschäftsstelle aufgenommen werden.
 
 (3) Die Eintragung erfolgt unter Angabe ihres Datums.
 
-
 ## § 2 Eintragungsantrag
 
 (1) Die Eintragung erfolgt auf schriftlichen Antrag des
@@ -152,7 +149,6 @@ Verschlüsselungsverfahren anzuwenden.
 des Antragstellers zu überzeugen. Im Übrigen prüft sie die Richtigkeit
 der mit dem Antrag übermittelten Angaben nicht.
 
-
 ## § 3 Vorschuss, Antragsrücknahme bei Nichtzahlung
 
 (1) Die Bundesnotarkammer kann die Zahlung eines zur Deckung der
@@ -165,7 +161,6 @@ gezahlt, gilt der Antrag als zurückgenommen. Die Frist sowie die
 Rechtsfolge der Fristversäumnis sind mit dem Verlangen des Vorschusses
 mitzuteilen. Die Frist darf 30 Tage nicht unterschreiten.
 
-
 ## § 4 Benachrichtigung des Bevollmächtigten
 
 Nach Eingang des Eintragungsantrags hat die Bundesnotarkammer einen
@@ -176,7 +171,6 @@ unterrichten. Die Bundesnotarkammer hat den Bevollmächtigten über den
 Zweck des Registers und darüber aufzuklären, dass er jederzeit die
 Löschung seiner personenbezogenen Daten aus dem Register verlangen
 kann.
-
 
 ## § 5 Änderung, Ergänzung und Löschung von Eintragungen
 
@@ -193,7 +187,6 @@ Bevollmächtigten zu löschen. § 2 Abs. 2 und 3 gilt entsprechend.
 
 (4) Eintragungen sind 110 Jahre nach der Geburt des Vollmachtgebers zu
 löschen.
-
 
 ## § 6 Auskunft an die Betreuungsgerichte und die Landgerichte als Beschwerdegerichte
 
@@ -217,7 +210,6 @@ Auskunft aus dem Register schriftlich oder elektronisch. Hierbei sind
 die erforderlichen Maßnahmen zu treffen, um die Authentizität des
 Ersuchens zu prüfen und die Vertraulichkeit der Auskunft zu
 gewährleisten.
-
 
 ## § 7 Protokollierung der Auskunftserteilungen
 
@@ -246,13 +238,11 @@ löscht Protokolle, die ihm nach Absatz 1 Satz 4 zur Verfügung gestellt
 worden sind, ein Jahr nach ihrem Eingang, sofern sie nicht für
 weitere, bereits eingeleitete Prüfungen benötigt werden.
 
-
 ## § 8 Sicherung der Daten
 
 Die im Register gespeicherten Daten sind nach dem Stand der Technik so
 zu sichern, dass Verluste und Veränderungen von Daten verhindert
 werden.
-
 
 ## § 9 Aufbewahrung von Dokumenten
 
@@ -263,13 +253,11 @@ die letzte Verfügung zur Sache ergangen ist oder die Angelegenheit
 ihre Erledigung gefunden hat. Nach Ablauf der Aufbewahrungsfrist sind
 die Dokumente zu vernichten.
 
-
 ## § 10 Betreuungsverfügungen
 
 Im Zentralen Vorsorgeregister können auch Betreuungsverfügungen
 unabhängig von der Eintragung einer Vollmacht registriert werden. Die
 §§ 1 bis 9 gelten entsprechend.
-
 
 ## Schlussformel
 

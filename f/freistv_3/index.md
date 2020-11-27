@@ -16,15 +16,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1999, 1247
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 53c Nr. 2 des Gesetzes über das Kreditwesen in der
 Fassung der Bekanntmachung vom 9. September 1998 (BGBl. I S. 2776),
 geändert durch Gesetz vom 19. Dezember 1998 (BGBl. I S. 3836),
 verordnet das Bundesministerium der Finanzen:
-
 
 ## § 1
 
@@ -45,7 +42,6 @@ werden
 
 nicht mehr angewandt.
 
-
 ## § 2
 
 Auf die in § 1 genannten Zweigstellen werden die §§ 13 bis 13b des
@@ -53,7 +49,6 @@ Gesetzes über das Kreditwesen über Großkredite mit der Maßgabe
 angewandt, daß an die Stelle der Eigenmittel der Zweigstelle nach § 53
 Abs. 2 Nr. 4 des Gesetzes über das Kreditwesen die konsolidierten
 Eigenmittel der Kreditinstitutsgruppe treten.
-
 
 ## § 3
 

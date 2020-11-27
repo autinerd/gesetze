@@ -16,15 +16,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1986, 715
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 13 Abs. 2 des Wassersicherstellungsgesetzes vom 24.
 August 1965 (BGBl. I S. 1225), der durch Artikel 2 Abs. 1 des Gesetzes
 vom 20. März 1975 (BGBl. I S. 705) geändert worden ist, verordnet die
 Bundesregierung:
-
 
 ## § 1
 
@@ -34,7 +31,6 @@ wird auf die Landesregierungen übertragen.
 
 (2) Die Landesregierungen können die ihnen nach Absatz 1 übertragene
 Ermächtigung durch Rechtsverordnung weiter übertragen.
-
 
 ## § 2
 

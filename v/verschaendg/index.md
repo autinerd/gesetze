@@ -18,14 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 131 G v. 19.4.2006 I 866
 
-
 ## Art 1 -
 
-
-
 ## Art 2 - Sondervorschriften für Verschollenheitsfälle aus Anlaß des Krieges 1939 bis 1945
-
-
 
 ## § 1
 
@@ -69,7 +64,6 @@ gelebt hat, Angehöriger eines fremden Staates oder staatenlos war,
 
 § 12 Abs. 2 und 3 des Verschollenheitsgesetzes bleiben unberührt.
 
-
 ## § 2
 
 (1) In den Fällen des § 1 sind Ermittlungen über den Zeitpunkt des
@@ -90,7 +84,6 @@ des Jahres 1945 festzustellen. Hat der Verschollene diesen Zeitpunkt
 in den Fällen des § 1 Abs. 2 Satz 2 des ersten Jahres nach dem letzten
 Jahre festzustellen, in dem er nach den vorhandenen Nachrichten noch
 gelebt hat.
-
 
 ## § 3
 
@@ -115,12 +108,10 @@ britische Zone erlassenen Verordnung vom 16. Dezember 1946
 Todes eines Verschollenen der 8. Mai 1945 festgestellt worden, so
 gelten die Absätze 1 und 2 entsprechend.
 
-
 ## § 4
 
 Die §§ 2, 3 sind im Verfahren bei Feststellung der Todeszeit
 entsprechend anzuwenden.
-
 
 ## § 5
 
@@ -145,12 +136,10 @@ festgestellt wird, gilt als am Ende des Tages der Ausgabe derjenigen
 Verschollenheitsliste bewirkt, welche die Bekanntmachung des
 Beschlusses enthält.
 
-
 ## § 6
 
 In den Fällen der §§ 1, 2 und den entsprechenden Fällen des § 4 werden
 für das Verfahren vor dem Amtsgericht Gerichtskosten nicht erhoben.
-
 
 ## § 7
 
@@ -161,17 +150,13 @@ Antragstellung ihren Wohnsitz oder in Ermangelung eines Wohnsitzes
 ihren gewöhnlichen Aufenthalt im Geltungsbereich dieses Gesetzes, so
 ist § 15 Abs. 1 des Verschollenheitsgesetzes nicht anzuwenden.
 
-
 ## § 8
 
 In den Fällen des § 1 sind die Vorschriften des
 Verschollenheitsgesetzes anzuwenden, soweit in diesem Artikel nicht
 besondere Bestimmungen getroffen sind.
 
-
 ## Art 3 - Ergänzungen zu den Vorschriften des Eherechts über die Wiederverheiratung im Falle der Todeserklärung
-
-
 
 ## § 1
 
@@ -183,19 +168,13 @@ im Falle der Todeserklärung entsprechend.
 
 (2) (weggefallen)
 
-
 ## § 2
 
 (weggefallen)
 
-
 ## Art 4 - Übergangs- und Schlußvorschriften
 
-
-
 ## (XXXX) §§ 1 und 2
-
-
 
 ## § 3
 
@@ -207,13 +186,11 @@ als der Anspruch den Betrag übersteigt, der sich ergeben würde, wenn
 der Zeitpunkt des Todes des Verschollenen nach den Vorschriften dieses
 Gesetzes festgestellt worden wäre.
 
-
 ## § 4
 
 Soweit eine Vorschrift dieses Gesetzes auf seinen Geltungsbereich
 Bezug nimmt, gilt jedes Gebiet, in dem eine solche Vorschrift
 eingeführt wird, als Geltungsbereich dieses Gesetzes.
-
 
 ## § 5
 
@@ -222,11 +199,9 @@ eingeführt wird, als Geltungsbereich dieses Gesetzes.
 (2) Der Bundesminister der Justiz wird ermächtigt,
 Verwaltungsvorschriften über die Verschollenheitsliste zu erlassen.
 
-
 ## § 6
 
 -
-
 
 ## Anhang EV Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet B Abschnitt III (BGBl. II 1990, 889, 953)
 

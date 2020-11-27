@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1970, 802
 
-
-
 ## Art 1
 
 Dem in Genf am 28. Juni 1962 von der Allgemeinen Konferenz der
@@ -46,7 +44,6 @@ e)  Leistungen bei Arbeitslosigkeit.
 
 Das Übereinkommen wird nachstehend veröffentlicht.
 
-
 ## Art 2
 
 Nach Maßgabe von Artikel 5 Abs. 1 des Übereinkommens sind von dem Tag
@@ -67,15 +64,10 @@ Kraft tritt, nicht mehr anzuwenden:
     Arbeitsunfällen und Berufskrankheiten übernommen haben, sowie auf die
     in Artikel 10 Abs. 1 des Übereinkommens genannten Personen.
 
-
-
-
-
 ## Art 3
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
-
 
 ## Art 4
 

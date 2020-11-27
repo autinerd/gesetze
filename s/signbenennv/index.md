@@ -20,7 +20,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 13.12.2007 I 3038
 
-
 ## Eingangsformel
 
 Auf Grund des Artikels 3 des Gesetzes zu dem Abkommen vom 15. November
@@ -30,7 +29,6 @@ dem Protokoll vom 30. November 1996 über die Einbringung von
 Korrekturen in dieses Abkommen (BGBl. 1998 II S. 2346) verordnet das
 Bundesministerium für Wirtschaft und Arbeit im Einvernehmen mit dem
 Bundesministerium der Finanzen:
-
 
 ## § 1 Anwendungsbereich
 
@@ -43,10 +41,6 @@ Diese Verordnung regelt
 
 2.  die Erhebung von Kosten (Gebühren und Auslagen) für Entscheidungen
     über die Benennung von Signataren.
-
-
-
-
 
 ## § 2 Voraussetzungen
 
@@ -64,10 +58,6 @@ Bundesministerium für Wirtschaft und Technologie werden,
     wirtschaftspolitischer Aufsicht des Bundesministeriums für Wirtschaft
     und Technologie als Vertreter der deutschen Vertragspartei bei
     INTERSPUTNIK wahrzunehmen.
-
-
-
-
 
 ## § 3 Verfahren
 
@@ -94,13 +84,11 @@ Organisation 25 Prozent übersteigen sollte.
 durch das Bundesministerium für Wirtschaft und Technologie gilt
 grundsätzlich Absatz 1 entsprechend.
 
-
 ## § 4 Gebührenhöhe
 
 Für Amtshandlungen in Zusammenhang mit Entscheidungen über die
 Benennung eines Signatars wird eine einmalige Gebühr von 500 Euro
 erhoben.
-
 
 ## § 5 Inkrafttreten
 

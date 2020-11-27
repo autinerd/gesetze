@@ -21,7 +21,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 3 G v. 7.12.2011 I 2592
 
-
 ## § 1 Arbeitnehmer, Arbeitgeber
 
 (1) Arbeitnehmer sind Personen, die in öffentlichem oder privatem
@@ -44,7 +43,6 @@ innerhalb der von ihm selbständig ausgeübten gewerblichen oder
 beruflichen Tätigkeit im Inland gegen Entgelt ausführt, soweit es sich
 um die Entgelte für diese Lieferungen und sonstigen Leistungen
 handelt.
-
 
 ## § 2 Arbeitslohn
 
@@ -101,14 +99,9 @@ Bezeichnung oder in welcher Form die Einnahmen gewährt werden.
 8.  Entschädigungen für Nebenämter und Nebenbeschäftigungen im Rahmen
     eines Dienstverhältnisses.
 
-
-
-
-
 ## § 3
 
 (weggefallen)
-
 
 ## § 4 Lohnkonto
 
@@ -234,11 +227,9 @@ der nicht vom Dritten, sondern vom Arbeitgeber selbst gezahlt wird. In
 den Fällen des § 38 Abs. 3a Satz 7 ist der Arbeitslohn für jedes
 Dienstverhältnis gesondert aufzuzeichnen.
 
-
 ## § 5
 
 (aufgehoben)
-
 
 ## § 5 Besondere Aufzeichnungs- und Mitteilungspflichten im Rahmen der betrieblichen Altersversorgung
 
@@ -318,16 +309,13 @@ Höchstbeträgen um steuerbegünstigte Beiträge handelt, die in der
 Auszahlungsphase als Leistungen im Sinne von § 22 Nr. 5 Satz 1 des
 Einkommensteuergesetzes zu besteuern sind.
 
-
 ## § 6
 
 (aufgehoben)
 
-
 ## § 7
 
 (aufgehoben)
-
 
 ## § 8 Anwendungszeitraum
 

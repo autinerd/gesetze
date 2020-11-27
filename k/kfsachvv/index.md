@@ -18,14 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 V v. 7.1.2011 I 3
 
-
 ## Eingangsformel
 
 Auf Grund des § 4 Abs. 4 und des § 18 Abs. 2 und 3 des
 Kraftfahrsachverständigengesetzes vom 22. Dezember 1971
 (Bundesgesetzbl. I S. 2086) wird mit Zustimmung des Bundesrates
 verordnet:
-
 
 ## § 1 Zweck und Durchführung der Ausbildung
 
@@ -79,7 +77,6 @@ künftigen Befugnisse. Diese Arbeiten sind vom Ausbildungsleiter zu
 beurteilen und dem Antrag auf Zulassung zur Prüfung beizufügen. Auf
 Verlangen der Anerkennungsbehörde sind die Wochenberichte beizufügen.
 
-
 ## § 2 Prüfungsausschuß
 
 (1) Die Prüfung ist vor einem Prüfungsausschuß abzulegen. Der
@@ -117,12 +114,10 @@ ist. Auf Antrag des Bewerbers kann mit Zustimmung der beteiligten
 zuständigen obersten Landesbehörden die Prüfung auch von einem anderen
 Prüfungsausschuß abgenommen werden.
 
-
 ## § 3 Zulassung zur Prüfung
 
 Die Anerkennungsbehörde entscheidet über die Zulassung zur Prüfung.
 Sie beauftragt den Prüfungsausschuß mit der Durchführung der Prüfung.
-
 
 ## § 4 Prüfungstermine
 
@@ -139,13 +134,11 @@ Anwesenheit bei dem mündlichen Teil der Prüfung gestatten, ebenso den
 Ausbildungsleitern der Technischen Prüfstellen. Beauftragte der
 Anerkennungsbehörden können jederzeit der Prüfung beiwohnen.
 
-
 ## § 5 Teile der Prüfung
 
 Die Prüfung umfaßt einen praktischen, einen schriftlichen und einen
 mündlichen Teil. Die Reihenfolge bestimmt der Vorsitzende des
 Prüfungsausschusses.
-
 
 ## § 6 Praktischer Teil der Prüfung
 
@@ -156,7 +149,6 @@ vorschriftsmäßig, sicher und gewandt im Straßenverkehr führen kann.
 (2) Der Vorsitzende kann bestimmen, daß der praktische Teil der
 Prüfung vor nur zwei Mitgliedern des Prüfungsausschusses abgelegt
 wird.
-
 
 ## § 7 Schriftlicher Teil der Prüfung
 
@@ -196,14 +188,12 @@ werden.
 (4) Der Vorsitzende kann Gesetzestexte und technische Handbücher als
 Hilfsmittel zulassen.
 
-
 ## § 8 Mündlicher Teil der Prüfung
 
 Der mündliche Teil der Prüfung dient dem zusammenfassenden Nachweis
 des Fachwissens und der Fähigkeit, das Wissen anzuwenden; er soll in
 der Regel für jeden Bewerber mindestens 30 Minuten dauern und muß alle
 drei Fachgebiete des schriftlichen Teils umfassen.
-
 
 ## § 9 Bewertung der Prüfung
 
@@ -244,10 +234,6 @@ bilden. Es ist nach folgenden Noten zu bewerten:
 
     *   (6) = eine völlig unbrauchbare Leistung.
 
-
-
-
-
 ## § 10 Bestehen der Prüfung
 
 Die Gesamtprüfung ist bestanden, wenn
@@ -261,10 +247,6 @@ Die Gesamtprüfung ist bestanden, wenn
 
 3.  die Leistungen in jedem der drei Fachgebiete mindestens mit der
     Gesamtnote "ausreichend" bewertet worden sind.
-
-
-
-
 
 ## § 11 Entscheidung über die Prüfung
 
@@ -299,7 +281,6 @@ die mindestens mit der Gesamtnote "befriedigend" bewertet worden sind.
 Eine Anrechnung ist nur möglich, wenn die Wiederholungsprüfung
 innerhalb eines Jahres durchgeführt wird.
 
-
 ## § 12 Bekanntgabe der Entscheidung
 
 Der Vorsitzende gibt im Anschluß an die Entscheidung des
@@ -308,7 +289,6 @@ hat. Im Fall des Nichtbestehens der Prüfung hat er dem Bewerber die
 Gründe hierfür anzugeben. Außerdem ist dem Bewerber mitzuteilen, ob
 der praktische Teil der Prüfung oder Leistungen in den Fachgebieten
 bei der Wiederholungsprüfung angerechnet werden können.
-
 
 ## § 13 Niederschrift über die Prüfung
 
@@ -320,7 +300,6 @@ ersichtlich sein.
 (2) Die Anerkennungsbehörde hat dem Bewerber nach bestandener Prüfung
 eine Prüfungsbescheinigung auszustellen.
 
-
 ## § 14 Wiederholungsprüfungen
 
 Hat der Bewerber die Prüfung nicht bestanden, kann er sie nach
@@ -329,7 +308,6 @@ der Bewerber auch die Wiederholungsprüfung nicht, kann er sie nur noch
 einmal, und zwar frühestens nach Ablauf von weiteren sechs Monaten,
 wiederholen.
 
-
 ## § 15 Ausbildung und Prüfung der Bewerber bei Behörden
 
 Bewerber um die amtliche Anerkennung als Sachverständiger oder Prüfer
@@ -337,13 +315,11 @@ für den Kraftfahrzeugverkehr bei Behörden nach § 16 des Gesetzes sind
 in entsprechender Anwendung der Vorschriften dieser Verordnung
 auszubilden und zu prüfen.
 
-
 ## § 16 Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit § 23 des
 Kraftfahrsachverständigengesetzes auch im Land Berlin.
-
 
 ## § 17 Inkrafttreten
 
@@ -353,7 +329,6 @@ Kraftfahrsachverständigengesetzes auch im Land Berlin.
 Kraftfahrsachverständigengesetz und nach den auf diesem Gesetz
 beruhenden Rechtsvorschriften werden Kosten (Gebühren und Auslagen)
 nach der Gebührenordnung für Maßnahmen im Straßenverkehr erhoben.
-
 
 ## Schlußformel
 

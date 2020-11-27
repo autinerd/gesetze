@@ -18,9 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 G v. 13.9.2012 I 1914
 
-
 ## Abschnitt 1 - Allgemeine Vorschriften
-
 
 ### § 1 Anwendungsbereich
 
@@ -38,7 +36,6 @@ Mitgliedstaat des Euro-Währungsgebiets ist, gelten die besonderen
 Vorschriften der §§ 4a bis 4i und 4k des Bundesschuldenwesengesetzes
 entsprechend.
 
-
 ### § 2 Anleihebedingungen
 
 Die Bedingungen zur Beschreibung der Leistung sowie der Rechte und
@@ -50,13 +47,11 @@ Inhalts der Urkunde oder der Anleihebedingungen nach Abschnitt 2
 dieses Gesetzes werden erst wirksam, wenn sie in der Urkunde oder in
 den Anleihebedingungen vollzogen worden sind.
 
-
 ### § 3 Transparenz des Leistungsversprechens
 
 Nach den Anleihebedingungen muss die vom Schuldner versprochene
 Leistung durch einen Anleger, der hinsichtlich der jeweiligen Art von
 Schuldverschreibungen sachkundig ist, ermittelt werden können.
-
 
 ### § 4 Kollektive Bindung
 
@@ -66,9 +61,7 @@ sämtlichen Gläubigern oder nach Abschnitt 2 dieses Gesetzes geändert
 werden (kollektive Bindung). Der Schuldner muss die Gläubiger insoweit
 gleich behandeln.
 
-
 ## Abschnitt 2 - Beschlüsse der Gläubiger
-
 
 ### § 5 Mehrheitsbeschlüsse der Gläubiger
 
@@ -154,7 +147,6 @@ in jedem Fall mehr Gläubiger zustimmen als gekündigt haben.
 oder im Wege einer Abstimmung ohne Versammlung. Die Anleihebedingungen
 können ausschließlich eine der beiden Möglichkeiten vorsehen.
 
-
 ### § 6 Stimmrecht
 
 (1) An Abstimmungen der Gläubiger nimmt jeder Gläubiger nach Maßgabe
@@ -178,7 +170,6 @@ versprechen oder gewähren.
 Gläubigerversammlung oder einer Abstimmung nicht oder in einem
 bestimmten Sinne stimme, keinen Vorteil und keine Gegenleistung
 fordern, sich versprechen lassen oder annehmen.
-
 
 ### § 7 Gemeinsamer Vertreter der Gläubiger
 
@@ -241,7 +232,6 @@ Gläubiger entstehenden Kosten und Aufwendungen, einschließlich einer
 angemessenen Vergütung des gemeinsamen Vertreters, trägt der
 Schuldner.
 
-
 ### § 8 Bestellung des gemeinsamen Vertreters in den Anleihebedingungen
 
 (1) Ein gemeinsamer Vertreter der Gläubiger kann bereits in den
@@ -273,7 +263,6 @@ grobe Fahrlässigkeit zur Last.
 (4) Für den in den Anleihebedingungen bestellten gemeinsamen Vertreter
 gilt § 7 Absatz 2 bis 6 entsprechend.
 
-
 ### § 9 Einberufung der Gläubigerversammlung
 
 (1) Die Gläubigerversammlung wird vom Schuldner oder von dem
@@ -302,7 +291,6 @@ statthaft.
 das Gericht dem Antrag nach Absatz 2 stattgegeben hat, auch die Kosten
 dieses Verfahrens.
 
-
 ### § 10 Frist, Anmeldung, Nachweis
 
 (1) Die Gläubigerversammlung ist mindestens 14 Tage vor dem Tag der
@@ -324,7 +312,6 @@ Schuldverschreibungen, die in einer Sammelurkunde verbrieft sind, ein
 in Textform erstellter besonderer Nachweis des depotführenden
 Instituts aus.
 
-
 ### § 11 Ort der Gläubigerversammlung
 
 Die Gläubigerversammlung soll bei einem Schuldner mit Sitz im Inland
@@ -336,7 +323,6 @@ Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
 ist, so kann die Gläubigerversammlung auch am Sitz dieser
 Wertpapierbörse stattfinden. § 30a Absatz 2 des
 Wertpapierhandelsgesetzes bleibt unberührt.
-
 
 ### § 12 Inhalt der Einberufung, Bekanntmachung
 
@@ -356,7 +342,6 @@ Stimmrechts abhängen, vom Tag der Einberufung an bis zum Tag der
 Gläubigerversammlung im Internet unter seiner Adresse oder, wenn eine
 solche nicht vorhanden ist, unter der in den Anleihebedingungen
 festgelegten Internetseite den Gläubigern zugänglich zu machen.
-
 
 ### § 13 Tagesordnung
 
@@ -382,7 +367,6 @@ Gläubigerversammlung im Internet unter seiner Adresse oder, wenn eine
 solche nicht vorhanden ist, unter der in den Anleihebedingungen
 festgelegten Internetseite den Gläubigern zugänglich machen.
 
-
 ### § 14 Vertretung
 
 (1) Jeder Gläubiger kann sich in der Gläubigerversammlung durch einen
@@ -395,7 +379,6 @@ wirksame Vertretung zu gewährleisten.
 bedürfen der Textform. Wird ein vom Schuldner benannter
 Stimmrechtsvertreter bevollmächtigt, so ist die Vollmachtserklärung
 vom Schuldner drei Jahre nachprüfbar festzuhalten.
-
 
 ### § 15 Vorsitz, Beschlussfähigkeit
 
@@ -423,7 +406,6 @@ Stimmrechte ruhen, zählen nicht zu den ausstehenden
 Schuldverschreibungen. Die Anleihebedingungen können jeweils höhere
 Anforderungen an die Beschlussfähigkeit stellen.
 
-
 ### § 16 Auskunftspflicht, Abstimmung, Niederschrift
 
 (1) Der Schuldner hat jedem Gläubiger auf Verlangen in der
@@ -448,7 +430,6 @@ erschienen oder durch Bevollmächtigte vertreten war, kann binnen eines
 Jahres nach dem Tag der Versammlung von dem Schuldner eine Abschrift
 der Niederschrift und der Anlagen verlangen.
 
-
 ### § 17 Bekanntmachung von Beschlüssen
 
 (1) Der Schuldner hat die Beschlüsse der Gläubiger auf seine Kosten in
@@ -466,7 +447,6 @@ Gläubigerversammlung an für die Dauer von mindestens einem Monat im
 Internet unter seiner Adresse oder, wenn eine solche nicht vorhanden
 ist, unter der in den Anleihebedingungen festgelegten Internetseite
 der Öffentlichkeit zugänglich zu machen.
-
 
 ### § 18 Abstimmung ohne Versammlung
 
@@ -513,7 +493,6 @@ widersprechenden Gläubiger unverzüglich schriftlich mitzuteilen.
 tragen und, wenn das Gericht einem Antrag nach § 9 Absatz 2
 stattgegeben hat, auch die Kosten des Verfahrens.
 
-
 ### § 19 Insolvenzverfahren
 
 (1) Ist über das Vermögen des Schuldners im Inland das
@@ -541,7 +520,6 @@ anzubieten.
 nach den Bestimmungen dieses Gesetzes zusätzlich im Internet unter der
 durch § 9 der Insolvenzordnung vorgeschriebenen Adresse veröffentlicht
 werden.
-
 
 ### § 20 Anfechtung von Beschlüssen
 
@@ -589,7 +567,6 @@ Klage dem Vollzug des angefochtenen Beschlusses nicht entgegensteht; §
 246a Absatz 1 Satz 1 und 2, Absatz 2 und 3 Satz 1 bis 4 und 6, Absatz
 4 des Aktiengesetzes gilt entsprechend.
 
-
 ### § 21 Vollziehung von Beschlüssen
 
 (1) Beschlüsse der Gläubigerversammlung, durch welche der Inhalt der
@@ -607,7 +584,6 @@ dass der Beschluss vollzogen werden darf.
 erteilten Vollmacht oder Ermächtigung keinen Gebrauch machen, solange
 der zugrunde liegende Beschluss noch nicht vollzogen werden darf.
 
-
 ### § 22 Geltung für Mitverpflichtete
 
 Die Anleihebedingungen können vorsehen, dass die §§ 5 bis 21 für
@@ -618,9 +594,7 @@ die Anleihebedingungen Mehrheitsbeschlüsse der Gläubiger unter
 Benennung der Rechtsgeschäfte und der Mitverpflichteten ausdrücklich
 vorsehen.
 
-
 ## Abschnitt 3 - Bußgeldvorschriften; Übergangsbestimmungen
-
 
 ### § 23 Bußgeldvorschriften
 
@@ -649,7 +623,6 @@ nicht vollständig oder nicht rechtzeitig offenlegt.
 
 (3) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
 hunderttausend Euro geahndet werden.
-
 
 ### § 24 Übergangsbestimmungen
 

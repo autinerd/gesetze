@@ -23,17 +23,13 @@ Rates vom 15. Juli 1975 über Abfälle (ABl. EG Nr. L 194 S. 47) in der
 durch die Änderungsrichtlinie 91/156/EWG des Rates vom 18. März 1991
 (ABl. EG Nr. L 78 S. 32) geänderten Fassung.
 
-
 ## Eingangsformel
 
 Auf Grund des § 52 Abs. 2 des Kreislaufwirtschafts- und Abfallgesetzes
 vom 27. September 1994 (BGBl. I S. 2705) verordnet die Bundesregierung
 nach Anhörung der beteiligten Kreise:
 
-
 ## Erster Abschnitt - Allgemeine Vorschriften
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -48,7 +44,6 @@ geschlossenen Überwachungsvertrages. Für die Überwachung und
 Zertifizierung von Entsorgungsfachbetrieben durch
 Entsorgergemeinschaften findet die Richtlinie für die Tätigkeit und
 Anerkennung von Entsorgergemeinschaften Anwendung.
-
 
 ### § 2 Entsorgungsfachbetrieb, Begriffsbestimmungen
 
@@ -130,10 +125,7 @@ Anordnungen bestellt worden sind.
 und andere im Betrieb beschäftigte Personen, die bei der Ausführung
 der abfallwirtschaftlichen Tätigkeiten mitwirken.
 
-
 ## Zweiter Abschnitt - Anforderungen an die Organisation, Ausstattung und Tätigkeit eines Entsorgungsfachbetriebes
-
-
 
 ### § 3 Anforderungen an die Betriebsorganisation
 
@@ -174,7 +166,6 @@ Organisationsplänen darzustellen.
 vorgenommenen abfallwirtschaftlichen Tätigkeiten erfordert, sind für
 diese Tätigkeiten Arbeitsabläufe durch Arbeitsanweisungen festzulegen.
 
-
 ### § 4 Anforderungen an die personelle Ausstattung
 
 (1) Der Entsorgungsfachbetrieb hat für jeden Standort mindestens eine
@@ -194,7 +185,6 @@ Betriebsablauf sichergestellt werden kann. Der Nachweis der
 ausreichenden Personalstärke erfolgt auf der Grundlage eines
 Einsatzplanes. Dabei sind übliche Ausfälle einzelner Personen durch
 Urlaub, Krankheit und Fortbildungsmaßnahmen zu berücksichtigen.
-
 
 ### § 5 Betriebstagebuch
 
@@ -243,7 +233,6 @@ Klarschrift vorgelegt werden können.
 
 (3) Das Betriebstagebuch ist fünf Jahre lang aufzubewahren.
 
-
 ### § 6 Versicherungsschutz
 
 Der Entsorgungsfachbetrieb muß über einen für seine
@@ -264,7 +253,6 @@ Der Versicherungsschutz muß
 
 
 umfassen.
-
 
 ### § 7 Anforderungen an die Tätigkeit
 
@@ -333,13 +321,7 @@ sicherzustellen. Dies setzt insbesondere voraus, daß
     Abfälle zu führen und dem Entsorgungsfachbetrieb unaufgefordert eine
     Kopie dieser Nachweise zu überlassen.
 
-
-
-
-
 ## Dritter Abschnitt - Anforderungen an den Betriebsinhaber und die im Entsorgungsfachbetrieb beschäftigten Personen
-
-
 
 ### § 8 Anforderungen an den Betriebsinhaber
 
@@ -392,7 +374,6 @@ wenn eine der in Absatz 1 Satz 2 genannten Personen
 oder wenn eine Überprüfung der Zuverlässigkeit aus anderen Gründen
 erforderlich ist, ein Führungszeugnis und eine Auskunft aus dem
 Gewerbezentralregister vorzulegen.
-
 
 ### § 9 Anforderungen an die für die Leitung und Beaufsichtigung des Betriebes verantwortlichen Personen
 
@@ -469,10 +450,6 @@ verantwortliche Person
 2.  unter Berücksichtigung der in § 3 Abs. 1 genannten Umstände die
     ordnungsgemäße Erfüllung dieser Aufgaben gewährleistet ist.
 
-
-
-
-
 ### § 10 Anforderungen an das sonstige Personal
 
 Das sonstige Personal muß zuverlässig sein und eine für die jeweils
@@ -480,7 +457,6 @@ wahrgenommene Tätigkeit erforderliche Sachkunde besitzen. Hinsichtlich
 der Zuverlässigkeit findet § 8 Abs. 1 Satz 2 entsprechende Anwendung.
 Die Sachkunde erfordert eine betriebliche Einarbeitung auf der
 Grundlage eines Einarbeitungsplanes.
-
 
 ### § 11 Anforderungen an die Fortbildung
 
@@ -495,10 +471,7 @@ sich auf die im Anhang zu dieser Verordnung genannten Sachgebiete.
 Hinsichtlich des sonstigen Personals hat der Betriebsinhaber den
 Fortbildungsbedarf zu ermitteln.
 
-
 ## Vierter Abschnitt - Überwachung und Zertifizierung von Entsorgungsfachbetrieben
-
-
 
 ### § 12 Überwachungsvertrag
 
@@ -510,7 +483,6 @@ regeln.
 
 (2) Die Vertragsparteien können weitergehende Vereinbarungen treffen,
 soweit diese den Anforderungen dieser Verordnung nicht widersprechen.
-
 
 ### § 13 Überwachung des Betriebes
 
@@ -601,7 +573,6 @@ Prüfungen berücksichtigen, die
 
 vorgenommen wurden.
 
-
 ### § 14 Zertifizierung des Entsorgungsfachbetriebes
 
 (1) Soweit auf Grund der Prüfung nach § 13 festgestellt ist, daß die
@@ -664,7 +635,6 @@ berechtigt, das Überwachungszeichen zu führen, und verpflichtet, das
 Überwachungszertifikat der technischen Überwachungsorganisation auf
 deren Verlangen zurückzugeben. Mit dem Entzug verliert das
 Überwachungszeichen seine Wirksamkeit.
-
 
 ### § 15 Zustimmung zum Überwachungsvertrag
 
@@ -737,10 +707,6 @@ die Durchführung der Überwachung und Zertifizierung zu berichten.
 4.  wenn die technische Überwachungsorganisation ihre Pflichten gemäß § 13
     Abs. 1 und § 14 nicht ordnungsgemäß wahrnimmt.
 
-
-
-
-
 ### § 16 Unwirksamkeit des Überwachungsvertrages
 
 Wird der Überwachungsvertrag unwirksam, so verliert der
@@ -753,10 +719,7 @@ zuständige Behörde dem Entsorgungsfachbetrieb die weitere Führung des
 Überwachungszertifikats und der Bezeichnung "Entsorgungsfachbetrieb"
 für eine angemessene Übergangszeit gestatten.
 
-
 ## Fünfter Abschnitt - Schlußvorschriften
-
-
 
 ### § 17 Zugänglichkeit der DIN-Normen
 
@@ -764,23 +727,19 @@ DIN-Normen, auf die in § 13 verwiesen wird, sind im Beuth-Verlag GmbH,
 Berlin, erschienen und beim Deutschen Patentamt in München archivmäßig
 gesichert niedergelegt.
 
-
 ### § 18 Übergangsvorschrift
 
 Bis zum 6. Oktober 1997 bedürfen die Lehrgänge zur Erfüllung der
 Fachkundevoraussetzung gemäß § 9 Abs. 2 Satz 2 Nr. 3 keiner
 Anerkennung durch die zuständige Behörde.
 
-
 ### § 19 Inkrafttreten
 
 Diese Verordnung tritt am 7. Oktober 1996 in Kraft.
 
-
 ### Schlußformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ### Anhang zur Entsorgungsfachbetriebeverordnung Fachkunde der für die Leitung und Beaufsichtigung eines Entsorgungsfachbetriebes verantwortlichen Personen
 

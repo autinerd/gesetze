@@ -15,18 +15,14 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 2592
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## (XXXX) Art 1 und 2
 
 -
-
 
 ## Art 3 Übergangsvorschriften
 
@@ -49,7 +45,6 @@ ihn bis zu einem durch das Landesrecht zu bestimmenden Zeitpunkt nach
 dem bisherigen Recht beenden.
 
 (3) § 6 Abs. 2 des Deutschen Richtergesetzes gilt entsprechend.
-
 
 ## Art 4 Inkrafttreten
 

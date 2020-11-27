@@ -20,16 +20,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 12 G v. 21.12.2007 I 3198
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## 1. Abschnitt - Allgemeine Vorschriften
-
-
 
 ### § 1 Berechtigte Personen
 
@@ -58,7 +54,6 @@ und im Wachdienst ausreichend vorgebildet sind sowie gute Kenntnisse
 der Befugnisse nach diesem Gesetz besitzen. Sie sollen das 20.
 Lebensjahr vollendet und das 65. Lebensjahr nicht überschritten haben.
 
-
 ### § 2 Militärische Bereiche und Sicherheitsbereiche
 
 (1) Militärische Bereiche im Sinne dieses Gesetzes sind Anlagen,
@@ -81,7 +76,6 @@ der Sicherheit oder Ordnung in militärischen Sicherheitsbereichen für
 das Verhalten von Personen allgemeine Anordnungen erlassen und die
 nach diesem Gesetz befugten Personen ermächtigen, Einzelweisungen zu
 erteilen.
-
 
 ### § 3 Straftaten gegen die Bundeswehr
 
@@ -118,10 +112,7 @@ sind Soldaten sowie Beamte und mit militärischen Aufgaben,
 insbesondere mit Wach- oder Sicherheitsaufgaben beauftragte sonstige
 Zivilbedienstete der verbündeten Streitkräfte in der Bundesrepublik.
 
-
 ## 2. Abschnitt - Anhalten, Personenüberprüfung, vorläufige Festnahme, Durchsuchung, Beschlagnahme und Voraussetzungen des unmittelbaren Zwanges
-
-
 
 ### § 4 Anhalten und Personenüberprüfung
 
@@ -141,7 +132,6 @@ angehalten und überprüft werden, wer
 dem Verlassen des militärischen Sicherheitsbereichs oder dem Versuch,
 ihn zu betreten, verfolgt wird, wenn den Umständen nach anzunehmen
 ist, daß er nicht berechtigt ist, sich in diesem Bereich aufzuhalten.
-
 
 ### § 5 Weitere Personenüberprüfung
 
@@ -165,7 +155,6 @@ nur weiter festgehalten werden, wenn die Voraussetzungen der
 vorläufigen Festnahme vorliegen und die Festnahme erklärt wird;
 andernfalls ist er sofort freizulassen.
 
-
 ### § 6 Vorläufige Festnahme
 
 (1) Wer nach § 5 zum Wachvorgesetzten oder zu einer Dienststelle der
@@ -182,7 +171,6 @@ Amtsrichter des Bezirks, in dem er festgenommen worden ist, vorgeführt
 werden, wenn die Frist nach § 128 Abs. 1 Strafprozeßordnung abzulaufen
 droht oder wenn dies aus Gründen besonderer militärischer
 Geheimhaltung geboten ist.
-
 
 ### § 7 Durchsuchung und Beschlagnahme bei Personenüberprüfung
 
@@ -211,7 +199,6 @@ Bundesrepublik zu verfügen haben. In diesem Fall ist der Polizei oder
 der Staatsanwaltschaft ein Verzeichnis dieser Gegenstände zu
 übersenden.
 
-
 ### § 8 Allgemeine Anordnung von Durchsuchungen
 
 (1) Wenn es aus Gründen militärischer Sicherheit unerläßlich ist, kann
@@ -227,7 +214,6 @@ einer solchen Straftat geeignet sind oder als Beweismittel für die
 Untersuchung von Bedeutung sein können.
 
 (3) § 7 Abs. 2 und 3 gilt entsprechend.
-
 
 ### § 9 Voraussetzungen des unmittelbaren Zwanges
 
@@ -248,13 +234,7 @@ erforderlich ist und geschieht,
     Festnahme nach § 127 Abs. 1 der Strafprozeßordnung wegen einer
     Straftat gegen die Bundeswehr zu erzwingen.
 
-
-
-
-
 ## 3. Abschnitt - Anwendung des unmittelbaren Zwanges
-
-
 
 ### § 10 Einzelmaßnahmen des unmittelbaren Zwanges
 
@@ -270,12 +250,10 @@ technische Sperren und Dienstfahrzeuge.
 (4) Waffen sind die dienstlich zugelassenen Hieb- und Schußwaffen,
 Reizstoffe und Explosivmittel.
 
-
 ### § 11 Androhung der Maßnahmen des unmittelbaren Zwanges
 
 Die Anwendung einer Maßnahme des unmittelbaren Zwanges ist anzudrohen,
 außer wenn es die Lage nicht zuläßt.
-
 
 ### § 12 Grundsatz der Verhältnismäßigkeit
 
@@ -288,13 +266,11 @@ werden, wenn der durch sie zu erwartende Schaden erkennbar außer
 Verhältnis zu dem beabsichtigten Erfolg steht. Die Maßnahme darf nur
 so lange und so weit durchgeführt werden, wie ihr Zweck es erfordert.
 
-
 ### § 13 Hilfeleistung für Verletzte
 
 Wird unmittelbarer Zwang angewandt, ist Verletzten, soweit es nötig
 ist und die Lage es zuläßt, beizustehen und ärztliche Hilfe zu
 verschaffen.
-
 
 ### § 14 Fesselung von Personen
 
@@ -312,10 +288,6 @@ festgenommen worden ist, darf gefesselt werden, wenn
 
 
 3.  Selbstmordgefahr besteht.
-
-
-
-
 
 ### § 15 Schußwaffengebrauch gegen Personen
 
@@ -375,7 +347,6 @@ Gewaltanwendung begangen werden oder solche Straftaten unmittelbar
 bevorstehen und Zwangsmaßnahmen gegen einzelne nicht zum Ziele führen
 oder offensichtlich keinen Erfolg versprechen.
 
-
 ### § 16 Besondere Vorschriften für den Schußwaffengebrauch
 
 (1) Schußwaffen dürfen nur gebraucht werden, wenn andere Maßnahmen des
@@ -394,7 +365,6 @@ läßt.
 (3) Gegen Personen, die sich dem äußeren Eindruck nach im Kindesalter
 befinden, dürfen Schußwaffen nicht gebraucht werden.
 
-
 ### § 17 Androhung des Schußwaffengebrauchs
 
 (1) Der Gebrauch von Schußwaffen ist anzudrohen. Als Androhung gilt
@@ -410,16 +380,12 @@ Wehrmittel der Bundeswehr oder der verbündeten Streitkräfte von
 bedeutendem Wert oder für die Sicherheit der Bundesrepublik
 Deutschland abzuwenden.
 
-
 ### § 18 Explosivmittel
 
 Die Vorschriften der §§ 15 bis 17 gelten entsprechend für den Gebrauch
 von Explosivmitteln.
 
-
 ## 4. Abschnitt - Schlußvorschriften
-
-
 
 ### § 19 Einschränkung von Grundrechten
 
@@ -427,7 +393,6 @@ Die in Artikel 2 Abs. 2 Satz 1 und 2 des Grundgesetzes für die
 Bundesrepublik Deutschland geschützten Grundrechte auf Leben,
 körperliche Unversehrtheit und Freiheit der Person werden nach Maßgabe
 dieses Gesetzes eingeschränkt.
-
 
 ### § 20 Entschädigung bei Sperrung sonstiger Örtlichkeiten
 
@@ -448,7 +413,6 @@ daß an die Stelle der Anforderungsbehörde die Wehrbereichsverwaltung
 tritt, in deren Wehrbereich das Grundstück belegen ist. § 58 Abs. 2
 gilt mit der Maßgabe, daß das Landgericht, in dessen Bezirk das
 Grundstück belegen ist, örtlich ausschließlich zuständig ist.
-
 
 ### § 21 Inkrafttreten
 

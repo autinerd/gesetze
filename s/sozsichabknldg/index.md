@@ -19,12 +19,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 243 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -51,7 +49,6 @@ zwischenstaatlichen Übereinkünften wird zugestimmt:
 Das Abkommen und die Durchführungsvereinbarung werden nachstehend
 veröffentlicht.
 
-
 ## Art 2
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt, durch
@@ -68,7 +65,6 @@ des Abkommens in Kraft zu setzen oder in Ermangelung solcher
 Vereinbarungen das Nähere zur Durchführung des Abkommens zu regeln.
 Die Vereinbarungen können auch Änderungen der in Artikel 1 Nr. 2
 genannten Durchführungsvereinbarung vorsehen.
-
 
 ## Art 3
 

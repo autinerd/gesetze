@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1038
 
-
 ## Eingangsformel
 
 Auf Grund des § 57 Absatz 1 Nummer 6 und 11 des
@@ -25,7 +24,6 @@ Buchstabe d des Gesetzes vom 28. Juni 1990 (BGBl. I S. 1221) geändert
 und dessen Nummer 11 durch Artikel 1 Nummer 2 des Gesetzes vom 19.
 Juli 2002 (BGBl. I S. 2691) eingefügt worden ist, verordnet das
 Bundesministerium für Verkehr, Bau und Stadtentwicklung:
-
 
 ## § 1 Anwendungsbereich
 
@@ -54,10 +52,6 @@ Diese Verordnung regelt die Durchführung
 4.  des Übereinkommens über die Personenbeförderung im
     grenzüberschreitenden Gelegenheitsverkehr mit Omnibussen (Interbus-
     Übereinkommen) (ABl. L 321 vom 26.11.2002, S. 13).
-
-
-
-
 
 ## § 2 Zuständige Behörden
 
@@ -113,10 +107,6 @@ zuständig für
     Vertragsstaates, in dem der Verkehrsunternehmer niedergelassen ist,
     nach Artikel 22 Absatz 1 des Interbus-Übereinkommens.
 
-
-
-
-
 ## § 3 Antragstellung
 
 (1) Der Antrag auf Erteilung einer Genehmigung nach Artikel 7 der
@@ -134,7 +124,6 @@ angemessenen Frist nicht nach, so gilt der Antrag als zurückgenommen.
 (3) Die Frist nach Artikel 8 Absatz 3 der Verordnung (EG) Nr.
 1073/2009 oder Anhang 7 Artikel 4 Absatz 3 des Abkommens EG/Schweiz
 beginnt zu laufen, wenn ein vollständiger Antrag vorliegt.
-
 
 ## § 4 Anhörungsverfahren
 
@@ -158,10 +147,6 @@ folgenden Fällen ein Anhörungsverfahren entsprechend § 14 Absatz 1 bis
     nach Anhang 7 Artikel 4 Absatz 2 des Abkommens EG/Schweiz
     erforderlichen Prüfung von Genehmigungsanträgen, die in anderen
     Mitgliedstaaten oder in der Schweiz gestellt werden.
-
-
-
-
 
 ## § 5 Pflichten des Unternehmers und des Fahrzeugführers oder der Fahrzeugführerin
 
@@ -238,10 +223,6 @@ vorzuzeigen:
     EG/Schweiz die Bescheinigung für den Werkverkehr oder eine beglaubigte
     Kopie der Bescheinigung.
 
-
-
-
-
 ## § 6 Aufsicht, Amtshilfe gegenüber ausländischen Behörden
 
 (1) Der Unternehmer unterliegt hinsichtlich der Erfüllung der
@@ -282,7 +263,6 @@ unter Beachtung der §§ 4b und 4c des Bundesdatenschutzgesetzes
 
 
 mitzuteilen.
-
 
 ## § 7 Maßnahmen der Kontrolle
 
@@ -340,10 +320,6 @@ Kontrollberechtigte können die Fortsetzung der Fahrt untersagen, wenn
 
 4.  der Kraftomnibus nicht den Anforderungen nach Anhang 2 Artikel 1 bis 3
     des Interbus-Übereinkommens entspricht.
-
-
-
-
 
 ## § 8 Ordnungswidrigkeiten
 
@@ -516,10 +492,6 @@ mit Omnibussen (Interbus-Übereinkommen) (ABl. L 321 vom 26.11.2002, S.
     ein dort genanntes Dokument nicht mitführt oder einem
     Kontrollberechtigten nicht oder nicht rechtzeitig vorlegt.
 
-
-
-
-
 ## § 9 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
@@ -527,7 +499,6 @@ Gleichzeitig tritt die EG-Bus-Durchführungsverordnung vom 11. August
 2004 (BGBl. I S. 2169), die zuletzt durch Artikel 479 der Verordnung
 vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, außer
 Kraft.
-
 
 ## Schlussformel
 

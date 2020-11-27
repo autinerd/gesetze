@@ -19,13 +19,11 @@ Fundstelle
 Geändert durch
 :   Art. 2 nach Maßgabe des Art. 4 V v. 11.7.1980 I 1001
 
-
 ## Eingangsformel
 
 Auf Grund des § 2 Abs. 3 des Bundesausbildungsförderungsgesetzes vom
 26\. August 1971 (Bundesgesetzbl. I S. 1409) verordnet die
 Bundesregierung mit Zustimmung des Bundesrates:
-
 
 ## § 1 Ausbildungsstätten
 
@@ -51,7 +49,6 @@ wird geleistet für den Besuch von Ausbildungsstätten für
 Landesbehörde anerkennt, daß der Besuch der Ausbildungsstätte dem
 Besuch einer öffentlichen Einrichtung oder einer genehmigten
 Ersatzschule gleichwertig ist.
-
 
 ## § 2 Förderungsrechtliche Stellung des Auszubildenden
 
@@ -79,13 +76,11 @@ Ausbildungsförderung wie Schüler von Fachoberschulklassen, deren
 Besuch eine abgeschlossene Berufsausbildung voraussetzt, in den
 anschließenden Ausbildungsjahren wie Studenten an Hochschulen.
 
-
 ## § 3 Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit § 67 des
 Bundesausbildungsförderungsgesetzes auch im Land Berlin.
-
 
 ## § 4 Inkrafttreten
 

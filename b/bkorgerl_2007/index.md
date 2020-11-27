@@ -15,12 +15,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 2315
 
-
 ## Eingangsformel
 
 Gemäß § 9 der Geschäftsordnung der Bundesregierung ordne ich mit
 sofortiger Wirkung an:
-
 
 ## (XXXX)
 
@@ -36,7 +34,6 @@ Geschäftsbereich des Bundesministeriums für Gesundheit.
 Einzelheiten des Übergangs werden gegebenenfalls zwischen den
 beteiligten Bundesministerien in Abstimmung mit dem Chef des
 Bundeskanzleramtes geregelt.
-
 
 ## Schlussformel
 

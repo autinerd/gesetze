@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   GBl DDR II: 1969, 33
 
-
-
 ## Eingangsformel
 
 In Anwendung des Artikels 40 der Verfassung der Deutschen
@@ -31,11 +29,9 @@ Fachschulwesen, dem Leiter des Staatlichen Amtes für Berufsausbildung
 und den Leitern der anderen zuständigen zentralen staatlichen Organe
 folgendes bestimmt:
 
-
 ## § 1
 
 -
-
 
 ## § 2 Kindergärten
 
@@ -57,10 +53,7 @@ ausgehend von den gesellschaftlichen Erfordernissen, in einer ihren
 Kräften und Fähigkeiten angemessenen Weise auch mit der zweiten
 Sprache, Deutsch bzw. Sorbisch, vertraut zu machen.
 
-
 ## (XXXX) §§ 3 bis 13 (weggefallen)
-
-
 
 ## Schlußformel
 

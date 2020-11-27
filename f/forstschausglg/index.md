@@ -22,7 +22,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 10 G v. 1.11.2011 I 2131
 
-
 ## § 1 Beschränkung des ordentlichen Holzeinschlags
 
 (1) Das Bundesministerium für Ernährung, Landwirtschaft und
@@ -84,7 +83,6 @@ unerheblich beeinflußt. Die zuständige Landesbehörde kann auf Antrag
 einzelne Forstbetriebe von der Einschlagsbeschränkung befreien, wenn
 diese zu einer wirtschaftlich unbilligen Härte führen würde.
 
-
 ## § 2 Beschränkung der Holzeinfuhr
 
 Die Einfuhr von Holz und Holzerzeugnissen der ersten Bearbeitungsstufe
@@ -97,7 +95,6 @@ Gefährdung im Interesse der Allgemeinheit abgewendet werden muß oder
 wenn nach einem bundesweiten Großschaden eine Einschlagsbeschränkung
 angesichts der Schwere der Störung auf dem Rohholzmarkt wirkungslos
 wäre.
-
 
 ## § 3 Steuerfreie Rücklage für die Bildung eines betrieblichen Ausgleichsfonds
 
@@ -162,7 +159,6 @@ auf die in Absatz 3 bezeichneten Zwecke entfällt.
 Abs. 1 Nr. 5 der Abgabenordnung bezeichneten Grenze nicht zu
 berücksichtigen.
 
-
 ## § 4 Pauschsatz für Betriebsausgaben
 
 (1) Steuerpflichtige, die für ihren Betrieb nicht zur Buchführung
@@ -178,7 +174,6 @@ Einnahmen aus der Verwertung des stehenden Holzes.
 Einschlagsbeschränkung ausgenommen sind, jedoch freiwillig die
 Einschlagsbeschränkung befolgen.
 
-
 ## § 4a Bewertung von Holzvorräten aus Kalamitätsnutzungen bei der Forstwirtschaft
 
 Steuerpflichtige mit Einkünften aus Forstwirtschaft, bei denen der
@@ -187,7 +182,6 @@ der Besteuerung zugrunde gelegt wird, können im Falle einer
 Einschlagsbeschränkung nach § 1 von einer Aktivierung des
 eingeschlagenen und unverkauften Kalamitätsholzes ganz oder teilweise
 absehen.
-
 
 ## § 5 Sonstige steuerliche Maßnahmen
 
@@ -202,11 +196,9 @@ einkommensteuerlich so behandelt werden, als wären sie im Jahr der
 Einschlagsbeschränkung mit der ersten Mitteilung des Schadensfalles
 angefallen.
 
-
 ## § 6
 
 (weggefallen)
-
 
 ## § 7 Übervorräte bei der Holzwirtschaft
 
@@ -248,11 +240,9 @@ den Bestandserhöhungen die Mengen abzusetzen sind, die dem Wert der
 Bestandsminderungen entsprechen; dabei sind die Wirtschaftsgüter mit
 dem Wiederbeschaffungspreis am Bilanzstichtag zu bewerten.
 
-
 ## § 8
 
 (weggefallen)
-
 
 ## § 9 Durchführungsvorschriften
 
@@ -278,11 +268,9 @@ verweigern, deren Beantwortung ihn selbst oder einen der in § 383 Abs.
 Gefahr strafgerichtlicher Verfolgung oder eines Verfahrens nach dem
 Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
-
 ## § 10
 
 (weggefallen)
-
 
 ## § 11 Bußgeldvorschriften
 
@@ -306,18 +294,15 @@ einer Geldbuße bis zu fünfundzwanzigtausend Euro, im Falle des
 Absatzes 1 Nr. 2 mit einer Geldbuße bis zu zweitausendfünfhundert Euro
 geahndet werden.
 
-
 ## § 11a Übergangsvorschrift
 
 Die §§ 3 bis 7 sind in ihrer vom 1. September 1985 an geltenden
 Fassung erstmals für Wirtschaftsjahre anzuwenden, die nach dem 31.
 Dezember 1984 enden.
 
-
 ## § 12
 
 (weggefallen)
-
 
 ## § 13 (Inkrafttreten)
 

@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 341
 
-
 ## Eingangsformel
 
 Auf Grund des § 3 Absatz 1 Satz 1 Nummer 7 und 14 und des § 5 Absatz 2
@@ -25,7 +24,6 @@ Juli 2009 (BGBl. I S. 1774, 3975) verordnet das Bundesministerium für
 Verkehr, Bau und Stadtentwicklung nach Anhörung der in § 7a des
 Gefahrgutbeförderungsgesetzes genannten Verbände, Sicherheitsbehörden
 und -organisationen:
-
 
 ## § 1 Geltungsbereich
 
@@ -45,7 +43,6 @@ Binnenwasserstraßen (ADN) für die Beförderung gefährlicher Güter auf
 der Straße, auf der Schiene und auf schiffbaren Binnengewässern
 getroffenen Regelungen sind auch auf die Beförderung gefährlicher
 Güter mit Seeschiffen anzuwenden.
-
 
 ## § 2 Befreiungen
 
@@ -77,10 +74,6 @@ Die Vorschriften dieser Verordnung gelten nicht für Unternehmen,
     beteiligt sind, ausgenommen radioaktive Stoffe der Klasse 7 und
     gefährliche Güter der Beförderungskategorie 0 nach Absatz 1.1.3.6.3
     ADR.
-
-
-
-
 
 ## § 3 Bestellung von Gefahrgutbeauftragten
 
@@ -120,7 +113,6 @@ erforderlichen Anordnungen. Sie kann insbesondere die Abberufung des
 bestellten Gefahrgutbeauftragten und die Bestellung eines anderen
 Gefahrgutbeauftragten verlangen.
 
-
 ## § 4 Schulungsnachweis
 
 Der Schulungsnachweis wird mit den Mindestangaben nach Unterabschnitt
@@ -129,7 +121,6 @@ nach § 5 teilgenommen und eine Prüfung nach § 6 Absatz 1 mit Erfolg
 abgelegt hat. Der Schulungsnachweis gilt fünf Jahre und kann jeweils
 um weitere fünf Jahre verlängert werden, wenn der Betroffene eine
 Prüfung nach § 6 Absatz 4 mit Erfolg abgelegt hat.
-
 
 ## § 5 Schulungsanforderungen
 
@@ -157,7 +148,6 @@ Minuten Unterricht umfassen.
 
 (6) Der Schulungsveranstalter darf Schulungen nur bei Vorliegen aller
 Voraussetzungen nach Absatz 1 bis 5 durchführen.
-
 
 ## § 6 Prüfungen
 
@@ -192,7 +182,6 @@ wird.
 
 (6) Prüfungen dürfen nur bei Vorliegen aller Voraussetzungen nach
 Absatz 1 bis 5 durchgeführt werden.
-
 
 ## § 7 Zuständigkeiten
 
@@ -232,7 +221,6 @@ Bundes- oder Landesbehörde durch Verwaltungsvorschriften zu regeln.
 (4) Das Bundesministerium der Verteidigung und das Bundesministerium
 des Innern bestimmen die zuständigen Behörden im Sinne des § 3 Absatz
 4 und 5 für ihren Dienstbereich.
-
 
 ## § 8 Pflichten des Gefahrgutbeauftragten
 
@@ -298,7 +286,6 @@ Jahresbericht muss mindestens enthalten:
 zuständigen Behörde auf Verlangen vorlegen. Er hat dafür zu sorgen,
 dass dieser Schulungsnachweis rechtzeitig verlängert wird.
 
-
 ## § 9 Pflichten der Unternehmer
 
 (1) Der Unternehmer darf den Gefahrgutbeauftragten wegen der Erfüllung
@@ -342,7 +329,6 @@ Namen des Gefahrgutbeauftragten bekannt zu geben.
 
 (5) Der Unternehmer hat auf Verlangen der zuständigen Behörde die
 Unfallberichte nach Unterabschnitt 1.8.3.6 ADR/RID/ADN vorzulegen.
-
 
 ## § 10 Ordnungswidrigkeiten
 
@@ -413,13 +399,6 @@ vorsätzlich oder fahrlässig
     e)  entgegen § 8 Absatz 6 Satz 1 den Schulungsnachweis nicht oder nicht
         rechtzeitig vorlegt.
 
-
-
-
-
-
-
-
 ## § 11 Übergangsbestimmungen
 
 Schulungsnachweise nach Anlage 3 in Verbindung mit § 2 Absatz 1 der
@@ -427,7 +406,6 @@ Gefahrgutbeauftragtenverordnung in der Fassung der Bekanntmachung vom
 26\. März 1998 (BGBl. I S. 648), die zuletzt durch Artikel 4 der
 Verordnung vom 3. August 2010 (BGBl. I S. 1139) geändert worden ist,
 behalten ihre Gültigkeit bis zu deren Ablauf.
-
 
 ## § 12 Aufheben von Vorschriften
 
@@ -442,14 +420,9 @@ Es werden aufgehoben:
     (BGBl. I S. 3514), die zuletzt durch Artikel 483 der Verordnung vom
     31\. Oktober 2006 (BGBl. I S. 2407) geändert worden ist.
 
-
-
-
-
 ## § 13 Inkrafttreten
 
 Diese Verordnung tritt am 1. September 2011 in Kraft.
-
 
 ## Schlussformel
 

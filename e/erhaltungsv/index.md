@@ -26,7 +26,6 @@ Geändert durch
     bedroht sind, sowie für das Inverkehrbringen von Saatgut bzw.
     Pflanzkartoffeln dieser Sorten (ABl. L 162 vom 21.6.2008, S. 13).
 
-
 ## § 1 Anwendungsbereich
 
 Die Vorschriften dieser Verordnung gelten für die Zulassung von
@@ -36,7 +35,6 @@ Artenverzeichnis zum Saatgutverkehrsgesetz in der Fassung der
 Bekanntmachung vom 27. Oktober 2004 (BGBl. I S. 2696) in der jeweils
 geltenden Fassung genannten Pflanzenarten, außer Rebe,
 Zierpflanzenarten und Obstarten.
-
 
 ## § 2 Voraussetzungen für die Zulassung als Erhaltungssorte
 
@@ -210,7 +208,6 @@ Satz 1 der Hinweis „für den Anbau unter bestimmten Bedingungen
 gezüchtete Sorte, deren Saatgut gemäß Artikel 26 der Richtlinie
 2009/145/EG der Kommission kontrolliert wird“ eingetragen.
 
-
 ## § 3 Feststellung des landeskulturellen Wertes
 
 Abweichend von § 34 des Saatgutverkehrsgesetzes hat eine
@@ -218,7 +215,6 @@ Erhaltungssorte einen landeskulturellen Wert, wenn sie hinsichtlich
 der Erhaltung pflanzengenetischer Ressourcen bedeutsam ist. Diese
 Voraussetzung ist insbesondere dann erfüllt, wenn eine erhebliche
 Verringerung der genetischen Vielfalt droht.
-
 
 ## § 4 Antrag auf Zulassung einer Erhaltungssorte
 
@@ -265,7 +261,6 @@ nicht, wenn die Sorte als in ihrem Bestand bedroht gilt. Satz 1 Nummer
 
 (2) Für den Antrag und die Angabe der Sortenbezeichnung sind die
 Vordrucke des Bundessortenamtes zu verwenden.
-
 
 ## § 5 Anforderungen an das Saatgut
 
@@ -366,7 +361,6 @@ drei Monate vor Beginn der Aussaat mitgeteilt worden ist.
 (5) § 33 der Pflanzkartoffelverordnung findet auf Erhaltungssorten von
 Kartoffeln keine Anwendung.
 
-
 ## § 6 Beschränkung des Inverkehrbringens
 
 (1) Das Bundessortenamt setzt die Höchstmenge des je Erhaltungssorte
@@ -452,7 +446,6 @@ Ende eines jeden Wirtschaftsjahres der zuständigen Behörde die Menge
 des in den Verkehr gebrachten Saatgutes je Erhaltungssorte schriftlich
 mitzuteilen.
 
-
 ## § 7 Zusätzliche Region für das Inverkehrbringen von Saatgut
 
 Ein Antragsteller kann gegenüber dem Bundessortenamt eine zusätzliche
@@ -464,7 +457,6 @@ wenn für die betreffende Erhaltungssorte keine Genehmigung nach § 5
 Absatz 3 erteilt worden ist und wenn der Antragsteller anhand einer
 Bescheinigung der im Ursprungsgebiet zuständigen Behörde nachweist,
 dass die Erhaltung der Sorte im Ursprungsgebiet sichergestellt ist.
-
 
 ## § 8 Verpackung und Verschließung
 
@@ -483,7 +475,6 @@ S. 1410) geändert worden ist, gilt entsprechend.
 (3) Die Sicherungen dürfen nach Farbe und Aufschrift nicht mit
 Plomben, Banderolen oder Siegelmarken für Packungen anerkannten
 Saatgutes verwechselbar sein.
-
 
 ## § 9 Kennzeichnung
 

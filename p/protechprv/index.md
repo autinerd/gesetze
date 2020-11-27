@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 1052
 
-
 ## Eingangsformel
 
 Auf Grund des § 53 Abs. 1 in Verbindung mit Abs. 2 des
@@ -26,7 +25,6 @@ Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnet das
 Bundesministerium für Bildung und Forschung nach Anhörung des
 Hauptausschusses des Bundesinstituts für Berufsbildung im Einvernehmen
 mit dem Bundesministerium für Wirtschaft und Technologie:
-
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
 
@@ -110,7 +108,6 @@ Aufgaben durchführen zu können:
 Geprüfter Prozessmanager – Produktionstechnologie/Geprüfte
 Prozessmanagerin – Produktionstechnologie.
 
-
 ## § 2 Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer
@@ -146,7 +143,6 @@ Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche
 Handlungsfähigkeit) erworben zu haben, die die Zulassung zur Prüfung
 rechtfertigen.
 
-
 ## § 3 Gliederung der Prüfung
 
 Die Prüfung gliedert sich in die Prüfungsteile:
@@ -164,7 +160,6 @@ Die Prüfung gliedert sich in die Prüfungsteile:
 Die einzelnen Prüfungsteile können in beliebiger Reihenfolge geprüft
 werden; dabei ist mit dem letzten Prüfungsteil spätestens fünf Jahre
 nach dem ersten Prüfungstag des ersten Prüfungsteils zu beginnen.
-
 
 ## § 4 Prüfungsteil „Produktionsprozesse“
 
@@ -235,7 +230,6 @@ zusammen mindestens 60 Minuten, höchstens 90 Minuten dauern.
 
 (4) Auf Grund der Dokumentation, der Präsentation und des
 Fachgesprächs sind die Befähigungen nach Absatz 1 zu bewerten.
-
 
 ## § 5 Prüfungsteil „Prozessmanagement“
 
@@ -318,7 +312,6 @@ schriftlichen Prüfungsleistung und die der mündlichen
 Ergänzungsprüfung werden zu einer Prüfungsleistung zusammengefasst.
 Dabei wird die Bewertung der schriftlichen Prüfungsleistung doppelt
 gewichtet.
-
 
 ## § 6 Prüfungsteil „Mitarbeiterführung und Personalmanagement“
 
@@ -460,7 +453,6 @@ Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin wählt einen der
 Anwendungsfälle aus. Das situationsbezogene Fachgespräch soll
 mindestens 45 und höchstens 60 Minuten dauern.
 
-
 ## § 7 Bewerten der Prüfungsteile und Bestehen der Prüfung
 
 (1) Der Prüfungsteil „Produktionsprozesse“, die zwei
@@ -483,7 +475,6 @@ und ein Zeugnis nach der Anlage 3 auszustellen. Im Fall der
 Freistellung nach § 8 sind Ort und Datum der anderweitig abgelegten
 Prüfung und die Bezeichnung des Prüfungsgremiums anzugeben.
 
-
 ## § 8 Anrechnung anderer Prüfungsleistungen
 
 Auf Antrag kann die zuständige Stelle den Prüfungsteilnehmer oder die
@@ -495,7 +486,6 @@ Prüfungsausschuss eine Prüfung mit Erfolg abgelegt wurde, die den
 Anforderungen der entsprechenden Prüfungsleistungen nach dieser
 Verordnung entspricht. Eine vollständige Freistellung ist nicht
 zulässig.
-
 
 ## § 9 Wiederholung der Prüfung
 
@@ -512,11 +502,9 @@ Wiederholungsprüfung angemeldet hat. Dabei können auch bestandene
 Prüfungsleistungen auf Antrag einmal wiederholt werden. In diesem Fall
 gilt das Ergebnis der letzten Prüfung.
 
-
 ## § 10 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Anlage 1 (zu § 2 Abs. 2) Spezialistenprofile in der Produktionstechnologie
 
@@ -729,10 +717,6 @@ zu geben und darüber ein Fachgespräch zu führen.
     Tiefe und das Verfahren der Spezialistenqualifizierung abbildet,
     nachzuweisen.
 
-
-
-
-
 ## Anlage 2 (zu § 7 Abs. 4) Muster
 
 ( Fundstelle: BGBl. I 2008, 1058 )
@@ -867,8 +851,6 @@ zu geben und darüber ein Fachgespräch zu führen.
 *    *   (Siegel der zuständigen Stelle)
 
     *
-
-
 
 ## Anlage 3 (zu § 7 Abs. 4) Muster
 

@@ -18,7 +18,6 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 16.1.2012 I 98
 
-
 ## § 1 Anwendungsbereich
 
 (1) Dieses Gesetz dient dazu, der Opfer von Krieg und Gewaltherrschaft
@@ -107,7 +106,6 @@ Gliederungsnummer 251-1, veröffentlichten bereinigten Fassung, das
 zuletzt durch Artikel 30 des Gesetzes vom 23. Dezember 2003 (BGBl. I
 S. 2848) geändert worden ist, in der jeweils geltenden Fassung.
 
-
 ## § 2 Ruherecht
 
 (1) Gräber nach § 1 bleiben dauernd bestehen.
@@ -120,7 +118,6 @@ eine öffentliche Last.
 
 (3) Die öffentliche Last nach Absatz 2 geht den öffentlichen und
 privaten Rechten an dem Grundstück im Rang vor.
-
 
 ## § 3 Ruherechtsentschädigung
 
@@ -182,7 +179,6 @@ Beeinträchtigung nach Nummer 1 als unwesentlich, wenn die Nutzung des
 Grundstücks durch die öffentliche Last 5 vom Hundert der Gesamtfläche
 nicht übersteigt.
 
-
 ## § 4 Übernahme eines Grundstücks
 
 (1) Wird dem Eigentümer eines Grundstücks durch die öffentliche Last
@@ -227,7 +223,6 @@ Fassung entsprechend mit folgender Maßgabe:
 (3) Juristische Personen des öffentlichen Rechts können einen Anspruch
 nach Absatz 1 nicht geltend machen.
 
-
 ## § 5 Feststellung und Erhaltung von Gräbern
 
 (1) Die Länder haben die in ihrem Gebiet liegenden Gräber nach § 1
@@ -240,7 +235,6 @@ darüber zu erteilen, ob auf einem Grundstück ein Grab nach § 1 liegt.
 (3) Die Länder haben die in ihrem Gebiet liegenden Gräber nach § 1 zu
 erhalten. Maßnahmen zur Erhaltung sind Anlegung, Instandsetzung und
 Pflege.
-
 
 ## § 6 Verlegung von Gräbern
 
@@ -256,7 +250,6 @@ Begräbnisstätte zusammengelegt werden.
 (3) Geschlossene Begräbnisstätten sind Friedhöfe und Abteilungen eines
 Friedhofs.
 
-
 ## § 7 Herausgabe von Gegenständen
 
 Wer Unterlagen zur Person oder Nachlassgegenstände der in § 1
@@ -271,7 +264,6 @@ sie der Deutschen Dienststelle für die Benachrichtigung der nächsten
 Angehörigen von Gefallenen der ehemaligen deutschen Wehrmacht (WASt),
 Berlin, herauszugeben.
 
-
 ## § 8 Identifizierungen
 
 Zum Zwecke der Identifizierung namentlich unbekannter Toter kann eine
@@ -282,11 +274,9 @@ nächsten Angehörigen von Gefallenen der ehemaligen deutschen Wehrmacht
 (WASt), Berlin, anders nicht durchführbar ist und eine
 Identitätsfeststellung mit hoher Wahrscheinlichkeit zu erwarten steht.
 
-
 ## § 9 (weggefallen)
 
 -
-
 
 ## § 10 Aufwendungen
 
@@ -386,7 +376,6 @@ diese Aufwendungen trägt.
 (10) Verpflichtungen nach anderen Rechtsvorschriften zur Tragung von
 Aufwendungen bleiben unberührt.
 
-
 ## § 11 Befreiung von Gebühren, Auslagen und Steuern
 
 (1) Für Amtshandlungen, die bei Durchführung dieses Gesetzes mit
@@ -398,7 +387,6 @@ Beglaubigungskosten nach der Kostenordnung.
 gewerbliche Tätigkeit im Sinne des § 2 Absatz 3 des
 Umsatzsteuergesetzes.
 
-
 ## § 12 Zuständigkeit
 
 (1) Aufgaben nach diesem Gesetz nehmen, soweit nichts anderes bestimmt
@@ -409,7 +397,6 @@ Grundstück von dem Land zu erwerben, in dem es liegt. Aus besonderen
 Gründen kann das Eigentum an dem Grundstück auf Gemeinden oder
 Gemeindeverbände als Friedhofsträger übertragen werden.
 
-
 ## § 13 Überleitungsvorschriften
 
 Entscheidungen über die Festsetzung von Entschädigungsleistungen für
@@ -417,11 +404,9 @@ Minderung des Nutzungswertes durch Belegung eines Grundstücks mit
 Gräbern nach § 1, die bis zum Inkrafttreten dieses Gesetzes ergangen
 sind, gelten als Entscheidungen nach § 3.
 
-
 ## (XXXX) §§ 14 und 15 (weggefallen)
 
 (Änderung und Aufhebung anderer Rechtsvorschriften)
-
 
 ## § 16 Sondervorschriften
 
@@ -444,10 +429,6 @@ Dieses Gesetz ist auf Gräber nach § 1 nicht anzuwenden, wenn
     übernommen haben (privat gepflegtes Grab); eine Übernahme dieser
     Gräber in die öffentliche Obhut ist ausgeschlossen.
 
-
-
-
-
 ## § 17 Anwendung des Gräbergesetzes in den neuen Bundesländern
 
 (1) Abweichend von Anlage I Kapitel X Sachgebiet H Abschnitt III
@@ -460,7 +441,6 @@ Nummer 15 des Einigungsvertrages vom 31. August 1990 (BGBl. 1990 II S.
 885, 1020) gilt § 12 der Verordnung über das Bestattungs- und
 Friedhofswesen vom 17. April 1980 (GBl. I Nummer 18 S. 159) nur bis
 zum 31. Dezember 1992.
-
 
 ## § 18 (Inkrafttreten)
 

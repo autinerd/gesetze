@@ -16,13 +16,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1998, 312
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -31,11 +28,9 @@ Bundesrepublik Deutschland und der Republik Österreich über Soziale
 Sicherheit wird zugestimmt. Das Abkommen wird nachstehend
 veröffentlicht.
 
-
 ## Art 2
 
 -
-
 
 ## Art 3
 

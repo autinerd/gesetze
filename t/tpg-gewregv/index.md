@@ -18,19 +18,16 @@ Fundstelle
 Geändert durch
 :   Art. 2 Abs. 9 G v. 22.12.2011 I 3044
 
-
 ## Eingangsformel
 
 Auf Grund des § 8f Abs. 2 des Transplantationsgesetzes in der Fassung
 der Bekanntmachung vom 4. September 2007 (BGBl. I S. 2206) verordnet
 das Bundesministerium für Gesundheit:
 
-
 ## § 1 Form des Registers
 
 Das Register nach § 8f Abs. 1 Satz 1 des Transplantationsgesetzes wird
 in Form einer Datenbank geführt.
-
 
 ## § 2 Inhalt des Registers
 
@@ -60,10 +57,6 @@ gespeichert:
 
 7.  Name der meldenden Person der zuständigen Behörde des Landes.
 
-
-
-
-
 ## § 3 Übermittlung der Angaben an das Deutsche Institut für Medizinische Dokumentation und Information
 
 Die zuständige Behörde des Landes übermittelt die Angaben sowie
@@ -72,7 +65,6 @@ Medizinische Dokumentation und Information im Wege der
 Datenfernübertragung. Die Angaben sind auf dem Formular mitzuteilen,
 das das Deutsche Institut für Medizinische Dokumentation und
 Information bestimmt und im Bundesanzeiger bekannt macht.
-
 
 ## § 4 Übermittlung der Angaben durch das Deutsche Institut für Medizinische Dokumentation und Information
 
@@ -106,7 +98,6 @@ dies wegen der Häufigkeit oder der Eilbedürftigkeit der
 Interessen der Betroffenen angemessen oder durch das Recht der
 Europäischen Union vorgeschrieben ist.
 
-
 ## § 5 Organisatorische und technische Maßnahmen
 
 Das Deutsche Institut für Medizinische Dokumentation und Information
@@ -120,7 +111,6 @@ Verschlüsselungsverfahren anzuwenden. Für die Übermittlung nach § 3
 gilt Satz 1 entsprechend mit der Maßgabe, dass die zuständige Behörde
 des Landes die erforderlichen Maßnahmen trifft.
 
-
 ## § 6 Löschung
 
 Das Deutsche Institut für Medizinische Dokumentation und Information
@@ -129,11 +119,9 @@ gespeicherten Angaben, wenn die zuständige Behörde des Landes
 mitgeteilt hat, dass die Gewebeeinrichtung die gemeldeten Tätigkeiten
 eingestellt hat.
 
-
 ## § 7 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Schlussformel
 

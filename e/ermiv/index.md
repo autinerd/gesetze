@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 5 V v. 25.10.2012 I 2270
 
-
 ## § 1 Anwendungsbereich
 
 Die Verordnung gilt für das Inverkehrbringen von Saatgut von
@@ -28,7 +27,6 @@ Saatgut der in Nummer 1.2 der Anlage zur Verordnung über das
 Artenverzeichnis zum Saatgutverkehrsgesetz aufgeführten Arten
 enthalten. Die Verordnung gilt nicht für Mulch, Grünschnitt, Mahdgut
 und diasporenhaltigen Boden.
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -120,10 +118,6 @@ Im Sinne dieser Verordnung sind
     befinden, deren Entnahmeort in einem der diesem Produktionsraum
     zugeordneten Ursprungsgebiete liegt.
 
-
-
-
-
 ## § 3 Antrag auf Genehmigung des Inverkehrbringens einer Erhaltungsmischung
 
 (1) Wer Erhaltungsmischungen in den Verkehr bringen will, bedarf der
@@ -179,7 +173,6 @@ der Mischung für den Lebensraum am Entnahmeort typisch sind.
 (3) Der Hersteller der Erhaltungsmischung vergibt für jede Mischung
 eine Erhaltungsmischungsnummer, anhand der die Erhaltungsmischung
 eindeutig identifiziert werden kann.
-
 
 ## § 4 Anforderungen an Saatgut von Erhaltungsmischungen
 
@@ -256,7 +249,6 @@ Erhaltungsmischung Saatgut nicht in ausreichender Menge zur Verfügung
 steht und Saatgut anderer Arten aus den betroffenen angrenzenden
 Ursprungsgebieten nicht als Ersatz in Frage kommt.
 
-
 ## § 5 Überwachung durch Sichtkontrollen und Prüfungen
 
 Die zuständige Behörde überwacht die Einhaltung der Anforderungen nach
@@ -274,7 +266,6 @@ Die zuständige Behörde überwacht die Einhaltung der Anforderungen nach
 Für die Probenahme gelten die Vorschriften nach Artikel 7 Absatz 2 in
 Verbindung mit Anlage 3 der Richtlinie 66/401/EWG. Die zuständige
 Behörde hat die Durchführung der Überwachung aufzuzeichnen.
-
 
 ## § 5a Gestattung des Inverkehrbringens
 
@@ -319,7 +310,6 @@ Satz 2 verstoßen wird. Im Übrigen bleiben die
 verwaltungsverfahrensrechtlichen Bestimmungen über Rücknahme und
 Widerruf unberührt.
 
-
 ## § 6 Verschließung
 
 (1) Packungen oder Behältnisse von Saatgut von Erhaltungsmischungen
@@ -336,7 +326,6 @@ Mischungen aus technischen Gründen nicht möglich, dann darf das
 Saatgut dieser Mischungen auch in nicht geschlossenen Packungen oder
 Behältnissen und ohne Verschlusssicherung in den Verkehr gebracht
 werden.
-
 
 ## § 7 Kennzeichnung
 
@@ -412,7 +401,6 @@ entfallen, soweit sich der Inverkehrbringer durch eine entsprechende
 Erklärung auf dem Lieferschein verpflichtet, die entfallenen Angaben
 dem Käufer der Erhaltungsmischung auf Verlangen schriftlich oder auf
 elektronischem Wege unverzüglich mitzuteilen.
-
 
 ## Anlage (zu § 2 Nummer 6 und 7) Ursprungsgebiete und Produktionsräume
 

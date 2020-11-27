@@ -19,10 +19,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 94 G v. 17.12.2008 I 2586
 
-
 ## Abschnitt I - Umwandlung von Uraltguthaben
-
-
 
 ### § 1
 
@@ -46,7 +43,6 @@ Geschäftsleitung im Geltungsbereich dieses Gesetzes befindet.
 (4) Vorschriften über die Beschränkung der Inanspruchnahme von
 Geldinstituten finden auf Uraltguthaben, soweit sie nach diesem Gesetz
 umzuwandeln sind, keine Anwendung.
-
 
 ### § 2
 
@@ -73,10 +69,6 @@ c)  Uraltguthaben nicht unter Buchstabe b fallender Personen und
 d ) Uraltguthaben, deren Umwandlungsbetrag weniger als zwei und eine halbe
     Deutsche Mark ergeben würde, wobei mehrere Guthaben einer Person bei
     demselben Kreditinstitut zusammenzurechnen sind.
-
-
-
-
 
 ### § 3
 
@@ -111,10 +103,6 @@ d)  Uraltguthaben von Kontoinhabern, die am 31. Dezember 1952 ihren
     Regierung die Bundesrepublik Deutschland bei Inkrafttreten dieses
     Gesetzes nicht anerkannt hat.
 
-
-
-
-
 ### § 4
 
 (1) Gutschriften in Deutscher Mark auf Grund der Uraltkontenbestimmung
@@ -127,7 +115,6 @@ des Prüfungsausschusses und der Gerichte eingestellt.
 und den dazu erlassenen Ausführungsvorschriften und Richtlinien nicht
 hätten vorgenommen werden dürfen, bleiben bestehen, wenn das
 Uraltguthaben nach diesem Gesetz umzuwandeln sein würde.
-
 
 ### § 5
 
@@ -149,7 +136,6 @@ Wohnsitz oder Aufenthalt begründet hat oder begründet oder das
 sechzigste Lebensjahr vollendet hat oder erwerbsunfähig ist und sich
 vorübergehend im Geltungsbereich dieses Gesetzes aufhält.
 
-
 ### § 6
 
 (1) Steht das Uraltguthaben einer ehelichen Gütergemeinschaft oder
@@ -165,12 +151,10 @@ Geschäftsleitung im Geltungsbereich dieses Gesetzes oder im Gebiet
 eines Staates, der die Regierung der Bundesrepublik Deutschland
 anerkannt hat, begründet hat oder begründet.
 
-
 ### § 7
 
 Bei der Umwandlung von Uraltguthaben werden nur volle
 Reichsmarkbeträge berücksichtigt.
-
 
 ### § 8
 
@@ -180,7 +164,6 @@ nicht mehr gutgeschrieben werden.
 (2) Für die Zeit seit dem 1. Januar 1945 gutgeschriebene Zinsbeträge
 sind von der Umwandlung ausgeschlossen.
 
-
 ### § 9
 
 Soweit Gutschriften oder Wiedergutschriften in Reichsmark zu
@@ -189,7 +172,6 @@ bedarf es der Zustimmung des für das Bankwesen zuständigen
 Berliner Senators (Berliner Bankaufsichtsbehörde),              es sei
 denn, daß eine rechtskräftige Gerichtsentscheidung vorliegt. Die
 Gutschrift ist mit Wirkung vom 8. Mai 1945 vorzunehmen.
-
 
 ### § 10
 
@@ -208,7 +190,6 @@ Rechnungshofes kann im Verwaltungsrechtsweg angefochten werden.
 (2) Mit der Gutschrift des Neugeldguthabens erlöschen die Ansprüche
 der Berechtigten aus der Hinterlegung oder Einzahlung.
 
-
 ### § 11
 
 Uraltguthaben, bei denen aus der Kontobezeichnung ersichtlich ist, daß
@@ -216,7 +197,6 @@ sie für fremde Rechnung gehalten werden, sind nur insoweit
 umzuwandeln, als sie in der Person desjenigen, für den sie gehalten
 werden, die Voraussetzungen für die Umwandlung des Uraltguthabens
 gegeben sind.
-
 
 ### § 12
 
@@ -230,7 +210,6 @@ Uraltguthabens anzugeben. Der Anmeldung sollen die vorhandenen
 Unterlagen beigefügt werden.
 
 (2)
-
 
 ### § 13
 
@@ -255,7 +234,6 @@ Umfanges ihrem Geschäftskreis entspricht, es sei denn, daß dem
 Anmelder ein anderes zur Entgegennahme der Anmeldung bereites Institut
 nachgewiesen wird.
 
-
 ### § 14
 
 (1) Aus einem Uraltguthaben, das nicht ordnungsgemäß angemeldet worden
@@ -265,7 +243,6 @@ geltend gemacht werden.
 (2)
 
 (3)
-
 
 ### § 15
 
@@ -281,7 +258,6 @@ gemäß Absatz 1 für erbracht, so hat sie die Anmeldung mit den
 Unterlagen an die Verwaltungsstelle des Alten Instituts
 weiterzuleiten. Andernfalls hat sie die Anmeldung nur auf Verlangen
 des Anmelders weiterzuleiten.
-
 
 ### § 16
 
@@ -303,7 +279,6 @@ Voraussetzungen der Umwandlung gegeben sind, so darf sie die
 Umwandlungsfähigkeit des Uraltguthabens nur mit Zustimmung der
 Berliner Bankaufsichtsbehörde              anerkennen.
 
-
 ### § 17
 
 Wird die Umwandlung eines Uraltguthabens von nicht mehr als
@@ -318,7 +293,6 @@ Uraltguthaben von mehr als fünftausend Reichsmark gilt das gleiche,
 wenn die
 Berliner Bankaufsichtsbehörde              zustimmt.
 
-
 ### § 18
 
 Die Verwaltungsstelle des Alten Instituts hat die Anerkennung der
@@ -327,7 +301,6 @@ auf der Anmeldung mit Datum und Unterschrift zu vermerken. Ferner sind
 auf der Anmeldung Rechte, die an dem Uraltguthaben bestehen, und
 hinsichtlich des Guthabens bestehende Verfügungsbeschränkungen des
 Inhabers, die der Verwaltungsstelle bekannt sind, zu vermerken.
-
 
 ### § 19
 
@@ -339,7 +312,6 @@ ihrer Bestätigung.
 (2) Durch die Überwachung und Bestätigung der Anerkennung wird die
 Verantwortlichkeit der Verwaltungsstelle des Alten Instituts nicht
 ausgeschlossen.
-
 
 ### § 20
 
@@ -357,7 +329,6 @@ anzuwenden.
 (3) Der Anmelder kann die Weiterleitung verlangen, solange das Alte
 Institut noch nicht zum Neugeschäft zugelassen ist.
 
-
 ### § 21
 
 (1) Wird die Umwandlungsfähigkeit des Uraltguthabens nicht oder nur
@@ -371,7 +342,6 @@ eine Abschrift dieser Mitteilung zu übersenden.
 bezeichneten Mitteilung gerichtliche Entscheidung beantragen; hierüber
 ist er in der Mitteilung zu belehren.
 
-
 ### § 22
 
 (1) Über den Antrag nach § 21 Abs. 2 entscheidet eine Zivilkammer des
@@ -384,12 +354,10 @@ Gesetzes über das Verfahren in Familiensachen und in den
 Angelegenheiten der freiwilligen Gerichtsbarkeit, soweit in diesem
 Gesetz nichts anderes bestimmt ist.
 
-
 ### § 23
 
 Das Gericht entscheidet über den Antrag durch einen mit Gründen
 versehenen Beschluß.
-
 
 ### § 24
 
@@ -408,12 +376,10 @@ von einer Behörde oder von einem Notar eingelegt wird, der in der
 Angelegenheit für den Beschwerdeführer einen Antrag im ersten
 Rechtszuge gestellt hat.
 
-
 ### § 25
 
 Die Entscheidung wird mit der Rechtskraft wirksam. Sie ist für die
 Gerichte, die Verwaltungsbehörden und das Neue Institut bindend.
-
 
 ### § 26
 
@@ -422,7 +388,6 @@ nach billigem Ermessen. Es kann dabei auch bestimmen, daß die
 außergerichtlichen Kosten ganz oder teilweise zu erstatten sind. Die
 Vorschriften der §§
 102              bis 107 der Zivilprozeßordnung gelten entsprechend.
-
 
 ### § 27
 
@@ -437,11 +402,9 @@ gekommen ist, so ermäßigt sich die Gebühr auf die Hälfte.
 (3) Im Beschwerdeverfahren wird das Doppelte der vollen Gebühr
 erhoben. Absatz 2 Satz 2 gilt entsprechend.
 
-
 ### § 28
 
 -
-
 
 ### § 29
 
@@ -455,7 +418,6 @@ als Sparguthaben mit gesetzlicher Kündigungsfrist zu führen. Alle
 übrigen Neugeldguthaben sind, wenn nichts anderes vereinbart wird, als
 Sichteinlagen zu führen.
 
-
 ### § 30
 
 (1) Rechte, die an dem Uraltguthaben bestehen, und
@@ -468,7 +430,6 @@ Institut auf andere Weise bekanntgeworden waren.
 
 (2) Als Verfügungsbeschränkung im Sinne des Absatzes 1 gilt auch ein
 Zurückbehaltungsrecht des Alten Instituts an dem Uraltguthaben.
-
 
 ### § 31
 
@@ -498,7 +459,6 @@ die Nachweisungen an Hand ihrer Unterlagen und stellt den Anspruch auf
 Vergütung fest. Die Feststellungen sind mit den Anträgen und
 Nachweisungen an den Bundesminister der Finanzen weiterzuleiten.
 
-
 ### § 32
 
 (1) Dem Neuen Institut wird für jedes Neugeldguthaben eine
@@ -511,7 +471,6 @@ in einem Monat gutgeschriebenen Neugeldguthaben zu gewähren. Der
 Landeszentralbank (Berliner Zentralbank)              ist von der
 Bank Deutscher Länder              ein entsprechender Betrag
 gutzuschreiben.
-
 
 ### § 33
 
@@ -530,7 +489,6 @@ hat. Das Neue Institut hat ein Verschulden seiner gesetzlichen
 Vertreter und der Personen, deren es sich bei der Durchführung der
 Gutschrift bedient, in gleichem Umfange zu vertreten wie eigenes
 Verschulden.
-
 
 ### § 34
 
@@ -564,7 +522,6 @@ und an die
 Bank deutscher Länder              stellt der Bundesminister der
 Finanzen fest.
 
-
 ### § 35
 
 (1) Die Ausgleichsforderungen sind Schuldbuchforderungen. Sie werden
@@ -577,7 +534,6 @@ ausgereicht. Im Übrigen gilt das Bundesschuldenwesengesetz.
 (3) Auf die Ausgleichsforderungen sind § 11 Abs. 4 des
 Umstellungsgesetzes und § 11 Abs. 3 der Zweiten
 Durchführungsverordnung zum Umstellungsgesetz anzuwenden.
-
 
 ### § 36
 
@@ -604,7 +560,6 @@ zu verzinsen. Zinsbeträge für eine Ausgleichsforderung, die dem Bund
 zu erstatten sind, sind vom Zeitpunkt des Eingangs bis zur Erstattung
 mit jährlich 5 vom Hundert zu verzinsen.
 
-
 ### § 37
 
 (1) In Höhe der Ausgleichsforderungen, die wegen der Umwandlung von
@@ -622,7 +577,6 @@ zu berechnende Betrag.
 (3) Durch Gesetz des Landes Berlin wird bestimmt, welche
 Kreditinstitute als Berliner Altbanken gelten.
 
-
 ### § 38
 
 Soweit eine Berliner Altbank nach § 37 Abs. 2 wegen der
@@ -636,7 +590,6 @@ Verrechnung hat für Ausgleichsforderungen und Verbindlichkeiten nach §
 37 Abs. 1 mit Wirkung vom 1. Januar 1953 und für Ausgleichsforderungen
 und Verbindlichkeiten nach Ziffer 5 der Berliner Uraltkontenbestimmung
 mit Wirkung vom 1. Januar 1950 an zu erfolgen.
-
 
 ### § 39
 
@@ -659,7 +612,6 @@ Rückkauf von Ausgleichsforderungen, die auf Grund dieses Gesetzes oder
 der Berliner Uraltkontenregelung gewährt worden sind, zu verwenden.
 Die zurückgekauften Ausgleichsforderungen erlöschen.
 
-
 ### § 40
 
 Die Vorschriften der §§ 37 bis 39 gelten sinngemäß, wenn die gesamten
@@ -668,10 +620,7 @@ andere Berliner Altbank oder ein anderes Kreditinstitut oder die
 gesamten Vermögenswerte und Verbindlichkeiten eines anderen
 Kreditinstituts auf eine Berliner Altbank übergehen.
 
-
 ## Abschnitt II - Ergänzung sonstiger umstellungsrechtlicher Vorschriften
-
-
 
 ### § 41
 
@@ -706,7 +655,6 @@ Sinne von § 22 des Umstellungsgesetzes oder um die Verpflichtung zur
 Abführung von in Deutscher Mark eingegangenen oder noch eingehenden
 Zins- oder Tilgungsbeträgen für treuhänderisch weitergeleitete oder
 für Rechnung eines Dritten gegebene Kredite handelt.
-
 
 ### § 42
 
@@ -810,7 +758,6 @@ Finanzen in das Bundesschuldbuch eingetragen; die Eintragung ist im
 Falle des Absatzes 7 Satz 2 zu berichtigen. § 35 Abs. 2 und 3 gilt
 entsprechend.
 
-
 ### § 43
 
 (1) Berliner Altbanken mit Hauptniederlassung (Sitz) in Berlin (West),
@@ -830,7 +777,6 @@ Bestellung. Eintragungen über die Bestellung von ständigen Vertretern
 sind auf Antrag der gesetzlichen Vertreter des Unternehmens
 gebührenfrei zu löschen.
 
-
 ### § 44
 
 (1) Von Berliner Altbanken, die gemäß § 1 der Zweiundvierzigsten
@@ -849,10 +795,7 @@ nächstfolgenden Bilanz zu berücksichtigen.
 Vermögenswerte über die danach in die Bilanz zu übernehmenden
 Verbindlichkeiten ist den Rücklagen zuzuführen.
 
-
 ## Abschnitt III - Ausstattung der Berliner Altbanken mit Ausgleichsforderungen
-
-
 
 ### § 45
 
@@ -973,7 +916,6 @@ und Achtunddreißigsten Durchführungsverordnung zum Umstellungsgesetz
 und des Abschnitts I dieses Gesetzes durch Gesetz des Landes Berlin
 geregelt.
 
-
 ### § 46
 
 (1) Hat die Altbank keine Niederlassung außerhalb Berlins, so gilt
@@ -1040,7 +982,6 @@ dem Bundesminister der Finanzen das frühere Eigenkapital abweichend
 von den Vorschriften der Absätze 1 bis 4 feststellen, wenn dies durch
 besondere Umstände gerechtfertigt ist.
 
-
 ### § 47
 
 (1) Die Ausgleichsforderungen sind vom 1. Januar 1953 an mit jährlich
@@ -1069,7 +1010,6 @@ zu verzinsen. Zinsbeträge für eine Ausgleichsforderung, die dem Bund
 zu erstatten sind, sind vom Zeitpunkt des Eingangs bis zur Erstattung
 mit jährlich 5 vom Hundert zu verzinsen.
 
-
 ### § 48
 
 (1) Soweit für Schuldverschreibungen oder Verpflichtungen aus
@@ -1083,7 +1023,6 @@ vorläufige Deckung im Sinne des § 6 Abs. 4 des Hypothekenbankgesetzes
 und entsprechender Vorschriften in anderen Gesetzen oder Verträgen
 verwandt werden.
 
-
 ### § 49
 
 Der Anspruch auf Gewährung der Ausgleichsforderung gemäß § 45 wird auf
@@ -1093,7 +1032,6 @@ Altbankenrechnung berichtigt, so ist auch die nach Satz 1 getroffene
 Feststellung zu berichtigen. Die Feststellung und eine etwaige
 Berichtigung sind dem Bundesminister der Finanzen mitzuteilen.
 
-
 ### § 50
 
 (1) Die Ausgleichsforderungen sind Schuldbuchforderungen. Sie werden
@@ -1102,7 +1040,6 @@ eingetragen. Die Eintragung ist im Falle des § 49 Satz 2 auf Ersuchen
 des Bundesministers der Finanzen zu berichtigen.
 
 (2) § 35 Abs. 2 und 3 findet Anwendung.
-
 
 ### § 51
 
@@ -1126,7 +1063,6 @@ Rückstellung zu bilden und dieser jährlich für die Zeit bis zum
 Abschluß des am 31. Dezember 1972 laufenden Geschäftsjahres
 angemessene Beträge zuzuführen.
 
-
 ### § 52
 
 Stellt eine Altbank, die Anspruch auf Gewährung einer
@@ -1141,7 +1077,6 @@ zerstörten oder beschädigten Grundstücken gesichert sind und für
 welche die Zinsen nicht oder nicht in der geschuldeten Höhe
 einzubringen sind. Die Altbankenrechnung ist insoweit zu berichtigen.
 
-
 ### § 53
 
 Jede Altbank, die nach den Vorschriften dieses Abschnittes
@@ -1150,7 +1085,6 @@ Ausgleichsforderungen erhält, hat ihre Rechte aus Ansprüchen der in §
 übertragen, soweit nicht bereits eine Übertragung gemäß § 11 Abs. 1
 Satz
 3              des Umstellungsgesetzes auf ein Land erforderlich ist.
-
 
 ### § 54
 
@@ -1168,10 +1102,7 @@ den Bund. Das Nähere regelt ein Bundesgesetz.
 gesetzlich, vertraglich oder satzungsmäßig eine Deckung unterhalten
 werden muß, wird sie durch den Anspruch nach Absatz 1 ersetzt.
 
-
 ## Abschnitt IV - Schlußvorschriften
-
-
 
 ### § 55
 
@@ -1186,7 +1117,6 @@ mit Zustimmung des Bundesrates Vorschriften über die Anmeldung von
 Ansprüchen aus Schuldverschreibungen von Berliner Altbanken zur
 Feststellung der zu befriedigenden Verbindlichkeiten zu erlassen.
 
-
 ### § 56
 
 Die Vorschriften dieses Gesetzes finden Anwendung, sobald es durch
@@ -1195,7 +1125,6 @@ Januar 1952 (Bundesgesetzbl. I S. 1) zusammen mit den ergänzenden
 landesgesetzlichen Vorschriften im Land Berlin in Kraft getreten ist.
 Die in § 13 Abs. 1 des Dritten Überleitungsgesetzes bestimmte Frist
 braucht hierbei nicht eingehalten zu werden.
-
 
 ### § 57
 
@@ -1209,7 +1138,6 @@ und des § 11 Abs. 3 der Zweiten Durchführungsverordnung zum
 Umstellungsgesetz die Ziffer 3 Buchstabe c der
 Umstellungsergänzungsverordnung vom 20. März 1949 (Verordnungsblatt
 für Groß-Berlin Teil I S. 88) tritt.
-
 
 ### § 58
 

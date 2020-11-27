@@ -29,10 +29,7 @@ Informationsgesellschaft (ABl. EG Nr. L 204 S. 37), geändert durch die
 Richtlinie 98/48/EG des Europäischen Parlaments und des Rates vom 20.
 Juli 1998 (ABl. EG Nr. L 217 S. 18), sind beachtet worden.
 
-
 ## Abschnitt 1 - Anwendungsbereich und allgemeine Vorschriften
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -44,7 +41,6 @@ klinischen Prüfung oder zur Leistungsbewertungsprüfung.
 (2) Diese Verordnung gilt nicht für Medizinprodukte, die weder
 gewerblichen noch wirtschaftlichen Zwecken dienen und in deren
 Gefahrenbereich keine Arbeitnehmer beschäftigt sind.
-
 
 ### § 2 Allgemeine Anforderungen
 
@@ -93,14 +89,12 @@ Medizinprodukten nach den Unfallverhütungsvorschriften bleiben
 unberührt, es sei denn, der Prüfumfang ist in den
 sicherheitstechnischen Kontrollen nach § 6 enthalten.
 
-
 ### § 3 Meldung von Vorkommnissen
 
 Die Meldepflichten und sonstigen Verpflichtungen für Betreiber und
 Anwender im Zusammenhang mit dem Medizinprodukte-Beobachtungs- und
 -Meldesystem ergeben sich aus der Medizinprodukte-
 Sicherheitsplanverordnung.
-
 
 ### § 4 Instandhaltung
 
@@ -153,7 +147,6 @@ Voraussetzungen nach Absatz 3 erfüllen und bei der Durchführung und
 Auswertung der Prüfungen in ihrer fachlichen Beurteilung
 weisungsunabhängig sein.
 
-
 ### § 4a Qualitätssicherung in medizinischen Laboratorien
 
 (1) Wer laboratoriumsmedizinische Untersuchungen durchführt, hat ein
@@ -196,10 +189,7 @@ aufzubewahren, sofern auf Grund anderer Vorschriften keine längere
 Aufbewahrungsfrist vorgeschrieben ist. Die Unterlagen sind der
 zuständigen Behörde auf Verlangen vorzulegen.
 
-
 ## Abschnitt 2 - Spezielle Vorschriften für aktive Medizinprodukte
-
-
 
 ### § 5 Betreiben und Anwenden
 
@@ -232,7 +222,6 @@ Medizinproduktes eingewiesen worden sind.
 (3) Die Durchführung der Funktionsprüfung nach Absatz 1 Nr. 1 und die
 Einweisung der vom Betreiber beauftragten Person nach Absatz 1 Nr. 2
 sind zu belegen.
-
 
 ### § 6 Sicherheitstechnische Kontrollen
 
@@ -286,7 +275,6 @@ zuständigen Behörde nachzuweisen.
 (5) Der Betreiber darf nur Personen mit der Durchführung
 sicherheitstechnischer Kontrollen beauftragen, die die in Absatz 4
 Satz 1 genannten Voraussetzungen erfüllen.
-
 
 ### § 7 Medizinproduktebuch
 
@@ -343,7 +331,6 @@ Bundesanzeiger bekannt.
 (3) Der zuständigen Behörde ist auf Verlangen am Betriebsort jederzeit
 Einsicht in die Medizinproduktebücher zu gewähren.
 
-
 ### § 8 Bestandsverzeichnis
 
 (1) Der Betreiber hat für alle aktiven nichtimplantierbaren
@@ -396,7 +383,6 @@ lesbar gemacht werden können.
 (5) Der zuständigen Behörde ist auf Verlangen beim Betreiber jederzeit
 Einsicht in das Bestandsverzeichnis zu gewähren.
 
-
 ### § 9 Aufbewahrung der Gebrauchsanweisungen und der Medizinproduktebücher
 
 (1) Die Gebrauchsanweisungen und die dem Medizinprodukt beigefügten
@@ -408,7 +394,6 @@ zugänglich sind.
 Anwender während der Arbeitszeit zugänglich sind. Nach der
 Außerbetriebnahme des Medizinproduktes ist das Medizinproduktebuch
 noch fünf Jahre aufzubewahren.
-
 
 ### § 10 Patienteninformation bei aktiven implantierbaren Medizinprodukten
 
@@ -449,10 +434,7 @@ Patienteninformation nach Absatz 1 beizufügen:
 Die wesentlichen Ergebnisse der Kontrolluntersuchungen sind in der
 Patienteninformation zu vermerken.
 
-
 ## Abschnitt 3 - Medizinprodukte mit Messfunktion
-
-
 
 ### § 11 Messtechnische Kontrollen
 
@@ -548,10 +530,7 @@ messtechnischen Kontrolle und die Behörde oder Person, die die
 messtechnische Kontrolle durchgeführt haben, eindeutig und
 rückverfolgbar hervorgehen.
 
-
 ## Abschnitt 4 - Vorschriften für die Bundeswehr
-
-
 
 ### § 12 Medizinprodukte der Bundeswehr
 
@@ -579,10 +558,7 @@ Verordnung zulassen, wenn
 und die Sicherheit einschließlich der Messsicherheit auf andere Weise
 gewährleistet ist.
 
-
 ## Abschnitt 5 - Ordnungswidrigkeiten
-
-
 
 ### § 13 Ordnungswidrigkeiten
 
@@ -655,13 +631,7 @@ Medizinproduktegesetzes handelt, wer vorsätzlich oder fahrlässig
 14. entgegen § 15 Nr. 1 oder 2 Satz 1, auch in Verbindung mit Satz 2, ein
     Medizinprodukt betreibt oder weiterbetreibt.
 
-
-
-
-
 ## Abschnitt 6 - Übergangs- und Schlussbestimmungen
-
-
 
 ### § 14 Übergangsbestimmungen
 
@@ -705,7 +675,6 @@ sein mussten, gilt ab 14. Juni 1998 § 11 mit der Maßgabe, dass die
 messtechnischen Kontrollen nach den Anforderungen der Anlage 15 oder
 der Anlage 23 Abschnitt 4 der Eichordnung in der genannten Fassung
 durchgeführt werden.
-
 
 ### § 15 Sondervorschriften
 
@@ -793,21 +762,11 @@ Vorschriften dieser Verordnung mit folgenden Maßgaben:
         Beitritts in dem in Artikel 3 des Einigungsvertrages genannten Gebiet
         gegolten haben.
 
-
-
-
-
-
-
-
 ### (XXXX) §§ 16 und 17 (Änderung anderer Vorschriften)
-
-
 
 ### § 18
 
 (Inkrafttreten)
-
 
 ### Anlage 1 (zu § 5 Abs. 1 und Abs. 2, § 6 Abs. 1 und § 7 Abs. 1)
 
@@ -859,10 +818,6 @@ und
 
 
 3   externe aktive Komponenten aktiver Implantate.
-
-
-
-
 
 ### Anlage 2 (zu § 11 Abs. 1)
 

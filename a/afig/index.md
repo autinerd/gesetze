@@ -19,12 +19,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 Abs. 106 G v. 22.12.2011 I 3044
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## § 1 Zweck und Anwendungsbereich
 
@@ -48,10 +46,6 @@ Dieses Gesetz dient
     Europäischen Union, soweit darin Aufgaben der Verwaltungsbehörde im
     Zusammenhang mit den Informationsmaßnahmen im Sinne des Artikels 51
     der Verordnung (EG) Nr. 1198/2006 vorgesehen sind.
-
-
-
-
 
 ## § 2 Veröffentlichung
 
@@ -113,7 +107,6 @@ verwaltungskostenfrei zu.
 (5) Die veröffentlichten Informationen werden zwei Jahre nach dem
 ersten Tag der Veröffentlichung auf der Internetseite gelöscht.
 
-
 ## § 3 Verordnungsermächtigungen
 
 (1) Das Bundesministerium für Ernährung, Landwirtschaft und
@@ -145,13 +138,11 @@ erlassen werden. Die Rechtsverordnung tritt spätestens sechs Monate
 nach ihrem Inkrafttreten außer Kraft. Ihre Geltungsdauer kann nur mit
 Zustimmung des Bundesrates verlängert werden.
 
-
 ## § 4 Verkündung von Rechtsverordnungen
 
 Die Rechtsverordnungen nach diesem Gesetz können abweichend von § 2
 Absatz 1 des Verkündungs- und Bekanntmachungsgesetzes im
 Bundesanzeiger verkündet werden.
-
 
 ## § 5 Inkrafttreten
 

@@ -16,15 +16,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1965, 1089
 
-
-
 ## Art 1
 
 Der Änderung von Artikel III des Abkommens über die Internationale
 Bank für Wiederaufbau und Entwicklung (Bundesgesetzbl. 1952 II S. 637)
 durch Hinzufügung eines neuen Abschnittes 6 in der aus der Anlage
 ersichtlichen Fassung wird zugestimmt.
-
 
 ## Art 2
 
@@ -35,12 +32,10 @@ Abschnitt 6 des Abkommens über die Internationale Finanz-Corporation
 in der Fassung vom 21. September 1961 (Bundesgesetzbl. 1956 II S. 747;
 1961 II S. 1149) die aus der Anlage ersichtliche Fassung erhalten.
 
-
 ## Art 3
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
-
 
 ## Art 4
 

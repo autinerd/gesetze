@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1982, 2065
 
-
-
 ## § 1
 
 Auf Grund des § 51 Abs. 3 Nr. 3 Zivildienstgesetz in der Fassung der
@@ -41,12 +39,10 @@ Deutschland bei Streitigkeiten in Angelegenheiten
 auf das Bundesamt für den Zivildienst, Sibille-Hartmann-Straße 2 - 6,
 5000 Köln 51.
 
-
 ## § 2
 
 Diese Anordnung tritt am Tage nach der Veröffentlichung im
 Bundesgesetzblatt in Kraft.
-
 
 ## Schlußformel
 

@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 29.10.2008 I 2155
 
-
 ## Eingangsformel
 
 Auf Grund des § 81 Abs. 4 des Berufsbildungsgesetzes vom 14. August
@@ -27,7 +26,6 @@ Auf Grund des § 81 Abs. 4 des Berufsbildungsgesetzes vom 14. August
 Berücksichtigung des § 28 des Ausbildungsplatzförderungsgesetzes vom
 7\. September 1976 (BGBl. I S. 2658) wird im Einvernehmen mit dem
 Bundesminister für Bildung und Wissenschaft verordnet:
-
 
 ## § 1 Ziel der Meisterprüfung und Bezeichnung des Abschlusses
 
@@ -39,7 +37,6 @@ Auszubildende ordnungsgemäß auszubilden.
 
 (2) Die erfolgreich abgelegte Meisterprüfung führt zum anerkannten
 Abschluss Fischwirtschaftsmeister/Fischwirtschaftsmeisterin.
-
 
 ## § 1a Zulassungsvoraussetzungen zur Meisterprüfung
 
@@ -70,7 +67,6 @@ Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, dass er
 Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche
 Handlungsfähigkeit) erworben hat, die die Zulassung zur Prüfung
 rechtfertigen.
-
 
 ## § 2 Gliederung der Meisterprüfung
 
@@ -105,7 +101,6 @@ geändert durch Verordnung vom 21. Dezember 1976 (BGBl. I S. 3678),
 können auf Antrag durch den Prüfungsausschuß vom praktischen Teil der
 Prüfung befreit werden.
 
-
 ## § 3 Prüfungsanforderungen im praktischen Teil
 
 (1) In der praktischen Prüfung ist ein Arbeitseinsatz durchzuführen.
@@ -126,7 +121,6 @@ nachstehenden Produktionsbereiche:
 
 Der Prüfungsteilnehmer kann den Produktionsbereich wählen. Er hat die
 Planung der Arbeiten schriftlich niederzulegen.
-
 
 ## § 4 Prüfungsanforderungen im fachtheoretischen Teil
 
@@ -214,7 +208,6 @@ geprüft werden:
 (6) Die schriftliche Prüfung soll nicht länger als vier Stunden, die
 mündliche Prüfung für den einzelnen Prüfungsteilnehmer nicht länger
 als 45 Minuten dauern.
-
 
 ## § 5 Prüfungsanforderungen im wirtschaftlichen und rechtlichen Teil
 
@@ -329,7 +322,6 @@ Erfolg und die Finanzierung der vorgesehenen Maßnahmen darzustellen.
 (6) Die schriftliche Prüfung soll nicht länger als vier Stunden, die
 mündliche Prüfung für den einzelnen Prüfungsteilnehmer nicht länger
 als 45 Minuten dauern.
-
 
 ## § 6 Prüfungsanforderungen im Teil "Berufsausbildung und Mitarbeiterführung"
 
@@ -546,7 +538,6 @@ Prüfung oder für die eindeutige Beurteilung der Prüfungsleistung von
 Bedeutung ist. Die Ergänzungsprüfung soll je Prüfungsteilnehmer nicht
 länger als 30 Minuten dauern.
 
-
 ## § 7 Anrechnung anderer Prüfungsleistungen
 
 Auf Antrag kann die zuständige Stelle den Prüfungsteilnehmer oder die
@@ -558,7 +549,6 @@ Bildungseinrichtung oder vor einem staatlichen Prüfungsausschuss eine
 Prüfung mit Erfolg abgelegt wurde, die den Anforderungen der
 entsprechenden Prüfungsinhalte nach dieser Verordnung entspricht. § 2
 Abs. 6 bleibt unberührt.
-
 
 ## § 8 Bestehen der Meisterprüfung
 
@@ -584,7 +574,6 @@ Prüfungsfach oder eine der Leistungen in den Prüfungen nach § 6 Abs. 4
 und 5 mit "ungenügend" oder mehr als einer der vorgenannten
 Prüfungsbestandteile mit "mangelhaft" benotet worden ist.
 
-
 ## § 9 Wiederholung der Meisterprüfung
 
 (1) Eine Meisterprüfung, die nicht bestanden ist, kann zweimal
@@ -598,7 +587,6 @@ Note "ausreichend" bewertet worden sind und er sich innerhalb von zwei
 Jahren, gerechnet vom Tage der Beendigung der nicht bestandenen
 Prüfung an, zur Wiederholungsprüfung anmeldet.
 
-
 ## § 10 Übergangsvorschriften
 
 (1) Die bis zum 30. Dezember 2000 begonnenen Prüfungsverfahren können
@@ -610,11 +598,9 @@ von zwei Jahren ab dem 31. Dezember 2000 zu einer Wiederholungsprüfung
 anmelden, können die Wiederholungsprüfung nach den am 30. Dezember
 2000 geltenden Vorschriften ablegen.
 
-
 ## § 11 Inkrafttreten
 
 Diese Verordnung tritt am 1. März 1979 in Kraft.
-
 
 ## Schlußformel
 

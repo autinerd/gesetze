@@ -18,8 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 Abs. 2 G v. 22.12.2011 I 3044
 
-
-
 ## § 1 Anwendungsbereich
 
 (1) Die Vorschriften dieses Gesetzes gelten für das
@@ -29,7 +27,6 @@ der Landesfinanzbehörden.
 
 (2) Zugestellt wird, soweit dies durch Rechtsvorschrift oder
 behördliche Anordnung bestimmt ist.
-
 
 ## § 2 Allgemeines
 
@@ -43,7 +40,6 @@ in den §§ 9 und 10 geregelten Sonderarten der Zustellung.
 
 (3) Die Behörde hat die Wahl zwischen den einzelnen Zustellungsarten.
 § 5 Absatz 5 Satz 2 bleibt unberührt.
-
 
 ## § 3 Zustellung durch die Post mit Zustellungsurkunde
 
@@ -64,7 +60,6 @@ verschlossenen Umschlag nach Absatz 1 und die schriftliche Mitteilung
 nach § 181 Abs. 1 Satz 3 der Zivilprozessordnung sind die Vordrucke
 nach der Zustellungsvordruckverordnung zu verwenden.
 
-
 ## § 4 Zustellung durch die Post mittels Einschreiben
 
 (1) Ein Dokument kann durch die Post mittels Einschreiben durch
@@ -76,7 +71,6 @@ es sei denn, dass es nicht oder zu einem späteren Zeitpunkt zugegangen
 ist. Im Zweifel hat die Behörde den Zugang und dessen Zeitpunkt
 nachzuweisen. Der Tag der Aufgabe zur Post ist in den Akten zu
 vermerken.
-
 
 ## § 5 Zustellung durch die Behörde gegen Empfangsbekenntnis; elektronische Zustellung
 
@@ -163,7 +157,6 @@ Behörde in den Akten zu vermerken, zu welchem Zeitpunkt und an welchen
 Zugang das Dokument gesendet wurde. Der Empfänger ist über den
 Eintritt der Zustellungsfiktion nach Satz 2 zu benachrichtigen.
 
-
 ## § 5a Elektronische Zustellung gegen Abholbestätigung über De-Mail-Dienste
 
 (1) Die elektronische Zustellung kann unbeschadet des § 5 Absatz 4 und
@@ -200,7 +193,6 @@ Akten, zu welchem Zeitpunkt und an welches De-Mail-Postfach das
 Dokument gesendet wurde. Der Empfänger ist über den Eintritt der
 Zustellungsfiktion nach Satz 1 elektronisch zu benachrichtigen.
 
-
 ## § 6 Zustellung an gesetzliche Vertreter
 
 (1) Bei Geschäftsunfähigen oder beschränkt Geschäftsfähigen ist an
@@ -219,7 +211,6 @@ die Zustellung an einen von ihnen.
 (4) Der zustellende Bedienstete braucht nicht zu prüfen, ob die
 Anschrift den Vorschriften der Absätze 1 bis 3 entspricht.
 
-
 ## § 7 Zustellung an Bevollmächtigte
 
 (1) Zustellungen können an den allgemeinen oder für bestimmte
@@ -235,7 +226,6 @@ vorhanden sind.
 (3) Auf § 180 Abs. 2 der Abgabenordnung beruhende Regelungen und § 183
 der Abgabenordnung bleiben unberührt.
 
-
 ## § 8 Heilung von Zustellungsmängeln
 
 Lässt sich die formgerechte Zustellung eines Dokuments nicht
@@ -244,7 +234,6 @@ Zustellungsvorschriften zugegangen, gilt es als in dem Zeitpunkt
 zugestellt, in dem es dem Empfangsberechtigten tatsächlich zugegangen
 ist, im Fall des § 5 Abs. 5 in dem Zeitpunkt, in dem der Empfänger das
 Empfangsbekenntnis zurückgesendet hat.
-
 
 ## § 9 Zustellung im Ausland
 
@@ -295,7 +284,6 @@ zur Post gegeben wurde. Ist durch Rechtsvorschrift angeordnet, dass
 ein Verwaltungsverfahren über eine einheitliche Stelle nach den
 Vorschriften des Verwaltungsverfahrensgesetzes abgewickelt werden
 kann, finden die Sätze 1 bis 6 keine Anwendung.
-
 
 ## § 10 Öffentliche Zustellung
 

@@ -20,7 +20,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 Abs. 16 V v. 12.2.2009 I 320
 
-
 ## Eingangsformel
 
 Auf Grund des § 15 Abs. 1 Nr. 2 des Bundesbeamtengesetzes in der
@@ -32,10 +31,7 @@ S. 706) neu gefasst worden ist, verordnet das Bundesministerium für
 Verkehr, Bau- und Wohnungswesen im Einvernehmen mit dem
 Bundesministerium des Innern:
 
-
 ## Kapitel 1 - Laufbahn und Ausbildung
-
-
 
 ### § 1 Laufbahnämter
 
@@ -95,7 +91,6 @@ und Amtsbezeichnungen:
 
 (3) Die Ämter der Laufbahn sind regelmäßig zu durchlaufen.
 
-
 ### § 2 Ziel der Ausbildung
 
 (1) Die Ausbildung führt zur Erlangung der Berufsbefähigung. Sie
@@ -122,7 +117,6 @@ den Beamtinnen und Beamten während der praktischen Ausbildung zu
 weiterzubilden. Sie sind zum Selbststudium verpflichtet; das
 Selbststudium ist zu fördern.
 
-
 ### § 3 Einstellungsbehörde
 
 (1) Einstellungsbehörde ist der Deutsche Wetterdienst. Ihr obliegen
@@ -137,7 +131,6 @@ betreffen, die nach Beendigung der Ausbildung ihren Dienst im Bereich
 des Bundesministeriums der Verteidigung aufnehmen sollen, ist
 Einvernehmen mit dem Geophysikalischen Beratungsdienst der Bundeswehr
 herzustellen.
-
 
 ### § 4 Einstellungsvoraussetzungen
 
@@ -157,10 +150,6 @@ In den Vorbereitungsdienst kann eingestellt werden, wer
 3.  gesundheitlich den Anforderungen des Wechselschichtdienstes
     entspricht, ein ausreichendes Seh-, Hör- und Sprechvermögen und ein
     hinreichendes Farberkennungs- und -unterscheidungsvermögen besitzt.
-
-
-
-
 
 ### § 5 Ausschreibung, Bewerbung
 
@@ -191,10 +180,6 @@ Bewerbung sind beizufügen:
 
 6.  gegebenenfalls der Zulassungs- oder Eingliederungsschein oder die
     Bestätigung nach § 10 Abs. 4 des Soldatenversorgungsgesetzes.
-
-
-
-
 
 ### § 6 Auswahlverfahren
 
@@ -265,7 +250,6 @@ entsprechend.
 Ersatzmitglieder der Auswahlkommission für die Dauer von vier Jahren;
 Wiederbestellung ist zulässig.
 
-
 ### § 7 Einstellung in den Vorbereitungsdienst
 
 (1) Der Deutsche Wetterdienst entscheidet nach dem Ergebnis des
@@ -303,7 +287,6 @@ weitere Unterlagen beizubringen:
 
 Die Kosten des Gesundheitszeugnisses trägt die Einstellungsbehörde.
 
-
 ### § 8 Rechtsstellung während des Vorbereitungsdienstes
 
 (1) Mit ihrer Einstellung werden - unter Berufung in das
@@ -319,7 +302,6 @@ des Referates Personalentwicklung, die Ausbildungsleiterin oder der
 Ausbildungsleiter, die Leiterinnen oder Leiter der Schulen sowie die
 Leiterinnen oder Leiter und Ausbilderinnen oder Ausbilder der
 jeweiligen Ausbildungsstellen.
-
 
 ### § 9 Dauer, Verkürzung und Verlängerung des Vorbereitungsdienstes
 
@@ -387,18 +369,15 @@ hören.
 (8) Bei Nichtbestehen der Laufbahnprüfung richtet sich die
 Verlängerung des Vorbereitungsdienstes nach § 32 Abs. 2.
 
-
 ### § 10 Erholungsurlaub während des Vorbereitungsdienstes
 
 Erholungsurlaub wird auf den Vorbereitungsdienst angerechnet.
-
 
 ### § 11 Ausbildungsakte
 
 Für die Beamtinnen und Beamten sind Personalteilakten "Ausbildung" zu
 führen, in die der Ausbildungsplan, alle Leistungsnachweise und
 Bewertungen aufzunehmen sind.
-
 
 ### § 12 Regelungen für Schwerbehinderte
 
@@ -419,7 +398,6 @@ ablehnt.
 
 (3) Entscheidungen über Prüfungserleichterungen trifft das
 Prüfungsamt.
-
 
 ### § 13 Gliederung des Vorbereitungsdienstes
 
@@ -491,7 +469,6 @@ werden. Einzelheiten sind im jeweiligen Ausbildungsplan nach § 15 Abs.
 
 (4) Der Vorbereitungsdienst schließt mit der Laufbahnprüfung.
 
-
 ### § 14 Ausbildungsleitung, Ausbilderinnen und Ausbilder während der praktischen Ausbildung
 
 (1) Jede Dienststelle, der Anwärterinnen und Anwärter zur Ausbildung
@@ -515,7 +492,6 @@ unterwiesen und angeleitet. Die Ausbilderinnen und Ausbilder
 unterrichten die Ausbildungsleitung regelmäßig über den erreichten
 Ausbildungsstand.
 
-
 ### § 15 Ausbildungsstellen, Ausbildungsrahmenplan, Ausbildungspläne
 
 (1) Die Ausbildung findet an den Ausbildungsstellen im
@@ -535,7 +511,6 @@ Ausbildungsplan, aus dem sich die Einzelheiten der Ausbildung ergeben.
 Er führt die Stellen auf, denen die Anwärterinnen und Anwärter
 zugewiesen werden, und bestimmt die Zeiträume der Zuweisung. Die
 Anwärterinnen und Anwärter erhalten eine Ausfertigung.
-
 
 ### § 16 Leistungsnachweise
 
@@ -569,7 +544,6 @@ Ordnungsverstößen sind die §§ 26 und 27 entsprechend anzuwenden. Über
 die Folgen entscheidet die Stelle, die die Aufgabe des
 Leistungsnachweises bestimmt hat.
 
-
 ### § 17 Bewertungen
 
 (1) Über die Leistungen und den Befähigungsstand der Anwärterinnen und
@@ -592,10 +566,7 @@ eröffnen und mit ihnen zu besprechen; sie erhalten eine Ausfertigung.
 Eine Ausfertigung ist zu der Personalakte, eine zu der Ausbildungsakte
 der Anwärterin oder des Anwärters zu nehmen.
 
-
 ## Kapitel 2 - Prüfungen
-
-
 
 ### § 18 Prüfungsamt
 
@@ -603,7 +574,6 @@ Dem beim Deutschen Wetterdienst eingerichteten Prüfungsamt obliegt die
 Durchführung der Laufbahnprüfung; es trägt Sorge für die Entwicklung
 und gleichmäßige Anwendung der Bewertungsmaßstäbe und vollzieht die
 sonstigen Entscheidungen der Prüfungskommission.
-
 
 ### § 19 Prüfungskommission
 
@@ -680,7 +650,6 @@ Mitglieder anwesend sind. Sie entscheidet mit Stimmenmehrheit. Bei
 Stimmengleichheit gibt die Stimme der oder des Vorsitzenden den
 Ausschlag. Stimmenthaltung ist nicht zulässig.
 
-
 ### § 20 Prüfung
 
 (1) In der Laufbahnprüfung ist festzustellen, ob die Anwärterinnen und
@@ -713,7 +682,6 @@ zuzuhören; sie dürfen während der Prüfung keinerlei Aufzeichnungen
 machen. Bei den Beratungen der Prüfungskommission dürfen nur deren
 Mitglieder anwesend sein.
 
-
 ### § 21 Prüfungsort, Prüfungstermin
 
 (1) Das Prüfungsamt setzt Ort und Zeit der schriftlichen, der
@@ -728,7 +696,6 @@ sein.
 (3) Das Prüfungsamt teilt den Anwärterinnen und Anwärtern Ort und Zeit
 der schriftlichen, der praktischen und der mündlichen Prüfung
 rechtzeitig mit.
-
 
 ### § 22 Schriftliche Prüfung
 
@@ -782,7 +749,6 @@ nicht rechtzeitig abgeliefert, gilt sie als mit "ungenügend"
 Aufsichtsarbeit und wird nicht nach § 26 verfahren, gilt die versäumte
 Zeit als Bearbeitungszeit.
 
-
 ### § 23 Praktische Prüfung
 
 (1) Die Prüfung besteht aus vier praktischen Arbeiten. Die
@@ -804,7 +770,6 @@ Bearbeitungszeit der praktischen Prüfung soll sechs Stunden nicht
 
 (3) § 22 Abs. 3 bis 7 ist entsprechend anzuwenden.
 
-
 ### § 24 Zulassung zur mündlichen Prüfung
 
 (1) Das Prüfungsamt lässt Anwärterinnen und Anwärter zur mündlichen
@@ -819,7 +784,6 @@ die von ihnen in den einzelnen schriftlichen und praktischen
 Aufsichtsarbeiten erzielten Rangpunkte mit, wenn sie dies beantragen.
 Die Nichtzulassung bedarf der Schriftform; sie wird mit einer
 Rechtsbehelfsbelehrung versehen.
-
 
 ### § 25 Mündliche Prüfung
 
@@ -846,7 +810,6 @@ Rangpunkte, geteilt durch die Anzahl der Einzelbewertungen, ergibt.
 (5) Über den Ablauf der Prüfung wird eine Niederschrift gefertigt, die
 die Mitglieder der Prüfungskommission unterschreiben.
 
-
 ### § 26 Verhinderung, Rücktritt, Säumnis
 
 (1) Wer durch eine Erkrankung oder sonstige von ihnen nicht zu
@@ -870,7 +833,6 @@ Entschuldigung, entscheidet das Prüfungsamt, ob die nicht erbrachte
 Prüfungsleistung nachgeholt werden kann, mit "ungenügend" (Rangpunkt
 0) bewertet oder die gesamte Prüfung für nicht bestanden erklärt wird.
 Die Entscheidung ist mit einer Rechtsbehelfsbelehrung zu versehen.
-
 
 ### § 27 Täuschung, Ordnungsverstoß
 
@@ -906,7 +868,6 @@ versehen.
 
 (4) Betroffene sind vor der Entscheidung nach den Absätzen 2 und 3 zu
 hören.
-
 
 ### § 28 Bewertung von Prüfungsleistungen
 
@@ -1102,7 +1063,6 @@ aus wird die Erteilung des der Leistung entsprechenden Rangpunktes
 begründet. Für die Bewertung mündlicher Leistungen gelten diese
 Grundsätze sinngemäß.
 
-
 ### § 29 Gesamtergebnis
 
 (1) Im Anschluss an die mündliche Prüfung setzt die Prüfungskommission
@@ -1138,7 +1098,6 @@ der Vorsitzende den Prüfungsteilnehmerinnen und Prüfungsteilnehmern
 die erreichten Rangpunkte mit, die sie oder er auf Wunsch kurz
 mündlich erläutert.
 
-
 ### § 30 Zeugnis
 
 (1) Das Prüfungsamt erteilt den Anwärterinnen und Anwärtern, die die
@@ -1161,7 +1120,6 @@ Mitteilung der Prüfungsergebnisse werden durch das Prüfungsamt
 berichtigt. Unrichtige Prüfungszeugnisse sind zurückzugeben. In den
 Fällen des § 27 Abs. 3 Satz 1 ist das Prüfungszeugnis zurückzugeben.
 
-
 ### § 31 Prüfungsakten, Einsichtnahme
 
 (1) Jeweils eine Ausfertigung des Zeugnisses über den
@@ -1177,7 +1135,6 @@ Bescheides.
 (2) Die Anwärterinnen und Anwärter können nach Abschluss der
 Laufbahnprüfung Einsicht in die sie betreffenden Teile der
 Prüfungsakten nehmen.
-
 
 ### § 32 Wiederholung
 
@@ -1196,10 +1153,7 @@ erreichten Rangpunkte und Noten ersetzen die bisherigen. Der
 Vorbereitungsdienst wird bis zum Ablauf der Wiederholungsfrist
 verlängert.
 
-
 ## Kapitel 3 - Sonstige Vorschriften
-
-
 
 ### § 33 Übergangsregelung
 
@@ -1208,7 +1162,6 @@ Inkrafttretens dieser Verordnung bereits im Vorbereitungsdienst
 befinden, gelten die Bestimmungen der Laufbahn-, Ausbildungs- und
 Prüfungsordnung für die Laufbahn des mittleren Wetterdienstes des
 Bundes vom 22. Dezember 1997 (VkBl. 1998 S. 88) weiter.
-
 
 ### § 34 Inkrafttreten
 

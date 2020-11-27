@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 4 G v. 4.5.2005 I 1234
 
-
 ## Eingangsformel
 
 Auf Grund des § 10 Abs. 4 Satz 7 des Soldatenversorgungsgesetzes in
@@ -27,10 +26,7 @@ der Fassung der Bekanntmachung vom 6. Mai 1999 (BGBl. I S. 882, 1491)
 verordnet das Bundesministerium des Innern im Einvernehmen mit dem
 Bundesministerium der Verteidigung:
 
-
 ## Abschnitt 1 - Berechnung und Bestimmung der vorbehaltenen Stellen
-
-
 
 ### § 1 Zuständigkeit
 
@@ -64,10 +60,6 @@ vorzubehaltenden Stellen sind zuständig
     der Aufsicht des Landes unterstehenden anderen Körperschaften,
     Anstalten und Stiftungen des öffentlichen Rechts die von den Ländern
     bestimmten Behörden.
-
-
-
-
 
 ### § 2 Berechnung
 
@@ -142,7 +134,6 @@ wenn bei der Berechnung ein Rest von Stellen verbleibt.
 (5) Die Berechnungsgrundlagen sind den Vormerkstellen (§ 4) auf
 Anforderung offenzulegen.
 
-
 ### § 3 Bestimmung und Mitteilung der vorbehaltenen Stellen
 
 (1) Die für die Berechnung und Bestimmung nach § 1 zuständigen
@@ -184,10 +175,7 @@ solche Stellen bestimmt werden, die keine besonderen Voraussetzungen
 wie fachspezifische Ausbildung oder mehrjährige Berufserfahrung
 erfordern.
 
-
 ## Abschnitt 2 - Vormerkstellen
-
-
 
 ### § 4 Einrichtung
 
@@ -196,7 +184,6 @@ Bundes wahr.
 
 (2) Die Länder richten ihre Vormerkstellen in eigener Zuständigkeit
 ein.
-
 
 ### § 5 Aufgaben
 
@@ -237,13 +224,7 @@ Den Vormerkstellen obliegen
 
 8.  Überwachen der Stellenmitteilungen (§ 3).
 
-
-
-
-
 ## Abschnitt 3 - Bewerbung
-
-
 
 ### § 6 Verfahren und Unterlagen
 
@@ -279,10 +260,7 @@ die ihre Eingliederung mit Hilfe eines Eingliederungsscheins
 anstreben, werden vom Berufsförderungsdienst aufgefordert, ihre
 Bewerbung bis zur Erteilung des Eingliederungsscheins einzureichen.
 
-
 ## Abschnitt 4 - Zuweisung und Einstellung
-
-
 
 ### § 7 Zuweisungsvorschlag
 
@@ -290,7 +268,6 @@ Kommt ein Bewerber für die angestrebte Verwendung in Betracht, so
 schlägt ihn die Vormerkstelle der Einstellungsbehörde zur
 Eignungsfeststellung und Auswahl vor, sofern vorbehaltene Stellen zur
 Verfügung stehen.
-
 
 ### § 8 Zuweisung
 
@@ -312,7 +289,6 @@ Original beizufügen.
 Bewerbung zurück, so haben er und die Einstellungsbehörde die
 Vormerkstelle unverzüglich zu unterrichten.
 
-
 ### § 9 Einstellung
 
 (1) Die Behörde unterrichtet die Vormerkstelle unverzüglich von der
@@ -326,7 +302,6 @@ mit.
 (3) Kann ein Bewerber nicht entsprechend seinen Verwendungswünschen
 eingestellt werden, so prüft die Vormerkstelle mit dem Bewerber, ob
 für ihn eine anderweitige Einstellung in Betracht kommt.
-
 
 ### § 10 Ausscheiden vor Anstellung
 
@@ -344,7 +319,6 @@ ist. Eine Durchschrift der Aufforderung wird dem zuständigen
 Berufsförderungsdienst der Bundeswehr zur Unterrichtung und
 Unterstützung der weiteren Eingliederungsbemühungen zugeleitet.
 
-
 ### § 11 Freigabe von Stellen
 
 Vorbehaltene Stellen, die von der Vormerkstelle bis zum
@@ -354,10 +328,7 @@ gelten als freigegeben. Die jeweiligen Bewerbungsendtermine werden
 gesondert bekanntgegeben. Vor dem Bewerbungsendtermin ist eine
 anderweitige Besetzung nicht zulässig.
 
-
 ## Abschnitt 5 - Erlöschen des Rechts aus dem Eingliederungsschein
-
-
 
 ### § 12 Feststellung
 
@@ -369,10 +340,7 @@ einen Bescheid, der zuzustellen ist. Der zuständige
 Berufsförderungsdienst der Bundeswehr erhält hierüber eine Mitteilung,
 der das Original des Eingliederungsscheins beizufügen ist.
 
-
 ## Abschnitt 6 - Schlußvorschriften
-
-
 
 ### § 13 Verbleib des Eingliederungsscheins, des Zulassungsscheins oder der Bestätigung
 
@@ -392,11 +360,9 @@ eingestellt, so kann er - um Ausgleichsbezüge zu erhalten - den
 Eingliederungsschein bei der Einstellung zur Personalakte nehmen
 lassen.
 
-
 ### § 14 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ### Schlußformel
 

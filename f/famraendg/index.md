@@ -18,37 +18,24 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 51 G v. 17.12.2008 I 2586
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art 1 bis 6 -
-
-
 
 ## Art 7 - (weggefallen)
 
-
-
 ## (XXXX) §§ 1 und 2 (weggefallen)
-
-
 
 ## Art 8 -
 
-
-
 ## Art 9 - Schlußvorschriften
-
-
 
 ## I. Aufhebung von Vorschriften
 
 -
-
 
 ## II. Übergangsvorschriften
 
@@ -69,14 +56,9 @@ beschlossen:
 
 6.  (weggefallen)
 
-
-
-
-
 ## III. (weggefallen)
 
 -
-
 
 ## IV. Inkrafttreten
 

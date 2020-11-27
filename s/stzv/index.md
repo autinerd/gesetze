@@ -19,14 +19,11 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 7.9.2009 I 3014
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 30a Abs. 5 und des § 93 Abs. 2 Nr. 5 des
 Soldatengesetzes in der Fassung der Bekanntmachung vom 30. Mai 2005
 (BGBl. I S. 1482) verordnet das Bundesministerium der Verteidigung:
-
 
 ## § 1 Antragsberechtigung
 
@@ -48,7 +45,6 @@ Wehrdienst wird angerechnet.
 Soldatengesetzes besteht, kann schon vor Ablauf von vier Jahren der
 Dienstzeit anstelle der Elternzeit eine Teilzeitbeschäftigung als
 Soldatin oder Soldat beantragt werden.
-
 
 ## § 2 Antragsverfahren
 
@@ -85,7 +81,6 @@ zuständige Stelle, ist sie durch diese zu unterrichten.
 grundsätzlich spätestens drei Monate vor Ablauf des
 Bewilligungszeitraumes zu beantragen. Die Absätze 1 und 2 gelten
 entsprechend.
-
 
 ## § 3 Antragsvoraussetzungen
 
@@ -125,10 +120,6 @@ Lebenspartners.
     mit häuslicher Gemeinschaft wie Eltern und Kind miteinander verbunden
     sind (Pflegeeltern und Pflegekinder).
 
-
-
-
-
 ## § 4 Zuständigkeit für die Entscheidung
 
 (1) Über einen Antrag auf Bewilligung einer Teilzeitbeschäftigung
@@ -157,7 +148,6 @@ die Entscheidung über
 
 einer Teilzeitbeschäftigung.
 
-
 ## § 5 Ausgestaltung der Teilzeitbeschäftigung
 
 (1) Die Teilzeitbeschäftigung kann auf bis zu vier Zeitabschnitte
@@ -166,7 +156,6 @@ verteilt werden.
 (2) Die Ausgestaltung der Teilzeitbeschäftigung kann nach flexiblen
 Arbeitszeitmodellen, insbesondere Blockzeitbildung, bewilligt werden,
 soweit wichtige dienstliche Gründe nicht entgegenstehen.
-
 
 ## § 6 Ausschlüsse
 
@@ -217,7 +206,6 @@ befristete Rückkehr zur Vollzeitbeschäftigung unterbrochen werden. Die
 nach der Unterbrechung geleistete Teilzeitbeschäftigung gilt nicht als
 neuer Zeitabschnitt nach § 5 Abs. 1.
 
-
 ## § 7 Bewilligung oder Ablehnung des Antrages
 
 (1) Die Entlassungsdienststelle kann die Teilzeitbeschäftigung oder
@@ -250,7 +238,6 @@ Disziplinarvorgesetzte oder den nächsten Disziplinarvorgesetzten mit.
 Ist die Entlassungsdienststelle nicht zugleich personalbearbeitende
 Stelle, hat sie diese zu unterrichten.
 
-
 ## § 8 Widerruf und Änderung der Bewilligung sowie vorzeitige Beendigung der Teilzeitbeschäftigung
 
 (1) Bei Entscheidungen nach § 4 Abs. 3 Nr. 2 bis 4 hat die
@@ -269,7 +256,6 @@ entsprechend. Der Zeitpunkt für eine Rückkehr zur
 Vollzeitbeschäftigung soll innerhalb einer angemessenen Frist nach dem
 Zugang der Mitteilung nach Satz 2 und nach Stellungnahme der in § 2
 Abs. 2 Satz 1 genannten Disziplinarvorgesetzten festgelegt werden.
-
 
 ## § 9 Inkrafttreten
 

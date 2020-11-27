@@ -22,8 +22,6 @@ Stand: zuletzt geändert Art. 3 G v. 3.7.2009 I 1688
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
 
-
-
 ### § 1 Zuständigkeit
 
 (1) Zur Feststellung, wer in welchem Umfang nach den Artikeln 21 und
@@ -116,7 +114,6 @@ auch von Amts wegen.
 Verstoßes gegen die Bestimmungen über die Zuständigkeit angefochten
 werden.
 
-
 ### § 1a Begriff des Vermögens
 
 (1) Vermögensgegenstände im Sinne dieses Gesetzes sind bebaute und
@@ -158,7 +155,6 @@ dienen und am 3. Oktober 1990 nicht nur vorübergehend leerstanden,
 jedoch der Wohnnutzung ganz oder teilweise wieder zugeführt werden
 sollen.
 
-
 ### § 1b Abwicklung von Entschädigungsvereinbarungen
 
 (1) Vermögenswerte, die Gegenstand der in § 1 Abs. 8 Buchstabe b des
@@ -186,7 +182,6 @@ Vermögen der Bundesrepublik Deutschland übergegangen sind oder
 (4) Die Befugnisse nach § 11c des Vermögensgesetzes bleiben unberührt,
 solange ein Zuordnungsbescheid nicht bestandskräftig geworden und dies
 dem Grundbuchamt angezeigt ist.
-
 
 ### § 1c Rückabwicklung zuordnungswidriger Veräußerungen
 
@@ -258,7 +253,6 @@ Anlage I Kapitel VIII Sachgebiet F Abschnitt II Nr. 1 des
 Einigungsvertrages vom 31. August 1990 (BGBl. 1990 II S. 889, 1042) in
 Verbindung mit Artikel 1 des Gesetzes vom 23. September 1990 (BGBl.
 1990 II S. 885) entsprechend.
-
 
 ### § 2 Verfahren
 
@@ -379,7 +373,6 @@ Aufgabe zur Post als erfolgt.
 (7) Für Zuordnungsbescheide nach diesem Gesetz findet § 3a des
 Verwaltungsverfahrensgesetzes keine Anwendung.
 
-
 ### § 3 Grundbuchvollzug
 
 (1) Ist Gegenstand des Bescheides ein Grundstück oder Gebäude oder ein
@@ -418,7 +411,6 @@ juristische Person des öffentlichen Rechts oder eine juristische
 Person des Privatrechts ist, deren Anteile mehrheitlich einer
 juristischen Person des öffentlichen Rechts gehören.
 
-
 ### § 4 Grundvermögen von Kapitalgesellschaften
 
 (1) Der Präsident der Treuhandanstalt oder eine von ihm zu
@@ -443,7 +435,6 @@ der Grundbuchordnung um Eintragung.
 (3) § 1 Abs. 6, § 2 Abs. 1 und 2 bis 6, § 3 Abs. 1 Satz 2 und Abs. 2
 bis 4 gelten sinngemäß.
 
-
 ### § 5 Schiffe, Schiffsbauwerke und Straßen
 
 (1) Die Bestimmungen des § 3 Abs. 1 Satz 1, Abs. 2 bis 4 und des § 4
@@ -460,7 +451,6 @@ festgestellt; dies gilt nicht, soweit der Präsident der
 Treuhandanstalt nach § 1 Abs. 1 Satz 1 Nr. 1 zuständig ist. Zuständig
 für die Stellung des Antrags auf Berichtigung des Grundbuchs ist in
 den Fällen des Satzes 2 der jeweilige Träger der Straßenbaulast.
-
 
 ### § 6 Rechtsweg
 
@@ -481,7 +471,6 @@ die die Zuständigkeit nach § 1 Abs. 1 Nr. 1 gemäß § 7 Abs. 6
 (3) Gerichtskosten werden in Verfahren nach diesem Gesetz nicht
 erhoben. Der Gegenstandswert beträgt unabhängig von der Zahl und dem
 Wert der jeweils betroffenen Vermögensgegenstände 5.000 Euro.
-
 
 ### § 7 Durchführungsvorschriften
 
@@ -536,10 +525,7 @@ Rechtsverordnung die Zuständigkeiten des Präsidenten der
 Treuhandanstalt und die Zuständigkeiten eines Oberfinanzpräsidenten
 ganz oder teilweise auf eine andere Behörde des Bundes zu übertragen.
 
-
 ## Abschnitt 2 - Verfügungsbefugnis, Förderung von Investitionen und kommunalen Vorhaben
-
-
 
 ### § 8 Verfügungsbefugnis
 
@@ -641,11 +627,9 @@ Anwendung auf den in § 1 Abs. 6 des Wohnungsgenossenschafts-
 Vermögensgesetzes bezeichneten Grund und Boden; insoweit gilt das in
 jener Vorschrift vorgesehene Verfahren.
 
-
 ### § 9
 
 (weggefallen)
-
 
 ### § 10 Kommunale Vorhaben
 
@@ -673,10 +657,7 @@ bestehenden Rechtsverhältnisse ein.
 (2) Wurden Vermögenswerte nach Absatz 1 auf Dritte übertragen, ist der
 Kommune der Erlös auszukehren. Weitergehende Ansprüche bestehen nicht.
 
-
 ## Abschnitt 3 - Inhalt und Umfang des Restitutionsanspruchs der öffentlichen Körperschaften
-
-
 
 ### § 11 Umfang der Rückübertragung von Vermögenswerten
 
@@ -750,7 +731,6 @@ wahrnehmen, welche die Körperschaft des öffentlichen Rechts
 wahrgenommen hat, die den fraglichen Vermögenswert dem Zentralstaat
 zur Verfügung gestellt hat.
 
-
 ### § 12 Erlaubte Maßnahmen
 
 (1) Soweit ein Vermögensgegenstand der Restitution unterliegt oder
@@ -813,7 +793,6 @@ dessen Ablehnung durchgeführt werden. Die Stellung des Antrags hat der
 Antragsteller dem Verfügungsberechtigten, bis zu dessen Feststellung
 dem Verfügungsbefugten, mitzuteilen.
 
-
 ### § 13 Geldausgleich bei Ausschluß der Rückübertragung
 
 (1) Derjenige, dessen Anspruch nach § 11 Abs. 1 Nr. 3 ausgeschlossen
@@ -846,10 +825,7 @@ zuständige Stelle, in deren Bezirk der Vermögenswert liegt, durch
 Bescheid nach § 2. Unbeschadet des § 2 Abs. 1 Satz 2 sind Vergleiche
 zulässig. § 11 Abs. 2 Satz 6 gilt entsprechend.
 
-
 ### (XXXX) §§ 14 und 15
-
-
 
 ### § 16 Vorrangiger Übergang von Reichsvermögen
 
@@ -861,10 +837,7 @@ werden, der der Vermögensgegenstand ohne den Übergang auf den Bund
 zufiele. § 11 Abs. 2 und die §§ 13 und 14 gelten für einen
 Eigentumsübergang nach jenen Vorschriften sinngemäß.
 
-
 ## Abschnitt 4 - Vorschriften für einzelne Sachgebiete
-
-
 
 ### § 17 Anwendung dieses Gesetzes
 
@@ -874,7 +847,6 @@ Einigungsvertrages und der nachfolgenden Vorschriften entsprechend.
 Hierbei kann, soweit durch Bundesgesetz nicht ein anderes bestimmt
 wird, Eigentum auch auf juristische Personen übertragen werden, die
 aus einem der darin genannten Sondervermögen hervorgegangen sind.
-
 
 ### § 18 Vorschriften für das Sondervermögen Deutsche Reichsbahn
 
@@ -901,7 +873,6 @@ an den für das Land jeweils zuständigen Oberfinanzpräsidenten ab, der
 sie an die zuständige Stelle weiterleitet. Sie gelten als Antrag nach
 Absatz 1 Satz 3.
 
-
 ### § 19 Vorschriften für das Sondervermögen Deutsche Bundespost
 
 (1) Unbeschadet des Vermögensübergangs auf das Sondervermögen im
@@ -927,7 +898,6 @@ an den für das Land jeweils zuständigen Oberfinanzpräsidenten ab, der
 sie an die zuständige Stelle weiterleitet. Sie gelten als Antrag nach
 Absatz 1 Satz 3.
 
-
 ### § 20 Vorschriften für den Rundfunk und das Fernsehen der früheren DDR
 
 Vermögensgegenstände und -werte, die nach Artikel 36 Abs. 1 des
@@ -943,7 +913,6 @@ Länder zugeordnet werden. Für den Fall einer einvernehmlichen
 Zuordnung an eine einzelne Landesrundfunkanstalt ist deren vorherige
 Zustimmung erforderlich.
 
-
 ### § 21 Verhältnis zu anderen Vorschriften
 
 (1) § 11 Abs. 2 Satz 2 des Treuhandgesetzes und die Bestimmungen der
@@ -953,7 +922,6 @@ Fünften Durchführungsverordnung zum Treuhandgesetz bleiben unberührt.
 Artikel 21 Abs. 3 des Einigungsvertrages und die Vorschriften des
 Abschnitts 3 gelten für das in den Artikeln 26, 27 und 36 des
 Einigungsvertrages genannte Vermögen entsprechend.
-
 
 ### § 22 Überleitungsvorschrift
 

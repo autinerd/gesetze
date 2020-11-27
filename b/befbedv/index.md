@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 V v. 8.11.2007 I 2569
 
-
 ## Eingangsformel
 
 Auf Grund des § 58 Abs. 1 Nr. 3 des Personenbeförderungsgesetzes vom
@@ -27,7 +26,6 @@ Auf Grund des § 58 Abs. 1 Nr. 3 des Personenbeförderungsgesetzes vom
 Zweite Gesetz zur Änderung des Personenbeförderungsgesetzes vom 8. Mai
 1969 (Bundesgesetzbl. I S. 348), wird mit Zustimmung des Bundesrates
 verordnet:
-
 
 ## § 1 Geltungsbereich
 
@@ -40,14 +38,12 @@ Beförderungsbedingungen).
 
 (2)
 
-
 ## § 2 Anspruch auf Beförderung
 
 Anspruch auf Beförderung besteht, soweit nach den Vorschriften des
 Personenbeförderungsgesetzes und den auf Grund dieses Gesetzes
 erlassenen Rechtsvorschriften eine Beförderungspflicht gegeben ist.
 Sachen werden nur nach Maßgabe der §§ 11 und 12 befördert.
-
 
 ## § 3 Von der Beförderung ausgeschlossene Personen
 
@@ -74,7 +70,6 @@ können von der Beförderung ausgeschlossen werden, sofern sie nicht auf
 der ganzen Fahrstrecke von Personen begleitet werden, die mindestens
 das 6. Lebensjahr vollendet haben; die Vorschriften des Absatzes 1
 bleiben unberührt.
-
 
 ## § 4 Verhalten der Fahrgäste
 
@@ -149,7 +144,6 @@ im Straf- oder Bußgeldverfahren und weitergehender zivilrechtlicher
 Ansprüche - einen Betrag von 15 Euro zu zahlen. Dasselbe gilt, wenn
 gegen die Untersagung nach Absatz 2 Nr. 3 oder Nr. 7 verstoßen wird.
 
-
 ## § 5 Zuweisen von Wagen und Plätzen
 
 (1) Das Betriebspersonal kann Fahrgäste auf bestimmte Wagen verweisen,
@@ -161,7 +155,6 @@ Anspruch auf einen Sitzplatz besteht nicht. Sitzplätze sind für
 Schwerbehinderte, in der Gehfähigkeit Beeinträchtigte, ältere oder
 gebrechliche Personen, werdende Mütter und für Fahrgäste mit kleinen
 Kindern freizugeben.
-
 
 ## § 6 Beförderungsentgelte, Fahrausweise
 
@@ -194,7 +187,6 @@ Fahrgästen mit hierfür gültigen Fahrausweisen benutzt werden.
 (7) Beanstandungen des Fahrausweises sind sofort vorzubringen. Spätere
 Beanstandungen werden nicht berücksichtigt.
 
-
 ## § 7 Zahlungsmittel
 
 (1) Das Fahrgeld soll abgezählt bereitgehalten werden. Das
@@ -211,7 +203,6 @@ Fahrt abzubrechen.
 
 (3) Beanstandungen des Wechselgelds oder der vom Fahrpersonal
 ausgestellten Quittung müssen sofort vorgebracht werden.
-
 
 ## § 8 Ungültige Fahrausweise
 
@@ -253,7 +244,6 @@ Fahrgeld wird nicht erstattet.
 im Beförderungstarif vorgesehenen Personenausweis zur Beförderung
 berechtigt, gilt als ungültig und kann eingezogen werden, wenn der
 Antrag oder Personenausweis auf Verlangen nicht vorgezeigt wird.
-
 
 ## § 9 Erhöhtes Beförderungsentgelt
 
@@ -298,7 +288,6 @@ Zeitkarte war.
 (4) Bei Verwendung von ungültigen Zeitkarten bleiben weitergehende
 Ansprüche des Unternehmers unberührt.
 
-
 ## § 10 Erstattung von Beförderungsentgelt
 
 (1) Wird ein Fahrausweis nicht zur Fahrt benutzt, so wird das
@@ -342,7 +331,6 @@ die der Unternehmer zu vertreten hat.
 (6) Bei Ausschluß von der Beförderung besteht, ausgenommen § 3 Abs. 1
 Satz 2 Nr. 2, kein Anspruch auf Erstattung des entrichteten Entgelts.
 
-
 ## § 11 Beförderung von Sachen
 
 (1) Ein Anspruch auf Beförderung von Sachen besteht nicht. Handgepäck
@@ -381,7 +369,6 @@ gefährdet und andere Fahrgäste nicht belästigt werden können.
 Beförderung zugelassen werden und an welcher Stelle sie unterzubringen
 sind.
 
-
 ## § 12 Beförderung von Tieren
 
 (1) Auf die Beförderung von Tieren ist § 11 Abs. 1, 4 und 5
@@ -399,7 +386,6 @@ werden.
 
 (5) Tiere dürfen nicht auf Sitzplätzen untergebracht werden.
 
-
 ## § 13 Fundsachen
 
 Fundsachen sind gemäß § 978 BGB unverzüglich dem Betriebspersonal
@@ -409,7 +395,6 @@ zurückgegeben. Sofortige Rückgabe an den Verlierer durch das
 Betriebspersonal ist zulässig, wenn er sich einwandfrei als Verlierer
 ausweisen kann. Der Verlierer hat den Empfang der Sache schriftlich zu
 bestätigen.
-
 
 ## § 14 Haftung
 
@@ -421,11 +406,9 @@ Höchstbetrag von 1.000 Euro; die Begrenzung der Haftung gilt nicht,
 wenn die Sachschäden auf Vorsatz oder grobe Fahrlässigkeit
 zurückzuführen sind.
 
-
 ## § 15
 
 (weggefallen)
-
 
 ## § 16 Ausschluß von Ersatzansprüchen
 
@@ -434,17 +417,14 @@ Betriebsstörungen oder -unterbrechungen sowie Platzmangel begründen
 keine Ersatzansprüche; insoweit wird auch keine Gewähr für das
 Einhalten von Anschlüssen übernommen.
 
-
 ## § 17 Gerichtsstand
 
 Der Gerichtsstand für alle Streitigkeiten, die sich aus dem
 Beförderungsvertrag ergeben, ist der Sitz des Unternehmers.
 
-
 ## § 18 Inkrafttreten
 
 Diese Verordnung tritt 6 Monate nach ihrer Verkündung in Kraft.
-
 
 ## Schlußformel
 

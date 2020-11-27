@@ -21,7 +21,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 V v. 1.9.2010 I 1260
 
-
 ## § 1 Anwendungsbereich
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung der
@@ -32,7 +31,6 @@ Marktorganisation für Wein mit Ausnahme der Vergütungen für die
 Aufgabe der Produktion und der Leistungen für die Umstrukturierung und
 die Umstellung von Rebflächen sowie der Leistungen für
 Ernteversicherungen und die Durchführung von Investitionen.
-
 
 ## § 2 Zuständige Stellen
 
@@ -46,7 +44,6 @@ Destillation bestimmten Weines oder Brennweines und für die
 
 (3) (weggefallen)
 
-
 ## § 3 Anträge, Forderungen
 
 (1) Vergünstigungen nach § 1 werden auf schriftlichen Antrag gewährt.
@@ -54,7 +51,6 @@ Destillation bestimmten Weines oder Brennweines und für die
 (2) Vergünstigungen werden durch Bescheid festgesetzt.
 
 (3)
-
 
 ## § 4 Muster, Vordrucke
 
@@ -66,7 +62,6 @@ Soweit Muster bekanntgegeben oder Vordrucke bereitgehalten werden,
 sind diese zu verwenden. Die elektronische Form ist ausgeschlossen,
 sofern sie von der zuständigen Stelle nicht ausdrücklich zugelassen
 wird.
-
 
 ## § 5 Absatzförderung auf Drittlandsmärkten
 
@@ -135,26 +130,21 @@ Bundesanstalt unter Verwendung des von der Bundesanstalt vorgegebenen
 Musters den Abschlussbericht und eine Bewertung der durchgeführten
 Maßnahme vorzulegen.
 
-
 ## § 6 (weggefallen)
 
 -
-
 
 ## § 7
 
 (weggefallen)
 
-
 ## § 8 (weggefallen)
 
 -
 
-
 ## § 8a
 
 (weggefallen)
-
 
 ## § 9 Duldungs-, Mitwirkungs- und Aufbewahrungspflichten
 
@@ -182,16 +172,13 @@ Dauer von sechs Jahren nach Gewährung der Vergünstigung aufzubewahren.
 Wirtschaftsjahres an einen anderen übertragen, so gelten die
 Vorschriften der Absätze 1 und 2 auch für den Rechtsnachfolger.
 
-
 ## § 10 (weggefallen)
 
 -
 
-
 ## § 10a
 
 (weggefallen)
-
 
 ## § 11
 

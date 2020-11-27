@@ -19,14 +19,12 @@ Fundstelle
 Zuletzt geändert durch
 :   § 56 Abs. 46 V v. 12.2.2009 I 284
 
-
 ## Eingangsformel
 
 Auf Grund des § 12 Abs. 6 und des § 23 des Deutsche Bahn
 Gründungsgesetzes vom 27. Dezember 1993 (BGBl. I S. 2378, 2386)
 verordnet das Bundesministerium für Verkehr im Einvernehmen mit dem
 Bundesministerium des Innern:
-
 
 ## § 1 Übertragung beamtenrechtlicher Befugnisse zur Ausübung
 
@@ -207,10 +205,6 @@ Deutsche Bahn Gründungsgesetzes zugewiesen sind:
 41. Einschätzungen der Leistungen nach § 27 Abs. 5, 6 und 8 des
     Bundesbesoldungsgesetzes.
 
-
-
-
-
 ## § 2 Anwendung auf ausgegliederte Gesellschaften
 
 § 1 gilt sinngemäß für Gesellschaften, die im Wege der Ausgliederung
@@ -219,7 +213,6 @@ Für nach § 3 Abs. 3 des Deutsche Bahn Gründungsgesetzes ausgegliederte
 Gesellschaften gilt § 1 mit der Maßgabe, daß der neue Rechtsträger
 Geschäftstätigkeiten im Sinne des § 3 Abs. 1 Nr. 1 oder 2 dieses
 Gesetzes ausübt.
-
 
 ## § 3 Inkrafttreten
 

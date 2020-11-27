@@ -18,23 +18,18 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 272 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Abschnitt 1 - Allgemeine Vorschriften
-
-
 
 ### § 1 Zweck des Gesetzes
 
 Zweck dieses Gesetzes ist es, durch Regulierung im Bereich des
 Postwesens den Wettbewerb zu fördern und flächendeckend angemessene
 und ausreichende Dienstleistungen zu gewährleisten.
-
 
 ### § 2 Regulierung
 
@@ -65,13 +60,11 @@ Bundes.
 
 (3) Das Gesetz gegen Wettbewerbsbeschränkungen bleibt unberührt.
 
-
 ### § 3 Anwendungsbereich
 
 Dieses Gesetz gilt auch für den Postverkehr mit dem Ausland, soweit
 nicht völkerrechtliche Verträge und die zu deren Durchführung
 ergangenen Gesetze und Rechtsverordnungen etwas anderes bestimmen.
-
 
 ### § 4 Begriffsbestimmungen
 
@@ -120,13 +113,7 @@ Für dieses Gesetz gelten die folgenden Begriffsbestimmungen:
 6.  Marktbeherrschend ist jedes Unternehmen, das nach § 19 des Gesetzes
     gegen Wettbewerbsbeschränkungen als marktbeherrschend anzusehen ist.
 
-
-
-
-
 ## Abschnitt 2 - Lizenzen
-
-
 
 ### § 5 Lizenzierter Bereich
 
@@ -150,10 +137,6 @@ andere befördert.
     die Begleitperson die Möglichkeit hat, jederzeit auf die einzelne
     Sendung zuzugreifen und die erforderlichen Dispositionen zu treffen
     (Kurierdienst).
-
-
-
-
 
 ### § 6 Erteilung der Lizenz
 
@@ -204,10 +187,6 @@ Die nach Satz 1 Nr. 1 erforderliche
     Ausübung der Lizenzrechte tätigen Personen über die erforderlichen
     Kenntnisse, Erfahrungen und Fertigkeiten verfügen werden.
 
-
-
-
-
 ### § 7 Übertragung der Lizenz
 
 (1) Eine Übertragung der Lizenz bedarf der Schriftform und der
@@ -226,7 +205,6 @@ hierdurch über mehr als zehn vom Hundert der Aktien oder
 Geschäftsanteile der Gesellschaft verfügt, dies der
 Regulierungsbehörde unverzüglich anzuzeigen.
 
-
 ### § 8 Lizenzierungskosten
 
 Für die Entscheidung über die Erteilung einer Lizenz und über die
@@ -241,7 +219,6 @@ dem Bundesministerium der Justiz durch Rechtsverordnung, die nicht der
 Zustimmung des Bundesrates bedarf, nach Maßgabe des
 Verwaltungskostengesetzes die Höhe der Gebühren zu regeln.
 
-
 ### § 9 Widerruf der Lizenz
 
 (1) Eine Lizenz kann durch die Regulierungsbehörde über die in § 49
@@ -254,7 +231,6 @@ Gesetzes erlassenen Rechtsverordnung nicht nachkommt.
 Lizenznehmer einer Aufforderung der Regulierungsbehörde, seinen
 Verpflichtungen nachzukommen, nicht innerhalb der ihm gesetzten Frist
 Folge geleistet hat.
-
 
 ### § 10 Strukturelle Separierung und getrennte Rechnungsführung
 
@@ -273,10 +249,7 @@ Postdienstleistungen im lizenzierten und Postdienstleistungen im nicht
 lizenzierten Bereich. Die Regulierungsbehörde kann die Ausgestaltung
 der internen Rechnungslegung für Postdienstleistungen vorgeben.
 
-
 ## Abschnitt 3 - Universaldienst
-
-
 
 ### § 11 Begriff und Umfang des Universaldienstes
 
@@ -307,7 +280,6 @@ als erteilt, wenn der Bundestag nicht innerhalb von drei
 Sitzungswochen nach Eingang der Vorlage der Bundesregierung die
 Zustimmung verweigert hat.
 
-
 ### § 12 Gewährleistung des Universaldienstes
 
 (1) Steht fest oder ist zu besorgen, daß eine Universaldienstleistung
@@ -322,7 +294,6 @@ anderen Lizenznehmer ein einheitliches Unternehmen bildet. Ein
 einheitliches Unternehmen wird durch jede Verbindung von Unternehmen
 im Sinne des § 23 Abs. 1 Satz 2, Abs. 2 und 3 des Gesetzes gegen
 Wettbewerbsbeschränkungen geschaffen.
-
 
 ### § 13 Auferlegung von Universaldienstleistungspflichten
 
@@ -366,7 +337,6 @@ verpflichteten Unternehmen keine Verhandlungen aufnehmen oder im Falle
 einer Nichteinigung davon absehen, die Regulierungsbehörde als
 Schlichtungsstelle anzurufen.
 
-
 ### § 14 Ausschreibung von Dienstleistungen
 
 (1) Legt ein Unternehmen, das nach § 13 Abs. 2 oder 3 zur Erbringung
@@ -395,7 +365,6 @@ bewertet wird. Die Regulierungsbehörde hat ferner die Regeln für die
 Durchführung des Ausschreibungsverfahrens im einzelnen festzulegen;
 diese müssen objektiv, nachvollziehbar und diskriminierungsfrei sein.
 
-
 ### § 15 Ausgleichsleistung
 
 (1) Ein Lizenznehmer kann für die ihm nach § 13 Abs. 2 oder 3
@@ -419,7 +388,6 @@ Berechnung der Erträge gilt Absatz 1 Satz 2 entsprechend.
 (3) Im Falle der Ausschreibung nach § 14 gewährt die
 Regulierungsbehörde einen Ausgleich entsprechend dem
 Ausschreibungsergebnis.
-
 
 ### § 16 Ausgleichsabgabe
 
@@ -451,7 +419,6 @@ die auf ihn entfallende Abgabe nicht erlangt werden, ist der Ausfall
 von den übrigen Verpflichteten im Verhältnis der auf sie entfallenden
 Anteile zu tragen.
 
-
 ### § 17 Umsatzmitteilungen
 
 (1) Ist eine Verpflichtung zur Erbringung einer
@@ -464,10 +431,7 @@ schätzen.
 (2) Bei der Ermittlung der Umsätze gilt § 23 Abs. 1 Satz 2 und 3 des
 Gesetzes gegen Wettbewerbsbeschränkungen entsprechend.
 
-
 ## Abschnitt 4 - Rahmenbedingungen für Postdienstleistungen
-
-
 
 ### § 18 Postdienstleistungsverordnung
 
@@ -493,10 +457,7 @@ die ihr durch die Teilnahme am Verfahren entstandenen Kosten selbst.
 Im Übrigen finden die §§ 8 bis 21 des Verwaltungskostengesetzes
 entsprechende Anwendung.
 
-
 ## Abschnitt 5 - Entgeltregulierung
-
-
 
 ### § 19 Genehmigungsbedürftige Entgelte
 
@@ -506,7 +467,6 @@ Regulierungsbehörde, sofern der Lizenznehmer auf dem betreffenden
 Markt marktbeherrschend ist. Satz 1 gilt nicht für Entgelte solcher
 Beförderungsleistungen, die ab einer Mindesteinlieferungsmenge von 50
 Briefsendungen angewendet werden.
-
 
 ### § 20 Maßstäbe der Entgeltgenehmigung
 
@@ -541,7 +501,6 @@ entstanden sind, angemessen zu berücksichtigen.
 
 (3) § 11 Abs. 1 und eine auf Grund des § 11 Abs. 2 erlassene
 Rechtsverordnung bleiben unberührt.
-
 
 ### § 21 Arten und Verfahren der Entgeltgenehmigung
 
@@ -585,7 +544,6 @@ Inhalt der in Absatz 1 Nr. 2 genannten Maßgrößen und Körbe zu
 bestimmen. Die Sätze 1 und 2 gelten auch für die Entgeltüberprüfung
 nach den §§ 24 und 25.
 
-
 ### § 22 Entscheidung über die Entgeltgenehmigung
 
 (1) Die Genehmigung der Entgelte ist schriftlich zu beantragen. Läuft
@@ -606,7 +564,6 @@ werden.
 (4) Genehmigte Entgelte sind im Amtsblatt der Regulierungsbehörde zu
 veröffentlichen.
 
-
 ### § 23 Abweichung von genehmigten Entgelten
 
 (1) Der Lizenznehmer ist verpflichtet, ausschließlich die von der
@@ -621,7 +578,6 @@ genehmigungsbedürftig ist, so sind die Verträge unwirksam.
 (3) Die Regulierungsbehörde kann die Durchführung eines Vertrages, der
 ein anderes als das genehmigte Entgelt enthält oder der nach Absatz 2
 Satz 2 unwirksam ist, untersagen.
-
 
 ### § 24 Nachträgliche Überprüfung genehmigter Entgelte
 
@@ -645,7 +601,6 @@ veröffentlichen.
 Anpassung nicht, hat die Regulierungsbehörde das beanstandete
 Verhalten zu untersagen und die Entgelte für unwirksam zu erklären.
 
-
 ### § 25 Überprüfung nicht genehmigungsbedürftiger Entgelte
 
 (1) Werden der Regulierungsbehörde Tatsachen bekannt, die die Annahme
@@ -666,7 +621,6 @@ der Regulierungsbehörde zu veröffentlichen.
 (3) Erfolgt eine nach Absatz 2 von der Regulierungsbehörde geforderte
 Anpassung nicht, hat die Regulierungsbehörde das beanstandete
 Verhalten zu untersagen und die Entgelte für unwirksam zu erklären.
-
 
 ### § 26 Anordnungen im Rahmen der Entgeltgenehmigung und Entgeltüberprüfung
 
@@ -697,7 +651,6 @@ festgesetzt werden.
 (3) Die Regulierungsbehörde kann vorschreiben, in welcher Form ein
 Entgelt oder eine Entgeltänderung zu veröffentlichen ist.
 
-
 ### § 27 Änderung entgeltrelevanter Allgemeiner Geschäftsbedingungen
 
 Die §§ 19 bis 26 sind auch dann anzuwenden, wenn Allgemeine
@@ -706,10 +659,7 @@ Entgelte festgelegten Beträge geändert werden, für eine bestimmte
 Leistung ein anderes als das bisher geltende Entgelt zur Anwendung
 kommt.
 
-
 ## Abschnitt 6 - Angebot von Teilleistungen, Zugang zu Postfachanlagen und Adreßänderungen
-
-
 
 ### § 28 Angebot von Teilleistungen
 
@@ -741,7 +691,6 @@ berücksichtigt werden.
 Beförderungsleistung gesondert an, ohne dazu nach Absatz 1
 verpflichtet zu sein, gilt Absatz 2 entsprechend.
 
-
 ### § 29 Zugang zu Postfachanlagen und Adreßänderungen
 
 (1) Ist ein Lizenznehmer auf einem Markt für lizenzpflichtige
@@ -756,7 +705,6 @@ Abs. 2 und 3 gilt entsprechend.
 marktbeherrschenden Lizenznehmer vorhandenen Informationen über
 Adreßänderungen.
 
-
 ### § 30 Vorlagepflicht für Verträge
 
 (1) Verträge über Teilleistungen nach § 28 und Verträge über eine
@@ -769,7 +717,6 @@ wo Entgelte und andere Bedingungen für Teilleistungen nach § 28 sowie
 für den Zugang zu Postfachanlagen und Adressänderungen nach § 29, die
 nicht in Allgemeinen Geschäftsbedingungen enthalten sind, eingesehen
 werden können.
-
 
 ### § 31 Schlichtung und Anordnungen der Regulierungsbehörde
 
@@ -792,7 +739,6 @@ und die Geltung dieses Vertrages anzuordnen.
 
 (3) § 26 Abs. 1 und 2 gilt entsprechend.
 
-
 ### § 32 Besondere Mißbrauchsaufsicht
 
 (1) Die Regulierungsbehörde hat gegenüber einem Anbieter, der auf
@@ -811,10 +757,7 @@ untersagen und Verträge ganz oder teilweise für unwirksam erklären.
 Zuvor fordert die Regulierungsbehörde das Unternehmen auf, den
 beanstandeten Mißbrauch abzustellen.
 
-
 ## Abschnitt 7 - Förmliche Zustellung nach öffentlich-rechtlichen Vorschriften
-
-
 
 ### § 33 Verpflichtung zur förmlichen Zustellung
 
@@ -835,7 +778,6 @@ marktbeherrschend wird oder die Voraussetzung des Satzes 2 vorliegt.
 Der Antrag auf Befreiung kann mit dem Antrag auf Erteilung der Lizenz
 verbunden werden.
 
-
 ### § 34 Entgelt für die förmliche Zustellung
 
 Der verpflichtete Lizenznehmer hat Anspruch auf ein Entgelt. Durch
@@ -847,7 +789,6 @@ bedarf der Genehmigung durch die Regulierungsbehörde. Das
 Bundesministerium der Justiz und das Bundesministerium des Innern sind
 unverzüglich über beabsichtigte Entgeltgenehmigungen zu informieren.
 
-
 ### § 35 Haftung bei der Durchführung der förmlichen Zustellung
 
 Für Schäden, die durch eine Pflichtverletzung bei der Durchführung der
@@ -856,10 +797,7 @@ nach den Vorschriften über die Schadensersatzpflicht eines öffentlich-
 rechtlichen Dienstherrn für seine Bediensteten im hoheitlichen
 Bereich.
 
-
 ## Abschnitt 8 - Anzeigepflicht, Berichtspflicht, Schadensersatzpflicht
-
-
 
 ### § 36 Anzeigepflicht
 
@@ -868,7 +806,6 @@ die Aufnahme, Änderung und Beendigung des Betriebs innerhalb eines
 Monats der Regulierungsbehörde schriftlich anzuzeigen. Die
 Regulierungsbehörde kann die eingegangenen Anzeigen in ihrem Amtsblatt
 veröffentlichen.
-
 
 ### § 37 Berichtspflicht
 
@@ -880,7 +817,6 @@ auf Grund von Richtlinien, die nach Artikel 90 Abs. 3 oder Artikel
 100a des Vertrages zur Gründung der Europäischen Gemeinschaft erlassen
 werden, benötigt.
 
-
 ### § 38 Schadensersatzpflicht
 
 Wer vorsätzlich oder fahrlässig gegen dieses Gesetz, eine auf Grund
@@ -890,10 +826,7 @@ Regulierungsbehörde verstößt, ist, sofern die Rechtsvorschrift, die
 Auflage oder die Anordnung den Schutz eines anderen bezweckt, diesem
 zum Ersatz des durch den Verstoß entstandenen Schadens verpflichtet.
 
-
 ## Abschnitt 9 - Postgeheimnis, Datenschutz
-
-
 
 ### § 39 Postgeheimnis
 
@@ -947,7 +880,6 @@ Zusammenhang mit der Erbringung einer Postdienstleistung entstanden
 sind, oder um die Verfolgung von Straftaten zu ermöglichen, die beim
 Postverkehr zum Schaden eines Postunternehmens begangen wurden.
 
-
 ### § 40 Mitteilungen an Gerichte und Behörden
 
 Unternehmen und Personen, die geschäftsmäßig Postdienste erbringen
@@ -957,7 +889,6 @@ Postverkehr Beteiligten mit, soweit dies für Zwecke des Postverkehrs
 der Gerichte oder Behörden erforderlich ist. Dies gilt auch dann, wenn
 der Empfänger eine für die Übermittlung erforderliche Einwilligung
 nicht erteilt oder gegen die Übermittlung Widerspruch erhoben hat.
-
 
 ### § 41 Datenschutz
 
@@ -1032,7 +963,6 @@ schriftlich erfolgen. Soll sie im elektronischen Verfahren erfolgen,
 ist dabei für einen angemessenen Zeitraum eine Rücknahmemöglichkeit
 vorzusehen.
 
-
 ### § 42 Kontrolle und Durchsetzung von Verpflichtungen
 
 (1) Die Regulierungsbehörde kann Anordnungen treffen, um die
@@ -1074,10 +1004,7 @@ Personen erlangen, soweit dies zur Ausübung ihrer Kontrollaufgaben
 erforderlich ist. Das Postgeheimnis gemäß Artikel 10 des Grundgesetzes
 wird insoweit eingeschränkt.
 
-
 ## Abschnitt 10 - Postwertzeichen, Regulierungsbehörde
-
-
 
 ### § 43 Postwertzeichen
 
@@ -1098,14 +1025,12 @@ Beendigung zurückgenommen wird. Das Bundesministerium der Finanzen
 wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des
 Bundesrates bedarf, die Höhe der Gebühr zu regeln.
 
-
 ### § 44 Regulierungsbehörde
 
 Regulierungsbehörde im Sinne dieses Gesetzes ist die auf der Grundlage
 des Zehnten Teils des Telekommunikationsgesetzes vom 25. Juli 1996
 (BGBl. I S. 1120) errichtete Behörde. Die §§ 66 bis 71, 74 bis 81, 83
 und 84 des Telekommunikationsgesetzes gelten entsprechend.
-
 
 ### § 45 Auskunfts- und Prüfungsrecht
 
@@ -1144,7 +1069,6 @@ während der üblichen Betriebs- oder Geschäftszeiten zu dulden.
 (4) § 72 Abs. 4 bis 10 des Telekommunikationsgesetzes gilt
 entsprechend.
 
-
 ### § 46 Beschlußkammern
 
 (1) In den Fällen der §§ 13 und 14 sowie 19 bis 32 entscheidet die
@@ -1159,7 +1083,6 @@ mit dem Beirat.
 Telekommunikationsgesetzes gilt entsprechend. Im Falle des Absatzes 2
 Satz 1 findet § 73 Abs. 4 des Telekommunikationsgesetzes keine
 entsprechende Anwendung.
-
 
 ### § 47 Tätigkeitsbericht
 
@@ -1179,7 +1102,6 @@ Bundes in angemessener Frist Stellung.
 Verwaltungsgrundsätze, insbesondere im Hinblick auf die Vergabe von
 Lizenzen und die Festlegung von Lizenzauflagen.
 
-
 ### § 48 Zusammenarbeit mit dem Bundeskartellamt
 
 Die Regulierungsbehörde entscheidet im Einvernehmen mit dem
@@ -1191,10 +1113,7 @@ Bundeskartellamt vor Abschluß des Verfahrens Gelegenheit zur
 Stellungnahme. § 82 Satz 4 bis 6 des Telekommunikationsgesetzes gilt
 entsprechend.
 
-
 ## Abschnitt 11 - Bußgeldvorschriften
-
-
 
 ### § 49 Bußgeldvorschriften
 
@@ -1261,16 +1180,12 @@ in den Fällen des Absatzes 1 Nr. 6 und 9 mit einer Geldbuße bis zu
 50\.000 Euro, in den übrigen Fällen mit einer Geldbuße bis zu 10.000
 Euro geahndet werden.
 
-
 ### § 50 Zuständige Behörde
 
 Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über
 Ordnungswidrigkeiten ist die Regulierungsbehörde.
 
-
 ## Abschnitt 12 - Übergangsvorschriften
-
-
 
 ### § 51 Befristete gesetzliche Exklusivlizenz
 
@@ -1315,7 +1230,6 @@ untersten Gewichtsklasse beträgt, gewerbsmäßig zu befördern
 
 (2) (weggefallen)
 
-
 ### § 52 Universaldienstleistungspflicht im Zeitraum der gesetzlichen Exklusivlizenz
 
 Für den Zeitraum der gesetzlichen Exklusivlizenz ist die Deutsche Post
@@ -1323,20 +1237,17 @@ AG verpflichtet, Universaldienstleistungen im Sinne der gemäß § 11
 Abs. 2 erlassenen Verordnung zu erbringen. Die §§ 12 bis 17 und 56
 gelten für diesen Zeitraum nicht.
 
-
 ### § 53 Entgeltgenehmigung im Zeitraum der gesetzlichen Exklusivlizenz
 
 § 19 Satz 2 gilt für die Zeit der gesetzlichen Exklusivlizenz nicht
 für die Beförderung von Briefsendungen im Rahmen der Exklusivlizenz
 nach § 51.
 
-
 ### § 54 Verwendung von Postwertzeichen im Zeitraum der gesetzlichen Exklusivlizenz
 
 Das Recht, nach § 43 vom Bundesministerium der Finanzen herausgegebene
 Postwertzeichen zu verwenden, steht für die Zeit der gesetzlichen
 Exklusivlizenz ausschließlich der Deutschen Post AG zu.
-
 
 ### § 55 Rechtsverordnung zur Einschränkung des Beförderungsverbots
 
@@ -1349,10 +1260,7 @@ sie wirtschaftliche Nachteile der Deutschen Post AG zur Folge hätte,
 die die Erfüllung einer ihr nach diesem Gesetz oder auf Grund dieses
 Gesetzes auferlegten Verpflichtung gefährden würde.
 
-
 ## Abschnitt 13 - Schlußvorschriften
-
-
 
 ### § 56 Mitteilungspflicht bei Dienstleistungseinschränkung im Bereich des Universaldienstes
 
@@ -1363,7 +1271,6 @@ vollem Umfang oder zu ungünstigeren als den in der Rechtsverordnung
 genannten Bedingungen anzubieten, so hat sie dies der
 Regulierungsbehörde sechs Monate vor Beginn der
 Dienstleistungseinschränkung mitzuteilen.
-
 
 ### § 57 Überleitungsbestimmungen
 
@@ -1391,7 +1298,6 @@ im Genehmigungsbescheid bestimmten Geltungsdauer, längstens bis zum
 (3) Die der Regulierungsbehörde nach diesem Gesetz zugewiesenen
 Aufgaben werden bis zur Errichtung der Regulierungsbehörde von dem
 Bundesministerium für Post und Telekommunikation wahrgenommen.
-
 
 ### § 58 Inkrafttreten, Außerkrafttreten
 

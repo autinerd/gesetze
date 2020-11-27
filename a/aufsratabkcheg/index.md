@@ -21,7 +21,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 § 5 G v. 2.3.1974 I 469
 
-
 ## Art 1
 
 Dem in Bonn am 6. Dezember 1955 unterzeichneten Vertrag zwischen der
@@ -31,14 +30,12 @@ Bundesrepublik Deutschland zum Betrieb von Grenzkraftwerken am Rhein
 errichteten Aktiengesellschaften betreffen, wird zugestimmt. Der
 Vertrag wird nachstehend veröffentlicht.
 
-
 ## Art 2
 
 Auf Grund des Vorbehalts nach Artikel 2 des Vertrags wird für
 Aktiengesellschaften mit Sitz im Geltungsbereich dieses Gesetzes,
 deren Unternehmensgegenstand der Betrieb deutsch-schweizerischer
 Grenzkraftwerke am Rhein ist, folgendes bestimmt:
-
 
 ## § 1
 
@@ -54,7 +51,6 @@ nicht etwas anderes bestimmt.
 nach Absatz 1 teilnehmen können, einzuladen.
 
 (3) Die Arbeitnehmervertreter sind nicht Mitglieder des Aufsichtsrats.
-
 
 ## § 2
 
@@ -82,14 +78,12 @@ wahlberechtigten Arbeitnehmer widerrufen werden. Der Beschluß bedarf
 einer Mehrheit, die mindestens drei Viertel der abgegebenen Stimmen
 umfaßt. Für die Beschlußfassung gilt Absatz 1 entsprechend.
 
-
 ## § 3
 
 Die Arbeitnehmervertreter erhalten keine andere Vergütung als eine von
 der Hauptversammlung festzusetzende Aufwandsentschädigung. Notwendige
 Versäumnis von Arbeitszeit infolge der Teilnahme an den Sitzungen
 berechtigt nicht zur Minderung des Arbeitsentgelts.
-
 
 ## § 4
 
@@ -99,7 +93,6 @@ als Arbeitnehmervertreter bekanntgeworden und vom Vorsitzer des
 Aufsichtsrats ausdrücklich als geheimzuhalten bezeichnet worden sind,
 auch nach Beendigung ihrer Bestellung oder nach ihrem Ausscheiden aus
 dem Unternehmen Stillschweigen gegenüber jedermann zu wahren.
-
 
 ## § 5
 
@@ -117,7 +110,6 @@ Art, zu dessen Geheimhaltung er nach Absatz 1 verpflichtet ist,
 verwertet.
 
 (3) Die Tat wird nur auf Antrag der Gesellschaft verfolgt.
-
 
 ## § 6
 
@@ -154,10 +146,6 @@ h)  die Aufbewahrung der Wahlakten,
 
 i)  den Widerruf der Bestellung der Arbeitnehmervertreter.
 
-
-
-
-
 ## § 7
 
 (1) Die Arbeitsgerichte sind ausschließlich zuständig für die
@@ -181,7 +169,6 @@ c)  die Anfechtung der Wahl von Arbeitnehmervertretern und die Anfechtung
 Beschlußverfahren für die Fälle des Betriebsverfassungsgesetzes finden
 Anwendung.
 
-
 ## Art 3
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
@@ -189,7 +176,6 @@ Anwendung dieses Gesetzes feststellt. Rechtsverordnungen, die auf
 Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14
 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I
 S. 1).
-
 
 ## Art 4
 

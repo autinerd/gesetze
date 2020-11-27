@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1000
 
-
 ## § 1 Anspruchsvoraussetzungen
 
 Eine Vergütung für Bereitschaftsdienst und Rufbereitschaft erhalten
@@ -34,10 +33,6 @@ A,
     regelmäßigen Arbeitszeit oder Rufbereitschaft leisten, wenn die
     geleisteten Zeiten aus zwingenden dienstlichen Gründen nicht innerhalb
     eines Jahres durch Freistellung vom Dienst ausgeglichen werden können.
-
-
-
-
 
 ## § 2 Bereitschaftsdienst
 
@@ -90,7 +85,6 @@ oder nach der Gebührenordnung für Zahnärzte berechnet werden können.
 Die Zuordnung ist mindestens einmal jährlich zu überprüfen. Sie kann
 nur mit Wirkung für die Zukunft geändert werden.
 
-
 ## § 3 Rufbereitschaft
 
 (1) Zeiten einer Rufbereitschaft ohne tatsächliche Inanspruchnahme,
@@ -102,13 +96,11 @@ gleichen Verhältnis wie die Arbeitszeit gekürzt.
 Rufbereitschaft werden vollständig berücksichtigt. § 2 Absatz 2 Satz 4
 gilt entsprechend.
 
-
 ## § 4 Gesamtzeit
 
 Die berücksichtigten Zeiten eines Kalendermonats sind zu addieren und
 danach auf volle Stunden zu runden (Gesamtzeit). Bei einem Bruchteil
 von mindestens 30 Minuten wird aufgerundet; ansonsten wird abgerundet.
-
 
 ## § 5 Vergütung bei Vollzeitbeschäftigung
 
@@ -137,13 +129,6 @@ Je Stunde der Gesamtzeit erhalten Vollzeitbeschäftigte
 
         *   24,00 Euro.
 
-
-
-
-
-
-
-
 ## § 6 Vergütung bei Teilzeitbeschäftigung
 
 (1) Teilzeitbeschäftigte erhalten je Stunde der Gesamtzeit bis zum
@@ -159,7 +144,6 @@ Bundesbesoldungsgesetzes unterliegen, bleiben unberücksichtigt.
 
 (3) Zeiten, die über die regelmäßige Arbeitszeit von
 Vollzeitbeschäftigten hinausgehen, werden nach § 5 vergütet.
-
 
 ## § 7 Ausschluss des Vergütungsanspruchs
 

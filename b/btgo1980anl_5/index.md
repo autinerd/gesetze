@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 7 Bek. v. 12.11.1990 I 2555 mWv 1.12.1990
 
-
 ## I. Voraussetzungen der Aktuellen Stunde
 
 
@@ -51,13 +50,6 @@ Geändert durch
         Ist die Tagesordnung bereits verteilt, wird ihre Ergänzung durch den
         Präsidenten mitgeteilt.
 
-
-
-
-
-
-
-
 ## II. Rangfolge der Aussprache
 
 
@@ -75,10 +67,6 @@ Geändert durch
     Aussprache zu der Antwort der Bundesregierung auf eine mündliche
     Anfrage (I. 1.b)) verlangt wird. Die vertagte Aussprache geht dann den
     anderen Möglichkeiten zur Aussprache vor.
-
-
-
-
 
 ## III. Dauer und Redeordnung der Aussprache
 

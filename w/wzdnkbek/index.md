@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   RGBl: 1913, 709
 
-
-
 ## (XXXX)
 
 Auf Grund des § 24h des Gesetzes zum Schutz der Warenbezeichnungen vom

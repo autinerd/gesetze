@@ -15,11 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 2614, 2622
 
-
 ## § 1 Aufhebung von Fideikommiss-Auflösungsrecht
 
 -
-
 
 ## § 2 Folgen der Aufhebung
 

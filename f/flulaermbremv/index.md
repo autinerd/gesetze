@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1974, 1201
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 4 Abs. 1 des Gesetzes zum Schutz gegen Fluglärm vom
@@ -27,7 +25,6 @@ Einführungsgesetz zum Strafgesetzbuch vom 2. März 1974
 Bundesminister für Verkehr und mit Zustimmung des Bundesrates
 verordnet:
 
-
 ## § 1
 
 Zum Schutz der Allgemeinheit von Gefahren, erheblichen Nachteilen und
@@ -35,14 +32,12 @@ erheblichen Belästigungen durch Fluglärm in der Umgebung des
 Verkehrsflughafens Bremen wird der in § 2 bestimmte Lärmschutzbereich
 festgesetzt.
 
-
 ## § 2
 
 Der Lärmschutzbereich mit seinen zwei Schutzzonen wird bestimmt durch
 die interpolierten Verbindungslinien zwischen den in Anlage 1
 genannten Kurvenpunkten, soweit diese Linien außerhalb des
 Flugplatzgeländes verlaufen.
-
 
 ## § 3
 
@@ -54,7 +49,6 @@ dieser Schutzzone gelegen.
 (2) Auf die Errichtung einer baulichen Anlage ist Absatz 1
 entsprechend anzuwenden.
 
-
 ## § 4
 
 Der nach § 2 bestimmte Lärmschutzbereich ist in einer topographischen
@@ -65,16 +59,13 @@ bei der Kataster- und Vermessungsverwaltung der Freien Hansestadt
 Bremen, 28 Bremen, Große Weserbrücke 4, zu jedermanns Einsicht
 archivmäßig gesichert niedergelegt.
 
-
 ## § 5
 
 Diese Verordnung tritt am Tag nach ihrer Verkündung in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesminister des Innern
-
 
 ## Anlage 1 (zu § 2 der Verordnung über die Festsetzung des Lärmschutzbereichs für den Verkehrsflughafen Bremen)
 

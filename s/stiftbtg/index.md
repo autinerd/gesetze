@@ -15,11 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   GBl DDR I: 1990, 1483
 
-
-
 ## I. - Allgemeine Bestimmungen
-
-
 
 ### § 1 Geltungsbereich
 
@@ -34,12 +30,10 @@ haben.
 der ihnen gleichgestellten Stadt Berlin solange, bis dort ein anderes
 Stiftungsgesetz zur Geltung gelangt.
 
-
 ### § 2 Auslegungsgrundsatz
 
 Bei der Anwendung dieses Gesetzes ist in erster Linie der Wille des
 Stifters zu berücksichtigen.
-
 
 ### § 3 Stiftungsbehörde
 
@@ -51,10 +45,7 @@ Stiftung ihren Sitz hat oder haben wird. Als Sitz der Stiftung gilt,
 wenn nichts anderes bestimmt ist, der Ort, an dem die Verwaltung
 geführt wird.
 
-
 ## II. - Stiftungen des Privatrechts
-
-
 
 ### § 4 Stiftungserfordernisse
 
@@ -62,10 +53,7 @@ Zur Entstehung einer rechtsfähigen Stiftung des Privatrechts bedarf es
 außer eines Stiftungsgeschäfts der Genehmigung durch die
 Stiftungsbehörde.
 
-
 ### - - Stiftungsgeschäft
-
-
 
 #### § 5 Stiftungsgeschäft
 
@@ -81,7 +69,6 @@ Falle der gerichtlichen oder notariellen Beurkundung des
 Stiftungsgeschäfts das Gericht oder den Notar bei oder nach der
 Beurkundung mit der Einreichung betraut hat.
 
-
 #### § 6
 
 Wird die Stiftung genehmigt, so ist der Stifter verpflichtet, das in
@@ -90,13 +77,11 @@ dem Stiftungsgeschäft zugesicherte Vermögen auf die Stiftung zu
 gehen mit der Genehmigung auf die Stiftung über, sofern nicht aus dem
 Stiftungsgeschäft sich ein anderer Wille des Stifters ergibt.
 
-
 #### § 7
 
 Besteht das Stiftungsgeschäft in einer Verfügung von Todes wegen, so
 hat das Nachlaßgericht die Genehmigung einzuholen, sofern sie nicht
 von dem Erben oder dem Testamentsvollstrecker nachgesucht wird.
-
 
 #### § 8
 
@@ -104,12 +89,10 @@ Wird die Stiftung erst nach dem Tode des Stifters genehmigt, so gilt
 sie für die Zuwendungen des Stifters als schon vor dessen Tode
 entstanden.
 
-
 #### § 9 Satzung
 
 Die Satzung einer Stiftung wird, soweit sie nicht auf den Bestimmungen
 dieses Gesetzes beruht, durch das Stiftungsgeschäft bestimmt.
-
 
 #### § 10 Inhalt der Satzung
 
@@ -131,7 +114,6 @@ Stiftungsbehörde die Satzung bei der Genehmigung der Stiftung
 ergänzen; das gilt nicht für Bestimmungen über Zweck und Vermögen der
 Stiftung.
 
-
 #### § 11 Vorstand
 
 (1) Die Stiftung muß einen Vorstand haben. Der Vorstand kann aus
@@ -145,7 +127,6 @@ gegen Dritte beschränkt werden.
 (3) Für die Geschäftsführung des Vorstandes gelten die Bestimmungen
 des Vereinsrechts entsprechend.
 
-
 #### § 12 Haftung
 
 (1) Verletzen Mitglieder des Vorstandes oder eines anderen Organs der
@@ -156,7 +137,6 @@ verpflichtet.
 (2) Mitglieder von Organen der Stiftung, die ohne Entgelt tätig sind,
 haften nur bei vorsätzlicher oder grob fahrlässiger Verletzung ihrer
 Pflichten.
-
 
 #### § 13 Stiftungsvermögen
 
@@ -169,7 +149,6 @@ Stiftungseigentum darstellen.
 (2) Die Erträgnisse der Stiftungen können sich aus den Anlagen des
 Stiftungsvermögens, daneben aus Spenden, Zuwendungen sowie aus
 Leistungsentgelten ergeben.
-
 
 #### § 14 Vermögensverwaltung
 
@@ -186,10 +165,7 @@ anderem Vermögen getrennt zu halten.
 (3) Bei der Verwaltung von Stiftungen sind die Regeln ordentlicher
 Wirtschaftsführung einzuhalten.
 
-
 ## III. - Genehmigung und Stiftungsaufsicht
-
-
 
 ### § 15 Genehmigung
 
@@ -201,7 +177,6 @@ werden.
 
 (3) Eine Ausfertigung der Stiftungsurkunde, der Satzung und
 Genehmigung sind bei der Stiftungsbehörde zu hinterlegen.
-
 
 ### § 16 Versagung der Genehmigung
 
@@ -222,7 +197,6 @@ b)  wenn die dauernde und nachhaltige Erfüllung des Stiftungszweckes
 oder die Satzung keine ausreichenden Bestimmungen über Zweck und
 Vermögen der Stiftung enthält.
 
-
 ### § 17 Bekanntgabe der Entscheidung und Widerruf
 
 (1) Die Entscheidung ist dem Antragsteller schriftlich mitzuteilen.
@@ -234,14 +208,12 @@ das Stiftungsverzeichnis einzutragen.
 unwirksam ist oder mit Erfolg angefochten wird. Der Widerruf ist dem
 Antragsteller schriftlich mitzuteilen und öffentlich bekanntzumachen.
 
-
 ### § 18 Rechtsaufsicht
 
 Die Stiftungen stehen unter der Rechtsaufsicht des Landes, in dem sie
 ihren Sitz haben. Sie beschränkt sich darauf, zu überwachen, daß die
 Organe der Stiftung die Gesetze, das Stiftungsgesetz und die
 Stiftungssatzung beachten.
-
 
 ### § 19 Tätigkeit der Stiftungsbehörde
 
@@ -273,7 +245,6 @@ Stiftungsbehörde nach Absatz 3 Satz 1 nicht nach, so kann die
 Stiftungsbehörde das Mitglied abberufen und ein anderes an seiner
 Stelle berufen.
 
-
 ### § 20 Stiftungsverzeichnis
 
 (1) Bei der Stiftungsbehörde ist ein Verzeichnis der in ihrem
@@ -296,10 +267,7 @@ gestattet, der ein berechtigtes Interesse geltend macht.
 (4) Entstehung und Aufhebung einer Stiftung sowie der Stifter und der
 Stiftungszweck sind öffentlich bekannt zu machen.
 
-
 ## IV. - Satzungsänderung und Beendigung der Stiftungen
-
-
 
 ### § 21 Satzungsänderung
 
@@ -324,7 +292,6 @@ zuständigen Behörde zu genehmigen ist.
 (5) Mit der Genehmigung der Zusammenlegung wird die neue Stiftung
 rechtsfähig.
 
-
 ### § 22 Zweckänderung und Aufhebung
 
 (1) Ist die Erfüllung des Stiftungszweckes unmöglich geworden oder
@@ -343,7 +310,6 @@ der Vorstand der Stiftung gehört werden.
 
 (4) Die Aufhebung der Stiftung durch den Vorstand bedarf der
 Genehmigung der Stiftungsbehörde.
-
 
 ### § 23 Vermögensanfall
 
@@ -369,10 +335,7 @@ Zwecken der Stiftung entsprechenden Weise zu verwenden.
 Liquidation in entsprechender Anwendung der Bestimmungen über das
 Vereinsrecht statt.
 
-
 ## V. - Stiftungen öffentlichen Rechts
-
-
 
 ### § 24
 
@@ -387,10 +350,7 @@ Stiftungsakt eines Trägers hoheitlicher Gewalt oder durch
 Rechtsvorschrift. Ihre Bildung ist der Stiftungsbehörde zur Eintragung
 in das Stiftungsverzeichnis mitzuteilen.
 
-
 ## VI. - Kommunale Stiftungen
-
-
 
 ### § 25
 
@@ -406,10 +366,7 @@ Vertretung und Verwaltung der Kommunen zuständigen Organen.
 wahrgenommen, soweit durch die Landesregierung nichts anderes bestimmt
 wird.
 
-
 ## VII. - Kirchliche Stiftungen
-
-
 
 ### § 26
 
@@ -424,7 +381,6 @@ Zwecke nur sinnvoll in Verbindung mit einer Kirche zu erfüllen sind.
 für Stiftungen der jüdischen Religionsgemeinschaft und anderer
 Religionsgemeinschaften, die Körperschaften des öffentlichen Rechts
 sind.
-
 
 ### § 27
 
@@ -443,10 +399,7 @@ Kirchenbehörde beaufsichtigt werden. Der Erlaß allgemeiner
 Vorschriften über Namen, Sitz, Zweck, Vertretung, Verwaltung und
 Beaufsichtigung kirchlicher Stiftungen ist Aufgabe der Kirche.
 
-
 ## VIII. - Nichtrechtsfähige Stiftungen
-
-
 
 ### § 28
 
@@ -461,17 +414,13 @@ und Stiftungszweck der Stiftungsbehörde mitzuteilen.
 (2) Im übrigen gelten die Bestimmungen über die privatrechtliche
 Stiftung entsprechend.
 
-
 ## IX. - Übergangs- und Schlußbestimmungen
-
-
 
 ### § 29
 
 Die bei Inkrafttreten dieses Gesetzes bestehenden Stiftungen bestehen
 fort. Für ihre künftigen Rechtsverhältnisse sind die Vorschriften
 dieses Gesetzes anzuwenden.
-
 
 ### § 30
 
@@ -493,7 +442,6 @@ bedarf der Genehmigung der Stiftungsbehörde. Die Genehmigung gilt als
 erteilt, wenn die Stiftungsbehörde die Satzung nicht innerhalb von
 sechs Monaten, nachdem ihr die Satzung vorgelegt wurde, beanstandet.
 
-
 ### § 31
 
 Bestehen Zweifel über die Rechtsnatur einer Stiftung, die für sie
@@ -505,7 +453,6 @@ berücksichtigen; die Stiftungsbehörde kann in diesem Fall, soweit
 erforderlich, die Satzung der Stiftung ändern. Der Vorstand der
 Stiftung soll gehört werden.
 
-
 ### § 32
 
 (1) Dieses Gesetz tritt am 24. September 1990 in Kraft.
@@ -513,7 +460,6 @@ Stiftung soll gehört werden.
 (2)
 § 9 des Einführungsgesetzes zum Zivilgesetzbuch vom 19. Juni 1975
 (GBl. I Nr. 27 S. 517) wird aufgehoben.
-
 
 ### Schlußformel
 

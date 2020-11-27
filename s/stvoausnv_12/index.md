@@ -21,7 +21,6 @@ Zuletzt geändert durch
 Die v tritt gem. § 3 satz 2 mit ablauf des 31. dezember 2009 außer kraft. § 3 satz 2 aufgeh. durch
 :   Art. 1 V v. 26.10.2009 I 3678 mWv 5.11.2009; dadurch wurde die Geltung der V über den 31.12.2009 hinaus verlängert
 
-
 ## Eingangsformel
 
 Auf Grund des § 6 Abs. 1 Nr. 3 in Verbindung mit Abs. 3 des
@@ -29,7 +28,6 @@ Straßenverkehrsgesetzes in der Fassung der Bekanntmachung vom 5. März
 2003 (BGBl. I S. 310, 919) verordnet das Bundesministerium für
 Verkehr, Bau- und Wohnungswesen nach Anhörung der zuständigen obersten
 Landesbehörden:
-
 
 ## § 1
 
@@ -39,13 +37,11 @@ einem zulässigen Gesamtgewicht von über 3,5 t bis 7,5 t, die im
 Fahrzeugschein als Wohnmobil bezeichnet sind, auf Autobahnen (Zeichen
 330\.1) und Kraftfahrstraßen (Zeichen 331.1) 100 km/h.
 
-
 ## § 2
 
 Aus den Fahrzeugpapieren von im Ausland zugelassenen Wohnmobilen im
 Sinne des § 1 muss eindeutig zu ersehen sein, dass diese das zulässige
 Gesamtgewicht von 7,5 Tonnen nicht überschreiten.
-
 
 ## § 3
 

@@ -21,7 +21,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 101 G v. 17.12.2008 I 2586
 
-
 ## Eingangsformel
 
 Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
@@ -29,7 +28,6 @@ Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
 August 1976 (BGBl. I S. 2525) geändert worden ist, wird im
 Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft
 verordnet:
-
 
 ## § 1 Staatliche Anerkennung der Ausbildungsberufe
 
@@ -51,7 +49,6 @@ Die Ausbildungsberufe
 
 werden staatlich anerkannt.
 
-
 ## § 2 Ausbildung in einem anderen Ausbildungsbereich
 
 Wird die Ausbildung zum Rechtsanwalts- und Notarfachangestellten nicht
@@ -60,11 +57,9 @@ Fachbildung in dem jeweils anderen Ausbildungsbereich durch einen
 Ausbildenden in dessen Ausbildungsstätte statt, der die fachliche
 Eignung zur Ausbildung in dem anderen Ausbildungsbereich besitzt.
 
-
 ## § 3 Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 4 Gemeinsamer Teil der Ausbildungsberufsbilder
 
@@ -78,10 +73,6 @@ Fertigkeiten und Kenntnisse:
 
 
 3.  Aufgaben und Aufbau der Rechtspflege.
-
-
-
-
 
 ## § 5 Besonderer Teil des Ausbildungsberufsbildes für den Rechtsanwaltsfachangestellten/die Rechtsanwaltsfachangestellte
 
@@ -106,10 +97,6 @@ Fertigkeiten und Kenntnisse:
 
 
 6.  Grundlagen der besonderen Gerichtszweige.
-
-
-
-
 
 ## § 6 Besonderer Teil des Ausbildungsberufsbildes für den Notarfachangestellten/die Notarfachangestellte
 
@@ -138,10 +125,6 @@ Fertigkeiten und Kenntnisse:
 
 
 7.  Erstellen von Notarkostenrechnungen.
-
-
-
-
 
 ## § 7 Besonderer Teil des Ausbildungsberufsbildes für den Rechtsanwalts- und Notarfachangestellten/die Rechtsanwalts- und Notarfachangestellte
 
@@ -174,10 +157,6 @@ Fertigkeiten und Kenntnisse:
 
 
 8.  Grundlagen der besonderen Gerichtszweige.
-
-
-
-
 
 ## § 8 Besonderer Teil des Ausbildungsberufsbildes für den Patentanwaltsfachangestellten/die Patentanwaltsfachangestellte
 
@@ -240,10 +219,6 @@ Fertigkeiten und Kenntnisse:
 
 11. Erstellen von Vergütungs-, Gebühren- und Kostenrechnungen.
 
-
-
-
-
 ## § 9 Ausbildungsrahmenpläne
 
 Die in den §§ 4 bis 8 genannten Fertigkeiten und Kenntnisse sollen
@@ -255,12 +230,10 @@ insbesondere zulässig, soweit eine berufsfeldbezogene Grundbildung
 vorausgegangen ist oder betriebspraktische Besonderheiten die
 Abweichung erfordern.
 
-
 ## § 10 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 11 Berichtsheft
 
@@ -268,7 +241,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 12 Zwischenprüfung
 
@@ -299,7 +271,6 @@ in den folgenden Prüfungsgebieten durchzuführen:
 (3) Die Prüfungsdauer kann insbesondere unterschritten werden, soweit
 die Prüfung in programmierter Form durchgeführt wird.
 
-
 ## § 13 Abschlußprüfung
 
 (1) Die Abschlußprüfung erstreckt sich auf die in der Anlage
@@ -308,7 +279,6 @@ Berufsschulunterricht vermittelten Lehrstoff, soweit er für die
 Berufsausbildung wesentlich ist.
 
 (2) Die Abschlußprüfung ist schriftlich und mündlich durchzuführen.
-
 
 ## § 14 Schriftliche Prüfung
 
@@ -435,7 +405,6 @@ Minuten, für die übrigen Prüfungsfächer jeweils 90 Minuten; sie kann
 insbesondere unterschritten werden, soweit die Prüfung in
 programmierter Form durchgeführt wird.
 
-
 ## § 15 Mündliche Prüfung
 
 Die mündliche Prüfung ist ein Prüfungsfach. In einem Prüfungsgespräch
@@ -443,7 +412,6 @@ soll der Prüfling zeigen, daß er mit den für den Ausbildungsberuf
 wesentlichen Fragen vertraut ist und praktische Fälle lösen kann. Die
 mündliche Prüfung soll für den einzelnen Prüfling nicht länger als 30
 Minuten dauern.
-
 
 ## § 16 Bestehen der Prüfung
 
@@ -468,11 +436,9 @@ der Prüfungsfächer mindestens ausreichende Leistungen erbracht werden.
 Werden die Prüfungsleistungen in einem Prüfungsfach mit ungenügend
 bewertet, so ist die Prüfung nicht bestanden.
 
-
 ## § 17 (weggefallen)
 
 -
-
 
 ## § 18 Inkrafttreten, Außerkrafttreten
 
@@ -481,11 +447,9 @@ Gleichzeitig tritt die Verordnung über die Ausbildung zum
 Rechtsanwaltsgehilfen, zum Notargehilfen und zum Patentanwaltsgehilfen
 vom 24. August 1971 (BGBl. I S. 1394) außer Kraft.
 
-
 ## Schlußformel
 
 Der Bundesminister der Justiz
-
 
 ## Anlage (zu § 9) Ausbildungsrahmenplan für die Berufsausbildung zum Rechtsanwaltsfachangestellten/zur Rechtsanwaltsfachangestellten, zum Notarfachangestellten/zur Notarfachangestellten, zum Rechtsanwalts- und Notarfachangestellten/zur Rechtsanwalts- und Notarfachangestellten und zum Patentanwaltsfachangestellten/zur Patentanwaltsfachangestellten
 
@@ -2994,10 +2958,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
     *   1
-
-
-
-
 
 ## Anhang EV Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III (BGBl. II 1990, 889, 1135)
 

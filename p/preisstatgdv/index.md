@@ -18,12 +18,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 5 V v. 20.11.1996 I 1804
 
-
 ## Eingangsformel
 
 Auf Grund des § 8 Abs. 4 des Gesetzes über die Preisstatistik vom 9.
 August 1958 (Bundesgesetzbl. I S. 605) verordnet die Bundesregierung:
-
 
 ## § 1
 
@@ -61,7 +59,6 @@ durchgeführt.
 
 zweimal monatlich durchgeführt.
 
-
 ## § 2
 
 (1) Die Statistik nach § 2 Nr. 1 des Gesetzes wird hinsichtlich
@@ -91,19 +88,16 @@ Preise für Bauleistungen vierteljährlich durchgeführt.
 Einkaufspreise landwirtschaftlicher Betriebsmittel ab 1. Juli 1996
 vierteljährlich durchgeführt.
 
-
 ## § 3
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit § 10 des
 Gesetzes über die Preisstatistik auch im Land Berlin.
 
-
 ## § 4
 
 Diese Verordnung gilt im Saarland von dem Zeitpunkt an, zu dem das
 Gesetz über die Preisstatistik im Saarland in Kraft tritt.
-
 
 ## § 5
 

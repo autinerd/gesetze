@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1991, 1968
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 12 Abs. 1a des Arzneimittelgesetzes vom 24. August
@@ -27,7 +25,6 @@ vom 18. März 1975 (BGBl. I S. 705) und dem Organisationserlaß des
 Bundeskanzlers vom 23. Januar 1991 (BGBl. I S. 530) verordnet der
 Bundesminister für Gesundheit im Einvernehmen mit dem Bundesminister
 für Ernährung, Landwirtschaft und Forsten:
-
 
 ## § 1
 
@@ -54,16 +51,13 @@ von der EWG-Nummer oder den EWG-Nummern, angegeben werden. Dies gilt
 nur für Arzneimittel in den in der Anlage unter den Nummern 1.1 und 2
 genannten Anwendungsbereichen.
 
-
 ## § 2
 
 Diese Verordnung tritt am 1. Januar 1992 in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage
 

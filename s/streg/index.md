@@ -18,12 +18,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 22 G v. 8.12.2010 I 1864
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## § 1 Entschädigung für Urteilsfolgen
 
@@ -36,7 +34,6 @@ gemildert wird.
 (2) Absatz 1 gilt entsprechend, wenn ohne Verurteilung eine Maßregel
 der Besserung und Sicherung oder eine Nebenfolge angeordnet worden
 ist.
-
 
 ## § 2 Entschädigung für andere Strafverfolgungsmaßnahmen
 
@@ -79,7 +76,6 @@ die Auslieferungshaft, die vorläufige Auslieferungshaft, die
 Sicherstellung, die Beschlagnahme und die Durchsuchung, die im Ausland
 auf Ersuchen einer deutschen Behörde angeordnet worden sind.
 
-
 ## § 3 Entschädigung bei Einstellung nach Ermessensvorschrift
 
 Wird das Verfahren nach einer Vorschrift eingestellt, die dies nach
@@ -87,7 +83,6 @@ dem Ermessen des Gerichts oder der Staatsanwaltschaft zuläßt, so kann
 für die in § 2 genannten Strafverfolgungsmaßnahmen eine Entschädigung
 gewährt werden, soweit dies nach den Umständen des Falles der
 Billigkeit entspricht.
-
 
 ## § 4 Entschädigung nach Billigkeit
 
@@ -109,7 +104,6 @@ Falles der Billigkeit entspricht,
 steht es gleich, wenn die Tat nach Einleitung des Strafverfahrens nur
 unter dem rechtlichen Gesichtspunkt einer Ordnungswidrigkeit geahndet
 wird.
-
 
 ## § 5 Ausschluß der Entschädigung
 
@@ -156,7 +150,6 @@ verursacht hat, daß er einer ordnungsgemäßen Ladung vor den Richter
 nicht Folge geleistet oder einer Anweisung nach § 116 Abs. 1 Nr. 1 bis
 3, Abs. 3 der Strafprozeßordnung zuwidergehandelt hat.
 
-
 ## § 6 Versagung der Entschädigung
 
 (1) Die Entschädigung kann ganz oder teilweise versagt werden, wenn
@@ -181,7 +174,6 @@ oder teilweise versagt werden, wenn das Gericht die für einen
 Jugendlichen geltenden Vorschriften anwendet und hierbei eine
 erlittene Freiheitsentziehung berücksichtigt.
 
-
 ## § 7 Umfang des Entschädigungsanspruchs
 
 (1) Gegenstand der Entschädigung ist der durch die
@@ -198,7 +190,6 @@ Freiheitsentziehung.
 
 (4) Für einen Schaden, der auch ohne die Strafverfolgungsmaßnahme
 eingetreten wäre, wird keine Entschädigung geleistet.
-
 
 ## § 8 Entscheidung des Strafgerichts
 
@@ -217,7 +208,6 @@ Falle der Unanfechtbarkeit der das Verfahren abschließenden
 Entscheidung die sofortige Beschwerde nach den Vorschriften der
 Strafprozeßordnung zulässig. § 464 Abs. 3 Satz 2 und 3 der
 Strafprozeßordnung ist entsprechend anzuwenden.
-
 
 ## § 9 Verfahren nach Einstellung durch die Staatsanwaltschaft
 
@@ -252,7 +242,6 @@ beantragt, so ist über die Entschädigungspflicht nicht zu entscheiden,
 solange durch einen Antrag auf gerichtliche Entscheidung die Erhebung
 der öffentlichen Klage herbeigeführt werden kann.
 
-
 ## § 10 Anmeldung des Anspruchs, Frist
 
 (1) Ist die Entschädigungspflicht der Staatskasse rechtskräftig
@@ -268,7 +257,6 @@ Frist beginnt mit der Zustellung der Belehrung.
 Ausfertigung der Entscheidung ist dem Antragsteller nach den
 Vorschriften der Zivilprozeßordnung zuzustellen.
 
-
 ## § 11 Ersatzanspruch des kraft Gesetzes Unterhaltsberechtigten
 
 (1) Außer demjenigen, zu dessen Gunsten die Entschädigungspflicht der
@@ -282,14 +270,12 @@ Staatsanwaltschaft, bei welcher der Anspruch geltend zu machen ist,
 sie über ihr Antragsrecht und die Frist belehren. Im übrigen ist § 10
 Abs. 1 anzuwenden.
 
-
 ## § 12 Ausschluß der Geltendmachung der Entschädigung
 
 Der Anspruch auf Entschädigung kann nicht mehr geltend gemacht werden,
 wenn seit dem Ablauf des Tages, an dem die Entschädigungspflicht
 rechtskräftig festgestellt ist, ein Jahr verstrichen ist, ohne daß ein
 Antrag nach § 10 Abs. 1 gestellt worden ist.
-
 
 ## § 13 Rechtsweg, Beschränkung der Übertragbarkeit
 
@@ -301,7 +287,6 @@ auf den Wert des Streitgegenstandes ausschließlich zuständig.
 
 (2) Bis zur rechtskräftigen Entscheidung über den Antrag ist der
 Anspruch nicht übertragbar.
-
 
 ## § 14 Nachträgliche Strafverfolgung
 
@@ -320,7 +305,6 @@ abgelehnt hatte, die Untersuchung oder die Ermittlungen
 wiederaufgenommen worden, so kann die Entscheidung über den Anspruch
 sowie die Zahlung der Entschädigung ausgesetzt werden.
 
-
 ## § 15 Ersatzpflichtige Kasse
 
 (1) Ersatzpflichtig ist das Land, bei dessen Gericht das
@@ -333,7 +317,6 @@ auf die Staatskasse über, welche dem Entschädigten gegen Dritte
 zustehen, weil durch deren rechtswidrige Handlungen die
 Strafverfolgungsmaßnahme herbeigeführt worden war. Der Übergang kann
 nicht zum Nachteil des Berechtigten geltend gemacht werden.
-
 
 ## § 16 Übergangsvorschriften
 
@@ -349,7 +332,6 @@ Entschädigungsanspruchs bereits gerichtlich oder außergerichtlich
 bestimmt worden, so hat es dabei sein Bewenden. Dies gilt nicht für
 wiederkehrende Leistungen, soweit sie nach Inkrafttreten dieses
 Gesetzes fällig werden.
-
 
 ## § 16a Entschädigung für die Folgen einer rechtskräftigen Verurteilung, einer freiheitsentziehenden oder anderen vorläufigen Strafverfolgungsmaßnahme in der Deutschen Demokratischen Republik
 
@@ -370,20 +352,15 @@ Rehabilitierungsgesetzes geltenden Vorschriften abgeschlossen ist. Für
 Art und Höhe der Entschädigung gelten die Vorschriften des
 Strafrechtlichen Rehabilitierungsgesetzes entsprechend.
 
-
 ## § 17 (weggefallen)
 
 -
 
-
 ## (XXXX) §§ 18 und 19 (weggefallen)
-
-
 
 ## § 20 (weggefallen)
 
 -
-
 
 ## § 21 (weggefallen)
 

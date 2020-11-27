@@ -71,15 +71,10 @@ Diese Verordnung dient der Umsetzung folgender Richtlinien:
     Saatgut von Öl- und Faserpflanzen (ABl. EG Nr. L 193 S. 74), zuletzt
     geändert durch die Richtlinie 2003/61/EG (ABl. EU Nr. L 165 S. 23).
 
-
-
-
-
 ## § 1
 
 Das Artenverzeichnis zum Saatgutverkehrsgesetz erhält die Fassung der
 Anlage.
-
 
 ## § 2
 
@@ -89,16 +84,13 @@ Gemüsearten oder deren Hybriden, soweit sie mit Material von Pflanzen
 der in Nummer 2 der Anlage genannten Gemüsearten oder deren Hybriden
 veredelt werden oder veredelt werden sollen.
 
-
 ## § 2a
 
 (weggefallen)
 
-
 ## § 3
 
 (Inkrafttreten)
-
 
 ## Anlage Artenverzeichnis zum Saatgutverkehrsgesetz
 

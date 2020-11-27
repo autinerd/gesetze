@@ -15,14 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 2013
 
-
 ## Eingangsformel
 
 Auf Grund des § 20 des Gesetzes über die Deutsche Nationalbibliothek
 vom 22. Juni 2006 (BGBl. I S. 1338) in Verbindung mit dem
 Organisationserlass vom 27. Oktober 1998 (BGBl. I S. 3288) verordnet
 die Bundeskanzlerin:
-
 
 ## § 1 Einschränkung der Ablieferungspflicht
 
@@ -36,7 +34,6 @@ Sammlung kein öffentliches Interesse besteht.
 
 (2) Ein Anspruch auf Aufnahme eines Medienwerkes in die Sammlung der
 Bibliothek besteht nicht.
-
 
 ## § 2 Beschaffenheit körperlicher Medienwerke und Umfang der Ablieferungspflicht
 
@@ -72,10 +69,6 @@ machen.
     Ablieferungspflichtigen erschienen sind. Sie sind zusammen mit dem
     Hauptwerk abzuliefern.
 
-
-
-
-
 ## § 3 Einschränkung der Ablieferungspflicht für körperliche Medienwerke in verschiedenen Ausgaben
 
 (1) Von inhaltlich oder bibliografisch unveränderten Neuauflagen
@@ -87,7 +80,6 @@ abgeliefert worden sind.
 Ausgaben auf verschiedenen Trägermaterialien oder in unterschiedlichen
 technischen Ausführungen, so kann die Bibliothek auf die Ablieferung
 einzelner Ausgaben verzichten.
-
 
 ## § 4 Einschränkung der Ablieferungspflicht für bestimmte Gattungen von körperlichen Medienwerken
 
@@ -153,10 +145,6 @@ Nicht abzuliefern sind
 
 14. Spiele, wenn Spielcharakter und -zweck im Vordergrund stehen.
 
-
-
-
-
 ## § 5 Ablieferungsverfahren für körperliche Medienwerke
 
 (1) Die Ablieferungspflichtigen haben die Medienwerke einschließlich
@@ -172,7 +160,6 @@ insbesondere Angaben über besondere technische
 Installationsanforderungen, sind diese Informationen von den
 Ablieferungspflichtigen in einem von der Bibliothek festzulegenden
 Verfahren zugänglich zu machen.
-
 
 ## § 6 Zuschuss für körperliche Medienwerke
 
@@ -218,7 +205,6 @@ Bibliothek bei der Bibliothek zu stellen. Auf Verlangen der Bibliothek
 sind die Angaben im Antrag nachzuweisen. Die Ablieferungspflicht
 bleibt unberührt.
 
-
 ## § 7 Beschaffenheit von Netzpublikationen und Umfang der Ablieferungspflicht
 
 (1) Unkörperliche Medienwerke (Netzpublikationen) sind in
@@ -241,7 +227,6 @@ und bei den Ablieferungspflichtigen erschienen sind. Sie sind zusammen
 mit den Netzpublikationen abzuliefern oder zur elektronischen Abholung
 bereitzustellen.
 
-
 ## § 8 Einschränkung der Ablieferungspflicht für Netzpublikationen in verschiedenen Ausgaben und aufgrund technischer Verfahren
 
 (1) Die Bibliothek kann auf die Ablieferung oder elektronische
@@ -259,7 +244,6 @@ nicht oder nur mit beträchtlichem Aufwand erlauben.
 (3) Umfang und Häufigkeit der Ablieferung von regelmäßig
 aktualisierten Netzpublikationen können durch die Bibliothek
 eingeschränkt werden.
-
 
 ## § 9 Weitere Einschränkungen der Ablieferungspflicht für Netzpublikationen
 
@@ -304,10 +288,6 @@ Nicht abzuliefern sind
 
 9.  Netzpublikationen, die nur einer privaten Nutzergruppe zugänglich
     gemacht sind.
-
-
-
-
 
 ## § 10 Inkrafttreten, Außerkrafttreten
 

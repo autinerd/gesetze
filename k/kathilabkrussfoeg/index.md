@@ -17,13 +17,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1994, 3542
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -33,14 +30,12 @@ Russischen Föderation über die gegenseitige Hilfeleistung bei
 Katastrophen oder schweren Unglücksfällen wird zugestimmt. Das
 Abkommen wird nachstehend veröffentlicht.
 
-
 ## Art 2
 
 Bei Aufwendungen, die auf seiten der Russischen Föderation für
 Hilfeleistungen in der Bundesrepublik Deutschland entstehen, richtet
 sich die Kostenträgerschaft danach, ob die jeweilige Hilfsmaßnahme in
 den Aufgabenbereich des Bundes oder der Länder fällt.
-
 
 ## Art 3
 

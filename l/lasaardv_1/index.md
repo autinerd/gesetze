@@ -19,14 +19,12 @@ Fundstelle
 Geändert durch
 :   § 8 V v. 31. 3.1966 I 199
 
-
 ## Eingangsformel
 
 Auf Grund des § 8 Abs. 1 und des § 37 Abs. 1 des Gesetzes zur
 Einführung von Vorschriften des Lastenausgleichsrechts im Saarland vom
 30\. Juli 1960 (BGBl. I S. 637) verordnet die Bundesregierung mit
 Zustimmung des Bundesrates:
-
 
 ## § 1 Sonderwert
 
@@ -36,7 +34,6 @@ den 20. November 1947 geltenden Einheitswerts der nach §§ 2 bis 4 zu
 berechnende Sonderwert, wenn er um mehr als 5 vom Hundert, mindestens
 aber um 100 Reichsmark, oder um mehr als 10.000 Reichsmark niedriger
 als der geltende Einheitswert ist.
-
 
 ## § 2 Berechnung des Sonderwerts
 
@@ -86,7 +83,6 @@ Wertanteile für den Grund und Boden abgezogen werden.
 erfassenden Wirtschaftsgüter sind die Verhältnisse am 20. November
 1947 maßgebend. Für die Zerlegung der Grundstücksfläche bei bebauten
 Grundstücken ist § 3 zu beachten.
-
 
 ## § 3 Bezugsfläche bei bebauten Grundstücken
 
@@ -150,7 +146,6 @@ nach Anlage B rechnerisch entfällt.
 einzubeziehen, wenn sie im Einheitswert des bebauten Grundstücks vor
 Eintritt des Kriegssachschadens mitberücksichtigt war.
 
-
 ## § 4 Wertanteile für teilzerstörte Wirtschaftsgüter
 
 Für die Wirtschaftsgüter, insbesondere Gebäude, die durch
@@ -165,7 +160,6 @@ zur Bemessung des Wertanteils der Gebäude von der Jahresrohmiete für
 den Gebäudebestand am 20. November 1947 im Verhältnis zur
 Jahresrohmiete vor Eintritt des Kriegssachschadens auszugehen.
 
-
 ## § 5 Anwendung im Land Berlin
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
@@ -173,11 +167,9 @@ Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 Einführung von Vorschriften des Lastenausgleichsrechts im Saarland
 auch im Land Berlin.
 
-
 ## § 6 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
-
 
 ## Anlage A (zu § 2 Abs. 2 Nr. 1)
 
@@ -716,7 +708,6 @@ Der Wertanteil der Betriebsbestandteile am Einheitswert des
 gärtnerischen Betriebs ist im Einzelfall auf Grund der jeweils
 angewandten Bewertungsrichtlinien zu ermitteln.
 
-
 ## Anlage B (zu § 2 Abs. 2 Nr. 2)
 
 Fundstelle des Originaltextes: BGBl. I 1961, 1649
@@ -880,10 +871,6 @@ Grundstücks
     *   6
 
     *   90
-
-
-
-
 
 ## Anlage C (zu § 2 Abs. 3 Nr. 2) Verzeichnis der Hauptgeschäftsstraßen und der Geschäftsstraßen mit Angabe der maßgebenden Anzahl der Gebäudegeschosse
 

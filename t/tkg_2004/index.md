@@ -38,16 +38,12 @@ personenbezogener Daten und den Schutz der Privatsphäre in der
 elektronischen Kommunikation (Datenschutzrichtlinie) (ABl. EG Nr. L
 201 S. 37).
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Teil 1 - Allgemeine Vorschriften
-
-
 
 ### § 1 Zweck des Gesetzes
 
@@ -55,7 +51,6 @@ Zweck dieses Gesetzes ist es, durch technologieneutrale Regulierung
 den Wettbewerb im Bereich der Telekommunikation und leistungsfähige
 Telekommunikationsinfrastrukturen zu fördern und flächendeckend
 angemessene und ausreichende Dienstleistungen zu gewährleisten.
-
 
 ### § 2 Regulierung, Ziele und Grundsätze
 
@@ -168,7 +163,6 @@ bleiben unberührt.
 (6) Die Belange des Rundfunks und vergleichbarer Telemedien sind
 unabhängig von der Art der Übertragung zu berücksichtigen. Die
 medienrechtlichen Bestimmungen der Länder bleiben unberührt.
-
 
 ### § 3 Begriffsbestimmungen
 
@@ -643,10 +637,6 @@ Im Sinne dieses Gesetzes ist oder sind
     Zugangs und wird zwischen Betreibern öffentlicher
     Telekommunikationsnetze hergestellt.
 
-
-
-
-
 ### § 4 Internationale Berichtspflichten
 
 Die Betreiber von öffentlichen Telekommunikationsnetzen und die
@@ -655,7 +645,6 @@ der Bundesnetzagentur auf Verlangen die Informationen zur Verfügung
 stellen, die diese benötigt, um Berichtspflichten gegenüber der
 Kommission und anderen internationalen Gremien erfüllen zu können.
 
-
 ### § 5 Medien der Veröffentlichung
 
 Veröffentlichungen und Bekanntmachungen, zu denen die
@@ -663,7 +652,6 @@ Bundesnetzagentur durch dieses Gesetz verpflichtet ist, erfolgen in
 deren Amtsblatt und auf deren Internetseite, soweit keine abweichende
 Regelung getroffen ist. Im Amtsblatt der Bundesnetzagentur sind auch
 technische Richtlinien bekannt zu machen.
-
 
 ### § 6 Meldepflicht
 
@@ -695,7 +683,6 @@ eines Zeitraums von sechs Monaten schriftlich gemeldet worden, kann
 die Bundesnetzagentur die Beendigung der Tätigkeit von Amts wegen
 feststellen.
 
-
 ### § 7 Strukturelle Separierung
 
 Unternehmen, die öffentliche Telekommunikationsnetze betreiben oder
@@ -719,10 +706,6 @@ verpflichtet,
     Berechnungsgrundlagen und detaillierten Zurechnungsmethoden
     einschließlich einer detaillierten Aufschlüsselung des Anlagevermögens
     und der strukturbedingten Kosten offen gelegt werden.
-
-
-
-
 
 ### § 8 Internationaler Status
 
@@ -749,17 +732,9 @@ Internationalen Fernmeldeunion
     von der Person, die die Verbindung anmeldet, ausdrücklich verlangt
     wird.
 
-
-
-
-
 ## Teil 2 - Marktregulierung
 
-
-
 ### Abschnitt 1 - Verfahren der Marktregulierung
-
-
 
 #### § 9 Grundsatz
 
@@ -774,10 +749,7 @@ diesem Teil auferlegt.
 
 (3) § 18 bleibt unberührt.
 
-
 #### § 9a (weggefallen)
-
-
 
 #### § 10 Marktdefinition
 
@@ -810,7 +782,6 @@ jeweils geltenden Fassung.
 Kommission im Verfahren nach § 12 in den Fällen vorzulegen, in denen
 die Marktdefinition Auswirkungen auf den Handel zwischen den
 Mitgliedstaaten hat.
-
 
 #### § 11 Marktanalyse
 
@@ -860,7 +831,6 @@ einschließlich der Feststellung, welche Unternehmen über beträchtliche
 Marktmacht verfügen, sind der Kommission im Verfahren nach § 12
 vorzulegen, sofern sie Auswirkungen auf den Handel zwischen den
 Mitgliedstaaten haben.
-
 
 #### § 12 Konsultations- und Konsolidierungsverfahren
 
@@ -943,7 +913,6 @@ Regulierungsbehörden unverzüglich mit einer vollständigen Begründung
 mit. Ein Beschluss der Bundesnetzagentur, diese Maßnahmen dauerhaft zu
 machen oder ihre Geltungsdauer zu verlängern, unterliegt den
 Bestimmungen der Absätze 1 und 2.
-
 
 #### § 13 Rechtsfolgen der Marktanalyse
 
@@ -1038,7 +1007,6 @@ Europäischen Union hat, so gilt folgendes Verfahren:
 42 Abs. 4 Satz 3 ergehen mit den Ergebnissen der Verfahren nach den §§
 10 und 11 als einheitlicher Verwaltungsakt.
 
-
 #### § 14 Überprüfung von Marktdefinition, Marktanalyse und Regulierungsverfügung
 
 (1) Werden der Bundesnetzagentur Tatsachen bekannt, die die Annahme
@@ -1079,7 +1047,6 @@ Regulierungsverfügung im Konsolidierungsverfahren nach § 12 Absatz 2
 Nummer 1 innerhalb von sechs Monaten vor, nachdem das GEREK mit seiner
 Unterstützung begonnen hat.
 
-
 #### § 15 Verfahren bei sonstigen marktrelevanten Maßnahmen
 
 Außer in den Fällen der §§ 10, 11 und 13 hat die Bundesnetzagentur bei
@@ -1087,7 +1054,6 @@ allen Maßnahmen, die beträchtliche Auswirkungen auf den betreffenden
 Markt haben, vor einer Entscheidung das Verfahren nach § 12 Abs. 1
 durchzuführen, soweit dies gesetzlich nicht anders geregelt ist. § 12
 Absatz 3 gilt entsprechend.
-
 
 #### § 15a Regulierungskonzepte und Antrag auf Auskunft über den Regulierungsrahmen für Netze der nächsten Generation
 
@@ -1125,10 +1091,7 @@ Rahmenbedingungen oder Maßnahmen nach diesem Teil. Für Festlegungen
 nach diesem Teil gilt das Konsultations- und Konsolidierungsverfahren
 nach § 12 Absatz 1 und Absatz 2 entsprechend.
 
-
 ### Abschnitt 2 - Zugangsregulierung
-
-
 
 #### § 16 Verträge über Zusammenschaltung
 
@@ -1138,7 +1101,6 @@ auf Verlangen ein Angebot auf Zusammenschaltung zu unterbreiten, um
 die Kommunikation der Nutzer, die Bereitstellung von
 Telekommunikationsdiensten sowie deren Interoperabilität im gesamten
 Gebiet der Europäischen Union zu gewährleisten.
-
 
 #### § 17 Vertraulichkeit von Informationen
 
@@ -1150,7 +1112,6 @@ dürfen nicht an Dritte, die aus solchen Informationen
 Wettbewerbsvorteile ziehen könnten, weitergegeben werden, insbesondere
 nicht an andere Abteilungen, Tochtergesellschaften oder
 Geschäftspartner der an den Verhandlungen Beteiligten.
-
 
 #### § 18 Kontrolle über Zugang zu Endnutzern
 
@@ -1184,7 +1145,6 @@ entsprechend.
 nichtdiskriminierend sein. § 21 Abs. 1 Satz 2 und Abs. 4 gilt
 entsprechend.
 
-
 #### § 19 Diskriminierungsverbot
 
 (1) Die Bundesnetzagentur kann einen Betreiber eines öffentlichen
@@ -1201,7 +1161,6 @@ Bedingungen anbietet und Dienste und Informationen für Dritte zu den
 gleichen Bedingungen und mit der gleichen Qualität bereitstellt wie
 für seine eigenen Produkte oder die seiner Tochter- oder
 Partnerunternehmen.
-
 
 #### § 20 Transparenzverpflichtung
 
@@ -1227,7 +1186,6 @@ Zugangsleistungen ohne gesonderte Aufforderung in einer öffentlichen
 und einer vertraulichen Fassung vorzulegen. Die Bundesnetzagentur
 veröffentlicht, wann und wo Nachfrager nach Zugangsleistungen eine
 öffentliche Vereinbarung nach Satz 1 einsehen können.
-
 
 #### § 21 Zugangsverpflichtungen
 
@@ -1441,7 +1399,6 @@ Verpflichtungen, bestimmte technische Normen oder Spezifikationen
 zugrunde zu legen, müssen mit den nach Artikel 17 der Richtlinie
 2002/21/EG festgelegten Normen und Spezifikationen übereinstimmen.
 
-
 #### § 22 Zugangsvereinbarungen
 
 (1) Ein Betreiber eines öffentlichen Telekommunikationsnetzes, der
@@ -1457,7 +1414,6 @@ Telekommunikationsnetzes, der über beträchtliche Marktmacht verfügt,
 abschließt, bedürfen der Schriftform.
 
 (3) (weggefallen)
-
 
 #### § 23 Standardangebot
 
@@ -1537,7 +1493,6 @@ Komponenten umfasst. § 20 bleibt unberührt.
 (8) Der Betreiber ist verpflichtet, das Standardangebot in seine
 Allgemeinen Geschäftsbedingungen aufzunehmen.
 
-
 #### § 24 Getrennte Rechnungsführung
 
 (1) Die Bundesnetzagentur kann einem Betreiber eines öffentlichen
@@ -1560,7 +1515,6 @@ Bundesnetzagentur kann diese Informationen in geeigneter Form
 veröffentlichen, soweit dies zur Erreichung der in § 2 genannten Ziele
 beiträgt. Dabei sind die Bestimmungen zur Wahrung von Geschäfts- oder
 Betriebsgeheimnissen zu beachten.
-
 
 #### § 25 Anordnungen durch die Bundesnetzagentur
 
@@ -1631,21 +1585,15 @@ Zur Durchsetzung der Anordnung kann die Bundesnetzagentur nach Maßgabe
 des Verwaltungsvollstreckungsgesetzes ein Zwangsgeld bis zu einer
 Million Euro festsetzen.
 
-
 #### § 26 Veröffentlichung
 
 Die Bundesnetzagentur veröffentlicht die nach diesem Abschnitt
 getroffenen Maßnahmen unter Wahrung von Betriebs- oder
 Geschäftsgeheimnissen der betroffenen Unternehmen.
 
-
 ### Abschnitt 3 - Entgeltregulierung
 
-
-
 #### Unterabschnitt 1 - Allgemeine Vorschriften
-
-
 
 ##### § 27 Ziel der Entgeltregulierung
 
@@ -1669,7 +1617,6 @@ eingeleiteten Verfahren zu beteiligen. Auf Antrag der zuständigen
 Landesmedienanstalt prüft die Bundesnetzagentur auf der Grundlage
 dieses Gesetzes die Einleitung eines Verfahrens und die Anordnung von
 Maßnahmen nach den folgenden Bestimmungen.
-
 
 ##### § 28 Missbräuchliches Verhalten eines Unternehmens mit beträchtlicher Marktmacht bei der Forderung und Vereinbarung von Entgelten
 
@@ -1727,10 +1674,6 @@ vermutet, wenn
     effizienten Wettbewerbern des Unternehmens mit beträchtlicher
     Marktmacht möglich ist, das Bündelprodukt zu vergleichbaren
     Konditionen anzubieten.
-
-
-
-
 
 ##### § 29 Anordnungen im Rahmen der Entgeltregulierung
 
@@ -1799,10 +1742,7 @@ beträchtliche Marktmacht verfügen, Angaben nach Absatz 1 Nr. 1
 verlangen sowie nach Absatz 4 vorgehen, wenn dies zur sachgerechten
 Ausübung der Entgeltregulierung nach diesem Teil erforderlich ist.
 
-
 #### Unterabschnitt 2 - Regulierung von Entgelten für Zugangsleistungen
-
-
 
 ##### § 30 Entgeltregulierung
 
@@ -1846,7 +1786,6 @@ Risikobeteiligungsmodelle Rechnung.
 (4) (weggefallen)
 
 (5) (weggefallen)
-
 
 ##### § 31 Entgeltgenehmigung
 
@@ -1910,7 +1849,6 @@ Bundesnetzagentur über Entgeltanträge, die im Rahmen des Verfahrens
 nach § 33 vorgelegt worden sind, innerhalb von zwei Wochen
 entscheiden.
 
-
 ##### § 32 Kosten der effizienten Leistungsbereitstellung
 
 (1) Die Kosten der effizienten Leistungsbereitstellung ergeben sich
@@ -1951,10 +1889,6 @@ Kapitals berücksichtigt die Bundesnetzagentur insbesondere
 4.  die langfristige Stabilität der wirtschaftlichen Rahmenbedingungen,
     auch im Hinblick auf die Wettbewerbssituation auf den
     Telekommunikationsmärkten.
-
-
-
-
 
 ##### § 33 Price-Cap-Verfahren
 
@@ -1998,7 +1932,6 @@ Vergangenheit die Einhaltung der Maßgrößen geprüft wird und unter
 welchen Voraussetzungen der Inhalt von Körben geändert oder
 Preisdifferenzierungen innerhalb eines Korbes durchgeführt werden
 können.
-
 
 ##### § 34 Kostenunterlagen
 
@@ -2074,7 +2007,6 @@ Unternehmen vorgelegt werden.
 grundsätzlich antragsübergreifend einheitlich anzuwenden.
 
 (7) Die Befugnisse nach § 29 bleiben unberührt.
-
 
 ##### § 35 Verfahren der Entgeltgenehmigung
 
@@ -2155,7 +2087,6 @@ betroffen werden, auch ohne Antrag beiladen.
 
 (7) Die Bundesnetzagentur veröffentlicht genehmigte Entgelte.
 
-
 ##### § 36 Veröffentlichung
 
 (1) Die Bundesnetzagentur veröffentlicht beabsichtigte Entscheidungen
@@ -2168,7 +2099,6 @@ Entscheidung richtet, Gelegenheit zur Stellungnahme.
 1 Nummer 1 sowie im Falle eines Vorgehens nach § 31 Absatz 4 Satz 1
 und 2 veröffentlicht die Bundesnetzagentur die beantragten oder
 vorgesehenen Entgeltmaßnahmen.
-
 
 ##### § 37 Abweichung von genehmigten Entgelten
 
@@ -2187,7 +2117,6 @@ Rechtsgeschäft, den Abschluss, die Vorbereitung und die Anbahnung
 eines Rechtsgeschäfts untersagen, das ein anderes als das genehmigte
 oder ein nicht genehmigtes, aber genehmigungsbedürftiges Entgelt
 enthält.
-
 
 ##### § 38 Nachträgliche Regulierung von Entgelten
 
@@ -2228,10 +2157,7 @@ einer Stellung mit beträchtlicher Marktmacht im Sinne des § 28 Abs. 2
 Nr. 3 auch an, in welcher Weise das Unternehmen mit beträchtlicher
 Marktmacht eine Entbündelung vorzunehmen hat.
 
-
 #### Unterabschnitt 3 - Regulierung von Entgelten für Endnutzerleistungen
-
-
 
 ##### § 39 Entgeltregulierung bei Endnutzerleistungen
 
@@ -2280,10 +2206,7 @@ genügt. Sofern das Unternehmen mit beträchtlicher Marktmacht kein
 solches Vorleistungsangebot vorlegt, kann die Bundesnetzagentur die
 Forderung des Endkundenentgelts ohne weitere Prüfung untersagen.
 
-
 ### Abschnitt 4 - Sonstige Verpflichtungen
-
-
 
 #### § 40 Funktionelle Trennung
 
@@ -2378,7 +2301,6 @@ beträchtlicher Marktmacht nach § 11 eingestuft wurde, jede der
 Verpflichtungen nach den §§ 19, 20, 21, 23, 24, 30, 39 oder § 42
 Absatz 4 Satz 3 auferlegt werden.
 
-
 #### § 41 Freiwillige Trennung durch ein vertikal integriertes Unternehmen
 
 (1) Unternehmen, die nach § 11 auf einem oder mehreren relevanten
@@ -2409,7 +2331,6 @@ Marktmacht nach § 11 eingestuft wurde, jede der Verpflichtungen nach
 den §§ 19, 20, 21, 23, 24, 30, 39 oder § 42 Absatz 4 Satz 3 auferlegt
 werden.
 
-
 #### § 41a Netzneutralität
 
 (1) Die Bundesregierung wird ermächtigt, in einer Rechtsverordnung mit
@@ -2431,10 +2352,7 @@ Darstellung ist der Kommission und dem GEREK rechtzeitig zu
 übermitteln. Den Kommentaren oder Empfehlungen der Kommission ist bei
 der Festlegung der Anforderungen weitestgehend Rechnung zu tragen.
 
-
 ### Abschnitt 5 - Besondere Missbrauchsaufsicht
-
-
 
 #### § 42 Missbräuchliches Verhalten eines Unternehmens mit beträchtlicher Marktmacht
 
@@ -2479,7 +2397,6 @@ der Eingang des Antrags der Fristbeginn. Den Antrag nach Satz 1 kann
 jeder Anbieter von Telekommunikationsdiensten stellen, der geltend
 macht, in eigenen Rechten verletzt zu sein.
 
-
 #### § 43 Vorteilsabschöpfung durch die Bundesnetzagentur
 
 (1) Hat ein Unternehmen gegen eine Verfügung der Bundesnetzagentur
@@ -2508,10 +2425,7 @@ abzuführende Geldbetrag ist zahlenmäßig zu bestimmen.
 Jahren seit Beendigung der Zuwiderhandlung und längstens für einen
 Zeitraum von fünf Jahren angeordnet werden.
 
-
 ## Teil 3 - Kundenschutz
-
-
 
 ### § 43a Verträge
 
@@ -2636,7 +2550,6 @@ Mitteilung über Vertragsänderungen und die anzugebende Information
 über das Widerrufsrecht festlegen, soweit nicht bereits vergleichbare
 Regelungen bestehen.
 
-
 ### § 43b Vertragslaufzeit
 
 Die anfängliche Mindestlaufzeit eines Vertrages zwischen einem
@@ -2645,7 +2558,6 @@ Telekommunikationsdiensten darf 24 Monate nicht überschreiten.
 Anbieter von öffentlich zugänglichen Telekommunikationsdiensten sind
 verpflichtet, einem Teilnehmer zu ermöglichen, einen Vertrag mit einer
 Höchstlaufzeit von zwölf Monaten abzuschließen.
-
 
 ### § 44 Anspruch auf Schadensersatz und Unterlassung
 
@@ -2674,7 +2586,6 @@ von einem Angestellten oder einem Beauftragten begangen, so ist der
 Unterlassungsanspruch auch gegen den Inhaber des Betriebes begründet.
 Im Übrigen bleibt das Unterlassungsklagengesetz unberührt.
 
-
 ### § 44a Haftung
 
 Soweit eine Verpflichtung des Anbieters von öffentlich zugänglichen
@@ -2695,7 +2606,6 @@ Schadens, der durch den Verzug der Zahlung von Schadenersatz entsteht.
 Abweichend von den Sätzen 1 bis 3 kann die Höhe der Haftung gegenüber
 Endnutzern, die keine Verbraucher sind, durch einzelvertragliche
 Vereinbarung geregelt werden.
-
 
 ### § 45 Berücksichtigung der Interessen behinderter Endnutzer
 
@@ -2739,7 +2649,6 @@ entfallende Teil der Kosten wird von den übrigen Unternehmen nach
 Maßgabe des Satzes 5 getragen. Die Bundesnetzagentur legt die
 Einzelheiten des Verfahrens durch Verfügung fest.
 
-
 ### § 45a Nutzung von Grundstücken
 
 (1) Ein Anbieter von öffentlich zugänglichen
@@ -2774,7 +2683,6 @@ effizienten Leistungsbereitstellung orientiert.
 (4) Geht das Eigentum des Grundstücks auf einen Dritten über, gilt §
 566 des Bürgerlichen Gesetzbuchs entsprechend.
 
-
 ### § 45b Entstörungsdienst
 
 Der Teilnehmer kann von einem Anbieter eines öffentlich zugänglichen
@@ -2782,7 +2690,6 @@ Telefondienstes verlangen, dass dieser einer Störung unverzüglich,
 auch nachts und an Sonn- und Feiertagen, nachgeht, wenn der Anbieter
 von öffentlich zugänglichen Telekommunikationsdiensten über
 beträchtliche Marktmacht verfügt.
-
 
 ### § 45c Normgerechte technische Dienstleistung
 
@@ -2794,7 +2701,6 @@ Bereitstellung von Telekommunikation für Endnutzer einzuhalten.
 
 (2) Die Bundesnetzagentur soll auf die verbindlichen Normen und
 technischen Anforderungen in Veröffentlichungen hinweisen.
-
 
 ### § 45d Netzzugang
 
@@ -2817,7 +2723,6 @@ Mobilfunkanschlusses zur Inanspruchnahme und Abrechnung einer neben
 der Verbindung erbrachten Leistung unentgeltlich netzseitig gesperrt
 wird.
 
-
 ### § 45e Anspruch auf Einzelverbindungsnachweis
 
 (1) Der Teilnehmer kann von dem Anbieter von öffentlich zugänglichen
@@ -2839,7 +2744,6 @@ Teilnehmer kann einen auf diese Festlegungen beschränkten
 Einzelverbindungsnachweis verlangen, für den kein Entgelt erhoben
 werden darf.
 
-
 ### § 45f Vorausbezahlte Leistung
 
 Der Teilnehmer muss die Möglichkeit haben, auf Vorauszahlungsbasis
@@ -2849,7 +2753,6 @@ Die Einzelheiten kann die Bundesnetzagentur durch Verfügung im
 Amtsblatt festlegen. Für den Fall, dass eine entsprechende Leistung
 nicht angeboten wird, schreibt die Bundesnetzagentur die Leistung aus.
 Für das Verfahren gilt § 81 Abs. 2, 4 und 5 entsprechend.
-
 
 ### § 45g Verbindungspreisberechnung
 
@@ -2895,7 +2798,6 @@ Verfahren zur Ermittlung des Entgelts volumenabhängig tarifierter
 Verbindungen nach Absatz 1 Nr. 2, 3 und 4 nach Anhörung der
 betroffenen Unternehmen, Fachkreise und Verbraucherverbände durch
 Verfügung im Amtsblatt fest.
-
 
 ### § 45h Rechnungsinhalt, Teilzahlungen
 
@@ -2959,7 +2861,6 @@ nachvollziehbaren Hinweis auf den Informationsanspruch des Teilnehmers
 nach § 45p erforderlich sind, kann die Bundesnetzagentur durch
 Verfügung im Amtsblatt festlegen.
 
-
 ### § 45i Beanstandungen
 
 (1) Der Teilnehmer kann eine ihm von dem Anbieter von
@@ -3012,7 +2913,6 @@ dass Dritte durch unbefugte Veränderungen an öffentlichen
 Telekommunikationsnetzen das in Rechnung gestellte Verbindungsentgelt
 beeinflusst haben.
 
-
 ### § 45j Entgeltpflicht bei unrichtiger Ermittlung des Verbindungsaufkommens
 
 (1) Kann im Falle des § 45i Abs. 3 Satz 2 das tatsächliche
@@ -3040,7 +2940,6 @@ an die Stelle des nach Satz 1 berechneten Durchschnittsbetrags.
 Durchschnittsberechnung, so gilt das von dem Teilnehmer auf die
 beanstandete Forderung zu viel gezahlte Entgelt spätestens zwei Monate
 nach der Beanstandung als fällig.
-
 
 ### § 45k Sperre
 
@@ -3083,7 +2982,6 @@ Eine auch ankommende Telekommunikationsverbindung erfassende
 Vollsperrung des Netzzugangs darf frühestens eine Woche nach Sperrung
 abgehender Telekommunikationsverbindungen erfolgen.
 
-
 ### § 45l Dauerschuldverhältnisse bei Kurzwahldiensten
 
 (1) Der Teilnehmer kann von dem Anbieter einer Dienstleistung, die
@@ -3121,7 +3019,6 @@ nicht, wenn der Teilnehmer den Erhalt der Informationen nach Satz 1
 nicht bestätigt; dennoch geleistete Zahlungen des Teilnehmers an den
 Anbieter sind zurückzuzahlen.
 
-
 ### § 45m Aufnahme in öffentliche Teilnehmerverzeichnisse
 
 (1) Der Teilnehmer kann von seinem Anbieter eines öffentlichen
@@ -3140,7 +3037,6 @@ Sprachkommunikationsdienstleistungen für deren Teilnehmer zu.
 
 (3) Die Absätze 1 und 2 gelten entsprechend für die Aufnahme in
 Verzeichnisse für Auskunftsdienste.
-
 
 ### § 45n Transparenz, Veröffentlichung von Informationen und zusätzliche Dienstemerkmale zur Kostenkontrolle
 
@@ -3350,7 +3246,6 @@ Telekommunikationsnetzen und von Anbietern öffentlich zugänglicher
 Telekommunikationsdienste veröffentlichten Informationen für die
 Bundesnetzagentur oder für Dritte kostenlos.
 
-
 ### § 45o Rufnummernmissbrauch
 
 Wer Rufnummern in seinem Telekommunikationsnetz einrichtet, hat den
@@ -3364,7 +3259,6 @@ sind, eine Wiederholung zu verhindern. Bei wiederholten oder
 schwerwiegenden Verstößen gegen gesetzliche Verbote ist der Anbieter
 nach erfolgloser Abmahnung unter kurzer Fristsetzung verpflichtet, die
 Rufnummer zu sperren.
-
 
 ### § 45p Auskunftsanspruch über zusätzliche Leistungen
 
@@ -3390,7 +3284,6 @@ Leistung muss auf Verlangen des Teilnehmers diesen über den Grund und
 Gegenstand des Entgeltanspruchs, der nicht ausschließlich
 Gegenleistung einer Verbindungsleistung ist, insbesondere über die Art
 der erbrachten Leistung, unterrichten.
-
 
 ### § 46 Anbieterwechsel und Umzug
 
@@ -3517,7 +3410,6 @@ Absatz 1 und 2 abweichende Regelungen treffen. Die Befugnisse nach
 Teil 2 dieses Gesetzes und nach § 77a Absatz 1 und Absatz 2 bleiben
 unberührt.
 
-
 ### § 47 Bereitstellen von Teilnehmerdaten
 
 (1) Jedes Unternehmen, das öffentlich zugängliche
@@ -3556,7 +3448,6 @@ Regulierung nach Maßgabe des § 38 Abs. 2 bis 4. Ein solches Entgelt
 soll nur dann einer Genehmigungspflicht nach § 31 unterworfen werden,
 wenn das Unternehmen auf dem Markt für Endnutzerleistungen über eine
 beträchtliche Marktmacht verfügt.
-
 
 ### § 47a Schlichtung
 
@@ -3616,17 +3507,13 @@ zwischen dem Teilnehmer und dem Anbieter hinwirken.
 Schlichtungsverfahren in einer Schlichtungsordnung, die sie
 veröffentlicht.
 
-
 ### § 47b Abweichende Vereinbarungen
 
 Von den Vorschriften dieses Teils oder der auf Grund dieses Teils
 erlassenen Rechtsverordnungen darf, soweit nicht ein Anderes bestimmt
 ist, nicht zum Nachteil des Teilnehmers abgewichen werden.
 
-
 ## Teil 4 - Rundfunkübertragung
-
-
 
 ### § 48 Interoperabilität von Fernsehgeräten
 
@@ -3674,10 +3561,6 @@ Signale darstellen können,
     nur, sofern die mietvertraglichen Bestimmungen vom Mieter eingehalten
     werden.
 
-
-
-
-
 ### § 49 Interoperabilität der Übertragung digitaler Fernsehsignale
 
 (1) Betreiber öffentlicher Telekommunikationsnetze, die digitale
@@ -3711,7 +3594,6 @@ eine andere Umsetzungsfrist bestimmt. Zur Durchsetzung der Anordnung
 kann die Bundesnetzagentur nach Maßgabe des
 Verwaltungsvollstreckungsgesetzes ein Zwangsgeld bis zu 500.000 Euro
 festsetzen.
-
 
 ### § 50 Zugangsberechtigungssysteme
 
@@ -3799,7 +3681,6 @@ Für das Verfahren nach Satz 1 gelten die §§ 11 bis 14 Abs. 1
 entsprechend. Die Entscheidung nach Satz 1 überprüft die
 Bundesnetzagentur alle zwei Jahre.
 
-
 ### § 51 Streitschlichtung
 
 (1) Die durch die Bestimmungen dieses Teils Berechtigten oder
@@ -3822,14 +3703,9 @@ Einwendungen erhebt, trifft sie innerhalb des vorgegebenen Zeitrahmens
 eine entsprechende Entscheidung. Die beiden Entscheidungen können in
 einem zusammengefassten Verfahren erfolgen.
 
-
 ## Teil 5 - Vergabe von Frequenzen, Nummern und Wegerechten
 
-
-
 ### Abschnitt 1 - Frequenzordnung
-
-
 
 #### § 52 Aufgaben
 
@@ -3848,7 +3724,6 @@ Bundesministeriums der Verteidigung fallen, stellt das
 Bundesministerium für Wirtschaft und Technologie das Einvernehmen mit
 dem Bundesministerium der Verteidigung her.
 
-
 #### § 53 Frequenzzuweisung
 
 (1) Die Bundesregierung wird ermächtigt, die Frequenzzuweisungen für
@@ -3865,7 +3740,6 @@ Entwicklung zu berücksichtigen. Sind im Rahmen der Frequenzzuweisung
 auch Bestimmungen über Frequenznutzungen und darauf bezogene nähere
 Festlegungen betroffen, so sind Beschränkungen nur aus den in Artikel
 9 Absatz 3 und 4 der Richtlinie 2002/21/EG genannten Gründen zulässig.
-
 
 #### § 54 Frequenznutzung
 
@@ -3892,7 +3766,6 @@ werden dürfen und alle Arten von Telekommunikationsdiensten zulässig
 sind.
 
 (3) § 53 Absatz 2 gilt entsprechend.
-
 
 #### § 55 Frequenzzuteilung
 
@@ -4022,7 +3895,6 @@ Vergabeverfahren nach § 61 voranzugehen hat. Vor der Entscheidung sind
 die betroffenen Kreise anzuhören. Die Entscheidung der
 Bundesnetzagentur ist zu veröffentlichen.
 
-
 #### § 56 Orbitpositionen und Frequenznutzungen durch Satelliten
 
 (1) Natürliche oder juristische Personen mit Wohnsitz beziehungsweise
@@ -4059,7 +3931,6 @@ Bundesnetzagentur festzulegenden Bedingungen durchgeführt werden.
 (4) Die Übertragung kann widerrufen werden, wenn diese Rechte länger
 als ein Jahr nicht ausgeübt wurden oder die Voraussetzungen des
 Absatzes 2 Satz 3 nicht mehr erfüllt sind.
-
 
 #### § 57 Frequenzzuteilung für Rundfunk, Luftfahrt, Seeschifffahrt, Binnenschifffahrt und sicherheitsrelevante Funkanwendungen
 
@@ -4143,7 +4014,6 @@ Bundesnetzagentur und deren Eingriffsmöglichkeiten bleiben unberührt.
 Hafenfunkdienstes werden nur dann zugeteilt, wenn die Zustimmung der
 Wasser- und Schifffahrtsverwaltung vorliegt.
 
-
 #### § 58 Gemeinsame Frequenznutzung, Erprobung innovativer Technologien, kurzfristig auftretender Frequenzbedarf
 
 (1) Frequenzen, bei denen eine effiziente Nutzung durch einen
@@ -4162,10 +4032,7 @@ Rundfunk im Zuständigkeitsbereich der Länder betroffen, ist auf der
 Grundlage der rundfunkrechtlichen Festlegungen das Benehmen mit der
 zuständigen Landesbehörde herzustellen.
 
-
 #### § 59 (weggefallen)
-
-
 
 #### § 60 Bestandteile der Frequenzzuteilung
 
@@ -4201,7 +4068,6 @@ keinerlei Maßnahmen ergreifen, um Nachteilen zu begegnen.
 Zuständigkeitsbereich der Länder dienen, werden im Benehmen mit der
 zuständigen Landesbehörde mit Auflagen zugeteilt, die sicherstellen,
 dass die rundfunkrechtlichen Belange der Länder berücksichtigt werden.
-
 
 #### § 61 Vergabeverfahren
 
@@ -4289,7 +4155,6 @@ sicherzustellen. Diese Fristen lassen geltende internationale
 Vereinbarungen über die Nutzung von Frequenzen und die
 Satellitenkoordinierung unberührt.
 
-
 #### § 62 Flexibilisierung
 
 (1) Die Bundesnetzagentur kann nach Anhörung der betroffenen Kreise
@@ -4329,7 +4194,6 @@ Landesrecht zuständigen Stelle.
 abzüglich der Verwaltungskosten demjenigen zu, der seine
 Frequenznutzungsrechte Dritten überträgt oder zur Nutzung oder
 Mitbenutzung überlässt.
-
 
 #### § 63 Widerruf der Frequenzzuteilung, Verzicht
 
@@ -4400,7 +4264,6 @@ angemessene Frist von mindestens drei Monaten, frühestens jedoch der
 gegenüber der Bundesnetzagentur schriftlich unter genauer Bezeichnung
 der Frequenzzuteilung zu erklären.
 
-
 #### § 64 Überwachung, Anordnung der Außerbetriebnahme
 
 (1) Zur Sicherstellung der Frequenzordnung überwacht die
@@ -4423,7 +4286,6 @@ Geräten anordnen. Zur Durchsetzung dieser Anordnungen kann nach
 Maßgabe des Verwaltungsvollstreckungsgesetzes ein Zwangsgeld bis zu
 500\.000 Euro festgesetzt werden.
 
-
 #### § 65 Einschränkung der Frequenzzuteilung
 
 Die Nutzung der zugeteilten Frequenzen kann vorübergehend
@@ -4434,10 +4296,7 @@ Zusammenarbeit mit den Vereinten Nationen, im Rahmen internationaler
 Vereinbarungen zur Notfallbewältigung oder bei Naturkatastrophen und
 besonders schweren Unglücksfällen benötigt werden.
 
-
 ### Abschnitt 2 - Nummerierung
-
-
 
 #### § 66 Nummerierung
 
@@ -4495,7 +4354,6 @@ Gebietskörperschaften identische Namen auf, liegt die
 Entscheidungsbefugnis bei der Gebietskörperschaft, die nach der
 Verkehrsauffassung die größte Bedeutung hat.
 
-
 #### § 66a Preisangabe
 
 Wer gegenüber Endnutzern Premium-Dienste, Auskunftsdienste,
@@ -4521,7 +4379,6 @@ abweichen. Bei Telefax-Diensten ist zusätzlich die Zahl der zu
 soweit möglich, der Umfang der zu übermittelnden Daten anzugeben, es
 sei denn, die Menge der zu übermittelnden Daten hat keine Auswirkung
 auf die Höhe des Preises für den Endnutzer.
-
 
 #### § 66b Preisansage
 
@@ -4573,7 +4430,6 @@ diesen Nummernbereich betreffen, ein solches Verfahren erforderlich
 machen. Die Festlegungen sind von der Bundesnetzagentur zu
 veröffentlichen.
 
-
 #### § 66c Preisanzeige
 
 (1) Für Kurzwahl-Datendienste hat außer im Falle des § 45l derjenige,
@@ -4592,7 +4448,6 @@ Endkunde vor Inanspruchnahme der Dienstleistung gegenüber dem
 Verpflichteten nach Absatz 1 durch ein geeignetes Verfahren
 legitimiert. Die Einzelheiten regelt und veröffentlicht die
 Bundesnetzagentur.
-
 
 #### § 66d Preishöchstgrenzen
 
@@ -4639,7 +4494,6 @@ Höchstpreis für Auslandsanrufe in andere oder aus anderen
 Mitgliedstaaten vergleichbar sein. Die Einzelheiten regelt die
 Bundesnetzagentur durch Verfügung im Amtsblatt.
 
-
 #### § 66e Verbindungstrennung
 
 (1) Der Diensteanbieter, bei dem die Rufnummer für Premium-Dienste
@@ -4654,7 +4508,6 @@ gegenüber dem Diensteanbieter durch ein geeignetes Verfahren
 legitimiert. Die Einzelheiten regelt die Bundesnetzagentur. Sie kann
 durch Verfügung die Einzelheiten der zulässigen Verfahren zur
 Verbindungstrennung festlegen.
-
 
 #### § 66f Anwählprogramme (Dialer)
 
@@ -4689,11 +4542,9 @@ falsche Angaben erwirkt hat. Im Falle von Satz 1 teilt die
 Bundesnetzagentur ihre Erkenntnisse den für den Vollzug der
 Gewerbeordnung zuständigen Stellen mit.
 
-
 #### § 66g (zukünftig in Kraft)
 
 Tritt am 1.6.2013 in Kraft
-
 
 #### § 66h Wegfall des Entgeltanspruchs
 
@@ -4732,10 +4583,6 @@ und soweit
 7.  nach Maßgabe des § 66i Abs. 2 ein Tag nach Eintrag in die Sperr-Liste
     ein R-Gespräch zum gesperrten Anschluss erfolgt.
 
-
-
-
-
 #### § 66i Auskunftsanspruch, Datenbank für (0)900er Rufnummern
 
 (1) Jeder, der ein berechtigtes Interesse daran hat, kann in Textform
@@ -4771,7 +4618,6 @@ nach Eingang der in Textform gestellten Anfrage erteilt werden. Die
 Auskunftsverpflichteten haben die Angabe bei ihren Kunden zu erheben
 und aktuell zu halten.
 
-
 #### § 66j R-Gespräche
 
 (1) Auf Grund von Telefonverbindungen, bei denen dem Angerufenen das
@@ -4789,7 +4635,6 @@ kostenpflichtig sein. Der Anbieter übermittelt den Endkundenwunsch
 sowie etwaig erforderliche Streichungen wegen Wegfalls der
 abgeleiteten Zuteilung. Die Bundesnetzagentur stellt die Sperr-Liste
 Anbietern von R-Gesprächsdiensten zum Abruf bereit.
-
 
 #### § 66k Rufnummernübermittlung
 
@@ -4813,13 +4658,11 @@ Dienste oder Premium-Dienste sowie Nummern für Kurzwahl-Sprachdienste
 dürfen von Teilnehmern nicht als zusätzliche Rufnummer aufgesetzt und
 in das öffentliche Telekommunikationsnetz übermittelt werden.
 
-
 #### § 66l Internationaler entgeltfreier Telefondienst
 
 Anrufe bei (00)800er-Rufnummern müssen für den Anrufer unentgeltlich
 sein. Die Erhebung eines Entgelts für die Inanspruchnahme eines
 Endgerätes bleibt unbenommen.
-
 
 #### § 66m Umgehungsverbot
 
@@ -4827,7 +4670,6 @@ Die Vorschriften der §§ 66a bis 66l oder die auf Grund des § 45n
 Absatz 4 Nummer 1 im Rahmen einer Rechtsverordnung erlassenen
 Regelungen sind auch dann anzuwenden, wenn versucht wird, sie durch
 anderweitige Gestaltungen zu umgehen.
-
 
 #### § 67 Befugnisse der Bundesnetzagentur
 
@@ -4890,10 +4732,7 @@ bleiben unberührt.
 Straftat oder einer Ordnungswidrigkeit begründen, der
 Staatsanwaltschaft oder der Verwaltungsbehörde mit.
 
-
 ### Abschnitt 3 - Wegerechte
-
-
 
 #### § 68 Grundsatz der Benutzung öffentlicher Wege
 
@@ -4958,7 +4797,6 @@ Verwaltungseinheit zu erteilen, die unabhängig von der für den Betrieb
 der Telekommunikationslinie bzw. der für die Wahrnehmung der
 Gesellschaftsrechte zuständigen Verwaltungseinheit ist.
 
-
 #### § 69 Übertragung des Wegerechts
 
 (1) Der Bund überträgt die Nutzungsberechtigung nach § 68 Abs. 1 durch
@@ -4982,7 +4820,6 @@ Bundesnetzagentur stellt diese Informationen den Wegebaulastträgern
 zur Verfügung. Für Schäden, die daraus entstehen, dass Änderungen
 nicht rechtzeitig mitgeteilt wurden, haftet der Nutzungsberechtigte.
 
-
 #### § 70 Mitbenutzung
 
 Soweit die Ausübung des Rechts nach § 68 für die Verlegung weiterer
@@ -4994,7 +4831,6 @@ zumutbar ist und keine zusätzlichen größeren Baumaßnahmen erforderlich
 werden. In diesem Fall hat der Mitbenutzungsberechtigte an den
 Mitbenutzungsverpflichteten einen angemessenen geldwerten Ausgleich zu
 leisten.
-
 
 #### § 71 Rücksichtnahme auf Wegeunterhaltung und Widmungszweck
 
@@ -5014,7 +4850,6 @@ dem Unterhaltungspflichtigen die Auslagen für die von ihm vorgenommene
 Instandsetzung zu vergüten und den durch die Arbeiten an den
 Telekommunikationslinien entstandenen Schaden zu ersetzen.
 
-
 #### § 72 Gebotene Änderung
 
 (1) Ergibt sich nach Errichtung einer Telekommunikationslinie, dass
@@ -5030,7 +4865,6 @@ Nutzungsberechtigten zu seiner Benutzung.
 
 (3) In allen diesen Fällen hat der Nutzungsberechtigte die gebotenen
 Maßnahmen an der Telekommunikationslinie auf seine Kosten zu bewirken.
-
 
 #### § 73 Schonung der Baumpflanzungen
 
@@ -5051,7 +4885,6 @@ dringliche Verhütung oder Beseitigung einer Störung handelt.
 (3) Der Nutzungsberechtigte ersetzt den an den Baumpflanzungen
 verursachten Schaden und die Kosten der auf sein Verlangen
 vorgenommenen Ausästungen.
-
 
 #### § 74 Besondere Anlagen
 
@@ -5085,7 +4918,6 @@ ausgearbeiteten Planes die Genehmigung des Auftraggebers und, soweit
 erforderlich, die Genehmigung der zuständigen Behörden und des
 Eigentümers oder des sonstigen zur Nutzung Berechtigten des in
 Anspruch genommenen Weges erhalten haben.
-
 
 #### § 75 Spätere besondere Anlagen
 
@@ -5126,7 +4958,6 @@ erforderlichen Schutzvorkehrungen erwachsenden Kosten zu tragen.
 (6) Auf spätere Änderungen vorhandener besonderer Anlagen finden die
 Absätze 1 bis 5 entsprechende Anwendung.
 
-
 #### § 76 Beeinträchtigung von Grundstücken und Gebäuden
 
 (1) Der Eigentümer eines Grundstücks, das kein Verkehrsweg im Sinne
@@ -5166,13 +4997,11 @@ Eigentümer des Leitungsnetzes auf seine Kosten den Schaden zu
 beseitigen. § 840 Abs. 1 des Bürgerlichen Gesetzbuchs findet
 Anwendung.
 
-
 #### § 77 Ersatzansprüche
 
 Die Verjährung der auf den §§ 70 bis 76 beruhenden Ansprüche richtet
 sich nach den Regelungen über die regelmäßige Verjährung nach dem
 Bürgerlichen Gesetzbuch.
-
 
 #### § 77a Gemeinsame Nutzung von Infrastrukturen durch Betreiber öffentlicher Telekommunikationsnetze
 
@@ -5229,7 +5058,6 @@ Betriebs- und Geschäftsgeheimnisse zu wahren.
 Absätzen 1 bis 3 müssen objektiv, transparent und verhältnismäßig sein
 und dürfen nicht diskriminieren.
 
-
 #### § 77b Alternative Infrastrukturen
 
 (1) Unternehmen und juristische Personen des öffentlichen Rechts, die
@@ -5256,7 +5084,6 @@ beiderseitigen Interessen eine Entscheidung (Schlichterspruch). Die
 Beteiligten sind zur Annahme des Schlichterspruchs nicht verpflichtet.
 Im Übrigen gilt für das Schlichtungsverfahren die Schlichtungsordnung
 der Bundesnetzagentur entsprechend.
-
 
 #### § 77c Mitnutzung von Bundesfernstraßen in der Baulast des Bundes
 
@@ -5286,7 +5113,6 @@ der Bundesnetzagentur die für die Bearbeitung des Mitnutzungsantrags
 nach Absatz 1 zuständige Stelle mit. Die Bundesnetzagentur
 veröffentlicht diese Angaben im Amtsblatt und auf ihrer Internetseite.
 
-
 #### § 77d Mitnutzung von Bundeswasserstraßen
 
 (1) Der Bund als Eigentümer der Bundeswasserstraßen hat auf
@@ -5313,7 +5139,6 @@ gilt das Verfahren nach § 133 Absatz 1 und 4 entsprechend.
 der Bundesnetzagentur die für die Bearbeitung des Mitnutzungsantrags
 nach Absatz 1 zuständige Stelle mit. Die Bundesnetzagentur
 veröffentlicht diese Angaben im Amtsblatt und auf ihrer Internetseite.
-
 
 #### § 77e Mitnutzung von Eisenbahninfrastruktur
 
@@ -5345,10 +5170,7 @@ der Bundesnetzagentur die für Mitnutzungsanfragen nach Absatz 1
 zuständige Stelle mit. Die Bundesnetzagentur veröffentlicht diese
 Angaben im Amtsblatt und auf ihrer Internetseite.
 
-
 ## Teil 6 - Universaldienst
-
-
 
 ### § 78 Universaldienstleistungen
 
@@ -5417,7 +5239,6 @@ für Teile oder das gesamte Hoheitsgebiet absehen, wenn eine Anhörung
 der betroffenen Kreise ergibt, dass diese Dienstemerkmale oder
 vergleichbare Dienste als weithin verfügbar erachtet werden.
 
-
 ### § 79 Erschwinglichkeit der Entgelte
 
 (1) Der Preis für die Universaldienstleistung nach § 78 Absatz 2
@@ -5433,7 +5254,6 @@ Vorjahres festgestellte Produktivitätsfortschrittsrate berücksichtigt.
 als erschwinglich, wenn die Entgelte den Maßstäben des § 28
 entsprechen.
 
-
 ### § 80 Verpflichtung zur Erbringung des Universaldienstes
 
 Wird eine Universaldienstleistung nach § 78 durch den Markt nicht
@@ -5446,7 +5266,6 @@ relevanten Markt über eine beträchtliche Marktmacht verfügt,
 verpflichtet, dazu beizutragen, dass der Universaldienst erbracht
 werden kann. Die Verpflichtung nach Satz 1 ist nach Maßgabe der
 Bestimmungen dieses Abschnitts zu erfüllen.
-
 
 ### § 81 Auferlegung von Universaldienstverpflichtungen
 
@@ -5493,7 +5312,6 @@ ermittelt, verpflichtet die Bundesnetzagentur das nach Absatz 2
 ermittelte Unternehmen, die Universaldienstleistung nach Maßgabe
 dieses Gesetzes zu erbringen.
 
-
 ### § 82 Ausgleich für Universaldienstleistungen
 
 (1) Wird ein Unternehmen nach § 81 Abs. 3 verpflichtet, eine
@@ -5529,7 +5347,6 @@ veröffentlichen.
 Defizit bei der Erbringung der Universaldienstleistung entsteht,
 gewährt.
 
-
 ### § 83 Universaldienstleistungsabgabe
 
 (1) Gewährt die Bundesnetzagentur einen Ausgleich nach § 82 für die
@@ -5562,7 +5379,6 @@ der Abgabe mehr als drei Monate im Rückstand, erlässt die
 Bundesnetzagentur einen Feststellungsbescheid über die rückständigen
 Beträge der Abgabe und betreibt die Einziehung.
 
-
 ### § 84 Verfügbarkeit, Entbündelung und Qualität von Universaldienstleistungen
 
 (1) Soweit Unternehmen Universaldienstleistungen erbringen, haben
@@ -5582,7 +5398,6 @@ Universaldienstes mitzuteilen und zu veröffentlichen. Dabei werden die
 Parameter, Definitionen und Messverfahren für die Dienstqualität
 zugrunde gelegt, die in Anhang III der Richtlinie 2002/22/EG dargelegt
 sind.
-
 
 ### § 85 Leistungseinstellungen
 
@@ -5611,10 +5426,6 @@ Universaldienstleistungen rechtfertigen, sind
 
 4.  der Datenschutz.
 
-
-
-
-
 ### § 86 Sicherheitsleistungen
 
 (1) Anbieter von öffentlich zugänglichen Telekommunikationsdiensten,
@@ -5638,7 +5449,6 @@ Grundpreises anzusehen. Eine Anforderung höherer Beiträge ist
 gegenüber dem Endnutzer anhand der Umstände seines Einzelfalles zu
 begründen.
 
-
 ### § 87 Umsatzmeldungen
 
 (1) Ist eine Universaldienstleistung nach § 81 Abs. 3 oder 5
@@ -5658,14 +5468,9 @@ Universaldienstverpflichtung und die Beiträge aller Unternehmen
 aufgeführt sind und in dem die etwaigen Marktvorteile des benannten
 Unternehmens dargelegt werden.
 
-
 ## Teil 7 - Fernmeldegeheimnis, Datenschutz, Öffentliche Sicherheit
 
-
-
 ### Abschnitt 1 - Fernmeldegeheimnis
-
-
 
 #### § 88 Fernmeldegeheimnis
 
@@ -5697,7 +5502,6 @@ oder Luftfahrzeugs, so besteht die Pflicht zur Wahrung des
 Geheimnisses nicht gegenüber der Person, die das Fahrzeug führt oder
 gegenüber ihrer Stellvertretung.
 
-
 #### § 89 Abhörverbot, Geheimhaltungspflicht der Betreiber von Empfangsanlagen
 
 Mit einer Funkanlage dürfen nur Nachrichten, die für den Betreiber der
@@ -5710,7 +5514,6 @@ von Personen, für die eine Pflicht zur Geheimhaltung nicht schon nach
 § 88 besteht, anderen nicht mitgeteilt werden. § 88 Abs. 4 gilt
 entsprechend. Das Abhören und die Weitergabe von Nachrichten auf Grund
 besonderer gesetzlicher Ermächtigung bleiben unberührt.
-
 
 #### § 90 Missbrauch von Sende- oder sonstigen Telekommunikationsanlagen
 
@@ -5785,10 +5588,7 @@ Telekommunikationsanlagen mit dem Hinweis zu werben, dass sie geeignet
 sind, das nicht öffentlich gesprochene Wort eines anderen von diesem
 unbemerkt abzuhören oder dessen Bild von diesem unbemerkt aufzunehmen.
 
-
 ### Abschnitt 2 - Datenschutz
-
-
 
 #### § 91 Anwendungsbereich
 
@@ -5809,10 +5609,7 @@ gilt dieser Abschnitt mit der Maßgabe, dass an die Stelle des
 Bundesdatenschutzgesetzes die jeweiligen Landesdatenschutzgesetze
 treten.
 
-
 #### § 92 (weggefallen)
-
-
 
 #### § 93 Informationspflichten
 
@@ -5838,7 +5635,6 @@ voraussichtlich entstehenden Kosten, zu unterrichten.
 haben die betroffenen Teilnehmer oder Personen die Rechte aus § 109a
 Absatz 1 Satz 2 in Verbindung mit Absatz 2.
 
-
 #### § 94 Einwilligung im elektronischen Verfahren
 
 Die Einwilligung kann auch elektronisch erklärt werden, wenn der
@@ -5857,10 +5653,6 @@ Diensteanbieter sicherstellt, dass
 
 4.  der Teilnehmer oder Nutzer die Einwilligung jederzeit mit Wirkung für
     die Zukunft widerrufen kann.
-
-
-
-
 
 #### § 95 Vertragsverhältnisse
 
@@ -5914,7 +5706,6 @@ andere Zwecke abhängig gemacht werden, wenn dem Teilnehmer ein anderer
 Zugang zu diesen Telekommunikationsdiensten ohne die Einwilligung
 nicht oder in nicht zumutbarer Weise möglich ist. Eine unter solchen
 Umständen erteilte Einwilligung ist unwirksam.
-
 
 #### § 96 Verkehrsdaten
 
@@ -5972,7 +5763,6 @@ welche Datenarten für die in Absatz 3 Satz 1 genannten Zwecke
 verarbeitet werden sollen und wie lange sie gespeichert werden sollen.
 Außerdem ist der Teilnehmer darauf hinzuweisen, dass er die
 Einwilligung jederzeit widerrufen kann.
-
 
 #### § 97 Entgeltermittlung und Entgeltabrechnung
 
@@ -6037,7 +5827,6 @@ Bestands- und Verkehrsdaten übermitteln, soweit diese im Einzelfall
 für die Durchsetzung der Forderungen des Dritten gegenüber seinem
 Teilnehmer erforderlich sind.
 
-
 #### § 98 Standortdaten
 
 (1) Standortdaten, die in Bezug auf die Nutzer von öffentlichen
@@ -6082,7 +5871,6 @@ erforderliche Maß sowie auf Personen beschränkt werden, die im Auftrag
 des Betreibers des öffentlichen Telekommunikationsnetzes oder
 öffentlich zugänglichen Telekommunikationsdienstes oder des Dritten,
 der den Dienst mit Zusatznutzen anbietet, handeln.
-
 
 #### § 99 Einzelverbindungsnachweis
 
@@ -6148,7 +5936,6 @@ Karte aus technischen Gründen nicht möglich oder für den
 Kartenemittenten unzumutbar ist, muss der Teilnehmer eine Erklärung
 nach Absatz 1 Satz 3 oder Satz 4 abgegeben haben.
 
-
 #### § 100 Störungen von Telekommunikationsanlagen und Missbrauch von Telekommunikationsdiensten
 
 (1) Soweit erforderlich, darf der Diensteanbieter zum Erkennen,
@@ -6203,7 +5990,6 @@ ist die Bundesnetzagentur in Kenntnis zu setzen. Die Betroffenen sind
 zu benachrichtigen, sobald dies ohne Gefährdung des Zwecks der
 Maßnahmen möglich ist.
 
-
 #### § 101 Mitteilen ankommender Verbindungen
 
 (1) Trägt ein Teilnehmer in einem zu dokumentierenden Verfahren
@@ -6245,7 +6031,6 @@ Auskunftserteilung zu unterrichten.
 (5) Die Bundesnetzagentur sowie der oder die Bundesbeauftragte für den
 Datenschutz sind über die Einführung und Änderung des Verfahrens zur
 Sicherstellung der Absätze 1 bis 4 unverzüglich in Kenntnis zu setzen.
-
 
 #### § 102 Rufnummernanzeige und -unterdrückung
 
@@ -6296,7 +6081,6 @@ oder 110 oder der Rufnummer 124 124 oder 116 117 erreicht werden, hat
 der Diensteanbieter sicherzustellen, dass nicht im Einzelfall oder
 dauernd die Anzeige von Nummern der Anrufenden ausgeschlossen wird.
 
-
 #### § 103 Automatische Anrufweiterschaltung
 
 Der Diensteanbieter ist verpflichtet, seinen Teilnehmern die
@@ -6305,7 +6089,6 @@ automatische Weiterschaltung auf sein Endgerät auf einfache Weise und
 unentgeltlich abzustellen, soweit dies technisch möglich ist. Satz 1
 gilt nicht für Diensteanbieter, die als Anbieter für geschlossene
 Benutzergruppen ihre Dienste nur ihren Teilnehmern anbieten.
-
 
 #### § 104 Teilnehmerverzeichnisse
 
@@ -6316,7 +6099,6 @@ sie dies beantragen. Dabei können die Teilnehmer bestimmen, welche
 Angaben in den Verzeichnissen veröffentlicht werden sollen. Auf
 Verlangen des Teilnehmers dürfen Mitbenutzer eingetragen werden,
 soweit diese damit einverstanden sind.
-
 
 #### § 105 Auskunftserteilung
 
@@ -6347,7 +6129,6 @@ zumutbarer Weise Kenntnis darüber erlangen konnten, dass der
 Widerspruch oder die Einwilligung in den Verzeichnissen des
 Diensteanbieters und des Anbieters nach Absatz 1 vermerkt ist.
 
-
 #### § 106 Telegrammdienst
 
 (1) Daten und Belege über die betriebliche Bearbeitung und Zustellung
@@ -6369,7 +6150,6 @@ Diensteanbieter zu löschen.
 auf den Monat der Telegrammaufgabe folgt. Die Löschung darf
 unterbleiben, solange die Verfolgung von Ansprüchen oder eine
 internationale Vereinbarung eine längere Speicherung erfordert.
-
 
 #### § 107 Nachrichtenübermittlungssysteme mit Zwischenspeicherung
 
@@ -6413,10 +6193,7 @@ dem angestrebten Schutzzweck steht. Soweit es im Hinblick auf den
 angestrebten Schutzzweck erforderlich ist, sind die Maßnahmen dem
 jeweiligen Stand der Technik anzupassen.
 
-
 ### Abschnitt 3 - Öffentliche Sicherheit
-
-
 
 #### § 108 Notruf
 
@@ -6549,7 +6326,6 @@ dieser Richtlinie gestaltete mängelfreie technische Einrichtungen
 müssen im Falle einer Änderung der Richtlinie spätestens drei Jahre
 nach deren Inkrafttreten die geänderten Anforderungen erfüllen.
 
-
 #### § 109 Technische Schutzmaßnahmen
 
 (1) Jeder Diensteanbieter hat erforderliche technische Vorkehrungen
@@ -6679,7 +6455,6 @@ hat eine Kopie des Überprüfungsberichts unverzüglich an die
 Bundesnetzagentur zu übermitteln. Er trägt die Kosten dieser
 Überprüfung.
 
-
 #### § 109a Datensicherheit
 
 (1) Wer öffentlich zugängliche Telekommunikationsdienste erbringt, hat
@@ -6751,7 +6526,6 @@ Bundesnetzagentur Leitlinien vorgeben bezüglich des Formats, der
 Verfahrensweise und der Umstände, unter denen eine Benachrichtigung
 über eine Verletzung des Schutzes personenbezogener Daten erforderlich
 ist.
-
 
 #### § 110 Umsetzung von Überwachungsmaßnahmen, Erteilung von Auskünften
 
@@ -6973,7 +6747,6 @@ angemessener Frist zu äußern.
 
 (9) (weggefallen)
 
-
 #### § 111 Daten für Auskunftsersuchen der Sicherheitsbehörden
 
 (1) Wer geschäftsmäßig Telekommunikationsdienste erbringt oder daran
@@ -7041,7 +6814,6 @@ Vertragsverhältnisses folgenden Kalenderjahres zu löschen.
 
 (5) Eine Entschädigung für die Datenerhebung und -speicherung wird
 nicht gewährt.
-
 
 #### § 112 Automatisiertes Auskunftsverfahren
 
@@ -7233,7 +7005,6 @@ nach Maßgaben der Rechtsverordnung und der Technischen Richtlinie nach
 Absatz 3. Eine Entschädigung für im automatisierten Verfahren erteilte
 Auskünfte wird den Verpflichteten nicht gewährt.
 
-
 #### § 113 Manuelles Auskunftsverfahren
 
 (1) Wer geschäftsmäßig Telekommunikationsdienste erbringt oder daran
@@ -7271,7 +7042,6 @@ des Justizvergütungs- und -entschädigungsgesetzes bemisst; die
 Vorschriften über die Verjährung in § 2 Absatz 1 und 4 des
 Justizvergütungs- und -entschädigungsgesetzes finden entsprechend
 Anwendung.
-
 
 #### § 113a Speicherungspflichten für Daten
 
@@ -7415,7 +7185,6 @@ dieser Vorschrift gespeicherten Daten innerhalb eines Monats nach
 Ablauf der in Absatz 1 genannten Frist zu löschen oder die Löschung
 sicherzustellen.
 
-
 #### § 113b Verwendung der nach § 113a gespeicherten Daten
 
 Der nach § 113a Verpflichtete darf die allein auf Grund der
@@ -7441,7 +7210,6 @@ für andere Zwecke mit Ausnahme einer Auskunftserteilung nach § 113
 darf er die Daten nicht verwenden. § 113 Abs. 1 Satz 4 gilt
 entsprechend.
 
-
 #### § 114 Auskunftsersuchen des Bundesnachrichtendienstes
 
 (1) Wer öffentlich zugängliche Telekommunikationsdienste erbringt oder
@@ -7458,7 +7226,6 @@ Ersuchen des Bundesnachrichtendienstes vorliegt und soweit die
 Auskunft zur Erfüllung der Aufgaben nach den §§ 5 und 8 des Artikel
 10-Gesetzes erforderlich ist. Die Verwendung einer nach dieser
 Vorschrift erlangten Auskunft zu anderen Zwecken ist ausgeschlossen.
-
 
 #### § 115 Kontrolle und Durchsetzung von Verpflichtungen
 
@@ -7523,21 +7290,15 @@ seiner Kontrolle.
 eingeschränkt, soweit dies die Kontrollen nach Absatz 1 oder 4
 erfordern.
 
-
 ## Teil 8 - Bundesnetzagentur
 
-
-
 ### Abschnitt 1 - Organisation
-
-
 
 #### § 116 Aufgaben und Befugnisse
 
 Die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post
 und Eisenbahnen nimmt die ihr nach diesem Gesetz zugewiesenen Aufgaben
 und Befugnisse wahr.
-
 
 #### § 117 Veröffentlichung von Weisungen des Bundesministeriums für Wirtschaft und Technologie
 
@@ -7548,16 +7309,13 @@ Wirtschaft und Technologie auf Grund dieses Gesetzes oder anderer
 Gesetze in eigener Zuständigkeit wahrzunehmen sind und mit deren
 Erfüllung es die Bundesnetzagentur beauftragt hat.
 
-
 #### § 118
 
 (weggefallen)
 
-
 #### § 119
 
 (weggefallen)
-
 
 #### § 120 Aufgaben des Beirates
 
@@ -7591,10 +7349,6 @@ folgende Aufgaben:
 6.  Der Beirat ist bei der Aufstellung des Frequenzplanes nach § 54
     anzuhören.
 
-
-
-
-
 #### § 121 Tätigkeitsbericht
 
 (1) Die Bundesnetzagentur legt den gesetzgebenden Körperschaften des
@@ -7627,7 +7381,6 @@ entsprechend.
 gesetzgebenden Körperschaften des Bundes in angemessener Frist
 Stellung.
 
-
 #### § 122 Jahresbericht
 
 (1) Die Bundesnetzagentur veröffentlicht einmal jährlich einen Bericht
@@ -7646,7 +7399,6 @@ darauf folgenden Jahresbericht zu veröffentlichen.
 
 (3) Die Bundesnetzagentur veröffentlicht fortlaufend ihre
 Verwaltungsgrundsätze.
-
 
 #### § 123 Zusammenarbeit mit anderen Behörden auf nationaler Ebene
 
@@ -7673,7 +7425,6 @@ zusammen. Auf Anfrage übermittelt sie den Landesmedienanstalten
 Erkenntnisse, die für die Erfüllung von deren Aufgaben erforderlich
 sind.
 
-
 #### § 123a Zusammenarbeit mit anderen Behörden auf der Ebene der Europäischen Union
 
 (1) Die Bundesnetzagentur arbeitet mit den nationalen
@@ -7693,7 +7444,6 @@ Artikel 19 Absatz 1 und 2 der Richtlinie 2002/21/EG erlässt.
 Beschließt die Bundesnetzagentur, sich nicht an eine solche Empfehlung
 zu halten, so teilt sie dies der Kommission unter Angabe ihrer Gründe
 mit.
-
 
 #### § 123b Bereitstellung von Informationen
 
@@ -7728,14 +7478,12 @@ dass die Informationen, die sie der Kommission bereitstellt, Behörden
 anderer Mitgliedstaaten nicht zur Verfügung gestellt werden. Der
 Antrag ist zu begründen.
 
-
 #### § 124 Mediation
 
 Die Bundesnetzagentur kann in geeigneten Fällen zur Beilegung
 telekommunikationsrechtlicher Streitigkeiten den Parteien einen
 einvernehmlichen Einigungsversuch vor einer Gütestelle
 (Mediationsverfahren) vorschlagen.
-
 
 #### § 125 Wissenschaftliche Beratung
 
@@ -7762,13 +7510,7 @@ insbesondere
     offenen Netzzugang und die Zusammenschaltung sowie die Nummerierung
     und den Kundenschutz.
 
-
-
-
-
 ### Abschnitt 2 - Befugnisse
-
-
 
 #### § 126 Untersagung
 
@@ -7805,7 +7547,6 @@ bestätigt, aufgehoben oder abgeändert wird.
 (5) Zur Durchsetzung der Anordnungen nach Absatz 2 kann nach Maßgabe
 des Verwaltungsvollstreckungsgesetzes ein Zwangsgeld bis zu 500 000
 Euro festgesetzt werden.
-
 
 #### § 127 Auskunftsverlangen
 
@@ -7936,7 +7677,6 @@ einschließlich ihrer Auslagen für Sachverständige zu erstatten.
 Verwaltungsvollstreckungsgesetzes ein Zwangsgeld bis zu 500 000 Euro
 festgesetzt werden.
 
-
 #### § 128 Ermittlungen
 
 (1) Die Bundesnetzagentur kann alle Ermittlungen führen und alle
@@ -7970,7 +7710,6 @@ Zeugen ersuchen, wenn sie die Beeidigung zur Herbeiführung einer
 wahrheitsgemäßen Aussage für notwendig erachtet. Über die Beeidigung
 entscheidet das Gericht.
 
-
 #### § 129 Beschlagnahme
 
 (1) Die Bundesnetzagentur kann Gegenstände, die als Beweismittel für
@@ -7993,12 +7732,10 @@ richterliche Entscheidung nachsuchen. Hierüber sind sie zu belehren.
 Die §§ 306 bis 310 und 311a der Strafprozessordnung gelten
 entsprechend.
 
-
 #### § 130 Vorläufige Anordnungen
 
 Die Bundesnetzagentur kann bis zur endgültigen Entscheidung vorläufige
 Anordnungen treffen.
-
 
 #### § 131 Abschluss des Verfahrens
 
@@ -8020,14 +7757,9 @@ ist seine Beendigung den Beteiligten schriftlich mitzuteilen.
 (3) Die Bundesnetzagentur kann die Kosten einer Beweiserhebung den
 Beteiligten nach billigem Ermessen auferlegen.
 
-
 ### Abschnitt 3 - Verfahren
 
-
-
 #### Unterabschnitt 1 - Beschlusskammern
-
-
 
 ##### § 132 Beschlusskammerentscheidungen
 
@@ -8068,7 +7800,6 @@ Satz 3 betroffen sind, ist in der Geschäftsordnung sicherzustellen,
 dass Festlegungen nach den §§ 10 und 11 durch die Präsidentenkammer
 erfolgen.
 
-
 ##### § 133 Sonstige Streitigkeiten zwischen Unternehmen
 
 (1) Ergeben sich im Zusammenhang mit Verpflichtungen aus diesem Gesetz
@@ -8108,7 +7839,6 @@ Stellungnahme abgegeben hat. § 130 bleibt hiervon unberührt.
 
 (4) Die §§ 126 bis 132 und 134 bis 137 gelten entsprechend.
 
-
 ##### § 134 Einleitung, Beteiligte
 
 (1) Die Beschlusskammer leitet ein Verfahren von Amts wegen oder auf
@@ -8128,10 +7858,6 @@ Antrag ein.
     Entscheidung berührt werden und die die Bundesnetzagentur auf ihren
     Antrag zu dem Verfahren beigeladen hat.
 
-
-
-
-
 ##### § 135 Anhörung, mündliche Verhandlung
 
 (1) Die Beschlusskammer hat den Beteiligten Gelegenheit zur
@@ -8150,7 +7876,6 @@ Amts wegen ist für die Verhandlung oder für einen Teil davon die
 Gefährdung eines wichtigen Betriebs- oder Geschäftsgeheimnisses
 besorgen lässt.
 
-
 ##### § 136 Betriebs- oder Geschäftsgeheimnisse
 
 Unverzüglich nach der Vorlage von Unterlagen im Rahmen des
@@ -8166,10 +7891,7 @@ Unterlagen als Betriebs- oder Geschäftsgeheimnisse für unberechtigt,
 so muss sie vor der Entscheidung über die Gewährung von Einsichtnahme
 an Dritte die vorlegenden Personen hören.
 
-
 #### Unterabschnitt 2 - Gerichtsverfahren
-
-
 
 ##### § 137 Rechtsmittel
 
@@ -8189,7 +7911,6 @@ den Rechtsweg nach § 17a Abs. 2 und 3 des Gerichtsverfassungsgesetzes.
 Auf die Beschwerde gegen die Beschlüsse über den Rechtsweg findet §
 17a Abs. 4 Satz 4 bis 6 des Gerichtsverfassungsgesetzes entsprechende
 Anwendung.
-
 
 ##### § 138 Vorlage- und Auskunftspflicht der Bundesnetzagentur
 
@@ -8232,7 +7953,6 @@ Bundesverwaltungsgericht gegeben. Über die Beschwerde entscheidet der
 für die Hauptsache zuständige Revisionssenat. Absatz 2 Satz 3 und 4
 und Absatz 3 Satz 2 gelten sinngemäß.
 
-
 ##### § 138a Informationssystem zu eingelegten Rechtsbehelfen
 
 Die Bundesnetzagentur erhebt zu den gegen ihre Entscheidungen
@@ -8251,7 +7971,6 @@ eingelegten Rechtsbehelfen die folgenden Informationen:
 Sie stellt diese Informationen der Kommission und dem GEREK auf deren
 begründete Anfrage zur Verfügung.
 
-
 ##### § 139 Beteiligung der Bundesnetzagentur bei bürgerlichen Rechtsstreitigkeiten
 
 Für bürgerliche Rechtsstreitigkeiten, die sich aus diesem Gesetz
@@ -8261,10 +7980,7 @@ Stelle des Bundeskartellamtes und seines Präsidenten oder seiner
 Präsidentin die Bundesnetzagentur und ihr Präsident oder ihre
 Präsidentin.
 
-
 #### Unterabschnitt 3 - Internationale Aufgaben
-
-
 
 ##### § 140 Internationale Aufgaben
 
@@ -8287,7 +8003,6 @@ nach Absatz 1 Satz 2 in eigener Zuständigkeit wahrnimmt, finden die
 Sätze 1 und 2 keine Anwendung, soweit zwingende Vorschriften die
 vertrauliche Behandlung von Informationen fordern.
 
-
 ##### § 141 Anerkannte Abrechnungsstelle für den Seefunkverkehr
 
 Zuständige Behörde für die Anerkennung von Abrechnungsstellen für den
@@ -8295,10 +8010,7 @@ internationalen Seefunkverkehr nach den Anforderungen der
 Internationalen Fernmeldeunion im Geltungsbereich dieses Gesetzes ist
 die Bundesnetzagentur.
 
-
 ## Teil 9 - Abgaben
-
-
 
 ### § 142 Gebühren und Auslagen
 
@@ -8437,7 +8149,6 @@ abdeckende Gebühren und Auslagen für die Erteilung von
 Zustimmungsbescheiden nach § 68 Abs. 3 zur Nutzung öffentlicher Wege
 erhoben werden können. Eine Pauschalierung ist zulässig.
 
-
 ### § 143 Frequenznutzungsbeitrag
 
 (1) Die Bundesnetzagentur erhebt jährliche Beiträge zur Deckung ihrer
@@ -8492,10 +8203,7 @@ und ihre Aufhebung bedürfen des Einvernehmens mit dem
 Bundesministerium für Wirtschaft und Technologie und mit dem
 Bundesministerium der Finanzen.
 
-
 ### § 144 (weggefallen)
-
-
 
 ### § 145 Kosten von außergerichtlichen Streitbeilegungsverfahren
 
@@ -8512,7 +8220,6 @@ durch die Teilnahme am Verfahren entstandenen Kosten selbst. Im
 Übrigen finden die §§ 8 bis 21 des Verwaltungskostengesetzes
 entsprechende Anwendung.
 
-
 ### § 146 Kosten des Vorverfahrens
 
 Für ein Vorverfahren werden Gebühren und Auslagen erhoben. Für die
@@ -8527,7 +8234,6 @@ deren Beendigung zurückgenommen, beträgt die Gebühr höchstens 75
 Prozent der Widerspruchsgebühr. Über die Kosten nach den Sätzen 2 und
 4 entscheidet die Widerspruchsstelle nach billigem Ermessen.
 
-
 ### § 147 Mitteilung der Bundesnetzagentur
 
 Die Bundesnetzagentur veröffentlicht einen jährlichen Überblick über
@@ -8535,10 +8241,7 @@ ihre Verwaltungskosten und die insgesamt eingenommenen Abgaben. Soweit
 erforderlich werden Gebühren und Beitragssätze in den betroffenen
 Verordnungen für die Zukunft angepasst.
 
-
 ## Teil 10 - Straf- und Bußgeldvorschriften
-
-
 
 ### § 148 Strafvorschriften
 
@@ -8568,7 +8271,6 @@ bestraft, wer
 (2) Handelt der Täter in den Fällen des Absatzes 1 Nr. 2 Buchstabe b
 fahrlässig, so ist die Strafe Freiheitsstrafe bis zu einem Jahr oder
 Geldstrafe.
-
 
 ### § 149 Bußgeldvorschriften
 
@@ -8919,10 +8621,7 @@ hierfür nicht aus, so können sie überschritten werden.
 (3) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes
 über Ordnungswidrigkeiten ist die Bundesnetzagentur.
 
-
 ## Teil 11 - Übergangs- und Schlussvorschriften
-
-
 
 ### § 150 Übergangsvorschriften
 
@@ -9048,11 +8747,9 @@ worden ist.
 § 99 Abs. 2 der Verwaltungsgerichtsordnung sind die bisherigen
 Vorschriften anwendbar.
 
-
 ### § 151
 
 -
-
 
 ### § 152 Inkrafttreten, Außerkrafttreten
 
@@ -9071,7 +8768,6 @@ Preisansagepflicht nicht mehr auf Anrufe aus dem Festnetz beschränkt
 ist.
 
 (2) (Aufhebungsvorschriften)
-
 
 ### Anlage (zu § 45a)
 

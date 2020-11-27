@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2003, 650
 
-
-
 ## (XXXX)
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
@@ -45,11 +43,9 @@ Der glatte Münzrand enthält in vertiefter Prägung die Inschrift:
 <>".
 Der Entwurf der Münze stammt von Hans Joa Dobler, Ehekirchen.
 
-
 ## Schlussformel
 
 Der Bundesminister der Finanzen
-
 
 ## (XXXX)
 

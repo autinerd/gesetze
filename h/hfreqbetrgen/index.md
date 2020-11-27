@@ -15,14 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BAnz: 1969, Nr 138
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 3 des Gesetzes über den Betrieb von
 Hochfrequenzgeräten vom 9. August 1949 (Gesetzblatt der Verwaltung des
 Vereinigten Wirtschaftsgebietes S. 235) wird bestimmt:
-
 
 ## § 1
 
@@ -31,14 +28,12 @@ zur Umformung von Gleich- in Wechselstrom für Leuchtstofflampen in
 Landfahrzeugen, z.B. in Omnibussen, Campinganhängern, Eisenbahnwagen,
 dienen, wird hiermit eine Allgemeine Genehmigung erteilt.
 
-
 ## § 2
 
 Für den Betrieb der in § 1 genannten Stromumformungsgeräte ist so
 lange keine einzelne Genehmigung nach dem Gesetz über den Betrieb von
 Hochfrequenzgeräten erforderlich, wie die im folgenden § 3 genannten
 Auflagen eingehalten werden.
-
 
 ## § 3
 
@@ -89,11 +84,9 @@ werden, so ist den Beauftragten der Deutschen Bundespost in den
 verkehrsüblichen Zeiten Zutritt zu den Fahrzeugen oder Räumen zu
 gestatten, in denen sich Geräte der in § 1 genannten Art befinden.
 
-
 ## § 4
 
 Die Allgemeine Genehmigung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlußformel
 

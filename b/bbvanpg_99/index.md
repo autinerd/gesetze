@@ -19,37 +19,24 @@ Fundstelle
 Geändert durch
 :   Art. 64 G v. 19.2.2006 I 334
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Teil 1 - Anpassung von Dienst- und Versorgungsbezügen
-
-
 
 ### Art 1 bis 4 -
 
 (weggefallen)
 
-
 ## Teil 2 - Änderung sonstiger Vorschriften
-
-
 
 ### Art 5 bis 8 -
 
-
-
 ## Teil 3 - Übergangs- und Schlussvorschriften
 
-
-
 ### Art 9 - Umsetzung der Entscheidung des Bundesverfassungsgerichts zum Familienzuschlag für dritte und weitere Kinder für die Vergangenheit und die Jahre 1999 und 2000
-
-
 
 ### § 1 Nachzahlungen für Kläger und Widerspruchsführer im Zeitraum bis 1998
 
@@ -80,13 +67,11 @@ Soldatenversorgungsgesetzes für dritte und weitere Kinder zustand.
 (3) Die Erhöhungsbeträge gelten nicht als steuerpflichtige Einnahmen
 im Sinne des Einkommensteuergesetzes.
 
-
 ### § 2 Erhöhung des Familienzuschlags für die Jahre 1999 und 2000
 
 Der Familienzuschlag nach Anlage V des Bundesbesoldungsgesetzes wird
 für die Jahre 1999 und 2000 für das dritte und jedes weitere zu
 berücksichtigende Kind um je 200 DM erhöht.
-
 
 ### Art 10 - Neubekanntmachungserlaubnisse
 
@@ -96,13 +81,11 @@ Nr. 2 und 3 sowie Artikel 8 geänderten Verordnungen in der Fassung,
 die am ersten Tage des auf die Verkündung dieses Gesetzes folgenden
 Kalendermonats gilt, im Bundesgesetzblatt bekannt machen.
 
-
 ### Art 11 - Rückkehr zum einheitlichen Verordnungsrang
 
 Die auf Artikel 2 Abs. 1 Nr. 2 und 3 sowie Artikel 8 beruhenden Teile
 der dort geänderten Rechtsverordnungen können auf Grund der jeweils
 einschlägigen Ermächtigung durch Rechtsverordnungen geändert werden.
-
 
 ### Art 12 - Inkrafttreten
 

@@ -15,21 +15,17 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1967, 1191
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 39 Abs. 1 und des § 123 Abs. 1 des Bewertungsgesetzes
 in der Fassung vom 10. Dezember 1965 (Bundesgesetzbl. I S. 1861)
 verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
-
 ## § 1
 
 Für die Hauptbewertungsstützpunkte werden auf den 1. Januar 1964
 Vergleichszahlen festgesetzt. Sie sind für die weinbauliche Nutzung
 der Anlage zu entnehmen.
-
 
 ## § 2
 
@@ -38,11 +34,9 @@ Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 des Gesetzes zur Änderung des Bewertungsgesetzes vom 13. August 1965
 (Bundesgesetzbl. I S. 851) auch im Land Berlin.
 
-
 ## § 3
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
-
 
 ## Anlage (zu § 1) Hauptbewertungsstützpunkte der weinbaulichen Nutzung
 

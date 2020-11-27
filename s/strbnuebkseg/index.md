@@ -18,8 +18,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1998, 1615
 
-
-
 ## Art 1
 
 (1) Folgenden völkerrechtlichen Übereinkünften wird zugestimmt:
@@ -41,7 +39,6 @@ Fundstelle
 (2) Das Protokoll und das Zusatzübereinkommen werden nachstehend
 veröffentlicht.
 
-
 ## Art 2
 
 Soweit das Autobahnbenutzungsgebührengesetz für schwere Nutzfahrzeuge
@@ -50,7 +47,6 @@ Soweit das Autobahnbenutzungsgebührengesetz für schwere Nutzfahrzeuge
 das Übereinkommen in der durch das nachstehend veröffentlichte
 Protokoll geänderten Fassung und auf das nachstehend veröffentlichte
 Zusatzübereinkommen als Bestandteil dieses Übereinkommens.
-
 
 ## Art 3
 

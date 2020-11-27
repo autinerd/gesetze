@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 3269
 
-
-
 ## I. Erlass von Widerspruchsbescheiden
 
 Auf Grund des § 172 des Bundesbeamtengesetzes in der Fassung der
@@ -33,7 +31,6 @@ Beamte aus dem Bundesministerium für Familie, Senioren, Frauen und
 Jugend, der Bundesprüfstelle für jugendgefährdende Schriften sowie dem
 Bundesamt für den Zivildienst betroffen sind.
 
-
 ## II. Vertretung bei Klagen
 
 Auf Grund des § 174 Abs. 3 des Bundesbeamtengesetzes übertrage ich die
@@ -42,14 +39,12 @@ Bundesverwaltungsamt, soweit es nach dieser Anordnung für den Erlass
 von Widerspruchsbescheiden zuständig ist. Für besondere Fälle behalte
 ich mir die Vertretung des Dienstherrn vor.
 
-
 ## III.
 
 Die Anordnung tritt am Tage nach ihrer Veröffentlichung in Kraft. Sie
 gilt auch für Widersprüche, die vor dem Inkrafttreten dieser Anordnung
 eingelegt, und Klagen, die vor dem Inkrafttreten dieser Anordnung
 erhoben worden sind.
-
 
 ## Schlussformel
 

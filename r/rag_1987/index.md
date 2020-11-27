@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 7.4.1987 I 1157
 
-
 ## Erster Abschnitt - Rentenversicherung
-
-
 
 ### § 1 Grundsatz
 
@@ -29,7 +26,6 @@ Aus Anlaß des Anstiegs der allgemeinen Bemessungsgrundlage vom Jahr
 1986 auf das Jahr 1987 werden die Renten der gesetzlichen
 Rentenversicherung einschließlich Knappschaftsausgleichsleistungen zum
 1\. Juli 1987 nach den §§ 2 bis 5 dieses Gesetzes angepaßt.
-
 
 ### § 2 Formelrenten
 
@@ -56,13 +52,11 @@ nach § 3 angepaßt. Eine Rente, die nach Artikel 2 § 24 Abs. 5 des
 Knappschaftsrentenversicherungs-Neuregelungsgesetzes gezahlt wird,
 wird nach Absatz 1 angepaßt.
 
-
 ### § 3 Sonstige Renten
 
 Renten, die nicht nach § 2 Abs. 1 anzupassen sind, werden dadurch
 angepaßt, daß der sich für den Monat Juli 1987 ergebende
 anpassungsfähige Rentenbetrag um 3,8 vom Hundert erhöht wird.
-
 
 ### § 4 Allgemeines
 
@@ -81,7 +75,6 @@ als Zuschuß zu den Aufwendungen für die Krankenversicherung.
 (3) Bei Anwendung der Vorschriften dieses Gesetzes sind Abrundungen
 zulässig.
 
-
 ### § 5 Allgemeine Bemessungsgrundlage
 
 Die allgemeine Bemessungsgrundlage für das Jahr 1987 beträgt
@@ -99,29 +92,19 @@ Die allgemeine Bemessungsgrundlage für das Jahr 1987 beträgt
 
     *   29.252 Deutsche Mark.
 
-
-
-
-
 ## Zweiter Abschnitt - Unfallversicherung
-
-
 
 ### § 6 Anpassungsfaktor
 
 Der Anpassungsfaktor für die vom 1. Juli 1987 an anzupassenden
 Geldleistungen der gesetzlichen Unfallversicherung beträgt 1,0303.
 
-
 ### § 7 Pflegegeld
 
 Das Pflegegeld beträgt vom 1. Juli 1987 an zwischen 414 Deutsche Mark
 und 1.656 Deutsche Mark monatlich.
 
-
 ## Dritter Abschnitt - Schlußvorschriften
-
-
 
 ### § 8 Berlin-Klausel
 

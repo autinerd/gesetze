@@ -16,13 +16,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 2003, 666
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -31,13 +28,11 @@ Abkommen vom 14. November 1985 zwischen der Bundesrepublik Deutschland
 und Kanada über Soziale Sicherheit (BGBl. 1988 II S. 26) wird
 zugestimmt. Das Zusatzabkommen wird nachstehend veröffentlicht.
 
-
 ## Art 2
 
 Die Ausgaben für die Zahlung der auf Zeiten nach dem Fremdrentengesetz
 beruhenden Leistungen sind Ausgaben der Rentenversicherung für das
 Beitrittsgebiet.
-
 
 ## Art 3
 

@@ -18,23 +18,18 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 Abs. 3 V v. 12.2.2009 I 320
 
-
 ## Eingangsformel
 
 Auf Grund des § 3 Abs. 2 Satz 1 des Bundespolizeibeamtengesetzes, der
 durch Artikel 3 Nr. 2 des Gesetzes vom 29. Juni 1998 (BGBl. I S. 1666)
 neu gefasst worden ist, verordnet die Bundesregierung:
 
-
 ## Abschnitt 1 - Allgemeines
-
-
 
 ### § 1 Anwendungsbereich
 
 Diese Verordnung gilt für die Polizeivollzugsbeamtinnen und
 Polizeivollzugsbeamten beim Deutschen Bundestag.
-
 
 ### § 2 Leistungsgrundsatz
 
@@ -54,7 +49,6 @@ Eigenschaften.
 
 (4) Die fachliche Leistung besteht in den nach den dienstlichen
 Anforderungen bewerteten Arbeitsergebnissen.
-
 
 ### § 3 Förderung der Leistungsfähigkeit
 
@@ -91,7 +85,6 @@ gerecht geworden sind, angemessen zu berücksichtigen.
 Präsident des Deutschen Bundestages. Die §§ 20 und 21 bleiben
 unberührt.
 
-
 ### § 4 Gestaltung von Laufbahnen
 
 (1) Der Polizeivollzugsdienst beim Deutschen Bundestag gliedert sich
@@ -106,12 +99,10 @@ Bundesbesoldungsgesetz bestimmten Eingangsamt.
 (4) Polizeivollzugsbeamtinnen führen die Dienst- und Amtsbezeichnungen
 in der weiblichen Form.
 
-
 ### § 5 Einstellung
 
 Einstellung ist eine Ernennung unter Begründung eines
 Beamtenverhältnisses.
-
 
 ### § 6 Ausschreibung und Auslese
 
@@ -130,7 +121,6 @@ Präsidentin oder vom Präsidenten des Deutschen Bundestages zu regeln.
 Präsident des Deutschen Bundestages unter Berücksichtigung
 gesetzlicher Vorschriften, nach denen Bewerberinnen und Bewerber
 bestimmter Gruppen bevorzugt einzustellen sind.
-
 
 ### § 7 Erwerb der Befähigung
 
@@ -151,7 +141,6 @@ Bundesbeamtengesetzes).
 (3) Die Beamtinnen und Beamten werden in die Aufgaben des
 Polizeivollzugsdienstes beim Deutschen Bundestag eingeführt, wenn
 davon nicht nach der Art ihrer Befähigung abgesehen werden kann.
-
 
 ### § 8 Probezeit
 
@@ -185,7 +174,6 @@ Beamtinnen und Beamte des höheren Polizeivollzugsdienstes handelt, in
 die Laufbahn des gehobenen Polizeivollzugsdienstes übernommen werden,
 wenn sie hierfür geeignet sind und ein dienstliches Interesse
 vorliegt.
-
 
 ### § 9 Anstellung
 
@@ -229,14 +217,12 @@ Geschwister sowie volljährigen Kinder.
 (5) Die Anstellung ist nur im Eingangsamt (§ 4 Abs. 2) der Laufbahn
 zulässig.
 
-
 ### § 10 Dienstbezeichnungen
 
 Während des Beamtenverhältnisses auf Probe bis zur Anstellung (§ 9)
 führen die Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten als
 Dienstbezeichnung die Amtsbezeichnung des Eingangsamtes ihrer Laufbahn
 mit dem Zusatz "zur Anstellung (z. A.)".
-
 
 ### § 11 Beförderung
 
@@ -290,14 +276,9 @@ solche Zeiten nicht bereits nach § 9 Abs. 3 angerechnet worden sind.
 ermäßigte und regelmäßige Arbeitszeiten grundsätzlich gleich zu
 behandeln.
 
-
 ## Abschnitt II - Laufbahnbewerberinnen und Laufbahnbewerber
 
-
-
 ### 1. Titel - Einstellungsvoraussetzungen und Dauer der Probezeit
-
-
 
 #### § 12 Einstellungsvoraussetzungen
 
@@ -317,7 +298,6 @@ bestanden haben, können unter Berufung in das Beamtenverhältnis auf
 Probe zur Polizeirätin oder zum Polizeirat "zur Anstellung (z. A.)"
 beim Deutschen Bundestag ernannt werden. Während der Probezeit
 erhalten sie eine polizeifachliche Unterweisung.
-
 
 #### § 13 Dauer der Probezeit
 
@@ -345,7 +325,6 @@ Tätigkeit nach Art und Schwierigkeit mindestens der Tätigkeit in einem
 Amt der jeweiligen Laufbahn des Polizeivollzugsdienstes entsprochen
 hat. Die Probezeit beträgt jedoch mindestens ein Jahr.
 
-
 #### § 14 Übernahme von Beamtinnen und Beamten aus Laufbahnen außerhalb des Polizeivollzugsdienstes
 
 (1) In den Polizeivollzugsdienst beim Deutschen Bundestag kann durch
@@ -364,10 +343,7 @@ Präsident des Deutschen Bundestages.
 (3) Über die Anerkennung der Befähigung entscheidet die Präsidentin
 oder der Präsident des Deutschen Bundestages.
 
-
 ### 2. Titel - Aufstieg
-
-
 
 #### § 15 Allgemeine Regelungen
 
@@ -414,7 +390,6 @@ Amtszulage (§ 42 Abs. 1 des Bundesbesoldungsgesetzes) mindestens ein
 Jahr innehaben, unmittelbar das Amt einer Polizeioberkommissarin beim
 Deutschen Bundestag oder eines Polizeioberkommissars beim Deutschen
 Bundestag verliehen werden.
-
 
 #### § 16 Ausbildungsaufstieg
 
@@ -469,7 +444,6 @@ Laufbahnprüfung für den höheren Polizeivollzugsdienst ab.
 (4) Mit der erfolgreichen Ablegung der Laufbahnprüfung wird die
 Befähigung für die neue Laufbahn erworben. Bei erfolgloser Teilnahme
 kann die Prüfung einmal wiederholt werden.
-
 
 #### § 17 Praxisaufstieg
 
@@ -534,10 +508,7 @@ während der Einführungszeit erbrachten Leistungsnachweise sind zu
 berücksichtigen. Das Feststellungsverfahren kann einmal wiederholt
 werden.
 
-
 ## Abschnitt III - Andere Bewerberinnen und Bewerber
-
-
 
 ### § 18 Besondere Ernennungsvoraussetzungen
 
@@ -572,7 +543,6 @@ gleichwertigen Tätigkeit befähigt.
 (3) Das Verfahren zur Feststellung der Befähigung regelt der
 Bundespersonalausschuss.
 
-
 ### § 19 Dauer der Probezeit
 
 (1) Die regelmäßige Probezeit dauert in der Laufbahn
@@ -593,26 +563,19 @@ und Schwierigkeit mindestens der Tätigkeit in einem Amt der
 betreffenden Laufbahn entsprochen hat; es sind jedoch mindestens drei
 Jahre Probezeit zu leisten.
 
-
 ## Abschnitt IV - Dienstliche Beurteilung und Fortbildung
-
-
 
 ### § 20 Dienstliche Beurteilung
 
 Für die dienstliche Beurteilung gelten die Vorschriften der §§ 48 bis
 50 der Bundeslaufbahnverordnung entsprechend.
 
-
 ### § 21 Fortbildung
 
 Für die Fortbildung gilt die Vorschrift des § 47 der
 Bundeslaufbahnverordnung entsprechend.
 
-
 ## Abschnitt V - Überleitungs- und Schlussvorschriften
-
-
 
 ### § 22 Übernahme in das Bundesbeamtenverhältnis
 
@@ -650,7 +613,6 @@ im Polizeivollzugsdienst beim Deutschen Bundestag, die von der
 erfolgreichen Unterweisung abhängig gemacht werden kann, entscheidet
 die Präsidentin oder der Präsident des Deutschen Bundestages.
 
-
 ### § 23 Ausnahmen
 
 (1) Der Bundespersonalausschuss kann auf Antrag der Präsidentin oder
@@ -680,7 +642,6 @@ folgenden Vorschriften zulassen:
 Ausnahme von § 9 Abs. 5 bei der Anstellung ein Beförderungsamt
 verliehen, gilt dies zugleich als Beförderung.
 
-
 ### § 24 Übergangsregelungen
 
 (1) Auswahlverfahren, die nach den §§ 15 und 18 der Verordnung über
@@ -709,7 +670,6 @@ nach den §§ 15 und 17 offen.
 Laufbahnen des Polizeivollzugsdienstes beim Deutschen Bundestag in der
 bis zum 29. August 2003 geltenden Fassung kann ein Amt der
 Besoldungsgruppe A 12 der Bundesbesoldungsordnung A zugeordnet werden.
-
 
 ### § 25 Inkrafttreten, Außerkrafttreten
 

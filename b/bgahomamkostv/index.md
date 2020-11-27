@@ -20,7 +20,6 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 24.10.2003 I 2157
 
-
 ## § 1
 
 (1) Das Bundesinstitut für Arzneimittel und Medizinprodukte und das
@@ -34,7 +33,6 @@ Verordnung.
 sowie in den Fällen der Zurücknahme eines Antrags auf Vornahme einer
 Amtshandlung werden Gebühren nach Maßgabe des § 15 des
 Verwaltungskostengesetzes erhoben.
-
 
 ## § 2
 
@@ -145,7 +143,6 @@ Aufwand erfordert, so kann die Gebühr bis auf das Doppelte erhöht
 werden. Der Gebührenschuldner ist zu hören, wenn mit einer Erhöhung
 der Gebühr nach Satz 1 zu rechnen ist.
 
-
 ## § 3
 
 Wird eine Auflage nach § 39 Abs. 1 Satz 3 bis 5 des
@@ -153,7 +150,6 @@ Arzneimittelgesetzes angeordnet, so wird dafür eine Gebühr von 80 bis
 400 Euro erhoben. Das gleiche gilt, wenn ein Warnhinweis nach Artikel
 3 § 12 des Gesetzes zur Neuordnung des Arzneimittelrechts vom 24.
 August 1976 (BGBl. I S. 2445) angeordnet wird.
-
 
 ## § 4
 
@@ -212,10 +208,6 @@ Gebühren zu erheben für
 
     *   150 Euro.
 
-
-
-
-
 ## § 5
 
 (1) Die nach den §§ 2 bis 4 zu erhebenden Gebühren können auf Antrag
@@ -235,7 +227,6 @@ und Sachaufwand einerseits und die Bedeutung, der wirtschaftliche Wert
 oder der sonstige Nutzen der Amtshandlung für den Gebührenschuldner
 andererseits dies rechtfertigen.
 
-
 ## § 5a
 
 Wird eine der in § 2 genannten Amtshandlungen in den gesetzlich
@@ -244,7 +235,6 @@ Unterlagen durch unabhängige Sachverständige vorgenommen, so ermäßigen
 sich die vorgenannten Gebührensätze bei Gutachten zur pharmazeutischen
 Qualität oder zur pharmakologisch-toxikologischen Prüfung jeweils um
 20 Prozent.
-
 
 ## § 6
 
@@ -301,10 +291,6 @@ Gebühren zu erheben für
 
     *   0,50 Euro.
 
-
-
-
-
 ## § 7
 
 (1) Für die Erhebung von Auslagen gilt § 10 des
@@ -315,11 +301,9 @@ entsprechende Anwendung.
 Fällen des Löschens einer Registrierung nach § 3 Abs. 2 der Verordnung
 über homöopathische Arzneimittel nicht zu erstatten.
 
-
 ## § 8
 
 (weggefallen)
-
 
 ## § 9
 

@@ -18,23 +18,18 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1992, 1389
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art 1 Gesetz über die nachträgliche Umstellung von Mark der Deutschen Demokratischen Republik auf Deutsche Mark für Kontoguthaben natürlicher Personen (Kontoguthabenumstellungsgesetz - KGUG)
 
 -
 
-
 ## (XXXX) Art 2 und 3
 
 -
-
 
 ## Art 3a Aufhebung des Beweissicherungs- und Feststellungsgesetzes
 
@@ -54,12 +49,7 @@ beschlossen:
     Lastenausgleichsgesetzes in der ab dem 31. Juli 1992 geltenden Fassung
     anzuwenden.
 
-
-
-
-
 ## (XXXX) Art 3b bis 3e, 4 (weggefallen)
-
 
 ## Art 5 Inkrafttreten
 

@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 1621
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 19 Abs. 5 Satz 6 und des § 50 Abs. 1 Nr. 4 des
@@ -26,7 +24,6 @@ Wehrpflichtgesetzes in der Fassung der Bekanntmachung vom 30. Mai 2005
 (BGBl. I S. 1465) sowie des § 70 Abs. 1 Satz 6 und des § 93 Abs. 1 Nr.
 8 des Soldatengesetzes in der Fassung der Bekanntmachung vom 30. Mai
 2005 (BGBl. I S. 1482) verordnet die Bundesregierung:
-
 
 ## § 1 Fahrtkosten, Wegstreckenentschädigung
 
@@ -49,12 +46,10 @@ höchstens den Betrag, der bei Benutzung regelmäßig verkehrender
 Beförderungsmittel der niedrigsten Beförderungsklasse nach Absatz 1
 erstattet würde. Parkgebühren werden nicht erstattet.
 
-
 ## § 2 Tagegeld, Übernachtungsgeld
 
 Tage- und Übernachtungsgeld wird nach dem Bundesreisekostengesetz
 gewährt.
-
 
 ## § 3 Sonstige notwendige Auslagen
 
@@ -66,7 +61,6 @@ dem Bundesreisekostengesetz erstattet.
 (2) Zu den notwendigen Auslagen gehören auch die Kosten für die
 Beschaffung von Unterlagen, deren Beibringung den Wehrpflichtigen oder
 Dienstleistungspflichtigen aufgegeben wird.
-
 
 ## § 4 Verdienstausfall, Vertretungskosten
 
@@ -89,7 +83,6 @@ beruflichen Aufgaben der Wehrpflichtigen oder
 Dienstleistungspflichtigen in vollem Umfang wahrnehmen kann.
 Erstattungsfähig ist die angemessene und in gleich oder ähnlich
 gelagerten Fällen übliche Vergütung.
-
 
 ## § 5 Inkrafttreten
 

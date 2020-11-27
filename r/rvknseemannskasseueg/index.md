@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 2130, 2146
 
-
 ## § 1 Übertritt des Personals
 
 (1) Die Deutsche Rentenversicherung Knappschaft-Bahn-See tritt mit
@@ -44,7 +43,6 @@ der Deutschen Rentenversicherung Knappschaft-Bahn-See geltenden
 tarifrechtlichen Regelungen und Dienstvereinbarungen anzuwenden.
 Soweit tarifvertragliche Übergangsregelungen vereinbart werden, gehen
 diese vor.
-
 
 ## § 2 Besitzstandsschutz
 

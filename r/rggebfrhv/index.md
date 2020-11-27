@@ -15,15 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   RGBl: 1884, 1
 
-
-
 ## Eingangsformel
 
 Wir ...
 verordnen im Namen des Reichs auf Grund des § 98 Absatz 3 des
 Gerichtskostengesetzes vom 18. Juni 1878 (Reichsgesetzbl. S. 141),
 nach erfolgter Zustimmung des Bundesrats, was folgt:
-
 
 ## § 1
 
@@ -49,10 +46,6 @@ Reichsgericht              sind von Zahlung der Gebühren befreit:
     derjenigen berühren, welchen die Nutzung des betreffenden Vermögens
     für ihre Person zusteht, zugleich mitverhandelt werden, haben letztere
     die auf ihren Teil verhältnismäßig fallenden Gebühren zu tragen.
-
-
-
-
 
 ## § 2
 

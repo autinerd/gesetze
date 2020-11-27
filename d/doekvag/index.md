@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 18 G v. 20.12.2011 I 2854
 
-
 ## Erster Abschnitt - Vorschriften für deutsche Konkursverfahren
-
-
 
 ### § 1 Zuständigkeit auf Grund einer Niederlassung
 
@@ -34,7 +31,6 @@ Zuständigkeit nach Artikel 2 Abs. 3 Satz 1 des Vertrags vom 25. Mai
 Österreich auf dem Gebiet des Konkurs- und
 Vergleichs-(Ausgleichs-)rechts (BGBl. 1985 II S. 410) gegeben ist.
 
-
 ### § 2 Begründung des Eröffnungsbeschlusses
 
 Ist anzunehmen, daß sich Vermögen des Gemeinschuldners in Österreich
@@ -42,7 +38,6 @@ befindet, sollen im Eröffnungsbeschluß die tatsächlichen
 Feststellungen und rechtlichen Erwägungen kurz dargestellt werden, aus
 denen sich eine Zuständigkeit nach Artikel 2 des Vertrags für die
 deutschen Gerichte ergibt.
-
 
 ### § 3 Einstellung des Konkursverfahrens zugunsten der österreichischen Gerichte
 
@@ -77,7 +72,6 @@ eingestellt wird. Eine Ausfertigung des Einstellungsbeschlusses ist
 dem österreichischen Gericht zu übersenden. § 206 der Konkursordnung
 ist nicht anzuwenden.
 
-
 ### § 4 Besonderer Konkursverwalter
 
 (1) Der besondere Konkursverwalter, den das Konkursgericht zur
@@ -110,10 +104,7 @@ Konkursordnung ist nicht anzuwenden.
 (4) Im übrigen gelten für den besonderen Konkursverwalter die den
 Konkursverwalter betreffenden Vorschriften der Konkursordnung.
 
-
 ## Zweiter Abschnitt - Vorschriften für die Unterstützung österreichischer Konkursverfahren
-
-
 
 ### § 5 Eintragungen in öffentliche Bücher oder Register
 
@@ -130,20 +121,17 @@ unzuständigen Grundbuchamt ein, so leitet dieses das Ersuchen von Amts
 wegen unverzüglich an das zuständige Registergericht oder Grundbuchamt
 weiter und unterrichtet hierüber das ersuchende Gericht.
 
-
 ### § 6 Rechtsmittel gegen die Ablehnung der Eintragung
 
 Wird die Eintragung abgelehnt, so kann auch der Masseverwalter das in
 dem Verfahren gegebene Rechtsmittel einlegen. Das Verfahren über das
 Rechtsmittel ist kostenfrei.
 
-
 ### § 7 Löschung einer Eintragung auf Ersuchen des österreichischen Gerichts
 
 Eine Eintragung in einem öffentlichen Buch oder Register (Artikel 5
 Abs. 2 des Vertrags) ist auf Grund des Ersuchens des österreichischen
 Gerichts, das um die Eintragung ersucht hatte, kostenfrei zu löschen.
-
 
 ### § 8 Löschung einer Eintragung auf Antrag
 
@@ -178,7 +166,6 @@ von Eintragungen unberührt. Über die beabsichtigte Löschung ist das
 Gericht, das um die Eintragung ersucht hatte, zu unterrichten; dabei
 ist ihm eine angemessene Frist für eine Äußerung anzugeben.
 
-
 ### § 9 Eintragung in das Patentregister
 
 Für die Eintragung in das Patentregister (§ 30 des Patentgesetzes), um
@@ -191,7 +178,6 @@ Patentgesetzes) statt. Die dem österreichischen Gericht zustehende
 Beschwerde kann auch der Masseverwalter einlegen; die Beschwerdefrist
 beginnt jedoch mit dem Zeitpunkt der Bekanntgabe des Beschlusses an
 das österreichische Gericht.
-
 
 ### § 10 Verwertung im Wege der Zwangsvollstreckung
 
@@ -219,7 +205,6 @@ geltend gemacht werden, die Wirkungen des Konkursverfahrens
 erstreckten sich nicht nach Maßgabe der Bestimmungen des Vertrags auf
 den Geltungsbereich dieses Gesetzes.
 
-
 ### § 11 Anordnung von Zwangsmaßnahmen
 
 (1) Geht das Ersuchen eines österreichischen Konkursgerichts oder der
@@ -242,7 +227,6 @@ zuständig sind. Das Ersuchen des Konkursgerichts oder der Antrag des
 Masseverwalters gilt als Auftrag zur Vollziehung. Das Gericht kann
 auch den Gerichtsvollzieher mit der Zustellung der Anordnung betrauen.
 
-
 ### § 12 Beschwerde gegen Ablehnung der Anordnung
 
 Wird die Anordnung abgelehnt, findet die Beschwerde statt. Die
@@ -251,13 +235,11 @@ Beschwerde kann der Masseverwalter auch einlegen, wenn das
 Protokoll der Geschäftsstelle können auch Anträge gestellt und
 Erklärungen abgegeben werden.
 
-
 ### § 13 Sofortige Beschwerde gegen die Anordnung
 
 Gegen die Anordnung steht dem Schuldner die sofortige Beschwerde zu.
 Die sofortige Beschwerde ist auch zulässig, wenn die Zwangsmaßnahme
 bereits vollzogen ist. § 12 Satz 3 gilt entsprechend.
-
 
 ### § 14 Anwendung der Zivilprozeßordnung
 
@@ -267,7 +249,6 @@ entsprechend. Das Verfahren, in dem über das Ersuchen oder den Antrag
 auf Anordnung der Zwangsmaßnahme oder über die Beschwerde gegen die
 Ablehnung der Anordnung entschieden wird, ist kostenfrei.
 
-
 ### § 15 Haft des Schuldners
 
 Die Anordnung der Haft, die Verhaftung des Schuldners und die
@@ -276,7 +257,6 @@ ersucht (Artikel 10 Abs. 3 des Vertrags), richten sich nach §§ 899,
 901, 902, 904 bis 913, 793 der Zivilprozeßordnung. § 11 Abs. 1, Abs. 2
 Satz 3 bis 5, § 12 Satz 2 und 3, § 14 Satz 2 gelten entsprechend.
 
-
 ### § 16 Postsperre
 
 Die Behörde der Postverwaltung händigt die für den Schuldner
@@ -284,7 +264,6 @@ bestimmten Sendungen dem Masseverwalter aus, wenn ihr ein
 ordnungsgemäßes Ersuchen des österreichischen Konkursgerichts oder der
 Antrag eines Masseverwalters (Artikel 10 Abs. 2 des Vertrags)
 vorgelegt wird.
-
 
 ### § 17 Antrag auf gerichtliche Entscheidung
 
@@ -303,7 +282,6 @@ Beschwerde nach der Zivilprozeßordnung statt. § 12 Satz 2 und 3 gilt
 entsprechend. Das Verfahren über die Beschwerde des Masseverwalters
 ist kostenfrei.
 
-
 ### § 18 Zuständigkeit für die eine Vormerkung betreffende einstweilige Verfügung
 
 Wird die konkursrechtliche Anfechtung des Erwerbs eines Rechts an
@@ -315,7 +293,6 @@ das Verfahren der einstweiligen Verfügung, auf Grund deren die
 Vormerkung eingetragen werden soll oder eingetragen ist, das
 Amtsgericht zuständig, in dessen Bezirk die unbewegliche Sache belegen
 ist.
-
 
 ### § 19 Erteilung der Vollstreckungsklausel für österreichische Entscheidungen
 
@@ -331,10 +308,7 @@ Entscheidungen und anderer Schuldtitel in Zivil- und Handelssachen vom
 15\. Januar 1965 (BGBl. I S. 17), zuletzt geändert durch Artikel 27 des
 Gesetzes vom 27. Juli 2001 (BGBl. I S. 1887), entsprechend.
 
-
 ## Dritter Abschnitt - Besondere Vorschriften
-
-
 
 ### § 20 Ersatzgerichtsstand im Inland
 
@@ -347,7 +321,6 @@ zur sachlichen Zuständigkeit der Landgerichte, so ist das Landgericht
 zuständig, in dessen Bezirk das in Satz 1 bezeichnete Amtsgericht
 seinen Sitz hat.
 
-
 ### § 21 Erstreckung von Folgen österreichischer Entscheidungen
 
 Knüpft eine gewerberechtliche oder eine andere gesetzliche Vorschrift
@@ -359,7 +332,6 @@ gesetzliche Vorschrift anzuwenden ist, auch dann ein, wenn innerhalb
 der letzten fünf Jahre ein Antrag auf Eröffnung des Konkursverfahrens
 über sein Vermögen durch ein österreichisches Gericht mangels
 hinreichenden Vermögens abgewiesen worden ist.
-
 
 ### § 22 Anwendung der Vorschriften über Konkursausfallgeld
 
@@ -377,7 +349,6 @@ dieses Gesetzes, so erklärt der Vorstand der Bundesagentur für Arbeit
 im Einzelfall oder für Gruppen von Fällen eine Agentur für Arbeit für
 zuständig.
 
-
 ### § 23 Zustellungen
 
 Zustellungen, die in einem unter den Vertrag fallenden
@@ -387,10 +358,7 @@ erfolgen. Die Postsendungen sind mit der Bezeichnung "Einschreiben" zu
 versehen, wenn die Zustellung nicht neben einer Bekanntmachung im
 Amtsblatt zur Wiener Zeitung erfolgt.
 
-
 ## Vierter Abschnitt - Vergleichs-(Ausgleichs-)verfahren
-
-
 
 ### § 24 Entsprechende Anwendung von Vorschriften
 
@@ -398,10 +366,7 @@ Die §§ 1 bis 23 gelten für die Ausführung des Artikels 25 des Vertrags
 (Vergleichsverfahren sowie Ausgleichsverfahren einschließlich des
 Vorverfahrens) entsprechend.
 
-
 ## Fünfter Abschnitt - Schlußvorschriften
-
-
 
 ### § 25 Ermächtigung zur Zusammenfassung von Verfahren
 
@@ -413,17 +378,14 @@ sofern dadurch die Ausführung des Vertrags erleichtert oder
 beschleunigt wird. Die Landesregierungen können die Ermächtigung durch
 Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
 
-
 ### (XXXX) §§ 26 und 27
 
 -
-
 
 ### § 28 Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin.
-
 
 ### § 29 Inkrafttreten
 

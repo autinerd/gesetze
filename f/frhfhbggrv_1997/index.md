@@ -21,14 +21,11 @@ Zuletzt geändert durch
 V aufgeh. durch
 :   § 2 Satz 2 G v. 24.1.2011 I 50 mWv 1.1.2013
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 20 Abs. 2 und des § 28 Abs. 1 des
 Zollverwaltungsgesetzes vom 21. Dezember 1992 (BGBl. I S. 2125, 1993 I
 S. 2493) verordnet das Bundesministerium der Finanzen:
-
 
 ## § 1
 
@@ -37,7 +34,6 @@ S. 2493) verordnet das Bundesministerium der Finanzen:
 
 (2) Die Grenze des Freihafens Hamburg - Freihafenteil Waltershof -
 wird geändert. Ihr neuer Verlauf ergibt sich aus Anlage 2.
-
 
 ## § 2
 
@@ -48,13 +44,11 @@ Freihafenteil Waltershof verbindet, befördert werden, unterliegen beim
 Ein- und Ausgang im Regelfall keinen besonderen zollamtlichen
 Überwachungsmaßnahmen.
 
-
 ## § 3
 
 (1) Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 (2)
-
 
 ## Anlage 1 (zu § 1 Abs. 1) Alter Freihafen
 
@@ -171,7 +165,6 @@ auf der Südseite 66 Meter nach Osten und knickt dann im rechten Winkel
 nach Osten und folgt dort dem weiten Bogen des Maschenzauns – diesen
 im Freihafen belassend – nach Südosten bis an die Eisenbahnbrücke über
 die Norderelbe.
-
 
 ## Anlage 2 (zu § 1 Abs. 2) Waltershof
 

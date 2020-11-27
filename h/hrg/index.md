@@ -21,7 +21,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 G v. 12.4.2007 I 506
 
-
 ## § 1 Anwendungsbereich
 
 Hochschulen im Sinne dieses Gesetzes sind die Universitäten, die
@@ -31,14 +30,9 @@ Landesrecht staatliche Hochschulen sind. Dieses Gesetz betrifft,
 soweit dies in § 70 bestimmt ist, auch die staatlich anerkannten
 Hochschulen.
 
-
 ## 1. Kapitel - Aufgaben der Hochschulen
 
-
-
 ### 1. Abschnitt - Allgemeine Bestimmungen
-
-
 
 #### § 2 Aufgaben
 
@@ -84,7 +78,6 @@ Land bestimmt. Andere als die in diesem Gesetz genannten Aufgaben
 dürfen den Hochschulen nur übertragen werden, wenn sie mit den in
 Absatz 1 genannten Aufgaben zusammenhängen.
 
-
 #### § 3 Gleichberechtigung von Frauen und Männern
 
 Die Hochschulen fördern die tatsächliche Durchsetzung der
@@ -92,7 +85,6 @@ Gleichberechtigung von Frauen und Männern und wirken auf die
 Beseitigung bestehender Nachteile hin. Die Aufgaben und
 Mitwirkungsrechte der Frauen- und Gleichstellungsbeauftragten der
 Hochschulen regelt das Landesrecht.
-
 
 #### § 4 Freiheit von Kunst und Wissenschaft, Forschung, Lehre und Studium
 
@@ -132,14 +124,12 @@ sind insoweit zulässig, als sie sich auf die Organisation und
 ordnungsgemäße Durchführung des Lehr- und Studienbetriebes und auf die
 Gewährleistung eines ordnungsgemäßen Studiums beziehen.
 
-
 #### § 5 Staatliche Finanzierung
 
 Die staatliche Finanzierung der Hochschulen orientiert sich an den in
 Forschung und Lehre sowie bei der Förderung des wissenschaftlichen
 Nachwuchses erbrachten Leistungen. Dabei sind auch Fortschritte bei
 der Erfüllung des Gleichstellungsauftrags zu berücksichtigen.
-
 
 #### § 6 Bewertung der Forschung, Lehre, Förderung des wissenschaftlichen Nachwuchses und der Gleichstellung der Geschlechter
 
@@ -150,10 +140,7 @@ Studierenden sind bei der Bewertung der Qualität der Lehre zu
 beteiligen. Die Ergebnisse der Bewertungen sollen veröffentlicht
 werden.
 
-
 ### 2. Abschnitt - Studium und Lehre
-
-
 
 #### § 7 Ziel des Studiums
 
@@ -164,7 +151,6 @@ entsprechend so vermitteln, daß er zu wissenschaftlicher oder
 künstlerischer Arbeit und zu verantwortlichem Handeln in einem
 freiheitlichen, demokratischen und sozialen Rechtsstaat befähigt wird.
 
-
 #### § 8 Studienreform
 
 Die Hochschulen haben die ständige Aufgabe, im Zusammenwirken mit den
@@ -172,7 +158,6 @@ zuständigen staatlichen Stellen Inhalte und Formen des Studiums im
 Hinblick auf die Entwicklungen in Wissenschaft und Kunst, die
 Bedürfnisse der beruflichen Praxis und die notwendigen Veränderungen
 in der Berufswelt zu überprüfen und weiterzuentwickeln.
-
 
 #### § 9 Koordinierung der Ordnung von Studium und Prüfungen
 
@@ -188,7 +173,6 @@ gewährleistet werden.
 
 (3) Die Hochschulen und Sachverständige aus der Berufspraxis sind bei
 der Wahrnehmung der Aufgaben nach den Absätzen 1 und 2 zu beteiligen.
-
 
 #### § 10 Studiengänge
 
@@ -212,7 +196,6 @@ Prüfungsverfahrens sowie für die Ermittlung und Festsetzung der
 Ausbildungskapazitäten (§ 29 Abs. 1) und die Berechnung von
 Studentenzahlen bei der Hochschulplanung.
 
-
 #### § 11 Regelstudienzeit bis zum ersten berufsqualifizierenden Abschluß
 
 Die Regelstudienzeit bis zum ersten berufsqualifizierenden Abschluß
@@ -231,7 +214,6 @@ Studiengänge, die in besonderen Studienformen durchgeführt werden. In
 geeigneten Fachrichtungen sind Studiengänge einzurichten, die in
 kürzerer Zeit zu einem ersten berufsqualifizierenden Abschluß führen.
 
-
 #### § 12 Postgraduale Studiengänge
 
 Für Absolventen eines Hochschulstudiums können zur Vermittlung
@@ -242,7 +224,6 @@ Ergänzungs- und Aufbaustudien (postgraduale Studien) angeboten werden.
 Postgraduale Studiengänge, die zu einem Diplom- oder Magistergrad
 führen, sollen höchstens zwei Jahre dauern. § 19 Abs. 3 bleibt
 unberührt.
-
 
 #### § 13 Fernstudium, Multimedia
 
@@ -258,7 +239,6 @@ Fernstudieneinheit nachgewiesen, soweit die Einheit dem entsprechenden
 Lehrangebot des Präsenzstudiums inhaltlich gleichwertig ist. Die
 Feststellung der Gleichwertigkeit wird durch Landesrecht geregelt.
 
-
 #### § 14 Studienberatung
 
 Die Hochschule unterrichtet Studierende und Studienbewerber über die
@@ -270,7 +250,6 @@ bisherigen Studienverlauf, informiert die Studierenden und führt
 gegebenenfalls eine Studienberatung durch. Die Hochschule soll bei der
 Studienberatung insbesondere mit den für die Berufsberatung und den
 für die staatlichen Prüfungen zuständigen Stellen zusammenwirken.
-
 
 #### § 15 Prüfungen und Leistungspunktsystem
 
@@ -297,7 +276,6 @@ anderen Hochschule ermöglicht.
 selbst mindestens die durch die Prüfung festzustellende oder eine
 gleichwertige Qualifikation besitzen.
 
-
 #### § 16 Prüfungsordnungen
 
 Hochschulprüfungen werden auf Grund von Prüfungsordnungen abgelegt,
@@ -318,13 +296,11 @@ Landesrecht zuständige Stelle kann die Änderung einer geltenden
 Prüfungsordnung insbesondere verlangen, wenn diese den Anforderungen
 der Sätze 2 bis 6 nicht entspricht.
 
-
 #### § 17 Vorzeitiges Ablegen der Prüfung
 
 Hochschulprüfungen können vor Ablauf einer für die Meldung
 festgelegten Frist abgelegt werden, sofern die für die Zulassung zur
 Prüfung erforderlichen Leistungen nachgewiesen sind.
-
 
 #### § 18 Hochschulgrade
 
@@ -351,7 +327,6 @@ verliehen werden. Es kann vorsehen, daß die Kunsthochschulen für den
 berufsqualifizierenden Abschluß eines Studiums andere als die in
 Absatz 1 genannten Grade verleihen.
 
-
 #### § 19 Bachelor- und Masterstudiengänge
 
 (1) Die Hochschulen können Studiengänge einrichten, die zu einem
@@ -376,7 +351,6 @@ und 3 führen, beträgt die Gesamtregelstudienzeit höchstens fünf Jahre.
 (6) Den Urkunden über die Verleihung der akademischen Grade fügen die
 Hochschulen auf Antrag eine englischsprachige Übersetzung bei.
 
-
 #### § 20 Studium an ausländischen Hochschulen
 
 Studien- und Prüfungsleistungen, die an ausländischen Hochschulen
@@ -384,15 +358,11 @@ erbracht worden sind, werden anerkannt, wenn ihre Gleichwertigkeit
 festgestellt ist. § 5a Abs. 1 Satz 2 und § 112 des Deutschen
 Richtergesetzes bleiben unberührt.
 
-
 #### § 21
 
 (weggefallen)
 
-
 ### 3. Abschnitt - Forschung
-
-
 
 #### § 22 Aufgaben und Koordination der Forschung
 
@@ -410,11 +380,9 @@ Hochschulen untereinander, mit anderen Forschungseinrichtungen und mit
 Einrichtungen der überregionalen Forschungsplanung und
 Forschungsförderung zusammen.
 
-
 #### § 23
 
 (weggefallen)
-
 
 #### § 24 Veröffentlichung von Forschungsergebnissen
 
@@ -422,7 +390,6 @@ Bei der Veröffentlichung von Forschungsergebnissen sind Mitarbeiter,
 die einen eigenen wissenschaftlichen oder wesentlichen sonstigen
 Beitrag geleistet haben, als Mitautoren zu nennen; soweit möglich, ist
 ihr Beitrag zu kennzeichnen.
-
 
 #### § 25 Forschung mit Mitteln Dritter
 
@@ -475,17 +442,13 @@ der Hochschule als Entgelt für die Inanspruchnahme von Personal,
 Sachmitteln und Einrichtungen zufließen, stehen der Hochschule für die
 Erfüllung ihrer Aufgaben zur Verfügung.
 
-
 #### § 26 Entwicklungsvorhaben
 
 Die Vorschriften dieses Abschnitts gelten für Entwicklungsvorhaben im
 Rahmen angewandter Forschung sowie für künstlerische
 Entwicklungsvorhaben sinngemäß.
 
-
 ## 2. Kapitel - Zulassung zum Studium
-
-
 
 ### § 27 Allgemeine Voraussetzungen
 
@@ -508,11 +471,9 @@ Landesrechts auch auf andere Weise erbringen.
 (3) Rechtsvorschriften, nach denen weitere Personen Deutschen nach
 Absatz 1 gleichgestellt sind, bleiben unberührt.
 
-
 ### § 28
 
 (weggefallen)
-
 
 ### § 29 Maßstäbe der Ausbildungskapazität
 
@@ -535,7 +496,6 @@ erforderlich ist. Der Festsetzung geht die Überprüfung voraus, ob im
 Rahmen der verfügbaren Mittel die Möglichkeiten zur Nutzung der
 vorhandenen Ausbildungskapazität ausgeschöpft worden sind.
 
-
 ### § 30 Festsetzung von Zulassungszahlen
 
 (1) Zulassungszahlen werden durch Landesrecht festgesetzt. Sie sind
@@ -554,7 +514,6 @@ einheitlichen Grundsätze nach § 29 Abs. 1 sind anzuwenden. Im Falle
 des § 29 Abs. 2 ist das Ergebnis der Überprüfung, ob im Rahmen der
 verfügbaren Mittel die Möglichkeiten der Nutzung der vorhandenen
 Ausbildungskapazität ausgeschöpft worden sind, anzugeben.
-
 
 ### § 31 Zentrale Vergabe von Studienplätzen
 
@@ -602,7 +561,6 @@ Studiengangs, kann eine auf den ersten Teil des Studiengangs
 beschränkte Zuweisung und Einschreibung erfolgen, wenn gewährleistet
 ist, daß der Student sein Studium an anderen Hochschulen im
 Geltungsbereich dieses Gesetzes fortsetzen kann.
-
 
 ### § 32 Auswahlverfahren
 
@@ -726,16 +684,13 @@ kann eine Verbindung der Maßstäbe nach Absatz 3 Nr. 1 und 2 oder,
 unbeschadet des § 34 Satz 2, die Auswahl durch das Los vorgesehen
 werden.
 
-
 ### § 33
 
 (weggefallen)
 
-
 ### § 33a
 
 (weggefallen)
-
 
 ### § 34 Benachteiligungsverbot
 
@@ -771,7 +726,6 @@ Den Bewerbern dürfen keine Nachteile entstehen
 Bei gleichem Rang nach § 32 Abs. 2 und 3 haben die Bewerber nach Satz
 1 den Vorrang.
 
-
 ### § 35 Unabhängigkeit der Zulassung von der Landeszugehörigkeit
 
 Die Zulassung eines Studienbewerbers, der Deutscher im Sinne des
@@ -782,14 +736,9 @@ oder in welchem Land der Bundesrepublik Deutschland der
 Studienbewerber die Qualifikation für das Hochschulstudium erworben
 hat; § 32 Abs. 3 Nr. 1 Satz 4 bis 6 bleibt unberührt.
 
-
 ## 3. Kapitel - Mitglieder der Hochschule
 
-
-
 ### 1. Abschnitt - Mitgliedschaft und Mitwirkung
-
-
 
 #### § 36 Mitgliedschaft
 
@@ -802,7 +751,6 @@ Ehrensenatoren.
 (2) Den Professoren stehen nach dem Eintritt in den Ruhestand die mit
 der Lehrbefugnis verbundenen Rechte zur Abhaltung von
 Lehrveranstaltungen und zur Beteiligung an Prüfungsverfahren zu.
-
 
 #### § 37 Allgemeine Grundsätze der Mitwirkung
 
@@ -835,11 +783,9 @@ Vertretung von Frauen und Männern ist anzustreben.
 (3) Die Hochschulmitglieder dürfen wegen ihrer Tätigkeit in der
 Selbstverwaltung nicht benachteiligt werden.
 
-
 #### (XXXX) §§ 38 bis 40 (weggefallen)
 
 -
-
 
 #### § 41 Studentenschaft
 
@@ -861,10 +807,7 @@ Landesbehörde.
 (3) Für die Mitwirkung in den Organen der Studentenschaft gilt § 37
 Abs. 3 entsprechend.
 
-
 ### 2. Abschnitt - Wissenschaftliches und künstlerisches Personal
-
-
 
 #### § 42 Hauptberufliches wissenschaftliches und künstlerisches Personal
 
@@ -879,14 +822,12 @@ Befähigung und fachlicher Leistung (Artikel 33 Abs. 2 des
 Grundgesetzes) gefördert. Ziel der Förderung ist vor allem die
 Erhöhung des Anteils der Frauen in der Wissenschaft.
 
-
 #### § 43 Dienstliche Aufgaben der Hochschullehrerinnen und Hochschullehrer
 
 Die Hochschullehrerinnen und Hochschullehrer nehmen die ihrer
 Hochschule jeweils obliegenden Aufgaben in Wissenschaft und Kunst,
 Forschung, Lehre und Weiterbildung in ihren Fächern nach näherer
 Ausgestaltung ihres Dienstverhältnisses selbständig wahr.
-
 
 #### § 44 Einstellungsvoraussetzungen für Professorinnen und Professoren
 
@@ -916,13 +857,6 @@ neben den allgemeinen dienstrechtlichen Voraussetzungen grundsätzlich
         wissenschaftlicher Erkenntnisse und Methoden in einer mehrjährigen
         beruflichen Praxis.
 
-
-
-
-
-
-
-
 #### § 45 Ausschreibung von Stellen für Hochschullehrerinnen und Hochschullehrer
 
 Die Stellen für Hochschullehrerinnen und Hochschullehrer sind
@@ -931,13 +865,11 @@ Landesrecht kann Ausnahmen von der Ausschreibungspflicht vorsehen,
 insbesondere wenn eine Juniorprofessorin oder ein Juniorprofessor auf
 eine Professur berufen werden soll.
 
-
 #### § 46 Dienstrechtliche Stellung der Professoren
 
 Die Professoren werden, soweit sie in das Beamtenverhältnis berufen
 werden, zu Beamten auf Zeit oder auf Lebenszeit ernannt; durch Gesetz
 kann bestimmt werden, daß eine Probezeit zurückzulegen ist.
-
 
 #### § 47 Einstellungsvoraussetzungen für Juniorprofessorinnen und Juniorprofessoren
 
@@ -965,7 +897,6 @@ betragen haben. Verlängerungen nach § 2 Abs. 5 Satz 1 Nr. 1 und 3 bis
 Betracht. § 2 Abs. 3 Satz 1 des Wissenschaftszeitvertragsgesetzes gilt
 entsprechend.
 
-
 #### § 48 Dienstrechtliche Stellung der Juniorprofessorinnen und Juniorprofessoren
 
 (1) Für Juniorprofessorinnen und Juniorprofessoren ist ein
@@ -980,26 +911,21 @@ Zeit ernannt, so gelten, soweit dieses Gesetz nichts anderes bestimmt,
 die Vorschriften für Beamtinnen und Beamte auf Lebenszeit
 entsprechend.
 
-
 #### § 48a
 
 (weggefallen)
-
 
 #### § 48b
 
 (weggefallen)
 
-
 #### § 48c
 
 (weggefallen)
 
-
 #### § 48d
 
 (weggefallen)
-
 
 #### § 49 Anwendung der Vorschriften des Beamtenrechtsrahmengesetzes
 
@@ -1007,7 +933,6 @@ Auf beamtete Hochschullehrerinnen und Hochschullehrer sowie
 wissenschaftliche und künstlerische Mitarbeiterinnen und Mitarbeiter
 finden die Vorschriften des Beamtenrechtsrahmengesetzes Anwendung,
 soweit dieses Gesetz nichts anderes bestimmt.
-
 
 #### § 50 Dienstrechtliche Sonderregelungen
 
@@ -1051,16 +976,13 @@ sonstigen Angehörigen.
 befristetes Angestelltenverhältnis begründet worden ist, gilt Absatz 3
 entsprechend.
 
-
 #### § 51
 
 (weggefallen)
 
-
 #### § 52
 
 (weggefallen)
-
 
 #### § 53 Wissenschaftliche und künstlerische Mitarbeiterinnen und Mitarbeiter
 
@@ -1086,11 +1008,9 @@ Voraussetzungen grundsätzlich ein abgeschlossenes Hochschulstudium.
 (4) Die Absätze 1 und 2 gelten für künstlerische Mitarbeiterinnen und
 Mitarbeiter entsprechend.
 
-
 #### § 54
 
 (weggefallen)
-
 
 #### § 55 Lehrbeauftragte
 
@@ -1103,7 +1023,6 @@ Vergütung verzichtet oder wenn die durch den Lehrauftrag entstehende
 Belastung bei der Bemessung der Dienstaufgaben eines hauptberuflich im
 öffentlichen Dienst Tätigen entsprechend berücksichtigt wird.
 
-
 #### § 56 Lehrkräfte für besondere Aufgaben
 
 Soweit überwiegend eine Vermittlung praktischer Fertigkeiten und
@@ -1112,18 +1031,13 @@ für Hochschullehrerinnen und Hochschullehrer erfordert, kann diese
 hauptberuflich tätigen Lehrkräften für besondere Aufgaben übertragen
 werden.
 
-
 #### § 57
 
 (weggefallen)
 
-
 #### (XXXX) §§ 57a bis 57f (weggefallen)
 
-
 ## 4. Kapitel - Rechtsstellung der Hochschule
-
-
 
 ### § 58 Rechtsform und Selbstverwaltungsrecht
 
@@ -1136,7 +1050,6 @@ Selbstverwaltung im Rahmen der Gesetze.
 Landes bedürfen. Die Voraussetzungen für eine Versagung der
 Genehmigung sind gesetzlich zu regeln.
 
-
 ### § 59 Aufsicht
 
 Das Land übt die Rechtsaufsicht aus. Die Mittel der Rechtsaufsicht
@@ -1144,15 +1057,11 @@ werden durch Gesetz bestimmt. Soweit die Hochschulen staatliche
 Aufgaben wahrnehmen, ist durch Gesetz eine weitergehende Aufsicht
 vorzusehen.
 
-
 ### (XXXX) §§ 60 bis 69 (weggefallen)
 
 -
 
-
 ## 5. Kapitel - Staatliche Anerkennung
-
-
 
 ### § 70 Anerkennung von Einrichtungen
 
@@ -1208,17 +1117,13 @@ in die zentrale Vergabe von Studienplätzen (§ 31) einzubeziehen.
 
 (5) (weggefallen)
 
-
 ### § 71 Gleichstellung von Abschlüssen der Notarschule
 
 Die Abschlüsse der Ausbildung an der Notarschule des Landes Baden-
 Württemberg können den Abschlüssen eines vergleichbaren Studiengangs
 an einer staatlichen Hochschule gleichgestellt werden.
 
-
 ## 6. Kapitel - Anpassung des Landesrechts
-
-
 
 ### § 72 Anpassungsfristen
 
@@ -1277,7 +1182,6 @@ Fassung anzuwenden. Die Länder treffen die erforderlichen
 ergänzenden Vorschriften der Länder müssen übereinstimmen, soweit dies
 für die zentrale Vergabe der Studienplätze notwendig ist.
 
-
 ### § 73 Abweichende Regelungen
 
 (1) Für Hochschulen, die ausschließlich ein weiterbildendes Studium
@@ -1293,11 +1197,9 @@ Regelungen getroffen werden, soweit die besondere Struktur und
 Aufgabenstellung dieser Hochschulen es erfordern. Die Anforderungen
 des § 70 Abs. 1 Nr. 1 bis 3 und 5 müssen erfüllt sein.
 
-
 ### § 74
 
 (weggefallen)
-
 
 ### § 74 Bisherige Dienstverhältnisse und Berufungsvereinbarungen
 
@@ -1314,9 +1216,7 @@ Ausstattung der Professuren von Änderungen des 2. Abschnitts des 3.
 Kapitels betroffen sind, sind sie unter angemessener Berücksichtigung
 der beiderseitigen Interessen der neuen Rechtslage anzupassen.
 
-
 ### (XXXX) §§ 75 und 75a (weggefallen)
-
 
 ### § 76 Besitzstandswahrung bei der Entpflichtung
 
@@ -1361,7 +1261,6 @@ Maßgebend nach Absatz 1 Satz 2 ist das am Tage ihres Ausscheidens aus
 dem Beamtenverhältnis als Professoren im Landesbereich geltende
 Beamten- und Besoldungsrecht.
 
-
 ### § 76a Übergangsvorschrift für Hochschulassistenten
 
 Auf die beim Inkrafttreten des nach § 72 Abs. 1 Satz 2 erlassenen
@@ -1371,25 +1270,19 @@ Beamtenrechtsrahmengesetzes, des Bundesbeamtengesetzes und des
 Beamtenversorgungsgesetzes in der bis zum 22. November 1985 geltenden
 Fassung Anwendung.
 
-
 ## 7. Kapitel - Änderung von Bundesgesetzen, Schlußvorschriften
-
-
 
 ### (XXXX) §§ 77 bis 80 (weggefallen)
 
 (Änderung von Rechtsvorschriften)
 
-
 ### § 81 Verträge mit den Kirchen
 
 Die Verträge mit den Kirchen werden durch dieses Gesetz nicht berührt.
 
-
 ### § 82
 
 (weggefallen)
-
 
 ### § 83
 

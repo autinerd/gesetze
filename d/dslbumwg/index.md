@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 176 V v. 31.10.2006 I 2407
 
-
 ## § 1 Errichtung durch Umwandlung
 
 (1) Die Deutsche Siedlungs- und Landesrentenbank, bundesunmittelbare
@@ -43,7 +42,6 @@ Aufbewahrung beim Gericht zu zeichnen.
 das Handelsregister einzutragen. § 39 des Aktiengesetzes ist
 anzuwenden.
 
-
 ## § 2 Wirkungen der Umwandlung für die Anteilsinhaber
 
 Die Anteilsinhaber der Deutschen Siedlungs- und Landesrentenbank
@@ -64,13 +62,11 @@ ist. Den Anteilsinhabern steht die folgende Zahl von Aktien zu:
 Ferner steht der Bundesrepublik Deutschland und dem Freistaat Bayern
 eine Aktie in Bruchteilsgemeinschaft jeweils zur Hälfte zu.
 
-
 ## § 3 Satzung
 
 Die Satzung der Aktiengesellschaft wird im Anhang zu diesem Gesetz
 festgestellt. Sie kann nach Maßgabe des Aktiengesetzes geändert
 werden.
-
 
 ## § 4 Vorstand
 
@@ -81,7 +77,6 @@ Abberufung nach § 84 Abs. 3 des Aktiengesetzes ist zulässig.
 
 (2) Bis zur Eintragung in das Handelsregister gelten für die
 Vorstandsmitglieder die bisherigen Nachweise der Vertretungsbefugnis.
-
 
 ## § 5 Aufsichtsrat
 
@@ -94,14 +89,12 @@ durch die nach § 6 einzuberufende Hauptversammlung.
 des Aktiengesetzes sowie § 76 des Betriebsverfassungsgesetzes 1952
 finden auf den ersten Aufsichtsrat keine Anwendung.
 
-
 ## § 6 Erste Hauptversammlung
 
 Der Vorstand beruft die erste Hauptversammlung spätestens bis zum 31.
 März 2000 ein. Diese Hauptversammlung wählt zehn Mitglieder des
 Aufsichtsrats. Zehn weitere Aufsichtsratsmitglieder werden nach den
 Vorschriften des Mitbestimmungsgesetzes von den Arbeitnehmern gewählt.
-
 
 ## § 7 Ausgabe gedeckter Schuldverschreibungen
 
@@ -144,7 +137,6 @@ Anwendung, wenn andere Kreditinstitute Darlehen aus dem ihnen zur
 Verfügung gestellten Erlös der von der Aktiengesellschaft ausgegebenen
 gedeckten Schuldverschreibungen gewähren.
 
-
 ## § 8 Zwangsvollstreckung und Insolvenz
 
 (1) Auf Arreste und Zwangsvollstreckungen in die in das
@@ -153,7 +145,6 @@ Pfandbriefgesetzes entsprechend anzuwenden.
 
 (2) Im Fall der Eröffnung des Insolvenzverfahrens sind die §§ 30 bis
 37 des Pfandbriefgesetzes entsprechend anzuwenden.
-
 
 ## § 9 Anlagesicherheit, Deckungsstockfähigkeit
 
@@ -166,7 +157,6 @@ diesen Werten gleich.
 deckungsstockfähig, soweit Unternehmen nach Gesetz oder Satzung eine
 Deckungsmasse in Hypothekenpfandbriefen oder Öffentlichen Pfandbriefen
 nach dem Pfandbriefgesetz bilden können.
-
 
 ## § 10 Übergangsregelung für Schuldverschreibungen und Geschäfte der Deutschen Siedlungs- und Landesrentenbank sowie ihr gewährte Darlehen
 
@@ -194,7 +184,6 @@ auf diese Deckungsregister.
 Deckungswerte können weiterhin ohne Anrechnung auf die Obergrenze nach
 § 7 Abs. 1 durch gedeckte Schuldverschreibungen refinanziert werden.
 
-
 ## § 11 Haftung des Bundes für Altverbindlichkeiten
 
 Der Bund haftet für die Erfüllung der Verbindlichkeiten der Deutschen
@@ -203,7 +192,6 @@ Aktiengesellschaft in das Handelsregister begründet worden sind. Die
 Gläubiger der Aktiengesellschaft können den Bund nur in Anspruch
 nehmen, soweit sie aus dem Vermögen der Aktiengesellschaft nicht
 befriedigt werden können.
-
 
 ## § 12 Regelungen für betriebliche Interessenvertretungen sowie sonstige Übergangsregelungen
 
@@ -236,7 +224,6 @@ sind nach dem vor der Umwandlung anzuwendenden Recht abzuwickeln.
 Geschäftsjahr 1999 sind die für die Deutsche Siedlungs- und
 Landesrentenbank vor der Umwandlung geltenden Vorschriften anzuwenden.
 
-
 ## § 13 Weiterführung des Förderauftrags und Verwaltung des Zweckvermögens
 
 (1) Die Aktiengesellschaft hat anstelle der Deutschen Siedlungs- und
@@ -266,7 +253,6 @@ Finanzen durch Rechtsverordnung der Landwirtschaftlichen Rentenbank
 Aufgaben nach Absatz 1 oder 2 übertragen, soweit es sich um Aufgaben
 des Bundes handelt.
 
-
 ## § 14 Verschmelzung der Aktiengesellschaft
 
 (1) Für den Fall der Verschmelzung der Aktiengesellschaft gilt für die
@@ -278,7 +264,6 @@ Rechtsträger.
 übernehmender Rechtsträger, sind die Vorschriften der §§ 7 bis 9 über
 die Ausgabe gedeckter Schuldverschreibungen sowie die §§ 10 und 13 auf
 den übernehmenden Rechtsträger entsprechend anzuwenden.
-
 
 ## § 15 Inkrafttreten, Außerkrafttreten
 

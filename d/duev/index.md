@@ -27,7 +27,6 @@ Rates vom 12. Dezember 1991 zum Schutz der Gewässer vor
 Verunreinigungen durch Nitrat aus landwirtschaftlichen Quellen (ABl.
 EG Nr. L 375 S. 1).
 
-
 ## § 1 Geltungsbereich
 
 Die Verordnung regelt
@@ -41,10 +40,6 @@ Die Verordnung regelt
     Düngemitteln, Bodenhilfsstoffen, Kultursubstraten und
     Pflanzenhilfsmitteln auf landwirtschaftlich genutzten Flächen und auf
     anderen Flächen, soweit diese Verordnung dies ausdrücklich bestimmt.
-
-
-
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -135,10 +130,6 @@ Im Sinne dieser Verordnung sind:
 
     Boden, der durchgängig gefroren ist und im Verlauf des Tages nicht
     oberflächig auftaut.
-
-
-
-
 
 ## § 3 Grundsätze für die Anwendung
 
@@ -333,7 +324,6 @@ verboten. Geräte, die bis zum 14. Januar 2006 in Betrieb genommen
 wurden, dürfen abweichend von Satz 2 noch bis zum 31. Dezember 2015
 für das Aufbringen benutzt werden.
 
-
 ## § 4 Zusätzliche Vorgaben für die Anwendung von bestimmten Düngemitteln, Bodenhilfsstoffen, Kultursubstraten oder Pflanzenhilfsmitteln
 
 (1) Das Aufbringen von organischen Düngemitteln oder organisch-
@@ -468,7 +458,6 @@ verfügbarem Stickstoff oder Geflügelkot nur
 jedoch insgesamt nicht mehr als 40 Kilogramm Ammoniumstickstoff oder
 80 Kilogramm Gesamtstickstoff je Hektar aufgebracht werden.
 
-
 ## § 5 Nährstoffvergleich
 
 (1) Der Betriebsinhaber hat jährlich spätestens bis zum 31. März gemäß
@@ -541,13 +530,6 @@ Fruchtfolge innerhalb eines Düngejahres.
         Herkunft von nicht mehr als 500 Kilogramm Stickstoff je Betrieb
         aufweisen.
 
-
-
-
-
-
-
-
 ## § 6 Bewertung des betrieblichen Nährstoffvergleiches
 
 (1) Der Betriebsinhaber hat der nach Landesrecht zuständigen Stelle
@@ -604,7 +586,6 @@ zuletzt geändert durch die Verordnung vom 14. Februar 2003 (BGBl. I S.
 235), erstellte Nährstoffvergleiche den Nährstoffvergleichen nach Satz
 1 Nr. 2 gleich.
 
-
 ## § 7 Aufzeichnungen
 
 (1) Betriebsinhaber haben bis zum 31. März des auf das jeweils
@@ -657,7 +638,6 @@ eines Monats nach der jeweiligen Düngungsmaßnahme aufzuzeichnen
 
 (3) Die Aufzeichnungen nach den Absätzen 1 und 2 sind sieben Jahre
 nach Ablauf des Düngejahres aufzubewahren.
-
 
 ## § 8 Anwendungsbeschränkungen und Anwendungsverbote
 
@@ -747,7 +727,6 @@ Schadstoffe und Grenzwerte der Klärschlammverordnung und abweichend
 von den Sätzen 1 und 3 Nr. 2 gelten für Bioabfälle die Anforderungen
 an die Schadstoffe und Grenzwerte der Bioabfallverordnung.
 
-
 ## § 9 Besondere Anforderungen an Genehmigungen durch die zuständigen Stellen
 
 Soweit die nach Landesrecht zuständige Stelle auf Grund dieser
@@ -756,7 +735,6 @@ dabei besonders zu berücksichtigen, dass die Fruchtbarkeit des Bodens,
 die Gesundheit von Menschen und Tieren sowie der Naturhaushalt,
 insbesondere die Gewässerqualität, nicht gefährdet werden und andere
 öffentlich-rechtliche Vorschriften nicht entgegenstehen.
-
 
 ## § 10 Ordnungswidrigkeiten
 
@@ -806,7 +784,6 @@ Abs. 1 Satz 1, Abs. 2 Satz 1, Abs. 3 Satz 1, 3 oder 4 oder Abs. 5 Satz
 1 ein Düngemittel, einen Bodenhilfsstoff, ein Kultursubstrat oder ein
 Pflanzenhilfsmittel anwendet.
 
-
 ## § 11 Übergangsbestimmungen
 
 Abweichend von § 4 Abs. 4 Satz 1 dürfen Düngemittel mit wesentlichem
@@ -814,7 +791,6 @@ Gehalt an verfügbarem Stickstoff, ausgenommen Festmist ohne
 Geflügelkot, im Jahr 2006 bereits ab dem 16. Januar auf Acker- und
 Grünland aufgebracht werden. Die sich aus § 8 Abs. 1 ergebenden
 Anwendungsverbote gelten ab dem 4. Dezember 2006.
-
 
 ## § 11a Übergangsvorschrift
 
@@ -826,11 +802,9 @@ anzuwenden.
 (2) § 4 Abs. 4 ist auch auf Sachverhalte anzuwenden, die im Jahr 2006
 entstanden sind.
 
-
 ## § 12 (Inkrafttreten, Außerkrafttreten)
 
 -
-
 
 ## Anlage 1 (zu § 3 Abs. 2 Satz 1 Nr. 1) Stickstoffgehalt pflanzlicher Erzeugnisse
 
@@ -2327,10 +2301,6 @@ entstanden sind.
 
     *   2,80
 
-
-
-
-
 ## Anlage 2 (zu § 3 Abs. 2 Satz 1 Nr. 2 Buchstabe a) Voraussichtliche Stickstoff-Lieferung während des Pflanzenwachstums aus der Vorkultur
 
 (Fundstelle des Originaltextes: BGBl. I 2007, 233)
@@ -2471,10 +2441,6 @@ entstanden sind.
         der Hauptfruchternte des Vorjahres (Tab. 2) werden in der Summe
         höchstens 40 kg N/ha angerechnet.
 
-
-
-
-
 ## Anlage 3 (zu § 3 Abs. 2 Satz 1 Nr. 2 Buchstabe b) Mindestwerte für pflanzenbauliche Stickstoff-Wirksamkeit zugeführter Wirtschaftsdünger im Jahr der Aufbringung in Prozent des ausgebrachten Gesamtstickstoffs 1) bei langjähriger Anwendung
 
 (Fundstelle des Originaltextes: BGBl. I 2007, 234)
@@ -2534,13 +2500,6 @@ entstanden sind.
 
         3)  mit Einstreu.
 
-
-
-
-
-
-
-
 ## Anlage 4 (zu § 3 Abs. 10) Geräte zum Ausbringen von Düngemitteln, die nicht den allgemein anerkannten Regeln der Technik entsprechen
 
 Fundstelle des Originaltextes: BGBl. I 2007, 234
@@ -2560,10 +2519,6 @@ Fundstelle des Originaltextes: BGBl. I 2007, 234
 
 
 5.  Drehstrahlregner zur Verregnung von unverdünnter Gülle.
-
-
-
-
 
 ## Anlage 5 (zu § 4 Abs. 3) Nährstoffanfall bei landwirtschaftlichen Nutztieren
 
@@ -3485,13 +3440,6 @@ Fundstelle des Originaltextes: BGBl. I 2007, 234
 *    *
         4)  kein Jaucheanfall wegen hoher Einstreumenge oder Entmistungsverfahren
 
-
-
-
-
-
-
-
 ## Anlage 6 (zu § 4 Abs. 3, § 5 Abs. 1, 2 und 3, Anlagen 7 und 8) Kennzahlen für die sachgerechte Bewertung zugeführter Stickstoffdünger
 
 (Fundstelle des Originaltextes: BGBl. I 2007, 238)
@@ -3663,10 +3611,6 @@ Fundstelle des Originaltextes: BGBl. I 2007, 234
 1)  Bei ausschließlichem Weidegang. Bei anteiliger Schnittnutzung sind für
     diese die Werte gemäß Spalte 4 bzw. 5 anzusetzen.
 
-
-
-
-
 ## Anlage 7 (zu § 5 Abs. 1, § 7 Abs. 1 Nr. 3) Jährlicher betrieblicher Nährstoffvergleich für Stickstoff (N) oder Phosphat *A (P(tief)2O(tief)5) (Nährstoff unterstreichen) für das Düngejahr ...
 
 (Fundstelle des Originaltextes: BGBl. I 2007, 239;
@@ -3772,10 +3716,6 @@ I bilanzen)              I           I
 
 
 3)  Detaillierte Aufschlüsselung erforderlich.
-
-
-
-
 
 ## Anlage 8 (zu § 5 Abs. 1, § 6 Abs. 1, § 7 Abs. 1 Nr. 3) Mehrjähriger betrieblicher Nährstoffvergleich gleitende Mittelwerte für Stickstoff (3 Jahre) und Phosphat *A (P(tief)2O(tief)5)(6 Jahre)
 

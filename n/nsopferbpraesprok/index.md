@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1996, 17
 
-
-
 ## (XXXX)
 
 1995 jährte sich zum 50. Mal das Ende des Zweiten Weltkrieges und der

@@ -24,7 +24,6 @@ Fundstelle
     durch die Richtlinie 2006/96/EG des Rates vom 20. November 2006 (ABl.
     EU Nr. L 363 S. 81), sind beachtet worden.
 
-
 ## Eingangsformel
 
 Das Bundesministerium für Ernährung, Landwirtschaft und
@@ -39,12 +38,7 @@ Verbraucherschutz verordnet
     7 und 13 des Tierseuchengesetzes in der Fassung der Bekanntmachung vom
     22\. Juni 2004 (BGBl. I S. 1260, 3588):
 
-
-
-
-
 ## Abschnitt 1 - Künstliche Besamung
-
 
 ### § 1 Begriffsbestimmungen
 
@@ -68,16 +62,11 @@ Im Sinne dieser Verordnung sind
     2 Nr. 16 in Verbindung mit § 15 Abs. 1 Satz 1 Nr. 2 und 3 des
     Tierzuchtgesetzes.
 
-
-
-
-
 ### § 2 Anforderungen an Einrichtungen einer Besamungsstation
 
 Eine Besamungsstation verfügt über die für die Gewinnung, Behandlung,
 Lagerung und Abgabe von Samen erforderlichen Einrichtungen, wenn dort
 mindestens die in Anlage 1 genannten Einrichtungen vorhanden sind.
-
 
 ### § 3 Anforderungen beim Betrieb einer Besamungsstation
 
@@ -196,13 +185,6 @@ Der Betreiber einer Besamungsstation hat sicherzustellen, dass
     c)  dabei festgestellte Mängel schriftlich aufzeichnet sowie unverzüglich
         deren Abstellung veranlasst oder dem Betreiber mitteilt.
 
-
-
-
-
-
-
-
 ### § 4 Ausnahmen
 
 (1) Abweichend von § 3 Nr. 8 kann ein Hengst im Fall eines positiven
@@ -286,7 +268,6 @@ Samen des betroffenen Hengstes zu besamenden Stuten müssen
 
 auf der Besamungsstation getrennt von anderen Equiden gehalten werden.
 
-
 ### § 5 Kennzeichnungsnummer der Besamungsstation
 
 (1) Mit der Erlaubnis nach § 17 Abs. 1 des Tierzuchtgesetzes erteilt
@@ -304,7 +285,6 @@ der Buchstabe Z zu vergeben.
 Erlaubnis nach § 28 Abs. 3 des Tierzuchtgesetzes fortgilt, innerhalb
 von zwei Wochen nach dem 29. Oktober 2008 eine Kennzeichnungsnummer
 entsprechend Absatz 1 Satz 2.
-
 
 ### § 6 Kennzeichnung von Samen
 
@@ -348,10 +328,6 @@ mit den Maßgaben, dass die Kennzeichnung der Samenportion
 
 
 2.  die Angaben aller Spendertiere umfasst.
-
-
-
-
 
 ### § 7 Aufzeichnungen über Gewinnung, Aufbereitung, Lagerung und Abgabe von Samen
 
@@ -470,7 +446,6 @@ nach Inverkehrbringen oder Vernichtung des Samens in der
 Besamungsstation, sonstigen Besamungsstation oder in dem Samendepot
 aufzubewahren.
 
-
 ### § 8 Aufzeichnungen über die Verwendung von Samen
 
 (1) Für die nach § 14 Abs. 3 des Tierzuchtgesetzes erforderlichen
@@ -535,9 +510,7 @@ den §§ 27 und 34 der Viehverkehrsverordnung aufzuzeichnen.
 
 gleich.
 
-
 ## Abschnitt 2 - Tierzüchterische Bestimmungen für die künstliche Besamung
-
 
 ### § 9 Prüfeinsatz
 
@@ -636,9 +609,7 @@ Beginn des Prüfeinsatzes der am Sitz der Zuchtorganisation zuständigen
 Behörde das für den Prüfeinsatz vorgesehene männliche Zuchttier durch
 Vorlage der neuesten Zucht- oder Herkunftsbescheinigung anzuzeigen.
 
-
 ## Abschnitt 3 - Embryotransfer
-
 
 ### § 10 Anforderungen an Einrichtungen einer Embryo-Entnahmeeinheit
 
@@ -646,7 +617,6 @@ Die für die Gewinnung, Aufbereitung und Lagerung von Eizellen und
 Embryonen erforderlichen Einrichtungen einer Embryo-Entnahmeeinheit
 sind vorhanden, wenn die Embryo-Entnahmeeinheit mindestens über die in
 Anlage 3 genannten Einrichtungen verfügt.
-
 
 ### § 11 Anforderungen beim Betrieb einer Embryo-Entnahmeeinheit
 
@@ -703,13 +673,6 @@ Der Betreiber einer Embryo-Entnahmeeinheit hat sicherzustellen, dass
     b)  dabei festgestellte Mängel schriftlich aufzeichnet sowie unverzüglich
         deren Abstellung veranlasst oder dem Betreiber mitteilt.
 
-
-
-
-
-
-
-
 ### § 12 Kennzeichnungsnummer der Embryo-Entnahmeeinheit
 
 (1) Mit der Erlaubnis nach § 17 Abs. 1 des Tierzuchtgesetzes erteilt
@@ -727,7 +690,6 @@ der Buchstabe Z zu vergeben.
 Erlaubnisse nach § 28 Abs. 3 des Tierzuchtgesetzes fortgelten,
 innerhalb von zwei Wochen nach dem 29. Oktober 2008 eine
 Kennzeichnungsnummer nach Absatz 1 Satz 2.
-
 
 ### § 13 Kennzeichnung von Eizellen und Embryonen
 
@@ -769,7 +731,6 @@ anstelle der Kennzeichnungsnummer der herstellenden Embryo-
 Entnahmeeinheit nach Absatz 1 Satz 1 Nr. 4 wird die
 Veterinärkontrollnummer nach § 16 Satz 3 der Binnenmarkt-
 Tierseuchenschutzverordnung angegeben.
-
 
 ### § 14 Aufzeichnungen über Gewinnung, Aufbereitung, Lagerung und Abgabe von Eizellen und Embryonen
 
@@ -845,7 +806,6 @@ Verfahren oder in Informationssystemen erstellte Unterlagen gleich.
 nach Inverkehrbringen oder Vernichtung der Eizellen oder Embryonen in
 der Embryo-Entnahmeeinheit aufzubewahren.
 
-
 ### § 15 Aufzeichnungen über die Verwendung von Eizellen und Embryonen
 
 (1) Der Verwender nach § 16 Abs. 1 Tierzuchtgesetz, der nach § 16 Abs.
@@ -882,9 +842,7 @@ folgende Angaben zu machen:
 (2) Den Aufzeichnungen nach Absatz 1 stehen im automatisierten
 Verfahren oder in Informationssystemen erstellte Unterlagen gleich.
 
-
 ## Abschnitt 4 - Bestimmungen zum Datenzugang
-
 
 ### § 16 Zugang zu Daten aus Leistungsprüfungen und Zuchtwertschätzung
 
@@ -936,9 +894,7 @@ Verpflichtung, Daten oder Ergebnisse aus der Leistungsprüfung und
 Zuchtwertschätzung an eine Besamungsstation oder ein Samendepot
 weiterzugeben.
 
-
 ## Abschnitt 5 - Ordnungswidrigkeiten und Schlussvorschriften
-
 
 ### § 17 Ordnungswidrigkeiten
 
@@ -1000,14 +956,9 @@ handelt, wer vorsätzlich oder fahrlässig
 14. einer Vorschrift des § 11 Nr. 6 über die Behandlung von Tieren und
     deren Eizellen und Embryonen zuwiderhandelt.
 
-
-
-
-
 ### § 18 Aufhebung von Rechtsverordnungen
 
 -
-
 
 ### § 19 Inkrafttreten
 
@@ -1015,11 +966,9 @@ Diese Verordnung tritt 14 Tage nach der Verkündung in Kraft.
 Abweichend von Satz 1 treten die §§ 5 und 12 am Tag nach der
 Verkündung in Kraft.
 
-
 ### Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ### Anlage 1 (zu § 2 und § 3 Nr. 1, 5 und 6) Anforderungen an Einrichtungen einer Besamungsstation
 
@@ -1061,13 +1010,6 @@ Der Bundesrat hat zugestimmt.
 
     b)  die gesamte Station, bis auf die Büroräume, leicht gereinigt und
         desinfiziert werden kann.
-
-
-
-
-
-
-
 
 ### Anlage 2 (zu § 3 Nr. 5, 6, 8 und 13 Buchstabe a, § 4 Abs. 1 und 2) Vorgeschriebene Untersuchungen an männlichen Tieren, die zur Gewinnung von Samen für die künstliche Besamung vorgesehen sind
 
@@ -1240,9 +1182,6 @@ Der Bundesrat hat zugestimmt.
         Virusnachweis Zellkultur
 
     *   Wiederholung der Untersuchung nach 120 Tagen
-
-
-
 
 ### Anlage 3 (zu § 10 und § 11 Nr. 1) Anforderungen an Einrichtungen einer Embryo-Entnahmeeinheit
 

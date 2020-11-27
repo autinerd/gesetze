@@ -29,18 +29,15 @@ Rechtshilfe in Strafsachen vom 20. April 1959 und die Erleichterung
 seiner Anwendung wird zugestimmt. Der Vertrag wird nachstehend
 veröffentlicht.
 
-
 ## Art 2
 
 -
-
 
 ## Art 3
 
 Das Grundrecht der Freiheit der Person (Artikel 2 Abs. 2 des
 Grundgesetzes) wird nach Maßgabe des Artikels V des Vertrags
 eingeschränkt.
-
 
 ## Art 4
 
@@ -52,14 +49,12 @@ Bewilligungsbehörde kann der Verwaltungsbehörde, die für die
 Verfolgung der Zuwiderhandlung zuständig wäre, die Vornahme der
 Rechtshilfehandlung übertragen.
 
-
 ## Art 5
 
 Die Polizeibehörden sind zur Stellung von Ersuchen im Sinne des
 Artikels IX des Vertrags nur insoweit befugt, als sie nach
 innerstaatlichem Recht in eigener Zuständigkeit Anordnungen treffen
 können.
-
 
 ## Art 6
 
@@ -92,12 +87,10 @@ Verfolgung ist jedoch nur zulässig, wenn
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße geahndet werden.
 
-
 ## Art 7
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
-
 
 ## Art 8
 

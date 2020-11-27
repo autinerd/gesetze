@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BAnz: 1960, Nr 45
 
-
-
 ## I.
 
 Auf Grund des § 1 Abs. 2 Satz 2 des Gesetzes über die Errichtung des
@@ -32,17 +30,14 @@ ich dem Bundesverwaltungsamt die Ausstellung der Ersatzurkunden nach §
 gewöhnlichen Aufenthalt nicht im Geltungsbereich der Verordnung vom 6.
 Mai 1959 haben.
 
-
 ## II.
 
 -
-
 
 ## III.
 
 Diese Anordnung tritt am Tage nach ihrer Verkündung im Bundesanzeiger
 in Kraft.
-
 
 ## Schlußformel
 

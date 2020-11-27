@@ -19,8 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 17.10.2008 I 2005
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 10 Abs. 2 des Postpersonalrechtsgesetzes vom 14.
@@ -29,16 +27,12 @@ Buchstabe a des Gesetzes vom 9. November 2004 (BGBl. I S. 2774) neu
 gefasst worden ist, verordnet das Bundesministerium der Finanzen im
 Einvernehmen mit dem Bundesministerium des Innern:
 
-
 ## § 1 Geltungsbereich
 
 Sonderzahlungen an die bei der Deutschen Telekom AG beschäftigten
 Beamtinnen und Beamten werden nach Maßgabe dieser Verordnung gewährt.
 
-
 ## (XXXX) §§ 2 bis 4 (weggefallen)
-
-
 
 ## § 5 Sonderzahlung bei veränderter Wochenarbeitszeit
 
@@ -75,7 +69,6 @@ Zahlungszeitpunkt aus dem aktiven Dienst bei der Deutschen Telekom AG
 ausscheiden, erhalten die anteilige Sonderzahlung mit ihren letzten
 vor dem Ausscheiden gezahlten Dienstbezügen.
 
-
 ## § 6 Sonderzahlung aus besonderem Anlass
 
 Neben einer Sonderzahlung nach den § 5 kann der Vorstand den
@@ -84,11 +77,9 @@ ihrer Jahresbruttobezüge gewähren. Für Monate ohne Anspruch auf
 Besoldung erfolgt eine anteilige Kürzung, soweit vom Vorstand keine
 abweichende Festlegung getroffen wird.
 
-
 ## § 7
 
 (weggefallen)
-
 
 ## § 8 Inkrafttreten
 

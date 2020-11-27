@@ -19,8 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 30.6.2009 I 1714
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
@@ -30,17 +28,14 @@ zuletzt durch Artikel 184 Nr. 1 der Verordnung vom 25. November 2003
 für Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium
 für Bildung und Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Gestalter für visuelles Marketing/Gestalterin für
 visuelles Marketing wird staatlich anerkannt.
 
-
 ## § 2 Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Zielsetzung der Berufsausbildung
 
@@ -50,7 +45,6 @@ qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des
 Berufsbildungsgesetzes befähigt werden, die insbesondere selbständiges
 Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung
 ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
-
 
 ## § 4 Ausbildungsberufsbild
 
@@ -134,10 +128,6 @@ Fertigkeiten und Kenntnisse:
 
 7.4 Kaufmännische Steuerung und Kontrolle.
 
-
-
-
-
 ## § 5 Ausbildungsrahmenplan
 
 Die Fertigkeiten und Kenntnisse nach § 4 sollen nach den in den
@@ -148,12 +138,10 @@ zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
 zulässig, soweit betriebspraktische Besonderheiten die Abweichung
 erfordern.
 
-
 ## § 6 Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans
 für die Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 7 Berichtsheft
 
@@ -161,7 +149,6 @@ Die Auszubildenden haben ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden
 haben das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 8 Zwischenprüfung
 
@@ -182,7 +169,6 @@ Gestaltungsidee entwickeln und begründen. Dabei soll der Prüfling
 zeigen, dass er Skizzen erstellen und nutzen, Arbeitsabläufe planen
 und dokumentieren, Arbeitsmittel festlegen sowie Anforderungen der
 Arbeitssicherheit und des Umweltschutzes berücksichtigen kann.
-
 
 ## § 9 Abschlussprüfung
 
@@ -337,7 +323,6 @@ ausreichende Leistungen, in dem weiteren Prüfungsbereich des
 schriftlichen Prüfungsteils dürfen keine ungenügenden Leistungen
 erbracht worden sein.
 
-
 ## § 10 Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
@@ -345,11 +330,9 @@ Verordnung bestehen, sind die bisherigen Vorschriften weiter
 anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
 Anwendung der Vorschriften dieser Verordnung.
 
-
 ## § 11 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2004 in Kraft.
-
 
 ## Anlage 1 (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Gestalter für visuelles Marketing/zur Gestalterin für visuelles Marketing - Sachliche Gliederung -
 
@@ -982,10 +965,6 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 *    *   d)
 
     *   Eingang und Ausgang von Rechnungen kontrollieren
-
-
-
-
 
 ## Anlage 2 (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Gestalter für visuelles Marketing/zur Gestalterin für visuelles Marketing - Zeitliche Gliederung -
 

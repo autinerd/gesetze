@@ -15,14 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1996, 602
 
-
-
 ## § 1
 
 Die in Anlage I Kapitel V Sachgebiet D Abschnitt III Nr. 1 Buchstabe a
 des Einigungsvertrages vom 31. August 1990 (BGBl. 1990 II S. 885,
 1004) aufgeführten Maßgaben sind nicht mehr anzuwenden.
-
 
 ## § 2
 
@@ -50,7 +47,6 @@ Aufnahme der Aufsuchung durch Einreichung eines Betriebsplanes sechs
 Monate und die Frist für die Aufnahme der Gewinnung durch Einreichung
 eines Betriebsplanes 18 Monate nach Inkrafttreten dieses Gesetzes
 beträgt, sofern die Frist nicht bereits vorher abläuft.
-
 
 ## § 3
 

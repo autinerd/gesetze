@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 2795
 
-
 ## Eingangsformel
 
 Auf Grund des § 160 Nummer 1 in Verbindung mit § 158 Absatz 1 bis 3
@@ -28,18 +27,15 @@ Absatz 2 zuletzt durch Artikel 5 Nummer 3 des Gesetzes vom 2. Dezember
 Buchstabe b des Gesetzes vom 9. Dezember 2004 (BGBl. I S. 3242)
 geändert worden ist, verordnet die Bundesregierung:
 
-
 ## § 1 Beitragssätze in der Rentenversicherung
 
 Der Beitragssatz für das Jahr 2012 beträgt in der allgemeinen
 Rentenversicherung 19,6 Prozent und in der knappschaftlichen
 Rentenversicherung 26,0 Prozent.
 
-
 ## § 2 Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2012 in Kraft.
-
 
 ## Schlussformel
 

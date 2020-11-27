@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1974, 3119
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 1 Abs. 2 Satz 6 des Hüttenknappschaftlichen
@@ -24,7 +22,6 @@ Zusatzversicherungs-Gesetzes vom 22. Dezember 1971 (Bundesgesetzbl. I
 S. 2104), geändert durch Artikel 4 § 4 des Rentenreformgesetzes vom
 16\. Oktober 1972 (Bundesgesetzbl. I S. 1965), wird mit Zustimmung des
 Bundesrates verordnet:
-
 
 ## § 1 Stimmberechtigung
 
@@ -36,7 +33,6 @@ sind.
 
 (2) Der Stimmberechtigte kann sein Stimmrecht nur einmal und nur
 persönlich ausüben.
-
 
 ## § 2 Abstimmungsbekanntmachung
 
@@ -50,7 +46,6 @@ geeigneten, den Stimmberechtigten zugänglichen Stellen im Betrieb
 bekannt. Die Dauer des Aushangs soll ebenfalls mindestens sechs Wochen
 betragen.
 
-
 ## § 3 Tag, Zeit und Dauer der Abstimmung
 
 (1) Die Abstimmung ist an einem Arbeitstag während der in dem
@@ -62,7 +57,6 @@ Ausnahmen gestatten; § 2 Satz 1 findet Anwendung.
 (2) Die Abstimmungsdauer beträgt mindestens sechs Stunden. Sie kann
 durch Beschluß des Abstimmungsvorstands verkürzt werden, wenn alle in
 die Abstimmungsliste Eingetragenen abgestimmt haben.
-
 
 ## § 4 Abstimmungsvorstand
 
@@ -101,7 +95,6 @@ Mitglied des Abstimmungsvorstands zu unterzeichnen.
 Versicherungsträger die nach den Vorschriften dieser Verordnung dem
 Abstimmungsvorstand obliegenden Tätigkeiten selbst war.
 
-
 ## § 5 Abstimmungsliste
 
 (1) Der Arbeitgeber stellt unverzüglich nach der Bekanntgabe des
@@ -130,7 +123,6 @@ nach Eingang der Abstimmungsliste über diese Liste, die
 Abstimmungsbekanntmachung, den Abstimmungsvorgang und die Stimmabgabe
 in geeigneter Weise unterrichtet werden.
 
-
 ## § 6 Einspruch gegen die Abstimmungsliste
 
 (1) Jeder Stimmberechtigte kann Einspruch gegen die Richtigkeit der
@@ -149,7 +141,6 @@ rechtzeitig eingelegter und durch eine Entscheidung nach Absatz 2 als
 begründet anerkannter Einsprüche bis zum Ablauf des Tags vor dem
 Beginn der Abstimmung berichtigt oder ergänzt werden; § 5 Abs. 1 Satz
 3 bleibt unberührt.
-
 
 ## § 7 Stimmabgabe
 
@@ -175,7 +166,6 @@ mit "ja" oder "nein" beantworten will.
 aus denen sich der Wille des Stimmberechtigten nicht zweifelsfrei
 ergibt oder die andere Angaben als den in Absatz 2 genannten Aufdruck,
 einen Zusatz oder sonstige Änderungen enthalten, sind ungültig.
-
 
 ## § 8 Abstimmungsvorgang
 
@@ -204,7 +194,6 @@ vermerken.
 (4) Werden die Stimmen nicht unmittelbar nach Abschluß der Abstimmung
 ausgezählt, hat der Abstimmungsvorstand die Abstimmungsurnen zu
 versiegeln. Dasselbe gilt im Fall der Unterbrechung der Abstimmung.
-
 
 ## § 9 Briefliche Stimmabgabe
 
@@ -255,10 +244,6 @@ briefliche Stimmabgabe beschließen. Absatz 1 gilt entsprechend.
     den Abstimmungsvorstand abzusenden oder ihm zu übergeben, daß er dem
     Abstimmungsvorstand vor Abschluß der Abstimmung vorliegt.
 
-
-
-
-
 ## § 10 Behandlung der Abstimmungsbriefe durch den Abstimmungsvorstand
 
 (1) Unmittelbar vor Abschluß der Abstimmung öffnet der
@@ -272,7 +257,6 @@ Stimmabgabe in der Abstimmungsliste ungeöffnet in die Abstimmungsurne.
 (2) Verspätet eingehende Abstimmungsbriefumschläge hat der
 Abstimmungsvorstand mit einem Vermerk über den Eingangszeitpunkt
 ungeöffnet zu den Abstimmungsunterlagen zu nehmen.
-
 
 ## § 11 Ermittlung, Feststellung und Bekanntgabe des Abstimmungsergebnisses
 
@@ -326,13 +310,11 @@ Versicherungsträger unverzüglich zu übersenden. Wurde der Antrag von
 einem Arbeitnehmer gestellt (§ 4 Abs. 2 Satz 1), ist diesem anstelle
 des Betriebsrats die Abstimmungsniederschrift zu übersenden.
 
-
 ## § 12 Aufbewahrung der Abstimmungsunterlagen
 
 Der Versicherungsträger hat die Abstimmungsunterlagen mindestens ein
 Jahr aufzubewahren; die Frist beginnt mit dem auf den Tag der
 Entscheidung über den Aufnahmeantrag folgenden Kalenderjahr.
-
 
 ## § 13 Berlin-Klausel
 
@@ -341,13 +323,11 @@ Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 2 des Hüttenknappschaftlichen Zusatzversicherungs-Gesetzes vom 22.
 Dezember 1971 (Bundesgesetzbl. I S. 2104) auch im Land Berlin.
 
-
 ## § 14 Inkrafttreten
 
 (1) Diese Verordnung tritt am Tag nach ihrer Verkündung in Kraft.
 
 (2)
-
 
 ## Schlußformel
 

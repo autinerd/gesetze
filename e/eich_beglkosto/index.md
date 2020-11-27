@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 V v. 11. 7.2001 I 1608
 
-
 ## Eingangsformel
 
 Auf Grund des § 30 Abs. 1 Satz 1 Nr. 2 bis 5 und Satz 2 sowie Abs. 2
@@ -28,17 +27,13 @@ Verbindung mit dem 2. Abschnitt des Verwaltungskostengesetzes vom 23.
 Juni 1970 (BGBl. I S. 821) wird mit Zustimmung des Bundesrates
 verordnet:
 
-
 ## Erster Abschnitt - Kosten für Amtshandlungen der zuständigen Behörden
-
-
 
 ### § 1 Anwendungsbereich
 
 Die nach dem Eichgesetz zuständigen Behörden der Länder erheben für
 Amtshandlungen nach § 14 Satz 1 des Gesetzes Kosten (Gebühren und
 Auslagen) nach den §§ 2 bis 4 und 8 bis 13 dieser Verordnung.
-
 
 ### § 2 Eichkostenverordnung
 
@@ -109,7 +104,6 @@ berechnen. Die Beträge sind nach der Gebühr für den Arbeitsaufwand
 oder nach im Gebührenverzeichnis pauschalierten Festgebühren zu
 berechnen.
 
-
 ### § 2a Ermäßigungen und Zuschläge
 
 (1) Sofern im Gebührenverzeichnis vorgesehen, werden Ermäßigungen
@@ -120,13 +114,11 @@ erheben, wenn im Rahmen von Rundfahrten die sofortige Eichung von
 Messgeräten, für die eine Rundfahrtgebühr im Gebührenverzeichnis
 vorgesehen ist, vom Messgerätebesitzer abgelehnt wird.
 
-
 ### § 3 Gebühr für die Nacheichung im Jahreswendeverfahren
 
 Die Gebühr für die Nacheichung von Meßgeräten im Jahreswendeverfahren
 (§ 31 Abs. 2 der Eichordnung) beträgt das 0,2fache der im
 Gebührenverzeichnis festgelegten festen Gebühr.
-
 
 ### § 4 Auslagen
 
@@ -163,13 +155,7 @@ Verwaltungskostengesetzes. Es werden jedoch nicht gesondert erhoben
 
 2.  die Kosten für das Ein- und Auspacken der Messgeräte.
 
-
-
-
-
 ## Zweiter Abschnitt - Kosten für Amtshandlungen der staatlich anerkannten Prüfstellen
-
-
 
 ### § 5 Anwendungsbereich
 
@@ -177,7 +163,6 @@ Die staatlich anerkannten Prüfstellen für die Eichung von Messgeräten
 für Elektrizität, Gas, Wasser oder Wärme erheben für Amtshandlungen
 nach § 14 Satz 1 des Eichgesetzes Kosten (Gebühren und Auslagen) nach
 den §§ 6 bis 13 dieser Kostenverordnung.
-
 
 ### § 6 Gebührenarten
 
@@ -230,7 +215,6 @@ soweit die Zeiten innerhalb der üblichen Arbeitszeit liegen oder von
 der Prüfstelle abgegolten werden. Die Beträge sind nach der Gebühr für
 den Arbeitsaufwand zu berechnen.
 
-
 ### § 7 Auslagen
 
 (1) Für die Erhebung von Auslagen gilt § 10 des
@@ -245,13 +229,7 @@ bezeichneten Auslagen werden jedoch nicht gesondert erhoben.
 
 2.  die Kosten für das Ein- und Auspacken der Messgeräte.
 
-
-
-
-
 ## Dritter Abschnitt - Gemeinsame Vorschriften
-
-
 
 ### § 8 Gebühren nach dem Arbeitsaufwand
 
@@ -285,7 +263,6 @@ Für jede angefangene Viertelstunde ist ein Viertel dieser Stundensätze
 zu berechnen. Unterhalb einer Stunde erfolgt die Berechnung nach
 Zehntelstunden.
 
-
 ### § 9 Gebühren für Amtshandlungen zu besonderen Zeiten
 
 Fallen Amtshandlungen, Reise- und Wartezeiten auf Veranlassung des
@@ -294,7 +271,6 @@ Kostenschuldners ganz oder teilweise in Zeiten zwischen 20.00 Uhr und
 Zuschlag in Höhe von 50 vom Hundert der Gebühr nach dem Arbeitsaufwand
 erhoben, auch soweit für die Amtshandlungen feste Gebühren vorgesehen
 sind.
-
 
 ### § 10 Gebühren für Widerruf, Rücknahme, Ablehnung und Widerspruch
 
@@ -321,10 +297,6 @@ Die Gebühr beträgt für
     25 Euro bis zu dem Betrag, der für die Vornahme der angefochtenen
     Amtshandlung vorgesehen ist oder zu erheben wäre.
 
-
-
-
-
 ### § 10a Stückzahlabhängige Gebührensätze
 
 (1) Die stückzahlabhängigen Gebührensätze des Gebührenverzeichnisses
@@ -335,7 +307,6 @@ einmaligem Aufbau und Abbau von Prüfeinrichtungen an einem Prüfort.
 (2) Werden stückzahlabhängige Gebührensätze angewandt, so werden
 zunächst die Gebühren für geeichte Meßgeräte und im Anschluß daran die
 ermäßigten Gebühren nach § 10 Nr. 2 berechnet.
-
 
 ### § 11 Befundprüfung
 
@@ -348,12 +319,10 @@ bereitgehalten werden darf, so trägt der Besitzer des Meßgeräts die
 Kosten der Befundprüfung auch dann, wenn er die Befundprüfung nicht
 beantragt hat.
 
-
 ### § 12 Kostenerhebung bei regelmäßiger Vorlage von Meßgeräten
 
 Von Antragstellern, die regelmäßig Meßgeräte vorlegen, können die
 Kosten in angemessenen Zeitabständen erhoben werden.
-
 
 ### § 13 Bescheinigungen
 
@@ -367,16 +336,13 @@ Stück.
 2,50 Euro berechnet. Bei der Angabe von mehr als zehn Messwerten
 erfolgt die Berechnung nach Arbeitsaufwand.
 
-
 ### § 14 Inkrafttreten
 
 Diese Verordnung tritt am 1. Mai 1982 in Kraft.
 
-
 ### Schlußformel
 
 Der Bundesminister für Wirtschaft
-
 
 ### Anlage Gebührenverzeichnis
 

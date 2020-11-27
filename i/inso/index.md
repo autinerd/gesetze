@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 19 G v. 20.12.2011 I 2854
 
-
 ## Erster Teil - Allgemeine Vorschriften
-
-
 
 ### § 1 Ziele des Insolvenzverfahrens
 
@@ -31,7 +28,6 @@ verwertet und der Erlös verteilt oder in einem Insolvenzplan eine
 abweichende Regelung insbesondere zum Erhalt des Unternehmens
 getroffen wird. Dem redlichen Schuldner wird Gelegenheit gegeben, sich
 von seinen restlichen Verbindlichkeiten zu befreien.
-
 
 ### § 2 Amtsgericht als Insolvenzgericht
 
@@ -46,7 +42,6 @@ Insolvenzgerichten zu bestimmen und die Bezirke der Insolvenzgerichte
 abweichend festzulegen. Die Landesregierungen können die Ermächtigung
 auf die Landesjustizverwaltungen übertragen.
 
-
 ### § 3 Örtliche Zuständigkeit
 
 (1) Örtlich zuständig ist ausschließlich das Insolvenzgericht, in
@@ -59,12 +54,10 @@ Insolvenzgericht zuständig, in dessen Bezirk dieser Ort liegt.
 zuerst die Eröffnung des Insolvenzverfahrens beantragt worden ist, die
 übrigen aus.
 
-
 ### § 4 Anwendbarkeit der Zivilprozeßordnung
 
 Für das Insolvenzverfahren gelten, soweit dieses Gesetz nichts anderes
 bestimmt, die Vorschriften der Zivilprozeßordnung entsprechend.
-
 
 ### § 4a Stundung der Kosten des Insolvenzverfahrens
 
@@ -110,7 +103,6 @@ Die Stundung erfolgt für jeden Verfahrensabschnitt besonders. Bis zur
 Entscheidung über die Stundung treten die in Satz 1 genannten
 Wirkungen einstweilig ein. § 4b Abs. 2 gilt entsprechend.
 
-
 ### § 4b Rückzahlung und Anpassung der gestundeten Beträge
 
 (1) Ist der Schuldner nach Erteilung der Restschuldbefreiung nicht in
@@ -127,7 +119,6 @@ haben. Der Schuldner ist verpflichtet, dem Gericht eine wesentliche
 Satz 1 und 2 der Zivilprozessordnung gilt entsprechend. Eine Änderung
 zum Nachteil des Schuldners ist ausgeschlossen, wenn seit der
 Beendigung des Verfahrens vier Jahre vergangen sind.
-
 
 ### § 4c Aufhebung der Stundung
 
@@ -158,10 +149,6 @@ Das Gericht kann die Stundung aufheben, wenn
 
 5.  die Restschuldbefreiung versagt oder widerrufen wird.
 
-
-
-
-
 ### § 4d Rechtsmittel
 
 (1) Gegen die Ablehnung der Stundung oder deren Aufhebung sowie gegen
@@ -172,7 +159,6 @@ die sofortige Beschwerde zu.
 sofortige Beschwerde zu. Diese kann nur darauf gestützt werden, dass
 nach den persönlichen oder wirtschaftlichen Verhältnissen des
 Schuldners die Stundung hätte abgelehnt werden müssen.
-
 
 ### § 5 Verfahrensgrundsätze
 
@@ -200,7 +186,6 @@ treffen. Dabei können sie auch Vorgaben für die Datenformate der
 elektronischen Einreichung machen. Die Landesregierungen können die
 Ermächtigung auf die Landesjustizverwaltungen übertragen.
 
-
 ### § 6 Sofortige Beschwerde
 
 (1) Die Entscheidungen des Insolvenzgerichts unterliegen nur in den
@@ -215,10 +200,7 @@ oder, wenn diese nicht verkündet wird, mit deren Zustellung.
 wirksam. Das Beschwerdegericht kann jedoch die sofortige Wirksamkeit
 der Entscheidung anordnen.
 
-
 ### § 7 (weggefallen)
-
-
 
 ### § 8 Zustellungen
 
@@ -240,7 +222,6 @@ Zustellung und zur Erfassung in den Akten kann er sich Dritter,
 insbesondere auch eigenen Personals, bedienen. Der Insolvenzverwalter
 hat die von ihm nach § 184 Abs. 2 Satz 4 der Zivilprozessordnung
 angefertigten Vermerke unverzüglich zu den Gerichtsakten zu reichen.
-
 
 ### § 9 Öffentliche Bekanntmachung
 
@@ -273,7 +254,6 @@ Zustellung vorschreibt.
 -----
 www.insolvenzbekanntmachungen.de
 
-
 ### § 10 Anhörung des Schuldners
 
 (1) Soweit in diesem Gesetz eine Anhörung des Schuldners
@@ -289,14 +269,9 @@ eine juristische Person und hat diese keinen organschaftlichen
 Vertreter (Führungslosigkeit), so können die an ihm beteiligten
 Personen gehört werden; Absatz 1 Satz 1 gilt entsprechend.
 
-
 ## Zweiter Teil - Eröffnung des Insolvenzverfahrens. Erfaßtes Vermögen und Verfahrensbeteiligte
 
-
-
 ### Erster Abschnitt - Eröffnungsvoraussetzungen und Eröffnungsverfahren
-
-
 
 #### § 11 Zulässigkeit des Insolvenzverfahrens
 
@@ -324,7 +299,6 @@ Verein steht insoweit einer juristischen Person gleich.
 ohne Rechtspersönlichkeit ist die Eröffnung des Insolvenzverfahrens
 zulässig, solange die Verteilung des Vermögens nicht vollzogen ist.
 
-
 #### § 12 Juristische Personen des öffentlichen Rechts
 
 (1) Unzulässig ist das Insolvenzverfahren über das Vermögen
@@ -347,7 +321,6 @@ nach den Vorschriften des Dritten Buches Sozialgesetzbuch über das
 Insolvenzgeld von der Agentur für Arbeit und nach den Vorschriften des
 Gesetzes zur Verbesserung der betrieblichen Altersversorgung vom
 Träger der Insolvenzsicherung beanspruchen könnten.
-
 
 #### § 13 Eröffnungsantrag
 
@@ -404,7 +377,6 @@ Verfahren, die von den Gerichten maschinell bearbeitet, und für
 solche, die nicht maschinell bearbeitet werden, können
 unterschiedliche Formulare eingeführt werden.
 
-
 #### § 14 Antrag eines Gläubigers
 
 (1) Der Antrag eines Gläubigers ist zulässig, wenn der Gläubiger ein
@@ -422,7 +394,6 @@ zu hören.
 (3) Wird die Forderung des Gläubigers nach Antragstellung erfüllt, so
 hat der Schuldner die Kosten des Verfahrens zu tragen, wenn der Antrag
 als unbegründet abgewiesen wird.
-
 
 #### § 15 Antragsrecht bei juristischen Personen und Gesellschaften ohne Rechtspersönlichkeit
 
@@ -454,7 +425,6 @@ die Absätze 1 und 2 entsprechend für die organschaftlichen Vertreter
 und die Abwickler der zur Vertretung der Gesellschaft ermächtigten
 Gesellschafter. Entsprechendes gilt, wenn sich die Verbindung von
 Gesellschaften in dieser Art fortsetzt.
-
 
 #### § 15a Antragspflicht bei juristischen Personen und Gesellschaften ohne Rechtspersönlichkeit
 
@@ -492,12 +462,10 @@ richtig oder nicht rechtzeitig stellt.
 (5) Handelt der Täter in den Fällen des Absatzes 4 fahrlässig, ist die
 Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
 
-
 #### § 16 Eröffnungsgrund
 
 Die Eröffnung des Insolvenzverfahrens setzt voraus, daß ein
 Eröffnungsgrund gegeben ist.
-
 
 #### § 17 Zahlungsunfähigkeit
 
@@ -507,7 +475,6 @@ Eröffnungsgrund gegeben ist.
 die fälligen Zahlungspflichten zu erfüllen. Zahlungsunfähigkeit ist in
 der Regel anzunehmen, wenn der Schuldner seine Zahlungen eingestellt
 hat.
-
 
 #### § 18 Drohende Zahlungsunfähigkeit
 
@@ -524,7 +491,6 @@ Vertretungsorgans, allen persönlich haftenden Gesellschaftern oder
 allen Abwicklern gestellt, so ist Absatz 1 nur anzuwenden, wenn der
 oder die Antragsteller zur Vertretung der juristischen Person oder der
 Gesellschaft berechtigt sind.
-
 
 #### § 19 Überschuldung
 
@@ -548,7 +514,6 @@ persönlich haftenden Gesellschaftern eine andere Gesellschaft gehört,
 bei der ein persönlich haftender Gesellschafter eine natürliche Person
 ist.
 
-
 #### § 20 Auskunfts- und Mitwirkungspflicht im Eröffnungsverfahren*. Hinweis auf Restschuldbefreiung
 
 (1) Ist der Antrag zulässig, so hat der Schuldner dem Insolvenzgericht
@@ -560,7 +525,6 @@ entsprechend.
 (2) Ist der Schuldner eine natürliche Person, so soll er darauf
 hingewiesen werden, dass er nach Maßgabe der §§ 286 bis 303
 Restschuldbefreiung erlangen kann.
-
 
 #### § 21 Anordnung vorläufiger Maßnahmen
 
@@ -632,7 +596,6 @@ lassen. Ist der Schuldner keine natürliche Person, so gilt
 entsprechendes für seine organschaftlichen Vertreter. Für die
 Anordnung von Haft gilt § 98 Abs. 3 entsprechend.
 
-
 #### § 22 Rechtsstellung des vorläufigen Insolvenzverwalters
 
 (1) Wird ein vorläufiger Insolvenzverwalter bestellt und dem Schuldner
@@ -671,7 +634,6 @@ Einsicht in seine Bücher und Geschäftspapiere zu gestatten. Er hat ihm
 alle erforderlichen Auskünfte zu erteilen und ihn bei der Erfüllung
 seiner Aufgaben zu unterstützen; die §§ 97, 98, 101 Abs. 1 Satz 1, 2,
 Abs. 2 gelten entsprechend.
-
 
 #### § 22a Bestellung eines vorläufigen Gläubigerausschusses
 
@@ -712,7 +674,6 @@ Vermögenslage des Schuldners führt.
 vorläufige Insolvenzverwalter Personen zu benennen, die als Mitglieder
 des vorläufigen Gläubigerausschusses in Betracht kommen.
 
-
 #### § 23 Bekanntmachung der Verfügungsbeschränkungen
 
 (1) Der Beschluß, durch den eine der in § 21 Abs. 2 Nr. 2 vorgesehenen
@@ -732,7 +693,6 @@ Beschlusses zu übermitteln.
 Schiffsregister, im Schiffsbauregister und im Register über
 Pfandrechte an Luftfahrzeugen gelten die  §§ 32, 33 entsprechend.
 
-
 #### § 24 Wirkungen der Verfügungsbeschränkungen
 
 (1) Bei einem Verstoß gegen eine der in § 21 Abs. 2 Nr. 2 vorgesehenen
@@ -742,7 +702,6 @@ Verfügungsbeschränkungen gelten die §§ 81, 82 entsprechend.
 einen vorläufigen Insolvenzverwalter übergegangen, so gelten für die
 Aufnahme anhängiger Rechtsstreitigkeiten § 85 Abs. 1 Satz 1 und § 86
 entsprechend.
-
 
 #### § 25 Aufhebung der Sicherungsmaßnahmen
 
@@ -758,7 +717,6 @@ Verbindlichkeiten zu erfüllen. Gleiches gilt für die Verbindlichkeiten
 aus einem Dauerschuldverhältnis, soweit der vorläufige
 Insolvenzverwalter für das von ihm verwaltete Vermögen die
 Gegenleistung in Anspruch genommen hat.
-
 
 #### § 26 Abweisung mangels Masse
 
@@ -792,7 +750,6 @@ Beweislast. Die Zahlung des Vorschusses kann der vorläufige
 Insolvenzverwalter sowie jede Person verlangen, die einen begründeten
 Vermögensanspruch gegen den Schuldner hat.
 
-
 #### § 26a Vergütung des vorläufigen Insolvenzverwalters
 
 (1) Wird das Insolvenzverfahren nicht eröffnet, setzt das
@@ -804,7 +761,6 @@ besonders zuzustellen.
 (2) Gegen den Beschluss steht dem vorläufigen Verwalter und dem
 Schuldner die sofortige Beschwerde zu. § 567 Absatz 2 der
 Zivilprozessordnung gilt entsprechend.
-
 
 #### § 27 Eröffnungsbeschluß
 
@@ -841,7 +797,6 @@ bleiben unberührt.
 Zeitpunkt der Eröffnung die Mittagsstunde des Tages, an dem der
 Beschluß erlassen worden ist.
 
-
 #### § 28 Aufforderungen an die Gläubiger und die Schuldner
 
 (1) Im Eröffnungsbeschluß sind die Gläubiger aufzufordern, ihre
@@ -860,7 +815,6 @@ oder verzögert, haftet für den daraus entstehenden Schaden.
 (3) Im Eröffnungsbeschluß sind die Personen, die Verpflichtungen
 gegenüber dem Schuldner haben, aufzufordern, nicht mehr an den
 Schuldner zu leisten, sondern an den Verwalter.
-
 
 #### § 29 Terminbestimmungen
 
@@ -882,7 +836,6 @@ Schuldner zu leisten, sondern an den Verwalter.
 
 (2) Die Termine können verbunden werden.
 
-
 #### § 30 Bekanntmachung des Eröffnungsbeschlusses
 
 (1) Die Geschäftsstelle des Insolvenzgerichts hat den
@@ -895,7 +848,6 @@ Schuldner einen Antrag nach § 287 gestellt, ist dies ebenfalls
 selbst ist der Beschluß besonders zuzustellen.
 
 (3) (aufgehoben)
-
 
 #### § 31 Handels-, Genossenschafts-, Partnerschafts- und Vereinsregister
 
@@ -911,10 +863,6 @@ Insolvenzgerichts dem Registergericht zu übermitteln:
     Ausfertigung des abweisenden Beschlusses, wenn der Schuldner eine
     juristische Person oder eine Gesellschaft ohne Rechtspersönlichkeit
     ist, die durch die Abweisung mangels Masse aufgelöst wird.
-
-
-
-
 
 #### § 32 Grundbuch
 
@@ -943,7 +891,6 @@ veräußert, so hat das Insolvenzgericht auf Antrag das Grundbuchamt um
 Löschung der Eintragung zu ersuchen. Die Löschung kann auch vom
 Verwalter beim Grundbuchamt beantragt werden.
 
-
 #### § 33 Register für Schiffe und Luftfahrzeuge
 
 Für die Eintragung der Eröffnung des Insolvenzverfahrens in das
@@ -952,7 +899,6 @@ Pfandrechte an Luftfahrzeugen gilt § 32 entsprechend. Dabei treten an
 die Stelle der Grundstücke die in diese Register eingetragenen
 Schiffe, Schiffsbauwerke und Luftfahrzeuge, an die Stelle des
 Grundbuchamts das Registergericht.
-
 
 #### § 34 Rechtsmittel
 
@@ -969,10 +915,7 @@ bekanntzumachen. § 200 Abs. 2 Satz 2 gilt entsprechend. Die Wirkungen
 der Rechtshandlungen, die vom Insolvenzverwalter oder ihm gegenüber
 vorgenommen worden sind, werden durch die Aufhebung nicht berührt.
 
-
 ### Zweiter Abschnitt - Insolvenzmasse. Einteilung der Gläubiger
-
-
 
 #### § 35 Begriff der Insolvenzmasse
 
@@ -993,7 +936,6 @@ Erklärung an.
 (3) Die Erklärung des Insolvenzverwalters ist dem Gericht gegenüber
 anzuzeigen. Das Gericht hat die Erklärung und den Beschluss über ihre
 Unwirksamkeit öffentlich bekannt zu machen.
-
 
 #### § 36 Unpfändbare Gegenstände
 
@@ -1025,7 +967,6 @@ Insolvenzgericht zuständig. Anstelle eines Gläubigers ist der
 Insolvenzverwalter antragsberechtigt. Für das Eröffnungsverfahren
 gelten die Sätze 1 und 2 entsprechend.
 
-
 #### § 37 Gesamtgut bei Gütergemeinschaft
 
 (1) Wird bei dem Güterstand der Gütergemeinschaft das Gesamtgut von
@@ -1044,13 +985,11 @@ Maßgabe anzuwenden, daß an die Stelle des Ehegatten, der das Gesamtgut
 allein verwaltet, der überlebende Ehegatte, an die Stelle des anderen
 Ehegatten die Abkömmlinge treten.
 
-
 #### § 38 Begriff der Insolvenzgläubiger
 
 Die Insolvenzmasse dient zur Befriedigung der persönlichen Gläubiger,
 die einen zur Zeit der Eröffnung des Insolvenzverfahrens begründeten
 Vermögensanspruch gegen den Schuldner haben (Insolvenzgläubiger).
-
 
 #### § 39 Nachrangige Insolvenzgläubiger
 
@@ -1105,14 +1044,12 @@ entsprechen.
 Gesellschafter einer Gesellschaft im Sinne des Absatzes 4 Satz 1, der
 mit 10 Prozent oder weniger am Haftkapital beteiligt ist.
 
-
 #### § 40 Unterhaltsansprüche
 
 Familienrechtliche Unterhaltsansprüche gegen den Schuldner können im
 Insolvenzverfahren für die Zeit nach der Eröffnung nur geltend gemacht
 werden, soweit der Schuldner als Erbe des Verpflichteten haftet. § 100
 bleibt unberührt.
-
 
 #### § 41 Nicht fällige Forderungen
 
@@ -1124,13 +1061,11 @@ Hinzurechnung der gesetzlichen Zinsen für die Zeit von der Eröffnung
 des Insolvenzverfahrens bis zur Fälligkeit dem vollen Betrag der
 Forderung entspricht.
 
-
 #### § 42 Auflösend bedingte Forderungen
 
 Auflösend bedingte Forderungen werden, solange die Bedingung nicht
 eingetreten ist, im Insolvenzverfahren wie unbedingte Forderungen
 berücksichtigt.
-
 
 #### § 43 Haftung mehrerer Personen
 
@@ -1139,14 +1074,12 @@ Ganze haften, kann im Insolvenzverfahren gegen jeden Schuldner bis zu
 seiner vollen Befriedigung den ganzen Betrag geltend machen, den er
 zur Zeit der Eröffnung des Verfahrens zu fordern hatte.
 
-
 #### § 44 Rechte der Gesamtschuldner und Bürgen
 
 Der Gesamtschuldner und der Bürge können die Forderung, die sie durch
 eine Befriedigung des Gläubigers künftig gegen den Schuldner erwerben
 könnten, im Insolvenzverfahren nur dann geltend machen, wenn der
 Gläubiger seine Forderung nicht geltend macht.
-
 
 #### § 44a Gesicherte Darlehen
 
@@ -1158,7 +1091,6 @@ für die er sich verbürgt hat, nur anteilsmäßige Befriedigung aus der
 Insolvenzmasse verlangen, soweit er bei der Inanspruchnahme der
 Sicherheit oder des Bürgen ausgefallen ist.
 
-
 #### § 45 Umrechnung von Forderungen
 
 Forderungen, die nicht auf Geld gerichtet sind oder deren Geldbetrag
@@ -1169,7 +1101,6 @@ Rechnungseinheit ausgedrückt sind, sind nach dem Kurswert, der zur
 Zeit der Verfahrenseröffnung für den Zahlungsort maßgeblich ist, in
 inländische Währung umzurechnen.
 
-
 #### § 46 Wiederkehrende Leistungen
 
 Forderungen auf wiederkehrende Leistungen, deren Betrag und Dauer
@@ -1178,7 +1109,6 @@ wenn die noch ausstehenden Leistungen unter Abzug des in § 41
 bezeichneten Zwischenzinses zusammengerechnet werden. Ist die Dauer
 der Leistungen unbestimmt, so gilt § 45 Satz 1 entsprechend.
 
-
 #### § 47 Aussonderung
 
 Wer auf Grund eines dinglichen oder persönlichen Rechts geltend machen
@@ -1186,7 +1116,6 @@ kann, daß ein Gegenstand nicht zur Insolvenzmasse gehört, ist kein
 Insolvenzgläubiger. Sein Anspruch auf Aussonderung des Gegenstands
 bestimmt sich nach den Gesetzen, die außerhalb des Insolvenzverfahrens
 gelten.
-
 
 #### § 48 Ersatzaussonderung
 
@@ -1198,7 +1127,6 @@ Gegenleistung verlangen, soweit diese noch aussteht. Er kann die
 Gegenleistung aus der Insolvenzmasse verlangen, soweit sie in der
 Masse unterscheidbar vorhanden ist.
 
-
 #### § 49 Abgesonderte Befriedigung aus unbeweglichen Gegenständen
 
 Gläubiger, denen ein Recht auf Befriedigung aus Gegenständen zusteht,
@@ -1206,7 +1134,6 @@ die der Zwangsvollstreckung in das unbewegliche Vermögen unterliegen
 (unbewegliche Gegenstände), sind nach Maßgabe des Gesetzes über die
 Zwangsversteigerung und die Zwangsverwaltung zur abgesonderten
 Befriedigung berechtigt.
-
 
 #### § 50 Abgesonderte Befriedigung der Pfandgläubiger
 
@@ -1223,7 +1150,6 @@ wegen der Entschädigung, die infolge einer Kündigung des
 Insolvenzverwalters zu zahlen ist, nicht geltend gemacht werden. Das
 Pfandrecht des Verpächters eines landwirtschaftlichen Grundstücks
 unterliegt wegen der Pacht nicht dieser Beschränkung.
-
 
 #### § 51 Sonstige Absonderungsberechtigte
 
@@ -1247,10 +1173,6 @@ Den in § 50 genannten Gläubigern stehen gleich:
     steuerpflichtige Sachen nach gesetzlichen Vorschriften als Sicherheit
     für öffentliche Abgaben dienen.
 
-
-
-
-
 #### § 52 Ausfall der Absonderungsberechtigten
 
 Gläubiger, die abgesonderte Befriedigung beanspruchen können, sind
@@ -1259,12 +1181,10 @@ Sie sind zur anteilsmäßigen Befriedigung aus der Insolvenzmasse jedoch
 nur berechtigt, soweit sie auf eine abgesonderte Befriedigung
 verzichten oder bei ihr ausgefallen sind.
 
-
 #### § 53 Massegläubiger
 
 Aus der Insolvenzmasse sind die Kosten des Insolvenzverfahrens und die
 sonstigen Masseverbindlichkeiten vorweg zu berichtigen.
-
 
 #### § 54 Kosten des Insolvenzverfahrens
 
@@ -1275,10 +1195,6 @@ Kosten des Insolvenzverfahrens sind:
 
 2.  die Vergütungen und die Auslagen des vorläufigen Insolvenzverwalters,
     des Insolvenzverwalters und der Mitglieder des Gläubigerausschusses.
-
-
-
-
 
 #### § 55 Sonstige Masseverbindlichkeiten
 
@@ -1321,10 +1237,7 @@ oder vom Schuldner mit Zustimmung eines vorläufigen
 Insolvenzverwalters begründet worden sind, gelten nach Eröffnung des
 Insolvenzverfahrens als Masseverbindlichkeit.
 
-
 ### Dritter Abschnitt Insolvenzverwalter. Organe der Gläubiger
-
-
 
 #### § 56 Bestellung des Insolvenzverwalters
 
@@ -1350,7 +1263,6 @@ ausgeschlossen, dass die Person
 Beendigung seines Amtes hat er die Urkunde dem Insolvenzgericht
 zurückzugeben.
 
-
 #### § 56a Gläubigerbeteiligung bei der Verwalterbestellung
 
 (1) Vor der Bestellung des Verwalters ist dem vorläufigen
@@ -1372,7 +1284,6 @@ abgesehen, so kann der vorläufige Gläubigerausschuss in seiner ersten
 Sitzung einstimmig eine andere Person als die bestellte zum
 Insolvenzverwalter wählen.
 
-
 #### § 57 Wahl eines anderen Insolvenzverwalters
 
 In der ersten Gläubigerversammlung, die auf die Bestellung des
@@ -1383,7 +1294,6 @@ Gläubiger für sie gestimmt hat. Das Gericht kann die Bestellung des
 Gewählten nur versagen, wenn dieser für die Übernahme des Amtes nicht
 geeignet ist. Gegen die Versagung steht jedem Insolvenzgläubiger die
 sofortige Beschwerde zu.
-
 
 #### § 58 Aufsicht des Insolvenzgerichts
 
@@ -1401,7 +1311,6 @@ sofortige Beschwerde zu.
 (3) Absatz 2 gilt entsprechend für die Durchsetzung der
 Herausgabepflichten eines entlassenen Verwalters.
 
-
 #### § 59 Entlassung des Insolvenzverwalters
 
 (1) Das Insolvenzgericht kann den Insolvenzverwalter aus wichtigem
@@ -1414,7 +1323,6 @@ der Verwalter zu hören.
 zu. Gegen die Ablehnung des Antrags steht dem Verwalter, dem
 Gläubigerausschuß oder, wenn die Gläubigerversammlung den Antrag
 gestellt hat, jedem Insolvenzgläubiger die sofortige Beschwerde zu.
-
 
 #### § 60 Haftung des Insolvenzverwalters
 
@@ -1431,7 +1339,6 @@ nicht gemäß § 278 des Bürgerlichen Gesetzbuchs zu vertreten, sondern
 ist nur für deren Überwachung und für Entscheidungen von besonderer
 Bedeutung verantwortlich.
 
-
 #### § 61 Nichterfüllung von Masseverbindlichkeiten
 
 Kann eine Masseverbindlichkeit, die durch eine Rechtshandlung des
@@ -1440,7 +1347,6 @@ voll erfüllt werden, so ist der Verwalter dem Massegläubiger zum
 Schadenersatz verpflichtet. Dies gilt nicht, wenn der Verwalter bei
 der Begründung der Verbindlichkeit nicht erkennen konnte, daß die
 Masse voraussichtlich zur Erfüllung nicht ausreichen würde.
-
 
 #### § 62 Verjährung
 
@@ -1455,7 +1361,6 @@ Nachtragsverteilung (§ 203) oder einer Überwachung der Planerfüllung
 Stelle der Aufhebung des Insolvenzverfahrens der Vollzug der
 Nachtragsverteilung oder die Beendigung der Überwachung tritt.
 
-
 #### § 63 Vergütung des Insolvenzverwalters
 
 (1) Der Insolvenzverwalter hat Anspruch auf Vergütung für seine
@@ -1469,7 +1374,6 @@ Abweichungen vom Regelsatz Rechnung getragen.
 Insolvenzverwalter für seine Vergütung und seine Auslagen ein Anspruch
 gegen die Staatskasse zu, soweit die Insolvenzmasse dafür nicht
 ausreicht.
-
 
 #### § 64 Festsetzung durch das Gericht
 
@@ -1487,13 +1391,11 @@ in der Geschäftsstelle eingesehen werden kann.
 Insolvenzgläubiger die sofortige Beschwerde zu. § 567 Abs. 2 der
 Zivilprozeßordnung gilt entsprechend.
 
-
 #### § 65 Verordnungsermächtigung
 
 Das Bundesministerium der Justiz wird ermächtigt, die Vergütung und
 die Erstattung der Auslagen des Insolvenzverwalters durch
 Rechtsverordnung näher zu regeln.
-
 
 #### § 66 Rechnungslegung
 
@@ -1514,7 +1416,6 @@ eine Woche betragen.
 bestimmten Zeitpunkten während des Verfahrens Zwischenrechnung zu
 legen. Die Absätze 1 und 2 gelten entsprechend.
 
-
 #### § 67 Einsetzung des Gläubigerausschusses
 
 (1) Vor der ersten Gläubigerversammlung kann das Insolvenzgericht
@@ -1528,7 +1429,6 @@ Arbeitnehmer angehören.
 (3) Zu Mitgliedern des Gläubigerausschusses können auch Personen
 bestellt werden, die keine Gläubiger sind.
 
-
 #### § 68 Wahl anderer Mitglieder
 
 (1) Die Gläubigerversammlung beschließt, ob ein Gläubigerausschuß
@@ -1539,7 +1439,6 @@ werden soll.
 (2) Sie kann vom Insolvenzgericht bestellte Mitglieder abwählen und
 andere oder zusätzliche Mitglieder des Gläubigerausschusses wählen.
 
-
 #### § 69 Aufgaben des Gläubigerausschusses
 
 Die Mitglieder des Gläubigerausschusses haben den Insolvenzverwalter
@@ -1547,7 +1446,6 @@ bei seiner Geschäftsführung zu unterstützen und zu überwachen. Sie
 haben sich über den Gang der Geschäfte zu unterrichten sowie die
 Bücher und Geschäftspapiere einsehen und den Geldverkehr und -bestand
 prüfen zu lassen.
-
 
 #### § 70 Entlassung
 
@@ -1558,7 +1456,6 @@ Antrag der Gläubigerversammlung erfolgen. Vor der Entscheidung des
 Gerichts ist das Mitglied des Gläubigerausschusses zu hören; gegen die
 Entscheidung steht ihm die sofortige Beschwerde zu.
 
-
 #### § 71 Haftung der Mitglieder des Gläubigerausschusses
 
 Die Mitglieder des Gläubigerausschusses sind den
@@ -1567,13 +1464,11 @@ Schadenersatz verpflichtet, wenn sie schuldhaft die Pflichten
 verletzen, die ihnen nach diesem Gesetz obliegen. § 62 gilt
 entsprechend.
 
-
 #### § 72 Beschlüsse des Gläubigerausschusses
 
 Ein Beschluß des Gläubigerausschusses ist gültig, wenn die Mehrheit
 der Mitglieder an der Beschlußfassung teilgenommen hat und der
 Beschluß mit der Mehrheit der abgegebenen Stimmen gefaßt worden ist.
-
 
 #### § 73 Vergütung der Mitglieder des Gläubigerausschusses
 
@@ -1583,7 +1478,6 @@ Dabei ist dem Zeitaufwand und dem Umfang der Tätigkeit Rechnung zu
 tragen.
 
 (2) § 63 Abs. 2 sowie die §§ 64 und 65 gelten entsprechend.
-
 
 #### § 74 Einberufung der Gläubigerversammlung
 
@@ -1596,7 +1490,6 @@ Mitglieder des Gläubigerausschusses und der Schuldner berechtigt.
 sind öffentlich bekanntzumachen. Die öffentliche Bekanntmachung kann
 unterbleiben, wenn in einer Gläubigerversammlung die Verhandlung
 vertagt wird.
-
 
 #### § 75 Antrag auf Einberufung
 
@@ -1631,7 +1524,6 @@ Gläubigerversammlung soll höchstens drei Wochen betragen.
 (3) Wird die Einberufung abgelehnt, so steht dem Antragsteller die
 sofortige Beschwerde zu.
 
-
 #### § 76 Beschlüsse der Gläubigerversammlung
 
 (1) Die Gläubigerversammlung wird vom Insolvenzgericht geleitet.
@@ -1642,7 +1534,6 @@ Hälfte der Summe der Forderungsbeträge der abstimmenden Gläubiger
 beträgt; bei absonderungsberechtigten Gläubigern, denen der Schuldner
 nicht persönlich haftet, tritt der Wert des Absonderungsrechts an die
 Stelle des Forderungsbetrags.
-
 
 #### § 77 Feststellung des Stimmrechts
 
@@ -1666,10 +1557,6 @@ Gläubigers ändern.
 
 2.  für die absonderungsberechtigten Gläubiger.
 
-
-
-
-
 #### § 78 Aufhebung eines Beschlusses der Gläubigerversammlung
 
 (1) Widerspricht ein Beschluß der Gläubigerversammlung dem gemeinsamen
@@ -1684,7 +1571,6 @@ jedem nicht nachrangigen Insolvenzgläubiger die sofortige Beschwerde
 zu. Gegen die Ablehnung des Antrags auf Aufhebung steht dem
 Antragsteller die sofortige Beschwerde zu.
 
-
 #### § 79 Unterrichtung der Gläubigerversammlung
 
 Die Gläubigerversammlung ist berechtigt, vom Insolvenzverwalter
@@ -1693,14 +1579,9 @@ Geschäftsführung zu verlangen. Ist ein Gläubigerausschuß nicht
 bestellt, so kann die Gläubigerversammlung den Geldverkehr und
 -bestand des Verwalters prüfen lassen.
 
-
 ## Dritter Teil - Wirkungen der Eröffnung des Insolvenzverfahrens
 
-
-
 ### Erster Abschnitt - Allgemeine Wirkungen
-
-
 
 #### § 80 Übergang des Verwaltungs- und Verfügungsrechts
 
@@ -1713,7 +1594,6 @@ den Schutz bestimmter Personen bezweckt (§§ 135, 136 des Bürgerlichen
 Gesetzbuchs), hat im Verfahren keine Wirkung. Die Vorschriften über
 die Wirkungen einer Pfändung oder einer Beschlagnahme im Wege der
 Zwangsvollstreckung bleiben unberührt.
-
 
 #### § 81 Verfügungen des Schuldners
 
@@ -1742,7 +1622,6 @@ Kreditwesengesetzes nach der Eröffnung ist, unbeschadet der §§ 129 bis
 Teil nachweist, dass er die Eröffnung des Verfahrens weder kannte noch
 kennen musste.
 
-
 #### § 82 Leistungen an den Schuldner
 
 Ist nach der Eröffnung des Insolvenzverfahrens zur Erfüllung einer
@@ -1752,7 +1631,6 @@ Leistende befreit, wenn er zur Zeit der Leistung die Eröffnung des
 Verfahrens nicht kannte. Hat er vor der öffentlichen Bekanntmachung
 der Eröffnung geleistet, so wird vermutet, daß er die Eröffnung nicht
 kannte.
-
 
 #### § 83 Erbschaft. Fortgesetzte Gütergemeinschaft
 
@@ -1766,7 +1644,6 @@ Gütergemeinschaft.
 Gegenstände der Erbschaft nicht verfügen, wenn die Verfügung im Falle
 des Eintritts der Nacherbfolge nach § 2115 des Bürgerlichen
 Gesetzbuchs dem Nacherben gegenüber unwirksam ist.
-
 
 #### § 84 Auseinandersetzung einer Gesellschaft oder Gemeinschaft
 
@@ -1785,7 +1662,6 @@ eine Anordnung dieses Inhalts, die ein Erblasser für die Gemeinschaft
 seiner Erben getroffen hat, und für eine entsprechende Vereinbarung
 der Miterben.
 
-
 #### § 85 Aufnahme von Aktivprozessen
 
 (1) Rechtsstreitigkeiten über das zur Insolvenzmasse gehörende
@@ -1797,7 +1673,6 @@ entsprechend.
 
 (2) Lehnt der Verwalter die Aufnahme des Rechtsstreits ab, so können
 sowohl der Schuldner als auch der Gegner den Rechtsstreit aufnehmen.
-
 
 #### § 86 Aufnahme bestimmter Passivprozesse
 
@@ -1821,12 +1696,10 @@ sie betreffen:
 einen Anspruch auf Erstattung der Kosten des Rechtsstreits nur als
 Insolvenzgläubiger geltend machen.
 
-
 #### § 87 Forderungen der Insolvenzgläubiger
 
 Die Insolvenzgläubiger können ihre Forderungen nur nach den
 Vorschriften über das Insolvenzverfahren verfolgen.
-
 
 #### § 88 Vollstreckung vor Verfahrenseröffnung
 
@@ -1835,7 +1708,6 @@ Eröffnung des Insolvenzverfahrens oder nach diesem Antrag durch
 Zwangsvollstreckung eine Sicherung an dem zur Insolvenzmasse
 gehörenden Vermögen des Schuldners erlangt, so wird diese Sicherung
 mit der Eröffnung des Verfahrens unwirksam.
-
 
 #### § 89 Vollstreckungsverbot
 
@@ -1859,7 +1731,6 @@ die Zwangsvollstreckung gegen oder ohne Sicherheitsleistung
 einstweilen einzustellen oder nur gegen Sicherheitsleistung
 fortzusetzen sei.
 
-
 #### § 90 Vollstreckungsverbot bei Masseverbindlichkeiten
 
 (1) Zwangsvollstreckungen wegen Masseverbindlichkeiten, die nicht
@@ -1881,10 +1752,6 @@ Verbindlichkeiten:
 3.  aus einem Dauerschuldverhältnis, soweit der Verwalter für die
     Insolvenzmasse die Gegenleistung in Anspruch nimmt.
 
-
-
-
-
 #### § 91 Ausschluß sonstigen Rechtserwerbs
 
 (1) Rechte an den Gegenständen der Insolvenzmasse können nach der
@@ -1898,7 +1765,6 @@ eingetragenen Schiffen und Schiffsbauwerken, § 5 Abs. 3, §§ 16, 17 des
 Gesetzes über Rechte an Luftfahrzeugen und § 20 Abs. 3 der
 Schiffahrtsrechtlichen Verteilungsordnung.
 
-
 #### § 92 Gesamtschaden
 
 Ansprüche der Insolvenzgläubiger auf Ersatz eines Schadens, den diese
@@ -1910,7 +1776,6 @@ gemacht werden. Richten sich die Ansprüche gegen den Verwalter, so
 können sie nur von einem neu bestellten Insolvenzverwalter geltend
 gemacht werden.
 
-
 #### § 93 Persönliche Haftung der Gesellschafter
 
 Ist das Insolvenzverfahren über das Vermögen einer Gesellschaft ohne
@@ -1919,14 +1784,12 @@ eröffnet, so kann die persönliche Haftung eines Gesellschafters für
 die Verbindlichkeiten der Gesellschaft während der Dauer des
 Insolvenzverfahrens nur vom Insolvenzverwalter geltend gemacht werden.
 
-
 #### § 94 Erhaltung einer Aufrechnungslage
 
 Ist ein Insolvenzgläubiger zur Zeit der Eröffnung des
 Insolvenzverfahrens kraft Gesetzes oder auf Grund einer Vereinbarung
 zur Aufrechnung berechtigt, so wird dieses Recht durch das Verfahren
 nicht berührt.
-
 
 #### § 95 Eintritt der Aufrechnungslage im Verfahren
 
@@ -1945,7 +1808,6 @@ lauten, wenn diese Währungen oder Rechnungseinheiten am Zahlungsort
 der Forderung, gegen die aufgerechnet wird, frei getauscht werden
 können. Die Umrechnung erfolgt nach dem Kurswert, der für diesen Ort
 zur Zeit des Zugangs der Aufrechnungserklärung maßgeblich ist.
-
 
 #### § 96 Unzulässigkeit der Aufrechnung
 
@@ -1982,7 +1844,6 @@ Systembetreiber oder Teilnehmer in dem System, bestimmt sich der Tag
 der Eröffnung nach dem Geschäftstag im Sinne des § 1 Absatz 16b des
 Kreditwesengesetzes.
 
-
 #### § 97 Auskunfts- und Mitwirkungspflichten des Schuldners
 
 (1) Der Schuldner ist verpflichtet, dem Insolvenzgericht, dem
@@ -2004,7 +1865,6 @@ Aufgaben zu unterstützen.
 jederzeit zur Verfügung zu stellen, um seine Auskunfts- und
 Mitwirkungspflichten zu erfüllen. Er hat alle Handlungen zu
 unterlassen, die der Erfüllung dieser Pflichten zuwiderlaufen.
-
 
 #### § 98 Durchsetzung der Pflichten des Schuldners
 
@@ -2042,7 +1902,6 @@ Haft nicht mehr vorliegen. Gegen die Anordnung der Haft und gegen die
 Abweisung eines Antrags auf Aufhebung des Haftbefehls wegen Wegfalls
 seiner Voraussetzungen findet die sofortige Beschwerde statt.
 
-
 #### § 99 Postsperre
 
 (1) Soweit dies erforderlich erscheint, um für die Gläubiger
@@ -2066,7 +1925,6 @@ der Schuldner einsehen.
 sofortige Beschwerde zu. Das Gericht hat die Anordnung nach Anhörung
 des Verwalters aufzuheben, soweit ihre Voraussetzungen fortfallen.
 
-
 #### § 100 Unterhalt aus der Insolvenzmasse
 
 (1) Die Gläubigerversammlung beschließt, ob und in welchem Umfang dem
@@ -2081,7 +1939,6 @@ Kindern des Schuldners, seinem Ehegatten, seinem früheren Ehegatten,
 seinem Lebenspartner, seinem früheren Lebenspartner und dem anderen
 Elternteil seines Kindes hinsichtlich des Anspruchs nach den §§ 1615l,
 1615n des Bürgerlichen Gesetzbuchs Unterhalt gewährt werden.
-
 
 #### § 101 Organschaftliche Vertreter. Angestellte
 
@@ -2106,17 +1963,13 @@ Auskunfts- und Mitwirkungspflicht nicht nach, können ihnen im Fall der
 Abweisung des Antrags auf Eröffnung des Insolvenzverfahrens die Kosten
 des Verfahrens auferlegt werden.
 
-
 #### § 102 Einschränkung eines Grundrechts
 
 Durch § 21 Abs. 2 Nr. 4 und die §§ 99, 101 Abs. 1 Satz 1 wird das
 Grundrecht des Briefgeheimnisses sowie des Post- und
 Fernmeldegeheimnisses (Artikel 10 Grundgesetz) eingeschränkt.
 
-
 ### Zweiter Abschnitt - Erfüllung der Rechtsgeschäfte. Mitwirkung des Betriebsrats
-
-
 
 #### § 103 Wahlrecht des Insolvenzverwalters
 
@@ -2132,7 +1985,6 @@ machen. Fordert der andere Teil den Verwalter zur Ausübung seines
 Wahlrechts auf, so hat der Verwalter unverzüglich zu erklären, ob er
 die Erfüllung verlangen will. Unterläßt er dies, so kann er auf der
 Erfüllung nicht bestehen.
-
 
 #### § 104 Fixgeschäfte. Finanzleistungen
 
@@ -2193,7 +2045,6 @@ zweite Werktag nach der Eröffnung des Verfahrens maßgebend. Der andere
 Teil kann eine solche Forderung nur als Insolvenzgläubiger geltend
 machen.
 
-
 #### § 105 Teilbare Leistungen
 
 Sind die geschuldeten Leistungen teilbar und hat der andere Teil die
@@ -2206,7 +2057,6 @@ berechtigt, wegen der Nichterfüllung seines Anspruchs auf die
 Gegenleistung die Rückgabe einer vor der Eröffnung des Verfahrens in
 das Vermögen des Schuldners übergegangenen Teilleistung aus der
 Insolvenzmasse zu verlangen.
-
 
 #### § 106 Vormerkung
 
@@ -2223,7 +2073,6 @@ erfüllt sind.
 (2) Für eine Vormerkung, die im Schiffsregister, Schiffsbauregister
 oder Register für Pfandrechte an Luftfahrzeugen eingetragen ist, gilt
 Absatz 1 entsprechend.
-
 
 #### § 107 Eigentumsvorbehalt
 
@@ -2244,7 +2093,6 @@ Berichtstermin eine erhebliche Verminderung des Wertes der Sache zu
 erwarten ist und der Gläubiger den Verwalter auf diesen Umstand
 hingewiesen hat.
 
-
 #### § 108 Fortbestehen bestimmter Schuldverhältnisse
 
 (1) Miet- und Pachtverhältnisse des Schuldners über unbewegliche
@@ -2262,7 +2110,6 @@ wurde.
 
 (3) Ansprüche für die Zeit vor der Eröffnung des Insolvenzverfahrens
 kann der andere Teil nur als Insolvenzgläubiger geltend machen.
-
 
 #### § 109 Schuldner als Mieter oder Pächter
 
@@ -2291,7 +2138,6 @@ auf dessen Verlangen binnen zwei Wochen zu erklären, ob er vom Vertrag
 zurücktreten will; unterläßt er dies, so verliert er das
 Rücktrittsrecht.
 
-
 #### § 110 Schuldner als Vermieter oder Verpächter
 
 (1) Hatte der Schuldner als Vermieter oder Verpächter eines
@@ -2313,7 +2159,6 @@ Pachtforderung für den in Absatz 1 bezeichneten Zeitraum eine
 Forderung aufrechnen, die ihm gegen den Schuldner zusteht. Die §§ 95
 und 96 Nr. 2 bis 4 bleiben unberührt.
 
-
 #### § 111 Veräußerung des Miet- oder Pachtobjekts
 
 Veräußert der Insolvenzverwalter einen unbeweglichen Gegenstand oder
@@ -2323,7 +2168,6 @@ ein, so kann der Erwerber das Miet- oder Pachtverhältnis unter
 Einhaltung der gesetzlichen Frist kündigen. Die Kündigung kann nur für
 den ersten Termin erfolgen, für den sie zulässig ist. § 111: Früherer
 Satz 3 aufgeh. durch Art. 13 G v. 22.12.2006 I 3416 mWv 31.12.2006
-
 
 #### § 112 Kündigungssperre
 
@@ -2337,10 +2181,6 @@ Eröffnung des Insolvenzverfahrens nicht kündigen:
 
 2.  wegen einer Verschlechterung der Vermögensverhältnisse des Schuldners.
 
-
-
-
-
 #### § 113 Kündigung eines Dienstverhältnisses
 
 Ein Dienstverhältnis, bei dem der Schuldner der Dienstberechtigte ist,
@@ -2351,7 +2191,6 @@ Kündigungsfrist beträgt drei Monate zum Monatsende, wenn nicht eine
 kürzere Frist maßgeblich ist. Kündigt der Verwalter, so kann der
 andere Teil wegen der vorzeitigen Beendigung des Dienstverhältnisses
 als Insolvenzgläubiger Schadenersatz verlangen.
-
 
 #### § 114 Bezüge aus einem Dienstverhältnis
 
@@ -2377,7 +2216,6 @@ Monats erfolgt, so ist die Verfügung auch für den folgenden
 Kalendermonat wirksam. § 88 bleibt unberührt; § 89 Abs. 2 Satz 2 gilt
 entsprechend.
 
-
 #### § 115 Erlöschen von Aufträgen
 
 (1) Ein vom Schuldner erteilter Auftrag, der sich auf das zur
@@ -2395,7 +2233,6 @@ Verschulden nicht kennt, gilt der Auftrag zu seinen Gunsten als
 fortbestehend. Mit den Ersatzansprüchen aus dieser Fortsetzung ist der
 Beauftragte Insolvenzgläubiger.
 
-
 #### § 116 Erlöschen von Geschäftsbesorgungsverträgen
 
 Hat sich jemand durch einen Dienst- oder Werkvertrag mit dem Schuldner
@@ -2406,7 +2243,6 @@ Vergütungsansprüche. Satz 1 findet keine Anwendung auf
 Zahlungsaufträge sowie auf Aufträge zwischen Zahlungsdienstleistern
 oder zwischengeschalteten Stellen und Aufträge zur Übertragung von
 Wertpapieren; diese bestehen mit Wirkung für die Masse fort.
-
 
 #### § 117 Erlöschen von Vollmachten
 
@@ -2421,7 +2257,6 @@ Abs. 2 fortbesteht, gilt auch die Vollmacht als fortbestehend.
 Verschulden nicht kennt, haftet er nicht nach § 179 des Bürgerlichen
 Gesetzbuchs.
 
-
 #### § 118 Auflösung von Gesellschaften
 
 Wird eine Gesellschaft ohne Rechtspersönlichkeit oder eine
@@ -2434,12 +2269,10 @@ Geschäfte während der Zeit, in der er die Eröffnung des
 Insolvenzverfahrens ohne sein Verschulden nicht kannte, ist er
 Insolvenzgläubiger; § 84 Abs. 1 bleibt unberührt.
 
-
 #### § 119 Unwirksamkeit abweichender Vereinbarungen
 
 Vereinbarungen, durch die im voraus die Anwendung der §§ 103 bis 118
 ausgeschlossen oder beschränkt wird, sind unwirksam.
-
 
 #### § 120 Kündigung von Betriebsvereinbarungen
 
@@ -2452,7 +2285,6 @@ Monaten gekündigt werden, wenn eine längere Frist vereinbart ist.
 (2) Unberührt bleibt das Recht, eine Betriebsvereinbarung aus
 wichtigem Grund ohne Einhaltung einer Kündigungsfrist zu kündigen.
 
-
 #### § 121 Betriebsänderungen und Vermittlungsverfahren
 
 Im Insolvenzverfahren über das Vermögen des Unternehmers gilt § 112
@@ -2460,7 +2292,6 @@ Abs. 2 Satz 1 des Betriebsverfassungsgesetzes mit der Maßgabe, daß dem
 Verfahren vor der Einigungsstelle nur dann ein Vermittlungsversuch
 vorangeht, wenn der Insolvenzverwalter und der Betriebsrat gemeinsam
 um eine solche Vermittlung ersuchen.
-
 
 #### § 122 Gerichtliche Zustimmung zur Durchführung einer Betriebsänderung
 
@@ -2497,7 +2328,6 @@ innerhalb eines Monats nach Zustellung der in vollständiger Form
 abgefaßten Entscheidung des Arbeitsgerichts beim Bundesarbeitsgericht
 einzulegen und zu begründen.
 
-
 #### § 123 Umfang des Sozialplans
 
 (1) In einem Sozialplan, der nach der Eröffnung des
@@ -2522,7 +2352,6 @@ Abschlagszahlungen auf die Sozialplanforderungen leisten. Eine
 Zwangsvollstreckung in die Masse wegen einer Sozialplanforderung ist
 unzulässig.
 
-
 #### § 124 Sozialplan vor Verfahrenseröffnung
 
 (1) Ein Sozialplan, der vor der Eröffnung des Insolvenzverfahrens,
@@ -2541,7 +2370,6 @@ Aufstellung eines neuen Sozialplans sind derartige Leistungen an einen
 von einer Entlassung betroffenen Arbeitnehmer bei der Berechnung des
 Gesamtbetrags der Sozialplanforderungen nach § 123 Abs. 1 bis zur Höhe
 von zweieinhalb Monatsverdiensten abzusetzen.
-
 
 #### § 125 Interessenausgleich und Kündigungsschutz
 
@@ -2572,7 +2400,6 @@ Interessenausgleichs wesentlich geändert hat.
 (2) Der Interessenausgleich nach Absatz 1 ersetzt die Stellungnahme
 des Betriebsrats nach § 17 Abs. 3 Satz 2 des Kündigungsschutzgesetzes.
 
-
 #### § 126 Beschlußverfahren zum Kündigungsschutz
 
 (1) Hat der Betrieb keinen Betriebsrat oder kommt aus anderen Gründen
@@ -2601,7 +2428,6 @@ Arbeitsgerichtsgesetzes entsprechend. Im Verfahren vor dem
 Bundesarbeitsgericht gelten die Vorschriften der Zivilprozeßordnung
 über die Erstattung der Kosten des Rechtsstreits entsprechend.
 
-
 #### § 127 Klage des Arbeitnehmers
 
 (1) Kündigt der Insolvenzverwalter einem Arbeitnehmer, der in dem
@@ -2617,7 +2443,6 @@ wesentlich geändert hat.
 Verfahren nach § 126 Klage erhoben, so ist die Verhandlung über die
 Klage auf Antrag des Verwalters bis zu diesem Zeitpunkt auszusetzen.
 
-
 #### § 128 Betriebsveräußerung
 
 (1) Die Anwendung der §§ 125 bis 127 wird nicht dadurch
@@ -2631,10 +2456,7 @@ Betriebsveräußerung durchgeführt werden soll. An dem Verfahren nach §
 126 Abs. 1 Satz 1 auch darauf, daß die Kündigung der
 Arbeitsverhältnisse nicht wegen des Betriebsübergangs erfolgt.
 
-
 ### Dritter Abschnitt - Insolvenzanfechtung
-
-
 
 #### § 129 Grundsatz
 
@@ -2643,7 +2465,6 @@ vorgenommen worden sind und die Insolvenzgläubiger benachteiligen,
 kann der Insolvenzverwalter nach Maßgabe der §§ 130 bis 146 anfechten.
 
 (2) Eine Unterlassung steht einer Rechtshandlung gleich.
-
 
 #### § 130 Kongruente Deckung
 
@@ -2678,7 +2499,6 @@ Zahlungsunfähigkeit oder den Eröffnungsantrag schließen lassen.
 nahestand (§ 138), wird vermutet, daß sie die Zahlungsunfähigkeit oder
 den Eröffnungsantrag kannte.
 
-
 #### § 131 Inkongruente Deckung
 
 (1) Anfechtbar ist eine Rechtshandlung, die einem Insolvenzgläubiger
@@ -2709,7 +2529,6 @@ Gegenüber einer Person, die dem Schuldner zur Zeit der Handlung
 nahestand (§ 138), wird vermutet, daß sie die Benachteiligung der
 Insolvenzgläubiger kannte.
 
-
 #### § 132 Unmittelbar nachteilige Rechtshandlungen
 
 (1) Anfechtbar ist ein Rechtsgeschäft des Schuldners, das die
@@ -2736,7 +2555,6 @@ erhalten oder durchsetzbar wird.
 
 (3) § 130 Abs. 2 und 3 gilt entsprechend.
 
-
 #### § 133 Vorsätzliche Benachteiligung
 
 (1) Anfechtbar ist eine Rechtshandlung, die der Schuldner in den
@@ -2756,7 +2574,6 @@ Eröffnungsantrag geschlossen worden ist oder wenn dem anderen Teil zur
 Zeit des Vertragsschlusses ein Vorsatz des Schuldners, die Gläubiger
 zu benachteiligen, nicht bekannt war.
 
-
 #### § 134 Unentgeltliche Leistung
 
 (1) Anfechtbar ist eine unentgeltliche Leistung des Schuldners, es sei
@@ -2765,7 +2582,6 @@ Insolvenzverfahrens vorgenommen worden.
 
 (2) Richtet sich die Leistung auf ein gebräuchliches
 Gelegenheitsgeschenk geringen Werts, so ist sie nicht anfechtbar.
-
 
 #### § 135 Gesellschafterdarlehen
 
@@ -2806,7 +2622,6 @@ der Durchschnitt während dieses Zeitraums maßgebend.
 
 (4) § 39 Abs. 4 und 5 gilt entsprechend.
 
-
 #### § 136 Stille Gesellschaft
 
 (1) Anfechtbar ist eine Rechtshandlung, durch die einem stillen
@@ -2820,7 +2635,6 @@ stille Gesellschaft aufgelöst worden ist.
 
 (2) Die Anfechtung ist ausgeschlossen, wenn ein Eröffnungsgrund erst
 nach der Vereinbarung eingetreten ist.
-
 
 #### § 137 Wechsel- und Scheckzahlungen
 
@@ -2839,7 +2653,6 @@ entsprechend.
 
 (3) Die Absätze 1 und 2 gelten entsprechend für Scheckzahlungen des
 Schuldners.
-
 
 #### § 138 Nahestehende Personen
 
@@ -2903,10 +2716,6 @@ ohne Rechtspersönlichkeit, so sind nahestehende Personen:
     Gesetzes in den Angelegenheiten des Schuldners zur Verschwiegenheit
     verpflichtet sind.
 
-
-
-
-
 #### § 139 Berechnung der Fristen vor dem Eröffnungsantrag
 
 (1) Die in den §§ 88, 130 bis 136 bestimmten Fristen beginnen mit dem
@@ -2920,7 +2729,6 @@ zulässige und begründete Antrag maßgeblich, auch wenn das Verfahren
 auf Grund eines späteren Antrags eröffnet worden ist. Ein
 rechtskräftig abgewiesener Antrag wird nur berücksichtigt, wenn er
 mangels Masse abgewiesen worden ist.
-
 
 #### § 140 Zeitpunkt der Vornahme einer Rechtshandlung
 
@@ -2942,20 +2750,17 @@ Rechtsänderung tritt.
 (3) Bei einer bedingten oder befristeten Rechtshandlung bleibt der
 Eintritt der Bedingung oder des Termins außer Betracht.
 
-
 #### § 141 Vollstreckbarer Titel
 
 Die Anfechtung wird nicht dadurch ausgeschlossen, daß für die
 Rechtshandlung ein vollstreckbarer Schuldtitel erlangt oder daß die
 Handlung durch Zwangsvollstreckung erwirkt worden ist.
 
-
 #### § 142 Bargeschäft
 
 Eine Leistung des Schuldners, für die unmittelbar eine gleichwertige
 Gegenleistung in sein Vermögen gelangt, ist nur anfechtbar, wenn die
 Voraussetzungen des § 133 Abs. 1 gegeben sind.
-
 
 #### § 143 Rechtsfolgen
 
@@ -2981,7 +2786,6 @@ Gesellschafter wird von der Verpflichtung frei, wenn er die
 Gegenstände, die dem Gläubiger als Sicherheit gedient hatten, der
 Insolvenzmasse zur Verfügung stellt.
 
-
 #### § 144 Ansprüche des Anfechtungsgegners
 
 (1) Gewährt der Empfänger einer anfechtbaren Leistung das Erlangte
@@ -2992,7 +2796,6 @@ sie in dieser noch unterscheidbar vorhanden ist oder soweit die Masse
 um ihren Wert bereichert ist. Darüber hinaus kann der Empfänger der
 anfechtbaren Leistung die Forderung auf Rückgewähr der Gegenleistung
 nur als Insolvenzgläubiger geltend machen.
-
 
 #### § 145 Anfechtung gegen Rechtsnachfolger
 
@@ -3016,10 +2819,6 @@ geltend gemacht werden:
 3.  wenn dem Rechtsnachfolger das Erlangte unentgeltlich zugewendet worden
     ist.
 
-
-
-
-
 #### § 146 Verjährung des Anfechtungsanspruchs
 
 (1) Die Verjährung des Anfechtungsanspruchs richtet sich nach den
@@ -3029,7 +2828,6 @@ Gesetzbuch.
 (2) Auch wenn der Anfechtungsanspruch verjährt ist, kann der
 Insolvenzverwalter die Erfüllung einer Leistungspflicht verweigern,
 die auf einer anfechtbaren Handlung beruht.
-
 
 #### § 147 Rechtshandlungen nach Verfahrenseröffnung
 
@@ -3048,14 +2846,9 @@ Zahlungsaufträge, Aufträge zwischen Zahlungsdienstleistern oder
 zwischengeschalteten Stellen oder Aufträge zur Übertragung von
 Wertpapieren unwirksam werden.
 
-
 ## Vierter Teil - Verwaltung und Verwertung der Insolvenzmasse
 
-
-
 ### Erster Abschnitt - Sicherung der Insolvenzmasse
-
-
 
 #### § 148 Übernahme der Insolvenzmasse
 
@@ -3069,7 +2862,6 @@ Gewahrsam des Schuldners befinden, im Wege der Zwangsvollstreckung
 durchsetzen. § 766 der Zivilprozeßordnung gilt mit der Maßgabe, daß an
 die Stelle des Vollstreckungsgerichts das Insolvenzgericht tritt.
 
-
 #### § 149 Wertgegenstände
 
 (1) Der Gläubigerausschuß kann bestimmen, bei welcher Stelle und zu
@@ -3080,7 +2872,6 @@ Insolvenzgericht entsprechendes anordnen.
 
 (2) Die Gläubigerversammlung kann abweichende Regelungen beschließen.
 
-
 #### § 150 Siegelung
 
 Der Insolvenzverwalter kann zur Sicherung der Sachen, die zur
@@ -3088,7 +2879,6 @@ Insolvenzmasse gehören, durch den Gerichtsvollzieher oder eine andere
 dazu gesetzlich ermächtigte Person Siegel anbringen lassen. Das
 Protokoll über eine Siegelung oder Entsiegelung hat der Verwalter auf
 der Geschäftsstelle zur Einsicht der Beteiligten niederzulegen.
-
 
 #### § 151 Verzeichnis der Massegegenstände
 
@@ -3106,7 +2896,6 @@ Sachverständigen übertragen werden.
 die Aufstellung des Verzeichnisses unterbleibt; der Antrag ist zu
 begründen. Ist ein Gläubigerausschuß bestellt, so kann der Verwalter
 den Antrag nur mit Zustimmung des Gläubigerausschusses stellen.
-
 
 #### § 152 Gläubigerverzeichnis
 
@@ -3128,7 +2917,6 @@ Ausfalls zu bezeichnen; § 151 Abs. 2 Satz 2 gilt entsprechend.
 bestehen. Die Höhe der Masseverbindlichkeiten im Falle einer zügigen
 Verwertung des Vermögens des Schuldners ist zu schätzen.
 
-
 #### § 153 Vermögensübersicht
 
 (1) Der Insolvenzverwalter hat auf den Zeitpunkt der Eröffnung des
@@ -3144,13 +2932,11 @@ Schuldner aufgeben, die Vollständigkeit der Vermögensübersicht
 eidesstattlich zu versichern. Die §§ 98, 101 Abs. 1 Satz 1, 2 gelten
 entsprechend.
 
-
 #### § 154 Niederlegung in der Geschäftsstelle
 
 Das Verzeichnis der Massegegenstände, das Gläubigerverzeichnis und die
 Vermögensübersicht sind spätestens eine Woche vor dem Berichtstermin
 in der Geschäftsstelle zur Einsicht der Beteiligten niederzulegen.
-
 
 #### § 155 Handels- und steuerrechtliche Rechnungslegung
 
@@ -3171,10 +2957,7 @@ erfolgt. Ist für das Geschäftsjahr vor der Eröffnung des Verfahrens
 bereits ein Abschlußprüfer bestellt, so wird die Wirksamkeit dieser
 Bestellung durch die Eröffnung nicht berührt.
 
-
 ### Zweiter Abschnitt - Entscheidung über die Verwertung
-
-
 
 #### § 156 Berichtstermin
 
@@ -3193,7 +2976,6 @@ Landwirt, so kann auch der zuständigen amtlichen Berufsvertretung der
 Industrie, des Handels, des Handwerks oder der Landwirtschaft im
 Termin Gelegenheit zur Äußerung gegeben werden.
 
-
 #### § 157 Entscheidung über den Fortgang des Verfahrens
 
 Die Gläubigerversammlung beschließt im Berichtstermin, ob das
@@ -3201,7 +2983,6 @@ Unternehmen des Schuldners stillgelegt oder vorläufig fortgeführt
 werden soll. Sie kann den Verwalter beauftragen, einen Insolvenzplan
 auszuarbeiten, und ihm das Ziel des Plans vorgeben. Sie kann ihre
 Entscheidungen in späteren Terminen ändern.
-
 
 #### § 158 Maßnahmen vor der Entscheidung
 
@@ -3217,13 +2998,11 @@ des Verwalters die Stillegung oder Veräußerung, wenn diese ohne eine
 erhebliche Verminderung der Insolvenzmasse bis zum Berichtstermin
 aufgeschoben werden kann.
 
-
 #### § 159 Verwertung der Insolvenzmasse
 
 Nach dem Berichtstermin hat der Insolvenzverwalter unverzüglich das
 zur Insolvenzmasse gehörende Vermögen zu verwerten, soweit die
 Beschlüsse der Gläubigerversammlung nicht entgegenstehen.
-
 
 #### § 160 Besonders bedeutsame Rechtshandlungen
 
@@ -3254,10 +3033,6 @@ Gläubigerversammlung hinzuweisen.
     zur Beilegung oder zur Vermeidung eines solchen Rechtsstreits ein
     Vergleich oder ein Schiedsvertrag geschlossen werden soll.
 
-
-
-
-
 #### § 161 Vorläufige Untersagung der Rechtshandlung
 
 In den Fällen des § 160 hat der Insolvenzverwalter vor der
@@ -3269,7 +3044,6 @@ einer in § 75 Abs. 1 Nr. 3 bezeichneten Mehrzahl von Gläubigern und
 nach Anhörung des Verwalters die Vornahme der Rechtshandlung vorläufig
 untersagen und eine Gläubigerversammlung einberufen, die über die
 Vornahme beschließt.
-
 
 #### § 162 Betriebsveräußerung an besonders Interessierte
 
@@ -3295,7 +3069,6 @@ beteiligt, als ein von der Person abhängiges Unternehmen oder ein
 Dritter für Rechnung der Person oder des abhängigen Unternehmens am
 Erwerber beteiligt ist.
 
-
 #### § 163 Betriebsveräußerung unter Wert
 
 (1) Auf Antrag des Schuldners oder einer in § 75 Abs. 1 Nr. 3
@@ -3310,16 +3083,12 @@ Erwerber für die Insolvenzmasse günstiger wäre.
 er berechtigt, die Erstattung dieser Kosten aus der Insolvenzmasse zu
 verlangen, sobald die Anordnung des Gerichts ergangen ist.
 
-
 #### § 164 Wirksamkeit der Handlung
 
 Durch einen Verstoß gegen die §§ 160 bis 163 wird die Wirksamkeit der
 Handlung des Insolvenzverwalters nicht berührt.
 
-
 ### Dritter Abschnitt - Gegenstände mit Absonderungsrechten
-
-
 
 #### § 165 Verwertung unbeweglicher Gegenstände
 
@@ -3327,7 +3096,6 @@ Der Insolvenzverwalter kann beim zuständigen Gericht die
 Zwangsversteigerung oder die Zwangsverwaltung eines unbeweglichen
 Gegenstands der Insolvenzmasse betreiben, auch wenn an dem Gegenstand
 ein Absonderungsrecht besteht.
-
 
 #### § 166 Verwertung beweglicher Gegenstände
 
@@ -3356,10 +3124,6 @@ verwerten.
 3.  auf eine Finanzsicherheit im Sinne des § 1 Abs. 17 des
     Kreditwesengesetzes.
 
-
-
-
-
 #### § 167 Unterrichtung des Gläubigers
 
 (1) Ist der Insolvenzverwalter nach § 166 Abs. 1 zur Verwertung einer
@@ -3373,7 +3137,6 @@ berechtigt, so hat er dem absonderungsberechtigten Gläubiger auf
 dessen Verlangen Auskunft über die Forderung zu erteilen. Anstelle der
 Auskunft kann er dem Gläubiger gestatten, Einsicht in die Bücher und
 Geschäftspapiere des Schuldners zu nehmen.
-
 
 #### § 168 Mitteilung der Veräußerungsabsicht
 
@@ -3394,7 +3157,6 @@ Gläubiger so zu stellen, wie wenn er sie wahrgenommen hätte.
 der Gläubiger den Gegenstand selbst übernimmt. Günstiger ist eine
 Verwertungsmöglichkeit auch dann, wenn Kosten eingespart werden.
 
-
 #### § 169 Schutz des Gläubigers vor einer Verzögerung der Verwertung
 
 Solange ein Gegenstand, zu dessen Verwertung der Insolvenzverwalter
@@ -3408,7 +3170,6 @@ dieser Anordnung liegt. Die Sätze 1 und 2 gelten nicht, soweit nach
 der Höhe der Forderung sowie dem Wert und der sonstigen Belastung des
 Gegenstands nicht mit einer Befriedigung des Gläubigers aus dem
 Verwertungserlös zu rechnen ist.
-
 
 #### § 170 Verteilung des Erlöses
 
@@ -3424,7 +3185,6 @@ so hat dieser aus dem von ihm erzielten Verwertungserlös einen Betrag
 in Höhe der Kosten der Feststellung sowie des Umsatzsteuerbetrages (§
 171 Abs. 2 Satz 3) vorweg an die Masse abzuführen.
 
-
 #### § 171 Berechnung des Kostenbeitrags
 
 (1) Die Kosten der Feststellung umfassen die Kosten der tatsächlichen
@@ -3439,7 +3199,6 @@ erheblich höher, so sind diese Kosten anzusetzen. Führt die Verwertung
 zu einer Belastung der Masse mit Umsatzsteuer, so ist der
 Umsatzsteuerbetrag zusätzlich zu der Pauschale nach Satz 1 oder den
 tatsächlich entstandenen Kosten nach Satz 2 anzusetzen.
-
 
 #### § 172 Sonstige Verwendung beweglicher Sachen
 
@@ -3458,7 +3217,6 @@ Gläubigers an einer anderen Sache fort, so hat der Gläubiger die neue
 Sicherheit insoweit freizugeben, als sie den Wert der bisherigen
 Sicherheit übersteigt.
 
-
 #### § 173 Verwertung durch den Gläubiger
 
 (1) Soweit der Insolvenzverwalter nicht zur Verwertung einer
@@ -3471,14 +3229,9 @@ das Insolvenzgericht eine Frist bestimmen, innerhalb welcher der
 Gläubiger den Gegenstand zu verwerten hat. Nach Ablauf der Frist ist
 der Verwalter zur Verwertung berechtigt.
 
-
 ## Fünfter Teil - Befriedigung der Insolvenzgläubiger. Einstellung des Verfahrens
 
-
-
 ### Erster Abschnitt - Feststellung der Forderungen
-
-
 
 #### § 174 Anmeldung der Forderungen
 
@@ -3506,7 +3259,6 @@ elektronischer Dokumente ausdrücklich zugestimmt hat. In diesem Fall
 sollen die Urkunden, aus denen sich die Forderung ergibt, unverzüglich
 nachgereicht werden.
 
-
 #### § 175 Tabelle
 
 (1) Der Insolvenzverwalter hat jede angemeldete Forderung mit den in §
@@ -3521,14 +3273,12 @@ unerlaubten Handlung angemeldet, so hat das Insolvenzgericht den
 Schuldner auf die Rechtsfolgen des § 302 und auf die Möglichkeit des
 Widerspruchs hinzuweisen.
 
-
 #### § 176 Verlauf des Prüfungstermins
 
 Im Prüfungstermin werden die angemeldeten Forderungen ihrem Betrag und
 ihrem Rang nach geprüft. Die Forderungen, die vom Insolvenzverwalter,
 vom Schuldner oder von einem Insolvenzgläubiger bestritten werden,
 sind einzeln zu erörtern.
-
 
 #### § 177 Nachträgliche Anmeldungen
 
@@ -3553,7 +3303,6 @@ dem Termin sind die Insolvenzgläubiger, die eine Forderung angemeldet
 haben, der Verwalter und der Schuldner besonders zu laden. § 74 Abs. 2
 Satz 2 gilt entsprechend.
 
-
 #### § 178 Voraussetzungen und Wirkungen der Feststellung
 
 (1) Eine Forderung gilt als festgestellt, soweit gegen sie im
@@ -3574,7 +3323,6 @@ Feststellung zu vermerken.
 Forderungen ihrem Betrag und ihrem Rang nach wie ein rechtskräftiges
 Urteil gegenüber dem Insolvenzverwalter und allen Insolvenzgläubigern.
 
-
 #### § 179 Streitige Forderungen
 
 (1) Ist eine Forderung vom Insolvenzverwalter oder von einem
@@ -3592,7 +3340,6 @@ Auszug. Die Gläubiger, deren Forderungen festgestellt worden sind,
 werden nicht benachrichtigt; hierauf sollen die Gläubiger vor dem
 Prüfungstermin hingewiesen werden.
 
-
 #### § 180 Zuständigkeit für die Feststellung
 
 (1) Auf die Feststellung ist im ordentlichen Verfahren Klage zu
@@ -3606,13 +3353,11 @@ Insolvenzgericht gehört.
 Rechtsstreit über die Forderung anhängig, so ist  die Feststellung
 durch Aufnahme des Rechtsstreits zu betreiben.
 
-
 #### § 181 Umfang der Feststellung
 
 Die Feststellung kann nach Grund, Betrag und Rang der Forderung nur in
 der Weise begehrt werden, wie die Forderung in der Anmeldung oder im
 Prüfungstermin bezeichnet worden ist.
-
 
 #### § 182 Streitwert
 
@@ -3621,7 +3366,6 @@ Forderung, deren Bestand vom Insolvenzverwalter oder von einem
 Insolvenzgläubiger bestritten worden ist, bestimmt sich nach dem
 Betrag, der bei der Verteilung der Insolvenzmasse für die Forderung zu
 erwarten ist.
-
 
 #### § 183 Wirkung der Entscheidung
 
@@ -3636,7 +3380,6 @@ Berichtigung der Tabelle zu beantragen.
 Rechtsstreit geführt, so können diese Gläubiger die Erstattung ihrer
 Kosten aus der Insolvenzmasse insoweit verlangen, als der Masse durch
 die Entscheidung ein Vorteil erwachsen ist.
-
 
 #### § 184 Klage gegen einen Widerspruch des Schuldners
 
@@ -3658,7 +3401,6 @@ Auszug aus der Tabelle und weist den Schuldner auf die Folgen einer
 Fristversäumung hin. Der Schuldner hat dem Gericht die Verfolgung des
 Anspruchs nachzuweisen.
 
-
 #### § 185 Besondere Zuständigkeiten
 
 Ist für die Feststellung einer Forderung der Rechtsweg zum
@@ -3667,7 +3409,6 @@ zuständigen anderen Gericht zu betreiben oder von der zuständigen
 Verwaltungsbehörde vorzunehmen. § 180 Abs. 2 und die §§ 181, 183 und
 184 gelten entsprechend. Ist die Feststellung bei einem anderen
 Gericht zu betreiben, so gilt auch § 182 entsprechend.
-
 
 #### § 186 Wiedereinsetzung in den vorigen Stand
 
@@ -3682,10 +3423,7 @@ werden soll. Das Bestreiten in diesen Schriftsätzen steht, wenn die
 Wiedereinsetzung erteilt wird, dem Bestreiten im Prüfungstermin
 gleich.
 
-
 ### Zweiter Abschnitt - Verteilung
-
-
 
 #### § 187 Befriedigung der Insolvenzgläubiger
 
@@ -3701,7 +3439,6 @@ berücksichtigt werden.
 jeder Verteilung hat er die Zustimmung des Gläubigerausschusses
 einzuholen, wenn ein solcher bestellt ist.
 
-
 #### § 188 Verteilungsverzeichnis
 
 Vor einer Verteilung hat der Insolvenzverwalter ein Verzeichnis der
@@ -3712,7 +3449,6 @@ der Forderungen und den für die Verteilung verfügbaren Betrag aus der
 Insolvenzmasse an; das Gericht hat die angezeigte Summe der
 Forderungen und den für die Verteilung verfügbaren Betrag öffentlich
 bekannt zu machen.
-
 
 #### § 189 Berücksichtigung bestrittener Forderungen
 
@@ -3730,7 +3466,6 @@ solange der Rechtsstreit anhängig ist.
 
 (3) Wird der Nachweis nicht rechtzeitig geführt, so wird die Forderung
 bei der Verteilung nicht berücksichtigt.
-
 
 #### § 190 Berücksichtigung absonderungsberechtigter Gläubiger
 
@@ -3757,7 +3492,6 @@ wenn er den Gegenstand noch nicht verwertet hat, den Ausfall des
 Gläubigers zu schätzen und den auf die Forderung entfallenden Anteil
 zurückzubehalten.
 
-
 #### § 191 Berücksichtigung aufschiebend bedingter Forderungen
 
 (1) Eine aufschiebend bedingte Forderung wird bei einer
@@ -3771,7 +3505,6 @@ so fernliegt, daß die Forderung zur Zeit der Verteilung keinen
 Vermögenswert hat. In diesem Fall wird ein gemäß Absatz 1 Satz 2
 zurückbehaltener Anteil für die Schlußverteilung frei.
 
-
 #### § 192 Nachträgliche Berücksichtigung
 
 Gläubiger, die bei einer Abschlagsverteilung nicht berücksichtigt
@@ -3780,13 +3513,11 @@ erfüllen, erhalten bei der folgenden Verteilung aus der restlichen
 Insolvenzmasse vorab einen Betrag, der sie mit den übrigen Gläubigern
 gleichstellt.
 
-
 #### § 193 Änderung des Verteilungsverzeichnisses
 
 Der Insolvenzverwalter hat die Änderungen des Verzeichnisses, die auf
 Grund der §§ 189 bis 192 erforderlich werden, binnen drei Tagen nach
 Ablauf der in § 189 Abs. 1 vorgesehenen Ausschlußfrist vorzunehmen.
-
 
 #### § 194 Einwendungen gegen das Verteilungsverzeichnis
 
@@ -3807,7 +3538,6 @@ niederzulegen. Dem Verwalter und den Insolvenzgläubigern steht gegen
 den Beschluß die sofortige Beschwerde zu. Die Beschwerdefrist beginnt
 mit dem Tag, an dem die Entscheidung niedergelegt worden ist.
 
-
 #### § 195 Festsetzung des Bruchteils
 
 (1) Für eine Abschlagsverteilung bestimmt der Gläubigerausschuß auf
@@ -3817,7 +3547,6 @@ Gläubigerausschuß bestellt, so bestimmt der Verwalter den Bruchteil.
 (2) Der Verwalter hat den Bruchteil den berücksichtigten Gläubigern
 mitzuteilen.
 
-
 #### § 196 Schlußverteilung
 
 (1) Die Schlußverteilung erfolgt, sobald die Verwertung der
@@ -3825,7 +3554,6 @@ Insolvenzmasse mit Ausnahme eines laufenden Einkommens beendet ist.
 
 (2) Die Schlußverteilung darf nur mit Zustimmung des Insolvenzgerichts
 vorgenommen werden.
-
 
 #### § 197 Schlußtermin
 
@@ -3852,13 +3580,11 @@ Monaten liegen.
 (3) Für die Entscheidung des Gerichts über Einwendungen eines
 Gläubigers gilt § 194 Abs. 2 und 3 entsprechend.
 
-
 #### § 198 Hinterlegung zurückbehaltener Beträge
 
 Beträge, die bei der Schlußverteilung zurückzubehalten sind, hat der
 Insolvenzverwalter für Rechnung der Beteiligten bei einer geeigneten
 Stelle zu hinterlegen.
-
 
 #### § 199 Überschuß bei der Schlußverteilung
 
@@ -3870,7 +3596,6 @@ Verwalter jeder am Schuldner beteiligten Person den Teil des
 Überschusses herauszugeben, der ihr bei einer Abwicklung außerhalb des
 Insolvenzverfahrens zustünde.
 
-
 #### § 200 Aufhebung des Insolvenzverfahrens
 
 (1) Sobald die Schlußverteilung vollzogen ist, beschließt das
@@ -3878,7 +3603,6 @@ Insolvenzgericht die Aufhebung des Insolvenzverfahrens.
 
 (2) Der Beschluß und der Grund der Aufhebung sind öffentlich
 bekanntzumachen. Die §§ 31 bis 33 gelten entsprechend.
-
 
 #### § 201 Rechte der Insolvenzgläubiger nach Verfahrensaufhebung
 
@@ -3896,7 +3620,6 @@ vollstreckbaren Ausfertigung aus der Tabelle kann erst nach Aufhebung
 des Insolvenzverfahrens gestellt werden.
 
 (3) Die Vorschriften über die Restschuldbefreiung bleiben unberührt.
-
 
 #### § 202 Zuständigkeit bei der Vollstreckung
 
@@ -3920,7 +3643,6 @@ zuständig für Klagen:
 (2) Gehört der Streitgegenstand nicht zur Zuständigkeit der
 Amtsgerichte, so ist das Landgericht ausschließlich zuständig, zu
 dessen Bezirk das Insolvenzgericht gehört.
-
 
 #### § 203 Anordnung der Nachtragsverteilung
 
@@ -3950,7 +3672,6 @@ Nachtragsverteilung angemessen erscheint. Es kann die Anordnung davon
 abhängig machen, daß ein Geldbetrag vorgeschossen wird, der die Kosten
 der Nachtragsverteilung deckt.
 
-
 #### § 204 Rechtsmittel
 
 (1) Der Beschluß, durch den der Antrag auf Nachtragsverteilung
@@ -3962,14 +3683,12 @@ ist dem Insolvenzverwalter, dem Schuldner und, wenn ein Gläubiger die
 Verteilung beantragt hatte, diesem Gläubiger zuzustellen. Gegen den
 Beschluß steht dem Schuldner die sofortige Beschwerde zu.
 
-
 #### § 205 Vollzug der Nachtragsverteilung
 
 Nach der Anordnung der Nachtragsverteilung hat der Insolvenzverwalter
 den zur Verfügung stehenden Betrag oder den Erlös aus der Verwertung
 des ermittelten Gegenstands auf Grund des Schlußverzeichnisses zu
 verteilen. Er hat dem Insolvenzgericht Rechnung zu legen.
-
 
 #### § 206 Ausschluß von Massegläubigern
 
@@ -3991,10 +3710,7 @@ Massegläubiger, deren Ansprüche dem Insolvenzverwalter
 bekanntgeworden sind, können Befriedigung nur aus den Mitteln
 verlangen, die nach der Verteilung in der Insolvenzmasse verbleiben.
 
-
 ### Dritter Abschnitt - Einstellung des Verfahrens
-
-
 
 #### § 207 Einstellung mangels Masse
 
@@ -4013,7 +3729,6 @@ vor der Einstellung die Kosten des Verfahrens, von diesen zuerst die
 Auslagen, nach dem Verhältnis ihrer Beträge zu berichtigen. Zur
 Verwertung von Massegegenständen ist er nicht mehr verpflichtet.
 
-
 #### § 208 Anzeige der Masseunzulänglichkeit
 
 (1) Sind die Kosten des Insolvenzverfahrens gedeckt, reicht die
@@ -4029,7 +3744,6 @@ bekanntzumachen. Den Massegläubigern ist sie besonders zuzustellen.
 
 (3) Die Pflicht des Verwalters zur Verwaltung und zur Verwertung der
 Masse besteht auch nach der Anzeige der Masseunzulänglichkeit fort.
-
 
 #### § 209 Befriedigung der Massegläubiger
 
@@ -4067,16 +3781,11 @@ auch die Verbindlichkeiten
     der Masseunzulänglichkeit für die Insolvenzmasse die Gegenleistung in
     Anspruch genommen hat.
 
-
-
-
-
 #### § 210 Vollstreckungsverbot
 
 Sobald der Insolvenzverwalter die Masseunzulänglichkeit angezeigt hat,
 ist die Vollstreckung wegen einer Masseverbindlichkeit im Sinne des §
 209 Abs. 1 Nr. 3 unzulässig.
-
 
 #### § 210a Insolvenzplan bei Masseunzulänglichkeit
 
@@ -4089,10 +3798,6 @@ Insolvenzplan mit der Maßgabe, dass
 
 2.  für die nicht nachrangigen Insolvenzgläubiger § 246 Nummer 2
     entsprechend gilt.
-
-
-
-
 
 #### § 211 Einstellung nach Anzeige der Masseunzulänglichkeit
 
@@ -4109,7 +3814,6 @@ Verwalters oder eines Massegläubigers oder von Amts wegen eine
 Nachtragsverteilung an. § 203 Abs. 3 und die §§ 204 und 205 gelten
 entsprechend.
 
-
 #### § 212 Einstellung wegen Wegfalls des Eröffnungsgrunds
 
 Das Insolvenzverfahren ist auf Antrag des Schuldners einzustellen,
@@ -4118,7 +3822,6 @@ Zahlungsunfähigkeit noch drohende Zahlungsunfähigkeit noch, soweit die
 Überschuldung Grund für die Eröffnung des Insolvenzverfahrens ist,
 Überschuldung vorliegt. Der Antrag ist nur zulässig, wenn das Fehlen
 der Eröffnungsgründe glaubhaft gemacht wird.
-
 
 #### § 213 Einstellung mit Zustimmung der Gläubiger
 
@@ -4135,7 +3838,6 @@ Sicherheitsleistung gegenüber ihnen bedarf.
 Anmeldefrist eingestellt werden, wenn außer den Gläubigern, deren
 Zustimmung der Schuldner beibringt, andere Gläubiger nicht bekannt
 sind.
-
 
 #### § 214 Verfahren bei der Einstellung
 
@@ -4155,7 +3857,6 @@ Widerspruchs ist auch der widersprechende Gläubiger zu hören.
 Masseansprüche zu berichtigen und für die streitigen Sicherheit zu
 leisten.
 
-
 #### § 215 Bekanntmachung und Wirkungen der Einstellung
 
 (1) Der Beschluß, durch den das Insolvenzverfahren nach § 207, 211,
@@ -4169,7 +3870,6 @@ unterrichten. § 200 Abs. 2 Satz 2 gilt entsprechend.
 das Recht zurück, über die Insolvenzmasse frei zu verfügen. Die §§
 201, 202 gelten entsprechend.
 
-
 #### § 216 Rechtsmittel
 
 (1) Wird das Insolvenzverfahren nach § 207, 212 oder 213 eingestellt,
@@ -4179,14 +3879,9 @@ erfolgt, dem Schuldner die sofortige Beschwerde zu.
 (2) Wird ein Antrag nach § 212 oder § 213 abgelehnt, so steht dem
 Schuldner die sofortige Beschwerde zu.
 
-
 ## Sechster Teil - Insolvenzplan
 
-
-
 ### Erster Abschnitt - Aufstellung des Plans
-
-
 
 #### § 217 Grundsatz
 
@@ -4198,7 +3893,6 @@ können in einem Insolvenzplan abweichend von den Vorschriften dieses
 Gesetzes geregelt werden. Ist der Schuldner keine natürliche Person,
 so können auch die Anteils- oder Mitgliedschaftsrechte der am
 Schuldner beteiligten Personen in den Plan einbezogen werden.
-
 
 #### § 218 Vorlage des Insolvenzplans
 
@@ -4217,13 +3911,11 @@ Gläubigerausschuß, wenn ein solcher bestellt ist, der Betriebsrat, der
 Sprecherausschuß der leitenden Angestellten und der Schuldner beratend
 mit.
 
-
 #### § 219 Gliederung des Plans
 
 Der Insolvenzplan besteht aus dem darstellenden Teil und dem
 gestaltenden Teil. Ihm sind die in den §§ 229 und 230 genannten
 Anlagen beizufügen.
-
 
 #### § 220 Darstellender Teil
 
@@ -4237,7 +3929,6 @@ Grundlagen und den Auswirkungen des Plans enthalten, die für die
 Entscheidung der Beteiligten über die Zustimmung zum Plan und für
 dessen gerichtliche Bestätigung erheblich sind.
 
-
 #### § 221 Gestaltender Teil
 
 Im gestaltenden Teil des Insolvenzplans wird festgelegt, wie die
@@ -4245,7 +3936,6 @@ Rechtsstellung der Beteiligten durch den Plan geändert werden soll.
 Der Insolvenzverwalter kann durch den Plan bevollmächtigt werden, die
 zur Umsetzung notwendigen Maßnahmen zu ergreifen und offensichtliche
 Fehler des Plans zu berichtigen.
-
 
 #### § 222 Bildung von Gruppen
 
@@ -4282,7 +3972,6 @@ Für Kleingläubiger und geringfügig beteiligte Anteilsinhaber mit einer
 Beteiligung am Haftkapital von weniger als 1 Prozent oder weniger als
 1 000 Euro können besondere Gruppen gebildet werden.
 
-
 #### § 223 Rechte der Absonderungsberechtigten
 
 (1) Ist im Insolvenzplan nichts anderes bestimmt, so wird das Recht
@@ -4309,14 +3998,12 @@ anzugeben, um welchen Bruchteil die Rechte gekürzt, für welchen
 Zeitraum sie gestundet oder welchen sonstigen Regelungen sie
 unterworfen werden sollen.
 
-
 #### § 224 Rechte der Insolvenzgläubiger
 
 Für die nicht nachrangigen Gläubiger ist im gestaltenden Teil des
 Insolvenzplans anzugeben, um welchen Bruchteil die Forderungen
 gekürzt, für welchen Zeitraum sie gestundet, wie sie gesichert oder
 welchen sonstigen Regelungen sie unterworfen werden sollen.
-
 
 #### § 225 Rechte der nachrangigen Insolvenzgläubiger
 
@@ -4331,7 +4018,6 @@ gestaltenden Teil für jede Gruppe der nachrangigen Gläubiger die in §
 Insolvenzverfahrens für Geldstrafen und die diesen in § 39 Abs. 1 Nr.
 3 gleichgestellten Verbindlichkeiten kann durch einen Plan weder
 ausgeschlossen noch eingeschränkt werden.
-
 
 #### § 225a Rechte der Anteilsinhaber
 
@@ -4372,7 +4058,6 @@ Vermeidung einer unangemessenen Belastung der Finanzlage des
 Schuldners über einen Zeitraum von bis zu drei Jahren gestundet
 werden. Nicht ausgezahlte Abfindungsguthaben sind zu verzinsen.
 
-
 #### § 226 Gleichbehandlung der Beteiligten
 
 (1) Innerhalb jeder Gruppe sind allen Beteiligten gleiche Rechte
@@ -4389,7 +4074,6 @@ Verhalten bei Abstimmungen oder sonst im Zusammenhang mit dem
 Insolvenzverfahren ein nicht im Plan vorgesehener Vorteil gewährt
 wird, ist nichtig.
 
-
 #### § 227 Haftung des Schuldners
 
 (1) Ist im Insolvenzplan nichts anderes bestimmt, so wird der
@@ -4400,7 +4084,6 @@ diesen Gläubigern befreit.
 (2) Ist der Schuldner eine Gesellschaft ohne Rechtspersönlichkeit oder
 eine Kommanditgesellschaft auf Aktien, so gilt Absatz 1 entsprechend
 für die persönliche Haftung der Gesellschafter.
-
 
 #### § 228 Änderung sachenrechtlicher Verhältnisse
 
@@ -4413,7 +4096,6 @@ Beachtung des § 28 der Grundbuchordnung genau zu bezeichnen. Für
 Rechte, die im Schiffsregister, im Schiffsbauregister oder im
 Register für Pfandrechte an Luftfahrzeugen eingetragen sind, gilt Satz
 2 entsprechend.
-
 
 #### § 229 Vermögensübersicht. Ergebnis- und Finanzplan
 
@@ -4429,7 +4111,6 @@ Ausgaben die Zahlungsfähigkeit des Unternehmens während dieses
 Zeitraums gewährleistet werden soll. Dabei sind auch die Gläubiger zu
 berücksichtigen, die zwar ihre Forderungen nicht angemeldet haben,
 jedoch bei der Ausarbeitung des Plans bekannt sind.
-
 
 #### § 230 Weitere Anlagen
 
@@ -4453,7 +4134,6 @@ beizufügen.
 (3) Hat ein Dritter für den Fall der Bestätigung des Plans
 Verpflichtungen gegenüber den Gläubigern übernommen, so ist dem Plan
 die Erklärung des Dritten beizufügen.
-
 
 #### § 231 Zurückweisung des Plans
 
@@ -4491,7 +4171,6 @@ ist, die Zurückweisung beantragt.
 (3) Gegen den Beschluß, durch den der Plan zurückgewiesen wird, steht
 dem Vorlegenden die sofortige Beschwerde zu.
 
-
 #### § 232 Stellungnahmen zum Plan
 
 (1) Wird der Insolvenzplan nicht zurückgewiesen, so leitet das
@@ -4517,7 +4196,6 @@ Landwirtschaft oder anderen sachkundigen Stellen Gelegenheit zur
 (3) Das Gericht bestimmt eine Frist für die Abgabe der Stellungnahmen.
 Die Frist soll zwei Wochen nicht überschreiten.
 
-
 #### § 233 Aussetzung von Verwertung und Verteilung
 
 Soweit die Durchführung eines vorgelegten Insolvenzplans durch die
@@ -4530,17 +4208,13 @@ soweit der Verwalter mit Zustimmung des Gläubigerausschusses oder der
 Gläubigerversammlung die Fortsetzung der Verwertung und Verteilung
 beantragt.
 
-
 #### § 234 Niederlegung des Plans
 
 Der Insolvenzplan ist mit seinen Anlagen und den eingegangenen
 Stellungnahmen in der Geschäftsstelle zur Einsicht der Beteiligten
 niederzulegen.
 
-
 ### Zweiter Abschnitt - Annahme und Bestätigung des Plans
-
-
 
 #### § 235 Erörterungs- und Abstimmungstermin
 
@@ -4570,13 +4244,11 @@ Absatz 4a des Aktiengesetzes entsprechende Anwendung; sie haben eine
 Zusammenfassung des wesentlichen Inhalts des Plans über ihre
 Internetseite zugänglich zu machen.
 
-
 #### § 236 Verbindung mit dem Prüfungstermin
 
 Der Erörterungs- und Abstimmungstermin darf nicht vor dem
 Prüfungstermin stattfinden. Beide Termine können jedoch verbunden
 werden.
-
 
 #### § 237 Stimmrecht der Insolvenzgläubiger
 
@@ -4591,7 +4263,6 @@ feststeht, sind sie mit dem mutmaßlichen Ausfall zu berücksichtigen.
 (2) Gläubiger, deren Forderungen durch den Plan nicht beeinträchtigt
 werden, haben kein Stimmrecht.
 
-
 #### § 238 Stimmrecht der absonderungsberechtigten Gläubiger
 
 (1) Soweit im Insolvenzplan auch die Rechtsstellung
@@ -4605,7 +4276,6 @@ die §§ 41, 77 Abs. 2, 3 Nr. 1 entsprechend.
 
 (2) § 237 Abs. 2 gilt entsprechend.
 
-
 #### § 238a Stimmrecht der Anteilsinhaber
 
 (1) Das Stimmrecht der Anteilsinhaber des Schuldners bestimmt sich
@@ -4615,20 +4285,17 @@ Mehrstimmrechte bleiben außer Betracht.
 
 (2) § 237 Absatz 2 gilt entsprechend.
 
-
 #### § 239 Stimmliste
 
 Der Urkundsbeamte der Geschäftsstelle hält in einem Verzeichnis fest,
 welche Stimmrechte den Beteiligten nach dem Ergebnis der Erörterung im
 Termin zustehen.
 
-
 #### § 240 Änderung des Plans
 
 Der Vorlegende ist berechtigt, einzelne Regelungen des Insolvenzplans
 auf Grund der Erörterung im Termin inhaltlich zu ändern. Über den
 geänderten Plan kann noch in demselben Termin abgestimmt werden.
-
 
 #### § 241 Gesonderter Abstimmungstermin
 
@@ -4644,7 +4311,6 @@ bekannt zu machen. Für börsennotierte Gesellschaften findet § 121
 Absatz 4a des Aktiengesetzes entsprechende Anwendung. Im Fall einer
 Änderung des Plans ist auf die Änderung besonders hinzuweisen.
 
-
 #### § 242 Schriftliche Abstimmung
 
 (1) Ist ein gesonderter Abstimmungstermin bestimmt, so kann das
@@ -4657,12 +4323,10 @@ wenn sie dem Gericht spätestens am Tag vor dem Abstimmungstermin
 zugegangen ist; darauf ist bei der Übersendung des Stimmzettels
 hinzuweisen.
 
-
 #### § 243 Abstimmung in Gruppen
 
 Jede Gruppe der stimmberechtigten Beteiligten stimmt gesondert über
 den Insolvenzplan ab.
-
 
 #### § 244 Erforderliche Mehrheiten
 
@@ -4687,7 +4351,6 @@ Nießbrauch besteht.
 (3) Für die am Schuldner beteiligten Personen gilt Absatz 1 Nummer 2
 entsprechend mit der Maßgabe, dass an die Stelle der Summe der
 Ansprüche die Summe der Beteiligungen tritt.
-
 
 #### § 245 Obstruktionsverbot
 
@@ -4738,10 +4401,6 @@ Beteiligung im Sinne des Absatzes 1 Nummer 2 vor, wenn nach dem Plan
 2.  kein Anteilsinhaber, der ohne einen Plan den Anteilsinhabern der
     Gruppe gleichgestellt wäre, bessergestellt wird als diese.
 
-
-
-
-
 #### § 246 Zustimmung nachrangiger Insolvenzgläubiger
 
 Für die Annahme des Insolvenzplans durch die nachrangigen
@@ -4755,15 +4414,10 @@ Insolvenzgläubiger gelten ergänzend folgende Bestimmungen:
 2.  Beteiligt sich kein Gläubiger einer Gruppe an der Abstimmung, so gilt
     die Zustimmung der Gruppe als erteilt.
 
-
-
-
-
 #### § 246a Zustimmung der Anteilsinhaber
 
 Beteiligt sich keines der Mitglieder einer Gruppe der Anteilsinhaber
 an der Abstimmung, so gilt die Zustimmung der Gruppe als erteilt.
-
 
 #### § 247 Zustimmung des Schuldners
 
@@ -4780,10 +4434,6 @@ widerspricht.
 2.  kein Gläubiger einen wirtschaftlichen Wert erhält, der den vollen
     Betrag seines Anspruchs übersteigt.
 
-
-
-
-
 #### § 248 Gerichtliche Bestätigung
 
 (1) Nach der Annahme des Insolvenzplans durch die Beteiligten (§§ 244
@@ -4793,7 +4443,6 @@ Bestätigung durch das Insolvenzgericht.
 (2) Das Gericht soll vor der Entscheidung über die Bestätigung den
 Insolvenzverwalter, den Gläubigerausschuß, wenn ein solcher bestellt
 ist, und den Schuldner hören.
-
 
 #### § 248a Gerichtliche Bestätigung einer Planberichtigung
 
@@ -4815,7 +4464,6 @@ versagt wird, steht den in Absatz 2 genannten Gläubigern und
 Anteilsinhabern sowie dem Verwalter die sofortige Beschwerde zu. § 253
 Absatz 4 gilt entsprechend.
 
-
 #### § 249 Bedingter Plan
 
 Ist im Insolvenzplan vorgesehen, daß vor der Bestätigung bestimmte
@@ -4824,7 +4472,6 @@ so darf der Plan nur bestätigt werden, wenn diese Voraussetzungen
 erfüllt sind. Die Bestätigung ist von Amts wegen zu versagen, wenn die
 Voraussetzungen auch nach Ablauf einer angemessenen, vom
 Insolvenzgericht gesetzten Frist nicht erfüllt sind.
-
 
 #### § 250 Verstoß gegen Verfahrensvorschriften
 
@@ -4839,10 +4486,6 @@ Die Bestätigung ist von Amts wegen zu versagen,
 
 2.  wenn die Annahme des Plans unlauter, insbesondere durch Begünstigung
     eines Beteiligten, herbeigeführt worden ist.
-
-
-
-
 
 #### § 251 Minderheitenschutz
 
@@ -4870,7 +4513,6 @@ Schlechterstellung nachweist. Ob der Beteiligte einen Ausgleich aus
 diesen Mitteln erhält, ist außerhalb des Insolvenzverfahrens zu
 klären.
 
-
 #### § 252 Bekanntgabe der Entscheidung
 
 (1) Der Beschluß, durch den der Insolvenzplan bestätigt oder seine
@@ -4888,7 +4530,6 @@ Unterlagen zu übersenden; dies gilt nicht für Aktionäre oder
 Kommanditaktionäre. Börsennotierte Gesellschaften haben eine
 Zusammenfassung des wesentlichen Inhalts des Plans über ihre
 Internetseite zugänglich zu machen.
-
 
 #### § 253 Rechtsmittel
 
@@ -4935,10 +4576,7 @@ Klagen, mit denen Schadensersatzansprüche nach Satz 3 geltend gemacht
 werden, ist das Landgericht ausschließlich zuständig, das die
 sofortige Beschwerde zurückgewiesen hat.
 
-
 ### Dritter Abschnitt - Wirkungen des bestätigten Plans. Überwachung der Planerfüllung
-
-
 
 #### § 254 Allgemeine Wirkungen des Plans
 
@@ -4964,7 +4602,6 @@ nach der gerichtlichen Bestätigung keine Ansprüche wegen einer
 Überbewertung der Forderungen im Plan gegen die bisherigen Gläubiger
 geltend machen.
 
-
 #### § 254a Rechte an Gegenständen. Sonstige Wirkungen des Plans
 
 (1) Wenn Rechte an Gegenständen begründet, geändert, übertragen oder
@@ -4987,13 +4624,11 @@ Anmeldungen beim jeweiligen Registergericht vorzunehmen.
 Verpflichtungserklärungen, die einer Maßnahme nach Absatz 1 oder 2
 zugrunde liegen.
 
-
 #### § 254b Wirkung für alle Beteiligten
 
 Die §§ 254 und 254a gelten auch für Insolvenzgläubiger, die ihre
 Forderungen nicht angemeldet haben, und für Beteiligte, die dem
 Insolvenzplan widersprochen haben.
-
 
 #### § 255 Wiederauflebensklausel
 
@@ -5012,7 +4647,6 @@ oder der Erlaß für alle Insolvenzgläubiger hinfällig.
 
 (3) Im Plan kann etwas anderes vorgesehen werden. Jedoch kann von
 Absatz 1 nicht zum Nachteil des Schuldners abgewichen werden.
-
 
 #### § 256 Streitige Forderungen. Ausfallforderungen
 
@@ -5040,7 +4674,6 @@ gezahlt hat, so kann er den Mehrbetrag nur insoweit zurückfordern, als
 dieser auch den nicht fälligen Teil der Forderung übersteigt, die dem
 Gläubiger nach dem Insolvenzplan zusteht.
 
-
 #### § 257 Vollstreckung aus dem Plan
 
 (1) Aus dem rechtskräftig bestätigten Insolvenzplan in Verbindung mit
@@ -5063,7 +4696,6 @@ Rechte und zur Durchführung der Vollstreckung die Mahnung und den
 Ablauf der Nachfrist glaubhaft zu machen, jedoch keinen weiteren
 Beweis für den Rückstand des Schuldners zu führen.
 
-
 #### § 258 Aufhebung des Insolvenzverfahrens
 
 (1) Sobald die Bestätigung des Insolvenzplans rechtskräftig ist und
@@ -5082,7 +4714,6 @@ Mitglieder des Gläubigerausschusses sind vorab über den Zeitpunkt des
 Wirksamwerdens der Aufhebung (§ 9 Abs. 1 Satz 3) zu unterrichten. §
 200 Abs. 2 Satz 2 gilt entsprechend.
 
-
 #### § 259 Wirkungen der Aufhebung
 
 (1) Mit der Aufhebung des Insolvenzverfahrens erlöschen die Ämter des
@@ -5099,7 +4730,6 @@ Verfahrens fortführen, wenn dies im gestaltenden Teil des Plans
 vorgesehen ist. In diesem Fall wird der Rechtsstreit für Rechnung des
 Schuldners geführt, wenn im Plan keine abweichende Regelung getroffen
 wird.
-
 
 #### § 259a Vollstreckungsschutz
 
@@ -5119,7 +4749,6 @@ Zwangsvollstreckung auch einstweilen einstellen.
 ab, wenn dies mit Rücksicht auf eine Änderung der Sachlage geboten
 ist.
 
-
 #### § 259b Besondere Verjährungsfrist
 
 (1) Die Forderung eines Insolvenzgläubigers, die nicht bis zum
@@ -5137,7 +4766,6 @@ ansonsten geltenden Verjährungsvorschriften.
 gehemmt, solange wegen Vollstreckungsschutzes nach § 259a nicht
 vollstreckt werden darf. Die Hemmung endet drei Monate nach Beendigung
 des Vollstreckungsschutzes.
-
 
 #### § 260 Überwachung der Planerfüllung
 
@@ -5157,7 +4785,6 @@ Insolvenzverfahrens gegründet worden ist, um das Unternehmen oder
 einen Betrieb des Schuldners zu übernehmen und weiterzuführen
 (Übernahmegesellschaft).
 
-
 #### § 261 Aufgaben und Befugnisse des Insolvenzverwalters
 
 (1) Die Überwachung ist Aufgabe des Insolvenzverwalters. Die Ämter des
@@ -5172,7 +4799,6 @@ Erfüllung des Insolvenzplans zu berichten. Unberührt bleibt das Recht
 des Gläubigerausschusses und des Gerichts, jederzeit einzelne
 Auskünfte oder einen Zwischenbericht zu verlangen.
 
-
 #### § 262 Anzeigepflicht des Insolvenzverwalters
 
 Stellt der Insolvenzverwalter fest, daß Ansprüche, deren Erfüllung
@@ -5183,7 +4809,6 @@ so hat der Verwalter an dessen Stelle alle Gläubiger zu unterrichten,
 denen nach dem gestaltenden Teil des Insolvenzplans Ansprüche gegen
 den Schuldner oder die Übernahmegesellschaft zustehen.
 
-
 #### § 263 Zustimmungsbedürftige Geschäfte
 
 Im gestaltenden Teil des Insolvenzplans kann vorgesehen werden, daß
@@ -5191,7 +4816,6 @@ bestimmte Rechtsgeschäfte des Schuldners oder der
 Übernahmegesellschaft während der Zeit der Überwachung nur wirksam
 sind, wenn der Insolvenzverwalter ihnen zustimmt. § 81 Abs. 1 und § 82
 gelten entsprechend.
-
 
 #### § 264 Kreditrahmen
 
@@ -5213,7 +4837,6 @@ Insolvenzverwalter diese Vereinbarung schriftlich bestätigt.
 
 (3) § 39 Abs. 1 Nr. 5 bleibt unberührt.
 
-
 #### § 265 Nachrang von Neugläubigern
 
 Gegenüber den Gläubigern mit Forderungen aus Krediten, die nach
@@ -5225,7 +4848,6 @@ vertraglich begründeten Dauerschuldverhältnis für die Zeit nach dem
 ersten Termin, zu dem der Gläubiger nach Beginn der Überwachung
 kündigen konnte.
 
-
 #### § 266 Berücksichtigung des Nachrangs
 
 (1) Der Nachrang der Insolvenzgläubiger und der in § 265 bezeichneten
@@ -5234,7 +4856,6 @@ der Aufhebung der Überwachung eröffnet wird.
 
 (2) In diesem neuen Insolvenzverfahren gehen diese Gläubiger den
 übrigen nachrangigen Gläubigern im Range vor.
-
 
 #### § 267 Bekanntmachung der Überwachung
 
@@ -5263,7 +4884,6 @@ Schiffsbauwerk oder Luftfahrzeug, ein Recht an einem solchen
 Gegenstand oder ein Recht an einem solchen Recht beschränkt wird,
 gelten die §§ 32 und 33 entsprechend.
 
-
 #### § 268 Aufhebung der Überwachung
 
 (1) Das Insolvenzgericht beschließt die Aufhebung der Überwachung,
@@ -5282,17 +4902,13 @@ gelten die §§ 32 und 33 entsprechend.
 (2) Der Beschluß ist öffentlich bekanntzumachen. § 267 Abs. 3 gilt
 entsprechend.
 
-
 #### § 269 Kosten der Überwachung
 
 Die Kosten der Überwachung trägt der Schuldner. Im Falle des § 260
 Abs. 3 trägt die Übernahmegesellschaft die durch ihre Überwachung
 entstehenden Kosten. Siebter Teil Eigenverwaltung
 
-
 ## Siebter Teil - Eigenverwaltung
-
-
 
 ### § 270 Voraussetzungen
 
@@ -5324,7 +4940,6 @@ Anordnung nicht als nachteilig für die Gläubiger.
 (4) Wird der Antrag abgelehnt, so ist die Ablehnung schriftlich zu
 begründen; § 27 Absatz 2 Nummer 5 gilt entsprechend.
 
-
 ### § 270a Eröffnungsverfahren
 
 (1) Ist der Antrag des Schuldners auf Eigenverwaltung nicht
@@ -5349,7 +4964,6 @@ das Gericht jedoch die Voraussetzungen der Eigenverwaltung als nicht
 gegeben an, so hat es seine Bedenken dem Schuldner mitzuteilen und
 diesem Gelegenheit zu geben, den Eröffnungsantrag vor der Entscheidung
 über die Eröffnung zurückzunehmen.
-
 
 ### § 270b Vorbereitung einer Sanierung
 
@@ -5403,14 +5017,12 @@ Eintritt der Zahlungsunfähigkeit unverzüglich anzuzeigen. Nach
 Aufhebung der Anordnung oder nach Ablauf der Frist entscheidet das
 Gericht über die Eröffnung des Insolvenzverfahrens.
 
-
 ### § 270c Bestellung des Sachwalters
 
 Bei Anordnung der Eigenverwaltung wird anstelle des
 Insolvenzverwalters ein Sachwalter bestellt. Die Forderungen der
 Insolvenzgläubiger sind beim Sachwalter anzumelden. Die §§ 32 und 33
 sind nicht anzuwenden.
-
 
 ### § 271 Nachträgliche Anordnung
 
@@ -5419,7 +5031,6 @@ Mehrheit und der Mehrheit der abstimmenden Gläubiger die
 Eigenverwaltung, so ordnet das Gericht diese an, sofern der Schuldner
 zustimmt. Zum Sachwalter kann der bisherige Insolvenzverwalter
 bestellt werden.
-
 
 ### § 272 Aufhebung der Anordnung
 
@@ -5450,13 +5061,11 @@ Beschwerde zu.
 (3) Zum Insolvenzverwalter kann der bisherige Sachwalter bestellt
 werden.
 
-
 ### § 273 Öffentliche Bekanntmachung
 
 Der Beschluß des Insolvenzgerichts, durch den nach der Eröffnung des
 Insolvenzverfahrens die Eigenverwaltung angeordnet oder die Anordnung
 aufgehoben wird, ist öffentlich bekanntzumachen.
-
 
 ### § 274 Rechtsstellung des Sachwalters
 
@@ -5477,7 +5086,6 @@ so hat der Sachwalter an dessen Stelle die Insolvenzgläubiger, die
 Forderungen angemeldet haben, und die absonderungsberechtigten
 Gläubiger zu unterrichten.
 
-
 ### § 275 Mitwirkung des Sachwalters
 
 (1) Verbindlichkeiten, die nicht zum gewöhnlichen Geschäftsbetrieb
@@ -5490,14 +5098,12 @@ widerspricht.
 Gelder nur vom Sachwalter entgegengenommen und Zahlungen nur vom
 Sachwalter geleistet werden.
 
-
 ### § 276 Mitwirkung des Gläubigerausschusses
 
 Der Schuldner hat die Zustimmung des Gläubigerausschusses einzuholen,
 wenn er Rechtshandlungen vornehmen will, die für das
 Insolvenzverfahren von besonderer Bedeutung sind. § 160 Abs. 1 Satz 2,
 Abs. 2, § 161 Satz 2 und § 164 gelten entsprechend.
-
 
 ### § 276a Mitwirkung der Überwachungsorgane
 
@@ -5508,7 +5114,6 @@ auf die Geschäftsführung des Schuldners. Die Abberufung und
 Neubestellung von Mitgliedern der Geschäftsleitung ist nur wirksam,
 wenn der Sachwalter zustimmt. Die Zustimmung ist zu erteilen, wenn die
 Maßnahme nicht zu Nachteilen für die Gläubiger führt.
-
 
 ### § 277 Anordnung der Zustimmungsbedürftigkeit
 
@@ -5530,7 +5135,6 @@ eingetragenes Schiff, Schiffsbauwerk oder Luftfahrzeug, ein Recht an
 einem solchen Gegenstand oder ein Recht an einem solchen Recht
 beschränkt wird, gelten die §§ 32 und 33 entsprechend.
 
-
 ### § 278 Mittel zur Lebensführung des Schuldners
 
 (1) Der Schuldner ist berechtigt, für sich und die in § 100 Abs. 2
@@ -5543,7 +5147,6 @@ gestatten.
 entsprechend für die vertretungsberechtigten persönlich haftenden
 Gesellschafter des Schuldners.
 
-
 ### § 279 Gegenseitige Verträge
 
 Die Vorschriften über die Erfüllung der Rechtsgeschäfte und die
@@ -5553,13 +5156,11 @@ Schuldner soll seine Rechte nach diesen Vorschriften im Einvernehmen
 mit dem Sachwalter ausüben. Die Rechte nach den §§ 120, 122 und 126
 kann er wirksam nur mit Zustimmung des Sachwalters ausüben.
 
-
 ### § 280 Haftung. Insolvenzanfechtung
 
 Nur der Sachwalter kann die Haftung nach den §§ 92 und 93 für die
 Insolvenzmasse geltend machen und Rechtshandlungen nach den §§ 129 bis
 147 anfechten.
-
 
 ### § 281 Unterrichtung der Gläubiger
 
@@ -5576,7 +5177,6 @@ Sachwalter hat zu dem Bericht Stellung zu nehmen.
 Für die Schlußrechnung des Schuldners gilt Absatz 1 Satz 2
 entsprechend.
 
-
 ### § 282 Verwertung von Sicherungsgut
 
 (1) Das Recht des Insolvenzverwalters zur Verwertung von Gegenständen,
@@ -5588,7 +5188,6 @@ der Umsatzsteuerbetrag angesetzt werden.
 
 (2) Der Schuldner soll sein Verwertungsrecht im Einvernehmen mit dem
 Sachwalter ausüben.
-
 
 ### § 283 Befriedigung der Insolvenzgläubiger
 
@@ -5603,7 +5202,6 @@ hat die Verteilungsverzeichnisse zu prüfen und jeweils schriftlich zu
 erklären, ob nach dem Ergebnis seiner Prüfung Einwendungen zu erheben
 sind.
 
-
 ### § 284 Insolvenzplan
 
 (1) Ein Auftrag der Gläubigerversammlung zur Ausarbeitung eines
@@ -5613,23 +5211,18 @@ beratend mit.
 
 (2) Eine Überwachung der Planerfüllung ist Aufgabe des Sachwalters.
 
-
 ### § 285 Masseunzulänglichkeit
 
 Masseunzulänglichkeit ist vom Sachwalter dem Insolvenzgericht
 anzuzeigen.
 
-
 ## Achter Teil - Restschuldbefreiung
-
-
 
 ### § 286 Grundsatz
 
 Ist der Schuldner eine natürliche Person, so wird er nach Maßgabe der
 §§ 287 bis 303 von den im Insolvenzverfahren nicht erfüllten
 Verbindlichkeiten gegenüber den Insolvenzgläubigern befreit.
-
 
 ### § 287 Antrag des Schuldners
 
@@ -5653,13 +5246,11 @@ sonst einschränken, sind insoweit unwirksam, als sie die
 Abtretungserklärung nach Absatz 2 Satz 1 vereiteln oder
 beeinträchtigen würden.
 
-
 ### § 288 Vorschlagsrecht
 
 Der Schuldner und die Gläubiger können dem Insolvenzgericht als
 Treuhänder eine für den jeweiligen Einzelfall geeignete natürliche
 Person vorschlagen.
-
 
 ### § 289 Entscheidung des Insolvenzgerichts
 
@@ -5681,7 +5272,6 @@ Masseunzulänglichkeit die Insolvenzmasse nach § 209 verteilt worden
 ist und die Einstellung nach § 211 erfolgt. Absatz 2 gilt mit der
 Maßgabe, daß an die Stelle der Aufhebung des Verfahrens die
 Einstellung tritt.
-
 
 ### § 290 Versagung der Restschuldbefreiung
 
@@ -5732,7 +5322,6 @@ wenn
 (2) Der Antrag des Gläubigers ist nur zulässig, wenn ein
 Versagungsgrund glaubhaft gemacht wird.
 
-
 ### § 291 Ankündigung der Restschuldbefreiung
 
 (1) Sind die Voraussetzungen des § 290 nicht gegeben, so stellt das
@@ -5744,7 +5333,6 @@ vorliegen.
 (2) Im gleichen Beschluß bestimmt das Gericht den Treuhänder, auf den
 die pfändbaren Bezüge des Schuldners nach Maßgabe der
 Abtretungserklärung (§ 287 Abs. 2) übergehen.
-
 
 ### § 292 Rechtsstellung des Treuhänders
 
@@ -5778,7 +5366,6 @@ entsprechend, § 59 jedoch mit der Maßgabe, daß die Entlassung von
 jedem Insolvenzgläubiger beantragt werden kann und daß die sofortige
 Beschwerde jedem Insolvenzgläubiger zusteht.
 
-
 ### § 293 Vergütung des Treuhänders
 
 (1) Der Treuhänder hat Anspruch auf Vergütung für seine Tätigkeit und
@@ -5786,7 +5373,6 @@ auf Erstattung angemessener Auslagen. Dabei ist dem Zeitaufwand des
 Treuhänders und dem Umfang seiner Tätigkeit Rechnung zu tragen.
 
 (2) § 63 Abs. 2 sowie die §§ 64 und 65 gelten entsprechend.
-
 
 ### § 294 Gleichbehandlung der Gläubiger
 
@@ -5803,7 +5389,6 @@ Abtretungserklärung erfaßt werden, kann der Verpflichtete eine
 Forderung gegen den Schuldner nur aufrechnen, soweit er bei einer
 Fortdauer des Insolvenzverfahrens nach § 114 Abs. 2 zur Aufrechnung
 berechtigt wäre.
-
 
 ### § 295 Obliegenheiten des Schuldners
 
@@ -5841,7 +5426,6 @@ es ihm, die Insolvenzgläubiger durch Zahlungen an den Treuhänder so zu
 stellen, wie wenn er ein angemessenes Dienstverhältnis eingegangen
 wäre.
 
-
 ### § 296 Verstoß gegen Obliegenheiten
 
 (1) Das Insolvenzgericht versagt die Restschuldbefreiung auf Antrag
@@ -5869,7 +5453,6 @@ anberaumt hat, so ist die Restschuldbefreiung zu versagen.
 die sofortige Beschwerde zu. Die Versagung der Restschuldbefreiung ist
 öffentlich bekanntzumachen.
 
-
 ### § 297 Insolvenzstraftaten
 
 (1) Das Insolvenzgericht versagt die Restschuldbefreiung auf Antrag
@@ -5879,7 +5462,6 @@ Laufzeit der Abtretungserklärung wegen einer Straftat nach den §§ 283
 bis 283c des Strafgesetzbuchs rechtskräftig verurteilt wird.
 
 (2) § 296 Abs. 1 Satz 2 und 3, Abs. 3 gilt entsprechend.
-
 
 ### § 298 Deckung der Mindestvergütung des Treuhänders
 
@@ -5899,14 +5481,12 @@ entsprechend § 4a gestundet wird.
 
 (3) § 296 Abs. 3 gilt entsprechend.
 
-
 ### § 299 Vorzeitige Beendigung
 
 Wird die Restschuldbefreiung nach § 296, 297 oder 298 versagt, so
 enden die Laufzeit der Abtretungserklärung, das Amt des Treuhänders
 und die Beschränkung der Rechte der Gläubiger mit der Rechtskraft der
 Entscheidung.
-
 
 ### § 300 Entscheidung über die Restschuldbefreiung
 
@@ -5924,7 +5504,6 @@ Treuhänders, wenn die Voraussetzungen des § 298 vorliegen.
 steht dem Schuldner und jedem Insolvenzgläubiger, der bei der Anhörung
 nach Absatz 1 die Versagung der Restschuldbefreiung beantragt hat, die
 sofortige Beschwerde zu.
-
 
 ### § 301 Wirkung der Restschuldbefreiung
 
@@ -5945,7 +5524,6 @@ Insolvenzgläubigern.
 Restschuldbefreiung keine Befriedigung zu beanspruchen hat, so
 begründet dies keine Pflicht zur Rückgewähr des Erlangten.
 
-
 ### § 302 Ausgenommene Forderungen
 
 Von der Erteilung der Restschuldbefreiung werden nicht berührt:
@@ -5961,10 +5539,6 @@ Von der Erteilung der Restschuldbefreiung werden nicht berührt:
 
 3.  Verbindlichkeiten aus zinslosen Darlehen, die dem Schuldner zur
     Begleichung der Kosten des Insolvenzverfahrens gewährt wurden.
-
-
-
-
 
 ### § 303 Widerruf der Restschuldbefreiung
 
@@ -5986,14 +5560,9 @@ Schuldner die sofortige Beschwerde zu. Die Entscheidung, durch welche
 die Restschuldbefreiung widerrufen wird, ist öffentlich
 bekanntzumachen.
 
-
 ## Neunter Teil - Verbraucherinsolvenzverfahren und sonstige Kleinverfahren
 
-
-
 ### Erster Abschnitt - Anwendungsbereich
-
-
 
 #### § 304 Grundsatz
 
@@ -6010,10 +5579,7 @@ Satz 2 nur, wenn der Schuldner zu dem Zeitpunkt, zu dem der Antrag auf
 Eröffnung des Insolvenzverfahrens gestellt wird, weniger als 20
 Gläubiger hat.
 
-
 ### Zweiter Abschnitt - Schuldenbereinigungsplan
-
-
 
 #### § 305 Eröffnungsantrag des Schuldners
 
@@ -6088,14 +5654,12 @@ bei Gerichten, die die Verfahren maschinell bearbeiten und für
 Verfahren bei Gerichten, die die Verfahren nicht maschinell
 bearbeiten, können unterschiedliche Formulare eingeführt werden.
 
-
 #### § 305a Scheitern der außergerichtlichen Schuldenbereinigung
 
 Der Versuch, eine außergerichtliche Einigung mit den Gläubigern über
 die Schuldenbereinigung herbeizuführen, gilt als gescheitert, wenn ein
 Gläubiger die Zwangsvollstreckung betreibt, nachdem die Verhandlungen
 über die außergerichtliche Schuldenbereinigung aufgenommen wurden.
-
 
 #### § 306 Ruhen des Verfahrens
 
@@ -6120,7 +5684,6 @@ Gelegenheit zu geben, ebenfalls einen Antrag zu stellen. Stellt der
 Schuldner einen Antrag, so gilt Absatz 1 auch für den Antrag des
 Gläubigers. In diesem Fall hat der Schuldner zunächst eine
 außergerichtliche Einigung nach § 305 Abs. 1 Nr. 1 zu versuchen.
-
 
 #### § 307 Zustellung an die Gläubiger
 
@@ -6152,7 +5715,6 @@ erscheint. Die Änderungen oder Ergänzungen sind den Gläubigern
 zuzustellen, soweit dies erforderlich ist. Absatz 1 Satz 1, 3 und
 Absatz 2 gelten entsprechend.
 
-
 #### § 308 Annahme des Schuldenbereinigungsplans
 
 (1) Hat kein Gläubiger Einwendungen gegen den Schuldenbereinigungsplan
@@ -6176,7 +5738,6 @@ Insolvenzgericht zur Einsicht niedergelegten Forderungsverzeichnis
 nicht innerhalb der gesetzten Frist ergänzt hat, obwohl ihm der
 Schuldenbereinigungsplan übersandt wurde und die Forderung vor dem
 Ablauf der Frist entstanden war; insoweit erlischt die Forderung.
-
 
 #### § 309 Ersetzung der Zustimmung
 
@@ -6218,17 +5779,13 @@ Verhältnis zu den übrigen Gläubigern angemessen beteiligt wird (Absatz
 1 Satz 2 Nr. 1), so kann die Zustimmung dieses Gläubigers nicht
 ersetzt werden.
 
-
 #### § 310 Kosten
 
 Die Gläubiger haben gegen den Schuldner keinen Anspruch auf Erstattung
 der Kosten, die ihnen im Zusammenhang mit dem Schuldenbereinigungsplan
 entstehen.
 
-
 ### Dritter Abschnitt - Vereinfachtes Insolvenzverfahren
-
-
 
 #### § 311 Aufnahme des Verfahrens über den Eröffnungsantrag
 
@@ -6236,7 +5793,6 @@ Werden Einwendungen gegen den Schuldenbereinigungsplan erhoben, die
 nicht gemäß § 309 durch gerichtliche Zustimmung ersetzt werden, so
 wird das Verfahren über den Eröffnungsantrag von Amts wegen wieder
 aufgenommen.
-
 
 #### § 312 Allgemeine Verfahrensvereinfachungen
 
@@ -6248,7 +5804,6 @@ genannte Frist drei Monate.
 
 (2) Die Vorschriften über den Insolvenzplan (§§ 217 bis 269) und über
 die Eigenverwaltung (§§ 270 bis 285) sind nicht anzuwenden.
-
 
 #### § 313 Treuhänder
 
@@ -6270,7 +5825,6 @@ können, aus der Insolvenzmasse zu erstatten.
 berechtigt, an denen Pfandrechte oder andere Absonderungsrechte
 bestehen. Das Verwertungsrecht steht dem Gläubiger zu. § 173 Abs. 2
 gilt entsprechend.
-
 
 #### § 314 Vereinfachte Verteilung
 
@@ -6294,14 +5848,9 @@ weiteren Frist von zwei Wochen, die das Gericht unter Hinweis auf die
 Möglichkeit der Versagung der Restschuldbefreiung gesetzt hat, nicht
 gezahlt ist. Vor der Entscheidung ist der Schuldner zu hören.
 
-
 ## Zehnter Teil - Besondere Arten des Insolvenzverfahrens
 
-
-
 ### Erster Abschnitt - Nachlaßinsolvenzverfahren
-
-
 
 #### § 315 Örtliche Zuständigkeit
 
@@ -6311,7 +5860,6 @@ Zeit seines Todes seinen allgemeinen Gerichtsstand hatte. Lag der
 Mittelpunkt einer selbständigen wirtschaftlichen Tätigkeit des
 Erblassers an einem anderen Ort, so ist ausschließlich das
 Insolvenzgericht zuständig, in dessen Bezirk dieser Ort liegt.
-
 
 #### § 316 Zulässigkeit der Eröffnung
 
@@ -6323,7 +5871,6 @@ oder daß er für die Nachlaßverbindlichkeiten unbeschränkt haftet.
 auch nach der Teilung des Nachlasses zulässig.
 
 (3) Über einen Erbteil findet ein Insolvenzverfahren nicht statt.
-
 
 #### § 317 Antragsberechtigte
 
@@ -6341,7 +5888,6 @@ zu, so ist, wenn der Erbe die Eröffnung beantragt, der
 Testamentsvollstrecker, wenn der Testamentsvollstrecker den Antrag
 stellt, der Erbe zu hören.
 
-
 #### § 318 Antragsrecht beim Gesamtgut
 
 (1) Gehört der Nachlaß zum Gesamtgut einer Gütergemeinschaft, so kann
@@ -6358,13 +5904,11 @@ Insolvenzgericht hat den anderen Ehegatten zu hören.
 
 (3) Die Absätze 1 und 2 gelten für Lebenspartner entsprechend.
 
-
 #### § 319 Antragsfrist
 
 Der Antrag eines Nachlaßgläubigers auf Eröffnung des
 Insolvenzverfahrens ist unzulässig, wenn seit der Annahme der
 Erbschaft zwei Jahre verstrichen sind.
-
 
 #### § 320 Eröffnungsgründe
 
@@ -6374,13 +5918,11 @@ Erbe, der Nachlaßverwalter oder ein anderer Nachlaßpfleger oder ein
 Testamentsvollstrecker die Eröffnung des Verfahrens, so ist auch die
 drohende Zahlungsunfähigkeit Eröffnungsgrund.
 
-
 #### § 321 Zwangsvollstreckung nach Erbfall
 
 Maßnahmen der Zwangsvollstreckung in den Nachlaß, die nach dem
 Eintritt des Erbfalls erfolgt sind, gewähren kein Recht zur
 abgesonderten Befriedigung.
-
 
 #### § 322 Anfechtbare Rechtshandlungen des Erben
 
@@ -6389,13 +5931,11 @@ Pflichtteilsansprüche, Vermächtnisse oder Auflagen erfüllt, so ist
 diese Rechtshandlung in gleicher Weise anfechtbar wie eine
 unentgeltliche Leistung des Erben.
 
-
 #### § 323 Aufwendungen des Erben
 
 Dem Erben steht wegen der Aufwendungen, die ihm nach den §§ 1978, 1979
 des Bürgerlichen Gesetzbuchs aus dem Nachlaß zu ersetzen sind, ein
 Zurückbehaltungsrecht nicht zu.
-
 
 #### § 324 Masseverbindlichkeiten
 
@@ -6436,12 +5976,10 @@ bezeichneten Verbindlichkeiten:
 (2) Im Falle der Masseunzulänglichkeit haben die in Absatz 1
 bezeichneten Verbindlichkeiten den Rang des § 209 Abs. 1 Nr. 3.
 
-
 #### § 325 Nachlaßverbindlichkeiten
 
 Im Insolvenzverfahren über einen Nachlaß können nur die
 Nachlaßverbindlichkeiten geltend gemacht werden.
-
 
 #### § 326 Ansprüche des Erben
 
@@ -6457,7 +5995,6 @@ unbeschränkt haftet.
 (3) Haftet der Erbe einem einzelnen Gläubiger gegenüber unbeschränkt,
 so kann er dessen Forderung für den Fall geltend machen, daß der
 Gläubiger sie nicht geltend macht.
-
 
 #### § 327 Nachrangige Verbindlichkeiten
 
@@ -6494,7 +6031,6 @@ nach den Verbindlichkeiten erfüllt, mit denen sie ohne die
 Beschränkung gleichen Rang hätte. Im übrigen wird durch die
 Beschränkungen an der Rangordnung nichts geändert.
 
-
 #### § 328 Zurückgewährte Gegenstände
 
 (1) Was infolge der Anfechtung einer vom Erblasser oder ihm gegenüber
@@ -6510,12 +6046,10 @@ gleichstehen, nur insoweit beansprucht werden, als der Erbe auch nach
 den Vorschriften über die Herausgabe einer ungerechtfertigten
 Bereicherung ersatzpflichtig wäre.
 
-
 #### § 329 Nacherbfolge
 
 Die §§ 323, 324 Abs. 1 Nr. 1 und § 326 Abs. 2, 3 gelten für den
 Vorerben auch nach dem Eintritt der Nacherbfolge.
-
 
 #### § 330 Erbschaftskauf
 
@@ -6536,7 +6070,6 @@ eine durch Vertrag erworbene Erbschaft verkauft oder sich in sonstiger
 Weise zur Veräußerung einer ihm angefallenen oder anderweitig von ihm
 erworbenen Erbschaft verpflichtet hat.
 
-
 #### § 331 Gleichzeitige Insolvenz des Erben
 
 (1) Im Insolvenzverfahren über das Vermögen des Erben gelten, wenn
@@ -6553,10 +6086,7 @@ wird, auch im Insolvenzverfahren über das Gesamtgut und im
 Insolvenzverfahren über das sonstige Vermögen des Ehegatten, der nicht
 Erbe ist.
 
-
 ### Zweiter Abschnitt - Insolvenzverfahren über das Gesamtgut einer fortgesetzten Gütergemeinschaft
-
-
 
 #### § 332 Verweisung auf das Nachlaßinsolvenzverfahren
 
@@ -6571,10 +6101,7 @@ Gesamtgutsverbindlichkeiten bestanden.
 Eröffnung des Verfahrens zu beantragen. Sie sind jedoch vom
 Insolvenzgericht zu einem Eröffnungsantrag zu hören.
 
-
 ### Dritter Abschnitt - Insolvenzverfahren über das gemeinschaftlich verwaltete Gesamtgut einer Gütergemeinschaft
-
-
 
 #### § 333 Antragsrecht. Eröffnungsgründe
 
@@ -6590,7 +6117,6 @@ Insolvenzgericht hat den anderen Ehegatten zu hören. Wird der Antrag
 von beiden Ehegatten gestellt, so ist auch die drohende
 Zahlungsunfähigkeit Eröffnungsgrund.
 
-
 #### § 334 Persönliche Haftung der Ehegatten
 
 (1) Die persönliche Haftung der Ehegatten für die Verbindlichkeiten,
@@ -6601,21 +6127,15 @@ Sachwalter geltend gemacht werden.
 (2) Im Falle eines Insolvenzplans gilt für die persönliche Haftung der
 Ehegatten § 227 Abs. 1 entsprechend.
 
-
 ## Elfter Teil - Internationales Insolvenzrecht
 
-
-
 ### Erster Abschnitt - Allgemeine Vorschriften
-
-
 
 #### § 335 Grundsatz
 
 Das Insolvenzverfahren und seine Wirkungen unterliegen, soweit nichts
 anderes bestimmt ist, dem Recht des Staats, in dem das Verfahren
 eröffnet worden ist.
-
 
 #### § 336 Vertrag über einen unbeweglichen Gegenstand
 
@@ -6627,7 +6147,6 @@ Schiffsregister, Schiffsbauregister oder Register für Pfandrechte an
 Luftfahrzeugen eingetragenen Gegenstand ist das Recht des Staats
 maßgebend, unter dessen Aufsicht das Register geführt wird.
 
-
 #### § 337 Arbeitsverhältnis
 
 Die Wirkungen des Insolvenzverfahrens auf ein Arbeitsverhältnis
@@ -6636,14 +6155,12 @@ Europäischen Parlaments und des Rates vom 17. Juni 2008 über das auf
 vertragliche Schuldverhältnisse anzuwendende Recht (Rom I) (ABl. L 177
 vom 4.7.2008, S. 6) für das Arbeitsverhältnis maßgebend ist.
 
-
 #### § 338 Aufrechnung
 
 Das Recht eines Insolvenzgläubigers zur Aufrechnung wird von der
 Eröffnung des Insolvenzverfahrens nicht berührt, wenn er nach dem für
 die Forderung des Schuldners maßgebenden Recht zur Zeit der Eröffnung
 des Insolvenzverfahrens zur Aufrechnung berechtigt ist.
-
 
 #### § 339 Insolvenzanfechtung
 
@@ -6653,7 +6170,6 @@ Verfahrenseröffnung erfüllt sind, es sei denn, der Anfechtungsgegner
 weist nach, dass für die Rechtshandlung das Recht eines anderen Staats
 maßgebend und die Rechtshandlung nach diesem Recht in keiner Weise
 angreifbar ist.
-
 
 #### § 340 Organisierte Märkte. Pensionsgeschäfte
 
@@ -6669,7 +6185,6 @@ dem Recht des Staats, das für diese Verträge maßgebend ist.
 
 (3) Für die Teilnehmer an einem System im Sinne von § 1 Abs. 16 des
 Kreditwesengesetzes gilt Absatz 1 entsprechend.
-
 
 #### § 341 Ausübung von Gläubigerrechten
 
@@ -6687,7 +6202,6 @@ Forderung, die in dem Verfahren, für das er bestellt ist, angemeldet
 worden ist, in einem anderen Insolvenzverfahren über das Vermögen des
 Schuldners auszuüben, sofern der Gläubiger keine anderweitige
 Bestimmung trifft.
-
 
 #### § 342 Herausgabepflicht. Anrechnung
 
@@ -6707,10 +6221,7 @@ wenn die übrigen Gläubiger mit ihm gleichgestellt sind.
 (3) Der Insolvenzgläubiger hat auf Verlangen des Insolvenzverwalters
 Auskunft über das Erlangte zu geben.
 
-
 ### Zweiter Abschnitt - Ausländisches Insolvenzverfahren
-
-
 
 #### § 343 Anerkennung
 
@@ -6733,7 +6244,6 @@ Antrag auf Eröffnung des Insolvenzverfahrens getroffen werden, sowie
 für Entscheidungen, die zur Durchführung oder Beendigung des
 anerkannten Insolvenzverfahrens ergangen sind.
 
-
 #### § 344 Sicherungsmaßnahmen
 
 (1) Wurde im Ausland vor Eröffnung eines Hauptinsolvenzverfahrens ein
@@ -6744,7 +6254,6 @@ erfassten Vermögens erforderlich erscheinen.
 
 (2) Gegen den Beschluss steht auch dem vorläufigen Verwalter die
 sofortige Beschwerde zu.
-
 
 #### § 345 Öffentliche Bekanntmachung
 
@@ -6770,7 +6279,6 @@ Beschlusses, durch den die Bekanntmachung angeordnet wird, zu
 erteilen. Gegen die Entscheidung des Insolvenzgerichts, mit der die
 öffentliche Bekanntmachung abgelehnt wird, steht dem ausländischen
 Verwalter die sofortige Beschwerde zu.
-
 
 #### § 346 Grundbuch
 
@@ -6804,7 +6312,6 @@ entsprechend.
 das Schiffsbauregister und das Register für Pfandrechte an
 Luftfahrzeugen gelten die Absätze 1 und 2 entsprechend.
 
-
 #### § 347 Nachweis der Verwalterbestellung. Unterrichtung des Gerichts
 
 (1) Der ausländische Insolvenzverwalter weist seine Bestellung durch
@@ -6819,7 +6326,6 @@ Verfahrenseröffnung befugten Person zu beglaubigen ist.
 wesentlichen Änderungen in dem ausländischen Verfahren und über alle
 ihm bekannten weiteren ausländischen Insolvenzverfahren über das
 Vermögen des Schuldners.
-
 
 #### § 348 Zuständiges Insolvenzgericht. Zusammenarbeit der Insolvenzgerichte
 
@@ -6849,7 +6355,6 @@ unzuständigen Gericht ein, so leitet dieses den Antrag unverzüglich an
 das zuständige Gericht weiter und unterrichtet hierüber den
 Antragsteller.
 
-
 #### § 349 Verfügungen über unbewegliche Gegenstände
 
 (1) Hat der Schuldner über einen Gegenstand der Insolvenzmasse, der im
@@ -6864,7 +6369,6 @@ Rechte an eingetragenen Schiffen und Schiffsbauwerken und § 5 Abs. 3,
 Grundbuch, Schiffsregister, Schiffsbauregister oder Register für
 Pfandrechte an Luftfahrzeugen eingetragen, so bleibt § 106 unberührt.
 
-
 #### § 350 Leistung an den Schuldner
 
 Ist im Inland zur Erfüllung einer Verbindlichkeit an den Schuldner
@@ -6874,7 +6378,6 @@ Leistende befreit, wenn er zur Zeit der Leistung die Eröffnung des
 Verfahrens nicht kannte. Hat er vor der öffentlichen Bekanntmachung
 nach § 345 geleistet, so wird vermutet, dass er die Eröffnung nicht
 kannte.
-
 
 #### § 351 Dingliche Rechte
 
@@ -6887,7 +6390,6 @@ Eröffnung des ausländischen Insolvenzverfahrens nicht berührt.
 (2) Die Wirkungen des ausländischen Insolvenzverfahrens auf Rechte des
 Schuldners an unbeweglichen Gegenständen, die im Inland belegen sind,
 bestimmen sich, unbeschadet des § 336 Satz 2, nach deutschem Recht.
-
 
 #### § 352 Unterbrechung und Aufnahme eines Rechtsstreits
 
@@ -6903,7 +6405,6 @@ Verfügungsbefugnis über das Vermögen des Schuldners durch die
 Anordnung von Sicherungsmaßnahmen nach § 343 Abs. 2 auf einen
 vorläufigen Insolvenzverwalter übergeht.
 
-
 #### § 353 Vollstreckbarkeit ausländischer Entscheidungen
 
 (1) Aus einer Entscheidung, die in dem ausländischen
@@ -6915,10 +6416,7 @@ entsprechend.
 (2) Für die in § 343 Abs. 2 genannten Sicherungsmaßnahmen gilt Absatz
 1 entsprechend.
 
-
 ### Dritter Abschnitt - Partikularverfahren über das Inlandsvermögen
-
-
 
 #### § 354 Voraussetzungen des Partikularverfahrens
 
@@ -6942,7 +6440,6 @@ zuständig, in dessen Bezirk die Niederlassung oder, wenn eine
 Niederlassung fehlt, Vermögen des Schuldners belegen ist. § 3 Abs. 2
 gilt entsprechend.
 
-
 #### § 355 Restschuldbefreiung. Insolvenzplan
 
 (1) Im Partikularverfahren sind die Vorschriften über die
@@ -6952,7 +6449,6 @@ Restschuldbefreiung nicht anzuwenden.
 Einschränkungen der Rechte der Gläubiger vorgesehen sind, kann in
 diesem Verfahren nur bestätigt werden, wenn alle betroffenen Gläubiger
 dem Plan zugestimmt haben.
-
 
 #### § 356 Sekundärinsolvenzverfahren
 
@@ -6966,7 +6462,6 @@ der ausländische Insolvenzverwalter berechtigt.
 
 (3) Das Verfahren wird eröffnet, ohne dass ein Eröffnungsgrund
 festgestellt werden muss.
-
 
 #### § 357 Zusammenarbeit der Insolvenzverwalter
 
@@ -6985,7 +6480,6 @@ Stellungnahme zuzuleiten. Der ausländische Verwalter ist berechtigt,
 selbst einen Plan vorzulegen. § 218 Abs. 1 Satz 2 und 3 gilt
 entsprechend.
 
-
 #### § 358 Überschuss bei der Schlussverteilung
 
 Können bei der Schlussverteilung im Sekundärinsolvenzverfahren alle
@@ -6993,10 +6487,7 @@ Forderungen in voller Höhe berichtigt werden, so hat der
 Insolvenzverwalter einen verbleibenden Überschuss dem ausländischen
 Verwalter des Hauptinsolvenzverfahrens herauszugeben.
 
-
 ## Zwölfter Teil - Inkrafttreten
-
-
 
 ### § 359 Verweisung auf das Einführungsgesetz
 

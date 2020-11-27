@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1993, 1114
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August
@@ -28,7 +26,6 @@ Hauptausschusses des Bundesinstituts für Berufsbildung gemäß § 19 Nr.
 1 des Berufsbildungsförderungsgesetzes vom 23. Dezember 1981 (BGBl. I
 S. 1692) und im Einvernehmen mit dem Bundesministerium für Ernährung,
 Landwirtschaft und Forsten:
-
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
 
@@ -76,7 +73,6 @@ wahrzunehmen:
 Geprüfter Fachagrarwirt/Geprüfte Fachagrarwirtin - Baumpflege und
 Baumsanierung.
 
-
 ## § 2 Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer
@@ -103,7 +99,6 @@ wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft
 macht, daß er Kenntnisse, Fertigkeiten und Erfahrungen erworben hat,
 die die Zulassung zur Prüfung rechtfertigen.
 
-
 ## § 3 Gliederung und Inhalt der Prüfung
 
 (1) Die Prüfung gliedert sich in die Prüfungsteile
@@ -121,7 +116,6 @@ die die Zulassung zur Prüfung rechtfertigen.
 
 (2) Die Prüfung ist nach Maßgabe der §§ 4 bis 6 praktisch, schriftlich
 und mündlich durchzuführen.
-
 
 ## § 4 Prüfungsteil Grundlagen der Baumpflege und Baumsanierung
 
@@ -181,7 +175,6 @@ Bestehen der Prüfung oder für die eindeutige Beurteilung der
 Prüfungsleistung von Bedeutung ist. Die mündliche Ergänzungsprüfung
 soll je Prüfungsteilnehmer nicht länger als 30 Minuten dauern.
 
-
 ## § 5 Prüfungsteil Maßnahmen der Baumpflege und Baumsanierung
 
 (1) Der Prüfungsteilnehmer soll nachweisen, daß er Maßnahmen der
@@ -208,7 +201,6 @@ und in jeweils einem Prüfungsgespräch zu erläutern.
 
 (3) Die zwei Arbeitseinsätze sollen einschließlich der
 Prüfungsgespräche insgesamt nicht länger als drei Stunden dauern.
-
 
 ## § 6 Prüfungsteil Wirtschaft, Recht und Soziales
 
@@ -264,7 +256,6 @@ oder für die eindeutige Beurteilung der Prüfungsleistung von Bedeutung
 ist. Die mündliche Ergänzungsprüfung soll je Prüfungsteilnehmer nicht
 länger als 30 Minuten dauern.
 
-
 ## § 7 Bestehen der Prüfung
 
 (1) Die drei Teile der Prüfung sind gesondert zu bewerten. Für den
@@ -288,7 +279,6 @@ als eine dieser Leistungen mit "mangelhaft" benotet worden ist.
 sie ist als arithmetisches Mittel aus den Noten der drei Prüfungsteile
 zu errechnen.
 
-
 ## § 8 Wiederholung der Prüfung
 
 (1) Eine Prüfung, die nicht bestanden ist, kann zweimal wiederholt
@@ -301,7 +291,6 @@ darin in einer vorangegangenen Prüfung mindestens mit der Note
 "ausreichend" bewertet worden sind, und er sich innerhalb von zwei
 Jahren, gerechnet vom Tage der Beendigung der nicht bestandenen
 Prüfung an, zur Wiederholungsprüfung angemeldet hat.
-
 
 ## § 9 Inkrafttreten
 

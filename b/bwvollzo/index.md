@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   § 184 G v. 16.3.1976 I 581
 
-
 ## Eingangsformel
 
 Auf Grund des Artikels 7 des Einführungsgesetzes zum Wehrstrafgesetz
@@ -32,13 +31,11 @@ auf Grund des § 49 Abs. 4 der Wehrdisziplinarordnung in der Fassung
 der Bekanntmachung vom 4. September 1972 (Bundesgesetzbl. I S. 1665)
 von dem Bundesminister der Verteidigung verordnet:
 
-
 ## § 1 Geltungsbereich
 
 Diese Verordnung gilt für den Vollzug von Freiheitsstrafe, Strafarrest
 und Jugendarrest sowie für den Vollzug von Disziplinararrest an
 Soldaten durch Behörden der Bundeswehr.
-
 
 ## § 2 Behandlungsgrundsatz
 
@@ -47,7 +44,6 @@ ein gesetzmäßiges Leben zu führen, namentlich seine soldatischen
 Pflichten zu erfüllen.
 
 (2) Der Soldat nimmt in der Regel am Dienst teil.
-
 
 ## § 3 Vollzugseinrichtungen
 
@@ -58,7 +54,6 @@ oder Dienststelle durchgeführt.
 (2) Der Soldat wird von anderen Soldaten getrennt in einem Arrestraum
 untergebracht, soweit er nicht wegen der Teilnahme am Dienst oder
 wegen seiner Beschäftigung außerhalb des Arrestraumes eingesetzt wird.
-
 
 ## § 4 Vollzugsleiter und Vollzugshelfer
 
@@ -73,7 +68,6 @@ erforderlichen Entscheidungen.
 
 (3) Die Vollzugshelfer unterstützen den Vollzugsleiter nach dessen
 Weisungen in der Durchführung des Vollzugs.
-
 
 ## § 5 Dauer der Freiheitsentziehung
 
@@ -95,7 +89,6 @@ der Soldat an dem diesem Tag oder Zeitraum vorhergehenden Werktag
 entlassen werden, wenn dies nach der Länge der Freiheitsentziehung
 vertretbar ist und keine Nachteile für die Disziplin zu besorgen sind.
 
-
 ## § 6 Vollzugsplan
 
 Der Vollzugsleiter hat einen auf die Persönlichkeit des Soldaten
@@ -106,7 +99,6 @@ Anordnungen im Vollzugsplan können widerrufen oder geändert werden,
 soweit die Persönlichkeit des Soldaten, die Sicherheit oder Ordnung im
 Vollzug oder die militärische Ordnung dies erfordern; dies ist unter
 Angabe der Gründe im Vollzugsplan zu vermerken.
-
 
 ## § 7 Ärztliche Untersuchung vor Beginn des Vollzugs
 
@@ -123,10 +115,6 @@ zuläßt. Ist der Soldat nicht vollzugstauglich, so hat
     vollziehen ist, die Entscheidung der Vollstreckungsbehörde, wenn
     Jugendarrest zu vollziehen ist, die Entscheidung des
     Vollstreckungsleiters herbeizuführen.
-
-
-
-
 
 ## § 8 Mitnahme dienstlicher und persönlicher Gegenstände
 
@@ -149,13 +137,11 @@ die Entscheidung nicht mehr gegeben sind.
 werden. Gegenstände, die der Soldat nicht besitzen darf, sind ihm
 abzunehmen und für ihn aufzubewahren.
 
-
 ## § 9 Pflichten und Rechte des Soldaten
 
 Der Soldat hat auch während des Vollzugs die Pflichten und Rechte des
 Soldaten, soweit sich nicht aus den Vorschriften über den Vollzug
 etwas anderes ergibt.
-
 
 ## § 10 Teilnahme am Dienst und Beschäftigung
 
@@ -178,7 +164,6 @@ den Fähigkeiten des Soldaten angemessen sind.
 (3) Der Soldat darf nicht zum Wachdienst eingeteilt und nicht zu
 Sicherheitsaufgaben herangezogen werden.
 
-
 ## § 11 Aufenthalt im Freien
 
 Dem Soldaten wird täglich mindestens eine Stunde Aufenthalt im Freien
@@ -186,7 +171,6 @@ ermöglicht, wenn die Witterung dies zu der festgesetzten Zeit zuläßt.
 Der Aufenthalt im Freien kann versagt werden, wenn der Soldat während
 des Dienstes oder seiner Beschäftigung sich schon mindestens eine
 Stunde im Freien aufgehalten hat.
-
 
 ## § 12 Verpflegung, persönlicher Bedarf
 
@@ -196,7 +180,6 @@ angemessenem Umfang gestattet. Gegenstände, die die Sicherheit oder
 Ordnung im Vollzug gefährden, können ausgeschlossen werden. Besitz und
 Genuß alkoholischer Getränke sowie anderer Rauschmittel sind
 untersagt.
-
 
 ## § 13 Seelsorgerische Betreuung
 
@@ -223,7 +206,6 @@ kann aus Gründen der Sicherheit oder Ordnung untersagt werden. Die
 Teilnahme am Gottesdienst im Standort kann auch zeitlich oder auf den
 Gottesdienst in einer bestimmten Kirche beschränkt werden.
 
-
 ## § 14 Ärztliche Betreuung
 
 (1) Der Soldat erhält ärztliche Betreuung durch den Truppenarzt im
@@ -232,7 +214,6 @@ Rahmen der freien Heilfürsorge.
 (2) Aus Gründen der Gesundheit des Soldaten kann der Vollzugsleiter
 auf Vorschlag des Truppenarztes von Vollzugsvorschriften abweichen;
 solche Abweichungen sind im Vollzugsplan zu vermerken.
-
 
 ## § 15 Brief- und Paketpost
 
@@ -245,7 +226,6 @@ Disziplinararrest vollzogen wird.
 Untersuchungshaft angeordnet, so gelten die Bestimmungen des Absatzes
 1 nur, soweit nicht der Richter hinsichtlich der Überwachung des
 Postverkehrs des Soldaten andere Anordnungen trifft.
-
 
 ## § 16 Empfang von Besuchen
 
@@ -269,7 +249,6 @@ Untersuchungshaft angeordnet, so gelten die Bestimmungen des Absatzes
 1 nur, soweit nicht der Richter hinsichtlich der Überwachung der
 Besuche andere Anordnungen trifft.
 
-
 ## § 17 Vollzugserleichterungen
 
 (1) Der Vollzugsleiter kann dem Soldaten wegen dringender persönlicher
@@ -290,7 +269,6 @@ werden. Der Urlaub ist auf den Jahresurlaub anzurechnen; Absatz 1 Satz
 werden, soweit sich nachträglich ergibt, daß die Voraussetzungen für
 ihre Bewilligung nicht mehr gegeben sind.
 
-
 ## § 18 Vollzugsuntauglichkeit
 
 (1) Wird der Soldat wegen Krankheit in ein Bundeswehrkrankenhaus oder
@@ -305,7 +283,6 @@ Vollstreckung unterbrochen wird.
 
 (2) Bis zur Entscheidung über die Unterbrechung der Vollstreckung kann
 von den Vollzugsvorschriften abgewichen werden.
-
 
 ## § 19 Ordnung und Sicherheit im Vollzug
 
@@ -348,13 +325,11 @@ Verzug auch vorläufig von den Vollzugshelfern getroffen werden; in
 diesen Fällen ist die Entscheidung des Vollzugsleiters unverzüglich
 einzuholen.
 
-
 ## § 20 Behandlung von Beschwerden
 
 Für Beschwerden gegen unrichtige Behandlung durch militärische
 Vorgesetzte oder Dienststellen der Bundeswehr im Vollzug gelten die
 Vorschriften der Wehrbeschwerdeordnung.
-
 
 ## § 21 Einschränkung von Grundrechten
 
@@ -363,11 +338,9 @@ Das Grundrecht der körperlichen Unversehrtheit (Artikel 2 Abs. 2 Satz
 (Artikel 10 Abs. 1 des Grundgesetzes) werden nach Maßgabe dieser
 Verordnung eingeschränkt.
 
-
 ## § 22
 
 -
-
 
 ## § 23 Inkrafttreten
 

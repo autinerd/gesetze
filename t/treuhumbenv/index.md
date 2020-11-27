@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 7 Abs. 2 Satz 2 G v. 2.11.2000 I 1481
 
-
 ## Eingangsformel
 
 Auf Grund des § 23b Satz 1 des Treuhandgesetzes, der durch Artikel 1
@@ -32,12 +31,10 @@ des Artikels 15 § 1 des Gesetzes vom 20. Dezember 1993 (BGBl. I S.
 2182) verordnet das Bundesministerium der Justiz im Einvernehmen mit
 den Bundesministerien der Finanzen und für Wirtschaft:
 
-
 ## § 1
 
 Die Treuhandanstalt wird in Bundesanstalt für vereinigungsbedingte
 Sonderaufgaben umbenannt.
-
 
 ## § 2
 
@@ -68,11 +65,9 @@ Grundstücksverkehrsordnung sinngemäß.
 (4) § 4 Abs. 2 des Investitionsvorranggesetzes bleibt im übrigen
 unberührt.
 
-
 ## § 3
 
 (weggefallen)
-
 
 ## § 4
 
@@ -88,11 +83,9 @@ nicht abgesandt worden ist. Die Vorgänge müssen bis zum Ablauf des 31.
 März 1995 bei der Bundesanstalt für vereinigungsbedingte
 Sonderaufgaben eingegangen sein.
 
-
 ## § 5
 
 Diese Verordnung tritt am 1. Januar 1995 in Kraft.
-
 
 ## Schlußformel
 

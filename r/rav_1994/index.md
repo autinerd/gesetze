@@ -18,8 +18,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1994, 1224
 
-
-
 ## Eingangsformel
 
 Auf Grund
@@ -61,7 +59,6 @@ verordnet die Bundesregierung und auf Grund des
 
 verordnet das Bundesministerium für Arbeit und Sozialordnung:
 
-
 ## § 1 Anpassung des aktuellen Rentenwerts und des aktuellen Rentenwerts (Ost)
 
 (1) Der aktuelle Rentenwert beträgt vom 1. Juli 1994 an 46,00 Deutsche
@@ -69,7 +66,6 @@ Mark.
 
 (2) Der aktuelle Rentenwert (Ost) beträgt vom 1. Juli 1994 an 34,49
 Deutsche Mark.
-
 
 ## § 2 Anpassungsfaktor in der Unfallversicherung
 
@@ -82,7 +78,6 @@ Pflegegeld der gesetzlichen Unfallversicherung für Arbeitsunfälle im
 Sinne des § 1153 der Reichsversicherungsordnung, die vor dem 1. Juli
 1994 eingetreten sind, werden zum 1. Juli 1994 angepaßt. Der
 Anpassungsfaktor beträgt 1,0345.
-
 
 ## § 3 Pflegegeld in der Unfallversicherung
 
@@ -98,10 +93,6 @@ Das Pflegegeld der gesetzlichen Unfallversicherung beträgt vom 1. Juli
     anzuwenden ist, zwischen 389 Deutsche Mark und 1.558 Deutsche Mark
     monatlich.
 
-
-
-
-
 ## § 4 Anpassung in der Altershilfe für Landwirte
 
 Die in § 4 Abs. 1 Satz 1 des Gesetzes über eine Altershilfe für
@@ -112,10 +103,6 @@ Altersgeld betragen vom 1. Juli 1994 an
 
 
 2.  für den unverheirateten Berechtigten 485,50 Deutsche Mark monatlich.
-
-
-
-
 
 ## § 5 Angleichungsfaktoren für den Versorgungsausgleich in der Rentenversicherung
 
@@ -141,11 +128,9 @@ bis zum 31. Dezember 1993              1,0369235,
 8\. bei einem Ehezeitende in der Zeit vom 1. Januar 1994
 bis zum 30. Juni 1994                   1,0005347.
 
-
 ## § 6 Inkrafttreten
 
 Diese Verordnung tritt am 1. Juli 1994 in Kraft.
-
 
 ## Schlußformel
 

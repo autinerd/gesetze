@@ -21,7 +21,6 @@ Fundstelle
 Geändert durch
 :   Art. 6 Abs. 62 G v. 27.12.1993 I 2378
 
-
 ## (XXXX)
 
 Auf Grund des § 2 des Gesetzes über die Errichtung einer
@@ -40,7 +39,6 @@ Entsprechendes gilt für verzinsliche Schatzanweisungen des
 Bundeseisenbahnvermögens und Deutschen Bundespost.
 Die Schatzanweisungen können somit in das Schuldbuch eingetragen
 werden.
-
 
 ## Schlussformel
 

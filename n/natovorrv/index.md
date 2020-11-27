@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1958, 117
 
-
-
 ## Eingangsformel
 
 Auf Grund des Artikels 3 des Gesetzes vom 22. Juni 1954 über den
@@ -29,7 +27,6 @@ und Befreiungen an andere zwischenstaatliche Organisationen
 (Bundesgesetzbl. II S. 639) in der Fassung des Gesetzes vom 3. Juni
 1957 (Bundesgesetzbl. II S. 469) wird mit Zustimmung des Bundesrates
 verordnet:
-
 
 ## § 1
 
@@ -44,11 +41,9 @@ internationalen Personals vom 20. September 1951 Anwendung.
 
 (2)
 
-
 ## § 2
 
 -
-
 
 ## § 3
 
@@ -59,7 +54,6 @@ September 1951 gemäß seinem Artikel 26 Abs. 2 für die Bundesrepublik
 Deutschland in Kraft tritt.
 
 (2)
-
 
 ## Schlußformel
 

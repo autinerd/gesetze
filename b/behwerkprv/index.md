@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 1239
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August
@@ -29,7 +27,6 @@ Oktober 1998 (BGBl. I S. 3288) verordnet das Bundesministerium für
 Bildung und Forschung nach Anhörung des Ständigen Ausschusses des
 Bundesinstituts für Berufsbildung im Einvernehmen mit dem
 Bundesministerium für Arbeit und Sozialordnung:
-
 
 ## § 1 Ziel der Prüfung sowie Bezeichnung des Abschlusses
 
@@ -95,7 +92,6 @@ insbesondere:
 "Geprüfte Fachkraft zur Arbeits- und Berufsförderung in Werkstätten
 für behinderte Menschen".
 
-
 ## § 2 Zulassung zur Prüfung
 
 (1) Zur Prüfung ist zuzulassen, wer
@@ -118,7 +114,6 @@ haben.
 wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft
 macht, dass er Kenntnisse, Fertigkeiten und Erfahrungen erworben hat,
 die die Zulassung zur Prüfung rechtfertigen.
-
 
 ## § 3 Inhalte der Prüfung
 
@@ -148,7 +143,6 @@ festzustellen, ob der Prüfungsteilnehmer ausreichende Kenntnisse über
 Arten sowie typische Erscheinungsformen von Behinderungen und die
 damit häufig verbundenen Beeinträchtigungen geistig, seelisch und
 körperlich behinderter Menschen hat.
-
 
 ## § 4 Planung des Rehabilitationsverlaufs sowie der Förderung in der Werkstatt für behinderte Menschen
 
@@ -196,10 +190,6 @@ Menschen ziehen kann. In diesem Rahmen können geprüft werden:
     umsetzen und beim Erstellen eines individuellen und standardisierten
     Förderplans für den weiteren Rehabilitationsverlauf nach Maßgabe des
     Eingliederungsplans durch konkrete Vorschläge mitwirken können.
-
-
-
-
 
 ## § 5 Berufs- und Persönlichkeitsförderung
 
@@ -253,10 +243,6 @@ anwenden können. In diesem Rahmen können geprüft werden:
     Förderungsmöglichkeiten sowie die Möglichkeiten einer Vermittlung auf
     den allgemeinen Arbeitsmarkt oder in eine andere berufsfördernde
     Maßnahme.
-
-
-
-
 
 ## § 6 Gestaltung der Arbeit unter rehabilitativen Aspekten
 
@@ -337,10 +323,6 @@ können. In diesem Rahmen können geprüft werden:
 8.  Vorbereiten älterer behinderter Menschen auf den Ruhestand in
     Zusammenarbeit mit dem begleitenden Dienst der Werkstatt.
 
-
-
-
-
 ## § 7 Kommunikation und Zusammenarbeit mit den behinderten Menschen und Institutionen ihres Umfelds
 
 In diesem Handlungsbereich soll der Prüfungsteilnehmer nachweisen,
@@ -388,10 +370,6 @@ können. In diesem Rahmen können geprüft werden:
     Konflikten, Modifizieren von Verhaltensauffälligkeiten von behinderten
     Beschäftigten in Zusammenarbeit mit dem begleitenden Dienst.
 
-
-
-
-
 ## § 8 Rechtliche Rahmenbedingungen der Werkstatt für behinderte Menschen
 
 In diesem Handlungsbereich soll der Prüfungsteilnehmer nachweisen,
@@ -417,10 +395,6 @@ mit Behinderungen nachweisen. In diesem Rahmen können geprüft werden:
 
 
 5.  geschichtliche Kenntnisse über den Umgang mit behinderten Menschen.
-
-
-
-
 
 ## § 9 Gliederung der Prüfung
 
@@ -471,7 +445,6 @@ weitere Themen aus den in § 3 genannten Handlungsbereichen erörtert
 werden. Das Fachgespräch soll nicht länger als 30 Minuten dauern und
 zeitnah nach Abgabe der Projektarbeit durchgeführt werden.
 
-
 ## § 10 Anrechnung anderer Prüfungsleistungen
 
 Der Prüfungsteilnehmer kann auf Antrag von der Ablegung der
@@ -481,7 +454,6 @@ wenn er in den letzten fünf Jahren vor einer zuständigen Stelle, einer
 einem staatlichen Prüfungsausschuss eine Prüfung mit Erfolg abgelegt
 hat, die den Prüfungsanforderungen der Prüfungsinhalte nach dieser
 Verordnung entsprach.
-
 
 ## § 11 Bestehen der Prüfung
 
@@ -494,7 +466,6 @@ Abs. 1 Nr. 1 und 2 mit mindestens ausreichend bewertet wurden.
 und ein Zeugnis gemäß der Anlage 2 auszustellen. Im Fall der Befreiung
 gemäß § 10 sind anstatt der Note Ort und Datum und Bezeichnung des
 Prüfungsgremiums der anderweitig abgelegten Prüfung anzugeben.
-
 
 ## § 12 Wiederholung der Prüfung
 
@@ -511,11 +482,9 @@ Prüfungsteilnehmer kann beantragen, auch die bestandene
 Prüfungsleistung zu wiederholen. In diesem Fall ist das letzte
 Ergebnis für das Bestehen zu berücksichtigen.
 
-
 ## § 13 Inkrafttreten
 
 Diese Verordnung tritt am 1. Juli 2001 in Kraft.
-
 
 ## Anlage 1 (zu § 11 Abs. 3)
 
@@ -546,7 +515,6 @@ bestanden
 Datum .............................................
 Unterschrift(en) ..................................
 (Siegel der zuständigen Stelle)
-
 
 ## Anlage 2 (zu § 11 Abs. 3)
 

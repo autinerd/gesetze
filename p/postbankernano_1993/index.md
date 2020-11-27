@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1993, 1054
 
-
-
 ## I.
 
 Auf Grund des Artikels 1 der Anordnung des Bundespräsidenten über die
@@ -29,18 +27,15 @@ bis A 13 (gehobener Dienst) - je für ihren Bereich -
 der Leiterin, dem Leiter der Postbank Zentralstelle
 den Leiterinnen, den Leitern der Postbank Niederlassungen.
 
-
 ## II.
 
 Für besondere Fälle behalten wir uns die Ernennung und Entlassung der
 in Abschnitt I genannten Beamten vor.
 
-
 ## III.
 
 Diese Anordnung tritt am Tage nach der Veröffentlichung im
 Bundesgesetzblatt, frühestens jedoch ab 1. Juli 1993, in Kraft.
-
 
 ## Schlußformel
 

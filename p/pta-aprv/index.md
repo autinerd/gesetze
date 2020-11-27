@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 44 G v. 6.12.2011 I 2515
 
-
 ## Eingangsformel
 
 Auf Grund des § 7 des Gesetzes über den Beruf des pharmazeutisch-
@@ -31,10 +30,7 @@ vom 17. November 1994 (BGBl. I S. 3667) verordnet das
 Bundesministerium für Gesundheit im Benehmen mit dem Bundesministerium
 für Bildung, Wissenschaft, Forschung und Technologie:
 
-
 ## Abschnitt 1 - Allgemeine Vorschriften
-
-
 
 ### § 1 Ausbildung
 
@@ -90,7 +86,6 @@ praktischen Ausbildung schriftliche Arbeiten anzufertigen. Über die
 regelmäßige Teilnahme an der praktischen Ausbildung in der Apotheke
 erhält der Praktikant eine Bescheinigung nach dem Muster der Anlage 4.
 
-
 ### § 2 Staatliche Prüfung
 
 (1) Die staatliche Prüfung nach § 1 Abs. 1 Satz 2 besteht aus zwei
@@ -105,7 +100,6 @@ den Lehrgang abschließt. Die zuständige Behörde, in deren Bereich die
 Prüfung oder ein Teil der Prüfung abgelegt werden soll, kann aus
 wichtigem Grund Ausnahmen zulassen. Die Vorsitzenden der beteiligten
 Prüfungsausschüsse sind vorher zu hören.
-
 
 ### § 3 Prüfungsausschuß
 
@@ -154,7 +148,6 @@ Fachprüfer und deren Stellvertreter für die einzelnen Fächer.
 
 (4) Die zuständige Behörde kann Sachverständige und Beobachter zur
 Teilnahme an allen Prüfungsvorgängen entsenden.
-
 
 ### § 4 Zulassung zur Prüfung
 
@@ -207,13 +200,11 @@ Prüfungsbeginn schriftlich mitgeteilt werden.
 ihrer Chancengleichheit bei Durchführung der Prüfungen zu
 berücksichtigen.
 
-
 ### § 5 Niederschrift
 
 Über die Prüfung in jedem Fach ist eine Niederschrift zu fertigen, aus
 der Gegenstand, Ablauf und Ergebnisse der Prüfung und etwa vorkommende
 Unregelmäßigkeiten hervorgehen.
-
 
 ### § 6 Benotung
 
@@ -250,7 +241,6 @@ sowie der zweite Prüfungsabschnitt werden wie folgt benotet:
 
 Satz 1 gilt für die Bildung der Prüfungsnoten in den einzelnen Teilen
 des erstens Prüfungsabschnitts entsprechend.
-
 
 ### § 7 Bestehen und Wiederholung der Prüfung
 
@@ -313,7 +303,6 @@ Wiederholungsprüfung beizufügen. Die Wiederholungsprüfung muß
 spätestens zwölf Monate nach der letzten Prüfung abgeschlossen sein,
 in begründeten Fällen kann die zuständige Behörde Ausnahmen zulassen.
 
-
 ### § 8 Rücktritt von der Prüfung
 
 (1) Tritt ein Prüfling nach seiner Zulassung von der Prüfung zurück,
@@ -329,7 +318,6 @@ unterläßt es der Prüfling, die Gründe für seinen Rücktritt
 unverzüglich mitzuteilen, so gilt die Prüfung als nicht bestanden. § 7
 Abs. 4 gilt entsprechend.
 
-
 ### § 9 Versäumnisfolgen
 
 (1) Versäumt ein Prüfling einen Prüfungstermin oder gibt er eine
@@ -342,7 +330,6 @@ wichtiger Grund vor, so gilt die Prüfung als nicht unternommen.
 der Vorsitzende des Prüfungsausschusses. § 8 Abs. 1 Satz 1 und 4 gilt
 entsprechend.
 
-
 ### § 10 Ordnungsverstöße und Täuschungsversuche
 
 Der Vorsitzende des Prüfungsausschusses kann bei Prüflingen, die die
@@ -354,7 +341,6 @@ der Prüfung nur bis zum Abschluß der gesamten Prüfung, im Falle eines
 Täuschungsversuchs nur innerhalb von drei Jahren nach Abschluß der
 Prüfung zulässig.
 
-
 ### § 11 Prüfungsunterlagen
 
 Auf Antrag ist dem Prüfungsteilnehmer nach Abschluß der Prüfung
@@ -362,10 +348,7 @@ Einsicht in seine Prüfungsunterlagen zu gewähren. Schriftliche
 Aufsichtsarbeiten sind drei, Anträge auf Zulassung zur Prüfung und
 Prüfungsniederschriften zehn Jahre aufzubewahren.
 
-
 ## Abschnitt 2 - Prüfungsbestimmungen für die Ausbildung zu pharmazeutisch-technischen Assistenten - Erster Prüfungsabschnitt -
-
-
 
 ### § 12 Schriftlicher Teil der Prüfung
 
@@ -402,7 +385,6 @@ Aufsichtsarbeiten die Prüfungsnote für den schriftlichen Teil der
 Prüfung. Der schriftliche Teil der Prüfung ist bestanden, wenn jedes
 Fach mindestens mit "ausreichend" bewertet wird.
 
-
 ### § 13 Mündlicher Teil der Prüfung
 
 (1) Der mündliche Teil der Prüfung erstreckt sich auf folgende Fächer:
@@ -428,7 +410,6 @@ Prüfungsausschusses im Benehmen mit den Fachprüfern die Prüfungsnote
 für den mündlichen Teil der Prüfung. Der mündliche Teil der Prüfung
 ist bestanden, wenn jedes Fach mindestens mit "ausreichend" bewertet
 wird.
-
 
 ### § 14 Praktischer Teil der Prüfung
 
@@ -472,10 +453,7 @@ bestanden, wenn jedes Fach mindestens mit "ausreichend" benotet wird.
 (3) Die Prüfung soll für jedes Fach nicht länger als sechs Stunden
 dauern.
 
-
 ## Abschnitt 3 - Prüfungsbestimmungen für die Ausbildung zu pharmazeutisch-technischen Assistenten - Zweiter Prüfungsabschnitt -
-
-
 
 ### § 15 Apothekenpraxis
 
@@ -496,10 +474,7 @@ mit den Fachprüfern die Prüfungsnote für den zweiten
 Prüfungsabschnitt. Der zweite Prüfungsabschnitt ist bestanden, wenn
 die Prüfung mindestens mit "ausreichend" benotet wird.
 
-
 ## Abschnitt 4 - Anrechnungs- und Anerkennungsvorschriften
-
-
 
 ### § 16 Anrechnungsfähige Ausbildungszeiten und Prüfungen
 
@@ -516,7 +491,6 @@ vertraglich einen entsprechenden Rechtsanspruch eingeräumt haben,
 abgeschlossene Ausbildung erfüllt die Voraussetzungen des § 1 Abs. 2
 Satz 1 und des § 2 Abs. 1 Satz 2, wenn die Gleichwertigkeit des
 Ausbildungsstandes anerkannt wird.
-
 
 ### § 17 Fehlzeiten
 
@@ -542,7 +516,6 @@ Satz 1 Nr. 4 länger als vier Wochen unterbrochen, ist die darüber
 hinausgehende Zeit nachzuholen. Satz 1 gilt entsprechend, wenn die
 praktische Ausbildung in besonderen Fällen nicht ganztägig abgeleistet
 werden kann.
-
 
 ### § 18 Sonderregelungen für Inhaber von Ausbildungsnachweisen aus anderen Mitgliedstaaten der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder einem Vertragsstaat, dem Deutschland und die Europäische Union vertraglich einen entsprechenden Rechtsanspruch eingeräumt haben
 
@@ -616,7 +589,6 @@ ergehen muss. Erhält der Dienstleistungserbringer innerhalb der in den
 Sätzen 1 und 2 genannten Fristen keine Rückmeldung der zuständigen
 Behörde, darf die Dienstleistung erbracht werden.
 
-
 ### § 18a Frist
 
 Die zuständige Behörde bestätigt dem Antragsteller binnen eines Monats
@@ -633,10 +605,7 @@ anderen Mitgliedstaat der Europäischen Union, des Europäischen
 Wirtschaftsraums oder der Schweiz anerkannt wurde, zugrunde liegt, am
 1\. Dezember 2012 in Kraft.
 
-
 ## Abschnitt 5 - Übergangs- und Schlußvorschriften
-
-
 
 ### § 19 Übergangsvorschriften
 
@@ -645,16 +614,13 @@ Eine vor Inkrafttreten dieser Verordnung begonnene Ausbildung zur
 technischen Assistenten" wird nach den bisher geltenden Vorschriften
 abgeschlossen.
 
-
 ### § 20 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 1998 in Kraft.
 
-
 ### Schlußformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ### Anlage 1 (zu § 1 Abs. 2 Satz 1)
 
@@ -862,10 +828,6 @@ Lerngebiete:
     Medizinprodukten und Verpackungen sowie rationelle Energie- und
     Materialverwendung
 
-
-
-
-
 ### Anlage 2 (zu § 1 Abs. 2 Satz 2)
 
 (Fundstelle des Originaltextes: BGBl. I 1997, 2358)
@@ -896,7 +858,6 @@ Ort, Datum
 -----
 \*) Nichtzutreffendes streichen.
 
-
 ### Anlage 3 (zu § 1 Abs. 3 Satz 3)
 
 (Fundstelle des Originaltextes: BGBl. I 1997, 2359)
@@ -918,7 +879,6 @@ Ort, Datum
 ..............., den ..............           (Stempel der Apotheke)
 ...................................
 (Unterschrift des Apothekenleiters)
-
 
 ### Anlage 4 (zu § 1 Abs. 4 Satz 5)
 
@@ -957,7 +917,6 @@ Apotheke)
 -----
 \*) Nichtzutreffendes streichen.
 
-
 ### Anlage 5 (zu § 7 Abs. 2 Satz 1)
 
 (Fundstelle des Originaltextes: BGBl. I 1997, 2361)
@@ -993,7 +952,6 @@ Ort, Datum
 ......................................................
 (Unterschrift des Vorsitzenden des Prüfungsausschusses)
 
-
 ### Anlage 6 (zu § 7 Abs. 2 Satz 2)
 
 (Fundstelle des Originaltextes: BGBl. I 1997, 2362 )
@@ -1020,7 +978,6 @@ Ort, Datum
 ..................., den ..............................      (Siegel)
 .......................................................
 (Unterschrift des Vorsitzenden des Prüfungsausschusses)
-
 
 ### Anlage 7 (zu § 7 Abs. 3 Satz 3)
 

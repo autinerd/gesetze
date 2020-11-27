@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1988, 286
 
-
-
 ## Art 1
 
 Dem in Tondern am 16. Mai 1985 unterzeichneten Abkommen zwischen der
@@ -26,7 +24,6 @@ Bundesrepublik Deutschland und dem Königreich Dänemark über die
 gegenseitige Hilfeleistung bei Katastrophen oder schweren
 Unglücksfällen wird zugestimmt. Das Abkommen wird nachstehend
 veröffentlicht.
-
 
 ## Art 2
 
@@ -48,12 +45,10 @@ den Fällen des Artikels 8 Abs. 2 und 3 des Abkommens entstehen,
 richtet sich die Kostenträgerschaft danach, ob die jeweilige
 Hilfemaßnahme in den Aufgabenbereich des Bundes oder der Länder fällt.
 
-
 ## Art 3
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
-
 
 ## Art 4
 

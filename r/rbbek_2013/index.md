@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 2175
 
-
 ## (XXXX)
 
 Nach § 20 Absatz 5 Satz 3 des Zweiten Buches Sozialgesetzbuch –
@@ -62,10 +61,6 @@ die Zeit ab 1. Januar 2013 anerkannt:
 
 7.  für Leistungsberechtigte im 15. Lebensjahr monatlich 289 Euro (§ 23
     Nummer 1 dritte Alternative SGB II).
-
-
-
-
 
 ## Schlussformel
 

@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2000, 788
 
-
-
 ## Eingangsformel
 
 Auf Grund
@@ -64,7 +62,6 @@ verordnet die Bundesregierung und auf Grund
 
 verordnet das Bundesministerium für Arbeit und Sozialordnung:
 
-
 ## § 1 Anpassung des aktuellen Rentenwerts und des aktuellen Rentenwerts (Ost)
 
 (1) Der aktuelle Rentenwert beträgt vom 1. Juli 2000 an 48,58 Deutsche
@@ -72,7 +69,6 @@ Mark.
 
 (2) Der aktuelle Rentenwert (Ost) beträgt vom 1. Juli 2000 an 42,26
 Deutsche Mark.
-
 
 ## § 2 Anpassungsfaktor in der Unfallversicherung
 
@@ -85,7 +81,6 @@ Pflegegeld der gesetzlichen Unfallversicherung im Sinne des § 215 Abs.
 5 des Siebten Buches Sozialgesetzbuch für Versicherungsfälle, die vor
 dem 1. Juli 2000 eingetreten sind, werden zum 1. Juli 2000 angepasst.
 Der Anpassungsfaktor beträgt 1,006.
-
 
 ## § 3 Pflegegeld in der Unfallversicherung
 
@@ -101,10 +96,6 @@ Das Pflegegeld der gesetzlichen Unfallversicherung beträgt vom 1. Juli
     Sozialgesetzbuch anzuwenden ist, zwischen 471 Deutsche Mark und 1.882
     Deutsche Mark monatlich.
 
-
-
-
-
 ## § 4 Anpassung des allgemeinen Rentenwerts und des allgemeinen Rentenwerts (Ost) in der Alterssicherung der Landwirte
 
 (1) Der allgemeine Rentenwert in der Alterssicherung der Landwirte
@@ -112,7 +103,6 @@ beträgt vom 1. Juli 2000 an 22,43 Deutsche Mark.
 
 (2) Der allgemeine Rentenwert (Ost) in der Alterssicherung der
 Landwirte beträgt vom 1. Juli 2000 an 19,52 Deutsche Mark.
-
 
 ## § 5 Angleichungsfaktoren für den Versorgungsausgleich in der Rentenversicherung
 
@@ -206,14 +196,9 @@ Abs. 2 Nr. 1 Buchstabe a des Versorgungsausgleichs-
 
     *   vom 1. Juli 1999 bis 30. Juni 2000
 
-
-
-
-
 ## § 6 Inkrafttreten
 
 Diese Verordnung tritt am 1. Juli 2000 in Kraft.
-
 
 ## Schlussformel
 

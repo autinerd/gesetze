@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 7 V v. 21.6.2012 II 618 (1144)
 
-
 ## Eingangsformel
 
 Auf Grund
@@ -54,10 +53,6 @@ Auf Grund
     verordnet das Bundesministerium für Verkehr im Einvernehmen mit dem
     Bundesministerium für Post und Telekommunikation:
 
-
-
-
-
 ## Art 1 Anwendungsbereich
 
 (1) Die von der Moselkommission in Trier am 8. März 1995, 15. November
@@ -79,10 +74,7 @@ Anlage) haben folgende Bedeutung: Der Kilometerendpunkt schließt die
 jeweilige Kilometerangabe ein und der Kilometeranfangspunkt die
 jeweilige Kilometerangabe aus.
 
-
 ## Art 1a (weggefallen)
-
-
 
 ## Art 2 Zuständige Behörden
 
@@ -136,7 +128,6 @@ Verwaltungsverfahrensgesetzes vor, kann die zuständige Behörde eine
 Erlaubnis nach der Anlage auch nachträglich befristen und mit Auflagen
 versehen.
 
-
 ## Art 3 Fahrzeuge des öffentlichen Dienstes
 
 Fahrzeuge der Wasser- und Schiffahrtsverwaltung des Bundes, der
@@ -146,7 +137,6 @@ Katastrophenschutzes sowie der Wasserwirtschaftsverwaltungen sind von
 den Vorschriften der Anlage befreit, soweit dies zur Erfüllung
 hoheitlicher Aufgaben unter Berücksichtigung der öffentlichen
 Sicherheit und Ordnung dringend geboten ist.
-
 
 ## Art 4 Ordnungswidrigkeiten nach dem Binnenschiffahrtsaufgabengesetz
 
@@ -937,19 +927,13 @@ oder fahrlässig als Eigentümer oder Ausrüster
     zuläßt, obwohl die Besatzung oder das Personal entgegen § 8.11
     Buchstabe b zweiter Halbsatz nicht unterwiesen wurde.
 
-
-
-
-
 ## Art 5 (weggefallen)
 
 -
 
-
 ## Art 6
 
 -
-
 
 ## Art 7 Inkrafttreten
 

@@ -19,8 +19,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 2331
 
-
-
 ## I.
 
 Nach § 17 Abs. 5 Satz 2 der Allgemeinen Verwaltungsvorschrift für
@@ -32,7 +30,6 @@ einschließlich der Dienststelle Bundeszentralregister sowie das
 Geltendmachen von Schadenersatzansprüchen nach § 87a des
 Bundesbeamtengesetzes übertragen.
 
-
 ## II.
 
 Nach § 126 Abs. 3 Nr. 2 Satz 2 des Beamtenrechtsrahmengesetzes in
@@ -41,7 +38,6 @@ Deutschen Richtergesetzes wird dem Bundesamt für Finanzen die Befugnis
 übertragen, über den Widerspruch gegen einen Verwaltungsakt in
 Beihilfeangelegenheiten zu entscheiden, soweit es zum Erlass des
 Verwaltungsakts zuständig war.
-
 
 ## III.
 
@@ -52,13 +48,11 @@ Verwaltungsstreitverfahren übertragen, soweit das Bundesamt für
 Finanzen nach dieser Anordnung zur Entscheidung über den Widerspruch
 befugt war.
 
-
 ## IV.
 
 Diese Anordnung wird vorbehaltlich des Satzes 2 am 1. Oktober 2004
 wirksam. Sie ist nicht anzuwenden auf vor dem 1. Oktober 2004 erhobene
 Widersprüche oder Klagen.
-
 
 ## Schlussformel
 

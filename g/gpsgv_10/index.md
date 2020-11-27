@@ -30,7 +30,6 @@ Richtlinie die Inbetriebnahme von Sportbooten auf dem Wasser betrifft,
 wird sie durch verkehrsrechtliche Vorschriften des Bundes und, soweit
 erforderlich, der Länder umgesetzt.
 
-
 ## Eingangsformel
 
 Auf Grund des § 3 Abs. 1 des Geräte- und Produktsicherheitsgesetzes
@@ -41,7 +40,6 @@ Bundesministerien für Verkehr, Bau- und Wohnungswesen, für
 Verbraucherschutz, Ernährung und Landwirtschaft, für Umwelt,
 Naturschutz und Reaktorsicherheit sowie der Verteidigung nach Anhörung
 des Ausschusses für technische Arbeitsmittel und Verbraucherprodukte:
-
 
 ## § 1 Anwendungsbereich
 
@@ -165,10 +163,6 @@ Z-Antrieb mit oder ohne integriertes Abgassystem und Außenbordmotoren.
     1950 entworfenen Antriebsmotoren historischer Wasserfahrzeuge, die
     nicht in Serien hergestellt wurden.
 
-
-
-
-
 ## § 2 Sicherheitsanforderungen
 
 Sportboote, Wassermotorräder, unvollständige Boote, Bauteile oder
@@ -177,7 +171,6 @@ sie den grundlegenden Anforderungen des Anhangs I der Richtlinie
 94/25/EG entsprechen und bei bestimmungsgemäßem Betrieb und
 sachgemäßer Instandhaltung die Sicherheit und Gesundheit von Personen
 sowie die Sicherheit von Sachen und die Umwelt nicht gefährden.
-
 
 ## § 3 Voraussetzungen für die Bereitstellung auf dem Markt
 
@@ -347,7 +340,6 @@ angewandten Rechtsvorschriften zugrunde liegenden
 Gemeinschaftsrichtlinien entsprechend ihrer Veröffentlichung im
 Amtsblatt der Europäischen Union aufgeführt sein.
 
-
 ## § 4 Vom Hersteller bereitzustellende Unterlagen
 
 Der Hersteller, sein im Europäischen Wirtschaftsraum niedergelassener
@@ -360,10 +352,6 @@ bereithalten:
 
 
 2.  die technischen Unterlagen gemäß Anhang XIII der Richtlinie 94/25/EG.
-
-
-
-
 
 ## § 4a Teilnahme am Verkehr mit Sportfahrzeugen
 
@@ -392,7 +380,6 @@ Nachuntersuchungen bei Fahrzeugen mit CE-Kennzeichnung nur auf die in
 Anhang II              § 21.02 Nr. 2 der
 Binnenschiffsuntersuchungsordnung genannten Bestimmungen.
 
-
 ## § 5 Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 39 Absatz 1 Nummer 7 Buchstabe a des
@@ -406,15 +393,11 @@ Binnenschifffahrtsaufgabengesetzes handelt, wer vorsätzlich oder
 fahrlässig entgegen § 4a Abs. 1 mit einem Sportboot am Verkehr
 teilnimmt.
 
-
 ## § 6 (weggefallen)
-
-
 
 ## § 7 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2005 in Kraft.
-
 
 ## Schlussformel
 

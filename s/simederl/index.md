@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1978, 589
 
-
-
 ## Eingangsformel
 
 In dem Wunsche, den Behindertensport als ein wichtiges Mittel zur
@@ -28,17 +26,12 @@ veröffentlichten bereinigten Fassung, zuletzt geändert durch Artikel
 
 *   **Silbermedaille für den Behindertensport.**
 
-
-
-
-
 ## Art I
 
 Die Silbermedaille für den Behindertensport ist ein Ehrenzeichen. Sie
 wird an Behinderte verliehen, die durch besondere sportliche
 Leistungen in hervorragender Weise die Fähigkeit bewiesen haben, ihre
 Behinderung zu meistern und dadurch anderen ein Beispiel zu geben.
-
 
 ## Art II
 
@@ -50,12 +43,10 @@ einem Band mit den olympischen Farben getragen. Eine Abbildung des im
 Bundesministerium des Innern verwahrten amtlichen Musters wird als
 Anlage veröffentlicht.
 
-
 ## Art III
 
 Der Ausgezeichnete erhält eine Verleihungsurkunde. Das Ehrenzeichen
 geht in das Eigentum des Ausgezeichneten über.
-
 
 ## Art IV
 
@@ -63,18 +54,15 @@ Vorschläge zur Verleihung des Ehrenzeichens können die Sportverbände
 dem Chef des Bundespräsidialamtes oder dem Bundesminister des Innern
 unterbreiten.
 
-
 ## Art V
 
 Die Ausführungsbestimmungen erläßt der Bundesminister des Innern.
-
 
 ## Schlußformel
 
 Der Bundespräsident
 Der Bundeskanzler
 Der Bundesminister des Innern
-
 
 ## Anlage
 

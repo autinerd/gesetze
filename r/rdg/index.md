@@ -18,9 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 16 G v. 6.12.2011 I 2515
 
-
 ## Teil 1 - Allgemeine Vorschriften
-
 
 ### § 1 Anwendungsbereich
 
@@ -31,7 +29,6 @@ unqualifizierten Rechtsdienstleistungen zu schützen.
 
 (2) Regelungen in anderen Gesetzen über die Befugnis,
 Rechtsdienstleistungen zu erbringen, bleiben unberührt.
-
 
 ### § 2 Begriff der Rechtsdienstleistung
 
@@ -72,16 +69,11 @@ bisherigen Gläubiger nicht als fremd.
 6.  die Erledigung von Rechtsangelegenheiten innerhalb verbundener
     Unternehmen (§ 15 des Aktiengesetzes).
 
-
-
-
-
 ### § 3 Befugnis zur Erbringung außergerichtlicher Rechtsdienstleistungen
 
 Die selbständige Erbringung außergerichtlicher Rechtsdienstleistungen
 ist nur in dem Umfang zulässig, in dem sie durch dieses Gesetz oder
 durch oder aufgrund anderer Gesetze erlaubt wird.
-
 
 ### § 4 Unvereinbarkeit mit einer anderen Leistungspflicht
 
@@ -89,7 +81,6 @@ Rechtsdienstleistungen, die unmittelbaren Einfluss auf die Erfüllung
 einer anderen Leistungspflicht haben können, dürfen nicht erbracht
 werden, wenn hierdurch die ordnungsgemäße Erbringung der
 Rechtsdienstleistung gefährdet wird.
-
 
 ### § 5 Rechtsdienstleistungen im Zusammenhang mit einer anderen Tätigkeit
 
@@ -111,12 +102,7 @@ Zusammenhang mit einer der folgenden Tätigkeiten erbracht werden:
 
 3.  Fördermittelberatung.
 
-
-
-
-
 ## Teil 2 - Rechtsdienstleistungen durch nicht registrierte Personen
-
 
 ### § 6 Unentgeltliche Rechtsdienstleistungen
 
@@ -134,7 +120,6 @@ an Umfang und Inhalt der zu erbringenden Rechtsdienstleistungen
 ausgerichtete Einweisung und Fortbildung sowie eine Mitwirkung bei der
 Erbringung der Rechtsdienstleistung, soweit dies im Einzelfall
 erforderlich ist.
-
 
 ### § 7 Berufs- und Interessenvereinigungen, Genossenschaften
 
@@ -166,7 +151,6 @@ Person, der die entgeltliche Erbringung dieser Rechtsdienstleistung
 erlaubt ist, durch eine Person mit Befähigung zum Richteramt oder
 unter Anleitung einer solchen Person erfolgt. § 6 Abs. 2 Satz 2 gilt
 entsprechend.
-
 
 ### § 8 Öffentliche und öffentlich anerkannte Stellen
 
@@ -201,7 +185,6 @@ im Rahmen ihres Aufgaben- und Zuständigkeitsbereichs erbringen.
 (2) Für die in Absatz 1 Nr. 4 und 5 genannten Stellen gilt § 7 Abs. 2
 entsprechend.
 
-
 ### § 9 Untersagung von Rechtsdienstleistungen
 
 (1) Die für den Wohnsitz einer Person oder den Sitz einer Vereinigung
@@ -222,9 +205,7 @@ zu registrieren und im Rechtsdienstleistungsregister nach § 16
 Rechtsdienstleistungen innerhalb familiärer, nachbarschaftlicher oder
 ähnlich enger persönlicher Beziehungen zu erbringen, unberührt.
 
-
 ## Teil 3 - Rechtsdienstleistungen durch registrierte Personen
-
 
 ### § 10 Rechtsdienstleistungen aufgrund besonderer Sachkunde
 
@@ -268,7 +249,6 @@ Gelder unverzüglich an eine empfangsberechtigte Person weiterzuleiten
 oder auf ein gesondertes Konto einzuzahlen. Auflagen können jederzeit
 angeordnet oder geändert werden.
 
-
 ### § 11 Besondere Sachkunde, Berufsbezeichnungen
 
 (1) Inkassodienstleistungen erfordern besondere Sachkunde in den für
@@ -295,7 +275,6 @@ beantragt wird.
 die Berufsbezeichnung „Rentenberaterin“ oder „Rentenberater“ oder
 diesen zum Verwechseln ähnliche Bezeichnungen dürfen nur von
 entsprechend registrierten Personen geführt werden.
-
 
 ### § 12 Registrierungsvoraussetzungen
 
@@ -381,7 +360,6 @@ abweichend von den Vorschriften des Versicherungsvertragsgesetzes für
 die Pflichtversicherung, an Inhalt und Ausgestaltung der
 Berufshaftpflichtversicherung.
 
-
 ### § 13 Registrierungsverfahren
 
 (1) Der Antrag auf Registrierung ist an die für den Ort der
@@ -454,7 +432,6 @@ Rechtsverordnung mit Zustimmung des Bundesrates die Einzelheiten des
 Registrierungsverfahrens zu regeln. Dabei sind insbesondere
 Aufbewahrungs- und Löschungsfristen vorzusehen.
 
-
 ### § 14 Widerruf der Registrierung
 
 Die zuständige Behörde widerruft die Registrierung unbeschadet des §
@@ -485,10 +462,6 @@ landesrechtlicher Vorschriften,
     Rechtspersönlichkeit, die keine weitere qualifizierte Person benannt
     hat, bei Ausscheiden der qualifizierten Person nicht innerhalb von
     sechs Monaten eine qualifizierte Person benennt.
-
-
-
-
 
 ### § 15 Vorübergehende Rechtsdienstleistungen
 
@@ -569,16 +542,13 @@ für die Ausübung der Berufstätigkeit im Inland erforderlichen
 deutschen Sprachkenntnisse verfügt oder wenn sie beharrlich entgegen
 Absatz 4 eine unrichtige Berufsbezeichnung führt.
 
-
 ### § 15a Statistik
 
 Über Verfahren nach § 12 Absatz 3 Satz 3 und § 15 wird eine
 Bundesstatistik durchgeführt. § 17 des
 Berufsqualifikationsfeststellungsgesetzes ist anzuwenden.
 
-
 ## Teil 4 - Rechtsdienstleistungsregister
-
 
 ### § 16 Inhalt des Rechtsdienstleistungsregisters
 
@@ -663,7 +633,6 @@ Richtigkeit. Das Bundesministerium der Justiz wird ermächtigt, durch
 Rechtsverordnung mit Zustimmung des Bundesrates die Einzelheiten der
 öffentlichen Bekanntmachung im Internet zu regeln.
 
-
 ### § 17 Löschung von Veröffentlichungen
 
 (1) Die im Rechtsdienstleistungsregister öffentlich bekanntgemachten
@@ -700,9 +669,7 @@ Daten sind zu löschen
 Rechtsverordnung mit Zustimmung des Bundesrates die Einzelheiten des
 Löschungsverfahrens zu regeln.
 
-
 ## Teil 5 - Datenübermittlung und Zuständigkeiten, Bußgeldvorschriften
-
 
 ### § 18 Umgang mit personenbezogenen Daten
 
@@ -749,7 +716,6 @@ sicherzustellen, dass die Veröffentlichungen auch während der
 Datenübermittlung unversehrt, vollständig und aktuell bleiben und
 jederzeit ihrem Ursprung nach zugeordnet werden können.
 
-
 ### § 19 Zuständigkeit und Übertragung von Befugnissen
 
 (1) Zuständig für die Durchführung dieses Gesetzes sind die
@@ -761,7 +727,6 @@ Befugnisse, die den Landesjustizverwaltungen nach diesem Gesetz
 zustehen, durch Rechtsverordnung auf diesen nachgeordnete Behörden zu
 übertragen. Die Landesregierungen können diese Ermächtigung durch
 Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
-
 
 ### § 20 Bußgeldvorschriften
 

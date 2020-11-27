@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 9 G v. 5.12.2012 I 2474
 
-
 ## Eingangsformel
 
 Auf Grund der §§ 28n und 28p Abs. 9 des Vierten Buches
@@ -30,10 +29,7 @@ vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom
 22\. November 2005 (BGBl. I S. 3197), verordnet das Bundesministerium
 für Arbeit und Soziales:
 
-
 ## Erster Abschnitt - Berechnung des Gesamtsozialversicherungsbeitrages und der Beitragsbemessungsgrenzen
-
-
 
 ### § 1 Berechnungsgrundsätze
 
@@ -49,7 +45,6 @@ Beitragsbemessungsgrenze.
 Zwischenergebnisse durchgeführt. Das Gesamtergebnis wird auf zwei
 Dezimalstellen berechnet; die zweite Dezimalstelle wird um 1 erhöht,
 wenn sich in der dritten Dezimalstelle eine der Zahlen 5 bis 9 ergibt.
-
 
 ### § 2 Berechnungsvorgang
 
@@ -91,10 +86,7 @@ allein zu tragende Beitragsanteile werden durch Anwendung des
 maßgebenden Beitragssatzes oder Beitragszuschlags auf die
 beitragspflichtige Einnahme berechnet und gerundet.
 
-
 ## Zweiter Abschnitt - Zahlungen des Arbeitgebers
-
-
 
 ### § 3 Tag der Zahlung, Zahlungsmittel
 
@@ -139,7 +131,6 @@ Ist eine Krankenkasse der Arbeitgeber, ist der für die Pflegekasse
 bestimmte Anteil am Gesamtsozialversicherungsbeitrag auf dem
 entsprechenden Sachbuchkonto der Pflegekasse zu buchen.
 
-
 ### § 4 Reihenfolge der Tilgung
 
 Schuldet der Arbeitgeber oder ein sonstiger Zahlungspflichtiger
@@ -153,10 +144,7 @@ in der genannten Reihenfolge getilgt. Innerhalb der gleichen
 Schuldenart werden die einzelnen Schulden nach ihrer Fälligkeit, bei
 gleichzeitiger Fälligkeit anteilmäßig getilgt.
 
-
 ## Dritter Abschnitt - Weiterleitung und Abrechnung durch die Einzugsstelle
-
-
 
 ### § 5 Weiterleitung
 
@@ -209,7 +197,6 @@ Gebühren behalten die Einzugsstellen ein.
 tritt an die Stelle der Einzugsstelle im Sinne der Absätze 1 bis 3 die
 beauftragte Stelle.
 
-
 ### § 6 Abrechnung
 
 (1) Die Einzugsstelle hat dem Zahlungsempfänger bis zum Zwanzigsten
@@ -223,7 +210,6 @@ Rentenversicherung Knappschaft-Bahn-See als Träger der
 knappschaftlichen Rentenversicherung und der Bundesagentur für Arbeit
 vereinbarte Datensatz (Monatsabrechnung) zu verwenden.
 
-
 ### § 6a Weiterleitung und Abrechnung sonstiger Beiträge
 
 (1) Die §§ 5 und 6 gelten entsprechend für Beitragszahlungen und
@@ -236,10 +222,7 @@ erforderlichen Datengrundlagen auf Anforderung vorzulegen. Das
 Bundesversicherungsamt bestimmt das Nähere über die Datenlieferungen
 nach Anhörung des Spitzenverbandes Bund der Krankenkassen.
 
-
 ## Vierter Abschnitt - Prüfung beim Arbeitgeber
-
-
 
 ### § 7 Grundsätze
 
@@ -276,7 +259,6 @@ Arbeitsentgelten, die bei der Berechnung der Beiträge nach dem Siebten
 Buch Sozialgesetzbuch zu berücksichtigen sind, und deren Zuordnung zu
 den Gefahrtarifstellen sind den zuständigen Unfallversicherungsträgern
 zu übersenden.
-
 
 ### § 8 Entgeltunterlagen
 
@@ -438,10 +420,6 @@ werden.
 13. die Aufzeichnungen nach § 19 Absatz 1 des Arbeitnehmer-
     Entsendegesetzes.
 
-
-
-
-
 ### § 9 Beitragsabrechnung
 
 (1) Der Arbeitgeber hat zur Prüfung der Vollständigkeit der
@@ -516,7 +494,6 @@ Datenträgern geführt, sind die Daten in der Aufbewahrungsfrist
 jederzeit verfügbar und unverzüglich lesbar vorzuhalten. § 147 Abs. 5
 und 6 der Abgabenordnung gilt entsprechend.
 
-
 ### § 10 Mitwirkung
 
 (1) Der Arbeitgeber hat die Aufzeichnungen nach den §§ 8 und 9 so zu
@@ -588,7 +565,6 @@ dafür eine Frist gesetzt und darüber hinaus die Auflage erteilt
 werden, dem prüfenden Sozialversicherungsträger die ordnungsmäßige
 Mängelbeseitigung und die getroffenen Vorkehrungen nachzuweisen.
 
-
 ### § 11 Umfang
 
 (1) Die Prüfung der Aufzeichnungen nach den §§ 8 und 9 kann auf
@@ -603,7 +579,6 @@ Aufgabenerfüllung der Prüfung dienen, insbesondere zur Klärung, ob ein
 versicherungs- oder beitragspflichtiges Beschäftigungsverhältnis
 vorliegt oder nicht, auf Verlangen vorzulegen.
 
-
 ### § 12 Prüfung bei Steuerberatern oder bei anderen Stellen
 
 Für die Prüfung bei den in § 28p Abs. 6 des Vierten Buches
@@ -617,7 +592,6 @@ Monaten nach Abschluss der Prüfung dem Arbeitgeber zugehen. Das Recht
 auf Prüfung beim Arbeitgeber oder in den Räumen des
 Versicherungsträgers bleibt unberührt.
 
-
 ### § 13 Prüfung in den Räumen des Versicherungsträgers
 
 (1) Für die Prüfung beim Versicherungsträger gelten § 7 Abs. 1, 2 Satz
@@ -626,7 +600,6 @@ Versicherungsträgers bleibt unberührt.
 (2) Entfällt das Wahlrecht des Arbeitgebers nach § 98 Abs. 1 Satz 4
 des Zehnten Buches Sozialgesetzbuch, gelten die Vorschriften der §§ 7
 bis 11.
-
 
 ### § 13a Prüfung der Entrichtung der Künstlersozialabgabe
 
@@ -637,10 +610,7 @@ Beitragsüberwachungsverordnung sowie § 27 Abs. 1 Satz 3 und 4 des
 Künstlersozialversicherungsgesetzes gelten ergänzend. Den Zeitpunkt
 der Prüfung bestimmt der Versicherungsträger.
 
-
 ## Fünfter Abschnitt - Datei der Arbeitgeber
-
-
 
 ### § 14 Inhalt der Datei
 
@@ -779,15 +749,11 @@ dieser nach Einzugsstellen gegliedert ist, dürfen für die Prüfungen
 nach § 28q Abs. 1 Satz 1 und 2 des Vierten Buches Sozialgesetzbuch
 verarbeitet und genutzt werden.
 
-
 ## Sechster Abschnitt - Schlussvorschriften
-
-
 
 ### § 15 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Juli 2006 in Kraft.
-
 
 ### Schlussformel
 

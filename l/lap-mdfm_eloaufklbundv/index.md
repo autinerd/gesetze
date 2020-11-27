@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 Abs. 22 V v. 12.2.2009 I 320
 
-
 ## Eingangsformel
 
 Auf Grund des § 15 Abs. 1 Nr. 2 des Bundesbeamtengesetzes in der
@@ -30,10 +29,7 @@ Artikel 1 Nr. 1 Buchstabe b der Verordnung vom 15. April 1999 (BGBI. I
 S. 706) neu gefasst worden ist, verordnet das Bundesministerium der
 Verteidigung im Einvernehmen mit dem Bundesministerium des Innern:
 
-
 ## Kapitel 1 - Laufbahn und Ausbildung
-
-
 
 ### § 1 Laufbahnämter
 
@@ -93,7 +89,6 @@ und Amtsbezeichnungen:
 
 (3) Die Ämter der Laufbahn sind regelmäßig zu durchlaufen.
 
-
 ### § 2 Ziel der Ausbildung
 
 (1) Die Ausbildung führt zur Berufsbefähigung. Sie vermittelt den
@@ -114,7 +109,6 @@ sind zu fördern.
 weiterzubilden. Sie sind zum Selbststudium verpflichtet; das
 Selbststudium ist zu fördern.
 
-
 ### § 3 Einstellungsbehörde
 
 Einstellungsbehörden sind die Wehrbereichsverwaltungen und der
@@ -124,7 +118,6 @@ Betreuung der Anwärterinnen und Anwärter; sie treffen die
 Entscheidungen über Verkürzung und Verlängerung des
 Vorbereitungsdienstes. Die Einstellungsbehörden sind die für die
 beamtenrechtlichen Entscheidungen zuständigen Dienstbehörden.
-
 
 ### § 4 Einstellungsvoraussetzungen
 
@@ -138,10 +131,6 @@ In den Vorbereitungsdienst kann eingestellt werden, wer
     Besuch einer Hauptschule und eine förderliche abgeschlossene
     Berufsausbildung oder einen im allgemeinen Bildungsbereich als
     gleichwertig anerkannten Bildungsstand besitzt.
-
-
-
-
 
 ### § 5 Ausschreibung, Bewerbung
 
@@ -177,13 +166,6 @@ Bewerbung sind beizufügen:
 
     d)  Ablichtungen der Zeugnisse, die bei Beendigung des Grundwehrdienstes
         und über Wehrübungen erteilt wurden.
-
-
-
-
-
-
-
 
 ### § 6 Auswahlverfahren
 
@@ -242,7 +224,6 @@ Wiederbestellung ist zulässig. Für den Bereich der Bundeswehr sind die
 bestellten Mitglieder der Ausbildungsleitung (§ 20 Abs. 1)
 mitzuteilen.
 
-
 ### § 7 Einstellung in den Vorbereitungsdienst
 
 (1) Die Einstellungsbehörden entscheiden nach dem Ergebnis des
@@ -293,7 +274,6 @@ Die Kosten des Gesundheitszeugnisses trägt die Einstellungsbehörde.
 Anstelle der Kostenübernahme kann die Einstellungsbehörde die
 Einstellungsuntersuchung selbst vornehmen.
 
-
 ### § 8 Rechtsstellung während des Vorbereitungsdienstes
 
 (1) Mit ihrer Einstellung werden - unter Berufung in das
@@ -304,7 +284,6 @@ Regierungssekretäranwärtern ernannt.
 (2) Die Anwärterinnen und Anwärter unterstehen der Dienstaufsicht der
 Einstellungsbehörde. Während der Ausbildung bei den einzelnen
 Ausbildungsbehörden unterstehen sie auch deren Dienstaufsicht.
-
 
 ### § 9 Dauer, Verkürzung und Verlängerung des Vorbereitungsdienstes
 
@@ -354,11 +333,9 @@ Zeitpunkt eingestellt worden sind, abgelegt werden kann.
 (6) Bei Nichtbestehen der Laufbahnprüfung richtet sich die
 Verlängerung des Vorbereitungsdienstes nach § 38 Abs. 2.
 
-
 ### § 10 Urlaub während des Vorbereitungsdienstes
 
 Urlaub wird auf den Vorbereitungsdienst angerechnet.
-
 
 ### § 11 Ausbildungsakte
 
@@ -366,7 +343,6 @@ Für die Anwärterinnen und Anwärter sind Personalteilakten "Ausbildung"
 zu führen, in die der Ausbildungsplan, alle Leistungszeugnisse,
 Beiträge zu Leistungszeugnissen, Aufsichtsarbeiten sowie alle
 sonstigen Bewertungen aufzunehmen sind.
-
 
 ### § 12 Schwerbehinderte Menschen
 
@@ -386,7 +362,6 @@ beteiligt, wenn der schwerbehinderte Mensch eine Beteiligung ablehnt.
 
 (3) Entscheidungen über Prüfungserleichterungen trifft das
 Prüfungsamt.
-
 
 ### § 13 Gliederung des Vorbereitungsdienstes
 
@@ -454,7 +429,6 @@ Vorbereitungsdienstes ist.
 
 (3) Der Vorbereitungsdienst schließt mit der Laufbahnprüfung.
 
-
 ### § 14 Grundsätze der fachtheoretischen Ausbildung
 
 (1) Die fachtheoretische Ausbildung wird an Schulen und
@@ -475,7 +449,6 @@ diese bedürfen der Genehmigung des Bundesministeriums der
 Verteidigung. Die Lehrpläne bestimmen die Lernziele der Lehrgebiete
 und legen die Stundenzahl und die Art der Leistungsnachweise fest. Die
 Lerninhalte sind nach Intensitätsstufen zu beschreiben.
-
 
 ### § 15 Grundlehrgang
 
@@ -505,10 +478,6 @@ Teilgebieten auch vertiefende Kenntnisse vermittelt:
 
 6.  Informationsaustausch und Sicherheit.
 
-
-
-
-
 ### § 16 Verwaltungslehrgang
 
 Im Verwaltungslehrgang werden die Anwärterinnen und Anwärter mit den
@@ -518,7 +487,6 @@ Rechts- und Verwaltungsgrundlagen soll den Anwärterinnen und Anwärtern
 darüber hinaus auch bei der Wahrnehmung eigener Ansprüche aus ihrem
 Dienstverhältnis hilfreich sein. Außerdem werden theoretische und
 praktische Grundlagen der Informationstechnik vermittelt.
-
 
 ### § 17 Abschlusslehrgang
 
@@ -539,10 +507,6 @@ Ausbildung vermittelten Kenntnissen auf.
 
 
 4.  technische Grundlagen.
-
-
-
-
 
 ### § 18 Ziel der praktischen Ausbildung
 
@@ -580,7 +544,6 @@ Fernmeldeaufklärung - Fachgebiet Sprachen - kann die praktische
 Ausbildung ausschließlich in lehrgangsgebundener Form durchgeführt
 werden.
 
-
 ### § 19 Durchführung der praktischen Ausbildung
 
 (1) Die Ausbildungsleitung ist im Benehmen mit den
@@ -594,7 +557,6 @@ Anwärter festgelegt.
 
 (3) Tätigkeiten, die nicht dem Ziel der Ausbildung entsprechen, dürfen
 den Anwärterinnen und Anwärtern nicht übertragen werden.
-
 
 ### § 20 Ausbildungsleitung, Ausbildungsbeauftragte, Ausbilderinnen und Ausbilder
 
@@ -630,7 +592,6 @@ Bedarfsträger für jede Anwärterin und jeden Anwärter ein
 Ausbildungsplan aufgestellt, aus dem sich die Ausbildungsstationen
 ergeben. Dieser Plan wird der Ausbildungsleitung vorgelegt; die
 Anwärterinnen und Anwärter erhalten eine Ausfertigung.
-
 
 ### § 21 Leistungsnachweise während der fachtheoretischen Ausbildung
 
@@ -714,7 +675,6 @@ Ordnungsverstößen sind die §§ 32 und 33 entsprechend anzuwenden. Über
 die Folgen entscheidet die Stelle, die die Aufgabe des
 Leistungsnachweises bestimmt hat.
 
-
 ### § 22 Bewertungen während der praktischen Ausbildung
 
 (1) Über die Leistungen und den Befähigungsstand der Anwärterinnen und
@@ -740,10 +700,7 @@ Ausfertigung. Das Zeugnis ist der Ausbildungsleitung vorzulegen.
 Fernmeldeaufklärung - Fachgebiet Sprachen - finden während der
 lehrgangsgebundenen Sprachausbildung keine Bewertungen statt.
 
-
 ## Kapitel 2 - Prüfung
-
-
 
 ### § 23 Prüfungsamt
 
@@ -755,7 +712,6 @@ Prüfungskommission.
 
 (2) Die Aufgaben des Prüfungsamtes können ganz oder teilweise auf
 andere Behörden übertragen werden.
-
 
 ### § 24 Prüfungskommission
 
@@ -864,7 +820,6 @@ Vorsitzende, anwesend sind. Sie entscheidet mit Stimmenmehrheit. Bei
 Stimmengleichheit gibt die Stimme der oder des Vorsitzenden den
 Ausschlag. Stimmenthaltung ist nicht zulässig.
 
-
 ### § 25 Laufbahnprüfung
 
 (1) In der Laufbahnprüfung ist festzustellen, ob die Anwärterinnen und
@@ -896,7 +851,6 @@ Schwerbehindertenvertretung anwesend sein. Bei den Beratungen der
 Prüfungskommission über die Bewertung der Prüfungsleistungen dürfen
 nur deren Mitglieder anwesend sein.
 
-
 ### § 26 Prüfungsort, Prüfungstermin
 
 (1) Das Prüfungsamt setzt Ort und Zeit der praktischen sowie der
@@ -911,7 +865,6 @@ abgeschlossen sein.
 (3) Das Prüfungsamt teilt den Anwärterinnen und Anwärtern Ort und Zeit
 der praktischen sowie der schriftlichen und mündlichen Prüfung
 rechtzeitig mit.
-
 
 ### § 27 Praktische Prüfung
 
@@ -954,7 +907,6 @@ Leistungspunkte und Rangpunkte umzurechnen.
 gefertigt, die die Mitglieder der jeweiligen Prüfungskommission
 unterschreiben.
 
-
 ### § 28 Zulassung zur schriftlichen Prüfung
 
 (1) Das Prüfungsamt lässt Anwärterinnen und Anwärter zur schriftlichen
@@ -974,7 +926,6 @@ Prüfung mit. Dabei teilt es den zugelassenen Anwärterinnen und
 Anwärtern die von ihnen erzielten Rangpunkte mit, wenn sie dies
 beantragen. Die Nichtzulassung bedarf der Schriftform; sie wird mit
 einer Rechtsbehelfsbelehrung versehen.
-
 
 ### § 29 Schriftliche Prüfung
 
@@ -1018,7 +969,6 @@ abgeliefert, gilt sie als mit "ungenügend" (Rangpunkt 0) bewertet.
 Aufsichtsarbeit und wird nicht nach § 32 verfahren, gilt die versäumte
 Zeit als Bearbeitungszeit.
 
-
 ### § 30 Zulassung zur mündlichen Prüfung
 
 (1) Das Prüfungsamt lässt Anwärterinnen und Anwärter zur mündlichen
@@ -1027,7 +977,6 @@ mindestens mit der Note "ausreichend" bewertet worden sind.
 Andernfalls ist die Prüfung nicht bestanden.
 
 (2) § 28 Abs. 3 gilt entsprechend.
-
 
 ### § 31 Mündliche Prüfung
 
@@ -1057,7 +1006,6 @@ Einzelbewertungen, ergibt.
 (5) Über den Ablauf der Prüfung wird eine Niederschrift gefertigt, die
 die Mitglieder der jeweiligen Prüfungskommission unterschreiben.
 
-
 ### § 32 Verhinderung, Rücktritt, Säumnis
 
 (1) Wer durch eine Erkrankung oder sonstige nicht zu vertretende
@@ -1085,7 +1033,6 @@ erbrachte Prüfungsleistung nachgeholt werden kann, mit "ungenügend"
 (Rangpunkt 0) bewertet oder die gesamte Prüfung für nicht bestanden
 erklärt wird. Die Entscheidung ist mit einer Rechtsbehelfsbelehrung zu
 versehen.
-
 
 ### § 33 Täuschung, Ordnungsverstoß
 
@@ -1122,7 +1069,6 @@ versehen.
 
 (4) Betroffene sind vor der Entscheidung nach den Absätzen 2 und 3 zu
 hören.
-
 
 ### § 34 Bewertung von Prüfungsleistungen
 
@@ -1317,7 +1263,6 @@ die Erteilung des der Leistung entsprechenden Rangpunktes begründet.
 Für die Bewertung mündlicher Leistungen gelten diese Grundsätze
 sinngemäß.
 
-
 ### § 35 Gesamtergebnis
 
 (1) Im Anschluss an die mündliche Prüfung setzt die Prüfungskommission
@@ -1426,7 +1371,6 @@ mündlich.
 (4) Über das Gesamtergebnis der Laufbahnprüfung ist eine Niederschrift
 zu fertigen.
 
-
 ### § 36 Zeugnis
 
 (1) Das Prüfungsamt erteilt den Anwärterinnen und Anwärtern, die die
@@ -1450,7 +1394,6 @@ Mitteilung der Prüfungsergebnisse werden durch das Prüfungsamt
 berichtigt. Unrichtige Prüfungszeugnisse sind zurückzugeben. In den
 Fällen des § 33 Abs. 3 Satz 1 ist das Prüfungszeugnis zurückzugeben.
 
-
 ### § 37 Prüfungsakten, Einsichtnahme
 
 (1) Jeweils eine Ausfertigung der Zeugnisse über die praktische und
@@ -1463,7 +1406,6 @@ Strategische Aufklärung mindestens fünf Jahre aufbewahrt.
 (2) Die Anwärterinnen und Anwärter können nach Abschluss der
 Laufbahnprüfung Einsicht in die sie betreffenden Teile der
 Prüfungsakten nehmen.
-
 
 ### § 38 Wiederholung
 
@@ -1484,17 +1426,13 @@ verlängert. Die Wiederholungsprüfung soll zusammen mit den
 Anwärterinnen und Anwärtern der nächsten Laufbahnprüfung abgelegt
 werden.
 
-
 ## Kapitel 3 - Sonstige Vorschriften
-
-
 
 ### § 39 Übergangsregelung
 
 Ausbildung und Prüfung der vor Inkrafttreten dieser Verordnung in den
 Vorbereitungsdienst eingestellten Anwärterinnen und Anwärter richten
 sich nach den bisherigen Vorschriften.
-
 
 ### § 40 Inkrafttreten
 

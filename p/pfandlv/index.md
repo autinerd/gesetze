@@ -21,12 +21,10 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 10 G v. 17.3.2009 I 550
 
-
 ## § 1 Geltungsbereich der Erlaubnis
 
 Die Erlaubnis zum Betrieb des Gewerbes eines Pfandleihers gilt für den
 Geltungsbereich dieser Verordnung.
-
 
 ## § 2 Anzeige
 
@@ -34,7 +32,6 @@ Der Pfandleiher hat der zuständigen Behörde bei Beginn des
 Gewerbebetriebs anzuzeigen, welche Räume er für den Gewerbebetrieb
 benutzt; ferner hat er jeden Wechsel der für den Gewerbebetrieb
 benutzten Räume unverzüglich anzuzeigen.
-
 
 ## § 3 Buchführung
 
@@ -121,11 +118,9 @@ machen, Unterlagen oder Belege zu sammeln waren.
 und zur Aufbewahrung von Büchern, Aufzeichnungen und Belegen bleibt
 unberührt.
 
-
 ## § 4
 
 (weggefallen)
-
 
 ## § 5 Annahme des Pfandes
 
@@ -153,7 +148,6 @@ Monate vereinbaren.
 das Pfand nur annehmen, wenn ihm der Überbringer eine schriftliche
 Vollmacht des Verpfänders aushändigt.
 
-
 ## § 6 Pfandschein
 
 (1) Der Pfandleiher hat dem Verpfänder unverzüglich nach Abschluß des
@@ -169,7 +163,6 @@ lesbar sein.
 auszuhändigen, wenn der Pfandleihvertrag verlängert oder sonst
 geändert wird (Erneuerung).
 
-
 ## § 7 Aufbewahrung
 
 Jedes Pfand ist mit der auf dem Pfandschein angegebenen Nummer des
@@ -178,13 +171,11 @@ mehrere Pfänder, so kann die Nummer auf einer gemeinsamen Umhüllung
 vermerkt oder an einer die Pfänder zusammenhaltenden Befestigung
 angebracht werden.
 
-
 ## § 8 Versicherung
 
 Der Pfandleiher hat das Pfand mindestens zum doppelten Betrag des
 Darlehens gegen Feuerschäden, Leitungswasserschäden, Einbruchdiebstahl
 sowie gegen Beraubung zu versichern.
-
 
 ## § 9 Verwertung
 
@@ -219,7 +210,6 @@ ergeben; bei Pfändern, deren Versteigerung bereits in früheren
 Anzeigen bekanntgemacht worden ist und die nicht versteigert worden
 sind, genügt an Stelle der Angabe der Nummern und des Zeitraums ein
 Hinweis auf die früheren Anzeigen.
-
 
 ## § 10 Zinsen und Vergütung
 
@@ -276,7 +266,6 @@ ausscheidbaren notwendigen Kosten der Verwertung (Absatz 1 Nr. 3) im
 Verhältnis des Gesamterlöses zum Erlös für das einzelne Pfand
 aufzuteilen.
 
-
 ## § 11 Überschüsse aus der Verwertung
 
 (1) Der Pfandleiher hat Überschüsse, über die Vereinbarungen nach § 5
@@ -292,12 +281,10 @@ aus früheren Vereinbarungen nach § 5 mit demselben Verpfänder
 gegenüber, so darf der Pfandleiher sich aus dem Überschuss auch
 hinsichtlich des Mindererlöses befriedigen.
 
-
 ## § 12 Aushang
 
 Der Pfandleiher hat in seinen Geschäftsräumen an gut sichtbarer Stelle
 einen Abdruck dieser Verordnung auszuhängen.
-
 
 ## § 12a Ordnungswidrigkeiten
 
@@ -353,31 +340,23 @@ handelt, wer vorsätzlich oder fahrlässig
 
 9.  entgegen § 12 einen Abdruck dieser Verordnung nicht aushängt.
 
-
-
-
-
 ## § 13 (weggefallen)
 
 -
-
 
 ## § 14 (weggefallen)
 
 -
 
-
 ## § 15 (weggefallen)
 
 -
-
 
 ## § 16 Inkrafttreten
 
 (1) Diese Verordnung tritt am 1. März 1961 in Kraft.
 
 (2) (weggefallen)
-
 
 ## Anlage (zu § 10 Abs. 1 Nr. 2)
 

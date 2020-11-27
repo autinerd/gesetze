@@ -21,7 +21,6 @@ Neugefasst durch
 Geändert durch
 :   Art. 2 Abs. 102 G v. 22.12.2011 I 3044
 
-
 ## § 1 Anwendungsbereich
 
 (1) Dieses Gesetz dient der Durchführung
@@ -58,7 +57,6 @@ Geändert durch
 (2) Dieses Gesetz ist ein Gesetz im Sinne des § 1 Absatz 2 Nummer 4
 des Marktorganisationsgesetzes.
 
-
 ## § 2 Regionale Anwendung der einheitlichen Betriebsprämie
 
 (1) Die einheitliche Betriebsprämie wird ab dem 1. Januar 2005 auf
@@ -70,10 +68,7 @@ Betriebsprämie bildet jedes Land eine Region. Abweichend von Satz 1
 bilden die Länder Brandenburg und Berlin, Niedersachsen und Bremen
 sowie Schleswig-Holstein und Hamburg jeweils eine Region.
 
-
 ## § 2a (weggefallen)
-
-
 
 ## § 3 Nationale Reserve und Härtefälle
 
@@ -121,7 +116,6 @@ gemeinschaftsrechtlichen oder der unionsrechtlichen Vorschriften
 vorgesehenen Fällen, einschließlich der sich aus § 5 Absatz 6, auch in
 Verbindung mit § 5b Absatz 3, § 5c Absatz 2 oder § 5d Absatz 2,
 ergebenden Fälle, festsetzen zu können.
-
 
 ## § 4 Aufteilung der Obergrenze auf die Regionen
 
@@ -184,7 +178,6 @@ Verbraucherschutz (Bundesministerium) wird ermächtigt, durch
 Rechtsverordnung ohne Zustimmung des Bundesrates nach Anhörung der
 zuständigen obersten Landesbehörden jeweils die Aufteilung nach den
 Absätzen 2, 3, 3a, 3b und 3c durchzuführen.
-
 
 ## § 5 Bestimmung des Referenzbetrages der einheitlichen Betriebsprämie
 
@@ -356,7 +349,6 @@ einschließlich der Beträge nach den Absätzen 4, 4a, 4b und 4c, erfolgt
 ausschließlich zugunsten oder zulasten der nationalen Reserve und wird
 bei den Berechnungen nach den Absätzen 2 bis 5 nicht berücksichtigt.
 
-
 ## § 5a Ermittlung des betriebsindividuellen Zuckergrundbetrages
 
 (1) Der betriebsindividuelle Zuckergrundbetrag besteht aus der um 1,0
@@ -422,7 +414,6 @@ Unternehmen mit Wirkung für das Wirtschaftsjahr 2004/2005 zugeteilten
 Inulinsirupquoten abgeschlossen hatte, mit 360 Euro je Hektar
 multipliziert wird.
 
-
 ## § 5b Stärkekartoffelerhöhungsbetrag für das Jahr 2012
 
 (1) Jeder Zahlungsanspruch für 2012 eines Betriebsinhabers, der für
@@ -447,7 +438,6 @@ Umständen nicht betroffen ist, zugrunde gelegt.
 (3) § 5 Absatz 6 gilt für den Stärkekartoffelerhöhungsbetrag
 entsprechend.
 
-
 ## § 5c Einjähriger Erhöhungsbetrag für das Jahr 2012
 
 (1) Jeder Zahlungsanspruch in einer Region für das Jahr 2012 erhöht
@@ -467,7 +457,6 @@ wird von der zuständigen Behörde im Bundesanzeiger bekannt gemacht.
 (2) § 5 Absatz 6 gilt für den einjährigen Erhöhungsbetrag
 entsprechend.
 
-
 ## § 5d Erhöhung der Zahlungsansprüche ab dem Jahr 2013
 
 (1) Jeder Zahlungsanspruch in einer Region für das Jahr 2012 erhöht
@@ -485,7 +474,6 @@ auf das Jahr 2012 folgenden Jahre ist § 6 Absatz 2 Nummer 2
 entsprechend anzuwenden.
 
 (2) § 5 Absatz 6 gilt für den regionalen Erhöhungswert entsprechend.
-
 
 ## § 6 Anpassung der Zahlungsansprüche
 
@@ -524,7 +512,6 @@ in dem dort vorgesehenen Umfang gekürzt.
 Neufestsetzung so angepasst wie die zum Zeitpunkt der Neufestsetzung
 bereits in der Anpassung befindlichen Zahlungsansprüche.
 
-
 ## § 6a Regionaler Wert
 
 Ab dem Jahr 2013 werden neue Zahlungsansprüche in Höhe der Summe aus
@@ -535,7 +522,6 @@ regionalen Erhöhungswert (regionaler Wert) festgesetzt. Der regionale
 Wert einer Region wird von der zuständigen Behörde im Bundesanzeiger
 bekannt gemacht. Für die auf das Jahr 2013 folgenden Jahre ist § 6
 Absatz 2 Nummer 2 auf den regionalen Wert entsprechend anzuwenden.
-
 
 ## § 7 Verarbeitung und Nutzung von Daten
 
@@ -578,7 +564,6 @@ Betriebsinhabers in anonymisierter Form, dem Bundesministerium bis zum
 (3) Die zuständigen Behörden übermitteln dem Bundesministerium bis zum
 31\. August 2008 die Summe der für jede Region ermittelten gesonderten
 Beträge nach § 5 Absatz 4b.
-
 
 ## Anlage 1 (zu § 4 Abs. 1) Aufteilung der angepassten nationalen Obergrenze auf die Regionen
 
@@ -654,10 +639,6 @@ Beträge nach § 5 Absatz 4b.
 
     *   5,0876
 
-
-
-
-
 ## Anlage 1a (zu § 4 Absatz 3d) Aufteilung des sechsten Erhöhungsbetrages auf die Regionen
 
 (Fundstelle: BGBl. I 2010, 1726)
@@ -730,10 +711,6 @@ Beträge nach § 5 Absatz 4b.
 *    *   Thüringen
 
     *   945 252,98
-
-
-
-
 
 ## Anlage 2 (zu § 5 Abs. 3 Nr. 2) Verhältnis des Wertes des flächenbezogenen Betrages je Hektar förderfähige Fläche, die am 15. Mai 2003 als Dauergrünland genutzt wurde, bezogen auf den Wert des flächenbezogenen Betrages je Hektar für die sonstigen förderfähigen Flächen
 
@@ -838,10 +815,6 @@ Beträge nach § 5 Absatz 4b.
     *   1
 
     *   0,180
-
-
-
-
 
 ## Anlage 3 (zu § 6 Abs. 1) Berechnungsverfahren zur Bestimmung des Wertes der Zahlungsansprüche im Zeitablauf
 

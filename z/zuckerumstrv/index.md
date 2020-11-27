@@ -21,7 +21,6 @@ Zuletzt geändert durch
 Die v tritt nach ihrem § 5 satz 2 mit ablauf des 31.12.2006 außer kraft, sofern nicht mit zustimmung des bundesrates etwas anderes verordnet wird. § 5 satz 2 aufgeh. durch
 :   Art. 3 V v. 9.11.2006 I 2594 mWv 16.11.2006; dadurch ist die Geltung der V über den 31.12.2006 hinaus verlängert worden.
 
-
 ## Eingangsformel
 
 Auf Grund des § 6 Abs. 1 Nr. 1 Buchstabe s, der §§ 15 und 16 sowie des
@@ -37,7 +36,6 @@ verordnet das Bundesministerium für Ernährung, Landwirtschaft und
 Verbraucherschutz im Einvernehmen mit den Bundesministerien der
 Finanzen und für Wirtschaft und Technologie:
 
-
 ## § 1 Anwendungsbereich
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung der
@@ -49,12 +47,10 @@ Nr. L 58 S. 42) in der jeweils geltenden Fassung sowie der zur ihrer
 Durchführung erlassenen Rechtsakte der Kommission der Europäischen
 Gemeinschaften.
 
-
 ## § 2 Zuständige Stelle
 
 Die Bundesanstalt für Landwirtschaft und Ernährung (Bundesanstalt) ist
 für die Gewährung der Umstrukturierungsbeihilfe zuständig.
-
 
 ## § 3 Umstrukturierungsbeihilfe
 
@@ -63,7 +59,6 @@ Der Antrag auf Umstrukturierungsbeihilfe ist von den in Artikel 3 Abs.
 Bundesanstalt schriftlich einzureichen. Die Bundesanstalt kann für den
 Antrag Muster im Bundesanzeiger bekannt geben; soweit Muster bekannt
 gegeben sind, sind diese zu verwenden.
-
 
 ## § 3a Umstrukturierungsbeihilfe für Lohn-unternehmen nach Artikel 3 Abs. 6 Unterabs. 1 Buchstabe b der Verordnung (EG) Nr. 320/2006
 
@@ -142,10 +137,6 @@ vorzulegen:
     Zuckererzeugung im Wirtschaftsjahr 2008/2009 verladene Rübenmenge in
     Tonnen.
 
-
-
-
-
 ## § 4 Duldungs- und Mitwirkungspflichten
 
 (1) Die Beihilfeempfänger haben die bei ihnen verbleibenden Antrags-
@@ -181,7 +172,6 @@ den Bediensteten der Bundesanstalt das Betreten der Geschäfts- und
 Untersuchungsräume zu gestatten, die in Betracht kommenden Bücher,
 Aufzeichnungen und sonstigen Unterlagen vorzulegen, Auskunft zu
 erteilen sowie die erforderliche Unterstützung zu gewähren.
-
 
 ## § 5 Inkrafttreten
 

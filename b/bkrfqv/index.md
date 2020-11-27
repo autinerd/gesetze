@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 2108
 
-
-
 ## § 1 Erwerb der Grundqualifikation
 
 (1) Zum Erwerb der Grundqualifikation ist nur zugelassen, wer die
@@ -53,7 +51,6 @@ wirtschaftliche Nachteile entstehen.
 
 (5) Die Prüfung ist bestanden, wenn jeweils im praktischen und
 theoretischen Teil mindestens ausreichende Leistungen erbracht sind.
-
 
 ## § 2 Erwerb der beschleunigten Grundqualifikation
 
@@ -107,7 +104,6 @@ Prüfungsgegenstand bereits Gegenstand der Prüfung nach diesen
 Verordnungen sind. Die Dauer der Teilnahme am Unterricht und Prüfung
 sind entsprechend zu verkürzen.
 
-
 ## § 3 Unterrichts- und Prüfungsanforderungen in besonderen Fällen
 
 Fahrer und Fahrerinnen im Güterkraftverkehr, die ihre Tätigkeit auf
@@ -126,7 +122,6 @@ theoretischen Prüfungen auf diejenigen in Anlage 1 genannten
 Kenntnisbereiche, welche die Kraftfahrzeuge betreffen, die Gegenstand
 der neuen Grundqualifikation sind.
 
-
 ## § 4 Weiterbildung
 
 (1) Durch die Weiterbildung sind die in Anlage 1 aufgeführten
@@ -141,7 +136,6 @@ können bei verschiedenen Ausbildungsstätten absolviert werden. Ein
 Teil der Weiterbildung kann auf Übungen auf einem besonderen Gelände
 im Rahmen eines Fahrertrainings oder in einem leistungsfähigen
 Simulator entfallen.
-
 
 ## § 5 Nachweise
 
@@ -218,7 +212,6 @@ durch die nach Landesrecht zuständige Behörde erteilt.
 (5) Die Nachweise nach den Absätzen 2 und 3 sind bei der Durchführung
 von Fahrten den zuständigen Personen zur Kontrolle auszuhändigen.
 
-
 ## § 6 Anerkennung von Ausbildungsstätten
 
 Der Antrag auf Anerkennung einer Ausbildungsstätte für die
@@ -249,10 +242,6 @@ insbesondere
 
 
 4.  die vorgesehene Teilnehmerzahl.
-
-
-
-
 
 ## Anlage 1 (zu § 1 Abs. 2, § 2 Abs. 2, § 4 Abs. 1) Liste der Kenntnisbereiche
 
@@ -450,10 +439,6 @@ Fahrerlaubnisklassen D1, D1E, D, DE
     Überschreiten der Grenzen (internationaler Personenkraftverkehr),
     Organisation der wichtigsten Arten von Unternehmen im Personenverkehr.
 
-
-
-
-
 ## Anlage 2 (zu § 1 Abs. 2 Satz 1) Prüfungen zum Erwerb der Grundqualifikation
 
 
@@ -506,10 +491,6 @@ Fahrerlaubnisklassen D1, D1E, D, DE
     Das bei der praktischen Prüfung eingesetzte Kraftfahrzeug muss den
     jeweiligen Kriterien für Prüfungsfahrzeuge der Nummern 2.2.6 bis
     2\.2.13 der Anlage 7 der Fahrerlaubnis-Verordnung entsprechen.
-
-
-
-
 
 ## Anlage 3 (zu § 5 Abs. 4 Satz 4)
 

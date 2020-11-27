@@ -19,12 +19,10 @@ Fundstelle
 Geändert durch
 :   Art. 7 Abs. 19 G v. 19.6.2001 I 1149
 
-
 ## Eingangsformel
 
 Die Reichsregierung hat das folgende Gesetz beschlossen, das hiermit
 verkündet wird:
-
 
 ## (XXXX)
 

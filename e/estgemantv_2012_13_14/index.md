@@ -16,13 +16,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 1950
 
-
 ## Eingangsformel
 
 Auf Grund des § 3 Absatz 3 des Gemeindefinanzreformgesetzes in der
 Fassung der Bekanntmachung vom 10. März 2009 (BGBl. I S. 502)
 verordnet das Bundesministerium der Finanzen:
-
 
 ## § 1
 
@@ -36,7 +34,6 @@ Einkommensteuergesetzes vorliegt, wird die tarifliche Einkommensteuer
 nach § 32a Absatz 1 und 5 des Einkommensteuergesetzes verwendet, bei
 nichtveranlagten steuerpflichtigen Personen ist die einbehaltene
 Lohnsteuer maßgebend.
-
 
 ## § 2
 
@@ -53,12 +50,10 @@ gehen nicht in die Ermittlung der Schlüsselzahlen ein. Bei den
 nichtveranlagten Arbeitnehmerfällen mit Lohnsteuerabzug geht der
 Kinderfreibetrag nicht in die Ermittlung der Schlüsselzahlen ein.
 
-
 ## § 3
 
 Die Schlüsselzahlen sind auf acht Stellen nach dem Komma zu berechnen
 und auf die siebte Stelle nach dem Komma zu runden.
-
 
 ## § 4
 
@@ -70,7 +65,6 @@ der Neufestsetzung sind die Schlüsselzahlen der betroffenen Gemeinden
 den neu- oder umgebildeten Gemeinden im Verhältnis der in sie
 aufgenommenen Einwohner und Einwohnerinnen zuzurechnen.
 
-
 ## § 5
 
 Diese Verordnung tritt am 1. Januar 2012 in Kraft und am 31. Dezember
@@ -78,7 +72,6 @@ Diese Verordnung tritt am 1. Januar 2012 in Kraft und am 31. Dezember
 Ermittlung der Schlüsselzahlen für die Aufteilung des Gemeindeanteils
 an der Einkommensteuer für die Jahre 2009, 2010 und 2011 vom 25.
 September 2008 (BGBl. I S. 1927) außer Kraft.
-
 
 ## Schlussformel
 

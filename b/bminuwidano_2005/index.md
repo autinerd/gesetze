@@ -18,8 +18,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 3388
 
-
-
 ## I.
 
 Im Einvernehmen mit dem Bundesministerium der Finanzen übertrage ich
@@ -29,7 +27,6 @@ Amtsverhältnis und von Besoldung für Beamtinnen und Beamten im
 Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit sowie
 das Geltendmachen von Schadenersatzansprüchen nach § 87a des
 Bundesbeamtengesetzes.
-
 
 ## II.
 
@@ -41,7 +38,6 @@ Verbindung mit § 126 Abs. 3 Nr. 2 Satz 2 des
 Beamtenrechtsrahmengesetzes). Entsprechendes gilt für Widersprüche von
 Empfängerinnen und Empfängern von Amtsbezügen.
 
-
 ## III.
 
 Im Einvernehmen mit dem Bundesministerium der Finanzen übertrage ich
@@ -51,14 +47,12 @@ Entscheidung über Widersprüche zuständig ist (§ 174 Abs. 3 des
 Bundesbeamtengesetzes). Entsprechendes gilt für Klagen von
 Empfängerinnen und Empfängern von Amtsbezügen.
 
-
 ## IV.
 
 Diese Anordnung tritt mit Wirkung vom 1. Dezember 2005 in Kraft. Sie
 findet keine Anwendung auf Widersprüche, die vor ihrem Inkrafttreten
 eingelegt, oder auf Klagen, die vor ihrem Inkrafttreten erhoben worden
 sind.
-
 
 ## Schlussformel
 

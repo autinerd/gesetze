@@ -18,10 +18,7 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 20.12.2005 I 3512
 
-
 ## I. - Begriffsbestimmung
-
-
 
 ### § 1
 
@@ -29,18 +26,11 @@ Im Sinne dieser Verordnung sind Deckinfektionen des Rindes die durch
 den Deckakt oder die künstliche Besamung übertragbaren
 Geschlechtskrankheiten des Rindes.
 
-
 ## II. - Schutzmaßregeln
-
-
 
 ### A. - Schutzmaßregeln gegen Trichomonadenseuche und Vibrionenseuche
 
-
-
 #### 1. - Geltungsbereich
-
-
 
 ##### § 2
 
@@ -106,19 +96,7 @@ Geschlechtskrankheiten des Rindes.
         bb) durch Untersuchung bei mindestens einem Rind eine Deckinfektion oder
             der Verdacht einer Deckinfektion festgestellt worden ist.
 
-
-
-
-
-
-
-
-
-
-
 #### 2. - Schutzmaßregeln vor amtlicher Feststellung einer Deckinfektion
-
-
 
 ##### § 3
 
@@ -162,16 +140,7 @@ Im Falle des Verdachts auf eine Deckinfektion hat der Tierhalter
         Verdacht auf eine Deckinfektion als unbegründet erwiesen hat, nicht
         verwendet wird.
 
-
-
-
-
-
-
-
 #### 3. - Schutzmaßregeln nach amtlicher Feststellung einer Deckinfektion
-
-
 
 ##### § 4
 
@@ -182,10 +151,7 @@ der letzten Untersuchung auf Erreger der Deckinfektionen mit negativem
 Ergebnis im Betrieb entnommen worden ist, unverzüglich unschädlich
 beseitigt wird.
 
-
 ##### (XXXX) §§ 5 und 6 (weggefallen)
-
-
 
 ##### § 7
 
@@ -194,10 +160,7 @@ Rinderbestandes, in dem eine Deckinfektion oder der Verdacht einer
 Deckinfektion amtlich festgestellt ist, Rinder seines Bestandes durch
 einen Tierarzt behandeln zu lassen hat.
 
-
 #### 4. - Schutzmaßregeln bei Ansteckungsverdacht
-
-
 
 ##### § 8
 
@@ -209,10 +172,7 @@ Gehöft oder sonstigen Standort nur mit Genehmigung der zuständigen
 Behörde entfernt, nur künstlich besamt und Bullen nicht zum Decken
 verwendet werden.
 
-
 #### 5. - Desinfektion
-
-
 
 ##### § 9
 
@@ -233,10 +193,7 @@ Nach näherer Anweisung des beamteten Tierarztes sind
 
 zu reinigen und zu desinfizieren.
 
-
 #### 6. - Aufhebung der Schutzmaßregeln
-
-
 
 ##### § 10
 
@@ -299,16 +256,7 @@ Rinder unverdächtig sind.
     c)  während des Zeitraumes der Untersuchung der Bulle abgesondert von
         weiblichen Tieren gehalten wurde.
 
-
-
-
-
-
-
-
 ### B. - Schutzmaßregeln gegen andere Deckinfektionen
-
-
 
 #### § 11
 
@@ -319,15 +267,11 @@ sinngemäße Anwendung der in den §§ 3 bis 9 enthaltenen Maßregeln
 anordnen, sofern zu befürchten ist, dass diese Seuchen sich
 ausgebreitet haben.
 
-
 #### § 12
 
 (weggefallen)
 
-
 ## III. - Ordnungswidrigkeiten
-
-
 
 ### § 13
 
@@ -356,10 +300,6 @@ Tierseuchengesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 3.  entgegen § 8 Satz 2 Rinder entfernt oder besamt oder Bullen verwendet.
-
-
-
-
 
 ### § 14
 

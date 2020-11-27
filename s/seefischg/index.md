@@ -22,7 +22,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 G v. 22.12.2011 I 3069
 
-
 ## § 1 Anwendungsbereich
 
 (1) Dieses Gesetz dient
@@ -83,7 +82,6 @@ Gesetzes, der auf Grund dieses Gesetzes erlassenen Rechtsvorschriften
 sowie der sonstigen seefischereirechtlichen Vorschriften des Bundes
 Behörden des Bundes obliegt.
 
-
 ## § 1a Begriffsbestimmungen
 
 (1) Seefischerei übt aus, wer auf See erwerbsmäßig Fische fängt, zu
@@ -136,7 +134,6 @@ geografischen Gebiet in einem bestimmten Zeitraum.
 (7) Ein Moratorium im Sinne dieses Gesetzes ist ein ohne zeitliche
 Begrenzung festgelegtes Fangverbot.
 
-
 ## § 2 Zuständigkeiten des Bundes
 
 (1) Die Bundesanstalt ist für die in der Anlage aufgeführten Aufgaben
@@ -188,7 +185,6 @@ dienen, beteiligt die Bundesanstalt das Bundesamt für Naturschutz. Die
 Ergebnisse der Überwachung sind dem Bundesamt für Naturschutz zu
 übermitteln, soweit dies für dessen Aufgabenerfüllung nach Satz 1
 erforderlich ist.
-
 
 ## § 3 Fangerlaubnisse
 
@@ -271,7 +267,6 @@ Erteilung ablehnt oder unterläßt, gilt als Sitz der Bundesanstalt für
 die Zuständigkeit des Verwaltungsgerichts der Dienstort ihrer
 Außenstelle Hamburg.
 
-
 ## § 4 Ausübung der Seefischerei durch Fahrzeuge, die nicht berechtigt sind, die Bundesflagge zu führen
 
 Die Seefischerei bedarf einer besonderen Genehmigung, wenn sie
@@ -294,7 +289,6 @@ Bundesanstalt. Die Genehmigung der Seefischerei im Küstenmeer nach den
 Sätzen 1 und 2 erfolgt im Benehmen mit der jeweils für Fischerei
 zuständigen Landesbehörde. § 3 Abs. 1, 2, 3 Satz 3 und Abs. 5 gilt
 entsprechend.
-
 
 ## § 5 Überwachung der Fischerei auf See
 
@@ -321,7 +315,6 @@ Fischereiaufsichtsdienst eines anderen Staates die Fischerei auf See
 
 (4) (weggefallen)
 
-
 ## § 6 Fischereiüberwachungszentrum
 
 (1) Die Bundesanstalt führt die im Fischereirecht der Europäischen
@@ -333,7 +326,6 @@ einer Kontrolle auf See eines Fischereifahrzeugs aus einem
 Mitgliedstaat der Europäischen Union in der Ausschließlichen
 Wirtschaftszone durch Kontrollbeamte dieses Mitgliedstaats.
 
-
 ## § 7 Automatisches Schiffsidentifizierungssystem
 
 Soweit den für die Verkehrslenkung zuständigen Behörden Daten aus dem
@@ -342,12 +334,10 @@ diese verpflichtet, die Daten der Bundesanstalt und den für Fischerei
 zuständigen Behörden der Länder zu Prüfzwecken auf Anfrage zu
 übermitteln.
 
-
 ## § 8 Unionsinspektoren
 
 Die Bundesanstalt und die Länder können ihre Kontrollbeamten zu
 Gemeinschaftsinspektoren oder Unionsinspektoren vorschlagen.
-
 
 ## § 9 Mitwirkung der Zollbehörden bei der Überwachung der Einfuhr, Ausfuhr und Durchfuhr von Fischereierzeugnissen
 
@@ -384,10 +374,6 @@ unterliegen.
 3.  in den Fällen eines Verdachts nach Nummer 2 anordnen, dass Sendungen
     nach Nummer 1 auf Kosten und Gefahr des Verfügungsberechtigten der
     zuständigen Behörde vorgelegt werden.
-
-
-
-
 
 ## § 10 Datenbanken und Validierungssystem
 
@@ -449,14 +435,12 @@ Daten aus der Datenbank nach Absatz 1 Nummer 2 und 3 zu erheben und zu
 nutzen. Die Daten nach Satz 2 sind nach der Erfüllung der in Satz 2
 genannten Prüfaufgaben unverzüglich zu löschen.
 
-
 ## § 11 Datenaustausch
 
 Die Bundesanstalt ist befugt, nach Maßgabe des Artikels 111 der
 Verordnung (EG) Nr. 1224/2009 die dort genannten Informationen anderen
 Mitgliedstaaten, der Europäischen Kommission und der Europäischen
 Fischereiaufsichtsagentur zur Verfügung zu stellen.
-
 
 ## § 12 Internetseite
 
@@ -471,7 +455,6 @@ zu speichern und nach Maßgabe des Artikels 116 der Verordnung (EG) Nr.
 Fischereiaufsichtsagentur durch Fernzugriff zugänglich zu machen. Nach
 Ablauf der in Satz 2 bezeichneten Frist sind die Daten unverzüglich zu
 löschen.
-
 
 ## § 13 Punktesystem für schwere Verstöße
 
@@ -663,7 +646,6 @@ oder die Entziehung des Befähigungszeugnisses in den Fällen des
 Absatzes 1 Satz 2 Nummer 2, auch in Verbindung mit Absatz 8, haben
 keine aufschiebende Wirkung.
 
-
 ## § 14 Nationale Verstoßdatei
 
 (1) Die Bundesanstalt richtet eine nationale Verstoßdatei nach Maßgabe
@@ -759,10 +741,6 @@ folgenden Daten zu erheben und zu speichern:
     Fischereifahrzeugen oder eines Anerkennungsvermerks nach § 21 Absatz 2
     der Schiffsoffizier-Ausbildungsverordnung, Nebenbestimmungen, Datum
     der Rechtskraft oder Bestandskraft der Entscheidung.
-
-
-
-
 
 ## § 15 Ermächtigung zum Erlass von Rechtsverordnungen
 
@@ -1020,7 +998,6 @@ erlassen. In der Rechtsverordnung sind die geografischen Gebiete, in
 denen die technische Beschreibung des jeweiligen Fanggeräts gilt, zu
 bezeichnen.
 
-
 ## § 16 Eingriffsbefugnisse
 
 (1) Die zuständigen Behörden des Bundes und der Länder können, soweit
@@ -1074,7 +1051,6 @@ Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 wie dies erforderlich ist, um die Einhaltung der fischereirechtlichen
 Vorschriften zu überwachen.
 
-
 ## § 17 Verbote
 
 (1) Der Kapitän eines Drittlandfischereifahrzeugs darf nicht
@@ -1109,7 +1085,6 @@ Dauerleistung übersteigt, zum Fischfang nicht nutzen.
 Rechtsverordnung auf Grund des § 15 Absatz 5 festgelegten technischen
 Beschreibung nicht oder nicht vollständig entspricht, an Bord eines
 Fischereifahrzeugs mitzuführen oder zum Fischfang einzusetzen.
-
 
 ## § 18 Bußgeldvorschriften
 
@@ -1326,7 +1301,6 @@ nach Absatz 2 Nummer 11 geahndet werden können.
 oder Absatz 3 bezieht oder die zu ihrer Begehung oder Vorbereitung
 gebraucht worden oder bestimmt gewesen sind, können eingezogen werden.
 
-
 ## § 19 Strafvorschriften
 
 (1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
@@ -1347,7 +1321,6 @@ Nummer 1 oder Nummer 3 oder Absatz 3 Nummer 1, 2, 3, 6 oder Nummer 7
 bezeichnete Handlung beharrlich wiederholt.
 
 (3) Die Absätze 1 und 2 gelten auch in Verbindung mit § 18 Absatz 5.
-
 
 ## § 20 Außenvertretung
 
@@ -1374,7 +1347,6 @@ Zuständigkeitsbereich der Länder fällt, übermitteln die Länder diese
 der Bundesanstalt zu den in Satz 1 genannten Zwecken auf Anforderung
 unverzüglich.
 
-
 ## § 21 Regelungsbefugnisse der Länder
 
 Die Länder können zur Regelung der Seefischerei oder zur Durchführung
@@ -1388,7 +1360,6 @@ die über eine bundesrechtliche Regelung hinausgehen. Die Vorschriften
 der Länder haben sich im Rahmen des Fischereirechts der Europäischen
 Union zu halten.
 
-
 ## § 22 Verkündung von Rechtsverordnungen
 
 Rechtsverordnungen nach diesem Gesetz können abweichend von § 1 des
@@ -1399,10 +1370,7 @@ werden, ist unter Angabe der Stelle ihrer Veröffentlichung und des
 Tages ihres Inkrafttretens nachrichtlich im Bundesgesetzblatt
 hinzuweisen.
 
-
 ## § 23 (Inkrafttreten, Außerkrafttreten)
-
-
 
 ## Anlage (zu § 2 Absatz 1)
 

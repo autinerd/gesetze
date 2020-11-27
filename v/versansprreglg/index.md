@@ -21,7 +21,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 Nr. 20 G v. 20.12.1991 I 2317
 
-
 ## § 1
 
 Versicherungsunternehmen können wegen ihrer Verbindlichkeiten aus
@@ -29,7 +28,6 @@ Lebens- und Rentenversicherungen, die nach den vor dem Inkrafttreten
 des Währungsgesetzes in Geltung gewesenen Vorschriften in Reichsmark
 zu erfüllen gewesen wären, nur nach Maßgabe der folgenden Bestimmungen
 in Anspruch genommen werden.
-
 
 ## § 2
 
@@ -64,7 +62,6 @@ Versicherungsnehmer erst nach dem 31. Dezember 1952 getroffene
 Verfügung unter Lebenden erworben hat. § 3 der Versicherungsverordnung
 bleibt unberührt.
 
-
 ## § 3
 
 Ist der Versicherungsfall vor dem 21. Juni 1948 eingetreten, so können
@@ -90,11 +87,9 @@ c)  nach dem 8. Mai 1945 Prämien im Geltungsbereich dieses Gesetzes
 § 2 Satz 2 ist in den Fällen der Buchstaben a und b entsprechend
 anzuwenden.
 
-
 ## § 4
 
 (gestrichen)
-
 
 ## § 5
 
@@ -111,7 +106,6 @@ Hand ihren Sitz oder Ort der Niederlassung zu einem der in § 2 Satz 1
 Buchstabe a und § 3 Satz 1 Buchstaben a und b bezeichneten Zeitpunkte
 im Geltungsbereich dieses Gesetzes oder in einem Staat hatte, der die
 Regierung der Bundesrepublik Deutschland anerkannt hat.
-
 
 ## § 6
 
@@ -145,7 +139,6 @@ nur, wenn anzunehmen ist, daß der Berechtigte auf Grund außerhalb des
 Geltungsbereichs dieses Gesetzes getroffener Maßnahmen Leistungen aus
 der Anschlußversicherung nicht mehr erhalten wird.
 
-
 ## § 7
 
 (1) Als zum inländischen Bestand eines Versicherungsunternehmens
@@ -173,7 +166,6 @@ Rücksicht auf die Fälligkeit der nicht gezahlten Folgeprämien mit
 Wirkung vom 20. Juni 1948 als gekündigt. Im übrigen bleibt § 3 der
 Versicherungsverordnung unberührt.
 
-
 ## § 8
 
 Ansprüche aus einem Versicherungsverhältnis, das zu einem
@@ -192,15 +184,10 @@ b)  das Bundesaufsichtsamt für das Versicherungs- und Bausparwesen den
     im Einvernehmen mit dem Schuldner der Ausgleichsforderungen die
     Erfüllung der Verbindlichkeiten gestattet hat.
 
-
-
-
-
 ## § 9
 
 Die Bestimmungen der §§ 2, 3, 5 bis 8 gelten für Gruppenversicherungen
 sinngemäß.
-
 
 ## § 10
 
@@ -267,7 +254,6 @@ Gesetzes zur weiteren Aufbesserung von Leistungen aus Renten- und
 Pensionsversicherungen sowie aus Kapitalzwangsversicherungen vom 19.
 März 1963 sind nicht anzuwenden.
 
-
 ## § 11
 
 (1) Die Geltendmachung von Leistungen aus Renten- und
@@ -309,7 +295,6 @@ Ausgleichsforderungen zuzuteilen sind, gilt § 10 Abs. 2 mit der
 Maßgabe, daß im Falle des Absatzes 1 Buchstabe a die
 Ausgleichsforderungen bereits als am 1. Juli 1963 entstanden gelten.
 
-
 ## § 11a
 
 Für die Verbindlichkeiten von betrieblichen und überbetrieblichen
@@ -317,7 +302,6 @@ Pensionskassen mit Zwangsbeitritt, die aus
 Pensionsversicherungsverhältnissen herrühren, sind §§ 2, 3, 10 und 11
 nur mit den sich aus §§ 11b bis 11e ergebenden Abweichungen
 anzuwenden.
-
 
 ## § 11b
 
@@ -334,7 +318,6 @@ Versicherungsnehmer zu einem der dort bezeichneten Zeitpunkte ständig
 in einem Betrieb beschäftigt war, der im Geltungsbereich dieses
 Gesetzes lag. § 2 Satz 1 Buchstabe b und § 3 Satz 1 Buchstabe c sind
 auf die in § 11a bezeichneten Verbindlichkeiten nicht anzuwenden.
-
 
 ## § 11c
 
@@ -372,7 +355,6 @@ worden ist.
 (4)
 (gestrichen)
 
-
 ## § 11d
 
 (1) Ist für das Fortbestehen der Rechte oder die Geltendmachung der
@@ -402,7 +384,6 @@ Beiträge aber gleichwohl auf Veranlassung des Versicherungsnehmers
 oder des sonst aus der Versicherung Berechtigten zurückgezahlt worden
 sind.
 
-
 ## § 11e
 
 Ist, abgesehen von den Fällen des § 11c Abs. 2 Satz 2, die satzungs-
@@ -415,11 +396,9 @@ Buchstaben a oder b erfüllt. Als Versicherungsnehmer im Sinne des
 Satzes 1 gilt ausschließlich die in § 11b Satz 1 bezeichnete
 natürliche Person.
 
-
 ## § 11f
 
 (gestrichen)
-
 
 ## § 12
 
@@ -429,7 +408,6 @@ galten oder bis auf weiteres nicht geltend gemacht werden konnten,
 nach diesem Gesetz aber geltend gemacht werden können, verjähren,
 soweit sie am 21. Juni 1948 noch nicht verjährt waren, nicht vor
 Ablauf von einem Jahr seit dem Inkrafttreten dieses Gesetzes. \*)
-
 
 ## § 13
 
@@ -444,12 +422,10 @@ Rechtsstreit infolge dieses Gesetzes für erledigt erklärt, so trägt
 jede Partei ihre außergerichtlichen Kosten und die Hälfte der
 gerichtlichen Auslagen. Die Gerichtsgebühren werden niedergeschlagen.
 
-
 ## § 14
 
 Die in § 12 bezeichneten Ansprüche werden nicht vor Ablauf von sechs
 Monaten nach Inkrafttreten dieses Gesetzes fällig.
-
 
 ## § 15
 
@@ -460,7 +436,6 @@ Rentenversicherung aus Anlaß der Neuordnung des Geldwesens vom 27.
 Juli 1948 sowie die in den einzelnen Ländern an ihrer Stelle geltenden
 Vorschriften werden mit Wirkung vom Tage ihres Inkrafttretens
 aufgehoben.
-
 
 ## § 16
 
@@ -492,18 +467,15 @@ Die in § 13 Abs. 1 des Dritten Überleitungsgesetzes bestimmte Frist
 braucht bei der Übernahme des Gesetzes durch das Land Berlin nicht
 eingehalten zu werden.
 
-
 ## § 17
 
 Ein Unternehmen mit Sitz in Berlin hat nur dann seinen Sitz im
 Geltungsbereich dieses Gesetzes, wenn sich auch die Geschäftsleitung
 im Geltungsbereich dieses Gesetzes befindet.
 
-
 ## § 18
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft \*).
-
 
 ## Anhang EV Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet D Abschnitt II (BGBl. II 1990, 889, 959) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 

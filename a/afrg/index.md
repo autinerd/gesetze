@@ -18,36 +18,23 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 9 G v. 16.12.1997 I 2970
 
-
 ## Erster Teil - Ergänzung und Änderung des Sozialgesetzbuches
-
-
 
 ### Art 1
 
 -
 
-
 ### (XXXX) Art 2 bis 10
 
-
-
 ## Zweiter Teil - Änderung des Arbeitsförderungsgesetzes
-
-
 
 ### Art 11
 
 -
 
-
 ## Dritter Teil - Änderung anderer Vorschriften
 
-
-
 ### (XXXX) Art 12 bis 79
-
-
 
 ### Art 80 Rückkehr zum einheitlichen Verordnungsrang
 
@@ -57,10 +44,7 @@ dort geänderten Verordnungen können auf Grund der jeweils
 einschlägigen Ermächtigung in Verbindung mit diesem Artikel durch
 Rechtsverordnung geändert oder aufgehoben werden.
 
-
 ## Vierter Teil, Schlußvorschriften
-
-
 
 ### Art 81 Weitergeltung von Rechtsverordnungen
 
@@ -76,11 +60,9 @@ Durchführung des Gesetzes über Arbeitsvermittlung und
 Arbeitslosenversicherung (Fach- und Führungskräfte aus
 Entwicklungsländern) vom 11. Mai 1967 (BGBl. I S. 531) in Kraft.
 
-
 ### Art 82
 
 -
-
 
 ### Art 83 Inkrafttreten
 

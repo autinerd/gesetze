@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 24.10.2007 I 2499
 
-
 ## Eingangsformel
 
 Auf Grund des § 36 Abs. 5 des Wertpapierhandelsgesetzes, der durch
@@ -30,7 +29,6 @@ Verordnung zur Übertragung von Befugnissen zum Erlass von
 Rechtsverordnungen auf die Bundesanstalt für
 Finanzdienstleistungsaufsicht vom 13. Dezember 2002 (BGBl. 2003 I S.
 3) verordnet die Bundesanstalt für Finanzdienstleistungsaufsicht:
-
 
 ## § 1 Geltungsbereich
 
@@ -66,7 +64,6 @@ Wertpapierdienstleistungen erbringen.
 
 (2) Diese Verordnung gilt auch für die Prüfung des Depotgeschäfts nach
 § 36 Abs. 1 Satz 2 des Wertpapierhandelsgesetzes.
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -105,10 +102,6 @@ sonstigen Veröffentlichungen gebunden.
     gesetzlichen Tatbestand Fehler feststellt, die einem solchen
     Stichprobenergebnis nach seinem pflichtgemäßen Ermessen gleichwertig
     sind.
-
-
-
-
 
 ## § 3 Prüfungszeitraum und Berichtszeitraum
 
@@ -156,7 +149,6 @@ Dienstsitz in Frankfurt am Main und der zuständigen Hauptverwaltung
 der Deutschen Bundesbank in einfacher Ausfertigung zu übersenden. Die
 Bundesanstalt kann im Einzelfall und aus wichtigem Grund andere als
 die in Satz 1 oder Satz 2 normierten Fristen bestimmen.
-
 
 ## § 4 Art und Umfang der Prüfung
 
@@ -230,7 +222,6 @@ Zustimmung an sich nehmen. Auf Anforderung sind ihm die für die
 Berichterstattung erforderlichen Kopien von Unterlagen zur Verfügung
 zu stellen. Die Aufzeichnungen sind sechs Jahre aufzubewahren.
 
-
 ## § 5 Allgemeine Anforderungen an den Prüfungsbericht
 
 (1) Der Prüfungsbericht muss Berichtszeitraum und Prüfungszeitraum
@@ -286,7 +277,6 @@ Wertpapierhandelsgesetzes nicht angefordert wird.
 
 (7) Der Prüfer muss auf Verlangen der Bundesanstalt den
 Prüfungsbericht erläutern.
-
 
 ## § 6 Besondere Anforderungen an den Prüfungsbericht
 
@@ -443,16 +433,13 @@ gegenüber der Depotbank oder durch die Depotbank gegenüber einer
 Kapitalanlagegesellschaft Ansprüche nach § 28 des Investmentgesetzes
 geltend gemacht wurden, ist auch hierüber zu berichten.
 
-
 ## § 6a (weggefallen)
 
 -
 
-
 ## § 7 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2005 in Kraft.
-
 
 ## Anlage (zu § 5 Abs. 6) Fragebogen gemäß § 5 Abs. 6 WpDPV
 

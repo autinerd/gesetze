@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 1297
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 144 Abs. 2 des Neunten Buches Sozialgesetzbuch -
@@ -24,10 +22,7 @@ Rehabilitation und Teilhabe behinderter Menschen - (Artikel 1 des
 Gesetzes vom 19. Juni 2001, BGBl. I S. 1046, 1047) verordnet das
 Bundesministerium für Arbeit und Sozialordnung:
 
-
 ## Abschnitt 1 - Anwendungsbereich, Errichtung, Zusammensetzung und Aufgaben des Werkstattrats
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -50,14 +45,12 @@ folgenden Vorschriften.
 Religionsgemeinschaften und ihre Einrichtungen, soweit sie eigene
 gleichwertige Regelungen getroffen haben.
 
-
 ### § 2 Errichtung von Werkstatträten
 
 (1) Ein Werkstattrat wird in Werkstätten gewählt.
 
 (2) Rechte und Pflichten der Werkstatt sind solche des Trägers der
 Werkstatt.
-
 
 ### § 3 Zahl der Mitglieder des Werkstattrats
 
@@ -68,7 +61,6 @@ Wahlberechtigten aus sieben Mitgliedern.
 
 (2) Die Geschlechter sollen entsprechend ihrem zahlenmäßigen
 Verhältnis vertreten sein.
-
 
 ### § 4 Allgemeine Aufgaben des Werkstattrats
 
@@ -132,7 +124,6 @@ Eingangsverfahren und im Berufsbildungsbereich tätigen behinderten
 Menschen in angemessener und geeigneter Weise, solange für diese eine
 Vertretung nach § 36 des Neunten Buches Sozialgesetzbuch nicht
 besteht.
-
 
 ### § 5 Mitwirkungsrechte des Werkstattrats
 
@@ -230,7 +221,6 @@ so kann jede Seite die Vermittlungsstelle anrufen.
 (4) Weitergehende, einvernehmlich vereinbarte Formen der Beteiligung
 in den Angelegenheiten des Absatzes 1 bleiben unberührt.
 
-
 ### § 6 Vermittlungsstelle
 
 (1) Die Vermittlungsstelle besteht aus einem oder einer
@@ -257,7 +247,6 @@ Durchführung der Maßnahme auszusetzen. Fasst die Vermittlungsstelle
 innerhalb der in Absatz 2 genannten Frist keinen Beschluss für einen
 Einigungsvorschlag, gilt die Entscheidung der Werkstatt.
 
-
 ### § 7 Unterrichtungsrechte des Werkstattrats
 
 (1) Der Werkstattrat ist in folgenden Angelegenheiten zu unterrichten:
@@ -283,7 +272,6 @@ Fällen des Absatzes 1 Nr. 1 einzuholende Stellungnahme des
 Fachausschusses und die in diesem Rahmen erfolgende Anhörung des oder
 der Werkstattbeschäftigten bleiben unberührt.
 
-
 ### § 8 Zusammenarbeit
 
 (1) Die Werkstatt, ihr Betriebs- oder Personalrat oder ihre sonstige
@@ -302,7 +290,6 @@ einer Besprechung zusammentreten. Sie haben über strittige Fragen mit
 dem ernsten Willen zur Einigung zu verhandeln und Vorschläge für die
 Beilegung von Meinungsverschiedenheiten zu machen.
 
-
 ### § 9 Werkstattversammlung
 
 Der Werkstattrat führt mindestens einmal im Kalenderjahr eine
@@ -314,20 +301,14 @@ Werkstattangelegenheiten erfahrene Personen sowie behinderte Menschen,
 die an Maßnahmen im Eingangsverfahren oder im Berufsbildungsbereich
 teilnehmen, einladen.
 
-
 ## Abschnitt 2 - Wahl des Werkstattrats
 
-
-
 ### Unterabschnitt 1 - Wahlberechtigung und Wählbarkeit; Zeitpunkt der Wahlen
-
-
 
 #### § 10 Wahlberechtigung
 
 Wahlberechtigt sind alle Werkstattbeschäftigten, soweit sie keine
 Arbeitnehmer sind.
-
 
 #### § 11 Wählbarkeit
 
@@ -335,7 +316,6 @@ Wählbar sind alle Wahlberechtigten, die am Wahltag seit mindestens
 sechs Monaten in der Werkstatt beschäftigt sind. Zeiten des
 Eingangsverfahrens und der Teilnahme an Maßnahmen im
 Berufsbildungsbereich werden angerechnet.
-
 
 #### § 12 Zeitpunkt der Wahlen zum Werkstattrat
 
@@ -368,10 +348,7 @@ nächsten regelmäßigen Wahlen festgelegten Zeitraumes noch nicht ein
 Jahr betragen, ist der Werkstattrat in dem übernächsten Zeitraum der
 regelmäßigen Wahlen neu zu wählen.
 
-
 ### Unterabschnitt 2 - Vorbereitung der Wahl
-
-
 
 #### § 13 Bestellung des Wahlvorstandes
 
@@ -385,7 +362,6 @@ Wahlvorstand und dessen Vorsitzender oder Vorsitzende in einer
 Versammlung der Wahlberechtigten gewählt. Die Werkstatt fördert die
 Wahl; sie hat zu dieser Versammlung einzuladen. Unabhängig davon
 können drei Wahlberechtigte einladen.
-
 
 #### § 14 Aufgaben des Wahlvorstandes
 
@@ -418,7 +394,6 @@ seiner Aufgaben. Sie gibt ihm insbesondere alle für die Anfertigung
 der Liste der Wahlberechtigten erforderlichen Auskünfte und stellt die
 notwendigen Unterlagen zur Verfügung.
 
-
 #### § 15 Erstellung der Liste der Wahlberechtigten
 
 Der Wahlvorstand stellt eine Liste der Wahlberechtigten auf. Die
@@ -426,13 +401,11 @@ Wahlberechtigten sollen mit dem Familiennamen und dem Vornamen,
 erforderlichenfalls dem Geburtsdatum, in alphabetischer Reihenfolge
 aufgeführt werden.
 
-
 #### § 16 Bekanntmachung der Liste der Wahlberechtigten
 
 Die Liste der Wahlberechtigten oder eine Abschrift ist unverzüglich
 nach Einleitung der Wahl bis zum Abschluss der Stimmabgabe an
 geeigneter Stelle zur Einsicht auszulegen.
-
 
 #### § 17 Einspruch gegen die Liste der Wahlberechtigten
 
@@ -456,7 +429,6 @@ in Erledigung rechtzeitig eingelegter Einsprüche oder bei Eintritt
 oder Ausscheiden eines Wahlberechtigten oder einer Wahlberechtigten
 bis zum Tage vor dem Beginn der Stimmabgabe berichtigt oder ergänzt
 werden.
-
 
 #### § 18 Wahlausschreiben
 
@@ -523,7 +495,6 @@ muss enthalten:
 seines Erlasses bis zum Wahltag an einer oder mehreren geeigneten, den
 Wahlberechtigten zugänglichen Stellen vom Wahlvorstand auszuhängen.
 
-
 #### § 19 Wahlvorschläge
 
 Die Wahlberechtigten können innerhalb von zwei Wochen seit Erlass des
@@ -533,7 +504,6 @@ werden. Der Wahlvorschlag bedarf der Zustimmung des Vorgeschlagenen
 oder der Vorgeschlagenen. Der Wahlvorstand entscheidet über die
 Zulassung zur Wahl.
 
-
 #### § 20 Bekanntmachung der Bewerber und Bewerberinnen
 
 Spätestens eine Woche vor Beginn der Stimmabgabe und bis zum Abschluss
@@ -542,10 +512,7 @@ anderes Bildmaterial der Bewerber und Bewerberinnen aus zugelassenen
 Wahlvorschlägen in alphabetischer Reihenfolge in gleicher Weise
 bekannt wie das Wahlausschreiben (§ 18 Abs. 2).
 
-
 ### Unterabschnitt 3 - Durchführung der Wahl
-
-
 
 #### § 21 Stimmabgabe
 
@@ -579,7 +546,6 @@ der Wählenden nicht zweifelsfrei ergibt, sind ungültig.
 Behinderung eine Stimmabgabe durch Abgabe eines Stimmzettels nach den
 Absätzen 3 und 4 überwiegend nicht möglich, kann der Wahlvorstand eine
 andere Form der Ausübung des Wahlrechts beschließen.
-
 
 #### § 22 Wahlvorgang
 
@@ -620,7 +586,6 @@ entsprechend für Wähler und Wählerinnen, die des Lesens unkundig sind.
 Stimmenauszählung nicht unmittelbar nach der Beendigung der Wahl
 durchgeführt wird.
 
-
 #### § 23 Feststellung des Wahlergebnisses
 
 (1) Unverzüglich nach Abschluss der Wahl nimmt der Wahlvorstand
@@ -638,7 +603,6 @@ Stimmzettel, die auf jeden Bewerber oder jede Bewerberin entfallenen
 Stimmenzahlen sowie die Namen der gewählten Bewerber und Bewerberinnen
 enthalten.
 
-
 #### § 24 Benachrichtigung der Gewählten und Annahme der Wahl
 
 (1) Der Wahlvorstand benachrichtigt die zum Werkstattrat Gewählten
@@ -649,7 +613,6 @@ Wahlvorstand ihre Ablehnung der Wahl, ist sie angenommen.
 (2) Lehnt eine gewählte Person die Wahl ab, tritt an ihre Stelle der
 Bewerber oder die Bewerberin mit der nächsthöchsten Stimmenzahl.
 
-
 #### § 25 Bekanntmachung der Gewählten
 
 Sobald die Namen der Mitglieder des Werkstattrats endgültig
@@ -657,13 +620,11 @@ feststehen, macht der Wahlvorstand sie durch zweiwöchigen Aushang in
 gleicher Weise wie das Wahlausschreiben bekannt (§ 18 Abs. 2) und
 teilt sie unverzüglich der Werkstatt mit.
 
-
 #### § 26 Aufbewahrung der Wahlunterlagen
 
 Die Wahlunterlagen, insbesondere die Niederschriften, Bekanntmachungen
 und Stimmzettel, werden vom Werkstattrat mindestens bis zum Ende der
 Wahlperiode aufbewahrt.
-
 
 #### § 27 Wahlanfechtung
 
@@ -677,7 +638,6 @@ geändert oder beeinflusst werden konnte.
 oder die Werkstatt. Die Wahlanfechtung ist nur binnen einer Frist von
 zwei Wochen, vom Tag der Bekanntgabe des Wahlergebnisses an gerechnet,
 zulässig.
-
 
 #### § 28 Wahlschutz und Wahlkosten
 
@@ -696,10 +656,7 @@ erforderlich ist, berechtigt die Werkstatt nicht zur Minderung des
 Arbeitsentgeltes. Die Ausübung der genannten Tätigkeiten steht der
 Beschäftigung als Werkstattbeschäftigter gleich.
 
-
 ## Abschnitt 3 - Amtszeit des Werkstattrats
-
-
 
 ### § 29 Amtszeit des Werkstattrats
 
@@ -713,7 +670,6 @@ spätestens jedoch am 30. November des maßgebenden Wahljahres. Im Falle
 des § 12 Abs. 1 Satz 2 Nr. 1 und 2 endet die Amtszeit des bestehenden
 Werkstattrats mit der Bekanntgabe des Wahlergebnisses des neu
 gewählten Werkstattrats.
-
 
 ### § 30 Erlöschen der Mitgliedschaft im Werkstattrat; Ersatzmitglieder
 
@@ -742,10 +698,7 @@ Bewerbern und Bewerberinnen der Vorschlagsliste entnommen. Die
 Reihenfolge bestimmt sich nach der Höhe der erreichten Stimmenzahlen.
 Bei Stimmengleichheit entscheidet das Los.
 
-
 ## Abschnitt 4 - Geschäftsführung des Werkstattrats
-
-
 
 ### § 31 Vorsitz des Werkstattrats
 
@@ -758,7 +711,6 @@ Werkstattrat im Rahmen der von diesem gefassten Beschlüsse. Zur
 Entgegennahme von Erklärungen, die dem Werkstattrat gegenüber
 abzugeben sind, ist der Vorsitzende oder die Vorsitzende oder im Falle
 der Verhinderung die ihn oder sie vertretende Person berechtigt.
-
 
 ### § 32 Einberufung der Sitzungen
 
@@ -780,7 +732,6 @@ Tagesordnung zu setzen, wenn dies von der Werkstatt beantragt wird.
 anberaumt sind, und an den Sitzungen, zu denen sie ausdrücklich
 eingeladen worden ist, teil.
 
-
 ### § 33 Sitzungen des Werkstattrats
 
 (1) Die Sitzungen des Werkstattrats finden in der Regel während der
@@ -800,7 +751,6 @@ im Sinne des § 8 Abs. 1 oder sonstige Dritte zu seinen Sitzungen
 hinzuziehen. Für sie gelten die Geheimhaltungspflicht sowie die
 Offenbarungs- und Verwertungsverbote gemäß § 37 Abs. 6 entsprechend.
 
-
 ### § 34 Beschlüsse des Werkstattrats
 
 (1) Die Beschlüsse des Werkstattrats werden mit der Mehrheit der
@@ -810,7 +760,6 @@ ein Antrag abgelehnt.
 (2) Der Werkstattrat ist beschlussfähig, wenn mindestens die Hälfte
 seiner Mitglieder an der Beschlussfassung teilnimmt; Stellvertretung
 durch Ersatzmitglieder ist zulässig.
-
 
 ### § 35 Sitzungsniederschrift
 
@@ -823,13 +772,11 @@ unterzeichnen. Ihr ist eine Anwesenheitsliste beizufügen. Hat die
 Werkstatt an der Sitzung teilgenommen, so ist ihr der entsprechende
 Teil der Niederschrift abschriftlich auszuhändigen.
 
-
 ### § 36 Geschäftsordnung des Werkstattrats
 
 Der Werkstattrat kann sich für seine Arbeit eine schriftliche
 Geschäftsordnung geben, in der weitere Bestimmungen über die
 Geschäftsführung getroffen werden.
-
 
 ### § 37 Persönliche Rechte und Pflichten der Mitglieder des Werkstattrats
 
@@ -882,7 +829,6 @@ nicht gegenüber den Mitgliedern des Werkstattrats und der
 Vertrauensperson (§ 39 Abs. 3) sowie im Verfahren vor der
 Vermittlungsstelle.
 
-
 ### § 38 Sprechstunden
 
 (1) Der Werkstattrat kann während der Beschäftigungszeit Sprechstunden
@@ -893,7 +839,6 @@ Sprechstunden oder durch sonstige Inanspruchnahme des Werkstattrats
 erforderlich ist, berechtigt die Werkstatt nicht zur Minderung des
 Arbeitsentgeltes der Werkstattbeschäftigten. Diese Zeit steht der
 Werkstattbeschäftigung gleich.
-
 
 ### § 39 Kosten und Sachaufwand des Werkstattrats
 
@@ -913,10 +858,7 @@ ihre Aufgabe unabhängig von Weisungen der Werkstatt wahr. Die
 Werkstatt hat sie bei der Erfüllung ihrer Aufgabe zu fördern. Für die
 Vertrauensperson gilt § 37 entsprechend.
 
-
 ## Abschnitt 5 - Schlussvorschriften
-
-
 
 ### § 40 Amtszeit der bestehenden Werkstatträte
 
@@ -926,11 +868,9 @@ Wahlergebnisses der erstmaligen regelmäßigen Wahl eines Werkstattrats
 nach den Bestimmungen dieser Verordnung, spätestens jedoch am 30.
 November 2001. § 13 gilt entsprechend.
 
-
 ### § 41 Inkrafttreten
 
 Diese Verordnung tritt am 1. Juli 2001 in Kraft.
-
 
 ### Schlussformel
 

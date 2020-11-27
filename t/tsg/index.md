@@ -19,16 +19,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 G v. 17.7.2009 I 1978
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Erster Abschnitt - Änderung der Vornamen
-
-
 
 ### § 1 Voraussetzungen
 
@@ -80,7 +76,6 @@ beschlossen:
 (2) In dem Antrag sind die Vornamen anzugeben, die der Antragsteller
 künftig führen will.
 
-
 ### § 2 Zuständigkeit
 
 (1) Für die Entscheidung über Anträge nach § 1 sind ausschließlich die
@@ -105,7 +100,6 @@ Amtsgericht Schöneberg in Berlin zuständig; es kann die Sache aus
 wichtigen Gründen an ein anderes Gericht abgeben; die Abgabeverfügung
 ist für dieses Gericht bindend.
 
-
 ### § 3 Verfahrensfähigkeit, Beteiligte
 
 (1) Für eine geschäftsunfähige Person wird das Verfahren durch den
@@ -124,7 +118,6 @@ einen Antrag nach § 1 der Genehmigung des Familiengerichts.
 
 (3) Der Vertreter des öffentlichen Interesses in Verfahren nach diesem
 Gesetz wird von der Landesregierung durch Rechtsverordnung bestimmt.
-
 
 ### § 4 Gerichtliches Verfahren
 
@@ -149,7 +142,6 @@ Wahrscheinlichkeit nicht mehr ändern wird.
 stattgegeben wird, steht den Beteiligten die sofortige Beschwerde zu.
 Die Entscheidung wird erst mit der Rechtskraft wirksam.
 
-
 ### § 5 Offenbarungsverbot
 
 (1) Ist die Entscheidung, durch welche die Vornamen des Antragstellers
@@ -172,7 +164,6 @@ Entscheidung nach § 1 angenommen hat, sind bei dem Antragsteller die
 Vornamen anzugeben, die vor der Rechtskraft der Entscheidung nach § 1
 maßgebend waren.
 
-
 ### § 6 Aufhebung auf Antrag
 
 (1) Die Entscheidung, durch welche die Vornamen des Antragstellers
@@ -186,7 +177,6 @@ die er zur Zeit der Entscheidung, durch welche seine Vornamen geändert
 worden sind, geführt hat. Das Gericht kann auf Antrag des
 Antragstellers diese Vornamen ändern, wenn dies aus schwerwiegenden
 Gründen zum Wohl des Antragstellers erforderlich ist.
-
 
 ### § 7 Unwirksamkeit
 
@@ -232,10 +222,7 @@ Antragsteller sich weiter dem nicht seinem Geburtseintrag
 entsprechenden Geschlecht als zugehörig empfindet. Die §§ 2, 3, 4 Abs.
 1, 2 und 4 sowie § 5 Abs. 1 gelten entsprechend.
 
-
 ## Zweiter Abschnitt - Feststellung der Geschlechtszugehörigkeit
-
-
 
 ### § 8 Voraussetzungen
 
@@ -266,7 +253,6 @@ Geschlecht zugehörig anzusehen ist, wenn sie
 künftig führen will; dies ist nicht erforderlich, wenn seine Vornamen
 bereits auf Grund von § 1 geändert worden sind.
 
-
 ### § 9 Gerichtliches Verfahren
 
 (1) Kann dem Antrag nur deshalb nicht stattgegeben werden, weil der
@@ -288,7 +274,6 @@ Endentscheidung nach Absatz 2 sind auch die Vornamen des
 Antragstellers zu ändern, es sei denn, daß diese bereits auf Grund von
 § 1 geändert worden sind.
 
-
 ### § 10 Wirkungen der Entscheidung
 
 (1) Von der Rechtskraft der Entscheidung an, daß der Antragsteller als
@@ -298,7 +283,6 @@ soweit durch Gesetz nichts anderes bestimmt ist.
 
 (2) § 5 gilt sinngemäß.
 
-
 ### § 11 Eltern-Kind-Verhältnis
 
 Die Entscheidung, daß der Antragsteller als dem anderen Geschlecht
@@ -307,7 +291,6 @@ Antragsteller und seinen Eltern sowie zwischen dem Antragsteller und
 seinen Kindern unberührt, bei angenommenen Kindern jedoch nur, soweit
 diese vor Rechtskraft der Entscheidung als Kind angenommen worden
 sind. Gleiches gilt im Verhältnis zu den Abkömmlingen dieser Kinder.
-
 
 ### § 12 Renten und vergleichbare wiederkehrende Leistungen
 
@@ -324,19 +307,13 @@ früheren Ehegatten werden durch die Entscheidung, daß der
 Antragsteller als dem anderen Geschlecht zugehörig anzusehen ist,
 nicht begründet.
 
-
 ## Dritter Abschnitt - Änderung von Gesetzen
-
-
 
 ### (XXXX) §§ 13 bis 15 (weggefallen)
 
 -
 
-
 ## Vierter Abschnitt - Übergangs- und Schlußvorschriften
-
-
 
 ### § 16 Übergangsvorschrift
 
@@ -364,12 +341,10 @@ befaßte Gericht die Sache an das nach § 9 Abs. 3 in Verbindung mit § 2
 dieses Gesetzes zuständige Gericht abzugeben; für das weitere
 Verfahren gelten die Vorschriften dieses Gesetzes.
 
-
 ### § 17 Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin.
-
 
 ### § 18 Inkrafttreten
 

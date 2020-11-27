@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 2464
 
-
 ## (XXXX)
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
@@ -45,11 +44,9 @@ Staatlichen Münze Berlin. Der glatte Münzrand enthält in vertiefter
 Prägung die Inschrift: „WIR SOLLEN DIE MENSCHEN FROH MACHEN \*“. Der
 Entwurf der Münze stammt von Frau Barbara G. Ruppel, Krailling.
 
-
 ## Schlussformel
 
 Der Bundesminister der Finanzen
-
 
 ## (XXXX)
 

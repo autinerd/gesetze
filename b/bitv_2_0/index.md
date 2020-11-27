@@ -15,14 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 1843
 
-
 ## Eingangsformel
 
 Auf Grund des § 11 Absatz 1 Satz 2 des
 Behindertengleichstellungsgesetzes, das zuletzt durch Artikel 12 des
 Gesetzes vom 19. Dezember 2007 (BGBl. I S. 3024) geändert worden ist,
 verordnet das Bundesministerium für Arbeit und Soziales:
-
 
 ## § 1 Sachlicher Geltungsbereich
 
@@ -38,10 +36,6 @@ Bundesverwaltung:
 3.  mittels Informationstechnik realisierte grafische Programmoberflächen,
     die öffentlich zugänglich sind.
 
-
-
-
-
 ## § 2 Einzubeziehende Gruppen behinderter Menschen
 
 Die Gestaltung der in § 1 genannten Angebote der Informationstechnik
@@ -49,7 +43,6 @@ ist dazu bestimmt, behinderten Menschen im Sinne des § 3 des
 Behindertengleichstellungsgesetzes, denen ohne die Erfüllung
 zusätzlicher Bedingungen die Nutzung der Informationstechnik nur
 eingeschränkt möglich ist, den Zugang dazu zu eröffnen.
-
 
 ## § 3 Anzuwendende Standards
 
@@ -79,7 +72,6 @@ bereitzustellen:
 
 Die Anforderungen und Bedingungen der Anlage 1 bleiben unberührt.
 
-
 ## § 4 Umsetzungsfristen für die Standards
 
 (1) Die in § 1 genannten Angebote, die bis zum 22. März 2012 neu
@@ -98,7 +90,6 @@ spätestens bis zum 22. März 2014 nach § 3 Absatz 2 zu gestalten.
 Absätze 1 und 2 die Barrierefreie-Informationstechnik-Verordnung vom
 17\. Juli 2002 (BGBl. I S. 2654) fort.
 
-
 ## § 5 Folgenabschätzung
 
 (1) Die Verordnung ist unter Berücksichtigung der technischen
@@ -108,13 +99,11 @@ nach ihrem Inkrafttreten auf ihre Wirkung hin überprüft.
 (2) Wirkung und Notwendigkeit der in § 3 Absatz 2 genannten Angebote
 werden spätestens drei Jahre nach ihrem Inkrafttreten überprüft.
 
-
 ## § 6 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Barrierefreie Informationstechnik-Verordnung
 vom 17. Juli 2002 (BGBl. I S. 2654) außer Kraft.
-
 
 ## Anlage 1 (zu § 3 und § 4 Absatz 1)
 
@@ -126,9 +115,6 @@ vom 17. Juli 2002 (BGBl. I S. 2654) außer Kraft.
 Prinzip 1: Wahrnehmbarkeit – Die Informationen und Komponenten der
     Benutzerschnittstelle sind so darzustellen, dass sie von den
     Nutzerinnen und Nutzern wahrgenommen werden können.
-
-
-
 
 ## Anforderung 1.1
 
@@ -180,9 +166,6 @@ werden:
     die Nutzerin oder den Nutzer nicht sichtbar und diese Elemente sind so
     eingerichtet, dass sie von assistiven Technologien ignoriert werden
     können.
-
-
-
 
 ## Anforderung 1.2
 
@@ -331,9 +314,6 @@ verwenden, es sei denn,
 
 Prinzip 2: Bedienbarkeit – Die Komponenten der Benutzerschnittstelle und die
     Navigation müssen bedient werden können.
-
-
-
 
 ## Anforderung 2.1
 
@@ -502,9 +482,6 @@ verfügbar.
 Prinzip 3: Verständlichkeit – Die Informationen und die Bedienung der
     Benutzerschnittstelle müssen verständlich sein.
 
-
-
-
 ## Anforderung 3.1
 
 Texte sind lesbar und verständlich zu gestalten.
@@ -603,9 +580,6 @@ Prinzip 4: Robustheit – Inhalte müssen so robust sein, dass sie von möglichs
     allen Benutzeragenten, einschließlich assistiver Technologien,
     zuverlässig interpretiert werden können.
 
-
-
-
 ## Anforderung 4.1
 
 Die Kompatibilität mit Benutzeragenten, einschließlich assistiver
@@ -648,9 +622,6 @@ assistiver Technologien, eine Mitteilung.
 Prinzip 1: Wahrnehmbarkeit – Die Informationen und Komponenten der
     Benutzerschnittstelle sind so darzustellen, dass sie von den
     Nutzerinnen und Nutzer wahrgenommen werden können.
-
-
-
 
 ## Anforderung 1.2
 
@@ -763,9 +734,6 @@ Voraussetzung für die Vermittlung der Informationen ist.
 Prinzip 2: Bedienbarkeit – Die Komponenten der Benutzerschnittstelle und die
     Navigation müssen bedient werden können.
 
-
-
-
 ## Anforderung 2.1
 
 Für die gesamte Funktionalität ist Zugänglichkeit über die Tastatur
@@ -835,9 +803,6 @@ strukturieren.
 Prinzip 3: Verständlichkeit – Die Informationen und die Bedienung der
     Benutzerschnittstelle müssen verständlich sein.
 
-
-
-
 ## Anforderung 3.1
 
 Texte sind lesbar und verständlich zu gestalten.
@@ -906,9 +871,6 @@ Möglichkeiten:
 
 –   Die Informationen können durchgesehen, korrigiert und bestätigt
     werden, bevor sie endgültig abgeschickt werden.
-
-
-
 
 ## Glossar
 
@@ -1643,7 +1605,6 @@ damit das Verständnis bei den Nutzerinnen und Nutzern zu erhöhen.
 
 Ergebnis, das durch Aktivierung eines Hyperlinks erreicht wird.
 
-
 ## Anlage 2 (zu § 3 Absatz 2 und § 4 Absatz 1)
 
 (Fundstelle: BGBl. I 2011, 1859)
@@ -1696,9 +1657,6 @@ im Internet oder Intranet gelten die folgenden Vorgaben:
 7.  Der Gebärdensprach-Film ist darüber hinaus als Datei zum Herunterladen
     verfügbar.
     Es sind Angaben zur Größe der Datei sowie zur Abspieldauer verfügbar.
-
-
-
 
 ## Teil 2
 

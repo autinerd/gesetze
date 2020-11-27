@@ -16,13 +16,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1992, 15
 
-
-
 ## Eingangsformel
 
 Das Land Nordrhein-Westfalen und das Land Rheinland-Pfalz schließen
 nachstehenden Staatsvertrag:
-
 
 ## Art 1
 
@@ -35,14 +32,12 @@ Gemarkung Niederschelden ab.
 dem Gebiet der Ortsgemeinde Mudersbach die Flurstücke 621/2, 622/1 und
 628/1 in Flur 2 der Gemarkung Mudersbach ab.
 
-
 ## Art 2
 
 Die betroffenen Gemeinden und Gemeindeverbände regeln die Rechtsfolgen
 der Änderung der Gemeindegebiete und die Auseinandersetzung durch
 Vereinbarungen. Die Vereinbarungen bedürfen der Genehmigung der
 zuständigen Aufsichtsbehörden.
-
 
 ## Art 3
 
@@ -51,7 +46,6 @@ Ratifikationsurkunden werden ausgetauscht.
 
 (2) Der Staatsvertrag tritt am ersten Tag des auf den Austausch der
 Ratifikationsurkunden folgenden Monats in Kraft.
-
 
 ## Schlußformel
 

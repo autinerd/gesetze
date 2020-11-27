@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1995, 527
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
@@ -30,13 +28,11 @@ das Bundesministerium des Innern im Einvernehmen mit dem
 Bundesministerium für Bildung, Wissenschaft, Forschung und
 Technologie:
 
-
 ## § 1 Aufhebung der staatlichen Anerkennung des Ausbildungsberufs
 
 Die staatliche Anerkennung des Ausbildungsberufs
 Sparkassenkaufmann/Sparkassenkauffrau, ausgesprochen durch Satzung der
 Deutschen Sparkassenschule Hannover vom 18. Mai 1951, wird aufgehoben.
-
 
 ## § 2 Übergangsregelung
 
@@ -46,14 +42,12 @@ anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
 Anwendung der Vorschriften der Verordnung über die Berufsausbildung
 zum Bankkaufmann vom 8. Februar 1979 (BGBl. I S. 154).
 
-
 ## § 3 Übergangsfrist
 
 Berufsausbildungsverhältnisse auf der Grundlage der Vorschriften über
 die Berufsausbildung zum Sparkassenkaufmann/zur Sparkassenkauffrau
 können unbeschadet des § 1 dieser Verordnung bis zum 31. Juli 1997
 abgeschlossen werden.
-
 
 ## § 4 Inkrafttreten
 

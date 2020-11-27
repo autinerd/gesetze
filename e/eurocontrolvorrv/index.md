@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 4 Abs. 2 G v. 22. 9.2005 I 2809
 
-
 ## Eingangsformel
 
 Auf Grund des Artikels 3 des Gesetzes vom 22. Juni 1954 über den
@@ -30,7 +29,6 @@ und Befreiungen an andere zwischenstaatliche Organisationen
 (Bundesgesetzbl. 1954 II S. 639), zuletzt geändert durch das Gesetz
 vom 28. Februar 1964 (Bundesgesetzbl. II S. 187), verordnet die
 Bundesregierung mit Zustimmung des Bundesrates:
-
 
 ## § 1
 
@@ -57,13 +55,11 @@ Bescheid zu erteilen.
 (4) Mindert sich der Steuerbetrag, so hat EUROCONTROL hiervon das
 Bundeszentralamt für Steuern unverzüglich zu unterrichten.
 
-
 ## § 2
 
 Die Einfuhr von Gegenständen für EUROCONTROL ist
 einfuhrumsatzsteuerfrei. Dies gilt nicht für die Einfuhr von
 Lebensmitteln und Tabakerzeugnissen.
-
 
 ## § 3
 
@@ -78,7 +74,6 @@ Anwendung des im Zeitpunkt der Veräußerung für die Lieferung des
 Gegenstandes geltenden Steuersatzes
 (§ 12 des Umsatzsteuergesetzes 1967)              ermittelt werden.
 
-
 ## § 4
 
 Die Bundesrepublik Deutschland gleicht die nach dem jährlichen
@@ -86,7 +81,6 @@ Durchschnitt berechnete Mineralölsteuerbelastung auf ausschließlich
 für den amtlichen Gebrauch bestimmte Treibstoffe aus, die EUROCONTROL
 bezogen hat, jedoch nur im Rahmen besonders zu vereinbarender
 Kontingente.
-
 
 ## § 5
 
@@ -111,19 +105,16 @@ EUROCONTROL und dem für die Finanzen zuständigen Bundesminister
 angemessene Vorauszahlungen auf den Erstattungsbetrag entrichtet
 werden.
 
-
 ## § 6
 
 Das Halten von Kraftfahrzeugen und Kraftfahrzeuganhängern, die für
 EUROCONTROL zugelassen sind, ist von der Kraftfahrzeugsteuer befreit.
-
 
 ## § 7
 
 Steuerentlastungen nach den vorstehenden Bestimmungen werden nur
 gewährt, soweit die anderen Mitgliedstaaten von EUROCONTROL
 entsprechende Steuerentlastungen gewähren.
-
 
 ## § 8
 
@@ -144,7 +135,6 @@ worden sind.
 Kraftfahrzeuganhänger nach dem Inkrafttreten des in § 10 näher
 bezeichneten Zusatzprotokolls gehalten werden.
 
-
 ## § 9
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
@@ -155,7 +145,6 @@ Sonderorganisationen der Vereinten Nationen vom 21. November 1947 und
 über die Gewährung von Vorrechten und Befreiungen an andere
 zwischenstaatliche Organisationen, zuletzt geändert durch das Gesetz
 vom 28. Februar 1964, auch im Land Berlin.
-
 
 ## § 10
 

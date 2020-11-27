@@ -22,7 +22,6 @@ Fundstelle
     Berufsschule werden demnächst als Beilage im Bundesanzeiger
     veröffentlicht.
 
-
 ## Eingangsformel
 
 Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des
@@ -32,17 +31,14 @@ geändert worden ist, verordnet das Bundesministerium für Ernährung,
 Landwirtschaft und Verbraucherschutz im Einvernehmen mit dem
 Bundesministerium für Bildung und Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Revierjäger/Revierjägerin wird nach § 4 Absatz 1
 des Berufsbildungsgesetzes staatlich anerkannt.
 
-
 ## § 2 Dauer der Berufsausbildung
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Ausbildungsrahmenplan, Ausbildungsberufsbild
 
@@ -103,10 +99,6 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 5.  Boden-, Wetter- und Klimakunde.
 
-
-
-
-
 ## § 4 Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
@@ -126,7 +118,6 @@ Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den
 schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu
 führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis
 regelmäßig durchzusehen.
-
 
 ## § 5 Zwischenprüfung
 
@@ -227,10 +218,6 @@ bestehen folgende Vorgaben:
 3.  die Prüfungszeit beträgt insgesamt 210 Minuten; dabei entfallen auf
     die Durchführung der Arbeitsaufgabe 90 Minuten und auf die
     schriftliche Bearbeitung von Aufgaben 120 Minuten.
-
-
-
-
 
 ## § 6 Abschlussprüfung
 
@@ -532,7 +519,6 @@ für diesen Prüfungsbereich sind das bisherige Ergebnis und das
 Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu
 gewichten.
 
-
 ## § 7 Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
@@ -540,14 +526,12 @@ bestehen, können unter Anrechnung der bisher zurückgelegten
 Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt
 werden, wenn die Vertragsparteien dies vereinbaren.
 
-
 ## § 8 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2010 in Kraft. Gleichzeitig tritt
 die Revierjäger-Ausbildungsverordnung vom 26. April 1982 (BGBl. I S.
 554), die durch Artikel 6 der Verordnung vom 19. Oktober 2007 (BGBl. I
 S. 2461) geändert worden ist, außer Kraft.
-
 
 ## Anlage (zu § 3 Absatz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Revierjäger/zur Revierjägerin
 
@@ -1062,9 +1046,6 @@ Fähigkeiten
 
     *
     *   8
-
-
-
 
 ## Abschnitt B: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten
 

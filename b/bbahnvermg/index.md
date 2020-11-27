@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1951, 155
 
-
-
 ## § 1
 
 (1) Das Eigentum und alle sonstigen Vermögensrechte des Deutschen
@@ -33,7 +31,6 @@ worden sind.
 (2) Dies gilt auch für Rechte, die durch Gesetz für unübertragbar oder
 nur auf Grund besonderer Vereinbarung für übertragbar erklärt sind.
 
-
 ## § 2
 
 Soweit Vermögenswerte eines Unternehmens des privaten Rechts mit
@@ -41,7 +38,6 @@ eigener Rechtspersönlichkeit, an dem die Deutsche Reichsbahn am 8. Mai
 1945 unmittelbar oder mittelbar eine unter § 1 fallende Beteiligung
 besaß, nach dem 19. April 1949 auf Grund gesetzlicher Vorschriften auf
 ein Land übergegangen sind, gilt dieser Übergang als nicht erfolgt.
-
 
 ## § 3
 
@@ -93,7 +89,6 @@ Vollstreckungstiteln unzulässig, die nach dem Inkrafttreten dieses
 Gesetzes außerhalb des Geltungsbereichs des Grundgesetzes erwirkt
 werden.
 
-
 ## § 4
 
 (1) Treuhandschaften der Länder an dem Eigentum und den
@@ -108,13 +103,11 @@ Südwestdeutschen Eisenbahnen übernommen haben, tritt das
 Sondervermögen "Deutsche Bundesbahn" an deren Stelle in diese
 Verpflichtungen ein.
 
-
 ## § 5
 
 Die Wirksamkeit von rechtsgeschäftlichen Verfügungen, die über
 Vermögensrechte der in § 1 bezeichneten Art vor dem Inkrafttreten
 dieses Gesetzes getroffen worden sind, bleibt unberührt.
-
 
 ## § 6
 
@@ -122,12 +115,10 @@ dieses Gesetzes getroffen worden sind, bleibt unberührt.
 Januar 1933 einer Gewerkschaft, Genossenschaft, politischen Partei
 oder sonstigen demokratischen Organisation weggenommen worden sind.
 
-
 ## § 7
 
 Dingliche Rechte an Grundstücken und sonstigen Sachen und Rechten, die
 unter § 1 fallen, bleiben bestehen.
-
 
 ## § 8
 
@@ -150,18 +141,15 @@ Bundesbahn" gehört. Das Eigentum ist einzutragen für die
 (2) Dies gilt entsprechend für sonstige im Grundbuch eingetragene
 Rechte.
 
-
 ## § 9
 
 Gerichtsgebühren und andere Abgaben, die aus Anlaß und in Durchführung
 dieses Gesetzes entstehen, werden nicht erhoben. Bare Auslagen bleiben
 außer Ansatz.
 
-
 ## § 10
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
-
 
 ## Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet A Abschnitt III (BGBl. II 1990, 889, 1098) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 

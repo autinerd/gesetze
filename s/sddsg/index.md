@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 690
 
-
 ## § 1 Anwendungsbereich des Gesetzes
 
 Dieses Gesetz regelt den Umgang des Suchdienstes des Deutschen Roten
@@ -23,7 +22,6 @@ Kreuzes (DRK-Suchdienst) und des Kirchlichen Suchdienstes des
 Deutschen Caritasverbandes und des Diakonischen Werkes Deutschland
 (Kirchlicher Suchdienst) mit personenbezogenen Daten, soweit diese
 Suchdienste im Auftrag der Bundesregierung tätig sind.
-
 
 ## § 2 Aufgaben der Suchdienste
 
@@ -135,10 +133,6 @@ folgende Aufgaben wahr:
 4.  Ermittlungen zur Klärung des Schicksals oder einzelner Sachverhalte in
     Bezug auf den in Nummer 1 genannten Personenkreis.
 
-
-
-
-
 ## § 3 Erhebung
 
 (1) Die Suchdienste dürfen auch ohne Mitwirkung des Betroffenen
@@ -198,7 +192,6 @@ Antragsteller aus den in § 1 Abs. 2 Nr. 3
 des Bundesvertriebenengesetzes              genannten Gebieten
 stammen.
 
-
 ## § 4 Verwendung
 
 (1) Die vorgenannten Suchdienste dürfen die nach § 3 erhobenen und die
@@ -230,14 +223,12 @@ verbunden sind, dass eine Trennung nicht oder nur mit unvertretbarem
 Aufwand möglich ist oder die Erfüllung der Aufgaben nach § 2 ohne
 diese Angaben wesentlich erschwert wird.
 
-
 ## § 5 Löschung
 
 Personenbezogene Daten sind zu löschen, wenn ihre Kenntnis für die
 Erfüllung ihrer Aufgaben nach § 2 nicht mehr erforderlich ist und
 nicht anzunehmen ist, dass durch die Löschung schutzwürdige Belange
 des Betroffenen beeinträchtigt werden.
-
 
 ## § 6 Schadenersatz
 
@@ -249,13 +240,11 @@ verpflichtet. Die Ersatzpflicht entfällt, soweit die verantwortliche
 Stelle die nach den Umständen des Falles gebotene Sorgfalt beachtet
 hat. Dies gilt auch bei automatisierter Verarbeitung.
 
-
 ## § 7 Anwendung des Bundesdatenschutzgesetzes
 
 Soweit in diesem Gesetz keine abweichenden Regelungen getroffen sind,
 sind der Erste und der Zweite Abschnitt des Bundesdatenschutzgesetzes
 mit Ausnahme der §§ 3a, 4 Abs. 2 und 3 anzuwenden.
-
 
 ## § 8 Inkrafttreten
 

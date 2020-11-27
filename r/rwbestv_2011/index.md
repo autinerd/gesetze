@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 1039
 
-
 ## Eingangsformel
 
 Auf Grund
@@ -60,14 +59,12 @@ Auf Grund
 
 verordnet die Bundesregierung:
 
-
 ## § 1 Festsetzung des aktuellen Rentenwerts und des aktuellen Rentenwerts (Ost)
 
 (1) Der aktuelle Rentenwert beträgt ab dem 1. Juli 2011 27,47 Euro.
 
 (2) Der aktuelle Rentenwert (Ost) beträgt ab dem 1. Juli 2011 24,37
 Euro.
-
 
 ## § 2 Festsetzung des allgemeinen Rentenwerts und des allgemeinen Rentenwerts (Ost) in der Alterssicherung der Landwirte
 
@@ -77,13 +74,11 @@ beträgt ab dem 1. Juli 2011 12,68 Euro.
 (2) Der allgemeine Rentenwert (Ost) in der Alterssicherung der
 Landwirte beträgt ab dem 1. Juli 2011 11,25 Euro.
 
-
 ## § 3 Ausgleichsbedarf und Ausgleichsbedarf (Ost)
 
 (1) Der Ausgleichsbedarf beträgt ab dem 1. Juli 2011 0,9715.
 
 (2) Der Ausgleichsbedarf (Ost) beträgt ab dem 1. Juli 2011 0,9857.
-
 
 ## § 4 Anpassungsfaktor in der Unfallversicherung
 
@@ -98,7 +93,6 @@ Absatz 5 des Siebten Buches Sozialgesetzbuch für Versicherungsfälle,
 die vor dem 1. Juli 2011 eingetreten sind, werden zum 1. Juli 2011
 angepasst. Der Anpassungsfaktor beträgt 1,0099.
 
-
 ## § 5 Pflegegeld in der Unfallversicherung
 
 Das Pflegegeld der gesetzlichen Unfallversicherung beträgt vom 1. Juli
@@ -112,14 +106,9 @@ Das Pflegegeld der gesetzlichen Unfallversicherung beträgt vom 1. Juli
 2.  für Versicherungsfälle, auf die § 215 Absatz 5 des Siebten Buches
     Sozialgesetzbuch anzuwenden ist, zwischen 272 Euro und 1 086 Euro.
 
-
-
-
-
 ## § 6 Inkrafttreten
 
 Diese Verordnung tritt am 1. Juli 2011 in Kraft.
-
 
 ## Schlussformel
 

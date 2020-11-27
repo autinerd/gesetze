@@ -19,11 +19,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 10.11.2011 I 2233
 
-
-
 ## Abschnitt 1 - Anwendungsbereich, Begriffsbestimmungen
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -32,7 +28,6 @@ Behandelns und Inverkehrbringens bestimmter Lebensmittel tierischen
 Ursprungs sowie der Umsetzung und Durchführung von Rechtsakten der
 Europäischen Gemeinschaft oder der Europäischen Union auf dem Gebiet
 der Lebensmittelhygiene bei Lebensmitteln tierischen Ursprungs.
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -69,9 +64,7 @@ der Lebensmittelhygiene bei Lebensmitteln tierischen Ursprungs.
 
 entsprechend.
 
-
 ## Abschnitt 1a - Amtliche Untersuchungen bei der Gewinnung von Fleisch für den eigenen häuslichen Verbrauch
-
 
 ### § 2a Hausschlachtungen
 
@@ -99,7 +92,6 @@ Behörde
 
 (2) Die Anmeldung nach Absatz 1 hat unter Angabe des in Aussicht
 genommenen Zeitpunktes der Schlachtung oder Tötung zu erfolgen.
-
 
 ### § 2b Verwendung von erlegtem Großwild für den eigenen häuslichen Verbrauch
 
@@ -145,7 +137,6 @@ verwenden, bevor
 Die zuständige Behörde kann dem Jäger eine Durchschrift des
 Wildursprungsscheins elektronisch übermitteln.
 
-
 ### § 2c Verbote und Beschränkungen
 
 (1) Es ist verboten, Fleisch von nach § 2a Absatz 1 geschlachteten
@@ -164,10 +155,7 @@ einer nach § 2b Absatz 1 erforderlichen amtlichen Untersuchung für den
 menschlichen Verzehr im eigenen häuslichen Bereich zuzubereiten oder
 zu be- oder verarbeiten.
 
-
 ## Abschnitt 2 - Abgabe kleiner Mengen von Primärerzeugnissen und anderen Lebensmitteln tierischen Ursprungs
-
-
 
 ### § 3 Anforderungen an die Abgabe kleiner Mengen bestimmter Primärerzeugnisse und Lebensmittel tierischen Ursprungs
 
@@ -232,10 +220,6 @@ Wohnort des Jägers oder den Erlegeort des Wildes gelegen sind.
 
 4.  erlegtem Wild oder Fleisch von erlegtem Wild: Wild von nicht mehr als
     der Strecke eines Jagdtages.
-
-
-
-
 
 ### § 4 Zusätzliche Anforderungen an die Abgabe kleiner Mengen von erlegtem Wild
 
@@ -311,7 +295,6 @@ Wildschweinen oder Dachsen nicht in den Verkehr bringen, es sei denn,
 Die zuständige Behörde kann dem Jäger eine Durchschrift des
 Wildursprungsscheins elektronisch übermitteln.
 
-
 ### § 4a Inverkehrbringen von erlegten Wildschweinen und Dachsen, bei denen die Probenahme zur Untersuchung auf Trichinen durch den Jäger erfolgt ist
 
 Ein Tierkörper eines Wildschweins oder Dachses, bei dem die Entnahme
@@ -330,7 +313,6 @@ den Verkehr gebracht werden, wenn
 
 
 ist.
-
 
 ### § 5 Verbote und Beschränkungen
 
@@ -377,10 +359,7 @@ eingestuft worden sind.
 
 an Verbraucher abzugeben.
 
-
 ## Abschnitt 3 - Anforderungen an den Einzelhandel
-
-
 
 ### § 6 Nebensächliche Tätigkeiten des Einzelhandels im Sinne des Artikels 1 Abs. 5 Buchstabe b Nr. ii der Verordnung (EG) Nr. 853/2004
 
@@ -399,7 +378,6 @@ nach Artikel 1 Abs. 5 Buchstabe b Nr. ii der Verordnung (EG) Nr.
 
 
 beschränkt ist.
-
 
 ### § 7 Anforderungen an das Herstellen oder Behandeln von Lebensmitteln tierischen Ursprungs im Einzelhandel
 
@@ -421,10 +399,6 @@ Die Anforderungen der Anlage 5 Kapitel I, II Nr. 1 und Kapitel IV Nr.
 
 3.  Küchenräume in Gaststätten oder Einrichtungen zur
     Gemeinschaftsverpflegung.
-
-
-
-
 
 ### § 8 Verbote
 
@@ -462,13 +436,7 @@ Verordnung, nicht gelten,
 4.  entgegen den Verboten nach den Nummern 1 bis 3 hergestellte
     Lebensmittel in den Verkehr zu bringen.
 
-
-
-
-
 ## Abschnitt 4 - Anforderungen an das Herstellen, Behandeln und Inverkehrbringen von Lebensmitteln im Anwendungsbereich der Verordnung (EG) Nr. 853/2004
-
-
 
 ### § 9 Zulassung von Betrieben
 
@@ -506,7 +474,6 @@ Lebensmittelunternehmer die erforderliche Zuverlässigkeit für die
 Führung eines Betriebes nach Artikel 4 Abs. 2 der Verordnung (EG) Nr.
 853/2004 nicht besitzt.
 
-
 ### § 10 Informationen zur Lebensmittelkette
 
 (1) Eine Standarderklärung mit Informationen zur Lebensmittelkette
@@ -523,7 +490,6 @@ entsprechend.
 (2) § 1 der Verordnung mit Übergangsregelungen zur Einführung der
 Informationen zur Lebensmittelkette bleibt unberührt.
 
-
 ### § 11 Zerlegung und Verarbeitung von Fleisch
 
 Es ist verboten, Fleisch in Schlachträumen zu zerlegen oder zu
@@ -532,7 +498,6 @@ strukturierter Schlachthöfe in beengter räumlicher Lage Fleisch
 zerlegt werden, wenn Vorkehrungen zur Vermeidung einer Kontamination
 des Fleisches getroffen worden sind und die zuständige Behörde dies
 genehmigt hat.
-
 
 ### § 12 Schlachtungen außerhalb eines Schlachthofes
 
@@ -568,7 +533,6 @@ Abschnitt I Kapitel IV Nummer 2 Buchstabe b der Verordnung (EG) Nr.
 geschlachteten oder getöteten Tiere in den Schlachthof darf abweichend
 von Anhang III Abschnitt III Nummer 3 Buchstabe h der Verordnung (EG)
 Nr. 853/2004 nicht länger als eine Stunde dauern.
-
 
 ### § 12a Ausnahmen für Wildfarmen mit geringem Produktionsvolumen an Schalenwild
 
@@ -624,7 +588,6 @@ jeweiligen Schalenwild gewonnene Fleisch nur
 
 abgegeben werden.
 
-
 ### § 13 Abgabe von Wild an Wildbearbeitungsbetriebe
 
 Wer als Jäger Wildkörper an einen Wildbearbeitungsbetrieb abgibt, hat
@@ -647,7 +610,6 @@ Untersuchung auf
 
 
 erforderlich ist.
-
 
 ### § 13a Ausnahmen für das Inverkehrbringen von Hackfleisch
 
@@ -677,17 +639,12 @@ ist, soweit das Hackfleisch
 
     abgegeben wird.
 
-
-
-
-
 ### § 14 Untersuchung von Rohmilch nach Anhang III Abschnitt IX Kapitel I Teil III Nr. 2 Satz 2 Buchstabe d der Verordnung (EG) Nr. 853/2004
 
 Als Kontrollen von Rohmilch aus Milcherzeugungsbetrieben im Sinne
 einer nationalen Kontrollregelung nach Anhang III Abschnitt IX Kapitel
 I Teil III Nr. 2 Satz 2 Buchstabe d der Verordnung (EG) Nr. 853/2004
 gelten die Untersuchungen nach § 1 Abs. 1 der Milch-Güteverordnung.
-
 
 ### § 15 Gebote, Verbote und Beschränkungen
 
@@ -760,10 +717,7 @@ nach Maßgabe des Satzes 3 anzugeben. Für die Art und Weise der
 Kennzeichnung gilt § 3 Abs. 3 Satz 1, 2 und 3 Halbsatz 1 der
 Lebensmittel-Kennzeichnungsverordnung entsprechend.
 
-
 ## Abschnitt 5 - Gemeinsame Anforderungen an die Abgabe kleiner Mengen von Lebensmitteln, den Einzelhandel und das Herstellen, Behandeln und Inverkehrbringen von Lebensmitteln im Anwendungsbereich der Verordnung (EG) Nr. 853/2004
-
-
 
 ### § 16 Warnhinweis bei Hackfleisch und Fleischzubereitungen
 
@@ -782,7 +736,6 @@ durcherhitzen!" in den Verkehr gebracht werden. Für die Art und Weise
 der Kennzeichnung nach Satz 1 gilt § 3 Abs. 3 Satz 1, 2 und 3 Halbsatz
 1 der Lebensmittel-Kennzeichnungsverordnung entsprechend.
 
-
 ### § 16a Inverkehrbringen bestimmter aufgetauter Lebensmittel tierischen Ursprungs
 
 Fleisch, Hackfleisch und Fleischzubereitungen, die nach der
@@ -790,7 +743,6 @@ Herstellung gefroren oder tiefgefroren worden sind, dürfen in
 aufgetautem oder teilweise aufgetautem Zustand unverpackt nur an
 Verbraucher abgegeben werden, wenn gut sichtbar und eindeutig mit der
 Angabe „aufgetaut“ auf diesen Zustand hingewiesen wird.
-
 
 ### § 17 Abgabe von Rohmilch oder Rohrahm an Verbraucher
 
@@ -860,7 +812,6 @@ kann im Einzelfall für die Abgabe von Rohmilch an einen bestimmten
 Personenkreis Ausnahmen von den Anforderungen des Satzes 1 Nr. 3 bis 5
 genehmigen.
 
-
 ### § 18 Anforderungen an das Gewinnen, Behandeln und Inverkehrbringen von Vorzugsmilch
 
 (1) Wer Rohmilch zum Zweck der Abgabe nach § 17 Abs. 2 oder 3 gewinnen
@@ -889,7 +840,6 @@ dann in den Bestand der Vorzugsmilch liefernden Tiere eingestellt
 werden, wenn eine erneute Untersuchung nach Satz 2 mit negativem
 Ergebnis durchgeführt worden ist.
 
-
 ### § 19 Herstellung von Käse mit einer Reifezeit von mindestens 60 Tagen
 
 Die zuständige Behörde kann genehmigen, dass zur Herstellung von Käse
@@ -897,7 +847,6 @@ mit einer Reifezeit von mindestens 60 Tagen Rohmilch verwendet wird,
 die nicht den Kriterien nach Anhang III Abschnitt IX Kapitel I Teil
 III Nr. 3 oder Kapitel II Teil III Nr. 1 der Verordnung (EG) Nr.
 853/2004 entspricht.
-
 
 ### § 19a Ausnahmen für die Herstellung von Hart- und Schnittkäse in Betrieben der Alm- oder Alpwirtschaft
 
@@ -934,16 +883,11 @@ verwendet werden, wenn sichergestellt ist, dass die Rohmilch
 
     unterzogen worden ist.
 
-
-
-
-
 ### § 20 Temperaturanforderungen für die Lagerung und Beförderung von Eiern
 
 Wer Hühnereier gewerbsmäßig in den Verkehr bringt, hat diese ab dem
 18\. Tag nach dem Legen bei einer Temperatur von + 5 °C bis + 8 °C zu
 lagern oder zu befördern.
-
 
 ### § 20a Besondere Anforderungen bei Abgabe roheihaltiger Lebensmittel
 
@@ -999,7 +943,6 @@ vorzulegen und auszuhändigen.
 ist jedes Erhitzungsverfahren, das die Abtötung von Salmonellen
 sicherstellt oder ein Verfahren gleicher Wirkung.
 
-
 ### § 21 Betriebseigene Kontrollen und Nachweise
 
 (1) Wer Primärerzeugnisse tierischen Ursprungs be- oder verarbeitet,
@@ -1052,7 +995,6 @@ aufzubewahren, der zuständigen Behörde auf Verlangen vorzulegen und,
 soweit die Nachweise auf elektronischen Datenträgern abgespeichert
 sind, auf Verlangen der zuständigen Behörde auszudrucken.
 
-
 ### § 22 Verbote und Beschränkungen
 
 (1) Es ist verboten,
@@ -1079,10 +1021,7 @@ frisches Fleisch in den Verkehr zu bringen.
 (3) Es ist verboten, Eier nach Ablauf des 21. Tages nach dem Legen an
 Verbraucher abzugeben.
 
-
 ## Abschnitt 6 - Straftaten und Ordnungswidrigkeiten
-
-
 
 ### § 23 Straftaten
 
@@ -1162,10 +1101,6 @@ Futtermittelgesetzbuches wird bestraft, wer
 
 
 7.  entgegen § 22 Abs. 2 Geflügelfleisch in den Verkehr bringt.
-
-
-
-
 
 ### § 24 Ordnungswidrigkeiten
 
@@ -1336,12 +1271,7 @@ oder fahrlässig
 4.  entgegen § 15 Abs. 2 ein Identitätskennzeichen nicht richtig befestigt
     oder nicht richtig aufdruckt.
 
-
-
-
-
 ## Abschnitt 7 - Schlussvorschriften
-
 
 ### § 25 Übergangsvorschriften
 
@@ -1352,7 +1282,6 @@ Juni 2001 (BGBl. I S. 230, 231) in der bis zum 20. Mai 2010 geltenden
 Fassung weiter anzuwenden. Wildursprungsscheine, die nach Form und
 Inhalt dem Muster der Anlage 8a nicht entsprechen, können bis zum 20.
 November 2011 weiterverwendet werden.
-
 
 ### Anlage 1 (zu § 3 Abs. 1 Satz 1 Nr. 1 und 2) Anforderungen an die Abgabe kleiner Mengen von Fischereierzeugnissen oder von lebenden Muscheln
 
@@ -1460,10 +1389,6 @@ November 2011 weiterverwendet werden.
 3.5.5 Azaspiracide:
     160 Mikrogramm Azaspiracid-Äquivalent je Kilogramm.
 
-
-
-
-
 ### Anlage 2 (zu § 3 Abs. 1 Satz 1 Nr. 3) Anforderungen an die Abgabe kleiner Mengen von Eiern
 
 ( Fundstelle: BGBl. I 2007, 1836 )
@@ -1477,10 +1402,6 @@ Beim Umgang mit Eiern sind folgende Anforderungen einzuhalten:
 2.  Die Eier müssen bei einer – möglichst konstanten – Temperatur
     aufbewahrt und befördert werden, die eine einwandfreie hygienische
     Beschaffenheit der Erzeugnisse gewährleistet.
-
-
-
-
 
 ### Anlage 3 (zu § 3 Abs. 1 Satz 1 Nr. 4) Anforderungen an die Abgabe kleiner Mengen von Fleisch von Geflügel oder Hasentieren
 
@@ -1515,7 +1436,6 @@ behandelt werden, in denen
 
 vorhanden sind oder die unmittelbar an einen Raum angrenzen, in dem
 diese Einrichtungen vorhanden sind.
-
 
 ### Anlage 4 (zu § 3 Abs. 1 Satz 1 Nr. 5, § 4 Abs. 1 Satz 1 Nr. 1 und Abs. 2 Satz 1) Anforderungen an die Abgabe kleiner Mengen von erlegtem Wild oder Fleisch von erlegtem Wild
 
@@ -1647,10 +1567,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 4.4 Großwild in der Decke oder Kleinwild in der Decke oder im Federkleid
     darf Fleisch von erlegtem Wild nicht berühren.
 
-
-
-
-
 ### Anlage 5 (zu § 7 Satz 1) Anforderungen an die Herstellung oder Behandlung von Lebensmitteln tierischen Ursprungs im Einzelhandel
 
 (Fundstelle: BGBl. I 2007, 1838 - 1842;
@@ -1759,9 +1675,6 @@ Anforderungen einzuhalten:
     Zeitpunkten oder in einer Weise erfolgt, dass das unverpackte Fleisch
     auf Grund der Art der Lagerung oder Beförderung nicht kontaminiert
     werden kann.
-
-
-
 
 ## Kapitel II
 
@@ -1988,9 +1901,6 @@ Anforderungen einzuhalten:
 2.7 von Geflügel Speiseröhre, Kropf, Geschlechtsorgane, alle Eingeweide
     und Kopf, ausgenommen Kamm, Ohrläppchen, Kehllappen und Fleischwarzen.
 
-
-
-
 ## Kapitel IV
 
 ## Eier, Eiprodukte und Flüssigei
@@ -2132,9 +2042,6 @@ Anforderungen einzuhalten:
     Gemeinschaftsverpflegung, wenn die Erzeugnisse einer
     Weiterverarbeitung an Ort und Stelle unterzogen werden.
 
-
-
-
 ## Kapitel V
 
 ## Anforderungen an die Herstellung von Milcherzeugnissen
@@ -2230,9 +2137,6 @@ Milcherzeugnissen sind folgende Anforderungen einzuhalten:
     Einrichtungen der Gemeinschaftsverpflegung, wenn die Erzeugnisse einer
     Weiterverarbeitung an Ort und Stelle unterzogen werden.
 
-
-
-
 ## Kapitel VI
 
 Kennzeichnung von aus oder
@@ -2260,7 +2164,6 @@ Lebensmittelunternehmern nicht angewendet werden, die eine nach
 Artikel 8 der Verordnung (EG) Nr. 852/2004 ausgearbeitete, die Kühlung
 von Lebensmitteln im Einzelhandel betreffende Leitlinie für eine gute
 Verfahrenspraxis anwenden und dies dokumentieren.
-
 
 ### Anlage 6 (zu § 9 Abs. 1 Satz 2 Nr. 1)
 
@@ -4838,10 +4741,6 @@ Verordnung (EG) Nr. 853/2004**
 
 6.  im Wartburgkreis die Gemeinde Nazza.
 
-
-
-
-
 ### Anlage 9 (zu § 17 Abs. 2 Satz 1 Nr. 1 und 2, § 18 Abs. 1 und 2 und § 21 Abs. 3 Nr. 4) Anforderungen an Vorzugsmilch
 
 ( Fundstelle: BGBl. I 2007, 1861 - 1863 )
@@ -5031,9 +4930,6 @@ Anforderungen:
     m“, so sind im Regelfall weitere Untersuchungen nicht erforderlich.
     Liegt dagegen der Wert zwischen „m“ und „M“, so sind die dann zu
     ziehenden Proben (n) jeweils auf einen Produktionstag zu beziehen.
-
-
-
 
 ## Kapitel II
 

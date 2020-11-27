@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 15 G v. 22.8.2006 I 1970
 
-
 ## § 1 Anwendungsbereich, Zweck
 
 Diese Verordnung gilt für
@@ -60,7 +59,6 @@ Diese Verordnung gilt für
 
 Sie dient der Regelung näherer Einzelheiten dieser Verfahren, die die
 gesetzlichen Regelungen in Teilbereichen konkretisieren.
-
 
 ## § 2 Allgemeine Vorschriften zur Vorlage von Unterlagen
 
@@ -113,7 +111,6 @@ Bezug zu nehmen. Im Falle der Einfuhr sind auch Name und Anschrift des
 Herstellers zu benennen. Im Falle der Antragstellung durch einen
 Bevollmächtigten ist die Bevollmächtigung durch eine schriftliche
 Erklärung des Herstellers oder Einführers nachzuweisen.
-
 
 ## § 3 Vorlage von Prüfnachweisen, Prüfmethoden
 
@@ -177,7 +174,6 @@ Prüfmethoden sind vollständige Angaben zu machen. In den Fällen des
 Absatzes 2 Satz 3 Nr. 2 und 3 ist die Verwendung der gewählten
 Methoden zu begründen.
 
-
 ## § 4 Beschränkungen der Zulassungsfähigkeit bei bestimmten Biozid-Produkten
 
 Biozid-Produkte der Produktarten 15 (Avizide), 17
@@ -190,7 +186,6 @@ Chemikaliengesetzes registriert werden. Eine Anerkennung ausländischer
 Zulassungen oder Registrierungen derartiger Biozid-Produkte nach § 12g
 des Chemikaliengesetzes darf nicht erteilt werden. § 12c Abs. 2 des
 Chemikaliengesetzes bleibt unberührt.
-
 
 ## § 5 Feststellung zum Entfallen der Zulassungsbedürftigkeit nach § 12a Satz 2 Nr. 4 des Chemikaliengesetzes
 
@@ -263,7 +258,6 @@ Biozid-Produkt betreffenden Verhältnisse nicht nachträglich ändern und
 dass die Zulassung oder Registrierung des eingeführten oder
 einzuführenden Biozid-Produkts im Ursprungsland und des
 Referenzprodukts in Deutschland nicht geändert wird oder abläuft.
-
 
 ## § 6 Proben
 

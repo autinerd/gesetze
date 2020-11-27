@@ -19,14 +19,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 G v. 23.10.2012 I 2246
 
-
 ## Eingangsformel
 
 Auf Grund des § 21 Abs. 3 Satz 1 Nr. 4 des
 Bundesausbildungsförderungsgesetzes in der Fassung der Bekanntmachung
 vom 6. Juni 1983 (BGBl. I S. 645) verordnet der Bundesminister für
 Bildung und Wissenschaft mit Zustimmung des Bundesrates:
-
 
 ## § 1 Leistungen der sozialen Sicherung
 
@@ -201,10 +199,6 @@ folgende Leistungen der sozialen Sicherung:
 12. Übergangsleistungen nach § 3 der Berufskrankheiten-Verordnung (BKV)
     vom 31. Oktober 1997 (BGBl. I S. 2623).
 
-
-
-
-
 ## § 2 Weitere Einnahmen
 
 Als Einnahmen, die zur Deckung des Lebensbedarfs bestimmt sind, gelten
@@ -266,10 +260,6 @@ auch folgende Leistungen:
 7.  Leistungen nach § 9 Abs. 1 des Anspruchs- und
     Anwartschaftsüberführungsgesetzes.
 
-
-
-
-
 ## § 3 Einnahmen bei Auslandstätigkeit
 
 Als Einnahmen, die zur Deckung des Lebensbedarfs bestimmt sind, gelten
@@ -302,16 +292,11 @@ ferner
     Bundesausbildungsförderungsgesetzes entsandt, vermittelt oder dort
     beschäftigt sind.
 
-
-
-
-
 ## § 3a Übergangsvorschrift
 
 Für Bewilligungszeiträume, die vor dem 30. Juni 2003 begonnen haben,
 sind die Vorschriften dieser Verordnung in ihrer bis zum 21. Mai 2003
 geltenden Fassung weiter anzuwenden.
-
 
 ## § 4 Inkrafttreten
 

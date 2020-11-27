@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 230
 
-
 ## Eingangsformel
 
 Auf Grund des § 27 Absatz 3 in Verbindung mit Absatz 1 und 2 des
@@ -26,7 +25,6 @@ geändert worden ist, verordnet das Bundesministerium für Ernährung,
 Landwirtschaft und Verbraucherschutz im Einvernehmen mit dem
 Bundesministerium für Bildung und Forschung nach Anhörung des
 Hauptausschusses des Bundesinstituts für Berufsbildung:
-
 
 ## § 1 Mindestanforderungen an die Größe, die Einrichtung und den Bewirtschaftungszustand
 
@@ -98,7 +96,6 @@ werden, die zeitgemäß beschaffen und ausgestattet ist.
 Inhabers oder der Inhaberin ein Insolvenz- oder Vergleichsverfahren
 eröffnet worden ist.
 
-
 ## § 2 Ausnahmeregelung
 
 Eine Ausbildungsstätte, in der die erforderlichen beruflichen
@@ -108,7 +105,6 @@ gilt als geeignet, wenn sichergestellt ist, dass diese durch
 Ausbildungsmaßnahmen außerhalb der Ausbildungsstätte in einer anderen
 anerkannten Ausbildungsstätte oder in Form überbetrieblicher
 Ausbildung vermittelt werden können.
-
 
 ## § 3 Inkrafttreten, Außerkrafttreten
 

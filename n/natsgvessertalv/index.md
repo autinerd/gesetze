@@ -16,14 +16,11 @@ Ausfertigungsdatum
 Fundstelle
 :   GBl DDR: 1990, SDr 1475
 
-
-
 ## Eingangsformel
 
 Auf Grund des Art. 6 § 6 Nr. 1 des Umweltrahmengesetzes vom 29. Juni
 1990 (GBl. I Nr. 42 S. 649) in Verbindung mit §§ 12, 13 und 15 des
 Bundesnaturschutzgesetzes wird verordnet:
-
 
 ## § 1 Festsetzung
 
@@ -31,7 +28,6 @@ In dem in § 2 näher bezeichneten Umfang werden im Thüringer Wald
 Naturschutzgebiete und ein Landschaftsschutzgebiet von zentraler
 Bedeutung mit der Gesamtbezeichnung "Biosphärenreservat Vessertal"
 festgesetzt.
-
 
 ## § 2 Flächenbeschreibung und Abgrenzung
 
@@ -105,7 +101,6 @@ Reservatsverwaltung und der Kreisverwaltung. Bei den genannten
 Behörden sind die Karten während der Sprechzeiten allgemein
 zugänglich.
 
-
 ## § 3 Schutzzweck
 
 Mit der Festsetzung als Biosphärenreservat wird bezweckt, die
@@ -140,10 +135,6 @@ Nutzung zu schützen, zu pflegen und zu entwickeln. Insbesondere sind
 7.  die Teile der harmonischen Kulturlandschaft für landschaftsökologisch
     vertretbare Formen der Bildung und Erholung zu erschließen und zu
     sichern.
-
-
-
-
 
 ## § 4 Schutzzonen
 
@@ -268,7 +259,6 @@ beschriebene Fläche.
 (5) Die Grenzen der Schutzzonen sind in den in § 2 Abs. 3 genannten
 Karten eingetragen.
 
-
 ## § 5 Gebote
 
 (1) Im Biosphärenreservat ist es geboten,
@@ -345,10 +335,6 @@ Karten eingetragen.
     abgestimmten Freilandforschungen und die Nutzung des
     Biosphärenreservats für Studien- und Demonstrationszwecke
     gewährleistet ist.
-
-
-
-
 
 ## § 6 Verbote
 
@@ -438,10 +424,6 @@ aufgeführten Verbote. Weiterhin ist es verboten,
 
 2.  das Gebiet in irgendeiner Weise zu beeinträchtigen.
 
-
-
-
-
 ## § 7 Ausnahmen
 
 (1) Ausgenommen von den Verboten des § 6 sind:
@@ -493,7 +475,6 @@ unberührt. Soweit diese Maßnahmen mit dem Schutzzweck des
 Biosphärenreservats (§ 3) nicht vereinbar sind, sollen sie im Rahmen
 der rechtlichen Möglichkeiten so schnell wie möglich abgebaut werden.
 
-
 ## § 8 Befreiungen
 
 (1) Von den Verboten des § 6 kann auf Antrag im Einzelfall Befreiung
@@ -522,7 +503,6 @@ gewährt werden, wenn
 der Reservatsverwaltung; die Aufsichtsbehörde kann diese Aufgabe ganz
 oder teilweise delegieren.
 
-
 ## § 9 Einvernehmen
 
 Das Einvernehmen mit der Reservatsverwaltung ist herzustellen bei:
@@ -535,10 +515,6 @@ Das Einvernehmen mit der Reservatsverwaltung ist herzustellen bei:
 
 3.  der Aufstellung von Bauleitplänen.
 
-
-
-
-
 ## § 10 Entschädigung für Nutzungsbeschränkungen
 
 Werden Eigentümern oder anderen Nutzungsberechtigten durch diese
@@ -549,29 +525,24 @@ haben sie Anspruch auf Entschädigung. Diese muß die
 Vermögensnachteile, die durch die Maßnahmen verursacht wurden,
 angemessen ausgleichen.
 
-
 ## § 11 Vorrang dieser Verordnung
 
 Die Bestimmungen dieser Verordnung gehen den Bestimmungen der
 bestehenden naturschutzrechtlichen Beschlüsse, Verordnungen oder
 Anordnungen für dieses Gebiet vor.
 
-
 ## § 12 Schlußbestimmung
 
 Die Verordnung tritt mit Wirkung vom 1. Oktober 1990 in Kraft.
-
 
 ## Schlußformel
 
 **Der Ministerrat der Deutschen Demokratischen Republik**
 
-
 ## Anlage
 
 (Inhalt: nicht darstellbare Karte,
 Fundstelle: GBl. 1990, Sonderdruck Nr. 1475)
-
 
 ## Anhang EV Auszug aus Artikel 3 der Vereinbarung zur Durchführung und Auslegung des Einigungsvertrages vom 18.9.1990 (EinigVtrVbg) (BGBl. II 1990, 885, 1239)
 

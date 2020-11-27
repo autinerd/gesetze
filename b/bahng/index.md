@@ -19,12 +19,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 101 G v. 8.12.2010 I 1864
 
-
 ## Eingangsformel
 
 Die Reichsregierung hat das folgende Gesetz beschlossen, das hiermit
 verkündet wird:
-
 
 ## § 1
 
@@ -32,7 +30,6 @@ Der Betrieb von Bahnunternehmen des öffentlichen Verkehrs darf nur mit
 Genehmigung der Aufsichtsbehörde eingeschränkt oder stillgelegt
 werden. Das gilt auch im Insolvenzverfahren über das Vermögen des
 Bahneigentümers.
-
 
 ## § 2
 
@@ -47,10 +44,6 @@ ersetzt werden, wenn
 
 
 2.  Darlehen zur Fortführung des Betriebs aufgenommen werden sollen.
-
-
-
-
 
 ## § 3
 
@@ -81,7 +74,6 @@ sich die Vollstreckung in unbewegliche Gegenstände, die dem Betrieb
 eines Bahnunternehmens gewidmet sind, nach diesen landesgesetzlichen
 Vorschriften.
 
-
 ## § 4
 
 (1) Die Verwertung verpfändeter oder zur Sicherung übereigneter
@@ -96,7 +88,6 @@ Teil III, Gliederungsnummer 310-11, veröffentlichten bereinigten
 Fassung, das durch Artikel 19 des Gesetzes vom 5. Oktober 1994 (BGBl.
 I S. 2911) geändert worden ist.
 
-
 ## § 5
 
 (1) Aufsichtsbehörde im Sinne dieses Gesetzes ist die für die Aufsicht
@@ -109,11 +100,9 @@ Entscheidungen im Einvernehmen mit den Aufsichtsbehörden der
 mitbeteiligten Länder. Das gleiche gilt, wenn der Bahneigentümer in
 anderen Ländern weitere Eisenbahnen betreibt.
 
-
 ## § 6
 
 -
-
 
 ## § 7
 

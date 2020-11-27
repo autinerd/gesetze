@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 15 G v. 21.7.2012 I 1583
 
-
 ## Erster Abschnitt - Allgemeine Vorschriften
-
-
 
 ### § 1 Zweck des Gesetzes
 
@@ -34,10 +31,6 @@ Zweck des Gesetzes ist es,
 
 2.  den Sonntag und die staatlich anerkannten Feiertage als Tage der
     Arbeitsruhe und der seelischen Erhebung der Arbeitnehmer zu schützen.
-
-
-
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -63,13 +56,7 @@ zwei Stunden der Nachtzeit umfaßt.
 
 2.  Nachtarbeit an mindestens 48 Tagen im Kalenderjahr leisten.
 
-
-
-
-
 ## Zweiter Abschnitt - Werktägliche Arbeitszeit und arbeitsfreie Zeiten
-
-
 
 ### § 3 Arbeitszeit der Arbeitnehmer
 
@@ -77,7 +64,6 @@ Die werktägliche Arbeitszeit der Arbeitnehmer darf acht Stunden nicht
 überschreiten. Sie kann auf bis zu zehn Stunden nur verlängert werden,
 wenn innerhalb von sechs Kalendermonaten oder innerhalb von 24 Wochen
 im Durchschnitt acht Stunden werktäglich nicht überschritten werden.
-
 
 ### § 4 Ruhepausen
 
@@ -88,7 +74,6 @@ insgesamt zu unterbrechen. Die Ruhepausen nach Satz 1 können in
 Zeitabschnitte von jeweils mindestens 15 Minuten aufgeteilt werden.
 Länger als sechs Stunden hintereinander dürfen Arbeitnehmer nicht ohne
 Ruhepause beschäftigt werden.
-
 
 ### § 5 Ruhezeit
 
@@ -111,7 +96,6 @@ Rufbereitschaft, die nicht mehr als die Hälfte der Ruhezeit betragen,
 zu anderen Zeiten ausgeglichen werden.
 
 (4) (weggefallen)
-
 
 ### § 6 Nacht- und Schichtarbeit
 
@@ -170,7 +154,6 @@ Bruttoarbeitsentgelt zu gewähren.
 (6) Es ist sicherzustellen, daß Nachtarbeitnehmer den gleichen Zugang
 zur betrieblichen Weiterbildung und zu aufstiegsfördernden Maßnahmen
 haben wie die übrigen Arbeitnehmer.
-
 
 ### § 7 Abweichende Regelungen
 
@@ -316,7 +299,6 @@ Durchschnitt von sechs Kalendermonaten oder 24 Wochen nicht
 verlängert, muss im unmittelbaren Anschluss an die Beendigung der
 Arbeitszeit eine Ruhezeit von mindestens elf Stunden gewährt werden.
 
-
 ### § 8 Gefährliche Arbeiten
 
 Die Bundesregierung kann durch Rechtsverordnung mit Zustimmung des
@@ -331,10 +313,7 @@ der Gesundheit der Arbeitnehmer erforderlich ist. Satz 1 gilt nicht
 für Beschäftigungsbereiche und Arbeiten in Betrieben, die der
 Bergaufsicht unterliegen.
 
-
 ## Dritter Abschnitt - Sonn- und Feiertagsruhe
-
-
 
 ### § 9 Sonn- und Feiertagsruhe
 
@@ -348,7 +327,6 @@ Beginn der Ruhezeit folgenden 24 Stunden der Betrieb ruht.
 
 (3) Für Kraftfahrer und Beifahrer kann der Beginn der 24stündigen
 Sonn- und Feiertagsruhe um bis zu zwei Stunden vorverlegt werden.
-
 
 ### § 10 Sonn- und Feiertagsbeschäftigung
 
@@ -452,7 +430,6 @@ Derivatehandels abweichend von § 9 Abs. 1 an den auf einen Werktag
 fallenden Feiertagen beschäftigt werden, die nicht in allen
 Mitgliedstaaten der Europäischen Union Feiertage sind.
 
-
 ### § 11 Ausgleich für Sonn- und Feiertagsbeschäftigung
 
 (1) Mindestens 15 Sonntage im Jahr müssen beschäftigungsfrei bleiben.
@@ -475,7 +452,6 @@ gewähren ist.
 Absatzes 3 ist den Arbeitnehmern unmittelbar in Verbindung mit einer
 Ruhezeit nach § 5 zu gewähren, soweit dem technische oder
 arbeitsorganisatorische Gründe nicht entgegenstehen.
-
 
 ### § 12 Abweichende Regelungen
 
@@ -510,7 +486,6 @@ Betriebs- oder Dienstvereinbarung kann zugelassen werden,
 
 
 § 7 Abs. 3 bis 6 findet Anwendung.
-
 
 ### § 13 Ermächtigung, Anordnung, Bewilligung
 
@@ -609,10 +584,7 @@ Konkurrenzfähigkeit unzumutbar beeinträchtigt ist und durch die
 Genehmigung von Sonn- und Feiertagsarbeit die Beschäftigung gesichert
 werden kann.
 
-
 ## Vierter Abschnitt - Ausnahmen in besonderen Fällen
-
-
 
 ### § 14 Außergewöhnliche Fälle
 
@@ -645,7 +617,6 @@ können.
 (3) Wird von den Befugnissen nach Absatz 1 oder 2 Gebrauch gemacht,
 darf die Arbeitszeit 48 Stunden wöchentlich im Durchschnitt von sechs
 Kalendermonaten oder 24 Wochen nicht überschreiten.
-
 
 ### § 15 Bewilligung, Ermächtigung
 
@@ -710,10 +681,7 @@ Gesundheitsschutz der Arbeitnehmer gewährleistet werden.
 Arbeitszeit 48 Stunden wöchentlich im Durchschnitt von sechs
 Kalendermonaten oder 24 Wochen nicht überschreiten.
 
-
 ## Fünfter Abschnitt - Durchführung des Gesetzes
-
-
 
 ### § 16 Aushang und Arbeitszeitnachweise
 
@@ -729,7 +697,6 @@ Arbeitszeit des § 3 Satz 1 hinausgehende Arbeitszeit der Arbeitnehmer
 aufzuzeichnen und ein Verzeichnis der Arbeitnehmer zu führen, die in
 eine Verlängerung der Arbeitszeit gemäß § 7 Abs. 7 eingewilligt haben.
 Die Nachweise sind mindestens zwei Jahre aufzubewahren.
-
 
 ### § 17 Aufsichtsbehörde
 
@@ -772,10 +739,7 @@ verweigern, deren Beantwortung ihn selbst oder einen der in § 383 Abs.
 Gefahr strafgerichtlicher Verfolgung oder eines Verfahrens nach dem
 Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
-
 ## Sechster Abschnitt - Sonderregelungen
-
-
 
 ### § 18 Nichtanwendung des Gesetzes
 
@@ -809,7 +773,6 @@ anstelle dieses Gesetzes das Seemannsgesetz.
 
 (4)
 
-
 ### § 19 Beschäftigung im öffentlichen Dienst
 
 Bei der Wahrnehmung hoheitlicher Aufgaben im öffentlichen Dienst
@@ -817,7 +780,6 @@ können, soweit keine tarifvertragliche Regelung besteht, durch die
 zuständige Dienstbehörde die für Beamte geltenden Bestimmungen über
 die Arbeitszeit auf die Arbeitnehmer übertragen werden; insoweit
 finden die §§ 3 bis 13 keine Anwendung.
-
 
 ### § 20 Beschäftigung in der Luftfahrt
 
@@ -827,7 +789,6 @@ Arbeits- und Ruhezeiten die Vorschriften über Flug-, Flugdienst- und
 Ruhezeiten der Zweiten Durchführungsverordnung zur Betriebsordnung für
 Luftfahrtgerät in der jeweils geltenden Fassung.
 
-
 ### § 21 Beschäftigung in der Binnenschiffahrt
 
 Die Vorschriften dieses Gesetzes gelten für die Beschäftigung von
@@ -835,7 +796,6 @@ Fahrpersonal in der Binnenschiffahrt, soweit die Vorschriften über
 Ruhezeiten der Binnenschiffsuntersuchungsordnung in der jeweils
 geltenden Fassung dem nicht entgegenstehen. Sie können durch
 Tarifvertrag der Eigenart der Binnenschiffahrt angepaßt werden.
-
 
 ### § 21a Beschäftigung im Straßentransport
 
@@ -914,10 +874,7 @@ Arbeitnehmer schriftlich auf, ihm eine Aufstellung der bei einem
 anderen Arbeitgeber geleisteten Arbeitszeit vorzulegen. Der
 Arbeitnehmer legt diese Angaben schriftlich vor.
 
-
 ## Siebter Abschnitt - Straf- und Bußgeldvorschriften
-
-
 
 ### § 22 Bußgeldvorschriften
 
@@ -977,7 +934,6 @@ fahrlässig
 Fällen des Absatzes 1 Nr. 8 mit einer Geldbuße bis zu
 zweitausendfünfhundert Euro geahndet werden.
 
-
 ### § 23 Strafvorschriften
 
 (1) Wer eine der in § 22 Abs. 1 Nr. 1 bis 3, 5 bis 7 bezeichneten
@@ -998,10 +954,7 @@ bestraft.
 verursacht, wird mit Freiheitsstrafe bis zu sechs Monaten oder mit
 Geldstrafe bis zu 180 Tagessätzen bestraft.
 
-
 ## Achter Abschnitt - Schlußvorschriften
-
-
 
 ### § 24 Umsetzung von zwischenstaatlichen Vereinbarungen und Rechtsakten der EG
 
@@ -1010,7 +963,6 @@ von Verpflichtungen aus zwischenstaatlichen Vereinbarungen oder zur
 Umsetzung von Rechtsakten des Rates oder der Kommission der
 Europäischen Gemeinschaften, die Sachbereiche dieses Gesetzes
 betreffen, Rechtsverordnungen nach diesem Gesetz erlassen.
-
 
 ### § 25 Übergangsregelung für Tarifverträge
 
@@ -1021,7 +973,6 @@ Satz 1, die den in diesen Vorschriften festgelegten Höchstrahmen
 31\. Dezember 2006 unberührt. Tarifverträgen nach Satz 1 stehen durch
 Tarifvertrag zugelassene Betriebsvereinbarungen sowie Regelungen nach
 § 7 Abs. 4 gleich.
-
 
 ### § 26
 

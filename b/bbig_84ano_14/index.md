@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1986, 1489
 
-
-
 ## I.
 
 Auf Grund des § 84 Abs. 1 des Berufsbildungsgesetzes vom 14. August
@@ -42,11 +40,9 @@ Bundesminister des Innern
 zur zuständigen Stelle für den Geschäftsbereich des Bundesministers
 für Forschung und Technologie.
 
-
 ## II.
 
 Diese Anordnung tritt am Tag nach der Bekanntmachung in Kraft.
-
 
 ## Schlußformel
 

@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 V v. 7.12.2011 I 2630
 
-
 ## Eingangsformel
 
 Auf Grund des § 1 Abs. 3 Satz 1 und des § 2 Abs. 2 und 3 des
@@ -35,7 +34,6 @@ Ordnungswidrigkeiten in der Fassung der Bekanntmachung vom 19. Februar
 1987 (BGBl. I S. 602) vom Bundesministerium für Ernährung,
 Landwirtschaft und Forsten verordnet:
 
-
 ## § 1 Anwendungsbereich
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung der
@@ -43,7 +41,6 @@ Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union
 im Rahmen der gemeinsamen Marktorganisation für Bananen hinsichtlich
 der Überwachung der Einhaltung von Qualitätsnormen für Bananen
 (Konformitätskontrollen).
-
 
 ## § 2 Zuständigkeit
 
@@ -57,7 +54,6 @@ Durchführungsbestimmungen zu den Qualitätsnormen für Bananen (ABl. EG
 Nr. L 304 S. 17). Die Bundesanstalt ist auch zuständig für die
 Freistellung von der Konformitätskontrolle nach § 5.
 
-
 ## § 3 Rechnungen, Lieferscheine und sonstige Transportbegleitpapiere
 
 Der Marktbeteiligte hat in Rechnungen, Lieferscheinen und sonstigen
@@ -65,7 +61,6 @@ Transportbegleitpapieren über ein Erzeugnis, für das Qualitätsnormen
 bestehen, bis zum Eingang in die Reifestation das Ursprungsland sowie
 die Güteklasse anzugeben, unter der das Erzeugnis geliefert, verkauft
 oder sonst in den Verkehr gebracht worden ist.
-
 
 ## § 4 Meldungen und Anträge der Marktbeteiligten
 
@@ -109,7 +104,6 @@ Konformitätskontrollen freigestellt sind. Ferner gilt diese
 Verpflichtung nicht für Waren, die nicht zur Abfertigung zum freien
 Verkehr in der Europäischen Gemeinschaft bestimmt sind.
 
-
 ## § 5 Freistellung von den Konformitätskontrollen
 
 (1) Die Befreiung von der Konformitätskontrolle nach Artikel 7 der
@@ -135,7 +129,6 @@ Absatzes 1 nicht mehr erfüllt sind. Die Freistellung wird je nach
 Schwere der festgestellten Verstöße zeitweilig oder endgültig
 entzogen.
 
-
 ## § 6 Ordnungswidrigkeiten
 
 (1) Ordnungswidrig handelt, wer entgegen Artikel 113 Absatz 3
@@ -160,10 +153,6 @@ Handelsklassengesetzes handelt, wer
 2.  entgegen § 4 Abs. 1 eine Angabe nicht, nicht richtig oder nicht
     vollständig übermittelt.
 
-
-
-
-
 ## § 7 Zuständige Verwaltungsbehörde
 
 Die Zuständigkeit für die Verfolgung und Ahndung von
@@ -171,11 +160,9 @@ Ordnungswidrigkeiten nach § 6 wird auf die Bundesanstalt übertragen,
 soweit sie nach § 5 des Handelsklassengesetzes für die Überwachung der
 Einhaltung der Qualitätsnormen für Bananen zuständig ist.
 
-
 ## § 8 Inkrafttreten
 
 Diese Verordnung tritt am 1. Juli 1996 in Kraft.
-
 
 ## Schlußformel
 

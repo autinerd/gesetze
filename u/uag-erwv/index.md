@@ -16,14 +16,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1998, 338
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 3 des Umweltauditgesetzes vom 7. Dezember 1995 (BGBl.
 I S. 1591) verordnet die Bundesregierung nach Anhörung des
 Umweltgutachterausschusses:
-
 
 ## § 1 Einbeziehung weiterer Bereiche
 
@@ -32,7 +29,6 @@ Umweltmanagement und die Umweltbetriebsprüfung werden Körperschaften
 des öffentlichen Rechts und Unternehmen einbezogen, soweit sie eine
 Tätigkeit an einem oder mehreren Standorten ausüben, die zu den im
 Anhang zu dieser Verordnung genannten Bereichen gehört.
-
 
 ## § 2 Teilnahmeerklärung
 
@@ -67,19 +63,13 @@ Teilnahmeerklärungen:
 
     - ...".
 
-
-
-
-
 ## § 3 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anhang (zu § 1)
 

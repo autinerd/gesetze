@@ -24,7 +24,6 @@ Schaffung eines Gemeinschaftskodexes für Tierarzneimittel (ABl. EG Nr.
 L 311 S. 1), geändert durch die Richtlinie 2004/28/EG des Europäischen
 Parlaments und des Rates vom 31. März 2004 (ABl. EU Nr. L 136 S. 58).
 
-
 ## Eingangsformel
 
 Auf Grund des § 7 Abs. 1 und 1a Nr. 2, des § 17c Abs. 2, des § 17d
@@ -35,7 +34,6 @@ mit den §§ 18 und 24 Abs. 1 bis 3 des Tierseuchengesetzes in der
 Fassung der Bekanntmachung vom 22. Juni 2004 (BGBl. I S. 1260, 3588)
 verordnet das Bundesministerium für Ernährung, Landwirtschaft und
 Verbraucherschutz:
-
 
 ## Inhaltsverzeichnis
 
@@ -355,13 +353,7 @@ Verbraucherschutz:
 
     *   § 49
 
-
-
-
-
 ## Abschnitt 1 - Allgemeines
-
-
 
 ### § 1 Begriffsbestimmungen
 
@@ -495,10 +487,6 @@ Im Sinne dieser Verordnung sind
     Amerikanischen Pferdeencephalitis (alle Formen), der Japanischen
     B-Encephalitis und der Springkrankheit der Schafe (Looping Ill).
 
-
-
-
-
 ### § 2 Zuständige Behörden
 
 (1) Zuständig für die Durchführung dieser Verordnung sind
@@ -514,13 +502,7 @@ Behörden.
 2.  das Friedrich-Loeffler-Institut für die Zulassung und Chargenprüfung
     von Mitteln, die nicht zur Anwendung am Tier bestimmt sind.
 
-
-
-
-
 ## Abschnitt 2 - Herstellung von Mitteln
-
-
 
 ### § 3 Herstellungserlaubnis
 
@@ -596,7 +578,6 @@ zur Behebung der Mängel, im Falle der Nummer 2 bis zum Nachweis ihrer
 Behebung, oder bis zum Ablauf der zu ihrer Behebung von der
 zuständigen Behörde gesetzten Frist gehemmt.
 
-
 ### § 4 Inhalt der Herstellungserlaubnis
 
 (1) Die Herstellungserlaubnis beinhaltet mindestens:
@@ -640,7 +621,6 @@ Herstellungserlaubnis zur Weiterleitung an die Agentur.
 (3) Eine von der zuständigen Behörde vor dem 30. Oktober 2006 erteilte
 Herstellungserlaubnis gilt als Herstellungserlaubnis nach dieser
 Verordnung fort.
-
 
 ### § 5 Sachkundige Personen
 
@@ -695,7 +675,6 @@ Kontrollleiter oder verantwortliche Person nach Absatz 1 oder 2 tätig
 war, darf die jeweilige Tätigkeit nach Maßgabe dieser Verordnung
 weiter ausüben.
 
-
 ### § 6 Anzeigepflichten
 
 (1) Der Inhaber der Herstellungserlaubnis hat der zuständigen Behörde
@@ -718,7 +697,6 @@ weiter ausüben.
 Herstellungsleiters, des Kontrollleiters, der sachkundigen Person oder
 des Vertriebsleiters hat die Anzeige unverzüglich zu erfolgen.
 
-
 ### § 7 Ruhen der Erlaubnis
 
 Anstelle der Rücknahme oder des Widerrufs nach § 17d Abs. 5 Satz 1 des
@@ -727,7 +705,6 @@ der Rücknahme- oder Widerrufsgründe das Ruhen der
 Herstellungserlaubnis anordnen. Die zuständige Behörde unterrichtet
 die jeweils zuständige Zulassungsstelle unverzüglich über die
 Anordnung und das Ende des Ruhens der Herstellungserlaubnis.
-
 
 ### § 8 Anforderungen an die Herstellung oder das Lagern von Mitteln
 
@@ -783,7 +760,6 @@ Prüfung und Lagerung des Mittels maßgeblichen Vorschriften für jede
 Charge in einem Register oder einem vergleichbaren Dokument zu
 bescheinigen und die Chargenprotokolle zu unterzeichnen, bevor ein
 Mittel abgegeben wird.
-
 
 ### § 9 Besondere Anforderungen an Betriebe, die Mittel unter Verwendung exotischer Tierseuchenerreger herstellen
 
@@ -895,7 +871,6 @@ abgetötet worden sind. Milch ist unschädlich zu beseitigen oder vor
 Verfütterung an andere Tiere im isolierten Teil des Betriebs
 aufzukochen.
 
-
 ### § 10 Besondere Vorschriften für die Tierhaltung
 
 (1) Der Inhaber der Herstellungserlaubnis hat sicherzustellen, dass
@@ -958,7 +933,6 @@ macht. Die Aufzeichnungen umfassen:
 verantwortliche Person hat die Aufzeichnungen mindestens ein Jahr vom
 Tod oder von der Abgabe des jeweiligen Tieres an aufzubewahren.
 
-
 ### § 11 Verwendung von Tieren zur Herstellung oder Prüfung von Mitteln
 
 (1) Zur Herstellung oder Prüfung von Mitteln dürfen nur Tiere
@@ -988,7 +962,6 @@ mit der Überwachung beauftragten Tierarztes zur Erhebung eines
 Befundes insbesondere pathologisch zu untersuchen. Der Tierarzt hat
 hierüber eine Niederschrift anzufertigen.
 
-
 ### § 12 Wartezeiten
 
 Der Inhaber der Herstellungserlaubnis hat vor der Anwendung nicht
@@ -997,7 +970,6 @@ eine Wartezeit unter Berücksichtigung der Rückstandshöchstwerte nach
 der Tabelle 1 des Anhangs der Verordnung (EU) Nr. 37/2010 festzulegen.
 Er hat über die Ermittlung und die Einhaltung der Wartezeit
 Aufzeichnungen zu machen.
-
 
 ### § 13 Farbstoffe
 
@@ -1028,13 +1000,6 @@ sind, dürfen zur Färbung nur verwendet werden
     b)  diese in der Tabelle 1 des Anhangs der Verordnung (EU) Nr. 37/2010
         aufgeführt sind.
 
-
-
-
-
-
-
-
 ### § 14 Abfüllen der Charge
 
 Für das Abfüllen einer Charge gelten die Anforderungen an die
@@ -1047,10 +1012,6 @@ muss zusätzlich sicherstellen, dass beim Abfüllen einer Charge
 
 2.  repräsentative Proben für die Sterilitätsprüfung und die
     Identitätsprüfung entnommen werden.
-
-
-
-
 
 ### § 15 Aufbewahrung von Proben abgefüllter Chargen
 
@@ -1094,7 +1055,6 @@ hinsichtlich seiner Wirksamkeit, Reinheit oder Unschädlichkeit nicht
 entspricht, so ist die zuständige Zulassungsstelle unverzüglich zu
 unterrichten.
 
-
 ### § 16 Arzneibuch
 
 (1) Verfahren, die zur Herstellung und Prüfung von Mitteln angewandt
@@ -1121,7 +1081,6 @@ des Mittels nachweislich vor der Bekanntgabe der Neuregelung nach § 55
 Abs. 7 Satz 1 des Arzneimittelgesetzes oder dem Beginn der Geltung der
 Neufassung nach § 55 Abs. 7 Satz 2 des Arzneimittelgesetzes begonnen
 worden ist.
-
 
 ### § 17 Reinigung und Desinfektion, Beseitigung von Abfällen
 
@@ -1157,7 +1116,6 @@ Abfälle sind unschädlich zu beseitigen oder vor der Entfernung aus dem
 Betrieb so zu behandeln, dass sie keine gesundheitlichen Gefahren
 hervorrufen können.
 
-
 ### § 18 Bescheinigung der Guten Herstellungspraxis
 
 (1) Die zuständige Behörde erteilt dem Inhaber der
@@ -1185,7 +1143,6 @@ diejenige Behörde über die Erteilung der GMP-Bescheinigung, in deren
 Zuständigkeitsbereich der Inhaber der Herstellungserlaubnis seinen
 Sitz hat.
 
-
 ### § 19 Prüfung des Betriebs
 
 (1) Die zuständige Behörde prüft Betriebe, denen nach § 18 Abs. 1 eine
@@ -1200,10 +1157,7 @@ Abs. 3 entsprechend.
 (2) Die zuständige Behörde kann auf Antrag eines Herstellers von
 Ausgangsstoffen Prüfungen nach Absatz 1 oder § 18 durchführen.
 
-
 ## Abschnitt 3 - Zulassung von Mitteln
-
-
 
 ### § 20 Zulassungsantrag
 
@@ -1278,10 +1232,6 @@ beantragt wird, das
 2.  für ein Anwendungsgebiet vorgesehen ist, das eine Anwendung nur in
     geringem Umfang erwarten lässt.
 
-
-
-
-
 ### § 21 Zusammenfassung der Merkmale des Mittels
 
 (1) Dem Antrag auf Zulassung eines Mittels, das zur Anwendung am Tier
@@ -1291,7 +1241,6 @@ Mittels nach Artikel 14 Satz 1 der Richtlinie 2001/82/EG beizufügen.
 (2) Dem Antrag auf Zulassung eines Mittels, das nicht zur Anwendung am
 Tier bestimmt ist, ist zusätzlich eine Zusammenfassung der Merkmale
 des Mittels nach Anlage 2 beizufügen.
-
 
 ### § 22 Zulassungsverfahren
 
@@ -1347,7 +1296,6 @@ nach Satz 1 Nr. 2 an. Die Stellungnahme nach Satz 1 Nr. 1, der
 Beurteilungsbericht nach Satz 1 Nr. 2 oder dessen Änderungen nach Satz
 2 sind dem Antragsteller unverzüglich, jedoch spätestens 14 Tage vor
 deren jeweiliger Veröffentlichung nach § 31 Abs. 2 zu übermitteln.
-
 
 ### § 23 Zulassung
 
@@ -1460,7 +1408,6 @@ in der Fassung der Bekanntmachung vom 12. November 1993 (BGBl. I S.
 (BGBl. I S. 1248) geändert worden ist, gilt als Zulassung nach dieser
 Verordnung fort.
 
-
 ### § 24 Zulassung in sonstigen Fällen
 
 (1) Wird die Zulassung in mehr als einem Mitgliedstaat beantragt, hat
@@ -1519,7 +1466,6 @@ Maßgabe der von den Organen der Europäischen Union getroffenen
 Entscheidung zu entscheiden. Gegen Entscheidungen nach Satz 2 findet
 ein Vorverfahren nach § 68 der Verwaltungsgerichtsordnung nicht statt.
 
-
 ### § 25 Erlöschen der Zulassung
 
 (1) Die Zulassung nach § 23 oder § 24 erlischt,
@@ -1550,7 +1496,6 @@ wenn die zuständige Zulassungsstelle feststellt, dass eine der
 Voraussetzungen für die Rücknahme oder den Widerruf der Zulassung nach
 § 27 vorgelegen hat.
 
-
 ### § 26 Verlängern der Zulassung
 
 (1) Die Zulassung nach § 23 oder § 24 wird auf Antrag des
@@ -1573,7 +1518,6 @@ Zulassungsstelle ordnet eine Befristung um weitere fünf Jahre an. Die
 Befristung kann insbesondere angeordnet werden, soweit Risiken für die
 Gesundheit von Mensch und Tier bei der Anwendung des Mittels nicht
 auszuschließen sind.
-
 
 ### § 27 Rücknahme, Widerruf oder Ruhen der Zulassung
 
@@ -1627,7 +1571,6 @@ von Verwaltungsakten unberührt.
 
 (5) Für Zulassungen nach § 24 gelten die Absätze 1 bis 4 entsprechend.
 
-
 ### § 28 Pflichten des Zulassungsinhabers
 
 (1) Der Antragsteller teilt der zuständigen Zulassungsstelle unter
@@ -1664,7 +1607,6 @@ die Änderungen der zuständigen Zulassungsstelle unter Beifügung
 entsprechender Angaben und Unterlagen unverzüglich anzuzeigen.
 
 (4) Für Zulassungen nach § 24 gelten die Absätze 1 bis 3 entsprechend.
-
 
 ### § 29 Änderung der Zulassung eines Mittels, das zur Anwendung am Tier bestimmt ist
 
@@ -1709,7 +1651,6 @@ des Mittels nach Art oder Menge ist eine neue Zulassung zu beantragen.
 
 (5) Für Zulassungen nach § 24 gelten die Absätze 1 bis 4 entsprechend.
 
-
 ### § 29a Änderung der Zulassung eines Mittels, das nicht zur Anwendung am Tier bestimmt ist
 
 (1) Soweit sich Änderungen gegenüber den Angaben und Unterlagen nach §
@@ -1744,7 +1685,6 @@ darf erst vollzogen werden, wenn die zuständige Zulassungsstelle der
 
 (4) Im Falle einer Änderung der wirksamen Bestandteile des Mittels im
 Sinne der Nummer 4 der Anlage 1 ist eine neue Zulassung zu beantragen.
-
 
 ### § 30 Erfassen und Auswerten von Risiken
 
@@ -1842,10 +1782,6 @@ Person gilt § 6 Abs. 1 Satz 1 Nr. 2 und Satz 2 entsprechend.
     soweit die Risiken für die Beurteilung des Mittels von Bedeutung sein
     können.
 
-
-
-
-
 ### § 31 Bekanntmachung, Veröffentlichung
 
 (1) Die zuständige Zulassungsstelle macht im Bundesanzeiger bekannt:
@@ -1892,13 +1828,7 @@ Verfahren:
 
 3.  den Widerruf, die Rücknahme oder das Ruhen der Zulassung.
 
-
-
-
-
 ## Abschnitt 4 - Staatliche Chargenprüfung
-
-
 
 ### § 32 Durchführung der staatlichen Chargenprüfung
 
@@ -1992,7 +1922,6 @@ zuständigen Stelle eines anderen Mitgliedstaates, in dem das Mittel
 zugelassen ist, teilt die zuständige Zulassungsstelle dieser die
 Ergebnisse der Chargenprüfung mit.
 
-
 ### § 33 Umfang der staatlichen Chargenprüfung
 
 (1) Die zuständige Zulassungsstelle trifft die Entscheidung darüber,
@@ -2035,7 +1964,6 @@ Mittel Mängel hinsichtlich der Qualität, der Sicherheit oder der
 Unbedenklichkeit vorliegen, kann die zuständige Zulassungsstelle die
 Freistellung von der staatlichen Chargenprüfung widerrufen.
 
-
 ### § 34 Rücknahme der Freigabe
 
 (1) Die zuständige Zulassungsstelle kann die Freigabe einer Charge
@@ -2073,10 +2001,7 @@ oder den Widerruf der Freigabe einer Charge einschließlich der für die
 Rücknahme oder den Widerruf maßgeblichen Gründe, soweit es sich um die
 Charge eines Mittels handelt, das zur Anwendung am Tier bestimmt ist.
 
-
 ## Abschnitt 5 - Kennzeichnung
-
-
 
 ### § 35 Kennzeichnung
 
@@ -2189,7 +2114,6 @@ der Verpflichtung zulassen, dass Angaben auf Behältnissen oder den
 äußeren Umhüllungen in deutscher Sprache zu machen sind, soweit das
 Mittel ausschließlich zur Anwendung durch den Tierarzt bestimmt ist.
 
-
 ### § 36 Packungsbeilage
 
 (1) Ein Mittel darf ferner nur abgegeben werden, wenn ihm eine
@@ -2289,10 +2213,7 @@ Packungsbeilage entfallen, soweit die nach den Absätzen 1 und 2
 vorgeschriebenen Angaben auf dem Behältnis aufgeführt sind. Absatz 2
 Satz 2 gilt entsprechend.
 
-
 ## Abschnitt 6 - Großhandel und Einfuhr
-
-
 
 ### § 37 Pflichten des Großhändlers
 
@@ -2369,7 +2290,6 @@ nach § 5 Absatz 1 Nummer 1 oder eine nach abgeschlossenem
 Bachelorstudium der Biologie, der Chemie, der Biotechnologie oder der
 Pharmazie abgelegte Prüfung bestanden hat.
 
-
 ### § 38 Einfuhrerlaubnis
 
 (1) Wer gewerbsmäßig oder berufsmäßig Mittel, die zur Anwendung am
@@ -2444,7 +2364,6 @@ gilt § 8 entsprechend.
 17d Abs. 5 Satz 1 des Tierseuchengesetzes, für das Ruhen der
 Einfuhrerlaubnis § 7 entsprechend.
 
-
 ### § 39 Bescheinigung
 
 (1) Der Inhaber der Einfuhrerlaubnis darf Mittel aus einem Drittland,
@@ -2468,10 +2387,7 @@ absehen, wenn sie im Benehmen mit der jeweils zuständigen
 Zulassungsstelle feststellt, dass die Einfuhr des Mittels im
 öffentlichen Interesse liegt.
 
-
 ## Abschnitt 7 - Abgabe und Anwendung von Mitteln
-
-
 
 ### § 40 Vertriebsweg, Nachweispflicht
 
@@ -2559,7 +2475,6 @@ jährlich zu prüfen, ob der Bestand der Mittel, der sich aus dem Erwerb
 und der Abgabe ergibt, mit dem vorhandenen Bestand übereinstimmt. Über
 das Datum und das Ergebnis der Prüfung sind Aufzeichnungen zu machen.
 
-
 ### § 41 Abgabe durch Apotheken und zentrale Beschaffungsstellen, Verschreibungspflicht
 
 (1) Mittel, die zur Anwendung am Tier bestimmt sind, dürfen durch
@@ -2579,7 +2494,6 @@ entsprechend.
 (2) Zentrale Beschaffungsstellen dürfen Mittel, die zur Anwendung am
 Tier bestimmt sind, nur an Tierärzte oder an die jeweils für die
 Bekämpfung von Tierseuchen zuständigen Behörde abgeben.
-
 
 ### § 42 Abgabeverbote
 
@@ -2623,11 +2537,9 @@ oder an eine von diesem beauftragte Person, das bestimmt ist
 
 ist verboten.
 
-
 ### § 43 Anwendung von Mitteln
 
 Mittel dürfen an Tieren nur von Tierärzten angewendet werden.
-
 
 ### § 44 Anwendung durch den Tierhalter
 
@@ -2774,7 +2686,6 @@ angewendet werden:
 untersagen, wenn festgestellt wird, dass eine der Bestimmungen nach
 den Absätzen 1, 3, 4 und 6 nicht eingehalten worden ist.
 
-
 ### § 45 Vorrätighalten von Mitteln
 
 (1) Von Tierärzten und in tierärztlichen Bildungsstätten dürfen
@@ -2788,7 +2699,6 @@ Person abgegeben worden sind, dürfen nicht zusammen mit Lebensmitteln
 oder Bedarfsgegenständen im Sinne des § 2 Abs. 6 des Lebensmittel- und
 Futtermittelgesetzbuches gelagert werden.
 
-
 ### § 46 Befugnisse tierärztlicher Bildungsstätten
 
 Einrichtungen der tierärztlichen Bildungsstätten im Hochschulbereich
@@ -2800,10 +2710,7 @@ dieser Verordnung hat. Satz 1 gilt auch für Forschungseinrichtungen,
 soweit diese im Auftrag einer tierärztlichen Bildungsstätte im
 Hochschulbereich oder der pharmazeutischen Industrie tätig sind.
 
-
 ## Abschnitt 8 - Schlussbestimmungen
-
-
 
 ### § 47 Ordnungswidrigkeiten
 
@@ -2908,10 +2815,6 @@ Tierseuchengesetzes handelt, wer vorsätzlich oder fahrlässig
 
 22. entgegen § 45 Abs. 1 Satz 1 ein Mittel vorrätig hält.
 
-
-
-
-
 ### § 48 Übergangsvorschriften
 
 (1) Mittel, die sich am Tag vor dem Inkrafttreten dieser Verordnung im
@@ -2949,16 +2852,13 @@ Anwendung der Impfstoffe, für die die Genehmigung nach Satz 1 erteilt
 worden ist, darf durch den Tierhalter längstens bis zum 30. April 2007
 erfolgen.
 
-
 ### § 49 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
 ### Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ### Anlage 1 (zu § 20 Absatz 4 und § 29a Absatz 4)
 
@@ -3060,10 +2960,6 @@ sind:
 
 18. Lebenslauf mit Angaben über den Namen, die Ausbildung und die
     Berufstätigkeit des Sachverständigen.
-
-
-
-
 
 ### Anlage 2 (zu § 21 Abs. 2)
 

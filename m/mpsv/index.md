@@ -18,17 +18,13 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 V v. 10.5.2010 I 555
 
-
 ## Abschnitt 1 - Anwendungsbereich, Begriffsbestimmungen
-
-
 
 ### § 1 Anwendungsbereich
 
 Diese Verordnung regelt die Verfahren zur Erfassung, Bewertung und
 Abwehr von Risiken im Verkehr oder in Betrieb befindlicher
 Medizinprodukte.
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -72,13 +68,7 @@ Im Sinne dieser Verordnung ist
     Befreiung von der Genehmigungspflicht nach § 20 Absatz 1 Satz 2 des
     Medizinproduktegesetzes erteilt wurde, aufgetreten sind.
 
-
-
-
-
 ## Abschnitt 2 - Meldung von Vorkommnissen und Rückrufen
-
-
 
 ### § 3 Meldepflichten
 
@@ -138,7 +128,6 @@ oder eine Begründung übermittelt, warum kein Vorkommnis im Sinne des §
 Schließt sich die zuständige Bundesoberbehörde dieser Begründung nicht
 an, kann sie eine Meldung nach Absatz 1 verlangen.
 
-
 ### § 4 Ausnahmen von der Meldepflicht und besondere Verfahren
 
 (1) Die zuständige Behörde des Bundes kann für bereits ausreichend
@@ -157,7 +146,6 @@ zusammenfassend zu melden. Der Inhalt der Meldung nach Satz 1 wird
 zwischen der zuständigen Behörde des Bundes und dem Verantwortlichen
 nach § 5 des Medizinproduktegesetzes abgesprochen.
 
-
 ### § 5 Fristen
 
 (1) Der Verantwortliche nach § 5 des Medizinproduktegesetzes hat
@@ -171,7 +159,6 @@ Maßnahmen zu melden.
 (2) Die Meldungen und Mitteilungen nach § 3 Absatz 2 bis 5 haben
 unverzüglich zu erfolgen.
 
-
 ### § 6 Meldung durch Vertreiber
 
 Soweit im Auftrag des Verantwortlichen nach § 5 des
@@ -179,7 +166,6 @@ Medizinproduktegesetzes von einem in Deutschland ansässigen Vertreiber
 Meldungen erstattet werden, gelten die den Verantwortlichen nach § 5
 des Medizinproduktegesetzes betreffenden Vorschriften der §§ 3 bis 5
 entsprechend.
-
 
 ### § 7 Modalitäten der Meldung
 
@@ -197,10 +183,7 @@ machen die Informationen zur elektronischen Übermittlung der sonstigen
 Meldungen sowie die zur Verwendung empfohlenen Formblätter und deren
 Bezugsquellen auch auf ihren Internetseiten bekannt.
 
-
 ## Abschnitt 3 - Risikobewertung durch die zuständige Bundesoberbehörde
-
-
 
 ### § 8 Aufgaben der Behörde
 
@@ -209,7 +192,6 @@ meldenden Vorkommnisse, Rückrufe und schwerwiegenden unerwünschten
 Ereignisse, die ihr bekannt werden, eine Risikobewertung vorzunehmen.
 Sie hat wissenschaftliche Untersuchungen durchzuführen oder
 durchführen zu lassen, um mögliche Risiken zu ermitteln.
-
 
 ### § 9 Ziel und Inhalt der Risikobewertung
 
@@ -223,7 +205,6 @@ ein, ob diese Maßnahmen angemessen sind. Satz 2 gilt für
 eigenverantwortliche korrektive Maßnahmen des Sponsors oder der die
 klinische Prüfung oder Leistungsbewertungsprüfung durchführenden
 Personen entsprechend.
-
 
 ### § 10 Verfahren der Risikobewertung
 
@@ -244,7 +225,6 @@ Grund ihrer Kenntnisse und Erfahrungen zur Beantwortung spezifischer
 Fragestellungen beitragen können. Die zuständige Bundesoberbehörde hat
 durch geeignete organisatorische Maßnahmen sicherzustellen, dass
 besonders eilbedürftige Fälle unverzüglich bearbeitet werden.
-
 
 ### § 11 Befugnisse der Behörde
 
@@ -271,7 +251,6 @@ Mitwirkung des Verantwortlichen nach § 5 des Medizinproduktegesetzes,
 der keinen Sitz in Deutschland hat, nicht möglich ist, informiert die
 zuständige Bundesoberbehörde, soweit erforderlich, Betreiber und
 Anwender hierüber und kann vorsorgliche Maßnahmen empfehlen.
-
 
 ### § 12 Mitwirkungspflichten
 
@@ -315,7 +294,6 @@ Sachverhaltsaufklärung und Risikobewertung notwendig sind,
 elektronisch zur Verfügung zu stellen, sofern ihm dies möglich und
 zumutbar ist.
 
-
 ### § 13 Abschluss der Risikobewertung
 
 Die zuständige Bundesoberbehörde teilt das Ergebnis ihrer
@@ -327,10 +305,7 @@ durch die Bundesoberbehörde ist damit abgeschlossen. Auf der Grundlage
 neuer Erkenntnisse kann eine erneute Risikobewertung erforderlich
 werden.
 
-
 ## Abschnitt 4 - Korrektive Maßnahmen
-
-
 
 ### § 14 Eigenverantwortliche korrektive Maßnahmen des Verantwortlichen nach § 5 des Medizinproduktegesetzes
 
@@ -372,7 +347,6 @@ des Medizinproduktegesetzes durchgeführten Maßnahmen.
 Vertreiber durchgeführt werden, gelten die Vorschriften der Absätze 2
 bis 4 entsprechend.
 
-
 ### § 14a Eigenverantwortliche korrektive Maßnahmen des Sponsors von klinischen Prüfungen oder Leistungsbewertungsprüfungen
 
 (1) Treten während der klinischen Prüfung oder der
@@ -390,7 +364,6 @@ Ethik-Kommission über diese neuen Umstände.
 (3) Die zuständige Behörde überwacht die vom Sponsor durchgeführten
 Maßnahmen.
 
-
 ### § 15 Maßnahmen der zuständigen Behörden
 
 Soweit ein Verantwortlicher nach § 5 des Medizinproduktegesetzes die
@@ -401,7 +374,6 @@ des Medizinproduktegesetzes oder den in Deutschland ansässigen
 Vertreiber. Dies gilt für den Sponsor oder die die klinischen Prüfung
 oder die Leistungsbewertungsprüfung durchführenden Personen
 entsprechend.
-
 
 ### § 16 Verpflichtung zur Mitwirkung an den korrektiven Maßnahmen
 
@@ -436,7 +408,6 @@ Die Aufzeichnungen sind für die Dauer von 20 Jahren nach der
 Implantation aufzubewahren; danach sind sie unverzüglich zu
 vernichten.
 
-
 ### § 17 Maßnahmen der zuständigen Behörden gegen Betreiber und Anwender
 
 Soweit durch Maßnahmen nach den §§ 14 und 15 eine ausreichende
@@ -444,7 +415,6 @@ Risikominimierung nicht oder nicht hinreichend schnell erreicht wird
 oder erreicht werden kann, treffen die zuständigen Behörden die
 notwendigen Maßnahmen, um das Betreiben oder Anwenden der betroffenen
 Medizinprodukte zu untersagen oder einzuschränken.
-
 
 ### § 18 Notfallplanung der zuständigen Behörden
 
@@ -455,10 +425,7 @@ Bundesministerium für Gesundheit macht die Erreichbarkeit im
 Bundesanzeiger bekannt und sorgt für eine fortlaufende Aktualisierung
 dieser Bekanntmachung.
 
-
 ## Abschnitt 5 - Unterrichtungspflichten und Informationsaustausch
-
-
 
 ### § 19 Unterrichtung des Bundesministeriums für Gesundheit durch die zuständige Bundesbehörde
 
@@ -469,7 +436,6 @@ Vorkommnisse betreffen. Darüber hinaus unterrichtet sie das
 Bundesministerium für Gesundheit über alle korrektiven Maßnahmen, die
 in Deutschland im Verkehr oder in Betrieb befindliche Produkte
 betreffen.
-
 
 ### § 20 Informationsaustausch zwischen der zuständigen Bundesoberbehörde und den zuständigen Landesbehörden
 
@@ -523,7 +489,6 @@ Vertreter der Heilberufe und der Krankenhäuser, die Verbände der
 Medizinprodukte-Industrie sowie sonstige betroffene Behörden und
 Organisationen beteiligt werden.
 
-
 ### § 21 Europäischer und internationaler Informationsaustausch
 
 (1) Die zuständige Bundesoberbehörde unterrichtet die zuständigen
@@ -565,7 +530,6 @@ Gründen der Sicherheit abgelehnte, ausgesetzte oder beendete klinische
 Prüfungen sowie über angeordnete wesentliche Änderungen oder
 vorübergehende Unterbrechungen von klinischen Prüfungen. § 22a Absatz
 6 Satz 2 und 3 des Medizinproduktegesetzes gilt entsprechend.
-
 
 ### § 22 Unterrichtung sonstiger Behörden, Organisationen und Stellen
 
@@ -619,14 +583,12 @@ Nutzen-/Risiko-Profil der Verwendung des Stoffes in dem Medizinprodukt
 hat, und veranlasst gegebenenfalls eine Neubewertung des
 Konformitätsbewertungsverfahrens.
 
-
 ### § 23 Wissenschaftliche Aufarbeitung der durchgeführten Risikobewertungen
 
 Die zuständige Bundesoberbehörde führt eine regelmäßige
 wissenschaftliche Aufarbeitung der durchgeführten Risikobewertungen
 durch und gibt die Ergebnisse bekannt. Personenbezogene Daten sind
 dabei zu anonymisieren.
-
 
 ### § 24 Veröffentlichung von Informationen über das Internet
 
@@ -637,7 +599,6 @@ Die Information über korrektive Maßnahmen darf außer den Angaben nach
 § 14 Abs. 2 Satz 2 sowie der im Handelsregister als
 vertretungsberechtigt ausgewiesenen Personen keine personenbezogenen
 Daten enthalten.
-
 
 ### Anlage (zu § 16 Abs. 2 Satz 1)
 

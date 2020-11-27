@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 5 G v. 15.3.2012 II 178
 
-
 ## Abschnitt 1 - Steuerpflicht
-
-
 
 ### § 1 Steuerpflichtige Vorgänge
 
@@ -52,7 +49,6 @@ Zuletzt geändert durch
 Gesetzes über die Erwerbe von Todes wegen auch für Schenkungen und
 Zweckzuwendungen, die Vorschriften über Schenkungen auch für
 Zweckzuwendungen unter Lebenden.
-
 
 ### § 2 Persönliche Steuerpflicht
 
@@ -144,7 +140,6 @@ Festsetzungsfrist für die Steuer endet im Fall des Satzes 2 Nummer 1
 nicht vor Ablauf des vierten Jahres, nachdem die Finanzbehörde von dem
 Antrag Kenntnis erlangt.
 
-
 ### § 3 Erwerb von Todes wegen
 
 (1) Als Erwerb von Todes wegen gilt
@@ -224,10 +219,6 @@ Antrag Kenntnis erlangt.
     Gesetzbuchs) von dem Beschenkten nach den Vorschriften über die
     ungerechtfertigte Bereicherung erlangt.
 
-
-
-
-
 ### § 4 Fortgesetzte Gütergemeinschaft
 
 (1) Wird die Gütergemeinschaft beim Tod eines Ehegatten oder beim Tod
@@ -239,7 +230,6 @@ er ausschließlich den anteilsberechtigten Abkömmlingen angefallen.
 Anteil am Gesamtgut zu seinem Nachlaß. Als Erwerber des Anteils gelten
 diejenigen, denen der Anteil nach § 1490 Satz 2 und 3 des Bürgerlichen
 Gesetzbuchs zufällt.
-
 
 ### § 5 Zugewinngemeinschaft
 
@@ -270,7 +260,6 @@ wird der Zugewinn nach § 1371 Abs. 2 des Bürgerlichen Gesetzbuchs
 ausgeglichen, gehört die Ausgleichsforderung (§ 1378 des Bürgerlichen
 Gesetzbuchs) nicht zum Erwerb im Sinne der §§ 3 und 7.
 
-
 ### § 6 Vor- und Nacherbschaft
 
 (1) Der Vorerbe gilt als Erbe.
@@ -295,7 +284,6 @@ entspricht.
 
 (4) Nachvermächtnisse und beim Tod des Beschwerten fällige
 Vermächtnisse oder Auflagen stehen den Nacherbschaften gleich.
-
 
 ### § 7 Schenkungen unter Lebenden
 
@@ -412,7 +400,6 @@ unmittelbar oder mittelbar dieselben Gesellschafter zu gleichen
 Anteilen beteiligt sind. Die Sätze 1 und 2 gelten außer für
 Kapitalgesellschaften auch für Genossenschaften.
 
-
 ### § 8 Zweckzuwendungen
 
 Zweckzuwendungen sind Zuwendungen von Todes wegen oder freigebige
@@ -420,7 +407,6 @@ Zuwendungen unter Lebenden, die mit der Auflage verbunden sind,
 zugunsten eines bestimmten Zwecks verwendet zu werden, oder die von
 der Verwendung zugunsten eines bestimmten Zwecks abhängig sind, soweit
 hierdurch die Bereicherung des Erwerbers gemindert wird.
-
 
 ### § 9 Entstehung der Steuer
 
@@ -497,10 +483,7 @@ hierdurch die Bereicherung des Erwerbers gemindert wird.
 Buchstabe a gilt die Steuer für den Erwerb des belasteten Vermögens
 als mit dem Zeitpunkt des Erlöschens der Belastung entstanden.
 
-
 ## Abschnitt 2 - Wertermittlung
-
-
 
 ### § 10 Steuerpflichtiger Erwerb
 
@@ -616,12 +599,10 @@ gesellschaftsvertraglich festgelegte Abfindungsanspruch, so gehört nur
 der Abfindungsanspruch zum Vermögensanfall im Sinne des Absatzes 1
 Satz 2.
 
-
 ### § 11 Bewertungsstichtag
 
 Für die Wertermittlung ist, soweit in diesem Gesetz nichts anderes
 bestimmt ist, der Zeitpunkt der Entstehung der Steuer maßgebend.
-
 
 ### § 12 Bewertung
 
@@ -656,7 +637,6 @@ Bewertungsstichtag (§ 11) festgestellten Werts anzusetzen.
 
 (7) Ausländischer Grundbesitz und ausländisches Betriebsvermögen
 werden nach § 31 des Bewertungsgesetzes bewertet.
-
 
 ### § 13 Steuerbefreiungen
 
@@ -1022,7 +1002,6 @@ des Absatzes 1 Nr. 2 und 3 kann der Erwerber der Finanzbehörde bis zur
 Unanfechtbarkeit der Steuerfestsetzung erklären, daß er auf die
 Steuerbefreiung verzichtet.
 
-
 ### § 13a Steuerbefreiung für Betriebsvermögen, Betriebe der Land- und Forstwirtschaft und Anteile an Kapitalgesellschaften
 
 (1) Der Wert von Betriebsvermögen, land- und forstwirtschaftlichem
@@ -1224,7 +1203,6 @@ folgender Maßgabe gewährt wird:
 
 (9) Die Absätze 1 bis 8 gelten in den Fällen des § 1 Abs. 1 Nr. 4
 entsprechend.
-
 
 ### § 13b Begünstigtes Vermögen
 
@@ -1430,7 +1408,6 @@ um den Wert des übertragenen Vermögens.
 
 (4) Begünstigt sind 85 Prozent des in Absatz 1 genannten Vermögens.
 
-
 ### § 13c Steuerbefreiung für zu Wohnzwecken vermietete Grundstücke
 
 (1) Grundstücke im Sinne des Absatzes 3 sind mit 90 Prozent ihres
@@ -1469,10 +1446,7 @@ Grundstücksteile, die
 (4) Die Absätze 1 bis 3 gelten in den Fällen des § 1 Abs. 1 Nr. 4
 entsprechend.
 
-
 ## Abschnitt 3 - Berechnung der Steuer
-
-
 
 ### § 14 Berücksichtigung früherer Erwerbe
 
@@ -1504,7 +1478,6 @@ es lediglich zu einer Änderung der anrechenbaren Steuer führt.
 
 (3) Die durch jeden weiteren Erwerb veranlaßte Steuer darf nicht mehr
 betragen als 50 Prozent dieses Erwerbs.
-
 
 ### § 15 Steuerklassen
 
@@ -1589,7 +1562,6 @@ veranlasst ist. In diesem Fall gilt die Schenkung bei der
 Zusammenrechnung früherer Erwerbe (§ 14) als Vermögensvorteil, der dem
 Bedachten von dieser Person anfällt.
 
-
 ### § 16 Freibeträge
 
 (1) Steuerfrei bleibt in den Fällen der unbeschränkten Steuerpflicht
@@ -1624,7 +1596,6 @@ Bedachten von dieser Person anfällt.
 (2) An die Stelle des Freibetrags nach Absatz 1 tritt in den Fällen
 der beschränkten Steuerpflicht (§ 2 Absatz 1 Nummer 3) ein Freibetrag
 von 2 000 Euro.
-
 
 ### § 17 Besonderer Versorgungsfreibetrag
 
@@ -1667,7 +1638,6 @@ ermittelnden Kapitalwert dieser Versorgungsbezüge gekürzt. Bei der
 Berechnung des Kapitalwerts ist von der nach den Verhältnissen am
 Stichtag (§ 11) voraussichtlichen Dauer der Bezüge auszugehen.
 
-
 ### § 18 Mitgliederbeiträge
 
 Beiträge an Personenvereinigungen, die nicht lediglich die Förderung
@@ -1675,7 +1645,6 @@ ihrer Mitglieder zum Zweck haben, sind steuerfrei, soweit die von
 einem Mitglied im Kalenderjahr der Vereinigung geleisteten Beiträge
 300 Euro nicht übersteigen. § 13 Abs. 1 Nr. 16 und 18 bleibt
 unberührt.
-
 
 ### § 19 Steuersätze
 
@@ -1781,7 +1750,6 @@ b)  bei einem Steuersatz über 30 Prozent aus drei Vierteln,
 
 des die Wertgrenze übersteigenden Betrags gedeckt werden kann.
 
-
 ### § 19a Tarifbegrenzung beim Erwerb von Betriebsvermögen, von Betrieben der Land- und Forstwirtschaft und von Anteilen an Kapitalgesellschaften
 
 (1) Sind in dem steuerpflichtigen Erwerb einer natürlichen Person der
@@ -1826,10 +1794,7 @@ Ablauf des vierten Jahres, nachdem die Finanzbehörde von dem Verstoß
 gegen die Behaltensregelungen Kenntnis erlangt. § 13a Abs. 6 Satz 4
 bis 6 gilt entsprechend.
 
-
 ## Abschnitt 4 - Steuerfestsetzung und Erhebung
-
-
 
 ### § 20 Steuerschuldner
 
@@ -1874,7 +1839,6 @@ einem Steuerfall in ein Gebiet außerhalb des Geltungsbereichs dieses
 Gesetzes gezahlte oder außerhalb des Geltungsbereichs dieses Gesetzes
 wohnhaften Berechtigten zur Verfügung gestellte Betrag 600 Euro nicht
 übersteigt.
-
 
 ### § 21 Anrechnung ausländischer Erbschaftsteuer
 
@@ -1926,13 +1890,11 @@ die deutsche Sprache verlangt werden.
 in einem ausländischen Staat erhobene Steuer auf die Erbschaftsteuer
 anzurechnen, sind die Absätze 1 bis 3 entsprechend anzuwenden.
 
-
 ### § 22 Kleinbetragsgrenze
 
 Von der Festsetzung der Erbschaftsteuer ist abzusehen, wenn die
 Steuer, die für den einzelnen Steuerfall festzusetzen ist, den Betrag
 von 50 Euro nicht übersteigt.
-
 
 ### § 23 Besteuerung von Renten, Nutzungen und Leistungen
 
@@ -1951,7 +1913,6 @@ und 14 des Bewertungsgesetzes anzuwenden. Der Antrag auf Ablösung der
 Jahressteuer ist spätestens bis zum Beginn des Monats zu stellen, der
 dem Monat vorausgeht, in dem die nächste Jahressteuer fällig wird.
 
-
 ### § 24 Verrentung der Steuerschuld in den Fällen des § 1 Abs. 1 Nr. 4
 
 In den Fällen des § 1 Abs. 1 Nr. 4 kann der Steuerpflichtige
@@ -1960,10 +1921,7 @@ verlangen, daß die Steuer in 30 gleichen jährlichen Teilbeträgen
 die Tilgung und die Verzinsung der Steuer; dabei ist von einem
 Zinssatz von 5,5 Prozent auszugehen.
 
-
 ### § 25 (weggefallen)
-
-
 
 ### § 26 Ermäßigung der Steuer bei Aufhebung einer Familienstiftung oder Auflösung eines Vereins
 
@@ -1977,10 +1935,6 @@ a)  mit 50 Prozent, wenn seit der Entstehung der anrechenbaren Steuer
 
 b)  mit 25 Prozent, wenn seit der Entstehung der anrechenbaren Steuer mehr
     als zwei Jahre, aber nicht mehr als vier Jahre vergangen sind.
-
-
-
-
 
 ### § 27 Mehrfacher Erwerb desselben Vermögens
 
@@ -2048,7 +2002,6 @@ der sich bei Anwendung der in Absatz 1 genannten Prozentsätze auf die
 Steuer ergibt, die der Vorerwerber für den Erwerb desselben Vermögens
 entrichtet hat.
 
-
 ### § 28 Stundung
 
 (1) Gehört zum Erwerb Betriebsvermögen oder land- und
@@ -2073,7 +2026,6 @@ die Stundung unter den Voraussetzungen des Satzes 1 weiter zu
 gewähren. Die Stundung endet in den Fällen der Sätze 1 bis 3, soweit
 das erworbene Vermögen Gegenstand einer Schenkung im Sinne des § 7
 ist. Absatz 1 Satz 2 und 3 gilt entsprechend.
-
 
 ### § 29 Erlöschen der Steuer in besonderen Fällen
 
@@ -2122,7 +2074,6 @@ ist. Absatz 1 Satz 2 und 3 gilt entsprechend.
 zugewendeten Vermögens zugestanden haben, wie ein Nießbraucher zu
 behandeln.
 
-
 ### § 30 Anzeige des Erwerbs
 
 (1) Jeder der Erbschaftsteuer unterliegende Erwerb (§ 1) ist vom
@@ -2169,10 +2120,6 @@ Zweckzuwendung gerichtlich oder notariell beurkundet ist.
 6.  frühere Zuwendungen des Erblassers oder Schenkers an den Erwerber nach
     Art, Wert und Zeitpunkt der einzelnen Zuwendung.
 
-
-
-
-
 ### § 31 Steuererklärung
 
 (1) Das Finanzamt kann von jedem an einem Erbfall, an einer Schenkung
@@ -2210,7 +2157,6 @@ Steuerschuldner die Steuer selbst zu berechnen hat. Der
 Steuerschuldner hat die selbstberechnete Steuer innerhalb eines Monats
 nach Abgabe der Steuererklärung zu entrichten.
 
-
 ### § 32 Bekanntgabe des Steuerbescheides an Vertreter
 
 (1) In den Fällen des § 31 Abs. 5 ist der Steuerbescheid abweichend
@@ -2222,7 +2168,6 @@ ist aus dem Nachlaß Sicherheit zu leisten.
 (2) In den Fällen des § 31 Abs. 6 ist der Steuerbescheid dem
 Nachlaßpfleger bekanntzugeben. Absatz 1 Satz 2 und 3 ist entsprechend
 anzuwenden.
-
 
 ### § 33 Anzeigepflicht der Vermögensverwahrer, Vermögensverwalter und Versicherungsunternehmen
 
@@ -2262,7 +2207,6 @@ erstatten.
 (4) Zuwiderhandlungen gegen diese Pflichten werden als
 Steuerordnungswidrigkeit mit Geldbuße geahndet.
 
-
 ### § 34 Anzeigepflicht der Gerichte, Behörden, Beamten und Notare
 
 (1) Die Gerichte, Behörden, Beamten und Notare haben dem für die
@@ -2292,10 +2236,6 @@ Bedeutung sein können.
     Erbauseinandersetzungen, die beurkundeten Vereinbarungen der
     Gütergemeinschaft und die beurkundeten Schenkungen und
     Zweckzuwendungen.
-
-
-
-
 
 ### § 35 Örtliche Zuständigkeit
 
@@ -2336,10 +2276,7 @@ Auseinandersetzung eine Schenkung an den anderen Miterben ausführt.
 Finanzamt örtlich zuständig, das sich bei sinngemäßer Anwendung des §
 19 Absatz 2 der Abgabenordnung ergibt.
 
-
 ## Abschnitt 5 - Ermächtigungs- und Schlussvorschriften
-
-
 
 ### § 36 Ermächtigungen
 
@@ -2394,7 +2331,6 @@ dieses Gesetzes und der zu diesem Gesetz erlassenen
 Durchführungsverordnung in der jeweils geltenden Fassung satzweise
 numeriert mit neuem Datum und neuer Paragraphenfolge bekanntzumachen
 und dabei Unstimmigkeiten des Wortlauts zu beseitigen.
-
 
 ### § 37 Anwendung des Gesetzes
 
@@ -2483,7 +2419,6 @@ Dezember 2011 (BGBl. I S. 2592) finden auf Antrag auch auf Erwerbe
 Anwendung, für die die Steuer vor dem 14. Dezember 2011 entsteht,
 soweit Steuerbescheide noch nicht bestandskräftig sind.
 
-
 ### § 37a Sondervorschriften aus Anlass der Herstellung der Einheit Deutschlands
 
 (1) (weggefallen)
@@ -2528,10 +2463,7 @@ Demokratischen Republik ausgesetzt, ist diese Vorschrift weiterhin
 anzuwenden, auch wenn die Steuer infolge der Aussetzung der
 Versteuerung erst nach dem 31. Dezember 1990 entsteht.
 
-
 ### § 38 (weggefallen)
-
-
 
 ### § 39 (weggefallen)
 

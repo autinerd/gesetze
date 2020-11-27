@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1990, 2555, 2556
 
-
-
 ## (XXXX) Befragung der Bundesregierung
 
 

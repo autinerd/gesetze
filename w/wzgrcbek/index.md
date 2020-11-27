@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   RGBl II: 1924, 92
 
-
-
 ## (XXXX)
 
 (1) Zwischen dem deutschen Reich und Griechenland ist durch

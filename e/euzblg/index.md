@@ -19,18 +19,15 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 G v. 22.9.2009 I 3031
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## § 1
 
 In Angelegenheiten der Europäischen Union wirken die Länder durch den
 Bundesrat mit.
-
 
 ## § 2
 
@@ -41,14 +38,12 @@ Atomgemeinschaft vom 27. Juli 1957 (BGBl. II S. 753) umfassend und zum
 frühestmöglichen Zeitpunkt über alle Vorhaben im Rahmen der
 Europäischen Union, die für die Länder von Interesse sein könnten.
 
-
 ## § 3
 
 Vor der Festlegung der Verhandlungsposition zu einem Vorhaben der
 Europäischen Union gibt die Bundesregierung dem Bundesrat rechtzeitig
 Gelegenheit zur Stellungnahme binnen angemessener Frist, soweit
 Interessen der Länder berührt sind.
-
 
 ## § 4
 
@@ -61,7 +56,6 @@ Verhandlungsposition zu dem Vorhaben.
 (2) Gegenstand der Beratungen nach Absatz 1 ist auch die Anwendung der
 §§ 5 und 6 auf das Vorhaben. Dabei ist zwischen Bund und Ländern ein
 Einvernehmen anzustreben.
-
 
 ## § 5
 
@@ -91,7 +85,6 @@ erforderlich, wenn Entscheidungen zu Ausgabenerhöhungen oder
 Einnahmeminderungen für den Bund führen können.
 
 (3) (weggefallen)
-
 
 ## § 6
 
@@ -142,7 +135,6 @@ Benehmen.
 Aussprache genehmigt, findet Absatz 2 keine Anwendung, wenn diese
 Behandlung mit dem Vertreter der Länder abgestimmt worden ist.
 
-
 ## § 7
 
 (1) Die Bundesregierung macht auf Verlangen des Bundesrates
@@ -174,7 +166,6 @@ diesem Fall werden die Kosten des Rechtsmittelverfahrens von den
 Ländern getragen, welche die Einlegung des Rechtsmittels verlangt
 haben.
 
-
 ## § 8
 
 Die Länder können unmittelbar zu Einrichtungen der Europäischen Union
@@ -188,7 +179,6 @@ Rechte, die der Bundesrepublik Deutschland als Mitgliedstaat der
 Europäischen Union zustehen, auf einen Vertreter der Länder übertragen
 wird.
 
-
 ## § 9
 
 Einzelheiten der Unterrichtung und Beteiligung der Länder nach diesem
@@ -196,7 +186,6 @@ Gesetz sowie nach dem Integrationsverantwortungsgesetz vom 22.
 September 2009 (BGBl. I S. 3022) sind in der Anlage geregelt. Weitere
 Einzelheiten bleiben einer Vereinbarung zwischen Bund und Ländern
 vorbehalten.
-
 
 ## § 10
 
@@ -210,12 +199,10 @@ Bundesregierung unter den Voraussetzungen des § 5 zu berücksichtigen.
 Die Beteiligungsrechte des Bundesrates gemäß § 5 Absatz 2 bleiben
 unberührt.
 
-
 ## § 11
 
 Dieses Gesetz gilt nicht für den Bereich der Gemeinsamen Außen- und
 Sicherheitspolitik der Europäischen Union.
-
 
 ## § 12
 
@@ -223,12 +210,10 @@ Dieses Gesetz gilt auch für Vorhaben, die auf Beschlüsse des Rates und
 der im Rat vereinigten Vertreter der Regierungen der Mitgliedstaaten
 gerichtet sind.
 
-
 ## § 13
 
 Die in § 9 genannte Vereinbarung kann weitere Fälle vorsehen, in denen
 die Länder entsprechend diesem Gesetz mitwirken.
-
 
 ## § 14
 
@@ -245,18 +230,15 @@ Gemeinden und Gemeindeverbände, das sichert, daß diese auf Vorschlag
 der kommunalen Spitzenverbände mit drei gewählten Vertretern im
 Regionalausschuß vertreten sind.
 
-
 ## § 15
 
 -
-
 
 ## § 16
 
 Dieses Gesetz tritt mit dem Tage der Gründung der Europäischen Union
 in Kraft. Dieser Tag ist im Bundesgesetzblatt bekanntzugeben.
 Abweichend von Satz 1 tritt § 5 Abs. 3 am 1. Januar 1993 in Kraft.
-
 
 ## Anlage (zu § 9)
 

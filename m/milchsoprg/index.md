@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 2 Abs. 108 G v. 22.12.2011 I 3044
 
-
 ## § 1 Anwendungsbereich
 
 Dieses Gesetz dient der Durchführung eines Sonderprogramms für
@@ -43,7 +42,6 @@ Milchviehhalter mit
 
 
 nach Maßgabe der folgenden Vorschriften.
-
 
 ## § 2 Durchführung von Unionsrecht
 
@@ -86,10 +84,6 @@ Marktorganisationsgesetzes mit den Maßgaben, dass
 
 2.  Rechtsverordnungen auf Grund der in Nummer 1 bezeichneten Vorschriften
     stets der Zustimmung des Bundesrates bedürfen.
-
-
-
-
 
 ## § 3 Milcherzeuger
 
@@ -136,7 +130,6 @@ Vorlage der Kopie einer Milchgeldabrechnung oder im Falle des Absatzes
 nachweist, dass er in dem Monat vor Eintritt der höheren Gewalt oder
 der sonstigen außergewöhnlichen Umstände Milch erzeugt und vermarktet
 hat.
-
 
 ## § 4 Weitere Begriffsbestimmungen
 
@@ -215,7 +208,6 @@ außergewöhnlicher Umstände beeinträchtigt, tritt auf Antrag an die
 Stelle dieses Zeitraums der Monat vor dem Eintritt der höheren Gewalt
 oder der sonstigen außergewöhnlichen Umstände.
 
-
 ## § 5 Grünlandprämie
 
 (1) Ein Milcherzeuger erhält auf Antrag für die Jahre 2010 und 2011
@@ -255,7 +247,6 @@ beantragt worden ist und die berücksichtigungsfähig sind. Die
 zuständigen Behörden teilen diese Summe dem Bundesministerium bis zum
 15\. September des Antragsjahres mit, um die Festsetzung des Betrags
 der Grünlandprämie je Hektar zu ermöglichen.
-
 
 ## § 6 Zusätzliche Grünlandprämie
 
@@ -359,7 +350,6 @@ Betrags der zusätzlichen Grünlandprämie je Hektar zu ermöglichen. Das
 Bundesministerium macht den Betrag der zusätzlichen Grünlandprämie je
 Hektar im Bundesanzeiger bekannt.
 
-
 ## § 7 Kuhprämie
 
 (1) Ein Milcherzeuger erhält auf Antrag für die Jahre 2010 und 2011
@@ -393,12 +383,10 @@ Vorschriften der Abgabenordnung über die Steuerfestsetzung unter
 Vorbehalt der Nachprüfung für Steuern im Sinne des § 169 Absatz 2 Satz
 1 Nummer 2 der Abgabenordnung zu regeln.
 
-
 ## § 8 Aufbringen der Mittel
 
 Der Bund trägt die Geldleistungen für die in § 1 Nummer 1 Buchstabe b
 und Nummer 3 genannten Prämien.
-
 
 ## § 9 Weitere Verordnungsermächtigungen
 
@@ -422,13 +410,11 @@ Unterlagen, Pflichten zu Auskünften, zur Duldung von Besichtigungen
 der Geschäftsräume und Betriebsstätten sowie Unterstützungspflichten
 vorgeschrieben werden.
 
-
 ## § 10 Weitere Bestimmungen zum Verwaltungsverfahren
 
 Soweit nicht nach § 2 Absatz 2 das Marktorganisationsgesetz anzuwenden
 ist, gelten die §§ 10, 11, 14 und 33 Absatz 1 und 2 des
 Marktorganisationsgesetzes entsprechend.
-
 
 ## § 11 Bußgeldvorschriften
 
@@ -449,13 +435,11 @@ Marktorganisationsgesetzes entsprechend.
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünftausend
 Euro geahndet werden.
 
-
 ## § 12 Verkündung von Rechtsverordnungen
 
 Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz
 1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger
 verkündet werden.
-
 
 ## Anlage (zu § 4 Absatz 2)
 

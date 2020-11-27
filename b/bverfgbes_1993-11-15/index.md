@@ -19,14 +19,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Beschluss v. 22.11.2011; 2012 I 71
 
-
 ## Eingangsformel
 
 Das Plenum des Bundesverfassungsgerichts hat am 15. November 1993
 gemäß § 14 Abs. 4 des Gesetzes über das Bundesverfassungsgericht in
 der Fassung der Bekanntmachung vom 11. August 1993 (BGBl. I S. 1473)
 beschlossen:
-
 
 ## A.
 
@@ -133,18 +131,10 @@ III.
         denen Fragen einer Verletzung der Rechte aus Artikel 101 Abs. 1 GG
         oder Artikel 103 Abs. 1 GG überwiegen.
 
-
-
-
-
-
-
-
 ## B.
 
 Für bis zum 31. Dezember 1993 anhängig werdende Verfahren bleibt es
 bei der bisherigen Senatszuständigkeit.
-
 
 ## C.
 

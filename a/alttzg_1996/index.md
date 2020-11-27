@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 13 Abs. 7 G v. 12.4.2012 I 579
 
-
 ## § 1 Grundsatz
 
 (1) Durch Altersteilzeitarbeit soll älteren Arbeitnehmern ein
@@ -38,7 +37,6 @@ Lebensjahres nach dem 31. Dezember 2009 vermindern. Für die Anwendung
 des § 3 Nr. 28 des Einkommensteuergesetzes kommt es nicht darauf an,
 dass die Altersteilzeit vor dem 1. Januar 2010 begonnen wurde und
 durch die Bundesagentur nach § 4 gefördert wird.
-
 
 ## § 2 Begünstigter Personenkreis
 
@@ -119,7 +117,6 @@ Sozialgesetzbuch ist und die weiteren Voraussetzungen des Absatzes 2
 vorliegen. Die Leistungen nach § 3 Abs. 1 Nr. 1 sind nur in dem in
 Satz 1 genannten Zeitraum von sechs Jahren zu erbringen.
 
-
 ## § 3 Anspruchsvoraussetzungen
 
 (1) Der Anspruch auf die Leistungen nach § 4 setzt voraus, daß
@@ -198,7 +195,6 @@ Arbeitnehmers nach Abschluß der Ausbildung auf dem freigemachten oder
 durch Umsetzung freigewordenen Arbeitsplatz erst nach Erbringung der
 Arbeitsleistung erfolgt.
 
-
 ## § 4 Leistungen
 
 (1) Die Bundesagentur erstattet dem Arbeitgeber für längstens sechs
@@ -228,7 +224,6 @@ Fall vergleichbare Aufwendungen des Arbeitgebers bis zur Höhe des
 Beitrags gleich, den die Bundesagentur nach Absatz 1 Nr. 2 zu tragen
 hätte, wenn der Arbeitnehmer nicht von der Versicherungspflicht
 befreit wäre.
-
 
 ## § 5 Erlöschen und Ruhen des Anspruchs
 
@@ -289,7 +284,6 @@ entsprechend.
 (5) § 48 Abs. 1 Nr. 3 des Zehnten Buches Sozialgesetzbuch findet keine
 Anwendung.
 
-
 ## § 6 Begriffsbestimmungen
 
 (1) Das Regelarbeitsentgelt für die Altersteilzeitarbeit im Sinne
@@ -308,7 +302,6 @@ ermittelte durchschnittliche Arbeitszeit kann auf die nächste volle
 Stunde gerundet werden.
 
 (3) (weggefallen)
-
 
 ## § 7 Berechnungsvorschriften
 
@@ -348,7 +341,6 @@ beschäftigten Arbeitnehmer nach § 3 Abs. 1 Nr. 3 sind schwerbehinderte
 Menschen und Gleichgestellte im Sinne des Neunten Buches
 Sozialgesetzbuch zu berücksichtigen.
 
-
 ## § 8 Arbeitsrechtliche Regelungen
 
 (1) Die Möglichkeit eines Arbeitnehmers zur Inanspruchnahme von
@@ -374,7 +366,6 @@ war.
 Altersteilzeitarbeit, die die Beendigung des Arbeitsverhältnisses ohne
 Kündigung zu einem Zeitpunkt vorsieht, in dem der Arbeitnehmer
 Anspruch auf eine Rente wegen Alters hat, ist zulässig.
-
 
 ## § 8a Insolvenzsicherung
 
@@ -429,7 +420,6 @@ Insolvenzverfahrens nicht zulässig ist, sowie solchen juristischen
 Personen des öffentlichen Rechts, bei denen der Bund, ein Land oder
 eine Gemeinde kraft Gesetzes die Zahlungsfähigkeit sichert.
 
-
 ## § 9 Ausgleichskassen, gemeinsame Einrichtungen
 
 (1) Werden die Leistungen nach § 3 Abs. 1 Nr. 1 auf Grund eines
@@ -439,7 +429,6 @@ Tarifvertragsparteien die Leistungen nach § 4 der Ausgleichskasse.
 
 (2) Für gemeinsame Einrichtungen der Tarifvertragsparteien gilt Absatz
 1 entsprechend.
-
 
 ## § 10 Soziale Sicherung des Arbeitnehmers
 
@@ -495,7 +484,6 @@ Abs. 2 bis 3 des Vierten Buches Sozialgesetzbuch. Im Falle der
 Zahlungsunfähigkeit des Arbeitgebers gilt Satz 1 entsprechend, soweit
 Beiträge gezahlt werden.
 
-
 ## § 11 Mitwirkungspflichten des Arbeitnehmers
 
 (1) Der Arbeitnehmer hat Änderungen der ihn betreffenden Verhältnisse,
@@ -520,7 +508,6 @@ grob fahrlässig
 Die zu erstattende Leistung ist durch schriftlichen Verwaltungsakt
 festzusetzen. Eine Erstattung durch den Arbeitgeber kommt insoweit
 nicht in Betracht.
-
 
 ## § 12 Verfahren
 
@@ -574,13 +561,11 @@ Leistung anzurechnen. Sie sind zu erstatten, soweit mit der
 abschließenden Entscheidung ein Anspruch nicht oder nur in geringerer
 Höhe zuerkannt wird.
 
-
 ## § 13 Auskünfte und Prüfung
 
 Die §§ 315 und 319 des Dritten Buches und das Zweite Kapitel des
 Zehnten Buches Sozialgesetzbuch gelten entsprechend. § 2 Abs. 1 Nr. 3
 des Schwarzarbeitsbekämpfungsgesetzes bleibt unberührt.
-
 
 ## § 14 Bußgeldvorschriften
 
@@ -624,7 +609,6 @@ Gesetzes über Ordnungswidrigkeiten die Bundesagentur; diese ist auch
 ersatzpflichtig im Sinne des § 110 Abs. 4 des Gesetzes über
 Ordnungswidrigkeiten.
 
-
 ## § 15 Verordnungsermächtigung
 
 Das Bundesministerium für Arbeit und Soziales kann durch
@@ -636,7 +620,6 @@ Sinne des § 6 Abs. 1 in der bis zum 30. Juni 2004 gültigen Fassung ist
 auf den nächsten durch fünf teilbaren Euro-Betrag zu runden. Der
 Kalendermonat ist mit 30 Tagen anzusetzen.
 
-
 ## § 15a Übergangsregelung nach dem Gesetz zur Reform der Arbeitsförderung
 
 Haben die Voraussetzungen für die Erbringung von Leistungen nach § 4
@@ -644,7 +627,6 @@ vor dem 1. April 1997 vorgelegen, erbringt die Bundesagentur die
 Leistungen nach § 4 auch dann, wenn die Voraussetzungen des § 2 Abs. 1
 Nr. 2 und Abs. 2 Nr. 1 in der bis zum 31. März 1997 geltenden Fassung
 vorliegen.
-
 
 ## § 15b Übergangsregelung nach dem Gesetz zur Reform der gesetzlichen Rentenversicherung
 
@@ -654,14 +636,12 @@ Leistungen nach § 4 nicht, wenn mit der Altersteilzeit vor dem 1. Juli
 wegen Alters besteht, weil 45 Jahre mit Pflichtbeiträgen für eine
 versicherte Beschäftigung oder Tätigkeit vorliegen.
 
-
 ## § 15c Übergangsregelung nach dem Gesetz zur Fortentwicklung der Altersteilzeit
 
 Ist eine Vereinbarung über Altersteilzeitarbeit vor dem 1. Januar 2000
 abgeschlossen worden, erbringt die Bundesagentur die Leistungen nach §
 4 auch dann, wenn die Voraussetzungen des § 2 Abs. 1 Nr. 2 und 3 in
 der bis zum 1. Januar 2000 geltenden Fassung vorliegen.
-
 
 ## § 15d Übergangsregelung zum Zweiten Gesetz zur Fortentwicklung der Altersteilzeit
 
@@ -672,7 +652,6 @@ Vereinbarung nach Satz 1 Leistungen nach § 4 für einen Zeitraum von
 länger als fünf Jahren beansprucht werden, gilt § 5 Abs. 2 Satz 2 in
 der ab dem 1. Juli 2000 geltenden Fassung.
 
-
 ## § 15e Übergangsregelung nach dem Gesetz zur Reform der Renten wegen verminderter Erwerbsfähigkeit
 
 Abweichend von § 5 Abs. 1 Nr. 2 erlischt der Anspruch auf die
@@ -680,7 +659,6 @@ Leistungen nach § 4 nicht, wenn mit der Altersteilzeit vor dem 17.
 November 2000 begonnen worden ist und Anspruch auf eine ungeminderte
 Rente wegen Alters besteht, weil die Voraussetzungen nach § 236a Satz
 5 Nr. 1 des Sechsten Buches Sozialgesetzbuch vorliegen.
-
 
 ## § 15f Übergangsregelung nach dem Zweiten Gesetz für moderne Dienstleistungen am Arbeitsmarkt
 
@@ -692,7 +670,6 @@ versicherungspflichtig beschäftigt, wenn sie die bis zum 31. März 2003
 geltenden Voraussetzungen für das Vorliegen einer
 versicherungspflichtigen Beschäftigung weiterhin erfüllen.
 
-
 ## § 15g Übergangsregelung zum Dritten Gesetz für moderne Dienstleistungen am Arbeitsmarkt
 
 Wurde mit der Altersteilzeitarbeit vor dem 1. Juli 2004 begonnen, sind
@@ -701,7 +678,6 @@ Ausnahme des § 15 weiterhin anzuwenden. Auf Antrag des Arbeitgebers
 erbringt die Bundesagentur abweichend von Satz 1 Leistungen nach § 4
 in der ab dem 1. Juli 2004 geltenden Fassung, wenn die hierfür ab dem
 1\. Juli 2004 maßgebenden Voraussetzungen erfüllt sind.
-
 
 ## § 16 Befristung der Förderungsfähigkeit
 

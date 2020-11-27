@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 6 V v. 15.12.2004 II 1667
 
-
 ## Eingangsformel
 
 Es verordnen
@@ -42,23 +41,19 @@ Ordnungswidrigkeiten in der Fassung der Bekanntmachung vom 19. Februar
 26\. Januar 1998 (BGBl. I S. 156) geändert worden ist, das
 Bundesministerium für Verkehr, Bau- und Wohnungswesen:
 
-
 ## Art 1
 
 -
 
-
 ## Art 2
 
 (weggefallen)
-
 
 ## Art 3 Verbrennung von Schiffsabfällen
 
 Das Verbrennen der auf Schiffen erzeugten Abfälle an Bord von
 Schiffen, die das Küstenmeer der Bundesrepublik Deutschland in der
 Ostsee befahren, ist verboten.
-
 
 ## Art 4 Besichtigungen, Zeugnisse
 
@@ -78,11 +73,9 @@ Lloyds bedient.
 (3) Die Absätze 1 und 2 finden keine Anwendung auf Schiffe der
 Bundeswehr sowie Sportfahrzeuge.
 
-
 ## Art 5
 
 (weggefallen)
-
 
 ## Art 6 Entsorgung von Schiffsabfällen
 
@@ -98,7 +91,6 @@ Umweltschutz-See vom 19. Dezember 2002 (BGBl. 2002 II S. 2942) und dem
 Ostseegebiets (BGBl. 1994 II S. 1355, 1397) in eine Hafenauffanganlage
 zu entsorgen. Dies gilt entsprechen für alle Ladungsrückstände. Die
 Länder können Ausnahmen im Rahmen ihrer Kompetenzen bestimmen.
-
 
 ## Art 7 Ordnungswidrigkeiten
 
@@ -122,11 +114,9 @@ Schiffsführer oder sonst für den Schiffsbetrieb Verantwortlicher
 Ordnungswidrigkeiten nach Absatz 1 wird auf das Bundesamt für
 Seeschifffahrt und Hydrographie übertragen.
 
-
 ## Art 8
 
 -
-
 
 ## Art 9 Inkrafttreten
 
@@ -149,7 +139,6 @@ innerstaatlich nach Maßgabe dieser Verordnung angewendet.
 
 (3) Die Artikel 6 und 7 Abs. 1 Nr. 3 treten am 1. Januar 2003 in
 Kraft.
-
 
 ## Schlussformel
 

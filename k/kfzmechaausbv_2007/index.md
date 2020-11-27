@@ -22,7 +22,6 @@ Konferenz der Kultusminister der Länder in der Bundesrepublik
 Deutschland beschlossene Rahmenlehrplan für die Berufsschule werden
 demnächst als Beilage zum Bundesanzeiger veröffentlicht.
 
-
 ## Eingangsformel
 
 Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des
@@ -37,7 +36,6 @@ vom 31. Oktober 2006 (BGBl. I S. 2407) und § 26 zuletzt durch Artikel
 worden ist, verordnet das Bundesministerium für Wirtschaft und
 Technologie im Einvernehmen mit dem Bundesministerium für Bildung und
 Forschung:
-
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
@@ -54,11 +52,9 @@ Kraftfahrzeugmechatroniker/Kraftfahrzeugmechatronikerin wird
 
 staatlich anerkannt.
 
-
 ## § 2 Ausbildungsdauer
 
 Die Ausbildung dauert dreieinhalb Jahre.
-
 
 ## § 3 Zielsetzung der Berufsausbildung
 
@@ -69,7 +65,6 @@ Berufsbildungsgesetzes befähigt werden, die insbesondere
 selbstständiges Planen, Durchführen und Kontrollieren einschließt.
 Diese Befähigung ist auch in den Prüfungen nach den §§ 9 und 10
 nachzuweisen.
-
 
 ## § 4 Ausbildungsberufsbild
 
@@ -142,10 +137,6 @@ Kraftfahrzeugmechatronikerin gliedert sich wie folgt:
 
 19. Diagnostizieren, Instandhalten, Aus-, Um- und Nachrüsten.
 
-
-
-
-
 ## § 5 Ausbildungsrahmenplan
 
 Die Fertigkeiten, Kenntnisse und Fähigkeiten nach § 4 sollen unter
@@ -170,13 +161,11 @@ vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende
 Organisation der Ausbildung ist insbesondere zulässig, soweit
 betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
 ## § 6 Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des
 Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan
 zu erstellen.
-
 
 ## § 7 Schriftlicher Ausbildungsnachweis
 
@@ -185,7 +174,6 @@ führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
 Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
 Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
 durchzusehen.
-
 
 ## § 8 Abschlussprüfung/Gesellenprüfung
 
@@ -207,7 +195,6 @@ ist.
 (2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der
 Abschlussprüfung/Gesellenprüfung mit 35 Prozent, Teil 2 der
 Abschlussprüfung/Gesellenprüfung mit 65 Prozent gewichtet.
-
 
 ## § 9 Teil 1 der Abschlussprüfung/Gesellenprüfung
 
@@ -287,7 +274,6 @@ Absatz 4 genannten Nachweise ermöglichen.
 sollen das Fachgespräch in insgesamt zehn Minuten und die Bearbeitung
 der schriftlichen Aufgabenstellungen in 180 Minuten durchgeführt
 werden.
-
 
 ## § 10 Teil 2 der Abschlussprüfung/Gesellenprüfung
 
@@ -689,7 +675,6 @@ Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und
 das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2 : 1
 zu gewichten.
 
-
 ## § 11 Bestehensregelung
 
 Die Gesellenprüfung/Abschlussprüfung ist bestanden, wenn
@@ -712,7 +697,6 @@ Diagnosetechnik und Wirtschafts- und Sozialkunde müssen mindestens
 ausreichende Leistungen, in dem dritten Prüfungsbereich dürfen keine
 ungenügenden Leistungen erbracht worden sein.
 
-
 ## § 12 Bestehende Berufsausbildungsverhältnisse
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
@@ -720,11 +704,9 @@ Verordnung bestehen, sind die bisherigen Vorschriften weiter
 anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
 Anwendung der Vorschriften dieser Verordnung.
 
-
 ## § 13 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2007 in Kraft.
-
 
 ## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Kraftfahrzeugmechatroniker/zur Kraftfahrzeugmechatronikerin
 

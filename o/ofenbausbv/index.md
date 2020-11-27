@@ -23,7 +23,6 @@ in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die
 Berufsschule werden demnächst als Beilage zum Bundesanzeiger
 veröffentlicht.
 
-
 ## Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit § 26 der Handwerksordnung
@@ -36,7 +35,6 @@ I S. 3197) verordnet das Bundesministerium für Wirtschaft und
 Technologie im Einvernehmen mit dem Bundesministerium für Bildung und
 Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Ofen- und Luftheizungsbauer/Ofen- und
@@ -44,11 +42,9 @@ Luftheizungsbauerin wird gemäß § 25 der Handwerksordnung für die
 Ausbildung für das Gewerbe Nummer 2, Ofen- und Luftheizungsbauer, der
 Anlage A der Handwerksordnung staatlich anerkannt.
 
-
 ## § 2 Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Zielsetzung der Berufsausbildung
 
@@ -60,7 +56,6 @@ Berufsbildungsgesetzes befähigt werden, die insbesondere
 selbstständiges Planen, Durchführen und Kontrollieren einschließt.
 Diese Befähigung ist auch in den Prüfungen nach den §§ 8 und 9
 nachzuweisen.
-
 
 ## § 4 Ausbildungsberufsbild
 
@@ -128,10 +123,6 @@ Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 18. Kundenberatung.
 
-
-
-
-
 ## § 5 Ausbildungsrahmenplan
 
 Die Fertigkeiten, Kenntnisse und Fähigkeiten nach § 4 sollen nach der
@@ -142,12 +133,10 @@ zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
 zulässig, soweit betriebspraktische Besonderheiten die Abweichung
 erfordern.
 
-
 ## § 6 Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans
 für die Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 7 Schriftlicher Ausbildungsnachweis
 
@@ -156,7 +145,6 @@ führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
 Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
 Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
 durchzusehen.
-
 
 ## § 8 Zwischenprüfung
 
@@ -192,7 +180,6 @@ Arbeitsmittel festlegen, Messungen und Berechnungen durchführen,
 technische Unterlagen nutzen sowie den Zusammenhang von Technik,
 Arbeitssicherheit, Umweltschutz und Wirtschaftlichkeit berücksichtigen
 und mit praxisüblichen Unterlagen dokumentieren kann.
-
 
 ## § 9 Gesellenprüfung
 
@@ -373,7 +360,6 @@ Prüfung müssen mindestens ausreichende Leistungen, in dem weiteren
 Prüfungsbereich des schriftlichen Teils darf keine ungenügende
 Leistung erbracht worden sein.
 
-
 ## § 10 Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
@@ -381,18 +367,15 @@ bestehen, können unter Anrechnung der bisher zurückgelegten
 Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt
 werden, wenn die Vertragsparteien dies vereinbaren.
 
-
 ## § 11 Nichtanwenden von Vorschriften
 
 Die fachlichen Vorschriften zur Regelung des Lehrlingswesens im
 Backofenbauerhandwerk vom 28. Januar 1963 sind für neue
 Ausbildungsverhältnisse nicht mehr anzuwenden.
 
-
 ## § 12 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2006 in Kraft.
-
 
 ## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Ofen- und Luftheizungsbauer/zur Ofen- und Luftheizungsbauerin
 

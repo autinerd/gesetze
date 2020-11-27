@@ -19,12 +19,10 @@ Fundstelle
 Geändert durch
 :   Art. 3 G v. 27.4.1970 II 197
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetze
 beschlossen:
-
 
 ## Art 1
 
@@ -34,7 +32,6 @@ Kriegsopferversorgung und Beschäftigung
 Schwerbeschädigter              wird zugestimmt. Der Vertrag wird
 nachstehend veröffentlicht.
 
-
 ## Art 2
 
 Für die Durchführung der Heil- und Krankenbehandlung nach Artikel 3,
@@ -43,7 +40,6 @@ Krankenkassen gelten die §§ 18 bis 21 des Bundesversorgungsgesetzes
 oder die an ihre Stelle tretenden Vorschriften entsprechend, soweit
 sie sich nicht auf Leistungen beziehen, die nach Artikel 3 Abs. 1 des
 Vertrags ausgenommen sind.
-
 
 ## Art 2a
 
@@ -56,12 +52,10 @@ Geltungsbereichs des Grundgesetzes vom 9. Juni 1964 (Bundesgesetzbl. I
 S. 349) in der jeweils geltenden Fassung für die Versorgung der Opfer
 des Krieges in der Republik Österreich zuständig ist.
 
-
 ## Art 3
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
-
 
 ## Art 4
 

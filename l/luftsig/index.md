@@ -18,17 +18,13 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 7 G v. 29.7.2009 I 2424
 
-
 ## Abschnitt 1 - Allgemeines
-
-
 
 ### § 1 Zweck
 
 Dieses Gesetz dient dem Schutz vor Angriffen auf die Sicherheit des
 Luftverkehrs, insbesondere vor Flugzeugentführungen, Sabotageakten und
 terroristischen Anschlägen.
-
 
 ### § 2 Aufgaben
 
@@ -39,17 +35,13 @@ insbesondere Zuverlässigkeitsüberprüfungen nach § 7 vor, lässt nach §
 Sicherungsmaßnahmen der Flugplatzbetreiber nach § 8 und der
 Luftfahrtunternehmen nach § 9 an und überwacht deren Einhaltung.
 
-
 ## Abschnitt 2 - Sicherheitsmaßnahmen
-
-
 
 ### § 3 Allgemeine Befugnisse der Luftsicherheitsbehörde
 
 Die Luftsicherheitsbehörde trifft die notwendigen Maßnahmen, um eine
 im Einzelfall bestehende Gefahr für die Sicherheit des Luftverkehrs
 abzuwehren, soweit nicht § 5 ihre Befugnisse besonders regelt.
-
 
 ### § 4 Grundsatz der Verhältnismäßigkeit
 
@@ -62,7 +54,6 @@ erstrebten Erfolg erkennbar außer Verhältnis steht.
 
 (3) Eine Maßnahme ist nur solange zulässig, bis ihr Zweck erreicht ist
 oder sich zeigt, dass er nicht erreicht werden kann.
-
 
 ### § 5 Besondere Befugnisse der Luftsicherheitsbehörden
 
@@ -131,7 +122,6 @@ befugt, die erforderlichen Maßnahmen zu treffen.
 (6) Die Aufgaben und Befugnisse der Polizeivollzugsbehörden bleiben
 unberührt.
 
-
 ### § 6 Erhebung, Verarbeitung und Nutzung personenbezogener Daten
 
 (1) Die Befugnis zur Erhebung, Verarbeitung und Nutzung
@@ -146,7 +136,6 @@ Geltungsbereichs dieses Gesetzes übermitteln, wenn dies zur Abwehr
 unmittelbar drohender erheblicher Gefahren für die Sicherheit des
 Luftverkehrs, insbesondere bei erfolgten oder drohenden
 terroristischen Angriffen, erforderlich ist.
-
 
 ### § 7 Zuverlässigkeitsüberprüfungen
 
@@ -382,7 +371,6 @@ die Daten zu sperren. Gesperrte Daten dürfen ohne Einwilligung des
 Betroffenen nur verwendet werden, soweit dies zur Abwehr einer
 erheblichen Gefahr unerlässlich ist.
 
-
 ### § 8 Sicherungsmaßnahmen der Flugplatzbetreiber
 
 (1) Der Unternehmer eines Verkehrsflughafens ist zum Schutz des
@@ -470,7 +458,6 @@ dieses Gesetzes finden die Vorschriften des Preisrechts bei
 öffentlichen Aufträgen entsprechende Anwendung. Unterschreitet der
 Marktpreis die Selbstkosten, ist der Marktpreis maßgeblich.
 
-
 ### § 9 Sicherungsmaßnahmen der Luftfahrtunternehmen
 
 (1) Ein Luftfahrtunternehmen, das Luftfahrzeuge mit mehr als 5,7
@@ -550,7 +537,6 @@ Luftfahrzeugen kann von der Luftsicherheitsbehörde zur Durchführung
 der Sicherungsmaßnahmen entsprechend den Absätzen 1 bis 3 verpflichtet
 werden, soweit dies zur Sicherung des Flugbetriebs erforderlich ist.
 
-
 ### § 10 Zugangsberechtigung
 
 Die Luftsicherheitsbehörde entscheidet, welchen Personen bei Vorliegen
@@ -566,7 +552,6 @@ Gültigkeitsdauer oder auf Verlangen zurückzugeben. Der Ausweisinhaber
 darf den Ausweis keinem Dritten überlassen. Sein Verlust ist der
 Ausgabestelle unverzüglich anzuzeigen. Der Zugang zu den nicht
 allgemein zugänglichen Bereichen ohne Berechtigung ist verboten.
-
 
 ### § 11 Verbotene Gegenstände
 
@@ -604,7 +589,6 @@ erforderliche Erlaubnis zum Mitführen dieser Gegenstände vorliegt. Die
 Erlaubnis kann mit einer Nebenbestimmung versehen werden.
 
 (3) § 27 Abs. 2 des Luftverkehrsgesetzes bleibt unberührt.
-
 
 ### § 12 Aufgaben und Befugnisse des verantwortlichen Luftfahrzeugführers
 
@@ -658,10 +642,7 @@ Pflichten des verantwortlichen Luftfahrzeugführers oder seiner
 Beauftragten bei Ausübung der Aufgaben und Befugnisse nach den
 Absätzen 1 bis 3 entsteht.
 
-
 ## Abschnitt 3 - Unterstützung und Amtshilfe durch die Streitkräfte
-
-
 
 ### § 13 Entscheidung der Bundesregierung
 
@@ -695,7 +676,6 @@ zu unterrichten.
 Unterstützung durch die Streitkräfte richtet sich nach den
 Vorschriften dieses Gesetzes.
 
-
 ### § 14 Einsatzmaßnahmen, Anordnungsbefugnis
 
 (1) Zur Verhinderung des Eintritts eines besonders schweren
@@ -721,7 +701,6 @@ berechtigte Mitglied der Bundesregierung anordnen. Im Übrigen kann der
 Bundesminister der Verteidigung den Inspekteur der Luftwaffe generell
 ermächtigen, Maßnahmen nach Absatz 1 anzuordnen.
 
-
 ### § 15 Sonstige Maßnahmen
 
 (1) Die Maßnahmen nach § 14 Abs. 1 und 3 dürfen erst nach Überprüfung
@@ -741,10 +720,7 @@ unverzüglich über Situationen zu informieren, die zu Maßnahmen nach §
 (3) Die sonstigen Vorschriften und Grundsätze der Amtshilfe bleiben
 unberührt.
 
-
 ## Abschnitt 4 - Zuständigkeit und Verfahren
-
-
 
 ### § 16 Zuständigkeiten
 
@@ -780,7 +756,6 @@ Belange des Flugplatzbetreibers oder des Luftfahrtunternehmens
 auswirken, werden vom Bundesministerium des Innern im Einvernehmen mit
 dem Bundesministerium für Verkehr, Bau und Stadtentwicklung
 angeordnet.
-
 
 ### § 17 Ermächtigung zum Erlass von Rechtsverordnungen
 
@@ -836,10 +811,7 @@ kann ferner bestimmt werden, dass das Bundesministerium des Innern von
 den vorgeschriebenen Sicherungsmaßnahmen allgemein oder im Einzelfall
 Ausnahmen zulassen kann, soweit Sicherheitsbelange dies gestatten.
 
-
 ## Abschnitt 5 - Bußgeld- und Strafvorschriften
-
-
 
 ### § 18 Bußgeldvorschriften
 
@@ -881,7 +853,6 @@ Nr. 6 mit einer Geldbuße bis zu fünfundzwanzigtausend Euro geahndet
 werden. Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes
 über Ordnungswidrigkeiten ist die Luftsicherheitsbehörde.
 
-
 ### § 19 Strafvorschriften
 
 (1) Wer entgegen § 11 Abs. 1 die dort bezeichneten Gegenstände in
@@ -892,7 +863,6 @@ Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe bestraft.
 (2) Wer die Tat fahrlässig begeht, wird mit Freiheitsstrafe bis zu
 sechs Monaten oder mit Geldstrafe bis zu einhundertachtzig Tagessätzen
 bestraft.
-
 
 ### § 20 Bußgeld- und Strafvorschriften zu § 12
 
@@ -916,13 +886,7 @@ schwerer Fall liegt in der Regel vor, wenn
 2.  der Täter durch eine Gewalttätigkeit den Angegriffenen in die Gefahr
     des Todes oder einer schweren Gesundheitsbeschädigung bringt.
 
-
-
-
-
 ## Abschnitt 6 - Schlussbestimmung
-
-
 
 ### § 21 Grundrechtseinschränkungen
 

@@ -18,7 +18,6 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 24.6.2002 I 2562
 
-
 ## § 1 Anwendungsbereich
 
 (1) Die Entgelte für die Nutzung von Bodenflächen auf Grund von
@@ -37,10 +36,6 @@ dieser Verordnung angemessen gestaltet werden.
 
 
 3.  für Überlassungsverträge.
-
-
-
-
 
 ## § 2 Abweichende Entgeltvereinbarungen
 
@@ -62,7 +57,6 @@ bleiben unberührt. Solche Vereinbarungen sind auch weiterhin zulässig.
 Verordnung ist nicht zulässig, soweit und solange eine Erhöhung nach
 dem 2. Oktober 1990 durch Vereinbarung ausgeschlossen worden ist oder
 der Ausschluss sich aus den Umständen ergibt.
-
 
 ## § 3 Schrittweise Entgelterhöhung bis zur Höhe der ortsüblichen Entgelte
 
@@ -108,7 +102,6 @@ Anzahl von vergleichbaren Grundstücken mit nach dem 2. Oktober 1990
 vereinbarten Entgelten fehlt. Der Bodenwert ist auf der Grundlage der
 tatsächlichen Nutzung des Grundstücks zu ermitteln.
 
-
 ## § 4 Entgelterhöhung bei vertragwidriger Nutzung
 
 (1) Im Falle einer vertragwidrigen Nutzung des Grundstücks dürfen die
@@ -122,7 +115,6 @@ von staatlichen Stellen der Deutschen Demokratischen Republik
 genehmigt oder gebilligt, so gilt die Nutzung nicht als
 vertragswidrig.
 
-
 ## § 5 Entgelterhöhung bei Garagenflächen
 
 (1) Die Nutzungsentgelte für Garagengrundstücke sind ab dem 1.
@@ -134,7 +126,6 @@ jedoch auf mindestens 60 Deutsche Mark je Stellplatz im Jahr.
 die mit einer oder mehreren Garagen oder ähnlichen Einstellplätzen für
 Kraftfahrzeuge bebaut sind und deren wesentlicher Nutzungszweck das
 Einstellen von Kraftfahrzeugen ist.
-
 
 ## § 6 Erklärung über die Entgelterhöhung
 
@@ -170,7 +161,6 @@ entrichtete Zahlungen sind anzurechnen.
 (3) Ist streitig, ob das verlangte Entgelt die Grenze der ortsüblichen
 Entgelte einhält, so trifft die Beweislast den Überlassenden.
 
-
 ## § 7 Gutachten und Auskünfte über die ortsüblichen Entgelte
 
 (1) Auf Antrag einer Vertragspartei hat der nach § 192 des
@@ -185,14 +175,12 @@ die Grundstücke liegen.
 über die vereinbarten Nutzungsentgelte in anonymisierter Form zu
 erteilen.
 
-
 ## § 8 Kündigung des Nutzers
 
 Der Nutzer ist berechtigt, das Nutzungsverhältnis bis zum Ablauf des
 Monats, der auf den Zugang der Erklärung über die Entgelterhöhung
 folgt, für den Ablauf des letzten Monats, bevor die Erhöhung wirksam
 wird, zu kündigen.
-
 
 ## § 9
 

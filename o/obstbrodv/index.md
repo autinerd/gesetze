@@ -22,7 +22,6 @@ Zuletzt geändert durch
 Die v tritt gem. § 6 satz 2 am 28.7.1998 außer kraft, wenn nicht mit zustimmung des bundesrates etwas anderes verordnet wird. § 6 satz 2 aufgeh. durch
 :   Art. 1 Nr. 2 V v. 1.7.1998 I 1773 mWv 7.7.1998; dadurch ist die Geltung der V über den 28.7.1998 hinaus verlängert worden.
 
-
 ## Eingangsformel
 
 Auf Grund des § 6 Abs. 1 Nr. 18 und der §§ 15 und 16, jeweils in
@@ -34,13 +33,11 @@ Bundesministerium für Ernährung, Landwirtschaft und Forsten im
 Einvernehmen mit den Bundesministerien der Finanzen und für
 Wirtschaft:
 
-
 ## § 1 Anwendungsbereich
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung der
 Rechtsakte der Europäischen Gemeinschaft zur Sanierung der
 gemeinschaftlichen Apfel-, Birnen- und Pfirsicherzeugung.
-
 
 ## § 2 Festsetzungsverfahren
 
@@ -97,7 +94,6 @@ unverzüglich mit.
 
 (7) Die Rodungsprämie wird durch Bescheid festgesetzt.
 
-
 ## § 3 Duldungs- und Mitwirkungspflichten
 
 (1) Der Beginn der Rodung ist der zuständigen Stelle mindestens fünf
@@ -117,7 +113,6 @@ gestatten und die für die Überprüfung der Prämiengewährung in Betracht
 kommenden Aufzeichnungen, Belege und sonstigen Schriftstücke auf
 Verlangen zur Einsicht vorzulegen, Auskunft zu erteilen und die
 erforderliche Unterstützung zu gewähren.
-
 
 ## § 4 Mitteilungen
 
@@ -154,7 +149,6 @@ Durchführungsbestimmungen zur Verordnung (EG) Nr. 2200/97 des Rates
 zur Sanierung der gemeinschaftlichen Apfel-, Birnen-, Pfirsich- und
 Nektarinenerzeugung (ABl. EG Nr. L 341 S. 3).
 
-
 ## § 5 Aufhebung von Rechtsvorschriften
 
 (1) Folgende Vorschriften werden aufgehoben:
@@ -177,7 +171,6 @@ genannten Verordnung mit jeweils der Maßgabe weiter anzuwenden, daß
 die Verpflichtung der Länder zur Unterrichtung der Bundesanstalt für
 Landwirtschaft und Ernährung über die Ergebnisse der Kontrollen
 jährlich bis zum 31. Juli zu erfüllen ist.
-
 
 ## § 6 Inkrafttreten, Außerkrafttreten
 

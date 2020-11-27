@@ -18,25 +18,18 @@ Fundstelle
 Geändert durch
 :   Art. 17 G v. 19.2.2006 I 334
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art 1 bis 9 -
-
-
 
 ## Art 10 -
 
 (weggefallen)
 
-
 ## Art 11 und 12 -
-
-
 
 ## Art 13 - Aufhebung von Vorschriften
 
@@ -48,10 +41,7 @@ bis 3 genannten Verordnungen sind bis zum Inkrafttreten der auf Grund
 der §§ 22 und 26 Abs. 5 Nr. 3 des Bundesbesoldungsgesetzes zu
 erlassenden Rechtsverordnungen weiter anzuwenden.
 
-
 ## Art 14 - Übergangsvorschriften
-
-
 
 ## § 1 Überleitungszulage
 
@@ -82,14 +72,12 @@ nach bisherigem Recht und dem nach diesem Gesetz zustehenden Betrag
 gewährt. Auf die Überleitungszulage werden alle Erhöhungen der
 Bundesbankzulage angerechnet.
 
-
 ## § 2 Wahrung des Besitzstandes nach den bisherigen Vorschriften
 
 Abweichend von Artikel 3 Nr. 5 gelten für Beamte, Richter und
 Soldaten, die am Tage vor dem Inkrafttreten dieses Gesetzes die
 Voraussetzungen für die Zahlung von Ausgleichszulagen nach den
 bisherigen Vorschriften erfüllt haben, diese insoweit weiter.
-
 
 ## § 3 Änderung des Ortszuschlages nach bisherigem Recht
 
@@ -115,7 +103,6 @@ Abs. 1 des Beamtenversorgungsgesetzes für dritte und weitere Kinder
 zustanden; dies gilt entsprechend für Versorgungsempfänger, die aus
 einem Soldatenverhältnis in den Ruhestand getreten sind.
 
-
 ## § 4 Übergangsvorschriften für Landesrecht
 
 (1) Bemißt sich die Höhe von Zulagen, Aufwandsentschädigungen und
@@ -135,7 +122,6 @@ Stufe 1 und dem nach Landesrecht maßgeblichen niedrigeren Ortszuschlag
 für Beamte in Gemeinschaftsunterkunft nach den im Zeitpunkt des
 Inkrafttretens des Gesetzes maßgebenden Sätzen.
 
-
 ## § 5 Fortgeltung bisheriger Vorschriften
 
 Bemißt sich die Höhe von Zulagen, Aufwandsentschädigungen und anderen
@@ -144,14 +130,12 @@ die Höhe dieser Leistungen die vor dem Inkrafttreten dieses Gesetzes
 geltenden Bemessungsgrundlagen weiter, soweit dieses Gesetz nichts
 anderes bestimmt.
 
-
 ## § 6 Geringfügigkeitsgrenze
 
 Überleitungs- und Ausgleichszulagen nach diesem Gesetz und nach
 anderen besoldungsrechtlichen und versorgungsrechtlichen Vorschriften
 werden nicht ausgezahlt, wenn der Auszahlungsbetrag 5 Deutsche Mark
 nicht übersteigt.
-
 
 ## § 7 Austauschregelung
 
@@ -161,10 +145,7 @@ des Bundesbesoldungsgesetzes ausgewiesenen Beträge durch ein Gesetz
 erhöht werden, sind die Anlagen IV bis IX des Bundesbesoldungsgesetzes
 durch Anlagen, die diese erhöhten Beträge enthalten, zu ersetzen.
 
-
 ## Art 15 - Schlußvorschriften
-
-
 
 ## § 1 Neufassungen
 
@@ -177,13 +158,11 @@ eintretenden Änderungen im Bundesgesetzblatt bekanntmachen.
 Gesetz geänderten Verordnungen in der vom Inkrafttreten dieses
 Gesetzes an geltenden Fassung im Bundesgesetzblatt bekanntmachen.
 
-
 ## § 2 Rückkehr zum einheitlichen Verordnungsrang
 
 Die auf Artikel 9 beruhenden Teile der dort geänderten
 Rechtsverordnung können auf Grund der einschlägigen Ermächtigung durch
 Rechtsverordnung geändert werden.
-
 
 ## § 3 Inkrafttreten
 
@@ -194,7 +173,6 @@ Buchstabe a und Nr. 12, soweit § 69b Abs. 2 (Beamtenversorgungsgesetz)
 eingefügt wird, Artikel 5 Nr. 2 Buchstabe c, Nr. 7 Buchstabe a und Nr.
 12, soweit § 95 Abs. 2 (Soldatenversorgungsgesetz) eingefügt wird,
 Artikel 9 Nr. 6 sowie Artikel 10 in Kraft.
-
 
 ## § 4
 

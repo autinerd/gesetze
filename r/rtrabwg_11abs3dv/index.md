@@ -18,15 +18,12 @@ Fundstelle
 Geändert durch
 :   Art. 15 Abs. 85 G v. 5.2.2009 I 160
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 11 Abs. 3 des Rechtsträger-Abwicklungsgesetzes vom 6.
 September 1965 (Bundesgesetzbl. I S. 1065) wird im Einvernehmen mit
 dem Bundesminister für Arbeit und Sozialordnung mit Zustimmung des
 Bundesrates verordnet:
-
 
 ## § 1
 
@@ -63,7 +60,6 @@ vom 15. Juli 1965 (Bundesgesetzbl. I S. 609)              und frühere
 auf Gesetz beruhende einmalige Zahlungen (z.B. Weihnachtszuwendungen,
 Überbrückungszulagen).
 
-
 ## § 2
 
 Der Anspruch auf Alters- und Hinterbliebenenversorgung gilt in Höhe
@@ -71,7 +67,6 @@ der Bruttobeträge der Zahlungen (§ 1) als abgetreten, die sich nach
 Anwendung von Ruhens-, Kürzungs- oder Anrechnungsvorschriften ergeben,
 zuzüglich der bis zum Ablauf des 30. April 1967 gezahlten
 Kinderzuschläge.
-
 
 ## § 3
 
@@ -91,7 +86,6 @@ Halbwaisengeldes zugrunde zu legen. Die Bruttobeträge sind um 1/36 zu
 erhöhen. Die Vorschrift des § 53 des Beamtenversorgungsgesetzes ist
 nicht anzuwenden.
 
-
 ## § 4
 
 Für Zeiten zwischen dem 1. April 1951 und der Beendigung der
@@ -107,7 +101,6 @@ Artikel 131 des Grundgesetzes und der ergänzenden Übergangs- und
 Schlußvorschriften, auch auf Grund von Soll- oder Kannvorschriften,
 ergeben würden.
 
-
 ## § 5
 
 Wird eine auf der Nachversicherung nach § 72 des Gesetzes zu Artikel
@@ -120,7 +113,6 @@ die Bruttoversorgungsbezüge treten, die sich bei Anwendung der
 Vorschriften des Kapitels I des Gesetzes zu Artikel 131 des
 Grundgesetzes und der ergänzenden Übergangs- und Schlußvorschriften,
 auch auf Grund von Soll- oder Kannvorschriften, ergeben würden.
-
 
 ## § 6
 
@@ -149,7 +141,6 @@ Berechnung mitzuteilen. Der Träger der Versorgungslast hat dem Träger
 der Rentenversicherung die Verwaltungskosten in Höhe von 1 v.H. des in
 Satz 1 genannten Kapitalbetrages zu ersetzen.
 
-
 ## § 7
 
 Besteht der Träger der Versorgungslast aus mehreren
@@ -164,18 +155,15 @@ erstatteten, nach § 61 Abs. 4 des Gesetzes zu Artikel 131 des
 Grundgesetzes aus Bundesmitteln vorschußweise geleisteten Zahlungen
 bleiben unberührt.
 
-
 ## § 8
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit § 30 des
 Rechtsträger-Abwicklungsgesetzes auch im Land Berlin.
 
-
 ## § 9
 
 Diese Verordnung tritt mit Wirkung vom 1. November 1965 in Kraft.
-
 
 ## Schlußformel
 

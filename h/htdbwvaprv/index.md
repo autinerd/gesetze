@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 366
 
-
 ## Eingangsformel
 
 Auf Grund des § 26 Absatz 1 Nummer 2 und Absatz 2 des
@@ -25,9 +24,7 @@ Verbindung mit § 10 Absatz 1 der Bundeslaufbahnverordnung vom 12.
 Februar 2009 (BGBl. I S. 284) verordnet das Bundesministerium der
 Verteidigung:
 
-
 ## Kapitel 1 - Allgemeine Vorschriften
-
 
 ### § 1 Ziel, Bestandteile und Schwerpunkte des Vorbereitungsdienstes
 
@@ -84,7 +81,6 @@ Grundlage der Ausbildung ist eines der folgenden Fachgebiete:
 (4) Die Referendarinnen und Referendare sind zum Selbststudium
 verpflichtet; das Selbststudium ist zu fördern.
 
-
 ### § 2 Schwerbehinderte und diesen gleichgestellte behinderte Menschen
 
 (1) Schwerbehinderten und diesen gleichgestellten behinderten Menschen
@@ -104,9 +100,7 @@ behinderter Mensch eine Beteiligung nicht wünscht.
 (3) Entscheidungen über Prüfungserleichterungen trifft das
 Oberprüfungsamt.
 
-
 ## Kapitel 2 - Zulassung und Einstellung
-
 
 ### § 3 Einstellungsbehörde
 
@@ -120,7 +114,6 @@ Bundeslaufbahnverordnung).
 (2) Das Bundesministerium der Verteidigung kann die Zuständigkeiten
 nach Absatz 1 auf Behörden in seinem Geschäftsbereich übertragen.
 
-
 ### § 4 Einstellungsvoraussetzungen
 
 In den Vorbereitungsdienst kann eingestellt werden, wer
@@ -132,10 +125,6 @@ In den Vorbereitungsdienst kann eingestellt werden, wer
 2.  ein mit einem Master abgeschlossenes Hochschulstudium oder einen
     gleichwertigen Abschluss in einer Fachrichtung besitzt, die einem der
     Fachgebiete nach § 1 Absatz 3 Satz 2 zugeordnet werden kann.
-
-
-
-
 
 ### § 5 Ausschreibung, Bewerbung
 
@@ -172,13 +161,6 @@ Bewerbung sind beizufügen:
 
 
     d)  Kopien der Zeugnisse über berufliche Tätigkeiten.
-
-
-
-
-
-
-
 
 ### § 6 Auswahlverfahren
 
@@ -249,7 +231,6 @@ Ersatzmitglieder der Auswahlkommission, die einer anderen Behörde im
 Geschäftsbereich des Bundesministeriums der Verteidigung angehören,
 werden durch das Bundesministerium der Verteidigung bestellt.
 
-
 ### § 7 Einstellung in den Vorbereitungsdienst
 
 Vor der Einstellung haben die Bewerberinnen und Bewerber dafür zu
@@ -288,15 +269,12 @@ Die Kosten des Gesundheitszeugnisses trägt die Einstellungsbehörde.
 Statt die Kosten zu übernehmen, kann die Bundeswehrverwaltung die
 Einstellungsuntersuchung selbst vornehmen.
 
-
 ### § 8 Dauer des Vorbereitungsdienstes
 
 Der Vorbereitungsdienst soll die Mindestdauer von 18 Monaten nicht
 überschreiten.
 
-
 ## Kapitel 3 - Vorbereitungsdienst
-
 
 ### § 9 Gliederung des Vorbereitungsdienstes
 
@@ -359,7 +337,6 @@ werden.
 Referendare einem Einstufungstest in Englisch oder Französisch
 unterzogen.
 
-
 ### § 10 Lehrgang „Aufgaben und Organisation der Bundeswehr und Statusfragen“
 
 Die Referendarinnen und Referendare werden mit den Rechten und
@@ -374,7 +351,6 @@ Referendarinnen und Referendare sollen am Ende des Lehrgangs über ein
 Grundwissen verfügen, auf dem die weitere Ausbildung aufbaut.
 Einzelheiten regelt der Lehrplan.
 
-
 ### § 11 Vorstellung der Verwendungsmöglichkeiten in der Fachrichtung Wehrtechnik des höheren technischen Verwaltungsdienstes
 
 Die Referendarinnen und Referendare werden bei verschiedenen
@@ -384,7 +360,6 @@ Einsatzmöglichkeiten im nationalen und internationalen Rüstungsbereich
 aufgezeigt. Einzelheiten regelt der Ausbildungsrahmenplan, den die
 Einstellungsbehörde mit Zustimmung des Bundesministeriums der
 Verteidigung erstellt.
-
 
 ### § 12 Lehrgänge „Bundeswehr und Sicherheitspolitik“, „Technisches Projektmanagement“, „Wirtschaftlichkeit im Projektmanagement“ und „Führungs- und Lenkungsaufgaben“
 
@@ -417,7 +392,6 @@ Wehrtechnik, Funktionen im technischen Projektmanagement sowie
 Führungsfunktionen in der Bundeswehrverwaltung wahrzunehmen.
 Einzelheiten regelt der Lehrplan.
 
-
 ### § 13 Lehrgang „Allgemeine Systemtechnik“
 
 Die Referendarinnen und Referendare lernen die Anforderungen, die sich
@@ -428,7 +402,6 @@ hinaus werden Kenntnisse der in der Bundeswehr eingeführten
 Waffensysteme sowie der Waffenwirkungen und des Schutzes gegen
 Waffensysteme und Waffenwirkungen vermittelt. Einzelheiten regelt der
 Lehrplan.
-
 
 ### § 14 Lehrgang „Fachtechnische Grundlagen einzelner wehrtechnischer Fachgebiete“
 
@@ -509,7 +482,6 @@ Hochschulstudium erworbenen Kenntnisse, ergänzt um die Besonderheiten
 der Wehrtechnik, in ihrem wehrtechnischen Fachgebiet anzuwenden.
 Einzelheiten regelt der Lehrplan.
 
-
 ### § 15 Lehrgang „Systemtechnik Land“, „Systemtechnik Luft“, „Systemtechnik See“ oder „Systemtechnik Informationstechnologie“
 
 Den Referendarinnen und Referendaren werden, aufbauend auf den
@@ -521,7 +493,6 @@ oder Systemtechnik Informationstechnologie vermittelt. Die Zuordnung
 der Referendarinnen und Referendare zu einem der Lehrgänge erfolgt
 durch die Einstellungsbehörde. Einzelheiten regelt der Lehrplan.
 
-
 ### § 16 Lehrgang „Rechtsgrundlagen in der Praxis“
 
 Den Referendarinnen und Referendaren werden die Rechts- und
@@ -529,7 +500,6 @@ Verwaltungskenntnisse vermittelt, die für die spätere
 Aufgabenwahrnehmung, insbesondere in Projektleitungen mit einer
 Vielzahl von Schnittstellen zum nichttechnischen Bereich, erforderlich
 sind. Einzelheiten regelt der Lehrplan.
-
 
 ### § 17 Praktische Ausbildung
 
@@ -563,7 +533,6 @@ Urteilsfähigkeit ausbilden.
 
 (4) Aufgaben, die nicht dem Zweck der Ausbildung entsprechen, dürfen
 den Referendarinnen und Referendaren nicht übertragen werden.
-
 
 ### § 18 Ausbildungsleitung, Ausbildungsbeauftragte, Ausbilderinnen und Ausbilder
 
@@ -608,9 +577,7 @@ erforderlich, werden sie von anderen Dienstgeschäften entlastet. Die
 Ausbilderinnen und Ausbilder unterrichten die Ausbildungsbeauftragten
 regelmäßig über den erreichten Ausbildungsstand.
 
-
 ## Kapitel 4 - Prüfungen
-
 
 ### § 19 Oberprüfungsamt
 
@@ -640,7 +607,6 @@ gleiche Bewertungsmaßstäbe angelegt werden.
 
 (5) Die Leitung der Abteilung Wehrtechnik unterstützt die Direktorin
 oder den Direktor bei der Wahrnehmung der Aufgaben.
-
 
 ### § 20 Prüfungskommissionen
 
@@ -716,7 +682,6 @@ beschlussfähig, wenn alle Mitglieder anwesend sind. Sie entscheidet
 mit Stimmenmehrheit. Bei Stimmengleichheit gibt die Stimme der oder
 des Vorsitzenden den Ausschlag. Stimmenthaltung ist nicht zulässig.
 
-
 ### § 21 Große Staatsprüfung
 
 (1) In der Großen Staatsprüfung ist festzustellen, ob die
@@ -768,7 +733,6 @@ Prüfungskommission anwesend sein. Die Aufsichtsbefugnisse des
 Oberprüfungsamts und des Bundesministeriums der Verteidigung bleiben
 hiervon unberührt.
 
-
 ### § 22 Prüfungsort, Prüfungstermin
 
 (1) Die Termine für die Aushändigung und Präsentation der Praxisarbeit
@@ -778,7 +742,6 @@ werden von der Ausbildungsleitung nach Maßgabe des § 24 festgesetzt.
 Aufsichtsarbeiten und der mündlichen Prüfung fest. Die
 Ausbildungsleitung sorgt dafür, dass die Referendarinnen und
 Referendare hierüber rechtzeitig informiert werden.
-
 
 ### § 23 Schriftliche Aufsichtsarbeiten
 
@@ -846,7 +809,6 @@ als mit „ungenügend (0 Rangpunkte)“ bewertet.
 Aufsichtsarbeit den Referendarinnen und Referendaren spätestens zwei
 Monate nach dem Prüfungstag schriftlich bekannt.
 
-
 ### § 24 Praxisarbeit
 
 (1) Die Praxisarbeit soll erkennen lassen, dass die Referendarin oder
@@ -900,7 +862,6 @@ Abgabetermin schriftlich bekannt.
 frühestens fünf Jahre nach Beendigung des Vorbereitungsdienstes
 verlangen, dass ihr oder ihm die Arbeit überlassen wird.
 
-
 ### § 25 Zulassung zur mündlichen Prüfung
 
 (1) Das Oberprüfungsamt lässt Referendarinnen und Referendare zur
@@ -911,7 +872,6 @@ sind.
 (2) Die Ausbildungsleitung teilt den Referendarinnen und Referendaren
 im Auftrag des Oberprüfungsamts die Zulassung oder Nichtzulassung
 rechtzeitig vor der mündlichen Prüfung mit.
-
 
 ### § 26 Mündliche Prüfung
 
@@ -949,7 +909,6 @@ Einzelbewertungen geteilt.
 (7) Die Mitglieder der Prüfungskommission haben den Ablauf der Prüfung
 schriftlich zu dokumentieren.
 
-
 ### § 27 Verhinderung, Rücktritt, Säumnis
 
 (1) Wer durch eine Erkrankung oder sonstige nicht von ihm zu
@@ -974,7 +933,6 @@ Entschuldigung einen Prüfungsteil ganz oder teilweise, entscheidet das
 Oberprüfungsamt, ob die nicht erbrachte Prüfungsleistung nachgeholt
 werden kann oder mit „ungenügend (0 Rangpunkte)“ bewertet wird oder ob
 die gesamte Prüfung für nicht bestanden erklärt wird.
-
 
 ### § 28 Täuschung, Ordnungsverstoß
 
@@ -1012,7 +970,6 @@ einer Rechtsbehelfsbelehrung zu versehen.
 
 (5) Die Referendarin oder der Referendar ist vor der Entscheidung nach
 den Absätzen 2 bis 4 zu hören.
-
 
 ### § 29 Bewertung von Prüfungsleistungen
 
@@ -1173,10 +1130,6 @@ wie folgt zugeordnet:
 
     *   0
 
-
-
-
-
 ### § 30 Gesamtergebnis
 
 (1) Die Große Staatsprüfung ist bestanden, wenn jeder Prüfungsteil
@@ -1229,7 +1182,6 @@ Rangpunkte mit und erläutert sie auf Wunsch kurz mündlich.
 (4) Das Gesamtergebnis der Großen Staatsprüfung ist schriftlich zu
 dokumentieren.
 
-
 ### § 31 Zeugnisse, Ende des Beamtenverhältnisses
 
 (1) Das Oberprüfungsamt erteilt den Referendarinnen und Referendaren,
@@ -1258,14 +1210,12 @@ bestanden erklärt worden sind, sind zurückzugeben.
 Einstellungsbehörde ein Dienstzeugnis, das auch die Dauer der
 Ausbildung und die Ausbildungsinhalte umfasst.
 
-
 ### § 32 Erwerb der Laufbahnbefähigung
 
 Mit Bestehen der Großen Staatsprüfung erwerben die Referendarinnen und
 Referendare die Befähigung für den höheren technischen
 Verwaltungsdienst. Sie sind berechtigt, die Berufsbezeichnung
 „Bauassessorin“ oder „Bauassessor“ zu führen.
-
 
 ### § 33 Prüfungsakten, Einsichtnahme
 
@@ -1281,7 +1231,6 @@ vernichten.
 (2) Die Referendarinnen und Referendare können nach Abschluss der
 mündlichen Prüfung Einsicht in die sie betreffenden Teile der
 Prüfungsakten nehmen.
-
 
 ### § 34 Wiederholung
 
@@ -1300,9 +1249,7 @@ bei der Wiederholung erreichten Rangpunkte und Noten ersetzen die
 bisherigen. Der Vorbereitungsdienst wird bis zum Ablauf der
 Wiederholungsfrist verlängert.
 
-
 ## Kapitel 5 - Aufstieg
-
 
 ### § 35 Aufstiegsverfahren
 
@@ -1319,9 +1266,7 @@ berücksichtigen.
 (2) Die Einstellungsbehörde gestaltet die berufspraktische Einführung
 nach § 39 Absatz 3 der Bundeslaufbahnverordnung.
 
-
 ## Kapitel 6 - Schlussvorschriften
-
 
 ### § 36 Übergangsregelung
 
@@ -1330,7 +1275,6 @@ Referendarinnen und Referendare, die ihren Vorbereitungsdienst vor dem
 Bestimmungen fort. Aufstiegsbeamtinnen und Aufstiegsbeamte, die ihre
 Aufstiegsausbildung vor dem 1. Dezember 2009 begonnen haben, setzen
 sie nach den bisher geltenden Bestimmungen fort.
-
 
 ### § 37 Inkrafttreten, Außerkrafttreten
 

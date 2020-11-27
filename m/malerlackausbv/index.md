@@ -22,7 +22,6 @@ BundesrepublikDeutschland beschlossene Rahmenlehrplan für die
 Berufsschule werdendemnächst als Beilage im Bundesanzeiger
 veröffentlicht.
 
-
 ## Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 der
@@ -35,7 +34,6 @@ Oktober 2002 (BGBl. I S. 4206) verordnet das Bundesministerium für
 Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium für
 Bildung und Forschung:
 
-
 ## § 1 Staatliche Anerkennung der Ausbildungsberufe im Rahmen einer Stufenausbildung
 
 Der Ausbildungsberuf Bauten- und Objektbeschichter/Bauten- und
@@ -43,7 +41,6 @@ Objektbeschichterin sowie der darauf aufbauende Ausbildungsberuf Maler
 und Lackierer/Malerin und Lackiererin werden gemäß § 25 der
 Handwerksordnung für die Ausbildung für das Gewerbe Nr. 13, Maler und
 Lackierer, der Anlage A der Handwerksordnung staatlich anerkannt.
-
 
 ## § 2 Ausbildungsdauer
 
@@ -80,7 +77,6 @@ einer Verordnung gemäß § 27a Abs. 1 der Handwerksordnung als erstes
 Jahr der Berufsausbildung anzurechnen ist, beginnen die betriebliche
 Ausbildung im zweiten Ausbildungsjahr.
 
-
 ## § 3 Berufsfeldbreite Grundbildung und Zielsetzung der Berufsausbildung
 
 (1) Die Ausbildung im ersten Ausbildungsjahr vermittelt eine
@@ -95,7 +91,6 @@ einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Abs. 2 des
 Berufsbildungsgesetzes befähigt werden, die insbesondere selbständiges
 Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung
 ist auch in den Prüfungen nach den §§ 10 bis 15 nachzuweisen.
-
 
 ## § 4 Berufsausbildung in überbetrieblichen Ausbildungsstätten
 
@@ -127,13 +122,6 @@ sofern dies nicht im Ausbildungsbetrieb erfolgen kann:
 
     c)  aus der Anlage 2 der Fachrichtung C Bauten- und Korrosionsschutz die
         laufenden Nummern 3, 5 und 6.
-
-
-
-
-
-
-
 
 ## § 5 Ausbildungsberufsbild Bauten- und Objektbeschichter/Bauten- und Objektbeschichterin
 
@@ -180,10 +168,6 @@ Fertigkeiten und Kenntnisse:
 
 
 13. Durchführen von qualitätssichernden Maßnahmen.
-
-
-
-
 
 ## § 6 Ausbildungsberufsbild Maler und Lackierer/Malerin und Lackiererin
 
@@ -308,13 +292,6 @@ die folgenden Fertigkeiten und Kenntnisse:
 
     m)  Durchführen von qualitätssichernden Maßnahmen.
 
-
-
-
-
-
-
-
 ## § 7 Ausbildungsrahmenpläne
 
 Die in § 5 genannten Fertigkeiten und Kenntnisse sollen nach der in
@@ -328,13 +305,11 @@ abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes
 ist insbesondere zulässig, soweit betriebspraktische Besonderheiten
 die Abweichung erfordern.
 
-
 ## § 8 Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des
 Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan
 zu erstellen.
-
 
 ## § 9 Berichtsheft
 
@@ -342,7 +317,6 @@ Die Auszubildenden haben ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden
 haben das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 10 Zwischenprüfung für den Ausbildungsberuf Bauten- und Objekt- beschichter/Bauten- und Objektbeschichterin
 
@@ -370,7 +344,6 @@ Gestaltungsgrundsätzen in Betracht.
 planen, notwendige Werkstoffe und Werkzeuge festlegen, den
 Arbeitsplatz einrichten, den Unfallschutz, den Gesundheitsschutz bei
 der Arbeit und den Umweltschutz beachten kann.
-
 
 ## § 11 Abschlussprüfung für den Ausbildungsberuf Bauten- und Objekt- beschichter/Bauten- und Objektbeschichterin
 
@@ -505,7 +478,6 @@ in zwei der Prüfungsbereiche mindestens ausreichende Leistungen zu
 erbringen. Werden Prüfungsleistungen in einem der Prüfungsbereiche mit
 ungenügend bewertet, so ist die Prüfung nicht bestanden.
 
-
 ## § 12 Zwischenprüfung für den Ausbildungsberuf Maler und Lackierer/Malerin und Lackiererin
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
@@ -519,7 +491,6 @@ Objektbeschichter/Bauten- und Objektbeschichterin als Zwischenprüfung
 im Sinne des § 39 der Handwerksordnung. Die inhaltlichen Anforderungen
 der Zwischenprüfung nach Absatz 1 ergeben sich aus § 11 Abs. 1 bis 4
 dieser Verordnung.
-
 
 ## § 13 Gesellenprüfung für den Ausbildungsberuf Maler und Lackierer/Malerin und Lackiererin in der Fachrichtung Gestaltung und Instandhaltung
 
@@ -672,7 +643,6 @@ jeweils mindestens eine ausreichende Leistung erbracht wurde. Außerdem
 darf in keinem der fachbezogenen Prüfungsbereiche eine ungenügende
 Leistung erbracht worden sein.
 
-
 ## § 14 Gesellenprüfung für den Ausbildungsberuf Maler und Lackierer/Malerin und Lackiererin in der Fachrichtung Kirchenmalerei und Denkmalpflege
 
 (1) Die Gesellenprüfung erstreckt sich auf die in den Anlagen 1 und 2
@@ -821,7 +791,6 @@ fachbezogenen Prüfungsbereiche in Teil B (Absatz 3 Nr. 1 und 2)
 jeweils mindestens eine ausreichende Leistung erbracht wurde. Außerdem
 darf in keinem der fachbezogenen Prüfungsbereiche eine ungenügende
 Leistung erbracht worden sein.
-
 
 ## § 15 Gesellenprüfung für die Berufsausbildung Maler und Lackierer/Malerin und Lackiererin in der Fachrichtung Bauten- und Korrosionsschutz
 
@@ -985,7 +954,6 @@ jeweils mindestens eine ausreichende Leistung erbracht wurde. Außerdem
 darf in keinem der fachbezogenen Prüfungsbereiche eine ungenügende
 Leistung erbracht worden sein.
 
-
 ## § 16 Übergangsregelung
 
 (1) Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
@@ -1006,11 +974,9 @@ Satz 2 genannten Verordnung weiter anzuwenden, wenn für die Ausbildung
 in diesen Ausbildungsberufen nach Landesrecht der Besuch eines
 schulischen Berufsgrundbildungsjahres vorgesehen ist.
 
-
 ## § 17 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2003 in Kraft.
-
 
 ## Anlage 1 (zu § 7) Ausbildungsrahmenplan für die Berufsausbildung zum Bauten- und Objektbeschichter/zur Bauten- und Objektbeschichterin
 
@@ -1722,13 +1688,6 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 *    *
         \*) Im Zusammenhang mit anderen im Ausbildungsrahmenplan aufgeführten
             Ausbildungsinhalten zu vermitteln.
-
-
-
-
-
-
-
 
 ## Anlage 2 (zu § 7) Ausbildungsrahmenplan für die Berufsausbildung zum Maler und Lackierer/zur Malerin und Lackiererin
 

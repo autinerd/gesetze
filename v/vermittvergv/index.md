@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 2439
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 301 des Dritten Buches Sozialgesetzbuch -
@@ -25,7 +23,6 @@ Arbeitsförderung - (Artikel 1 des Gesetzes vom 24. März 1997, BGBl. I
 S. 594, 595), der zuletzt durch Artikel 3 des Gesetzes vom 23. März
 2002 (BGBl. I S. 1130) geändert worden ist, verordnet das
 Bundesministerium für Arbeit und Sozialordnung:
-
 
 ## § 1 Berufe und Personengruppen
 
@@ -47,7 +44,6 @@ Für die Vermittlung in eine Tätigkeit als
 dürfen mit dem Arbeitnehmer Vergütungen vereinbart werden, die sich
 nach dem ihm zustehenden Arbeitsentgelt bemessen.
 
-
 ## § 2 Höhe der Vergütungen
 
 (1) Die Vergütung einschließlich der auf sie entfallenden Umsatzsteuer
@@ -68,7 +64,6 @@ Arbeitnehmer zustehenden Arbeitsentgelts nicht übersteigen.
 auch dann nicht überschritten werden, wenn der Vermittler bei der
 Vermittlung mit einem anderen Vermittler zusammenarbeitet.
 
-
 ## § 3 Übergangsregelung
 
 Vereinbarungen, die in der Zeit vom 27. März 2002 bis zum Tag der
@@ -76,7 +71,6 @@ Verkündung dieser Verordnung abgeschlossen werden und eine Vergütung
 vorsehen, die nach § 296 Abs. 3 des Dritten Buches Sozialgesetzbuch
 zulässig ist, bleiben auch dann wirksam, wenn die Vergütung die nach
 dieser Verordnung zulässige Höhe übersteigt.
-
 
 ## § 4 Inkrafttreten
 

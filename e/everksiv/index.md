@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 488 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Auf Grund des § 1 Abs. 1 Nr. 1 und 2 sowie Abs. 2 Nr. 3, des § 5 Abs.
@@ -29,7 +28,6 @@ Verkehrssicherstellungsgesetzes in der Fassung der Bekanntmachung vom
 1974 (Bundesgesetzbl. I S. 469), verordnet die Bundesregierung mit
 Zustimmung des Bundesrates:
 
-
 ## § 1 Zweck der Verordnung
 
 Zweck dieser Verordnung ist es sicherzustellen, daß in einem
@@ -39,7 +37,6 @@ auf einen möglichen Verteidigungsfall erhöht werden muß, die
 erforderlichen lebenswichtigen Verkehrsleistungen, insbesondere zur
 Versorgung der Zivilbevölkerung und der Streitkräfte, von den
 Eisenbahnen erbracht werden können.
-
 
 ## § 2 Sicherstellung von Beförderungsmitteln
 
@@ -63,7 +60,6 @@ Verordnung über Verkehrsleistungen der Eisenbahnen für die
 Streitkräfte vom 10. August 1976 (Bundesgesetzbl. I S. 2128) Maßnahmen
 im Sinne von Absatz 1 zu treffen, bleibt unberührt.
 
-
 ## § 3 Beschleunigung der Ver- und Entladung
 
 Die Eisenbahnen können die Ver- und Entladung ihrer Beförderungsmittel
@@ -71,21 +67,17 @@ auf Kosten des Absenders oder Empfängers vornehmen oder durch Dritte
 vornehmen lassen, wenn die Beförderungsmittel nicht innerhalb der
 vereinbarten Ver- und Entladefristen ver- oder entladen werden.
 
-
 ## § 4
 
 (weggefallen)
-
 
 ## § 5 Ruhen der Lieferfristen
 
 Die vereinbarten Lieferfristen ruhen.
 
-
 ## § 6
 
 (weggefallen)
-
 
 ## § 7 Straf- und Bußgeldvorschriften
 
@@ -99,7 +91,6 @@ Verkehrssicherstellungsgesetzes, die nach dem Wirtschaftsstrafgesetz
 Verkehrssicherstellungsgesetzes ist das Eisenbahn-Bundesamt,
 hinsichtlich des Kraftfahrzeugverkehrs der Eisenbahnen die höhere
 Verwaltungsbehörde des Landes.
-
 
 ## § 8 Inkrafttreten
 

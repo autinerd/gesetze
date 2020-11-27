@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 2927
 
-
 ## Eingangsformel
 
 Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 des
@@ -28,7 +27,6 @@ S. 2407) geändert worden ist, verordnet das Bundesministerium für
 Bildung und Forschung nach Anhörung des Hauptausschusses des
 Bundesinstituts für Berufsbildung im Einvernehmen mit dem
 Bundesministerium für Wirtschaft und Technologie:
-
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
 
@@ -81,7 +79,6 @@ können. Dazu gehören insbesondere die folgenden Aufgaben:
 Fortbildungsabschluss Geprüfter Berufspädagoge/Geprüfte
 Berufspädagogin.
 
-
 ## § 2 Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer
@@ -121,7 +118,6 @@ Voraussetzungen ist zur Prüfung auch zuzulassen, wer durch Vorlage von
 Zeugnissen oder auf andere Weise glaubhaft macht, Fertigkeiten,
 Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit) erworben zu
 haben, die die Zulassung zur Prüfung rechtfertigen.
-
 
 ## § 3 Gliederung der Prüfung
 
@@ -176,7 +172,6 @@ nach Absatz 1 Nummer 1 und 2 mindestens ausreichende Leistungen
 erbracht wurden; es soll jedoch nicht später als ein Jahr nach deren
 erfolgreichen Abschluss begonnen werden.
 
-
 ## § 4 Durchführung der Prüfung im Prüfungsteil „Kernprozesse der beruflichen Bildung“
 
 (1) Es ist schriftlich anhand jeweils einer Situationsaufgabe je
@@ -191,7 +186,6 @@ der Regel nicht länger als 20 Minuten dauern. Die Bewertung der
 schriftlichen Prüfungsleistung und die der mündlichen
 Ergänzungsprüfung werden zu einer Note zusammengefasst. Dabei wird die
 Bewertung der schriftlichen Prüfungsleistung doppelt gewichtet.
-
 
 ## § 5 Durchführung der Prüfung im Prüfungsteil „Berufspädagogisches Handeln in Bereichen der beruflichen Bildung“
 
@@ -224,7 +218,6 @@ mündlichen Ergänzungsprüfung werden zu einer Note zusammengefasst.
 Dabei wird die Bewertung der schriftlichen Prüfungsleistung doppelt
 gewichtet.
 
-
 ## § 6 Durchführung der Prüfung im Prüfungsteil „Spezielle berufspädagogische Funktionen“
 
 (1) In einer Projektarbeit soll eine komplexe berufspädagogische
@@ -248,7 +241,6 @@ Präsentation in der Regel nicht länger als 15 Minuten.
 
 (3) Präsentation und Fachgespräch sind nur durchzuführen, wenn die
 Projektarbeit mindestens als ausreichende Leistung bewertet wurde.
-
 
 ## § 7 Inhalte der Prüfung im Prüfungsteil „Kernprozesse der beruflichen Bildung“
 
@@ -347,10 +339,6 @@ folgende Qualifikationsinhalte geprüft werden:
 
 
 8.  Finanzplanung unter Nutzung von Förderprogrammen und Fördermitteln.
-
-
-
-
 
 ## § 8 Inhalte der Prüfung im Prüfungsteil „Berufspädagogisches Handeln in Bereichen der beruflichen Bildung“
 
@@ -465,10 +453,6 @@ diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 6.  Beratung von Führungskräften.
 
-
-
-
-
 ## § 9 Inhalte der Prüfung im Prüfungsteil „Spezielle berufspädagogische Funktionen“
 
 (1) Im Prüfungsteil „Spezielle berufspädagogische Funktionen“ soll die
@@ -511,7 +495,6 @@ können zugelassen werden, soweit sie nach Breite und Tiefe den
 vorgenannten gleichwertig sind sowie im Rahmen der unter § 1 Absatz 2
 Satz 2 genannten Aufgaben liegen.
 
-
 ## § 10 Anrechnung anderer Prüfungsleistungen
 
 (1) Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin ist auf
@@ -527,7 +510,6 @@ die Abschlussprüfung der Fortbildung zum Geprüften Aus- und
 Weiterbildungspädagogen/zur Geprüften Aus- und Weiterbildungspädagogin
 abgelegt haben, wird auf Antrag die Prüfung in den Handlungsbereichen
 nach § 3 Absatz 2 Nummer 1 und 2 sowie Absatz 3 Nummer 1 erlassen.
-
 
 ## § 11 Bestehen der Prüfung
 
@@ -555,7 +537,6 @@ und der Anlage 2 auszustellen. Im Falle der Freistellung nach § 10
 sind Ort und Datum der anderweitig abgelegten Prüfung sowie die
 Bezeichnung des Prüfungsgremiums anzugeben.
 
-
 ## § 12 Wiederholen der Prüfung
 
 (1) Nicht bestandene Prüfungsteile können zweimal wiederholt werden.
@@ -574,18 +555,15 @@ Ergebnis der letzten Prüfung.
 für die Wiederholungsprüfung die Projektarbeit nach § 6 Absatz 1
 wiederholt werden.
 
-
 ## § 13 Übergangsregelung
 
 Die Prüfungen zu den Abschlüssen Berufspädagoge/Berufspädagogin und
 Berufspädagoge (IHK)/Berufspädagogin (IHK) können bis zum 31. Dezember
 2013 nach den bisherigen Vorschriften zu Ende geführt werden.
 
-
 ## § 14 Inkrafttreten
 
 Diese Verordnung tritt am 1. September 2009 in Kraft.
-
 
 ## Anlage 1 (zu § 11 Absatz 5) Muster
 
@@ -593,8 +571,6 @@ Diese Verordnung tritt am 1. September 2009 in Kraft.
 
 *    *   ....................
         (Bezeichnung der zuständigen Stelle)
-
-
 
 ## Zeugnis
 
@@ -613,8 +589,6 @@ Diese Verordnung tritt am 1. September 2009 in Kraft.
 *    *   hat am ....................
 
     *   die Prüfung zum anerkannten Fortbildungsabschluss
-
-
 
 ## Geprüfter Berufspädagoge/Geprüfte Berufspädagogin
 
@@ -636,9 +610,6 @@ Berufspädagogin vom 21. August 2009 (BGBl. I S. 2927)
 
 *    *   (Siegel der zuständigen Stelle)
 
-
-
-
 ## Anlage 2 (zu § 11 Absatz 5) Muster
 
 (Fundstelle: BGBl. 2009, 2933)
@@ -647,8 +618,6 @@ Berufspädagogin vom 21. August 2009 (BGBl. I S. 2927)
 
 
 *    *   (Bezeichnung der zuständigen Stelle)
-
-
 
 ## Zeugnis
 
@@ -667,8 +636,6 @@ Berufspädagogin vom 21. August 2009 (BGBl. I S. 2927)
 *    *   hat am ....................
 
     *   die Prüfung zum anerkannten Fortbildungsabschluss
-
-
 
 ## Geprüfter Berufspädagoge/Geprüfte Berufspädagogin
 

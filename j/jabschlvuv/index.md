@@ -18,13 +18,11 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 13.7.1988 I 1057
 
-
 ## Eingangsformel
 
 Auf Grund der §§ 161, 278 Abs. 3 des Aktiengesetzes wird im
 Einvernehmen mit den Bundesministern für Wirtschaft und für Verkehr
 verordnet:
-
 
 ## § 1
 
@@ -49,7 +47,6 @@ Gesellschaften mit beschränkter Haftung, die
 gelten die Vorschriften des Dritten Buchs des Handelsgesetzbuchs über
 die Gliederung des Jahresabschlusses, soweit nicht in § 2 etwas
 anderes bestimmt ist.
-
 
 ## § 2
 
@@ -100,7 +97,6 @@ anzugebenden Postens Aktivseite A. II. Nr. 2 die in Absatz 1 Satz 1
 Nr. 2 genannten Posten Aktivseite A. II. Nr. 2 bis 4 treten und die
 Änderung in Absatz 1 Satz 2 berücksichtigt wird.
 
-
 ## § 2a
 
 Ordnungswidrig im Sinne des § 334 Abs. 1 Nr. 6 des Handelsgesetzbuchs
@@ -112,10 +108,6 @@ Aufsichtsrats einer Gesellschaft nach § 1 Nr. 1 oder 2
 
 
 2.  entgegen § 2 Abs. 1 Satz 1 Nr. 2 die Posten 2 bis 4 nicht ausweist.
-
-
-
-
 
 ## § 3
 
@@ -132,18 +124,15 @@ ein früheres Geschäftsjahr anzuwenden, so ist für das Geschäftsjahr
 die am 31. Dezember 1985 geltende Fassung dieser Verordnung
 anzuwenden.
 
-
 ## § 4
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit Artikel 12 des Bilanzrichtlinien-Gesetzes auch im Land
 Berlin.
 
-
 ## § 5
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
-
 
 ## Schlußformel
 

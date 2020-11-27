@@ -29,7 +29,6 @@ dieser Verordnung sowie den Parteien von Tarifverträgen in der Branche
 mit zumindest teilweise demselben fachlichen Geltungsbereich
 Gelegenheit zur schriftlichen Stellungnahme gegeben hat:
 
-
 ## § 1 Zwingende Arbeitsbedingungen
 
 Die in der Anlage zu dieser Verordnung aufgeführten Rechtsnormen des
@@ -57,19 +56,16 @@ Verleiher ihm oder ihr nach § 8 Absatz 3 des Arbeitnehmer-
 Entsendegesetzes zumindest die nach dieser Verordnung vorgeschriebenen
 Arbeitsbedingungen zu gewähren.
 
-
 ## § 2 Anwendungsausnahmen
 
 Die Verordnung findet keine Anwendung auf Wäschereidienstleistungen,
 die von Werkstätten für behinderte Menschen im Sinne des § 136 des
 Neunten Buches Sozialgesetzbuch erbracht werden.
 
-
 ## § 3 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft und am 31.
 März 2013 außer Kraft.
-
 
 ## Anlage (zu § 1) Rechtsnormen des Mindestlohn-Tarifvertrages für Wäschereidienstleistungen im Objektkundengeschäft vom 18. Mai 2009
 

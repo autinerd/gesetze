@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2000, 746
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 35 Abs. 1 Nr. 2 und 3 und Abs. 2 sowie des § 77 Abs. 4
@@ -27,7 +25,6 @@ des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S.
 705) und dem Organisationserlass vom 27. Oktober 1998 (BGBl. I S.
 3288) verordnet das Bundesministerium für Gesundheit im Einvernehmen
 mit dem Bundesministerium für Wirtschaft und Technologie:
-
 
 ## § 1
 
@@ -99,15 +96,10 @@ die Zulassung und staatliche Chargenprüfung werden ausgedehnt auf
     Infektionen (HIV 1 und 2) sowie von Hepatitis B und C in Proben
     menschlichen Ursprungs.
 
-
-
-
-
 ## § 2
 
 Für die Zulassung und staatliche Chargenprüfung von Tests zur In-
 vitro-Diagnostik nach § 1 ist das Paul-Ehrlich-Institut zuständig.
-
 
 ## § 3
 
@@ -134,11 +126,9 @@ Charge in den Verkehr gebracht werden, bis die Zulassung abgelehnt
 oder das Inverkehrbringen aus anderen Gründen, insbesondere wegen
 nicht fristgerechter Antragstellung, untersagt wird.
 
-
 ## § 4
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlussformel
 

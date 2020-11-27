@@ -16,12 +16,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 830
 
-
 ## Eingangsformel
 
 Auf Grund des § 7 Absatz 2 Satz 2 des Zensusgesetzes 2011 vom 8. Juli
 2009 (BGBl. I S. 1781) verordnet die Bundesregierung:
-
 
 ## § 1 Zweck
 
@@ -39,7 +37,6 @@ des § 7 Absatz 1 Satz 2 Nummer 1 und 2 des Zensusgesetzes 2011 sowohl
 bei der Ermittlung der amtlichen Einwohnerzahl als auch bei den
 Zensusmerkmalen eingehalten werden, die nicht aus Verwaltungsregistern
 gewonnen werden.
-
 
 ## § 2 Stichprobenverfahren
 
@@ -92,10 +89,6 @@ maßgebend:
 5.  Das Stichprobenverfahren wird so ausgerichtet, dass für Gemeinden
     unter 10 000 Einwohnern die gleiche Auswahlwahrscheinlichkeit für alle
     Anschriften und Personen gegeben ist.
-
-
-
-
 
 ## § 3 Stichprobenumfang
 
@@ -314,16 +307,11 @@ methodisch-statistischer Kriterien des § 2 Absatz 2 und des § 3 Absatz
 
     *   82 002 356
 
-
-
-
-
 ## § 4 Fragebogen
 
 Die Haushaltsstichprobe wird mit Hilfe eines einheitlichen Fragebogens
 erhoben, den das Statistische Bundesamt in Zusammenarbeit mit den
 statistischen Ämtern der Länder erstellt.
-
 
 ## § 5 Zusammenarbeit der statistischen Ämter
 
@@ -332,11 +320,9 @@ Haushaltsstichprobe mit dem Statistischen Bundesamt zusammen, um
 insbesondere das Erhebungsverfahren sowie die Datenverarbeitung und
 die Datenaufbereitung bundesweit einheitlich durchzuführen.
 
-
 ## § 6 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Schlussformel
 

@@ -15,12 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1980, 581
 
-
-
 ## (XXXX) Art 1 bis Art 5 (weggefallen)
 
 -
-
 
 ## Art 6 Übergangsvorschrift
 
@@ -48,7 +45,6 @@ der ihm bei Eintritt in den Ruhestand verliehen war;
 versorgungsrechtlich gilt er in diesem Fall als wegen Überschreitens
 der für diesen Dienstgrad festgesetzten besonderen Altersgrenze in den
 Ruhestand versetzt.
-
 
 ## Art 7 Schlußvorschrift
 

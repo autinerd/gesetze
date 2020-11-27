@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1994, 2624, 2634
 
-
-
 ## § 1 Geltungsbereich
 
 (1) Dieses Gesetz regelt Ansprüche, die in der ehemaligen Deutschen
@@ -42,7 +40,6 @@ begründet wurden.
 Deutsche Demokratische Republik gerichteten Schuldbuchforderungen, die
 einer staatlichen Verwaltung unterlagen und aus diesem Grunde bereits
 gelöscht wurden.
-
 
 ## § 2 Schuldbuchforderungen mit besonderen Vermerken
 
@@ -84,7 +81,6 @@ der Schuldbuchforderungen Kontrollmitteilung zu erteilen.
 bis zum 31. Dezember 1998 erbracht sein, andernfalls erlöschen diese
 Ansprüche entsprechend Absatz 1.
 
-
 ## § 3 Schuldbuchforderungen ohne besondere Vermerke
 
 (1) Ansprüche der Gläubiger aus Schuldbuchforderungen ohne besondere
@@ -96,7 +92,6 @@ und diese nicht erneut anfordern, erlöschen mit Ablauf der Frist nach
 besondere Vermerke, sofern die Berechtigten bis zum Ablauf der Frist
 nach § 2 Abs. 1 keine Anträge gestellt haben und die erforderlichen
 Nachweise nicht rechtzeitig im Sinne des § 2 Abs. 6 vorgelegen haben.
-
 
 ## § 4 Hinterlegungen aus Schuldbuchforderungen
 
@@ -113,7 +108,6 @@ Hinterlegungsstellen an den Kreditabwicklungsfonds zu überweisen.
 Etwaige nach Auflösung dieses Fonds verbleibende Beträge stehen dem
 Erblastentilgungsfonds zu.
 
-
 ## § 5 Restitution
 
 Wurde eine Rückübertragung des Eigentums am Grundstück nach dem
@@ -121,7 +115,6 @@ Vermögensgesetz verfügt und bestand eine noch nicht voll getilgte
 Schuldbuchforderung, so hat die zuständige Schuldbuchstelle dieselbe
 ohne Zahlung des Restbetrages auf der Grundlage des § 7a Abs. 2 des
 Vermögensgesetzes zu löschen.
-
 
 ## § 6 Schließung der Schuldbücher
 
@@ -139,20 +132,17 @@ Demokratische Republik gerichteten Schuldbuchforderungen zentralisiert
 zu erfassen und wie Schuldbuchforderungen nach diesem Gesetz zu
 tilgen.
 
-
 ## § 7 Finanzielle Aufwendungen
 
 Die nach diesem Gesetz verbleibenden finanziellen Aufwendungen, die
 nach Auflösung des Kreditabwicklungsfonds anfallen, sind vom
 Erblastentilgungsfonds zu übernehmen.
 
-
 ## § 8 Aktenaufbewahrung
 
 Die Kreditanstalt für den Wiederaufbau hat die Schuldbuchakten der zum
 31\. Dezember 1995 geschlossenen Schuldbücher sowie die Akten der
 gesonderten Forderungen nach § 6 Abs. 2 zehn Jahre aufzubewahren.
-
 
 ## § 9 Ausschlußfrist sonstiger Ansprüche aus Schuldbuchforderungen
 

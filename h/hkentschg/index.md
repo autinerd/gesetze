@@ -15,13 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 2830
 
-
 ## § 1 Grundsatz
 
 Heimkehrer, die in das in Artikel 3 des Einigungsvertrages genannte
 Gebiet (Beitrittsgebiet) zurückgekehrt sind, erhalten zum Ausgleich
 für den erlittenen Gewahrsam eine einmalige Entschädigung.
-
 
 ## § 2 Heimkehrer
 
@@ -99,7 +97,6 @@ Heimkehrer, die
 Die Verurteilung nach den Nummern 5 und 6 muss durch ein deutsches
 Gericht im Geltungsbereich dieses Gesetzes erfolgt sein.
 
-
 ## § 3 Antrag
 
 (1) Die einmalige Entschädigung wird auf Antrag vom
@@ -113,7 +110,6 @@ beschafft werden können.
 
 (3) Der Antrag ist innerhalb eines Jahres nach Inkrafttreten dieses
 Gesetzes zu stellen.
-
 
 ## § 4 Höhe der Entschädigung
 
@@ -140,7 +136,6 @@ beträgt, gestaffelt nach der Dauer des Gewahrsams:
 (2) Der Anspruch unterliegt in der Person des unmittelbar Berechtigten
 nicht der Zwangsvollstreckung und bleibt bei Sozialleistungen, deren
 Gewährung von anderen Einkünften abhängig ist, unberücksichtigt.
-
 
 ## § 5 Kostentragung
 

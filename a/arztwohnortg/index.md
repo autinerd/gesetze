@@ -16,21 +16,14 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 3526
 
-
-
 ## -
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art 1
 
-
-
 ## Art 2 - Übergangsregelungen
-
-
 
 ## § 1
 
@@ -60,7 +53,6 @@ Bundesrepublik Deutschland nach dem Stand vom 2. Oktober 1990
 einschließlich des in Artikel 3 des Einigungsvertrages genannten Teils
 des Landes Berlin getrennt zu ermitteln.
 
-
 ## § 2
 
 (1) Die Vertragsparteien der Gesamtverträge für die in § 1 Abs. 2
@@ -88,7 +80,6 @@ bis zum 31. März 2002 den Betrag gemeinsam fest; erfolgt die
 Feststellung des Betrags bis zu diesem Zeitpunkt nicht, kann das
 Bundesministerium für Gesundheit den Betrag feststellen.
 
-
 ## § 3
 
 Die in Artikel 1 Nr. 9 vorgesehene Änderung des Inhalts der
@@ -96,13 +87,11 @@ Krankenversichertenkarte ist jeweils bei der Neuausstellung der
 Krankenversichertenkarte vorzunehmen; § 291 Abs. 3 des Fünften Buches
 Sozialgesetzbuch gilt entsprechend.
 
-
 ## § 4
 
 Besteht in einem Land zum Zeitpunkt des Inkrafttretens dieses Gesetzes
 für eine Kassenart kein Landesverband, gilt Artikel 1 Nr. 7
 entsprechend.
-
 
 ## Art 3 - Erhöhung der Gesamtvergütungen in den Jahren 2002 bis 2004
 
@@ -119,7 +108,6 @@ die Erhöhung nicht gefährdet wird. Die Vertragsparteien der
 Gesamtverträge nach § 83 des Fünften Buches Sozialgesetzbuch
 vereinbaren die Kriterien sowie das Verfahren zur Feststellung der
 Ausgabenreduktionen nach Satz 1.
-
 
 ## Art 4 - Überprüfung der Honorarentwicklung
 
@@ -142,7 +130,6 @@ entsprechend der Angleichung der Lebensverhältnisse in dem in Artikel
 Bundesgebiet zu ermöglichen und damit die ambulante Versorgung in dem
 in Artikel 1 Abs. 1 des Einigungsvertrages genannten Gebiet
 sicherzustellen.
-
 
 ## Art 5 - Inkrafttreten
 

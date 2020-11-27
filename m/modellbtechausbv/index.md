@@ -23,7 +23,6 @@ Fundstelle
     Deutschland beschlossene Rahmenlehrplan für die Berufsschule werden
     demnächst als Beilage im Bundesanzeiger veröffentlicht.
 
-
 ## Eingangsformel
 
 Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des
@@ -38,7 +37,6 @@ durch Artikel 2 Nummer 4 des Gesetzes vom 23. März 2005 (BGBl. I S.
 931) geändert worden ist, verordnet das Bundesministerium für
 Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium
 für Bildung und Forschung:
-
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
@@ -55,11 +53,9 @@ wird
 
 staatlich anerkannt.
 
-
 ## § 2 Dauer der Berufsausbildung
 
 Die Ausbildung dauert dreieinhalb Jahre.
-
 
 ## § 3 Struktur der Berufsausbildung
 
@@ -73,10 +69,6 @@ und in die Ausbildung in einer der Fachrichtungen:
 
 
 3.  Anschauung.
-
-
-
-
 
 ## § 4 Ausbildungsrahmenplan/Ausbildungsberufsbild
 
@@ -207,10 +199,6 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 7.  Durchführen von qualitätssichernden Maßnahmen.
 
-
-
-
-
 ## § 5 Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
@@ -230,7 +218,6 @@ zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
 Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
 Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
 durchzusehen.
-
 
 ## § 6 Abschlussprüfung/Gesellenprüfung
 
@@ -252,7 +239,6 @@ ist.
 (2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der
 Abschlussprüfung/Gesellenprüfung mit 25 Prozent und Teil 2 der
 Abschlussprüfung/Gesellenprüfung mit 75 Prozent gewichtet.
-
 
 ## § 7 Teil 1 der Abschlussprüfung/Gesellenprüfung
 
@@ -310,10 +296,6 @@ Prüfungsbereich Arbeitsauftrag I.Hierfür bestehen folgende Vorgaben:
 4.  die Prüfungszeit für die Arbeitsaufgabe beträgt sieben Stunden. Die
     Aufgabenstellungen sollen einen zeitlichen Umfang von 90 Minuten
     haben.
-
-
-
-
 
 ## § 8 Teil 2 der Abschlussprüfung/ Gesellenprüfung in der Fachrichtung Gießerei
 
@@ -485,10 +467,6 @@ folgende Vorgaben:
 
 3.  die Prüfungszeit beträgt 60 Minuten.
 
-
-
-
-
 ## § 9 Gewichtungs- und Bestehensregelung in der Fachrichtung Gießerei
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
@@ -538,7 +516,6 @@ Leistungen
 
 
 bewertet worden sind.
-
 
 ## § 10 Teil 2 der Abschlussprüfung/Gesellenprüfung in der Fachrichtung Karosserie und Produktion
 
@@ -718,10 +695,6 @@ folgende Vorgaben:
 
 3.  die Prüfungszeit beträgt 60 Minuten.
 
-
-
-
-
 ## § 11 Gewichtungs- und Bestehensregelung in der Fachrichtung Karosserie und Produktion
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
@@ -771,7 +744,6 @@ Leistungen
 
 
 bewertet worden sind.
-
 
 ## § 12 Teil 2 der Abschlussprüfung/Gesellenprüfung in der Fachrichtung Anschauung
 
@@ -932,10 +904,6 @@ folgende Vorgaben:
 
 3.  die Prüfungszeit beträgt 60 Minuten.
 
-
-
-
-
 ## § 13 Gewichtungs- und Bestehensregelung in der Fachrichtung Anschauung
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
@@ -988,7 +956,6 @@ Leistungen
 
 bewertet worden sind.
 
-
 ## § 14 Mündliche Ergänzungsprüfung
 
 Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der
@@ -1001,7 +968,6 @@ Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und
 das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2 : 1
 zu gewichten.
 
-
 ## § 15 Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
@@ -1010,11 +976,9 @@ Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt
 werden, wenn die Vertragsparteien dies vereinbaren und noch keine
 Zwischenprüfung abgelegt wurde.
 
-
 ## § 16 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2009 in Kraft.
-
 
 ## Anlage (zu § 4 Absatz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Technischen Modellbauer/zur Technischen Modellbauerin
 

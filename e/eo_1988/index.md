@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 6.6.2011 I 1035
 
-
 ## Eingangsformel
 
 Der Bundesminister für Wirtschaft verordnet
@@ -64,10 +63,7 @@ Der Bundesminister für Wirtschaft verordnet
 
 mit Zustimmung des Bundesrates:
 
-
 ## Teil 1 - Pflichten beim Inverkehrbringen, Verwenden und Bereithalten von Meßgeräten
-
-
 
 ### § 1 Medizinische Messgeräte
 
@@ -84,7 +80,6 @@ Medizinproduktegesetzes mit der CE-Kennzeichnung zu versehen sind.
 (3) Bereitgehalten im Sinne dieser Rechtsverordnung wird ein
 Messgerät, wenn es ohne besondere Vorbereitung in Gebrauch genommen
 werden kann.
-
 
 ### § 2 Strahlenschutzmeßgeräte
 
@@ -199,7 +194,6 @@ müssen
 Die Feststellung der Personendosis muss durch die Dosimetriestelle
 mittels elektronischer Datenkommunikation erfolgen.
 
-
 ### § 3 Sonstige Meßgeräte
 
 (1) Geeicht sein müssen:
@@ -243,7 +237,6 @@ Prüfung von Arzneimitteln nur verwendet oder bereitgehalten werden,
 wenn sie zugelassen sind und die Übereinstimmung des Meßgeräts mit der
 Zulassung bescheinigt ist.
 
-
 ### § 3a Ausschankmaße
 
 (1) § 9 Abs. 2 des Eichgesetzes ist nicht anzuwenden auf
@@ -271,11 +264,9 @@ Ausschankmaße nur mit einem Nennvolumen von 1, 2, 4, 5 oder 10
 Zentiliter oder 0,1, 0,2, 0,25, 0,3, 0,4, 0,5, 1, 1,5, 2, 3, 4 oder 5
 Liter zulässig.
 
-
 ### § 4
 
 (weggefallen)
-
 
 ### § 5 Konformitätsbescheinigung
 
@@ -327,7 +318,6 @@ Konformitätsbescheinigungen ergibt, kann die zuständige Behörde
 
 
 untersagen.
-
 
 ### § 6 Aufstellung, Gebrauch und Wartung
 
@@ -382,7 +372,6 @@ werden, wenn sie mindestens der Genauigkeitsklasse III (Handelswaagen)
 angehören oder dieser Klasse vergleichbare Genauigkeitsanforderungen
 erfüllen.
 
-
 ### § 7 Pflichten bei der Eichung
 
 (1) Meßgeräte sind für die Eichung zu reinigen und ordnungsgemäß
@@ -404,10 +393,7 @@ Bauartzulassung nicht von der Bundesanstalt erteilt worden ist, so
 kann die zuständige Behörde vom Antragsteller die Vorlage einer
 Ausfertigung des Zulassungsscheines verlangen.
 
-
 ## Teil 1a - Besondere Vorschriften für nichtselbsttätige Waagen
-
-
 
 ### § 7a Nichtselbsttätige Waagen
 
@@ -415,7 +401,6 @@ Die Vorschriften dieses Teils gelten für nichtselbsttätige Waagen; die
 §§ 25 und 26 des Eichgesetzes und die §§ 9, 14a bis 25a, 28a, 29, 34
 und 35 dieser Verordnung sind auf nichtselbsttätige Waagen nicht
 anzuwenden.
-
 
 ### § 7b Inverkehrbringen, Inbetriebnahme, Verwendung und Bereithaltung
 
@@ -504,10 +489,6 @@ wenn sie ohne besondere Vorbereitung verwendet werden kann.
     Geltungsbereichs des Abkommens über den Europäischen Wirtschaftsraum
     bestimmt sind.
 
-
-
-
-
 ### § 7c Zulassung, Eichung und Anforderungen
 
 (1) Die Ersteichung erfolgt als EG-Eichung durch eine nach § 7g
@@ -517,7 +498,6 @@ benannte Stelle oder als EG-Eichung durch den Hersteller
 (2) Für die Zulassung zur Eichung, für das Verfahren der Zulassung und
 der Eichung und für die technischen Anforderungen an die
 nichtselbsttätigen Waagen gelten die Vorschriften der Anlage 9.
-
 
 ### § 7d Kennzeichnung der nichtselbsttätigen Waagen
 
@@ -573,14 +553,12 @@ machen.
 und kann sie nicht unmittelbar in einen ordnungsgemäßen Zustand
 versetzt werden, ist sie als vorschriftswidrig zu kennzeichnen.
 
-
 ### § 7e Gegenseitige Anerkennung
 
 Einer im Geltungsbereich dieser Verordnung nach § 7d als geeicht
 gekennzeichneten nichtselbsttätigen Waage steht eine nichtselbsttätige
 Waage gleich, die in einem anderen Staat rechtmäßig mit den in § 7d
 vorgeschriebenen Zeichen versehen worden ist.
-
 
 ### § 7f Vorschriftswidrige nichtselbsttätige Waagen
 
@@ -612,7 +590,6 @@ zuständigen Behörde nach Herstellung des rechtmäßigen Zustandes nicht
 nachgekommen wurde.
 
 (3) (weggefallen)
-
 
 ### § 7g Benannte Stellen für nichtselbsttätige Waagen
 
@@ -673,10 +650,7 @@ Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
 die benannten Stellen nach Absatz 1 Nr. 1 sowie die Entscheidungen
 nach Absatz 3 mit.
 
-
 ## Teil 1b - Besondere Vorschriften für Messgeräte der Richtlinie 2004/22/EG des Europäischen Parlaments und des Rates vom 31. März 2004 über Messgeräte
-
-
 
 ### § 7h Messgeräte der Richtlinie 2004/22/EG
 
@@ -692,7 +666,6 @@ Nr. L 135 S. 1) und das Eichgesetz anwendbar sind. Die §§ 14a bis 28,
 28a, 29 und 30 sind auf diese Messgeräte nicht anwendbar; die §§ 34
 und 35 sind bei der Konformitätsbewertung nach § 7k auf diese
 Messgeräte nicht anwendbar.
-
 
 ### § 7i Begriffsbestimmungen
 
@@ -738,7 +711,6 @@ Spezifikationen, das von der Internationalen Organisation für das
 gesetzliche Messwesen ausgearbeitet und dessen Fundstelle im Amtsblatt
 der Europäischen Union veröffentlicht wurde.
 
-
 ### § 7j Inverkehrbringen und Inbetriebnahme
 
 (1) Messgeräte dürfen nur in Verkehr gebracht und in Betrieb genommen
@@ -774,7 +746,6 @@ gekennzeichnet sind, gelten als erstgeeicht.
 (4) Legen die Anlagen Teilgeräte fest, gelten die Absätze 1 bis 3 für
 Teilgeräte entsprechend.
 
-
 ### § 7k Konformitätsbewertung
 
 (1) Die Bewertung der Konformität mit den jeweils anwendbaren
@@ -800,7 +771,6 @@ Unterlagen nach Artikel 10 der Richtlinie 2004/22/EG sind vom
 Hersteller zu erstellen. Die Unterlagen sind in deutscher Sprache
 abzufassen. Die benannte Stelle kann Ausnahmen von Satz 2 zulassen.
 
-
 ### § 7l Einschränkung, Aussetzung und Zurückziehung von Bescheinigungen
 
 Stellt eine benannte Stelle fest, dass die Voraussetzungen zur
@@ -815,7 +785,6 @@ Ausstellungsvoraussetzungen. Vor der Entscheidung über eine Maßnahme
 nach Satz 1 ist der Hersteller oder der Bevollmächtigte zu hören. Die
 benannte Stelle unterrichtet die Bundesanstalt unverzüglich über
 Maßnahmen nach Satz 1.
-
 
 ### § 7m Kennzeichnung und Informationen auf Messgeräten
 
@@ -867,7 +836,6 @@ Nacheichung nicht entfernt, entwertet oder unkenntlich gemacht werden.
 Informationen nach den Nummern 9.1 bis 9.3 des Anhangs I der
 Richtlinie 2004/22/EG und nach den Anlagen sind in deutscher Sprache
 abzufassen.
-
 
 ### § 7n Benannte Stellen für Messgeräte der Richtlinie 2004/22/EG
 
@@ -924,7 +892,6 @@ entsprechend für die Zusammenarbeit mit den benannten Stellen und den
 zuständigen Behörden der anderen Vertragsstaaten des Abkommens über
 den Europäischen Wirtschaftsraum.
 
-
 ### § 7o Überwachung der benannten Stellen
 
 (1) Das Bundesministerium für Wirtschaft und Technologie überwacht im
@@ -959,7 +926,6 @@ Unterauftrags ausgeführten Arbeiten vorzuhalten und im Fall des
 
 
 auf Anforderung zu übergeben.
-
 
 ### § 7p Marktaufsicht und Schutzklauselverfahren
 
@@ -1011,7 +977,6 @@ Europäischen Gemeinschaften weiterleitet.
 (5) Maßnahmen nach den Absätzen 2 bis 4 sind vorrangig an den
 Hersteller, seinen Bevollmächtigten oder den Einführer zu richten.
 
-
 ### § 7q Zusammenarbeit
 
 Die zuständigen Behörden informieren über das Bundesministerium für
@@ -1036,18 +1001,11 @@ Europäischen Wirtschaftsraum
 4.  über von den benannten Stellen erstellte Bewertungsberichte, wenn sie
     von anderen Behörden angefordert wurden.
 
-
-
-
-
 ## Teil 2 - Ausnahmen von der Eichpflicht
-
-
 
 ### § 8 Meßgeräte
 
 Von der Eichpflicht ausgenommen sind Meßgeräte nach Anhang A.
-
 
 ### § 9 Zusatzeinrichtungen
 
@@ -1105,13 +1063,7 @@ wenn sie keine Wirkung auf das Meßgerät ausüben können
 7.  rückwirkungsfreie Zusatzeinrichtungen an Meßgeräten, die bei der
     Herstellung und Analyse von Arzneimitteln verwendet werden.
 
-
-
-
-
 ## Teil 3 - Angaben im geschäftlichen und amtlichen Verkehr
-
-
 
 ### § 10 Größenangaben
 
@@ -1147,10 +1099,6 @@ werden, wenn sie mit einem Meßgerät bestimmt sind.
 
 5.  losen Sand und Kies bei Abgabe in Mengen bis zu 2 Kubikmeter.
 
-
-
-
-
 ### § 10a Angabe von Gewichtswerten
 
 Im geschäftlichen Verkehr mit losen Erzeugnissen dürfen Gewichtswerte,
@@ -1159,7 +1107,6 @@ werden. Hiervon ausgenommen ist die Abgabe von Erzeugnissen an
 Personen, die das Erzeugnis in ihrer selbständigen beruflichen oder
 gewerblichen oder in ihrer behördlichen oder dienstlichen Tätigkeit
 verwenden.
-
 
 ### § 10b Abgabe von leichtem Heizöl
 
@@ -1177,7 +1124,6 @@ Betriebszustand gemessenen Werte für das Volumen und die Temperatur
 angegeben werden. Die Temperatur im Betriebszustand ist in diesem Fall
 mit einem geeichten Thermometer in der Nähe des Zählers zu bestimmen.
 
-
 ### § 11 EWG-Schüttdichte
 
 (1) Die Bezeichnung "EWG-Schüttdichte" darf im geschäftlichen Verkehr
@@ -1190,10 +1136,7 @@ Europäischen Gemeinschaften oder mit anderen Vertragsstaaten des
 Abkommens über den Europäischen Wirtschaftsraum ist zur Angabe der
 Schüttdichte die EWG-Schüttdichte zu verwenden.
 
-
 ## Teil 4 - Gültigkeitsdauer der Eichung
-
-
 
 ### § 12 Allgemeines
 
@@ -1220,7 +1163,6 @@ Messgerät zuletzt geeicht wurde.
 (5) Bei Messgeräten nach § 7h beginnt die erste Gültigkeitsdauer der
 Eichung mit Ablauf des Kalenderjahres, in dem die Metrologie-
 Kennzeichnung nach § 7m Absatz 1 auf dem Messgerät angebracht wurde.
-
 
 ### § 13 Vorzeitiges Erlöschen
 
@@ -1259,7 +1201,6 @@ einhält, die erneute Eichung unverzüglich beantragt wird und die
 Instandsetzung durch das Zeichen des Instandsetzers nach Anhang D Nr.
 6 kenntlich gemacht ist.
 
-
 ### § 14 Verlängerung
 
 Wird die Meßrichtigkeit von Meßgeräten vor Ablauf der Gültigkeitsdauer
@@ -1268,10 +1209,7 @@ sich die Gültigkeitsdauer um den in Anhang B festgelegten Zeitraum.
 Die Stichprobenprüfung muß nach dem in Anhang B genannten Verfahren
 durchgeführt werden.
 
-
 ## Teil 5 - Zulassung
-
-
 
 ### § 14a Eichfähigkeit
 
@@ -1287,7 +1225,6 @@ Mitgliedstaaten der Europäischen Gemeinschaften und in allen anderen
 Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
 gültig.
 
-
 ### § 15 Allgemeine Zulassung
 
 (1) Meßgerätearten sind zur Eichung allgemein zugelassen, soweit dies
@@ -1300,7 +1237,6 @@ Meßgerätearten zur innerstaatlichen Eichung.
 
 (3) Die allgemeine EWG-Zulassung ist die Zulassung von Meßgerätearten
 zur EWG-Ersteichung und zur innerstaatlichen Eichung.
-
 
 ### § 16 Bauartzulassung
 
@@ -1361,7 +1297,6 @@ entspricht.
 Bauartzulassung als Genehmigung für den Vertrieb und die
 Inbetriebnahme.
 
-
 ### § 17 Zulassungsantrag
 
 (1) Die Bauartzulassung wird von der Bundesanstalt auf schriftlichen
@@ -1381,7 +1316,6 @@ gestellt werden.
 (3) Dem Antrag sind die zu seiner Prüfung erforderlichen Unterlagen
 beizufügen.
 
-
 ### § 18 Zulassungsprüfung
 
 Die Bundesanstalt kann verlangen, daß der Antragsteller
@@ -1393,10 +1327,6 @@ Die Bundesanstalt kann verlangen, daß der Antragsteller
 
 2.  die zur Prüfung erforderlichen Normalgeräte sowie angemessene
     Prüfmittel und fachkundiges Personal zur Verfügung stellt.
-
-
-
-
 
 ### § 19 Zulassungserteilung
 
@@ -1414,7 +1344,6 @@ Zulassungszeichen auch unter dem Namen oder dem Zeichen einer anderen
 Firma oder unter einer anderen Handelsbezeichnung in den Verkehr
 gebracht werden dürfen.
 
-
 ### § 20 Gültigkeit der Zulassung
 
 (1) Die Gültigkeit einer befristeten Bauartzulassung kann nach einer
@@ -1425,7 +1354,6 @@ werden können.
 (2) Wird die Gültigkeit einer befristeten Bauartzulassung nicht
 verlängert oder die Bauartzulassung widerrufen, so gelten die im
 Gebrauch befindlichen Meßgeräte weiterhin als zugelassen.
-
 
 ### § 21 Inhaltliche Beschränkung der Zulassung
 
@@ -1475,7 +1403,6 @@ erteilt werden, wenn
 Die Gültigkeitsdauer einer solchen Zulassung beträgt bis zu zwei
 Jahre. Sie kann um bis zu drei weitere Jahre verlängert werden.
 
-
 ### § 22 Verwahrung und Hinterlegung von Mustern und Unterlagen
 
 (1) Die Bundesanstalt kann verlangen, daß der Zulassungsinhaber bis
@@ -1490,7 +1417,6 @@ Hinterlegung oder Verwahrung eines Mustergeräts verlangen.
 (2) Die Bundesanstalt ist berechtigt, vom Zulassungsinhaber zu
 verwahrende Geräte oder Geräteteile gegen Eingriffe zu sichern.
 
-
 ### § 23 Bekanntmachung der Zulassung
 
 (1) Bauartzulassungen, ihre Nachträge, ihr Widerruf oder ihre
@@ -1501,12 +1427,10 @@ Mitteilungen) bekanntgemacht.
 die Zulassungsunterlagen in der zur Unterrichtung der
 Eichaufsichtsbehörden erforderlichen Anzahl vorzulegen.
 
-
 ### § 24 Zulassungszeichen
 
 Zulassungszeichen für die innerstaatliche Bauartzulassung und die EWG-
 Bauartzulassung sind die Zeichen nach Anhang D Nr. 2.
-
 
 ### § 25 Anbringen des Zulassungszeichens
 
@@ -1521,7 +1445,6 @@ Zulassungszeichen versehen.
 kann der Hersteller diese Meßgeräte unter seiner Verantwortung mit dem
 Zeichen nach Anhang D Nr. 2.5 versehen, wenn sie den Anforderungen an
 diese Meßgeräteart genügen.
-
 
 ### § 25a Rücknahme und Widerruf, einstweiliges Verbot
 
@@ -1557,7 +1480,6 @@ Bauartzulassung nicht einhalten und der Hersteller nach erfolgter
 Abmahnung die Übereinstimmung mit diesen Anforderungen nicht
 herbeigeführt hat.
 
-
 ### § 26 Änderung der zugelassenen Bauart
 
 (1) Der Inhaber einer von der Bundesanstalt erteilten Zulassung hat
@@ -1576,7 +1498,6 @@ nur geändert werden, wenn die geänderte Bauart weiterhin den zur Zeit
 der Zulassungserteilung geltenden Vorschriften entspricht. Andernfalls
 darf nur eine neue Bauartzulassung erteilt werden.
 
-
 ### § 27 Zulassungsübertragung
 
 Eine Bauartzulassung kann mit Zustimmung des Inhabers auf einen
@@ -1584,16 +1505,12 @@ anderen übertragen werden. Die Übertragung der Zulassung setzt einen
 Antrag desjenigen voraus, auf den die Zulassung übertragen werden
 soll.
 
-
 ### § 28 Zulassung ohne Eichung
 
 Für die Zulassung von Meßgeräten, für die keine Eichung vorgesehen
 ist, gelten die Vorschriften über die Zulassung zur Eichung sinngemäß.
 
-
 ## Teil 6 - Eichung
-
-
 
 ### § 28a Eichung
 
@@ -1613,7 +1530,6 @@ dem Zeichen für die EWG-Ersteichung versehen worden ist.
 (3) Die eichtechnische Prüfung kann als Einzelprüfung oder in den
 Fällen des § 29 Abs. 3 stichprobenweise als Sammelprüfung nach
 statistischen Methoden vorgenommen werden.
-
 
 ### § 29 Durchführung der Eichung
 
@@ -1648,7 +1564,6 @@ Meßgerätearten vorgenommen werden:
 
 (4) (weggefallen)
 
-
 ### § 30 Ersteichung
 
 (1) Allgemein zur Eichung zugelassene Meßgeräte können erstgeeicht
@@ -1658,7 +1573,6 @@ Anforderungen entsprechen.
 (2) Neue oder erneuerte Meßgeräte mit einer Bauartzulassung können
 erstgeeicht werden, wenn sie den zum Zeitpunkt der Zulassungserteilung
 geltenden Anforderungen und der Bauartzulassung entsprechen.
-
 
 ### § 31 Nacheichung
 
@@ -1678,7 +1592,6 @@ oder weniger, die in den letzten vier Monaten vor Ende eines Jahres
 geeicht, aber nicht verwendet oder bereitgehalten wurden, können in
 den ersten beiden Monaten des folgenden Jahres mit einer vereinfachten
 Prüfung nachgeeicht werden (Jahreswendeverfahren).
-
 
 ### § 32 Befundprüfung
 
@@ -1700,7 +1613,6 @@ Verkehrsfehlergrenzen und die sonstigen Anforderungen, die zum
 Zeitpunkt der Eichung gegolten haben. In allen anderen Fällen gelten
 die zum Zeitpunkt des Antrages auf Befundprüfung maßgebenden
 Verkehrsfehlergrenzen und sonstigen Anforderungen.
-
 
 ### § 33 Fehlergrenzen
 
@@ -1727,7 +1639,6 @@ wird.
 (6) Bei Messgeräten nach § 7h entsprechen die Eichfehlergrenzen den
 Fehlergrenzen der entsprechenden messgerätespezifischen Anhänge der
 Richtlinie 2004/22/EG.
-
 
 ### § 34 Stempelzeichen
 
@@ -1762,7 +1673,6 @@ Zur Sicherung kann auch der Hauptstempel verwendet werden.
 
 (4) Die Ausführung der Stempelzeichen ist in Anhang D Nr. 3
 festgelegt.
-
 
 ### § 35 Kennzeichnung der Meßgeräte
 
@@ -1801,10 +1711,7 @@ Datumszeichen, zu kennzeichnen.
 kann es nicht unmittelbar in einen ordnungsgemäßen Zustand versetzt
 werden, so ist der Hauptstempel zu entwerten.
 
-
 ## Teil 7 - Allgemeine Anforderungen an Meßgeräte für die innerstaatliche Zulassung und Eichung
-
-
 
 ### § 36 Meßrichtigkeit
 
@@ -1815,7 +1722,6 @@ Nenngebrauchsbedingungen richtige Meßergebnisse erwarten lassen.
 (2) Referenzbedingungen für die meßtechnische Prüfung und
 Nenngebrauchsbedingungen sind in den Anlagen aufgeführt oder können
 bei der Bauartzulassung festgelegt werden.
-
 
 ### § 37 Meßbeständigkeit
 
@@ -1838,15 +1744,10 @@ Meßergebnissen
 
 4.  selbsttätig auf ein Ersatzmeßgerät umgeschaltet wird.
 
-
-
-
-
 ### § 38 Prüfbarkeit
 
 Meßgeräte müssen so ausgeführt sein, daß sie gefahrlos und ohne
 besonderen Aufwand an Prüfmitteln und Zeit geprüft werden können.
-
 
 ### § 39 Zusatzeinrichtungen, Geräteverbindungen
 
@@ -1862,7 +1763,6 @@ der des Meßgeräts geregelt ist.
 gekennzeichnet sein, daß die richtige und sichere Verbindung
 gewährleistet ist.
 
-
 ### § 40 Schutz gegen Eingriffe und Bedienungsfehler
 
 (1) Meßgeräte müssen gegen eine Verfälschung von Meßwerten durch
@@ -1871,7 +1771,6 @@ Bedienungsfehler und Eingriffe hinreichend geschützt sein.
 (2) Die richtige und zuverlässige Erfassung, Speicherung, Verarbeitung
 und Ausgabe der Daten muß unter den üblichen Betriebsbedingungen
 gewährleistet sein.
-
 
 ### § 41 Darstellung von Meßwerten und Daten
 
@@ -1890,7 +1789,6 @@ Technik zu beachten.
 Verwechslungen mit Angaben führen, auf die sich die Eichung bezieht.
 Zur Unterscheidung können bei der Zulassung besondere Kennzeichnungen
 oder eine räumliche Trennung der Ausgaben gefordert werden.
-
 
 ### § 42 Verwendungshinweise, Bezeichnungen und Aufschriften
 
@@ -1925,7 +1823,6 @@ verwechselt werden können.
 irreführend sein und die Ablesbarkeit des Meßgeräts nicht
 beeinträchtigen.
 
-
 ### § 43 Stempelstellen
 
 (1) An den Meßgeräten muß eine geeignete Stelle für vorgeschriebene
@@ -1959,22 +1856,13 @@ gestattet ist, müssen geeignete Stellen zum Aufbringen von Kennzeichen
 vorgesehen sein, welche die Zusammengehörigkeit der Teile erkennen
 lassen.
 
-
 ## Teil 8 -
-
-
 
 ### (XXXX) §§ 44 bis 46 (weggefallen)
 
-
-
 ## Teil 9 - Prüfstellen für die Eichung von Meßgeräten für Elektrizität, Gas, Wasser oder Wärme
 
-
-
 ### 1. Abschnitt - Anerkennung
-
-
 
 #### § 47 Voraussetzungen
 
@@ -2006,17 +1894,12 @@ bieten, daß er in der Lage ist,
     Anerkennung zu entscheiden hat, wegen seiner Haftung für
     Amtspflichtverletzungen des Prüfstellenpersonals entstehen kann.
 
-
-
-
-
 #### § 48 Antrag
 
 Der Antrag auf staatliche Anerkennung einer Prüfstelle ist an die
 zuständige Behörde zu richten. Dem Antrag müssen die für die
 Beurteilung der Anerkennungsvoraussetzungen erforderlichen Angaben und
 Unterlagen beigefügt sein.
-
 
 #### § 49 Anerkennung
 
@@ -2028,7 +1911,6 @@ an.
 eichen darf, und die Messbereiche, innerhalb derer Eichungen
 vorgenommen werden dürfen, zu bezeichnen.
 
-
 #### § 50 Rücknahme und Widerruf
 
 (1) Die Anerkennung kann außer nach den Vorschriften der
@@ -2037,15 +1919,11 @@ Beschränkungen der Anerkennung nicht beachtet werden.
 
 (2) Rücknahme und Widerruf der Anerkennung bedürfen der Schriftform.
 
-
 #### § 50a Aufsicht
 
 Die zuständige Behörde führt die Aufsicht über die Prüfstelle.
 
-
 ### 2. Abschnitt - Prüfstellenleitung
-
-
 
 #### § 51 Leiter und Stellvertreter
 
@@ -2053,7 +1931,6 @@ Die Prüfstelle muß einen Leiter und mindestens einen stellvertretenden
 Leiter (Stellvertreter) haben. Als Leiter oder Stellvertreter darf nur
 beschäftigt werden, wer von der zuständigen Behörde öffentlich
 bestellt und verpflichtet ist.
-
 
 #### § 52 Antrag
 
@@ -2076,10 +1953,6 @@ Prüfstelle nachzuweisen.
 
 
 3.  die erforderliche Sachkunde nicht nachgewiesen ist.
-
-
-
-
 
 #### § 53 Sachkunde
 
@@ -2128,7 +2001,6 @@ durch eine Prüfung nachgewiesen wird.
 (3) Die zuständige Behörde kann im Benehmen mit der Bundesanstalt
 Ausnahmen von den Vorschriften des Absatzes 1 zulassen.
 
-
 #### § 54 Bestellung und Verpflichtung
 
 (1) Leiter und Stellvertreter werden für die Tätigkeit an einer
@@ -2164,7 +2036,6 @@ Religions- oder Bekenntnisgemeinschaft eine Beteuerungsformel dieser
 Gemeinschaft verwenden wolle, so kann er sie dem Eid oder dem Gelöbnis
 anfügen.
 
-
 #### § 55 Rücknahme und Widerruf
 
 (1) Die Bestellung kann außer nach den Vorschriften der
@@ -2175,23 +2046,18 @@ unparteiisch ausführt oder ausführen läßt.
 
 (2) Rücknahme und Widerruf der Bestellung bedürfen der Schriftform.
 
-
 ### 3. Abschnitt - Betrieb der Prüfstelle
-
-
 
 #### § 56 Betriebsaufnahme
 
 Eine Prüfstelle darf ihren Betrieb erst aufnehmen, wenn die zuständige
 Behörde die Betriebserlaubnis schriftlich erteilt hat.
 
-
 #### § 57 Bezeichnung der Prüfstelle
 
 Die Prüfstellen führen die Bezeichnung "Staatlich anerkannte
 Prüfstelle" mit einem Zusatz, der auf die Art der zu eichenden
 Messgeräte und den Träger der Prüfstelle hinweist.
-
 
 #### § 58 Pflichten des Trägers der Prüfstelle
 
@@ -2212,7 +2078,6 @@ anzuzeigen.
 Aufsicht über die Prüfstelle erforderlichen Hilfskräfte und
 Einrichtungen zur Verfügung zu stellen.
 
-
 #### § 59 Eichung durch Prüfstellen
 
 (1) Für die Durchführung der Eichung durch die staatlich anerkannten
@@ -2227,7 +2092,6 @@ angebracht werden.
 
 (3) Die Ausführung der Stempelzeichen ist in Anhang D Nr. 4
 festgelegt.
-
 
 #### § 60 Befundprüfung und Sonderprüfung
 
@@ -2246,13 +2110,11 @@ ihrer unmittelbaren Aufsicht vorgenommen werden. Mit der staatlichen
 Anerkennung verbundene Auflagen, Bedingungen und inhaltliche
 Beschränkungen gelten auch für diese Prüfungen.
 
-
 #### § 61 Prüfungsunterlagen
 
 Die Prüfstellen haben über die von ihnen durchgeführten Eichungen,
 Befundprüfungen und Sonderprüfungen jederzeit nachprüfbare Unterlagen
 zu fertigen und zwei Jahre aufzubewahren.
-
 
 #### § 62 Verantwortung des Prüfstellenleiters
 
@@ -2283,7 +2145,6 @@ Stellvertreter ist insbesondere dafür verantwortlich, daß
 (2) Sind Leiter und Stellvertreter an der Leitung der Prüfstelle
 verhindert, dürfen keine Eichungen vorgenommen werden.
 
-
 #### § 63 Haftung
 
 (1) Begeht ein Angehöriger der Prüfstelle bei Ausübung seiner
@@ -2298,14 +2159,9 @@ hiervon nicht berührt.
 Abschluß einer nach Art und Höhe ausreichenden Haftpflichtversicherung
 und den Nachweis ihres Bestehens verlangen.
 
-
 ## Teil 10 - Einrichtungen und Betriebe im Bereich des gesetzlichen Meßwesens
 
-
-
 ### 1. Abschnitt - Öffentliche Waagen
-
-
 
 #### § 64 Pflichten des Betreibers einer öffentlichen Waage
 
@@ -2336,15 +2192,10 @@ Der Betreiber einer öffentlichen Waage hat
 4.  Namen und Namenszug des an der Waage tätigen Betriebspersonals für den
     Auftraggeber deutlich lesbar auszuhängen.
 
-
-
-
-
 #### § 64a Anzeigepflicht
 
 Wer den Betrieb einer öffentlichen Waage anfängt oder einstellt, hat
 dies der zuständigen Behörde unverzüglich anzuzeigen.
-
 
 #### § 64b Untersagung des Betriebs von öffentlichen Waagen
 
@@ -2353,10 +2204,7 @@ vorliegen, welche die Unzuverlässigkeit des Betreibers eines
 Wägebetriebs oder einer mit der Leitung des Betriebs beauftragten
 Person in bezug auf den Wägebetrieb dartun.
 
-
 #### § 65 (weggefallen)
-
-
 
 #### § 66 Nachweis der Sachkunde
 
@@ -2432,14 +2280,9 @@ den Europäischen Wirtschaftsraum rechtmäßig niedergelassen ist und nur
 vorübergehend im Inland tätig werden will, hat diese Absicht vorher
 schriftlich der zuständigen Behörde anzuzeigen.
 
-
 #### § 67 (weggefallen)
 
-
-
 #### § 68 (weggefallen)
-
-
 
 #### § 69 Pflichten bei der Durchführung öffentlicher Wägungen
 
@@ -2453,10 +2296,6 @@ Der Betreiber öffentlicher Waagen und das Betriebspersonal haben
     durchführende Betriebspersonal, oder einer ihrer Angehörigen im Sinne
     des § 383 Absatz 1 Nummer 1 bis 3 der Zivilprozessordnung ein
     unmittelbares Interesse an dem Wägeergebnis hat.
-
-
-
-
 
 #### § 70 Nachweis des Wägeergebnisses
 
@@ -2477,7 +2316,6 @@ Unterlagen über die bescheinigten öffentlichen Wägungen für die Dauer
 von zwei Jahren, gerechnet ab dem Zeitpunkt der Beendigung des
 Wiegevorgangs, aufbewahren.
 
-
 #### § 71 Wägen in besonderen Fällen
 
 (1) Beim Wägen von Lastzügen muß der Teil des Lastzugs, der auf der
@@ -2492,10 +2330,7 @@ ungebremst auf der Waagenbrücke stehen. In diesem Falle ist bei dem
 Wägeergebnis die Angabe: "Achsweise gewogen" zu vermerken. § 6 Abs. 4
 bleibt unberührt.
 
-
 ### 2. Abschnitt - Instandsetzungsbetriebe und Wartungsdienste
-
-
 
 #### § 72 Instandsetzungsbetriebe
 
@@ -2538,15 +2373,11 @@ Instandsetzerkennzeichen und Stempelzeichen zu übergeben.
 (8) Die Ausführung des Instandsetzerkennzeichens und des
 Stempelzeichens ist in Anhang D Nr. 6 festgelegt.
 
-
 #### § 73
 
 (weggefallen)
 
-
 ## Teil 11 - Ordnungswidrigkeiten, Übergangs- und Schlußvorschriften
-
-
 
 ### § 74 Ordnungswidrigkeiten
 
@@ -2737,17 +2568,12 @@ handelt, wer vorsätzlich oder fahrlässig
     46 der Eichordnung in der am 12. Februar 2007 geltenden Fassung ein
     Schankgefäß in Verkehr bringt oder in Betrieb nimmt.
 
-
-
-
-
 ### § 75 Bezugsquelle und Niederlegung technischer Regeln
 
 Die technischen Regeln des DIN Deutsches Institut für Normung e. V.,
 auf die in dieser Verordnung verwiesen wird, sind beim Deutschen
 Patentamt in München archivmäßig gesichert niedergelegt und beim Beuth
 Verlag GmbH, Berlin und Köln, erschienen.
-
 
 ### § 76 Ausnahmen
 
@@ -2765,7 +2591,6 @@ die für Zwecke der zivilen Verteidigung und des Katastrophenschutzes
 verwendet werden oder eingelagert sind und den §§ 1 und 2 unterliegen,
 Ausnahmen von den Vorschriften dieser Verordnung zulassen, wenn die
 Meßsicherheit auf andere Weise gewährleistet ist.
-
 
 ### § 77 Übergangsvorschriften
 
@@ -2803,7 +2628,6 @@ weiterverwendet werden.
 
 (7) Messgeräte nach § 1 Abs. 1 und § 3 Abs. 2, die bereits geeicht
 worden sind, bedürfen keiner Konformitätsbescheinigung.
-
 
 ### § 78 Außerkrafttreten von Vorschriften
 
@@ -2878,14 +2702,12 @@ worden sind, bedürfen keiner Konformitätsbescheinigung.
 aufgeführten medizinischen Meßgeräte wird durch die in dieser
 Verordnung getroffene Regelung ersetzt.
 
-
 ### § 79 EWG-Richtlinien
 
 Richtlinien des Rates oder der Kommission der Europäischen
 Gemeinschaften zur Änderung der in den Anlagen genannten Richtlinien
 über einzelne Meßgerätearten gelten von dem Tage an, zu dem die
 Bundesrepublik Deutschland diese Änderungsrichtlinien anzuwenden hat.
-
 
 ### § 80 Anerkennung
 
@@ -2911,7 +2733,6 @@ die Entscheidung über die Aufhebung einer Entscheidung nach Absatz 2.
 (4) Die Bundesanstalt macht die Entscheidungen nach den Absätzen 2 und
 3 bekannt.
 
-
 ### § 81 Inkrafttreten
 
 (1) Diese Verordnung tritt unbeschadet des Absatzes 2 am ersten Tage
@@ -2919,7 +2740,6 @@ des auf die Verkündung folgenden dritten Kalendermonats in Kraft.
 
 (2) § 29 Abs. 4, Anlage 1 Abschnitt 1 Teil 1 und Anlage 15 Abschnitt 1
 Teil 1 treten am Tage nach der Verkündung in Kraft.
-
 
 ### Anhang A (zu § 8) Ausnahmen von der Eichpflicht
 
@@ -3203,10 +3023,6 @@ Von der Eichpflicht ausgenommen sind
 
 
 30. Messgeräte im öffentlichen Vermessungswesen und im Markscheidewesen.
-
-
-
-
 
 ### Anhang B (zu den §§ 12 und 14) Besondere Gültigkeitsdauer der Eichung
 
@@ -3990,14 +3806,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         zugelassen ist. Kontrollmessungen müssen mindestens halbjährlich
         ausgeführt werden.
 
-
-
-
-
 ### Anhang C (weggefallen)
 
 -
-
 
 ### Anhang D (zu den §§ 5, 7d, 13, 24, 25, 34, 35, 59, 68 und 72) Verzeichnis der Stempel und Zeichen
 
@@ -4197,10 +4008,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     ausgenommen sind, besteht aus einem Quadrat mit einer Kantenlänge von
     mindestens 25 mm, das als schwarzen Aufdruck den Großbuchstaben M auf
     rotem Hintergrund trägt und diagonal durchkreuzt ist.
-
-
-
-
 
 ### Anlage 1 (zu § 7k) Geräte zur Messung von Längen und ihrer Kombinationen
 
@@ -4935,13 +4742,6 @@ Fläche
         Muskelfleischanteil feststellende Geräte werden in der Zulassung
         festgelegt.
 
-
-
-
-
-
-
-
 ### Anlage 2 (zu § 7k) Ausschankmaße EG-Anforderungen
 
 Fundstelle des Originaltextes: BGBl. I 2007, 82
@@ -5010,13 +4810,6 @@ Fundstelle des Originaltextes: BGBl. I 2007, 82
         denen der Hersteller wählen kann, lauten wie folgt:
 
         A1 oder F1 oder D1 oder E1 oder B + E oder B + D oder H.
-
-
-
-
-
-
-
 
 ### Anlage 3 Volumenmeßgeräte für nichtflüssige Meßgüter
 
@@ -5104,13 +4897,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
     4   **Fehlergrenzen**
 
         Die Fehlergrenzen betragen 2% des abgemessenen Volumens.
-
-
-
-
-
-
-
 
 ### Anlage 4 Volumenmeßgeräte für Flüssigkeiten in ruhendem Zustand
 
@@ -6017,13 +5803,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
         mindestens 50 mm mal 40 mm groß sein. Bei Fässern mit einem Volumen
         von 10 l oder weniger dürfen die Abmessungen 25 mm mal 20 mm betragen.
 
-
-
-
-
-
-
-
 ### Anlage 5 (zu § 7k) Messanlagen für die kontinuierliche und dynamische Messung von Mengen von Flüssigkeiten außer Wasser EG-Anforderungen
 
 Fundstelle des Originaltextes: BGBl. I 2007, 82 - 84
@@ -6212,13 +5991,6 @@ Fundstelle des Originaltextes: BGBl. I 2007, 82 - 84
         Abweichend von § 33 Abs. 4 entsprechen die Verkehrsfehlergrenzen für
         Messanlagen nach Nummer 1.6 einschließlich der Kraftstoffzapfsäulen
         nach Nummer 1.7 den Fehlergrenzen nach Nummer 2.
-
-
-
-
-
-
-
 
 ### Anlage 6 (zu § 7k) Wasserzähler
 
@@ -6638,13 +6410,6 @@ Fundstelle des Originaltextes: BGBl. I 2007, 82 - 84
         Funktionsprüfung am Einbauort gegen Eingriffe durch Stempelung
         gesichert zu werden. Der Hauptstempel darf erst nach der
         Funktionsprüfung am Einbauort angebracht werden.
-
-
-
-
-
-
-
 
 ### Anlage 7 (zu § 7k)
 
@@ -8587,16 +8352,6 @@ Teil 2 ****
 
         -   an den Anschlüssen von Signalausgängen.
 
-
-
-
-
-
-
-
-
-
-
 ### Anlage 8 Gewichtstücke
 
 (Fundstelle des Originaltextes: BGBl. I 1988 Nr. 43, Anlageband S. 33
@@ -9009,13 +8764,6 @@ m(tief)k = m x --------------------
         nachgeeicht werden. Es gelten die Eichfehlergrenzen für
         Handelsgewichte mit den nächstkleineren Nennwerten nach Nummer 3.2.2.
 
-
-
-
-
-
-
-
 ### Anlage 9 Nichtselbsttätige Waagen
 
 (Fundstelle: BGBl. I 1992, S. 1660 - 1662,
@@ -9402,13 +9150,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     6.2 Nichtselbsttätige Waagen nach Nummer 6.1 können unbefristet
         nachgeeicht werden.
-
-
-
-
-
-
-
 
 ### Anlage 10 (zu § 7k) Selbsttätige Waagen
 
@@ -10169,13 +9910,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         Waagen sind durch eine gemeinsame Stempelstelle gegen Austausch zu
         sichern.
 
-
-
-
-
-
-
-
 ### Anlage 11 Meßgeräte zur Bewertung von Getreide und Ölsaaten
 
 Fundstelle des Originaltextes: BGBl. I 1988 Nr. 43, Anlageband S. 49 -
@@ -10498,13 +10232,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
         In der Gebrauchsanweisung muß außerdem das Zulassungszeichen angegeben
         sein.
-
-
-
-
-
-
-
 
 ### Anlage 12 Volumenmeßgeräte für Laboratoriumszwecke
 
@@ -11254,9 +10981,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   0,05
 
-
-
-
 ## 8.3 Fehlergrenzen für Meßpipetten auf Ablauf
 
 *    *   Gesamtvolumen
@@ -11773,16 +11497,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         h)  wenn die Justierung sich nicht auf Wasser bezieht, die Flüssigkeit,
             für die das Meßgerät justiert ist.
 
-
-
-
-
-
-
-
-
-
-
 ### Anlage 13 Dichte- und Gehaltsmeßgeräte
 
 (Fundstelle: BGBl. I 1988 Nr. 43, Anlageband S. 56 - 61,
@@ -12100,9 +11814,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   0,05
 
     *   -
-
-
-
 
 ## 4.1.3 bei eingebauten Thermometern
 
@@ -12877,13 +12588,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     7.2 Die Eichfehlergrenze muss an der Frontseite oder an anderer, gut
         sichtbarer Stelle angegeben sein oder angezeigt werden.
 
-
-
-
-
-
-
-
 ### Anlage 14 Temperaturmeßgeräte
 
 (Fundstelle: BGBl. I 1988 Nr. 43, Anlageband S. 62 - 66,
@@ -13042,9 +12746,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   4
 
     *   5
-
-
-
 
 ## 4.1.2 bei Thermometern mit nicht benetzender Flüssigkeit und
 Skalenteilungswerten von 0,05 Grad C bis 5 Grad C, die ganz
@@ -13728,29 +13429,9 @@ eintauchend justiert sind,
                 *
                     *   Abschnitt 5
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Anlage 15
 
 (weggefallen)
-
 
 ### Anlage 16 Überdruckmessgeräte
 
@@ -13874,13 +13555,6 @@ Fundstelle des Originaltextes: BGBl. I 2000, 1326 - 1327
 
     3.6 Für Überdruckmessgeräte mit zwei Messwerken gelten die Fehlergrenzen
         für jedes der beiden Messwerke unabhängig voneinander.
-
-
-
-
-
-
-
 
 ### Anlage 17 Meßgeräte für milchwirtschaftliche Untersuchungen
 
@@ -14100,10 +13774,6 @@ Fundstelle des Originaltextes: BGBl. I 1988 Nr. 43, Anlageband S. 81 -
     *   eingebaute Thermometer
 
     *   0,5 Grad C
-
-
-
-
 
 ### Anlage 18 (zu § 7k) Meßgeräte im Straßenverkehr
 
@@ -16001,13 +15671,6 @@ d Dicke der Rauchschicht.
     4.2 Die Verkehrsfehlergrenzen sind gleich den Fehlergrenzen nach Nummer
         4\.1.2.
 
-
-
-
-
-
-
-
 ### Anlage 19 Zeitzähler - Stoppuhren
 
 Fundstelle des Originaltextes: BGBl. I 1988 Nr. 43, Anlageband S. 91
@@ -16061,13 +15724,6 @@ Fundstelle des Originaltextes: BGBl. I 1988 Nr. 43, Anlageband S. 91
     3.3.2 Bei Stoppuhren mit festgesetzter Gebrauchslage gelten die
         Fehlergrenzen für alle Lagen, die um nicht mehr als
         15 Grad von der festgesetzten Gebrauchslage abweichen.
-
-
-
-
-
-
-
 
 ### Anlage 20 (zu § 7k) Meßgeräte für Elektrizität
 
@@ -17268,13 +16924,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     4.2 Die Abdeckung der Sekundäranschlüsse muß gesichert werden können.
 
-
-
-
-
-
-
-
 ### Anlage 21 Schallpegelmeßgeräte
 
 Fundstelle des Originaltextes: BGBl. I 1988 Nr. 43, Anlageband S. 97 -
@@ -17826,13 +17475,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
         Die Verkehrsfehlergrenzen betragen das 1,25fache der
         Eichfehlergrenzen, gerundet auf zehntel Dezibel.
 
-
-
-
-
-
-
-
 ### Anlage 22 (zu § 7k) Messgeräte für thermische Energie
 
 (Fundstelle des Originaltextes: BGBl. I 2007, 100 - 102)
@@ -18160,13 +17802,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
         Vollständige Geräte und Teilgeräte von Kältezählern nach Nummer 2.2
         müssen je eine Hauptstempelstelle aufweisen.
-
-
-
-
-
-
-
 
 ### Anlage 23 Strahlenschutzmeßgeräte
 
@@ -19124,13 +18759,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         zur Eichung zugelassen, wenn sie die Fehlergrenzen nach Nummer 5
         einhalten. Sie können bis zum 31. Dezember 2001 erstgeeicht und bis
         zum 31. Dezember 2010 nachgeeicht werden.
-
-
-
-
-
-
-
 
 ### Anhang EV Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet C Abschnitt III (BGBl. II 1990, 889, 1002) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 

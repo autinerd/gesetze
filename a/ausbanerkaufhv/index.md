@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1996, 1318
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
@@ -27,7 +25,6 @@ Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975
 (BGBl. I S. 3667) verordnet das Bundesministerium für Ernährung,
 Landwirtschaft und Forsten im Einvernehmen mit dem Bundesministerium
 für Bildung, Wissenschaft, Forschung und Technologie:
-
 
 ## § 1 Aufhebung der staatlichen Anerkennung von Ausbildungsberufen
 
@@ -58,13 +55,11 @@ d)  Zeichner/Zeichnerin in der Wasserwirtschaftsverwaltung entsprechend
 
 wird aufgehoben.
 
-
 ## § 2 Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
 Verordnung bestehen, sind die bisherigen Vorschriften weiter
 anzuwenden.
-
 
 ## § 3 Inkrafttreten
 

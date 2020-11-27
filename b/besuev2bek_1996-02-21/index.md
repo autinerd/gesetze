@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1996, 243
 
-
-
 ## (XXXX)
 
 Auf Grund des § 13 der Zweiten Besoldungs-Übergangsverordnung in der
@@ -33,7 +31,6 @@ geändert worden ist, ergebenden Dienst- und Anwärterbezüge für die
 Zeit ab 1. April 1995 bekanntgemacht.
 
 Der Bundesminister des Innern
-
 
 ## Anlage IA (Anlage IV des BBesG) Gültig ab 1. Mai 1995
 
@@ -1188,9 +1185,6 @@ Der Bundesminister des Innern
     *
     *
 
-
-
-
 ## Anlage IB (Anlage V des BBesG) Gültig ab 1. Mai 1995
 
    Fundstelle des Originaltextes: BGBl. I 1996, S. 247
@@ -1298,10 +1292,6 @@ Unterschiedsbetrag zusätzlich gewährt.
 
     *   519,89 DM.
 
-
-
-
-
 ## Anlage IC (Anlage VIII des BBesG) Gültig ab 1. April 1995
 
 (Fundstelle des Originaltextes: BGBl. I 1996, S. 248)
@@ -1407,10 +1397,6 @@ Unterschiedsbetrag zusätzlich gewährt.
     *   421
 
     *   93
-
-
-
-
 
 ## Anlage ID (Anlage IX des BBesG) Gültig ab 1. Mai 1995
 
@@ -2713,13 +2699,6 @@ Unterschiedsbetrag zusätzlich gewährt.
             Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S.
             1345).
 
-
-
-
-
-
-
-
 ## Anlage IIA (Anlage IV des BBesG) Gültig ab 1. Oktober 1995
 
 Fundstelle des Originaltextes: BGBl. I 1996, S. 252 - 254
@@ -3652,10 +3631,6 @@ Fundstelle des Originaltextes: BGBl. I 1996, S. 252 - 254
 
     *   13.848,60
 
-
-
-
-
 ## Anlage IIB (Anlage V des BBesG) Gültig ab 1. Oktober 1995
 
 (Fundstelle des Originaltextes: BGBl. I 1996, S. 255)
@@ -3775,10 +3750,6 @@ Unterschiedsbetrag zusätzlich gewährt.
 
     *   532,57 DM.
 
-
-
-
-
 ## Anlage IIC (Anlage VIII des BBesG) Gültig ab 1. Oktober 1995
 
 (Fundstelle des Originaltextes: BGBl. I 1996, S. 256)
@@ -3870,10 +3841,6 @@ Unterschiedsbetrag zusätzlich gewährt.
     *   432
 
     *   96
-
-
-
-
 
 ## Anlage IID (Anlage IX des BBesG) Gültig ab 1. Oktober 1995
 

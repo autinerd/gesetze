@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1990, 2914
 
-
-
 ## Eingangsformel
 
 Auf Grund der Anlage I Kapitel VIII Sachgebiet F Abschnitt III Nr. 1
@@ -34,7 +32,6 @@ Anhörung der Bundesanstalt für Arbeit gemäß § 234 Abs. 2 des
 Arbeitsförderungsgesetzes im Einvernehmen mit dem Bundesminister der
 Finanzen:
 
-
 ## § 1
 
 Die Sachbezugsverordnung 1991 in der Fassung der Bekanntmachung vom
@@ -42,7 +39,6 @@ Die Sachbezugsverordnung 1991 in der Fassung der Bekanntmachung vom
 Verordnung vom 17. Dezember 1990 (BGBl. I S. 2913), gilt in dem in
 Artikel 3 des Einigungsvertrages genannten Gebiet mit den in den §§ 2
 und 3 genannten Maßgaben.
-
 
 ## § 2
 
@@ -58,18 +54,15 @@ für Heizung 18,00 DM und für Beleuchtung 2,70 DM anzusetzen.
 anzusetzen, die sich aus § 4 der Sachbezugsverordnung 1991 in
 Verbindung mit § 1 Abs. 2 der Sachbezugsverordnung 1991 ergeben.
 
-
 ## § 3
 
 § 1 Abs. 5 Satz 3 und 4 der Sachbezugsverordnung 1991 ist mit der
 Maßgabe anzuwenden, daß für die Wohnung 45,00 DM und für Beleuchtung
 2,70 DM anzusetzen sind.
 
-
 ## § 4
 
 Diese Verordnung tritt am 1. Januar 1991 in Kraft.
-
 
 ## Schlußformel
 

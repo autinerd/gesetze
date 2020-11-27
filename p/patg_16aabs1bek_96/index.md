@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1996, 1495
 
-
-
 ## (XXXX)
 
 Auf Grund des § 16a Abs. 1 des Patentgesetzes in der Fassung der

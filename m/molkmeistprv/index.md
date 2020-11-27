@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 5 V v. 29.10.2008 I 2155
 
-
 ## Eingangsformel
 
 Auf Grund des § 81 Abs. 4 des Berufsbildungsgesetzes vom 14. August
@@ -28,7 +27,6 @@ das Bundesministerium für Ernährung, Landwirtschaft und Forsten im
 Einvernehmen mit dem Bundesministerium für Bildung und Wissenschaft
 nach Anhörung des Ständigen Ausschusses des Bundesinstituts für
 Berufsbildung:
-
 
 ## § 1 Ziel der Meisterprüfung und Bezeichnung des Abschlusses
 
@@ -76,7 +74,6 @@ und Führungskraft in einem milchwirtschaftlichen Betrieb wahrzunehmen:
 (2) Die erfolgreich abgelegte Prüfung führt zum anerkannten Abschluß
 Molkereimeister/Molkereimeisterin.
 
-
 ## § 1a Zulassungsvoraussetzungen zur Meisterprüfung
 
 (1) Zur Meisterprüfung ist zuzulassen, wer
@@ -107,7 +104,6 @@ Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche
 Handlungsfähigkeit) erworben hat, die die Zulassung zur Prüfung
 rechtfertigen.
 
-
 ## § 2 Gliederung der Meisterprüfung
 
 (1) Die Meisterprüfung umfaßt die Teile
@@ -128,7 +124,6 @@ schriftlich und mündlich durchzuführen.
 
 (3) Die Prüfungsaufgaben sollen sich auf betriebliche Situationen
 beziehen.
-
 
 ## § 3 Prüfungsanforderungen im Teil "Produktions- und Verfahrenstechnik"
 
@@ -224,7 +219,6 @@ oder für die eindeutige Beurteilung der Prüfungsleistung von Bedeutung
 ist. Die Ergänzungsprüfung soll je Prüfungsteilnehmer nicht länger als
 30 Minuten dauern.
 
-
 ## § 4 Prüfungsanforderungen im Teil "Betriebs- und Unternehmensführung"
 
 (1) Der Prüfungsteilnehmer soll nachweisen, daß er wirtschaftliche,
@@ -298,7 +292,6 @@ darzustellen und in einem Prüfungsgespräch zu erläutern. Für die
 betriebsbezogene Situationsaufgabe stehen bis zu sechs Stunden zur
 Verfügung. Das Prüfungsgespräch soll je Prüfungsteilnehmer nicht
 länger als 30 Minuten dauern.
-
 
 ## § 5 Prüfungsanforderungen im Teil "Berufsausbildung und Mitarbeiterführung"
 
@@ -515,7 +508,6 @@ Prüfung oder für die eindeutige Beurteilung der Prüfungsleistung von
 Bedeutung ist. Die Ergänzungsprüfung soll je Prüfungsteilnehmer nicht
 länger als 30 Minuten dauern.
 
-
 ## § 6 Anrechnung anderer Prüfungsleistungen
 
 Auf Antrag kann die zuständige Stelle den Prüfungsteilnehmer oder die
@@ -526,7 +518,6 @@ einer öffentlichen oder staatlich anerkannten Bildungseinrichtung oder
 vor einem staatlichen Prüfungsausschuss eine Prüfung mit Erfolg
 abgelegt wurde, die den Anforderungen der entsprechenden
 Prüfungsinhalte nach dieser Verordnung entspricht.
-
 
 ## § 7 Bestehen der Meisterprüfung
 
@@ -554,7 +545,6 @@ nicht bestanden, wenn in der gesamten Prüfung mindestens eine der
 Leistungen in den Prüfungen gemäß Absatz 1 mit "ungenügend" oder mehr
 als eine dieser Leistungen mit "mangelhaft" benotet worden ist.
 
-
 ## § 8 Wiederholung der Prüfung
 
 (1) Eine Prüfung, die nicht bestanden ist, kann zweimal wiederholt
@@ -568,7 +558,6 @@ bewertet worden sind und er sich innerhalb von zwei Jahren, gerechnet
 vom Tage der Beendigung der nichtbestandenen Prüfung an, zur
 Wiederholungsprüfung anmeldet.
 
-
 ## § 9 Übergangsvorschriften
 
 (1) Die bis zum 30. Dezember 2000 begonnenen Prüfungsverfahren können
@@ -579,7 +568,6 @@ nach den bis dahin geltenden Vorschriften zu Ende geführt werden.
 von zwei Jahren ab dem 31. Dezember 2000 zu einer Wiederholungsprüfung
 anmelden, können die Wiederholungsprüfung nach den am 30. Dezember
 2000 geltenden Vorschriften ablegen.
-
 
 ## § 10 Inkrafttreten, Außerkrafttreten
 

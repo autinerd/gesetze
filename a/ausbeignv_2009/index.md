@@ -15,14 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 88
 
-
 ## Eingangsformel
 
 Auf Grund des § 30 Absatz 5 des Berufsbildungsgesetzes vom 23. März
 2005 (BGBl. I S. 931) verordnet das Bundesministerium für Bildung und
 Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für
 Berufsbildung:
-
 
 ## § 1 Geltungsbereich
 
@@ -31,7 +29,6 @@ Ausbildungsberufen nach dem Berufsbildungsgesetz den Erwerb der
 berufs- und arbeitspädagogischen Fertigkeiten, Kenntnisse und
 Fähigkeiten nach dieser Verordnung nachzuweisen. Dies gilt nicht für
 die Ausbildung im Bereich der Angehörigen der freien Berufe.
-
 
 ## § 2 Berufs- und arbeitspädagogische Eignung
 
@@ -50,10 +47,6 @@ Berufsausbildung in den Handlungsfeldern:
 
 
 4.  Ausbildung abschließen.
-
-
-
-
 
 ## § 3 Handlungsfelder
 
@@ -200,10 +193,6 @@ Ausbilderinnen sind dabei in der Lage,
 4.  Auszubildende über betriebliche Entwicklungswege und berufliche
     Weiterbildungsmöglichkeiten zu informieren und zu beraten.
 
-
-
-
-
 ## § 4 Nachweis der Eignung
 
 (1) Die Eignung nach § 2 ist in einer Prüfung nachzuweisen. Die
@@ -237,12 +226,10 @@ Prüfung im praktischen Teil soll höchstens 60 Minuten dauern.
 Prüfungsausschuss. § 37 Absatz 2 und 3, § 39 Absatz 1 Satz 2, die §§
 40 bis 42, 46 und 47 des Berufsbildungsgesetzes gelten entsprechend.
 
-
 ## § 5 Zeugnis
 
 Über die bestandene Prüfung ist jeweils ein Zeugnis nach den Anlagen 1
 und 2 auszustellen.
-
 
 ## § 6 Andere Nachweise
 
@@ -273,7 +260,6 @@ und die ordnungsgemäße Ausbildung sichergestellt ist. Die zuständige
 Stelle kann Auflagen erteilen. Auf Antrag erteilt die zuständige
 Stelle hierüber eine Bescheinigung.
 
-
 ## § 7 Fortführen der Ausbildertätigkeit
 
 Wer vor dem 1. August 2009 als Ausbilder im Sinne des § 28 Absatz 1
@@ -286,7 +272,6 @@ ordnungsgemäße Ausbildung nicht zu erwarten, kann die zuständige
 Stelle vom Nachweis nach den §§ 5 und 6 befreien; sie kann dabei
 Auflagen erteilen.
 
-
 ## § 8 Übergangsregelung
 
 Begonnene Prüfungsverfahren können bis zum Ablauf des 31. Juli 2010
@@ -298,11 +283,9 @@ Anwendung. Im Übrigen kann bei der Anmeldung zur Prüfung bis zum
 Ablauf des 30. April 2010 die Anwendung der bisherigen Vorschriften
 beantragt werden.
 
-
 ## § 9 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2009 in Kraft.
-
 
 ## Anlage 1 (zu § 5) Muster
 
@@ -352,7 +335,6 @@ Diese Verordnung tritt am 1. August 2009 in Kraft.
 
 
    (Siegel der zuständigen Stelle)
-
 
 ## Anlage 2 (zu § 5) Muster
 

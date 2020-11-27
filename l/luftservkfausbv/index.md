@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1998, 611
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
@@ -27,17 +25,14 @@ Bundesministerium für Wirtschaft im Einvernehmen mit dem
 Bundesministerium für Bildung, Wissenschaft, Forschung und
 Technologie:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Servicekaufmann im Luftverkehr/Servicekauffrau im
 Luftverkehr wird staatlich anerkannt.
 
-
 ## § 2 Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Ausbildungsberufsbild
 
@@ -121,10 +116,6 @@ Fertigkeiten und Kenntnisse:
 
 6.3 Zahlungsverkehr und Buchführung.
 
-
-
-
-
 ## § 4 Ausbildungsrahmenplan
 
 (1) Die Fertigkeiten und Kenntnisse nach § 3 sollen mach den in den
@@ -142,12 +133,10 @@ Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges
 Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung
 ist auch in den Prüfungen nach den §§ 7 und 8 nachzuweisen.
 
-
 ## § 5 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 6 Berichtsheft
 
@@ -155,7 +144,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 7 Zwischenprüfung
 
@@ -183,10 +171,6 @@ durchzuführen:
 
 
 4.  Wirtschafts- und Sozialkunde.
-
-
-
-
 
 ## § 8 Abschlußprüfung
 
@@ -293,11 +277,9 @@ erbracht werden. Werden die Prüfungsleistungen in einem
 Prüfungsbereich mit "ungenügend" bewertet, so ist die Prüfung nicht
 bestanden.
 
-
 ## § 9 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 1998 in Kraft.
-
 
 ## Anlage I (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Servicekaufmann im Luftverkehr/zur Servicekauffrau im Luftverkehr - Sachliche Gliederung -
 
@@ -985,10 +967,6 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 *    *   e)
 
     *   vorbereitende Arbeiten für die Buchhaltung durchführen
-
-
-
-
 
 ## Anlage II (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Servicekaufmann im Luftverkehr/zur Servicekauffrau im Luftverkehr - Zeitliche Gliederung -
 

@@ -22,10 +22,7 @@ Neugefaßt durch
 Zuletzt geändert durch
 :   Art. 81 V v. 25.11.2003 I 2304
 
-
 ## Erster Abschnitt - Steuern vom Einkommen
-
-
 
 ### § 1 Steuerfreie Rücklage für Kapitalanlagen in Entwicklungsländern
 
@@ -267,7 +264,6 @@ Rechtsverhältnis mit Unternehmen in Entwicklungsländern, deren
 Rechtsordnung Kapitalanlagen im Sinne des Absatzes 3 Satz 1 Nr. 1 bis
 4 nicht zuläßt, sinngemäß anzuwenden.
 
-
 ### § 2 Steuerfreie Rücklage für Beteiligungen an Kapitalgesellschaften in Entwicklungsländern, die von der Entwicklungsgesellschaft erworben werden
 
 (1) Steuerpflichtige, die mit Mitteln eines inländischen Betriebs,
@@ -283,7 +279,6 @@ sechsten auf ihre Bildung folgenden Wirtschaftsjahr an jährlich mit
 mindestens einem Sechstel gewinnerhöhend aufzulösen.
 
 (2)
-
 
 ### § 3 Sondervorschriften für Kapitalanlagen durch Sacheinlagen
 
@@ -322,7 +317,6 @@ worden sind.
 
 (4) Die Absätze 1 bis 3 sind in den Fällen des § 1 Abs. 7 sinngemäß
 anzuwenden.
-
 
 ### § 4 Sondervorschriften für bestimmte Umwandlungen oder Veräußerungen
 
@@ -367,7 +361,6 @@ vorgenommen oder eine Rücklage gebildet, so finden die Vorschriften
 des § 34 Abs. 1 Satz 1 und 2 des Einkommensteuergesetzes auf den bei
 der Umwandlung, Veräußerung oder Einbringung entstandenen Gewinn keine
 Anwendung.
-
 
 ### § 5 Wegfall der Steuervergünstigungen
 
@@ -480,7 +473,6 @@ aufzulösen.
 (4) Die Absätze 1 bis 3 sind in den Fällen des § 1 Abs. 7 sinngemäß
 anzuwenden.
 
-
 ### § 6 Entwicklungsländer
 
 (1) Entwicklungsländer im Sinne dieses Gesetzes sind die folgenden
@@ -517,10 +509,7 @@ Zypern.
 außereuropäische Länder, die nach dem 31. Dezember 1978 unabhängig
 geworden sind.
 
-
 ## Zweiter Abschnitt - Gewerbesteuer und Vermögensteuer
-
-
 
 ### § 7
 
@@ -539,10 +528,7 @@ forstwirtschaftlichen Betriebs vorgenommen worden, so ist Absatz 2
 entsprechend bei der Ermittlung des Gesamtvermögens des Inhabers
 dieses land- und forstwirtschaftlichen Betriebs anzuwenden.
 
-
 ## Dritter Abschnitt - Schlußvorschriften
-
-
 
 ### § 8 Ermächtigung
 
@@ -550,7 +536,6 @@ Das Bundesministerium der Finanzen wird ermächtigt, den Wortlaut
 dieses Gesetzes in der jeweils geltenden Fassung mit neuem Datum,
 unter neuer Überschrift und in neuer Paragraphenfolge bekanntzumachen
 und dabei Unstimmigkeiten des Wortlauts zu beseitigen.
-
 
 ### § 9 Statistik
 
@@ -586,12 +571,10 @@ den §§ 1 und 7 in Anspruch genommen haben.
 (4) Die Bundesstatistik wird für das Wirtschaftsjahr durchgeführt, das
 nach dem 31. Dezember 1978 endet.
 
-
 ### § 10 Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin.
-
 
 ### § 11 Anwendungsbereich
 

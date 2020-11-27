@@ -18,12 +18,9 @@ Fundstelle
 Geändert durch
 :   Art. 4 G v. 11.7.2011 I 1341
 
-
 ## Teil 1 - Berufsrecht
 
-
 ### Kapitel 1 - Allgemeine Vorschriften
-
 
 #### § 1 Eigentümerpflichten
 
@@ -81,7 +78,6 @@ Verwaltungsaktes im Wege der Ersatzvornahme durchzusetzen haben. Das
 Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des
 Grundgesetzes) wird insoweit eingeschränkt.
 
-
 #### § 2 Schornsteinfeger und Schornsteinfegerinnen
 
 (1) Die nach den Rechtsverordnungen nach § 1 Abs. 1 Satz 2 und 3 oder
@@ -105,7 +101,6 @@ Schornsteinfegergesetzes von Staatsangehörigen eines anderen
 Mitgliedstaates der Europäischen Union oder eines Vertragsstaates des
 Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz
 durchgeführt werden.
-
 
 #### § 3 Schornsteinfegerregister
 
@@ -163,10 +158,6 @@ mitzuteilen. Die Daten sind unverzüglich zu löschen, wenn
     Geltungsbereich dieses Gesetzes keine Schornsteinfegerarbeiten mehr
     ausführen möchte.
 
-
-
-
-
 #### § 4 Nachweise
 
 (1) Die fristgerechte Durchführung der im Feuerstättenbescheid nach §
@@ -201,7 +192,6 @@ sind so zu fassen, dass die bevollmächtigten Bezirksschornsteinfeger
 und Bezirksschornsteinfegermeister ihnen alle für die Führung des
 Kehrbuchs nach § 19 relevanten Daten entnehmen können.
 
-
 #### § 5 Mängel
 
 (1) Mängel an kehr- und überprüfungspflichtigen Anlagen, die nicht
@@ -224,7 +214,6 @@ zuständigen Behörde und dem zuständigen bevollmächtigten
 Bezirksschornsteinfeger oder dem Bezirksschornsteinfegermeister zu
 melden.
 
-
 #### § 6 Erbbaurecht und Gebäudeeigentum
 
 Für Erbbauberechtigte sowie für Eigentümer von Gebäuden nach Artikel
@@ -232,43 +221,34 @@ Für Erbbauberechtigte sowie für Eigentümer von Gebäuden nach Artikel
 Gesetzbuche sind die für Eigentümer von Grundstücken geltenden
 Vorschriften dieses Gesetzes entsprechend anzuwenden.
 
-
 ### Kapitel 2 - Bezirke, bevollmächtigte Bezirksschornsteinfeger
-
 
 #### § 7 Bezirke
 
 Für die Überprüfung der Einhaltung der Pflichten nach § 1 Abs. 1 und 2
 richtet die zuständige Behörde Bezirke ein.
 
-
 #### § 8
 
 (zukünftig in Kraft)
-
 
 #### § 9
 
 (zukünftig in Kraft)
 
-
 #### § 10
 
 (zukünftig in Kraft)
-
 
 #### § 11
 
 (zukünftig in Kraft)
 
-
 #### § 12
 
 (zukünftig in Kraft)
 
-
 ### Kapitel 3 - Aufgaben, Befugnisse und Pflichten der bevollmächtigten Bezirksschornsteinfeger und Bezirksschornsteinfegermeister
-
 
 #### § 13 Allgemeine Aufgaben der bevollmächtigten Bezirksschornsteinfeger und Bezirksschornsteinfegermeister
 
@@ -277,21 +257,17 @@ Bezirksschornsteinfegermeister kontrollieren die Einhaltung der
 Pflichten der Eigentümer nach § 1 Abs. 1 und 2 und führen die
 Kehrbücher.
 
-
 #### § 14
 
 (zukünftig in Kraft)
-
 
 #### § 15
 
 (zukünftig in Kraft)
 
-
 #### § 16
 
 (zukünftig in Kraft)
-
 
 #### § 17 Aufgaben der Bezirksschornsteinfegermeister
 
@@ -336,11 +312,9 @@ zuzustellen. Dies gilt auch dann, wenn
 Der Feuerstättenbescheid nach den Sätzen 1 und 2 gilt nur für den
 Zeitraum bis zur nächsten Feuerstättenschau.
 
-
 #### § 18
 
 (zukünftig in Kraft)
-
 
 #### § 19 Führung des Kehrbuchs
 
@@ -442,19 +416,13 @@ Stellen dürfen die Daten nur übermittelt werden, soweit
     Interesse an der Kenntnis der Daten und der Betroffene kein
     schutzwürdiges Interesse an dem Unterbleiben der Übermittlung hat.
 
-
-
-
-
 #### § 20
 
 (zukünftig in Kraft)
 
-
 #### § 21
 
 (zukünftig in Kraft)
-
 
 #### § 22 Verhältnis zu Bestimmungen des Immissionsschutzrechts
 
@@ -463,15 +431,12 @@ Immissionsschutzgesetzes oder der nach diesem Gesetz erlassenen
 Rechtsverordnungen andere oder weitergehende Anordnungen zu treffen,
 bleiben von den Bestimmungen dieses Gesetzes unberührt.
 
-
 #### § 23 Zuständige Behörden
 
 Die für die Aufgaben nach diesem Gesetz zuständigen Behörden werden
 durch Landesrecht bestimmt.
 
-
 ### Kapitel 4 - Bußgeldvorschriften, Ersatzvornahme
-
 
 #### § 24 Bußgeldvorschriften
 
@@ -509,7 +474,6 @@ durch Landesrecht bestimmt.
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünftausend
 Euro geahndet werden.
 
-
 #### § 25 Nichterfüllung, Zweitbescheid
 
 (1) Die bevollmächtigten Bezirksschornsteinfeger oder
@@ -532,7 +496,6 @@ Pflichtigen anzudrohen.
 (4) Widerspruch und Anfechtungsklage gegen den Bescheid haben keine
 aufschiebende Wirkung.
 
-
 #### § 26 Ersatzvornahme
 
 (1) Wird die Verpflichtung, die in dem Zweitbescheid nach § 25 Abs. 2
@@ -549,44 +512,33 @@ Ersatzvornahme im Voraus zu bezahlen hat. Werden die voraussichtlich
 entstehenden Kosten der Ersatzvornahme nicht fristgerecht gezahlt, so
 können sie im Verwaltungszwangsverfahren beigetrieben werden.
 
-
 ## Teil 2 - Versorgung der bevollmächtigten Bezirksschornsteinfeger im Schornsteinfegerhandwerk
 
-
 ### Kapitel 1 - Organisation
-
 
 #### (XXXX) §§ 27 bis 34
 
 (zukünftig in Kraft)
 
-
 ### Kapitel 2 - Allgemeine Anspruchsregelungen
-
 
 #### (XXXX) §§ 35 bis 39
 
 (zukünftig in Kraft)
 
-
 ### Kapitel 3 - Mitgliedschaft und Beiträge
-
 
 #### (XXXX) §§ 40 und 41
 
 (zukünftig in Kraft)
 
-
 ### Kapitel 4 - Versorgungsleistungen
-
 
 #### (XXXX) §§ 42 bis 47
 
 (zukünftig in Kraft)
 
-
 ## Teil 3 - Übergangsregelungen
-
 
 ### § 48 Übergangsregelungen für Bezirksschornsteinfegermeister
 
@@ -599,21 +551,17 @@ zum 31. Dezember 2014 befristet. Erfolgt die Bestellung im Zeitraum
 vom Inkrafttreten dieses Gesetzes bis zum 31. Dezember 2009, ist sie
 auf sieben Jahre befristet.
 
-
 ### § 49
 
 (zukünftig in Kraft)
-
 
 ### § 50
 
 (zukünftig in Kraft)
 
-
 ### § 51
 
 (zukünftig in Kraft)
-
 
 ### § 52 Kehr- und Überprüfungsordnungen der Länder
 
@@ -624,7 +572,6 @@ Inkrafttretens dieses Gesetzes geltenden Fassung erlassen wurden. § 2
 Abs. 1, § 14 Abs. 1 und 2, § 19 Abs. 1 Nr. 3 und § 25 Abs. 2 sind auf
 die Kehr- und Überprüfungsordnungen der Länder entsprechend
 anzuwenden.
-
 
 ### § 53 Weitere Anwendung von Vorschriften
 

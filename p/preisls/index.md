@@ -19,10 +19,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 289 V v. 25.11.2003 I 2304
 
-
 ## I. - Allgemeines
-
-
 
 ### Nr 1 Geltungsbereich
 
@@ -52,7 +49,6 @@ Vereinbarungen gemäß §§ 5 bis 8 der Verordnung PR Nr. 30/53 über die
 Preise bei öffentlichen Aufträgen vom 21. November 1953
 (Bundesanzeiger Nr. 244 vom 18. Dezember 1953).
 
-
 ### Nr 2 Einrichtung und Ausgestaltung des Rechnungswesens
 
 Der Auftragnehmer ist zur Führung eines geordneten Rechnungswesens
@@ -60,7 +56,6 @@ verpflichtet. Dieses muß jederzeit die Feststellung der Kosten und
 Leistungen, die Abstimmung der Kosten- und Leistungsrechnung mit der
 Aufwands- und Ertragsrechnung sowie die Ermittlung von Preisen auf
 Grund von Selbstkosten ermöglichen.
-
 
 ### Nr 3 Erklärung des Auftragnehmers
 
@@ -74,13 +69,7 @@ a)  daß die in der Preisermittlung auf Grund von Selbstkosten angesetzten
 b)  daß die Preisermittlung auf Grund von Selbstkosten nach diesen
     Leitsätzen vorgenommen wurde.
 
-
-
-
-
 ## II. - Preisermittlung auf Grund von Selbstkosten
-
-
 
 ### Nr 4 Kosten und Selbstkostenpreise
 
@@ -105,7 +94,6 @@ Leitsätzen für die Selbstkostenpreisermittlung zulässigen Kosten aus
 der betriebsindividuellen Betriebsabrechnung im Wege der Zu- und
 Absetzung entwickelt werden, sofern hierdurch die Nachweisbarkeit
 erhalten bleibt.
-
 
 ### Nr 5 Arten der Preisermittlung auf Grund von Selbstkosten
 
@@ -132,10 +120,6 @@ b)  Zuschlagsverfahren (Verrechnungssatzverfahren
 
 c)  Mischformen von a) und b).
 
-
-
-
-
 ### Nr 6 Arten der Selbstkostenpreise
 
 Preise auf Grund von Selbstkosten können ermittelt werden
@@ -149,10 +133,6 @@ b)  durch Nachkalkulationen als Selbstkostenerstattungspreise,
 
 c)  durch Vorkalkulationen der Kosten einzelner und durch
     Nachkalkulationen der Kosten der übrigen Kalkulationsbereiche.
-
-
-
-
 
 ### Nr 7 Mengenansatz
 
@@ -179,7 +159,6 @@ b)  bei Preisvereinbarungen auf Grund von Nachkalkulationen
 Kosten einzelner und der Nachkalkulation der Kosten der übrigen
 Kalkulationsbereiche gelten die Bestimmungen des Absatzes 1 jeweils
 für die einzelnen Kalkulationsbereiche entsprechend.
-
 
 ### Nr 8 Bewertung
 
@@ -211,7 +190,6 @@ entnommen wurden.
 Kosten einzelner und der Nachkalkulation der Kosten der übrigen
 Kalkulationsbereiche gelten die Bestimmungen des Absatzes 2 jeweils
 für die einzelnen Kalkulationsbereiche entsprechend.
-
 
 ### Nr 9 Allgemeine Angaben zu Preiskalkulationen
 
@@ -251,10 +229,6 @@ a)  der Zeitabschnitt, in dem die abgerechneten Leistungen erstellt
 b)  die den abgerechneten Leistungen vorausgegangenen und laut
     Auftragsbestand oder Auftragszusage noch folgenden gleichartigen
     Leistungen.
-
-
-
-
 
 ### Nr 10 Gliederung der Preiskalkulationen
 
@@ -322,14 +296,9 @@ Auftragnehmer bereits erstellt worden sind, kann die Preisermittlung
 aus den Nachkalkulationen unter Berücksichtigung eingetretener
 Kostenänderungen abgeleitet werden.
 
-
 ## III. - Bestandteile des Selbstkostenpreises
 
-
-
 ### A. - Stoffe
-
-
 
 #### Nr 11 Fertigungsstoffe
 
@@ -355,7 +324,6 @@ c)  auswärts bezogene Fertigerzeugnisse (vollständig fertige Erzeugnisse,
 
 (2) Auf Nummer 13 Absatz 3 wird verwiesen.
 
-
 #### Nr 12 Auswärtige Bearbeitung
 
 (1) Als auswärtige Bearbeitung ist entweder der Bezug von
@@ -371,7 +339,6 @@ Das Gleiche gilt für Lohnarbeiten fremder Zulieferer.
 (3) Fertigungsgemeinkosten der werkseigenen Fertigungsstellen dürfen
 auf fremde Lohnarbeitskosten nicht in Ansatz gebracht werden.
 
-
 #### Nr 13 Hilfs- und Betriebsstoffe
 
 (1) Die Hilfsstoffe der Fertigung sind, sofern sie nicht aus
@@ -383,7 +350,6 @@ werden, wie Fertigungsstoffe zu behandeln.
 (3) Die Abgrenzung zwischen Fertigungsstoffen, Hilfs- und
 Betriebsstoffen soll nach einheitlichen Gesichtspunkten stetig
 durchgeführt werden.
-
 
 #### Nr 14 Sonderbetriebsmittel
 
@@ -400,7 +366,6 @@ Liefergegenstände als Sonderkosten der Fertigung zu verrechnen.
 (3) Der Verlauf und Stand der Tilgung durch die auf Liefergegenstände
 verrechneten Anteile müssen buch- oder karteimäßig nachweisbar sein.
 
-
 #### Nr 15 Brennstoffe und Energie
 
 (1) Zu Brennstoffen und Energie zählen feste, flüssige und gasförmige
@@ -408,7 +373,6 @@ Brenn- und Treibstoffe, Dampf, Strom, Preßluft und Preßwasser.
 
 (2) Die Brennstoff- und Energiekosten sind verrechnungstechnisch wie
 Betriebsstoffe zu behandeln.
-
 
 #### Nr 16 Mengenermittlung
 
@@ -427,7 +391,6 @@ objektive Maßstäbe, Stichproben oder dgl. zu ermitteln.
 Zeichnungen, Stücklisten, Rezepturvorschriften,
 Stoffbedarfszusammenstellungen oder dgl. in Nachkalkulationen aus
 Verbrauchsaufschreibungen oder dgl. zu ermitteln.
-
 
 #### Nr 17 Bewertung
 
@@ -449,7 +412,6 @@ oder Absatz 2 zu ersetzen oder in solche Preise umzurechnen.
 Regelungen sind, soweit keine anderen Rechtsvorschriften
 entgegenstehen, zulässig. Sie bedürfen vertraglicher Vereinbarung.
 
-
 #### Nr 18 Einstandspreis
 
 (1) Der Einstandspreis versteht sich im Regelfall frei Werk des
@@ -465,7 +427,6 @@ Jahres- und Umsatzrabatte, für zurückgesandte Verpackung und ähnliches
 sind zu belegen und bei Ermittlung des Einstandspreises abzusetzen,
 sofern nicht aus abrechnungstechnischen Gründen eine andersartige
 Verrechnung in den Selbstkosten erfolgt.
-
 
 #### Nr 19 Zulieferungen aus eigenen Vorbetrieben
 
@@ -486,17 +447,12 @@ b)  falls solche Zulieferungen in einem Geschäftszweig nicht üblich sind,
 
     die nach diesen Leitsätzen ermittelten Selbstkostenpreise.
 
-
-
-
-
 #### Nr 20 Beistellung von Stoffen
 
 Vom Auftraggeber kostenlos beigestellte Stoffe sind, soweit sie
 Gemeinkosten verursachen, entsprechend ihrem gegebenenfalls
 geschätzten Wert den Stoffkosten zuzuschlagen und sodann von den
 Selbstkosten mit dem gleichen Wert wieder abzusetzen.
-
 
 #### Nr 21 Reststoffe
 
@@ -509,10 +465,7 @@ durchschnittlich erzielten oder erzielbaren Erlösen, vermindert um die
 bei der Aufbereitung und Veräußerung entstandenen Kosten, den
 Stoffkosten gutzuschreiben.
 
-
 ### B. - Löhne, Gehälter und andere Personalkosten
-
-
 
 #### Nr 22 Verrechnung
 
@@ -539,14 +492,12 @@ kalkulatorischen Kostenarten ausgewiesen werden.
 (3) Die Kostenrechnung nach den Absätzen 1 und 2 soll nach
 einheitlichen Grundsätzen stetig durchgeführt werden.
 
-
 #### Nr 23 Ansatz
 
 In den Vor- und Nachkalkulationen dürfen Löhne, Gehälter und andere
 Personalkosten nach Art und Umfang nur insoweit berücksichtigt werden,
 als sie den Grundsätzen wirtschaftlicher Betriebsführung entsprechen
 (vgl. Nummer 4).
-
 
 #### Nr 24 Bewertung
 
@@ -569,7 +520,6 @@ Geschäftszweigs und gleicher Bedeutung oder mit Hilfe eines anderen
 objektiven Leistungsmaßstabs zu bemessen. Die Größe des Betriebs, der
 Umsatz und die Zahl der in ihm tätigen Unternehmer sind zu
 berücksichtigen.
-
 
 #### Nr 25 Sozialkosten
 
@@ -598,13 +548,7 @@ b)  die zusätzlichen Sozialaufwendungen, soweit sie nach Art und Höhe
     betriebs- oder branchenüblich sind und dem Grundsatz wirtschaftlicher
     Betriebsführung entsprechen.
 
-
-
-
-
 ### C. - Instandhaltung und Instandsetzung
-
-
 
 #### Nr 26 Ansatz
 
@@ -626,13 +570,7 @@ b)  sofern die Instandsetzung bezweckt, die Lebensdauer des
     Anlagegegenstands über die ursprüngliche technisch bedingte
     Lebensdauer hinaus (vgl. Nummer 39 Absatz 1) zu verlängern.
 
-
-
-
-
 ### D. - Entwicklungs-, und Entwurfs- und Versuchsaufträge
-
-
 
 #### Nr 27 "Freie" und "gebundene" Entwicklung
 
@@ -640,7 +578,6 @@ Entwicklungs- und Entwurfsarbeiten, Forschungen, Versuche und
 Herstellung von Probestücken, die die werkseigene sogenannte "freie"
 Entwicklung überschreiten, sind zwischen Auftraggeber und
 Auftragnehmer ausdrücklich zu vereinbaren ("gebundene" Entwicklung).
-
 
 #### Nr 28 Nachweis
 
@@ -654,10 +591,7 @@ mit dem Auftraggeber festzulegen.
 getrennt nach "freier" und "gebundener" Entwicklung gesondert
 auszuweisen.
 
-
 ### E. - Fertigungsanlauf, Bauartänderungen
-
-
 
 #### Nr 29 Ansatz
 
@@ -669,10 +603,7 @@ oder durch Bauartänderungen auf Veranlassung des Auftraggebers, sind
 diese in der Kostenrechnung und in den Kalkulationen gesondert
 auszuweisen.
 
-
 ### F. - Steuern, Gebühren, Beiträge
-
-
 
 #### Nr 30 Steuern
 
@@ -706,16 +637,11 @@ b)  Steuern, die nicht Kosten im Sinne dieser Leitsätze sind (nicht
     kalkulierbare Steuern), insbesondere die Einkommen-, Körperschaft- und
     Kirchensteuer, die Erbschaft- und Schenkungsteuer.
 
-
-
-
-
 #### Nr 31 Lastenausgleich
 
 Ausgleichsabgaben im Sinne des Gesetzes über den Lastenausgleich vom
 14\. August 1952 (Bundesgesetzbl. I S. 446) sind nicht Kosten im Sinne
 dieser Leitsätze.
-
 
 #### Nr 32 Gebühren und Beiträge
 
@@ -727,10 +653,7 @@ Zuwendungen an Vereinigungen und Körperschaften, die dem
 Betriebsinteresse dienen, können in angemessener Höhe berücksichtigt
 werden.
 
-
 ### G. - Lizenzen, Patente und gewerblicher Rechtsschutz
-
-
 
 #### Nr 33 Ansatz und Verrechnung
 
@@ -749,10 +672,7 @@ Fremd- und Eigenpatentkosten sind in den Kalkulationen als
 Sonderkosten auszuweisen, sofern sie bestimmte Erzeugnisse oder
 Erzeugnisgruppen betreffen.
 
-
 ### H. - Mieten, Büro-, Werbe- und Transportkosten und dgl.
-
-
 
 #### Nr 34 Mengenansatz und Bewertung
 
@@ -772,10 +692,7 @@ Für die Bemessung sonstiger Kostenarten, insbesondere der
 
 gelten die Nummern 4 und 16 bis 21 sinngemäß.
 
-
 ### I. - Vertriebssonderkosten
-
-
 
 #### Nr 35 Vertreterprovisionen
 
@@ -794,7 +711,6 @@ zwischen Auftraggeber und Auftragnehmer begrenzt werden.
 (3) Provisionen und ähnliche Vergütungen sind in den Kalkulationen
 gesondert auszuweisen.
 
-
 #### Nr 36 Versandbedingungen und Versandkosten
 
 Nach Maßgabe der vereinbarten Liefer- und Versandbedingungen sind die
@@ -804,14 +720,9 @@ auszuweisen, sofern aus Gründen der Wirtschaftlichkeit der
 Rechnungsführung nicht eine andere Art der Verrechnung in den Kosten
 vorgenommen wird.
 
-
 ### K. - Kalkulatorische Kosten
 
-
-
 #### a) - Anlageabschreibungen
-
-
 
 ##### Nr 37 Begriff
 
@@ -822,7 +733,6 @@ betriebsnotwendiger Anlagegüter.
 Leistungseinheit (Tonne, Stück, Maschinenstunde oder dgl.) ermittelt
 werden.
 
-
 ##### Nr 38 Abschreibungsbetrag und Bewertungsgrundsatz
 
 Der Abschreibungsbetrag für Anlagegüter ist unabhängig von den
@@ -830,7 +740,6 @@ Wertansätzen in der Handels- und Steuerbilanz zu verrechnen. Er ergibt
 sich durch Teilung des Anschaffungspreises oder der Herstellkosten
 durch die Gesamtnutzung. Die mit der Errichtung und Ingangsetzung
 verbundenen Kosten rechnen zu den Anschaffungs- oder Herstellkosten.
-
 
 ##### Nr 39 Nutzung der Anlagen
 
@@ -851,11 +760,9 @@ der kalkulatorische Restwert der Anlage (Tagesneuwert der Anlage
 abzüglich der bisherigen Wertminderung) geschätzt und als Ausgangswert
 für die Berechnung der Abschreibung verwendet werden.
 
-
 ##### Nr 40
 
 -
-
 
 ##### Nr 41 Sonderabschreibungen
 
@@ -865,7 +772,6 @@ Entwicklung oder Bedarfsverschiebung oder aus anderem Anlaß
 (Sonderabschreibungen) ist nur zulässig, wenn er mit dem Auftraggeber
 ausdrücklich vereinbart worden ist. Abschreibungssätze gemäß Satz 1
 sind gesondert auszuweisen.
-
 
 ##### Nr 42 Anlagenachweis
 
@@ -881,10 +787,7 @@ Einzelwerten zusammengefaßt werden.
 
 (3)
 
-
 #### b) - Zinsen
-
-
 
 ##### Nr 43 Bemessung
 
@@ -904,7 +807,6 @@ Nummer 34 berücksichtigt werden.
 (4) Nebenerträge aus Teilen des betriebsnotwendigen Kapitals (z.B.
 Zinsen, Mieten, Pachten) sind als Gutschriften zu behandeln.
 
-
 ##### Nr 44 Ermittlung des betriebsnotwendigen Kapitals
 
 (1) Das betriebsnotwendige Kapital besteht aus dem betriebsnotwendigen
@@ -923,7 +825,6 @@ und Handelsbetrieben, die landwirtschaftlich genutzten Grundstücke,
 die Wohnhäuser, soweit sie nicht für Betriebsangehörige notwendig
 sind, die nicht betriebsnotwendigen Beteiligungen, die Forderungen aus
 Kriegsschäden und die Kriegsfolgeschäden.
-
 
 ##### Nr 45 Wertansatz des betriebsnotwendigen Vermögens
 
@@ -951,17 +852,13 @@ nicht Bestimmungen der Absätze 1 bis 6 entgegenstehen, die
 Wertberichtigungsposten der Kapitalseite von den Buchwerten der
 Vermögensseite der Bilanz abzusetzen.
 
-
 ##### Nr 46 Mengenansatz des betriebsnotwendigen Vermögens
 
 Das betriebsnotwendige Vermögen und das Abzugskapital sind mit den im
 Abrechnungszeitabschnitt durchschnittlich gebundenen Mengen
 anzusetzen.
 
-
 #### c) - Einzelwagnisse
-
-
 
 ##### Nr 47 Abgrenzung
 
@@ -977,7 +874,6 @@ allgemeine Unternehmerwagnis.
 einzelnen Tätigkeitsgebieten des Betriebes verbundenen
 Verlustgefahren.
 
-
 ##### Nr 48 Verrechnung
 
 (1) Das allgemeine Unternehmerwagnis wird im kalkulatorischen Gewinn
@@ -989,7 +885,6 @@ Betriebsfremde Wagnisse sind außer Betracht zu lassen. Soweit Wagnisse
 durch Versicherungen gedeckt oder eingetretene Wagnisverluste in
 anderen Kostenarten abgegolten sind, ist der Ansatz von Wagniskosten
 nicht zulässig.
-
 
 ##### Nr 49 Ermittlung der kalkulatorischen Wagniskosten
 
@@ -1014,7 +909,6 @@ der Rechnungsführung entsprechenden Weise die Erfassung und
 Verrechnung der Wagniskosten vereinfachen. Dabei sollen Mittelbetriebe
 mindestens die Wagniskosten nach Kostenträgergruppen aufteilen.
 
-
 ##### Nr 50 Nachweis
 
 (1) Die eingetretenen Verluste oder Gewinne aus Wagniskosten sowie die
@@ -1025,10 +919,7 @@ der Buchführung laufend nachzuweisen.
 Ansatz einzelner Wagniskosten von einem besonderen Nachweis gegenüber
 dem Auftraggeber abhängig machen.
 
-
 ### L. - Kalkulatorischer Gewinn
-
-
 
 #### Nr 51 Begriff
 
@@ -1041,10 +932,6 @@ b)  ein Leistungsgewinn bei Vorliegen einer besonderen unternehmerischen
     Leistung in wirtschaftlicher, technischer oder organisatorischer
     Hinsicht. Der Leistungsgewinn soll der unternehmerischen Mehrleistung
     entsprechen.
-
-
-
-
 
 #### Nr 52 Höhe der Zurechnung
 

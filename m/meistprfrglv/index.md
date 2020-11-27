@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1997, 3324
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 50a der Handwerksordnung in der Fassung der
@@ -30,23 +28,19 @@ verordnet das Bundesministerium für Wirtschaft im Einvernehmen mit dem
 Bundesministerium für Bildung, Wissenschaft, Forschung und
 Technologie:
 
-
 ## § 1 Gleichstellung von Meisterprüfungszeugnissen im Handwerk
 
 Französische Zeugnisse über das Bestehen der Meisterprüfung werden den
 deutschen Zeugnissen über das Bestehen der Meisterprüfung im Handwerk
 nach Maßgabe der in der Anlage enthaltenen Aufstellung gleichgestellt.
 
-
 ## § 2 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage (zu § 1) Aufstellung der gleichgestellten Meisterprüfungszeugnisse
 

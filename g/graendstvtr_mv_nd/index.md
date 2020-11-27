@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1993, 1513, 1514
 
-
-
 ## Eingangsformel
 
 Um nach Überwindung der deutschen Teilung auch die Abtrennung der
@@ -35,7 +33,6 @@ Abs. 7 des Grundgesetzes in Verbindung mit § 2 Abs. 1 des Gesetzes
 über das Verfahren bei sonstigen Änderungen des Gebietsbestandes der
 Länder nach Artikel 29 Abs. 7 des Grundgesetzes vom 30. Juli 1979
 (BGBl. I S. 1325) folgenden Staatsvertrag:
-
 
 ## Art 1
 
@@ -56,7 +53,6 @@ Grenzänderungen werden in der Anlage graphisch dargestellt. Die Anlage
 ist Bestandteil dieses Staatsvertrages.
 
 (3) Der Grenzverlauf zwischen den Ländern bleibt im übrigen unberührt.
-
 
 ## Art 2
 
@@ -89,7 +85,6 @@ Vereinbarung nach Absatz 1 Satz 1 über den Eintritt in bestehende
 Arbeitsverhältnisse der Bediensteten des Landkreises Hagenow zu
 schließen.
 
-
 ## Art 3
 
 Das Verwaltungsvermögen der Körperschaften des öffentlichen Rechts im
@@ -103,7 +98,6 @@ nach Artikel 29 Abs. 7 des Grundgesetzes vom 30. Juli 1979 (BGBl. I S.
 Entschädigung werden in einer Protokollnotiz zu diesem Vertrag näher
 bezeichnet.
 
-
 ## Art 4
 
 Das der Naturparkverwaltung Elbetal in Tripkau zugeordnete
@@ -113,14 +107,12 @@ genutzt. Weitere Einzelheiten, insbesondere die gemeinsame
 Weiterführung der Naturschutzstation, werden in gesonderten
 Vereinbarungen geregelt.
 
-
 ## Art 5
 
 Das Land Niedersachsen gewährleistet, daß der Schutzstatus der im
 Umgliederungsgebiet vorhandenen naturschutzrechtlich geschützten Teile
 von Natur und Landschaft nach Inkrafttreten des Staatsvertrages
 erhalten bleibt.
-
 
 ## Art 6
 
@@ -138,7 +130,6 @@ Zuweisungen gewährt worden sind, die den Bedarfszuweisungen des § 20
 des niedersächsischen Gesetzes über den Finanzausgleich in der Fassung
 vom 28. Mai 1990 (Nieders. GVBl. S. 147), geändert durch Artikel I des
 Gesetzes vom 16. Dezember 1992 (Nieders. GVBl. S. 339), entsprechen.
-
 
 ## Art 7
 
@@ -161,7 +152,6 @@ sowie die für die Berichtigung der Grundbücher notwendigen Erklärungen
 abzugeben. Im Einvernehmen können die Innenministerien der Länder
 diese Frist im Einzelfall verlängern.
 
-
 ## Art 8
 
 (1) Die nach § 23 des Vermögensgesetzes in der Fassung vom 3. August
@@ -178,7 +168,6 @@ die Kosten, die durch die fortgeltende Zuständigkeit für das
 Umgliederungsgebiet nach Absatz 1 entstehen. Einzelheiten werden in
 einer Verwaltungsvereinbarung geregelt.
 
-
 ## Art 9
 
 Das Land Mecklenburg-Vorpommern zahlt im Jahre 1993 ab dem Tage des
@@ -188,7 +177,6 @@ Einheit" entspricht, die auf die betroffenen kommunalen
 Gebietskörperschaften nach § 5 Abs. 1 letzter Halbsatz des
 Finanzausgleichsgesetzes vom 15. April 1991 (GVOBl. M-V S. 118)
 monatlich bis zur Umgliederung im Jahre 1993 entfallen.
-
 
 ## Art 10
 
@@ -200,7 +188,6 @@ aufsichtsbehördlichen Genehmigungen und sonstigen Maßnahmen die
 obersten Sparkassenaufsichtsbehörden der Länder einvernehmlich
 entscheiden.
 
-
 ## Art 11
 
 (1) Der Staatsvertrag bedarf der Ratifikation. Die
@@ -208,7 +195,6 @@ Ratifikationsurkunden werden ausgetauscht.
 
 (2) Der Staatsvertrag tritt am ersten Tag nach Austausch der
 Ratifikationsurkunden in Kraft.
-
 
 ## Schlußformel
 
@@ -227,14 +213,10 @@ Ratifikationsurkunden in Kraft.
 
     *
 
-
-
-
 ## Anlage zum Staatsvertrag zwischen den Ländern Mecklenburg-Vorpommern und Niedersachsen über die Umgliederung der Gemeinden im ehemaligen Amt Neuhaus und anderer Gebiete
 
    ( Inhalt: nicht darstellbare topographische Karte;
 Fundstelle: BGBl. I 1993, 1516 - 1517 )
-
 
 ## (XXXX) Protokollnotiz zum Staatsvertrag zwischen den Ländern Mecklenburg-Vorpommern und Niedersachsen über die Umgliederung der Gemeinden im ehemaligen Amt Neuhaus und anderer Gebiete nach Niedersachsen
 

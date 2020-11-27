@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2000, 778
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
@@ -30,7 +28,6 @@ Verbindung mit Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom
 Oktober 1998 (BGBl. I S. 3288), verordnet das Bundesministerium für
 Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium
 für Bildung und Forschung:
-
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
@@ -46,11 +43,9 @@ Der Ausbildungsberuf Gerüstbauer/Gerüstbauerin wird
 
 staatlich anerkannt.
 
-
 ## § 2 Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Berufsausbildung in überbetrieblichen Ausbildungsstätten
 
@@ -74,7 +69,6 @@ c)  im dritten Ausbildungsjahr in fünf Wochen Fertigkeiten und Kenntnisse
 
 (2) Der Urlaub ist jeweils auf die Dauer der Berufsausbildung in der
 betrieblichen Ausbildungsstätte anzurechnen.
-
 
 ## § 4 Ausbildungsberufsbild
 
@@ -143,10 +137,6 @@ Fertigkeiten und Kenntnisse:
 
 20. qualitätssichernde Maßnahmen und Berichtswesen.
 
-
-
-
-
 ## § 5 Ausbildungsrahmenplan
 
 (1) Die in § 4 genannten Fertigkeiten und Kenntnisse sollen nach der
@@ -164,12 +154,10 @@ Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges
 Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung
 ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
 
-
 ## § 6 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 7 Berichtsheft
 
@@ -177,7 +165,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 8 Zwischenprüfung
 
@@ -219,10 +206,6 @@ kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
 
 2.  flächenorientierte Gerüste.
-
-
-
-
 
 ## § 9 Abschlussprüfung/Gesellenprüfung
 
@@ -373,7 +356,6 @@ ausreichende Leistungen erbracht sind. Werden die Prüfungsleistungen
 in einer der praktischen Aufgaben oder in einem der Prüfungsbereiche
 mit ungenügend bewertet, so ist die Prüfung nicht bestanden.
 
-
 ## § 10 Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
@@ -381,11 +363,9 @@ Verordnung bestehen, sind die bisherigen Vorschriften weiter
 anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
 Anwendung der Vorschriften dieser Verordnung.
 
-
 ## § 11 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2000 in Kraft.
-
 
 ## Anlage (zu § 5)
 

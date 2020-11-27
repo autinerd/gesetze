@@ -15,13 +15,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1969, 1585
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -32,7 +29,6 @@ Protokollen über den Erwerb der Staatsangehörigkeit und über die
 obligatorische Beilegung von Streitigkeiten vom selben Tag wird
 zugestimmt. Das Übereinkommen und die beiden Fakultativ-Protokolle
 werden nachstehend veröffentlicht.
-
 
 ## Art 2
 
@@ -62,10 +58,6 @@ b)  durch Rechtsverordnung zur Herstellung und Gewährleistung der
     Rechtsverordnung kann Bestimmungen über das Verfahren und über den
     Vollzug der vorgesehenen Maßnahmen enthalten.
 
-
-
-
-
 ## Art 3
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
@@ -73,7 +65,6 @@ Anwendung dieses Gesetzes feststellt. Rechtsverordnungen, die auf
 Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14
 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I
 S. 1).
-
 
 ## Art 4
 

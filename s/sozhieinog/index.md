@@ -30,12 +30,10 @@ Art. 56 aufgeh. durch
 Art. 70 geändert durch
 :   Art. 1 G v. 9.12.2004 I 3305
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Inhaltsverzeichnis
 
@@ -411,18 +409,11 @@ beschlossen:
 
     *   Inkrafttreten
 
-
-
-
-
 ## Art 1
 
 -
 
-
 ## (XXXX) Art 2 bis 66
-
-
 
 ## Art 67 Weitergeltung von Rechtsverordnungen
 
@@ -431,11 +422,9 @@ Rechtsverordnungen gelten weiter und können nach Maßgabe der in diesem
 Gesetz vorgesehenen Ermächtigungen zum Erlass von Rechtsverordnungen
 geändert und aufgehoben werden.
 
-
 ## Art 68
 
 -
-
 
 ## Art 69 Rückkehr zum einheitlichen Verordnungsrang
 
@@ -444,7 +433,6 @@ Die auf Artikel 12 bis 16, 18, 29, 31, 33, 35, 36, 49, 53 bis 55, 59,
 Verordnungen können auf Grund der jeweils einschlägigen Ermächtigungen
 in Verbindung mit diesem Artikel durch Rechtsverordnung geändert oder
 aufgehoben werden.
-
 
 ## Art 70 Inkrafttreten
 

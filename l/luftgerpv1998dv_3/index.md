@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BAnz: 2001, Nr 230, 24785
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 32 Abs. 4 Satz 1 Nr. 1 und Abs. 3 Satz 3 des
@@ -26,17 +24,13 @@ Luftverkehrsgesetzes in der Fassung der Bekanntmachung vom 27. März
 Prüfung von Luftfahrtgerät vom 3. August 1998 (BGBl. I S. 2010, 2011)
 verordnet das Luftfahrt-Bundesamt:
 
-
 ## Abschnitt 1 - Allgemeine Vorschriften
-
-
 
 ### § 1 Geltungsbereich
 
 Diese Verordnung regelt die Anerkennung von Prüfstellen, die
 ermächtigt sind, gemäß § 10a der Verordnung zur Prüfung von
 Luftfahrtgerät Musterprüfungen von Luftsportgerät vorzunehmen.
-
 
 ### § 2 Begriffsbestimmung
 
@@ -55,10 +49,7 @@ Prüfumfang und legt die angewandten Verfahren fest.
 Durchführungsverordnung zur Verordnung zur Prüfung von Luftfahrtgerät
 vom 3. Februar 2000 (BAnz. S. 4897) genannten Bauvorschriften.
 
-
 ## Abschnitt 2 - Voraussetzungen für die Anerkennung
-
-
 
 ### § 3 Allgemeine Vorschriften
 
@@ -74,7 +65,6 @@ Anforderungen dieser Verordnung entspricht.
 (3) Natürliche oder juristische Personen, die mit der Herstellung oder
 dem Vertrieb von Luftsportgerät befasst sind, können nicht als
 Prüfstelle anerkannt werden.
-
 
 ### § 4 Personelle Voraussetzungen
 
@@ -99,16 +89,11 @@ insbesondere über
 -   die Fehler oder Minderungen, die beim Gebrauch der Produkte entstehen
     können.
 
-
-
-
-
 ### § 5 Technische Voraussetzungen
 
 Der Antragsteller muss über eigene Räumlichkeiten und
 Versuchseinrichtungen verfügen, die zur Durchführung der zum Nachweis
 der Lufttüchtigkeit notwendigen Versuche und Messungen geeignet sind.
-
 
 ### § 6 Organisatorische Voraussetzungen
 
@@ -121,16 +106,12 @@ müssen eindeutig festgelegt sein.
 (3) Der Antragsteller muss zur Anerkennung ein Prüfstellenhandbuch für
 die Durchführung von Musterprüfungen vorlegen.
 
-
 ### § 7 Außerbetriebliche Stellen
 
 Zur Durchführung von Musterprüfungen kann sich die Prüfstelle durch
 schriftliche Vereinbarungen geeigneter Dritter bedienen.
 
-
 ## Abschnitt 3 - Gültigkeit, Rücknahme und Widerruf der Anerkennung
-
-
 
 ### § 8 Gültigkeit der Anerkennung
 
@@ -138,13 +119,11 @@ Die Anerkennung wird befristet erteilt und kann mit Auflagen verbunden
 werden. Die Anerkennung kann auf die Berechtigung zur Musterprüfung
 bestimmter Arten von Luftsportgerät beschränkt werden.
 
-
 ### § 9 Anzeigepflicht
 
 Ergeben sich bei der anerkannten Prüfstelle Änderungen gegenüber den
 Voraussetzungen für die Anerkennung, sind diese unverzüglich dem
 Luftfahrt-Bundesamt schriftlich mitzuteilen.
-
 
 ### § 10 Rücknahme und Widerruf der Anerkennung
 
@@ -157,10 +136,7 @@ nachträglich nicht nur vorübergehend entfallen sind.
 (3) Sie kann widerrufen werden, wenn länger als ein Jahr nach
 Anerkennung kein Gebrauch gemacht worden ist.
 
-
 ## Abschnitt 4 - Schlussvorschriften
-
-
 
 ### § 11 Inkrafttreten
 

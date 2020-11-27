@@ -17,13 +17,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1981, 445
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -32,7 +29,6 @@ Bundesrepublik Deutschland und dem Großherzogtum Luxemburg über die
 gegenseitige Hilfeleistung bei Katastrophen oder schweren
 Unglücksfällen wird zugestimmt. Das Abkommen wird nachstehend
 veröffentlicht.
-
 
 ## Art 2
 
@@ -54,12 +50,10 @@ den Fällen des Artikels 8 Abs. 1 und 2 des Abkommens entstehen,
 richtet sich die Kostenträgerschaft danach, ob die jeweilige
 Hilfsmaßnahme in den Aufgabenbereich des Bundes oder der Länder fällt.
 
-
 ## Art 3
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
-
 
 ## Art 4
 

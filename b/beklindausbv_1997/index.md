@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 2 V v. 9. 5.2005 I 1292
 
-
 ## Eingangsformel
 
 Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
@@ -30,13 +29,11 @@ Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975
 Einvernehmen mit dem Bundesministerium für Bildung, Wissenschaft,
 Forschung und Technologie:
 
-
 ## § 1 Staatliche Anerkennung der Ausbildungsberufe im Rahmen einer Stufenausbildung
 
 Der Ausbildungsberuf Modenäher/Modenäherin sowie der darauf aufbauende
 Ausbildungsberuf Modeschneider/Modeschneiderin werden staatlich
 anerkannt.
-
 
 ## § 2 Ausbildungsdauer
 
@@ -50,7 +47,6 @@ einer Verordnung gemäß § 29 Abs. 1 des Berufsbildungsgesetzes als
 erstes Jahr der Berufsausbildung anzurechnen ist, beginnen die
 betriebliche Ausbildung im zweiten Ausbildungsjahr.
 
-
 ## § 3 Berufsfeldbreite Grundbildung
 
 Die Ausbildung im ersten Ausbildungsjahr vermittelt eine
@@ -58,7 +54,6 @@ berufsfeldbreite Grundbildung, wenn die betriebliche Ausbildung nach
 dieser Verordnung und die Ausbildung in der Berufsschule nach den
 landesrechtlichen Vorschriften über das Berufsgrundbildungsjahr
 erfolgen.
-
 
 ## § 4 Ausbildungsberufsbild Modenäher/Modenäherin
 
@@ -102,10 +97,6 @@ Fertigkeiten und Kenntnisse:
 
 12. Qualitätssicherung.
 
-
-
-
-
 ## § 5 Ausbildungsberufsbild Modeschneider/Modeschneiderin
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
@@ -138,10 +129,6 @@ Fertigkeiten und Kenntnisse:
 
 9.  Qualitätssicherung.
 
-
-
-
-
 ## § 6 Ausbildungsrahmenpläne
 
 (1) Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der
@@ -161,12 +148,10 @@ Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges
 Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung
 ist auch in den Prüfungen nach den §§ 9 bis 11 nachzuweisen.
 
-
 ## § 7 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 8 Berichtsheft
 
@@ -174,7 +159,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 9 Zwischenprüfung
 
@@ -248,7 +232,6 @@ folgenden Gebieten schriftlich lösen:
 (6) Die in Absatz 5 genannte Prüfungsdauer kann insbesondere
 unterschritten werden, soweit die schriftliche Prüfung in
 programmierter Form durchgeführt wird.
-
 
 ## § 10 Abschlußprüfung für den Ausbildungsberuf Modenäher/Modenäherin
 
@@ -413,7 +396,6 @@ gegenüber jedem der übrigen Prüfungsfächer das doppelte Gewicht.
 Kenntnisprüfung sowie innerhalb der Kenntnisprüfung im Prüfungsfach
 Technologie mindestens ausreichende Leistungen erbracht werden.
 
-
 ## § 11 Abschlußprüfung für den Ausbildungsberuf Modeschneider/Modeschneiderin
 
 (1) Die Abschlußprüfung erstreckt sich auf die in der Anlage 2
@@ -557,7 +539,6 @@ gegenüber jedem der übrigen Prüfungsfächer das doppelte Gewicht.
 Kenntnisprüfung sowie innerhalb der Kenntnisprüfung im Prüfungsfach
 Technologie mindestens ausreichende Leistungen erbracht sind.
 
-
 ## § 11a Anrechnungsregelung
 
 Auf die Berufsausbildung in dem aufbauenden Ausbildungsberuf
@@ -566,7 +547,6 @@ Ausbildungsberuf Änderungsschneider/Änderungsschneiderin erworbenen
 beruflichen Fertigkeiten, Kenntnisse und Fähigkeiten bis zum vollen
 Umfang der dort zurückgelegten Ausbildungszeit angerechnet werden; § 8
 Abs. 1 und 2 des Berufsbildungsgesetzes bleibt unberührt.
-
 
 ## § 12 Aufhebung von Vorschriften
 
@@ -577,7 +557,6 @@ Mützennäher/Mützennäherin im Handwerk und in der Industrie,
 Mützenmacher/Mützenmacherin und Plisseebrenner/Plisseebrennerin sind
 vorbehaltlich des § 13 nicht mehr anzuwenden.
 
-
 ## § 13 Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
@@ -585,11 +564,9 @@ Verordnung bestehen, sind die bisherigen Vorschriften weiter
 anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
 Anwendung der Vorschriften dieser Verordnung.
 
-
 ## § 14 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 1997 in Kraft.
-
 
 ## Anlage 1 (zu § 6) Ausbildungsrahmenplan für die Berufsausbildung zum Modenäher/zur Modenäherin
 
@@ -1242,9 +1219,6 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
     *   16
 
     *
-
-
-
 
 ## Anlage 2 (zu § 6) Ausbildungsrahmenplan für die Berufsausbildung zum Modeschneider/zur Modeschneiderin
 

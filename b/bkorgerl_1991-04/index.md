@@ -15,13 +15,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1991, 1179
 
-
-
 ## Eingangsformel
 
 Gemäß § 9 der Geschäftsordnung der Bundesregierung ordne ich mit
 sofortiger Wirkung an:
-
 
 ## I.
 
@@ -30,12 +27,10 @@ dem Geschäftsbereich des Bundesministers für Gesundheit die
 Zuständigkeit für Wein, Likörwein, Schaumwein sowie weinhaltige
 Getränke (einschließlich Überwachung) übertragen.
 
-
 ## II.
 
 Rechtsvorschriften auf diesem Zuständigkeitsgebiet werden im
 Einvernehmen mit dem Bundesminister für Gesundheit erlassen.
-
 
 ## III.
 

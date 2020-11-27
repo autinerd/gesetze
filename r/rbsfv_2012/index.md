@@ -19,7 +19,6 @@ Fundstelle
 V aufgeh. durch
 :   § 3 Satz 2 V 860-12-1-2 v. 18.10.2012 I 2173 mWv 1.1.2013
 
-
 ## Eingangsformel
 
 Auf Grund des § 40 in Verbindung mit den §§ 134 und 138 des Zwölften
@@ -31,14 +30,12 @@ sowie § 138 durch Artikel 3 Nummer 41a des Gesetzes vom 24. März 2011
 Bundesministerium für Arbeit und Soziales im Einvernehmen mit dem
 Bundesministerium der Finanzen:
 
-
 ## § 1 Festsetzung der Veränderungsrate des Mischindexes zum 1. Januar 2012
 
 Die Veränderungsrate des Mischindexes nach § 138 Nummer 2 in
 Verbindung mit § 28a Absatz 2 des Zwölften Buches Sozialgesetzbuch
 beträgt für die Fortschreibung der Regelbedarfsstufen zum 1. Januar
 2012 1,99 vom Hundert.
-
 
 ## § 2 Regelbedarfsstufen im Jahr 2012
 
@@ -59,11 +56,9 @@ die Regelbedarfsstufe 6
 (2) Die Anlage zu § 28 des Zwölften Buches Sozialgesetzbuch wird
 entsprechend ergänzt.
 
-
 ## § 3 Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2012 in Kraft.
-
 
 ## Schlussformel
 

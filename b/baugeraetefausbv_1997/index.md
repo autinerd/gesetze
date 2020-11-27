@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1997, 1038 (1680)
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
@@ -28,17 +26,14 @@ Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975
 Einvernehmen mit dem Bundesministerium für Bildung, Wissenschaft,
 Forschung und Technologie:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Baugeräteführer/Baugeräteführerin wird staatlich
 anerkannt.
 
-
 ## § 2 Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Ausbildungsberufsbild
 
@@ -92,10 +87,6 @@ Fertigkeiten und Kenntnisse:
 
 15. Instandsetzen von Bauteilen und Baugruppen.
 
-
-
-
-
 ## § 4 Ausbildungsrahmenplan
 
 (1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach der in der
@@ -112,7 +103,6 @@ Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges
 Planen, Durchführen und Kontrollieren an seinem Arbeitsplatz
 einschließt. Die in Satz 1 beschriebene Befähigung ist auch in den
 Prüfungen nach den §§ 8 und 9 nachzuweisen.
-
 
 ## § 5 Berufsausbildung in überbetrieblichen Ausbildungsstätten
 
@@ -147,12 +137,10 @@ zu vermitteln.
 (2) Der Urlaub ist jeweils auf die Dauer der Berufsausbildung in der
 betrieblichen Ausbildungsstätte anzurechnen.
 
-
 ## § 6 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 7 Berichtsheft
 
@@ -160,7 +148,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 8 Zwischenprüfung
 
@@ -244,7 +231,6 @@ beziehen sollen, aus folgenden Gebieten lösen:
 (5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere
 unterschritten werden, soweit die schriftliche Prüfung in
 programmierter Form durchgeführt wird.
-
 
 ## § 9 Abschlußprüfung
 
@@ -438,7 +424,6 @@ schriftlichen Prüfung sowie innerhalb der schriftlichen Prüfung im
 Prüfungsfach Technologie mindestens ausreichende Leistungen erbracht
 sind.
 
-
 ## § 10 Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
@@ -446,11 +431,9 @@ Verordnung bestehen, sind die bisherigen Vorschriften weiter
 anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
 Anwendung der Vorschriften dieser Verordnung.
 
-
 ## § 11 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 1997 in Kraft.
-
 
 ## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Baugeräteführer/zur Baugeräteführerin
 

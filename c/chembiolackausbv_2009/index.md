@@ -21,7 +21,6 @@ Fundstelle
     der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die
     Berufsschule werden als Beilage zum Bundesanzeiger veröffentlicht.
 
-
 ## Eingangsformel
 
 Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des
@@ -31,9 +30,7 @@ Berufsbildungsgesetzes vom 23. März 2005 (BGBI. I S. 931), von denen §
 Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit
 dem Bundesministerium für Bildung und Forschung:
 
-
 ## Teil 1 - Gemeinsame Vorschriften
-
 
 ### § 1 Staatliche Anerkennung der Ausbildungsberufe
 
@@ -52,11 +49,9 @@ Die Ausbildungsberufe
 werden nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich
 anerkannt.
 
-
 ### § 2 Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre und sechs Monate.
-
 
 ### § 3 Struktur der Berufsausbildung
 
@@ -113,15 +108,7 @@ Die Ausbildung gliedert sich in
         Wahlqualifikation kann auch aus der Auswahlliste II nach § 18 Absatz 4
         ausgewählt werden.
 
-
-
-
-
-
-
-
 ## Teil 2 - Vorschriften für den Ausbildungsberuf Chemielaborant/Chemielaborantin
-
 
 ### § 4 Ausbildungsrahmenplan, Ausbildungsberufsbild
 
@@ -348,7 +335,6 @@ I und die Wahlqualifikationen der Nummern 10 und 12 der Auswahlliste
 II können nur in Verbindung mit der Wahlqualifikation Nummer 10 der
 Auswahlliste I gewählt werden.
 
-
 ### § 5 Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
@@ -369,7 +355,6 @@ Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
 Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
 durchzusehen.
 
-
 ### § 6 Abschlussprüfung
 
 (1) Die Abschlussprüfung besteht aus den beiden zeitlich
@@ -389,7 +374,6 @@ erforderlich ist.
 (2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der
 Abschlussprüfung mit 35 Prozent und Teil 2 der Abschlussprüfung mit 65
 Prozent gewichtet.
-
 
 ### § 7 Teil 1 der Abschlussprüfung
 
@@ -521,10 +505,6 @@ folgende Vorgaben:
 
 
 4.  die Prüfungszeit beträgt 135 Minuten.
-
-
-
-
 
 ### § 8 Teil 2 der Abschlussprüfung
 
@@ -691,10 +671,6 @@ folgende Vorgaben:
 
 3.  die Prüfungszeit beträgt 60 Minuten.
 
-
-
-
-
 ### § 9 Gewichtungs- und Bestehensregelung
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
@@ -758,7 +734,6 @@ folgende Vorgaben:
 
 bewertet worden sind.
 
-
 ### § 10 Mündliche Ergänzungsprüfung
 
 Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der
@@ -771,9 +746,7 @@ Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und
 das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2 : 1
 zu gewichten.
 
-
 ## Teil 3 - Vorschriften für den Ausbildungsberuf Biologielaborant/Biologielaborantin
-
 
 ### § 11 Ausbildungsrahmenplan, Ausbildungsberufsbild
 
@@ -961,10 +934,6 @@ Wahlqualifikation Nummer 3 gewählt werden.
 
 9.  Durchführen verfahrenstechnischer Arbeiten.
 
-
-
-
-
 ### § 12 Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
@@ -985,7 +954,6 @@ Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
 Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
 durchzusehen.
 
-
 ### § 13 Abschlussprüfung
 
 (1) Die Abschlussprüfung besteht aus den beiden zeitlich
@@ -1005,7 +973,6 @@ erforderlich ist.
 (2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der
 Abschlussprüfung mit 35 Prozent und Teil 2 der Abschlussprüfung mit 65
 Prozent gewichtet.
-
 
 ### § 14 Teil 1 der Abschlussprüfung
 
@@ -1146,10 +1113,6 @@ Vorgaben:
 
 
 4.  die Prüfungszeit beträgt 135 Minuten.
-
-
-
-
 
 ### § 15 Teil 2 der Abschlussprüfung
 
@@ -1303,10 +1266,6 @@ folgende Vorgaben:
 
 3.  die Prüfungszeit beträgt 60 Minuten.
 
-
-
-
-
 ### § 16 Gewichtungs- und Bestehensregelung
 
 (1) Die einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
@@ -1370,7 +1329,6 @@ folgende Vorgaben:
 
 bewertet worden sind.
 
-
 ### § 17 Mündliche Ergänzungsprüfung
 
 Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der
@@ -1383,9 +1341,7 @@ Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und
 das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2 : 1
 zu gewichten.
 
-
 ## Teil 4 - Vorschriften für den Ausbildungsberuf Lacklaborant/Lacklaborantin
-
 
 ### § 18 Ausbildungsrahmenplan, Ausbildungsberufsbild
 
@@ -1580,10 +1536,6 @@ Abschnitt B: Wahlqualifikationen nach § 3 Nummer 2 Buchstabe c
 
 3.  Umweltbezogene Arbeitstechniken.
 
-
-
-
-
 ### § 19 Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
@@ -1604,7 +1556,6 @@ Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
 Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
 durchzusehen.
 
-
 ### § 20 Abschlussprüfung
 
 (1) Die Abschlussprüfung besteht aus den beiden zeitlich
@@ -1624,7 +1575,6 @@ erforderlich ist.
 (2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der
 Abschlussprüfung mit 35 Prozent und Teil 2 der Abschlussprüfung mit 65
 Prozent gewichtet.
-
 
 ### § 21 Teil 1 der Abschlussprüfung
 
@@ -1755,10 +1705,6 @@ bestehen folgende Vorgaben:
 
 
 4.  die Prüfungszeit beträgt 135 Minuten.
-
-
-
-
 
 ### § 22 Teil 2 der Abschlussprüfung
 
@@ -1904,10 +1850,6 @@ folgende Vorgaben:
 
 3.  die Prüfungszeit beträgt 60 Minuten.
 
-
-
-
-
 ### § 23 Gewichtungs- und Bestehensregelung
 
 (1) Die einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
@@ -1971,7 +1913,6 @@ folgende Vorgaben:
 
 bewertet worden sind.
 
-
 ### § 24 Mündliche Ergänzungsprüfung
 
 Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der
@@ -1984,14 +1925,11 @@ Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und
 das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2 : 1
 zu gewichten.
 
-
 ## Teil 5 - Schlussvorschriften
-
 
 ### § 25 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2009 in Kraft.
-
 
 ### Anlage 1 (zu § 4 Absatz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Chemielaboranten/zur Chemielaborantin
 

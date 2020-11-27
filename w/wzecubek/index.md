@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   RGBl: 1903, 122
 
-
-
 ## (XXXX)
 
 Unter Bezugnahme auf § 23 des Gesetzes zum Schutz der

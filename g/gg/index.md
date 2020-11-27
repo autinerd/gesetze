@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 G v. 11.7.2012 I 1478
 
-
 ## Eingangsformel
 
 Der Parlamentarische Rat hat am 23. Mai 1949 in Bonn am Rhein in
@@ -32,7 +31,6 @@ Auf Grund dieser Feststellung hat der Parlamentarische Rat, vertreten
 durch seine Präsidenten, das Grundgesetz ausgefertigt und verkündet.
 Das Grundgesetz wird hiermit gemäß Artikel 145 Abs. 3 im
 Bundesgesetzblatt veröffentlicht:
-
 
 ## Präambel
 
@@ -49,10 +47,7 @@ freier Selbstbestimmung die Einheit und Freiheit Deutschlands
 vollendet. Damit gilt dieses Grundgesetz für das gesamte Deutsche
 Volk.
 
-
 ## I. - Die Grundrechte
-
-
 
 ### Art 1
 
@@ -66,7 +61,6 @@ Gemeinschaft, des Friedens und der Gerechtigkeit in der Welt.
 (3) Die nachfolgenden Grundrechte binden Gesetzgebung, vollziehende
 Gewalt und Rechtsprechung als unmittelbar geltendes Recht.
 
-
 ### Art 2
 
 (1) Jeder hat das Recht auf die freie Entfaltung seiner
@@ -76,7 +70,6 @@ gegen die verfassungsmäßige Ordnung oder das Sittengesetz verstößt.
 (2) Jeder hat das Recht auf Leben und körperliche Unversehrtheit. Die
 Freiheit der Person ist unverletzlich. In diese Rechte darf nur auf
 Grund eines Gesetzes eingegriffen werden.
-
 
 ### Art 3
 
@@ -92,7 +85,6 @@ seiner religiösen oder politischen Anschauungen benachteiligt oder
 bevorzugt werden. Niemand darf wegen seiner Behinderung benachteiligt
 werden.
 
-
 ### Art 4
 
 (1) Die Freiheit des Glaubens, des Gewissens und die Freiheit des
@@ -102,7 +94,6 @@ religiösen und weltanschaulichen Bekenntnisses sind unverletzlich.
 
 (3) Niemand darf gegen sein Gewissen zum Kriegsdienst mit der Waffe
 gezwungen werden. Das Nähere regelt ein Bundesgesetz.
-
 
 ### Art 5
 
@@ -118,7 +109,6 @@ Jugend und in dem Recht der persönlichen Ehre.
 
 (3) Kunst und Wissenschaft, Forschung und Lehre sind frei. Die
 Freiheit der Lehre entbindet nicht von der Treue zur Verfassung.
-
 
 ### Art 6
 
@@ -140,7 +130,6 @@ Gemeinschaft.
 (5) Den unehelichen Kindern sind durch die Gesetzgebung die gleichen
 Bedingungen für ihre leibliche und seelische Entwicklung und ihre
 Stellung in der Gesellschaft zu schaffen wie den ehelichen Kindern.
-
 
 ### Art 7
 
@@ -176,7 +165,6 @@ der Gemeinde nicht besteht.
 
 (6) Vorschulen bleiben aufgehoben.
 
-
 ### Art 8
 
 (1) Alle Deutschen haben das Recht, sich ohne Anmeldung oder Erlaubnis
@@ -184,7 +172,6 @@ friedlich und ohne Waffen zu versammeln.
 
 (2) Für Versammlungen unter freiem Himmel kann dieses Recht durch
 Gesetz oder auf Grund eines Gesetzes beschränkt werden.
-
 
 ### Art 9
 
@@ -205,7 +192,6 @@ Arbeitskämpfe richten, die zur Wahrung und Förderung der Arbeits- und
 Wirtschaftsbedingungen von Vereinigungen im Sinne des Satzes 1 geführt
 werden.
 
-
 ### Art 10
 
 (1) Das Briefgeheimnis sowie das Post- und Fernmeldegeheimnis sind
@@ -218,7 +204,6 @@ Bundes oder eines Landes, so kann das Gesetz bestimmen, daß sie dem
 Betroffenen nicht mitgeteilt wird und daß an die Stelle des
 Rechtsweges die Nachprüfung durch von der Volksvertretung bestellte
 Organe und Hilfsorgane tritt.
-
 
 ### Art 11
 
@@ -234,7 +219,6 @@ Seuchengefahr, Naturkatastrophen oder besonders schweren
 Unglücksfällen, zum Schutze der Jugend vor Verwahrlosung oder um
 strafbaren Handlungen vorzubeugen, erforderlich ist.
 
-
 ### Art 12
 
 (1) Alle Deutschen haben das Recht, Beruf, Arbeitsplatz und
@@ -247,7 +231,6 @@ Dienstleistungspflicht.
 
 (3) Zwangsarbeit ist nur bei einer gerichtlich angeordneten
 Freiheitsentziehung zulässig.
-
 
 ### Art 12a
 
@@ -302,7 +285,6 @@ Deutschen, die Ausübung eines Berufs oder den Arbeitsplatz aufzugeben,
 durch Gesetz oder auf Grund eines Gesetzes eingeschränkt werden. Vor
 Eintritt des Verteidigungsfalles gilt Absatz 5 Satz 1 entsprechend.
 
-
 ### Art 13
 
 (1) Die Wohnung ist unverletzlich.
@@ -354,7 +336,6 @@ die öffentliche Sicherheit und Ordnung, insbesondere zur Behebung der
 Raumnot, zur Bekämpfung von Seuchengefahr oder zum Schutze gefährdeter
 Jugendlicher vorgenommen werden.
 
-
 ### Art 14
 
 (1) Das Eigentum und das Erbrecht werden gewährleistet. Inhalt und
@@ -370,7 +351,6 @@ gerechter Abwägung der Interessen der Allgemeinheit und der
 Beteiligten zu bestimmen. Wegen der Höhe der Entschädigung steht im
 Streitfalle der Rechtsweg vor den ordentlichen Gerichten offen.
 
-
 ### Art 15
 
 Grund und Boden, Naturschätze und Produktionsmittel können zum Zwecke
@@ -378,7 +358,6 @@ der Vergesellschaftung durch ein Gesetz, das Art und Ausmaß der
 Entschädigung regelt, in Gemeineigentum oder in andere Formen der
 Gemeinwirtschaft überführt werden. Für die Entschädigung gilt Artikel
 14 Abs. 3 Satz 3 und 4 entsprechend.
-
 
 ### Art 16
 
@@ -392,7 +371,6 @@ Gesetz kann eine abweichende Regelung für Auslieferungen an einen
 Mitgliedstaat der Europäischen Union oder an einen internationalen
 Gerichtshof getroffen werden, soweit rechtsstaatliche Grundsätze
 gewahrt sind.
-
 
 ### Art 16a
 
@@ -437,13 +415,11 @@ sein muß, Zuständigkeitsregelungen für die Prüfung von Asylbegehren
 einschließlich der gegenseitigen Anerkennung von Asylentscheidungen
 treffen.
 
-
 ### Art 17
 
 Jedermann hat das Recht, sich einzeln oder in Gemeinschaft mit anderen
 schriftlich mit Bitten oder Beschwerden an die zuständigen Stellen und
 an die Volksvertretung zu wenden.
-
 
 ### Art 17a
 
@@ -461,7 +437,6 @@ Zivilbevölkerung dienen, können bestimmen, daß die Grundrechte der
 Freizügigkeit (Artikel 11) und der Unverletzlichkeit der Wohnung
 (Artikel 13) eingeschränkt werden.
 
-
 ### Art 18
 
 Wer die Freiheit der Meinungsäußerung, insbesondere die Pressefreiheit
@@ -472,7 +447,6 @@ Eigentum (Artikel 14) oder das Asylrecht (Artikel 16a) zum Kampfe
 gegen die freiheitliche demokratische Grundordnung mißbraucht,
 verwirkt diese Grundrechte. Die Verwirkung und ihr Ausmaß werden durch
 das Bundesverfassungsgericht ausgesprochen.
-
 
 ### Art 19
 
@@ -492,10 +466,7 @@ verletzt, so steht ihm der Rechtsweg offen. Soweit eine andere
 Zuständigkeit nicht begründet ist, ist der ordentliche Rechtsweg
 gegeben. Artikel 10 Abs. 2 Satz 2 bleibt unberührt.
 
-
 ## II. - Der Bund und die Länder
-
-
 
 ### Art 20
 
@@ -514,14 +485,12 @@ gebunden.
 alle Deutschen das Recht zum Widerstand, wenn andere Abhilfe nicht
 möglich ist.
 
-
 ### Art 20a
 
 Der Staat schützt auch in Verantwortung für die künftigen Generationen
 die natürlichen Lebensgrundlagen und die Tiere im Rahmen der
 verfassungsmäßigen Ordnung durch die Gesetzgebung und nach Maßgabe von
 Gesetz und Recht durch die vollziehende Gewalt und die Rechtsprechung.
-
 
 ### Art 21
 
@@ -539,7 +508,6 @@ Bundesverfassungsgericht.
 
 (3) Das Nähere regeln Bundesgesetze.
 
-
 ### Art 22
 
 (1) Die Hauptstadt der Bundesrepublik Deutschland ist Berlin. Die
@@ -547,7 +515,6 @@ Repräsentation des Gesamtstaates in der Hauptstadt ist Aufgabe des
 Bundes. Das Nähere wird durch Bundesgesetz geregelt.
 
 (2) Die Bundesflagge ist schwarz-rot-gold.
-
 
 ### Art 23
 
@@ -614,7 +581,6 @@ gesamtstaatliche Verantwortung des Bundes zu wahren.
 (7) Das Nähere zu den Absätzen 4 bis 6 regelt ein Gesetz, das der
 Zustimmung des Bundesrates bedarf.
 
-
 ### Art 24
 
 (1) Der Bund kann durch Gesetz Hoheitsrechte auf zwischenstaatliche
@@ -635,13 +601,11 @@ herbeiführen und sichern.
 Vereinbarungen über eine allgemeine, umfassende, obligatorische,
 internationale Schiedsgerichtsbarkeit beitreten.
 
-
 ### Art 25
 
 Die allgemeinen Regeln des Völkerrechtes sind Bestandteil des
 Bundesrechtes. Sie gehen den Gesetzen vor und erzeugen Rechte und
 Pflichten unmittelbar für die Bewohner des Bundesgebietes.
-
 
 ### Art 26
 
@@ -654,12 +618,10 @@ verfassungswidrig. Sie sind unter Strafe zu stellen.
 Bundesregierung hergestellt, befördert und in Verkehr gebracht werden.
 Das Nähere regelt ein Bundesgesetz.
 
-
 ### Art 27
 
 Alle deutschen Kauffahrteischiffe bilden eine einheitliche
 Handelsflotte.
-
 
 ### Art 28
 
@@ -686,7 +648,6 @@ Hebesatzrecht zustehende wirtschaftskraftbezogene Steuerquelle.
 (3) Der Bund gewährleistet, daß die verfassungsmäßige Ordnung der
 Länder den Grundrechten und den Bestimmungen der Absätze 1 und 2
 entspricht.
-
 
 ### Art 29
 
@@ -770,18 +731,15 @@ ein Viertel der zum Bundestag Wahlberechtigten umfaßt; das Nähere
 regelt ein Bundesgesetz. Der Staatsvertrag bedarf der Zustimmung des
 Bundestages.
 
-
 ### Art 30
 
 Die Ausübung der staatlichen Befugnisse und die Erfüllung der
 staatlichen Aufgaben ist Sache der Länder, soweit dieses Grundgesetz
 keine andere Regelung trifft oder zuläßt.
 
-
 ### Art 31
 
 Bundesrecht bricht Landesrecht.
-
 
 ### Art 32
 
@@ -794,7 +752,6 @@ Verhältnisse eines Landes berührt, ist das Land rechtzeitig zu hören.
 (3) Soweit die Länder für die Gesetzgebung zuständig sind, können sie
 mit Zustimmung der Bundesregierung mit auswärtigen Staaten Verträge
 abschließen.
-
 
 ### Art 33
 
@@ -819,7 +776,6 @@ Treueverhältnis stehen.
 hergebrachten Grundsätze des Berufsbeamtentums zu regeln und
 fortzuentwickeln.
 
-
 ### Art 34
 
 Verletzt jemand in Ausübung eines ihm anvertrauten öffentlichen Amtes
@@ -829,7 +785,6 @@ deren Dienst er steht. Bei Vorsatz oder grober Fahrlässigkeit bleibt
 der Rückgriff vorbehalten. Für den Anspruch auf Schadensersatz und für
 den Rückgriff darf der ordentliche Rechtsweg nicht ausgeschlossen
 werden.
-
 
 ### Art 35
 
@@ -857,7 +812,6 @@ Bundesregierung nach Satz 1 sind jederzeit auf Verlangen des
 Bundesrates, im übrigen unverzüglich nach Beseitigung der Gefahr
 aufzuheben.
 
-
 ### Art 36
 
 (1) Bei den obersten Bundesbehörden sind Beamte aus allen Ländern in
@@ -867,7 +821,6 @@ Lande genommen werden, in dem sie tätig sind.
 
 (2) Die Wehrgesetze haben auch die Gliederung des Bundes in Länder und
 ihre besonderen landsmannschaftlichen Verhältnisse zu berücksichtigen.
-
 
 ### Art 37
 
@@ -881,10 +834,7 @@ seiner Pflichten anzuhalten.
 ihr Beauftragter das Weisungsrecht gegenüber allen Ländern und ihren
 Behörden.
 
-
 ## III. - Der Bundestag
-
-
 
 ### Art 38
 
@@ -898,7 +848,6 @@ wählbar ist, wer das Alter erreicht hat, mit dem die Volljährigkeit
 eintritt.
 
 (3) Das Nähere bestimmt ein Bundesgesetz.
-
 
 ### Art 39
 
@@ -917,7 +866,6 @@ Sitzungen. Der Präsident des Bundestages kann ihn früher einberufen.
 Er ist hierzu verpflichtet, wenn ein Drittel der Mitglieder, der
 Bundespräsident oder der Bundeskanzler es verlangen.
 
-
 ### Art 40
 
 (1) Der Bundestag wählt seinen Präsidenten, dessen Stellvertreter und
@@ -926,7 +874,6 @@ die Schriftführer. Er gibt sich eine Geschäftsordnung.
 (2) Der Präsident übt das Hausrecht und die Polizeigewalt im Gebäude
 des Bundestages aus. Ohne seine Genehmigung darf in den Räumen des
 Bundestages keine Durchsuchung oder Beschlagnahme stattfinden.
-
 
 ### Art 41
 
@@ -937,7 +884,6 @@ ein Abgeordneter des Bundestages die Mitgliedschaft verloren hat.
 Bundesverfassungsgericht zulässig.
 
 (3) Das Nähere regelt ein Bundesgesetz.
-
 
 ### Art 42
 
@@ -955,7 +901,6 @@ die Geschäftsordnung Ausnahmen zulassen.
 Bundestages und seiner Ausschüsse bleiben von jeder Verantwortlichkeit
 frei.
 
-
 ### Art 43
 
 (1) Der Bundestag und seine Ausschüsse können die Anwesenheit jedes
@@ -964,7 +909,6 @@ Mitgliedes der Bundesregierung verlangen.
 (2) Die Mitglieder des Bundesrates und der Bundesregierung sowie ihre
 Beauftragten haben zu allen Sitzungen des Bundestages und seiner
 Ausschüsse Zutritt. Sie müssen jederzeit gehört werden.
-
 
 ### Art 44
 
@@ -984,7 +928,6 @@ verpflichtet.
 Erörterung entzogen. In der Würdigung und Beurteilung des der
 Untersuchung zugrunde liegenden Sachverhaltes sind die Gerichte frei.
 
-
 ### Art 45
 
 Der Bundestag bestellt einen Ausschuß für die Angelegenheiten der
@@ -993,7 +936,6 @@ Bundestages gemäß Artikel 23 gegenüber der Bundesregierung
 wahrzunehmen. Er kann ihn auch ermächtigen, die Rechte wahrzunehmen,
 die dem Bundestag in den vertraglichen Grundlagen der Europäischen
 Union eingeräumt sind.
-
 
 ### Art 45a
 
@@ -1008,13 +950,11 @@ Untersuchung zu machen.
 (3) Artikel 44 Abs. 1 findet auf dem Gebiet der Verteidigung keine
 Anwendung.
 
-
 ### Art 45b
 
 Zum Schutz der Grundrechte und als Hilfsorgan des Bundestages bei der
 Ausübung der parlamentarischen Kontrolle wird ein Wehrbeauftragter des
 Bundestages berufen. Das Nähere regelt ein Bundesgesetz.
-
 
 ### Art 45c
 
@@ -1025,14 +965,12 @@ Beschwerden obliegt.
 (2) Die Befugnisse des Ausschusses zur Überprüfung von Beschwerden
 regelt ein Bundesgesetz.
 
-
 ### Art 45d Parlamentarisches Kontrollgremium
 
 (1) Der Bundestag bestellt ein Gremium zur Kontrolle der
 nachrichtendienstlichen Tätigkeit des Bundes.
 
 (2) Das Nähere regelt ein Bundesgesetz.
-
 
 ### Art 46
 
@@ -1056,7 +994,6 @@ erforderlich.
 einen Abgeordneten, jede Haft und jede sonstige Beschränkung seiner
 persönlichen Freiheit sind auf Verlangen des Bundestages auszusetzen.
 
-
 ### Art 47
 
 Die Abgeordneten sind berechtigt, über Personen, die ihnen in ihrer
@@ -1064,7 +1001,6 @@ Eigenschaft als Abgeordnete oder denen sie in dieser Eigenschaft
 Tatsachen anvertraut haben, sowie über diese Tatsachen selbst das
 Zeugnis zu verweigern. Soweit dieses Zeugnisverweigerungsrecht reicht,
 ist die Beschlagnahme von Schriftstücken unzulässig.
-
 
 ### Art 48
 
@@ -1080,22 +1016,17 @@ Unabhängigkeit sichernde Entschädigung. Sie haben das Recht der freien
 Benutzung aller staatlichen Verkehrsmittel. Das Nähere regelt ein
 Bundesgesetz.
 
-
 ### Art 49
 
 -
 
-
 ## IV. - Der Bundesrat
-
-
 
 ### Art 50
 
 Durch den Bundesrat wirken die Länder bei der Gesetzgebung und
 Verwaltung des Bundes und in Angelegenheiten der Europäischen Union
 mit.
-
 
 ### Art 51
 
@@ -1111,7 +1042,6 @@ Stimmen.
 (3) Jedes Land kann so viele Mitglieder entsenden, wie es Stimmen hat.
 Die Stimmen eines Landes können nur einheitlich und nur durch
 anwesende Mitglieder oder deren Vertreter abgegeben werden.
-
 
 ### Art 52
 
@@ -1133,7 +1063,6 @@ der Länder bestimmt sich nach Artikel 51 Abs. 2.
 (4) Den Ausschüssen des Bundesrates können andere Mitglieder oder
 Beauftragte der Regierungen der Länder angehören.
 
-
 ### Art 53
 
 Die Mitglieder der Bundesregierung haben das Recht und auf Verlangen
@@ -1142,10 +1071,7 @@ Ausschüsse teilzunehmen. Sie müssen jederzeit gehört werden. Der
 Bundesrat ist von der Bundesregierung über die Führung der Geschäfte
 auf dem laufenden zu halten.
 
-
 ## IV a. - Gemeinsamer Ausschuß
-
-
 
 ### Art 53a
 
@@ -1164,10 +1090,7 @@ Planungen für den Verteidigungsfall zu unterrichten. Die Rechte des
 Bundestages und seiner Ausschüsse nach Artikel 43 Abs. 1 bleiben
 unberührt.
 
-
 ## V. - Der Bundespräsident
-
-
 
 ### Art 54
 
@@ -1198,7 +1121,6 @@ Wahlgang die meisten Stimmen auf sich vereinigt.
 
 (7) Das Nähere regelt ein Bundesgesetz.
 
-
 ### Art 55
 
 (1) Der Bundespräsident darf weder der Regierung noch einer
@@ -1207,7 +1129,6 @@ gesetzgebenden Körperschaft des Bundes oder eines Landes angehören.
 (2) Der Bundespräsident darf kein anderes besoldetes Amt, kein Gewerbe
 und keinen Beruf ausüben und weder der Leitung noch dem Aufsichtsrate
 eines auf Erwerb gerichteten Unternehmens angehören.
-
 
 ### Art 56
 
@@ -1225,13 +1146,11 @@ Eid:
 
 Der Eid kann auch ohne religiöse Beteuerung geleistet werden.
 
-
 ### Art 57
 
 Die Befugnisse des Bundespräsidenten werden im Falle seiner
 Verhinderung oder bei vorzeitiger Erledigung des Amtes durch den
 Präsidenten des Bundesrates wahrgenommen.
-
 
 ### Art 58
 
@@ -1240,7 +1159,6 @@ Gültigkeit der Gegenzeichnung durch den Bundeskanzler oder durch den
 zuständigen Bundesminister. Dies gilt nicht für die Ernennung und
 Entlassung des Bundeskanzlers, die Auflösung des Bundestages gemäß
 Artikel 63 und das Ersuchen gemäß Artikel 69 Abs. 3.
-
 
 ### Art 59
 
@@ -1255,11 +1173,9 @@ Bundesgesetzgebung zuständigen Körperschaften in der Form eines
 Bundesgesetzes. Für Verwaltungsabkommen gelten die Vorschriften über
 die Bundesverwaltung entsprechend.
 
-
 ### Art 59a
 
 -
-
 
 ### Art 60
 
@@ -1273,7 +1189,6 @@ nichts anderes bestimmt ist.
 
 (4) Die Absätze 2 bis 4 des Artikels 46 finden auf den
 Bundespräsidenten entsprechende Anwendung.
-
 
 ### Art 61
 
@@ -1293,16 +1208,12 @@ Bundesgesetzes schuldig ist, so kann es ihn des Amtes für verlustig
 erklären. Durch einstweilige Anordnung kann es nach der Erhebung der
 Anklage bestimmen, daß er an der Ausübung seines Amtes verhindert ist.
 
-
 ## VI. - Die Bundesregierung
-
-
 
 ### Art 62
 
 Die Bundesregierung besteht aus dem Bundeskanzler und aus den
 Bundesministern.
-
 
 ### Art 63
 
@@ -1326,7 +1237,6 @@ Erreicht der Gewählte diese Mehrheit nicht, so hat der Bundespräsident
 binnen sieben Tagen entweder ihn zu ernennen oder den Bundestag
 aufzulösen.
 
-
 ### Art 64
 
 (1) Die Bundesminister werden auf Vorschlag des Bundeskanzlers vom
@@ -1334,7 +1244,6 @@ Bundespräsidenten ernannt und entlassen.
 
 (2) Der Bundeskanzler und die Bundesminister leisten bei der
 Amtsübernahme vor dem Bundestage den in Artikel 56 vorgesehenen Eid.
-
 
 ### Art 65
 
@@ -1346,7 +1255,6 @@ Bundesministern entscheidet die Bundesregierung. Der Bundeskanzler
 leitet ihre Geschäfte nach einer von der Bundesregierung beschlossenen
 und vom Bundespräsidenten genehmigten Geschäftsordnung.
 
-
 ### Art 65a
 
 (1) Der Bundesminister für Verteidigung hat die Befehls- und
@@ -1354,14 +1262,12 @@ Kommandogewalt über die Streitkräfte.
 
 (2) (weggefallen)
 
-
 ### Art 66
 
 Der Bundeskanzler und die Bundesminister dürfen kein anderes
 besoldetes Amt, kein Gewerbe und keinen Beruf ausüben und weder der
 Leitung noch ohne Zustimmung des Bundestages dem Aufsichtsrate eines
 auf Erwerb gerichteten Unternehmens angehören.
-
 
 ### Art 67
 
@@ -1374,7 +1280,6 @@ Gewählten ernennen.
 (2) Zwischen dem Antrage und der Wahl müssen achtundvierzig Stunden
 liegen.
 
-
 ### Art 68
 
 (1) Findet ein Antrag des Bundeskanzlers, ihm das Vertrauen
@@ -1386,7 +1291,6 @@ seiner Mitglieder einen anderen Bundeskanzler wählt.
 
 (2) Zwischen dem Antrage und der Abstimmung müssen achtundvierzig
 Stunden liegen.
-
 
 ### Art 69
 
@@ -1403,10 +1307,7 @@ Ersuchen des Bundeskanzlers oder des Bundespräsidenten ein
 Bundesminister verpflichtet, die Geschäfte bis zur Ernennung seines
 Nachfolgers weiterzuführen.
 
-
 ## VII. - Die Gesetzgebung des Bundes
-
-
 
 ### Art 70
 
@@ -1417,13 +1318,11 @@ Grundgesetz nicht dem Bunde Gesetzgebungsbefugnisse verleiht.
 sich nach den Vorschriften dieses Grundgesetzes über die
 ausschließliche und die konkurrierende Gesetzgebung.
 
-
 ### Art 71
 
 Im Bereiche der ausschließlichen Gesetzgebung des Bundes haben die
 Länder die Befugnis zur Gesetzgebung nur, wenn und soweit sie hierzu
 in einem Bundesgesetze ausdrücklich ermächtigt werden.
-
 
 ### Art 72
 
@@ -1470,7 +1369,6 @@ von Bundes- und Landesrecht das jeweils spätere Gesetz vor.
 (4) Durch Bundesgesetz kann bestimmt werden, daß eine
 bundesgesetzliche Regelung, für die eine Erforderlichkeit im Sinne des
 Absatzes 2 nicht mehr besteht, durch Landesrecht ersetzt werden kann.
-
 
 ### Art 73
 
@@ -1570,7 +1468,6 @@ internationale Verbrechensbekämpfung;
 
 (2) Gesetze nach Absatz 1 Nr. 9a bedürfen der Zustimmung des
 Bundesrates.
-
 
 ### Art 74
 
@@ -1723,9 +1620,7 @@ Gebiete:
 (2) Gesetze nach Absatz 1 Nr. 25 und 27 bedürfen der Zustimmung des
 Bundesrates.
 
-
 ### (XXXX) Art 74a und 75 (weggefallen)
-
 
 ### Art 76
 
@@ -1760,7 +1655,6 @@ Bei Vorlagen zur Änderung dieses Grundgesetzes und zur Übertragung von
 Hoheitsrechten nach Artikel 23 oder Artikel 24 beträgt die Frist neun
 Wochen; Satz 4 findet keine Anwendung. Der Bundestag hat über die
 Vorlagen in angemessener Frist zu beraten und Beschluß zu fassen.
-
 
 ### Art 77
 
@@ -1804,7 +1698,6 @@ beschlossen, so bedarf die Zurückweisung durch den Bundestag einer
 Mehrheit von zwei Dritteln, mindestens der Mehrheit der Mitglieder des
 Bundestages.
 
-
 ### Art 78
 
 Ein vom Bundestage beschlossenes Gesetz kommt zustande, wenn der
@@ -1812,7 +1705,6 @@ Bundesrat zustimmt, den Antrag gemäß Artikel 77 Abs. 2 nicht stellt,
 innerhalb der Frist des Artikels 77 Abs. 3 keinen Einspruch einlegt
 oder ihn zurücknimmt oder wenn der Einspruch vom Bundestage überstimmt
 wird.
-
 
 ### Art 79
 
@@ -1835,7 +1727,6 @@ Bundesrates.
 des Bundes in Länder, die grundsätzliche Mitwirkung der Länder bei der
 Gesetzgebung oder die in den Artikeln 1 und 20 niedergelegten
 Grundsätze berührt werden, ist unzulässig.
-
 
 ### Art 80
 
@@ -1865,7 +1756,6 @@ Rechtsverordnungen zuleiten, die seiner Zustimmung bedürfen.
 Landesregierungen ermächtigt werden, Rechtsverordnungen zu erlassen,
 sind die Länder zu einer Regelung auch durch Gesetz befugt.
 
-
 ### Art 80a
 
 (1) Ist in diesem Grundgesetz oder in einem Bundesgesetz über die
@@ -1888,7 +1778,6 @@ Beschlusses zulässig, der von einem internationalen Organ im Rahmen
 eines Bündnisvertrages mit Zustimmung der Bundesregierung gefaßt wird.
 Maßnahmen nach diesem Absatz sind aufzuheben, wenn der Bundestag es
 mit der Mehrheit seiner Mitglieder verlangt.
-
 
 ### Art 81
 
@@ -1918,7 +1807,6 @@ Erklärung des Gesetzgebungsnotstandes unzulässig.
 kommt, weder geändert, noch ganz oder teilweise außer Kraft oder außer
 Anwendung gesetzt werden.
 
-
 ### Art 82
 
 (1) Die nach den Vorschriften dieses Grundgesetzes zustande gekommenen
@@ -1932,16 +1820,12 @@ Inkrafttretens bestimmen. Fehlt eine solche Bestimmung, so treten sie
 mit dem vierzehnten Tage nach Ablauf des Tages in Kraft, an dem das
 Bundesgesetzblatt ausgegeben worden ist.
 
-
 ## VIII. - Die Ausführung der Bundesgesetze und die Bundesverwaltung
-
-
 
 ### Art 83
 
 Die Länder führen die Bundesgesetze als eigene Angelegenheit aus,
 soweit dieses Grundgesetz nichts anderes bestimmt oder zuläßt.
-
 
 ### Art 84
 
@@ -1983,7 +1867,6 @@ verliehen werden, für besondere Fälle Einzelweisungen zu erteilen. Sie
 sind, außer wenn die Bundesregierung den Fall für dringlich erachtet,
 an die obersten Landesbehörden zu richten.
 
-
 ### Art 85
 
 (1) Führen die Länder die Bundesgesetze im Auftrage des Bundes aus, so
@@ -2008,7 +1891,6 @@ Zweckmäßigkeit der Ausführung. Die Bundesregierung kann zu diesem
 Zwecke Bericht und Vorlage der Akten verlangen und Beauftragte zu
 allen Behörden entsenden.
 
-
 ### Art 86
 
 Führt der Bund die Gesetze durch bundeseigene Verwaltung oder durch
@@ -2017,7 +1899,6 @@ Rechtes aus, so erläßt die Bundesregierung, soweit nicht das Gesetz
 Besonderes vorschreibt, die allgemeinen Verwaltungsvorschriften. Sie
 regelt, soweit das Gesetz nichts anderes bestimmt, die Einrichtung der
 Behörden.
-
 
 ### Art 87
 
@@ -2051,7 +1932,6 @@ können bei dringendem Bedarf bundeseigene Mittel- und Unterbehörden
 mit Zustimmung des Bundesrates und der Mehrheit der Mitglieder des
 Bundestages errichtet werden.
 
-
 ### Art 87a
 
 (1) Der Bund stellt Streitkräfte zur Verteidigung auf. Ihre
@@ -2080,7 +1960,6 @@ Bekämpfung organisierter und militärisch bewaffneter Aufständischer
 einsetzen. Der Einsatz von Streitkräften ist einzustellen, wenn der
 Bundestag oder der Bundesrat es verlangen.
 
-
 ### Art 87b
 
 (1) Die Bundeswehrverwaltung wird in bundeseigener Verwaltung mit
@@ -2107,13 +1986,11 @@ bestimmt werden, daß diese Behörden beim Erlaß allgemeiner
 Verwaltungsvorschriften gemäß Artikel 85 Abs. 2 Satz 1 nicht der
 Zustimmung des Bundesrates bedürfen.
 
-
 ### Art 87c
 
 Gesetze, die auf Grund des Artikels 73 Abs. 1 Nr. 14 ergehen, können
 mit Zustimmung des Bundesrates bestimmen, daß sie von den Ländern im
 Auftrage des Bundes ausgeführt werden.
-
 
 ### Art 87d
 
@@ -2126,7 +2003,6 @@ Bundesgesetz.
 (2) Durch Bundesgesetz, das der Zustimmung des Bundesrates bedarf,
 können Aufgaben der Luftverkehrsverwaltung den Ländern als
 Auftragsverwaltung übertragen werden.
-
 
 ### Art 87e
 
@@ -2163,7 +2039,6 @@ Eisenbahnen des Bundes an Dritte sowie die Stillegung von
 Schienenwegen der Eisenbahnen des Bundes regeln oder Auswirkungen auf
 den Schienenpersonennahverkehr haben.
 
-
 ### Art 87f
 
 (1) Nach Maßgabe eines Bundesgesetzes, das der Zustimmung des
@@ -2183,14 +2058,12 @@ einer bundesunmittelbaren Anstalt des öffentlichen Rechts einzelne
 Aufgaben in bezug auf die aus dem Sondervermögen Deutsche Bundespost
 hervorgegangenen Unternehmen nach Maßgabe eines Bundesgesetzes aus.
 
-
 ### Art 88
 
 Der Bund errichtet eine Währungs- und Notenbank als Bundesbank. Ihre
 Aufgaben und Befugnisse können im Rahmen der Europäischen Union der
 Europäischen Zentralbank übertragen werden, die unabhängig ist und dem
 vorrangigen Ziel der Sicherung der Preisstabilität verpflichtet.
-
 
 ### Art 89
 
@@ -2209,7 +2082,6 @@ beauftragen, für das die beteiligten Länder es beantragen.
 sind die Bedürfnisse der Landeskultur und der Wasserwirtschaft im
 Einvernehmen mit den Ländern zu wahren.
 
-
 ### Art 90
 
 (1) Der Bund ist Eigentümer der bisherigen Reichsautobahnen und
@@ -2222,7 +2094,6 @@ sonstigen Bundesstraßen des Fernverkehrs im Auftrage des Bundes.
 (3) Auf Antrag eines Landes kann der Bund Bundesautobahnen und
 sonstige Bundesstraßen des Fernverkehrs, soweit sie im Gebiet dieses
 Landes liegen, in bundeseigene Verwaltung übernehmen.
-
 
 ### Art 91
 
@@ -2243,10 +2114,7 @@ Bundesregierung, soweit es zur wirksamen Bekämpfung erforderlich ist,
 den Landesregierungen Weisungen erteilen; Satz 1 und Satz 2 bleiben
 unberührt.
 
-
 ## VIIIa. - Gemeinschaftsaufgaben, Verwaltungszusammenarbeit
-
-
 
 ### Art 91a
 
@@ -2274,7 +2142,6 @@ einheitlich festzusetzen. Das Nähere regelt das Gesetz. Die
 Bereitstellung der Mittel bleibt der Feststellung in den
 Haushaltsplänen des Bundes und der Länder vorbehalten.
 
-
 ### Art 91b
 
 (1) Bund und Länder können auf Grund von Vereinbarungen in Fällen
@@ -2299,7 +2166,6 @@ internationalen Vergleich und bei diesbezüglichen Berichten und
 Empfehlungen zusammenwirken.
 
 (3) Die Kostentragung wird in der Vereinbarung geregelt.
-
 
 ### Art 91c
 
@@ -2328,13 +2194,11 @@ Netze des Bundes und der Länder ein Verbindungsnetz. Das Nähere zur
 Errichtung und zum Betrieb des Verbindungsnetzes regelt ein
 Bundesgesetz mit Zustimmung des Bundesrates.
 
-
 ### Art 91d
 
 Bund und Länder können zur Feststellung und Förderung der
 Leistungsfähigkeit ihrer Verwaltungen Vergleichsstudien durchführen
 und die Ergebnisse veröffentlichen.
-
 
 ### Art 91e
 
@@ -2353,10 +2217,7 @@ Absatz 1 vom Bund wahrzunehmen sind.
 (3) Das Nähere regelt ein Bundesgesetz, das der Zustimmung des
 Bundesrates bedarf.
 
-
 ## IX. - Die Rechtsprechung
-
-
 
 ### Art 92
 
@@ -2364,7 +2225,6 @@ Die rechtsprechende Gewalt ist den Richtern anvertraut; sie wird durch
 das Bundesverfassungsgericht, durch die in diesem Grundgesetze
 vorgesehenen Bundesgerichte und durch die Gerichte der Länder
 ausgeübt.
-
 
 ### Art 93
 
@@ -2437,7 +2297,6 @@ entsprechende Gesetzesvorlage im Bundesrat abgelehnt worden ist.
 (3) Das Bundesverfassungsgericht wird ferner in den ihm sonst durch
 Bundesgesetz zugewiesenen Fällen tätig.
 
-
 ### Art 94
 
 (1) Das Bundesverfassungsgericht besteht aus Bundesrichtern und
@@ -2451,7 +2310,6 @@ bestimmt, in welchen Fällen seine Entscheidungen Gesetzeskraft haben.
 Es kann für Verfassungsbeschwerden die vorherige Erschöpfung des
 Rechtsweges zur Voraussetzung machen und ein besonderes
 Annahmeverfahren vorsehen.
-
 
 ### Art 95
 
@@ -2470,7 +2328,6 @@ Mitgliedern besteht, die vom Bundestage gewählt werden.
 (3) Zur Wahrung der Einheitlichkeit der Rechtsprechung ist ein
 Gemeinsamer Senat der in Absatz 1 genannten Gerichte zu bilden. Das
 Nähere regelt ein Bundesgesetz.
-
 
 ### Art 96
 
@@ -2512,10 +2369,6 @@ der Länder Gerichtsbarkeit des Bundes ausüben:
 
 5.  Staatsschutz.
 
-
-
-
-
 ### Art 97
 
 (1) Die Richter sind unabhängig und nur dem Gesetze unterworfen.
@@ -2530,7 +2383,6 @@ deren Erreichung auf Lebenszeit angestellte Richter in den Ruhestand
 treten. Bei Veränderung der Einrichtung der Gerichte oder ihrer
 Bezirke können Richter an ein anderes Gericht versetzt oder aus dem
 Amte entfernt werden, jedoch nur unter Belassung des vollen Gehaltes.
-
 
 ### Art 98
 
@@ -2558,7 +2410,6 @@ Regelung treffen. Geltendes Landesverfassungsrecht bleibt unberührt.
 Die Entscheidung über eine Richteranklage steht dem
 Bundesverfassungsgericht zu.
 
-
 ### Art 99
 
 Dem Bundesverfassungsgerichte kann durch Landesgesetz die Entscheidung
@@ -2566,7 +2417,6 @@ von Verfassungsstreitigkeiten innerhalb eines Landes, den in Artikel
 95 Abs. 1 genannten obersten Gerichtshöfen für den letzten Rechtszug
 die Entscheidung in solchen Sachen zugewiesen werden, bei denen es
 sich um die Anwendung von Landesrecht handelt.
-
 
 ### Art 100
 
@@ -2592,7 +2442,6 @@ oder des Verfassungsgerichtes eines anderen Landes abweichen, so hat
 das Verfassungsgericht die Entscheidung des Bundesverfassungsgerichtes
 einzuholen.
 
-
 ### Art 101
 
 (1) Ausnahmegerichte sind unzulässig. Niemand darf seinem gesetzlichen
@@ -2601,11 +2450,9 @@ Richter entzogen werden.
 (2) Gerichte für besondere Sachgebiete können nur durch Gesetz
 errichtet werden.
 
-
 ### Art 102
 
 Die Todesstrafe ist abgeschafft.
-
 
 ### Art 103
 
@@ -2616,7 +2463,6 @@ gesetzlich bestimmt war, bevor die Tat begangen wurde.
 
 (3) Niemand darf wegen derselben Tat auf Grund der allgemeinen
 Strafgesetze mehrmals bestraft werden.
-
 
 ### Art 104
 
@@ -2645,10 +2491,7 @@ Fortdauer einer Freiheitsentziehung ist unverzüglich ein Angehöriger
 des Festgehaltenen oder eine Person seines Vertrauens zu
 benachrichtigen.
 
-
 ## X. - Das Finanzwesen
-
-
 
 ### Art 104a
 
@@ -2688,7 +2531,6 @@ der Gesamtlasten tragen die Länder, die die Lasten verursacht haben,
 anteilig entsprechend der Höhe der erhaltenen Mittel. Das Nähere
 regelt ein Bundesgesetz, das der Zustimmung des Bundesrates bedarf.
 
-
 ### Art 104b
 
 (1) Der Bund kann, soweit dieses Grundgesetz ihm
@@ -2725,7 +2567,6 @@ fallenden Jahresbeträgen zu gestalten.
 die Durchführung der Maßnahmen und die erzielten Verbesserungen zu
 unterrichten.
 
-
 ### Art 105
 
 (1) Der Bund hat die ausschließliche Gesetzgebung über die Zölle und
@@ -2743,7 +2584,6 @@ Befugnis zur Bestimmung des Steuersatzes bei der Grunderwerbsteuer.
 (3) Bundesgesetze über Steuern, deren Aufkommen den Ländern oder den
 Gemeinden (Gemeindeverbänden) ganz oder zum Teil zufließt, bedürfen
 der Zustimmung des Bundesrates.
-
 
 ### Art 106
 
@@ -2889,7 +2729,6 @@ Einrichtungen erwachsen, werden bei dem Ausgleich berücksichtigt.
 gelten auch die Einnahmen und Ausgaben der Gemeinden
 (Gemeindeverbände).
 
-
 ### Art 106a
 
 Den Ländern steht ab 1. Januar 1996 für den öffentlichen
@@ -2898,14 +2737,12 @@ Das Nähere regelt ein Bundesgesetz, das der Zustimmung des Bundesrates
 bedarf. Der Betrag nach Satz 1 bleibt bei der Bemessung der
 Finanzkraft nach Artikel 107 Abs. 2 unberücksichtigt.
 
-
 ### Art 106b
 
 Den Ländern steht ab dem 1. Juli 2009 infolge der Übertragung der
 Kraftfahrzeugsteuer auf den Bund ein Betrag aus dem Steueraufkommen
 des Bundes zu. Das Nähere regelt ein Bundesgesetz, das der Zustimmung
 des Bundesrates bedarf.
-
 
 ### Art 107
 
@@ -2938,7 +2775,6 @@ Ausgleichsleistungen sind in dem Gesetz zu bestimmen. Es kann auch
 bestimmen, daß der Bund aus seinen Mitteln leistungsschwachen Ländern
 Zuweisungen zur ergänzenden Deckung ihres allgemeinen Finanzbedarfs
 (Ergänzungszuweisungen) gewährt.
-
 
 ### Art 108
 
@@ -2987,7 +2823,6 @@ erlassen, und zwar mit Zustimmung des Bundesrates, soweit die
 Verwaltung den Landesfinanzbehörden oder Gemeinden (Gemeindeverbänden)
 obliegt.
 
-
 ### Art 109
 
 (1) Bund und Länder sind in ihrer Haushaltswirtschaft selbständig und
@@ -3032,7 +2867,6 @@ entfallenden Lasten tragen die Länder entsprechend ihrem
 Verursachungsbeitrag. Das Nähere regelt ein Bundesgesetz, das der
 Zustimmung des Bundesrates bedarf.
 
-
 ### Art 109a
 
 Zur Vermeidung von Haushaltsnotlagen regelt ein Bundesgesetz, das der
@@ -3053,7 +2887,6 @@ Zustimmung des Bundesrates bedarf,
 
 Die Beschlüsse des Stabilitätsrats und die zugrunde liegenden
 Beratungsunterlagen sind zu veröffentlichen.
-
 
 ### Art 110
 
@@ -3081,7 +2914,6 @@ Zeitraum beziehen, für den das Haushaltsgesetz beschlossen wird. Das
 Haushaltsgesetz kann vorschreiben, daß die Vorschriften erst mit der
 Verkündung des nächsten Haushaltsgesetzes oder bei Ermächtigung nach
 Artikel 115 zu einem späteren Zeitpunkt außer Kraft treten.
-
 
 ### Art 111
 
@@ -3111,14 +2943,12 @@ Aufrechterhaltung der Wirtschaftsführung erforderlichen Mittel bis zur
 Höhe eines Viertels der Endsumme des abgelaufenen Haushaltsplanes im
 Wege des Kredits flüssig machen.
 
-
 ### Art 112
 
 Überplanmäßige und außerplanmäßige Ausgaben bedürfen der Zustimmung
 des Bundesministers der Finanzen. Sie darf nur im Falle eines
 unvorhergesehenen und unabweisbaren Bedürfnisses erteilt werden.
 Näheres kann durch Bundesgesetz bestimmt werden.
-
 
 ### Art 113
 
@@ -3142,7 +2972,6 @@ dann versagen, wenn sie vorher das Verfahren nach Absatz 1 Satz 3 und
 4 oder nach Absatz 2 eingeleitet hat. Nach Ablauf dieser Frist gilt
 die Zustimmung als erteilt.
 
-
 ### Art 114
 
 (1) Der Bundesminister der Finanzen hat dem Bundestage und dem
@@ -3156,7 +2985,6 @@ Wirtschaftlichkeit und Ordnungsmäßigkeit der Haushalts- und
 Wirtschaftsführung. Er hat außer der Bundesregierung unmittelbar dem
 Bundestage und dem Bundesrate jährlich zu berichten. Im übrigen werden
 die Befugnisse des Bundesrechnungshofes durch Bundesgesetz geregelt.
-
 
 ### Art 115
 
@@ -3191,10 +3019,7 @@ Beschluss ist mit einem Tilgungsplan zu verbinden. Die Rückführung der
 nach Satz 6 aufgenommenen Kredite hat binnen eines angemessenen
 Zeitraumes zu erfolgen.
 
-
 ## X a. - Verteidigungsfall
-
-
 
 ### Art 115a
 
@@ -3231,12 +3056,10 @@ Verteidigungsfalles mit Zustimmung des Bundestages abgeben. Unter den
 Voraussetzungen des Absatzes 2 tritt an die Stelle des Bundestages der
 Gemeinsame Ausschuß.
 
-
 ### Art 115b
 
 Mit der Verkündung des Verteidigungsfalles geht die Befehls- und
 Kommandogewalt über die Streitkräfte auf den Bundeskanzler über.
-
 
 ### Art 115c
 
@@ -3272,7 +3095,6 @@ insbesondere auch in finanzieller Hinsicht, zu wahren ist.
 Vorbereitung ihres Vollzuges schon vor Eintritt des
 Verteidigungsfalles angewandt werden.
 
-
 ### Art 115d
 
 (1) Für die Gesetzgebung des Bundes gilt im Verteidigungsfalle
@@ -3292,7 +3114,6 @@ Zustimmung des Bundesrates bedarf.
 (3) Für die Verkündung der Gesetze gilt Artikel 115a Abs. 3 Satz 2
 entsprechend.
 
-
 ### Art 115e
 
 (1) Stellt der Gemeinsame Ausschuß im Verteidigungsfalle mit einer
@@ -3308,7 +3129,6 @@ weder geändert noch ganz oder teilweise außer Kraft oder außer
 Anwendung gesetzt werden. Zum Erlaß von Gesetzen nach Artikel 23 Abs.
 1 Satz 2, Artikel 24 Abs. 1 oder Artikel 29 ist der Gemeinsame
 Ausschuß nicht befugt.
-
 
 ### Art 115f
 
@@ -3329,7 +3149,6 @@ Verhältnisse erfordern,
 (2) Bundestag, Bundesrat und der Gemeinsame Ausschuß sind unverzüglich
 von den nach Absatz 1 getroffenen Maßnahmen zu unterrichten.
 
-
 ### Art 115g
 
 Die verfassungsmäßige Stellung und die Erfüllung der
@@ -3343,7 +3162,6 @@ solchen Gesetzes kann das Bundesverfassungsgericht die zur Erhaltung
 der Arbeitsfähigkeit des Gerichtes erforderlichen Maßnahmen treffen.
 Beschlüsse nach Satz 2 und Satz 3 faßt das Bundesverfassungsgericht
 mit der Mehrheit der anwesenden Richter.
-
 
 ### Art 115h
 
@@ -3367,7 +3185,6 @@ Mehrheit von zwei Dritteln seiner Mitglieder einen Nachfolger wählt.
 (3) Für die Dauer des Verteidigungsfalles ist die Auflösung des
 Bundestages ausgeschlossen.
 
-
 ### Art 115i
 
 (1) Sind die zuständigen Bundesorgane außerstande, die notwendigen
@@ -3381,7 +3198,6 @@ treffen.
 (2) Maßnahmen nach Absatz 1 können durch die Bundesregierung, im
 Verhältnis zu Landesbehörden und nachgeordneten Bundesbehörden auch
 durch die Ministerpräsidenten der Länder, jederzeit aufgehoben werden.
-
 
 ### Art 115k
 
@@ -3404,7 +3220,6 @@ Verteidigungsfalles durch Bundesgesetz mit Zustimmung des Bundesrates
 geändert werden, um zu der Regelung gemäß den Abschnitten VIIIa und X
 überzuleiten.
 
-
 ### Art 115l
 
 (1) Der Bundestag kann jederzeit mit Zustimmung des Bundesrates
@@ -3423,10 +3238,7 @@ seine Feststellung nicht mehr gegeben sind.
 
 (3) Über den Friedensschluß wird durch Bundesgesetz entschieden.
 
-
 ## XI. - Übergangs- und Schlußbestimmungen
-
-
 
 ### Art 116
 
@@ -3445,7 +3257,6 @@ ausgebürgert, sofern sie nach dem 8. Mai 1945 ihren Wohnsitz in
 Deutschland genommen haben und nicht einen entgegengesetzten Willen
 zum Ausdruck gebracht haben.
 
-
 ### Art 117
 
 (1) Das dem Artikel 3 Abs. 2 entgegenstehende Recht bleibt bis zu
@@ -3456,7 +3267,6 @@ jedoch nicht länger als bis zum 31. März 1953.
 gegenwärtige Raumnot einschränken, bleiben bis zu ihrer Aufhebung
 durch Bundesgesetz in Kraft.
 
-
 ### Art 118
 
 Die Neugliederung in dem die Länder Baden, Württemberg-Baden und
@@ -3466,14 +3276,12 @@ erfolgen. Kommt eine Vereinbarung nicht zustande, so wird die
 Neugliederung durch Bundesgesetz geregelt, das eine Volksbefragung
 vorsehen muß.
 
-
 ### Art 118a
 
 Die Neugliederung in dem die Länder Berlin und Brandenburg umfassenden
 Gebiet kann abweichend von den Vorschriften des Artikels 29 unter
 Beteiligung ihrer Wahlberechtigten durch Vereinbarung beider Länder
 erfolgen.
-
 
 ### Art 119
 
@@ -3484,7 +3292,6 @@ Verordnungen mit Gesetzeskraft erlassen. Für besondere Fälle kann
 dabei die Bundesregierung ermächtigt werden, Einzelweisungen zu
 erteilen. Die Weisungen sind außer bei Gefahr im Verzuge an die
 obersten Landesbehörden zu richten.
-
 
 ### Art 120
 
@@ -3508,7 +3315,6 @@ von Entschädigungsansprüchen für Kriegsfolgen unberührt.
 (2) Die Einnahmen gehen auf den Bund zu demselben Zeitpunkte über, an
 dem der Bund die Ausgaben übernimmt.
 
-
 ### Art 120a
 
 (1) Die Gesetze, die der Durchführung des Lastenausgleichs dienen,
@@ -3525,13 +3331,11 @@ zu richten.
 
 (2) Artikel 87 Abs. 3 Satz 2 bleibt unberührt.
 
-
 ### Art 121
 
 Mehrheit der Mitglieder des Bundestages und der Bundesversammlung im
 Sinne dieses Grundgesetzes ist die Mehrheit ihrer gesetzlichen
 Mitgliederzahl.
-
 
 ### Art 122
 
@@ -3542,7 +3346,6 @@ gesetzgebenden Gewalten beschlossen.
 (2) Gesetzgebende und bei der Gesetzgebung beratend mitwirkende
 Körperschaften, deren Zuständigkeit nach Absatz 1 endet, sind mit
 diesem Zeitpunkt aufgelöst.
-
 
 ### Art 123
 
@@ -3558,12 +3361,10 @@ Staatsverträge durch die nach diesem Grundgesetze zuständigen Stellen
 abgeschlossen werden oder ihre Beendigung auf Grund der in ihnen
 enthaltenen Bestimmungen anderweitig erfolgt.
 
-
 ### Art 124
 
 Recht, das Gegenstände der ausschließlichen Gesetzgebung des Bundes
 betrifft, wird innerhalb seines Geltungsbereiches Bundesrecht.
-
 
 ### Art 125
 
@@ -3576,10 +3377,6 @@ betrifft, wird innerhalb seines Geltungsbereiches Bundesrecht,
 
 2.  soweit es sich um Recht handelt, durch das nach dem 8. Mai 1945
     früheres Reichsrecht abgeändert worden ist.
-
-
-
-
 
 ### Art 125a
 
@@ -3600,7 +3397,6 @@ bestimmt werden, dass es durch Landesrecht ersetzt werden kann.
 Änderung des Artikels 73 nicht mehr als Landesrecht erlassen werden
 könnte, gilt als Landesrecht fort. Es kann durch Bundesrecht ersetzt
 werden.
-
 
 ### Art 125b
 
@@ -3623,7 +3419,6 @@ Regelungen des Verwaltungsverfahrens bis zum 31. Dezember 2008 aber
 nur dann, wenn ab dem 1. September 2006 in dem jeweiligen Bundesgesetz
 Regelungen des Verwaltungsverfahrens geändert worden sind.
 
-
 ### Art 125c
 
 (1) Recht, das auf Grund des Artikels 91a Abs. 2 in Verbindung mit
@@ -3641,12 +3436,10 @@ Fassung geschaffenen Regelungen gelten bis zum 31. Dezember 2019 fort,
 soweit nicht ein früherer Zeitpunkt für das Außerkrafttreten bestimmt
 ist oder wird.
 
-
 ### Art 126
 
 Meinungsverschiedenheiten über das Fortgelten von Recht als
 Bundesrecht entscheidet das Bundesverfassungsgericht.
-
 
 ### Art 127
 
@@ -3657,13 +3450,11 @@ Bundesrecht fortgilt, innerhalb eines Jahres nach Verkündung dieses
 Grundgesetzes in den Ländern Baden, Groß-Berlin, Rheinland-Pfalz und
 Württemberg-Hohenzollern in Kraft setzen.
 
-
 ### Art 128
 
 Soweit fortgeltendes Recht Weisungsrechte im Sinne des Artikels 84
 Abs. 5 vorsieht, bleiben sie bis zu einer anderweitigen gesetzlichen
 Regelung bestehen.
-
 
 ### Art 129
 
@@ -3687,7 +3478,6 @@ Stelle von Gesetzen ermächtigen, sind diese Ermächtigungen erloschen.
 in Rechtsvorschriften auf nicht mehr geltende Vorschriften oder nicht
 mehr bestehende Einrichtungen verwiesen ist.
 
-
 ### Art 130
 
 (1) Verwaltungsorgane und sonstige der öffentlichen Verwaltung oder
@@ -3706,7 +3496,6 @@ den Ländern beruhende Körperschaften und Anstalten des öffentlichen
 Rechtes unterstehen der Aufsicht der zuständigen obersten
 Bundesbehörde.
 
-
 ### Art 131
 
 Die Rechtsverhältnisse von Personen einschließlich der Flüchtlinge und
@@ -3720,7 +3509,6 @@ beamten- oder tarifrechtlichen Gründen keine oder keine entsprechende
 Versorgung mehr erhalten. Bis zum Inkrafttreten des Bundesgesetzes
 können vorbehaltlich anderweitiger landesrechtlicher Regelung
 Rechtsansprüche nicht geltend gemacht werden.
-
 
 ### Art 132
 
@@ -3746,12 +3534,10 @@ wichtiger Grund in ihrer Person vorliegt.
 (4) Das Nähere bestimmt eine Verordnung der Bundesregierung, die der
 Zustimmung des Bundesrates bedarf.
 
-
 ### Art 133
 
 Der Bund tritt in die Rechte und Pflichten der Verwaltung des
 Vereinigten Wirtschaftsgebietes ein.
-
 
 ### Art 134
 
@@ -3773,7 +3559,6 @@ es nicht der Bund für eigene Verwaltungsaufgaben benötigt.
 
 (4) Das Nähere regelt ein Bundesgesetz, das der Zustimmung des
 Bundesrates bedarf.
-
 
 ### Art 135
 
@@ -3816,7 +3601,6 @@ eines Landesgesetzes oder in anderer Weise bei Inkrafttreten des
 Grundgesetzes verfügt worden war, gilt der Vermögensübergang als vor
 der Verfügung erfolgt.
 
-
 ### Art 135a
 
 (1) Durch die in Artikel 134 Abs. 4 und Artikel 135 Abs. 5
@@ -3853,7 +3637,6 @@ Deutschen Demokratischen Republik auf Bund, Länder und Gemeinden im
 Zusammenhang stehen, und auf Verbindlichkeiten, die auf Maßnahmen der
 Deutschen Demokratischen Republik oder ihrer Rechtsträger beruhen.
 
-
 ### Art 136
 
 (1) Der Bundesrat tritt erstmalig am Tage des ersten Zusammentrittes
@@ -3862,7 +3645,6 @@ des Bundestages zusammen.
 (2) Bis zur Wahl des ersten Bundespräsidenten werden dessen Befugnisse
 von dem Präsidenten des Bundesrates ausgeübt. Das Recht der Auflösung
 des Bundestages steht ihm nicht zu.
-
 
 ### Art 137
 
@@ -3880,13 +3662,11 @@ zustehende Befugnis wird bis zu seiner Errichtung von dem Deutschen
 Obergericht für das Vereinigte Wirtschaftsgebiet wahrgenommen, das
 nach Maßgabe seiner Verfahrensordnung entscheidet.
 
-
 ### Art 138
 
 Änderungen der Einrichtungen des jetzt bestehenden Notariats in den
 Ländern Baden, Bayern, Württemberg-Baden und Württemberg-Hohenzollern
 bedürfen der Zustimmung der Regierungen dieser Länder.
-
 
 ### Art 139
 
@@ -3894,18 +3674,15 @@ Die zur "Befreiung des deutschen Volkes vom Nationalsozialismus und
 Militarismus" erlassenen Rechtsvorschriften werden von den
 Bestimmungen dieses Grundgesetzes nicht berührt.
 
-
 ### Art 140
 
 Die Bestimmungen der Artikel 136, 137, 138, 139 und 141 der deutschen
 Verfassung vom 11. August 1919 sind Bestandteil dieses Grundgesetzes.
 
-
 ### Art 141
 
 Artikel 7 Abs. 3 Satz 1 findet keine Anwendung in einem Lande, in dem
 am 1. Januar 1949 eine andere landesrechtliche Regelung bestand.
-
 
 ### Art 142
 
@@ -3914,11 +3691,9 @@ Landesverfassungen auch insoweit in Kraft, als sie in Übereinstimmung
 mit den Artikeln 1 bis 18 dieses Grundgesetzes Grundrechte
 gewährleisten.
 
-
 ### Art 142a
 
 -
-
 
 ### Art 143
 
@@ -3938,7 +3713,6 @@ Einigungsvertrags und Regelungen zu seiner Durchführung auch insoweit
 Bestand, als sie vorsehen, daß Eingriffe in das Eigentum auf dem in
 Artikel 3 dieses Vertrags genannten Gebiet nicht mehr rückgängig
 gemacht werden.
-
 
 ### Art 143a
 
@@ -3960,7 +3734,6 @@ entsprechenden Aufgaben der Eisenbahnverkehrsverwaltung. Das Nähere
 wird durch Bundesgesetz geregelt, das der Zustimmung des Bundesrates
 bedarf.
 
-
 ### Art 143b
 
 (1) Das Sondervermögen Deutsche Bundespost wird nach Maßgabe eines
@@ -3980,7 +3753,6 @@ bedarf es eines Bundesgesetzes mit Zustimmung des Bundesrates.
 unter Wahrung ihrer Rechtsstellung und der Verantwortung des
 Dienstherrn bei den privaten Unternehmen beschäftigt. Die Unternehmen
 üben Dienstherrenbefugnisse aus. Das Nähere bestimmt ein Bundesgesetz.
-
 
 ### Art 143c
 
@@ -4019,7 +3791,6 @@ Vereinbarungen aus dem Solidarpakt II bleiben unberührt.
 
 (4) Das Nähere regelt ein Bundesgesetz, das der Zustimmung des
 Bundesrates bedarf.
-
 
 ### Art 143d
 
@@ -4065,7 +3836,6 @@ Finanzierungslast wird hälftig von Bund und Ländern, von letzteren aus
 ihrem Umsatzsteueranteil, getragen. Das Nähere wird durch Bundesgesetz
 mit Zustimmung des Bundesrates geregelt.
 
-
 ### Art 144
 
 (1) Dieses Grundgesetz bedarf der Annahme durch die Volksvertretungen
@@ -4078,7 +3848,6 @@ Beschränkungen unterliegt, hat das Land oder der Teil des Landes das
 Recht, gemäß Artikel 38 Vertreter in den Bundestag und gemäß Artikel
 50 Vertreter in den Bundesrat zu entsenden.
 
-
 ### Art 145
 
 (1) Der Parlamentarische Rat stellt in öffentlicher Sitzung unter
@@ -4090,14 +3859,12 @@ Kraft.
 
 (3) Es ist im Bundesgesetzblatte zu veröffentlichen.
 
-
 ### Art 146
 
 Dieses Grundgesetz, das nach Vollendung der Einheit und Freiheit
 Deutschlands für das gesamte deutsche Volk gilt, verliert seine
 Gültigkeit an dem Tage, an dem eine Verfassung in Kraft tritt, die von
 dem deutschen Volke in freier Entscheidung beschlossen worden ist.
-
 
 ### Anhang EV
 

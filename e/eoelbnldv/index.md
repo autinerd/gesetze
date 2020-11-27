@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 39 G v. 21.12.2000 I 1956
 
-
 ## Eingangsformel
 
 Auf Grund des § 4 Abs. 2 und des § 9 Abs. 4 des Gesetzes über
@@ -27,7 +26,6 @@ Mindestvorräte an Erdölerzeugnissen vom 9. September 1965
 (Bundesgesetzbl. I S. 1217), geändert durch das Einführungsgesetz zum
 Gesetz über Ordnungswidrigkeiten vom 24. Mai 1968 (Bundesgesetzbl. I
 S. 503), wird verordnet:
-
 
 ## § 1
 
@@ -40,7 +38,6 @@ Erdöl
 (§ 3 des Gesetzes),              die sich in den Niederlanden befinden
 (anrechenbare Bestände), nach Maßgabe der nachfolgenden Bestimmungen
 erfüllt werden.
-
 
 ## § 2
 
@@ -130,7 +127,6 @@ vorratspflichtiger Unternehmer ausgewiesen sein; in den Fällen des
 Absatzes 1 Nr. 4 muß der niederländische Unternehmer außerdem die in
 den Niederlanden geltenden Bevorratungsbestimmungen beachtet haben.
 
-
 ## § 3
 
 Die Verpflichtungserklärung nach § 2 Abs. 1 Nr. 4 Buchstabe b muß
@@ -156,10 +152,6 @@ folgende Angaben enthalten:
 
 6.  Name und Anschrift des vorratspflichtigen Unternehmers, für den die
     Bestände gehalten werden.
-
-
-
-
 
 ## § 4
 
@@ -207,13 +199,11 @@ niederländischen Unternehmers beizufügen, aus der hervorgeht, daß die
 Voraussetzungen des § 2 Abs. 2 in dem Zeitraum vorgelegen haben, für
 den die Meldungen abgegeben wurden.
 
-
 ## § 5
 
 Mit Beständen, deren Anrechenbarkeit der niederländische
 Wirtschaftsminister nach Artikel 5 Nr. 2 des Abkommens beanstandet,
 kann die Pflicht zur Vorratshaltung nicht erfüllt werden.
-
 
 ## § 6
 
@@ -231,16 +221,13 @@ beizufügen oder gegenüber dem Bundesamt für Wirtschaft und
 Ausfuhrkontrolle (BAFA) den Nachweis zu führen, daß eine solche
 Zustimmung nach Artikel 2 des Abkommens nicht erforderlich ist.
 
-
 ## § 7
 
 (weggefallen)
 
-
 ## § 8
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
-
 
 ## Schlußformel
 

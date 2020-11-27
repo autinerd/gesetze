@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 609
 
-
 ## (XXXX)
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
@@ -50,11 +49,9 @@ DEUTSCHLAND“, die zwölf Europasterne, die Wertziffer mit der Euro-
 Bezeichnung sowie die Jahreszahl „2010“ und – je nach Münzstätte – das
 Münzzeichen „A“, „D“, „F“, „G“ oder „J“.
 
-
 ## Schlussformel
 
 Der Bundesminister der Finanzen
-
 
 ## (XXXX)
 

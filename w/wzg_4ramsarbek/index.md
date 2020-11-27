@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1993, 398
 
-
-
 ## (XXXX)
 
 Auf Grund des § 4 Abs. 2 Nr. 3a des Warenzeichengesetzes in der
@@ -32,7 +30,6 @@ bekanntgemacht, daß die Bezeichnung, die Abkürzung und das Kennzeichen
 von der Eintragung als Warenzeichen ausgeschlossen sind.
 Diese Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom 22.
 Mai 1992 (BGBl. I S. 1024).
-
 
 ## Anlage
 

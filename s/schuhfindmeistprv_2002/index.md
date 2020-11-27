@@ -19,8 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 16 V v. 23.7.2010 I 1010
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 46 Abs. 2 Satz 1 des Berufsbildungsgesetzes vom 14.
@@ -32,7 +30,6 @@ Oktober 2002 (BGBl. I S. 4206) verordnet das Bundesministerium für
 Bildung und Forschung nach Anhörung des Ständigen Ausschusses des
 Bundesinstituts für Berufsbildung im Einvernehmen mit dem
 Bundesministerium für Wirtschaft und Arbeit:
-
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
 
@@ -82,7 +79,6 @@ und Ausführung in dem ihm übertragenen Aufgabenbereich wahrzunehmen:
 Geprüfter Industriemeister/Geprüfte Industriemeisterin - Fachrichtung
 Schuhfertigung.
 
-
 ## § 2 Zulassungsvoraussetzungen
 
 (1) Zur Industriemeisterprüfung ist zuzulassen, wer
@@ -105,7 +101,6 @@ nachweist.
 zugelassen werden, wer durch Vorlage von Zeugnissen oder auf andere
 Weise glaubhaft macht, dass er Kenntnisse, Fertigkeiten und
 Erfahrungen erworben hat, die die Zulassung zur Prüfung rechtfertigen.
-
 
 ## § 3 Gliederung und Inhalt der Prüfung
 
@@ -136,7 +131,6 @@ vergleichbare Prüfung vor einer öffentlichen oder staatlich
 anerkannten Bildungseinrichtung oder vor einem staatlichen
 Prüfungsausschuss nachzuweisen. Der Prüfungsnachweis ist vor Beginn
 der letzten Prüfungsleistung zu erbringen.
-
 
 ## § 4 Fachrichtungsübergreifender Teil
 
@@ -352,7 +346,6 @@ dauern. Die Bewertung der schriftlichen Prüfungsleistung und die der
 mündlichen Ergänzungsprüfung werden zu einer Note zusammengefasst.
 Dabei wird die Bewertung der schriftlichen Prüfungsleistung doppelt
 gewichtet.
-
 
 ## § 5 Fachrichtungsspezifischer Teil der Fachrichtung Schuhfertigung
 
@@ -665,7 +658,6 @@ Prüfungsleistung und die der mündlichen Ergänzungsprüfung werden zu
 einer Note zusammengefasst. Dabei wird die Bewertung der schriftlichen
 Prüfungsleistung doppelt gewichtet.
 
-
 ## § 6 Anrechnung anderer Prüfungsleistungen
 
 Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin ist auf Antrag
@@ -675,7 +667,6 @@ Stelle zu befreien, wenn eine andere vergleichbare Prüfung vor einer
 einem staatlichen Prüfungsausschuss erfolgreich abgelegt wurde und die
 Anmeldung zur Fortbildungsprüfung innerhalb von fünf Jahren nach der
 Bekanntgabe des Bestehens der anderen Prüfung erfolgt.
-
 
 ## § 7 Bestehen der Prüfung
 
@@ -699,7 +690,6 @@ Seite 1 und ein Zeugnis gemäß der Anlage Seite 1 und 2 auszustellen.
 Im Fall der Freistellung nach § 6 sind Ort und Datum sowie Bezeichnung
 des Prüfungsgremiums der anderweitig abgelegten Prüfung anzugeben.
 
-
 ## § 8 Wiederholung der Prüfung
 
 (1) Eine Prüfung, die nicht bestanden ist, kann zweimal wiederholt
@@ -715,12 +705,10 @@ Prüfungsteilnehmer kann beantragen, auch bestandene Prüfungsleistungen
 zu wiederholen. In diesem Fall wird das letzte Ergebnis
 berücksichtigt.
 
-
 ## § 9 Übergangsvorschrift
 
 Die bis zum Ablauf des 31. August 2009 begonnenen Prüfungsverfahren
 können nach den bisherigen Vorschriften zu Ende geführt werden.
-
 
 ## Anlage Muster
 

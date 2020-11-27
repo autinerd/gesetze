@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 24.4.2009 I 999
 
-
 ## Eingangsformel
 
 Auf Grund des § 10 des Gesetzes über Bausparkassen vom 16. November
@@ -30,7 +29,6 @@ auf das Bundesaufsichtsamt für das Kreditwesen vom 8. Januar 1973
 (BGBl. I S. 17) verordnet das Bundesaufsichtsamt für das Kreditwesen
 nach Anhörung der Deutschen Bundesbank und der Spitzenverbände der
 Bausparkassen:
-
 
 ## § 1 Vorfinanzierungs- und Zwischenkredite aus Zuteilungsmitteln
 
@@ -56,7 +54,6 @@ Hundert des Kontingents nach Absatz 1 Satz 1 nicht überschreiten.
 Antrag in besonderen Fällen Ausnahmen von den Absätzen 1 bis 3
 zulassen.
 
-
 ## § 2 Großbausparverträge
 
 (1) Großbausparverträge sind Bausparverträge, bei denen die
@@ -78,13 +75,11 @@ Großbausparverträgen sind die Bausparverträge anzurechnen, auf die der
 Bausparer die für eine Zuteilung erforderliche Mindestansparsumme
 innerhalb des ersten Jahres nach Vertragsabschluß eingezahlt hat.
 
-
 ## § 3 Gewerbliche Finanzierungen
 
 Der Anteil von Darlehen, die der Finanzierung von Bauvorhaben mit
 gewerblichem Charakter dienen, darf 3 vom Hundert des Gesamtbestandes
 der Forderungen aus Darlehen einer Bausparkasse nicht übersteigen.
-
 
 ## § 4 Darlehen an Beteiligungsunternehmen
 
@@ -97,11 +92,9 @@ ist, dürfen Darlehen der in Absatz 1 genannten Art insgesamt bis zu 20
 vom Hundert des haftenden Eigenkapitals der Bausparkasse gewährt
 werden.
 
-
 ## § 5 (weggefallen)
 
 -
-
 
 ## § 6 Darlehen gegen Verpflichtungserklärung, Blankodarlehen
 
@@ -114,7 +107,6 @@ Einzelfall nur bis zum Betrag von 30 000 Euro gewährt werden.
 Hundert am Gesamtbestand der Forderungen aus Darlehen einer
 Bausparkasse nicht übersteigen.
 
-
 ## § 6a Begrenzung der nicht durch Grundpfandrechte gesicherten Darlehen
 
 Der Anteil aller Darlehen, für die Ersatzsicherheiten nach § 7 Absatz
@@ -122,7 +114,6 @@ Der Anteil aller Darlehen, für die Ersatzsicherheiten nach § 7 Absatz
 nach § 6 Absatz 1 dieser Verordnung darf insgesamt 45 vom Hundert am
 Gesamtbestand der Forderungen aus Darlehen einer Bausparkasse nicht
 übersteigen.
-
 
 ## § 7 Zuteilungsvoraussetzungen
 
@@ -161,7 +152,6 @@ kollektiven Sparer-Kassen-Leistungsverhältnisses zulassen.
 sind der Bundesanstalt für Finanzdienstleistungsaufsicht jährlich für
 das abgelaufene Kalenderjahr nachzuweisen.
 
-
 ## § 8 Zuführung zum Fonds zur bauspartechnischen Absicherung
 
 (1) Die Zuführung zum Fonds zur bauspartechnischen Absicherung erfolgt
@@ -191,7 +181,6 @@ niedrigstes individuelles Sparer-Kassen-Leistungsverhältnis mindestens
 0,8 beträgt, kann statt des Zinssatzes für Bauspardarlehen wahlweise
 der Zinssatz für Bauspareinlagen zuzüglich 2,75 vom Hundert zum Ansatz
 gebracht werden.
-
 
 ## § 9 Einsatz des Fonds zur bauspartechnischen Absicherung
 
@@ -230,7 +219,6 @@ steuerlichen Gewinn mindernden Zuteilungsrücklage auf, kann sie dem
 Fonds einen Betrag in Höhe von bis zu vier Zehnteln des aufgelösten
 Teils der Zuteilungsrücklage entnehmen.
 
-
 ## § 10 Übergangsregelung
 
 In die am 1. Januar 1991 angebotenen Standardtarife mit einer
@@ -243,7 +231,6 @@ ein individuelles Sparer-Kassen-Leistungsverhältnis von mindestens 0,5
 anzusetzen. Der Nachweis kollektiv ausgeglichener
 Leistungsverhältnisse (§ 7 Abs. 1 und 4) muß spätestens bis zum 1.
 Januar 1996 erbracht werden.
-
 
 ## § 11 Inkrafttreten, Außerkrafttreten
 

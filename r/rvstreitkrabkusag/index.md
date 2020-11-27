@@ -20,17 +20,14 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 242 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art 1
 
 -
-
 
 ## Art 2
 
@@ -40,12 +37,10 @@ treffenden Entscheidung die Stellungnahme des Bundesministeriums für
 Arbeit und Soziales einholen, wenn Zweifel über die Auslegung und
 Anwendung des Abkommens bestehen.
 
-
 ## Art 3
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
-
 
 ## Art 4
 

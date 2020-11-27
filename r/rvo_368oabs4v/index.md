@@ -20,7 +20,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 12 G v. 22.12.2011 I 2983
 
-
 ## Eingangsformel
 
 Auf Grund des § 368 o Abs. 4 Satz 3 der Reichsversicherungsordnung in
@@ -29,7 +28,6 @@ Buches der Reichsversicherungsordnung und zur Ergänzung des
 Sozialgerichtsgesetzes (Gesetz über Kassenarztrecht - GKAR) vom 17.
 August 1955 (Bundesgesetzbl. I S. 513) wird mit Zustimmung des
 Bundesrates verordnet:
-
 
 ## § 1
 
@@ -40,11 +38,9 @@ des Fünften Buches Sozialgesetzbuch. Während einer Amtsperiode neu
 hinzugetretene Mitglieder der Ausschüsse scheiden mit Ablauf der
 Amtsperiode aus.
 
-
 ## § 2
 
 (weggefallen)
-
 
 ## § 3
 
@@ -58,7 +54,6 @@ können von den Trägerorganisationen, die sie bestellt haben, abberufen
 werden. Die Abberufung kann nur zum Schluß eines Kalenderhalbjahres
 erfolgen. Sie ist dem Vorsitzenden des Ausschusses mitzuteilen.
 
-
 ## § 4
 
 Die Niederlegung des Amtes ist dem Vorsitzenden des Ausschusses
@@ -71,13 +66,11 @@ Bundesausschusses oder einer deren Stellvertreter sein Amt nieder,
 setzt der Vorsitzende des Gemeinsamen Bundesausschusses das
 Bundesministerium für Gesundheit hierüber in Kenntnis.
 
-
 ## § 5
 
 Die Mitglieder der Ausschüsse sind verpflichtet, an den Sitzungen
 teilzunehmen oder bei Verhinderung ihre Stellvertreter zu
 benachrichtigen. Dies gilt sinngemäß für die Stellvertreter.
-
 
 ## § 6
 
@@ -88,14 +81,12 @@ Mitglieder der Organe der bestellenden Trägerorganisation geltenden
 Grundsätzen. Der Anspruch richtet sich gegen die bestellende
 Trägerorganisation.
 
-
 ## § 7 Reisekosten für Mitglieder des Gemeinsamen Bundesausschusses
 
 Der Vorsitzende und die weiteren unparteiischen Mitglieder des
 Gemeinsamen Bundesausschusses erhalten Reisekostenvergütung nach den
 Vorschriften des Bundesreisekostengesetzes. Der Anspruch richtet sich
 gegen den Gemeinsamen Bundesausschuss.
-
 
 ## § 8
 
@@ -107,7 +98,6 @@ Vereinigung. Bestehen in einem Lande mehrere Kassenärztliche
 (Kassenzahnärztliche) Vereinigungen, so bestimmt die Aufsichtsbehörde,
 gegen welche Vereinigung sich der Anspruch richtet.
 
-
 ## § 9
 
 Die Vorsitzenden und die weiteren unparteiischen Mitglieder der
@@ -118,7 +108,6 @@ Festsetzung bedarf der Zustimmung der Aufsichtsbehörde. Eine
 anderweitige Entschädigung für Zeitaufwand wird ihnen unbeschadet des
 § 10 nicht gewährt. § 7 Satz 2 und § 8 Sätze 2 und 3 gelten
 entsprechend.
-
 
 ## § 10
 
@@ -132,7 +121,6 @@ Zeitaufwand außerhalb von Sitzungen erhalten, deren Höhe die
 Trägerorganisationen festsetzen. Die Festsetzung bedarf der Zustimmung
 der Aufsichtsbehörde. § 7 Satz 2 und § 8 Sätze 2 und 3 gelten
 entsprechend.
-
 
 ## § 11
 
@@ -150,18 +138,15 @@ Vertreter; das gilt entsprechend für die beteiligten Vereinigungen der
 Ärzte (Zahnärzte), wenn an einem Ausschuss mehrere Vereinigungen
 beteiligt sind.
 
-
 ## § 12
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit Artikel 3
 des Gesetzes über Kassenarztrecht auch im Land Berlin.
 
-
 ## § 13
 
 Diese Verordnung tritt mit Wirkung vom 1. September 1955 in Kraft. ...
-
 
 ## Schlußformel
 

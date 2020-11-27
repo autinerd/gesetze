@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art 1 V v. 12.8.2010 BAnz. Nr. 129, 2951
 
-
 ## Eingangsformel
 
 Auf Grund des § 5 Abs. 1 Nr. 3, 4 und 5 in Verbindung mit § 12 des
@@ -30,7 +29,6 @@ Abs. 1 des Seelotsgesetzes zuletzt durch Artikel 282 Nr. 1 der
 Verordnung vom 29. Oktober 2001 (BGBl. I S. 2785) geändert worden ist,
 verordnet die Wasser- und Schifffahrtsdirektion Nordwest nach Anhörung
 der Küstenländer und der Bundeslotsenkammer:
-
 
 ## § 1 Begriffsbestimmungen
 
@@ -100,7 +98,6 @@ Approach" sind die Positionen einkommend 5 Seemeilen nördlich der TG
 (12) Schifffahrtspolizeibehörde im Sinne dieser Verordnung ist das
 jeweils zuständige Wasser- und Schifffahrtsamt.
 
-
 ## § 2 Seelotsreviere, Lotsbezirke, Lotsenbrüderschaften
 
 (1) Der Lotsdienst auf den Fahrtstrecken zwischen Bremen und
@@ -136,7 +133,6 @@ Seelotsen. Der Betrieb des Lotsbezirks 1 obliegt der Lotsenstation
 Bremerhaven. Der Betrieb des Lotsbezirks 2 obliegt der Lotsenstation
 Wilhelmshaven.
 
-
 ## § 3 Lotsenstationen, Lotsenwechsel
 
 (1) Lotsenstationen sind eingerichtet
@@ -155,7 +151,6 @@ Wilhelmshaven.
 Lotsbezirk 1 des Seelotsreviers Weser II/Jade erfolgt bei Bremerhaven
 im Bereich der Geestemündung.
 
-
 ## § 4 Lotsenversetzpositionen
 
 (1) Schiffe, die zur Annahme eines Seelotsen auf den Fahrtstrecken
@@ -172,7 +167,6 @@ so erfolgt dort das Ausholen und Versetzen der Seelotsen für die
 Weser. Auf der Jade erfolgt in diesen Fällen das Ausholen und
 Versetzen mit einem Lotsenversetzschiff von Wilhelmshaven aus im
 Bereich "Minsener Oog".
-
 
 ## § 5 Lotsenanforderung und Versetzmanöver
 
@@ -219,7 +213,6 @@ für eine ausreichende Überwachung des Lotsengeschirrs, für
 Hilfestellung beim Anbordkommen und Vonbordgehen und für die
 Sicherheit des Seelotsen auf dem Weg zwischen Lotsengeschirr und der
 Brücke des Schiffes zu sorgen.
-
 
 ## § 6 Pflicht zur Annahme eines Bordlotsen
 
@@ -306,10 +299,6 @@ nicht überschritten werden:
 
 5.  für Schiffe nach Absatz 2 Nr. 2: Länge 155 m und Breite 23,50 m.
 
-
-
-
-
 ## § 7 Ausnahmen von der Lotsenannahmepflicht
 
 (1) Von der Lotsenannahmepflicht ausgenommen sind die Führer von
@@ -321,7 +310,6 @@ Binnenschifffahrtsstraßen-Ordnung kommen oder sich auf dem Weg dorthin
 befinden, sind auf den Fahrtstrecken binnenwärts km 9 von der
 Lotsenannahmepflicht ausgenommen, wenn die Fahrt in diesem Bereich
 beginnt oder endet.
-
 
 ## § 8 Befreiung von der Annahmepflicht eines Bordlotsen ohne Antrag für Seeschiffe
 
@@ -368,7 +356,6 @@ Schifffahrtspolizeibehörde nachzuweisen.
 
 (5) Die Schifffahrtspolizeibehörde kann die Befreiung auf Antrag auf
 ein typgleiches Schiff übertragen.
-
 
 ## § 9 Befreiung von der Annahmepflicht eines Bordlotsen auf Antrag für Seeschiffe
 
@@ -446,7 +433,6 @@ dem Fahrzeug nach Absatz 2 mindestens dreimal befahren hat.
 
 (6) Die Befreiung kann auf Antrag auf ein typgleiches Schiff
 übertragen werden.
-
 
 ## § 10 Befreiung für Tankschiffe
 
@@ -579,7 +565,6 @@ für Schiffe nach Absatz 1 Nr. 1 auf Schiffe nach Absatz 1 Nr. 2.
 der Schifffahrtspolizeibehörde auf ein typgleiches Schiff nach Absatz
 1 übertragen werden.
 
-
 ## § 11 Stellvertreter des Schiffsführers
 
 Die Vorschriften der §§ 8 bis 10 über die Befreiung von der
@@ -588,14 +573,12 @@ Schiffsführers, wenn er die nautische Führung des Schiffes übernimmt.
 Der Stellvertreter kann seine Befreiung nur dann in Anspruch nehmen,
 wenn auch der Schiffsführer von der Lotsenannahmepflicht befreit ist.
 
-
 ## § 12 Befreiung von der Lotsenannahmepflicht in besonderen Fällen
 
 Die Schifffahrtspolizeibehörde kann den Führer eines Schiffes in
 besonderen Einzelfällen über die Vorschriften der §§ 8 bis 10 hinaus
 nach Anhörung der Lotsenbrüderschaft von der Lotsenannahmepflicht
 befreien.
-
 
 ## § 13 Landradarberatung
 
@@ -670,7 +653,6 @@ einer Anforderung der Landradarberatung durch eine Schiffsführung nach
 Absatz 4, wenn keine rechtzeitige Anforderung der Landradarberatung
 nach § 5 Abs. 1 und 3 erfolgt.
 
-
 ## § 14 Anordnung zur Annahme von Seelotsen zur Abwehr einer Gefahr/Widerruf von Befreiungen
 
 (1) Die Schifffahrtspolizeibehörde kann über die Vorschriften der §§ 6
@@ -681,7 +663,6 @@ anordnen.
 (2) Die Schifffahrtspolizeibehörde kann bei wiederholten Verstößen
 oder einem erheblichen Verstoß gegen die Verkehrsvorschriften die
 Befreiungen nach dieser Lotsverordnung widerrufen.
-
 
 ## § 15 Lotsentätigkeit nach der ersten Bestallung
 
@@ -787,10 +768,6 @@ Schiffes tätig ist,
 
     unterstützen.
 
-
-
-
-
 ## § 16 Distanzlotsungen
 
 Die Seelotsen der Lotsenbrüderschaft Weser II/Jade dürfen über ihr
@@ -800,7 +777,6 @@ diesen Bereich hinaus dürfen sie nicht lotsen. Die Seelotsen der
 Lotsenbrüderschaft Weser I dürfen Schiffe über 225 m Länge, die
 weseraufwärts fahren, bereits in Höhe "Imsum OF" besetzen und nach
 erfolgtem Lotswechsel lotsen.
-
 
 ## § 17 Ordnungswidrigkeiten
 
@@ -827,24 +803,17 @@ handelt, wer vorsätzlich oder fahrlässig
 
 6.  als Seelotse entgegen § 15 oder § 16 lotst.
 
-
-
-
-
 ## § 18 Übergangsregelungen
 
 -
-
 
 ## § 19
 
 -
 
-
 ## § 20 Inkrafttreten
 
 Diese Verordnung tritt am 1. März 2003 in Kraft.
-
 
 ## Anlage 1 (zu § 5 Abs. 3) Ort und Anmeldung für die Lotsenanforderung
 
@@ -951,10 +920,6 @@ Nr. 64, 1513
     angezeigte Lotsenanforderung beim Passieren der Tonne 80 (Pegel
     Rechtenfleth) über UKW-Sprechfunk (Kanal 21) über Bremerhaven-Weser-
     Traffic bestätigen.
-
-
-
-
 
 ## Anlage 2 (zu § 8 Abs. 1, § 9 Abs. 1 und 2 und § 10 Abs. 3)
 

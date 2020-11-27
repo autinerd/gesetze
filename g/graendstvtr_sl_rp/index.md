@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 259
 
-
-
 ## Eingangsformel
 
 Das Saarland und das Land Rheinland-Pfalz schließen aufgrund des
@@ -27,7 +25,6 @@ Gesetz vom 26. Juli 2002 (BGBl. I S. 2863), und der §§ 1, 2, 4 und 5
 des Gesetzes über das Verfahren bei sonstigen Änderungen des
 Gebietsbestandes der Länder nach Artikel 29 Abs. 7 des Grundgesetzes
 vom 30. Juli 1979 (BGBl. I S. 1325) nachstehenden Staatsvertrag:
-
 
 ## Art 1
 
@@ -45,7 +42,6 @@ Staatsvertrags grafisch dargestellt.
 
 (4) Die Anlagen 1 bis 3 sind Bestandteile dieses Staatsvertrags.
 
-
 ## Schlussformel
 
 Für das Land Rheinland-Pfalz
@@ -53,7 +49,6 @@ Der Ministerpräsident
 
 Für das Saarland
 Der Ministerpräsident
-
 
 ## Art 2
 
@@ -64,14 +59,12 @@ des öffentlichen Rechts in den abzutretenden Gebieten jeweils
 entschädigungslos auf die im aufnehmenden Land zuständige
 entsprechende Körperschaft des öffentlichen Rechts über.
 
-
 ## Art 3
 
 Für die im Zusammenhang mit der Änderung der Landesgrenze stehenden
 Amtshandlungen sowie Eintragungen der Rechtsänderungen in die
 Grundbücher und sonstigen gerichtlichen Geschäfte werden öffentliche
 Abgaben und Auslagen nicht erhoben.
-
 
 ## Art 4
 
@@ -80,7 +73,6 @@ Gemeindeverbände werden, soweit dies erforderlich ist, ihre infolge
 der Grenzänderung aufgetretenen Rechts- und Verwaltungsangelegenheiten
 durch schriftliche Vereinbarungen regeln. Die Vereinbarungen bedürfen
 der Zustimmung der zuständigen obersten Aufsichtsbehörden.
-
 
 ## Art 5
 
@@ -91,7 +83,6 @@ abzutretenden Gebieten das bisherige Landes- und Ortsrecht außer
 Kraft. Für die vor dem Inkrafttreten dieses Staatsvertrags
 entstandenen Rechte und Rechtsverhältnisse bleiben die bis dahin
 geltenden Vorschriften maßgebend.
-
 
 ## Art 6
 

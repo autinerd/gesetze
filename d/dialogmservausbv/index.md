@@ -22,7 +22,6 @@ in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die
 Berufsschule werden demnächst als Beilage zum Bundesanzeiger
 veröffentlicht.
 
-
 ## Eingangsformel
 
 Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des
@@ -32,17 +31,14 @@ des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S.
 3197) verordnet das Bundesministerium für Wirtschaft und Technologie
 im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Servicefachkraft für Dialogmarketing wird
 staatlich anerkannt.
 
-
 ## § 2 Ausbildungsdauer
 
 Die Ausbildung dauert zwei Jahre.
-
 
 ## § 3 Zielsetzung der Berufsausbildung
 
@@ -53,7 +49,6 @@ Abs. 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere
 selbstständiges Planen, Durchführen und Kontrollieren einschließt.
 Diese Befähigung ist auch in den Prüfungen nach den §§ 8 und 9
 nachzuweisen.
-
 
 ## § 4 Ausbildungsberufsbild
 
@@ -119,10 +114,6 @@ Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 7.3 Projektcontrolling.
 
-
-
-
-
 ## § 5 Ausbildungsrahmenplan
 
 Die Fertigkeiten, Kenntnisse und Fähigkeiten nach § 4 sollen nach den
@@ -133,13 +124,11 @@ sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist
 insbesondere zulässig, soweit betriebspraktische Besonderheiten die
 Abweichung erfordern.
 
-
 ## § 6 Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des
 Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan
 zu erstellen.
-
 
 ## § 7 Schriftlicher Ausbildungsnachweis
 
@@ -148,7 +137,6 @@ führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
 Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
 Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
 durchzusehen.
-
 
 ## § 8 Zwischenprüfung
 
@@ -176,10 +164,6 @@ Fälle aus folgenden Gebieten bearbeiten:
 
 
 4.  Wirtschafts- und Sozialkunde.
-
-
-
-
 
 ## § 9 Abschlussprüfung
 
@@ -330,11 +314,9 @@ Prüfungsleistungen erbracht werden. Werden die Prüfungsleistungen in
 einem Prüfungsbereich mit "ungenügend" bewertet, ist die Prüfung nicht
 bestanden.
 
-
 ## § 10 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2006 in Kraft.
-
 
 ## Anlage 1 (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zur Servicefachkraft für Dialogmarketing - Sachliche Gliederung -
 
@@ -818,13 +800,6 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
 
         f)  Rechnungswesen als Instrument kaufmännischer Steuerung und Kontrolle
             begründen
-
-
-
-
-
-
-
 
 ## Anlage 2 (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zur Servicefachkraft für Dialogmarketing - Zeitliche Gliederung -
 

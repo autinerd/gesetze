@@ -22,13 +22,11 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 V v. 6.12.2012 I 2568
 
-
 ## § 1 Urlaubsjahr
 
 Urlaubsjahr ist das Kalenderjahr. Für die bei den Nachfolgeunternehmen
 der Deutschen Bundespost beschäftigten Beamtinnen und Beamten kann die
 oberste Dienstbehörde eine abweichende Regelung treffen.
-
 
 ## § 2 Gewährleistung des Dienstbetriebes
 
@@ -39,19 +37,16 @@ gewährleistet ist; Stellvertretungskosten sind möglichst zu vermeiden.
 (2) Der Erholungsurlaub kann geteilt gewährt werden, soweit dadurch
 der Urlaubszweck nicht gefährdet wird.
 
-
 ## § 3 Wartezeit
 
 Erholungsurlaub kann erst sechs Monate nach der Einstellung in den
 öffentlichen Dienst (Wartezeit) beansprucht werden. Er kann vor Ablauf
 der Wartezeit gewährt werden, wenn besondere Gründe dies erfordern.
 
-
 ## § 4 Bemessungsgrundlage
 
 Für die Urlaubsdauer ist das Lebensjahr maßgebend, welches die Beamtin
 oder der Beamte im Urlaubsjahr erreicht.
-
 
 ## § 5 Urlaubsdauer
 
@@ -144,13 +139,11 @@ der Zahl der zustehenden Urlaubstage zurück, so ist insoweit
 Erholungsurlaub außerhalb der vorlesungs- oder unterrichtsfreien Zeit
 zu gewähren.
 
-
 ## § 6 Anrechnung früheren Urlaubs
 
 Erholungsurlaub, den die Beamtin oder der Beamte in einem anderen
 Beschäftigungsverhältnis für Zeiten erhalten hat, für die Urlaub nach
 dieser Verordnung zusteht, ist auf den Erholungsurlaub anzurechnen.
-
 
 ## § 7 Urlaubsabwicklung, Verfall des Urlaubs
 
@@ -161,7 +154,6 @@ Postnachfolgeunternehmen beschäftigten Beamtinnen und Beamten kann die
 oberste Dienstbehörde im Einvernehmen mit dem Bundesministerium der
 Finanzen und dem Bundesministerium des Innern eine von Satz 2
 abweichende Regelung treffen.
-
 
 ## § 7a Urlaubsansparung zur Kinderbetreuung
 
@@ -179,7 +171,6 @@ der Urlaubsgewährung sind dienstliche Belange zu berücksichtigen.
 
 (3) Der angesparte Erholungsurlaub ist nach Stunden zu berechnen.
 
-
 ## § 8 Widerruf und Verlegung
 
 (1) Erholungsurlaub kann ausnahmsweise widerrufen werden, wenn bei
@@ -194,7 +185,6 @@ entsprechen, wenn dies mit den Erfordernissen des Dienstes vereinbar
 ist und die Arbeitskraft der Beamtin oder des Beamten dadurch nicht
 gefährdet wird.
 
-
 ## § 9 Erkrankung
 
 (1) Werden Beamtinnen oder Beamte während ihres Urlaubs durch
@@ -207,16 +197,13 @@ nachzuweisen.
 (2) Für die Inanspruchnahme von Urlaub wegen der Erkrankung über die
 bewilligte Zeit hinaus bedarf es einer neuen Bewilligung.
 
-
 ## § 10 (weggefallen)
 
 -
 
-
 ## § 11 (weggefallen)
 
 -
-
 
 ## § 12 Zusatzurlaub für Schichtdienst
 
@@ -404,11 +391,9 @@ als 11 Stunden, so erhalten sie für je fünf Monate Schichtdienst im
 Urlaubsjahr einen Arbeitstag Zusatzurlaub; Absatz 7 ist nicht
 anzuwenden.
 
-
 ## (XXXX) §§ 13 und 14 (weggefallen)
 
 -
-
 
 ## § 15 Geltungsbereich
 
@@ -416,7 +401,6 @@ Diese Verordnung gilt auch für die Richterinnen und Richter des Bundes
 und die Beamtinnen und Beamten der nach Artikel 130 des Grundgesetzes
 der Bundesregierung unterstehenden Verwaltungsorgane und
 Einrichtungen.
-
 
 ## § 16 Auslandsverwendung
 
@@ -436,7 +420,6 @@ einen Zusatzurlaub von fünf Arbeitstagen im Jahr; bei Verteilung der
 regelmäßigen Arbeitszeit auf mehr oder weniger als fünf Arbeitstage in
 der Kalenderwoche erhöht oder vermindert sich der Zusatzurlaub
 entsprechend.
-
 
 ## § 17 Übergangsvorschriften
 

@@ -21,13 +21,11 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 Abs. 100 G v. 22.12.2011 I 3044
 
-
 ## § 1 Anwendungsbereich
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung der
 Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union
 über die Durchführung der Quotenregelung für Zucker.
-
 
 ## § 2 Zuständige Stelle
 
@@ -148,10 +146,6 @@ ist zuständig für
     Bundesanstalt im Rahmen ihrer Zuständigkeit nach Absatz 2 festgestellt
     worden sind.
 
-
-
-
-
 ## § 3 Festsetzung und Änderung der Quoten
 
 (1) Das Bundesministerium setzt die Quoten durch schriftlichen
@@ -161,7 +155,6 @@ Bescheid fest.
 Bestimmungen der in § 1 genannten Rechtsakte ändern, um Veränderungen
 in der Struktur der Zuckerindustrie und im Zuckerrübenanbau oder
 sonstigen vom Rat verfolgten Zielen Rechnung zu tragen.
-
 
 ## § 4 Zulassung der Unternehmen
 
@@ -182,10 +175,7 @@ Bundesfinanzverwaltung zu melden.
 
 (4) (weggefallen)
 
-
 ## (XXXX) §§ 5 und 6 (weggefallen)
-
-
 
 ## § 7 Mitteilungs-, Duldungs- und Mitwirkungspflichten
 
@@ -226,7 +216,6 @@ Bundesfinanzverwaltung das Betreten der Geschäfts- und
 Untersuchungsräume zu gestatten, die in Betracht kommenden Bücher,
 Aufzeichnungen und sonstigen Unterlagen vorzulegen, Auskunft zu
 erteilen sowie die erforderliche Unterstützung zu gewähren.
-
 
 ## § 8 (Inkrafttreten)
 

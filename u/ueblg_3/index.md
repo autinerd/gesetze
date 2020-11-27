@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 Nr. 15 G v. 20.12.1991 I 2317
 
-
 ## (XXXX) §§ 1 bis 15
-
-
 
 ## § 16 Bundeshilfe für das Land Berlin
 
@@ -45,10 +42,7 @@ dem Land Berlin in monatlichen Teilbeträgen zu überweisen.
 
 (4) ...
 
-
 ## (XXXX) §§ 17 bis 20
-
-
 
 ## Anlage 1 (§ 12 Abs. 2) Bundesabgabenrecht, das mit Wirkung vom 1. Januar 1952 im Land Berlin in Kraft tritt
 
@@ -127,10 +121,6 @@ dem Land Berlin in monatlichen Teilbeträgen zu überweisen.
     Kaffee) vom 19. Oktober 1951 (Bundesanzeiger Nr. 209 vom 27. Oktober
     1951)
 
-
-
-
-
 ## Anlage 2 (§ 12 Abs. 3) Abgabenrecht des Landes Berlin, das bis auf weiteres anzuwenden ist
 
 1\.
@@ -145,10 +135,6 @@ dem Land Berlin in monatlichen Teilbeträgen zu überweisen.
 
 5.  Artikel II des Gesetzes zur Änderung des Biersteuergesetzes vom 7.
     August 1950 (Verordnungsblatt für Berlin I S. 395).
-
-
-
-
 
 ## Anlage 3 (§ 13 Abs. 2) Bundesrecht, das mit dem Inkrafttreten des Dritten Überleitungsgesetzes im Land Berlin in Kraft tritt
 
@@ -280,10 +266,6 @@ dem Land Berlin in monatlichen Teilbeträgen zu überweisen.
 
 26. Gesetz zur Änderung und Ergänzung des Gesetzes über Viehzählungen vom
     2\. August 1951 (Bundesgesetzbl. I S. 481)
-
-
-
-
 
 ## Anlage 4 (§ 12 Abs. 3) Bundesabgabenrecht, das im Land Berlin für Veranlagungszeiträume und Lohnzahlungszeiträume gilt, die nach dem 31. Dezember 1952 enden*.
 

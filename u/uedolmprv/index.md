@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 1004
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August
@@ -27,7 +25,6 @@ ist, verordnet das Bundesministerium für Bildung und Forschung nach
 Anhören des Ständigen Ausschusses des Bundesinstituts für
 Berufsbildung im Einvernehmen mit dem Bundesministerium für Wirtschaft
 und Arbeit:
-
 
 ## § 1 Ziel der Prüfung
 
@@ -71,7 +68,6 @@ wiedergeben zu können.
 Abschluss Geprüfter Übersetzer/Geprüfte Übersetzerin. Die erfolgreich
 abgelegte Prüfung gemäß § 5 führt zum anerkannten Abschluss Geprüfter
 Dolmetscher/Geprüfte Dolmetscherin.
-
 
 ## § 2 Umfang der Qualifikation; Gliederung der Prüfung
 
@@ -128,7 +124,6 @@ Handlungsbereiche relevant.
 (3) Die Prüfung ist schriftlich und mündlich nach Maßgabe des § 4 und
 nur mündlich nach Maßgabe des § 5 durchzuführen.
 
-
 ## § 3 Zulassungsvoraussetzungen
 
 (1) Zur Prüfung im Qualifikationsbereich Übersetzen ist zuzulassen,
@@ -163,7 +158,6 @@ nachweist, der nicht länger als fünf Jahre zurückliegt.
 zugelassen werden, wer durch Vorlage von Zeugnissen oder auf andere
 Weise glaubhaft macht, dass Kenntnisse, Fertigkeiten und Erfahrungen
 erworben worden sind, die eine Zulassung zur Prüfung rechtfertigen.
-
 
 ## § 4 Prüfungsanforderungen Qualifikationsbereich Übersetzen
 
@@ -217,7 +211,6 @@ insgesamt nicht länger als 50 Minuten dauern.
 nach erfolgreichem Abschluss der Prüfung in den Handlungsbereichen
 "Schriftliches Übersetzen" und "Texte verfassen" durchzuführen.
 
-
 ## § 5 Prüfungsanforderungen Qualifikationsbereich Dolmetschen
 
 Im Handlungsbereich "Mündliche Wiedergabe von Rede- und Textteilen"
@@ -249,13 +242,11 @@ ist in folgenden Qualifikationsschwerpunkten zu prüfen:
 Die Prüfung im Handlungsbereich "Mündliche Wiedergabe von Rede- und
 Textteilen" soll insgesamt nicht länger als 90 Minuten dauern.
 
-
 ## § 6 Deutsch als Fremdsprache
 
 Prüfungsteilnehmer und Prüfungsteilnehmerinnen, deren Hauptsprache
 nicht Deutsch ist, sind in Deutsch als Fremdsprache zu prüfen. Die
 Vorgaben des § 4 oder des § 5 sind entsprechend anzuwenden.
-
 
 ## § 7 Anrechnung anderer Prüfungsleistungen
 
@@ -271,7 +262,6 @@ Freistellung ist nicht möglich.
 (2) Eine Freistellung von Qualifikationsschwerpunkten oder dem
 Handlungsbereich im Qualifikationsbereich Dolmetschen ist nicht
 möglich.
-
 
 ## § 8 Bestehen der Prüfungen
 
@@ -297,7 +287,6 @@ müssen die in den Qualifikationsschwerpunkten der einzelnen
 Handlungsbereiche erzielten Punktebewertungen und die Gesamtnote
 hervorgehen.
 
-
 ## § 9 Wiederholung der Prüfung
 
 (1) Jede Prüfung, die nicht bestanden ist, kann zweimal wiederholt
@@ -313,7 +302,6 @@ bestandene Prüfungsleistungen zu wiederholen. Wird eine bestandene
 Prüfungsleistung erneut geprüft, ist das letzte Ergebnis zu
 berücksichtigen.
 
-
 ## § 10 Übergangsvorschriften
 
 Vor dem 1. Juni 2004 begonnene und nicht abgeschlossene
@@ -324,11 +312,9 @@ und/oder Übersetzer, Übersetzer, Übersetzer für Handelsenglisch,
 Wirtschaftsdolmetscher, längstens jedoch bis zum 30. Juni 2006, zu
 Ende geführt.
 
-
 ## § 11 Inkrafttreten
 
 Diese Verordnung tritt am 1. Juni 2004 in Kraft.
-
 
 ## Anlage 1 (zu § 8 Abs. 4)
 
@@ -384,10 +370,6 @@ Unterschrift(en) ...................................
 
 
 3)  Die schriftlichen Leistungen wurden doppelt gewichtet.
-
-
-
-
 
 ## Anlage 2 (zu § 8 Abs. 4)
 

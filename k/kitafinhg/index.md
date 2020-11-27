@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 2403, 2407
 
-
 ## § 1 Anwendungsbereich
 
 (1) Das Bundessondervermögen „Kinderbetreuungsausbau“ gewährt den
@@ -38,7 +37,6 @@ Verwaltungsvereinbarungen im Wege der Anteilsfinanzierung nach Artikel
 104b des Grundgesetzes durch den Bund gefördert werden, können nicht
 gleichzeitig Finanzhilfen nach diesem Gesetz gewährt werden.
 
-
 ## § 2 Überprüfung der Mittelverwendung
 
 Die Verwendung der Mittel wird jährlich überprüft. Zu diesem Zweck
@@ -46,7 +44,6 @@ berichten die Länder dem Bund jeweils über die neu eingerichteten und
 gesicherten Plätze und übersenden Übersichten über die
 zweckentsprechende Inanspruchnahme und Verwendung der Bundesmittel
 sowie über Anzahl und Art der geförderten Maßnahmen.
-
 
 ## § 3 Verwaltungsvereinbarung
 

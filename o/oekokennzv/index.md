@@ -25,13 +25,11 @@ Vorschriften (ABl. EG Nr. L 204 S. 37), geändert durch die Richtlinie
 98/48/EG des Europäischen Parlaments und des Rates vom 20. Juli 1998
 (ABl. EG Nr. L 217 S. 18), sind beachtet worden.
 
-
 ## Eingangsformel
 
 Auf Grund des § 2 Abs. 1 des Öko-Kennzeichengesetzes vom 10. Dezember
 2001 (BGBl. I S. 3441) verordnet das Bundesministerium für
 Verbraucherschutz, Ernährung und Landwirtschaft:
-
 
 ## § 1 Gestaltung des Öko-Kennzeichens
 
@@ -92,7 +90,6 @@ biologischen Landwirtschaft hindeuten, ist zulässig.
 Änderungen des Öko-Kennzeichens sind vorbehaltlich der Absätze 1 bis 5
 verboten.
 
-
 ## § 2 Verwendung des Öko-Kennzeichens
 
 (1) Das Öko-Kennzeichen ist
@@ -130,7 +127,6 @@ der sonstigen Unterrichtung des Verbrauchers ist zulässig, soweit
 
 angepriesen wird.
 
-
 ## § 3 Anzeigepflicht
 
 (1) Wer für Erzeugnisse nach § 1 Abs. 1 des Öko-Kennzeichengesetzes
@@ -144,7 +140,6 @@ Patent- und Markenamt unter der Registernummer 301 41 473 eingetragene
 Öko-Kennzeichen verwendet hat, hat die Anzeige nach Absatz 1 bis zum
 1\. Juni 2002 zu erstatten.
 
-
 ## § 4 Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 4 Abs. 2 des Öko-Kennzeichengesetzes
@@ -152,16 +147,13 @@ handelt, wer vorsätzlich oder fahrlässig entgegen § 3 Abs. 1 Satz 1
 oder Abs. 2 eine Anzeige nicht, nicht richtig oder nicht rechtzeitig
 erstattet.
 
-
 ## § 5 Inkrafttreten
 
 Die Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage 1 (zu § 1 Abs. 1) Öko-Kennzeichen Muster
 
@@ -204,10 +196,6 @@ b)  Das Öko-Kennzeichen ist in der Version mit Verlauf zu verwenden
     Bei einfarbiger Verwendung des Kennzeichens im Sinne von § 1 Abs. 4
     ist die Strich-Version des Öko-Kennzeichens zulässig (Schwarz-Anteil
     bei Strich: black = 100% bzw. in der entsprechenden Farbe eingefärbt).
-
-
-
-
 
 ## Anlage 2 (zu § 3 Abs. 1) Formblattmuster für die Anzeige VERPFLICHTENDE ANGABEN!
 

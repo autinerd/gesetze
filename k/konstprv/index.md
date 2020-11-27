@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1994, 1151
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August
@@ -30,7 +28,6 @@ geändert worden ist, verordnet das Bundesministerium für Bildung und
 Wissenschaft nach Anhörung des Ständigen Ausschusses des
 Bundesinstituts für Berufsbildung im Einvernehmen mit dem
 Bundesministerium für Wirtschaft:
-
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
 
@@ -67,7 +64,6 @@ Geprüfter Konstrukteur/Geprüfte Konstrukteurin in den Fachrichtungen
 Maschinen- und Anlagentechnik, Heizungs-, Klima- und Sanitärtechnik,
 Stahl- und Metallbautechnik, Elektrotechnik oder Holztechnik.
 
-
 ## § 2 Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer
@@ -93,7 +89,6 @@ wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft
 macht, daß er Kenntnisse, Fertigkeiten und Erfahrungen erworben hat,
 die die Zulassung zur Prüfung rechtfertigen.
 
-
 ## § 3 Gliederung und Inhalt der Prüfung
 
 (1) Die Prüfung gliedert sich in
@@ -115,7 +110,6 @@ Konstruktionsaufgabe und danach in einem Fachgespräch durchgeführt.
 Prüfungsterminen geprüft werden; dabei ist mit dem letzten
 Prüfungsteil spätestens zwei Jahre nach dem ersten Prüfungstag des
 ersten Prüfungsteils zu beginnen.
-
 
 ## § 4 Fachrichtungsübergreifender Teil
 
@@ -430,7 +424,6 @@ Beurteilung der Prüfungsleistung von wesentlicher Bedeutung ist. Die
 Ergänzungsprüfung soll je Prüfungsfach und Prüfungsteilnehmer nicht
 länger als 15 Minuten dauern und insgesamt nicht länger als 30
 Minuten.
-
 
 ## § 5 Fachrichtungsspezifischer Teil
 
@@ -1964,7 +1957,6 @@ Fachrichtung sind Grundlage eines Fachgespräches des
 Prüfungsteilnehmers mit dem Prüfungsausschuß (§ 3 Abs. 2 Satz 2). Das
 Fachgespräch soll nicht länger als 60 Minuten dauern.
 
-
 ## § 6 Anrechnung anderer Prüfungsfächer
 
 Von der Ablegung der Prüfung in einem Prüfungsfach oder in mehreren
@@ -1975,7 +1967,6 @@ Bildungseinrichtung oder vor einem staatlichen Prüfungsausschuß in den
 letzten fünf Jahren vor Antragstellung eine Prüfung bestanden hat,
 deren Inhalt den Anforderungen des jeweiligen Prüfungsfaches
 entspricht. Eine vollständige Freistellung ist nicht zulässig.
-
 
 ## § 7 Bestehen der Prüfung
 
@@ -2003,7 +1994,6 @@ beizufügen. Im Fall der Freistellung gemäß § 6 sind Ort und Datum
 sowie Bezeichnung des Prüfungsgremiums der anderweitig abgelegten
 Prüfung anzugeben.
 
-
 ## § 8 Wiederholung der Prüfung
 
 (1) Eine Prüfung, die nicht bestanden ist, kann zweimal wiederholt
@@ -2016,11 +2006,9 @@ ausgereicht haben und er sich innerhalb von zwei Jahren, gerechnet vom
 Tage der Beendigung der nicht bestandenen Prüfung an, zur
 Wiederholungsprüfung anmeldet.
 
-
 ## § 9 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Anlage (zu § 7 Abs. 3) Muster
 

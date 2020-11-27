@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 2465
 
-
 ## § 1
 
 Der Wirtschaftsplan des ERP-Sondervermögens für das Jahr 2012, der
@@ -32,13 +31,11 @@ worden ist, wird in Einnahmen und Ausgaben auf
 
    festgestellt.
 
-
 ## § 2
 
 Das Bundesministerium für Wirtschaft und Technologie wird ermächtigt,
 Kredite bei der Kreditanstalt für Wiederaufbau bis zur Höhe von 30
 Prozent des in § 1 festgestellten Betrages aufzunehmen.
-
 
 ## § 3
 
@@ -47,7 +44,6 @@ und unabweisbaren Bedürfnisses eine Mehrausgabe erforderlich (Artikel
 112 des Grundgesetzes), so bedarf es keines Nachtragswirtschaftsplans,
 wenn die Mehrausgabe im Einzelfall einen Betrag von 5 000 000 Euro
 nicht überschreitet oder wenn Rechtsverpflichtungen zu erfüllen sind.
-
 
 ## § 4
 
@@ -77,24 +73,20 @@ Haftung frei wird oder Ersatz für erbrachte Leistungen erlangt hat,
 ist eine übernommene Gewährleistung auf den Höchstbetrag nicht mehr
 anzurechnen.
 
-
 ## § 5
 
 Die in Kapitel 1 Titel 681 02 und 681 03 veranschlagten Beträge und
 Verpflichtungsermächtigungen sind von der Begrenzung der in § 2 des
 ERP-Verwaltungsgesetzes festgelegten Zweckbestimmung ausgenommen.
 
-
 ## § 6
 
 Die §§ 2 bis 5 gelten bis zum Tag der Verkündung des ERP-
 Wirtschaftsplangesetzes 2013.
 
-
 ## § 7
 
 Dieses Gesetz tritt am 1. Januar 2012 in Kraft.
-
 
 ## (XXXX) Wirtschaftsplan nach § 8 des ERP-Verwaltungsgesetzes vom 26. Juni 2007
 
@@ -132,8 +124,6 @@ Dieses Gesetz tritt am 1. Januar 2012 in Kraft.
     *   Bericht der KfW gemäß § 8 des ERP-Verwaltungsgesetzes über die
         Verwendung des eingebrachten Eigenkapitals und des gewährten
         Nachrangdarlehens
-
-
 
 ## Kap. 1
 
@@ -699,9 +689,6 @@ auf 130 Mio. €, davon fällig:
 
     *   87,1 Mio. €
 
-
-
-
 ## Zu Tit. 683 01
 
 Der Titelansatz enthält die Zahlungsverpflichtungen aus den im Zuge
@@ -732,9 +719,6 @@ auf 1 054,2 Mio. €, davon fällig:
 *    *   in künftigen Haushaltsjahren
 
     *   498,0 Mio. €
-
-
-
 
 ## Zu Tit. 682 02
 
@@ -777,9 +761,6 @@ auf 497 Mio. €, davon fällig:
 *    *   in künftigen Haushaltsjahren
 
     *   200 Mio. €
-
-
-
 
 ## Zu Tit. 681 02
 
@@ -1557,9 +1538,6 @@ Veranschlagt sind Tilgungen von ERP-Darlehen:
 
     *   30 077 T€
 
-
-
-
 ## Zu Tit. 129 01
 
 Die Einnahmen dienen der Deckung der Ausgaben in Kapitel 1. Dieser
@@ -2063,8 +2041,6 @@ beschafft werden.
 
     *   974,700
 
-
-
 ## Anlage 2
 
 ## **Nachweisung des ERP-Sondervermögens**
@@ -2334,8 +2310,6 @@ beschafft werden.
     *   1 035 000 000
 
     *   616 000 000
-
-
 
 ## Anlage 3
 

@@ -26,7 +26,6 @@ des Europäischen Parlaments und des Rates vom 14. Juni 2006 über die
 angemessene Eigenkapitalausstattung von Wertpapierfirmen und
 Kreditinstituten (Neufassung) (ABl. EU Nr. L 177 S. 201).
 
-
 ## Eingangsformel
 
 Die Bundesanstalt für Finanzdienstleistungsaufsicht verordnet
@@ -52,7 +51,6 @@ Befugnissen zum Erlass von Rechtsverordnungen auf die Bundesanstalt
 für Finanzdienstleistungsaufsicht vom 13. Dezember 2002 (BGBl. 2003 I
 S. 3), der zuletzt durch die Verordnung vom 17. November 2005 (BGBl. I
 S. 3187) geändert worden ist:
-
 
 ## § 1 Einreichungsverfahren
 
@@ -87,11 +85,9 @@ der Stellungnahme der Prüfungsstelle, unverzüglich weiterzuleiten. Die
 Bundesanstalt kann auf die gesonderte Stellungnahme der Prüfungsstelle
 verzichten.
 
-
 ## § 2 (weggefallen)
 
 -
-
 
 ## § 3 Anzeigen nach § 10 Abs. 4a Satz 4 und Abs. 4b Satz 4 des Kreditwesengesetzes in Verbindung mit § 77 Abs. 2 und 3 des Investmentgesetzes (nicht realisierte Reserven, Sachverständigenausschuss)
 
@@ -133,10 +129,6 @@ Unterlagen beizufügen:
     oder einem mit diesem verbundenen Unternehmen hält und welchen Wert
     diese Kapitalanteile haben.
 
-
-
-
-
 ## § 4 Anzeigen nach § 10 Abs. 8 Satz 1 und 3 des Kreditwesengesetzes (Abzugskredite)
 
 Anzeigen nach § 10 Abs. 8 Satz 1 und 3 des Kreditwesengesetzes müssen
@@ -150,7 +142,6 @@ Abs. 8 Satz 3 des Kreditwesengesetzes anzuzeigen, wenn sich die
 rechtsgeschäftliche Änderung der Kreditbedingungen auf eine Anpassung
 des Zinssatzes entsprechend der Entwicklung des Marktzinses
 beschränkt.
-
 
 ## § 5 Anzeigen nach § 24 Abs. 1 Nr. 1 des Kreditwesengesetzes (Personelle Veränderungen)
 
@@ -200,7 +191,6 @@ Vortätigkeiten belegen, vorzulegen.
 Geschäftsleiter-Vertreters, der im Fall der Verhinderung eines
 Geschäftsleiters dessen Funktion ausüben soll.
 
-
 ## § 6 Anzeigen nach § 24 Abs. 1 Nr. 6 des Kreditwesengesetzes (Zweigstelle und grenzüberschreitender Dienstleistungsverkehr ohne Errichtung einer Zweigstelle im Drittstaat)
 
 Die Anzeige nach § 24 Abs. 1 Nr. 6 des Kreditwesengesetzes muss
@@ -224,7 +214,6 @@ enthalten:
 Mehrere zeitgleich einzureichende Anzeigen nach Satz 1 können in einer
 Anzeige zusammengefasst werden, solange deren Übersichtlichkeit
 erhalten bleibt.
-
 
 ## § 7 Anzeigen von Instituten nach § 12a Absatz 1 Satz 3, § 24 Absatz 1 Nummer 12 und 13, § 24 Absatz 1a Nummer 1 und 2 sowie § 31 Absatz 3 Satz 2 des Kreditwesengesetzes (qualifizierte Beteiligungen, aktivische enge Verbindungen, Beteiligungen an oder Unternehmensbeziehungen mit Unternehmen mit Sitz im Ausland, Befreiungen)
 
@@ -312,7 +301,6 @@ gilt § 1.
 
 (7) (weggefallen)
 
-
 ## § 8 Anzeigen nach § 24 Abs. 1 Nr. 10 und 12 und § 24 Abs. 1a Nr. 1 und 3 des Kreditwesengesetzes (bedeutende Beteiligungen und passivische enge Verbindungen)
 
 (1) Einzelanzeigen über passivische Beteiligungsverhältnisse nach § 24
@@ -353,7 +341,6 @@ die Unternehmensbeziehung des Instituts zum Schwesterunternehmen eine
 komplexe Beteiligungsstruktur im Sinne des § 7 Abs. 4 Satz 3
 darstellt.
 
-
 ## § 9 Sammelanzeigen nach § 24 Abs. 1a Nr. 4 des Kreditwesengesetzes (Anzahl inländischer Zweigstellen)
 
 (1) Die Anzeige der Anzahl inländischer Zweigstellen nach § 24 Abs. 1a
@@ -377,10 +364,6 @@ zu berücksichtigen sind Zweigstellen, die
 3.  ausschließlich dem Betreiben von Geschäften dienen, die keine
     Bankgeschäfte oder Finanzdienstleistungen sind.
 
-
-
-
-
 ## § 10 Anzeigen nach § 24 Abs. 2 des Kreditwesengesetzes (Vereinigung von Instituten)
 
 Die Absicht von Instituten, sich zu vereinigen, ist von den
@@ -390,7 +373,6 @@ ist, dass die Vereinigung zustande kommen wird. Das Scheitern der
 Fusionsverhandlungen ist unverzüglich mitzuteilen. Gleiches gilt bei
 erfolgreichen Fusionsverhandlungen für den rechtlichen Vollzug der
 Vereinigung.
-
 
 ## § 11 Anzeigen nach § 24 Abs. 3 Satz 1 des Kreditwesengesetzes (Geschäftsleiter)
 
@@ -408,7 +390,6 @@ Anlage 7 dieser Verordnung einzureichen. Eine Änderungsanzeige ist nur
 abzugeben, wenn die Beteiligung 30 Prozent oder 50 Prozent des
 Kapitals des Unternehmens erreicht, über- oder unterschreitet. § 7
 Abs. 5 und 6 gilt entsprechend.
-
 
 ## § 12 Anzeigen nach § 24a Abs. 1, 3 und 4 des Kreditwesengesetzes (Errichtung einer Zweigniederlassung und Erbringung grenzüberschreitenden Dienstleistungsverkehrs in einem anderen Staat des Europäischen Wirtschaftsraums)
 
@@ -479,12 +460,10 @@ Satz 1 gilt für die nach § 24a Abs. 4 des Kreditwesengesetzes
 anzuzeigenden Änderungen der Verhältnisse bestehender
 Zweigniederlassungen entsprechend.
 
-
 ## § 13 Vorlage von Unterlagen nach § 26 des Kreditwesengesetzes (Jahresabschlüsse, Lage- und Prüfungsberichte)
 
 Bei der Einreichung des festgestellten Jahresabschlusses ist der Tag
 der Feststellung anzugeben.
-
 
 ## § 14 Anzeigen und Vorlage von Unterlagen nach § 32 Abs. 1 des Kreditwesengesetzes (Anträge auf Erlaubnis)
 
@@ -556,7 +535,6 @@ enthalten:
 und Unterlagen vorzulegen, soweit dies für die Beurteilung
 erforderlich ist, dass keine Gründe für die Versagung der beantragten
 Erlaubnis bestehen.
-
 
 ## § 15 Anzeigen nach § 53a Satz 2 und 5 des Kreditwesengesetzes (Repräsentanzen von Instituten mit Sitz im Ausland)
 
@@ -657,7 +635,6 @@ ist auch bei Änderungen, die sich während des Bestehens der
 Repräsentanz gegenüber den Angaben in der Errichtungsanzeige nach §
 53a Satz 2 des Kreditwesengesetzes ergeben, einzureichen.
 
-
 ## § 16 Anzeigen von Finanzholding-Gesellschaften und gemischten Finanzholding- Gesellschaften nach § 12a Abs. 1 Satz 3, auch in Verbindung mit Abs. 3, sowie nach § 24 Abs. 3a des Kreditwesengesetzes (Anzeigepflichten für Finanzholding-Gesellschaften, gemischte Finanzholding-Gesellschaften)
 
 (1) Einzelanzeigen der Finanzholding-Gesellschaft oder der gemischten
@@ -678,29 +655,24 @@ einer Person, die die Geschäfte der Finanzholding-Gesellschaft oder
 der gemischten Finanzholding-Gesellschaft tatsächlich führen soll,
 gilt § 5 entsprechend.
 
-
 ## § 16a Übergangsvorschrift
 
 § 2 dieser Verordnung in der bis zum 24. März 2009 geltenden Fassung
 ist auf Anzeigen nach § 2c des Kreditwesengesetzes in der bis zum 17.
 März 2009 geltenden Fassung weiterhin anzuwenden.
 
-
 ## § 17 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 31. Dezember 2006 in Kraft.
-
 
 ## Anlage 1 (weggefallen)
 
 -
 
-
 ## Anlage 2 (zu § 3 Abs. 1) Anzeige nach § 10 Abs. 4a Satz 4 KWG (Nicht realisierte Reserven)
 
 (Inhalt: nicht darstellbares Muster einer Anzeige,
 Fundstelle: BGBl. I 2006, 3256)
-
 
 ## Anlage 3 (zu § 7 Abs. 1 und 2 sowie § 16 Abs. 1) Aktivische Beteiligungsanzeige
 
@@ -708,12 +680,10 @@ Fundstelle: BGBl. I 2006, 3256)
 Fundstelle: BGBl. I 2006, 3257 - 3259;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-
 ## Anlage 4 (zu § 7 Abs. 4, § 8 Abs. 3 und § 16 Abs. 1) Anlage für komplexe Beteiligungsstrukturen
 
 (Inhalt: nicht darstellbares Muster einer Anlage,
 Fundstelle: BGBl. I 2006, 3260)
-
 
 ## Anlage 5 (zu § 8 Abs. 1 und 2) Passivische Beteiligungsanzeige
 
@@ -721,12 +691,10 @@ Fundstelle: BGBl. I 2006, 3260)
 Fundstelle: BGBl. I 2006, 3261 - 3263;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-
 ## Anlage 6 (zu § 11 Abs. 1) Nebentätigkeiten von Geschäftsleitern und Personen, die die Geschäfte einer Finanzholding-Gesellschaft oder einer gemischten Finanzholding-Gesellschaft tatsächlich führen (Anzeige nach § 24 Abs. 3 Satz 1 Nr. 1 KWG)
 
 (Inhalt: nicht darstellbares Muster einer Anzeige,
 Fundstelle: BGBl. I 2006, 3264)
-
 
 ## Anlage 7 (zu § 11 Abs. 2) Beteiligungen von Geschäftsleitern und Personen, die die Geschäfte einer Finanzholding-Gesellschaft oder einer gemischten Finanzholding-Gesellschaft tatsächlich führen (Anzeige nach § 24 Abs. 3 Satz 1 Nr. 2 KWG)
 

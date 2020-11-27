@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1972, 607
 
-
-
 ## (XXXX)
 
 (1) Auf Grund des Gesetzes über die Ausprägung einer Olympiamünze vom
@@ -67,11 +65,9 @@ und mit Ornamenten zwischen den Worten versehen.
 
 (8) Dies wird namens der Bundesregierung bekanntgegeben.
 
-
 ## Schlußformel
 
 Der Bundesminister für Wirtschaft und Finanzen
-
 
 ## (XXXX) Abbildung der Münze
 

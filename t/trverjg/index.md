@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1993, 944, 986
 
-
-
 ## (XXXX)
 
 (1) Ansprüche wegen unberechtigter oder rechtswidriger Erlangung von

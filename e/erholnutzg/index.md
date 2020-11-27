@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1994, 2538, 2548
 
-
-
 ## § 1 Anwendungsbereich
 
 Ist für die Errichtung eines Wochenendhauses oder eines anderen
@@ -30,14 +28,12 @@ Sachenrechtsbereinigungsgesetzes nicht in Betracht, können
 Grundstückseigentümer und Nutzer Ansprüche auf Bestellung eines
 Erbbaurechts nach Maßgabe dieses Gesetzes geltend machen.
 
-
 ## § 2 Anspruch auf Bestellung eines Erbbaurechts
 
 Grundstückseigentümer und Nutzer können von dem jeweils anderen Teil
 die Annahme eines Angebots auf Bestellung eines Erbbaurechts
 verlangen, wenn der Inhalt des Angebots den Bestimmungen der §§ 3 bis
 8 entspricht.
-
 
 ## § 3 Erbbauzins
 
@@ -67,14 +63,12 @@ Zahlungspflicht beginnt mit
 § 44 Abs. 2 Satz 2 und 3 des Sachenrechtsbereinigungsgesetzes ist
 entsprechend anzuwenden.
 
-
 ## § 4 Zinsanpassungen
 
 Nutzer und Grundstückseigentümer sind verpflichtet, in den
 Erbbaurechtsvertrag eine Bestimmung aufzunehmen, die eine Anpassung
 des Erbbauzinses an veränderte Verhältnisse vorsieht. § 46 des
 Sachenrechtsbereinigungsgesetzes ist entsprechend anzuwenden.
-
 
 ## § 5 Ermäßigung des Erbbauzinses
 
@@ -94,11 +88,9 @@ des sich aus § 3 Abs. 1 ergebenden Erbbauzinses (Eingangsphase). Die
 Eingangsphase beginnt mit dem Eintritt der Zahlungspflicht nach diesem
 Gesetz, spätestens am 1. Juli 1995.
 
-
 ## § 6 Dauer des Erbbaurechts
 
 Die Dauer des Erbbaurechts beträgt vom Vertragsabschluß an 30 Jahre.
-
 
 ## § 7 Zulässige Nutzung, Heimfallanspruch
 
@@ -114,7 +106,6 @@ daß sich dieser ihm gegenüber verpflichtet, das Erbbaurecht auf ihn zu
 übertragen, wenn der Erbbauberechtigte die vertraglich zulässige
 Nutzung ändert und sie trotz einer mit Fristsetzung verbundenen
 Abmahnung fortsetzt.
-
 
 ## § 8 Anwendbarkeit des Sachenrechtsbereinigungsgesetzes
 

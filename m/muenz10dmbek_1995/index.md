@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1995, 479
 
-
-
 ## (XXXX)
 
 Auf Grund des § 6 des Gesetzes über die Ausprägung von Scheidemünzen
@@ -80,7 +78,6 @@ Raute.
 Der Entwurf der Münze stammt von Reinhart Heinsdorff, Friedberg.
 
 Der Bundesminister der Finanzen
-
 
 ## (XXXX)
 

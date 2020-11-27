@@ -15,15 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1994, 849
 
-
-
 ## I.
 
 Auf Grund des § 4 Abs. 2 Nr. 3 des Warenzeichengesetzes in der Fassung
 der Bekanntmachung vom 2. Januar 1968 (BGBl. I S. 1, 29) werden
 amtliche Prüf- und Gewährzeichen bekanntgemacht, die in der
 Tschechischen Republik eingeführt sind (Anlage 1).
-
 
 ## II.
 
@@ -44,29 +41,24 @@ bekanntgemacht, daß
 
 von der Eintragung als Warenzeichen ausgeschlossen sind.
 
-
 ## III.
 
 Diese Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom 25.
 Juni 1993 (BGBl. I S. 1155).
 
-
 ## Schlußformel
 
 Bundesministerium der Justiz
-
 
 ## Anlage 1 Amtliche Feingehalts-Zeichen für Gold-, Silber- und Platinartikel der Tschechischen Republik
 
 (Inhalt: Nicht darstellbare Abbildungen von Zeichen,
 Fundstelle: BGBl. I 1994, 850)
 
-
 ## Anlage 2 Neues Kennzeichen der Fernmeldesatellitenorganisation "INTELSAT"
 
 (Inhalt: Nicht darstellbare Abbildung eines Kennzeichens,
 Fundstelle: BGBl. I 1994, S. 851)
-
 
 ## Anlage 3 Flagge der Internationalen Zivilluftfahrt-Organisation
 

@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 6a G v. 21. 7.2004 I 1742
 
-
 ## Abschnitt I - Allgemeine Bestimmungen
-
-
 
 ### § 1 Personenkreis
 
@@ -45,7 +42,6 @@ eines vergleichbaren Verfahrens aufgenommen wurden.
 Bundesvertriebenengesetzes und § 230a des Lastenausgleichsgesetzes
 sind entsprechend anzuwenden.
 
-
 ### § 2 Ausschließungsgründe
 
 Liegen Voraussetzungen im Sinne des § 301 Abs. 2 Satz 2 oder des § 359
@@ -56,19 +52,13 @@ Ausnutzung der dort bestehenden Verhältnisse erworben worden sind, ist
 § 359 Abs. 3 Nr. 3 des Lastenausgleichsgesetzes entsprechend
 anzuwenden.
 
-
 ## Abschnitt II - Einrichtungshilfe
-
-
 
 ### (XXXX) §§ 3 bis 9 (weggefallen)
 
 -
 
-
 ## Abschnitt III - Laufende Beihilfe (Beihilfe zum Lebensunterhalt, besondere laufende Beihilfe)
-
-
 
 ### § 10 Allgemeine Bestimmungen
 
@@ -162,7 +152,6 @@ nach diesem Gesetz, dem Lastenausgleichsgesetz und dem
 Reparationsschädengesetz findet § 261 Abs. 4 des
 Lastenausgleichsgesetzes Anwendung.
 
-
 ### § 11 Lebensalter und Erwerbsunfähigkeit, Antragsfrist
 
 (1) Wegen vorgeschrittenen Lebensalters wird laufende Beihilfe nur
@@ -197,7 +186,6 @@ werden kann, gelten § 264 Abs. 2 und § 265 Abs. 4 des
 Lastenausgleichsgesetzes entsprechend mit der Maßgabe, daß die
 Antragsfrist nicht vor dem 31. Dezember 1972 endet.
 
-
 ### § 12 Einkommenshöchstbetrag und Höhe der laufenden Beihilfe
 
 Für den Einkommenshöchstbetrag und die Höhe der Beihilfe zum
@@ -210,7 +198,6 @@ Endgrundbetrags der Hauptentschädigung von dem Grundbetrag auszugehen,
 der aus dem Vermögensschaden im Sinne des § 10 Abs. 1 Nr. 3 Satz 1 in
 entsprechender Anwendung der Rechtsverordnung nach § 301a Abs. 3 des
 Lastenausgleichsgesetzes errechnet wird.
-
 
 ### § 13 Gewährung von laufender Beihilfe
 
@@ -229,7 +216,6 @@ auch, solange sich der Berechtigte nicht ständig im Geltungsbereich
 des Grundgesetzes aufhält. § 287 Abs. 3 und 4 des
 Lastenausgleichsgesetzes gilt entsprechend.
 
-
 ### § 14 Laufende Beihilfe nach Tod des Berechtigten
 
 Nach dem Tode des nach § 10 Berechtigten wird laufende Beihilfe
@@ -239,7 +225,6 @@ entsprechend § 272 Abs. 2 und 3, besondere laufende Beihilfe
 entsprechend § 285 Abs. 2 und 3 des Lastenausgleichsgesetzes
 weitergewährt.
 
-
 ### § 15 Zusätzliche Leistungen zur Beihilfe zum Lebensunterhalt
 
 Zur Beihilfe zum Lebensunterhalt werden Leistungen in entsprechender
@@ -247,37 +232,26 @@ Anwendung der §§ 276 und 277 des Lastenausgleichsgesetzes gewährt. Bei
 Bezug einer besonderen laufenden Beihilfe gilt § 276 Abs. 3a des
 Lastenausgleichsgesetzes entsprechend.
 
-
 ### § 16 Wirkung von Veränderungen, Meldepflicht, Erstattungspflicht, Verhältnis zu Aufbaudarlehen und zur Sozialhilfe
 
 Die §§ 288 bis 292 des Lastenausgleichsgesetzes gelten entsprechend.
-
 
 ### § 16a Laufende Beihilfe nach dem 31. Dezember 2005
 
 Für Zeiträume nach dem 31. Dezember 2005 gelten die §§ 292a bis 292c
 des Lastenausgleichsgesetzes entsprechend.
 
-
 ## Abschnitt IV - Eingliederungsdarlehen
-
-
 
 ### (XXXX) §§ 17 bis 20a (weggefallen)
 
-
 ## Abschnitt V - Anwendung anderer Gesetze
 
-
-
 ## Abschnitt VI - Sonstige Bestimmungen
-
-
 
 ### § 21 Aufbringung der Mittel
 
 Die Aufwendungen für die Leistungen nach Abschnitt III trägt der Bund.
-
 
 ### § 22 Durchführung
 
@@ -285,13 +259,11 @@ Für die Durchführung des Gesetzes gelten die Vorschriften des
 Dreizehnten Abschnitts des Dritten Teils des Lastenausgleichsgesetzes
 entsprechend.
 
-
 ### § 22a Übergangsvorschriften
 
 Ansprüche nach § 20 Abs. 2 des Flüchtlingshilfegesetzes, die den
 Berechtigten vor dem 31. Juli 1992 zustehen, können noch bis zum 31.
 Juli 1995 geltend gemacht werden.
-
 
 ### § 23 Ermächtigung
 
@@ -312,7 +284,6 @@ der zu § 301 des Lastenausgleichsgesetzes ergangenen Rechtsverordnung
 festgelegt werden. Die sonstigen Voraussetzungen des Gesetzes müssen
 erfüllt sein.
 
-
 ### § 24 Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
@@ -320,7 +291,6 @@ Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes
 erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 Überleitungsgesetzes.
-
 
 ### § 25 Inkrafttreten
 

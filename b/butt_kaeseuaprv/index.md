@@ -18,7 +18,6 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 3.6.2011 I 1020
 
-
 ## § 1 Begriffsbestimmungen
 
 (1) Im Sinne dieser Verordnung sind
@@ -52,10 +51,6 @@ Neugefasst durch
     eigene Niederlassungen oder Filialen oder an Wiederverkäufer,
     Verarbeiter, Verpacker, gewerbliche Verwender oder Großverbraucher
     liefern, ohne Hersteller oder Absatzzentrale zu sein.
-
-
-
-
 
 ## § 2 Bildung von Notierungskommissionen
 
@@ -94,7 +89,6 @@ Behörden der Länder herbei, die an der Vereinbarung nach den Absätzen
 (4) Die beteiligten Länder regeln die Finanzierung im Rahmen der
 Vereinbarung nach den Absätzen 2 und 2a.
 
-
 ## § 3 Zusammensetzung der Notierungskommissionen
 
 (1) Jede Notierungskommission besteht aus einem Vorsitzenden und
@@ -128,7 +122,6 @@ Verschwiegenheit besonders zu verpflichten. Die den §§ 84 bis 86 des
 Verwaltungsverfahrensgesetzes entsprechenden landesrechtlichen
 Vorschriften sind anzuwenden.
 
-
 ## § 4 Sitzungen, Beschlüsse und Niederschriften
 
 (1) Jede Notierungskommission notiert die Preise nach einer
@@ -161,7 +154,6 @@ Unterstützung eines eingebrachten Antrages.
 (5) Über jede Sitzung ist eine Niederschrift anzufertigen, die
 mindestens die Namen der anwesenden Personen und die Beschlüsse mit
 dem jeweiligen Abstimmungsverhältnis enthält.
-
 
 ## § 5 Inhalt und Veröffentlichung der Notierung
 
@@ -208,7 +200,6 @@ Milcherzeugnis fest
 (4) Eine Notierung wird vorgenommen, wenn mindestens drei Meldungen
 über eine Gesamtmenge von mindestens 10 t je Erzeugnis vorliegen.
 
-
 ## § 6 Repräsentative Preisermittlung
 
 (1) Die Notierungseinrichtungen haben für die in Anlage II genannten,
@@ -235,7 +226,6 @@ Notierungseinrichtung für ... in ..." zu veröffentlichen und der
 Bundesanstalt für Landwirtschaft und Ernährung mit den zugrunde
 liegenden Mengen mitzuteilen.
 
-
 ## § 6a Repräsentative Preiserhebung
 
 (1) Die Notierungseinrichtungen erheben auf der Grundlage
@@ -252,14 +242,12 @@ entsprechend.
 und umgehend der Bundesanstalt für Landwirtschaft und Ernährung mit
 den zugrunde liegenden Mengen mitzuteilen.
 
-
 ## § 7 Preisermittlung für das Bundesgebiet
 
 Die Bundesanstalt für Landwirtschaft und Ernährung ermittelt auf der
 Grundlage der ihr nach § 5 Abs. 1 von den Notierungskommissionen und
 nach § 6 Absatz 4 und § 6a Absatz 2 von den Notierungseinrichtungen
 mitgeteilten Angaben die Preise für das gesamte Bundesgebiet.
-
 
 ## § 8 Verschwiegenheit
 
@@ -272,7 +260,6 @@ sind sie nach dem Verpflichtungsgesetz vom 2. März 1974 (BGBl. I S.
 469, 547) auf die gewissenhafte Erfüllung ihrer Obliegenheiten zu
 verpflichten.
 
-
 ## § 9 Aufzeichnungs- und Aufbewahrungspflichten
 
 Meldende Unternehmen haben die für die Meldungen nach § 5
@@ -280,10 +267,7 @@ erforderlichen Aufzeichnungen laufend zu machen und drei Jahre
 aufzubewahren. Längere Aufbewahrungsfristen nach anderen Vorschriften
 bleiben unberührt.
 
-
 ## § 10 (Inkrafttreten, Außerkrafttreten)
-
-
 
 ## Anlage I (zu § 4 Absatz 1 Satz 2) Liste für amtliche Preisnotierungen regionaler Notierungskommissionen
 
@@ -310,13 +294,6 @@ bleiben unberührt.
 
     –   Emmentaler 45 % Fett i. Tr.
 
-
-
-
-
-
-
-
 ## Anlage II (zu § 6 Absatz 1 Satz 1) Liste für repräsentative Preisermittlung der ZMP
 
 (Fundstelle: BGBl. I 2011, 1024)
@@ -328,10 +305,6 @@ bleiben unberührt.
 
 
 3.  Molkenpulver
-
-
-
-
 
 ## Anlage III (zu § 6a Absatz 1 Satz 1)
 

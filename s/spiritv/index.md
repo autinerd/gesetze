@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 V v. 24.3.2011 I 519
 
-
 ## Erster Abschnitt - Spirituosen
-
-
 
 ### § 1 Weinbrand oder Brandy
 
@@ -69,7 +66,6 @@ verwendet werden.
 (3) Weinbrand oder Brandy, bei dem andere als nach Absatz 1 Nr. 1 in
 Verbindung mit Absatz 2 zulässige Stoffe verwendet worden sind, darf
 gewerbsmäßig nicht in den Verkehr gebracht werden.
-
 
 ### § 2 Deutscher Weinbrand
 
@@ -129,10 +125,6 @@ gewerbsmäßig nur in den Verkehr gebracht werden, wenn
     Prüfungsnummer versehen ist, die von der jeweils nach Landesrecht
     zuständigen Stelle (zuständige Stelle) vergeben wird.
 
-
-
-
-
 ### § 3 Hinweise auf das Alter
 
 Es ist verboten, Weinbrand oder Brandy mit Hinweisen auf das Alter in
@@ -140,7 +132,6 @@ den Verkehr zu bringen oder bei diesem Erzeugnis mit solchen Hinweisen
 zu werben, wenn das Erzeugnis oder das zu seiner Herstellung
 verwendete Destillat weniger als zwölf Monate in Eichenholzfässern
 gereift ist. Satz 1 gilt entsprechend für Deutschen Weinbrand.
-
 
 ### § 4 Antrag auf Erteilung einer Prüfungsnummer
 
@@ -187,7 +178,6 @@ Stelle erlassene Verwaltungsakt nicht angefochten wird. Absatz 3 Satz
 Weinbrand vor Ablauf dieser Frist eine wesentliche Änderung seiner
 Qualität oder Geschmacksprägung, so bedarf es erneut der Zuteilung
 einer Prüfungsnummer.
-
 
 ### § 5 Prüfungsverfahren
 
@@ -274,7 +264,6 @@ branntweinchemische Untersuchungen ausführen.
 Einrichtung, die die Untersuchung durchgeführt hat, fünf Jahre nach
 seiner Erstellung aufzubewahren.
 
-
 ### § 6 Angabe der Prüfungsnummer
 
 (1) Der Prüfungsnummer ist die Angabe "Amtliche Prüfungsnummer"
@@ -289,11 +278,9 @@ Gaststätten, Einrichtungen zur Gemeinschaftsverpflegung sowie
 Gewerbetreibende, soweit sie Deutschen Weinbrand zum Verbrauch
 innerhalb ihrer Betriebsstätte beziehen, gleich.
 
-
 ### § 7 (weggefallen)
 
 -
-
 
 ### § 8 Zuckerung von bestimmten Spirituosen
 
@@ -335,7 +322,6 @@ die festgesetzte Höchstmenge hinaus hergestellt worden sind oder bei
 deren Herstellung entgegen Absatz 2 Zucker verwendet worden ist,
 dürfen gewerbsmäßig nicht in den Verkehr gebracht werden.
 
-
 ### § 9 Spirituosen mit geographischen Angaben
 
 (1) Die in Anlage 4 aufgeführten Spirituosen dürfen gewerbsmäßig unter
@@ -367,7 +353,6 @@ jeweiligen Region oder dem jeweiligen Ort aus Früchten hergestellt
 ist, die aus der jeweiligen Region oder dem jeweiligen Ort stammen,
 und den in Anlage 4 Nummer 1 Spalte 3 oder Nummer 2 Spalte 3
 festgesetzten Mindestalkoholgehalt aufweist.
-
 
 ### § 9a Korn oder Kornbrand
 
@@ -488,13 +473,7 @@ gebracht werden, wenn
 4.  die in Anlage 4 Spalte 3 jeweils festgelegten Voraussetzungen
     eingehalten sind.
 
-
-
-
-
 ## Zweiter Abschnitt - Weinähnliche, perlweinähnliche und schaumweinähnliche Getränke und hieraus weiterverarbeitete alkoholhaltige Getränke
-
-
 
 ### § 10 Begriffsbestimmungen
 
@@ -542,7 +521,6 @@ alkoholfrei oder alkoholreduziert sein.
 Absatz 5 nicht zulässige Erzeugnisse des Weinbaus verwendet worden
 sind, dürfen gewerbsmäßig nicht in den Verkehr gebracht werden.
 
-
 ### § 11 Kennzeichnung
 
 (1) Die in § 10 Abs. 1 bis 4 und 7 bezeichneten Getränke dürfen als
@@ -570,10 +548,7 @@ Begriffe sowie der Kennzeichnung und Aufmachung bestimmter
 Weinbauerzeugnisse (ABl. L 193 vom 24.7.2009, S. 60) in der jeweils
 geltenden Fassung bezeichneten Aufmachung in Verkehr gebracht werden.
 
-
 ## Dritter Abschnitt - Straftaten und Ordnungswidrigkeiten, Schlussbestimmungen
-
-
 
 ### § 12 Straftaten
 
@@ -605,16 +580,11 @@ Futtermittelgesetzbuches wird bestraft,
     gewerbsmäßig in den Verkehr bringt oder gewerbsmäßig mit solchen
     Hinweisen wirbt.
 
-
-
-
-
 ### § 13 Ordnungswidrigkeiten
 
 Ordnungswidrig nach § 60 Abs. 1 des Lebensmittel- und
 Futtermittelgesetzbuches handelt, wer eine in § 12 bezeichnete
 Handlung fahrlässig begeht.
-
 
 ### § 14 Übergangsbestimmungen
 
@@ -634,11 +604,9 @@ Dezember 2012 nach den bis zum Ablauf des 31. März 2011 geltenden
 Vorschriften gekennzeichnet und bis zum Aufbrauchen der Bestände in
 den Verkehr gebracht werden.
 
-
 ### § 15 (Inkrafttreten)
 
 -
-
 
 ### Anlage 1 (zu § 4 Abs. 1) Antrag auf Erteilung einer Prüfungsnummer für Deutschen Weinbrand
 
@@ -686,7 +654,6 @@ gewähren.
 .................................
 (Ort, Datum)                           (Unterschrift des
 Antragstellers)
-
 
 ### Anlage 2 (zu § 5 Abs. 2) Bewertungsschema für Deutschen Weinbrand
 
@@ -890,13 +857,6 @@ Antragstellers)
         erteilten Punkte ergibt die Qualitätszahl. Die Qualitätszahl muss für
         Deutschen Weinbrand mindestens 1,50 betragen.
 
-
-
-
-
-
-
-
 ### Anlage 3 (zu § 5 Abs. 3 Nr. 1) Abkürzungen der Bundesländer
 
 Fundstelle des Originaltextes: BGBl. I 2003, 1262
@@ -971,10 +931,6 @@ Fundstelle des Originaltextes: BGBl. I 2003, 1262
     *   Thüringen:
 
     *   TH-.
-
-
-
-
 
 ### Anlage 4 (zu § 9 und § 9a Abs. 2) Spirituosen mit geographischen Angaben
 

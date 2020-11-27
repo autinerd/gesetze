@@ -23,7 +23,6 @@ des Europäischen Parlaments und des Rates vom 22. Februar 1999 über
 Kaffee- und Zichorien-Extrakte (ABl. EG Nr. L 66 S. 26) in deutsches
 Recht umgesetzt.
 
-
 ## Eingangsformel
 
 Das Bundesministerium für Verbraucherschutz, Ernährung und
@@ -44,10 +43,6 @@ Landwirtschaft verordnet
     Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 und dem
     Organisationserlass vom 22. Januar 2001:
 
-
-
-
-
 ## § 1 Anwendungsbereich
 
 (1) Die in der Anlage aufgeführten Erzeugnisse unterliegen dieser
@@ -56,7 +51,6 @@ gewerbsmäßig in den Verkehr gebracht zu werden.
 
 (2) Diese Verordnung gilt nicht für
 "Cafe torrefacto soluble".
-
 
 ## § 2 Kennzeichnung
 
@@ -141,7 +135,6 @@ der Lebensmittel-Kennzeichnungsverordnung entsprechend. Die Angaben
 nach Absatz 3 Nr. 1, 5 und 6 sind im gleichen Sichtfeld wie die
 Verkehrsbezeichnung anzubringen.
 
-
 ## § 3 Verkehrsverbote
 
 Gewerbsmäßig dürfen nicht in den Verkehr gebracht werden
@@ -166,7 +159,6 @@ Zusatzstoffen in Röstkaffee und der Gehalt an Kandiermitteln in
 kandiertem Kaffee bei der Anwendung dieser Vorschrift
 unberücksichtigt.
 
-
 ## § 4 Analysenmethoden
 
 Die zur Bestimmung des freien Kohlenhydratgehaltes und des
@@ -176,7 +168,6 @@ und 2 der Richtlinie 85/591/EWG des Rates vom 20. Dezember 1985 zur
 Einführung gemeinschaftlicher Probenahmeverfahren und Analysenmethoden
 für die Kontrolle von Lebensmitteln (ABl. EG Nr. L 372 S. 50)
 aufgeführten erforderlichen Kriterien getestet sein.
-
 
 ## § 5 Straftaten und Ordnungswidrigkeiten
 
@@ -193,7 +184,6 @@ Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich
 oder fahrlässig entgegen § 2 Abs. 3 Satz 1, auch in Verbindung mit
 Satz 2, ein Erzeugnis in den Verkehr bringt.
 
-
 ## § 6 Übergangsregelung
 
 Bis zum 31. Dezember 2001 dürfen Erzeugnisse nach den bis zum Ablauf
@@ -202,18 +192,15 @@ gekennzeichnet werden. Nach Satz 1 hergestellte und gekennzeichnete
 Erzeugnisse dürfen bis zum Abbau der Vorräte in den Verkehr gebracht
 werden.
 
-
 ## § 8 Inkrafttreten, Außerkrafttreten
 
 (1) Die Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 (2)
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage (zu § 1 und § 2) Bezeichnungen und Begriffsbestimmungen
 

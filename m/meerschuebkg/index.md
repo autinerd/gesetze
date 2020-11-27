@@ -20,7 +20,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 6 G v. 25.8.1998 I 2455 (3582)
 
-
 ## Art 1
 
 Den folgenden Übereinkommen wird zugestimmt:
@@ -40,11 +39,9 @@ Den folgenden Übereinkommen wird zugestimmt:
 
 Die Übereinkommen werden nachstehend veröffentlicht.
 
-
 ## (XXXX) Art 1a bis Art 12 (weggefallen)
 
 -
-
 
 ## Art 13
 

@@ -17,7 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 2730
 
-
 ## Eingangsformel
 
 Auf Grund des § 10 Absatz 5 und des § 51 Absatz 1 Nummer 3 des
@@ -25,7 +24,6 @@ Einkommensteuergesetzes in der Fassung der Bekanntmachung vom 19.
 Oktober 2002 (BGBl. I S. 4210; 2003 I S. 179), von denen § 10 Absatz 5
 durch Artikel 1 des Gesetzes vom 16. Juli 2009 (BGBl. I S. 1959) neu
 gefasst worden ist, verordnet die Bundesregierung:
-
 
 ## § 1 Anwendungsbereich und Grundsätze
 
@@ -48,7 +46,6 @@ ist der nicht abziehbare Beitragsanteil nach § 3 zu ermitteln, wenn
 Leistungen im Sinne des § 2 Absatz 1 Nummer 1 bis Nummer 5 oder
 Krankentagegeldleistungen oder Krankenhaustagegeldleistungen
 versichert sind.
-
 
 ## § 2 Definitionen und Leistungsbestimmungen
 
@@ -88,7 +85,6 @@ ersetzt, der durch Arbeitsunfähigkeit als Folge von Krankheit oder
 Unfall entsteht. Krankenhaustagegeld ist eine in vertraglich
 festgelegter Höhe gezahlte Leistung für den Zeitraum einer medizinisch
 notwendigen stationären Heilbehandlung.
-
 
 ## § 3 Ermittlung des Abschlags
 
@@ -179,11 +175,9 @@ Versicherungsaufsichtsgesetzes versichert ist, ist ungeachtet der
 vorstehenden Regelungen von dem für den Basistarif geleisteten Beitrag
 ein Abschlag in Höhe von vier Prozent vorzunehmen.
 
-
 ## § 4 Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2010 in Kraft.
-
 
 ## Schlussformel
 

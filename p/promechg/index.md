@@ -19,10 +19,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 Abs. 22 G v. 22.12.2011 I 3044
 
-
 ## Teil 1 - Allgemeine Vorschriften
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -36,7 +33,6 @@ Investor- oder Gastgeberstaat beteiligt werden soll.
 Emissionsreduktionseinheiten und zertifizierten Emissionsreduktionen
 aus der Durchführung von Projekttätigkeiten, die Nuklearanlagen zum
 Gegenstand haben.
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -174,17 +170,9 @@ Im Sinne dieses Gesetzes ist
     Abschnitts F der Anlage des Beschlusses 17/CP.7 der Konferenz der
     Vertragsparteien des Übereinkommens geführt wird.
 
-
-
-
-
 ## Teil 2 - Gemeinsame Projektumsetzung
 
-
-
 ### Abschnitt 1 - Projekttätigkeiten außerhalb des Bundesgebiets
-
-
 
 #### § 3 Zustimmung
 
@@ -292,7 +280,6 @@ Zusicherung einer Zustimmung nach Absatz 1.
 
 (7) (weggefallen)
 
-
 #### § 4 Überprüfung der Verifizierung
 
 Die zuständige Behörde soll, soweit nach Bekanntgabe des
@@ -303,10 +290,7 @@ bei der zuständigen Behörde des Gaststaates oder bei dem
 Aufsichtsausschuss einreichen. Der Projektträger ist hiervon
 unverzüglich zu unterrichten.
 
-
 ### Abschnitt 2 - Projekttätigkeiten im Bundesgebiet
-
-
 
 #### § 5 Zustimmung und Registrierung
 
@@ -411,7 +395,6 @@ wurde und ihr die Billigung des Investorstaates vorliegt.
 
 (10) (weggefallen)
 
-
 #### § 6 Bestätigung des Verifizierungsberichts
 
 (1) Die zuständige Behörde hat den Verifizierungsbericht zu
@@ -461,10 +444,7 @@ die der verifizierten Menge an Emissionsminderungen in Tonnen
 Kohlendioxidäquivalent entspricht, auf das vom Projektträger benannte
 Konto.
 
-
 ### Abschnitt 3 - Sachverständige Stellen
-
-
 
 #### § 7 Sachverständige Stellen
 
@@ -497,10 +477,7 @@ Bundesrates bedarf, regeln. Dabei ist sicherzustellen, dass bei der
 Verifizierung Doppelzählungen auf Grund unmittelbarer oder mittelbarer
 Emissionsminderungen und Doppelbegünstigungen ausgeschlossen werden.
 
-
 ## Teil 3 - Mechanismus für umweltverträgliche Entwicklung
-
-
 
 ### § 8 Zustimmung
 
@@ -593,7 +570,6 @@ natürliche oder juristische Person im Sinne des Artikels 12 Abs. 9 des
 Protokolls zu ermächtigen, sich an der Projekttätigkeit zu beteiligen,
 der nach Absatz 1 zugestimmt wurde.
 
-
 ### § 9 Überprüfungsgesuch
 
 Die zuständige Behörde kann, soweit die Voraussetzungen der Nummer 41
@@ -603,10 +579,7 @@ Beschlusses 17/CP.7 der Konferenz der Vertragsparteien des
 einreichen. Der Projektträger ist hiervon unverzüglich zu
 unterrichten.
 
-
 ## Teil 4 - Gemeinsame Vorschriften
-
-
 
 ### § 10 Zuständige Behörde; Aufgabenübertragung
 
@@ -623,7 +596,6 @@ der nach Absatz 1 zuständigen Behörde. Bei einer Aufgabenübertragung
 auf eine juristische Person des öffentlichen Rechts gilt Satz 2
 entsprechend.
 
-
 ### § 11 Benennung eines Bevollmächtigten
 
 Wird ein Antrag im Sinne dieses Gesetzes von mehreren natürlichen oder
@@ -633,7 +605,6 @@ Zustelladresse im Inland zu benennen. Hat der Projektträger seinen
 Firmensitz im Ausland und keine Zweigniederlassung in der
 Bundesrepublik Deutschland, hat er eine im Inland ansässige Person als
 Empfangsberechtigten für Zustellungen zu benennen.
-
 
 ### § 12 Mengenbeobachtung
 
@@ -669,7 +640,6 @@ sicherzustellen, dass eine Vorregistrierung gelöscht wird, soweit die
 betreffende Projekttätigkeit nicht innerhalb von zwei Jahren ab
 Vorregistrierung nach § 5 Abs. 8 registriert wird.
 
-
 ### § 13 Rechtsverordnung zu Zustimmungsvoraussetzungen
 
 Das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit
@@ -682,7 +652,6 @@ bedarf, regeln, welche Anforderungen an das Vorliegen der einzelnen
 Zustimmungsvoraussetzungen des § 3 Abs.1, des § 5 Abs. 1 und des § 8
 Abs.1 und Versagungsgründe des § 3 Abs. 2, des § 5 Abs. 2 und des § 8
 Abs. 2 zu stellen sind.
-
 
 ### § 14 Kosten
 
@@ -699,7 +668,6 @@ Bemessung der Gebühren sind die Anzahl der aus der Durchführung der
 Projekttätigkeiten erzeugten Emissionsreduktionseinheiten und
 zertifizierten Emissionsreduktionen sowie der mit der Amtshandlung
 verbundene Verwaltungsaufwand zu berücksichtigen.
-
 
 ### § 15 Bußgeldvorschriften
 
@@ -718,7 +686,6 @@ eine Angabe nicht richtig oder nicht vollständig macht.
 (2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nr. 2 mit
 einer Geldbuße bis zu hunderttausend Euro, in den übrigen Fällen mit
 einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
-
 
 ### Anhang Bericht der Konferenz der Vertragsparteien über ihre siebte Tagung in Marrakesch vom 29. Oktober bis 10. November 2001 Addendum Teil Zwei Von der Konferenz der Vertragsparteien ergriffene Maßnahmen Band II
 

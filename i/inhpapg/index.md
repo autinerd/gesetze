@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 45 G v. 8.12.2010 I 1864
 
-
 ## § 1
 
 Auf den Inhaber lautende Schuldverschreibungen, in welchen allen
@@ -31,7 +30,6 @@ mit Prämien), dürfen im Inland nur auf Grund eines Bundesgesetzes und
 nur zum Zweck der Anleihe des Bundes oder eines Landes ausgegeben
 werden.
 
-
 ## § 2
 
 Inhaberpapiere mit Prämien, welche nach Verkündigung des gegenwärtigen
@@ -42,23 +40,19 @@ noch an den Börsen, noch an anderen zum Verkehr mit Wertpapieren
 bestimmten Versammlungsorten zum Gegenstand eines Geschäfts oder einer
 Geschäftsvermittlung gemacht werden.
 
-
 ## § 3
 
 Dasselbe gilt vom 15. Juli 1871 ab von ausländischen Inhaberpapieren
 mit Prämien, deren Ausgabe vor dem 1. Mai 1871 erfolgt ist, sofern
 dieselben nicht abgestempelt sind. ...
 
-
 ## § 4
 
 -
 
-
 ## § 5
 
 -
-
 
 ## § 6
 

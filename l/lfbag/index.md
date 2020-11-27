@@ -18,12 +18,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 332 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## § 1
 
@@ -33,7 +31,6 @@ Bau und Stadtentwicklung untersteht.
 
 (2) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung
 bestimmt den Sitz des Luftfahrt-Bundesamts.
-
 
 ## § 2
 
@@ -125,7 +122,6 @@ bestimmt den Sitz des Luftfahrt-Bundesamts.
 dem Luftfahrt-Bundesamt weitere Aufgaben des Bundes auf dem Gebiet der
 Luftfahrt zuweisen.
 
-
 ## § 3
 
 (1) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung erläßt
@@ -133,7 +129,6 @@ die für das Luftfahrt-Bundesamt zur Durchführung des Gesetzes
 erforderlichen allgemeinen Verwaltungsvorschriften.
 
 (2)
-
 
 ## § 4
 

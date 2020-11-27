@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 22.10.1999 I 2067
 
-
 ## Eingangsformel
 
 Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
@@ -28,17 +27,14 @@ August 1976 (BGBl. I S. 2525) geändert worden ist, verordnet der
 Bundesminister für Wirtschaft im Einvernehmen mit dem Bundesminister
 für Bildung und Wissenschaft:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Kaufmann für Bürokommunikation/Kauffrau für
 Bürokommunikation wird staatlich anerkannt.
 
-
 ## § 2 Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Ausbildungsberufsbild
 
@@ -160,7 +156,6 @@ des Ausbildungsbetriebes zugrundezulegen. Dafür kommen in Betracht:
 Es können auch andere Sacharbeitsgebiete zugrundegelegt werden, wenn
 die zu vermittelnden Fertigkeiten und Kenntnisse gleichwertig sind.
 
-
 ## § 4 Ausbildungsrahmenplan
 
 (1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach den in den
@@ -178,12 +173,10 @@ Abs. 2 des Berufsbildungsgesetzes befähigt wird, die insbesondere
 selbständiges Planen, Durchführen und Kontrollieren einschließt. Diese
 Befähigung ist auch in den Prüfungen nachzuweisen.
 
-
 ## § 5 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 6 Berichtsheft
 
@@ -191,7 +184,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 7 Zwischenprüfung
 
@@ -223,7 +215,6 @@ Prüfungsfächern durchzuführen:
 (4) Die in Absatz 3 genannte Prüfungsdauer kann insbesondere
 unterschritten werden, soweit die Prüfung in programmierter Form
 durchgeführt wird.
-
 
 ## § 8 Abschlußprüfung
 
@@ -355,14 +346,12 @@ mindestens ausreichende Prüfungsleistungen erbracht werden. Werden die
 Prüfungsleistungen in einem Prüfungsfach mit ungenügend bewertet, ist
 die Prüfung nicht bestanden.
 
-
 ## § 9 Aufhebung von Vorschriften
 
 Die bisher festgelegten Berufsbilder, Berufsbildungspläne und
 Prüfungsanforderungen für den Ausbildungsberuf
 Bürogehilfe/Bürogehilfin sind vorbehaltlich des § 10 nicht mehr
 anzuwenden.
-
 
 ## § 10 Übergangsregelungen
 
@@ -380,11 +369,9 @@ Wiederholungs- oder Ergänzungsprüfungen nach diesem Termin sind
 diejenigen Vorschriften zugrunde zu legen, auf deren Basis die erste
 Prüfung vorgenommen worden ist.
 
-
 ## § 11 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 1991 in Kraft.
-
 
 ## Anlage I (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für Bürokommunikation/zur Kauffrau für Bürokommunikation - Sachliche Gliederung -
 
@@ -1197,10 +1184,6 @@ Diese Verordnung tritt am 1. August 1991 in Kraft.
 *    *   h)
 
     *   Fachauskünfte erteilen
-
-
-
-
 
 ## Anlage II (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für Bürokommunikation/zur Kauffrau für Bürokommunikation - Zeitliche Gliederung -
 

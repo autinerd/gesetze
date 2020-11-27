@@ -20,7 +20,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 28.9.2012 I 2095
 
-
 ## Eingangsformel
 
 Auf Grund des § 8a Abs. 3 und des § 13b Satz 3 der
@@ -29,10 +28,7 @@ November 1975 (BGBl. I S. 2803), die durch Artikel 1 Nr. 6 und 12 des
 Gesetzes vom 1. Dezember 2003 (BGBl. I S. 2446) eingefügt worden sind,
 verordnet das Bundesministerium für Wirtschaft und Arbeit:
 
-
 ## Teil 1 - Anerkennung von Studiengängen (§ 8a der Wirtschaftsprüferordnung)
-
-
 
 ### § 1 Besondere Eignung von Masterstudiengängen
 
@@ -43,7 +39,6 @@ Wirtschaftsprüfern und Wirtschaftsprüferinnen besonders geeignet ist.
 Dies ist der Fall, wenn er den Anforderungen dieser Verordnung
 entspricht und akkreditiert ist (Anerkennung im Sinn des § 8a Abs. 1
 der Wirtschaftsprüferordnung).
-
 
 ### § 2 Anerkennungsgrundlagen
 
@@ -115,7 +110,6 @@ diese erst nach der Bestellung zum Wirtschaftsprüfer oder zur
 Wirtschaftsprüferin durch Praxiserfahrung und Fortbildung entwickelt
 wird.
 
-
 ### § 3 Anforderungen an den Zugang zum Masterstudiengang und dessen Ausgestaltung
 
 Die Anerkennung eines Masterstudiengangs nach § 1 Satz 2 setzt voraus,
@@ -139,10 +133,6 @@ dass die Prüfungsordnung
 4.  vorsieht, dass die Masterabschlussarbeit in dem Prüfungsgebiet
     "Wirtschaftliches Prüfungswesen, Unternehmensbewertung und
     Berufsrecht" geschrieben wird.
-
-
-
-
 
 ### § 4 Referenzrahmen
 
@@ -171,7 +161,6 @@ Referenzrahmen gegenüber den in § 5 Abs. 2 Satz 1 genannten Vertretern
 und Vertreterinnen für verbindlich. Der Referenzrahmen wird von der
 Prüfungsstelle elektronisch geführt und zugänglich gemacht.
 
-
 ### § 5 Akkreditierung
 
 (1) Die Akkreditierung und Reakkreditierung des Masterstudiengangs
@@ -194,7 +183,6 @@ in die Akkreditierung folgender Zusatz aufgenommen: "Leistungen aus
 dem Masterstudiengang können in den Prüfungsgebieten "Angewandte
 Betriebswirtschaftslehre, Volkswirtschaftslehre" und
 "Wirtschaftsrecht" des Wirtschaftsprüfungsexamens angerechnet werden".
-
 
 ### § 6 Anrechnung von Leistungen aus dem Masterstudiengang auf das Wirtschaftsprüfungsexamen und Anrechnungsverfahren
 
@@ -237,10 +225,7 @@ so dass eine besondere Eignung nach § 1 ganz oder in Teilen entfallen
 ist. Für das Widerspruchsverfahren gilt § 5 Abs. 5 der
 Wirtschaftsprüferordnung entsprechend.
 
-
 ## Teil 2 - Verkürzte Prüfung nach Anrechnung gleichwertiger Prüfungsleistungen (§ 13b der Wirtschaftsprüferordnung)
-
-
 
 ### § 7 Voraussetzungen der Anrechnung
 
@@ -290,7 +275,6 @@ Referenzrahmens nach § 4 Abs. 1 und, soweit verfügbar, darauf
 basierender Lehrpläne (Curricula) nach § 4 Abs. 2 Satz 2 zu
 beurteilen.
 
-
 ### § 8 Bestätigung der Gleichwertigkeit an die Hochschule
 
 (1) Die Hochschule kann vor jedem Semester oder Hochschuljahr vorab
@@ -307,7 +291,6 @@ Gebührenordnung der Wirtschaftsprüferkammer kostenpflichtig.
 Prüfungsstelle dies der Hochschule schriftlich mit. Für das
 Widerspruchsverfahren gilt § 5 Abs. 5 der Wirtschaftsprüferordnung
 entsprechend.
-
 
 ### § 9 Anrechnung auf das Wirtschaftsprüfungsexamen
 
@@ -351,10 +334,7 @@ Gleichwertigkeit nach § 7 Abs. 2 ganz oder in Teilen entfallen ist.
 Für das Widerspruchsverfahren gilt § 5 Abs. 5 der
 Wirtschaftsprüferordnung entsprechend.
 
-
 ## Teil 3 - Schlussbestimmungen
-
-
 
 ### § 10 Übergangsvorschriften
 
@@ -376,11 +356,9 @@ erbracht worden sein.
 auf Prüfungsleistungen, die in einem Studium erbracht worden sind, das
 spätestens am 17. Juni 2009 begonnen wurde.
 
-
 ### § 11 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ### Schlussformel
 

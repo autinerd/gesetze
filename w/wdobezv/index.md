@@ -15,14 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 1809
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 146 der Wehrdisziplinarordnung vom 16. August 2001
 (BGBl. I S. 2093) verordnet das Bundesministerium der Verteidigung im
 Einvernehmen mit dem Bundesministerium des Innern:
-
 
 ## § 1 Dienstbezüge und Wehrsold
 
@@ -45,7 +42,6 @@ Wehrübungen, der Reserveoffizierzuschlag, der
 Reserveunteroffizierzuschlag, der Wehrdienstzuschlag und der
 Verpflichtungszuschlag.
 
-
 ## § 2 Übergangsvorschrift
 
 Wird ein vor Inkrafttreten dieser Verordnung rechtskräftig gewordenes
@@ -55,7 +51,6 @@ einer Anordnung der Einleitungsbehörde vor dem Inkrafttreten dieser
 Verordnung ein Teil der Dienstbezüge einbehalten worden, gilt für die
 Dienstbezüge und den Wehrsold die Verordnung zur Durchführung der
 Wehrdisziplinarordnung vom 26. März 1999 (BGBl. I S. 545) fort.
-
 
 ## § 3 Inkrafttreten, Außerkrafttreten
 

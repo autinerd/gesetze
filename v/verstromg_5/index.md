@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 168 V v. 31.10.2006 I 2407
 
-
 ## § 1 Zweck, Finanzplafonds
 
 (1) Mit diesem Gesetz soll ein angemessener Beitrag zum Absatz
@@ -66,7 +65,6 @@ vermindert werden kann, fördern, Mittel für die in Absatz 1 genannten
 Zwecke aus den in Absatz 2 genannten Finanzplafonds zur Verfügung
 gestellt werden.
 
-
 ## § 2 Zuschüsse an Bergbauunternehmen
 
 (1) Das Bundesministerium für Wirtschaft und Technologie legt nach
@@ -108,7 +106,6 @@ Technologie durch Richtlinien.
 
 (6) Rechtsansprüche auf Zuschußzahlungen werden durch dieses Gesetz
 nicht begründet.
-
 
 ## § 3 Melde-, Aufbewahrungs- und Auskunftspflichten
 
@@ -162,7 +159,6 @@ entsprechende Unterlagen vorzulegen, so kann das Bundesamt für
 Wirtschaft und Ausfuhrkontrolle (BAFA) die erforderliche Festsetzung
 im Wege der Schätzung treffen.
 
-
 ## § 4 Ordnungswidrigkeiten
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
@@ -193,7 +189,6 @@ Euro geahndet werden.
 (3) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes
 über Ordnungswidrigkeiten ist das Bundesamt für Wirtschaft und
 Ausfuhrkontrolle (BAFA).
-
 
 ## § 5 Begriffsbestimmungen
 

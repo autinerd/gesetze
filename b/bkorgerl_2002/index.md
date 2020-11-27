@@ -18,12 +18,10 @@ Fundstelle
 Geändert durch
 :   Ziff. III Nr. 1 d. Organisationserlasses v. 22.11.2005 I 3797
 
-
 ## Eingangsformel
 
 Gemäß § 9 der Geschäftsordnung der Bundesregierung ordne ich mit
 sofortiger Wirkung an:
-
 
 ## I.
 
@@ -56,10 +54,6 @@ sofortiger Wirkung an:
 
 
 3.  (weggefallen)
-
-
-
-
 
 ## II.
 
@@ -96,10 +90,6 @@ sofortiger Wirkung an:
     und der Bundesbeauftragte für die Sozialversicherungswahlen werden dem
     Bundesministerium für Gesundheit und Soziale Sicherung zugeordnet.
 
-
-
-
-
 ## III.
 
 Die federführende Zuständigkeit für den Aufgabenbereich Gentechnik
@@ -109,7 +99,6 @@ Landwirtschaft übertragen, damit auch die federführende Zuständigkeit
 für das Gentechnikgesetz. Davon unberührt bleibt die Zuständigkeit für
 medizinische Fragen, insbesondere das Arzneimittelwesen.
 
-
 ## IV.
 
 Dem Bundesministerium für Familie, Senioren, Frauen und Jugend wird
@@ -117,13 +106,11 @@ die Beauftragte der Bundesregierung für Ausländerfragen (künftig:
 Beauftragte der Bundesregierung für Migration, Flüchtlinge und
 Integration) zugeordnet.
 
-
 ## V.
 
 Dem Bundesministerium für Verkehr, Bau- und Wohnungswesen wird aus dem
 Geschäftsbereich des Bundeskanzlers die Zuständigkeit des Beauftragten
 der Bundesregierung für die neuen Bundesländer übertragen.
-
 
 ## VI.
 
@@ -153,23 +140,17 @@ werden übertragen:
 2.  aus dem Geschäftsbereich des Bundesministeriums der Finanzen die
     Zuständigkeit für die "Deutsche Bundesstiftung Umwelt.
 
-
-
-
-
 ## VII.
 
 Dem Auswärtigen Amt wird aus dem Geschäftsbereich des Presse- und
 Informationsamtes der Bundesregierung die Zuständigkeit für die
 politische Öffentlichkeitsarbeit Ausland übertragen.
 
-
 ## VIII.
 
 Die Einzelheiten des Übergangs werden zwischen den beteiligten
 Mitgliedern der Bundesregierung in Abstimmung mit dem Chef des
 Bundeskanzleramtes geregelt.
-
 
 ## Schlussformel
 

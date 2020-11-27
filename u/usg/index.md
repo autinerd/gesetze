@@ -22,10 +22,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 7 G v. 28.4.2011 I 678
 
-
 ## Erster Abschnitt - Allgemeine Grundsätze
-
-
 
 ### § 1 Sicherung des Unterhalts
 
@@ -40,7 +37,6 @@ nicht, wenn der Wehrpflichtige Dienstbezüge als Berufssoldat oder
 Soldat auf Zeit erhält. Das Gleiche gilt mit Ausnahme des § 13c Abs.
 2, soweit der Wehrpflichtige als Beamter oder Richter Dienstbezüge
 oder Unterhaltszuschuss oder als Arbeitnehmer Arbeitsentgelt erhält.
-
 
 ### § 2 Leistungsberechtigte und Leistungsarten
 
@@ -103,7 +99,6 @@ Spannungs- und Verteidigungsfall leisten, erhalten Leistungen nach den
 §§ 13 bis 13d. Dies gilt auch für nicht wehrpflichtige Personen, die
 Dienst nach dem Vierten Abschnitt des Soldatengesetzes leisten.
 
-
 ### § 3 Familienangehörige
 
 (1) Familienangehörige im Sinne dieses Gesetzes sind
@@ -137,7 +132,6 @@ sowie die in Absatz 1 Nr. 1 und 3 genannten Personen sind
 Familienangehörige im engeren Sinne. Die übrigen Personen sind
 sonstige Familienangehörige.
 
-
 ### § 4 Anspruchsvoraussetzungen
 
 (1) Familienangehörige nach § 3 Abs. 1 Nr. 1, 2, 4 und 5 haben
@@ -162,10 +156,6 @@ Leistungen zur Unterhaltssicherung,
 
 2.  wenn sie von dem Wehrpflichtigen ganz oder überwiegend unterhalten
     worden wären, falls er nicht eingezogen worden wäre.
-
-
-
-
 
 ### § 4a Antrag
 
@@ -192,14 +182,9 @@ auf Unterhaltsleistung anhängig, so erlischt das Antragsrecht erst mit
 Ablauf eines Monats nach Abschluss des Verfahrens oder nach
 Rechtskraft der Entscheidung.
 
-
 ## Zweiter Abschnitt - Leistungen zur Unterhaltssicherung
 
-
-
 ### Unterabschnitt 1 - Leistungen nach § 2 Absatz 1
-
-
 
 #### § 5 Allgemeine Leistungen
 
@@ -237,7 +222,6 @@ oder der Lebenspartner mit einem oder mehreren minderjährigen Kindern
 in einem gemeinsamen Haushalt lebt und für deren Pflege und Erziehung
 sorgt.
 
-
 #### § 5a Überbrückungsgeld
 
 Anspruchsberechtigte Familienangehörige im engeren Sinne erhalten bei
@@ -247,7 +231,6 @@ beträgt für die Ehefrau oder für den Lebenspartner 358 Euro und für
 jedes Kind 102,50 Euro. Es wird für die gesamte Dauer des
 Grundwehrdienstes nur einmal gewährt.
 
-
 #### § 5b Besondere Zuwendung
 
 Anspruchsberechtigte Familienangehörige im engeren Sinne erhalten für
@@ -255,14 +238,12 @@ den Monat Dezember neben den allgemeinen Leistungen eine besondere
 Zuwendung. Die besondere Zuwendung beträgt für die Ehefrau oder für
 den Lebenspartner 230 Euro und für jedes Kind 30,50 Euro.
 
-
 #### § 5c Beihilfe bei Geburt eines Kindes
 
 Einem Kind, das während des Grundwehrdienstes des Wehrpflichtigen
 geboren wird und Anspruch auf allgemeine Leistungen hat, wird zu den
 Kosten seiner Erstausstattung eine einmalige Beihilfe von 128 Euro
 gewährt.
-
 
 #### § 6 Einzelleistungen
 
@@ -282,7 +263,6 @@ nicht vorgelegen hätten.
 Leistungen 90 vom Hundert der Bemessungsgrundlage nicht überschreiten.
 Reicht dieser Betrag zur vollen Befriedigung der Ansprüche nicht aus,
 sind die Einzelleistungen zu kürzen.
-
 
 #### § 7 Sonderleistungen
 
@@ -353,7 +333,6 @@ Wehrdienstes mindestens sechs Monate bestehen und den Wehrpflichtigen
 für diesen Zeitraum zu Aufwendungen in einer Höhe verpflichten, die
 mindestens dem geltend gemachten Betrag entspricht.
 
-
 #### § 7a Mietbeihilfe
 
 (1) Wehrpflichtige, die allein stehend und Mieter von Wohnraum sind,
@@ -395,7 +374,6 @@ entfällt.
 (4) Soweit Wohngeld nach § 20 Abs. 1 des Wohngeldgesetzes
 weitergewährt wird, wird es auf die Mietbeihilfe angerechnet.
 
-
 #### § 7b Wirtschaftsbeihilfe
 
 (1) Wehrpflichtige, die bei Beginn des Wehrdienstes mindestens zwölf
@@ -425,11 +403,9 @@ die Miete der Berufsstätte sowie der sonstigen unabwendbaren
 Aufwendungen zur Sicherung der Fortführung des Betriebes oder der
 selbständigen Tätigkeit.
 
-
 #### § 8 (weggefallen)
 
 -
-
 
 #### § 9 Empfangsberechtigte
 
@@ -439,7 +415,6 @@ abweichend hiervon an diejenige Person auszuzahlen, die
 sorgeberechtigt ist und bei der das Kind lebt. Der Härteausgleich nach
 § 23 ist an denjenigen auszuzahlen, bei dem die besondere Härte
 vorliegt; bei einem Härteausgleich für Kinder gilt Satz 2.
-
 
 #### § 10 Bemessungsgrundlage
 
@@ -477,7 +452,6 @@ unberücksichtigt. Soweit diese Zeiten im Fall des Absatzes 2 Nr. 2 das
 gesamte dort genannte Jahr ausfüllen, ist der Durchschnitt des
 Nettoeinkommens des Vorjahres maßgebend.
 
-
 #### § 11 Anrechnung von Einkommen
 
 (1) Die Leistungen zur Unterhaltssicherung sind um die
@@ -507,7 +481,6 @@ ergeben. Außer Ansatz bleiben
 von dem Verbrauch oder der Verwertung des Vermögens abhängig gemacht
 werden.
 
-
 #### § 12 Ersatzansprüche
 
 (1) Steht anspruchsberechtigten Familienangehörigen infolge eines
@@ -522,10 +495,7 @@ Unterhaltssicherung wegen des Ereignisses gewährt.
 den §§ 103 bis 114 des Zehnten Buches Sozialgesetzbuch Erstattung
 verlangen.
 
-
 ### Unterabschnitt 2 - Leistungen nach § 2 Absatz 2
-
-
 
 #### § 12a Leistungen für grundwehrdienstleistende Sanitätsoffiziere
 
@@ -539,10 +509,7 @@ für die Zeit, in der auch der Lebenspartner Grundwehrdienst leistet.
 Wehrpflichtige, die Leistungen nach Absatz 1 Satz 2 erhalten, gelten
 die §§ 5a bis 5c entsprechend.
 
-
 ### Unterabschnitt 3 - Leistungen nach § 2 Absatz 3
-
-
 
 #### § 13 Verdienstausfallentschädigung
 
@@ -577,10 +544,6 @@ höchstens
 
 2.  für die übrigen Wehrpflichtigen 153,50 Euro.
 
-
-
-
-
 #### § 13a Leistungen für Selbständige
 
 (1) Wehrpflichtigen, die Inhaber von Gewerbebetrieben oder Betrieben
@@ -613,7 +576,6 @@ Betriebsausgaben im Sinne des Einkommensteuergesetzes erstattet,
 sofern entsprechende laufende Zahlungsverpflichtungen für die Dauer
 des Wehrdienstes bestehen.
 
-
 #### § 13b Entschädigung bei Ausfall sonstiger Einkünfte
 
 Wehrpflichtige, denen Einkünfte im Sinne des § 2 Abs. 1 Nr. 7 des
@@ -622,7 +584,6 @@ als Entschädigung für jeden Wehrdiensttag 1/360 der sonstigen
 Einkünfte, die sich aus dem letzten Einkommensteuerbescheid ergeben,
 nach Abzug der während des Wehrdienstes weiterlaufenden sonstigen
 Einkünfte, höchstens jedoch 307 Euro.
-
 
 #### § 13c Mindestleistung
 
@@ -646,7 +607,6 @@ den ruhegehaltfähigen Dienstbezügen nach der Endstufe der
 Besoldungsgruppe, aus der das Ruhegehalt berechnet ist, gemindert um
 den Betrag, der als Lohnsteuer von den Dienstbezügen abzuziehen wäre.
 
-
 #### § 13d Zusammentreffen mehrerer Ansprüche
 
 Leistungen nach den §§ 13a und 13b werden zusammen nur bis zu dem in §
@@ -655,10 +615,7 @@ Verdienstausfallentschädigung nach § 13 wird daneben nur insoweit
 gewährt, als sie die Hälfte des nach Satz 1 nicht in Anspruch
 genommenen Höchstbetrags nicht übersteigt.
 
-
 ### Unterabschnitt 4 - Gemeinsame Vorschriften
-
-
 
 #### § 14 Ruhen der Leistungen
 
@@ -674,7 +631,6 @@ gleichen Zeitraum auf Grund einer Maßregel der Besserung und Sicherung
 untergebracht, so ruhen die auf ihn entfallenden Leistungen zur
 Unterhaltssicherung.
 
-
 #### § 15 Steuerfreiheit
 
 (1) Leistungen nach diesem Gesetz sind steuerfrei. Dies gilt nicht für
@@ -683,7 +639,6 @@ Leistungen nach den §§ 7b, 13a und 13b.
 (2) Aufwendungen im Sinne des § 7 Abs. 2 Nr. 2 bis 4 sind insoweit
 nicht als Sonderausgaben nach § 10 des Einkommensteuergesetzes
 abzugsfähig, als für sie Sonderleistungen nach § 7 gewährt werden.
-
 
 #### § 16 Überzahlungen
 
@@ -705,10 +660,7 @@ Umfang Kosten oder Verwaltungsaufwand entstehen.
 (4) Der Wehrpflichtige hat die Kenntnis seiner Familienangehörigen,
 dass die Leistungen zu Unrecht empfangen worden sind, zu vertreten.
 
-
 ## Dritter Abschnitt - Zuständigkeit und Verfahren
-
-
 
 ### § 17 Zuständigkeit
 
@@ -717,7 +669,6 @@ dass die Leistungen zu Unrecht empfangen worden sind, zu vertreten.
 (2) Die Landesregierungen bestimmen die für die Feststellung und
 Bewilligung der Leistungen zur Unterhaltssicherung zuständigen
 Behörden.
-
 
 ### § 18 Zahlungsart und Dauer
 
@@ -740,7 +691,6 @@ einzeln oder zusammen an den Grundwehrdienst unmittelbar anschließen.
 Die besondere Zuwendung (§ 5b) und die Beihilfe bei der Geburt eines
 Kindes (§ 5c) werden zusammen mit den allgemeinen Leistungen gezahlt.
 
-
 ### § 19 Kosten
 
 (1) Die Leistungen zur Unterhaltssicherung trägt der Bund. Die
@@ -756,7 +706,6 @@ auf die für Rechnung des Bundes zu leistenden Ausgaben und die mit
 ihnen zusammenhängenden Einnahmen die landesrechtlichen Vorschriften
 über die Kassen- und Buchführung der zuständigen Landes- und
 Gemeindebehörden angewendet werden.
-
 
 ### § 20 Auskunfts- und Mitteilungspflicht
 
@@ -787,15 +736,11 @@ zuständigen Stellen haben den nach § 17 zuständigen Behörden die
 Tatsachen unverzüglich mitzuteilen, die für die Gewährung oder
 Einstellung der Leistungen zur Unterhaltssicherung erheblich sind.
 
-
 ### (XXXX) §§ 21 und 22 (weggefallen)
 
 -
 
-
 ## Vierter Abschnitt - Sonstige Vorschriften
-
-
 
 ### § 23 Härteausgleich
 
@@ -810,7 +755,6 @@ Einvernehmen herstellt.
 (2) In bestimmten Fällen kann das Bundesministerium der Verteidigung
 die Gewährung eines Härteausgleichs allgemein zulassen. In diesen
 Fällen bedarf es des Einvernehmens nicht.
-
 
 ### § 24 Ordnungswidrigkeit
 
@@ -834,16 +778,13 @@ Fällen bedarf es des Einvernehmens nicht.
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu dreitausend
 Euro geahndet werden.
 
-
 ### § 25 (weggefallen)
 
 -
 
-
 ### § 26 (Inkrafttreten)
 
 -
-
 
 ### Anlage (zu § 13c)
 

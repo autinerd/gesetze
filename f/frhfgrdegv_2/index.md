@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1997, 3204
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 1 Abs. 4 des Gesetzes zur Errichtung neuer Freihäfen
@@ -25,7 +23,6 @@ und des § 20 Abs. 2 des Zollverwaltungsgesetzes vom 21. Dezember 1992
 (BGBl. I S. 2125), der durch das Gesetz vom 20. Dezember 1996 (BGBl. I
 S. 2030) geändert worden ist, verordnet das Bundesministerium der
 Finanzen:
-
 
 ## Art 1
 
@@ -71,11 +68,9 @@ verläuft sie noch 30 m in die Donau hinein und von diesem Punkt aus in
 gerader Linie zum Ausgangspunkt. Der Verlauf der Grenze ist in der
 Anlage durch eine gestrichelte Linie gekennzeichnet."
 
-
 ## Art 2
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Anlage
 

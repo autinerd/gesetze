@@ -15,11 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   GBl DDR I: 1990, 515
 
-
-
 ## (XXXX) §§ 1 bis 7 (weggefallen)
-
-
 
 ## § 8
 
@@ -41,26 +37,20 @@ handelt, sind die Gebietsansässigen unter gerechter Abwägung ihrer
 Interessen und der Interessen der Allgemeinheit angemessen in Geld zu
 entschädigen.
 
-
 ## (XXXX) §§ 9 bis 49 (weggefallen)
-
-
 
 ## § 50
 
 -
 
-
 ## § 51
 
 -
-
 
 ## Schlußformel
 
 **Die Präsidentin der Volkskammer der Deutschen Demokratischen
 Republik**
-
 
 ## Anhang EV Auszug aus EinigVtr Anlage II Kapitel V Sachgebiet E Abschnitt II (BGBl. II 1990, 889, 1202)
 

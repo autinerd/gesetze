@@ -18,23 +18,18 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 34 G v. 6.12.2011 I 2515
 
-
 ## Eingangsformel
 
 Auf Grund des § 2 Abs. 3 des Gesetzes über die Ausübung der
 Zahnheilkunde vom 31. März 1952 (Bundesgesetzbl. I S. 221) wird mit
 Zustimmung des Bundesrates verordnet:
 
-
 ## I. - Zahnärztliche Ausbildung
-
-
 
 ### § 1
 
 Der Zahnarzt wird für seinen Beruf wissenschaftlich und praktisch
 ausgebildet.
-
 
 ### § 2
 
@@ -65,19 +60,13 @@ Hochschulrahmengesetzes beträgt einschließlich der Prüfungszeit für
 die zahnärztliche Prüfung nach § 33 Abs. 1 Satz 1 zehn Semester und
 sechs Monate.
 
-
 ## II. - Prüfungsbestimmungen
 
-
-
 ### A. - Allgemeine Bestimmungen
-
-
 
 #### § 3
 
 Das Prüfungsjahr dauert vom 1. Januar bis zum 31. Dezember.
-
 
 #### § 4
 
@@ -101,7 +90,6 @@ Gegenstand der Prüfung sind, zu entnehmen.
 oder als Stellvertreter von der zuständigen Landesbehörde bestellt
 ist, darf nicht als Prüfer tätig sein.
 
-
 #### § 5
 
 (1) Der Vorsitzende des Prüfungsausschusses (Vorsitzender) leitet die
@@ -123,19 +111,16 @@ Prüfung gilt in allen Fächern oder Abschnitten als nicht bestanden.
 ihrer Chancengleichheit bei Durchführung der Prüfungen zu
 berücksichtigen.
 
-
 #### § 6
 
 Von einem Prüfer dürfen mit Ausnahme der Prüfungen in der
 Zahnerhaltungs- und der Zahnersatzkunde in der Regel nicht mehr als
 vier Prüflinge gleichzeitig geprüft werden.
 
-
 #### § 7
 
 Die zuständigen Landesbehörden können zu den Prüfungen Vertreter
 entsenden.
-
 
 #### § 8
 
@@ -144,7 +129,6 @@ richten, der über die Zulassung entscheidet, soweit diese Verordnung
 nichts anderes bestimmt.
 
 (2) (weggefallen)
-
 
 #### § 9
 
@@ -166,7 +150,6 @@ durchgeführten Kursus über medizinische Terminologie erbracht werden.
 (4) Dem Gesuch ist bei Ledigen die Geburtsurkunde, bei Verheirateten
 oder verheiratet Gewesenen die Geburtsurkunde und die Eheurkunde
 beizufügen.
-
 
 #### § 10
 
@@ -194,13 +177,11 @@ oder eine Rücknahme oder einen Widerruf der Zulassung vorliegen, so
 hat der Vorsitzende die Entscheidung der zuständigen Landesbehörde
 herbeizuführen.
 
-
 #### § 11
 
 Die für die Zulassung zu den Prüfungen geforderten Nachweise und
 Zeugnisse sind in Urschrift vorzulegen. Der Vorsitzende kann hiervon
 Ausnahmen zulassen.
-
 
 #### § 12
 
@@ -210,7 +191,6 @@ Gründen gestattet werden. Mit dem Gesuch um Ausnahmebewilligung ist
 zugleich eine Erklärung des Vorsitzenden des bisherigen
 Prüfungsausschusses vorzulegen, ob dem Wechsel des Ausschusses
 Bedenken entgegenstehen.
-
 
 #### § 13
 
@@ -222,7 +202,6 @@ Bezeichnungen "sehr gut" (1), "gut" (2), "befriedigend" (3),
 (2) Lautet ein Urteil "nicht genügend" oder "schlecht", so hat es der
 Prüfer in dem Einzelzeugnis kurz zu begründen.
 
-
 #### § 14
 
 Für jeden Prüfling nimmt der Vorsitzende eine Niederschrift auf, in
@@ -232,7 +211,6 @@ anzugeben sind. Werden Wiederholungsfristen festgesetzt, so hat der
 Vorsitzende die Fristen und Bedingungen, von deren Erfüllung die
 Zulassung zur Wiederholungsprüfung abhängt, in die Niederschrift
 einzutragen.
-
 
 #### § 15
 
@@ -247,7 +225,6 @@ Zulassung zur Prüfung nach § 10 Abs. 1 Nr. 3 versagt, zurückgenommen
 oder widerrufen, so sind die zuständigen Behörden aller Länder zu
 benachrichtigen. Diese setzen die Prüfungsausschüsse in Kenntnis. Die
 Prüfungsunterlagen bleiben bei den Prüfungsakten.
-
 
 #### § 16
 
@@ -271,11 +248,9 @@ nur noch zu einer Wiederholungsprüfung zugelassen.
 
 (4)
 
-
 #### § 17
 
 -
-
 
 #### § 17
 
@@ -283,17 +258,13 @@ Studien- und Prüfungsleistungen, die bereits Gegenstand einer
 inländischen Prüfung waren und endgültig nicht bestanden worden sind,
 dürfen auf das Studium nicht angerechnet werden.
 
-
 ### B. - Naturwissenschaftliche Vorprüfung
-
-
 
 #### § 18
 
 Der Studierende kann die naturwissenschaftliche Vorprüfung nur vor dem
 Prüfungsausschuß der Universität ablegen, an der er Zahnheilkunde
 studiert. Ausnahmen können aus wichtigem Grunde gestattet werden.
-
 
 #### § 19
 
@@ -343,10 +314,6 @@ a)  an einer ausländischen Universität oder Hochschule Zahnheilkunde
 b)  an einer deutschen oder ausländischen Universität oder Hochschule ein
     dem zahnärztlichen verwandtes Studium betrieben hat.
 
-
-
-
-
 #### § 20
 
 (1) Der Studierende, der zur Prüfung zugelassen ist, wird von dem
@@ -356,7 +323,6 @@ Prüfung geladen.
 
 (2) Der vom Vorsitzenden festgesetzte erste Prüfungstag gilt als
 Beginn der Prüfung.
-
 
 #### § 21
 
@@ -399,7 +365,6 @@ ausländischen Universität oder Hochschule vollständig bestandenen
 Prüfung waren, wenn diese Prüfung einer deutschen Prüfung gleichwertig
 ist.
 
-
 #### § 22
 
 (1) Ist die Leistung in einem Prüfungsfach mit "nicht genügend"
@@ -438,7 +403,6 @@ nochmaligen naturwissenschaftlichen Prüfung nicht zugelassen. Das gilt
 auch, wenn der Studierende nach erneutem zahnärztlichem Studium die
 Zulassung zur naturwissenschaftlichen Vorprüfung beantragt.
 
-
 #### § 23
 
 (1) Nach Abschluß jeder Prüfung und Wiederholungsprüfung stellt der
@@ -452,7 +416,6 @@ einer Summe bis zu 4 "sehr gut", von 5 bis 7 "gut" und von 8 bis 10
 "befriedigend". Mußte der Studierende in einem Fach eine
 Wiederholungsprüfung ablegen, so kann das Gesamtergebnis höchstens
 "gut" lauten.
-
 
 #### § 24
 
@@ -487,17 +450,13 @@ Entscheidungen mit. Verläßt der Studierende vor vollständig
 bestandener Vorprüfung die Universität, so hat die Universitätsbehörde
 dies im Studienbuch zu vermerken.
 
-
 ### C. - Zahnärztliche Vorprüfung
-
-
 
 #### § 25
 
 Der Studierende kann die zahnärztliche Vorprüfung nur vor dem
 Prüfungsausschuß der Universität ablegen, an der er Zahnheilkunde
 studiert. Ausnahmen können aus wichtigem Grunde gestattet werden.
-
 
 #### § 26
 
@@ -588,7 +547,6 @@ a)  folgende Vorlesungen gehört hat:
 (5) Die Bestimmungen des § 19 Abs. 4 und 5 gelten für die
 zahnärztliche Vorprüfung entsprechend.
 
-
 #### § 27
 
 (1) Der Studierende, der zur Prüfung zugelassen ist, wird vom
@@ -598,7 +556,6 @@ Prüfung geladen.
 
 (2) Der vom Vorsitzenden festgesetzte erste Prüfungstag gilt als
 Beginn der Prüfung.
-
 
 #### § 28
 
@@ -672,10 +629,6 @@ b)  in einer mündlichen Prüfung gründliche Kenntnisse der Werkstoffe und
     der Herstellungsmethoden des Zahnersatzes unter Berücksichtigung der
     Anatomie und Physiologie der Mundhöhle nachzuweisen.
 
-
-
-
-
 #### § 29
 
 (1) Ist die Leistung in einem Prüfungsfach mit "nicht genügend"
@@ -702,7 +655,6 @@ ganzen nicht bestanden ist.
 (3) Die Bestimmungen des § 22 Abs. 3 gelten für die zahnärztliche
 Vorprüfung entsprechend.
 
-
 #### § 30
 
 (1) Die Wiederholungsprüfungen in Physiologie und in physiologischer
@@ -718,7 +670,6 @@ zugelassen. Das gilt auch, wenn der Studierende nach erneutem
 zahnärztlichem Studium die Zulassung zur zahnärztlichen Vorprüfung
 beantragt.
 
-
 #### § 31
 
 (1) Der Vorsitzende ermittelt das Gesamtergebnis der bestandenen
@@ -733,16 +684,12 @@ gelten für die zahnärztliche Vorprüfung entsprechend. Über das
 Ergebnis der zahnärztlichen Vorprüfung erhält der Studierende ein
 Zeugnis nach Muster 3, nach einer Wiederholungsprüfung nach Muster 3a.
 
-
 ### D. - Zahnärztliche Prüfung
-
-
 
 #### § 32
 
 Die zahnärztliche Prüfung (Abschlußprüfung) kann vor dem
 Prüfungsausschuß jeder Universität abgelegt werden.
-
 
 #### § 33
 
@@ -760,7 +707,6 @@ soll, bis zum 15. Februar oder 15. Juli (Beginn der Prüfungsperiode)
 vorzulegen. Verspätete Gesuche werden nur bei hinreichender Begründung
 berücksichtigt.
 
-
 #### § 34
 
 (1) Der Meldung sind die für die Zulassung zur zahnärztlichen
@@ -772,7 +718,6 @@ zahnärztliche Vorprüfung beizufügen.
 vollständig bestandene entsprechende Prüfung nur ausnahmsweise
 anerkannt werden.
 
-
 #### § 35
 
 (1) Der Meldung ist ferner der Nachweis beizufügen, daß der Kandidat
@@ -783,7 +728,6 @@ deutschen Universitäten ordnungsgemäß Zahnheilkunde studiert hat.
 (2) Ein nach bestandener zahnärztlicher Vorprüfung an einer
 ausländischen Universität abgeleistetes Studium kann nur ausnahmsweise
 auf die Studienzeit ganz oder teilweise angerechnet werden.
-
 
 #### § 36
 
@@ -833,7 +777,6 @@ genannten Polikliniken und Kliniken wird durch besondere von den
 Kursusleitern bzw. den Leitern der Polikliniken und Kliniken nach
 Muster 4 auszustellende Zeugnisse geführt.
 
-
 #### § 37
 
 Außerdem sind der Meldung beizufügen:
@@ -845,10 +788,6 @@ a)  ein eigenhändig geschriebener Lebenslauf, in dem der Gang der
 b)  ein amtliches Führungszeugnis, wenn die Meldung nicht innerhalb von
     sechs Monaten nach der Exmatrikulation erfolgt.
 
-
-
-
-
 #### § 38
 
 (1) Binnen drei Tagen nach Empfang der Zulassungsverfügung hat sich
@@ -858,7 +797,6 @@ persönlich zu melden und hierbei die Zulassungsverfügung vorzulegen.
 (2) Der von dem Vorsitzenden für den ersten Prüfungsabschnitt
 festgesetzte Termin gilt als Tag des Beginns der Prüfung.
 
-
 #### § 39
 
 Zu der Abschlußprüfung ist den Studierenden der Zahnheilkunde der
@@ -866,7 +804,6 @@ Zutritt gestattet, die die zahnärztliche Vorprüfung vollständig
 bestanden haben. Außerdem steht jedem Lehrer in der medizinischen
 Fakultät sowie einem Vertreter der zuständigen Zahnärztekammer der
 Zutritt frei.
-
 
 #### § 40
 
@@ -949,7 +886,6 @@ und der Berufskrankheiten sowie der Strahlenkunde zu berücksichtigen.
 Endlich ist darauf zu achten, daß der Kandidat sprachliches
 Verständnis für die medizinischen Fachausdrücke hat.
 
-
 #### § 41
 
 Die Prüfung in der allgemeinen Pathologie und in der pathologischen
@@ -962,7 +898,6 @@ in einer eingehenden mündlichen Prüfung seine Kenntnisse in der
 allgemeinen Pathologie und den für den Zahnarzt wichtigen Gebieten der
 pathologischen Anatomie nachweisen.
 
-
 #### § 42
 
 Die Prüfung in der Pharmakologie (II) wird von einem Prüfer an einem
@@ -971,7 +906,6 @@ Aufgaben zur Arzneiverordnung schriftlich zu lösen und mündlich
 nachzuweisen, daß er in der allgemeinen Therapie und in der
 Pharmakologie und Toxikologie die für den Zahnarzt erforderlichen
 Kenntnisse hat.
-
 
 #### § 43
 
@@ -982,7 +916,6 @@ Zahnarzt erforderlichen Kenntnisse in der Hygiene, der medizinischen
 Mikrobiologie und in der Gesundheitsfürsorge und ihren Einrichtungen
 erworben hat.
 
-
 #### § 44
 
 In der Prüfung für Innere Medizin (IV), die von einem Prüfer an einem
@@ -991,7 +924,6 @@ Frage kommenden Kranken und weiter in einer mündlichen Prüfung
 nachzuweisen, daß er die für den Zahnarzt erforderlichen Kenntnisse in
 der Inneren Medizin besitzt.
 
-
 #### § 45
 
 Die Prüfung über Haut- und Geschlechtskrankheiten (V) wird an einem
@@ -999,14 +931,12 @@ Tag von einem Prüfer abgehalten. Der Kandidat hat am Kranken
 nachzuweisen, daß er die für den Zahnarzt erforderlichen Kenntnisse
 der Haut- und Geschlechtskrankheiten besitzt.
 
-
 #### § 46
 
 Die Prüfung in den Hals-, Nasen- und Ohrenkrankheiten (VI) wird an
 einem Tag von einem Prüfer abgehalten. Der Kandidat hat nachzuweisen,
 daß er die für den Zahnarzt erforderlichen Kenntnisse auf dem Gebiete
 der Hals-, Nasen- und Ohrenkrankheiten besitzt.
-
 
 #### § 47
 
@@ -1025,7 +955,6 @@ weiteren Kranken seine Fähigkeiten in der Diagnose und Prognose von
 Zahn-, Mund- und Kieferkrankheiten und in einer besonderen mündlichen
 Prüfung eingehende Kenntnisse auf dem Gesamtgebiet dieser Krankheiten
 nachzuweisen.
-
 
 #### § 48
 
@@ -1066,7 +995,6 @@ Kenntnisse und praktischen Fähigkeiten der Radiologie sowie die nach
 der Röntgenverordnung für den Strahlenschutz erforderliche Fachkunde
 nachzuweisen.
 
-
 #### § 49
 
 Die Prüfung in der Zahnerhaltungskunde (IX) wird in der Regel an fünf
@@ -1102,7 +1030,6 @@ die Zahl vier geteilt. Wird in einem Teil das Urteil "nicht genügend"
 oder "schlecht" abgegeben, so kann das Gesamturteil höchstens "nicht
 genügend" lauten.
 
-
 #### § 50
 
 Die Prüfung in der Zahnersatzkunde (X) wird von einem Prüfer und in
@@ -1111,7 +1038,6 @@ theoretischen Kenntnisse über die Planung und Ausführung von
 Behandlungsmaßnahmen auf dem Gebiet der Zahnersatzkunde nachzuweisen
 und sowohl herausnehmbaren wie festsitzenden Zahnersatz anzufertigen
 und einzugliedern.
-
 
 #### § 51
 
@@ -1122,7 +1048,6 @@ mündlichen Prüfung seine theoretischen Kenntnisse über die Genese und
 die Beurteilung von Kieferdeformitäten sowie in der Planung von
 Regulierungsapparaten nachzuweisen und außerdem mindestens eine
 einfache Regulierungsapparatur selbst herzustellen.
-
 
 #### § 52
 
@@ -1160,7 +1085,6 @@ liegt.
 (5) Die Reihenfolge, in der die einzelnen Prüfungsabschnitte zu prüfen
 sind, bestimmt der Vorsitzende.
 
-
 #### § 53
 
 (1) Ist ein Prüfungsabschnitt als "nicht genügend" oder "schlecht"
@@ -1185,7 +1109,6 @@ c)  in zwei der Abschnitte VII bis X und in zwei weiteren Abschnitten oder
 lautet. Sobald feststeht, daß die ganze Abschlußprüfung nicht
 bestanden ist, ist sie nicht fortzusetzen.
 
-
 #### § 54
 
 (1) Der Vorsitzende setzt die Frist für die Wiederholung der nicht
@@ -1209,13 +1132,11 @@ Abschlußprüfung nicht bestanden. Er wird zu einer nochmaligen Prüfung
 nicht zugelassen. Das gilt auch, wenn der Kandidat nach erneutem
 zahnärztlichem Studium die Zulassung zur Abschlußprüfung beantragt.
 
-
 #### § 55
 
 Die Wiederholungsprüfungen müssen außer im praktischen Teil in
 Anwesenheit des Vorsitzenden oder eines seiner Stellvertreter
 stattfinden.
-
 
 #### § 56
 
@@ -1228,7 +1149,6 @@ in einem Zeitraum von zwölf Monaten nach ihrem Beginn, im Falle des §
 54 Abs. 2 nach Beginn der Wiederholungsprüfung, nicht vollständig
 beendet, so gilt sie in allen Abschnitten als nicht bestanden und darf
 nicht wiederholt werden. § 33 Abs. 1 bleibt unberührt.
-
 
 #### § 57
 
@@ -1243,7 +1163,6 @@ bisherigen Prüfung einzutragen.
 
 (2) Ist die Abschlußprüfung endgültig nicht bestanden, so kann die
 Rückgabe der Zeugnisse von Amts wegen erfolgen.
-
 
 #### § 58
 
@@ -1270,10 +1189,7 @@ eingereichten Nachweisen der zuständigen Landesbehörde.
 (3) Über das Bestehen der zahnärztlichen Prüfung stellt der
 Vorsitzende dem Kandidaten ein Zeugnis nach Muster 5 aus.
 
-
 ## III. - Erteilung der Approbation als Zahnarzt
-
-
 
 ### § 59
 
@@ -1347,10 +1263,7 @@ welche Unterlagen fehlen.
 (6) Die Approbationsurkunde wird nach dem Muster der Anlage 6 zu
 dieser Verordnung ausgestellt.
 
-
 ## IV. - Ausnahmebewilligung
-
-
 
 ### § 60
 
@@ -1366,10 +1279,7 @@ Landesbehörde, in deren Bereich die Prüfung begonnen worden ist. Die
 Vorsitzenden der beteiligten Prüfungsausschüsse sind vor der
 Entscheidung zu hören.
 
-
 ## V. - Sonderbestimmungen
-
-
 
 ### § 61
 
@@ -1460,30 +1370,23 @@ Ist die Prüfung bestanden, so ermittelt der Vorsitzende ihr
 Gesamtergebnis in entsprechender Abweichung von der Bestimmung des §
 58 Abs. 1.
 
-
 ## VI. - Schluß- und Übergangsbestimmungen
-
-
 
 ### § 62
 
 -
 
-
 ### § 63 (weggefallen)
 
 -
-
 
 ### § 64
 
 Diese Prüfungsordnung tritt am 1. Mai 1955 in Kraft.
 
-
 ### Schlußformel
 
 Der Bundesminister des Innern
-
 
 ### Anlage 1 (zu § 19 Abs. 4) (Muster 1)
 
@@ -1530,7 +1433,6 @@ Monate abgehaltenen Kursus der technischen Propädeutik entfällt die
 Angabe
 des Halbjahres.
 
-
 ### Anlage 2 (zu § 24 Abs. 1 S. 1) (Muster 2)
 
 (Fundstelle des Originaltextes: BGBl. I 1964, 425)
@@ -1565,7 +1467,6 @@ Der Vorsitzende des Prüfungsausschusses
 \*) Falls der/die Studierende eine Wiederholungsprüfung abzulegen hat,
 sind
 die Worte "und das Gesamtergebnis ..." zu streichen.
-
 
 ### Anlage 2a (zu § 24 Abs. 1 letzter Satz) (Muster 2 a)
 
@@ -1609,7 +1510,6 @@ Der Vorsitzende des Prüfungsausschusses
 das
 Gesamtergebnis ..." zu streichen.
 
-
 ### Anlage 3 (zu § 31 Abs. 2) (Muster 3)
 
 (Fundstelle des Originaltextes: BGBl. I 1964, 427)
@@ -1646,7 +1546,6 @@ Der Vorsitzende des Prüfungsausschusses
 \*) Falls der/die Studierende eine Wiederholungsprüfung abzulegen hat,
 sind
 die Worte "und das Gesamtergebnis ..." zu streichen.
-
 
 ### Anlage 3a (zu § 31 Abs. 2) (Muster 3 a)
 
@@ -1693,7 +1592,6 @@ Der Vorsitzende des Prüfungsausschusses
 das
 Gesamtergebnis ..." zu streichen.
 
-
 ### Anlage 4 (zu § 36 Abs. 2) (Muster 4)
 
 (Fundstelle des Originaltextes: BGBl. I 1955, 50)
@@ -1725,7 +1623,6 @@ besucht
 (Unterschrift des Leiters der Klinik
 - Poliklinik - oder des Kursus)
 
-
 ### Anlage 5 (zu § 58 Abs 3) (Muster 5)
 
 (Fundstelle des Originaltextes: BGBl. I 1955, 51)
@@ -1746,7 +1643,6 @@ bestanden.
 Der Vorsitzende des Prüfungsausschusses
 ........................................
 (Unterschrift)
-
 
 ### Anlage 6 (zu § 59 Abs 6)
 

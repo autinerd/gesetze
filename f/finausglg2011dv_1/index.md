@@ -16,13 +16,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 518
 
-
 ## Eingangsformel
 
 Auf Grund des § 14 Absatz 4 und des § 17 Absatz 2 des
 Finanzausgleichsgesetzes vom 20. Dezember 2001 (BGBl. I S. 3955, 3956)
 verordnet das Bundesministerium der Finanzen:
-
 
 ## § 1 Vollzug der Umsatzsteuerverteilung und des Finanzausgleichs im Ausgleichsjahr 2011
 
@@ -149,11 +147,9 @@ den Ländern zusammen mit dem Länderanteil an der Einfuhrumsatzsteuer
 in monatlichen Teilbeträgen jeweils zum 15. des Folgemonats
 überwiesen.
 
-
 ## § 2 Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 2011 in Kraft.
-
 
 ## Schlussformel
 

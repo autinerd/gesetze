@@ -15,15 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1953, 1074
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 14 des Gesetzes über die Angelegenheiten der
 Vertriebenen und Flüchtlinge (Bundesvertriebenengesetz) vom 19. Mai
 1953 (Bundesgesetzbl. I S. 201) verordnet die Bundesregierung mit
 Zustimmung des Bundesrates:
-
 
 ## § 1
 
@@ -39,14 +36,12 @@ Bundesvertriebenengesetzes gleichgestellt.
 und 3,              Abs. 2 Nr. 4 und Abs. 3 des
 Bundesvertriebenengesetzes findet sinngemäß Anwendung.
 
-
 ## § 2
 
 Nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar 1952
 (Bundesgesetzbl. I S. 1) in Verbindung mit § 107 des
 Bundesvertriebenengesetzes vom 19. Mai 1953 gilt diese Verordnung auch
 im Land Berlin.
-
 
 ## § 3
 

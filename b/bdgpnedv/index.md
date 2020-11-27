@@ -17,13 +17,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1238
 
-
 ## Eingangsformel
 
 Auf Grund des § 83 Absatz 1 Satz 2 des Bundesdisziplinargesetzes vom
 9\. Juli 2001 (BGBl. I S. 1510) verordnet das Bundesministerium der
 Finanzen im Einvernehmen mit dem Bundesministerium des Innern:
-
 
 ## § 1 Zuständigkeitsübertragung
 
@@ -64,16 +62,11 @@ Finanzen als oberste Dienstbehörde
     Ämtern oberhalb der Besoldungsgruppe A 13 sowie für die Kuratorin oder
     den Kurator der Museumsstiftung Post und Telekommunikation.
 
-
-
-
-
 ## § 2 Übergangsvorschrift
 
 Behördliche oder gerichtliche Disziplinarverfahren, die vor dem
 Inkrafttreten dieser Verordnung eingeleitet worden sind, werden nach
 bisherigem Recht fortgeführt.
-
 
 ## § 3 Inkrafttreten, Außerkrafttreten
 

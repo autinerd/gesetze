@@ -19,8 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 28.6.2011 I 1278
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 51 Abs. 3 Satz 1 und des § 44 Abs. 7 Satz 1 des
@@ -32,10 +30,7 @@ für Finanzdienstleistungsaufsicht, § 1 Nr. 3 neu gefasst durch Artikel
 Bundesanstalt für Finanzdienstleistungsaufsicht nach Anhörung der
 Deutschen Bundesbank:
 
-
 ## Abschnitt 1 - Allgemeine Vorschriften
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -48,7 +43,6 @@ Anrechnung von Derivaten auf die Anlagegrenzen.
 Investition in Derivate nach den jeweiligen Vertragsbedingungen
 zulässig ist, mit Ausnahme der Sondervermögen mit zusätzlichen Risiken
 nach § 112 des Investmentgesetzes.
-
 
 ### § 2 Einsatz von Derivaten
 
@@ -69,9 +63,7 @@ nach dem Investmentgesetz und den jeweiligen Vertragsbedingungen
 zulässigen Vermögensgegenstände im Sondervermögen eingegangen werden
 dürfen.
 
-
 ### § 3 (weggefallen)
-
 
 ### § 4 Liefer- und Zahlungsverpflichtungen; Deckung
 
@@ -89,7 +81,6 @@ Die Kapitalanlagegesellschaft muss sicherstellen, dass
 Für die Zwecke des Satzes 1 Nummer 2 ist die Deckung im Rahmen des
 Risikomanagementprozesses laufend zu überwachen.
 
-
 ### § 5 Interessenkonflikte
 
 Die Kapitalanlagegesellschaft hat insbesondere für Geschäfte, bei
@@ -102,14 +93,9 @@ Prüfungsbericht gemäß § 44 Abs. 5 des Investmentgesetzes hat Angaben
 darüber zu enthalten, ob das festgelegte Verfahren angemessen und
 zweckdienlich ist.
 
-
 ## Abschnitt 2 - Marktrisiko
 
-
-
 ### Unterabschnitt 1 - Anwendungsvorschriften für den qualifizierten und den einfachen Ansatz
-
-
 
 #### § 6 Grundlagen und Abgrenzung
 
@@ -146,7 +132,6 @@ einen vernachlässigbaren Anteil hinaus auf komplexen Strategien
 basiert oder das Sondervermögen über einen vernachlässigbaren Anteil
 hinaus in komplexe Derivate investiert.
 
-
 #### § 7 Aufzeichnungs- und Anzeigepflichten
 
 Die Entscheidung der Kapitalanlagegesellschaft für den einfachen
@@ -163,10 +148,7 @@ der Grenzauslastung innerhalb des qualifizierten Ansatzes nach § 8
 Absatz 1 oder 2 für ein Sondervermögen der Bundesanstalt für
 Finanzdienstleistungsaufsicht (Bundesanstalt) unverzüglich anzuzeigen.
 
-
 ### Unterabschnitt 2 - Qualifizierter Ansatz
-
-
 
 #### § 8 Risikobegrenzung
 
@@ -179,7 +161,6 @@ Vergleichsvermögens übersteigen.
 Risikobetrag für das Marktrisiko zu keinem Zeitpunkt 20 Prozent des
 Wertes des Sondervermögens übersteigen.
 
-
 #### § 8a Abgrenzung
 
 Im Rahmen des qualifizierten Ansatzes kann die
@@ -190,7 +171,6 @@ Methode entsprechend § 6 Absatz 2 in eigener Verantwortung. Die
 Methode muss bezüglich des Risikoprofils und der Anlagestrategie des
 Sondervermögens angemessen sein. Die Methode ist in der Regel
 kontinuierlich zu verwenden.
-
 
 #### § 9 Zugehöriges Vergleichsvermögen
 
@@ -229,7 +209,6 @@ Bundesanstalt mit Ausnahme von Vergleichsmaßstäben für Spezial-
 Sondervermögen nach § 91 des Investmentgesetzes unverzüglich und
 nachvollziehbar anzuzeigen.
 
-
 #### § 10 Potenzieller Risikobetrag für das Marktrisiko
 
 (1) Der potenzielle Risikobetrag für das Marktrisiko ist mit Hilfe
@@ -256,7 +235,6 @@ Eignungsprüfung zu wiederholen, bleibt unberührt. Sofern
 Eignungserfordernisse nicht eingehalten sind, kann die Bundesanstalt
 geeignete Maßnahmen veranlassen.
 
-
 #### § 11 Quantitative Vorgaben
 
 Bei Ermittlung des potenziellen Risikobetrags für das Marktrisiko ist
@@ -282,7 +260,6 @@ Wahrscheinlichkeitsniveau von 95 Prozent zulässig. Der Prozentsatz in
 Nummer 3 ist nur aufgrund außergewöhnlicher Marktbedingungen und nach
 vorheriger Zustimmung der Bundesanstalt im Sinne des § 10 Absatz 2
 Satz 2 zulässig.
-
 
 #### § 12 Zu erfassende Risikofaktoren
 
@@ -312,7 +289,6 @@ im jeweiligen Markt verfügbar.
 Entwicklung der Kurse oder Preise von Produktgruppen und Produkten
 sowie Unterschiede in der Entwicklung von Kassa- und Terminpreisen in
 angemessener Weise zu berücksichtigen.
-
 
 #### § 13 Qualitative Anforderungen
 
@@ -401,7 +377,6 @@ Risikomodells sowie die operationelle Implementierung.
 des § 14 ist regelmäßig, mindestens aber einmal jährlich, von der
 Internen Revision zu überprüfen.
 
-
 #### § 14 Prognosegüte
 
 Die Prognosegüte eines Risikomodells ist mittels eines täglichen
@@ -425,10 +400,7 @@ nach § 11 Satz 1 Nummer 2 und 3 in Verbindung mit § 11 Satz 3 und 4 zu
 umfassen. Übersteigt die Zahl der Ausnahmen ein nicht angemessenes
 Niveau, kann die Bundesanstalt geeignete Maßnahmen veranlassen.
 
-
 ### Unterabschnitt 3 - Einfacher Ansatz
-
-
 
 #### § 15 Risikobegrenzung
 
@@ -439,7 +411,6 @@ zu keinem Zeitpunkt den Wert des Sondervermögens übersteigen.
 Vermögensgegenstände nach § 50 des Investmentgesetzes, die Derivate
 enthalten, so ist in Absatz 1 der Wert des Sondervermögens um den Wert
 dieser Vermögensgegenstände zu vermindern.
-
 
 #### § 16 Anrechnungsbetrag für das Marktrisiko
 
@@ -610,10 +581,6 @@ ist bei
     Wert, den das Delta unter Berücksichtigung aller potenziellen
     Marktszenarien erreichen kann.
 
-
-
-
-
 #### § 16a Unberücksichtigte Derivate
 
 Bei der Ermittlung des Anrechnungsbetrags nach § 16 Absatz 3 dürfen
@@ -636,10 +603,6 @@ unberücksichtigt bleiben:
     und risikolosen liquiden Mitteln äquivalent zu der direkten
     Investition in den zugrunde liegenden Basiswert ist.
 
-
-
-
-
 #### § 17 Zugehöriges Delta
 
 (1) Das zugehörige Delta ist das Verhältnis der Veränderung des Werts
@@ -649,7 +612,6 @@ Werts des Basiswerts.
 (2) Die Kapitalanlagegesellschaft ist verpflichtet, die zugehörigen
 Deltas auf geeignete und anerkannte Weise börsentäglich zu ermitteln,
 zu dokumentieren und der Depotbank mitzuteilen.
-
 
 #### § 17a Anerkennung von Absicherungsgeschäften
 
@@ -727,7 +689,6 @@ darf nicht angewendet werden, wenn dies zu einer falschen Ermittlung
 des Risikoprofils des Sondervermögens führt, wesentliche Risiken
 unberücksichtigt bleiben und die Anwendung der Methode zu einer
 überhöhten Hebelwirkung führt.
-
 
 #### § 17b Absicherungen bei Zinsderivaten
 
@@ -812,10 +773,6 @@ als Summe der
 
 4.  mit 100 Prozent gewichteten verbleibenden offenen Positionen.
 
-
-
-
-
 #### § 17c Wertpapierdarlehen und Pensionsgeschäfte
 
 (1) Die Anlage von Sicherheiten im Rahmen von Wertpapierdarlehen nach
@@ -835,7 +792,6 @@ zusätzlichen Wertpapierdarlehen oder Pensionsgeschäften entsprechend.
 (4) In Pension genommene Wertpapiere oder empfangene Beträge nach § 57
 des Investmentgesetztes gelten als Sicherheiten im Sinne der Absätze 1
 bis 3.
-
 
 #### § 17d Berechnung des Anrechnungsbetrags für strukturierte Sondervermögen
 
@@ -880,17 +836,9 @@ getrennt ermittelt werden, sofern
     Anlagegrenzen nach den §§ 60 und 61 des Investmentgesetzes bezogen auf
     den anfänglichen Wert des Sondervermögens nicht übersteigt.
 
-
-
-
-
 ## Abschnitt 3 - Kreditrisiko
 
-
-
 ### Unterabschnitt 1 - Emittentenrisiko
-
-
 
 #### § 18 Grundsatz
 
@@ -900,9 +848,7 @@ Investmentgesetzes abgeleitet sind, sind bei der Berechnung der
 Auslastung der Anlagegrenzen nach den §§ 60 und 61 des
 Investmentgesetzes (Ausstellergrenzen) einzubeziehen.
 
-
 #### § 19 (weggefallen)
-
 
 #### § 20 Verwendung des einfachen Ansatzes
 
@@ -924,10 +870,7 @@ Kreditderivat nur einen Teil des Kreditrisikos des zugeordneten
 Vermögensgegenstands ab, so ist der verbleibende Teil in die
 Berechnung der Auslastung der Ausstellergrenzen einzubeziehen.
 
-
 ### Unterabschnitt 2 - Kontrahentenrisiko
-
-
 
 #### § 21 Abschluss und Bewertung eines OTC-Derivats
 
@@ -950,7 +893,6 @@ der Investment-Verhaltens- und Organisationsverordnung ist bei der
 Bewertung von OTC-Derivaten angemessen zu beteiligen. Die OTC-Derivate
 müssen jederzeit zu einem angemessenen Zeitwert veräußert, liquidiert
 oder durch ein Gegengeschäft glattgestellt werden können.
-
 
 #### § 22 Anrechnungsbetrag für das Kontrahentenrisiko
 
@@ -1065,10 +1007,7 @@ hierfür entsprechend.
 (8) Konzernangehörige Unternehmen im Sinne des § 290 des
 Handelsgesetzbuchs gelten als ein Vertragspartner.
 
-
 ## Abschnitt 4 - Stresstests
-
-
 
 ### § 23 Allgemeine Vorschriften
 
@@ -1098,7 +1037,6 @@ werden. Die Auslagerung der Durchführung der Stresstests bestimmt sich
 nach § 16 des Investmentgesetzes und § 4 Absatz 2 der Investment-
 Verhaltens- und Organisationsverordnung.
 
-
 ### § 24 Qualitative Anforderungen
 
 (1) Die Stresstests müssen sich auf alle Risiken erstrecken, die den
@@ -1119,7 +1057,6 @@ infolge einer Stresssituation Bedeutung erlangen, beispielsweise das
 Risiko ungewöhnlicher Korrelationsveränderungen oder illiquider
 Märkte.
 
-
 ### § 25 Häufigkeit, Anpassung
 
 (1) Die Stresstests sind mindestens monatlich durchzuführen. Darüber
@@ -1133,7 +1070,6 @@ Zusammensetzung des Sondervermögens und die für das Sondervermögen
 relevanten Marktgegebenheiten anzupassen. Bei jeder Änderung der
 Gestaltung der Stresstests sind mindestens einmal der bisherige und
 der geänderte Stresstest parallel durchzuführen.
-
 
 ### § 26 Dokumentation, Überprüfung
 
@@ -1151,10 +1087,7 @@ Angaben darüber zu enthalten, ob die Stresstests gemäß § 24
 ordnungsgemäß gestaltet und gemäß § 25 ordnungsgemäß durchgeführt
 wurden. Die Prüfungspflicht erstreckt sich auch auf § 23 Abs. 4.
 
-
 ## Abschnitt 5 - Strukturierte Produkte mit derivativer Komponente
-
-
 
 ### § 27 Erwerb strukturierter Produkte
 
@@ -1170,7 +1103,6 @@ Ausstellergrenzen gemäß den §§ 18 und 20 in seine Komponenten zu
 zerlegen und als Kombination dieser Komponenten gemäß § 16 Absatz 6
 auf die jeweiligen Anlagegrenzen anzurechnen. Die Zerlegung ist
 nachvollziehbar zu dokumentieren.
-
 
 ### § 28 Organisation
 
@@ -1212,10 +1144,7 @@ Richtlinie festgelegte Verfahren von der Kapitalanlagegesellschaft
 gemäß Absatz 1 ordnungsgemäß gestaltet und durchgeführt wurde.
 Unzulänglichkeiten des Verfahrens sind aufzuzeigen.
 
-
 ## Abschnitt 6 - Besondere Veröffentlichungs- und Meldebestimmungen
-
-
 
 ### § 28a Angaben im Verkaufsprospekt
 
@@ -1238,7 +1167,6 @@ Ablauf der Dauer des Sondervermögens nicht zu der festgelegten
 Auszahlung führen und möglicherweise signifikante Verluste
 resultieren, enthalten.
 
-
 ### § 28b Angaben im Jahresbericht
 
 (1) Die zur Ermittlung der Grenzauslastung nach § 6 verwendete Methode
@@ -1256,7 +1184,6 @@ Geschäftsjahr genutzte Hebelwirkung anzugeben.
 (3) Sofern die Grenzauslastung nach § 8 Absatz 1 ermittelt wird, muss
 der Jahresbericht die Zusammensetzung des Vergleichsvermögens nach § 9
 enthalten.
-
 
 ### § 28c Berichte über Derivate
 
@@ -1303,10 +1230,7 @@ Marktaufsichtsbehörde und dem Europäischen Ausschuss für Systemrisiken
 die nach den Absätzen 1 und 2 eingehenden Informationen zum Zweck der
 Überwachung von Systemrisiken übermitteln.
 
-
 ## Abschnitt 7 - Schlussbestimmungen
-
-
 
 ### § 29 Anwendbarkeit
 
@@ -1314,14 +1238,12 @@ Die Vorschriften dieser Verordnung sind auf die Tätigkeit einer
 Investmentaktiengesellschaft unter Berücksichtigung des § 99 Abs. 3
 des Investmentgesetzes entsprechend anzuwenden.
 
-
 ### § 30 Übergangsbestimmung
 
 Eine Kapitalanlagegesellschaft darf auf die am 1. Juli 2011
 bestehenden Sondervermögen, die keine richtlinienkonformen
 Sondervermögen sind, diese Verordnung in der vor dem 1. Juli 2011
 geltenden Fassung noch bis zum 31. Dezember 2012 weiter anwenden.
-
 
 ### § 31 Inkrafttreten
 

@@ -18,19 +18,16 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 54 G v. 17.12.2008 I 2586
 
-
 ## Eingangsformel
 
 Die Reichsregierung hat das folgende Gesetz beschlossen, das hiermit
 verkündet wird:
-
 
 ## § 1
 
 Der Familienname eines deutschen Staatsangehörigen oder eines
 Staatenlosen, der seinen Wohnsitz oder gewöhnlichen Aufenthalt im
 Deutschen Reich hat, kann auf Antrag geändert werden.
-
 
 ## § 2
 
@@ -48,7 +45,6 @@ Satz 1, wenn er als beschränkt Geschäftsfähiger das sechzehnte
 Lebensjahr vollendet hat, sowie in den Fällen des Absatzes 1 Satz 2 zu
 dem Antrag zu hören.
 
-
 ## § 3
 
 (1) Ein Familienname darf nur geändert werden, wenn ein wichtiger
@@ -58,7 +54,6 @@ Grund die Änderung rechtfertigt.
 festzustellen; dabei sollen insbesondere außer den unmittelbar
 Beteiligten die zuständige Ortspolizeibehörde und solche Personen
 gehört werden, deren Rechte durch die Namensänderung berührt werden.
-
 
 ## § 3a
 
@@ -75,7 +70,6 @@ betroffen waren.
 (2) Absatz 1 gilt auch für deutsche Staatsangehörige, auf die der
 frühere Name durch Ableitung übergegangen wäre.
 
-
 ## § 4
 
 Die Änderung des Familiennamens erstreckt sich, soweit nicht bei der
@@ -83,7 +77,6 @@ Entscheidung etwas anderes bestimmt wird, auf Kinder der Person, deren
 Name geändert wird, sofern die Kinder bislang den Namen dieser Person
 getragen haben und für die Kinder die elterliche Sorge dieser Person
 besteht.
-
 
 ## § 5
 
@@ -98,7 +91,6 @@ Reichsminister des Innern              die zuständige Behörde.
 Namensänderung, so kann der Antrag bei jeder Behörde gestellt werden,
 die zur Entgegennahme auch nur eines Antrags zuständig ist.
 
-
 ## § 6
 
 Zur Änderung eines Familiennamens ist die höhere Verwaltungsbehörde
@@ -106,11 +98,9 @@ zuständig. Der
 Reichsminister des Innern              kann sich die Entscheidung
 vorbehalten.
 
-
 ## § 7
 
 -
-
 
 ## § 8
 
@@ -136,7 +126,6 @@ zum Gegenstand, so ist es
 auf Verlangen des Reichsministers des Innern              auszusetzen,
 bis der Name nach Absatz 1 festgestellt ist.
 
-
 ## § 9
 
 Die untere Verwaltungsbehörde veranlasst die Folgebeurkundung über die
@@ -147,14 +136,12 @@ Betroffenen zuständige Meldebehörde von der Änderung oder Feststellung
 des Namens. Die Mitteilungen nach den Sätzen 1 und 2 bedürfen der
 Schriftform.
 
-
 ## § 10
 
 Die §§ 1355,
 1577,              1706, 1719, 1736,
 1758              und 1772 des Bürgerlichen Gesetzbuchs bleiben
 unberührt.
-
 
 ## § 11
 
@@ -164,11 +151,9 @@ Verwaltungsbehörde zusteht;
 die Beschwerde geht an die höhere Verwaltungsbehörde, die endgültig
 entscheidet.
 
-
 ## § 12
 
 -
-
 
 ## § 13
 
@@ -176,14 +161,12 @@ Der
 Reichsminister des Innern              erläßt die zur Durchführung ...
 dieses Gesetzes erforderlichen Rechts- und Verwaltungsvorschriften.
 
-
 ## § 13a
 
 Die Landesregierungen werden ermächtigt, durch Rechtsverordnung die
 zuständigen Behörden abweichend von § 5 Abs. 1 Satz 1, §§ 6, 8, 9 und
 11 zu bestimmen. Sie können diese Ermächtigung auf oberste
 Landesbehörden übertragen.
-
 
 ## § 14
 

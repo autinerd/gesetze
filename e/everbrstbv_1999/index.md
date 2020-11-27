@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 7 V v. 1.7.2011 I 1308
 
-
 ## Eingangsformel
 
 Auf Grund
@@ -58,7 +57,6 @@ Auf Grund
 
 
 verordnet das Bundesministerium der Finanzen:
-
 
 ## § 1 Steuerbefreiungen
 
@@ -133,7 +131,6 @@ I S. 73), die zuletzt durch Artikel 3 der Verordnung vom 22. Dezember
 2003 (BGBl. 2004 I S. 21) geändert worden ist, in der jeweils
 geltenden Fassung.
 
-
 ## § 2 Warenmuster oder -proben von geringem Wert
 
 (1) Die Steuerbefreiung nach § 1 Absatz 1 Nummer 1 Buchstabe c gilt
@@ -168,13 +165,11 @@ vom 26.5.1988, S. 42) in der am 19. Oktober 1992 geltenden Fassung und
 der bis zu diesem Zeitpunkt zur Durchführung der Verordnung (EWG) Nr.
 2658/87 erlassenen Rechtsvorschriften.
 
-
 ## § 3 Waren zu Prüfungs- und Analyse- oder Versuchszwecken
 
 Bei der Einfuhr von Waren zu Prüfungs-, Analyse- oder Versuchszwecken
 sind Energieerzeugnisse von der Verbrauchsteuerbefreiung
 ausgeschlossen.
-
 
 ## § 4 Rückwaren
 
@@ -189,12 +184,10 @@ Voraussetzungen des Satzes 1 wird Verbrauchsteuerbefreiung auch für
 Waren gewährt, die in Artikel 185 Abs. 2 Buchstabe b der Verordnung
 (EWG) Nr. 2913/92 aufgeführt sind.
 
-
 ## § 5 Andere Steuerbefreiungen
 
 Einzelsteuergesetze, die weitere, auch für eingeführte Waren geltende
 Verbrauchsteuerbefreiungen vorsehen, bleiben unberührt.
-
 
 ## Schlußformel
 

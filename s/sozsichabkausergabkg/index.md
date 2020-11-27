@@ -17,12 +17,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 2007, 1938
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -43,7 +41,6 @@ zwischenstaatlichen Übereinkünften wird zugestimmt:
 
 Das Ergänzungsabkommen und die Durchführungsvereinbarung werden
 nachstehend veröffentlicht.
-
 
 ## Art 2
 
@@ -67,10 +64,6 @@ Gegenstände Regelungen getroffen  werden:
 
 3.  die Zuständigkeit der Versicherungsträger oder anderer im
     Ergänzungsabkommen  genannter Stellen und Behörden.
-
-
-
-
 
 ## Art 3
 

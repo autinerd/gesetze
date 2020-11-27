@@ -21,7 +21,6 @@ Europäischen Parlaments und des Rates vom 25. Juni 2002 über die
 Bewertung und Bekämpfung von Umgebungslärm (ABl. EG Nr. L 189 S. 12)
 in deutsches Recht.
 
-
 ## Eingangsformel
 
 Auf Grund des § 47f des Bundes-Immissionsschutzgesetzes, der durch
@@ -30,13 +29,11 @@ Bewertung und Bekämpfung von Umgebungslärm vom 24. Juni 2005 (BGBl. I
 S. 1794) eingefügt worden ist, verordnet die Bundesregierung nach
 Anhörung der beteiligten Kreise:
 
-
 ## § 1 Anwendungsbereich
 
 Diese Verordnung gilt für die Kartierung von Umgebungslärm. Sie
 konkretisiert Anforderungen an Lärmkarten nach § 47c des Bundes-
 Immissionsschutzgesetzes.
-
 
 ## § 2 Lärmindizes
 
@@ -118,7 +115,6 @@ Behörden unentgeltlich zur Verfügung zu stellen.
 (3) Andere Behörden haben den für die Ausarbeitung der Lärmkarten
 zuständigen Behörden die dort vorhandenen und für die Lärmkarten
 erforderlichen Daten unentgeltlich zur Verfügung zu stellen.
-
 
 ## § 4 Ausarbeitung von Lärmkarten
 
@@ -233,7 +229,6 @@ Entsprechendes gilt für die Zahl der Wohnungen, Schulen und
 Krankenhäuser. Bei der Zahlenangabe für Wohnungen ist auf 100
 Wohnungen zu runden.
 
-
 ## § 5 Berechnungsverfahren
 
 (1) Die Lärmindizes werden nach Verfahren berechnet, die den allgemein
@@ -277,7 +272,6 @@ zu dem DGM-D verwendet werden.
 Einwohnerdaten zu verwenden. Gleiches gilt für sonstige Bauwerke auf
 dem Ausbreitungsweg.
 
-
 ## § 6 Übermittlung der Lärmkarten
 
 (1) Die nach § 47e Abs. 2 und 3 des Bundes-Immissionsschutzgesetzes
@@ -291,7 +285,6 @@ zuständigen Behörden übermitteln zu den in § 47c Abs. 1 des Bundes-
 Immissionsschutzgesetzes aufgeführten Fristen den obersten
 Landesbehörden oder den von ihnen benannten Stellen die vollständigen
 Lärmkarten.
-
 
 ## § 7 Information der Öffentlichkeit über Lärmkarten
 
@@ -308,11 +301,9 @@ Unterrichtung der Öffentlichkeit können auch dadurch erfüllt werden,
 dass Verknüpfungen zu Internet-Seiten eingerichtet werden, auf denen
 die zu verbreitenden Lärmkarten zu finden sind.
 
-
 ## § 8 Inkrafttreten
 
 Diese Verordnung tritt am 16. März 2006 in Kraft.
-
 
 ## Schlussformel
 

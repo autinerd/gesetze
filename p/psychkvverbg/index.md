@@ -16,11 +16,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1986, 324
 
-
-
 ## (XXXX) Art 1 bis 3
-
-
 
 ## Art 4 Berlin-Klausel
 
@@ -28,7 +24,6 @@ Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin. Rechtsverordnungen, die auf
 Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14
 des Dritten Überleitungsgesetzes.
-
 
 ## Art 5 Inkrafttreten und Übergangsvorschrift
 

@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 15 Abs. 111 G v. 5.2.2009 I 160
 
-
 ## § 8 Zusammensetzung und Rechtsstellung des Vorstands
 
 (1) Der Vorstand besteht aus einem Vorsitzer und weiteren Mitgliedern.
@@ -58,7 +57,6 @@ Abberufung beantragen. Im Falle der Beendigung des Amtsverhältnisses
 erhält das Vorstandsmitglied eine vom Bundespräsidenten vollzogene
 Urkunde. Die Entlassung wird mit der Aushändigung der Urkunde wirksam.
 
-
 ## § 8a Rechte und Pflichten der Vorstandsmitglieder
 
 (1) Die Vorstandsmitglieder dürfen neben ihrem Amt kein anderes
@@ -83,7 +81,6 @@ Haftung, durch Verträge geregelt, die der Bundesminister für Verkehr
 mit den Vorstandsmitgliedern schließt. Die Verträge bedürfen der
 Zustimmung der Bundesregierung.
 
-
 ## § 8b Ernennung von Beamten zu Vorstandsmitgliedern
 
 (1) Wird ein Bundesbeamter in ein Amtsverhältnis nach § 8 berufen, so
@@ -106,7 +103,6 @@ Amtsverhältnisses erdient hätte.
 
 (3) Die Absätze 1 und 2 gelten entsprechend für Richter im
 Bundesdienst und Berufssoldaten.
-
 
 ## § 9 Aufgaben des Vorstands
 
@@ -139,7 +135,6 @@ zu erteilen.
 Bundesbahn auf; sie wird vom Verwaltungsrat beschlossen und bedarf der
 Genehmigung des Bundesministers für Verkehr.
 
-
 ## § 9a Stellvertretende Vorstandsmitglieder
 
 (1) Höchstens drei stellvertretende Vorstandsmitglieder können vom
@@ -159,7 +154,6 @@ beratender Stimme teil. § 9 Abs. 3 gilt entsprechend.
 Vorstandsmitglied auf dessen Verlangen oder auf Vorschlag des
 Bundesministers für Verkehr. § 8 Abs. 4 Satz 2 bis 5 gilt
 entsprechend.
-
 
 ## § 19a Rechtsverhältnisse von Inhabern leitender Dienstposten
 
@@ -186,7 +180,6 @@ Die Inhaber folgender leitender Dienstposten stehen in einem
 Sie führen eine der in Nummer 1 bis 5 genannten Amtsbezeichnungen. § 8
 Abs. 1 Satz 4 und 5, Abs. 2 Satz 2, 3 und 5, Abs. 3 sowie die §§ 8a,
 8b und 9a Abs. 3 gelten entsprechend.
-
 
 ## § 23 Belohnungen und Vergütungen
 

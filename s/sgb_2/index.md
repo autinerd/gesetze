@@ -22,10 +22,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 G v. 20.12.2012 I 2781
 
-
 ## Kapitel 1 - Fördern und Fordern
-
-
 
 ### § 1 Aufgabe und Ziel der Grundsicherung für Arbeitsuchende
 
@@ -80,10 +77,6 @@ dass
 
 2.  zur Sicherung des Lebensunterhalts.
 
-
-
-
-
 ### § 2 Grundsatz des Forderns
 
 (1) Erwerbsfähige Leistungsberechtigte und die mit ihnen in einer
@@ -103,7 +96,6 @@ Mitteln und Kräften zu bestreiten. Erwerbsfähige Leistungsberechtigte
 müssen ihre Arbeitskraft zur Beschaffung des Lebensunterhalts für sich
 und die mit ihnen in einer Bedarfsgemeinschaft lebenden Personen
 einsetzen.
-
 
 ### § 3 Leistungsgrundsätze
 
@@ -172,7 +164,6 @@ werden kann; die nach diesem Buch vorgesehenen Leistungen decken den
 Bedarf der erwerbsfähigen Leistungsberechtigten und der mit ihnen in
 einer Bedarfsgemeinschaft lebenden Personen.
 
-
 ### § 4 Leistungsformen
 
 (1) Die Leistungen der Grundsicherung für Arbeitsuchende werden
@@ -203,7 +194,6 @@ Ort zusammen. Sie sollen die Eltern unterstützen und in geeigneter
 Weise dazu beitragen, dass Kinder und Jugendliche Leistungen für
 Bildung und Teilhabe möglichst in Anspruch nehmen.
 
-
 ### § 5 Verhältnis zu anderen Leistungen
 
 (1) Auf Rechtsvorschriften beruhende Leistungen Anderer, insbesondere
@@ -224,7 +214,6 @@ ohne Verschulden der Leistungsträger nach diesem Buch verstrichen
 sind, wirkt nicht gegen die Leistungsträger nach diesem Buch; dies
 gilt nicht für Verfahrensfristen, soweit die Leistungsträger nach
 diesem Buch das Verfahren selbst betreiben.
-
 
 ### § 6 Träger der Grundsicherung für Arbeitsuchende
 
@@ -261,7 +250,6 @@ erfolgen kann.
 Vorschriften dieses Gesetzes über die Zuständigkeit von Behörden für
 die Grundsicherung für Arbeitsuchende dem besonderen Verwaltungsaufbau
 ihrer Länder anzupassen.
-
 
 ### § 6a Zugelassene kommunale Träger
 
@@ -358,7 +346,6 @@ Nummer 2 bis 5 gilt bei Erweiterung der Zulassung entsprechend. Der
 Antrag nach Satz 1 kann bis zum 1. Juli eines Kalenderjahres mit
 Wirkung zum 1. Januar des folgenden Kalenderjahres gestellt werden.
 
-
 ### § 6b Rechtsstellung der zugelassenen kommunalen Träger
 
 (1) Die zugelassenen kommunalen Träger sind anstelle der Bundesagentur
@@ -402,7 +389,6 @@ die er zu Lasten des Bundes ohne Rechtsgrund erlangt hat. Der zu
 erstattende Betrag ist während des Verzugs zu verzinsen. Der
 Verzugszinssatz beträgt für das Jahr 3 Prozentpunkte über dem
 Basiszinssatz.
-
 
 ### § 6c Personalübergang bei Zulassung weiterer kommunaler Träger und bei Beendigung der Trägerschaft
 
@@ -488,16 +474,12 @@ Arbeitsentgelt bei dem abgebenden Träger zum Zeitpunkt des Übertritts
 und dem jeweiligen Arbeitsentgelt bei dem aufnehmenden Träger zu
 zahlen.
 
-
 ### § 6d Jobcenter
 
 Die gemeinsamen Einrichtungen nach § 44b und die zugelassenen
 kommunalen Träger nach § 6a führen die Bezeichnung Jobcenter.
 
-
 ## Kapitel 2 - Anspruchsvoraussetzungen
-
-
 
 ### § 7 Leistungsberechtigte
 
@@ -677,10 +659,6 @@ Sicherung des Lebensunterhalts.
     Bundesausbildungsförderungsgesetzes keinen Anspruch auf
     Ausbildungsförderung haben.
 
-
-
-
-
 ### § 7a Altersgrenze
 
 Personen, die vor dem 1. Januar 1947 geboren sind, erreichen die
@@ -825,10 +803,6 @@ wird die Altersgrenze wie folgt angehoben:
 
     *   67 Jahren.
 
-
-
-
-
 ### § 8 Erwerbsfähigkeit
 
 (1) Erwerbsfähig ist, wer nicht wegen Krankheit oder Behinderung auf
@@ -841,7 +815,6 @@ erwerbstätig sein, wenn ihnen die Aufnahme einer Beschäftigung erlaubt
 ist oder erlaubt werden könnte. Die rechtliche Möglichkeit, eine
 Beschäftigung vorbehaltlich einer Zustimmung nach § 39 des
 Aufenthaltsgesetzes aufzunehmen, ist ausreichend.
-
 
 ### § 9 Hilfebedürftigkeit
 
@@ -879,7 +852,6 @@ möglich ist oder für den dies eine besondere Härte bedeuten würde.
 Verschwägerten, so wird vermutet, dass sie von ihnen Leistungen
 erhalten, soweit dies nach deren Einkommen und Vermögen erwartet
 werden kann.
-
 
 ### § 10 Zumutbarkeit
 
@@ -945,7 +917,6 @@ zumutbar, es sei denn, dass
 (3) Die Absätze 1 und 2 gelten für die Teilnahme an Maßnahmen zur
 Eingliederung in Arbeit entsprechend.
 
-
 ### § 11 Zu berücksichtigendes Einkommen
 
 (1) Als Einkommen zu berücksichtigen sind Einnahmen in Geld oder
@@ -974,7 +945,6 @@ Leistungsanspruch durch die Berücksichtigung in einem Monat, ist die
 einmalige Einnahme auf einen Zeitraum von sechs Monaten gleichmäßig
 aufzuteilen und monatlich mit einem entsprechenden Teilbetrag zu
 berücksichtigen.
-
 
 ### § 11a Nicht zu berücksichtigendes Einkommen
 
@@ -1038,10 +1008,6 @@ berücksichtigen, soweit
 
 2.  sie die Lage der Leistungsberechtigten nicht so günstig beeinflussen,
     dass daneben Leistungen nach diesem Buch nicht gerechtfertigt wären.
-
-
-
-
 
 ### § 11b Absetzbeträge
 
@@ -1130,7 +1096,6 @@ Anstelle des Betrages von 1 200 Euro tritt für erwerbsfähige
 Leistungsberechtigte, die entweder mit mindestens einem minderjährigen
 Kind in Bedarfsgemeinschaft leben oder die mindestens ein
 minderjähriges Kind haben, ein Betrag von 1 500 Euro.
-
 
 ### § 12 Zu berücksichtigendes Vermögen
 
@@ -1235,7 +1200,6 @@ für Arbeitsuchende gestellt wird, bei späterem Erwerb von Vermögen der
 Zeitpunkt des Erwerbs. Wesentliche Änderungen des Verkehrswertes sind
 zu berücksichtigen.
 
-
 ### § 12a Vorrangige Leistungen
 
 Leistungsberechtigte sind verpflichtet, Sozialleistungen anderer
@@ -1253,10 +1217,6 @@ Satz 1 sind Leistungsberechtigte nicht verpflichtet,
     Hilfebedürftigkeit aller Mitglieder der Bedarfsgemeinschaft für einen
     zusammenhängenden Zeitraum von mindestens drei Monaten beseitigt
     würde.
-
-
-
-
 
 ### § 13 Verordnungsermächtigung
 
@@ -1299,14 +1259,9 @@ erwerbsfähige Leistungsberechtigte außerhalb des zeit- und ortsnahen
 Bereichs aufhalten dürfen, ohne Ansprüche auf Leistungen nach diesem
 Buch zu verlieren.
 
-
 ## Kapitel 3 - Leistungen
 
-
-
 #### Abschnitt 1 - Leistungen zur Eingliederung in Arbeit
-
-
 
 ##### § 14 Grundsatz des Förderns
 
@@ -1319,7 +1274,6 @@ Bedarfsgemeinschaft lebenden Personen benennen. Die Träger der
 Leistungen nach diesem Buch erbringen unter Beachtung der Grundsätze
 von Wirtschaftlichkeit und Sparsamkeit alle im Einzelfall für die
 Eingliederung in Arbeit erforderlichen Leistungen.
-
 
 ##### § 15 Eingliederungsvereinbarung
 
@@ -1362,7 +1316,6 @@ Voraussetzungen die oder der erwerbsfähige Leistungsberechtigte
 schadenersatzpflichtig ist, wenn sie oder er die Maßnahme aus einem
 von ihr oder ihm zu vertretenden Grund nicht zu Ende führt.
 
-
 ##### § 15a Sofortangebot
 
 Erwerbsfähigen Personen, die innerhalb der letzten zwei Jahre laufende
@@ -1370,7 +1323,6 @@ Geldleistungen, die der Sicherung des Lebensunterhalts dienen, weder
 nach diesem Buch noch nach dem Dritten Buch bezogen haben, sollen bei
 der Beantragung von Leistungen nach diesem Buch unverzüglich
 Leistungen zur Eingliederung in Arbeit angeboten werden.
-
 
 ##### § 16 Leistungen zur Eingliederung
 
@@ -1458,7 +1410,6 @@ Auftrags nach Satz 1 festzulegen.
 
 (5) (weggefallen)
 
-
 ##### § 16a Kommunale Eingliederungsleistungen
 
 Zur Verwirklichung einer ganzheitlichen und umfassenden Betreuung und
@@ -1478,10 +1429,6 @@ werden:
 
 
 4.  die Suchtberatung.
-
-
-
-
 
 ##### § 16b Einstiegsgeld
 
@@ -1508,7 +1455,6 @@ Berücksichtigung der in Absatz 2 Satz 2 genannten Kriterien auch ein
 Bezug zu dem für die oder den erwerbsfähigen Leistungsberechtigten
 jeweils maßgebenden Regelbedarf herzustellen.
 
-
 ##### § 16c Leistungen zur Eingliederung von Selbständigen
 
 (1) Erwerbsfähige Leistungsberechtigte, die eine selbständige,
@@ -1533,7 +1479,6 @@ innerhalb eines angemessenen Zeitraums dauerhaft überwunden oder
 verringert wird. Zur Beurteilung der Tragfähigkeit der selbständigen
 Tätigkeit soll die Agentur für Arbeit die Stellungnahme einer
 fachkundigen Stelle verlangen.
-
 
 ##### § 16d Arbeitsgelegenheiten
 
@@ -1593,7 +1538,6 @@ Leistungsberechtigten wie Arbeitnehmerinnen und Arbeitnehmer.
 Verrichtung von Arbeiten nach Absatz 1 erforderlichen Kosten,
 einschließlich der Kosten, die bei besonderem Anleitungsbedarf für das
 erforderliche Betreuungspersonal entstehen, erstattet.
-
 
 ##### § 16e Förderung von Arbeitsverhältnissen
 
@@ -1661,10 +1605,6 @@ Arbeitgeber
 2.  eine bisher für das Beschäftigungsverhältnis erbrachte Förderung ohne
     besonderen Grund nicht mehr in Anspruch nimmt.
 
-
-
-
-
 ##### § 16f Freie Förderung
 
 (1) Die Agentur für Arbeit kann die Möglichkeiten der gesetzlich
@@ -1695,7 +1635,6 @@ Maßgabe der §§ 23 und 44 der Bundeshaushaltsordnung zulässig. Bei
 längerfristig angelegten Förderungen ist der Erfolg regelmäßig zu
 überprüfen und zu dokumentieren.
 
-
 ##### § 16g Förderung bei Wegfall der Hilfebedürftigkeit
 
 (1) Entfällt die Hilfebedürftigkeit der oder des Erwerbsfähigen
@@ -1711,7 +1650,6 @@ des Dritten Buches oder nach § 16a Nummer 1 bis 4 und § 16b erbracht
 werden, wenn die Hilfebedürftigkeit der oder des Erwerbsfähigen
 aufgrund des zu berücksichtigenden Einkommens entfallen ist. Während
 der Förderdauer nach Satz 1 gilt § 15 entsprechend.
-
 
 ##### § 17 Einrichtungen und Dienste für Leistungen zur Eingliederung
 
@@ -1743,7 +1681,6 @@ Verband eine Vereinbarung insbesondere über
 
 besteht. Die Vereinbarungen müssen den Grundsätzen der
 Wirtschaftlichkeit, Sparsamkeit und Leistungsfähigkeit entsprechen.
-
 
 ##### § 18 Örtliche Zusammenarbeit
 
@@ -1778,7 +1715,6 @@ ohne Zustimmung des Bundesrates durch Rechtsverordnung zu bestimmen,
 welchen Anforderungen eine Vereinbarung nach Absatz 3 mindestens
 genügen muss.
 
-
 ##### § 18a Zusammenarbeit mit den für die Arbeitsförderung zuständigen Stellen
 
 Beziehen erwerbsfähige Leistungsberechtigte auch Leistungen der
@@ -1796,10 +1732,6 @@ Arbeitsförderung erforderlichen Tatsachen, insbesondere über
 
 
 2.  den Wegfall der Hilfebedürftigkeit bei diesen Personen.
-
-
-
-
 
 ##### § 18b Kooperationsausschuss
 
@@ -1843,7 +1775,6 @@ die erstmalige Bestimmung erfolgt durch die Vertreterinnen und
 Vertreter des Bundesministeriums für Arbeit und Soziales. Der
 Kooperationsausschuss gibt sich eine Geschäftsordnung.
 
-
 ##### § 18c Bund-Länder-Ausschuss
 
 (1) Beim Bundesministerium für Arbeit und Soziales wird ein Ausschuss
@@ -1869,7 +1800,6 @@ können dazu einvernehmlich Vertreterinnen und Vertreter der kommunalen
 Spitzenverbände und der Bundesagentur einladen, sofern dies
 sachdienlich ist.
 
-
 ##### § 18d Örtlicher Beirat
 
 Bei jeder gemeinsamen Einrichtung nach § 44b wird ein Beirat gebildet.
@@ -1885,7 +1815,6 @@ Mitglied des Beirats sein. Der Beirat gibt sich eine Geschäftsordnung.
 Die Sätze 1 bis 5 gelten entsprechend für die zugelassenen kommunalen
 Träger mit der Maßgabe, dass die Berufung der Mitglieder des Beirats
 durch den zugelassenen kommunalen Träger erfolgt.
-
 
 ##### § 18e Beauftragte für Chancengleichheit am Arbeitsmarkt
 
@@ -1930,14 +1859,9 @@ von den Beauftragten vertreten.
 (6) Die Absätze 1 bis 5 gelten entsprechend für die zugelassenen
 kommunalen Träger.
 
-
 ### Abschnitt 2 - Leistungen zur Sicherung des Lebensunterhalts
 
-
-
 #### Unterabschnitt 1 - Leistungsanspruch
-
-
 
 ##### § 19 Arbeitslosengeld II, Sozialgeld und Leistungen für Bildung und Teilhabe
 
@@ -1965,10 +1889,7 @@ nur noch Leistungen für Bildung und Teilhabe zu leisten, deckt
 weiteres zu berücksichtigendes Einkommen und Vermögen die Bedarfe in
 der Reihenfolge der Absätze 2 bis 7 nach § 28.
 
-
 #### Unterabschnitt 2 - Arbeitslosengeld II und Sozialgeld
-
-
 
 ##### § 20 Regelbedarf zur Sicherung des Lebensunterhalts
 
@@ -2018,7 +1939,6 @@ Bundesministerium für Arbeit und Soziales gibt jeweils spätestens zum
 1\. November eines Kalenderjahres die Höhe der Regelbedarfe, die für
 die folgenden zwölf Monate maßgebend sind, im Bundesgesetzblatt
 bekannt.
-
 
 ##### § 21 Mehrbedarfe
 
@@ -2101,7 +2021,6 @@ wird.
 (8) Die Summe des insgesamt anerkannten Mehrbedarfs nach den Absätzen
 2 bis 5 darf die Höhe des für erwerbsfähige Leistungsberechtigte
 maßgebenden Regelbedarfs nicht übersteigen.
-
 
 ##### § 22 Bedarfe für Unterkunft und Heizung
 
@@ -2253,7 +2172,6 @@ Außerdem kann der Tag der Rechtshängigkeit mitgeteilt werden. Die
 Inhalt der Klageschrift offensichtlich nicht auf Zahlungsunfähigkeit
 der Mieterin oder des Mieters beruht.
 
-
 ##### § 22a Satzungsermächtigung
 
 (1) Die Länder können die Kreise und kreisfreien Städte durch Gesetz
@@ -2290,10 +2208,6 @@ Heizung soll die Verhältnisse des einfachen Standards auf dem
 
 
 4.  der Schaffung und Erhaltung sozial ausgeglichener Bewohnerstrukturen.
-
-
-
-
 
 ##### § 22b Inhalt der Satzung
 
@@ -2333,10 +2247,6 @@ insbesondere für Personen, die einen erhöhten Raumbedarf haben wegen
 
 2.  der Ausübung ihres Umgangsrechts.
 
-
-
-
-
 ##### § 22c Datenerhebung, -auswertung und -überprüfung
 
 (1) Zur Bestimmung der angemessenen Aufwendungen für Unterkunft und
@@ -2360,7 +2270,6 @@ als auch Bestandsmieten einfließen. Die Methodik der Datenerhebung und
 bestimmten Werte für die Unterkunft mindestens alle zwei Jahre und die
 durch Satzung bestimmten Werte für die Heizung mindestens jährlich
 überprüfen und gegebenenfalls neu festsetzen.
-
 
 ##### § 23 Besonderheiten beim Sozialgeld
 
@@ -2389,13 +2298,7 @@ Beim Sozialgeld gelten ergänzend folgende Maßgaben:
     einen Mehrbedarf wegen Behinderung nach § 21 Absatz 4 oder nach der
     vorstehenden Nummer 2 oder 3 besteht.
 
-
-
-
-
 #### Unterabschnitt 3 - Abweichende Leistungserbringung und weitere Leistungen
-
-
 
 ##### § 24 Abweichende Erbringung von Leistungen
 
@@ -2461,7 +2364,6 @@ Träger die Übernahme der Leistungen für Unterkunft und Heizung
 zugesichert hat oder vom Erfordernis der Zusicherung abgesehen werden
 konnte.
 
-
 ##### § 25 Leistungen bei medizinischer Rehabilitation der Rentenversicherung und bei Anspruch auf Verletztengeld aus der Unfallversicherung
 
 Haben Leistungsberechtigte dem Grunde nach Anspruch auf Übergangsgeld
@@ -2474,7 +2376,6 @@ einen Monat geleistet, erhalten die Träger der Leistungen nach diesem
 Buch von den zur Leistung verpflichteten Trägern monatliche
 Abschlagszahlungen in Höhe der Vorschüsse des jeweils abgelaufenen
 Monats. § 102 des Zehnten Buches gilt entsprechend.
-
 
 ##### § 26 Zuschuss zu Versicherungsbeiträgen
 
@@ -2520,7 +2421,6 @@ erforderlichen Höhe.
 Satz 1 und 2 ist an das Versicherungsunternehmen zu zahlen, bei dem
 die leistungsberechtigte Person versichert ist.
 
-
 ##### § 27 Leistungen für Auszubildende
 
 (1) Auszubildende im Sinne des § 7 Absatz 5 erhalten Leistungen zur
@@ -2558,10 +2458,7 @@ Leistungen nach den Absätzen 2 und 3 nachrangig.
 (5) Unter den Voraussetzungen des § 22 Absatz 8 können Auszubildenden
 auch Leistungen für die Übernahme von Schulden erbracht werden.
 
-
 #### Unterabschnitt 4 - Leistungen für Bildung und Teilhabe
-
-
 
 ##### § 28 Bedarfe für Bildung und Teilhabe
 
@@ -2636,10 +2533,6 @@ für
 
 3.  die Teilnahme an Freizeiten.
 
-
-
-
-
 ##### § 29 Erbringung der Leistungen für Bildung und Teilhabe
 
 (1) Leistungen zur Deckung der Bedarfe nach § 28 Absatz 2 und 5 bis 7
@@ -2670,14 +2563,9 @@ zweckentsprechende Verwendung der Leistung verlangt werden. Soweit der
 Nachweis nicht geführt wird, soll die Bewilligungsentscheidung
 widerrufen werden.
 
-
 ##### § 30 (weggefallen)
 
-
-
 #### Unterabschnitt 5 - Sanktionen
-
-
 
 ##### § 31 Pflichtverletzungen
 
@@ -2727,10 +2615,6 @@ ist auch anzunehmen, wenn
     einer Sperrzeit erfüllen, die das Ruhen oder Erlöschen eines Anspruchs
     auf Arbeitslosengeld begründen.
 
-
-
-
-
 ##### § 31a Rechtsfolgen bei Pflichtverletzungen
 
 (1) Bei einer Pflichtverletzung nach § 31 mindert sich das
@@ -2777,7 +2661,6 @@ gezahlt werden.
 bei Pflichtverletzungen nach § 31 Absatz 2 Nummer 1 und 2
 entsprechend.
 
-
 ##### § 31b Beginn und Dauer der Minderung
 
 (1) Der Auszahlungsanspruch mindert sich mit Beginn des
@@ -2797,7 +2680,6 @@ Monaten ab dem Zeitpunkt der Pflichtverletzung zulässig.
 Anspruch auf ergänzende Hilfe zum Lebensunterhalt nach den
 Vorschriften des Zwölften Buches.
 
-
 ##### § 32 Meldeversäumnisse
 
 (1) Kommen Leistungsberechtigte trotz schriftlicher Belehrung über die
@@ -2812,10 +2694,7 @@ und nachweisen.
 (2) Die Minderung nach dieser Vorschrift tritt zu einer Minderung nach
 § 31a hinzu. § 31a Absatz 3 und § 31b gelten entsprechend.
 
-
 #### Unterabschnitt 6 - Verpflichtungen Anderer
-
-
 
 ##### § 33 Übergang von Ansprüchen
 
@@ -2896,7 +2775,6 @@ entscheiden.
 (5) Die §§ 115 und 116 des Zehnten Buches gehen der Regelung des
 Absatzes 1 vor.
 
-
 ##### § 34 Ersatzansprüche bei sozialwidrigem Verhalten
 
 (1) Wer nach Vollendung des 18. Lebensjahres vorsätzlich oder grob
@@ -2917,7 +2795,6 @@ dem die Leistung erbracht worden ist. Die Bestimmungen des
 Bürgerlichen Gesetzbuchs über die Hemmung, die Ablaufhemmung, den
 Neubeginn und die Wirkung der Verjährung gelten sinngemäß; der
 Erhebung der Klage steht der Erlass eines Leistungsbescheides gleich.
-
 
 ##### § 34a Ersatzansprüche für rechtswidrig erhaltene Leistungen
 
@@ -2942,7 +2819,6 @@ einem Erben ist § 35 Absatz 3 entsprechend anwendbar.
 (4) Zum Ersatz nach Absatz 1 und zur Erstattung nach § 50 des Zehnten
 Buches Verpflichtete haften als Gesamtschuldner.
 
-
 ##### § 34b Ersatzansprüche nach sonstigen Vorschriften
 
 Bestimmt sich das Recht des Trägers nach diesem Buch, Ersatz seiner
@@ -2955,7 +2831,6 @@ Lebenspartnerin oder den nicht getrennt lebenden Ehegatten oder
 Lebenspartner der leistungsberechtigten Person erbracht wurden sowie
 an deren oder dessen unverheiratete Kinder, die das 25. Lebensjahr
 noch nicht vollendet hatten.
-
 
 ##### § 35 Erbenhaftung
 
@@ -2985,14 +2860,9 @@ begrenzt.
 (3) Der Ersatzanspruch erlischt drei Jahre nach dem Tod der Person,
 die die Leistungen empfangen hat. § 34 Absatz 3 Satz 2 gilt sinngemäß.
 
-
 ## Kapitel 4 - Gemeinsame Vorschriften für Leistungen
 
-
-
 ### Abschnitt 1 - Zuständigkeit und Verfahren
-
-
 
 #### § 36 Örtliche Zuständigkeit
 
@@ -3012,7 +2882,6 @@ oder der erwerbsfähige Leistungsberechtigte tatsächlich aufhält. Für
 nicht erwerbsfähige Personen, deren Leistungsberechtigung sich aus § 7
 Absatz 2 Satz 3 ergibt, gelten die Sätze 1 bis 4 entsprechend.
 
-
 #### § 36a Kostenerstattung bei Aufenthalt im Frauenhaus
 
 Sucht eine Person in einem Frauenhaus Zuflucht, ist der kommunale
@@ -3020,7 +2889,6 @@ Träger am bisherigen gewöhnlichen Aufenthaltsort verpflichtet, dem
 durch die Aufnahme im Frauenhaus zuständigen kommunalen Träger am Ort
 des Frauenhauses die Kosten für die Zeit des Aufenthaltes im
 Frauenhaus zu erstatten.
-
 
 #### § 37 Antragserfordernis
 
@@ -3031,7 +2899,6 @@ Absatz 2, Absatz 4 bis 7 sind gesondert zu beantragen.
 (2) Leistungen nach diesem Buch werden nicht für Zeiten vor der
 Antragstellung erbracht. Der Antrag auf Leistungen zur Sicherung des
 Lebensunterhalts wirkt auf den Ersten des Monats zurück.
-
 
 #### § 38 Vertretung der Bedarfsgemeinschaft
 
@@ -3047,7 +2914,6 @@ stellenden Person.
 hat die umgangsberechtigte Person die Befugnis, Leistungen nach diesem
 Buch zu beantragen und entgegenzunehmen, soweit das Kind dem Haushalt
 angehört.
-
 
 #### § 39 Sofortige Vollziehbarkeit
 
@@ -3070,10 +2936,6 @@ gegen einen Verwaltungsakt,
 
 4.  mit dem nach § 59 in Verbindung mit § 309 des Dritten Buches zur
     persönlichen Meldung bei der Agentur für Arbeit aufgefordert wird.
-
-
-
-
 
 #### § 40 Anwendung von Verfahrensvorschriften
 
@@ -3140,7 +3002,6 @@ Einrichtungen zusammenwirkenden Träger nach diesem Buch gilt das
 Verwaltungs-Vollstreckungsgesetz des Bundes; im Übrigen gilt § 66 des
 Zehnten Buches.
 
-
 #### § 41 Berechnung der Leistungen
 
 (1) Anspruch auf Leistungen zur Sicherung des Lebensunterhalts besteht
@@ -3158,7 +3019,6 @@ durchgeführten Berechnung wird die letzte Dezimalstelle um eins
 erhöht, wenn sich in der folgenden Dezimalstelle eine der Ziffern 5
 bis 9 ergeben würde.
 
-
 #### § 42 Auszahlung der Geldleistungen
 
 Geldleistungen nach diesem Buch werden auf das im Antrag angegebene
@@ -3168,7 +3028,6 @@ Wohnsitz oder gewöhnlichen Aufenthalt der Leistungsberechtigten
 gilt nicht, wenn Leistungsberechtigte nachweisen, dass ihnen die
 Einrichtung eines Kontos bei einem Geldinstitut ohne eigenes
 Verschulden nicht möglich ist.
-
 
 #### § 42a Darlehen
 
@@ -3208,7 +3067,6 @@ fällig. Absatz 4 Satz 2 gilt entsprechend.
 (6) Sofern keine abweichende Tilgungsbestimmung getroffen wird, werden
 Zahlungen, die zur Tilgung der gesamten fälligen Schuld nicht
 ausreichen, zunächst auf das zuerst erbrachte Darlehen angerechnet.
-
 
 #### § 43 Aufrechnung
 
@@ -3250,7 +3108,6 @@ drei Jahre nach dem Monat, der auf die Bestandskraft der in Absatz 1
 genannten Entscheidungen folgt. Zeiten, in denen die Aufrechnung nicht
 vollziehbar ist, verlängern den Aufrechnungszeitraum entsprechend.
 
-
 #### § 43a Verteilung von Teilzahlungen
 
 Teilzahlungen auf Ersatz- und Erstattungsansprüche der Träger nach
@@ -3258,16 +3115,12 @@ diesem Buch gegen Leistungsberechtigte oder Dritte mindern die
 Aufwendungen der Träger der Aufwendungen im Verhältnis des jeweiligen
 Anteils an der Forderung zueinander.
 
-
 #### § 44 Veränderung von Ansprüchen
 
 Die Träger von Leistungen nach diesem Buch dürfen Ansprüche erlassen,
 wenn deren Einziehung nach Lage des einzelnen Falles unbillig wäre.
 
-
 ### Abschnitt 2 - Einheitliche Entscheidung
-
-
 
 #### § 44a Feststellung von Erwerbsfähigkeit und Hilfebedürftigkeit
 
@@ -3345,7 +3198,6 @@ Widerspruch aufrecht, sind die Träger bis zu einer anderen
 Entscheidung der Agentur für Arbeit oder einer gerichtlichen
 Entscheidung an die Feststellung der Agentur für Arbeit gebunden.
 
-
 #### § 44b Gemeinsame Einrichtung
 
 (1) Zur einheitlichen Durchführung der Grundsicherung für
@@ -3389,7 +3241,6 @@ Dienstleistungen zur Verfügung.
 (6) Die Träger teilen der gemeinsamen Einrichtung alle Tatsachen und
 Feststellungen mit, von denen sie Kenntnis erhalten und die für die
 Leistungen erforderlich sind.
-
 
 #### § 44c Trägerversammlung
 
@@ -3489,7 +3340,6 @@ oder der Geschäftsführer berichtet der Trägerversammlung regelmäßig
 Integrationsprogramm der Grundsicherung für Arbeitsuchende unter
 Beachtung von Zielvorgaben der Träger abgestimmt.
 
-
 #### § 44d Geschäftsführerin, Geschäftsführer
 
 (1) Die Geschäftsführerin oder der Geschäftsführer führt hauptamtlich
@@ -3555,7 +3405,6 @@ B, oder die entsprechende landesrechtliche Besoldungsgruppe darf nicht
 Arbeitnehmer darf die für Beamtinnen und Beamte geltende Besoldung
 nicht übersteigen.
 
-
 #### § 44e Verfahren bei Meinungsverschiedenheit über die Weisungszuständigkeit
 
 (1) Zur Beilegung einer Meinungsverschiedenheit über die Zuständigkeit
@@ -3580,7 +3429,6 @@ der Geschäftsführerin oder dem Geschäftsführer die Beschlüsse mit.
 (3) Die Entscheidung des Kooperationsausschusses bindet die Träger.
 Soweit nach anderen Vorschriften der Rechtsweg gegeben ist, wird er
 durch die Anrufung des Kooperationsausschusses nicht ausgeschlossen.
-
 
 #### § 44f Bewirtschaftung von Bundesmitteln
 
@@ -3610,7 +3458,6 @@ Haushaltsmitteln beauftragen.
 
 (5) Auf Beschluss der Trägerversammlung kann die Befugnis nach Absatz
 1 auf die Bundesagentur zurückübertragen werden.
-
 
 #### § 44g Zuweisung von Tätigkeiten bei der gemeinsamen Einrichtung
 
@@ -3659,7 +3506,6 @@ beendet werden. Die Geschäftsführerin oder der Geschäftsführer kann
 der Beendigung nach Nummer 2 aus zwingendem dienstlichem Grund
 widersprechen.
 
-
 #### § 44h Personalvertretung
 
 (1) In den gemeinsamen Einrichtungen wird eine Personalvertretung
@@ -3697,12 +3543,10 @@ abgeben.
 und Arbeitgeber bleiben unberührt, soweit die Entscheidungsbefugnisse
 bei den Trägern verbleiben.
 
-
 #### § 44i Schwerbehindertenvertretung; Jugend- und Auszubildendenvertretung
 
 Auf die Schwerbehindertenvertretung und Jugend- und
 Auszubildendenvertretung ist § 44h entsprechend anzuwenden.
-
 
 #### § 44j Gleichstellungsbeauftragte
 
@@ -3711,7 +3555,6 @@ bestellt. Das Bundesgleichstellungsgesetz gilt entsprechend. Der
 Gleichstellungsbeauftragten stehen die Rechte entsprechend den
 Regelungen des Bundesgleichstellungsgesetzes zu, soweit die
 Trägerversammlung und die Geschäftsführer entscheidungsbefugt sind.
-
 
 #### § 44k Stellenbewirtschaftung
 
@@ -3726,14 +3569,9 @@ der Genehmigung der Träger. Bei Aufstellung und Bewirtschaftung des
 Stellenplanes unterliegt die gemeinsame Einrichtung den Weisungen der
 Träger.
 
-
 #### § 45 (weggefallen)
 
-
-
 ## Kapitel 5 - Finanzierung und Aufsicht
-
-
 
 ### § 46 Finanzierung aus Bundesmitteln
 
@@ -3842,7 +3680,6 @@ gewährleisten, dass geprüft wird, dass die Ausgaben der kommunalen
 Träger begründet und belegt sind und den Grundsätzen der
 Wirtschaftlichkeit und Sparsamkeit entsprechen.
 
-
 ### § 47 Aufsicht
 
 (1) Das Bundesministerium für Arbeit und Soziales führt die Rechts-
@@ -3875,7 +3712,6 @@ seiner Aufgaben nach den Absätzen 1 und 3 auf eine Bundesoberbehörde
 (5) Die aufsichtführenden Stellen sind berechtigt, die Wahrnehmung der
 Aufgaben bei den gemeinsamen Einrichtungen zu prüfen.
 
-
 ### § 48 Aufsicht über die zugelassenen kommunalen Träger
 
 (1) Die Aufsicht über die zugelassenen kommunalen Träger obliegt den
@@ -3894,7 +3730,6 @@ der Rechtsaufsicht auf das Bundesministerium für Arbeit und Soziales
 des Bundesrates allgemeine Verwaltungsvorschriften für die Abrechnung
 der Aufwendungen der Grundsicherung für Arbeitsuchende erlassen.
 
-
 ### § 48a Vergleich der Leistungsfähigkeit
 
 (1) Zur Feststellung und Förderung der Leistungsfähigkeit der
@@ -3909,7 +3744,6 @@ durch Rechtsverordnung mit Zustimmung des Bundesrates die für die
 Vergleiche erforderlichen Kennzahlen sowie das Verfahren zu deren
 Weiterentwicklung und die Form der Veröffentlichung der Ergebnisse
 festzulegen.
-
 
 ### § 48b Zielvereinbarungen
 
@@ -3964,10 +3798,6 @@ Absatz 2 maßgeblich.
 2.  die Selbstbewirtschaftung von Haushaltsmitteln für Leistungen zur
     Eingliederung in Arbeit sowie für Verwaltungskosten zulassen.
 
-
-
-
-
 ### § 49 Innenrevision
 
 (1) Die Bundesagentur stellt durch organisatorische Maßnahmen sicher,
@@ -3985,10 +3815,7 @@ unterstellt, in der es beschäftigt ist.
 (3) Der Vorstand legt die Berichte nach Absatz 1 unverzüglich dem
 Bundesministerium für Arbeit und Soziales vor.
 
-
 ## Kapitel 6 - Datenerhebung, -verarbeitung und -nutzung, datenschutzrechtliche Verantwortung
-
-
 
 ### § 50 Datenübermittlung
 
@@ -4026,7 +3853,6 @@ zentralen Verfahren der Informationstechnik obliegen nach § 24 des
 Bundesdatenschutzgesetzes der oder dem Bundesbeauftragten für den
 Datenschutz und die Informationsfreiheit.
 
-
 ### § 51 Erhebung, Verarbeitung und Nutzung von Sozialdaten durch nichtöffentliche Stellen
 
 Die Träger der Leistungen nach diesem Buch dürfen abweichend von § 80
@@ -4036,7 +3862,6 @@ Arbeit und Bekämpfung von Leistungsmissbrauch nichtöffentliche Stellen
 mit der Erhebung, Verarbeitung und Nutzung von Sozialdaten
 beauftragen, auch soweit die Speicherung der Daten den gesamten
 Datenbestand umfasst.
-
 
 ### § 51a Kundennummer
 
@@ -4057,7 +3882,6 @@ Bedarfsgemeinschaft im Sinne dieser Vorschrift gelten auch ein oder
 mehrere Kinder eines Haushalts, die nach § 7 Absatz 2 Satz 3
 Leistungen erhalten. Bei der Übermittlung der Daten verwenden die
 Träger eine eindeutige, von der Bundesagentur vergebene Trägernummer.
-
 
 ### § 51b Datenerhebung und -verarbeitung durch die Träger der Grundsicherung für Arbeitsuchende
 
@@ -4111,10 +3935,7 @@ Datensätze einschließlich der Datenformate sowie Aufbau, Vergabe,
 Verwendung und Löschungsfristen von Kunden- und
 Bedarfsgemeinschaftsnummern nach § 51a.
 
-
 ### § 51c (weggefallen)
-
-
 
 ### § 52 Automatisierter Datenabgleich
 
@@ -4205,7 +4026,6 @@ Auskunftsstellen durch eine zentrale Vermittlungsstelle (Kopfstelle)
 zu erfolgen hat, deren Zuständigkeitsbereich zumindest das Gebiet
 eines Bundeslandes umfasst.
 
-
 ### § 52a Überprüfung von Daten
 
 (1) Die Agentur für Arbeit darf bei Personen, die Leistungen nach
@@ -4237,10 +4057,7 @@ unverzüglich mit. Die in Absatz 1 und Satz 1 genannten Behörden haben
 die ihnen übermittelten Daten nach Abschluss der Überprüfung
 unverzüglich zu löschen.
 
-
 ## Kapitel 7 - Statistik und Forschung
-
-
 
 ### § 53 Statistik und Übermittlung statistischer Daten
 
@@ -4298,7 +4115,6 @@ Städte sowie der Gemeinden und Gemeindeverbänden übermittelt werden
 dürfen, soweit die Voraussetzungen nach § 16 Absatz 5 Satz 2 des
 Bundesstatistikgesetzes gegeben sind.
 
-
 ### § 53a Arbeitslose
 
 (1) Arbeitslose im Sinne dieses Gesetzes sind erwerbsfähige
@@ -4312,7 +4128,6 @@ sozialversicherungspflichtige Beschäftigung angeboten worden ist,
 gelten nach Ablauf dieses Zeitraums für die Dauer des jeweiligen
 Leistungsbezugs nicht als arbeitslos.
 
-
 ### § 54 Eingliederungsbilanz und Eingliederungsbericht
 
 Jede Agentur für Arbeit erstellt für die Leistungen zur Eingliederung
@@ -4323,7 +4138,6 @@ Indikatoren zu entwickeln, die den Integrationsfortschritt der
 erwerbsfähigen Leistungsberechtigten in geeigneter Weise abbilden. Auf
 Bundesebene erstellt die Bundesagentur einen Eingliederungsbericht; §
 11 Absatz 4 und 5 des Dritten Buches gilt entsprechend.
-
 
 ### § 55 Wirkungsforschung
 
@@ -4339,10 +4153,7 @@ der Wirkungsforschung beauftragt werden.
 vergleichend die Wirkung der örtlichen Aufgabenwahrnehmung durch die
 Träger der Leistungen nach diesem Buch.
 
-
 ## Kapitel 8 - Mitwirkungspflichten
-
-
 
 ### § 56 Anzeige- und Bescheinigungspflicht bei Arbeitsunfähigkeit
 
@@ -4380,7 +4191,6 @@ Höhe der Kostenerstattung; der Medizinische Dienst des Spitzenverbands
 Bund der Krankenkassen ist zu beteiligen. In der Vereinbarung kann
 auch eine pauschale Abgeltung der Kosten geregelt werden.
 
-
 ### § 57 Auskunftspflicht von Arbeitgebern
 
 Arbeitgeber haben der Agentur für Arbeit auf deren Verlangen Auskunft
@@ -4390,7 +4200,6 @@ Agentur für Arbeit kann hierfür die Benutzung eines Vordrucks
 verlangen. Die Auskunftspflicht erstreckt sich auch auf Angaben über
 das Ende und den Grund für die Beendigung des
 Beschäftigungsverhältnisses.
-
 
 ### § 58 Einkommensbescheinigung
 
@@ -4409,13 +4218,11 @@ bezieht und gegen Arbeitsentgelt beschäftigt wird, ist verpflichtet,
 dem Arbeitgeber den für die Bescheinigung des Arbeitsentgelts
 vorgeschriebenen Vordruck unverzüglich vorzulegen.
 
-
 ### § 59 Meldepflicht
 
 Die Vorschriften über die allgemeine Meldepflicht, § 309 des Dritten
 Buches, und über die Meldepflicht bei Wechsel der Zuständigkeit, § 310
 des Dritten Buches, sind entsprechend anzuwenden.
-
 
 ### § 60 Auskunftspflicht und Mitwirkungspflicht Dritter
 
@@ -4473,7 +4280,6 @@ sowie in Listen, Entgeltverzeichnisse und Entgeltbelege für
 Heimarbeiterinnen oder Heimarbeiter zu gewähren, soweit es zur
 Durchführung der Aufgaben nach diesem Buch erforderlich ist.
 
-
 ### § 61 Auskunftspflichten bei Leistungen zur Eingliederung in Arbeit
 
 (1) Träger, die eine Leistung zur Eingliederung in Arbeit erbracht
@@ -4500,7 +4306,6 @@ Die Maßnahmeträger sind verpflichtet, ihre Beurteilungen der
 Teilnehmerin oder des Teilnehmers unverzüglich der Agentur für Arbeit
 zu übermitteln.
 
-
 ### § 62 Schadenersatz
 
 Wer vorsätzlich oder fahrlässig
@@ -4516,10 +4321,7 @@ Wer vorsätzlich oder fahrlässig
 
 ist zum Ersatz des daraus entstehenden Schadens verpflichtet.
 
-
 ## Kapitel 9 - Bußgeldvorschriften
-
-
 
 ### § 63 Bußgeldvorschriften
 
@@ -4561,10 +4363,7 @@ ist zum Ersatz des daraus entstehenden Schadens verpflichtet.
 mit einer Geldbuße bis zu fünftausend Euro, in den übrigen Fällen mit
 einer Geldbuße bis zu zweitausend Euro geahndet werden.
 
-
 ## Kapitel 10 - Bekämpfung von Leistungsmissbrauch
-
-
 
 ### § 64 Zuständigkeit
 
@@ -4600,10 +4399,7 @@ des Gesetzes über Ordnungswidrigkeiten die notwendigen Auslagen. Sie
 ist auch ersatzpflichtig im Sinne des § 110 Absatz 4 des Gesetzes über
 Ordnungswidrigkeiten.
 
-
 ## Kapitel 11 - Übergangs- und Schlussvorschriften
-
-
 
 ### § 65 Allgemeine Übergangsvorschriften
 
@@ -4632,18 +4428,11 @@ vollendetem Lebensjahr ein Freibetrag von 520 Euro, an die Stelle des
 Höchstfreibetrags in Höhe von jeweils 9 750 Euro ein Höchstfreibetrag
 in Höhe von 33 800 Euro tritt.
 
-
 ### § 65a (weggefallen)
-
-
 
 ### § 65b (weggefallen)
 
-
-
 ### § 65c (weggefallen)
-
-
 
 ### § 65d Übermittlung von Daten
 
@@ -4658,7 +4447,6 @@ Erfüllung der Aufgaben nach diesem Buch erforderlich ist.
 Sachkosten, die ihnen durch das Zugänglichmachen von Unterlagen
 entstehen; eine Pauschalierung ist zulässig.
 
-
 ### § 65e Übergangsregelung zur Aufrechnung
 
 Der zuständige Träger der Leistungen nach diesem Buch kann mit
@@ -4668,7 +4456,6 @@ Lebensunterhalts nach den Voraussetzungen des § 43 Absatz 2, 3 und 4
 Satz 1 aufrechnen. Die Aufrechnung wegen eines Anspruchs nach Satz 1
 ist auf die ersten zwei Jahre der Leistungserbringung nach diesem Buch
 beschränkt.
-
 
 ### § 66 Rechtsänderungen bei Leistungen zur Eingliederung in Arbeit
 
@@ -4694,14 +4481,12 @@ anzuwenden, wenn vor diesem Tag
 worden, richtet sich eine Verlängerung nach den zum Zeitpunkt der
 Entscheidung über die Verlängerung geltenden Vorschriften.
 
-
 ### § 67 Freibetragsneuregelungsgesetz
 
 Die §§ 11 und 30 in der bis zum 30. September 2005 geltenden Fassung
 sind weiterhin anzuwenden für Bewilligungszeiträume (§ 41 Absatz 1
 Satz 4), die vor dem 1. Oktober 2005 beginnen, längstens jedoch bis
 zur Aufnahme einer Erwerbstätigkeit.
-
 
 ### § 68 Gesetz zur Änderung des Zweiten Buches Sozialgesetzbuch und anderer Gesetze
 
@@ -4714,7 +4499,6 @@ beginnen.
 2006 nicht mehr zum Haushalt der Eltern oder eines Elternteils
 gehören.
 
-
 ### § 69 Gesetz zur Fortentwicklung der Grundsicherung für Arbeitsuchende
 
 (1) § 28 Absatz 1 Satz 3 Nummer 2 in der bis zum 31. Juli 2006
@@ -4724,7 +4508,6 @@ die vor dem 1. August 2006 beginnen.
 (2) § 31 Absatz 3 Satz 1 und 2 gilt mit der Maßgabe, dass
 Pflichtverletzungen vor dem 1. Januar 2007 keine Berücksichtigung
 finden.
-
 
 ### § 70 Übergangsregelung zum Gesetz zur Umsetzung aufenthalts- und asylrechtlicher Richtlinien der Europäischen Union
 
@@ -4738,11 +4521,9 @@ Asylbewerberleistungsgesetzes vom Land erhalten. Insoweit erhalten
 diese Personen keine Leistungen zur Sicherung des Lebensunterhalts
 nach diesem Buch.
 
-
 ### § 71 (weggefallen)
 
 -
-
 
 ### § 72 Siebtes Gesetz zur Änderung des Dritten Buches Sozialgesetzbuch und anderer Gesetze
 
@@ -4753,17 +4534,13 @@ für einen Zeitraum geleistet wird, in dem sie und die mit ihnen in
 Bedarfsgemeinschaft lebenden Personen Leistungen nach diesem Buch ohne
 Berücksichtigung des Arbeitslosengeldes erhalten haben.
 
-
 ### § 73 Gesetz zur Neuausrichtung der arbeitsmarktpolitischen Instrumente
 
 § 28 Absatz 1 Satz 3 Nummer 4 in der bis zum 31. Dezember 2008
 geltenden Fassung ist weiterhin anzuwenden für Bewilligungszeiträume,
 die vor dem 1. Januar 2009 beginnen.
 
-
 ### § 74 (weggefallen)
-
-
 
 ### § 75 Gesetz zur Weiterentwicklung der Organisation der Grundsicherung für Arbeitsuchende – Anwendbarkeit des § 6a Absatz 7, des § 44d und des § 51b
 
@@ -4792,7 +4569,6 @@ kommissarische Geschäftsführerin oder einen kommissarischen
 Geschäftsführer, die oder der die Geschäfte führt, bis die
 Trägerversammlung eine Geschäftsführerin oder einen Geschäftsführer
 bestellt hat.
-
 
 ### § 76 Gesetz zur Weiterentwicklung der Organisation der Grundsicherung für Arbeitsuchende
 
@@ -4841,7 +4617,6 @@ zugewiesen werden, die bis zum Tag vor der Bildung einer gemeinsamen
 Einrichtung in einer Arbeitsgemeinschaft nach § 44b in der bis zum 31.
 Dezember 2010 geltenden Fassung oder in Agenturen für Arbeit und
 Kommunen Aufgaben nach diesem Buch durchgeführt haben.
-
 
 ### § 77 Gesetz zur Ermittlung von Regelbedarfen und zur Änderung des Zweiten und Zwölften Buches Sozialgesetzbuch
 
@@ -4965,7 +4740,6 @@ des Zehnten Buches, die vor dem 1. April 2011 gestellt worden sind.
 Maßgabe anzuwenden, dass bei einer auf zwei Dezimalstellen
 durchzuführenden Berechnung weitere sich ergebende Dezimalstellen
 wegfallen.
-
 
 ### § 78 Gesetz zur Verbesserung der Eingliederungschancen am Arbeitsmarkt
 

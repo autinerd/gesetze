@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1997, 472
 
-
-
 ## (XXXX)
 
 Zwischen dem Freistaat Bayern und dem Land Baden-Württemberg wurde am

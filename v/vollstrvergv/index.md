@@ -18,10 +18,7 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 6.1.2003 I 8
 
-
 ## Abschnitt I - Gerichtsvollzieher
-
-
 
 ### § 1
 
@@ -32,7 +29,6 @@ Anteil an den durch sie vereinnahmten Gebühren.
 (2) Die Vergütung beträgt 15 vom Hundert der durch den Beamten für die
 Erledigung der Aufträge vereinnahmten Gebühren.
 
-
 ### § 2
 
 Die Vergütung für die Erledigung eines einzelnen Auftrages darf im
@@ -41,10 +37,7 @@ in einer Einzelsache ausnahmsweise mehr als 59,82 Euro zu gewähren, so
 kann die zuständige Stelle in besonders schwierigen oder zeitraubenden
 Fällen Ausnahmen zulassen.
 
-
 ## Abschnitt II - Vollziehungsbeamte der Justiz
-
-
 
 ### § 3
 
@@ -57,7 +50,6 @@ Außendienst eine Vergütung.
 (2) Die Vergütung beträgt 50 vom Hundert der durch den Beamten für die
 Erledigung der Aufträge vereinnahmten Gebühren.
 
-
 ### § 4
 
 Die Vergütung für die Erledigung eines einzelnen Auftrages darf den
@@ -66,10 +58,7 @@ Einzelsache ausnahmsweise mehr als 19,94 Euro zu gewähren, so kann die
 zuständige Stelle in besonders schwierigen oder zeitraubenden Fällen
 Ausnahmen zulassen.
 
-
 ## Abschnitt III - Vollziehungsbeamte der Finanzverwaltung
-
-
 
 ### § 5
 
@@ -101,10 +90,6 @@ Außendienst eine Vergütung.
 
     *   0,2 vom Hundert.
 
-
-
-
-
 ### § 6
 
 (1) Die Vergütung für die Erledigung eines einzelnen Auftrages darf
@@ -120,10 +105,7 @@ Betrag zugrunde zu legen.
 Euro zu gewähren, so kann die zuständige Stelle in besonders
 schwierigen oder zeitraubenden Fällen Ausnahmen zulassen.
 
-
 ## Abschnitt IV - Vollziehungsbeamte der Gemeinden und der Gemeindeverbände
-
-
 
 ### § 7
 
@@ -147,10 +129,6 @@ eine Vergütung.
     die auf Grund eines Auftrages der Vollstreckungsbehörde zur Abwendung
     einer Vollstreckungshandlung gezahlt werden.
 
-
-
-
-
 ### § 8
 
 Die Vergütung für die Erledigung eines einzelnen Auftrages darf den
@@ -159,10 +137,7 @@ Einzelsache ausnahmsweise mehr als 19,94 Euro zu gewähren, so kann die
 zuständige Stelle in besonders schwierigen oder zeitraubenden Fällen
 Ausnahmen zulassen.
 
-
 ## Abschnitt V - Jahreshöchstbeträge
-
-
 
 ### § 9
 
@@ -220,7 +195,6 @@ von 3,99 Euro abzuziehen. Die Dauer des regelmäßigen Erholungsurlaubs
 und die einer sonst im Interesse des Dienstherrn erfolgten Beurlaubung
 sowie die Zeit einer Erkrankung sind als Beschäftigungszeit anzusehen.
 
-
 ### § 10
 
 Die Höchstbeträge nach § 9 Abs. 1 erhöhen sich um die Hälfte der
@@ -230,10 +204,7 @@ verhinderten Beamten oder die Verwaltung einer weiteren Stelle oder
 Hilfsstelle für einen im Vollstreckungsdienst tätigen Beamten
 übernimmt.
 
-
 ## Abschnitt VI - Sonstige Vorschriften
-
-
 
 ### § 11
 
@@ -245,7 +216,6 @@ Aufwendungen sind insbesondere die Aufwendungen bei Nachtdienst.
 sonstigen Mehraufwendungen richtet sich - soweit hierzu nicht
 besondere Bestimmungen ergangen sind - nach den allgemeinen
 reisekostenrechtlichen Vorschriften.
-
 
 ### § 12
 
@@ -289,11 +259,9 @@ Vergütung die Vergütung nach dieser Verordnung unter den allgemeinen
 Voraussetzungen des Absatzes 1 bis zur Höhe des bisher
 ruhegehaltfähigen Teils als ruhegehaltfähig.
 
-
 ### § 13
 
 (weggefallen)
-
 
 ### § 14
 

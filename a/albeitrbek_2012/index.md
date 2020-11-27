@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 2799
 
-
 ## (XXXX)
 
 Auf Grund des § 33 Absatz 1 und der §§ 68, 114 und 120 des Gesetzes
@@ -203,13 +202,6 @@ und 120 durch Artikel 17 Nummer 36 und 38 des Gesetzes vom 20. April
     *        *   14 981 bis 15 500 Euro
 
         *   8 Euro.
-
-
-
-
-
-
-
 
 ## Schlussformel
 

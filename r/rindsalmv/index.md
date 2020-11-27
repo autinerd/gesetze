@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 V v. 18.12.2009 I 3939
 
-
 ## I. - Begriffsbestimmung
-
-
 
 ### § 1
 
@@ -109,8 +106,6 @@ entsprechen.
 
 ## II. - Allgemeine Schutzmaßregeln für bestimmte Kälberhaltungen
 
-
-
 ### § 2
 
 Für Betriebe, in denen mehr als 100 Kälber im Alter von weniger als
@@ -161,13 +156,7 @@ sechs Monaten gehalten werden, gelten folgende Vorschriften:
     Einwegschutzkleidung nach Gebrauch zu verbrennen oder auf sonstige
     Weise unschädlich zu beseitigen.
 
-
-
-
-
 ## III. - Besondere Schutzmaßregeln
-
-
 
 ### § 3
 
@@ -209,7 +198,6 @@ Tränkwasser- und Abwasserproben, entnommen werden.
 nach Absatz 3 nicht als Ausscheider von Salmonellen ermittelt worden
 sind, können bis zur Abschlußuntersuchung nach § 7 Abs. 2 Nr. 1
 Buchstabe b von weiteren Untersuchungen freigestellt werden.
-
 
 ### § 4
 
@@ -274,13 +262,11 @@ Verbringen von Rindern zur Schlachtung oder das Verbringen von
 Rindern, die sich auf Grund der nach § 3 Abs. 3 durchgeführten
 Untersuchungen nicht als Ausscheider von Salmonellen erwiesen haben.
 
-
 ### § 5
 
 Die zuständige Behörde kann die Tötung von Rindern und sonstigen mit
 Rindern zusammen gehaltenen Tieren anordnen, bei denen Salmonellose
 festgestellt ist oder bei denen Verdacht auf Salmonellose vorliegt.
-
 
 ### § 6
 
@@ -308,10 +294,7 @@ Abgänge aus diesen Ställen sind, soweit sie nicht dem Dung beigegeben
 werden, nach näherer Anweisung des beamteten Tierarztes zu
 desinfizieren.
 
-
 ## IV. - Aufhebung der Schutzmaßregeln
-
-
 
 ### § 7
 
@@ -357,10 +340,7 @@ erloschen ist oder sich der Verdacht als unbegründet erwiesen hat.
 (3) Bei Betrieben nach § 2 ist die Abschlußuntersuchung nach Absatz 2
 Nr. 1 Buchstabe b entbehrlich.
 
-
 ## V. - Ordnungswidrigkeiten
-
-
 
 ### § 8
 
@@ -418,10 +398,6 @@ Tierseuchengesetzes handelt, wer vorsätzlich oder fahrlässig
 
 6.  entgegen § 4 Abs. 1 Nr. 6 Milch nicht unschädlich beseitigt, aufkocht
     oder abgibt.
-
-
-
-
 
 ### § 9 (Inkrafttreten)
 

@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 5 V v. 9.6.2011 I 1041
 
-
 ## Eingangsformel
 
 Auf Grund des § 330 Abs. 1 in Verbindung mit Abs. 3 und 5 des
@@ -31,10 +30,7 @@ Absatz 5 angefügt durch Artikel 16 Nr. 1 des Gesetzes vom 26. Juni
 2001 (BGBl. I S. 1310), verordnet das Bundesministerium der Justiz im
 Einvernehmen mit dem Bundesministerium der Finanzen:
 
-
 ## Abschnitt 1 - Anwendungsbereich
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -44,10 +40,7 @@ des Handelsgesetzbuchs die Vorschriften des Zweiten Unterabschnitts
 des Vierten Abschnitts des Dritten Buchs des Handelsgesetzbuchs
 entsprechend anzuwenden sind.
 
-
 ## Abschnitt 2 - Bilanz und Gewinn- und Verlustrechnung
-
-
 
 ### § 2 Formblätter
 
@@ -55,7 +48,6 @@ Pensionsfonds haben an Stelle des § 266 des Handelsgesetzbuchs über
 die Gliederung der Bilanz das anliegende Formblatt 1 und an Stelle des
 § 275 des Handelsgesetzbuchs über die Gliederung der Gewinn- und
 Verlustrechnung das anliegende Formblatt 2 anzuwenden.
-
 
 ### § 3 Davon-Vermerke
 
@@ -80,10 +72,6 @@ In der Bilanz (Formblatt 1) sind jeweils gesondert anzugeben:
     "Verbindlichkeiten gegenüber Kreditinstituten" (Passivposten I Nr. IV)
     und "Sonstige Verbindlichkeiten" (Passivposten I Nr. V).
 
-
-
-
-
 ### § 4 Zusätze
 
 (1) Wird in den Formblättern für die Bilanz und die Gewinn- und
@@ -104,7 +92,6 @@ entfallen die in den Formblättern enthaltenen Zusätze "Brutto" und
 den Passivposten E und F die mit einer arabischen Zahl versehenen
 Unterposten.
 
-
 ### § 5 Anwendung von Bestimmungen der Verordnung über die Rechnungslegung Versicherungsunternehmen zur Bilanz und Gewinn- und Verlustrechnung
 
 Die §§ 6 bis 9 Satz 1, §§ 11, 12, 18 bis 20 und 22 bis 24 der
@@ -115,14 +102,9 @@ in der jeweils geltenden Fassung sind entsprechend anzuwenden, § 6
 Abs. 2 mit der Maßgabe, dass die Darstellung nur im Anhang zu erfolgen
 hat.
 
-
 ## Abschnitt 3 - Vorschriften zu einzelnen Posten der Bilanz
 
-
-
 ### Unterabschnitt 1 - Posten der Aktivseite
-
-
 
 #### § 6 Verträge bei Lebensversicherungsunternehmen
 
@@ -135,7 +117,6 @@ werden.
 (2) Der Wert der Verträge bei Lebensversicherungsunternehmen mit
 verbundenen Unternehmen und Unternehmen, mit denen ein
 Beteiligungsverhältnis besteht, ist im Anhang gesondert anzugeben.
-
 
 #### § 7 Sonstige Ausleihungen
 
@@ -175,7 +156,6 @@ auszuweisen sind:
 (2) Die übrigen Ausleihungen sind im Anhang aufzugliedern, wenn sie
 einen größeren Umfang haben.
 
-
 #### § 8 Vermögen für Rechnung und Risiko von Arbeitnehmern und Arbeitgebern
 
 (1) Im Posten "Kapitalanlagen für Rechnung und Risiko von
@@ -190,7 +170,6 @@ aber rückständigen und die auf die Zeit bis zum Abschlussstichtag
 entfallenden noch nicht fälligen Erträge der Kapitalanlagen nach
 Absatz 1 auszuweisen, soweit sie nicht bereits im Bilanzwert dieser
 Kapitalanlagen enthalten sind.
-
 
 #### § 9 Abrechnungsforderungen aus dem Rückversicherungsgeschäft
 
@@ -207,7 +186,6 @@ Abschlussstichtag oder Zeitpunkt, sind sie bis dahin unter den
 entsprechenden Unterposten der pensionsfondstechnischen Rückstellungen
 auszuweisen.
 
-
 #### § 10 Forderungen an Lebensversicherungsunternehmen
 
 Im Posten "Forderungen an Lebensversicherungsunternehmen" sind die
@@ -216,7 +194,6 @@ gegenüber den Versorgungsberechtigten ergebenden Forderungen
 auszuweisen, soweit sie nicht im Posten "Verträge bei
 Lebensversicherungsunternehmen" oder im Posten "Vermögen für Rechnung
 und Risiko von Arbeitnehmern und Arbeitgebern" enthalten sind.
-
 
 #### § 11 Sonstige Forderungen
 
@@ -230,10 +207,7 @@ Gründungsstock zur Verfügung gestellte Betrag, Forderungen aus
 Regressen und Forderungen an Arbeitgeber, die nicht aus dem
 Pensionsfondsgeschäft herrühren.
 
-
 ### Unterabschnitt 2 - Posten der Passivseite
-
-
 
 #### § 12 Pensionsfondstechnische Rückstellungen
 
@@ -241,7 +215,6 @@ Die pensionsfondstechnischen Rückstellungen im Sinne dieser Verordnung
 entsprechen den versicherungstechnischen Rückstellungen im Sinne des
 Vierten Titels des Zweiten Unterabschnitts des Vierten Abschnitts des
 Dritten Buchs des Handelsgesetzbuchs.
-
 
 #### § 13 Deckungsrückstellung
 
@@ -273,7 +246,6 @@ Vermögens aus geleisteten Beiträgen für Rechnung und Risiko von
 Arbeitnehmern und Arbeitgebern erfolgt und der Wert des besagten
 Vermögens der zu bildenden Deckungsrückstellung mindestens entspricht.
 
-
 #### § 14 Rückstellung für noch nicht abgewickelte Versorgungsfälle
 
 Für die Höhe der Rückstellung für noch nicht abgewickelte
@@ -282,7 +254,6 @@ sind die gegenüber dem Begünstigten bestehenden Verpflichtungen
 maßgebend; dazu gehören auch die Rückstellungen für noch nicht
 abgewickelte beendete Pensionsfondsverträge und
 Versorgungsverhältnisse.
-
 
 #### § 15 Rückstellung für erfolgsabhängige und erfolgsunabhängige Beitragsrückerstattung
 
@@ -355,17 +326,12 @@ Zu- oder Abschläge berücksichtigt werden.
 4.  die Verfahren zur Berechnung des Schlussüberschussanteilfonds sowie
     die gewählten Rechnungsgrundlagen.
 
-
-
-
-
 #### § 16 Sonstige pensionsfondstechnische Rückstellungen
 
 Zu dem Posten "Sonstige pensionsfondstechnische Rückstellungen" gehört
 insbesondere die Rückstellung für drohende Verluste; erreicht sie
 einen größeren Umfang, so ist sie in der Bilanz oder im Anhang
 getrennt auszuweisen.
-
 
 #### § 17 Pensionsfondstechnische Rückstellungen entsprechend dem Vermögen für Rechnung und Risiko von Arbeitnehmern und Arbeitgebern
 
@@ -386,7 +352,6 @@ Arbeitgebern erfolgt und der Wert des besagten Vermögens der zu
 bildenden Deckungsrückstellung mindestens entspricht. Der Betrag der
 zu bildenden Deckungsrückstellung ist im Anhang anzugeben.
 
-
 #### § 18 Depotverbindlichkeiten aus dem in Rückversicherung gegebenen Pensionsfondsgeschäft
 
 (1) Im Posten "Depotverbindlichkeiten aus dem in Rückversicherung
@@ -399,7 +364,6 @@ Rückversicherer zu diesem Zweck belassen worden sind.
 Verbindlichkeiten gegenüber dem Rückversicherer zusammengefasst noch
 mit Forderungen an den Rückversicherer verrechnet werden.
 
-
 #### § 19 Abrechnungsverbindlichkeiten aus dem Rückversicherungsgeschäft
 
 Im Posten "Abrechnungsverbindlichkeiten aus dem
@@ -408,7 +372,6 @@ Abrechnungen mit den Rückversicherern und den Rückversicherungsmaklern
 ergebenden Schuldsalden aus dem in Rückversicherung gegebenen
 Pensionsfondsgeschäft auszuweisen. Im Übrigen gilt § 9 Satz 2.
 
-
 #### § 20 Verbindlichkeiten gegenüber Lebensversicherungsunternehmen
 
 Im Posten "Verbindlichkeiten gegenüber Lebensversicherungsunternehmen"
@@ -416,10 +379,7 @@ sind die sich aus den abgeschlossenen Verträgen zur Deckung von
 Verpflichtungen gegenüber den Versorgungsberechtigten ergebenden
 Verbindlichkeiten auszuweisen.
 
-
 ## Abschnitt 4 - Vorschriften zu einzelnen Posten der Gewinn- und Verlustrechnung
-
-
 
 ### § 21 Gebuchte Bruttobeiträge
 
@@ -460,7 +420,6 @@ und Arbeitnehmer abzusetzen. Die Beiträge gemäß Absatz 1 dürfen nicht
 um Beitragsrückerstattungen und Provisionen an die Vermittler gekürzt
 werden.
 
-
 ### § 22 Abgegebene Rückversicherungsbeiträge
 
 Im Unterposten "Abgegebene Rückversicherungsbeiträge" sind folgende
@@ -484,14 +443,12 @@ Lebensversicherungsunternehmen zur Deckung von Verpflichtungen
 gegenüber den Versorgungsberechtigten eingegangen werden, sind keine
 abgegebenen Rückversicherungsbeiträge.
 
-
 ### § 23 Nicht realisierte Gewinne aus Kapitalanlagen, nicht realisierte Verluste aus Kapitalanlagen
 
 Im Posten "Nicht realisierte Gewinne aus Kapitalanlagen" oder im
 Posten "Nicht realisierte Verluste aus Kapitalanlagen" sind die nicht
 realisierten Gewinne oder Verluste aus den Kapitalanlagen für Rechnung
 und Risiko von Arbeitnehmern und Arbeitgebern auszuweisen.
-
 
 ### § 24 Sonstige pensionsfonds- technische Erträge für eigene Rechnung
 
@@ -518,7 +475,6 @@ insbesondere:
 
 Von den vorstehenden Erträgen sind die Anteile der Rückversicherer
 abzusetzen.
-
 
 ### § 25 Aufwendungen für Versorgungsfälle für eigene Rechnung
 
@@ -562,7 +518,6 @@ Geschäftsjahr übernommenen Rückstellung für noch nicht abgewickelte
 Versorgungsfälle erheblich, so ist dieses nach Art und Höhe im Anhang
 zu erläutern.
 
-
 ### § 26 Aufwendungen für erfolgsabhängige und erfolgsunabhängige Beitragsrückerstattungen für eigene Rechnung
 
 (1) Die Aufwendungen für die erfolgsabhängige Beitragsrückerstattung
@@ -588,7 +543,6 @@ Anteile der Rückversicherer abzusetzen.
 (3) Erreichen die erfolgsabhängigen und die erfolgsunabhängigen
 Beitragsrückerstattungen einen größeren Umfang, so sind sie im Anhang
 getrennt anzugeben.
-
 
 ### § 27 Aufwendungen für den Pensionsfondsbetrieb für eigene Rechnung
 
@@ -686,7 +640,6 @@ geleistete anteilige Erstattung der dem Pensionsfonds entstandenen
 originalen Aufwendungen für den Pensionsfondsbetrieb sowie die
 erhaltenen Aufbauprovisionen und anderen Aufbauzuschüsse.
 
-
 ### § 28 Sonstige pensionsfondstechnische Aufwendungen für eigene Rechnung
 
 Im Posten "Sonstige pensionsfondstechnische Aufwendungen für eigene
@@ -709,14 +662,12 @@ gehören insbesondere:
 Von den vorstehenden Aufwendungen sind die Anteile der Rückversicherer
 abzusetzen.
 
-
 ### § 29 Erträge aus Kapitalanlagen
 
 Als "Erträge aus Grundstücken, grundstücksgleichen Rechten und Bauten
 einschließlich der Bauten auf fremden Grundstücken" sind auch die
 kalkulatorischen Mieten für die eigengenutzten Grundstücke und Bauten
 auszuweisen.
-
 
 ### § 30 Aufwendungen für Kapitalanlagen
 
@@ -743,10 +694,6 @@ Kapitalanlagen umfassen insbesondere:
 
 
 5.  Schuldzinsen für Hypotheken auf den eigenen Grundbesitz.
-
-
-
-
 
 ### § 31 Sonstige Erträge
 
@@ -775,13 +722,6 @@ können. Hierzu gehören insbesondere:
 
     b)  Beitragsforderungen an die Arbeitgeber und Arbeitnehmer herrühren, die
         im Posten "Gebuchte Bruttobeiträge" zu erfassen sind.
-
-
-
-
-
-
-
 
 ### § 32 Sonstige Aufwendungen
 
@@ -817,22 +757,12 @@ insbesondere:
         die im Posten "Gebuchte Bruttobeiträge" als Abzugsposten zu behandeln
         sind.
 
-
-
-
-
-
-
-
 ### § 33 Sonstige Steuern
 
 Im Posten "Sonstige Steuern" sind Steuern auszuweisen, soweit es sich
 nicht um Steuern vom Einkommen und vom Ertrag handelt.
 
-
 ## Abschnitt 5 - Anhang
-
-
 
 ### § 34 Zusätzliche Erläuterungen
 
@@ -924,7 +854,6 @@ Personalaufwendungen nach dem anliegenden Muster 3 zu machen.
 (6) Im Anhang sind die Aufwendungen für Beiträge an den
 Pensionssicherungsverein anzugeben.
 
-
 ### § 35 Zusätzliche Pflichtangaben
 
 Zu den Posten der Bilanz und der Gewinn- und Verlustrechnung sind im
@@ -1006,23 +935,13 @@ Anhang zusätzlich anzugeben:
         Verpflichtungen gegenüber den Versorgungsberechtigten eingegangen
         werden.
 
-
-
-
-
-
-
-
 ### § 36 Anwendung von Bestimmungen der Verordnung über die Rechnungslegung von Versicherungsunternehmen zum Zeitwert
 
 Die §§ 54 bis 56 der Verordnung über die Rechnungslegung von
 Versicherungsunternehmen in der jeweils geltenden Fassung sind
 entsprechend anzuwenden.
 
-
 ## Abschnitt 6 - Lagebericht
-
-
 
 ### § 37 Lagebericht
 
@@ -1046,10 +965,7 @@ wurde.
 (3) Zusätzlich ist der Pensionsfondsvertragsbestand nach dem
 anliegenden Muster 4 aufzugliedern.
 
-
 ## Abschnitt 7 - Konzernrechnungslegung
-
-
 
 ### § 38 Konzernbilanz und Konzern-Gewinn- und Verlustrechnung
 
@@ -1074,16 +990,12 @@ bedingen,
 
 entsprechend anzuwenden.
 
-
 ### § 39 Konzernanhang
 
 § 59 der Verordnung über die Rechnungslegung von
 Versicherungsunternehmen ist entsprechend anzuwenden.
 
-
 ## Abschnitt 8 - Ordnungswidrigkeiten
-
-
 
 ### § 40 Ordnungswidrigkeiten
 
@@ -1137,16 +1049,7 @@ Pensionsfonds
         die Rechnungslegung von Versicherungsunternehmen eine Angabe nicht
         oder nicht richtig macht.
 
-
-
-
-
-
-
-
 ## Abschnitt 9 - Schlussvorschriften
-
-
 
 ### § 41 Übergangsvorschriften
 
@@ -1180,18 +1083,15 @@ sowie zur Änderung weiterer Rechnungslegungsverordnungen vom 18.
 Dezember 2009 (BGBl. I S. 3934) ist Absatz 2 Satz 1, 2 und 4
 entsprechend anzuwenden.
 
-
 ### Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ### Formblatt 1
 
 (Inhalt: nicht darstellbares Formblatt)
 (Fundstelle: BGBl. I 2003, S. 256 - 257;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
-
 
 ### Formblatt 2
 
@@ -1362,19 +1262,16 @@ Die Angaben ab Posten II 12 können statt in der
 nichtpensionsfondstechnischen
 Rechnung auch im Anhang gemacht werden.
 
-
 ### Muster 1
 
 (Inhalt: nicht darstellbares Muster)
 (Fundstelle: BGBl. I 2003, 260;
 bezüglich der einzelnen Änderungen vgl. Fußnote)
 
-
 ### Muster 2
 
 (Fundstelle: BGBl. I 2003, 261)
 (Inhalt: nicht darstellbares Formular)
-
 
 ### Muster 3
 
@@ -1434,9 +1331,6 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *
     *
-
-
-
 
 ### Muster 4
 

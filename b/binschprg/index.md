@@ -18,17 +18,13 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 7 G v. 31.7.2009 I 2585
 
-
 ## Erster Abschnitt - Schiffseigner
-
-
 
 ### § 1
 
 Schiffseigner im Sinne dieses Gesetzes ist der Eigentümer eines zur
 Schiffahrt auf Flüssen oder sonstigen Binnengewässern bestimmten und
 hierzu von ihm verwendeten Schiffes.
-
 
 ### § 2
 
@@ -43,7 +39,6 @@ herleitet, an der Durchführung des Anspruchs nicht hindern, sofern er
 nicht beweist, daß die Verwendung ihm gegenüber eine widerrechtliche
 und der Gläubiger nicht in gutem Glauben war.
 
-
 ### § 3
 
 (1) Der Schiffseigner ist für den Schaden verantwortlich, den eine
@@ -52,7 +47,6 @@ Dritten in Ausführung von Dienstverrichtungen schuldhaft zufügt.
 
 (2) Zur Schiffsbesatzung gehören der Schiffer, die Schiffsmannschaft
 (§ 21) und alle übrigen auf dem Schiff angestellten Personen.
-
 
 ### § 4
 
@@ -107,7 +101,6 @@ kann.
 (5) Als Schiff im Sinne dieser Vorschrift sind auch Kleinfahrzeuge
 anzusehen.
 
-
 ### § 5
 
 Der Haftungsbeschränkung nach § 4 unterliegen nicht
@@ -134,10 +127,6 @@ Der Haftungsbeschränkung nach § 4 unterliegen nicht
 
 5.  Ansprüche auf Ersatz der Kosten der Rechtsverfolgung.
 
-
-
-
-
 ### § 5a
 
 Hat der Schiffseigner gegen den Gläubiger eines in § 4 aufgeführten
@@ -145,7 +134,6 @@ Anspruchs einen Gegenanspruch, der aus demselben Ereignis entstanden
 ist, so kann er seine Haftung nur in Bezug auf den Betrag des gegen
 ihn gerichteten Anspruchs beschränken, der nach Abzug des
 Gegenanspruchs verbleibt.
-
 
 ### § 5b
 
@@ -162,7 +150,6 @@ beschränken, wenn der Schaden auf eine die Beschränkung der Haftung
 nach Absatz 1 ausschließende Handlung oder Unterlassung eines
 Mitglieds des zur Vertretung berechtigten Organs oder eines zur
 Vertretung berechtigten Gesellschafters zurückzuführen ist.
-
 
 ### § 5c
 
@@ -196,7 +183,6 @@ versichert, die der Beschränkung nach diesen Vorschriften unterliegen,
 kann sich Dritten gegenüber auf die Haftungsbeschränkung in gleichem
 Umfang wie der Versicherte berufen.
 
-
 ### § 5d
 
 (1) Die Haftung kann auf die in den §§ 5e bis 5k bezeichneten
@@ -215,7 +201,6 @@ der sie erhebt, geltend gemacht werden. In diesem Falle sind die §§
 Satz 1 und 2, § 26 Abs. 4 bis 6 der Schiffahrtsrechtlichen
 Verteilungsordnung entsprechend anzuwenden; § 305a der
 Zivilprozeßordnung bleibt unberührt.
-
 
 ### § 5e
 
@@ -279,7 +264,6 @@ Tragfähigkeit der anderen Schiffe erhöht.
 Rechnungseinheiten, soweit es sich nicht um Leichter handelt, die nur
 zum Umladen in Häfen verwendet werden.
 
-
 ### § 5f
 
 (1) Der Haftungshöchstbetrag, auf den die Haftung für die Gesamtheit
@@ -293,7 +277,6 @@ Haftungshöchstbetrag haben Ansprüche wegen Beschädigung von
 Hafenanlagen, Hafenbecken, Wasserstraßen, Schleusen, Brücken und
 Navigationshilfen den Vorrang.
 
-
 ### § 5g
 
 Reicht der nach § 5e maßgebende Haftungshöchstbetrag für Ansprüche
@@ -303,7 +286,6 @@ der nicht befriedigten Restansprüche nach § 5e zur Verfügung. Die
 Restansprüche wegen Personenschäden haben hierbei den gleichen Rang
 wie die Ansprüche wegen Sachschäden; § 5f Abs. 2 ist insoweit nicht
 anzuwenden.
-
 
 ### § 5h
 
@@ -350,7 +332,6 @@ Absatz 2 Nr. 1 zur Verfügung. Die Restansprüche wegen Personenschäden
 haben hierbei den gleichen Rang wie die Ansprüche wegen Sachschäden;
 Absatz 3 ist insoweit nicht anzuwenden.
 
-
 ### § 5i
 
 Abweichend von den §§ 5e, 5f Abs. 1 und § 5h kann ein Berger im Sinne
@@ -361,7 +342,6 @@ Rechnungseinheiten sowie für Ansprüche wegen Sachschäden auf einen
 Haftungshöchstbetrag in Höhe von 100.000 Rechnungseinheiten
 beschränken. § 5f Abs. 2 und § 5g gelten entsprechend.
 
-
 ### § 5j
 
 Für die Gesamtheit der aus demselben Ereignis entstandenen Ansprüche
@@ -369,7 +349,6 @@ aus Wrackbeseitigung gilt ein gesonderter Haftungshöchstbetrag. Dieser
 beträgt die Hälfte der nach § 5e maßgebenden Haftungshöchstbeträge.
 Der Haftungshöchstbetrag steht ausschließlich zur Befriedigung der
 Ansprüche aus Wrackbeseitigung zur Verfügung.
-
 
 ### § 5k
 
@@ -403,7 +382,6 @@ Rechnungseinheiten und höchstens 12 Millionen Rechnungseinheiten.
 Berger im Sinne von § 5c Abs. 1 Nr. 2 oder einen an Bord tätigen
 Lotsen 720.000 Rechnungseinheiten.
 
-
 ### § 5l
 
 Die in diesem Abschnitt genannte Rechnungseinheit ist das
@@ -417,7 +395,6 @@ maßgeblicher Zeitpunkt für die Umrechnung der Tag des Urteils. Der
 Wert des Euro gegenüber dem Sonderziehungsrecht wird nach der
 Berechnungsmethode ermittelt, die der Internationale Währungsfonds an
 dem betreffenden Tag für seine Operationen und Transaktionen anwendet.
-
 
 ### § 5m
 
@@ -452,7 +429,6 @@ Ereignis entstandenen Ansprüche wegen der Tötung oder Verletzung von
 Reisenden nach dem nach Internationalem Privatrecht anzuwendenden
 Recht.
 
-
 ### § 6
 
 (1) Das Gericht des Ortes, von dem aus die Schiffahrt mit dem Schiff
@@ -471,10 +447,7 @@ Geschäftsniederlassung der Wohnsitz des Schiffseigners sich befindet.
 Ort, wo der Schiffseigner zur Gewerbesteuer oder Einkommensteuer
 veranlagt wird.
 
-
 ## Zweiter Abschnitt - Schiffer
-
-
 
 ### § 7
 
@@ -496,7 +469,6 @@ wenn ihm eine strafbare Handlung zur Last fällt.
 verpflichtet, wenn er bei der Erteilung von dem Sachverhältnis
 unterrichtet war.
 
-
 ### § 8
 
 (1) Der Schiffer hat vor Antritt der Reise darauf zu sehen, daß das
@@ -515,7 +487,6 @@ so hat er den daraus entstehenden Schaden zu ersetzen.
 
 (4) (weggefallen)
 
-
 ### § 9
 
 (1) Wenn der Schiffer durch Krankheit oder andere Ursachen verhindert
@@ -527,7 +498,6 @@ entgegengesetzten Fall aber einen anderen Schiffer einsetzen.
 
 (2) Für diesen Stellvertreter ist er nur insofern verantwortlich, als
 ihm bei der Wahl desselben ein Verschulden zur Last fällt.
-
 
 ### § 10
 
@@ -549,7 +519,6 @@ Erforderliche selbst zu veranlassen und dafür zu sorgen, daß die
 Ladungsbeteiligten von dem Vorfall und den dadurch veranlaßten
 Maßregeln schleunigst in Kenntnis gesetzt werden.
 
-
 ### § 11
 
 (1) Wird das Schiff oder die Ladung von einem Unfall betroffen, so ist
@@ -570,7 +539,6 @@ verpflichtet, eine Beweisaufnahme vor dem für Binnenschiffahrtssachen
 zuständigen Amtsgericht zu beantragen, in dessen Bezirk der Unfall
 sich ereignet hat.
 
-
 ### § 12
 
 Zur Aufnahme des Beweises bestimmt das Gericht einen tunlichst nahen
@@ -579,7 +547,6 @@ laden sind. Dem Schiffseigner und den Ladungsbeteiligten ist von dem
 Termin Mitteilung zu machen, soweit es ohne unverhältnismäßige
 Verzögerung des Verfahrens geschehen kann. Die Mitteilung kann durch
 öffentliche Bekanntmachung erfolgen.
-
 
 ### § 13
 
@@ -598,7 +565,6 @@ Beweisaufnahme auf weitere Beweismittel beantragen.
 von Amts wegen anzuordnen, soweit dies zur Aufklärung des Sachverhalts
 erforderlich erscheint.
 
-
 ### § 14
 
 (1)
@@ -611,7 +577,6 @@ verauslagten Kosten zu erstatten, wird hierdurch nicht berührt.
 
 (3) In Fällen der großen Haverei findet die Vorschrift des § 84
 Anwendung.
-
 
 ### § 15
 
@@ -627,7 +592,6 @@ Verpfändung des Schiffes und zum Abschluß von Frachtverträgen ist der
 Schiffer nur auf Grund einer ihn hierzu ermächtigenden Vollmacht des
 Schiffseigners berechtigt.
 
-
 ### § 16
 
 (1) Rechtsgeschäfte, welche der Schiffer eingeht, während das Schiff
@@ -639,7 +603,6 @@ Verpflichtungsgrund vorhanden ist.
 (2) Zur Ausstellung von Ladescheinen ist der Schiffer ohne Unterschied
 des Ortes befugt.
 
-
 ### § 17
 
 Der Schiffseigner, welcher die gesetzlichen Befugnisse des Schiffers
@@ -647,13 +610,11 @@ beschränkt hat, kann einem Dritten die Nichteinhaltung dieser
 Beschränkungen nur dann entgegensetzen, wenn er beweist, daß sie dem
 Dritten bekannt waren.
 
-
 ### § 18
 
 Dem Schiffseigner gegenüber sind für den Umfang der Befugnisse des
 Schiffers die Bestimmungen der §§ 15 und 16 ebenfalls maßgebend,
 soweit nicht der Schiffseigner diese Befugnisse beschränkt hat.
-
 
 ### § 19
 
@@ -666,7 +627,6 @@ gegenüber berechtigt und die Haftung des Schiffseigners begründet.
 (2) Der Schiffer selbst wird dem Dritten durch das Rechtsgeschäft
 nicht verpflichtet, es sei denn, daß er dessen Erfüllung gewährleistet
 oder seine Befugnisse überschritten hat.
-
 
 ### § 20
 
@@ -694,10 +654,7 @@ enthoben werden, jedoch unbeschadet seiner Entschädigungsansprüche für
 die Zeit bis zum Ende der vertragsmäßigen Dauer des
 Dienstverhältnisses oder bis zum Ablauf der Kündigungsfrist.
 
-
 ## Dritter Abschnitt - Schiffsmannschaft
-
-
 
 ### § 21
 
@@ -708,7 +665,6 @@ Schiffsknechte, Schiffsjungen, Maschinisten und Heizer.
 
 (2) Die Schiffsmannschaft untersteht der Gewerbeordnung.
 
-
 ### § 22
 
 Die Verpflichtung des Schiffsmanns zum Dienstantritt beginnt, wenn
@@ -716,7 +672,6 @@ nichts anderes verabredet ist, mit dem Abschluß des Dienstvertrags.
 Tritt der Schiffsmann den Dienst nicht binnen vierundzwanzig Stunden
 an, so braucht er nicht mehr angenommen zu werden. Der Anspruch des
 Schiffseigners auf Schadensersatz wird hierdurch nicht berührt.
-
 
 ### § 23
 
@@ -731,13 +686,11 @@ Personen und ihres Gepäcks sowie für Sicherstellung der Schiffsteile,
 der Gerätschaften und der Ladung den Anordnungen des Schiffers gemäß
 nach besten Kräften zu sorgen.
 
-
 ### § 24
 
 Wenn über die Zeit der Lohnzahlung nichts anderes vereinbart ist, so
 kann der Schiffsmann am Schluß jeder zweiten Woche die Auszahlung des
 verdienten Lohnes verlangen.
-
 
 ### § 25
 
@@ -761,10 +714,7 @@ enthoben werden, jedoch unbeschadet seiner Entschädigungsansprüche für
 die Zeit bis zum Ende der vertragsmäßigen Dauer des
 Dienstverhältnisses oder bis zum Ablauf der Kündigungsfrist.
 
-
 ## Vierter Abschnitt - Frachtgeschäft
-
-
 
 ### § 26
 
@@ -772,14 +722,9 @@ Auf das Frachtgeschäft zur Beförderung von Gütern auf Binnengewässern
 finden die Vorschriften des Vierten Abschnitts des Vierten Buchs des
 Handelsgesetzbuchs Anwendung.
 
-
 ### (XXXX) §§ 27 bis 76 (weggefallen)
 
-
-
 ## Fünfter Abschnitt - Beförderung von Reisenden und ihrem Gepäck
-
-
 
 ### § 77
 
@@ -795,10 +740,7 @@ hinterlegt ist. Die Wirkungen und die Geltendmachung des Pfandrechts
 bestimmen sich im übrigen nach den für das Pfandrecht des
 Frachtführers an Frachtgütern geltenden Vorschriften.
 
-
 ## Sechster Abschnitt - Haverei
-
-
 
 ### § 78
 
@@ -821,7 +763,6 @@ verursachten Schäden und Kosten (besondere Haverei) werden von den
 Eigentümern des Schiffes und der Ladung, von jedem für sich allein,
 getragen.
 
-
 ### § 79
 
 (1) Die Anwendung der Bestimmungen über große Haverei wird dadurch
@@ -838,14 +779,12 @@ große Haverei zur Verteilung kommt.
 so trägt die Folgen dieses Verschuldens auch der Schiffseigner nach
 Maßgabe des § 3.
 
-
 ### § 80
 
 Die Verpflichtung, von einem geretteten Gegenstand beizutragen, wird
 dadurch, daß derselbe später von besonderer Haverei betroffen wird,
 nur dann vollständig aufgehoben, wenn der Gegenstand ganz
 verlorengeht.
-
 
 ### § 81
 
@@ -862,7 +801,6 @@ gewesen wäre.
 Wiederherstellung des beschädigten Gegenstands bereits Aufwendungen
 gemacht, so bleibt rücksichtlich dieser der Anspruch auf Vergütung
 bestehen.
-
 
 ### § 82
 
@@ -925,10 +863,6 @@ Bestimmungen:
     Leichterlohn sowie der durch die Leichterung entstandene Schaden gemäß
     der Bestimmung unter Nummer 2.
 
-
-
-
-
 ### § 83
 
 Wird außer dem Fall des § 82 Nr. 5 das Schiff genötigt, die Reise zu
@@ -936,14 +870,12 @@ unterbrechen und an einem Zwischenort liegen zu bleiben, so gehören
 die durch den Aufenthalt an diesem Ort entstehenden Kosten und Schäden
 nicht zur großen Haverei.
 
-
 ### § 84
 
 Wenn durch die Auseinandersetzung unter den Beteiligten Kosten
 entstehen, so gehören auch diese Kosten zur großen Haverei. Dies gilt
 insbesondere von den Kosten für die Ermittlung der Schäden und für die
 Aufstellung der Rechnung über die große Haverei (Dispache).
-
 
 ### § 85
 
@@ -974,11 +906,9 @@ außer Ansatz, welche betreffen:
 
 (3) Die Ausnahme unter Nummer 1 gilt nicht für den Hafenverkehr.
 
-
 ### § 86
 
 Die Verteilung der Schäden erfolgt an dem Ort, wo die Reise endet.
-
 
 ### § 87
 
@@ -996,14 +926,12 @@ Dispache erforderlichen Urkunden, soweit er sie zu seiner Verfügung
 hat, insbesondere Frachtbriefe, Ladescheine und Fakturen, dem Schiffer
 oder Dispacheur mitzuteilen.
 
-
 ### § 88
 
 Wird die Aufstellung der Dispache verzögert, so ist jeder Beteiligte,
 unbeschadet seines Anspruchs auf Ersatz des durch die Verzögerung
 entstandenen Schadens, befugt, die Aufstellung der Dispache durch
 einen Dispacheur selbst zu veranlassen und zu betreiben.
-
 
 ### § 89
 
@@ -1024,7 +952,6 @@ Frachtführer ausgeübt. Die Geltendmachung des Pfandrechts durch den
 Frachtführer erfolgt nach Maßgabe der Vorschriften, die für das
 Pfandrecht des Frachtführers wegen der Fracht und der Auslagen gelten.
 
-
 ### § 90
 
 (1) Eine persönliche Verpflichtung zur Entrichtung des Beitrags wird
@@ -1035,7 +962,6 @@ der Annahme der Güter bekannt ist, daß davon ein Beitrag zu entrichten
 sei, für den letzteren insoweit persönlich verpflichtet, als der
 Beitrag, falls die Auslieferung nicht erfolgt wäre, aus den Gütern
 hätte geleistet werden können.
-
 
 ### § 91
 
@@ -1053,10 +979,7 @@ erfolgen.
 die Güter in einem öffentlichen Lagerhaus oder in anderer sicherer
 Weise zu hinterlegen.
 
-
 ## Siebter Abschnitt - Zusammenstoß von Schiffen. Bergung
-
-
 
 ### § 92
 
@@ -1073,7 +996,6 @@ Vorschriften der §§ 92a bis 92f entsprechende Anwendung.
 anzusehen. Den Schiffen stehen bewegliche Teile von Schiffsbrücken
 gleich.
 
-
 ### § 92a
 
 Im Falle eines Zusammenstoßes von Schiffen besteht kein Anspruch auf
@@ -1081,13 +1003,11 @@ Ersatz des Schadens, der den Schiffen oder den an Bord befindlichen
 Personen oder Sachen durch Zufall oder höhere Gewalt zugefügt worden
 ist oder dessen Ursachen ungewiß sind.
 
-
 ### § 92b
 
 Ist der Schaden durch Verschulden der Besatzung eines der Schiffe
 herbeigeführt, so ist der Eigner dieses Schiffes zum Ersatz des
 Schadens verpflichtet.
-
 
 ### § 92c
 
@@ -1107,19 +1027,16 @@ gemeinsames Verschulden herbeigeführt ist, dem Verletzten als
 Gesamtschuldner. Im Verhältnis der Schiffseigner zueinander gelten
 auch für einen solchen Schaden die Vorschriften des Absatzes 1.
 
-
 ### § 92d
 
 Bei der Anwendung der §§ 92b, 92c steht das Verschulden eines an Bord
 tätigen Lotsen dem Verschulden eines Mitglieds der Schiffsbesatzung
 gleich.
 
-
 ### § 92e
 
 Die §§ 92 bis 92d gelten auch, wenn die beteiligten Schiffe zu
 demselben Schleppverband gehören.
-
 
 ### § 92f
 
@@ -1129,7 +1046,6 @@ Schiffsbesatzung und der Lotsen.
 (2) Die Vorschriften über die Beschränkung der Haftung des
 Schiffseigners, der Besatzungsmitglieder und der Lotsen und über ihre
 Haftung aus Verträgen bleiben unberührt.
-
 
 ### § 93 Bergung
 
@@ -1141,14 +1057,9 @@ beteiligten Personen finden die §§ 740 bis 753a, § 902 Nr. 3 und § 903
 Abs. 3 des Handelsgesetzbuchs sowie Artikel 8 des Einführungsgesetzes
 zum Handelsgesetzbuche entsprechende Anwendung.
 
-
 ### (XXXX) §§ 94 bis 101 (weggefallen)
 
-
-
 ## Achter Abschnitt - Schiffsgläubiger
-
-
 
 ### § 102
 
@@ -1184,10 +1095,6 @@ Schiffsgläubigers:
 6.  die Forderungen der Träger der Sozialversicherung einschließlich der
     Arbeitslosenversicherung gegen den Schiffseigner.
 
-
-
-
-
 ### § 103
 
 (1) Die Schiffsgläubiger haben an dem Schiff nebst Zubehör ein
@@ -1200,7 +1107,6 @@ verfolgbar.
 vollstreckbaren Titels nach den Vorschriften über die
 Zwangsvollstreckung.
 
-
 ### § 104
 
 Sind mehrere Schiffe in einem Schleppzug, einem Schubverband oder
@@ -1208,24 +1114,20 @@ einem Verband von fest gekoppelten Schiffen mit eigener Antriebskraft
 vereinigt, so erstreckt sich das Pfandrecht des Schiffsgläubigers nur
 auf dasjenige Schiff, welches den Schaden verursacht hat.
 
-
 ### § 105
 
 Das einem Schiffsgläubiger zustehende Pfandrecht gilt in gleichem Maße
 für Kapital, Zinsen und Kosten.
 
-
 ### § 106
 
 (weggefallen)
-
 
 ### § 107
 
 Die Rangordnung der Pfandrechte der Schiffsgläubiger bestimmt sich
 nach der Reihenfolge der Nummern, unter denen die Forderungen in § 102
 aufgeführt sind.
-
 
 ### § 108
 
@@ -1245,7 +1147,6 @@ gleichzeitig entstanden.
 Personenschäden gehen Pfandrechten für die unter derselben Nummer
 aufgeführten Forderungen wegen Sachschäden vor.
 
-
 ### § 109
 
 (1) Das Pfandrecht des Schiffsgläubigers hat den Vorrang vor den
@@ -1264,7 +1165,6 @@ seinem Pfandrecht an dem Schiff das Pfandrecht eines Gläubigers
 vorgeht, der nicht Schiffsgläubiger ist, so wird der Schiffseigner in
 Höhe dieses Ausfalls persönlich verpflichtet.
 
-
 ### § 110
 
 Wird außer dem Fall der Zwangsversteigerung das Schiff veräußert, so
@@ -1272,18 +1172,15 @@ ist der Erwerber berechtigt, die Ausschließung der unbekannten
 Schiffsgläubiger mit ihren Pfandrechten im Wege des
 Aufgebotsverfahrens zu beantragen.
 
-
 ### § 111
 
 Die Vorschrift des § 110 findet keine Anwendung, wenn nur der Anteil
 eines Miteigentümers des Schiffes den Gegenstand der Veräußerung
 bildet.
 
-
 ### § 112
 
 (weggefallen)
-
 
 ### § 113
 
@@ -1294,7 +1191,6 @@ Zwangsversteigerung oder infolge eines nach § 110 eingeleiteten
 Aufgebotsverfahrens erloschen ist, in Höhe desjenigen Betrages
 persönlich, der sich bei einer Verteilung des eingezogenen Betrages
 nach der gesetzlichen Rangordnung ergibt.
-
 
 ### § 114
 
@@ -1311,7 +1207,6 @@ nach der gesetzlichen Rangordnung verteilt worden wäre.
 bei dieser Verteilung seine vollständige Befriedigung erlangt haben
 würde.
 
-
 ### § 115
 
 (1) Das Pfandrecht erstreckt sich auch auf einen Ersatzanspruch, der
@@ -1327,7 +1222,6 @@ eingezogen hat, haftet er in Höhe des eingezogenen Betrages den
 Schiffsgläubigern persönlich in gleicher Weise wie bei Einziehung
 eines Erlöses (§ 113).
 
-
 ### § 116
 
 (1) Die wegen der Beiträge zur großen Haverei auf den Ladungsgütern
@@ -1342,10 +1236,7 @@ entstanden.
 Beschädigung durch rechtswidrige Handlungen finden die Vorschriften
 des § 115 entsprechende Anwendung.
 
-
 ## Neunter Abschnitt - Verjährung
-
-
 
 ### § 117
 
@@ -1383,7 +1274,6 @@ des § 115 entsprechende Anwendung.
 (2) Die Verjährung beginnt mit dem Schluß des Jahres, in welchem die
 Forderung fällig geworden ist.
 
-
 ### § 118
 
 (1) Ersatzansprüche aus dem Zusammenstoß von Schiffen (§§ 92 bis 92f)
@@ -1402,14 +1292,9 @@ gegen die übrigen Gesamtschuldner zustehen, beginnt jedoch nicht vor
 dem Tag, an dem der Berechtigte Kenntnis von der Zahlungsunfähigkeit
 erlangt.
 
-
 ### (XXXX) §§ 119 bis 129
 
-
-
 ## Zehnter Abschnitt - Schlußbestimmungen
-
-
 
 ### § 130
 
@@ -1418,7 +1303,6 @@ Widerklage ein Anspruch auf Grund dieses Gesetzes geltend gemacht ist,
 wird die Verhandlung und Entscheidung letzter Instanz im Sinne des § 8
 des Einführungsgesetzes zum Gerichtsverfassungsgesetz dem
 Bundesgerichtshof zugewiesen.
-
 
 ### § 131
 
@@ -1439,16 +1323,13 @@ Bestimmungen dieses Gesetzes mit Ausnahme der §§ 4 bis 5m, 92 bis 92f,
 (4) Das gleiche gilt bezüglich des Betriebs von Fähranstalten, soweit
 nicht der Betrieb mittels frei schwimmender Schiffe stattfindet.
 
-
 ### § 132
 
 -
 
-
 ### § 133
 
 (weggefallen)
-
 
 ### Anhang EV Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet D Abschnitt III (BGBl. II 1990, 889, 960) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 

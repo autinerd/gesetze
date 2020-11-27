@@ -21,14 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 G v. 27.7.2011 I 1600, 1942
 
-
 ## Erster Teil - Allgemeine Vorschriften
 
-
-
 ### Erstes Kapitel - Inkrafttreten. Vorbehalt für Landesrecht. Gesetzesbegriff
-
-
 
 ##### Art 1 -
 
@@ -45,20 +40,14 @@ landesgesetzliche Vorschriften unberührt bleiben oder erlassen werden
 können, bleiben die bestehenden landesgesetzlichen Vorschriften in
 Kraft und können neue landesgesetzliche Vorschriften erlassen werden.
 
-
 ##### Art 2 -
 
 Gesetz im Sinne des Bürgerlichen Gesetzbuchs und dieses Gesetzes ist
 jede Rechtsnorm.
 
-
 ### Zweites Kapitel - Internationales Privatrecht
 
-
-
 #### Erster Abschnitt - Allgemeine Vorschriften
-
-
 
 ###### Art 3 - Anwendungsbereich; Verhältnis zu Regelungen der Europäischen Gemeinschaft und zu völkerrechtlichen Vereinbarungen
 
@@ -96,7 +85,6 @@ maßgeblich sind, bestimmt sich das anzuwendende Recht bei
 Sachverhalten mit einer Verbindung zu einem ausländischen Staat nach
 den Vorschriften dieses Kapitels (Internationales Privatrecht).
 
-
 ###### Art 3a - Sachnormverweisung; Einzelstatut
 
 (1) Verweisungen auf Sachvorschriften beziehen sich auf die
@@ -108,7 +96,6 @@ einer Person dem Recht eines Staates unterstellen, beziehen sie sich
 nicht auf Gegenstände, die sich nicht in diesem Staat befinden und
 nach dem Recht des Staates, in dem sie sich befinden, besonderen
 Vorschriften unterliegen.
-
 
 ###### Art 4 - Rück- und Weiterverweisung; Rechtsspaltung
 
@@ -126,7 +113,6 @@ verwiesen, ohne die maßgebende zu bezeichnen, so bestimmt das Recht
 dieses Staates, welche Teilrechtsordnung anzuwenden ist. Fehlt eine
 solche Regelung, so ist die Teilrechtsordnung anzuwenden, mit welcher
 der Sachverhalt am engsten verbunden ist.
-
 
 ###### Art 5 - Personalstatut
 
@@ -148,7 +134,6 @@ nicht voll geschäftsfähige Person den Aufenthalt ohne den Willen des
 gesetzlichen Vertreters, so führt diese Änderung allein nicht zur
 Anwendung eines anderen Rechts.
 
-
 ###### Art 6 - Öffentliche Ordnung (ordre public)
 
 Eine Rechtsnorm eines anderen Staates ist nicht anzuwenden, wenn ihre
@@ -157,10 +142,7 @@ des deutschen Rechts offensichtlich unvereinbar ist. Sie ist
 insbesondere nicht anzuwenden, wenn die Anwendung mit den Grundrechten
 unvereinbar ist.
 
-
 #### Zweiter Abschnitt - Recht der natürlichen Personen und der Rechtsgeschäfte
-
-
 
 ###### Art 7 - Rechtsfähigkeit und Geschäftsfähigkeit
 
@@ -173,11 +155,9 @@ wird.
 durch Erwerb oder Verlust der Rechtsstellung als Deutscher nicht
 beeinträchtigt.
 
-
 ###### Art 8 - Entmündigung
 
 (weggefallen)
-
 
 ###### Art 9 - Todeserklärung
 
@@ -188,7 +168,6 @@ nach den vorhandenen Nachrichten noch gelebt hat. War der Verschollene
 in diesem Zeitpunkt Angehöriger eines fremden Staates, so kann er nach
 deutschem Recht für tot erklärt werden, wenn hierfür ein berechtigtes
 Interesse besteht.
-
 
 ###### Art 10 - Name
 
@@ -231,7 +210,6 @@ Nach der Beurkundung der Geburt abgegebene Erklärungen müssen
 
 (4) (weggefallen)
 
-
 ###### Art 11 - Form von Rechtsgeschäften
 
 (1) Ein Rechtsgeschäft ist formgültig, wenn es die Formerfordernisse
@@ -254,7 +232,6 @@ oder über ein solches Recht verfügt wird, ist nur formgültig, wenn es
 die Formerfordernisse des Rechts erfüllt, das auf das seinen
 Gegenstand bildende Rechtsverhältnis anzuwenden ist.
 
-
 ###### Art 12 - Schutz des anderen Vertragsteils
 
 Wird ein Vertrag zwischen Personen geschlossen, die sich in demselben
@@ -268,10 +245,7 @@ kannte oder kennen mußte. Dies gilt nicht für familienrechtliche und
 erbrechtliche Rechtsgeschäfte sowie für Verfügungen über ein in einem
 anderen Staat belegenes Grundstück.
 
-
 #### Dritter Abschnitt - Familienrecht
-
-
 
 ###### Art 13 - Eheschließung
 
@@ -307,7 +281,6 @@ werden; eine beglaubigte Abschrift der Eintragung der so geschlossenen
 Ehe in das Standesregister, das von der dazu ordnungsgemäß
 ermächtigten Person geführt wird, erbringt vollen Beweis der
 Eheschließung.
-
 
 ###### Art 14 - Allgemeine Ehewirkungen
 
@@ -354,7 +327,6 @@ Inland vorgenommen, so genügt es, wenn sie den Formerfordernissen für
 einen Ehevertrag nach dem gewählten Recht oder am Ort der Rechtswahl
 entspricht.
 
-
 ###### Art 15 - Güterstand
 
 (1) Die güterrechtlichen Wirkungen der Ehe unterliegen dem bei der
@@ -380,7 +352,6 @@ wählen
 (4) Die Vorschriften des Gesetzes über den ehelichen Güterstand von
 Vertriebenen und Flüchtlingen bleiben unberührt.
 
-
 ###### Art 16 - Schutz Dritter
 
 (1) Unterliegen die güterrechtlichen Wirkungen einer Ehe dem Recht
@@ -394,7 +365,6 @@ befindliche bewegliche Sachen § 1362, auf ein hier betriebenes
 Erwerbsgeschäft sind die §§ 1431 und 1456 des Bürgerlichen Gesetzbuchs
 sinngemäß anzuwenden, soweit diese Vorschriften für gutgläubige Dritte
 günstiger sind als das fremde Recht.
-
 
 ###### Art 17 - Scheidung
 
@@ -427,14 +397,12 @@ soweit seine Durchführung im Hinblick auf die beiderseitigen
 wirtschaftlichen Verhältnisse auch während der nicht im Inland
 verbrachten Zeit der Billigkeit nicht widerspricht.
 
-
 ###### Art 17a - Ehewohnung und Haushaltsgegenstände
 
 Die Nutzungsbefugnis für die im Inland belegene Ehewohnung und die im
 Inland befindlichen Haushaltsgegenstände sowie damit zusammenhängende
 Betretungs-, Näherungs- und Kontaktverbote unterliegen den deutschen
 Sachvorschriften.
-
 
 ###### Art 17b - Eingetragene Lebenspartnerschaft
 
@@ -476,10 +444,7 @@ die in Absatz 1 umschriebenen Wirkungen und Folgen maßgebend.
 gehen nicht weiter als nach den Vorschriften des Bürgerlichen
 Gesetzbuchs und des Lebenspartnerschaftsgesetzes vorgesehen.
 
-
 ###### Art 18 - (weggefallen)
-
-
 
 ###### Art 19 - Abstammung
 
@@ -497,7 +462,6 @@ Verpflichtungen des Vaters gegenüber der Mutter auf Grund der
 Schwangerschaft dem Recht des Staates, in dem die Mutter ihren
 gewöhnlichen Aufenthalt hat.
 
-
 ###### Art 20 - Anfechtung der Abstammung
 
 Die Abstammung kann nach jedem Recht angefochten werden, aus dem sich
@@ -505,13 +469,11 @@ ihre Voraussetzungen ergeben. Das Kind kann die Abstammung in jedem
 Fall nach dem Recht des Staates anfechten, in dem es seinen
 gewöhnlichen Aufenthalt hat.
 
-
 ###### Art 21 - Wirkungen des Eltern-Kind-Verhältnisses
 
 Das Rechtsverhältnis zwischen einem Kind und seinen Eltern unterliegt
 dem Recht des Staates, in dem das Kind seinen gewöhnlichen Aufenthalt
 hat.
-
 
 ###### Art 22 - Annahme als Kind
 
@@ -535,7 +497,6 @@ entsprechend, wenn die Annahme auf einer ausländischen Entscheidung
 beruht. Die Sätze 1 und 2 finden keine Anwendung, wenn der Angenommene
 im Zeitpunkt der Annahme das achtzehnte Lebensjahr vollendet hatte.
 
-
 ###### Art 23 - Zustimmung
 
 Die Erforderlichkeit und die Erteilung der Zustimmung des Kindes und
@@ -544,7 +505,6 @@ steht, zu einer Abstammungserklärung, Namenserteilung oder Annahme als
 Kind unterliegen zusätzlich dem Recht des Staates, dem das Kind
 angehört. Soweit es zum Wohl des Kindes erforderlich ist, ist statt
 dessen das deutsche Recht anzuwenden.
-
 
 ###### Art 24 - Vormundschaft, Betreuung und Pflegschaft
 
@@ -565,10 +525,7 @@ Angelegenheit maßgebend ist.
 angeordneten Vormundschaft und Pflegschaft unterliegen dem Recht des
 anordnenden Staates.
 
-
 #### Vierter Abschnitt - Erbrecht
-
-
 
 ###### Art 25 - Rechtsnachfolge von Todes wegen
 
@@ -577,7 +534,6 @@ Staates, dem der Erblasser im Zeitpunkt seines Todes angehörte.
 
 (2) Der Erblasser kann für im Inland belegenes unbewegliches Vermögen
 in der Form einer Verfügung von Todes wegen deutsches Recht wählen.
-
 
 ###### Art 26 - Verfügungen von Todes wegen
 
@@ -633,14 +589,9 @@ anzuwenden wäre. Die einmal erlangte Testierfähigkeit wird durch
 Erwerb oder Verlust der Rechtsstellung als Deutscher nicht
 beeinträchtigt.
 
-
 #### Fünfter Abschnitt - Außervertragliche Schuldverhältnisse
 
-
-
 ###### Art 27 bis 37 - (weggefallen)
-
-
 
 ###### Art 38 - Ungerechtfertigte Bereicherung
 
@@ -656,7 +607,6 @@ geschehen ist.
 Bereicherung dem Recht des Staates, in dem die Bereicherung
 eingetreten ist.
 
-
 ###### Art 39 - Geschäftsführung ohne Auftrag
 
 (1) Gesetzliche Ansprüche aus der Besorgung eines fremden Geschäfts
@@ -665,7 +615,6 @@ worden ist.
 
 (2) Ansprüche aus der Tilgung einer fremden Verbindlichkeit
 unterliegen dem Recht, das auf die Verbindlichkeit anzuwenden ist.
-
 
 ###### Art 40 - Unerlaubte Handlung
 
@@ -706,7 +655,6 @@ Versicherer des Ersatzpflichtigen geltend machen, wenn das auf die
 unerlaubte Handlung anzuwendende Recht oder das Recht, dem der
 Versicherungsvertrag unterliegt, dies vorsieht.
 
-
 ###### Art 41 - Wesentlich engere Verbindung
 
 (1) Besteht mit dem Recht eines Staates eine wesentlich engere
@@ -724,20 +672,13 @@ maßgebend wäre, so ist jenes Recht anzuwenden.
     Zeitpunkt des rechtserheblichen Geschehens; Artikel 40 Abs. 2 Satz 2
     gilt entsprechend.
 
-
-
-
-
 ###### Art 42 - Rechtswahl
 
 Nach Eintritt des Ereignisses, durch das ein außervertragliches
 Schuldverhältnis entstanden ist, können die Parteien das Recht wählen,
 dem es unterliegen soll. Rechte Dritter bleiben unberührt.
 
-
 #### Sechster Abschnitt - Sachenrecht
-
-
 
 ###### Art 43 - Rechte an einer Sache
 
@@ -753,13 +694,11 @@ schon vorher erworben worden, so sind für einen solchen Erwerb im
 Inland Vorgänge in einem anderen Staat wie inländische zu
 berücksichtigen.
 
-
 ###### Art 44 - Von Grundstücken ausgehende Einwirkungen
 
 Für Ansprüche aus beeinträchtigenden Einwirkungen, die von einem
 Grundstück ausgehen, gelten die Vorschriften der Verordnung (EG) Nr.
 864/2007 mit Ausnahme des Kapitels III entsprechend.
-
 
 ###### Art 45 - Transportmittel
 
@@ -783,21 +722,15 @@ unterliegt dem Recht, das auf die zu sichernde Forderung anzuwenden
 ist. Für die Rangfolge mehrerer Sicherungsrechte gilt Artikel 43 Abs.
 1\.
 
-
 ###### Art 46 - Wesentlich engere Verbindung
 
 Besteht mit dem Recht eines Staates eine wesentlich engere Verbindung
 als mit dem Recht, das nach den Artikeln 43 und 45 maßgebend wäre, so
 ist jenes Recht anzuwenden.
 
-
 #### Siebter Abschnitt - Besondere Vorschriften zur Durchführung von Regelungen der Europäischen Gemeinschaft nach Artikel 3 Nr. 1
 
-
-
 ##### Erster Unterabschnitt - Durchführung der Verordnung (EG) Nr. 864/2007
-
-
 
 ###### Art 46a - Umweltschädigungen
 
@@ -807,10 +740,7 @@ Staates zu stützen, in dem das schadensbegründende Ereignis
 eingetreten ist, nur im ersten Rechtszug bis zum Ende des frühen
 ersten Termins oder dem Ende des schriftlichen Vorverfahrens ausüben.
 
-
 ##### Zweiter Unterabschnitt - Durchführung der Verordnung (EG) Nr. 593/2008
-
-
 
 ###### Art 46b - Verbraucherschutz für besondere Gebiete
 
@@ -898,10 +828,6 @@ wenn
     Staat ausrichtet und der Vertrag in den Bereich dieser Tätigkeit
     fällt.
 
-
-
-
-
 ###### Art 46c - Pflichtversicherungsverträge
 
 (1) Ein Versicherungsvertrag über Risiken, für die ein Mitgliedstaat
@@ -914,10 +840,7 @@ Anwendung vorschreibt.
 unterliegt deutschem Recht, wenn die gesetzliche Verpflichtung zu
 seinem Abschluss auf deutschem Recht beruht.
 
-
 ### Drittes Kapitel - Angleichung
-
-
 
 ##### Art 47 - Vor- und Familiennamen
 
@@ -957,21 +880,15 @@ der nach einem anwendbaren ausländischen Recht erworben worden ist.
 (4) Die Erklärungen nach den Absätzen 1 und 2 müssen öffentlich
 beglaubigt oder beurkundet werden.
 
-
 ##### Art 48 und 49 - (Änderung anderer Vorschriften)
 
-
-
 ## Zweiter Teil - Verhältnis des Bürgerlichen Gesetzbuchs zu den Reichsgesetzen
-
-
 
 #### Art 50 -
 
 Die Vorschriften der Reichsgesetze bleiben in Kraft. Sie treten jedoch
 insoweit außer Kraft, als sich aus dem Bürgerlichen Gesetzbuch oder
 aus diesem Gesetz die Aufhebung ergibt.
-
 
 #### Art 51 -
 
@@ -981,7 +898,6 @@ an die Verwandtschaft oder die Schwägerschaft rechtliche Folgen
 geknüpft sind, finden die Vorschriften des Bürgerlichen Gesetzbuchs
 oder des Lebenspartnerschaftsgesetzes über Verwandtschaft oder
 Schwägerschaft Anwendung.
-
 
 #### Art 52 -
 
@@ -994,7 +910,6 @@ so hat der Dritte, soweit sein Recht beeinträchtigt wird, an dem
 Entschädigungsanspruch dieselben Rechte, die ihm im Falle des
 Erlöschens seines Rechts durch Zwangsversteigerung an dem Erlös
 zustehen.
-
 
 #### Art 53 -
 
@@ -1019,7 +934,6 @@ Zubehörstücken zu gewähren, so finden die Vorschriften des § 1123 Abs.
 2 Satz 1 und des § 1124 Abs. 1 und 3 des Bürgerlichen Gesetzbuchs
 entsprechende Anwendung.
 
-
 #### Art 53a -
 
 (1) Ist in einem Falle des Artikels 52 die Entschädigung dem
@@ -1031,14 +945,9 @@ entsprechend anzuwenden.
 
 (2) Artikel 53 Abs. 1 Satz 2 und 3 gilt entsprechend.
 
-
 #### Art 54 - (gegenstandslos)
 
-
-
 ## Dritter Teil - Verhältnis des Bürgerlichen Gesetzbuchs zu den Landesgesetzen
-
-
 
 #### Art 55 -
 
@@ -1046,24 +955,19 @@ Die privatrechtlichen Vorschriften der Landesgesetze treten außer
 Kraft, soweit nicht in dem Bürgerlichen Gesetzbuch oder in diesem
 Gesetz ein anderes bestimmt ist.
 
-
 #### Art 56 -
 
 Unberührt bleiben die Bestimmungen der Staatsverträge, die ein
 Bundesstaat mit einem ausländischen Staat vor dem Inkrafttreten des
 Bürgerlichen Gesetzbuchs geschlossen hat.
 
-
 #### Art 57 und 58 - (gegenstandslos)
-
-
 
 #### Art 59 -
 
 Unberührt bleiben die landesgesetzlichen Vorschriften über
 Familienfideikommisse und Lehen, mit Einschluß der allodifizierten
 Lehen, sowie über Stammgüter.
-
 
 #### Art 60 -
 
@@ -1074,7 +978,6 @@ bezeichneten Vorschriften nur beschränkt zulässig ist, dahin
 gestatten, daß der Gläubiger Befriedigung aus dem Grundstück lediglich
 im Wege der Zwangsverwaltung suchen kann.
 
-
 #### Art 61 -
 
 Ist die Veräußerung oder Belastung eines Gegenstandes nach den in den
@@ -1084,12 +987,10 @@ Vorschriften entgegenstehen, die Vorschriften des Bürgerlichen
 Gesetzbuchs zugunsten derjenigen, welche Rechte von einem
 Nichtberechtigten herleiten, entsprechende Anwendung.
 
-
 #### Art 62 -
 
 Unberührt bleiben die landesgesetzlichen Vorschriften über
 Rentengüter.
-
 
 #### Art 63 -
 
@@ -1098,7 +999,6 @@ Erbpachtrecht, mit Einschluß des Büdnerrechts und des Häuslerrechts,
 in denjenigen Bundesstaaten, in welchen solche Rechte bestehen. Die
 Vorschriften des § 1017 des Bürgerlichen Gesetzbuchs finden auf diese
 Rechte entsprechende Anwendung.
-
 
 #### Art 64 -
 
@@ -1110,16 +1010,12 @@ forstwirtschaftlicher Grundstücke nebst deren Zubehör.
 Anerbenrecht unterliegende Grundstück von Todes wegen zu verfügen,
 nicht beschränken.
 
-
 #### Art 65 - (weggefallen)
-
-
 
 #### Art 66 -
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, welche dem
 Deich- und Sielrecht angehören.
-
 
 #### Art 67 -
 
@@ -1131,7 +1027,6 @@ Grundstücks durch Bergbau eine Entschädigung zu gewähren, so finden
 die Vorschriften der Artikel 52 und 53 Anwendung, soweit nicht die
 Landesgesetze ein anderes bestimmen.
 
-
 #### Art 68 -
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, welche die
@@ -1141,7 +1036,6 @@ unterliegenden Minerals gestatten und den Inhalt dieses Rechtes näher
 bestimmen. Die Vorschriften der §§ 874, 875, 876, 1015, 1017 des
 Bürgerlichen Gesetzbuchs finden entsprechende Anwendung.
 
-
 #### Art 69 -
 
 Unberührt bleiben die landesgesetzlichen Vorschriften über
@@ -1149,31 +1043,23 @@ Jagd und              Fischerei, unbeschadet der Vorschrift des § 958
 Abs. 2 des Bürgerlichen Gesetzbuchs und der Vorschriften des
 Bürgerlichen Gesetzbuchs über den Ersatz des Wildschadens.
 
-
 #### Art 70 bis 72 - (weggefallen)
-
-
 
 #### Art 73 -
 
 Unberührt bleiben die landesgesetzlichen Vorschriften über Regalien.
-
 
 #### Art 74 -
 
 Unberührt bleiben die landesgesetzlichen Vorschriften über
 Zwangsrechte, Bannrechte und Realgewerbeberechtigungen.
 
-
 #### Art 75 - (gegenstandslos)
-
-
 
 #### Art 76 -
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, welche dem
 Verlagsrecht angehören.
-
 
 #### Art 77 -
 
@@ -1185,13 +1071,11 @@ landesgesetzlichen Vorschriften, welche das Recht des Beschädigten,
 von dem Beamten den Ersatz eines solchen Schadens zu verlangen,
 insoweit ausschließen, als der Staat oder der Kommunalverband haftet.
 
-
 #### Art 78 -
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, nach welchen
 die Beamten für die von ihnen angenommenen Stellvertreter und Gehilfen
 in weiterem Umfang als nach dem Bürgerlichen Gesetzbuch haften.
-
 
 #### Art 79 -
 
@@ -1200,7 +1084,6 @@ die zur amtlichen Feststellung des Wertes von Grundstücken bestellten
 Sachverständigen für den aus einer Verletzung ihrer Berufspflicht
 entstandenen Schaden in weiterem Umfang als nach dem Bürgerlichen
 Gesetzbuch haften.
-
 
 #### Art 80 -
 
@@ -1214,7 +1097,6 @@ mit Einschluß der Ansprüche der Hinterbliebenen.
 (2) Unberührt bleiben die landesgesetzlichen Vorschriften über das
 Pfründenrecht.
 
-
 #### Art 81 -
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, welche die
@@ -1224,24 +1106,20 @@ beschränken, sowie die landesgesetzlichen Vorschriften, welche die
 Aufrechnung gegen solche Ansprüche abweichend von der Vorschrift des §
 394 des Bürgerlichen Gesetzbuchs zulassen.
 
-
 #### Art 82 -
 
 Unberührt bleiben die Vorschriften der Landesgesetze über die
 Verfassung solcher Vereine, deren Rechtsfähigkeit auf staatlicher
 Verleihung beruht.
 
-
 #### Art 83 -
 
 Unberührt bleiben die landesgesetzlichen Vorschriften über
 Waldgenossenschaften.
 
-
 #### Art 84 -
 
 (gegenstandslos)
-
 
 #### Art 85 -
 
@@ -1249,7 +1127,6 @@ Unberührt bleiben die landesgesetzlichen Vorschriften, nach welchen im
 Falle des § 45 Abs. 3 des Bürgerlichen Gesetzbuchs das Vermögen des
 aufgelösten Vereins an Stelle des Fiskus einer Körperschaft, Stiftung
 oder Anstalt des öffentlichen Rechts anfällt.
-
 
 #### Art 86 -
 
@@ -1269,14 +1146,9 @@ das Retorsionsrecht, dies erfordern. Satz 2 gilt nicht für Ausländer
 und ausländische juristische Personen aus Mitgliedstaaten der
 Europäischen Union.
 
-
 #### Art 87 - (weggefallen)
 
-
-
 #### Art 88 - (weggefallen)
-
-
 
 #### Art 89 -
 
@@ -1285,14 +1157,12 @@ Schutz der Grundstücke und der Erzeugnisse von Grundstücken gestattete
 Pfändung von Sachen, mit Einschluß der Vorschriften über die
 Entrichtung von Pfandgeld oder Ersatzgeld.
 
-
 #### Art 90 -
 
 Unberührt bleiben die landesgesetzlichen Vorschriften über die
 Rechtsverhältnisse, welche sich aus einer auf Grund des öffentlichen
 Rechts wegen der Führung eines Amtes oder wegen eines Gewerbebetriebs
 erfolgten Sicherheitsleistung ergeben.
-
 
 #### Art 91 -
 
@@ -1306,17 +1176,13 @@ einer bestimmten Behörde zu erfolgen hat. Die Hypothek kann nur als
 Sicherungshypothek eingetragen werden; sie entsteht mit der
 Eintragung.
 
-
 #### Art 92 - (weggefallen)
-
-
 
 #### Art 93 -
 
 Unberührt bleiben die landesgesetzlichen Vorschriften über die
 Fristen, bis zu deren Ablauf gemietete Räume bei Beendigung des
 Mietverhältnisses zu räumen sind.
-
 
 #### Art 94 -
 
@@ -1328,10 +1194,7 @@ welchen öffentlichen Pfandleihanstalten das Recht zusteht, die ihnen
 verpfändeten Sachen dem Berechtigten nur gegen Bezahlung des auf die
 Sache gewährten Darlehens herauszugeben.
 
-
 #### Art 95 - (gegenstandslos)
-
-
 
 #### Art 96 -
 
@@ -1340,7 +1203,6 @@ der Überlassung eines Grundstücks in Verbindung stehenden
 Leibgedings-, Leibzuchts-, Altenteils- oder Auszugsvertrag, soweit sie
 das sich aus dem Vertrag ergebende Schuldverhältnis für den Fall
 regeln, daß nicht besondere Vereinbarungen getroffen werden.
-
 
 #### Art 97 -
 
@@ -1359,7 +1221,6 @@ Ehemann gegenüber zur Erteilung der Zustimmung verpflichtet, wenn sie
 nach dem unter ihnen bestehenden Güterstand über die Buchforderung nur
 mit Zustimmung des Ehemanns verfügen kann.
 
-
 #### Art 98 -
 
 Unberührt bleiben die landesgesetzlichen Vorschriften über die
@@ -1367,14 +1228,12 @@ Rückzahlung oder Umwandlung verzinslicher Staatsschulden, für die
 Inhaberpapiere ausgegeben oder die im Staatsschuldbuch eingetragen
 sind.
 
-
 #### Art 99 -
 
 Unberührt bleiben die landesgesetzlichen Vorschriften über die
 öffentlichen Sparkassen, unbeschadet der Vorschriften des § 808 des
 Bürgerlichen Gesetzbuchs und der Vorschriften des Bürgerlichen
 Gesetzbuchs über die Anlegung von Mündelgeld.
-
 
 #### Art 100 -
 
@@ -1392,10 +1251,6 @@ eine ihm angehörende Körperschaft, Stiftung oder Anstalt des
     ausgeschlossen ist, auch wenn die Ausschließung in dem Zins- oder
     Rentenschein nicht bestimmt ist.
 
-
-
-
-
 #### Art 101 -
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, welche den
@@ -1408,7 +1263,6 @@ landesgesetzlichen Vorschriften, welche die sich aus der Umschreibung
 einer solchen Schuldverschreibung ergebenden Rechtsverhältnisse, mit
 Einschluß der Kraftloserklärung, regeln.
 
-
 #### Art 102 -
 
 (1) Unberührt bleiben die landesgesetzlichen Vorschriften über die
@@ -1420,17 +1274,13 @@ die Kraftloserklärung der im § 808 des Bürgerlichen Gesetzbuchs
 bezeichneten Urkunden ein anderes Verfahren als das Aufgebotsverfahren
 bestimmen.
 
-
 #### Art 103 - (gegenstandslos)
-
-
 
 #### Art 104 -
 
 Unberührt bleiben die landesgesetzlichen Vorschriften über den
 Anspruch auf Rückerstattung mit Unrecht erhobener öffentlicher Abgaben
 oder Kosten eines Verfahrens.
-
 
 #### Art 105 -
 
@@ -1441,7 +1291,6 @@ verbundenen Betriebs für den aus dem Betrieb entstehenden Schaden in
 weiterem Umfang als nach den Vorschriften des Bürgerlichen Gesetzbuchs
 verantwortlich ist.
 
-
 #### Art 106 -
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, nach welchen,
@@ -1451,7 +1300,6 @@ Anlage oder des Betriebs für den Schaden verantwortlich ist, der bei
 dem öffentlichen Gebrauch des Grundstücks durch die Anlage oder den
 Betrieb verursacht wird.
 
-
 #### Art 107 -
 
 Unberührt bleiben die landesgesetzlichen Vorschriften über die
@@ -1459,13 +1307,11 @@ Verpflichtung zum Ersatz des Schadens, der durch das Zuwiderhandeln
 gegen ein zum Schutz von Grundstücken erlassenes Strafgesetz
 verursacht wird.
 
-
 #### Art 108 -
 
 Unberührt bleiben die landesgesetzlichen Vorschriften über die
 Verpflichtung zum Ersatz des Schadens, der bei einer Zusammenrottung,
 einem Auflauf oder einem Aufruhr entsteht.
-
 
 #### Art 109 -
 
@@ -1480,20 +1326,17 @@ Vorschriften können nicht bestimmen, daß für ein Rechtsgeschäft, für
 das notarielle Beurkundung vorgeschrieben ist, eine andere Form
 genügt.
 
-
 #### Art 110 -
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, welche für den
 Fall, daß zerstörte Gebäude in anderer Lage wiederhergestellt werden,
 die Rechte an den beteiligten Grundstücken regeln.
 
-
 #### Art 111 -
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, welche im
 öffentlichen Interesse das Eigentum in Ansehung tatsächlicher
 Verfügungen beschränken.
-
 
 #### Art 112 -
 
@@ -1508,7 +1351,6 @@ Liquidation zum Zwecke der Befriedigung der Gläubiger, denen ein Recht
 auf abgesonderte Befriedigung aus den Bestandteilen der Bahneinheit
 zusteht.
 
-
 #### Art 113 -
 
 Unberührt bleiben die landesgesetzlichen Vorschriften über die
@@ -1522,7 +1364,6 @@ oder welche sich auf den Erwerb des Eigentums, auf die Begründung,
 Änderung und Aufhebung von anderen Rechten an Grundstücken und auf die
 Berichtigung des Grundbuchs beziehen.
 
-
 #### Art 114 -
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, nach welchen
@@ -1533,7 +1374,6 @@ Ablösungsrenten und sonstigen Reallasten zu ihrer Begründung und zur
 Wirksamkeit gegenüber dem öffentlichen Glauben des Grundbuchs nicht
 der Eintragung bedürfen.
 
-
 #### Art 115 -
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, welche die
@@ -1543,7 +1383,6 @@ untersagen oder beschränken, sowie die landesgesetzlichen
 Vorschriften, welche den Inhalt und das Maß solcher Rechte näher
 bestimmen.
 
-
 #### Art 116 -
 
 Die in den Artikeln 113 bis 115 bezeichneten landesgesetzlichen
@@ -1551,7 +1390,6 @@ Vorschriften finden keine Anwendung auf die nach den §§ 912, 916 und
 917 des Bürgerlichen Gesetzbuchs zu entrichtenden Geldrenten und auf
 die in den §§ 1021 und 1022 des Bürgerlichen Gesetzbuchs bestimmten
 Unterhaltungspflichten.
-
 
 #### Art 117 -
 
@@ -1566,7 +1404,6 @@ Eigentümers bei Hypothekenforderungen und Grundschulden zeitlich
 beschränken und bei Rentenschulden nur für eine kürzere als die in §
 1202 Abs. 2 des Bürgerlichen Gesetzbuchs bestimmte Zeit zulassen.
 
-
 #### Art 118 -
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, welche einer
@@ -1576,7 +1413,6 @@ Grundstücks gewährten Darlehens zusteht, den Vorrang vor anderen
 Belastungen des Grundstücks einräumen. Zugunsten eines Dritten finden
 die Vorschriften der §§ 892 und 893 des Bürgerlichen Gesetzbuchs
 Anwendung.
-
 
 #### Art 119 -
 
@@ -1594,10 +1430,6 @@ Unberührt bleiben die landesgesetzlichen Vorschriften, welche
     Vereinigung mehrerer Grundstücke oder die nach § 890 Abs. 2 des
     Bürgerlichen Gesetzbuchs zulässige Zuschreibung eines Grundstücks zu
     einem anderen Grundstück untersagen oder beschränken.
-
-
-
-
 
 #### Art 120 -
 
@@ -1625,10 +1457,6 @@ welchen unter der gleichen Voraussetzung:
     Entschädigungsanspruch von dem einem Dritten an dem Anspruch
     zustehenden Recht befreit wird.
 
-
-
-
-
 #### Art 121 -
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, nach welchen im
@@ -1638,7 +1466,6 @@ mit der Reallast belastet bleibt und dafür zugunsten des jeweiligen
 Eigentümers dieses Teiles die übrigen Teile mit gleichartigen
 Reallasten belastet werden.
 
-
 #### Art 122 -
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, welche die
@@ -1647,13 +1474,11 @@ Grenze oder auf dem Nachbargrundstück stehenden Obstbäume abweichend
 von den Vorschriften des § 910 und des § 923 Abs. 2 des Bürgerlichen
 Gesetzbuchs bestimmen.
 
-
 #### Art 123 -
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, welche das
 Recht des Notwegs zum Zwecke der Verbindung eines Grundstücks mit
 einer Wasserstraße oder einer Eisenbahn gewähren.
-
 
 #### Art 124 -
 
@@ -1664,13 +1489,11 @@ gilt insbesondere auch von den Vorschriften, nach welchen Anlagen
 sowie Bäume und Sträucher nur in einem bestimmten Abstand von der
 Grenze gehalten werden dürfen.
 
-
 #### Art 125 -
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, welche die
 Vorschrift des § 26 der Gewerbeordnung auf Eisenbahn-,
 Dampfschiffahrts- und ähnliche Verkehrsunternehmungen erstrecken.
-
 
 #### Art 126 -
 
@@ -1679,14 +1502,12 @@ Eigentum auf einen Kommunalverband und das einem Kommunalverband an
 einem Grundstück zustehende Eigentum auf einen anderen Kommunalverband
 oder auf den Staat übertragen werden.
 
-
 #### Art 127 -
 
 Unberührt bleiben die landesgesetzlichen Vorschriften über die
 Übertragung des Eigentums an einem Grundstück, das im Grundbuch nicht
 eingetragen ist und nach den Vorschriften der Grundbuchordnung auch
 nach der Übertragung nicht eingetragen zu werden braucht.
-
 
 #### Art 128 -
 
@@ -1695,7 +1516,6 @@ Begründung und Aufhebung einer Dienstbarkeit an einem Grundstück, das
 im Grundbuch nicht eingetragen ist und nach den Vorschriften der
 Grundbuchordnung nicht eingetragen zu werden braucht.
 
-
 #### Art 129 -
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, nach welchen
@@ -1703,13 +1523,11 @@ das Recht zur Aneignung eines nach § 928 des Bürgerlichen Gesetzbuchs
 aufgegebenen Grundstücks an Stelle des Fiskus einer bestimmten anderen
 Person zusteht.
 
-
 #### Art 130 -
 
 Unberührt bleiben die landesgesetzlichen Vorschriften über das Recht
 zur Aneignung der einem anderen gehörenden, im Freien betroffenen
 Tauben.
-
 
 #### Art 131 -
 
@@ -1722,12 +1540,10 @@ und für den Fall des Insolvenzverfahrens über das Vermögen eines
 Miteigentümers das Recht, für die Insolvenzmasse die Aufhebung der
 Gemeinschaft zu verlangen, versagen.
 
-
 #### Art 132 -
 
 Unberührt bleiben die landesgesetzlichen Vorschriften über die
 Kirchenbaulast und die Schulbaulast.
-
 
 #### Art 133 -
 
@@ -1735,10 +1551,7 @@ Unberührt bleiben die landesgesetzlichen Vorschriften über das Recht
 zur Benutzung eines Platzes in einem dem öffentlichen Gottesdienst
 gewidmeten Gebäude oder auf einer öffentlichen Begräbnisstätte.
 
-
 #### Art 134 bis 136 - (weggefallen)
-
-
 
 #### Art 137 -
 
@@ -1751,7 +1564,6 @@ veröffentlichten bereinigten Fassung, das zuletzt durch Artikel 2 Nr.
 22 des Gesetzes vom 8. Dezember 1986 (BGBl. I S. 2191) geändert worden
 ist, der Ertragswert eines Landguts festzustellen ist.
 
-
 #### Art 138 -
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, nach welchen im
@@ -1759,14 +1571,12 @@ Falle des § 1936 des Bürgerlichen Gesetzbuchs an Stelle des Fiskus
 eine Körperschaft, Stiftung oder Anstalt des öffentlichen Rechts
 gesetzlicher Erbe ist.
 
-
 #### Art 139 -
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, nach welchen
 dem Fiskus oder einer anderen juristischen Person in Ansehung des
 Nachlasses einer verpflegten oder unterstützten Person ein Erbrecht,
 ein Pflichtteilsanspruch oder ein Recht auf bestimmte Sachen zusteht.
-
 
 #### Art 140 -
 
@@ -1777,10 +1587,7 @@ eines Nachlaßverzeichnisses sowie bis zu dessen Vollendung die
 erforderlichen Sicherungsmaßregeln, insbesondere die Anlegung von
 Siegeln, von Amts wegen anordnen kann oder soll.
 
-
 #### Art 141 und 142 - (weggefallen)
-
-
 
 #### Art 143 -
 
@@ -1792,7 +1599,6 @@ Anwesenheit beider Teile nicht bedarf, wenn das Grundstück durch einen
 Notar versteigert worden ist und die Auflassung noch in dem
 Versteigerungstermin stattfindet.
 
-
 #### Art 144 -
 
 Die Landesgesetze können bestimmen, daß das Jugendamt die
@@ -1800,10 +1606,7 @@ Beistandschaft mit Zustimmung des Elternteils auf einen rechtsfähigen
 Verein übertragen kann, dem dazu eine Erlaubnis nach § 54 des Achten
 Buches Sozialgesetzbuch erteilt worden ist.
 
-
 #### Art 145 und 146 - (weggefallen)
-
-
 
 #### Art 147 -
 
@@ -1811,16 +1614,12 @@ Unberührt bleiben die landesgesetzlichen Vorschriften, nach denen für
 die Aufgaben des Betreuungsgerichts oder des Nachlassgerichts andere
 Stellen als Gerichte zuständig sind.
 
-
 #### Art 148 -
 
 Die Landesgesetze können die Zuständigkeit des Nachlaßgerichts zur
 Aufnahme des Inventars ausschließen.
 
-
 #### Art 149 bis 151 - (weggefallen)
-
-
 
 #### Art 152 -
 
@@ -1832,14 +1631,9 @@ die Rechtshängigkeit geknüpften Wirkungen eintreten. Soweit solche
 Vorschriften fehlen, finden die Vorschriften der Zivilprozeßordnung
 entsprechende Anwendung.
 
-
 ## Vierter Teil - Übergangsvorschriften
 
-
-
 #### Art 153 bis 156 - (gegenstandslos)
-
-
 
 #### Art 157 -
 
@@ -1848,10 +1642,7 @@ erwählten Wohnsitz bleiben für Rechtsverhältnisse, die sich nach
 diesen Gesetzen bestimmen, in Kraft, sofern der Wohnsitz vor dem
 Inkrafttreten des Bürgerlichen Gesetzbuchs erwählt worden ist.
 
-
 #### Art 158 bis 162 - (gegenstandslos)
-
-
 
 #### Art 163 -
 
@@ -1860,7 +1651,6 @@ bestehenden juristischen Personen finden von dieser Zeit an die
 Vorschriften der §§ 25 bis 53 und 85 bis 89 des Bürgerlichen
 Gesetzbuchs Anwendung, soweit sich nicht aus den Artikeln 164 bis 166
 ein anderes ergibt.
-
 
 #### Art 164 -
 
@@ -1873,7 +1663,6 @@ Unterschied, ob die Realgemeinden oder sonstigen Verbände juristische
 Personen sind oder nicht und ob die Berechtigung der Mitglieder an
 Grundbesitz geknüpft ist oder nicht.
 
-
 #### Art 165 -
 
 In Kraft bleiben die Vorschriften der bayerischen Gesetze, betreffend
@@ -1883,7 +1672,6 @@ Vereine und registrierten Gesellschaften, welche auf Grund dieser
 Gesetze zur Zeit des Inkrafttretens des Bürgerlichen Gesetzbuchs
 bestehen.
 
-
 #### Art 166 -
 
 In Kraft bleiben die Vorschriften des sächsischen Gesetzes vom 15.
@@ -1892,13 +1680,11 @@ derjenigen Personenvereine, welche zur Zeit des Inkrafttretens des
 Bürgerlichen Gesetzbuchs die Rechtsfähigkeit durch Eintragung in das
 Genossenschaftsregister erlangt haben.
 
-
 #### Art 167 -
 
 In Kraft bleiben die landesgesetzlichen Vorschriften, welche die zur
 Zeit des Inkrafttretens des Bürgerlichen Gesetzbuchs bestehenden
 landschaftlichen oder ritterschaftlichen Kreditanstalten betreffen.
-
 
 #### Art 168 -
 
@@ -1906,7 +1692,6 @@ Eine zur Zeit des Inkrafttretens des Bürgerlichen Gesetzbuchs
 bestehende Verfügungsbeschränkung bleibt wirksam, unbeschadet der
 Vorschriften des Bürgerlichen Gesetzbuchs zugunsten derjenigen, welche
 Rechte von einem Nichtberechtigten herleiten.
-
 
 #### Art 169 -
 
@@ -1924,12 +1709,10 @@ die in den bisherigen Gesetzen bestimmte längere Frist früher als die
 im Bürgerlichen Gesetzbuch bestimmte kürzere Frist ab, so ist die
 Verjährung mit dem Ablauf der längeren Frist vollendet.
 
-
 #### Art 170 -
 
 Für ein Schuldverhältnis, das vor dem Inkrafttreten des Bürgerlichen
 Gesetzbuchs entstanden ist, bleiben die bisherigen Gesetze maßgebend.
-
 
 #### Art 171 -
 
@@ -1939,7 +1722,6 @@ nicht die Kündigung nach dem Inkrafttreten des Bürgerlichen
 Gesetzbuchs für den ersten Termin erfolgt, für den sie nach den
 bisherigen Gesetzen zulässig ist, von diesem Termin an nach den
 Vorschriften des Bürgerlichen Gesetzbuchs.
-
 
 #### Art 172 -
 
@@ -1951,13 +1733,11 @@ Gesetzbuch bestimmten Rechte. Weitergehende Rechte des Mieters oder
 Pächters, die sich aus den bisherigen Gesetzen ergeben, bleiben
 unberührt, unbeschadet der Vorschrift des Artikels 171.
 
-
 #### Art 173 -
 
 Auf eine zur Zeit des Inkrafttretens des Bürgerlichen Gesetzbuchs
 bestehende Gemeinschaft nach Bruchteilen finden von dieser Zeit an die
 Vorschriften des Bürgerlichen Gesetzbuchs Anwendung.
-
 
 #### Art 174 -
 
@@ -1975,7 +1755,6 @@ Bürgerlichen Gesetzbuchs ausgestellten Schuldverschreibungen auf den
 Inhaber bestimmt sich, unbeschadet der Vorschriften des § 802 des
 Bürgerlichen Gesetzbuchs, nach den bisherigen Gesetzen.
 
-
 #### Art 175 -
 
 Für Zins-, Renten- und Gewinnanteilscheine, die nach dem Inkrafttreten
@@ -1984,14 +1763,12 @@ Inhaberpapier ausgegeben werden, sind die Gesetze maßgebend, welche
 für die vor dem Inkrafttreten des Bürgerlichen Gesetzbuchs
 ausgegebenen Scheine gleicher Art gelten.
 
-
 #### Art 176 -
 
 Die Außerkurssetzung von Schuldverschreibungen auf den Inhaber findet
 nach dem Inkrafttreten des Bürgerlichen Gesetzbuchs nicht mehr statt.
 Eine vorher erfolgte Außerkurssetzung verliert mit dem Inkrafttreten
 des Bürgerlichen Gesetzbuchs ihre Wirkung.
-
 
 #### Art 177 -
 
@@ -2001,7 +1778,6 @@ bezeichneten Art, sofern der Schuldner nur gegen Aushändigung der
 Urkunde zur Leistung verpflichtet ist, die Vorschriften des § 808 Abs.
 2 Satz 2 und 3 des Bürgerlichen Gesetzbuchs und des Artikels 102 Abs.
 2 dieses Gesetzes.
-
 
 #### Art 178 -
 
@@ -2013,7 +1789,6 @@ für ein solches Papier zum Gegenstand hat, ist nach den bisherigen
 Gesetzen zu erledigen. Nach diesen Gesetzen bestimmen sich auch die
 Wirkungen des Verfahrens und der Entscheidung.
 
-
 #### Art 179 -
 
 Hat ein Anspruch aus einem Schuldverhältnis nach den bisherigen
@@ -2021,14 +1796,12 @@ Gesetzen durch Eintragung in ein öffentliches Buch Wirksamkeit gegen
 Dritte erlangt, so behält er diese Wirksamkeit auch nach dem
 Inkrafttreten des Bürgerlichen Gesetzbuchs.
 
-
 #### Art 180 -
 
 Auf ein zur Zeit des Inkrafttretens des Bürgerlichen Gesetzbuchs
 bestehendes Besitzverhältnis finden von dieser Zeit an, unbeschadet
 des Artikels 191, die Vorschriften des Bürgerlichen Gesetzbuchs
 Anwendung.
-
 
 #### Art 181 -
 
@@ -2042,14 +1815,12 @@ dieser Zeit ein Sondereigentum an stehenden Erzeugnissen eines
 Grundstücks, insbesondere an Bäumen, begründet, so bleiben diese
 Rechte bestehen.
 
-
 #### Art 182 -
 
 Das zur Zeit des Inkrafttretens des Bürgerlichen Gesetzbuchs
 bestehende Stockwerkseigentum bleibt bestehen. Das Rechtsverhältnis
 der Beteiligten untereinander bestimmt sich nach den bisherigen
 Gesetzen.
-
 
 #### Art 183 -
 
@@ -2062,7 +1833,6 @@ Vorschriften des § 910 und des § 923 Abs. 2 und 3 des Bürgerlichen
 Gesetzbuchs bestimmen, bis zur nächsten Verjüngung des Waldes in
 Kraft.
 
-
 #### Art 184 -
 
 Rechte, mit denen eine Sache oder ein Recht zur Zeit des
@@ -2074,14 +1844,12 @@ jedoch für ein Erbbaurecht die Vorschriften des § 1017, für eine
 Grunddienstbarkeit die Vorschriften der §§ 1020 bis 1028 des
 Bürgerlichen Gesetzbuchs.
 
-
 #### Art 185 -
 
 Ist zur Zeit des Inkrafttretens des Bürgerlichen Gesetzbuchs die
 Ersitzung des Eigentums oder Nießbrauchs an einer beweglichen Sache
 noch nicht vollendet, so finden auf die Ersitzung die Vorschriften
 des Artikel              169 entsprechende Anwendung.
-
 
 #### Art 186 -
 
@@ -2095,7 +1863,6 @@ die Anlegung auch für solche zu dem Bezirk gehörende Grundstücke, die
 noch kein Blatt im Grundbuch haben, als erfolgt anzusehen, soweit
 nicht bestimmte Grundstücke durch besondere Anordnung ausgenommen
 sind.
-
 
 #### Art 187 -
 
@@ -2113,7 +1880,6 @@ gegenüber dem öffentlichen Glauben des Grundbuchs bei der Anlegung des
 Grundbuchs oder später in das Grundbuch eingetragen werden müssen. Die
 Bestimmung kann auf einzelne Grundbuchbezirke beschränkt werden.
 
-
 #### Art 188 -
 
 (1) Durch landesherrliche Verordnung kann bestimmt werden, daß
@@ -2128,7 +1894,6 @@ Mietrechte und Pachtrechte, welche zu der im Absatz 1 bezeichneten
 Zeit als Rechte an einem Grundstück bestehen, zur Erhaltung der
 Wirksamkeit gegenüber dem öffentlichen Glauben des Grundbuchs nicht
 der Eintragung bedürfen.
-
 
 #### Art 189 -
 
@@ -2153,7 +1918,6 @@ an einem Grundstück zu der Zeit belastet ist, zu welcher das Grundbuch
 als angelegt anzusehen ist, erfolgt auch nach dieser Zeit nach den
 bisherigen Gesetzen, bis das Recht in das Grundbuch eingetragen wird.
 
-
 #### Art 190 -
 
 Das nach § 928 Abs. 2 des Bürgerlichen Gesetzbuchs dem Fiskus
@@ -2161,7 +1925,6 @@ zustehende Aneignungsrecht erstreckt sich auf alle Grundstücke, die zu
 der Zeit herrenlos sind, zu welcher das Grundbuch als angelegt
 anzusehen ist. Die Vorschrift des Artikels 129 findet entsprechende
 Anwendung.
-
 
 #### Art 191 -
 
@@ -2183,7 +1946,6 @@ daß der Besitzschutz nur gewährt wird, wenn die Dienstbarkeit in jedem
 der drei letzten Jahre vor der Störung mindestens einmal ausgeübt
 worden ist.
 
-
 #### Art 192 -
 
 (1) Ein zu der Zeit, zu welcher das Grundbuch als angelegt anzusehen
@@ -2197,7 +1959,6 @@ Sicherungshypothek.
 Befriedigung aus dem Grundstück nur im Wege der Zwangsverwaltung
 suchen kann, so bleibt diese Beschränkung bestehen.
 
-
 #### Art 193 -
 
 Durch Landesgesetz kann bestimmt werden, daß ein Pfandrecht, welches
@@ -2205,7 +1966,6 @@ nach Artikel 192 nicht als Sicherungshypothek gilt, als
 Sicherungshypothek oder als eine Hypothek gelten soll, für welche die
 Erteilung des Hypothekenbriefs nicht ausgeschlossen ist, und daß eine
 über das Pfandrecht erteilte Urkunde als Hypothekenbrief gelten soll.
-
 
 #### Art 194 -
 
@@ -2215,7 +1975,6 @@ Löschung eines im Rang vorgehenden oder gleichstehenden Pfandrechts,
 falls dieses sich mit dem Eigentum in einer Person vereinigt, in
 gleicher Weise zu verlangen berechtigt ist, wie wenn zur Sicherung des
 Rechts auf Löschung eine Vormerkung im Grundbuch eingetragen wäre.
-
 
 #### Art 195 -
 
@@ -2231,7 +1990,6 @@ welche die Erteilung des Hypothekenbriefs nicht ausgeschlossen ist,
 oder als Sicherungshypothek gelten soll und daß eine über die
 Grundschuld erteilte Urkunde als Hypothekenbrief gelten soll.
 
-
 #### Art 196 -
 
 Durch Landesgesetz kann bestimmt werden, daß auf ein an einem
@@ -2241,7 +1999,6 @@ eines solchen Rechts die für den Erwerb des Eigentums an einem
 Grundstück geltenden Vorschriften des Bürgerlichen Gesetzbuchs
 Anwendung finden.
 
-
 #### Art 197 -
 
 In Kraft bleiben die landesgesetzlichen Vorschriften, nach welchen in
@@ -2250,7 +2007,6 @@ Inkrafttretens des Bürgerlichen Gesetzbuchs ein nicht unter den
 Artikel 63 fallendes bäuerliches Nutzungsrecht besteht, nach der
 Beendigung des Nutzungsrechts ein Recht gleicher Art neu begründet
 werden kann und der Gutsherr zu der Begründung verpflichtet ist.
-
 
 #### Art 198 -
 
@@ -2272,14 +2028,12 @@ vor dem Inkrafttreten des Bürgerlichen Gesetzbuchs.
 einer Ehe steht der Nichtigkeitserklärung nach dem Bürgerlichen
 Gesetzbuch gleich.
 
-
 #### Art 199 -
 
 Die persönlichen Rechtsbeziehungen der Ehegatten zueinander,
 insbesondere die gegenseitige Unterhaltspflicht, bestimmen sich auch
 für die zur Zeit des Inkrafttretens des Bürgerlichen Gesetzbuchs
 bestehenden Ehen nach dessen Vorschriften.
-
 
 #### Art 200 -
 
@@ -2297,7 +2051,6 @@ sein würde.
 
 (3) (gegenstandslos)
 
-
 #### Art 201 -
 
 (1) Die Scheidung und die Aufhebung der ehelichen Gemeinschaft
@@ -2305,7 +2058,6 @@ erfolgen von dem Inkrafttreten des Bürgerlichen Gesetzbuchs an nach
 dessen Vorschriften.
 
 (2) (weggefallen)
-
 
 #### Art 202 -
 
@@ -2316,7 +2068,6 @@ maßgebend. Dies gilt insbesondere auch von den Vorschriften, nach
 denen eine bis zu dem Tod eines der Ehegatten fortbestehende Trennung
 in allen oder einzelnen Beziehungen der Auflösung der Ehe gleichsteht.
 
-
 #### Art 203 -
 
 Das Rechtsverhältnis zwischen den Eltern und einem vor dem
@@ -2324,10 +2075,7 @@ Inkrafttreten des Bürgerlichen Gesetzbuchs geborenen ehelichen Kind
 bestimmt sich von dem Inkrafttreten des Bürgerlichen Gesetzbuchs an
 nach dessen Vorschriften.
 
-
 #### Art 204 bis 206 - (gegenstandslos)
-
-
 
 #### Art 207 -
 
@@ -2336,7 +2084,6 @@ Gesetzbuchs geschlossenen nichtigen oder ungültigen Ehe als eheliche
 Kinder anzusehen sind und inwieweit der Vater und die Mutter die
 Pflichten und Rechte ehelicher Eltern haben, bestimmt sich nach den
 bisherigen Gesetzen.
-
 
 #### Art 208 -
 
@@ -2358,7 +2105,6 @@ nach den bisherigen Gesetzen.
 (3) Die Vorschriften des Absatzes 1 gelten auch für ein nach den
 französischen oder den badischen Gesetzen anerkanntes Kind.
 
-
 #### Art 209 -
 
 Inwieweit ein vor dem Inkrafttreten des Bürgerlichen Gesetzbuchs
@@ -2366,7 +2112,6 @@ legitimiertes oder an Kindes Statt angenommenes Kind die rechtliche
 Stellung eines ehelichen Kindes hat und inwieweit der Vater und die
 Mutter die Pflichten und Rechte ehelicher Eltern haben, bestimmt sich
 nach den bisherigen Gesetzen.
-
 
 #### Art 210 -
 
@@ -2386,10 +2131,7 @@ Juli 1875 für den Familienrat und dessen Mitglieder. Ein Gegenvormund
 ist zu entlassen, wenn nach den Vorschriften des Bürgerlichen
 Gesetzbuchs ein Gegenvormund nicht zu bestellen sein würde.
 
-
 #### Art 211 - (gegenstandslos)
-
-
 
 #### Art 212 -
 
@@ -2397,14 +2139,12 @@ In Kraft bleiben die landesgesetzlichen Vorschriften, nach welchen
 gewisse Wertpapiere zur Anlegung von Mündelgeld für geeignet erklärt
 sind.
 
-
 #### Art 213 -
 
 Für die erbrechtlichen Verhältnisse bleiben, wenn der Erblasser vor
 dem Inkrafttreten des Bürgerlichen Gesetzbuchs gestorben ist, die
 bisherigen Gesetze maßgebend. Dies gilt insbesondere auch von den
 Vorschriften über das erbschaftliche Liquidationsverfahren.
-
 
 #### Art 214 -
 
@@ -2417,7 +2157,6 @@ Inkrafttreten des Bürgerlichen Gesetzbuchs stirbt.
 Erbvertrag oder einem gemeinschaftlichen Testament, sofern der
 Erbvertrag oder das Testament vor dem Inkrafttreten des Bürgerlichen
 Gesetzbuchs errichtet worden ist.
-
 
 #### Art 215 -
 
@@ -2432,10 +2171,7 @@ auf ein Testament Anwendung, das ein nach dem Inkrafttreten des
 Bürgerlichen Gesetzbuchs gestorbener Erblasser vor diesem Zeitpunkt
 errichtet hat.
 
-
 #### Art 216 - (gegenstandslos)
-
-
 
 #### Art 217 -
 
@@ -2447,17 +2183,13 @@ solchen Vertrags bestimmen sich nach den bisherigen Gesetzen.
 Gesetzbuchs geschlossenen Vertrag, durch den ein Erbverzichtsvertrag
 aufgehoben worden ist.
 
-
 #### Art 218 -
 
 Soweit nach den Vorschriften dieses Abschnitts die bisherigen
 Landesgesetze maßgebend bleiben, können sie nach dem Inkrafttreten des
 Bürgerlichen Gesetzbuchs durch Landesgesetz auch geändert werden.
 
-
 ## Fünfter Teil - Übergangsvorschriften aus Anlaß jüngerer Änderungen des Bürgerlichen Gesetzbuchs und dieses Einführungsgesetzes
-
-
 
 #### Art 219 - Übergangsvorschrift zum Gesetz vom 8. November 1985 zur Neuordnung des landwirtschaftlichen Pachtrechts
 
@@ -2480,7 +2212,6 @@ bisher geltenden Fassung der Vorschriften weiterhin anzuwenden.
 (3) In gerichtlichen Verfahren, die am Beginn des in Absatz 1 Satz 1
 genannten Tages anhängig sind, ist über die Verlängerung von
 Pachtverträgen nach dem bisher geltenden Recht zu entscheiden.
-
 
 #### Art 220 - Übergangsvorschrift zum Gesetz vom 25. Juli 1986 zur Neuregelung des Internationalen Privatrechts
 
@@ -2525,7 +2256,6 @@ jedoch eine Rechtswahl nach Artikel 15 Abs. 2 und 3 treffen.
 
 (5) (weggefallen)
 
-
 #### Art 221 - Übergangsvorschrift zum Gesetz vom 26. Juni 1990 zur Änderung des Arbeitsgerichtsgesetzes und anderer arbeitsrechtlicher Vorschriften
 
 Bei einer vor dem 1. Juli 1990 zugegangenen Kündigung werden bei der
@@ -2539,10 +2269,6 @@ Juli 1990
 
 2.  ein Rechtsstreit über den Zeitpunkt der Beendigung des
     Arbeitsverhältnisses anhängig ist.
-
-
-
-
 
 #### Art 222 - Übergangsvorschrift zum Kündigungsfristengesetz vom 7. Oktober 1993
 
@@ -2574,13 +2300,6 @@ wenn am 15. Oktober 1993
         Voraussetzung für die Verlängerung der Fristen für die Kündigung von
         Angestellten ist.
 
-
-
-
-
-
-
-
 #### Art 223 - Übergangsvorschrift zum Beistandschaftsgesetz vom 4. Dezember 1997
 
 (1) Bestehende gesetzliche Amtspflegschaften nach den §§ 1706 bis 1710
@@ -2606,17 +2325,13 @@ Beistandschaften am 1. Juli 1998 zu Beistandschaften nach den §§ 1712
 bis 1717 des Bürgerlichen Gesetzbuchs. Absatz 1 Satz 3 Halbsatz 1 gilt
 entsprechend. Diese Beistandschaften enden am 1. Januar 1999.
 
-
 #### Art 223a - Übergangsvorschrift aus Anlaß der Aufhebung von § 419 des Bürgerlichen Gesetzbuchs
 
 § 419 des Bürgerlichen Gesetzbuchs ist in seiner bis zum Ablauf des
 31\. Dezember 1998 geltenden Fassung auf Vermögensübernahmen
 anzuwenden, die bis zu diesem Zeitpunkt wirksam werden.
 
-
 #### Art 224 - Übergangsvorschrift zum Kindschaftsrechtsreformgesetz vom 16. Dezember 1997
-
-
 
 #### § 1 Abstammung
 
@@ -2647,7 +2362,6 @@ zusteht, steht die Wirksamkeit einer Verfügung, durch die das
 Vormundschaftsgericht die Vaterschaft nach den bisher geltenden
 Vorschriften festgestellt hat, nicht entgegen. Die Beschwerdefrist
 beginnt frühestens am 1. Juli 1998.
-
 
 #### § 2 Elterliche Sorge
 
@@ -2687,7 +2401,6 @@ geführt hat, dem nach § 87c Abs. 6 Satz 2 des Achten Buches
 Sozialgesetzbuch zuständigen Jugendamt zum Zwecke der
 Auskunftserteilung nach § 58a des Achten Buches Sozialgesetzbuch
 unverzüglich mit.
-
 
 #### § 3 Name des Kindes
 
@@ -2731,7 +2444,6 @@ die anderen gemeinsamen Kinder nur dieser Name bestimmt werden.
 1994 geborene Kinder derselben Eltern unterschiedliche Geburtsnamen
 führen.
 
-
 #### Art 225 - Überleitungsvorschrift zum Wohnraummodernisierungssicherungsgesetz
 
 Artikel 231 § 8 Abs. 2 ist nicht anzuwenden, wenn vor dem 24. Juli
@@ -2741,7 +2453,6 @@ Artikel 233 § 2 Abs. 2, § 11 Abs. 3 Satz 5 und Abs. 4 Satz 3 und §§ 13
 und 14 sowie Artikel 237 § 1 gelten nicht, soweit am 24. Juli 1997 in
 Ansehung der dort bezeichneten Rechtsverhältnisse ein rechtskräftiges
 Urteil ergangen oder eine Einigung der Beteiligten erfolgt ist.
-
 
 #### Art 226 - Überleitungsvorschrift zum Gesetz vom 4. Mai 1998 zur Neuordnung des Eheschließungsrechts
 
@@ -2757,7 +2468,6 @@ geltende Recht maßgebend.
 (3) Im übrigen finden auf die vor dem 1. Juli 1998 geschlossenen Ehen
 die Vorschriften in ihrer ab dem 1. Juli 1998 geltenden Fassung
 Anwendung.
-
 
 #### Art 227 - Übergangsvorschrift zum Gesetz zur erbrechtlichen Gleichstellung nichtehelicher Kinder vom 16. Dezember 1997
 
@@ -2780,7 +2490,6 @@ geleistet und nicht zurückgefordert hat, die Vorschriften des § 2050
 bs. 1, des § 2051 Abs. 1 und des § 2315 des Bürgerlichen Gesetzbuchs
 entsprechend.
 
-
 #### Art 228 - Übergangsvorschrift zum Überweisungsgesetz
 
 (1) Die §§ 675a bis 676g des Bürgerlichen Gesetzbuchs gelten nicht für
@@ -2802,11 +2511,9 @@ Sozialversicherungsträger.
 Vorschriften aus völkerrechtlichen Verträgen, insbesondere aus dem
 Postgiroübereinkommen und dem Postanweisungsübereinkommen unberührt.
 
-
 #### Art 229 - Weitere Überleitungsvorschriften
 
 (weggefallen)
-
 
 #### § 1 Überleitungsvorschrift zum Gesetz zur Beschleunigung fälliger Zahlungen
 
@@ -2826,13 +2533,11 @@ auch auf vorher abgeschlossene Verträge anzuwenden. § 640 gilt für
 solche Verträge mit der Maßgabe, dass der Lauf der darin bestimmten
 Frist erst mit dem 1. Mai 2000 beginnt.
 
-
 #### § 2 Übergangsvorschriften zum Gesetz vom 27. Juni 2000
 
 Die §§ 241a, 361a, 361b, 661a und 676h des Bürgerlichen Gesetzbuchs
 sind nur auf Sachverhalte anzuwenden, die nach dem 29. Juni 2000
 entstanden sind.
-
 
 #### § 3 Übergangsvorschriften zum Gesetz zur Neugliederung, Vereinfachung und Reform des Mietrechts vom 19. Juni 2001
 
@@ -2984,7 +2689,6 @@ August 2001 geltenden Fassung, die
 worden sind. Für Zwecke des Satzes 1 bleiben die hier genannten
 Bestimmungen weiterhin anwendbar.
 
-
 #### § 4 Übergangsvorschrift zum Zweiten Gesetz zur Änderung reiserechtlicher Vorschriften
 
 (1) Die §§ 651k und 651l des Bürgerlichen Gesetzbuchs sind in ihrer
@@ -3012,10 +2716,6 @@ gelten für die nachfolgenden Zeiträume folgende Haftungshöchstsummen.
 
 5.  vom 1. November 2000 bis zum 1. September 2001 110 Millionen Euro.
 
-
-
-
-
 #### § 5 Allgemeine Überleitungsvorschrift zum Gesetz zur Modernisierung des Schuldrechts vom 26. November 2001
 
 Auf Schuldverhältnisse, die vor dem 1. Januar 2002 entstanden sind,
@@ -3033,7 +2733,6 @@ bezeichneten Gesetze vom 1. Januar 2003 an nur das Bürgerliche
 Gesetzbuch, das Handelsgesetzbuch, das Fernunterrichtsschutzgesetz und
 die Verordnung über Informationspflichten nach bürgerlichem Recht in
 der dann geltenden Fassung anzuwenden sind.
-
 
 #### § 6 Überleitungsvorschrift zum Verjährungsrecht nach dem Gesetz zur Modernisierung des Schuldrechts vom 26. November 2001
 
@@ -3082,7 +2781,6 @@ maßgebend sind.
 
 (6) Die vorstehenden Absätze gelten für die Fristen nach dem
 Handelsgesetzbuch und dem Umwandlungsgesetz entsprechend.
-
 
 #### § 7 Überleitungsvorschrift zu Zinsvorschriften nach dem Gesetz zur Modernisierung des Schuldrechts vom 26. November 2001
 
@@ -3190,7 +2888,6 @@ der dem Basiszinssatz, den durch diesen ersetzten Zinssätzen und dem
 Lombardsatz in ihrer Funktion als Bezugsgrößen für Zinssätze eher
 entspricht.
 
-
 #### § 8 Übergangsvorschriften zum Zweiten Gesetz zur Änderung schadensersatzrechtlicher Vorschriften vom 19. Juli 2002
 
 (1) Die durch das Zweite Gesetz zur Änderung schadensersatzrechtlicher
@@ -3270,7 +2967,6 @@ schadensersatzrechtlicher Vorschriften geänderte § 88 des
 Arzneimittelgesetzes ist erst auf Fälle anzuwenden, in denen das
 schädigende Ereignis nach dem 31. Dezember 2002 eingetreten ist.
 
-
 #### § 9 Überleitungsvorschrift zum OLG-Vertretungsänderungsgesetz vom 23. Juli 2002
 
 (1) Die §§ 312a, 312d, 346, 355, 358, 491, 492, 494, 495, 497, 498,
@@ -3297,13 +2993,11 @@ auf Verträge anzuwenden, die vor diesem Zeitpunkt geschlossen worden
 sind, wenn die erforderliche Belehrung über das Widerrufs- oder
 Rückgaberecht erst nach diesem Zeitpunkt erteilt wird.
 
-
 #### § 10 Überleitungsvorschrift zum Gesetz zur Änderung der Vorschriften über die Anfechtung der Vaterschaft und das Umgangsrecht von Bezugspersonen des Kindes, zur Registrierung von Vorsorgeverfügungen und zur Einführung von Vordrucken für die Vergütung von Berufsbetreuern vom 23. April 2004
 
 Im Fall der Anfechtung nach § 1600 Abs. 1 Nr. 2 des Bürgerlichen
 Gesetzbuchs beginnt die Frist für die Anfechtung gemäß § 1600b Abs. 1
 des Bürgerlichen Gesetzbuchs nicht vor dem 30. April 2004.
-
 
 #### § 11 Überleitungsvorschrift zu dem Gesetz zur Änderung der Vorschriften über Fernabsatzverträge bei Finanzdienstleistungen vom 2. Dezember 2004
 
@@ -3320,7 +3014,6 @@ Informationspflichten-Verordnung nicht genügen, dürfen bis zum 31.
 März 2005 aufgebraucht werden, soweit sie ausschließlich den
 Fernabsatz von Waren und Dienstleistungen betreffen, die nicht
 Finanzdienstleistungen sind.
-
 
 #### § 12 Überleitungsvorschrift zum Gesetz zur Anpassung von Verjährungsvorschriften an das Gesetz zur Modernisierung des Schuldrechts
 
@@ -3410,11 +3103,9 @@ nach den durch dieses Gesetz eingeführten Vorschriften. Der Zeitraum,
 der vor dem 15. Dezember 2004 abgelaufen ist, wird in die
 Verjährungsfrist eingerechnet.
 
-
 #### § 13
 
 (weggefallen)
-
 
 #### § 14 Übergangsvorschrift zum Zweiten Betreuungsrechtsänderungsgesetz vom 21. April 2005
 
@@ -3424,7 +3115,6 @@ richten sich nach den bis zum Inkrafttreten des Zweiten
 Betreuungsrechtsänderungsgesetzes vom 21. April 2005 (BGBl. I S. 1073)
 geltenden Vorschriften.
 
-
 #### § 15 Übergangsvorschrift zum Minderjährigenhaftungsbeschränkungsgesetz
 
 Soweit der volljährig Gewordene Verbindlichkeiten vor dem
@@ -3433,13 +3123,11 @@ August 1998 (BGBl. I S. 2487) am 1. Januar 1999 erfüllt hat oder diese
 im Wege der Zwangsvollstreckung befriedigt worden sind, sind Ansprüche
 aus ungerechtfertigter Bereicherung ausgeschlossen.
 
-
 #### § 16 Überleitungsvorschrift zum Gesetz zur Ergänzung des Rechts zur Anfechtung der Vaterschaft vom 13. März 2008
 
 Im Fall der Anfechtung nach § 1600 Abs. 1 Nr. 5 des Bürgerlichen
 Gesetzbuchs beginnt die Frist für die Anfechtung gemäß § 1600b Abs. 1a
 des Bürgerlichen Gesetzbuchs nicht vor dem 1. Juni 2008.
-
 
 #### § 17 Übergangsvorschrift zum Gesetz zur Klärung der Vaterschaft unabhängig vom Anfechtungsverfahren
 
@@ -3450,7 +3138,6 @@ rechtskräftig abgewiesen worden, so ist eine Restitutionsklage nach §
 Klärung der Vaterschaft unabhängig vom Anfechtungsverfahren vom 26.
 März 2008 (BGBl. I S. 441) eingeholtes Abstammungsgutachten die
 Abstammung widerlegt.
-
 
 #### § 18 Übergangsvorschrift zum Risikobegrenzungsgesetz
 
@@ -3469,7 +3156,6 @@ ist.
 August 2008 geltenden Fassung ist nur auf Grundschulden anzuwenden,
 die nach dem 19. August 2008 bestellt werden.
 
-
 #### § 19 Überleitungsvorschrift zum Forderungssicherungsgesetz
 
 (1) Die Vorschriften der §§ 204, 632a, 641, 648a und 649 des
@@ -3480,7 +3166,6 @@ Tag entstanden sind.
 (2) § 641a des Bürgerlichen Gesetzbuchs ist auf Schuldverhältnisse,
 die vor dem 1. Januar 2009 entstanden sind, in der bis zu diesem
 Zeitpunkt geltenden Fassung anzuwenden.
-
 
 #### § 20 Übergangsvorschrift zum Gesetz zur Änderung des Zugewinnausgleichs- und Vormundschaftsrechts vom 6. Juli 2009
 
@@ -3500,7 +3185,6 @@ anhängige Vormundschaften (§ 1773 des Bürgerlichen Gesetzbuchs),
 Pflegschaften (§ 1915 Absatz 1 des Bürgerlichen Gesetzbuchs) und
 Betreuungen (§ 1908i Absatz 1 Satz 1 des Bürgerlichen Gesetzbuchs).
 
-
 #### § 21 Übergangsvorschrift für die Gesellschaft bürgerlichen Rechts im Grundbuchverfahren
 
 § 899a des Bürgerlichen Gesetzbuchs sowie § 47 Absatz 2 Satz 2 und §
@@ -3510,7 +3194,6 @@ zur Einführung des elektronischen Rechtsverkehrs und der
 elektronischen Akte im Grundbuchverfahren sowie zur Änderung weiterer
 grundbuch-, register- und kostenrechtlicher Vorschriften am 18. August
 2009 erfolgt ist.
-
 
 #### § 22 Übergangsvorschrift zum Gesetz zur Umsetzung der Verbraucherkreditrichtlinie, des zivilrechtlichen Teils der Zahlungsdiensterichtlinie sowie zur Neuordnung der Vorschriften über das Widerrufs- und Rückgaberecht vom 29. Juli 2009
 
@@ -3532,7 +3215,6 @@ Gesetzbuchs auf unbefristete Schuldverhältnisse anzuwenden, die vor
 dem 11. Juni 2010 entstanden sind; § 505 Abs. 1 ist auf solche
 Schuldverhältnisse in Ansehung der Mitteilungen nach Vertragsschluss
 anzuwenden.
-
 
 #### § 23 Überleitungsvorschrift zum Gesetz zur Änderung des Erb- und Verjährungsrechts
 
@@ -3566,7 +3248,6 @@ die Vorschriften des Bürgerlichen Gesetzbuchs in der seit dem 1.
 Januar 2010 geltenden Fassung, unabhängig davon, ob an Ereignisse aus
 der Zeit vor dem Inkrafttreten dieser Vorschriften angeknüpft wird.
 
-
 #### § 24 Übergangsvorschrift zu dem Gesetz zur Erleichterung elektronischer Anmeldungen zum Vereinsregister und anderer vereinsrechtlicher Änderungen
 
 Ausländische Vereine und Stiftungen, denen vor dem 30. September 2009
@@ -3574,7 +3255,6 @@ die Rechtsfähigkeit im Inland verliehen wurde, bleiben rechtsfähig.
 Auf die Vereine sind § 33 Absatz 2 und § 44 des Bürgerlichen
 Gesetzbuchs in der bis zum 29. September 2009 geltenden Fassung weiter
 anzuwenden.
-
 
 #### § 25 Übergangsvorschriften zum Gesetz zur Modernisierung der Regelungen über Teilzeit-Wohnrechteverträge, Verträge über langfristige Urlaubsprodukte sowie Vermittlungsverträge und Tauschsystemverträge
 
@@ -3589,13 +3269,11 @@ Gesetzbuchs, auf einen Vermittlungsvertrag im Sinne von § 481b Absatz
 von § 481b Absatz 2 des Bürgerlichen Gesetzbuchs sind die §§ 481 bis
 487 des Bürgerlichen Gesetzbuchs nicht anzuwenden.
 
-
 #### § 26 Überleitungsvorschrift zum Gesetz zur Bekämpfung der Zwangsheirat und zum besseren Schutz der Opfer von Zwangsheirat sowie zur Änderung weiterer aufenthalts- und asylrechtlicher Vorschriften
 
 Die Aufhebung einer vor dem 1. Juli 2011 geschlossenen Ehe ist
 ausgeschlossen, wenn die Ehe nach dem bis dahin geltenden Recht zu
 diesem Zeitpunkt nicht mehr hätte aufgehoben werden können.
-
 
 #### § 27 Übergangsvorschrift zum Gesetz zur Anpassung der Vorschriften über den Wertersatz bei Widerruf von Fernabsatzverträgen und über verbundene Verträge vom 27. Juli 2011
 
@@ -3608,10 +3286,7 @@ Teils der Zahlungsdiensterichtlinie sowie zur Neuordnung der
 Vorschriften über das Widerrufs- und Rückgaberecht vom 29. Juni 2009
 (BGBl. I S. 2355) anzuwenden.
 
-
 ## Sechster Teil - Inkrafttreten und Übergangsrecht aus Anlaß der Einführung des Bürgerlichen Gesetzbuchs und dieses Einführungsgesetzes in dem in Art 3 des Einigungsvertrages genannten Gebiet
-
-
 
 #### Art 230 - Inkrafttreten
 
@@ -3620,15 +3295,11 @@ in Artikel 3 des Einigungsvertrages genannte Gebiet am Tage des
 Wirksamwerdens des Beitritts nach Maßgabe der folgenden
 Übergangsvorschriften in Kraft.
 
-
 #### Art 231 - Erstes Buch. Allgemeiner Teil des Bürgerlichen Gesetzbuchs
-
-
 
 #### § 1 (weggefallen)
 
 -
-
 
 #### § 2 Vereine
 
@@ -3649,7 +3320,6 @@ Vereinigungen - Vereinigungsgesetz - vom 21. Februar 1990 findet ab
 dem Tag des Wirksamwerdens des Beitritts § 54 des Bürgerlichen
 Gesetzbuchs Anwendung.
 
-
 #### § 3 Stiftungen
 
 (1) Die in dem in Artikel 3 des Einigungsvertrages genannten Gebiet
@@ -3659,13 +3329,11 @@ bestehenden rechtsfähigen Stiftungen bestehen fort.
 Wirksamwerdens des Beitritts die §§ 80 bis 88 des Bürgerlichen
 Gesetzbuchs anzuwenden.
 
-
 #### § 4 Haftung juristischer Personen für ihre Organe
 
 Die §§ 31 und 89 des Bürgerlichen Gesetzbuchs sind nur auf solche
 Handlungen anzuwenden, die am Tag des Wirksamwerdens des Beitritts
 oder danach begangen werden.
-
 
 #### § 5 Sachen
 
@@ -3706,7 +3374,6 @@ Grundstücks gelten in Ansehung des auf dem anderen Grundstück
 befindlichen Teils des Gebäudes die Vorschriften über den zu duldenden
 Überbau sinngemäß.
 
-
 #### § 6 Verjährung
 
 (1) Die Vorschriften des Bürgerlichen Gesetzbuchs über die Verjährung
@@ -3729,7 +3396,6 @@ so ist die Verjährung mit dem Ablauf der längeren Frist vollendet.
 (3) Die Absätze 1 und 2 sind entsprechend auf Fristen anzuwenden, die
 für die Geltendmachung, den Erwerb oder den Verlust eines Rechts
 maßgebend sind.
-
 
 #### § 7 Beurkundungen und Beglaubigungen
 
@@ -3760,7 +3426,6 @@ ohne die in § 19 Abs. 5 Satz 2 dieses Gesetzes geforderte notarielle
 Beurkundung der Umwandlungserklärung erfolgt ist, wird ihrem ganzen
 Inhalt nach gültig, wenn die gegründete Gesellschaft in das Register
 eingetragen ist.
-
 
 #### § 8 Vollmachtsurkunden staatlicher Organe, Falschbezeichnung von Kommunen
 
@@ -3809,10 +3474,6 @@ beachten, wenn er darauf gestützt wird, daß
 
 4.  das Rechtsgeschäft von einer Person abgeschlossen wurde, die nicht
     oder nicht mehr Mitarbeiter der Kommunalverwaltung war.
-
-
-
-
 
 #### § 9 Heilung unwirksamer Vermögensübertragungen
 
@@ -3899,7 +3560,6 @@ hat, gilt als zur Verwaltung beauftragt. Im Übrigen gilt § 8 Abs. 3
 des Vermögenszuordnungsgesetzes entsprechend. Ansprüche nach dem
 Vermögensgesetz und rechtskräftige Urteile bleiben unberührt.
 
-
 #### § 10 Übergang volkseigener Forderungen, Grundpfandrechte und Verbindlichkeiten auf Kreditinstitute
 
 (1) Ein volkseigenes oder genossenschaftliches Kreditinstitut, das die
@@ -3944,17 +3604,13 @@ Zuordnungsbescheides nicht. § 113 Absatz 1 Nummer 6 der
 Grundbuchverfügung in der am 1. Oktober 2009 geltenden Fassung bleibt
 unberührt.
 
-
 #### Art 232 - Zweites Buch. Recht der Schuldverhältnisse
-
-
 
 #### § 1 Allgemeine Bestimmungen für Schuldverhältnisse
 
 Für ein Schuldverhältnis, das vor dem Wirksamwerden des Beitritts
 entstanden ist, bleibt das bisherige für das in Artikel 3 des
 Einigungsvertrages genannte Gebiet geltende Recht maßgebend.
-
 
 #### § 1a Überlassungsverträge
 
@@ -3966,13 +3622,11 @@ Grundstück sowie etwa aufstehende Gebäude und gegen Übernahme der
 öffentlichen Lasten einem anderen zur Nutzung überlassen wurde
 (Überlassungsvertrag), ist wirksam.
 
-
 #### § 2 Mietverträge
 
 Mietverhältnisse aufgrund von Verträgen, die vor dem Wirksamwerden des
 Beitritts geschlossen worden sind, richten sich von diesem Zeitpunkt
 an nach den Vorschriften des Bürgerlichen Gesetzbuchs.
-
 
 #### § 3 Pachtverträge
 
@@ -3983,7 +3637,6 @@ Gesetzbuchs.
 
 (2) Die §§ 51 und 52 des Landwirtschaftsanpassungsgesetzes vom 29.
 Juni 1990 (GBl. I Nr. 42 S. 642) bleiben unberührt.
-
 
 #### § 4 Nutzung von Bodenflächen zur Erholung
 
@@ -4013,7 +3666,6 @@ geschlossene Verträge, durch die land- oder forstwirtschaftlich nicht
 genutzte Bodenflächen Bürgern zum Zwecke der nicht gewerblichen
 kleingärtnerischen Nutzung, Erholung und Freizeitgestaltung überlassen
 wurden.
-
 
 #### § 4a Vertrags-Moratorium
 
@@ -4075,7 +3727,6 @@ Eigentümer zu tragen und vorzuschießen.
 nach dem 2. Oktober 1990 etwas Abweichendes vereinbart haben oder
 zwischen ihnen abweichende rechtskräftige Urteile ergangen sind.
 
-
 #### § 5 Arbeitsverhältnisse
 
 (1) Für am Tag des Wirksamwerdens des Beitritts bestehende
@@ -4098,17 +3749,12 @@ genannten Gebiet vom Tage des Inkrafttretens dieses Gesetzes bis zum
     oder organisatorischen Gründen, die Änderungen im Bereich der
     Beschäftigung mit sich bringen, unberührt."
 
-
-
-
-
 #### § 6 Verträge über wiederkehrende Dienstleistungen
 
 Für am Tag des Wirksamwerdens des Beitritts bestehende Pflege- und
 Wartungsverträge und Verträge über wiederkehrende persönliche
 Dienstleistungen gelten von dieser Zeit an die Vorschriften des
 Bürgerlichen Gesetzbuchs.
-
 
 #### § 7 Kontoverträge und Sparkontoverträge
 
@@ -4121,12 +3767,10 @@ verwendeten, näher zu bezeichnenden allgemeinen Geschäftsbedingungen
 anzuwenden sind. Der Kontoinhaber kann den Vertrag innerhalb eines
 Monats von dem Zugang der Erklärung an kündigen.
 
-
 #### § 8 Kreditverträge
 
 Auf Kreditverträge, die nach dem 30. Juni 1990 abgeschlossen worden
 sind, ist § 609a des Bürgerlichen Gesetzbuchs anzuwenden.
-
 
 #### § 9 Bruchteilsgemeinschaften
 
@@ -4134,28 +3778,21 @@ Auf eine am Tag des Wirksamwerdens des Beitritts bestehende
 Gemeinschaft nach Bruchteilen finden von dieser Zeit an die
 Vorschriften des Bürgerlichen Gesetzbuchs Anwendung.
 
-
 #### § 10 Unerlaubte Handlungen
 
 Die Bestimmungen der §§ 823 bis 853 des Bürgerlichen Gesetzbuchs sind
 nur auf Handlungen anzuwenden, die am Tag des Wirksamwerdens des
 Beitritts oder danach begangen werden.
 
-
 #### Art 233 - Drittes Buch. Sachenrecht
 
-
-
 ##### Erster Abschnitt - Allgemeine Vorschriften
-
-
 
 ##### § 1 Besitz
 
 Auf ein am Tag des Wirksamwerdens des Beitritts bestehendes
 Besitzverhältnis finden von dieser Zeit an die Vorschriften des
 Bürgerlichen Gesetzbuchs Anwendung.
-
 
 ##### § 2 Inhalt des Eigentums
 
@@ -4195,7 +3832,6 @@ Diese Vorschrift tritt in ihrem räumlichen Anwendungsbereich und für
 die Dauer ihrer Geltung an die Stelle des § 119 des
 Flurbereinigungsgesetzes auch, soweit auf diese Bestimmung in anderen
 Gesetzen verwiesen wird. § 11b des Vermögensgesetzes bleibt unberührt.
-
 
 ##### § 2a Moratorium
 
@@ -4375,7 +4011,6 @@ bis zum 31. Dezember 1994 kann er nur bis zum 31. März 2002 geltend
 gemacht werden. Abweichende vertragliche Vereinbarungen bleiben
 unberührt.
 
-
 ##### § 2b Gebäudeeigentum ohne dingliches Nutzungsrecht
 
 (1) In den Fällen des § 2a Abs. 1 Satz 1 Buchstabe a und b sind
@@ -4436,7 +4071,6 @@ Gleiches gilt für das Rechtsgeschäft, mit dem die Verpflichtung zur
 sind nicht anzuwenden, soweit eine rechtskräftige Entscheidung
 entgegensteht.
 
-
 ##### § 2c Grundbucheintragung
 
 (1) Selbständiges Gebäudeeigentum nach § 2b ist auf Antrag (§ 13 Abs.
@@ -4461,7 +4095,6 @@ Bürgerlichen Gesetzbuchs ist entsprechend anzuwenden.
 am Gebäude der in § 2b bezeichneten Art aufgrund der Vorschriften über
 den öffentlichen Glauben des Grundbuchs ist nur möglich, wenn das
 Gebäudeeigentum auch bei dem belasteten Grundstück eingetragen ist.
-
 
 ##### § 3 Inhalt und Rang beschränkter dinglicher Rechte
 
@@ -4494,7 +4127,6 @@ vorbehalten.
 der Deutschen Demokratischen Republik bestellt wurden, sind vom 1.
 Oktober 1994 an die Bestimmungen des Bürgerlichen Gesetzbuchs nach den
 §§ 1094 bis 1104 anzuwenden.
-
 
 ##### § 4 Sondervorschriften für dingliche Nutzungsrechte und Gebäudeeigentum
 
@@ -4583,7 +4215,6 @@ Rechtsvorschriften Gebäudeeigentum, für das ein Gebäudegrundbuchblatt
 anzulegen ist, in Verbindung mit einem Nutzungsrecht an dem
 betroffenen Grundstück besteht.
 
-
 ##### § 5 Mitbenutzungsrechte
 
 (1) Mitbenutzungsrechte im Sinn des § 321 Abs. 1 bis 3 und des § 322
@@ -4637,7 +4268,6 @@ Verpflichtung zur Eintragung durch rechtskräftige Entscheidung
 festgestellt, so kann das Recht auch in den Fällen des Satzes 1 mit
 seinem festgestellten Inhalt eingetragen werden.
 
-
 ##### § 6 Hypotheken
 
 (1) Für die Übertragung von Hypothekenforderungen nach dem
@@ -4656,7 +4286,6 @@ aus der Zeit vor Inkrafttreten des Zivilgesetzbuchs der Deutschen
 Demokratischen Republik und die sonstigen Verfügungen über solche
 Rechte richten sich nach den entsprechenden Vorschriften des
 Bürgerlichen Gesetzbuchs.
-
 
 ##### § 7 Am Tag des Wirksamwerdens des Beitritts schwebende Rechtsänderungen
 
@@ -4683,7 +4312,6 @@ Beitritts beim Grundbuchamt beantragt worden, so sind auf die
 Verfügung die am Tag vor dem Wirksamwerden des Beitritts geltenden
 Vorschriften anzuwenden.
 
-
 ##### § 8 Rechtsverhältnisse nach § 459 des Zivilgesetzbuchs
 
 Soweit Rechtsverhältnisse und Ansprüche aufgrund des früheren § 459
@@ -4693,7 +4321,6 @@ Wirksamwerden des Beitritts bestehen, bleiben sie vorbehaltlich des §
 2 und der im Sachenrechtsbereinigungsgesetz getroffenen Bestimmungen
 unberührt. Soweit Gebäudeeigentum besteht, sind die §§ 2b und 2c
 entsprechend anzuwenden.
-
 
 ##### § 9 Rangbestimmung
 
@@ -4718,7 +4345,6 @@ Gesetzes zur Änderung und Ergänzung des Zivilgesetzbuchs der Deutschen
 Demokratischen Republik vom 28. Juni 1990 (GBl. I Nr. 39 S. 524)
 entfällt. Diese Bestimmungen gelten für Aufbaugrundschulden
 entsprechend.
-
 
 ##### § 10 Vertretungsbefugnis für Personenzusammenschlüsse alten Rechts
 
@@ -4760,10 +4386,7 @@ ist.
 Grundstück ohne Angabe eines Eigentümers als öffentliches bezeichnet
 wird.
 
-
 ##### Zweiter Abschnitt - Abwicklung der Bodenreform
-
-
 
 ##### § 11 Grundsatz
 
@@ -4847,10 +4470,6 @@ Juli 1992 erlebt hat. Maßgeblich ist
 
 3.  in den Fällen des Absatzes 2 Nr. 2 Fall 1 der Tod der als Eigentümer
     eingetragenen Person.
-
-
-
-
 
 ##### § 12 Berechtigter
 
@@ -4962,7 +4581,6 @@ von Miteigentum für den Eigentümer eine insbesondere unter
 Berücksichtigung der räumlichen Verhältnisse und dem Umfang der
 bisherigen Nutzung unbillige Härte bedeuten würde.
 
-
 ##### § 13 Verfügungen des Eigentümers
 
 Wird vor dem 3. Oktober 2000 die Berichtigung des Grundbuchs zugunsten
@@ -4972,14 +4590,12 @@ Grundstück liegt, eine Nachricht hiervon. Das gilt auch für
 Verfügungen, deren Eintragung dieser Eigentümer vor dem 3. Oktober
 2000 beantragt oder beantragen läßt.
 
-
 ##### § 13a Vormerkung zugunsten des Fiskus
 
 Auf Ersuchen des Fiskus trägt das Grundbuchamt eine Vormerkung zur
 Sicherung von dessen Anspruch nach § 11 Abs. 3 ein. Die Vormerkung ist
 von Amts wegen zu löschen, wenn das Ersuchen durch das zuständige
 Verwaltungsgericht aufgehoben wird.
-
 
 ##### § 14 Verjährung
 
@@ -4988,7 +4604,6 @@ Oktober 2000. Ist für einen Auflassungsanspruch eine Vormerkung nach §
 13 in der bis zum 24. Juli 1997 geltenden Fassung eingetragen,
 verjährt der gesicherte Auflassungsanspruch innerhalb von 6 Monaten
 von der Eintragung der Vormerkung.
-
 
 ##### § 15 Verbindlichkeiten
 
@@ -5028,7 +4643,6 @@ Ausschließungsbeschlusses wird der beantragende Aneignungsberechtigte
 Eigentümer. Mehrere Gläubiger können ihre Rechte nur gemeinsam
 ausüben.
 
-
 ##### § 16 Verhältnis zu anderen Vorschriften, Übergangsvorschriften
 
 (1) Die Vorschriften dieses Abschnitts lassen die Bestimmungen des
@@ -5061,10 +4675,7 @@ Satz 1 Nr. 1 bezeichneten Person erfolgt.
 (3) Ein Vermerk über die Beschränkungen des Eigentümers nach den
 Vorschriften über die Bodenreform kann von Amts wegen gelöscht werden.
 
-
 #### Art 234 - Viertes Buch. Familienrecht
-
-
 
 #### § 1 Grundsatz
 
@@ -5072,12 +4683,10 @@ Das Vierte Buch des Bürgerlichen Gesetzbuchs gilt für alle
 familienrechtlichen Verhältnisse, die am Tag des Wirksamwerdens des
 Beitritts bestehen, soweit im folgenden nichts anderes bestimmt ist.
 
-
 #### § 2 Verlöbnis
 
 Die Vorschriften über das Verlöbnis gelten nicht für Verlöbnisse, die
 vor dem Wirksamwerden des Beitritts geschlossen worden sind.
-
 
 #### § 3 Wirkungen der Ehe im allgemeinen
 
@@ -5154,7 +4763,6 @@ Durchführung dieses Gesetzes Verwaltungsvorschriften über die nähere
 Behandlung der Erklärungen und die Mitteilungspflichten der
 Standesbeamten zu erlassen.
 
-
 #### § 4 Eheliches Güterrecht
 
 (1) Haben die Ehegatten am Tag des Wirksamwerdens des Beitritts im
@@ -5207,7 +4815,6 @@ das bisherige Recht maßgebend.
 zum Güterrechtsregister sowie für die Eintragung in das
 Güterrechtsregister beträgt der Geschäftswert 3 000 Euro.
 
-
 #### § 4a Gemeinschaftliches Eigentum
 
 (1) Haben die Ehegatten keine Erklärung nach § 4 Abs. 2 Satz 1
@@ -5237,13 +4844,11 @@ nicht aus dem Grundbuch andere Bruchteile ergeben oder aus dem
 Güterrechtsregister ergibt, daß eine Erklärung nach § 4 Abs. 2 und 3
 abgegeben oder Gütergemeinschaft vereinbart worden ist.
 
-
 #### § 5 Unterhalt des geschiedenen Ehegatten
 
 Für den Unterhaltsanspruch eines Ehegatten, dessen Ehe vor dem
 Wirksamwerden des Beitritts geschieden worden ist, bleibt das
 bisherige Recht maßgebend. Unterhaltsvereinbarungen bleiben unberührt.
-
 
 #### § 6 Versorgungsausgleich
 
@@ -5271,7 +4876,6 @@ Entscheidung über die Vermögensverteilung war.
 
 
 in der jeweils geltenden Fassung.
-
 
 #### § 7 Abstammung
 
@@ -5302,10 +4906,7 @@ Erklärungen, die nach dem bisherigen Recht die Wirkung einer
 Vaterschaftsfeststellung haben, stehen einer Anerkennung der
 Vaterschaft im Sinne des Absatzes 1 Satz 2 gleich.
 
-
 #### (XXXX) §§ 8 und 9 (weggefallen)
-
-
 
 #### § 10 Rechtsverhältnis zwischen den Eltern und dem Kind im allgemeinen
 
@@ -5313,7 +4914,6 @@ Der Familienname eines vor dem Wirksamwerden des Beitritts geborenen
 Kindes bestimmt sich in Ansehung der bis zum Wirksamwerden des
 Beitritts eingetretenen namensrechtlichen Folgen nach dem bisherigen
 Recht.
-
 
 #### § 11 Elterliche Sorge
 
@@ -5346,12 +4946,10 @@ der Unterbringung nachzusuchen. Die Unterbringung ist spätestens nach
 Ablauf von 6 Monaten nach dem Wirksamwerden des Beitritts zu beenden,
 wenn das Gericht sie nicht vorher genehmigt hat.
 
-
 #### § 12 Legitimation nichtehelicher Kinder
 
 Die Frist nach § 1740e Abs. 1 Satz 1 des Bürgerlichen Gesetzbuchs
 beginnt nicht vor dem Wirksamwerden des Beitritts.
-
 
 #### § 13 Annahme als Kind
 
@@ -5407,7 +5005,6 @@ noch nicht rechtskräftig entschieden worden, so gilt die Klage als
 Antrag auf Aufhebung des Annahmeverhältnisses. § 1762 Abs. 3 des
 Bürgerlichen Gesetzbuchs gilt nicht.
 
-
 #### § 14 Vormundschaft
 
 (1) Ab dem Wirksamwerden des Beitritts gelten für die bestehenden
@@ -5433,7 +5030,6 @@ in dieser Zeit gemacht hat, gilt das bisherige Recht.
 
 (6) § 11 Abs. 4 gilt entsprechend.
 
-
 #### § 15 Pflegschaft
 
 (1) Am Tag des Wirksamwerdens des Beitritts werden die bestehenden
@@ -5443,17 +5039,13 @@ festgelegten Wirkungskreis.
 
 (2) § 14 Abs. 2 bis 6 gilt entsprechend.
 
-
 #### Art 235 - Fünftes Buch. Erbrecht
-
-
 
 #### § 1 Erbrechtliche Verhältnisse
 
 Für die erbrechtlichen Verhältnisse bleibt das bisherige Recht
 maßgebend, wenn der Erblasser vor dem Wirksamwerden des Beitritts
 gestorben ist.
-
 
 #### § 2 Verfügungen von Todes wegen
 
@@ -5464,23 +5056,18 @@ Dies gilt auch für die Bindung des Erblassers bei einem
 gemeinschaftlichen Testament, sofern das Testament vor dem
 Wirksamwerden des Beitritts errichtet worden ist.
 
-
 #### Art 236 - Einführungsgesetz - Internationales Privatrecht
-
-
 
 #### § 1 Abgeschlossene Vorgänge
 
 Auf vor dem Wirksamwerden des Beitritts abgeschlossene Vorgänge bleibt
 das bisherige Internationale Privatrecht anwendbar.
 
-
 #### § 2 Wirkungen familienrechtlicher Rechtsverhältnisse
 
 Die Wirkungen familienrechtlicher Rechtsverhältnisse unterliegen von
 dem Wirksamwerden des Beitritts an den Vorschriften des Zweiten
 Kapitels des Ersten Teils.
-
 
 #### § 3 Güterstand
 
@@ -5493,10 +5080,7 @@ Beendigung des früheren Güterstandes ergeben würden, gelten sie bis
 zum Ablauf von zwei Jahren nach Wirksamwerden des Beitritts als
 gestundet.
 
-
 #### Art 237 - Bestandsschutz, Ausschlußfrist
-
-
 
 #### § 1 Bestandsschutz
 
@@ -5535,7 +5119,6 @@ ist.
 (3) Für Sachverhalte, die einen Tatbestand des § 1 des
 Vermögensgesetzes erfüllen, gelten die vorstehenden Absätze nicht;
 hier gilt das Vermögensgesetz.
-
 
 #### § 2 Ausschlußfrist
 
@@ -5587,10 +5170,7 @@ am 1. Oktober 1998 ein.
 Betroffenen vor dem 24. Juli 1997 etwas Abweichendes vereinbart haben
 oder zwischen ihnen abweichende Urteile ergangen sind.
 
-
 ## Siebter Teil - Durchführung des Bürgerlichen Gesetzbuchs, Verordnungsermächtigungen, Informationspflichten
-
-
 
 #### Art 238 - Reiserechtliche Vorschriften
 
@@ -5632,10 +5212,7 @@ Gesetzbuchs) ist verpflichtet, die Beendigung des
 Kundengeldabsicherungsvertrags der zuständigen Behörde unverzüglich
 mitzuteilen.
 
-
 #### Art 239 - (weggefallen)
-
-
 
 #### Art 240 - Informationspflichten für Fernabsatzverträge
 
@@ -5666,10 +5243,6 @@ festzulegen:
     Verbrauchern nach Vertragsschluss in Textform mitzuteilen und in
     welcher Weise sie hervorzuheben sind.
 
-
-
-
-
 #### Art 241 - Informationspflichten für Verträge im elektronischen Geschäftsverkehr
 
 Das Bundesministerium der Justiz wird ermächtigt, im Einvernehmen mit
@@ -5686,9 +5259,7 @@ insbesondere zur Korrektur von Eingabefehlern, über den Zugang zu
 Vertragstext und Verhaltenskodizes sowie über die Vertragssprache vor
 Abgabe seiner Bestellung zu erteilen sind.
 
-
 #### Art 242 - Informationspflichten bei Teilzeit-Wohnrechteverträgen, Verträgen über langfristige Urlaubsprodukte, Vermittlungsverträgen sowie Tauschsystemverträgen
-
 
 #### § 1 Vorvertragliche und vertragliche Pflichtangaben
 
@@ -5730,7 +5301,6 @@ Verfügung gestellt werden. Werden sie nicht in das Formblatt
 aufgenommen, ist auf dem Formblatt darauf hinzuweisen, wo die Angaben
 zu finden sind.
 
-
 #### § 2 Informationen über das Widerrufsrecht
 
 Einem Teilzeit-Wohnrechtevertrag, einem Vertrag über ein langfristiges
@@ -5744,7 +5314,6 @@ langfristige Urlaubsprodukte sowie Wiederverkaufs- und Tauschverträgen
 Bürgerlichen Gesetzbuchs beizufügen, in das die einschlägigen
 Informationen zum Widerrufsrecht deutlich und verständlich eingefügt
 sind.
-
 
 #### Art 243 - Ver- und Entsorgungsbedingungen
 
@@ -5771,7 +5340,6 @@ Satz 1 gilt entsprechend für Bedingungen öffentlich-rechtlich
 gestalteter Ver- und Entsorgungsverhältnisse mit Ausnahme der Regelung
 des Verwaltungsverfahrens.
 
-
 #### Art 244 - Abschlagszahlungen beim Hausbau
 
 Das Bundesministerium der Justiz wird ermächtigt, im Einvernehmen mit
@@ -5787,7 +5355,6 @@ welcher Abschlag für eine in dem Vertrag enthaltene Verpflichtung zur
 Verschaffung des Eigentums angesetzt werden kann und welche Sicherheit
 dem Besteller hierfür zu leisten ist.
 
-
 #### Art 245 - Belehrung über Widerrufs- und Rückgaberecht
 
 Das Bundesministerium der Justiz wird ermächtigt, durch
@@ -5802,13 +5369,7 @@ Rechtsverordnung, die der Zustimmung des Bundesrates nicht bedarf,
 2.  zu bestimmen, wie diese Belehrung mit den auf Grund der Artikel 240
     bis 242 zu erteilenden Informationen zu verbinden ist.
 
-
-
-
-
 #### Art 246 - Informationspflichten bei besonderen Vertriebsformen
-
-
 
 #### § 1 Informationspflichten bei Fernabsatzverträgen
 
@@ -5955,7 +5516,6 @@ Informationen sind, und der Verbraucher ausdrücklich auf die
 Übermittlung der weiteren Informationen vor Abgabe seiner
 Vertragserklärung verzichtet hat.
 
-
 #### § 2 Weitere Informationspflichten bei Fernabsatzverträgen
 
 (1) Der Unternehmer hat dem Verbraucher ferner die in Satz 2
@@ -6025,7 +5585,6 @@ Vertragsbestimmungen einschließlich der Allgemeinen
 Geschäftsbedingungen enthalten sind, bedürfen sie einer
 hervorgehobenen und deutlich gestalteten Form.
 
-
 #### § 3 Informationspflichten bei Verträgen im elektronischen Geschäftsverkehr
 
 Bei Verträgen im elektronischen Geschäftsverkehr muss der Unternehmer
@@ -6052,13 +5611,7 @@ den Kunden unterrichten
     Unternehmer unterwirft, sowie über die Möglichkeit eines
     elektronischen Zugangs zu diesen Regelwerken.
 
-
-
-
-
 #### Art 247 - Informationspflichten bei Verbraucherdarlehensverträgen, entgeltlichen Finanzierungshilfen und Darlehensvermittlungsverträgen
-
-
 
 #### § 1 Form und Zeitpunkt der vorvertraglichen Information
 
@@ -6066,7 +5619,6 @@ Die Unterrichtung nach § 491a Abs. 1 des Bürgerlichen Gesetzbuchs muss
 rechtzeitig vor dem Abschluss eines Verbraucherdarlehensvertrags in
 Textform erfolgen und die sich aus den §§ 3 bis 5 und 8 bis 13
 ergebenden Einzelheiten enthalten.
-
 
 #### § 2 Muster
 
@@ -6099,7 +5651,6 @@ der Verbraucherkreditrichtlinie, des zivilrechtlichen Teils der
 Zahlungsdiensterichtlinie sowie zur Neuordnung der Vorschriften über
 das Widerrufs- und Rückgaberecht vom 29. Juli 2009 (BGBl. I S. 2355)
 als erfüllt.
-
 
 #### § 3 Inhalt der vorvertraglichen Information
 
@@ -6191,7 +5742,6 @@ anzugeben, in welcher Reihenfolge die ausstehenden Forderungen des
 Darlehensgebers, für die unterschiedliche Sollzinssätze gelten, durch
 die Teilzahlungen getilgt werden.
 
-
 #### § 4 Weitere Angaben bei der vorvertraglichen Information
 
 (1) Die Unterrichtung muss folgende Angaben enthalten, soweit sie für
@@ -6219,7 +5769,6 @@ den in Betracht kommenden Vertragsabschluss erheblich sind:
 den Angaben nach Absatz 1 und nach den §§ 3 und 8 bis 13 erteilt
 werden.
 
-
 #### § 5 Information bei besonderen Kommunikationsmitteln
 
 Wählt der Darlehensnehmer für die Vertragsanbahnung
@@ -6229,7 +5778,6 @@ gestatten, ist die vollständige Unterrichtung nach § 1 unverzüglich
 nachzuholen. Bei Telefongesprächen muss die Beschreibung der
 wesentlichen Merkmale nach Artikel 246 § 1 Abs. 1 Nr. 4 zumindest die
 Angaben nach § 3 Abs. 1 Nr. 3 bis 9, Abs. 3 und 4 enthalten.
-
 
 #### § 6 Vertragsinhalt
 
@@ -6280,7 +5828,6 @@ unter Angabe der Annahmen zu erfolgen, die zum Zeitpunkt des
 Abschlusses des Vertrags bekannt sind und die in die Berechnung des
 effektiven Jahreszinses einfließen.
 
-
 #### § 7 Weitere Angaben im Vertrag
 
 Der Verbraucherdarlehensvertrag muss klar und verständlich folgende
@@ -6302,10 +5849,6 @@ Angaben enthalten, soweit sie für den Vertrag bedeutsam sind:
 4.  den Zugang des Darlehensnehmers zu einem außergerichtlichen
     Beschwerde- und Rechtsbehelfsverfahren und gegebenenfalls die
     Voraussetzungen für diesen Zugang.
-
-
-
-
 
 #### § 8 Verträge mit Zusatzleistungen
 
@@ -6331,7 +5874,6 @@ Zahlungsverpflichtungen noch die Ansprüche, die der Darlehensnehmer
 aus der Vermögensbildung erwirbt, die Tilgung des Darlehens
 gewährleisten, es sei denn, dies wird vertraglich vereinbart.
 
-
 #### § 9 Abweichende Mitteilungspflichten bei Immobiliardarlehensverträgen gemäß § 503 des Bürgerlichen Gesetzbuchs
 
 (1) Bei Verträgen gemäß § 503 des Bürgerlichen Gesetzbuchs sind in der
@@ -6349,7 +5891,6 @@ Widerrufsrecht nach § 6 Abs. 2 enthalten.
 (2) Die Anzahl der Teilzahlungen ist nicht anzugeben, wenn die
 Laufzeit des Darlehensvertrags von dem Zeitpunkt der Zuteilung eines
 Bausparvertrags abhängt.
-
 
 #### § 10 Abweichende Mitteilungspflichten bei Überziehungsmöglichkeiten gemäß § 504 Abs. 2 des Bürgerlichen Gesetzbuchs
 
@@ -6405,7 +5946,6 @@ Darlehensgeber außer den Sollzinsen keine weiteren Kosten verlangt und
 die Sollzinsen nicht in kürzeren Zeiträumen als drei Monaten fällig
 werden.
 
-
 #### § 11 Abweichende Mitteilungspflichten bei Umschuldungen gemäß § 495 Abs. 3 Nr. 1 des Bürgerlichen Gesetzbuchs
 
 (1) Bei Umschuldungen gemäß § 495 Abs. 3 Nr. 1 des Bürgerlichen
@@ -6452,7 +5992,6 @@ Merkmale nach Artikel 246 § 1 Abs. 1 Nr. 4 zumindest die Angaben nach
 Bürgerlichen Gesetzbuchs als Überziehungsmöglichkeit im Sinne des §
 504 Abs. 2 Satz 1 des Bürgerlichen Gesetzbuchs abgeschlossen, gilt §
 10\. Die Absätze 1 und 2 sind nicht anzuwenden.
-
 
 #### § 12 Verbundene Verträge und entgeltliche Finanzierungshilfen
 
@@ -6505,7 +6044,6 @@ und § 7 Nummer 3 entbehrlich. § 14 Abs. 1 Satz 2 ist nicht anzuwenden.
 Hat der Unternehmer den Gegenstand für den Verbraucher erworben, tritt
 an die Stelle des Barzahlungspreises der Anschaffungspreis.
 
-
 #### § 13 Darlehensvermittler
 
 (1) Ist bei der Anbahnung oder beim Abschluss eines
@@ -6556,7 +6094,6 @@ Abschluss eines Verbraucherdarlehensvertrags oder eines Vertrags über
 eine entgeltliche Finanzierungshilfe, so hat er hierbei die Angaben
 nach Absatz 2 Satz 1 Nummer 3 einzubeziehen.
 
-
 #### § 14 Tilgungsplan
 
 (1) Verlangt der Darlehensnehmer nach § 492 Abs. 3 Satz 2 des
@@ -6576,7 +6113,6 @@ Kosten gelten.
 (3) Der Tilgungsplan ist dem Darlehensnehmer in Textform zur Verfügung
 zu stellen. Der Anspruch erlischt nicht, solange das
 Vertragsverhältnis besteht.
-
 
 #### § 15 Unterrichtungen bei Zinsanpassungen
 
@@ -6606,7 +6142,6 @@ regelmäßigen Zeitabständen zu unterrichten. Außerdem muss der
 Darlehensnehmer die Höhe des Referenzzinssatzes in den Geschäftsräumen
 des Darlehensgebers einsehen können.
 
-
 #### § 16 Unterrichtung bei Überziehungsmöglichkeiten
 
 Die Unterrichtung nach § 504 Abs. 1 Satz 1 des Bürgerlichen
@@ -6634,10 +6169,6 @@ Gesetzbuchs muss folgende Angaben enthalten:
 
 
 8.  den gegebenenfalls zurückzuzahlenden Mindestbetrag.
-
-
-
-
 
 #### § 17 Angaben bei geduldeten Überziehungen
 
@@ -6669,17 +6200,9 @@ muss folgende Angaben enthalten:
 
 4.  etwaige Vertragsstrafen, Kosten und Verzugszinsen.
 
-
-
-
-
 #### Art 248 - Informationspflichten bei der Erbringung von Zahlungsdienstleistungen
 
-
-
 ##### Abschnitt 1 - Allgemeine Vorschriften
-
-
 
 ##### § 1 Konkurrierende Informationspflichten im Fernabsatz
 
@@ -6689,7 +6212,6 @@ durch die Informationspflichten gemäß den §§ 2 bis 16 ersetzt; dies
 gilt nicht für die in Artikel 246 § 1 Abs. 1 Nr. 8 bis 12 und Abs. 2
 Nr. 2, 4 und 8 genannten Informationspflichten.
 
-
 ##### § 2 Allgemeine Form
 
 Die Informationen und Vertragsbedingungen sind in einer Amtssprache
@@ -6698,10 +6220,7 @@ Abkommens über den Europäischen Wirtschaftsraum, in dem der
 Zahlungsdienst angeboten wird, oder in einer anderen zwischen den
 Parteien vereinbarten Sprache klar und verständlich abzufassen.
 
-
 ##### Abschnitt 2 - Zahlungsdiensterahmenverträge
-
-
 
 ##### § 3 Besondere Form
 
@@ -6709,7 +6228,6 @@ Bei Zahlungsdiensterahmenverträgen (§ 675f Abs. 2 des Bürgerlichen
 Gesetzbuchs) hat der Zahlungsdienstleister dem Zahlungsdienstnutzer
 die in den §§ 4 bis 9 genannten Informationen und Vertragsbedingungen
 in Textform mitzuteilen.
-
 
 ##### § 4 Vorvertragliche Informationen
 
@@ -6900,13 +6418,11 @@ mitzuteilen.
 eine Abschrift des Vertragsentwurfs übermittelt wird, die die nach
 Absatz 1 erforderlichen Informationen und Vertragsbedingungen enthält.
 
-
 ##### § 5 Zugang zu Vertragsbedingungen und vorvertraglichen Informationen während der Vertragslaufzeit
 
 Während der Vertragslaufzeit kann der Zahlungsdienstnutzer jederzeit
 die Übermittlung der Vertragsbedingungen sowie der in § 4 genannten
 Informationen in Textform verlangen.
-
 
 ##### § 6 Informationen vor Ausführung einzelner Zahlungsvorgänge
 
@@ -6914,7 +6430,6 @@ Vor Ausführung eines einzelnen vom Zahler ausgelösten Zahlungsvorgangs
 teilt der Zahlungsdienstleister auf Verlangen des Zahlers die maximale
 Ausführungsfrist für diesen Zahlungsvorgang sowie die in Rechnung zu
 stellenden Entgelte und gegebenenfalls deren Aufschlüsselung mit.
-
 
 ##### § 7 Informationen an den Zahler bei einzelnen Zahlungsvorgängen
 
@@ -6948,10 +6463,6 @@ Informationen mit:
 5.  das Wertstellungsdatum der Belastung oder das Datum des Zugangs des
     Zahlungsauftrags.
 
-
-
-
-
 ##### § 8 Informationen an den Zahlungsempfänger bei einzelnen Zahlungsvorgängen
 
 Nach Ausführung eines einzelnen Zahlungsvorgangs teilt der
@@ -6981,10 +6492,6 @@ folgenden Informationen mit:
 
 5.  das Wertstellungsdatum der Gutschrift.
 
-
-
-
-
 ##### § 9 Sonstige Informationen während des Vertragsverhältnisses
 
 Während des Vertragsverhältnisses ist der Zahlungsdienstleister
@@ -6998,10 +6505,6 @@ wenn
 2.  zum Nachteil des Zahlungsdienstnutzers Änderungen von Zinssätzen
     wirksam geworden sind.
 
-
-
-
-
 ##### § 10 Abweichende Vereinbarungen
 
 Für die in den §§ 7, 8 und 9 Nr. 2 genannten Informationen können
@@ -7011,7 +6514,6 @@ vereinbaren. Über die in den §§ 7 und 8 genannten Informationen hat
 der Zahlungsdienstleister jedoch mindestens einmal monatlich so zu
 unterrichten, dass der Zahlungsdienstnutzer die Informationen
 unverändert aufbewahren und wiedergeben kann.
-
 
 ##### § 11 Ausnahmen für Kleinbetragsinstrumente und elektronisches Geld
 
@@ -7059,13 +6561,7 @@ Zahlungsdienstnutzer nach Ausführung eines Zahlungsvorgangs
     Zahlungsdienstleister dem Zahlungsdienstnutzer eine Möglichkeit
     anzubieten, die gespeicherten Beträge zu überprüfen.
 
-
-
-
-
 ##### Abschnitt 3 - Einzelzahlungsverträge
-
-
 
 ##### § 12 Besondere Form
 
@@ -7076,7 +6572,6 @@ Vertragsbedingungen in leicht zugänglicher Form zur Verfügung zu
 stellen. Auf Verlangen des Zahlungsdienstnutzers stellt ihm der
 Zahlungsdienstleister die Informationen und Vertragsbedingungen in
 Textform zur Verfügung.
-
 
 ##### § 13 Vorvertragliche Informationen
 
@@ -7118,7 +6613,6 @@ den §§ 2 und 12 vorgesehen ist.
 eine Abschrift des Vertragsentwurfs übermittelt wird, die die nach
 Absatz 1 erforderlichen Informationen und Vertragsbedingungen enthält.
 
-
 ##### § 14 Informationen an den Zahler nach Zugang des Zahlungsauftrags
 
 Nach Zugang des Zahlungsauftrags unterrichtet der
@@ -7144,10 +6638,6 @@ Zahlungsdienstleister des Zahlers diesen unverzüglich über
 
 
 5.  das Datum des Zugangs des Zahlungsauftrags.
-
-
-
-
 
 ##### § 15 Informationen an den Zahlungsempfänger nach Ausführung des Zahlungsvorgangs
 
@@ -7176,10 +6666,6 @@ Zahlungsdienstleister des Zahlungsempfängers diesen unverzüglich über
 
 5.  das Wertstellungsdatum der Gutschrift.
 
-
-
-
-
 ##### § 16 Informationen bei Einzelzahlung mittels rahmenvertraglich geregelten Zahlungsauthentifizierungsinstruments
 
 Wird ein Zahlungsauftrag für eine Einzelzahlung über ein
@@ -7188,10 +6674,7 @@ rahmenvertraglich geregeltes Zahlungsauthentifizierungsinstrument
 Zahlungsdiensterahmenvertrags ist, verpflichtet, den
 Zahlungsdienstnutzer nach Maßgabe des Abschnitts 2 zu unterrichten.
 
-
 ##### Abschnitt 4 - Informationspflichten von Zahlungsempfängern und Dritten
-
-
 
 ##### § 17 Informationspflichten des Zahlungsempfängers
 
@@ -7207,7 +6690,6 @@ Zahlungsauthentifizierungsinstruments ein Entgelt oder bietet er eine
 Ermäßigung an, so teilt er dies dem Zahler vor Auslösung des
 Zahlungsvorgangs mit.
 
-
 ##### § 18 Informationspflichten Dritter
 
 Verlangt ein Dritter, über welchen ein Zahlungsdienstnutzer einen
@@ -7216,13 +6698,11 @@ bestimmten Zahlungsauthentifizierungsinstruments ein Entgelt, so teilt
 er dies dem Zahlungsdienstnutzer vor der Auslösung des
 Zahlungsvorgangs mit.
 
-
 ##### § 19 Abweichende Vereinbarungen
 
 Handelt es sich bei dem Zahlungsdienstnutzer nicht um einen
 Verbraucher, so können die Parteien vereinbaren, dass die §§ 17 und 18
 ganz oder teilweise nicht anzuwenden sind.
-
 
 ### Anlage 1 (zu Artikel 246 § 2 Absatz 3 Satz 1) Muster für die Widerrufsbelehrung
 
@@ -7521,10 +7001,6 @@ ganz oder teilweise nicht anzuwenden sind.
     Widerrufsbelehrung“ oder durch die Wörter „Ihr(e) (einsetzen: Firma
     des Unternehmers)“ zu ersetzen.
 
-
-
-
-
 ### Anlage 2 (zu Artikel 246 § 2 Absatz 3 Satz 1) Muster für die Rückgabebelehrung
 
 (Fundstelle: BGBl. I 2011, 1605 - 1606)
@@ -7709,10 +7185,6 @@ ganz oder teilweise nicht anzuwenden sind.
     sind diese Angaben entweder durch die Wörter „Ende der
     Rückgabebelehrung“ oder durch die Wörter „Ihr(e) (einsetzen: Firma des
     Unternehmers)“ zu ersetzen.“
-
-
-
-
 
 ### Anlage 3 (zu Artikel 247 § 2) Europäische Standardinformationen für Verbraucherkredite
 
@@ -8032,13 +7504,6 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
             und Rechtsbehelfsverfahren hat, und gegebenenfalls die Voraussetzungen
             für diesen Zugang]
 
-
-
-
-
-
-
-
 ### Anlage 4 (zu Artikel 247 § 2) Europäische Verbraucherkreditinformationen bei 1. Überziehungskrediten 2. Umschuldungen
 
 (Fundstelle: BGBl. I 2009, S. 2398 - 2401;
@@ -8297,13 +7762,6 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
             Fernabsatzvertrags ist, Zugang zu einem außergerichtlichen Beschwerde-
             und Rechtsbehelfsverfahren hat, und gegebenenfalls die Voraussetzungen
             für diesen Zugang]
-
-
-
-
-
-
-
 
 ### Anlage 5 (zu Artikel 247 § 2) Europäisches Standardisiertes Merkblatt
 
@@ -8626,7 +8084,6 @@ Information für das in Frage kommende Darlehen bedeutungslos ist.
 
 Die Vermerke in eckigen Klammern dienen zur Erläuterung und sind durch
 die entsprechenden Angaben zu ersetzen.
-
 
 ### Anlage 6 (zu Artikel 247 § 6 Absatz 2 und § 12 Absatz 1) Muster für eine Widerrufsinformation für Verbraucherdarlehensverträge
 

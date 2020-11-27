@@ -18,13 +18,11 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 18 G v. 6.12.2011 I 2481
 
-
 ## Eingangsformel
 
 Auf Grund des § 2 Abs. 6 des Kapitalanleger-Musterverfahrensgesetzes
 vom 16. August 2005 (BGBl. I S. 2437) verordnet das Bundesministerium
 der Justiz:
-
 
 ## § 1 Inhalt und Aufbau des Klageregisters
 
@@ -133,10 +131,6 @@ die Suche nach den folgenden Angaben ermöglicht:
 4.  Aktenzeichen des Prozessgerichts nach § 2 Abs. 1 Satz 4 Nr. 4 des
     Kapitalanleger-Musterverfahrensgesetzes.
 
-
-
-
-
 ## § 2 Eintragungen
 
 (1) Eintragungen in das Klageregister dürfen nur durch die Gerichte im
@@ -150,7 +144,6 @@ eines geheim zu haltenden Passworts automatisiert zu prüfen.
 (3) Bei jeder Eintragung muss technisch nachvollziehbar bleiben, von
 welcher Person sie vorgenommen wurde.
 
-
 ## § 3 Bekanntmachungen
 
 (1) Die Gerichte müssen jederzeit die nach dem Kapitalanleger-
@@ -162,7 +155,6 @@ erscheinen.
 
 (3) Die Bekanntmachung eines Musterfeststellungsantrags muss das Datum
 und die sekundengenaue Uhrzeit ihrer Eintragung enthalten.
-
 
 ## § 4 Berichtigung, Löschung, Kennzeichnung und Überprüfung
 
@@ -195,7 +187,6 @@ aktuell sind. Es nimmt die erforderlichen Berichtigungen und
 Löschungen unter Beachtung der Löschungsfristen nach Absatz 2
 unverzüglich vor.
 
-
 ## § 5 Einsichtnahme
 
 (1) Die Einsichtnahme in das Klageregister erfolgt ausschließlich im
@@ -206,7 +197,6 @@ automatisierten Abrufverfahren; sie ist kostenfrei.
 (3) Für die Gestaltung der Einsichtnahme gelten die Vorgaben der
 Barrierefreie Informationstechnik-Verordnung vom 17. Juli 2002 (BGBl.
 I S. 2654) in der jeweils geltenden Fassung entsprechend.
-
 
 ## § 6 Datensicherheit
 
@@ -221,7 +211,6 @@ Klageregister unversehrt und vollständig bleiben.
 technische Vorkehrungen sicherzustellen, dass er von auftretenden
 Fehlfunktionen unverzüglich Kenntnis erlangt, und hat diese
 unverzüglich zu beheben.
-
 
 ## § 7 Inkrafttreten
 

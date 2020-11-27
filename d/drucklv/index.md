@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 6 V v. 18.12.2008 I 2768
 
-
 ## Inhaltsverzeichnis
 
 
@@ -156,10 +155,6 @@ Zuletzt geändert durch
 
     *   Inkrafttreten
 
-
-
-
-
 ## Eingangsformel
 
 Auf Grund
@@ -189,7 +184,6 @@ Auf Grund
 in Verbindung mit Artikel 129 Abs. 1 des Grundgesetzes wird mit
 Zustimmung des Bundesrates verordnet:
 
-
 ## § 1 Geltungsbereich
 
 (1) Diese Verordnung gilt für Arbeiten in Druckluft, soweit diese von
@@ -197,7 +191,6 @@ einem Arbeitgeber gewerbsmäßig ausgeführt werden.
 
 (2) Diese Verordnung gilt nicht für Arbeiten in Taucherglocken ohne
 Schleusen und für Taucherarbeiten.
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -229,7 +222,6 @@ Schleusen und für Taucherarbeiten.
 (2) Druckluft im Sinne dieser Verordnung ist Luft mit einem Überdruck
 von mehr als 0,1 bar. Der Arbeitsdruck ist der über den
 atmosphärischen Druck hinausgehende Überdruck.
-
 
 ## § 3 Anzeige
 
@@ -295,7 +287,6 @@ Ihr sind als Unterlagen beizufügen:
 Inhalt der Anzeige oder der Unterlagen eingetreten oder vorgesehen,
 ist dies der zuständigen Behörde unverzüglich schriftlich anzuzeigen.
 
-
 ## § 4 Allgemeine Anforderungen
 
 (1) Die Arbeitskammern und die ihrem Betrieb dienenden Einrichtungen
@@ -347,7 +338,6 @@ Verordnung zur Umsetzung von Rechtsakten des Rates der Europäischen
 Union oder der Kommission der Europäischen Gemeinschaften bleiben
 unberührt.
 
-
 ## § 5 Weitergehende Anforderungen
 
 Die Arbeitskammern und die ihrem Betrieb dienenden Einrichtungen
@@ -355,7 +345,6 @@ müssen den über die Vorschriften des § 4 Abs. 1 hinausgehenden
 Anforderungen entsprechen, die von der zuständigen Behörde im
 Einzelfall zur Abwendung besonderer Gefahren für die Arbeitnehmer
 gestellt werden.
-
 
 ## § 6 Ausnahmebewilligung
 
@@ -375,7 +364,6 @@ Behörde zu entscheiden. Die Frist kann in begründeten Fällen
 verlängert werden. Die Zulassung gilt als erteilt, wenn die zuständige
 Behörde nicht innerhalb der genannten Frist die Beschäftigung der
 Arbeitnehmer untersagt.
-
 
 ## § 7 Prüfung durch Sachverständige
 
@@ -466,11 +454,9 @@ Anlaß im Einzelfall außerordentliche Prüfungen anordnen. Dies gilt
 auch bei Arbeitskammern mit einem höchstzulässigen Arbeitsdruck von
 weniger als 0,5 bar.
 
-
 ## § 8
 
 (weggefallen)
-
 
 ## § 9 Beschäftigungsverbot
 
@@ -480,14 +466,12 @@ nicht beschäftigt werden.
 (2) In Druckluft dürfen Arbeitnehmer unter 18 oder über 50 Jahren
 nicht beschäftigt werden.
 
-
 ## § 10 Ärztliche Vorsorgeuntersuchungen
 
 Für den Bereich der arbeitsmedizinischen Vorsorge gilt die Verordnung
 zur arbeitsmedizinischen Vorsorge vom 18. Dezember 2008 (BGBl. I S.
 2768), die im Anhang Teil 3 einen Anlass für Pflichtuntersuchungen
 enthält, in der jeweils geltenden Fassung.
-
 
 ## § 11 Weitere ärztliche Vorsorgemaßnahmen
 
@@ -513,7 +497,6 @@ bestehen.
 eine Bescheinigung über seine Feststellung nach Absatz 1 auszustellen.
 § 8 Abs. 2 der Verordnung zur arbeitsmedizinischen Vorsorge gilt
 entsprechend.
-
 
 ## § 12 Allgemeine Aufgaben und Erreichbarkeit des ermächtigten Arztes
 
@@ -547,14 +530,12 @@ Arbeitnehmern zugänglicher Stelle, insbesondere in der
 Personenschleuse und im Erholungsraum auszuhängen und den Aushang in
 gut lesbarem Zustand zu erhalten.
 
-
 ## § 13 Ermächtigte Ärzte
 
 Ärzte, die nach dieser Verordnung tätig werden, müssen die
 erforderliche arbeitsmedizinische Fachkunde sowie Fachkenntnisse
 bezüglich der Arbeiten in Druckluft besitzen und von der zuständigen
 Behörde ermächtigt sein.
-
 
 ## § 14 Veranlassung der ärztlichen Maßnahmen
 
@@ -565,10 +546,7 @@ Abs. 1 auf seine Kosten zu veranlassen.
 der Arbeitnehmer beschäftigt wird und welche Arbeiten er zu verrichten
 hat.
 
-
 ## (XXXX) §§ 15 und 16 (weggefallen)
-
-
 
 ## § 17 Krankendruckluftkammern, Erholungsräume und sanitäre Einrichtungen
 
@@ -630,7 +608,6 @@ Absatzes 2 entspricht, und zwar
 Er hat den Sachverständigen zu veranlassen, hierüber
 Prüfbescheinigungen zu erteilen. § 7 Abs. 3 ist entsprechend
 anzuwenden.
-
 
 ## § 18 Bestellung von Fachkräften
 
@@ -727,7 +704,6 @@ erfüllen.
 (10) Für die in Absatz 1 genannten Personen gelten die Bestimmungen
 der §§ 9 bis 11 entsprechend.
 
-
 ## § 19 Nachweise
 
 Der Arbeitgeber hat auf der Arbeitsstelle bereitzuhalten
@@ -747,10 +723,6 @@ Der Arbeitgeber hat auf der Arbeitsstelle bereitzuhalten
 3.  ein Verzeichnis der nach § 18 bestellten Fachkräfte unter Angabe von
     Name und Anschrift.
 
-
-
-
-
 ## § 20 Belehrung der Arbeitnehmer
 
 (1) Der Arbeitgeber hat dafür zu sorgen, daß der Fachkundige, der die
@@ -766,7 +738,6 @@ mindestens in Abständen von sechs Monaten, zu wiederholen.
 Beschäftigung mit Arbeiten in Druckluft ein Merkblatt auszuhändigen,
 in dem der Inhalt der Unterrichtung nach Absatz 1 enthalten ist. Das
 Merkblatt muß in der Sprache des Beschäftigten abgefaßt sein.
-
 
 ## § 21 Ausschleusungs- und Wartezeiten
 
@@ -792,7 +763,6 @@ beschäftigt werden.
 (5) Wenn die Zeit des Aufenthalts in der Arbeitskammer 4 Stunden
 überschreitet, sind den Beschäftigten Pausen in der Gesamtdauer von
 mindestens einer halben Stunde zu gewähren.
-
 
 ## § 22 Straftaten und Ordnungswidrigkeiten nach dem Arbeitsschutzgesetz
 
@@ -869,14 +839,12 @@ Arbeitsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 oder Gesundheit eines Beschäftigten gefährdet, ist nach § 26 Nr. 2 des
 Arbeitsschutzgesetzes strafbar.
 
-
 ## § 22a Ordnungswidrigkeit nach dem Jugendarbeitsschutzgesetz
 
 Ordnungswidrig im Sinne des § 58 Abs. 1 Nr. 26 Buchstabe a des
 Jugendarbeitsschutzgesetzes handelt, wer als Arbeitgeber vorsätzlich
 oder fahrlässig entgegen § 9 Abs. 2 einen Arbeitnehmer, der das 18.
 Lebensjahr noch nicht vollendet hat, in Druckluft beschäftigt.
-
 
 ## § 23 Ordnungswidrigkeiten nach dem Arbeitszeitgesetz
 
@@ -889,19 +857,13 @@ handelt, wer als Arbeitgeber vorsätzlich oder fahrlässig
 2.  entgegen § 21 Abs. 5 Pausen nicht, nicht mit der vorgeschriebenen
     Mindestdauer oder nicht rechtzeitig gewährt.
 
-
-
-
-
 ## § 24
 
 (weggefallen)
 
-
 ## § 25
 
 (weggefallen)
-
 
 ## § 26 Inkrafttreten
 
@@ -910,11 +872,9 @@ folgenden 6. Kalendermonats in Kraft.
 
 (2)
 
-
 ## Schlußformel
 
 Der Bundesminister für Arbeit und Sozialordnung
-
 
 ## Anhang 1 (§§ 4 und 17 Abs. 2 der Verordnung über Arbeiten in Druckluft)
 
@@ -1443,13 +1403,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
         (4) Waschräume müssen heizbar sein. Die Temperatur hat mindestens
         20 Grad C zu betragen.
 
-
-
-
-
-
-
-
 ## Anhang 2 (§ 21 Abs. 1) Ausschleusungs- und Wartezeiten
 
 Fundstelle des Originaltextes: BGBl. I 1997, 1387 - 1401
@@ -1543,10 +1496,6 @@ Fundstelle: BGBl. I 1997, 1397 - 1401)              \*)
 
 *   Achtung: Der Arbeitsdruck entspricht dem über den atmosphärischen
     Druck hinausgehenden Überdruck!
-
-
-
-
 
 ## Anhang 3 (Nach § 18 Abs. 1 Nr. 4 der Verordnung über Arbeiten in Druckluft)
 

@@ -24,7 +24,6 @@ Maronenkrem für die menschliche Ernährung (ABl. EG 2002 Nr. L 10 S.
 67)
 in deutsches Recht umgesetzt.
 
-
 ## Eingangsformel
 
 Das Bundesministerium für Verbraucherschutz, Ernährung und
@@ -38,7 +37,6 @@ August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 22.
 Oktober 2002 (BGBl. I S. 4206) im Einvernehmen mit dem
 Bundesministerium für Wirtschaft und Arbeit:
 
-
 ## § 1 Anwendungsbereich
 
 Die in Anlage 1 aufgeführten Erzeugnisse unterliegen dieser
@@ -46,7 +44,6 @@ Verordnung, soweit sie dazu bestimmt sind, als Lebensmittel
 gewerbsmäßig in den Verkehr gebracht zu werden. Ausgenommen sind
 Erzeugnisse, die für die Herstellung von Feinen Backwaren,
 Konditoreiwaren oder Keksen bestimmt sind.
-
 
 ## § 2 Zutaten
 
@@ -61,7 +58,6 @@ verwendet werden.
 beim gewerbsmäßigen Herstellen von Erzeugnissen nach Anlage 1 nicht
 verwendet werden. Die Vorschriften der Zusatzstoff-
 Zulassungsverordnung sind anzuwenden.
-
 
 ## § 3 Kennzeichnung
 
@@ -130,14 +126,12 @@ sind im selben Sichtfeld wie die Verkehrsbezeichnung anzubringen. Im
 Abs. 3 Satz 1, 2 und 3 erster Halbsatz und Abs. 4 der Lebensmittel-
 Kennzeichnungsverordnung entsprechend.
 
-
 ## § 4 Verkehrsverbot
 
 Lebensmittel, die mit einer in Anlage 1 aufgeführten Bezeichnung
 versehen sind, ohne den in Anlage 1 genannten
 Herstellungsanforderungen und dem § 2 Abs. 1 und 3 Satz 1 zu
 entsprechen, dürfen gewerbsmäßig nicht in den Verkehr gebracht werden.
-
 
 ## § 5 Straftaten und Ordnungswidrigkeiten
 
@@ -154,7 +148,6 @@ Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich
 oder fahrlässig entgegen § 3 Abs. 3 Satz 1 Nr. 1, 2 oder 3 ein
 Erzeugnis in den Verkehr bringt.
 
-
 ## § 6 Übergangsregelung
 
 Bis zum 11. Juli 2004 dürfen Erzeugnisse nach den bis zum 5. November
@@ -162,18 +155,15 @@ Bis zum 11. Juli 2004 dürfen Erzeugnisse nach den bis zum 5. November
 Nach Satz 1 hergestellte und gekennzeichnete Erzeugnisse dürfen bis
 zum Abbau der Vorräte in den Verkehr gebracht werden.
 
-
 ## § 7 Inkrafttreten, Außerkrafttreten
 
 (1) Die Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 (2)
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage 1 (zu den §§ 1 bis 4) Erzeugnisse
 
@@ -404,10 +394,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     mehr Früchten sind die vorgeschriebenen Mindestmengen anteilmäßig zu
     verwenden.
 
-
-
-
-
 ## Anlage 2 (zu § 2 Abs. 1 und § 4) Ausgangserzeugnisse
 
 Fundstelle des Originaltextes: BGBl. I 2003, 2155
@@ -526,10 +512,6 @@ Fundstelle des Originaltextes: BGBl. I 2003, 2155
 
 
 2.  Die Schalen von Zitrusfrüchten dürfen in Lake haltbar gemacht werden.
-
-
-
-
 
 ## Anlage 3 (zu § 2 Abs. 2) Zutaten
 

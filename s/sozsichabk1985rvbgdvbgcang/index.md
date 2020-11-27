@@ -19,8 +19,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1988, 26
 
-
-
 ## Art 1
 
 Den folgenden Übereinkünften wird zugestimmt:
@@ -38,7 +36,6 @@ Den folgenden Übereinkünften wird zugestimmt:
 
 
 Die Übereinkünfte werden nachstehend veröffentlicht.
-
 
 ## Art 2
 
@@ -93,17 +90,12 @@ insbesondere über folgende Gegenstände Regelungen getroffen werden:
 
 3.  die in Absatz 1 Nummern 3 bis 5 genannten Gegenstände.
 
-
-
-
-
 ## Art 3
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt. Rechtsverordnungen, die aufgrund
 dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des
 Dritten Überleitungsgesetzes.
-
 
 ## Art 4
 

@@ -16,13 +16,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1994, 2703
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -31,7 +28,6 @@ unterzeichneten Basler Übereinkommen vom 22. März 1989 über die
 Kontrolle der grenzüberschreitenden Verbringung gefährlicher Abfälle
 und ihrer Entsorgung wird zugestimmt. Das Übereinkommen wird
 nachstehend mit einer amtlichen deutschen Übersetzung veröffentlicht.
-
 
 ## Art 2
 
@@ -43,7 +39,6 @@ Rechtsverordnung mit Zustimmung des Bundesrates in Kraft zu setzen.
 Sie kann hierbei insbesondere die Form und den Inhalt der für eine
 Verbringung beizubringenden Unterlagen und die in Ausführung des
 Übereinkommens bestehenden Informationspflichten der Länder regeln.
-
 
 ## Art 3
 

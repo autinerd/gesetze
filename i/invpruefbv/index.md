@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 2 V v. 28.6.2011 I 1278
 
-
 ## Eingangsformel
 
 Auf Grund des § 19f Absatz 3, des § 44 Absatz 7 Satz 1 zweite
@@ -36,9 +35,7 @@ S. 3), der zuletzt durch die Verordnung vom 21. April 2008 (BGBl. I S.
 Finanzdienstleistungsaufsicht im Einvernehmen mit dem
 Bundesministerium der Justiz:
 
-
 ## Kapitel 1 - Allgemeine Vorschriften
-
 
 ### § 1 Anwendungsbereich
 
@@ -47,7 +44,6 @@ Kapitalanlagegesellschaften, Investmentaktiengesellschaften und
 Sondervermögen nach dem Investmentgesetz und den Inhalt der
 Prüfungsberichte sowie die Art und den Umfang der Berichterstattung.
 
-
 ### § 2 Risikoorientierung und Wesentlichkeit
 
 Den Grundsätzen der risikoorientierten Prüfung und der Wesentlichkeit
@@ -55,7 +51,6 @@ ist Rechnung zu tragen. Bei Kapitalanlagegesellschaften und
 Investmentaktiengesellschaften (Gesellschaften) sind insbesondere die
 Größe der Gesellschaft, der Geschäftsumfang und die Komplexität der
 betriebenen Geschäfte sowie der Risikogehalt zu berücksichtigen.
-
 
 ### § 3 Allgemeine Prüfungs- und Berichtsgrundsätze
 
@@ -98,7 +93,6 @@ Abschlussprüfers zu versehen und entsprechend zu kennzeichnen. Satz 1
 gilt für Spezial-Sondervermögen und Spezial-
 Investmentaktiengesellschaften nur auf Anforderung der Bundesanstalt.
 
-
 ### § 4 Anlagen und Verweisungen
 
 (1) Die nach dieser Verordnung geforderten Angaben können zum Zwecke
@@ -123,12 +117,9 @@ früheren Prüfungsberichten dem Prüfungsbericht als Zitat beifügt.
 Verweisungen auf entsprechende Darstellungen in eigenständigen Teilen
 des früheren Prüfungsberichts dürfen ausnahmsweise erfolgen.
 
-
 ## Kapitel 2 - Kapitalanlagegesellschaft
 
-
 ### Abschnitt 1 - Allgemeines
-
 
 #### § 5 Zusammenfassung der Prüfungsergebnisse
 
@@ -148,7 +139,6 @@ sind und ob die Vorschriften des Geldwäschegesetzes und die Anzeige-
 und Meldevorschriften beachtet wurden. Der Prüfungsbericht ist unter
 Angabe von Ort und Datum zu unterzeichnen.
 
-
 #### § 6 Berichtszeitraum
 
 Der Zeitraum, auf den sich die Prüfung erstreckt (Berichtszeitraum),
@@ -159,7 +149,6 @@ mindestens das Geschäftsjahr umfassen, das am Bilanzstichtag endet.
 Wurde die Prüfung unterbrochen, ist in dem Bericht darauf hinzuweisen
 und die Dauer der Unterbrechung unter Darlegung der Gründe anzugeben.
 
-
 #### § 7 Prüfungs- und Berichtsgrundsätze für Kapitalanlagegesellschaften
 
 Der Bericht über die Prüfung der Kapitalanlagegesellschaft ist so zu
@@ -168,7 +157,6 @@ zuständigen Abschlussprüfer in die Lage versetzt, diesen im Rahmen
 seiner Prüfung zu verwerten. Die für den Abschlussprüfer des
 Sondervermögens relevanten Prüfungsergebnisse können in einem
 gesonderten Berichtsteil zusammengefasst werden.
-
 
 #### § 8 Darstellung der rechtlichen, wirtschaftlichen und organisatorischen Grundlagen
 
@@ -235,7 +223,6 @@ zu berichten, hat er in angemessenen Abständen über die Darstellung
 der Änderungen hinausgehend vollständig zu berichten. Angemessene
 Abstände im Sinn des Satzes 1 sind regelmäßig drei bis fünf Jahre.
 
-
 #### § 9 Ausländische Zweigstellen und Zweigniederlassungen
 
 Der Abschlussprüfer hat über die ausländischen Zweigstellen und
@@ -246,12 +233,9 @@ deren Einfluss auf das Risikoprofil sowie die Risikolage und die
 Risikovorsorge der Gesellschaft insgesamt sowie deren Einbindung in
 das Risikomanagement zu beurteilen.
 
-
 ### Abschnitt 2 - Aufsichtliche Vorgaben
 
-
 #### Unterabschnitt 1 - Kapitalanforderungen
-
 
 ##### § 10 Eigenmittel
 
@@ -281,9 +265,7 @@ einer Kapitalanlagegesellschaft eine Mehrzahl unterschiedlicher in §
 vor, sind die gemäß Satz 3 darzustellenden Anrechnungsbeträge darüber
 hinaus angemessen nach Geschäftsgestaltungen zu untergliedern.
 
-
 #### Unterabschnitt 2 - Anzeigewesen
-
 
 ##### § 11 Anzeigewesen
 
@@ -292,9 +274,7 @@ Vollständigkeit und Richtigkeit der Anzeigen, insbesondere nach den §§
 12 und 19c des Investmentgesetzes, ist einzugehen. Festgestellte
 wesentliche Verstöße sind aufzuführen.
 
-
 #### Unterabschnitt 3 - Vorkehrungen zur Verhinderung von Geldwäsche und Terrorismusfinanzierung
-
 
 ##### § 12 Prüfungszeitraum und Berichtszeitraum
 
@@ -313,7 +293,6 @@ Prüfung.
 
 (3) Die Prüfung hat spätestens drei Monate nach dem Abschluss des für
 sie maßgeblichen Berichtszeitraums zu beginnen.
-
 
 ##### § 13 Darstellung und Beurteilung der getroffenen Vorkehrungen zur Verhinderung von Geldwäsche und Terrorismusfinanzierung
 
@@ -387,19 +366,15 @@ richtiger Zuordnung zum Depot im Abrufsystem gewährleisten.
 Gegebenenfalls ist über die ordnungsgemäße Erfüllung der Anordnungen
 der Bundesanstalt gemäß § 6a des Kreditwesengesetzes zu berichten.
 
-
 ### Abschnitt 3 - Abschlussorientierte Berichterstattung
 
-
 #### Unterabschnitt 1 - Lage der Kapitalanlagegesellschaft
-
 
 ##### § 14 Geschäftliche Entwicklung im Berichtsjahr
 
 Die geschäftliche Entwicklung ist unter Gegenüberstellung der für sie
 kennzeichnenden Zahlen des Berichtsjahres und des Vorjahres
 darzustellen und zu erläutern.
-
 
 ##### § 15 Beurteilung der Vermögens- und Finanzlage
 
@@ -428,7 +403,6 @@ Ansprüche und Verpflichtungen, sind hervorzuheben.
 Kapitalanlagegesellschaft ist unter Berücksichtigung von § 9a Absatz 1
 Satz 2 Nummer 3 des Investmentgesetzes zu berichten.
 
-
 ##### § 16 Beurteilung der Ertragslage
 
 (1) Die Entwicklung der Ertragslage ist zu beurteilen.
@@ -441,7 +415,6 @@ Spartenkalkulation nach Satz 1 vorhanden ist, ist es ausreichend, auf
 entsprechende vorhandene interne Informationen der Geschäftsleitung
 zurückzugreifen.
 
-
 ##### § 17 Risikolage
 
 Die Risikolage der Kapitalanlagegesellschaft ist zu beurteilen. Die
@@ -453,9 +426,7 @@ und Umfang von Kulanzzahlungen und Gerichtsverfahren im Zusammenhang
 mit der Verwaltung von Investmentvermögen sowie auf die Anzahl von
 Kundenbeschwerden einzugehen.
 
-
 #### Unterabschnitt 2 - Erläuterungen zur Rechnungslegung
-
 
 ##### § 18 Erläuterungen
 
@@ -466,15 +437,12 @@ zu erläutern und mit den Vorjahreszahlen zu vergleichen sind,
 unterliegt dem pflichtgemäßen Ermessen des Abschlussprüfers unter
 Berücksichtigung des Grundsatzes der Wesentlichkeit.
 
-
 ##### § 19 Datenübersicht
 
 Als Teil des Prüfungsberichts ist das Formblatt gemäß Anlage 1 unter
 Angabe entsprechender Vorjahresdaten beizufügen.
 
-
 ### Abschnitt 4 - Verwaltung von Sondervermögen und fremdverwalteten Investmentaktiengesellschaften
-
 
 #### § 20 Berichtszeitraum
 
@@ -487,7 +455,6 @@ einzureichen.
 
 (2) Über wesentliche Änderungen der Ergebnisse eines Berichtsteils
 nach Absatz 1 bis zum Ende des Berichtszeitraums ist zu berichten.
-
 
 #### § 21 Allgemeine Verhaltensregeln und Organisationspflichten einschließlich Risikomanagement
 
@@ -517,9 +484,7 @@ Investmentgesetzes zu berichten.
 (4) Die Angemessenheit der Kontrollverfahren und der internen Revision
 der Kapitalanlagegesellschaft ist zu beurteilen.
 
-
 ### Abschnitt 5 - Dienstleistungen und Nebendienstleistungen
-
 
 #### § 22 Besondere Anforderungen an die Prüfung von Dienstleistungen und Nebendienstleistungen
 
@@ -645,7 +610,6 @@ Investmentgesetzes einschlägig, die Art der angebotenen
 Altersvorsorgeverträge sowie abgegebene Mindestzahlungszusagen
 darzustellen.
 
-
 #### § 23 Prüfungszeitraum und Berichtszeitraum
 
 (1) Der Zeitraum der Prüfung nach diesem Abschnitt beginnt mit dem Tag
@@ -667,12 +631,9 @@ Prüfung der Bundesanstalt einzureichen. Die Bundesanstalt kann im
 Einzelfall und aus wichtigem Grund eine andere als die in Satz 1
 normierte Frist bestimmen.
 
-
 ## Kapitel 3 - Sondervermögen
 
-
 ### Abschnitt 1 - Allgemeines
-
 
 #### § 24 Prüfungs- und Berichtsgrundsätze für Sondervermögen
 
@@ -701,7 +662,6 @@ zu berücksichtigen.
 Prüfung der Kapitalanlagegesellschaft insbesondere in Bezug auf die in
 den §§ 9, 9a und 80b des Investmentgesetzes genannten Verhaltensregeln
 und Organisationspflichten zu verwerten.
-
 
 #### § 25 Angaben zum Sondervermögen
 
@@ -773,9 +733,7 @@ folgende Angaben voranzustellen:
 Nummer 14 ist nicht auf Immobilien- und Infrastruktur-Sondervermögen
 anzuwenden.
 
-
 ### Abschnitt 2 - Jahres-, Zwischen- und Auflösungsbericht für Sondervermögen
-
 
 #### § 26 Richtigkeit und Vollständigkeit des Jahres-, Zwischen- und Auflösungsberichts
 
@@ -797,12 +755,9 @@ aufnehmenden Kapitalanlagegesellschaft zwecks Fortführung der
 Buchhaltung übermittelt werden. Eine Aussage zu ihrer
 Ordnungsmäßigkeit ist in den besonderen Vermerk aufzunehmen.
 
-
 ### Abschnitt 3 - Verwaltung der Sondervermögen
 
-
 #### Unterabschnitt 1 - Allgemeine Vorschriften
-
 
 ##### § 27 Einhaltung von Gesetz und Vertragsbedingungen
 
@@ -831,7 +786,6 @@ wiederholte Verstöße derselben Art.
 (4) Besteht für den jeweiligen Verstoß eine Meldepflicht gegenüber der
 Bundesanstalt, so ist deren Einhaltung beziehungsweise Verletzung
 festzustellen.
-
 
 ##### § 28 Anlagevorschriften und Anlagegrenzverletzungen
 
@@ -879,10 +833,6 @@ berichten:
 
 7.  Pensionsgeschäfte nach § 57 des Investmentgesetzes.
 
-
-
-
-
 ##### § 29 Ordnungsgemäße Geschäftsorganisation
 
 (1) Im Prüfungsbericht ist zu beurteilen, ob die von der
@@ -920,7 +870,6 @@ Risiken nach § 113 des Investmentgesetzes ist insbesondere auf die
 Einhaltung der Sorgfaltspflichten im Rahmen der Auswahl der Zielfonds
 sowie deren laufender Überwachung einzugehen.
 
-
 ##### § 30 Anteilwertermittlung
 
 (1) Es ist darzulegen, ob die von der Kapitalanlagegesellschaft
@@ -940,7 +889,6 @@ Höhe des Anteilpreises ist.
 (3) Der Abschlussprüfer hat über Maßnahmen und deren Ergebnisse zu
 berichten, die von der Kapitalanlagegesellschaft zur Beseitigung der
 Folgen von fehlerhaften Anteilwertberechnungen ergriffen wurden.
-
 
 ##### § 31 Einsatz von Derivaten
 
@@ -968,10 +916,6 @@ Abschlussprüfer im Prüfungsbericht zu beurteilen, ob
     ordnungsgemäß gestaltet und durchgeführt wurde (§ 28 Absatz 2 Satz 3
     und 4 der Derivateverordnung).
 
-
-
-
-
 ##### § 32 Fremdbezug von Dienstleistungen
 
 (1) Nimmt die Kapitalanlagegesellschaft für die Verwaltung des
@@ -989,9 +933,7 @@ in Absatz 1 genannten Anlageberatung, so sind die Maßnahmen der
 Kapitalanlagegesellschaft gegenüber dem Leistungserbringer und ihr
 Ergebnis darzustellen.
 
-
 #### Unterabschnitt 2 - Spezielle Vorschriften für Immobilien-Sondervermögen und Infrastruktur-Sondervermögen
-
 
 ##### § 33 Anwendbarkeit dieser Verordnung
 
@@ -1000,7 +942,6 @@ Sondervermögen beziehungsweise bei Spezial-Sondervermögen mit Anlagen
 in entsprechenden Vermögensgegenständen finden die Vorschriften des
 Unterabschnitts 1 Anwendung, soweit sich aus den §§ 34 bis 40 nichts
 anderes ergibt.
-
 
 ##### § 34 Erwerb und Veräußerung von Vermögensgegenständen
 
@@ -1024,10 +965,6 @@ des Sondervermögens veräußert, so sind im Prüfungsbericht
     und die tatsächlich dem Sondervermögen zugeflossene Gegenleistung
     einander gegenüberzustellen.
 
-
-
-
-
 ##### § 35 Erwerb von Vermögensgegenständen im Ausland
 
 Es ist darauf einzugehen, ob die Kapitalanlagegesellschaft beim Erwerb
@@ -1036,7 +973,6 @@ erworbene Rechtsposition mit deutschem Recht vergleichbar ist. Ferner
 ist darzustellen, welche Kriterien die Kapitalanlagegesellschaft für
 die Prüfung des § 67 Absatz 3 Nummer 2 bis 5 des Investmentgesetzes
 verwendet hat.
-
 
 ##### § 36 Berichterstattung über das Bewertungsverfahren
 
@@ -1072,7 +1008,6 @@ einem Abschlussprüfer im Sinn des § 319 Absatz 1 Satz 1 und 2 des
 Handelsgesetzbuchs gemäß § 70 Absatz 2 des Investmentgesetzes
 ermittelt wurde.
 
-
 ##### § 37 Besondere Berichterstattung über Verkehrswerte
 
 (1) Die Verkehrswerte oder Kaufpreise der für das Sondervermögen
@@ -1086,7 +1021,6 @@ Wertveränderung geführt haben. Soweit es sich dabei um Veränderungen
 der nachhaltig erzielbaren Miete oder um Veränderungen des
 Liegenschaftszinssatzes handelt, ist anzugeben, ob die im Gutachten
 angegebenen Gründe dafür nachvollziehbar sind.
-
 
 ##### § 38 Berichterstattung hinsichtlich weiterer Anlagevorschriften und Anlagegrenzverletzungen
 
@@ -1115,14 +1049,12 @@ Pflichten und Verstöße gegen folgende Regelungen zu berichten:
 
 Satz 1 Nummer 1 gilt nicht für Spezial-Sondervermögen.
 
-
 ##### § 39 Vergabeverfahren
 
 Es ist zu beurteilen, ob die organisatorischen Vorkehrungen der
 Kapitalanlagegesellschaft für die Vergabe von Leistungen an Dritte,
 die zu Lasten des Sondervermögens abgerechnet werden, eingehalten
 wurden.
-
 
 ##### § 40 Weitere Berichtspflichten
 
@@ -1134,12 +1066,9 @@ Kapitalanlagegesellschaft nach den Vertragsbedingungen belastet, so
 ist darzustellen, nach welchem Verfahren die Preise für die eigenen
 Aufwendungen ermittelt wurden.
 
-
 ## Kapitel 4 - Investmentaktiengesellschaft
 
-
 ### Abschnitt 1 - Allgemeines
-
 
 #### § 41 Prüfungs- und Berichtsgrundsätze für Investmentaktiengesellschaften
 
@@ -1157,7 +1086,6 @@ berichten.
 (3) Der Abschlussprüfer der fremdverwalteten
 Investmentaktiengesellschaft hat die Ergebnisse der Prüfung der
 Kapitalanlagegesellschaft zu verwerten.
-
 
 #### § 42 Anwendbare Vorschriften
 
@@ -1199,12 +1127,7 @@ anzuwenden:
 7.  an die Stelle der Wörter „Spezial-Sondervermögen“ treten die Wörter
     „Spezial-Investmentaktiengesellschaft“.
 
-
-
-
-
 ### Abschnitt 2 - Angaben zur Investmentaktiengesellschaft
-
 
 #### § 43 Darstellung der rechtlichen, wirtschaftlichen und organisatorischen Grundlagen
 
@@ -1257,14 +1180,11 @@ der Änderungen hinausgehend vollständig zu berichten.
 Unternehmen ausgelagert sind, ist gesondert zu berichten, soweit die
 Berichterstattung nicht nach § 21 Absatz 3 zu erfolgen hat.
 
-
 ### Kapitel 5 - Schlussvorschrift
-
 
 #### § 44 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 #### Anlage 1 (zu § 19) Datenübersicht für Kapitalanlagegesellschaften und selbstverwaltende Investmentaktiengesellschaften
 

@@ -15,21 +15,16 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 1170
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art 1 Gesetz zur Regelung der finanziellen Kompensation zugunsten der Länder infolge der Übertragung der Ertragshoheit der Kraftfahrzeugsteuer auf den Bund
 
 -
 
-
 ## (XXXX) Art 2 und 3
-
-
 
 ## Art 4 Auftrag zur Neuregelung des Kraftfahrzeugsteuergesetzes
 
@@ -39,9 +34,7 @@ Kraftfahrzeugsteuergesetzes bemessen wird, werden ab dem 1. Januar
 2013 in die Systematik der Neuregelung des Kraftfahrzeugsteuergesetzes
 überführt.
 
-
 ## (XXXX) Art 5 bis 10 (weggefallen)
-
 
 ## Art 11 Inkrafttreten
 

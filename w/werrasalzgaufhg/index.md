@@ -16,12 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1996, 38
 
-
-
 ## Art 1
 
 -
-
 
 ## Art 2
 
@@ -30,7 +27,6 @@ den Abbau von Salzen im Grenzgebiet an der Werra in den Abbaugebieten
 im Sinne des § 1 des Gesetzes bestehenden Rechte, insbesondere
 Bergwerkseigentum, Bewilligungen, Zulassungen und Genehmigungen,
 bleiben unberührt.
-
 
 ## Art 3
 

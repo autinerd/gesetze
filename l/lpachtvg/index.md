@@ -18,12 +18,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 15 G v. 13.4.2006 I 855
 
-
 ## § 1 Anwendungsbereich
 
 Den Vorschriften dieses Gesetzes unterliegen Landpachtverträge nach §
 585 des Bürgerlichen Gesetzbuchs.
-
 
 ## § 2 Anzeige
 
@@ -40,7 +38,6 @@ und 2 ist auch der Pächter berechtigt.
 
 (2) Der Abschluß eines Landpachtvertrags und die Vertragsänderung sind
 binnen eines Monats nach ihrer Vereinbarung anzuzeigen.
-
 
 ## § 3 Ausnahmen
 
@@ -62,7 +59,6 @@ erleichterten Durchführung des Gesetzes Landpachtverträge über
 landwirtschaftliche Betriebe oder Grundstücke bis zu einer bestimmten
 Größe von der Anzeigepflicht ausnehmen, soweit eine Anwendung dieses
 Gesetzes nicht erforderlich ist.
-
 
 ## § 4 Beanstandung
 
@@ -133,13 +129,11 @@ genannten Gründe hinaus beanstandet werden kann, soweit dies in dem
 betroffenen Teil des Landesgebietes zur Abwehr einer erheblichen
 Gefahr für die Agrarstruktur zwingend erforderlich ist.
 
-
 ## § 5 Härteklausel
 
 Landpachtverträge und Vertragsänderungen dürfen nicht nach § 4
 beanstandet werden, wenn dies eine unzumutbare Härte für einen
 Vertragsteil wäre.
-
 
 ## § 6 Zuständigkeit
 
@@ -147,7 +141,6 @@ Vertragsteil wäre.
 Verpächters liegt. Ist eine solche Hofstelle nicht vorhanden, so ist
 die Behörde zuständig, in deren Bezirk die verpachteten Grundstücke
 ganz oder zum größten Teil liegen.
-
 
 ## § 7 Beanstandungsverfahren
 
@@ -175,7 +168,6 @@ Zulässigkeit des Antrags auf gerichtliche Entscheidung, über das
 Gericht, bei dem der Antrag zu stellen ist, den Sitz des Gerichts und
 die einzuhaltende Frist zu belehren.
 
-
 ## § 8 Entscheidungen und Anordnungen des Landwirtschaftsgerichts
 
 (1) Stellt ein Vertragsteil den Antrag auf gerichtliche Entscheidung,
@@ -193,13 +185,11 @@ unter den Vertragsteilen als Vertragsinhalt. Über Streitigkeiten, die
 diesen Vertragsinhalt betreffen, entscheidet auf Antrag das
 Landwirtschaftsgericht.
 
-
 ## § 9 Unzulässigkeit der Änderung eines Landpachtvertrags durch das Landwirtschaftsgericht
 
 Ein Antrag nach § 593 Abs. 4 des Bürgerlichen Gesetzbuchs auf Änderung
 eines anzuzeigenden Landpachtvertrags ist nur zulässig, wenn der
 Vertrag angezeigt worden ist.
-
 
 ## § 10 Ordnungsmaßnahmen
 
@@ -215,14 +205,12 @@ innerhalb einer angemessenen Frist rückgängig gemacht wird.
 (3) Über die Rechtmäßigkeit von Maßnahmen nach den Absätzen 1 und 2
 entscheidet auf Antrag das Landwirtschaftsgericht.
 
-
 ## § 11 Fischereipacht
 
 Für Verträge, durch die Betriebe oder Grundstücke überwiegend zur
 Fischerei verpachtet werden, gilt dieses Gesetz, soweit nicht
 Rechtsvorschriften der Länder inhaltsgleiche oder entgegenstehende
 Bestimmungen enthalten.
-
 
 ## § 12 Überleitungsvorschrift
 
@@ -241,11 +229,9 @@ Landesrechts an den Euro vom 24. April 2001 (GVBl. S. 140) bleiben
 unberührt. Danach genehmigte Landpachtverträge gelten als angezeigt im
 Sinne dieses Gesetzes.
 
-
 ## § 13 (weggefallen)
 
 -
-
 
 ## § 14 Inkrafttreten
 
@@ -254,7 +240,6 @@ in Kraft.
 
 (2) § 3 Abs. 2 und § 4 Abs. 4 treten am Tage nach der Verkündung in
 Kraft.
-
 
 ## Eingangsformel
 

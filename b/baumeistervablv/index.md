@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1979, 419
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 133 Abs. 2 Satz 1 der Gewerbeordnung in der Fassung
@@ -24,11 +22,9 @@ der Bekanntmachung vom 1. Januar 1978 (BGBl. I S. 97) in Verbindung
 mit Artikel 129 Abs. 1 des Grundgesetzes verordnet die Bundesregierung
 mit Zustimmung des Bundesrates:
 
-
 ## Art 1
 
 -
-
 
 ## Art 2
 
@@ -39,7 +35,6 @@ Dezember 1980 zur Führung dieser Bezeichnung berechtigt ist oder wer
 noch nach diesem Zeitpunkt die Baumeisterprüfung bestanden hat
 (Artikel 5 Abs. 2).
 
-
 ## Art 3
 
 Unberührt bleiben die Vorschriften über die Führung von Amts- und
@@ -48,12 +43,10 @@ Länder und sonstiger öffentlich-rechtlicher Körperschaften. Unberührt
 bleiben ferner die Vorschriften über die Führung der Bezeichnung
 "Regierungsbaumeister".
 
-
 ## Art 4
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 156 der Gewerbeordnung auch im Land Berlin.
-
 
 ## Art 5
 

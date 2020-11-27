@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 G v. 23.5.2011 I 898
 
-
 ## § 1
 
 (1) Hilfe für die Wahrnehmung von Rechten außerhalb eines
@@ -43,7 +42,6 @@ gerichtlichen Verfahrens und im obligatorischen Güteverfahren nach §
 Rechtsuchenden Prozeßkostenhilfe nach den Vorschriften der
 Zivilprozeßordnung ohne einen eigenen Beitrag zu den Kosten zu
 gewähren wäre.
-
 
 ## § 2
 
@@ -75,7 +73,6 @@ gewährt.
 Angelegenheiten, in denen das Recht anderer Staaten anzuwenden ist,
 sofern der Sachverhalt keine Beziehung zum Inland aufweist.
 
-
 ## § 3
 
 (1) Die Beratungshilfe wird durch Rechtsanwälte und durch
@@ -87,7 +84,6 @@ Landesjustizverwaltung eingerichtet sind.
 soweit dem Anliegen durch eine sofortige Auskunft, einen Hinweis auf
 andere Möglichkeiten für Hilfe oder die Aufnahme eines Antrags oder
 einer Erklärung entsprochen werden kann.
-
 
 ## § 4
 
@@ -104,7 +100,6 @@ glaubhaft zu machen. Wenn sich der Rechtsuchende wegen Beratungshilfe
 unmittelbar an einen Rechtsanwalt wendet, kann der Antrag nachträglich
 gestellt werden.
 
-
 ## § 5
 
 Für das Verfahren gelten die Vorschriften des Gesetzes über das
@@ -112,7 +107,6 @@ Verfahren in Familiensachen und in den Angelegenheiten der
 freiwilligen Gerichtsbarkeit entsprechend, soweit in diesem Gesetz
 nichts anderes bestimmt ist. § 185 Abs. 3 und § 189 Abs. 3 des
 Gerichtsverfassungsgesetzes gelten entsprechend.
-
 
 ## § 6
 
@@ -125,7 +119,6 @@ Beratungshilfe durch einen Rechtsanwalt seiner Wahl aus.
 (2) Gegen den Beschluß, durch den der Antrag zurückgewiesen wird, ist
 nur die Erinnerung statthaft.
 
-
 ## § 7
 
 Der Rechtsuchende, der unmittelbar einen Rechtsanwalt aufsucht, hat
@@ -134,11 +127,9 @@ machen und zu versichern, daß ihm in derselben Angelegenheit
 Beratungshilfe bisher weder gewährt noch durch das Amtsgericht versagt
 worden ist.
 
-
 ## § 8
 
 Vereinbarungen über eine Vergütung sind nichtig.
-
 
 ## § 9
 
@@ -147,7 +138,6 @@ Wahrnehmung seiner Rechte zu ersetzen, hat er die gesetzliche
 Vergütung für die Tätigkeit des Rechtsanwalts zu zahlen. Der Anspruch
 geht auf den Rechtsanwalt über. Der Übergang kann nicht zum Nachteil
 des Rechtsuchenden geltend gemacht werden.
-
 
 ## § 10
 
@@ -179,7 +169,6 @@ das in § 4 Abs. 1 Satz 2 bezeichnete Amtsgericht zuständig. § 1078
 Abs. 1 Satz 2, Abs. 2 Satz 2 und Abs. 3 der Zivilprozessordnung gilt
 entsprechend.
 
-
 ## § 10a
 
 (1) Bei Unterhaltssachen nach der Verordnung (EG) Nr. 4/2009 des Rates
@@ -195,7 +184,6 @@ Antragsteller seinen gewöhnlichen Aufenthalt hat, zuständig. Für
 eingehende Ersuchen ist das in § 4 Absatz 1 Satz 2 bezeichnete Gericht
 zuständig.
 
-
 ## § 11
 
 Der Bundesminister der Justiz wird ermächtigt, zur Vereinfachung und
@@ -204,7 +192,6 @@ des Bundesrates Vordrucke für den Antrag auf Gewährung von
 Beratungshilfe und auf Zahlung der Vergütung des Rechtsanwalts nach
 Abschluß der Beratungshilfe einzuführen und deren Verwendung
 vorzuschreiben.
-
 
 ## § 12
 
@@ -224,14 +211,12 @@ beauftragter Rechtsanwalt zur Verschwiegenheit verpflichtet und mit
 schriftlicher Zustimmung des Ratsuchenden berechtigt, Auskünfte aus
 Akten zu erhalten und Akteneinsicht zu nehmen.
 
-
 ## § 13
 
 § 9 ist in Fällen, in denen die Bundesgebührenordnung für
 Rechtsanwälte nach § 61 des Rechtsanwaltsvergütungsgesetzes weiter
 anzuwenden ist, in der vor dem 1. Juli 2004 geltenden Fassung
 anzuwenden.
-
 
 ## § 14 Inkrafttreten
 

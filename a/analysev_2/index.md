@@ -15,14 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1974, 1609
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 13 Nr. 1 des Textilkennzeichnungsgesetzes in der
 Fassung der Bekanntmachung vom 25. August 1972 (Bundesgesetzbl. I S.
 1545) wird mit Zustimmung des Bundesrates verordnet:
-
 
 ## § 1
 
@@ -59,7 +56,6 @@ Textilkennzeichnungsgesetzes und in Nummer I. 6. an die Stelle des
 Artikels 12 (2 d) der gleichen Richtlinie der § 6 Abs. 1
 Nr. 5              des Textilkennzeichnungsgesetzes.
 
-
 ## § 2
 
 Zur quantitativen Analyse von ternären Textilfasergemischen hat die
@@ -71,13 +67,11 @@ ternäre Fasergemischtypen, die mit Hilfe der in Anhang II der
 Richtlinie vom 17. Juli 1972 festgelegten Methoden für binäre
 Fasergemische analysiert werden können, zu beachten.
 
-
 ## § 3
 
 Die Prüfstelle hat in ihrem Bericht über die Analyse alle in Anhang I
 der Richtlinie vom 26. Februar 1973 unter Nummer V aufgezählten
 Angaben aufzuführen.
-
 
 ## § 4
 
@@ -85,11 +79,9 @@ Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit § 16 des
 Textilkennzeichnungsgesetzes auch im Land Berlin.
 
-
 ## § 5
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
-
 
 ## Schlußformel
 

@@ -31,7 +31,6 @@ Zuletzt geändert durch
     aus Klimaanlagen in Kraftfahrzeugen und zur Änderung der Richtlinie
     70/156/EWG des Rates (ABl. EU Nr. L 161 S. 12).
 
-
 ## Eingangsformel
 
 Es verordnet die Bundesregierung
@@ -58,10 +57,6 @@ Es verordnet die Bundesregierung
     (BGBl. I S. 2705) nach Anhörung der beteiligten Kreise und unter
     Wahrung der Rechte des Bundestages:
 
-
-
-
-
 ## § 1 Anwendungsbereich
 
 (1) Diese Verordnung gilt ergänzend zu der Verordnung (EG) Nr.
@@ -85,10 +80,6 @@ Es verordnet die Bundesregierung
 
 3.  in Luftfahrzeugen, die nicht im Geltungsbereich dieser Verordnung
     eingetragen und zugelassen sind.
-
-
-
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -114,7 +105,6 @@ Im Sinne dieser Verordnung bedeutet
 
 Im Übrigen gelten die Begriffsbestimmungen des Artikels 2 der
 Verordnung (EG) Nr. 842/2006.
-
 
 ## § 3 Verhinderung des Austrittes von fluorierten Treibhausgasen in die Atmosphäre
 
@@ -290,7 +280,6 @@ Verordnung (EG) Nr. 842/2006 und die Aufzeichnungen nach Absatz 2 Satz
 3 nach ihrer Erstellung mindestens fünf Jahre lang aufzubewahren und
 der zuständigen Behörde auf Verlangen vorzulegen.
 
-
 ## § 4 Rückgewinnung und Rücknahme verwendeter Stoffe
 
 (1) Für die Rückgewinnung fluorierter Treibhausgase aus Erzeugnissen
@@ -354,7 +343,6 @@ dass die für die zusätzlichen Angaben nach Satz 4 erforderlichen
 Schnittstellen nach § 18 Abs. 1 Satz 2 der Nachweisverordnung vom
 Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit
 bekannt gegeben werden.
-
 
 ## § 5 Persönliche Voraussetzungen für bestimmte Tätigkeiten
 
@@ -569,7 +557,6 @@ den Fällen des Absatzes 2 Satz 1 Nr. 1 und 2 in der Lage ist, die
 Geeignetheit einer technischen oder handwerklichen Ausbildung zu
 beurteilen.
 
-
 ## § 6 Zertifizierung von Betrieben
 
 (1) Die zuständige Behörde erteilt Betrieben, die Einrichtungen gemäß
@@ -611,7 +598,6 @@ Bericht über die Umweltbetriebsprüfung hervorgeht, dass die
 Voraussetzungen der Sätze 1 und 2 eingehalten sind und die nach Absatz
 1 Nr. 1 bis 3 erforderlichen Angaben ersichtlich sind.
 
-
 ## § 7 Kennzeichnung in deutscher Sprache
 
 Wer nach Artikel 7 Abs. 2 der Verordnung (EG) Nr. 842/2006
@@ -625,7 +611,6 @@ fluorierte Treibhausgase enthalten, gemäß der Verordnung (EG) Nr.
 842/2006 des Europäischen Parlaments und des Rates (ABl. EU Nr. L 332
 S. 25) vorgeschriebene Kennzeichnung in deutscher Sprache anzubringen
 und die Bedienungsanleitung in deutscher Sprache beizufügen.
-
 
 ## § 8 Ordnungswidrigkeiten
 
@@ -676,7 +661,6 @@ entgegen § 4 Absatz 3 Satz 1 oder Satz 2 eine dort genannte
 Aufzeichnung nicht, nicht richtig oder nicht vollständig führt, nicht
 oder nicht mindestens fünf Jahre aufbewahrt oder nicht oder nicht
 rechtzeitig vorlegt.
-
 
 ## § 9 Übergangsvorschrift
 
@@ -764,7 +748,6 @@ erforderlich, sofern ein Betrieb bereits vor dem 4. Juli 2008
 
 ausgeübt hat.
 
-
 ## § 9a
 
 (1) Über einen Antrag auf
@@ -813,11 +796,9 @@ Behörde bei Antragstellung im Original oder in Kopie vorzulegen. Eine
 Beglaubigung der Kopie sowie eine beglaubigte deutsche Übersetzung
 können verlangt werden.
 
-
 ## § 10 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2008 in Kraft.
-
 
 ## Schlussformel
 

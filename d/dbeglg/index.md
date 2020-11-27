@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 15 Abs. 1 G v. 5.2.2009 I 160
 
-
 ## § 1 Anwendungsbereich
 
 Dieses Gesetz trifft Regelungen im Zusammenhang mit dem Beschluß des
@@ -40,7 +39,6 @@ sonstigen Einrichtungen des Bundes stehen, die
 
 
 erfolgen.
-
 
 ## § 2 Anwendung des Bundesumzugskostengesetzes und der Trennungsgeldverordnung
 
@@ -143,7 +141,6 @@ des Kostenersatzes richtet sich nach den Vorschriften zur
 Reisebeihilfe für Heimfahrten nach § 2 Abs. 2 Buchstabe b dieses
 Gesetzes.
 
-
 ## § 3 Vorübergehende geringerwertige Verwendung
 
 Einem Beamten, dessen Aufgabengebiet von der Verlegung von Behörden
@@ -155,7 +152,6 @@ Wahrnehmung der neuen Aufgabe unter Berücksichtigung seiner bisherigen
 Tätigkeit zuzumuten ist. Satz 1 gilt entsprechend, wenn der Beamte auf
 Grund der Verlegung von Behörden nach § 1 zu einer anderen Behörde
 abgeordnet oder versetzt wird.
-
 
 ## § 4 Ausgleichsregelungen
 
@@ -177,14 +173,12 @@ nichtruhegehaltfähige Stellenzulage gewährt, ist sie insoweit
 nichtruhegehaltfähig und verringert sich bei jeder Erhöhung der
 Dienstbezüge um ein Drittel des Erhöhungsbetrages.
 
-
 ## § 5 Stellenobergrenzen
 
 In den Fällen des § 4 Abs. 1 bleibt die Planstelle des
 Besoldungsempfängers bei der Anwendung der
 Stellenobergrenzenregelungen bei der aufnehmenden Behörde oder
 Einrichtung unberücksichtigt.
-
 
 ## § 6 Teilzeitbeschäftigung
 
@@ -201,7 +195,6 @@ am neuen Dienstort zu stellen.
 sollen den zeitlichen Umfang einer Vollzeitbeschäftigung nicht
 wesentlich überschreiten; § 99 Abs. 2 Satz 3 des Bundesbeamtengesetzes
 findet keine Anwendung.
-
 
 ## § 7 Beurlaubung
 
@@ -225,7 +218,6 @@ Beginn des Ruhestandes erstreckt.
 Beamte erhält mit Eintritt in den Ruhestand das zum Zeitpunkt der
 Beurlaubung erdiente Ruhegehalt; § 14 Abs. 4 des
 Beamtenversorgungsgesetzes findet keine Anwendung.
-
 
 ## § 8 Inkrafttreten
 

@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1987, 1591
 
-
-
 ## (XXXX)
 
 Dem Bundesminister für Jugend, Familie, Frauen und Gesundheit werden

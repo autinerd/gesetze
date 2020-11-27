@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1484
 
-
 ## Eingangsformel
 
 Auf Grund des § 2 Absatz 2 Satz 1 der Abgabenordnung, der durch
@@ -26,9 +25,7 @@ Artikel 9 Nummer 2 Buchstabe b des Gesetzes vom 8. Dezember 2010
 16 Nummer 1 des Gesetzes vom 8. Dezember 2010 (BGBl. I S. 1768)
 angefügt worden ist, verordnet das Bundesministerium der Finanzen:
 
-
 ## Abschnitt 1 - Allgemeines
-
 
 ### § 1 Abkommen
 
@@ -40,7 +37,6 @@ sowie der Gewerbesteuern und der Grundsteuern vom 23. August 1958
 (BGBl. 1959 II S. 1269, 1270), das zuletzt durch das Protokoll vom 11.
 Dezember 2009 (BGBl. 2010 II S. 1150, 1151) geändert worden ist, in
 der jeweils geltenden Fassung.
-
 
 ### § 2 Anwendungsbereich
 
@@ -64,9 +60,7 @@ des § 2 Absatz 2 Satz 2 der Abgabenordnung, die zwischen den
 zuständigen Behörden im Sinn des Artikels 2 Absatz 1 Nummer 3 des
 Abkommens getroffen worden sind, richtet sich nach dieser Verordnung.
 
-
 ## Abschnitt 2 - Grenzpendler
-
 
 ### § 3 Arbeitsentgelt
 
@@ -89,7 +83,6 @@ Arbeitnehmer tatsächlich im Tätigkeitsstaat aufgehalten hat, zu
 multiplizieren. Tage, an denen sich der Arbeitnehmer im
 Tätigkeitsstaat aufgehalten hat, die aber nicht zu den vertraglich
 vereinbarten Arbeitstagen zählen, fallen aus der Berechnung heraus.
-
 
 ### § 4 Vergütungen oder Zusatzvergütungen, Sonderfälle
 
@@ -126,7 +119,6 @@ die Anzahl der übertragenen Urlaubstage nicht mehr als zehn beträgt.
 vorangegangenen Kalenderjahres entfällt, ist das Aufteilungsverhältnis
 dieses vorangegangenen Kalenderjahres maßgeblich.
 
-
 ### § 5 Vertraglich vereinbarte Arbeitstage
 
 (1) Vertraglich vereinbarte Arbeitstage sind die Kalendertage pro Jahr
@@ -152,9 +144,7 @@ Tätigkeitsstaat tatsächlich besteuert, ist dieser Teil des
 Arbeitsentgelts abweichend von § 3 Absatz 1 von einer Besteuerung in
 Deutschland als Ansässigkeitsstaat freizustellen.
 
-
 ## Abschnitt 3 - Berufskraftfahrer, Lokomotivführer und Begleitpersonal
-
 
 ### § 6 Tätigkeit in einem Staat
 
@@ -168,7 +158,6 @@ Berufskraftfahrer, der Lokomotivführer oder das Begleitpersonal seine
 Tätigkeit ausschließlich in dem Vertragsstaat ausgeübt hat, in dem der
 Arbeitgeber des Berufskraftfahrers, des Lokomotivführers oder des
 Begleitpersonals seinen Wohnsitz hat, wird in diesem Staat besteuert.
-
 
 ### § 7 Tätigkeit in mehreren Staaten
 
@@ -214,7 +203,6 @@ Berufkraftfahrers             , des Lokomotivführers oder des
 Begleitpersonals aufgeteilt. Das anteilige Besteuerungsrecht wird
 gemäß § 6 und § 7 Absatz 1 den Vertragsstaaten zugewiesen.
 
-
 ### § 8 Sonderregelungen
 
 (1) Das Besteuerungsrecht für das Arbeitsentgelt, das auf freie Tage
@@ -231,7 +219,6 @@ Ausübung seiner nichtselbständigen Arbeit anzusehen. Regelmäßige
 Arbeitsstätte des Berufskraftfahrers, des Lokomotivführers oder des
 Begleitpersonals ist das Fahrzeug.
 
-
 ### § 9 Betriebsstätte im anderen Staat
 
 Die §§ 6 bis 8 gelten sinngemäß für die Fälle, in denen der
@@ -240,9 +227,7 @@ Wohnsitz in einem der beiden Vertragsstaaten für seine Tätigkeit zu
 Lasten einer in dem anderen Vertragsstaat befindlichen Betriebsstätte
 des Arbeitgebers entlohnt wird.
 
-
 ## Abschnitt 4 - Sonstige Anwendungsfälle
-
 
 ### § 10 Abfindungen und Entschädigungen an Arbeitnehmer, Arbeitslosengeld
 
@@ -277,9 +262,7 @@ durch den Tätigkeitsstaat Luxemburg tatsächlich besteuert werden.
 (4) Die Absätze 1 bis 3 sind auf die in Artikel 10 Absatz 3 und
 Artikel 11 des Abkommens genannten Einkünfte nicht anzuwenden.
 
-
 ## Abschnitt 5 - Schlussbestimmungen
-
 
 ### § 11 Anwendungszeitpunkt
 
@@ -292,14 +275,9 @@ Diese Verordnung ist erstmals anzuwenden
 2.  in allen anderen Fällen auf Besteuerungssachverhalte seit dem 17.
     Oktober 2011.
 
-
-
-
-
 ### § 12 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ### Schlussformel
 

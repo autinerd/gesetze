@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 2600
 
-
 ## Eingangsformel
 
 Auf Grund des § 57 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl.
@@ -31,7 +30,6 @@ Bundesministerium für Wirtschaft und Technologie und das
 Bundesministerium für Bildung und Forschung nach Anhörung des
 Hauptausschusses des Bundesinstituts für Berufsbildung:
 
-
 ## § 1 Zweck der Verordnung
 
 Diese Verordnung dient der Umsetzung des Abkommens zwischen der
@@ -41,23 +39,19 @@ und über die gegenseitige Anerkennung der Gleichwertigkeit von
 beruflichen Prüfungszeugnissen vom 27. November 1989 (BGBl. II 1991 S.
 712).
 
-
 ## § 2 Gleichstellung von Prüfungszeugnissen
 
 Österreichische Zeugnisse über das Bestehen der Abschlussprüfung
 werden den deutschen Zeugnissen über anerkannte Fortbildungsabschlüsse
 nach Maßgabe der in der Anlage enthaltenen Aufstellung gleichgestellt.
 
-
 ## § 3 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage (zu § 2)
 

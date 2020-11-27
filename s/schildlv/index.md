@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 12 V v. 10.10.2012 I 2113
 
-
 ## Eingangsformel
 
 Auf Grund des § 3 Abs. 1 Nr. 1, 3, 5, 7, 8, 12 und 13 des
@@ -27,7 +26,6 @@ zuletzt geändert durch das Gesetz zur Änderung des
 Pflanzenschutzgesetzes vom 27. Juli 1971 (Bundesgesetzbl. I S. 1161),
 wird im Einvernehmen mit dem Bundesminister für Jugend, Familie und
 Gesundheit mit Zustimmung des Bundesrates verordnet:
-
 
 ## § 1
 
@@ -48,7 +46,6 @@ Ligustrum L., Malus Mill., Populus L., Prunus L., Pyrus L., Ribes L.,
 Rosa L., Salix L., Sorbus L., Syringa L., Tilia L., Ulmus L. und Vitis
 L..
 
-
 ## § 2
 
 Wird das Auftreten der San-Jose-Schildlaus festgestellt, so grenzt die
@@ -56,7 +53,6 @@ zuständige Behörde das befallene Gebiet ab. Sie grenzt ferner unter
 Berücksichtigung der örtlichen Gegebenheiten um das befallene Gebiet
 herum eine Sicherheitszone ab, soweit dies zum Schutz des benachbarten
 Gebietes erforderlich ist.
-
 
 ## § 3
 
@@ -66,7 +62,6 @@ den Wirtspflanzen die San-Jose-Schildlaus ohne Rücksicht auf ihr
 tatsächliches Vorhandensein zu bekämpfen, soweit nicht die zuständige
 Behörde die San-Jose-Schildlaus bekämpft oder feststellt, daß durch
 andere Maßnahmen eine ausreichende Bekämpfung sichergestellt ist.
-
 
 ## § 4
 
@@ -91,7 +86,6 @@ sind.
 (4) Eine Pflanze gilt als befallen, wenn sich an ihr mindestens eine
 San-Jose-Schildlaus befindet, die nicht nachweislich tot ist.
 
-
 ## § 5
 
 (1) Wird bei Partien von Pflanzen, die nicht mit dem Erdboden
@@ -103,18 +97,15 @@ etwa noch vorhandenen San-Jose-Schildläuse vernichtet werden.
 (2) Absatz 1 gilt nicht für Partien frischer Früchte mit geringfügigem
 Befall.
 
-
 ## § 6
 
 Die zuständige Behörde hebt die Abgrenzungen nach § 2 auf, wenn sie
 bei einer erneuten Untersuchung keinen Befall feststellt.
 
-
 ## § 7
 
 Das Züchten und Halten der San-Jose-Schildlaus sowie das Arbeiten mit
 diesem Schadorganismus sind verboten.
-
 
 ## § 8
 
@@ -135,14 +126,12 @@ soweit hierdurch die Bekämpfung der San-Jose-Schildlaus nicht
 beeinträchtigt wird und keine Gefahr einer Ausbreitung dieses
 Schadorganismus entsteht.
 
-
 ## § 9
 
 Unberührt bleibt die Befugnis der Landesregierungen, durch
 Rechtsverordnung nach § 3 Abs. 3 des Pflanzenschutzgesetzes ergänzende
 und weitergehende Vorschriften zur Bekämpfung der San-Jose-Schildlaus
 zu erlassen und diese Befugnis weiter zu übertragen.
-
 
 ## § 10
 
@@ -179,14 +168,9 @@ Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 8.  einer mit einer Genehmigung nach § 8 verbundenen vollziehbaren Auflage
     zuwiderhandelt.
 
-
-
-
-
 ## § 11
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlußformel
 

@@ -15,22 +15,15 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1984, 1342
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 40 des Gesetzes über das Verfahren bei Volksentscheid,
 Volksbegehren und Volksbefragung nach Artikel 29 Abs. 6 des
 Grundgesetzes vom 30. Juli 1979 (BGBl. I S. 1317) wird verordnet:
 
-
 ## Erster Abschnitt - Volksentscheid
 
-
-
 ### Erster Unterabschnitt - Abstimmungsorgane
-
-
 
 #### § 1 Abstimmungsleiter
 
@@ -56,7 +49,6 @@ so endet die Amtszeit mit dem rechtskräftigen Abschluß des letzten
 Prüfungsverfahrens, es sei denn, daß die Wiederholung der Abstimmung
 angeordnet wird.
 
-
 #### § 2 Aufforderung zu Vorschlägen für die Berufung der Beisitzer in den Abstimmungsausschüssen und Abstimmungsvorständen
 
 (1) In den Bekanntmachungen nach § 1 Abs. 1 Satz 2 ist zugleich unter
@@ -70,7 +62,6 @@ Fristsetzung auch darauf hin, daß Stimmberechtigte als Beisitzer für
 die Abstimmungsvorstände vorgeschlagen werden können und an welche für
 die Berufung der Beisitzer zuständigen Stellen die Vorschläge zu
 richten sind.
-
 
 #### § 3 Bildung der Abstimmungsausschüsse
 
@@ -92,7 +83,6 @@ werden.
 (3) Die Abstimmungsausschüsse bestehen nach der Abstimmung bis zu dem
 Zeitpunkt fort, in dem die Amtszeit der Abstimmungsleiter und ihrer
 Stellvertreter endet.
-
 
 #### § 4 Tätigkeit der Abstimmungsausschüsse
 
@@ -123,7 +113,6 @@ stören, aus dem Sitzungsraum zu weisen.
 (7) Über jede Sitzung ist vom Schriftführer eine Niederschrift zu
 fertigen; sie ist vom Vorsitzenden, von den Beisitzern und vom
 Schriftführer zu unterzeichnen.
-
 
 #### § 5 Abstimmungsvorsteher und Abstimmungsvorstand
 
@@ -190,7 +179,6 @@ vom Abstimmungsvorsteher nach Absatz 3 zu verpflichten.
 (10) Bei Bedarf stellt die Gemeindebehörde dem Abstimmungsvorstand die
 erforderlichen Hilfskräfte zur Verfügung.
 
-
 #### § 6 Briefabstimmungsvorsteher und Briefabstimmungsvorstand
 
 Für den Briefabstimmungsvorsteher und den Briefabstimmungsvorstand
@@ -241,10 +229,6 @@ gilt § 5 entsprechend mit folgenden Maßgaben:
 
     anwesend sind.
 
-
-
-
-
 #### § 7 Beweglicher Abstimmungsvorstand
 
 Für die Stimmabgabe in kleineren Krankenhäusern, kleineren Alten- oder
@@ -258,21 +242,15 @@ auch den beweglichen Abstimmungsvorstand eines anderen Stimmbezirks
 der Gemeinde, der zum gleichen Abstimmungsbereich gehört, mit der
 Entgegennahme der Stimmzettel beauftragen.
 
-
 #### § 8 Ehrenämter, Auslagenersatz, Erfrischungsgeld
 
 Die Vorschriften der Bundeswahlordnung über Ehrenämter, den
 Auslagenersatz für Inhaber von Wahlämtern und über das
 Erfrischungsgeld sind anzuwenden.
 
-
 ### Zweiter Unterabschnitt - Vorbereitung des Volksentscheids
 
-
-
 #### 1. - Stimmbezirke
-
-
 
 ##### § 9 Allgemeine Stimmbezirke und Sonderstimmbezirke
 
@@ -282,10 +260,7 @@ dürfen die Grenzen der Abstimmungsbereiche nicht überschreiten.
 (2) Im übrigen sind die Vorschriften der Bundeswahlordnung über die
 Bildung der Wahlbezirke anzuwenden.
 
-
 #### 2. - Stimmrecht, Stimmscheine
-
-
 
 ##### § 10 Stimmrecht, Stimmberechtigtenverzeichnis
 
@@ -321,13 +296,11 @@ Stimmberechtigtenverzeichnis zu streichen. Das gleiche gilt, wenn vor
 dem Abstimmungstag eine andere Voraussetzung für die Aufnahme in das
 Stimmberechtigtenverzeichnis entfällt.
 
-
 ##### § 11 Zuständige Behörde
 
 Der Stimmschein wird von der Gemeindebehörde erteilt, in deren
 Stimmberechtigtenverzeichnis der Stimmberechtigte eingetragen ist oder
 hätte eingetragen werden müssen.
-
 
 ##### § 12 Stimmscheinanträge
 
@@ -358,7 +331,6 @@ zugleich als Antrag auf Erteilung eines Stimmscheins, es sei denn, der
 Stimmberechtigte will vor dem Abstimmungsvorstand seines Stimmbezirks
 abstimmen.
 
-
 ##### § 13 Entscheidung über die Stimmscheinanträge
 
 (1) Die Gemeindebehörde hat über den Antrag auf Erteilung eines
@@ -374,7 +346,6 @@ die Vernichtung der Abstimmungsunterlagen zugelassen ist (§ 98 Abs.
 (3) Die Vorschriften der Bundeswahlordnung über den Einspruch gegen
 die Versagung des Wahlscheins und die Beschwerde sind entsprechend
 anzuwenden.
-
 
 ##### § 14 Erteilung von Stimmscheinen
 
@@ -423,7 +394,6 @@ Luftpost, wenn sich aus seinem Antrag ergibt, daß er aus einem
 außereuropäischen Gebiet abstimmen will, oder wenn die Verwendung der
 Luftpost sonst geboten erscheint.
 
-
 ##### § 15 Stimmscheinverzeichnisse
 
 (1) Über die erteilten Stimmscheine führt die Gemeindebehörde ein
@@ -451,7 +421,6 @@ läßt. Ist eine Gemeinde nach § 6 Nr. 1 mit der Durchführung der
 Briefabstimmung betraut worden, sind die Verzeichnisse entsprechend
 Satz 1 der beauftragten Gemeinde zuzuleiten; Satz 2 gilt entsprechend.
 
-
 ##### § 16 Ungültigkeitserklärung von Stimmscheinen
 
 (1) Wird ein Stimmberechtigter, der bereits einen Stimmschein erhalten
@@ -468,7 +437,6 @@ Stimmscheinverzeichnis zu vermerken, daß die Stimme eines
 Abstimmenden, der an der Briefabstimmung bereits teilgenommen hat,
 nicht ungültig ist.
 
-
 ##### § 17 Verlorene Stimmscheine
 
 Verlorene Stimmscheine werden nicht ersetzt. Versichert ein
@@ -476,7 +444,6 @@ Stimmberechtigter glaubhaft, daß ihm der beantragte Stimmschein nicht
 zugegangen ist, kann ihm bis zum Tag vor der Abstimmung, 12.00 Uhr,
 ein neuer Stimmschein erteilt werden; § 15 Abs. 3 Satz 2 und 3 und §
 16 Abs. 1 Satz 1 bis 3 gelten entsprechend.
-
 
 ##### § 18 Erteilung von Stimmscheinen an bestimmte Personengruppen
 
@@ -522,23 +489,18 @@ Abstimmung die Truppenteile, die ihren Standort im Gemeindegebiet
 haben, die stimmberechtigten Soldaten entsprechend Absatz 2 zu
 verständigen.
 
-
 ##### § 19 Vermerk im Stimmberechtigtenverzeichnis
 
 Hat ein Stimmberechtigter einen Stimmschein erhalten, so wird im
 Stimmberechtigtenverzeichnis in der Spalte für den Vermerk über die
 Stimmabgabe "Stimmschein" oder "S" eingetragen.
 
-
 #### 3. - Abstimmungsräume, Abstimmungsbekanntmachung
-
-
 
 ##### § 20 Abstimmungsräume
 
 Auf die Abstimmungsräume sind die Vorschriften der Bundeswahlordnung
 über die Wahlräume entsprechend anzuwenden.
-
 
 ##### § 21 Abstimmungsbekanntmachung der Gemeindebehörde
 
@@ -583,10 +545,7 @@ Abstimmungshandlung am oder im Eingang des Gebäudes, in dem sich der
 Abstimmungsraum befindet, anzubringen. Dem Auszug ist ein Stimmzettel
 als Muster beizufügen.
 
-
 ### Dritter Unterabschnitt - Abstimmungshandlung
-
-
 
 #### § 22 Ausstattung des Abstimmungsvorstands
 
@@ -626,15 +585,10 @@ Stimmbezirks vor Beginn der Abstimmungshandlung
 9.  Papierbeutel oder Packpapier und Siegelmaterial zum Verpacken der
     Stimmzettel, Stimmumschläge und Stimmscheine.
 
-
-
-
-
 #### § 23 Anwendbarkeit der Bundeswahlordnung
 
 Auf die Abstimmungshandlung sind die Vorschriften der
 Bundeswahlordnung über die Wahlhandlung entsprechend anzuwenden.
-
 
 #### § 24 Briefabstimmung
 
@@ -647,10 +601,7 @@ Durchführung der Briefabstimmung betraut worden ist.
 (2) Im übrigen sind auf die Briefabstimmung die Vorschriften der
 Bundeswahlordnung über die Briefwahl entsprechend anzuwenden.
 
-
 ### Vierter Unterabschnitt - Ermittlung und Feststellung der Abstimmungsergebnisse
-
-
 
 #### § 25 Ermittlung der zum Bundestag Wahlberechtigten
 
@@ -667,7 +618,6 @@ die Zahl der am Abstimmungstag zum Bundestag Wahlberechtigten und
 teilt sie unverzüglich dem Kreisabstimmungsleiter mit. Die Mitteilung
 soll spätestens eine Stunde nach dem Ablauf der Abstimmungszeit bei
 dem Kreisabstimmungsleiter eingegangen sein.
-
 
 #### § 26 Ermittlung und Feststellung des Abstimmungsergebnisses im Stimmbezirk
 
@@ -694,10 +644,6 @@ Stimmbezirk und stellt fest
 6.  die Zahl der für die Bildung des neuen oder neu umgrenzten Landes
     abgegebenen gültigen Stimmen.
 
-
-
-
-
 #### § 27 Zählung der Abstimmenden
 
 Vor dem Öffnen der Stimmurne werden alle nicht benutzten
@@ -708,7 +654,6 @@ Stimmberechtigtenverzeichnis und die Zahl der eingenommenen
 Stimmscheine festgestellt. Ergibt sich dabei auch nach wiederholter
 Zählung keine Übereinstimmung, so ist dies in der
 Abstimmungsniederschrift zu vermerken und möglichst zu erläutern.
-
 
 #### § 28 Zählung der Stimmen
 
@@ -795,7 +740,6 @@ Abstimmungsniederschrift zu vermerken.
 
 je für sich und behalten sie unter Aufsicht.
 
-
 #### § 29 Bekanntgabe des Abstimmungsergebnisses
 
 Im Anschluß an die Feststellungen nach § 26 gibt der
@@ -804,7 +748,6 @@ dieser Vorschrift bezeichneten Angaben mündlich bekannt. Es darf vor
 Unterzeichnung der Abstimmungsniederschrift (§ 31) anderen als den im
 § 30 genannten Stellen durch die Mitglieder des Abstimmungsvorstands
 nicht mitgeteilt werden.
-
 
 #### § 30 Schnellmeldungen, vorläufige Abstimmungsergebnisse
 
@@ -842,7 +785,6 @@ der Abstimmungsniederschriften möglichen Überprüfungen die vorläufigen
 Abstimmungsergebnisse mündlich oder in geeigneter anderer Form
 bekannt.
 
-
 #### § 31 Abstimmungsniederschrift
 
 (1) Über die Abstimmungshandlung sowie die Ermittlung und Feststellung
@@ -874,7 +816,6 @@ zu übersenden.
 (4) Der Abstimmungsvorsteher und der Kreisabstimmungsleiter haben
 sicherzustellen, daß die Abstimmungsniederschriften mit den Anlagen
 Unbefugten nicht zugänglich sind.
-
 
 #### § 32 Übergabe und Verwahrung der Abstimmungsunterlagen
 
@@ -917,7 +858,6 @@ Teil und versiegelt das Paket erneut. Über den Vorgang ist eine
 Niederschrift zu fertigen, die von allen Beteiligten zu unterzeichnen
 ist.
 
-
 #### § 33 Behandlung der rechtzeitig eingegangenen Stimmbriefe
 
 (1) Die für den Eingang der Stimmbriefe zuständige Stelle (§ 24 Abs.
@@ -932,7 +872,6 @@ eingegangenen Stimmbriefe zur Abholung bereitgehalten und von einem
 Beauftragten gegen Vorlage eines von ihr erteilten Ausweises am
 Abstimmungstag bis zum Schluß der Abstimmungszeit in Empfang genommen
 werden.
-
 
 #### § 34 Vorbereitung der Ermittlung und Feststellung des Briefabstimmungsergebnisses
 
@@ -965,7 +904,6 @@ sorgt für die Bereitstellung des Abstimmungsraums und
 stellt dem Briefabstimmungsvorstand etwa notwendige Hilfskräfte zur
 Verfügung.
 
-
 #### § 35 Behandlung der verspätet eingegangenen Stimmbriefe
 
 (1) Die für den Eingang der Stimmbriefe zuständige Stelle nimmt die
@@ -979,7 +917,6 @@ Stelle ungeöffnet verpackt. Das Paket wird von ihr versiegelt, mit
 einer Inhaltsangabe versehen und verwahrt, bis die Vernichtung der
 Stimmbriefe zugelassen ist (§ 98 Abs. 1). Sie hat sicherzustellen, daß
 das Paket Unbefugten nicht zugänglich ist.
-
 
 #### § 36 Zulassung der Stimmbriefe
 
@@ -1004,7 +941,6 @@ Zurückweisungsgrund zu versehen, wieder zu verschließen und
 fortlaufend zu numerieren. Die Einsender zurückgewiesener Stimmbriefe
 werden nicht als Abstimmende gezählt; ihre Stimmen gelten als nicht
 abgegeben (§ 12 Abs. 3 Satz 2 des Gesetzes).
-
 
 #### § 37 Ermittlung und Feststellung des Briefabstimmungsergebnisses in den Kreisen und kreisfreien Städten
 
@@ -1054,7 +990,6 @@ Kreisabstimmungsleiter in die Schnellmeldung nach § 30 Abs. 3 und in
 die Zusammenstellung des endgültigen Abstimmungsergebnisses des
 Kreises oder der kreisfreien Stadt nach § 40 übernommen.
 
-
 #### § 38 Ermittlung und Feststellung des Briefabstimmungsergebnisses bei weniger als 50 rechtzeitig eingegangenen Stimmbriefen
 
 (1) Im Falle des § 34 Abs. 1 verfährt der Briefabstimmungsvorstand
@@ -1097,7 +1032,6 @@ der im Stimmbezirk Abstimmenden aus. Der Abstimmungsniederschrift ist
 als Anlage die Zweitausfertigung der Niederschrift des
 Briefabstimmungsvorstands beizufügen.
 
-
 #### § 39 Nachträgliche Ermittlung und Feststellung des Briefabstimmungsergebnisses
 
 Stellt der Gesamtabstimmungsleiter fest, daß im Bundesgebiet infolge
@@ -1110,7 +1044,6 @@ Auswirkungen des Ereignisses behoben sind, spätestens aber am 21. Tag
 nach der Abstimmung, die durch das Ereignis betroffenen Stimmbriefe
 ausgesondert und dem Briefabstimmungsvorstand zur nachträglichen
 Feststellung des Briefabstimmungsergebnisses überwiesen.
-
 
 #### § 40 Ermittlung und Feststellung des Abstimmungsergebnisses in den Kreisen und kreisfreien Städten
 
@@ -1189,7 +1122,6 @@ und dem Gesamtabstimmungsleiter auf schnellstem Wege eine Ausfertigung
 der Niederschrift des Kreisabstimmungsausschusses mit der
 dazugehörigen Zusammenstellung.
 
-
 #### § 41 Ermittlung und Feststellung des Abstimmungsergebnisses im Land
 
 (1) Der Landesabstimmungsleiter prüft die Abstimmungsniederschriften
@@ -1213,7 +1145,6 @@ einzelnen Kreise und kreisfreien Städte sind Zwischensummen zu bilden.
 (4) Der Landesabstimmungsleiter übersendet dem Gesamtabstimmungsleiter
 eine Ausfertigung der Niederschrift des Landesabstimmungsausschusses
 mit der dazugehörigen Zusammenstellung.
-
 
 #### § 42 Abschließende Ermittlung und Feststellung des Abstimmungsergebnisses
 
@@ -1261,7 +1192,6 @@ ist entsprechend Absatz 1 Satz 2 und 3 auszuweisen.
 Innern eine Ausfertigung der Niederschrift des
 Gesamtabstimmungsausschusses mit der dazugehörigen Zusammenstellung.
 
-
 #### § 43 Niederschriften der Abstimmungsausschüsse
 
 In den Fällen der §§ 40 bis 42 sind die Niederschrift über die Sitzung
@@ -1270,7 +1200,6 @@ beigefügte Zusammenstellung des Abstimmungsergebnisses von allen
 Mitgliedern des Abstimmungsausschusses, die an der Verhandlung
 teilgenommen haben, zu unterschreiben.
 
-
 #### § 44 Bekanntgabe der endgültigen Abstimmungsergebnisse
 
 Im Anschluß an die Feststellungen des jeweiligen
@@ -1278,7 +1207,6 @@ Abstimmungsausschusses gibt der Abstimmungsleiter das
 Abstimmungsergebnis seines Gebiets mündlich bekannt. Der
 Gesamtabstimmungsleiter gibt auch die im § 42 Abs. 2 Nr. 2 bezeichnete
 Feststellung mündlich bekannt.
-
 
 #### § 45 Überprüfung der Abstimmung durch die Landesabstimmungsleiter und den Gesamtabstimmungsleiter
 
@@ -1298,14 +1226,9 @@ Gesamtabstimmungsleiter kann verlangen, daß ihm die
 Landesabstimmungsleiter die bei ihnen vorhandenen
 Abstimmungsunterlagen übersenden.
 
-
 ## Zweiter Abschnitt - Volksbegehren
 
-
-
 ### Erster Unterabschnitt - Zulassungsverfahren
-
-
 
 #### § 46 Zulassungsantrag
 
@@ -1313,7 +1236,6 @@ Der Antrag auf Zulassung eines Volksbegehrens ist nach Formblatt (§
 47) an den Bundesminister des Innern zu richten. Dem Antrag ist eine
 Zusammenstellung der Formblätter (§ 50) beizufügen. Der Bundesminister
 des Innern bestätigt den Eingang des Antrags.
-
 
 #### § 47 Form des Zulassungsantrags
 
@@ -1330,7 +1252,6 @@ zweiten Unterschriftsblatts als sein Stellvertreter.
 (2) Die Unterschriftsblätter sollen mit laufenden Nummern versehen
 werden.
 
-
 #### § 48 Unterzeichnung des Zulassungsantrags
 
 (1) Die Unterzeichner des Zulassungsantrags müssen sich in die
@@ -1345,7 +1266,6 @@ Hauptwohnung ist, bestimmt sich nach den Vorschriften des Melderechts.
 (3) Eintragungen, welche die Person des Unterzeichners nicht
 zweifelsfrei erkennen lassen, sind ungültig.
 
-
 #### § 49 Bescheinigung der Unterschriftsberechtigung
 
 (1) Die Unterschriftsberechtigung der Unterzeichner des
@@ -1356,7 +1276,6 @@ ist auf dem Unterschriftsblatt nach dem Muster der Anlage zu erteilen.
 
 (2) Werden bei der Sammlung der Unterschriften Unregelmäßigkeiten
 festgestellt, so hat die Gemeinde dies zu vermerken.
-
 
 #### § 50 Ordnung, Zusammenstellung und Einreichen der Unterschriftsblätter
 
@@ -1371,7 +1290,6 @@ einzureichen, in der die Zahl der abgegebenen und von den Gemeinden
 nach § 49 Abs. 1 bestätigten Unterschriften eingetragen ist. Die Zahl
 dieser Unterschriften muß aufgerechnet sein.
 
-
 #### § 51 Zurücknahme und Änderung des Zulassungsantrags
 
 (1) Für die Zurücknahme und die Änderung des Zulassungsantrags gelten
@@ -1381,16 +1299,12 @@ die §§ 47 bis 50 entsprechend.
 Zulassung entgegenstehenden Mangels erforderlich ist, erfolgt sie
 durch Erklärung des Vertrauensmanns oder seines Stellvertreters.
 
-
 #### § 52 Kostentragung
 
 Die Kosten des Zulassungsantrags sowie die Kosten der Zurücknahme und
 der Änderung des Zulassungsantrags werden nicht erstattet.
 
-
 ### Zweiter Unterabschnitt - Eintragungsorgane
-
-
 
 #### § 53 Eintragungsleiter
 
@@ -1399,14 +1313,12 @@ Kreiseintragungsleiter und ihre Stellvertreter werden für jedes
 Volksbegehren unverzüglich nach der Bestimmung der Eintragungsfrist
 ernannt. § 1 Abs. 1 Satz 2 und 3 gilt entsprechend.
 
-
 #### § 54 Aufforderung zu Vorschlägen für die Berufung der Eintragungsausschußbeisitzer
 
 In den öffentlichen Bekanntmachungen (§ 53 Satz 2, § 1 Abs. 1 Satz 2)
 ist zugleich unter Fristsetzung auf die Möglichkeit hinzuweisen,
 Eintragungsberechtigte als Beisitzer für die Eintragungsausschüsse und
 als stellvertretende Beisitzer vorzuschlagen.
-
 
 #### § 55 Bildung und Tätigkeit der Eintragungsausschüsse
 
@@ -1432,21 +1344,15 @@ wohnen.
 der Eintragungsausschüsse und auf deren Tätigkeit sind § 3 Abs. 2 und
 § 4 entsprechend anzuwenden.
 
-
 #### § 56 Ehrenämter, Auslagenersatz, Erfrischungsgeld
 
 Die Vorschriften der Bundeswahlordnung über Ehrenämter, den
 Auslagenersatz für Inhaber von Wahlämtern und über das
 Erfrischungsgeld sind anzuwenden.
 
-
 ### Dritter Unterabschnitt - Vorbereitung des Volksbegehrens
 
-
-
 #### 1. - Eintragungsbezirke
-
-
 
 ##### § 57 Allgemeine Eintragungsbezirke
 
@@ -1472,7 +1378,6 @@ Einwohnern können als Teileintragungsbezirke zu einem
 Gesamteintragungsbezirk zusammengefaßt werden. Ein
 Gesamteintragungsbezirk soll nicht mehr als 5.000 Einwohner umfassen.
 
-
 ##### § 58 Sondereintragungsbezirke
 
 (1) Für Krankenhäuser, Altenheime, Altenwohnheime, Pflegeheime,
@@ -1489,10 +1394,7 @@ anzuwenden, soweit deren eintragungsberechtigte Bewohner aus Gründen
 der Gesundheits- oder Viehseuchenaufsicht den allgemeinen
 Eintragungsraum nicht aufsuchen sollen oder dürfen.
 
-
 #### 2. - Eintragungsberechtigung, Eintragungsscheine
-
-
 
 ##### § 59 Eintragungsberechtigung, Eintragungsberechtigtenverzeichnis
 
@@ -1515,7 +1417,6 @@ Eintragungsberechtigtenverzeichnis ist unter Angabe des Tages, an dem
 die im Satz 1 bezeichneten Voraussetzungen eingetreten sind, zu
 berichtigen.
 
-
 ##### § 60 Beantragung von Eintragungsscheinen
 
 (1) Eintragungsscheine können für jedes Volksbegehren von der
@@ -1534,7 +1435,6 @@ unterrichten.
 entsprechend anzuwenden. In einer ablehnenden Entscheidung ist auch
 auf die Frist des Einspruchs hinzuweisen.
 
-
 ##### § 61 Erteilung von Eintragungsscheinen
 
 Auf die Erteilung der Eintragungsscheine sind die Vorschriften des §
@@ -1542,14 +1442,12 @@ Auf die Erteilung der Eintragungsscheine sind die Vorschriften des §
 Satz 2 wird auf dem Eintragungsschein vermerkt, daß er nach § 29 Abs.
 2 des Gesetzes erteilt wurde.
 
-
 ##### § 62 Verzeichnisse der Eintragungsscheine
 
 Die Vorschriften des § 15 Abs. 1 und 2 sind mit der Maßgabe
 entsprechend anzuwenden, daß in den Verzeichnissen über die erteilten
 Eintragungsscheine die Fälle des § 29 Abs. 1 und des § 29 Abs. 2 des
 Gesetzes getrennt gehalten werden.
-
 
 ##### § 63 Ungültigkeitserklärung von Eintragungsscheinen
 
@@ -1566,7 +1464,6 @@ Eintragungsscheinverzeichnis ist unter Angabe des Tages, an dem die im
 des Eintragungsberechtigtenverzeichnisses eingetreten sind, zu
 berichtigen.
 
-
 ##### § 64 Verlorene Eintragungsscheine
 
 Verlorene Eintragungsscheine werden nicht ersetzt. Versichert ein
@@ -1574,7 +1471,6 @@ Eintragungsberechtigter glaubhaft, daß ihm der beantragte
 Eintragungsschein nicht zugegangen ist, kann ihm bis zum Ablauf der im
 § 60 Abs. 1 Satz 1 und 2 bezeichneten Frist ein neuer
 Eintragungsschein erteilt werden. § 63 gilt entsprechend.
-
 
 ##### § 65 Erteilung von Eintragungsscheinen an bestimmte Personengruppen
 
@@ -1607,14 +1503,12 @@ Eintragungsfrist die Truppenteile, die ihren Standort im
 Gemeindegebiet haben, die eintragungsberechtigten Soldaten
 entsprechend Absatz 3 zu verständigen.
 
-
 ##### § 66 Vermerk im Eintragungsberechtigtenverzeichnis
 
 Hat ein Eintragungsberechtigter einen Eintragungsschein erhalten, so
 wird im Eintragungsberechtigtenverzeichnis in der Spalte für den
 Vermerk über die Ausübung des Eintragungsrechts "Eintragungsschein"
 oder "E" eingetragen.
-
 
 ##### § 67 Einspruch und Beschwerde
 
@@ -1632,17 +1526,13 @@ vor. Diese hat unverzüglich über die Beschwerde zu entscheiden. Die
 Beschwerdeentscheidung ist dem Beschwerdeführer und der
 Gemeindebehörde bekanntzugeben.
 
-
 #### 3. - Eintragungsblätter, Eintragungsräume, Bekanntmachung
-
-
 
 ##### § 68 Eintragungsblätter
 
 Die Eintragungsblätter werden amtlich hergestellt und durch den
 Kreiseintragungsleiter den Gemeinden in der erforderlichen Anzahl
 zugewiesen.
-
 
 ##### § 69 Eintragungsräume
 
@@ -1665,7 +1555,6 @@ Eintragungsraum festgesetzten Eintragungszeiten hinzuweisen. In den
 Fällen des § 71 Abs. 2 ist auch darauf hinzuweisen, wann der
 Eintragungsraum für den Gesamteintragungsbezirk und wann die
 Eintragungsräume in den Teileintragungsbezirken geöffnet sind.
-
 
 ##### § 70 Bekanntmachung zum Volksbegehren
 
@@ -1705,10 +1594,7 @@ zu belassen. Sie ist vor Beginn der Eintragungshandlung am oder im
 Eingang jedes Gebäudes, in dem sich ein Eintragungsraum befindet,
 anzubringen und dort bis zum Ablauf der Eintragungsfrist zu belassen.
 
-
 ### Vierter Unterabschnitt - Eintragungshandlung
-
-
 
 #### § 71 Auslegung der Eintragungsblätter
 
@@ -1727,7 +1613,6 @@ ausgelegt werden. Allen Eintragungsberechtigten eines
 Teileintragungsbezirks soll möglichst Gelegenheit gegeben werden, sich
 in ihrem Teileintragungsbezirk an dem Volksbegehren zu beteiligen.
 
-
 #### § 72 Aufsichtsführender
 
 (1) Die Gemeindebehörde bestimmt, wer während der Eintragungsstunden
@@ -1737,7 +1622,6 @@ Aufsichtsführende bestimmen und die Aufgaben des Aufsichtsführenden
 auf mehrere verteilen.
 
 (2) Die Gemeindebehörde kann den Aufsichtsführenden jederzeit ablösen.
-
 
 #### § 73 Ausstattung des Aufsichtsführenden
 
@@ -1773,10 +1657,6 @@ Eintragungsraums vor Beginn der Eintragungshandlung
 
 8.  Schreibpapier und Schreibgerät in ausreichender Menge.
 
-
-
-
-
 #### § 74 Berichtigung des Eintragungsberechtigtenverzeichnisses
 
 (1) Vor Beginn der Eintragungshandlung berichtigt der
@@ -1795,18 +1675,15 @@ Absatz 1 Satz 1. Er legt über die Mitteilungen ein Verzeichnis an.
 Unverzüglich nach Ablauf der Eintragungsfrist verfährt er entsprechend
 Absatz 1 Satz 2.
 
-
 #### § 75 Öffentlichkeit
 
 Während der Eintragungsstunden hat jedermann zum Eintragungsraum
 Zutritt, soweit das ohne Störung der Eintragungshandlung möglich ist.
 
-
 #### § 76 Ordnung im Eintragungsraum
 
 Der Aufsichtsführende sorgt für Ruhe und Ordnung im Eintragungsraum.
 Er ordnet bei Andrang den Zutritt zum Eintragungsraum.
-
 
 #### § 77 Prüfung der Eintragungsberechtigung
 
@@ -1844,7 +1721,6 @@ bei der Gemeindebehörde einen Eintragungsschein beantragen kann, wenn
 er eintragungsberechtigt ist. Im Falle des Satzes 1 Nr. 2 ist er auf
 die Bestimmung des § 64 hinzuweisen.
 
-
 #### § 78 Eintragung in die Eintragungsblätter
 
 (1) Die Unterschriften dürfen nur auf den amtlichen
@@ -1861,14 +1737,12 @@ beurkundet.
 (3) Auf einem Blatt dürfen sich auch mehrere Eintragungsberechtigte
 eintragen.
 
-
 #### § 79 Vermerk über die Eintragung
 
 Die Ausübung des Eintragungsrechts wird neben dem Namen des
 Eintragungsberechtigten im Eintragungsberechtigtenverzeichnis in der
 dafür bestimmten Spalte vermerkt. Für dasselbe Volksbegehren muß immer
 dieselbe Spalte benutzt werden.
-
 
 #### § 80 Eintragung von Inhabern eines Eintragungsscheins
 
@@ -1879,7 +1753,6 @@ Eintragungsscheins oder über den rechtmäßigen Besitz, so klärt sie der
 Aufsichtsführende nach Möglichkeit. Soweit Zweifel bestehen bleiben,
 verfährt der Aufsichtsführende entsprechend § 77 Abs. 2; den
 Eintragungsschein fügt er der Anlage bei.
-
 
 #### § 81 Schluß der Eintragungshandlung
 
@@ -1895,7 +1768,6 @@ benutzten Eintragungsblätter sowie die Eintragungsscheine und
 versiegelt das Paket. Die Gemeindebehörde hält die Unterlagen über das
 Volksbegehren bis zum Beginn der Eintragungsstunden am folgenden Tag
 unter Verschluß.
-
 
 #### § 82 Eintragung in Sondereintragungsbezirken
 
@@ -1933,7 +1805,6 @@ verantwortlich, die ansteckende Krankheiten haben.
 
 (6) Im übrigen gelten die allgemeinen Bestimmungen.
 
-
 #### § 83 Eintragung in gesperrten Wohnstätten
 
 (1) Zur Eintragung in gesperrten Wohnstätten sind deren Bewohner
@@ -1962,16 +1833,12 @@ der Erklärung ersetzt. § 78 Abs. 2 Satz 2 gilt entsprechend.
 
 (5) Im übrigen gelten die allgemeinen Bestimmungen.
 
-
 ### Fünfter Unterabschnitt - Ermittlung und Feststellung der Eintragungsergebnisse
-
-
 
 #### § 84 Ermittlung der zum Bundestag Wahlberechtigten
 
 Am letzten Tag der Eintragungsfrist ermittelt die Gemeindebehörde die
 Zahl der an diesem Tag in der Gemeinde zum Bundestag Wahlberechtigten.
-
 
 #### § 85 Abschluß der Eintragungsblätter in den Eintragungsbezirken
 
@@ -2040,7 +1907,6 @@ legen. Die Gemeindebehörde öffnet das Paket nicht vor dem Ablauf der
 Eintragungsfrist. Vor diesem Zeitpunkt darf der Aufsichtsführende das
 Ergebnis Dritten nicht mitteilen.
 
-
 #### § 86 Vorläufige Eintragungsergebnisse, Schnellmeldungen
 
 (1) Die Gemeindebehörde stellt unverzüglich nach den Schnellmeldungen
@@ -2081,7 +1947,6 @@ des Innern über die vorläufigen Eintragungsergebnisse.
 der Unterlagen über das Volksbegehren möglichen Überprüfungen die
 vorläufigen Eintragungsergebnisse mündlich oder in geeigneter anderer
 Form bekannt.
-
 
 #### § 87 Abschluß der Eintragungsblätter durch die Gemeinde
 
@@ -2138,7 +2003,6 @@ verwahren, bis die Vernichtung der Unterlagen zugelassen ist (§ 98
 Abs. 1). Sie hat sicherzustellen, daß die Unterlagen Unbefugten nicht
 zugänglich sind. Auf Anforderung sind die Unterlagen dem
 Kreiseintragungsleiter vorzulegen.
-
 
 #### § 88 Ermittlung und Feststellung des Eintragungsergebnisses in den Kreisen und kreisfreien Städten
 
@@ -2199,7 +2063,6 @@ bezeichneten Vom-Hundert-Sätze nicht ausgewiesen zu werden.
 
 (4) § 40 Abs. 4 gilt entsprechend.
 
-
 #### § 89 Ermittlung und Feststellung des Eintragungsergebnisses im Land
 
 (1) Der Landeseintragungsleiter prüft die Niederschriften der
@@ -2213,7 +2076,6 @@ Landeseintragungsausschuß Bericht.
 Land mit den im § 88 Abs. 2 Satz 1 Nr. 1 bis 5 bezeichneten Angaben
 fest. Im übrigen sind § 88 Abs. 2 und 3 und § 41 Abs. 4 entsprechend
 anzuwenden.
-
 
 #### § 90 Ermittlung und Feststellung des Eintragungsergebnisses im Raum des zugelassenen Volksbegehrens
 
@@ -2238,13 +2100,11 @@ dem Raum des zugelassenen Volksbegehrens und stellt fest
 
 (3) § 88 Abs. 2 und 3 und § 42 Abs. 4 sind entsprechend anzuwenden.
 
-
 #### § 91 Sitzungsniederschriften und Bekanntgabe der Ergebnisse
 
 In den Fällen der §§ 88 bis 90 sind die §§ 43 und 44 Satz 1
 entsprechend anzuwenden. Der Gesamteintragungsleiter gibt auch die im
 § 90 Abs. 2 Nr. 2 bezeichnete Feststellung mündlich bekannt.
-
 
 #### § 92 Überprüfung des Volksbegehrens
 
@@ -2255,10 +2115,7 @@ Artikel 29 Abs. 6 des Grundgesetzes und der auf Grund dieses Gesetzes
 erlassenen Verordnungen durchgeführt worden ist. § 45 Abs. 1 Satz 2
 und Abs. 2 gilt entsprechend.
 
-
 ## Dritter Abschnitt - Volksbefragung
-
-
 
 ### § 93 Abstimmungsbereiche, Geltung der Vorschriften des Ersten Abschnitts
 
@@ -2279,10 +2136,7 @@ des Absatzes 1 nach § 28 Abs. 1 Satz 1 Nr. 1 drei Stapel mit
 Stimmzetteln zu bilden und davon nach § 28 Abs. 2 Satz 1 zwei Stapel
 dem Abstimmungsvorsteher zur Prüfung zu übergeben sind.
 
-
 ## Vierter Abschnitt - Schlußbestimmungen
-
-
 
 ### § 94 Öffentliche Bekanntmachung
 
@@ -2303,11 +2157,9 @@ in ortsüblicher Weise.
 am oder im Eingang des Sitzungsgebäudes mit dem Hinweis, daß jedermann
 Zutritt zu der Sitzung hat.
 
-
 ### § 95 Zustellungen
 
 Für Zustellungen gilt das Verwaltungszustellungsgesetz des Bundes.
-
 
 ### § 96 Beschaffung von Abstimmungs- und Eintragungsunterlagen
 
@@ -2353,13 +2205,11 @@ Eintragungsbezirke sowie die Gemeinden erforderlichen Vordrucke,
 soweit nicht Gesamt-, Landes- oder Kreisabstimmungs- oder
 -eintragungsleiter die Lieferung übernehmen.
 
-
 ### § 97 Sicherung der Stimmberechtigten- und Eintragungsberechtigtenverzeichnisse
 
 Die Vorschriften der Bundeswahlordnung über die Sicherung der
 Wählerverzeichnisse sind auf die Stimmberechtigten- und
 Eintragungsberechtigtenverzeichnisse entsprechend anzuwenden.
-
 
 ### § 98 Vernichtung von Unterlagen
 
@@ -2374,7 +2224,6 @@ Wahlprüfungsgesetz können der Gesamtabstimmungsleiter für die
 Stimmberechtigtenverzeichnisse und der Gesamteintragungsleiter für die
 Eintragungsberechtigtenverzeichnisse etwas anderes anordnen.
 
-
 ### § 99 Stadtstaatenklausel
 
 (1) Soweit ein Land nicht in Kreise oder in Kreise und kreisfreie
@@ -2387,16 +2236,13 @@ Stellen die Aufgaben wahrnehmen, die im Gesetz und in dieser
 Verordnung der Gemeindebehörde und der Verwaltungsbehörde des Kreises
 übertragen sind.
 
-
 ### § 100 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
 ### Schlußformel
 
 Der Bundesminister des Innern
-
 
 ### Anlage (zu den §§ 47 und 49)
 

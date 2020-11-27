@@ -18,12 +18,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 10 G v. 25.4.2007 I 594
 
-
 ## § 1
 
 Über den grenzüberschreitenden Warenverkehr wird eine Bundesstatistik
 durchgeführt.
-
 
 ## § 2
 
@@ -41,7 +39,6 @@ Erhebungsgebiet.
 
 (3) Waren im Sinne dieses Gesetzes sind alle beweglichen Sachen und
 elektrischer Strom.
-
 
 ## § 3
 
@@ -85,10 +82,6 @@ Bei der Anmeldung werden folgende Tatbestände erfaßt:
     20\.11.1996 I 1804 (StatÄndV 29-22-4) werden die Erhebungen mWv
     27\.11.1996 bis zum 30.6.2000 ausgesetzt
 
-
-
-
-
 ## § 4
 
 (1) Zur Anmeldung ist verpflichtet
@@ -123,7 +116,6 @@ Verkehrsablaufs bestimmt werden, daß andere am Warenverkehr beteiligte
 Personen zur Anmeldung sowie zur Ausstellung oder Ergänzung des
 Anmeldepapiers verpflichtet sind.
 
-
 ## § 5
 
 (1) Anmeldestellen sind die Zollstellen.
@@ -131,7 +123,6 @@ Anmeldepapiers verpflichtet sind.
 (2) Durch Rechtsverordnung können zur Vereinfachung des
 Anmeldeverfahrens der Kreis der Zollstellen näher bestimmt und
 begrenzt sowie andere Dienststellen zu Anmeldestellen erklärt werden.
-
 
 ## § 6
 
@@ -161,10 +152,6 @@ an die Anmeldestelle zu bewirken.
 
 2.  soweit andere Rechtsvorschriften über die Wareneinfuhr und die
     Warenausfuhr dies aus Gründen der Verwaltungsvereinfachung erfordern.
-
-
-
-
 
 ## § 7
 
@@ -221,7 +208,6 @@ vorzulegen, die die Zoll- und Steuerpapiere ausfertigt. Entsprechendes
 gilt, wenn ein Nämlichkeitsschein oder Musterpaß für Freigut
 ausgefertigt wird.
 
-
 ## § 8
 
 In Ausnahmefällen können zur Vermeidung unbilliger Härten oder aus
@@ -232,7 +218,6 @@ werden, soweit es mit dem Zweck der Außenhandelsstatistik vereinbar
 ist. In besonders gelagerten Einzelfällen können derartige
 Erleichterungen und Befreiungen auch durch den Präsidenten des
 Statistischen Bundesamtes verfügt werden.
-
 
 ## § 9
 
@@ -271,7 +256,6 @@ den Anmeldepapieren oder durch Beschau der Waren nachprüfen, ob die
 nach Absatz 1 zur Auskunft verpflichteten Personen ihrer
 Auskunftsverpflichtung entsprochen haben.
 
-
 ## § 10
 
 (1) Die Außenhandelsstatistik ist vom Statistischen Bundesamt nach
@@ -282,7 +266,6 @@ zu erheben und aufzubereiten.
 Hamburg, Bremen und Lübeck die für deren statistische Zwecke
 erforderlichen Unterlagen zur selbständigen Bearbeitung zur Verfügung
 stellen.
-
 
 ## § 11
 
@@ -296,11 +279,9 @@ fremden Ländern und nach Bundesländern gegliedert veröffentlicht
 werden, wenn der Name der Auskunftspflichtigen nicht bekanntgegeben
 wird.
 
-
 ## § 12
 
 Abkommen mit fremden Staaten bleiben unberührt.
-
 
 ## § 13
 
@@ -316,13 +297,7 @@ miteinander
     bestimmen und Durchführungsbestimmungen für das Anmeldeverfahren zu
     erlassen.
 
-
-
-
-
 ## (XXXX) §§ 14 und 15 (weggefallen)
-
-
 
 ## § 16
 

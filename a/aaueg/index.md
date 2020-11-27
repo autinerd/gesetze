@@ -19,10 +19,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 13 G v. 19.12.2007 I 3024
 
-
 ## Erster Abschnitt
-
-
 
 ### § 1 Geltungsbereich
 
@@ -37,7 +34,6 @@ gilt dieser Verlust als nicht eingetreten.
 (2) Zusatzversorgungssysteme sind die in Anlage 1 genannten Systeme.
 
 (3) Sonderversorgungssysteme sind die in Anlage 2 genannten Systeme.
-
 
 ### § 2 Grundsätze der Überführung
 
@@ -62,7 +58,6 @@ Versorgungssystem oder sind Zeiten aus einem Versorgungssystem
 rentensteigernd berücksichtigt worden, gelten die Ansprüche als in
 einem Versorgungssystem erworben.
 
-
 ### § 3 Versicherter Personenkreis
 
 Für die Versicherungs- und Beitragspflicht der Personen, die am 31.
@@ -74,7 +69,6 @@ Altersgrenzen oder befristete erweiterte Versorgung beziehen; für sie
 gelten die Vorschriften des Sechsten Buches Sozialgesetzbuch bei Bezug
 von Vorruhestandsgeld nach den Vorschriften für das Beitrittsgebiet
 sinngemäß.
-
 
 ### § 4 Überführung in die Rentenversicherung
 
@@ -173,7 +167,6 @@ Anwartschaften in die Rentenversicherung gelten die nachfolgenden
 Vorschriften über die Berücksichtigung von Zeiten der Zugehörigkeit zu
 einem Versorgungssystem.
 
-
 ### § 5 Pflichtbeitragszeiten
 
 (1) Zeiten der Zugehörigkeit zu einem Versorgungssystem, in denen eine
@@ -214,10 +207,7 @@ Bundesversicherungsamt zur Verfügung zu stellen. Das
 Bundesversicherungsamt berücksichtigt diesen Betrag bei der Abrechnung
 nach § 15 Abs. 4.
 
-
 ## Zweiter Abschnitt
-
-
 
 ### § 6 Art der Überführung in die Rentenversicherung
 
@@ -330,7 +320,6 @@ allgemeinen Rentenversicherung zugeordnet.
 (9) Die Berechnungsgrundsätze des Sechsten Buches Sozialgesetzbuch
 sind anzuwenden.
 
-
 ### § 7 Begrenzung des berücksichtigungsfähigen Entgelts
 
 (1) Das während der Zugehörigkeit zu dem Versorgungssystem des
@@ -361,7 +350,6 @@ vorübergehenden Zuordnung der Deutschen Grenzpolizei, der
 Transportpolizei und der Volkspolizei-Bereitschaften zum Ministerium
 für Staatssicherheit oder zum Staatssekretariat für Staatssicherheit
 des Ministeriums des Innern.
-
 
 ### § 8 Verfahren zur Mitteilung der Überführungsdaten
 
@@ -479,7 +467,6 @@ mit. Er übermittelt diesem auch die ihm zur Verfügung stehenden
 Unterlagen, die zur Feststellung nicht in einem Versorgungssystem
 zurückgelegter rentenrechtlicher Zeiten erforderlich sind.
 
-
 ### § 9 Auszahlung von Versorgungsleistungen
 
 (1) In die Rentenversicherung werden nicht überführt:
@@ -536,10 +523,7 @@ berücksichtigen, haben Arbeitgeber, Sozialversicherungsträger,
 Finanzbehörden und sonstige Dritte dem Versorgungsträger auf Verlangen
 die erforderliche Auskunft zu erteilen.
 
-
 ## Dritter Abschnitt
-
-
 
 ### § 10 Vorläufige Begrenzung von Zahlbeträgen
 
@@ -599,7 +583,6 @@ gezahlt, hat er die Begrenzung vorzunehmen; der Versorgungsträger
 teilt ihm auf Anforderung die erforderlichen Daten mit. Die Anhörung
 eines Beteiligten vor Erlaß des Bescheides ist nicht erforderlich. § 8
 Abs. 3 Satz 2 ist anzuwenden.
-
 
 ### § 11 Anpassung von Versorgungsleistungen aufgrund vorzeitiger Entlassung
 
@@ -724,11 +707,9 @@ Sonderversorgungssystem nach Anlage 2 Nr. 1, wird die Übergangsrente
 nur in der Grundform geleistet. Satz 1 ist vor anderen Regelungen für
 die Übergangsrente anzuwenden.
 
-
 ### § 12
 
 (weggefallen)
-
 
 ### § 13 Einstellung von Leistungen
 
@@ -769,7 +750,6 @@ nicht bestanden hat, werden nicht mehr gewährt.
 Bescheid vorzunehmen. Die Anhörung eines Beteiligten vor Erlaß des
 Bescheides ist nicht erforderlich. § 8 Abs. 3 Satz 2 ist anzuwenden.
 
-
 ### § 14 Übergangsregelungen für Versorgungssysteme nach Anlage 1 Nr. 23 bis 27
 
 (1) Bei der Überführung der in einem Versorgungssystem nach Anlage 1
@@ -808,7 +788,6 @@ den Vorschriften des Sechsten Buches Sozialgesetzbuch ergibt, § 14
 Abs. 3 in der bis zum 30. Juni 1993 geltenden Fassung weiter
 anzuwenden.
 
-
 ### § 14a Weitergeltung von Bescheiden
 
 Für Pflichtbeitragszeiten nach diesem Gesetz, für die ein
@@ -818,7 +797,6 @@ Ermittlung einer Rente nach den Vorschriften des Sechsten Buches
 Sozialgesetzbuch ein Verdienst zugrunde zu legen ist, der den Betrag
 der Anlage 5 übersteigt, ist § 6 Abs. 2 dieses Gesetzes nicht
 anzuwenden.
-
 
 ### § 14b Überprüfung von bestandskräftigen Bescheiden
 
@@ -832,7 +810,6 @@ liegen, die am 23. Juni 2004 unanfechtbar waren und die auf § 6 Abs.
 November 1996 (BGBl. I S. 1674) oder des 2. AAÜG-Änderungsgesetzes vom
 27\. Juli 2001 (BGBl. I S. 1939) beruhen, können insoweit nur mit
 Wirkung für die Zeit nach dem 30. Juni 2004 zurückgenommen werden.
-
 
 ### § 15 Erstattung von Aufwendungen
 
@@ -866,7 +843,6 @@ Bundesland entfallenden Anteil an dem Erstattungsbetrag nach dem
 Verhältnis fest, in dem die Anzahl der Einwohner dieses Landes zu der
 Gesamtzahl der Einwohner im Beitrittsgebiet steht. Die erforderlichen
 Daten teilt das Statistische Bundesamt mit.
-
 
 ### § 16 Verordnungsermächtigung
 
@@ -903,12 +879,10 @@ und berücksichtigungsfähigen Erwerbsersatzeinkommen, die
 Mitwirkungspflichten des Leistungsberechtigten und die Rückforderung
 zuviel gezahlter Versorgungsleistungen zu regeln.
 
-
 ### § 17 Sozialgerichtsverfahren
 
 Über Streitigkeiten auf Grund dieses Gesetzes entscheiden die Gerichte
 der Sozialgerichtsbarkeit.
-
 
 ### § 18 Bußgeldvorschriften
 
@@ -940,7 +914,6 @@ gilt entsprechend. Diese Kasse trägt abweichend von § 105 Abs. 2 des
 Gesetzes über Ordnungswidrigkeiten die notwendigen Auslagen; sie ist
 auch ersatzpflichtig im Sinne des § 110 Abs. 4 des Gesetzes über
 Ordnungswidrigkeiten.
-
 
 ### Anlage 1 Zusatzversorgungssysteme
 
@@ -1073,10 +1046,6 @@ Ordnungswidrigkeiten.
 27. Freiwillige zusätzliche Altersversorgung für hauptamtliche Mitarbeiter
     der SED/PDS, eingeführt mit Wirkung vom 1. August 1968.
 
-
-
-
-
 ### Anlage 2 Sonderversorgungssysteme
 
 
@@ -1096,10 +1065,6 @@ Ordnungswidrigkeiten.
 4.  Sonderversorgung der Angehörigen des ehemaligen Ministeriums für
     Staatssicherheit/Amtes für Nationale Sicherheit, eingeführt mit
     Wirkung vom 1. Januar 1953.
-
-
-
-
 
 ### Anlage 3 Jahreshöchstverdienst nach § 6 Abs. 1
 
@@ -1406,14 +1371,9 @@ bzgl. d. einzelnen Änderungen vgl. Fußnote
 
     *   30.481,48
 
-
-
-
-
 ### Anlage 4
 
 (weggefallen)
-
 
 ### Anlage 5 Mindestgrenze nach § 6 Abs. 2
 
@@ -1628,10 +1588,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 *    *   1.1.-30.6.1990
 
     *   13.660,00
-
-
-
-
 
 ### Anlage 6 Jahreshöchstverdienst nach § 7
 

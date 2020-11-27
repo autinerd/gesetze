@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 2324
 
-
 ## Eingangsformel
 
 Auf Grund des § 35a Absatz 1 Satz 6 und 7 des Fünften Buches
@@ -25,7 +24,6 @@ Artikel 1 Nummer 5 des Gesetzes vom 22. Dezember 2010 (BGBl. I S.
 2262) eingefügt worden ist, verordnet das Bundesministerium für
 Gesundheit:
 
-
 ## § 1 Geltungsbereich
 
 Die Verordnung regelt das Nähere zur Nutzenbewertung von
@@ -33,7 +31,6 @@ erstattungsfähigen Arzneimitteln mit neuen Wirkstoffen nach § 35a des
 Fünften Buches Sozialgesetzbuch. Der Gemeinsame Bundesausschuss regelt
 in seiner Verfahrensordnung weitere Einzelheiten erstmals innerhalb
 eines Monats nach Inkrafttreten der Rechtsverordnung.
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -68,7 +65,6 @@ Vergleichstherapie aufweist.
 diejenige Therapie, deren Nutzen mit dem Nutzen eines Arzneimittels
 mit neuen Wirkstoffen für die Nutzenbewertung nach § 35a des Fünften
 Buches Sozialgesetzbuch verglichen wird.
-
 
 ## § 3 Anwendungsbereich der Nutzenbewertung nach § 35a SGB V
 
@@ -108,10 +104,6 @@ mit neuen Wirkstoffen und neuen Wirkstoffkombinationen,
 
 7.  für die der Gemeinsame Bundesausschuss über eine Nutzenbewertung mit
     Befristung beschlossen hat, wenn die Frist abgelaufen ist.
-
-
-
-
 
 ## § 4 Dossier des pharmazeutischen Unternehmers
 
@@ -253,7 +245,6 @@ Arzneimittel und der zweckmäßigen Vergleichstherapie, sind die damit
 verbundenen Kostenunterschiede für die Feststellung der den
 Krankenkassen tatsächlich entstehenden Kosten zu berücksichtigen.
 
-
 ## § 5 Zusatznutzen
 
 (1) Der Zusatznutzen ist vom pharmazeutischen Unternehmer im Dossier
@@ -390,10 +381,6 @@ der zweckmäßigen Vergleichstherapie wie folgt zu quantifizieren:
     Nutzen der zweckmäßigen Vergleichstherapie; § 7 Absatz 2 Satz 6 bleibt
     unberührt.
 
-
-
-
-
 ## § 6 Zweckmäßige Vergleichstherapie
 
 (1) Die zweckmäßige Vergleichstherapie ist regelhaft zu bestimmen nach
@@ -417,7 +404,6 @@ sein für Bewertungen von Arzneimitteln auf Veranlassung des
 Gemeinsamen Bundesausschusses nach § 35a Absatz 6 des Fünften Buches
 Sozialgesetzbuch, die vor dem 1. Januar 2011 in den Verkehr gebracht
 worden sind.
-
 
 ## § 7 Nutzenbewertung
 
@@ -466,7 +452,6 @@ für die Anerkennung als Praxisbesonderheit oder für die Zuordnung von
 Arzneimitteln ohne Zusatznutzen zu einer Festbetragsgruppe nach § 35
 des Fünften Buches Sozialgesetzbuch.
 
-
 ## § 8 Beratung
 
 (1) Der Gemeinsame Bundesausschuss berät den pharmazeutischen
@@ -500,7 +485,6 @@ gilt unbeschadet der Beratung. Der Anspruch auf Beratung erlischt mit
 Verstreichen des Zeitpunktes nach § 4 Absatz 3 oder mit der
 Einreichung des Dossiers.
 
-
 ## § 9 Offenlegung
 
 (1) Das Dossier wird gleichzeitig mit der Nutzenbewertung nach § 7
@@ -517,7 +501,6 @@ zur Offenlegung der Studienergebnisse nicht entgegenstehen.
 (3) Der Gemeinsame Bundesausschuss kann mit den maßgeblichen Verbänden
 der pharmazeutischen Industrie und mit pharmazeutischen Unternehmern
 das Nähere durch Vereinbarung regeln.
-
 
 ## § 10 Übergangsregelungen
 
@@ -536,7 +519,6 @@ nach der Mitteilung des Gemeinsamen Bundesausschusses nach Absatz 1
 vorzulegen; § 4 Absatz 4 gilt entsprechend. Der Zeitpunkt der erneuten
 Vorlage des Dossiers ist für die Frist zum Abschluss der
 Nutzenbewertung nach § 7 Absatz 3 maßgeblich.
-
 
 ## § 11 Inkrafttreten
 

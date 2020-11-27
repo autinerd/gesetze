@@ -15,12 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1962, 447
 
-
-
 ## Art 1
 
 -
-
 
 ## Art 2
 
@@ -35,7 +32,6 @@ des öffentlichen Dienstes ist entsprechend anzuwenden.
 
 (2) Für den Soldaten auf Zeit gilt Absatz 1 entsprechend, wenn seine
 Verpflichtungszeit noch nicht abgelaufen ist.
-
 
 ## Art 3
 

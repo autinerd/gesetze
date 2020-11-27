@@ -21,7 +21,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 5 Abs. 41 G v. 24.2.2012 I 212 (1474)
 
-
 ## § 1 Anwendungsbereich
 
 (1) Diese Verordnung gilt ergänzend zu der Verordnung (EG) Nr.
@@ -47,10 +46,6 @@ Zuletzt geändert durch
 3.  in Luftfahrzeugen, die nicht im Geltungsbereich dieser Verordnung
     eingetragen und zugelassen sind.
 
-
-
-
-
 ## § 2 Anzeige der Verwendung von Halonen
 
 Wer nach Maßgabe des Artikels 13 Absatz 1 der Verordnung (EG) Nr.
@@ -65,7 +60,6 @@ Maßnahmen schriftlich anzuzeigen, soweit nicht der zuständigen Behörde
 diese Angaben bereits auf Grund der Berichte gemäß Artikel 27 der
 Verordnung (EG) Nr. 1005/2009 in Durchschrift zugehen oder zugegangen
 sind.
-
 
 ## § 3 Rückgewinnung und Rücknahme verwendeter Stoffe
 
@@ -130,7 +124,6 @@ erforderlichen Schnittstellen nach § 18 Absatz 1 Satz 2 der
 Nachweisverordnung vom Bundesministerium für Umwelt, Naturschutz und
 Reaktorsicherheit bekannt gegeben werden.
 
-
 ## § 4 Verhinderung des Austritts in die Atmosphäre; Dichtheitsprüfungen; Aufzeichnungs- und Aufbewahrungspflicht
 
 (1) Wer Einrichtungen oder Produkte, die geregelte Stoffe im Sinne von
@@ -178,7 +171,6 @@ werden. Die §§ 239 und 261 des Handelsgesetzbuchs in der im
 Bundesgesetzblatt Teil III, Gliederungsnummer 4100-1, veröffentlichten
 bereinigten Fassung, das zuletzt durch Artikel 6a des Gesetzes vom 31.
 Juli 2009 (BGBl. I S. 2512) geändert worden ist, gelten sinngemäß.
-
 
 ## § 5 Persönliche Voraussetzungen für bestimmte Arbeiten
 
@@ -310,7 +302,6 @@ Antragstellung im Original oder in Kopie vorzulegen. Eine Beglaubigung
 der Kopie sowie eine beglaubigte deutsche Übersetzung können verlangt
 werden.
 
-
 ## § 6 Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 26 Absatz 1 Nummer 7 Buchstabe a des
@@ -368,7 +359,6 @@ entgegen § 3 Absatz 3 Satz 1 oder Satz 2 eine dort genannte
 Aufzeichnung nicht, nicht richtig oder nicht vollständig führt, nicht
 oder nicht mindestens drei Jahre aufbewahrt oder nicht oder nicht
 rechtzeitig vorlegt.
-
 
 ## § 7 (Inkrafttreten)
 

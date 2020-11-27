@@ -18,7 +18,6 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 2.1.1975 I 289
 
-
 ## § 1
 
 (1) Alkoholische Waren im Sinne dieses Gesetzes sind Alkohol
@@ -39,7 +38,6 @@ erforderliche Menge nicht überschreiten und bei der Einreise in einen
 der in § 3 genannten Staaten nach dessen Zollvorschriften angemeldet
 werden.
 
-
 ## § 2
 
 (1) Schiffen von weniger als 100 Registertonnen Nettoraumgehalt ist
@@ -49,7 +47,6 @@ sonstige Verbringen aus dem Geltungsbereich dieses Gesetzes, verboten.
 (2) Diese Vorschrift gilt nicht für mechanisch angetriebene Schiffe in
 regelmäßiger Linienfahrt und für die Beförderung auf Binnengewässern.
 
-
 ## § 3
 
 Schiffe von geringerem als 500 Registertonnen Nettoraumgehalt, die
@@ -58,7 +55,6 @@ Alkoholschmuggels vom 19. August 1925 beigetreten ist, dürfen
 alkoholische Waren nur ausführen oder sonst aus dem Geltungsbereich
 dieses Gesetzes verbringen, wenn sie im Besitz einer schriftlichen
 amtlichen Genehmigung der zuständigen Behörde des Heimatlandes sind.
-
 
 ## § 4
 
@@ -73,7 +69,6 @@ Zeugnis einer in Sachen des Handels und der Schiffahrt zuständigen
 (3) Die Genehmigung wird für die Dauer von 3 Jahren von dem Tage der
 Ausstellung ab erteilt; sie erlischt, wenn das Schiff den Reeder
 wechselt.
-
 
 ## § 5
 
@@ -93,10 +88,6 @@ dieses Gesetzes darf nur erfolgen,
 
 3.  wenn die in § 6 vorgeschriebenen Nachweise über die frühere Ausfuhr
     von alkoholischen Waren geführt sind.
-
-
-
-
 
 ## § 6
 
@@ -122,13 +113,11 @@ Nachweis in anderer ausreichender Weise geführt werden.
 Havarien oder aus anderen stichhaltigen Gründen den ordnungsmäßigen
 Nachweis nicht führen, so hat er diese Hinderungsgründe nachzuweisen.
 
-
 ## § 7
 
 Die zur Durchführung der §§ 2 bis 6 erforderlichen Maßnahmen sind von
 den Regierungen der Küstenländer zu treffen. Die Zollverwaltung ist in
 dem durch die jeweiligen Verhältnisse gebotenen Umfang zu beteiligen.
-
 
 ## § 8
 
@@ -160,13 +149,11 @@ ist anzuwenden.
 werden, wenn sie nicht im Geltungsbereich dieses Gesetzes begangen
 wird.
 
-
 ## § 9
 
 Im Falle nachgewiesenen Mißbrauchs kann die in § 3 erwähnte
 Genehmigung deutschen Schiffen durch die Hafenbehörde, die sie erteilt
 hat, wieder entzogen werden.
-
 
 ## § 10
 

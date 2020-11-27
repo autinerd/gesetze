@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 285 G v. 2.3.1974 I 469
 
-
 ## § 1 Verpflichtung
 
 (1) Frachtstücke oder andere Gegenstände von mindestens 1.000
@@ -40,11 +39,9 @@ Gegenstand bereits mit einer Gewichtsbezeichnung versehen, so ist der
 Absender zum Nachwiegen nur dann verpflichtet, wenn die Gewichtsangabe
 unglaubhaft erscheint.
 
-
 ## § 2
 
 -
-
 
 ## § 3 Überwachungs- und Zwangsvorschriften
 
@@ -66,14 +63,12 @@ die Beitreibung öffentlicher Abgaben.
 
 (3)
 
-
 ## § 3a Bußgeldvorschrift
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig entgegen §
 1 die vorgeschriebene Gewichtsbezeichnung nicht anbringt.
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße geahndet werden.
-
 
 ## § 4 Inkrafttreten
 

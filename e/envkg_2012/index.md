@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1070
 
-
 ## § 1 Anwendungsbereich
 
 (1) Dieses Gesetz gilt für die Kennzeichnung von Produkten mit Angaben
@@ -41,10 +40,6 @@ dieses Gesetzes erfasst.
 
 3.  Produkte, die ausschließlich zur Verwendung für militärische Zwecke
     bestimmt sind.
-
-
-
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -299,10 +294,6 @@ Im Sinne dieses Gesetzes
     die Zollbehörden gemäß § 17 Absatz 2 Satz 2 des
     Zollverwaltungsgesetzes.
 
-
-
-
-
 ## § 3 Allgemeine Anforderungen an die Verbrauchskennzeichnung, an sonstige Produktinformationen sowie an Informationen in der Werbung und in sonstigen Werbeinformationen
 
 (1) Ein Produkt darf nur dann angeboten oder ausgestellt werden, wenn
@@ -372,7 +363,6 @@ der Europäischen Union Anforderungen an die Werbung festgelegt sind,
 haben der Hersteller des Kraftfahrzeugs, der Lieferant und der Händler
 die hierin genannten Angaben zu machen. Das gilt entsprechend für
 sonstige Werbeinformationen.
-
 
 ## § 4 Ermächtigung zum Erlass von Rechtsverordnungen
 
@@ -516,10 +506,6 @@ Folgendes regeln:
     Umwelt, Naturschutz und Reaktorsicherheit sowie dem Bundesministerium
     für Verkehr, Bau und Stadtentwicklung.
 
-
-
-
-
 ## § 5 Zuständigkeit für die Marktüberwachung und Zusammenarbeit; Verordnungsermächtigung
 
 (1) Die Marktüberwachung obliegt vorbehaltlich des Satzes 3 den nach
@@ -583,7 +569,6 @@ oder vollständigen Überwachung der Anforderungen dieses Gesetzes,
 einer Rechtsverordnung nach § 4 oder einer Verordnung der Europäischen
 Union zu beleihen.
 
-
 ## § 6 Marktüberwachungskonzept
 
 (1) Die Marktüberwachungsbehörden haben für die in einer
@@ -617,7 +602,6 @@ Marktüberwachungskonzepts sicher.
 Nummer 2 der Öffentlichkeit in nicht personenbezogener Form auf
 elektronischem Weg und gegebenenfalls in anderer Form zur Verfügung.
 
-
 ## § 7 Vermutungswirkung
 
 Werden die in diesem Gesetz, einer Rechtsverordnung nach § 4 oder
@@ -625,7 +609,6 @@ einer Verordnung der Europäischen Union festgelegten
 Verbrauchskennzeichnungen für Produkte und sonstige
 Produktinformationen verwendet, so wird bis zum Beweis des Gegenteils
 vermutet, dass diese den dort genannten Anforderungen entsprechen.
-
 
 ## § 8 Stichprobenkontrollen und Marktüberwachungsmaßnahmen
 
@@ -723,7 +706,6 @@ Kenntnis zu setzen.
 (6) Die Marktüberwachungsbehörden informieren und unterstützen sich
 gegenseitig bei Marktüberwachungsmaßnahmen nach den Absätzen 1 bis 4.
 
-
 ## § 9 Adressaten der Stichprobenkontrollen und Marktüberwachungsmaßnahmen
 
 (1) Die Stichprobenkontrollen und Maßnahmen der
@@ -740,7 +722,6 @@ Maßnahme wird daraufhin umgehend überprüft.
 
 (3) Für alle Marktüberwachungsmaßnahmen nach § 8 Absatz 2 bis 4 gilt §
 59 der Verwaltungsgerichtsordnung entsprechend.
-
 
 ## § 10 Betretensrechte, Befugnisse und Duldungspflichten
 
@@ -798,7 +779,6 @@ Geschäftstätigkeit energieverbrauchsrelevante Produkte im Sinne des §
 2 Nummer 4 der Energieverbrauchskennzeichnungsverordnung in Betrieb
 genommen werden.
 
-
 ## § 11 Meldeverfahren
 
 (1) Trifft die Marktüberwachungsbehörde Maßnahmen nach § 8 Absatz 4,
@@ -848,7 +828,6 @@ Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum.
 
 (4) Für den Informationsaustausch sind so weit wie möglich
 elektronische Kommunikationsmittel zu benutzen.
-
 
 ## § 12 Berichtspflichten
 
@@ -903,14 +882,12 @@ personenbezogener Form auf elektronischem Weg und gegebenenfalls in
 anderer Form zur Verfügung. Der erste Bericht muss spätestens bis zum
 19\. Juni 2014 der Europäischen Kommission übermittelt werden.
 
-
 ## § 13 Beauftragte Stelle
 
 Beauftragte Stelle für die Verbrauchskennzeichnung von
 energieverbrauchsrelevanten Produkten im Anwendungsbereich der
 Energieverbrauchskennzeichnungsverordnung ist die Bundesanstalt für
 Materialforschung und -prüfung.
-
 
 ## § 14 Aufgaben der beauftragten Stelle
 
@@ -941,7 +918,6 @@ der Europäischen Union zu erfüllen.
 Wirtschaft und Technologie im Prozess der Verabschiedung von
 Verordnungen der Europäischen Union auf der Grundlage des Artikels 10
 der Richtlinie 2010/30/EU.
-
 
 ## § 15 Bußgeldvorschriften; Verordnungsermächtigung
 

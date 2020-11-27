@@ -15,17 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1992, 1370
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## (XXXX) Art 1 und 2
-
-
 
 ## Art 3
 
@@ -39,27 +34,17 @@ beschlossen:
     gesetzt. Diese Rechtsverordnungen können auf Grund der einschlägigen
     Ermächtigungen durch Rechtsverordnung geändert werden.
 
-
-
-
-
 ## (XXXX) Art 4 bis 6
-
-
 
 ## Art 7 Gesetz zur Übernahme der Beamten und Arbeitnehmer der Bundesanstalt für Flugsicherung
 
 -
 
-
 ## (XXXX) Art 8 und 9
-
-
 
 ## Art 10
 
 -
-
 
 ## Art 11
 

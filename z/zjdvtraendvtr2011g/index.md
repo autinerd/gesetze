@@ -19,7 +19,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1222
 
-
 ## Art 1
 
 (1) Dem in Berlin am 30. November 2011 unterzeichneten Vertrag
@@ -31,7 +30,6 @@ des öffentlichen Rechts – (BGBl. I S. 1597), zuletzt geändert durch
 den Vertrag vom 3. März 2008 (BGBl. I S. 2398), wird zugestimmt.
 
 (2) Der Vertrag wird nachstehend veröffentlicht.
-
 
 ## Art 2
 

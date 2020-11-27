@@ -15,18 +15,14 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1984, 1716
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art 1
 
 -
-
 
 ## Art 2
 
@@ -44,18 +40,11 @@ beschlossen:
     geändert worden ist, in Verbindung mit diesem Absatz durch
     Rechtsverordnung geändert werden.
 
-
-
-
-
 ## (XXXX) Art 3 u. 4
-
-
 
 ## Art 5
 
 -
-
 
 ## Art 6 Berlin-Klausel
 
@@ -63,7 +52,6 @@ Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin. Rechtsverordnungen, die auf
 Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14
 des Dritten Überleitungsgesetzes.
-
 
 ## Art 7 Inkrafttreten, Außerkrafttreten von Vorschriften
 

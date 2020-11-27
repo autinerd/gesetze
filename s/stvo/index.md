@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 1.12.2010 I 1737
 
-
 ## Eingangsformel
 
 Auf Grund des § 6 Abs. 1 des Straßenverkehrsgesetzes in der Fassung
@@ -27,10 +26,7 @@ zuletzt geändert durch Artikel 23 des Kostenermächtigungs-
 Änderungsgesetzes vom 23. Juni 1970 (Bundesgesetzbl. I S. 805), wird
 mit Zustimmung des Bundesrates verordnet:
 
-
 ## I. - Allgemeine Verkehrsregeln
-
-
 
 ### § 1 Grundregeln
 
@@ -40,7 +36,6 @@ gegenseitige Rücksicht.
 (2) Jeder Verkehrsteilnehmer hat sich so zu verhalten, daß kein
 Anderer geschädigt, gefährdet oder mehr, als nach den Umständen
 unvermeidbar, behindert oder belästigt wird.
-
 
 ### § 2 Straßenbenutzung durch Fahrzeuge
 
@@ -91,7 +86,6 @@ benutzen.
 zum vollendeten 10. Lebensjahr dürfen mit Fahrrädern Gehwege benutzen.
 Auf Fußgänger ist besondere Rücksicht zu nehmen. Beim Überqueren einer
 Fahrbahn müssen die Kinder absteigen.
-
 
 ### § 3 Geschwindigkeit
 
@@ -174,7 +168,6 @@ Umständen
 (4) Die zulässige Höchstgeschwindigkeit beträgt für Kraftfahrzeuge mit
 Schneeketten auch unter günstigsten Umständen 50 km/h.
 
-
 ### § 4 Abstand
 
 (1) Der Abstand von einem vorausfahrenden Fahrzeug muß in der Regel so
@@ -203,7 +196,6 @@ Abstand von dem vorausfahrenden Kraftfahrzeug halten, daß ein
 Kraftomnibusse müssen auf Autobahnen, wenn ihre Geschwindigkeit mehr
 als 50 km/h beträgt, von vorausfahrenden Fahrzeugen einen
 Mindestabstand von 50 m einhalten.
-
 
 ### § 5 Überholen
 
@@ -262,7 +254,6 @@ dürfen Schienenfahrzeuge auch links überholt werden.
 Fahrzeuge, die auf dem rechten Fahrstreifen warten, mit mäßiger
 Geschwindigkeit und besonderer Vorsicht rechts überholen.
 
-
 ### § 6 Vorbeifahren
 
 Wer an einer Fahrbahnverengung, einem Hindernis auf der Fahrbahn oder
@@ -272,7 +263,6 @@ der Vorrang durch Verkehrszeichen (Zeichen 208, 308) anders geregelt
 ist. Muß er ausscheren, so hat er auf den nachfolgenden Verkehr zu
 achten und das Ausscheren sowie das Wiedereinordnen - wie beim
 Überholen - anzukündigen.
-
 
 ### § 7 Benutzung von Fahrstreifen durch Kraftfahrzeuge
 
@@ -335,7 +325,6 @@ eine Gefährdung anderer Verkehrsteilnehmer ausgeschlossen ist. Jeder
 Fahrstreifenwechsel ist rechtzeitig und deutlich anzukündigen; dabei
 sind die Fahrtrichtungsanzeiger zu benutzen.
 
-
 ### § 7a Abgehende Fahrstreifen, Einfädelungsstreifen und Ausfädelungsstreifen
 
 (1) Gehen Fahrstreifen, insbesondere auf Autobahnen und
@@ -352,7 +341,6 @@ auf den durchgehenden Fahrstreifen. Stockt oder steht der Verkehr auf
 den durchgehenden Fahrstreifen, so darf auf dem Ausfädelungsstreifen
 mit mäßiger Geschwindigkeit und besonderer Vorsicht vorbeigefahren
 werden.
-
 
 ### § 8 Vorfahrt
 
@@ -386,7 +374,6 @@ wenn der, der die Vorfahrt hat, in die andere Straße abbiegt, darf ihn
 der Wartepflichtige nicht wesentlich behindern.
 
 (3) (weggefallen)
-
 
 ### § 9 Abbiegen, Wenden und Rückwärtsfahren
 
@@ -429,11 +416,9 @@ verhalten, daß eine Gefährdung anderer Verkehrsteilnehmer
 ausgeschlossen ist; erforderlichenfalls hat er sich einweisen zu
 lassen.
 
-
 ### § 9a (weggefallen)
 
 -
-
 
 ### § 10 Einfahren und Anfahren
 
@@ -447,7 +432,6 @@ erforderlichenfalls hat er sich einweisen zu lassen. Er hat seine
 Absicht rechtzeitig und deutlich anzukündigen; dabei sind die
 Fahrtrichtungsanzeiger zu benutzen. Dort, wo eine Klarstellung
 notwendig ist, kann Zeichen 205 stehen.
-
 
 ### § 11 Besondere Verkehrslagen
 
@@ -466,7 +450,6 @@ freie Gasse bilden.
 anderweitig Vorrang hat, muß darauf verzichten, wenn die Verkehrslage
 es erfordert; auf einen Verzicht darf der andere nur vertrauen, wenn
 er sich mit dem Verzichtenden verständigt hat.
-
 
 ### § 12 Halten und Parken
 
@@ -569,7 +552,6 @@ freiwerdenden Parklücke warten.
 (6) Es ist platzsparend zu parken; das gilt in der Regel auch für das
 Halten.
 
-
 ### § 13 Einrichtungen zur Überwachung der Parkzeit
 
 (1) An Parkuhren darf nur während des Laufens der Uhr, an
@@ -617,10 +599,6 @@ brauchen nicht betätigt zu werden
 
 2.  zum Be- oder Entladen.
 
-
-
-
-
 ### § 14 Sorgfaltspflichten beim Ein- und Aussteigen
 
 (1) Wer ein- oder aussteigt, muß sich so verhalten, daß eine
@@ -629,7 +607,6 @@ Gefährdung anderer Verkehrsteilnehmer ausgeschlossen ist.
 (2) Verläßt der Führer sein Fahrzeug, so muß er die nötigen Maßnahmen
 treffen, um Unfälle oder Verkehrsstörungen zu vermeiden.
 Kraftfahrzeuge sind auch gegen unbefugte Benutzung zu sichern.
-
 
 ### § 15 Liegenbleiben von Fahrzeugen
 
@@ -641,7 +618,6 @@ aufzustellen, und zwar bei schnellem Verkehr in etwa 100 m Entfernung;
 vorgeschriebene Sicherungsmittel, wie Warndreiecke, sind zu verwenden.
 Darüber hinaus gelten die Vorschriften über die Beleuchtung haltender
 Fahrzeuge.
-
 
 ### § 15a Abschleppen von Fahrzeugen
 
@@ -656,7 +632,6 @@ Fahrzeugs darf nicht in die Autobahn eingefahren werden.
 einzuschalten.
 
 (4) Krafträder dürfen nicht abgeschleppt werden.
-
 
 ### § 16 Warnzeichen
 
@@ -684,7 +659,6 @@ Straßen.
 
 (3) Schallzeichen dürfen nicht aus einer Folge verschieden hoher Töne
 bestehen.
-
 
 ### § 17 Beleuchtung
 
@@ -741,7 +715,6 @@ Seite anzubringen oder zu tragen.
 
 (6) Suchscheinwerfer dürfen nur kurz und nicht zum Beleuchten der
 Fahrbahn benutzt werden.
-
 
 ### § 18 Autobahnen und Kraftfahrstraßen
 
@@ -874,7 +847,6 @@ Sichtweite durch erheblichen Schneefall oder Regen auf 50 m oder
 weniger eingeschränkt ist, sowie bei Schneeglätte oder Glatteis den
 äußerst linken Fahrstreifen nicht benutzen.
 
-
 ### § 19 Bahnübergänge
 
 (1) Schienenfahrzeuge haben Vorrang
@@ -936,7 +908,6 @@ entsprechend.
 
 (6) Die Scheinwerfer wartender Kraftfahrzeuge dürfen niemand blenden.
 
-
 ### § 20 Öffentliche Verkehrsmittel und Schulbusse
 
 (1) An Omnibussen des Linienverkehrs, an Straßenbahnen und an
@@ -970,7 +941,6 @@ andere Fahrzeuge warten.
 (6) Personen, die öffentliche Verkehrsmittel benutzen wollen, müssen
 sie auf den Gehwegen, den Seitenstreifen oder einer Haltestelleninsel,
 sonst am Rand der Fahrbahn erwarten.
-
 
 ### § 21 Personenbeförderung
 
@@ -1067,7 +1037,6 @@ Lebensjahr von mindestens 16 Jahre alten Personen mitgenommen werden.
 Die Begrenzung auf das vollendete siebte Lebensjahr gilt nicht für die
 Beförderung eines behinderten Kindes.
 
-
 ### § 21a Sicherheitsgurte, Schutzhelme
 
 (1) Vorgeschriebene Sicherheitsgurte müssen während der Fahrt angelegt
@@ -1105,7 +1074,6 @@ mit einer bauartbedingten Höchstgeschwindigkeit von über 20 km/h führt
 sowie auf oder in ihnen mitfährt, muss während der Fahrt einen
 geeigneten Schutzhelm tragen. Dies gilt nicht, wenn vorgeschriebene
 Sicherheitsgurte angelegt sind.
-
 
 ### § 22 Ladung
 
@@ -1165,7 +1133,6 @@ Leuchte mit weißem, nach hinten durch eine mit rotem Licht. Einzelne
 Stangen oder Pfähle, waagerecht liegende Platten und andere schlecht
 erkennbare Gegenstände dürfen seitlich nicht hinausragen.
 
-
 ### § 23 Sonstige Pflichten des Fahrzeugführers
 
 (1) Der Fahrzeugführer ist dafür verantwortlich, daß seine Sicht und
@@ -1203,7 +1170,6 @@ Fahrzeuge anhängen. Sie dürfen nicht freihändig fahren. Die Füße
 dürfen sie nur dann von den Pedalen oder den Fußrasten nehmen, wenn
 der Straßenzustand das erfordert.
 
-
 ### § 24 Besondere Fortbewegungsmittel
 
 (1) Schiebe- und Greifreifenrollstühle, Rodelschlitten, Kinderwagen,
@@ -1215,7 +1181,6 @@ gelten die Vorschriften für den Fußgängerverkehr entsprechend.
 (2) Mit Krankenfahrstühlen oder mit anderen als in Absatz 1 genannten
 Rollstühlen darf dort, wo Fußgängerverkehr zulässig ist, gefahren
 werden, jedoch nur mit Schrittgeschwindigkeit.
-
 
 ### § 25 Fußgänger
 
@@ -1252,7 +1217,6 @@ der abgesperrten Straßenfläche.
 Straßenverkehr dienen, dürfen nur an den dafür vorgesehenen Stellen
 betreten werden.
 
-
 ### § 26 Fußgängerüberwege
 
 (1) An Fußgängerüberwegen haben Fahrzeuge mit Ausnahme von
@@ -1268,7 +1232,6 @@ fahren, wenn sie auf ihm warten müßten.
 
 (4) Führt die Markierung über einen Radweg oder einen anderen
 Straßenteil, so gelten diese Vorschriften entsprechend.
-
 
 ### § 27 Verbände
 
@@ -1302,7 +1265,6 @@ geschlossene Verbände geltenden Vorschriften befolgt werden.
 
 (6) Auf Brücken darf nicht im Gleichschritt marschiert werden.
 
-
 ### § 28 Tiere
 
 (1) Haus- und Stalltiere, die den Verkehr gefährden können, sind von
@@ -1324,10 +1286,6 @@ mindestens verwendet werden:
     blendende Leuchte mit weißem Licht, die auf der linken Seite nach vorn
     und hinten gut sichtbar mitzuführen ist.
 
-
-
-
-
 ### § 29 Übermäßige Straßenbenutzung
 
 (1) Rennen mit Kraftfahrzeugen sind verboten.
@@ -1346,7 +1304,6 @@ Abmessungen, Achslasten oder Gesamtgewichte die gesetzlich allgemein
 zugelassenen Grenzen tatsächlich überschreiten. Das gilt auch für den
 Verkehr mit Fahrzeugen, deren Bauart dem Führer kein ausreichendes
 Sichtfeld läßt.
-
 
 ### § 30 Umweltschutz und Sonntagsfahrverbot
 
@@ -1418,7 +1375,6 @@ Allerheiligen (1. November), jedoch nur in Baden-Württemberg, Bayern, Nordrhein
 
 1\. und 2. Weihnachtstag.
 
-
 ### § 31 Sport und Spiel
 
 (1) Sport und Spiel auf der Fahrbahn, den Seitenstreifen und auf
@@ -1434,7 +1390,6 @@ Vorsicht und unter besonderer Rücksichtnahme auf den übrigen Verkehr
 am rechten Rand in Fahrtrichtung zu bewegen und Fahrzeugen das
 Überholen zu ermöglichen.
 
-
 ### § 32 Verkehrshindernisse
 
 (1) Es ist verboten, die Straße zu beschmutzen oder zu benetzen oder
@@ -1448,7 +1403,6 @@ lichttechnische Einrichtungen kenntlich zu machen.
 
 (2) Sensen, Mähmesser oder ähnlich gefährliche Geräte sind wirksam zu
 verkleiden.
-
 
 ### § 33 Verkehrsbeeinträchtigungen
 
@@ -1482,7 +1436,6 @@ Absatzes 2 Satz 2 sind in der Hinweisbeschilderung für Nebenbetriebe
 an den Bundesautobahnen und für Autohöfe Hinweise auf
 Dienstleistungen, die unmittelbar den Belangen der Verkehrsteilnehmer
 auf den Bundesautobahnen dienen.
-
 
 ### § 34 Unfall
 
@@ -1546,7 +1499,6 @@ den Umständen zum Unfall beigetragen haben kann.
 
 (3) Unfallspuren dürfen nicht beseitigt werden, bevor die notwendigen
 Feststellungen getroffen worden sind.
-
 
 ### § 35 Sonderrechte
 
@@ -1614,10 +1566,7 @@ hoheitlicher Einsatz dies erfordert.
 (8) Die Sonderrechte dürfen nur unter gebührender Berücksichtigung der
 öffentlichen Sicherheit und Ordnung ausgeübt werden.
 
-
 ## II. - Zeichen und Verkehrseinrichtungen
-
-
 
 ### § 36 Zeichen und Weisungen der Polizeibeamten
 
@@ -1665,7 +1614,6 @@ Winkerkelle oder eine rote Leuchte geben. Mit diesen Zeichen kann auch
 ein vorausfahrender Verkehrsteilnehmer angehalten werden. Die
 Verkehrsteilnehmer haben die Anweisungen der Polizeibeamten zu
 befolgen.
-
 
 ### § 37 Wechsellichtzeichen, Dauerlichtzeichen und Grünpfeil
 
@@ -1756,7 +1704,6 @@ werden, auch wenn die Verkehrsdichte das nicht rechtfertigt.
 (5) Fahrzeugführer dürfen auf Fahrstreifen mit Dauerlichtzeichen nicht
 halten.
 
-
 ### § 38 Blaues Blinklicht und gelbes Blinklicht
 
 (1) Blaues Blinklicht zusammen mit dem Einsatzhorn darf nur verwendet
@@ -1778,7 +1725,6 @@ nur zulässig, um vor Arbeits- oder Unfallstellen, vor ungewöhnlich
 langsam fahrenden Fahrzeugen oder vor Fahrzeugen mit ungewöhnlicher
 Breite oder Länge oder mit ungewöhnlich breiter oder langer Ladung zu
 warnen.
-
 
 ### § 39 Verkehrszeichen
 
@@ -1946,9 +1892,6 @@ folgender Bedeutung angeordnet werden:
 
 *    *        ![bgbl1_2009_j2631-1_0020.jpg](bgbl1_2009_j2631-1_0020.jpg)
 
-
-
-
 ### § 40 Gefahrzeichen
 
    (1) Gefahrzeichen mahnen zu erhöhter Aufmerksamkeit, insbesondere zur
@@ -1974,7 +1917,6 @@ falls diese in der anderen Straße liegt.
 (7) Besondere Gefahrzeichen vor Übergängen von Schienenbahnen mit
 Vorrang ergeben sich aus Anlage 1 Abschnitt 2.
 
-
 ### § 41 Vorschriftzeichen
 
 (1) Jeder Verkehrsteilnehmer hat die durch Vorschriftzeichen nach
@@ -1985,7 +1927,6 @@ von wo an die Anordnung zu befolgen ist. Soweit die Zeichen aus
 Gründen der Leichtigkeit oder der Sicherheit des Verkehrs in einer
 bestimmten Entfernung zum Beginn der Befolgungspflicht stehen, ist die
 Entfernung zu dem maßgeblichen Ort auf einem Zusatzzeichen angegeben.
-
 
 ### § 42 Richtzeichen
 
@@ -2000,7 +1941,6 @@ wo an die Anordnung zu befolgen ist. Soweit die Zeichen aus Gründen
 der Leichtigkeit oder der Sicherheit des Verkehrs in einer bestimmten
 Entfernung zum Beginn der Befolgungspflicht stehen, ist die Entfernung
 zu dem maßgeblichen Ort auf einem Zusatzzeichen angegeben.
-
 
 ### § 43 Verkehrseinrichtungen
 
@@ -2027,16 +1967,7 @@ halten, können amtlich geprüfte Park-Warntafeln verwendet werden.
         ![pdf_grafik_stvo_b0214.jpg](pdf_grafik_stvo_b0214.jpg)
         Park-Warntafel
 
-
-
-
-
-
-
-
 ## III. - Durchführungs-, Bußgeld- und Schlußvorschriften
-
-
 
 ### § 44 Sachliche Zuständigkeit
 
@@ -2092,7 +2023,6 @@ oder durch die Truppen der nichtdeutschen Vertragsstaaten des
 Nordatlantikpakts; sie erteilen auch die Erlaubnis für die übermäßige
 Benutzung der Straße durch die Bundespolizei, die Polizei und den
 Katastrophenschutz.
-
 
 ### § 45 Verkehrszeichen und Verkehrseinrichtungen
 
@@ -2323,7 +2253,6 @@ für die Sicherheit des Verkehrs unbedingt erforderlich ist, weil auch
 ein aufmerksamer Verkehrsteilnehmer die Gefahr nicht oder nicht
 rechtzeitig erkennen kann und auch nicht mit ihr rechnen muß.
 
-
 ### § 46 Ausnahmegenehmigung und Erlaubnis
 
 (1) Die Straßenverkehrsbehörden können in bestimmten Einzelfällen oder
@@ -2430,7 +2359,6 @@ Bescheide.
 für den Geltungsbereich dieser Verordnung wirksam, sofern sie nicht
 einen anderen Geltungsbereich nennen.
 
-
 ### § 47 Örtliche Zuständigkeit
 
 (1) Die Erlaubnis nach § 29 Abs. 2 und nach § 30 Abs. 2 erteilt für
@@ -2502,14 +2430,12 @@ die Polizei und den Katastrophenschutz erteilt die höhere
 Verwaltungsbehörde oder die nach Landesrecht bestimmte Stelle, in
 deren Bezirk der erlaubnispflichtige Verkehr beginnt.
 
-
 ### § 48 Verkehrsunterricht
 
 Wer Verkehrsvorschriften nicht beachtet, ist auf Vorladung der
 Straßenverkehrsbehörde oder der von ihr beauftragten Beamten
 verpflichtet, an einem Unterricht über das Verhalten im Straßenverkehr
 teilzunehmen.
-
 
 ### § 49 Ordnungswidrigkeiten
 
@@ -2764,15 +2690,10 @@ handelt schließlich, wer vorsätzlich oder fahrlässig
 7.  entgegen § 50 auf der Insel Helgoland ein Kraftfahrzeug führt oder mit
     einem Fahrrad fährt.
 
-
-
-
-
 ### § 50 Sonderregelung für die Insel Helgoland
 
 Auf der Insel Helgoland sind der Verkehr mit Kraftfahrzeugen und das
 Radfahren verboten.
-
 
 ### § 51 Besondere Kostenregelung
 
@@ -2780,13 +2701,11 @@ Die Kosten der Zeichen 386.1, 386.2 und 386.3 trägt abweichend von §
 5b Absatz 1 des Straßenverkehrsgesetzes derjenige, der die Aufstellung
 dieser Zeichen beantragt hat.
 
-
 ### § 52 Entgelt für die Benutzung tatsächlich-öffentlicher Verkehrsflächen
 
 Diese Verordnung steht der Erhebung von Entgelten für die Benutzung
 von Verkehrsflächen, an denen kein Gemeingebrauch besteht, auf Grund
 anderer als straßenverkehrsrechtlicher Bestimmungen nicht entgegen.
-
 
 ### § 53 Inkrafttreten
 
@@ -2811,7 +2730,6 @@ bis zum 31. August 2019 gültig.
 (6) An Lichtzeichenanlagen mit Radverkehrsführungen ohne besondere
 Lichtzeichen für Radfahrer müssen Radfahrer bis zum 31. August 2012
 weiterhin die Lichtzeichen für Fußgänger beachten.
-
 
 ### Anlage 1 (zu § 40 Absatz 6 und 7) Allgemeine und Besondere Gefahrzeichen
 
@@ -3008,9 +2926,6 @@ weiterhin die Lichtzeichen für Fußgänger beachten.
         ![bgbl1_2009_j2631-1_0250.jpg](bgbl1_2009_j2631-1_0250.jpg)        Einstreifige Bake
 
     *   Einstreifige Bake etwa 80 m vor dem Bahnübergang
-
-
-
 
 ### Anlage 2 (zu § 41 Absatz 1) Vorschriftzeichen
 
@@ -4379,9 +4294,6 @@ weiterhin die Lichtzeichen für Fußgänger beachten.
         angeordnet, wie Fahrzeuge aufzustellen sind. Wo sie mit durchgehenden
         Linien markiert sind, dürfen diese überfahren werden.
 
-
-
-
 ### Anlage 3 (zu § 42 Absatz 2) Richtzeichen
 
 (Fundstelle: BGBl. I 2009, 2656 - 2669)
@@ -5526,10 +5438,6 @@ weiterhin die Lichtzeichen für Fußgänger beachten.
         Das Zeichen kündigt eine durch die Zeichen „Vorgeschriebene
         Fahrtrichtung“ (Zeichen 209 bis 214) vorgegebene Verkehrsführung an.
 
-
-
-
-
 ### Anlage 4 (zu 43 Absatz 3) Verkehrseinrichtungen
 
 (Fundstelle: BGBl. I 2009, 2670 - 2672)
@@ -5684,9 +5592,6 @@ weiterhin die Lichtzeichen für Fußgänger beachten.
         ![bgbl1_2009_j2631-1_2020.jpg](bgbl1_2009_j2631-1_2020.jpg)        Parkwarntafel
 
     *
-
-
-
 
 ### Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet B Abschnitt III (BGBl. II 1990, 889, 1104) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 

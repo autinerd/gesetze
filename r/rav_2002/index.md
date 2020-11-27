@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 1799
 
-
-
 ## Eingangsformel
 
 Auf Grund
@@ -50,14 +48,12 @@ Auf Grund
 
 verordnet die Bundesregierung:
 
-
 ## § 1 Anpassung des aktuellen Rentenwerts und des aktuellen Rentenwerts (Ost)
 
 (1) Der aktuelle Rentenwert beträgt vom 1. Juli 2002 an 25,86 Euro.
 
 (2) Der aktuelle Rentenwert (Ost) beträgt vom 1. Juli 2002 an 22,70
 Euro.
-
 
 ## § 2 Anpassungsfaktor in der Unfallversicherung
 
@@ -71,7 +67,6 @@ Pflegegeld der gesetzlichen Unfallversicherung im Sinne des § 215 Abs.
 5 des Siebten Buches Sozialgesetzbuch für Versicherungsfälle, die vor
 dem 1. Juli 2002 eingetreten sind, werden zum 1. Juli 2002 angepasst.
 Der Anpassungsfaktor beträgt 1,0289.
-
 
 ## § 3 Pflegegeld in der Unfallversicherung
 
@@ -87,10 +82,6 @@ Das Pflegegeld der gesetzlichen Unfallversicherung beträgt vom 1. Juli
     Sozialgesetzbuch anzuwenden ist, zwischen 253 Euro und 1 011 Euro
     monatlich.
 
-
-
-
-
 ## § 4 Anpassung des allgemeinen Rentenwerts und des allgemeinen Rentenwerts (Ost) in der Alterssicherung der Landwirte
 
 (1) Der allgemeine Rentenwert in der Alterssicherung der Landwirte
@@ -99,11 +90,9 @@ beträgt vom 1. Juli 2002 an 11,94 Euro.
 (2) Der allgemeine Rentenwert (Ost) in der Alterssicherung der
 Landwirte beträgt vom 1. Juli 2002 an 10,48 Euro.
 
-
 ## § 5 Inkrafttreten
 
 Diese Verordnung tritt am 1. Juli 2002 in Kraft.
-
 
 ## Schlussformel
 

@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BAnz: 1968, Nr 226
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 1 Abs. 2 Buchstabe b in Verbindung mit § 5 Abs. 2 des
@@ -26,14 +24,12 @@ Sozialhilfe, der Kriegsopferfürsorge und Jugendhilfe vom 15. Januar
 1963 (Bundesgesetzbl. I S. 49) verordnet die Bundesregierung mit
 Zustimmung des Bundesrates:
 
-
 ## § 1
 
 Auf dem Gebiet der Kriegsopferfürsorge wird eine Zusatzstatistik über
 Leistungen, die im Rechnungsjahr 1969 nach § 27b des
 Bundesversorgungsgesetzes oder in entsprechender Anwendung dieser
 Vorschrift gewährt werden, als Bundesstatistik durchgeführt.
-
 
 ## § 2
 
@@ -48,10 +44,6 @@ Die Zusatzstatistik erfaßt
 2.  Name und Alter der Empfänger dieser Leistungen sowie deren Zuordnung
     zu einer bestimmten Empfängergruppe.
 
-
-
-
-
 ## § 3
 
 (1) Die Zusatzstatistik wird repräsentativ mit einem Auswahlsatz von
@@ -61,7 +53,6 @@ durchgeführt.
 (2) Auskunftspflichtig sind die für die Durchführung der
 Kriegsopferfürsorge sachlich zuständigen Stellen.
 
-
 ## § 4
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
@@ -69,7 +60,6 @@ Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 Gesetzes über die Durchführung von Statistiken auf dem Gebiet der
 Sozialhilfe, der Kriegsopferfürsorge und der Jugendhilfe auch im Land
 Berlin.
-
 
 ## § 5
 

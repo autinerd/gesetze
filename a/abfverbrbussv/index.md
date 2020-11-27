@@ -27,13 +27,11 @@ Informationsgesellschaft (ABl. EG Nr. L 204 S. 37), geändert durch die
 Richtlinie 98/48/EG des Europäischen Parlaments und des Rates vom 20.
 Juli 1998 (ABl. EG Nr. L 217 S. 18), sind beachtet worden.
 
-
 ## Eingangsformel
 
 Auf Grund des § 18 Abs. 5 des Abfallverbringungsgesetzes vom 19. Juli
 2007 (BGBl. I S. 1462) verordnet das Bundesministerium für Umwelt,
 Naturschutz und Reaktorsicherheit:
-
 
 ## § 1 Ordnungswidrigkeiten nach der Verordnung (EG) Nr. 1013/2006
 
@@ -145,10 +143,6 @@ Abfallverbringungsgesetzes handelt, wer gegen die Verordnung (EG) Nr.
     Artikel 46 Abs. 1, die zuständige Behörde nicht, nicht richtig, nicht
     vollständig oder nicht rechtzeitig unterrichtet.
 
-
-
-
-
 ## § 2 Ordnungswidrigkeiten nach der Verordnung (EG) Nr. 1418/2007
 
 (1) Ordnungswidrig im Sinne des § 18 Abs. 1 Nr. 18 Buchstabe a des
@@ -224,10 +218,6 @@ Abfallverbringungsgesetzes handelt, wer gegen die Verordnung (EG) Nr.
     Verordnung (EG) Nr. 1418/2007 in Verbindung mit Artikel 35 Abs. 1,
     Artikel 20 der Verordnung (EG) Nr. 1013/2006 eine Unterlage oder eine
     Information nicht oder nicht mindestens drei Jahre aufbewahrt.
-
-
-
-
 
 ## § 3 Ordnungswidrigkeiten nach der Verordnung (EWG) Nr. 259/93
 

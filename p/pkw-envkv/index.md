@@ -28,7 +28,6 @@ Kraftstoffverbrauch und CO
 (EG) Nr. 1882/2003 des Europäischen Parlaments und des Rates vom 29.
 September 2003 (ABl. EU Nr. L 284 S. 1).
 
-
 ## Eingangsformel
 
 Auf Grund des § 1 Abs. 1 Nr. 1 in Verbindung mit § 1 Abs. 2 und 3 Nr.
@@ -38,7 +37,6 @@ Januar 2002 (BGBl. I S. 570), von denen § 1 Abs. 1 und 2 durch Artikel
 worden ist, verordnet das Bundesministerium für Wirtschaft und Arbeit
 im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und
 Reaktorsicherheit:
-
 
 ## § 1 Kennzeichnungspflicht
 
@@ -92,10 +90,6 @@ Maßgabe der §§ 3 bis 5 sowie der Anlagen 1 bis 4 zu machen.
     2                   -Emissionen Gramm je Kilometer (g/km), jeweils auf
     eine ganze Zahl nach kaufmännischen Rundungsregeln auf- oder
     abgerundet.
-
-
-
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -249,10 +243,6 @@ Im Sinne dieser Verordnung
     bestimmten Fabrikmarke nach Artikel 2 Nr. 12 der Richtlinie
     1999/94/EG.
 
-
-
-
-
 ## § 3 Hinweis auf Kraftstoffverbrauch, CO 2 -Emissionen und Stromverbrauch sowie Aushang am Verkaufsort
 
 (1) Wer einen neuen Personenkraftwagen ausstellt oder zum Kauf oder
@@ -293,7 +283,6 @@ eingehalten werden.
 Personenkraftwagen liefern, auf Anforderung unverzüglich und
 unentgeltlich die Angaben zu übermitteln, die erforderlich sind, um
 den Hinweis und den Aushang nach Absatz 1 zu erstellen.
-
 
 ## § 3a CO 2 -Effizienzklassen
 
@@ -469,7 +458,6 @@ den Klassen insgesamt überprüfen und gegebenenfalls die
 Energieverbrauchskennzeichnung für Personenkraftwagen durch Änderung
 dieser Verordnung anpassen.
 
-
 ## § 4 Leitfaden zu Kraftstoffverbrauch, CO 2 -Emissionen und Stromverbrauch
 
 (1) Die Hersteller bestimmen eine Stelle, die in ihrem Auftrag einen
@@ -537,10 +525,6 @@ jeden Quartals, die folgenden Angaben zu übermitteln:
     2                   -Emissionen und gegebenenfalls den offiziellen
     Stromverbrauch.
 
-
-
-
-
 ## § 5 Werbung
 
 (1) Hersteller und Händler, die Werbeschriften erstellen, erstellen
@@ -575,7 +559,6 @@ zur Verbreitung in elektronischer Form bestimmtes Werbematerial und
 elektronische, magnetische oder optische Speichermedien nach den
 Absätzen 1 und 2 zu erstellen.
 
-
 ## § 6 Missbräuchliche Verwendung von Bezeichnungen
 
 Es ist verboten, in nach § 3 Abs. 1, § 3a Absatz 1 und 2, § 4 Abs. 2
@@ -587,7 +570,6 @@ CO
 Verordnung nicht entsprechende Zeichen, Symbole oder Angaben zu
 verwenden, sofern diese geeignet sind, beim Verbraucher zu
 Verwechslungen zu führen.
-
 
 ## § 7 Ordnungswidrigkeiten
 
@@ -620,10 +602,6 @@ fahrlässig
 5.  entgegen § 6 ein dort genanntes Zeichen oder Symbol oder eine dort
     genannte Angabe verwendet.
 
-
-
-
-
 ## § 8 Weiterverwendung von Werbematerial
 
 Werbeschriften und elektronische, magnetische oder optische
@@ -631,7 +609,6 @@ Speichermedien, die vor Inkrafttreten dieser Verordnung erstellt
 wurden und die nach dieser Verordnung erforderlichen Angaben nicht
 oder nicht in der erforderlichen Form enthalten, können noch drei
 Monate nach Inkrafttreten dieser Verordnung verwendet werden.
-
 
 ## § 8a Übergangsregelungen
 
@@ -642,17 +619,14 @@ den Anforderungen dieser Verordnung entsprechen.
 3 Absatz 1 Nummer 2 gelten für jede Aktualisierung, die nach
 Inkrafttreten dieser Verordnung vorgenommen wird.
 
-
 ## § 9 Inkrafttreten
 
 Diese Verordnung tritt am ersten Tag des fünften auf die Verkündung
 folgenden Kalendermonats in Kraft.
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage 1 (zu § 3 Abs. 1 Nr. 1) Hinweis auf Kraftstoffverbrauch und CO 2 -Emissionen und Stromverbrauch
 
@@ -1107,13 +1081,6 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     b)  Die Angaben sind mindestens alle drei Monate zu aktualisieren.
 
-
-
-
-
-
-
-
 ## Anlage 3 (zu § 4 Abs. 2 Satz 1) Leitfaden über Kraftstoffverbrauch, CO 2 -Emissionen und Stromverbrauch
 
 (Fundstelle: BGBl. I 2004, 1043;
@@ -1224,7 +1191,6 @@ folgende Angaben:
 
 
 Der Leitfaden soll das Format DIN A4 nicht überschreiten.
-
 
 ## Anlage 4 (zu § 5) Angaben über Kraftstoffverbrauch und CO 2 -Emissionen in der Werbung
 

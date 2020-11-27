@@ -19,12 +19,10 @@ Fundstelle
 Geändert durch
 :   Art. 2 § 11 G v. 22.12.1997 I 3224
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -33,7 +31,6 @@ Deutschland unterzeichneten Übereinkommen vom 18. März 1965 zur
 Beilegung von Investitionsstreitigkeiten zwischen Staaten und
 Angehörigen anderer Staaten wird zugestimmt. Das Übereinkommen wird
 nachstehend veröffentlicht.
-
 
 ## Art 2
 
@@ -64,7 +61,6 @@ aufgehoben worden ist.
 
 (6) (weggefallen)
 
-
 ## Art 3
 
 Wird die Zwangsvollstreckung des Schiedsspruches ausgesetzt (Artikel
@@ -78,12 +74,10 @@ festgestellt wird, auf Antrag fortgesetzt; das Vollstreckungsgericht
 entscheidet auf Antrag des Gläubigers über die Fortsetzung des
 Zwangsvollstreckungsverfahrens.
 
-
 ## Art 4
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
-
 
 ## Art 5
 

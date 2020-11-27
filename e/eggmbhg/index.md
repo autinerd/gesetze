@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 9 G v. 25.5.2009 I 1102
 
-
 ## § 1 Umstellung auf Euro
 
 (1) Gesellschaften, die vor dem 1. Januar 1999 in das Handelsregister
@@ -69,7 +68,6 @@ zugleich eine Erhöhung des Stammkapitals gegen Bareinlagen beschlossen
 und diese in voller Höhe vor der Anmeldung zum Handelsregister
 geleistet werden.
 
-
 ## § 2 Übergangsvorschriften zum Transparenz- und Publizitätsgesetz
 
 § 42a Abs. 4 des Gesetzes betreffend die Gesellschaften mit
@@ -78,7 +76,6 @@ Transparenz- und Publizitätsgesetzes vom 19. Juli 2002 (BGBl. I S.
 2681) ist erstmals auf den Konzernabschluss und den Konzernlagebericht
 für das nach dem 31. Dezember 2001 beginnende Geschäftsjahr
 anzuwenden.
-
 
 ## § 3 Übergangsvorschriften zum Gesetz zur Modernisierung des GmbH-Rechts und zur Bekämpfung von Missbräuchen
 
@@ -149,7 +146,6 @@ bereits vor dem 1. November 2008 ein rechtskräftiges Urteil ergangen
 oder eine wirksame Vereinbarung zwischen der Gesellschaft und dem
 Gesellschafter getroffen worden ist; in diesem Fall beurteilt sich die
 Rechtslage nach den bis zum 1. November 2008 geltenden Vorschriften.
-
 
 ## § 4 Übergangsvorschrift zum Bilanzrechtsmodernisierungsgesetz
 

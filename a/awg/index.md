@@ -27,14 +27,9 @@ Einfuhrliste neugefasst durch
 Änderung durch
 :   Art. 1 V v. 12.12.2012 BAnz, AT 28.12.2012 V1 noch nicht berücksichtigt
 
-
 ## Erster Teil - Rechtsgeschäfte und Handlungen
 
-
-
 ### Erster Abschnitt - Allgemeine Vorschriften
-
-
 
 #### § 1 Grundsatz
 
@@ -51,7 +46,6 @@ gesetzgebenden Körperschaften in der Form eines Bundesgesetzes
 zugestimmt haben, sowie Rechtsvorschriften der Organe
 zwischenstaatlicher Einrichtungen, denen die Bundesrepublik
 Deutschland Hoheitsrechte übertragen hat.
-
 
 #### § 2 Art und Ausmaß von Beschränkungen und Handlungspflichten
 
@@ -92,7 +86,6 @@ ihre Anordnung rechtfertigten, nicht mehr vorliegen.
 (5) Soweit nach diesem Gesetz selbständige Handlungspflichten
 begründet werden können, gelten die Absätze 3 und 4 entsprechend.
 
-
 #### § 2a Erteilung von Zertifikaten
 
 Durch Rechtsverordnung kann die Erteilung von Zertifikaten vorgesehen
@@ -101,7 +94,6 @@ werden, soweit diese zur Durchführung der in Artikel 9 der Richtlinie
 6\. Mai 2009 zur Vereinfachung der Bedingungen für die
 innergemeinschaftliche Verbringung von Verteidigungsgütern (ABl. L 146
 vom 10.6.2009, S. 1) vorgesehenen Zertifizierung erforderlich sind.
-
 
 #### § 3 Erteilung von Genehmigungen
 
@@ -127,7 +119,6 @@ Möglichkeiten volkswirtschaftlich zweckmäßig ausgenutzt werden können.
 Gemeinschaftsansässige, die durch eine Beschränkung in der Ausübung
 ihres Gewerbes besonders betroffen werden, können bevorzugt
 berücksichtigt werden.
-
 
 #### § 4 Begriffsbestimmungen
 
@@ -288,10 +279,6 @@ berücksichtigt werden.
     Wertpapiere, die ein Gebietsfremder ausgestellt hat, soweit sie nicht
     nach Nummer 10 inländische Wertpapiere sind.
 
-
-
-
-
 #### § 4a Zweigniederlassungen und Betriebsstätten
 
 (1) Im Sinne dieses Gesetzes gelten
@@ -338,7 +325,6 @@ ergehen, können vorschreiben, dass
 gelten, soweit dies erforderlich ist, um den in der Ermächtigung
 bestimmten Zweck zu erreichen.
 
-
 #### § 4b Rechtsgeschäfte für Rechnung Gebietsfremder
 
 Rechtsverordnungen, die auf Grund einer in diesem Gesetz enthaltenen
@@ -372,7 +358,6 @@ Ermächtigung ergehen, können vorschreiben, dass
 soweit dies erforderlich ist, um den in der Ermächtigung bestimmten
 Zweck zu erreichen.
 
-
 #### § 4c Rechtsgeschäfte für Rechnung Gebietsansässiger
 
 Rechtsverordnungen, die auf Grund einer in diesem Gesetz enthaltenen
@@ -386,10 +371,7 @@ ein Rechtsgeschäft vorgenommen wird, das zwischen Gebietsansässigen
 und Gebietsfremden beschränkt wäre, soweit dies erforderlich ist, um
 den in der Ermächtigung bestimmten Zweck zu erreichen.
 
-
 ### Zweiter Abschnitt - Allgemeine Beschränkungsmöglichkeiten
-
-
 
 #### § 5 Erfüllung zwischenstaatlicher Vereinbarungen
 
@@ -398,7 +380,6 @@ gesetzgebenden Körperschaften in der Form eines Bundesgesetzes
 zugestimmt haben, können Rechtsgeschäfte und Handlungen im
 Außenwirtschaftsverkehr beschränkt und bestehende Beschränkungen
 aufgehoben werden.
-
 
 #### § 6 Abwehr schädigender Einwirkungen aus fremden Wirtschaftsgebieten
 
@@ -422,7 +403,6 @@ ferner beschränkt werden, um Auswirkungen von in fremden
 Wirtschaftsgebieten herrschenden, mit der freiheitlichen Ordnung der
 Bundesrepublik Deutschland nicht übereinstimmenden Verhältnissen auf
 das Wirtschaftsgebiet vorzubeugen oder entgegenzuwirken.
-
 
 #### § 7 Schutz der Sicherheit und der auswärtigen Interessen
 
@@ -532,10 +512,7 @@ Dies gilt vor allem, wenn die Beschränkung der in internationaler
 Zusammenarbeit vereinbarten Verhinderung der Verbreitung von Waren und
 sonstigen Gegenständen nach Absatz 2 Nummer 1 dient.
 
-
 ### Dritter Abschnitt - Warenverkehr
-
-
 
 #### § 8 Warenausfuhr
 
@@ -560,7 +537,6 @@ sicherzustellen, dass die Regelungen der Mitgliedstaaten über die
 Wareneinfuhr aus Gebieten außerhalb der Organisation wirksam
 durchgeführt werden können.
 
-
 #### § 9 Ausfuhrverträge
 
 (1) Bei Rechtsgeschäften, durch die sich ein Gebietsansässiger zur
@@ -575,7 +551,6 @@ entgegenzuwirken.
 außenwirtschaftlichen Belange der Allgemeinheit die Preise so
 gestalten, dass schädliche Auswirkungen, insbesondere Abwehrmaßnahmen
 des Käufer- oder Bestimmungslandes, vermieden werden.
-
 
 #### § 10 Wareneinfuhr
 
@@ -613,13 +588,11 @@ das Zolllagerverfahren, im Reiseverkehr, im Grenzverkehr, für Zwecke
 des Schiffsbedarfs, zur nichtgewerbsmäßigen Verwendung sowie für die
 Einfuhr von Übersiedlungs- und Erbschaftsgut.
 
-
 #### § 11 Lieferfristen bei der genehmigungsfreien Einfuhr
 
 Bei der genehmigungsfreien Einfuhr kann die Vereinbarung und
 Inanspruchnahme von Lieferfristen beschränkt werden, um die in § 10
 Absatz 3 genannten Belange zu wahren.
-
 
 #### § 12 Genehmigungsbedürftige Einfuhr
 
@@ -638,7 +611,6 @@ Erteilung von Einfuhrgenehmigungen zuständigen Stellen im
 Bundesanzeiger die Einzelheiten bekannt geben, die bei den Anträgen
 auf Erteilung der Genehmigung zu beachten sind (Ausschreibung).
 
-
 #### § 13 Verwendungsbeschränkungen bei der Wareneinfuhr
 
 Ist die Einfuhr von Waren unter der Voraussetzung zugelassen oder
@@ -647,7 +619,6 @@ verwendet werden darf, so hat der Veräußerer diese
 Verwendungsbeschränkung bei der Veräußerung jedem Erwerber der Ware
 nachweisbar mitzuteilen. Die Einführer und der Erwerber dürfen die
 Ware nur in der vorgeschriebenen Weise verwenden.
-
 
 #### § 14 Sicherung der Einfuhr lebenswichtiger Waren
 
@@ -659,10 +630,7 @@ Wirtschaftsgebiet zu sichern. Zu demselben Zweck können
 Rechtsgeschäfte über die Bearbeitung und Verarbeitung solcher Waren in
 fremden Wirtschaftsgebieten beschränkt werden.
 
-
 ### Vierter Abschnitt - Dienstleistungsverkehr
-
-
 
 #### § 15 Aktive Lohnveredelung
 
@@ -673,7 +641,6 @@ einer Gefährdung der Deckung des lebenswichtigen Bedarfs im
 Wirtschaftsgebiet oder in Teilen des Wirtschaftsgebiets
 entgegenzuwirken. § 8 Absatz 1 Satz 2 findet entsprechende Anwendung.
 
-
 #### § 16 Herstellungs- und Vertriebsrechte
 
 Rechtsgeschäfte über die Vergabe von Herstellungs- und
@@ -682,7 +649,6 @@ in ein fremdes Wirtschaftsgebiet können beschränkt werden, wenn die
 Interessen des Ursprungsgebiets erheblich beeinträchtigt werden. Dies
 gilt auch für das Einbringen solcher Herstellungs- und Vertriebsrechte
 in ein Unternehmen in einem fremden Wirtschaftsgebiet.
-
 
 #### § 17 Audiovisuelle Werke
 
@@ -705,7 +671,6 @@ erheblicher Schaden für die Filmwirtschaft des Wirtschaftsgebiets
 eintritt oder einzutreten droht und wenn dieser Schaden im Interesse
 der Allgemeinheit abgewendet werden muss.
 
-
 #### § 18 Seeschifffahrt
 
 Wenn der internationale Seeverkehr durch Maßnahmen beeinträchtigt
@@ -717,7 +682,6 @@ Gebietsansässige beschränkt werden, um erheblichen nachteiligen
 Auswirkungen auf die wirtschaftliche Lage der deutschen Handelsflotte
 entgegenzuwirken.
 
-
 #### § 19 Luftfahrt
 
 Wenn der zwischenstaatliche Luftverkehr durch Maßnahmen beeinträchtigt
@@ -728,7 +692,6 @@ Flugzeuge, die nicht in der deutschen Luftfahrzeugrolle eingetragen
 sind, und das Chartern solcher Flugzeuge durch Gebietsansässige
 beschränkt werden, um erheblichen nachteiligen Auswirkungen auf die
 wirtschaftliche Lage des deutschen Luftverkehrs entgegenzuwirken.
-
 
 #### § 20 Binnenschifffahrt
 
@@ -750,7 +713,6 @@ können beschränkt werden, um Störungen der im Interesse der
 Allgemeinheit zu wahrenden Ordnung zwischen den Verkehrsträgern zu
 verhindern.
 
-
 #### § 21 Schadensversicherungen
 
 Rechtsgeschäfte über Schiffskasko-, Schiffshaftpflicht-, Transport-
@@ -761,30 +723,17 @@ Ausübung ihrer Tätigkeit behindert werden, können beschränkt werden,
 um erheblichen nachteiligen Auswirkungen auf die wirtschaftliche Lage
 der betroffenen Versicherungszweige entgegenzuwirken.
 
-
 ### Fünfter Abschnitt - Kapitalverkehr
-
-
 
 #### § 22 (weggefallen)
 
-
-
 #### § 23 (weggefallen)
-
-
 
 ### Sechster Abschnitt - Gold
 
-
-
 #### § 24 (weggefallen)
 
-
-
 ## Zweiter Teil - Ergänzende Vorschriften
-
-
 
 ### § 25 Deutsche Bundesbank
 
@@ -793,7 +742,6 @@ Rechtsverordnung auf Grund dieses Gesetzes vorgeschrieben werden,
 gelten nicht für Rechtsgeschäfte und Handlungen, welche die Deutsche
 Bundesbank im Rahmen ihres Geschäftskreises vornimmt oder welche ihr
 gegenüber vorgenommen werden.
-
 
 ### § 26 Verfahrens- und Meldevorschriften
 
@@ -880,7 +828,6 @@ verfolgten Zweck zu erreichen. Die §§ 9, 15 und 16 des
 Bundesstatistikgesetzes sind in den Fällen des Absatzes 2 Nummer 1 bis
 4 und des Absatzes 3 entsprechend anzuwenden.
 
-
 ### § 26a Besondere Meldepflichten
 
 (1) Durch Rechtsverordnung kann angeordnet werden, dass dem Bundesamt
@@ -906,7 +853,6 @@ nicht verwendet werden. § 45 bleibt unberührt.
 
 (3) Art und Umfang der Meldepflicht sind auf das Maß zu begrenzen, das
 notwendig ist, um den in Absatz 1 angegebenen Zweck zu erreichen.
-
 
 ### § 27 Erlass von Rechtsverordnungen
 
@@ -936,7 +882,6 @@ gesetzgebenden Körperschaften in der Form eines Bundesgesetzes
 zugestimmt haben, Beschränkungen des Waren-, Kapital- oder
 Zahlungsverkehrs mit fremden Wirtschaftsgebieten aufgehoben oder
 angeordnet hat.
-
 
 ### § 28 Erlass von Verwaltungsakten
 
@@ -1013,7 +958,6 @@ zuständig sind. Durch Rechtsverordnung können die Zuständigkeiten des
 Bundesministeriums für Verkehr, Bau und Stadtentwicklung gemäß Nummer
 3 auf nachgeordnete Behörden übertragen werden.
 
-
 ### § 29 Weisungsbefugnis
 
 Die Bundesregierung wird ermächtigt, den obersten Landesbehörden
@@ -1025,7 +969,6 @@ erteilt werden, um die gleichmäßige Behandlung der Rechtsgeschäfte und
 Handlungen sicherzustellen oder um die gleichmäßige Beurteilung von
 Zuwiderhandlungen herbeizuführen.
 
-
 ### § 30 Verwaltungsakte
 
 (1) Verwaltungsakte können mit Nebenbestimmungen versehen werden. Die
@@ -1036,7 +979,6 @@ anderes bestimmt wird.
 
 (3) Widerspruch und Anfechtungsklage haben keine aufschiebende
 Wirkung.
-
 
 ### § 31 Rechtsunwirksamkeit
 
@@ -1064,7 +1006,6 @@ gesamten Prüfverfahrens unter der auflösenden Bedingung, dass das
 Bundesministerium für Wirtschaft und Technologie den Erwerb innerhalb
 der Frist untersagt.
 
-
 ### § 32 Urteil und Zwangsvollstreckung
 
 (1) Ist zur Leistung des Schuldners eine Genehmigung erforderlich, so
@@ -1083,10 +1024,7 @@ Genehmigung erteilt ist. Soweit Vermögenswerte nur mit Genehmigung
 erworben oder veräußert werden dürfen, gilt dies auch für den Erwerb
 und die Veräußerung im Wege der Zwangsvollstreckung.
 
-
 ## Dritter Teil - Straf-, Bußgeld- und Überwachungsvorschriften
-
-
 
 ### § 33 Ordnungswidrigkeiten
 
@@ -1186,7 +1124,6 @@ fünfundzwanzigtausend Euro geahndet werden.
 (7) Der Versuch einer Ordnungswidrigkeit kann in den Fällen der
 Absätze 1, 2 Nummer 1a, des Absatzes 3 Nummer 2 und des Absatzes 4
 geahndet werden.
-
 
 ### § 34 Straftaten
 
@@ -1343,12 +1280,10 @@ Genehmigungsvoraussetzung erwirkten oder durch unrichtige oder
 unvollständige Angaben erschlichenen Genehmigung handelt. Satz 1 gilt
 in den Fällen der Absätze 2 und 4 entsprechend.
 
-
 ### § 35 Auslandstaten Deutscher
 
 § 34 gilt, unabhängig vom Recht des Tatorts, auch im Ausland, wenn der
 Täter Deutscher ist.
-
 
 ### § 36 Einziehung und Erweiterter Verfall
 
@@ -1373,7 +1308,6 @@ Ordnungswidrigkeiten sind anzuwenden.
 mit § 35, ist § 73d des Strafgesetzbuches anzuwenden, wenn der Täter
 gewerbsmäßig oder als Mitglied einer Bande handelt, die sich zur
 fortgesetzten Begehung solcher Straftaten verbunden hat.
-
 
 ### § 37 Befugnisse der Zollbehörden
 
@@ -1408,8 +1342,6 @@ vornehmen; unter den Voraussetzungen des § 111l Absatz 2 Satz 2 der
 Strafprozessordnung können auch die Hauptzollämter die Notveräußerung
 anordnen.
 
-
-
 ### § 38 Straf- und Bußgeldverfahren
 
 (1) Soweit für Straftaten nach § 34 das Amtsgericht sachlich zuständig
@@ -1435,10 +1367,7 @@ abweichend regeln, soweit dies mit Rücksicht auf die Wirtschafts- oder
 Verkehrsverhältnisse, den Aufbau der Verwaltung oder andere örtliche
 Bedürfnisse zweckmäßig erscheint.
 
-
 ### (XXXX) §§ 39 bis 43 (weggefallen)
-
-
 
 ### § 44 Allgemeine Auskunftspflicht
 
@@ -1485,7 +1414,6 @@ der in § 383 Absatz 1 Nummer 1 bis 3 der Zivilprozessordnung
 bezeichneten Angehörigen der Gefahr strafgerichtlicher Verfolgung oder
 eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen
 würde.
-
 
 ### § 45 Übermittlung von Informationen durch das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)
 
@@ -1536,10 +1464,7 @@ Abrufe nur, wenn dazu Anlass besteht. Es hat zu gewährleisten, dass
 die Übermittlung der Daten zumindest durch geeignete
 Stichprobenverfahren festgestellt und überprüft werden kann.
 
-
 ### § 45a (weggefallen)
-
-
 
 ### § 45b Übermittlung personenbezogener Daten aus Strafverfahren
 
@@ -1554,7 +1479,6 @@ Stelle jedoch nur weiter übermitteln, wenn das Interesse an der
 Verwendung der übermittelten Daten das Interesse des Betroffenen an
 der Geheimhaltung erheblich überwiegt und der Untersuchungszweck des
 Strafverfahrens nicht gefährdet werden kann.
-
 
 ### § 46 Überwachung des Fracht-, Post- und Reiseverkehrs
 
@@ -1584,7 +1508,6 @@ der Kommission der Europäischen Gemeinschaften im Bereich des
 Außenwirtschaftsrechts. Das Bundesministerium des Innern bestimmt die
 Behörden der Bundespolizei, die für die Überwachung der Ausfuhr von
 Waffen und Sprengstoff zuständig sind; Satz 1 bleibt unberührt.
-
 
 ### § 46a Kosten
 
@@ -1617,10 +1540,7 @@ Zustimmung des Bundesrates nicht bedarf, für die dort genannten
 Tätigkeiten die gebührenpflichtigen Tatbestände und die Höhe der
 Gebühren festzulegen.
 
-
 ## Vierter Teil - Schlussvorschriften
-
-
 
 ### § 47 Aufhebung von Vorschriften
 
@@ -1659,14 +1579,9 @@ Gebühren festzulegen.
 
 (2) (Aufhebung anderer Vorschriften)
 
-
 ### § 48 (Aufhebung und Änderung anderer Vorschriften)
 
-
-
 ### § 49 (weggefallen)
-
-
 
 ### § 50 Überleitungsvorschrift
 
@@ -1681,14 +1596,9 @@ vorgenommen werden dürfen. § 31 Satz 3 findet entsprechende Anwendung.
 genannten Vorschriften verwiesen, so tritt an deren Stelle dieses
 Gesetz, soweit der Anwendungsbereich dieses Gesetzes reicht.
 
-
 ### § 51 (weggefallen)
 
-
-
 ### § 52 (Inkrafttreten)
-
-
 
 ### Anlage Einfuhrliste - Anlage zum Außenwirtschaftsgesetz -
 

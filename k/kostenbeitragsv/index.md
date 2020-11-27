@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 2907
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 94 Abs. 5 Satz 1 des Achten Buches Sozialgesetzbuch -
@@ -26,7 +24,6 @@ Dezember 1998 (BGBl. I S. 3546), der durch Artikel 1 Nr. 49 des
 Gesetzes vom 8. September 2005 (BGBl. I S. 2729) eingefügt worden ist,
 verordnet das Bundesministerium für Familie, Senioren, Frauen und
 Jugend:
-
 
 ## § 1 Festsetzung des Kostenbeitrags
 
@@ -47,7 +44,6 @@ b)  der Beitragsstufe in den Spalten 2 bis 6 der Anlage, die nach Maßgabe
 (2) Für jede kostenbeitragspflichtige Person wird der jeweilige
 Kostenbeitrag getrennt ermittelt und erhoben.
 
-
 ## § 2 Wahl der Beitragsstufe bei vollstationären Leistungen
 
 (1) Die Höhe des Beitrags zu den Kosten einer vollstationären Leistung
@@ -64,7 +60,6 @@ die zweite Person aus Spalte 3, für die dritte Person aus Spalte 4. Ab
 der vierten vollstationär untergebrachten Person wird nur noch ein
 Kostenbeitrag nach Maßgabe von § 7 erhoben.
 
-
 ## § 3 Wahl der Beitragsstufe bei teilstationären Leistungen
 
 (1) Die Höhe des Kostenbeitrags für teilstationäre Leistungen nach §
@@ -76,7 +71,6 @@ der Anlage.
 so ergibt sich der maßgebliche Kostenbeitrag aus der jeweiligen
 Beitragsstufe in Spalte 5, anderenfalls aus der jeweiligen
 Beitragsstufe in Spalte 6.
-
 
 ## § 4 Berücksichtigung weiterer Unterhaltspflichten
 
@@ -112,7 +106,6 @@ Person, gegenüber der sie mindestens im gleichen Rang zum Unterhalt
 verpflichtet ist, findet eine Reduzierung nur statt, wenn die
 kostenbeitragspflichtige Person nachweist, dass sie ihren
 Unterhaltspflichten regelmäßig nachkommt.
-
 
 ## § 5 Behandlung hoher Einkommen
 
@@ -159,13 +152,11 @@ vollen Höhe der Kosten für stationäre Leistungen erfolgen.
 (4) Die Kostenbeiträge dürfen die Höhe der tatsächlichen Aufwendungen
 nicht überschreiten.
 
-
 ## § 6 Heranziehung der Eltern bei Leistungen für junge Volljährige
 
 Bei Leistungen für junge Volljährige ist ein kostenbeitragspflichtiger
 Elternteil höchstens zu einem Kostenbeitrag auf Grund der
 Einkommensgruppe 14 heranzuziehen.
-
 
 ## § 7 Einsatz des Kindergelds
 
@@ -188,7 +179,6 @@ zahlen, wenn
 wird das Kindergeld in voller Höhe vom Kostenbeitrag des
 kindergeldberechtigten Elternteils abgezogen.
 
-
 ## § 8 Übergangsregelung für Altfälle
 
 (1) Ergibt sich bei der Umstellung der Heranziehung zu den Kosten nach
@@ -202,16 +192,13 @@ der Kostenbeitrag in voller Höhe zu erheben.
 kostenbeitragspflichtig, so ist jedem der beiden Elternteile bei der
 Vergleichsberechnung nach Absatz 1 die hälftige Belastung zuzurechnen.
 
-
 ## § 9 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage (zu § 1)
 

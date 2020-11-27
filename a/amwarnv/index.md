@@ -15,15 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1985, 22
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 12 Abs. 1 Nr. 1 und 3 des Arzneimittelgesetzes vom 24.
 August 1976 (BGBl. I S. 2445, 2448) wird im Einvernehmen mit dem
 Bundesminister für Wirtschaft mit Zustimmung des Bundesrates
 verordnet:
-
 
 ## § 1 Anwendungsbereich, Ausdehnung von Vorschriften des Arzneimittelgesetzes
 
@@ -60,7 +57,6 @@ Satz 1, die keine Fertigarzneimittel sind.
 (2) Diese Verordnung ist nicht anzuwenden auf Arzneimittel, die zur
 klinischen Prüfung bestimmt sind.
 
-
 ## § 2 Warnhinweis auf den Behältnissen und äußeren Umhüllungen
 
 (1) Arzneimittel nach § 1 Abs. 1 Satz 1 Nr. 1 Buchstabe a dürfen nur
@@ -94,7 +90,6 @@ Packungsbeilage beachten!" angebracht ist.
 (4) Die Warnhinweise müssen auf den Behältnissen und äußeren
 Umhüllungen in leicht lesbarer Schrift und auf dauerhafte Weise
 angebracht sein.
-
 
 ## § 3 Warnhinweis auf der Packungsbeilage
 
@@ -180,12 +175,10 @@ genannten Warnhinweis abweicht, und mit der Maßgabe, daß der
 Warnhinweis nach Absatz 1, 2 oder 3 in leicht lesbarer Schrift dem
 Behältnis beigefügt oder auf ihm angebracht sein muß.
 
-
 ## § 3a Warnhinweis auf der Fachinformation
 
 Der nach § 3 Abs. 1, 2 oder 3 vorgeschriebene Warnhinweis ist auch auf
 der Fachinformation anzugeben.
-
 
 ## § 4 Ordnungswidrigkeiten
 
@@ -200,15 +193,10 @@ Wer vorsätzlich oder fahrlässig
     Warnhinweis in den Verkehr bringt, handelt nach § 97 Abs. 2 Nr. 5 des
     Arzneimittelgesetzes ordnungswidrig.
 
-
-
-
-
 ## § 5 Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 99 des Arzneimittelgesetzes auch im Land Berlin.
-
 
 ## § 6 Inkrafttreten
 
@@ -230,7 +218,6 @@ dürfen dort von pharmazeutischen Unternehmen noch bis zum 31. Dezember
 gebracht werden, sofern sie den vor Wirksamwerden des Beitritts
 geltenden arzneimittelrechtlichen Vorschriften der Deutschen
 Demokratischen Republik entsprechen.
-
 
 ## Schlußformel
 

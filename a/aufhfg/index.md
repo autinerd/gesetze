@@ -18,12 +18,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 6 G v. 23.5.2011 I 920
 
-
 ## § 1 Errichtung des Fonds
 
 Es wird ein nationaler Solidaritätsfonds "Aufbauhilfe" als
 Sondervermögen des Bundes errichtet.
-
 
 ## § 2 Zweck und Mittelverwendung des Fonds
 
@@ -65,7 +63,6 @@ sind.
 Bundesrates eine Rechtsverordnung, insbesondere zur Regelung der
 Verteilung der Mittel und zur näheren Durchführung zu erlassen.
 
-
 ## § 3 Stellung im Rechtsverkehr
 
 (1) Der Fonds ist nicht rechtsfähig, er kann unter seinem Namen im
@@ -76,7 +73,6 @@ Bundesminister der Finanzen verwaltet das Sondervermögen.
 (2) Der Fonds ist von dem übrigen Vermögen des Bundes, seinen Rechten
 und Verbindlichkeiten zu trennen. Für die Verbindlichkeiten des Fonds
 haftet der Bund.
-
 
 ## § 4 Vermögen des Fonds und Finanzierung
 
@@ -187,13 +183,11 @@ werden.
 
 (5) Die Liquidität des Fonds wird durch den Bund sichergestellt.
 
-
 ## § 5 Wirtschaftsplan
 
 Alle Einnahmen und Ausgaben des Fonds werden in einem Wirtschaftsplan
 veranschlagt. Der Wirtschaftsplan ist in Einnahmen und Ausgaben
 auszugleichen.
-
 
 ## § 6 Jahresrechnung
 
@@ -201,11 +195,9 @@ Der Bundesminister der Finanzen stellt am Schluss des Rechnungsjahres
 die Jahresrechnung für den Fonds auf und fügt sie als Anhang der
 Haushaltsrechnung des Bundes bei.
 
-
 ## § 7 Verwaltungskosten
 
 Die Kosten für die Verwaltung des Fonds trägt der Bund.
-
 
 ## § 8 Auflösung des Fonds und anschließende Mittelverwendung
 
@@ -279,7 +271,6 @@ entsprechend den Anteilen an den Einzahlungen in den Fonds nach § 4
 bis zum Ablauf des Jahres 2017 an Bund und Länder zu erstatten. Bis
 spätestens zum Ende des Jahres 2020 sind alle nicht verbrauchten
 Mittel entsprechend Satz 1 an Bund und Länder zu erstatten.
-
 
 ## Anlage (zu § 8 Abs. 1 Satz 4)
 

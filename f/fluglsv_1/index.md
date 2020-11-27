@@ -15,13 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 2980
 
-
 ## Eingangsformel
 
 Auf Grund des § 3 Abs. 2 des Gesetzes zum Schutz gegen Fluglärm in der
 Fassung der Bekanntmachung vom 31. Oktober 2007 (BGBl. I S. 2550)
 verordnet die Bundesregierung nach Anhörung der beteiligten Kreise:
-
 
 ## § 1 Anwendungsbereich
 
@@ -30,7 +28,6 @@ dem Gesetz zum Schutz gegen Fluglärm. Sie regelt Anforderungen an die
 zur Ermittlung der Lärmbelastung erforderliche Datenerfassung über den
 voraussehbaren Flugbetrieb sowie an das Berechnungsverfahren für die
 Ermittlung der Lärmbelastung.
-
 
 ## § 2 Datenerfassung über den Flugbetrieb
 
@@ -108,7 +105,6 @@ Behörde mit.
 (6) Die Angaben nach den Absätzen 1 bis 5 werden der zuständigen
 Behörde unentgeltlich zur Verfügung gestellt.
 
-
 ## § 3 Elektronische Datenerfassung und Datenübermittlung
 
 (1) Die zuständige Behörde kann anordnen, dass die Erfassung und die
@@ -130,7 +126,6 @@ dem Bundesministerium der Verteidigung.
 (3) Die zuständige Behörde kann festlegen, dass Dokumente, die
 elektronisch übermittelt werden, mit einer qualifizierten
 elektronischen Signatur nach dem Signaturgesetz zu versehen sind.
-
 
 ## § 4 Berechnungsverfahren für die Festsetzung von Lärmschutzbereichen
 
@@ -190,7 +185,6 @@ Punkten des Rasters nach Satz 2.
 Kurvenpunkte und von Karten darzustellen. Die Karten müssen
 georeferenziert sein.
 
-
 ## § 5 Berechnungsverfahren für die Überprüfung von Lärmschutzbereichen
 
 (1) Die für die Neufestsetzung eines Lärmschutzbereichs nach § 4 Abs.
@@ -218,11 +212,9 @@ es auf den voraussehbaren Flugbetrieb ankommt, der sich allein infolge
 einer sonstigen wesentlichen baulichen Erweiterung eines Flugplatzes
 ergibt.
 
-
 ## § 6 Inkrafttreten
 
 Diese Verordnung tritt am 30. Dezember 2008 in Kraft.
-
 
 ## Schlussformel
 

@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1990, 822
 
-
-
 ## Eingangsformel
 
 
@@ -55,7 +53,6 @@ sind übereingekommen, einen Vertrag über die Vorbereitung und
 Durchführung der ersten gesamtdeutschen Wahl des Deutschen Bundestages
 mit den nachfolgenden Bestimmungen zu schließen:
 
-
 ## Art 1
 
 (1) Für die erste gesamtdeutsche Wahl wird der Geltungsbereich des
@@ -83,7 +80,6 @@ Volkskammer der Deutschen Demokratischen Republik am 18. März 1990 vom
 Abs. 1 des Parteiengesetzes der Bundesrepublik Deutschland
 gleichgestellt.
 
-
 ## Art 2
 
 Die zur Durchführung des Bundeswahlgesetzes erlassene
@@ -101,12 +97,10 @@ erforderlichenfalls Anpassungsvorschriften für die Länder Mecklenburg-
 Vorpommern, Brandenburg, Sachsen-Anhalt, Sachsen und Thüringen sowie
 für Berlin (Ost).
 
-
 ## Art 3
 
 Für die Vorbereitung und Durchführung der Wahl wird Berlin als ein
 Land behandelt.
-
 
 ## Art 4
 
@@ -117,7 +111,6 @@ Brandenburg, Sachsen-Anhalt, Sachsen und Thüringen sowie auf Berlin
 (Ost). Der Bundeswahlleiter beruft zwei zusätzliche Mitglieder mit
 Wohnsitz in der Deutschen Demokratischen Republik in den
 Bundeswahlausschuß.
-
 
 ## Art 5
 
@@ -131,7 +124,6 @@ geändert durch Gesetz vom 31. Mai 1990 (GBl. I S. 275), vor dem
 Inkrafttreten dieses Vertrages vom Großen Senat des Obersten Gerichts
 im Gebiet der Deutschen Demokratischen Republik verboten worden sind.
 
-
 ## Art 6
 
 Die im bisherigen Geltungsbereich des Bundeswahlgesetzes bereits
@@ -139,13 +131,11 @@ vorgenommenen Wahlvorbereitungshandlungen, insbesondere die
 Aufstellung der Bewerber, bleiben unberührt, soweit nicht die Regelung
 des Artikels 3 eine Neuvornahme erfordert.
 
-
 ## Art 7
 
 Entsprechend dem Viermächte-Abkommen vom 3. September 1971 wird dieser
 Vertrag in Übereinstimmung mit den festgelegten Verfahren auf Berlin
 (West) ausgedehnt.
-
 
 ## Art 8
 
@@ -153,7 +143,6 @@ Dieser Vertrag einschließlich der Anlage tritt an dem Tag in Kraft, an
 dem die Regierungen der Vertragsparteien einander mitgeteilt haben,
 daß die erforderlichen verfassungsrechtlichen und sonstigen
 innerstaatlichen Voraussetzungen für das Inkrafttreten erfüllt sind.
-
 
 ## Schlußformel
 
@@ -173,10 +162,6 @@ Sprache.
 *    *   Schäuble
 
     *   Günther Krause
-
-
-
-
 
 ## Anlage
 
@@ -472,10 +457,6 @@ gelten folgende Maßgaben:
     Bekämpfung von Ordnungswidrigkeiten vom 12. Januar 1968 (GBl. S. 101),
     zuletzt geändert durch Gesetz vom 29. Juli 1990 (GBl. I S. 526) in
     Höhe bis zu 100.000 Deutsche Mark verhängt werden können.
-
-
-
-
 
 ## Anhang
 

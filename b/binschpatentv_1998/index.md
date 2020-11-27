@@ -35,7 +35,6 @@ der Gemeinschaft (ABl. EG Nr. L 235 S. 31), geändert durch Beschluß
 des Gemeinsamen EWR-Ausschusses vom 30. April 1997 (ABl. EG Nr. L 242
 S. 70).
 
-
 ## Eingangsformel
 
 Auf Grund
@@ -60,13 +59,7 @@ Auf Grund
     Juni 1970 (BGBl. I S. 821) verordnet das Bundesministerium für Verkehr
     im Einvernehmen mit dem Bundesministerium der Finanzen:
 
-
-
-
-
 ## Abschnitt I - Allgemeine Bestimmungen
-
-
 
 ### § 1 Begriffsbestimmungen
 
@@ -165,10 +158,6 @@ Im Sinne dieser Verordnung sind
 
     die Zeit an Bord eines auf Reisen befindlichen Fahrzeuges.
 
-
-
-
-
 ### § 2 Unberührt bleibende Vorschriften
 
 Vorschriften, die das Führen von
@@ -191,7 +180,6 @@ Vorschriften, die das Führen von
 
 regeln, bleiben unberührt.
 
-
 ### § 2a Vorübergehende Abweichungen
 
 Die Wasser- und Schifffahrtsdirektion West wird ermächtigt, auch für
@@ -201,7 +189,6 @@ Binnenschifffahrt oder zu Versuchszwecken, durch die die Sicherheit
 und Leichtigkeit des Schiffsverkehrs nicht beeinträchtigt werden, von
 dieser Verordnung abweichende Vorschriften vorübergehend bis zur Dauer
 von drei Jahren zu erlassen.
-
 
 ### § 3 Fahrerlaubnis
 
@@ -221,7 +208,6 @@ Ausrüster eines Fahrzeuges darf nicht anordnen oder zulassen, daß
 jemand das Fahrzeug führt, der nicht Inhaber der erforderlichen
 Fahrerlaubnis (Absatz 1) ist oder gegen den das Ruhen der Erlaubnis (§
 24 Abs. 2 und 6) vollziehbar angeordnet wurde.
-
 
 ### § 4 Ausnahmen
 
@@ -262,7 +248,6 @@ Ausbildungsstelle. Dies gilt für die Inhaber eines
 Berechtigungsscheines einer als gemeinnützig anerkannten Körperschaft
 beim Führen von Wasserrettungsfahrzeugen mit einer Länge von weniger
 als 15 Metern entsprechend.
-
 
 ### § 5 Geltung anderer Befähigungszeugnisse
 
@@ -349,7 +334,6 @@ dieser Fahrzeuge bis zur Mündung in den Rhein. Den
 Befähigungszeugnissen nach Satz 1 stehen für die Saar erteilte
 Befähigungszeugnisse gleich. § 4 Abs. 1 Nr. 2 bleibt unberührt.
 
-
 ### § 6 Befreiungsmöglichkeiten
 
 (1) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung kann,
@@ -385,10 +369,7 @@ Teilstrecke infolge einer Umleitungsmaßnahme befahren werden muß.
 
 erlauben.
 
-
 ## Abschnitt II - Fahrerlaubnis
-
-
 
 ### § 7 Einteilung der allgemeinen Fahrerlaubnisse
 
@@ -592,10 +573,6 @@ Fähren, berechtigen auch
     schwimmenden Gerätes ein dazu gehöriges Hilfsfahrzeug mit einer
     Antriebsleistung von nicht mehr als 25 Kilowatt (33,95 PS) führt.
 
-
-
-
-
 ### § 8 Besondere Fahrerlaubnisarten Elbschifferpatent, Donaukapitänspatent
 
 (1) (weggefallen)
@@ -609,7 +586,6 @@ dieser Verordnung in Übereinstimmung mit den "Empfehlungen über die
 Erteilung der Binnenschifferpatente auf der Donau" der Donaukommission
 vom 12. April 1995 (CD/SES 52/23). Sie gilt nur in Verbindung mit
 einem auf den gleichen Namen lautenden anderen Befähigungszeugnis.
-
 
 ### § 9 Streckenzeugnis
 
@@ -627,7 +603,6 @@ Anlage 9 oder Teilstrecken davon wird durch ein Streckenzeugnis
 
 Die Erlaubnis gilt nur in Verbindung mit einem der in Satz 1 genannten
 Befähigungszeugnisse.
-
 
 ### § 10 Allgemeine Anforderungen für die Erteilung der Fahrerlaubnis
 
@@ -685,7 +660,6 @@ Tauglichkeit nach Erteilung der Fahrerlaubnis ein, können nachträglich
 Auflagen erteilt werden. Die Auflagen werden im Befähigungszeugnis
 eingetragen. Der Inhaber eines Befähigungszeugnisses nach § 5 oder § 6
 Abs. 1 hat darin eingetragene Auflagen zu beachten.
-
 
 ### § 11 Besondere Anforderungen für die Erteilung einer Fahrerlaubnis Fahrzeit, Fahrleistungen
 
@@ -754,7 +728,6 @@ Führen
 
 erforderlich wäre.
 
-
 ### § 12 Besondere Anforderungen für die Erteilung einer Fahrerlaubnis Streckenfahrten
 
 (1) Soll sich die Fahrerlaubnis der Klassen A bis E auf Wasserstraßen
@@ -781,7 +754,6 @@ Streckenfahrten mindestens als Matrose geleistet haben.
 (4) Absatz 1 gilt für die Erteilung eines Streckenzeugnisses nach § 9
 entsprechend.
 
-
 ### § 13 Erweiterung einer Fahrerlaubnis
 
 Soll eine Fahrerlaubnis, ein Befähigungszeugnis nach § 5 Abs. 1 oder
@@ -789,10 +761,7 @@ ein Streckenzeugnis um eine nach § 7 Abs. 2 erlaubnispflichtige
 Strecke erweitert werden, gelten § 10 Abs. 1 Nr. 4 und § 12
 entsprechend.
 
-
 ## Abschnitt III - Verfahren
-
-
 
 ### § 14 Zuständige Behörden
 
@@ -819,7 +788,6 @@ Schifffahrtsdirektion Süd in Würzburg.
 zuerst mit der Sache befaßt worden ist. Für die Erweiterung einer
 Fahrerlaubnis nach den Absätzen 2 bis 4 ist auch eine benachbarte
 Wasser- und Schifffahrtsdirektion zuständig.
-
 
 ### § 15 Prüfungsausschuß
 
@@ -869,10 +837,6 @@ Niederschrift aufzunehmen. Sie enthält mindestens:
 
 
 10. Dokumentierung von Täuschungsversuchen oder Unregelmäßigkeiten.
-
-
-
-
 
 ### § 16 Antrag
 
@@ -974,7 +938,6 @@ sind.
 (7) Die zuständige Wasser- und Schifffahrtsdirektion kann einzelne
 Aufgaben ihren nachgeordneten Stellen übertragen.
 
-
 ### § 17 Nachweis der Fahrzeit, Fahrleistungen und Streckenfahrten
 
 (1) Die Fahrzeit und Fahrleistungen sowie die Streckenfahrten sind
@@ -1015,7 +978,6 @@ werden.
 
 (4) (weggefallen)
 
-
 ### § 18 Prüfung
 
 (1) Der Bewerber hat in einer Prüfung vor einem Prüfungsausschuß
@@ -1055,7 +1017,6 @@ Jede Wasser- und Schifffahrtsdirektion teilt die Versagung der
 
 den übrigen Wasser- und Schifffahrtsdirektionen unverzüglich mit.
 
-
 ### § 19 Befreiungen und Erleichterungen
 
 (1) Ein Bewerber, der die Abschlußprüfung in den anerkannten
@@ -1087,7 +1048,6 @@ Eingang des Antrags auf Erteilung einer neuen Fahrerlaubnis von der
 Prüfung ganz oder teilweise absehen, insbesondere wenn keine Zweifel
 an der noch vorhandenen Befähigung bestehen.
 
-
 ### § 20 Erteilung einer Erlaubnis
 
 (1) Hat der Bewerber in der Prüfung die erforderliche Befähigung zum
@@ -1104,7 +1064,6 @@ werden eingetragen.
 Ablaufdatum für deren Gültigkeit die jeweilige Erneuerungsfrist nach §
 24 Abs. 1 Satz 1 eingetragen, wenn sich dies nicht bereits aus einem
 anderen Bescheid ergibt.
-
 
 ### § 21 Erteilung einer Fahrerlaubnis ohne Prüfung
 
@@ -1127,7 +1086,6 @@ eingetragen. Eine Fahrerlaubnis der Klasse E wird im Falle des § 5
 Abs. 1 Nr. 6 auf das Führen von Fahrzeugen mit einer Wasserverdrängung
 von weniger als 15 Kubikmeter beschränkt.
 
-
 ### § 22 Ersatzausfertigung
 
 Ist ein Befähigungszeugnis oder ein Streckenzeugnis unbrauchbar
@@ -1137,7 +1095,6 @@ solche zu kennzeichnen ist. Der Verlust ist glaubhaft zu machen. Der
 Inhaber eines Befähigungszeugnisses hat ein unbrauchbar gewordenes
 oder wieder aufgefundenes Zeugnis unverzüglich bei der zuständigen
 Behörde abzuliefern oder ihr zur Entwertung vorzulegen.
-
 
 ### § 23 Entziehung der Fahrerlaubnis
 
@@ -1185,7 +1142,6 @@ nachgewiesen wird.
 
 (7) Die Absätze 1 bis 5a gelten für Befähigungszeugnisse nach § 5 Abs.
 1 Nr. 1 entsprechend.
-
 
 ### § 24 Wiederholungsuntersuchungen, Ruhen der Erlaubnis
 
@@ -1298,7 +1254,6 @@ ausstellenden Behörde, mit, wenn
 
 § 23 Abs. 5a Satz 2 gilt entsprechend.
 
-
 ### § 24a Sicherstellung von Befähigungszeugnissen
 
 (1) Sind dringende Gründe für die Annahme vorhanden, dass eine
@@ -1317,10 +1272,7 @@ aufzuheben und das Befähigungszeugnis dem Inhaber zurückzugeben, wenn
 ihr Grund weggefallen ist oder wenn die zuständige Behörde die
 Erlaubnis nicht entzieht oder nicht deren Ruhen anordnet.
 
-
 ## Abschnitt IV - Ordnungswidrigkeiten- und Schlußbestimmungen
-
-
 
 ### § 25 Ordnungswidrigkeiten
 
@@ -1354,13 +1306,7 @@ fahrlässig
 7.  entgegen § 24 Abs. 7 Satz 1 ein Befähigungszeugnis nicht oder nicht
     rechtzeitig vorlegt.
 
-
-
-
-
 ### (XXXX) §§ 26 und 27
-
-
 
 ### § 28 Übergangsvorschriften
 
@@ -1436,13 +1382,11 @@ geführten Sportbootes weniger als 15 Kubikmeter beträgt.
 Verordnung geleistet wurden, werden nach Maßgabe der bisherigen
 Vorschriften angerechnet.
 
-
 ### § 29 Inkrafttreten, Außerkrafttreten
 
 (1) Diese Verordnung tritt am 1. Januar 1998 in Kraft.
 
 (2)
-
 
 ### Anlage 1 Muster des Schifferpatentes (85 mm X 54 mm - Grundfarbe blau, entsprechend ISO-Norm 78.10)
 
@@ -1516,7 +1460,6 @@ I
 ----------------------------------------------------------------------
 --
 
-
 ### Anlage 2 Muster des Schifferpatentes C (85 mm X 54 mm - Grundfarbe blau, entsprechend ISO-Norm 78.10)
 
 Fundstelle des Originaltextes: BGBl. I 1997, 3081
@@ -1588,7 +1531,6 @@ I        straßen und dem Rhein
 I
 ----------------------------------------------------------------------
 --
-
 
 ### Anlage 3 Muster des Feuerlöschbootpatentes (85 mm X 54 mm - Grundfarbe blau, entsprechend ISO-Norm 78.10)
 
@@ -1662,7 +1604,6 @@ I
 ----------------------------------------------------------------------
 --
 
-
 ### Anlage 4 Sportschifferzeugnis (85 mm x 54 mm - Grundfarbe blau, entsprechend ISO-Norm 78.10)
 
 Fundstelle des Originaltextes: BGBl. I 1997, 3083
@@ -1734,7 +1675,6 @@ I
 I
 ----------------------------------------------------------------------
 --
-
 
 ### Anlage 5 Fährführerschein (85 mm x 54 mm - Grundfarbe blau, entsprechend ISO-Norm 78.10)
 
@@ -1809,7 +1749,6 @@ I
 ----------------------------------------------------------------------
 --
 
-
 ### Anlage 6
 
 Fundstelle des Originaltextes: BGBl. I 1997, 3085
@@ -1848,7 +1787,6 @@ Ausstellungsdatum.
 ausstellenden Behörde)
 ----------
 \*) Nichtzutreffendes streichen.
-
 
 ### Anlage 7 Streckenzeugnis
 
@@ -1997,7 +1935,6 @@ I                                     I
 I
 ----------------------------------------------------------------------
 ----
-
 
 ### Anlage 8 Donaukapitänspatent
 
@@ -2171,7 +2108,6 @@ I
 ----------------------------------------------------------------------
 ----
 
-
 ### Anlage 9
 
 Fundstelle des Originaltextes: BGBl. I 2006, 221
@@ -2261,13 +2197,6 @@ Fundstelle des Originaltextes: BGBl. I 2006, 221
     *
         6.  Wasser- und Schifffahrtsdirektion Ost in Magdeburg
 
-
-
-
-
-
-
-
 ### Anlage 10
 
 Fundstelle des Originaltextes: BGBl. I 1997, 3089
@@ -2301,7 +2230,6 @@ seewärts begrenzt zwischen
 
 Peenestrom (insoweit kann das die Wasserstraße verwaltende Wasser- und
 Schiffahrtsamt Ausnahmen zulassen)
-
 
 ### Anlage 11 Prüfungsprogramm für den Erwerb eines Befähigungszeugnisses in der Binnenschiffahrt
 

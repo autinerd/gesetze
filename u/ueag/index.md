@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 5 G v. 29.7.2009 I 2274
 
-
 ## § 1
 
 Dieses Gesetz gilt für Vollstreckungsersuchen nach dem Übereinkommen
@@ -29,7 +28,6 @@ Dezember 1997 zum Übereinkommen über die Überstellung verurteilter
 Personen (BGBl. 2002 II S. 2866) (Zusatzprotokoll) und nach dem
 Schengener Durchführungsübereinkommen vom 19. Juni 1990 (BGBl. 1993 II
 S. 1010).
-
 
 ## § 2
 
@@ -42,7 +40,6 @@ die internationale Rechtshilfe in Strafsachen nicht anzuwenden.
 § 71 Abs. 4 des Gesetzes über die internationale Rechtshilfe in
 Strafsachen anzuwenden.
 
-
 ## § 3
 
 (1) Die Zustimmung nach Artikel 7 Abs. 1 des Übereinkommens ist nach
@@ -53,13 +50,11 @@ kann nicht widerrufen werden.
 des Zusatzprotokolls und nach den Artikeln 68 und 69 des Schengener
 Durchführungsübereinkommens nicht anzuwenden.
 
-
 ## § 4
 
 Die Aussetzung der Vollstreckung gemäß Artikel 8 Abs. 1 des
 Übereinkommens endet, wenn die verurteilte Person sich der
 Vollstreckung der Sanktion im Vollstreckungsstaat entzieht.
-
 
 ## § 5
 
@@ -70,7 +65,6 @@ angetroffen, ohne einen Entlassungsschein oder ein Dokument gleichen
 Inhalts vorweisen zu können oder ohne daß eine Mitteilung nach Artikel
 15 Buchstabe a des Übereinkommens vorliegt, so kann das Gericht
 anordnen, daß sie festzuhalten ist.
-
 
 ## § 6
 
@@ -90,7 +84,6 @@ Gericht des ersten Rechtszuges, oder, wenn gegen den Verurteilten im
 Geltungsbereich dieses Gesetzes eine Freiheitsstrafe vollstreckt wird,
 die Strafvollstreckungskammer. § 462a Abs. 1 Satz 1 und 2, Abs. 3 und
 6 der Strafprozeßordnung gilt entsprechend.
-
 
 ## § 7
 
@@ -121,7 +114,6 @@ oder wurde sie nach § 11 außer Vollzug gesetzt, so ist der
 verurteilten Person eine Abschrift dieser Entscheidung auszuhändigen.
 Diese steht einem Entlassungsschein nach § 5 gleich.
 
-
 ## § 8
 
 (1) Die Festhalteanordnung ist der verurteilten Person bei der
@@ -139,7 +131,6 @@ Gründe der Festhaltung und auf ihr Recht hinzuweisen, sich hierzu zu
 bedienen kann. Ihr ist Gelegenheit zu geben, die Festhaltegründe zu
 entkräften und Tatsachen geltend zu machen, die zu ihren Gunsten
 sprechen.
-
 
 ## § 9
 
@@ -165,7 +156,6 @@ Vollstreckungsbehörde unverzüglich mit. Diese führt unverzüglich die
 Entscheidung des zuständigen Gerichts herbei. § 6 Abs. 2 Satz 3 gilt
 entsprechend.
 
-
 ## § 10
 
 Von der Ergreifung und jeder weiteren Entscheidung über die Fortdauer
@@ -174,7 +164,6 @@ Person ihres Vertrauens unverzüglich benachrichtigt. Für die Anordnung
 ist der Richter zuständig. Außerdem ist dem Verhafteten selbst
 Gelegenheit zu geben, einen Angehörigen oder eine Person seines
 Vertrauens von der Ergreifung zu benachrichtigen.
-
 
 ## § 11
 
@@ -186,7 +175,6 @@ daß der Zweck der Festhaltung auch durch sie erreicht werden kann.
 Strafprozeßordnung sowie § 72 Abs. 1, Abs. 2 Satz 1 des
 Jugendgerichtsgesetzes gelten entsprechend.
 
-
 ## § 12
 
 (1) Für den Vollzug der Haft auf Grund einer Anordnung nach § 5 gelten
@@ -197,14 +185,12 @@ welcher der Ergriffene zu verwahren ist.
 
 (3) (weggefallen)
 
-
 ## § 13
 
 Wird die verurteilte Person aufgrund einer Festhalteanordnung
 ergriffen, so trifft die ehemalige Vollstreckungsbehörde die
 erforderlichen Maßnahmen um festzustellen, ob die Vollstreckung vom
 Vollstreckungsstaat als abgeschlossen erachtet wird.
-
 
 ## § 14
 
@@ -219,12 +205,10 @@ Vollstreckungsstaat erlittene Freiheitsentziehung ist auf die noch zu
 vollstreckende Restfreiheitsstrafe anzurechnen. § 450a Abs. 2 der
 Strafprozeßordnung gilt entsprechend.
 
-
 ## § 15
 
 Das Grundrecht der Freiheit der Person (Artikel 2 Abs. 2 Satz 2 des
 Grundgesetzes) wird nach Maßgabe dieses Gesetzes eingeschränkt.
-
 
 ## § 16
 

@@ -18,39 +18,28 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 G v. 9.8.1994 I 2071
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art 1
 
-
-
 ## Art 3 - Überleitungsvorschriften zum Arzneimittelgesetz
-
-
 
 ### § 3
 
 -
 
-
 ## Art 4 -
 
 -
-
 
 ## Art 5 -
 
 -
 
-
 ## Art 6 u. 7 -
-
-
 
 ## Art 8 - Berlin-Klausel
 
@@ -59,7 +48,6 @@ des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I
 S. 1) auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses
 Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 Überleitungsgesetzes.
-
 
 ## Art 9 - Außerkrafttreten
 
@@ -92,7 +80,6 @@ Mit Inkrafttreten dieses Gesetzes treten außer Kraft
 
 
 6\.
-
 
 ## Art 10 - Inkrafttreten
 

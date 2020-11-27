@@ -15,21 +15,14 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1992, 2094
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art 1 bis 3 -
 
-
-
 ## Art 4 - Gesetz über die Heimkehrerstiftung (HKStG)
-
-
 
 ## Art 5 - Aufhebung des Kriegsgefangenenentschädigungsgesetzes
 
@@ -79,13 +72,7 @@ beschlossen:
     Heimkehrerstiftung durch das Gesetz über die Heimkehrerstiftung nicht
     unterbrochen.
 
-
-
-
-
 ## Art 6 bis 19 -
-
-
 
 ## Art 20 - Rückkehr zum einheitlichen Verordnungsrang
 
@@ -93,10 +80,7 @@ Die Verordnung über die Gleichstellung von Personen nach § 3 des
 Häftlingshilfegesetzes kann auf der Grundlage der dortigen
 Ermächtigung durch Rechtsverordnung geändert oder aufgehoben werden.
 
-
 ## Art 21 -
-
-
 
 ## Art 22 - Inkrafttreten
 

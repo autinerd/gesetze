@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 700, 716
 
-
 ## § 1 Zweckbestimmung
 
 (1) Dieses Gesetz regelt die Ansprüche von ausgleichsberechtigten
@@ -44,7 +43,6 @@ ist.
 (3) Dieses Gesetz gilt entsprechend, wenn die ausgleichspflichtige
 Person in einem öffentlich-rechtlichen Amtsverhältnis des Bundes steht
 oder stand.
-
 
 ## § 2 Anspruch
 
@@ -80,7 +78,6 @@ mit Ablauf des Monats, in dem sie verstirbt. Für Hinterbliebene gilt §
 61 Abs. 1 Satz 1 Nr. 1 bis 3, Abs. 2 und 3 des
 Beamtenversorgungsgesetzes entsprechend.
 
-
 ## § 3 Anpassung
 
 (1) Der durch Entscheidung des Familiengerichts zugunsten der
@@ -106,12 +103,10 @@ folgenden Monats.
 Absätzen 1 und 2 in entsprechender Anwendung der §§ 20, 24 und 25 Abs.
 1 und 2 des Beamtenversorgungsgesetzes.
 
-
 ## § 4 Rückforderung
 
 Für die Rückforderung zu viel gezahlter Leistungen gilt § 52 Abs. 2
 bis 4 des Beamtenversorgungsgesetzes entsprechend.
-
 
 ## § 5 Erstattung
 

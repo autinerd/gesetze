@@ -28,7 +28,6 @@ Rechtshilfe in Strafsachen (BGBl. 1964 II S. 1369, 1386) und die
 Erleichterung einer Anwendung wird zugestimmt. Der Vertrag wird
 nachstehend veröffentlicht.
 
-
 ## Art 2
 
 Rechtshilfeersuchen polnischer Behörden, denen eine Zuwiderhandlung
@@ -37,7 +36,6 @@ werden so behandelt, als ob ihnen nach deutschem Recht eine mit Strafe
 bedrohte Handlung zugrunde läge. Die Bewilligungsbehörde kann der
 Verwaltungsbehörde, die für die Verfolgung der Zuwiderhandlung
 zuständig wäre, die Vornahme der Rechtshilfehandlung übertragen.
-
 
 ## Art 3
 

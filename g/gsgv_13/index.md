@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 23 G v. 8.11.2011 I 2178
 
-
 ## § 1 Anwendungsbereich
 
 (1) Diese Verordnung gilt für die Bereitstellung auf dem Markt von
@@ -55,13 +54,6 @@ neuen Aerosolpackungen, deren Behälter ein Gesamtfassungsvermögen von
     b)  150 Milliliter übersteigt, sofern der Behälter beim Bruch Splitter
         bilden kann.
 
-
-
-
-
-
-
-
 ## § 2 Begriffsbestimmung
 
 Im Sinne dieser Verordnung ist unter Aerosolpackung jeder nicht
@@ -72,7 +64,6 @@ Flüssigkeit, Paste oder Pulver, der mit einer Entnahmevorrichtung
 versehen ist, die es ermöglicht, seinen Inhalt in Form von in Gas
 suspendierten festen oder flüssigen Partikeln als Schaum, Paste,
 Pulver oder in flüssigem Zustand austreten zu lassen.
-
 
 ## § 3 Sicherheitsanforderungen
 
@@ -87,7 +78,6 @@ Europäischen Gemeinschaften veröffentlichten Fassung nach Ablauf der
 in der Änderungs- oder Anpassungsrichtlinie festgelegten
 Umsetzungsfrist. Die geänderte Fassung kann bereits ab Inkrafttreten
 der Änderungs- oder Anpassungsrichtlinie angewendet werden.
-
 
 ## § 4 Voraussetzungen für die Bereitstellung auf dem Markt
 
@@ -119,10 +109,6 @@ Aerosolpackungen dürfen nur auf dem Markt bereitgestellt werden, wenn
 
 2.  der Text der Etikettierung in deutscher Sprache abgefasst ist.
 
-
-
-
-
 ## § 5 Kennzeichnungen
 
 (1) Die nach § 4 Abs. 1 Nr. 1 erforderliche Konformitätskennzeichnung
@@ -134,7 +120,6 @@ muss auf jeder Aerosolpackung deutlich sichtbar angebracht sein.
 (3) Es dürfen auf der Aerosolpackung keine Zeichen oder Aufschriften
 verwendet werden, die zu Verwechslungen mit dem Zeichen "3" führen
 können.
-
 
 ## § 6 Ordnungswidrigkeiten
 

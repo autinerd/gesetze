@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 23.7.2010 I 1010
 
-
 ## Eingangsformel
 
 Auf Grund des § 46 Abs. 2 und des § 21 Abs. 1 des
@@ -29,7 +28,6 @@ vom 29. Oktober 2001 (BGBl. I S. 2785) geändert worden sind, verordnet
 das Bundesministerium für Bildung und Forschung nach Anhörung des
 Ständigen Ausschusses des Bundesinstituts für Berufsbildung im
 Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie:
-
 
 ## Inhaltsverzeichnis
 
@@ -366,13 +364,7 @@ Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie:
 
     *   Inkrafttreten, Außerkrafttreten
 
-
-
-
-
 ## Teil 1 - Struktur der IT-Fortbildung
-
-
 
 ### § 1 Struktur der IT-Fortbildung
 
@@ -439,14 +431,9 @@ strategischen Professionals, die durch die berufliche Fortbildung
 erworben worden sind, kann die zuständige Stelle Prüfungen nach den
 Teilen 3 und 4 dieser Verordnung durchführen.
 
-
 ## Teil 2 - Vorschriften für die Prüfung der operativen Professionals
 
-
-
 ### Abschnitt 1 - Gemeinsame Vorschriften für die Prüfung der operativen Professionals
-
-
 
 #### § 2 Zulassungsvoraussetzungen (Operative Professionals)
 
@@ -480,7 +467,6 @@ wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft
 macht, dass er Qualifikationen erworben hat, die die Zulassung zur
 Prüfung rechtfertigen.
 
-
 #### § 3 Gliederung der Prüfung (Operative Professionals)
 
 Die Prüfung für die operativen Professionals gliedert sich jeweils in
@@ -500,7 +486,6 @@ Die einzelnen Prüfungsteile können in beliebiger Reihenfolge an
 verschiedenen Prüfungsterminen geprüft werden; dabei ist mit dem
 letzten Prüfungsteil spätestens zwei Jahre nach dem ersten Prüfungstag
 des ersten Prüfungsteils zu beginnen.
-
 
 #### § 4 Durchführung der Prüfung im Prüfungsteil "Betriebliche IT-Prozesse"
 
@@ -531,7 +516,6 @@ Entscheidungen transparent zu machen und übergreifende Zusammenhänge
 darzustellen sowie seine/ihre Konzeptionen und Lösungsvorschläge zu
 vertreten.
 
-
 #### § 5 Durchführung der Prüfung im Prüfungsteil "Profilspezifische IT-Fachaufgaben"
 
 (1) Der Prüfungsteilnehmer/die Prüfungsteilnehmerin soll im
@@ -551,7 +535,6 @@ Regel nicht länger als 20 Minuten dauern. Die Bewertung der
 schriftlichen Prüfungsleistung und die der mündlichen
 Ergänzungsprüfung werden zu einer Note zusammengefasst. Dabei wird die
 Bewertung der schriftlichen Prüfungsleistung doppelt gewichtet.
-
 
 #### § 6 Durchführung der Prüfung im Prüfungsteil "Mitarbeiterführung und Personalmanagement"
 
@@ -576,7 +559,6 @@ Minuten dauern. Die Bewertung der schriftlichen Prüfungsleistung und
 die der mündlichen Ergänzungsprüfung werden zu einer Note
 zusammengefasst. Dabei wird die Bewertung der schriftlichen
 Prüfungsleistung doppelt gewichtet.
-
 
 #### § 7 Prüfungsinhalte im Prüfungsteil "Mitarbeiterführung und Personalmanagement"
 
@@ -770,13 +752,7 @@ Prüfungsteilnehmerin einen der folgenden Anwendungsfälle aus:
     und einsetzen, Lernprozesse gestalten, auf Lernschwierigkeiten
     reagieren sowie Lernerfolge sicherstellen kann.
 
-
-
-
-
 ### Abschnitt 2 - Geprüfter IT-Entwickler/Geprüfte IT-Entwicklerin (Certified IT Systems Manager)
-
-
 
 #### § 8 Ziel der Prüfung und Bezeichnung des Abschlusses
 
@@ -848,7 +824,6 @@ h)  Planen des Personalbedarfs und der Mitarbeiterentwicklung, Feststellen
 Geprüfter IT-Entwickler/Geprüfte IT-Entwicklerin (Certified IT Systems
 Manager).
 
-
 #### § 9 Prüfungsinhalte im Prüfungsteil "Betriebliche IT-Prozesse" (IT-Entwickler)
 
 (1) Der Prüfungsteilnehmer/die Prüfungsteilnehmerin soll durch die
@@ -909,10 +884,6 @@ k)  Umsetzung der Projekte zu leiten,
 
 
 l)  qualitätswirksame Aktivitäten zu planen und umzusetzen.
-
-
-
-
 
 #### § 10 Prüfungsinhalte im Prüfungsteil "Profilspezifische IT-Fachaufgaben" (IT-Entwickler)
 
@@ -1036,16 +1007,7 @@ thematisiert wird:
         Bewertung von Planungen für Produktverlagerungen, Beschaffungen neuer
         Produkte und Vorgehensweisen von Kostenoptimierungen.
 
-
-
-
-
-
-
-
 ### Abschnitt 3 - Geprüfter IT-Projektleiter/Geprüfte IT-Projektleiterin (Certified IT Business Manager)
-
-
 
 #### § 11 Ziel der Prüfung und Bezeichnung des Abschlusses
 
@@ -1133,7 +1095,6 @@ i)  Planen des Personalbedarfs und der Mitarbeiterentwicklung, Feststellen
 Geprüfter IT-Projektleiter/Geprüfte IT-Projektleiterin (Certified IT
 Business Manager).
 
-
 #### § 12 Prüfungsinhalte im Prüfungsteil "Betriebliche IT-Prozesse" (IT-Projektleiter)
 
 (1) Der Prüfungsteilnehmer/die Prüfungsteilnehmerin soll durch die
@@ -1203,10 +1164,6 @@ l)  IT-Lösungen in bestehende Kundenumfelder zu integrieren,
 
 m)  qualitätswirksame Aktivitäten zu planen, zu sichern und zu lenken
     sowie das Qualitätsbewusstsein der Mitarbeiter zu fördern.
-
-
-
-
 
 #### § 13 Prüfungsinhalte im Prüfungsteil "Profilspezifische IT-Fachaufgaben" (IT-Projektleiter)
 
@@ -1353,16 +1310,7 @@ Anforderungen:
 
     e)  Darstellen und Vermarkten des Projektes im Umfeld des Kunden.
 
-
-
-
-
-
-
-
 ### Abschnitt 4 - Geprüfter IT-Berater/Geprüfte IT-Beraterin (Certified IT Business Consultant)
-
-
 
 #### § 14 Ziel der Prüfung und Bezeichnung des Abschlusses
 
@@ -1428,7 +1376,6 @@ h)  Planen des Personalbedarfs und der Personalentwicklung, Feststellen
 (3) Die erfolgreich abgelegte Prüfung führt zum anerkannten Abschluss
 Geprüfter IT-Berater/Geprüfte IT-Beraterin (Certified IT Business
 Consultant).
-
 
 #### § 15 Prüfungsinhalte im Prüfungsteil "Betriebliche IT-Prozesse" (IT-Berater)
 
@@ -1496,10 +1443,6 @@ i)  Umsetzung der Projekte zu leiten; effiziente Arbeits- und
 
 
 k)  qualitätswirksame Aktivitäten zu planen und einzusetzen.
-
-
-
-
 
 #### § 16 Prüfungsinhalte im Prüfungsteil "Profilspezifische IT-Fachaufgaben" (IT-Berater)
 
@@ -1613,16 +1556,7 @@ Anforderungen:
 
     d)  Darstellen und Vermarkten der Produkte im Umfeld des Kunden.
 
-
-
-
-
-
-
-
 ### Abschnitt 5 - Geprüfter IT-Ökonom/Geprüfte IT-Ökonomin (Certified IT Marketing Manager)
-
-
 
 #### § 17 Ziel der Prüfung und Bezeichnung des Abschlusses
 
@@ -1681,7 +1615,6 @@ d)  Planen des Personalbedarfs und der Mitarbeiterentwicklung, Feststellen
 (3) Die erfolgreich abgelegte Prüfung führt zum anerkannten Abschluss
 Geprüfter IT-Ökonom/Geprüfte IT-Ökonomin (Certified IT Marketing
 Manager).
-
 
 #### § 18 Prüfungsinhalte im Prüfungsteil "Betriebliche IT-Prozesse" (IT-Ökonom)
 
@@ -1749,10 +1682,6 @@ g)  Umsetzung der Projekte budgetwirksam zu leiten,
 
 h)  qualitätswirksame Aktivitäten zu planen, zu sichern und zu lenken
     sowie das Qualitätsbewusstsein der Mitarbeiter zu fördern.
-
-
-
-
 
 #### § 19 Prüfungsinhalte im Prüfungsteil "Profilspezifische IT-Fachaufgaben" (IT-Ökonom)
 
@@ -1845,16 +1774,7 @@ Anforderungen:
     c)  Beurteilen und Berücksichtigen von organisatorischen und personellen
         Maßnahmen als Kostenfaktoren.
 
-
-
-
-
-
-
-
 ### Abschnitt 6 - Bewertung der Prüfungsteile und Bestehen der Prüfung
-
-
 
 #### § 20 Bewerten der Prüfungsteile und Bestehen der Prüfung
 
@@ -1882,7 +1802,6 @@ und ein Zeugnis gemäß der Anlage 2 auszustellen. Im Falle der
 Freistellung gemäß § 32 sind Ort und Datum der anderweitig abgelegten
 Prüfung und die Bezeichnung des Prüfungsgremiums anzugeben.
 
-
 #### § 21 Ausbildereignung
 
 (1) Wer die Prüfung nach dieser Verordnung zu einem Abschluss der
@@ -1898,14 +1817,9 @@ ausgewählt hat, hat die berufs- und arbeitspädagogische Qualifikation
 nach dem Berufsbildungsgesetz nachgewiesen. Hierüber ist dem
 Prüfungsteilnehmer/der Prüfungsteilnehmerin ein Zeugnis auszustellen.
 
-
 ## Teil 3 - Vorschriften für die Prüfung der strategischen Professionals
 
-
-
 ### Abschnitt 1 - Gemeinsame Vorschriften für die Prüfung der strategischen Professionals
-
-
 
 #### § 22 Zulassungsvoraussetzungen (Strategische Professionals)
 
@@ -1951,7 +1865,6 @@ wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft
 macht, dass er/sie Qualifikationen erworben hat, die die Zulassung zur
 Prüfung rechtfertigen.
 
-
 #### § 23 Gliederung der Prüfung (Strategische Professionals)
 
 Die Prüfung für die strategischen Professionals gliedert sich in die
@@ -1971,7 +1884,6 @@ Die einzelnen Prüfungsteile können in beliebiger Reihenfolge an
 verschiedenen Prüfungsterminen geprüft werden; dabei ist mit dem
 letzten Prüfungsteil spätestens zwei Jahre nach dem ersten Prüfungstag
 des ersten Prüfungsteils zu beginnen.
-
 
 #### § 24 Durchführung der Prüfung im Prüfungsteil "Strategische Prozesse"
 
@@ -1999,7 +1911,6 @@ darüber eine Aussprache geführt wird. Die Präsentation soll mindestens
 20 Minuten und höchstens 30 Minuten, das Fachgespräch und die
 Präsentation zusammen mindestens 90 Minuten und höchstens 120 Minuten
 dauern.
-
 
 #### § 25 Durchführung der Prüfung im Prüfungsteil "Projekt- und Geschäftsbeziehungen"
 
@@ -2049,10 +1960,6 @@ c)  Pflege strategisch wichtiger internationaler Kunden und Partner,
 d)  Durchführen von strategischen Allianzen und Fusionen, Bilden von
     Tochtergesellschaften, Durchführen von Ausgründungen oder Errichten
     dezentraler Standorte.
-
-
-
-
 
 #### § 26 Durchführung der Prüfung im Prüfungsteil "Strategisches Personalmanagement"
 
@@ -2171,16 +2078,7 @@ Qualifikationsschwerpunkte berücksichtigen:
     d)  Realisieren von Konzepten zum Wissensmanagement (Knowledge-
         Management).
 
-
-
-
-
-
-
-
 ### Abschnitt 2 - Geprüfter Informatiker/Geprüfte Informatikerin (Certified IT Technical Engineer)
-
-
 
 #### § 27 Ziel der Prüfung und Bezeichnung des Abschlusses
 
@@ -2263,7 +2161,6 @@ l)  Entwickeln und Pflegen fremdsprachlicher Kommunikation im eigenen
 Geprüfter Informatiker/Geprüfte Informatikerin (Certified IT Technical
 Engineer).
 
-
 #### § 28 Prüfungsinhalte im Prüfungsteil "Strategische Prozesse" (Informatiker)
 
 Durch die Ausarbeitung und das Fachgespräch gemäß § 24 soll der
@@ -2288,13 +2185,7 @@ d)  Erläutern der vorgeschlagenen, einzusetzenden Methoden und Verfahren,
 
 e)  analytisches Bewerten der dargestellten Lösungsvorschläge.
 
-
-
-
-
 ### Abschnitt 3 - Geprüfter/ Wirtschaftsinformatiker/Geprüfte Wirtschaftsinformatikerin (Certified IT Business Engineer)
-
-
 
 #### § 29 Ziel der Prüfung und Bezeichnung des Abschlusses
 
@@ -2379,7 +2270,6 @@ l)  Entwickeln und Pflegen fremdsprachlicher Kommunikation im eigenen
 Geprüfter Wirtschaftsinformatiker/Geprüfte Wirtschaftsinformatikerin
 (Certified IT Business Engineer).
 
-
 #### § 30 Prüfungsinhalte im Prüfungsteil "Strategische Prozesse" (Wirtschaftsinformatiker)
 
 Durch die Ausarbeitung und das Fachgespräch gemäß § 24 soll der
@@ -2404,13 +2294,7 @@ d)  Darstellen der Ergebnisse von Marktanalysen und Marketingstrategien,
 
 e)  analytisches Reflektieren der dargestellten Lösungsvorschläge.
 
-
-
-
-
 ### Abschnitt 4 - Bewertung der Prüfungsteile und Bestehen der Prüfung
-
-
 
 #### § 31 Bestehen der Prüfung
 
@@ -2429,10 +2313,7 @@ und ein Zeugnis gemäß der Anlage 4 auszustellen. Im Fall der
 Freistellung gemäß § 32 sind Ort und Datum der anderweitig abgelegten
 Prüfung und die Bezeichnung des Prüfungsgremiums anzugeben.
 
-
 ## Teil 4 - Gemeinsame Vorschriften, Übergangs- und Schlussvorschriften
-
-
 
 ### § 32 Anrechnung anderer Prüfungsleistungen
 
@@ -2444,7 +2325,6 @@ staatlich anerkannten Bildungseinrichtung oder vor einem staatlichen
 Prüfungsausschuss eine Prüfung bestanden hat, die den Anforderungen
 dieser Prüfungsleistung entspricht. Eine vollständige Freistellung ist
 nicht zulässig.
-
 
 ### § 33 Wiederholung der Prüfung
 
@@ -2461,7 +2341,6 @@ hat. Der Prüfungsteilnehmer/die Prüfungsteilnehmerin kann beantragen,
 auch bestandene Prüfungsleistungen zu wiederholen. In diesem Fall wird
 das letzte Ergebnis für das Bestehen berücksichtigt.
 
-
 ### § 34 Übergangsvorschriften
 
 Begonnene Prüfungsverfahren können bis zum 31. März 2005 nach den
@@ -2471,7 +2350,6 @@ Wiederholungsprüfung auch gemäß dieser Verordnung durchführen; § 33
 Abs. 2 findet in diesem Fall keine Anwendung. Im Übrigen kann bei der
 Anmeldung zur Prüfung bis zum Ablauf des 30. April 2003 die Anwendung
 der bisherigen Vorschriften beantragt werden.
-
 
 ### § 35 Inkrafttreten, Außerkrafttreten
 
@@ -2486,7 +2364,6 @@ Betriebsinformatiker, Mathematisch-technischer Assistent,
 Mathematisch-technischer Informatiker, Netzwerk-Manager IHK für
 heterogene Netzwerktechnik und Kommunikation, Programmierer,
 Softwareentwickler, IT-Fachwirt und Informatikassistent außer Kraft.
-
 
 ### Anlage 1 (zu § 20 Abs. 5)
 
@@ -2516,7 +2393,6 @@ bestanden.
 Datum ........................................
 Unterschrift(en) .............................
 (Siegel der zuständigen Stelle)
-
 
 ### Anlage 2 (zu § 20 Abs. 5)
 
@@ -2584,7 +2460,6 @@ Punktebewertungen der drei Prüfungsteile gebildet. Dabei hat der
 Prüfungsteil "Betriebliche IT-Prozesse" das doppelte Gewicht gegenüber
 den beiden anderen Prüfungsteilen.
 
-
 ### Anlage 3 (zu § 31 Abs. 4)
 
 (Fundstelle: BGBl. I 2002, 1564;
@@ -2613,7 +2488,6 @@ bestanden.
 Datum .........................................
 Unterschrift(en) ...............................
 (Siegel der zuständigen Stelle)
-
 
 ### Anlage 4 (zu § 31 Abs. 4)
 
@@ -2670,7 +2544,6 @@ Punktebewertungen der drei Prüfungsteile gebildet. Dabei hat der
 Prüfungsteil "Strategische Prozesse" das doppelte Gewicht gegenüber
 den
 beiden anderen Prüfungsteilen.
-
 
 ### Anlage 5 (zu § 2 Absatz 2) Spezialistenprofile in der IT-Fortbildung
 
@@ -2755,9 +2628,6 @@ zu geben und darüber ein Fachgespräch zu führen.
 
 
 14. Security Technician (Sicherheitstechniker und Sicherheitstechnikerin).
-
-
-
 
 ## Profilgruppe Software und Solution Developer
 
@@ -3639,10 +3509,6 @@ zu geben und darüber ein Fachgespräch zu führen.
     Tiefe und das Verfahren der Spezialistenqualifizierung abbildet,
     nachzuweisen.
 
-
-
-
-
 ## Profilgruppe Customer Advisor
 
 
@@ -4234,10 +4100,6 @@ zu geben und darüber ein Fachgespräch zu führen.
     Tiefe und das Verfahren der Spezialistenqualifizierung abbildet,
     nachzuweisen.
 
-
-
-
-
 ## Profilgruppe Administrator
 
 
@@ -4480,10 +4342,6 @@ zu geben und darüber ein Fachgespräch zu führen.
     eine Bescheinigung insbesondere von Arbeitgebern, die die Breite, die
     Tiefe und das Verfahren der Spezialistenqualifizierung abbildet,
     nachzuweisen.
-
-
-
-
 
 ## Profilgruppe Coordinator
 
@@ -5086,10 +4944,6 @@ zu geben und darüber ein Fachgespräch zu führen.
     eine Bescheinigung insbesondere von Arbeitgebern, die die Breite, die
     Tiefe und das Verfahren der Spezialistenqualifizierung abbildet,
     nachzuweisen.
-
-
-
-
 
 ## Profilgruppe Technician
 

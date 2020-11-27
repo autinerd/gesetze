@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 11 G v. 6.7.2009 I 1696
 
-
 ## I. - Behörden
-
-
 
 ### § 1
 
@@ -31,17 +28,13 @@ in Unterbringungsangelegenheiten im Sinne des § 312 Nr. 1 und 2 des
 Gesetzes über das Verfahren in Familiensachen und in den
 Angelegenheiten der freiwilligen Gerichtsbarkeit zuständig.
 
-
 ### § 2
 
 Zur Durchführung überörtlicher Aufgaben oder zur Erfüllung einzelner
 Aufgaben der örtlichen Behörde können nach Landesrecht weitere
 Behörden vorgesehen werden.
 
-
 ## II. - Örtliche Zuständigkeit
-
-
 
 ### § 3
 
@@ -59,10 +52,7 @@ Unterbringungsverfahrens, so bleibt für dieses Verfahren die zuletzt
 angehörte Behörde allein zuständig, bis die nunmehr zuständige Behörde
 dem Gericht den Wechsel schriftlich anzeigt.
 
-
 ## III. - Aufgaben der örtlichen Behörde
-
-
 
 ### § 4
 
@@ -70,13 +60,11 @@ Die Behörde berät und unterstützt Betreuer und Bevollmächtigte auf
 ihren Wunsch bei der Wahrnehmung ihrer Aufgaben, die Betreuer
 insbesondere auch bei der Erstellung des Betreuungsplans.
 
-
 ### § 5
 
 Die Behörde sorgt dafür, daß in ihrem Bezirk ein ausreichendes Angebot
 zur Einführung der Betreuer in ihre Aufgaben und zu ihrer Fortbildung
 vorhanden ist.
-
 
 ### § 6
 
@@ -113,7 +101,6 @@ von Absatz 5 zu regeln. Die Landesregierungen können die Ermächtigung
 nach Satz 1 durch Rechtsverordnung auf die Landesjustizverwaltungen
 übertragen.
 
-
 ### § 7
 
 (1) Die Behörde kann dem Betreuungsgericht Umstände mitteilen, die die
@@ -128,7 +115,6 @@ und der Empfänger sind aktenkundig zu machen.
 
 (3) (weggefallen)
 
-
 ### § 8
 
 Die Behörde unterstützt das Betreuungsgericht. Dies gilt insbesondere
@@ -139,17 +125,13 @@ sie eine Person vor, die sich im Einzelfall zum Betreuer oder
 Verfahrenspfleger eignet. Die Behörde teilt dem Betreuungsgericht den
 Umfang der berufsmäßig geführten Betreuungen mit.
 
-
 ### § 9
 
 Die Aufgaben, die der Behörde nach anderen Vorschriften obliegen,
 bleiben unberührt. Zuständige Behörde im Sinne dieser Vorschriften ist
 die örtliche Behörde.
 
-
 ## IV. - Berlin-Klausel
-
-
 
 ### § 10
 

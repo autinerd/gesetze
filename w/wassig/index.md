@@ -19,12 +19,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 Abs. 20 G v. 12. 8.2005 I 2354
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## § 1 Grundsatz
 
@@ -70,10 +68,7 @@ eingegriffen wird.
 der Zivilbevölkerung (Schutzbaugesetz) vom 9. September 1965
 (Bundesgesetzbl. I S. 1232) bleiben unberührt.
 
-
 ## Erster Teil - Vorsorgemaßnahmen
-
-
 
 ### § 2 Verpflichtung zu Maßnahmen der Vorsorge
 
@@ -138,7 +133,6 @@ hat eine andere Person ein Recht an dem Grundstück, so kann der
 Eigentümer, der Besitzer oder die andere Person zur Duldung der
 Maßnahme verpflichtet werden.
 
-
 ### § 3 Rechtsverordnungen
 
 Die Bundesregierung kann durch Rechtsverordnung mit Zustimmung des
@@ -154,10 +148,6 @@ Bundesrates nähere Vorschriften erlassen über
 
 3.  die technischen Anforderungen, denen Anlagen, zu deren Bau oder Umbau
     nach § 2 Abs. 1 verpflichtet werden kann, genügen müssen.
-
-
-
-
 
 ### § 4 Planung der Maßnahmen
 
@@ -183,7 +173,6 @@ Maßnahmen vor.
 (4) Die zuständige Behörde setzt eine Frist, in der ihr der Plan
 vorzulegen ist, und prüft den Plan.
 
-
 ### § 5 Entscheidung über die Leistungspflicht
 
 (1) Die zuständige Behörde bestimmt Art und Umfang der
@@ -204,7 +193,6 @@ diejenigen, die sie als Leistungspflichtige in Aussicht genommen hat,
 die für den Verpflichtungsbescheid erforderlichen Unterlagen,
 insbesondere Lageplan, Zeichnungen, Kostenanschlag, Nachweisungen und
 Beschreibungen, einreichen.
-
 
 ### § 6 Inhalt des Verpflichtungsbescheides
 
@@ -228,7 +216,6 @@ Beschreibungen, einreichen.
 Rechtsmittelbelehrung zu versehen und dem Leistungspflichtigen
 zuzustellen.
 
-
 ### § 7 Zusatzplanung
 
 (1) Ist infolge einer wesentlichen Änderung der Voraussetzungen, auf
@@ -241,7 +228,6 @@ entsprechend.
 (2) Für die Leistungspflicht und den Verpflichtungsbescheid gelten die
 §§ 5 und 6 entsprechend.
 
-
 ### § 8 Verwendung der Anlagen
 
 Die auf Grund des Verpflichtungsbescheides gebauten Anlagen dürfen nur
@@ -251,7 +237,6 @@ nur versagt werden, soweit die Verwendung zu den in § 1 genannten
 Zwecken beeinträchtigt wird. Die öffentlich-rechtlichen Vorschriften,
 insbesondere die wasserrechtlichen Vorschriften über die Erlaubnis und
 Bewilligung, bleiben unberührt.
-
 
 ### § 9 Instandhaltung und Änderung
 
@@ -269,7 +254,6 @@ begonnen werden, sofern die zuständige Behörde das Vorhaben auf Grund
 des Satzes 2 nicht untersagt. Die Vorschriften, nach denen die
 Ausführung des Vorhabens einer behördlichen Genehmigung bedarf,
 bleiben unberührt.
-
 
 ### § 10 Aufwendungsersatz an Leistungspflichtige
 
@@ -291,7 +275,6 @@ Vorteile bei dem Ersatz der Aufwendungen nach Absatz 1 angemessen zu
 berücksichtigen. Soweit die Aufwendungen ohne Berücksichtigung dieser
 Vorteile ersetzt sind, hat der Leistungspflichtige zu ihrem Ausgleich
 einen angemessenen Betrag zurückzuerstatten.
-
 
 ### § 11 Ausstattung
 
@@ -330,7 +313,6 @@ Zwecke als die des § 1, so gilt § 10 Abs. 3 entsprechend. Den
 Aufwendungsersatz leistet die zuständige Behörde für Rechnung des
 Bundes.
 
-
 ### § 12 Vorratshaltung
 
 (1) Die Bundesregierung wird ermächtigt, für die Zwecke des § 1 durch
@@ -353,10 +335,7 @@ sonstigen Betriebsmitteln werden dem Leistungspflichtigen ersetzt. Den
 Aufwendungsersatz leistet die zuständige Behörde für Rechnung des
 Bundes.
 
-
 ## Zweiter Teil - Vorschriften für den Verteidigungsfall
-
-
 
 ### § 13 Rechtsverordnungen über Maßnahmen im Verteidigungsfall
 
@@ -395,14 +374,12 @@ ermächtigten Stellen, die auf Grund einer Rechtsverordnung nach Absatz
 2 erlassen werden, treten spätestens mit dieser Rechtsverordnung außer
 Kraft.
 
-
 ### § 14 Benutzung der Gewässer
 
 Die Benutzung der Gewässer mittels Anlagen und Einrichtungen, auf die
 sich der Verpflichtungsbescheid bezieht, bedarf keiner Erlaubnis oder
 Bewilligung nach wasserrechtlichen Vorschriften, soweit die Benutzung
 im Verteidigungsfall für Zwecke des § 1 erforderlich ist.
-
 
 ### § 15 Duldungspflichten
 
@@ -414,10 +391,7 @@ Vollzug der nach § 13 zu erlassenden Vorschriften behindert oder
 unterbrochen wird, soweit der Benutzung oder dem Vollzug aus Gründen
 der Verteidigung der Vorrang gebührt.
 
-
 ## Dritter Teil - Gemeinsame Vorschriften
-
-
 
 ### § 16 Ausführung des Gesetzes
 
@@ -437,14 +411,12 @@ Auftragsangelegenheiten ein kollegiales Organ zuständig ist, tritt an
 dessen Stelle der Hauptverwaltungsbeamte der Gemeinde oder des
 Gemeindeverbandes.
 
-
 ### § 17 Vorbereitung des Vollzugs
 
 Der Bund, die Länder, die Gemeinden und Gemeindeverbände haben die
 personellen, organisatorischen und materiellen Voraussetzungen zur
 Durchführung der Maßnahmen zu schaffen, die für die in § 1
 bezeichneten Zwecke erforderlich sind.
-
 
 ### § 18 Auskünfte
 
@@ -479,7 +451,6 @@ Steuerordnungswidrigkeit verwendet werden. Die Vorschriften der §§ 93,
 97, 105 Abs. 1, § 111 Abs. 5 in Verbindung mit § 105 Abs. 1 sowie §
 116 Abs. 1 der Abgabenordnung gelten insoweit nicht.
 
-
 ### § 19 Entschädigung
 
 (1) Stellt eine Maßnahme auf Grund dieses Gesetzes oder einer nach
@@ -507,7 +478,6 @@ Bundesleistungsgesetzes entsprechend anzuwenden. Dabei tritt an die
 Stelle der Anforderungsbehörden die zuständige Behörde nach § 26
 dieses Gesetzes.
 
-
 ### § 20 Enteignung auf Verlangen
 
 (1) Ist die Gemeinde auf Grund des § 2 Abs. 2 zur Durchführung von
@@ -527,7 +497,6 @@ Antrages nach § 11 des Landbeschaffungsgesetzes das Verlangen des
 Eigentümers tritt. Zuständige Behörde ist die in § 26 genannte
 Behörde.
 
-
 ### § 21 Härteausgleich
 
 (1) Wird durch eine Maßnahme auf Grund dieses Gesetzes oder einer nach
@@ -540,7 +509,6 @@ oder zum Ausgleich unbilliger Härten geboten erscheint.
 (2) Zur Leistung der Entschädigung ist der Bund verpflichtet.
 
 (3) § 19 Abs. 3 ist entsprechend anzuwenden.
-
 
 ### § 22 Zustellungen
 
@@ -556,11 +524,9 @@ Bekanntmachung in der Presse, im Rundfunk oder in einer sonstigen
 ortsüblichen und geeigneten Weise erfolgen. In diesen Fällen gilt die
 Zustellung mit dem auf die Bekanntgabe folgenden Tage als bewirkt.
 
-
 ### § 23
 
 -
-
 
 ### § 24 Kosten der Auftragsverwaltung
 
@@ -570,7 +536,6 @@ dieses Gesetzes erlassenen Rechtsverordnungen und allgemeinen
 Verwaltungsvorschriften und der Weisungen des Bundesministers des
 Innern entstehen; persönliche und sächliche Verwaltungskosten werden
 nicht übernommen.
-
 
 ### § 25 Haushaltsrechtliche Vorschriften
 
@@ -587,7 +552,6 @@ auf die für Rechnung des Bundes zu leistenden Ausgaben und die mit
 ihnen zusammenhängenden Einnahmen die landesrechtlichen Vorschriften
 über die Kassen- und Buchführung der zuständigen Landes- und
 Gemeindebehörden angewendet werden.
-
 
 ### § 26 Zuständige Behörde
 
@@ -607,15 +571,11 @@ Verwaltung mehrerer Länder untersteht, so können die beteiligten
 Landesregierungen die zuständige Behörde im gegenseitigen Einvernehmen
 bestimmen.
 
-
 ## Vierter Teil - Straf- und Bußgeldbestimmungen
-
-
 
 ### § 27
 
 -
-
 
 ### § 28 Zuwiderhandlung gegen Sicherstellungsmaßnahmen im Verteidigungsfall
 
@@ -625,7 +585,6 @@ solchen Rechtsverordnung ergangene vollziehbare Verfügung verstößt,
 begeht eine Zuwiderhandlung im Sinne des Wirtschaftsstrafgesetzes
 1954, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf
 diese Vorschrift verweist.
-
 
 ### § 29 Ordnungswidrigkeiten
 
@@ -657,14 +616,9 @@ diese Vorschrift verweist.
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu zehntausend
 Euro geahndet werden.
 
-
 ### (XXXX) §§ 30 bis 32 (weggefallen)
 
-
-
 ## Fünfter Teil - Schlußbestimmungen
-
-
 
 ### § 33 Anlagen des Bundes und der verbündeten Streitkräfte
 
@@ -688,11 +642,9 @@ Behörden im Einvernehmen mit dem Bundesminister des Innern an Stelle
 der nach diesem Gesetz zuständigen Behörden die erforderlichen
 Maßnahmen.
 
-
 ### § 34
 
 -
-
 
 ### § 35 Stadtstaaten-Klausel
 
@@ -702,17 +654,14 @@ besonderen Verwaltungsaufbau ihrer Länder anzupassen und insbesondere
 zu bestimmen, welche Stellen die Aufgaben der Gemeinden nach Maßgabe
 dieses Gesetzes wahrzunehmen haben.
 
-
 ### § 36 Einschränkung des Grundrechts der Unverletzlichkeit der Wohnung
 
 Das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des
 Grundgesetzes) wird nach Maßgabe dieses Gesetzes eingeschränkt.
 
-
 ### § 37 Inkrafttreten
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
-
 
 ### Schlußformel
 

@@ -18,11 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 312 V v. 31.10.2006 I 2407
 
-
 ## § 1 (weggefallen)
 
 -
-
 
 ## § 2 Verordnungsermächtigung
 
@@ -35,14 +33,12 @@ zuletzt geändert durch
 im Einvernehmen mit dem Bundesministerium der Finanzen durch
 Rechtsverordnung zu Bundeswasserstraßen zu erklären.
 
-
 ## § 3 Durchleiten von Wasser
 
 Über das Durchleiten von Wasser für wasserwirtschaftliche und
 landeskulturelle Zwecke durch die Wasserstraßen nach § 1 Abs. 1 Nr. 1
 und 2 und die damit zusammenhängenden Fragen werden Bund und Bayern
 eine gesonderte Vereinbarung treffen.
-
 
 ## § 4 Eigentumsverhältnisse und Fischereirechte
 
@@ -61,16 +57,13 @@ Dritter bleiben unberührt.
 Bundes und Bayerns berichtigt. Der Übergang des Eigentums und der
 anderen Rechte ist von Abgaben und Kosten befreit.
 
-
 ## § 5
 
 -
 
-
 ## § 6 (weggefallen)
 
 -
-
 
 ## § 7 Inkrafttreten
 

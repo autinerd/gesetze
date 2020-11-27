@@ -16,17 +16,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1965, 2114
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Erster Abschnitt - Anpassung der Renten aus den gesetzlichen Rentenversicherungen
-
-
 
 ### § 1
 
@@ -46,7 +41,6 @@ Sozialversicherungs-Angleichungsgesetzes Saar vom 15. Juni 1963
 (Bundesgesetzbl. I S. 402).
 
 (3) Absatz 1 findet auf den Knappschaftssold keine Anwendung.
-
 
 ### § 2
 
@@ -80,7 +74,6 @@ worden ist.
 Rentenversicherung, die nach
 Artikel 2 § 24 Abs. 5 des Knappschaftsrentenversicherungs-
 Neuregelungsgesetzes              gezahlt werden.
-
 
 ### § 3
 
@@ -202,7 +195,6 @@ von 801,10 Deutsche Mark und in § 3 Abs. 2 der Verordnung an die
 Stelle des Betrags von 4.281,00 Deutsche Mark der Betrag von 7.275,00
 Deutsche Mark tritt.
 
-
 ### § 4
 
 (1) Die übrigen Renten werden in der Weise angepaßt, daß der nach § 5
@@ -245,7 +237,6 @@ Angestelltenversicherungs-Neuregelungsgesetzes oder Artikel 2 § 11 des
 Knappschaftsrentenversicherungs-Neuregelungsgesetzes nicht angewandt
 worden wäre und sie nach § 2 angepaßt werden würden.
 
-
 ### § 5
 
 (1) Anpassungsbetrag ist in den Fällen des § 4 der Rentenzahlbetrag
@@ -280,7 +271,6 @@ in den Fällen des Satzes 1 bei der Berechnung einer Versicherten- und
 einer Hinterbliebenenrente desselben Berechtigten ein Sonderzuschuß zu
 berücksichtigen gewesen, so gilt als Sonderzuschuß der Betrag von 21
 Deutsche Mark.
-
 
 ### § 6
 
@@ -323,7 +313,6 @@ den §§ 1278, 1279 der Reichsversicherungsordnung oder die in den §§
 die bei der Berechnung der Rente nach § 3 zu berücksichtigen sind,
 nicht überschreiten.
 
-
 ### § 7
 
 (1) Leistungen nach § 27 des Sozialversicherungs-Angleichungsgesetzes
@@ -343,7 +332,6 @@ des saarländischen Gesetzes Nr. 345 in der Fassung der Bekanntmachung
 vom 29. Juli 1953 (Amtsblatt des Saarlandes S. 520) errechnete
 Vergleichsleistung ergeben würde.
 
-
 ### § 8
 
 Die Vorschriften dieses Abschnitts gelten im Saarland unter
@@ -359,10 +347,7 @@ Gesetzes Nr. 635 zur Einführung des Reichsknappschaftsgesetzes und des
 Knappschaftsrentenversicherungs-Neuregelungsgesetzes im Saarland vom
 18\. Juni 1958 (Amtsblatt des Saarlandes S. 1099) gewährt werden.
 
-
 ## Zweiter Abschnitt - Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung
-
-
 
 ### § 9
 
@@ -399,7 +384,6 @@ Unfallversicherung vom 30. April 1963 (Bundesgesetzbl. I S. 241) gilt
 als Unfalljahr das Jahr, für das der Jahresarbeitsverdienst zuletzt
 festgesetzt worden ist.
 
-
 ### § 10
 
 (1) Die Geldleistungen werden in der Weise angepaßt, daß sie nach
@@ -422,7 +406,6 @@ Versicherungsträgers zahlenmäßig festgesetzt ist, werden sie in der
 Weise angepaßt, daß sie auf Grund des am 1. Januar 1964 maßgeblichen
 Betrags berechnet werden.
 
-
 ### § 11
 
 Der vervielfältigte Jahresarbeitsverdienst darf den Betrag von 36.000
@@ -431,10 +414,7 @@ Satz 2 und 3 der Reichsversicherungsordnung ein höherer Betrag
 bestimmt worden ist. In diesem Fall tritt an die Stelle des Betrags
 von 36.000 Deutsche Mark der höhere Betrag.
 
-
 ## Dritter Abschnitt - Gemeinsame Vorschriften und Schlußvorschriften
-
-
 
 ### § 12
 
@@ -464,7 +444,6 @@ Grund der bisherigen gesetzlichen Vorschriften festgestellt worden ist
 oder hätte festgestellt werden müssen, höher, als sie bei der
 Anpassung nach dem Zweiten Abschnitt sein würde, so ist dem
 Berechtigten die höhere Leistung zu gewähren.
-
 
 ### § 13
 
@@ -501,7 +480,6 @@ im Saarland mit der Maßgabe, daß das Bundesentschädigungsgesetz und
 das Lastenausgleichsgesetz unter Berücksichtigung ihrer im Saarland
 geltenden Fassung anzuwenden sind.
 
-
 ### § 14
 
 (1) Jedem Rentenempfänger ist eine schriftliche Mitteilung über die
@@ -518,13 +496,11 @@ Die §§ 627 und 1300 der Reichsversicherungsordnung, § 79 des
 Angestelltenversicherungsgesetzes und § 93 Abs. 1 des
 Reichsknappschaftsgesetzes bleiben unberührt.
 
-
 ### § 15
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
 im Land Berlin.
-
 
 ### § 16
 

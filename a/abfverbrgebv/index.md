@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 23.5.2007 I 952
 
-
 ## Eingangsformel
 
 Auf Grund des § 4 Abs. 6 Nr. 3 in Verbindung mit Abs. 4 des
@@ -29,7 +28,6 @@ S. 2331) neu gefasst worden ist, in Verbindung mit dem 2. Abschnitt
 des Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821)
 verordnet die Bundesregierung:
 
-
 ## § 1 Anwendungsbereich
 
 Diese Verordnung gilt für Amtshandlungen des Umweltbundesamtes als
@@ -37,14 +35,12 @@ zuständige Behörde für die Entscheidung über die
 notifizierungsbedürftige Verbringung von Abfällen durch die
 Bundesrepublik Deutschland.
 
-
 ## § 2 Gebühren und Auslagen
 
 Im Rahmen des § 1 werden Gebühren nach Maßgabe des in der Anlage
 enthaltenen Gebührenverzeichnisses erhoben. Die Gebühr beträgt gemäß §
 4 Abs. 6 Nr. 3 des Abfallverbringungsgesetzes im Einzelfall höchstens
 5\.000 Euro. Auslagen werden nicht gesondert erhoben.
-
 
 ## § 3 Gebühren bei erfolglosen und zurückgenommenen Widersprüchen
 
@@ -66,7 +62,6 @@ jedoch vor deren Beendigung zurückgenommen, beträgt die Gebühr bis zu
 Richtete sich der Widerspruch allein gegen eine Kostenentscheidung,
 ist eine Gebühr von 15 Euro zu erheben.
 
-
 ## § 4 Übergangsvorschrift
 
 Für Amtshandlungen des Umweltbundesamtes im Zusammenhang mit
@@ -82,7 +77,6 @@ geändert durch die Verordnung (EG) Nr. 2557/2001 der Kommission vom
 28\. Dezember 2001 (ABl. EG Nr. L 349 S. 1), unterliegt, ist die
 Abfallverbringungsgebührenverordnung vom 17. Dezember 2003 (BGBl. I S.
 2749) in der vor dem 12. Juli 2007 geltenden Fassung anzuwenden.
-
 
 ## Anlage (zu § 2) Gebührenverzeichnis
 

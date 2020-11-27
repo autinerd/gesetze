@@ -18,16 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 G v. 12.7.2007 I 1326
 
-
 ## Erster Abschnitt - Die Bundesversammlung
-
-
 
 ### § 1
 
 Der Präsident des Bundestages bestimmt Ort und Zeit des
 Zusammentrittes der Bundesversammlung.
-
 
 ### § 2
 
@@ -53,11 +49,9 @@ Mitglieder der Bundesversammlung gebildeter Ausschuß. Kommt eine
 rechtzeitige Wahl nicht zustande, so bleiben die auf das Land
 entfallenden Sitze unbesetzt.
 
-
 ### § 3
 
 Zur Bundesversammlung ist wählbar, wer zum Bundestag wählbar ist.
-
 
 ### § 4
 
@@ -94,7 +88,6 @@ des Landtages. Absatz 4 gilt entsprechend.
 (6) Der Präsident des Landtages übermittelt das Ergebnis der Wahl dem
 Präsidenten des Bundestages.
 
-
 ### § 5
 
 Jedes Mitglied des Landtages und jeder in eine Vorschlagsliste
@@ -106,12 +99,10 @@ Zusammentritt der Bundesversammlung. Ergeht bis dahin keine
 Entscheidung, so entscheidet die Bundesversammlung. Der Präsident des
 Bundestages bereitet die Entscheidung der Bundesversammlung vor.
 
-
 ### § 6
 
 Wird die Wahl nach § 2 Abs. 2 Satz 3 von einem Landtagsausschuß
 vorgenommen, so gelten §§ 4 und 5 entsprechend.
-
 
 ### § 7
 
@@ -122,10 +113,7 @@ Bundestag oder seinem zuständigen Ausschuss erlassenen Regelungen in
 Immunitätsangelegenheiten gelten entsprechend. Die Mitglieder sind an
 Aufträge und Weisungen nicht gebunden.
 
-
 ## Zweiter Abschnitt - Wahl des Bundespräsidenten
-
-
 
 ### § 8
 
@@ -133,7 +121,6 @@ Der Präsident des Bundestages leitet die Sitzungen und Geschäfte der
 Bundesversammlung. Auf ihren Geschäftsgang findet die Geschäftsordnung
 des Bundestages sinngemäße Anwendung, sofern sich nicht die
 Bundesversammlung eine eigene Geschäftsordnung gibt.
-
 
 ### § 9
 
@@ -161,23 +148,18 @@ so gilt die Wahl als abgelehnt.
 (5) Der Präsident des Bundestages erklärt die Bundesversammlung für
 beendet, nachdem der Gewählte die Wahl angenommen hat.
 
-
 ### § 10
 
 Das Amt des Bundespräsidenten beginnt mit dem Ablauf der Amtszeit
 seines Vorgängers, jedoch nicht vor Eingang der Annahmeerklärung beim
 Präsidenten des Bundestages.
 
-
 ### § 11
 
 Der Präsident des Bundestages veranlaßt die Eidesleistung des
 Bundespräsidenten.
 
-
 ## Dritter Abschnitt - Schlußvorschriften
-
-
 
 ### § 12
 
@@ -185,11 +167,9 @@ Die Mitglieder der Bundesversammlung erhalten eine Entschädigung,
 deren Höhe der Präsident des Bundestages in sinngemäßer Anwendung der
 für die Mitglieder des Bundestages geltenden Bestimmungen festsetzt.
 
-
 ### § 13
 
 (weggefallen)
-
 
 ### § 14
 

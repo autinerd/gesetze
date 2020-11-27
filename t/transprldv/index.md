@@ -18,7 +18,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 408
 
-
 ## Eingangsformel
 
 Das Bundesministerium der Finanzen verordnet
@@ -46,10 +45,6 @@ Das Bundesministerium der Finanzen verordnet
 –   auf Grund des § 32 Abs. 5 Nr. 1 und 2 des Investmentgesetzes, der
     durch Artikel 7 Nr. 3 Buchstabe b des Gesetzes vom 5. Januar 2007
     (BGBl. I S. 10) eingefügt worden ist:
-
-
-
-
 
 ## § 1 Anwendungsbereich
 
@@ -88,10 +83,6 @@ Diese Verordnung regelt
     Wertpapierhandelsgesetzes und des § 32 Abs. 2 Satz 1 des
     Investmentgesetzes.
 
-
-
-
-
 ## § 2 Anforderungen an die Unabhängigkeit der Stimmrechtsausübung eines Wertpapierdienstleistungsunternehmens vom Meldepflichtigen
 
 (1) Ein Wertpapierdienstleistungsunternehmen übt die Stimmrechte im
@@ -121,7 +112,6 @@ Wertpapierdienstleistungsunternehmens in Bezug auf die
 Stimmrechtsausübung eingeschränkt wird, um bestimmten
 Geschäftsinteressen des Meldepflichtigen oder eines anderen
 Tochterunternehmens des Meldepflichtigen Rechnung zu tragen.
-
 
 ## § 3 Mitteilungspflichten des Meldepflichtigen gegenüber der Bundesanstalt für Finanzdienstleistungsaufsicht
 
@@ -160,7 +150,6 @@ auf deren Verlangen auch nachzuweisen, dass ein klares schriftliches
 Mandat besteht, das eine unabhängige Kundenbeziehung zwischen ihm und
 dem Wertpapierdienstleistungsunternehmen vorsieht.
 
-
 ## § 4 Pflichten des Market Makers im Zusammenhang mit der Nichtberücksichtigung von Stimmrechten
 
 (1) Bietet der Market Maker für einen bestimmten Emittenten an einem
@@ -176,7 +165,6 @@ Bundesanstalt die Verwahrung von in der Eigenschaft als Market Maker
 gehaltenen Aktien oder sonstigen Finanzinstrumenten auf einem
 gesonderten Konto anordnen.
 
-
 ## § 5 Gleichwertigkeit der Anforderungen an die Fristen für die Veröffentlichungspflichten des Emittenten
 
 Die Regeln eines Drittstaates gelten als gleichwertig im Sinne des §
@@ -188,7 +176,6 @@ des Stimmrechtsanteils zu informieren ist und innerhalb derer er diese
 Veränderungen zu veröffentlichen hat, höchstens sieben Handelstage
 beträgt. Für den Beginn der Frist des Satzes 1 gilt § 21 Abs. 1 Satz 3
 des Wertpapierhandelsgesetzes entsprechend.
-
 
 ## § 6 Gleichwertigkeit der Anforderungen an die Veröffentlichungspflichten des Emittenten in Bezug auf eigene Aktien
 
@@ -213,10 +200,6 @@ soweit ein Emittent, der seinen Sitz in diesem Drittstaat hat,
     halten darf, er das Erreichen oder Überschreiten der Schwellen von 5
     und 10 Prozent mitzuteilen hat.
 
-
-
-
-
 ## § 7 Gleichwertigkeit der Anforderungen an die Veröffentlichungspflichten des Emittenten in Bezug auf die Gesamtzahl der Stimmrechte
 
 Die Regeln eines Drittstaates gelten als gleichwertig im Sinne des §
@@ -226,7 +209,6 @@ vorschreiben, dass ein Emittent, der seinen Sitz in diesem Drittstaat
 hat, die Gesamtzahl der Stimmrechte innerhalb von 30 Kalendertagen
 nach einer Zu- oder Abnahme der Gesamtzahl der Stimmrechte zu
 veröffentlichen hat.
-
 
 ## § 8 Gleichwertigkeit der Anforderungen an die Ausnahmen von der Zurechnung von Stimmrechten im Sinne des § 29a Abs. 3 des Wertpapierhandelsgesetzes
 
@@ -255,7 +237,6 @@ erklärt, dass die Voraussetzungen des Absatzes 1 in Bezug auf alle
 Wertpapierdienstleistungsunternehmen erfüllt sind. § 3 Abs. 2 und 3
 gilt entsprechend.
 
-
 ## § 9 Gleichwertigkeit der Anforderungen an Mitteilungspflichten des Emittenten
 
 Die Regeln eines Drittstaates gelten als gleichwertig im Sinne des §
@@ -265,7 +246,6 @@ Wertpapierhandelsgesetzes, wenn seine Rechtsvorschriften in Bezug auf
 Versammlungen der Emittenten vorschreiben, dass ein Emittent, der
 seinen Sitz in diesem Drittstaat hat, zumindest den Ort, den Zeitpunkt
 und die Tagesordnung der Versammlungen angeben muss.
-
 
 ## § 10 Mindestinhalt des nicht konsolidierten verkürzten Abschlusses
 
@@ -299,10 +279,6 @@ einzuhalten:
     Beurteilung der wesentlichen Änderungen und Entwicklungen der
     einzelnen Posten in der verkürzten Bilanz und der verkürzten Gewinn-
     und Verlustrechnung in dem Berichtszeitraum zu ermöglichen.
-
-
-
-
 
 ## § 11 Wesentliche Geschäfte mit nahe stehenden Unternehmen und Personen
 
@@ -339,7 +315,6 @@ Transaktionen). Angaben über Geschäfte können nach Geschäftsarten
 zusammengefasst werden, sofern die getrennte Angabe für die
 Beurteilung der Auswirkungen auf die Finanzlage nicht notwendig ist.
 
-
 ## § 12 Gleichwertigkeit der Anforderungen an die im Lagebericht enthaltenen Informationen
 
 Die Regeln eines Drittstaates gelten als gleichwertig zu den
@@ -348,7 +323,6 @@ wenn seine Rechtsvorschriften vorschreiben, dass ein Emittent dem §
 289 Abs. 1 Satz 1 bis 4, Abs. 2 Nr. 1, Abs. 3 und § 315 Abs. 1 Satz 1
 bis 5, Abs. 2 Nr. 1 des Handelsgesetzbuchs entsprechende Angaben
 macht.
-
 
 ## § 13 Gleichwertigkeit der Anforderungen an den Zwischenlagebericht
 
@@ -369,10 +343,6 @@ enthält, erstellt:
     stehenden Unternehmen und Personen, wenn sie nicht kontinuierlich
     veröffentlicht werden.
 
-
-
-
-
 ## § 14 Gleichwertigkeit der Anforderungen an die Verantwortlichkeit
 
 Die Regeln eines Drittstaates gelten als gleichwertig zu den
@@ -386,14 +356,12 @@ Rechnungslegungsgrundsätzen übereinstimmen und die Darstellung im
 Lagebericht ein den tatsächlichen Verhältnissen entsprechendes Bild
 vermittelt.
 
-
 ## § 15 Gleichwertigkeit der Anforderungen an die Zwischenmitteilung der Geschäftsführung
 
 Die Regeln eines Drittstaates gelten als gleichwertig zu den
 Anforderungen des § 37x des Wertpapierhandelsgesetzes, wenn seine
 Rechtsvorschriften vorschreiben, dass ein Emittent
 Quartalsfinanzberichte zu veröffentlichen hat.
-
 
 ## § 16 Gleichwertigkeit der Anforderungen bei einem Konzernabschluss
 
@@ -417,7 +385,6 @@ Jahresabschluss geben und die Angaben gemäß Satz 1 erläutern. Diese
 zusätzlichen Angaben können auf der Grundlage der
 Rechnungslegungsgrundsätze des Drittstaates erfolgen.
 
-
 ## § 17 Gleichwertigkeit der Anforderungen an den Jahresabschluss
 
 Die Regeln eines Drittstaates gelten als gleichwertig zu den
@@ -431,7 +398,6 @@ ist ein an die Anforderungen der in § 10 genannten internationalen
 Rechnungslegungsstandards oder gleichwertige
 Rechnungslegungsgrundsätze angepasster und geprüfter Abschluss
 vorzulegen.
-
 
 ## § 18 Anforderungen an die Unabhängigkeit der Stimmrechtsausübung eines Wertpapierdienstleistungsunternehmens vom Bieter
 
@@ -462,7 +428,6 @@ Wertpapierdienstleistungsunternehmens in Bezug auf die
 Stimmrechtsausübung eingeschränkt wird, um bestimmten
 Geschäftsinteressen des Bieters oder eines anderen Tochterunternehmens
 des Bieters Rechnung zu tragen.
-
 
 ## § 19 Mitteilungspflichten des Bieters gegenüber der Bundesanstalt für Finanzdienstleistungsaufsicht
 
@@ -500,7 +465,6 @@ deren Verlangen auch nachzuweisen, dass ein klares schriftliches
 Mandat besteht, das eine unabhängige Kundenbeziehung zwischen ihm und
 dem Wertpapierdienstleistungsunternehmen vorsieht.
 
-
 ## § 20 Anforderungen an die Unabhängigkeit der Stimmrechtsausübung der Kapitalanlagegesellschaft und der Verwaltungsgesellschaft vom Mutterunternehmen
 
 (1) Eine Kapitalanlagegesellschaft oder eine Verwaltungsgesellschaft
@@ -533,7 +497,6 @@ Verwaltungsgesellschaft in Bezug auf die Stimmrechtsausübung
 eingeschränkt wird, um bestimmten Geschäftsinteressen des
 Mutterunternehmens oder eines anderen von diesem kontrollierten
 Unternehmens Rechnung zu tragen.
-
 
 ## § 21 Mitteilungspflichten des Mutterunternehmens gegenüber der Bundesanstalt für Finanzdienstleistungsaufsicht
 
@@ -571,7 +534,6 @@ auch nachzuweisen, dass ein klares schriftliches Mandat besteht, das
 eine unabhängige Kundenbeziehung zwischen ihm und der
 Kapitalanlagegesellschaft vorsieht.
 
-
 ## § 22 Gleichwertigkeit der Anforderungen an die Ausnahmen von der Zurechnung von Stimmrechten im Sinne des § 32 Abs. 4 des Investmentgesetzes
 
 (1) Die Regeln eines Drittstaates gelten als gleichwertig im Sinne des
@@ -600,7 +562,6 @@ Investmentgesetzes abgibt und erklärt, dass die Voraussetzungen des
 Absatzes 1 in Bezug auf alle Verwaltungsgesellschaften erfüllt sind. §
 21 Abs. 2 und 3 gilt entsprechend.
 
-
 ## § 23 Übergangsbestimmung
 
 Die §§ 10 und 11 sind erstmals auf Halbjahresfinanzberichte für das
@@ -609,7 +570,6 @@ Vergleichende Angaben nach § 10 Nr. 1 Buchstabe b müssen erstmals in
 der verkürzten Gewinn- und Verlustrechnung eines
 Halbjahresfinanzberichts für das nach dem 31. Dezember 2008 beginnende
 Geschäftsjahr enthalten sein.
-
 
 ## § 24 Inkrafttreten
 

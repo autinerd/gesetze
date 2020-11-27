@@ -19,14 +19,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 373 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Auf Grund des § 21 Abs. 3 Sätze 2 und 3 des Zollgesetzes vom 14. Juni
 1961 (Bundesgesetzbl. I S. 737), zuletzt geändert durch das Gesetz zur
 Änderung des Zollgesetzes vom 4. September 1962 (Bundesgesetzbl. I S.
 605), verordnet die Bundesregierung:
-
 
 ## § 1 Prüfungsantrag, Zuständigkeit
 
@@ -56,7 +54,6 @@ Bundesgesetzbl. I S. 481) in der jeweils geltenden Fassung richten.
 Der Antrag soll die Tatsachen und Beweismittel angeben, aus denen sich
 ergibt, daß die Voraussetzungen für die Anwendung von
 Antidumpingzollsätzen oder von Ausgleichszollsätzen vorliegen.
-
 
 ## § 2 Angaben bei Dumpingverdacht
 
@@ -171,7 +168,6 @@ Zollgebiet veräußert werden. Absatz 5 Satz 2 gilt entsprechend.
 Zeit der Antragstellung gelten; auch soll die Preisentwicklung in den
 letzten zwölf Monaten vor der Antragstellung angegeben werden.
 
-
 ## § 3 Angaben bei Verdacht der Gewährung von Prämien oder Subventionen
 
 Macht der Antragsteller geltend, daß die Voraussetzungen für die
@@ -181,7 +177,6 @@ enthalten, von wem und in welcher Art und Höhe Prämien oder
 Subventionen für die Waren gewährt werden, auf die sich das
 Prüfungsverfahren beziehen soll.
 
-
 ## § 4 Ablehnung des Prüfungsverfahrens
 
 Ergeben sich aus dem Antrag auch nach ergänzenden Ermittlungen durch
@@ -190,7 +185,6 @@ dafür, daß die Voraussetzungen für die Anwendung von
 Antidumpingzollsätzen oder Ausgleichszollsätzen vorliegen, so sieht
 das zuständige Bundesministerium von der Einleitung des
 Prüfungsverfahrens ab und teilt dies dem Antragsteller mit.
-
 
 ## § 5 Einleitung des Prüfungsverfahrens
 
@@ -206,7 +200,6 @@ Prüfungsverfahren bezieht, sowie ihr Ursprungsland. Die Bekanntmachung
 enthält den Hinweis, daß innerhalb einer bestimmten Frist schriftlich
 sachdienliche Tatsachen oder Nachweise vorgebracht werden können.
 
-
 ## § 6 Sachaufklärung
 
 Nach Einleitung des Prüfungsverfahrens klärt das zuständige
@@ -218,7 +211,6 @@ gleiche gilt für Wirtschaftsvereinigungen oder
 Wirtschaftsorganisationen, wenn die ihnen angehörenden Personen
 betroffen werden können.
 
-
 ## § 7 Abschluß des Prüfungsverfahrens
 
 (1) Nach Sachaufklärung schließt das zuständige Bundesministerium das
@@ -229,13 +221,11 @@ Regierung des Ursprungslandes mitgeteilt.
 (2) Das zuständige Bundesministerium macht den Abschluß des
 Prüfungsverfahrens im Bundesanzeiger bekannt.
 
-
 ## § 8 Geltung in Berlin
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit § 99 des
 Zollgesetzes auch im Land Berlin.
-
 
 ## § 9 Inkrafttreten
 

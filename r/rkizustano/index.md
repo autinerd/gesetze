@@ -18,8 +18,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 396
 
-
-
 ## I.
 
 Nach § 126 Abs. 3 Nr. 2 Satz 2 des Beamtenrechtsrahmengesetzes in
@@ -31,7 +29,6 @@ einschließlich der hierzu ergangenen Trennungsgeldverordnung zu
 entscheiden, soweit es für den Erlass des Verwaltungsaktes oder die
 Ablehnung des Anspruchs zuständig war.
 
-
 ## II.
 
 Nach § 174 Abs. 3 des Bundesbeamtengesetzes wird dem
@@ -42,12 +39,10 @@ einschließlich der hierzu ergangenen Trennungsgeldverordnung
 übertragen. Das Bundesministerium für Gesundheit behält sich vor, im
 Einzelfall die Prozessvertretung selbst wahrzunehmen.
 
-
 ## III.
 
 Diese Anordnung ist für das Robert Koch-Institut mit Wirkung vom 1.
 September 2005 anzuwenden.
-
 
 ## Schlussformel
 

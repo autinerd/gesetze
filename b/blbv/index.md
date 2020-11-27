@@ -15,20 +15,17 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 2170
 
-
 ## Eingangsformel
 
 Auf Grund des § 27 Absatz 7 und des § 42a Absatz 1 des
 Bundesbesoldungsgesetzes in der Fassung der Bekanntmachung vom 19.
 Juni 2009 (BGBl. I S. 1434) verordnet die Bundesregierung:
 
-
 ## § 1 Geltungsbereich
 
 Diese Verordnung gilt für Besoldungsempfängerinnen und
 Besoldungsempfänger des Bundes in Besoldungsgruppen der
 Bundesbesoldungsordnung A.
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -39,7 +36,6 @@ sind Leistungsstufe, Leistungsprämie und Leistungszulage.
 Beamtinnen und Soldatinnen. Besoldungsempfänger im Sinne dieser
 Verordnung sind Beamte und Soldaten.
 
-
 ## § 3 Leistungsstufe
 
 Die Leistungsstufe dient der Anerkennung dauerhaft herausragender
@@ -47,7 +43,6 @@ Leistungen. Besoldungsempfängerinnen und Besoldungsempfängern, die
 dauerhaft herausragende Leistungen erbringen, kann für den Zeitraum
 bis zum Erreichen der nächsten Stufe das Grundgehalt der nächsthöheren
 Stufe gezahlt werden.
-
 
 ## § 4 Leistungsprämie
 
@@ -60,7 +55,6 @@ der erbrachten Leistung entsprechend zu bemessen. Es kann ein Betrag
 bis zur Höhe des Anfangsgrundgehaltes der Besoldungsgruppe gewährt
 werden, der die Besoldungsempfängerin oder der Besoldungsempfänger zum
 Zeitpunkt der Entscheidung angehört.
-
 
 ## § 5 Leistungszulage
 
@@ -82,7 +76,6 @@ werden; innerhalb dieses Zeitraums ist die Verlängerung der Zahlung
 zulässig. Eine weitere Leistungszulage darf frühestens ein Jahr nach
 Ablauf dieses Zeitraums gewährt werden. Die Leistungszulage wird
 nachträglich gezahlt.
-
 
 ## § 6 Vergabemöglichkeiten
 
@@ -112,7 +105,6 @@ Kalenderjahr einer Besoldungsempfängerin oder einem
 Besoldungsempfänger eine Leistungsprämie oder Leistungszulage gewährt
 werden.
 
-
 ## § 7 Teamregelungen
 
 (1) Leistungsprämien oder Leistungszulagen, die wegen einer
@@ -129,7 +121,6 @@ Beteiligten angehören. Für Teilprämien und Teilzulagen, die sich für
 die einzelnen Besoldungsempfängerinnen oder Besoldungsempfänger
 ergeben, gilt § 4 Absatz 2 Satz 3 und § 5 Absatz 2 Satz 2
 entsprechend.
-
 
 ## § 8 Ausschluss- und Konkurrenzregelungen
 
@@ -163,10 +154,6 @@ in Bereichen, in denen folgende Leistungselemente gewährt werden:
 3.  Zulagen der Deutsche Bahn Aktiengesellschaft oder der ausgegliederten
     Gesellschaften nach § 2 Absatz 1 oder § 3 Absatz 3 des Deutsche Bahn
     Gründungsgesetzes.
-
-
-
-
 
 ## § 9 Entscheidungsberechtigte und Verfahren
 
@@ -211,7 +198,6 @@ Bundesbehörde nichts anderes bestimmt.
 übrigen Bundesbehörden können die Befugnisse nach den Absätzen 1 und 4
 einer Vertretung übertragen.
 
-
 ## § 10 Vorschriften für besondere Teile des öffentlichen Dienstes
 
 (1) Bei der Bundesanstalt für Immobilienaufgaben, der Bundesagentur
@@ -226,7 +212,6 @@ auf die Geschäftsführung übertragen.
 eine von ihm bestimmte Stelle trifft für die Beamtinnen und Beamten,
 die den Eisenbahnen des Bundes zugewiesen sind, Regelungen zu den
 Entscheidungsberechtigten und zum Verfahren.
-
 
 ## § 11 Inkrafttreten, Außerkrafttreten
 

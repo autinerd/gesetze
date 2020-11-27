@@ -18,13 +18,11 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 6 V v. 5.7.2007 I 1305
 
-
 ## Eingangsformel
 
 Auf Grund des § 26 Abs. 1 Nr. 3 in Verbindung mit § 6 Abs. 2 des
 Allgemeinen Eisenbahngesetzes vom 27. Dezember 1993 (BGBl. I S. 2378,
 2396) verordnet das Bundesministerium für Verkehr:
-
 
 ## § 1 Zuverlässigkeit
 
@@ -67,13 +65,6 @@ Personen gelten insbesondere in folgenden Fällen nicht als zuverlässig
 
     f)  sich aus unternehmerischer Tätigkeit ergebende zollrechtliche
         Pflichten.
-
-
-
-
-
-
-
 
 ## § 2 Finanzielle Leistungsfähigkeit
 
@@ -123,7 +114,6 @@ oder einer Wirtschaftsprüfungsgesellschaft, eines Steuerberaters oder
 eines vereidigten Buchprüfers geführt werden. Es müssen Angaben zu den
 in Absatz 2 genannten Merkmalen enthalten sein.
 
-
 ## § 3 Fachkunde
 
 Der Antragsteller oder die für die Führung der Geschäfte bestellten
@@ -139,7 +129,6 @@ Sicherheitsmanagementsystem verantwortlich sind, das im Rahmen der
 Erteilung einer Sicherheitsbescheinigung nach § 7a des Allgemeinen
 Eisenbahngesetzes oder einer Sicherheitsgenehmigung nach § 7c des
 Allgemeinen Eisenbahngesetzes zugelassen wurde.
-
 
 ## § 4 Nachweis der Zuverlässigkeit und der finanziellen Leistungsfähigkeit
 
@@ -163,7 +152,6 @@ Ist der Antragsteller
 so gilt der Nachweis der Zuverlässigkeit und der finanziellen
 Leistungsfähigkeit als erbracht.
 
-
 ## § 5 Verfahren
 
 (1) Der zuständigen Genehmigungsbehörde sind von
@@ -186,17 +174,14 @@ die Anforderungen dieser Verordnung erfüllt, so teilt es dies der
 Behörde des anderen Mitgliedstaates, die die Genehmigung erteilt hat,
 unverzüglich mit.
 
-
 ## Schlußformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## § 6 Inkrafttreten
 
 Diese Verordnung tritt am ersten Tage des auf die Verkündung folgenden
 Kalendermonats in Kraft.
-
 
 ## Anlage
 

@@ -20,7 +20,6 @@ Fundstelle
 Geändert durch
 :   Art. 3 § 4 G v. 15.7.1999 I 1618
 
-
 ## Art 1
 
 Das Übereinkommen vom 30. August 1961 zur Verminderung der
@@ -39,7 +38,6 @@ Staatenlosigkeit (BGBl. 1977 II S. 597) wird angewandt
 
 Die Verleihung der Staatsangehörigkeit zur Beseitigung von
 Staatenlosigkeit erfolgt durch Einbürgerung.
-
 
 ## Art 2
 
@@ -68,17 +66,14 @@ Verfahren bei der Einbürgerung einschließlich der Bestimmung der
 örtlichen Zuständigkeit gelten die Vorschriften des
 Staatsangehörigkeitsrechts.
 
-
 ## (XXXX) Art 3 u. 4
 
 -
-
 
 ## Art 5
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin.
-
 
 ## Art 6
 

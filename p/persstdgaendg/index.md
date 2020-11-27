@@ -15,12 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1951, 57
 
-
-
 ## (XXXX) Art 1 und Art 2 (weggefallen)
 
 -
-
 
 ## Art 3
 

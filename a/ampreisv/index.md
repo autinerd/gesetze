@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 17.9.2012 I 2063
 
-
 ## Eingangsformel
 
 Auf Grund des § 78 des Arzneimittelgesetzes vom 24. August 1976 (BGBl.
@@ -26,7 +25,6 @@ I S. 2445, 2448) wird im Einvernehmen mit dem Bundesminister für
 Jugend, Familie und Gesundheit, dem Bundesminister für Arbeit und
 Sozialordnung und dem Bundesminister für Ernährung, Landwirtschaft und
 Forsten mit Zustimmung des Bundesrates verordnet:
-
 
 ## § 1 Anwendungsbereich der Verordnung
 
@@ -114,7 +112,6 @@ vereinbaren.
 
 (4) Ausgenommen sind die Preisspannen und Preise von nicht
 verschreibungspflichtigen Arzneimitteln.
-
 
 ## § 2 Großhandelszuschläge für Fertigarzneimittel
 
@@ -277,10 +274,6 @@ des pharmazeutischen Unternehmers
 
     *   6,67 Euro.
 
-
-
-
-
 ## § 3 Apothekenzuschläge für Fertigarzneimittel
 
 (1) Bei der Abgabe von Fertigarzneimitteln, die zur Anwendung bei
@@ -421,7 +414,6 @@ kleinste im Verkehr befindliche Packung zu berechnen.
 verschreibungspflichtigen Fertigarzneimittel durch die Apotheke
 beträgt der Festzuschlag 5,80 Euro.
 
-
 ## § 4 Apothekenzuschläge für Stoffe
 
 (1) Bei der Abgabe eines Stoffes, der in Apotheken in unverändertem
@@ -445,7 +437,6 @@ Krankenversicherungen oder deren Verbände mit Apotheken oder deren
 Verbänden entsprechende Vereinbarungen treffen; liegt eine solche
 Vereinbarung nicht vor, kann auf die nach Satz 1 vereinbarten Preise
 abgestellt werden.
-
 
 ## § 5 Apothekenzuschläge für Zubereitungen aus Stoffen
 
@@ -557,17 +548,12 @@ Zuschlag für parenterale Lösungen abweichend von Absatz 1 oder Absatz
 
 7.  sonstige Lösungen 70 Euro.
 
-
-
-
-
 ## § 6 Notdienst
 
 Bei der Inanspruchnahme in der Zeit von 20 bis 6 Uhr, an Sonn- und
 Feiertagen sowie am 24. Dezember, wenn dieser Tag auf einen Werktag
 fällt, bis 6 Uhr und ab 14 Uhr können die Apotheken einen zusätzlichen
 Betrag von 2,50 Euro einschließlich Umsatzsteuer berechnen.
-
 
 ## § 7 Betäubungsmittel
 
@@ -577,14 +563,12 @@ Bekanntmachung vom 25. April 1978 (BGBl. I S. 537) nachzuweisen ist,
 können die Apotheken einen zusätzlichen Betrag von 0,26 Euro
 einschließlich Umsatzsteuer berechnen.
 
-
 ## § 8 Sonderbeschaffung
 
 Unvermeidbare Telegrammgebühren, Fernsprechgebühren, Porti, Zölle und
 andere Kosten der Beschaffung von Arzneimitteln, die üblicherweise
 weder in Apotheken noch im Großhandel vorrätig gehalten werden, können
 die Apotheken mit Zustimmung des Kostenträgers gesondert berechnen.
-
 
 ## § 9 Angaben auf der Verschreibung
 
@@ -599,10 +583,6 @@ Auf der Verschreibung sind von den Apotheken einzeln anzugeben
 
 
 3.  bei einem Betrag nach § 6 auch die Zeit der Inanspruchnahme.
-
-
-
-
 
 ## § 10 Zuschläge der Tierärzte
 
@@ -619,7 +599,6 @@ von mehr als 127,82 Euro höchstens 20 Prozent.
 
 (3) (weggefallen)
 
-
 ## § 11 Preise in besonderen Fällen
 
 Bei der Abgabe von Fertigarzneimitteln in den Fällen des § 78 Abs. 4
@@ -634,13 +613,11 @@ Wahrnehmung der wirtschaftlichen Interessen gebildeten Verbände der
 Apotheker mit den Krankenkassen oder ihren Verbänden Vereinbarungen
 über die Apothekeneinkaufspreise und Zuschläge treffen.
 
-
 ## § 12 Inkrafttreten, abgelöste Vorschriften
 
 (1) Diese Verordnung tritt am 1. Januar 1981 in Kraft.
 
 (2)
-
 
 ## Schlußformel
 

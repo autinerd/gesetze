@@ -18,23 +18,19 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 G v. 22.12.2011 I 3044
 
-
 ## Eingangsformel
 
 Wir ...
 verordnen im Namen des Deutschen Reichs, nach erfolgter Zustimmung des
 Bundesrats und des Reichstags, was folgt:
 
-
 ## § 1
 
 (weggefallen)
 
-
 ## § 2
 
 (weggefallen)
-
 
 ## § 3
 
@@ -47,7 +43,6 @@ für welche besondere Gerichte zugelassen sind, durch die
 Landesgesetzgebung den ordentlichen Gerichten übertragen wird, kann
 dieselbe ein abweichendes Verfahren gestatten.
 
-
 ## § 4
 
 Für bürgerliche Rechtsstreitigkeiten, für welche nach dem Gegenstand
@@ -56,11 +51,9 @@ Grund, weil als Partei der Fiskus, eine Gemeinde oder eine andere
 öffentliche Korporation beteiligt ist, der Rechtsweg durch die
 Landesgesetzgebung nicht ausgeschlossen werden.
 
-
 ## (XXXX) §§ 5 und 6 (weggefallen)
 
 -
-
 
 ## § 7
 
@@ -86,11 +79,9 @@ Bundesgerichtshofes über die Zuständigkeit gebunden. Es gibt
 Gelegenheit zu einer Änderung oder Ergänzung der Begründung der
 Beschwerde oder des Antrags.
 
-
 ## § 8
 
 (weggefallen)
-
 
 ## § 9
 
@@ -99,27 +90,22 @@ bestimmt das zuständige Gericht auch dann, wenn nach § 36 Abs. 2 der
 Zivilprozeßordnung ein in seinem Bezirk gelegenes Oberlandesgericht zu
 entscheiden hätte.
 
-
 ## § 10
 
 -
 
-
 ## § 11
 
 (weggefallen)
-
 
 ## § 12
 
 Gesetz im Sinne der Zivilprozeßordnung und dieses Gesetzes ist jede
 Rechtsnorm.
 
-
 ## § 13
 
 (weggefallen)
-
 
 ## § 14
 
@@ -131,7 +117,6 @@ sie verwiesen oder soweit nicht bestimmt ist, daß sie nicht berührt
 werden.
 
 (2)
-
 
 ## § 15
 
@@ -165,7 +150,6 @@ werden.
 
 
 (2)
-
 
 ## § 15a
 
@@ -256,21 +240,17 @@ Landesrecht anerkannt werden. Die vor diesen Gütestellen geschlossenen
 Vergleiche gelten als Vergleiche im Sinne des § 794 Abs. 1 Nr. 1 der
 Zivilprozessordnung.
 
-
 ## § 16
 
 (weggefallen)
-
 
 ## § 17
 
 (weggefallen)
 
-
 ## § 18
 
 -
-
 
 ## § 19
 
@@ -281,7 +261,6 @@ einem ordentlichen Rechtsmittel nicht mehr angefochten werden können.
 sind diejenigen Rechtsmittel anzusehen, welche an eine von dem Tag der
 Verkündung oder Zustellung des Urteils laufende Notfrist gebunden
 sind.
-
 
 ## § 20 Übergangsvorschriften zum Sechsten Gesetz zur Änderung der Pfändungsfreigrenzen
 
@@ -312,7 +291,6 @@ hat.
 (3) Die Absätze 1 und 2 gelten entsprechend, wenn sich die
 unpfändbaren Beträge zum 1. Juli des jeweiligen Jahres ändern.
 
-
 ## § 21 Übergangsvorschriften zum Siebten Gesetz zur Änderung der Pfändungsfreigrenzen
 
 (1) Für eine vor dem 1. Januar 2002 ausgebrachte Pfändung sind
@@ -337,7 +315,6 @@ ihm eine entgegenstehende vollstreckbare gerichtliche Entscheidung
 zugestellt wird oder eine Verzichtserklärung desjenigen zugeht, an den
 der Schuldner nach den ab diesem Zeitpunkt geltenden Vorschriften
 weniger zu leisten hat.
-
 
 ## § 22 Überleitungsvorschriften zum Zweiten Gesetz zur Änderung zwangsvollstreckungsrechtlicher Vorschriften (2. Zwangsvollstreckungsnovelle)
 
@@ -394,7 +371,6 @@ worden sind, finden die §§ 807, 899, 900 der Zivilprozessordnung und §
 20 Nr. 17 des Rechtspflegergesetzes in der jeweils bis zum 1. Januar
 1999 geltenden Fassung Anwendung.
 
-
 ## § 24
 
 Auf einen Räumungsrechtsstreit, der vor dem 1. September 2001
@@ -402,11 +378,9 @@ rechtshängig geworden ist, finden § 93b Abs. 1 und 2, § 721 Abs. 7
 sowie § 794a Abs. 5 der Zivilprozessordnung in der bis zu diesem
 Zeitpunkt geltenden Fassung Anwendung.
 
-
 ## § 25 (weggefallen)
 
 -
-
 
 ## § 26
 
@@ -492,10 +466,6 @@ folgende Übergangsvorschriften:
     des Euro (ABl. EG Nr. L 162 S. 1) in die Euro-Einheit umgerechnet
     werden.
 
-
-
-
-
 ## § 27
 
 Auf vereinfachte Verfahren über den Unterhalt Minderjähriger (§§ 645
@@ -504,7 +474,6 @@ von Unterhalt vor dem 1. Januar 2002 eingereicht wurde, finden die
 Vorschriften über das vereinfachte Verfahren über den Unterhalt
 Minderjähriger in der am 31. Dezember 2001 geltenden Fassung weiter
 Anwendung.
-
 
 ## § 28
 
@@ -522,7 +491,6 @@ Bürgerlichen Gesetzbuchs anzugebenden effektiven oder anfänglichen
 effektiven Jahreszinses die Angabe des nach dem
 Verbraucherkreditgesetz anzugebenden effektiven oder anfänglichen
 effektiven Jahrezinses tritt.
-
 
 ## § 29
 
@@ -545,10 +513,6 @@ Für das 1. Justizmodernisierungsgesetz vom 24. August 2004 (BGBl. I S.
 3.  Auf Verfahren, die am 1. September 2004 anhängig sind, findet § 411a
     der Zivilprozessordnung keine Anwendung.
 
-
-
-
-
 ## § 30
 
 Für Artikel 1 Nr. 2a und 3a des Justizkommunikationsgesetzes vom 22.
@@ -558,7 +522,6 @@ Rechtszug Prozesskostenhilfe bewilligt worden, so ist für diesen
 Rechtszug insoweit das bisherige Recht anzuwenden. Maßgebend ist das
 Datum des Bewilligungsbeschlusses. Eine Maßnahme der
 Zwangsvollstreckung gilt als besonderer Rechtszug.
-
 
 ## § 31
 
@@ -571,7 +534,6 @@ sind, in denen die Voraussetzungen für ein Musterverfahren ebenso wie
 bei dem neu anhängig werdenden Verfahren vorliegen. In den Verfahren
 nach Satz 1 richtet sich die Zuständigkeit der Gerichte nach den
 bisher geltenden Vorschriften.
-
 
 ## § 32 Überleitungsvorschriften zum Gesetz zur Entlastung der Rechtspflege
 
@@ -592,7 +554,6 @@ Abs. 1, § 128 Abs. 3 Satz 1 und § 495a Abs. 1 Satz 1 der
 Zivilprozessordnung, § 23 Nr. 1 und 2 Buchstabe a und § 23b Abs. 3
 Satz 2 des Gerichtsverfassungsgesetzes in der bis zum 1. März 1993
 geltenden Fassung.
-
 
 ## § 33 Überleitungsvorschriften zum Schiedsverfahrens-Neuregelungsgesetz
 
@@ -620,7 +581,6 @@ erklärt worden ist. Für die Entscheidung über die Vollstreckbarkeit
 gilt das bis zum Inkrafttreten des Schiedsverfahrens-
 Neuregelungsgesetzes vom 22. Dezember 1997 (BGBl. I S. 3224) geltende
 Recht.
-
 
 ## § 34 Überleitungsvorschriften zum Gesetz zur Vereinfachung und Beschleunigung gerichtlicher Verfahren
 
@@ -668,16 +628,11 @@ S. 3281) geltenden Fassung sind weiter anzuwenden:
 7.  Vorschriften über das Mahnverfahren, wenn der Mahnantrag vor dem 1.
     Juli 1977 gestellt wurde.
 
-
-
-
-
 ## § 35
 
 Auf Verfahren, die vor dem 31. Dezember 2006 rechtskräftig
 abgeschlossen worden sind, ist § 580 Nr. 8 der Zivilprozessordnung
 nicht anzuwenden.
-
 
 ## § 36
 
@@ -779,16 +734,11 @@ Für das Gesetz zur Änderung des Unterhaltsrechts vom 21. Dezember 2007
     oder den Unterhalt für Ehegatten betreffen, die nach dem bis zum 30.
     Juni 1977 geltenden Recht geschieden worden sind, bleiben unberührt.
 
-
-
-
-
 ## § 37 Übergangsvorschrift zum Risikobegrenzungsgesetz
 
 § 799a der Zivilprozessordnung ist nicht anzuwenden, wenn die
 Vollstreckung aus der Urkunde vor dem 19. August 2008 für unzulässig
 erklärt worden ist.
-
 
 ## § 37a Übergangsbestimmung zur Prozesskostenhilfe
 
@@ -798,7 +748,6 @@ zur Ermittlung von Regelbedarfen und zur Änderung des Zweiten und
 Zwölften Buches Sozialgesetzbuch vom 24. März 2011 (BGBl. I S. 453)
 dazu, dass keine Monatsrate zu zahlen ist, so ist dies auf Antrag
 bereits ab dem 1. Januar 2011 zu berücksichtigen.
-
 
 ## § 38 Informationspflicht aus Anlass des Gesetzes zur Reform des Kontopfändungsschutzes
 
@@ -810,7 +759,6 @@ Zivilprozessordnung in der Fassung des Gesetzes zur Reform des
 Kontopfändungsschutzes vom 7. Juli 2009 (BGBl. I S. 1707) gewährt
 wird. Die Unterrichtung hat in Textform spätestens bis zum 30.
 November 2011 zu erfolgen.
-
 
 ## § 38a
 

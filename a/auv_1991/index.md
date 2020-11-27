@@ -21,7 +21,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 15 Abs. 44 G v. 5.2.2009 I 160
 
-
 ## § 1 Allgemeines
 
 (1) Die Umzugskostenvergütung bemisst sich bei Auslandsumzügen
@@ -96,7 +95,6 @@ Vorbehalt zu gewähren, dass er zuviel erhaltene Beträge zurückzuzahlen
 hat, wenn er den Umzug anders als zunächst angegeben durchführt.
 Entsprechendes gilt für Rabatte, Geld- und Sachzuwendungen sowie für
 unentgeltliche Leistungen.
-
 
 ## § 2 Beförderungsauslagen
 
@@ -180,7 +178,6 @@ angemessene Leerraumwohnung am neuen Dienstort beziehen kann.
 (7) Zur Ermittlung des Umfangs des Umzugsgutes kann der Dienstherr
 eine amtliche Vermessung fordern.
 
-
 ## § 3 Lagern und Unterstellen von Umzugsgut
 
 (1) Übernimmt der Dienstherr ganz oder teilweise die Ausstattung der
@@ -214,7 +211,6 @@ Ausland auf Grund der Beschränkung des Transportvolumens in § 2 ein
 Teil des Umzugsgutes nicht mitgeführt werden kann, mit der Maßgabe,
 dass dieses Umzugsgut erst wieder bei dem nächsten Umzug in das Inland
 hinzugezogen werden kann.
-
 
 ## § 4 Reisekosten
 
@@ -380,7 +376,6 @@ dienstlich veranlasster doppelter Haushaltsführung bei Versetzungen
 und Abordnungen vom Inland ins Ausland, im Ausland und vom Ausland ins
 Inland erhält.
 
-
 ## § 5 Mietentschädigung
 
 (1) Miete für die bisherige Wohnung wird bis zu dem Zeitpunkt, zu dem
@@ -437,7 +432,6 @@ bei einer Mietentschädigung für eine Wohnung im Ausland um höchstens
 ein Jahr verlängern, wenn dies wegen der besonderen örtlichen
 Verhältnisse erforderlich ist.
 
-
 ## § 6 Auslagen zur Erlangung einer Wohnung
 
 (1) Bei Umzügen vom Inland in das Ausland und im Ausland werden die
@@ -458,7 +452,6 @@ Bundesumzugskostengesetzes Anwendung; beim Auszug aus einer Wohnung im
 Ausland anfallende notwendige und nachgewiesene Gutachter- sowie
 vergleichbare Kosten werden erstattet.
 
-
 ## § 7 Beiträge zum Beschaffen technischer Geräte
 
 Müssen beim Bezug der neuen Wohnung im Ausland auf Grund der örtlichen
@@ -472,7 +465,6 @@ hat der Berechtigte die Geräte dem Dienstherrn zur Verfügung zu
 stellen. Ihm werden dann weitere 5 vom Hundert der Auslagen für die
 Anschaffung der Geräte erstattet.
 
-
 ## § 8 Auslagen für umzugsbedingten zusätzlichen Unterricht
 
 Die Auslagen für einen durch den Umzug bedingten zusätzlichen
@@ -485,7 +477,6 @@ und darüber hinaus zu drei Vierteln. Die oberste Dienstbehörde kann
 von dieser Vorschrift abweichen, soweit deren Anwendung in besonders
 gelagerten Einzelfällen infolge mehrfacher Auslandsverwendungen zu
 einer unzumutbaren Härte führen würde.
-
 
 ## § 9 Beiträge zum Instandsetzen von Wohnungen
 
@@ -501,7 +492,6 @@ Dienstbehörde.
 
 (3) Bei Umzügen vom Ausland in das Inland findet § 12 Abs. 5 des
 Bundesumzugskostengesetzes Anwendung.
-
 
 ## § 10 Pauschvergütung für sonstige Umzugsauslagen
 
@@ -570,7 +560,6 @@ Bundesbesoldungsgesetzes gezahlt.
 eine davon gezahlt; sind die Pauschvergütungen unterschiedlich hoch,
 wird die höhere gezahlt.
 
-
 ## § 11 Beitrag zum Beschaffen klimabedingter Kleidung
 
 (1) Bei der ersten Verwendung an einem Auslandsdienstort mit einem vom
@@ -615,7 +604,6 @@ dem Bundesminister der Verteidigung die Auslandsdienstorte, für die
 ein Beitrag zum Beschaffen von klimabedingter Bekleidung gezahlt wird.
 
 (5) § 10 Abs. 8 gilt entsprechend.
-
 
 ## § 12 Ausstattungsbeitrag
 
@@ -670,7 +658,6 @@ keinen Ausstattungsbeitrag.
 
 (5) § 10 Abs. 8 gilt entsprechend.
 
-
 ## § 13 Einrichtungsbeitrag
 
 (1) Bei der ersten Ernennung zum Leiter einer Auslandsvertretung oder
@@ -722,7 +709,6 @@ aufzubewahren und der obersten Dienstbehörde auf Verlangen vorzulegen.
 
 (7) § 10 Abs. 8 gilt entsprechend.
 
-
 ## § 14 Umzugskostenvergütung in Sonderfällen
 
 (1) Für einen Umzug am ausländischen Dienstort kann bei erheblicher
@@ -749,7 +735,6 @@ Umzugskostenvergütung, wenn der Dienstherr die neue Wohnung vorher
 schriftlich als vorläufige Wohnung anerkannt hat. Bis zum Umzug in die
 endgültige Wohnung darf eine Wohnung nur einmal als vorläufige Wohnung
 anerkannt werden.
-
 
 ## § 15 Umzugsbeihilfen
 
@@ -784,7 +769,6 @@ Kinder zur Aufnahme einer Berufsausbildung oder eines Studiums oder
 zur Ableistung des Grundwehr- oder Zivildienstes. Mehrkosten für das
 getrennte Versenden von Umzugsgut (§ 2 Abs. 5) werden nicht erstattet,
 wenn innerhalb von drei Monaten die Versetzung in das Inland erfolgt.
-
 
 ## § 16 Erstattung der Auslagen für Umzugsvorbereitungen bei Widerruf der Zusage der Umzugskostenvergütung
 
@@ -843,7 +827,6 @@ Verfügung zu stellen.
 die der Berechtigte zu vertreten hat, hat er abweichend von den
 Absätzen 1 bis 3 die schon erhaltene Umzugskostenvergütung
 zurückzuzahlen.
-
 
 ## § 17 Umzugskostenvergütung bei einer Auslandsverwendung von weniger als zwei Jahren
 
@@ -982,7 +965,6 @@ dienstlicher Gründe (u. a. Sicherheitsaspekte, fiskalische Erwägungen)
 im Einzelfall die Zusage der Umzugskostenvergütung nach Absatz 1 nur
 auf die Person des Berechtigten beschränken.
 
-
 ## § 18 Auslagen für die Rückführung von Berechtigten und deren Angehörigen sowie von Umzugsgut aus Gefährdungsgründen
 
 (1) Ist an einem ausländischen Dienstort Leben, Gesundheit oder
@@ -1011,7 +993,6 @@ Berechtigten.
 (3) § 10 Abs. 5 gilt entsprechend, wenn außer dem Reisegepäck Teile
 des Hausrats zurückgeführt werden müssen und sich die Zusage der
 Umzugskostenvergütung hierauf erstreckt.
-
 
 ## § 19 Umzugskostenvergütung beim Ausscheiden aus dem Dienst
 
@@ -1049,7 +1030,6 @@ eines regelmäßig verkehrenden Beförderungsmittels gezahlt werden,
 höchstens die Auslagen, die durch einen Umzug an den Sitz der obersten
 Dienstbehörde entstanden wären.
 
-
 ## § 20 Härtefälle
 
 Die oberste Dienstbehörde kann im Einvernehmen mit dem Bundesminister
@@ -1058,14 +1038,12 @@ Ausnahmefällen den Bemessungssatz nach § 10 erhöhen, wenn sich
 dienstortbezogen aus der Anwendung dieser Vorschrift unzumutbare
 Härten ergeben.
 
-
 ## § 21 Übergangsvorschrift
 
 Soweit für Umzüge aus Anlass von Versetzungen, Abordnungen und
 Kommandierungen Beiträge nach § 11 oder § 12 vor dem 1. Januar 2006
 gezahlt wurden, ist die Auslandsumzugskostenverordnung in der bis zum
 31\. Dezember 2005 geltenden Fassung anzuwenden.
-
 
 ## § 22 (Inkrafttreten, Außerkrafttreten)
 

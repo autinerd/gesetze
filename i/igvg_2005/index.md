@@ -18,12 +18,10 @@ Fundstelle
 
 Geändert durch Bek. v. 1.10.2007 II 1528
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -31,7 +29,6 @@ Den am 23. Mai 2005 in Genf von der 58. Weltgesundheitsversammlung
 angenommenen Internationalen Gesundheitsvorschriften (2005) (IGV) wird
 zugestimmt. Die IGV werden nachstehend mit einer amtlichen deutschen
 Übersetzung veröffentlicht.
-
 
 ## Art 2
 
@@ -43,11 +40,9 @@ der von den IGV erfassten Gesundheitsgefahren zuständig sind, auf dem
 Gebiet der Verhütung und Bekämpfung übertragbarer Krankheiten
 insbesondere mit dem Robert Koch-Institut.
 
-
 ## Art 3
 
 -
-
 
 ## Art 4
 
@@ -131,7 +126,6 @@ Substanzen dienen oder soweit sie das hierzu anzuwendende Verfahren
 betreffen und soweit sie sich jeweils im Rahmen der Ziele der IGV
 halten.
 
-
 ## Art 5
 
 Durch dieses Gesetz in Verbindung mit den Internationalen
@@ -142,7 +136,6 @@ Grundgesetzes), des Brief- und Postgeheimnisses (Artikel 10 des
 Grundgesetzes) und der Freizügigkeit (Artikel 11 Abs. 2 des
 Grundgesetzes) eingeschränkt. Diese Grundrechte können auch durch die
 Rechtsverordnungen nach Artikel 4 eingeschränkt werden.
-
 
 ## Art 6
 

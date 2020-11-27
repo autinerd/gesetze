@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 17.12.1994 I 3845
 
-
 ## Eingangsformel
 
 Auf Grund des § 13 Abs. 2 und 3 und des § 14 des
@@ -26,7 +25,6 @@ Pflichtversicherungsgesetzes in der Fassung des Gesetzes vom 5. April
 1965 (Bundesgesetzbl. I S. 213) wird im Einvernehmen mit dem
 Bundesminister für Verkehr und dem Bundesminister für Wirtschaft
 verordnet:
-
 
 ## § 1
 
@@ -37,20 +35,17 @@ Pflichtversicherungsgesetzes in der Fassung des Gesetzes vom 5. April
 "Verkehrsopferhilfe eingetragener Verein" in Hamburg
 (Verkehrsopferhilfe) mit seiner Zustimmung zugewiesen.
 
-
 ## § 2
 
 Die Satzung der Verkehrsopferhilfe sowie jede Änderung der Satzung
 bedarf der Genehmigung des Bundesministers der Justiz. Die Satzung ist
 im Bundesanzeiger bekanntzumachen.
 
-
 ## § 3
 
 Die Verkehrsopferhilfe untersteht der Aufsicht des Bundesministers der
 Justiz. Durch die Aufsicht soll sichergestellt werden, daß die
 Verkehrsopferhilfe ihre Aufgaben ordnungsgemäß erfüllt.
-
 
 ## § 4
 
@@ -59,14 +54,12 @@ Pflichtversicherungsgesetzes und § 10 dieser Verordnung besteht nur,
 wenn das schädigende Ereignis nach dem 31. Dezember 1965 eingetreten
 ist.
 
-
 ## § 5
 
 Bei der Verkehrsopferhilfe besteht eine Schiedsstelle, die in
 Streitfällen zwischen dem Geschädigten und der Verkehrsopferhilfe auf
 eine gütliche Einigung hinzuwirken und den Beteiligten
 erforderlichenfalls einen Einigungsvorschlag zu machen hat.
-
 
 ## § 6
 
@@ -86,7 +79,6 @@ der Geschädigten und Versicherungsnehmer befaßt. Die Stellen, denen
 das Benennungsrecht nach Satz 5 zusteht, werden in der Satzung der
 Verkehrsopferhilfe bestimmt.
 
-
 ## § 7
 
 Ist dem Geschädigten ein abschließender schriftlicher Bescheid der
@@ -96,7 +88,6 @@ einer dem Schadensfall angemessenen Frist bearbeitet worden, so kann
 der Geschädigte die Schiedsstelle anrufen. Er soll hierbei die Gründe
 für die Anrufung der Schiedsstelle darlegen und die Höhe seiner
 Forderung angeben.
-
 
 ## § 8
 
@@ -108,7 +99,6 @@ werden von der Schiedsstelle nicht erhoben. Im übrigen bestimmt die
 Schiedsstelle das Verfahren, soweit es sich nicht aus der Satzung der
 Verkehrsopferhilfe ergibt, nach pflichtgemäßem Ermessen.
 
-
 ## § 9
 
 Ansprüche gegen die Verkehrsopferhilfe nach § 12 des
@@ -117,12 +107,10 @@ der Klage erst geltend gemacht werden, nachdem ein Verfahren vor der
 Schiedsstelle vorausgegangen ist, oder wenn seit der Anrufung der
 Schiedsstelle mehr als drei Monate verstrichen sind.
 
-
 ## § 9a
 
 Die §§ 5 bis 9 finden auf die Regulierung von Ansprüchen nach § 12
 Abs. 1 Nr. 4 des Pflichtversicherungsgesetzes keine Anwendung.
-
 
 ## § 10
 
@@ -140,10 +128,6 @@ a)  wenn in dem Staat, in dem sich der Unfall zugetragen hat, eine Stelle
 b)  wenn und soweit deutsche Ersatzberechtigte von der Ersatzleistung
     durch diese Stelle ausgeschlossen sind.
 
-
-
-
-
 ## § 11
 
 Die Verkehrsopferhilfe erbringt Leistungen an ausländische
@@ -151,11 +135,9 @@ Staatsangehörige ohne festen Wohnsitz im Inland nur bei Vorliegen der
 Gegenseitigkeit. Dies gilt nicht, soweit völkerrechtliche Verträge der
 Bundesrepublik Deutschland dem entgegenstehen.
 
-
 ## § 12
 
 Diese Verordnung tritt am 1. Januar 1966 in Kraft.
-
 
 ## Schlußformel
 

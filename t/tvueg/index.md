@@ -35,7 +35,6 @@ Gesetzes nach pflichtgemäßem Ermessen.
 vertrauensvoll zusammen, um gemeinsam die vollständige Übernahme der
 Verwahrungsnachrichten durch die Registerbehörde zu gewährleisten.
 
-
 ## § 2 Übernahme
 
 (1) Die Registerbehörde teilt dem Übergeber mit einem Vorlauf von
@@ -54,7 +53,6 @@ Verwahrungsnachrichten über erbfolgerelevante Urkunden in
 elektronischer Form vorhalten, stellen sie diese der Registerbehörde
 auf Anforderung zur Verfügung. Die zuständige Landesjustizverwaltung
 wirkt an der Zurverfügungstellung mit.
-
 
 ## § 3 Weiterverarbeitung
 
@@ -77,7 +75,6 @@ den Abschluss der Übernahme mit (Abschlussmitteilung). In der
 Abschlussmitteilung sind auch noch aufzuklärende Zweifelsfragen zu
 dokumentieren.
 
-
 ## § 4 Mitteilungswesen im Übergangszeitraum
 
 (1) Mitteilungen über Sterbefälle, deren Beurkundung oder Aufnahme als
@@ -98,10 +95,6 @@ von ihnen
 2.  zwar vor dem Übernahmestichtag Kenntnis erlangt, aber eine Bearbeitung
     nach § 42 Absatz 2 der Personenstandsverordnung dennoch nicht erfolgt
     ist.
-
-
-
-
 
 ## § 5 Vernichtung
 
@@ -124,7 +117,6 @@ zu Verwahrungsnachrichten.
 
 (2) Alle übrigen Dokumente, die nicht bereits bei Abholung
 ausgesondert wurden, werden an den Übergeber zurückgereicht.
-
 
 ## § 6 Protokollierung
 
@@ -179,13 +171,11 @@ aufklärbar erklärt wurden.
 dieses Gesetz außer Kraft tritt; danach können die Protokolle in
 elektronischer Form archiviert werden.
 
-
 ## § 7 Auftragnehmer
 
 Zur Überführung der Verwahrungsnachrichten gemäß § 1 Absatz 1 kann
 sich die Registerbehörde nach Maßgabe von § 11 des
 Bundesdatenschutzgesetzes eines oder mehrerer Auftragnehmer bedienen.
-
 
 ## § 8 Datenschutz und Datensicherheit
 
@@ -206,7 +196,6 @@ Registerbehörde ist ein Sicherheitskonzept zu erstellen. Es legt fest,
 mit welchen technischen und organisatorischen Maßnahmen die Vorgaben
 des Bundesdatenschutzgesetzes und dieses Gesetzes gewährleistet
 werden.
-
 
 ## § 9 Außerkrafttreten
 

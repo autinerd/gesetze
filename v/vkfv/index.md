@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 1714
 
-
 ## Eingangsformel
 
 Auf Grund des § 46 Absatz 3 Satz 2 Nummer 2 des Zweiten Buches
@@ -25,7 +24,6 @@ I S. 1112) neu gefasst worden ist, verordnet das Bundesministerium für
 Arbeit und Soziales im Einvernehmen mit dem Bundesministerium der
 Finanzen:
 
-
 ## § 1 Kosten der Grundsicherung für Arbeitsuchende
 
 Kosten der Grundsicherung für Arbeitsuchende nach dem Zweiten Buch
@@ -34,7 +32,6 @@ Dienstleistungsverzehr für die Erbringung von Leistungen der
 Grundsicherung für Arbeitsuchende. Der Kostenbegriff umfasst die durch
 reale Zahlungsvorgänge entstehenden Kosten sowie Aufwendungen für
 Investitionen und Versorgungszuschläge für Beamtinnen und Beamte.
-
 
 ## § 2 Gesamtverwaltungskosten der gemeinsamen Einrichtung
 
@@ -55,14 +52,12 @@ der Amtshilfe und Arbeitnehmerüberlassung (§ 10).
 (§ 11) sowie für die zentral verwalteten Verfahren der
 Informationstechnik (§ 12).
 
-
 ## § 3 Eingliederungsleistungen
 
 Eingliederungsleistungen sind Leistungen an erwerbsfähige
 Leistungsberechtigte nach den §§ 16 bis 17 des Zweiten Buches
 Sozialgesetzbuch. Die Kosten der Eingliederungsleistungen gehören
 nicht zu den Gesamtverwaltungskosten.
-
 
 ## § 4 Vollzeitäquivalent
 
@@ -91,10 +86,6 @@ je Beschäftigtem aus dem Anteil
 3.  der Arbeitszeit zur Wahrnehmung von Aufgaben in der gemeinsamen
     Einrichtung an der gesamten regelmäßigen Arbeitszeit der Beschäftigten
     oder des Beschäftigten im Haushaltsjahr.
-
-
-
-
 
 ## § 5 Personalkosten
 
@@ -129,10 +120,6 @@ Arbeitnehmerinnen und Arbeitnehmer. Dazu gehören insbesondere:
 
 7.  die Arbeitgeberanteile zur Sozialversicherung und Zusatzversorgung.
 
-
-
-
-
 ## § 6 Personalnebenkosten
 
 Personalnebenkosten sind die über die Personalkosten hinausgehenden
@@ -163,10 +150,6 @@ insbesondere für
 
 8.  die Fortbildungsmaßnahmen.
 
-
-
-
-
 ## § 7 Versorgungsaufwendungen für Beamtinnen und Beamte
 
 Versorgungsaufwendungen sind die durch das Dienstverhältnis der im
@@ -174,13 +157,11 @@ Haushaltsjahr in der gemeinsamen Einrichtung eingesetzten Beamtinnen
 und Beamten bedingten kalkulatorischen Kosten für künftige
 Versorgungsleistungen und Beihilfen.
 
-
 ## § 8 Kosten der Personalverwaltung
 
 Kosten der Personalverwaltung sind die Aufwendungen der Träger zur
 Erfüllung ihrer Pflichten als Arbeitgeber und Dienstherr der
 Beschäftigten in der gemeinsamen Einrichtung.
-
 
 ## § 9 Sachkosten
 
@@ -220,7 +201,6 @@ Büroausstattung und deren Unterhaltung, Aufwendungen für Investitionen
 für den Ersatz und die Neuanschaffung von beweglichen Sachen sowie
 Aufwendungen für die Instandhaltung und Instandsetzung.
 
-
 ## § 10 Amtshilfe und Arbeitnehmerüberlassung
 
 Kosten der Amtshilfe sind die Aufwendungen für Personal, das in der
@@ -228,7 +208,6 @@ gemeinsamen Einrichtung Amtshilfe gemäß § 3 des Zehnten Buches
 Sozialgesetzbuch leistet. Kosten der Arbeitnehmerüberlassung sind die
 Aufwendungen für Personal, das in der gemeinsamen Einrichtung im Sinne
 des Arbeitnehmerüberlassungsgesetzes eingesetzt wird.
-
 
 ## § 11 Leistungen Dritter
 
@@ -241,10 +220,6 @@ Leistungen Dritter sind
 2.  die Erbringung von Dienstleistungen für die gemeinsame Einrichtung
     durch die Träger oder sonstige Auftragnehmer.
 
-
-
-
-
 ## § 12 Zentral verwaltete Verfahren der Informationstechnik
 
 Kosten der zentral verwalteten Verfahren der Informationstechnik sind
@@ -252,7 +227,6 @@ die Aufwendungen der Bundesagentur für Arbeit für die Betreuung und
 Unterhaltung sowie Organisation des Betriebes der zentral verwalteten
 laufenden Verfahren der Informationstechnik für die gemeinsamen
 Einrichtungen nach § 50 Absatz 3 des Zweiten Buches Sozialgesetzbuch.
-
 
 ## § 13 Grundsätze zur Bestimmung der Gesamtverwaltungskosten
 
@@ -267,7 +241,6 @@ nach § 12 werden auf der Grundlage von Pauschalen bestimmt.
 Einrichtung die geltend gemachten Aufwendungen. Diese sollen durch
 prüffähige Unterlagen bis zum 20. des auf den abgerechneten Monat
 folgenden Monats nachgewiesen werden.
-
 
 ## § 14 Bestimmung der Personalkosten
 
@@ -291,7 +264,6 @@ und den tatsächlichen Aufwendungen während der Aktivphase
 Rückstellungen für die Freistellungsphase gebildet werden.
 Personalkosten während der Freistellungsphase werden nicht anerkannt.
 
-
 ## § 15 Bestimmung der Personalnebenkosten
 
 Personalnebenkosten nach § 6 werden in tatsächlicher Höhe anerkannt.
@@ -300,13 +272,11 @@ jahresdurchschnittlichen Personalnebenkosten der Träger für den
 Abrechnungsmonat anerkannt werden. Die Ermittlung der
 Durchschnittskostensätze ist bei Bedarf für eine Prüfung nachzuweisen.
 
-
 ## § 16 Versorgungsaufwendungen für Beamtinnen und Beamte
 
 Für Versorgungsaufwendungen nach § 7 wird ein Zuschlag von bis zu 30
 Prozent der nach § 14 bestimmten Personalkosten für Beamtinnen und
 Beamte anerkannt.
-
 
 ## § 17 Bestimmung der Kosten für die Personalverwaltung
 
@@ -315,12 +285,10 @@ zu 2 Prozent der nach § 14 vom jeweiligen Träger bestimmten und um die
 Arbeitgeberanteile zur Sozialversicherung und Zusatzversorgung nach §
 5 Absatz 2 Satz 2 Nummer 7 geminderten Personalkosten anerkannt.
 
-
 ## § 18 Bestimmung der Sachkosten und der Kosten für Amtshilfe und Arbeitnehmerüberlassung
 
 Sächliche Aufwendungen nach den §§ 9 und 10 werden in tatsächlicher
 Höhe anerkannt.
-
 
 ## § 19 Bestimmung der Kosten für Leistungen Dritter
 
@@ -328,7 +296,6 @@ Aufwendungen nach § 11 werden in tatsächlicher Höhe anerkannt, soweit
 auch der gemeinsamen Einrichtung Verwaltungskosten entstanden wären,
 wenn sie die dem Dritten übertragenen Aufgaben selbst wahrgenommen
 hätte.
-
 
 ## § 20 Bestimmung der Kosten für die zentral verwalteten Verfahren der Informationstechnik
 
@@ -343,18 +310,15 @@ Bundesministerium für Arbeit und Soziales nach vorhergehender
 Beteiligung der Länder zu genehmigen und im Bundesanzeiger zu
 veröffentlichen.
 
-
 ## § 21 Monitoring
 
 Das Bundesministerium für Arbeit und Soziales wird erstmals auf Basis
 des Haushaltsjahres 2012 unter Beteiligung der Länder einen Bericht
 zur Umsetzung der Regelungen dieser Verordnung vorlegen.
 
-
 ## § 22 Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2012 in Kraft.
-
 
 ## Schlussformel
 

@@ -19,10 +19,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 Abs. 7 G v. 17.7.2009 I 2062
 
-
 ## Abschnitt 1 - Allgemeine Bestimmungen
-
-
 
 ### § 1 Zweck, Anwendungsbereich
 
@@ -111,7 +108,6 @@ Dienststellen des Landes einschließlich deren Bediensteter im Rahmen
 ihrer dienstlichen Tätigkeit treffen. Die Landesregierungen können die
 Befugnis nach Satz 1 durch Rechtsverordnung auf andere Landesbehörden
 übertragen.
-
 
 ### § 2 Beschusstechnische Begriffe
 
@@ -206,13 +202,7 @@ diesem Gesetz abweichend definiert werden.
 \*) Tabelle 5 der Maßtafeln, veröffentlicht im Bundesanzeiger Nr. 38a vom
     24\. Februar 2000.
 
-
-
-
-
 ## Abschnitt 2 - Prüfung und Zulassung
-
-
 
 ### § 3 Beschusspflicht für Feuerwaffen und Böller
 
@@ -234,7 +224,6 @@ zu lassen. Dies gilt nicht für Feuerwaffen, deren höchstbeanspruchte
 Teile ohne Nacharbeit lediglich ausgetauscht worden sind, sofern alle
 höchstbeanspruchten Teile mit dem für diese Waffen vorgeschriebenen
 Beschussgasdruck beschossen worden sind.
-
 
 ### § 4 Ausnahmen von der Beschusspflicht
 
@@ -298,7 +287,6 @@ vereinbart ist.
 
 (3) u. (4) (weggefallen)
 
-
 ### § 5 Beschussprüfung
 
 (1) Bei dem Beschuss von Feuerwaffen ist zu prüfen, ob
@@ -354,10 +342,6 @@ Stahlschrotmunition vorzunehmen.
 4.  die durch eine Rechtsverordnung nach § 14 Abs. 1 Nr. 3 des Gesetzes
     vorgeschriebene Kennzeichnung auf dem Böller angebracht ist.
 
-
-
-
-
 ### § 6 Prüfzeichen
 
 (1) Feuerwaffen, Böller und deren höchstbeanspruchte Teile sind mit
@@ -370,7 +354,6 @@ werden können, sind als unbrauchbar zu kennzeichnen.
 (2) In den Fällen des § 4 Abs. 1 Nr. 3 Buchstabe d sind die
 Gegenstände mit einem Prüfzeichen der jeweils zuständigen Stelle zu
 versehen.
-
 
 ### § 7 Zulassung von Schussapparaten, Einsteckläufen und nicht der Beschusspflicht unterliegenden Feuerwaffen, Systemprüfungen von Schussapparaten und der in ihnen zu verwendenden Kartuschenmunition
 
@@ -438,10 +421,6 @@ wenn
     Durchführung von Wiederholungsprüfungen erforderlichen Einrichtungen
     verfügt.
 
-
-
-
-
 ### § 8 Zulassung von Schreckschuss-, Reizstoff- und Signalwaffen
 
 (1) Schusswaffen mit einem Patronen- oder Kartuschenlager bis 12,5
@@ -500,7 +479,6 @@ die Bauart nicht haltbar, nicht funktionssicher oder nicht maßhaltig
 ist. Das Gleiche gilt für höchstbeanspruchte Teile von Handfeuerwaffen
 nach § 2 Abs. 2 Satz 2 Nr. 1 bis 3, die zum einmaligen Gebrauch
 bestimmt sind.
-
 
 ### § 9 Anzeige, Prüfung, Zulassung von sonstigen Waffen und Kartuschenmunition mit Reizstoffen
 
@@ -582,7 +560,6 @@ staatliche Stelle ihrer Bauart nach zugelassen und umfasst die
 Bauartzulassung die vorgeschriebenen Prüfungen, tritt die
 Bauartzulassung an Stelle dieser Prüfungen.
 
-
 ### § 10 Zulassung von pyrotechnischer Munition
 
 (1) Pyrotechnische Munition einschließlich der mit ihr fest
@@ -624,7 +601,6 @@ kleinsten Verpackungseinheit anzubringen.
 
 
 (4) (weggefallen)
-
 
 ### § 11 Zulassung sonstiger Munition
 
@@ -673,7 +649,6 @@ Die Zulassung wird nach Satz 1 Nr. 1 und 2 nicht versagt, wenn der
 Antragsteller die Überwachung der Herstellung der zuständigen Behörde
 übertragen hat.
 
-
 ### § 12 Überlassen und Verwenden beschuss- oder zulassungspflichtiger Gegenstände
 
 (1) Feuerwaffen, Böller und höchstbeanspruchte Teile, die nach § 3 der
@@ -689,7 +664,6 @@ dürfen gewerbsmäßig anderen nur überlassen werden, wenn sie das
 vorgeschriebene Prüf- oder Zulassungszeichen tragen und, im Falle des
 § 10 Abs. 2, die Verwendungshinweise angebracht sind.
 
-
 ### § 13 Ausnahmen in Einzelfällen
 
 Die für die Zulassung jeweils zuständige Behörde kann im Einzelfall
@@ -699,7 +673,6 @@ oder Abweichungen von den Versagungsgründen des § 7 Abs. 3 oder 4, des
 § 8 Abs. 2 oder 3, des § 10 Abs. 3 Nr. 2 bis 4 oder des § 11 Abs. 3
 Satz 1 Nr. 3 zulassen, wenn öffentliche Interessen nicht
 entgegenstehen.
-
 
 ### § 14 Ermächtigungen
 
@@ -899,10 +872,7 @@ Gefahren für Leben oder Gesundheit von Menschen Vorschriften über
 
 zu erlassen und die für die Prüfung zuständige Stelle zu bestimmen.
 
-
 ## Abschnitt 3 - Sonstige beschussrechtliche Vorschriften
-
-
 
 ### § 15 Beschussrat
 
@@ -914,7 +884,6 @@ Landesbehörden Vertreter von Fachinstituten und Normungsstellen,
 Vertreter der Wirtschaft nach Anhörung der Spitzenorganisationen der
 beteiligten Wirtschaftskreise und Vertreter sonstiger fachkundiger
 Verbände, die keine wirtschaftlichen Interessen verfolgen, zu berufen.
-
 
 ### § 16 Kosten
 
@@ -942,7 +911,6 @@ Rechtsverordnung können ferner die Kostenbefreiung, die
 Kostengläubigerschaft, die Kostenschuldnerschaft, der Umfang der zu
 erstattenden Auslagen und die Kostenerhebung abweichend von den
 Vorschriften des Verwaltungskostengesetzes geregelt werden.
-
 
 ### § 17 Auskunftspflichten und besondere behördliche Befugnisse im Rahmen der Überwachung
 
@@ -986,7 +954,6 @@ der Inhaber der tatsächlichen Gewalt über einen diesem Gesetz
 unterliegenden Gegenstand ihr diesen binnen angemessener, von ihr zu
 bestimmender Frist zur Prüfung vorzeigt.
 
-
 ### § 18 Inhaltliche Beschränkungen, Nebenbestimmungen und Anordnungen
 
 (1) Zulassungen und andere Erlaubnisse nach diesem Gesetz können
@@ -1020,10 +987,6 @@ dieses Gesetzes ganz oder teilweise untersagen, wenn
 4.  diese Gegenstände Gefahren für Leib oder Gesundheit des Benutzers oder
     Dritter hervorrufen.
 
-
-
-
-
 ### § 19 Rücknahme und Widerruf
 
 (1) Eine Zulassung oder andere Erlaubnis ist zurückzunehmen, wenn
@@ -1047,10 +1010,6 @@ Zulassungsinhaber
     herstellt oder die auf Grund der Zulassung hergestellten oder in den
     Geltungsbereich des Gesetzes verbrachten Munitionssorten nicht mehr
     vertreibt, anderen überlässt oder verwendet.
-
-
-
-
 
 ### § 20 Zuständigkeiten
 
@@ -1100,7 +1059,6 @@ Technische Bundesanstalt zu machen. Die Liste ist bei der
 Physikalisch-Technischen Bundesanstalt während der Dienststunden
 auszulegen. Auf Verlangen eines Dritten ist diesem gegen
 Kostenerstattung eine Abschrift oder Vervielfältigung zu überlassen.
-
 
 ### § 21 Bußgeldvorschriften
 
@@ -1179,10 +1137,7 @@ Euro geahndet werden.
 über Ordnungswidrigkeiten ist die nach § 48 Abs. 1 des Waffengesetzes
 zuständige Behörde.
 
-
 ## Abschnitt 4 - Übergangsvorschriften
-
-
 
 ### § 22 Übergangsvorschriften
 

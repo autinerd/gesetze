@@ -16,15 +16,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1997, 1542
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 5 Satz 3 des Bundeswasserstraßengesetzes in der
 Fassung der Bekanntmachung vom 23. August 1990 (BGBl. I S. 1818)
 verordnet das Bundesministerium für Verkehr im Einvernehmen mit dem
 Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit:
-
 
 ## § 1
 
@@ -89,7 +86,6 @@ Nationalparke und das Biosphärenreservat "Südost-Rügen" mit den
 Schutzzonen I und II und den darin liegenden besonderen Schutzgebieten
 (§ 4) sind aus der Anlage I zu ersehen.
 
-
 ## § 2
 
 (1) Das Befahren der Bundeswasserstraßen in den Nationalparken und den
@@ -105,7 +101,6 @@ den Nationalparken und den Schutzzonen I und II des
 Biosphärenreservats "Südost-Rügen" so zu verhalten, daß die Tier- und
 Pflanzenwelt nicht geschädigt, gefährdet oder mehr, als nach den
 Umständen unvermeidbar, gestört wird.
-
 
 ## § 3
 
@@ -161,7 +156,6 @@ Fahrzeugen nicht überschritten werden.
 ----------
 \*) kn = Knoten, 1 Knoten = 1,852 km/h.
 
-
 ## § 4 Nationalpark "Vorpommersche Boddenlandschaft"
 
 (1) Es ist untersagt, die Bundeswasserstraßen in den Schutzzonen I und
@@ -186,7 +180,6 @@ bezeichneten Wasserflächen des Nationalparks "Vorpommersche
 Boddenlandschaft" außerhalb der in Absatz 1 genannten Fahrwasser,
 sonstigen Wasserflächen oder Zufahrtswege nicht befahren.
 
-
 ## § 5 Nationalpark "Jasmund"
 
 Es ist untersagt, die Bundeswasserstraßen in dem Nationalpark
@@ -198,7 +191,6 @@ bekanntgemachten Wasserflächen oder der direkten, nicht durch
 Sichtzeichen begrenzten oder gekennzeichneten Zufahrtswege zu oder von
 den Häfen oder genehmigten Anlegestellen oder genehmigten Liegeplätzen
 innerhalb der Schutzzone I zu befahren.
-
 
 ## § 6 Biosphärenreservat "Südost-Rügen"
 
@@ -221,7 +213,6 @@ betonnten Fahrwasser aus in nördlicher oder südlicher Richtung die
 jeweilige Wasserfläche auf einer Länge bis zu 200 m entlang des
 Westufers unter Einhaltung eines Mindestabstands von 100 m zum Ufer
 befahren.
-
 
 ## § 7
 
@@ -246,7 +237,6 @@ dies mit dem Schutzzweck der Verordnung vereinbar ist. Vor einer
 Befreiung nach Absatz 1 Nr. 1 und 2 ist der zuständigen Dienststelle
 des Landes Mecklenburg-Vorpommern Gelegenheit zur Stellungnahme zu
 geben.
-
 
 ## § 8
 
@@ -284,7 +274,6 @@ geben.
 (2) § 3 Abs. 3 gilt nicht für Wasserfahrzeuge nach Absatz 1 Nr. 1, 3
 und 6.
 
-
 ## § 9
 
 Ordnungswidrig im Sinne des § 50 Abs. 1 Nr. 2 des
@@ -316,10 +305,6 @@ Bundeswasserstraßengesetzes handelt, wer vorsätzlich oder fahrlässig
 7.  einer mit einer Befreiung nach § 7 Abs. 1 verbundenen vollziehbaren
     Auflage zuwiderhandelt.
 
-
-
-
-
 ## § 10
 
 Diese Verordnung tritt am 10. Juli 1997 in Kraft. Gleichzeitig treten
@@ -328,7 +313,6 @@ Abs. 1 Nr. 3, § 8 der in § 1 Abs. 1 Nr. 1 genannten Verordnung, § 6
 Abs. 1 Nr. 14, § 8 der in § 1 Abs. 1 Nr. 2 genannten Verordnung und §
 6 Abs. 4 Nr. 12, § 8 der in § 1 Abs. 1 Nr. 3 genannten Verordnung
 außer Kraft.
-
 
 ## Anlage I (zu § 1 Abs. 2)
 
@@ -410,10 +394,6 @@ Fundstelle: BGBl. I 1997, S. 1545 - 1551)
 
 *    *
     *   1:80.000
-
-
-
-
 
 ## Anlage II (zu § 4 Abs. 1 und 2) Befahrensverbote außerhalb der Fahrwasser im Nationalpark Vorpommersche Boddenlandschaft
 

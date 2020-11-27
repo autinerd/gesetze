@@ -25,7 +25,6 @@ Nr. 2 der Zivilprozeßordnung in der im Bundesgesetzblatt Teil III,
 Gliederungsnummer 310-4, veröffentlichten bereinigten Fassung wird mit
 Zustimmung des Bundesrates verordnet:
 
-
 ## § 1 Vordrucke für die nichtmaschinelle Bearbeitung
 
 (1) Für Mahnverfahren bei Gerichten, die die Verfahren nicht
@@ -97,7 +96,6 @@ Durchschrift des Widerspruchs versehen werden.
 Personenbezeichnungen können durch feminine Personenbezeichnungen
 ersetzt werden.
 
-
 ## § 1a Beschriftung mittels Schreibprogramm
 
 (1) Die in § 174 Abs. 1 der Zivilprozeßordnung bezeichneten Personen
@@ -153,7 +151,6 @@ entsprechend.
 Anwendung der vorstehenden Vorschriften auszusetzen, bis die Ursache
 behoben ist.
 
-
 ## § 2 Angaben bei Verbraucherdarlehen und -finanzierungshilfen
 
 (1) Macht ein Unternehmer oder im Fall der Abtretung der Zessionar
@@ -179,7 +176,6 @@ Anlage 1 bestimmten Vordrucks zusätzlich folgende Angaben zu machen (§
 gilt. Effektiver Jahreszins ... %".
 In den Fällen des § 5 des Verbraucherkreditgesetzes genügt die Angabe:
 "Anspruch aus Vertrag, für den das Verbraucherkreditgesetz gilt".
-
 
 ## § 2a Übergang zum Euro
 
@@ -240,7 +236,6 @@ L 162 S. 1) erfolgen. Dem Vermerk gemäß § 1a Abs. 2 Satz 4 ist der
 Satz hinzuzufügen: "Die Geldbeträge sind unter Verwendung des
 amtlichen Kurses von 1 Euro = 1,95583 Deutsche Mark umgerechnet."
 
-
 ## § 2b Überleitungsvorschrift
 
 Die bisher eingeführten Vordrucke können bis zum 31. Dezember 2002
@@ -252,23 +247,19 @@ können bis 31. Dezember 2003 weiterverwendet werden, wenn sie der
 Anlage 1 in der Fassung des Artikels 6 Nr. 2 des Gesetzes zur Reform
 des Zivilprozesses vom 27. Juli 2001 (BGBl. I S. 1887) entsprechen.
 
-
 ## § 3 Inkrafttreten
 
 Diese Verordnung tritt am 1. Juli 1977 in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesminister der Justiz
-
 
 ## Anlage 1
 
 < Inhalt: nicht darstellbare Vordrucke,
 Fundstelle: BGBl. I 1991, 1549 - 1562,
 bzgl. der einzelnen Änderungen vgl. Fußnote >
-
 
 ## Anlage 2
 

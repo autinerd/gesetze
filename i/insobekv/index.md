@@ -18,14 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 G v. 13.4.2007 I 509
 
-
 ## Eingangsformel
 
 Auf Grund des § 9 Abs. 2 Satz 2 in Verbindung mit Satz 3 der
 Insolvenzordnung vom 5. Oktober 1994 (BGBl. I S. 2866), der durch
 Artikel 1 Nr. 2 des Gesetzes vom 26.Oktober 2001 (BGBl. I S. 2710)
 eingefügt worden ist, verordnet das Bundesministerium der Justiz:
-
 
 ## § 1 Grundsatz
 
@@ -35,7 +33,6 @@ Veröffentlichung darf nur die personenbezogenen Daten enthalten, die
 nach der Insolvenzordnung oder nach anderen Gesetzen, die eine
 öffentliche Bekanntmachung in Insolvenzverfahren vorsehen, bekannt zu
 machen sind.
-
 
 ## § 2 Datensicherheit, Schutz vor Missbrauch
 
@@ -85,7 +82,6 @@ e enthalten darf. Die übrigen nach der Insolvenzordnung zu
 veröffentlichenden Daten dürfen erst übermittelt werden, wenn der
 Nutzer den entsprechenden Datensatz aus der Übersicht ausgewählt hat.
 
-
 ## § 3 Löschungsfristen
 
 (1) Die in einem elektronischen Informations- und Kommunikationssystem
@@ -104,24 +100,20 @@ Entscheidung über die Restschuldbefreiung zu laufen beginnt.
 (3) Sonstige Veröffentlichungen nach der Insolvenzordnung werden einen
 Monat nach dem ersten Tag der Veröffentlichung gelöscht.
 
-
 ## § 4 Einsichtsrecht
 
 Die Insolvenzgerichte haben sicherzustellen, dass jedermann von den
 öffentlichen Bekanntmachungen in angemessenem Umfang unentgeltlich
 Kenntnis nehmen kann.
 
-
 ## § 4a Anwendbares Recht
 
 Die §§ 2 bis 4 gelten entsprechend für den Datenabruf über das
 Unternehmensregister (§ 8b des Handelsgesetzbuchs).
 
-
 ## § 5 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlussformel
 

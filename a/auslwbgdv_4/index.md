@@ -16,14 +16,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BAnz: 1953, Nr 134
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 23 Abs. 5, des § 35 Abs. 2 und des § 76 des
 Bereinigungsgesetzes für deutsche Auslandsbonds vom 25. August 1952
 (Bundesgesetzbl. I S. 553) verordnet die Bundesregierung:
-
 
 ## § 1 Geltungsbereich und Begriffsbestimmungen
 
@@ -39,7 +36,6 @@ Auslandsbevollmächtigte" den für Frankreich nach § 8 Abs. 1 des
 Gesetzes bestellten Auslandsbevollmächtigten sowie einen für ihn nach
 § 8 Abs. 7 des Gesetzes bestellten ständigen Vertreter.
 
-
 ## § 2 Hinterlegung der Bonds
 
 Eine Hinterlegung von Auslandsbonds nach § 23 Abs. 2 des Gesetzes ist
@@ -48,12 +44,10 @@ Zahlstelle zulässig. Die Befugnis des Auslandsbevollmächtigten, nach §
 23 Abs. 4 des Gesetzes im Einzelfall eine abweichende Regelung
 zuzulassen, bleibt unberührt.
 
-
 ## § 3 Verfahren bei der Anmeldung
 
 Für die Anmeldung soll der Vordruck verwendet werden, der vom
 Auslandsbevollmächtigten zur Verfügung gestellt wird.
-
 
 ## § 4 Gesetzliches Schiedsgericht
 
@@ -80,7 +74,6 @@ Vertreter zu ernennen. Für die Vertreter gilt Absatz 2 sinngemäß.
 Schiedsrichter widerrufen, wenn sie ihre Amtspflichten gröblich
 verletzen. § 77 des Gesetzes gilt sinngemäß. Für die Ernennung eines
 Nachfolgers gilt Absatz 2.
-
 
 ## § 5 Verfahren vor dem gesetzlichen Schiedsgericht
 
@@ -113,13 +106,11 @@ Auslandsbevollmächtigten und dem Anmelder zu. Der
 Auslandsbevollmächtigte benachrichtigt die Prüfstelle, den Aussteller
 sowie die Treuhänder und Zahlungsagenten von der Entscheidung.
 
-
 ## § 6 Zustellungen
 
 Zustellungen nach dem Gesetz oder nach dieser Verordnung können in
 Frankreich gemäß § 70 Abs. 2 des Gesetzes durch eingeschriebenen Brief
 gegen Rückschein bewirkt werden.
-
 
 ## § 7 Land Berlin
 
@@ -127,7 +118,6 @@ Nach § 14 des Gesetzes über die Stellung des Landes Berlin im
 Finanzsystem des Bundes (Drittes Überleitungsgesetz) vom 4. Januar
 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit § 78 des Gesetzes gilt
 diese Rechtsverordnung auch im Land Berlin.
-
 
 ## § 8 Inkrafttreten
 

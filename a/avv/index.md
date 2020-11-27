@@ -30,7 +30,6 @@ und 32) zur Änderung der Entscheidung 2000/532/EG sowie der
 Entscheidung des Rates 2001/573/EG vom 23. Juli 2001 (ABl. Nr. L 203
 S. 18) zur Änderung der Entscheidung 2000/532/EG.
 
-
 ## § 1 Anwendungsbereich
 
 Diese Verordnung gilt für
@@ -39,10 +38,6 @@ Diese Verordnung gilt für
 
 
 2.  die Einstufung von Abfällen nach ihrer Gefährlichkeit.
-
-
-
-
 
 ## § 2 Abfallbezeichnung
 
@@ -63,7 +58,6 @@ einzuhalten.
 (3) Die zuständigen Behörden können die Anordnungen treffen, die zur
 Umstellung behördlicher Entscheidungen auf die Abfallschlüssel und
 -bezeichnungen nach der Anlage zu dieser Verordnung erforderlich sind.
-
 
 ## § 3 Gefährlichkeit von Abfällen
 
@@ -163,7 +157,6 @@ oder mehrere der vorgenannten Gefährlichkeitskriterien aufweist. Die
 Länder haben solche Entscheidungen jeweils bis zum 31. Dezember des
 Jahres an das Bundesministerium für Umwelt, Naturschutz und
 Reaktorsicherheit zur Weiterleitung an die Kommission zu melden.
-
 
 ## Anlage (zu § 2 Abs. 1) Abfallverzeichnis
 

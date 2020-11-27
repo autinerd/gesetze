@@ -21,13 +21,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 2006, 1330
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -51,7 +48,6 @@ Folgenden zwischenstaatlichen Übereinkünften wird zugestimmt:
 Das Rahmenabkommen und die Verwaltungsvereinbarung werden nachstehend
 veröffentlicht.
 
-
 ## Art 2
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
@@ -60,7 +56,6 @@ Rahmenabkommens sowie Änderungen der genannten Verwaltungsvereinbarung
 in Kraft zu setzen. Im Übrigen wird die Bundesregierung ermächtigt,
 die zur Durchführung des Artikels 5 des Rahmenabkommens erforderlichen
 innerstaatlichen Regelungen zu treffen.
-
 
 ## Art 3
 

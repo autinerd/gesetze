@@ -16,12 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   GBl DDR I: 1990, 1270
 
-
-
 ## § 1
 
 -
-
 
 ## § 2
 
@@ -48,7 +45,6 @@ als Grundlage für die Beitragsbemessung und die
 Versicherungsleistungen aufgehoben. An deren Stelle tritt der
 tatsächliche Wert der Tiere.
 
-
 ## § 3
 
 Der Versicherungsnehmer und der Versicherer können den
@@ -57,7 +53,6 @@ kündigen. Die Kündigungsfrist beträgt drei Monate. Bis zum Ende des
 bei Inkrafttreten dieser Anordnung laufenden Beitragszeitraumes ist
 die Kündigung durch den Versicherungsnehmer zum Ende des
 Beitragszeitraumes ohne Einhaltung einer Kündigungsfrist möglich.
-
 
 ## § 4
 
@@ -68,11 +63,9 @@ Beitrages innerhalb einer Frist von zwei Wochen nach Eingang der
 Mitteilung des Versicherers hierüber zu dem Zeitpunkt kündigen, zu dem
 die Beitragserhöhung wirksam wird.
 
-
 ## § 5
 
 -
-
 
 ## Schlußformel
 

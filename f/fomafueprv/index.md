@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 2165
 
-
 ## Eingangsformel
 
 Auf Grund des § 53 Absatz 3 in Verbindung mit Absatz 1 und 2 des
@@ -27,7 +26,6 @@ sind, verordnet das Bundesministerium für Ernährung, Landwirtschaft
 und Verbraucherschutz im Einvernehmen mit dem Bundesministerium für
 Bildung und Forschung nach Anhörung des Hauptausschusses des
 Bundesinstituts für Berufsbildung:
-
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
 
@@ -91,7 +89,6 @@ auszuführen und auf sich verändernde Rahmenbedingungen reagieren kann:
 (3) Die erfolgreich abgelegte Prüfung führt zum anerkannten Abschluss
 „Geprüfter Forstmaschinenführer/Geprüfte Forstmaschinenführerin“.
 
-
 ## § 2 Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer
@@ -128,7 +125,6 @@ Zeugnissen oder auf andere Weise glaubhaft macht, dass Fertigkeiten,
 Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit) erworben
 worden sind, die die Zulassung zur Prüfung rechtfertigen.
 
-
 ## § 3 Gliederung der Prüfung
 
 (1) Die Prüfung beinhaltet die Prüfungsteile
@@ -145,7 +141,6 @@ worden sind, die die Zulassung zur Prüfung rechtfertigen.
 
 
 (2) Die Prüfung ist nach den §§ 4 bis 6 durchzuführen.
-
 
 ## § 4 Prüfungsanforderungen im Prüfungsteil „Betriebsorganisation und umweltverträglicher Einsatz von Forsttechnik“
 
@@ -225,7 +220,6 @@ Inhalte. Es soll nicht länger als 45 Minuten dauern.
 den in Absatz 2 aufgeführten Inhalten zu bearbeiten. Für die
 schriftliche Arbeit stehen 120 Minuten zur Verfügung.
 
-
 ## § 5 Prüfungsanforderungen im Prüfungsteil „Fällen und Aufarbeiten bei der hochmechanisierten Holzernte“
 
 (1) Der Prüfling soll nachweisen, dass er das Fällen und Aufarbeiten
@@ -278,7 +272,6 @@ Absatz 2 aufgeführten Inhalte.
 
 (4) Die Prüfungszeit beträgt insgesamt drei Stunden, in dieser Zeit
 soll das Prüfungsgespräch von höchstens 15 Minuten geführt werden.
-
 
 ## § 6 Prüfungsanforderungen im Prüfungsteil „Bringung von Holz, sonstige hochmechanisierte Verfahren“
 
@@ -338,7 +331,6 @@ Arbeitsaufgabe sowie auf die in Absatz 2 aufgeführten Inhalte.
 sollen die Prüfungsgespräche von jeweils höchstens 15 Minuten Dauer
 geführt werden.
 
-
 ## § 7 Anrechnung anderer Prüfungsleistungen
 
 Auf Antrag kann die zuständige Stelle den Prüfling von der Prüfung
@@ -348,7 +340,6 @@ Stelle, einer öffentlichen oder staatlich anerkannten
 Bildungseinrichtung oder vor einem staatlichen Prüfungsausschuss eine
 Prüfung mit Erfolg abgelegt wurde, die den Anforderungen der
 entsprechenden Prüfungsinhalte nach dieser Verordnung entspricht.
-
 
 ## § 8 Bestehen der Prüfung
 
@@ -377,7 +368,6 @@ Anlage 1 und der Anlage 2 auszustellen. Im Fall der Freistellung nach
 § 7 sind Ort und Datum sowie das Prüfungsgremium und die Bezeichnung
 der anderweitig abgelegten Prüfung im Zeugnis anzugeben.
 
-
 ## § 9 Wiederholung der Prüfung
 
 (1) Eine Prüfung, die nicht bestanden ist, kann zweimal wiederholt
@@ -392,11 +382,9 @@ Prüfling sich innerhalb von zwei Jahren, gerechnet vom Tag der
 Beendigung der nicht bestandenen Prüfung an, zur Wiederholungsprüfung
 anmeldet.
 
-
 ## § 10 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Anlage 1 (zu § 8 Absatz 4) Muster
 
@@ -407,8 +395,6 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 *    *   (Bezeichnung der zuständigen Stelle)
-
-
 
 ## Zeugnis
 
@@ -455,9 +441,6 @@ bestanden.
 
 *    *   (Siegel der zuständigen Stelle)
 
-
-
-
 ## Anlage 2 (zu § 8 Absatz 4) Muster
 
 (Fundstelle: BGBl. I 2009, 2169)
@@ -467,8 +450,6 @@ bestanden.
 
 
 *    *   (Bezeichnung der zuständigen Stelle)
-
-
 
 ## Zeugnis
 

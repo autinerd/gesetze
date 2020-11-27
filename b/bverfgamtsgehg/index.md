@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 15 Abs. 6 G v. 5.2.2009 I 160
 
-
 ## § 1
 
 (1) Die Mitglieder des Bundesverfassungsgerichts erhalten als
@@ -30,7 +29,6 @@ Bundesverfassungsgerichts eine Dienstaufwandsentschädigung gewährt.
 (2) Im übrigen gelten die allgemeinen besoldungsrechtlichen und
 beihilferechtlichen Vorschriften, soweit nicht das Gesetz über das
 Bundesverfassungsgericht besondere Vorschriften enthält.
-
 
 ## § 1a
 
@@ -47,7 +45,6 @@ Präsidenten bei den obersten Gerichtshöfen des Bundes festgesetzt.
 Dazu erhalten sie eine nichtruhegehaltfähige Stellenzulage wie die
 Präsidenten bei den obersten Gerichtshöfen des Bundes.
 
-
 ## § 1b
 
 Für den Familienzuschlag gilt der in der Anlage V des
@@ -56,24 +53,20 @@ des Bundesverfassungsgerichts eineindrittel, der Vizepräsident des
 Bundesverfassungsgerichts eineinsechstel der hiernach maßgebenden
 Beträge.
 
-
 ## § 1c
 
 Der Präsident und der Vizepräsident des Bundesverfassungsgerichts
 erhalten eine Dienstaufwandsentschädigung in derselben Höhe wie ein
 Bundesminister.
 
-
 ## § 1d
 
 Die Mitglieder des Bundesverfassungsgerichts haben das Recht auf freie
 Benutzung aller Verkehrsmittel der Eisenbahnen des Bundes.
 
-
 ## § 2
 
 -
-
 
 ## § 3
 
@@ -81,11 +74,9 @@ Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
 im Land Berlin.
 
-
 ## § 4
 
 Dieses Gesetz tritt mit Wirkung vom 1. Juli 1963 in Kraft.
-
 
 ## Schlußformel
 

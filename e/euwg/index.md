@@ -22,17 +22,13 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 G. v. 17.3.2008 I 394
 
-
 ## Erster Abschnitt - Wahl der Abgeordneten des Europäischen Parlaments aus der Bundesrepublik Deutschland
-
-
 
 ### § 1 Allgemeine Wahlrechtsgrundsätze
 
 Auf die Bundesrepublik Deutschland entfallen 99 Abgeordnete des
 Europäischen Parlaments. Sie werden in allgemeiner, unmittelbarer,
 freier, gleicher und geheimer Wahl für fünf Jahre gewählt.
-
 
 ### § 2 Wahlsystem, Sitzverteilung
 
@@ -95,13 +91,11 @@ beteiligten Listen für die einzelnen Länder entsprechend Absatz 3 Satz
 Wahlvorschläge berücksichtigt, die mindestens 5 vom Hundert der im
 Wahlgebiet abgegebenen gültigen Stimmen erhalten haben.
 
-
 ### § 3 Gliederung des Wahlgebietes
 
 (1) Wahlgebiet ist das Gebiet der Bundesrepublik Deutschland.
 
 (2) Das Wahlgebiet wird für die Stimmabgabe in Wahlbezirke eingeteilt.
-
 
 ### § 4 Geltung des Bundeswahlgesetzes
 
@@ -115,10 +109,6 @@ des Bundeswahlgesetzes über
     Bundeswahlgesetzes über Ordnungswidrigkeiten und die Vorschrift des §
     54 des Bundeswahlgesetzes über Fristen und Termine in der jeweils
     geltenden Fassung entsprechend.
-
-
-
-
 
 ### § 5 Wahlorgane
 
@@ -170,7 +160,6 @@ Wahlvorstehers oder eines Beisitzers im Wahlvorstand oder im
 Stadtwahlausschuß einer kreisfreien Stadt unberechtigt ablehnt oder
 sich ohne genügende Entschuldigung den Pflichten eines solchen Amtes
 entzieht.
-
 
 ### § 6 Wahlrecht, Ausübung des Wahlrechts
 
@@ -250,7 +239,6 @@ b)  durch Briefwahl
 
 teilnehmen.
 
-
 ### § 6a Ausschluß vom Wahlrecht
 
 (1) Ein Deutscher ist vom Wahlrecht ausgeschlossen, wenn
@@ -280,10 +268,6 @@ teilnehmen.
     Staatsangehörigkeit er besitzt (Herkunfts-Mitgliedstaat), infolge
     einer zivil- oder strafrechtlichen Einzelfallentscheidung das
     Wahlrecht zum Europäischen Parlament nicht besitzt.
-
-
-
-
 
 ### § 6b Wählbarkeit
 
@@ -341,16 +325,11 @@ und der am Wahltage
 4.  infolge einer zivil- oder strafrechtlichen Einzelfallentscheidung im
     Herkunfts-Mitgliedstaat die Wählbarkeit nicht besitzt.
 
-
-
-
-
 ### § 6c Verbot der mehrfachen Bewerbung zur Wahl
 
 Niemand kann sich gleichzeitig in der Bundesrepublik Deutschland und
 in einem anderen Mitgliedstaat der Europäischen Gemeinschaft zur Wahl
 bewerben.
-
 
 ### § 7 Wahltag
 
@@ -363,7 +342,6 @@ Rates der Europäischen Gemeinschaften vom 25. Juni 2002 und 23.
 September 2002 (BGBl. 2003 II S. 810), festgelegten Zeitspanne den Tag
 der Hauptwahl (Wahltag). Der Wahltag ist im Bundesgesetzblatt
 bekanntzugeben.
-
 
 ### § 8 Wahlvorschlagsrecht
 
@@ -383,7 +361,6 @@ Bundesverbandes oder, wenn ein Bundesverband nicht besteht, die
 Vorstände der nächstniedrigen Gebietsverbände im Wahlgebiet gemeinsam,
 oder eine andere in der Satzung des Wahlvorschlagsberechtigten hierfür
 vorgesehene Stelle.
-
 
 ### § 9 Inhalt und Form der Wahlvorschläge
 
@@ -444,7 +421,6 @@ stellvertretende Vertrauensperson bezeichnet werden. Fehlt diese
 Bezeichnung, so gilt die Person, die als erste unterzeichnet hat, als
 Vertrauensperson, und diejenige, die als zweite unterzeichnet hat, als
 stellvertretende Vertrauensperson.
-
 
 ### § 10 Aufstellung der Wahlvorschläge
 
@@ -515,7 +491,6 @@ unterzeichnen.
 
 (7) Absätze 1 bis 6 gelten für sonstige politische Vereinigungen
 sinngemäß.
-
 
 ### § 11 Einreichung der Wahlvorschläge, Erklärung über die Verbindung von Listen für einzelne Länder
 
@@ -589,7 +564,6 @@ Vertrauensperson dies durch gemeinsame schriftliche Erklärung dem
 Bundeswahlleiter spätestens am sechsundsechzigsten Tage vor der Wahl
 bis 18.00 Uhr mitzuteilen.
 
-
 ### § 12 Änderung und Zurücknahme von Wahlvorschlägen
 
 (1) Ein Wahlvorschlag kann nach Ablauf der Einreichungsfrist nur durch
@@ -611,7 +585,6 @@ vollzogene Erklärung den Wahlvorschlag zurücknehmen.
 (3) Wenn ein Bewerber nach der Zulassung des Wahlvorschlages, aber
 noch vor der Wahl stirbt oder die Wählbarkeit verliert, tritt an seine
 Stelle der Ersatzbewerber, sofern ein solcher für ihn benannt ist.
-
 
 ### § 13 Beseitigung von Mängeln
 
@@ -651,7 +624,6 @@ liegt nicht vor, wenn
 Mängelbeseitigungsverfahren kann die Vertrauensperson des
 Wahlvorschlages den Landeswahlausschuß, gegen Verfügungen des
 Bundeswahlleiters den Bundeswahlausschuß anrufen.
-
 
 ### § 14 Zulassung der Wahlvorschläge, Entscheidung über die Verbindung von Listen für einzelne Länder
 
@@ -706,7 +678,6 @@ Rahmen seiner Bekanntmachung nach Absatz 5 die Listenverbindungen und
 die Listen, für die rechtswirksam eine Erklärung nach § 11 Abs. 3
 abgegeben wurde, öffentlich bekannt.
 
-
 ### § 15 Stimmzettel
 
 (1) Die Stimmzettel und die zugehörigen Umschläge für die Briefwahl
@@ -744,7 +715,6 @@ Land erreicht haben. Die übrigen Wahlvorschläge schließen sich in
 alphabetischer Reihenfolge der Namen der Wahlvorschlagsberechtigten
 an.
 
-
 ### § 16 Stimmabgabe
 
 (1) Gewählt wird mit amtlichen Stimmzetteln.
@@ -755,14 +725,12 @@ kenntlich macht, welchem Wahlvorschlag sie gelten soll. Der Wähler
 faltet daraufhin den Stimmzettel in der Weise, dass seine Stimmabgabe
 nicht erkennbar ist, und wirft ihn in die Wahlurne.
 
-
 ### § 17 Wahlgeräte
 
 Zur Erleichterung der Abgabe und Zählung der Stimmen können an Stelle
 von Stimmzetteln und Wahlurnen Wahlgeräte benutzt werden, deren Bauart
 und Verwendung nach der Bundeswahlgeräteverordnung durch das
 Bundesministerium des Innern zugelassen ist.
-
 
 ### § 18 Feststellung des Wahlergebnisses
 
@@ -785,7 +753,6 @@ einzelnen Wahlvorschläge insgesamt abgegeben worden sind, wieviel
 Sitze auf die einzelnen Wahlvorschläge entfallen und welche Bewerber
 gewählt sind.
 
-
 ### § 19 Benachrichtigung der gewählten Bewerber
 
 Der Bundeswahlleiter benachrichtigt die gewählten Bewerber und weist
@@ -793,7 +760,6 @@ sie darauf hin, dass sie nach der abschließenden Feststellung des
 Ergebnisses für das Wahlgebiet durch den Bundeswahlausschuss (§ 18
 Abs. 4) die Mitgliedschaft im Europäischen Parlament mit Eröffnung der
 ersten Sitzung nach der Wahl erlangen.
-
 
 ### § 20 Unterrichtung über das Wahlergebnis
 
@@ -804,10 +770,7 @@ verbliebenen Bewerber und Ersatzbewerber mit. Der Präsident des
 Deutschen Bundestages übermittelt das Wahlergebnis insgesamt
 unverzüglich dem Präsidenten des Europäischen Parlaments.
 
-
 ## Zweiter Abschnitt - Erwerb und Verlust der Mitgliedschaft im Europäischen Parlament
-
-
 
 ### § 21 Erwerb der Mitgliedschaft im Europäischen Parlament
 
@@ -830,7 +793,6 @@ durch Wiederholungswahl Gewählte bis zum Ablauf der Frist keine oder
 keine formgerechte Erklärung ab, so gilt die Nachfolge oder Wahl zu
 diesem Zeitpunkt als angenommen. Absatz 1 Satz 3 und 4 gilt
 entsprechend.
-
 
 ### § 22 Ende und Verlust der Mitgliedschaft im Europäischen Parlament
 
@@ -930,7 +892,6 @@ angehört haben. Die Sitze dieser Abgeordneten bleiben unbesetzt.
 Vereinigung auf Grund des Vereinsgesetzes im Wahlgebiet rechtskräftig
 verboten worden ist.
 
-
 ### § 23 Entscheidung über den Verlust der Mitgliedschaft
 
 (1) Über den Verlust der Mitgliedschaft nach § 22 Abs. 2 wird
@@ -978,7 +939,6 @@ und den Zeitpunkt des Verlustes der Mitgliedschaft, wenn darüber im
 Wahlprüfungsverfahren oder durch den Ältestenrat oder den Präsidenten
 des Deutschen Bundestages entschieden worden ist.
 
-
 ### § 24 Berufung von Listennachfolgern
 
 (1) Wenn ein gewählter Bewerber stirbt oder dem Bundeswahlleiter
@@ -1009,10 +969,7 @@ Bundeswahlleiter. Die §§ 20 und 21 gelten entsprechend. Er
 benachrichtigt den Listennachfolger und fordert ihn auf, binnen einer
 Woche schriftlich zu erklären, ob er die Nachfolge annimmt.
 
-
 ## Dritter Abschnitt - Schlußbestimmungen
-
-
 
 ### § 25 Wahlkosten, Wahlordnung
 
@@ -1064,10 +1021,6 @@ treffen insbesondere über
 
 11. die Durchführung von Nach- und Wiederholungswahlen.
 
-
-
-
-
 ### § 26 Wahlprüfung und Anfechtung
 
 (1) Über die Gültigkeit der Wahl wird im Wahlprüfungsverfahren
@@ -1097,11 +1050,9 @@ unmittelbar auf das Wahlverfahren beziehen, nur mit den in diesem
 Gesetz sowie in der Wahlordnung vorgesehenen Rechtsbehelfen
 angefochten werden.
 
-
 ### § 27
 
 (Änderung des Strafgesetzbuches)
-
 
 ### § 28 Staatliche Mittel für sonstige politische Vereinigungen
 
@@ -1128,11 +1079,9 @@ gelten entsprechend.
 (4) Die Vorschriften des Parteiengesetzes über das
 Auszahlungsverfahren und die Abschlagszahlungen gelten entsprechend.
 
-
 ### § 29
 
 (weggefallen)
-
 
 ### § 30
 

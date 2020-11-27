@@ -16,13 +16,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1989, 298
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -30,7 +27,6 @@ Dem Beitritt der Bundesrepublik Deutschland zu dem Übereinkommen von
 Kingston, Jamaika, vom 18. Oktober 1969 zur Errichtung der Karibischen
 Entwicklungsbank wird zugestimmt. Das Übereinkommen wird nachstehend
 mit einer amtlichen deutschen Übersetzung veröffentlicht.
-
 
 ## Art 2
 
@@ -47,18 +43,15 @@ Sonderfonds einen Beitrag im Wert von 47.448.844,- DM (in Worten
 Siebenundvierzig Millionen vierhundertachtundvierzigtausend
 achthundertvierundvierzig Deutsche Mark) zu leisten.
 
-
 ## Art 3
 
 Die Deutsche Bundesbank ist Hinterlegungsstelle für die Karibische
 Entwicklungsbank nach Artikel 37 Absatz 2 des Übereinkommens.
 
-
 ## Art 4
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
-
 
 ## Art 5
 

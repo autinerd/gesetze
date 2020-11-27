@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 7.11.2003 I 2261
 
-
 ## Eingangsformel
 
 Auf Grund des § 36 Abs. 8 des Zivildienstgesetzes in der Fassung der
@@ -26,7 +25,6 @@ Bekanntmachung vom 28. September 1994 (BGBl. I S. 2811), der durch
 Artikel 29 der Verordnung vom 21. September 1997 (BGBl. I S. 2390)
 geändert worden ist, verordnet das Bundesministerium für Familie,
 Senioren, Frauen und Jugend:
-
 
 ## § 1 Geltungsbereich
 
@@ -40,10 +38,6 @@ Diese Verordnung gilt für die Personalakten
     Reservisten, die einen Antrag nach § 2 des
     Kriegsdienstverweigerungsgesetzes gestellt haben, sobald dieser Antrag
     beim Bundesamt für den Zivildienst (Bundesamt) eingegangen ist.
-
-
-
-
 
 ## § 2 Grundakte, Teilakten, Nebenakten
 
@@ -82,7 +76,6 @@ Verwaltungsstelle, der Zivildienstgruppe oder der Beschäftigungsstelle
 erforderlich sind und deren Original oder Doppel sich in der Grundakte
 oder in einer Teilakte befinden.
 
-
 ## § 3 Tauglichkeitsakte
 
 (1) Die Tauglichkeitsakte dient der personenbezogenen Dokumentation
@@ -100,7 +93,6 @@ zuständigen Referats sowie der fachaufsichtlich vorgesetzte Arzt oder
 die fachaufsichtlich vorgesetzte Ärztin. Wird die Tauglichkeitsakte in
 einem Rechtsstreit beigezogen, darf auch das für die Durchführung des
 Rechtsstreits zuständige Personal Einsicht nehmen.
-
 
 ## § 4 Sachakten
 
@@ -127,7 +119,6 @@ Rechtsstreits zuständige Personal Einsicht nehmen.
 (2) Sachakten nach Absatz 1 Nr. 1 und 2 sind von der zuständigen
 Organisationseinheit des Bundesamtes zu führen.
 
-
 ## § 5 Weitergabe der Personalakte
 
 (1) Für die Rückgabe der Personalakte gilt § 12 Abs. 2 bis 4 des
@@ -145,7 +136,6 @@ Zivildienstgesetzes vor, übersendet das Bundesamt, sofern der
 Antragsteller einwilligt, dem zuständigen Versorgungsamt eine
 Ablichtung der Tauglichkeitsakte und der für das Verfahren
 erforderlichen Teile der Heilfürsorgeakte.
-
 
 ## § 6 Aufbewahrung der Personalakte
 
@@ -185,7 +175,6 @@ Verwaltungsstelle oder Zivildienstgruppe zuzuleiten.
 (4) Die in den Verwaltungsstellen der Verbände oder den
 Zivildienstgruppen geführten Nebenakten sind in Registraturen, die nur
 dem Personal dieser Stellen zugänglich sind, aufzubewahren.
-
 
 ## § 7 Aufbewahrungsfristen; Vernichtung der Personalakte
 
@@ -233,7 +222,6 @@ Zivildienstpflichtiger verstorben ist, ohne versorgungsberechtigte
 Hinterbliebene zu hinterlassen, ist die Personalakte fünf Jahre nach
 Ablauf des Todesjahres zu vernichten.
 
-
 ## § 8 Ersetzung der Urschrift
 
 (1) Die Grundakte und die Tauglichkeitsakte können nach Vollendung des
@@ -266,7 +254,6 @@ den Zugriff auf die Urschrift entsprechend.
 die Vernichtung der Personalakte nach § 7 für sämtliche auf dem
 Datenträger gespeicherten Personalunterlagen erfüllt sind.
 
-
 ## § 9 Erhebung, Verarbeitung und Nutzung personenbezogener Daten
 
 (1) Personenbezogene Daten dürfen nur für Zwecke der Durchführung des
@@ -289,7 +276,6 @@ Personen, die einen Antrag nach § 2 des
 Kriegsdienstverweigerungsgesetzes gestellt haben, auf Antrag eine
 Zusammenstellung der zu ihrer Person gespeicherten Daten.
 
-
 ## § 10 Zugriff auf gespeicherte personenbezogene Daten
 
 (1) Das Personal des Bundesamtes darf nur auf die gespeicherten
@@ -303,7 +289,6 @@ haben, die zur Erledigung seiner Aufgaben erforderlich sind.
 
 (3) Die erforderlichen Kontrollmaßnahmen richten sich nach der Anlage
 zu § 9 Satz 1 des Bundesdatenschutzgesetzes.
-
 
 ## § 11 Übermittlung personenbezogener Daten durch das Bundesamt
 
@@ -384,7 +369,6 @@ Absätze 2, 3 und 10 nicht übermittelt werden.
 (14) Ein automatisierter Abruf personenbezogener Daten ist nicht
 zulässig.
 
-
 ## § 12 Löschung von Daten
 
 (1) Für die Löschung automatisiert verarbeiteter personenbezogener
@@ -410,7 +394,6 @@ Bildungsveranstaltungen gespeicherten personenbezogenen Daten der
 Teilnehmer sind spätestens ein Jahr nach der letzten Anmeldung zu
 löschen.
 
-
 ## § 13 Akteneinsicht
 
 (1) Zivildienstpflichtige und sonstige Personen, die einen Antrag nach
@@ -433,7 +416,6 @@ zulässig.
 
 (3) Die Fertigung von Kopien oder Abschriften durch den Antragsteller
 ist zulässig, soweit dienstliche Gründe nicht entgegenstehen.
-
 
 ## § 14 Auskunftserteilung
 
@@ -467,7 +449,6 @@ erteilt werden, wenn
 Zivildienstgesetzes über den Inhalt und den Empfänger oder die
 Empfängerin der Auskunft schriftlich zu informieren.
 
-
 ## § 15 Entbindung von der ärztlichen Schweigepflicht
 
 Personenbezogene medizinische Daten, die im Rahmen der Gewährung der
@@ -480,7 +461,6 @@ zuständigen Personal des Bundesamtes offenbart werden, soweit dies
 insbesondere zur Beurteilung der Verwendungs- und Dienstfähigkeit des
 Zivildienstpflichtigen oder zur Abrechnung der Kosten erforderlich
 ist.
-
 
 ## § 16 Inkrafttreten
 

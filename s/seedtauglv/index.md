@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 Abs. 76 G v. 5.5.2004 I 718
 
-
 ## Eingangsformel
 
 Auf Grund des § 142 Abs. 1 Satz 1 Nr. 2 und Satz 2 sowie des § 143
@@ -30,7 +29,6 @@ Bundesminister für Ernährung, Landwirtschaft und Forsten und dem
 Bundesminister für das Post- und Fernmeldewesen mit Zustimmung des
 Bundesrates verordnet:
 
-
 ## § 1 Voraussetzungen der Seediensttauglichkeit
 
 Seediensttauglich ist, wer nach seinem Gesundheitszustand geeignet und
@@ -39,7 +37,6 @@ als Kapitän oder Besatzungsmitglied beschäftigt zu werden oder als
 Schiffseigentümer eine solche Tätigkeit auszuüben und den zur
 Erhaltung der Schiffssicherheit gestellten besonderen Anforderungen
 seines Dienstzweiges zu genügen.
-
 
 ## § 2 Gründe, die die Seediensttauglichkeit ausschließen
 
@@ -57,7 +54,6 @@ gleichwohl die Seediensttauglich feststellen, wenn unter
 Berücksichtigung des Lebensalters, der Berufserfahrung und der
 Tätigkeit des Untersuchten nicht zu befürchten ist, daß er oder andere
 Personen an Bord oder die Schiffssicherheit gefährdet werden.
-
 
 ## § 3 Hörvermögen
 
@@ -97,7 +93,6 @@ Inkrafttreten dieser Verordnung untersucht und als ausreichend
 befunden wurde, aber nicht mehr den Anforderungen dieser Verordnung
 entspricht, sind weiterhin seediensttauglich, wenn ihr Hörvermögen
 noch den Anforderungen der ersten Untersuchung entspricht.
-
 
 ## § 4 Sehvermögen und Farbtüchtigkeit
 
@@ -157,14 +152,12 @@ ersten Untersuchung entspricht.
 ist dem Untersuchten die Auflage zu erteilen, die Brille während des
 Dienstes ständig zu tragen und eine Ersatzbrille mitzuführen.
 
-
 ## § 5 Ermächtigung des Arztes
 
 Die See-Berufsgenossenschaft darf für die
 Seediensttauglichkeitsuntersuchungen nur solche Ärzte ermächtigen, die
 besondere Kenntnisse der gesundheitlichen Anforderungen im
 Schiffsdienst besitzen.
-
 
 ## § 6 Durchführung der Untersuchung
 
@@ -181,7 +174,6 @@ Körpergröße, Gewicht und Blutdruck sind zu messen.
 Seediensttauglichkeit erforderlich ist, einen anderen Arzt,
 insbesondere einen Facharzt, zuziehen und eine Ergänzungsuntersuchung
 veranlassen.
-
 
 ## § 7 Untersuchungsbefund Seediensttauglichkeitszeugnis
 
@@ -206,7 +198,6 @@ werden.
 (4) Der Arzt berichtet der See-Berufsgenossenschaft über die von ihm
 durchgeführten Untersuchungen. Die Untersuchungsbefunde sind
 mindestens 5 Jahre lang aufzubewahren.
-
 
 ## § 8 Geltungsdauer des Seediensttauglichkeitszeugnisses
 
@@ -245,7 +236,6 @@ Seediensttauglichkeitszeugnis einziehen. Das gleiche gilt, wenn
 nachträglich Tatsachen bekannt werden, die zur Versagung des
 Seediensttauglichkeitszeugnisses geführt hätten.
 
-
 ## § 9 Nachuntersuchung
 
 Auf das Hör- und Sehvermögen sowie auf die Farbtüchtigkeit sind
@@ -262,10 +252,6 @@ Seediensttauglichkeitszeugnisses nur zu erstrecken:
 
 
 3.  auf Verlangen der See-Berufsgenossenschaft.
-
-
-
-
 
 ## § 10 Widerspruchsausschuß
 
@@ -324,7 +310,6 @@ Ausübung des Amts zur Kenntnis gelangten persönlichen Verhältnisse
 eines Betroffenen, auch nach ihrem Ausscheiden aus dem
 Widerspruchsausschuß, nicht offenbaren.
 
-
 ## § 11 Verfahren des Widerspruchsausschusses
 
 (1) Der Vorsitzende leitet das Verfahren des Widerspruchsausschusses.
@@ -344,14 +329,12 @@ nach billigem Ermessen, ob die See-Berufsgenossenschaft dem
 Antragsteller Verdienstausfall und Kosten zu ersetzen hat, die diesem
 anläßlich des Verfahrens entstanden sind.
 
-
 ## § 12 Aufbewahrung des Seediensttauglichkeitszeugnisses
 
 Das Seediensttauglichkeitszeugnis ist während der Dauer der
 Beschäftigung auf dem Schiff vom Kapitän zu verwahren und auf
 Verlangen der See-Berufsgenossenschaft oder der Arbeitsschutzbehörde
 vorzulegen oder der See-Berufsgenossenschaft einzusenden.
-
 
 ## § 13 Vorlage des Seediensttauglichkeitszeugnisses
 
@@ -378,7 +361,6 @@ bei nächster Gelegenheit zu veranlassen.
 
 (2) Wer einen Lehrgang der Seemannsschule besucht, hat der
 Seemannsschule das Seediensttauglichkeitszeugnis vorzulegen.
-
 
 ## § 14 Untersuchung von Bewerbern um Befähigungszeugnisse
 
@@ -415,14 +397,12 @@ Absatz 2 und 3 der Richtlinie 92/51/EWG anerkannt.
 (5) Absatz 4 gilt entsprechend für Staatsangehörige eines
 Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum.
 
-
 ## § 15 Übergangsvorschriften
 
 Von der See-Berufsgenossenschaft vor Inkrafttreten dieser Verordnung
 ausgestellte Gesundheitskarten gelten bis zum Ablauf ihrer
 Geltungsdauer als Seediensttauglichkeitszeugnisse im Sinne dieser
 Verordnung.
-
 
 ## § 16 Aufhebung von Rechtsvorschriften
 
@@ -437,7 +417,6 @@ Mit dem Inkrafttreten dieser Verordnung treten außer Kraft:
 
 3\.
 
-
 ## § 17
 
 Soweit durch diese Rechtsverordnung Schriftform einschließlich für
@@ -447,17 +426,14 @@ andere Dokumente ausgestellt werden, deren Ausstellung schriftlich zu
 beantragen ist, sie auszuhändigen, vorzulegen oder mitzuführen sind,
 ist die elektronische Form ausgeschlossen.
 
-
 ## § 18 Inkrafttreten
 
 Diese Verordnung tritt am 1. September 1970 in Kraft.
-
 
 ## Schlußformel
 
 Der Bundesminister für Verkehr
 Der Bundesminister für Arbeit und Sozialordnung
-
 
 ## Anlage 1 (zu § 2 Abs. 1 der Verordnung) Erkrankungen, gesundheitliche Schäden und Schwächen, die die Seediensttauglichkeit ausschließen
 
@@ -610,10 +586,6 @@ Der Bundesminister für Arbeit und Sozialordnung
 28. chronischen oder zu Rückfällen neigenden entzündlichen Erkrankungen
     der Geschlechtsorgane.
 
-
-
-
-
 ## Anlage 2 (zu § 7 Abs. 1 der Verordnung) Muster des Seediensttauglichkeitszeugnisses - Umschlag im Format DIN A7 -
 
 Fundstelle des Originaltextes: BGBl I 1970, 1247
@@ -641,7 +613,6 @@ werden.
 Ohne gültiges Seediensttauglichkeitszeugnis darf kein Seemann
 anmustern.
 Es ist deshalb sorgfältig zu verwahren.
-
 
 ## Anlage 3 (zu § 7 Abs. 1 der Verordnung) Muster für die Anlage zum Seediensttauglichkeitszeugnis im Format DIN A5
 
@@ -707,12 +678,10 @@ Gründe einer Einschränkung der Geltungsdauer des
 Seediensttauglichkeitszeugnisses oder des Fahrtgebiets mit Ort, Tag,
 Unterschrift des Arztes und Dienststempel)
 
-
 ## Anlage 4 (zu § 7 Abs. 1 der Verordnung) Muster der Siegelmarke
 
 (Inhalt: nicht darstellbares Muster,
 Fundstelle des Originaltextes: BGBl. I 1970, 1249)
-
 
 ## Anlage 5 (zu § 7 Abs. 1 der Verordnung)
 
@@ -743,7 +712,6 @@ Ausstellungsort und -tag             Unterschrift und Dienststempel
 des
 ermächtigten Arztes
 \*) Nichtzutreffendes streichen.
-
 
 ## Anlage 6 (zu § 14 Abs. 3 der Verordnung) Muster einer Bescheinigung zur Vorlage zum Erwerb von Befähigungszeugnissen
 
@@ -780,7 +748,6 @@ Sonstige Proben    ......................
 Ausstellungsort und -tag             Unterschrift und Dienststempel
 des
 ermächtigten Arztes
-
 
 ## Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet D Abschnitt III (BGBl. II 1990, 889, 1109)
 

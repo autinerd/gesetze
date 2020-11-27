@@ -16,18 +16,14 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1968, 473
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art 1
 
 -
-
 
 ## Art 2
 
@@ -42,17 +38,14 @@ des Ausgleichs erforderlichen Mittel werden durch Umlage auf sämtliche
 Träger der Krankenversicherung im Verhältnis der durchschnittlichen
 Mitgliederzahl des Vorjahres, einschließlich der Rentner, aufgebracht.
 
-
 ## Art 3
 
 -
-
 
 ## Art 4
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
-
 
 ## Art 5
 

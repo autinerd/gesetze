@@ -18,8 +18,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1990, 2057
 
-
-
 ## (XXXX)
 
 Die Präsidentin der Volkskammer der Deutschen Demokratischen Republik
@@ -32,7 +30,6 @@ Grundgesetzes für die Bundesrepublik Deutschland gemäß Artikel 23 Satz
 Das Schreiben der Präsidentin der Volkskammer an den Bundespräsidenten
 und der Beschluß der Volkskammer werden nachstehend veröffentlicht.
 Der Bundesminister des Innern
-
 
 ## (XXXX)
 

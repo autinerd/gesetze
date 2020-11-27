@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   RGBl II: 1924, 381
 
-
-
 ## (XXXX)
 
 Unter Bezugnahme auf § 23 des Gesetzes zum Schutz der

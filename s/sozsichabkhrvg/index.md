@@ -19,12 +19,10 @@ Fundstelle
 Geändert durch
 :   Art. 2 Nr. 12 G v. 27. 4.2002 I 1464
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -44,11 +42,9 @@ Den folgenden, in Bonn am 24. November 1997 unterzeichneten
 Das Abkommen und die Durchführungsvereinbarung werden nachstehend
 veröffentlicht.
 
-
 ## Art 2
 
 (weggefallen)
-
 
 ## Art 3
 
@@ -77,7 +73,6 @@ der öffentlichen Hand bleiben bei der Ermittlung der Umlage die
 Ausgaben für Sachleistungen, die für den versicherten Personenkreis
 nach § 2 Abs. 1 Nr. 8 des Siebten Buches Sozialgesetzbuch erbracht
 werden, außer Betracht.
-
 
 ## Art 4
 
@@ -108,10 +103,6 @@ insbesondere über folgende Gegenstände Regelungen getroffen werden:
 
 5.  die gegenseitige Umrechnung von Versicherungszeiten nach den
     Rechtsvorschriften beider Vertragsstaaten.
-
-
-
-
 
 ## Art 5
 

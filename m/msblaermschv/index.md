@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1997, 2329, 2338
 
-
-
 ## § 1 Anwendungsbereich
 
 (1) Die Verordnung gilt für den Bau oder die wesentliche Änderung von
@@ -41,7 +39,6 @@ dem zu ändernden Verkehrsweg der Magnetschwebebahnen ausgehenden
 Verkehrslärms von mindestens 70 Dezibel (A) am Tage oder 60 Dezibel
 (A) in der Nacht durch einen erheblichen baulichen Eingriff erhöht
 wird; dies gilt nicht in Gewerbegebieten.
-
 
 ## § 2 Immissionsgrenzwerte
 
@@ -114,13 +111,11 @@ Absatz 1, bauliche Anlagen im Außenbereich nach Absatz 1 Nr. 1, 3 und
 ausgeübt, so ist der Immissionsgrenzwert für diesen Zeitraum
 anzuwenden.
 
-
 ## § 3 Berechnung des Beurteilungspegels
 
 Der Beurteilungspegel ist nach der Anlage zu berechnen. Die dort unter
 Nummer 2.1 genannten Angaben hat der Betreiber der Magnetschwebebahn
 beizubringen.
-
 
 ## Anlage Berechnung des Beurteilungspegels
 

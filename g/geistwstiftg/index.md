@@ -19,15 +19,12 @@ Fundstelle
 Geändert durch
 :   Art. 1 G v. 31.7.2009 I 2622
 
-
-
 ## § 1 Name, Rechtsform und Sitz der Stiftung
 
 Unter dem Namen "Stiftung Deutsche Geisteswissenschaftliche Institute
 im Ausland" wird eine rechtsfähige bundesunmittelbare Stiftung des
 öffentlichen Rechts mit Sitz in Bonn errichtet. Die Stiftung kann sich
 durch Satzung einen Namenszusatz geben.
-
 
 ## § 2 Zweck der Stiftung
 
@@ -73,7 +70,6 @@ Geisteswissenschaften des Gastlandes fördern, insbesondere durch
 Zwecke im Sinne des Abschnitts "Steuerbegünstigte Zwecke" der
 Abgabenordnung.
 
-
 ## § 3 Stiftungsvermögen
 
 (1) Zur Erfüllung des Stiftungszwecks erhält die Stiftung eine
@@ -89,14 +85,12 @@ im Sinne des Stiftungszwecks verwendet werden. Die Stiftung darf keine
 Personen durch Ausgaben, die dem Zweck der Stiftung fremd sind, oder
 durch unverhältnismäßig hohe Vergütungen begünstigen.
 
-
 ## § 4 Satzung
 
 Die Stiftung gibt sich eine Satzung, die vom Stiftungsrat mit einer
 Mehrheit von zwei Dritteln seiner Mitglieder beschlossen wird und der
 Genehmigung des Bundesministeriums für Bildung und Forschung bedarf.
 Das Gleiche gilt für Änderungen der Satzung.
-
 
 ## § 5 Organe der Stiftung
 
@@ -115,10 +109,6 @@ Organe der Stiftung sind
 
 
 5.  die Geschäftsführerin oder der Geschäftsführer.
-
-
-
-
 
 ## § 6 Stiftungsrat
 
@@ -176,7 +166,6 @@ die Tätigkeit der Einrichtungen kann er sich berichten lassen.
 
 (4) Die Einzelheiten regelt die Satzung.
 
-
 ## § 7 Verfahren des Stiftungsrates
 
 (1) Der Stiftungsrat entscheidet in der Regel in Sitzungen, die der
@@ -205,7 +194,6 @@ werden. Der Stiftungsrat holt vor strategisch bedeutsamen und zentral
 haushaltsrelevanten Entscheidungen die Stellungnahme der
 Direktionsversammlung ein; die Einzelheiten regelt die Satzung.
 
-
 ## § 8 Direktionsversammlung
 
 (1) Die Direktionsversammlung setzt sich aus den Direktorinnen und
@@ -228,7 +216,6 @@ anwesenden Mitglieder.
 
 (5) Die Einzelheiten regelt die Satzung.
 
-
 ## § 9 Direktorinnen und Direktoren der Institute
 
 (1) Der Stiftungsrat bestellt für jedes Institut auf Vorschlag des
@@ -245,7 +232,6 @@ höchstens fünf Jahre bestellt. Eine Wiederbestellung für höchstens
 sieben Jahre ist zulässig.
 
 (3) Die Einzelheiten regelt die Satzung.
-
 
 ## § 10 Wissenschaftliche Beiräte der Institute
 
@@ -270,14 +256,12 @@ Versammlung der Beiratsvorsitzenden.
 
 (5) Das Nähere regelt die Satzung.
 
-
 ## § 11 Ehrenamtliche Tätigkeit
 
 Die Mitglieder des Stiftungsrates und der Wissenschaftlichen Beiräte
 der Institute üben ihre Tätigkeit unentgeltlich aus. Die oder der
 Vorsitzende des Stiftungsrates kann für ihre oder seine Tätigkeit eine
 Vergütung erhalten.
-
 
 ## § 12 Geschäftsführung
 
@@ -292,14 +276,12 @@ sind. Sie vertritt die Stiftung gerichtlich und außergerichtlich.
 (2) Das Verfahren zur Bestellung der Geschäftsführerin oder des
 Geschäftsführers sowie weitere Einzelheiten regelt die Satzung.
 
-
 ## § 13 Geschäftsstelle
 
 Die gemeinsame Geschäftsstelle unterstützt die Arbeit der
 Stiftungsorgane, der Beschäftigten der Institute und der
 Wissenschaftlichen Beiräte. Sie wird von der Geschäftsführerin oder
 dem Geschäftsführer geleitet.
-
 
 ## § 14 Aufsicht, Rechnungsprüfung
 
@@ -310,7 +292,6 @@ für Bildung und Forschung.
 die insoweit für die unmittelbare Bundesverwaltung gelten Vorschriften
 entsprechende Anwendung. Die Haushalts- und Wirtschaftsführung der
 Stiftung unterliegen der Prüfung durch den Bundesrechnungshof.
-
 
 ## § 15 Beschäftigte
 
@@ -325,7 +306,6 @@ von § 91 Absatz 1 Nummer 2 des Bundespersonalvertretungsgesetzes für
 die Wahl des Hauptpersonalrats an die strukturellen Besonderheiten der
 Stiftung angepasste Regelungen treffen. Für die in den Instituten
 tätigen Ortskräfte gilt das Ortsrecht des jeweiligen Gastlandes.
-
 
 ## § 16 Berichterstattung
 

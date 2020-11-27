@@ -24,7 +24,6 @@ Konferenz der Kultusminister der Länder in der Bundesrepublik
 Deutschland beschlossene Rahmenlehrplan für die Berufsschule werden
 demnächst als Beilage zum Bundesanzeiger veröffentlicht.
 
-
 ## Eingangsformel
 
 Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des
@@ -37,7 +36,6 @@ des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S.
 3165) sowie dem Organisationserlass vom 22. November 2005 (BGBl. I S.
 3197), verordnet das Bundesministerium für Wirtschaft und Technologie
 im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
-
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
@@ -55,11 +53,9 @@ Mühlen- und Futtermittelwirtschaft) wird
 
 staatlich anerkannt.
 
-
 ## § 2 Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Zielsetzung der Berufsausbildung
 
@@ -72,7 +68,6 @@ selbstständiges Planen, Durchführen und Kontrollieren sowie das
 Handeln im betrieblichen Gesamtzusammenhang einschließt. Diese
 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 8 und 9
 nachzuweisen.
-
 
 ## § 4 Ausbildungsberufsbild
 
@@ -118,10 +113,6 @@ Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 13. Lagern, Verpacken und Verladen der Erzeugnisse.
 
-
-
-
-
 ## § 5 Ausbildungsrahmenplan
 
 Die in § 4 genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen
@@ -132,12 +123,10 @@ sachliche und zeitliche Gliederung der Ausbildungsinhalte ist
 insbesondere zulässig, soweit betriebspraktische Besonderheiten die
 Abweichung erfordern.
 
-
 ## § 6 Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans
 für die Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 7 Schriftlicher Ausbildungsnachweis
 
@@ -146,7 +135,6 @@ führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
 Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
 Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
 durchzusehen.
-
 
 ## § 8 Zwischenprüfung
 
@@ -204,7 +192,6 @@ Funktionsweisen von Anlagen und Maschinen beschreiben, Maßnahmen zur
 Sicherheit und zum Gesundheitsschutz bei der Arbeit, zur Hygiene sowie
 zum Umweltschutz und zur Qualitätssicherung durchführen sowie seine
 Vorgehensweise begründen kann.
-
 
 ## § 9 Gesellenprüfung/Abschlussprüfung
 
@@ -340,7 +327,6 @@ schriftlichen Prüfungsteils müssen mindestens ausreichende Leistungen
 erbracht, in dem weiteren Prüfungsbereich des schriftlichen Teils
 dürfen keine ungenügenden Leistungen erbracht worden sein.
 
-
 ## § 10 Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
@@ -348,11 +334,9 @@ bestehen, können unter Anrechung der bisher zurückgelegten
 Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt
 werden, wenn die Vertragsparteien dies vereinbaren.
 
-
 ## § 11 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2006 in Kraft.
-
 
 ## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Müller (Verfahrenstechnologe in der Mühlen- und Futtermittelwirtschaft)/zur Müllerin (Verfahrenstechnologin in der Mühlen- und Futtermittelwirtschaft)
 

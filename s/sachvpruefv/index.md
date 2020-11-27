@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 1456 (1573)
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 55a Abs. 1 Satz 1 Nr. 4 in Verbindung mit Abs. 2 des
@@ -34,10 +32,7 @@ verordnet das Bundesaufsichtsamt für das Versicherungswesen im
 Benehmen mit den Aufsichtsbehörden der Länder und nach Anhörung des
 Versicherungsbeirates:
 
-
 ## Abschnitt 1 - Allgemeine Vorschriften
-
-
 
 ### § 1 Anwendungsbereich, Prüfungszeitraum
 
@@ -71,7 +66,6 @@ der Aufsichtsbehörde nach Absatz 2 Satz 1, eine Prüfung nach den
 Vorschriften dieser Verordnung auch in kürzeren Abständen zu
 verlangen, bleibt unberührt.
 
-
 ### § 2 Gegenstand und Umfang der Prüfung
 
 (1) In die Prüfung des Jahresabschlusses ist die Buchführung
@@ -92,7 +86,6 @@ vermittelt.
 (3) Die Prüfung hat sich auf die Geschäftsjahre zu beziehen, die seit
 dem Geschäftsjahr vergangen sind, zu dessen Abschluss zuletzt eine
 Prüfung vorgenommen wurde.
-
 
 ### § 3 Unabhängiger Sachverständiger
 
@@ -128,10 +121,7 @@ durch die oberste Vertretung des Versicherungsunternehmens. Sofern das
 Versicherungsunternehmen über einen Aufsichtsrat verfügt, wird der
 Sachverständige von diesem bestellt und abberufen.
 
-
 ## Abschnitt 2 - Prüfungsbericht
-
-
 
 ### § 4 Allgemeiner Teil des Prüfungsberichtes
 
@@ -180,7 +170,6 @@ Kapitalanlagen darzustellen.
 
 (4) Hat der Sachverständige einen Fachkundigen zur Prüfung
 hinzugezogen, so hat er diesen in dem Bericht namentlich zu nennen.
-
 
 ### § 5 Besonderer Teil des Prüfungsberichtes
 
@@ -252,10 +241,6 @@ hinzuweisen.
     Deckungsrückstellung vorgenommen wurde, einzugehen. Hierbei sind
     wesentliche Änderungen zu erläutern.
 
-
-
-
-
 ### § 6 Prüfungsvermerk
 
 (1) Bestehen nach dem abschließenden Ergebnis der Prüfung keine
@@ -277,7 +262,6 @@ unterrichten.
 (3) Der Sachverständige hat den Prüfungsvermerk im Prüfungsbericht mit
 Angabe von Ort und Tag zu unterzeichnen.
 
-
 ### § 7 Einreichung bei der Aufsichtsbehörde
 
 Der Vorstand hat den Bericht des Sachverständigen unverzüglich nach
@@ -285,10 +269,7 @@ Erhalt, spätestens acht Monate nach Schluss des letzten
 Geschäftsjahres im Prüfungszeitraum, in doppelter Ausfertigung der
 Aufsichtsbehörde einzureichen.
 
-
 ## Abschnitt 3 - Schlussvorschriften
-
-
 
 ### § 8 Übergangsvorschriften
 
@@ -298,7 +279,6 @@ Aufsichtsbehörde einzureichen.
 (2) § 1 Abs. 2 gilt mit der Maßgabe, dass sich die erstmalige Prüfung
 des Jahresabschlusses nach den Vorschriften dieser Verordnung auf
 einen Zeitraum von längstens drei Geschäftsjahren zu beziehen hat.
-
 
 ### § 9 Inkrafttreten, Außerkrafttreten
 

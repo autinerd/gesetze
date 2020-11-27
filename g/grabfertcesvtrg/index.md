@@ -17,13 +17,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1996, 18
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -32,7 +29,6 @@ der Bundesrepublik Deutschland und der Tschechischen Republik über
 Erleichterungen der Grenzabfertigung im Eisenbahn-, Straßen- und
 Schiffsverkehr wird zugestimmt. Der Vertrag wird nachstehend
 veröffentlicht.
-
 
 ## Art 2
 
@@ -51,7 +47,6 @@ b)  die Strecken, auf denen die Bediensteten beider Vertragsparteien in
 
 
 erforderlich sind.
-
 
 ## Art 3
 

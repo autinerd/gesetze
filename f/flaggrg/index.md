@@ -21,14 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 Abs. 6 G v. 25.6.2009 I 1574
 
-
 ## Erster Abschnitt - Flaggenrecht der Seeschiffe
 
-
-
 ### 1. - Recht zur Führung der Bundesflagge
-
-
 
 #### § 1
 
@@ -66,7 +61,6 @@ in der Fassung der Bekanntmachung vom 21. Oktober 1994 (BGBl. I S.
 seewärts der Grenze des deutschen Küstenmeeres, so wird es
 hinsichtlich der Vorschriften dieses Gesetzes insoweit einem Seeschiff
 gleichgestellt.
-
 
 #### § 2
 
@@ -128,10 +122,7 @@ Bundesflagge in den Fällen des Absatzes 1 Nr. 2, auch in Verbindung
 mit Absatz 1a, ist vom Eigentümer unverzüglich dem Bundesministerium
 für Verkehr, Bau und Stadtentwicklung anzuzeigen.
 
-
 ### 2. - Ausweis über die Berechtigung zur Führung der Bundesflagge
-
-
 
 #### § 3
 
@@ -158,7 +149,6 @@ d)  für Seeschiffe, deren Rumpflänge, gemessen zwischen den äußersten
 
 nachgewiesen.
 
-
 #### § 4
 
 (1) Vor der Erteilung der in § 3 genannten Ausweise darf die
@@ -169,7 +159,6 @@ Schiffsregister besteht.
 (2) Der Ausweis gemäß § 3 Buchstabe a bis c oder ein von dem
 Registergericht beglaubigter Auszug aus dem Schiffszertifikat ist
 während der Reise stets an Bord des Schiffes mitzuführen.
-
 
 #### § 5
 
@@ -184,10 +173,7 @@ angemeldet ist.
 (2) Das Schiffsvorzertifikat hat nur für die Dauer von 6 Monaten seit
 dem Tage der Ausstellung Gültigkeit.
 
-
 ### 3. - Verbot anderer Nationalflaggen, Ausnahmen
-
-
 
 #### § 6
 
@@ -209,7 +195,6 @@ b)  die Bundesflagge nach § 10 oder § 11 führen dürfen und für die ein
 (2) Unberührt bleiben Vorschriften über die Führung von Dienstflaggen
 anstelle oder neben der Bundesflagge durch Seeschiffe im öffentlichen
 Dienst.
-
 
 #### § 7
 
@@ -236,10 +221,7 @@ anzuzeigen.
 (4) Solange die Genehmigung wirksam ist, darf das Recht zur Führung
 der Bundesflagge nicht ausgeübt werden.
 
-
 ### 4. - Flaggenführung, Schiffsname und IMO-Schiffsidentifikationsnummer
-
-
 
 #### § 8
 
@@ -257,7 +239,6 @@ andere Flaggen nur zum Signalgeben gesetzt werden.
 
 (3) Die Bundesflagge ist beim Einlaufen in einen Hafen und beim
 Auslaufen zu zeigen.
-
 
 #### § 9
 
@@ -281,7 +262,6 @@ Stadtentwicklung anzuzeigen; dieses kann zur Wahrung des öffentlichen
 Interesses die Führung von bestimmten Schiffsnamen untersagen. Satz 1
 gilt auch für die Änderung des Namens.
 
-
 #### § 9a
 
 (1) Der Eigentümer hat dafür zu sorgen, dass an einem Seeschiff im
@@ -303,10 +283,7 @@ Lebens auf See angebracht ist.
 an Seeschiffen, die aus einem anderen Werkstoff als Holz oder Metall
 hergestellt sind, muss von der Flaggenbehörde genehmigt werden.
 
-
 ### 5. - Verleihung der Befugnis zur Führung der Bundesflagge
-
-
 
 #### § 10
 
@@ -316,7 +293,6 @@ Führung der Bundesflagge berechtigt sind, kann das Bundesministerium
 für Verkehr, Bau und Stadtentwicklung die Befugnis hierzu für die
 erste Überführungsreise in einen anderen Hafen einschließlich der
 hierfür erforderlichen vorausgehenden Fahrten verleihen.
-
 
 #### § 11
 
@@ -352,10 +328,7 @@ e)  nicht fremdes Recht der Führung der Bundesflagge entgegensteht.
 Ausrüster unverzüglich dem Bundesministerium für Verkehr, Bau und
 Stadtentwicklung anzuzeigen.
 
-
 ### 6. - Internationales Seeschiffahrtsregister
-
-
 
 #### § 12
 
@@ -368,10 +341,7 @@ Internationale Seeschiffahrtsregister einzutragen.
 Bundesministerium für Verkehr, Bau und Stadtentwicklung eingerichtet
 und geführt.
 
-
 ### 7. - Stammdatendokumentation
-
-
 
 #### § 13
 
@@ -388,10 +358,7 @@ enthält.
 Flaggenbehörde eine Bescheinigung ausgestellt. Diese ist an Bord des
 Seeschiffes mitzuführen.
 
-
 ## Zweiter Abschnitt - Flaggenführung der Binnenschiffe
-
-
 
 ### § 14
 
@@ -401,10 +368,7 @@ Heimatflaggen dürfen nur neben der Bundesflagge gesetzt werden.
 
 (2) § 6 Abs. 2 und § 8 Abs. 2 finden entsprechende Anwendung.
 
-
 ## Dritter Abschnitt - Straf- und Bußgeldvorschriften
-
-
 
 ### § 15
 
@@ -419,7 +383,6 @@ bestraft.
 für das Seeschiff Verantwortlicher entgegen § 8 Abs. 1 Satz 1 die
 Bundesflagge oder entgegen § 8 Abs. 1 Satz 2 oder sonst unbefugt eine
 Dienstflagge führt.
-
 
 ### § 16
 
@@ -478,13 +441,11 @@ Euro geahndet werden.
 (4) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes
 über Ordnungswidrigkeiten ist die Flaggenbehörde.
 
-
 ### § 17
 
 § 15 Abs. 2 gilt, unabhängig vom Recht des Tatorts, auch für die
 Taten, die außerhalb des Geltungsbereichs dieses Gesetzes begangen
 werden.
-
 
 ### § 18
 
@@ -503,10 +464,7 @@ wurde, zulässig. In den Mitteilungen sind die Bezeichnung des
 Schiffes, seine Flagge und seine IMO-Nummer, soweit erteilt,
 anzugeben.
 
-
 ## Vierter Abschnitt - Übergangs- und Schlußbestimmungen
-
-
 
 ### § 19
 
@@ -514,11 +472,9 @@ anzugeben.
 andere Nationalflagge als die Bundesflagge geführt haben, solange sie
 diese Flagge weiterführen.
 
-
 ### § 20
 
 (Aufhebung anderer Vorschriften)
-
 
 ### § 21
 
@@ -599,7 +555,6 @@ Absatzes abgeschlossene Tarifverträge beziehen sich auf die in Satz 1
 genannten Arbeitsverhältnisse im Zweifel nur, wenn sie dies
 ausdrücklich vorsehen. Die Vorschriften des deutschen
 Sozialversicherungsrechts bleiben unberührt.
-
 
 ### § 22
 
@@ -690,7 +645,6 @@ Fischereifahrzeuge betreffen, im Einvernehmen mit dem
 Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz
 zu erlassen.
 
-
 ### § 22a
 
 (1) Für Amtshandlungen nach diesem Gesetz können Kosten (Gebühren und
@@ -706,14 +660,12 @@ wird; bei begünstigenden Amtshandlungen kann daneben die Bedeutung,
 der wirtschaftliche Wert oder der sonstige Nutzen für den
 Gebührenschuldner angemessen berücksichtigt werden.
 
-
 ### § 22b
 
 Außerhalb des Geltungsbereichs des Grundgesetzes haben die
 Konsularbeamten die Einhaltung der über das Flaggenrecht der
 Seeschiffe und die Flaggenführung der Binnenschiffe bestehenden
 Vorschriften zu überwachen.
-
 
 ### § 22c
 
@@ -725,7 +677,6 @@ ausgestellt werden, deren Ausstellung schriftlich zu beantragen ist,
 sie auszuhändigen, vorzulegen oder mitzuführen sind, ist die
 elektronische Form ausgeschlossen, wenn nicht durch Rechtsvorschrift
 eine abweichende Regelung getroffen ist.
-
 
 ### § 23
 
@@ -745,7 +696,6 @@ Verordnungen auf Kauffahrteischiffe werden
 
 
 gleichbehandelt.
-
 
 ### Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet D Abschnitt III (BGBl. II 1990, 889, 1107)
 

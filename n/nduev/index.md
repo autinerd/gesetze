@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 2117
 
-
 ## Eingangsformel
 
 Auf Grund des § 8b Absatz 8 Satz 1 bis 3 des
@@ -32,7 +31,6 @@ dem Bundesministerium für Wirtschaft und Technologie, dem
 Bundesministerium der Justiz und dem Bundesministerium der
 Verteidigung:
 
-
 ## § 1 Anwendungsbereich
 
 (1) Diese Verordnung regelt die Form und das Verfahren von Auskünften,
@@ -44,7 +42,6 @@ Gesetzes, zu erteilen sind.
 (2) Durch diese Verordnung wird keine Verpflichtung begründet,
 personenbezogene Daten zu einem Betroffenen zu erheben oder
 gespeicherte Daten inhaltlich zu überprüfen.
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -91,7 +88,6 @@ gespeicherte Daten inhaltlich zu überprüfen.
 verwiesen wird, sind im Beuth-Verlag GmbH, Berlin und Köln, erschienen
 und beim Deutschen Patent- und Markenamt in München archivmäßig
 gesichert niedergelegt, soweit nichts anderes angegeben ist.
-
 
 ## § 3 Datenübermittlung
 
@@ -140,7 +136,6 @@ Unterrichtung elektronisch erfolgt, Absatz 4 entsprechend anzuwenden.
 Die Mängel sind unverzüglich zu beheben und die zurückgewiesenen
 Datenübermittlungen erneut in mangelfreier Form durchzuführen.
 
-
 ## § 4 Abwicklung der Auskunft
 
 (1) Die Auskunftsersuchen werden schriftlich unter Setzung einer
@@ -157,7 +152,6 @@ Nachrichtendienst des Bundes mit dem Verpflichteten nicht die
 Erstellung von Sammelrechnungen vereinbart hat. Sofern ein Formblatt
 nach Satz 1 vorgesehen ist, ist es für die Beantragung der
 Entschädigung zu verwenden.
-
 
 ## § 5 Übermittlungsformat und Anforderungen an Auskunftsersuchen
 
@@ -181,7 +175,6 @@ Auskunftsverpflichtete auf ihrer Grundlage unter Berücksichtigung der
 technischen Gegebenheiten seiner Datensysteme mit vertretbarem Aufwand
 Auskunft erteilen kann.
 
-
 ## § 6 Zulassung von Ausnahmen; einstweilige Beweissicherung
 
 Der betroffene Nachrichtendienst des Bundes und ein Verpflichteter
@@ -194,7 +187,6 @@ Auskunftserteilung verpflichtet. Die Datensicherheit muss bei
 vereinbarten Verfahren gleichwertig zu den in dieser Verordnung
 vorgesehenen Verfahren sein; insbesondere bleibt § 3 Absatz 2 bis 5
 unberührt.
-
 
 ## § 7 Entschädigung
 
@@ -233,11 +225,9 @@ Angelegenheiten aufzuteilen.
 regelmäßig, erstmalig ein Jahr nach Inkrafttreten der Verordnung,
 überprüft.
 
-
 ## § 8 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Anlage 1 (zu § 5 Absatz 1) Datenübermittlungsformate für die einzelnen Sektoren
 
@@ -363,16 +353,6 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
             bei der Verwendung von Tabellen sind der Aufbau der Felder und ihr
             Inhalt zu erläutern (§ 5 Absatz 1 findet Anwendung).
-
-
-
-
-
-
-
-
-
-
 
 ## Anlage 2 (zu § 7 Absatz 1 Satz 1)
 

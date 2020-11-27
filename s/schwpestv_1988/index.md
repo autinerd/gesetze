@@ -31,13 +31,7 @@ Diese Verordnung dient der Umsetzung folgender EG-Rechtsakte:
     der Teschener Krankheit und der Afrikanischen Schweinepest (ABl. EG
     Nr. L 192 S. 27).
 
-
-
-
-
 ## Abschnitt 1 - Begriffsbestimmungen
-
-
 
 ### § 1
 
@@ -118,17 +112,9 @@ Schweine, die nachweislich gegen Schweinepest geimpft sind.
     Fütterung und Entsorgung vollständig getrennt von anderen Bereichen
     des Betriebs ist.
 
-
-
-
-
 ## Abschnitt 2 - Schutzmaßregeln
 
-
-
 ### Unterabschnitt 1 - Allgemeine Schutzmaßregeln
-
-
 
 #### § 2 Impfverbot
 
@@ -141,7 +127,6 @@ Verordnung nichts anderes bestimmt ist.
 abweichend von Absatz 1 Impfungen für wissenschaftliche Versuche und
 Impfstoffprüfungen genehmigen, sofern Belange der Seuchenbekämpfung
 nicht entgegenstehen.
-
 
 #### § 3 Behördliche Anordnungen
 
@@ -170,7 +155,6 @@ Seuchenbekämpfung erforderlich ist,
 
 anordnen.
 
-
 #### § 3a Amtliche Untersuchungen
 
 Bei amtlichen oder amtlich angeordneten Untersuchungen ist das
@@ -193,14 +177,9 @@ Kriterien für die Auswertung von Laboruntersuchungen zur Bestätigung
 
 in der jeweils geltenden Fassung anzuwenden.
 
-
 ### Unterabschnitt 2 - Besondere Schutzmaßregeln
 
-
-
 #### A. - Vor amtlicher Feststellung der Schweinepest und der Afrikanischen Schweinepest
-
-
 
 ##### § 4
 
@@ -448,24 +427,16 @@ festlegen. Die Absätze 1 und 2 Satz 1 Nummer 1 bis 6 Buchstabe a bis c
 und Absatz 3 gelten für die in der Kontrollzone liegenden Betriebe
 entsprechend.
 
-
 #### B. - Nach amtlicher Feststellung der Schweinepest und der Afrikanischen Schweinepest
 
-
-
 ##### 1. - Öffentliche Bekanntmachung
-
-
 
 ###### § 5
 
 Die zuständige Behörde macht den Ausbruch der Schweinepest oder der
 Afrikanischen Schweinepest öffentlich bekannt.
 
-
 ##### 2. - Schutzmaßregeln für den Seuchenbetrieb
-
-
 
 ###### § 6
 
@@ -536,11 +507,9 @@ Maßnahmen zum Zwecke der Mitteilung an die Europäische Kommission.
 Seuchenbetrieb andere Haustiere als Schweine, ausgenommen Bienen, nur
 mit Genehmigung der zuständigen Behörde verbracht werden.
 
-
 ###### § 7 (weggefallen)
 
 -
-
 
 ###### § 8 Ausnahmen
 
@@ -570,14 +539,9 @@ mitzuteilen.
 zuständige Behörde dem Bundesministerium unverzüglich die nach den
 Absätzen 1 und 2 erteilten Ausnahmegenehmigungen mit.
 
-
 ###### (XXXX) §§ 9 und 10 (weggefallen)
 
-
-
 ##### 3. - Schutzmaßregeln für den Sperrbezirk und das Beobachtungsgebiet
-
-
 
 ###### § 11 Sperrbezirk
 
@@ -716,10 +680,6 @@ Folgendes:
 9.  § 4 Absatz 2 Satz 1 Nummer 6 Buchstabe a und b und Absatz 3 Nummer 1
     gilt entsprechend.
 
-
-
-
-
 ###### § 11a Beobachtungsgebiet
 
 (1) Ist die Schweinepest oder die Afrikanische Schweinepest in einem
@@ -762,7 +722,6 @@ Betrieb mit Schweinehaltung im Beobachtungsgebiet verbracht werden. §
 4 Absatz 2 Satz 1 Nummer 6 Buchstabe a und b und Absatz 3 Nummer 1
 sowie § 11 Absatz 2 Nummer 5, Absatz 3 Nummer 1 und Absatz 4 Nummer 1,
 3, 4, 5, 6 und 8 gelten entsprechend.
-
 
 ###### § 11b Ausnahmen
 
@@ -957,10 +916,6 @@ innerhalb eines Sperrbezirks liegt, wenn
     nicht mehr als zehn Tagen virologisch auf Schweinepest oder
     Afrikanische Schweinepest untersucht werden.
 
-
-
-
-
 ###### § 11c Seuchenausbruch in benachbartem Mitgliedstaat
 
 Wird auf dem Gebiet eines benachbarten Mitgliedstaats der Ausbruch der
@@ -969,7 +924,6 @@ deutschen Grenze amtlich festgestellt und der für das angrenzende
 Gebiet im Inland zuständigen Behörde amtlich zur Kenntnis gebracht, so
 ordnet diese die Maßnahmen entsprechend den §§ 11 und 11a an. § 11b
 gilt entsprechend.
-
 
 ###### § 11d Weitergehende Schutzmaßregeln
 
@@ -988,14 +942,9 @@ von dem Verbot betroffene Gebiet die zur Unterstützung des Verbotes
 erforderlichen ergänzenden Maßnahmen nach den §§ 16 bis 17a, 18 bis 30
 und 78 des Tierseuchengesetzes an.
 
-
 ###### § 11e (weggefallen)
 
-
-
 ##### 4. - Schutzmaßregeln für den Kontaktbetrieb
-
-
 
 ###### § 12
 
@@ -1035,10 +984,7 @@ Behörde
 
 an.
 
-
 ##### 5. - Notimpfung bei Hausschweinen
-
-
 
 ###### § 13
 
@@ -1124,16 +1070,7 @@ Impfgebiet Folgendes:
         30 Tagen vor der Impfung entnommen wurden, unter amtlicher Aufsicht
         unschädlich zu beseitigen.
 
-
-
-
-
-
-
-
 ##### 6. - Tötung im Sperrbezirk, im Beobachtungsgebiet oder im Impfgebiet
-
-
 
 ###### § 14
 
@@ -1144,10 +1081,7 @@ Kontaktbetrieben anordnen, wenn dies aus Gründen der
 Seuchenbekämpfung, insbesondere zur schnelleren Beseitigung eines
 Infektionsherdes, erforderlich ist.
 
-
 ##### 7. - Schutzmaßregeln beim Auftreten der Schweinepest oder der Afrikanischen Schweinepest bei Wildschweinen
-
-
 
 ###### § 14a Gefährdeter Bezirk
 
@@ -1369,7 +1303,6 @@ Schweinepest in ein bisher seuchenfreies Gebiet zu befürchten, kann
 die zuständige Behörde geeignete jagdliche Maßnahmen zur verstärkten
 Bejagung auch in diesem Gebiet anordnen.
 
-
 ###### § 14b Notimpfung bei Wildschweinen
 
 Die zuständige oberste Landesbehörde kann, vorbehaltlich der
@@ -1388,7 +1321,6 @@ Ausbreitung des Impfvirus, zur Reduzierung der Jungtiere und zur
 einer behördlichen Anordnung nach Satz 1 ist der
 Jagdausübungsberechtigte zur Mitwirkung bei der Auslegung der
 Impfköder im Rahmen der Notimpfung verpflichtet.
-
 
 ###### § 14c Maßregeln zur Erkennung der Schweinepest oder der Afrikanischen Schweinepest
 
@@ -1491,7 +1423,6 @@ Schweinepest bei Wildschweinen Ausnahmen von den Kennzeichnungs- und
 Untersuchungspflichten nach Absatz 1 Nummer 1 Buchstabe a, b und d
 genehmigen, soweit Belange der Seuchenbekämpfung nicht entgegenstehen.
 
-
 ###### § 14d Tilgungsplan
 
 Die zuständige Behörde legt dem Bundesministerium
@@ -1507,7 +1438,6 @@ Die zuständige Behörde legt dem Bundesministerium
 
 in der jeweils geltenden Fassung vor.
 
-
 ###### § 14e Seuchenausbruch bei Wildschweinen in einem benachbarten Mitgliedstaat
 
 Wird auf dem Gebiet eines benachbarten Mitgliedstaats der Ausbruch der
@@ -1517,30 +1447,17 @@ Grenze festgestellt und der für das angrenzende Gebiet im Inland
 zuständigen Behörde amtlich zur Kenntnis gebracht, so ordnet diese die
 Maßnahmen entsprechend den §§ 14a bis 14d an.
 
-
 ###### § 14f (weggefallen)
-
-
 
 ##### 2. - (weggefallen)
 
-
-
 ###### (XXXX) §§ 15 bis 21 (weggefallen)
-
-
 
 #### C. - (weggefallen)
 
-
-
 ##### § 22 (weggefallen)
 
-
-
 ## Abschnitt 3 - Schutzmaßregeln in Schlachtstätten und auf dem Transport
-
-
 
 ### § 23
 
@@ -1591,10 +1508,7 @@ denen sich nach der Schlachtung Veränderungen zeigen, die auf einen
 Seuchenverdacht hinweisen, unverzüglich unschädlich zu beseitigen oder
 beseitigen zu lassen.
 
-
 ## Abschnitt 4 - Aufhebung der Schutzmaßregeln, Wiederbelegung von Betrieben
-
-
 
 ### § 24
 
@@ -1779,7 +1693,6 @@ der Aufhebung der Festlegung des gefährdeten Bezirks, den in Satz 2
 genannten Zeitraum in Abhängigkeit von der Seuchensituation um bis zu
 sechs Monate verlängern.
 
-
 ### § 24a Wiederbelegung
 
 (1) Betriebe, in denen nach einem Ausbruch der Schweinepest auf
@@ -1906,7 +1819,6 @@ für Betriebe genehmigen, in denen die Wiederbelegung frühestens sechs
 Monate nach Abschluss der Reinigung und Desinfektion nach § 24 Absatz
 2 Nummer 2 oder Absatz 4 Satz 1 Nummer 2 erfolgt.
 
-
 ### § 24b Wiederbelegung von Betrieben im Impfgebiet
 
 (1) Betriebe, in denen nach § 13 geimpft worden ist, dürfen mit
@@ -1929,10 +1841,7 @@ der Schweine frühestens 40 Tage nach der Wiederbelegung an. Ferner
 ordnet sie an, dass bis zum Vorliegen des Ergebnisses der Untersuchung
 nach Satz 1 Schweine nicht aus dem Betrieb verbracht werden dürfen.
 
-
 ## Abschnitt 5 - Ordnungswidrigkeiten
-
-
 
 ### § 25
 
@@ -2134,13 +2043,7 @@ Tierseuchengesetzes handelt, wer vorsätzlich oder fahrlässig
 24. entgegen § 24a Absatz 1 oder 4 oder § 24b Absatz 1 einen Betrieb
     wiederbelegt.
 
-
-
-
-
 ## Abschnitt 6 - Schlussvorschriften
-
-
 
 ### § 25a Weitergehende Maßnahmen
 
@@ -2151,7 +2054,6 @@ Verbindung mit den §§ 17, 17b Absatz 1 Nummer 4 und den §§ 18 bis 30
 des Tierseuchengesetzes anzuordnen, soweit diese zur Seuchenbekämpfung
 erforderlich sind und Rechtsakte der Europäischen Gemeinschaften oder
 der Europäischen Union nicht entgegenstehen, bleibt unberührt.
-
 
 ### § 25b Übergangsbestimmungen
 
@@ -2170,10 +2072,7 @@ die ab dem 25. Juli 2003 für Kontrollzonen geltenden Vorschriften
 anzuwenden. Auf Überwachungsgebiete nach Satz 1 sind die ab dem 25.
 Juli 2003 für gefährdete Bezirke geltenden Vorschriften anzuwenden.
 
-
 ### § 26 (Inkrafttreten)
-
-
 
 ### Anlage (zu § 14a Absatz 6 Satz 1 Nummer 1 Buchstabe b Doppelbuchstabe cc Dreifachbuchstabe aaa) Tiergesundheitsbescheinigung für den inländischen Versand von Schweinen aus gefährdeten Bezirken im Sinne der Schweinepest-Verordnung
 

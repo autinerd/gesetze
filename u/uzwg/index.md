@@ -19,10 +19,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 28 V v. 31.10.2006 I 2407
 
-
 ## Erster Abschnitt - Allgemeine Vorschriften über den unmittelbaren Zwang
-
-
 
 ### § 1 Rechtliche Grundlagen
 
@@ -32,7 +29,6 @@ nach den Vorschriften dieses Gesetzes zu verfahren.
 
 (2) Soweit andere Gesetze Vorschriften über die Art der Anwendung
 unmittelbaren Zwanges enthalten, bleiben sie unberührt.
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -49,7 +45,6 @@ Dienstfahrzeuge.
 (4) Waffen sind die dienstlich zugelassenen Hieb- und Schußwaffen,
 Reizstoffe und Explosivmittel.
 
-
 ### § 3 Einschränkung von Grundrechten
 
 Soweit rechtmäßig unmittelbarer Zwang bei Ausübung öffentlicher Gewalt
@@ -57,7 +52,6 @@ angewendet wird, werden die in Artikel 2 Abs. 2 Satz 1 und 2, Artikel
 13 Abs. 1 des Grundgesetzes für die Bundesrepublik Deutschland
 geschützten Grundrechte auf Leben, körperliche Unversehrtheit,
 Freiheit der Person und Unverletzlichkeit der Wohnung eingeschränkt.
-
 
 ### § 4 Grundsatz der Verhältnismäßigkeit
 
@@ -70,13 +64,11 @@ beeinträchtigen.
 Schaden darf nicht erkennbar außer Verhältnis zu dem beabsichtigten
 Erfolg stehen.
 
-
 ### § 5 Hilfeleistung für Verletzte
 
 Wird unmittelbarer Zwang angewendet, ist Verletzten, soweit es nötig
 ist und die Lage es zuläßt, Beistand zu leisten und ärztliche Hilfe zu
 verschaffen.
-
 
 ### § 6 Vollzugsbeamte des Bundes
 
@@ -124,10 +116,6 @@ Vollzugsbeamte des Bundes nach diesem Gesetz sind
     betraut sind, wenn sie sich in Ausübung dieser Tätigkeit im
     Vollzugsdienst befinden.
 
-
-
-
-
 ### § 7 Handeln auf Anordnung
 
 (1) Vollzugsbeamte sind verpflichtet, unmittelbaren Zwang anzuwenden,
@@ -150,10 +138,7 @@ den Umständen möglich ist.
 Bekanntmachung vom 17. Juli 1971 (Bundesgesetzbl. I S. 1181) ist nicht
 anzuwenden.
 
-
 ## Zweiter Abschnitt - Besondere Vorschriften für Fesselung und den Gebrauch von Schußwaffen und Explosivmitteln
-
-
 
 ### § 8 Fesselung von Personen
 
@@ -170,10 +155,6 @@ Wer im Gewahrsam von Vollzugsbeamten ist, darf gefesselt werden, wenn
 
 
 3.  Selbstmordgefahr besteht.
-
-
-
-
 
 ### § 9 Zum Gebrauch von Schußwaffen Berechtigte
 
@@ -213,10 +194,6 @@ nur gestattet
 8.  den der Dienstgewalt von Bundesbehörden unterstehenden Personen, die
     mit Aufgaben der Strafverfolgung betraut sind, wenn sie sich in
     Ausübung dieser Tätigkeit im Vollzugsdienst befinden.
-
-
-
-
 
 ### § 10 Schußwaffengebrauch gegen Personen
 
@@ -312,7 +289,6 @@ zum Ziele führen oder offensichtlich keinen Erfolg versprechen.
 (3) Das Recht zum Gebrauch von Schußwaffen auf Grund anderer
 gesetzlicher Vorschriften bleibt unberührt.
 
-
 ### § 11 Schußwaffengebrauch im Grenzdienst
 
 (1) Die in § 9 Nr. 1, 2, 7 und 8 genannten Vollzugsbeamten können im
@@ -326,7 +302,6 @@ Warnschuß ersetzt werden.
 (2) Als Grenzdienst gilt auch die Durchführung von Bundes- und
 Landesaufgaben, die den in Absatz 1 bezeichneten Personen im
 Zusammenhang mit dem Grenzdienst übertragen sind.
-
 
 ### § 12 Besondere Vorschriften für den Schußwaffengebrauch
 
@@ -346,7 +321,6 @@ läßt.
 (3) Gegen Personen, die sich dem äußeren Eindruck nach im Kindesalter
 befinden, dürfen Schußwaffen nicht gebraucht werden.
 
-
 ### § 13 Androhung
 
 (1) Die Anwendung von Schußwaffen ist anzudrohen. Als Androhung gilt
@@ -356,16 +330,12 @@ die Androhung zu wiederholen.
 (2) Der Einsatz von Wasserwerfern und Dienstfahrzeugen gegen eine
 Menschenmenge ist anzudrohen.
 
-
 ### § 14 Explosivmittel
 
 Die Vorschriften der §§ 9 bis 13 gelten entsprechend für den Gebrauch
 von Explosivmitteln.
 
-
 ## Dritter Abschnitt - Schlußvorschriften
-
-
 
 ### § 15 Notstandsfall
 
@@ -376,13 +346,11 @@ für die unterstellten Polizeikräfte.
 
 (2) Die Vorschrift des Absatzes 1 gilt nicht im Land Berlin.
 
-
 ### § 16 Beamtenrechtliche Rahmenvorschrift
 
 Für die Vollzugsbeamten der Länder kann durch Landesgesetz eine dem
 Grundsatz des § 7 dieses Gesetzes entsprechende Regelung getroffen
 werden.
-
 
 ### § 17 Vollzugsbeamte im Land Berlin
 
@@ -391,7 +359,6 @@ die unter das Gesetz zur Regelung der Rechtsverhältnisse der in
 einzelnen Verwaltungszweigen des Landes Berlin beschäftigten Personen
 vom 26. April 1957 (Bundesgesetzbl. I S. 397) fallen.
 
-
 ### § 18 Verwaltungsvorschriften
 
 Die allgemeinen Verwaltungsvorschriften zu diesem Gesetz erläßt das
@@ -399,13 +366,11 @@ Bundesministerium des Innern für seinen Geschäftsbereich; die anderen
 Bundesministerien erlassen sie für ihre Geschäftsbereiche im
 Einvernehmen mit dem Bundesministerium des Innern.
 
-
 ### § 19 Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
 im Land Berlin.
-
 
 ### § 20 Inkrafttreten
 

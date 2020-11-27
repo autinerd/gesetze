@@ -19,24 +19,20 @@ Dieses Gesetz dient der Umsetzung der Richtlinie 2001/19/EG des
 Europäischen Parlaments und des Rates vom 14. Mai 2001 (ABl. EG Nr. L
 206 S. 1).
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## (XXXX) Art 1 bis Art 7 (weggefallen)
 
 -
-
 
 ## Art 8 Rückkehr zum einheitlichen Verordnungsrang
 
 Die auf den Artikeln 3 und 4 beruhenden Teile der dort geänderten
 Rechtsverordnungen können auf Grund der jeweils einschlägigen
 Ermächtigungen durch Rechtsverordnung geändert werden.
-
 
 ## Art 9 Bekanntmachungserlaubnis
 
@@ -49,7 +45,6 @@ Fassung im Bundesgesetzblatt bekannt machen.
 die Approbationsordnung für Ärzte und die Approbationsordnung für
 Zahnärzte in der vom Inkrafttreten dieses Gesetzes an geltenden
 Fassung im Bundesgesetzblatt bekannt machen.
-
 
 ## Art 10 Übergangsregelung
 
@@ -66,7 +61,6 @@ zuletzt geändert durch Artikel 8 des Gesetzes vom 27. April 2002
 (BGBl. I S. 1467), vor dem Praktischen Jahr ablegen, finden die
 Vorschriften von Artikel 3 Nr. 1 Buchstabe a Doppelbuchstabe aa und
 Nr. 2 zum Praktischen Jahr keine Anwendung.
-
 
 ## Art 11 Inkrafttreten
 

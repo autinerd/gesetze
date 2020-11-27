@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 G v. 22.3.2004 I 454
 
-
 ## - - Errichtung von Bundesinstituten, Aufgabenstellung, Kostenerhebung, Dienstverhältnisse von Beamten und Arbeitnehmern
-
-
 
 ### § 1 Bundesinstitut für Arzneimittel und Medizinprodukte
 
@@ -64,10 +61,6 @@ Gebieten:
 6.  zentrale Risikoerfassung sowie Durchführung von Maßnahmen zur
     Risikoabwehr bei Medizinprodukten.
 
-
-
-
-
 ### § 2 Robert Koch-Institut - Bundesinstitut für Infektionskrankheiten und nicht übertragbare Krankheiten -
 
 (1) Im Geschäftsbereich des Bundesministeriums für Gesundheit wird
@@ -107,14 +100,9 @@ Gebieten:
 7.  gesundheitliche Fragen des Transports gentechnisch veränderter
     Organismen und Produkte.
 
-
-
-
-
 ### § 3
 
 (weggefallen)
-
 
 ### § 4 Aufgabendurchführung
 
@@ -138,14 +126,12 @@ Forschung und wirken bei der Entwicklung von Standards und Normen mit.
 (4) Die Bundesinstitute informieren im Rahmen ihrer Zuständigkeit die
 Öffentlichkeit.
 
-
 ### § 5 Fachaufsicht
 
 Soweit die Bundesinstitute Aufgaben aus einem anderen Geschäftsbereich
 als dem des Bundesministeriums, zu dessen Geschäftsbereich sie
 gehören, wahrnehmen, unterstehen sie den fachlichen Weisungen der
 sachlich zuständigen obersten Bundesbehörde.
-
 
 ### § 6 Kostenerhebung
 
@@ -168,7 +154,6 @@ Gebührenschuldner angemessen berücksichtigt werden.
 
 (3) Das Verwaltungskostengesetz findet Anwendung.
 
-
 ### § 7 Übernahme der Beamten und Arbeitnehmer
 
 Beamte und Arbeitnehmer des Bundesgesundheitsamtes, die zum Zeitpunkt
@@ -176,7 +161,6 @@ der Errichtung der in den §§ 1 und 2 genannten Bundesinstitute
 Aufgaben wahrnehmen, die nach diesen Vorschriften den Bundesinstituten
 obliegen, sind vom selben Zeitpunkt an Beamte und Arbeitnehmer des
 zuständigen Bundesinstitutes.
-
 
 ### § 8 Übergangspersonalrat
 

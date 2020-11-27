@@ -18,23 +18,19 @@ Fundstelle
 Geändert durch
 :   Art. 8 G v. 24.6.1991 I 1314
 
-
 ## § 1 Rechtsform
 
 Es wird ein Ausgleichsfonds Währungsumstellung (Fonds) als Anstalt des
 öffentlichen Rechts mit eigener Rechtspersönlichkeit errichtet.
 
-
 ## § 2 Sitz
 
 Der Fonds hat seinen Sitz in Berlin
-
 
 ## § 3 Organe
 
 Der Fonds hat einen Geschäftsführer. Er wird vom Minister der Finanzen
 bestellt und abberufen.
-
 
 ## § 4 Aufgaben
 
@@ -69,7 +65,6 @@ Zins- und Tilgungsleistungen durch den Republikhaushalt.
 die Höhe der zu verwaltenden Ausgleichsforderungen und Forderungen
 gemäß Absatz 1 sind für den Fonds verbindlich.
 
-
 ## § 5 Umwandlung von Ausgleichsforderungen in Schuldverschreibungen
 
 (1) Der Fonds ist auf Verlangen der Gläubiger von endgültig
@@ -85,7 +80,6 @@ Kalenderjahres ganz oder teilweise zurückzuzahlen. Der Fonds ist
 ermächtigt, seine Verbindlichkeiten vor deren Fälligkeiten zu
 erfüllen.
 
-
 ## § 6 Jahresabschluß und Geschäftsbericht
 
 Der Fonds erstellt zum Ende eines jeden Kalenderjahres einen
@@ -93,7 +87,6 @@ Jahresabschluß und einen Geschäftsbericht. Der Jahresabschluß ist
 durch einen Wirtschaftsprüfer zu prüfen. Jahresabschluß mit Testat des
 Wirtschaftsprüfers und Geschäftsbericht sind im Bundesanzeiger zu
 veröffentlichen.
-
 
 ## § 7 Geschäftsbesorgung für den Fonds
 
@@ -110,11 +103,9 @@ Einvernehmen beendet wird.
 Tätigkeit einen Ersatz ihrer Aufwendungen aus dem Republikhaushalt der
 Deutschen Demokratischen Republik.
 
-
 ## § 8 Aufsicht
 
 Aufsichtsbehörde des Fonds ist der Minister der Finanzen.
-
 
 ## § 9 Erlöschen des Fonds
 
@@ -122,11 +113,9 @@ Der Fonds wird nach Erfüllung seiner Aufgabe aufgelöst. Die im
 Zeitpunkt seiner Auflösung noch vorhandenen Mittel sind an den
 Minister der Finanzen abzuführen.
 
-
 ## § 10
 
 Dieses Gesetz tritt am 13. September 1990 in Kraft.
-
 
 ## Schlußformel
 

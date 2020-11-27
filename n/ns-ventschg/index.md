@@ -21,7 +21,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 4 Abs. 42 G v. 22.9.2005 I 2809
 
-
 ## § 1 Grundsätze der Entschädigung
 
 (1) Ist in den Fällen des § 1 Abs. 6 des Gesetzes zur Regelung offener
@@ -55,7 +54,6 @@ wird eine Entschädigung nicht gewährt für Vermögensverluste, für die
 der Berechtigte bereits Leistungen nach dem
 Bundesrückerstattungsgesetz oder anderen rückerstattungsrechtlichen
 Vorschriften erhalten hat.
-
 
 ## § 2 Höhe der Entschädigung
 
@@ -105,7 +103,6 @@ Kalendermonat vor der Bekanntgabe des Bescheides wird der
 Entschädigungsbetrag verzinst. Der Zinssatz beträgt monatlich 1/2 vom
 Hundert. Die Zinsen werden mit der Entschädigung festgesetzt.
 
-
 ## § 3 Anrechnung einer erhaltenen Gegenleistung oder einer Entschädigung
 
 Die §§ 6 und 8 des Entschädigungsgesetzes und § 7a Abs. 2 des
@@ -116,7 +113,6 @@ entschädigenden Vermögenswert unmittelbar in Zusammenhang stehen, mit
 der Maßgabe, dass sich der Anrechnungsbetrag ohne darin enthaltene
 Zinsen oder Zinszuschläge um 2 vom Hundert jährlich ab Zahlung der
 Entschädigung bis zum Inkrafttreten dieses Gesetzes erhöht.
-
 
 ## § 4 Zuständige Behörde, Verfahren
 

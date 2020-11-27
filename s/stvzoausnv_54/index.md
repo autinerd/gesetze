@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1998, 3651
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 6 Abs. 1 Nr. 3 Buchstabe a, in Verbindung mit Absatz 3
@@ -32,7 +30,6 @@ Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975
 (BGBl. I S. 3288), verordnet das Bundesministerium für Verkehr, Bau-
 und Wohnungswesen nach Anhörung der zuständigen obersten
 Landesbehörden:
-
 
 ## § 1
 
@@ -73,7 +70,6 @@ eines Auszugs dieser Erlaubnis mit den wesentlichen Angaben für die
 Verwendung dieses Teils mitzuführen. Dies gilt nur, wenn für diese
 Räder eine Allgemeine Betriebserlaubnis nach § 22 der Straßenverkehrs-
 Zulassungs-Ordnung erteilt worden ist.
-
 
 ## § 2
 

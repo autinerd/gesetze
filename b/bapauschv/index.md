@@ -20,7 +20,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 17.12.2010 I 2127
 
-
 ## Eingangsformel
 
 Auf Grund des § 226 Abs. 4 des Sechsten Buches Sozialgesetzbuch -
@@ -28,7 +27,6 @@ Gesetzliche Rentenversicherung - in der Fassung der Bekanntmachung vom
 19\. Februar 2002 (BGBl. I S. 754) verordnet das Bundesministerium für
 Arbeit und Sozialordnung im Einvernehmen mit dem Bundesministerium der
 Finanzen:
-
 
 ## § 1 Berechnung des Ausgleichsbetrags
 
@@ -66,7 +64,6 @@ Abs. 1 des Sechsten Buches Sozialgesetzbuch sind zugrunde zu legen:
 Absatz 1 Nr. 1 und 2 dem Bundesversicherungsamt bis zum 30. Juni des
 auf das Jahr der Abschlagszahlung folgenden Jahres.
 
-
 ## § 2 Fälligkeit der Abschlagszahlungen auf den Ausgleichsbetrag
 
 Die Bundesagentur für Arbeit zahlt die Abschlagszahlungen auf den
@@ -76,7 +73,6 @@ das Inland für den letzten Monat eines Kalendervierteljahres. Das
 Bundesversicherungsamt teilt der Bundesagentur für Arbeit jährlich im
 Voraus die vier Auszahlungstermine nach Satz 1 mit.
 
-
 ## § 3 Fälligkeit des Ausgleichsbetrags
 
 Der Ausgleichsbetrag ist fällig zum Fälligkeitstermin der Vorschüsse
@@ -85,7 +81,6 @@ Dezember des Kalenderjahres, in dem die Abrechnung durchgeführt wird.
 Ergibt die Berechnung des Ausgleichsbetrags einen Rückzahlungsanspruch
 der Bundesagentur für Arbeit, wird dieser mit der Abschlagszahlung für
 das letzte Kalendervierteljahr verrechnet.
-
 
 ## § 4 Verteilung des Ausgleichsbetrags und der Abschlagszahlungen auf den Ausgleichsbetrag
 
@@ -101,11 +96,9 @@ Deutsche Rentenversicherung Bund durch.
 (2) Die Aufteilung der Abschlagszahlungen erfolgt entsprechend der
 Aufteilung des Ausgleichsbetrags.
 
-
 ## § 5 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Schlussformel
 

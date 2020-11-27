@@ -18,12 +18,9 @@ Fundstelle
 Geändert durch
 :   Art. 11 G v. 6.12.2011 I 2481
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat das folgende Gesetz beschlossen:
-
 
 ## § 1
 
@@ -43,7 +40,6 @@ Wirtschaftsjahre 1993 und 1994 bedarf der Einwilligung des
 Haushaltsausschusses des Deutschen Bundestages, die vom Bundesminister
 der Finanzen eingeholt wird.
 
-
 ## § 2
 
 (1) Die Treuhandanstalt wird ermächtigt, ab Oktober eines
@@ -60,7 +56,6 @@ Schuldverschreibungen in abgezinster Form der Nettobetrag anzurechnen.
 im Wege der Marktpflege Kredite ohne Anrechnung auf den Kreditrahmen
 nach § 1 Abs. 1 Satz 1 aufzunehmen.
 
-
 ## § 3
 
 Der Bundesminister der Finanzen kann den nicht ausgenutzten
@@ -70,17 +65,14 @@ Haushaltsausschusses des Deutschen Bundestages eine Überschreitung des
 jährlichen Kreditrahmens nach § 1 Abs. 1 Satz 1 um bis zu 8 Milliarden
 Deutsche Mark zulassen.
 
-
 ## § 4
 
 Der Bund haftet für die von der Treuhandanstalt aufgenommenen Kredite.
-
 
 ## § 5
 
 § 1 Absatz 2 Nummer 2 des Wertpapierprospektgesetzes gilt auch für
 Schuldverschreibungen der Treuhandanstalt.
-
 
 ## § 6
 

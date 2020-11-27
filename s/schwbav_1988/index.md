@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 7 G v. 22.12.2008 I 2959
 
-
 ## Eingangsformel
 
 Auf Grund des § 11 Abs. 3 Satz 3, § 12 Abs. 2 und § 33 Abs. 2 Satz 5
@@ -28,18 +27,11 @@ Gesetzes zur Erleichterung des Übergangs vom Arbeitsleben in den
 Ruhestand vom 13. April 1984 (BGBl. I S. 601) verordnet die
 Bundesregierung mit Zustimmung des Bundesrates:
 
-
 ## Erster Abschnitt - (weggefallen)
-
-
 
 ### (XXXX) §§ 1 bis 13 (weggefallen)
 
-
-
 ## Zweiter Abschnitt - Förderung der Teilhabe schwerbehinderter Menschen am Arbeitsleben aus Mitteln der Ausgleichsabgabe durch die Integrationsämter
-
-
 
 ### § 14 Verwendungszwecke
 
@@ -76,10 +68,7 @@ nach Absatz 1 Nr. 1 und 2 zu verwenden.
 (3) Die Integrationsämter können sich an der Förderung von Vorhaben
 nach § 41 Abs. 1 Nr. 3 bis 6 durch den Ausgleichsfonds beteiligen.
 
-
 ### 1. Unterabschnitt - Leistungen zur Förderung des Arbeits- und Ausbildungsplatzangebots für schwerbehinderte Menschen
-
-
 
 #### § 15 Leistungen an Arbeitgeber zur Schaffung von Arbeits- und Ausbildungsplätzen für schwerbehinderte Menschen
 
@@ -153,7 +142,6 @@ können, wenn Leistungen nach Absatz 1 nicht erbracht werden, nach den
 Vorschriften über die begleitende Hilfe im Arbeitsleben (§ 26)
 gefördert werden.
 
-
 #### § 16 Arbeitsmarktprogramme für schwerbehinderte Menschen
 
 Die Integrationsämter können der Bundesagentur für Arbeit Mittel der
@@ -161,10 +149,7 @@ Ausgleichsabgabe zur Durchführung befristeter regionaler
 Arbeitsmarktprogramme gemäß § 104 Abs. 3 des Neunten Buches
 Sozialgesetzbuch zuweisen.
 
-
 ### 2. Unterabschnitt - Leistungen zur begleitenden Hilfe im Arbeitsleben
-
-
 
 #### § 17 Leistungsarten
 
@@ -261,7 +246,6 @@ mittelbar dienen, können nicht erbracht werden. Insbesondere können
 medizinische Maßnahmen sowie Urlaubs- und Freizeitmaßnahmen nicht
 gefördert werden.
 
-
 #### § 18 Leistungsvoraussetzungen
 
 (1) Leistungen nach § 17 Abs. 1 bis 1b dürfen nur erbracht werden,
@@ -298,10 +282,7 @@ Arbeitsleben können erbracht werden,
 erbracht werden. Laufende Leistungen können in der Regel nur befristet
 erbracht werden. Leistungen können wiederholt erbracht werden.
 
-
 #### I. - Leistungen an schwerbehinderte Menschen
-
-
 
 ##### § 19 Technische Arbeitshilfen
 
@@ -311,13 +292,11 @@ Gebrauch können die Kosten bis zur vollen Höhe übernommen werden.
 Gleiches gilt für die Ersatzbeschaffung und die Beschaffung zur
 Anpassung an die technische Weiterentwicklung.
 
-
 ##### § 20 Hilfen zum Erreichen des Arbeitsplatzes
 
 Schwerbehinderte Menschen können Leistungen zum Erreichen des
 Arbeitsplatzes nach Maßgabe der Kraftfahrzeughilfe-Verordnung vom 28.
 September 1987 (BGBl. I S. 2251) erhalten.
-
 
 ##### § 21 Hilfen zur Gründung und Erhaltung einer selbständigen beruflichen Existenz
 
@@ -351,7 +330,6 @@ können nicht erbracht werden.
 schwerbehinderten Menschen, die eine selbständige Tätigkeit ausüben
 oder aufzunehmen beabsichtigen, entsprechend anzuwenden.
 
-
 ##### § 22 Hilfen zur Beschaffung, Ausstattung und Erhaltung einer behinderungsgerechten Wohnung
 
 (1) Schwerbehinderte Menschen können Leistungen erhalten
@@ -378,11 +356,9 @@ Umständen des Einzelfalls.
 sie schwerbehinderten Menschen für denselben Zweck wegen der
 Behinderung zu erbringen sind oder erbracht werden.
 
-
 ##### § 23
 
 (weggefallen)
-
 
 ##### § 24 Hilfen zur Teilnahme an Maßnahmen zur Erhaltung und Erweiterung beruflicher Kenntnisse und Fertigkeiten
 
@@ -396,7 +372,6 @@ Zuschüsse bis zur Höhe der ihnen durch die Teilnahme an diesen
 Maßnahmen entstehenden Aufwendungen erhalten. Hilfen können auch zum
 beruflichen Aufstieg erbracht werden.
 
-
 ##### § 25 Hilfen in besonderen Lebenslagen
 
 Andere Leistungen zur begleitenden Hilfe im Arbeitsleben als die in
@@ -406,10 +381,7 @@ von Art oder Schwere der Behinderung erforderlich sind, um die
 Teilhabe am Arbeitsleben auf dem allgemeinen Arbeitsmarkt zu
 ermöglichen, zu erleichtern oder zu sichern.
 
-
 #### II. - Leistungen an Arbeitgeber
-
-
 
 ##### § 26 Leistungen zur behinderungsgerechten Einrichtung von Arbeits- und Ausbildungsplätzen für schwerbehinderte Menschen
 
@@ -457,7 +429,6 @@ und § 72 des Neunten Buches Sozialgesetzbuch) beschäftigt werden.
 
 (3) § 15 Abs. 2 Satz 1 und 2 gilt entsprechend.
 
-
 ##### § 26a Zuschüsse zu den Gebühren bei der Berufsausbildung besonders betroffener schwerbehinderter Jugendlicher und junger Erwachsener
 
 Arbeitgeber, die ohne Beschäftigungspflicht (§ 71 Abs. 1 des Neunten
@@ -466,7 +437,6 @@ Menschen zur Berufsausbildung einstellen, können Zuschüsse zu den
 Gebühren, insbesondere Prüfungsgebühren bei der Berufsausbildung,
 erhalten.
 
-
 ##### § 26b Prämien und Zuschüsse zu den Kosten der Berufsausbildung behinderter Jugendlicher und junger Erwachsener
 
 Arbeitgeber können Prämien und Zuschüsse zu den Kosten der
@@ -474,12 +444,10 @@ Berufsausbildung behinderter Jugendlicher und junger Erwachsener
 erhalten, die für die Zeit der Berufsausbildung schwerbehinderten
 Menschen nach § 68 Abs. 4 gleichgestellt sind.
 
-
 ##### § 26c Prämien zur Einführung eines betrieblichen Eingliederungsmanagements
 
 Arbeitgeber können zur Einführung eines betrieblichen
 Eingliederungsmanagements Prämien erhalten.
-
 
 ##### § 27 Leistungen bei außergewöhnlichen Belastungen
 
@@ -514,10 +482,7 @@ Abs. 2 entsprechend.
 (4) Die Dauer des Zuschusses bestimmt sich nach den Umständen des
 Einzelfalls.
 
-
 #### III. - Sonstige Leistungen
-
-
 
 ##### § 27a Leistungen an Integrationsfachdienste
 
@@ -525,7 +490,6 @@ Träger von Integrationsfachdiensten im Sinne des Kapitels 7 des Teils
 2 des Neunten Buches Sozialgesetzbuch können Leistungen nach § 113 des
 Neunten Buches Sozialgesetzbuch zu den durch ihre Inanspruchnahme
 entstehenden notwendigen Kosten erhalten.
-
 
 ##### § 28 Leistungen zur Durchführung der psychosozialen Betreuung schwerbehinderter Menschen
 
@@ -577,14 +541,12 @@ bestimmt sich nach der Vereinbarung zwischen dem Integrationsamt und
 dem Träger des psychosozialen Dienstes gemäß Absatz 2 Satz 1 Nr. 2
 Buchstabe c.
 
-
 ##### § 28a Leistungen an Integrationsprojekte
 
 Integrationsprojekte im Sinne des Kapitels 11 des Teils 2 des Neunten
 Buches Sozialgesetzbuch, können Leistungen für Aufbau, Erweiterung,
 Modernisierung und Ausstattung einschließlich einer
 betriebswirtschaftlichen Beratung und besonderen Aufwand erhalten.
-
 
 ##### § 29 Leistungen zur Durchführung von Aufklärungs-, Schulungs- und Bildungsmaßnahmen
 
@@ -609,10 +571,7 @@ Personals sowie für notwendige Informationsschriften und
 Eingliederungshilfen sowie Nachteilsausgleiche nach dem Neunten Buch
 Sozialgesetzbuch und anderen Vorschriften.
 
-
 ### 3. Unterabschnitt - Leistungen für Einrichtungen zur Teilhabe schwerbehinderter Menschen am Arbeitsleben
-
-
 
 #### § 30 Förderungsfähige Einrichtungen
 
@@ -668,7 +627,6 @@ bestehender Beschäftigungsmöglichkeiten für behinderte Menschen
 abgewendet werden kann. Für Einrichtungen nach Absatz 1 Nr. 4 bis 6
 sind auch Leistungen zur Deckung eines Miet- oder Pachtzinses
 zulässig.
-
 
 #### § 31 Förderungsvoraussetzungen
 
@@ -772,10 +730,6 @@ werden, wenn sie
 
 7.  (weggefallen)
 
-
-
-
-
 #### § 32 Förderungsgrundsätze
 
 (1) Leistungen sollen nur erbracht werden, wenn sich der Träger der
@@ -799,7 +753,6 @@ des laufenden Betriebs gesichert ist.
 zulässig, wenn eine Förderung durch die gleiche Stelle vorangegangen
 ist.
 
-
 #### § 33 Art und Höhe der Leistungen
 
 (1) Leistungen können als Zuschüsse oder Darlehen erbracht werden.
@@ -812,7 +765,6 @@ der wirtschaftlichen Situation der Einrichtung und ihres Trägers sowie
 nach Bedeutung und Dringlichkeit der beabsichtigten
 Rehabilitationsmaßnahmen.
 
-
 #### § 34 Tilgung und Verzinsung von Darlehen
 
 (1) Darlehen nach § 33 sollen jährlich mit 2 vom Hundert getilgt und
@@ -823,14 +775,9 @@ Tilgung ersparten Zinsen wachsen den Tilgungsbeträgen zu.
 (2) Von der Tilgung und Verzinsung von Darlehen kann bis zum Ablauf
 von zwei Jahren nach Inbetriebnahme abgesehen werden.
 
-
 ## Dritter Abschnitt - Ausgleichsfonds
 
-
-
 ### 1. Unterabschnitt - Gestaltung des Ausgleichsfonds
-
-
 
 #### § 35 Rechtsform
 
@@ -843,7 +790,6 @@ Verbindlichkeiten, die das Bundesministerium für Arbeit und Soziales
 als Verwalter des Ausgleichsfonds eingeht, haftet nur der
 Ausgleichsfonds; der Ausgleichsfonds haftet nicht für die sonstigen
 Verbindlichkeiten des Bundes.
-
 
 #### § 36 Weiterleitung der Mittel an den Ausgleichsfonds
 
@@ -858,13 +804,11 @@ gezahlten Aufkommens mit. Sie teilen zum 31. Januar eines jeden Jahres
 das Aufkommen an Ausgleichsabgabe für das vorvergangene Kalenderjahr
 dem Bundesministerium für Arbeit und Soziales mit.
 
-
 #### § 37 Anwendung der Vorschriften der Bundeshaushaltsordnung
 
 Für den Ausgleichsfonds gelten die Bundeshaushaltsordnung sowie die zu
 ihrer Ergänzung und Durchführung erlassenen Vorschriften entsprechend,
 soweit die Vorschriften dieser Verordnung nichts anderes bestimmen.
-
 
 #### § 38 Aufstellung eines Wirtschaftsplans
 
@@ -893,14 +837,12 @@ Einnahmen zu.
 
 (5) Die Ausgaben sind übertragbar.
 
-
 #### § 39 Feststellung des Wirtschaftsplans
 
 Das Bundesministerium für Arbeit und Soziales stellt im Benehmen mit
 dem Bundesministerium der Finanzen und im Einvernehmen mit dem Beirat
 für die Teilhabe behinderter Menschen (Beirat) den Wirtschaftsplan
 fest. § 1 der Bundeshaushaltsordnung findet keine Anwendung.
-
 
 #### § 40 Ausführung des Wirtschaftsplans
 
@@ -939,10 +881,7 @@ Einvernehmen mit dem Beirat.
 (4) Bis zur bestimmungsmäßigen Verwendung sind die Ausgabemittel
 verzinslich anzulegen.
 
-
 ### 2. Unterabschnitt - Förderung der Teilhabe schwerbehinderter Menschen am Arbeitsleben aus Mitteln des Ausgleichsfonds
-
-
 
 #### § 41 Verwendungszwecke
 
@@ -996,10 +935,7 @@ von Bedeutung sein können.
 
 (4) Die §§ 31 bis 34 gelten entsprechend.
 
-
 ### 3. Unterabschnitt - Verfahren zur Vergabe der Mittel des Ausgleichsfonds
-
-
 
 #### § 42 Anmeldeverfahren und Anträge
 
@@ -1011,7 +947,6 @@ Integrationsabteilung oder die Einrichtung ihren Sitz hat oder haben
 soll. Das Bundesministerium für Arbeit und Soziales leitet die Anträge
 mit seiner Stellungnahme dem Beirat zu.
 
-
 #### § 43 Vorschlagsrecht des Beirats
 
 (1) Der Beirat nimmt zu den Anträgen Stellung. Die Stellungnahme hat
@@ -1022,7 +957,6 @@ werden sollen.
 (2) Der Beirat kann unabhängig vom Vorliegen oder in Abwandlung eines
 schriftlichen Antrags Vorhaben zur Förderung vorschlagen.
 
-
 #### § 44 Entscheidung
 
 (1) Das Bundesministerium für Arbeit und Soziales entscheidet über die
@@ -1031,17 +965,13 @@ Bescheid.
 
 (2) Der Beirat ist über die getroffene Entscheidung zu unterrichten.
 
-
 #### § 45 Vorhaben des Bundesministeriums für Arbeit und Soziales
 
 Für Vorhaben des Bundesministeriums für Arbeit und Soziales, die dem
 Beirat zur Stellungnahme zuzuleiten sind, gelten die §§ 43 und 44
 entsprechend.
 
-
 ## Vierter Abschnitt - Schlußvorschriften
-
-
 
 ### § 46 Übergangsregelungen
 
@@ -1092,7 +1022,6 @@ Förderung von Einrichtungen nach § 30 Abs. 1 Satz 1 Nr. 4 bis 6,
 soweit Leistungen als Zinszuschüsse oder Zuschüsse zur Deckung eines
 Miet- oder Pachtzinses für bis zum 31. Dezember 2004 bewilligte
 Projekte erbracht werden.
-
 
 ### § 47 Inkrafttreten, Außerkrafttreten
 

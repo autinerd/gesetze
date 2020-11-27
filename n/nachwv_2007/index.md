@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 5 Abs. 27 G v. 24.2.2012 I 212
 
-
 ## Teil 1 - Allgemeine Bestimmungen
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -57,10 +54,7 @@ Verordnung nicht bis zum Abschluss dieser vorläufigen Verwertung oder
 Beseitigung, wenn diese mit einer nachfolgenden vorläufigen oder nicht
 vorläufigen Verwertung oder Beseitigung im Bundesgebiet verbunden ist.
 
-
 ## Teil 2 - Nachweisführung über die Entsorgung von Abfällen
-
-
 
 ### § 2 Kreis der Nachweispflichtigen und Form der Nachweisführung
 
@@ -91,10 +85,7 @@ zur Führung der Nachweise gelten für die elektronische Nachweisführung
 und unter Verwendung von Formblättern, soweit nichts anderes bestimmt
 ist.
 
-
 ### Abschnitt 1 - Nachweis über die Zulässigkeit der vorgesehenen Entsorgung
-
-
 
 #### § 3 Entsorgungsnachweis
 
@@ -162,7 +153,6 @@ der für den Entsorger zuständigen Behörde vorzulegen. Im Formblatt
 Deckblatt Entsorgungsnachweise DEN sind sowohl der Abfallerzeuger als
 auch der bevollmächtigte Vertreter anzugeben.
 
-
 #### § 4 Eingangsbestätigung
 
 Die für den Abfallentsorger zuständige Behörde hat dem Abfallerzeuger
@@ -180,7 +170,6 @@ Prüfung erforderliche Unterlagen vorzulegen. Kommt der Abfallerzeuger
 oder der Abfallentsorger der Aufforderung zur Ergänzung der
 Nachweiserklärungen oder zur Vorlage weiterer Unterlagen nach, so
 finden im Weiteren die Sätze 1 bis 3 entsprechende Anwendung.
-
 
 #### § 5 Bestätigung des Entsorgungsnachweises
 
@@ -237,7 +226,6 @@ Bestätigungsvoraussetzungen sicherzustellen.
 der in Absatz 1 bestimmten Frist keine Entscheidung über die
 beantragte Bestätigung, so gilt die Bestätigung als erteilt.
 
-
 #### § 6 Handhabung nach Entscheidung
 
 (1) Die für die Entsorgungsanlage zuständige Behörde übersendet das
@@ -274,7 +262,6 @@ Entsorgungsanlage zuständige Behörde für sich eine Ablichtung der
 Originalunterlagen an. Sie übersendet die Originalunterlagen
 unmittelbar an den Abfallerzeuger sowie eine Ablichtung an die für den
 Abfallerzeuger zuständige Behörde und den Abfallentsorger.
-
 
 #### § 7 Freistellung und Privilegierung
 
@@ -359,7 +346,6 @@ Freistellung nach Absatz 1 Satz 1 Nr. 3 und Absatz 2 Satz 2 entfallen,
 hat dies der Abfallentsorger auch der für ihn zuständigen Behörde
 mitzuteilen.
 
-
 #### § 8 Anordnung, Widerruf
 
 (1) Die zuständige Behörde kann anordnen, dass der Abfallerzeuger und
@@ -399,7 +385,6 @@ Behörde
 wenn der freigestellte Abfallentsorger nicht innerhalb einer von der
 zuständigen Behörde angemessen gesetzten Frist die Tatsachen
 widerlegt.
-
 
 #### § 9 Sammelentsorgungsnachweis
 
@@ -475,10 +460,7 @@ Entsorgung auch dann einen Sammelentsorgungsnachweis nach den Absätzen
 
 (6) Der Sammelentsorgungsnachweis nach Absatz 1 ist nicht übertragbar.
 
-
 ### Abschnitt 2 - Nachweisführung über die durchgeführte Entsorgung
-
-
 
 #### § 10 Begleitschein
 
@@ -517,7 +499,6 @@ des § 12 oder in anderer geeigneter Weise zu bescheinigen.
 
 
 bestimmt.
-
 
 #### § 11 Ausfüllen und Handhabung der Begleitscheine
 
@@ -571,7 +552,6 @@ Ausfertigungen während des Beförderungsvorganges. In diesem Fall hat
 der Beförderer sicherzustellen, dass bei einem Wechsel des Beförderers
 die in Absatz 2 genannten Ausfertigungen übergeben werden.
 
-
 #### § 12 Übernahmeschein bei Sammelentsorgung
 
 (1) Bei der Verwendung eines Sammelentsorgungsnachweises oder der
@@ -614,7 +594,6 @@ nach Übergabe der Abfälle an den Abfallentsorger zusammen mit den
 Ausfertigungen 4 (gelb) des Begleitscheins in sein Register
 einzustellen. § 11 Abs. 5 findet entsprechende Anwendung.
 
-
 #### § 13 Handhabung des Begleitscheins bei Sammelentsorgung
 
 (1) Der Einsammler hat mit Beginn der Einsammlung nach Maßgabe des §
@@ -638,10 +617,7 @@ den Abfallentsorger ist die Begleitscheinausfertigung 2 (rosa) in
 entsprechender Anwendung von § 11 Abs. 3 und 4 der für das jeweilige
 Land, in dem gesammelt wurde, zuständigen Behörde zuzuleiten.
 
-
 ### Abschnitt 3, Sonderfälle -
-
-
 
 #### § 14 Entsorgung durch Dritte, Verbände und Selbstverwaltungskörperschaften
 
@@ -656,7 +632,6 @@ Nachweisführung in entsprechender Anwendung der §§ 9, 12 und 13
 zulassen. Satz 1 findet entsprechende Anwendung, soweit die Entsorgung
 durch öffentlich-rechtliche Entsorgungsträger erfolgt.
 
-
 #### § 15 Verwertung außerhalb einer Entsorgungsanlage
 
 Wird eine Verwertung außerhalb einer Entsorgungsanlage durchgeführt,
@@ -670,10 +645,6 @@ und 2 sowie dieses Abschnitts
 2.  die Aufgaben der für die Entsorgungsanlage zuständigen Behörde von der
     nach Landesrecht zuständigen Behörde wahrzunehmen.
 
-
-
-
-
 #### § 16 Kleinmengen
 
 Den Nachweis über die ordnungsgemäße Entsorgung von Kleinmengen
@@ -681,10 +652,7 @@ gefährlicher Abfälle im Sinne des § 2 Abs. 2 hat der Abfallerzeuger
 und der Abfallentsorger durch die Führung eines Übernahmescheins
 entsprechend den Bestimmungen des § 12 zu führen.
 
-
 ### Abschnitt 4 - Elektronische Nachweisführung
-
-
 
 #### § 17 Grundsatz
 
@@ -705,7 +673,6 @@ zugelassen wird.
 (2) Absatz 1 gilt auch für die nach § 2 Abs. 1 Nr. 2 Verpflichteten,
 soweit nach § 44 des Kreislaufwirtschafts- und Abfallgesetzes die
 elektronische Nachweisführung zugelassen oder angeordnet ist.
-
 
 #### § 18 Kommunikation
 
@@ -734,7 +701,6 @@ Begleitpapiere bedarf es nach dieser Verordnung nicht. Die Pflicht
 nach Satz 1 wird auch dann erfüllt, wenn der Abfallbeförderer den zur
 Überwachung und Kontrolle Befugten die geforderten Angaben mittels der
 elektronisch zu führenden Nachweise zur Verfügung stellt.
-
 
 #### § 19 Signatur, Übermittlung
 
@@ -790,7 +756,6 @@ gesicherte Übertragungswege genutzt werden, die während der
 Übertragung einen Zugriff Unbefugter auf die übermittelten Dokumente
 ausschließen.
 
-
 #### § 20 Koordinierung
 
 Die Länder stellen sicher, dass die elektronische Nachweisführung von
@@ -819,14 +784,12 @@ dürfen diese von den Nachweispflichtigen nur zum Zweck der
 Nachweisführung genutzt werden, soweit die Länder nichts anderes
 bestimmen.
 
-
 #### § 21 Ausnahmen
 
 Abweichend von § 17 darf die Führung der Übernahmescheine nach § 12
 auch unter Verwendung der hierfür vorgesehenen Formblätter der Anlage
 1 erfolgen. Die Pflichten zur Einhaltung der elektronischen
 Nachweisführung im Übrigen bleiben unberührt.
-
 
 #### § 22 Störung des Kommunikationssystems
 
@@ -882,10 +845,7 @@ Kommunikationssystems haben die Nachweispflichtigen die nach Absatz 1
 mittels Formblättern oder Quittungsbelegen übermittelten Nachweisdaten
 nochmals elektronisch zu übermitteln.
 
-
 ## Teil 3 - Registerführung über die Entsorgung von Abfällen
-
-
 
 ### § 23 Kreis der Registerpflichtigen
 
@@ -903,7 +863,6 @@ eine Pflicht zur Führung von Registern nach
 
 
 besteht.
-
 
 ### § 24 Führung der Register
 
@@ -1058,7 +1017,6 @@ Satz 1 Nr. 2 genannten Angaben das Formblatt Begleitschein nach Anlage
 Satz 2 elektronisch führen, müssen sie die Register unter
 Zugrundelegung dieser Formblätter führen.
 
-
 ### § 25 Dauer der Registrierung, elektronische Registrierung
 
 (1) Die zur Einrichtung und Führung der Register Verpflichteten haben
@@ -1085,10 +1043,7 @@ einzustellenden Ausfertigungen des Übernahmescheins auch dann, wenn
 der Übernahmeschein nach § 21 unter Verwendung der hierfür
 vorgesehenen Formblätter der Anlage 1 geführt wird.
 
-
 ## Teil 4 - Gemeinsame Bestimmungen
-
-
 
 ### § 26 Befreiung, Anordnung von Nachweis- und Registerpflichten
 
@@ -1104,7 +1059,6 @@ Nachweise verlangen.
 Kreislaufwirtschaftsgesetzes zur Führung von Registern über die
 Entsorgung nicht gefährlicher Abfälle Verpflichteten die Registrierung
 weiterer Angaben anordnen.
-
 
 ### § 27 Nachweisführung in besonderen Fällen
 
@@ -1124,7 +1078,6 @@ möglich, so hat der betroffene Nachweispflichtige die Nachweise in
 einer von der zuständigen Behörde bestimmten Weise zu verwenden. Sind
 mehrere Behörden zuständig, so treffen diese die Entscheidung nach
 Satz 1 im Einvernehmen.
-
 
 ### § 28 Vergabe von Kennnummern
 
@@ -1220,10 +1173,6 @@ R   Thüringen
 
 S   Sachsen.
 
-
-
-
-
 ### § 29 Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 69 Absatz 2 Nummer 15 des
@@ -1270,13 +1219,7 @@ Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 10. entgegen § 28 Abs. 5 Satz 2 eine Nummer verwendet.
 
-
-
-
-
 ## Teil 5 - Schlussbestimmungen
-
-
 
 ### § 30 Übergangsbestimmungen für geltende Nachweise
 
@@ -1331,7 +1274,6 @@ abfallrechtlichen Überwachung vom 20. Oktober 2006 (BGBl. I S. 2298)
 bestimmten Inkrafttreten des Abschnitts 4 des Teils 2 fort. Die
 zuständige Behörde kann eine Gestattung nach Satz 1 nachträglich mit
 Nebenbestimmungen versehen.
-
 
 ### § 31 Übergangsbestimmungen zur elektronischen Nachweisführung
 
@@ -1403,7 +1345,6 @@ der Anlage 1 der Nachweisverordnung in der Fassung der Bekanntmachung
 vom 17. Juni 2002 (BGBl. I S. 2374), die zuletzt durch Artikel 4 der
 Verordnung vom 15. August 2002 (BGBl. I S. 3302) geändert worden ist,
 zu verwenden.
-
 
 ### Anlage 1 Formblätter zu Teil 2 Abschnitt 1 und 2 sowie § 24 Abs. 4
 
@@ -1530,7 +1471,6 @@ Die Formblätter sind wie folgt zu verwenden:
 (Inhalt: nicht darstellbare Formblätter,
 Fundstelle: BGBl. I 2006, 2311 - 2326;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
-
 
 ### Anlage 2 Abfälle nach § 9 Abs. 1 Satz 2 und § 9 Abs. 3
 
@@ -1734,22 +1674,6 @@ b)  **Verzeichnis der Abfälle nach § 9 Abs. 3 Satz 2**
                 20 01 33 Batterien und Akkumulatoren, die unter 16 06 01, 16 06 02 oder 16 06
                     03 fallen, sowie gemischte Batterien und Akkumulatoren, die solche
                     Batterien enthalten
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ### Anlage 3 Vorgaben für strukturierte Nachrichten/Schnittstellen nach § 18 Abs. 1
 

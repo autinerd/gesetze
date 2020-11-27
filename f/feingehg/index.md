@@ -18,13 +18,11 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 9 G v. 25.4.2007 I 594
 
-
 ## § 1
 
 Gold- und Silberwaren dürfen zu jedem Feingehalt angefertigt und
 feilgehalten werden. Die Angabe des Feingehalts auf denselben ist nur
 nach Maßgabe der folgenden Bestimmungen gestattet.
-
 
 ## § 2
 
@@ -39,7 +37,6 @@ Feingehalt bleiben. Vorbehaltlich dieser Abweichung muß der Gegenstand
 im Ganzen und mit der Lötung eingeschmolzen den angegebenen Feingehalt
 haben.
 
-
 ## § 3
 
 Die Angabe des Feingehalts auf goldenen und silbernen Geräten
@@ -49,12 +46,10 @@ kenntlich macht. Das Bundesministerium für Wirtschaft und Technologie
 wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
 die Form des Stempelzeichens zu bestimmen.
 
-
 ## § 4
 
 Goldene und silberne Uhrgehäuse unterliegen den Bestimmungen des § 2
 Abs. 2 und des § 5 Abs. 1 und 3.
-
 
 ## § 5
 
@@ -68,7 +63,6 @@ der Gegenstand im Ganzen eingeschmolzen wird.
 (3) Das gemäß § 3 bestimmte Stempelzeichen darf auf Schmucksachen von
 Gold und Silber nicht angebracht werden.
 
-
 ## § 6
 
 Aus dem Ausland eingeführte Gold- und Silberwaren, deren Feingehalt
@@ -76,14 +70,12 @@ durch eine diesem Gesetz nicht entsprechende Bezeichnung angegeben
 ist, dürfen nur dann feilgehalten werden, wenn sie außerdem mit einem
 Stempelzeichen nach Maßgabe dieses Gesetzes versehen sind.
 
-
 ## § 7
 
 Für die Richtigkeit des angegebenen Feingehalts haftet der Verkäufer
 der Ware. Ist deren Stempelung im Inland erfolgt, so haftet gleich dem
 Verkäufer der Inhaber des Geschäfts, für welches die Stempelung
 erfolgt ist.
-
 
 ## § 8
 
@@ -106,10 +98,6 @@ Betracht, welche:
 
 3.  als Verstärkungsvorrichtungen ohne metallische Verbindung sich
     darstellen.
-
-
-
-
 
 ## § 9
 
@@ -147,7 +135,6 @@ Euro geahndet werden.
 
 (4) Gegenstände, auf die sich die Ordnungswidrigkeit bezieht, können
 eingezogen werden.
-
 
 ## § 10
 

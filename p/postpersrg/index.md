@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 15 Abs. 104 G v. 5.2.2009 I 160
 
-
 ## Erster Abschnitt - Allgemeine dienstrechtliche Regelungen
-
-
 
 ### § 1 Dienstrechtliche Zuständigkeiten der Aktiengesellschaften
 
@@ -80,7 +77,6 @@ Befugnisse von dem Arbeitsdirektor oder im Falle des § 20 Abs. 3 Satz
 Vorstandsmitglied wahrnehmen lassen. Beschlüsse des Vorstands, die mit
 dienstrechtlichen Bestimmungen nicht vereinbar sind, binden das
 Vorstandsmitglied nicht.
-
 
 ### § 2 Rechtsverhältnisse der Beamten
 
@@ -142,7 +138,6 @@ Aktiengesellschaft versetzten Beamten.
 (6) Die bei den Aktiengesellschaften beschäftigten Beamten können ohne
 Einhaltung des Dienstweges Eingaben an das Bundesministerium der
 Finanzen richten.
-
 
 ### § 3 Dienstrechtliche Zuständigkeiten des Bundesministeriums der Finanzen
 
@@ -224,7 +219,6 @@ nichts anderes ergibt, liegen die dienstrechtlichen Zuständigkeiten
 für die bei den Aktiengesellschaften beschäftigten Beamten beim
 Bundesministerium der Finanzen.
 
-
 ### § 4 Beamtenrechtliche Regelungen
 
 (1) Die berufliche Tätigkeit der Beamten gilt als Dienst.
@@ -303,7 +297,6 @@ Abs. 1 des Eisenbahnneuordnungsgesetzes bezeichnete Frist wird für die
 in den Sätzen 1 und 2 bezeichneten Beamten bis zum 31. Dezember 1999
 verlängert.
 
-
 ### § 5 Berufliches Fortkommen
 
 (1) Kein Beamter darf wegen seiner Rechtsstellung oder wegen der sich
@@ -325,7 +318,6 @@ Beamtenstatus bezogene sachliche Gründe eine unterschiedliche
 Behandlung rechtfertigen oder ein Status unverzichtbare Voraussetzung
 für die auszuübende Tätigkeit ist.
 
-
 ### § 6 Verwendung auf anderen Arbeitsposten
 
 Der Vorstand oder die von ihm bestimmten Stellen mit
@@ -333,7 +325,6 @@ Dienstvorgesetztenbefugnissen können einen Beamten vorübergehend auf
 einem anderen Arbeitsposten von geringerer Bewertung unter Belassung
 seiner Amtsbezeichnung und seiner Dienstbezüge verwenden, wenn
 betriebliche Gründe es erfordern.
-
 
 ### § 7 Haftung
 
@@ -346,17 +337,13 @@ vorsätzlich verletzt haben.
 (2) Der Beamte haftet der Aktiengesellschaft für den dieser
 entstandenen Schaden entsprechend § 75 des Bundesbeamtengesetzes.
 
-
 ## Zweiter Abschnitt - Besoldungsrechtliche Regelungen
-
-
 
 ### § 8 Ämterbewertung
 
 § 18 des Bundesbesoldungsgesetzes findet mit der Maßgabe Anwendung,
 daß gleichwertige Tätigkeiten bei den Aktiengesellschaften als
 amtsgemäße Funktionen gelten.
-
 
 ### § 9 Stellenplan
 
@@ -420,7 +407,6 @@ besetzbare Planstelle verliehen werden. Wer als Beamter befördert
 wird, kann nach den für die Bundesbeamten geltenden Regelungen
 rückwirkend in eine Planstelle eingewiesen werden.
 
-
 ### § 10 Besoldungsrechtliche Sonderregelungen
 
 (1) Der Anspruch auf Sonderzahlung nach dem Bundessonderzahlungsgesetz
@@ -460,7 +446,6 @@ sind Einkünfte aus diesem anderen Dienstverhältnis oder
 Beschäftigungsverhältnis als Bruttobetrag auf die Dienstbezüge
 anzurechnen.
 
-
 ### § 11 Belohnungen, Vergütungen, Aufwandsentschädigungen
 
 (1) Der Vorstand kann im Einvernehmen mit dem Bundesministerium der
@@ -475,10 +460,7 @@ auf die Besoldung angerechnet.
 Beamten Richtlinien für die Erstattung von Aufwendungen erlassen, die
 aus dienstlicher Veranlassung entstehen.
 
-
 ## Dritter Abschnitt - Reise- und Umzugskosten, Übergangsregelung für die Ausbildung
-
-
 
 ### § 12
 
@@ -489,15 +471,11 @@ dürfen die Bestimmungen, die für die bei den Aktiengesellschaften
 tätigen vergleichbaren Arbeitnehmer gelten, nicht überschritten
 werden.
 
-
 ### § 13
 
 (weggefallen)
 
-
 ## Vierter Abschnitt - Versorgungs- und beihilferechtliche Regelungen
-
-
 
 ### § 14 Grundsätze
 
@@ -535,7 +513,6 @@ Rechtsform eines eingetragenen Vereins hat.
 für die Postbetriebsärzte entstandenen Versorgungsansprüche der
 Postbetriebsärzte übernimmt der Bund die Gewährshaftung.
 
-
 ### § 15 Postbeamtenversorgungskasse
 
 (1) Die Postbeamtenversorgungskasse erbringt Versorgungs- und
@@ -552,7 +529,6 @@ nicht. Die Ansprüche gegenüber dem Bund bleiben unberührt.
 der Gewerbesteuer und der Vermögensteuer befreit. Zuwendungen an die
 Postbeamtenversorgungskasse sind Betriebsausgaben; § 4d des
 Einkommensteuergesetzes ist nicht anzuwenden.
-
 
 ### § 16 Finanzierung der Postbeamtenversorgungskasse
 
@@ -619,7 +595,6 @@ und ein Weisungsrecht ihnen gegenüber zu.
 die Postbeamtenversorgungskasse erbringt, kann er von den
 Aktiengesellschaften keine Erstattung verlangen.
 
-
 ### § 17 Weiterbeschäftigte Beamte
 
 (1) Die Tätigkeit als Beamter bei einer Aktiengesellschaft gilt als
@@ -635,7 +610,6 @@ Einrichtungen oder bei Unternehmen, deren Anteile mehrheitlich einer
 oder mehreren Aktiengesellschaften gehören, weiterbeschäftigt werden,
 steht einer Verwendung im öffentlichen Dienst im Sinne des § 53 des
 Beamtenversorgungsgesetzes gleich.
-
 
 ### § 18 Nachversicherung
 
@@ -690,13 +664,7 @@ Sozialgesetzbuch. Er entfällt, 1.
     Aktiengesellschaft ausscheidet, spätestens jedoch am 31. Dezember
     2003\.
 
-
-
-
-
 ## Fünfter Abschnitt - Umwandlung der öffentlich-rechtlichen Amtsverhältnisse und der außertariflichen Angestelltenverhältnisse
-
-
 
 ### § 19 Beendigung der öffentlich-rechtlichen Amtsverhältnisse, Weitergeltung der Verträge
 
@@ -757,10 +725,7 @@ einer Verwendung im öffentlichen Dienst im Sinne des § 53 des
 Beamtenversorgungsgesetzes gleich. Das gilt auch beim Zusammentreffen
 mit einer Versorgung aus einem Beamtenverhältnis.
 
-
 ## Sechster Abschnitt - Rechtsaufsicht
-
-
 
 ### § 20 Rechtsaufsicht
 
@@ -794,10 +759,7 @@ Verhalten fortsetzt. In diesem Falle überträgt es nach Anhörung des
 Vorsitzenden des Aufsichtsrats und dessen Stellvertreters die
 Zuständigkeit einem anderen Vorstandsmitglied.
 
-
 ## Siebter Abschnitt - Übergang der Arbeitsverhältnisse
-
-
 
 ### § 21 Überleitung der Arbeitnehmer
 
@@ -842,7 +804,6 @@ Sozialeinrichtung oder der Bundespost-Betriebskrankenkasse (§ 7 des
 Postsozialversicherungsorganisationsgesetzes) wahrgenommen haben. Das
 weitere regelt das Bundesanstalt Post-Gesetz.
 
-
 ### § 22 Bestandsschutz der Arbeitsverhältnisse
 
 Die Kündigung eines Arbeitsverhältnisses durch den bisherigen oder den
@@ -853,7 +814,6 @@ Kapitel XIX Sachgebiet A Abschnitt III Nr. 1 Abs. 5 des
 Einigungsvertrages vom 23. September 1990 (BGBl. 1990 II S. 885)
 genannten Gründen bleibt unberührt.
 
-
 ### § 23 Gestaltung der Vergütungen und Löhne
 
 Die Aktiengesellschaften regeln die Vergütungen, Löhne und
@@ -861,10 +821,7 @@ Arbeitsbedingungen der Angestellten, Arbeiter und Auszubildenden. Dies
 geschieht auch durch Tarifverträge, die der Vorstand mit den
 zuständigen Gewerkschaften abschließt.
 
-
 ## Achter Abschnitt - Regelungen der betrieblichen Interessenvertretungen
-
-
 
 ### § 24 Anwendung des Betriebsverfassungsgesetzes
 
@@ -883,7 +840,6 @@ die Anwendung des Betriebsverfassungsgesetzes und des
 Sprecherausschussgesetzes als Arbeitnehmer und für die Anwendung von
 Vorschriften über die Schwerbehindertenvertretung als Beschäftigter
 des Unternehmens. § 36 Abs. 2 und 4 gilt entsprechend.
-
 
 ### § 25 Übergangsregelungen
 
@@ -915,7 +871,6 @@ Dienstvereinbarungen gelten in den Aktiengesellschaften als
 Betriebsvereinbarungen für längstens 24 Monate ab Eintragung der
 Aktiengesellschaften ins Handelsregister, soweit sie nicht durch
 andere Regelungen ersetzt werden.
-
 
 ### § 26 Wahlen, Ersatzmitglieder
 
@@ -965,14 +920,9 @@ finden mit folgender Maßgabe Anwendung:
     Betriebsverfassungsgesetzes unter Berücksichtigung der Grundsätze der
     Nummer 2.
 
-
-
-
-
 ### § 27
 
 (weggefallen)
-
 
 ### § 28 Beteiligung des Betriebsrats in Angelegenheiten der Beamten
 
@@ -994,7 +944,6 @@ Betriebsrat des Betriebs, in dem der Beamte die zugewiesene Tätigkeit
 ausübt, hierüber zu unterrichten und ihm Gelegenheit zur Stellungnahme
 zu geben. Entsprechendes gilt für die Beteiligung der
 Schwerbehindertenvertretung.
-
 
 ### § 29 Verfahren
 
@@ -1056,7 +1005,6 @@ Verwaltungsgerichte zuständig. Die Vorschriften des
 Arbeitsgerichtsgesetzes über das Beschlußverfahren gelten
 entsprechend.
 
-
 ### § 30 Besetzung der Einigungsstelle
 
 In Angelegenheiten des § 76 Abs. 1 des
@@ -1071,7 +1019,6 @@ Satz 2 zweiter Halbsatz für die Beschlussfassung zuständig, muss sich
 unter den von ihm zu bestellenden Beisitzern der Einigungsstelle ein
 Beamter befinden
 
-
 ### § 31 Beteiligung des Betriebsrats und der Schwerbehindertenvertretung bei Entscheidungen des Bundesministeriums der Finanzen
 
 In Angelegenheiten, in denen das Bundesministerium der Finanzen gemäß
@@ -1085,7 +1032,6 @@ gelten die §§ 28 bis 30 entsprechend. Sind in diesen Angelegenheiten
 Interessen schwerbehinderter Menschen berührt, ist die
 Schwerbehindertenvertretung des Betriebs im Rahmen ihrer Zuständigkeit
 zu beteiligen.
-
 
 ### § 32 Gesamtbetriebsrat
 
@@ -1109,7 +1055,6 @@ folgender Maßgabe Anwendung:
 (2) Für die Beteiligung des Gesamtbetriebsrats in den Angelegenheiten
 der Beamten gelten die §§ 28 bis 31 entsprechend.
 
-
 ### § 33 Konzernbetriebsrat
 
 (1) Die §§ 54 bis 59 des Betriebsverfassungsgesetzes finden mit
@@ -1131,7 +1076,6 @@ folgender Maßgabe Anwendung:
 (2) Für die Beteiligung des Konzernbetriebsrats in den Angelegenheiten
 der Beamten gelten die §§ 28 bis 31 entsprechend.
 
-
 ### § 34 Änderung der Wahlordnungen
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt, durch
@@ -1142,13 +1086,11 @@ Deutsche Post AG, Deutsche Postbank AG und Deutsche Telekom AG zu
 erlassen. Die Rechtsverordnung bedarf nicht der Zustimmung des
 Bundesrates.
 
-
 ### § 35 Gesetzesvorrang
 
 Durch Tarifvertrag oder Betriebsvereinbarung kann die betriebliche
 Interessenvertretung der Beamten nicht abweichend von den Vorschriften
 dieses Abschnitts geregelt werden.
-
 
 ### § 36 Sprecherausschuß
 
@@ -1165,7 +1107,6 @@ Sprecherausschußgesetz entsprechend.
 
 (4) § 31 Abs. 2 des Sprecherausschußgesetzes findet für die Beamten im
 Hinblick auf deren Status keine Anwendung.
-
 
 ### § 37 Schwerbehindertenvertretung
 

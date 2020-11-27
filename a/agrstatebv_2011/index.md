@@ -15,14 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BAnz: 2009, Nr 154, 3419
 
-
 ## Eingangsformel
 
 Auf Grund des § 94a Nummer 5 des Agrarstatistikgesetzes in der Fassung
 der Bekanntmachung vom 17. Dezember 2009 (BGBl. I S. 3886) verordnet
 das Bundesministerium für Ernährung, Landwirtschaft und
 Verbraucherschutz:
-
 
 ## § 1 Bodennutzungshaupterhebung
 
@@ -80,7 +78,6 @@ wird.
 (4) Der Berichtszeitraum für die Erhebungsmerkmale nach Absatz 2 ist
 das Kalenderjahr 2010.
 
-
 ## § 2 Erhebung über die Viehbestände
 
 (1) Im Rahmen der Erhebung über die Viehbestände werden über die in §
@@ -110,12 +107,10 @@ jeweils nach Fütterungsverfahren.
 (3) Die Merkmale werden bei allen Erhebungseinheiten der Stichprobe
 erhoben, in denen Jung- oder Mastschweine gehalten werden.
 
-
 ## § 3 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft und am 31.
 Dezember 2012 außer Kraft.
-
 
 ## Schlussformel
 

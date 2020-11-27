@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 302
 
-
 ## Eingangsformel
 
 Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 und des § 30
@@ -26,7 +25,6 @@ Artikel 232 Nummer 3 Buchstabe a der Verordnung vom 31. Oktober 2006
 für Bildung und Forschung nach Anhörung des Hauptausschusses des
 Bundesinstituts für Berufsbildung im Einvernehmen mit dem
 Bundesministerium für Wirtschaft und Technologie:
-
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
 
@@ -98,7 +96,6 @@ Hierzu gehören insbesondere:
 Fortbildungsabschluss „Geprüfter Tourismusfachwirt“ oder „Geprüfte
 Tourismusfachwirtin“.
 
-
 ## § 2 Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer
@@ -132,7 +129,6 @@ Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht,
 Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche
 Handlungsfähigkeit) erworben zu haben, die die Zulassung zur Prüfung
 rechtfertigen.
-
 
 ## § 3 Gliederung und Durchführung der Prüfung
 
@@ -194,7 +190,6 @@ werden, dass auch in den weiteren in Absatz 2 aufgeführten
 Handlungsbereichen der Tourismuswirtschaft Wissen angewendet und
 Lösungen vorgeschlagen werden können. Das Fachgespräch soll nicht
 länger als 20 Minuten dauern.
-
 
 ## § 4 Inhalte der Prüfung
 
@@ -392,10 +387,6 @@ Rahmen können folgende Qualifikationsinhalte geprüft werden:
 4.  Planen und Umsetzen von Veranstaltungen unter Berücksichtigung
     spezifischer Rahmenbedingungen.
 
-
-
-
-
 ## § 5 Anrechnung anderer Prüfungsleistungen
 
 Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin ist auf Antrag
@@ -405,7 +396,6 @@ Stelle zu befreien, wenn eine andere vergleichbare Prüfung vor einer
 einem staatlichen Prüfungsausschuss erfolgreich abgelegt wurde und die
 Anmeldung zur Fortbildungsprüfung innerhalb von fünf Jahren nach der
 Bekanntgabe des Bestehens der anderen Prüfung erfolgt.
-
 
 ## § 6 Bewerten der Prüfungsleistungen und Bestehen der Prüfung
 
@@ -423,7 +413,6 @@ Anlage 1 und 2 auszustellen. Im Fall der Freistellung nach § 5 sind
 Ort und Datum der anderweitig abgelegten Prüfung sowie die Bezeichnung
 des Prüfungsgremiums anzugeben.
 
-
 ## § 7 Wiederholung der Prüfung
 
 (1) Eine Prüfung, die nicht bestanden ist, kann zweimal wiederholt
@@ -437,14 +426,12 @@ Leistung mindestens ausreichend ist. Der Antrag kann sich auch darauf
 richten, die bestandene Prüfungsleistung einmal zu wiederholen. In
 diesem Fall gilt das Ergebnis der letzten Prüfung.
 
-
 ## § 8 Ausbildereignung
 
 Wer die Prüfung zum Geprüften Tourismusfachwirt oder zur Geprüften
 Tourismusfachwirtin nach dieser Verordnung bestanden hat, ist vom
 schriftlichen Teil der Prüfung der nach dem Berufsbildungsgesetz
 erlassenen Ausbilder-Eignungsverordnung befreit.
-
 
 ## § 9 Übergangsvorschriften
 
@@ -459,11 +446,9 @@ der Prüfungsteilnehmerin die Wiederholungsprüfung nach dieser
 Verordnung durchführen; § 7 Absatz 2 findet in diesem Fall keine
 Anwendung.
 
-
 ## § 10 Inkrafttreten
 
 Diese Verordnung tritt am 1. Juli 2012 in Kraft.
-
 
 ## Anlage 1 (zu § 6 Absatz 3) Muster
 
@@ -474,8 +459,6 @@ Diese Verordnung tritt am 1. Juli 2012 in Kraft.
 
 
 *    *   (Bezeichnung der zuständigen Stelle)
-
-
 
 ## Zeugnis
 
@@ -516,9 +499,6 @@ Tourismusfachwirtin vom 9. Februar 2012 (BGBl. I S. 302) bestanden.
 
 *    *   (Siegel der zuständigen Stelle)
 
-
-
-
 ## Anlage 2 (zu § 6 Absatz 3) Muster
 
 (Fundstelle: BGBl. I 2012, 307)
@@ -529,8 +509,6 @@ Tourismusfachwirtin vom 9. Februar 2012 (BGBl. I S. 302) bestanden.
 
 
 *    *   (Bezeichnung der zuständigen Stelle)
-
-
 
 ## Zeugnis
 

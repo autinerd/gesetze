@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 26.9.2011 I 1914
 
-
 ## § 1 Gesetzliche Handelsklassen und Kategorien für Rinderschlachtkörper
 
 (1) Für ganze, halbe und viertel Schlachtkörper von Rindern gelten die
@@ -36,7 +35,6 @@ Untergruppen zu unterteilen.
 (2) Rinder im Sinne des Absatzes 1 sind ausgewachsene Rinder, die zum
 Schlachtzeitpunkt über zwölf Monate alt waren, sowie nicht
 ausgewachsene Rinder.
-
 
 ## § 2 Einstufung in Handelsklassen
 
@@ -58,7 +56,6 @@ Handelsklassenschema für Rinderschlachtkörper.
 
 (3) Die Verwendung anderer als der in § 1 Absatz 1 bezeichneten
 Handelsklassen und Kategorien ist nicht zulässig.
-
 
 ## § 3 Kennzeichnung
 
@@ -118,7 +115,6 @@ werden, sind die Schlachtkörper auch bei einer Kennzeichnung mit
 Etiketten nach den Anforderungen des Absatzes 2 Nummer 2 an der
 Außenseite zu kennzeichnen.
 
-
 ## § 4 Ordnungswidrigkeiten
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig gegen die
@@ -155,13 +151,7 @@ Handelsklassengesetzes handelt, wer vorsätzlich oder fahrlässig
 
 2.  entgegen § 2 Abs. 4 eine Handelsklasse oder Kategorie verwendet.
 
-
-
-
-
 ## § 5 (weggefallen)
-
-
 
 ## Anlage (zu § 1) I. Fleischigkeitsklassen
 

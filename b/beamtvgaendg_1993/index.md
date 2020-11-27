@@ -16,35 +16,28 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1994, 2442
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## (XXXX) Art 1 und Art 2 (weggefallen)
 
 -
-
 
 ## Art 3
 
 -
 
-
 ## (XXXX) Art 4 bis Art 7 (weggefallen)
 
 -
-
 
 ## Art 8 Rückkehr zum einheitlichen Verordnungsrang
 
 Die auf Artikel 7 beruhenden Teile der dort geänderten
 Rechtsverordnung können auf Grund der Ermächtigung des
 Beamtenversorgungsgesetzes durch Rechtsverordnung geändert werden.
-
 
 ## Art 9 Neufassung des Beamtenversorgungsgesetzes, des Soldatenversorgungsgesetzes und des Kindererziehungszuschlagsgesetzes
 
@@ -56,7 +49,6 @@ Bundesgesetzblatt bekanntmachen.
 (2) Das Bundesministerium der Verteidigung kann den Wortlaut des
 Soldatenversorgungsgesetzes in der vom Inkrafttreten dieses Gesetzes
 an geltenden Fassung im Bundesgesetzblatt bekanntmachen.
-
 
 ## Art 10 Ausgleichsregelung
 
@@ -71,7 +63,6 @@ Hinblick auf die Verbesserung der Mindestversorgung nach § 26 Abs. 7
 Satz 3 des Soldatenversorgungsgesetzes durch Artikel 10 Nr. 2 des
 Gesetzes vom 23. März 1993.
 
-
 ## Art 11 Übergangsregelung
 
 Artikel 1 Nr. 3, 7, 9, 10 Buchstabe b, Nr. 16 Buchstabe a, Nr. 17 und
@@ -83,7 +74,6 @@ gilt entsprechend für die Hinterbliebenen eines nach Inkrafttreten
 dieses Gesetzes verstorbenen Versorgungsempfängers. Die Vorschriften
 der Beamtenversorgungs-Übergangsverordnung und der
 Soldatenversorgungs-Übergangsverordnung bleiben unberührt.
-
 
 ## Art 12 Inkrafttreten
 

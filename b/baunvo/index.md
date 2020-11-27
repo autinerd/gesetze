@@ -21,10 +21,7 @@ Neugefasst durch
 Geändert durch
 :   Art. 3 G v. 22.4.1993 I 466
 
-
 ## Erster Abschnitt - Art der baulichen Nutzung
-
-
 
 ### § 1 Allgemeine Vorschriften für Bauflächen und Baugebiete
 
@@ -223,7 +220,6 @@ Zulässigkeit getroffen werden. Die allgemeine Zweckbestimmung des
 Baugebiets muß in seinen übrigen Teilen gewahrt bleiben. Die Sätze 1
 bis 3 gelten auch für die Änderung und Ergänzung von Bebauungsplänen.
 
-
 ### § 2 Kleinsiedlungsgebiete
 
 (1) Kleinsiedlungsgebiete dienen vorwiegend der Unterbringung von
@@ -257,10 +253,6 @@ Nutzgärten und landwirtschaftlichen Nebenerwerbsstellen.
 
 4.  nicht störende Gewerbebetriebe.
 
-
-
-
-
 ### § 3 Reine Wohngebiete
 
 (1) Reine Wohngebiete dienen dem Wohnen.
@@ -284,7 +276,6 @@ Nutzgärten und landwirtschaftlichen Nebenerwerbsstellen.
 (4) Zu den nach Absatz 2 sowie den §§ 2, 4 bis 7 zulässigen
 Wohngebäuden gehören auch solche, die ganz oder teilweise der
 Betreuung und Pflege ihrer Bewohner dienen.
-
 
 ### § 4 Allgemeine Wohngebiete
 
@@ -320,10 +311,6 @@ Betreuung und Pflege ihrer Bewohner dienen.
 
 
 5.  Tankstellen.
-
-
-
-
 
 ### § 4a Gebiete zur Erhaltung und Entwicklung der Wohnnutzung (besondere Wohngebiete)
 
@@ -384,10 +371,6 @@ Baugesetzbuchs), festgesetzt werden, daß
     Geschoßfläche oder eine bestimmte Größe der Geschoßfläche für
     Wohnungen zu verwenden ist.
 
-
-
-
-
 ### § 5 Dorfgebiete
 
 (1) Dorfgebiete dienen der Unterbringung der Wirtschaftsstellen land-
@@ -436,7 +419,6 @@ ihrer Entwicklungsmöglichkeiten ist vorrangig Rücksicht zu nehmen.
 (3) Ausnahmsweise können Vergnügungsstätten im Sinne des § 4a Abs. 3
 Nr. 2 zugelassen werden.
 
-
 ### § 6 Mischgebiete
 
 (1) Mischgebiete dienen dem Wohnen und der Unterbringung von
@@ -476,7 +458,6 @@ Gewerbebetrieben, die das Wohnen nicht wesentlich stören.
 (3) Ausnahmsweise können Vergnügungsstätten im Sinne des § 4a Abs. 3
 Nr. 2 außerhalb der in Absatz 2 Nr. 8 bezeichneten Teile des Gebiets
 zugelassen werden.
-
 
 ### § 7 Kerngebiete
 
@@ -541,7 +522,6 @@ Kerngebiets nicht vorwiegend der Unterbringung von Handelsbetrieben
 sowie der zentralen Einrichtungen der Wirtschaft, der Verwaltung und
 der Kultur dient.
 
-
 ### § 8 Gewerbegebiete
 
 (1) Gewerbegebiete dienen vorwiegend der Unterbringung von nicht
@@ -577,10 +557,6 @@ erheblich belästigenden Gewerbebetrieben.
 
 3.  Vergnügungsstätten.
 
-
-
-
-
 ### § 9 Industriegebiete
 
 (1) Industriegebiete dienen ausschließlich der Unterbringung von
@@ -607,10 +583,6 @@ Baugebieten unzulässig sind.
 
 2.  Anlagen für kirchliche, kulturelle, soziale, gesundheitliche und
     sportliche Zwecke.
-
-
-
-
 
 ### § 10 Sondergebiete, die der Erholung dienen
 
@@ -645,7 +617,6 @@ landschaftlichen Gegebenheiten festgesetzt werden.
 
 (5) In Campingplatzgebieten sind Campingplätze und Zeltplätze
 zulässig.
-
 
 ### § 11 Sonstige Sondergebiete
 
@@ -706,7 +677,6 @@ der Gemeinde und ihrer Ortsteile, die Sicherung der verbrauchernahen
 Versorgung der Bevölkerung und das Warenangebot des Betriebs zu
 berücksichtigen.
 
-
 ### § 12 Stellplätze und Garagen
 
 (1) Stellplätze und Garagen sind in allen Baugebieten zulässig, soweit
@@ -755,14 +725,12 @@ Verpflichtung zur Herstellung von Stellplätzen und Garagen außerhalb
 der im Bebauungsplan festgesetzten Bereiche bleiben bei Festsetzungen
 nach den Absätzen 4 bis 6 unberührt.
 
-
 ### § 13 Gebäude und Räume für freie Berufe
 
 Für die Berufsausübung freiberuflich Tätiger und solcher
 Gewerbetreibender, die ihren Beruf in ähnlicher Art ausüben, sind in
 den Baugebieten nach den §§ 2 bis 4 Räume, in den Baugebieten nach den
 §§ 4a bis 9 auch Gebäude zulässig.
-
 
 ### § 14 Nebenanlagen
 
@@ -784,7 +752,6 @@ im Bebauungsplan keine besonderen Flächen festgesetzt sind. Dies gilt
 auch für fernmeldetechnische Nebenanlagen sowie für Anlagen für
 erneuerbare Energien, soweit nicht Absatz 1 Satz 1 Anwendung findet.
 
-
 ### § 15 Allgemeine Voraussetzungen für die Zulässigkeit baulicher und sonstiger Anlagen
 
 (1) Die in den §§ 2 bis 14 aufgeführten baulichen und sonstigen
@@ -803,10 +770,7 @@ nach den verfahrensrechtlichen Einordnungen des Bundes-
 Immissionsschutzgesetzes und der auf seiner Grundlage erlassenen
 Verordnungen zu beurteilen.
 
-
 ## Zweiter Abschnitt - Maß der baulichen Nutzung
-
-
 
 ### § 16 Bestimmung des Maßes der baulichen Nutzung
 
@@ -861,7 +825,6 @@ getroffen werden.
 
 (6) Im Bebauungsplan können nach Art und Umfang bestimmte Ausnahmen
 von dem festgesetzten Maß der baulichen Nutzung vorgesehen werden.
-
 
 ### § 17 Obergrenzen für die Bestimmung des Maßes der baulichen Nutzung
 
@@ -999,7 +962,6 @@ städtebauliche Gründe dies erfordern und sonstige öffentliche Belange
 nicht entgegenstehen. Absatz 2 Satz 1 Nr. 2 ist entsprechend
 anzuwenden.
 
-
 ### § 18 Höhe baulicher Anlagen
 
 (1) Bei Festsetzung der Höhe baulicher Anlagen sind die erforderlichen
@@ -1007,7 +969,6 @@ Bezugspunkte zu bestimmen.
 
 (2) Ist die Höhe baulicher Anlagen als zwingend festgesetzt (§ 16 Abs.
 4 Satz 2), können geringfügige Abweichungen zugelassen werden.
-
 
 ### § 19 Grundflächenzahl, zulässige Grundfläche
 
@@ -1054,10 +1015,6 @@ Grenzen abgesehen werden
 2.  wenn die Einhaltung der Grenzen zu einer wesentlichen Erschwerung der
     zweckentsprechenden Grundstücksnutzung führen würde.
 
-
-
-
-
 ### § 20 Vollgeschosse, Geschoßflächenzahl, Geschoßfläche
 
 (1) Als Vollgeschosse gelten Geschosse, die nach landesrechtlichen
@@ -1080,7 +1037,6 @@ sie nach Landesrecht in den Abstandsflächen (seitlicher Grenzabstand
 und sonstige Abstandsflächen) zulässig sind oder zugelassen werden
 können, unberücksichtigt.
 
-
 ### § 21 Baumassenzahl, Baumasse
 
 (1) Die Baumassenzahl gibt an, wieviel Kubikmeter Baumasse je
@@ -1102,7 +1058,6 @@ Baumassenzahl nicht festgesetzt, darf bei Gebäuden, die Geschosse von
 mehr als 3,50 m Höhe haben, eine Baumassenzahl, die das
 Dreieinhalbfache der zulässigen Geschoßflächenzahl beträgt, nicht
 überschritten werden.
-
 
 ### § 21a Stellplätze, Garagen und Gemeinschaftsanlagen
 
@@ -1151,10 +1106,7 @@ Flächen oder Baumassen notwendiger Garagen, die unter der
 Geländeoberfläche hergestellt werden, insoweit zu erhöhen, als der
 Bebauungsplan dies festsetzt oder als Ausnahme vorsieht.
 
-
 ## Dritter Abschnitt - Bauweise, überbaubare Grundstücksfläche
-
-
 
 ### § 22 Bauweise
 
@@ -1176,7 +1128,6 @@ Abweichung erfordert.
 festgesetzt werden. Dabei kann auch festgesetzt werden, inwieweit an
 die vorderen, rückwärtigen und seitlichen Grundstücksgrenzen
 herangebaut werden darf oder muß.
-
 
 ### § 23 Überbaubare Grundstücksfläche
 
@@ -1205,19 +1156,13 @@ den nicht überbaubaren Grundstücksflächen Nebenanlagen im Sinne des §
 sie nach Landesrecht in den Abstandsflächen zulässig sind oder
 zugelassen werden können.
 
-
 ## Vierter Abschnitt
-
-
 
 ### § 24
 
 (weggefallen)
 
-
 ## Fünfter Abschnitt - Überleitungs- und Schlußvorschriften
-
-
 
 ### § 25 Fortführung eingeleiteter Verfahren
 
@@ -1225,7 +1170,6 @@ Für Bauleitpläne, deren Aufstellung oder Änderung bereits eingeleitet
 ist, sind die dieser Verordnung entsprechenden bisherigen Vorschriften
 weiterhin anzuwenden, wenn die Pläne bei dem Inkrafttreten dieser
 Verordnung bereits ausgelegt sind.
-
 
 ### § 25a Überleitungsvorschriften aus Anlaß der zweiten Änderungsverordnung
 
@@ -1249,7 +1193,6 @@ gesonderte Festsetzungen für übereinanderliegende Geschosse und Ebenen
 und sonstige Teile baulicher Anlagen in der bis zum Inkrafttreten der
 zweiten Änderungsverordnung gültigen Fassung weiterhin Anwendung.
 
-
 ### § 25b Überleitungsvorschrift aus Anlaß der dritten Änderungsverordnung
 
 (1) Ist der Entwurf eines Bebauungsplans vor dem Inkrafttreten der
@@ -1263,7 +1206,6 @@ Bebauungsplans erneut einzuleiten, bleibt unberührt.
 Bekanntmachung vom 15. September 1977 Anwendung findet, ist § 11 Abs.
 3 Satz 4 entsprechend anzuwenden.
 
-
 ### § 25c Überleitungsvorschrift aus Anlaß der vierten Änderungsverordnung
 
 Ist der Entwurf eines Bauleitplans vor dem 27. Januar 1990 nach § 3
@@ -1272,12 +1214,10 @@ diese Verordnung in der bis zum 26. Januar 1990 geltenden Fassung
 anzuwenden. Das Recht der Gemeinde, das Verfahren zur Aufstellung des
 Bauleitplans erneut einzuleiten, bleibt unberührt.
 
-
 ### § 26 Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 247 des Baugesetzbuchs auch im Land Berlin.
-
 
 ### § 26a Überleitungsregelungen aus Anlaß der Herstellung der Einheit Deutschlands
 
@@ -1291,7 +1231,6 @@ Anwendung finden, sind die entsprechenden Vorschriften der Deutschen
 Demokratischen Republik anzuwenden. Bestehen solche Vorschriften nicht
 oder würde ihre Anwendung dem Sinn der Verweisung widersprechen,
 gelten die Vorschriften, auf die verwiesen wird, entsprechend.
-
 
 ### § 27
 

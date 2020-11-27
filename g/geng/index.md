@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 10 G v. 25.5.2009 I 1102
 
-
 ## Abschnitt 1 - Errichtung der Genossenschaft
-
-
 
 ### § 1 Wesen der Genossenschaft
 
@@ -49,12 +46,10 @@ Personenvereinigungen einschließlich der Körperschaften des
 
 zu dienen bestimmt ist.
 
-
 ### § 2 Haftung für Verbindlichkeiten
 
 Für die Verbindlichkeiten der Genossenschaft haftet den Gläubigern nur
 das Vermögen der Genossenschaft.
-
 
 ### § 3 Firma der Genossenschaft
 
@@ -64,16 +59,13 @@ fortgeführt wird, die Bezeichnung "eingetragene Genossenschaft" oder
 die Abkürzung "eG" enthalten. § 30 des Handelsgesetzbuchs gilt
 entsprechend.
 
-
 ### § 4 Mindestzahl der Mitglieder
 
 Die Zahl der Mitglieder muss mindestens drei betragen.
 
-
 ### § 5 Form der Satzung
 
 Die Satzung der Genossenschaft bedarf der schriftlichen Form.
-
 
 ### § 6 Mindestinhalt der Satzung
 
@@ -106,10 +98,6 @@ Die Satzung muss enthalten:
     Veröffentlichung in öffentlichen Blättern durch Gesetz oder Satzung
     vorgeschrieben ist.
 
-
-
-
-
 ### § 7 Weiterer zwingender Satzungsinhalt
 
 Die Satzung muss ferner bestimmen:
@@ -127,10 +115,6 @@ Die Satzung muss ferner bestimmen:
     in diese Rücklage einzustellen ist, und den Mindestbetrag der
     letzteren, bis zu dessen Erreichung die Einstellung zu erfolgen hat.
 
-
-
-
-
 ### § 7a Mehrere Geschäftsanteile; Sacheinlagen
 
 (1) Die Satzung kann bestimmen, dass sich ein Mitglied mit mehr als
@@ -147,7 +131,6 @@ richten.
 
 (3) Die Satzung kann Sacheinlagen als Einzahlungen auf den
 Geschäftsanteil zulassen.
-
 
 ### § 8 Satzungsvorbehalt für einzelne Bestimmungen
 
@@ -191,7 +174,6 @@ des Aufsichtrats vorschreiben. Die Zahl der investierenden Mitglieder
 im Aufsichtsrat darf ein Viertel der Aufsichtsratsmitglieder nicht
 überschreiten.
 
-
 ### § 8a Mindestkapital
 
 (1) In der Satzung kann ein Mindestkapital der Genossenschaft bestimmt
@@ -203,7 +185,6 @@ gekündigt haben, nicht unterschritten werden darf.
 Auseinandersetzungsguthabens ausgesetzt, solange durch die Auszahlung
 das Mindestkapital unterschritten würde. Das Nähere regelt die
 Satzung.
-
 
 ### § 9 Vorstand; Aufsichtsrat
 
@@ -223,7 +204,6 @@ der Genossenschaft andere juristische Personen oder
 Personengesellschaften an, gilt dies für deren zur Vertretung befugte
 Personen.
 
-
 ### § 10 Genossenschaftsregister
 
 (1) Die Satzung sowie die Mitglieder des Vorstands sind in das
@@ -233,7 +213,6 @@ die Genossenschaft ihren Sitz hat.
 (2) Andere Datensammlungen dürfen nicht unter Verwendung oder
 Beifügung der Bezeichnung "Genossenschaftsregister" in den Verkehr
 gebracht werden.
-
 
 ### § 11 Anmeldung der Genossenschaft
 
@@ -267,7 +246,6 @@ Abs. 2 des Handelsgesetzbuchs entsprechend.
 
 (5) (weggefallen)
 
-
 ### § 11a Prüfung durch das Gericht
 
 (1) Das Gericht hat zu prüfen, ob die Genossenschaft ordnungsmäßig
@@ -297,10 +275,6 @@ soweit diese Bestimmung, ihr Fehlen oder ihre Nichtigkeit
 
 3.  die Nichtigkeit der Satzung zur Folge hat.
 
-
-
-
-
 ### § 12 Veröffentlichung der Satzung
 
 (1) Die eingetragene Satzung ist von dem Gericht im Auszug zu
@@ -323,15 +297,10 @@ veröffentlichen.
 5.  die Zeitdauer der Genossenschaft, falls diese auf eine bestimmte Zeit
     beschränkt ist.
 
-
-
-
-
 ### § 13 Rechtszustand vor der Eintragung
 
 Vor der Eintragung in das Genossenschaftsregister ihres Sitzes hat die
 Genossenschaft die Rechte einer eingetragenen Genossenschaft nicht.
-
 
 ### § 14 Errichtung einer Zweigniederlassung
 
@@ -352,11 +321,9 @@ offensichtlich nicht errichtet worden.
 (3) Die vorstehenden Vorschriften gelten sinngemäß für die Aufhebung
 einer Zweigniederlassung.
 
-
 ### § 14a (weggefallen)
 
 -
-
 
 ### § 15 Beitrittserklärung
 
@@ -372,7 +339,6 @@ und hiervon unverzüglich zu benachrichtigen. Lehnt die Genossenschaft
 die Zulassung ab, hat sie dies dem Antragsteller unverzüglich unter
 Rückgabe seiner Beitrittserklärung mitzuteilen.
 
-
 ### § 15a Inhalt der Beitrittserklärung
 
 Die Beitrittserklärung muss die ausdrückliche Verpflichtung des
@@ -383,7 +349,6 @@ Nachschüsse zu leisten haben, so muss die Beitrittserklärung ferner
 die ausdrückliche Verpflichtung enthalten, die zur Befriedigung der
 Gläubiger erforderlichen Nachschüsse unbeschränkt oder bis zu der in
 der Satzung bestimmten Haftsumme zu zahlen.
-
 
 ### § 15b Beteiligung mit weiteren Geschäftsanteilen
 
@@ -399,7 +364,6 @@ voll eingezahlt sind.
 (3) Die Beteiligung mit weiteren Geschäftsanteilen wird mit der
 Beitrittserklärung nach Absatz 1 und der Zulassung durch die
 Genossenschaft wirksam. § 15 Abs. 2 gilt entsprechend.
-
 
 ### § 16 Änderung der Satzung
 
@@ -489,10 +453,7 @@ Gegenstand hat.
 (6) Der Beschluss hat keine rechtliche Wirkung, bevor er in das
 Genossenschaftsregister des Sitzes der Genossenschaft eingetragen ist.
 
-
 ## Abschnitt 2 - Rechtsverhältnisse der Genossenschaft und ihrer Mitglieder
-
-
 
 ### § 17 Juristische Person; Formkaufmann
 
@@ -503,14 +464,12 @@ Grundstücken erwerben, vor Gericht klagen und verklagt werden.
 (2) Genossenschaften gelten als Kaufleute im Sinne des
 Handelsgesetzbuchs.
 
-
 ### § 18 Rechtsverhältnis zwischen Genossenschaft und Mitgliedern
 
 Das Rechtsverhältnis der Genossenschaft und ihrer Mitglieder richtet
 sich zunächst nach der Satzung. Diese darf von den Bestimmungen dieses
 Gesetzes nur insoweit abweichen, als dies ausdrücklich für zulässig
 erklärt ist.
-
 
 ### § 19 Gewinn- und Verlustverteilung
 
@@ -530,7 +489,6 @@ Erreichung des Geschäftsanteils an die Mitglieder auszuzahlen ist. Bis
 zur Wiederergänzung eines durch Verlust verminderten Guthabens findet
 eine Auszahlung des Gewinns nicht statt.
 
-
 ### § 20 Ausschluss der Gewinnverteilung
 
 Die Satzung kann bestimmen, dass der Gewinn nicht verteilt, sondern
@@ -538,7 +496,6 @@ der gesetzlichen Rücklage und anderen Ergebnisrücklagen zugeschrieben
 wird. Die Satzung kann ferner bestimmen, dass der Vorstand einen Teil
 des Jahresüberschusses, höchstens jedoch die Hälfte, in die
 Ergebnisrücklagen einstellen kann.
-
 
 ### § 21 Verbot der Verzinsung der Geschäftsguthaben
 
@@ -550,7 +507,6 @@ Einzahlungen in höheren als den geschuldeten Beträgen geleistet hat.
 Einzahlungen geleistet haben, im Falle eines Verlustes andere
 Mitglieder nicht aus dem Grunde in Anspruch nehmen, dass von letzteren
 nur diese Einzahlungen geleistet sind.
-
 
 ### § 21a Ausnahmen vom Verbot der Verzinsung
 
@@ -567,7 +523,6 @@ teilweise durch die Ergebnisrücklagen, einen Jahresüberschuss und
 einen Gewinnvortrag nicht gedeckt ist, so dürfen in Höhe des nicht
 gedeckten Betrags Zinsen für dieses Geschäftsjahr nicht gezahlt
 werden.
-
 
 ### § 22 Herabsetzung des Geschäftsanteils; Verbot der Auszahlung des Geschäftsguthabens
 
@@ -604,7 +559,6 @@ Wird das Insolvenzverfahren über das Vermögen der Genossenschaft
 eröffnet, so tritt die Verjährung nicht vor Ablauf von sechs Monaten
 ab dem Zeitpunkt der Eröffnung ein.
 
-
 ### § 22a Nachschusspflicht
 
 (1) Wird die Verpflichtung der Mitglieder, Nachschüsse zur
@@ -615,7 +569,6 @@ aufgehoben, so gilt § 22 Abs. 1 bis 3 sinngemäß.
 Nachschüssen wirkt nicht gegenüber Mitgliedern, die bei Wirksamwerden
 der Änderung der Satzung bereits aus der Genossenschaft ausgeschieden
 waren.
-
 
 ### § 22b Zerlegung des Geschäftsanteils
 
@@ -630,7 +583,6 @@ Geschäftsanteilen beteiligt, die sich aus der Zerlegung ergibt. § 15b
 Abs. 3 ist nicht anzuwenden. Die Mitgliederliste ist unverzüglich zu
 berichtigen.
 
-
 ### § 23 Haftung der Mitglieder
 
 (1) Für die Verbindlichkeiten der Genossenschaft haften die Mitglieder
@@ -642,10 +594,7 @@ Eintritt eingegangenen Verbindlichkeiten.
 (3) Vereinbarungen, die gegen die vorstehenden Absätze verstoßen, sind
 unwirksam.
 
-
 ## Abschnitt 3 - Verfassung der Genossenschaft
-
-
 
 ### § 24 Vorstand
 
@@ -664,7 +613,6 @@ die Satzung bestimmen, dass der Vorstand aus einer Person besteht.
 (3) Die Mitglieder des Vorstands können besoldet oder unbesoldet sein.
 Ihre Bestellung ist zu jeder Zeit widerruflich, unbeschadet der
 Entschädigungsansprüche aus bestehenden Verträgen.
-
 
 ### § 25 Vertretung, Zeichnung durch Vorstandsmitglieder
 
@@ -687,7 +635,6 @@ der Genossenschaft befugt ist.
 
 (4) (weggefallen)
 
-
 ### § 25a Angaben auf Geschäftsbriefen
 
 (1) Auf allen Geschäftsbriefen gleichviel welcher Form, die an einen
@@ -708,7 +655,6 @@ eingefügt zu werden brauchen.
 (3) Bestellscheine gelten als Geschäftsbriefe im Sinne des Absatzes 1.
 Absatz 2 ist auf sie nicht anzuwenden.
 
-
 ### § 26 Vertretungsbefugnis des Vorstands
 
 (1) Die Genossenschaft wird durch die von dem Vorstand in ihrem Namen
@@ -722,7 +668,6 @@ werden sollte.
 Bescheinigung des Registergerichts, dass die darin zu bezeichnenden
 Personen als Mitglieder des Vorstands in das Genossenschaftsregister
 eingetragen sind.
-
 
 ### § 27 Beschränkung der Vertretungsbefugnis
 
@@ -739,7 +684,6 @@ einzelnen Orten stattfinden soll oder dass die Zustimmung der
 Generalversammlung, des Aufsichtsrats oder eines anderen Organs der
 Genossenschaft für einzelne Geschäfte erforderlich ist.
 
-
 ### § 28 Änderung des Vorstands und der Vertretungsbefugnis
 
 Jede Änderung des Vorstands oder der Vertretungsbefugnis eines
@@ -747,7 +691,6 @@ Vorstandsmitglieds hat der Vorstand zur Eintragung in das
 Genossenschaftsregister anzumelden. Der Anmeldung sind die Urkunden
 über die Änderung in Urschrift oder Abschrift beizufügen. Die
 Eintragung ist vom Gericht bekannt zu machen.
-
 
 ### § 29 Publizität des Genossenschaftsregisters
 
@@ -768,7 +711,6 @@ Dritter auf die Bekanntmachung der Änderung berufen, es sei denn, dass
 er die Unrichtigkeit kannte.
 
 (4) (weggefallen)
-
 
 ### § 30 Mitgliederliste
 
@@ -799,7 +741,6 @@ Mitgliederliste erfolgt, sind drei Jahre aufzubewahren. Die Frist
 beginnt mit dem Schluss des Kalenderjahres, in dem das Mitglied aus
 der Genossenschaft ausgeschieden ist.
 
-
 ### § 31 Einsicht in die Mitgliederliste
 
 (1) Die Mitgliederliste kann von jedem Mitglied sowie von einem
@@ -817,12 +758,10 @@ Genossenschaft ihn darauf hinzuweisen; eine Verarbeitung und Nutzung
 für andere Zwecke bedarf in diesem Fall der Zustimmung der
 Genossenschaft.
 
-
 ### § 32 Vorlage der Mitgliederliste beim Gericht
 
 Der Vorstand hat dem Registergericht auf dessen Verlangen eine
 Abschrift der Mitgliederliste unverzüglich einzureichen.
-
 
 ### § 33 Buchführung; Jahresabschluss und Lagebericht
 
@@ -845,9 +784,7 @@ Geschäftsguthaben und die Rücklagen nicht gedeckt ist, so hat der
 Vorstand unverzüglich die Generalversammlung einzuberufen und ihr dies
 anzuzeigen.
 
-
 ### (XXXX) §§ 33a bis 33i (weggefallen)
-
 
 ### § 34 Sorgfaltspflicht und Verantwortlichkeit der Vorstandsmitglieder
 
@@ -904,12 +841,10 @@ gegen die Vorstandsmitglieder aus.
 
 (6) Die Ansprüche aus diesen Vorschriften verjähren in fünf Jahren.
 
-
 ### § 35 Stellvertreter von Vorstandsmitgliedern
 
 Die für Mitglieder des Vorstands gegebenen Vorschriften gelten auch
 für Stellvertreter von Mitgliedern.
-
 
 ### § 36 Aufsichtsrat
 
@@ -931,7 +866,6 @@ Mehrheit, die mindestens drei Viertel der abgegebenen Stimmen umfasst.
 Mitglied des Aufsichtsrats über Sachverstand in Rechnungslegung oder
 Abschlussprüfung verfügen.
 
-
 ### § 37 Unvereinbarkeit von Ämtern
 
 (1) Die Mitglieder des Aufsichtsrats dürfen nicht zugleich
@@ -946,7 +880,6 @@ Mitglied seine Tätigkeit als Aufsichtsratsmitglied nicht ausüben.
 
 (2) Scheiden aus dem Vorstand Mitglieder aus, so dürfen dieselben
 nicht vor erteilter Entlastung in den Aufsichtsrat gewählt werden.
-
 
 ### § 38 Aufgaben des Aufsichtsrats
 
@@ -983,7 +916,6 @@ bestimmt.
 (4) Die Mitglieder des Aufsichtsrats können ihre Aufgaben nicht durch
 andere Personen wahrnehmen lassen.
 
-
 ### § 39 Vertretungsbefugnis des Aufsichtsrats
 
 (1) Der Aufsichtsrat vertritt die Genossenschaft gegenüber den
@@ -1003,7 +935,6 @@ Vorstandsmitglieds als Bürgen für eine Kreditgewährung.
 Genossenschaft durch Bevollmächtigte vertreten, welche von der
 Generalversammlung gewählt werden.
 
-
 ### § 40 Vorläufige Amtsenthebung von Vorstandsmitgliedern
 
 Der Aufsichtsrat ist befugt, nach seinem Ermessen von der
@@ -1012,13 +943,11 @@ bis zur Entscheidung der unverzüglich einzuberufenden
 Generalversammlung, von ihren Geschäften zu entheben und wegen
 einstweiliger Fortführung derselben das Erforderliche zu veranlassen.
 
-
 ### § 41 Sorgfaltspflicht und Verantwortlichkeit der Aufsichtsratsmitglieder
 
 Für die Sorgfaltspflicht und Verantwortlichkeit der
 Aufsichtsratsmitglieder gilt § 34 über die Verantwortlichkeit der
 Vorstandsmitglieder sinngemäß.
-
 
 ### § 42 Prokura; Handlungsvollmacht
 
@@ -1029,7 +958,6 @@ Handelsregister tritt die Eintragung in das Genossenschaftsregister. §
 
 (2) Die Genossenschaft kann auch Handlungsvollmacht erteilen. § 54 des
 Handelsgesetzbuchs ist anzuwenden.
-
 
 ### § 43 Generalversammlung; Stimmrecht der Mitglieder
 
@@ -1106,7 +1034,6 @@ bestimmten Fällen Mitglieder des Aufsichtsrats im Wege der Bild- und
 Tonübertragung an der Generalversammlung teilnehmen können und dass
 die Generalversammlung in Bild und Ton übertragen werden darf.
 
-
 ### § 43a Vertreterversammlung
 
 (1) Bei Genossenschaften mit mehr als 1.500 Mitgliedern kann die
@@ -1174,7 +1101,6 @@ dies von mindestens einem Zehntel der Mitglieder oder dem in der
 Satzung hierfür bestimmten geringeren Teil in Textform beantragt wird.
 § 45 Abs. 3 gilt entsprechend.
 
-
 ### § 44 Einberufung der Generalversammlung
 
 (1) Die Generalversammlung wird durch den Vorstand einberufen, soweit
@@ -1184,7 +1110,6 @@ befugt sind.
 (2) Eine Generalversammlung ist außer in den in der Satzung oder
 diesem Gesetz ausdrücklich bestimmten Fällen einzuberufen, wenn dies
 im Interesse der Genossenschaft erforderlich erscheint.
-
 
 ### § 45 Einberufung auf Verlangen einer Minderheit
 
@@ -1212,7 +1137,6 @@ Generalversammlung oder zur Ankündigung des Gegenstandes ermächtigen.
 Mit der Einberufung oder Ankündigung ist die gerichtliche Ermächtigung
 bekannt zu machen.
 
-
 ### § 46 Form und Frist der Einberufung
 
 (1) Die Generalversammlung muss in der durch die Satzung bestimmten
@@ -1233,7 +1157,6 @@ handelt.
 
 (3) Zur Stellung von Anträgen und zu Verhandlungen ohne
 Beschlussfassung bedarf es der Ankündigung nicht.
-
 
 ### § 47 Niederschrift
 
@@ -1260,7 +1183,6 @@ vertretenen Mitglied ist dessen Stimmenzahl zu vermerken.
 nehmen. Ferner ist jedem Mitglied auf Verlangen eine Abschrift der
 Niederschrift einer Vertreterversammlung unverzüglich zur Verfügung zu
 stellen. Die Niederschrift ist von der Genossenschaft aufzubewahren.
-
 
 ### § 48 Zuständigkeit der Generalversammlung
 
@@ -1297,12 +1219,10 @@ Ein vom Vorstand auf Grund eines Beschlusses nach den Sätzen 1 bis 3
 aufgestellter Abschluss darf erst nach seiner Billigung durch den
 Aufsichtsrat offen gelegt werden.
 
-
 ### § 49 Beschränkungen für Kredite
 
 Die Generalversammlung hat die Beschränkungen festzusetzen, die bei
 Gewährung von Kredit an denselben Schuldner eingehalten werden sollen.
-
 
 ### § 50 Bestimmung der Einzahlungen auf den Geschäftsanteil
 
@@ -1310,7 +1230,6 @@ Soweit die Satzung die Mitglieder zu Einzahlungen auf den
 Geschäftsanteil verpflichtet, ohne dieselben nach Betrag und Zeit
 festzusetzen, unterliegt ihre Festsetzung der Beschlussfassung durch
 die Generalversammlung.
-
 
 ### § 51 Anfechtung von Beschlüssen der Generalversammlung
 
@@ -1352,15 +1271,11 @@ dem Registergericht das Urteil einzureichen und dessen Eintragung zu
 beantragen. Eine gerichtliche Bekanntmachung der Eintragung erfolgt
 nur, wenn der eingetragene Beschluss veröffentlicht worden war.
 
-
 ### § 52 (weggefallen)
 
 -
 
-
 ## Abschnitt 4 - Prüfung und Prüfungsverbände
-
-
 
 ### § 53 Pflichtprüfung
 
@@ -1385,12 +1300,10 @@ anzuwenden.
 264d des Handelsgesetzbuchs sind und keinen Aufsichtsrat haben, gilt §
 324 des Handelsgesetzbuchs entsprechend.
 
-
 ### § 54 Pflichtmitgliedschaft im Prüfungsverband
 
 Die Genossenschaft muss einem Verband angehören, dem das Prüfungsrecht
 verliehen ist (Prüfungsverband).
-
 
 ### § 54a Wechsel des Prüfungsverbandes
 
@@ -1404,7 +1317,6 @@ Registergericht nach, dass sie die Mitgliedschaft erworben hat, so hat
 das Registergericht von Amts wegen nach Anhörung des Vorstands die
 Auflösung der Genossenschaft auszusprechen. § 80 Abs. 2 findet
 Anwendung.
-
 
 ### § 55 Prüfung durch den Verband
 
@@ -1484,7 +1396,6 @@ kapitalmarktorientiert im Sinn des § 264d des Handelsgesetzbuchs ist,
 hat er einen Transparenzbericht zu veröffentlichen. § 55c der
 Wirtschaftsprüferordnung gilt entsprechend.
 
-
 ### § 56 Ruhen des Prüfungsrechts des Verbandes
 
 (1) Das Prüfungsrecht des Verbandes ruht, wenn der Verband über keine
@@ -1507,7 +1418,6 @@ vom Verband gestellt werden.
 bestimmen sich nach den für den Verband geltenden Vorschriften dieses
 Gesetzes. Der Prüfer hat dem Verband eine Abschrift seines
 Prüfungsberichts vorzulegen.
-
 
 ### § 57 Prüfungsverfahren
 
@@ -1543,7 +1453,6 @@ Rechte und Pflichten des Aufsichtsratsvorsitzenden nach den Absätzen 2
 bis 4 durch einen von der Generalversammlung aus ihrer Mitte gewählten
 Bevollmächtigten wahrgenommen.
 
-
 ### § 58 Prüfungsbericht
 
 (1) Der Verband hat über das Ergebnis der Prüfung schriftlich zu
@@ -1568,7 +1477,6 @@ Prüfungsberichts zu beraten. Verband und Prüfer sind berechtigt, an
 der Sitzung teilzunehmen; der Vorstand ist verpflichtet, den Verband
 von der Sitzung in Kenntnis zu setzen.
 
-
 ### § 59 Prüfungsbescheinigung; Befassung der Generalversammlung
 
 (1) Der Vorstand hat eine Bescheinigung des Verbandes, dass die
@@ -1587,7 +1495,6 @@ teilzunehmen; auf seinen Antrag oder auf Beschluss der
 Generalversammlung ist der Bericht ganz oder in bestimmten Teilen zu
 verlesen.
 
-
 ### § 60 Einberufungsrecht des Prüfungsverbandes
 
 (1) Gewinnt der Verband die Überzeugung, dass die Beschlussfassung
@@ -1602,12 +1509,10 @@ festgestellter Mängel verhandelt und beschlossen werden soll.
 (2) In der von dem Verband einberufenen Generalversammlung führt eine
 vom Verband bestimmte Person den Vorsitz.
 
-
 ### § 61 Vergütung des Prüfungsverbandes
 
 Der Verband hat gegen die Genossenschaft Anspruch auf Erstattung
 angemessener barer Auslagen und auf Vergütung für seine Leistung.
-
 
 ### § 62 Verantwortlichkeit der Prüfungsorgane
 
@@ -1645,7 +1550,6 @@ ausgeschlossen noch beschränkt werden; das Gleiche gilt von der
 Haftung des Verbandes für die Personen, deren er sich zur Vornahme der
 Prüfung bedient.
 
-
 ### § 63 Zuständigkeit für Verleihung des Prüfungsrechts
 
 Das Prüfungsrecht wird dem Verband durch die zuständige oberste
@@ -1655,7 +1559,6 @@ Zuständigkeiten nach Satz 1 und § 64 Abs. 1 durch Rechtsverordnung auf
 eine andere Behörde zu übertragen. Mehrere Länder können die
 Errichtung einer gemeinsamen Behörde oder die Ausdehnung der
 Zuständigkeit einer Behörde über die Landesgrenzen hinaus vereinbaren.
-
 
 ### § 63a Verleihung des Prüfungsrechts
 
@@ -1668,7 +1571,6 @@ der Erfüllung von Auflagen und insbesondere davon abhängig machen,
 dass der Verband sich gegen Schadensersatzansprüche aus der
 Prüfungstätigkeit in ausreichender Höhe versichert oder den Nachweis
 führt, dass eine andere ausreichende Sicherstellung erfolgt ist.
-
 
 ### § 63b Rechtsform, Mitglieder und Zweck des Prüfungsverbandes
 
@@ -1709,7 +1611,6 @@ durch Wirtschaftsprüfer nicht erforderlich ist.
 (6) Mitgliederversammlungen des Verbandes dürfen nur innerhalb des
 Verbandsbezirkes abgehalten werden.
 
-
 ### § 63c Satzung des Prüfungsverbandes
 
 (1) Die Satzung des Verbandes muss enthalten:
@@ -1747,7 +1648,6 @@ sonstigen Organe des Verbandes.
 Bestimmungen zum Gegenstand haben, sind der Aufsichtsbehörde
 unverzüglich anzuzeigen.
 
-
 ### § 63d Einreichungen bei Gericht
 
 Der Verband hat den Registergerichten, in deren Bezirk die ihm
@@ -1755,7 +1655,6 @@ angehörenden Genossenschaften ihren Sitz haben, die Satzung mit einer
 beglaubigten Abschrift der Verleihungsurkunde sowie jährlich im Monat
 Januar ein Verzeichnis der ihm angehörenden Genossenschaften
 einzureichen.
-
 
 ### § 63e Qualitätskontrolle für Prüfungsverbände
 
@@ -1794,7 +1693,6 @@ Qualitätskontrolle oder über eine Ausnahmegenehmigung verfügen; im
 Falle einer Ausnahmegenehmigung ist die Qualitätskontrolle spätestens
 drei Jahre nach Beginn der ersten Prüfung durchzuführen.
 
-
 ### § 63f Prüfer für Qualitätskontrolle
 
 (1) Die Qualitätskontrolle wird durch Prüfungsverbände nach Maßgabe
@@ -1828,7 +1726,6 @@ verantwortliche Wirtschaftsprüfer die Voraussetzungen des Satzes 1 Nr.
 (3) § 57a Abs. 4 der Wirtschaftsprüferordnung ist entsprechend
 anzuwenden.
 
-
 ### § 63g Durchführung der Qualitätskontrolle
 
 (1) Der Prüfungsverband muss Mitglied der Wirtschaftsprüferkammer nach
@@ -1858,7 +1755,6 @@ nach § 57a Abs. 6 Satz 9 der Wirtschaftsprüferordnung versagt oder
 nach § 57e Abs. 2 Satz 3, 4 und 6 oder Abs. 3 Satz 2 der
 Wirtschaftsprüferordnung widerrufen worden ist.
 
-
 ### § 63h Sonderuntersuchungen
 
 Führt ein Prüfungsverband die gesetzlich vorgeschriebene
@@ -1872,7 +1768,6 @@ Satz 1, Abs. 3, 5 Satz 1, Abs. 6 Satz 5, Abs. 8, 9, 10 und 11 und §
 66b der Wirtschaftsprüferordnung gelten entsprechend. Die
 Wirtschaftsprüferkammer hat der Aufsichtsbehörde das Ergebnis der
 Sonderuntersuchung mitzuteilen.
-
 
 ### § 64 Staatsaufsicht
 
@@ -1915,7 +1810,6 @@ Verordnung die Gebührentatbestände sowie die Gebührenhöhe festzulegen.
 Sie können die Ermächtigung auf die zuständigen obersten
 Landesbehörden übertragen.
 
-
 ### § 64a Entziehung des Prüfungsrechts
 
 Die Aufsichtsbehörde kann dem Verband das Prüfungsrecht entziehen,
@@ -1923,7 +1817,6 @@ wenn der Verband nicht mehr die Gewähr für die Erfüllung seiner
 Aufgaben bietet. Vor der Entziehung ist der Vorstand des Verbandes
 anzuhören. Die Entziehung ist den in § 63d genannten Gerichten
 mitzuteilen.
-
 
 ### § 64b Bestellung eines Prüfungsverbandes
 
@@ -1933,16 +1826,12 @@ Prüfungsverbänden übertragenen Aufgaben bestellen. Dabei sollen die
 fachliche Eigenart und der Sitz der Genossenschaft berücksichtigt
 werden.
 
-
 ### § 64c Prüfung aufgelöster Genossenschaften
 
 Auch aufgelöste Genossenschaften unterliegen den Vorschriften dieses
 Abschnitts.
 
-
 ## Abschnitt 5 - Beendigung der Mitgliedschaft
-
-
 
 ### § 65 Kündigung des Mitglieds
 
@@ -1981,7 +1870,6 @@ Genossenschaft in das Genossenschaftsregister eingetragen wird.
 (5) Vereinbarungen, die gegen die vorstehenden Absätze verstoßen, sind
 unwirksam.
 
-
 ### § 66 Kündigung durch Gläubiger
 
 (1) Der Gläubiger eines Mitglieds, der die Pfändung und Überweisung
@@ -1998,7 +1886,6 @@ Ausfertigung des Titels und der Bescheinigungen über den fruchtlosen
 Verlauf der Zwangsvollstreckung in das Vermögen des Schuldners
 beigefügt werden.
 
-
 ### § 67 Beendigung der Mitgliedschaft wegen Aufgabe des Wohnsitzes
 
 Ist nach der Satzung die Mitgliedschaft an den Wohnsitz innerhalb
@@ -2007,7 +1894,6 @@ Wohnsitz in diesem Bezirk aufgibt, seine Mitgliedschaft ohne
 Einhaltung einer Kündigungsfrist zum Schluss des Geschäftsjahres
 kündigen; die Kündigung bedarf der Schriftform. Über die Aufgabe des
 Wohnsitzes ist die Bescheinigung einer Behörde vorzulegen.
-
 
 ### § 67a Außerordentliches Kündigungsrecht
 
@@ -2041,7 +1927,6 @@ Kenntniserlangung streitig, trägt die Genossenschaft die Beweislast.
 Im Falle der Kündigung wirkt die Änderung der Satzung weder für noch
 gegen das Mitglied.
 
-
 ### § 67b Kündigung einzelner Geschäftsanteile
 
 (1) Ein Mitglied, das mit mehreren Geschäftsanteilen beteiligt ist,
@@ -2054,7 +1939,6 @@ Geschäftsanteilen Voraussetzung für eine von dem Mitglied in Anspruch
 genommene Leistung der Genossenschaft ist.
 
 (2) § 65 Abs. 2 bis 5 gilt sinngemäß.
-
 
 ### § 68 Ausschluss eines Mitglieds
 
@@ -2069,7 +1953,6 @@ Mitteilung das Recht auf Teilnahme an der Generalversammlung oder der
 Vertreterversammlung sowie seine Mitgliedschaft im Vorstand oder
 Aufsichtsrat.
 
-
 ### § 69 Eintragung in die Mitgliederliste
 
 In den Fällen der §§ 65 bis 67a und 68 ist der Zeitpunkt der
@@ -2079,10 +1962,7 @@ verbliebenen weiteren Geschäftsanteile unverzüglich in die
 Mitgliederliste einzutragen; das Mitglied ist hiervon unverzüglich zu
 benachrichtigen.
 
-
 ### (XXXX) §§ 70 bis 72 (weggefallen)
-
-
 
 ### § 73 Auseinandersetzung mit ausgeschiedenem Mitglied
 
@@ -2119,11 +1999,9 @@ von Absatz 2 Satz 2 regeln; eine Bestimmung, nach der über
 Voraussetzungen oder Zeitpunkt der Auszahlung ausschließlich der
 Vorstand zu entscheiden hat, ist unwirksam.
 
-
 ### § 74 (weggefallen)
 
 -
-
 
 ### § 75 Fortdauer der Mitgliedschaft bei Auflösung der Genossenschaft
 
@@ -2134,7 +2012,6 @@ Genossenschaft beschlossen, gilt die Beendigung der Mitgliedschaft als
 zum Schluss des Geschäftsjahres erfolgt, in dem der Beschluss über die
 Fortsetzung der Genossenschaft in das Genossenschaftsregister
 eingetragen ist.
-
 
 ### § 76 Übertragung des Geschäftsguthabens
 
@@ -2178,7 +2055,6 @@ Zuschreibung des Geschäftsguthabens des Veräußerers den Gesamtbetrag
 der Geschäftsanteile, mit denen der Erwerber beteiligt ist oder sich
 beteiligt, nicht übersteigt.
 
-
 ### § 77 Tod des Mitglieds
 
 (1) Mit dem Tod eines Mitglieds geht die Mitgliedschaft auf den Erben
@@ -2206,7 +2082,6 @@ sind unverzüglich von der Eintragung zu benachrichtigen.
 75, im Falle der Fortsetzung der Mitgliedschaft gilt § 76 Abs. 4
 entsprechend.
 
-
 ### § 77a Auflösung oder Erlöschen einer juristischen Person oder Personengesellschaft
 
 Wird eine juristische Person oder eine Personengesellschaft aufgelöst
@@ -2219,10 +2094,7 @@ ist unverzüglich in die Mitgliederliste einzutragen; das Mitglied oder
 der Gesamtrechtsnachfolger ist hiervon unverzüglich zu
 benachrichtigen.
 
-
 ## Abschnitt 6 - Auflösung und Nichtigkeit der Genossenschaft
-
-
 
 ### § 78 Auflösung durch Beschluss der Generalversammlung
 
@@ -2234,9 +2106,7 @@ kann eine größere Mehrheit und weitere Erfordernisse bestimmen.
 (2) Die Auflösung ist durch den Vorstand unverzüglich zur Eintragung
 in das Genossenschaftsregister anzumelden.
 
-
 ### (XXXX) §§ 78a und 78b (weggefallen)
-
 
 ### § 79 Auflösung durch Zeitablauf
 
@@ -2244,7 +2114,6 @@ in das Genossenschaftsregister anzumelden.
 beschränkt, ist sie mit dem Ablauf der bestimmten Zeit aufgelöst.
 
 (2) § 78 Abs. 2 ist anzuwenden.
-
 
 ### § 79a Fortsetzung der aufgelösten Genossenschaft
 
@@ -2281,7 +2150,6 @@ der noch nicht mit der Verteilung des nach der Berichtigung der
 Schulden verbleibenden Vermögens der Genossenschaft an die Mitglieder
 begonnen worden war.
 
-
 ### § 80 Auflösung durch das Gericht
 
 (1) Hat die Genossenschaft weniger als drei Mitglieder, hat das
@@ -2295,7 +2163,6 @@ Mitglieder außer Betracht.
 Gegen den Beschluss steht der Genossenschaft die sofortige Beschwerde
 nach der Zivilprozessordnung zu. Mit der Rechtskraft des Beschlusses
 ist die Genossenschaft aufgelöst.
-
 
 ### § 81 Auflösung auf Antrag der obersten Landesbehörde
 
@@ -2321,7 +2188,6 @@ nötigen Anordnungen treffen.
 mitzuteilen. Dieses trägt sie, soweit eintragungspflichtige
 Rechtsverhältnisse betroffen sind, in das Genossenschaftsregister ein.
 
-
 ### § 81a Auflösung bei Insolvenz
 
 Die Genossenschaft wird aufgelöst
@@ -2333,10 +2199,6 @@ Die Genossenschaft wird aufgelöst
 2.  durch die Löschung wegen Vermögenslosigkeit nach § 394 des Gesetzes
     über das Verfahren in Familiensachen und in den Angelegenheiten der
     freiwilligen Gerichtsbarkeit.
-
-
-
-
 
 ### § 82 Eintragung der Auflösung
 
@@ -2350,7 +2212,6 @@ der Genossenschaft zu melden.
 
 (3) Im Falle der Löschung der Genossenschaft wegen Vermögenslosigkeit
 sind die Absätze 1 und 2 nicht anzuwenden.
-
 
 ### § 83 Bestellung und Abberufung der Liquidatoren
 
@@ -2376,7 +2237,6 @@ Löschung herausstellt, dass Vermögen vorhanden ist, das der Verteilung
 unterliegt. Die Liquidatoren sind auf Antrag eines Beteiligten durch
 das Gericht zu ernennen.
 
-
 ### § 84 Anmeldung durch Liquidatoren
 
 (1) Die ersten Liquidatoren sowie ihre Vertretungsbefugnis hat der
@@ -2390,7 +2250,6 @@ sowie über die Vertretungsbefugnis beizufügen.
 Liquidatoren geschieht von Amts wegen.
 
 (3) (weggefallen)
-
 
 ### § 85 Zeichnung der Liquidatoren
 
@@ -2406,12 +2265,10 @@ Eintragung in das Genossenschaftsregister anzumelden.
 Firma einen die Liquidation andeutenden Zusatz und ihre
 Namensunterschrift hinzufügen.
 
-
 ### § 86 Publizität des Genossenschaftsregisters
 
 Die Vorschriften in § 29 über das Verhältnis zu dritten Personen
 finden bezüglich der Liquidatoren Anwendung.
-
 
 ### § 87 Rechtsverhältnisse im Liquidationsstadium
 
@@ -2424,7 +2281,6 @@ dem Wesen der Liquidation nichts anderes ergibt.
 (2) Der Gerichtsstand, welchen die Genossenschaft zur Zeit ihrer
 Auflösung hatte, bleibt bis zur vollzogenen Verteilung des Vermögens
 bestehen.
-
 
 ### § 87a Zahlungspflichten bei Überschuldung
 
@@ -2462,12 +2318,10 @@ Mehrheit und weitere Erfordernisse bestimmen.
 unter Berücksichtigung der weiteren Zahlungspflichten die Schulden
 nicht mehr deckt.
 
-
 ### § 87b Verbot der Erhöhung von Geschäftsanteil oder Haftsumme
 
 Nach Auflösung der Genossenschaft können weder der Geschäftsanteil
 noch die Haftsumme erhöht werden.
-
 
 ### § 88 Aufgaben der Liquidatoren
 
@@ -2477,7 +2331,6 @@ Forderungen derselben einzuziehen und das Vermögen der Genossenschaft
 in Geld umzusetzen; sie haben die Genossenschaft gerichtlich und
 außergerichtlich zu vertreten. Zur Beendigung schwebender Geschäfte
 können die Liquidatoren auch neue Geschäfte eingehen.
-
 
 ### § 88a Abtretbarkeit der Ansprüche auf rückständige Einzahlungen und anteilige Fehlbeträge
 
@@ -2491,7 +2344,6 @@ genossenschaftliche Zentralbank oder an eine der Prüfung durch einen
 Prüfungsverband unterstehende Stelle abgetreten wird und schutzwürdige
 Belange der Mitglieder nicht entgegenstehen.
 
-
 ### § 89 Rechte und Pflichten der Liquidatoren
 
 Die Liquidatoren haben die aus den §§ 26, 27, 33 Abs. 1 Satz 1, §§ 34,
@@ -2502,7 +2354,6 @@ Bilanz (Eröffnungsbilanz) sowie für den Schluss eines jeden Jahres
 einen Jahresabschluss und erforderlichenfalls einen Lagebericht
 aufzustellen. Die Eröffnungsbilanz ist zu veröffentlichen; die
 Bekanntmachung ist zu dem Genossenschaftsregister einzureichen.
-
 
 ### § 90 Voraussetzung für Vermögensverteilung
 
@@ -2517,7 +2368,6 @@ Gläubiger zu hinterlegen. Ist die Berichtigung einer Verbindlichkeit
 zur Zeit nicht ausführbar oder ist eine Verbindlichkeit streitig, so
 darf die Verteilung des Vermögens nur erfolgen, wenn dem Gläubiger
 Sicherheit geleistet ist.
-
 
 ### § 91 Verteilung des Vermögens
 
@@ -2540,7 +2390,6 @@ hinaus ergeben, sind nach Köpfen zu verteilen.
 (3) Durch die Satzung kann die Verteilung des Vermögens ausgeschlossen
 oder ein anderes Verhältnis für die Verteilung bestimmt werden.
 
-
 ### § 92 Unverteilbares Reinvermögen
 
 Ein bei der Auflösung der Genossenschaft verbleibendes unverteilbares
@@ -2549,7 +2398,6 @@ natürlichen oder juristischen Person zu einem bestimmten
 Verwendungszweck überwiesen ist, an diejenige Gemeinde, in der die
 Genossenschaft ihren Sitz hatte. Die Zinsen dieses Fonds sind zu
 gemeinnützigen Zwecken zu verwenden.
-
 
 ### § 93 Aufbewahrung von Unterlagen
 
@@ -2561,9 +2409,7 @@ benannt, wird sie durch das Gericht bestimmt. Das Gericht kann die
 ehemaligen Mitglieder und deren Rechtsnachfolger sowie die Gläubiger
 der Genossenschaft ermächtigen, die Bücher und Schriften einzusehen.
 
-
 ### (XXXX) §§ 93a bis 93s (weggefallen)
-
 
 ### § 94 Klage auf Nichtigerklärung
 
@@ -2572,7 +2418,6 @@ ist eine dieser Bestimmungen nichtig, so kann jedes Mitglied der
 Genossenschaft und jedes Vorstands- oder Aufsichtsratsmitglied im Wege
 der Klage beantragen, dass die Genossenschaft für nichtig erklärt
 werde.
-
 
 ### § 95 Nichtigkeitsgründe; Heilung von Mängeln
 
@@ -2599,13 +2444,11 @@ durch die zur Heilung des Mangels beschlossenen Bestimmungen der
 Gesamtbetrag der von den einzelnen Mitgliedern übernommenen Haftung
 nicht vermindert werden.
 
-
 ### § 96 Verfahren bei Nichtigkeitsklage
 
 Das Verfahren über die Klage auf Nichtigkeitserklärung und die
 Wirkungen des Urteils bestimmen sich nach den Vorschriften des § 51
 Abs. 3 bis 5.
-
 
 ### § 97 Wirkung der Eintragung der Nichtigkeit
 
@@ -2623,10 +2466,7 @@ Genossenschaft übernommen haben, sind sie verpflichtet, die zur
 Befriedigung der Gläubiger erforderlichen Beträge nach Maßgabe der
 Vorschriften des Abschnitts 7 zu leisten.
 
-
 ## Abschnitt 7 - Insolvenzverfahren; Nachschusspflicht der Mitglieder
-
-
 
 ### § 98 Eröffnung des Insolvenzverfahrens
 
@@ -2644,10 +2484,6 @@ Insolvenzverfahrens, wenn
 
 3.  die Genossenschaft aufgelöst ist.
 
-
-
-
-
 ### § 99 Zahlungsverbot bei Zahlungsunfähigkeit oder Überschuldung
 
 Der Vorstand darf keine Zahlung mehr leisten, sobald die
@@ -2658,17 +2494,14 @@ Zahlungen, die auch nach diesem Zeitpunkt mit der Sorgfalt eines
 ordentlichen und gewissenhaften Geschäftsleiters einer Genossenschaft
 vereinbar sind.
 
-
 ### § 100 (weggefallen)
 
 -
-
 
 ### § 101 Wirkung der Eröffnung des Insolvenzverfahrens
 
 Durch die Eröffnung des Insolvenzverfahrens wird die Genossenschaft
 aufgelöst.
-
 
 ### § 102 Eintragung der Eröffnung des Insolvenzverfahrens
 
@@ -2701,10 +2534,7 @@ Genossenschaftsregister einzutragen. Das Gleiche gilt für
 
 (2) Die Eintragungen nach Absatz 1 werden nicht bekannt gemacht.
 
-
 ### (XXXX) §§ 103 und 104 (weggefallen)
-
-
 
 ### § 105 Nachschusspflicht der Mitglieder
 
@@ -2735,7 +2565,6 @@ Genossenschaft aufrechnen, sofern die Voraussetzungen vorliegen, unter
 denen es als Insolvenzgläubiger Befriedigung wegen der Forderung aus
 den Nachschüssen zu beanspruchen hat.
 
-
 ### § 106 Vorschussberechnung
 
 (1) Der Insolvenzverwalter hat unverzüglich, nachdem die
@@ -2759,7 +2588,6 @@ eine beglaubigte Abschrift der Mitgliederliste und, sofern das
 Genossenschaftsregister nicht bei dem Insolvenzgericht geführt wird,
 eine beglaubigte Abschrift der Satzung beizufügen.
 
-
 ### § 107 Gerichtliche Erklärung über die Vorschussberechnung
 
 (1) Zur Erklärung über die Berechnung bestimmt das Gericht einen
@@ -2770,7 +2598,6 @@ aufgeführten Mitglieder sind besonders zu laden.
 (2) Die Berechnung ist spätestens drei Tage vor dem Termin auf der
 Geschäftsstelle zur Einsicht der Beteiligten niederzulegen. Hierauf
 ist in der Bekanntmachung und den Ladungen hinzuweisen.
-
 
 ### § 108 Erklärungstermin
 
@@ -2789,7 +2616,6 @@ niederzulegen.
 
 (3) Gegen die Entscheidung findet ein Rechtsmittel nicht statt.
 
-
 ### § 108a Abtretbarkeit von Ansprüchen der Genossenschaft
 
 (1) Der Insolvenzverwalter kann die Ansprüche der Genossenschaft auf
@@ -2801,7 +2627,6 @@ Genehmigung des Insolvenzgerichts abtreten.
 nur dann erteilt werden, wenn der Anspruch an eine genossenschaftliche
 Zentralbank oder an eine der Prüfung durch einen Prüfungsverband
 unterstehende Stelle abgetreten wird.
-
 
 ### § 109 Einziehung der Vorschüsse
 
@@ -2820,12 +2645,10 @@ Zuständigkeit der Amtsgerichte nicht gehört, das Landgericht
 ausschließlich zuständig, zu dessen Bezirk das Insolvenzgericht
 gehört.
 
-
 ### § 110 Hinterlegung oder Anlage der Vorschüsse
 
 Die eingezogenen Beträge sind nach Maßgabe des § 149 der
 Insolvenzordnung zu hinterlegen oder anzulegen.
-
 
 ### § 111 Anfechtungsklage
 
@@ -2839,7 +2662,6 @@ geltend zu machen außerstande war.
 
 (2) Das rechtskräftige Urteil wirkt für und gegen alle
 beitragspflichtigen Mitglieder.
-
 
 ### § 112 Verfahren bei Anfechtungsklage
 
@@ -2867,7 +2689,6 @@ Kosten behandelt und gelten als Kosten einer Instanz.
 der Zwangsvollstreckung und die Aufhebung der Vollstreckungsmaßregeln
 finden entsprechende Anwendung.
 
-
 ### § 112a Vergleich über Nachschüsse
 
 (1) Der Insolvenzverwalter kann über den von dem Mitglied zu
@@ -2878,7 +2699,6 @@ Insolvenzgericht.
 
 (2) Der Vergleich wird hinfällig, wenn das Mitglied mit seiner
 Erfüllung in Verzug gerät.
-
 
 ### § 113 Zusatzberechnung
 
@@ -2891,7 +2711,6 @@ Vorschriften der §§ 106 bis 112a gelten auch für die Zusatzberechnung.
 
 (2) Die Aufstellung einer Zusatzberechnung ist erforderlichenfalls zu
 wiederholen.
-
 
 ### § 114 Nachschussberechnung
 
@@ -2915,7 +2734,6 @@ leisten haben (Nachschussberechnung).
 bis 109, 111 bis 113, der Vorschrift des § 106 Abs. 2 mit der Maßgabe,
 dass auf Mitglieder, deren Unvermögen zur Leistung von Beiträgen sich
 herausgestellt hat, Beiträge nicht verteilt werden.
-
 
 ### § 115 Nachtragsverteilung
 
@@ -2941,7 +2759,6 @@ Anteile zur Verteilung unter die übrigen Gläubiger frei.
 Überschüsse hat der Insolvenzverwalter an die Mitglieder
 zurückzuzahlen.
 
-
 ### § 115a Abschlagsverteilung der Nachschüsse
 
 (1) Nimmt die Abwicklung des Insolvenzverfahrens voraussichtlich
@@ -2959,7 +2776,6 @@ Erstattung eingezogener Beträge an Mitglieder nach § 105 Abs. 4 oder §
 aus der Insolvenzmasse ergeben, so sind die zuviel gezahlten Beträge
 den Mitgliedern aus dem Überschuss zu erstatten.
 
-
 ### § 115b Nachschusspflicht ausgeschiedener Mitglieder
 
 Sobald mit Sicherheit anzunehmen ist, dass die in § 105 Abs. 1
@@ -2971,7 +2787,6 @@ Insolvenzverfahrens oder nach diesem Antrag ausgeschiedenen
 Mitgliedern, welche nicht schon nach § 75 oder § 76 Abs. 4 der
 Nachschusspflicht unterliegen, nach Maßgabe des § 105 zur
 Insolvenzmasse zu leisten.
-
 
 ### § 115c Beitragspflicht ausgeschiedener Mitglieder
 
@@ -2985,7 +2800,6 @@ Unvermögen einzelner zur Leistung von Beiträgen vorauszusehen ist.
 (3) Im Übrigen finden die Vorschriften in § 106 Abs. 3, §§ 107 bis
 109, 111 bis 113 und 115 entsprechende Anwendung.
 
-
 ### § 115d Einziehung und Erstattung von Nachschüssen
 
 (1) Durch die Vorschriften der §§ 115b, 115c wird die Einziehung der
@@ -2997,14 +2811,12 @@ ausgeschiedenen Mitgliedern die von diesen geleisteten Beiträge zu
 erstatten, sobald die in § 105 Abs. 1 bezeichneten Insolvenzgläubiger
 vollständig befriedigt oder sichergestellt sind.
 
-
 ### § 115e Eigenverwaltung
 
 Ist gemäß § 270 oder § 271 der Insolvenzordnung die Eigenverwaltung
 unter Aufsicht eines Sachwalters angeordnet, so gelten die §§ 105 bis
 115d mit der Maßgabe, dass an die Stelle des Insolvenzverwalters der
 Sachwalter tritt.
-
 
 ### § 116 Insolvenzplan
 
@@ -3030,10 +2842,6 @@ folgenden Abweichungen anzuwenden:
     Prüfungsverband, dem die Genossenschaft angehört, darüber zu hören, ob
     der Plan mit den Interessen der Mitglieder vereinbar ist.
 
-
-
-
-
 ### § 117 Fortsetzung der Genossenschaft
 
 (1) Ist das Insolvenzverfahren auf Antrag des Schuldners eingestellt
@@ -3055,7 +2863,6 @@ Vorschriften des § 79a Abs. 2 bis 4 sind anzuwenden.
 (3) Die Fortsetzung der Genossenschaft ist zusammen mit dem Beschluss
 über die Nachschusspflicht der Mitglieder durch den Vorstand
 unverzüglich zur Eintragung in das Genossenschaftsregister anzumelden.
-
 
 ### § 118 Kündigung bei Fortsetzung der Genossenschaft
 
@@ -3100,10 +2907,7 @@ sechs Monaten nach Beendigung der Mitgliedschaft auszuzahlen; auf die
 Rücklagen und das sonstige Vermögen der Genossenschaft hat es
 vorbehaltlich des § 73 Abs. 3 keinen Anspruch.
 
-
 ## Abschnitt 8 - Haftsumme
-
-
 
 ### § 119 Bestimmung der Haftsumme
 
@@ -3112,11 +2916,9 @@ Haftsumme Nachschüsse zur Insolvenzmasse zu leisten haben, so darf die
 Haftsumme in der Satzung nicht niedriger als der Geschäftsanteil
 festgesetzt werden.
 
-
 ### § 120 Herabsetzung der Haftsumme
 
 Für die Herabsetzung der Haftsumme gilt § 22 Abs. 1 bis 3 sinngemäß.
-
 
 ### § 121 Haftsumme bei mehreren Geschäftsanteilen
 
@@ -3127,19 +2929,13 @@ noch höheren Betrag festsetzen. Sie kann auch bestimmen, dass durch
 die Beteiligung mit weiteren Geschäftsanteilen eine Erhöhung der
 Haftsumme nicht eintritt.
 
-
 ### (XXXX) §§ 122 bis 145 (weggefallen)
 
-
-
 ## Abschnitt 9 - Straf- und Bußgeldvorschriften
-
-
 
 ### § 146 (weggefallen)
 
 -
-
 
 ### § 147 Falsche Angaben oder unrichtige Darstellung
 
@@ -3167,10 +2963,6 @@ Aufsichtsrats oder als Liquidator
     Verbindung mit § 331 Nr. 4 des Handelsgesetzbuchs mit Strafe bedroht
     ist.
 
-
-
-
-
 ### § 148 Pflichtverletzung bei Verlust
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
@@ -3181,11 +2973,9 @@ nicht vollständig oder nicht rechtzeitig erstattet.
 (2) Handelt der Täter fahrlässig, ist die Strafe Freiheitsstrafe bis
 zu einem Jahr oder Geldstrafe.
 
-
 ### § 149 (weggefallen)
 
 -
-
 
 ### § 150 Verletzung der Berichtspflicht
 
@@ -3197,7 +2987,6 @@ Bericht verschweigt.
 (2) Handelt der Täter gegen Entgelt oder in der Absicht, sich oder
 einen anderen zu bereichern oder einen anderen zu schädigen, so ist
 die Strafe Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe.
-
 
 ### § 151 Verletzung der Geheimhaltungspflicht
 
@@ -3229,7 +3018,6 @@ Mitglied des Vorstands oder ein Liquidator die Tat begangen, so ist
 der Aufsichtsrat, hat ein Mitglied des Aufsichtsrats die Tat begangen,
 so sind der Vorstand oder die Liquidatoren antragsberechtigt.
 
-
 ### § 152 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer
@@ -3251,14 +3039,9 @@ so sind der Vorstand oder die Liquidatoren antragsberechtigt.
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu zehntausend
 Euro geahndet werden.
 
-
 ### (XXXX) §§ 153 und 154 (weggefallen)
 
-
-
 ## Abschnitt 10 - Schlussvorschriften
-
-
 
 ### § 155 Altregister im Beitrittsgebiet
 
@@ -3275,7 +3058,6 @@ Registerverfahrensbeschleunigungsgesetzes vom 20. Dezember 1993 (BGBl.
 I S. 2182) am 25. Dezember 1993 von der Verwaltungsbehörde vorgenommen
 worden sind.
 
-
 ### § 156 Bekanntmachung von Eintragungen
 
 (1) § 8 Abs. 1 sowie die §§ 8a, 9 und 11 des Handelsgesetzbuchs finden
@@ -3288,7 +3070,6 @@ des Handelsgesetzbuchs ist entsprechend anzuwenden.
 (2) Soweit nicht ein anderes bestimmt ist, werden die Eintragungen
 ihrem ganzen Inhalt nach veröffentlicht.
 
-
 ### § 157 Anmeldungen zum Genossenschaftsregister
 
 Die in § 11 Abs. 1 geregelte Anmeldung zum Genossenschaftsregister ist
@@ -3296,7 +3077,6 @@ von sämtlichen Mitgliedern des Vorstands, die anderen nach diesem
 Gesetz vorzunehmenden Anmeldungen sind vom Vorstand oder den
 Liquidatoren elektronisch in öffentlich beglaubigter Form
 einzureichen.
-
 
 ### § 158 Nichterscheinen eines Bekanntmachungsblattes
 
@@ -3316,11 +3096,9 @@ Vorstands oder einer anderen nach der Satzung oder diesem Gesetz zur
 Einberufung befugten Person mindestens ein öffentliches Blatt zu
 bestimmen.
 
-
 ### § 159 (weggefallen)
 
 -
-
 
 ### § 160 Zwangsgeldverfahren
 
@@ -3341,7 +3119,6 @@ Betrag von fünftausend Euro nicht übersteigen.
 (2) Für das Verfahren sind die Vorschriften maßgebend, welche zur
 Erzwingung der im Handelsgesetzbuch angeordneten Anmeldungen zum
 Handelsregister gelten.
-
 
 ### § 161 Verordnungsermächtigung
 
@@ -3369,7 +3146,6 @@ Gericht des Sitzes geführt." Auf dem Registerblatt beim Gericht des
 Sitzes wird zum 1. Januar 2007 von Amts wegen der Verweis auf die
 Eintragung beim Gericht am Ort der Zweigniederlassung gelöscht.
 
-
 ### § 162 Übergangsvorschrift für Wohnungsunternehmen
 
 Am 31. Dezember 1989 als gemeinnützige Wohnungsunternehmen oder als
@@ -3377,18 +3153,15 @@ Organe der staatlichen Wohnungspolitik anerkannte Unternehmen, die
 nicht eingetragene Genossenschaften sind, bleiben Mitglieder des
 Prüfungsverbandes, dem sie zu diesem Zeitpunkt angehören.
 
-
 ### § 163 (weggefallen)
 
 -
-
 
 ### § 164 Übergangsregelung zur Beschränkung der Jahresabschlussprüfung
 
 § 53 Abs. 2 Satz 1 in der vom 18. August 2006 an geltenden Fassung ist
 erstmals auf die Prüfung des Jahresabschlusses für ein frühestens am
 31\. Dezember 2006 endendes Geschäftsjahr anzuwenden.
-
 
 ### § 165 Übergangsvorschrift zum Euro-Bilanzgesetz
 
@@ -3401,7 +3174,6 @@ des 31. Dezember 2005 durchgeführt worden sein muss.
 wenn noch keine Qualitätskontrolle durchgeführt wurde; die
 Registrierung ist in diesem Falle bis zum 31. Dezember 2005 zu
 befristen.
-
 
 ### § 166 Übergangsregelung zum Berufsaufsichtsreformgesetz
 
@@ -3422,7 +3194,6 @@ Ausstellen der Teilnahmebescheinigung eine der Qualitätskontrolle
 unterfallende Prüfung durchführt, innerhalb von sechs Monaten nach
 Annahme des Prüfungsauftrages eine Qualitätskontrolle durchführen zu
 lassen.
-
 
 ### § 167 Übergangsvorschrift zum Bilanzrechtsmodernisierungsgesetz
 

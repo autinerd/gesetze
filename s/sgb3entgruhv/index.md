@@ -19,13 +19,11 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 40 G v. 20.12.2011 I 2854
 
-
 ## Eingangsformel
 
 Auf Grund des § 151 Abs. 2 Nr. 3 des Dritten Buches Sozialgesetzbuch -
 Arbeitsförderung - (Artikel 1 des Gesetzes vom 24. März 1997, BGBl. I
 S. 594) verordnet das Bundesministerium für Arbeit und Sozialordnung:
-
 
 ## § 1
 
@@ -79,7 +77,6 @@ Sonderversorgungsleistungsverordnung vom 26. Juni 1992 (BGBl. I S.
 1174) vermindert, tritt an die Stelle der zuerkannten
 Versorgungsleistung die verminderte Versorgung.
 
-
 ## § 2
 
 Der Rente wegen voller Erwerbsminderung im Sinne des § 156 Absatz 1
@@ -88,11 +85,9 @@ Dienstbeschädigungsteilrente im Sinne des § 9 Abs. 1 Nr. 2 des
 Anspruchs- und Anwartschaftsüberführungsgesetzes gleich. § 1 Abs. 2
 Satz 2 gilt entsprechend.
 
-
 ## § 3
 
 Diese Verordnung gilt nicht für das Kurzarbeitergeld.
-
 
 ## § 4
 

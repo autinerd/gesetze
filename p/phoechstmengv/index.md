@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1980, 664
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 4 Abs. 2 und 3 des Waschmittelgesetzes vom 20. August
@@ -32,7 +30,6 @@ Auf Grund des § 4 Abs. 2 und 3 des Waschmittelgesetzes vom 20. August
 
 mit Zustimmung des Bundesrates verordnet:
 
-
 ## § 1 Anwendungsbereich
 
 Diese Verordnung wird angewandt auf Wasch- und Reinigungsmittel, die
@@ -41,7 +38,6 @@ sind und für die wegen ihres Phosphatgehaltes Dosierungsempfehlungen
 anzugeben sind. Sie wird nicht angewandt auf Wasch- und
 Reinigungsmittel, die zur Lieferung in Gebiete außerhalb des
 Geltungsbereiches dieser Verordnung bestimmt sind.
-
 
 ## § 2 Wasch- und Reinigungsmittel zur Verwendung im Haushalt
 
@@ -194,10 +190,6 @@ folgende Werte ersetzt:
 
     *   0,80
 
-
-
-
-
 ## § 3 Wasch- und Reinigungsmittel zur Verwendung in Wäschereien
 
 (1) Der höchstzulässige Phosphatgehalt von Wasch- und
@@ -273,13 +265,11 @@ Dosierungsempfehlungen gleichzeitig mit anderen Wasch- und
 Reinigungsmitteln zu verwenden sind, darf der Phosphatgehalt insgesamt
 nicht die Obergrenzen des Absatzes 1 Satz 1 überschreiten.
 
-
 ## § 4 Verfahren
 
 Der Phosphatgehalt der Wasch- und Reinigungsmittel ist nach dem in der
 Anlage zu dieser Verordnung beschriebenen Verfahren oder nach einem
 Verfahren zu bestimmen, das gleichwertige Ergebnisse erbringt.
-
 
 ## § 5 Ordnungswidrigkeiten
 
@@ -295,7 +285,6 @@ Verwendung in Wäschereien bestimmtes Wasch- oder Reinigungsmittel in
 den Verkehr bringt, dessen Phosphatgehalt die in § 3 festgesetzten
 Höchstmengen überschreitet.
 
-
 ## § 6 Übergangsbestimmung
 
 Wasch- und Reinigungsmittel, die vor dem 1. Oktober 1981 (§ 2 Abs. 2,
@@ -304,22 +293,18 @@ gebracht werden. Dies gilt entsprechend für Wasch- und
 Reinigungsmittel, die vor dem 1. Januar 1984 (§ 2 Abs. 3) hergestellt
 worden sind.
 
-
 ## § 7 Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 13 des Waschmittelgesetzes auch im Land Berlin.
 
-
 ## § 8 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesminister des Innern
-
 
 ## Anlage (zu § 4) Verfahren zur Bestimmung des Phosphatgehaltes in Wasch- und Reinigungsmitteln
 
