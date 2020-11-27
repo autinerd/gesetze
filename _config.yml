@@ -1,3 +1,5 @@
 safe: true
 markdown: rdiscount
 baseurl: /gesetze/
+
+theme: jekyll-theme-slate
