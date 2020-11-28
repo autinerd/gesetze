@@ -4,16 +4,15 @@ jurabk: ABAG
 layout: default
 origslug: abag
 slug: abag
-
 ---
 
 # Gesetz zur Ablösung des Arznei- und Heilmittelbudgets (ABAG)
 
 Ausfertigungsdatum
-:   2001-12-19
+: 2001-12-19
 
 Fundstelle
-:   BGBl I: 2001, 3773
+: BGBl I: 2001, 3773
 
 ## Eingangsformel
 
@@ -92,4 +91,3 @@ von einem Monat nach Fristablauf fest.
 ## Art 4 - Inkrafttreten
 
 Dieses Gesetz tritt mit Wirkung zum 31. Dezember 2001 in Kraft.
-

@@ -4,27 +4,25 @@ jurabk: AAppO
 layout: default
 origslug: aappo
 slug: aappo
-
 ---
 
 # Approbationsordnung für Apotheker (AAppO)
 
 Ausfertigungsdatum
-:   1989-07-19
+: 1989-07-19
 
 Fundstelle
-:   BGBl I: 1989, 1489
+: BGBl I: 1989, 1489
 
 Zuletzt geändert durch
-:   Art. 32 G v. 6.12.2011 I 2515
+: Art. 32 G v. 6.12.2011 I 2515
 
 ## Eingangsformel
 
 Auf Grund des § 5 der Bundes-Apothekerordnung vom 5. Juni 1968 (BGBl.
 I S. 601), dessen Absatz 1 durch Artikel 1 Nr. 2 des Gesetzes vom 19.
 Juni 1989 (BGBl. I S. 1106) neugefaßt und dessen Absatz 2 durch
-Artikel 1 Nr. 2 Buchstabe b des Gesetzes vom 23. Juli 1988 (BGBl. I S.
-1077) eingefügt worden ist, sowie des § 14 Abs. 3 der Bundes-
+Artikel 1 Nr. 2 Buchstabe b des Gesetzes vom 23. Juli 1988 (BGBl. I S. 1077) eingefügt worden ist, sowie des § 14 Abs. 3 der Bundes-
 Apothekerordnung, der durch Artikel 23 des Gesetzes vom 25. Juni 1969
 (BGBl. I S. 645) geändert worden ist, wird verordnet:
 
@@ -36,18 +34,12 @@ Apothekerordnung, der durch Artikel 23 des Gesetzes vom 25. Juni 1969
 
 1.  ein Studium der Pharmazie von vier Jahren an einer Universität;
 
-
 2.  eine Famulatur von acht Wochen;
-
 
 3.  eine praktische Ausbildung von zwölf Monaten;
 
-
 4.  die Pharmazeutische Prüfung, die in drei Prüfungsabschnitten abzulegen
     ist.
-
-
-
 
 (2) Die Prüfungsabschnitte der Pharmazeutischen Prüfung werden
 abgelegt:
@@ -55,18 +47,13 @@ abgelegt:
 1.  der Erste Abschnitt nach einem Studium der Pharmazie von mindestens
     zwei Jahren,
 
-
 2.  der Zweite Abschnitt nach Bestehen des Ersten Abschnitts der
     Pharmazeutischen Prüfung und einem Studium der Pharmazie von
     mindestens vier Jahren,
 
-
 3.  der Dritte Abschnitt nach Bestehen des Zweiten Abschnitts und nach
     Ableistung der sich anschließenden praktischen Ausbildung nach Absatz
     1 Nr. 3.
-
-
-
 
 (3) Die Regelstudienzeit im Sinne des § 10 Abs. 2 des
 Hochschulrahmengesetzes beträgt vier Jahre.
@@ -102,14 +89,10 @@ kann wahlweise auch in
 
 1.  einer Krankenhaus- oder Bundeswehrapotheke,
 
-
 2.  der pharmazeutischen Industrie oder
-
 
 3.  einer Arzneimitteluntersuchungsstelle oder einer vergleichbaren
     Einrichtung einschließlich solcher der Bundeswehr
-
-
 
 abgeleistet werden. Die in Satz 2 letzter Halbsatz genannte Zeit kann
 auch in vergleichbaren Einrichtungen in einem der übrigen
@@ -134,30 +117,20 @@ Sie gliedert sich in eine Ausbildung von
 1.  sechs Monaten in einer öffentlichen Apotheke, die keine Zweigapotheke
     ist, und
 
-
 2.  sechs Monaten, die wahlweise in
 
-    a)  einer Apotheke nach Nummer 1,
+    a) einer Apotheke nach Nummer 1,
 
+    b) einer Krankenhaus- oder Bundeswehrapotheke,
 
-    b)  einer Krankenhaus- oder Bundeswehrapotheke,
+    c) der pharmazeutischen Industrie,
 
+    d) einem Universitätsinstitut oder in anderen geeigneten
+    wissenschaftlichen Institutionen einschließlich solchen der
+    Bundeswehr,
 
-    c)  der pharmazeutischen Industrie,
-
-
-    d)  einem Universitätsinstitut oder in anderen geeigneten
-        wissenschaftlichen Institutionen einschließlich solchen der
-        Bundeswehr,
-
-
-    e)  einer Arzneimitteluntersuchungsstelle oder einer vergleichbaren
-        Einrichtung einschließlich solcher der Bundeswehr
-
-
-
-
-
+    e) einer Arzneimitteluntersuchungsstelle oder einer vergleichbaren
+    Einrichtung einschließlich solcher der Bundeswehr
 
 abzuleisten sind. Drei Monate einer Ausbildung nach Satz 2 Nr. 2
 Buchstabe b können auch auf der Station eines Krankenhauses oder
@@ -239,28 +212,20 @@ Prüfung sind beizufügen
 
 1.  die Geburtsurkunde, bei Verheirateten auch die Eheurkunde,
 
-
 2.  der Nachweis der Hochschulzugangsberechtigung, bei Zeugnissen, die
     außerhalb des Geltungsbereiches dieser Verordnung erworben worden
     sind, auch der Anerkennungsbescheid der zuständigen Behörde,
 
-
 3.  der Nachweis über die Famulatur (Anlage 7), oder in Fällen des § 3
     Abs. 3 die entsprechenden Nachweise,
 
-
 4.  der Nachweis über ein Studium der Pharmazie von zwei Jahren,
-
 
 5.  die Bescheinigungen über die regelmäßige und erfolgreiche Teilnahme an
     den Veranstaltungen zu den in der Anlage 1 zu Buchstaben A bis D
     angeführten Stoffgebieten nach dem Muster der Anlage 2.
 
-
 6.  (weggefallen)
-
-
-
 
 (4) Dem Antrag auf Zulassung zum Zweiten Abschnitt der
 Pharmazeutischen Prüfung sind beizufügen
@@ -268,24 +233,17 @@ Pharmazeutischen Prüfung sind beizufügen
 1.  das Zeugnis über das Bestehen des Ersten Abschnitts der
     Pharmazeutischen Prüfung (Anlage 10),
 
-
 2.  der Nachweis über ein Studium der Pharmazie von mindestens vier
     Jahren,
-
 
 3.  die Bescheinigungen über die regelmäßige und erfolgreiche Teilnahme an
     den Veranstaltungen zu den in der Anlage 1 zu Buchstaben E bis I
     angeführten Stoffgebieten nach dem Muster der Anlage 2,
 
-
 4.  die Bescheinigung über das in Anlage 1 Buchstabe K vorgeschriebene
     Wahlpflichtfach nach dem Muster der Anlage 3.
 
-
 5.  (weggefallen)
-
-
-
 
 (5) Dem Antrag auf Zulassung zum Dritten Abschnitt der
 Pharmazeutischen Prüfung sind beizufügen
@@ -293,15 +251,10 @@ Pharmazeutischen Prüfung sind beizufügen
 1.  die Zeugnisse über das Bestehen des Ersten und Zweiten Abschnitts der
     Pharmazeutischen Prüfung (Anlage 10),
 
-
 2.  der Nachweis über die praktische Ausbildung (Anlage 5),
-
 
 3.  der Nachweis über die Teilnahme an den begleitenden
     Unterrichtsveranstaltungen (Anlage 6).
-
-
-
 
 (6) Soweit die in Absatz 3 Nr. 4 und 5 sowie die in Absatz 4 Nr. 2 bis
 4 genannten Nachweise dem Antrag noch nicht beigefügt werden können,
@@ -336,15 +289,10 @@ Chancengleichheit bei Durchführung der Prüfungen zu berücksichtigen.
     Teilnahme des Prüfungsbewerbers noch zuläßt und die versäumte Handlung
     spätestens vier Wochen vor dem Prüfungstermin nachgeholt wird,
 
-
 2.  der Prüfungsbewerber im Falle des § 6 Abs. 6 die fehlenden Nachweise
     nicht fristgerecht nachreicht,
 
-
 3.  der betreffende Prüfungsabschnitt nicht wiederholt werden darf.
-
-
-
 
 (2) Die Zulassung zu einem Prüfungsabschnitt ist zu versagen, wenn ein
 Grund vorliegt, der zur Versagung der Approbation als Apotheker wegen
@@ -370,46 +318,35 @@ dass
     qualitativen Verbesserungen für die pharmazeutische Ausbildung von
     diesem Prüfungsverfahren erwartet werden,
 
-
 2.  eine von der Universität zu erlassende besondere Studienordnung
     besteht,
-
 
 3.  sichergestellt ist, dass die im Ersten Abschnitt der Pharmazeutischen
     Prüfung nachzuweisenden Kenntnisse und Fähigkeiten in diesem
     Prüfungsverfahren in einer der schriftlichen Prüfung gleichwertigen
     Weise geprüft werden,
 
-
 4.  eine sachgerechte begleitende und abschließende Evaluierung dieses
     Prüfungsverfahrens gewährleistet ist,
-
 
 5.  Mindest- und Höchstdauer der Laufzeit dieses Prüfungsverfahrens
     festgelegt sind und Verlängerungsanträge anhand von
     Evaluierungsergebnissen zu begründen sind,
-
 
 6.  der Zugang zu einem Studiengang mit einem der Verordnung
     entsprechenden Prüfungsverfahren im Ersten Abschnitt der
     Pharmazeutischen Prüfung oder zu einem Studiengang mit einem
     alternativen Prüfungsverfahren freigestellt ist,
 
-
 7.  die Voraussetzungen, unter denen die Universität dieses
     Prüfungsverfahren beenden kann, benannt sind,
-
 
 8.  geregelt ist, wie bei einem Übergang zu einem anderen Studiengang der
     Pharmazie hinsichtlich des Weiterstudiums, der Anrechnung von
     Studienzeiten und Studienleistungen verfahren wird und
 
-
 9.  festgelegt ist, wie die Anforderungen, die in den Anlagen 1, 2, 12 und
     13 beschrieben sind, bei diesem Verfahren erfüllt werden.
-
-
-
 
 (4) Sieht das alternative Prüfungsverfahren vor, dass der Erste
 Abschnitt der Pharmazeutischen Prüfung nicht abgelegt werden muss,
@@ -426,45 +363,13 @@ getrennt aufgeführt werden.
 (1) Für die Bewertung der Leistungen des Prüflings sind folgende Noten
 zu verwenden:
 
-*    *   "sehr gut" (1)
-
-    *   =
-
-    *   eine hervorragende Leistung,
-
-
-*    *   "gut" (2)
-
-    *   =
-
-    *   eine Leistung, die erheblich über den durchschnittlichen Anforderungen
-        liegt,
-
-
-*    *   "befriedigend" (3)
-
-    *   =
-
-    *   eine Leistung, die in jeder Hinsicht durchschnittlichen Anforderungen
-        gerecht wird,
-
-
-*    *   "ausreichend" (4)
-
-    *   =
-
-    *   eine Leistung, die trotz ihrer Mängel noch den Anforderungen genügt,
-
-
-*    *   "nicht ausreichend" (5)
-
-    *   =
-
-    *   eine Leistung, die wegen erheblicher Mängel den Anforderungen nicht
-        mehr genügt.
-
-
-
+|                         |     |                                                                                     |
+| ----------------------- | --- | ----------------------------------------------------------------------------------- |
+| "sehr gut" (1)          | =   | eine hervorragende Leistung,                                                        |
+| "gut" (2)               | =   | eine Leistung, die erheblich über den durchschnittlichen Anforderungen liegt,       |
+| "befriedigend" (3)      | =   | eine Leistung, die in jeder Hinsicht durchschnittlichen Anforderungen gerecht wird, |
+| "ausreichend" (4)       | =   | eine Leistung, die trotz ihrer Mängel noch den Anforderungen genügt,                |
+| "nicht ausreichend" (5) | =   | eine Leistung, die wegen erheblicher Mängel den Anforderungen nicht mehr genügt.    |
 
 (2) Die Note eines Prüfungsabschnitts errechnet sich aus dem
 Durchschnitt der Einzelnoten der Prüfungsfächer.
@@ -475,19 +380,15 @@ mit Absatz 4 Satz 1) des Ersten, Zweiten und Dritten Abschnitts der
 Pharmazeutischen Prüfung eine Gesamtnote zu bilden. Die Gesamtnote für
 die Pharmazeutische Prüfung wird wie folgt ermittelt:
 
-a)  Die Note (Zahlenwert) für den Ersten Abschnitt wird mit zwei,
+a) Die Note (Zahlenwert) für den Ersten Abschnitt wird mit zwei,
 
-    die Note (Zahlenwert) für den Zweiten Abschnitt mit drei und
+die Note (Zahlenwert) für den Zweiten Abschnitt mit drei und
 
-    die Note (Zahlenwert) für den Dritten Abschnitt mit zwei
-    vervielfältigt.
+die Note (Zahlenwert) für den Dritten Abschnitt mit zwei
+vervielfältigt.
 
-
-b)  Die Summe aus den nach Buchstabe a gewonnenen Zahlen wird durch sieben
-    geteilt.
-
-
-
+b) Die Summe aus den nach Buchstabe a gewonnenen Zahlen wird durch sieben
+geteilt.
 
 (4) Die Noten der Prüfungsabschnitte und die Gesamtnote für die
 Pharmazeutische Prüfung werden bis auf die zweite Stelle nach dem
@@ -496,24 +397,12 @@ gemäß den Anlagen 10 und 11 anzugeben. Die Noten der einzelnen
 Prüfungsabschnitte sowie die Gesamtnote der Pharmazeutischen Prüfung
 werden wie folgt bewertet:
 
-*    *   "sehr gut"
-
-    *   bei  einem  Zahlenwert  bis  1,5,
-
-
-*    *   "gut"
-
-    *   bei  einem  Zahlenwert  über  1,5  bis  2,5,
-
-
-*    *   "befriedigend"
-
-    *   bei  einem  Zahlenwert  über  2,5  bis  3,5,
-
-
-*    *   "ausreichend"
-
-    *   bei  einem  Zahlenwert  über  3,5  bis  4,0.
+|                |                                        |
+| -------------- | -------------------------------------- |
+| "sehr gut"     | bei einem Zahlenwert bis 1,5,          |
+| "gut"          | bei einem Zahlenwert über 1,5 bis 2,5, |
+| "befriedigend" | bei einem Zahlenwert über 2,5 bis 3,5, |
+| "ausreichend"  | bei einem Zahlenwert über 3,5 bis 4,0. |
 
 ### § 10 Schriftliche Prüfungen
 
@@ -561,26 +450,12 @@ Hat der Prüfling die für das Bestehen der Prüfung nach Absatz 5
 erforderliche Mindestzahl zutreffend beantworteter Prüfungsfragen
 erreicht, so lautet die Note
 
-*    *   "sehr gut",
-
-    *   wenn  er  mindestens  75  vom  Hundert,
-
-
-*    *   "gut",
-
-    *   wenn  er  mindestens  50,  aber  weniger  als  75  vom  Hundert,
-
-
-*    *   "befriedigend",
-
-    *   wenn  er  mindestens  25,  aber  weniger  als  50  vom  Hundert,
-
-
-*    *   "ausreichend",
-
-    *   wenn  er  die  Mindestzahl,  aber  weniger  als  25  vom  Hundert
-
-
+|                 |                                                          |
+| --------------- | -------------------------------------------------------- |
+| "sehr gut",     | wenn er mindestens 75 vom Hundert,                       |
+| "gut",          | wenn er mindestens 50, aber weniger als 75 vom Hundert,  |
+| "befriedigend", | wenn er mindestens 25, aber weniger als 50 vom Hundert,  |
+| "ausreichend",  | wenn er die Mindestzahl, aber weniger als 25 vom Hundert |
 
 der darüber hinaus gestellten Prüfungsfragen zutreffend beantwortet
 hat. Hat der Prüfling die für das Bestehen der Prüfung erforderliche
@@ -773,24 +648,14 @@ bestanden worden ist.
 (1) Der Erste Abschnitt der Pharmazeutischen Prüfung erstreckt sich
 auf folgende Fächer:
 
-*
-    I.  Allgemeine, anorganische und organische Chemie,
+- I. Allgemeine, anorganische und organische Chemie,
 
+  II. Grundlagen der pharmazeutischen Biologie und der Humanbiologie,
 
-    II. Grundlagen der pharmazeutischen Biologie und der Humanbiologie,
+  III. Grundlagen der Physik, der physikalischen Chemie und der
+  Arzneiformenlehre,
 
-
-    III. Grundlagen der Physik, der physikalischen Chemie und der
-        Arzneiformenlehre,
-
-
-    IV. Grundlagen der pharmazeutischen Analytik.
-
-
-
-
-
-
+  IV. Grundlagen der pharmazeutischen Analytik.
 
 (2) Die Prüfungen finden an vier Tagen in der Reihenfolge des Absatzes
 1 statt. Die Prüfung dauert an den beiden ersten Tagen je zweieinhalb
@@ -806,26 +671,15 @@ Prüfungsstoff abgestellt sein.
 (1) Der Zweite Abschnitt der Pharmazeutischen Prüfung erstreckt sich
 auf folgende Fächer:
 
-*
-    I.  Pharmazeutische/Medizinische Chemie,
+- I. Pharmazeutische/Medizinische Chemie,
 
+  II. Pharmazeutische Biologie,
 
-    II. Pharmazeutische Biologie,
+  III. Pharmazeutische Technologie/Biopharmazie,
 
+  IV. Pharmakologie und Toxikologie,
 
-    III. Pharmazeutische Technologie/Biopharmazie,
-
-
-    IV. Pharmakologie und Toxikologie,
-
-
-    V.  Klinische Pharmazie.
-
-
-
-
-
-
+  V. Klinische Pharmazie.
 
 (2) Die Prüfungen in den einzelnen Fächern sollen in der Regel
 unmittelbar hintereinander, mit Unterbrechungen bis zu höchstens acht
@@ -840,13 +694,9 @@ Prüfungsstoff abgestellt sein.
 (1) Der Dritte Abschnitt der Pharmazeutischen Prüfung erstreckt sich
 auf folgende Fächer:
 
-I.  Pharmazeutische Praxis,
-
+I. Pharmazeutische Praxis,
 
 II. Spezielle Rechtsgebiete für Apotheker.
-
-
-
 
 (2) Die Prüfung soll für einen Prüfling mindestens eine halbe und
 höchstens eine Stunde dauern.
@@ -867,31 +717,22 @@ Antrag sind beizufügen
 
 1.  ein kurzgefaßter Lebenslauf,
 
-
 2.  die Geburtsurkunde, bei Verheirateten auch die Eheurkunde,
-
 
 3.  ein Identitätsnachweis,
 
-
 4.  ein amtliches Führungszeugnis, das nicht früher als einen Monat vor
     der Vorlage ausgestellt sein darf,
-
 
 5.  eine Erklärung des Antragstellers darüber, ob gegen ihn ein
     gerichtliches Strafverfahren oder ein staatsanwaltschaftliches
     Ermittlungsverfahren anhängig ist,
 
-
 6.  eine ärztliche Bescheinigung, die nicht älter als einen Monat sein
     darf, aus der hervorgeht, dass der Antragsteller nicht in
     gesundheitlicher Hinsicht zur Ausübung des Berufs ungeeignet ist und
 
-
 7.  das Zeugnis über das Bestehen der Pharmazeutischen Prüfung.
-
-
-
 
 (2) Soweit die Nachweise nicht in deutscher Sprache ausgestellt sind,
 sind sie zusätzlich in beglaubigter Übersetzung vorzulegen. Die
@@ -950,17 +791,12 @@ ist, ganz oder teilweise an
 1.  Zeiten eines im Geltungsbereich dieser Verordnung betriebenen
     verwandten Studiums,
 
-
 2.  Zeiten eines außerhalb des Geltungsbereichs dieser Verordnung
     betriebenen Studiums der Pharmazie oder eines verwandten Studiums,
-
 
 3.  Zeiten einer außerhalb des Geltungsbereichs dieser Verordnung
     abgeleisteten praktischen Ausbildung auf die Ausbildung nach § 4
     Absatz 1 Nummer 2.
-
-
-
 
 (2) Unter den Voraussetzungen des Absatzes 1 erkennt das
 Landesprüfungsamt Prüfungen an, die im Rahmen eines Studiums nach
@@ -1211,36 +1047,36 @@ statt.
 ### Anlage 2 (zu § 6 Abs. 3 Nr. 5 und Abs. 4 Nr. 3) Bescheinigung
 
 (Fundstelle des Originaltextes: BGBl. I 2000, 1719)
-über die Teilnahme an der Veranstaltung .............................
-des Stoffgebietes .............................................
-Der/Die Studierende der Pharmazie
-.............................................
-hat im ................................ vom
-...................................
-bis ................................... an der oben genannten
-Veranstaltung
-regelmäßig und erfolgreich teilgenommen.
-Siegel                    .........., den .......................
-.......................................
-(Unterschrift des verantwortlichen
-Professors/Dozenten)
+
+    über die Teilnahme an der Veranstaltung .............................
+    des Stoffgebietes .............................................
+    Der/Die Studierende der Pharmazie .............................................
+    hat im ................................ vom ...................................
+    bis ................................... an der oben genannten Veranstaltung
+    regelmäßig und erfolgreich teilgenommen.
+
+                Siegel                    .........., den .......................
+
+                                            .......................................
+                                            (Unterschrift des verantwortlichen
+                                                    Professors/Dozenten)
 
 ### Anlage 3 (zu § 6 Abs. 4 Nr. 4) Bescheinigung
 
 (Fundstelle des Originaltextes: BGBl. I 2000, 1719)
-über die Teilnahme an der Veranstaltung .............................
-des Wahlpflichtfaches .........................................
-Der/Die Studierende der Pharmazie
-.............................................
-hat im ................................ vom
-...................................
-bis ................................... an der oben genannten
-Veranstaltung
-regelmäßig und erfolgreich teilgenommen.
-Siegel                    .........., den .......................
-.......................................
-(Unterschrift des verantwortlichen
-Professors/Dozenten)
+
+    über die Teilnahme an der Veranstaltung .............................
+    des Wahlpflichtfaches .........................................
+    Der/Die Studierende der Pharmazie .............................................
+    hat im ................................ vom ...................................
+    bis ................................... an der oben genannten Veranstaltung
+    regelmäßig und erfolgreich teilgenommen.
+
+                Siegel                    .........., den .......................
+
+                                            .......................................
+                                            (Unterschrift des verantwortlichen
+                                                    Professors/Dozenten)
 
 ### Anlage 4
 
@@ -1249,67 +1085,73 @@ Professors/Dozenten)
 ### Anlage 5 (zu § 4 Abs. 3 Satz 3, § 6 Abs. 5 Nr. 2 und Abs. 6 Satz 3) Bescheinigung über die praktische Ausbildung
 
 (Fundstelle des Originaltextes: BGBl. I 1989, 1500)
-Herr/Frau........................... ist in der Zeit vom
-...............
-bis ..................... nach § 4 der Approbationsordnung für
-Apotheker
-praktisch ausgebildet worden.
-Er/Sie hat in dieser Zeit ganztägig mitgearbeitet und die in § 4 Abs.
-2
-angeführten Tätigkeiten ausgeführt. Die Ausbildung
-ist vom
-................................................................
-bis ......................... unterbrochen/nicht unterbrochen
-worden.\*)
-................, den ...............
-Siegel oder Stempel
-.....................................
-(Name der Ausbildungsstätte)
-.....................................
-(Unterschrift des für die Ausbildung
-Verantwortlichen)
-----------
-\*) Nichtzutreffendes streichen.
+
+    Herr/Frau........................... ist in der Zeit vom ...............
+    bis ..................... nach § 4 der Approbationsordnung für Apotheker
+    praktisch ausgebildet worden.
+    Er/Sie hat in dieser Zeit ganztägig mitgearbeitet und die in § 4 Abs. 2
+    angeführten Tätigkeiten ausgeführt. Die Ausbildung
+    ist vom ................................................................
+    bis ......................... unterbrochen/nicht unterbrochen worden.*)
+
+                                    ................, den ...............
+
+    Siegel oder Stempel
+
+                                    .....................................
+
+    (Name der Ausbildungsstätte)
+
+
+                                    .....................................
+
+    (Unterschrift des für die Ausbildung
+                                                Verantwortlichen)
+
+    ----------
+    *) Nichtzutreffendes streichen.
 
 ### Anlage 6 (zu § 4 Abs. 4 Satz 3 und § 6 Abs. 5 Nr. 3) Bescheinigung über die Teilnahme an den begleitenden Unterrichtsveranstaltungen nach § 4 Abs. 4 der Approbationsordnung für Apotheker
 
 (Fundstelle des Originaltextes: BGBl. I 1989, 1500)
-Herr/Frau
-..............................................................
-hat an den vom ....................... bis zum
-.........................
-durchgeführten begleitenden Unterrichtsveranstaltungen in
-..............
-teilgenommen.
-................, den ...............
-Siegel/Stempel
-.....................................
-(Unterschrift)
+
+    Herr/Frau ..............................................................
+    hat an den vom ....................... bis zum .........................
+    durchgeführten begleitenden Unterrichtsveranstaltungen in ..............
+    teilgenommen.
+
+                                    ................, den ...............
+
+    Siegel/Stempel
+
+                                    .....................................
+
+    (Unterschrift)
 
 ### Anlage 7 (zu § 3 Abs. 2 Satz 4 und § 6 Abs. 3 Nr. 3) Bescheinigung über die Tätigkeit als Famulus
 
 (Fundstelle des Originaltextes: BGBl. I 1989, 1501)
-Herr/Frau
-..............................................................
-ist in der Zeit vom ..................... bis
-..........................
-nach § 3 der Approbationsordnung für Apotheker in der unten
-bezeichneten
-Einrichtung unter meiner Aufsicht und Leitung als Famulus tätig
-gewesen.
-Er/Sie hat in dieser Zeit ganztägig mitgearbeitet. Die Ausbildung ist
-vom
-....................................................................
-bis ......................... unterbrochen/nicht unterbrochen worden.
-\*)
-...................................  ..............., den
-.............
-(Bezeichnung der Ausbildungsstätte)
-...................................
-(Unterschrift des verantwortlichen
-Apothekers)
---------
-\*) Nichtzutreffendes streichen.
+
+    Herr/Frau ..............................................................
+    ist in der Zeit vom ..................... bis ..........................
+    nach § 3 der Approbationsordnung für Apotheker in der unten bezeichneten
+    Einrichtung unter meiner Aufsicht und Leitung als Famulus tätig gewesen.
+
+    Er/Sie hat in dieser Zeit ganztägig mitgearbeitet. Die Ausbildung ist
+    vom ....................................................................
+    bis ......................... unterbrochen/nicht unterbrochen worden. *)
+
+    ...................................  ..............., den .............
+    (Bezeichnung der Ausbildungsstätte)
+
+
+                                        ...................................
+
+    (Unterschrift des verantwortlichen
+                                                    Apothekers)
+
+    --------
+    *) Nichtzutreffendes streichen.
 
 ### Anlage 8 (zu § 4 Abs. 4 Satz 1) Stoffgebiete, die während der praktischen Ausbildung gelehrt werden
 
@@ -1377,130 +1219,120 @@ Einführung in die Sozialgesetzgebung und das Sozialversicherungswesen.
 
 (Fundstelle des Originaltextes: BGBl. I 1989, 1503;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
-Herr/Frau ............................, geboren am
-.....................
-in ................, ist am ............ in ............ geprüft
-worden.
-Gegenstand der Prüfung
-.................................................
-......................................................................
-..
-Bemerkungen ++)
-......................................................................
-..
-......................................................................
-..
-Er/Sie hat die mündliche Prüfung mit der Note ....................
-bestanden/nicht bestanden. \*)
-.................................   .................,
-den..............
-.................................
-....................................
-(Unterschrift des Vorsitzenden der
-.................................          Prüfungskommission +++))
-(Unterschrift(en) des/der
-Prüfer(s) \*))
-.................................
-....................................
-(Unterschrift des Beisitzers)       (Unterschrift des
-Protokollführers)
---------
 
-*
-    \*) Nichtzutreffendes streichen.
+    Herr/Frau ............................, geboren am .....................
+    in ................, ist am ............ in ............ geprüft worden.
+    Gegenstand der Prüfung .................................................
+    ........................................................................
+
+                            Bemerkungen ++)
+    ........................................................................
+    ........................................................................
+    Er/Sie hat die mündliche Prüfung mit der Note ....................
+    bestanden/nicht bestanden. *)
+
+    .................................   ................., den..............
+
+    .................................   ....................................
+
+    (Unterschrift des Vorsitzenden der
+    .................................          Prüfungskommission +++))
 
 
-    ++) Hier ist auch zu vermerken, ob und gegebenenfalls um die wievielte
-        Wiederholungsprüfung es sich handelt oder gegebenenfalls, aus welchen
-        Gründen die Prüfung nicht bestanden worden ist.
+    (Unterschrift(en) des/der
+            Prüfer(s) *))
 
 
-    +++) Dies gilt für den Dritten Prüfungsabschnitt und für den Fall, daß der
-        Vorsitzende an einer Prüfung des Zweiten Prüfungsabschnittes
-        teilnimmt.
+    .................................   ....................................
+    (Unterschrift des Beisitzers)       (Unterschrift des Protokollführers)
+
+    --------
+
+- \*) Nichtzutreffendes streichen.
+
+  ++) Hier ist auch zu vermerken, ob und gegebenenfalls um die wievielte
+  Wiederholungsprüfung es sich handelt oder gegebenenfalls, aus welchen
+  Gründen die Prüfung nicht bestanden worden ist.
+
+  +++) Dies gilt für den Dritten Prüfungsabschnitt und für den Fall, daß der
+  Vorsitzende an einer Prüfung des Zweiten Prüfungsabschnittes
+  teilnimmt.
 
 ### Anlage 10 (zu § 6 Abs. 4 Nr. 1, Abs. 5 Nr. 1, § 9 Abs. 4 Satz 2, § 16 Abs. 1 erster Halbsatz und § 22 Abs. 3 Satz 3)
 
 (Fundstelle des Originaltextes: BGBl. I 1989, 1504)
-Ausstellende Behörde
-in ................................
-Zeugnis
-über den Ersten/Zweiten/Dritten \*) Abschnitt der
-**Pharmazeutischen Prüfung**
-Herr/Frau..........................., geboren am
-.......................
-in ..................., hat am ................. in ................
-den
-Ersten/Zweiten/Dritten \*) Abschnitt der Pharmazeutischen Prüfung nach
-der Approbationsordnung für Apotheker mit der Note
-.....................
-(..............) bestanden.
-Zahlenwert
-..................., den ............
-Siegel
-der ausstellenden Behörde
-.....................................
-(Unterschrift)
---------
-\*) Nichtzutreffendes streichen.
+
+    Ausstellende Behörde
+    in ................................
+
+                                Zeugnis
+            über den Ersten/Zweiten/Dritten *) Abschnitt der
+                        Pharmazeutischen Prüfung
+
+    Herr/Frau..........................., geboren am .......................
+    in ..................., hat am ................. in ................ den
+    Ersten/Zweiten/Dritten *) Abschnitt der Pharmazeutischen Prüfung nach
+    der Approbationsordnung für Apotheker mit der Note .....................
+    (..............) bestanden.
+
+    Zahlenwert
+
+
+                                    ..................., den ............
+
+    Siegel
+    der ausstellenden Behörde
+
+                                    .....................................
+
+    (Unterschrift)
+
+
+    --------
+    *) Nichtzutreffendes streichen.
 
 ### Anlage 11 (zu § 9 Abs. 4 Satz 2, § 16 Abs. 1 zweiter Halbsatz und § 22 Abs. 3 Satz 3)
 
-(Fundstelle des Originaltextes: BGBl. I 1989, 1504)
-Ausstellende Behörde
-in .................................
-Zeugnis
-**über die Pharmazeutische Prüfung**
-Herr/Frau .........................., geboren am
-.......................
-in ...................., hat
-die Pharmazeutische Prüfung
-mit der Gesamtnote ............... (..............) bestanden.
-Zahlenwert
-..................., den ............
-Siegel
-der ausstellenden Behörde
-.....................................
-(Unterschrift)
+    Ausstellende Behörde
+    in .................................
+
+                                Zeugnis
+                    über die Pharmazeutische Prüfung
+
+    Herr/Frau .........................., geboren am .......................
+    in ...................., hat
+
+                        die Pharmazeutische Prüfung
+
+    mit der Gesamtnote ............... (..............) bestanden.
+
+    Zahlenwert
+
+
+                                    ..................., den ............
+
+    Siegel
+    der ausstellenden Behörde
+
+                                    .....................................
+
+    (Unterschrift)
 
 ### Anlage 12 (zu § 17 Abs. 2 Satz 3) Anzahl und Verteilung der Prüfungsfragen in den einzelnen Fächern des Ersten Prüfungsabschnitts
 
 Fundstelle des Originaltextes: BGBl. I 2000, 1721
 
-*    *   I.
-
-    *   Allgemeine, anorganische und organische Chemie
-
-    *   100 Fragen
-
-
-*    *   II.
-
-    *   Grundlagen der pharmazeutischen Biologie und der Humanbiologie
-
-    *   100 Fragen
-
-
-*    *   III.
-
-    *   Grundlagen der Physik, der physikalischen Chemie und der
-        Arzneiformenlehre
-
-    *   80 Fragen
-
-
-*    *   IV.
-
-    *   Grundlagen der pharmazeutischen Analytik
-
-    *   80 Fragen
+|      |                                                                            |            |
+| ---- | -------------------------------------------------------------------------- | ---------: |
+| I.   | Allgemeine, anorganische und organische Chemie                             | 100 Fragen |
+| II.  | Grundlagen der pharmazeutischen Biologie und der Humanbiologie             | 100 Fragen |
+| III. | Grundlagen der Physik, der physikalischen Chemie und der Arzneiformenlehre |  80 Fragen |
+| IV.  | Grundlagen der pharmazeutischen Analytik                                   |  80 Fragen |
 
 ### Anlage 13 (zu § 17 Abs. 3) Prüfungsstoff des Ersten Abschnitts der Pharmazeutischen Prüfung
 
 Fundstelle des Originaltextes: BGBl. I 2000, 1721
 
-
-*
     I.  Allgemeine, anorganische und organische Chemie
 
         Grundbegriffe und -gesetze der Chemie; Atombau und Periodensystem der
@@ -1543,20 +1375,20 @@ Fundstelle des Originaltextes: BGBl. I 2000, 1721
 
 
     III. Grundlagen der Physik, der physikalischen Chemie und der
-        Arzneiformenlehre
+         Arzneiformenlehre
 
-        Grundbegriffe und Maßsysteme der Physik; Grundgesetze der Mechanik
-        fester Körper, Flüssigkeiten und Gase; Aggregatzustände und deren
-        Änderungen; Phasensysteme; Grenzflächenerscheinungen; Grundlagen der
-        Thermodynamik und -kinetik; Kinetik der Diffusion und Verteilung;
-        Grundlagen der Elektrizitätslehre einschließlich Elektrochemie;
-        Grundlagen der Optik, Schwingungs- und Wellenlehre; Aufbau und
-        Eigenschaften der Atome und Moleküle; Grundlagen der Radioaktivität
-        und Isotopenanwendung; physikalische Grundlagen von Messverfahren
-        jeweils unter Berücksichtigung der Belange der Pharmazie;
+         Grundbegriffe und Maßsysteme der Physik; Grundgesetze der Mechanik
+         fester Körper, Flüssigkeiten und Gase; Aggregatzustände und deren
+         Änderungen; Phasensysteme; Grenzflächenerscheinungen; Grundlagen der
+         Thermodynamik und -kinetik; Kinetik der Diffusion und Verteilung;
+         Grundlagen der Elektrizitätslehre einschließlich Elektrochemie;
+         Grundlagen der Optik, Schwingungs- und Wellenlehre; Aufbau und
+         Eigenschaften der Atome und Moleküle; Grundlagen der Radioaktivität
+         und Isotopenanwendung; physikalische Grundlagen von Messverfahren
+         jeweils unter Berücksichtigung der Belange der Pharmazie;
 
-        Allgemeine Anforderungen an die Herstellung von Arzneimitteln;
-        Grundoperationen; Rezepturarzneimittel; homöopathische Zubereitungen.
+         Allgemeine Anforderungen an die Herstellung von Arzneimitteln;
+         Grundoperationen; Rezepturarzneimittel; homöopathische Zubereitungen.
 
 
     IV. Grundlagen der pharmazeutischen Analytik
@@ -1580,8 +1412,6 @@ Fundstelle des Originaltextes: BGBl. I 2000, 1721
 
 Fundstelle des Originaltextes: BGBl. I 2000, 1722 - 1723
 
-
-*
     I.  Pharmazeutische/Medizinische Chemie
 
         Struktur, Stereochemie, gebräuchliche Darstellung oder Gewinnung,
@@ -1655,41 +1485,41 @@ Fundstelle des Originaltextes: BGBl. I 2000, 1722 - 1723
 
     III. Pharmazeutische Technologie/Biopharmazie
 
-        Entwicklung, Herstellung, Eigenschaften, Prüfung und
-        biopharmazeutische Beurteilung von Arzneiformen; moderne
-        Arzneistoffabgabesysteme; gewebe- und organspezifische
-        Applikationsformen, Besonderheiten von Arzneimitteln mit bio- und
-        gentechnisch hergestellten Arzneistoffen und von
-        Zytostatikazubereitungen; Aufbauprinzip, Zusammensetzung, Handhabung
-        und Gebrauchseigenschaften von Fertigarzneimitteln; spezielle
-        Dosiersysteme;
+         Entwicklung, Herstellung, Eigenschaften, Prüfung und
+         biopharmazeutische Beurteilung von Arzneiformen; moderne
+         Arzneistoffabgabesysteme; gewebe- und organspezifische
+         Applikationsformen, Besonderheiten von Arzneimitteln mit bio- und
+         gentechnisch hergestellten Arzneistoffen und von
+         Zytostatikazubereitungen; Aufbauprinzip, Zusammensetzung, Handhabung
+         und Gebrauchseigenschaften von Fertigarzneimitteln; spezielle
+         Dosiersysteme;
 
-        Anforderungen der Arzneibücher an Arzneizubereitungen; Arzneiformen
-        des Homöopathischen Arzneibuchs;
+         Anforderungen der Arzneibücher an Arzneizubereitungen; Arzneiformen
+         des Homöopathischen Arzneibuchs;
 
-        Eigenschaften, Prüfung und Beurteilung der zur Herstellung von
-        Arzneimitteln notwendigen Grund- und Hilfsstoffe sowie gebräuchlicher
-        Wirkstoffe und Packmittel;
+         Eigenschaften, Prüfung und Beurteilung der zur Herstellung von
+         Arzneimitteln notwendigen Grund- und Hilfsstoffe sowie gebräuchlicher
+         Wirkstoffe und Packmittel;
 
-        Pharmazeutisch-technologische Grundoperationen, Verfahrenstechnik,
-        Maschinen, Regelungstechnik;
+         Pharmazeutisch-technologische Grundoperationen, Verfahrenstechnik,
+         Maschinen, Regelungstechnik;
 
-        Biopharmazie, Applikationswege und Resorptionsorte, pharmakokinetische
-        Grundlagen für die Entwicklung und Prüfung von Arzneimitteln,
-        Bioverfügbarkeit, Bioäquivalenzprüfung und -beurteilung, in-vitro/in-
-        vivo Korrelation;
+         Biopharmazie, Applikationswege und Resorptionsorte, pharmakokinetische
+         Grundlagen für die Entwicklung und Prüfung von Arzneimitteln,
+         Bioverfügbarkeit, Bioäquivalenzprüfung und -beurteilung, in-vitro/in-
+         vivo Korrelation;
 
-        Qualitätssicherung bei Herstellung und Prüfung von Arzneimitteln
-        einschließlich statistischer Methoden; rechtliche Grundlagen der
-        Qualitätssicherung, Validierung, Inprozess- und Endkontrollen;
+         Qualitätssicherung bei Herstellung und Prüfung von Arzneimitteln
+         einschließlich statistischer Methoden; rechtliche Grundlagen der
+         Qualitätssicherung, Validierung, Inprozess- und Endkontrollen;
 
-        Stabilität und Stabilisierung von Arzneimitteln; Inkompatibilitäten
-        und Wechselwirkungen;
+         Stabilität und Stabilisierung von Arzneimitteln; Inkompatibilitäten
+         und Wechselwirkungen;
 
-        Blutersatzmittel sowie Blut und dessen Zubereitungen, Sera und
-        Impfstoffe;
+         Blutersatzmittel sowie Blut und dessen Zubereitungen, Sera und
+         Impfstoffe;
 
-        Medizinprodukte, die in den Apotheken in den Verkehr gebracht werden.
+         Medizinprodukte, die in den Apotheken in den Verkehr gebracht werden.
 
 
     IV. Pharmakologie und Toxikologie
@@ -1747,8 +1577,6 @@ Fundstelle des Originaltextes: BGBl. I 2000, 1722 - 1723
 
 Fundstelle des Originaltextes: BGBl. I 2000, 1724
 
-
-*
     I.  Pharmazeutische Praxis
 
         Grundprinzipien der Rezeptur und Defektur; Inkompatibilitäten;
@@ -1829,16 +1657,19 @@ Fundstelle des Originaltextes: BGBl. I 2000, 1724
 ### Anlage 16 (zu § 21 Satz 1) Approbationsurkunde
 
 (Fundstelle des Originaltextes: BGBl. I 1989, 1508)
-Herrn/Frau ........................, geboren am
-........................
-in ........................................., wird auf Grund des § 4
-der
-Bundes-Apothekerordnung mit Wirkung vom heutigen Tage
-die Approbation
-als Apotheker/Apothekerin
-erteilt.
-..................., den ............
-Siegel
-.....................................
-(Unterschrift)
 
+    Herrn/Frau ........................, geboren am ........................
+    in ........................................., wird auf Grund des § 4 der
+    Bundes-Apothekerordnung mit Wirkung vom heutigen Tage
+
+                            die Approbation
+                        als Apotheker/Apothekerin
+    erteilt.
+
+                                    ..................., den ............
+
+    Siegel
+
+                                    .....................................
+
+    (Unterschrift)

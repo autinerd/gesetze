@@ -1,30 +1,29 @@
 ---
-Title: Verordnung über die Erstattung von Aufwendungen nach dem Gesetz zur Überführung
+Title:
+  Verordnung über die Erstattung von Aufwendungen nach dem Gesetz zur Überführung
   von Ansprüchen und Anwartschaften aus Zusatz- und Sonderversorgungssystemen des
   Beitrittsgebiets durch den Bund
 jurabk: AAÜGErstV
 layout: default
 origslug: aa_gerstv
 slug: aauegerstv
-
 ---
 
 # Verordnung über die Erstattung von Aufwendungen nach dem Gesetz zur Überführung von Ansprüchen und Anwartschaften aus Zusatz- und Sonderversorgungssystemen des Beitrittsgebiets durch den Bund (AAÜGErstV)
 
 Ausfertigungsdatum
-:   1992-05-29
+: 1992-05-29
 
 Fundstelle
-:   BGBl I: 1992, 999
+: BGBl I: 1992, 999
 
 Zuletzt geändert durch
-:   Art. 55 G v. 9.12.2004 I 3242
+: Art. 55 G v. 9.12.2004 I 3242
 
 ## Eingangsformel
 
 Auf Grund des § 16 Abs. 2 des Anspruchs- und
-Anwartschaftsüberführungsgesetzes vom 25. Juli 1991 (BGBl. I S. 1606,
-1677) verordnet der Bundesminister für Arbeit und Sozialordnung im
+Anwartschaftsüberführungsgesetzes vom 25. Juli 1991 (BGBl. I S. 1606, 1677) verordnet der Bundesminister für Arbeit und Sozialordnung im
 Einvernehmen mit dem Bundesminister der Finanzen:
 
 ## § 1 Erstattungsfähige Aufwendungen
@@ -34,41 +33,30 @@ Anwartschaftsüberführungsgesetzes sind
 
 1.  Renten aus eigener Versicherung,
 
-
 2.  Renten wegen Todes, einschließlich der Zuschläge bei Waisenrenten,
-
 
 3.  Zusatzleistungen nach den §§ 106, 106a und 107 des Sechsten Buches
     Sozialgesetzbuch,
-
 
 4.  der Teil des Beitrags zur Krankenversicherung, den nach § 249a des
     Fünften Buches Sozialgesetzbuch die Deutsche Rentenversicherung Bund
     zu tragen hat,
 
-
 4a. der Teil des Beitrags zur Pflegeversicherung, den nach § 59 Abs. 1 des
-    Elften Buches Sozialgesetzbuch in Verbindung mit § 249a des Fünften
-    Buches Sozialgesetzbuch die Deutsche Rentenversicherung Bund zu tragen
-    hat,
-
+Elften Buches Sozialgesetzbuch in Verbindung mit § 249a des Fünften
+Buches Sozialgesetzbuch die Deutsche Rentenversicherung Bund zu tragen
+hat,
 
 5.  Rententeilbeträge aus Renten nach Artikel 2 des Renten-
     Überleitungsgesetzes,
 
-
 6.  (weggefallen)
-
 
 7.  Leistungen, die nach § 307b Abs. 4 bis 7 des Sechsten Buches
     Sozialgesetzbuch und § 4 des Anspruchs- und
     Anwartschaftsüberführungsgesetzes besitzgeschützt sind,
 
-
 8.  Leistungen zur Teilhabe.
-
-
-
 
 (2) Aufwendungen im Sinne des § 15 Abs. 3 Satz 1 des Anspruchs- und
 Anwartschaftsüberführungsgesetzes sind die Zahlbeträge von Leistungen
@@ -185,19 +173,15 @@ nachgewiesen.
 (2) Dem Bundesversicherungsamt sind die Aufwendungen nachzuweisen für
 Leistungen aus den
 
--   Zusatzversorgungssystemen nach Anlage 1 Nr. 1 bis 22 zum Anspruchs-
-    und Anwartschaftsüberführungsgesetz in jeweils einer Summe
-    zusammengefaßt,
+- Zusatzversorgungssystemen nach Anlage 1 Nr. 1 bis 22 zum Anspruchs-
+  und Anwartschaftsüberführungsgesetz in jeweils einer Summe
+  zusammengefaßt,
 
-
--   Sonderversorgungssystemen nach Anlage 2 Nr. 1, 2, 3 und 4 zum
-    Anspruchs- und Anwartschaftsüberführungsgesetz jeweils getrennt, wobei
-    zusätzlich nach in die Rentenversicherung überführten und von der
-    Deutschen Rentenversicherung Bund ausgezahlten Versorgungsleistungen
-    zu unterscheiden ist.
-
-
-
+- Sonderversorgungssystemen nach Anlage 2 Nr. 1, 2, 3 und 4 zum
+  Anspruchs- und Anwartschaftsüberführungsgesetz jeweils getrennt, wobei
+  zusätzlich nach in die Rentenversicherung überführten und von der
+  Deutschen Rentenversicherung Bund ausgezahlten Versorgungsleistungen
+  zu unterscheiden ist.
 
 (3) Die Deutsche Rentenversicherung Bund teilt dem
 Bundesversicherungsamt jeweils für den Monat Dezember eines Jahres
@@ -238,4 +222,3 @@ Diese Verordnung tritt mit Wirkung vom 1. Januar 1992 in Kraft.
 ## Schlußformel
 
 Der Bundesrat hat zugestimmt.
-

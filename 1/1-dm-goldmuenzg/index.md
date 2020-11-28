@@ -1,20 +1,20 @@
 ---
-Title: Gesetz über die Ausprägung einer 1-DM-Goldmünze und die Errichtung der Stiftung
+Title:
+  Gesetz über die Ausprägung einer 1-DM-Goldmünze und die Errichtung der Stiftung
   "Geld und Währung"
 jurabk: 1-DM-GoldmünzG
 layout: default
 origslug: 1-dm-goldm_nzg
 slug: 1-dm-goldmuenzg
-
 ---
 
 # Gesetz über die Ausprägung einer 1-DM-Goldmünze und die Errichtung der Stiftung "Geld und Währung" (1-DM-GoldmünzG)
 
 Ausfertigungsdatum
-:   2000-12-27
+: 2000-12-27
 
 Fundstelle
-:   BGBl I: 2000, 2045
+: BGBl I: 2000, 2045
 
 ## Erster Abschnitt - Ausgabe einer 1-DM Goldmünze
 
@@ -120,9 +120,7 @@ Währungswesens.
 
 1.  die Durchführung und Finanzierung von Forschungsprojekten;
 
-
 2.  die Gewährung von Forschungsstipendien;
-
 
 3.  die Förderung des wissenschaftlichen Meinungsaustauschs durch
     Veranstaltungen und Diskussionsforen mit deutscher und internationaler
@@ -213,4 +211,3 @@ geltenden Bestimmungen entsprechende Anwendung.
 ### § 19 Inkrafttreten
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
-

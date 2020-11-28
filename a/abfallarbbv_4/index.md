@@ -1,20 +1,20 @@
 ---
-Title: Vierte Verordnung über zwingende Arbeitsbedingungen für die Abfallwirtschaft
+Title:
+  Vierte Verordnung über zwingende Arbeitsbedingungen für die Abfallwirtschaft
   einschließlich Straßenreinigung und Winterdienst
 jurabk: AbfallArbbV 4
 layout: default
 origslug: abfallarbbv_4
 slug: abfallarbbv_4
-
 ---
 
 # Vierte Verordnung über zwingende Arbeitsbedingungen für die Abfallwirtschaft einschließlich Straßenreinigung und Winterdienst (AbfallArbbV 4)
 
 Ausfertigungsdatum
-:   2012-05-25
+: 2012-05-25
 
 Fundstelle
-:   BAnz: 2012, AT 31.05.2012 V1
+: BAnz: 2012, AT 31.05.2012 V1
 
 Stand: Die V tritt gem. § 2 am 31.12.2012 außer Kraft
 
@@ -69,5 +69,3 @@ Diese Verordnung tritt am 1. Juni 2012 in Kraft und am 31. Dezember
 (Fundstelle: BAnz AT 31.05.2012 V 1)
 
 (Text der Anlage siehe: TVMindestlohn Abfall 4)
-
-

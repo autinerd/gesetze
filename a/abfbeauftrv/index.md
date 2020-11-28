@@ -4,16 +4,15 @@ jurabk: AbfBeauftrV
 layout: default
 origslug: abfbeauftrv
 slug: abfbeauftrv
-
 ---
 
 # Verordnung über Betriebsbeauftragte für Abfall (AbfBeauftrV)
 
 Ausfertigungsdatum
-:   1977-10-26
+: 1977-10-26
 
 Fundstelle
-:   BGBl I: 1977, 1913
+: BGBl I: 1977, 1913
 
 ## Eingangsformel
 
@@ -29,87 +28,59 @@ Betriebsbeauftragten für Abfall zu bestellen:
 1.  Ortsfeste Abfallbeseitigungsanlagen zum Lagern oder Ablagern von
     Abfällen;
 
-
 2.  ortsfeste Abfallbeseitigungsanlagen mit einer Durchsatzleistung von
     insgesamt mehr als 0,75 Tonnen je Stunde
 
-    a)  zur Verbrennung oder thermischen Zersetzung (Vergasung, Entgasung) von
-        Abfällen,
+    a) zur Verbrennung oder thermischen Zersetzung (Vergasung, Entgasung) von
+    Abfällen,
 
-
-    b)  zur Kompostierung von Abfällen;
-
-
-
-
+    b) zur Kompostierung von Abfällen;
 
 3.  ortsfeste Abfallbeseitigungsanlagen zur chemischen oder physikalischen
     Behandlung von Abfällen mit einer Durchsatzleistung von insgesamt mehr
     als 0,50 Tonnen je Stunde;
 
-
 4.  ortsfeste Abfallbeseitigungsanlagen zur Verbrennung von Abfällen aus
     Krankenhäusern;
 
-
 5.  ortsfeste Anlagen zum Lagern oder Behandeln von Autowracks mit einem
     Betriebsgelände von mehr als 4.000 Quadratmetern.
-
-
-
 
 (2) Betreiber folgender Anlagen haben einen betriebsangehörigen
 Betriebsbeauftragten für Abfall zu bestellen:
 
 1.  Schmelzanlagen für Aluminium und Magnesium;
 
-
 2.  Fabriken oder Fabrikationsanlagen, in denen folgende Stoffe
     hergestellt werden:
 
-    a)  anorganische Säuren, Laugen, Salze,
+    a) anorganische Säuren, Laugen, Salze,
 
+    b) organische Lösemittel,
 
-    b)  organische Lösemittel,
+    c) Farb- und Anstrichmittel,
 
+    d) Kältemittel,
 
-    c)  Farb- und Anstrichmittel,
+    e) polychlorierte Biphenyle und Terphenyle,
 
+    f) Pharmazeutika,
 
-    d)  Kältemittel,
-
-
-    e)  polychlorierte Biphenyle und Terphenyle,
-
-
-    f)  Pharmazeutika,
-
-
-    g)  Pflanzenbehandlungs- oder Schädlingsbekämpfungsmittel;
-
-
-
-
+    g) Pflanzenbehandlungs- oder Schädlingsbekämpfungsmittel;
 
 3.  Anlagen zur Verarbeitung von Farb- und Anstrichmitteln, soweit sie mit
     Naßabscheidern ausgerüstet sind;
 
-
 4.  Anlagen zur Destillation oder Raffination von Erdöl,
     Erdölerzeugnissen, Altöl oder Schmieröl;
-
 
 5.  Anlagen zur Veredelung oder Behandlung von Metalloberflächen durch
     Galvanisieren, Härten, Ätzen oder Beizen;
 
-
 6.  Anlagen zur Veredelung oder Behandlung von Kunststoffoberflächen durch
     Galvanisieren, Ätzen oder Beizen;
 
-
 7.  Krankenhäuser und Kliniken.
-
-
 
 Satz 1 gilt nicht für Anlagen in denen Abfälle des § 2 Abs. 2 des
 Abfallbeseitigungsgesetzes nicht anfallen.
@@ -180,4 +151,3 @@ Diese Verordnung tritt am 1. Januar 1978 in Kraft.
 ## Schlußformel
 
 Der Bundesminister des Innern
-
