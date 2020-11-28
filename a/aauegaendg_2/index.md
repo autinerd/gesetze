@@ -4,16 +4,15 @@ jurabk: AAÜGÄndG 2
 layout: default
 origslug: aa_g_ndg_2
 slug: aauegaendg_2
-
 ---
 
 # Zweites Gesetz zur Änderung und Ergänzung des Anspruchs- und Anwartschaftsüberführungsgesetzes (AAÜGÄndG 2)
 
 Ausfertigungsdatum
-:   2001-07-27
+: 2001-07-27
 
 Fundstelle
-:   BGBl I: 2001, 1939
+: BGBl I: 2001, 1939
 
 ## Eingangsformel
 
@@ -63,20 +62,18 @@ in den folgenden Absätzen nichts Abweichendes bestimmt ist.
 2 Nr. 5 und 9 für Personen in Kraft, für die am 28. April 1999 ein
 Rentenbescheid noch nicht bindend war.
 
-(6) Mit  Wirkung vom 1. Juli 1993 tritt Artikel 1 Nr. 9 für Personen
+(6) Mit Wirkung vom 1. Juli 1993 tritt Artikel 1 Nr. 9 für Personen
 in Kraft, für die am 28. April 1999 ein Rentenbescheid noch nicht
 bindend war.
 
 (7) Mit Wirkung vom 1. Juli 1993 treten § 6 Abs. 2 und 3 sowie Anlage
 4 und 5 des Anspruchs- und Anwartschaftsüberführungsgesetzes in der
-Fassung des AAÜG-Änderungsgesetzes vom 11. November 1996 (BGBl. I S.
-1674) für Personen in Kraft, für die am 28. April 1999 ein
+Fassung des AAÜG-Änderungsgesetzes vom 11. November 1996 (BGBl. I S. 1674) für Personen in Kraft, für die am 28. April 1999 ein
 Überführungsbescheid eines Versorgungsträgers noch nicht bindend war;
 Absatz 8 bleibt unberührt. Dies gilt nicht für Personen, die in den
 Geltungsbereich der Anlage 7 zu § 6 Abs. 4 des Anspruchs- und
 Anwartschaftsüberführungsgesetzes in der Fassung des
-Rentenüberleitungs-Ergänzungsgesetzes vom 24. Juni 1993 (BGBl. I S.
-1038) fallen.
+Rentenüberleitungs-Ergänzungsgesetzes vom 24. Juni 1993 (BGBl. I S. 1038) fallen.
 
 (8) Mit Wirkung vom 1. Januar 1992 treten Artikel 1 Nr. 3, 12 und
 Artikel 3 und 4 für Personen in Kraft, für die am 28. April 1999 ein
@@ -110,4 +107,3 @@ Rentenbescheid mit Beschäftigungszeiten bei der Deutschen Reichsbahn
 oder bei der Deutschen Post noch nicht bindend bewilligt war, tritt
 Artikel 2 Nr. 1 Buchstabe a, Nr. 2 bis 4 und 7 mit Wirkung vom 1.
 Januar 1992 in Kraft.
-

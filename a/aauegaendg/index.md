@@ -4,16 +4,15 @@ jurabk: AAÜGÄndG
 layout: default
 origslug: aa_g_ndg
 slug: aauegaendg
-
 ---
 
 # Gesetz zur Änderung und Ergänzung des Anspruchs- und Anwartschaftsüberführungsgesetzes (AAÜGÄndG)
 
 Ausfertigungsdatum
-:   1996-11-11
+: 1996-11-11
 
 Fundstelle
-:   BGBl I: 1996, 1674
+: BGBl I: 1996, 1674
 
 ## Eingangsformel
 
@@ -58,4 +57,3 @@ sind. Die Sätze 2 bis 5 sind anzuwenden.
 soweit in den folgenden Absätzen nicht etwas anderes bestimmt ist.
 
 (2)
-

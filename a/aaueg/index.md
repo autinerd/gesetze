@@ -1,23 +1,23 @@
 ---
-Title: Gesetz zur Überführung der Ansprüche und Anwartschaften aus Zusatz- und Sonderversorgungssystemen
+Title:
+  Gesetz zur Überführung der Ansprüche und Anwartschaften aus Zusatz- und Sonderversorgungssystemen
   des Beitrittsgebiets
 jurabk: AAÜG
 layout: default
 origslug: aa_g
 slug: aaueg
-
 ---
 
 # Gesetz zur Überführung der Ansprüche und Anwartschaften aus Zusatz- und Sonderversorgungssystemen des Beitrittsgebiets (AAÜG)
 
 Ausfertigungsdatum
-:   1991-07-25
+: 1991-07-25
 
 Fundstelle
-:   BGBl I: 1991, 1606, 1677
+: BGBl I: 1991, 1606, 1677
 
 Zuletzt geändert durch
-:   Art. 13 G v. 19.12.2007 I 3024
+: Art. 13 G v. 19.12.2007 I 3024
 
 ## Erster Abschnitt
 
@@ -78,28 +78,18 @@ erworbene Ansprüche auf folgende Leistungen überführt:
 1.  Versorgung wegen Berufsunfähigkeit und zusätzliche
     Invalidenversorgung,
 
-
 2.  zusätzliche Altersversorgung und
 
-
 3.  zusätzliche Hinterbliebenenversorgung.
-
-
-
 
 (2) In die Rentenversicherung werden in Sonderversorgungssystemen
 erworbene Ansprüche auf folgende Leistungen überführt:
 
 1.  Invalidenvollrente und Dienstbeschädigungsvollrente,
 
-
 2.  Altersrente und
 
-
 3.  Hinterbliebenenrente sowie Dienstbeschädigungshinterbliebenenrente.
-
-
-
 
 (3) Die Leistungen nach Absatz 1 und 2 werden bei der Überführung wie
 eine nach den Vorschriften für das Beitrittsgebiet berechnete Rente
@@ -108,16 +98,11 @@ behandelt. Dabei gelten
 1.  Versorgungen nach Absatz 1 Nr. 1 und Renten nach Absatz 2 Nr. 1 als
     Invalidenrenten,
 
-
 2.  Versorgungen nach Absatz 1 Nr. 2 und Renten nach Absatz 2 Nr. 2 als
     Altersrenten,
 
-
 3.  Versorgungen nach Absatz 1 Nr. 3 und Renten nach Absatz 2 Nr. 3 als
     Hinterbliebenenrenten.
-
-
-
 
 (4) Beginnt eine Rente nach den Vorschriften des Sechsten Buches
 Sozialgesetzbuch in der Zeit vom 1. Januar 1992 bis zum 30. Juni 1995
@@ -132,12 +117,9 @@ einem
     Zeitpunkt maßgebenden leistungsrechtlichen Regelungen des jeweiligen
     Versorgungssystems zum 1. Juli 1990 ergibt,
 
-
 2.  Sonderversorgungssystem wenigstens der Monatsbetrag, der sich auf der
     Grundlage der am 31. Dezember 1991 maßgebenden leistungsrechtlichen
     Regelungen des jeweiligen Versorgungssystems zum 1. Juli 1990 ergibt,
-
-
 
 höchstens jedoch der jeweilige Höchstbetrag nach § 10 Abs. 1 oder 2,
 um 6,84 vom Hundert zu erhöhen und solange zu zahlen, bis die nach den
@@ -233,41 +215,31 @@ eine Beschäftigung oder Tätigkeit ausgeübt wurde als
 1.  Mitglied, Kandidat oder Staatssekretär im Politbüro der
     Sozialistischen Einheitspartei Deutschlands,
 
-
 2.  Generalsekretär, Sekretär oder Abteilungsleiter des Zentralkomitees
     der Sozialistischen Einheitspartei Deutschlands (SED) sowie als
     Mitarbeiter der Abteilung Sicherheit bis zur Ebene der Sektorenleiter
     oder als die jeweiligen Stellvertreter,
 
-
 3.  Erster oder Zweiter Sekretär der SED-Bezirks- oder Kreisleitung sowie
     Abteilungs- oder Referatsleiter für Sicherheit oder Abteilungsleiter
     für Staat und Recht,
 
-
 4.  Minister, stellvertretender Minister oder stimmberechtigtes Mitglied
     von Staats- oder Ministerrat oder als ihre jeweiligen Stellvertreter,
-
 
 5.  Vorsitzender des Nationalen Verteidigungsrates, Vorsitzender des
     Staatsrats oder Vorsitzender des Ministerrats sowie als in diesen
     Ämtern ernannter Stellvertreter,
 
-
 6.  Staatsanwalt in den für vom Ministerium für Staatssicherheit sowie dem
     Amt für Nationale Sicherheit durchzuführenden Ermittlungsverfahren
     zuständigen Abteilung I der Bezirksstaatsanwaltschaften,
 
-
 7.  Staatsanwalt der Generalstaatsanwaltschaft der DDR,
-
 
 8.  Mitglied der Bezirks- oder Kreis-Einsatzleitung,
 
-
 9.  Staatsanwalt oder Richter der I-A-Senate,
-
-
 
 ist den Pflichtbeitragszeiten als Verdienst höchstens der jeweilige
 Betrag der Anlage 5 zugrunde zu legen.
@@ -374,11 +346,8 @@ Versorgungsträger
 1.  über alle Tatsachen, die für die Durchführung der Überführung
     erforderlich sind, auf Verlangen unverzüglich Auskunft zu erteilen und
 
-
 2.  auf Verlangen unverzüglich die Unterlagen vorzulegen, aus denen die
     Tatsachen hervorgehen.
-
-
 
 Die Versorgungsträger nach Absatz 4 Nr. 2 und 3 nehmen die Ermittlung
 der Daten unter Berücksichtigung der bei dem Beauftragten der
@@ -404,15 +373,10 @@ Buches Sozialgesetzbuch sind anzuwenden.
 1.  die Deutsche Rentenversicherung Bund für die Zusatzversorgungssysteme
     der Anlage 1 Nr. 1 bis 27 und,
 
-
 2.  die Funktionsnachfolger gemäß Artikel 13 des Einigungsvertrages für
     die Sonderversorgungssysteme der Anlage 2.
 
-
 3.  (weggefallen)
-
-
-
 
 (5) Der für die Feststellung der Leistungen zuständige Träger der
 Rentenversicherung ist für die Erfüllung der Aufgaben der
@@ -429,8 +393,7 @@ unbeschadet der Zuständigkeit nach Absatz 5 Satz 1 die Vorschriften
 des Ersten Abschnitts des Dritten Kapitels des Sechsten Buches
 Sozialgesetzbuch. § 126 Abs. 1 Satz 4 des Sechsten Buches
 Sozialgesetzbuch in der Fassung des Zweiten Gesetzes für moderne
-Dienstleistungen am Arbeitsmarkt vom 23. Dezember 2002 (BGBl. I S.
-4621) ist bei Rentenbeginn bis zum 31. Dezember 1993 mit der Maßgabe
+Dienstleistungen am Arbeitsmarkt vom 23. Dezember 2002 (BGBl. I S. 4621) ist bei Rentenbeginn bis zum 31. Dezember 1993 mit der Maßgabe
 anzuwenden, daß für die Feststellung der Leistungen die Deutsche
 Rentenversicherung Bund zuständig ist. Ist bei Personen mit in die
 Rentenversicherung überführten Ansprüchen die Deutsche
@@ -475,27 +438,17 @@ zurückgelegter rentenrechtlicher Zeiten erforderlich sind.
     Erreichen besonderer Altersgrenzen oder bestimmter Dienstzeiten,
     insbesondere auf
 
-    a)  Übergangsrente,
+    a) Übergangsrente,
 
+    b) Vorruhestandsgeld,
 
-    b)  Vorruhestandsgeld,
+    c) Invalidenrente bei Erreichen besonderer Altersgrenzen und
 
-
-    c)  Invalidenrente bei Erreichen besonderer Altersgrenzen und
-
-
-    d)  befristete erweiterte Versorgung.
-
-
-
-
+    d) befristete erweiterte Versorgung.
 
 2.  Ansprüche auf Invalidenteilrenten und Dienstbeschädigungsteilrenten.
 
-
 3.  Ansprüche auf Elternrenten.
-
-
 
 Die Vorschriften des Ersten Buches Sozialgesetzbuch sind entsprechend
 anzuwenden. Die Leistungen nach Satz 1 gelten als
@@ -538,17 +491,11 @@ Höchstbeträge begrenzt:
 
 1.  für Versichertenrenten auf 2.010 DM,
 
-
 2.  für Witwen- oder Witwerrenten auf 1.206 DM,
-
 
 3.  für Vollwaisenrenten auf 804 DM und
 
-
 4.  für Halbwaisenrenten auf 603 DM.
-
-
-
 
 (2) Abweichend von Absatz 1 gilt für Leistungen, die nach dem
 Sonderversorgungssystem des ehemaligen Ministeriums für
@@ -592,14 +539,11 @@ Dienstzeiten aus Sonderversorgungssystemen werden vom Ersten des auf
 die Verkündung dieses Gesetzes folgenden Kalendermonats an auf
 folgende Höchstbeträge begrenzt:
 
-a)  Vorruhestandsgeld, Invalidenrente bei Erreichen besonderer
-    Altersgrenzen und befristete erweiterte Versorgung auf die nach § 10
-    Abs. 1 Satz 1 und Abs. 2 jeweils maßgebenden Höchstbeträge,
+a) Vorruhestandsgeld, Invalidenrente bei Erreichen besonderer
+Altersgrenzen und befristete erweiterte Versorgung auf die nach § 10
+Abs. 1 Satz 1 und Abs. 2 jeweils maßgebenden Höchstbeträge,
 
-
-b)  Übergangsrente auf den Betrag von 400 DM.
-
-
+b) Übergangsrente auf den Betrag von 400 DM.
 
 Renten wegen verminderter Erwerbsfähigkeit oder ähnliche Leistungen
 öffentlich-rechtlicher Art werden auf diese Versorgungsleistungen
@@ -636,7 +580,6 @@ voraussichtlich erfüllen wird.
 
 1.  eine Rente wegen Alters zuerkannt und
 
-
 2.  erreicht der um die Hälfte des Beitrags zur gesetzlichen
     Krankenversicherung und zur sozialen Pflegeversicherung verminderte
     Monatsbetrag der Rente wegen Alters in dem Monat, in dem die
@@ -645,8 +588,6 @@ voraussichtlich erfüllen wird.
     auf diesen Monat nach Einkommensanrechnung entfallenden Betrags der um
     den Beitrag zur gesetzlichen Krankenversicherung und zur sozialen
     Pflegeversicherung verminderten Versorgungsleistung,
-
-
 
 leistet der Versorgungsträger im Anschluß an den Bezug der
 Versorgungsleistung für Zeiten, für die die Rente zuerkannt ist,
@@ -720,9 +661,7 @@ Kalendermonats an werden folgende Leistungen nicht mehr gewährt:
     Nr. 4, wenn gleichzeitig eine Rente nach den Vorschriften des
     Bundesgebiets ohne das Beitrittsgebiet gezahlt wird,
 
-
 2.  Dienstzeitrenten aus dem Sonderversorgungssystem der Anlage 2 Nr. 2,
-
 
 3.  Versorgungsleistungen nach § 9 Abs. 1 Nr. 1 an ehemalige Angehörige
     des Ministeriums für Staatssicherheit/Amtes für Nationale Sicherheit,
@@ -731,14 +670,9 @@ Kalendermonats an werden folgende Leistungen nicht mehr gewährt:
     nach § 9 Abs. 1 Nr. 1 Buchstabe c auf Grund einer Entlassung vor dem
     1\. Juli 1990.
 
-
 4.  (weggefallen)
 
-
 5.  (weggefallen)
-
-
-
 
 (2) Leistungen aus dem Sonderversorgungssystem nach Anlage 2 Nr. 4,
 die auf Grund einer Tätigkeit für das Ministerium für
@@ -861,15 +795,11 @@ vorgesehen werden.
 1.  das Bundesministerium der Verteidigung für das Sonderversorgungssystem
     nach Anlage 2 Nr. 1,
 
-
 2.  das Bundesministerium des Innern für die Sonderversorgungssysteme nach
     Anlage 2 Nr. 2 und 4,
 
-
 3.  das Bundesministerium der Finanzen für das Sonderversorgungssystem
     nach Anlage 2 Nr. 3
-
-
 
 durch Rechtsverordnung mit Zustimmung des Bundesrates in Anlehnung an
 die Regelungen des Sozialgesetzbuchs und des Versorgungsrechts Grund,
@@ -891,12 +821,8 @@ der Sozialgerichtsbarkeit.
 1.  entgegen § 8 Abs. 1 Satz 5 Nr. 1 eine Auskunft nicht, nicht richtig,
     nicht vollständig oder nicht rechtzeitig erteilt oder
 
-
 2.  entgegen § 8 Abs. 1 Satz 5 Nr. 2 die erforderlichen Unterlagen nicht,
     nicht vollständig oder nicht rechtzeitig vorlegt.
-
-
-
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
 zweitausendfünfhundert Euro geahndet werden.
@@ -917,150 +843,119 @@ Ordnungswidrigkeiten.
 
 ### Anlage 1 Zusatzversorgungssysteme
 
-
 1.  Zusätzliche Altersversorgung der technischen Intelligenz, eingeführt
     mit Wirkung vom 17. August 1950.
-
 
 2.  Zusätzliche Altersversorgung der Generaldirektoren der zentral
     geleiteten Kombinate und ihnen gleichgestellte Leiter zentral
     geleiteter Wirtschaftsorganisationen, eingeführt mit Wirkung vom 1.
     Januar 1986.
 
-
 3.  Zusätzliche Altersversorgung für verdienstvolle Vorsitzende von
     Produktionsgenossenschaften und Leiter kooperativer Einrichtungen der
     Landwirtschaft, eingeführt mit Wirkung vom 1. Januar 1988.
 
-
 4.  Altersversorgung der Intelligenz an wissenschaftlichen,
     künstlerischen, pädagogischen und medizinischen Einrichtungen,
     eingeführt mit Wirkung vom 12. Juli 1951.
-
 
 5.  Altersversorgung der wissenschaftlichen Mitarbeiter der Akademie der
     Wissenschaften zu Berlin und der Deutschen Akademie der
     Landwirtschaftswissenschaften zu Berlin, eingeführt mit Wirkung vom 1.
     August 1951 bzw. 1. Januar 1952.
 
-
 6.  Altersversorgung der Ärzte, Zahnärzte, Apotheker und anderer
     Hochschulkader in konfessionellen Einrichtungen des Gesundheits- und
     Sozialwesens, eingeführt mit Wirkung vom 1. Januar 1979.
-
 
 7.  Freiwillige zusätzliche Versorgung für Ärzte, Zahnärzte, Apotheker und
     andere Hochschulkader in konfessionellen Einrichtungen des
     Gesundheits- und Sozialwesens, eingeführt mit Wirkung vom 1. Juli
     1988\.
 
-
 8.  Freiwillige zusätzliche Versorgung für Ärzte, Zahnärzte, Apotheker und
     andere Hochschulkader in staatlichen Einrichtungen des Gesundheits-
     und Sozialwesens einschließlich der Apotheker in privaten Apotheken,
     eingeführt mit Wirkung vom 1. Juli 1988.
 
-
 9.  Altersversorgung der Ärzte und Zahnärzte in eigener Praxis, eingeführt
     mit Wirkung vom 1. Januar 1959.
 
-
 10. Altersversorgung der Ärzte und Zahnärzte in privaten Einrichtungen des
     Gesundheitswesens, eingeführt mit Wirkung vom 1. Januar 1959.
-
 
 11. Freiwillige zusätzliche Versorgung für Tierärzte und andere
     Hochschulkader in Einrichtungen des staatlichen Veterinärwesens,
     eingeführt mit Wirkung vom 1. Juli 1988.
 
-
 12. Altersversorgung der Tierärzte in eigener Praxis, eingeführt mit
     Wirkung vom 1. Januar 1959.
-
 
 13. Zusätzliche Versorgung der künstlerisch Beschäftigten des Rundfunks,
     Fernsehens, Filmwesens sowie des Staatszirkusses der DDR und des VEB
     Deutsche Schallplatte, eingeführt mit Wirkung vom 1. Januar 1986.
 
-
 14. Zusätzliche Versorgung der künstlerisch Beschäftigten in Theatern,
     Orchestern und staatlichen Ensembles, eingeführt mit Wirkung vom 1.
     Januar 1986.
-
 
 15. Zusätzliche Versorgung für freiberuflich tätige Mitglieder des
     Schriftstellerverbandes der DDR, eingeführt mit Wirkung vom 1. Januar
     1988\.
 
-
 16. Zusätzliche Altersversorgung für freischaffende bildende Künstler,
     eingeführt mit Wirkung vom 1. Januar 1989.
-
 
 17. Zusätzliche Altersversorgung der Ballettmitglieder im Rahmen der
     Anordnung über die Gewährung einer berufsbezogenen Zuwendung an
     Ballettmitglieder in staatlichen Einrichtungen der DDR, eingeführt mit
     Wirkung vom 1. September 1976.
 
-
 18. Zusätzliche Versorgung der Pädagogen in Einrichtungen der Volks- und
     Berufsbildung, eingeführt mit Wirkung vom 1. September 1976.
-
 
 19. Freiwillige zusätzliche Altersversorgung für hauptamtliche Mitarbeiter
     des Staatsapparates, eingeführt mit Wirkung vom 1. März 1971.
 
-
 20. Freiwillige zusätzliche Altersversorgung für hauptamtliche Mitarbeiter
     der Gesellschaft für Sport und Technik, eingeführt mit Wirkung vom 1.
     August 1973.
-
 
 21. Freiwillige zusätzliche Altersversorgung für hauptamtliche Mitarbeiter
     gesellschaftlicher Organisationen, eingeführt mit Wirkung vom 1.
     Januar 1976, für hauptamtliche Mitarbeiter der Nationalen Front ab 1.
     Januar 1972.
 
-
 22. Freiwillige zusätzliche Funktionärsunterstützung für hauptamtliche
     Mitarbeiter der Gewerkschaft FDGB, eingeführt mit Wirkung vom 1. April
     1971\.
 
-
 23. Freiwillige zusätzliche Altersversorgung für hauptamtliche Mitarbeiter
     der LDPD, eingeführt mit Wirkung vom 1. Oktober 1971.
-
 
 24. Freiwillige zusätzliche Altersversorgung für hauptamtliche Mitarbeiter
     der CDU, eingeführt mit Wirkung vom 1. Oktober 1971.
 
-
 25. Freiwillige zusätzliche Altersversorgung für hauptamtliche Mitarbeiter
     der DBD, eingeführt mit Wirkung vom 1. Oktober 1971.
 
-
 26. Freiwillige zusätzliche Altersversorgung für hauptamtliche Mitarbeiter
     der NDPD, eingeführt mit Wirkung vom 1. Oktober 1971.
-
 
 27. Freiwillige zusätzliche Altersversorgung für hauptamtliche Mitarbeiter
     der SED/PDS, eingeführt mit Wirkung vom 1. August 1968.
 
 ### Anlage 2 Sonderversorgungssysteme
 
-
 1.  Sonderversorgung der Angehörigen der Nationalen Volksarmee, eingeführt
     mit Wirkung vom 1. Juli 1957.
-
 
 2.  Sonderversorgung der Angehörigen der Deutschen Volkspolizei, der
     Organe der Feuerwehr und des Strafvollzugs, eingeführt mit Wirkung vom
     1\. Januar 1953.
 
-
 3.  Sonderversorgung der Angehörigen der Zollverwaltung der DDR,
     eingeführt mit Wirkung vom 1. November 1970.
-
 
 4.  Sonderversorgung der Angehörigen des ehemaligen Ministeriums für
     Staatssicherheit/Amtes für Nationale Sicherheit, eingeführt mit
@@ -1071,305 +966,50 @@ Ordnungswidrigkeiten.
 Fundstelle des Originaltextes: BGBl. I 1991, 1683;
 bzgl. d. einzelnen Änderungen vgl. Fußnote
 
-*    *   Kalenderjahr
-
-    *   allgemeine Rentenversicherung Betrag in DM
-
-    *   Knappschaftliche Rentenversicherung Betrag in DM
-
-
-*    *   1950
-
-    *   7.250,03
-
-    *   8.458,36
-
-
-*    *   1951
-
-    *   6.855,84
-
-    *   7.998,48
-
-
-*    *   1.1.-31. 8.1952
-
-    *   6.781,58
-
-    *   7.911,84
-
-
-*    *   1.9.-31.12.1952
-
-    *   8.476,97
-
-    *   11.302,63
-
-
-*    *   1953
-
-    *   8.605,85
-
-    *   11.474,47
-
-
-*    *   1954
-
-    *   8.836,85
-
-    *   11.782,03
-
-
-*    *   1955
-
-    *   8.445,95
-
-    *   11.261,26
-
-
-*    *   1956
-
-    *   8.160,30
-
-    *   10.880,41
-
-
-*    *   1957
-
-    *   8.122,01
-
-    *   10.829,35
-
-
-*    *   1958
-
-    *   8.187,77
-
-    *   10.917,03
-
-
-*    *   1959
-
-    *   8.857,72
-
-    *   11.072,15
-
-
-*    *   1960
-
-    *   8.907,52
-
-    *   10.479,43
-
-
-*    *   1961
-
-    *   8.727,98
-
-    *   10.667,53
-
-
-*    *   1962
-
-    *   8.665,15
-
-    *   10.033,44
-
-
-*    *   1963
-
-    *   8.780,27
-
-    *   10.536,33
-
-
-*    *   1964
-
-    *   9.060,96
-
-    *   11.532,13
-
-
-*    *   1965
-
-    *   9.313,15
-
-    *   11.641,44
-
-
-*    *   1966
-
-    *   9.739,04
-
-    *   11.986,52
-
-
-*    *   1967
-
-    *   10.548,13
-
-    *   12.808,44
-
-
-*    *   1968
-
-    *   11.703,75
-
-    *   13.898,20
-
-
-*    *   1969
-
-    *   11.777,61
-
-    *   13.856,01
-
-
-*    *   1970
-
-    *   11.443,71
-
-    *   13.350,99
-
-
-*    *   1971
-
-    *   11.127,38
-
-    *   13.469.99
-
-
-*    *   1972
-
-    *   11.610,23
-
-    *   13.821,70
-
-
-*    *   1973
-
-    *   11.676,61
-
-    *   14.215,00
-
-
-*    *   1974
-
-    *   11.787,36
-
-    *   14.616,32
-
-
-*    *   1975
-
-    *   12.789,28
-
-    *   15.529,84
-
-
-*    *   1976
-
-    *   13.604,45
-
-    *   16.676,42
-
-
-*    *   1977
-
-    *   14.395,09
-
-    *   17.782,17
-
-
-*    *   1978
-
-    *   15.351,10
-
-    *   19.085,16
-
-
-*    *   1979
-
-    *   16.143,14
-
-    *   19.371,76
-
-
-*    *   1980
-
-    *   16.149,71
-
-    *   19.610,36
-
-
-*    *   1981
-
-    *   16.690,90
-
-    *   20.484,29
-
-
-*    *   1982
-
-    *   17.544,41
-
-    *   21.650,54
-
-
-*    *   1983
-
-    *   18.389,68
-
-    *   22.435,41
-
-
-*    *   1984
-
-    *   18.975,22
-
-    *   23.354,11
-
-
-*    *   1985
-
-    *   19.559,90
-
-    *   24.268,77
-
-
-*    *   1986
-
-    *   20.383,40
-
-    *   25.115,26
-
-
-*    *   1987
-
-    *   21.015,12
-
-    *   26.176,72
-
-
-*    *   1988
-
-    *   22.235,26
-
-    *   27.052,90
-
-
-*    *   1989
-
-    *   22.641,51
-
-    *   27.837,92
-
-
-*    *   1.1-30.6.1990
-
-    *   24.619,65
-
-    *   30.481,48
+| Kalenderjahr    | allgemeine Rentenversicherung Betrag in DM | Knappschaftliche Rentenversicherung Betrag in DM |
+| --------------- | :----------------------------------------: | :----------------------------------------------: |
+| 1950            |                  7.250,03                  |                     8.458,36                     |
+| 1951            |                  6.855,84                  |                     7.998,48                     |
+| 1.1.-31. 8.1952 |                  6.781,58                  |                     7.911,84                     |
+| 1.9.-31.12.1952 |                  8.476,97                  |                    11.302,63                     |
+| 1953            |                  8.605,85                  |                    11.474,47                     |
+| 1954            |                  8.836,85                  |                    11.782,03                     |
+| 1955            |                  8.445,95                  |                    11.261,26                     |
+| 1956            |                  8.160,30                  |                    10.880,41                     |
+| 1957            |                  8.122,01                  |                    10.829,35                     |
+| 1958            |                  8.187,77                  |                    10.917,03                     |
+| 1959            |                  8.857,72                  |                    11.072,15                     |
+| 1960            |                  8.907,52                  |                    10.479,43                     |
+| 1961            |                  8.727,98                  |                    10.667,53                     |
+| 1962            |                  8.665,15                  |                    10.033,44                     |
+| 1963            |                  8.780,27                  |                    10.536,33                     |
+| 1964            |                  9.060,96                  |                    11.532,13                     |
+| 1965            |                  9.313,15                  |                    11.641,44                     |
+| 1966            |                  9.739,04                  |                    11.986,52                     |
+| 1967            |                 10.548,13                  |                    12.808,44                     |
+| 1968            |                 11.703,75                  |                    13.898,20                     |
+| 1969            |                 11.777,61                  |                    13.856,01                     |
+| 1970            |                 11.443,71                  |                    13.350,99                     |
+| 1971            |                 11.127,38                  |                    13.469.99                     |
+| 1972            |                 11.610,23                  |                    13.821,70                     |
+| 1973            |                 11.676,61                  |                    14.215,00                     |
+| 1974            |                 11.787,36                  |                    14.616,32                     |
+| 1975            |                 12.789,28                  |                    15.529,84                     |
+| 1976            |                 13.604,45                  |                    16.676,42                     |
+| 1977            |                 14.395,09                  |                    17.782,17                     |
+| 1978            |                 15.351,10                  |                    19.085,16                     |
+| 1979            |                 16.143,14                  |                    19.371,76                     |
+| 1980            |                 16.149,71                  |                    19.610,36                     |
+| 1981            |                 16.690,90                  |                    20.484,29                     |
+| 1982            |                 17.544,41                  |                    21.650,54                     |
+| 1983            |                 18.389,68                  |                    22.435,41                     |
+| 1984            |                 18.975,22                  |                    23.354,11                     |
+| 1985            |                 19.559,90                  |                    24.268,77                     |
+| 1986            |                 20.383,40                  |                    25.115,26                     |
+| 1987            |                 21.015,12                  |                    26.176,72                     |
+| 1988            |                 22.235,26                  |                    27.052,90                     |
+| 1989            |                 22.641,51                  |                    27.837,92                     |
+| 1.1-30.6.1990   |                 24.619,65                  |                    30.481,48                     |
 
 ### Anlage 4
 
@@ -1380,428 +1020,94 @@ bzgl. d. einzelnen Änderungen vgl. Fußnote
 Fundstelle des Originaltextes: BGBl. I 1991, 1683 - 1684;
 bzgl. der einzelnen Änderungen vgl. Fußnote
 
-*    *   Kalenderjahr
-
-    *   Betrag in DM
-
-
-*    *   1950
-
-    *   3.183,00
-
-
-*    *   1951
-
-    *   3.408,00
-
-
-*    *   1952
-
-    *   3.628,00
-
-
-*    *   1953
-
-    *   3.883,00
-
-
-*    *   1954
-
-    *   4.157,00
-
-
-*    *   1955
-
-    *   4.268,00
-
-
-*    *   1956
-
-    *   4.392,00
-
-
-*    *   1957
-
-    *   4.551,00
-
-
-*    *   1958
-
-    *   4.849,00
-
-
-*    *   1959
-
-    *   5.169,00
-
-
-*    *   1960
-
-    *   5.328,00
-
-
-*    *   1961
-
-    *   5.433,00
-
-
-*    *   1962
-
-    *   5.570,00
-
-
-*    *   1963
-
-    *   5.689,00
-
-
-*    *   1964
-
-    *   5.812,00
-
-
-*    *   1965
-
-    *   5.969,00
-
-
-*    *   1966
-
-    *   6.176,00
-
-
-*    *   1967
-
-    *   6.416,00
-
-
-*    *   1968
-
-    *   6.609,00
-
-
-*    *   1969
-
-    *   6.835,00
-
-
-*    *   1970
-
-    *   7.069,00
-
-
-*    *   1971
-
-    *   7.287,00
-
-
-*    *   1972
-
-    *   7.526,00
-
-
-*    *   1973
-
-    *   7.740,00
-
-
-*    *   1974
-
-    *   8.008,00
-
-
-*    *   1975
-
-    *   8.301,00
-
-
-*    *   1976
-
-    *   8.534,00
-
-
-*    *   1977
-
-    *   8.801,00
-
-
-*    *   1978
-
-    *   9.073,00
-
-
-*    *   1979
-
-    *   9.311,00
-
-
-*    *   1980
-
-    *   9.448,00
-
-
-*    *   1981
-
-    *   9.768,00
-
-
-*    *   1982
-
-    *   10.016,00
-
-
-*    *   1983
-
-    *   10.204,00
-
-
-*    *   1984
-
-    *   10.428,00
-
-
-*    *   1985
-
-    *   10.651,00
-
-
-*    *   1986
-
-    *   11.110,00
-
-
-*    *   1987
-
-    *   11.591,00
-
-
-*    *   1988
-
-    *   12.012,00
-
-
-*    *   1989
-
-    *   12.392,00
-
-
-*    *   1.1.-30.6.1990
-
-    *   13.660,00
+| Kalenderjahr   | Betrag in DM |
+| -------------- | :----------: |
+| 1950           |   3.183,00   |
+| 1951           |   3.408,00   |
+| 1952           |   3.628,00   |
+| 1953           |   3.883,00   |
+| 1954           |   4.157,00   |
+| 1955           |   4.268,00   |
+| 1956           |   4.392,00   |
+| 1957           |   4.551,00   |
+| 1958           |   4.849,00   |
+| 1959           |   5.169,00   |
+| 1960           |   5.328,00   |
+| 1961           |   5.433,00   |
+| 1962           |   5.570,00   |
+| 1963           |   5.689,00   |
+| 1964           |   5.812,00   |
+| 1965           |   5.969,00   |
+| 1966           |   6.176,00   |
+| 1967           |   6.416,00   |
+| 1968           |   6.609,00   |
+| 1969           |   6.835,00   |
+| 1970           |   7.069,00   |
+| 1971           |   7.287,00   |
+| 1972           |   7.526,00   |
+| 1973           |   7.740,00   |
+| 1974           |   8.008,00   |
+| 1975           |   8.301,00   |
+| 1976           |   8.534,00   |
+| 1977           |   8.801,00   |
+| 1978           |   9.073,00   |
+| 1979           |   9.311,00   |
+| 1980           |   9.448,00   |
+| 1981           |   9.768,00   |
+| 1982           |  10.016,00   |
+| 1983           |  10.204,00   |
+| 1984           |  10.428,00   |
+| 1985           |  10.651,00   |
+| 1986           |  11.110,00   |
+| 1987           |  11.591,00   |
+| 1988           |  12.012,00   |
+| 1989           |  12.392,00   |
+| 1.1.-30.6.1990 |  13.660,00   |
 
 ### Anlage 6 Jahreshöchstverdienst nach § 7
 
 Fundstelle des Originaltextes: BGBl. I 2001, 1940
 
-*    *   Kalenderjahr
-
-    *   Betrag in Deutsche Mark
-
-
-*    *   1950
-
-    *   3.183,00
-
-
-*    *   1951
-
-    *   3.408,00
-
-
-*    *   1952
-
-    *   3.628,00
-
-
-*    *   1953
-
-    *   3.883,00
-
-
-*    *   1954
-
-    *   4.157,00
-
-
-*    *   1955
-
-    *   4.268,00
-
-
-*    *   1956
-
-    *   4.392,00
-
-
-*    *   1957
-
-    *   4.551,00
-
-
-*    *   1958
-
-    *   4.849,00
-
-
-*    *   1959
-
-    *   5.169,00
-
-
-*    *   1960
-
-    *   5.328,00
-
-
-*    *   1961
-
-    *   5.433,00
-
-
-*    *   1962
-
-    *   5.570,00
-
-
-*    *   1963
-
-    *   5.689,00
-
-
-*    *   1964
-
-    *   5.812,00
-
-
-*    *   1965
-
-    *   5.969,00
-
-
-*    *   1966
-
-    *   6.176,00
-
-
-*    *   1967
-
-    *   6.416,00
-
-
-*    *   1968
-
-    *   6.609,00
-
-
-*    *   1969
-
-    *   6.835,00
-
-
-*    *   1970
-
-    *   7.069,00
-
-
-*    *   1971
-
-    *   7.287,00
-
-
-*    *   1972
-
-    *   7.526,00
-
-
-*    *   1973
-
-    *   7.740,00
-
-
-*    *   1974
-
-    *   8.008,00
-
-
-*    *   1975
-
-    *   8.301,00
-
-
-*    *   1976
-
-    *   8.534,00
-
-
-*    *   1977
-
-    *   8.801,00
-
-
-*    *   1978
-
-    *   9.073,00
-
-
-*    *   1979
-
-    *   9.311,00
-
-
-*    *   1980
-
-    *   9.448,00
-
-
-*    *   1981
-
-    *   9.768,00
-
-
-*    *   1982
-
-    *   10.016,00
-
-
-*    *   1983
-
-    *   10.204,00
-
-
-*    *   1984
-
-    *   10.428,00
-
-
-*    *   1985
-
-    *   10.651,00
-
-
-*    *   1986
-
-    *   11.110,00
-
-
-*    *   1987
-
-    *   11.591,00
-
-
-*    *   1988
-
-    *   12.012,00
-
-
-*    *   1989
-
-    *   12.392,00
-
-
-*    *   1. Januar bis 17. März 1990
-
-    *   13.660,00
-
-
-
-
+| Kalenderjahr                | Betrag in Deutsche Mark |
+| --------------------------- | :---------------------: |
+| 1950                        |        3.183,00         |
+| 1951                        |        3.408,00         |
+| 1952                        |        3.628,00         |
+| 1953                        |        3.883,00         |
+| 1954                        |        4.157,00         |
+| 1955                        |        4.268,00         |
+| 1956                        |        4.392,00         |
+| 1957                        |        4.551,00         |
+| 1958                        |        4.849,00         |
+| 1959                        |        5.169,00         |
+| 1960                        |        5.328,00         |
+| 1961                        |        5.433,00         |
+| 1962                        |        5.570,00         |
+| 1963                        |        5.689,00         |
+| 1964                        |        5.812,00         |
+| 1965                        |        5.969,00         |
+| 1966                        |        6.176,00         |
+| 1967                        |        6.416,00         |
+| 1968                        |        6.609,00         |
+| 1969                        |        6.835,00         |
+| 1970                        |        7.069,00         |
+| 1971                        |        7.287,00         |
+| 1972                        |        7.526,00         |
+| 1973                        |        7.740,00         |
+| 1974                        |        8.008,00         |
+| 1975                        |        8.301,00         |
+| 1976                        |        8.534,00         |
+| 1977                        |        8.801,00         |
+| 1978                        |        9.073,00         |
+| 1979                        |        9.311,00         |
+| 1980                        |        9.448,00         |
+| 1981                        |        9.768,00         |
+| 1982                        |        10.016,00        |
+| 1983                        |        10.204,00        |
+| 1984                        |        10.428,00        |
+| 1985                        |        10.651,00        |
+| 1986                        |        11.110,00        |
+| 1987                        |        11.591,00        |
+| 1988                        |        12.012,00        |
+| 1989                        |        12.392,00        |
+| 1. Januar bis 17. März 1990 |        13.660,00        |
